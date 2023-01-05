@@ -10,7 +10,7 @@ The programs to be developed by the States may include only the following activi
 
 &emsp;(1) Preparing and distributing information on the health effects of radiation to health care professionals, and to persons who may have been exposed to radiation.
 
-&emsp;(2) Developing and implementing mechanisms for referring persons who may have been exposed to radiation to health care professionals with expertise in the health effects of radiation.
+&emsp;(2) Developing and implementing mechanisms for referring persons who may have beenexposed to radiation to health care professionals with expertise in the health effects of radiation.
 
 &emsp;(3) Evaluating and, if feasible, implementing, registration and monitoring of persons who may have been exposed to radiation released from the Hanford Nuclear Reservation.
 
@@ -62,7 +62,7 @@ The programs to be developed by the States may include only the following activi
 
 #### References in Text
 
-Title XXXI of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (a), is title XXXI of div. C of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1824, as amended. For complete classification of title XXXI to the Code, see Tables.
+Title XXXI of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (a), is title XXXI of div. C of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1824. For complete classification of title XXXI to the Code, see Tables.
 
 #### Amendments
 

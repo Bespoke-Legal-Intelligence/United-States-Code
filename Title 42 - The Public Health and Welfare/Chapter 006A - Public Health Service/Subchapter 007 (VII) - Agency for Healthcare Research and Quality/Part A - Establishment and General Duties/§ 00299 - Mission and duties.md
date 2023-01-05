@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-There is established within the Public Health Service an agency to be known as the Agency for Healthcare Research and Quality, which shall be headed by a director appointed by the Secretary. The Secretary shall carry out this subchapter acting through the Director.
+There is established within the Public Health Service an agency to be known as the Agencyfor Healthcare Research and Quality, which shall be headed by a director appointed by the Secretary. The Secretary shall carry out this subchapter acting through the Director.
 
 #### (b) Mission
 
-The purpose of the Agency is to enhance the quality, appropriateness, and effectiveness of health services, and access to such services,through the establishment of a broad base of scientific research and through the promotion of improvements in clinical and health system practices, including the prevention of diseases and other health conditions. The Agency shall promote health care quality improvement by conducting and supporting—
+The purpose of the Agency is to enhance the quality, appropriateness, and effectiveness of health services, and access to such services, through the establishment of a broad base of scientific research and through the promotion of improvements in clinical and health system practices, including the prevention of diseases and other health conditions. The Agency shall promote health care quality improvement by conducting and supporting—
 
 &emsp;(1) research that develops and presents scientific evidence regarding all aspects of health care, including—
 
@@ -94,7 +94,7 @@ Pub. L. 110–275, title III, §304(b), July 15, 2008, 122 Stat. 2595, as amende
 
 "(1)
 
-Study.—Not later than 60 days after the date of the enactment of this Act \[July 15, 2008\], the Secretary of Health and Human Services shall enter into a contract with the Institute of Medicine of the National Academies (in this section \[this note\] referred to as the 'Institute') under which the Institute shall conduct astudy on the best methods used in developing clinical practice guidelines in order to ensure that organizations developing such guidelines have information on approaches that are objective, scientifically valid, and consistent.
+Study.—Not later than 60 days after the date of the enactment of this Act \[July 15, 2008\], the Secretary of Health and Human Services shall enter into a contract with the Institute of Medicine of the National Academies (in this section \[this note\] referred to as the 'Institute') under which the Institute shall conduct a study on the best methods used in developing clinical practice guidelines in order to ensure that organizations developing such guidelines have information on approaches that are objective, scientifically valid, and consistent.
 
 "(2)
 
@@ -168,5 +168,5 @@ Pub. L. 108–173, title X, §1014, Dec. 8, 2003, 117 Stat. 2441, directed the S
 
 #### Executive Order No. 13017
 
-Ex. Ord. No. 13017, Sept. 5, 1996, 61 F.R. 47659, as amended by Ex. Ord. No. 13040, Mar. 25, 1997, 62 F.R. 14773; Ex. Ord. No. 13056, July 21, 1997, 62 F.R. 39415, which established the Advisory Commission on Consumer Protection and Quality in the Health Care Industry, was revoked by Ex. Ord. No. 13138, §3(a), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13017, Sept. 5, 1996, 61 F.R. 47659, as amended by Ex. Ord. No. 13040, Mar. 25, 1997, 62 F.R. 14773; Ex. Ord. No. 13056, July 21, 1997, 62 F.R. 39415, which established the Advisory Commission on Consumer Protection and Quality in the Health Care Industry, was revoked by Ex. Ord. No. 13138, §3(a), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 

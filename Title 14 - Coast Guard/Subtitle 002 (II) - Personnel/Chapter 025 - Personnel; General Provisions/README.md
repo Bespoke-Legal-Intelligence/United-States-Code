@@ -18,6 +18,8 @@
 | [2512\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002512%20-%20Leave%20policies%20for%20the%20Coast%20Guard.md) | Leave policies for the Coast Guard. |
 | [2513\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002513%20-%20Computation%20of%20length%20of%20service.md) | Computation of length of service. |
 | [2514\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002514%20-%20Career%20flexibility%20to%20enhance%20retention%20of%20members.md) | Career flexibility to enhance retention of members. |
+| [2515\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002515%20-%20Calculation%20of%20active%20service.md) | Calculation of active service. |
+| [2516\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002516%20-%20Members%20asserting%20post-traumatic%20stress%20disorder%20or%20traumatic%20brain%20injury.md) | Members asserting post-traumatic stress disorder or traumatic brain injury. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -29,14 +31,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER III—LIGHTHOUSE SERVICE
+#### \[SUBCHAPTER III—REPEALED\]
 
 |  |  |
 | :--- | ---: |
-| [2531\.](Subchapter%20003%20%28III%29%20-%20Lighthouse%20Service/%C2%A7%2002531%20-%20Personnel%20of%20former%20Lighthouse%20Service.md) | Personnel of former Lighthouse Service. |
-| [2532\.](Subchapter%20003%20%28III%29%20-%20Lighthouse%20Service/%C2%A7%2002532%20-%20Retirement%20of%20employees.md) | Retirement of employees. |
-| [2533\.](Subchapter%20003%20%28III%29%20-%20Lighthouse%20Service/%C2%A7%2002533%20-%20Surviving%20spouses.md) | Surviving spouses. |
-| [2534\.](Subchapter%20003%20%28III%29%20-%20Lighthouse%20Service/%C2%A7%2002534%20-%20Application%20for%20benefits.md) | Application for benefits. |
+| \[2531 to 2534. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -48,7 +47,11 @@ A prior analysis for chapter 25 "GENERAL PROVISIONS FOR COAST GUARD RESERVE AND 
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §§8204(b), 8215(c)(3), title LVXXXV \[LXXXV\], §§8510(c),8511(c), Jan. 1, 2021, 134 Stat. 4648, 4652, 4758, 4759, added item 2514, substituted "ADVISORY BOARD ON WOMEN IN THE COAST GUARD" for "LIGHTHOUSE SERVICE" in item for subchapter II and added item 2521, inserted item for subchapter III before item 2531, and added items 2532 to 2534. Item 2514 was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding that item to the analysis for subchapter I of this chapter.
+<b>2022</b>—Pub. L. 117–263, div. K, title CXIV, §11410(b), title CXVIII, §11808(a)(18), Dec. 23, 2022, 136 Stat. 4117, 4166, added item 2516 and struck out item for subchapter III "LIGHTHOUSE SERVICE" and items 2531 "Personnel of former Lighthouse Service", 2532 "Retirement of employees", 2533 "Surviving spouses", and 2534 "Application for benefits".
+
+Pub. L. 117–263, div. K, title CXII, §11242(b), Dec. 23, 2022, 136 Stat. 4040, which directed amendment of the analysis for this chapter by adding item 2515 "after the item relating to section 2515", was executed by adding item 2515 after item 2514 to reflect the probable intent of Congress.
+
+<b>2021</b>—Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §§8204(b), 8215(c)(3), title LVXXXV \[LXXXV\], §§8510(c), 8511(c), Jan. 1, 2021, 134 Stat. 4648, 4652, 4758, 4759, added item 2514, substituted "ADVISORY BOARD ON WOMEN IN THE COAST GUARD" for "LIGHTHOUSE SERVICE" in item for subchapter II and added item 2521, inserted item for subchapter III before item 2531, and added items 2532 to 2534. Item 2514 was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding that item to the analysis for subchapter I of this chapter.
 
 <b>2018</b>—Pub. L. 115–282, title I, §114(a), Dec. 4, 2018, 132 Stat. 4223, inserted chapter 25 designation and heading and added items 2501 to 2531.
 
@@ -59,4 +62,4 @@ A prior analysis for chapter 25 "GENERAL PROVISIONS FOR COAST GUARD RESERVE AND 
 
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
 - [Subchapter 002 (II) - Advisory Board on Women in the Coast Guard](Subchapter%20002%20%28II%29%20-%20Advisory%20Board%20on%20Women%20in%20the%20Coast%20Guard/README.md)
-- [Subchapter 003 (III) - Lighthouse Service](Subchapter%20003%20%28III%29%20-%20Lighthouse%20Service/README.md)
+- [Subchapter 003 (III) - Repealed](Subchapter%20003%20%28III%29%20-%20Repealed/README.md)

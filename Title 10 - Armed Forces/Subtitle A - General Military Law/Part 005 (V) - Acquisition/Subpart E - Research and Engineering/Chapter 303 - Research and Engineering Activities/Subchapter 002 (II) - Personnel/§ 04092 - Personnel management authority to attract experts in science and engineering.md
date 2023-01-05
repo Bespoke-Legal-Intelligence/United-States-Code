@@ -18,7 +18,7 @@ DOTE.—The Director of the Office of Operational Test and Evaluation may carry 
 
 &emsp;(4)
 
-Strategic capabilities office.—The Director of the Strategic Capabilities Office may carry out a program of personnel managementauthority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Office.
+Strategic capabilities office.—The Director of the Strategic Capabilities Office may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Office.
 
 &emsp;(5)
 
@@ -26,7 +26,7 @@ DIU.—The Director of the Defense Innovation Unit may carry out a program of pe
 
 &emsp;(6)
 
-Joint artificial intelligence center.—The Director of the Joint Artificial Intelligence Center may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Center. The authority to carry out the program under this paragraph shall terminate on December 31, 2024.
+Joint artificial intelligence.—The official designated under section 238(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering to support the activities of such official under section 238 of such Act. The authority to carry out the program under this paragraph shall terminate on December 31, 2024.
 
 &emsp;(7)
 
@@ -34,11 +34,15 @@ NGA.—The Director of the National Geospatial-Intelligence Agency may carry out
 
 &emsp;(8)
 
-SDA.—The Director of the Space Development Agency may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects and to enhance the administration and management of the Agency. The authority to carry out the program under this paragraph shall terminate on December 31, 2025.
+SDA.—The Director of the Space Development Agency may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for research and development projects and to enhance the administration and management of the Agency. The authority to carry out the program under this paragraph shall terminate on December 31, 2030.
 
 &emsp;(9)
 
 United states cyber command.—The Commander of United States Cyber Command may carry out a program of personnel management authority provided in subsection (b) in order to facilitate the recruitment of eminent experts in computer science, data science, engineering, mathematics, and computer network exploitation within the headquarters of United States Cyber Command and the Cyber National Mission Force.
+
+&emsp;(10)
+
+Office of the under secretary of defense for research and engineering.—The Under Secretary of Defense for Research and Engineering may carry out a program of personnel management authority provided in subsection (b) in order to facilitate recruitment of eminent experts in science or engineering for the Office of the Under Secretary.
 
 (b)
 
@@ -56,23 +60,27 @@ Personnel Management Authority.—Under a program under subsection (a), the offi
 
 &emsp;&emsp;(E) in the case of the Defense Innovation Unit, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Unit;
 
-&emsp;&emsp;(F) in the case of the Joint Artificial Intelligence Center, appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in the Center;
+&emsp;&emsp;(F) in the case of the office of the official designated under section 238(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232), appoint scientists and engineers to a total of not more than 5 scientific and engineering positions in support of the activities of such official under section 238 of such Act;
 
 &emsp;&emsp;(G) in the case of the National Geospatial-Intelligence Agency, appoint individuals to a total of not more than 7 positions in the Agency, of which not more than 2 such positions may be positions of administration or management in the Agency;
 
-&emsp;&emsp;(H) in the case of the Space Development Agency, appoint individuals to a total of not more than 10 positions in the Agency, of which not more than 3 such positions may be positions of administration or management of the Agency; and
+&emsp;&emsp;(H) in the case of the Space Development Agency, appoint individuals to a total of not more than 15 positions in the Agency, of which not more than 5 such positions may be positions of administration or management of the Agency;
 
-&emsp;&emsp;(I) in the case of United States Cyber Command, appoint computer scientists, data scientists, engineers, mathematicians, and computer network exploitation specialists to a total of not more than 10 scientific and engineering positions in the Command;
+&emsp;&emsp;(I) in the case of United States Cyber Command, appoint computer scientists, data scientists, engineers, mathematicians, and computer network exploitation specialists to a total of not more than 10 scientific and engineering positions in the Command; and
+
+&emsp;&emsp;(J) in the case of the Office of the Under Secretary of Defense for Research and Engineering, appoint scientists and engineers to a total of not more than 10 scientific and engineering positions in the Office;
 
 &emsp;(2) notwithstanding any provision of title 5 governing the rates of pay or classification of employees in the executive branch, prescribe the rates of basic pay for positions to which employees are appointed under paragraph (1)—
 
-&emsp;&emsp;(A) in the case of employees appointed pursuant to paragraph (1)(B)—
+&emsp;&emsp;(A) in the case of employees appointed pursuant to subparagraphs (B) and (H) of paragraph (1)—
 
-&emsp;&emsp;&emsp;(i) to any of 5 positions designated by the Director of the Defense Advanced Research Projects Agency for purposes of this clause, at rates not in excess of a rate equal to 150 percent of the maximum rate of basic pay authorized for positions at Level I of the Executive Schedule under section 5312 of title 5; and
+&emsp;&emsp;&emsp;(i) to any of the 5 positions designated by the Director of the Defense Advanced Research Projects Agency and any of the 5 positions designated by the Director of the Space Development Agency for purposes of this clause, at rates not in excess of a rate equal to 150 percent of the maximum rate of basic pay authorized for positions at Level I of the Executive Schedule under section 5312 of title 5; and
 
-&emsp;&emsp;&emsp;(ii) to any other position designated by the Director for purposes of this clause, at rates not in excess of the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3;
+&emsp;&emsp;&emsp;(ii) to any other position designated by the Director of the Defense Advanced Research Projects Agency or the Director of the Space Development Agency for purposes of this clause, at rates not in excess of the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3;
 
-&emsp;&emsp;(B) in the case of any other employee appointed pursuant to paragraph (1), at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under section 5376 of title 5;
+&emsp;&emsp;(B) in the case of employees appointed pursuant to paragraph (1)(G), to any of 2 positions of administration or management designated by the Director of the National Geospatial-Intelligence Agency for purposes of this subparagraph; and
+
+&emsp;&emsp;(C) in the case of any other employee appointed pursuant to paragraph (1), at rates not in excess of the maximum rate of basic pay authorized for senior-level positions under section 5376 of title 5;
 
 &emsp;(3) pay any employee appointed under paragraph (1), other than an employee appointed to a position designated as described in paragraph (2)(A), payments in addition to basic pay within the limit applicable to the employee under subsection (d); and
 
@@ -88,17 +96,45 @@ In general.—Except as provided in paragraph (2), the service of an employee un
 
 &emsp;(2)
 
-Extension.—The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, the Office of Operational Test and Evaluation, the Strategic Capabilities Office, the Defense Innovation Unit, the Joint Artificial Intelligence Center, or the National Geospatial-Intelligence Agency, as applicable.
+Extension.—The official responsible for the administration of a program under subsection (a) may, in the case of a particular employee under the program, extend the period to which service is limited under paragraph (1) by up to two years if the official determines that such action is necessary to promote the efficiency of a laboratory of a military department, the Defense Advanced Research Projects Agency, the Office of Operational Test and Evaluation, the Strategic Capabilities Office, the Defense Innovation Unit, the the <sup>1</sup> activities under section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232), the Space Development Agency, or the National Geospatial-Intelligence Agency, as applicable.
 
 (d)
 
 Maximum Amount of Additional Payments Payable.—Notwithstanding any other provision of this section or section 5307 of title 5, no additional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee's total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3.
 
-(Added Pub. L. 114–328, div. A, title XI, §1121(a)(1), Dec. 23, 2016, 130 Stat. 2451, §1599h; amended Pub. L. 115–232, div. A, title XI, §1111, Aug. 13, 2018, 132 Stat. 2011; Pub. L. 116–92, div. A, title II, §212, title XI, §1101, Dec. 20, 2019, 133 Stat. 1255, 1595; Pub. L. 116–260, div. W, title IV, §402, Dec. 27, 2020, 134 Stat. 2377; Pub. L. 116–283, div. A, title XVI, §1602, title XVII, §1708(a), Jan. 1, 2021, 134 Stat. 4042, 4085; renumbered §4092, Pub. L. 116–283, div. A, title XVIII, §1843(a), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), Dec. 27, 2021, 135 Stat. 2153; Pub. L. 117–81, div. A, title X, §1081(a)(21), title XI, §1107, Dec. 27, 2021, 135 Stat. 1920, 1951.)
+(Added Pub. L. 114–328, div. A, title XI, §1121(a)(1), Dec. 23, 2016, 130 Stat. 2451, §1599h; amended Pub. L. 115–232, div. A, title XI, §1111, Aug. 13, 2018, 132 Stat. 2011; Pub. L. 116–92, div. A, title II, §212, title XI, §1101, Dec. 20, 2019, 133 Stat. 1255, 1595; Pub. L. 116–260, div. W, title IV, §402, Dec. 27, 2020, 134 Stat. 2377; Pub. L. 116–283, div. A, title XVI, §1602, title XVII, §1708(a), Jan. 1, 2021, 134 Stat. 4042, 4085; renumbered §4092, Pub. L. 116–283, div. A, title XVIII, §1843(a), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), Dec. 27, 2021, 135 Stat. 2153; Pub. L. 117–81, div. A, title X, §1081(a)(21), title XI, §1107, Dec. 27, 2021, 135 Stat. 1920, 1951; Pub. L. 117–103, div. X, title IV, §412, Mar. 15, 2022, 136 Stat. 976; Pub. L. 117–263, div. A, title II, §§212(a), 213, title XI, §1109, Dec. 23, 2022, 136 Stat. 2466, 2471, 2819.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, referred to in subsecs. (a)(6), (b)(1)(F), and (c)(2), is section 238 of Pub. L. 115–232, which is set out as a note preceding section 4061 of this title.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(6). Pub. L. 117–263, §212(a)(1), in heading, struck out "center" after "intelligence", and in text, substituted "official designated under section 238(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232)" for "Director of the Joint Artificial Intelligence Center" and "to support the activities of such official under section 238 of such Act" for "for the Center".
+
+Subsec. (a)(8). Pub. L. 117–263, §1109(1), substituted "December 31, 2030" for "December 31, 2025".
+
+Subsec. (a)(10). Pub. L. 117–263, §213(1), added par. (10).
+
+Subsec. (b)(1)(F). Pub. L. 117–263, §212(a)(2), substituted "office of the official designated under section 238(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232)" for "Joint Artificial Intelligence Center" and "in support of the activities of such official under section 238 of such Act" for "in the Center".
+
+Subsec. (b)(1)(H). Pub. L. 117–263, §1109(2)(A), substituted "15 positions" for "10 positions" and "5 such positions" for "3 such positions".
+
+Subsec. (b)(1)(J). Pub. L. 117–263, §213(2), added subpar. (J).
+
+Subsec. (b)(2)(A). Pub. L. 117–263, §1109(2)(B)(i), substituted "subparagraphs (B) and (H) of paragraph (1)" for "paragraph (1)(B)" in introductory provisions.
+
+Subsec. (b)(2)(A)(i). Pub. L. 117–263, §1109(2)(B)(ii), substituted "to any of the" for "to any of" and inserted "and any of the 5 positions designated by the Director of the Space Development Agency" after "Projects Agency".
+
+Subsec. (b)(2)(A)(ii). Pub. L. 117–263, §1109(2)(B)(iii), substituted "the Director of the Defense Advanced Research Projects Agency or the Director of the Space Development Agency" for "the Director".
+
+Subsec. (b)(2)(B), (C). Pub. L. 117–103 added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (c)(2). Pub. L. 117–263, §1109(3), which directed amendment of par. (2) by inserting "the Space Development Agency," after "Intelligence Center,", was executed by making the insertion after "the activities under section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232)," to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–263, §212(a)(3). See below.
+
+Pub. L. 117–263, §212(a)(3), substituted "the activities under section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232)" for "Joint Artificial Intelligence Center".
 
 <b>2021</b>—Pub. L. 116–283, §1843(a), as added by Pub. L. 117–81, §1701(u)(4)(A), renumbered section 1599h of this title as this section.
 
@@ -164,7 +200,7 @@ Pub. L. 116–283, div. A, title XVII, §1708(b), Jan. 1, 2021, 134 Stat. 4085, 
 
 "(1)
 
-In general.—Pursuant to the authority provided under section 1599h(a)(8) of title 10, United States Code \[now 10 U.S.C. 4092(a)(8)\], as added by subsection (a), the Commander of United States Cyber Command shall establish a program or augment an existing program within the Command to develop accesses, discover vulnerabilities, and engineer cyber tools and develop tactics, techniques, and procedures for the use of these assets and capabilities in offensive cyber operations.
+In general.—Pursuant to the authority provided under section 1599h(a)(8) of title 10, United States Code, as added by subsection (a), \[now 10 U.S.C. 4092(a)(9)\] the Commander of United States Cyber Command shall establish a program or augment an existing program within the Command to develop accesses, discover vulnerabilities, and engineer cyber tools and develop tactics, techniques, and procedures for the use of these assets and capabilities in offensive cyber operations.
 
 "(2)
 
@@ -182,7 +218,7 @@ Elements.—The program or augmented program required by paragraph (1) shall—
 
 "(3)
 
-Intelligence community defined.—In this subsection, the term 'intelligence community' has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)."
+Intelligence community defined.—In this subsection, the term 'intelligence community' has themeaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)."
 
 #### Guidance and Direction on Use of Direct Hiring Processes for Artificial Intelligence Professionals and Other Data Science and Software Development Personnel
 
@@ -243,4 +279,6 @@ In general.—Any individual employed as of the date of the enactment of this Ac
 "(2)
 
 Date of appointment.—For purposes of subsection (c) of section 1599h of title 10, United States Code \[now 10 U.S.C. 4092(c)\] (as so added), the date of the appointment of any employee who remains employed as described in paragraph (1) shall be the date of the appointment of such employee under section 1101(b)(1) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (5 U.S.C. 3104 note) (as so in effect)."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

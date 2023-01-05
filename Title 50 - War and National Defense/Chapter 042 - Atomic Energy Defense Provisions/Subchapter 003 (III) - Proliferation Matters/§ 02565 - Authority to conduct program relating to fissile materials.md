@@ -2,7 +2,7 @@
 
 The Secretary of Energy may conduct programs designed to improve the protection, control, and accountability of fissile materials in Russia.
 
-(Pub. L. 107–314, div. D, title XLIII, §4305, formerly Pub. L. 104–106, div. C, title XXXI, §3131, Feb. 10, 1996, 110 Stat. 617; Pub. L. 107–314, div. C, title XXXI, §3152, Dec. 2, 2002, 116 Stat. 2738; renumbered Pub. L. 107–314, div. D, title XLIII, §4305, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(6), Nov. 24, 2003, 117 Stat. 1763.)
+(Pub. L. 107–314, div. D, title XLIII, §4305, formerly Pub. L. 104–106, div. C, title XXXI, §3131, Feb. 10, 1996, 110 Stat. 617; Pub. L. 107–314, div. C, title XXXI, §3152, Dec. 2, 2002, 116 Stat. 2738; renumbered Pub. L. 107–314, div. D, title XLIII,§4305, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(6), Nov. 24, 2003, 117 Stat. 1763.)
 
 #### <b>Editorial Notes</b>
 

@@ -16,7 +16,7 @@
 
 #### (A) Period of availability
 
-&emsp;&emsp;Amounts made available under paragraph (1) shall remain available for making grantsonly for the first fiscal year for which the amount is made available and the following fiscal year.
+&emsp;&emsp;Amounts made available under paragraph (1) shall remain available for making grants only for the first fiscal year for which the amount is made available and the following fiscal year.
 
 #### (B) Apportionment
 
@@ -88,23 +88,21 @@
 
 A grant under this section shall not be used, in whole or in part, for an activity, project, or program that promotes or encourages opposition to the regulated hunting or trapping of wildlife or to recreational shooting activities.
 
-#### (e) Nonapplicability of Federal Advisory Committee Act
+#### (e) Nonapplicability of chapter 10 of title 5
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.
+Chapter 10 of title 5 shall not apply to any activity carried out under this section.
 
-(Sept. 2, 1937, ch. 899, §11, as added Pub. L. 106–408, title I, §113, Nov. 1, 2000, 114 Stat. 1767; amended Pub. L. 116–94, div. P, title V, §501(g)(1), Dec. 20, 2019, 133 Stat. 3193.)
+(Sept. 2, 1937, ch. 899, §11, as added Pub. L. 106–408, title I, §113, Nov. 1, 2000, 114 Stat. 1767; amended Pub. L. 116–94, div. P, title V, §501(g)(1), Dec. 20, 2019, 133 Stat. 3193; Pub. L. 117–286, §4(a)(101), Dec. 27, 2022, 136 Stat. 4316.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
 A prior section 11 of act Sept. 2, 1937, was classified to section 669j of this title prior to repeal by act Aug. 7, 1946.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–286 substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–94, §501(g)(1)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
@@ -120,7 +118,7 @@ Subsec. (d). Pub. L. 116–94, §501(g)(1)(E), inserted "or to recreational shoo
 
 #### Study
 
-Pub. L. 116–94, div. P, title V, §501(g)(2), Dec. 20, 2019, 133 Stat. 3193, provided that: "Not later than 10 yearsafter the date of enactment of this Act \[Dec. 20, 2019\], the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall—
+Pub. L. 116–94, div. P, title V, §501(g)(2), Dec. 20, 2019, 133 Stat. 3193, provided that: "Not later than 10 years after the date of enactment of this Act \[Dec. 20, 2019\], the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall—
 
 &emsp;"(A) review and evaluate the effects of the funds made available under subparagraph (B) of section 11(a)(1) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669h–2(a)(1)) (as added by paragraph (1)(A)(ii)) on funds available for wildlife conservation; and
 

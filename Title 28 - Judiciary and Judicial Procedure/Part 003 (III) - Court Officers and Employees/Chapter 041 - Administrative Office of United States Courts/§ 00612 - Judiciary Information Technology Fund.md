@@ -90,7 +90,7 @@ Reprogramming.—The Director of the Administrative Office of the United States 
 
 (i)
 
-Appropriations Into the Fund.—If the budget request of the judiciary is appropriated in full, the amount deposited into the Fund during any fiscal year under the authority of subsection (c)(1)(B) will be the same as the amount of funds requested by the judiciary for activities described in subsection (a). If an amount to be deposited is not specified in statute by Congress and if the full request is not appropriated, the amount to be deposited under subsection (c)(1)(B) will be set by the spending priorities established by the Judicial Conference.
+Appropriations Into the Fund.—If the budget request of the judiciary is appropriated in full, the amount deposited into the Fund during any fiscal year under the authority of subsection (c)(1)(B) will be the same as the amount of funds requested by the judiciary for activities described in subsection (a). If an amount to bedeposited is not specified in statute by Congress and if the full request is not appropriated, the amount to be deposited under subsection (c)(1)(B) will be set by the spending priorities established by the Judicial Conference.
 
 (j)
 
@@ -194,7 +194,7 @@ Subsec. (h). Pub. L. 103–420, §2(6), amended subsec. (h) generally. Prior to 
 
 Annual Report.—The Director shall submit to the Congress an annual report on the operation of the Fund, including on the inventory, use, and acquisition of automatic data processing equipment from the Fund and the consistency of such acquisition with the plan prepared under subsection (b). The report shall set forth the amounts deposited into the Fund under subsection (c)."
 
-Subsec. (i). Pub. L. 103–420, §2(7), substituted "may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)" for "and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposes other than those established in subsection (a) only by following reprogramming procedures in compliancewith provisions set forth in section 606 of Public Law 100–459."
+Subsec. (i). Pub. L. 103–420, §2(7), substituted "may transfer amounts up to $1,000,000 from the Fund into the account to which the funds were originally appropriated. Any amounts transferred from the Fund in excess of $1,000,000 in any fiscal year may only be transferred by following reprogramming procedures in compliance with section 606 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1989 (Public Law 100–459; 102 Stat. 2227)" for "and upon notification to the Committees on Appropriations of the House of Representatives and the Senate, may use amounts deposited into the Fund under subparagraph (c)(1)(B) for purposes other than those established in subsection (a) only by following reprogramming procedures in compliance with provisions set forth in section 606 of Public Law 100–459."
 
 Subsec. (j). Pub. L. 103–420, §2(8), substituted "not specified in statute by Congress" for "not specified by Congress" in second sentence.
 

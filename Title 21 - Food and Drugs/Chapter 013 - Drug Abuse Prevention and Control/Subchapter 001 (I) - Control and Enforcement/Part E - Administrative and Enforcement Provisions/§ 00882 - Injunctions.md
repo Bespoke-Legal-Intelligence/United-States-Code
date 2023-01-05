@@ -12,7 +12,7 @@ In case of an alleged violation of an injunction or restraining order issued und
 
 #### (1) In general
 
-&emsp;In any case in which the State has reason to believe that an interest of the residents of that State has been or is being threatened or adversely affected by the action of a person, entity, or Internet site that violates the provisions of section 823(f), 829(e), or 831 of this title, the State may bring a civil action on behalf of such residents in a district court of the United States with appropriate jurisdiction—
+&emsp;In any case in which the State has reason to believe that an interest of the residents of that State has been or is being threatened or adversely affected by the action of a person, entity, or Internet site that violates the provisions of section 823(g), 829(e), or 831 of this title, the State may bring a civil action on behalf of such residents in a district court of the United States with appropriate jurisdiction—
 
 &emsp;&emsp;(A) to enjoin the conduct which violates this section;
 
@@ -52,7 +52,7 @@ In case of an alleged violation of an injunction or restraining order issued und
 
 &emsp;&emsp;(C) any employee of the United States or such Indian tribe or tribal organization, provided such agent or employee is acting in the usual course of business or employment, and within the scope of the official duties of such agent or employee therewith.
 
-(Pub. L. 91–513, title II, §512, Oct. 27, 1970, 84 Stat. 1278; Pub. L. 110–425, §3(h), Oct. 15, 2008, 122 Stat. 4830.)
+(Pub. L. 91–513, title II, §512, Oct. 27, 1970, 84 Stat. 1278; Pub. L. 110–425, §3(h), Oct. 15, 2008, 122 Stat. 4830; Pub. L. 117–215, title I, §103(b)(1)(I), Dec. 2, 2022, 136 Stat. 2263.)
 
 #### <b>Editorial Notes</b>
 
@@ -68,13 +68,15 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Amendments
 
+<b>2022</b>—Subsec. (c)(1). Pub. L. 117–215 substituted "823(g)" for "823(f)" in introductory provisions.
+
 <b>2008</b>—Subsec. (c). Pub. L. 110–425 added subsec. (c).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
+Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Rules".</i>
 

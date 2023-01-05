@@ -44,7 +44,7 @@ Amendment by Pub. L. 95–591 effective with respect to Presidential records cre
 
 #### Presidential Recordings and Materials Preservation Act
 
-Pub. L. 93–526, title I, §§101–106, Dec. 19, 1974, 88 Stat. 1695–1698, as amended by Pub. L. 98–497, title I, §107(c), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 108–199, div. F, titleV, §543(a), Jan. 23, 2004, 118 Stat. 346, provided: "That this Act \[enacting this note, former sections 3315 to 3324 of this title, and provisions set out as a note under former section 3315 of this title\] may be cited as the 'Presidential Recordings and Materials Preservation Act'.
+Pub. L. 93–526, title I, §§101–106, Dec. 19, 1974, 88 Stat. 1695–1698, as amended by Pub. L. 98–497, title I, §107(c), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 108–199, div. F, title V, §543(a), Jan. 23, 2004, 118 Stat. 346, provided: "That this Act \[enacting this note, former sections 3315 to 3324 of this title, and provisions set out as a note under former section 3315 of this title\] may be cited as the 'Presidential Recordings and Materials Preservation Act'.
 
 #### "Title I—Preservation of Presidential Recordings and Materials
 

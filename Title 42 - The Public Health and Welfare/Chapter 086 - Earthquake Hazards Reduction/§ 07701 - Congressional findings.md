@@ -12,7 +12,7 @@ The Congress finds and declares the following:
 
 &emsp;(5) The geological study of active faults and features can reveal how recently and how frequently major earthquakes have occurred on those faults and how much risk they pose. Such long-term seismic risk assessments are needed in virtually every aspect of earthquake hazards management, whether emergency planning, public regulation, detailed building design, insurance rating, or investment decision.
 
-&emsp;(6) The vulnerability of buildings, lifeline infrastructure, public works, and industrial and emergency facilities can be reduced through proper earthquake resistant design and construction practices. The economy and efficacyof such procedures can be substantially increased through research and development.
+&emsp;(6) The vulnerability of buildings, lifeline infrastructure, public works, and industrial and emergency facilities can be reduced through proper earthquake resistant design and construction practices. The economy and efficacy of such procedures can be substantially increased through research and development.
 
 &emsp;(7) Programs and practices of departments and agencies of the United States are important to the communities they serve; some functions, such as emergency communications and national defense, and lifeline infrastructure, such as dams, bridges, and public works, must remain in service during and after an earthquake. Federally owned, operated, and influenced structures and lifeline infrastructure should serve as models for how to reduce and minimize hazards to the community.
 
@@ -20,7 +20,7 @@ The Congress finds and declares the following:
 
 &emsp;(9) Reduction of loss, destruction, and disruption from earthquakes will depend on the actions of individuals, and organizations in the private sector and governmental units at Federal, State, and local levels. The current capability to transfer knowledge and information to these sectors is insufficient. Improved mechanisms are needed to translate existing information and research findings into reasonable and usable specifications, criteria, and practices so that individuals, organizations, and governmental units may make informed decisions and take appropriate actions.
 
-&emsp;(10) Severe earthquakes are a worldwide problem. Since damaging earthquakes occur infrequently in any one nation, international cooperation is desirable for mutual learning from limited experiences.
+&emsp;(10) Severe earthquakes are a worldwide problem. Since damaging earthquakes occurinfrequently in any one nation, international cooperation is desirable for mutual learning from limited experiences.
 
 &emsp;(11) An effective Federal program in earthquake hazards reduction will require input from and review by persons outside the Federal Government expert in the sciences of earthquake hazards reduction and in the practical application of earthquake hazards reduction measures.
 
@@ -74,7 +74,7 @@ Pub. L. 95–124, §1, Oct. 7, 1977, 91 Stat. 1098, provided: "That this Act \[e
 
 #### Report on At-Risk Populations
 
-Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, required the Director of the Federal EmergencyManagement Agency to transmit to Congress a report no later than 1 year after Nov. 13, 2000, describing the elements of the National Earthquake Hazards Reduction Program that specifically addressed the needs of at-risk populations.
+Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, required the Director of the Federal Emergency Management Agency to transmit to Congress a report no later than 1 year after Nov. 13, 2000, describing the elements of the National Earthquake Hazards Reduction Program that specifically addressed the needs of at-risk populations.
 
 #### <b>Executive Documents</b>
 

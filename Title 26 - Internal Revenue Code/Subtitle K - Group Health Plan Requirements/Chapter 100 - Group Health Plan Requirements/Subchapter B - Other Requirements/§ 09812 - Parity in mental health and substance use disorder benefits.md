@@ -20,7 +20,7 @@
 
 #### (C) Rule in case of different limits
 
-&emsp;&emsp;In the case of a plan that is not described in subparagraph (A) or (B) and that includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan with respect to mental health and substance use disorder benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
+&emsp;&emsp;In the case of a plan that is not described in subparagraph (A) or (B) and that includes no or different aggregate lifetime limits on different categories of medical and surgical benefits, the Secretary shall establish rules under which subparagraph (B) is applied to such plan with respect to mental health andsubstance use disorder benefits by substituting for the applicable lifetime limit an average aggregate lifetime limit that is computed taking into account the weighted average of the aggregate lifetime limits applicable to such categories.
 
 #### (2) Annual limits
 
@@ -80,7 +80,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, the Secretary of Health and Human Services, and the Secretary of Labor, in consultation with the Inspector General of the Department of Health and Human Services, the Inspector General of the Department of Labor, and the Inspector General of the Department of the Treasury, shall issue a compliance program guidance document to help improve compliance with this section, section 2726 of the Public Health Service Act, and section 712 of the Employee Retirement Income Security Act of 1974, as applicable. In carrying out this paragraph, the Secretaries may take into consideration the 2016 publication of the Department of Health and Human Services and the Department of Labor, entitled "Warning Signs - Plan or Policy Non-Quantitative Treatment Limitations (NQTLs) that Require Additional Analysis to Determine Mental Health Parity Compliance".
+&emsp;&emsp;The Secretary, the Secretary of Health and Human Services, and the Secretary of Labor, in consultation with the Inspector General of the Department of Health and Human Services, the Inspector General of the Department of Labor, and the Inspector General of the Department of the Treasury, shall issue a compliance program guidance document to help improve compliance withthis section, section 2726 of the Public Health Service Act, and section 712 of the Employee Retirement Income Security Act of 1974, as applicable. In carrying out this paragraph, the Secretaries may take into consideration the 2016 publication of the Department of Health and Human Services and the Department of Labor, entitled "Warning Signs - Plan or Policy Non-Quantitative Treatment Limitations (NQTLs) that Require Additional Analysis to Determine Mental Health Parity Compliance".
 
 #### (B) Examples illustrating compliance and noncompliance
 
@@ -98,7 +98,7 @@
 
 #### (iii) Access to additional information regarding compliance
 
-&emsp;&emsp;&emsp;In developing and issuing the compliance program guidance document requiredunder this paragraph, the Secretaries specified in subparagraph (A)—
+&emsp;&emsp;&emsp;In developing and issuing the compliance program guidance document required under this paragraph, the Secretaries specified in subparagraph (A)—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall enter into interagency agreements with the Inspector General of the Department of Health and Human Services, the Inspector General of the Department of Labor, and the Inspector General of the Department of the Treasury to share findings of compliance and noncompliance with this section, section 2726 of the Public Health Service Act, or section 712 of the Employee Retirement Income Security Act of 1974, as applicable; and
 
@@ -126,7 +126,7 @@
 
 #### (ii) Documents for participants, beneficiaries, contracting providers, or authorized representatives
 
-&emsp;&emsp;&emsp;The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods that group health plans may use to provide any participant, beneficiary, contracting provider, or authorized representative, as applicable, with documents containing information that the health plans are required to disclose to participants, beneficiaries, contracting providers, or authorized representatives to ensure compliance with this section, section 2726 of the Public Health Service Act, or section 712 of the Employee Retirement Income Security Act of 1974, as applicable, compliance with any regulation issued pursuant to such respective section, or compliance with any other applicable law or regulation. Such guidance shall include information that is comparative in nature with respect to—
+&emsp;&emsp;&emsp;The guidance issued under this paragraph shall include clarifying informationand illustrative examples of methods that group health plans may use to provide any participant, beneficiary, contracting provider, or authorized representative, as applicable, with documents containing information that the health plans are required to disclose to participants, beneficiaries, contracting providers, or authorized representatives to ensure compliance with this section, section 2726 of the Public Health Service Act, or section 712 of the Employee Retirement Income Security Act of 1974, as applicable, compliance with any regulation issued pursuant to such respective section, or compliance with any other applicable law or regulation. Such guidance shall include information that is comparative in nature with respect to—
 
 &emsp;&emsp;&emsp;&emsp;(I) nonquantitative treatment limitations for both medical and surgical benefits and mental health and substance use disorder benefits;
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;The guidance issued under this paragraph shall include clarifying information and illustrative examples of methods, processes, strategies, evidentiary standards, and other factors that group health plans may use regarding the development and application of nonquantitative treatment limitations to ensure compliance with this section, section 2726 of the Public Health Service Act, or section 712 of the Employee Retirement Income Security Act of 1974, as applicable, (and any regulations promulgated pursuant to such respective section), including—
 
-&emsp;&emsp;&emsp;(i) examples of methods of determining appropriate types of nonquantitative treatment limitations with respect to bothmedical and surgical benefits and mental health and substance use disorder benefits, including nonquantitative treatment limitations pertaining to—
+&emsp;&emsp;&emsp;(i) examples of methods of determining appropriate types of nonquantitative treatment limitations with respect to both medical and surgical benefits and mental health and substance use disorder benefits, including nonquantitative treatment limitations pertaining to—
 
 &emsp;&emsp;&emsp;&emsp;(I) medical management standards based on medical necessity or appropriateness, or whether a treatment is experimental or investigative;
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;In the case of a group health plan that provides both medical and surgical benefits and mental health or substance use disorder benefits and that imposes nonquantitative treatment limitations (referred to in this section as "NQTLs") on mental health or substance use disorder benefits, such plan shall perform and document comparative analyses of the design and application of NQTLs and, beginning 45 days after the date of enactment of the Consolidated Appropriations Act, 2021, make available to the Secretary, upon request, the comparative analyses and the following information:
 
-&emsp;&emsp;&emsp;(i) The specific plan terms or other relevant terms regarding the NQTLs and a description of all mental health or substance use disorder and medical or surgical benefits to which each such term applies in each respective benefits classification.
+&emsp;&emsp;&emsp;(i) The specific plan terms or other relevant terms regarding the NQTLs and adescription of all mental health or substance use disorder and medical or surgical benefits to which each such term applies in each respective benefits classification.
 
 &emsp;&emsp;&emsp;(ii) The factors used to determine that the NQTLs will apply to mental health or substance use disorder benefits and medical or surgical benefits.
 
@@ -194,7 +194,7 @@
 
 #### (ii) Additional information
 
-&emsp;&emsp;&emsp;In instances in which the Secretary has concluded that the group health plan hasnot submitted sufficient information for the Secretary to review the comparative analyses described in subparagraph (A), as requested under clause (i), the Secretary shall specify to the plan the information the plan must submit to be responsive to the request under clause (i) for the Secretary to review the comparative analyses described in subparagraph (A) for compliance with this section. Nothing in this paragraph shall require the Secretary to conclude that a group health plan is in compliance with this section solely based upon the inspection of the comparative analyses described in subparagraph (A), as requested under clause (i).
+&emsp;&emsp;&emsp;In instances in which the Secretary has concluded that the group health plan has not submitted sufficient information for the Secretary to review the comparative analyses described in subparagraph (A), as requested under clause (i), the Secretary shall specify to the plan the information the plan must submit to be responsive to the request under clause (i) for the Secretary to review the comparative analyses described in subparagraph (A) for compliance with this section. Nothing in this paragraph shall require the Secretary to conclude that a group health plan is in compliance with this section solely based upon the inspection of the comparative analyses described in subparagraph (A), as requested under clause (i).
 
 #### (iii) Required action
 
@@ -222,7 +222,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) the Secretary's specifications described in clause (ii) for each group health plan that the Secretary determined did not submit sufficient information for the Secretary to review the comparative analyses requested under clause (i) for compliance with this section; and
 
-&emsp;&emsp;&emsp;&emsp;(V) the Secretary's specifications described in clause (iii) of the actions each group health plan that the Secretary determined is not in compliance with this section must take to be in compliance with this section, including the reason why the Secretary determined the plan is not in compliance.
+&emsp;&emsp;&emsp;&emsp;(V) the Secretary's specifications described in clause (iii) of the actions each group health plan that the Secretary determined is not in compliance with this section must take to be in compliance with this section, including the reasonwhy the Secretary determined the plan is not in compliance.
 
 #### (C) Compliance program guidance document update process
 
@@ -364,7 +364,7 @@ Subsec. (a)(3) to (5). Pub. L. 110–343, §512(c)(1), added pars. (3) to (5).
 
 Subsec. (b)(1). Pub. L. 110–343, §512(c)(7), substituted "mental health or substance use disorder benefits" for "mental health benefits".
 
-Subsec. (b)(2). Pub. L. 110–343, §512(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "in the case of a group health plan that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers of visits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan, except as specifically provided in subsection (a) (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits)."
+Subsec. (b)(2). Pub. L. 110–343, §512(c)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "in the case of a group health plan that provides mental health benefits, as affecting the terms and conditions (including cost sharing, limits on numbers ofvisits or days of coverage, and requirements relating to medical necessity) relating to the amount, duration, or scope of mental health benefits under the plan, except as specifically provided in subsection (a) (in regard to parity in the imposition of aggregate lifetime limits and annual limits for mental health benefits)."
 
 Subsec. (c)(1). Pub. L. 110–343, §512(c)(3)(A), amended par. (1) generally. Prior to amendment, text read as follows: "This section shall not apply to any group health plan for any plan year of a small employer (as defined in section 4980D(d)(2))."
 

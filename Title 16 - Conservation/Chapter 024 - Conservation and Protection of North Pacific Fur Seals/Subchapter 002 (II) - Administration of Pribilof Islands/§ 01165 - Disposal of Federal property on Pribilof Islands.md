@@ -70,7 +70,7 @@ In carrying out the purposes of this chapter, the Secretary is authorized to ent
 
 #### References in Text
 
-December 23, 2000, referred to in subsec. (c), was in the original "the date of the enactment of the Pribilof Islands Transition Act" which was translated as referring to the date of enactment of title I of Pub. L. 106–562. Section 1(a)(4) \[div. B, title I, §144(e)\] of Pub. L. 106–554, which was approved Dec. 21, 2000, is also known as the "Pribilof Islands Transition Act". See ShortTitle of 2000 Amendments notes under section 1151 of this title.
+December 23, 2000, referred to in subsec. (c), was in the original "the date of the enactment of the Pribilof Islands Transition Act" which was translated as referring to the date of enactment of title I of Pub. L. 106–562. Section 1(a)(4) \[div. B, title I, §144(e)\] of Pub. L. 106–554, which was approved Dec. 21, 2000, is also known as the "Pribilof Islands Transition Act". See Short Title of 2000 Amendments notes under section 1151 of this title.
 
 Section 1166(a) of this title, referred to in subsec. (d)(6), was amended generally by Pub. L. 106–554 and Pub. L. 106–562, and, as so amended, no longer contains provisions relating to establishment of a Trust.
 

@@ -50,7 +50,7 @@ Execution.—(1) The Secretary may carry out projects under the program through 
 
 (d)
 
-Competition and Cost Sharing.—(1) In accordance with the policy stated in section 4008 <sup>1</sup> of this title, competitive procedures shall be used for awarding all grants and entering into all contracts, cooperative agreements, and other transactions under the program.
+Competition and Cost Sharing.—(1) In accordance with the policy stated in section 4008 of this title, competitive procedures shall be used for awarding all grants and entering into all contracts, cooperative agreements, and other transactions under the program.
 
 (2) Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project. For a project for which the Government receives an offer from only one offeror, the contracting officer shall negotiate the ratio of contract recipient cost to Government cost that represents the best value to the Government.
 
@@ -144,7 +144,7 @@ Subsec. (b)(4). Pub. L. 106–65, §216(b), amended par. (4) generally. Prior to
 
 Subsec. (c)(2) to (6). Pub. L. 106–65, §216(c), added pars. (2) to (4), redesignated former par. (2) as (5), and added par. (6).
 
-Subsec. (d). Pub. L. 106–65, §216(d), struck out "(A)" before "In accordance with" in par. (1), redesignated par. (1)(B) as par. (2), substituted "Under the competitive procedures used, the factors to be considered in theevaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project." for "For each grant awarded and each contract, cooperative agreement, or other transaction entered into on a cost-share basis under the program, the ratio of contract recipient cost to Government cost shall be determined by competitive procedures.", and struck out former pars. (2) and (3) which required grants, contracts, cooperative agreements, and other transactions to be awarded or entered into on a cost-sharing basis unless the Secretary of Defense made certain determinations and specified as a goal that at least 25 percent of the funds available for the program for each fiscal year be used for grants, contracts, cooperative agreements, and other transactions on a cost-share basis under which the ratio of recipient cost to Government cost was two to one.
+Subsec. (d). Pub. L. 106–65, §216(d), struck out "(A)" before "In accordance with" in par. (1), redesignated par. (1)(B) as par. (2), substituted "Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project." for "For each grant awarded and each contract, cooperative agreement, or other transaction entered into on a cost-share basis under the program, the ratio of contract recipient cost to Government cost shall be determined by competitive procedures.", and struck out former pars. (2) and (3) which required grants, contracts, cooperative agreements, and other transactions to be awarded or entered into on a cost-sharing basis unless the Secretary of Defense made certain determinations and specified as a goal that at least 25 percent of the funds available for the program for each fiscal year be used for grants, contracts, cooperative agreements, and other transactions on a cost-share basis under which the ratio of recipient cost to Government cost was two to one.
 
 Subsec. (e)(2)(A). Pub. L. 106–65, §216(e)(1), inserted ", including a description of all completed projects and status of implementation" before period at end.
 
@@ -187,6 +187,106 @@ Subsec. (d)(3), (4). Pub. L. 104–106, §276(a)(4)(B), added pars. (3) and (4).
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Support for Research and Development of Bioindustrial Manufacturing Processes
+
+Pub. L. 117–263, div. A, title II, §215, Dec. 23, 2022, 136 Stat. 2472, provided that:
+
+"(a)
+
+Authorization.—Subject to the availability of appropriations, the Secretary of Defense shall provide support for the development of a network of bioindustrial manufacturing facilities to conduct research and development to improve the ability of the industrial base to assess, validate, and scale new, innovative bioindustrial manufacturing processes for the production of chemicals, materials, and other products necessary to support national security or secure fragile supply chains.
+
+"(b)
+
+Form of Support.—The support provided under subsection (a) may consist of—
+
+&emsp;"(1) providing funding to one or more existing facilities or the establishment of new facilities—
+
+&emsp;&emsp;"(A) to support the research and development of bioindustrial manufacturing processes; or
+
+&emsp;&emsp;"(B) to otherwise expand the bioindustrial manufacturing capabilities of such facilities;
+
+&emsp;"(2) the establishment of dedicated facilities within one or more bioindustrial manufacturing facilities to serve as regional hubs for the research, development, and the scaling of bioindustrial manufacturing processes and products to higher levels of production; or
+
+&emsp;"(3) designating a bioindustrial manufacturing facility to serve as the lead entity responsible for integrating a network of pilot and intermediate scale bioindustrial manufacturing facilities.
+
+"(c)
+
+Activities.—A facility that receives support under subsection (a) shall carry out activities relating to the research, development, test, and evaluation of innovative bioindustrial manufacturing processes and the scaling of bioindustrial manufacturing products to higher levels of production, which may include—
+
+&emsp;"(1) research on the use of bioindustrial manufacturing to create materials such as polymers, coatings, resins, commodity chemicals, and other materials with fragile supply chains;
+
+&emsp;"(2) demonstration projects to evaluate bioindustrial manufacturing processes and technologies;
+
+&emsp;"(3) activities to scale bioindustrial manufacuring processes and products to higher levels of production;
+
+&emsp;"(4) strategic planning for infrastructure and equipment investments for bioindustrial manufacturing of defense-related materials;
+
+&emsp;"(5) analyses of bioindustrial manufactured products and validation of the application of biological material used as input to new and existing processes to aid in future investment strategies and the security of critical supply chains;
+
+&emsp;"(6) the selection, construction, and operation of pilot and intermediate scale bioindustrial manufacturing facilities;
+
+&emsp;"(7) development and management of a network of facilities to scale production of bioindustrial products;
+
+&emsp;"(8) activities to address workforce needs in bioindustrial manufacturing;
+
+&emsp;"(9) establishing an interoperable, secure, digital infrastructure for collaborative data exchange across entities in the bioindustrial manufacturing community, including government agencies, industry, and academia;
+
+&emsp;"(10) developing and implementing digital tools, process security and assurance capabilities, cybersecurity protocols, and best practices for data storage, sharing and analysis; and
+
+&emsp;"(11) such other activities as the Secretary of Defense determines appropriate.
+
+"(d)
+
+Considerations.—In determining the number, type, and location of facilities to support under subsection (a), the Secretary of Defense shall consider—
+
+&emsp;"(1) how the facilities may complement each other or increase production levels by functioning together as a network;
+
+&emsp;"(2) how to geographically distribute support to such facilities—
+
+&emsp;&emsp;"(A) to maximize access to biological material needed as an input to bioindustrial manufacturing processes;
+
+&emsp;&emsp;"(B) to leverage available industrial and academic expertise, including workforce and human capital;
+
+&emsp;&emsp;"(C) to leverage relevant domestic infrastructure required to secure supply chains for chemicals and other materials;
+
+&emsp;&emsp;"(D) to leverage access to venture capital and private sector finance expertise and funding instruments; and
+
+&emsp;&emsp;"(E) to complement the capabilities of similar facilities; and
+
+&emsp;"(3) how the activities supported under this section can be coordinated with relevant activities of other departments and agencies of the Federal Government.
+
+"(e)
+
+Initial Concept Plan Required.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the National Security Commission on Emerging Biotechnology an initial concept plan for the implementation of this section that includes—
+
+&emsp;&emsp;"(A) an assessment of capacity scaling needs to determine if, and what type of, additional bioindustrial manufacturing facilities may be needed to meet the needs of the Department of Defense;
+
+&emsp;&emsp;"(B) a description of types, relative sizes, and locations of the facilities the Secretary intends to establish or support under this section;
+
+&emsp;&emsp;"(C) a general description of the focus of each facility, including the types of bioindustrial manufacturing equipment, if any, that are expected to be procured for each such facility;
+
+&emsp;&emsp;"(D) a general description of how the facilities will work as a network to maximize the diversity ofbioindustrial products available to be produced by the network;
+
+&emsp;&emsp;"(E) an explanation of how the network will support the establishment and maintenance of the bioindustrial manufacturing industrial base; and
+
+&emsp;&emsp;"(F) an explanation of how the Secretary intends to ensure that bioindustrial manufacturing activities conducted under this section are modernized digitally, including through—
+
+&emsp;&emsp;&emsp;"(i) the use of data automation to represent processes and products as models and simulations; and
+
+&emsp;&emsp;&emsp;"(ii) the implementation of measures to address cybersecurity and process assurance concerns.
+
+&emsp;"(2)
+
+Briefings.—Not later than 180 days after the date of the submittal of the plan under paragraph (1), and annually thereafter for five years, the Secretary of Defense shall provide to the congressional defense committees a briefing on the Secretary's progress in implementing the plan.
+
+"(f)
+
+Bioindustrial Manufacturing Defined.—In this section, the term 'bioindustrial manufacturing' means the use of living organisms, cells, tissues, enzymes, or cell-free systems to produce materials and products for non-pharmaceutical applications."
 
 #### Administration of Manufacturing Innovation Institutes Funded by the Department of Defense
 
@@ -332,7 +432,7 @@ Pub. L. 109–163, div. A, title II, subtitle D, Jan. 6, 2006, 119 Stat. 3175, a
 
 "(a)
 
-Pilot Program Required.—The Under Secretary of Defense for Acquisition, Technology, and Logisticsshall conduct a pilot program under the authority of section 2521 of title 10, United States Code \[now 10 U.S.C. 4841\], to identify and transition advanced manufacturing processes and technologies the utilization of which would achieve significant productivity and efficiency gains in the defense manufacturing base.
+Pilot Program Required.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall conduct a pilot program under the authority of section 2521 of title 10, United States Code \[now 10 U.S.C. 4841\], to identify and transition advanced manufacturing processes and technologies the utilization of which would achieve significant productivity and efficiency gains in the defense manufacturing base.
 
 "(b)
 
@@ -429,6 +529,4 @@ Pub. L. 103–335, title VIII, §8071, Sept. 30, 1994, 108 Stat. 2635.
 Pub. L. 103–139, title VIII, §8083A, Nov. 11, 1993, 107 Stat. 1459.
 
 Pub. L. 102–396, title IX, §9112, Oct. 6, 1992, 106 Stat. 1929.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

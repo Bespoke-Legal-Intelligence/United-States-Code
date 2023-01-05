@@ -2,7 +2,7 @@
 
 In this subpart:
 
-&emsp;(1) The term "national technology and industrial base" means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States, the United Kingdom of Great Britain and Northern Ireland, Australia, and Canada.
+&emsp;(1) The term "national technology and industrial base" means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States, the United Kingdom of Great Britain and Northern Ireland, Australia, New Zealand, and Canada.
 
 &emsp;(2) The term "dual-use" with respect to products, services, standards, processes, or acquisition practices, means products, services, standards, processes, or acquisition practices, respectively, that are capable of meeting requirements for military and nonmilitary applications.
 
@@ -10,7 +10,7 @@ In this subpart:
 
 &emsp;(4) The term "technology and industrial base sector" means a group of public or private persons and organizations that engage in, or are capable of engaging in, similar research, development, production, integration, services, or information technology activities.
 
-&emsp;(5) The terms "Federal laboratory" and "laboratory" have the meaning given the term "laboratory" in section 12(d)(2) of the Stevenson-Wydler Technology Innovation Act of 1980\(15 U.S.C. 3710a(d)(2)), except that such terms include a federally funded research and development center sponsored by a Federal agency.
+&emsp;(5) The terms "Federal laboratory" and "laboratory" have the meaning given the term "laboratory" in section 12(d)(2) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)(2)), except that such terms include a federally funded research and development center sponsored by a Federal agency.
 
 &emsp;(6) The term "critical technology" means a technology that is—
 
@@ -58,7 +58,7 @@ In this subpart:
 
 &emsp;(15) The term "integration" means the process of providing systems engineering and technical direction for a system for the purpose of achieving capabilities that satisfy program requirements.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, §895(a), Jan. 7, 2011, 124 Stat. 4313; Pub. L. 114–328, div. A, title VIII, §881(b), Dec. 23, 2016, 130 Stat. 2316; renumbered §4801 and amended Pub. L. 116–283, div. A, title XVIII, §1866(c), Jan. 1, 2021, 134 Stat. 4279; Pub. L. 117–81, div. A, title XVII, §1701(b)(21)(A), Dec. 27, 2021, 135 Stat. 2135.)
+(Added Pub. L. 102–484, div. D, title XLII, §4203(a), Oct. 23, 1992, 106 Stat. 2661, §2491; amended Pub. L. 103–160, div. A, title XI, §1182(a)(9), title XIII, §1315(f), Nov. 30, 1993, 107 Stat. 1771, 1788; Pub. L. 103–337, div. A, title XI, §§1113(d), 1115(e), Oct. 5, 1994, 108 Stat. 2866, 2869; Pub. L. 104–106, div. A, title X, §1081(h), Feb. 10, 1996, 110 Stat. 455; renumbered §2500 and amended Pub. L. 105–85, div. A, title III, §371(b)(3), title X, §1073(a)(53), Nov. 18, 1997, 111 Stat. 1705, 1903; Pub. L. 111–383, div. A, title VIII, §895(a), Jan. 7, 2011, 124 Stat. 4313; Pub. L. 114–328, div. A, title VIII, §881(b), Dec. 23, 2016, 130 Stat. 2316; renumbered §4801 and amended Pub. L. 116–283, div. A, title XVIII, §1866(c), Jan. 1, 2021, 134 Stat. 4279; Pub. L. 117–81, div. A, title XVII, §1701(b)(21)(A), Dec. 27, 2021, 135 Stat. 2135; Pub. L. 117–263, div. A, title VIII, §851, Dec. 23, 2022, 136 Stat. 2721.)
 
 #### <b>Editorial Notes</b>
 
@@ -79,6 +79,8 @@ A prior section 4805, act Aug. 10, 1956, ch. 1041, 70A Stat. 271, related to rep
 A prior section 4806 was renumbered section 7806 of this title.
 
 #### Amendments
+
+<b>2022</b>—Par. (1). Pub. L. 117–263 inserted "New Zealand," after "Australia,".
 
 <b>2021</b>—Pub. L. 116–283, §1866(c)(1), as amended by Pub. L. 117–81, §1701(b)(21)(A)(i), substituted "In this subpart" for "In this chapter" in introductory provisions.
 

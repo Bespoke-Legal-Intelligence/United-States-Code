@@ -36,7 +36,7 @@ A law enforcement officer authorized by the Secretary of the Interior under subs
 
 &emsp;&emsp;&emsp;(ii) such arrest occurs within a Reclamation project or on Reclamation lands or the person to be arrested is fleeing therefrom to avoid arrest;
 
-&emsp;(3) execute within a Reclamation project or on Reclamation lands any warrant or otherprocess issued by a court or officer of competent jurisdiction for the enforcement of the provisions of any Federal law or regulation issued pursuant to law for any offense committed within a Reclamation project or on Reclamation lands; and
+&emsp;(3) execute within a Reclamation project or on Reclamation lands any warrant or other process issued by a court or officer of competent jurisdiction for the enforcement of the provisions of any Federal law or regulation issued pursuant to law for any offense committed within a Reclamation project or on Reclamation lands; and
 
 &emsp;(4) conduct investigations within a Reclamation project or on Reclamation lands of offenses against the United States committed within a Reclamation project or on Reclamation lands if the Federal law enforcement agency having investigative jurisdiction over the offense committed declines to investigate the offense.
 
@@ -52,7 +52,7 @@ A law enforcement officer authorized by the Secretary of the Interior under subs
 
 #### (3) Availability of workers compensation
 
-&emsp;For purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, a law enforcement officer of any State or local government, including an Indian tribe, shall, when acting as a law enforcement officer under subsection (c) and while under Federal supervision and control, and only when carrying out Federal law enforcement responsibilities, be deemed a civil service employee of the United States within the meaning of the term employee as defined in section 8101 of title 5, and the provisions of that subchapter shall apply. Benefits under such subchapter shall be reduced by the amount of any entitlement to State or local workers compensation benefits arising out of the same injury or death.
+&emsp;For purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federalemployees for work injuries, a law enforcement officer of any State or local government, including an Indian tribe, shall, when acting as a law enforcement officer under subsection (c) and while under Federal supervision and control, and only when carrying out Federal law enforcement responsibilities, be deemed a civil service employee of the United States within the meaning of the term employee as defined in section 8101 of title 5, and the provisions of that subchapter shall apply. Benefits under such subchapter shall be reduced by the amount of any entitlement to State or local workers compensation benefits arising out of the same injury or death.
 
 #### (f) Concurrent jurisdiction
 

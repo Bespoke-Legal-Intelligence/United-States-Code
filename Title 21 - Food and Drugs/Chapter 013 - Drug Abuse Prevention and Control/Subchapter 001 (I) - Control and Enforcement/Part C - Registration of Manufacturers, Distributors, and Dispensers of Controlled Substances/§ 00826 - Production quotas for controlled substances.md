@@ -70,7 +70,7 @@ Each reference in this section to ephedrine, pseudoephedrine, or phenylpropanola
 
 &emsp;(ii) An anonymized count of how many such manufacturers were issued an approved manufacturing quota that was higher than the quota issued to that manufacturer for the covered controlled substance in the previous year.
 
-(3) Not later than 1 year after October 24, 2018, the Attorney General shall submit to Congress a report on how the Attorney General, when fixing and adjusting production and manufacturing quotas under this section for covered controlled substances, will—
+(3) Not later than 1 year after October 24, 2018, the Attorney General shall submit to Congress a report on how the Attorney General, when fixingand adjusting production and manufacturing quotas under this section for covered controlled substances, will—
 
 &emsp;(A) take into consideration changes in the accepted medical use of the covered controlled substances; and
 

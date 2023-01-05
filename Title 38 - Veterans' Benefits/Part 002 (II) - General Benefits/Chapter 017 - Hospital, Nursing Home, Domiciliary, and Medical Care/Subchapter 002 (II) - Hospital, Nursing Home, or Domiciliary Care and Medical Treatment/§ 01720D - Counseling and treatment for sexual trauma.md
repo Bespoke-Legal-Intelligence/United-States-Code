@@ -72,7 +72,7 @@
 
 &emsp;(2) An individual described in section 1720I(b) of this title.
 
-(Added Pub. L. 102–585, title I, §102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, §101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, §902, Nov. 11, 1998, 112 Stat. 3360; Pub. L. 106–117, title I, §115(a)–(c), Nov. 30, 1999, 113 Stat. 1558; Pub. L. 108–422, title III, §301, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 111–163, title II, §202, May 5, 2010, 124 Stat. 1142; Pub. L. 113–146, title IV, §§401–402(c), Aug. 7, 2014, 128 Stat. 1789, 1790; Pub. L. 115–91, div. A, title VII, §707, Dec. 12, 2017, 131 Stat. 1436; Pub. L. 116–283, div. A, title IX, §926(a)(26), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title V, §§5301, 5303(c), Jan. 5, 2021, 134 Stat. 5037, 5041.)
+(Added Pub. L. 102–585, title I, §102(a)(1), Nov. 4, 1992, 106 Stat. 4945; amended Pub. L. 103–452, title I, §101(a)–(d), (f)(1), (2)(A), (g)(1), Nov. 2, 1994, 108 Stat. 4783, 4784; Pub. L. 105–368, title IX, §902, Nov. 11, 1998, 112 Stat. 3360; Pub. L. 106–117, title I, §115(a)–(c), Nov. 30, 1999, 113 Stat. 1558; Pub. L. 108–422, title III, §301, Nov. 30, 2004, 118 Stat. 2382; Pub. L. 111–163, title II, §202, May 5, 2010, 124Stat. 1142; Pub. L. 113–146, title IV, §§401–402(c), Aug. 7, 2014, 128 Stat. 1789, 1790; Pub. L. 115–91, div. A, title VII, §707, Dec. 12, 2017, 131 Stat. 1436; Pub. L. 116–283, div. A, title IX, §926(a)(26), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 116–315, title V, §§5301, 5303(c), Jan. 5, 2021, 134 Stat. 5037, 5041.)
 
 #### <b>Editorial Notes</b>
 
@@ -250,7 +250,7 @@ Report.—Not later than one year after the date of the enactment of this Act \[
 
 "(f)
 
-Nonapplicability of FACA.—The Task Force shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).
+Nonapplicability of FACA.—The Task Force shall not be subject to the requirements of the Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\].
 
 "(g)
 
@@ -268,7 +268,7 @@ State.—The term 'State' has the meaning given that term in section 101 of titl
 
 Pub. L. 103–452, title I, §101(g)(2)–(5), Nov. 2, 1994, 108 Stat. 4785, provided that:
 
-"(2) In providing information on counseling available to veterans as required under section 1720D(c)(1) of title 38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
+"(2) In providing information on counseling available to veterans as required under section 1720D(c)(1) of title38, United States Code (as amended by paragraph (1)), the Secretary of Veterans Affairs shall ensure that the Department of Veterans Affairs personnel who provide assistance under such section are trained in the provision to persons who have experienced sexual trauma of information about the care and services relating to sexual trauma that are available to veterans in the communities in which such veterans reside, including care and services available under programs of the Department (including the care and services available under section 1720D of such title) and from non-Department agencies or organizations.
 
 "(3) The telephone assistance service shall be operated in a manner that protects the confidentiality of persons who place calls to the system.
 

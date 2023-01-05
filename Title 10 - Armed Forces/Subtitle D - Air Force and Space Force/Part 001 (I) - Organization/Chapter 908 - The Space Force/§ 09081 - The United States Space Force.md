@@ -70,6 +70,42 @@ Subsec. (b)(3). Pub. L. 115–232, §1081(a)(17)(B)(ii), substituted "after Dece
 
 Pub. L. 116–92, div. A, title IX, §952(a), Dec. 20, 2019, 133 Stat. 1561, provided that: "The Air Force Space Command is hereby redesignated as the United States Space Force (USSF)."
 
+#### Applied Research and Educational Activities To Support Space Technology Development
+
+Pub. L. 117–263, div. A, title XVI, §1607, Dec. 23, 2022, 136 Stat. 2932, provided that:
+
+"(a)
+
+In General.—The Secretary of the Air Force and the Chief of Space Operations, in coordination with the Chief Technology and Innovation Office of the Space Force, may carry out applied research and educational activities to support space technology development.
+
+"(b)
+
+Activities.—Activities carried out under subsection (a) shall support the applied research, development, and demonstration needs of the Space Force, including by addressing and facilitating the advancement of capabilities related to—
+
+&emsp;"(1) space domain awareness;
+
+&emsp;"(2) positioning, navigation, and timing;
+
+&emsp;"(3) communications;
+
+&emsp;"(4) hypersonics;
+
+&emsp;"(5) cybersecurity; and
+
+&emsp;"(6) any other matter the Secretary of the Air Force considers relevant.
+
+"(c)
+
+Education and Training.—Activities carried out under subsection (a) shall—
+
+&emsp;"(1) promote education and training for students so as to support the future national security space workforce of the United States; and
+
+&emsp;"(2) explore opportunities for international collaboration.
+
+"(d)
+
+Termination.—The authority provided by this section shall expire on December 31, 2027."
+
 #### Space System Acquisition and the Adaptive Acquisition Framework
 
 Pub. L. 116–283, div. A, title VIII, §807, Jan. 1, 2021, 134 Stat. 3742, provided that:
@@ -188,7 +224,7 @@ In general.—Except as specifically provided by this subtitle \[subtitle D (§�
 
 &emsp;"(B) a civilian employee of the Space Force shall be treated as a civilian employee of the Air Force for the purpose of the application of any provision of law, including provisions of law relating to pay, benefits, and retirement;
 
-&emsp;"(C) the authority of the Secretary of Defense with respect to the Air Force, members of the Air Force, or civilian employees of the Air Force may be exercised by the Secretary with respect to the Space Force, members of the Space Force, or civilian employees of the Space Force; and
+&emsp;"(C) the authority of the Secretary of Defense with respect to the Air Force, members of the Air Force,or civilian employees of the Air Force may be exercised by the Secretary with respect to the Space Force, members of the Space Force, or civilian employees of the Space Force; and
 
 &emsp;"(D) the authority of the Secretary of the Air Force with respect to the Air Force, members of the Air Force, or civilian employees of the Air Force may be exercised by the Secretary with respect to the Space Force, members of the Space Force, or civilian employees of the Space Force.
 
@@ -272,7 +308,7 @@ Sec. 7. <i>Associated Elements</i>. (a) A Unified Combatant Command for space, t
 
 Sec. 8. <i>Relationship with National Intelligence</i>. The Secretary of Defense and the Director of National Intelligence shall create and enhance mechanisms for collaboration between the Department of Defense and the United States Intelligence Community in order to increase unity of effort and the effectiveness of space operations. The Secretary of Defense and the Director of National Intelligence shall provide a report to the President within 180 days of the date of this memorandum \[Feb. 19, 2019\] on steps they have taken and are planning to take toward these ends, including legislative proposals as necessary and appropriate.
 
-Sec. 9. <i>Operational Authorities</i>. In order to ensure that the United States Space Force and United States Space Command have the necessary operational authorities, the National Space Council and the National Security Council shall coordinate an accelerated review of space operational authorities. Within 90 days of the date of this memorandum, the Secretary of Defense shall present to the National Space Council and the National Security Council proposed relevant authority changesfor the President's approval. The National Space Council and the National Security Council shall then conduct an interagency review of the Secretary's proposal and make recommendations to the President on appropriate authorities, to be completed no later than 60 days from the date the Secretary of Defense presents his proposal to the councils.
+Sec. 9. <i>Operational Authorities</i>. In order to ensure that the United States Space Force and United States Space Command have the necessary operational authorities, the National Space Council and the National Security Council shall coordinate an accelerated review of space operational authorities. Within 90 days of the date of this memorandum, the Secretary of Defense shall present to the National Space Council and the National Security Council proposed relevant authority changes for the President's approval. The National Space Council and the National Security Council shall then conduct an interagency review of the Secretary's proposal and make recommendations to the President on appropriate authorities, to be completed no later than 60 days from the date the Secretary of Defense presents his proposal to the councils.
 
 Sec. 10. <i>Periodic Review</i>. As the United States Space Force matures, and as national security requires, it will become necessary to create a separate military department, to be known as the Department of the Space Force. This department will take over some or all responsibilities for the United States Space Force from the Department of the Air Force. The Secretary of Defense will conduct periodic reviews to determine when to recommend that the President seek legislation to establish such a department.
 

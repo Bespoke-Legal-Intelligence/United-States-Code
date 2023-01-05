@@ -2,7 +2,7 @@
 
 As used in this chapter the term—
 
-&emsp;(a) "double criminality" means that at the time of transfer of an offender the offense for which he has been sentenced is still an offense in the transferring country and is also an offense in the receiving country. With regard to a country which has a federal form of government, an act shall be deemed to be an offensein that country if it is an offense under the federal laws or the laws of any state or province thereof;
+&emsp;(a) "double criminality" means that at the time of transfer of an offender the offense for which he has been sentenced is still an offense in the transferring country and is also an offense in the receiving country. With regard to a country which has a federal form of government, an act shall be deemed to be an offense in that country if it is an offense under the federal laws or the laws of any state or province thereof;
 
 &emsp;(b) "imprisonment" means a penalty imposed by a court under which the individual is confined to an institution;
 

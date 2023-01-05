@@ -60,7 +60,7 @@ Exception to notice requirement.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding paragraph (2), and subject to subparagraph (B), notice may be provided to fewer than all contractors offering the property or services under a multiple award contract as described in subsection (a)(3)(A) if notice is provided to as many contractors as practicable.
+In general.—Notwithstanding paragraph (2), and subject to subparagraph (B), notice may be provided to fewer than allcontractors offering the property or services under a multiple award contract as described in subsection (a)(3)(A) if notice is provided to as many contractors as practicable.
 
 &emsp;&emsp;(B)
 
@@ -150,5 +150,5 @@ Pub. L. 116–92, div. A, title VIII, §893(b)(2), Dec. 20, 2019, 133 Stat. 1540
 
 #### Individual Acquisition for Commercial Leasing Services
 
-Pub. L. 115–232, div. A, title VIII, §877, Aug. 13, 2018, 132 Stat. 1907, which related to individual acquisition for commercial leasing services not construed as purchase of property or services under certain conditions, was repealed by Pub. L. 116–92, div. A, title VIII, §893(a), Dec. 20, 2019, 133 Stat. 1540.
+Pub. L. 115–232, div. A, title VIII, §877, Aug. 13, 2018, 132 Stat. 1907, which related to individual acquisitionfor commercial leasing services not construed as purchase of property or services under certain conditions, was repealed by Pub. L. 116–92, div. A, title VIII, §893(a), Dec. 20, 2019, 133 Stat. 1540.
 

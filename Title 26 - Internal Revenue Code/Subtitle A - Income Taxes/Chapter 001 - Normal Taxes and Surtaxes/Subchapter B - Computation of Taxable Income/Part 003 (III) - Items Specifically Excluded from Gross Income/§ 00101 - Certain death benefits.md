@@ -24,7 +24,7 @@
 
 #### (B) Reportable policy sale
 
-&emsp;&emsp;For purposes of this paragraph, the term "reportable policy sale" means the acquisition of an interest in a life insurance contract, directly or indirectly, if the acquirer has no substantial family, business, or financial relationship with the insured apart from the acquirer's interest in such life insurance contract. For purposes of the preceding sentence, the term "indirectly" applies to the acquisition of an interest in a partnership, trust, or other entity that holds an interest in the life insurance contract.
+&emsp;&emsp;For purposes of this paragraph, the term "reportable policy sale" means the acquisition of an interest in a life insurance contract, directly or indirectly, if the acquirer has no substantial family, business, or financial relationship with the insured apart from the acquirer's interest in such life insurancecontract. For purposes of the preceding sentence, the term "indirectly" applies to the acquisition of an interest in a partnership, trust, or other entity that holds an interest in the life insurance contract.
 
 #### \[(b) Repealed. Pub. L. 104–188, title I, §1402(a), Aug. 20, 1996, 110 Stat. 1789\]
 
@@ -66,7 +66,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;&emsp;(i) the sum of the premiums paid under such contract does not at any time exceed the guideline premium limitation as of such time, and
 
-&emsp;&emsp;&emsp;(ii) any amount payable by reason of the death of the insured (determined without regard to any qualified additional benefit)is not at any time less than the applicable percentage of the cash value of such contract at such time, or
+&emsp;&emsp;&emsp;(ii) any amount payable by reason of the death of the insured (determined without regard to any qualified additional benefit) is not at any time less than the applicable percentage of the cash value of such contract at such time, or
 
 &emsp;&emsp;(B) by the terms of such contract, the cash value of such contract may not at any time exceed the net single premium with respect to the amount payable by reason of the death of the insured (determined without regard to any qualified additional benefit) at such time.
 
@@ -150,7 +150,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (F) Premium payments not disqualifying contract
 
-&emsp;&emsp;The payment of a premium which would result in the sum of the premiums paid exceeding the guideline premium limitation shall be disregarded for purposes of paragraph (1)(A)(i) if the amount of such premium does not exceed the amount necessaryto prevent the termination of the contract without cash value on or before the end of the contract year.
+&emsp;&emsp;The payment of a premium which would result in the sum of the premiums paid exceeding the guideline premium limitation shall be disregarded for purposes of paragraph (1)(A)(i) if the amount of such premium does not exceed the amount necessary to prevent the termination of the contract without cash value on or before the end of the contract year.
 
 #### (G) Net single premium
 
@@ -200,7 +200,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "viatical settlement provider" means any person regularly engaged in the trade or business of purchasing, or taking assignments of, life insurance contracts on the lives of insureds described in paragraph (1) if—
+&emsp;&emsp;&emsp;The term "viatical settlement provider" means any person regularly engaged in thetrade or business of purchasing, or taking assignments of, life insurance contracts on the lives of insureds described in paragraph (1) if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such person is licensed for such purposes (with respect to insureds described in the same subparagraph of paragraph (1) as the insured) in the State in which the insured resides, or
 
@@ -286,7 +286,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (1) In general
 
-&emsp;Gross income shall not include any amount paid as a survivor annuity on account of the death of a public safety officer (as such term is defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968, as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013) killed in the line of duty—
+&emsp;Gross income shall not include any amount paid as a survivor annuity on account of thedeath of a public safety officer (as such term is defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968, as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013) killed in the line of duty—
 
 &emsp;&emsp;(A) if such annuity is provided, under a governmental plan which meets the requirements of section 401(a), to the spouse (or a former spouse) of the public safety officer or to a child of such officer; and
 
@@ -332,7 +332,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 #### (1) General rule
 
-&emsp;In the case of an employer-owned life insurance contract, the amount excluded fromgross income of an applicable policyholder by reason of paragraph (1) of subsection (a) shall not exceed an amount equal to the sum of the premiums and other amounts paid by the policyholder for the contract.
+&emsp;In the case of an employer-owned life insurance contract, the amount excluded from gross income of an applicable policyholder by reason of paragraph (1) of subsection (a) shall not exceed an amount equal to the sum of the premiums and other amounts paid by the policyholder for the contract.
 
 #### (2) Exceptions
 
@@ -410,7 +410,7 @@ If any amount excluded from gross income by subsection (a) is held under an agre
 
 &emsp;&emsp;The term "insured" means, with respect to an employer-owned life insurance contract, an individual covered by the contract who is a United States citizen or resident. In the case of a contract covering the joint lives of 2 individuals, references to an insured include both of the individuals.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2),title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429; Pub. L. 108–121, title I, §110(b)(1), (2), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 109–280, title VIII, §863(a), (c)(1), Aug. 17, 2006, 120 Stat. 1021, 1024; Pub. L. 112–239, div. A, title X, §1086(b)(3)(B), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 115–97, title I, §13522(a), (b), Dec. 22, 2017, 131 Stat. 2151, 2152.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 26; Pub. L. 85–866, title I, §23(d), Sept. 2, 1958, 72 Stat. 1622; Pub. L. 87–792, §7(c), Oct. 10, 1962, 76 Stat. 829; Pub. L. 89–365, §1(c), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title I, §101(j)(l), Dec. 30, 1969, 83 Stat. 526; Pub. L. 93–406, title II, §§2005(c)(15), 2007(b)(3), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 94–455, title XIX, §§1901(a)(16), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1765, 1834; Pub. L. 97–248, title II, §§239, 266(a), (b), Sept. 3, 1982, 96 Stat. 514, 547, 550; Pub. L. 98–369, div. A, title II, §221(b)(2), title IV, §421(b)(2), title VII, §713(e), July 18, 1984, 98 Stat. 772, 794, 958; Pub. L. 99–514, title X, §1001(a)–(c), Oct. 22, 1986, 100 Stat. 2387; Pub. L. 104–188, title I, §1402(a), (b)(1), Aug. 20, 1996, 110 Stat. 1789; Pub. L. 104–191, title III, §331(a), Aug. 21, 1996, 110 Stat. 2067; Pub. L. 105–34, title X, §1084(b)(2), title XV, §1528(a), Aug. 5, 1997, 111 Stat. 952, 1074; Pub. L. 107–134, title I, §102(a), Jan. 23, 2002, 115 Stat. 2429; Pub. L. 108–121, title I, §110(b)(1), (2), Nov. 11, 2003, 117 Stat. 1342; Pub. L. 109–280, title VIII, §863(a), (c)(1), Aug. 17, 2006, 120 Stat. 1021, 1024; Pub. L. 112–239, div. A, title X, §1086(b)(3)(B), Jan. 2, 2013, 126 Stat. 1968; Pub. L. 115–97, title I, §13522(a), (b), Dec. 22, 2017, 131 Stat. 2151, 2152.)
 
 #### <b>Editorial Notes</b>
 
@@ -458,7 +458,7 @@ Subsec. (g). Pub. L. 104–191 added subsec. (g).
 
 Subsec. (d)(2)(B). Pub. L. 99–514, §1001(c)(2), substituted "equal" for "is equal" in introductory provisions.
 
-Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1001(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "as discounted on the basis of the interest rate and mortality tables used by the insurer in calculating payments under the agreement."
+Subsec. (d)(2)(B)(ii). Pub. L. 99–514, §1001(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read asfollows: "as discounted on the basis of the interest rate and mortality tables used by the insurer in calculating payments under the agreement."
 
 Subsec. (d)(3), (4). Pub. L. 99–514, §1001(c)(1), redesignated par. (4) as (3), and struck out former par. (3), "Surviving spouse", which read as follows: "For purposes of this subsection, the term 'surviving spouse' means the spouse of the insured as of the date of death, including a spouse legally separated but not under a decree of absolute divorce."
 

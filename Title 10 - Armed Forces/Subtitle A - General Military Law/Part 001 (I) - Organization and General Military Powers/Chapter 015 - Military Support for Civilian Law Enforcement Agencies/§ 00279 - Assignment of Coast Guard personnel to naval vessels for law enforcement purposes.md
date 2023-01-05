@@ -18,7 +18,7 @@
 
 #### References in Text
 
-Section 374 of this title, referred to in subsecs. (c) and (d), was renumbered section 274 of this title by Pub. L.114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
+Section 374 of this title, referred to in subsecs. (c) and (d), was renumbered section 274 of this title by Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.
 
 #### Prior Provisions
 

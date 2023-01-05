@@ -64,7 +64,7 @@ The certification referred to in subsection (a)(3) for a fiscal year is a certif
 
 &emsp;&emsp;(i) the State will collect and report data in accordance with section 300w–5(a) of this title; and
 
-&emsp;&emsp;(ii) for purposes of subparagraph (A), progress will be measured through use of each of the applicable uniform data items developed by the Secretary under paragraph (2) of such section, or if no such items are applicable, through use of the uniform criteria developed by the Secretary under paragraph (3) of such section.
+&emsp;&emsp;(ii) for purposes of subparagraph (A), progress will be measured through use of each of the applicable uniform data items developed by the Secretary under paragraph (2) of such section, or if no such items areapplicable, through use of the uniform criteria developed by the Secretary under paragraph (3) of such section.
 
 &emsp;(6) With respect to the activities authorized in section 300w–3 of this title, the State agrees to maintain State expenditures for such activities at a level that is not less than the average level of such expenditures maintained by the State for the 2-year period preceding the fiscal year for which the State is applying to receive payments under section 300w–2 of this title.
 
@@ -132,7 +132,7 @@ The certification referred to in subsection (a)(3) for a fiscal year is a certif
 
 Subsec. (c)(3). Pub. L. 98–555, §5(a), redesignated par. (5) as (3). Former par. (3) redesignated (2).
 
-Subsec. (c)(4). Pub. L. 98–555, §5(a), redesignated par. (6) as (4). Former par. (4), which related to grants for preventive health service programs for hypertension, was struck out.
+Subsec. (c)(4). Pub. L. 98–555, §5(a), redesignated par. (6) as (4). Former par. (4), which related to grants forpreventive health service programs for hypertension, was struck out.
 
 Subsec. (c)(5) to (8). Pub. L. 98–555, §5(a), redesignated pars. (7) and (8) as (5) and (6), respectively. Former pars. (5) and (6) redesignated (3) and (4), respectively.
 

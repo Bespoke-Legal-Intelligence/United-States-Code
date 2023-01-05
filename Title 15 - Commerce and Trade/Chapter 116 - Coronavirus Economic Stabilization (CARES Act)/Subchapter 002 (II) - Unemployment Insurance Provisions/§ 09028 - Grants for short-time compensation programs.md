@@ -8,7 +8,7 @@
 
 #### (2) For promotion and enrollment
 
-&emsp;The Secretary shall award grants to States that are eligible and submit plans for a grant under paragraph (1) for such States to promoteand enroll employers in short-time compensation programs (as so defined).
+&emsp;The Secretary shall award grants to States that are eligible and submit plans for a grant under paragraph (1) for such States to promote and enroll employers in short-time compensation programs (as so defined).
 
 #### (3) Eligibility
 
@@ -88,7 +88,7 @@ There are appropriated, out of moneys in the Treasury not otherwise appropriated
 
 #### (h) Reporting
 
-The Secretary may establish reporting requirements for States receiving a grant underthis section in order to provide oversight of grant funds.
+The Secretary may establish reporting requirements for States receiving a grant under this section in order to provide oversight of grant funds.
 
 #### (i) Definitions
 

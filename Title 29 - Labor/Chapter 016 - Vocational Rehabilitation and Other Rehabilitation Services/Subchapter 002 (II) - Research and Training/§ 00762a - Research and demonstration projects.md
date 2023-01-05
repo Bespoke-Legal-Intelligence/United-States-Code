@@ -28,7 +28,7 @@ Within one year after the date appropriations are made under subsection (b) for 
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to this chapter (§701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to this chapter (§701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -36,7 +36,7 @@ The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 5
 
 In subsec. (c)(3), "section 1105 of title 31" was substituted for "section 201 of the Budget and Accounting Act, 1921 \[31 U.S.C. 11\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-Section was enacted as part of the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, and not as part of Rehabilitation Act of 1973 which comprises this chapter.
+Section was enacted as part of the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, and not as part of the Rehabilitation Act of 1973 which comprises this chapter.
 
 #### Amendments
 

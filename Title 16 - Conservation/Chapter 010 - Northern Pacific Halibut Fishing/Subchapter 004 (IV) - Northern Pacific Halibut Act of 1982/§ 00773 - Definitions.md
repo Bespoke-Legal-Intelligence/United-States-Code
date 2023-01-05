@@ -60,7 +60,7 @@ In General.—The amendment made by section 301(e)(3) \[amending section 1822 of
 
 "(b)
 
-Authority To Prescribe Regulations.—The authority to prescribe regulations to implement the amendments made by this title shall be effective on the date of enactment of this Act \[Mar. 9, 1992\], but no such regulation may be effective until the date on which theAgreement described in subsection (a) enters into force for the United States."
+Authority To Prescribe Regulations.—The authority to prescribe regulations to implement the amendments made by this title shall be effective on the date of enactment of this Act \[Mar. 9, 1992\], but no such regulation may be effective until the date on which the Agreement described in subsection (a) enters into force for the United States."
 
 #### Short Title
 

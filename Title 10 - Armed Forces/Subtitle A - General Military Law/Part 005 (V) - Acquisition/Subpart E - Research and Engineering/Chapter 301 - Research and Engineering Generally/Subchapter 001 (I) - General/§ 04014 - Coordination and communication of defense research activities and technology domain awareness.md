@@ -26,7 +26,7 @@ Defense Research Facility Defined.—In this section, the term "Defense research
 
 #### References in Text
 
-Section 4142(b) of this title, referred to in subsec. (b), probably should be a reference to section 4125(b) of this title. Pub. L. 116–283, div. A, title XVIII, §1844(d)(2), Jan. 1, 2021, 134 Stat. 4246, originally transferred section 2364(c) of this title, defining "Defense research facility", to section 4142(b) of this title. However, Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), (5)(B), Dec. 27, 2021, 135 Stat. 2153, 2154, amended Pub. L. 116–283, effective as if included therein, so as to eliminate that transfer and instead transfer section 2364(c) to section 4125(b) of this title.
+Section 4142(b) of this title, referred to in subsec. (b), probably should be a reference to section 4125(b) of this title. Pub. L. 116–283, div. A, title XVIII, §1844(d)(2), Jan. 1, 2021, 134 Stat. 4246, originally transferred section 2364(c) of this title, defining "Defense research facility", to section 4142(b) of this title. However, Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), (5)(B), Dec. 27,2021, 135 Stat. 2153, 2154, amended Pub. L. 116–283, effective as if included therein, so as to eliminate that transfer and instead transfer section 2364(c) to section 4125(b) of this title.
 
 #### Codification
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 #### Effective Date
 
-Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an EffectiveDate of 2021 Amendment note preceding section 3001 of this title.
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
 #### Collaboration Between Defense Laboratories, Industry, and Academia; Open Campus Program
 

@@ -170,19 +170,19 @@ In furtherance of the provisions of Title Three, Article IV, Section 341 of the 
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (b)(3), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(3), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 The enactment by the United States Congress of the Compact of Free Association Amendments Act of 2003, referred to in subsec. (b)(4), is the enactment of Pub. L. 108–188, which was approved Dec. 17, 2003.
 
 The Palau Compact, referred to in subsec. (e)(2)(B), probably means the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 
-The Compact of Free Association, approved by Public Law 99–239, referred to in subsec. (e)(6), is the Compact of Free Association between the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, as amended, set out as a note under section 1901 of this title.
+The Compact of Free Association, approved by Public Law 99–239, referred to in subsec. (e)(6), is the Compact of Free Association between the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
 
 This resolution, referred to in subsec. (e)(6), and this Act, referred to in subsec. (e)(9)(B)(iii), are references to Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
 
 The Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia, referred to in subsecs. (g) and (i), is contained in section 201(a) of Pub. L. 108–188, set out as a note under section 1921 of this title.
 
-The Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, referred to in subsecs. (g) and (i), is contained in section 201(b) of Pub. L. 108–188, set out as a note under section 1921 of this title.
+The Compact of Free Association, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, referred to in subsecs. (g) and (i), is contained in section 201(b) of Pub. L. 108–188, set out as a note under section 1921 of this title.
 
 The enactment of this resolution, referred to in subsec. (h)(1), is the enactment of Pub. L. 108–188, which was approved Dec. 17, 2003.
 
@@ -206,15 +206,13 @@ Subsec. (j). Pub. L. 110–229, §806(a)(2)(C), inserted "the" before "Interior)
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives and Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-#### <b>Executive Documents</b>
-
 #### Assignment of Reporting Functions
 
 Memorandum of President of the United States, July 21, 2005, 70 F.R. 43249, provided:
 
 Memorandum for the Secretary of the Interior
 
-By virtue of the authority vested in me by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 104(h) of the Compact of Free Association Amendments Act of 2003 (Public Law 108–188) \[48 U.S.C. 1921c(h)\].
+By virtue of the authority vested in me by the Constitution and the laws of the United States, includingsection 301 of title 3, United States Code, I hereby assign to you the functions of the President under section 104(h) of the Compact of Free Association Amendments Act of 2003 (Public Law 108–188) \[48 U.S.C. 1921c(h)\].
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

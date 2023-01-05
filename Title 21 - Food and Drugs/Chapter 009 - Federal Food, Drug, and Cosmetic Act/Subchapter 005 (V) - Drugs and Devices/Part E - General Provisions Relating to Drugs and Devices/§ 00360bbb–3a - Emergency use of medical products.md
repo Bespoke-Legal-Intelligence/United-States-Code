@@ -50,7 +50,7 @@ In this section:
 
 #### (3) Effect
 
-&emsp;Notwithstanding any other provision of this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\], an eligible product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title) and shall not be deemed adulterated ormisbranded under this chapter because, with respect to such product, the Secretary has, under paragraph (1), extended the expiration date and authorized the introduction or delivery for introduction into interstate commerce of such product after the expiration date provided by the manufacturer.
+&emsp;Notwithstanding any other provision of this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\], an eligible product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title) and shall not be deemed adulterated or misbranded under this chapter because, with respect to such product, the Secretary has, under paragraph (1), extended the expiration date and authorized the introduction or delivery for introduction into interstate commerce of such product after the expiration date provided by the manufacturer.
 
 #### (4) Expiration date
 

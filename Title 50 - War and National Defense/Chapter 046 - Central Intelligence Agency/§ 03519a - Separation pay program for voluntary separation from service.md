@@ -22,7 +22,7 @@ In order to avoid or minimize the need for involuntary separations due to downsi
 
 &emsp;An employee may not be separated from service under this section unless the employee agrees that the employee will not—
 
-&emsp;&emsp;(A) act as agent or attorney for, or otherwise represent, any other person (except the United States) in any formal or informal appearance before, or, with the intent to influence, make any oral or written communication on behalf of any other person (except the United States) to the Central Intelligence Agency; or
+&emsp;&emsp;(A) act as agent or attorney for, or otherwise represent, any other person (except theUnited States) in any formal or informal appearance before, or, with the intent to influence, make any oral or written communication on behalf of any other person (except the United States) to the Central Intelligence Agency; or
 
 &emsp;&emsp;(B) participate in any manner in the award, modification, extension, or performance of any contract for property or services with the Central Intelligence Agency,
 
@@ -114,25 +114,11 @@ Pub. L. 104–93, §401(b), added subsec. (i).
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment;Transition Provisions note under section 3001 of this title.
 
 #### Post-Employment Restrictions
 
-Pub. L. 104–293, title IV, §402, Oct. 11, 1996, 110 Stat. 3468, provided that:
-
-"(a)
-
-In General.—Not later than 90 days after the date of enactment of this Act \[Oct. 11, 1996\], the Director of Central Intelligence shall prescribe regulations requiring each employee of the Central Intelligence Agency designated by the Director for such purpose to sign a written agreement restricting the activities of the employee upon ceasing employment with the Central Intelligence Agency. The Director may designate a group or class of employees for such purpose.
-
-"(b)
-
-Agreement Elements.—The regulations shall provide that an agreement contain provisions specifying that the employee concerned not represent or advise the government, or any political party, of any foreign country during the three-year period beginning on the cessation of the employee's employment with the Central Intelligence Agency unless the Director determines that such representation or advice would be in the best interests of the United States.
-
-"(c)
-
-Disciplinary Actions.—The regulations shall specify appropriate disciplinary actions (including loss of retirement benefits) to be taken against any employee determined by the Director of Central Intelligence to have violated the agreement of the employee under this section."
-
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.\]
+Pub. L. 104–293, title IV, §402, Oct. 11, 1996, 110 Stat. 3468, which authorized the Director of Central Intelligence to prescribe regulations requiring each employee of the Central Intelligence Agency designated by the Director for such purpose to sign a written agreement restricting the activities of the employee upon ceasing employment with the Central Intelligence Agency, was repealed by Pub. L. 117–263, div. F, title LXIII, §6301(f), Dec. 23, 2022, 136 Stat. 3501.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

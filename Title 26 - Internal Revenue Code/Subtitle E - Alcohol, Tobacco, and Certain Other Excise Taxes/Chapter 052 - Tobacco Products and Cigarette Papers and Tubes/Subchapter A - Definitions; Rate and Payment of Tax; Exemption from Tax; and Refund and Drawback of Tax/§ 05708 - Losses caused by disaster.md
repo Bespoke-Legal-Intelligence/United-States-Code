@@ -32,7 +32,7 @@ All provisions of law, including penalties, applicable in respect of internal re
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
 
@@ -62,5 +62,5 @@ Section effective Sept. 3, 1958, see section 210(a)(1) of Pub. L. 85–859, set 
 
 #### Losses of Tobacco Products Caused by Disaster
 
-Pub. L. 85–859, title II, §209, Sept. 2, 1958, 72 Stat. 1434, authorized payments, without interest, of amounts equal to internal revenue taxes and customs duties paid by persons suffering a major disaster, pursuant to former act Sept. 30, 1950, ch. 1125, 64 Stat. 1109, for disasters occurring in the United States after Dec. 31, 1954, and before Sept. 2, 1958, in respect to tobacco products and cigarette papers and tubes; specified persons to whom the payments would be made and the procedure for allowance of claims; required the destruction of such tobacco products and cigarette papers and tubes under supervision; and made other laws applicable to such payments insofar as not inconsistent with section 209 of Pub. L. 85–859.
+Pub. L. 85–859, title II, §209, Sept. 2, 1958, 72 Stat. 1434, authorized payments, without interest, of amounts equal to internal revenue taxes and customs duties paidby persons suffering a major disaster, pursuant to former act Sept. 30, 1950, ch. 1125, 64 Stat. 1109, for disasters occurring in the United States after Dec. 31, 1954, and before Sept. 2, 1958, in respect to tobacco products and cigarette papers and tubes; specified persons to whom the payments would be made and the procedure for allowance of claims; required the destruction of such tobacco products and cigarette papers and tubes under supervision; and made other laws applicable to such payments insofar as not inconsistent with section 209 of Pub. L. 85–859.
 

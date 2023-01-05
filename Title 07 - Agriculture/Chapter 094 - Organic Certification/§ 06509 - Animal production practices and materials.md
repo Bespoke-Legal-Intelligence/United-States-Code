@@ -44,7 +44,7 @@ For a farm to be certified under this chapter as an organic farm with respect to
 
 #### (1) Poultry
 
-&emsp;With the exception of day old poultry, all poultry from which meat or eggs will be soldor labeled as organically produced shall be raised and handled in accordance with this chapter prior to and during the period in which such meat or eggs are sold.
+&emsp;With the exception of day old poultry, all poultry from which meat or eggs will be sold or labeled as organically produced shall be raised and handled in accordance with this chapter prior to and during the period in which such meat or eggs are sold.
 
 #### (2) Dairy livestock
 
@@ -90,5 +90,5 @@ Subsecs. (g), (h). Pub. L. 102–237, §1001(2)(B), redesignated subsec. (h) as 
 
 #### Regulations
 
-Pub. L. 116–94, div. B, title VII, §756, Dec. 20, 2019, 133 Stat. 2654, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Agriculture shall issue a final rule based on the proposed rule entitled 'National Organic Program; Origin of Livestock,' published in the <i>Federal Register</i> on April 28, 2015 (80 Fed. Reg. 23455): <i>Provided</i>, That the final rule shall incorporate public comments submitted in response to the proposed rule."
+Pub. L. 116–94, div. B, title VII, §756, Dec. 20, 2019, 133 Stat. 2654, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], theSecretary of Agriculture shall issue a final rule based on the proposed rule entitled 'National Organic Program; Origin of Livestock,' published in the <i>Federal Register</i> on April 28, 2015 (80 Fed. Reg. 23455): <i>Provided</i>, That the final rule shall incorporate public comments submitted in response to the proposed rule."
 

@@ -48,7 +48,7 @@ In general.—Except as provided in clause (ii), this paragraph shall not apply 
 
 Certain refundings.—This paragraph shall apply to any obligation (or series of obligations) issued to refund an obligation issued on or before December 31, 1986, if—
 
-&emsp;"(I) the average maturity date of the issue of which the refunding obligation is a part is not later than the average maturity date of the obligations to be refunded by such issue,
+&emsp;"(I) the average maturity date of the issue of which the refunding obligation is a part is not later thanthe average maturity date of the obligations to be refunded by such issue,
 
 &emsp;"(II) the amount of the refunding obligation does not exceed the outstanding amount of the refunded obligation, and
 
@@ -98,7 +98,7 @@ Subsec. (m)(1). Pub. L. 99–514, §1871(a)(1), substituted "(j), (k), (l), (n),
 
 Subsec. (m)(3)(B). Pub. L. 99–514, §1899A(3), substituted "608(a)(6)(A)" for "608(6)(A)".
 
-Subsec. (n). Pub. L. 99–514, §1301(a), in amending section generally, struck out subsec. (n) which related tolimitation on aggregate amount of private activity bonds issued during any calendar year.
+Subsec. (n). Pub. L. 99–514, §1301(a), in amending section generally, struck out subsec. (n) which related to limitation on aggregate amount of private activity bonds issued during any calendar year.
 
 Subsec. (n)(6)(A), (B)(i). Pub. L. 99–514, §1864(b), substituted "governmental units or other authorities" for "governmental units".
 
@@ -146,7 +146,7 @@ Subsec. (c)(6), (7). Pub. L. 98–369, §624(a), added par. (6) and redesignated
 
 Subsec. (h). Pub. L. 98–369, §622, amended subsec. (h) generally, in par. (1) substituting provisions that obligations are not included in the section if they are federally guaranteed for provisions which excluded obligations guaranteed, in whole or part, by the U.S. under a program to conserve energy, or under other Federal or State programs, in par. (2) substituting provisions defining "federally guaranteed" for provisions setting forth obligations to which this subsection applies, and adding pars. (3) to (5).
 
-Subsec. (m)(1). Pub. L. 98–369, §628(a)(1), inserted "In the case of an obligation issued after December 31, 1983, such obligation shall not be treated as described in this paragraph unless the appropriate requirements of subsections (b), (c), (h), (k), (l), and (n) of this section and section 103A are met with respect to such obligation. For purposes of applying such requirements, a possession of the United States shall be treated as a State; except that clause (ii) of subsection (n)(4)(A) shall not apply."
+Subsec. (m)(1). Pub. L. 98–369, §628(a)(1), inserted "In the case of an obligation issued after December 31, 1983,such obligation shall not be treated as described in this paragraph unless the appropriate requirements of subsections (b), (c), (h), (k), (l), and (n) of this section and section 103A are met with respect to such obligation. For purposes of applying such requirements, a possession of the United States shall be treated as a State; except that clause (ii) of subsection (n)(4)(A) shall not apply."
 
 Subsec. (m)(2)(B). Pub. L. 98–369, §628(a)(2), substituted "is exempt from tax under this title without regard to any provision of law which is not contained in this title and which is not contained in a revenue Act" for "is exempt from taxation under any provision of this title".
 
@@ -288,7 +288,7 @@ Amendment by sections 1864(b)–(e), 1865(a), 1869(a), (b), 1870, and 1871(b) of
 
 Pub. L. 99–514, title XVIII, §1864(a)(2), Oct. 22, 1986, 100 Stat. 2885, provided that:
 
-"(A) Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall apply to obligations issued after the date ofthe enactment of this Act \[Oct. 22, 1986\] in taxable years ending after such date.
+"(A) Except as provided in subparagraph (B), the amendment made by paragraph (1) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Oct. 22, 1986\] in taxable years ending after such date.
 
 "(B) At the election of the issuer (made at such time and in such manner as the Secretary of the Treasury or his delegate shall prescribe), the amendment made by paragraph (1) shall apply to any obligation issued on or before the date of the enactment of this Act."
 
@@ -345,7 +345,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 &emsp;"(B)
 
-Pennsylvania higher education assistance agency.—Subparagraph (A) shall apply to obligations issued by the Pennsylvania Higher Education Assistance Agency only if such obligations are issued solely for the purpose of refunding student loan bonds outstanding on March 15, 1984.
+Pennsylvania higher education assistance agency.—Subparagraph (A) shall apply to obligationsissued by the Pennsylvania Higher Education Assistance Agency only if such obligations are issued solely for the purpose of refunding student loan bonds outstanding on March 15, 1984.
 
 "(3)
 
@@ -453,7 +453,7 @@ Refunding.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Except as provided in clause (ii), in the case of property placed in service after December 31, 1983, which is financed by the proceeds of an obligation which is issued solely to refund another obligation which was issued before October 19, 1983, the amendments made by section 628(b) shall apply only with respect to an amount equal to the basis in such property which has not been recovered before the date such refunded obligation is issued.
+In general.—Except as provided in clause (ii), in the case of property placed in service after December 31, 1983, which is financed by the proceeds of an obligation which is issued solely to refund another obligation which was issued before October 19, 1983, the amendments made by section 628(b) shall apply only with respect to an amountequal to the basis in such property which has not been recovered before the date such refunded obligation is issued.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -499,7 +499,7 @@ Exception.—Subparagraph (A) shall not apply with respect to the amendment made
 
 &emsp;"(4)
 
-Repeal of advance refunding of qualified public facilities.—The amendment made by section 628(g) \[amending this section\] shall apply to refunding obligations issued after the date of the enactment of this Act \[July 18, 1984\]; except that if substantially all the proceeds of the refunded issue were used to provide airports or docks, such amendment shall only apply to refunding obligations issued after December 31, 1984. In the case of refunding obligations not to exceed $100,000,000 issued after October 21, 1986, by Dade County, Florida, for the purpose of advance refunding its Aviation Revenue Bonds (Series J), the first sentence of this paragraph shall be applied by substituting 'the date which is 1 year after the date of the enactment of the Technical and MiscellaneousRevenue Act of 1988 \[Nov. 10, 1988\]' for 'December 31, 1984' and the amendments made by section 1301 of the Tax Reform Act of 1986 \[section 1301 of Pub. L. 99–514, enacting sections 141 to 150 and 7703 of this title, amending this section and sections 2, 22, 25, 32, 86, 105, 152, 153, 163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing section 103A of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall not apply. In the case of refunding obligations not exceeding $100,000,000 issued by the Alabama State Docks Department, the first sentence of this paragraph shall be applied by substituting 'December 31, 1987' for 'December 31, 1984' and the Internal Revenue Code of 1986 shall be applied without regard to \[former\] section 149(d)(2)..\[sic\]
+Repeal of advance refunding of qualified public facilities.—The amendment made by section 628(g) \[amending this section\] shall apply to refunding obligations issued after the date of the enactment of this Act \[July 18, 1984\]; except that if substantially all the proceeds of the refunded issue were used to provide airports or docks, such amendment shall only apply to refunding obligations issued after December 31, 1984. In the case of refunding obligations not to exceed $100,000,000 issued after October 21, 1986, by Dade County, Florida, for the purpose of advance refunding its Aviation Revenue Bonds (Series J), the first sentence of this paragraph shall be applied by substituting 'the date which is 1 year after the date of the enactment of the Technical and Miscellaneous Revenue Act of 1988 \[Nov. 10, 1988\]' for 'December 31, 1984' and the amendments made by section 1301 of the Tax Reform Act of 1986 \[section 1301 of Pub. L. 99–514, enacting sections 141 to 150 and 7703 of this title, amending this section and sections 2, 22, 25, 32, 86, 105, 152, 153, 163, 194, 269A, 414, 879, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing section 103A of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall not apply. In the case of refunding obligations not exceeding $100,000,000 issued by the Alabama State Docks Department, the first sentence of this paragraph shall be applied by substituting 'December 31, 1987' for 'December 31, 1984' and the Internal Revenue Code of 1986 shall be applied without regard to \[former\] section 149(d)(2)..\[sic\]
 
 &emsp;"(5)
 
@@ -533,7 +533,7 @@ Provisions of This Subtitle Not To Apply to Certain Property.—The amendments m
 
 &emsp;&emsp;"(B) such city government (or a public authority on its behalf) issues obligations for such facility before January 1, 1988, and
 
-&emsp;&emsp;"(C) expenditures have been made for the development of such facility before October 19, 1983. Notwithstanding the foregoing provisions of this subsection, the amendments made by section 624 \[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] (relating to arbitrage) shall apply to obligations issued to finance property described in paragraph (5).
+&emsp;&emsp;"(C) expenditures have been made for the development of such facility before October 19, 1983. Notwithstanding the foregoing provisions of this subsection, the amendments made by section 624\[amending sections 103 and 103A of this title and enacting provisions set out as a note under this section\] (relating to arbitrage) shall apply to obligations issued to finance property described in paragraph (5).
 
 "(e)
 
@@ -607,7 +607,7 @@ Public approval.—The amendment made by subsection (a) \[amending this section\
 
 Information reporting.—The amendments made by subsection (b) \[amending this section\] shall apply to obligations issued after December 31, 1982 (including any obligation issued to refund an obligation issued before such date)."
 
-Pub. L. 97–248, title II, §217(e), Sept. 3, 1982, 96 Stat. 474, as amended by Pub. L. 98–369, div. A, title VII, §712(h), July 18, 1984, 98 Stat. 947; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendmentsmade by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Sept. 3, 1982\]. For purposes of applying section 168(f)(8)(D)(v) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the amendments made by subsection (c) \[amending this section\] shall apply to agreements entered into after the date of the enactment of this Act."
+Pub. L. 97–248, title II, §217(e), Sept. 3, 1982, 96 Stat. 474, as amended by Pub. L. 98–369, div. A, title VII, §712(h), July 18, 1984, 98 Stat. 947; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Sept. 3, 1982\]. For purposes of applying section 168(f)(8)(D)(v) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the amendments made by subsection (c) \[amending this section\] shall apply to agreements entered into after the date of the enactment of this Act."
 
 Pub. L. 97–248, title II, §219(b), Sept. 3, 1982, 96 Stat. 475, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after December 31, 1982."
 
@@ -645,7 +645,7 @@ Pub. L. 97–34, title VIII, §812(b)(1), Aug. 13, 1981, 95 Stat. 350, provided 
 
 For effective date of amendment by Pub. L. 96–499, see section 1104 of Pub. L. 96–499, set out as an Effective Date note under section 103A of this title.
 
-Pub. L. 96–223, title II, §241(d), Apr. 2, 1980, 94 Stat. 283, provided that: "The amendments made by subsection (a) \[amending this section\] and the provisions of subsections (b) and (c) \[set out as notes under this section\] shall apply with respect to obligations issued after October 18, 1979."
+Pub. L. 96–223, title II, §241(d), Apr. 2, 1980, 94 Stat. 283, provided that: "The amendments made by subsection (a) \[amending this section\] and the provisionsof subsections (b) and (c) \[set out as notes under this section\] shall apply with respect to obligations issued after October 18, 1979."
 
 Pub. L. 96–223, title II, §242(c), Apr. 2, 1980, 94 Stat. 285, provided that: "The amendments made by subsection (a) \[amending this section\] and the provisions of subsection (b) \[set out as a note under this section\] shall apply with respect to obligations issued after October 18, 1979."
 
@@ -977,7 +977,7 @@ Arbitrage Regulations.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall prescribe regulations which specify the circumstances under which a qualified student loan bond shall be treatedas an arbitrage bond for purposes of section 103 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]. Such regulations may provide that—
+In general.—The Secretary shall prescribe regulations which specify the circumstances under which a qualified student loan bond shall be treated as an arbitrage bond for purposes of section 103 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]. Such regulations may provide that—
 
 &emsp;&emsp;"(A) paragraphs (4) and (5) of section 103(c) of such Code shall not apply, and
 
@@ -1047,7 +1047,7 @@ Issuance of Student Loan Bonds Which Are Not Tax-Exempt.—Any issuer who may is
 
 "(d)
 
-Federal Executive Branch Jurisdiction Over Tax-Exempt Status.—For purposes of Federal law, any determination by the executive branch of the Federal Government of whether interest on any obligation is exempt from taxation under the Internal Revenue Code of 1986 shall be exclusively within the jurisdiction of the Department of the Treasury.
+Federal Executive Branch Jurisdiction Over Tax-Exempt Status.—For purposes of Federal law, anydetermination by the executive branch of the Federal Government of whether interest on any obligation is exempt from taxation under the Internal Revenue Code of 1986 shall be exclusively within the jurisdiction of the Department of the Treasury.
 
 "(e)
 
@@ -1097,7 +1097,7 @@ Pub. L. 96–223, title II, §241(c), Apr. 2, 1980, 94 Stat. 282, as amended by 
 
 "(1)
 
-In general.—Subparagraph (C) of section 103(g)(3) of the Internal Revenue Code of 1986 \[formerlyI.R.C. 1954\] (as added by subsection (a)) shall not apply to any facility for the production of alcohol from solid waste if—
+In general.—Subparagraph (C) of section 103(g)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall not apply to any facility for the production of alcohol from solid waste if—
 
 &emsp;"(A) substantially all of the solid waste derived feedstock for such facility is produced at a facility which—
 
@@ -1207,7 +1207,7 @@ Rule for Governments Which Have Already Paid Arbitrage Profits to the United Sta
 
 &emsp;"(2) failed to receive a favorable ruling and did not pay the refund profit to a charitable organization, and
 
-> which accounted to the United States for refund profit by direct payment to the United States, or by the purchase of low-interest United States obligations, the Secretary of the Treasury shall pay, out of any amounts in the Treasury not otherwise appropriated, an amount equal to the refund profit for which theState or local government has accounted to the United States. Amounts paid to a State or local government under this subsection shall be distributed to such charitable organizations within 90 days after the date on which the payment is received by the State or local government in the same manner as if the refund profit had not been paid to the United States and met the requirements of subsection (a).
+> which accounted to the United States for refund profit by direct payment to the United States, or by the purchase of low-interest United States obligations, the Secretary of the Treasury shall pay, out of any amounts in the Treasury not otherwise appropriated, an amount equal to the refund profit for which the State or local government has accounted to the United States. Amounts paid to a State or local government under this subsection shall be distributed to such charitable organizations within 90 days after the date on which the payment is received by the State or local government in the same manner as if the refund profit had not been paid to the United States and met the requirements of subsection (a).
 
 "(c)
 

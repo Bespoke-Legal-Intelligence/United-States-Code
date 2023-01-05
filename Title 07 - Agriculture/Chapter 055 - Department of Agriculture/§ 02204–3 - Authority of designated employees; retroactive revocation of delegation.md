@@ -8,5 +8,5 @@ Whenever a delegation is made under section 2204–2 of this title, all provisio
 
 #### Codification
 
-Section was formerly classified to section 450e of this title prior to editorial reclassification and renumbering as this section, and to section 516c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 450e of this title prior to editorial reclassification and renumberingas this section, and to section 516c of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 

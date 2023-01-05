@@ -106,7 +106,7 @@ Pub. L. 103–43, title XIX, §1901(b), June 10, 1993, 107 Stat. 200, provided t
 
 "(1)
 
-In general.—The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriate inclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy of HIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations.
+In general.—The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriateinclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy of HIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations.
 
 "(2)
 
@@ -128,13 +128,13 @@ Ex. Ord. No. 12963, June 14, 1995, 60 F.R. 31905, as amended by Ex. Ord. No. 130
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the Secretary of Health and Human Services to exercise her discretion as follows:
 
-Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services (the "Secretary") shall establish an HIV/AIDS Advisory Council (the "Advisory Council" or the "Council"), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services (the "Secretary") shall establish an HIV/AIDS Advisory Council (the "Advisory Council" or the "Council"), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\].
 
 (b) The Secretary shall designate a Chairperson from among the members of the Advisory Council.
 
 Sec. 2. <i>Functions</i>. The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to (a) promote effective prevention of HIV disease, (b) advance research on HIV and AIDS, and (c) promote quality services to persons living with HIV disease and AIDS. The functions of the Advisory Council shall be solely advisory in nature. The Secretary shall provide the President with copies of all written reports provided to the Secretary by the Advisory Council.
 
-Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permittedby law, provide the Advisory Council with such information as it may require for purposes of carrying out its functions.
+Sec. 3. <i>Administration</i>. (a) The heads of executive departments and agencies shall, to the extent permitted by law, provide the Advisory Council with such information as it may require for purposes of carrying out its functions.
 
 (b) Any members of the Advisory Council that receive compensation shall be compensated in accordance with Federal law. Committee members may be allowed travel expenses, including per diem in lieu of subsistence, to the extent permitted by law for persons serving intermittently in the Government service (5 U.S.C. section 5701–5707).
 
@@ -148,7 +148,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Presidential Advisory Council on HIV/AIDS
 
-Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of Presidential Advisory Council on HIV/AIDS were contained in the following prior Executive Orders:
 
@@ -168,7 +168,7 @@ Section 1. <i>Policy</i>. Addressing the domestic HIV epidemic is a priority of 
 
 Since the release of the Strategy, additional scientific discoveries have greatly enhanced our understanding of how to prevent and treat HIV. Accordingly, further Federal action is appropriate in response to these new developments. For example, a breakthrough research trial supported by the National Institutes of Health showed that initiating HIV treatment when the immune system was relatively healthy reduced HIV transmission by 96 percent. In addition, evidence suggests that early treatment may reduce HIV-related complications. These findings highlight the importance of prompt HIV diagnosis, and because of recent advances in HIV testing technology, HIV can be detected sooner and more rapidly than ever before.
 
-Based on these and other data, recommendations for HIV testing and treatment have changed. The U.S. Preventive Services Task Force now recommends that clinicians screen all individuals ages 15 to 65 years for HIV, and the Department of Health and Human Services Guidelines for Use of Antiretroviral Agents now recommends offering treatment to all adolescents and adults diagnosed with HIV.
+Based on these and other data, recommendations for HIV testing and treatment have changed. The U.S. Preventive Services Task Force now recommends that clinicians screen all individuals ages 15 to 65 years forHIV, and the Department of Health and Human Services Guidelines for Use of Antiretroviral Agents now recommends offering treatment to all adolescents and adults diagnosed with HIV.
 
 Furthermore, ongoing implementation of the Affordable Care Act provides a historic opportunity for Americans to access affordable, quality health care. The Act is expanding access to recommended preventive services with no out-of-pocket costs, including HIV testing, and, beginning in 2014, insurance companies will not be able to deny coverage based on pre-existing conditions, including HIV. Starting October 1, 2013, Americans can select the coverage that best suits them through the new Health Insurance Marketplace, and coverage will begin January 1, 2014.
 
@@ -300,7 +300,7 @@ Sec. 6. <i>National HIV/AIDS Strategy Federal Interagency Working Group</i>. The
 
 (b) <i>Consultation</i>. The Federal Interagency Working Group shall consult with the PACHA, as appropriate.
 
-(c) <i>Outreach</i>. The Federal Interagency Working Group shall hold regular meetings and conduct outreach with representatives of private and nonprofit organizations, State, tribal, and local governments and agencies, elected officials, and other interested persons to assist the Federal Interagency Working Group in its efforts.
+(c) <i>Outreach</i>. The Federal Interagency Working Group shall hold regular meetings and conduct outreach with representatives of private and nonprofit organizations, State, tribal, and local governments and agencies,elected officials, and other interested persons to assist the Federal Interagency Working Group in its efforts.
 
 (d) <i>Functions</i>. As part of its efforts, the Federal Interagency Working Group shall:
 
@@ -342,7 +342,7 @@ Memorandum of President of the United States, July 13, 2010, 75 F.R. 41687, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-As we approach 30 years from the onset of the HIV/AIDS epidemic in the United States, new actions are needed to prevent HIV infection and better serve people living with HIV. The actions we take now will build upon a legacy of global leadership, national commitment, and sustained efforts on the part of Americansfrom all parts of the country and all walks of life to end the HIV epidemic in the United States and around the world. I am committed to renewing national leadership to fight HIV/AIDS here at home, as we continue our efforts to fight HIV/AIDS around the world. My Administration has engaged in an extensive process to engage Americans and listen to their ideas for improving our national response to HIV/AIDS.
+As we approach 30 years from the onset of the HIV/AIDS epidemic in the United States, new actions are needed to prevent HIV infection and better serve people living with HIV. The actions we take now will build upon a legacy of global leadership, national commitment, and sustained efforts on the part of Americans from all parts of the country and all walks of life to end the HIV epidemic in the United States and around the world. I am committed to renewing national leadership to fight HIV/AIDS here at home, as we continue our efforts to fight HIV/AIDS around the world. My Administration has engaged in an extensive process to engage Americans and listen to their ideas for improving our national response to HIV/AIDS.
 
 Today I am releasing a National HIV/AIDS Strategy for the United States (Strategy) and a National HIV/AIDS Strategy Federal Implementation Plan (Federal Implementation Plan), which identifies specific actions to be taken by Federal agencies to implement the Strategy's goals. While agencies already undertake many actions to address HIV/AIDS, successful implementation of the Strategy will require new levels of coordination, collaboration, and accountability. This will require the Federal Government to work in new ways across agency lines, as well as in enhanced and innovative partnerships with State, tribal, and local governments. Government cooperation at all levels, moreover, is not enough. Success will require the commitment of all parts of society, including businesses, faith communities, philanthropic organizations, scientific and medical communities, educational institutions, people living with HIV, and others. It is also necessary to sustain public commitment to ending the epidemic, and this calls for regular communications between governments at all levels to identify the challenges we face and report the progress we are making. To these ends, I hereby direct the following:
 

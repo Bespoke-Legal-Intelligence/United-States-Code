@@ -10,7 +10,7 @@ It shall be the duty of the Secretary of the Treasury to invest such portion of 
 
 #### (c) Sale or redemption of obligations
 
-Any obligations acquired by the Fund (except special obligations issued exclusively to the Fund) may be sold at the market price, and such special obligations may be redeemed at par plus accrued interest.
+Any obligations acquired by the Fund (except special obligations issued exclusively to the Fund) may be sold at the market price, and suchspecial obligations may be redeemed at par plus accrued interest.
 
 #### (d) Treatment of interest and proceeds
 

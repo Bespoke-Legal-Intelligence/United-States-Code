@@ -18,7 +18,7 @@ Priorities in Selecting and Scheduling Projects.—When selecting and scheduling
 
 &emsp;(5) Improvements that will pay for the investment by achieving lower operating or maintenance costs should be carried out before other improvements.
 
-&emsp;(6) Construction operations should be scheduled so that the fewest possible passengers are inconvenienced, transportation is maintained, and the on-time performance of Northeast Corridor commuter rail passenger and rail freight transportation is optimized.
+&emsp;(6) Construction operations should be scheduled so that the fewest possible passengers are inconvenienced, transportation is maintained,and the on-time performance of Northeast Corridor commuter rail passenger and rail freight transportation is optimized.
 
 &emsp;(7) Planning should focus on completing activities that will provide immediate benefits to users of the Northeast Corridor.
 
@@ -264,7 +264,7 @@ In subsection (k)(1), before clause (A), the words "take all steps necessary to"
 
 #### References in Text
 
-Section 703(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (e) and (f), is section 703(1)(E) of Pub. L. 94–210, which was classified to section 853(1)(E) of Title 45, Railroads, and was repealed and reenacted as subsec. (h) of this section by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 932, 1379.
+Section 703(1)(E) of the Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs.\(e) and (f), is section 703(1)(E) of Pub. L. 94–210, which was classified to section 853(1)(E) of Title 45, Railroads, and was repealed and reenacted as subsec. (h) of this section by Pub. L. 103–272, §§1(e), 7(b), July 5, 1994, 108 Stat. 932, 1379.
 
 #### Amendments
 

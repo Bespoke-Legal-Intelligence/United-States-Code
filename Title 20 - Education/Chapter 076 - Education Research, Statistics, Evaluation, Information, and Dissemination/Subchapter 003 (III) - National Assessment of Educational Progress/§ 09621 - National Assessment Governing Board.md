@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established the National Assessment Governing Board (hereafter in this subchapter referred to as the "Assessment Board"), which shall formulate policy guidelines for the National Assessment (carried out under section 9622 of this title).
+There is established the National Assessment Governing Board (hereafter in this subchapterreferred to as the "Assessment Board"), which shall formulate policy guidelines for the National Assessment (carried out under section 9622 of this title).
 
 #### (b) Membership
 
@@ -126,7 +126,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (5) Technical
 
-&emsp;In carrying out the duties required by paragraph (1), the Assessment Board may seektechnical advice, as appropriate, from the Commissioner for Education Statistics and other experts.
+&emsp;In carrying out the duties required by paragraph (1), the Assessment Board may seek technical advice, as appropriate, from the Commissioner for Education Statistics and other experts.
 
 #### (6) Report
 
@@ -158,15 +158,11 @@ The Commissioner for Education Statistics and the Assessment Board shall meet pe
 
 #### (h) Administration
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Assessment Board, other than sections 10, 11, and 12 of such Act.
+Chapter 10 of title 5 shall not apply with respect to the Assessment Board, other than sections 1009, 1010, and 1011 of title 5.
 
-(Pub. L. 107–279, title III, §302, formerly Pub. L. 103–382, title IV, §412, Oct. 20, 1994, 108 Stat. 4039; Pub. L. 106–554, §1(a)(1) \[title III, §307\], Dec. 21, 2000, 114 Stat. 2763, 2763A–44; Pub. L. 107–110, title VI, §602(b), Jan. 8, 2002, 115 Stat. 1904; renumbered Pub. L. 107–279, title III, §302, and amended Pub. L. 107–279, title IV, §401(c), Nov. 5, 2002, 116 Stat. 1983.)
+(Pub. L. 107–279, title III, §302, formerly Pub. L. 103–382, title IV, §412, Oct. 20, 1994, 108 Stat. 4039; Pub. L. 106–554, §1(a)(1) \[title III, §307\], Dec. 21, 2000, 114 Stat. 2763, 2763A–44; Pub. L. 107–110, title VI, §602(b), Jan. 8, 2002, 115 Stat. 1904; renumbered Pub. L. 107–279, title III, §302, and amended Pub. L. 107–279, title IV, §401(c), Nov. 5, 2002, 116 Stat. 1983; Pub. L. 117–286, §4(a)(154), Dec. 27, 2022, 136 Stat. 4322.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -177,6 +173,8 @@ Section was formerly classified to section 9011 of this title prior to renumberi
 A prior section 302 of Pub. L. 107–279 was renumbered section 304 and is classified to section 9623 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–286 substituted "Chapter 10 of title 5 shall not apply with respect to the Assessment Board, other than sections 1009, 1010, and 1011 of title 5." for "The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Assessment Board, other than sections 10, 11, and 12 of such Act."
 
 <b>2002</b>—Pub. L. 107–110 amended section generally, restating and expanding provisions and inserting headings.
 
@@ -230,7 +228,7 @@ Subsec. (c)(4). Pub. L. 106–554, §1(a)(1) \[title III, §307(2)\], added par.
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2002 Amendment
 

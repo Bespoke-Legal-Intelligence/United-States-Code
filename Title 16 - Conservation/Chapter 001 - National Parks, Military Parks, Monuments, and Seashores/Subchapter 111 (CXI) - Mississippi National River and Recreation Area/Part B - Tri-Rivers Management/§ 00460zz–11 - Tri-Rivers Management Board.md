@@ -6,7 +6,7 @@ In furtherance of the integrated management of those portions of the Mississippi
 
 #### (b) Personnel
 
-Upon request of the Board, the Secretary of the Interior and the Secretary of the Army maydetail, on a reimbursable basis, any personnel to the Board.
+Upon request of the Board, the Secretary of the Interior and the Secretary of the Army may detail, on a reimbursable basis, any personnel to the Board.
 
 #### (c) Authorization of appropriations
 

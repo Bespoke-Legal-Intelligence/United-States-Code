@@ -128,7 +128,7 @@ The Coordinator shall—
 
 #### (d) Cooperation with other agencies
 
-The Coordinator shall cooperate with the Secretary of Homeland Security, the Secretary of Transportation, the Chairman of the Federal Communications Commission, and appropriate offices of the Department of Justice in carrying out activities under this chapter.
+The Coordinator shall cooperate with the Secretary of Homeland Security, the Secretary ofTransportation, the Chairman of the Federal Communications Commission, and appropriate offices of the Department of Justice in carrying out activities under this chapter.
 
 #### (e) Restrictions on Coordinator
 

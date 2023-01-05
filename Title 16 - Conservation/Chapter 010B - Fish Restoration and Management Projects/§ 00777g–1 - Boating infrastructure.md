@@ -14,7 +14,7 @@ Within 6 months after submitting a survey to the Secretary under section 777g(g)
 
 #### (1) Matching grants
 
-&emsp;The Secretary of the Interior shall obligate amounts made available under section777c(a)(4) <sup>1</sup> of this title to make grants to any State to pay not more than 75 percent of the cost to a State of constructing, renovating, or maintaining facilities for transient nontrailerable recreational vessels.
+&emsp;The Secretary of the Interior shall obligate amounts made available under section 777c(a)(4) <sup>1</sup> of this title to make grants to any State to pay not more than 75 percent of the cost to a State of constructing, renovating, or maintaining facilities for transient nontrailerable recreational vessels.
 
 #### (2) Priorities
 

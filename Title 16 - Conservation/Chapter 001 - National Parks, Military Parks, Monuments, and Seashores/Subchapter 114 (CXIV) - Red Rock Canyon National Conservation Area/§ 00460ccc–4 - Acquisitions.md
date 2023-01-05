@@ -228,7 +228,7 @@ Disposition of proceeds.—The Secretary shall deposit any cash equalization pay
 
 "(a)
 
-Inclusion and Management of Lands.—Upon the date of the enactment of this Act \[Nov. 6, 2002\], the Secretary shall administer the lands depicted on the Red Rock Map as 'Public Lands-proposed addition to the Red Rock Canyon NCA', exclusive of those lands used for the Corps of Engineers R–4 Detention Basin, as part of Red Rock and in accordance with the Red RockCanyon National Conservation Area Establishment Act of 1990 (16 U.S.C. 460ccc et seq.) and all other applicable laws.
+Inclusion and Management of Lands.—Upon the date of the enactment of this Act \[Nov. 6, 2002\], the Secretary shall administer the lands depicted on the Red Rock Map as 'Public Lands-proposed addition to the Red Rock Canyon NCA', exclusive of those lands used for the Corps of Engineers R–4 Detention Basin, as part of Red Rock and in accordance with the Red Rock Canyon National Conservation Area Establishment Act of 1990 (16 U.S.C. 460ccc et seq.) and all other applicable laws.
 
 "(b)
 

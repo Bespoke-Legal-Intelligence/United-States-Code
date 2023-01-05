@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall establish a grant program for the purposes of assisting eligible entities in recruiting students most likely to practice medicine in underserved rural communities, providing rural-focused training and experience,and increasing the number of recent allopathic and osteopathic medical school graduates who practice in underserved rural communities.
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall establish a grant program for the purposes of assisting eligible entities in recruiting students most likely to practice medicine in underserved rural communities, providing rural-focused training and experience, and increasing the number of recent allopathic and osteopathic medical school graduates who practice in underserved rural communities.
 
 #### (b) Eligible entities
 
@@ -84,5 +84,5 @@ There are authorized to be appropriated $4,000,000 for each of the fiscal years 
 
 #### Prior Provisions
 
-A prior section 293m, act July 1, 1944, ch. 373, title VII, §749, as added Pub. L. 102–408, title I, §102, Oct. 13,1992, 106 Stat. 2043, authorized grants and contracts for development of programs in general practice of dentistry, prior to repeal by Pub. L. 105–392, title I, §102(4), Nov. 13, 1998, 112 Stat. 3539.
+A prior section 293m, act July 1, 1944, ch. 373, title VII, §749, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2043, authorized grants and contracts for development of programs in general practice of dentistry, prior to repeal by Pub. L. 105–392, title I, §102(4), Nov. 13, 1998, 112 Stat. 3539.
 

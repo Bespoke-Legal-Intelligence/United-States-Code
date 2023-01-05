@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;(ii) any summons by the Secretary for such records or testimony.
 
-> &emsp;&emsp;The appearance of persons or production of records by reason of a United States person being such an agent shall not subject such persons or records to legal process for any purpose other than determining the correct treatment under this title of the amounts required to be taken into account under the rules referred to in subparagraph (A). A foreign trust which appoints an agent described in this subparagraph shall not be considered to have an office or a permanent establishment in the United States, or to be engagedin a trade or business in the United States, solely because of the activities of such agent pursuant to this subsection.
+> &emsp;&emsp;The appearance of persons or production of records by reason of a United States person being such an agent shall not subject such persons or records to legal process for any purpose other than determining the correct treatment under this title of the amounts required to be taken into account under the rules referred to in subparagraph (A). A foreign trust which appoints an agent described in this subparagraph shall not be considered to have an office or a permanent establishment in the United States, or to be engaged in a trade or business in the United States, solely because of the activities of such agent pursuant to this subsection.
 
 #### (C) Other rules to apply
 

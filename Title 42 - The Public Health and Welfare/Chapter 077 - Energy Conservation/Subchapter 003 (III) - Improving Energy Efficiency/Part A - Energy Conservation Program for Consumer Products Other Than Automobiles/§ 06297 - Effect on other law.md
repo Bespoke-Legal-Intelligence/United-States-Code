@@ -64,7 +64,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 &emsp;(8)(A) is a regulation concerning standards for pedestrian modules adopted by the California Energy Commission before January 1, 2005; or
 
-&emsp;(B) is an amendment to a regulation described in subparagraph (A) that was developed to align California regulations to changesin the Institute for Transportation Engineers standards, entitled "Performance Specification: Pedestrian Traffic Control Signal Indications"; and
+&emsp;(B) is an amendment to a regulation described in subparagraph (A) that was developed to align California regulations to changes in the Institute for Transportation Engineers standards, entitled "Performance Specification: Pedestrian Traffic Control Signal Indications"; and
 
 &emsp;(9) is a regulation concerning metal halide lamp fixtures adopted by the California Energy Commission on or before January 1, 2011, except that—
 
@@ -86,7 +86,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 &emsp;(ii) are such that the costs, benefits, burdens, and reliability of energy or water savings resulting from the State regulation make such regulation preferable or necessary when measured against the costs, benefits, burdens, and reliability of alternative approaches to energy or water savings or production, including reliance on reasonably predictable market-induced improvements in efficiency of all products subject to the State regulation.
 
-> The factors described in clause (ii) shall be evaluated within the context of the State's energy plan and forecast, and, with respect to a State regulation for which a petition has been submitted to the Secretary which provides for any energy conservation standard or requirement with respect to water use of a covered product, within the context of the water supply and groundwater management plan, water quality program, and comprehensive plan (if any) of the State or river basin commission for improving, developing, or conserving a waterway affected by water supply development.
+> The factors described in clause (ii) shall be evaluated within the context of the State's energy plan and forecast, and, with respect to a State regulation for which a petition has been submitted to the Secretary which provides for any energy conservation standard or requirement with respect to water use of a covered product, within the context of the water supply and groundwater management plan, water quality program, and comprehensive plan (if any) of theState or river basin commission for improving, developing, or conserving a waterway affected by water supply development.
 
 (2) The Secretary shall give notice of any petition filed under paragraph (1)(A) and afford interested persons a reasonable opportunity to make written comments, including rebuttal comments, thereon. The Secretary shall, within the 6-month period beginning on the date on which any such petition is filed, deny such petition or prescribe the requested rule, except that the Secretary may publish a notice in the Federal Register extending such period to a date certain but no longer than one year after the date on which the petition was filed. Such notice shall include the reasons for delay. In the case of any denial of a petition under this subsection, the Secretary shall publish in the Federal Register notice of, and the reasons for, such denial.
 
@@ -146,7 +146,7 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 &emsp;(C) The credit to the energy consumption or conservation objective allowed by the code for installing covered products having energy efficiencies exceeding such energy conservation standard established in or prescribed under section 6295 of this title or the efficiency level required in a State regulation referred to in subparagraph (B) is on a one-for-one equivalent energy use or equivalent cost basis.
 
-&emsp;(D) If the code uses one or more baseline building designs against which all submittedbuilding designs are to be evaluated and such baseline building designs contain a covered product subject to an energy conservation standard established in or prescribed under section 6295 of this title, the baseline building designs are based on the efficiency level for such covered product which meets but does not exceed such standard or the efficiency level required by a regulation of that State for which the Secretary has issued a rule granting a waiver under subsection (d).
+&emsp;(D) If the code uses one or more baseline building designs against which all submitted building designs are to be evaluated and such baseline building designs contain a covered product subject to an energy conservation standard established in or prescribed under section 6295 of this title, the baseline building designs are based on the efficiency level for such covered product which meets but does not exceed such standard or the efficiency level required by a regulation of that State for which the Secretary has issued a rule granting a waiver under subsection (d).
 
 &emsp;(E) If the code sets forth one or more optional combinations of items which meet the energy consumption or conservation objective, for every combination which includes a covered product the efficiency of which exceeds either standard or level referred to in subparagraph (D), there also shall be at least one combination which includes such covered product the efficiency of which does not exceed such standard or level by more than 5 percent, except that at least one combination shall include such covered product the efficiency of which meets but does not exceed such standard.
 
@@ -194,7 +194,7 @@ Subsec. (c)(1). Pub. L. 102–486, §123(h)(3)(B) inserted before semicolon at e
 
 Subsec. (c)(4) to (6). Pub. L. 102–486, §123(h)(3)(C)–(E), added pars. (4) to (6).
 
-Subsec. (d)(1)(A). Pub. L. 102–486, §123(h)(4)(A), inserted "or river basin commission" after "Any State"and substituted ", energy efficiency, or water use" for "or energy efficiency".
+Subsec. (d)(1)(A). Pub. L. 102–486, §123(h)(4)(A), inserted "or river basin commission" after "Any State" and substituted ", energy efficiency, or water use" for "or energy efficiency".
 
 Subsec. (d)(1)(B). Pub. L. 102–486, §123(h)(4)(B), substituted "State or river basin commission has" for "State has" and inserted "or water" after "energy".
 
@@ -226,5 +226,5 @@ Amendment by Pub. L. 112–210 effective as if included in the Energy Independen
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 

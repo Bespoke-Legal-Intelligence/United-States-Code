@@ -14,7 +14,7 @@ Issuance of Enrollment Certificate.—Each living person whose name is entered o
 
 (d)
 
-Entitlement to Special Pension; Notice to Secretary of Veterans Affairs.—The Secretary concerned shall deliver to the Secretary of Veterans Affairs a certified copy of each certificate of enrollment issued under subsection\(c). The copy of the certificate shall authorize the Secretary of Veterans Affairs to pay the special pension provided by section 1562 of title 38 to the person named in the certificate.
+Entitlement to Special Pension; Notice to Secretary of Veterans Affairs.—The Secretary concerned shall deliver to the Secretary of Veterans Affairs a certified copy of each certificate of enrollment issued under subsection (c). The copy of the certificate shall authorize the Secretary of Veterans Affairs to pay the special pension provided by section 1562 of title 38 to the person named in the certificate.
 
 (Added Pub. L. 113–66, div. A, title V, §563(a)(1), Dec. 26, 2013, 127 Stat. 767; amended Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date
 
-Pub. L. 113–66, div. A, title V, §563(d), Dec. 26, 2013, 127 Stat. 768, provided that: "The amendments made by this section \[enacting this section, amending section 1562 of Title 38, Veterans' Benefits, and repealing sections 1560 and 1561 of Title 38\] shall apply with respect to Medals of Honor awarded on or after the date of the enactment of this Act \[Dec. 26, 2013\]."
+Pub. L. 113–66, div. A, title V, §563(d), Dec. 26, 2013, 127 Stat. 768, provided that: "The amendments made by this section \[enacting this section, amending section1562 of Title 38, Veterans' Benefits, and repealing sections 1560 and 1561 of Title 38\] shall apply with respect to Medals of Honor awarded on or after the date of the enactment of this Act \[Dec. 26, 2013\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

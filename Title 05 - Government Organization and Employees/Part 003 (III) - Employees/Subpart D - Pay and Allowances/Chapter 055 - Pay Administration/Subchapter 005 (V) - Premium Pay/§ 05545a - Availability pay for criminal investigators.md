@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(B) such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe.
 
-(i) The provisions of subsections (a)–(h) providing for availability pay shall apply to any employee of the U.S. Customs and Border Protection's Air and Marine Operations, or any successor organization, who is a law enforcement officer as defined under section 5541(3). For the purpose of this section, section 5542(d) of this title, and section 13(a)(16) and (b)(30) of the Fair Labor Standards Act of 1938 (29 U.S.C. 213(a)(16) and (b)(30)), such employee shall be deemed to be a criminal investigator as defined in this section. The Office of Personnel Management may prescribe regulations to carry out this subsection.
+(i) The provisions of subsections (a)–(h) providing for availability pay shall apply to anyemployee of the U.S. Customs and Border Protection's Air and Marine Operations, or any successor organization, who is a law enforcement officer as defined under section 5541(3). For the purpose of this section, section 5542(d) of this title, and section 13(a)(16) and (b)(30) of the Fair Labor Standards Act of 1938 (29 U.S.C. 213(a)(16) and (b)(30)), such employee shall be deemed to be a criminal investigator as defined in this section. The Office of Personnel Management may prescribe regulations to carry out this subsection.
 
 (j) Notwithstanding any other provision of this section, any Office of Inspector General which employs fewer than 5 criminal investigators may elect not to cover such criminal investigators under this section.
 
@@ -106,7 +106,7 @@
 
 #### References in Text
 
-Title II of Public Law 99–399, referred to in subsecs. (a)(2) and (k)(1), is title II of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 858, as amended, which is classified generally to subchapter II (§4821 et seq.) of chapter 58 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22 and Tables.
+Title II of Public Law 99–399, referred to in subsecs. (a)(2) and (k)(1), is title II of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 858, which is classified generally to subchapter II (§4821 et seq.) of chapter 58 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 22 and Tables.
 
 Sections 609(b)(1), 805, 806, and 856 of the Foreign Service Act of 1980, referred to in subsec. (k)(2)(B), are classified to sections 4009(b)(1), 4045, 4046, and 4071e, respectively, of Title 22, Foreign Relations and Intercourse.
 
@@ -150,7 +150,7 @@ Pub. L. 104–19, title I, §902(b), July 27, 1995, 109 Stat. 230, provided that
 
 Pub. L. 103–329, title VI, §633(e), Sept. 30, 1994, 108 Stat. 2428, provided that: "The amendments made by this section \[enacting this section and amending sections 5542 and 5547 of this title and section 213 of Title 29, Labor\] shall take effect on the first day of the first applicable pay period which begins on or after the later of October 1, 1994, or the 30th day following the date of enactment of this Act \[Sept. 30, 1994\], except that:
 
-&emsp;"(1) Criminal investigators, employed in Offices of Inspectors General, who are not receiving administratively uncontrollable overtime compensation or who are receiving such premium pay at a rate less than 25 percent prior to the date of enactment of this Act, may implement availability pay at any time prior to September 30, 1995, after which date availability pay as authorized under this section shall be provided to such criminal investigators.
+&emsp;"(1) Criminal investigators, employed in Offices of Inspectors General, who are not receiving administratively uncontrollable overtime compensation or who are receiving such premium pay at a rate less than 25percent prior to the date of enactment of this Act, may implement availability pay at any time prior to September 30, 1995, after which date availability pay as authorized under this section shall be provided to such criminal investigators.
 
 &emsp;"(2) Criminal investigators, employed by Offices of Inspectors General, who are receiving administratively uncontrollable overtime at a rate less than 25 percent, shall continue to receive this compensation at the same rate or higher until availability pay compensation is provided, which shall be no later than the last pay period ending on or before September 30, 1995."
 

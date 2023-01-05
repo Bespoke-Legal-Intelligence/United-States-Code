@@ -6,7 +6,7 @@ Orders of the Commission under this subchapter shall be issued only after approp
 
 #### (b) Application verified under oath admissible as evidence
 
-The Commission may provide, by appropriate rules or regulations, that an application verifiedunder oath may be admissible in evidence in a proceeding before the Commission and that the record in such a proceeding may consist, in whole or in part, of such application.
+The Commission may provide, by appropriate rules or regulations, that an application verified under oath may be admissible in evidence in a proceeding before the Commission and that the record in such a proceeding may consist, in whole or in part, of such application.
 
 #### (c) Parties
 

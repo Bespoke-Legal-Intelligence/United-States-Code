@@ -122,7 +122,7 @@ In this section:
 
 &emsp;&emsp;The circumstances described in this subparagraph are that the offense described in subparagraph (A) was committed by a person who—
 
-&emsp;&emsp;&emsp;(i) participates in a criminal street gang (as defined in section 521(a) of title 18) with knowledge that such gang's members engage in or have engaged in a continuing series of offenses described in subparagraph (A); and
+&emsp;&emsp;&emsp;(i) participates in a criminal street gang (as defined in section 521(a) of title 18)with knowledge that such gang's members engage in or have engaged in a continuing series of offenses described in subparagraph (A); and
 
 &emsp;&emsp;&emsp;(ii) intends to promote or further the felonious activities of the criminal street gang or maintain or increase the person's position in the gang.
 

@@ -2,7 +2,7 @@
 
 #### (a) Contents
 
-Each capital restoration plan submitted under this subchapter shall set forth a feasible plan for restoring the core capital of the regulated entity subject to the plan to an amount not less than the minimum capital level for the regulated entity and for restoring the total capital of the regulated entity to an amount not less than the risk-based capital level for the regulated entity. Each capital restoration plan shall—
+Each capital restoration plan submitted under this subchapter shall set forth a feasible plan for restoring the core capital of the regulated entity subject to the plan to an amount not lessthan the minimum capital level for the regulated entity and for restoring the total capital of the regulated entity to an amount not less than the risk-based capital level for the regulated entity. Each capital restoration plan shall—
 
 &emsp;(1) specify the level of capital the regulated entity will achieve and maintain;
 
@@ -24,7 +24,7 @@ The Director shall review each capital restoration plan submitted under this sec
 
 #### (d) Resubmission
 
-If the Director disapproves the initial capital restoration plan submitted by the regulated entity, the regulated entity shall submit anamended plan acceptable to the Director within 30 days or such longer period that the Director determines is in the public interest.
+If the Director disapproves the initial capital restoration plan submitted by the regulated entity, the regulated entity shall submit an amended plan acceptable to the Director within 30 days or such longer period that the Director determines is in the public interest.
 
 (Pub. L. 102–550, title XIII, §1369C, Oct. 28, 1992, 106 Stat. 3985; Pub. L. 110–289, div. A, title I, §1145(b)(2), July 30, 2008, 122 Stat. 2767.)
 

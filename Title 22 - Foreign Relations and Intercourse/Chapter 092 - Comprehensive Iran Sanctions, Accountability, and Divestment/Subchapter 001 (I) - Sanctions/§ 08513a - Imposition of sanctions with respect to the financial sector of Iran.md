@@ -26,7 +26,7 @@ The President shall, pursuant to the International Emergency Economic Powers Act
 
 &emsp;&emsp;(A) shall prohibit the opening, and prohibit or impose strict conditions on the maintaining, in the United States of a correspondent account or a payable-through account by a foreign financial institution that the President determines has knowingly conducted or facilitated any significant financial transaction with the Central Bank of Iran or another Iranian financial institution designated by the Secretary of the Treasury for the imposition of sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.); and
 
-&emsp;&emsp;(B) may impose sanctions pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) with respect to the Central Bank of Iran.
+&emsp;&emsp;(B) may impose sanctions pursuant to the International Emergency Economic PowersAct (50 U.S.C. 1701 et seq.) with respect to the Central Bank of Iran.
 
 #### (2) Exception for sales of agricultural commodities, food, medicine, and medical devices
 
@@ -198,7 +198,7 @@ Pub. L. 112–158, title V, §504(b), Aug. 10, 2012, 126 Stat. 1262, provided th
 
 #### Delegation of Functions
 
-Ex. Ord. No. 13599, Feb. 5, 2012, 77 F.R. 6659, which is listed in a table under section 1701 of Title 50, War and National Defense, provided in section 10 that the Secretary of the Treasury, in consultation with the Secretary of State, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (d)(1)(A) and (g)(1) of this section and to redelegate such functions and authorities consistent with applicable law; and provided in section 11 that the Secretary of State, in consultation with the Secretary ofthe Treasury, the Secretary of Energy, and the Director of National Intelligence, is authorized to exercise the functions and authorities conferred upon the President by subsec. (d)(4)(D) of this section and that the Secretary of State, in consultation with the Secretary of the Treasury, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (e)(1), (2) and (g)(1) of this section and to redelegate all such functions and authorities consistent with applicable law.
+Ex. Ord. No. 13599, Feb. 5, 2012, 77 F.R. 6659, which is listed in a table under section 1701 of Title 50, War and National Defense, provided in section 10 that the Secretary of the Treasury, in consultation with the Secretary of State, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (d)(1)(A) and (g)(1) of this section and to redelegate such functions and authorities consistent with applicable law; and provided in section 11 that the Secretary of State, in consultation with the Secretary of the Treasury, the Secretary of Energy, and the Director of National Intelligence, is authorized to exercise the functions and authorities conferred upon the President by subsec. (d)(4)(D) of this section and that the Secretary of State, in consultation with the Secretary of the Treasury, is authorized to exercise the functions and authorities conferred upon the President by subsecs. (e)(1), (2) and (g)(1) of this section and to redelegate all such functions and authorities consistent with applicable law.
 
 Memorandum of President of the United States, Jan. 20, 2014, 79 F.R.6453, provided:
 
@@ -215,6 +215,8 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
+
+Determination of President of the United States, No. 2022–12, May 12, 2022, 87 F.R. 30383.
 
 Determination of President of the United States, No. 2022–04, Nov. 12, 2021, 86 F.R. 64795.
 

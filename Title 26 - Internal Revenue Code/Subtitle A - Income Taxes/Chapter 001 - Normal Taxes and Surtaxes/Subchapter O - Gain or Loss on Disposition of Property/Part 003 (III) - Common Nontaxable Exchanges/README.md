@@ -28,7 +28,7 @@
 
 <b>2010</b>—Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300, amended analysis to read as if amendment by Pub. L. 107–16, §542(d)(2), had never been enacted. See 2001 Amendment note below.
 
-<b>2001</b>—Pub. L. 107–16, title V, §542(d)(2), June 7, 2001, 115 Stat. 84, substituted "Use of appreciated carryover basis property to satisfy pecuniary bequest" for "Transfer of certain farm, etc., real property" in item 1040.
+<b>2001</b>—Pub. L. 107–16, title V, §542(d)(2), June 7, 2001, 115 Stat. 84, substituted "Use of appreciated carryoverbasis property to satisfy pecuniary bequest" for "Transfer of certain farm, etc., real property" in item 1040.
 
 <b>1997</b>—Pub. L. 105–34, title III, §§312(d)(15), 313(b)(3), Aug. 5, 1997, 111 Stat. 841, 842, struck out item 1034 "Rollover of gain on sale of principal residence" and added item 1045.
 

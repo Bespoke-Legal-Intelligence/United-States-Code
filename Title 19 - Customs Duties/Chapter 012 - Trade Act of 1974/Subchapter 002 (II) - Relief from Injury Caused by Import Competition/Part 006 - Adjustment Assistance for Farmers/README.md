@@ -6,7 +6,7 @@ Adjustment Assistance for Farmers
 
 #### Termination Date
 
-Except as otherwise provided, assistance may not be provided under this part after June 30, 2021, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, assistance may not be provided under this part after June 30, 2022, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.
 
 
 ---
@@ -18,6 +18,6 @@ Except as otherwise provided, assistance may not be provided under this part aft
 - [&sect; 02401b - Determinations by Secretary of Agriculture](%C2%A7%2002401b%20-%20Determinations%20by%20Secretary%20of%20Agriculture.md)
 - [&sect; 02401c - Study by Secretary of Agriculture when International Trade Commission begins investigation](%C2%A7%2002401c%20-%20Study%20by%20Secretary%20of%20Agriculture%20when%20International%20Trade%20Commission%20begins%20investigation.md)
 - [&sect; 02401d - Benefit information to agricultural commodity producers](%C2%A7%2002401d%20-%20Benefit%20information%20to%20agricultural%20commodity%20producers.md)
-- [&sect; 02401e - Qualifying requirements and benefits for agricultural commodity producers](%C2%A7%2002401e%20-%20Qualifying%20requirements%20and%20benefits%20for%20agricultural%20commodity%20producers.md)
+- [&sect; 02401e - Qualifying requirements for agricultural commodity producers](%C2%A7%2002401e%20-%20Qualifying%20requirements%20for%20agricultural%20commodity%20producers.md)
 - [&sect; 02401f - Fraud and recovery of overpayments](%C2%A7%2002401f%20-%20Fraud%20and%20recovery%20of%20overpayments.md)
 - [&sect; 02401g - Authorization of appropriations](%C2%A7%2002401g%20-%20Authorization%20of%20appropriations.md)

@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Report by Secretary.—The Secretary shall, after consultation with the Attorney General and the Special Counsel referred to in section 4324(a)(1), transmit to Congress notlater than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:
+Annual Report by Secretary.—The Secretary shall, after consultation with the Attorney General and the Special Counsel referred to in section 4324(a)(1), transmit to Congress not later than July 1 each year a report on matters for the fiscal year ending in the year before the year in which such report is transmitted as follows:
 
 &emsp;(1) The number of cases reviewed by the Department of Labor under this chapter during the fiscal year for which the report is made.
 
@@ -26,7 +26,7 @@ Annual Report by Secretary.—The Secretary shall, after consultation with the A
 
 &emsp;(9) An indication of whether there are any apparent patterns of violation of the provisions of this chapter, together with an explanation thereof.
 
-&emsp;(10) Recommendations for administrative or legislative action that the Secretary, the Attorney General, or the Special Counsel considers necessary for the effective implementation of this chapter, including any action that could be taken to encourage mediation, before claims are filed under this chapter, between employers and persons seeking employment or reemployment.
+&emsp;(10) Recommendations for administrative or legislative action that the Secretary, the Attorney General, or the Special Counsel considers necessary for the effective implementation of this chapter, including any action that could be taken to encourage mediation, beforeclaims are filed under this chapter, between employers and persons seeking employment or reemployment.
 
 (b)
 
@@ -72,7 +72,7 @@ Pub. L. 110–181 added par. (2), redesignated former pars. (2) to (6) as (3) to
 
 Subsec. (a)(3). Pub. L. 110–389, §312(b)(2), inserted "and the number of actions initiated by the Office of Special Counsel before the Merit Systems Protection Board pursuant to section 4324 during such fiscal year" before period at end.
 
-Subsec. (a)(5) to (10). Pub. L. 110–389, §312(b)(3)–(7), added pars. (5), (6), and (8), redesignated former pars.\(5), (6), and (7) as (7), (9), and (10), respectively, and in par. (7), substituted "(4), or (5)" for "or (4)".
+Subsec. (a)(5) to (10). Pub. L. 110–389, §312(b)(3)–(7), added pars. (5), (6), and (8), redesignated former pars. (5), (6), and (7) as (7), (9), and (10), respectively, and in par. (7), substituted "(4), or (5)" for "or (4)".
 
 Subsecs. (b), (c). Pub. L. 110–389, §312(c), (d), added subsecs. (b) and (c).
 

@@ -6,7 +6,7 @@
 
 (c) All Reserves assigned to units organized to serve as units and designated as units in the Ready Reserve are in the Ready Reserve.
 
-(d) Under such regulations as the Secretary concerned may prescribe, any qualified member of a reserve component or any qualified retired enlisted member of a regular component may, upon his request, be placed in the Ready Reserve. However, a member of the Retired Reserve entitled to retired pay or a retired enlisted member of a regular component may not be placed in the Ready Reserve unless the Secretary concerned makes a special finding thatthe member's services in the Ready Reserve are indispensable. The authority of the Secretary concerned under the preceding sentence may not be delegated—
+(d) Under such regulations as the Secretary concerned may prescribe, any qualified member of a reserve component or any qualified retired enlisted member of a regular component may, upon his request, be placed in the Ready Reserve. However, a member of the Retired Reserve entitled to retired pay or a retired enlisted member of a regular component may not be placed in the Ready Reserve unless the Secretary concerned makes a special finding that the member's services in the Ready Reserve are indispensable. The authority of the Secretary concerned under the preceding sentence may not be delegated—
 
 &emsp;(1) to a civilian officer or employee of the military department concerned below the level of Assistant Secretary; or
 

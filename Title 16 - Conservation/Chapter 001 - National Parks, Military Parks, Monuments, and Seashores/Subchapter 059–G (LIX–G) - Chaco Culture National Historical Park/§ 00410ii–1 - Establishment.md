@@ -47,7 +47,7 @@ There is hereby established in the State of New Mexico, the Chaco Culture Nation
 | Sanostee | 1,565&nbsp;&nbsp; |
 | Section 8 | 10&nbsp;&nbsp; |
 | Skunk Springs/Crumbled House | 533&nbsp;&nbsp; |
-| Standing Rock | 348   |
+| Standing Rock | 348&nbsp;&nbsp; |
 | Toh-la-kai | 10&nbsp;&nbsp; |
 | Twin Angeles | 40&nbsp;&nbsp; |
 | Upper Kin Klizhin | 60\. |

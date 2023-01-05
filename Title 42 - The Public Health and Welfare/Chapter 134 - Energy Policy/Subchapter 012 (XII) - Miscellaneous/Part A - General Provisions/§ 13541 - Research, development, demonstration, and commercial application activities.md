@@ -2,7 +2,7 @@
 
 #### (a) Research, development, and demonstration
 
-(1) Except as otherwise provided in this Act, research, development, and demonstration activities under this Act may be carried out under the procedures of the Federal Nonnuclear Research and Development Act of 1974 (42 U.S.C. 5901–5920), the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), or any other Act under which the Secretary is authorized to carry outsuch activities, but only to the extent the Secretary is authorized to carry out such activities under each such Act. An objective of any demonstration program under this Act shall be to determine the technical and commercial feasibility of energy technologies.
+(1) Except as otherwise provided in this Act, research, development, and demonstration activities under this Act may be carried out under the procedures of the Federal Nonnuclear Research and Development Act of 1974 (42 U.S.C. 5901–5920), the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), or any other Act under which the Secretary is authorized to carry out such activities, but only to the extent the Secretary is authorized to carry out such activities under each such Act. An objective of any demonstration program under this Act shall be to determine the technical and commercial feasibility of energy technologies.
 
 (2) Except as otherwise provided in this Act, in carrying out research, development, and demonstration programs and activities under this Act, the Secretary may use, to the extent authorized under applicable provisions of law, contracts, cooperative agreements, cooperative research and development agreements under the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\], grants, joint ventures, and any other form of agreement available to the Secretary.
 
@@ -42,5 +42,5 @@ The Federal Nonnuclear Research and Development Act of 1974, referred to in subs
 
 The Atomic Energy Act of 1954, referred to in subsec. (a)(1), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsecs. (a)(2), (b), (e)(1), (2), and (f), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsecs. (a)(2), (b), (e)(1), (2), and (f), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 

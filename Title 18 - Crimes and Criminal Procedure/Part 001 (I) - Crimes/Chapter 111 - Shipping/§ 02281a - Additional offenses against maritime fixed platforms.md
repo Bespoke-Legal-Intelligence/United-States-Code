@@ -36,7 +36,7 @@ Jurisdiction.—There is jurisdiction over the activity prohibited in subsection
 
 &emsp;&emsp;(C) in an attempt to compel the United States to do or abstain from doing any act;
 
-&emsp;(2) during the commission of such activity against or on board a fixed platform located on a continental shelf, a national of the United States is seized, threatened, injured, or killed; or
+&emsp;(2) during the commission of such activity against or on board a fixed platform locatedon a continental shelf, a national of the United States is seized, threatened, injured, or killed; or
 
 &emsp;(3) such activity is committed against or on board a fixed platform located outside the United States and beyond the continental shelf of the United States and the offender is later found in the United States.
 
@@ -52,7 +52,7 @@ Exceptions.—This section does not apply to—
 
 Definitions.—In this section—
 
-&emsp;(1) "continental shelf" means the sea-bed and subsoil of the submarine areas that extend beyond a country's territorial sea to the limits provided by customary international law asreflected in Article 76 of the 1982 Convention on the Law of the Sea; and
+&emsp;(1) "continental shelf" means the sea-bed and subsoil of the submarine areas that extend beyond a country's territorial sea to the limits provided by customary international law as reflected in Article 76 of the 1982 Convention on the Law of the Sea; and
 
 &emsp;(2) "fixed platform" means an artificial island, installation, or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.
 

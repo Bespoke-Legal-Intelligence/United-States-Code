@@ -64,7 +64,7 @@ As used in this section, the term "illegal act" means an act or omission that vi
 
 #### (g) Prohibited activities
 
-Except as provided in subsection (h), it shall be unlawful for a registered public accounting firm (and any associated person of that firm, to the extent determined appropriate by the Commission) that performs for any issuer any audit required by this chapter or the rules of the Commission under this chapter or, beginning 180 days after the date of commencement of the operations of the Public Company Accounting Oversight Board established under section 7211 of this title (in this section referred to as the "Board"), the rules of the Board, to provide tothat issuer, contemporaneously with the audit, any non-audit service, including—
+Except as provided in subsection (h), it shall be unlawful for a registered public accounting firm (and any associated person of that firm, to the extent determined appropriate by the Commission) that performs for any issuer any audit required by this chapter or the rules of the Commission under this chapter or, beginning 180 days after the date of commencement of the operations of the Public Company Accounting Oversight Board established under section 7211 of this title (in this section referred to as the "Board"), the rules of the Board, to provide to that issuer, contemporaneously with the audit, any non-audit service, including—
 
 &emsp;(1) bookkeeping or other services related to the accounting records or financial statements of the audit client;
 
@@ -142,7 +142,7 @@ It shall be unlawful for a registered public accounting firm to perform for an i
 
 #### (A) In general
 
-&emsp;&emsp;Effective not later than 270 days after July 30, 2002, the Commission shall, by rule, direct the national securities exchanges and national securities associations to prohibit the listing of any security of an issuer thatis not in compliance with the requirements of any portion of paragraphs (2) through (6).
+&emsp;&emsp;Effective not later than 270 days after July 30, 2002, the Commission shall, by rule, direct the national securities exchanges and national securities associations to prohibit the listing of any security of an issuer that is not in compliance with the requirements of any portion of paragraphs (2) through (6).
 
 #### (B) Opportunity to cure defects
 
@@ -150,7 +150,7 @@ It shall be unlawful for a registered public accounting firm to perform for an i
 
 #### (2) Responsibilities relating to registered public accounting firms
 
-&emsp;The audit committee of each issuer, in its capacity as a committee of the board of directors, shall be directly responsible for the appointment, compensation, and oversight of the work of any registered public accounting firm employed by that issuer (including resolution of disagreements between management and the auditor regarding financial reporting) for the purpose of preparing or issuing an audit report or related work, and each such registered public accounting firm shall report directly to the audit committee.
+&emsp;The audit committee of each issuer, in its capacity as a committee of the board of directors, shall be directly responsible for the appointment, compensation, and oversight of thework of any registered public accounting firm employed by that issuer (including resolution of disagreements between management and the auditor regarding financial reporting) for the purpose of preparing or issuing an audit report or related work, and each such registered public accounting firm shall report directly to the audit committee.
 
 #### (3) Independence
 
@@ -198,7 +198,7 @@ It shall be unlawful for a registered public accounting firm to perform for an i
 
 This chapter, referred to in subsecs. (a), (b)(1), (e), (g), (k), and (l), was in the original "this title". See References in Text note set out under section 78a of this title.
 
-The Securities Act of 1933, referred to in subsec. (f), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (f), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 #### Amendments
 

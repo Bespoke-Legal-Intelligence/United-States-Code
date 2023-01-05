@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-The Attorney General, working in collaboration with the Secretary of Health and HumanServices and the Secretary of Education, shall award grants to enhance the safety of youth and children who are victims of, or exposed to, domestic violence, dating violence, sexual assault, stalking, or sex trafficking and prevent future violence.
+The Attorney General, working in collaboration with the Secretary of Health and Human Services and the Secretary of Education, shall award grants to enhance the safety of youth and children who are victims of, or exposed to, domestic violence, dating violence, sexual assault, stalking, or sex trafficking and prevent future violence.
 
 #### (b) Program purposes
 
@@ -10,27 +10,75 @@ Funds provided under this section may be used for the following program purpose 
 
 #### (1) Services to advocate for and respond to youth
 
-&emsp;To develop, expand, and strengthen victim-centered interventions and services that target youth who are victims of domestic violence, dating violence, sexual assault, stalking, and sex trafficking. Services may include victim services, counseling, advocacy, mentoring, educational support, transportation, legal assistance in civil, criminal and administrative matters, such as family law cases, housing cases, child welfare proceedings, campus administrative proceedings, and civil protection order proceedings, population-specific services, and other activities that support youth in finding safety, stability, and justice and in addressing the emotional, cognitive, and physical effects of trauma. Funds may be used to—
+&emsp;To develop, expand, and strengthen victim-centered interventions and services that target youth, including youth in underserved populations, who are victims of domestic violence, dating violence, sexual assault, stalking, and sex trafficking. Services may include victim services, counseling, advocacy, mentoring, educational support, transportation, legal assistance in civil, criminal and administrative matters, such as family law cases, housing cases, child welfare proceedings, campus administrative proceedings, and civil protection order proceedings, population-specific services, and other activities that support youth in finding safety, stability, and justice and in addressing the emotional, cognitive, and physical effects of trauma. Funds may be used to—
 
 &emsp;&emsp;(A) assess and analyze currently available services for youth victims of domestic violence, dating violence, sexual assault, stalking, and sex trafficking, determining relevant barriers to such services in a particular locality, and developing a community protocol to address such problems collaboratively;
 
-&emsp;&emsp;(B) develop and implement policies, practices, and procedures to effectively respond to domestic violence, dating violence, sexual assault, stalking, or sex trafficking against youth; or
+&emsp;&emsp;(B) develop and implement policies, practices, and procedures to effectively respond to domestic violence, dating violence, sexual assault, stalking, or sex trafficking against youth;
 
-&emsp;&emsp;(C) provide technical assistance and training to enhance the ability of school personnel, victim service providers, child protective service workers, staff of law enforcement agencies, prosecutors, court personnel, individuals who work in after school programs, medical personnel, social workers, mental health personnel, and workers in other programs that serve children and youth to improve their ability to appropriately respond to the needs of children and youth who are victims of domestic violence, dating violence, sexual assault, stalking, and sex trafficking, and to properly refer such children, youth, and their families to appropriate services.
+&emsp;&emsp;(C) provide technical assistance and training to enhance the ability of school personnel, victim service providers, child protective service workers, staff of law enforcement agencies, prosecutors, court personnel, individuals who work in after school programs, medical personnel, social workers, mental health personnel, and workers in other programs that serve children and youth to improve their ability to appropriately respond to the needs of children and youth who are victims of domestic violence, dating violence, sexual assault, stalking,and sex trafficking, and to properly refer such children, youth, and their families to appropriate services;
+
+&emsp;&emsp;(D) clarify State or local mandatory reporting policies and practices regarding peer-on-peer dating violence, sexual assault, stalking, and sex trafficking; or
+
+&emsp;&emsp;(E) develop, enlarge, or strengthen culturally specific victim services and responses related to, and prevention of, female genital mutilation or cutting.
 
 #### (2) Supporting youth through education and protection
 
 &emsp;To enable middle schools, high schools, and institutions of higher education to—
 
-&emsp;&emsp;(A) provide training to school personnel, including healthcare providers and security personnel, on the needs of students who are victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking;
+&emsp;&emsp;(A) provide training to school personnel, including healthcare providers and security personnel, on the needs of students who are victims of domestic violence, dating violence, sexual assault, stalking, sex trafficking, or female genital mutilation or cutting;
 
 &emsp;&emsp;(B) develop and implement prevention and intervention policies in middle and high schools, including appropriate responses to, and identification and referral procedures for, students who are experiencing or perpetrating domestic violence, dating violence, sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students;
 
-&emsp;&emsp;(C) provide support services for student victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking, such as a resource person who is either on-site or on-call;
+&emsp;&emsp;(C) provide confidential support services for student victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking, such as a resource person who is either on-site or on-call;
 
 &emsp;&emsp;(D) implement developmentally appropriate educational programming for students regarding domestic violence, dating violence, sexual assault, stalking, and sex trafficking and the impact of such violence on youth; or
 
-&emsp;&emsp;(E) develop strategies to increase identification, support, referrals, and prevention programming for youth who are at high risk of domestic violence, dating violence, sexual assault, stalking, or sex trafficking.
+&emsp;&emsp;(E) develop strategies to increase identification, support, referrals, and prevention programming for youth, including youth in underserved populations, who are at high risk of domestic violence, dating violence, sexual assault, stalking, or sex trafficking.
+
+#### (3) Children exposed to violence and abuse
+
+&emsp;To develop, maintain, or enhance programs designed to prevent future incidents of domestic violence, dating violence, sexual assault, and stalking by preventing, reducing and responding to children's exposure to violence in the home, including by—
+
+&emsp;&emsp;(A) providing services for children exposed to domestic violence, dating violence, sexual assault or stalking, including—
+
+&emsp;&emsp;&emsp;(i) direct counseling or advocacy; and
+
+&emsp;&emsp;&emsp;(ii) support for the non-abusing parent; and
+
+&emsp;&emsp;(B) training and coordination for educational, after-school, and childcare programs on how to—
+
+&emsp;&emsp;&emsp;(i) safely and confidentially identity children and families experiencing domestic violence, dating violence, sexual assault, or stalking; and
+
+&emsp;&emsp;&emsp;(ii) properly refer children exposed and their families to services and violence prevention programs.
+
+#### (4) Teen dating violence awareness and prevention
+
+&emsp;To develop, maintain, or enhance programs that change attitudes and behaviors around the acceptability of domestic violence, dating violence, sexual assault, and stalking and provide education and skills training to young individuals and individuals who influence young individuals, which—
+
+&emsp;&emsp;(A) may include the use evidenced-based, evidence-informed, or innovative strategies and practices focused on youth; and
+
+&emsp;&emsp;(B) shall include—
+
+&emsp;&emsp;&emsp;(i) age and developmentally-appropriate education on—
+
+&emsp;&emsp;&emsp;&emsp;(I) domestic violence;
+
+&emsp;&emsp;&emsp;&emsp;(II) dating violence;
+
+&emsp;&emsp;&emsp;&emsp;(III) sexual assault;
+
+&emsp;&emsp;&emsp;&emsp;(IV) stalking;
+
+&emsp;&emsp;&emsp;&emsp;(V) sexual coercion; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) healthy relationship skills, in school, in the community, or in health care settings;
+
+&emsp;&emsp;&emsp;(ii) community-based collaboration and training for individuals with influence on youth, such as parents, teachers, coaches, healthcare providers, faith leaders, older teens, and mentors;
+
+&emsp;&emsp;&emsp;(iii) education and outreach to change environmental factors contributing to domestic violence, dating violence, sexual assault, and stalking; and
+
+&emsp;&emsp;&emsp;(iv) policy development targeted to prevention, including school-based policies and protocols.
 
 #### (c) Eligible applicants
 
@@ -38,7 +86,7 @@ Funds provided under this section may be used for the following program purpose 
 
 &emsp;To be eligible to receive a grant under this section, an entity shall be—
 
-&emsp;&emsp;(A) a victim service provider, tribal nonprofit, or population-specific or community-based organization with a demonstrated history of effective work addressing the needs of youth who are, including runaway or homeless youth affected by, victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking;
+&emsp;&emsp;(A) a victim service provider, tribal nonprofit organization, Native Hawaiian organization, urban Indian organization, or population-specific or community-based organization with a demonstrated history of effective work addressing the needs of youth who are, including runaway or homeless youth affected by, victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking;
 
 &emsp;&emsp;(B) a victim service provider that is partnered with an entity that has a demonstrated history of effective work addressing the needs of youth; or
 
@@ -48,7 +96,7 @@ Funds provided under this section may be used for the following program purpose 
 
 #### (A) Education
 
-&emsp;&emsp;To be eligible to receive a grant for the purposes described in subsection (b)(2), an entity described in paragraph (1) shall be partnered with a public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department of Defense under section 2164 of title 10 or section 921 of title 20, a group of schools, a school district, or an institution of higher education.
+&emsp;&emsp;To be eligible to receive a grant for the purposes described in subsection (b)(2), an entity described in subparagraph (A) or (B)of paragraph (1) shall be partnered with a public, charter, tribal, or nationally accredited private middle or high school, a school administered by the Department of Defense under section 2164 of title 10 or section 921 of title 20, a group of schools, a school district, or an institution of higher education.
 
 #### (B) Other partnerships
 
@@ -70,7 +118,7 @@ Applicants for grants under this section shall establish and implement policies,
 
 &emsp;(2) protect the confidentiality and privacy of child and youth victim information, particularly in the context of parental or third party involvement and consent, mandatory reporting duties, and working with other service providers all with priority on victim safety and autonomy; and
 
-&emsp;(3) ensure that all individuals providing intervention or prevention programming to children or youth through a program funded under this section have completed, or will complete, sufficient training in connection with domestic violence, dating violence, sexual assault, stalking, and sex trafficking.
+&emsp;(3) ensure that all individuals providing intervention or prevention programming to children or youth through a program funded under this section have completed, or will complete, sufficient training in connection with domestic violence, dating violence, sexual assault, stalking, and sex trafficking, including training on working with youth victims of domestic violence, dating violence, sexual assault, or sex trafficking in underserved populations, if such youth are among those being served.
 
 #### (e) Definitions and grant conditions
 
@@ -78,7 +126,7 @@ In this section, the definitions and grant conditions provided for in section 12
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, $15,000,000 for each of fiscal years 2019 through 2022.
+There is authorized to be appropriated to carry out this section, $30,000,000 for each of fiscal years 2023 through 2027.
 
 #### (g) Allotment
 
@@ -94,7 +142,7 @@ There is authorized to be appropriated to carry out this section, $15,000,000 fo
 
 The Attorney General shall prioritize grant applications under this section that coordinate with prevention programs in the community.
 
-(Pub. L. 103–322, title IV, §41201, as added Pub. L. 113–4, title III, §302, Mar. 7, 2013, 127 Stat. 84; amended Pub. L. 115–393, title I, §102, Dec. 21, 2018, 132 Stat. 5266.)
+(Pub. L. 103–322, title IV, §41201, as added Pub. L. 113–4, title III, §302, Mar. 7, 2013, 127 Stat. 84; amended Pub. L. 115–393, title I, §102, Dec. 21, 2018, 132 Stat. 5266; Pub. L. 117–103, div. W, title III, §302, Mar. 15, 2022, 136 Stat. 865.)
 
 #### <b>Editorial Notes</b>
 
@@ -108,9 +156,35 @@ A prior section 41201 of title IV of Pub. L. 103–322, as added Pub. L. 109–1
 
 #### Amendments
 
+<b>2022</b>—Subsec. (b)(1). Pub. L. 117–103, §302(1)(A)(i), substituted "target youth, including youth in underserved populations, who are victims of domestic violence, dating violence, sexual assault, stalking, and sex trafficking" for "target youth who are victims of domestic violence, dating violence, sexual assault, stalking, and sex trafficking" in introductory provisions.
+
+Subsec. (b)(1)(D), (E). Pub. L. 117–103, §302(1)(A)(ii)–(iv), added subpars. (D) and (E).
+
+Subsec. (b)(2)(A). Pub. L. 117–103, §302(1)(B)(i), substituted "stalking, sex trafficking, or female genital mutilation or cutting" for "stalking, or sex trafficking".
+
+Subsec. (b)(2)(C). Pub. L. 117–103, §302(1)(B)(ii), inserted "confidential" before "support services".
+
+Subsec. (b)(2)(E). Pub. L. 117–103, §302(1)(B)(iii), inserted ", including youth in underserved populations," after "programming for youth".
+
+Subsec. (b)(3), (4). Pub. L. 117–103, §302(1)(C), added pars. (3) and (4).
+
+Subsec. (c)(1)(A). Pub. L. 117–103, §302(2)(A)(ii), which directed insertion of "Native Hawaiian organization, urban Indian organization," before "or population-specific community-based organization", was executed by making the insertion before "or population-specific or community-based organization", to reflect the probable intent of Congress.
+
+Pub. L. 117–103, §302(2)(A)(i), inserted "organization" after "tribal nonprofit".
+
+Subsec. (c)(2)(A). Pub. L. 117–103, §302(2)(B), substituted "subparagraph (A) or (B) of paragraph (1)" for "paragraph (1)".
+
+Subsec. (d)(3). Pub. L. 117–103, §302(3), substituted ", including training on working with youth victims of domestic violence, dating violence, sexual assault, or sex trafficking in underserved populations, if such youth are among those being served." for period at end.
+
+Subsec. (f). Pub. L. 117–103, §302(4), which directed substitution of "$30,000,000 for each of fiscal years 2023 through 2027" for "$15,000,000 for each of fiscal years 2014 through 2018", was executed by making the substitution for "$15,000,000 for each of fiscal years 2019 through 2022", to reflect the probable intent of Congress.
+
 <b>2018</b>—Subsec. (f). Pub. L. 115–393 substituted "2019 through 2022" for "2014 through 2018".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Effective Date
 

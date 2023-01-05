@@ -13,6 +13,7 @@
 | [3007\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003007%20-%20Training%20and%20physical%20fitness.md) | Training and physical fitness. |
 | [3008\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003008%20-%20Aviation%20accession%20training%20programs.md) | Aviation accession training programs. |
 | [3009\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003009%20-%20Use%20of%20recruiting%20materials%20for%20public%20relations.md) | Use of recruiting materials for public relations. |
+| [3010\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2003010%20-%20Awards%20and%20decorations.md) | Awards and decorations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,7 +23,7 @@
 | :--- | ---: |
 | [3021\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003021%20-%20Original%20appointments%20and%20reappointments.md) | Original appointments and reappointments. |
 | [3022\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003022%20-%20Personnel%20boards.md) | Personnel boards. |
-| [3023\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003023%20-%20Promotion%20of%20ensigns%20to%20grade%20of%20lieutenant%20%28junior%20grade%29.md) | Promotion of ensigns to grade of lieutenant (junior grade). |
+| [3023\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003023%20-%20Separation%20of%20ensigns%20found%20not%20fully%20qualified.md) | Separation of ensigns found not fully qualified. |
 | [3024\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003024%20-%20Promotion%20by%20selection%20to%20permanent%20grades%20above%20lieutenant%20%28junior%20grade%29.md) | Promotion by selection to permanent grades above lieutenant (junior grade). |
 | [3025\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003025%20-%20Length%20of%20service%20for%20promotion%20purposes.md) | Length of service for promotion purposes. |
 | [3026\.](Subchapter%20002%20%28II%29%20-%20Appointment%20and%20Promotion%20of%20Officers/%C2%A7%2003026%20-%20Appointments%20and%20promotions%20to%20permanent%20grades.md) | Appointments and promotions to permanent grades. |
@@ -81,6 +82,7 @@
 | [3079\.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003079%20-%20Student%20pre-commissioning%20education%20assistance%20program.md) | Student pre-commissioning education assistance program. |
 | 3079–1. | Limitation on educational assistance. |
 | [3079a.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003079a%20-%20Treatment%20of%20commission%20in%20commissioned%20officer%20corps%20as%20employment%20in%20Administration%20for%20purposes%20of%20certain%20hiring%20decisions.md) | Treatment of commission in commissioned officer corps as employment in Administration for purposes of certain hiring decisions. |
+| [3079b.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Benefits/%C2%A7%2003079b%20-%20Shore%20leave%20for%20professional%20mariners.md) | Shore leave for professional mariners. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -160,7 +160,7 @@ The Secretary shall maintain in the Office of the Secretary an Office of Tribal 
 
 #### (7) Federal Advisory Committee Act exemption
 
-&emsp;Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+&emsp;Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply to the Committee.
 
 (Pub. L. 103–354, title III, §309, as added Pub. L. 113–79, title XII, §12303, Feb. 7, 2014, 128 Stat. 985; amended Pub. L. 115–334, title XII, §12303, Dec. 20, 2018, 132 Stat. 4962.)
 
@@ -168,7 +168,7 @@ The Secretary shall maintain in the Office of the Secretary an Office of Tribal 
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(7), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(7), is section 14 of Pub. L.92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 #### Codification
 
@@ -177,4 +177,6 @@ Section was enacted as part of the Federal Crop Insurance Reform and Department 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–334 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

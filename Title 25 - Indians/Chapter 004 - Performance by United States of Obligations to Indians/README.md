@@ -42,19 +42,14 @@
 | [123d.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000123d%20-%20Additional%20appropriations%20from%20tribal%20funds.md) | Additional appropriations from tribal funds. |
 | [124\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000124%20-%20Expenditures%20from%20tribal%20funds%20of%20Five%20Civilized%20Tribes%20without%20specific%20appropriations.md) | Expenditures from tribal funds of Five Civilized Tribes without specific appropriations. |
 | [125\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000125%20-%20Expenditure%20of%20moneys%20of%20tribes%20of%20Quapaw%20Agency.md) | Expenditure of moneys of tribes of Quapaw Agency. |
-| [126\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000126%20-%20Omitted.md) | Omitted. |
-| [127\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000127%20-%20Moneys%20or%20annuities%20of%20hostile%20Indians.md) | Moneys or annuities of hostile Indians. |
-| [128\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000128%20-%20Appropriations%20not%20paid%20to%20Indians%20at%20war%20with%20United%20States.md) | Appropriations not paid to Indians at war with United States. |
-| [129\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000129%20-%20Moneys%20due%20Indians%20holding%20captives%20other%20than%20Indians%20withheld.md) | Moneys due Indians holding captives other than Indians withheld. |
-| [130\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000130%20-%20Withholding%20of%20moneys%20or%20goods%20on%20account%20of%20intoxicating%20liquors.md) | Withholding of moneys or goods on account of intoxicating liquors. |
+| 126 to 130. | Omitted or Repealed. |
 | [131\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000131%20-%20Advances%20to%20disbursing%20officers.md) | Advances to disbursing officers. |
 | [132\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000132%20-%20Mode%20of%20distribution%20of%20goods.md) | Mode of distribution of goods. |
 | [133\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000133%20-%20Rolls%20of%20Indians%20entitled%20to%20supplies.md) | Rolls of Indians entitled to supplies. |
 | [134\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000134%20-%20Appropriations%20for%20supplies%20available%20immediately%3B%20time%20for%20distribution.md) | Appropriations for supplies available immediately; time for distribution. |
 | [135\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000135%20-%20Supplies%20distributed%20so%20as%20to%20prevent%20deficiencies.md) | Supplies distributed so as to prevent deficiencies. |
 | [136\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000136%20-%20Commutation%20of%20rations%20and%20other%20supplies%3B%20payment%20per%20capita.md) | Commutation of rations and other supplies; payment per capita. |
-| [137\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000137%20-%20Supplies%20distributed%20to%20able-bodied%20males%20on%20condition.md) | Supplies distributed to able-bodied males on condition. |
-| [138\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000138%20-%20Goods%20withheld%20from%20chiefs%20violating%20treaty%20stipulations.md) | Goods withheld from chiefs violating treaty stipulations. |
+| 137, 138. | Repealed. |
 | [139\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000139%20-%20Appropriations%20for%20subsistence.md) | Appropriations for subsistence. |
 | [140\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000140%20-%20Diversion%20of%20appropriations%20for%20employees%20and%20supplies.md) | Diversion of appropriations for employees and supplies. |
 | 141 to 144. Omitted or Repealed. |  |
@@ -92,7 +87,7 @@
 | [163\.](Subchapter%20003%20%28III%29%20-%20Deposit%2C%20Care%2C%20and%20Investment%20of%20Indian%20Moneys/%C2%A7%2000163%20-%20Roll%20of%20membership%20of%20Indian%20tribes.md) | Roll of membership of Indian tribes. |
 | [164\.](Subchapter%20003%20%28III%29%20-%20Deposit%2C%20Care%2C%20and%20Investment%20of%20Indian%20Moneys/%C2%A7%2000164%20-%20Restoration%20to%20tribal%20ownership%20of%20unclaimed%20per%20capita%20and%20other%20individual%20payments%20of%20tribal%20trust%20funds%3B%20deposit%20in%20general%20fund%20of%E2%80%A6.md) | Restoration to tribal ownership of unclaimed per capita and other individual payments of tribal trust funds; deposit in general fund of the Treasury. |
 | [165\.](Subchapter%20003%20%28III%29%20-%20Deposit%2C%20Care%2C%20and%20Investment%20of%20Indian%20Moneys/%C2%A7%2000165%20-%20Notice%20to%20Congressional%20committees.md) | Notice to Congressional committees. |
-| [166\.](Subchapter%20003%20%28III%29%20-%20Deposit%2C%20Care%2C%20and%20Investment%20of%20Indian%20Moneys/%C2%A7%2000166%20-%20Applicability%20of%20Federal%20Advisory%20Committee%20Act.md) | Applicability of Federal Advisory Committee Act. |
+| [166\.](Subchapter%20003%20%28III%29%20-%20Deposit%2C%20Care%2C%20and%20Investment%20of%20Indian%20Moneys/%C2%A7%2000166%20-%20Applicability%20of%20chapter%2010%20of%20title%205.md) | Applicability of chapter 10 of title 5. |
 | [167\.](Subchapter%20003%20%28III%29%20-%20Deposit%2C%20Care%2C%20and%20Investment%20of%20Indian%20Moneys/%C2%A7%2000167%20-%20Trust%20status%20of%20lease%20payments.md) | Trust status of lease payments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

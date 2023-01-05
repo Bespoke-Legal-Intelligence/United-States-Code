@@ -14,7 +14,15 @@
 
 (d) The Secretary of State shall make publicly available through the Internet website of the Department of State each treaty or international agreement proposed to be published in the compilation entitled "United States Treaties and Other International Agreements" not later than 180 days after the date on which the treaty or agreement enters into force.
 
-(Added Sept. 23, 1950, ch. 1001, §2, 64 Stat. 980; amended Pub. L. 103–236, title I, §138, Apr. 30, 1994, 108 Stat. 397; Pub. L. 108–458, title VII, §7121(a), Dec. 17, 2004, 118 Stat. 3807.)
+(Added Sept. 23, 1950, ch. 1001, §2, 64 Stat. 980; amended Pub. L. 103–236, title I, §138, Apr. 30, 1994, 108 Stat. 397; Pub. L. 108–458, title VII, §7121(a), Dec. 17, 2004, 118 Stat. 3807; Pub. L. 117–263, div. E, title LIX, §5947(b), Dec. 23, 2022, 136 Stat. 3482.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–263, div. E, title LIX, §5947(b), (c), Dec. 23, 2022, 136 Stat. 3482, provided that, effective 270 days after Dec. 23, 2022, this section is amended by striking subsections (b), (c), and (d) and by inserting after subsection (a) the following:</i>
+
+<i>(b) Copies of international agreements and qualifying non-binding instruments in the possession of the Department of State, but not published, other than the agreements described in section 112b(b)(3)(A), shall be made available by the Department of State upon request.</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -24,15 +32,21 @@ The date of enactment of the Foreign Relations Authorization Act, Fiscal Years 1
 
 #### Amendments
 
+<b>2022</b>—Subsecs. (b) to (d). Pub. L. 117–263 added subsec. (b) and struck out former subsecs. (b) to (d) which related to determination that publication of certain categories of agreements is not required, publication of such determination in the Federal Register, and timely availability of certain treaties and international agreements on the Department of State website.
+
 <b>2004</b>—Subsec. (d). Pub. L. 108–458 added subsec. (d).
 
 <b>1994</b>—Pub. L. 103–236 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–263, div. E, title LIX, §5947(c), Dec. 23, 2022, 136 Stat. 3482, provided that: "The amendments made by this section \[amending this section, section 112b of this title, and section 195c of Title 6, Domestic Security\] shall take effect on the date that is 270 days after the date of the enactment of this Act."
+
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–458, title VII, §7122, Dec. 17, 2004, 118 Stat. 3808, provided that: "Notwithstanding any other provision of this Act \[see Tables for classification\], this subtitle \[subtitle A (§§7101–7122) of title VII of Pub. L.108–458, enacting sections 2228, 2732, 3922b, 4029, 7536a, and 7555 of Title 22, Foreign Relations and Intercourse, amending this section, section 112b of this title, section 1189 of Title 8, Aliens and Nationality, sections 2651a, 2656f, 4003, 7513, 7514, 7518, 7536, 7537, 7538, and 7554 of Title 22, and section 4605 of Title 50, War and National Defense, repealing section 2374 of Title 22, enacting provisions set out as notes under section 1189 of Title 8, sections 1431, 2451, 2452, 2651a, 2656, 2656f, 7501, 7511, 7513, 7514, and 7536 of Title 22, and section 4605 of Title 50, and amending provisions set out as a note under section 112b of this title\] shall take effect on the date of enactment of this Act \[Dec. 17, 2004\]."
+Pub. L. 108–458, title VII, §7122, Dec. 17, 2004, 118 Stat. 3808, provided that: "Notwithstanding any other provision of this Act \[see Tables for classification\], this subtitle \[subtitle A (§§7101–7122) of title VII of Pub. L. 108–458, enacting sections 2228, 2732, 3922b, 4029, 7536a, and 7555 of Title 22, Foreign Relations and Intercourse, amending this section, section 112b of this title, section 1189 of Title 8, Aliens and Nationality, sections 2651a, 2656f, 4003, 7513, 7514, 7518, 7536, 7537, 7538, and 7554 of Title 22, and section 4605 of Title 50, War and National Defense, repealing section 2374 of Title 22, enacting provisions set out as notes under section 1189 of Title 8, sections 1431, 2451, 2452, 2651a, 2656, 2656f, 7501, 7511, 7513, 7514, and 7536 of Title 22, and section 4605 of Title 50, and amending provisions set out as a note under section 112b of this title\] shall take effect on the date of enactment of this Act \[Dec. 17, 2004\]."
 
 #### Effect of Repeal of Section 73 of Act Jan. 12, 1895
 

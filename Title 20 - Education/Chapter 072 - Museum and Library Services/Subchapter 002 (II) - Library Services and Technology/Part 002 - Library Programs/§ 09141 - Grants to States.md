@@ -6,7 +6,7 @@ Of the funds provided to a State library administrative agency under section 912
 
 &emsp;(1) expanding services for learning and access to information and educational resources in a variety of formats (including new and emerging technology), in all types of libraries, for individuals of all ages in order to support such individuals' needs for education, lifelong learning, workforce development, economic and business development, health information, critical thinking skills, digital literacy skills, and financial literacy and other types of literacy skills;
 
-&emsp;(2) establishing or enhancing electronic and other linkages and improved coordination among and between libraries and entities, as described in section 9134(b)(6) of this title, for the purpose of improving the quality of and access to library and information services;
+&emsp;(2) establishing or enhancing electronic and other linkages and improved coordination among and between libraries and entities, as described in section 9134(b)(6) of this title, forthe purpose of improving the quality of and access to library and information services;
 
 &emsp;(3)(A) providing training and professional development, including continuing education, to enhance the skills of the current library workforce and leadership, and advance the delivery of library and information services; and
 
@@ -26,7 +26,7 @@ Of the funds provided to a State library administrative agency under section 912
 
 Each State library administrative agency receiving funds under this part may apportion the funds available for the priorities described in subsection (a) as appropriate to meet the needs of the individual State.
 
-(Pub. L. 94–462, title II, §231, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\],Sept. 30, 1996, 110 Stat. 3009–233, 3009–301; amended Pub. L. 108–81, title II, §206, Sept. 25, 2003, 117 Stat. 999; Pub. L. 111–340, title II, §205, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 115–410, §12, Dec. 31, 2018, 132 Stat. 5417.)
+(Pub. L. 94–462, title II, §231, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–301; amended Pub. L. 108–81, title II, §206, Sept. 25, 2003, 117 Stat. 999; Pub. L. 111–340, title II, §205, Dec. 22, 2010, 124 Stat. 3600; Pub. L. 115–410, §12, Dec. 31, 2018, 132 Stat. 5417.)
 
 #### <b>Editorial Notes</b>
 

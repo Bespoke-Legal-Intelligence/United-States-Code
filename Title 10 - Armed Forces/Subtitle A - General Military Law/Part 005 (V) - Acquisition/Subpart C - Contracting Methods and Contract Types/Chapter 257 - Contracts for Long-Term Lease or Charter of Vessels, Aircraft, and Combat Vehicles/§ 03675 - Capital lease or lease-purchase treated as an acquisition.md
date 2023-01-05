@@ -6,7 +6,7 @@ In General.—If a lease or charter covered by this chapter is a capital lease o
 
 &emsp;(1) the lease or charter shall be treated as an acquisition and shall be subject to all applicable statutory and regulatory requirements for the acquisition of aircraft, naval vessels, or combat vehicles; and
 
-&emsp;(2) funds appropriated to the Department of Defense for operation and maintenance maynot be obligated or expended for the lease or charter.
+&emsp;(2) funds appropriated to the Department of Defense for operation and maintenance may not be obligated or expended for the lease or charter.
 
 (b)
 

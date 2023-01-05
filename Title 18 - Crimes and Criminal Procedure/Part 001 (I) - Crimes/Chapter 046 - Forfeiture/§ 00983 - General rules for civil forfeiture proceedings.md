@@ -92,7 +92,7 @@ Representation.—
 
 &emsp;(B)(i) At appropriate times during a representation under subparagraph (A), the Legal Services Corporation shall submit a statement of reasonable attorney fees and costs to the court.
 
-&emsp;(ii) The court shall enter a judgment in favor of the Legal Services Corporation for reasonable attorney fees and costs submitted pursuant to clause (i) and treat such judgmentas payable under section 2465 of title 28, United States Code, regardless of the outcome of the case.
+&emsp;(ii) The court shall enter a judgment in favor of the Legal Services Corporation for reasonable attorney fees and costs submitted pursuant to clause (i) and treat such judgment as payable under section 2465 of title 28, United States Code, regardless of the outcome of the case.
 
 &emsp;(3) The court shall set the compensation for representation under this subsection, which shall be equivalent to that provided for court-appointed representation under section 3006A of this title.
 
@@ -242,7 +242,7 @@ Release Of Seized Property.—
 
 &emsp;(8) This subsection shall not apply if the seized property—
 
-&emsp;&emsp;(A) is contraband, currency, or other monetary instrument, or electronic funds unless such currency or other monetary instrumentor electronic funds constitutes the assets of a legitimate business which has been seized;
+&emsp;&emsp;(A) is contraband, currency, or other monetary instrument, or electronic funds unless such currency or other monetary instrument or electronic funds constitutes the assets of a legitimate business which has been seized;
 
 &emsp;&emsp;(B) is to be used as evidence of a violation of the law;
 
@@ -310,7 +310,7 @@ Restraining Orders; Protective Orders.—
 
 &emsp;(4) The court may receive and consider, at a hearing held pursuant to this subsection, evidence and information that would be inadmissible under the Federal Rules of Evidence.
 
-(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310; Pub.L. 111–16, §3(1), May 7, 2009, 123 Stat. 1607; Pub. L. 114–122, title I, §105(b), Feb. 18, 2016, 130 Stat. 101.)
+(Added and amended Pub. L. 106–185, §§2(a), 9, Apr. 25, 2000, 114 Stat. 202, 216; Pub. L. 106–561, §3(a), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–56, title III, §316(d), Oct. 26, 2001, 115 Stat. 310; Pub. L. 111–16, §3(1), May 7, 2009, 123 Stat. 1607; Pub. L. 114–122, title I, §105(b), Feb. 18, 2016, 130 Stat. 101.)
 
 #### <b>Editorial Notes</b>
 

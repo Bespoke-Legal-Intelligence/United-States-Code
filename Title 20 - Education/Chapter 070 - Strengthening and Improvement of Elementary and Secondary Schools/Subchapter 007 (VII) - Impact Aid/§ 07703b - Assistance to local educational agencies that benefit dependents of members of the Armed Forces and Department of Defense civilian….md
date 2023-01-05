@@ -8,7 +8,7 @@
 
 #### (2) Eligible local educational agencies
 
-&emsp;A local educational agency is eligible for assistance under this subsection for a fiscal year if at least 20 percent (as rounded to the nearest whole percent) of the students in average daily attendance in the schools of the local educational agency during the preceding school year were military dependent students counted under section 7703(a)(1) of this title.
+&emsp;A local educational agency is eligible for assistance under this subsection for a fiscal yearif at least 20 percent (as rounded to the nearest whole percent) of the students in average daily attendance in the schools of the local educational agency during the preceding school year were military dependent students counted under section 7703(a)(1) of this title.
 
 #### (b) Assistance to schools with enrollment changes due to base closures, force structure changes, or force relocations
 
@@ -24,7 +24,7 @@
 
 &emsp;A local educational agency is eligible for assistance under this subsection for a fiscal year if—
 
-&emsp;&emsp;(A) the local educational agency is eligible for assistance under subsection (a) for thesame fiscal year, or would have been eligible for such assistance if not for the reduction in military dependent students in schools of the local educational agency; and
+&emsp;&emsp;(A) the local educational agency is eligible for assistance under subsection (a) for the same fiscal year, or would have been eligible for such assistance if not for the reduction in military dependent students in schools of the local educational agency; and
 
 &emsp;&emsp;(B) the overall increase or reduction in military dependent students in schools of the local educational agency is the result of one or more of the following:
 
@@ -96,7 +96,7 @@ In this section:
 
 #### References in Text
 
-The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (e)(1), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (e)(1), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

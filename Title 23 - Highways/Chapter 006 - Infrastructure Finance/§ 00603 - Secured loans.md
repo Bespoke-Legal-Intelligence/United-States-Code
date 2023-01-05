@@ -198,7 +198,7 @@ Deferred payments.—
 
 &emsp;&emsp;(A)
 
-In general.—If, at any time after the date of substantial completion of the project, the project is unable to generate sufficient revenues to pay the scheduled loan repayments of principal and interest on the secured loan, the Secretary may, subject to subparagraph (C), allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.
+In general.—If, at any time after the date of substantial completion of the project, the project is unable to generate sufficient revenues to pay the scheduled loanrepayments of principal and interest on the secured loan, the Secretary may, subject to subparagraph (C), allow the obligor to add unpaid principal and interest to the outstanding balance of the secured loan.
 
 &emsp;&emsp;(B)
 
@@ -310,7 +310,7 @@ Additional criteria.—The additional criteria referred to in subparagraph (A)(i
 
 &emsp;&emsp;(C)
 
-Written notice.—The Secretary shall provide to an applicant seeking a secured loan under the expedited decision process under this paragraph a written notice informing the applicant whether the Secretary has approved or disapproved the application by not later than 180 days after the date on which the Secretary submits to the applicant a letter indicating that the National Surface Transportation Innovative Finance Bureau has commenced the creditworthiness review of the project.
+Written notice.—The Secretary shall provide to an applicant seeking a securedloan under the expedited decision process under this paragraph a written notice informing the applicant whether the Secretary has approved or disapproved the application by not later than 180 days after the date on which the Secretary submits to the applicant a letter indicating that the National Surface Transportation Innovative Finance Bureau has commenced the creditworthiness review of the project.
 
 (Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 245, §183; renumbered §603 and amended Pub. L. 109–59, title I, §§1601(d), 1602(b)(3), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 614; Pub. L. 114–94, div. A, title II, §2001(c), Dec. 4, 2015, 129 Stat. 1442; Pub. L. 117–58, div. A, title II, §12001(e), (f), (h), Nov. 15, 2021, 135 Stat. 619.)
 
@@ -334,7 +334,7 @@ Subsec. (c)(4)(A). Pub. L. 117–58, §12001(f), designated existing provisions 
 
 Subsec. (f)(3). Pub. L. 117–58, §12001(h), added par. (3).
 
-<b>2015</b>—Subsec. (a)(2). Pub. L. 114–94, §2001(c)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "A loan under paragraph (1)shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project."
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–94, §2001(c)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "A loan under paragraph (1) shall not refinance interim construction financing under paragraph (1)(B) later than 1 year after the date of substantial completion of the project."
 
 Subsec. (b)(2). Pub. L. 114–94, §2001(c)(2)(A), designated existing provisions as subpar. (A), inserted subpar. (A) heading, substituted "Except as provided in subparagraph (B), the amount of" for "The amount of", and added subpar. (B).
 

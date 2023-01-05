@@ -106,7 +106,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 &emsp;&emsp;(D) describe the types of monitoring networks, surveys and other activities to be used to achieve these goals and objectives, using where appropriate the guidelines issued under subsection (c);
 
-&emsp;&emsp;(E) survey existing Federal, State, and local coastal monitoring activities and private compliance monitoring activities in oron the coastal waters covered by the program, describe the relationship of the program to those other monitoring activities, and integrate them, as appropriate, into the intensive monitoring program;
+&emsp;&emsp;(E) survey existing Federal, State, and local coastal monitoring activities and private compliance monitoring activities in or on the coastal waters covered by the program, describe the relationship of the program to those other monitoring activities, and integrate them, as appropriate, into the intensive monitoring program;
 
 &emsp;&emsp;(F) describe the data management and quality control components of the program;
 
@@ -132,7 +132,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 #### (6) Memorandum of Understanding
 
-&emsp;Prior to implementing any intensive coastal water quality monitoring program under this subsection, the Administrator and the Under Secretary shall enter into a Memorandum of Understanding to implement the intensive coastal water quality monitoring programs and may extend the memorandum <sup>3</sup> of Understanding to include other appropriate Federal agencies. The Memorandum of Understanding shall identify the monitoring and reporting responsibilities of each agency and shall encourage the coordination of monitoring activities.
+&emsp;Prior to implementing any intensive coastal water quality monitoring program under this subsection, the Administrator and the UnderSecretary shall enter into a Memorandum of Understanding to implement the intensive coastal water quality monitoring programs and may extend the memorandum <sup>3</sup> of Understanding to include other appropriate Federal agencies. The Memorandum of Understanding shall identify the monitoring and reporting responsibilities of each agency and shall encourage the coordination of monitoring activities.
 
 #### (7) Implementation
 

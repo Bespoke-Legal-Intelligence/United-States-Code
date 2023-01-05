@@ -46,7 +46,7 @@ The Attorney General may award grants to eligible entities to—
 
 A grant awarded under this section shall be used to—
 
-&emsp;(1) train law enforcement personnel to identify and protect victims of trafficking, including training such personnel to utilize Federal, State, or local resources to assist victims of trafficking;
+&emsp;(1) train law enforcement personnel to identify and protect victims of trafficking, including training such personnel to utilize Federal, State, or local resources to assist victims of trafficking, which may include programs to build law enforcement capacity to identify and respond to human trafficking that are funded through the Office of Community Oriented Policing Services of the Department of Justice, such as the Interdiction for the Protection of Children Program;
 
 &emsp;(2) train law enforcement or State or local prosecutors to identify, investigate, or prosecute acts of trafficking;
 
@@ -76,7 +76,7 @@ A grant awarded under this section shall be used to—
 
 There are authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
 
-(Pub. L. 109–162, title I, §111, Jan. 5, 2006, 119 Stat. 2984; Pub. L. 113–4, title XII, §1212(b)(2)(D), Mar. 7, 2013, 127 Stat. 144; Pub. L. 115–392, §10(a), Dec. 21, 2018, 132 Stat. 5254.)
+(Pub. L. 109–164, title II, §208, formerly Pub. L. 109–162, title I, §111, Jan. 5, 2006, 119 Stat. 2984; Pub. L. 113–4, title XII, §1212(b)(2)(D), Mar. 7, 2013, 127 Stat. 144; Pub. L. 115–392, §10(a), Dec. 21, 2018, 132 Stat. 5254; renumbered §208 of Pub. L. 109–164 and amended Pub. L. 117–347, title I, §§101(a), 106(a), Jan. 5, 2023, 136 Stat. 6200, 6204.)
 
 #### <b>Editorial Notes</b>
 
@@ -90,11 +90,13 @@ Section was formerly classified to section 14044f of Title 42, The Public Health
 
 #### Amendments
 
+<b>2023</b>—Subsec. (c)(1). Pub. L. 117–347, §101(a), inserted before semicolon at end ", which may include programs to build law enforcement capacity to identify and respond to human trafficking that are funded through the Office of Community Oriented Policing Services of the Department of Justice, such as the Interdiction for the Protection of Children Program".
+
 <b>2018</b>—Pub. L. 115–392, §10(a)(1), substituted "specialized human trafficking training and technical assistance for service providers" for "law enforcement training programs" in section catchline.
 
 Subsec. (a)(2). Pub. L. 115–392, §10(a)(2), substituted "means—" and subpars. (A) to (F) for "means a State or a local government."
 
-Subsec. (b). Pub. L. 115–392, §10(a)(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Attorney General may awardgrants to eligible entities to provide training to State and local law enforcement personnel to identify and protect victims of trafficking."
+Subsec. (b). Pub. L. 115–392, §10(a)(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Attorney General may award grants to eligible entities to provide training to State and local law enforcement personnel to identify and protect victims of trafficking."
 
 Subsec. (c)(4) to (8). Pub. L. 115–392, §10(a)(4), added pars. (4) to (8).
 

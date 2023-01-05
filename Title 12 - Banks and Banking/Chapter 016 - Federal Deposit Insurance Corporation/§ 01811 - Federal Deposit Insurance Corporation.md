@@ -54,7 +54,7 @@ Pub. L. 109–351, §1(a), Oct. 13, 2006, 120 Stat. 1966, provided that: "This A
 
 Pub. L. 109–173, §1, Feb. 15, 2006, 119 Stat. 3601, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Deposit Insurance Reform Conforming Amendments Act of 2005'."
 
-Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: "This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831o, 1833a, 1834, 1841, and 3341 ofthis title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the 'Federal Deposit Insurance Reform Act of 2005'."
+Pub. L. 109–171, title II, §2101, Feb. 8, 2006, 120 Stat. 9, provided that: "This subtitle \[subtitle B (§§2101–2109) of title II of Pub. L. 109–171, amending sections 24, 338a, 347b, 1431, 1441a, 1441b, 1464, 1467a, 1723i, 1735f–14, 1813, 1815 to 1817, 1821, 1821a, 1823 to 1825, 1827, 1828, 1831a, 1831e, 1831h, 1831m, 1831o, 1833a, 1834, 1841, and 3341 of this title and section 905 of Title 2, The Congress, enacting provisions set out as notes under sections 1817 and 1821 of this title, and repealing provisions set out as notes under section 1821 of this title\] may be cited as the 'Federal Deposit Insurance Reform Act of 2005'."
 
 #### Short Title of 2004 Amendment
 
@@ -204,7 +204,7 @@ Form of Report.—The report required under subsection (a) shall be submitted in
 
 "(c)
 
-Congressional Briefing.—Upon request, the head of each banking regulator shall provide a detailedbriefing to the appropriate Members of Congress on each report submitted pursuant to subsection (a), except—
+Congressional Briefing.—Upon request, the head of each banking regulator shall provide a detailed briefing to the appropriate Members of Congress on each report submitted pursuant to subsection (a), except—
 
 &emsp;"(1) the Chairman of the Board of Governors of the Federal Reserve System may designate another member of the Board of Governors of the Federal Reserve System to provide such briefing;
 
@@ -340,7 +340,7 @@ Matters studied.—The study required under paragraph (1) shall include consider
 
 &emsp;&emsp;"(A) the changes underway in the national and international economies and the financial services industry, and how those changes affect the financial services system's ability to efficiently meet the needs of the national economy and the system's users during the next 10 years and beyond; and
 
-&emsp;&emsp;"(B) the adequacy of existing statutes and regulations, and the existing regulatory structure, to meet the needs of the financial services system'susers effectively, efficiently, and without unfair, anticompetitive, or discriminatory practices.
+&emsp;&emsp;"(B) the adequacy of existing statutes and regulations, and the existing regulatory structure, to meet the needs of the financial services system's users effectively, efficiently, and without unfair, anticompetitive, or discriminatory practices.
 
 &emsp;"(3)
 
@@ -432,7 +432,7 @@ Pub. L. 102–242, title III, §321, Dec. 19, 1991, 105 Stat. 2370, directed Fed
 
 #### Private Reinsurance Study
 
-Pub. L. 102–242, title III, §322, Dec. 19, 1991, 105 Stat. 2370, directed Board of Directors of Federal Deposit Insurance Corporation, in consultation with Secretary of the Treasury and individuals from the private sector with expertise in private insurance, private reinsurance, depository institutions, or economics, to conduct a study of the feasibility of establishing a private reinsurance system, such study to include a demonstration project consisting of a simulation, by a sample of private reinsurers and insured depository institutions, of the activities required for a private reinsurance system, with a report to Congress on the study before the end of the 18-month period beginning on Dec. 19, 1991.
+Pub. L. 102–242, title III, §322, Dec. 19, 1991, 105 Stat. 2370, directed Board of Directors of Federal Deposit Insurance Corporation, in consultation with Secretary of the Treasury and individuals from the private sector with expertise in private insurance, private reinsurance, depository institutions, or economics, to conduct a study of the feasibility of establishing a private reinsurance system, such study to include a demonstration project consisting of a simulation, by a sample of private reinsurers and insured depository institutions, ofthe activities required for a private reinsurance system, with a report to Congress on the study before the end of the 18-month period beginning on Dec. 19, 1991.
 
 #### Purposes of 1989 Amendment
 
@@ -536,7 +536,7 @@ Annual Survey Required.—The Board of Governors of the Federal Reserve System s
 
 &emsp;"(1) certain retail banking services provided by insured depository institutions; and
 
-&emsp;"(2) the fees, if any, which are imposed by such institutions for providing any such service, including fees imposed for not sufficient funds, deposit items returned, and automated teller machine transactions.
+&emsp;"(2) the fees, if any, which are imposed by such institutions for providing any such service, includingfees imposed for not sufficient funds, deposit items returned, and automated teller machine transactions.
 
 "(b)
 
@@ -638,7 +638,7 @@ Reports to Congress.—The Comptroller General shall submit to the Congress 2 re
 
 &emsp;&emsp;"(B) the nature of any periodic reports that the Comptroller General believes should be submitted to the Congress relating to the capital condition and operations of the government-sponsored enterprises; and
 
-&emsp;"(4) any recommendations and opinions of the Secretary of Agriculture, the Secretary of Education, the Secretary of Housing and Urban Development, and the Secretary of the Treasury regarding the report, to the extent that the recommendations and views of such officers differ from the recommendations and opinions of the Comptroller General.
+&emsp;"(4) any recommendations and opinions of the Secretary of Agriculture, the Secretary of Education, the Secretary of Housing and Urban Development,and the Secretary of the Treasury regarding the report, to the extent that the recommendations and views of such officers differ from the recommendations and opinions of the Comptroller General.
 
 "(f)
 
@@ -668,7 +668,7 @@ Appropriate federal banking agency.—The term 'appropriate Federal banking agen
 
 &emsp;"(2)
 
-Minority bank.—The term 'minority bank' means any depository institution described in clause\(i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)(i), (ii), (iii)\]—
+Minority bank.—The term 'minority bank' means any depository institution described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)(i), (ii), (iii)\]—
 
 &emsp;&emsp;"(A) more than 50 percent of the ownership or control of which is held by 1 or more minority individuals; and
 

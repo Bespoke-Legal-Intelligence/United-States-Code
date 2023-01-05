@@ -24,7 +24,7 @@ Another prior section 801, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 
 
 A prior section 802, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 115; amended Pub. L. 87–858, §3(b)(1), Oct. 23, 1962, 76 Stat. 1136; Pub. L. 88–272, title II, §235(c)(1), Feb. 26, 1964, 78 Stat. 126; Pub. L. 91–172, title V, §511(c)(1), Dec. 30, 1969, 83 Stat. 637; Pub. L. 94–455, title XIX, §1901(a)(95), (b)(33)(E), Oct. 4, 1976, 90 Stat. 1780, 1801; Pub. L. 95–600, title III, §301(b)(8), Nov. 6, 1978, 92 Stat. 2821, contained provisions similar to this section, prior to the general revision of this part by Pub. L. 98–369, §211(a).
 
-Another prior section 802, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 1956, ch. 83, §2, 70 Stat. 38; July24, 1956, ch. 696, §§1, 2(b), 70 Stat. 633; Mar. 17, 1958, Pub. L. 85–345, §§1, 2(a), 72 Stat. 36, contained provision similar to this section, prior to the general revision of this part by Pub. L. 86–69, §2(a).
+Another prior section 802, acts Aug. 16, 1954, ch. 736, 68A Stat. 255; Mar. 13, 1956, ch. 83, §2, 70 Stat. 38; July 24, 1956, ch. 696, §§1, 2(b), 70 Stat. 633; Mar. 17, 1958, Pub. L. 85–345, §§1, 2(a), 72 Stat. 36, contained provision similar to this section, prior to the general revision of this part by Pub. L. 86–69, §2(a).
 
 #### Amendments
 
@@ -40,7 +40,7 @@ Subsec. (c). Pub. L. 115–97, §13514(b), struck out subsec. (c) which referred
 
 #### Effective Date of 2017 Amendment
 
-Amendment by section 13001(b)(2)(G) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
+Amendment by section 13001(b)(2)(G) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31,2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 Amendment by section 13512(b)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13512(c) of Pub. L. 115–97, set out as a note under section 453B of this title.
 
@@ -106,7 +106,7 @@ Pub. L. 99–514, title XVIII, §1829, Oct. 22, 1986, 100 Stat. 2851, provided t
 
 #### Scope of Section 255 of the Tax Equity and Fiscal Responsibility Act of 1982
 
-Pub. L. 99–514, title XVIII, §1830, Oct. 22, 1986, 100 Stat. 2851, provided that: "In the case of any taxable year beginning before January 1, 1982, in applying the provisions of section 255(c)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 255(c)(2) of Pub. L. 97–248, 96 Stat. 534, formerly set out as a note under section 809 of this title\], the Internal Revenue Service shall give full and complete effect to the terms of any modified coinsurance contract. The terms to be given effect within the meaning of this provision shall include, but are not limited to, the effective date and investment income rate as stated in such contract."
+Pub. L. 99–514, title XVIII, §1830, Oct. 22, 1986, 100 Stat. 2851, provided that: "In the case of any taxable year beginning before January 1, 1982, in applying the provisions of section 255(c)(2) of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 255(c)(2) of Pub. L. 97–248, 96 Stat. 534, formerly set out as a note under section 809 of this title\], the Internal Revenue Service shall give full and complete effect to the termsof any modified coinsurance contract. The terms to be given effect within the meaning of this provision shall include, but are not limited to, the effective date and investment income rate as stated in such contract."
 
 #### Treatment of Certain Self-Insured Workers' Compensation Funds
 
@@ -282,7 +282,7 @@ Recapture of reinsurance after december 31, 1983.—If (A) insurance or annuity 
 
 &emsp;&emsp;"(i) if the amount of the reserves with respect to the recaptured contracts, computed at the date of recapture, that the reinsurer would have taken into account under \[former\] section 810(c) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) exceeds the amount of the reserves with respect to the recaptured contracts, computed at the date of recapture, taken into account by the reinsurer under section 807(c) of the Internal Revenue Code of 1986 (as amended by this subtitle), such excess (but not greater than the amount of such excess if computed on January 1, 1984) shall be taken into account by the reinsurer under the method described in section 807(f)(1)(B)(ii) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture, and
 
-&emsp;&emsp;"(ii) the amount, if any, taken into account by the reinsurer under clause (i) for purposes of part Iof subchapter L of chapter 1 of the Internal Revenue Code of 1986 shall be taken into account by the reinsured under the method described in section 807(f)(1)(B)(i) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture.
+&emsp;&emsp;"(ii) the amount, if any, taken into account by the reinsurer under clause (i) for purposes of part I of subchapter L of chapter 1 of the Internal Revenue Code of 1986 shall be taken into account by the reinsured under the method described in section 807(f)(1)(B)(i) of the Internal Revenue Code of 1986 (as amended by this subtitle) commencing with the taxable year of recapture.
 
 > &emsp;The excess described in clause (i) shall be reduced by any portion of such excess to which section 807(f) of the Internal Revenue Code of 1986 applies by reason of paragraph (3) of this subsection. For purposes of this paragraph, the term 'reinsurer' refers to the taxpayer that held reserves with respect to the recaptured contracts as of the end of the taxable year preceding the first taxable year beginning after December 31, 1983, and the term 'reinsured' refers to the taxpayer to which such reserves are ultimately transferred upon termination.
 

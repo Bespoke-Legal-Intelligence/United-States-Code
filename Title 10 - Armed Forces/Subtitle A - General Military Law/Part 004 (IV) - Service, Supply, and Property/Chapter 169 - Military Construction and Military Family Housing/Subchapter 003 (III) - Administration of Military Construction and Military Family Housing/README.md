@@ -57,7 +57,7 @@ Pub. L. 109–163, div. B, title XXVIII, §2804(c)(2), Jan. 6, 2006, 119 Stat. 3
 
 Pub. L. 108–375, div. B, title XXVIII, §2804(a)(2), Oct. 28, 2004, 118 Stat. 2122, added item 2859.
 
-<b>2003</b>—Pub. L. 108–136, div. A, title X, §1044(b)(2), div. B, title XXVIII, §2805(a)(2), Nov. 24, 2003, 117 Stat. 1612,1721, struck out item 2859 "Transmission of annual military construction authorization request" and added item 2869.
+<b>2003</b>—Pub. L. 108–136, div. A, title X, §1044(b)(2), div. B, title XXVIII, §2805(a)(2), Nov. 24, 2003, 117 Stat. 1612, 1721, struck out item 2859 "Transmission of annual military construction authorization request" and added item 2869.
 
 <b>2001</b>—Pub. L. 107–107, div. B, title XXVIII, §2803(b), Dec. 28, 2001, 115 Stat. 1305, struck out item 2861 "Annual report to Congress".
 

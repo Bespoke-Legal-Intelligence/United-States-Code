@@ -32,7 +32,7 @@ Another section 216 of Pub. L. 96–88 was renumbered section 218 and is classif
 
 Subsec. (a). Pub. L. 107–110, §1072(b), substituted "Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students" for "Office of Bilingual Education and Minority Languages Affairs".
 
-Subsec. (b)(1). Pub. L. 107–110, §1072(d), substituted "Director of English Language Acquisition, Language Enhancement, and Academic Achievement for LimitedEnglish Proficient Students" for 'Director of Bilingual Education and Minority Languages Affairs".
+Subsec. (b)(1). Pub. L. 107–110, §1072(d), substituted "Director of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students" for 'Director of Bilingual Education and Minority Languages Affairs".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

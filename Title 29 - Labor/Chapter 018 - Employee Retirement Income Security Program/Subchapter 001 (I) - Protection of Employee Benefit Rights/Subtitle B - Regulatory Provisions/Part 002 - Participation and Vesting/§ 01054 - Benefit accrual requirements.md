@@ -18,7 +18,7 @@ Each pension plan shall satisfy the requirements of subsection (b)(3), and—
 
 > In the case of a plan providing retirement benefits based on compensation during any period, the normal retirement benefit to which a participant would be entitled shall be determined as if he continued to earn annually the average rate of compensation which he earned during consecutive years of service, not in excess of 10, for which his compensation was the highest. For purposes of this subparagraph, social security benefits and all other relevant factors used to compute benefits shall be treated as remaining constant as of the current year for all years after such current year.
 
-(B) A defined benefit plan satisfies the requirements of this paragraph of a particular plan year if under the plan the accrued benefit payable at the normal retirement age is equal to the normal retirement benefit and the annual rate at which any individual who is or could be a participant can accrue the retirement benefits payable at normal retirement age under the plan for any later plan year is not more than 1331/3 percent of the annual rate at which he can accrue benefits for any plan year beginning on or after such particular plan year and before such later plan year. For purposes of this subparagraph—
+(B) A defined benefit plan satisfies the requirements of this paragraph of a particular plan year if under the plan the accrued benefit payable at the normal retirement age is equal to the normal retirement benefit and the annual rate at which any individual who is or could bea participant can accrue the retirement benefits payable at normal retirement age under the plan for any later plan year is not more than 1331/3 percent of the annual rate at which he can accrue benefits for any plan year beginning on or after such particular plan year and before such later plan year. For purposes of this subparagraph—
 
 &emsp;(i) any amendment to the plan which is in effect for the current year shall be treated as in effect for all other plan years;
 
@@ -150,7 +150,7 @@ Rate of benefit accrual.—Subject to clause (iv), the requirements of this clau
 
 &emsp;&emsp;(iv)
 
-Special rules for early retirement subsidies.—For purposes of clause (iii)(I),the plan shall credit the accumulation account or similar amount <sup>1</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>1</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
 
 &emsp;&emsp;(v)
 
@@ -211,6 +211,10 @@ Early retirement benefit or retirement-type subsidy.—For purposes of this para
 &emsp;(G)
 
 Benefit accrued to date.—For purposes of this paragraph, any reference to the accrued benefit shall be a reference to such benefit accrued to date.
+
+(6)
+
+Projected interest crediting rate.—For purposes of subparagraphs (A), (B), and (C) of paragraph (1), in the case of an applicable defined benefit plan (within the meaning of section 1053(f)(3) of this title) which provides variable interest crediting rates, the interest crediting rate which is treated as in effect and as the projected interest crediting rate shall be a reasonable projection of such variable interest crediting rate, not to exceed 6 percent.
 
 #### (c) Employee's accrued benefits derived from employer and employee contributions
 
@@ -376,7 +380,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 (2) Paragraph (1) shall not apply to any plan amendment that—
 
-&emsp;(A) the Secretary of the Treasury determines to be reasonable and that provides for only de minimis increases in the liabilities of the plan with respect to employees of the debtor,
+&emsp;(A) the Secretary of the Treasury determines to be reasonable and that provides foronly de minimis increases in the liabilities of the plan with respect to employees of the debtor,
 
 &emsp;(B) only repeals an amendment described in section 1082(d)(2) of this title,
 
@@ -418,7 +422,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (i) Time for making investment choices
 
-&emsp;&emsp;&emsp;A plan shall not be treated as failing to meet the requirements of this paragraphmerely because the plan limits the time for divestment and reinvestment to periodic, reasonable opportunities occurring no less frequently than quarterly.
+&emsp;&emsp;&emsp;A plan shall not be treated as failing to meet the requirements of this paragraph merely because the plan limits the time for divestment and reinvestment to periodic, reasonable opportunities occurring no less frequently than quarterly.
 
 #### (ii) Certain restrictions and conditions not allowed
 
@@ -510,7 +514,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 #### (ii) Exception for certain participants aged 55 or over
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply to an applicable individual who is a participant who hasattained age 55 and completed at least 3 years of service before the first plan year beginning after December 31, 2005.
+&emsp;&emsp;&emsp;Clause (i) shall not apply to an applicable individual who is a participant who has attained age 55 and completed at least 3 years of service before the first plan year beginning after December 31, 2005.
 
 #### (B) Applicable percentage
 
@@ -560,7 +564,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;<b>For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.</b>
 
-(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §108(a)(5)–(8), formerly §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(2), (3), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 113–97, title I, §102(b)(4), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–235, div. P, §2(a), Dec. 16, 2014, 128 Stat. 2827.)
+(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22, 1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52; Pub. L. 109–280, title I, §108(a)(5)–(8), formerly §107(a)(5)–(8), title V, §502(c)(1), title VII, §701(a)(1), title IX, §901(b)(1), Aug. 17, 2006, 120 Stat. 819, 941, 981, 1029, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §107(a)(2), (3), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 113–97, title I, §102(b)(4), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–235, div. P, §2(a), Dec. 16, 2014, 128 Stat. 2827; Pub. L. 117–328, div. T, title III, §348(b), Dec. 29, 2022, 136 Stat. 5385.)
 
 #### <b>Editorial Notes</b>
 
@@ -569,6 +573,8 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 The Social Security Act, referred to in subsec. (b)(1)(G), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(6). Pub. L. 117–328 added par. (6).
 
 <b>2014</b>—Subsec. (i)(3). Pub. L. 113–97 substituted "multiemployer plans or CSEC plans" for "multiemployer plans".
 
@@ -588,7 +594,7 @@ Subsec. (h)(1). Pub. L. 109–280, §502(c)(1), inserted before period at end "a
 
 Subsec. (i)(2)(B). Pub. L. 109–280, §108(a)(6), formerly §107(a)(6), as renumbered by Pub. L. 111–192, substituted "1082(d)(2)" for "1082(c)(8)".
 
-Subsec. (i)(3). Pub. L. 109–280, §108(a)(7), formerly §107(a)(7), as renumbered by Pub. L. 111–192, substituted"funding target attainment percentage (as defined in section 1083(d)(2) of this title)" for "funded current liability percentage (within the meaning of section 1082(d)(8) of this title)".
+Subsec. (i)(3). Pub. L. 109–280, §108(a)(7), formerly §107(a)(7), as renumbered by Pub. L. 111–192, substituted "funding target attainment percentage (as defined in section 1083(d)(2) of this title)" for "funded current liability percentage (within the meaning of section 1082(d)(8) of this title)".
 
 Subsec. (i)(4). Pub. L. 109–280, §108(a)(8), formerly §107(a)(8), as renumbered by Pub. L. 111–192, substituted "section 1082(b)(1) of this title, without regard to section 1082(b)(2) of this title" for "section 1082(c)(11)(A) of this title, without regard to section 1082(c)(11)(B) of this title".
 
@@ -690,6 +696,10 @@ Subsec. (g). Pub. L. 98–397, §301(a)(2), designated existing provisions as pa
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 applicable with respect to plan years beginning after Dec. 29, 2022, see section 348(c) of Pub. L. 117–328, set out as a note under section 411 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–235 applicable to all periods before, on, and after Dec. 16, 2014, see section 2(c) of div. P of Pub. L. 113–235, set out as a note under section 411 of Title 26, Internal Revenue Code.
@@ -704,7 +714,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 Amendment by section 108(a)(5) to (8) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.
 
-Amendment by section 502(c)(1) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, see section 502(d) of Pub. L. 109–280, set out as a note under section 4980F of Title 26, Internal Revenue Code.
+Amendment by section 502(c)(1) of Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, seesection 502(d) of Pub. L. 109–280, set out as a note under section 4980F of Title 26, Internal Revenue Code.
 
 Amendment by section 701(a)(1) of Pub. L. 109–280 applicable to periods beginning on or after June 29, 2005, with provisions relating to vesting and interest credit requirements for plans in existence on June 29, 2005, special rule for collectively bargained plans, and provisions relating to conversions of plan amendments adopted after, and taking effect after, June 29, 2005, see section 701(e) of Pub. L. 109–280, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
@@ -750,7 +760,7 @@ In general.—The amendments made by this section \[amending this section and se
 
 "(2)
 
-Plan amendments not required until january 1, 1989.—If any amendment made by this section requires an amendment to any plan, such plan amendment shallnot be required to be made before the first plan year beginning on or after January 1, 1989, if—
+Plan amendments not required until january 1, 1989.—If any amendment made by this section requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after January 1, 1989, if—
 
 &emsp;"(A) during the period after such amendments made by this section take effect and before such first plan year, the plan is operated in accordance with the requirements of such amendments or in accordance with an amendment prescribed by the Secretary of the Treasury and adopted by the plan, and
 
@@ -776,7 +786,7 @@ Amendment by section 1898(a)(4)(B)(ii), (f)(1)(B), (2) of Pub. L. 99–514 effec
 
 Amendment by Pub. L. 99–509 applicable only with respect to plan years beginning on or after Jan. 1, 1988, and only to employees who have 1 hour of service in any plan year to which amendment applies, with special rule for collectively bargained plans, see section 9204 of Pub. L. 99–509, set out as an Effective and Termination Dates of 1986 Amendments note under section 623 of this title.
 
-Pub. L. 99–272, title XI, §11006(b), Apr. 7, 1986, 100 Stat. 243, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to plan amendments adopted on or after January 1, 1986, except that, in the case of plan amendments adopted on or after January 1, 1986, and on or before the date of the enactment of this Act \[Apr. 7, 1986\], the requirements of section 204(h) of the Employee Retirement Income Security Act of 1974 \[subsec. (h) of this section\] (as added by this section) shall be treated as met if the written notice required under such section 204(h) is provided before 60 days after the date of the enactment of this Act."
+Pub. L. 99–272, title XI, §11006(b), Apr. 7, 1986, 100 Stat. 243, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to plan amendments adopted on or after January 1, 1986, except that, in the case of plan amendments adopted on or after January 1, 1986, and on or before the date of the enactment of this Act \[Apr. 7, 1986\], the requirements of section 204(h) of the Employee Retirement Income Security Act of 1974 \[subsec. (h) of this section\] (as added by this section) shall be treated as met if the written notice required under such section204(h) is provided before 60 days after the date of the enactment of this Act."
 
 #### Effective Date of 1984 Amendment
 

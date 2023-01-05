@@ -44,7 +44,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;&emsp;&emsp;(I) if both spouses have not attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of such spouses' disability income, or
 
-&emsp;&emsp;&emsp;&emsp;(II) if one spouse has attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of $5,000 plus the disability income for the taxable year of the spouse who has not attained age 65 before the close of the taxable year.
+&emsp;&emsp;&emsp;&emsp;(II) if one spouse has attained age 65 before the close of the taxable year, the initial amount shall not exceed the sum of $5,000 plus the disability income for the taxable year of the spouse who hasnot attained age 65 before the close of the taxable year.
 
 #### (iii) Disability income
 
@@ -54,7 +54,7 @@ For purposes of subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;The reduction under this paragraph is an amount equal to the sum of the amounts received by the individual (or, in the case of ajoint return, by either spouse) as a pension or annuity or as a disability benefit—
+&emsp;&emsp;The reduction under this paragraph is an amount equal to the sum of the amounts received by the individual (or, in the case of a joint return, by either spouse) as a pension or annuity or as a disability benefit—
 
 &emsp;&emsp;&emsp;(i) which is excluded from gross income and payable under—
 
@@ -110,7 +110,7 @@ No credit shall be allowed under this section to any nonresident alien.
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Railroad Retirement Act of 1974, referred to in subsec. (c)(3)(A)(i)(II), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
@@ -128,7 +128,7 @@ Subsec. (c). Pub. L. 98–369, §474(d)(2), substituted "Section 22 amount" for 
 
 Subsec. (c)(1). Pub. L. 98–369, §474(d)(1), substituted "section 22 amount" for "section 37 amount".
 
-Subsec. (d). Pub. L. 98–369, §474(d)(3), amended subsec. (d) generally, striking out heading "Limitations" and designation "(1)" before "Adjusted gross income limitation" thereby making existing par. (1) the entire subsec. (d), redesignating existing subpars. (A), (B), and (C) as pars. (1), (2), and (3), respectively, and striking out provisions, formerly comprising par. (2), which had limited the amount of the credit allowed by this section for the taxable year to the amount of the tax imposed by this chapter for such taxable year.
+Subsec. (d). Pub. L. 98–369, §474(d)(3), amended subsec. (d) generally, striking out heading "Limitations" and designation "(1)" before "Adjusted gross income limitation" thereby making existing par. (1) the entire subsec. (d), redesignating existing subpars. (A), (B), and (C)as pars. (1), (2), and (3), respectively, and striking out provisions, formerly comprising par. (2), which had limited the amount of the credit allowed by this section for the taxable year to the amount of the tax imposed by this chapter for such taxable year.
 
 <b>1983</b>—Pub. L. 98–21 inserted reference to permanently and totally disabled in section catchline.
 

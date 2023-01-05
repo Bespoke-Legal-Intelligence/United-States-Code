@@ -84,7 +84,7 @@ In carrying out the responsibilities under this section, the Administrator shall
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(8), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(8), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Codification
 
@@ -130,13 +130,13 @@ Section 1. <i>Policy</i>. To ensure that the Federal Government appropriately su
 
 (a) consider, in their emergency preparedness planning, the unique needs of agency employees with disabilities and individuals with disabilities whom the agency serves;
 
-(b) encourage, including through the provision of technical assistance, as appropriate, consideration of the unique needs of employees and individuals with disabilities served by State, local, and tribal governments and private organizations and individuals in emergency preparedness planning; and
+(b) encourage, including through the provision of technical assistance, as appropriate, consideration ofthe unique needs of employees and individuals with disabilities served by State, local, and tribal governments and private organizations and individuals in emergency preparedness planning; and
 
 (c) facilitate cooperation among Federal, State, local, and tribal governments and private organizations and individuals in the implementation of emergency preparedness plans as they relate to individuals with disabilities.
 
 Sec. 2. <i>Establishment of Council</i>. (a) There is hereby established, within the Department of Homeland Security for administrative purposes, the Interagency Coordinating Council on Emergency Preparedness and Individuals with Disabilities (the "Council"). The Council shall consist exclusively of the following members or their designees:
 
-&emsp;(i) the heads of executive departments, the Administrator of the Environmental Protection Agency, theAdministrator of General Services, the Director of the Office of Personnel Management, and the Commissioner of Social Security; and
+&emsp;(i) the heads of executive departments, the Administrator of the Environmental Protection Agency, the Administrator of General Services, the Director of the Office of Personnel Management, and the Commissioner of Social Security; and
 
 &emsp;(ii) any other agency head as the Secretary of Homeland Security may, with the concurrence of the agency head, designate.
 

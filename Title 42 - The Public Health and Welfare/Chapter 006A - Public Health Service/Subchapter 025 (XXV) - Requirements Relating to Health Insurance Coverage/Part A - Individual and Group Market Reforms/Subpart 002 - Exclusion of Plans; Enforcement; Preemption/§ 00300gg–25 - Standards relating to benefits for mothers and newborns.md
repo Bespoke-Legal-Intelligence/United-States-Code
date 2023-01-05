@@ -82,7 +82,7 @@ Section was formerly classified to section 300gg–4 of this title prior to renu
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(3)(A), formerly §1562(c)(3)(A), as renumbered by Pub. L. 111–148,§10107(b)(1), substituted "group or individual health insurance coverage" for "group health insurance coverage" in introductory provisions.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(3)(A), formerly §1562(c)(3)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance coverage" for "group health insurance coverage" in introductory provisions.
 
 Subsec. (b). Pub. L. 111–148, §1563(c)(3)(B)(i), formerly §1562(c)(3)(B)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "group or individual health insurance coverage" for "group health insurance coverage in connection with a group health plan" in introductory provisions.
 

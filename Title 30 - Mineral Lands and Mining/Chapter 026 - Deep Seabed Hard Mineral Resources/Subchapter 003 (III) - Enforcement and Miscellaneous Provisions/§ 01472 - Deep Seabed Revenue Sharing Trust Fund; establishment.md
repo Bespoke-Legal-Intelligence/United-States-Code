@@ -24,7 +24,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (A) In general
 
-&emsp;&emsp;It shall be the duty of the Secretary of the Treasury to invest such portion of the Trust Fund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States. For such purpose, such obligations may be acquired (i) on original issue at the issue price, or (ii) by purchase of outstanding obligations at the market price.
+&emsp;&emsp;It shall be the duty of the Secretary of the Treasury to invest such portion of the TrustFund as is not, in his judgment, required to meet current withdrawals. Such investments may be made only in interest-bearing obligations of the United States. For such purpose, such obligations may be acquired (i) on original issue at the issue price, or (ii) by purchase of outstanding obligations at the market price.
 
 #### (B) Sale of obligations
 
@@ -62,7 +62,7 @@ Section was enacted as part of title IV of Pub. L. 96–283, and not as part of 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this section relating to the duty ofthe Secretary of the Treasury to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 143 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this section relating to the duty of the Secretary of the Treasury to report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 143 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

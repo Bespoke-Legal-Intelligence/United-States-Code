@@ -18,7 +18,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§600c, 608 (R.S. §§236, 823, 848, 855; June 10, 1921, ch. 18, §305, 42 Stat. 24;Apr. 26, 1926, ch. 183, §3, 44 Stat. 324; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Oct. 13, 1941, ch. 431, §2, 55 Stat. 736; Dec. 24, 1942, ch. 825, §1, 56 Stat. 1088).
+Based on title 28, U.S.C., 1940 ed., §§600c, 608 (R.S. §§236, 823, 848, 855; June 10, 1921, ch. 18, §305, 42 Stat. 24; Apr. 26, 1926, ch. 183, §3, 44 Stat. 324; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49 Stat. 1921; Oct. 13, 1941, ch. 431, §2, 55 Stat. 736; Dec. 24, 1942, ch. 825, §1, 56 Stat. 1088).
 
 Section consolidates parts of sections 600c and 608 of title 28, U.S.C., 1940 ed., relating to payment of witnesses. Other provisions of such sections are incorporated in sections 1821 and 1871 of this title.
 

@@ -24,7 +24,7 @@ Inapplicable Leave Provisions.—Sections 701, 703, and 704 of this title and su
 
 (d)
 
-Regulations.—The Secretary concerned, or his designated representative, may prescribe regulations relating to leave for cadets and midshipmen.
+Regulations.—The Secretary concerned, or his designated representative, may prescriberegulations relating to leave for cadets and midshipmen.
 
 (e)
 

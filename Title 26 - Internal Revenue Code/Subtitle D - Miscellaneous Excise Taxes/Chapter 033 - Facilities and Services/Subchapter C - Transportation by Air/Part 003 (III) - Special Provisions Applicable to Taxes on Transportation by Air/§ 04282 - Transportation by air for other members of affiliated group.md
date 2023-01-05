@@ -36,5 +36,5 @@ A prior section 4282, act Aug. 16, 1954, ch. 736, 68A Stat. 508, defined "fair c
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, see section 1609(i) of Pub.L. 104–188, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, see section 1609(i) of Pub. L. 104–188, set out as a note under section 4041 of this title.
 

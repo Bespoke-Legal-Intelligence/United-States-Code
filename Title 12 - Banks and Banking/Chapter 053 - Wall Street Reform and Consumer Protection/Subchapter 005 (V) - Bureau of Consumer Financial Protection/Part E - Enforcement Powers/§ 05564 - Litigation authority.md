@@ -22,7 +22,7 @@ The Bureau may compromise or settle any action if such compromise is approved by
 
 #### (A) Notice of other actions
 
-&emsp;&emsp;In addition to any notice required under paragraph (1), the Bureau shall notify the Attorney General concerning any action, suit, or proceeding to which the Bureau is a party, except an action, suit, or proceeding that involves the offering or provision of consumer financial products or services.
+&emsp;&emsp;In addition to any notice required under paragraph (1), the Bureau shall notify theAttorney General concerning any action, suit, or proceeding to which the Bureau is a party, except an action, suit, or proceeding that involves the offering or provision of consumer financial products or services.
 
 #### (B) Coordination
 
@@ -34,7 +34,7 @@ The Bureau may compromise or settle any action if such compromise is approved by
 
 #### (e) Appearance before the Supreme Court
 
-The Bureau may represent itself in its own name before the Supreme Court of the United States, provided that the Bureau makes a written request to the Attorney General within the 10-day period which begins on the date of entry of the judgment which would permit any party to file a petition for writ of certiorari, and the Attorney General concurs with such request orfails to take action within 60 days of the request of the Bureau.
+The Bureau may represent itself in its own name before the Supreme Court of the United States, provided that the Bureau makes a written request to the Attorney General within the 10-day period which begins on the date of entry of the judgment which would permit any party to file a petition for writ of certiorari, and the Attorney General concurs with such request or fails to take action within 60 days of the request of the Bureau.
 
 #### (f) Forum
 

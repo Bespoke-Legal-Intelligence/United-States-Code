@@ -88,7 +88,7 @@ Conference.—The term "conference"—
 
 &emsp;(9)
 
-Controlled carrier.—The term "controlled carrier" means an ocean common carrier that is, or whose operating assets are, directly or indirectly, owned or controlled by a government, with ownership or control by agovernment being deemed to exist for a carrier if—
+Controlled carrier.—The term "controlled carrier" means an ocean common carrier that is, or whose operating assets are, directly or indirectly, owned or controlled by a government, with ownership or control by a government being deemed to exist for a carrier if—
 
 &emsp;&emsp;(A) a majority of the interest in the carrier is owned or controlled in any manner by that government, an agency of that government, or a public or private person controlled by that government; or
 
@@ -198,7 +198,7 @@ Shippers' association.—The term "shippers' association" means a group of shipp
 
 &emsp;(25)
 
-Through rate.—The term "through rate" means the single amount charged by acommon carrier in connection with through transportation.
+Through rate.—The term "through rate" means the single amount charged by a common carrier in connection with through transportation.
 
 &emsp;(26)
 

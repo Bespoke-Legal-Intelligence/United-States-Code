@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;Not later than one year after December 31, 2020, the Under Secretary, acting through the Director of the National Weather Service,shall make public an operations and services policy directive for the National Water Center.
+&emsp;Not later than one year after December 31, 2020, the Under Secretary, acting through the Director of the National Weather Service, shall make public an operations and services policy directive for the National Water Center.
 
 #### (2) Contents
 

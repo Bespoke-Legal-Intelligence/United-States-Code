@@ -6,7 +6,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 &emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to public transportation safety or security, or fraud, waste, or abuse of Federal grants or other public funds intended to be used for public transportation safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
 
-&emsp;&emsp;(A) a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452); <sup>1</sup>
+&emsp;&emsp;(A) a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under chapter 4 of title 5; <sup>1</sup>
 
 &emsp;&emsp;(B) any Member of Congress, any Committee of Congress, or the Government Accountability Office; or
 
@@ -60,7 +60,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (i) Required showing by complainant
 
-&emsp;&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection andshall not conduct an investigation otherwise required under subparagraph (A) unless the complainant makes a prima facie showing that any behavior described in subsection (a) or (b) was a contributing factor in the unfavorable personnel action alleged in the complaint.
+&emsp;&emsp;&emsp;The Secretary of Labor shall dismiss a complaint filed under this subsection and shall not conduct an investigation otherwise required under subparagraph (A) unless the complainant makes a prima facie showing that any behavior described in subsection (a) or (b) was a contributing factor in the unfavorable personnel action alleged in the complaint.
 
 #### (ii) Showing by employer
 
@@ -122,7 +122,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (7) De novo review
 
-&emsp;With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filingof the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The action shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary of Labor.
+&emsp;With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury. The action shall be governed by the same legal burdens of proof specified in paragraph (2)(B) for review by the Secretary of Labor.
 
 #### (d) Remedies
 
@@ -176,15 +176,15 @@ Nothing in this section shall be construed to diminish the rights, privileges, o
 
 &emsp;The Secretary shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
 
-(Pub. L. 110–53, title XIV, §1413, Aug. 3, 2007, 121 Stat. 414.)
+(Pub. L. 110–53, title XIV, §1413, Aug. 3, 2007, 121 Stat. 414; Pub. L. 117–286, §4(b)(22), Dec. 27, 2022, 136 Stat. 4345.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The Inspector General Act of 1978, referred to in subsec. (a)(1)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (a)(1)(A). Pub. L. 117–286 substituted "chapter 4 of title 5;" for "the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452);".
 
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be preceded by an additional closing parenthesis.</i>
+<i><sup>1</sup></i><i> So in original. The semicolon probably should be preceded by a closing parenthesis.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "subsection (c)(7))".</i>
 

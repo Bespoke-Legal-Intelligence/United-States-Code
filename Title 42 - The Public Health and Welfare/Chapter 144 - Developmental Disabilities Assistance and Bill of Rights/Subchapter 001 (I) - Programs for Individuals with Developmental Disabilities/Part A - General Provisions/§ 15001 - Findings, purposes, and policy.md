@@ -306,7 +306,7 @@ Sec. 3. <i>Functions of the Committee</i>. (a) Consistent with subsection (c) of
 
 (b) The Committee shall provide an annual report to the President through the Secretary of Health and Human Services. Such additional reports may be made as the President may direct or as the Committee may deem appropriate.
 
-(c) The members shall advise the President and carry out their advisory role consistent with the requirements of the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+(c) The members shall advise the President and carry out their advisory role consistent with the requirements of the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\].
 
 Sec. 4. <i>Cooperation by Agencies</i>. The heads of Federal departments and agencies shall:
 
@@ -318,7 +318,7 @@ Sec. 5. <i>Administration</i>. (a) The Department of Health and Human Services s
 
 (b) Each member of the Committee, except any member who receives other compensation from the United States Government, may receive compensation for each day engaged in the work of the Committee, as authorized by law (5 U.S.C. 3109), and may also receive travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5701–5707), for persons employed intermittently in the Government service. Committee members with disabilities may be compensated for attendant expenses, consistent with Government procedures and practices.
 
-(c) The Secretary of Health and Human Services shall perform such other functions with respect to the Committee as may be required by the Federal Advisory Committee Act, as amended (5 U.S.C. App.), except that of reporting to the Congress.
+(c) The Secretary of Health and Human Services shall perform such other functions with respect to the Committee as may be required by the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], except that of reporting to the Congress.
 
 Sec. 6. <i>General</i>. (a) Nothing in this order shall be construed as subjecting any Federal agency, or any function vested by law in, or assigned pursuant to law to, any Federal agency, to the authority of the Committee or as abrogating or restricting any such function in any manner.
 
@@ -326,7 +326,7 @@ Sec. 6. <i>General</i>. (a) Nothing in this order shall be construed as subjecti
 
 #### Extension of Term of President's Committee for People with Intellectual Disabilities
 
-Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of the President's Committee for People with Intellectual Disabilities (formerly President's Committee on Mental Retardation) were contained in the following prior Executive Orders:
 

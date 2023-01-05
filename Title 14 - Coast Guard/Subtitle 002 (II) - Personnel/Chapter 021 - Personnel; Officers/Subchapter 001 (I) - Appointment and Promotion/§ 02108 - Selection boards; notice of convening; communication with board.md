@@ -16,7 +16,7 @@
 
 Subsecs. (a), (b). Pub. L. 115–282, §123(b)(2), substituted "section 2106" for "section 251".
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–281 inserted "and" after "zone to be considered," and struck out ", and the number of officers the board may recommend for promotion" after "eligible for consideration".
+<b>2010</b>—Subsec. (a). Pub. L. 111–281 inserted "and" after "zone to be considered," and struck out ", and thenumber of officers the board may recommend for promotion" after "eligible for consideration".
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–444 added officers eligible for consideration to list of items for which notice must be given to the service at large before a board is convened under section 251 of this title.
 

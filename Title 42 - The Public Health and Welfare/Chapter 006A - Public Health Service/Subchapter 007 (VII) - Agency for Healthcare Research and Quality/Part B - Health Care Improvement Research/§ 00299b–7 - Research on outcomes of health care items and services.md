@@ -88,7 +88,7 @@
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Nothing in this section shall be construed to require or permit the disclosure of data provided to the Secretary that is otherwise protected from disclosure under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], section 1905 of title 18, or other applicable law.
+&emsp;&emsp;Nothing in this section shall be construed to require or permit the disclosure of data provided to the Secretary that is otherwiseprotected from disclosure under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\], section 1905 of title 18, or other applicable law.
 
 #### (5) Evaluations
 
@@ -146,11 +146,11 @@ There is authorized to be appropriated to carry out this section, $50,000,000 fo
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1)(A), (2)(C)(i), (3)(A)(iii), (C)(i), (4)(A), (6)(A), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. Parts C and D of title XVIII of the Act are classified generally to parts C (§1395w–21 et seq.) and D (§1395w–101 et seq.), respectively, of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(A), (2)(C)(i), (3)(A)(iii), (C)(i), (4)(A), (6)(A), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. Parts C and D of title XVIII of the Act are classified generally to parts C (§1395w–21 et seq.) and D (§1395w–101 et seq.), respectively, of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(3)(C)(ii)(I), (4)(B), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(3)(C)(ii)(I), (4)(B), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(3)(C)(ii)(I), (4)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to this chapter. Title IX of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (a)(3)(C)(ii)(I), (4)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to this chapter. Title IX of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Codification
 
@@ -160,7 +160,7 @@ Section was enacted as part of the Medicare Prescription Drug, Improvement, and 
 
 #### Definition of "Secretary"
 
-"Secretary" as meaning the Secretary of Health and Human Services, see section 1(c)(2) of Pub. L. 108–173, set out as a note under section 1301 of this title.
+"Secretary" means the Secretary of Health and Human Services, see section 1(c)(2) of Pub. L. 108–173, set out as a note under section 1301 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -18,7 +18,7 @@ Formula.—Of the amounts allocated under subsection (c)—
 
 &emsp;(1) 35 percent shall be allocated among eligible entities in the proportion that—
 
-&emsp;&emsp;(A) the number of ferry passengers, including passengers in vehicles, carried by eachferry system in the most recent calendar year for which data is available; bears to
+&emsp;&emsp;(A) the number of ferry passengers, including passengers in vehicles, carried by each ferry system in the most recent calendar year for which data is available; bears to
 
 &emsp;&emsp;(B) the number of ferry passengers, including passengers in vehicles, carried by all ferry systems in the most recent calendar year for which data is available;
 

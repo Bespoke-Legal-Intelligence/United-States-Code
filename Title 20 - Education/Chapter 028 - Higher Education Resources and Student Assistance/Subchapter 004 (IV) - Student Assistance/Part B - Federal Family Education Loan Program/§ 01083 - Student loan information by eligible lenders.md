@@ -2,7 +2,7 @@
 
 #### (a) Required disclosure before disbursement
 
-Each eligible lender, at or prior to the time such lender disburses a loan that is insured or guaranteed under this part (other than a loan made under section 1078–3 of this title), shall provide thorough and accurate loan information on such loan to the borrower in simple and understandable terms. Any disclosure required bythis subsection may be made by an eligible lender by written or electronic means, including as part of the application material provided to the borrower, as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. Each lender shall provide to each borrower a telephone number, and may provide an electronic address, through which additional loan information can be obtained. The disclosure shall include—
+Each eligible lender, at or prior to the time such lender disburses a loan that is insured or guaranteed under this part (other than a loan made under section 1078–3 of this title), shall provide thorough and accurate loan information on such loan to the borrower in simple and understandable terms. Any disclosure required by this subsection may be made by an eligible lender by written or electronic means, including as part of the application material provided to the borrower, as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. Each lender shall provide to each borrower a telephone number, and may provide an electronic address, through which additional loan information can be obtained. The disclosure shall include—
 
 &emsp;(1) a statement prominently and clearly displayed and in bold print that the borrower is receiving a loan that must be repaid;
 
@@ -122,7 +122,7 @@ Each eligible lender shall, at or prior to the start of the repayment period on 
 
 #### (c) Separate notification
 
-Each eligible lender shall, at the time such lender notifies a borrower of approval of a loan which is insured or guaranteed under this part, provide the borrower with a separate notification which summarizes, in simple and understandable terms, the rights and responsibilities of the borrower with respect to the loan, including a statement of the consequences of defaulting on the loan and a statement that each borrower who defaults will be reported to a consumer reporting agency. The requirement of this subsection shall be in addition to the information required by subsection (a) of this section.
+Each eligible lender shall, at the time such lender notifies a borrower of approval of a loan which is insured or guaranteed under this part, provide the borrower with a separate notification which summarizes, in simple and understandable terms, the rights and responsibilitiesof the borrower with respect to the loan, including a statement of the consequences of defaulting on the loan and a statement that each borrower who defaults will be reported to a consumer reporting agency. The requirement of this subsection shall be in addition to the information required by subsection (a) of this section.
 
 #### (d) Special disclosure rules on PLUS loans, and unsubsidized loans
 
@@ -202,7 +202,7 @@ Loans made under sections 1078–2 and 1078–8 of this title shall not be subje
 
 &emsp;The Secretary may limit, suspend, or terminate the continued participation of an eligible lender in making loans under this part for failure by that lender to comply with this section.
 
-(Pub. L. 89–329, title IV, §433, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1406; amended Pub. L. 100–50, §10(z), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §426, July 23, 1992, 106 Stat. 548; Pub. L. 103–208, §2(c)(53), (54), (k)(4), Dec. 20, 1993, 107 Stat. 2468, 2485; Pub. L. 105–244, title IV, §428, Oct. 7, 1998, 112 Stat. 1704; Pub. L. 110–315, title IV, §434(a), Aug. 14, 2008, 122 Stat. 3247.)
+(Pub. L. 89–329, title IV, §433, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1406; amended Pub. L. 100–50, §10(z), June 3, 1987,101 Stat. 346; Pub. L. 102–325, title IV, §426, July 23, 1992, 106 Stat. 548; Pub. L. 103–208, §2(c)(53), (54), (k)(4), Dec. 20, 1993, 107 Stat. 2468, 2485; Pub. L. 105–244, title IV, §428, Oct. 7, 1998, 112 Stat. 1704; Pub. L. 110–315, title IV, §434(a), Aug. 14, 2008, 122 Stat. 3247.)
 
 #### <b>Editorial Notes</b>
 
@@ -230,7 +230,7 @@ Pub. L. 103–208, §2(c)(54), substituted "sections" for "section" before "1078
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–325, §426(a), added par. (1) and redesignated former pars. (1) to (13) as (2) to (14), respectively.
 
-Subsec. (b). Pub. L. 102–325, §426(b)(1), in introductory provisions, inserted second sentence and struck outformer second sentence which read as follows: "Any disclosure required by this subsection may be made by an eligible lender either in a promissory note evidencing the loan or loans or in a written statement provided to the borrower."
+Subsec. (b). Pub. L. 102–325, §426(b)(1), in introductory provisions, inserted second sentence and struck out former second sentence which read as follows: "Any disclosure required by this subsection may be made by an eligible lender either in a promissory note evidencing the loan or loans or in a written statement provided to the borrower."
 
 Subsec. (b)(8). Pub. L. 102–325, §426(b)(2), inserted "except as provided in subsection (e) of this section," before "the projected".
 

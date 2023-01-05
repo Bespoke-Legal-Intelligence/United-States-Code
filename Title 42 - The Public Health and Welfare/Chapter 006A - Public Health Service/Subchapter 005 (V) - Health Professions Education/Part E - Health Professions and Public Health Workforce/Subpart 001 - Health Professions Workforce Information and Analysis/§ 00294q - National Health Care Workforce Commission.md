@@ -22,7 +22,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (1) Number and appointment
 
-&emsp;The Commission shall be composed of 15 members to be appointed by the Comptroller General, without regard to section 5 of the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;The Commission shall be composed of 15 members to be appointed by the Comptroller General, without regard to section 1004 of title 5.
 
 #### (2) Qualifications
 
@@ -66,7 +66,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 #### (D) Ethical disclosure
 
-&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to suchmembers. Members of the Commission shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 \[5 U.S.C. App.\]. Members of the Commission shall not be treated as special government employees under title 18.
+&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Commission of financial and other potential conflicts of interest relating to such members. Members of the Commission shall be treated as employees of Congress for purposes of applying subchapter I of chapter 131 of title 5. Members of the Commission shall not be treated as special government employees under title 18.
 
 #### (3) Terms
 
@@ -126,7 +126,7 @@ There is hereby established the National Health Care Workforce Commission (in th
 
 &emsp;&emsp;(B) health care workforce education and training capacity, including the number of students who have completed education and training, including registered apprenticeships; the number of qualified faculty; the education and training infrastructure; and the education and training demands, with projected demands during the subsequent 10 and 25 year periods;
 
-&emsp;&emsp;(C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whethersuch programs should become part of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq <sup>2</sup> );
+&emsp;&emsp;(C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq <sup>2</sup> );
 
 &emsp;&emsp;(D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act, the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), and any other Federal health care workforce programs;
 
@@ -266,7 +266,7 @@ In this section:
 
 &emsp;The term "health professionals" includes—
 
-&emsp;&emsp;(A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,<sup>5</sup>public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
+&emsp;&emsp;(A) dentists, dental hygienists, primary care providers, specialty physicians, nurses, nurse practitioners, physician assistants, psychologists and other behavioral and mental health professionals (including substance abuse prevention and treatment providers), social workers, physical and occupational therapists, optometrists, ophthalmologists,<sup>5</sup> public health professionals, clinical pharmacists, allied health professionals, doctors of chiropractic, community health workers, school nurses, certified nurse midwives, podiatrists, licensed complementary and alternative medicine providers, the EMS workforce (including professional and volunteer ambulance personnel and firefighters who perform emergency medical services), and integrative health practitioners;
 
 &emsp;&emsp;(B) national representatives of health professionals;
 
@@ -276,17 +276,13 @@ In this section:
 
 &emsp;&emsp;(E) any other health professional the Comptroller General of the United States determines appropriate.
 
-(Pub. L. 111–148, title V, §5101, title X, §10501(a), Mar. 23, 2010, 124 Stat. 592, 993; Pub. L. 113–128, title V, §512(y), July 22, 2014, 128 Stat. 1716.)
+(Pub. L. 111–148, title V, §5101, title X, §10501(a), Mar. 23, 2010, 124 Stat. 592, 993; Pub. L. 113–128, title V, §512(y), July 22, 2014, 128 Stat. 1716; Pub. L. 117–286, §4(a)(239), (c)(40), Dec. 27, 2022, 136 Stat. 4332, 4359.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 5 of the Federal Advisory Committee Act, referred to in subsec. (c)(1), is section 5 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
-
-The Public Health Service Act, referred to in subsec. (d)(3)(C), (D), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles VII and VIII of the Act are classified generally to this subchapter and subchapter VI (§296 et seq.) of this chapter, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (d)(3)(C), (D), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles VII and VIII of the Act are classified generally to this subchapter and subchapter VI (§296 et seq.) of this chapter, respectively. For complete classification ofthis Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (d)(3)(C), (D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
@@ -317,6 +313,10 @@ Section 294q–2, act July 1, 1944, ch. 373, title VII, §746, as added Oct. 22,
 Section 294q–3, act July 1, 1944, ch. 373, title VII, §747, formerly §745, as added and renumbered §747, Oct. 22, 1985, Pub. L. 99–129, title II, §209(a)(4), (h)(1), 99 Stat. 532, 535, defined "school of pharmacy".
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(1). Pub. L. 117–286, §4(a)(239), substituted "section 1004 of title 5." for "section 5 of the Federal Advisory Committee Act (5 U.S.C. App.)."
+
+Subsec. (c)(2)(D). Pub. L. 117–286, §4(c)(40), substituted "subchapter I of chapter 131 of title 5." for "title I of the Ethics in Government Act of 1978."
 
 <b>2014</b>—Subsec. (d)(3)(D). Pub. L. 113–128 substituted "other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act," for "other health care workforce programs, including those supported through the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.),".
 
@@ -368,7 +368,7 @@ Health care career pathway.—The term 'healthcare career pathway' means a rigor
 
 &emsp;&emsp;"(D) provides academic and career counseling in student-to-counselor ratios that allow students to make informed decisions about academic and career options;
 
-&emsp;&emsp;"(E) meets State academic standards, State requirements for secondary school graduation and is aligned with requirements for entry into postsecondary education, and applicable industry standards; and
+&emsp;&emsp;"(E) meets State academic standards, State requirements for secondary school graduation and isaligned with requirements for entry into postsecondary education, and applicable industry standards; and
 
 &emsp;&emsp;"(F) leads to 2 or more credentials, including—
 

@@ -2,105 +2,147 @@
 
 (a)
 
-Annual Report Required.—Not later than January 31 of each year beginning in 2018, the Secretary of Defense shall submit to the appropriate congressional committees a report that sets forth, on a country-by-country basis, a description of each program carried out by the Department of Defense under the authorities in subsection (c) to provide training, equipment, or other assistance or reimbursement during the fiscal year ending in the year before the year in which such report is submitted.
+Annual Report Required.—Not later than March 31 of each year, the Secretary of Defense shall submit to the appropriate congressional committees a report that sets forth, on a country-by-country basis, an overview of security cooperation activities carried out by the Department of Defense during the fiscal year in which such report is submitted, using the authorities specified in subsection (b).
 
 (b)
 
-Elements of Report.—Each report required under subsection (a) shall provide for each program covered by such report, and for the reporting period covered by such report, the following:
+Elements of Report.—Each report required under subsection (a) shall include, with respect to each country and for the entirety of the period covered by such report, the following:
 
-&emsp;(1) A description of the purpose, duration, and type of the training, equipment, or assistance or reimbursement provided, including how the training, equipment, or assistance or reimbursement provided advances the theater security cooperation strategy of the combatant command, as appropriate.
+&emsp;(1) A narrative summary that provides—
 
-&emsp;(2) The cost and expenditures of such training, equipment, or assistance or reimbursement, including by type of support provided.
+&emsp;&emsp;(A) a brief overview of the primary security cooperation objectives for the activities encompassed by the report; and
 
-&emsp;(3) A description of the metrics, if any, used for assessing the effectiveness of such training, equipment, or assistance or reimbursement provided.
+&emsp;&emsp;(B) a description of how such activities advance the theater security cooperation strategy of the relevant geographic combatant command.
 
-&emsp;(4) For each foreign country in which defense articles, defense services, supplies (including consumables), small-scale construction, or reimbursement were provided, a description of the extent of participation, if any, by the military forces and security forces or other government organizations of such foreign country.
+&emsp;(2) A table that includes an aggregated amount with respect to each of the following:
 
-&emsp;(5) The number of members of the United States armed forces involved in providing such defense articles, defense services, supplies (including consumables), and small-scale construction, and, if applicable, a description of the military benefits for such members involved in providing such training, equipment, or assistance.
+&emsp;&emsp;(A) With respect to amounts made available for section 332(a) of this title, the Department of Defense cost to provide any Department personnel as advisors to a ministry of defense.
 
-&emsp;(6) A summary, by authority, of the activities carried out under each authority specified in subsection (c).
+&emsp;&emsp;(B) With respect to amounts made available for section 332(b) of this title, the Department of Defense incremental execution costs to conduct activities under such section.
 
-(c)
+&emsp;&emsp;(C) With respect to section 333 of this title, the value of all programs for which notice is required by such section.
 
-Specified Authorities.—The authorities specified in this subsection are the following authorities (or any successor authorities):
+&emsp;&emsp;(D) With respect to section 335 of this title, the total Department of Defense costs to fund expenses to attend training provided by the Government of Colombia that began during the period of the report.
 
-&emsp;(1) Sections 246, 251, 252, 253,<sup>1</sup> 321, 341, 344, 348, 349, and 350 of this title.
+&emsp;&emsp;(E) With respect to amounts made available for section 341 of this title, the Department of Defense manpower and travel costs to conduct bi-lateral <sup>1</sup> state partnership program engagements with the partner country.
 
-&emsp;(2) Section 166a(b)(6) of this title, relating to humanitarian and civic assistance by the commanders of the combatant commands.
+&emsp;&emsp;(F) With respect to amounts made available for section 342 of this title, the Department of Defense-funded, foreign-partner travel costs to attend a regional center activity that began during the period of the report.
 
-&emsp;(3) Section 168 of this title, relating to authority—
+&emsp;&emsp;(G) With respect to amounts made available for section 345 of this title, the estimated Department of Defense execution cost to complete all training that began during the period of the report.
 
-&emsp;&emsp;(A) to provide assistance to nations of the former Soviet Union as part of the Warsaw Initiative Fund;
+&emsp;&emsp;(H) With respect to amounts made available for section 2561 of this title, the planned execution cost of completing humanitarian assistance activities for the partner country that were approved for the period of the report.
 
-&emsp;&emsp;(B) to conduct the Defense Institution Reform Initiative; and
+&emsp;(3) A table that includes aggregated totals for each of the following:
 
-&emsp;&emsp;(C) to conduct a program to increase defense institutional legal capacity through the Defense Institute of International Legal Studies.
+&emsp;&emsp;(A) Pursuant to section 311 of this title, the number of personnel from a partner country assigned to a Department of Defense organization.
 
-&emsp;(4) Section 2249c of this title, relating to authority to use appropriated funds for costs associated with education and training of foreign officials under the Regional Defense Combating Terrorism Fellowship Program.
+&emsp;&emsp;(B) Pursuant to section 332(a) of this title, the number of Department of Defense personnel assigned as advisors to a ministry of defense.
 
-&emsp;(5) Section 2561 of this title, relating to authority to provide humanitarian assistance.
+&emsp;&emsp;(C) Pursuant to section 332(b) of this title, the number of activities conducted by the Department of Defense.
 
-&emsp;(6) Section 1532, relating to the Afghanistan Security Forces Fund.
+&emsp;&emsp;(D) The number of new programs carried out during the period of the report that required notice under section 333 of this title.
 
-&emsp;(7) Section 1233 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 393), relating to authority to reimburse certain coalition nations for support provided to United States military operations.
+&emsp;&emsp;(E) With respect to section 335 of this title, the number of partner country officials who participated in training provided by the Government of Colombia that began during the period of the report.
 
-&emsp;(8) Section 1234 of the National Defense Authorization Act for Fiscal Year 2008 (122 Stat. 394), relating to authorization for logistical support for coalition forces supporting certain United States military operations.
+&emsp;&emsp;(F) With respect to section 341 of this title, the number of Department of Defense bilateral state partnership program engagements with the partner country that began during the period of the report.
 
-&emsp;(9) Section 1033 of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85; 111 Stat. 1881), relating to authority to provide additional support for counter-drug activities of Peru and Colombia.
+&emsp;&emsp;(G) With respect to section 342 of this title, the number of partner country officials who participated in regional center activity that began during the period of the report.
 
-&emsp;(10) Section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 374 note), relating to additional support for counter-drug activities.
+&emsp;&emsp;(H) Pursuant to the authorities under sections 343, 345, 348, 349, 350 and 352 of this title, the total number of partner country personnel who began training during the period of the report.
 
-&emsp;(11) Section 401 of this title, relating to humanitarian and civic assistance provided in conjunction with military operations.
+&emsp;&emsp;(I) Pursuant to section 347 of this title, the number of cadets from the partner countrythat were enrolled in the Service Academies during the period of the report.
 
-&emsp;(12) Section 1206 of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 (128 Stat. 3538; 10 U.S.C. 2282 note), relating to authority to conduct human rights training of security forces and associated security ministries of foreign countries.
+&emsp;&emsp;(J) Pursuant to amounts made available to carry out section 2561 of this title, the number of new humanitarian assistance projects funded through the Overseas Humanitarian Disaster and Civic Aid account that were approved during the period of the required report.
 
-&emsp;(13) Any other authority on assistance or reimbursement that the Secretary of Defense considers appropriate and consistent with subsection (a).
+&emsp;(4) A table that includes the following:
 
-(d)
+&emsp;&emsp;(A) For each person from the partner country assigned to a Department of Defense organization pursuant to section 311 of this title—
 
-Nonduplication of Effort.—
+&emsp;&emsp;&emsp;(i) whether the person is a member of the armed forces or a civilian;
 
-&emsp;(1)
+&emsp;&emsp;&emsp;(ii) the rank of the person (if applicable); and
 
-In general.—Except as provided in paragraph (2), if any information required under subsection (a) has been included in another report or notification previously submitted to Congress by law, the Secretary of Defense mayprovide a list of such reports and notifications at the time of submitting the report required by subsection (a) in lieu of including such information in the report required by subsection (a).
+&emsp;&emsp;&emsp;(iii) the component of the Department of Defense and location to which such person is assigned.
 
-&emsp;(2)
+&emsp;&emsp;(B) With respect to each civilian employee of the Department of Defense or member of the armed forces that was assigned, pursuant to section 332(a) of this title, as an advisor to a ministry of defense during the period of the report, a description of the object of the Department of Defense for such support and the name of the ministry or regional organization to which the employee or member was assigned.
 
-Exception.—Paragraph (1) does not apply with respect to information required under subsection (a) that is required to be submitted as described in paragraphs (1) and (2) of subsection (b).
+&emsp;&emsp;(C) With respect to each activity commenced under section 332(b) of this title during the period of the report—
 
-(e)
+&emsp;&emsp;&emsp;(i) the name of the supported ministry or regional organization;
 
-Form.—Each report required under subsection (a) shall be submitted in unclassified form, but may contain a classified annex that may also include other sensitive information.
+&emsp;&emsp;&emsp;(ii) the component of the Department of Defense that conducted the activity;
 
-(Added and amended Pub. L. 114–328, div. A, title XII, §§1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, 130 Stat. 2521, 2529–2531; Pub. L. 115–232, div. A, title XII, §1204(b)(1)(A), Aug. 13, 2018, 132 Stat. 2017.)
+&emsp;&emsp;&emsp;(iii) the duration of the activity; and
+
+&emsp;&emsp;&emsp;(iv) a description of the objective of the activity.
+
+&emsp;&emsp;(D) For each program that required notice to Congress under section 333 of this title during the period of the report—
+
+&emsp;&emsp;&emsp;(i) the units of the national security forces of the foreign country to which assistance was provided;
+
+&emsp;&emsp;&emsp;(ii) the type of operation capability assisted;
+
+&emsp;&emsp;&emsp;(iii) a description of the nature of the assistance being provided; and
+
+&emsp;&emsp;&emsp;(iv) the estimated cost included in the notice provided for such assistance.
+
+&emsp;&emsp;(E) With respect to each Government of Colombia training activity which included Department of Defense funded participants under section 335 of this title that commenced during the period of the report—
+
+&emsp;&emsp;&emsp;(i) the units of the defense personnel of the friendly foreign country to which the Department of Defense funded assistance was provided;
+
+&emsp;&emsp;&emsp;(ii) the units of the Government of Colombia that conducted the training activity;
+
+&emsp;&emsp;&emsp;(iii) the duration of the training activity provided by the Government of Colombia; <sup>2</sup>
+
+&emsp;&emsp;&emsp;(iv) a description of the objective of the training activity provided by the Government of Colombia.
+
+&emsp;&emsp;(F) With respect to each activity commenced under section 341 of this title during the period of the report—
+
+&emsp;&emsp;&emsp;(i) a description of the activity;
+
+&emsp;&emsp;&emsp;(ii) the duration of the activity;
+
+&emsp;&emsp;&emsp;(iii) the number of participating members of the National Guard; and
+
+&emsp;&emsp;&emsp;(iv) the number of participating personnel of foreign country.
+
+&emsp;&emsp;(G) With respect to each activity of a Regional Center for Security Studies commenced under section 342 of this title during the period of the report—
+
+&emsp;&emsp;&emsp;(i) a description of the activity;
+
+&emsp;&emsp;&emsp;(ii) the name of the Regional Center that sponsored the activity;
+
+&emsp;&emsp;&emsp;(iii) the location and duration of the training; and
+
+&emsp;&emsp;&emsp;(iv) the number of officials from the foreign country who participated the activity.
+
+&emsp;&emsp;(H) With respect to each training event that commenced under sections <sup>3</sup> 343, 345, 348, 349, 350, or <sup>3</sup> 352 of this title during the period of the report—
+
+&emsp;&emsp;&emsp;(i) a description of the training;
+
+&emsp;&emsp;&emsp;(ii) the location and duration of the training; and
+
+&emsp;&emsp;&emsp;(iii) the number of personnel of the foreign country trained.
+
+&emsp;&emsp;(I) With respect to each new project approved under section 2561 of this title during the period of the report and funded through the Overseas Humanitarian Disaster and Civic Aid account—
+
+&emsp;&emsp;&emsp;(i) the title of the project;
+
+&emsp;&emsp;&emsp;(ii) a description of the assistance to be provided; and
+
+&emsp;&emsp;&emsp;(iii) the anticipated costs to provide such assistance.
+
+(Added and amended Pub. L. 114–328, div. A, title XII, §§1246(d)(2)(A), 1251(a)–(f), Dec. 23, 2016, 130 Stat. 2521, 2529–2531; Pub. L. 115–232, div. A, title XII, §1204(b)(1)(A), Aug. 13, 2018, 132 Stat. 2017; Pub. L. 117–263, div. A, title XII, §1202(d), Dec. 23, 2022, 136 Stat. 2823.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Sections 246, 251, 252, and 253 of this title, referred to in subsec. (c)(1), probably should be references to sections 311, 331, 332, and 333 of this title, respectively, as they were prior to amendment by Pub. L. 115–232. See 2018 Amendment note below. Although there were sections 311, 331, 332, and 333 of this title that had been renumbered 246, 251, 252, and 253, the references in subsec. (c)(1) should probably be to the current sections 311, 331, 332, and 333 and not to the ones that were renumbered.
-
-Section 168 of this title, referred to in subsec. (c)(3), was repealed by Pub. L. 114–328, div. A, title XII, §1253(a)(1)(A), Dec. 23, 2016, 130 Stat. 2532.
-
-Section 2249c of this title, referred to in subsec. (c)(4), was renumbered section 345 of this title by Pub. L. 114–328, div. A, title XII, §1247(a), Dec. 23, 2016, 130 Stat. 2521.
-
-Section 1532, referred to in subsec. (c)(6), is section 1532 of Pub. L. 113–291, div. A, title XV, Dec. 19, 2014, 128 Stat. 3613. Section 1532 consists of subsecs. (a) to (d). Subsecs. (a) to (c) of section 1532 are not classified to the Code, and subsec. (d) of section 1532 amended section 1531(d) of Pub. L. 113–66, which is set out as a note under section 2302 of this title.
-
-Section 1233 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (c)(7), is section 1233 of Pub. L. 110–181, div. A, title XII, Jan. 28, 2008, 122 Stat. 393, which is not classified to the Code.
-
-Section 1234 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (c)(8), is section 1234 of Pub. L. 110–181, div. A, title XII, Jan. 28, 2008, 122 Stat. 394, which is not classified to the Code.
-
-Section 1033 of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (c)(9), is section 1033 of Pub. L. 105–85, div. A, title X, Nov. 18, 1997, 111 Stat. 1881, which is not classified to the Code.
-
-Section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (10 U.S.C. 374 note), referred to in subsec. (c)(10), is section 1004 of Pub. L. 101–510, div. A, title X, Nov. 5, 1990, 104 Stat. 1629, which was set out as a note under section 374 of this title, prior to repeal by Pub. L. 114–328, div. A, title X, §1011(b), Dec. 23, 2016, 130 Stat. 2385. See section 284 of this title.
-
-Section 1206 of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015, referred to in subsec. (c)(12), is section 1206 of Pub. L. 113–291, which is set out as a note under section 2282 of this title.
-
 #### Codification
 
-Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (e) of section 1211 of Pub. L. 113–291, div. A, title XII, Dec. 19, 2014, 128 Stat. 3544, which was not classified to the Code.
+Text of section, as added by Pub. L. 114–328, was based on text of subsecs. (a) to (e) of section 1211 of Pub. L. 113–291, div. A, title XII, Dec. 19, 2014, 128 Stat. 3544, which was not classified to the Code. Section was subsequently amended generally by Pub. L. 117–263.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263 amended section generally. Prior to amendment, section related to annual report required by Secretary of Defense to the appropriate congressional committees setting forth a description of each program carried out to provide training, equipment, or other assistance or reimbursement.
 
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–232 substituted "Sections 246, 251, 252, 253, 321," for "Sections 311, 321, 331, 332, 333,".
 
@@ -154,5 +196,17 @@ Subsec. (e). Pub. L. 114–328, §1251(f), inserted "that may also include other
 
 Pub. L. 114–328, div. A, title XII, §1246(d)(2), Dec. 23, 2016, 130 Stat. 2521, provided that the amendment made by section 1246(d)(2)(A) is effective as of January 1, 2020.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Applicability of Amendment to Annual Report Requirements
+
+Pub. L. 117–263, div. A, title XII, §1202(e), Dec. 23, 2022, 136 Stat. 2826, provided that: "With respect to a report that was required to be submitted under section 386 of title 10, United States Code, prior to the date of the enactment of this Act \[Dec. 23, 2022\], that has not been submitted as of such date and relates to a year preceding fiscal year 2023, such a report may be submitted in accordance with—
+
+&emsp;"(1) the requirements of such section 386 as amended by subsection (d); or
+
+&emsp;"(2) the requirements of such section 386 as in effect on the day before the date of the enactment of this Act."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "bilateral".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "and".</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

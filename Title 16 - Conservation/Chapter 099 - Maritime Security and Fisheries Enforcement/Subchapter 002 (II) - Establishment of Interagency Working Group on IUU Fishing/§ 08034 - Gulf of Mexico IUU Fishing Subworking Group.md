@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-Not later than 90 days after December 20, 2019, the Administrator of the National Oceanic and Atmospheric Administration, in coordination with the Commandant of the Coast Guard andthe Secretary of State, shall establish a subworking group to address IUU fishing in the exclusive economic zone of the United States in the Gulf of Mexico.
+Not later than 90 days after December 20, 2019, the Administrator of the National Oceanic and Atmospheric Administration, in coordination with the Commandant of the Coast Guard and the Secretary of State, shall establish a subworking group to address IUU fishing in the exclusive economic zone of the United States in the Gulf of Mexico.
 
 #### (b) Functions
 
 The subworking group established under subsection (a) shall identify—
 
-&emsp;(1) Federal actions taken and policies established during the 5-year period immediately preceding December 20, 2019, with respect to IUU fishing in the exclusive economic zone of the United States in the Gulf of Mexico, including such actions and policies related to—
+&emsp;(1) Federal actions taken and policies established during the 5-year period immediately preceding December 20, 2019, with respect to IUU fishing in the exclusive economic zone ofthe United States in the Gulf of Mexico, including such actions and policies related to—
 
 &emsp;&emsp;(A) the surveillance, interdiction, and prosecution of any foreign nationals engaged in such fishing; and
 

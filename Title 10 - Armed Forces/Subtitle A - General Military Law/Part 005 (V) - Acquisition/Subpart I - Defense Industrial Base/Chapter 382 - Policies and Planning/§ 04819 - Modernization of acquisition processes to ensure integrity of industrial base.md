@@ -2,7 +2,7 @@
 
 (a)
 
-Digitization and Modernization.—The Secretary of Defense shall streamline and digitize the Department of Defense approach foridentifying and mitigating risks to the defense industrial base.
+Digitization and Modernization.—The Secretary of Defense shall streamline and digitize the Department of Defense approach for identifying and mitigating risks to the defense industrial base.
 
 (b)
 
@@ -98,7 +98,7 @@ Analytical Framework.—(1) The Under Secretary of Defense for Acquisition and S
 
 &emsp;&emsp;(v) the Manufacturing Technology Program established under sections 4841 and 4842 of this title;
 
-&emsp;&emsp;(vi) programs relating to the Defense Production Act of 1950 (50 U.S.C. 4511 <sup>2</sup> et seq.); and
+&emsp;&emsp;(vi) programs relating to the Defense Production Act of 1950 (50 U.S.C. 4511 <sup>1</sup> et seq.); and
 
 &emsp;&emsp;(vii) programs operating in each military department.
 
@@ -138,7 +138,7 @@ Enabling Data, Tools, and Systems.—(1)(A) The Under Secretary of Defense for A
 
 &emsp;(ii) A description of modern data infrastructure, tools, and applications and an assessment of the extent to which new capabilities would improve the effectiveness and efficiency of mitigating the risks described in subsection (c)(2).
 
-&emsp;(iii) An assessment of the following systems owned or operated outside of the Department of Defense that the Department depends upon or to which it provides data, including the following:
+&emsp;(iii) An assessment of the following systems owned or operated outside of the Departmentof Defense that the Department depends upon or to which it provides data, including the following:
 
 &emsp;&emsp;(I) The Federal Awardee Performance and Integrity Information System (FAPIIS).
 
@@ -186,7 +186,7 @@ Subsec. (b)(2)(A). Pub. L. 116–283, §843(a)(1)(A)(i), inserted "such as those
 
 Subsec. (b)(2)(A)(ii). Pub. L. 116–283, §843(a)(1)(A)(ii), struck out "(other than optical transmission components)" after "equipment".
 
-Subsec. (b)(2)(C)(xi). Pub. L. 117–81, §1701(d)(16)(A), which directed the substitution of "section 3252" for "section 2339a", could not be executed as directed because "section 2339a" did not appear in subsec. (b)(2)(C)(xi) after the intervening redesignation of subsec. (b) of this section as subsec. (c) by Pub. L. 117–81, §841(3), and could not be executed in subsec. (c)(2)(C)(xi) as redesignated because of the intervening amendment by Pub. L. 116–283, §1883(b)(2), which had already made that substitution. See notes below.
+Subsec. (b)(2)(C)(xi). Pub. L. 117–81, §1701(d)(16)(A), which directed the substitution of "section 3252" for "section 2339a", could not be executed as directed because "section 2339a" did not appear in subsec. (b)(2)(C)(xi) after the intervening redesignation of subsec. (b) of this section as subsec. (c) by Pub. L. 117–81, §841(3), and could not be executed in subsec. (c)(2)(C)(xi) as redesignated to reflect the probable intent of Congress, because of the intervening amendment by Pub. L. 116–283, §1883(b)(2), which had already made that substitution. See notes below.
 
 Pub. L. 116–283, §843(a)(1)(B), added cl. (xi). Former cl. (xi) redesignated (xii).
 
@@ -214,9 +214,9 @@ Pub. L. 116–283, §1883(b)(2), substituted "section 4801(1)" for "section 2500
 
 Subsec. (c)(2)(E)(ii). Pub. L. 116–283, §1883(b)(2), substituted "section 4862" for "section 2533a".
 
-Subsec. (c)(2)(E)(v). Pub. L. 117–81, §1701(d)(16)(B)(iii), which directed the amendment of subsec. (b)(2)(E)(v) of this section by substituting "sections 4841 and 4842" for "section 2521", was executed to subsec. (c)(2)(E)(v) to reflect the probable intent of Congress and the intervening amendment by 117–81, §841(3). See note above.
+Subsec. (c)(2)(E)(v). Pub. L. 117–81, §1701(d)(16)(B)(iii), which directed the amendment of subsec. (b)(2)(E)(v) of this section by substituting "sections 4841 and 4842" for "section 2521", was executed to subsec. (c)(2)(E)(v) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–81, §841(3). See note above.
 
-Pub. L. 116–283, §1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed by substituting "section 4841" for "section 2521", to reflect the probable intent of Congress and execution of the subsequent amendment by section 1701(d)(16)(B)(iii) of Pub. L. 117–81 specifically directing the substitution of "sections 4841 and 4842" for "section 2521". See note above. Although section 2521 of this title was redesignated as section 4841, subsec. (e) of section 4841 was transferred to become the text of section 4842 immediately thereafter.
+Pub. L. 116–283, §1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amendedby striking such reference and inserting a reference to the appropriate redesignated section, was not executed by substituting "section 4841" for "section 2521", to reflect the probable intent of Congress and execution of the subsequent amendment by section 1701(d)(16)(B)(iii) of Pub. L. 117–81 specifically directing the substitution of "sections 4841 and 4842" for "section 2521". See note above. Although section 2521 of this title was redesignated as section 4841, subsec. (e) of section 4841 was transferred to become the text of section 4842 immediately thereafter.
 
 Subsec. (d). Pub. L. 117–81, §841(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
@@ -286,7 +286,7 @@ Company.—The term 'company' means any corporation, company, limited liability 
 
 &emsp;"(3)
 
-Covered contractor or subcontractor.—The term 'covered contractor or subcontractor' means a company that is an existing or prospective contractor or subcontractor of the Department of Defense on acontract or subcontract with a value in excess of $5,000,000, except as provided in subsection (c).
+Covered contractor or subcontractor.—The term 'covered contractor or subcontractor' means a company that is an existing or prospective contractor or subcontractor of the Department of Defense on a contract or subcontract with a value in excess of $5,000,000, except as provided in subsection (c).
 
 &emsp;"(4)
 
@@ -366,7 +366,7 @@ Availability of Beneficial Ownership Data.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall establish a process to update systems of record to improve the assessment and mitigation of risks associated with FOCI through the inclusion andupdating of all appropriate associated uniquely identifying information about the contracts and contractors and subcontracts and subcontractors in the Federal Awardee Performance and Integrity Information System (FAPIIS), administered by the General Services Administration, and the Commercial and Government Entity (CAGE) database, administered by the Defense Logistics Agency.
+In general.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall establish a process to update systems of record to improve the assessment and mitigation of risks associated with FOCI through the inclusion and updating of all appropriate associated uniquely identifying information about the contracts and contractors and subcontracts and subcontractors in the Federal Awardee Performance and Integrity Information System (FAPIIS), administered by the General Services Administration, and the Commercial and Government Entity (CAGE) database, administered by the Defense Logistics Agency.
 
 &emsp;"(2)
 
@@ -378,5 +378,5 @@ Limited availability of information.—The Secretary of Defense shall ensure tha
 
 &emsp;&emsp;"(C) made available to appropriate government departments or agencies."
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

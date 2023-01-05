@@ -16,7 +16,7 @@ Beginning 180 days after the submission of the report in subsection (a) and annu
 
 (Pub. L. 102–138, title I, §197, Oct. 28, 1991, 105 Stat. 684.)
 
-#### <b>Editorial Notes</b>
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authority of Secretary of State
 

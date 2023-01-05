@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 Pub. L. 99–83, title XIII, §1303(h), Aug. 8, 1985, 99 Stat. 282.
 
-The words "and to each House of Congress" are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note).See the 4th item on page 174 of House Document No. 103–7.
+The words "and to each House of Congress" are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note). See the 4th item on page 174 of House Document No. 103–7.
 

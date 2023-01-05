@@ -18,7 +18,7 @@ Each State and unit of local government may receive payments under this subchapt
 
 &emsp;(6) an assurance that the requirements of section 6729 of this title will be complied with;
 
-&emsp;(7) an assurance that the State or unit of local government will spend any payment it receives under this subchapter before the endof the six-calendar-month period which begins on the day after the date on which such State or local government receives such payment; and
+&emsp;(7) an assurance that the State or unit of local government will spend any payment it receives under this subchapter before the end of the six-calendar-month period which begins on the day after the date on which such State or local government receives such payment; and
 
 &emsp;(8) an assurance that the State or unit of local government will spend amounts received under this subchapter only in accordance with the laws and procedures applicable to the expenditure of its own revenues.
 

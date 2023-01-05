@@ -38,7 +38,7 @@ In this subtitle:
 
 &emsp;&emsp;&emsp;(iii)(I) In the case of softwood lumber or a softwood lumber product described in subclause (II), the value that would be determined F.O.B. at the facility where the product underwent the last processing before export.
 
-&emsp;&emsp;&emsp;(II) Softwood lumber or a softwood lumber product described in this subclause islumber or a product that undergoes the last remanufacturing before export by a manufacturer who—
+&emsp;&emsp;&emsp;(II) Softwood lumber or a softwood lumber product described in this subclause is lumber or a product that undergoes the last remanufacturing before export by a manufacturer who—
 
 &emsp;&emsp;&emsp;&emsp;(aa) holds tenure rights provided by the country of export;
 
@@ -52,7 +52,7 @@ In this subtitle:
 
 &emsp;&emsp;&emsp;(i) the person bears a relationship to such other person described in section 152(a) of title 26;
 
-&emsp;&emsp;&emsp;(ii) the person bears a relationship to such other person described in section 267(b) of such title, except that "5 percent" shall be substituted for "50 percent" each place it appears;
+&emsp;&emsp;&emsp;(ii) the person bears a relationship to such other person described in section267(b) of such title, except that "5 percent" shall be substituted for "50 percent" each place it appears;
 
 &emsp;&emsp;&emsp;(iii) the person and such other person are part of a controlled group of corporations, as that term is defined in section 1563(a) of such title, except that "5 percent" shall be substituted for "80 percent" each place it appears;
 

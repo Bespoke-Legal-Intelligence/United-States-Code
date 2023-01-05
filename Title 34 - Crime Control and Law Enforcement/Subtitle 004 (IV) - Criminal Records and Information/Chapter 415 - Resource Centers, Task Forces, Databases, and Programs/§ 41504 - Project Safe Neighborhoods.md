@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General shall establish a program for each United States Attorney to provide for coordination with State and local law enforcement officials in the identification and prosecution of violations of Federal firearms laws including school gun violence and juvenile gun offenses.
+The Attorney General shall establish a program for each United States Attorney to providefor coordination with State and local law enforcement officials in the identification and prosecution of violations of Federal firearms laws including school gun violence and juvenile gun offenses.
 
 #### (b) Authorization for hiring 94 additional Assistant United States Attorneys
 

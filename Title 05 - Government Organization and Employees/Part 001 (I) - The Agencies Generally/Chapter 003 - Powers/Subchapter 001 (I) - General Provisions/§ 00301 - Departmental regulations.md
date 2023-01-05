@@ -24,7 +24,7 @@ The words "Executive department" are substituted for "department" as the definit
 
 The words "or military department" are inserted to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section, which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which provided:
 
-"All laws, orders, regulations, and other actions relating to the National Military Establishment, the Departments of the Army, the Navy, or the Air Force, or to any officer or activity of such establishment or such departments, shall, except to the extent inconsistent with the provisions of this Act, have the same effect as if this Act had not been enacted; but, after the effective date of this Act, any such law, order, regulation, or other action which vested functions in or otherwise related to any officer, department, or establishment, shall be deemed to have vested such function in or relate to the officer, or department, executive or military, succeeding the officer, department, or establishment in which such function was vested. For purposes of this subsection the Department of Defense shall be deemed the department succeeding the National Military Establishment, and the military departments of Army, Navy, and Air Force shall be deemed the departments succeeding the Executive Departments of Army, Navy, and Air Force."
+"All laws, orders, regulations, and other actions relating to the National Military Establishment, the Departments of the Army, the Navy, or the Air Force, or to any officer or activity of such establishment or such departments, shall, except to the extent inconsistent with the provisions of this Act, have the same effect as if this Act had not been enacted; but, after the effectivedate of this Act, any such law, order, regulation, or other action which vested functions in or otherwise related to any officer, department, or establishment, shall be deemed to have vested such function in or relate to the officer, or department, executive or military, succeeding the officer, department, or establishment in which such function was vested. For purposes of this subsection the Department of Defense shall be deemed the department succeeding the National Military Establishment, and the military departments of Army, Navy, and Air Force shall be deemed the departments succeeding the Executive Departments of Army, Navy, and Air Force."
 
 This section was part of title IV of the Revised Statutes. The Act of July 26, 1947, ch. 343, §201(d), as added Aug. 10, 1949, ch. 412, §4, 63 Stat. 579 (former 5 U.S.C. 171–1), which provides "Except to the extent inconsistent with the provisions of this Act \[National Security Act of 1947\], the provisions of title IV of the Revised Statutes as now or hereafter amended shall be applicable to the Department of Defense" is omitted from this title but is not repealed.
 
@@ -290,7 +290,7 @@ Enforceability.—No provision of this Act shall be construed to create any righ
 
 #### "SEC. 7. BUDGETARY EFFECTS OF PAYGO LEGISLATION FOR THIS ACT.
 
-"The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010 \[2 U.S.C. 931 et seq.\], shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage."
+"The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of2010 \[2 U.S.C. 931 et seq.\], shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage."
 
 #### Support for Youth Organizations
 
@@ -488,7 +488,7 @@ In general.—The Secretary of Health and Human Services, in coordination with t
 
 &emsp;&emsp;"(B)
 
-Allocation of grants.—The Secretary shall award grants to qualifying States under this paragraph based on the proportion that the estimated annual average number of birth and death records created by a State applying for a grant bears to theestimated annual average number of birth and death records originated by all States.
+Allocation of grants.—The Secretary shall award grants to qualifying States under this paragraph based on the proportion that the estimated annual average number of birth and death records created by a State applying for a grant bears to the estimated annual average number of birth and death records originated by all States.
 
 &emsp;&emsp;"(C)
 

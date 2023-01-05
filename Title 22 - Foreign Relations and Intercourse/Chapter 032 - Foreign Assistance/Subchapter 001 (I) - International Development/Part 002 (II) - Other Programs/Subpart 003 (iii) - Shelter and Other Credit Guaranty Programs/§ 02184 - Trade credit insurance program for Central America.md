@@ -6,7 +6,7 @@ In order to enable the Export-Import Bank of the United States (hereafter in thi
 
 #### (b) Extent of guarantees; agreements; reserve fund
 
-(1) Guarantees provided by the Agency pursuant to the authority of subsection (a) shall be for short-term guarantees and insurance extended by the Bank which shall be repayable within a period not to exceed one year from the date of arrival at the port of importation of the goods and services covered by such guarantees or insurance. Guarantees or insurance extended by the Bank and guaranteed by the Agency pursuant to subsection (a) shall be provided by the Bank in accordance with criteria and procedures agreed to by the Agency and the Bank. Such agreement shall also provide for the establishment of a reserve fund by the Agency, with such funds made available to the reserve as the Agency deems necessary to discharge liabilities under guarantees provided by the Agency pursuant to subsection (a).
+(1) Guarantees provided by the Agency pursuant to the authority of subsection (a) shall befor short-term guarantees and insurance extended by the Bank which shall be repayable within a period not to exceed one year from the date of arrival at the port of importation of the goods and services covered by such guarantees or insurance. Guarantees or insurance extended by the Bank and guaranteed by the Agency pursuant to subsection (a) shall be provided by the Bank in accordance with criteria and procedures agreed to by the Agency and the Bank. Such agreement shall also provide for the establishment of a reserve fund by the Agency, with such funds made available to the reserve as the Agency deems necessary to discharge liabilities under guarantees provided by the Agency pursuant to subsection (a).
 
 (2) The Administrator of such agency shall transmit a copy of such agreement to the Speaker of the House of Representatives and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
@@ -38,11 +38,11 @@ The Export-Import Bank shall provide without reimbursement such administrative a
 
 #### References in Text
 
-The Export-Import Bank Act of 1945, referred to in subsec. (a), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of the Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
+The Export-Import Bank Act of 1945, referred to in subsec. (a), is act July 31, 1945, ch. 341, 59 Stat. 526, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of the Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
 
 #### Codification
 
-Subsec. (g) of this section, which required, at intervals of six months, the administrator of the agency primarily responsible for administering subchapter I of this chapter and the President of the Export-ImportBank of the United States to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension of credits during the preceding six-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
+Subsec. (g) of this section, which required, at intervals of six months, the administrator of the agency primarily responsible for administering subchapter I of this chapter and the President of the Export-Import Bank of the United States to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension of credits during the preceding six-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
 
 Section 224 of Pub. L. 87–195 is based on section 1011 of title X of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, and enacted into law by Pub. L. 98–473.
 

@@ -8,6 +8,7 @@
 | [2273a.](%C2%A7%2002273a%20-%20Space%20Rapid%20Capabilities%20Office.md) | Space Rapid Capabilities Office. |
 | [2274\.](%C2%A7%2002274%20-%20Space%20situational%20awareness%20services%20and%20information%20provision%20to%20non-United%20States%20Government%20entities.md) | Space situational awareness services and information: provision to non-United States Government entities. |
 | [2275\.](%C2%A7%2002275%20-%20Reports%20on%20integration%20of%20acquisition%20and%20capability%20delivery%20schedules%20for%20segments%20of%20major%20satellite%20acquisition%20programs%20and%20funding%E2%80%A6.md) | Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs. |
+| [2275a.](%C2%A7%2002275a%20-%20Requirements%20for%20protection%20of%20satellites.md) | Requirements for protection of satellites. |
 | [2276\.](%C2%A7%2002276%20-%20Commercial%20space%20launch%20cooperation.md) | Commercial space launch cooperation. |
 | [2277\.](%C2%A7%2002277%20-%20Disclosure%20of%20National%20Security%20Space%20Launch%20program%20contract%20pricing%20terms.md) | Disclosure of National Security Space Launch program contract pricing terms. |
 | [2278\.](%C2%A7%2002278%20-%20Notification%20of%20foreign%20interference%20of%20national%20security%20space.md) | Notification of foreign interference of national security space. |
@@ -23,13 +24,15 @@
 
 #### Amendments
 
+<b>2022</b>—Pub. L. 117–263, div. A, title XVI, §1601, Dec. 23, 2022, 136 Stat. 2929, added item 2275a.
+
 <b>2021</b>—Pub. L. 117–81, div. A, title XVI, §1601(a)(2), Dec. 27, 2021, 135 Stat. 2073, added item 2277.
 
 Pub. L. 116–283, div. A, title X, §1081(a)(35), Jan. 1, 2021, 134 Stat. 3872, struck out item 2279c "Air Force Space Command".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(18)(B), Aug. 13, 2018, 132 Stat. 1984, added item 2279d.
 
-<b>2017</b>—Pub. L. 115–91, div. A, title X, §1051(a)(13)(B), title XVI, §§1601(a)(2), (b)(2)(B), (b)(2), 1603(d)(2), Dec. 12, 2017, 131 Stat. 1561, 1719, 1720, 1723, added item 2279c, substituted "Space Rapid Capabilities Office" for "Operationally Responsive Space Program Office" in item 2273a and "Foreign commercial satellite services and foreign launches" for "Foreign commercial satellite services" in item 2279, and struck out items 2277"Report on foreign counter-space programs" and 2279a "Principal Advisor on Space Control".
+<b>2017</b>—Pub. L. 115–91, div. A, title X, §1051(a)(13)(B), title XVI, §§1601(a)(2), (b)(2)(B), (b)(2), 1603(d)(2), Dec. 12, 2017, 131 Stat. 1561, 1719, 1720, 1723, added item 2279c, substituted "Space Rapid Capabilities Office" for "Operationally Responsive Space Program Office" initem 2273a and "Foreign commercial satellite services and foreign launches" for "Foreign commercial satellite services" in item 2279, and struck out items 2277 "Report on foreign counter-space programs" and 2279a "Principal Advisor on Space Control".
 
 <b>2015</b>—Pub. L. 114–92, div. A, title XVI, §§1602(b), 1603(b), Nov. 25, 2015, 129 Stat. 1096, 1098, added items 2279a and 2279b.
 
@@ -56,6 +59,7 @@ Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013
 - [&sect; 02273a - Space Rapid Capabilities Office](%C2%A7%2002273a%20-%20Space%20Rapid%20Capabilities%20Office.md)
 - [&sect; 02274 - Space situational awareness services and information provision to non-United States Government entities](%C2%A7%2002274%20-%20Space%20situational%20awareness%20services%20and%20information%20provision%20to%20non-United%20States%20Government%20entities.md)
 - [&sect; 02275 - Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding&#8230;](%C2%A7%2002275%20-%20Reports%20on%20integration%20of%20acquisition%20and%20capability%20delivery%20schedules%20for%20segments%20of%20major%20satellite%20acquisition%20programs%20and%20funding%E2%80%A6.md)
+- [&sect; 02275a - Requirements for protection of satellites](%C2%A7%2002275a%20-%20Requirements%20for%20protection%20of%20satellites.md)
 - [&sect; 02276 - Commercial space launch cooperation](%C2%A7%2002276%20-%20Commercial%20space%20launch%20cooperation.md)
 - [&sect; 02277 - Disclosure of National Security Space Launch program contract pricing terms](%C2%A7%2002277%20-%20Disclosure%20of%20National%20Security%20Space%20Launch%20program%20contract%20pricing%20terms.md)
 - [&sect; 02278 - Notification of foreign interference of national security space](%C2%A7%2002278%20-%20Notification%20of%20foreign%20interference%20of%20national%20security%20space.md)

@@ -32,7 +32,7 @@ Nothing in this part shall be construed to invalidate or limit the authority, po
 
 #### (c) State regulatory reporting
 
-Nothing in this part shall limit the ability of a State to require a health plan to report, or toprovide access to, information for management audits, financial audits, program monitoring and evaluation, facility licensure or certification, or individual licensure or certification.
+Nothing in this part shall limit the ability of a State to require a health plan to report, or to provide access to, information for management audits, financial audits, program monitoring and evaluation, facility licensure or certification, or individual licensure or certification.
 
 (Aug. 14, 1935, ch. 531, title XI, §1178, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2029.)
 

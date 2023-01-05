@@ -50,13 +50,13 @@ Each State in which all or part of a Moderate Area is located shall, with respec
 
 #### (3) Oxygenated gasoline
 
-&emsp;(A) Within 2 years after November 15, 1990, the State shall submit a revision to require that gasoline sold, supplied, offered for sale orsupply, dispensed, transported or introduced into commerce in the larger of—
+&emsp;(A) Within 2 years after November 15, 1990, the State shall submit a revision to require that gasoline sold, supplied, offered for sale or supply, dispensed, transported or introduced into commerce in the larger of—
 
 &emsp;&emsp;(i) the Consolidated Metropolitan Statistical Area (as defined by the United States Office of Management and Budget) (CMSA) in which the area is located, or
 
 &emsp;&emsp;(ii) if the area is not located in a CMSA, the Metropolitan Statistical Area (as defined by the United States Office of Management and Budget) in which the area is located,
 
-> &emsp;be blended, during the portion of the year in which the area is prone to high ambient concentrations of carbon monoxide (as determined by the Administrator), with fuels containing such level of oxygen as is necessary, in combination with other measures, to provide for attainment of the carbon monoxide national ambient air quality standard by the applicable attainment date and maintenance of the national ambient air quality standard thereafter in the area. The revision shall provide that such requirement shall take effect no later than October 1, 1993, and shall include a program for implementation and enforcement of the requirement consistent with guidance to be issued by the Administrator.
+> &emsp;be blended, during the portion of the year in which the area is prone to high ambient concentrations of carbon monoxide (as determined by the Administrator), with fuels containing such level of oxygen as is necessary, in combination with other measures, to provide for attainment of the carbon monoxide national ambient air quality standard by the applicable attainment date and maintenance of the national ambient air quality standard thereafter in the area. The revision shall provide that such requirement shall take effectno later than October 1, 1993, and shall include a program for implementation and enforcement of the requirement consistent with guidance to be issued by the Administrator.
 
 &emsp;(B) Notwithstanding subparagraph (A), the revision described in this paragraph shall not be required for an area if the State demonstrates to the satisfaction of the Administrator that the revision is not necessary to provide for attainment of the carbon monoxide national ambient air quality standard by the applicable attainment date and maintenance of the national ambient air quality standard thereafter in the area.
 
@@ -104,7 +104,7 @@ Each State containing a carbon monoxide nonattainment area reclassified under se
 
 #### (g) Failure of Serious Area to attain standard
 
-If the Administrator determines under section 7512(b)(2) of this title that the national primary ambient air quality standard for carbon monoxide has not been attained in a Serious Area by the applicable attainment date, the State shall submit a plan revision for the area within 9 months after the date of such determination. The plan revision shall provide that a program of incentives and requirements as described in section 7511a(g)(4) of this title shall be applicable in the area, and such program, in combination with other elements of the revised plan, shall be adequate to reduce the total tonnage of emissions of carbon monoxide in the area by at least 5 percent per year in each year after approval of the plan revision and before attainment of the national primary ambient air quality standard for carbon monoxide.
+If the Administrator determines under section 7512(b)(2) of this title that the national primary ambient air quality standard for carbon monoxide has not been attained in a Serious Area by the applicable attainment date, the State shall submit a plan revision for the area within 9 months after the date of such determination.The plan revision shall provide that a program of incentives and requirements as described in section 7511a(g)(4) of this title shall be applicable in the area, and such program, in combination with other elements of the revised plan, shall be adequate to reduce the total tonnage of emissions of carbon monoxide in the area by at least 5 percent per year in each year after approval of the plan revision and before attainment of the national primary ambient air quality standard for carbon monoxide.
 
 (July 14, 1955, ch. 360, title I, §187, as added Pub. L. 101–549, title I, §104, Nov. 15, 1990, 104 Stat. 2454.)
 

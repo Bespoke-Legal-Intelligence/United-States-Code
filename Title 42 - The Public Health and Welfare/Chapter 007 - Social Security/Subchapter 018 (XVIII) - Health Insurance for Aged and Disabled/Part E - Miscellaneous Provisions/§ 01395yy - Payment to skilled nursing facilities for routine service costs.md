@@ -38,11 +38,11 @@ The Secretary may make adjustments in the limits set forth in subsection (a) wit
 
 (3) For purposes of this subsection, urban and rural areas shall be determined in the same manner as for purposes of subsection (a), and the term "region" shall have the same meaning as under section 1395ww(d)(2)(D) of this title.
 
-(4) The Secretary shall establish the prospective payment amounts for cost reporting periods beginning in a fiscal year at least 90 days prior to the beginning of such fiscal year, on the basisof the most recent data available for a 12-month period. A skilled nursing facility must notify the Secretary of its intention to be paid pursuant to this subsection for a cost reporting period no later than 30 days before the beginning of that period.
+(4) The Secretary shall establish the prospective payment amounts for cost reporting periods beginning in a fiscal year at least 90 days prior to the beginning of such fiscal year, on the basis of the most recent data available for a 12-month period. A skilled nursing facility must notify the Secretary of its intention to be paid pursuant to this subsection for a cost reporting period no later than 30 days before the beginning of that period.
 
 (5) The Secretary shall provide for a simplified cost report to be filed by facilities being paid pursuant to this subsection, which shall require only the cost information necessary for determining prospective payment amounts pursuant to paragraph (2) and reasonable costs of ancillary services.
 
-(6) In lieu of payment on a cost basis for ancillary services provided by a facility which is being paid pursuant to this subsection, the Secretary may pay for such ancillary services on a reasonable charge basis if the Secretary determines that such payment basis will provide an equitable level of reimbursement and will ease the reporting burden of the facility.
+(6) In lieu of payment on a cost basis for ancillary services provided by a facility which isbeing paid pursuant to this subsection, the Secretary may pay for such ancillary services on a reasonable charge basis if the Secretary determines that such payment basis will provide an equitable level of reimbursement and will ease the reporting burden of the facility.
 
 (7) In computing the rates of payment to be made under this subsection, there shall be taken into account the costs described in the last sentence of section 1395x(v)(1)(E) of this title (relating to compliance with nursing facility requirements and of conducting nurse aide training and competency evaluation programs and competency evaluation programs).
 
@@ -76,7 +76,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) wit
 
 #### (ii) Services excluded
 
-&emsp;&emsp;&emsp;Services described in this clause are physicians' services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
+&emsp;&emsp;&emsp;Services described in this clause are physicians' services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, marriage and family therapist services (as defined in section 1395x(lll)(1) of this title), mental health counselor services (as defined in section 1395x(lll)(3) of this title), services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, telehealth services furnished under section 1395m(m)(4)(C)(ii)(VII) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
 
 #### (iii) Exclusion of certain additional items and services
 
@@ -92,7 +92,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) wit
 
 &emsp;&emsp;&emsp;&emsp;(V) Customized prosthetic devices (commonly known as artificial limbs or components of artificial limbs) under the following HCPCS codes (as of July 1, 1999 (and as subsequently modified by the Secretary)), and any additional customized prosthetic devices identified by the Secretary, if delivered to an inpatient for use during the stay in the skilled nursing facility and intended to be used by the individual after discharge from the facility: L5050–L5340; L5500–L5611; L5613–L5986; L5988; L6050–L6370; L6400–L6880; L6920–L7274; and L7362–7366.
 
-&emsp;&emsp;&emsp;&emsp;(VI) Blood clotting factors indicated for the treatment of patients with hemophilia and other bleeding disorders (identified as of July 1, 2020, by HCPCS codes J7170, J7175, J7177–J7183, J7185–J7190, J7192–J7195, J7198–J7203, J7205, J7207–J7211, and as subsequently modified by the Secretary) and items and services related to the furnishing of such factors under section 1395u(o)(5)(C) of this title, and any additional blood clotting factors identified by the Secretary and items and services related to the furnishing of such factors under such section.
+&emsp;&emsp;&emsp;&emsp;(VI) Blood clotting factors indicated for the treatment of patients with hemophilia and other bleeding disorders (identified as of July 1, 2020, by HCPCS codes J7170, J7175, J7177–J7183, J7185–J7190, J7192–J7195, J7198–J7203, J7205, J7207–J7211, and as subsequently modified by the Secretary) and items and services related to the furnishing of such factors under section 1395u(o)(5)(C) ofthis title, and any additional blood clotting factors identified by the Secretary and items and services related to the furnishing of such factors under such section.
 
 #### (iv) Exclusion of certain rural health clinic and federally qualified health center services
 
@@ -158,7 +158,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) wit
 
 &emsp;&emsp;For purposes of this paragraph, the "facility-specific update factor" for cost reporting periods beginning during—
 
-&emsp;&emsp;&emsp;(i) during each of fiscal years 1998 and 1999, is equal to the skilled nursing facilitymarket basket percentage increase for such fiscal year minus 1 percentage point, and
+&emsp;&emsp;&emsp;(i) during each of fiscal years 1998 and 1999, is equal to the skilled nursing facility market basket percentage increase for such fiscal year minus 1 percentage point, and
 
 &emsp;&emsp;&emsp;(ii) during each subsequent fiscal year is equal to the skilled nursing facility market basket percentage increase for such fiscal year.
 
@@ -282,7 +282,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) wit
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;The application of this subparagraph may result in the percentage described in paragraph (5)(B)(i), after application ofclauses (ii) and (iii) of paragraph (5)(B), being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
+&emsp;&emsp;&emsp;The application of this subparagraph may result in the percentage described in paragraph (5)(B)(i), after application of clauses (ii) and (iii) of paragraph (5)(B), being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
 
 #### (iii) Noncumulative application
 
@@ -406,7 +406,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) wit
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary shall establish procedures for making available to the public by posting on the Nursing Home Compare Medicare website (or a successor website) described insection 1395i–3(i) of this title information on the performance of skilled nursing facilities with respect to a measure specified under paragraph (1) and a measure specified under paragraph (2).
+&emsp;&emsp;Subject to subparagraphs (B) and (C), the Secretary shall establish procedures for making available to the public by posting on the Nursing Home Compare Medicare website (or a successor website) described in section 1395i–3(i) of this title information on the performance of skilled nursing facilities with respect to a measure specified underparagraph (1) and a measure specified under paragraph (2).
 
 #### (B) Opportunity to review
 
@@ -488,7 +488,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) wit
 
 #### (B) Value-based incentive payment amount
 
-&emsp;&emsp;The value-based incentive payment amount for services furnished by a skilled nursing facility in a fiscal year shall be equal to the product of—
+&emsp;&emsp;The value-based incentive payment amount for services furnished by a skillednursing facility in a fiscal year shall be equal to the product of—
 
 &emsp;&emsp;&emsp;(i) the adjusted Federal per diem rate determined under subsection (e)(4)(G) otherwise applicable to such skilled nursing facility for such services furnished by the skilled nursing facility during such fiscal year; and
 
@@ -586,7 +586,11 @@ The Secretary may make adjustments in the limits set forth in subsection (a) wit
 
 &emsp;&emsp;For purposes of carrying out this paragraph, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund established under section 1395i of this title, of $5,000,000 to the Centers for Medicare \& Medicaid Services Program Management Account for each of fiscal years 2023 through 2025, to remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title II, §203(a), title III, §311(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549; Pub. L. 111–148, title III, §3401(b), title VI, §6104, Mar. 23, 2010, 124 Stat. 481, 711; Pub. L. 113–93, title II, §215(a), (b), Apr. 1, 2014, 128 Stat. 1048, 1049; Pub. L. 113–185, §2(c)(4)(A), Oct. 6, 2014, 128 Stat. 1965; Pub. L. 114–10, title IV, §411(a), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title XII, §53111, Feb. 9, 2018, 132 Stat. 304; Pub. L. 116–260, div. CC, title I, §§111(a), 134(a), Dec. 27, 2020, 134 Stat. 2944, 2977.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title II, §203(a), title III, §311(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549; Pub. L. 111–148, title III, §3401(b), title VI, §6104, Mar. 23, 2010, 124 Stat. 481, 711; Pub. L. 113–93, title II, §215(a), (b), Apr. 1, 2014, 128 Stat. 1048, 1049; Pub. L. 113–185, §2(c)(4)(A), Oct. 6, 2014, 128 Stat. 1965; Pub. L. 114–10, title IV, §411(a), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title XII, §53111, Feb. 9, 2018, 132 Stat. 304; Pub. L. 116–260, div. CC, title I, §§111(a), 134(a), Dec. 27, 2020, 134 Stat. 2944, 2977; Pub. L. 117–328, div. FF, title IV, §4121(a)(4), Dec. 29, 2022, 136 Stat. 5903.)
+
+#### Applicability of Amendment
+
+<i>Amendment of section by section 4121(a)(4) of Pub. L. 117–328 applicable with respect to services furnished on or after Jan. 1, 2024. See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -597,6 +601,8 @@ Section 101 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act 
 Section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, referred to in subsec. (e)(12)(A), is section 1(a)(6) \[title III, §314(a)\] of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–499, which is not classified to the Code.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(2)(A)(ii). Pub. L. 117–328 inserted "marriage and family therapist services (as defined in section 1395x(lll)(1) of this title), mental health counselor services (as defined in section 1395x(lll)(3) of this title)," after "qualified psychologist services,".
 
 <b>2020</b>—Subsec. (e)(2)(A)(iii)(VI). Pub. L. 116–260, §134(a), added subcl. (VI).
 
@@ -622,7 +628,7 @@ Subsec. (e)(5)(B)(iii). Pub. L. 114–10, §411(a)(1)(C), added cl. (iii).
 
 Subsec. (e)(6)(A)(i), (ii). Pub. L. 114–10, §411(a)(2), substituted "clauses (ii) and (iii) of paragraph (5)(B)" for "paragraph (5)(B)(ii)".
 
-<b>2014</b>—Subsec. (e)(6). Pub. L. 113–185 amended par. (6) generally. Prior to amendment, text read as follows: "A skilled nursing facility, or a facility described in paragraph (7)(B), shall provide the Secretary, in a manner and within the timeframes prescribed by the Secretary, the resident assessment data necessary to develop and implement the rates under this subsection. For purposes of meeting such requirement, a skilled nursingfacility, or a facility described in paragraph (7), may submit the resident assessment data required under section 1395i–3(b)(3) of this title, using the standard instrument designated by the State under section 1395i–3(e)(5) of this title."
+<b>2014</b>—Subsec. (e)(6). Pub. L. 113–185 amended par. (6) generally. Prior to amendment, text read as follows: "Askilled nursing facility, or a facility described in paragraph (7)(B), shall provide the Secretary, in a manner and within the timeframes prescribed by the Secretary, the resident assessment data necessary to develop and implement the rates under this subsection. For purposes of meeting such requirement, a skilled nursing facility, or a facility described in paragraph (7), may submit the resident assessment data required under section 1395i–3(b)(3) of this title, using the standard instrument designated by the State under section 1395i–3(e)(5) of this title."
 
 Subsec. (g). Pub. L. 113–93, §215(a), added subsec. (g).
 
@@ -724,6 +730,10 @@ Subsec. (d)(4). Pub. L. 99–514, §1895(b)(7)(B), substituted "cost reporting p
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 applicable with respect to services furnished on or after Jan. 1, 2024, see section 4121(c) of Pub. L. 117–328, set out as a note under section 1395l of this title.
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. CC, title I, §134(b), Dec. 27, 2020, 134 Stat. 2977, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to items and services furnished on or after October 1, 2021."
@@ -788,7 +798,7 @@ Pub. L. 99–272, title IX, §9126(d), Apr. 7, 1986, 100 Stat. 170, as amended b
 
 #### Effective Date
 
-Pub. L. 98–369, div. B, title III, §2319(c), July 18, 1984, 98 Stat. 1083, provided that: "The amendments made by subsections (a) \[amending section 1395x of this title\]and (b) \[enacting this section\] shall apply to cost reporting periods beginning on or after July 1, 1984."
+Pub. L. 98–369, div. B, title III, §2319(c), July 18, 1984, 98 Stat. 1083, provided that: "The amendments made by subsections (a) \[amending section 1395x of this title\] and (b) \[enacting this section\] shall apply to cost reporting periods beginning on or after July 1, 1984."
 
 #### Study on Portable Diagnostic Ultrasound Services for Beneficiaries in Skilled Nursing Facilities
 
@@ -854,7 +864,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §105(c)\], Nov. 29, 1999, 11
 
 #### Medical Review Process
 
-Pub. L. 105–33, title IV, §4432(c), Aug. 5, 1997, 111 Stat. 422, provided that: "In order to ensure that medicare beneficiaries are furnished appropriate services in skilled nursing facilities, the Secretary of Health and Human Services shall establish and implement a thorough medical review process to examine the effects of the amendments made by this section \[amending this section and sections 1395i–3, 1395k, 1395l, 1395u, 1395x,1395y, 1395cc, and 1395tt of this title\] on the quality of covered skilled nursing facility services furnished to medicare beneficiaries. In developing such a medical review process, the Secretary shall place a particular emphasis on the quality of non-routine covered services and physicians' services for which payment is made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
+Pub. L. 105–33, title IV, §4432(c), Aug. 5, 1997, 111 Stat. 422, provided that: "In order to ensure that medicarebeneficiaries are furnished appropriate services in skilled nursing facilities, the Secretary of Health and Human Services shall establish and implement a thorough medical review process to examine the effects of the amendments made by this section \[amending this section and sections 1395i–3, 1395k, 1395l, 1395u, 1395x, 1395y, 1395cc, and 1395tt of this title\] on the quality of covered skilled nursing facility services furnished to medicare beneficiaries. In developing such a medical review process, the Secretary shall place a particular emphasis on the quality of non-routine covered services and physicians' services for which payment is made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
 
 #### Construction of Wage Index for Skilled Nursing Facilities
 

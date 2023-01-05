@@ -48,7 +48,7 @@ Within 1 year after the completion of the member appointment process by the Chai
 
 &emsp;(6) for deadlines by which providers of interconnected and non-interconnected VoIP services and manufacturers of equipment used for such services shall achieve the actions required in paragraphs (1) through (5), where achievable, and for the possible phase out of the use of current-generation TTY technology to the extent that this technology is replaced with more effective and efficient technologies and methods to enable access to emergency services by individuals with disabilities;
 
-&emsp;(7) for the establishment of rules to update the Commission's rules with respect to 9–1–1 services and E–911 services (as defined in section 158(e)(4) <sup>1</sup> of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 942(e)(4))), for users of telecommunications relay services as new technologies and methods for providing such relay services are adopted by providers of such relay services; and
+&emsp;(7) for the establishment of rules to update the Commission's rules with respect to 9–1–1 services and E–⁠911 services (as defined in section 158(e)(4) <sup>1</sup> of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 942(e)(4))), for users of telecommunications relay services as new technologies and methods for providing such relay services are adopted by providers of such relay services; and
 
 &emsp;(8) that take into account what is technically and economically feasible.
 
@@ -80,9 +80,9 @@ Within 1 year after the completion of the member appointment process by the Chai
 
 &emsp;The Advisory Committee may adopt other rules as needed.
 
-#### (f) Federal Advisory Committee Act
+#### (f) Chapter 10 of title 5
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee.
+Chapter 10 of title 5 shall not apply to the Advisory Committee.
 
 #### (g) Implementing recommendations
 
@@ -98,7 +98,7 @@ In this section—
 
 &emsp;(3) except as otherwise expressly provided, other terms have the meanings given such terms in section 153 of this title.
 
-(Pub. L. 111–260, title I, §106, Oct. 8, 2010, 124 Stat. 2762.)
+(Pub. L. 111–260, title I, §106, Oct. 8, 2010, 124 Stat. 2762; Pub. L. 117–286, §4(a)(298), Dec. 27, 2022, 136 Stat. 4338.)
 
 #### <b>Editorial Notes</b>
 
@@ -106,11 +106,13 @@ In this section—
 
 Section 158(e)(4) of the National Telecommunications and Information Administration Organization Act, referred to in subsec. (c)(7), probably means section 158(f)(4) of title I of Pub. L. 102–538, which was formerly classified to section 942(f)(4) of this title and was omitted from the Code.
 
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 
 Section was enacted as part of the Twenty-First Century Communications and Video Accessibility Act of 2010, and not as part of the Communications Act of 1934 which comprises this chapter.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

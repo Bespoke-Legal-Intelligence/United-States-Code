@@ -52,7 +52,7 @@ Except as provided in section 1059e(b) of this title, for the purpose of this pa
 
 #### (e) Full-time equivalent students
 
-For the purpose of this part, the term "full-time equivalent students" means the sum of the number of students enrolled full time at an institution, plus the full-time equivalent of the number of students enrolled part time (determined on the basis of the quotient of the sum ofthe credit hours of all part-time students divided by 12) at such institution.
+For the purpose of this part, the term "full-time equivalent students" means the sum of the number of students enrolled full time at an institution, plus the full-time equivalent of the number of students enrolled part time (determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by 12) at such institution.
 
 #### (f) Junior or community college
 

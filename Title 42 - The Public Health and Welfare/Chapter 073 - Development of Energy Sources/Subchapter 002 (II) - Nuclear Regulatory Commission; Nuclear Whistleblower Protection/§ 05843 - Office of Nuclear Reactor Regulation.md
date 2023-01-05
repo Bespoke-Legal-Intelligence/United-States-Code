@@ -14,7 +14,7 @@ Subject to the provisions of this chapter, the Director of Nuclear Reactor Regul
 
 &emsp;&emsp;(A) monitoring, testing and recommending upgrading of systems designed to prevent substantial health or safety hazards; and
 
-&emsp;&emsp;(B) evaluating methods of transporting special nuclear and other nuclear materials and of transporting and storing high-levelradioactive wastes to prevent radiation hazards to employees and the general public.
+&emsp;&emsp;(B) evaluating methods of transporting special nuclear and other nuclear materials and of transporting and storing high-level radioactive wastes to prevent radiation hazards to employees and the general public.
 
 &emsp;(3) Recommend research necessary for the discharge of the functions of the Commission.
 

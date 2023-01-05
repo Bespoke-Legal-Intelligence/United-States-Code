@@ -8,7 +8,7 @@ During the period for which the certificate of registration is in effect, each f
 
 &emsp;&emsp;(A) engage in another farm labor contracting activity,
 
-&emsp;&emsp;(B) use, or cause to be used, another vehicle than that covered by the certificate totransport any migrant or seasonal agricultural worker, or
+&emsp;&emsp;(B) use, or cause to be used, another vehicle than that covered by the certificate to transport any migrant or seasonal agricultural worker, or
 
 &emsp;&emsp;(C) use, or cause to be used, another real property or facility to house any migrant agricultural worker than that covered by the certificate.
 

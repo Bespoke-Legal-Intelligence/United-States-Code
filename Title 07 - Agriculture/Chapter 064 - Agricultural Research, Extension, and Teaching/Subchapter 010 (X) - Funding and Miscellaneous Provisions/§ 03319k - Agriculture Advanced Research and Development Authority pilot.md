@@ -86,7 +86,7 @@ In this section:
 
 &emsp;&emsp;(A) to develop and deploy advanced solutions to prevent, prepare, and protect against unintentional and intentional threats to agriculture and food in the United States;
 
-&emsp;&emsp;(B) to overcome barriers in the development of agricultural technologies, research tools, and qualified products and projects that enhance export competitiveness, environmental sustainability, and resilience to extreme weather;
+&emsp;&emsp;(B) to overcome barriers in the development of agricultural technologies, researchtools, and qualified products and projects that enhance export competitiveness, environmental sustainability, and resilience to extreme weather;
 
 &emsp;&emsp;(C) to ensure that the United States maintains and enhances its position as a leader in developing and deploying agricultural technologies, research tools, and qualified projects and products that increase economic opportunities and security for farmers, ranchers, and rural communities; and
 
@@ -174,7 +174,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract or grant or entering into a cooperative agreement or other transaction under paragraph (4)(E), a person shall make available to the Secretary on an ongoing basis, and submit to the Secretary on request of the Secretary, all data relating to or resulting from the activities carried out by the person pursuant to this section.
+&emsp;&emsp;The Secretary shall require that, as a condition of being awarded a contract or grantor entering into a cooperative agreement or other transaction under paragraph (4)(E), a person shall make available to the Secretary on an ongoing basis, and submit to the Secretary on request of the Secretary, all data relating to or resulting from the activities carried out by the person pursuant to this section.
 
 #### (B) Exemption from disclosure
 
@@ -186,7 +186,7 @@ In this section:
 
 &emsp;&emsp;&emsp;The following information shall be exempt from disclosure under section 552 of title 5 and withheld from the public:
 
-&emsp;&emsp;&emsp;&emsp;(I) Specific technical data or scientific information that is created or obtained under this section that reveals significant and not otherwise publicly known vulnerabilities of existing agriculture and food defenses against biological,chemical, nuclear, or radiological threats.
+&emsp;&emsp;&emsp;&emsp;(I) Specific technical data or scientific information that is created or obtained under this section that reveals significant and not otherwise publicly known vulnerabilities of existing agriculture and food defenses against biological, chemical, nuclear, or radiological threats.
 
 &emsp;&emsp;&emsp;&emsp;(II) Trade secrets or commercial or financial information that is privileged or confidential (within the meaning of section 552(b)(4) of title 5) and obtained in the conduct of research or as a result of activities under this section from a non-Federal party participating in a contract, grant, cooperative agreement, or other transaction under this section.
 

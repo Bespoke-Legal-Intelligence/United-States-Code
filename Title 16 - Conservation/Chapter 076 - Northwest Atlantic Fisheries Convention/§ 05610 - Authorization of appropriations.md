@@ -8,7 +8,7 @@ There are authorized to be appropriated to carry out this chapter, including to 
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–327 substituted "including to pay the United States contribution to the Organization asprovided in Article IX of the Convention" for "including use for payment as the United States contribution to the Organization as provided in Article XVI of the Convention" and "2021" for "2012".
+<b>2016</b>—Pub. L. 114–327 substituted "including to pay the United States contribution to the Organization as provided in Article IX of the Convention" for "including use for payment as the United States contribution to the Organization as provided in Article XVI of the Convention" and "2021" for "2012".
 
 <b>2007</b>—Pub. L. 109–479 substituted "2012" for "2006".
 

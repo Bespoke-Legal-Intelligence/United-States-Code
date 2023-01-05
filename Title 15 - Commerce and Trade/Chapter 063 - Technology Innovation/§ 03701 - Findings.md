@@ -10,7 +10,7 @@ The Congress finds and declares that:
 
 &emsp;(4) Small businesses have performed an important role in advancing industrial and technological innovation.
 
-&emsp;(5) Industrial and technological innovation in the United States may be lagging whencompared to historical patterns and other industrialized nations.
+&emsp;(5) Industrial and technological innovation in the United States may be lagging when compared to historical patterns and other industrialized nations.
 
 &emsp;(6) Increased industrial and technological innovation would reduce trade deficits, stabilize the dollar, increase productivity gains, increase employment, and stabilize prices.
 
@@ -72,11 +72,11 @@ Pub. L. 99–382, §1, Aug. 14, 1986, 100 Stat. 811, provided: "That this Act \[
 
 #### Short Title
 
-Pub. L. 96–480, §1, Oct. 21, 1980, 94 Stat. 2311, provided: "That this Act \[enacting this chapter\] may be cited asthe 'Stevenson-Wydler Technology Innovation Act of 1980'."
+Pub. L. 96–480, §1, Oct. 21, 1980, 94 Stat. 2311, provided: "That this Act \[enacting this chapter\] may be cited as the 'Stevenson-Wydler Technology Innovation Act of 1980'."
 
 #### Study on Economic Competitiveness and Innovative Capacity of United States and Development of National Economic Competitiveness Strategy
 
-Pub. L. 111–358, title VI, §604, Jan. 4, 2011, 124 Stat. 4037, provided that:
+Pub. L. 111–358, title VI, §604, Jan. 4, 2011, 124 Stat. 4037, as amended by Pub. L. 117–286, §4(a)(70), Dec. 27, 2022, 136 Stat. 4313, provided that:
 
 "(a)
 
@@ -164,7 +164,11 @@ Composition.—The Advisory Board established under clause (i) shall be comprise
 
 &emsp;&emsp;&emsp;"(iii)
 
-Exemption from faca.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory board established under clause (i).
+Exemption from chapter 10
+
+of title 5
+
+, united states code.—Chapter 10 of title 5, United States Code, shall not apply to the advisory board established under clause (i).
 
 "(b)
 
@@ -282,7 +286,7 @@ Pub. L. 102–245, §2, Feb. 14, 1992, 106 Stat. 7, provided that: "As used in t
 
 &emsp;"(2) the term 'advanced manufacturing technology' means numerically-controlled machine tools, robots, automated process control equipment, computerized flexible manufacturing systems, associated computer software, and other technology for improving manufacturing and industrial processes;
 
-&emsp;"(3) the term 'advanced materials' means a field of research including the study of composites, ceramics, metals, polymers, superconducting materials, materials produced through biotechnology, and materials production technologies, including coated systems,that provide the potential for significant advantages over existing materials;
+&emsp;"(3) the term 'advanced materials' means a field of research including the study of composites, ceramics, metals, polymers, superconducting materials, materials produced through biotechnology, and materials production technologies, including coated systems, that provide the potential for significant advantages over existing materials;
 
 &emsp;"(4) the term 'Institute' means the National Institute of Standards and Technology;
 

@@ -14,7 +14,7 @@
 
 #### (1) Prohibition
 
-&emsp;Except as provided in paragraph (2), the Secretary or the Attorney General may disclose a Convention record, and access to such a record may be provided in whole or in part, only if such record is maintained under the authority of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] and disclosure of, or access to, such record is permitted or required by applicable Federal law.
+&emsp;Except as provided in paragraph (2), the Secretary or the Attorney General may disclose aConvention record, and access to such a record may be provided in whole or in part, only if such record is maintained under the authority of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] and disclosure of, or access to, such record is permitted or required by applicable Federal law.
 
 #### (2) Exception for administration of the Convention
 
@@ -34,7 +34,7 @@ Disclosure of, access to, and penalties for unlawful disclosure of, adoption rec
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
 

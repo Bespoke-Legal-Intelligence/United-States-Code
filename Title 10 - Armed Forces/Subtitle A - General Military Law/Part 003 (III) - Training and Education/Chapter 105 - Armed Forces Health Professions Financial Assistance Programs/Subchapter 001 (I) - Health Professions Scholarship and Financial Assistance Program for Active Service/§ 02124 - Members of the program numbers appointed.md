@@ -2,7 +2,7 @@
 
 (a)
 
-Authorized Number of Members of the Program.—The number of persons who may bedesignated as members of the program for training in each health profession shall be as prescribed by the Secretary of Defense, except that the total number of persons so designated may not, at any time, exceed 6,300.
+Authorized Number of Members of the Program.—The number of persons who may be designated as members of the program for training in each health profession shall be as prescribed by the Secretary of Defense, except that the total number of persons so designated may not, at any time, exceed 6,300.
 
 (b)
 

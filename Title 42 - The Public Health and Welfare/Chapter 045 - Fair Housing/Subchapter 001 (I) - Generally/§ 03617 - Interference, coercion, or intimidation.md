@@ -2,7 +2,7 @@
 
 It shall be unlawful to coerce, intimidate, threaten, or interfere with any person in the exercise or enjoyment of, or on account of his having exercised or enjoyed, or on account of his having aided or encouraged any other person in the exercise or enjoyment of, any right granted or protected by section 3603, 3604, 3605, or 3606 of this title.
 
-(Pub. L. 90–284, title VIII, §818, formerly §817, Apr. 11, 1968, 82 Stat. 89; renumbered §818 and amended Pub. L. 100–430, §§8(1), 10, Sept. 13, 1988, 102 Stat. 1625, 1635.)
+(Pub. L. 90–284, title VIII, §818, formerly §817, Apr. 11, 1968, 82 Stat. 89; renumbered §818 andamended Pub. L. 100–430, §§8(1), 10, Sept. 13, 1988, 102 Stat. 1625, 1635.)
 
 #### <b>Editorial Notes</b>
 

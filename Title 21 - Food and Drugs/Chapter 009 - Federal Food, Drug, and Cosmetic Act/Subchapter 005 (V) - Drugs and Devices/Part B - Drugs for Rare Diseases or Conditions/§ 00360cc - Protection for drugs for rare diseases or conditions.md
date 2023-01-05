@@ -14,7 +14,7 @@ Except as provided in subsection (b), if the Secretary—
 
 During the 7-year period described in subsection (a) for an approved application under section 355 of this title or license under section 262 of title 42, the Secretary may approve an application or issue a license for a drug that is otherwise the same, as determined by the Secretary, as the already approved drug for the same rare disease or condition if—
 
-&emsp;(1) the Secretary finds, after providing the holder of exclusive approval or licensure notice and opportunity for the submission of views, that during such period the holder of the exclusive approval or licensure cannot ensure the availability of sufficient quantities of the drug to meet the needs of persons with thedisease or condition for which the drug was designated; or
+&emsp;(1) the Secretary finds, after providing the holder of exclusive approval or licensure notice and opportunity for the submission of views, that during such period the holder of the exclusive approval or licensure cannot ensure the availability of sufficient quantities of the drug to meet the needs of persons with the disease or condition for which the drug was designated; or
 
 &emsp;(2) the holder provides the Secretary in writing the consent of such holder for the approval of other applications or the issuance of other licenses before the expiration of such seven-year period.
 
@@ -50,7 +50,7 @@ To assist sponsors in demonstrating clinical superiority as described in subsect
 
 #### References in Text
 
-Section 355(c)(2) of this title, referred to in subsec. (a), was redesignated as section 355(c)(1)(B) of this title by Pub. L. 98–417, title I, §102(a)(2), Sept. 24, 1984, 98 Stat. 1592.
+Section 355(c)(2) of this title, referred to in subsec. (a), was redesignated as section 355(c)(1)(B) of this titleby Pub. L. 98–417, title I, §102(a)(2), Sept. 24, 1984, 98 Stat. 1592.
 
 This section, as amended by such Act, referred to in subsec. (d), means this section as amended by the FDA Reauthorization Act of 2017, Pub. L. 115–52.
 
@@ -72,7 +72,7 @@ Subsecs. (c) to (e). Pub. L. 115–52, §607(a)(3), added subsecs. (c) to (e).
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–115, §125(b)(2)(J), struck out ", issue another certification under section 357 of this title," before "or issue another license" in closing provisions, inserted "or" at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "issues a certification under section 357 of this title, or".
 
-Subsec. (b). Pub. L. 105–115, §125(b)(2)(K), in introductory provisions, struck out ", if a certification is issued under section 357 of this title for such a drug," after "rare disease or condition", ", of the issuance of the certification under section 357 of this title," after "application approval", ", issue another certificationunder section 357 of this title," after "application under section 355 of this title", and ", of such certification," after "approved application".
+Subsec. (b). Pub. L. 105–115, §125(b)(2)(K), in introductory provisions, struck out ", if a certification is issued under section 357 of this title for such a drug," after "rare disease or condition", ", of the issuance of the certification under section 357 of this title," after "application approval", ", issue another certification under section 357 of this title," after "application under section 355 of this title", and ", of such certification," after "approved application".
 
 Subsec. (b)(1). Pub. L. 105–115, §125(b)(2)(K), struck out ", of the certification," after "holder of the approved application".
 

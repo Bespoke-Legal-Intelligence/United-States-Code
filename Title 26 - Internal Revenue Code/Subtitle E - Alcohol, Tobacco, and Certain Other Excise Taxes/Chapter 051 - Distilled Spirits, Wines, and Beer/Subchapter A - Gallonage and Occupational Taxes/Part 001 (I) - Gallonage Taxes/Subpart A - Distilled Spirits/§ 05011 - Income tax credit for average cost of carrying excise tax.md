@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, as amended, which is classified generally to subchapter I (§201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
+The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
 
 #### Prior Provisions
 
@@ -64,5 +64,5 @@ A prior section 5012, act Aug. 16, 1954, ch. 736, 68A Stat. 605, related to draw
 
 #### Effective Date
 
-Section applicable to taxable years beginning after Sept. 30, 2005, see section 11126(d) of Pub. L. 109–59, setout as an Effective Date of 2005 Amendments note under section 38 of this title.
+Section applicable to taxable years beginning after Sept. 30, 2005, see section 11126(d) of Pub. L. 109–59, set out as an Effective Date of 2005 Amendments note under section 38 of this title.
 

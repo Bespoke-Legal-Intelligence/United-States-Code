@@ -10,7 +10,7 @@
 
 &emsp;(3) who applies, not later than 30 days after his completion of such duty, for the right to return to a position in the United States as provided by subsection (c).
 
-> The Secretary of the department concerned may provide by regulation for the waiver of the provisions of paragraphs (2) and (3), or of either of such paragraphs, in those cases in which the application of such paragraphs, or either of them, would be against equity and good conscience or against the public interest.
+> The Secretary of the department concerned may provide by regulation for the waiver of the provisions of paragraphs (2) and (3), or of either ofsuch paragraphs, in those cases in which the application of such paragraphs, or either of them, would be against equity and good conscience or against the public interest.
 
 (c) The right to return to a position in the United States granted under this section shall be without reduction in the seniority, status, and tenure held by the employee immediately before his assignment to duty outside the United States and the employee shall be placed, not later than 30 days after the date on which he is determined to be immediately available to exercise such right in accordance with the following provisions:
 
@@ -36,7 +36,7 @@
 
 (g) In this section:
 
-&emsp;(1) The term "rotation" means the assignment of civilian employees referred to in subsection (b) to duty outside the United Statesand the return of such employees to duty within the United States.
+&emsp;(1) The term "rotation" means the assignment of civilian employees referred to in subsection (b) to duty outside the United States and the return of such employees to duty within the United States.
 
 &emsp;(2) The term "grade" means, as applicable, a grade of the General Schedule as prescribed in section 5104 of title 5 or a grade or level of the appropriate prevailing rate schedule.
 

@@ -104,7 +104,7 @@ Statute of Limitations.—If refund or credit of any overpayment of tax resultin
 
 #### Payment-in-Kind Tax Treatment Act of 1983
 
-Pub. L. 98–4, Mar. 11, 1983, 97 Stat. 7, as amended by Pub. L. 98–369, div. A, title X, §1061(a), July 18, 1984, 98 Stat. 1046; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6252(a)(1), Nov. 10, 1988, 102 Stat. 3752, provided that:
+Pub. L. 98–4, Mar. 11, 1983, 97 Stat. 7, as amended by Pub. L. 98–369, div. A, title X, §1061(a), July 18, 1984, 98Stat. 1046; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6252(a)(1), Nov. 10, 1988, 102 Stat. 3752, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -244,7 +244,7 @@ Regulations.—The Secretary of the Treasury or his delegate (after consultation
 
 #### Cancellation of Certain Student Loans
 
-Pub. L. 94–455, title XXI, §2117, Oct. 4, 1976, 90 Stat. 1911, as amended by Pub. L. 95–600, title I, §162, Nov. 6, 1978, 92 Stat. 2810; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that no amount be included in gross income of an individual for purposes of 26 U.S.C. 61 by reason of the discharge made before Jan. 1, 1983 of the indebtedness of the individual under a student loan if the discharge was pursuant to a provision of the loan under which the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain geographical areas or for certain classes of employers.
+Pub. L. 94–455, title XXI, §2117, Oct. 4, 1976, 90 Stat. 1911, as amended by Pub. L. 95–600, title I, §162, Nov. 6,1978, 92 Stat. 2810; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that no amount be included in gross income of an individual for purposes of 26 U.S.C. 61 by reason of the discharge made before Jan. 1, 1983 of the indebtedness of the individual under a student loan if the discharge was pursuant to a provision of the loan under which the indebtedness of the individual would be discharged if the individual worked for a certain period of time in certain geographical areas or for certain classes of employers.
 
 #### Regulations Relating to Tax Treatment of Certain Prepublication Expenditures of Publishers
 

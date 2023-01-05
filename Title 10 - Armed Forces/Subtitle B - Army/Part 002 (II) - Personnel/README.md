@@ -41,6 +41,48 @@ Pub. L. 90–235, §8(5), Jan. 2, 1968, 81 Stat. 764, struck out item for chapte
 
 <b>1958</b>—Pub. L. 85–861, §1(95), Sept. 2, 1958, 72 Stat. 1487, substituted "3841" for "\[No present sections\]" in item for chapter 363.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Pilot Program on Remote Personnel Processing in the Army
+
+Pub. L. 117–263, div. A, title V, §562, Dec. 23, 2022, 136 Stat. 2598, provided that:
+
+"(a)
+
+Establishment.—Not later than January 1, 2024, the Secretary of the Army shall implement a pilot program to expedite in-processing and out-processing at one or more military installations—
+
+&emsp;"(1) under the jurisdiction of such Secretary; and
+
+&emsp;"(2) located within the continental United States.
+
+"(b)
+
+Functions.—The pilot program shall perform the following functions:
+
+&emsp;"(1) Enable the remote in-processing and out-processing of covered personnel, including by permitting covered personnel to sign forms electronically.
+
+&emsp;"(2) Reduce the number of hours required of covered personnel for in-processing and out-processing.
+
+&emsp;"(3) Provide, to covered personnel and the commander of a military installation concerned, electronic copies of records related to in-processing and out-processing.
+
+"(c)
+
+Termination.—The pilot program shall terminate on January 1st, 2027.
+
+"(d)
+
+Report.—Not later than January 1, 2026, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report regarding the pilot program, including the recommendation of the Secretary whether to make the pilot program permanent.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered personnel' includes members of the Army and civilian employees of the Department of the Army.
+
+&emsp;"(2) The term 'in-processing' means the administrative activities that covered personnel undertake pursuant to a permanent change of station.
+
+&emsp;"(3) The term 'out-processing' means the administrative activities that covered personnel undertake pursuant to a permanent change of station, separation from the Army, or end of employment with the Department of the Army."
+
 
 ---
 

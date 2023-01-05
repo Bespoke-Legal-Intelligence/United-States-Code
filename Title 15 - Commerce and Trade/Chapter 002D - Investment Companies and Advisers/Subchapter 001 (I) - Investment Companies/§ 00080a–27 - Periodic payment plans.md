@@ -12,7 +12,7 @@ It shall be unlawful for any registered investment company issuing periodic paym
 
 &emsp;(4) the first payment on such certificate is less than $20, or any subsequent payment is less than $10;
 
-&emsp;(5) if such registered company is a management company, the proceeds of such certificate or the securities in which such proceeds are invested are subject to management fees\(other than fees for administrative services of the character described in clause (C), paragraph (2), of section 80a–26(a) of this title) exceeding such reasonable amount as the Commission may prescribe, whether such fees are payable to such company or to investment advisers thereof; or
+&emsp;(5) if such registered company is a management company, the proceeds of such certificate or the securities in which such proceeds are invested are subject to management fees (other than fees for administrative services of the character described in clause (C), paragraph (2), of section 80a–26(a) of this title) exceeding such reasonable amount as the Commission may prescribe, whether such fees are payable to such company or to investment advisers thereof; or
 
 &emsp;(6) if such registered company is a unit investment trust the assets of which are securities issued by a management company, the depositor of or principal underwriter for such trust, or any affiliated person of such depositor or underwriter, is to receive from such management company or any affiliated person thereof any fee or payment on account of payments on such certificate exceeding such reasonable amount as the Commission may prescribe.
 
@@ -30,7 +30,7 @@ It shall be unlawful for any registered investment company issuing periodic paym
 
 #### (d) Surrender of certificates; regulations
 
-Notwithstanding subsection (a) of this section, it shall be unlawful for any registered investment company issuing periodic payment plan certificates, or for any depositor of or underwriter for such company, to sell any such certificate unless the certificate provide that the holder thereof may surrender the certificate at any time within the first eighteen months after the issuance of the certificate and receive in payment thereof, in cash, the sum of (1) the value of his account, and (2) an amount, from such underwriter or depositor, equal to that part of the excess paid for sales loading which is over 15 per centum of the gross payments made by the certificate holder. The Commission may make rules and regulations applicable to such underwriters and depositors specifying such reserve requirements as it deems necessary or appropriate in order for such underwriters and depositors to carry out the obligations to refund sales charges required by this subsection.
+Notwithstanding subsection (a) of this section, it shall be unlawful for any registered investment company issuing periodic payment plan certificates, or for any depositor of or underwriter for such company, to sell any such certificate unless the certificate provide that the holder thereof may surrender the certificate at any time within the first eighteen months after the issuance of the certificate and receive in payment thereof, in cash, the sum of (1) the value of his account, and (2) an amount, from such underwriter or depositor, equal to that part of the excess paid for sales loading which is over15 per centum of the gross payments made by the certificate holder. The Commission may make rules and regulations applicable to such underwriters and depositors specifying such reserve requirements as it deems necessary or appropriate in order for such underwriters and depositors to carry out the obligations to refund sales charges required by this subsection.
 
 #### (e) Refund privileges; notice; rules
 
@@ -42,7 +42,7 @@ With respect to any periodic payment plan (other than a plan under which the amo
 
 #### (g) Governing provisions; election
 
-Notwithstanding the provisions of subsections (a) and (d), a registered investment company issuing periodic payment plan certificates may elect, by written notice to the Commission, to be governed by the provisions of subsection (h)rather than the provisions of subsections (a) and (d) of this section.
+Notwithstanding the provisions of subsections (a) and (d), a registered investment company issuing periodic payment plan certificates may elect, by written notice to the Commission, to be governed by the provisions of subsection (h) rather than the provisions of subsections (a) and (d) of this section.
 
 #### (h) Sale of certificates; restrictions
 

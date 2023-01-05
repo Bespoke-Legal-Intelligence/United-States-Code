@@ -46,7 +46,7 @@ Not later than 120 days after the date on which appropriations are made availabl
 
 #### (e) Transfer
 
-Not later than 120 days after December 27, 2021, the Secretary shall transfer all medicalcountermeasures-related programmatic and personnel resources from the Under Secretary for Management to the Chief Medical Officer.
+Not later than 120 days after December 27, 2021, the Secretary shall transfer all medical countermeasures-related programmatic and personnel resources from the Under Secretary for Management to the Chief Medical Officer.
 
 #### (f) Stockpile elements
 

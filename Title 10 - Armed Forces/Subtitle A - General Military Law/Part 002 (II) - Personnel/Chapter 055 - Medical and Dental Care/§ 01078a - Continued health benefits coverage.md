@@ -120,11 +120,11 @@ Period of Continued Coverage.—(1) Continued coverage under this section may no
 
 &emsp;&emsp;(ii) if applicable, the date the one-year extension of dependency under section 1072(2)(H) of this title expires; and
 
-&emsp;(E) in the case of a person described in subsection (b)(5), the date that is 36 months after the date on which the person loses entitlement to health care services as described in that subsection.
+&emsp;(E) in the case of a person described in subsection (b)(5), the date that is 36 months afterthe date on which the person loses entitlement to health care services as described in that subsection.
 
 (2) Notwithstanding paragraph (1)(C), if a dependent of a member becomes eligible for continued coverage under subsection (b)(3) during a period of continued coverage of the member for self and dependents under this section, extended coverage of the dependent under this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
 
-(3) Notwithstanding paragraph (1)(D), if a person becomes eligible for continued coverageunder subsection (b)(4) as the former spouse of a member during a period of continued coverage of the member for self and dependents under this section, extended coverage of the former spouse under this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
+(3) Notwithstanding paragraph (1)(D), if a person becomes eligible for continued coverage under subsection (b)(4) as the former spouse of a member during a period of continued coverage of the member for self and dependents under this section, extended coverage of the former spouse under this section may not extend beyond the date which is 36 months after the date the member became ineligible for medical and dental care under section 1074(a) of this title and any transitional health care under section 1145(a) of this title.
 
 (4)(A) Notwithstanding paragraph (1), in the case of a former spouse described in subparagraph (B), continued coverage under this section shall continue for such period as the former spouse may request.
 

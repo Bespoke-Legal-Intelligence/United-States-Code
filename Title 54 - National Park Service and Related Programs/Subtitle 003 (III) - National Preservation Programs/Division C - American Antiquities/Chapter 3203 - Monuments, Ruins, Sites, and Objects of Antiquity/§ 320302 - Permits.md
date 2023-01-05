@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 June 8, 1906, ch. 3060, §3, 34 Stat. 225; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.
 
-In subsection (a), section 205(a) of the National Security Act of 1947 (ch. 343, 61 Stat. 501) was repealed by section 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 676). Section 1 of the Act of August 10, 1956 (70A Stat. 1), enacted Title 10, "Armed Forces", and under sections 3010 to 3013 of title 10, the Department of the Army remains under the administrative supervision of the Secretary of the Army.
+In subsection (a), section 205(a) of the National Security Act of 1947 (ch. 343, 61 Stat. 501) was repealed by section 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 676). Section 1 of the Act of August 10, 1956 (70A Stat. 1), enacted Title 10, "Armed Forces", and undersections 3010 to 3013 of title 10, the Department of the Army remains under the administrative supervision of the Secretary of the Army.
 

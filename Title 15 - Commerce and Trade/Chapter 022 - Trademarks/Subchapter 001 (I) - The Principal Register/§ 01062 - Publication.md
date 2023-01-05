@@ -30,7 +30,7 @@ Acts Feb. 20, 1905, ch. 592, §6, 33 Stat. 726; Mar. 2, 1907, ch. 2573, §2, 34 
 
 #### Amendments
 
-<b>2020</b>—Subsec. (b). Pub. L. 116–260 amended subsec. (b) generally. Prior to amendment, text read as follows: "If the applicant is found not entitled to registration, theexaminer shall advise the applicant thereof and of the reasons therefor. The applicant shall have a period of six months in which to reply or amend his application, which shall then be reexamined. This procedure may be repeated until (1) the examiner finally refuses registration of the mark or (2) the applicant fails for a period of six months to reply or amend or appeal, whereupon the application shall be deemed to have been abandoned, unless it can be shown to the satisfaction of the Director that the delay in responding was unintentional, whereupon such time may be extended."
+<b>2020</b>—Subsec. (b). Pub. L. 116–260 amended subsec. (b) generally. Prior to amendment, text read as follows: "If the applicant is found not entitled to registration, the examiner shall advise the applicant thereof and of the reasons therefor. The applicant shall have a period of six months in which to reply or amend his application, which shall then be reexamined. This procedure may be repeated until (1) the examiner finally refuses registration of the mark or (2) the applicant fails for a period of six months to reply or amend or appeal, whereupon the application shall be deemed to have been abandoned, unless it can be shown to the satisfaction of the Director that the delay in responding was unintentional, whereupon such time may be extended."
 
 <b>1999</b>—Pub. L. 106–113 substituted "Director" for "Commissioner" wherever appearing.
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
 
 #### <b>Executive Documents</b>
 

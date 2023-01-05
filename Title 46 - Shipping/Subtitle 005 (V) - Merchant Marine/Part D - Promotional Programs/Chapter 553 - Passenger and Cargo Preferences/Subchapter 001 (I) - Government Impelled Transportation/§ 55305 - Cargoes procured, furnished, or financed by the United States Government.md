@@ -24,7 +24,7 @@ Programs of Other Agencies.—
 
 &emsp;(2) The Secretary—
 
-&emsp;&emsp;(A) shall conduct an annual review of the administration of programs determined pursuant to paragraph (1) as subject to the requirements of this section;
+&emsp;&emsp;(A) shall conduct an annual review of the administration of programs determined pursuant to paragraph (1) as subject to the requirements of this section and annually submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the administration of such programs;
 
 &emsp;&emsp;(B) may direct agencies to require the transportation on United States-flagged vessels of cargo shipments not otherwise subject to this section in equivalent amounts to cargo determined to have been shipped on foreign carriers in violation of this section;
 
@@ -44,7 +44,7 @@ Security of Government-Impelled Cargo.—
 
 &emsp;&emsp;(B) in such period, issued an advisory warning that an act of piracy is possible in such waters.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642; Pub. L. 110–417, div. C, title XXXV, §3511(a), (b), Oct. 14, 2008, 122 Stat. 4769; Pub. L. 112–213, title V, §503, Dec. 20, 2012, 126 Stat. 1575; Pub. L. 113–281, title III, §306, Dec. 18, 2014, 128 Stat. 3044; Pub. L. 115–232, div. C, title XXXV, §3546(s), Aug. 13, 2018, 132 Stat. 2327.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1642; Pub. L. 110–417, div. C, title XXXV, §3511(a), (b), Oct. 14, 2008, 122 Stat. 4769; Pub. L. 112–213, title V, §503, Dec. 20, 2012, 126 Stat. 1575; Pub. L. 113–281, title III, §306, Dec. 18, 2014, 128 Stat. 3044; Pub. L. 115–232, div. C, title XXXV, §3546(s), Aug. 13, 2018, 132 Stat. 2327; Pub. L. 117–263, div. C, title XXXV, §3502(b), Dec. 23, 2022, 136 Stat. 3065.)
 
 Historical and Revision Notes
 
@@ -86,6 +86,8 @@ Section 25(c)(1) of the Office of Federal Procurement Policy Act, referred to in
 
 #### Amendments
 
+<b>2022</b>—Subsec. (d)(2)(A). Pub. L. 117–263 inserted "and annually submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the administration of such programs" after "section".
+
 <b>2018</b>—Subsec. (d)(2)(D). Pub. L. 115–232 substituted "1303(a)(1))" for "421(c)(1)".
 
 <b>2014</b>—Subsec. (e)(1). Pub. L. 113–281, §306(1), substituted "reimburse, subject to the availability of appropriations, the owners or operators of vessels" for "provide armed personnel aboard vessels" and "commodities for the cost of providing armed personnel aboard such vessels" for "commodities".
@@ -107,6 +109,10 @@ Subsec. (d). Pub. L. 110–417, §3511(b), reenacted heading without change and 
 #### Regulations
 
 Pub. L. 110–417, div. C, title XXXV, §3511(c), Oct. 14, 2008, 122 Stat. 4770, provided that: "The Secretary of Transportation shall prescribe such rules as are necessary to carry out section 55305(d) of title 46, United States Code. The Secretary may prescribe interim rules necessary to carry out section 55305(d) of such title. An interim rule prescribed under this subsection shall remain in effect until superseded by a final rule."
+
+#### Secretary of Transportation Responsibility With Respect to Cargoes Procured, Furnished, or Financed by Other Federal Departments and Agencies
+
+Pub. L. 117–263, div. C, title XXXV, §3502(a), Dec. 23, 2022, 136 Stat. 3065, provided that: "Not later than 270 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Administrator of the Maritime Administration shall issue a final rule to implement and enforce section 55305(d) of title 46, United States Code."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

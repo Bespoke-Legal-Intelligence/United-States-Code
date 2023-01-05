@@ -162,7 +162,7 @@ Private security functions.—The term 'private security functions' means activi
 
 "(e)
 
-Exception.—The requirements of this section shall not apply to contracts entered into by elements of the intelligence community in support of intelligence activities."
+Exception.—The requirements of this section shall not apply to contracts entered into by elements ofthe intelligence community in support of intelligence activities."
 
 #### Contracts in Iraq and Afghanistan and Private Security Contracts in Areas of Other Significant Military Operations
 
@@ -344,7 +344,7 @@ Elements.—The regulations prescribed under subsection (a) shall, at a minimum,
 
 &emsp;"(3)
 
-Availability of orders, directives, and instructions.—The regulations prescribed under subsection (a) shall include mechanisms to ensure the provision and availability of the orders, directives, and instructions referred to in paragraph (2)(G)(i) to contractors referred to in that paragraph, including through the maintenance of a single location (including an Internet website, to the extent consistent with security considerations) at or through which such contractors may access such orders, directives, and instructions.
+Availability of orders, directives, and instructions.—The regulations prescribed under subsection (a) shall include mechanisms to ensure the provision and availability of the orders, directives, and instructions referred to in paragraph (2)(G)(i) tocontractors referred to in that paragraph, including through the maintenance of a single location (including an Internet website, to the extent consistent with security considerations) at or through which such contractors may access such orders, directives, and instructions.
 
 "(b)
 
@@ -418,7 +418,7 @@ Oversight.—It shall be the responsibility of the head of the contracting activ
 
 "(d)
 
-Remedies.—The failure of a contractor under a covered contract to comply with the requirements of the regulations prescribed under subsection (a) or the contract clause inserted in a covered contract pursuantto subsection (b), as determined by the contracting officer for the covered contract—
+Remedies.—The failure of a contractor under a covered contract to comply with the requirements of the regulations prescribed under subsection (a) or the contract clause inserted in a covered contract pursuant to subsection (b), as determined by the contracting officer for the covered contract—
 
 &emsp;"(1) shall be included in appropriate databases of past performance and considered in any responsibility determination or evaluation of the past performance of the contractor for the purpose of a contract award decision, as provided in section 1126 of title 41, United States Code;
 
@@ -530,7 +530,7 @@ Exception.—If the total annual amount of obligations for contracts in Iraq and
 
 "(g)
 
-Estimates.—In determining the total number of contractor personnel working on contracts under subsection (b)(6), the Secretaries and the Administrator may use estimates for any category of contractor personnel for which they determine it is not feasible toprovide an actual count. The report shall fully disclose the extent to which estimates are used in lieu of an actual count.
+Estimates.—In determining the total number of contractor personnel working on contracts under subsection (b)(6), the Secretaries and the Administrator may use estimates for any category of contractor personnel for which they determine it is not feasible to provide an actual count. The report shall fully disclose the extent to which estimates are used in lieu of an actual count.
 
 #### "SEC. 864. DEFINITIONS AND OTHER GENERAL PROVISIONS.
 

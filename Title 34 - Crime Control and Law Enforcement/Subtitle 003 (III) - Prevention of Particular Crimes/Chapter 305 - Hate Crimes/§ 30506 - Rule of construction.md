@@ -28,7 +28,7 @@ For purposes of construing this division and the amendments made by this divisio
 
 #### (6) Constitutional protections
 
-&emsp;Nothing in this division shall be construed to prohibit any constitutionally protected speech, expressive conduct or activities (regardless of whether compelled by, or central to, a system of religious belief), including the exercise of religion protected by the first amendment to the Constitution of the United States and peaceful picketing or demonstration. The Constitution of the United Statesdoes not protect speech, conduct or activities consisting of planning for, conspiring to commit, or committing an act of violence.
+&emsp;Nothing in this division shall be construed to prohibit any constitutionally protected speech, expressive conduct or activities (regardless of whether compelled by, or central to, a system of religious belief), including the exercise of religion protected by the first amendment to the Constitution of the United States and peaceful picketing or demonstration. The Constitution of the United States does not protect speech, conduct or activities consisting of planning for, conspiring to commit, or committing an act of violence.
 
 (Pub. L. 111–84, div. E, §4710, Oct. 28, 2009, 123 Stat. 2841.)
 

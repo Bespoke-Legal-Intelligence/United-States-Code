@@ -118,7 +118,7 @@ Subsec. (i). Pub. L. 117–81, §555(c), added subsec. (i).
 
 <b>2018</b>—Pub. L. 115–232, §806(a)(3), renumbered section 9355 of this title as this section.
 
-Subsec. (d). Pub. L. 115–232, §593, added subsec. (d) and struck out former subsec. (d) which read as follows: "The Board should meet at least four times a year, with at least two of those meetings at the Academy. The Board or its members may make other visits to the Academy in connection with the duties of the Board. Board meetings should last at least one full day. Board members shall have access to the Academy grounds and the cadets, faculty, staff, and other personnel of the Academy for the purposes of the duties of the Board."
+Subsec. (d). Pub. L. 115–232, §593, added subsec. (d) and struck out former subsec. (d) which read as follows: "The Board should meet at least four times a year,with at least two of those meetings at the Academy. The Board or its members may make other visits to the Academy in connection with the duties of the Board. Board meetings should last at least one full day. Board members shall have access to the Academy grounds and the cadets, faculty, staff, and other personnel of the Academy for the purposes of the duties of the Board."
 
 <b>2006</b>—Subsec. (c)(1). Pub. L. 109–364 substituted "Board under paragraph (2)" for "board under paragraph (2)".
 

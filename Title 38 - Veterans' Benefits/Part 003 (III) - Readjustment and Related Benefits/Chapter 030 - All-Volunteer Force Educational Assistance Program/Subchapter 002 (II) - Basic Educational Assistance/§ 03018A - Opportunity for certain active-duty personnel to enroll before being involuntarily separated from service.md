@@ -6,7 +6,7 @@
 
 &emsp;(2) before applying for benefits under this section, has completed the requirements of a secondary school diploma (or equivalency certificate) or has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree;
 
-&emsp;(3) in the case of any individual who has made an election under section 3011(c)(1) or 3012(d)(1) of this title, withdraws such election before such separation pursuant to procedures which the Secretary of each military department shall provide in accordance with regulations prescribed by the Secretary of Defense for the purpose of carrying out this section orwhich the Secretary of Homeland Security shall provide for such purpose with respect to the Coast Guard when it is not operating as a service in the Navy;
+&emsp;(3) in the case of any individual who has made an election under section 3011(c)(1) or 3012(d)(1) of this title, withdraws such election before such separation pursuant to procedures which the Secretary of each military department shall provide in accordance with regulations prescribed by the Secretary of Defense for the purpose of carrying out this section or which the Secretary of Homeland Security shall provide for such purpose with respect to the Coast Guard when it is not operating as a service in the Navy;
 
 &emsp;(4) in the case of any person enrolled in the educational benefits program provided by chapter 32 of this title makes an irrevocable election, pursuant to procedures referred to in paragraph (3), before such separation to receive benefits under this section in lieu of benefits under such chapter 32; and
 

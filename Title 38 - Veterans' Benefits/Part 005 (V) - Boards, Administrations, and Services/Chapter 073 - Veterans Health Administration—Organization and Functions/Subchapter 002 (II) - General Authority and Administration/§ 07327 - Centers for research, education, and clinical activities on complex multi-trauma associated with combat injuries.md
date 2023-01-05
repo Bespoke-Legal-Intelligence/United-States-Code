@@ -46,7 +46,7 @@ Requirements for Centers.—To be designated as a center under this section, a f
 
 &emsp;(1) be a regional lead center for the care of traumatic brain injury;
 
-&emsp;(2) be located at a tertiary care medical center and have on-site availability of primaryand subspecialty medical services relating to complex multi-trauma;
+&emsp;(2) be located at a tertiary care medical center and have on-site availability of primary and subspecialty medical services relating to complex multi-trauma;
 
 &emsp;(3) have, or have the capacity to develop, the capability of managing impairments associated with combat injuries;
 

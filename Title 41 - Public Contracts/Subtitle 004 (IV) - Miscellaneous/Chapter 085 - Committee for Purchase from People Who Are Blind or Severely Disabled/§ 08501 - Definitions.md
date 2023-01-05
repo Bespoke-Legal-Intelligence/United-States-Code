@@ -24,7 +24,7 @@ Entity of the federal government and federal government.—The terms "entity of 
 
 &emsp;(5)
 
-Other severely disabled.—The term "other severely disabled" means an individual or class of individuals under a physical ormental disability, other than blindness, which (according to criteria established by the Committee after consultation with appropriate entities of the Federal Government and taking into account the views of non-Federal Government entities representing the disabled) constitutes a substantial handicap to employment and is of a nature that prevents the individual from currently engaging in normal competitive employment.
+Other severely disabled.—The term "other severely disabled" means an individual or class of individuals under a physical or mental disability, other than blindness, which (according to criteria established by the Committee after consultation with appropriate entities of the Federal Government and taking into account the views of non-Federal Government entities representing the disabled) constitutes a substantial handicap to employment and is of a nature that prevents the individual from currently engaging in normal competitive employment.
 
 &emsp;(6)
 

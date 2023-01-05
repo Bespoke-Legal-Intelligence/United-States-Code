@@ -8,7 +8,7 @@ The Comptroller of the Currency may, without prior notice or hearings, appoint a
 
 #### (1) In general
 
-&emsp;Not later than 20 days after the initial appointment of a conservator pursuant to this section, the bank may bring an action in the United States district court for the judicial district in which the home office of such bank is located, or in the United States District Court for the District of Columbia, for an order requiring the Comptroller to terminate the appointment of the conservator, and the court, upon the merits, shall dismiss such action or shall direct the Comptroller to terminate the appointment of such conservator. The Comptroller's decision to appoint a conservator pursuant to this section shall be set aside only if the court finds that such decision was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
+&emsp;Not later than 20 days after the initial appointment of a conservator pursuant to this section, the bank may bring an action in the United States district court for the judicial district in which the home office of such bank is located, or in the United States District Court for the District of Columbia, for an order requiring the Comptroller to terminatethe appointment of the conservator, and the court, upon the merits, shall dismiss such action or shall direct the Comptroller to terminate the appointment of such conservator. The Comptroller's decision to appoint a conservator pursuant to this section shall be set aside only if the court finds that such decision was arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law.
 
 #### (2) Stay
 
@@ -46,9 +46,9 @@ The Comptroller may, without notice or hearing, replace a conservator with anoth
 
 #### References in Text
 
-The Federal Deposit Insurance Act, referred to in subsec. (d), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (d), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
-This Act, referred to in subsec. (d), is act Mar. 9, 1933, ch. 1, 48 Stat. 1, popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95, 201 to 212, 248, 347b, 347c, 347d, 445 of this title and to section 4305 of Title50, War and National Defense, and classified as a note under section 4305 of Title 50.
+This Act, referred to in subsec. (d), is act Mar. 9, 1933, ch. 1, 48 Stat. 1, popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95, 201 to 212, 248, 347b, 347c, 347d, 445 of this title and to section 4305 of Title 50, War and National Defense, and classified as a note under section 4305 of Title 50.
 
 Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, §206(b), (o), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under section 51b–1 of this title.
 

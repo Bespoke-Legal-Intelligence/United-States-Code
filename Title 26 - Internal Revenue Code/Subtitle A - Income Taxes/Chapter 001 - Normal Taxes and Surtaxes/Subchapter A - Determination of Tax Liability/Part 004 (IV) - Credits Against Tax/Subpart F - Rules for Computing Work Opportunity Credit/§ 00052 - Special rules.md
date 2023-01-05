@@ -2,7 +2,7 @@
 
 #### (a) Controlled group of corporations
 
-For purposes of this subpart, all employees of all corporations which are members of the same controlled group of corporations shall be treated as employed by a single employer. In any such case, the credit (if any) determined under section 51(a) with respect to each such member shall be its proportionate share of the wages giving rise to such credit. For purposes of this subsection, the term "controlled group of corporations" has the meaning given to such term by section 1563(a), except that—
+For purposes of this subpart, all employees of all corporations which are members of the same controlled group of corporations shall be treated as employed by a single employer. In any such case, the credit (if any) determined under section 51(a) with respect to each such membershall be its proportionate share of the wages giving rise to such credit. For purposes of this subsection, the term "controlled group of corporations" has the meaning given to such term by section 1563(a), except that—
 
 &emsp;(1) "more than 50 percent" shall be substituted for "at least 80 percent" each place it appears in section 1563(a)(1), and
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 112–56 applicable to individuals who begin work for the e
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job ProtectionAct of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date of 1996 Amendment
 

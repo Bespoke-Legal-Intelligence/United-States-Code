@@ -46,11 +46,11 @@ In this section:
 
 &emsp;&emsp;(A) is secured by a first or subordinate lien on residential real property (including individual units of condominiums and cooperatives) designed principally for the occupancy of from 1 to 4 families, including any such secured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property; and
 
-&emsp;&emsp;(B) is made in whole or in part, or insured, guaranteed, supplemented, or assisted in any way, by any officer or agency of the Federal Government or under or in connection with a housing or urban development program administered by the Secretary of Housing and Urban Development or a housing or related program administered by any other such officer or agency, or is purchased or securitized by the Federal Home Loan Mortgage Corporation or the Federal National Mortgage Association.
+&emsp;&emsp;(B) is made in whole or in part, or insured, guaranteed, supplemented, or assisted in anyway, by any officer or agency of the Federal Government or under or in connection with a housing or urban development program administered by the Secretary of Housing and Urban Development or a housing or related program administered by any other such officer or agency, or is purchased or securitized by the Federal Home Loan Mortgage Corporation or the Federal National Mortgage Association.
 
 #### (5) Federally backed multifamily mortgage loan
 
-&emsp;The term "Federally backed multifamily mortgage loan" includes any loan (other thantemporary financing such as a construction loan) that—
+&emsp;The term "Federally backed multifamily mortgage loan" includes any loan (other than temporary financing such as a construction loan) that—
 
 &emsp;&emsp;(A) is secured by a first or subordinate lien on residential multifamily real property designed principally for the occupancy of 5 or more families, including any such secured loan, the proceeds of which are used to prepay or pay off an existing loan secured by the same property; and
 

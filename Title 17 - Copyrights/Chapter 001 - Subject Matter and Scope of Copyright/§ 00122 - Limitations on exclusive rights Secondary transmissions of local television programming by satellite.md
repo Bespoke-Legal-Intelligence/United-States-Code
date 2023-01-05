@@ -36,7 +36,7 @@ Secondary transmission of low power programming.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraphs (B) and (C), a secondary transmission of a performance or display of a work embodied in a primary transmission of a televisionbroadcast station to subscribers who receive secondary transmissions of primary transmissions under paragraph (1) shall be subject to statutory licensing under this paragraph if the secondary transmission is of the primary transmission of a television broadcast station that is licensed as a low power television station, to a subscriber who resides within the same designated market area as the station that originates the transmission.
+In general.—Subject to subparagraphs (B) and (C), a secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station to subscribers who receive secondary transmissions of primary transmissions under paragraph (1) shall be subject to statutory licensing under this paragraph if the secondary transmission is of the primary transmission of a television broadcast station that is licensed as a low power television station, to a subscriber who resides within the same designated market area as the station that originates the transmission.
 
 &emsp;&emsp;(B)
 
@@ -190,7 +190,7 @@ County of license.—In addition to the area described in subparagraph (A), a st
 
 &emsp;&emsp;(C)
 
-Designated market area.—For purposes of subparagraph (A), the term "designated market area" means a designated market area, as determined by Nielsen Media Research and published in the 1999–2000 Nielsen Station Index Directory and Nielsen Station Index United States Television Household Estimates or any successor publication.
+Designated market area.—For purposes of subparagraph (A), the term "designated market area" means a designated market area, as determined by NielsenMedia Research and published in the 1999–2000 Nielsen Station Index Directory and Nielsen Station Index United States Television Household Estimates or any successor publication.
 
 &emsp;&emsp;(D)
 
@@ -264,7 +264,7 @@ Subsec. (j)(1). Pub. L. 111–175, §103(f)(1), substituted "that contracts" for
 
 Subsec. (j)(3). Pub. L. 111–175, §103(f)(4), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (j)(4). Pub. L. 111–175, §103(f)(3), redesignated par. (3) as (4) and inserted "non-network station;" after "Network station;" in heading and " 'non-network station'," after " 'network station'," in text. Former par. (4) redesignated (6).
+Subsec. (j)(4). Pub. L. 111–175, §103(f)(3), redesignated par. (3) as (4) and inserted "non-network station;" after"Network station;" in heading and " 'non-network station'," after " 'network station'," in text. Former par. (4) redesignated (6).
 
 Subsec. (j)(5). Pub. L. 111–175, §103(f)(5), added par. (5). Former par. (5) redesignated (7).
 

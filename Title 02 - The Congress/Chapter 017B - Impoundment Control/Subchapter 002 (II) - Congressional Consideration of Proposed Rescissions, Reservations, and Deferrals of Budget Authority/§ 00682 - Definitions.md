@@ -10,7 +10,7 @@ For purposes of sections 682 to 688 of this title—
 
 &emsp;(2) "Comptroller General" means the Comptroller General of the United States;
 
-&emsp;(3) "rescission bill" means a bill or joint resolution which only rescinds, in whole or in part, budget authority proposed to be rescinded in a special message transmitted by the President under section 683 of this title, and upon which the Congress completes action before the end of the first period of 45 calendar days of continuous session of the Congressafter the date on which the President's message is received by the Congress;
+&emsp;(3) "rescission bill" means a bill or joint resolution which only rescinds, in whole or in part, budget authority proposed to be rescinded in a special message transmitted by the President under section 683 of this title, and upon which the Congress completes action before the end of the first period of 45 calendar days of continuous session of the Congress after the date on which the President's message is received by the Congress;
 
 &emsp;(4) "impoundment resolution" means a resolution of the House of Representatives or the Senate which only expresses its disapproval of a proposed deferral of budget authority set forth in a special message transmitted by the President under section 684 of this title; and
 

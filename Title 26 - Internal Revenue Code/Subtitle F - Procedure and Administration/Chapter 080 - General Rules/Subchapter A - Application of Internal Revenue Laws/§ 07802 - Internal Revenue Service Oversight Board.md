@@ -62,7 +62,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (A) Financial disclosure
 
-&emsp;&emsp;During the entire period that an individual appointed under subparagraph (A) or (D) of paragraph (1) is a member of the Oversight Board, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
+&emsp;&emsp;During the entire period that an individual appointed under subparagraph (A) or (D) of paragraph (1) is a member of the Oversight Board, such individual shall be treated as serving as an officer or employee referred to in section 13103(f) of title 5, United States Code, for purposes of subchapter I of chapter 131 of such title, except that section 13103(d) of such title shall apply without regard to the number of days of service in the position.
 
 #### (B) Restrictions on post-employment
 
@@ -96,7 +96,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (4) Quorum
 
-&emsp;Five members of the Oversight Board shall constitute a quorum. A majority of members present and voting shall be required for the Oversight Board to take action.
+&emsp;Five members of the Oversight Board shall constitute a quorum. A majority of memberspresent and voting shall be required for the Oversight Board to take action.
 
 #### (5) Removal
 
@@ -112,7 +112,7 @@ There is established within the Department of the Treasury the Internal Revenue 
 
 #### (A) In general
 
-&emsp;&emsp;Members of the Oversight Board who are described in subparagraph (A) or (D) of paragraph (1) shall have no personal liability under Federal law with respect to any claimarising out of or resulting from an act or omission by such member within the scope of service as a member.
+&emsp;&emsp;Members of the Oversight Board who are described in subparagraph (A) or (D) of paragraph (1) shall have no personal liability under Federal law with respect to any claim arising out of or resulting from an act or omission by such member within the scope of service as a member.
 
 #### (B) Effect on other law
 
@@ -276,15 +276,13 @@ The Oversight Board shall have the following specific responsibilities:
 
 &emsp;&emsp;Upon a determination by the Oversight Board under subsection (c)(1)(B) that the organization and operation of the Internal Revenue Service are not allowing it to carry out its mission, the Oversight Board shall report such determination to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 93–406, title II, §1051(a), Sept. 2, 1974, 88 Stat. 951; Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §2(f)(2), Sept. 13, 1982, 96 Stat. 1059; Pub. L. 100–647, title VI, §6235(a), Nov. 10, 1988, 102 Stat. 3737; Pub. L. 104–168, title I, §101(a), (b)(2), July 30, 1996, 110 Stat. 1453, 1455; Pub. L. 105–206, title I, §1101(a), July 22, 1998, 112 Stat. 691; Pub. L. 106–554, §1(a)(7) \[title III, §319(27)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 93–406, title II, §1051(a), Sept. 2, 1974, 88 Stat. 951; Pub. L. 94–455, title XIX, §1906(b)(13)(A), (B), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–258, §2(f)(2), Sept. 13, 1982, 96 Stat. 1059; Pub. L. 100–647, title VI, §6235(a), Nov. 10, 1988, 102 Stat. 3737; Pub. L. 104–168, title I, §101(a), (b)(2), July 30, 1996, 110 Stat. 1453, 1455; Pub. L. 105–206, title I, §1101(a), July 22, 1998, 112 Stat. 691; Pub. L. 106–554, §1(a)(7) \[title III, §319(27)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 117–286, §4(c)(34), Dec. 27, 2022, 136 Stat. 4358.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Ethics in Government Act of 1978, referred to in subsec. (b)(3)(A), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3)(A). Pub. L. 117–286 substituted "section 13103(f) of title 5, United States Code, for purposes of subchapter I of chapter 131 of such title, except that section 13103(d) of such title" for "section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act".
 
 <b>2000</b>—Subsec. (b)(2)(B)(ii). Pub. L. 106–554 substituted a comma for semicolon before "and".
 
@@ -308,7 +306,7 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 #### Change of Name
 
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, bySenate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 

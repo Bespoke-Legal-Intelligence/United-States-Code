@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Emergency situation
 
-&emsp;The term "emergency situation" means a situation on National Forest System land forwhich immediate implementation of 1 or more authorized emergency actions is necessary to achieve 1 or more of the following results:
+&emsp;The term "emergency situation" means a situation on National Forest System land for which immediate implementation of 1 or more authorized emergency actions is necessary to achieve 1 or more of the following results:
 
 &emsp;&emsp;(A) Relief from hazards threatening human health and safety.
 

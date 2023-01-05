@@ -18,7 +18,7 @@
 
 &emsp;(A) shall give priority to applicants who will be entering their final year in a course of training;
 
-&emsp;(B) shall give priority to applicants pursuing a course of education or training toward a career in an occupation for which the Inspector General of the Department has, in the mostcurrent determination published in the Federal Register pursuant to section 7412(a) of this title, determined that there is one of the largest staffing shortages throughout the Department with respect to such occupation; and
+&emsp;(B) shall give priority to applicants pursuing a course of education or training toward a career in an occupation for which the Inspector General of the Department has, in the most current determination published in the Federal Register pursuant to section 7412(a) of this title, determined that there is one of the largest staffing shortages throughout the Department with respect to such occupation; and
 
 &emsp;(C) shall ensure an equitable allocation of scholarships to persons enrolled in the second year of a program leading to an associate degree in nursing.
 
@@ -40,7 +40,7 @@
 
 &emsp;(A) The Secretary's agreement to provide the participant with a scholarship under this subchapter for a specified number (from one to four) of school years during which the participant is pursuing a course of education or training described in section 7602 of this title.
 
-&emsp;(B) The participant's agreement to serve as a full-time employee in the Veterans Health Administration for a period of time (hereinafter in this subchapter referred to as the "period of obligated service") of one calendar year for each school year or part thereof for which the participant was provided a scholarship under the Scholarship Program, but for not less than two years.
+&emsp;(B) The participant's agreement to serve as a full-time employee in the Veterans Health Administration for a period of time (hereinafter in this subchapter referred to as the "period of obligated service") of one calendar year for each school year or part thereof for which the participant was provided a scholarshipunder the Scholarship Program, but for not less than two years.
 
 (2) In a case in which an extension is granted under section 7614(3) of this title, the number of years for which a scholarship may be provided under this subchapter shall be the number of school years provided for as a result of the extension.
 

@@ -30,7 +30,7 @@ Considerations.—In issuing regulations under subsection (a) the Secretary shal
 
 Time Limits.—
 
-&emsp;(1) If the Secretary determines that regulations are necessary under subsection (a), the Secretary shall first request that the RailroadSafety Advisory Committee develop proposed regulations and, if the Committee accepts the task, provide the Committee with a reasonable time period in which to complete the task.
+&emsp;(1) If the Secretary determines that regulations are necessary under subsection (a), the Secretary shall first request that the Railroad Safety Advisory Committee develop proposed regulations and, if the Committee accepts the task, provide the Committee with a reasonable time period in which to complete the task.
 
 &emsp;(2) If the Secretary requests that the Railroad Safety Advisory Committee accept the task of developing regulations under subsection (b) and the Committee accepts the task, the Committee shall reach consensus on the rulemaking within 18 months after accepting the task. If the Committee does not reach consensus within 18 months after the Secretary makes the request, the Secretary shall prescribe appropriate regulations within 18 months.
 

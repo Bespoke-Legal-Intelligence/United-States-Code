@@ -32,7 +32,7 @@ Assistance for Foreign Ports, Facilities, and United States Territories.—
 
 &emsp;(1)
 
-In general.—The Secretary, in consultation with the Secretary of Transportation, the Secretary of State, and the Secretary of Energy, shall identify assistance programs that could facilitate implementation of port or facility security antiterrorism measures in foreign countries and territories of the United States. The Secretary shall establish a strategic plan to utilize those assistance programs to assist ports and facilities that are found by the Secretary under subsection (a) not to maintain effective antiterrorism measures in the implementation of port or facility security antiterrorism measures.
+In general.—The Secretary, in consultation with the Secretary of Transportation, the Secretary of State, and the Secretary of Energy, shall identify assistance programs that could facilitate implementation of port or facility security antiterrorism measures in foreign countries and territories of the United States. The Secretary shall establish a strategic plan to utilize those assistance programs to assist ports and facilities that are found by the Secretary under subsection (a) not tomaintain effective antiterrorism measures in the implementation of port or facility security antiterrorism measures.
 
 &emsp;(2)
 
@@ -54,7 +54,7 @@ In general.—The Secretary may lend, lease, donate, or otherwise provide equipm
 
 &emsp;&emsp;(A) to assist in bringing the port or facility into compliance with applicable International Ship and Port Facility Code standards; and
 
-&emsp;&emsp;(B) to assist the port or facility in correcting deficiencies identified in periodicport assessments and reassessments required under section 70108 of this title.
+&emsp;&emsp;(B) to assist the port or facility in correcting deficiencies identified in periodic port assessments and reassessments required under section 70108 of this title.
 
 &emsp;(2)
 

@@ -240,7 +240,7 @@ Final rule.—Not later than 180 days after the date of enactment of this Act, t
 
 #### Rehabilitation of Corps of Engineers Constructed Dams
 
-Pub. L. 114–322, title I, §1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, §1132, Oct. 23, 2018, 132 Stat. 3781; Pub. L. 116–260, div. AA, title III, §305, Dec. 27, 2020, 134 Stat. 2703, provided that:
+Pub. L. 114–322, title I, §1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, §1132, Oct. 23, 2018, 132 Stat. 3781; Pub. L. 116–260, div. AA, title III, §305, Dec. 27, 2020, 134 Stat. 2703; Pub. L. 117–263, div. H, title LXXXI, §8370, Dec. 23, 2022, 136 Stat. 3806, provided that:
 
 "(a)
 
@@ -276,5 +276,9 @@ Cost Limitation.—The Secretary shall not expend more than $60,000,000 for a pr
 
 "(f)
 
-Funding.—There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2017 through 2026."
+Funding.—There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2017 through 2026.
+
+"(g)
+
+Special Rule.—Notwithstanding subsection (c), the non-Federal share of the cost of the project for rehabilitation of Waterbury Dam, Washington County, Vermont, under this section, including the cost of any required study, shall be the same share assigned to thenon-Federal interest for the cost of initial construction of the Waterbury Dam."
 

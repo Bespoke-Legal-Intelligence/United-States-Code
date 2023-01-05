@@ -10,7 +10,7 @@
 
 #### Pilot Program on Dynamic Shaping of the Workforce To Improve the Technical Skills and Expertise at Certain Department of Defense Laboratories
 
-Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as amended by Pub. L. 115–232, div. A, title XI, §1112(b), Aug. 13, 2018, 132 Stat. 2012; Pub. L. 117–81, div. A, title II, §215(d)(3), Dec. 27, 2021, 135 Stat. 1593, provided that:
+Pub. L. 114–92, div. A, title XI, §1109, Nov. 25, 2015, 129 Stat. 1028, as amended by Pub. L. 115–232, div. A, title XI, §1112(b), Aug. 13, 2018, 132 Stat. 2012; Pub. L. 117–81, div. A, title II, §215(d)(3), Dec. 27, 2021, 135 Stat. 1593; Pub. L. 117–263, div. A, title XI, §1110, Dec. 23, 2022, 136 Stat. 2820, provided that:
 
 "(a)
 
@@ -48,14 +48,6 @@ Benefits.—Personnel appointed under this paragraph shall be provided with bene
 
 Extension of appointments.—The appointment of any individual under this paragraph may be extended without limit in up to six year increments at any time during any term of service under such conditions as the director concerned shall establish for purposes of this paragraph.
 
-&emsp;&emsp;"(D)
-
-Construction with certain limitation.—For purposes of determining the workforce size of a laboratory in connection with compliance with section 955 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 1896; 10 U.S.C. 129a note), any individual serving in an appointment under this paragraph shall be treated as a fractional employee of the laboratory, which fraction is—
-
-&emsp;&emsp;&emsp;"(i) the current term of appointment of the individual under this paragraph; divided by
-
-&emsp;&emsp;&emsp;"(ii) the average length of tenure of a career employee at the laboratory, as calculated at the end of the last fiscal year ending before the date of the most recent appointment or extension of the individual under this paragraph.
-
 &emsp;"(2)
 
 Reemployment of annuitants.—Authorities to authorize the director of any science and technology reinvention laboratory (in this section referred to as 'STRL') to reemploy annuitants in accordance with section 9902(g) of title 5, United States Code, except that as a condition for reemployment the director may authorize the deduction from the pay of any annuitant so reemployed of an amount up to the amount of the annuity otherwise payable to such annuitant allocable to the period of actual employment of such annuitant, which amount shall be determined in a manner specified by the director for purposes of this paragraph to ensure the most cost effective execution of designated missions by the laboratory while retaining critical technical skills.
@@ -86,7 +78,7 @@ Expiration.—
 
 &emsp;"(1)
 
-In general.—The authority in this section shall expire on December 31, 2023.
+In general.—The authority in this section shall expire on December 31, 2027.
 
 &emsp;"(2)
 
@@ -94,7 +86,7 @@ Continuation of authorities exercised before termination.—The expiration in pa
 
 #### Pilot Program on Assignment to Defense Advanced Research Projects Agency of Private Sector Personnel With Critical Research and Development Expertise
 
-Pub. L. 113–291, div. A, title II, §232, Dec. 19, 2014, 128 Stat. 3332, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(1), Dec. 12, 2017, 131 Stat. 1566, provided that:
+Pub. L. 113–291, div. A, title II, §232, Dec. 19, 2014, 128 Stat. 3332, as amended by Pub. L. 115–91, div. A, title X, §1051(t)(1), Dec. 12, 2017, 131 Stat. 1566; Pub. L. 117–286, §4(c)(20), Dec. 27, 2022, 136 Stat. 4356, provided that:
 
 "(a)
 
@@ -132,7 +124,7 @@ Application of certain provisions of law.—
 
 &emsp;&emsp;&emsp;"(iv) Chapter 171 of title 28, United States Code (commonly known as the 'Federal Tort Claims Act'), and any other Federal tort liability statute.
 
-&emsp;&emsp;&emsp;"(v) The Ethics in Government Act of 1978 (5 U.S.C. App.).
+&emsp;&emsp;&emsp;"(v) Chapter 131 of title 5, United States Code.
 
 &emsp;&emsp;&emsp;"(vi) Section 1043 of the Internal Revenue Code of 1986 \[26 U.S.C. 1043\].
 
@@ -194,4 +186,5 @@ Definitions.—In this section:
 - [&sect; 04091 - Authorities for certain positions at science and technology reinvention laboratories](%C2%A7%2004091%20-%20Authorities%20for%20certain%20positions%20at%20science%20and%20technology%20reinvention%20laboratories.md)
 - [&sect; 04092 - Personnel management authority to attract experts in science and engineering](%C2%A7%2004092%20-%20Personnel%20management%20authority%20to%20attract%20experts%20in%20science%20and%20engineering.md)
 - [&sect; 04093 - Science, Mathematics, and Research for Transformation (SMART) Defense Education Program](%C2%A7%2004093%20-%20Science%2C%20Mathematics%2C%20and%20Research%20for%20Transformation%20%28SMART%29%20Defense%20Education%20Program.md)
-- [&sect; 04094 - Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories](%C2%A7%2004094%20-%20Enhanced%20pay%20authority%20for%20certain%20research%20and%20technology%20positions%20in%20science%20and%20technology%20reinvention%20laboratories.md)
+- [&sect; 04094 - 1 Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories](%C2%A7%2004094%20-%201%20Enhanced%20pay%20authority%20for%20certain%20research%20and%20technology%20positions%20in%20science%20and%20technology%20reinvention%20laboratories.md)
+- [&sect; 04094 - 1 Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories (10\_4094)](%C2%A7%2004094%20-%201%20Enhanced%20pay%20authority%20for%20certain%20research%20and%20technology%20positions%20in%20science%20and%20technology%20reinvention%20laboratories%20%2810_4094%29.md)

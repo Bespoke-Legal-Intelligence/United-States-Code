@@ -54,7 +54,7 @@ No Increase in Liability.—The amendments made by this section \[amending secti
 
 "(d)
 
-Special Rule for Certain Binding Agreements.—In the case of an employer who, on September26, 1980, has a binding agreement to withdraw from a multiemployer plan, subsection (a)(1) shall be applied by substituting 'December 31, 1980' for 'September 26, 1980'."
+Special Rule for Certain Binding Agreements.—In the case of an employer who, on September 26, 1980, has a binding agreement to withdraw from a multiemployer plan, subsection (a)(1) shall be applied by substituting 'December 31, 1980' for 'September 26, 1980'."
 
 #### Applicability to Certain Employers Withdrawn Before Sept. 26, 1980, From Multiemployer Plan Covering Employees in Seagoing Industry; Effective Date, Coverage, Etc.
 

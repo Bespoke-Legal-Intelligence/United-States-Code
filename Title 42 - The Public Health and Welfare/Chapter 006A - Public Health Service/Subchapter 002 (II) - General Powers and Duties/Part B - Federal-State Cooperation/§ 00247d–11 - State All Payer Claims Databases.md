@@ -46,7 +46,7 @@ Grants awarded under this section shall be for a period of 3-years,<sup>2</sup> 
 
 #### (C) Non-customized reports
 
-&emsp;&emsp;A State All Payer Claims Database that has received a grant under this section shall make available to all authorized users aggregate data sets available through the State All Payer Claims Database, free of charge.
+&emsp;&emsp;A State All Payer Claims Database that has received a grant under this section shallmake available to all authorized users aggregate data sets available through the State All Payer Claims Database, free of charge.
 
 #### (3) Waivers
 

@@ -36,7 +36,7 @@ EPA Health Advisories.—
 
 &emsp;(1)
 
-Preparation.—At the request of the Secretary of Defense, the Administrator shall, ina timely manner, prepare health advisories on hazardous substances. Such an advisory shall be prepared on each hazardous substance—
+Preparation.—At the request of the Secretary of Defense, the Administrator shall, in a timely manner, prepare health advisories on hazardous substances. Such an advisory shall be prepared on each hazardous substance—
 
 &emsp;&emsp;(A) for which no advisory exists;
 
@@ -50,7 +50,7 @@ Content of health advisories.—Such health advisories shall provide specific ad
 
 &emsp;(3)
 
-DOD support for health advisories.—The Secretary of Defense shall transfer to the Administrator such toxicological data, such sums from amounts appropriated to the Department of Defense, and such personnel of the Department of Defense as may be necessary for the preparation of such health advisories. The Secretary and the Administrator shall enter into a memorandum of understanding regarding the manner in which this subsection shall be carried out, including the manner for transferring funds and personnel and for coordination of activities under this subsection.
+DOD support for health advisories.—The Secretary of Defense shall transfer to theAdministrator such toxicological data, such sums from amounts appropriated to the Department of Defense, and such personnel of the Department of Defense as may be necessary for the preparation of such health advisories. The Secretary and the Administrator shall enter into a memorandum of understanding regarding the manner in which this subsection shall be carried out, including the manner for transferring funds and personnel and for coordination of activities under this subsection.
 
 (e)
 

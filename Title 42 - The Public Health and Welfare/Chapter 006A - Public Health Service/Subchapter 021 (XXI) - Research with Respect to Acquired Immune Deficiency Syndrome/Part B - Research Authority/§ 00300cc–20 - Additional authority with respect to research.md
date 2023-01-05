@@ -10,7 +10,7 @@
 
 (4) In carrying out this subsection, the Secretary shall, for the purpose of assuring the utility of data collected under this section, request entities with expertise in the methodologies of data collection to provide, as soon as is practicable, assistance to the Secretary and to the States with respect to the development and utilization of uniform methodologies of data collection.
 
-(5) The Secretary shall provide for the dissemination of data collected pursuant to this subsection. In carrying out this paragraph, the Secretary may publish such data as frequently as the Secretary determines to be appropriate with respect to the protection of the public health. The Secretary shall publish such data not less than once each year.
+(5) The Secretary shall provide for the dissemination of data collected pursuant to this subsection. In carrying out this paragraph, the Secretary may publish such data as frequently as the Secretary determines to be appropriate with respect to the protection of the publichealth. The Secretary shall publish such data not less than once each year.
 
 #### (b) Epidemiological and demographic data
 

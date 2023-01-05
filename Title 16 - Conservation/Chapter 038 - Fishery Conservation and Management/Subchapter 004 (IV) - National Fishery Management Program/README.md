@@ -21,7 +21,7 @@
 - [&sect; 01861b - Fisheries enforcement plans and reporting](%C2%A7%2001861b%20-%20Fisheries%20enforcement%20plans%20and%20reporting.md)
 - [&sect; 01862 - North Pacific fisheries conservation](%C2%A7%2001862%20-%20North%20Pacific%20fisheries%20conservation.md)
 - [&sect; 01863 - Northwest Atlantic Ocean Fisheries Reinvestment Program](%C2%A7%2001863%20-%20Northwest%20Atlantic%20Ocean%20Fisheries%20Reinvestment%20Program.md)
-- [&sect; 01864 - Regional coastal disaster assistance, transition, and recovery program](%C2%A7%2001864%20-%20Regional%20coastal%20disaster%20assistance%2C%20transition%2C%20and%20recovery%20program.md)
+- [&sect; 01864 - Repealed. Pub. L. 117&#8211;328, div. S, title II, &sect;203(a), Dec. 29, 2022, 136 Stat. 5269](%C2%A7%2001864%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93328%2C%20div.%20S%2C%20title%20II%2C%20%C2%A7203%28a%29%2C%20Dec.%2029%2C%202022%2C%20136%20Stat.%205269.md)
 - [&sect; 01865 - Bycatch reduction engineering program](%C2%A7%2001865%20-%20Bycatch%20reduction%20engineering%20program.md)
 - [&sect; 01866 - Shark feeding](%C2%A7%2001866%20-%20Shark%20feeding.md)
 - [&sect; 01867 - Cooperative research and management program](%C2%A7%2001867%20-%20Cooperative%20research%20and%20management%20program.md)

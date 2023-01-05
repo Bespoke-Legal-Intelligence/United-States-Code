@@ -28,7 +28,7 @@
 
 (4) Notwithstanding section 524(c) of title 28, there shall be deposited in the Crime Victims Fund in the Treasury all amounts from the forfeiture of property under this subsection remaining after the payment of expenses for forfeiture and sale authorized by law.
 
-(June 25, 1948, ch. 645, 62 Stat. 737; Sept. 3, 1954, ch. 1261, title II, §201, 68 Stat. 1219; Pub. L. 99–399, title XIII, §1306(b), Aug. 27, 1986, 100 Stat. 898; Pub. L. 100–690, title VII, §7064, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 103–322, title VI, §60003(a)(2), Sept. 13, 1994, 108 Stat. 1968; Pub. L. 103–359, title VIII, §804(b)(2), Oct. 14, 1994, 108 Stat. 3440; Pub. L. 104–294, title VI, §§604(b)(2), 607(b), Oct. 11, 1996, 110 Stat. 3506, 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 737; Sept. 3, 1954, ch. 1261, title II, §201, 68 Stat. 1219; Pub. L. 99–399, title XIII, §1306(b), Aug. 27, 1986, 100 Stat. 898; Pub. L. 100–690, title VII, §7064, Nov. 18, 1988,102 Stat. 4404; Pub. L. 103–322, title VI, §60003(a)(2), Sept. 13, 1994, 108 Stat. 1968; Pub. L. 103–359, title VIII, §804(b)(2), Oct. 14, 1994, 108 Stat. 3440; Pub. L. 104–294, title VI, §§604(b)(2), 607(b), Oct. 11, 1996, 110 Stat. 3506, 3511.)
 
 #### Historical and Revision Notes
 

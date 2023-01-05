@@ -66,7 +66,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;&emsp;(I) an obligation of the Maine Educational Loan Marketing Corporation to the Student Loan Marketing Association pursuant to an agreement entered into on January 31, 1984; or
 
-&emsp;&emsp;(II) an obligation of the South Carolina Student Loan Corporation to the SouthCarolina National Bank pursuant to an agreement entered into on July 30, 1986.
+&emsp;&emsp;(II) an obligation of the South Carolina Student Loan Corporation to the South Carolina National Bank pursuant to an agreement entered into on July 30, 1986.
 
 &emsp;(E) In the case of any loan for which the applicable rate of interest is described in section 1077a(g)(2) of this title, subparagraph (A)(iii) shall be applied by substituting "2.5 percent" for "3.10 percent".
 
@@ -102,7 +102,7 @@ Consolidation loans.—This subparagraph shall not apply in the case of any cons
 
 &emsp;&emsp;(v)
 
-Limitation on special allowances for PLUS loans.—In the case of PLUS loans made under section 1078–2 of this title and disbursed on or after July 1, 1998, and before October 1, 1998, for which the interest rate is determined under 1077a(j)(3) of this title, a special allowance shall not be paid for such loan for such <sup>2</sup> unless the rate determined under subparagraph (A) of such section (without regard to subparagraph (B) of such section) exceeds 9.0 percent.
+Limitation on special allowances for PLUS loans.—In the case of PLUS loans made under section 1078–2 of this title and disbursed on or after July 1, 1998, and before October 1, 1998, for which the interest rate is determined under 1077a(j)(3) of this title, a special allowance shall not be paid for suchloan for such <sup>2</sup> unless the rate determined under subparagraph (A) of such section (without regard to subparagraph (B) of such section) exceeds 9.0 percent.
 
 &emsp;(H)
 
@@ -180,7 +180,7 @@ In school and grace period.—In the case of any loan—
 
 &emsp;&emsp;(iii)
 
-PLUS loans.—In the case of any loan for which the first disbursement is made on or after January 1, 2000, and before July 1, 2010, and for which the applicable rate of interest is described in section 1077a(k)(3) or (l)(2) of this title, clause (i)(III) of this subparagraph shall be applied by substituting "2.64 percent" for "2.34 percent".
+PLUS loans.—In the case of any loan for which the first disbursement is made on or after January 1, 2000, and before July 1,2010, and for which the applicable rate of interest is described in section 1077a(k)(3) or (l)(2) of this title, clause (i)(III) of this subparagraph shall be applied by substituting "2.64 percent" for "2.34 percent".
 
 &emsp;&emsp;(iv)
 
@@ -266,6 +266,48 @@ Exceptions.—Any waiver pursuant to subclause (II) that is elected for loans de
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(BB) such lender or beneficial owner presented the proposal of electing such a waiver applicable to such loans associated with an obligation rated by a nationally recognized statistical rating organization (as defined in section 78c(a)(62) of title 15), and such rating organization provided a written opinion that the agency would downgrade the rating applicable to such obligation if the lender or owner elected such a waiver.
 
+&emsp;&emsp;(viii)
+
+Revised calculation rule to address instances where 1-month usd libor ceases or is non-representative.—
+
+&emsp;&emsp;&emsp;(I)
+
+Substitute reference index.—The provisions of this clause apply to loans for which the special allowance payment would otherwise be calculated pursuant to clause (vii).
+
+&emsp;&emsp;&emsp;(II)
+
+Calculation based on sofr.—For loans described in subclause (III) or (IV), the special allowance payment described in this subclause shall be substituted for the payment provided under clause (vii). For each calendar quarter, the formula for computing the special allowance that would otherwise apply under clause (vii) shall be revised by substituting "of the quotes of the 30-day Average Secured Overnight Financing Rate (SOFR) in effect for each of the days in such quarter as published by the Federal Reserve Bank of New York (or a successor administrator), adjusted daily by adding the tenor spread adjustment, as that term is defined in the Adjustable Interest Rate (LIBOR) Act, for 1-month LIBOR contracts of 0.11448 percent" for "of the 1-month London Inter Bank Offered Rate (LIBOR) for United States dollars in effect for each of the days in such quarter as compiled and released by the British Bankers Association". The special allowance calculation for loans subject to clause (vii) shall otherwise remain in effect.
+
+&emsp;&emsp;&emsp;(III)
+
+Loans eligible for sofr-based calculation.—Except as provided in subclause (IV), the special allowance payment calculated under subclause (II) shall apply to all loans for which the holder (or, if the holder acts as an eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan) at any time after the effective date of this clause notifies the Secretary that the holder or beneficial owner affirmatively and permanently elects to waive all contractual, statutory, or other legal rights to a special allowance paid under clause (vii) or to the special allowance paid pursuant to any other formula that was previously in effect with respect to such loan, and accepts the rate described in subclause (II). Any such waiver shall apply to all loans then held, or to be held from time to time, by such holder or beneficial owner; provided that, due to the need to obtain the approval of, demonstrated to the satisfaction of the Secretary—
+
+&emsp;&emsp;&emsp;&emsp;(aa) one or more third parties with a legal or beneficial interest in loans eligible for the SOFR-based calculation; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) a nationally recognized rating organization assigning a rating to a financing secured by loans otherwise eligible for the SOFR-based calculation,
+
+&emsp;&emsp;&nbsp;the holder of the loan (or, if the holder acts as an eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan) may elect to apply the rate described in subclause (II) to specified loan portfolios established for financing purposes by separate notices with different effective dates. The special allowance rate based on SOFR shall be effective with respect to a portfolio as of the first day of the calendar quarter following the applicable effective date of the waiver received by the Secretary from the holder or beneficial owner and shall permanently and irrevocably continue for all subsequent quarters.
+
+&emsp;&emsp;&emsp;(IV)
+
+Fallback provisions.—
+
+&emsp;&emsp;&emsp;&emsp;(aa) In the event that a holder or beneficial owner has not elected to waive its rights to a special allowance payment under clause (vii) with respect to a portfolio with an effective date of the waiver prior to the first of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the date on which the ICE Benchmark Administration ("IBA") has permanently or indefinitely stopped providing the 1-month UnitedStates Dollar LIBOR ("1-month USD LIBOR") to the general public;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the effective date of an official public statement by the IBA or its regulator that the 1-month USD LIBOR is no longer reliable or no longer representative; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(CC) the LIBOR replacement date, as defined in section 5802 of title 12,
+
+> &emsp;&emsp;&emsp;&emsp;the special allowance rate calculation as described in subclause (II) shall, by operation of law, apply to all loans in such portfolio.
+
+&emsp;&emsp;&emsp;&emsp;(bb) In such event—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the last determined rate of special allowance based on 1-month USD LIBOR will continue to apply until the end of the then current calendar quarter; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the special allowance rate calculation as described in subclause (II) shall become effective as of the first day of the following calendar quarter and remain in effect for all subsequent calendar quarters.
+
 #### (3) Contractual right of holders to special allowance
 
 &emsp;The holder of an eligible loan shall be deemed to have a contractual right against the United States, during the life of such loan, to receive the special allowance according to the provisions of this section. The special allowance determined for any such 3-month period shall be paid promptly after the close of such period, and without administrative delay after receipt of an accurate and complete request for payment, pursuant to procedures established by regulations promulgated under this section.
@@ -314,7 +356,7 @@ Exceptions.—Any waiver pursuant to subclause (II) that is elected for loans de
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraph (6) of this subsection, with respect to any loan (including loans made under section 1078–8 of this title, but excluding loans made under sections 1078–3 and 1087–2(o) of this title) for which a completed note or other written evidence of the loan was sent or delivered to the borrower for signing on or after 10 days after August 13, 1981, each eligible lender under this part is authorized to charge the borrower an origination fee in an amount not to exceed 3.0 percent of the principal amount of the loan, to be deducted proportionately from each installment payment of the proceeds of the loan prior to payment to the borrower. Except as provided in paragraph (8), a lender that charges an origination fee under this paragraph shall assess the same fee to all student borrowers.
+&emsp;&emsp;Subject to paragraph (6) of this subsection, with respect to any loan (including loansmade under section 1078–8 of this title, but excluding loans made under sections 1078–3 and 1087–2(o) of this title) for which a completed note or other written evidence of the loan was sent or delivered to the borrower for signing on or after 10 days after August 13, 1981, each eligible lender under this part is authorized to charge the borrower an origination fee in an amount not to exceed 3.0 percent of the principal amount of the loan, to be deducted proportionately from each installment payment of the proceeds of the loan prior to payment to the borrower. Except as provided in paragraph (8), a lender that charges an origination fee under this paragraph shall assess the same fee to all student borrowers.
 
 #### (B) Subsequent reductions
 
@@ -378,7 +420,7 @@ Exceptions.—Any waiver pursuant to subclause (II) that is elected for loans de
 
 &emsp;&emsp;(A) except as provided in subparagraph (B), 0.50 percent of the principal amount of the loan with respect to any loan under this part for which the first disbursement was made on or after October 1, 1993; and
 
-&emsp;&emsp;(B) 1.0 percent of the principal amount of the loan with respect to any loan under this part for which the first disbursement was made on or after October 1, 2007, and before July 1, 2010.
+&emsp;&emsp;(B) 1.0 percent of the principal amount of the loan with respect to any loan under this part for which the first disbursement wasmade on or after October 1, 2007, and before July 1, 2010.
 
 #### (3) Distribution of loan fees
 
@@ -396,7 +438,7 @@ The Secretary shall adopt or amend appropriate regulations pertaining to program
 
 With respect to any loan made under this part for which the interest rate is determined under the Servicemembers Civil Relief Act (50 U.S.C. App. 527) \[now 50 U.S.C. 3937\],<sup>1</sup> the applicable interest rate to be subtracted in calculating the special allowance for such loan under this section shall be the interest rate determined under that Act for such loan.
 
-(Pub. L. 89–329, title IV, §438, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 100–50, §10(d)(2), (bb), (cc), June 3, 1987, 101 Stat. 342, 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325,title IV, §430, July 23, 1992, 106 Stat. 553; Pub. L. 103–66, title IV, §§4102(a), 4103, 4105, 4111, Aug. 10, 1993, 107 Stat. 366, 367, 368, 370; Pub. L. 105–178, title VIII, §8301(b), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(b)(1), (3), 433(a)–(d)(1), Oct. 7, 1998, 112 Stat. 1680, 1682, 1710, 1711; Pub. L. 106–170, title IV, §409(a), Dec. 17, 1999, 113 Stat. 1914; Pub. L. 107–139, §2, Feb. 8, 2002, 116 Stat. 10; Pub. L. 108–409, §2, Oct. 30, 2004, 118 Stat. 2299; Pub. L. 109–150, §2(b), (c)(2), Dec. 30, 2005, 119 Stat. 2884; Pub. L. 109–171, title VIII, §§8006(b)(1), 8008(c)(1), 8013(a)–(c)(1), (d)(1), Feb. 8, 2006, 120 Stat. 159, 162, 166, 167; Pub. L. 110–84, title II, §201(a)(2), title III, §§302(b)(2), 305, Sept. 27, 2007, 121 Stat. 791, 796, 799; Pub. L. 110–315, title IV, §422(g)(2), Aug. 14, 2008, 122 Stat. 3230; Pub. L. 111–39, title IV, §402(f)(11), July 1, 2009, 123 Stat. 1945; Pub. L. 111–152, title II, §2208, Mar. 30, 2010, 124 Stat. 1077; Pub. L. 112–74, div. F, title III, §309(e), Dec. 23, 2011, 125 Stat. 1101.)
+(Pub. L. 89–329, title IV, §438, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 100–50, §10(d)(2), (bb), (cc), June 3, 1987, 101 Stat. 342, 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §430, July 23, 1992, 106 Stat. 553; Pub. L. 103–66, title IV, §§4102(a), 4103, 4105, 4111, Aug. 10, 1993, 107 Stat. 366, 367, 368, 370; Pub. L. 105–178, title VIII, §8301(b), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(b)(1), (3), 433(a)–(d)(1), Oct. 7, 1998, 112 Stat. 1680, 1682, 1710, 1711; Pub. L. 106–170, title IV, §409(a), Dec. 17, 1999, 113 Stat. 1914; Pub. L. 107–139, §2, Feb. 8, 2002, 116 Stat. 10; Pub. L. 108–409, §2, Oct. 30, 2004, 118 Stat. 2299; Pub. L. 109–150, §2(b), (c)(2), Dec. 30, 2005, 119 Stat. 2884; Pub. L. 109–171, title VIII, §§8006(b)(1), 8008(c)(1), 8013(a)–(c)(1), (d)(1), Feb. 8, 2006, 120 Stat. 159, 162, 166, 167; Pub. L. 110–84, title II, §201(a)(2), title III, §§302(b)(2), 305, Sept. 27, 2007, 121 Stat. 791, 796, 799; Pub. L. 110–315, title IV, §422(g)(2), Aug. 14, 2008, 122 Stat. 3230; Pub. L. 111–39, title IV, §402(f)(11), July 1, 2009, 123 Stat. 1945; Pub. L. 111–152, title II, §2208, Mar. 30, 2010, 124 Stat. 1077; Pub. L. 112–74, div. F, title III, §309(e), Dec. 23, 2011, 125 Stat. 1101; Pub. L. 117–103, div. U, §109, Mar. 15, 2022, 136 Stat. 832.)
 
 #### <b>Editorial Notes</b>
 
@@ -405,6 +447,8 @@ With respect to any loan made under this part for which the interest rate is det
 Section 1078–1 of this title, referred to in subsecs. (b)(2)(C), (5)(A)(ii) and (c)(6), (7), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 The date of enactment of this section, referred to in subsec. (b)(2)(I)(vii)(III)(bb)(AA), probably means the date of enactment of Pub. L. 112–74, which enacted subsec. (b)(2)(I)(vii) and was approved Dec. 23, 2011.
+
+The Adjustable Interest Rate (LIBOR) Act, referred to in subsec. (b)(2)(I)(viii)(II), is div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, which is classified principally to chapter 55 (§5801 et seq.) of Title 12, Banks and Banking. The term "tenor spread adjustment" is defined in section 5802 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 12 and Tables.
 
 The Servicemembers Civil Relief Act, referred to in subsec. (g), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§3901 et seq.) of Title 50. The parenthetical reference to "(50 U.S.C. App. 527)" relates to section 207 of the Act, which is now classified to section 3937 of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -415,6 +459,8 @@ A prior section 1087–1, Pub. L. 89–329, title IV, §438, as added Pub. L. 92
 A prior section 1087–1a, Pub. L. 96–374, title IV, §420(b), Oct. 3, 1980, 94 Stat. 1427, related to eligibility for special allowances covering loans made or purchased with funds obtained from Authorities issuing tax exempt obligations, and established requirement relating to plans for doing business, prior to repeal by Pub. L. 98–79, §7(b), Aug. 15, 1983, 97 Stat. 483.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(2)(I)(viii). Pub. L. 117–103 added cl. (viii).
 
 <b>2011</b>—Subsec. (b)(2)(I)(i)(II). Pub. L. 112–74, §309(e)(2)(A), substituted "the rate determined under subclause (I) (in accordance with clause (vii))" for "such average bond equivalent rate".
 
@@ -618,7 +664,7 @@ Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provi
 
 Pub. L. 109–171, title VIII, §8006(b)(2), Feb. 8, 2006, 120 Stat. 160, provided that: "The amendments made by this subsection \[amending this section\] shall not apply with respect to any special allowance payment made under section 438 of the Higher Education Act of 1965 (20 U.S.C. 1087–1) before April 1, 2006."
 
-Pub. L. 109–171, title VIII, §8013(c)(3), Feb. 8, 2006, 120 Stat. 167, provided that: "The amendment made by paragraph (1) \[amending this section\] shall be effective as if enacted on October 30, 2004, and the amendment made by paragraph (2) \[amending provisions set out as a note under section 1078–10 of this title\] shall be effective as if enacted on October 1, 2005."
+Pub. L. 109–171, title VIII, §8013(c)(3), Feb. 8, 2006, 120 Stat. 167, provided that: "The amendment made byparagraph (1) \[amending this section\] shall be effective as if enacted on October 30, 2004, and the amendment made by paragraph (2) \[amending provisions set out as a note under section 1078–10 of this title\] shall be effective as if enacted on October 1, 2005."
 
 Pub. L. 109–171, title VIII, §8013(d)(2), Feb. 8, 2006, 120 Stat. 167, provided that: "The amendments made by subsections (a) and (c) of this section \[amending this section and provisions set out as a note under section 1078–10 of this title\] shall be effective as if the amendments made in subsections (b) and (c) of section 2 of the Second Higher Education Extension Act of 2005 \[Pub. L. 109–150, amending this section and provisions set out as a note under section 1078–10 of this title\] had not been enacted."
 

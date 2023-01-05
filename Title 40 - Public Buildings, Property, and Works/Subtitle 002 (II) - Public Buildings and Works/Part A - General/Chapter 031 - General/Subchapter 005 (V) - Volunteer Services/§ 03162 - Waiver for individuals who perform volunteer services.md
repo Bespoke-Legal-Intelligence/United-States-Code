@@ -18,7 +18,7 @@ Criteria for Receiving Waiver.—The requirement that certain laborers and mecha
 
 &emsp;(3) who is not employed by and does not provide services to a contractor or subcontractor at any time on the federally assisted or insured project for which the individual is volunteering; and
 
-&emsp;(4) who otherwise is not employed by the same public agency or recipient of federal assistance to perform the same type of services as those for which the individual proposes to volunteer.
+&emsp;(4) who otherwise is not employed by the same public agency or recipient of federal assistance to perform the same type of servicesas those for which the individual proposes to volunteer.
 
 (b)
 
@@ -30,7 +30,7 @@ In accordance with regulations.—Volunteers described in subsection (a) who are
 
 &emsp;(2)
 
-Criteria and content of regulations.—In prescribing the regulations, the Secretaryshall consider criteria such as the total amount of payments made (relating to expenses, benefits, or fees) in the context of the economic realities. The regulations shall include provisions that provide that—
+Criteria and content of regulations.—In prescribing the regulations, the Secretary shall consider criteria such as the total amount of payments made (relating to expenses, benefits, or fees) in the context of the economic realities. The regulations shall include provisions that provide that—
 
 &emsp;&emsp;(A) a payment for an expense may be received by a volunteer for items such as uniform allowances, protective gear and clothing, reimbursement for approximate out-of-pocket expenses, or the cost or expense of meals and transportation;
 
@@ -92,9 +92,9 @@ In subsection (b)(1), the words "Volunteers who are performing services directly
 
 The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (a), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (a), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (a), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (a), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -84,9 +84,9 @@ The National Council on the Arts and the National Council on the Humanities, res
 
 &emsp;(B) prohibit the recipient of such financial assistance to use the name of, or in any way associate such project, production, or program with the Endowment that provided such financial assistance; and
 
-&emsp;(C) if such project, production, or program is published, require that the publication contain the following statement: "The opinions, findings, conclusions, and recommendations expressed herein do not reflect the views of the National Endowment for the Arts or the National Endowment for the Humanities."
+&emsp;(C) if such project, production, or program is published, require that the publication contain the following statement: "The opinions,findings, conclusions, and recommendations expressed herein do not reflect the views of the National Endowment for the Arts or the National Endowment for the Humanities."
 
-(Pub. L. 89–209, §10, Sept. 29, 1965, 79 Stat. 852; Pub. L. 90–348, §5, June 18, 1968, 82 Stat. 186; Pub. L. 91–346, §§5(a)(3), 10, 11, July 20, 1970, 84 Stat. 443, 446; Pub. L. 93–133, §2(a)(9), (10), Oct. 19, 1973, 87 Stat. 465; Pub. L. 96–496, title I, §107, Dec. 4, 1980, 94 Stat. 2588; renumbered title I, §10, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §10 and amended Pub. L. 99–194, title I, §§101(1), 110, Dec. 20, 1985, 99 Stat. 1332, 1339; Pub.L. 101–512, title III, §318 \[title I, §109\], Nov. 5, 1990, 104 Stat. 1960, 1970.)
+(Pub. L. 89–209, §10, Sept. 29, 1965, 79 Stat. 852; Pub. L. 90–348, §5, June 18, 1968, 82 Stat. 186; Pub. L. 91–346, §§5(a)(3), 10, 11, July 20, 1970, 84 Stat. 443, 446; Pub. L. 93–133, §2(a)(9), (10), Oct. 19, 1973, 87 Stat. 465; Pub. L. 96–496, title I, §107, Dec. 4, 1980, 94 Stat. 2588; renumbered title I, §10, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §10 and amended Pub. L. 99–194, title I, §§101(1), 110, Dec. 20, 1985, 99 Stat. 1332, 1339; Pub. L. 101–512, title III, §318 \[title I, §109\], Nov. 5, 1990, 104 Stat. 1960, 1970.)
 
 #### <b>Editorial Notes</b>
 
@@ -134,7 +134,7 @@ Subsec. (a)(3) to (5). Pub. L. 91–346, §11(1)–(3), inserted "to" at beginni
 
 Subsec. (a)(6) to (8). Pub. L. 91–346, §§10, 11(4), (5), redesignated cls. (6) and (7), and all references thereto, as cls. (7) and (8), added new cl. (6), and inserted "to" at beginning of cls. (7) and (8).
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–348 combined provisions of cls. (2) and (3) into cl. (2), and, in cl. (2) as thus combined, extended the area for the exercise of discretion of the Chairman of an Endowment, after receiving the recommendation of the National Council of that Endowment, in the disposition of gifts to include both gifts made with condition and gifts made without condition, redesignated cls. (4) to (8) as (3) to (7), and in provisions following cl. (7), struck out references to cls. (2) and (3) wherever appearing.
+<b>1968</b>—Subsec. (a). Pub. L. 90–348 combined provisions of cls. (2) and (3) into cl. (2), and, in cl. (2) as thus combined, extended the area for the exercise of discretionof the Chairman of an Endowment, after receiving the recommendation of the National Council of that Endowment, in the disposition of gifts to include both gifts made with condition and gifts made without condition, redesignated cls. (4) to (8) as (3) to (7), and in provisions following cl. (7), struck out references to cls. (2) and (3) wherever appearing.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -62,7 +62,7 @@ In this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administration shall award 80 percent of funds authorized to carry out this subsection to small business developmentcenters, which shall be awarded pursuant to a formula jointly developed, negotiated, and agreed upon, with full participation of both parties, between the association formed under section 648(a)(3)(A) of this title and the Administration.
+&emsp;&emsp;&emsp;The Administration shall award 80 percent of funds authorized to carry out this subsection to small business development centers, which shall be awarded pursuant to a formula jointly developed, negotiated, and agreed upon, with full participation of both parties, between the association formed under section 648(a)(3)(A) of this title and the Administration.
 
 #### (ii) Clarification of use
 

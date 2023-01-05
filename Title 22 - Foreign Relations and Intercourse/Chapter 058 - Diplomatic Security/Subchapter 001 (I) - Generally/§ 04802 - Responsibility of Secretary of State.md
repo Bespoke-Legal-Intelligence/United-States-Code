@@ -96,7 +96,7 @@ As used in this subchapter and subchapter III, the term "Federal agency" include
 
 Section 2708 of this title, referred to in subsec. (a)(2)(B)(xi), was amended generally by Pub. L. 105–323, title I, §101, Oct. 30, 1998, 112 Stat. 3029, and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 8 of part II of the Act is classified generally to part VIII (§2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of part II of the Act is classified generally to part VIII (§2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 #### Overseas Security Briefings
 
-Pub. L. 117–81, div. E, title LII, §5210, Dec. 27, 2021, 135 Stat. 2358, provided that: "Not later than one year afterthe date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of State shall revise the Foreign Affairs Manual to stipulate that information on the current threat environment shall be provided to all United States Government employees under chief of mission authority traveling to a foreign country on official business. To the extent practicable, such material shall be provided to such employees prior to their arrival at a United States diplomatic post or as soon as possible thereafter."
+Pub. L. 117–81, div. E, title LII, §5210, Dec. 27, 2021, 135 Stat. 2358, provided that: "Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of State shall revise the Foreign Affairs Manual to stipulate that information on the current threat environment shall be provided to all United States Government employees under chief of mission authority traveling to a foreign country on official business. To the extent practicable, such material shall be provided to such employees prior to their arrival at a United States diplomatic post or as soon as possible thereafter."
 
 #### Direct Reporting
 
@@ -138,7 +138,7 @@ In General.—Pursuant to the responsibility of the Secretary \[of State\] for d
 
 &emsp;"(1) An evaluation of whether the size and composition of the Marine Corps Security Guard Program is adequate to meet global diplomatic security requirements.
 
-&emsp;"(2) An assessment of whether the Marine Corps security guards are appropriately deployed among United States embassies, consulates, and other diplomatic facilities to respond to evolving security developments and potential threats to United States interests abroad.
+&emsp;"(2) An assessment of whether the Marine Corps security guards are appropriately deployed amongUnited States embassies, consulates, and other diplomatic facilities to respond to evolving security developments and potential threats to United States interests abroad.
 
 &emsp;"(3) An assessment of the mission objectives of the Marine Corps Security Guard Program and the procedural rules of engagement to protect diplomatic personnel under the Program.
 

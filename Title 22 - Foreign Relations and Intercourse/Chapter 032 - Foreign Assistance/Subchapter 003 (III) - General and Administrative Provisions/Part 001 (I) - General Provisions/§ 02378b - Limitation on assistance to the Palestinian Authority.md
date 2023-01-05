@@ -12,7 +12,7 @@ A certification described in subsection (a) is a certification transmitted by th
 
 &emsp;&emsp;(A) publicly acknowledged the Jewish state of Israel's right to exist; and
 
-&emsp;&emsp;(B) committed itself and is adhering to all previous agreements and understandings with the United States Government, with the Government of Israel, and with the international community, including agreements and understandings pursuant to the Performance-Based Roadmap to a Permanent Two-State Solution to the Israeli-Palestinian Conflict (commonly referred to as the "Roadmap"); and
+&emsp;&emsp;(B) committed itself and is adhering to all previous agreements and understandingswith the United States Government, with the Government of Israel, and with the international community, including agreements and understandings pursuant to the Performance-Based Roadmap to a Permanent Two-State Solution to the Israeli-Palestinian Conflict (commonly referred to as the "Roadmap"); and
 
 &emsp;(2) the Hamas-controlled Palestinian Authority has made demonstrable progress toward—
 
@@ -46,7 +46,7 @@ Assistance made available under this chapter to the Palestinian Authority may no
 
 &emsp;&emsp;(A) the administrative and personal security costs of the Office of the President of the Palestinian Authority;
 
-&emsp;&emsp;(B) the activities of the President of the Palestinian Authority to fulfill his or her duties as President, including to maintain control of the management and security ofborder crossings, to foster the Middle East peace process, and to promote democracy and the rule of law; and
+&emsp;&emsp;(B) the activities of the President of the Palestinian Authority to fulfill his or her duties as President, including to maintain control of the management and security of border crossings, to foster the Middle East peace process, and to promote democracy and the rule of law; and
 
 &emsp;&emsp;(C) assistance for the judiciary branch of the Palestinian Authority and other entities.
 
@@ -96,7 +96,7 @@ In this section:
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -154,7 +154,7 @@ Oversight.—For each of the fiscal years 2007 and 2008, the Secretary of State 
 
 &emsp;"(2)
 
-Vetting.—Prior to any obligation of amounts for each of the fiscal years 2007 and 2008 for assistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961, theSecretary of State shall take all appropriate steps to ensure that such assistance is not provided to or through any individual or entity that the Secretary knows, or has reason to believe, advocates, plans, sponsors, engages in, or has engaged in, terrorist activity. The Secretary shall, as appropriate, establish procedures specifying the steps to be taken in carrying out this paragraph and shall terminate assistance to any individual or entity that the Secretary has determined advocates, plans, sponsors, or engages in terrorist activity.
+Vetting.—Prior to any obligation of amounts for each of the fiscal years 2007 and 2008 for assistance to nongovernmental organizations for the West Bank or Gaza under the Foreign Assistance Act of 1961, the Secretary of State shall take all appropriate steps to ensure that such assistance is not provided to or through any individual or entity that the Secretary knows, or has reason to believe, advocates, plans, sponsors, engages in, or has engaged in, terrorist activity. The Secretary shall, as appropriate, establish procedures specifying the steps to be taken in carrying out this paragraph and shall terminate assistance to any individual or entity that the Secretary has determined advocates, plans, sponsors, or engages in terrorist activity.
 
 &emsp;"(3)
 
@@ -238,7 +238,7 @@ Exceptions.—The prohibition on assistance described in subsection (a) should n
 
 "(c)
 
-Definition.—In this section, the term 'international financial institution' has the meaning giventhe term in section 1701(c)(2) of the International Financial Institutions Act (22 U.S.C. 262r(c)(2)).
+Definition.—In this section, the term 'international financial institution' has the meaning given the term in section 1701(c)(2) of the International Financial Institutions Act (22 U.S.C. 262r(c)(2)).
 
 #### "SEC. 9. DIPLOMATIC CONTACTS WITH PALESTINIAN TERROR ORGANIZATIONS.
 

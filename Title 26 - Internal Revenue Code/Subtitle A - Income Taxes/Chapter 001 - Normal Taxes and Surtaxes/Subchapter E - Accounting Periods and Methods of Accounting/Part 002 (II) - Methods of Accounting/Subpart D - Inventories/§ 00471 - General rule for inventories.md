@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Whenever in the opinion of the Secretary the use of inventories is necessary in order clearly to determine the income of any taxpayer, inventories shall be taken by such taxpayer on suchbasis as the Secretary may prescribe as conforming as nearly as may be to the best accounting practice in the trade or business and as most clearly reflecting the income.
+Whenever in the opinion of the Secretary the use of inventories is necessary in order clearly to determine the income of any taxpayer, inventories shall be taken by such taxpayer on such basis as the Secretary may prescribe as conforming as nearly as may be to the best accounting practice in the trade or business and as most clearly reflecting the income.
 
 #### (b) Estimates of inventory shrinkage permitted
 
@@ -68,7 +68,7 @@ Pub. L. 105–34, title IX, §961(b)(1), Aug. 5, 1997, 111 Stat. 891, provided t
 
 #### Effective Date of 1986 Amendment
 
-If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs are attributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
+If any interest costs incurred after Dec. 31, 1986, are attributable to costs incurred before Jan. 1, 1987, the amendment by Pub. L. 99–514 is applicable to such interest costs only to the extent such interest costs areattributable to costs which were required to be capitalized under section 263 of the Internal Revenue Code of 1954 and which would have been taken into account in applying section 189 of the Internal Revenue Code of 1954 (as in effect before its repeal by section 803 of Pub. L. 99–514) or, if applicable, section 266 of such Code, see section 7831(d)(2) of Pub. L. 101–239, set out as an Effective Date note under section 263A of this title.
 
 Amendment by Pub. L. 99–514 applicable to costs incurred after Dec. 31, 1986, in taxable years ending after such date, except as otherwise provided, see section 803(d) of Pub. L. 99–514, set out as an Effective Date note under section 263A of this title.
 

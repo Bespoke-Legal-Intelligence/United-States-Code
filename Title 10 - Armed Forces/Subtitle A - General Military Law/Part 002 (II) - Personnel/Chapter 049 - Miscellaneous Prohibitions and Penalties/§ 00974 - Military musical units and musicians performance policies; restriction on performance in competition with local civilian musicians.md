@@ -62,7 +62,7 @@ Recordings.—(1) When authorized under regulations prescribed by the Secretary 
 
 Private Donations.—(1) The Secretary concerned may accept contributions of money, personal property, or services on the condition that such money, property, or services be used for the benefit of a military musical unit under the jurisdiction of the Secretary.
 
-(2) Any contribution of money under paragraph (1) shall be credited to the appropriation or account providing the funds for such military musical unit. Any amount so credited shall be merged with amounts in the appropriation or account to which credited, and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such appropriation or account.
+(2) Any contribution of money under paragraph (1) shall be credited to the appropriation or account providing the funds for such military musical unit. Any amount so credited shall be merged with amounts in the appropriation oraccount to which credited, and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such appropriation or account.
 
 (e)
 
@@ -78,7 +78,7 @@ Military Musical Unit Defined.—In this section, the term "military musical uni
 
 #### Prior Provisions
 
-A prior section 974, added Pub. L. 90–235, §6(a)(6)(A), Jan. 2, 1968, 81 Stat. 762; amended Pub. L. 101–510, div.A, title III, §327(e), Nov. 5, 1990, 104 Stat. 1532, related to civilian employment by enlisted members, prior to repeal by Pub. L. 105–261, div. A, title V, §569(a), Oct. 17, 1998, 112 Stat. 2032.
+A prior section 974, added Pub. L. 90–235, §6(a)(6)(A), Jan. 2, 1968, 81 Stat. 762; amended Pub. L. 101–510, div. A, title III, §327(e), Nov. 5, 1990, 104 Stat. 1532, related to civilian employment by enlisted members, prior to repeal by Pub. L. 105–261, div. A, title V, §569(a), Oct. 17, 1998, 112 Stat. 2032.
 
 #### Amendments
 

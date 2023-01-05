@@ -164,7 +164,7 @@ The Director may make an award under subsection (a) only if an application for t
 
 #### (m) Allocation of awards
 
-In making awards under subsection (a), the Director shall give priority to an applicant that agrees to use the award for a program serving an area that is a rural area, an area designated under section 254e of this title by the Secretary as a health professional shortage area, or an area determined by the Director to have a shortage of family-based substance use disorder treatment options.
+In making awards under subsection (a), the Director shall give priority to an applicant thatagrees to use the award for a program serving an area that is a rural area, an area designated under section 254e of this title by the Secretary as a health professional shortage area, or an area determined by the Director to have a shortage of family-based substance use disorder treatment options.
 
 #### (n) Duration of award
 
@@ -208,7 +208,7 @@ For purposes of this section:
 
 &emsp;In carrying out the pilot program under this subsection, the Director shall—
 
-&emsp;&emsp;(A) require State substance abuse agencies to submit to the Director applications, insuch form and manner and containing such information as specified by the Director, to be eligible to receive a grant under the program;
+&emsp;&emsp;(A) require State substance abuse agencies to submit to the Director applications, in such form and manner and containing such information as specified by the Director, to be eligible to receive a grant under the program;
 
 &emsp;&emsp;(B) identify, based on such submitted applications, State substance abuse agencies that are eligible for such grants;
 
@@ -234,19 +234,15 @@ For purposes of this section:
 
 &emsp;&emsp;The Director shall convene and solicit recommendations from stakeholders, including State substance abuse agencies, health care providers, persons in recovery from substance abuse, and other appropriate individuals, for the minimum set of services described in subparagraph (A).
 
-#### (4) Duration
-
-&emsp;The pilot program under this subsection shall not exceed 5 years.
-
-#### (5) Evaluation and report to Congress
+#### (4) Evaluation and report to Congress
 
 #### (A) In general
 
-&emsp;&emsp;The Director of the Center for Behavioral Health Statistics and Quality shall evaluate the pilot program at the conclusion of the first grant cycle funded by the pilot program.
+&emsp;&emsp;The Director of the Center for Behavioral Health Statistics and Quality shall evaluatethe pilot program at the conclusion of the first grant cycle funded by the pilot program.
 
 #### (B) Report
 
-&emsp;&emsp;The Director of the Center for Behavioral Health Statistics and Quality, in coordination with the Director of the Center for Substance Abuse Treatment shall submit to the relevant committees of jurisdiction of the House of Representatives and the Senate a report on the evaluation under subparagraph (A). The report shall include, at a minimum—
+&emsp;&emsp;Not later than September 30, 2026, the Director of the Center for Behavioral Health Statistics and Quality, in coordination with the Director of the Center for Substance Abuse Treatment shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the evaluation under subparagraph (A). The report shall include, at a minimum—
 
 &emsp;&emsp;&emsp;(i) outcomes information from the pilot program, including any resulting reductions in the use of alcohol and other drugs;
 
@@ -262,7 +258,7 @@ For purposes of this section:
 
 &emsp;&emsp;The report under subparagraph (B) shall include a recommendation by the Director of the Center for Substance Abuse Treatment as to whether the pilot program under this subsection should be extended.
 
-#### (6) State substance abuse agencies defined
+#### (5) State substance abuse agencies defined
 
 &emsp;For purposes of this subsection, the term "State substance abuse agency" means, with respect to a State, the agency in such State that manages the Substance Abuse Prevention and Treatment Block Grant under part B of subchapter XVII.
 
@@ -270,13 +266,13 @@ For purposes of this section:
 
 For the purpose of carrying out this section, there are authorized to be appropriated $29,931,000 for each of fiscal years 2019 through 2023. Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016.
 
-(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207; Pub. L. 114–198, title V, §501, July 22, 2016, 130 Stat. 724; Pub. L. 114–255, div. B, title VI, §§6001(c)(2), 6006(b), Dec. 13, 2016, 130 Stat. 1203, 1212; Pub. L. 115–271, title VII, §7062(b), Oct. 24, 2018, 132 Stat. 4020.)
+(July 1, 1944, ch. 373, title V, §508, as added Pub. L. 102–321, title I, §108(a), July 10, 1992, 106 Stat. 336; amended Pub. L. 106–310, div. B, title XXXIII, §3301(a), Oct. 17, 2000, 114 Stat. 1207; Pub. L. 114–198, title V, §501, July 22, 2016, 130 Stat. 724; Pub. L. 114–255, div. B, title VI, §§6001(c)(2), 6006(b), Dec. 13, 2016, 130 Stat. 1203, 1212; Pub. L. 115–271, title VII, §7062(b), Oct. 24, 2018, 132 Stat. 4020; Pub. L. 117–328, div. FF, title I, §1114, Dec. 29, 2022, 136 Stat. 5647.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
@@ -285,6 +281,12 @@ A prior section 290bb–1, act July 1, 1944, ch. 373, title V, §511, formerly P
 A prior section 508 of act July 1, 1944, which was classified to section 290aa–6 of this title, was renumbered section 515 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290bb–21 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (r)(4). Pub. L. 117–328, §1114(1), (2), redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The pilot program under this subsection shall not exceed 5 years."
+
+Subsec. (r)(4)(B). Pub. L. 117–328, §1114(3), in introductory provisions, substituted "Not later than September 30, 2026, the Director" for "The Director" and "the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives" for "the relevant committees of jurisdiction of the House of Representatives and the Senate".
+
+Subsec. (r)(5), (6). Pub. L. 117–328, §1114(2), redesignated pars. (5) and (6) as (4) and (5), respectively.
 
 <b>2018</b>—Subsec. (s). Pub. L. 115–271 substituted "$29,931,000 for each of fiscal years 2019 through 2023" for "$16,900,000 for each of fiscal years 2017 through 2021".
 
@@ -390,7 +392,7 @@ In general.—Not later than 60 days after the date of enactment of this Act \[O
 
 &emsp;"(A) an update on the implementation of the recommendations in the strategy, including information regarding the agencies involved in the implementation; and
 
-&emsp;"(B) information on additional funding or authority the Secretary requires, if any, to implement the strategy, which may include authorities needed to coordinate implementation of such strategy across the Department of Health and Human Services.
+&emsp;"(B) information on additional funding or authority the Secretary requires, if any, to implement thestrategy, which may include authorities needed to coordinate implementation of such strategy across the Department of Health and Human Services.
 
 "(2)
 

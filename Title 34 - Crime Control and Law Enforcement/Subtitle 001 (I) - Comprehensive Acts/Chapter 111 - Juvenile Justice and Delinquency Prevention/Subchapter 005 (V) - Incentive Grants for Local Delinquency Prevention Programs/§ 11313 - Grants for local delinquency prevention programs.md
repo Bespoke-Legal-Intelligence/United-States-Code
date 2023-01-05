@@ -118,7 +118,7 @@ In awarding grants under this section for a fiscal year, the Administrator may n
 
 #### (5) Local uses of funds
 
-&emsp;An eligible entity that receives a subgrant under this subsection shall use the funds to implement a plan to carry out delinquency prevention programs in the community served by the eligible entity in a coordinated manner with other delinquency prevention programs or entities serving such community, which includes—
+&emsp;An eligible entity that receives a subgrant under this subsection shall use the funds to implement a plan to carry out delinquency prevention programs in the community served by the eligible entity in a coordinated manner with other delinquency prevention programsor entities serving such community, which includes—
 
 &emsp;&emsp;(A) an analysis of the unmet needs of at-risk or delinquent youth in the community—
 
@@ -160,7 +160,7 @@ Section was formerly classified to section 5783 of Title 42, The Public Health a
 
 A prior section 504 of title V of Pub. L. 93–415, as added Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027, set out the duties and functions of the Administrator, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
 
-Another prior section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5034 of Title 18, Crimes and Criminal Procedure, prior to repeal byPub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
+Another prior section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5034 of Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -488,7 +488,7 @@ Additional Requirements.—In carrying out the programs under subsection (a), a 
 
 "(a)
 
-Report to Assistant Attorney General.—For each fiscal year for which a grant is awarded under this Act, the Police Athletic/Activities League shall submit to the Assistant Attorney General a report on the use of amounts made available under the grant.
+Report to Assistant Attorney General.—For each fiscal year for which a grant is awarded under thisAct, the Police Athletic/Activities League shall submit to the Assistant Attorney General a report on the use of amounts made available under the grant.
 
 "(b)
 

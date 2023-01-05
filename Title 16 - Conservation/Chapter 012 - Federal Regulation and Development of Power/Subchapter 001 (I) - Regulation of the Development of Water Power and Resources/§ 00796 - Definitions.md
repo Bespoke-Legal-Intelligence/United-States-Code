@@ -2,7 +2,7 @@
 
 The words defined in this section shall have the following meanings for purposes of this chapter, to wit:
 
-&emsp;(1) "public lands" means such lands and interest in lands owned by the United States as are subject to private appropriation and disposal under public land laws. It shall not include "reservations", as hereinafter defined;
+&emsp;(1) "public lands" means such lands and interest in lands owned by the United States asare subject to private appropriation and disposal under public land laws. It shall not include "reservations", as hereinafter defined;
 
 &emsp;(2) "reservations" means national forests, tribal lands embraced within Indian reservations, military reservations, and other lands and interests in lands owned by the United States, and withdrawn, reserved, or withheld from private appropriation and disposal under the public land laws; also lands and interests in lands acquired and held for any public purposes; but shall not include national monuments or national parks;
 
@@ -122,7 +122,7 @@ Electric cooperative.—The term "electric cooperative" means a cooperatively ow
 
 Transmission organization.—The term "Transmission Organization" means a Regional Transmission Organization, Independent System Operator, independent transmission provider, or other transmission organization finally approved by the Commission for the operation of transmission facilities.
 
-(June 10, 1920, ch. 285, pt. I, §3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch.687, title II, §§201, 212, 49 Stat. 838, 847; Pub. L. 95–617, title II, §201, Nov. 9, 1978, 92 Stat. 3134; Pub. L. 96–294, title VI, §643(a)(1), June 30, 1980, 94 Stat. 770; Pub. L. 101–575, §3, Nov. 15, 1990, 104 Stat. 2834; Pub. L. 102–46, May 17, 1991, 105 Stat. 249; Pub. L. 102–486, title VII, §726, Oct. 24, 1992, 106 Stat. 2921; Pub. L. 109–58, title XII, §§1253(b), 1291(b), Aug. 8, 2005, 119 Stat. 970, 984.)
+(June 10, 1920, ch. 285, pt. I, §3, 41 Stat. 1063; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§201, 212, 49 Stat. 838, 847; Pub. L. 95–617, title II, §201, Nov. 9, 1978, 92 Stat. 3134; Pub. L. 96–294, title VI, §643(a)(1), June 30, 1980, 94 Stat. 770; Pub. L. 101–575, §3, Nov. 15, 1990, 104 Stat. 2834; Pub. L. 102–46, May 17, 1991, 105 Stat. 249; Pub. L. 102–486, title VII, §726, Oct. 24, 1992, 106 Stat. 2921; Pub. L. 109–58, title XII, §§1253(b), 1291(b), Aug. 8, 2005, 119 Stat. 970, 984.)
 
 #### <b>Editorial Notes</b>
 

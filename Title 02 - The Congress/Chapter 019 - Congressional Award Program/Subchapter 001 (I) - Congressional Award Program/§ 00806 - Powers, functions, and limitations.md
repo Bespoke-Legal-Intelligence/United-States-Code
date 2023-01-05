@@ -22,7 +22,7 @@ Subject to such limitations as may be provided for under this section, the Board
 
 &emsp;(B) provision, upon the request of any local Congressional Award Council, of such technical assistance as may be necessary to assist such council with its responsibilities, including the provision of medals, the preparation and provision of applications, guidance on disposition of applications, arrangements with respect to local award ceremonies, and other responsibilities of such council;
 
-&emsp;(C) conduct of outreach activities to establish new local Congressional Award Councils,particularly in inner-city areas and rural areas;
+&emsp;(C) conduct of outreach activities to establish new local Congressional Award Councils, particularly in inner-city areas and rural areas;
 
 &emsp;(D) in addition to those activities authorized under subparagraph (C), conduct of outreach activities to encourage, where appropriate, the establishment and development of Statewide Congressional Award Councils;
 
@@ -98,7 +98,7 @@ The Board shall have no power—
 
 #### (i) Congressional Award Foundation
 
-(1) The Board shall provide for the incorporation of a nonprofit corporation to be known as the Congressional Award Foundation (together with any subsidiary nonprofit corporations determined desirable by the Board, collectively referred to in this subchapter as the "Corporation") for the sole purpose of assisting the Board to carry out the Congressional Award Program, and shall delegate to the Corporation such duties as it considers appropriate, including the employment of personnel, expenditure of funds,and the incurrence of financial or other contractual obligations.
+(1) The Board shall provide for the incorporation of a nonprofit corporation to be known as the Congressional Award Foundation (together with any subsidiary nonprofit corporations determined desirable by the Board, collectively referred to in this subchapter as the "Corporation") for the sole purpose of assisting the Board to carry out the Congressional Award Program, and shall delegate to the Corporation such duties as it considers appropriate, including the employment of personnel, expenditure of funds, and the incurrence of financial or other contractual obligations.
 
 (2) The articles of incorporation of the Congressional Award Foundation shall provide that—
 

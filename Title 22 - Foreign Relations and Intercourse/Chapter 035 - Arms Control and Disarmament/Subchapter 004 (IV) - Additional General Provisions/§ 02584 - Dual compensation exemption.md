@@ -8,7 +8,7 @@ Members of advisory boards and consultants may serve as such without regard to a
 
 #### Codification
 
-"Section 5532 of title 5" substituted in text for "section 201 of the Dual Compensation Act" \[5 U.S.C. 3102\], on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5, Government Organization and Employees. Section 5532 of title 5 was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
+"Section 5532 of title 5" substituted in text for "section 201 of the Dual Compensation Act" \[5 U.S.C. 3102\],on authority of section 7(b) of Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 631, section 1 of which enacted Title 5, Government Organization and Employees. Section 5532 of title 5 was repealed by Pub. L. 106–65, div. A, title VI, §651(a)(1), Oct. 5, 1999, 113 Stat. 664.
 
 #### Amendments
 
@@ -28,7 +28,7 @@ Amendment by Pub. L. 88–448 effective on first day of first month which begins
 
 #### Termination of Advisory Committees and Boards
 
-Advisory committees and boards, in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee or board established by the President or an officer of the Federal Government, such committee or board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee or board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees and boards, in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee or board established by the President or an officer of the Federal Government, such committee or board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee or board established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

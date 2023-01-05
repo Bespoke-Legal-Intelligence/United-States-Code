@@ -10,7 +10,7 @@ In general.—Any person who willfully infringes a copyright shall be punished a
 
 &emsp;&emsp;(A) for purposes of commercial advantage or private financial gain;
 
-&emsp;&emsp;(B) by the reproduction or distribution, including by electronic means, during any 180–day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000; or
+&emsp;&emsp;(B) by the reproduction or distribution, including by electronic means, during any 180–day period, of 1 or more copies or phonorecords of 1 or more copyrightedworks, which have a total retail value of more than $1,000; or
 
 &emsp;&emsp;(C) by the distribution of a work being prepared for commercial distribution, by making it available on a computer network accessible to members of the public, if such person knew or should have known that the work was intended for commercial distribution.
 
@@ -54,7 +54,7 @@ False Representation.—Any person who knowingly makes a false representation of
 
 Rights of Attribution and Integrity.—Nothing in this section applies to infringement of the rights conferred by section 106A(a).
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 97–180, §5, May 24, 1982, 96 Stat. 93; Pub. L. 101–650, title VI, §606(b), Dec. 1, 1990, 104Stat. 5131; Pub. L. 105–147, §2(b), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 109–9, title I, §103(a), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, §201(a), Oct. 13, 2008, 122 Stat. 4260.)
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2586; Pub. L. 97–180, §5, May 24, 1982, 96 Stat. 93; Pub. L. 101–650, title VI, §606(b), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105–147, §2(b), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 109–9, title I, §103(a), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110–403, title II, §201(a), Oct. 13, 2008, 122 Stat. 4260.)
 
 #### Historical and Revision Notes
 

@@ -10,7 +10,7 @@ Existence and Amounts in Fund.—The Secretary of Transportation has a discretio
 
 (b)
 
-Availability of Amounts.—Subject to subsection (c) of this section and section 47117(e) of this title, the fund is available for making grants for any purpose for which amounts are made available under section 48103 of this titlethat the Secretary considers most appropriate to carry out this subchapter.
+Availability of Amounts.—Subject to subsection (c) of this section and section 47117(e) of this title, the fund is available for making grants for any purpose for which amounts are made available under section 48103 of this title that the Secretary considers most appropriate to carry out this subchapter.
 
 (c)
 
@@ -80,7 +80,7 @@ General rule.—In a fiscal year, there shall be credited to the fund, out of am
 
 &emsp;(2)
 
-Reduction of apportionments.—In a fiscal year in which the amount credited under subsection (a) is less than the minimum amount to be credited under paragraph (1), the total amount calculated under paragraph (3) shall be reduced by an amount that, when credited to the fund, together with the amount credited under subsection (a), equals such minimum amount.
+Reduction of apportionments.—In a fiscal year in which the amount credited under subsection (a) is less than the minimumamount to be credited under paragraph (1), the total amount calculated under paragraph (3) shall be reduced by an amount that, when credited to the fund, together with the amount credited under subsection (a), equals such minimum amount.
 
 &emsp;(3)
 
@@ -216,7 +216,7 @@ Sept. 3, 1982, Pub. L. 97–248, §507(c), 96 Stat. 679; Jan. 6, 1983, Pub. L. 9
 
 In subsection (a), before clause (1), the words "The Secretary of Transportation has a discretionary fund" are added for clarity. In clause (1), the words "subject to apportionment for a fiscal year" are substituted for "which are made available for a fiscal year under section 2204 of this Appendix" and "which have not been previously apportioned by the Secretary" for consistency with section 47114 of the revised title.
 
-In subsection (c), before clause (1), the words "Subject to section 2207(d) of this Appendix and paragraph\(4) of this subsection" and "pursuant to paragraph (1) and distributed by the Secretary under this subsection in a fiscal year beginning after September 30, 1987" are omitted as surplus.
+In subsection (c), before clause (1), the words "Subject to section 2207(d) of this Appendix and paragraph (4) of this subsection" and "pursuant to paragraph (1) and distributed by the Secretary under this subsection in a fiscal year beginning after September 30, 1987" are omitted as surplus.
 
 In subsection (d), before clause (1), the words "at airports" are omitted as surplus. In clause (3), the words "airport operator or other" are omitted as surplus.
 

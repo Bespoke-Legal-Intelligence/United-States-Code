@@ -2,7 +2,7 @@
 
 (a) The initial capital of the Postal Service shall consist of the equity, as reflected in the budget of the President, of the Government of the United States in the former Post Office Department. The value of assets and the amount of liabilities transferred to the Postal Service upon the commencement of operations of the Postal Service shall be determined by the Postal Service subject to the approval of the Comptroller General, in accordance with the following guidelines:
 
-&emsp;(1) Assets shall be valued on the basis of original cost less depreciation, to the extent that such value can be determined. The valuerecorded on the former Post Office Department's books of account shall be prima facie evidence of asset value.
+&emsp;(1) Assets shall be valued on the basis of original cost less depreciation, to the extent that such value can be determined. The value recorded on the former Post Office Department's books of account shall be prima facie evidence of asset value.
 
 &emsp;(2) All liabilities attributable to operations of the former Post Office Department shall remain liabilities of the Government of the United States, except that upon commencement of operations of the Postal Service, the unexpended balances of appropriations made to, held or used by, or available to the former Post Office Department and all liabilities chargeable thereto shall become assets and liabilities, respectively, of the Postal Service.
 

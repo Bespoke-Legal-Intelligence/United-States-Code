@@ -32,7 +32,7 @@ The Secretary shall actively seek the assistance of other Federal agencies in th
 
 #### (c) Management plans for underutilized species
 
-The New England Fishery Management Council, in consultation with other appropriateCouncils, shall develop fishery management plans as soon as possible for any underutilized species of the northwest Atlantic Ocean that is not covered under such a plan, in order to prevent overfishing of that species.
+The New England Fishery Management Council, in consultation with other appropriate Councils, shall develop fishery management plans as soon as possible for any underutilized species of the northwest Atlantic Ocean that is not covered under such a plan, in order to prevent overfishing of that species.
 
 #### (d) "Underutilized species" defined
 
@@ -44,9 +44,9 @@ For purposes of this section, the term "underutilized species of the northwest A
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(3), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (a)(3), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7, Agriculture, and Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 1421 of Title 7, Agriculture, and Tables.
 
 #### Amendments
 

@@ -18,7 +18,7 @@ The Secretary may award grants or contracts to nonprofit organizations to improv
 
 &emsp;&emsp;(B) preparing information on transportation options and resources for older individuals and organizations serving such individuals, and disseminating the information by establishing and operating a toll-free telephone number, call center, website or Internet-based portal, mobile application, or other technological tools;
 
-&emsp;&emsp;(C) developing models and best practices for providing comprehensive integrated transportation services for older individuals, including services administered by the Secretary of Transportation, by providing ongoing technical assistance to agencies providing services under subchapter III and by assisting in coordination of public and community transportation services;
+&emsp;&emsp;(C) developing models and best practices for providing comprehensive integrated transportation services for older individuals, including services administered by the Secretary of Transportation, by providing ongoing technical assistance to agencies providing services under subchapter III and byassisting in coordination of public and community transportation services;
 
 &emsp;&emsp;(D)(i) improving the aggregation, availability, and accessibility of information on options for transportation services for older individuals, including information on public transit, on-demand transportation services, volunteer-based transportation services, and other private transportation providers; and
 

@@ -22,7 +22,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 #### (1) Information on protocols and technical requirements
 
-&emsp;Each Bell operating company shall, in accordance with regulations prescribed by the Commission, maintain and file with the Commission full and complete information with respect to the protocols and technical requirements for connection with and use of its telephone exchange service facilities. Each such company shall report promptly to the Commission any material changes or planned changes to such protocols and requirements, and the schedule for implementation of such changes or planned changes.
+&emsp;Each Bell operating company shall, in accordance with regulations prescribed by the Commission, maintain and file with the Commission full and complete information with respect to the protocols and technical requirements for connection with and use of its telephone exchange service facilities. Each suchcompany shall report promptly to the Commission any material changes or planned changes to such protocols and requirements, and the schedule for implementation of such changes or planned changes.
 
 #### (2) Disclosure of information
 
@@ -42,7 +42,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;Bell Communications Research, Inc., or any successor entity or affiliate—
 
-&emsp;&emsp;(A) shall not be considered a Bell operating company or a successor or assign of a Bell operating company at such time as it isno longer an affiliate of any Bell operating company; and
+&emsp;&emsp;(A) shall not be considered a Bell operating company or a successor or assign of a Bell operating company at such time as it is no longer an affiliate of any Bell operating company; and
 
 &emsp;&emsp;(B) notwithstanding paragraph (3), shall not engage in manufacturing telecommunications equipment or customer premises equipment as long as it is an affiliate of more than 1 otherwise unaffiliated Bell operating company or successor or assign of any such company.
 
@@ -80,7 +80,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 &emsp;&emsp;&emsp;(i) such entity shall issue a public notice of its consideration of a proposed industry-wide standard or industry-wide generic requirement;
 
-&emsp;&emsp;&emsp;(ii) such entity shall issue a public invitation to interested industry parties to fund and participate in such efforts on a reasonable and nondiscriminatory basis, administered in such a manner as not to unreasonably exclude any interested industry party;
+&emsp;&emsp;&emsp;(ii) such entity shall issue a public invitation to interested industry parties to fund and participate in such efforts on a reasonable and nondiscriminatory basis, administered in such a manner as not tounreasonably exclude any interested industry party;
 
 &emsp;&emsp;&emsp;(iii) such entity shall publish a text for comment by such parties as have agreed to participate in the process pursuant to clause (ii), provide such parties a full opportunity to submit comments, and respond to comments from such parties;
 
@@ -146,7 +146,7 @@ A Bell operating company may manufacture and provide telecommunications equipmen
 
 #### (3) Network planning and design
 
-&emsp;A Bell operating company shall, to the extent consistent with the antitrust laws, engage in joint network planning and designwith local exchange carriers operating in the same area of interest. No participant in such planning shall be allowed to delay the introduction of new technology or the deployment of facilities to provide telecommunications services, and agreement with such other carriers shall not be required as a prerequisite for such introduction or deployment.
+&emsp;A Bell operating company shall, to the extent consistent with the antitrust laws, engage in joint network planning and design with local exchange carriers operating in the same area of interest. No participant in such planning shall be allowed to delay the introduction of new technology or the deployment of facilities to provide telecommunications services, and agreement with such other carriers shall not be required as a prerequisite for such introduction or deployment.
 
 #### (4) Sales restrictions
 

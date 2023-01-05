@@ -6,5 +6,5 @@ Section, added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat
 
 #### Effective Date of Repeal
 
-Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability ofexisting law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

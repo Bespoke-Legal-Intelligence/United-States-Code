@@ -14,7 +14,7 @@ In coordination with the HIT Standards Committee established under section 300jj
 
 #### References in Text
 
-Section 300jj–13 of this title, referred to in text, which related to the establishment of the HIT StandardsCommittee, was repealed by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.
+Section 300jj–13 of this title, referred to in text, which related to the establishment of the HIT Standards Committee, was repealed by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.
 
 Section 13101, referred to in text, means section 13101 of div. A of Pub. L. 111–5.
 

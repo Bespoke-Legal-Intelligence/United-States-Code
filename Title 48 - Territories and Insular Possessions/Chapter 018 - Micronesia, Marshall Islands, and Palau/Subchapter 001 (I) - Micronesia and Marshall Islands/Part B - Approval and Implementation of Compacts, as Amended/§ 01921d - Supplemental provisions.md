@@ -54,11 +54,11 @@ Joint economic management and financial accountability committee.—
 
 &emsp;&emsp;(i)
 
-In general.—The three United States appointees (United States chair plus two members) to the Joint Economic Management and Financial Accountability Committee provided for in section 214 of the U.S.-RMI Compact and Article III of the U.S.-RMI Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-RMICompact shall be United States Government officers or employees.
+In general.—The three United States appointees (United States chair plus two members) to the Joint Economic Management and Financial Accountability Committee provided for in section 214 of the U.S.-RMI Compact and Article III of the U.S.-RMI Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-RMI Compact shall be United States Government officers or employees.
 
 &emsp;&emsp;(ii)
 
-Departments.—It is the sense of Congress that 2 of the 3 appointees should be designated from the Department of State and the Department of the Interior, and that U.S. officials of the Asian Development Bank shall be consulted in order to properly coordinate U.S. and Asian Development Bank financial, program, and technical assistance.
+Departments.—It is the sense of Congress that 2 of the 3 appointees should be designated from the Department of State and the Department of the Interior, and that U.S. officials of the Asian DevelopmentBank shall be consulted in order to properly coordinate U.S. and Asian Development Bank financial, program, and technical assistance.
 
 &emsp;&emsp;(iii)
 
@@ -86,7 +86,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (e) Noncompliance sanctions; actions incompatible with United States authority
 
-Congress expresses its understanding that the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands will not act in a manner incompatible with the authority and responsibility of the United States for security and defense matters in or related to the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact or the U.S.-RMI Compact, including the agreements referred to in sections 462(a)(2) of the U.S.-FSM Compact and 462(a)(5) of the U.S.-RMI Compact. Congress further expresses its intention that any such act on the part of either such Government will be viewed by the United States as a material breach of the U.S.-FSM Compact or U.S.-RMI Compact. The Government of the United States reserves the right in the event of such a material breach of the U.S.-FSM Compact by the Government of the Federated States of Micronesia or the U.S.-RMI Compact by the Government of the Republic of the Marshall Islands to take action, including (but not limited to) thesuspension in whole or in part of the obligations of the Government of the United States to that Government.
+Congress expresses its understanding that the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands will not act in a manner incompatible with the authority and responsibility of the United States for security and defense matters in or related to the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact or the U.S.-RMI Compact, including the agreements referred to in sections 462(a)(2) of the U.S.-FSM Compact and 462(a)(5) of the U.S.-RMI Compact. Congress further expresses its intention that any such act on the part of either such Government will be viewed by the United States as a material breach of the U.S.-FSM Compact or U.S.-RMI Compact. The Government of the United States reserves the right in the event of such a material breach of the U.S.-FSM Compact by the Government of the Federated States of Micronesia or the U.S.-RMI Compact by the Government of the Republic of the Marshall Islands to take action, including (but not limited to) the suspension in whole or in part of the obligations of the Government of the United States to that Government.
 
 #### (f) Continuing programs and laws
 
@@ -130,7 +130,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (iv) Fiscal procedures
 
-&emsp;&emsp;&emsp;Appropriations made pursuant to clause (iii) shall be used and monitored in accordance with an agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior,and in accordance with the respective Fiscal Procedures Agreements referred to in section 462(b)(4) of the U.S.-FSM Compact and section 462(b)(4) of the U.S.-RMI Compact. The agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior shall provide for the transfer, not later than 60 days after the appropriations made pursuant to clause (iii) become available to the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, from the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, to the Secretary of the Interior for disbursement.
+&emsp;&emsp;&emsp;Appropriations made pursuant to clause (iii) shall be used and monitored in accordance with an agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior, and in accordance with the respective Fiscal Procedures Agreements referred to in section 462(b)(4) of the U.S.-FSM Compact and section 462(b)(4) of the U.S.-RMI Compact. The agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior shall provide for the transfer, not laterthan 60 days after the appropriations made pursuant to clause (iii) become available to the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, from the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, to the Secretary of the Interior for disbursement.
 
 #### (v) Formula education grants
 
@@ -178,7 +178,7 @@ Neither the Government of the Federated States of Micronesia nor the Government 
 
 #### (1) In general
 
-&emsp;In addition to amounts provided under section 211(a)(4) of the U.S.-FSM Compact and the U.S.-RMI Compact, the Secretary of the Interior shall annually provide $300,000 for the training of judges and officials of the judiciary in the Federated States of Micronesia and the Republic of the Marshall Islands in cooperation with the Pacific Islands Committee of the Ninth Circuit Judicial Council and in accordance with and to the extent provided in the Federal Programs and Services Agreement and the Fiscal Procedure Agreement, as appropriate.
+&emsp;In addition to amounts provided under section 211(a)(4) of the U.S.-FSM Compact and theU.S.-RMI Compact, the Secretary of the Interior shall annually provide $300,000 for the training of judges and officials of the judiciary in the Federated States of Micronesia and the Republic of the Marshall Islands in cooperation with the Pacific Islands Committee of the Ninth Circuit Judicial Council and in accordance with and to the extent provided in the Federal Programs and Services Agreement and the Fiscal Procedure Agreement, as appropriate.
 
 #### (2) Authorization and continuing appropriation
 
@@ -212,7 +212,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 #### (1) In general
 
-&emsp;The Trust Fund Agreement executed pursuant to the U.S.-FSM Compact and the TrustFund Agreement executed pursuant to the U.S.-RMI Compact each provides for the establishment of a trust fund.
+&emsp;The Trust Fund Agreement executed pursuant to the U.S.-FSM Compact and the Trust Fund Agreement executed pursuant to the U.S.-RMI Compact each provides for the establishment of a trust fund.
 
 #### (2) Method of establishment
 
@@ -220,7 +220,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 &emsp;&emsp;(A) creating a new legal entity to constitute the trust fund; or
 
-&emsp;&emsp;(B) assuming control of an existing legal entity including, without limitation, a trust fund or other legal entity that was established by or at the direction of the Government of the United States, the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or otherwise for the purpose of facilitating or expediting the establishment of the trust fund pursuant to the applicable Trust Fund Agreement.
+&emsp;&emsp;(B) assuming control of an existing legal entity including, without limitation, a trustfund or other legal entity that was established by or at the direction of the Government of the United States, the Government of the Federated States of Micronesia, the Government of the Republic of the Marshall Islands, or otherwise for the purpose of facilitating or expediting the establishment of the trust fund pursuant to the applicable Trust Fund Agreement.
 
 #### (3) Obligations
 
@@ -248,7 +248,7 @@ The Individuals with Disabilities Education Act, referred to in subsec. (f)(1)(B
 
 The Higher Education Act of 1965, referred to in subsec. (f)(1)(B)(ii)(II), (iii), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20, Education. Subpart 3 of part A of title IV of the Act is classified generally to subpart 3 (§1070b et seq.) of part A of subchapter IV of chapter 28 of Title 20. Part C of title IV of the Act was formerly classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B)(iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B)(iii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (f)(1)(B)(iii), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle C of title I of the Act is classified generally to part C (§3191 et seq.) of subchapter I of chapter 32 of Title 29. Title II of the Act is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 

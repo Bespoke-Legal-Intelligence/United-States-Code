@@ -12,7 +12,7 @@ Except as otherwise provided by regulations, for purposes of this title—
 
 #### (b) Secretary to prescribe regulations
 
-The Secretary shall prescribe such regulations as may be necessary to prevent avoidance or evasion of Federal income tax through the use of stapled entities. Such regulations may include (but shall not be limited to) regulations providing the extent to which 1 of such entities shall be treated as owning the other entity (to the extent of the stapled interest) and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred to in such subsection or the shareholders of such foreign corporation.
+The Secretary shall prescribe such regulations as may be necessary to prevent avoidance or evasion of Federal income tax through the use of stapled entities. Such regulations may include (but shall not be limited to) regulations providing the extent to which 1 of such entities shall be treated as owning the other entity (to the extent of the stapled interest) and regulations providing that any tax imposed on the foreign corporation referred to in subsection (a)(1) may, if not paid by such corporation, be collected from the domestic corporation referred toin such subsection or the shareholders of such foreign corporation.
 
 #### (c) Definitions
 
@@ -244,7 +244,7 @@ Exception for interests in real property held on march 26, 1998, etc.—In the c
 
 &emsp;"(3)
 
-Reduction in qualified real property interests if increase in ownership of subsidiary.—If, after March 26, 1998, an exempt REIT or stapled entity increases its ownership interest in a subsidiary entity to which paragraph (2)(B) applies above its ownership interest in such subsidiary entity as of such date, the additional portion of each interest in real property which is treated as held by the exempt REIT or stapled entity by reason of such increased ownership shall be treated as a nonqualified real property interest.
+Reduction in qualified real property interests if increase in ownership of subsidiary.—If,after March 26, 1998, an exempt REIT or stapled entity increases its ownership interest in a subsidiary entity to which paragraph (2)(B) applies above its ownership interest in such subsidiary entity as of such date, the additional portion of each interest in real property which is treated as held by the exempt REIT or stapled entity by reason of such increased ownership shall be treated as a nonqualified real property interest.
 
 &emsp;"(4)
 
@@ -294,7 +294,7 @@ In general.—In the case of any nonqualified obligation held by an exempt REIT 
 
 &emsp;"(2)
 
-Nonqualified obligation.—Except as otherwise provided in this subsection, the term 'nonqualified obligation' means any obligation secured bya mortgage on an interest in real property if the income of any member of the stapled REIT group for services furnished with respect to such property would be impermissible tenant service income were such property held by the exempt REIT and such services furnished by the exempt REIT.
+Nonqualified obligation.—Except as otherwise provided in this subsection, the term 'nonqualified obligation' means any obligation secured by a mortgage on an interest in real property if the income of any member of the stapled REIT group for services furnished with respect to such property would be impermissible tenant service income were such property held by the exempt REIT and such services furnished by the exempt REIT.
 
 &emsp;"(3)
 

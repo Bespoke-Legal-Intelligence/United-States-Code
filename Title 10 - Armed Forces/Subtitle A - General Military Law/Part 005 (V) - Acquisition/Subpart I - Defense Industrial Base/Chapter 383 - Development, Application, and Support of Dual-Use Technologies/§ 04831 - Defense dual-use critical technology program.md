@@ -2,17 +2,17 @@
 
 (a)
 
-Establishment of Program.—The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 4811(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 4002 <sup>1</sup> of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
+Establishment of Program.—The Secretary of Defense shall conduct a program to further the national security objectives set forth in section 4811(a) of this title by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to section 4021 of this title in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
 
 (b)
 
-Assistance Authorized.—The Secretary of Defense may provide technical and other assistance to facilitate the achievement of the purposes of projects conducted under the program.In providing such assistance, the Secretary shall make available, as appropriate for the work to be performed, equipment and facilities of Department of Defense laboratories (including the scientists and engineers at those laboratories) for purposes of projects selected by the Secretary.
+Assistance Authorized.—The Secretary of Defense may provide technical and other assistance to facilitate the achievement of the purposes of projects conducted under the program. In providing such assistance, the Secretary shall make available, as appropriate for the work to be performed, equipment and facilities of Department of Defense laboratories (including the scientists and engineers at those laboratories) for purposes of projects selected by the Secretary.
 
 (c)
 
 Financial Commitment of Non-Federal Government Participants.—(1) The total amount of funds provided by the Federal Government for a project conducted under the program may not exceed 50 percent of the total cost of the project. However, the Secretary of Defense may agree to a project in which the total amount of funds provided by the Federal Government exceeds 50 percent if the Secretary determines the project is particularly meritorious, but the project would not otherwise have sufficient non-Federal funding or in-kind contributions.
 
-(2) The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a project conducted under the program for the purpose of calculating the share of the project costs that has been or is being undertaken by such participants. In such regulations, the Secretary may authorize a participant that is a small business concern to use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of project activities. Any such funds so used may be considered in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity percentage contribution in the project from non-Federal sources.
+(2) The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a project conducted under the program for the purpose of calculating the share of the project costs that has been or is being undertaken by such participants. In such regulations, the Secretary may authorize a participant that is a small business concern to use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of project activities. Any such funds so used maybe considered in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity percentage contribution in the project from non-Federal sources.
 
 (3) The Secretary shall consider a project proposal submitted by a small business concern without regard to the ability of the small business concern to immediately meet its share of the anticipated project costs. Upon the selection of a project proposal submitted by a small business concern, the small business concern shall have a period of not less than 120 days in which to arrange to meet its financial commitment requirements under the project from sources other than a person of a foreign country. If the Secretary determines upon the expiration of that period that the small business concern will be unable to meet its share of the anticipated project costs, the Secretary shall revoke the selection of the project proposal submitted by the small business concern.
 
@@ -42,13 +42,9 @@ Selection Criteria.—The criteria for the selection of projects under the progr
 
 Regulations.—The Secretary of Defense shall prescribe regulations for the purposes of this section.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4221(a), Oct. 23, 1992, 106 Stat. 2677, §2511; amended Pub. L. 103–160, div. A, title XIII, §§1315(a), 1317(c), Nov. 30, 1993, 107 Stat. 1787, 1789; Pub. L. 103–337, div. A, title XI, §1115(a), Oct. 5, 1994, 108 Stat. 2868; Pub. L. 104–106, div. A, title X, §1081(c), Feb. 10, 1996, 110 Stat. 452; renumbered §4831 and amended Pub. L. 116–283, div. A, title XVIII, §1868(b), (c)(1), Jan. 1, 2021, 134 Stat. 4282, 4283.)
+(Added Pub. L. 102–484, div. D, title XLII, §4221(a), Oct. 23, 1992, 106 Stat. 2677, §2511; amended Pub. L. 103–160, div. A, title XIII, §§1315(a), 1317(c), Nov. 30, 1993, 107 Stat. 1787, 1789; Pub. L. 103–337, div. A, title XI, §1115(a), Oct. 5, 1994, 108 Stat. 2868; Pub. L. 104–106, div. A, title X, §1081(c), Feb. 10, 1996, 110 Stat. 452; renumbered §4831 and amended Pub. L. 116–283, div. A, title XVIII, §1868(b), (c)(1), Jan. 1, 2021, 134 Stat. 4282, 4283; Pub. L. 117–263, div. A, title X, §1081(a)(6), Dec. 23, 2022, 136 Stat. 2797.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-Section 4002 of this title, referred to in subsec. (a), probably should be a reference to section 4021 of this title. Section 4002 was originally enacted by transferring section 2371 of this title to that section by Pub. L. 116–283, div. A, title XVIII, §1841(b)(1), Jan. 1, 2021, 134 Stat. 4243, effective Jan. 1, 2022. However, Pub. L. 117–81, div. A, title XVII, §1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151, subsequently amended section 1841(b)(1) of Pub. L. 116–283, effective as if included therein, so as to eliminate that transfer, thereby omitting section 4002 before it took effect, and instead transferred section 2371 of this title to section 4021 of this title. See Codification note set out under section 4002 of this title.
 
 #### Prior Provisions
 
@@ -57,6 +53,8 @@ A prior section 4831 was renumbered section 7831 of this title.
 Provisions similar to those in this section were contained in section 2523 of this title, prior to repeal by Pub. L. 102–484, §4202(a).
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–263 substituted "section 4021" for "section 4002".
 
 <b>2021</b>—Pub. L. 116–283, §1868(b), renumbered section 2511 of this title as this section.
 
@@ -153,6 +151,4 @@ Definitions.—In this section:
 &emsp;"(1) The term 'applied research program' means a program of a military department which is funded under the 6.2 Research, Development, Test and Evaluation account of that department.
 
 &emsp;"(2) The term 'dual-use project' means a project under a program of a military department or a defense agency under which research or development of a dual-use technology is carried out and the costs of which are shared by the Department of Defense and non-Government entities."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -35,7 +35,7 @@
 | [<b>20A.</b>](Chapter%20020A%20-%20Statutory%20Pay-as-You-Go/README.md) | <b>Statutory Pay-as-You-Go</b> | <b>931</b> |
 | [<b>21.</b>](Chapter%20021%20-%20Civic%20Achievement%20Award%20Program%20in%20Honor%20of%20Office%20of%20Speaker%20of%20House%20of%20Representatives/README.md) | <b>Civic Achievement Award Program in Honor of Office of Speaker of House of Representatives \[Repealed\]</b> | <b>1001</b> |
 | [<b>22.</b>](Chapter%20022%20-%20John%20C.%20Stennis%20Center%20for%20Public%20Service%20Training%20and%20Development/README.md) | <b>John C. Stennis Center for Public Service Training and Development</b> | <b>1101</b> |
-| [<b>22A.</b>](Chapter%20022A%20-%20Open%20World%20Leadership%20Center/README.md) | <b>Open World Leadership Center</b> | <b>1151</b> |
+| [<b>22A.</b>](Chapter%20022A%20-%20Congressional%20Office%20for%20International%20Leadership/README.md) | <b>Open World Leadership Center</b> | <b>1151</b> |
 | [<b>22B.</b>](Chapter%20022B%20-%20Hunger%20Fellowship%20Program/README.md) | <b>Hunger Fellowship Program</b> | <b>1161</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Government%20Employee%20Rights/README.md) | <b>Government Employee Rights \[Transferred or Repealed\]</b> | <b>1201</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Congressional%20Accountability/README.md) | <b>Congressional Accountability</b> | <b>1301</b> |
@@ -2713,7 +2713,7 @@ omitted
 - [Chapter 020A - Statutory Pay-as-You-Go](Chapter%20020A%20-%20Statutory%20Pay-as-You-Go/README.md)
 - [Chapter 021 - Civic Achievement Award Program in Honor of Office of Speaker of House of Representatives](Chapter%20021%20-%20Civic%20Achievement%20Award%20Program%20in%20Honor%20of%20Office%20of%20Speaker%20of%20House%20of%20Representatives/README.md)
 - [Chapter 022 - John C. Stennis Center for Public Service Training and Development](Chapter%20022%20-%20John%20C.%20Stennis%20Center%20for%20Public%20Service%20Training%20and%20Development/README.md)
-- [Chapter 022A - Open World Leadership Center](Chapter%20022A%20-%20Open%20World%20Leadership%20Center/README.md)
+- [Chapter 022A - Congressional Office for International Leadership](Chapter%20022A%20-%20Congressional%20Office%20for%20International%20Leadership/README.md)
 - [Chapter 022B - Hunger Fellowship Program](Chapter%20022B%20-%20Hunger%20Fellowship%20Program/README.md)
 - [Chapter 023 - Government Employee Rights](Chapter%20023%20-%20Government%20Employee%20Rights/README.md)
 - [Chapter 024 - Congressional Accountability](Chapter%20024%20-%20Congressional%20Accountability/README.md)

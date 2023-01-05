@@ -8,7 +8,7 @@ In probate matters under the exclusive jurisdiction of the Secretary of the Inte
 
 &emsp;&emsp;(b) by a judgment or decree of an Indian court;
 
-&emsp;&emsp;(c) by a written adoption approved by the superintendent of the agency having jurisdiction over the tribe of which either the adopted child or the adoptive parent is amember, and duly recorded in a book kept by the superintendent for that purpose; or
+&emsp;&emsp;(c) by a written adoption approved by the superintendent of the agency having jurisdiction over the tribe of which either the adopted child or the adoptive parent is a member, and duly recorded in a book kept by the superintendent for that purpose; or
 
 &emsp;&emsp;(d) by an adoption in accordance with a procedure established by the tribal authority, recognized by the Department of the Interior, of the tribe either of the adopted child or the adoptive parent, and duly recorded in a book kept by the tribe for that purpose; or
 

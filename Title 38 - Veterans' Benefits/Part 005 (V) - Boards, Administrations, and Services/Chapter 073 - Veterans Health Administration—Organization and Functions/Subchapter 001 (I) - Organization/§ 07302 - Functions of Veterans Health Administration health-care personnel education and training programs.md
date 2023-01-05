@@ -52,6 +52,78 @@
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Information on Certain Veterans With Prior Medical Occupations; Program on Intermediate Care Technicians of Department of Veterans Affairs
+
+Pub. L. 117–263, div. E, title LI, §5127, Dec. 23, 2022, 136 Stat. 3220, provided that:
+
+"(a)
+
+Update of Web Portal to Identify Certain Veterans.—
+
+&emsp;"(1)
+
+Update.—The Secretary of Veterans Affairs shall update web portals of the Department of Veterans Affairs to provide for a method by which a veteran who served in a medical occupation while serving as a member of the Armed Forces may elect to provide the information described in paragraph (2).
+
+&emsp;"(2)
+
+Information in portal.—The information described in this paragraph is the following:
+
+&emsp;&emsp;"(A) Contact information for the veteran.
+
+&emsp;&emsp;"(B) A history of the medical experience and trained competencies of the veteran.
+
+&emsp;"(3)
+
+Inclusions in history.—To the extent practicable, the history of a veteran provided under paragraph (2)(B) shall include individual critical task lists specific to the military occupational specialty of the veteran that align with standard occupational codes maintained by the Commissioner of the Bureau of Labor Statistics.
+
+&emsp;"(4)
+
+Sharing of information.—For purposes of facilitating civilian medical credentialing and hiring opportunities for veterans seeking to respond to a national emergency, including a public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d), the Secretary of Veterans Affairs, in coordination with the Secretary of Defense and the Secretary of Labor, shall establish a program to share the information described in paragraph (2) with the following:
+
+&emsp;&emsp;"(A) State departments of veterans affairs.
+
+&emsp;&emsp;"(B) Veterans service organizations.
+
+&emsp;&emsp;"(C) State credentialing bodies.
+
+&emsp;&emsp;"(D) State homes.
+
+&emsp;&emsp;"(E) Other stakeholders involved in State-level credentialing, as determined appropriate by the Secretary of Veterans Affairs.
+
+"(b)
+
+Program on Training of Intermediate Care Technicians of Department of Veterans Affairs.—
+
+&emsp;"(1)
+
+Establishment.—The Secretary of Veterans Affairs shall establish a program to train, certify, and employ covered veterans as intermediate care technicians of the Department of Veterans Affairs.
+
+&emsp;"(2)
+
+Locations.—The Secretary of Veterans Affairs may assign an intermediate care technician of the Department of Veterans Affairs trained under the program under paragraph (1) to any medical center of the Department of Veterans Affairs, giving priority to locations with a significant staffing shortage.
+
+&emsp;"(3)
+
+Inclusion of information in transition assistance program.—As part of the Transition Assistance Program under sections 1142 and 1144 of title 10, United States Code, the Secretary of Veterans Affairs shall conduct a communications campaign to convey to appropriate members of the Armed Forces separating from active duty opportunities for training, certification, and employment under the program under paragraph (1).
+
+&emsp;"(4)
+
+Report on expansion of program.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report on whether the program under paragraph (1) may be replicated for other medical positions within the Department of Veterans Affairs.
+
+"(c)
+
+Notification of Opportunities for Veterans.—The Secretary of Veterans Affairs shall notify veterans service organizations and, in coordination with the Secretary of Defense, members of the reserve components of the Armed Forces of opportunities for veterans under this section.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered veteran' means a veteran whom the Secretary of Veterans Affairs determines served as a basic health care technician while serving in the Armed Forces.
+
+&emsp;"(2) The terms 'State home' and 'veteran' have the meanings given those terms in section 101 of title 38, United States Code.
+
+&emsp;"(3) The term 'veterans service organization' means an organization that provides services to veterans, including organizations recognized by the Secretary of Veterans Affairs under section 5902 of title 38, United States Code."
+
 #### Pilot Program on Graduate Medical Education and Residency
 
 Pub. L. 115–182, title IV, §403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, §211(b)(9), Sept. 29, 2018, 132 Stat. 3177; Pub. L. 116–159, div. E, title I, §5107, Oct. 1, 2020, 134 Stat. 749, provided that:
@@ -62,7 +134,7 @@ Establishment.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (5), the Secretary of Veterans Affairs shall establish a pilot program to establish medical residency positions authorized under section 7302 of title 38, United States Code, at covered facilities.
+In general.—Subject to paragraph (5), the Secretary of Veterans Affairs shall establish a pilot program to establish medical residency positions authorized under section 7302 of title 38, United States Code, at covered facilities."
 
 &emsp;"(2)
 
@@ -138,7 +210,7 @@ Reporting.—
 
 &emsp;"(1)
 
-In general.—Not later than 1 year after the date of the enactment of this Act \[June 6, 2018\] and not less frequently than once each year thereafter until the termination of the pilot program, the Secretary shall submit to Congress a report on the implementation of the pilot program.
+In general.—Not later than 1 year after the date of the enactment of this Act \[June 6, 2018\] andnot less frequently than once each year thereafter until the termination of the pilot program, the Secretary shall submit to Congress a report on the implementation of the pilot program.
 
 &emsp;"(2)
 

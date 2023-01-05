@@ -24,7 +24,7 @@
 
 (d) For the purposes of subsection (b) of this section "lottery" means the pooling of proceeds derived from the sale of tickets or chances and allotting those proceeds or parts thereof by chance to one or more chance takers or ticket purchasers. "Lottery" does not include the placing or accepting of bets or wagers on sporting events or contests. For purposes of this section, the term a "not-for-profit organization" means any organization that would qualify as tax exempt under section 501 of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 93–583, §1, Jan. 2, 1975, 88 Stat. 1916; amended Pub. L. 94–525, §1, Oct. 17, 1976, 90 Stat. 2478; Pub. L. 96–90, §1, Oct. 23, 1979, 93 Stat.698; Pub. L. 100–625, §§2(a), (b), 3(a)(1), (3), Nov. 7, 1988, 102 Stat. 3205, 3206.)
+(Added Pub. L. 93–583, §1, Jan. 2, 1975, 88 Stat. 1916; amended Pub. L. 94–525, §1, Oct. 17, 1976, 90 Stat. 2478; Pub. L. 96–90, §1, Oct. 23, 1979, 93 Stat. 698; Pub. L. 100–625, §§2(a), (b), 3(a)(1), (3), Nov. 7, 1988, 102 Stat. 3205, 3206.)
 
 #### <b>Editorial Notes</b>
 

@@ -12,7 +12,7 @@ Subject to the availability of appropriations, the Attorney General shall fully 
 
 #### Codification
 
-Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996,and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Immigration and Nationality Act which comprises this chapter.
+Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

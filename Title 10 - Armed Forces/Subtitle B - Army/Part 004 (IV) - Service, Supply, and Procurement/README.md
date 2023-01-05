@@ -22,7 +22,7 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 433 to 453 as 763 to 783 and redesignated section numbers 4531 to 4831 as 7532 to 7831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters433 to 453 as 763 to 783 and redesignated section numbers 4531 to 4831 as 7532 to 7831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title V, §591(a)(2), Dec. 31, 2011, 125 Stat. 1441, added item for chapter 446.
 

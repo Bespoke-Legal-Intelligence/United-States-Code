@@ -18,7 +18,7 @@ In selecting persons for the national service program, the Director shall endeav
 
 #### (d) Period of participation
 
-Persons desiring to participate in the national service program shall enter into an agreement with the Director to participate in the Corps for a period of not less than nine months and notmore than one year, as specified by the Director, and may renew the agreement for not more than one additional such period.
+Persons desiring to participate in the national service program shall enter into an agreement with the Director to participate in the Corps for a period of not less than nine months and not more than one year, as specified by the Director, and may renew the agreement for not more than one additional such period.
 
 (Pub. L. 101–610, title I, §153, formerly §195B, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2523; renumbered §153 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(A), Sept. 21, 1993, 107 Stat. 840, 846; Pub. L. 111–13, title I, §1503, Apr. 21, 2009, 123 Stat. 1521.)
 

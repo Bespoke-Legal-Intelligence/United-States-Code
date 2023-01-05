@@ -10,7 +10,7 @@ The United States Government, in connection with its voice and vote in the Inter
 
 #### (b) Policy considerations for Executive Directors of institutions in implementation of duties
 
-Further, the Secretary of the Treasury shall instruct each Executive Director of the aboveinstitutions to consider in carrying out his duties:
+Further, the Secretary of the Treasury shall instruct each Executive Director of the above institutions to consider in carrying out his duties:
 
 &emsp;(1) specific actions by either the executive branch or the Congress as a whole on individual bilateral assistance programs because of human rights considerations;
 
@@ -24,7 +24,7 @@ Further, the Secretary of the Treasury shall instruct each Executive Director of
 
 &emsp;&emsp;(C) has detonated a nuclear explosive device; and
 
-&emsp;(4) in relation to assistance for the Socialist Republic of Vietnam, the People's Democratic Republic of Laos, Russia and the other independent states of the former Soviet Union (as defined in section 5801 of this title), and Democratic Kampuchea (Cambodia), the responsiveness of the governments of such countries in providing a more substantial accounting of Americans missing in action.
+&emsp;(4) in relation to assistance for the Socialist Republic of Vietnam, the People's Democratic Republic of Laos, Russia and the other independent states of the former Soviet Union (asdefined in section 5801 of this title), and Democratic Kampuchea (Cambodia), the responsiveness of the governments of such countries in providing a more substantial accounting of Americans missing in action.
 
 #### (c) Requirements of United States assistance through institutions for projects in recipient countries
 
@@ -78,7 +78,7 @@ Subsec. (g)(1). Pub. L. 101–240, §541(d)(4), struck out par. (1) which relate
 
 <b>1983</b>—Subsec. (a)(1). Pub. L. 98–181 substituted "pattern" for "consistent pattern".
 
-Subsec. (g)(1). Pub. L. 98–181 substituted "Not later than thirty days after the end of each calendar quarter, the Secretary of the Treasury, in consultation with the Secretary of State, shall report." for "The Secretary of the Treasury, in consultation with the Secretary of State, shall report quarterly".
+Subsec. (g)(1). Pub. L. 98–181 substituted "Not later than thirty days after the end of each calendar quarter,the Secretary of the Treasury, in consultation with the Secretary of State, shall report." for "The Secretary of the Treasury, in consultation with the Secretary of State, shall report quarterly".
 
 <b>1982</b>—Subsec. (c)(1). Pub. L. 97–375 inserted "excluding section 262e of this title and".
 
@@ -138,9 +138,9 @@ Briefings.—The Secretary of the Treasury shall make relevant officials availab
 
 #### Consultations for Adoption of Amendment to Articles of Agreement Respecting Human Rights Standards in Connection With Any Application for Assistance
 
-Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501(c), June 3, 1980, 94 Stat. 432, provided that: "The President shall direct the UnitedStates Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to consult with the other Governors of those institutions concerning adoption of an amendment to the Articles of Agreement of their respective institutions to establish human rights standards to be considered in connection with each application for assistance."
+Pub. L. 95–118, title VII, §705, as added by Pub. L. 96–259, title V, §501(c), June 3, 1980, 94 Stat. 432, provided that: "The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to consult with the other Governors of those institutions concerning adoption of an amendment to the Articles of Agreement of their respective institutions to establish human rights standards to be considered in connection with each application for assistance."
 
 #### Amendment of Articles of Agreement of International Financial Institutions; Establishment of Human Rights Standards To Be Considered in Connection With Assistance Application
 
-Pub. L. 95–481, title VI, §611, Oct. 18, 1978, 92 Stat. 1602, provided that: "The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and the United States Governor of the African Development Fund, to propose and seek adoption of an amendment to the Articles of Agreement for their respective institutions to establish human rights standards to be considered in connection with each application for assistance."
+Pub. L. 95–481, title VI, §611, Oct. 18, 1978, 92 Stat. 1602, provided that: "The President shall direct the United States Governor of the International Bank for Reconstruction and Development, the United States Governor of the International Finance Corporation, the United States Governor of the International Development Association, the United States Governor of the Inter-American Development Bank, the United States Governor of the Asian Development Bank, and theUnited States Governor of the African Development Fund, to propose and seek adoption of an amendment to the Articles of Agreement for their respective institutions to establish human rights standards to be considered in connection with each application for assistance."
 

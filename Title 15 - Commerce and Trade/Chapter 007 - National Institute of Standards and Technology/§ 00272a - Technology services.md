@@ -2,7 +2,7 @@
 
 In addition to such other technology services and technology extension activities which may be mandated or authorized by law, and in order to help improve the use of technology by small and medium-sized industrial firms within the United States, the Director of the National Institute of Standards and Technology, as appropriate, shall—
 
-&emsp;(1) work directly with States, local governments, and other appropriate organizations to provide for extended distribution of Standard Reference Materials, Standard Reference Data, calibrations, and related technical services and to help transfer other expertise and technology to the States and to small businesses and other businesses within the States;
+&emsp;(1) work directly with States, local governments, and other appropriate organizations toprovide for extended distribution of Standard Reference Materials, Standard Reference Data, calibrations, and related technical services and to help transfer other expertise and technology to the States and to small businesses and other businesses within the States;
 
 &emsp;(2) evaluate those inventions from small businesses or individuals which have a significant potential for improving competitiveness;
 

@@ -22,7 +22,7 @@ Highway safety improvement project.—
 
 &emsp;&emsp;(A)
 
-In general.—The term "highway safety improvement project" means strategies, activities, and projects on a public road thatare consistent with a State strategic highway safety plan and—
+In general.—The term "highway safety improvement project" means strategies, activities, and projects on a public road that are consistent with a State strategic highway safety plan and—
 
 &emsp;&emsp;&emsp;(i) correct or improve a hazardous road location or feature; or
 
@@ -250,7 +250,7 @@ Identification and analysis of highway safety problems and opportunities.—As p
 
 &emsp;&emsp;(A) have in place a safety data system with the ability to perform safety problem identification and countermeasure analysis—
 
-&emsp;&emsp;&emsp;(i) to improve the timeliness, accuracy, completeness, uniformity, integration, and accessibility of the safety data on all public roads, including non-State-owned public roads and roads on tribal land in the State;
+&emsp;&emsp;&emsp;(i) to improve the timeliness, accuracy, completeness, uniformity, integration, andaccessibility of the safety data on all public roads, including non-State-owned public roads and roads on tribal land in the State;
 
 &emsp;&emsp;&emsp;(ii) to evaluate the effectiveness of data improvement efforts;
 
@@ -454,7 +454,7 @@ Special Rules.—
 
 &emsp;(1)
 
-High-risk rural road safety.—If the fatality rate on rural roads in a State increases over the most recent 2-year period for which data are available, that State shall be requiredto obligate in the next fiscal year for projects on high risk rural roads an amount equal to at least 200 percent of the amount of funds the State received for fiscal year 2009 for high risk rural roads under subsection (f) of this section, as in effect on the day before the date of enactment of the MAP–21.
+High-risk rural road safety.—If the fatality rate on rural roads in a State increases over the most recent 2-year period for which data are available, that State shall be required to obligate in the next fiscal year for projects on high risk rural roads an amount equal to at least 200 percent of the amount of funds the State received for fiscal year 2009 for high risk rural roads under subsection (f) of this section, as in effect on the day before the date of enactment of the MAP–21.
 
 &emsp;(2)
 

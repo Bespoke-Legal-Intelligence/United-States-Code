@@ -22,7 +22,7 @@ Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(e)\], Sept. 30, 1
 
 "(1)
 
-First appointment.—The first Inspector General of the United States Postal Service appointed pursuant to the amendments made by this section \[amending sections 102, 202, 204, 410, and 1003 of this title, section 5315 of Title 5, Government Organization and Employees, and section 8G of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, and renumbering another section 8G of the Inspector General Act of 1978 as 8H\] shall be appointed before the end of the 90-day period beginning on the date of the enactment of this Act \[Sept. 30, 1996\].
+First appointment.—The first Inspector General of the United States Postal Service appointed pursuant to the amendments made by this section \[amending sections 102, 202, 204, 410, and 1003 of this title, section 5315 of Title 5, Government Organization and Employees, and section 8G of the Inspector General Act of 1978, Pub. L. 95–452, formerly set out in the Appendix to Title 5, and renumbering another section 8G of the Inspector General Act of 1978 as 8H\] shall be appointed before the end of the 90-day period beginning on the date of the enactment of this Act \[Sept. 30, 1996\].
 
 "(2)
 
@@ -30,7 +30,7 @@ Transfers.—
 
 &emsp;"(A)
 
-In general.—All measures described in section 8G(b) of the Inspector General Act of 1978 necessary to establish an Office of Inspector General within the United States Postal Service pursuant to this section, including all appropriate transfers, shall occur—
+In general.—All measures described in section 8G(b) of the Inspector General Act of 1978 \[see 5 U.S.C. 415(b)\] necessary to establish an Office of Inspector General within the United States Postal Service pursuant to this section, including all appropriate transfers, shall occur—
 
 &emsp;&emsp;"(i) no earlier than the date the appointment under paragraph (1) is made; and
 

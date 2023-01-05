@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) in accordance with such subparagraph; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to such number, as determined by the Administrator based on the best available information and subject to amounts made available under section 300mm–61 of this title, that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals receiving such certifications; and
+&emsp;&emsp;&emsp;&emsp;(II) to such number, as determined by the Administrator based on the best available information and subject to amounts made available under sections 300mm–61 and 300mm–62 of this title, that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals receiving such certifications; and
 
 &emsp;&emsp;&emsp;(ii) provide priority in such certifications in the order in which individuals apply for a determination under paragraph (2)(B).
 
@@ -136,11 +136,13 @@
 
 &emsp;Benefits for an initial health evaluation under this subpart for a screening-eligible WTC survivor shall consist only of a single medical initial health evaluation consistent with initial health evaluation protocols described in paragraph (1). Nothing in this paragraph shall be construed as preventing such an individual from seeking additional medical initial health evaluations at the expense of the individual.
 
-(July 1, 1944, ch. 373, title XXXIII, §3321, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3648; amended Pub. L. 114–113, div. O, title III, §302(f), Dec. 18, 2015, 129 Stat. 3000; Pub. L. 116–59, div. B, title VI, §1602(b), Sept. 27, 2019, 133 Stat. 1107.)
+(July 1, 1944, ch. 373, title XXXIII, §3321, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3648; amended Pub. L. 114–113, div. O, title III, §302(f), Dec. 18, 2015, 129 Stat. 3000; Pub. L. 116–59, div. B, title VI, §1602(b), Sept. 27, 2019, 133 Stat. 1107; Pub. L. 117–328, div. FF, title VII, §7701(b)(2), Dec. 29, 2022, 136 Stat. 5965.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(3)(B)(i)(II). Pub. L. 117–328 substituted "sections 300mm–61 and 300mm–62 of this title" for "section 300mm–61 of this title".
 
 <b>2019</b>—Subsec. (a)(3)(A). Pub. L. 116–59 substituted "75,000" for "25,000".
 

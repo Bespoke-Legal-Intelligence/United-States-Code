@@ -1,10 +1,10 @@
 ### §3707. Temporary members of the Reserve; disability or death benefits
 
-(a) If a temporary member of the Reserve is physically injured, or dies as a result of physical injury, and the injury is incurred incident to service while performing active duty, or engaged in authorized travel to or from that duty, the law authorizing compensation for employees of the United States suffering injuries while in the performance of their duties, applies, subject to this section. That law shall be administered by the Secretary of Labor to the same extent as if the member was a civil employee of the United States and was injured in the performance of that duty. For benefit computation, regardless of pay or pay status, the member is considered to have had monthly pay of the monthly equivalent of the minimum rate of basic pay in effect for grade GS–9 of the General Schedule on the date the injury is incurred.
+(a) If a temporary member of the Reserve is physically injured, or dies as a result of physical injury, and the injury is incurred incident to service while performing active duty, or engagedin authorized travel to or from that duty, the law authorizing compensation for employees of the United States suffering injuries while in the performance of their duties, applies, subject to this section. That law shall be administered by the Secretary of Labor to the same extent as if the member was a civil employee of the United States and was injured in the performance of that duty. For benefit computation, regardless of pay or pay status, the member is considered to have had monthly pay of the monthly equivalent of the minimum rate of basic pay in effect for grade GS–9 of the General Schedule on the date the injury is incurred.
 
 (b) This section does not apply if the workmen's compensation law of a State, a territory, or another jurisdiction provides coverage because of a concurrent employment status of the temporary member. When the temporary member or a dependent is entitled to a benefit under this section and also to a concurrent benefit from the United States on account of the same disability or death, the temporary member or dependent, as appropriate, shall elect which benefit to receive.
 
-(c) If a claim is filed under this section with the Secretary of Labor for benefits because of analleged injury or death, the Secretary of Labor shall notify the Commandant who shall direct an investigation into the facts surrounding the alleged injury or death. The Commandant shall then certify to the Secretary of Labor whether or not the injured or deceased individual was a temporary member of the Reserve, the individual's military status, and whether or not the injury or death was incurred incident to military service.
+(c) If a claim is filed under this section with the Secretary of Labor for benefits because of an alleged injury or death, the Secretary of Labor shall notify the Commandant who shall direct an investigation into the facts surrounding the alleged injury or death. The Commandant shall then certify to the Secretary of Labor whether or not the injured or deceased individual was a temporary member of the Reserve, the individual's military status, and whether or not the injury or death was incurred incident to military service.
 
 (d) A temporary member of the Reserve, who incurs a physical disability or contracts sickness or disease while performing a duty to which the member has been assigned by competent authority, is entitled to the same hospital treatment afforded a member of the Regular Coast Guard.
 
@@ -32,7 +32,7 @@ The law authorizing compensation for employees of the United States, referred to
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5.
 
-The Social Security Act, referred to in subsec. (e)(1)(A), (B), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e)(1)(A), (B), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -62,5 +62,5 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–136, §8(b), Dec. 29, 1981, 95 Stat. 1706, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to payments for benefits under section 707(a) \[now 3707(a)\] of title 14, United States Code, for months beginning on or after the date of the enactment of this Act \[Dec. 29, 1981\]."
+Pub. L. 97–136, §8(b), Dec. 29, 1981, 95 Stat. 1706, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply only with respect to payments for benefits under section 707(a) \[now 3707(a)\] of title 14, United States Code, for months beginning on or after the date of the enactment of this Act \[Dec. 29, 1981\]."
 

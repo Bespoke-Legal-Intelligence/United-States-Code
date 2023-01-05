@@ -76,7 +76,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 #### (g) Preliminary injunction
 
-(1) If the Commission has initiated a proceeding under this section for the issuance of an order under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to section 2076(b)(7) of this title) or the Attorney General may, in accordance with 2061(d)(1) <sup>3</sup> of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply to the issuing court for extensions of such preliminary injunction.
+(1) If the Commission has initiated a proceeding under this section for the issuance of anorder under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to section 2076(b)(7) of this title) or the Attorney General may, in accordance with 2061(d)(1) <sup>3</sup> of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply to the issuing court for extensions of such preliminary injunction.
 
 (2) Any preliminary injunction, and any extension of a preliminary injunction, issued under this subsection with respect to a product shall be in effect for such period as the issuing court prescribes not to exceed a period which extends beyond the thirtieth day from the date of the issuance of the preliminary injunction (or, in the case of a preliminary injunction which has been extended, the date of its extension) or the date of the completion or termination of the proceeding under this section respecting such product, whichever date occurs first.
 
@@ -182,7 +182,7 @@ Subsec. (d)(1)(C). Pub. L. 110–314, §214(b)(6), (7), substituted "more (i)" f
 
 Subsec. (d)(2). Pub. L. 110–314, §214(b)(13), which directed substitution of "described in paragraph (1)(C)." for "described in paragraph (3).", could not be executed because "paragraph (3)" did not appear subsequent to amendment by Pub. L. 110–314, §214(b)(11). See below.
 
-Pub. L. 110–314, §214(b)(12), struck out "If an order under this subsection is directed to more than one person, the Commission shall specify which person has theelection under this subsection" before ". An order under this subsection may prohibit".
+Pub. L. 110–314, §214(b)(12), struck out "If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection" before ". An order under this subsection may prohibit".
 
 Pub. L. 110–314, §214(b)(11), substituted "if the Commission orders the action described in subparagraph (C)" for "if the person to whom the order is directed elects to take the action described in paragraph (3)".
 
@@ -230,7 +230,7 @@ Amendment by section 214(a)(2) of Pub. L. 110–314 effective on the date that i
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Effective Date of 1981 Amendment
 

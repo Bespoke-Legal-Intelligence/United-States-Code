@@ -45,6 +45,7 @@
 | [<b>21D.</b>](Chapter%20021D%20-%20Detainee%20Treatment/README.md) | <b>Detainee Treatment</b> | <b>2000dd</b> |
 | [<b>21E.</b>](Chapter%20021E%20-%20Privacy%20and%20Civil%20Liberties%20Protection%20and%20Oversight/README.md) | <b>Privacy and Civil Liberties Protection and Oversight</b> | <b>2000ee</b> |
 | [<b>21F.</b>](Chapter%20021F%20-%20Prohibiting%20Employment%20Discrimination%20on%20the%20Basis%20of%20Genetic%20Information/README.md) | <b>Prohibiting Employment Discrimination on the Basis of Genetic Information</b> | <b>2000ff</b> |
+| [<b>21G.</b>](Chapter%20021G%20-%20Pregnant%20Worker%20Fairness/README.md) | <b>Pregnant Worker Fairness</b> | <b>2000gg</b> |
 | [<b>22.</b>](Chapter%20022%20-%20Indian%20Hospitals%20and%20Health%20Facilities/README.md) | <b>Indian Hospitals and Health Facilities</b> | <b>2001</b> |
 | [<b>23.</b>](Chapter%20023%20-%20Development%20and%20Control%20of%20Atomic%20Energy/README.md) | <b>Development and Control of Atomic Energy</b> | <b>2011</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Disposal%20of%20Atomic%20Energy%20Communities/README.md) | <b>Disposal of Atomic Energy Communities</b> | <b>2301</b> |
@@ -195,6 +196,8 @@
 | [<b>160.</b>](Chapter%20160%20-%20Treatment%20of%20Certain%20Payments%20in%20Eugenics%20Compensation/README.md) | <b>Treatment of Certain Payments in Eugenics Compensation</b> | <b>18501</b> |
 | [<b>161.</b>](Chapter%20161%20-%20Department%20of%20Energy%20Research%20and%20Innovation/README.md) | <b>Department of Energy Research and Innovation</b> | <b>18601</b> |
 | [<b>162.</b>](Chapter%20162%20-%20Energy%20Infrastructure/README.md) | <b>Energy Infrastructure</b> | <b>18701</b> |
+| [<b>163.</b>](Chapter%20163%20-%20Research%20and%20Development%2C%20Competition%2C%20and%20Innovation/README.md) | <b>Research and Development, Competition, and Innovation</b> | <b>18901</b> |
+| [<b>164.</b>](Chapter%20164%20-%20Speak%20Out%20Act/README.md) | <b>Speak Out Act</b> | <b>19401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -245,6 +248,7 @@
 - [Chapter 021D - Detainee Treatment](Chapter%20021D%20-%20Detainee%20Treatment/README.md)
 - [Chapter 021E - Privacy and Civil Liberties Protection and Oversight](Chapter%20021E%20-%20Privacy%20and%20Civil%20Liberties%20Protection%20and%20Oversight/README.md)
 - [Chapter 021F - Prohibiting Employment Discrimination on the Basis of Genetic Information](Chapter%20021F%20-%20Prohibiting%20Employment%20Discrimination%20on%20the%20Basis%20of%20Genetic%20Information/README.md)
+- [Chapter 021G - Pregnant Worker Fairness](Chapter%20021G%20-%20Pregnant%20Worker%20Fairness/README.md)
 - [Chapter 022 - Indian Hospitals and Health Facilities](Chapter%20022%20-%20Indian%20Hospitals%20and%20Health%20Facilities/README.md)
 - [Chapter 023 - Development and Control of Atomic Energy](Chapter%20023%20-%20Development%20and%20Control%20of%20Atomic%20Energy/README.md)
 - [Chapter 024 - Disposal of Atomic Energy Communities](Chapter%20024%20-%20Disposal%20of%20Atomic%20Energy%20Communities/README.md)
@@ -395,3 +399,5 @@
 - [Chapter 160 - Treatment of Certain Payments in Eugenics Compensation](Chapter%20160%20-%20Treatment%20of%20Certain%20Payments%20in%20Eugenics%20Compensation/README.md)
 - [Chapter 161 - Department of Energy Research and Innovation](Chapter%20161%20-%20Department%20of%20Energy%20Research%20and%20Innovation/README.md)
 - [Chapter 162 - Energy Infrastructure](Chapter%20162%20-%20Energy%20Infrastructure/README.md)
+- [Chapter 163 - Research and Development, Competition, and Innovation](Chapter%20163%20-%20Research%20and%20Development%2C%20Competition%2C%20and%20Innovation/README.md)
+- [Chapter 164 - Speak Out Act](Chapter%20164%20-%20Speak%20Out%20Act/README.md)

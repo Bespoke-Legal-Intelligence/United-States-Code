@@ -14,7 +14,7 @@ Competitive Process.—The Secretary concerned shall ensure that the time, metho
 
 (d)
 
-Terms and Conditions.—(1) The conveyance or lease of property or facilities under this section shall be for such consideration and upon such terms and conditions as the Secretary concerned considers appropriate for the purposes of this subchapter and to protect the interests of the United States.
+Terms and Conditions.—(1) The conveyance or lease of property or facilities under this section shall be for such consideration and upon such terms and conditions as the Secretary concerned considers appropriate for the purposes ofthis subchapter and to protect the interests of the United States.
 
 (2) As part or all of the consideration for a conveyance or lease under this section, the purchaser or lessor (as the case may be) shall enter into an agreement with the Secretary to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or sublease of a reasonable number of the housing units covered by the conveyance or lease, as the case may be, or in the lease of other suitable housing units made available by the purchaser or lessee.
 
@@ -30,11 +30,49 @@ Inapplicability of Certain Property Management Laws.—The conveyance or lease o
 
 &emsp;(4) Section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411).
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, §1073(a)(60), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. B, title XXVIII, §2803(g), Oct. 5, 1999, 113 Stat. 849; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(23), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 110–417, div. B, title XXVIII, §2805(d), Oct. 14, 2008, 122 Stat. 4723; Pub. L. 111–350, §5(b)(50), Jan. 4, 2011, 124 Stat. 3846.)
+(f)
+
+Notice of Lease Extensions.—(1) The Secretary concerned shall provide to the congressional defense committees notice in writing and a briefing—
+
+&emsp;(A) not later than 60 days after beginning negotiations with a lessor for the extension of the term of any ground lease of property or facilities under this section; and
+
+&emsp;(B) not later than 90 days before extending the term of any ground lease of property or facilities under this section.
+
+(2) A notice and briefing required under paragraph (1) shall include each of the following:
+
+&emsp;(A) A description of any material differences between the extended ground lease and the original ground lease, including with respect to—
+
+&emsp;&emsp;(i) the length of the term of the lease, as extended; and
+
+&emsp;&emsp;(ii) any new provisions that materially affect the rights and responsibilities of the ground lessor or the ground lessee under the original ground lease.
+
+&emsp;(B) The number of housing units or facilities subject to the ground lease that, during the lease extension, are to be—
+
+&emsp;&emsp;(i) constructed;
+
+&emsp;&emsp;(ii) demolished; or
+
+&emsp;&emsp;(iii) renovated.
+
+&emsp;(C) The source of any additional financing the lessor has obtained, or intends to obtain, during the term of the ground lease extension that will be used for the development of the property or facilities subject to the ground lease.
+
+&emsp;(D) The following information, displayed annually, for the five-year period preceding the date of the notice and briefing:
+
+&emsp;&emsp;(i) The debt-to-net operating income ratio for the property or facility subject to the ground lease.
+
+&emsp;&emsp;(ii) The occupancy rates for the housing units subject to the ground lease.
+
+&emsp;&emsp;(iii) An <sup>1</sup> report on maintenance response times and completion of maintenance requests for the housing units subject to the ground lease.
+
+&emsp;&emsp;(iv) The occupancy rates and debt-to-net operating income ratios of any other military privatized housing initiative projects managed by a company that controls, or that is under common control with, the ground lessee entering into the lease extension.
+
+(Added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 547; amended Pub. L. 105–85, div. A, title X, §1073(a)(60), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. B, title XXVIII, §2803(g), Oct. 5, 1999, 113 Stat. 849; Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(23), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 110–417, div. B, title XXVIII, §2805(d), Oct. 14, 2008, 122 Stat. 4723; Pub. L. 111–350, §5(b)(50), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 117–263, div. B, title XXVIII, §2822, Dec. 23, 2022, 136 Stat. 3000.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–263 added subsec. (f).
 
 <b>2011</b>—Subsec. (e)(2). Pub. L. 111–350, which directed substitution of "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" in subsec. (d)(2), was executed by making the substitution in subsec. (e)(2) to reflect the probable intent of Congress and the amendment by Pub. L. 110–417. See 2008 Amendment note below.
 
@@ -49,4 +87,6 @@ Subsec. (d)(3). Pub. L. 107–217, §3(b)(23)(B), substituted "Section 1302 of t
 <b>1999</b>—Subsec. (a). Pub. L. 106–65 substituted "eligible entities" for "private persons".
 
 <b>1997</b>—Subsec. (d)(4). Pub. L. 105–85 substituted "11411" for "11401".
+
+<i><sup>1</sup></i><i> So in original.</i>
 

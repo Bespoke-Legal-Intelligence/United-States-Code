@@ -6,7 +6,7 @@ Program for Provision of Voluntary Services.—
 
 &emsp;(1)
 
-Program.—The Administrator of the Transportation Security Administration shall carry out a program to permit qualified law enforcement officers, firefighters, and emergency medical technicians to provide emergency services on commercial air flights during emergencies.
+Program.—The Administrator of the Transportation Security Administration shallcarry out a program to permit qualified law enforcement officers, firefighters, and emergency medical technicians to provide emergency services on commercial air flights during emergencies.
 
 &emsp;(2)
 

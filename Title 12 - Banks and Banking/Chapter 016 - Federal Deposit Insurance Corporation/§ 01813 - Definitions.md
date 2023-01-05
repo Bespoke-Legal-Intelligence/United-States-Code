@@ -24,7 +24,7 @@ As used in this chapter—
 
 #### (3) State
 
-&emsp;&emsp;The term "State" means any State of the United States, the District of Columbia, anyterritory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
+&emsp;&emsp;The term "State" means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
 #### (b) Definition of savings associations and related terms
 
@@ -104,7 +104,7 @@ As used in this chapter—
 
 #### (g) Savings bank
 
-&emsp;The term "savings bank" means a bank (including a mutual savings bank) which transacts its ordinary banking business strictly as a savings bank under State laws imposing special requirements on such banks governing the manner of investing their funds and of conducting their business.
+&emsp;The term "savings bank" means a bank (including a mutual savings bank) which transacts its ordinary banking business strictly as a savings bank under State laws imposing special requirements on such banks governing themanner of investing their funds and of conducting their business.
 
 #### (h) Insured bank
 
@@ -576,7 +576,7 @@ Subsecs. (r), (s). Pub. L. 95–369, §6(c)(6), added subsecs. (r) and (s).
 
 Subsec. (q). Pub. L. 89–695, §201, added subsec. (q).
 
-<b>1960</b>—Subsec. (l). Pub. L. 86–671 amended subsec. (l) generally, and among other changes, inserted in par. (1) "or held", "either conditionally or unconditionally", "or a check or draft drawn against a deposit accountand certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable", and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directors to consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
+<b>1960</b>—Subsec. (l). Pub. L. 86–671 amended subsec. (l) generally, and among other changes, inserted in par. (1) "or held", "either conditionally or unconditionally", "or a check or draft drawn against a deposit account and certified by the bank, or a letter of credit or a traveler's check on which the bank is primarily liable", and inserted the proviso, added pars. (3) and (4), inserted provisions in par. (5) requiring the Board of Directors to consult with the Comptroller of the Currency and the Board of Governors of the Federal Reserve System, and struck out provisions which permitted mainland banks to exclude from deposit insurance the deposits of any of its branches in the Virgin Islands.
 
 <b>1956</b>—Subsec. (a). Act Aug. 1, 1956, §3(a), inserted "Guam," after "Puerto Rico," and substituted a comma for the period and inserted "and the word 'State' means any State of the United States, the District of Columbia, any Territory of the United States, Puerto Rico, Guam, or the Virgin Islands".
 

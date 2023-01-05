@@ -60,7 +60,7 @@ The remedy for a violation of subsection (a) shall be an order to correct the vi
 
 #### (2) Agency regulations
 
-&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulationspromulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
+&emsp;The regulations issued under paragraph (1) shall be the same as substantive regulations promulgated by the Secretary of Labor to implement the statutory provisions referred to in subsection (a) except to the extent that the Board may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section.
 
 #### (3) Employing office responsible for correction
 
@@ -108,7 +108,7 @@ The period from January 23, 1995, until December 31, 1996, shall be available to
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Amendments
 
@@ -132,5 +132,5 @@ Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–437 effective first day of first pay period (applicable to employees transferredunder section 2241 of this title) on or after 30 days after Oct. 20, 2008, see section 422(d) of Pub. L. 110–437, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 110–437 effective first day of first pay period (applicable to employees transferred under section 2241 of this title) on or after 30 days after Oct. 20, 2008, see section 422(d) of Pub. L. 110–437, set out as a note under section 1301 of this title.
 

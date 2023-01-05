@@ -20,7 +20,7 @@ The Secretary may provide financial assistance to coordinating consortia of inte
 
 #### (3) Definition
 
-&emsp;For purposes of this subsection, the term "small scale portable power device" means a field-deployable portable mechanical or electromechanical device that can be used for applications such as communications, computation, mobility enhancement, weapons systems, optical devices, cooling, sensors, medical devices, and active biological agent detection systems.
+&emsp;For purposes of this subsection, the term "small scale portable power device" means afield-deployable portable mechanical or electromechanical device that can be used for applications such as communications, computation, mobility enhancement, weapons systems, optical devices, cooling, sensors, medical devices, and active biological agent detection systems.
 
 (Pub. L. 109–58, title IX, §924, Aug. 8, 2005, 119 Stat. 865.)
 

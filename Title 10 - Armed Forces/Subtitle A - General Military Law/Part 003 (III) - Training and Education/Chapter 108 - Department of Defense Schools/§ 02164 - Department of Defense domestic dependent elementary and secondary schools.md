@@ -62,7 +62,7 @@ School Boards.—(1) The Secretary of Defense shall provide for the establishmen
 
 (5) Meetings conducted by the school board shall be open to the public, except as provided in paragraph (6).
 
-(6) A school board need not comply with the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), but may close meetings in accordance with such Act.
+(6) A school board need not comply with the provisions of chapter 10 of title 5, but may close meetings in accordance with chapter 10 of title 5.
 
 (7) The Secretary may provide for reimbursement of a school board member for expenses incurred by the member for travel, transportation, lodging, meals, program fees, activity fees, and other appropriate expenses that the Secretary determines are reasonable and necessary for the performance of school board duties by the member.
 
@@ -178,7 +178,7 @@ Enrollment of Relocated Defense Dependents' Education System Students.—(1) The
 
 (l)
 
-Enrollment in Virtual Elementary and Secondary Education Program.—(1) Under regulations prescribed by the Secretary of Defense, the Secretary may authorize the enrollment in the virtual elementary and secondary education program established as a component of the Department of Defense education program of a dependent of a member of the armed forces on active duty who—
+Enrollment in Virtual Elementary and Secondary Education Program.—(1) Under regulations prescribed by the Secretary of Defense,the Secretary may authorize the enrollment in the virtual elementary and secondary education program established as a component of the Department of Defense education program of a dependent of a member of the armed forces on active duty who—
 
 &emsp;(A) is enrolled in an elementary or secondary school operated by a local educational agency or another accredited educational program in the United States (other than a school operated by the Department of Defense education program); and
 
@@ -188,13 +188,11 @@ Enrollment in Virtual Elementary and Secondary Education Program.—(1) Under re
 
 (3) Any payments received by the Secretary of Defense under this subsection shall be credited to the account designated by the Secretary for the operation of the virtual educational program under this subsection. Payments so credited shall be merged with other funds in the account and shall be available, to the extent provided in advance in appropriation Acts, for the same purposes and the same period as other funds in the account.
 
-(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L.104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, §534, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 111–383, div. A, title V, §561, Jan. 7, 2011, 124 Stat. 4221; Pub. L. 112–239, div. A, title V, §565, Jan. 2, 2013, 126 Stat. 1749; Pub. L. 113–66, div. A, title V, §553(a), Dec. 26, 2013, 127 Stat. 764.)
+(Added Pub. L. 103–337, div. A, title III, §351(a), Oct. 5, 1994, 108 Stat. 2727; amended Pub. L. 104–106, div. A, title X, §1075, Feb. 10, 1996, 110 Stat. 450; Pub. L. 104–201, div. A, title XVI, §1608, Sept. 23, 1996, 110 Stat. 2737; Pub. L. 105–261, div. A, title III, §371(a)–(c)(2), Oct. 17, 1998, 112 Stat. 1988, 1989; Pub. L. 106–65, div. A, title III, §§352, 353, Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title III, §361\], Oct. 30, 2000, 114 Stat. 1654, 1654A–76; Pub. L. 108–446, title III, §305(a), Dec. 3, 2004, 118 Stat. 2804; Pub. L. 111–84, div. A, title V, §534, Oct. 28, 2009, 123 Stat. 2292; Pub. L. 111–383, div. A, title V, §561, Jan. 7, 2011, 124 Stat. 4221; Pub. L. 112–239, div. A, title V, §565, Jan. 2, 2013, 126 Stat. 1749; Pub. L. 113–66, div. A, title V, §553(a), Dec. 26, 2013, 127 Stat. 764; Pub. L. 117–286, §4(a)(52), Dec. 27, 2022, 136 Stat. 4311.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (d)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The effective date of this section, referred to in subsec. (e)(3)(B), is the date of enactment of Pub. L. 103–337 which was approved Oct. 5, 1994.
 
@@ -203,6 +201,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), 
 Section 6(a) of Public Law 81–874 (20 U.S.C. 241(a)), referred to in subsec. (f)(2), was repealed by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(6). Pub. L. 117–286 substituted "chapter 10 of title 5, but may close meetings in accordance with chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.), but may close meetings in accordance with such Act."
 
 <b>2013</b>—Subsecs. (k), (l). Pub. L. 112–239 added subsecs. (k) and (l).
 
@@ -248,7 +248,7 @@ Subsec. (e)(4). Pub. L. 104–106 added par. (4).
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 113–66, div. A, title V, §553(b), Dec. 26, 2013, 127 Stat. 764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to tuition payments received under section 2164(l) of title 10, United States Code, for enrollments authorized by such section, after the date of the enactment of this Act \[Dec. 26, 2013\], in the virtual elementary and secondary education program of the Department of Defense education program."
+Pub. L. 113–66, div. A, title V, §553(b), Dec. 26, 2013, 127 Stat. 764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to tuition payments received under section 2164(l) of title 10, United States Code, for enrollments authorized by such section, after the date of theenactment of this Act \[Dec. 26, 2013\], in the virtual elementary and secondary education program of the Department of Defense education program."
 
 #### Effective Date of 1998 Amendment
 
@@ -264,7 +264,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Pilot Program To Expand Eligibility for Enrollment at Domestic Dependent Elementary and Secondary Schools
 
-Pub. L. 116–283, div. A, title V, §589C, Jan. 1, 2021, 134 Stat. 3659, provided that:
+Pub. L. 116–283, div. A, title V, §589C, Jan. 1, 2021, 134 Stat. 3659, as amended by Pub. L. 117–263, div. A, title V, §572(a), Dec. 23, 2022, 136 Stat. 2601, provided that:
 
 "(a)
 
@@ -292,7 +292,7 @@ Locations.—The Secretary of Defense shall carry out the pilot program under th
 
 "(e)
 
-Termination.—The authority to carry out the pilot program under this section shall terminate four years after the date of the enactment of this Act.
+Termination.—The authority to carry out the pilot program under this section shall terminate on July 1, 2029.
 
 "(f)
 

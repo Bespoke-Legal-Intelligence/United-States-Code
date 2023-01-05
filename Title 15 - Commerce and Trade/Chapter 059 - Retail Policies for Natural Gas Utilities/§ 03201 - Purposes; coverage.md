@@ -12,7 +12,7 @@ The purposes of this chapter are to encourage—
 
 #### (b) Volume of total retail sales
 
-This chapter applies to each gas utility in any calendar year, and to each proceeding relatingto each gas utility in such year, if the total sales of natural gas by such utility for purposes other than resale exceeded 10 billion cubic feet during any calendar year beginning after December 31, 1975, and before the immediately preceding calendar year.
+This chapter applies to each gas utility in any calendar year, and to each proceeding relating to each gas utility in such year, if the total sales of natural gas by such utility for purposes other than resale exceeded 10 billion cubic feet during any calendar year beginning after December 31, 1975, and before the immediately preceding calendar year.
 
 #### (c) Exclusion of wholesale sales
 
@@ -20,7 +20,7 @@ The requirements of this chapter do not apply to the operations of a gas utility
 
 #### (d) List of covered utilities
 
-Before the beginning of each calendar year, the Secretary shall publish a list identifying each gas utility to which this chapter applies during such calendar year. Promptly after publication of such list, each State regulatory authority shall notify the Secretary of each gas utility on the list for which such State regulatory authority has ratemaking authority.
+Before the beginning of each calendar year, the Secretary shall publish a list identifying each gas utility to which this chapter appliesduring such calendar year. Promptly after publication of such list, each State regulatory authority shall notify the Secretary of each gas utility on the list for which such State regulatory authority has ratemaking authority.
 
 (Pub. L. 95–617, title III, §301, Nov. 9, 1978, 92 Stat. 3149.)
 

@@ -24,7 +24,7 @@ Required Information on Public Debt Activities.—Each report submitted under su
 
 &emsp;&emsp;(B) The past debt to GDP ratios and the projected debt to GDP ratios as of the close of the current fiscal year and as of the close of the next 5 fiscal years under such most recent current services baseline projection.
 
-&emsp;&emsp;(C) The interest cost on such debt for prior fiscal years and the projected interest cost on such debt for the current fiscal year and for the next 5 fiscal years under such most recent current services baseline projection.
+&emsp;&emsp;(C) The interest cost on such debt for prior fiscal years and the projected interest cost on such debt for the current fiscal year andfor the next 5 fiscal years under such most recent current services baseline projection.
 
 &emsp;&emsp;(D) The interest cost to outlay ratios for prior fiscal years and the projected interest cost to outlay ratios for the current fiscal year and for the next 5 fiscal years under such most recent current services baseline projection.
 
@@ -70,7 +70,7 @@ Debt to gdp ratio.—The term "debt to GDP ratio" means the percentage obtained 
 
 &emsp;(5)
 
-Interest cost to outlay ratio.—The term "interest cost to outlay ratio" means,with respect to any fiscal year, the percentage obtained by dividing the interest cost for such fiscal year on the net public debt by the total amount of Federal outlays for such fiscal year.
+Interest cost to outlay ratio.—The term "interest cost to outlay ratio" means, with respect to any fiscal year, the percentage obtained by dividing the interest cost for such fiscal year on the net public debt by the total amount of Federal outlays for such fiscal year.
 
 (Added Pub. L. 103–202, title II, §201(a), Dec. 17, 1993, 107 Stat. 2355.)
 

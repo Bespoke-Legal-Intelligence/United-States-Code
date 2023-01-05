@@ -32,7 +32,7 @@ The President shall impose sanctions described in section 8791(c) of this title 
 
 #### (B) Applicability to contracts and other agreements
 
-&emsp;&emsp;A person engages in an activity described in subparagraph (A) without regard to whether the activity is carried out pursuantto a contract or other agreement entered into before, on, or after August 10, 2012.
+&emsp;&emsp;A person engages in an activity described in subparagraph (A) without regard to whether the activity is carried out pursuant to a contract or other agreement entered into before, on, or after August 10, 2012.
 
 #### (C) Goods or technologies described
 

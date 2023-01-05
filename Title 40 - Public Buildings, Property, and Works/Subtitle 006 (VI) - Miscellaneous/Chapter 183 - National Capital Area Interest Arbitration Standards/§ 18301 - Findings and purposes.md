@@ -6,7 +6,7 @@ Findings.—Congress finds that—
 
 &emsp;(1) affordable public transportation is essential to the economic vitality of the national capital area and is an essential component of regional efforts to improve air quality to meet environmental requirements and to improve the health of both residents of and visitors to the national capital area as well as to preserve the beauty and dignity of the Nation's capital;
 
-&emsp;(2) use of mass transit by both residents of and visitors to the national capital area issubstantially affected by the prices charged for mass transit services, prices that are substantially affected by labor costs, since more than two-thirds of operating costs are attributable to labor costs;
+&emsp;(2) use of mass transit by both residents of and visitors to the national capital area is substantially affected by the prices charged for mass transit services, prices that are substantially affected by labor costs, since more than two-thirds of operating costs are attributable to labor costs;
 
 &emsp;(3) labor costs incurred in providing mass transit in the national capital area have increased at an alarming rate and wages and benefits of operators and mechanics currently are among the highest in the Nation;
 

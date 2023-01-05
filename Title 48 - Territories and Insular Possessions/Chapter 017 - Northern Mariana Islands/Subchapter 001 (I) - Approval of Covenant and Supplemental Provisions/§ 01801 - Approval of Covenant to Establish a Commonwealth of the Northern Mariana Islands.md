@@ -28,7 +28,7 @@ Pub. L. 115–218, §1, July 24, 2018, 132 Stat. 1547, provided that: "This Act 
 
 #### Short Title of 2017 Amendment
 
-Pub. L. 115–53, §1, Aug. 22, 2017, 131 Stat. 1091, provided that: "This Act \[amending section 1806 of this title\] may be cited as the 'Northern Mariana Islands Economic Expansion Act'."
+Pub. L. 115–53, §1, Aug. 22, 2017, 131 Stat. 1091, provided that: "This Act \[amending section 1806 of thistitle\] may be cited as the 'Northern Mariana Islands Economic Expansion Act'."
 
 #### Applicability of Requirement of United States Citizenship or Nationality as Prerequisite of Any Benefit, Right, Etc., to Citizens of Northern Mariana Islands
 
@@ -158,11 +158,11 @@ Section 402. (a) The District Court for the Northern Mariana Islands will have t
 
 "(b) The District Court will have original jurisdiction in all causes in the Northern Mariana Islands not described in Subsection (a) jurisdiction over which is not vested by the Constitution or laws of the Northern Mariana Islands in a court or courts of the Northern Mariana Islands. In causes brought in the District Court solely on the basis of this subsection, the District Court will be considered a court of the Northern Mariana Islands for the purposes of determining the requirements of indictment by grand jury or trial by jury.
 
-"(c) The District Court will have such appellate jurisdiction as the Constitution or laws of the NorthernMariana Islands may provide. When it sits as an appellate court, the District Court will consist of three judges, at least one of whom will be a judge of a court of record of the Northern Mariana Islands.
+"(c) The District Court will have such appellate jurisdiction as the Constitution or laws of the Northern Mariana Islands may provide. When it sits as an appellate court, the District Court will consist of three judges, at least one of whom will be a judge of a court of record of the Northern Mariana Islands.
 
 "
 
-Section 403. (a) The relations between the courts established by the Constitution or laws of the United States and the courts of the Northern Mariana Islands with respect to appeals, certiorari, removal of causes, the issuance of writs of habeas corpus and other matters or proceedings will be governed by the laws of the United States pertaining to the relations between the courts of the United States and the courts of the several States in such matters and proceedings, except as otherwise provided in this Article; provided that for the first fifteen years following the establishment of an appellate court of the Northern Mariana Islands the United States Court of Appeals for the judicial circuit which includes the Northern Mariana Islands will have jurisdiction of appeals from all final decisions of the highest court of the Northern Mariana Islands from which a decision could be had in all cases involving the Constitution, treaties or laws of the United States, or any authority exercised thereunder, unless those cases are reviewable in the District Court for the Northern Mariana Islands pursuant to Subsection 402(c).
+Section 403. (a) The relations between the courts established by the Constitution or laws of the UnitedStates and the courts of the Northern Mariana Islands with respect to appeals, certiorari, removal of causes, the issuance of writs of habeas corpus and other matters or proceedings will be governed by the laws of the United States pertaining to the relations between the courts of the United States and the courts of the several States in such matters and proceedings, except as otherwise provided in this Article; provided that for the first fifteen years following the establishment of an appellate court of the Northern Mariana Islands the United States Court of Appeals for the judicial circuit which includes the Northern Mariana Islands will have jurisdiction of appeals from all final decisions of the highest court of the Northern Mariana Islands from which a decision could be had in all cases involving the Constitution, treaties or laws of the United States, or any authority exercised thereunder, unless those cases are reviewable in the District Court for the Northern Mariana Islands pursuant to Subsection 402(c).
 
 "(b) Those portions of Title 28 of the United States Code which apply to Guam or the District Court of Guam will be applicable to the Northern Mariana Islands or the District Court for the Northern Mariana Islands, respectively, except as otherwise provided in this Article.
 
@@ -278,7 +278,7 @@ Section 702. Approval of this Covenant by the United States will constitute a co
 
 &emsp;"(a) $8.25 million for budgetary support for government operations, of which $250,000 each year will be reserved for a special education training fund connected with the change in the political status of the Northern Mariana Islands;
 
-&emsp;"(b) $4 million for capital improvement projects, of which $500,000 each year will be reserved for such projects on the Island of Tinian and $500,000 each year will be reserved for such projects on the Island of Rota; and
+&emsp;"(b) $4 million for capital improvement projects, of which $500,000 each year will be reserved for suchprojects on the Island of Tinian and $500,000 each year will be reserved for such projects on the Island of Rota; and
 
 &emsp;"(c) $1.75 million for an economic development loan fund, of which $500,000 each year will be reserved for small loans to farmers and fishermen and to agricultural and marine cooperatives, and of which $250,000 each year will be reserved for a special program of low interest housing loans for low income families.
 
@@ -336,7 +336,7 @@ Section 803. (a) The Government of the Northern Mariana Islands will lease the p
 
 "(d) From the property to be leased to it in accordance with this Covenant the Government of the United States will lease back to the Government of the Northern Mariana Islands, in accordance with the Technical Agreement, for the sum of one dollar per acre per year, approximately 6,458 acres (2,614 hectares) on Tinian Island and approximately 44 acres (18 hectares) at Tanapag Harbor on Saipan Island, which will be used for purposes compatible with their intended military use.
 
-"(e) From the property to be leased to it at Tanapag Harbor on Saipan Island the Government of the United States will make available to the Government of the Northern Mariana Islands 133 acres (54 hectares) at no cost. This property will be set aside for public use as an American memorial park to honor the American and Marianas dead in the World War II Marianas Campaign. The $2 million received from the Government of theUnited States for the lease of this property will be placed into a trust fund, and used for the development and maintenance of the park in accordance with the Technical Agreement.
+"(e) From the property to be leased to it at Tanapag Harbor on Saipan Island the Government of the United States will make available to the Government of the Northern Mariana Islands 133 acres (54 hectares) at no cost. This property will be set aside for public use as an American memorial park to honor the American and Marianas dead in the World War II Marianas Campaign. The $2 million received from the Government of the United States for the lease of this property will be placed into a trust fund, and used for the development and maintenance of the park in accordance with the Technical Agreement.
 
 "
 
@@ -512,7 +512,7 @@ Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593, provided:
 
 On February 15, 1975, the Marianas Political Status Commission, the duly appointed representative of the people of the Northern Mariana Islands, and the Personal Representative of the President of the United States signed a Covenant, the purpose of which is to provide for the eventual establishment of a Commonwealth of the Northern Mariana Islands in political union with the United States of America \[set out above\]. This Covenant was subsequently approved by the Mariana Islands District Legislature and by the people of the Northern Mariana Islands voting in a plebiscite. The Covenant was approved by the Congress of the United States by joint resolution approved March 24, 1976 (Public Law 94–241; 90 Stat. 263) \[48 U.S.C. 1801 et seq.\].
 
-In accordance with the provisions of Article II of the Covenant, the people of the Northern Mariana Islands have formulated and approved a Constitution which was submitted to me on behalf of the Government of the United States on April 21, 1977, for approval on the basis of its consistency with the Covenant and those provisions of the Constitution, treaties and laws of the United States to be applicable to the Northern Mariana Islands. Pursuant to the provisions of Section 202 of the Covenant, the Constitution of the Northern Mariana Islands will be deemed to have been approved by the Government of the United States six months after the date of submission to the President unless sooner approved or disapproved.
+In accordance with the provisions of Article II of the Covenant, the people of the Northern Mariana Islands have formulated and approved a Constitution which was submitted to me on behalf of the Government ofthe United States on April 21, 1977, for approval on the basis of its consistency with the Covenant and those provisions of the Constitution, treaties and laws of the United States to be applicable to the Northern Mariana Islands. Pursuant to the provisions of Section 202 of the Covenant, the Constitution of the Northern Mariana Islands will be deemed to have been approved by the Government of the United States six months after the date of submission to the President unless sooner approved or disapproved.
 
 The six-month period of Section 202 of the Covenant having expired on October 22, 1977, I am pleased to announce that the Constitution of the Northern Mariana Islands is hereby deemed approved.
 

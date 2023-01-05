@@ -32,7 +32,7 @@ This subsection is permissive only, and does not require filing of a proof of cl
 
 The Rules of Bankruptcy Procedure will set the time limits, the form, and the procedure for filing, which will determine whether claims are timely or tardily filed. The rules governing time limits for filing proofs of claims will continue to apply under section 405(d) of the bill. These provide a 6-month-bar date for the filing of tax claims.
 
-Subsection (b) permits a codebtor, surety, or guarantor to file a proof of claim on behalf of the creditorto which he is liable if the creditor does not timely file a proof of claim.
+Subsection (b) permits a codebtor, surety, or guarantor to file a proof of claim on behalf of the creditor to which he is liable if the creditor does not timely file a proof of claim.
 
 In liquidation and individual repayment plan cases, the trustee or the debtor may file a proof of claim under subsection (c) if the creditor does not timely file. The purpose of this subsection is mainly to protect the debtor if the creditor's claim is nondischargeable. If the creditor does not file, there would be no distribution on the claim, and the debtor would have a greater debt to repay after the case is closed than if the claim were paid in part or in full in the case or under the plan.
 
@@ -56,7 +56,7 @@ Pub. L. 116–260, §1001(d)(1), added subsec. (f).
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. FF, title X, §1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that the amendment made by section 1001(d)(3)(A) is effective on the date that is 1 year after Dec. 27, 2020.
+Pub. L. 116–260, div. FF, title X, §1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that the amendment madeby section 1001(d)(3)(A) is effective on the date that is 1 year after Dec. 27, 2020.
 
 #### Effective Date of 2005 Amendment
 

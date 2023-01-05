@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (E) Ruling requests
 
-&emsp;&emsp;The Secretary may increase the average under subparagraph (B)(i) for any period if the utility owned by the governmental unit establishes to the satisfaction of the Secretary that, based on objective evidence of growth in natural gas consumption or population, such average would otherwise be insufficient for such period.
+&emsp;&emsp;The Secretary may increase the average under subparagraph (B)(i) for any period ifthe utility owned by the governmental unit establishes to the satisfaction of the Secretary that, based on objective evidence of growth in natural gas consumption or population, such average would otherwise be insufficient for such period.
 
 #### (F) Adjustment for natural gas otherwise on hand
 
@@ -160,7 +160,7 @@ For purposes of this section—
 
 #### (2) Limitation on amount in reserve or replacement fund which may be financed by issue
 
-&emsp;A bond issued as part of an issue shall be treated as an arbitrage bond if the amount of the proceeds from the sale of such issue which is part of any reserve or replacement fund exceeds 10 percent of the proceeds of the issue (or such higher amount which the issuer establishes is necessary to the satisfaction of the Secretary).
+&emsp;A bond issued as part of an issue shall be treated as an arbitrage bond if the amount of the proceeds from the sale of such issue which is part of any reserve or replacement fund exceeds 10 percent of the proceeds of the issue\(or such higher amount which the issuer establishes is necessary to the satisfaction of the Secretary).
 
 #### (e) Minor portion may be invested in higher yielding investments
 
@@ -304,7 +304,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (II) Earnings on reserve included only for certain periods
 
-&emsp;&emsp;&emsp;&emsp;The term "available construction proceeds" shall not include amounts earned on any reasonably required reserve or replacement fund after the earlier of the close of the 2-year period described in clause (ii) or the date the construction is substantially completed.
+&emsp;&emsp;&emsp;&emsp;The term "available construction proceeds" shall not include amounts earnedon any reasonably required reserve or replacement fund after the earlier of the close of the 2-year period described in clause (ii) or the date the construction is substantially completed.
 
 #### (III) Payments on acquired purpose obligations excluded
 
@@ -382,7 +382,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in this clause, clause (vii)(II), and the last sentence ofclause (x), this subparagraph shall not apply to any refunding bond and no proceeds of a refunded bond shall be treated for purposes of this subparagraph as proceeds of a refunding bond.
+&emsp;&emsp;&emsp;&emsp;Except as provided in this clause, clause (vii)(II), and the last sentence of clause (x), this subparagraph shall not apply to any refunding bond and no proceeds of a refunded bond shall be treated for purposes of this subparagraph as proceeds of a refunding bond.
 
 #### (II) Determination of construction portion of issue
 
@@ -440,7 +440,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount which, when added to the aggregate face amount of other issues issued by such entity, does not exceed the portion of the $5,000,000 limitation under clause (i)(IV) which such governmental unit allocates to such entity.
 
-&emsp;&emsp;&nbsp;For purposes of the preceding sentence, an entity which issues bonds on behalf of a governmental unit with general taxing powers shall be treated as a subordinate entity of such unit. An allocation shall be taken into account under subclause (II) only if it is irrevocable and made before the issuance date of such issue and only to the extent that the limitation so allocated bears a reasonable relationship to the benefits received by such governmental unit from issues issued by such entity.
+&emsp;&emsp;&nbsp;For purposes of the preceding sentence, an entity which issues bonds on behalf of a governmental unit with general taxing powers shall be treated as a subordinateentity of such unit. An allocation shall be taken into account under subclause (II) only if it is irrevocable and made before the issuance date of such issue and only to the extent that the limitation so allocated bears a reasonable relationship to the benefits received by such governmental unit from issues issued by such entity.
 
 #### (v) Determination of whether refunding bonds eligible for exception from rebate requirement
 
@@ -452,7 +452,7 @@ Notwithstanding subsections (a), (c), and (d), a bond issued as part of an issue
 
 &emsp;&emsp;&emsp;&emsp;(III) the average maturity date of the refunding bonds issued as part of such issue is not later than the average maturity date of the bonds to be refunded by such issue, and
 
-&emsp;&emsp;&emsp;&emsp;(IV) no refunding bond has a maturity date which is later than the date whichis 30 years after the date the original bond was issued.
+&emsp;&emsp;&emsp;&emsp;(IV) no refunding bond has a maturity date which is later than the date which is 30 years after the date the original bond was issued.
 
 &emsp;&emsp;&nbsp;Subclause (III) shall not apply if the average maturity of the issue of which the original bond was a part (and of the issue of which the bonds to be refunded are a part) is 3 years or less. For purposes of this clause, average maturity shall be determined in accordance with section 147(b)(2)(A).
 
@@ -524,7 +524,7 @@ For purposes of this section, the yield on an issue shall be determined on the b
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b), title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388–513; Pub. L. 105–34, title II, §223(a), title XIV, §§1441–1444, Aug. 5, 1997, 111 Stat. 818, 1053, 1054; Pub. L. 107–16, title IV, §421(a), June 7, 2001, 115 Stat. 64; Pub. L. 109–58, title XIII, §1327(a), Aug. 8, 2005, 119 Stat. 1017;Pub. L. 109–222, title V, §508(c), May 17, 2006, 120 Stat. 362; Pub. L. 115–97, title I, §13532(b)(2), Dec. 22, 2017, 131 Stat. 2154.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2641; amended Pub. L. 100–647, title I, §1013(a)(14)–(16)(A), (17)(A), (B), (18), (19), (43)(A), (B), title IV, §4005(d)(2), title V, §5053(b), title VI, §§6177(a), (b), 6181(a), (b), 6183(a), Nov. 10, 1988, 102 Stat. 3539, 3540, 3542, 3545, 3646, 3678, 3726, 3727, 3729; Pub. L. 101–239, title VII, §§7652(a)–(d), 7814(c)(2), 7816(r), (t), Dec. 19, 1989, 103 Stat. 2385–2387, 2413, 2423; Pub. L. 101–508, title XI, §11701(j)(1)–(6), Nov. 5, 1990, 104 Stat. 1388–508 to 1388–513; Pub. L. 105–34, title II, §223(a), title XIV, §§1441–1444, Aug. 5, 1997, 111 Stat. 818, 1053, 1054; Pub. L. 107–16, title IV, §421(a), June 7, 2001, 115 Stat. 64; Pub. L. 109–58, title XIII, §1327(a), Aug. 8, 2005, 119 Stat. 1017; Pub. L. 109–222, title V, §508(c), May 17, 2006, 120 Stat. 362; Pub. L. 115–97, title I, §13532(b)(2), Dec. 22, 2017, 131 Stat. 2154.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -604,7 +604,7 @@ Subsec. (f)(4)(A). Pub. L. 100–647, §6181(a), (b), struck out "unless the iss
 
 Subsec. (f)(4)(B)(iii)(I). Pub. L. 100–647, §1013(a)(16)(A), substituted "proceeds" for "aggregate face amount".
 
-Subsec. (f)(4)(B)(iii)(III). Pub. L. 100–647, §6177(a), substituted "the earlier of the date 6 months after suchdate of issuance." for "the earliest of the maturity date of the issue, the date 6 months after such date of issuance,".
+Subsec. (f)(4)(B)(iii)(III). Pub. L. 100–647, §6177(a), substituted "the earlier of the date 6 months after such date of issuance." for "the earliest of the maturity date of the issue, the date 6 months after such date of issuance,".
 
 Subsec. (f)(4)(C). Pub. L. 100–647, §1013(a)(17)(A), in heading substituted "governmental units issuing $5,000,000 or less of bonds" for "small governmental units", designated existing provision as cl. (i), inserted heading "In general", redesignated existing cls. (i) to (iv) as subcls. (I) to (IV) and realigned their margins, struck out last sentence providing that cl. (iv) not take into account any bond which is not outstanding at the time of a later issue or which is redeemed, other than in an advance refunding, from the net proceeds of the later issue, and added cls. (ii) to (vi).
 
@@ -684,7 +684,7 @@ Election for outstanding bonds.—Any issue of bonds other than private activity
 
 "(3)
 
-Definition of private activity bond.—For purposes of this section and the last sentence of section 148(f)(4)(A) of the 1986 Code (as added by subsection (b)),the term 'private activity bond' shall include any qualified 501(c)(3) bond (as defined under section 145 of the 1986 Code)."
+Definition of private activity bond.—For purposes of this section and the last sentence of section 148(f)(4)(A) of the 1986 Code (as added by subsection (b)), the term 'private activity bond' shall include any qualified 501(c)(3) bond (as defined under section 145 of the 1986 Code)."
 
 Pub. L. 100–647, title VI, §6183(b), Nov. 10, 1988, 102 Stat. 3730, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after December 31, 1988."
 

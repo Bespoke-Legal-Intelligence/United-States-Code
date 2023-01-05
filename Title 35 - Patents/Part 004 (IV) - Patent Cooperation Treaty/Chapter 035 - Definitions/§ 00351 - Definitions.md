@@ -14,7 +14,7 @@ When used in this part unless the context otherwise indicates—
 
 (f) The term "Receiving Office" means a national patent office or intergovernmental organization which receives and processes international applications as prescribed by the treaty and the Regulations.
 
-(g) The terms "International Searching Authority" and "International Preliminary Examining Authority" mean a national patent officeor intergovernmental organization as appointed under the treaty which processes international applications as prescribed by the treaty and the Regulations.
+(g) The terms "International Searching Authority" and "International Preliminary Examining Authority" mean a national patent office or intergovernmental organization as appointed under the treaty which processes international applications as prescribed by the treaty and the Regulations.
 
 (h) The term "International Bureau" means the international intergovernmental organization which is recognized as the coordinating body under the treaty and the Regulations.
 

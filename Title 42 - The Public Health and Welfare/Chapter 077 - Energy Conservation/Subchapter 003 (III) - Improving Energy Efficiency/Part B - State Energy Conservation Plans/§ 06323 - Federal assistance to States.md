@@ -40,7 +40,7 @@ Each State receiving Federal financial assistance pursuant to this section shall
 
 If the Secretary determines that a State has demonstrated a commitment to improving the energy efficiency of buildings within such State, the Secretary may, beginning in fiscal year 1994, provide up to $1,000,000 to such State for deposit into a revolving fund established by such State for the purpose of financing energy efficiency improvements in State and local government buildings. In making such determination the Secretary shall consider whether—
 
-&emsp;(1) such State, or a majority of the units of local government with jurisdiction over building energy codes within such State, has adopted codes for energy efficiency in new buildings that are at least as stringent as American Society of Heating, Refrigerating, and Air-Conditioning Engineers Standard 90.1–1989 (with respect to commercial buildings) and Council of American Building Officials Model Energy Code, 1992 (with respect to residential buildings);
+&emsp;(1) such State, or a majority of the units of local government with jurisdiction over building energy codes within such State, has adopted codes for energy efficiency in new buildings that are at least as stringent as American Society of Heating, Refrigerating, and Air-Conditioning Engineers Standard 90.1–1989 (with respect to commercial buildings) and Council ofAmerican Building Officials Model Energy Code, 1992 (with respect to residential buildings);
 
 &emsp;(2) such State has established a program, including a revolving fund, to finance energy efficiency improvement projects in State and local government facilities and buildings; and
 
@@ -52,7 +52,7 @@ If the Secretary determines that a State has demonstrated a commitment to improv
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 

@@ -58,7 +58,7 @@ The Secretary shall make payments under this section only for the production of 
 
 #### (1) In general
 
-&emsp;If funding provided for a crop year is not fully allocated under the initial request forproposals under subsection (c), the Secretary shall issue additional requests for proposals for subsequent crop years under this section.
+&emsp;If funding provided for a crop year is not fully allocated under the initial request for proposals under subsection (c), the Secretary shall issue additional requests for proposals for subsequent crop years under this section.
 
 #### (2) Prorated payments
 

@@ -8,7 +8,7 @@ Required Policy.—The Commandant shall direct the Superintendent of the Coast G
 
 Matters To Be Specified in Policy.—The policy on sexual harassment and sexual violence under this section shall include specification of the following:
 
-&emsp;(1) Programs to promote awareness of the incidence of rape, acquaintance rape, and othersexual offenses of a criminal nature that involve cadets or other Academy personnel.
+&emsp;(1) Programs to promote awareness of the incidence of rape, acquaintance rape, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel.
 
 &emsp;(2) Information about how the Coast Guard and the Academy will protect the confidentiality of victims of sexual harassment or sexual violence, including how any records, statistics, or reports intended for public release will be formatted such that the confidentiality of victims is not jeopardized.
 
@@ -96,7 +96,7 @@ Inclusion in reports.—Information derived from a focus group under subparagrap
 
 (e)
 
-Victim Confidentiality.—To the extent that information collected under the authority of this section is reported or otherwise made available to the public, such information shall be provided in a form that is consistent with applicable privacy protections under Federal lawand does not jeopardize the confidentiality of victims.
+Victim Confidentiality.—To the extent that information collected under the authority of this section is reported or otherwise made available to the public, such information shall be provided in a form that is consistent with applicable privacy protections under Federal law and does not jeopardize the confidentiality of victims.
 
 (Added Pub. L. 112–213, title II, §205(a), Dec. 20, 2012, 126 Stat. 1543, §200; amended Pub. L. 115–232, div. C, title XXXV, §3531(c)(9), Aug. 13, 2018, 132 Stat. 2320; renumbered §1902, Pub. L. 115–282, title I, §110(b), Dec. 4, 2018, 132 Stat. 4212; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(11), Jan. 1, 2021, 134 Stat. 4748.)
 

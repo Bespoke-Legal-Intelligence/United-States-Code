@@ -100,19 +100,17 @@ Not more than $1,200,000 of each annual appropriation made in accordance with th
 
 &emsp;(3) A portion, as determined by the Sport Fishing and Boating Partnership Council, of funds disbursed for the purposes described in paragraph (2) but remaining unobligated as of October 1, 2021, shall be used to study the impact of derelict vessels and identify recyclable solutions for recreational vessels.
 
-#### (f) Nonapplicability of Federal Advisory Committee Act
+#### (f) Nonapplicability of chapter 10 of title 5
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.
+Chapter 10 of title 5 shall not apply to any activity carried out under this section.
 
-(Aug. 9, 1950, ch. 658, §14, as added Pub. L. 106–408, title I, §122(a), Nov. 1, 2000, 114 Stat. 1772; amended Pub. L. 109–59, title X, §10118, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 109–241, title IX, §901(r)(2), July 11, 2006, 120 Stat. 566; Pub. L. 111–281, title IX, §903(a)(3), Oct. 15, 2010, 124 Stat. 3010; Pub. L. 114–94, div. A, title X, §10001(f), Dec. 4, 2015, 129 Stat. 1621; Pub. L. 117–58, div. B, title VIII, §28001(a)(3), Nov. 15, 2021, 135 Stat. 887.)
+(Aug. 9, 1950, ch. 658, §14, as added Pub. L. 106–408, title I, §122(a), Nov. 1, 2000, 114 Stat. 1772; amended Pub. L. 109–59, title X, §10118, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 109–241, title IX, §901(r)(2), July 11, 2006, 120 Stat. 566; Pub. L. 111–281, title IX, §903(a)(3), Oct. 15, 2010, 124 Stat. 3010; Pub. L. 114–94, div. A, title X, §10001(f), Dec. 4, 2015, 129 Stat. 1621; Pub. L. 117–58, div. B, title VIII, §28001(a)(3), Nov. 15, 2021, 135 Stat. 887; Pub. L. 117–286, §4(a)(103), Dec. 27, 2022, 136 Stat. 4317.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–286 substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2021</b>—Subsec. (e)(3). Pub. L. 117–58 added par. (3).
 
@@ -130,13 +128,13 @@ Subsec. (e)(1)(D). Pub. L. 114–94, §10001(f)(2)(B), substituted period at end
 
 Subsec. (a)(2)(B). Pub. L. 109–59, §10118(2), substituted "section 777c(c)" for "section 777c(e)" in two places.
 
-Subsec. (e). Pub. L. 109–59, §10118(3), added introductory provisions and struck out former introductory provisions which read as follows: "Of the balance of each annual appropriation made under section 777b ofthis title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title for each fiscal year and after deducting amounts used for grants under subsection (a) of this section—".
+Subsec. (e). Pub. L. 109–59, §10118(3), added introductory provisions and struck out former introductory provisions which read as follows: "Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title for each fiscal year and after deducting amounts used for grants under subsection (a) of this section—".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2010 Amendment
 

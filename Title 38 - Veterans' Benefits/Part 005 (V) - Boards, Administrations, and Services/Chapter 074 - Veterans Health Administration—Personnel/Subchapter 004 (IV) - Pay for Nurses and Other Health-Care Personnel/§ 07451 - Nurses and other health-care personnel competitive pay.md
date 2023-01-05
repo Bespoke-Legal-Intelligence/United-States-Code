@@ -8,7 +8,7 @@
 
 &emsp;(B) Physician assistant.
 
-&emsp;(C) Such positions referred to in paragraphs (1) and (3) of section 7401 of this title (other than the positions of physician, dentist, registered nurse, and physician assistant) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
+&emsp;(C) Such positions referred to in paragraphs (1) and (3) of section 7401 of this title (other than the positions of physician, dentist, registered nurse, physician assistant, and podiatrist) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
 
 (3)(A) Except as provided in subparagraph (B), the rates of basic pay for covered positions in the Department shall be established and adjusted in accordance with this section instead of subsection (b)(1) of section 7404 of this title or chapter 53 of title 5.
 
@@ -24,9 +24,23 @@
 
 (c)(1) For each grade in a covered position, there shall be a range of basic pay. The maximum rate of basic pay for a grade shall be 133 percent of the minimum rate of basic pay for the grade, except that, if the Secretary determines that a higher maximum rate is necessary with respect to any such grade in order to recruit and retain a sufficient number of high-quality health-care personnel, the Secretary may raise the maximum rate of basic pay for that grade to a rate not in excess of 175 percent of the minimum rate of basic pay for the grade. Whenever the Secretary exercises the authority under the preceding sentence to establish the maximum rate of basic pay at a rate in excess of 133 percent of the minimum rate for that grade, the Secretary shall, in the next annual report required by subsection (g),<sup>1</sup> provide justification for doing so to the Committees on Veterans' Affairs of the Senate and House of Representatives.
 
-(2) The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level IV of the Executive Schedule under section 5316 <sup>1</sup> of title 5. The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.
+(2)(A) The maximum rate of basic pay for any grade for a covered position may not exceed—
+
+&emsp;(i) in the case of an advanced practice nurse, the maximum rate of basic pay established for positions in level I of the Executive Schedule under section 5312 of title 5;
+
+&emsp;(ii) in the case of a physician assistant, the maximum rate of basic pay established for positions in level I of the Executive Schedule under section 5312 of title 5;
+
+&emsp;(iii) in the case of a registered nurse, the maximum rate of basic pay established for positions in level II of the Executive Schedule under section 5313 of title 5; and
+
+&emsp;(iv) in the case of any other covered position, the maximum rate of basic pay established for positions in level IV of the Executive Schedule under section 5315 of title 5.
+
+(B) The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in subparagraph (A).
 
 (3) The range of basic pay for each such grade shall be divided into equal increments, known as "steps". The Secretary shall prescribe the number of steps. Each grade in a covered position shall have the same number of steps. Rates of pay within a grade may not be established at rates other than whole steps. Any increase (other than an adjustment under subsection (d)) within a grade in the rate of basic pay payable to an employee in a covered position shall be by one or more of such step increments.
+
+(4)(A) The director of each medical center of the Department shall submit to the Secretary an annual locality pay survey and rates of basic pay for covered positions at such medical center to ensure that pay rates remain competitive in the local labor market.
+
+(B) Not less than once per fiscal year, the Secretary shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report on rates of basic pay for covered positions at medical centers of the Department.
 
 (d)(1) Subject to subsection (e), the rates of basic pay for each grade in a covered position shall be adjusted periodically in accordance with this subsection in order to achieve the purposes of this section. Such adjustments shall be made—
 
@@ -38,7 +52,7 @@
 
 (3)(A) In the case of a Department health-care facility located in an area for which there is current information, based upon an industry-wage survey by the Bureau of Labor Statistics for that labor market, on compensation for corresponding health-care professionals for the BLS labor-market area of that facility, the director of the facility concerned shall use that information as the basis for making adjustments in rates of pay under this subsection. Whenever the Bureau of Labor Statistics releases the results of a new industry-wage survey for that labor market that includes information on compensation for corresponding health-care professionals, the director of that facility shall determine, not later than 30 days after the results of the survey are released, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet the purposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
 
-(B) In the case of a Department health-care facility located in an area for which the Bureau of Labor Statistics does not have current information on compensation for corresponding health-care professionals for the labor-market area of that facility for any covered position, the director of that facility shall conduct a survey in accordance with this subparagraph and shall adjust the amount of the minimum rate of basic pay for grades in that covered position at that facility based upon that survey. To the extent practicable, the director shall use third-party industry wage surveys to meet the requirements of the preceding sentence. Any such survey shall be conducted in accordance with regulations prescribed by the Secretary. Those regulations shall be developed in consultation with the Secretary of Labor in order to ensure that the director of a facility collects information that is valid and reliable and is consistent with standards of the Bureau. The survey should be conducted using methodology comparable to thatused by the Bureau in making industry-wage surveys except to the extent determined infeasible by the Secretary. To the extent practicable, all surveys conducted pursuant to this subparagraph or subparagraph (A) shall include the collection of salary midpoints, actual salaries, lowest and highest salaries, average salaries, bonuses, incentive pays, differential pays, actual beginning rates of pay, and such other information needed to meet the purpose of this section. Upon conducting a survey under this subparagraph, the director concerned shall determine, not later than 30 days after the date on which the collection of information through the survey is completed or published, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet the purposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
+(B) In the case of a Department health-care facility located in an area for which the Bureau of Labor Statistics does not have current information on compensation for corresponding health-care professionals for the labor-market area of that facility for any covered position, the director of that facility shall conduct a survey in accordance with this subparagraph and shall adjust the amount of the minimum rate of basicpay for grades in that covered position at that facility based upon that survey. To the extent practicable, the director shall use third-party industry wage surveys to meet the requirements of the preceding sentence. Any such survey shall be conducted in accordance with regulations prescribed by the Secretary. Those regulations shall be developed in consultation with the Secretary of Labor in order to ensure that the director of a facility collects information that is valid and reliable and is consistent with standards of the Bureau. The survey should be conducted using methodology comparable to that used by the Bureau in making industry-wage surveys except to the extent determined infeasible by the Secretary. To the extent practicable, all surveys conducted pursuant to this subparagraph or subparagraph (A) shall include the collection of salary midpoints, actual salaries, lowest and highest salaries, average salaries, bonuses, incentive pays, differential pays, actual beginning rates of pay, and such other information needed to meet the purpose of this section. Upon conducting a survey under this subparagraph, the director concerned shall determine, not later than 30 days after the date on which the collection of information through the survey is completed or published, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet the purposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
 
 (C)(i) A director of a Department health-care facility may use data on the compensation paid to certified registered nurse anesthetists who are employed on a salary basis by entities that provide anesthesia services through certified registered nurse anesthetists in the labor-market area only if the director—
 
@@ -74,7 +88,7 @@
 
 (2) The director of a Department health-care facility, in determining whether to carry out a wage survey under subsection (d)(3) with respect to rates of basic pay for a grade of a covered position, may not consider as a factor in such determination the absence of a current recruitment or retention problem for personnel in that grade of that position. The director shall make such a determination based upon whether, in accordance with criteria established by the Secretary, there is a significant pay-related staffing problem at that facility in any grade for a position. If the director determines that there is such a problem, or that such a problem is likely to exist in the near future, the Director shall provide for a wage survey in accordance with subsection (d)(3).
 
-(3) The Under Secretary for Health may, to the extent necessary to carry out the purposes of subsection (d), modify any determination made by the director of a Department health-care facility with respect to adjusting the rates of basic pay applicable to covered positions. If the determination of the director would result in an adjustment in rates of basic pay applicable to covered positions, any action by the Under Secretary under the preceding sentence shall be made before the effective date of such pay adjustment. Upon such action by the Under Secretary, any adjustment shall take effect on the first day of the first pay period beginning aftersuch action. The Secretary shall ensure that the Under Secretary establishes a mechanism for the timely exercise of the authority in this paragraph.
+(3) The Under Secretary for Health may, to the extent necessary to carry out the purposes ofsubsection (d), modify any determination made by the director of a Department health-care facility with respect to adjusting the rates of basic pay applicable to covered positions. If the determination of the director would result in an adjustment in rates of basic pay applicable to covered positions, any action by the Under Secretary under the preceding sentence shall be made before the effective date of such pay adjustment. Upon such action by the Under Secretary, any adjustment shall take effect on the first day of the first pay period beginning after such action. The Secretary shall ensure that the Under Secretary establishes a mechanism for the timely exercise of the authority in this paragraph.
 
 (4) Each director of a Department health-care facility shall provide to the Secretary, not later than July 31 each year, a report on staffing for covered positions at that facility. The report shall include the following:
 
@@ -104,7 +118,7 @@
 
 (f) For the purposes of this section, the term "health-care facility" means a medical center, an independent outpatient clinic, or an independent domiciliary facility.
 
-(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 431, §4141; renumbered §7451 and amended Pub. L. 102–40, title III, §301(b), (c), title IV, §401(c)(1)(A), (2), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §§301(b)–303, 304(b), 307, Nov. 4, 1992, 106 Stat. 4951–4953; Pub. L. 103–446, title XII, §1201(c)(7), (e)(23), Nov. 2, 1994, 108 Stat. 4684, 4686; Pub. L. 104–110, title I, §101(i), Feb. 13, 1996, 110 Stat. 768; Pub. L. 106–419, title II, §201(a), Nov. 1, 2000, 114 Stat. 1838; Pub. L. 107–135, title I, §133, Jan. 23, 2002, 115 Stat. 2454; Pub. L. 111–163, title V, §501(a), title VI, §601(g), (h), (j), May 5, 2010, 124 Stat. 1157, 1170; Pub. L. 115–46, title II, §212, Aug. 12, 2017, 131 Stat. 967.)
+(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 431, §4141; renumbered §7451 and amended Pub. L. 102–40, title III, §301(b), (c), title IV, §401(c)(1)(A), (2), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 102–585, title III, §§301(b)–303, 304(b), 307, Nov. 4, 1992, 106 Stat. 4951–4953; Pub. L. 103–446, title XII, §1201(c)(7), (e)(23), Nov. 2, 1994, 108 Stat. 4684, 4686; Pub. L. 104–110, title I, §101(i), Feb. 13, 1996, 110 Stat. 768; Pub. L. 106–419, title II, §201(a), Nov. 1, 2000, 114 Stat. 1838; Pub. L. 107–135, title I, §133, Jan. 23, 2002, 115 Stat. 2454; Pub. L. 111–163, title V, §501(a), title VI, §601(g), (h), (j), May 5, 2010, 124 Stat. 1157, 1170; Pub. L. 115–46, title II, §212, Aug. 12, 2017, 131 Stat. 967; Pub. L. 117–103, div. S, title I, §102(a), Mar. 15, 2022, 136 Stat. 822; Pub. L. 117–263, div. E, title LI, §5122, Dec. 23, 2022, 136 Stat. 3210.)
 
 #### <b>Editorial Notes</b>
 
@@ -112,15 +126,19 @@
 
 Subsection (g), referred to in subsec. (c)(1), was repealed and subsec. (h), which did not relate to annual reports, was redesignated (g) by Pub. L. 106–419, title II, §201(a)(4), Nov. 1, 2000, 114 Stat. 1840.
 
-Level IV of the Executive Schedule, referred to in subsec. (c)(2), is set out in section 5315 of Title 5, Government Organization and Employees.
-
 The General Schedule, referred to in subsec. (d)(1)(A), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(2)(C). Pub. L. 117–103, §102(a)(1), substituted "physician assistant, and podiatrist" for "and physician assistant".
+
+Subsec. (c)(2). Pub. L. 117–103, §102(a)(2), added par. (2) and struck out former par. (2) which read as follows: "The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level IV of the Executive Schedule under section 5316 of title 5. The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence."
+
+Subsec. (c)(4). Pub. L. 117–263 added par. (4).
+
 <b>2017</b>—Subsec. (a)(2)(B), (C). Pub. L. 115–46 added subpar. (B), redesignated former subpar. (B) as (C), and, in subpar. (C), substituted "registered nurse, and physician assistant" for "and registered nurse".
 
-<b>2010</b>—Subsec. (c)(2). Pub. L. 111–163, §601(g), (h), substituted "level IV" for "level V" and inserted at end "The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence."
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–163, §601(g), (h), substituted "level IV" for "level V" and inserted at end "The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuantto an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence."
 
 Subsec. (d)(3)(F). Pub. L. 111–163, §601(j)(1), added subpar. (F).
 
@@ -216,7 +234,7 @@ Amendment by sections 301(b) to 303 and 304(b) of Pub. L. 102–585 effective wi
 
 #### Effective Date
 
-Section 104 of Pub. L. 101–366, as amended by Pub. L. 102–40, title III, §301(e), May 7, 1991, 105 Stat. 208, provided that:
+Pub. L. 101–366, title I, §104, Aug. 15, 1990, 104 Stat. 437, as amended by Pub. L. 102–40, title III, §301(e), May 7, 1991, 105 Stat. 208, provided that:
 
 "(a)
 
@@ -282,7 +300,7 @@ Pub. L. 102–585, title III, §305, Nov. 4, 1992, 106 Stat. 4952, provided that
 
 Revision.—The Secretary of Veterans Affairs shall conduct a review of the qualification standards used for nursing personnel at Department health-care facilities and the relationship between those standards and the compression of nursing personnel in the existing intermediate and senior grades. Based upon that review, the Secretary shall revise those qualification standards—
 
-&emsp;"(1) to reflect the five grade levels for nursing personnel under the Nurse Schedule \[see 38 U.S.C. 7404(b)(1)\], as amended by section 301; and
+&emsp;"(1) to reflect the five grade levels for nursing personnel under the Nurse Schedule \[see 38 U.S.C. 7404(b)\], as amended by section 301; and
 
 &emsp;"(2) to reduce the compression of nursing personnel in the existing intermediate and senior grades.
 
@@ -296,7 +314,7 @@ Report.—The Secretary shall submit to the Committees on Veterans' Affairs of t
 
 #### Report on Pay for Chief Nurse Position
 
-Pub. L. 102–585, title III, §306, Nov. 4, 1992, 106 Stat. 4952, required the Secretary of Veterans Affairs to conduct a review of the process for determining the rate of basic pay applicable to the Chief Nurse position at Department of Veterans Affairs health-care facilities and the relationship between the rate of such basic pay and the rate of basic pay applicable to nurses in positions subordinate to the Chief Nurse at the respective Department facilities, including an assessment of the adequacy of the process in determining an equitable pay rate for the Chief Nurse position, with a report to besubmitted to Congress not later than 12 months after Nov. 4, 1992.
+Pub. L. 102–585, title III, §306, Nov. 4, 1992, 106 Stat. 4952, required the Secretary of Veterans Affairs to conduct a review of the process for determining the rate of basic pay applicable to the Chief Nurse position at Department of Veterans Affairs health-care facilities and the relationship between the rate of such basic pay and the rate of basic pay applicable to nurses in positions subordinate to the Chief Nurse at the respective Department facilities, including an assessment of the adequacy of the process in determining an equitable pay rate for the Chief Nurse position, with a report to be submitted to Congress not later than 12 months after Nov. 4, 1992.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

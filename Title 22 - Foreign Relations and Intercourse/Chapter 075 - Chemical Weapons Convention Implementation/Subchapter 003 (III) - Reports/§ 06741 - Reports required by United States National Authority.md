@@ -18,7 +18,7 @@
 
 #### (1) Avoidance of duplication
 
-&emsp;To the extent feasible, the United States Government shall not require the submissionof any report that is unnecessary or duplicative of any report required by or under any other law. The head of each Federal agency shall coordinate the actions of that agency with the heads of the other Federal agencies in order to avoid the imposition of duplicative reporting requirements under this chapter or any other law.
+&emsp;To the extent feasible, the United States Government shall not require the submission of any report that is unnecessary or duplicative of any report required by or under any other law. The head of each Federal agency shall coordinate the actions of that agency with the heads of the other Federal agencies in order to avoid the imposition of duplicative reporting requirements under this chapter or any other law.
 
 #### (2) Definition
 

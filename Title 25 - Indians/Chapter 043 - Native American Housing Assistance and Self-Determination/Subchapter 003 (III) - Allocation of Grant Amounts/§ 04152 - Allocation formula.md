@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) assess existing data sources, including alternatives to the decennial census, for use in evaluating the factors for determination of need described in subsection (b); and
 
-&emsp;&emsp;&emsp;(ii) develop and recommend methodologies for collecting data on any of those factors, including formula area, in any case in which existing data is determined to be insufficient or inadequate, or fails to satisfy the requirements of this chapter.
+&emsp;&emsp;&emsp;(ii) develop and recommend methodologies for collecting data on any of thosefactors, including formula area, in any case in which existing data is determined to be insufficient or inadequate, or fails to satisfy the requirements of this chapter.
 
 #### (B) Authorization of appropriations
 
@@ -72,7 +72,7 @@ In establishing the formula, the Secretary shall consider—
 
 #### (2) Partial funding
 
-&emsp;The formula shall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is less than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the amount provided for such fiscal year for each Indian tribe for which such operating or modernization assistance was provided for fiscal year 1996 shall not be less than the amount that bears the same ratio to the total amount available for assistance under this chapter for such fiscal year that the amount of operating and modernization assistance provided for the tribe for fiscal year 1996 bears to the total amount made available for fiscal year 1996 for assistance for the operation and modernization of such public housing.
+&emsp;The formula shall provide that, if, in any fiscal year, the total amount made available for assistance under this chapter is less than the total amount made available for fiscal year 1996 for assistance for the operation and modernization of public housing developed or operated pursuant to a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], the amount provided for such fiscal year for each Indian tribe forwhich such operating or modernization assistance was provided for fiscal year 1996 shall not be less than the amount that bears the same ratio to the total amount available for assistance under this chapter for such fiscal year that the amount of operating and modernization assistance provided for the tribe for fiscal year 1996 bears to the total amount made available for fiscal year 1996 for assistance for the operation and modernization of such public housing.
 
 #### (e) Effective date
 

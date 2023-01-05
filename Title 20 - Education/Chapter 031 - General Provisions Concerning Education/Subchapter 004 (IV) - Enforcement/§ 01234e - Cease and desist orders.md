@@ -10,7 +10,7 @@ In accordance with section 1234c of this title, the Secretary may issue to a rec
 
 #### (b) Appearance contesting order
 
-The recipient upon which a complaint has been served shall have the right to appear before the Office on the date specified and to showcause why an order should not be entered by the Office requiring the recipient to cease and desist from the violation of law charged in the complaint.
+The recipient upon which a complaint has been served shall have the right to appear before the Office on the date specified and to show cause why an order should not be entered by the Office requiring the recipient to cease and desist from the violation of law charged in the complaint.
 
 #### (c) Report; issuance of cease and desist order
 

@@ -93,7 +93,7 @@ An individual may not receive, through national service educational awards and s
 
 #### (f) Authority to establish demonstration programs
 
-The Corporation may establish by regulation demonstration programs for the creation andevaluation of innovative volunteer and community service programs.
+The Corporation may establish by regulation demonstration programs for the creation and evaluation of innovative volunteer and community service programs.
 
 (Pub. L. 101–610, title I, §146, as added Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 818; amended Pub. L. 103–304, §3(b)(4), Aug. 23, 1994, 108 Stat. 1567; Pub. L. 111–13, title I, §1402, Apr. 21, 2009, 123 Stat. 1512.)
 

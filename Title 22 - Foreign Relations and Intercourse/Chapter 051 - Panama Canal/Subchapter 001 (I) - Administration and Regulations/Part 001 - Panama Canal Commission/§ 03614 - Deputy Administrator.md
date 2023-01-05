@@ -22,7 +22,7 @@ Level IV of the Executive Schedule, referred to in subsec. (b), is set out in se
 
 "(a) There shall be a Deputy Administrator and a Chief Engineer of the Commission, both of whom shall be appointed by the President. The Deputy Administrator and the Chief Engineer shall perform such duties as may be prescribed by the President.
 
-"(b) The Deputy Administrator and the Chief Engineer shall each be paid compensation at a rate of payestablished by the President which does not exceed the rate of basic pay in effect for grade GS–18 of the General Schedule under section 5332 of title 5, and, if eligible, shall each be paid the overseas recruitment or retention differential provided for in section 3657 of this title."
+"(b) The Deputy Administrator and the Chief Engineer shall each be paid compensation at a rate of pay established by the President which does not exceed the rate of basic pay in effect for grade GS–18 of the General Schedule under section 5332 of title 5, and, if eligible, shall each be paid the overseas recruitment or retention differential provided for in section 3657 of this title."
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–510 inserted before period at end ", and, if eligible, shall each be paid the overseas recruitment or retention differential provided for in section 3657 of this title".
 

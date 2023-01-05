@@ -148,7 +148,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(B), the gross income of an individual who is permanentlyand totally disabled (as defined in section 22(e)(3)) at any time during the taxable year shall not include income attributable to services performed by the individual at a sheltered workshop if—
+&emsp;&emsp;For purposes of paragraph (1)(B), the gross income of an individual who is permanently and totally disabled (as defined in section 22(e)(3)) at any time during the taxable year shall not include income attributable to services performed by the individual at a sheltered workshop if—
 
 &emsp;&emsp;&emsp;(i) the availability of medical care at such workshop is the principal reason for the individual's presence there, and
 
@@ -338,7 +338,7 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For provision treating child as dependent of both parents for purposes of certain provisions, see sections 105(b), 132(h)(2)(B), and 213(d)(5).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 43; Aug. 9, 1955, ch. 693, §2, 69 Stat. 626; Pub. L. 85–866, title I, §4(a)–(c), Sept. 2, 1958, 72 Stat. 1607; Pub. L. 86–376, §1(a), Sept. 23, 1959, 73 Stat. 699; Pub. L.90–78, §1, Aug. 31, 1967, 81 Stat. 191; Pub. L. 91–172, title IX, §912(a), Dec. 30, 1969, 83 Stat. 722; Pub. L. 92–580, §1(a), Oct. 27, 1972, 86 Stat. 1276; Pub. L. 94–455, title XIX, §§1901(a)(24), (b)(7)(B), (8)(A), 1906(b)(13)(A), title XXI, §2139(a), Oct. 4, 1976, 90 Stat. 1767, 1794, 1834, 1932; Pub. L. 98–369, div. A, title IV, §§423(a), 482(b)(2), July 18, 1984, 98 Stat. 799, 848; Pub. L. 99–514, title I, §104(b)(1)(B), (3), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2105, 2658; Pub. L. 108–311, title II, §201, Oct. 4, 2004, 118 Stat. 1169; Pub. L. 109–135, title IV, §404(a), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 110–351, title V, §501(a), (b), (c)(2), Oct. 7, 2008, 122 Stat. 3979, 3980; Pub. L. 115–97, title I, §11051(b)(3)(B), Dec. 22, 2017, 131 Stat. 2089.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 43; Aug. 9, 1955, ch. 693, §2, 69 Stat. 626; Pub. L. 85–866, title I, §4(a)–(c), Sept. 2, 1958, 72 Stat. 1607; Pub. L. 86–376, §1(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 90–78, §1, Aug. 31, 1967, 81 Stat. 191; Pub. L. 91–172, title IX, §912(a), Dec. 30, 1969, 83 Stat. 722; Pub. L. 92–580, §1(a), Oct. 27, 1972, 86 Stat. 1276; Pub. L. 94–455, title XIX, §§1901(a)(24), (b)(7)(B), (8)(A), 1906(b)(13)(A), title XXI, §2139(a), Oct. 4, 1976, 90 Stat. 1767, 1794, 1834, 1932; Pub. L. 98–369, div. A, title IV, §§423(a), 482(b)(2), July 18, 1984, 98 Stat. 799, 848; Pub. L. 99–514, title I, §104(b)(1)(B), (3), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2105, 2658; Pub. L. 108–311, title II, §201, Oct. 4, 2004, 118 Stat. 1169; Pub. L. 109–135, title IV, §404(a), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 110–351, title V, §501(a), (b), (c)(2), Oct. 7, 2008, 122 Stat. 3979, 3980; Pub. L. 115–97, title I, §11051(b)(3)(B), Dec. 22, 2017, 131 Stat. 2089.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -380,7 +380,7 @@ Subsec. (e)(6). Pub. L. 98–369, §482(b)(2), substituted "section 213(d)(5)" f
 
 <b>1976</b>—Subsec. (a)(9). Pub. L. 94–455, §1901(b)(7)(B), substituted "section 143" for "section 153".
 
-Subsec. (a)(10). Pub. L. 94–455, §1901(a)(24)(A), struck out par. (10) relating to descendents of a taxpayer, who were members of taxpayer's household, before receiving institutional care.
+Subsec. (a)(10). Pub. L. 94–455, §1901(a)(24)(A), struck out par. (10) relating to descendents of a taxpayer, whowere members of taxpayer's household, before receiving institutional care.
 
 Subsec. (b)(3). Pub. L. 94–455, §1901(a)(24)(B), among other changes struck out "of the Canal Zone, or of the Republic of Panama" after "country contiguous to the United States," and provisions relating to children born or adopted in Philippines.
 
@@ -404,7 +404,7 @@ Subsec. (e). Pub. L. 90–78, §1(a), added subsec. (e).
 
 <b>1958</b>—Subsec. (a)(9). Pub. L. 85–866, §4(a), inserted "(other than an individual who at any time during the taxable year was the spouse, determined without regard to section 153, of the taxpayer)".
 
-Subsec. (b)(3). Pub. L. 85–866, §4(b), among other changes, struck out provision that "dependent" does not include any individual who is not a United States citizen unless such individual is a resident of United States or of a contiguous country, or of Canal Zone or Panama, and inserted provision barring exclusion from definition of "dependent" any child of taxpayer, legallyadopted by him, if, for taxable year of taxpayer, child's principal place of abode is taxpayer's home and child is member of taxpayer's household, if taxpayer is United States citizen.
+Subsec. (b)(3). Pub. L. 85–866, §4(b), among other changes, struck out provision that "dependent" does not include any individual who is not a United States citizen unless such individual is a resident of United States or of a contiguous country, or of Canal Zone or Panama, and inserted provision barring exclusion from definition of "dependent" any child of taxpayer, legally adopted by him, if, for taxable year of taxpayer, child's principal place of abode is taxpayer's home and child is member of taxpayer's household, if taxpayer is United States citizen.
 
 Subsec. (b)(5). Pub. L. 85–866, §4(c), added par. (5).
 

@@ -10,7 +10,7 @@ Cooperation to provide international trade services.—
 
 &emsp;(A)
 
-Information and services.—The small business development centers shall work in close cooperation with the Administration's regional and local offices, the Department of Commerce, appropriate Federal, State and local agencies (including State trade agencies), and the small business community toserve as an active information dissemination and service delivery mechanism for existing trade promotion, trade finance, trade adjustment, trade remedy and trade data collection programs of particular utility for small businesses.
+Information and services.—The small business development centers shall work in close cooperation with the Administration's regional and local offices, the Department of Commerce, appropriate Federal, State and local agencies (including State trade agencies), and the small business community to serve as an active information dissemination and service delivery mechanism for existing trade promotion, trade finance, trade adjustment, trade remedy and trade data collection programs of particular utility for small businesses.
 
 &emsp;(B)
 
@@ -62,7 +62,7 @@ In general.—Subject to clause (iii), the amount of a formula grant received by
 
 &emsp;&emsp;(ii)
 
-Grant determination.—The amount of a grant that a State is eligible to apply for under this subparagraph shall be the amount determined under clause (i), subject to any modifications required under clause (iii), and shall be based on the amount available for the fiscal year in which performance of the grant commences, but not including amounts distributed in accordance with clause (iv). The amount of a grant received by a State under any provision of this subparagraph shall not exceed the amount of matching funds from sources other than theFederal Government, as required under subparagraph (A).
+Grant determination.—The amount of a grant that a State is eligible to apply for under this subparagraph shall be the amount determined under clause (i), subject to any modifications required under clause (iii), and shall be based on the amount available for the fiscal year in which performance of the grant commences, but not including amounts distributed in accordance with clause (iv). The amount of a grant received by a State under any provision of this subparagraph shall not exceed the amount of matching funds from sources other than the Federal Government, as required under subparagraph (A).
 
 &emsp;&emsp;(iii)
 
@@ -198,7 +198,7 @@ In general.—The Department of Homeland Security, and any other Federal departm
 
 &emsp;(B)
 
-Definitions.—In this paragraph, the terms "cybersecurity risk" and "cyber threat indicator" have the meanings given such terms, respectively, under section 659(a) of title 6.
+Definitions.—In this paragraph, the terms "cybersecurity risk" and "cyber threat indicator" have the meanings given such terms, respectively, under section 650 of title 6.
 
 #### (b) Area plan inconsistent with applicant's plan: assistance unavailable 1981 through 1983; plan of applicant: submittal to Administration, action on plan, review by Administration, assistance to out-of-State businesses
 
@@ -290,7 +290,7 @@ Access to disaster recovery facilities.—For purposes of this subparagraph, the
 
 &emsp;(F) in providing assistance under this subsection, applicants shall cooperate with the Department of Commerce and other relevant Federal agencies to increase access to available export market information systems, including the CIMS system;
 
-&emsp;(G) assisting small businesses to develop and implement strategic business plans to timely and effectively respond to the planned closure (or reduction) of a Department of Defense facility within the community, or actual or projected reductions in such firms' business base due to the actual or projected termination (or reduction) of a Department of Defense program or a contract in support of such program—
+&emsp;(G) assisting small businesses to develop and implement strategic business plans to timelyand effectively respond to the planned closure (or reduction) of a Department of Defense facility within the community, or actual or projected reductions in such firms' business base due to the actual or projected termination (or reduction) of a Department of Defense program or a contract in support of such program—
 
 &emsp;&emsp;(i) by developing broad economic assessments of the adverse impacts of—
 
@@ -338,13 +338,13 @@ Access to disaster recovery facilities.—For purposes of this subparagraph, the
 
 &emsp;(Q) providing information to small business concerns regarding compliance with regulatory requirements;
 
-&emsp;(R) developing informational publications, establishing resource centers of reference materials, and distributing compliance guides published under section 312(a) <sup>5</sup> of the Small Business Regulatory Enforcement Fairness Act of 1996;
+&emsp;(R) developing informational publications, establishing resource centers of reference materials, and distributing compliance guides published under section 312(a) <sup>2</sup> of the Small Business Regulatory Enforcement Fairness Act of 1996;
 
 &emsp;(S) providing small business owners with access to a wide variety of export-related information by establishing on-line computer linkages between small business development centers and an international trade data information network with ties to the Export Assistance Center program;
 
 &emsp;(T) providing information and assistance to small business concerns with respect to establishing drug-free workplace programs on or before October 1, 2006; and
 
-&emsp;(U) <sup>6</sup> encouraging and assisting the provision of succession planning to small business concerns with a focus on transitioning to cooperatives, as defined in section 636(a)(35) of this title, and qualified employee trusts (collectively referred to in this subparagraph as "employee-owned business concerns"), including by—
+&emsp;(U) <sup>5</sup> encouraging and assisting the provision of succession planning to small business concerns with a focus on transitioning to cooperatives, as defined in section 636(a)(35) of this title, and qualified employee trusts (collectively referred to in this subparagraph as "employee-owned business concerns"), including by—
 
 &emsp;&emsp;(i) providing training to individuals to promote the successful management, governance, or operation of a business purchased by those individuals in the formation of an employee-owned business concern;
 
@@ -356,7 +356,7 @@ Access to disaster recovery facilities.—For purposes of this subparagraph, the
 
 &emsp;&emsp;(v) coordinating with the cooperative development centers of the Department of Agriculture, the land grant extension network, the Manufacturing Extension Partnership, community development financial institutions, employee ownership associations and service providers, and local, regional and national cooperative associations.
 
-&emsp;(U) <sup>6</sup> in conjunction with the United States Patent and Trademark Office, providing training—
+&emsp;(U) <sup>5</sup> in conjunction with the United States Patent and Trademark Office, providing training—
 
 &emsp;&emsp;(i) to small business concerns relating to—
 
@@ -378,7 +378,7 @@ Access to disaster recovery facilities.—For purposes of this subparagraph, the
 
 (7) In performing the services identified in paragraph (3), the Small Business Development Centers shall work in close cooperation with the Administration's regional and local offices, the local small business community, and appropriate State and local agencies.
 
-(8) The Associate Administrator for Small Business Development Centers, in consultation with the Small Business Development Centers, shall develop and implement an information sharing system. Subject to amounts approved inadvance in appropriations Acts, the Administration may make grants or enter <sup>7</sup> cooperative agreements with one or more centers to carry out the provisions of this paragraph. Said grants or cooperative agreements shall be awarded for periods of no more than five years duration. The matching funds provisions of subsection (a) shall not be applicable to grants or cooperative agreements under this paragraph. The system shall—
+(8) The Associate Administrator for Small Business Development Centers, in consultation with the Small Business Development Centers, shall develop and implement an information sharing system. Subject to amounts approved in advance in appropriations Acts, the Administration may make grants or enter <sup>6</sup> cooperative agreements with one or more centers to carry out the provisions of this paragraph. Said grants or cooperative agreements shall be awarded for periods of no more than five years duration. The matching funds provisions of subsection (a) shall not be applicable to grants or cooperative agreements under this paragraph. The system shall—
 
 &emsp;(A) allow Small Business Development Centers participating in the program to exchange information about their programs; and
 
@@ -410,7 +410,7 @@ The National Aeronautics and Space Administration and regional technology transf
 
 #### (A) In general
 
-&emsp;&emsp;The sole responsibility of the Associate Administrator for Small Business Development Centers shall be to administer the small business development center program. Duties of the position shall include recommending the annual program budget, reviewing the annual budgets submitted by each applicant, establishing appropriate funding levels therefore,<sup>8</sup> selecting applicants to participate in this program, implementing the provisions of this section, maintaining a clearinghouse to provide for the dissemination and exchange of information between small business development centers and conducting audits of recipients of grants under this section.
+&emsp;&emsp;The sole responsibility of the Associate Administrator for Small Business Development Centers shall be to administer the small business development center program. Duties of the position shall include recommending the annual program budget, reviewing the annual budgets submitted by each applicant, establishing appropriate funding levels therefore,<sup>7</sup> selecting applicants to participate in this program, implementing the provisions of this section, maintaining a clearinghouse to provide for the dissemination and exchange of information between small business development centers and conducting audits of recipients of grants under this section.
 
 #### (B) Consultation requirements
 
@@ -442,7 +442,7 @@ The National Aeronautics and Space Administration and regional technology transf
 
 #### (A) In general
 
-&emsp;&emsp;In extending or renewing a cooperative agreement of a small business development center, the Administration shall consider the results of the examination and accreditation program conducted pursuant to paragraphs (1) and (2).
+&emsp;&emsp;In extending or renewing a cooperative agreement of a small business development center, the Administration shall considerthe results of the examination and accreditation program conducted pursuant to paragraphs (1) and (2).
 
 #### (B) Accreditation requirement
 
@@ -450,7 +450,7 @@ The National Aeronautics and Space Administration and regional technology transf
 
 #### (l) Contract authority
 
-The authority to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the administration has entered a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administration provides the applicant with written notification setting forth the reasons therefore <sup>8</sup> and affording the applicant an opportunity for a hearing, appeal, or other administrative proceeding under the provisions of chapter 5 of title 5. If any contract or cooperative agreement under this section with an entity that is covered by this section is not renewed or extended, any award of a successor contract or cooperative agreement under this section to another entity shall be made on a competitive basis.
+The authority to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the administration has entered a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administration provides the applicant with written notification setting forth the reasons therefore <sup>7</sup> and affording the applicant an opportunity for a hearing, appeal, or other administrative proceeding under the provisions of chapter 5 of title 5. If any contract or cooperative agreement under this section with an entity that is covered by this section is not renewed or extended, any award of a successor contract or cooperative agreement under this section to another entity shall be made on a competitive basis.
 
 #### (m) Prohibition on certain fees
 
@@ -480,15 +480,51 @@ A small business development center shall not impose or otherwise collect a fee 
 
 &emsp;Subject to amounts approved in advance in appropriations Acts, the Administration may make grants or enter into cooperative agreements to carry out the provisions of this subsection.
 
-(Pub. L. 85–536, §2\[21\], as added Pub. L. 96–302, title II, §202, July 2, 1980, 94 Stat. 843; amended Pub. L. 98–395, §2, Aug. 21, 1984, 98 Stat. 1366; Pub. L. 100–418, title VIII, §8006(b), Aug. 23, 1988, 102 Stat. 1557; Pub. L. 100–590, title I, §§134, 135(3), Nov. 3, 1988, 102 Stat. 3006, 3007; Pub. L.101–515, title V, §§5(a), 6, Nov. 5, 1990, 104 Stat. 2142; Pub. L. 101–574, title II, §201(a)(1), title III, §303, Nov. 15, 1990, 104 Stat. 2818, 2828; Pub. L. 102–366, title II, §§212, 223(a), Sept. 4, 1992, 106 Stat. 998, 1000; Pub. L. 103–81, §9(a), Aug. 13, 1993, 107 Stat. 783; Pub. L. 103–403, title IV, §§402–404, Oct. 22, 1994, 108 Stat. 4190, 4191; Pub. L. 104–66, title II, §2121, Dec. 21, 1995, 109 Stat. 730; Pub. L. 104–121, title II, §214(a), Mar. 29, 1996, 110 Stat. 859; Pub. L. 104–208, div. D, title I, §106, Sept. 30, 1996, 110 Stat. 3009–731; Pub. L. 105–135, title V, §§502, 506(a), Dec. 2, 1997, 111 Stat. 2622, 2624; Pub. L. 105–277, div. C, title IX, §905, Oct. 21, 1998, 112 Stat. 2681–710; Pub. L. 106–554, §1(a)(9) \[title V, §503(e), title VIII, §804(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–703; Pub. L. 107–20, title II, §2203(b), July 24, 2001, 115 Stat. 170; Pub. L. 108–447, div. K, title I, §§122, 142, Dec. 8, 2004, 118 Stat. 3449, 3454; Pub. L. 110–186, title I, §107, Feb. 14, 2008, 122 Stat. 627; Pub. L. 111–240, title I, §1209, Sept. 27, 2010, 124 Stat. 2536; Pub. L. 113–291, div. A, title VIII, §823(a), Dec. 19, 2014, 128 Stat. 3436; Pub. L. 114–88, div. B, title I, §2103(a), Nov. 25, 2015, 129 Stat. 690; Pub. L. 114–328, div. A, title XVIII, §§1842, 1843, Dec. 23, 2016, 130 Stat. 2663, 2664; Pub. L. 115–232, div. A, title VIII, §862(e)(2)(B), Aug. 13, 2018, 132 Stat. 1899; Pub. L. 115–259, §5, Oct. 9, 2018, 132 Stat. 3665; Pub. L. 115–278, §2(h)(2), Nov. 16, 2018, 132 Stat. 4183; Pub. L. 116–283, div. A, title VIII, §867(1), Jan. 1, 2021, 134 Stat. 3786.)
+#### (o) Cyber strategy training for small business development centers
+
+#### (1) Definitions
+
+&emsp;In this subsection—
+
+&emsp;&emsp;(A) the term "cyber strategy" means resources and tactics to assist in planning for cybersecurity and defending against cyber risks and attacks; and
+
+&emsp;&emsp;(B) the term "lead small business development center" means a small business development center that receives reimbursement from the Administrator under paragraph (5).
+
+#### (2) Certification program
+
+&emsp;The Administrator shall establish a cyber counseling certification program, or designate 1 or more substantially similar governmental or private cybersecurity certification programs, to certify the employees of lead small business development centers in providing cyber planning assistance to small business concerns.
+
+#### (3) Number of certified employees
+
+&emsp;The Administrator shall ensure that the number of employees of each lead small business development center who are certified in providing cyber planning assistance is not less than the lesser of—
+
+&emsp;&emsp;(A) 5; or
+
+&emsp;&emsp;(B) 10 percent of the total number of employees of the lead small business development center.
+
+#### (4) Cyber strategy
+
+&emsp;In carrying out paragraph (2), the Administrator, to the extent practicable, shall consider any cyber strategy methods included in the Small Business Development Center Cyber Strategy developed under section 1841(a)(3)(B) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2662).
+
+#### (5) Reimbursement for certification
+
+#### (A) In general
+
+&emsp;&emsp;Subject to the availability of appropriations, the Administrator may reimburse each lead small business development center for costs relating to the certification of 1 or more employees of the lead small business center in providing cyber planning assistance under a program established or designated under paragraph (2).
+
+#### (B) Limitation
+
+&emsp;&emsp;The total amount reimbursed by the Administrator under subparagraph (A) may not exceed $350,000 in any fiscal year.
+
+(Pub. L. 85–536, §2\[21\], as added Pub. L. 96–302, title II, §202, July 2, 1980, 94 Stat. 843; amended Pub. L. 98–395, §2, Aug. 21, 1984, 98 Stat. 1366; Pub. L. 100–418, title VIII, §8006(b), Aug. 23, 1988, 102 Stat. 1557; Pub. L. 100–590, title I, §§134, 135(3), Nov. 3, 1988, 102 Stat. 3006, 3007; Pub. L. 101–515, title V, §§5(a), 6, Nov. 5, 1990, 104 Stat. 2142; Pub. L. 101–574, title II, §201(a)(1), title III, §303, Nov. 15, 1990, 104 Stat. 2818, 2828; Pub. L. 102–366, title II, §§212, 223(a), Sept. 4, 1992, 106 Stat. 998, 1000; Pub. L. 103–81, §9(a), Aug. 13, 1993, 107 Stat. 783; Pub. L. 103–403, title IV, §§402–404, Oct. 22, 1994, 108 Stat. 4190, 4191; Pub. L. 104–66, title II, §2121, Dec. 21, 1995, 109 Stat. 730; Pub. L. 104–121, title II, §214(a), Mar. 29, 1996, 110 Stat. 859; Pub. L. 104–208, div. D, title I, §106, Sept. 30, 1996, 110 Stat. 3009–731; Pub. L. 105–135, title V, §§502, 506(a), Dec. 2, 1997, 111 Stat. 2622, 2624; Pub. L. 105–277, div. C, title IX, §905, Oct. 21, 1998, 112 Stat. 2681–710; Pub. L. 106–554, §1(a)(9) \[title V, §503(e), title VIII, §804(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–703; Pub. L. 107–20, title II, §2203(b), July 24, 2001, 115 Stat. 170; Pub. L. 108–447, div. K, title I, §§122, 142, Dec. 8, 2004, 118 Stat. 3449, 3454; Pub. L. 110–186, title I, §107, Feb. 14, 2008, 122 Stat. 627; Pub. L. 111–240, title I, §1209, Sept. 27, 2010, 124 Stat. 2536; Pub. L. 113–291, div. A, title VIII, §823(a), Dec. 19, 2014, 128 Stat. 3436; Pub. L. 114–88, div. B, title I, §2103(a), Nov. 25, 2015, 129 Stat. 690; Pub. L. 114–328, div. A, title XVIII, §§1842, 1843, Dec. 23, 2016, 130 Stat. 2663, 2664; Pub. L. 115–232, div. A, title VIII, §862(e)(2)(B), Aug. 13, 2018, 132 Stat. 1899; Pub. L. 115–259, §5, Oct. 9, 2018, 132 Stat. 3665; Pub. L. 115–278, §2(h)(2), Nov. 16, 2018, 132 Stat. 4183; Pub. L. 116–283, div. A, title VIII, §867(1), Jan. 1, 2021, 134 Stat. 3786; Pub. L. 117–263, div. G, title LXXI, §7143(d)(9), Dec. 23, 2022, 136 Stat. 3664; Pub. L. 117–319, §2(a), Dec. 27, 2022, 136 Stat. 4424.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 1841(a) of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsecs. (a)(1) and (c)(2)(G), is section 1841(a) of Pub. L. 114–328, div. A, title XVIII, Dec. 23, 2016, 130 Stat. 2662, which is not classified to the Code.
+Section 1841(a) of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsecs. (a)(1), (c)(2)(G), and (o)(4), is section 1841(a) of Pub. L. 114–328, div. A, title XVIII, Dec. 23, 2016, 130 Stat. 2662, which is not classified to the Code.
 
-Section 20(a), referred to in subsec. (a)(4)(C)(i)(I), (v), means section 2\[20(a)\] of Pub. L. 85–536, as amended, which is set out as a note under section 631 of this title.
+Section 20(a), referred to in subsec. (a)(4)(C)(i)(I), (v), means section 2\[20(a)\] of Pub. L. 85–536, which is set out as a note under section 631 of this title.
 
 Section 312(a) of the Small Business Regulatory Enforcement Fairness Act of 1996, referred to in subsec. (c)(3)(R), probably means section 212(a) of Pub. L. 104–121, which is set out in a note under section 601 of Title 5, Government Organization and Employees, because Pub. L. 104–121 does not contain a section 312.
 
@@ -505,6 +541,10 @@ A prior section 648 of this title, act July 30, 1953, ch. 282, title II, §219, 
 A prior section 2\[21\] of Pub. L. 85–536 was renumbered section 2\[49\] and is set out as a note under section 631 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(8)(B). Pub. L. 117–263 substituted "section 650 of title 6" for "section 659(a) of title 6".
+
+Subsec. (o). Pub. L. 117–319 added subsec. (o).
 
 <b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §867(1)(A), inserted "The previous sentence shall not apply to an applicant that has its principal office located in the Commonwealth of the Northern Mariana Islands." before "The Administration shall require".
 
@@ -540,7 +580,7 @@ Subsec. (k). Pub. L. 108–447, §142(b), substituted "Accreditation" for "Certi
 
 <b>2001</b>—Subsec. (a)(4)(C)(v)(II). Pub. L. 107–20 inserted ", or accompanying report language," after "in appropriations Acts".
 
-<b>2000</b>—Subsec. (a)(4)(C). Pub. L. 106–554, §1(a)(9) \[title VIII, §804(b)\], amended heading and text of subpar. (C) generally, substituting present provisions for provisions providing that the amount of a grant received by a State under this section would be equal to the greater of $500,000, or the sum of the State's pro rata share of the national program, plus $300,000 in fiscal year 1998, $400,000 in fiscal year 1999, and $500,000 in each fiscal year thereafter, provisions relating to pro rata reductions, matching requirement, and exception for grants provided to a small business development center to carry out the provisions of subsection (c)(3)(G), and provisions setting forth appropriations of $85,000,000 for fiscal year 1998, $90,000,000 for fiscal year 1999, and $95,000,000 for fiscal year 2000 and each fiscal year thereafter.
+<b>2000</b>—Subsec. (a)(4)(C). Pub. L. 106–554, §1(a)(9) \[title VIII, §804(b)\], amended heading and text of subpar. (C) generally, substituting present provisions for provisions providing that the amount of a grant received by a State under this section would be equal to the greater of $500,000, or the sum of the State's pro rata share of the national program, plus $300,000 in fiscal year 1998, $400,000 in fiscal year 1999, and $500,000 in each fiscalyear thereafter, provisions relating to pro rata reductions, matching requirement, and exception for grants provided to a small business development center to carry out the provisions of subsection (c)(3)(G), and provisions setting forth appropriations of $85,000,000 for fiscal year 1998, $90,000,000 for fiscal year 1999, and $95,000,000 for fiscal year 2000 and each fiscal year thereafter.
 
 Subsec. (c)(3)(T). Pub. L. 106–554, §1(a)(9) \[title V, §503(e)\], substituted "2003" for "2000".
 
@@ -706,6 +746,10 @@ For short title of title II of Pub. L. 96–302 as the Small Business Developmen
 
 Pub. L. 102–366, title II, §223(b), Sept. 4, 1992, 106 Stat. 1000, as amended by Pub. L. 103–81, §9(c), Aug. 13, 1993, 107 Stat. 783, provided that not later than 180 days after Sept. 4, 1992, the Administrator of the Small Business Administration was to submit to the Committees on Small Business and the Committees on Appropriations of the Senate and the House of Representatives proposed regulations for the Small Business Development Center Program authorized by this section.
 
+#### Implementation
+
+Pub. L. 117–319, §2(b), Dec. 27, 2022, 136 Stat. 4425, provided that: "Not later than 180 days after the date of enactment of this Act \[Dec. 27, 2022\], the Administrator of the Small Business Administration shall implement paragraphs (2), (3), and (4) of section 21(o) of the Small Business Act \[15 U.S.C. 648(o)(2)–(4)\], as added by subsection (a)."
+
 #### Opportunities for Employee-Owned Business Concerns Through Small Business Administration Loan Programs
 
 Pub. L. 115–232, div. A, title VIII, §862(a), (c)–(e)(2)(A), Aug. 13, 2018, 132 Stat. 1897–1899, provided that:
@@ -772,11 +816,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 <i><sup>4</sup></i><i> So in original. Probably should be "counseling".</i>
 
-<i><sup>5</sup></i><i> See References in Text note below.</i>
+<i><sup>5</sup></i><i> So in original. Two subpars. (U) have been enacted.</i>
 
-<i><sup>6</sup></i><i> So in original. Two subpars. (U) have been enacted.</i>
+<i><sup>6</sup></i><i> So in original. Probably should be "enter into".</i>
 
-<i><sup>7</sup></i><i> So in original. Probably should be "enter into".</i>
-
-<i><sup>8</sup></i><i> So in original. Probably should be "therefor,".</i>
+<i><sup>7</sup></i><i> So in original. Probably should be "therefor,".</i>
 

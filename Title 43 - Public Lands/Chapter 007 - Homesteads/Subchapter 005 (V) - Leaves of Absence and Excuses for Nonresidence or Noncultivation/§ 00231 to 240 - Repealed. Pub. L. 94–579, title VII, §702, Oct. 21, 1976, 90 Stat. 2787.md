@@ -1,6 +1,6 @@
 ### §§231 to 240. Repealed. Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787
 
-Section 231, acts Aug. 22, 1914, ch. 270, 38 Stat. 704; Feb. 25, 1919, ch. 21, 40 Stat. 1153; Oct. 28, 1921, ch. 114,§1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to optional leaves of absence and proof of commutation.
+Section 231, acts Aug. 22, 1914, ch. 270, 38 Stat. 704; Feb. 25, 1919, ch. 21, 40 Stat. 1153; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, related to optional leaves of absence and proof of commutation.
 
 Section 232, act July 3, 1916, ch. 214, 39 Stat. 341, related to settlers on unsurveyed land.
 
@@ -26,7 +26,7 @@ Section 237e, act Apr. 20, 1936, ch. 239, §1, 49 Stat. 1235, excused entrymen f
 
 Section 237f, act July 30, 1956, ch. 778, §1, 70 Stat. 715, related to absence during 1956 to 1959 due to economic conditions and protection of rights of entryman.
 
-Section 237g, act July 30, 1956, ch. 778, §2, 70 Stat. 716, related to homestead or desert land applications on file as of Mar. 1, 1956, and entries and rights of United States.
+Section 237g, act July 30, 1956, ch. 778, §2, 70 Stat. 716, related to homestead or desert land applications on fileas of Mar. 1, 1956, and entries and rights of United States.
 
 Section 237h, act July 30, 1956, ch. 778, §4, 70 Stat. 716, set forth lands subject to protection of rights of entryman.
 

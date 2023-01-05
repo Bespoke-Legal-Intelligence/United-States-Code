@@ -20,7 +20,7 @@
 
 #### (5) Denatured distilled spirits or articles
 
-&emsp;Any person who produces, withdraws, sells, transports, or uses denatured distilled spirits or articles in violation of laws or regulations now or hereafter in force pertaining thereto, and all such denatured distilled spirits or articles shall be subject to all provisions of law pertaining to distilled spirits that are not denatured, including those requiring the payment of tax thereon; and the person so producing, withdrawing, selling, transporting, orusing the denatured distilled spirits or articles shall be required to pay such tax.
+&emsp;Any person who produces, withdraws, sells, transports, or uses denatured distilled spirits or articles in violation of laws or regulations now or hereafter in force pertaining thereto, and all such denatured distilled spirits or articles shall be subject to all provisions of law pertaining to distilled spirits that are not denatured, including those requiring the payment of tax thereon; and the person so producing, withdrawing, selling, transporting, or using the denatured distilled spirits or articles shall be required to pay such tax.
 
 #### (6) Fruit-flavor concentrates
 
@@ -104,61 +104,51 @@ The tax shall attach to distilled spirits as soon as this substance is in existe
 
 &emsp;&emsp;&emsp;For purposes of this paragraph, in the case of a controlled group, rules similar to section 5051(a)(5)(B) shall apply.
 
+#### (4) Refunds in lieu of reduced rates for foreign production removed after December 31, 2022
+
+#### (A) In general
+
+&emsp;&emsp;In the case of any proof gallons of distilled spirits which have been produced outside the United States and imported into the United States, if such proof gallons of distilled spirits are removed after December 31, 2022—
+
+&emsp;&emsp;&emsp;(i) paragraph (1) shall not apply, and
+
+&emsp;&emsp;&emsp;(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequentlythan quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
+
+#### (B) Amount of refund
+
+&emsp;&emsp;The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
+
+&emsp;&emsp;&emsp;(i) the excess (if any) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount of tax imposed under this subpart on proof gallons of distilled spirits referred to in subparagraph (A) which were removed during such period, over
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount of tax which would have been imposed under this subpart on such proof gallons of distilled spirits if this section were applied without regard to this paragraph, plus
+
+&emsp;&emsp;&emsp;(ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
+
+#### (C) Application of rules related to elections and assignments
+
+&emsp;&emsp;Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (3) and the proof gallons of distilled spirits have been assigned to the importer pursuant to such paragraph.
+
+#### (D) Rules for refunds within 90 days
+
+&emsp;&emsp;For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting "90 days" for "45 days" each place it appears.
+
+#### (5) Processed distilled spirits
+
+&emsp;A distilled spirit shall not be treated as processed for purposes of this subsection unless a process described in section 5002(a)(5)(A) (other than bottling) is performed with respect to such distilled spirit.
+
 #### (d) Cross reference
 
 &emsp;&emsp;<b>For provisions relating to the tax on shipments to the United States of taxable articles from Puerto Rico and the Virgin Islands, see section 7652.</b>
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1314; amended Pub. L. 86–75, §3(a)(2), (3), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(4), (5), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(4), (5), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(3), (4), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(4), (5), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(4), (5), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(a), June 21, 1965, 79 Stat. 150; Pub. L. 96–39, title VIII, §§802, 805(d), July 26, 1979, 93 Stat. 273, 278; Pub. L. 98–369, div. A, title I, §27(a)(1), July 18, 1984, 98 Stat. 507; Pub. L. 101–508, title XI, §11201(a)(1), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 103–465, title I, §136(a), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 115–97, title I, §13807(a), (c), Dec. 22, 2017, 131 Stat. 2176; Pub. L. 116–94, div. Q, title I, §144(g)(1), (2), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, §§106(g)(1), 107(a)(1), 109(a), 110(c), Dec. 27, 2020, 134 Stat. 3044, 3045, 3049, 3050.)
 
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 116–260, div. EE, title I, §107(a)(1), (3), Dec. 27, 2020, 134 Stat. 3045, 3046, provided that, applicable to distilled spirits brought into the United States and removed after Dec. 31, 2022, subsection (c) of this section is amended by adding at the end the following new paragraph:</i>
-
-#### <i>(4) Refunds in lieu of reduced rates for foreign production removed after December 31, 2022</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>In the case of any proof gallons of distilled spirits which have been produced outside the United States and imported into the United States, if such proof gallons of distilled spirits are removed after December 31, 2022—</i>
-
-&emsp;&emsp;&emsp;<i>(i) paragraph (1) shall not apply, and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.</i>
-
-#### <i>(B) Amount of refund</i>
-
-&emsp;&emsp;<i>The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) the excess (if any) of—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) the amount of tax imposed under this subpart on proof gallons of distilled spirits referred to in subparagraph (A) which were removed during such period, over</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) the amount of tax which would have been imposed under this subpart on such proof gallons of distilled spirits if this section were applied without regard to this paragraph, plus</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.</i>
-
-#### <i>(C) Application of rules related to elections and assignments</i>
-
-&emsp;&emsp;<i>Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (3) and the proof gallons of distilled spirits have been assigned to the importer pursuant to such paragraph.</i>
-
-#### <i>(D) Rules for refunds within 90 days</i>
-
-&emsp;&emsp;<i>For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting "90 days" for "45 days" each place it appears.</i>
-
-<i>See 2020 Amendment note below.</i>
-
-<i>Pub. L. 116–260, div. EE, title I, §109, Dec. 27, 2020, 134 Stat. 3049, provided that, applicable to distilled spirits removed after Dec. 31, 2021, subsection (c) of this section is amended by adding at the end the following:</i>
-
-#### <i>(5) Processed distilled spirits</i>
-
-&emsp;<i>A distilled spirit shall not be treated as processed for purposes of this subsection unless a process described in section 5002(a)(5)(A) (other than bottling) is performed with respect to such distilled spirit.</i>
-
-<i>See 2020 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
-A prior section 5001, acts Aug. 16, 1954, ch. 736, 68A Stat. 595; Mar. 30, 1955, ch. 18, §3(a)(4), (5), 69 Stat. 14;Mar. 29, 1956, ch. 115, §3(a)(4), (5), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(2), (3), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(2), (3), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See section 5061(d) of this title.
+A prior section 5001, acts Aug. 16, 1954, ch. 736, 68A Stat. 595; Mar. 30, 1955, ch. 18, §3(a)(4), (5), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(4), (5), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(2), (3), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(2), (3), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See section 5061(d) of this title.
 
 #### Amendments
 
@@ -266,7 +256,7 @@ Electronic transfer provisions.—The amendments made by subsection (c) \[amendi
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–39, title VIII, §810, July 26, 1979, 93 Stat. 292, provided that: "The amendments made by this title\[amending this section and sections 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections 1, 5061, 5171, and 5173 of this title\] shall take effect on January 1, 1980."
+Pub. L. 96–39, title VIII, §810, July 26, 1979, 93 Stat. 292, provided that: "The amendments made by this title \[amending this section and sections 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections 1, 5061, 5171, and 5173 of this title\] shall take effect on January 1, 1980."
 
 #### Effective Date of 1965 Amendment
 
@@ -286,7 +276,7 @@ Pub. L. 116–260, div. EE, title I, §107(f), Dec. 27, 2020, 134 Stat. 3048, pr
 
 #### Savings Provision
 
-Pub. L. 85–859, title II, §210(b), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment of any provision of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652, and 7655 of this title, and enacting provisions set out as notes under this section and sections 5006, 5025, 5064, 5175, 5304, and 5601 of this title\] shall not affect any act done or any right accruing or accrued, or any suit or proceeding had or commenced in any civil cause before such amendment; but all rights and liabilities under such code prior to such amendment shall continue, and may be enforced in the same manner, as if such amendment had not been made."
+Pub. L. 85–859, title II, §210(b), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendment of any provision of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652, and 7655 of this title, and enacting provisions set out as notes under this section and sections 5006, 5025, 5064, 5175, 5304, and 5601 of this title\] shall not affect any act done or any right accruing or accrued, or any suit or proceeding had or commenced in any civil cause before such amendment; but all rights and liabilities under such code prior to such amendment shall continue, and may be enforced in the same manner, as if such amendment had not been made."
 
 #### References to Other Provisions of Law
 
@@ -404,7 +394,7 @@ Other laws applicable.—
 
 &emsp;"(A)
 
-In general.—All provisions of law, including penalties, applicable to the comparable excise tax with respect to any tax-increased article shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by the comparable excise tax.
+In general.—All provisions of law, including penalties, applicable to the comparable excise tax with respect to any tax-increased article shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stockstaxes imposed by paragraph (1) to the same extent as if such taxes were imposed by the comparable excise tax.
 
 &emsp;"(B)
 

@@ -40,7 +40,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(11) the term "negligent treatment" means the failure to provide, for reasons other than poverty, adequate food, clothing, shelter, or medical care so as to seriously endanger the physical health of the child; and
 
-&emsp;(12) the term "child abuse" does not include discipline administered by a parent or legal guardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
+&emsp;(12) the term "child abuse" does not include discipline administered by a parent or legalguardian to his or her child provided it is reasonable in manner and moderate in degree and otherwise does not constitute cruelty.
 
 (b)
 
@@ -108,13 +108,13 @@ Videotaped deposition of child.—(A) In a proceeding involving an alleged offen
 
 > &emsp;The defendant shall be afforded the rights applicable to defendants during trial, including the right to an attorney, the right to be confronted with the witness against the defendant, and the right to cross-examine the child.
 
-&emsp;(iv) If the preliminary finding of inability under clause (i) is based on evidence that the child is unable to testify in the physical presence of the defendant, the court may order that the defendant, including a defendant represented pro se, be excluded from the room in which the deposition is conducted. If the court orders that the defendant be excluded from the deposition room, the court shall order that 2-way closed circuit television equipment relay the defendant's image into the room in which the child is testifying, and the child's testimony into the room in which the defendant is viewing the proceeding, and that the defendant be provided with a means of private, contemporaneous communication with the defendant's attorney during the deposition.
+&emsp;(iv) If the preliminary finding of inability under clause (i) is based on evidence that the child is unable to testify in the physical presence of the defendant, the court may order that the defendant, including a defendant represented pro se, be excluded from the room inwhich the deposition is conducted. If the court orders that the defendant be excluded from the deposition room, the court shall order that 2-way closed circuit television equipment relay the defendant's image into the room in which the child is testifying, and the child's testimony into the room in which the defendant is viewing the proceeding, and that the defendant be provided with a means of private, contemporaneous communication with the defendant's attorney during the deposition.
 
 &emsp;(v)
 
 Handling of videotape.—The complete record of the examination of the child, including the image and voices of all persons who in any way participate in the examination, shall be made and preserved on video tape in addition to being stenographically recorded. The videotape shall be transmitted to the clerk of the court in which the action is pending and shall be made available for viewing to the prosecuting attorney, the defendant, and the defendant's attorney during ordinary business hours.
 
-&emsp;(C) If at the time of trial the court finds that the child is unable to testify as for a reason described in subparagraph (B)(i), the court may admit into evidence the child's videotaped deposition in lieu of the child's testifying at the trial. The court shall support aruling under this subparagraph with findings on the record.
+&emsp;(C) If at the time of trial the court finds that the child is unable to testify as for a reason described in subparagraph (B)(i), the court may admit into evidence the child's videotaped deposition in lieu of the child's testifying at the trial. The court shall support a ruling under this subparagraph with findings on the record.
 
 &emsp;(D) Upon timely receipt of notice that new evidence has been discovered after the original videotaping and before or during trial, the court, for good cause shown, may order an additional videotaped deposition. The testimony of the child shall be restricted to the matters specified by the court as the basis for granting the order.
 
@@ -196,7 +196,7 @@ Confidentiality of information.—(A) A person acting in a capacity described in
 
 &emsp;(2)
 
-Filing under seal.—All papers to be filed in court that disclose the name of or any other information concerning a child shall be filed under seal without necessity of obtaining a court order. The person who makes the filing shall submit to the clerk of the court—
+Filing under seal.—All papers to be filed in court that disclose the name of or any other information concerning a child shall be filed under seal without necessity of obtaining acourt order. The person who makes the filing shall submit to the clerk of the court—
 
 &emsp;&emsp;(A) the complete paper to be kept under seal; and
 

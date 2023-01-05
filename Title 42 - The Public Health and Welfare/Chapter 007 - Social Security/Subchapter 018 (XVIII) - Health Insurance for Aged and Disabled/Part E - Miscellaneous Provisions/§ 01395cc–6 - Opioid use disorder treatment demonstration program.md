@@ -114,11 +114,9 @@
 
 &emsp;For purposes of this section, the term "eligible practitioner" means a physician or other health care practitioner, such as a nurse practitioner, that—
 
-&emsp;&emsp;(A) is enrolled under section 1395cc(j)(1) of this title;
+&emsp;&emsp;(A) is enrolled under section 1395cc(j)(1) of this title; and
 
-&emsp;&emsp;(B) is authorized to prescribe or dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment; and
-
-&emsp;&emsp;(C) has in effect a waiver in accordance with section 823(g) of title 21 for such purpose and is otherwise in compliance with regulations promulgated by the Substance Abuse and Mental Health Services Administration to carry out such section.
+&emsp;&emsp;(B) is authorized to prescribe or dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment.
 
 #### (d) Participation of applicable beneficiaries
 
@@ -138,7 +136,7 @@
 
 #### (2) Voluntary beneficiary participation; limitation on number of beneficiaries
 
-&emsp;An applicable beneficiary may participate in the Program on a voluntary basis and mayterminate participation in the Program at any time. Not more than 20,000 applicable beneficiaries may participate in the Program at any time.
+&emsp;An applicable beneficiary may participate in the Program on a voluntary basis and may terminate participation in the Program at any time. Not more than 20,000 applicable beneficiaries may participate in the Program at any time.
 
 #### (3) Services
 
@@ -216,7 +214,7 @@ In carrying out the Program, the Secretary shall encourage other payers to provi
 
 &emsp;The Secretary shall submit to Congress—
 
-&emsp;&emsp;(A) a report with respect to the intermediate evaluation under paragraph (1) notlater than 3 years after the date of the implementation of the Program; and
+&emsp;&emsp;(A) a report with respect to the intermediate evaluation under paragraph (1) not later than 3 years after the date of the implementation of the Program; and
 
 &emsp;&emsp;(B) a report with respect to the final evaluation under paragraph (1) not later than 6 years after such date.
 
@@ -238,11 +236,17 @@ In carrying out the Program, the Secretary shall encourage other payers to provi
 
 The Secretary may waive any provision of this subchapter as may be necessary to carry out the Program under this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1866F, as added Pub. L. 115–271, title VI, §6042, Oct. 24, 2018, 132 Stat. 3979.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1866F, as added Pub. L. 115–271, title VI, §6042, Oct. 24, 2018, 132 Stat. 3979; amended Pub. L. 117–215, title I, §103(b)(4)(C), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, §1262(b)(7), Dec. 29, 2022, 136 Stat. 5682.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 223 of the Protecting Access to Medicare Act of 2014, referred to in subsec. (c)(1)(A)(i)(VII), is section 223 of Pub. L. 113–93, which is set out as a note under section 1396a of this title.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c)(3)(C). Pub. L. 117–328 struck out subpar. (C) which read as follows: "has in effect a waiver in accordance with section 823(h) of title 21 for such purpose and is otherwise in compliance with regulations promulgated by the Substance Abuse and Mental Health Services Administration to carry out such section."
+
+Pub. L. 117–215 substituted "823(h)" for "823(g)".
 

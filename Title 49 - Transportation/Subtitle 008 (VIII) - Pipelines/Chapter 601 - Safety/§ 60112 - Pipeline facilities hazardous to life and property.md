@@ -14,7 +14,7 @@ Considerations.—In making a decision under subsection (a) of this section, the
 
 &emsp;(1) the characteristics of the pipe and other equipment used in the pipeline facility, including the age, manufacture, physical properties, and method of manufacturing, constructing, or assembling the equipment;
 
-&emsp;(2) the nature of the material the pipeline facility transports, the corrosive and deteriorative qualities of the material, the sequence in which the material are <sup>1</sup> transported, and thepressure required for transporting the material;
+&emsp;(2) the nature of the material the pipeline facility transports, the corrosive and deteriorative qualities of the material, the sequence in which the material are <sup>1</sup> transported, and the pressure required for transporting the material;
 
 &emsp;(3) the aspects of the area in which the pipeline facility is located, including climatic and geologic conditions and soil characteristics;
 

@@ -38,7 +38,7 @@
 
 <b>1966</b>—Pub. L. 89–718, §21(b), Nov. 2, 1966, 80 Stat. 1118, substituted "2737" for "2736" as item number for "Property loss; personal injury or death: incident to use of property of the United States and not cognizable under other law".
 
-<b>1964</b>—Pub. L. 88–558, §5(2), Aug. 31, 1964, 78 Stat. 768, struck out item 2732 "Property loss: incident to service; members of Army, Navy, Air Force, or MarineCorps and civilian employees", effective two years after Aug. 31, 1964. Pub. L. 88–558, was itself repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
+<b>1964</b>—Pub. L. 88–558, §5(2), Aug. 31, 1964, 78 Stat. 768, struck out item 2732 "Property loss: incident to service; members of Army, Navy, Air Force, or Marine Corps and civilian employees", effective two years after Aug. 31, 1964. Pub. L. 88–558, was itself repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 
 <b>1962</b>—Pub. L. 87–769, §1(1)(B), Oct. 9, 1962, 76 Stat. 768, added item 2736 "Property loss; personal injury or death: incident to use of property of the United States and not cognizable under other law".
 

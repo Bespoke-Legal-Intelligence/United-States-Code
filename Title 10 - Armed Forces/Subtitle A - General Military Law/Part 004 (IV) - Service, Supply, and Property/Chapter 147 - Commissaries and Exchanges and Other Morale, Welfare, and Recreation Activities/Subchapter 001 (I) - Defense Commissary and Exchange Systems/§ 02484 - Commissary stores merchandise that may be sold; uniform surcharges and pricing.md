@@ -110,7 +110,7 @@ Use of Surcharge for Construction, Repair, Improvement, and Maintenance.—(1)(A
 
 Variable Pricing Program.—(1) Notwithstanding subsection (e), and subject to subsection (k), the Secretary of Defense may establish a variable pricing program pursuant to which prices may be established in response to market conditions and customer demand, in accordance with the requirements of this subsection. Notwithstanding the amount of the uniform surcharge assessed in subsection (d), the Secretary may provide for an alternative surcharge of not more than five percent of sales proceeds under the variable pricing program to be made available for the purposes specified in subsection (h).
 
-(2) Subject to subsection (k), before establishing a variable pricing program under this subsection, the Secretary shall establish the following:
+(2) Subject to subsection (k), before establishing a variable pricing program under thissubsection, the Secretary shall establish the following:
 
 &emsp;(A) Specific, measurable benchmarks for success in the provision of high quality grocery merchandise, discount savings to patrons, and levels of customer satisfaction while achieving savings for the Department of Defense.
 
@@ -166,7 +166,7 @@ Subsec. (h)(5)(F), (G). Pub. L. 117–81, §631(1), added subpars. (F) and (G).
 
 Subsec. (h)(6). Pub. L. 117–81, §631(2), added par. (6).
 
-<b>2018</b>—Subsec. (f). Pub. L. 115–232 substituted "Commercial Products" for "Commercial Items" in heading and substituted "commercial product" for "commercial item" in text.
+<b>2018</b>—Subsec. (f). Pub. L. 115–232 substituted "Commercial Products" for "Commercial Items" in headingand substituted "commercial product" for "commercial item" in text.
 
 <b>2016</b>—Subsecs. (i) to (k). Pub. L. 114–328 added subsecs. (i) to (k).
 
@@ -254,7 +254,7 @@ Subsec. (d). Pub. L. 100–180, §313(a)(1), added subsec. (d).
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2018 Amendment
 
@@ -290,9 +290,13 @@ Pub. L. 114–328, div. A, title VI, §661(g), Dec. 23, 2016, 130 Stat. 2172, pr
 
 #### Competitive Pricing of Legal Consumer Tobacco Products Sold in Department of Defense Retail Stores
 
-Pub. L. 116–260, div. C, title VIII, §8036, Dec. 27, 2020, 134 Stat. 1312, provided that: "The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: <i>Provided</i>, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States."
+Pub. L. 117–328, div. C, title VIII, §8041, Dec. 29, 2022, 136 Stat. 4595, provided that: "The Secretary of Defense shall issue regulations to prohibit the sale of any tobacco or tobacco-related products in military resale outlets in the United States, its territories and possessions at a price below the most competitive price in the local community: <i>Provided</i>, That such regulations shall direct that the prices of tobacco or tobacco-related products in overseas military retail outlets shall be within the range of prices established for military retail system stores located in the United States."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–103, div. C, title VIII, §8043, Mar. 15, 2022, 136 Stat. 184.
+
+Pub. L. 116–260, div. C, title VIII, §8036, Dec. 27, 2020, 134 Stat. 1312.
 
 Pub. L. 116–93, div. A, title VIII, §8036, Dec. 20, 2019, 133 Stat. 2344.
 
@@ -334,5 +338,5 @@ Pub. L. 108–375, div. A, title VI, §651(g), Oct. 28, 2004, 118 Stat. 1972, pr
 
 #### Report on Merchandise Categories
 
-Pub. L. 105–85, div. A, title III, §372(f), Nov. 18, 1997, 111 Stat. 1707, provided that, not later than 30 days after Nov. 18, 1997, the Secretary of Defense was to submit to Congress a report specifying the merchandise categories authorized for sale sold in, at, or by commissary stores pursuant to regulations prescribed under subsection (b)(11) of this section, as in effect before Nov. 18, 1997.
+Pub. L. 105–85, div. A, title III, §372(f), Nov. 18, 1997, 111 Stat. 1707, provided that, not later than 30 days after Nov. 18, 1997, the Secretary of Defense was to submit to Congress a report specifying the merchandisecategories authorized for sale sold in, at, or by commissary stores pursuant to regulations prescribed under subsection (b)(11) of this section, as in effect before Nov. 18, 1997.
 

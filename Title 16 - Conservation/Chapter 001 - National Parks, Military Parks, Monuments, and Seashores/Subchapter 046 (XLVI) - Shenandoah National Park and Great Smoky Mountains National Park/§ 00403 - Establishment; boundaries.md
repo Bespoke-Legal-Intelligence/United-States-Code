@@ -8,7 +8,7 @@ When title to lands within the areas hereinafter referred to shall have been ves
 
 #### Tapoco Project Licensing
 
-Pub. L. 108–343, Oct. 18, 2004, 118 Stat. 1372, known as the "Tapoco Project Licensing Act of 2004", authorized land exchange in Great Smoky Mountains National Park between the Secretary of the Interior and privatecorporation, and provided that Federal Energy Regulatory Commission had jurisdiction to license Tapoco Hydroelectric Project on lands transferred by the Secretary.
+Pub. L. 108–343, Oct. 18, 2004, 118 Stat. 1372, known as the "Tapoco Project Licensing Act of 2004", authorized land exchange in Great Smoky Mountains National Park between the Secretary of the Interior and private corporation, and provided that Federal Energy Regulatory Commission had jurisdiction to license Tapoco Hydroelectric Project on lands transferred by the Secretary.
 
 #### Land Exchange in Great Smoky Mountains National Park
 
@@ -36,7 +36,7 @@ Conditions of Transfer.—
 
 &emsp;"(1)
 
-Protection of the park.—An agreement to transfer pursuant to subsection (a) shall include such provisions for the protection of Shenandoah National Park as the Secretary of the Interior considers necessary.
+Protection of the park.—An agreement to transfer pursuant to subsection (a) shall include such provisions for the protection of Shenandoah NationalPark as the Secretary of the Interior considers necessary.
 
 &emsp;"(2)
 

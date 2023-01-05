@@ -18,17 +18,17 @@ Program and Budget Review.—The Secretary of Defense shall establish procedures
 
 (c)
 
-Periodic Review.—(1)(A) Not later than January 1, 2020, and periodically (but not less frequently than every four years) thereafter, the Chief Management Officer of the Department of Defense shall conduct a review of the efficiency and effectiveness of each Defense Agency and Department of Defense Field Activity. Each review shall, to the maximum extent practicable, be conducted in coordination with other ongoing efforts in connection with business enterprise reform.
+Periodic Review.—(1)(A) Not later than January 1, 2020, and periodically (but not less frequently than every four years) thereafter, the Chief Management Officer of the Department of Defense <sup>1</sup> shall conduct a review of the efficiency and effectiveness of each Defense Agency and Department of Defense Field Activity. Each review shall, to the maximum extent practicable, be conducted in coordination with other ongoing efforts in connection with business enterprise reform.
 
-(B) As part of each review under this paragraph, the Chief Management Officer shall identify each activity of an Agency or Activity that is substantially similar to, or duplicative of, an activity carried out by another organization or element of the Department of Defense, or is not being performed to an adequate level to meet Department needs.
+(B) As part of each review under this paragraph, the Chief Management Officer <sup>1</sup> shall identify each activity of an Agency or Activity that is substantially similar to, or duplicative of, an activity carried out by another organization or element of the Department of Defense, or is not being performed to an adequate level to meet Department needs.
 
-(C) For purposes of conducting reviews under this paragraph, the Chief Management Officer shall develop internal guidance that defines requirements for such reviews and provides clear direction for conducting and recording the results of reviews.
+(C) For purposes of conducting reviews under this paragraph, the Chief Management Officer <sup>1</sup> shall develop internal guidance that defines requirements for such reviews and provides clear direction for conducting and recording the results of reviews.
 
-(2)(A) Not later than 90 days after the completion of a review under paragraph (1), the Chief Management Officer shall submit to the congressional defense committees a report that sets forth the results of the review.
+(2)(A) Not later than 90 days after the completion of a review under paragraph (1), the Chief Management Officer <sup>1</sup> shall submit to the congressional defense committees a report that sets forth the results of the review.
 
 (B) The report on a review under this paragraph shall, based on the results of the review, include the following:
 
-&emsp;(i) A list of each Defense Agency and Department of Defense Field Activity that the Chief Management Officer has determined—
+&emsp;(i) A list of each Defense Agency and Department of Defense Field Activity that the Chief Management Officer <sup>1</sup> has determined—
 
 &emsp;&emsp;(I) operates efficiently and effectively; and
 
@@ -62,7 +62,7 @@ Limitation on Termination.—The Secretary of Defense may not terminate a Defens
 
 #### Prior Provisions
 
-A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as section 1605 of this title and amended by Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 (now 491) of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
+A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as section 1605 of this title and amended by Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
 
 #### Amendments
 
@@ -86,7 +86,13 @@ Subsec. (e)(2). Pub. L. 110–181, §904(c), substituted "that the Director of t
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Transfer of Functions
+
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
+
 #### First Review of Defense Agencies by Secretary of Defense
 
-Pub. L. 99–433, title III, §304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of this section to be completed not later than two years after the date that the report under Pub. L. 99–433, §303(e), formerly set out as a note under section 191 of this title, was required to be submitted to Congress (Oct. 1, 1987).
+Pub. L. 99–433, title III, §304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of thissection to be completed not later than two years after the date that the report under Pub. L. 99–433, §303(e), formerly set out as a note under section 191 of this title, was required to be submitted to Congress (Oct. 1, 1987).
+
+<i><sup>1</sup></i><i> See Transfer of Functions note below.</i>
 

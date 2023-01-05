@@ -10,7 +10,7 @@ The Congress finds the following:
 
 &emsp;(3) Radioisotope power systems are the only available power sources for deep space missions making it possible to travel to such distant destinations as Mars, Jupiter, Saturn, Pluto, and beyond and maintain operational control and systems viability for extended mission durations.
 
-&emsp;(4) Current radioisotope power systems supplies and production will not fully support NASA missions planned even in the next decade and, without a new domestic production capability, the United States will no longer have the means to explore the majority of the solar system by the end of this decade.
+&emsp;(4) Current radioisotope power systems supplies and production will not fully supportNASA missions planned even in the next decade and, without a new domestic production capability, the United States will no longer have the means to explore the majority of the solar system by the end of this decade.
 
 &emsp;(5) Continuing to rely on Russia or other foreign sources for radioisotope power system fuel production is not a secure option.
 

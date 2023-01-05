@@ -28,7 +28,7 @@ This section applies to a servicemember who—
 
 #### (3) Nonliability of carrier during suspension
 
-&emsp;A professional liability insurance carrier shall not be liable with respect to any claimthat is based on professional conduct (including any failure to take any action in a professional capacity) of a servicemember that occurs during a period of suspension of that servicemember's professional liability insurance under this subsection.
+&emsp;A professional liability insurance carrier shall not be liable with respect to any claim that is based on professional conduct (including any failure to take any action in a professional capacity) of a servicemember that occurs during a period of suspension of that servicemember's professional liability insurance under this subsection.
 
 #### (4) Certain claims considered to arise before suspension
 

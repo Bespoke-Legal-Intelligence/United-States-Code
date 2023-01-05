@@ -6,7 +6,7 @@ Sections 5 and 6, township 3 north, range 75 west.
 
 All of section 3 except the northeast quarter northeast quarter; all of section 4; north half, north half southeast quarter, southwest quarter southeast quarter section 5; north half, northwest quarter southwest quarter section 9; north half, northeast quarter southwest quarter, southeast quarter section 10; northeast quarter, north half southeast quarter section 15, in township 4 north, range 73 west.
 
-North half, southwest quarter, northwest quarter southeast quarter section 17; south half southwest quarter, southwest quarter southeast quarter section 20; south half northeast quarter, southeast quarter northwest quarter, south half section 28; all of section 29 except northeast quarter northeast quarter; east half section 32; all of section 33; southwest quarter northeast quarter, northwest quarter northwest quarter, south half northwest quarter, southwest quarter, west half southeast quarter, southeast quarter southeast quarter section 34, in township 5 north, range 73 west.
+North half, southwest quarter, northwest quarter southeast quarter section 17; south half southwest quarter, southwest quarter southeastquarter section 20; south half northeast quarter, southeast quarter northwest quarter, south half section 28; all of section 29 except northeast quarter northeast quarter; east half section 32; all of section 33; southwest quarter northeast quarter, northwest quarter northwest quarter, south half northwest quarter, southwest quarter, west half southeast quarter, southeast quarter southeast quarter section 34, in township 5 north, range 73 west.
 
 All of sections 6, 7, and 18; that portion of section 19 lying outside of park boundary, in township 5 north, range 75 west.
 
@@ -24,7 +24,7 @@ All of sections 25, 26, 35, and 36; those portions of sections 13, 22, 23, 24, 2
 
 Proc. No. 3144, June 27, 1956, 21 F.R. 4783, provided:
 
-NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, do proclaimthat the lands hereinafter described are hereby added to the Rocky Mountain National Park, in the State of Colorado, and shall, upon acquisition of title thereto by the United States, become subject to the provisions of the act entitled "An Act to establish a National Park Service, and for other purposes," approved August 25, 1916, 39 Stat. 535 (\[former\] 16 U.S.C. §§1–3) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], and all acts supplementary thereto and amendatory thereof, and all other laws and rules and regulations applicable to such park:
+NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of America, do proclaim that the lands hereinafter described are hereby added to the Rocky Mountain National Park, in the State of Colorado, and shall, upon acquisition of title thereto by the United States, become subject to the provisions of the act entitled "An Act to establish a National Park Service, and for other purposes," approved August 25, 1916, 39 Stat. 535 (\[former\] 16 U.S.C. §§1–3) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], and all acts supplementary thereto and amendatory thereof, and all other laws and rules and regulations applicable to such park:
 
 #### Sixth Principal Meridian
 

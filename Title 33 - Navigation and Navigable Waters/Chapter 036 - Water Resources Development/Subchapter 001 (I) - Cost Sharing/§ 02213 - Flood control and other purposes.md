@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;The non-Federal share of the cost of a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are definedin section 2289a(a) of this title), shall be 35 percent of the cost of such measures. The non-Federal interests for any such measures shall be required to provide all lands, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project, but shall not be required to contribute any amount in cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent.
+&emsp;The non-Federal share of the cost of a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 2289a(a) of this title), shall be 35 percent of the cost of such measures. The non-Federal interests for any such measures shall be required to provide all lands, easements, rights-of-way, dredged material disposal areas, and relocations necessary for the project, but shall not be required to contribute any amount in cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent.
 
 #### (2) Non-Federal contribution in excess of 35 percent
 
@@ -56,7 +56,7 @@ The non-Federal share of the cost assigned to other project purposes shall be as
 
 #### (1) Construction
 
-&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) or to prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
+&emsp;Costs of constructing projects or measures for beach erosion control and water quality enhancement shall be assigned to appropriate project purposes listed in subsections (a), (b), and (c) and shall be shared in the same percentage as the purposes to which the costs are assigned, except that all costs assigned to benefits to privately owned shores (where use of such shores is limited to private interests) orto prevention of losses of private lands shall be borne by non-Federal interests and all costs assigned to the protection of federally owned shores shall be borne by the United States.
 
 #### (2) Periodic nourishment
 
@@ -86,7 +86,7 @@ The non-Federal share of the cost assigned to other project purposes shall be as
 
 #### (2) Exceptions
 
-&emsp;This section shall not apply to the Yazoo Basin, Mississippi, Demonstration Erosion Control Program, authorized by Public Law 98–8, or to the Harlan, Kentucky, or Barbourville, Kentucky, elements of theproject authorized by section 202 of Public Law 96–367.
+&emsp;This section shall not apply to the Yazoo Basin, Mississippi, Demonstration Erosion Control Program, authorized by Public Law 98–8, or to the Harlan, Kentucky, or Barbourville, Kentucky, elements of the project authorized by section 202 of Public Law 96–367.
 
 #### (f) "Separable element" defined
 
@@ -136,7 +136,7 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 #### (2) Elements of agreement
 
-&emsp;The agreement required pursuant to paragraph (1) shall be in accordance with the requirements of section 1962d–5b of title 42 and shall provide for the rights and duties of the United States and the non-Federal interest with respect to the construction, operation, and maintenance of the project, including, but not limited to, provisions specifying that, in the event the non-Federal interest fails to provide the required non-Federal share of costs for such work, the Secretary—
+&emsp;The agreement required pursuant to paragraph (1) shall be in accordance with the requirements of section 1962d–5b of title 42 and shall provide for the rights and duties of the United States and the non-Federal interest with respect to the construction, operation, and maintenance of the project, including, but not limited to, provisions specifying that, inthe event the non-Federal interest fails to provide the required non-Federal share of costs for such work, the Secretary—
 
 &emsp;&emsp;(A) shall terminate or suspend work on the project unless the Secretary determines that continuation of the work is in the interest of the United States or is necessary in order to satisfy agreements with other non-Federal interests in connection with the project; and
 
@@ -168,7 +168,7 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 &emsp;&emsp;&emsp;(i) the non-Federal contribution was made with interest;
 
-&emsp;&emsp;&emsp;(ii) the period of project construction exceeds 10 years from the execution of aproject partnership agreement or appropriation of funds; and
+&emsp;&emsp;&emsp;(ii) the period of project construction exceeds 10 years from the execution of a project partnership agreement or appropriation of funds; and
 
 &emsp;&emsp;&emsp;(iii) the construction interest exceeds $45,000,000.
 
@@ -184,15 +184,47 @@ Except as provided under section 2283(c) of this title, the non-Federal interest
 
 #### (4) Treatment of pre-payment
 
-&emsp;Notwithstanding a deferred payment agreement with a non-Federal interest, the Secretary shall accept, without interest of any type, the repayment of a non-Federal contribution for any eligible deferred payment described in paragraph (2)(B) for which—
+#### (A) In general
 
-&emsp;&emsp;(A) the non-Federal interest makes a payment of at least $200 million for that eligible deferred payment agreement on or before September 30, 2021; and
+&emsp;&emsp;Notwithstanding a deferred payment agreement with a non-Federal interest, the Secretary shall accept, without interest of any type, the repayment of a non-Federal contribution for any eligible deferred payment described in paragraph (2)(B) for which—
 
-&emsp;&emsp;(B) the non-Federal interest repays the remaining principal by September 30, 2023.
+&emsp;&emsp;&emsp;(i) the non-Federal interest makes a payment of at least $200,000,000 for that eligible deferred payment agreement on or before September 30, 2021;
 
-#### (l) Delay of initial payment
+&emsp;&emsp;&emsp;(ii) the non-Federal interest repays an amount equal to 2/3 of the remaining principal by September 30, 2023; and
 
-At the request of any non-Federal interest the Secretary may permit such non-Federal interest to delay the initial payment of any non-Federal contribution under this section or section 2211 of this title for up to one year after the date when construction is begun on the project for which such contribution is to be made. Any such delay in initial payment shall be subject to interest charges for up to six months at a rate determined pursuant to section 2216 of this title.
+&emsp;&emsp;&emsp;(iii) the non-Federal interest repays the balance of remaining principal by June 1, 2032.
+
+#### (B) Repayment options
+
+&emsp;&emsp;Repayment of a non-Federal contribution under subparagraph (A)(iii) may be satisfied through the provision by the non-Federal interest of fish and wildlife mitigation for one or more projects or separable elements, if the Secretary determines that—
+
+&emsp;&emsp;&emsp;(i) the non-Federal interest has incurred costs for the provision of mitigation that—
+
+&emsp;&emsp;&emsp;&emsp;(I) equal or exceed the amount of the required repayment; and
+
+&emsp;&emsp;&emsp;&emsp;(II) are in excess of any required non-Federal contribution for the project or separable element for which the mitigation is provided; and
+
+&emsp;&emsp;&emsp;(ii) the mitigation is integral to the project for which it is provided.
+
+#### (l) Delay of payment
+
+#### (1) Initial payment
+
+&emsp;At the request of any non-Federal interest the Secretary may permit such non-Federal interest to delay the initial payment of any non-Federal contribution under this section or section 2211 of this title for up to one year after the date when construction is begun on the project for which such contribution is to be made. Any such delay in initial payment shall be subject to interest charges for up to six months at a rate determined pursuant to section 2216 of this title.
+
+#### (2) Interest
+
+#### (A) In general
+
+&emsp;&emsp;At the request of any non-Federal interest, the Secretary may waive the accrual of interest on any non-Federal cash contribution under this section or section 2211 of this title for a project for a period of not more than 1 year if the Secretary determines that—
+
+&emsp;&emsp;&emsp;(i) the waiver will contribute to the ability of the non-Federal interest to make future contributions; and
+
+&emsp;&emsp;&emsp;(ii) the non-Federal interest is in good standing under terms agreed to under subsection (k)(1).
+
+#### (B) Limitations
+
+&emsp;&emsp;The Secretary may grant not more than 1 waiver under subparagraph (A) for the same project.
 
 #### (m) Ability to pay
 
@@ -234,7 +266,7 @@ At the request of any non-Federal interest the Secretary may permit such non-Fed
 
 &emsp;Nothing in this subsection shall be construed to affect the Secretary's authority under section 903(c).<sup>1</sup>
 
-(Pub. L. 99–662, title I, §103, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 101–640, title III, §305(a), Nov. 28, 1990, 104 Stat. 4635; Pub. L. 102–580, title II, §201(a), title III, §333(b)(2), Oct. 31, 1992, 106 Stat. 4825, 4852; Pub. L. 104–303, title II, §§202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, 110 Stat. 3673, 3681; Pub. L. 106–53, title II, §§215(a), 219(c), Aug. 17, 1999, 113 Stat. 292, 295; Pub. L. 106–109, §5, Nov. 24, 1999, 113 Stat. 1495; Pub. L. 106–541, title II, §204, Dec. 11, 2000, 114 Stat. 2589; Pub. L. 110–114, title II, §§2001, 2019(a), Nov. 8, 2007, 121 Stat. 1067, 1078; Pub. L. 116–260, div. AA, title I, §§115(b), 143, title III, §351, Dec. 27, 2020, 134 Stat. 2627, 2653, 2717.)
+(Pub. L. 99–662, title I, §103, Nov. 17, 1986, 100 Stat. 4084; Pub. L. 101–640, title III, §305(a), Nov. 28, 1990, 104 Stat. 4635; Pub. L. 102–580, title II, §201(a), title III, §333(b)(2), Oct. 31, 1992, 106 Stat. 4825, 4852; Pub. L. 104–303, title II, §§202(a)(1)(A), (2), (b)(1), 210(a), Oct. 12, 1996, 110 Stat. 3673, 3681; Pub. L. 106–53, title II, §§215(a), 219(c), Aug. 17, 1999, 113 Stat. 292, 295; Pub. L. 106–109, §5, Nov. 24, 1999, 113 Stat. 1495; Pub. L. 106–541, title II, §204, Dec. 11, 2000, 114 Stat. 2589; Pub. L. 110–114, title II, §§2001, 2019(a), Nov. 8, 2007, 121 Stat. 1067, 1078; Pub. L. 116–260, div. AA, title I, §§115(b), 143, title III, §351, Dec. 27, 2020, 134 Stat. 2627, 2653, 2717; Pub. L. 117–263, div. H, title LXXXI, §§8385, 8386, Dec. 23, 2022, 136 Stat. 3829, 3830.)
 
 #### <b>Editorial Notes</b>
 
@@ -244,9 +276,9 @@ Public Law 98–8, referred to in subsec. (e)(2), is Pub. L. 98–8, Mar. 24, 19
 
 Section 202 of Public Law 96–367, referred to in subsec. (e)(2), is section 202 of Pub. L. 96–367, title II, Oct. 1, 1980, 94 Stat. 1339, which is not classified to the Code.
 
-This Act, referred to in subsecs. (f) and (h), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+This Act, referred to in subsecs. (f) and (h), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-The Flood Control Act of 1946, referred to in subsec. (g)(2)(A), is act July 24, 1946, ch. 596, 60 Stat. 641, as amended. For complete classification of this Act to the Code, see Tables.
+The Flood Control Act of 1946, referred to in subsec. (g)(2)(A), is act July 24, 1946, ch. 596, 60 Stat. 641. For complete classification of this Act to the Code, see Tables.
 
 Public Law 99–88, referred to in subsec. (g)(2)(B), is Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 293, known as the Supplemental Appropriations Act, 1985. Provisions of Pub. L. 99–88 authorizing the project for Eight Mile Creek, Arkansas, are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
@@ -256,9 +288,13 @@ Section 903(c), referred to in subsec. (n)(2), is section 903(c) of Pub. L. 99�
 
 #### Amendments
 
+<b>2022</b>—Subsec. (k)(4). Pub. L. 117–263, §8386, designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and realigned margins, substituted "$200,000,000" for "$200 million" in cl. (i), inserted "an amount equal to 2/3 of" after "repays" in cl. (ii), and added cl. (iii) of subpar. (A) and subpar. (B).
+
+Subsec. (l). Pub. L. 117–263, §8385, struck out "initial" before "payment" in subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added par. (2).
+
 <b>2020</b>—Subsec. (b). Pub. L. 116–260, §115(b)(1), substituted "Projects using nonstructural, natural, or nature-based features" for "Nonstructural flood control projects" in heading.
 
-Subsec. (b)(1). Pub. L. 116–260, §115(b)(2), substituted "a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (as those terms are defined in section 2289a(a) of this title)," for "nonstructural flood control measures" and "cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent" for "cash during construction of the project".
+Subsec. (b)(1). Pub. L. 116–260, §115(b)(2), substituted "a flood risk management or hurricane and storm damage risk reduction measure using a nonstructural feature, or a natural feature or nature-based feature (asthose terms are defined in section 2289a(a) of this title)," for "nonstructural flood control measures" and "cash during construction for a nonstructural feature if the costs of land, easements, rights-of-way, dredged material disposal areas, and relocations for such feature are estimated to exceed 35 percent" for "cash during construction of the project".
 
 Subsec. (j)(1). Pub. L. 116–260, §143, designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
@@ -328,7 +364,7 @@ Generally.—Subject to subparagraph (C), the amendment made by paragraph (1) \[
 
 "(B)
 
-Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretaryshall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendment made by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment.
+Amendment of cooperation agreement.—If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendment made by paragraph (1) to any project for which a contract for construction has not been awarded on or before such date of enactment.
 
 "(C)
 
@@ -344,7 +380,7 @@ Pub. L. 101–640, title III, §305(b), Nov. 28, 1990, 104 Stat. 4635, provided 
 
 #### Reports to Congress
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: "The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 \[33 U.S.C. 2213(m)\] indicating the action taken on the request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act \[July 11, 1987\] listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662."
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 401, provided that: "The Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after a written request is made pursuant to the provisions of subsection (m) of section 103 of Public Law 99–662 \[33 U.S.C. 2213(m)\] indicating the action taken onthe request. In addition, the Secretary of the Army shall file a report with the appropriate committees of the House of Representatives and the Senate within ninety days after enactment of this Act \[July 11, 1987\] listing any project or study falling under the provisions of subsection (e)(1) of section 103 of Public Law 99–662."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

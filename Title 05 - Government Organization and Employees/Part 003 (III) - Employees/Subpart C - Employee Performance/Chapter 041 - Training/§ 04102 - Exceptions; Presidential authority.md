@@ -64,7 +64,7 @@ Subsec. (b). Pub. L. 96–54, §2(a)(15), substituted "Office" for "Commission".
 
 <b>1975</b>—Subsec. (a)(2)(B). Pub. L. 94–183 struck out "(except a Postmaster)" after "an individual appointed by the President".
 
-<b>1967</b>—Subsec. (a)(1)(C). Pub. L. 90–83 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey." See Historical and Revision Notes under section 2101 of this title.
+<b>1967</b>—Subsec. (a)(1)(C). Pub. L. 90–83 substituted "Environmental Science Services Administration" for"Coast and Geodetic Survey." See Historical and Revision Notes under section 2101 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -94,7 +94,7 @@ Section 1. The Central Intelligence Agency is hereby designated as excepted from
 
 (c) That part of section 7 \[section 4103(1) of this title\] which reads "shall conform, on or after the effective date of the regulations prescribed by the Commission under section 6 of this Act \[section 4118 of this title\], to the principles, standards, and related requirements contained in such regulations then current,".
 
-(d) That part of section 10 \[section 4109(a) of this title\] which reads "in accordance with regulationsissued by the Commission under authority of section 6(a)(8) \[section 4118(a)(8) of this title\]."
+(d) That part of section 10 \[section 4109(a) of this title\] which reads "in accordance with regulations issued by the Commission under authority of section 6(a)(8) \[section 4118(a)(8) of this title\]."
 
 Sec. 2. Section 2 of Executive Order No. 10800, of January 15, 1959, is hereby amended by deleting the reference to "section 5" and the reference to "section 5(b)" and by inserting in lieu thereof "section 4" and "section 4(b)", respectively.
 

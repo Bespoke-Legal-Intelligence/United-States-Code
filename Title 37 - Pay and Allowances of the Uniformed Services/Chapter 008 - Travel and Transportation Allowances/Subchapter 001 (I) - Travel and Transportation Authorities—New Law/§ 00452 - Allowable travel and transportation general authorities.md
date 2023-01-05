@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as otherwise prohibited by law, a member of the uniformed services or other authorized traveler may be provided transportation-, lodging-, or meals-in-kind, or actual and necessary expenses of travel and transportation, for, or in connection with, official travel under circumstances as specified in regulations prescribed under section 464 of this title.
+In General.—Except as otherwise prohibited by law, a member of the uniformed services or other authorized traveler may be provided transportation-, lodging-, or meals-in-kind, or actual and necessary expenses of travel andtransportation, for, or in connection with, official travel under circumstances as specified in regulations prescribed under section 464 of this title.
 
 (b)
 
@@ -42,13 +42,17 @@ Specific Circumstances.—The authority under subsection (a) includes travel und
 
 &emsp;(17) Attendance at or participation in international sports competitions described under section 717 of title 10.
 
-&emsp;(18) <sup>1</sup> Travel by a dependent child to the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member of the uniformed services is outside the continental United States (other than in Alaska or Hawaii).
+&emsp;(18) Travel by a dependent child to the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member of the uniformed services is outside the continental United States (other than in Alaska or Hawaii).
 
 &emsp;(19) Travel by a dependent child within the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member of the uniformed services is in Alaska or Hawaii and the school is located in a State outside of the permanent duty assignment location.
 
 &emsp;(20) Subject to subsection (i), travel by a dependent to a location where a member of the uniformed services is on permanent duty aboard a ship that is overhauling, inactivating, or under construction.
 
-&emsp;(18) <sup>2</sup> Presence of family members at the funeral and memorial services of members.
+&emsp;(21) Presence of family members at the funeral and memorial services of members.
+
+&emsp;(22) Permanent change of assignment to or from a naval vessel undergoing nuclear refueling or defueling and any concurrent complex overhaul, even if such assignment is within the same area as the current assignment of the member.
+
+&emsp;(23) Current assignment to a naval vessel entering or exiting nuclear refueling or defueling and any concurrent complex overhaul.
 
 (c)
 
@@ -98,15 +102,19 @@ Dependent Transportation Incident to Ship Construction, Inactivation, and Overha
 
 &emsp;(1) The member of the uniformed services must be permanently assigned to the ship for 31 or more consecutive days to be eligible for allowances, and the transportation allowances accrue on the 31st day and every 60 days thereafter.
 
-&emsp;(2) Transportation in kind, reimbursement for personally procured transportation, or a monetary allowance for mileage in place of the cost of transportation may be provided, in lieu of the member's entitlement to transportation, for the member's dependents from the location that was the home port of the ship before commencement of overhaul or inactivation to the port of overhaul or inactivation.
+&emsp;(2) Transportation in kind, reimbursement for personally procured transportation, or amonetary allowance for mileage in place of the cost of transportation may be provided, in lieu of the member's entitlement to transportation, for the member's dependents from the location that was the home port of the ship before commencement of overhaul or inactivation to the port of overhaul or inactivation.
 
 &emsp;(3) The total reimbursement for transportation for the member's dependents may not exceed the cost of one Government-procured commercial round-trip travel.
 
-(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1455; amended Pub. L. 116–92, div. A, title VI, §607(b), Dec. 20, 2019, 133 Stat. 1425; Pub. L. 116–283, div. A, title VI, §605, title XII, §1299N, Jan. 1, 2021, 134 Stat. 3672, 4016; Pub. L. 117–81, div. A, title VI, §§603(c)(1), (d)(1), 623, Dec. 27, 2021, 135 Stat. 1766, 1767, 1772.)
+(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1455; amended Pub. L. 116–92, div. A, title VI, §607(b), Dec. 20, 2019, 133 Stat. 1425; Pub. L. 116–283, div. A, title VI, §605, title XII, §1299N, Jan. 1, 2021, 134 Stat. 3672, 4016; Pub. L. 117–81, div. A, title VI, §§603(c)(1), (d)(1), 623, Dec. 27, 2021, 135 Stat. 1766, 1767, 1772; Pub. L. 117–263, div. A, title VI, §621, Dec. 23, 2022, 136 Stat. 2625.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(18), (21). Pub. L. 117–263, §621(1), redesignated par. (18), relating to presence of family members at the funeral and memorial services of members, as (21).
+
+Subsec. (b)(22), (23). Pub. L. 117–263, §621(2), added pars. (22) and (23).
 
 <b>2021</b>—Subsec. (b)(18). Pub. L. 117–81, §623, added par. (18) relating to presence of family members at the funeral and memorial services of members at end of subsec. (b).
 
@@ -123,8 +131,4 @@ Subsec. (c)(4), (5). Pub. L. 116–283, §1299N, added par. (4) and redesignated
 Subsec. (i). Pub. L. 117–81, §603(d)(1)(B), added subsec. (i).
 
 <b>2019</b>—Subsec. (c)(3), (4). Pub. L. 116–92 added par. (3) and redesignated former par. (3) as (4).
-
-<i><sup>1</sup></i><i> So in original. Another par. (18) is set out after par. (20).</i>
-
-<i><sup>2</sup></i><i> So in original. Another par. (18) is set out after par. (17).</i>
 

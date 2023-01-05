@@ -16,6 +16,7 @@
 | 2204b–1. | Rural development. |
 | 2204b–2. | Temporary prioritization of rural health assistance. |
 | 2204b–3. | Council on Rural Community Innovation and Economic Development. |
+| 2204b–4. | Institute for Rural Partnerships. |
 | [2204c.](%C2%A7%2002204c%20-%20Water%20management%20for%20rural%20areas.md) | Water management for rural areas. |
 | [2204d.](%C2%A7%2002204d%20-%20Encouragement%20of%20private%20contracting.md) | Encouragement of private contracting. |
 | [2204e.](%C2%A7%2002204e%20-%20Office%20of%20Risk%20Assessment%20and%20Cost-Benefit%20Analysis.md) | Office of Risk Assessment and Cost-Benefit Analysis. |
@@ -183,6 +184,7 @@
 - [&sect; 02204b&#8211;1 - Rural development](%C2%A7%2002204b%E2%80%931%20-%20Rural%20development.md)
 - [&sect; 02204b&#8211;2 - Temporary prioritization of rural health assistance](%C2%A7%2002204b%E2%80%932%20-%20Temporary%20prioritization%20of%20rural%20health%20assistance.md)
 - [&sect; 02204b&#8211;3 - Council on Rural Community Innovation and Economic Development](%C2%A7%2002204b%E2%80%933%20-%20Council%20on%20Rural%20Community%20Innovation%20and%20Economic%20Development.md)
+- [&sect; 02204b&#8211;4 - Institute for Rural Partnerships](%C2%A7%2002204b%E2%80%934%20-%20Institute%20for%20Rural%20Partnerships.md)
 - [&sect; 02204c - Water management for rural areas](%C2%A7%2002204c%20-%20Water%20management%20for%20rural%20areas.md)
 - [&sect; 02204d - Encouragement of private contracting](%C2%A7%2002204d%20-%20Encouragement%20of%20private%20contracting.md)
 - [&sect; 02204e - Office of Risk Assessment and Cost-Benefit Analysis](%C2%A7%2002204e%20-%20Office%20of%20Risk%20Assessment%20and%20Cost-Benefit%20Analysis.md)

@@ -18,7 +18,7 @@ Extent of Reduction or Suspension.—The extent of any reduction or suspension o
 
 (e)
 
-Written Justification.—A written justification for each decision of the head of an executive agency whether to reduce or suspend payments under subsection (c), and for each recommendation received by the executive agency in connection with the decision, shall be prepared and be retained in the files of the executive agency.
+Written Justification.—A written justification for each decision of the head of an executive agency whether to reduce or suspend payments under subsection (c), and for each recommendation received by the executive agencyin connection with the decision, shall be prepared and be retained in the files of the executive agency.
 
 (f)
 

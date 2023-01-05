@@ -10,13 +10,13 @@ There is established in the Treasury a separate fund to be known as the "Consula
 
 (1) The unobligated balances of amounts available from fees referenced under this section may be transferred to the Consular and Border Security Programs account.
 
-(2) Funds deposited in or transferred to the Consular and Border Security Programs account may be transferred between funds appropriated under the heading "Administration of Foreign Affairs".
+(2) Funds deposited in or transferred to the Consular and Border Security Programs accountmay be transferred between funds appropriated under the heading "Administration of Foreign Affairs".
 
 (3) The transfer authorities in this section shall be in addition to any other transfer authority available to the Department of State.
 
 #### (i) Effective date
 
-The amendments made by this section shall take effect no later than October 1, 2018, andshall be implemented in a manner that ensures the fees collected, transferred, and used in fiscal year 2019 can be readily tracked.
+The amendments made by this section shall take effect no later than October 1, 2018, and shall be implemented in a manner that ensures the fees collected, transferred, and used in fiscal year 2019 can be readily tracked.
 
 (Pub. L. 115–31, div. J, title VII, §7081, May 5, 2017, 131 Stat. 716.)
 
@@ -32,9 +32,13 @@ Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31.
 
 #### Transfer of Balances
 
-Pub. L. 116–260, div. K, title VII, §7034(l)(9), Dec. 27, 2020, 134 Stat. 1750, provided that: "Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) \[8 U.S.C. 1715(h)\] shall continue in effect during fiscal year 2021."
+Pub. L. 117–328, div. K, title VII, §7034(l)(4), Dec. 29, 2022, 136 Stat. 5033, provided that: "Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) \[8 U.S.C. 1715(h)\] shall continue in effect during fiscal year 2023."
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–103, div. K, title VII, §7034(l)(9), Mar. 15, 2022, 136 Stat. 624.
+
+Pub. L. 116–260, div. K, title VII, §7034(l)(9), Dec. 27, 2020, 134 Stat. 1750.
 
 Pub. L. 116–94, div. G, title VII, §7034(l)(9), Dec. 20, 2019, 133 Stat. 2873.
 

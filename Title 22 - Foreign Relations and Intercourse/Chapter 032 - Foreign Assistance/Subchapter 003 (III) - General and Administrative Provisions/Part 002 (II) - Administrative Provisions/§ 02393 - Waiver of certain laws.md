@@ -18,9 +18,9 @@ Notwithstanding the provisions of sections 3544(b) and 8544(b) <sup>1</sup> of 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Renegotiation Act of 1951, as amended, referred to in subsec. (a), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
+The Renegotiation Act of 1951, referred to in subsec. (a), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
 Sections 3544 and 8544 of title 10, referred to in subsec. (c), were repealed by Pub. L. 90–235, §4(a)(6), Jan. 2, 1968, 81 Stat. 759.
 
@@ -48,7 +48,7 @@ Ex. Ord. No. 10845 of Oct. 12, 1959, setting out laws from which authorized func
 
 Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, as amended by Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12178, Dec. 10, 1979, 44 F.R. 71807; Ex. Ord. No. 13118, §10(10), Mar. 31, 1999, 64 F.R. 16599, provided:
 
-By virtue of the authority vested in me by Section 633 of the Foreign Assistance Act of 1961, as amended, 75 Stat. 454 (22 U.S.C. 2393), it is hereby determinedthat, to the extent hereinafter indicated, the performance of functions authorized by that Act, as amended, and any predecessor legislation, without regard to the laws specified in the numbered subdivisions of Sections 1 and 2 of this order and without regard to consideration as specified in Sections 3 and 4 of this order will further the purposes of the Foreign Assistance Act of 1961, as amended \[this chapter\]:
+By virtue of the authority vested in me by Section 633 of the Foreign Assistance Act of 1961, as amended, 75 Stat. 454 (22 U.S.C. 2393), it is hereby determined that, to the extent hereinafter indicated, the performance of functions authorized by that Act, as amended, and any predecessor legislation, without regard to the laws specified in the numbered subdivisions of Sections 1 and 2 of this order and without regard to consideration as specified in Sections 3 and 4 of this order will further the purposes of the Foreign Assistance Act of 1961, as amended \[this chapter\]:
 
 Section 1. With respect to functions authorized by the Foreign Assistance Act of 1961, as amended (22 U.S.C. 2151 <i>et seq</i>.), and any predecessor legislation except those functions exercised by the Department of Defense under authority of Sections 621 and 623 of the Foreign Assistance Act of 1961 (22 U.S.C. 2381 and 2383):
 
@@ -111,8 +111,6 @@ This determination shall apply only to funds appropriated to carry out the provi
 You are authorized and directed to publish this determination in the Federal Register.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

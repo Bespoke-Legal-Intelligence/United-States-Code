@@ -18,7 +18,7 @@ The court, in issuing any final order in any action under this section, may awar
 
 #### Amendments
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–203, which directed that subsec. (c) be amended by substituting "to any plaintiffwho substantially prevails on one or more significant issues in the action" for "to any party, whenever the court determines that such award is appropriate", was executed by making the substitution for "to any party, whenever the court determines such award is appropriate", to reflect the probable intent of Congress.
+<b>1987</b>—Subsec. (c). Pub. L. 100–203, which directed that subsec. (c) be amended by substituting "to any plaintiff who substantially prevails on one or more significant issues in the action" for "to any party, whenever the court determines that such award is appropriate", was executed by making the substitution for "to any party, whenever the court determines such award is appropriate", to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

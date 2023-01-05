@@ -20,7 +20,7 @@ There is established a Cyber Response and Recovery Fund, which shall be availabl
 
 &emsp;&emsp;(F) network protections;
 
-&emsp;(3) as the Director determines appropriate, grants for, or cooperative agreements with,Federal, State, local, and Tribal public and private entities to respond to, and recover from, the specific significant incident associated with a declaration, such as—
+&emsp;(3) as the Director determines appropriate, grants for, or cooperative agreements with, Federal, State, local, and Tribal public and private entities to respond to, and recover from, the specific significant incident associated with a declaration, such as—
 
 &emsp;&emsp;(A) hardware or software to replace, update, improve, harden, or enhance the functionality of existing hardware, software, or systems; and
 
@@ -36,7 +36,7 @@ There is established a Cyber Response and Recovery Fund, which shall be availabl
 
 &emsp;&emsp;(A) appropriations to the Fund for activities of the Fund; and
 
-&emsp;&emsp;(B) reimbursement from Federal agencies for the activities described in paragraphs (1), (2), and (4) of subsection (a), which shall only be from amounts made available in advance in appropriations Acts for such reimbursement.
+&emsp;&emsp;(B) reimbursement from Federal agencies for the activities described in paragraphs (1),\(2), and (4) of subsection (a), which shall only be from amounts made available in advance in appropriations Acts for such reimbursement.
 
 #### (2) Expenditures
 

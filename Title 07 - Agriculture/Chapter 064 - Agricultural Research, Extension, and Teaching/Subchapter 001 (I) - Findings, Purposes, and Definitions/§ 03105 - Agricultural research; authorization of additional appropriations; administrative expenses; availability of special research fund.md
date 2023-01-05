@@ -52,7 +52,7 @@ Section 427c of this title, referred to in subsec. (d), was repealed by act Aug.
 
 Section was formerly classified to section 427i of this title prior to editorial reclassification and renumbering as this section.
 
-Section was enacted as part of act June 29, 1935, ch. 338, popularly known as the "Agricultural ResearchAct" and also as the "Bankhead-Jones Act", and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
+Section was enacted as part of act June 29, 1935, ch. 338, popularly known as the "Agricultural Research Act" and also as the "Bankhead-Jones Act", and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
 In subsec. (a), "section 6101 of title 41" substituted for "section 3709, Revised Statutes" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

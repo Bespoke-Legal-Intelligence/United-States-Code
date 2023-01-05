@@ -20,7 +20,7 @@
 
 &emsp;&emsp;<b>For provisions relating to extinguishing of lien in case of redistillation, see section 5223(e).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1317; amended Pub. L. 89–44, title VIII,§805(f)(1), June 21, 1965, 79 Stat. 161; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §4(c), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, §807(a)(2), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(C), Apr. 2, 1980, 94 Stat. 280.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1317; amended Pub. L. 89–44, title VIII, §805(f)(1), June 21, 1965, 79 Stat. 161; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §4(c), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, §807(a)(2), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(C), Apr. 2, 1980, 94 Stat. 280.)
 
 #### <b>Editorial Notes</b>
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days after Nov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
+Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days afterNov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
 
 #### Effective Date of 1965 Amendment
 

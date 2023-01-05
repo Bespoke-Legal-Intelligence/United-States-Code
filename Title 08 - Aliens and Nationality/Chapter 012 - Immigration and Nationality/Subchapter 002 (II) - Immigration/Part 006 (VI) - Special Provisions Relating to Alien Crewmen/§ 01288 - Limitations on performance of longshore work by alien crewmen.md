@@ -22,13 +22,13 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 #### (3) Construction
 
-&emsp;Nothing in this section shall be construed as broadening, limiting, or otherwise modifying the meaning or scope of longshore work for purposes of any other law, collective bargaining agreement, or international agreement.
+&emsp;Nothing in this section shall be construed as broadening, limiting, or otherwise modifyingthe meaning or scope of longshore work for purposes of any other law, collective bargaining agreement, or international agreement.
 
 #### (c) Prevailing practice exception
 
 (1) Subsection (a) shall not apply to a particular activity of longshore work in and about a local port if—
 
-&emsp;(A)(i) there is in effect in the local port one or more collective bargaining agreements each covering at least 30 percent of the number of individuals employed in performing longshore work and (ii) each such agreement (coveringsuch percentage of longshore workers) permits the activity to be performed by alien crewmen under the terms of such agreement; or
+&emsp;(A)(i) there is in effect in the local port one or more collective bargaining agreements each covering at least 30 percent of the number of individuals employed in performing longshore work and (ii) each such agreement (covering such percentage of longshore workers) permits the activity to be performed by alien crewmen under the terms of such agreement; or
 
 &emsp;(B) there is no collective bargaining agreement in effect in the local port covering at least 30 percent of the number of individuals employed in performing longshore work, and an employer of alien crewmen (or the employer's designated agent or representative) has filed with the Secretary of Labor at least 14 days before the date of performance of the activity (or later, if necessary due to an unanticipated emergency, but not later than the date of performance of the activity) an attestation setting forth facts and evidence to show that—
 
@@ -60,7 +60,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 (C)(i) If the Secretary determines that reasonable cause exists to conduct an investigation with respect to an attestation, a complaining party may request that the activities attested to by the employer cease during the hearing process described in subparagraph (D). If such a request is made, the attesting employer shall be issued notice of such request and shall respond within 14 days to the notice. If the Secretary makes an initial determination that the complaining party's position is supported by a preponderance of the evidence submitted, the Secretary shall require immediately that the employer cease and desist from such activities until completion of the process described in subparagraph (D).
 
-(ii) If the Secretary determines that reasonable cause exists to conduct an investigation with respect to a matter under the last sentence of paragraph (1), a complaining party may request that the activities of the employer cease during the hearing process described in subparagraph (D) unless the employer files with the Secretary of Labor an attestation under paragraph (1). If such a request is made, the employer shall be issued notice of such request and shall respond within 14 days to the notice. If the Secretary makes an initial determination that the complaining party's position is supported by a preponderance of the evidence submitted, the Secretary shall require immediately that the employer cease and desist from such activities until completion of the process described in subparagraph (D) unless the employer files with the Secretary of Labor an attestation under paragraph (1).
+(ii) If the Secretary determines that reasonable cause exists to conduct an investigation with respect to a matter under the last sentence of paragraph (1), a complaining party may request that the activities of the employer cease during the hearing process described in subparagraph (D) unless the employer files with the Secretary of Labor an attestation under paragraph (1). If such a request is made, the employer shall be issued notice of such request and shall respond within 14 days to the notice. If the Secretary makes an initial determination that the complaining party's position is supported by a preponderance of the evidence submitted, the Secretary shall require immediately that the employer cease and desist from such activitiesuntil completion of the process described in subparagraph (D) unless the employer files with the Secretary of Labor an attestation under paragraph (1).
 
 (D) Under the process established under subparagraph (B), the Secretary shall provide, within 180 days after the date a complaint is filed (or later for good cause shown), for a determination as to whether or not a basis exists to make a finding described in subparagraph (E). The Secretary shall provide notice of such determination to the interested parties and an opportunity for a hearing on the complaint within 60 days of the date of the determination.
 
@@ -160,7 +160,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term "normal operat
 
 Section 4106 of the Oil Pollution Act of 1990, referred to in subsec. (b)(2), is section 4106 of Pub. L. 101–380, title IV, Aug. 18, 1990, 104 Stat. 513, which amended former section 1228 of Title 33, Navigation and Navigable Waters, and sections 6101 and 9101 of Title 46, Shipping.
 
-The National Labor Relations Act, referred to in subsec. (d)(1)(D)(i), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
+The National Labor Relations Act, referred to in subsec. (d)(1)(D)(i), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
 #### Amendments
 

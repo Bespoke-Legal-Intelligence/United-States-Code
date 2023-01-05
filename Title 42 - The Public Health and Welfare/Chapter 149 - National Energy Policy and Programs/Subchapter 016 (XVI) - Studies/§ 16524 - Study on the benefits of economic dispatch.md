@@ -16,7 +16,7 @@ The term "economic dispatch" when used in this section means the operation of ge
 
 #### (c) Report to Congress and the States
 
-Not later than 90 days after August 8, 2005, and on a yearly basis following, the Secretary shall submit a report to Congress and the States onthe results of the study conducted under subsection (a), including recommendations to Congress and the States for any suggested legislative or regulatory changes.
+Not later than 90 days after August 8, 2005, and on a yearly basis following, the Secretary shall submit a report to Congress and the States on the results of the study conducted under subsection (a), including recommendations to Congress and the States for any suggested legislative or regulatory changes.
 
 (Pub. L. 109–58, title XVIII, §1832, Aug. 8, 2005, 119 Stat. 1138.)
 

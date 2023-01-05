@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A health insurance issuer offering health insurance coverage in the individual marketmay not establish rules for the eligibility (including continued eligibility) of any individual to enroll in individual health insurance coverage based on genetic information.
+&emsp;A health insurance issuer offering health insurance coverage in the individual market may not establish rules for the eligibility (including continued eligibility) of any individual to enroll in individual health insurance coverage based on genetic information.
 
 #### (2) Rule of construction
 

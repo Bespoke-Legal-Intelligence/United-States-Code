@@ -22,21 +22,19 @@ Upon completion of an investigation under subsection (a), the Inspector General 
 
 #### (1) In general
 
-&emsp;Upon receipt of an Inspector General's report substantiating an allegation that the recipient of a contract, grant, or cooperative agreement; any subgrantee or subcontractor of the recipient; or any agent of the recipient or of a subgrantee or subcontractor, engaged in any of the activities described in section 7104(g) of this title, as amended by section 1702, or notification of an indictment, information, or criminal complaint for an offense under subsection (a)(3), the head of agency shall consider taking one or more of the following remedial actions:
+&emsp;Upon receipt of an Inspector General's report substantiating an allegation that the recipient of a contract, grant, or cooperative agreement; any subgrantee or subcontractor of the recipient; or any agent of the recipient or of a subgrantee or subcontractor, engaged in any of the activities described in section 7104(g) of this title, as amended by section 1702, or notification of an indictment, information, or criminal complaint for an offense under subsection (a)(3), the head of agency shall refer the matter to the agency suspension and debarment official and consider taking one or more of the following remedial actions:
 
-&emsp;&emsp;(A) Requiring the recipient to remove an employee from the performance of work under the grant, contract, or cooperative agreement.
+&emsp;&emsp;(A) Requiring the recipient to remove an employee from the performance of workunder the grant, contract, or cooperative agreement.
 
 &emsp;&emsp;(B) Requiring the recipient to terminate a subcontract or subgrant.
 
-&emsp;&emsp;(C) Suspending payments under the grant, contract, or cooperative agreement untilsuch time as the recipient of the grant, contract, or cooperative agreement has taken appropriate remedial action.
+&emsp;&emsp;(C) Suspending payments under the grant, contract, or cooperative agreement until such time as the recipient of the grant, contract, or cooperative agreement has taken appropriate remedial action.
 
 &emsp;&emsp;(D) Withholding award fees, consistent with the award fee plan, for the performance period in which the agency determined the contractor or subcontractor engaged in any of the activities described in such section 7104(g) of this title.
 
 &emsp;&emsp;(E) Declining to exercise available options under the contract.
 
 &emsp;&emsp;(F) Terminating the contract for default or cause, in accordance with the termination clause for the contract.
-
-&emsp;&emsp;(G) Referring the matter to the agency suspension and debarment official.
 
 #### (2) Savings clause
 
@@ -58,7 +56,7 @@ Upon completion of an investigation under subsection (a), the Inspector General 
 
 #### (2) Omitted
 
-(Pub. L. 112–239, div. A, title XVII, §1704, Jan. 2, 2013, 126 Stat. 2094.)
+(Pub. L. 112–239, div. A, title XVII, §1704, Jan. 2, 2013, 126 Stat. 2094; Pub. L. 117–211, §2(a), Oct. 17, 2022, 136 Stat. 2248.)
 
 #### <b>Editorial Notes</b>
 
@@ -71,6 +69,12 @@ Section 7104(g) of this title, as amended by section 1702, referred to in subsec
 Section is comprised of section 1704 of Pub. L. 112–239. Subsec. (d)(2) of section 1704 of Pub. L. 112–239 amended section 2313 of Title 41, Public Contracts.
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Trafficking Victims Protection Act of 2000 which comprises this chapter.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c)(1). Pub. L. 117–211, §2(a)(1), which directed insertion of "refer the matter to the agency suspension and debarment official and" before "consider taking one of the following actions", was executed in introductory provisions by making the insertion before "consider taking one or more of the following remedial actions" to reflect the probable intent of Congress.
+
+Subsec. (c)(1)(G). Pub. L. 117–211, §2(a)(2), struck out subpar. (G) which read as follows: "Referring the matter to the agency suspension and debarment official."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -10,7 +10,7 @@ Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, provided th
 
 #### Savings Provision
 
-Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
+Repeal by Pub. L. 94–579 not to be construed as terminating any valid lease, permit, patent, etc., existing onOct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under section 1701 of this title.
 
 #### Regulations Affecting Rights-of-Way
 

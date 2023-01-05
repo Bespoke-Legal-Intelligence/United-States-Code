@@ -1,6 +1,6 @@
 ### §361f. Publications of experiment stations; free mailing
 
-Bulletins, reports, periodicals, reprints of articles, and other publications necessary for the dissemination of results of the researches and experiments, including lists of publications available for distribution by the experiment stations, shall be transmitted in the mails of theUnited States. Such publications may be mailed from the principal place of business of the station or from an established subunit of said station.
+Bulletins, reports, periodicals, reprints of articles, and other publications necessary for the dissemination of results of the researches and experiments, including lists of publications available for distribution by the experiment stations, shall be transmitted in the mails of the United States. Such publications may be mailed from the principal place of business of the station or from an established subunit of said station.
 
 (Mar. 2, 1887, ch. 314, §6, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 673; Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773; Pub. L. 110–234, title VII, §7404(b)(1), May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, §4(a), title VII, §7404(b)(1), June 18, 2008, 122 Stat. 1664, 2008.)
 

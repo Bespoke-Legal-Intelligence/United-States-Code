@@ -44,7 +44,7 @@
 
 &emsp;&emsp;From the amount appropriated for any fiscal year under subsection (i), the Secretary shall reserve not more than 1 percent, which shall be used—
 
-&emsp;&emsp;&emsp;(i) to provide assistance to the outlying areas in accordance with their respective populations of individuals aged 3 through 21; and
+&emsp;&emsp;&emsp;(i) to provide assistance to the outlying areas in accordance with their respectivepopulations of individuals aged 3 through 21; and
 
 &emsp;&emsp;&emsp;(ii) to provide each freely associated State a grant in the amount that such freely associated State received for fiscal year 2003 under this subchapter, but only if the freely associated State meets the applicable requirements of this subchapter, as well as the requirements of section 1411(b)(2)(C) of this title as such section was in effect on the day before December 3, 2004.
 
@@ -98,7 +98,7 @@
 
 #### (ii) Data
 
-&emsp;&emsp;&emsp;For the purpose of making grants under this paragraph, the Secretary shall use themost recent population data, including data on children living in poverty, that are available and satisfactory to the Secretary.
+&emsp;&emsp;&emsp;For the purpose of making grants under this paragraph, the Secretary shall use the most recent population data, including data on children living in poverty, that are available and satisfactory to the Secretary.
 
 #### (B) Limitations
 
@@ -188,7 +188,7 @@
 
 #### (C) Certification
 
-&emsp;&emsp;Prior to expenditure of funds under this paragraph, the State shall certify to theSecretary that the arrangements to establish responsibility for services pursuant to section 1412(a)(12)(A) of this title are current.
+&emsp;&emsp;Prior to expenditure of funds under this paragraph, the State shall certify to the Secretary that the arrangements to establish responsibility for services pursuant to section 1412(a)(12)(A) of this title are current.
 
 #### (D) Subchapter III
 
@@ -204,7 +204,7 @@
 
 #### (ii) Small State adjustment
 
-&emsp;&emsp;&emsp;Notwithstanding clause (i) and except as provided in clause (iii), in the case of a State for which the maximum amount reserved for State administration is not greater than $850,000, the State may reserve for the purpose of carrying out State-level activities for each of the fiscal years 2005 and 2006, not more than 10.5 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, such State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
+&emsp;&emsp;&emsp;Notwithstanding clause (i) and except as provided in clause (iii), in the case of aState for which the maximum amount reserved for State administration is not greater than $850,000, the State may reserve for the purpose of carrying out State-level activities for each of the fiscal years 2005 and 2006, not more than 10.5 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, such State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
 
 #### (iii) Exception
 
@@ -246,7 +246,7 @@
 
 &emsp;&emsp;&emsp;(x) To support the development and provision of appropriate accommodations for children with disabilities, or the development and provision of alternate assessments that are valid and reliable for assessing the performance of children with disabilities, in accordance with sections 6311(b) and 6361 of this title.
 
-&emsp;&emsp;&emsp;(xi) To provide technical assistance to schools and local educational agencies, and direct services, including direct student services described in section 6303b(c)(3) of this title to children with disabilities, to schools or local educational agencies implementing comprehensive support and improvement activities or targeted support and improvement activitiesunder section 6311(d) of this title on the basis of consistent underperformance of the disaggregated subgroup of children with disabilities, including providing professional development to special and regular education teachers, who teach children with disabilities, based on scientifically based research to improve educational instruction, in order to improve academic achievement based on the challenging academic standards described in section 6311(b)(1) of this title.
+&emsp;&emsp;&emsp;(xi) To provide technical assistance to schools and local educational agencies, and direct services, including direct student services described in section 6303b(c)(3) of this title to children with disabilities, to schools or local educational agencies implementing comprehensive support and improvement activities or targeted support and improvement activities under section 6311(d) of this title on the basis of consistent underperformance of the disaggregated subgroup of children with disabilities, including providing professional development to special and regular education teachers, who teach children with disabilities, based on scientifically based research to improve educational instruction, in order to improve academic achievement based on the challenging academic standards described in section 6311(b)(1) of this title.
 
 #### (3) Local educational agency risk pool
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) to establish and make disbursements from the high cost fund to local educational agencies in accordance with this paragraph during the first and succeeding fiscal years of the high cost fund; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to support innovative and effective ways of cost sharing by the State, by a local educational agency, or among a consortium of local educational agencies, as determined by the State in coordination with representatives from local educational agencies, subject to subparagraph (B)(ii).
+&emsp;&emsp;&emsp;&emsp;(II) to support innovative and effective ways of cost sharing by the State, by a local educational agency, or among a consortium of local educational agencies, as determined by the State in coordination with representatives fromlocal educational agencies, subject to subparagraph (B)(ii).
 
 #### (ii) Definition of local educational agency
 
@@ -332,7 +332,7 @@
 
 #### (H) Medicaid services not affected
 
-&emsp;&emsp;Disbursements provided under this paragraph shall not be used to pay costs that otherwise would be reimbursed as medical assistance for a child with a disability under the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
+&emsp;&emsp;Disbursements provided under this paragraph shall not be used to pay costs thatotherwise would be reimbursed as medical assistance for a child with a disability under the State medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
 
 #### (I) Remaining funds
 
@@ -452,7 +452,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;With funds appropriated under subsection (i), the Secretary of Education shall make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 5304 of title 25) or consortia of tribes or tribal organizations to provide for the coordination of assistance for special education and related services for children with disabilities aged 3 through 5 on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payments under subparagraph (B) for any fiscal year shall be equal to 20 percent of the amount allotted under subsection (b)(2).
+&emsp;&emsp;With funds appropriated under subsection (i), the Secretary of Education shall make payments to the Secretary of the Interior to be distributed to tribes or tribal organizations (as defined under section 5304 of title 25) or consortia of tribes or tribal organizations to provide for the coordination of assistance for special education and related services for children with disabilities aged 3 through 5 on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount ofsuch payments under subparagraph (B) for any fiscal year shall be equal to 20 percent of the amount allotted under subsection (b)(2).
 
 #### (B) Distribution of funds
 
@@ -496,7 +496,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The advisory board established under paragraph (6) shall prepare and submit to the Secretary of the Interior and to Congress an annual report containing a description of the activities of the advisory board for the preceding year.
+&emsp;&emsp;The advisory board established under paragraph (6) shall prepare and submit to the Secretary of the Interior and to Congress anannual report containing a description of the activities of the advisory board for the preceding year.
 
 #### (B) Availability
 
@@ -528,9 +528,9 @@ For the purpose of carrying out this subchapter, other than section 1419 of this
 
 #### References in Text
 
-Public Law 95–134, referred to in subsec. (b)(1)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
+Public Law 95–134, referred to in subsec. (b)(1)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
 
-The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -558,11 +558,15 @@ Subchapter effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set 
 
 #### Effect of Reduction
 
-Pub. L. 116–260, div. H, title III, Dec. 27, 2020, 134 Stat. 1601, provided in part: "That the Secretary \[of Education\] may, in any fiscal year in which a State's allocation under section 611 \[20 U.S.C. 1411\] is reduced in accordance with section 612(a)(18)(B) \[20 U.S.C. 1412(a)(18)(B)\], reduce the amount a State may reserve under section 611(e)(1) \[20 U.S.C. 1411(e)(1)\] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) \[20 U.S.C. 1411(d)\] in the absence of the reduction: <i>Provided further</i>, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) \[20 U.S.C. 1412(a)(18)(A)\] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act (20 U.S.C. 1234a)".
+Pub. L. 117–328, div. H, title III, Dec. 29, 2022, 136 Stat. 4890, provided in part: "That the Secretary \[of Education\] may, in any fiscal year in which a State's allocation under section 611 \[20 U.S.C. 1411\] is reduced in accordance with section 612(a)(18)(B) \[20 U.S.C. 1412(a)(18)(B)\], reduce the amount a State may reserve under section 611(e)(1) \[20 U.S.C. 1411(e)(1)\] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) \[20 U.S.C. 1411(d)\] in the absence of the reduction: <i>Provided further</i>, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) \[20 U.S.C. 1412(a)(18)(A)\] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act (20 U.S.C. 1234a)".
 
-Pub. L. 116–260, div. H, title III, Dec. 27, 2020, 134 Stat. 1601, provided in part: "That the amount by which a State's allocation under section 611(d) of the IDEA \[Individuals with Disabilities Education Act, 20 U.S.C. 1411(d)\] is reduced under section 612(a)(18)(B) \[20 U.S.C. 1412(a)(18)(B)\] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years".
+Pub. L. 117–328, div. H, title III, Dec. 29, 2022, 136 Stat. 4890, provided in part: "That the amount by which a State's allocation under section 611(d) of the IDEA \[Individuals with Disabilities Education Act, 20 U.S.C. 1411(d)\] is reduced under section 612(a)(18)(B) \[20 U.S.C. 1412(a)(18)(B)\] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–103, div. H, title III, Mar. 15, 2022, 136 Stat. 478.
+
+Pub. L. 116–260, div. H, title III, Dec. 27, 2020, 134 Stat. 1601.
 
 Pub. L. 116–94, div. A, title III, Dec. 20, 2019, 133 Stat. 2589, 2590.
 

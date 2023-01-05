@@ -2,7 +2,7 @@
 
 #### (a) Voluntary transfers
 
-A Federal land bank or a merged bank having a Federal land bank as one of its constituents, may transfer to a Federal land bank association, and the association may assume, the authority of the transferring bank in the territorial area served by the association, to make and participate in long-term real estate mortgage loans under this chapter if the transfer is approved by—
+A Federal land bank or a merged bank having a Federal land bank as one of its constituents, may transfer to a Federal land bank association, and the association may assume, the authority of the transferring bank in the territorial areaserved by the association, to make and participate in long-term real estate mortgage loans under this chapter if the transfer is approved by—
 
 &emsp;(1) the Farm Credit Administration Board;
 

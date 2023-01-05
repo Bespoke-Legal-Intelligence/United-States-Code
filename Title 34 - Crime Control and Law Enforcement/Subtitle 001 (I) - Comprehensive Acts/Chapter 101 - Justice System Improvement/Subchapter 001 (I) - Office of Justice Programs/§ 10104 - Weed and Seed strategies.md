@@ -106,7 +106,7 @@ An application for designation as a Weed-and-Seed community for purposes of subs
 
 #### (6) Supplement, not supplant
 
-&emsp;To receive a grant under this subsection, the applicant must provide assurances that the amounts received under the grant shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for programs or services provided in the community.
+&emsp;To receive a grant under this subsection, the applicant must provide assurances that the amounts received under the grant shall beused to supplement, not supplant, non-Federal funds that would otherwise be available for programs or services provided in the community.
 
 (Pub. L. 90–351, title I, §104, as added Pub. L. 109–162, title XI, §1121(a), Jan. 5, 2006, 119 Stat. 3104.)
 

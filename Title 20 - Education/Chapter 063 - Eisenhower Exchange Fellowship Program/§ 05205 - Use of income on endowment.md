@@ -8,7 +8,7 @@ For any fiscal year, as may be determined by Eisenhower Exchange Fellowships, In
 
 #### (d) Participation by United States minority populations
 
-In order to ensure that the United States fellows participating in programs of the Eisenhower Exchange Fellowships, Incorporated, are representative of the cultural, ethnic, and racial diversity of the American people, of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant tosection 5203(a) of this title which are obligated and expended for United States fellowship programs, not less than 10 percent shall be available only for participation by individuals who are representative of United States minority populations.
+In order to ensure that the United States fellows participating in programs of the Eisenhower Exchange Fellowships, Incorporated, are representative of the cultural, ethnic, and racial diversity of the American people, of the amounts made available to Eisenhower Exchange Fellowships, Incorporated, pursuant to section 5203(a) of this title which are obligated and expended for United States fellowship programs, not less than 10 percent shall be available only for participation by individuals who are representative of United States minority populations.
 
 (Pub. L. 101–454, §6, Oct. 24, 1990, 104 Stat. 1065; Pub. L. 104–134, title I, §101\[(a)\] \[title IV, §407\], Apr. 26, 1996, 110 Stat. 1321, 1321–45; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 

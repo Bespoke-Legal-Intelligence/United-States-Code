@@ -46,7 +46,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(4) The United States will spend more than $1,200,000,000,000 on health care in 1999, but the Federal budget for health research at the National Institutes of Health was $15,600,000,000 only 1 percent of that total.
 
-&emsp;"(5) Studies at the Institute of Medicine, the National Research Council, and the National Academy of Sciences have all addressed the current problems in clinical research.
+&emsp;"(5) Studies at the Institute of Medicine, the National Research Council, and the National Academyof Sciences have all addressed the current problems in clinical research.
 
 &emsp;"(6) The Director of the National Institutes of Health has recognized the current problems in clinical research and appointed a special panel, which recommended expanded support for existing National Institutes of Health clinical research programs and the creation of new initiatives to recruit and retain clinical investigators.
 

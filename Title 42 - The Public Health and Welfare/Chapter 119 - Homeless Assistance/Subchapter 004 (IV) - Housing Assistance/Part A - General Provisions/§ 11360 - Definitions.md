@@ -40,7 +40,7 @@ For purposes of this subchapter:
 
 #### (B) Rule of construction
 
-&emsp;&emsp;A person who currently lives or resides in an institutional care facility, including a jail, substance abuse or mental health treatment facility, hospital or other similar facility, and has resided there for fewer than 90 days shall be considered chronically homeless if such person met all of the requirements described in subparagraph (A) prior to entering that facility.
+&emsp;&emsp;A person who currently lives or resides in an institutional care facility, including a jail, substance abuse or mental health treatment facility, hospital or other similar facility, and has resided there for fewer than 90days shall be considered chronically homeless if such person met all of the requirements described in subparagraph (A) prior to entering that facility.
 
 #### (3) Collaborative applicant
 
@@ -250,7 +250,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(G) the provision of assistance in obtaining other Federal, State, and local assistance available for residents of supportive housing (including mental health benefits, employment counseling, and medical assistance, but not including major medical equipment);
 
-&emsp;&emsp;(H) the provision of legal services for purposes including requesting reconsiderations and appeals of veterans and public benefit claim denials and resolving outstanding warrants that interfere with an individual's ability to obtain and retain housing;
+&emsp;&emsp;(H) the provision of legal services for purposes including requesting reconsiderationsand appeals of veterans and public benefit claim denials and resolving outstanding warrants that interfere with an individual's ability to obtain and retain housing;
 
 &emsp;&emsp;(I) the provision of—
 
@@ -292,7 +292,7 @@ For purposes of this subchapter:
 
 &emsp;The term "victim services" means services that assist domestic violence, dating violence, sexual assault, or stalking victims, including services offered by rape crisis centers and domestic violence shelters, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
 
-(Pub. L. 100–77, title IV, §401, as added Pub. L. 111–22, div. B, title I, §1101(3), May 20, 2009, 123Stat. 1669; amended Pub. L. 116–260, div. Q, title I, §102(a)(1), Dec. 27, 2020, 134 Stat. 2165.)
+(Pub. L. 100–77, title IV, §401, as added Pub. L. 111–22, div. B, title I, §1101(3), May 20, 2009, 123 Stat. 1669; amended Pub. L. 116–260, div. Q, title I, §102(a)(1), Dec. 27, 2020, 134 Stat. 2165.)
 
 #### <b>Editorial Notes</b>
 

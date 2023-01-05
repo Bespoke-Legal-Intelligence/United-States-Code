@@ -6,7 +6,7 @@ It shall be unlawful for any person knowingly or intentionally—
 
 &emsp;(1) who is a registrant to distribute a controlled substance classified in schedule I or II, in the course of his legitimate business, except pursuant to an order or an order form as required by section 828 of this title;
 
-&emsp;(2) to use in the course of the manufacture, distribution, or dispensing of a controlled substance, or to use for the purpose of acquiringor obtaining a controlled substance, a registration number which is fictitious, revoked, suspended, expired, or issued to another person;
+&emsp;(2) to use in the course of the manufacture, distribution, or dispensing of a controlled substance, or to use for the purpose of acquiring or obtaining a controlled substance, a registration number which is fictitious, revoked, suspended, expired, or issued to another person;
 
 &emsp;(3) to acquire or obtain possession of a controlled substance by misrepresentation, fraud, forgery, deception, or subterfuge;
 
@@ -32,7 +32,7 @@ It shall be unlawful for any person knowingly or intentionally to use any commun
 
 (2)(A) It shall be unlawful for any person to knowingly or intentionally use the Internet, or cause the Internet to be used, to advertise the sale of, or to offer to sell, distribute, or dispense, a controlled substance where such sale, distribution, or dispensing is not authorized by this subchapter or by the Controlled Substances Import and Export Act \[21 U.S.C. 951 et seq.\].
 
-(B) Examples of activities that violate subparagraph (A) include, but are not limited to, knowingly or intentionally causing the placement on the Internet of an advertisement that refers to or directs prospective buyers to Internet sellers of controlled substances who are not registered with a modification under section 823(f) of this title.
+(B) Examples of activities that violate subparagraph (A) include, but are not limited to, knowingly or intentionally causing the placement on the Internet of an advertisement that refers to or directs prospective buyers to Internet sellers of controlled substances who are not registered with a modification under section 823(g) of this title.
 
 (C) Subparagraph (A) does not apply to material that either—
 
@@ -68,7 +68,7 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 (4) The court shall proceed as soon as practicable to the hearing and determination of such an action. An action under this subsection is governed by the Federal Rules of Civil Procedure except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.
 
-(Pub. L. 91–513, title II, §403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, §202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, §516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, §6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, §3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, §90106, Sept. 13, 1994, 108 Stat. 1988; Pub. L. 104–237, title II, §§203(a), 206(b), Oct. 3, 1996, 110 Stat. 3102, 3103; Pub. L. 107–273, div. B, title IV, §4002(d)(2)(C), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 108–21, title VI, §608(d), Apr. 30, 2003, 117 Stat. 691; Pub. L. 110–425, §3(g), Oct. 15, 2008, 122 Stat. 4830.)
+(Pub. L. 91–513, title II, §403, Oct. 27, 1970, 84 Stat. 1263; Pub. L. 95–633, title II, §202(b)(3), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 98–473, title II, §516, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 99–570, title I, §1866(a), Oct. 27, 1986, 100 Stat. 3207–54; Pub. L. 100–690, title VI, §6057, Nov. 18, 1988, 102 Stat. 4319; Pub. L. 103–200, §3(g), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 103–322, title IX, §90106, Sept. 13, 1994, 108 Stat. 1988; Pub. L. 104–237, title II, §§203(a), 206(b), Oct. 3, 1996, 110 Stat. 3102, 3103; Pub. L. 107–273, div. B, title IV, §4002(d)(2)(C), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 108–21, title VI, §608(d), Apr. 30, 2003, 117 Stat. 691; Pub. L. 110–425, §3(g), Oct. 15, 2008, 122 Stat. 4830; Pub. L. 117–215, title I, §103(b)(1)(H), Dec. 2, 2022, 136 Stat. 2263.)
 
 #### <b>Editorial Notes</b>
 
@@ -76,7 +76,7 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 Schedules I and II, referred to in subsecs. (a)(1) and (c)(1), are set out in section 812(c) of this title.
 
-This subchapter, referred to in subsec. (c)(2)(A), (C)(i), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsec. (c)(2)(A), (C)(i), was in the original "this title", meaning title II of Pub.L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsec. (c)(2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
@@ -87,6 +87,8 @@ The Federal Rules of Civil Procedure, referred to in subsec. (f)(4), are set out
 The Federal Rules of Criminal Procedure, referred to in subsec. (f)(4), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(2)(B). Pub. L. 117–215 substituted "823(g)" for "823(f)".
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–425 designated existing provisions as par. (1) and added par. (2).
 

@@ -106,7 +106,7 @@ Authority vested by this chapter in "military departments", "the Secretary conce
 
 #### National Oceanic and Atmospheric Administration
 
-Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretaryof Defense" to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
+Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretary of Defense" to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
 #### Obligation of Defense Health Program Appropriations for Death Gratuity Payments
 
@@ -230,7 +230,7 @@ Elements of Policy.—The comprehensive policy developed under subsection (a) sh
 
 &emsp;"(4) The relief or transfer of casualty assistance officers, including notification to survivors and next of kin of the reassignment of such officers to other duties.
 
-&emsp;"(5) Centralized, short-term and long-term case-management procedures for casualty assistance by each military department, including rapid access by survivors of military decedents and casualty assistance officers to expert case managers and counselors.
+&emsp;"(5) Centralized, short-term and long-term case-management procedures for casualty assistance byeach military department, including rapid access by survivors of military decedents and casualty assistance officers to expert case managers and counselors.
 
 &emsp;"(6) The provision, through a computer accessible Internet website and other means and at no cost to survivors of military decedents, of personalized, integrated information on the benefits and financial assistance available to such survivors from the Federal Government.
 

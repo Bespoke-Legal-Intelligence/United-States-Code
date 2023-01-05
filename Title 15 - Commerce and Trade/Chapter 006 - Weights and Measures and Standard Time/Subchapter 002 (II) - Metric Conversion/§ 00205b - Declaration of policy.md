@@ -2,7 +2,7 @@
 
 It is therefore the declared policy of the United States—
 
-&emsp;(1) to designate the metric system of measurement as the preferred system of weightsand measures for United States trade and commerce;
+&emsp;(1) to designate the metric system of measurement as the preferred system of weights and measures for United States trade and commerce;
 
 &emsp;(2) to require that each Federal agency, by a date certain and to the extent economically feasible by the end of the fiscal year 1992, use the metric system of measurement in its procurements, grants, and other business-related activities, except to the extent that such use is impractical or is likely to cause significant inefficiencies or loss of markets to United States firms, such as when foreign competitors are producing competing products in non-metric units;
 

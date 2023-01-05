@@ -38,3 +38,5 @@ Part H—Miscellaneous Provisions
 - [&sect; 00472 - Annual weaponry report](%C2%A7%2000472%20-%20Annual%20weaponry%20report.md)
 - [&sect; 00473 - Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit](%C2%A7%2000473%20-%20Cyber%20Crimes%20Center%2C%20Child%20Exploitation%20Investigations%20Unit%2C%20Computer%20Forensics%20Unit%2C%20and%20Cyber%20Crimes%20Unit.md)
 - [&sect; 00474 - Homeland security critical domain research and development](%C2%A7%2000474%20-%20Homeland%20security%20critical%20domain%20research%20and%20development.md)
+- [&sect; 00475 - Transnational Criminal Investigative Units](%C2%A7%2000475%20-%20Transnational%20Criminal%20Investigative%20Units.md)
+- [&sect; 00475a - Mentor-prot&#233;g&#233; program](%C2%A7%2000475a%20-%20Mentor-prot%C3%A9g%C3%A9%20program.md)

@@ -2,7 +2,7 @@
 
 #### (a) Purposes
 
-The purposes of this section are to promote the prevention and deterrence of instances of fraud, bid rigging, and other anticompetitive activities encountered in the procurement of products for child nutrition programs by—
+The purposes of this section are to promote the prevention and deterrence of instances offraud, bid rigging, and other anticompetitive activities encountered in the procurement of products for child nutrition programs by—
 
 &emsp;(1) establishing guidelines and a timetable for the Secretary to initiate debarment proceedings, as well as establishing mandatory debarment periods; and
 
@@ -48,7 +48,7 @@ As used in this section:
 
 The Secretary shall—
 
-&emsp;(1) in cooperation with any other appropriate individual, organization, or agency, provide advice, training, technical assistance, andguidance (which may include awareness training, training films, and troubleshooting advice) to representatives of States and local agencies regarding means of identifying and preventing fraud and anticompetitive activities relating to the provision of goods or services in conjunction with the participation of a local agency in a child nutrition program; and
+&emsp;(1) in cooperation with any other appropriate individual, organization, or agency, provide advice, training, technical assistance, and guidance (which may include awareness training, training films, and troubleshooting advice) to representatives of States and local agencies regarding means of identifying and preventing fraud and anticompetitive activities relating to the provision of goods or services in conjunction with the participation of a local agency in a child nutrition program; and
 
 &emsp;(2) provide information to, and fully cooperate with, the Attorney General and State attorneys general regarding investigations of fraud and anticompetitive activities relating to the provision of goods or services in conjunction with the participation of a local agency in a child nutrition program.
 
@@ -88,7 +88,7 @@ The Secretary shall—
 
 #### (C) Scope
 
-&emsp;&emsp;At a minimum, a debarment under this subsection shall serve to bar the contractor for the specified period from contracting to provide goods or services in conjunction with the participation of a local agency in a child nutrition program.
+&emsp;&emsp;At a minimum, a debarment under this subsection shall serve to bar the contractorfor the specified period from contracting to provide goods or services in conjunction with the participation of a local agency in a child nutrition program.
 
 #### (D) Reversal, reduction, or exception
 
@@ -124,7 +124,7 @@ Notwithstanding any other provision of this section, the Secretary shall initiat
 
 &emsp;(2) will interfere with the ability of a local agency to procure a needed product for a child nutrition program;
 
-&emsp;(3) is unfair to a person, subsidiary corporation, affiliate, parent company, or local division of a corporation that is not involved inthe improper activity that would otherwise result in the debarment;
+&emsp;(3) is unfair to a person, subsidiary corporation, affiliate, parent company, or local division of a corporation that is not involved in the improper activity that would otherwise result in the debarment;
 
 &emsp;(4) is likely to have significant adverse economic impacts on the local economy in a manner that is unfair to innocent parties;
 

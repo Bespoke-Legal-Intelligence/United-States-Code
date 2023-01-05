@@ -22,7 +22,7 @@ The Commission shall have a staff director who shall be appointed by the chairpe
 
 #### (c) Duties and responsibilities
 
-The Commission shall appraise United States Government activities intended to understand,inform, and influence foreign publics. The activities described in this subsection shall be referred to in this section as "public diplomacy activities".
+The Commission shall appraise United States Government activities intended to understand, inform, and influence foreign publics. The activities described in this subsection shall be referred to in this section as "public diplomacy activities".
 
 #### (d) Reports
 
@@ -116,7 +116,7 @@ Subsec. (d). Pub. L. 112–239, §1280(c), amended subsec. (d) generally. Prior 
 
 <b>1999</b>—Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(c)(2)\], repealed this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
-Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], amended Pub. L. 105–277, §1334, generally (see1998 Amendment note below) and reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
+Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], amended Pub. L. 105–277, §1334, generally (see 1998 Amendment note below) and reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
 <b>1998</b>—Pub. L. 105–277, §1334(b), which directed the repeal of this section, was omitted in the general amendment of Pub. L. 105–277, §1334, by Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a)\]. See 1999 Amendment note above.
 
@@ -128,7 +128,7 @@ Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], amended 
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date
 

@@ -76,7 +76,7 @@ Notice of proposal.—The Secretary and the Director shall, with respect to any 
 
 &emsp;&emsp;(B)
 
-Pre-implementation congressional notification, consultation, and mediation.—Following receipt of recommendations, if any, from employee representativeswith respect to a proposal described in subparagraph (A), the Secretary and the Director shall accept such modifications to the proposal in response to the recommendations as they determine advisable and shall, with respect to any parts of the proposal as to which they have not accepted the recommendations—
+Pre-implementation congressional notification, consultation, and mediation.—Following receipt of recommendations, if any, from employee representatives with respect to a proposal described in subparagraph (A), the Secretary and the Director shall accept such modifications to the proposal in response to the recommendations as they determine advisable and shall, with respect to any parts of the proposal as to which they have not accepted the recommendations—
 
 &emsp;&emsp;&emsp;(i) notify Congress of those parts of the proposal, together with the recommendations of employee representatives;
 

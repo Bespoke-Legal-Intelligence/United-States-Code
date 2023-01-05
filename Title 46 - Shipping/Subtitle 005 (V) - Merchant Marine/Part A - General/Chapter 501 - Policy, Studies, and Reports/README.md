@@ -15,12 +15,15 @@
 | [50111\.](%C2%A7%2050111%20-%20Submission%20of%20annual%20MARAD%20authorization%20request.md) | Submission of annual MARAD authorization request. |
 | [50112\.](%C2%A7%2050112%20-%20National%20Maritime%20Enhancement%20Institutes.md) | National Maritime Enhancement Institutes. |
 | [50113\.](%C2%A7%2050113%20-%20Use%20and%20performance%20reports%20by%20operators%20of%20vessels.md) | Use and performance reports by operators of vessels. |
+| [50114\.](%C2%A7%2050114%20-%20National%20maritime%20strategy.md) | National maritime strategy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. C, title XXXV, §3542(b)(3), Dec. 23, 2022, 136 Stat. 3098, added item 50114.
 
 <b>2015</b>—Pub. L. 114–92, div. A, title X, §1074(c)(2), Nov. 25, 2015, 129 Stat. 997, substituted "Submission of annual MARAD authorization request" for "Reports to Congress" in item 50111.
 
@@ -42,3 +45,4 @@
 - [&sect; 50111 - Submission of annual MARAD authorization request](%C2%A7%2050111%20-%20Submission%20of%20annual%20MARAD%20authorization%20request.md)
 - [&sect; 50112 - National Maritime Enhancement Institutes](%C2%A7%2050112%20-%20National%20Maritime%20Enhancement%20Institutes.md)
 - [&sect; 50113 - Use and performance reports by operators of vessels](%C2%A7%2050113%20-%20Use%20and%20performance%20reports%20by%20operators%20of%20vessels.md)
+- [&sect; 50114 - National maritime strategy](%C2%A7%2050114%20-%20National%20maritime%20strategy.md)

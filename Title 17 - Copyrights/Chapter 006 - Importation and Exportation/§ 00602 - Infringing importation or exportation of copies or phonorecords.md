@@ -10,7 +10,7 @@ Importation.—Importation into the United States, without the authority of the 
 
 &emsp;(2)
 
-Importation or exportation of infringing items.—Importation into the United States or exportation from the United States, without the authority of the owner of copyright under this title, of copies or phonorecords, the making of which either constituted an infringement of copyright, or which would have constituted an infringement of copyright if this title had been applicable,is an infringement of the exclusive right to distribute copies or phonorecords under section 106, actionable under sections 501 and 506.
+Importation or exportation of infringing items.—Importation into the United States or exportation from the United States, without the authority of the owner of copyright under this title, of copies or phonorecords, the making of which either constituted an infringement of copyright, or which would have constituted an infringement of copyright if this title had been applicable, is an infringement of the exclusive right to distribute copies or phonorecords under section 106, actionable under sections 501 and 506.
 
 &emsp;(3)
 

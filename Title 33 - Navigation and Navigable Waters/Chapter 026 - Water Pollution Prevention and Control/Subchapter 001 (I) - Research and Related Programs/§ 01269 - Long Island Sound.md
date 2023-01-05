@@ -110,7 +110,7 @@ The Office shall assist the conference study in carrying out its goals. Specific
 
 #### (4) Consistency with comprehensive conservation and management plan
 
-&emsp;To the maximum extent practicable, the head of each Federal department or agency that owns or occupies real property, or carries out activities, within the Long Island Sound watershed shall ensure that the property and all activities carried out by the department or agency are consistent with the Long Island Sound Comprehensive Conservation and Management Plan (including any related subsequent agreements and plans).
+&emsp;To the maximum extent practicable, the head of each Federal department or agency that owns or occupies real property, or carries out activities, within the Long Island Sound watershed shall ensure that the property and all activities carried out by the department or agency are consistent with the Long IslandSound Comprehensive Conservation and Management Plan (including any related subsequent agreements and plans).
 
 #### (h) Authorization of appropriations
 
@@ -400,7 +400,7 @@ Public comment.—In identifying sites for inclusion in the list, the Advisory C
 
 "(a)
 
-In General.—The Administrator may provide grants, subject to the availability of appropriations, and other assistance for projects to fulfill the purpose of this Act.
+In General.—The Administrator may provide grants, subject to the availability of appropriations,and other assistance for projects to fulfill the purpose of this Act.
 
 "(b)
 

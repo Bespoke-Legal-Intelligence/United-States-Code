@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Upon the recommendation of the Secretary, the Secretary of the Treasury may pay a reward to any person who furnishes information which leads to a civil penalty or a criminal conviction under this chapter.
+Upon the recommendation of the Secretary, the Secretary of the Treasury may pay a rewardto any person who furnishes information which leads to a civil penalty or a criminal conviction under this chapter.
 
 #### (b) Amount
 

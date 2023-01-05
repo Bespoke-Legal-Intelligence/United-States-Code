@@ -4,23 +4,21 @@ The Animal and Plant Health Inspection Service shall, notwithstanding any other 
 
 &emsp;(a) within 60 calendar days, restore on its website the searchable database and its contents that were available on January 30, 2017, and all content generated since that date; and
 
-&emsp;(b) hereafter, make publicly available via searchable database, in their entirety without redactions except signatures, the following records after enactment of this Act for a subsequent period of three years:
+&emsp;(b) hereafter, make publicly available via searchable database, in their entirety without redactions except signatures, the following records:
 
-&emsp;&emsp;(1) all final Animal Welfare Act inspection reports, including all reports documenting all Animal Welfare Act non-compliances observed by USDA officials and all animal inventories;
+&emsp;&emsp;(1) all final Animal Welfare Act inspection reports, including all reports documenting all Animal Welfare Act violations and non-compliances observed by USDA officials and all animal inventories for the current year and the preceding three years;
 
-&emsp;&emsp;(2) all final Animal Welfare Act and Horse Protection Act enforcement records;
+&emsp;&emsp;(2) all final Animal Welfare Act and Horse Protection Act enforcement records for the current year and the preceding three years;
 
-&emsp;&emsp;(3) all reports or other materials documenting any non-compliances observed by USDA officials; and
+&emsp;&emsp;(3) all reports or other materials documenting any violations and non-compliances observed by USDA officials for the current year and the preceding three years; and
 
 &emsp;&emsp;(4) within six months of receipt by the agency, all final Animal Welfare Act research facility annual reports, including their attachments with appropriate redactions made for confidential business information that USDA could withhold under FOIA Exemption 4.
 
-(Pub. L. 116–94, div. B, title VII, §788, Dec. 20, 2019, 133 Stat. 2657.)
+(Pub. L. 116–94, div. B, title VII, §788, Dec. 20, 2019, 133 Stat. 2657; Pub. L. 117–103, div. A, title VII, §765, Mar. 15, 2022, 136 Stat. 98.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-Enactment of this Act, referred to in subsec. (b), means the enactment of div. B of Pub. L. 116–94, which was approved Dec. 20, 2019.
 
 The Animal Welfare Act, referred to in subsec. (b)(1), (2), (4), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of this title and Tables.
 
@@ -29,4 +27,16 @@ The Horse Protection Act, referred to in subsec. (b)(2), is Pub. L. 91–540, De
 #### Codification
 
 Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2020, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Animal Welfare Act which comprises this chapter.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–103 amended subsec. (b) generally. Prior to amendment, text read as follows: "hereafter, make publicly available via searchable database, in their entirety without redactions except signatures, the following records after enactment of this Act for a subsequent period of three years:
+
+&emsp;"(1) all final Animal Welfare Act inspection reports, including all reports documenting all Animal Welfare Act non-compliances observed by USDA officials and all animal inventories;
+
+&emsp;"(2) all final Animal Welfare Act and Horse Protection Act enforcement records;
+
+&emsp;"(3) all reports or other materials documenting any non-compliances observed by USDA officials; and
+
+&emsp;"(4) within six months of receipt by the agency, all final Animal Welfare Act research facility annual reports, including their attachments with appropriate redactions made for confidential business information that USDA could withhold under FOIA Exemption 4."
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary shall notify each applicant for a benefit or service described in subsection (c) of this section that income information furnished by the applicant to the Secretary may be compared with information obtained by the Secretary from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986. The Secretary shall periodically transmit to recipients of such benefits and services additional notifications of such matters.
 
-(b) The Secretary may not, by reason of information obtained from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986, terminate, deny, suspend,or reduce any benefit or service described in subsection (c) of this section until the Secretary takes appropriate steps to verify independently information relating to the following:
+(b) The Secretary may not, by reason of information obtained from the Commissioner of Social Security or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986, terminate, deny, suspend, or reduce any benefit or service described in subsection (c) of this section until the Secretary takes appropriate steps to verify independently information relating to the following:
 
 &emsp;(1) The amount of the asset or income involved.
 
@@ -78,7 +78,7 @@ Pub. L. 101–508, title VIII, §8051(c), Nov. 5, 1990, 104 Stat. 1388–351, pr
 
 "(2) Notification under paragraph (1) shall be made not later than 90 days after the date of the enactment of this Act.
 
-"(3) The Secretary of Veterans Affairs may not obtain information from the Secretary of Health andHuman Services or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 (as added by subsection (a)) until notification under paragraph (1) is made."
+"(3) The Secretary of Veterans Affairs may not obtain information from the Secretary of Health and Human Services or the Secretary of the Treasury under section 6103(l)(7)(D)(viii) of the Internal Revenue Code of 1986 (as added by subsection (a)) until notification under paragraph (1) is made."
 
 #### Study by Comptroller General on Effectiveness of Amendments by Pub. L. 101–508
 

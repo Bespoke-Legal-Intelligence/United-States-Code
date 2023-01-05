@@ -76,7 +76,7 @@
 
 #### (d) General requirements regarding assistance
 
-(1) Assistance under this section shall be provided only upon application, which application shall contain such information as the Secretary of Agriculture shall prescribe.
+(1) Assistance under this section shall be provided only upon application, which applicationshall contain such information as the Secretary of Agriculture shall prescribe.
 
 (2) The Secretary of Agriculture may make any grant under this section in whole or in part to the local government or governments serving an area designated and approved under subsection (a), or to a council of local governments which includes one or more local governments serving such area (in lieu of making such grant solely to the State), if he has determined, after consultation with the Governor of the State, that to do so would be appropriate.
 
@@ -134,7 +134,7 @@ The authority of the Secretary of Agriculture and the authority of the Secretary
 
 The effective date of this chapter, referred to in subsec. (a)(1), is the effective date of Pub. L. 95–620. See section 901 of Pub. L. 95–620, set out as an Effective Date note under section 8301 of this title.
 
-Section 1609 of title 16, referred to in subsec. (c)(6)(B), was in the original "section 10 of the Forest and Rangeland Renewable Resources Planning Act of 1974". Such section 10 is classified to section 1608 of title 16 but has been editorially translated as section 1609 of title 16 as the probable intent of Congress in that the properties defined as being in the National Forest System appear in section 1609.
+Section 1609 of title 16, referred to in subsec. (c)(6)(B), was in the original "section 10 of the Forest and Rangeland Renewable Resources Planning Act of 1974". Such section 10 is classified to section 1608 of title 16 but has been editorially translated as section 1609 of title 16 as the probable intent of Congress in that the propertiesdefined as being in the National Forest System appear in section 1609.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

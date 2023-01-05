@@ -46,11 +46,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If any employer that is a member of an association hires for employment in the United States an individual and relies upon the provisions of subparagraph (A) to comply with the requirements of subsection (b) and the individual is an alien not authorized to work in the United States, then for the purposes of paragraph (1)(A), subject to clause (ii), the employer shall be presumed to have known at the time of hiring or afterward that the individual was an alien not authorized to work in the United States.
+&emsp;&emsp;&emsp;If any employer that is a member of an association hires for employment in the United States an individual and reliesupon the provisions of subparagraph (A) to comply with the requirements of subsection (b) and the individual is an alien not authorized to work in the United States, then for the purposes of paragraph (1)(A), subject to clause (ii), the employer shall be presumed to have known at the time of hiring or afterward that the individual was an alien not authorized to work in the United States.
 
 #### (ii) Rebuttal of presumption
 
-&emsp;&emsp;&emsp;The presumption established by clause (i) may be rebutted by the employer onlythrough the presentation of clear and convincing evidence that the employer did not know (and could not reasonably have known) that the individual at the time of hiring or afterward was an alien not authorized to work in the United States.
+&emsp;&emsp;&emsp;The presumption established by clause (i) may be rebutted by the employer only through the presentation of clear and convincing evidence that the employer did not know (and could not reasonably have known) that the individual at the time of hiring or afterward was an alien not authorized to work in the United States.
 
 #### (iii) Exception
 
@@ -112,7 +112,7 @@ The requirements referred to in paragraphs (1)(B) and (3) of subsection (a) are,
 
 #### (2) Individual attestation of employment authorization
 
-&emsp;The individual must attest, under penalty of perjury on the form designated or established for purposes of paragraph (1), that the individual is a citizen or national of the United States, an alien lawfully admitted for permanent residence, or an alien who is authorized under this chapter or by the Attorney General to be hired, recruited, or referred for such employment. Such attestation may be manifested by either a hand-written or an electronic signature.
+&emsp;The individual must attest, under penalty of perjury on the form designated or established for purposes of paragraph (1), that the individual is a citizen or national of the UnitedStates, an alien lawfully admitted for permanent residence, or an alien who is authorized under this chapter or by the Attorney General to be hired, recruited, or referred for such employment. Such attestation may be manifested by either a hand-written or an electronic signature.
 
 #### (3) Retention of verification form
 
@@ -198,7 +198,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (E) Limited denial of verification
 
-&emsp;&emsp;A verification that an employee or prospective employee is eligible to be employed in the United States may not be withheld orrevoked under the system for any reason other than that the employee or prospective employee is an unauthorized alien.
+&emsp;&emsp;A verification that an employee or prospective employee is eligible to be employed in the United States may not be withheld or revoked under the system for any reason other than that the employee or prospective employee is an unauthorized alien.
 
 #### (F) Limited use for law enforcement purposes
 
@@ -326,7 +326,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (6) Order for prohibited indemnity bonds
 
-&emsp;With respect to a violation of subsection (g)(1), the order under this subsection may provide for the remedy described in subsection (g)(2).
+&emsp;With respect to a violation of subsection (g)(1), the order under this subsection mayprovide for the remedy described in subsection (g)(2).
 
 #### (7) Administrative appellate review
 
@@ -382,7 +382,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 This chapter, referred to in subsecs. (b)(2), (5), (d)(2)(F), (G), and (h)(3), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-The Social Security Act, referred to in subsec. (d)(3)(D)(iii), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(3)(D)(iii), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -472,7 +472,7 @@ Pub. L. 104–208, div. C, title IV, §412(e), Sept. 30, 1996, 110 Stat. 3009–
 
 "(1) The amendments made by subsection (a) \[amending this section\] shall apply with respect to hiring (or recruitment or referral) occurring on or after such date (not later than 18 months after the date of the enactment of this Act \[Sept. 30, 1996\]) as the Secretary of Homeland Security shall designate.
 
-"(2) The amendment made by subsection (b) \[amending this section\] shall apply to individuals hired on orafter 60 days after the date of the enactment of this Act.
+"(2) The amendment made by subsection (b) \[amending this section\] shall apply to individuals hired on or after 60 days after the date of the enactment of this Act.
 
 "(3) The amendment made by subsection (c) \[amending this section\] shall take effect on the date of the enactment of this Act.
 
@@ -522,7 +522,7 @@ In General.—The Secretary of Homeland Security shall conduct 3 pilot programs 
 
 "(b)
 
-Implementation Deadline; Termination.—The Secretary of Homeland Security shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Secretary of Homeland Security shall terminate a pilot program on September 30, 2015.
+Implementation Deadline; Termination.—The Secretary of Homeland Security shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act \[Sept. 30, 1996\]. Unless the Congress otherwise provides, the Secretary of Homeland Security shall terminate a pilot program on September 30, 2015 \[see bracketed notes set out below\].
 
 "(c)
 
@@ -570,7 +570,7 @@ State.—The term 'State' has the meaning given such term in section 101(a)(36) 
 
 "(a)
 
-Voluntary Election.—Subject to subsection (c)(3)(B), any person or other entity that conducts any hiring (or recruitment or referral) in a State in which a pilot program is operating may elect to participate in that pilot program. Except as specifically provided in subsection (e), the Secretary of Homeland Security may not require any person or other entity to participate in a pilot program.
+Voluntary Election.—Subject to subsection (c)(3)(B), any person or other entity that conducts anyhiring (or recruitment or referral) in a State in which a pilot program is operating may elect to participate in that pilot program. Except as specifically provided in subsection (e), the Secretary of Homeland Security may not require any person or other entity to participate in a pilot program.
 
 "(b)
 
@@ -788,7 +788,7 @@ Citizen Attestation Pilot Program.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraphs (3) through (5), the procedures applicable under thecitizen attestation pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a).
+In general.—Except as provided in paragraphs (3) through (5), the procedures applicable under the citizen attestation pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a).
 
 &emsp;"(2)
 
@@ -868,13 +868,13 @@ Initial Response.—The confirmation system shall provide confirmation or a tent
 
 "(c)
 
-Secondary Verification Process in Case of Tentative Nonconfirmation.—In cases of tentative nonconfirmation, the Secretary of Homeland Security shall specify, in consultation with the Commissioner of Social Security and the Commissioner of the Immigration and Naturalization Service, an available secondary verification process to confirm the validity of information provided and to provide a final confirmation or nonconfirmation within 10 working days after the date of the tentative nonconfirmation. When final confirmation or nonconfirmation is provided, the confirmation system shall provide an appropriate code indicating such confirmation or nonconfirmation.
+Secondary Verification Process in Case of Tentative Nonconfirmation.—In cases of tentative nonconfirmation, the Secretary of Homeland Security shall specify, in consultation with the Commissioner of Social Security and the Commissioner of the Immigration and Naturalization Service, an available secondaryverification process to confirm the validity of information provided and to provide a final confirmation or nonconfirmation within 10 working days after the date of the tentative nonconfirmation. When final confirmation or nonconfirmation is provided, the confirmation system shall provide an appropriate code indicating such confirmation or nonconfirmation.
 
 "(d)
 
 Design and Operation of System.—The confirmation system shall be designed and operated—
 
-&emsp;"(1) to maximize its reliability and ease of use by persons and other entities making elections undersection 402(a) of this division consistent with insulating and protecting the privacy and security of the underlying information;
+&emsp;"(1) to maximize its reliability and ease of use by persons and other entities making elections under section 402(a) of this division consistent with insulating and protecting the privacy and security of the underlying information;
 
 &emsp;"(2) to respond to all inquiries made by such persons and entities on whether individuals are authorized to be employed and to register all times when such inquiries are not received;
 
@@ -932,6 +932,10 @@ Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Se
 
 &emsp;"(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the E-Verify Program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a)."
 
+\[Pub. L. 117–328, div. O, title III, §301, Dec. 29, 2022, 136 Stat. 5227, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\]shall be applied by substituting 'September 30, 2023' for 'September 30, 2015'."\]
+
+\[Pub. L. 117–103, div. O, title II, §201, Mar. 15, 2022, 136 Stat. 787, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2022' for 'September 30, 2015'."\]
+
 \[Pub. L. 116–260, div. O, title I, §101, Dec. 27, 2020, 134 Stat. 2148, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2021' for 'September 30, 2015'."\]
 
 \[Pub. L. 116–94, div. I, title I, §101, Dec. 20, 2019, 133 Stat. 3019, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2020' for 'September 30, 2015'."\]
@@ -942,11 +946,11 @@ Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Se
 
 \[Pub. L. 115–31, div. F, title V, §539, May 5, 2017, 131 Stat. 432, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2017' for 'September 30, 2015'."\]
 
-\[Pub. L. 114–113, div. F, title V, §572, Dec. 18, 2015, 129 Stat. 2525, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2016' for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 (Public Law 114–53) \[Dec. 11, 2015, which had been substituted as applied by Pub. L. 114–53, div. B, §130, Sept. 30, 2015, 129 Stat. 509\]."\]
+\[Pub. L. 114–113, div. F, title V, §572, Dec. 18, 2015, 129 Stat. 2525, provided that: "Section 401(b) of the IllegalImmigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting 'September 30, 2016' for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 (Public Law 114–53) \[Dec. 11, 2015, which had been substituted as applied by Pub. L. 114–53, div. B, §130, Sept. 30, 2015, 129 Stat. 509\]."\]
 
 \[Pub. L. 110–329, div. A, §143, Sept. 30, 2008, 122 Stat. 3580, as amended by Pub. L. 111–8, div. J, §101, Mar. 11, 2009, 123 Stat. 988, provided that: "Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208\] (8 U.S.C. 1324a note) \[set out above\] shall be applied by substituting \['\]September 30, 2009\['\] for 'the 11-year period beginning on the first day the pilot program is in effect'."\]
 
-\[Pub. L. 107–128, §3, Jan. 16, 2002, 115 Stat. 2407, provided that: "The amendment made by this Act \[amending section 401(b) of Pub. L. 104–208, set out above\] shalltake effect on the date of the enactment of this Act \[Jan. 16, 2002\]."\]
+\[Pub. L. 107–128, §3, Jan. 16, 2002, 115 Stat. 2407, provided that: "The amendment made by this Act \[amending section 401(b) of Pub. L. 104–208, set out above\] shall take effect on the date of the enactment of this Act \[Jan. 16, 2002\]."\]
 
 #### Report on Additional Authority or Resources Needed for Enforcement of Employer Sanctions Provisions
 
@@ -1004,7 +1008,7 @@ Pub. L. 99–603, title I, §101(d), Nov. 6, 1986, 100 Stat. 3373, provided that
 
 #### Feasibility Study of Social Security Number Validation System
 
-Pub. L. 99–603, title I, §101(e), Nov. 6, 1986, 100 Stat. 3373, provided that: "The Secretary of Health and Human Services, acting through the Social Security Administration and in cooperation with the Attorney General and the Secretary of Labor, shall conduct a study of the feasibility and costs of establishing a social security number validation system to assist in carrying out the purposes of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\], and of the privacy concerns that would be raised by the establishment of such a system. The Secretary shall submit to the Committees on Ways and Means and Judiciary of the House of Representatives and to the Committees on Finance and Judiciary of the Senate, within 2 years after the date of the enactment of this Act \[Nov. 6, 1986\], a full and complete report on the results of the study together with such recommendations as may be appropriate."
+Pub. L. 99–603, title I, §101(e), Nov. 6, 1986, 100 Stat. 3373, provided that: "The Secretary of Health and Human Services, acting through the Social Security Administration and in cooperation with the Attorney General and the Secretary of Labor, shall conduct a study of the feasibility and costs of establishing a social security number validation system to assist in carrying out the purposes of section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\], and of the privacy concerns that would be raised by the establishment of such a system. The Secretary shall submit to the Committees on Ways and Means and Judiciary of the House of Representatives and to the Committees onFinance and Judiciary of the Senate, within 2 years after the date of the enactment of this Act \[Nov. 6, 1986\], a full and complete report on the results of the study together with such recommendations as may be appropriate."
 
 #### Reports on Unauthorized Alien Employment
 
@@ -1012,7 +1016,7 @@ Pub. L. 99–603, title IV, §402, Nov. 6, 1986, 100 Stat. 3441, provided that: 
 
 &emsp;"(1) an analysis of the adequacy of the employment verification system provided under subsection (b) of that section;
 
-&emsp;"(2) a description of the status of the development and implementation of changes in that system undersubsection (d) of that section, including the results of any demonstration projects conducted under paragraph (4) of such subsection; and
+&emsp;"(2) a description of the status of the development and implementation of changes in that system under subsection (d) of that section, including the results of any demonstration projects conducted under paragraph (4) of such subsection; and
 
 &emsp;"(3) an analysis of the impact of the enforcement of that section on—
 
@@ -1054,13 +1058,13 @@ Sec. 3. Using the procedures established pursuant to 8 U.S.C. 1324a(e): (a) the 
 
 (c) the Attorney General shall hold such hearings as are required under 8 U.S.C. 1324a(e) to determine whether an entity covered under section 3(a) is not in compliance with the INA employment provisions.
 
-Sec. 4. (a) Whenever the Secretary of Homeland Security or the Attorney General determines that a contractor or an organizational unit thereof is not in compliance with the INA employment provisions, the Secretary of Homeland Security or the Attorney General shall transmit that determination to the appropriate contracting agency and such other Federal agencies as the Secretary of Homeland Security or the Attorney General may determine. Upon receipt of such determination from the Secretary of Homeland Security or the Attorney General, the head of the appropriate contracting agency shall consider the contractor or an organizational unit thereof for debarment as well as for such other action as may be appropriate in accordance with the procedures and standards prescribed by the Federal Acquisition Regulation.
+Sec. 4. (a) Whenever the Secretary of Homeland Security or the Attorney General determines that a contractor or an organizational unit thereof is not in compliance with the INA employment provisions, the Secretary of Homeland Security or the Attorney General shall transmit that determination to the appropriate contracting agency and such other Federal agencies as the Secretary of Homeland Security or the Attorney General may determine. Upon receipt of such determination from the Secretary of Homeland Security or the Attorney General, the head of the appropriate contracting agency shall consider the contractor or an organizational unit thereof for debarment as well as for such other action as may be appropriate in accordancewith the procedures and standards prescribed by the Federal Acquisition Regulation.
 
 (b) The head of the contracting agency may debar the contractor or an organizational unit thereof based on the determination of the Secretary of Homeland Security or the Attorney General that it is not in compliance with the INA employment provisions. Such determination shall not be reviewable in the debarment proceedings.
 
 (c) The scope of the debarment generally should be limited to those organizational units of a Federal contractor that the Secretary of Homeland Security or the Attorney General finds are not in compliance with the INA employment provisions.
 
-(d) The period of the debarment shall be for 1 year and may be extended for additional periods of 1 year if, using the procedures established pursuant to 8 U.S.C. 1324a(e), the Secretary of Homeland Security or the Attorney General determines that the organizational unitof the Federal contractor continues to be in violation of the INA employment provisions.
+(d) The period of the debarment shall be for 1 year and may be extended for additional periods of 1 year if, using the procedures established pursuant to 8 U.S.C. 1324a(e), the Secretary of Homeland Security or the Attorney General determines that the organizational unit of the Federal contractor continues to be in violation of the INA employment provisions.
 
 (e) The Administrator of General Services shall list a debarred contractor or an organizational unit thereof on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs and the contractor or an organizational unit thereof shall be ineligible to participate in any procurement or nonprocurement activities.
 

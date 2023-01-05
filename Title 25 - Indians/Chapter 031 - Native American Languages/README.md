@@ -8,6 +8,7 @@
 | [2904\.](%C2%A7%2002904%20-%20No%20restrictions.md) | No restrictions. |
 | [2905\.](%C2%A7%2002905%20-%20Evaluations.md) | Evaluations. |
 | [2906\.](%C2%A7%2002906%20-%20Use%20of%20English.md) | Use of English. |
+| [2907\.](%C2%A7%2002907%20-%20Survey%20on%20Native%20American%20languages.md) | Survey on Native American languages. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -22,3 +23,4 @@
 - [&sect; 02904 - No restrictions](%C2%A7%2002904%20-%20No%20restrictions.md)
 - [&sect; 02905 - Evaluations](%C2%A7%2002905%20-%20Evaluations.md)
 - [&sect; 02906 - Use of English](%C2%A7%2002906%20-%20Use%20of%20English.md)
+- [&sect; 02907 - Survey on Native American languages](%C2%A7%2002907%20-%20Survey%20on%20Native%20American%20languages.md)

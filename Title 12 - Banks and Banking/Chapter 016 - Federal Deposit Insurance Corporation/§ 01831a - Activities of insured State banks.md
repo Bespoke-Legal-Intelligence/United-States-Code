@@ -114,7 +114,7 @@
 
 #### (1) In general
 
-&emsp;No provision of this chapter shall be construed as prohibiting or impairing the sale or underwriting of savings bank life insurance, or the ownership of stock in a savings bank lifeinsurance company, by any insured bank which—
+&emsp;No provision of this chapter shall be construed as prohibiting or impairing the sale or underwriting of savings bank life insurance, or the ownership of stock in a savings bank life insurance company, by any insured bank which—
 
 &emsp;&emsp;(A) is located in the Commonwealth of Massachusetts or the State of New York or Connecticut; and
 
@@ -242,7 +242,7 @@ This section shall not be construed as limiting the authority of any appropriate
 
 #### References in Text
 
-The Investment Company Act of 1940, referred to in subsec. (f)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (f)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 Section 1831u of this title, referred to in subsec. (j)(4), was subsequently amended, and subsec. (f) of section 1831u no longer defines the terms "host State", "home State", and "out-of-State bank". However, such terms are defined elsewhere in that section.
 
@@ -268,7 +268,7 @@ Subsecs. (e)(2)(B)(ii), (f)(6)(B). Pub. L. 109–173, §8(a)(31)(C), substituted
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–208, §2217(1), substituted "Permissible activities" for "In general" in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and realigned margins, and added par. (2).
 
-Subsec. (a)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of "Deposit InsuranceFund" for "appropriate deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (a)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of "Deposit Insurance Fund" for "appropriate deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 Subsec. (d)(1)(A). Pub. L. 104–208, §2704(d)(14)(W), which directed substitution of "Deposit Insurance Fund" for "appropriate deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 

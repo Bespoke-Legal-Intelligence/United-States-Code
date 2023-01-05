@@ -80,7 +80,7 @@ Notwithstanding any other provision of law, this subsection shall apply to river
 
 #### (g) No extension of subsidy to new policies or lapsed policies
 
-The Administrator shall not provide flood insurance to prospective insureds at rates less than those estimated under subsection (a)(1), as required by paragraph (2) of that subsection, for—
+The Administrator shall not provide flood insurance to prospective insureds at rates lessthan those estimated under subsection (a)(1), as required by paragraph (2) of that subsection, for—
 
 &emsp;(1) any policy under the flood insurance program that has lapsed in coverage,,<sup>1</sup> unless the decision of the policy holder to permit a lapse in flood insurance coverage was as a result of the property covered by the policy no longer being required to retain such coverage; or
 
@@ -156,7 +156,7 @@ Subsecs. (g), (h). Pub. L. 112–141, §100205(a)(1)(B), added subsecs. (g) and 
 
 <b>1990</b>—Subsec. (a)(1)(B)(iii). Pub. L. 101–508, §2302(e)(1)(A)–(C), added cl. (iii).
 
-Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon ", and which, together with a fee charged to policyholders that shall not be not subject to any agents' commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title)".
+Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon ", and which, together with a fee charged to policyholders that shall not be not subject to any agents' commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying outthe flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title)".
 
 <b>1983</b>—Subsecs. (a) to (c), (e). Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
 
@@ -168,7 +168,7 @@ Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon ",
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–141, div. F, title II, §100205(a)(2), July 6, 2012, 126 Stat. 918, provided that: "The amendmentsmade by paragraph (1) \[amending this section\] shall become effective 90 days after the date of enactment of this Act \[July 6, 2012\]."
+Pub. L. 112–141, div. F, title II, §100205(a)(2), July 6, 2012, 126 Stat. 918, provided that: "The amendments made by paragraph (1) \[amending this section\] shall become effective 90 days after the date of enactment of this Act \[July 6, 2012\]."
 
 #### Effective Date
 
@@ -340,11 +340,11 @@ Termination.—The authority provided under paragraphs (1) and (2) shall termina
 
 #### Fees
 
-Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: "That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C. 4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts."
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: "That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C.4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts."
 
 #### Study of Economic Effects of Charging Actuarially Based Premium Rates for Pre-FIRM Structures
 
-Pub. L. 103–325, title V, §578, Sept. 23, 1994, 108 Stat. 2284, required the Director of the Federal Emergency Management Agency to conduct a study of the economic effects that would result from increasing premium rates for flood insurance coverage for pre-FIRMstructures and submit a report to Congress no later than 12 months after Sept. 23, 1994.
+Pub. L. 103–325, title V, §578, Sept. 23, 1994, 108 Stat. 2284, required the Director of the Federal Emergency Management Agency to conduct a study of the economic effects that would result from increasing premium rates for flood insurance coverage for pre-FIRM structures and submit a report to Congress no later than 12 months after Sept. 23, 1994.
 
 #### Sea Level Rise Study
 

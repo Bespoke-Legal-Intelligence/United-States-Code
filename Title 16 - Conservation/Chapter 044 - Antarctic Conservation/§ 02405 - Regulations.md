@@ -32,11 +32,11 @@ The regulations to be issued under subsection (a)(1) and (2) of this section sha
 
 #### References in Text
 
-The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to chapter 33 (§1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of Title 33 and Tables.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior toamendment, text consisted of subsec. (a) "In General" which related to requirement that Director prescribe regulations to implement this chapter and subsec. (b) "Specific Regulations" which related to required content of regulations.
+<b>1996</b>—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsec. (a) "In General"which related to requirement that Director prescribe regulations to implement this chapter and subsec. (b) "Specific Regulations" which related to required content of regulations.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

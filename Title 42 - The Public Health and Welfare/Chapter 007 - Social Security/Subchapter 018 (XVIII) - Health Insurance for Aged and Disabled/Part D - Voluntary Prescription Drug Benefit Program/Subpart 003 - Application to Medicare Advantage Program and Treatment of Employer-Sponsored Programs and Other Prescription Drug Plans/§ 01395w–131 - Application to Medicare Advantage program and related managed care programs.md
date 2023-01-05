@@ -100,7 +100,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (7) Treatment of incurred costs without regard to formulary
 
-&emsp;The exclusion of costs incurred for covered part D drugs which are not included (or treated as being included) in a plan's formulary under section 1395w–102(b)(4)(B)(i) of this title shall not apply insofar as the plan does not utilize a formulary.
+&emsp;The exclusion of costs incurred for covered part D drugs which are not included (or treated as being included) in a plan's formulary under section 1395w–102(b)(4)(C)(i) of this title shall not apply insofar as the plan does not utilize a formulary.
 
 #### (e) Application to reasonable cost reimbursement contractors
 
@@ -124,11 +124,17 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (2) Limitation on enrollment
 
-&emsp;In applying paragraph (1), the organization may not enroll part D eligible individuals who are not enrolled under the PACE program involved.
+&emsp;In applying paragraph (1), the organization may not enroll part D eligible individuals whoare not enrolled under the PACE program involved.
 
 #### (3) Bids not included in determining standardized bid amount
 
 &emsp;The bid of an organization offering prescription drug coverage under this subsection is not be taken into account in computing any average benchmark bid amount and low-income benchmark premium amount under this part.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–21, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2122.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–21, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2122; amended Pub. L. 117–169, title I, §11201(e)(4), Aug. 16, 2022, 136 Stat. 1891.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (d)(7). Pub. L. 117–169 substituted "section 1395w–102(b)(4)(C)(i)" for "section 1395w–102(b)(4)(B)(i)".
 

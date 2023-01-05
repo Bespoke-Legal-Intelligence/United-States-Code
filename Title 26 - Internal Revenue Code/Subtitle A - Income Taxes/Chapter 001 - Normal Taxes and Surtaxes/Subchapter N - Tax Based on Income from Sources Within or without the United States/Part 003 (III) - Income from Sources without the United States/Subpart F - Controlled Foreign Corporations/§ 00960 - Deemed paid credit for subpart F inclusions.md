@@ -32,7 +32,7 @@ For purposes of subpart A of this part—
 
 &emsp;&emsp;(A) either (i) chose to have the benefits of subpart A of this part for a taxable year beginning after September 30, 1993, in which he was required under section 951(a) to include any amount in his gross income, or (ii) did not pay or accrue for such taxable year any income, war profits, or excess profits taxes to any foreign country or to any possession of the United States,
 
-&emsp;&emsp;(B) chooses to have the benefits of subpart A of this part for any taxable year in which he receives 1 or more distributions oramounts which are excludable from gross income under section 959(a) and which are attributable to amounts included in his gross income for taxable years referred to in subparagraph (A), and
+&emsp;&emsp;(B) chooses to have the benefits of subpart A of this part for any taxable year in which he receives 1 or more distributions or amounts which are excludable from gross income under section 959(a) and which are attributable to amounts included in his gross income for taxable years referred to in subparagraph (A), and
 
 &emsp;&emsp;(C) for the taxable year in which such distributions or amounts are received, pays, or is deemed to have paid, or accrues income, war profits, or excess profits taxes to a foreign country or to any possession of the United States with respect to such distributions or amounts,
 
@@ -52,7 +52,7 @@ For purposes of subpart A of this part—
 
 &emsp;&emsp;&emsp;(ii) the amount of any income, war profits, and excess profits taxes paid, or deemed paid, or accrued to any foreign country or possession of the United States which were allowable as a credit under section 901 for such taxable year and which would not have been allowable but for the inclusions in gross income described in clause (i).
 
-> &emsp;&emsp;Proper reductions in the amount added to the account under the preceding sentence for any taxable year shall be made for any increase in the credit allowable under section 901 for such taxable year by reason of a carryback if such increase would not have been allowable but for the inclusions in gross income described in clause (i).
+> &emsp;&emsp;Proper reductions in the amount added to the account under the preceding sentence for any taxable year shall be made for any increase in the credit allowable under section 901 for such taxable year by reason of acarryback if such increase would not have been allowable but for the inclusions in gross income described in clause (i).
 
 #### (C) Decreases in account
 
@@ -126,7 +126,7 @@ Subsecs. (e), (f). Pub. L. 115–97, §14301(b)(2), added subsecs. (e) and (f).
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–226 added subsec. (c).
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34 amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "For purposes of subpart A of this part, if there is included, under section 951(a), in the gross income of a domestic corporation any amount attributable to earnings and profits—
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34 amended heading and text of par. (1) generally. Prior to amendment, textread as follows: "For purposes of subpart A of this part, if there is included, under section 951(a), in the gross income of a domestic corporation any amount attributable to earnings and profits—
 
 &emsp;"(A) of a foreign corporation (hereafter in this subsection referred to as the 'first foreign corporation') at least 10 percent of the voting stock of which is owned by such domestic corporation, or
 

@@ -28,7 +28,7 @@ Section effective Jan. 1, 2022, with additional provisions for delayed implement
 
 #### Pilot Program on Military Working Dog and Explosives Detection Canine Health and Excellence
 
-Pub. L. 117–81, div. A, title III, §381, Dec. 27, 2021, 135 Stat. 1671, provided that:
+Pub. L. 117–81, div. A, title III, §381, Dec. 27, 2021, 135 Stat. 1671, as amended by Pub. L. 117–263, div. A, title III, §386(a), Dec. 23, 2022, 136 Stat. 2544, provided that:
 
 "(a)
 
@@ -50,7 +50,7 @@ Pilot Program.—Not later than September 31, 2022, the Secretary of Defense sha
 
 "(b)
 
-Termination.—The authority to carry out the pilot program under subsection (a) shall terminate on October 1, 2024.
+Termination.—The authority to carry out the pilot program under subsection (a) shall terminate on October 1, 2025.
 
 "(c)
 
@@ -60,7 +60,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'covered national domestic canine association' means a national domestic canine association with demonstrated expertise in the breeding and pedigree of working canine lines.
 
-&emsp;"(3) The term 'explosives detection military working dog' means a canine that, in connection with the work duties of the canine performed for the Department of Defense, is certified and trained to detect odors indicating the presence of explosives in a givenobject or area, in addition to the performance of such other duties for the Department as may be assigned."
+&emsp;"(3) The term 'explosives detection military working dog' means a canine that, in connection with the work duties of the canine performed for the Department of Defense, is certified and trained to detect odors indicating the presence of explosives in a given object or area, in addition to the performance of such other duties for the Department as may be assigned."
 
 #### Restriction on Department of Defense Procurement of Certain Items Containing Perfluorooctane Sulfonate or Perfluorooctanoic Acid
 

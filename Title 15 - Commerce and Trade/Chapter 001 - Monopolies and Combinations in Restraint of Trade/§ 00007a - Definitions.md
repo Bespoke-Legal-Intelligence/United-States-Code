@@ -32,7 +32,7 @@ In sections 7a to 7a–3 of this title:
 
 #### References in Text
 
-Sections 7a to 7a–3 of this title, referred to in text, was in the original "this subtitle", meaning subtitle A (§§211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a–1 to 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under section 1 of this title. For complete classification of subtitle A to the Code, see Tables.
+Sections 7a to 7a–3 of this title, referred to in text, was in the original "this subtitle", meaning subtitle A\(§§211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a–1 to 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under section 1 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 #### Codification
 
@@ -40,7 +40,7 @@ Section was formerly set out in a note under section 1 of this title, prior to t
 
 #### Amendments
 
-<b>2020</b>—Pars. (6), (7). Pub. L. 116–159 redesignated par. (7) as (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: "The term 'marker' means an assurance given by the Antitrust Division to a candidate for corporate leniency that no othercompany will be considered for leniency, for some finite period of time, while the candidate is given an opportunity to perfect its leniency application."
+<b>2020</b>—Pars. (6), (7). Pub. L. 116–159 redesignated par. (7) as (6) and struck out former par. (6). Prior to amendment, text of par. (6) read as follows: "The term 'marker' means an assurance given by the Antitrust Division to a candidate for corporate leniency that no other company will be considered for leniency, for some finite period of time, while the candidate is given an opportunity to perfect its leniency application."
 
 <b>2010</b>—Pars. (6), (7). Pub. L. 111–190 added par. (6) and redesignated former par. (6) as (7).
 

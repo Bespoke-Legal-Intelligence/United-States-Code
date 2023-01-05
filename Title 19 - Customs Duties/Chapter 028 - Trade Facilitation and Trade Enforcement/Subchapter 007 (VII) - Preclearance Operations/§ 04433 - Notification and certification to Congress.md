@@ -78,7 +78,7 @@ Not later than 30 days before a substantially amended preclearance agreement wit
 
 #### (2) Submission
 
-&emsp;If the Commissioner has not filled the positions of U.S. Customs and Border Protection officers that were reassigned to preclearance operations and determines that U.S. Customs and Border Protection processing times at domestic ports of entry from which U.S. Customs and Border Protection officers were reassigned to preclearance operations have significantly increased, the Commissioner, not later than 60 days after making such a determination, shall submit to the appropriate congressional committees an implementation plan for reducingprocessing times at the domestic ports of entry with such increased processing times.
+&emsp;If the Commissioner has not filled the positions of U.S. Customs and Border Protection officers that were reassigned to preclearance operations and determines that U.S. Customs and Border Protection processing times at domestic ports of entry from which U.S. Customs and Border Protection officers were reassigned to preclearance operations have significantly increased, the Commissioner, not later than 60 days after making such a determination, shall submit to the appropriate congressional committees an implementation plan for reducing processing times at the domestic ports of entry with such increased processing times.
 
 #### (3) Suspension
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Each employer and employee shall comply with regulations on commercial motor vehicle safety prescribed by the Secretary of Transportation under this subchapter that apply to the employer's or employee's conduct.
+In General.—Each employer and employee shall comply with regulations on commercialmotor vehicle safety prescribed by the Secretary of Transportation under this subchapter that apply to the employer's or employee's conduct.
 
 (b)
 

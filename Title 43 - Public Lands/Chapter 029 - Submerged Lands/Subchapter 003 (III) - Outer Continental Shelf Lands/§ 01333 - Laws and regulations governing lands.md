@@ -46,7 +46,7 @@ For the purposes of the National Labor Relations Act, as amended \[29 U.S.C. 151
 
 (1) The Secretary of the Department in which the Coast Guard is operating shall have authority to promulgate and enforce such reasonable regulations with respect to lights and other warning devices, safety equipment, and other matters relating to the promotion of safety of life and property on the artificial islands, installations, and other devices referred to in subsection (a) or on the waters adjacent thereto, as he may deem necessary.
 
-(2) The Secretary of the Department in which the Coast Guard is operating may mark for theprotection of navigation any artificial island, installation, or other device referred to in subsection (a) whenever the owner has failed suitably to mark such island, installation, or other device in accordance with regulations issued under this subchapter, and the owner shall pay the cost of such marking.
+(2) The Secretary of the Department in which the Coast Guard is operating may mark for the protection of navigation any artificial island, installation, or other device referred to in subsection (a) whenever the owner has failed suitably to mark such island, installation, or other device in accordance with regulations issued under this subchapter, and the owner shall pay the cost of such marking.
 
 #### (e) Authority of Secretary of the Army to prevent obstruction to navigation
 
@@ -62,15 +62,15 @@ The specific application by this section of certain provisions of law to the sub
 
 #### References in Text
 
-The Longshore and Harbor Workers' Compensation Act, referred to in subsec. (b), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, which is classified generally to chapter 18 (§901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
+The Longshore and Harbor Workers' Compensation Act, referred to in subsec. (b), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, which is classified generally to chapter 18 (§901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
 
-The National Labor Relations Act, as amended, referred to in subsec. (c), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
+The National Labor Relations Act, as amended, referred to in subsec. (c), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
 #### Amendments
 
 <b>2021</b>—Subsec. (a)(1). Pub. L. 116–283 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Constitution and laws and civil and political jurisdiction of the United States are extended to the subsoil and seabed of the outer Continental Shelf and to all artificial islands, and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State: <i>Provided, however</i>, That mineral leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter."
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–426 substituted "Longshore and Harbor Workers' Compensation Act" for "Longshoremen's and Harbor Workers' Compensation Act".
+<b>1984</b>—Subsec. (b). Pub. L. 98–426 substituted "Longshore and Harbor Workers' Compensation Act"for "Longshoremen's and Harbor Workers' Compensation Act".
 
 <b>1978</b>—Subsec. (a)(1). Pub. L. 95–372, §203(a), substituted ", and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources," for "and fixed structures which may be erected thereon for the purpose of exploring for, developing, removing, and transporting resources therefrom,".
 
@@ -94,7 +94,7 @@ Subsecs. (f), (g). Pub. L. 95–372, §203(e)(3), (h), redesignated subsec. (g) 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "settling".</i>
 

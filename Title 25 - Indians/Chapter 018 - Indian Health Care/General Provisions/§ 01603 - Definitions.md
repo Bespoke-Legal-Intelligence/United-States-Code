@@ -88,7 +88,7 @@ In this chapter:
 
 &emsp;The term "fetal alcohol syndrome" or "FAS" means a syndrome in which, with a history of maternal alcohol consumption during pregnancy, the following criteria are met:
 
-&emsp;&emsp;(A) Central nervous system involvement such as mental retardation, developmentaldelay, intellectual deficit, microencephaly, or neurologic abnormalities.
+&emsp;&emsp;(A) Central nervous system involvement such as mental retardation, developmental delay, intellectual deficit, microencephaly, or neurologic abnormalities.
 
 &emsp;&emsp;(B) Craniofacial abnormalities with at least 2 of the following: microophthalmia, short palpebral fissures, poorly developed philtrum, thin upper lip, flat nasal bridge, and short upturned nose.
 
@@ -246,7 +246,7 @@ In this chapter:
 
 #### (23) Telemedicine
 
-&emsp;The term "telemedicine" means a telecommunications link to an end user through the use of eligible equipment that electronically links health professionals or patients and health professionals at separate sites in order to exchange health care information in audio, video, graphic, or other format for the purpose of providing improved health care services.
+&emsp;The term "telemedicine" means a telecommunications link to an end user through the use of eligible equipment that electronically links health professionals or patientsand health professionals at separate sites in order to exchange health care information in audio, video, graphic, or other format for the purpose of providing improved health care services.
 
 #### (24) Tribal college or university
 
@@ -294,7 +294,7 @@ Subsection (c)(1) through (4) of this section, referred to in par. (28), was red
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 104 of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 104 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 #### Amendments
 

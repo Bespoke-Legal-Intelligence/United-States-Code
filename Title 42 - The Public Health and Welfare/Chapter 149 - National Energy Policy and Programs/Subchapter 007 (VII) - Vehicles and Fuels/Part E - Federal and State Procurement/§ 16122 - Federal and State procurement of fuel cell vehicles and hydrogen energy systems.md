@@ -66,7 +66,7 @@ The purposes of this section are—
 
 &emsp;&emsp;Not later than December 31, 2006, the Secretary shall—
 
-&emsp;&emsp;&emsp;(i) in cooperation with the Task Force, promulgate regulations for the period of 2008 through 2010 that extend and augment energy savings goals for each Federal agency, in accordance with any Executive order issued after March 2000; and
+&emsp;&emsp;&emsp;(i) in cooperation with the Task Force, promulgate regulations for the period of 2008 through 2010 that extend and augmentenergy savings goals for each Federal agency, in accordance with any Executive order issued after March 2000; and
 
 &emsp;&emsp;&emsp;(ii) promulgate regulations to expand the minimum Federal fleet requirement and credit allowances for fuel cell vehicle systems under section 13212 of this title.
 
@@ -92,7 +92,7 @@ The purposes of this section are—
 
 #### (2) Incentives
 
-&emsp;In carrying out the cooperative program, the Secretary may offer incentive payments to aState agency to assist with the cost of planning, differential purchases, and administration.
+&emsp;In carrying out the cooperative program, the Secretary may offer incentive payments to a State agency to assist with the cost of planning, differential purchases, and administration.
 
 #### (e) Authorization of appropriations
 

@@ -16,7 +16,7 @@
 
 &emsp;(7) the reduction or elimination of discharges during ballasting, deballasting, tank cleaning, cargo handling, or other such activity.
 
-(b) In prescribing regulations under subsection (a) of this section, the Secretary shall considerthe types and grades of cargo permitted to be on board a tank vessel.
+(b) In prescribing regulations under subsection (a) of this section, the Secretary shall consider the types and grades of cargo permitted to be on board a tank vessel.
 
 (c) In prescribing regulations under subsection (a) of this section, the Secretary shall establish procedures for consulting with, and receiving and considering the views of—
 
@@ -208,7 +208,7 @@ Report.—Not later than 18 months after the date of enactment of this Act \[Oct
 
 &emsp;"(5)
 
-Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oilfrom a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
+Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oil from a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
 
 "(b)
 
@@ -286,7 +286,7 @@ Use.—No sooner than 1 year after the Secretary prescribes regulations under su
 
 &emsp;"(2) tank level or pressure monitoring devices,
 
-> which are referred to in subsection (a) and which meet any standards established by the Secretary under subsection (a), on vessels constructed or adapted to carry,or that carry, oil in bulk as cargo or cargo residue on the navigable waters and the waters of the exclusive economic zone."
+> which are referred to in subsection (a) and which meet any standards established by the Secretary under subsection (a), on vessels constructed or adapted to carry, or that carry, oil in bulk as cargo or cargo residue on the navigable waters and the waters of the exclusive economic zone."
 
 #### Tanker Navigation Safety Standards Study
 

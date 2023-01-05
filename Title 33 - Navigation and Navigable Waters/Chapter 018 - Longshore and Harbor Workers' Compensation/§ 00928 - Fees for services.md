@@ -2,7 +2,7 @@
 
 #### (a) Attorney's fee; successful prosecution of claim
 
-If the employer or carrier declines to pay any compensation on or before the thirtieth day after receiving written notice of a claim for compensation having been filed from the deputy commissioner, on the ground that there is no liability for compensation within the provisions of this chapter and the person seeking benefits shall thereafter have utilized the services of an attorney at law in the successful prosecution of his claim, there shall be awarded, in addition to the award of compensation, in a compensation order, a reasonable attorney's fee against the employer or carrier in an amount approved by the deputy commissioner, Board, or court, as the case may be, which shall be paid directly by the employer or carrier to the attorney for the claimant in a lump sum after the compensation order becomes final.
+If the employer or carrier declines to pay any compensation on or before the thirtieth day after receiving written notice of a claim for compensation having been filed from the deputy commissioner, on the ground that there is no liability for compensation within the provisionsof this chapter and the person seeking benefits shall thereafter have utilized the services of an attorney at law in the successful prosecution of his claim, there shall be awarded, in addition to the award of compensation, in a compensation order, a reasonable attorney's fee against the employer or carrier in an amount approved by the deputy commissioner, Board, or court, as the case may be, which shall be paid directly by the employer or carrier to the attorney for the claimant in a lump sum after the compensation order becomes final.
 
 #### (b) Attorney's fee; successful prosecution for additional compensation; independent medical evaluation of disability controversy; restriction of other assessments
 
@@ -10,7 +10,7 @@ If the employer or carrier pays or tenders payment of compensation without an aw
 
 #### (c) Approval; payment; lien
 
-In all cases fees for attorneys representing the claimant shall be approved in the manner herein provided. If any proceedings are had before the Board or any court for review of any action, award, order, or decision, the Board or court may approve an attorney's fee for the work done before it by the attorney for the claimant. An approved attorney's fee, in cases in which theobligation to pay the fee is upon the claimant, may be made a lien upon the compensation due under an award; and the deputy commissioner, Board, or court shall fix in the award approving the fee, such lien and manner of payment.
+In all cases fees for attorneys representing the claimant shall be approved in the manner herein provided. If any proceedings are had before the Board or any court for review of any action, award, order, or decision, the Board or court may approve an attorney's fee for the work done before it by the attorney for the claimant. An approved attorney's fee, in cases in which the obligation to pay the fee is upon the claimant, may be made a lien upon the compensation due under an award; and the deputy commissioner, Board, or court shall fix in the award approving the fee, such lien and manner of payment.
 
 #### (d) Costs; witnesses' fees and mileage; prohibition against diminution of compensation to claimant
 

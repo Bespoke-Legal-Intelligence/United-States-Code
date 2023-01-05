@@ -24,7 +24,7 @@
 
 &emsp;(B) such annex shall be submitted to the congressional defense committees, the Congressional Budget Office, the Comptroller General of the United States, and the Congressional Research Service.
 
-(e) Each future-years defense program under this subsection shall be accompanied by a certification by the Under Secretary of Defense (Comptroller), in the case of the Department of Defense, and the comptroller of each military department, in the case of such military department, that any information entered into the Standard Data Collection System of the Department of Defense, the Comptroller Information System, or any other data system, as applicable, for purposes of assembling such future-years defense program was accurate.
+(e) Each future-years defense program under this subsection shall be accompanied by a certification by the Under Secretary of Defense (Comptroller), in the case of the Department of Defense, and the comptroller of each militarydepartment, in the case of such military department, that any information entered into the Standard Data Collection System of the Department of Defense, the Comptroller Information System, or any other data system, as applicable, for purposes of assembling such future-years defense program was accurate.
 
 (Added Pub. L. 101–189, div. A, title XVI, §1602(a)(1), Nov. 29, 1989, 103 Stat. 1596, §114a; amended Pub. L. 101–510, div. A, title XIV, §1402(a)(1)–(3)(A), Nov. 5, 1990, 104 Stat. 1674; renumbered §221 and amended Pub. L. 102–484, div. A, title X, §1002(c), Oct. 23, 1992, 106 Stat. 2480; Pub. L. 115–91, div. A, title X, §1042(a)–(c), Dec. 12, 2017, 131 Stat. 1553, 1554.)
 
@@ -55,6 +55,48 @@ Subsecs. (b)(2)(A), (c). Pub. L. 101–510, §1402(a)(2)(A), substituted "multiy
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–91, div. A, title X, §1042(d), Dec. 12, 2017, 131 Stat. 1554, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 12, 2017\], and shall apply to future-years defense programs submitted at the time of budgets of the President for fiscal years beginning after fiscal year 2018."
+
+#### Budget Display for Cryptographic Modernization Activities for Certain Systems of the Department of Defense
+
+Pub. L. 117–263, div. A, title XV, §1512, Dec. 23, 2022, 136 Stat. 2893, provided that:
+
+"(a)
+
+Display Required.—Beginning with fiscal year 2024, and for each fiscal year thereafter, the Secretary of Defense shall include with the budget justification materials submitted to Congress in support of the budget of the Department of Defense for that fiscal year (as submitted with the budget of the President under section 1105(a) of title 31, United States Code) a consolidated cryptographic modernization budget justification display for each Department of Defense system or asset that is protected by cryptography and subject to certification by the National Security Agency (in this section, referred to as 'covered items').
+
+"(b)
+
+Elements.—Each display included under subsection (a) for a fiscal year shall include the following:
+
+&emsp;"(1)
+
+Cryptographic modernization activities.—(A) Whether, in accordance with the schedule established under section 153(a) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 10 U.S.C. 142 note), the cryptographic modernization for each covered item is pending, in progress, complete, or, pursuant to paragraph (2) of such section, extended.
+
+&emsp;"(B) The funding required for the covered fiscal year and for each subsequent fiscal year of the Future Years Defense Program to complete the pending or in progress cryptographic modernization by the required replacement date of each covered item.
+
+&emsp;"(C)(i) A description of deviations between the funding annually required to complete the modernization prior to the required replacement date and the funding requested and planned within the Future Years Defense Program.
+
+&emsp;"(ii) An explanation—
+
+&emsp;&emsp;"(I) justifying the deviations; and
+
+&emsp;&emsp;"(II) of whether or how any delays resulting from a deviation shall be overcome to meet the required replacement date.
+
+&emsp;"(D) A description of operational or security risks resulting from each deviation from the modernization schedule required to meet replacement dates, including a current intelligence assessment of adversary progress on exploiting the covered item.
+
+&emsp;"(E) For any covered item that remains in service past its required replacement date, a description of the number of times the covered item has been extended and the circumstances attending each such extension.
+
+&emsp;"(2)
+
+Mitigation activities for covered items.—(A) Whether activities to mitigate the risks associated with projected failure to replace a covered item by the required replacement date are planned, in progress, or complete.
+
+&emsp;"(B) The funding required for the covered fiscal year and for each subsequent fiscal year for required mitigation activities to complete any planned, pending, or in progress mitigation activities for a covered item.
+
+&emsp;"(C) A description of the activities planned in the covered fiscal year and each subsequent fiscal year to complete mitigation activities and an explanation of the efficacy of the mitigations.
+
+"(c)
+
+Form.—The display required by subsection (a) shall be included in unclassified form, but may include a classified annex."
 
 #### Data on Phase III Small Business Innovation Research and Small Business Technology Transfer Program Awards
 
@@ -130,7 +172,7 @@ Elements of budgetary details.—At a minimum, the budgetary details accompanyin
 
 &emsp;&emsp;&emsp;"(I) any significant change in methodology used to determine the budgetary details included in the report and the categories used to organize such details; and
 
-&emsp;&emsp;&emsp;"(II) a narrative justification for any significant changes in the amount requested as compared to the amount requested and the amountexpended for the fiscal year preceding the fiscal year of the budget covered by the report; and
+&emsp;&emsp;&emsp;"(II) a narrative justification for any significant changes in the amount requested as compared to the amount requested and the amount expended for the fiscal year preceding the fiscal year of the budget covered by the report; and
 
 &emsp;&emsp;"(iii) with respect to the estimated direct and indirect expenditures for the operation in the budget covered by the report—
 
@@ -158,7 +200,7 @@ Definitions.—In this subsection:
 
 #### Report and Budget Details Regarding Operation Spartan Shield
 
-Pub. L. 116–283, div. A, title XII, §1225, Jan. 1, 2021, 134 Stat. 3931, provided that:
+Pub. L. 116–283, div. A, title XII, §1225, Jan. 1, 2021, 134 Stat. 3931, as amended by Pub. L. 117–263, div. A, title X, §1055, Dec. 23, 2022, 136 Stat. 2778, provided that:
 
 "(a)
 
@@ -180,9 +222,29 @@ Elements of Report.—At a minimum, the report required by subsection (a) shall 
 
 &emsp;"(5) a description of the forces deployed under the operation, their deployment locations, and activities undertaken;
 
-&emsp;"(6) the information required under subsection (c); and
+&emsp;"(6) the information required under subsection (c);
 
-&emsp;"(7) any other matters the Secretary determines appropriate.
+&emsp;"(7) a list of all countries in which Task Force Spartan operated during the prior fiscal year;
+
+&emsp;"(8) a description of activities conducted pursuant to the operation to build the military readiness of partner forces during the prior fiscal year, including—
+
+&emsp;&emsp;"(A) training exercises;
+
+&emsp;&emsp;"(B) joint exercises; and
+
+&emsp;&emsp;"(C) bilateral or multilateral exchanges;
+
+&emsp;"(9) an assessment of the extent to which the activities described in paragraph (8) improved—
+
+&emsp;&emsp;"(A) the military readiness of such partner forces;
+
+&emsp;&emsp;"(B) the national security of the United States; and
+
+&emsp;&emsp;"(C) the national security of allies and partners of the United States;
+
+&emsp;"(10) a description of criteria used to make the assessment required under paragraph (9); and
+
+&emsp;"(11) any other matters the Secretary determines appropriate.
 
 "(c)
 
@@ -224,15 +286,29 @@ Definitions.—In this section:
 
 #### Budgeting of Department of Defense Relating to Extreme Weather
 
-Pub. L. 116–92, div. A, title III, §328, Dec. 20, 2019, 133 Stat. 1311, provided that:
+Pub. L. 116–92, div. A, title III, §328, Dec. 20, 2019, 133 Stat. 1311, as amended by Pub. L. 117–263, div. A, title III, §321, Dec. 23, 2022, 136 Stat. 2510, provided that:
 
 "(a)
 
 In General.—The Secretary of Defense shall include in the annual budget submission of the President under section 1105(a) of title 31, United States Code—
 
-&emsp;"(1) a dedicated budget line item for adaptation to, and mitigation of, effects of extreme weather on military networks, systems, installations, facilities, and other assets and capabilities of the Department of Defense; and
+&emsp;"(1) a dedicated budget line item for adaptation to, and mitigation of, effects of extreme weather on military networks, systems, installations, facilities, and other assets and capabilities of the Department of Defense;
 
-&emsp;"(2) an estimate of the anticipated adverse impacts to the readiness of the Department and the financial costs to the Department during the year covered by the budget of the loss of, or damage to, military networks, systems, installations, facilities, and other assets and capabilities of the Department, including loss of or obstructed access to training ranges, as a result \[of\] extreme weather events.
+&emsp;"(2) an estimate of the anticipated adverse impacts to the readiness of the Department and the financial costs to the Department during the year covered by the budget of the loss of, or damage to, military networks, systems, installations, facilities, and other assets and capabilities of the Department, including loss of or obstructed access to training ranges, as a result \[of\] extreme weather events; and
+
+&emsp;"(3) a calculation of the annual costs to the Department for—
+
+&emsp;&emsp;"(A) assistance that is—
+
+&emsp;&emsp;&emsp;"(i) provided to the Federal Emergency Management Agency or any Federal land management agency (as such term is defined in section 802 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801)) pursuant to a request for such assistance and in consultation with the National Interagency Fire Center; or
+
+&emsp;&emsp;&emsp;"(ii) provided under title 10 or title 32, United States Code, to any State, territory, or possession of the United States, regarding extreme weather; and
+
+&emsp;&emsp;"(B) resourcing required to support—
+
+&emsp;&emsp;&emsp;"(i) wildfire response, recovery, or restoration efforts occurring within military installations or other facilities of the Department; or
+
+&emsp;&emsp;&emsp;"(ii) any Federal agency other than the Department (including the Federal Emergency Management Agency and the National Interagency Fire Center) with respect to wildfire response, recovery, or restoration efforts, where such resourcing is not reimbursed.
 
 "(b)
 
@@ -418,7 +494,7 @@ Matters to Be Included.—The plan required under subsection (a) shall include t
 
 &emsp;&emsp;"(E) a reevaluation of sites identified for divestiture but not yet divested under the European Infrastructure Consolidation initiative, accounting for updated military requirements;
 
-&emsp;&emsp;"(F) any changes and associated costs incurred with retaining each site identified for divestiturebut not yet divested under the European Infrastructure Consolidation initiative, including possible leasing agreements, sustainment, and maintenance;
+&emsp;&emsp;"(F) any changes and associated costs incurred with retaining each site identified for divestiture but not yet divested under the European Infrastructure Consolidation initiative, including possible leasing agreements, sustainment, and maintenance;
 
 &emsp;&emsp;"(G) a detailed assessment of the resources necessary to achieve the requirements of the plan, including specific cost estimates for each project under the EDI to support increased presence, exercises and training, enhanced prepositioning, improved infrastructure, and building partnership capacity;
 
@@ -432,7 +508,7 @@ Subsequent Plans.—
 
 &emsp;"(1)
 
-In general.—Not later than the date on which the Secretary of Defense submits to Congress the budget request for the Department of Defense for fiscal year 2021 and each fiscal year thereafter, the Secretary, in consultation with the Commander of the United States European Command, shall submit to the congressional defense committees a future years plan on activities and resources of the European Deterrence Initiative for such fiscal year and not fewer than the four succeeding fiscal years.
+In general.—Not later than the date on which the Secretary of Defense submits to Congress the budget request for the Department of Defense for fiscal year 2021 and each fiscal year thereafter, the Secretary, in consultation with the Commander of the United States European Command, shall submit to the congressional defense committees a future yearsplan on activities and resources of the European Deterrence Initiative for such fiscal year and not fewer than the four succeeding fiscal years.
 
 &emsp;"(2)
 
@@ -616,7 +692,7 @@ Pub. L. 111–383, div. A, title II, §213, Jan. 7, 2011, 124 Stat. 4163, provid
 
 #### Separate Procurement Line Item for Body Armor
 
-Pub. L. 111–84, div. A, title I, §141(b), Oct. 28, 2009, 123 Stat. 2223, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within each military department procurement account, a separate,dedicated procurement line item is designated for body armor."
+Pub. L. 111–84, div. A, title I, §141(b), Oct. 28, 2009, 123 Stat. 2223, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within each military department procurement account, a separate, dedicated procurement line item is designated for body armor."
 
 #### Separate Program Elements Required for Research and Development of Individual Body Armor and Associated Components
 
@@ -624,7 +700,7 @@ Pub. L. 111–84, div. A, title II, §216, Oct. 28, 2009, 123 Stat. 2227, provid
 
 #### Separate Procurement and Research, Development, Test, and Evaluation Line Items and Program Elements for the F–35B and F–35C Joint Strike Fighter Aircraft
 
-Pub. L. 111–84, div. A, title II, §217, Oct. 28, 2009, 123 Stat. 2228, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within the Navy research, development, test, and evaluation account and the Navy aircraft procurement account, a separate, dedicated line item and program element is assigned to each of the F-35B aircraft and the F-35C aircraft, to the extent that such accounts include funding for each such aircraft."
+Pub. L. 111–84, div. A, title II, §217, Oct. 28, 2009, 123 Stat. 2228, provided that: "In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to section 1105 of title 31, United States Code, of the budget for fiscal year 2011, and each subsequent fiscal year, the Secretary shall ensure that within the Navy research, development, test, and evaluation account and the Navy aircraft procurement account, a separate,dedicated line item and program element is assigned to each of the F-35B aircraft and the F-35C aircraft, to the extent that such accounts include funding for each such aircraft."
 
 #### Guidance on Budget Justification Materials Describing Funding Requested for Operation, Sustainment, Modernization, and Personnel of Major Ranges and Test Facilities
 
@@ -822,6 +898,8 @@ Pub. L. 107–248, title VIII, §8132, Oct. 23, 2002, 116 Stat. 1568, provided t
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 117–103, div. C, title VIII, §8079, Mar. 15, 2022, 136 Stat. 194.
+
 Pub. L. 116–260, div. C, title VIII, §8076, Dec. 27, 2020, 134 Stat. 1323.
 
 Pub. L. 116–93, div. A, title VIII, §8076, Dec. 20, 2019, 133 Stat. 2355.
@@ -878,7 +956,7 @@ Pub. L. 105–85, div. A, title III, §324(c), Nov. 18, 1997, 111 Stat. 1678, pr
 
 #### Inclusion of Air Force Depot Maintenance as Operation and Maintenance Budget Line Items
 
-Pub. L. 105–85, div. A, title III, §327, Nov. 18, 1997, 111 Stat. 1679, provided that: "For fiscal year 1999 and eachfiscal year thereafter, Air Force depot-level maintenance of materiel shall be displayed as one or more separate line items under each subactivity within the authorization request for operation and maintenance, Air Force, in the proposed budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, United States Code."
+Pub. L. 105–85, div. A, title III, §327, Nov. 18, 1997, 111 Stat. 1679, provided that: "For fiscal year 1999 and each fiscal year thereafter, Air Force depot-level maintenance of materiel shall be displayed as one or more separate line items under each subactivity within the authorization request for operation and maintenance, Air Force, in the proposed budget for that fiscal year submitted to Congress pursuant to section 1105 of title 31, United States Code."
 
 #### Identification in President's Budget of NATO Costs
 

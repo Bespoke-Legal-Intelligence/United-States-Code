@@ -160,7 +160,7 @@ In subsections (c) and (d), the words "Comptroller General" are substituted for 
 
 In subsection (c), the text of 31:66a(b) is omitted as unnecessary. In clause (1), the words "the head of" are added for consistency with the revised title and other titles of the United States Code. In clause (2), the words "under section 3511 of this title" are substituted for "by him" in 31:66(b)(less Treasury Department) for clarity.
 
-In subsection (d), the word "concerned" is omitted as surplus. The word "President" is substituted for "Director of the Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+In subsection (d), the word "concerned" is omitted as surplus. The word "President" is substituted for "Director of the Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No.2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
 1983
 
@@ -252,7 +252,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Federal Financial Management Improvement
 
-Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, provided that:
+Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, as amended by Pub. L. 117–286, §4(b)(54), Dec. 27, 2022, 136 Stat. 4349, provided that:
 
 #### "SEC. 801. SHORT TITLE\[.\]
 
@@ -368,7 +368,7 @@ Time period for compliance.—A remediation plan shall bring the agency's financ
 
 &emsp;&emsp;"(A) determines that the agency's financial management systems cannot comply with the requirements of subsection (a) within 3 years;
 
-&emsp;&emsp;"(B) specifies the most feasible date for bringing the agency's financial management systems into compliance with the requirements of subsection (a); and
+&emsp;&emsp;"(B) specifies the most feasible date for bringing the agency's financial management systems intocompliance with the requirements of subsection (a); and
 
 &emsp;&emsp;"(C) designates an official of the agency who shall be responsible for bringing the agency's financial management systems into compliance with the requirements of subsection (a) by the date specified under subparagraph (B).
 
@@ -380,7 +380,7 @@ Reports by the Director.—No later than March 31 of each year, the Director sha
 
 "(b)
 
-Reports by the Inspector General\[.\]—Each Inspector General who prepares a report under section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.) shall report to Congress instances and reasons when an agency has not met the intermediate target dates established in the remediation plan required under section 3(c) \[803(c)\]. Specifically the report shall include—
+Reports by the Inspector General\[.\]—Each Inspector General who prepares a report under section 405(b) of title 5, United States Code, shall report to Congress instances and reasons when an agency has not met the intermediate target dates established in the remediation plan required under section 3(c) \[803(c)\]. Specifically the report shall include—
 
 &emsp;"(1) the entity or organization responsible for the non-compliance \[sic\];
 
@@ -408,7 +408,7 @@ Financial Management Status Report.—\[Amended this section.\]
 
 "(c)
 
-Inspector General Act of 1978.—\[Amended section 5 of the Inspector General Act of 1978, set out in the Appendix to Title 5, Government Organization and Employees.\]
+Inspector General Act of 1978.—\[Amended section 5 of the Inspector General Act of 1978, formerly set out in the Appendix to Title 5, Government Organization and Employees.\]
 
 #### "SEC. 806. DEFINITIONS.
 

@@ -46,5 +46,5 @@ Subsecs. (b) to (d). Pub. L. 111–259, §404(2)–(4), redesignated subsecs. (c
 
 #### Effective Date
 
-Pub. L. 108–487, title III, §303(b), Dec. 23, 2004, 118 Stat. 3944, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the effective date of the National Security Intelligence Reform Act of 2004 \[see section 1097 of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transfer, Termination, and Transition Provisions note under section 3001 of this title\], as provided in section 801 of this Act \[set out in an Effective Date of 2004 Amendments note under section 2656f of Title 22, Foreign Relations and Intercourse\]."
+Pub. L. 108–487, title III, §303(b), Dec. 23, 2004, 118 Stat. 3944, provided that: "The amendments made bythis section \[enacting this section\] shall take effect on the effective date of the National Security Intelligence Reform Act of 2004 \[see section 1097 of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transfer, Termination, and Transition Provisions note under section 3001 of this title\], as provided in section 801 of this Act \[set out in an Effective Date of 2004 Amendments note under section 2656f of Title 22, Foreign Relations and Intercourse\]."
 

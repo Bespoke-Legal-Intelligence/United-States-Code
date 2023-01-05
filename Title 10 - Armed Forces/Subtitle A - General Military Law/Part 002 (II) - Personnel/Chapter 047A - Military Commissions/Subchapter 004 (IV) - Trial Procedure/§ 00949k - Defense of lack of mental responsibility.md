@@ -10,7 +10,7 @@ Burden of Proof.—The accused in a military commission under this chapter has t
 
 (c)
 
-Findings Following Assertion of Defense.—Whenever lack of mental responsibility of the accused with respect to an offense is properly at issue in a military commission underthis chapter, the military judge shall instruct the members as to the defense of lack of mental responsibility under this section and shall charge the members to find the accused—
+Findings Following Assertion of Defense.—Whenever lack of mental responsibility of the accused with respect to an offense is properly at issue in a military commission under this chapter, the military judge shall instruct the members as to the defense of lack of mental responsibility under this section and shall charge the members to find the accused—
 
 &emsp;(1) guilty;
 

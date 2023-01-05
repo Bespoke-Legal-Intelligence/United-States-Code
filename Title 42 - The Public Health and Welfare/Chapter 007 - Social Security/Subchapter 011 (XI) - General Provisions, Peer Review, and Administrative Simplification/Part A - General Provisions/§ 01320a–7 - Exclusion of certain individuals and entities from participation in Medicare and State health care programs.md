@@ -14,11 +14,11 @@ The Secretary shall exclude the following individuals and entities from particip
 
 #### (3) Felony conviction relating to health care fraud
 
-&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, in connection with the delivery of a health care item or service or with respect to any act or omission in a health care program (other than those specifically described in paragraph (1))operated by or financed in whole or in part by any Federal, State, or local government agency, of a criminal offense consisting of a felony relating to fraud, theft, embezzlement, breach of fiduciary responsibility, or other financial misconduct.
+&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, in connection with the delivery of a health care item or service or with respect to any act or omission in a health care program (other than those specifically described in paragraph (1)) operated by or financed in whole or in part by any Federal, State, or local government agency, of a criminal offense consisting of a felony relating to fraud, theft, embezzlement, breach of fiduciary responsibility, or other financial misconduct.
 
 #### (4) Felony conviction relating to controlled substance
 
-&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, of a criminal offense consisting of a felony relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
+&emsp;Any individual or entity that has been convicted for an offense which occurred after August 21, 1996, under Federal or State law, of acriminal offense consisting of a felony relating to the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance.
 
 #### (b) Permissive exclusion
 
@@ -140,7 +140,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (14) Default on health education loan or scholarship obligations
 
-&emsp;Any individual who the Secretary determines is in default on repayments of scholarship obligations or loans in connection with health professions education made or secured, in whole or in part, by the Secretary and with respect to whom the Secretary has taken all reasonable steps available to the Secretary to secure repayment of such obligations or loans, except that (A) the Secretary shall not exclude pursuant to this paragraph a physician who is the sole community physician or sole source of essential specialized services in a community if a State requests that the physician not be excluded, and (B) the Secretaryshall take into account, in determining whether to exclude any other physician pursuant to this paragraph, access of beneficiaries to physician services for which payment may be made under subchapter XVIII or XIX.
+&emsp;Any individual who the Secretary determines is in default on repayments of scholarship obligations or loans in connection with health professions education made or secured, in whole or in part, by the Secretary and with respect to whom the Secretary has taken all reasonable steps available to the Secretary to secure repayment of such obligations or loans, except that (A) the Secretary shall not exclude pursuant to this paragraph a physician who is the sole community physician or sole source of essential specialized services in a community if a State requests that the physician not be excluded, and (B) the Secretary shall take into account, in determining whether to exclude any other physician pursuant to this paragraph, access of beneficiaries to physician services for which payment may be made under subchapter XVIII or XIX.
 
 #### (15) Individuals controlling a sanctioned entity
 
@@ -202,7 +202,7 @@ The Secretary may exclude the following individuals and entities from participat
 
 #### (d) Notice to State agencies and exclusion under State health care programs
 
-(1) Subject to paragraph (3), the Secretary shall exercise the authority under this section and section 1320a–7a of this title in a manner that results in an individual's or entity's exclusion from all the programs under subchapter XVIII and all the State health care programs in which the individual or entity may otherwise participate.
+(1) Subject to paragraph (3), the Secretary shall exercise the authority under this sectionand section 1320a–7a of this title in a manner that results in an individual's or entity's exclusion from all the programs under subchapter XVIII and all the State health care programs in which the individual or entity may otherwise participate.
 
 (2) The Secretary shall promptly notify each appropriate State agency administering or supervising the administration of each State health care program (and, in the case of an exclusion effected pursuant to subsection (a) and to which section 824(a)(5) of title 21 may apply, the Attorney General)—
 
@@ -246,7 +246,7 @@ The Secretary shall—
 
 &emsp;(B) there are reasonable assurances that the types of actions which formed the basis for the original exclusion have not recurred and will not recur.
 
-(3) The Secretary shall promptly notify each appropriate State agency administering or supervising the administration of each State health care program (and, in the case of an exclusion effected pursuant to subsection (a) andto which section 824(a)(5) of title 21 may apply, the Attorney General) of the fact and circumstances of each termination of exclusion made under this subsection.
+(3) The Secretary shall promptly notify each appropriate State agency administering or supervising the administration of each State health care program (and, in the case of an exclusion effected pursuant to subsection (a) and to which section 824(a)(5) of title 21 may apply, the Attorney General) of the fact and circumstances of each termination of exclusion made under this subsection.
 
 #### (h) "State health care program" defined
 

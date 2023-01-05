@@ -60,7 +60,7 @@ Amendment by Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 611(b) of Pub. L. 109–280 applicable to plan years beginning after Aug. 17, 2006, seesection 611(h)(2) of Pub. L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
+Amendment by section 611(b) of Pub. L. 109–280 applicable to plan years beginning after Aug. 17, 2006, see section 611(h)(2) of Pub. L. 109–280, set out as a note under section 4975 of Title 26, Internal Revenue Code.
 
 Pub. L. 109–280, title VI, §622(b), Aug. 17, 2006, 120 Stat. 979, provided that: "The amendment made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2007."
 

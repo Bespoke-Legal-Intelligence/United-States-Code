@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-The Commissioner shall carry out a program for making grants to a State, that has designated an independent State body under section 12336 of this title and provided for coordinated services under section 12337 of this title, for distribution by the chief executive officerunder a State plan approved under section 12337 of this title to demonstrate successful program approaches to fill service gaps identified through State planning and advocacy efforts for any of the areas specified in paragraph (2).
+The Commissioner shall carry out a program for making grants to a State, that has designated an independent State body under section 12336 of this title and provided for coordinated services under section 12337 of this title, for distribution by the chief executive officer under a State plan approved under section 12337 of this title to demonstrate successful program approaches to fill service gaps identified through State planning and advocacy efforts for any of the areas specified in paragraph (2).
 
 #### (b) Eligible services
 
@@ -18,7 +18,7 @@ The services eligible to be provided under subsection (a) are services—
 
 &emsp;&emsp;(C) enable young individuals to attain and maintain physical and mental well-being;
 
-&emsp;&emsp;(D) provide health screening to detect or prevent illnesses, or both, that occur most frequently in young individuals as well as better treatment and counseling;
+&emsp;&emsp;(D) provide health screening to detect or prevent illnesses, or both, that occur mostfrequently in young individuals as well as better treatment and counseling;
 
 &emsp;&emsp;(E) enhance the development of children to ensure that such children enter school prepared and ready to learn;
 

@@ -10,7 +10,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### <b>Executive Documents</b>
 
@@ -26,11 +26,11 @@ By virtue of the authority vested in me as President of the United States of Ame
 
 Section 1. <i>Functions of the Federal Energy Administration</i>. In accordance with the transfer of all functions vested by law in the Federal Energy Administration, or the Administrator thereof, to the Secretary of Energy pursuant to Section 301(a) of the Department of Energy Organization Act \[subsec. (a) of this section\], hereinafter referred to as the Act, the Executive Orders and Proclamations referred to in this Section, which conferred authority or responsibility upon the Administrator of the Federal Energy Administration, are amended as follows:
 
-(a) Executive Order No. 11647, as amended \[formerly set out as a note under 31 U.S.C. 501\], relating to Federal Regional Councils, is further amended by deleting "The Federal Energy Administration" in Section 1(a)(10) and substituting "The Department of Energy", and by deleting "The Deputy Administrator of the Federal Energy Administration" in Section 3(a)(10) and substituting "The Deputy Secretary of Energy".
+(a) Executive Order No. 11647, as amended \[formerly set out as a note under 31 U.S.C. 501\], relating to Federal Regional Councils, is further amended by deleting"The Federal Energy Administration" in Section 1(a)(10) and substituting "The Department of Energy", and by deleting "The Deputy Administrator of the Federal Energy Administration" in Section 3(a)(10) and substituting "The Deputy Secretary of Energy".
 
 (b) Executive Order No. 11790 of June 25, 1974 \[set out as a note under 15 U.S.C. 761\], relating to the Federal Energy Administration Act of 1974, is amended by deleting "Administrator of the Federal Energy Administration" and "Administrator" wherever they appear in Sections 1 through 6 and substituting "Secretary of Energy" and "Secretary", respectively, and by deleting Section 7 through 10.
 
-(c) Executive Order No. 11912, as amended \[set out as a note under 42 U.S.C. 6201\], relating to energy policyand conservation, and Proclamation No. 3279, as amended \[formerly set out as a note under 19 U.S.C. 1862\], relating to imports of petroleum and petroleum products, are further amended by deleting "Administrator of the Federal Energy Administration", "Federal Energy Administration", and "Administrator" (when used in reference to the Federal Energy Administration) wherever those terms appear and by substituting "Secretary of Energy", "Department of Energy", and "Secretary", respectively, and by deleting "the Administrator of Energy Research and Development" in Section 10(a)(1) of Executive Order No. 11912, as amended.
+(c) Executive Order No. 11912, as amended \[set out as a note under 42 U.S.C. 6201\], relating to energy policy and conservation, and Proclamation No. 3279, as amended \[formerly set out as a note under 19 U.S.C. 1862\], relating to imports of petroleum and petroleum products, are further amended by deleting "Administrator of the Federal Energy Administration", "Federal Energy Administration", and "Administrator" (when used in reference to the Federal Energy Administration) wherever those terms appear and by substituting "Secretary of Energy", "Department of Energy", and "Secretary", respectively, and by deleting "the Administrator of Energy Research and Development" in Section 10(a)(1) of Executive Order No. 11912, as amended.
 
 Sec. 2. <i>Functions of the Federal Power Commission</i>. In accordance with the transfer of functions vested in the Federal Power Commission to the Secretary of Energy pursuant to Section 301(b) of the Act \[subsec. (b) of this section\], the Executive Orders referred to in this Section, which conferred authority or responsibility upon the Federal Power Commission, or Chairman thereof, are amended or modified as follows:
 
@@ -76,7 +76,7 @@ Sec. 5. <i>Special Provisions Relating to Emergency Preparedness and Mobilizatio
 
 "Sec. 609. Effective October 1, 1977, the Secretary of Energy shall exercise all authority and discharge all responsibility herein delegated to or conferred upon (a) the Atomic Energy Commission, and (b) with respect to petroleum, gas, solid fuels and electric power, upon the Secretary of the Interior.
 
-"Sec. 610. Whenever the Administrator of General Services believes that the functions of an Executiveagency have been modified pursuant to law in such manner as to require the amendment of any Executive order which relates to the assignment of emergency preparedness functions or the administration of mobilization programs, he shall promptly submit any proposals for the amendment of such Executive orders to the Director of the Office of Management and Budget in accordance with the provisions of Executive Order No. 11030, as amended \[set out as a note under 44 U.S.C. 1505\].
+"Sec. 610. Whenever the Administrator of General Services believes that the functions of an Executive agency have been modified pursuant to law in such manner as to require the amendment of any Executive order which relates to the assignment of emergency preparedness functions or the administration of mobilization programs, he shall promptly submit any proposals for the amendment of such Executive orders to the Director of the Office of Management and Budget in accordance with the provisions of Executive Order No. 11030, as amended \[set out as a note under 44 U.S.C. 1505\].
 
 (b) Executive Order No. 11490, as amended \[formerly set out as a note under 50 U.S.C. App. 2251\], is further amended by adding thereto the following new section:
 

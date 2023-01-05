@@ -78,7 +78,7 @@ The Secretary may not make a grant under subsection (a) unless an application fo
 
 #### (1) In general
 
-&emsp;The Secretary may not make payments under subsection (a) to a State for any fiscalyear subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
+&emsp;The Secretary may not make payments under subsection (a) to a State for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
 
 #### (2) Reduction in grant relative to number of breached contracts
 

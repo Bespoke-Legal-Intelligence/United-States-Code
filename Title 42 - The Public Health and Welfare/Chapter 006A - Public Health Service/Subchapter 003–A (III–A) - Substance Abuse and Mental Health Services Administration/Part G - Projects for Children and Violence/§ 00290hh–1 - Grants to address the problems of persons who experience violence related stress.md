@@ -38,7 +38,7 @@ The Secretary shall ensure that grants, contracts or cooperative agreements unde
 
 #### (h) Evaluation
 
-The Secretary, as part of the application process, shall require that each applicant for a grant, contract or cooperative agreement under subsection (a) submit a plan for the rigorous evaluation of the activities funded under the grant, contract or agreement, including both process and outcomes evaluation, and the submission of an evaluation at the end of the project period.
+The Secretary, as part of the application process, shall require that each applicant for agrant, contract or cooperative agreement under subsection (a) submit a plan for the rigorous evaluation of the activities funded under the grant, contract or agreement, including both process and outcomes evaluation, and the submission of an evaluation at the end of the project period.
 
 #### (i) Duration of awards
 

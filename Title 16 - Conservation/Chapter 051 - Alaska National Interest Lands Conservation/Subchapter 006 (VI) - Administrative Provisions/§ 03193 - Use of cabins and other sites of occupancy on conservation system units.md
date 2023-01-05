@@ -24,7 +24,7 @@
 
 > The Secretary may, on a case by case basis, subject to reasonable regulations, extend such permit term beyond one year for such reasons as the Secretary deems equitable and just.
 
-(3) Cabins or other structures not under permit as specified herein shall be used only for official government business: <i>Provided however</i>, That during emergencies involving the safety of human life or where designated for public use bythe Secretary, these cabins may be used by the general public.
+(3) Cabins or other structures not under permit as specified herein shall be used only for official government business: <i>Provided however</i>, That during emergencies involving the safety of human life or where designated for public use by the Secretary, these cabins may be used by the general public.
 
 (4) The Secretary may issue a permit under such conditions as he may prescribe for the temporary use, occupancy, construction and maintenance of new cabins or other structures if he determines that the use is necessary to reasonably accommodate subsistence uses or is otherwise authorized by law.
 

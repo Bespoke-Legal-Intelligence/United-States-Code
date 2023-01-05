@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (b) of this section, a plan may place a claim or an interest in a particular class only if such claim or interest is substantially similar to the other claims or interests of such class.
 
-(b) A plan may designate a separate class of claims consisting only of every unsecured claim that is less than or reduced to an amount thatthe court approves as reasonable and necessary for administrative convenience.
+(b) A plan may designate a separate class of claims consisting only of every unsecured claim that is less than or reduced to an amount that the court approves as reasonable and necessary for administrative convenience.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631.)
 

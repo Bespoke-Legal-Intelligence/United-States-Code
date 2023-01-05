@@ -82,7 +82,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section or any other provision of law, a State or local government may enforce a measure (without regard to the requirements of subsection (d), except as provided in paragraph (2)) adopted by the State or local government before July 1, 2010, that provides for the divestment of assets of the State or local government from, or prohibits the investment of the assets of the State or local government in, any person that the State or local government determines, using credible information available to the public, engages in investment activities in Iran (determined without regard to subsection (c)) or other business activities in Iran that are identified in the measure.
+&emsp;Notwithstanding any other provision of this section or any other provision of law, a State or local government may enforce a measure (without regard to the requirements of subsection (d), except as provided in paragraph (2)) adopted by the State or local government before July 1, 2010, that provides for the divestment of assets of the State or local government from, or prohibits the investment of the assets of the State or local government in,any person that the State or local government determines, using credible information available to the public, engages in investment activities in Iran (determined without regard to subsection (c)) or other business activities in Iran that are identified in the measure.
 
 #### (2) Application of notice requirements
 

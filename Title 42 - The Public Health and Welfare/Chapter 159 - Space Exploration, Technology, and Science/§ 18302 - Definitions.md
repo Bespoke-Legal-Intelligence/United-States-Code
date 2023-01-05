@@ -44,7 +44,7 @@ In this chapter:
 
 #### (10) Space Launch System
 
-&emsp;The term "Space Launch System" means the follow-on government-owned civil launch system developed, managed, and operated byNASA to serve as a key component to expand human presence beyond low-Earth orbit.
+&emsp;The term "Space Launch System" means the follow-on government-owned civil launch system developed, managed, and operated by NASA to serve as a key component to expand human presence beyond low-Earth orbit.
 
 (Pub. L. 111–267, §3, Oct. 11, 2010, 124 Stat. 2808.)
 

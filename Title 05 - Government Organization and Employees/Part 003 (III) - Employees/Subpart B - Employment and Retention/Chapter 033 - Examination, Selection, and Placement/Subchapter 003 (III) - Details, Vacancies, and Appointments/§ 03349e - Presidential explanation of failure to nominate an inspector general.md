@@ -1,0 +1,28 @@
+### §3349e. Presidential explanation of failure to nominate an inspector general
+
+If the President fails to make a formal nomination for a vacant inspector general position that requires a formal nomination by the President to be filled within the period beginning on the later of the date on which the vacancy occurred or on which a nomination is rejected, withdrawn, or returned, and ending on the day that is 210 days after that date, the President shall communicate, within 30 days after the end of such period and not later than June 1 of eachyear thereafter, to the appropriate congressional committees, as defined in section 12 of the Inspector General Act of 1978 (5 U.S.C. App.) <sup>1</sup>—
+
+&emsp;(1) the reasons why the President has not yet made a formal nomination; and
+
+&emsp;(2) a target date for making a formal nomination.
+
+(Added Pub. L. 117–263, div. E, title LII, §5221(a), Dec. 23, 2022, 136 Stat. 3234.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 12 of the Inspector General Act of 1978, referred to in text, is section 12 of Pub. L. 95–452, which was set out in the Appendix to this title and was repealed and restated as section 401 of this title by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4207, 4361. For definition of "appropriate congressional committees", see Amendments Not Shown in Text note set out under section 401 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date
+
+Pub. L. 117–263, div. E, title LII, §5221(c), Dec. 23, 2022, 136 Stat. 3234, provided that: "The amendment made by subsection (a) \[enacting this section\] shall take effect—
+
+&emsp;"(1) on the date of enactment of this Act \[Dec. 23, 2022\] with respect to any vacancy first occurring on or after that date; and
+
+&emsp;"(2) on the day that is 210 days after the date of enactment of this Act with respect to any vacancy that occurred before the date of enactment of this Act."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

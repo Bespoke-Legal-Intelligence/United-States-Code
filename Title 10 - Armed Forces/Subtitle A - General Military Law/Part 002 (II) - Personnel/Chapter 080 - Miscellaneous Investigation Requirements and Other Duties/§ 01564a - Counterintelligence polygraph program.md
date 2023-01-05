@@ -30,7 +30,7 @@ Persons Covered.—Except as provided in subsection (d), the following persons a
 
 (c)
 
-Covered Types of Duties.—The Secretary of Defense may provide, under standards established by the Secretary, that a person describedin subsection (b)(1) is subject to this section if that person's duties involve—
+Covered Types of Duties.—The Secretary of Defense may provide, under standards established by the Secretary, that a person described in subsection (b)(1) is subject to this section if that person's duties involve—
 
 &emsp;(1) access to information that—
 

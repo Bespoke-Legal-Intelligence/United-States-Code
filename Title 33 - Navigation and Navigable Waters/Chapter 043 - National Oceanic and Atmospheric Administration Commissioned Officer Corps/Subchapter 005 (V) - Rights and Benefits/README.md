@@ -17,3 +17,4 @@
 - [&sect; 03079 - Student pre-commissioning education assistance program](%C2%A7%2003079%20-%20Student%20pre-commissioning%20education%20assistance%20program.md)
 - [&sect; 03079&#8211;1 - Limitation on educational assistance](%C2%A7%2003079%E2%80%931%20-%20Limitation%20on%20educational%20assistance.md)
 - [&sect; 03079a - Treatment of commission in commissioned officer corps as employment in Administration for purposes of certain hiring decisions](%C2%A7%2003079a%20-%20Treatment%20of%20commission%20in%20commissioned%20officer%20corps%20as%20employment%20in%20Administration%20for%20purposes%20of%20certain%20hiring%20decisions.md)
+- [&sect; 03079b - Shore leave for professional mariners](%C2%A7%2003079b%20-%20Shore%20leave%20for%20professional%20mariners.md)

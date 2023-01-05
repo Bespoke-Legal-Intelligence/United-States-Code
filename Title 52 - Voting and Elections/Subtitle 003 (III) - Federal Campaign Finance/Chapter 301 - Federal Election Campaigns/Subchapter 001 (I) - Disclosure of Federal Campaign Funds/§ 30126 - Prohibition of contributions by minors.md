@@ -12,7 +12,7 @@ Section was formerly classified to section 441k of Title 2, The Congress, prior 
 
 #### Constitutionality
 
-For information regarding constitutionality of statute prohibiting persons "17 years old or younger" from contributing to candidates or political parties, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of statute prohibiting persons "17 years old or younger" from contributing to candidates or political parties, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Prior Provisions
 

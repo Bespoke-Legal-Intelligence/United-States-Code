@@ -16,7 +16,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (1) In general
 
-&emsp;In making cost sharing payments to an owner or operator under a contract enteredinto under this subpart, the Secretary shall pay 50 percent of the cost of establishing water quality and conservation measures and practices required under each contract for which the Secretary determines that cost sharing is appropriate and in the public interest.
+&emsp;In making cost sharing payments to an owner or operator under a contract entered into under this subpart, the Secretary shall pay 50 percent of the cost of establishing water quality and conservation measures and practices required under each contract for which the Secretary determines that cost sharing is appropriate and in the public interest.
 
 #### (2) Limitations
 
@@ -90,7 +90,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (A) Evaluation of offers
 
-&emsp;&emsp;In determining the acceptability of contract offers, the Secretary may take intoconsideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, or wildlife habitat or provide other environmental benefits.
+&emsp;&emsp;In determining the acceptability of contract offers, the Secretary may take into consideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, or wildlife habitat or provide other environmental benefits.
 
 #### (B) Establishment of different criteria in various States and regions
 
@@ -166,7 +166,7 @@ If an owner or operator that is entitled to a payment under a contract entered i
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the total amount of rental payments received by aperson or legal entity, directly or indirectly, under this subpart for any fiscal year may not exceed $50,000.
+&emsp;Except as provided in paragraph (2), the total amount of rental payments received by a person or legal entity, directly or indirectly, under this subpart for any fiscal year may not exceed $50,000.
 
 #### (2) Wellhead protection
 

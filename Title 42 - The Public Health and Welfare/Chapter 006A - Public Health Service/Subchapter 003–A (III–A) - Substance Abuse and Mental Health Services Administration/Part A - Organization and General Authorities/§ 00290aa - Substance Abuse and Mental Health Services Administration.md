@@ -34,7 +34,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;(3) carry out the administrative and financial management, policy development and planning, evaluation, knowledge dissemination, and public information functions that are required for the implementation of this subchapter;
 
-&emsp;(4) assure that the Administration conduct and coordinate demonstration projects, evaluations, and service system assessments and other activities necessary to improve theavailability and quality of treatment, prevention and related services;
+&emsp;(4) assure that the Administration conduct and coordinate demonstration projects, evaluations, and service system assessments and other activities necessary to improve the availability and quality of treatment, prevention and related services;
 
 &emsp;(5) support activities that will improve the provision of treatment, prevention and related services, including the development of national mental health and substance use disorder goals and model programs;
 
@@ -68,7 +68,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;(14) assure that services provided with amounts appropriated under this subchapter are provided bilingually, if appropriate;
 
-&emsp;(15) improve coordination among prevention programs, treatment facilities and nonhealth care systems such as employers, labor unions, and schools, and encourage the adoption of employee assistance programs and student assistance programs;
+&emsp;(15) improve coordination among prevention programs, treatment facilities and nonhealthcare systems such as employers, labor unions, and schools, and encourage the adoption of employee assistance programs and student assistance programs;
 
 &emsp;(16) maintain a clearinghouse for substance use disorder information, including evidence-based and promising best practices for prevention, treatment, and recovery support services for individuals with mental and substance use disorders, to assure the widespread dissemination of such information to States, political subdivisions, educational agencies and institutions, treatment providers, and the general public;
 
@@ -78,7 +78,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;(19) consult with State, local, and tribal governments, nongovernmental entities, and individuals with mental illness, particularly adults with a serious mental illness, children with a serious emotional disturbance, and the family members of such adults and children, with respect to improving community-based and other mental health services;
 
-&emsp;(20) collaborate with the Secretary of Defense and the Secretary of Veterans Affairs to improve the provision of mental and substance use disorder services provided by the Department of Defense and the Department of Veterans Affairs to members of the Armed Forces, veterans, and the family members of suchmembers and veterans, including through the provision of services using the telehealth capabilities of the Department of Defense and the Department of Veterans Affairs;
+&emsp;(20) collaborate with the Secretary of Defense and the Secretary of Veterans Affairs to improve the provision of mental and substance use disorder services provided by the Department of Defense and the Department of Veterans Affairs to members of the Armed Forces, veterans, and the family members of such members and veterans, including through the provision of services using the telehealth capabilities of the Department of Defense and the Department of Veterans Affairs;
 
 &emsp;(21) collaborate with the heads of relevant Federal agencies and departments, States, communities, and nongovernmental experts to improve mental and substance use disorders services for chronically homeless individuals, including by designing strategies to provide such services in supportive housing;
 
@@ -86,7 +86,9 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;(23) collaborate with the Attorney General and representatives of the criminal justice system to improve mental and substance use disorders services for individuals who have been arrested or incarcerated;
 
-&emsp;(24) after providing an opportunity for public input, set standards for grant programs under this subchapter for mental and substance use disorders services and prevention programs, which standards may address—
+&emsp;(24) support the continued access to, or availability of, mental health and substance use disorder services during, or in response to, a public health emergency declared under section 247d of this title, including in consultation with, as appropriate, the Assistant Secretary for Preparedness and Response, the Director of the Centers for Disease Control and Prevention, and the heads of other relevant agencies, in preparing for, and responding to, a public health emergency;
+
+&emsp;(25) after providing an opportunity for public input, set standards for grant programs under this subchapter for mental and substance use disorders services and prevention programs, which standards may address—
 
 &emsp;&emsp;(A) the capacity of the grantee to implement the award;
 
@@ -96,15 +98,17 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;&emsp;(D) the extent to which the grantee must collect and report on required performance measures; and
 
-&emsp;&emsp;(E) the extent to which the grantee is proposing to use evidence-based practices; and
+&emsp;&emsp;(E) the extent to which the grantee is proposing to use evidence-based practices;
 
-&emsp;(25) advance, through existing programs, the use of performance metrics, including those based on the recommendations on performance metrics from the Assistant Secretary for Planning and Evaluation under section 6021(d) of the Helping Families in Mental Health Crisis Reform Act of 2016.
+&emsp;(26) <sup>1</sup> advance, through existing programs, the use of performance metrics, including those based on the recommendations on performance metrics from the Assistant Secretary for Planning and Evaluation under section 6021(d) of the Helping Families in Mental Health Crisis Reform Act of 2016; and
+
+&emsp;(26) <sup>1</sup> collaborate with national accrediting entities, recovery housing providers, organizations or individuals with established expertise in delivery of recovery housing services, States, Federal agencies (including the Department of Health and Human Services, the Department of Housing and Urban Development, and the agencies listed in section 290ee–5(e)(2)(B) of this title), and other relevant stakeholders, to promote the availability of high-quality recovery housing and services for individuals with a substance use disorder.
 
 #### (e) Associate Administrator for Alcohol Prevention and Treatment Policy
 
 #### (1) In general
 
-&emsp;There may be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Assistant Secretary may delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment and the Center for Mental Health Services, and coordinating such programs among the Centers, and among the Centers and other public and private entities. The Associate Administrator also may ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2010 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption.
+&emsp;There may be in the Administration an Associate Administrator for Alcohol Prevention and Treatment Policy to whom the Assistant Secretary may delegate the functions of promoting, monitoring, and evaluating service programs for the prevention and treatment of alcoholism and alcohol abuse within the Center for Substance Abuse Prevention, the Center for Substance Abuse Treatment and the Center for Mental Health Services, and coordinating such programs among the Centers, andamong the Centers and other public and private entities. The Associate Administrator also may ensure that alcohol prevention, education, and policy strategies are integrated into all programs of the Centers that address substance abuse prevention, education, and policy, and that the Center for Substance Abuse Prevention addresses the Healthy People 2010 goals and the National Dietary Guidelines of the Department of Health and Human Services and the Department of Agriculture related to alcohol consumption.
 
 #### (2) Plan
 
@@ -160,7 +164,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;&emsp;&emsp;(ii) developing standards for all programs funded by the Administration so that data are, to the extent practicable, collected and reported using common reporting formats, linkages and definitions; and
 
-&emsp;&emsp;&emsp;(iii) reporting to the Assistant Secretary a plan for incorporating the standards developed under clause (ii) in all Administration programs and a plan to assure that the data so collected are accessible to health professionals, providers, researchers, and members of the public; and
+&emsp;&emsp;&emsp;(iii) reporting to the Assistant Secretary a plan for incorporating the standards developed under clause (ii) in all Administration programs and a plan to assure thatthe data so collected are accessible to health professionals, providers, researchers, and members of the public; and
 
 &emsp;&emsp;(E) shall establish, maintain, and operate a program to provide information on women's substance abuse and mental health services.
 
@@ -234,7 +238,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 #### (i) Peer review groups
 
-The Assistant Secretary shall, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, establish such peer review groups and program advisory committees as are needed to carry out the requirements of this subchapter and appoint and pay members of such groups, except that officers and employees of the United States shall not receive additional compensation for services as members of such groups. The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under this subsection.
+The Assistant Secretary shall, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates,establish such peer review groups and program advisory committees as are needed to carry out the requirements of this subchapter and appoint and pay members of such groups, except that officers and employees of the United States shall not receive additional compensation for services as members of such groups. Chapter 10 of title 5 shall not apply to the duration of a peer review group appointed under this subsection.
 
 #### (j) Voluntary services
 
@@ -252,7 +256,7 @@ The Assistant Secretary shall ensure that programs and activities assigned under
 
 #### (2) Coordination
 
-&emsp;In developing and carrying out the strategic plan under this subsection, the Assistant Secretary shall take into consideration the findings and recommendations of the Assistant Secretary for Planning and Evaluation under section 6021(d) of the Helping Families in Mental Health Crisis Reform Act of 2016 and the report of the Interdepartmental Serious Mental Illness Coordinating Committee under section 6031 of such Act.
+&emsp;In developing and carrying out the strategic plan under this subsection, the Assistant Secretary shall take into consideration the findings and recommendations of the Assistant Secretary for Planning and Evaluation under section 6021(d) of the Helping Families in Mental Health Crisis Reform Act of 2016 and the report of the Interdepartmental Serious Mental Illness Coordinating Committee under section 290aa–0b of this title.
 
 #### (3) Publication of plan
 
@@ -270,7 +274,7 @@ The Assistant Secretary shall ensure that programs and activities assigned under
 
 &emsp;&emsp;(B) identify ways to improve the quality of services for individuals with mental and substance use disorders, and to reduce homelessness, arrest, incarceration, violence, including self-directed violence, and unnecessary hospitalization of individuals with a mental or substance use disorder, including adults with a serious mental illness or children with a serious emotional disturbance;
 
-&emsp;&emsp;(C) ensure that programs provide, as appropriate, access to effective and evidence-based prevention, diagnosis, intervention, treatment, and recovery services, includingculturally and linguistically appropriate services, as appropriate, for individuals with a mental or substance use disorder;
+&emsp;&emsp;(C) ensure that programs provide, as appropriate, access to effective and evidence-based prevention, diagnosis, intervention, treatment, and recovery services, including culturally and linguistically appropriate services, as appropriate, for individuals with a mental or substance use disorder;
 
 &emsp;&emsp;(D) identify opportunities to collaborate with the Health Resources and Services Administration to develop or improve—
 
@@ -278,21 +282,25 @@ The Assistant Secretary shall ensure that programs and activities assigned under
 
 &emsp;&emsp;&emsp;(ii) a strategy to improve the recruitment, training, and retention of a workforce for the treatment of individuals with mental or substance use disorders, or co-occurring disorders;
 
-&emsp;&emsp;(E) identify opportunities to improve collaboration with States, local governments, communities, and Indian tribes and tribal organizations (as such terms are defined in section 5304 of title 25); and
+&emsp;&emsp;(E) identify opportunities to improve collaboration with States, local governments, communities, and Indian tribes and tribal organizations (as such terms are defined in section 5304 of title 25);
 
-&emsp;&emsp;(F) specify a strategy to disseminate evidence-based and promising best practices related to prevention, diagnosis, early intervention, treatment, and recovery services related to mental illness, particularly for adults with a serious mental illness and children with a serious emotional disturbance, and for individuals with a substance use disorder.
+&emsp;&emsp;(F) specify a strategy to disseminate evidence-based and promising best practices related to prevention, diagnosis, early intervention, treatment, and recovery services related to mental illness, particularly for adults with a serious mental illness and children with a serious emotional disturbance, and for individuals with a substance use disorder; and
+
+&emsp;&emsp;(G) specify a strategy to support the continued access to, or availability of, mental health and substance use disorder services, including to at-risk individuals (as defined in section 300hh–1(b)(4) of this title), during, or in response to, public health emergencies declared pursuant to section 247d of this title.
 
 #### (m) Biennial report concerning activities and progress
 
 Not later than September 30, 2020, and every 2 years thereafter, the Assistant Secretary shall prepare and submit to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate, and post on the Internet website of the Administration, a report containing at a minimum—
 
-&emsp;(1) a review of activities conducted or supported by the Administration, including progress toward strategic priorities, goals, and objectives identified in the strategic plan developed under subsection (l);
+&emsp;(1) a review of activities conducted or supported by the Administration, includingprogress toward strategic priorities, goals, and objectives identified in the strategic plan developed under subsection (l);
 
 &emsp;(2) an assessment of programs and activities carried out by the Assistant Secretary, including the extent to which programs and activities under this subchapter and part B of subchapter XVII meet identified goals and performance measures developed for the respective programs and activities;
 
 &emsp;(3) a description of the progress made in addressing gaps in mental and substance use disorders prevention, treatment, and recovery services and improving outcomes by the Administration, including with respect to serious mental illnesses, serious emotional disturbances, and co-occurring disorders;
 
-&emsp;(4) a description of the manner in which the Administration coordinates and partners with other Federal agencies and departments related to mental and substance use disorders, including activities related to—
+&emsp;(4) a description of the Administration's activities to support the continued provision of mental health and substance use disorder services, as applicable, in response to public health emergencies declared pursuant to section 247d of this title;
+
+&emsp;(5) a description of the manner in which the Administration coordinates and partners with other Federal agencies and departments related to mental and substance use disorders, including activities related to—
 
 &emsp;&emsp;(A) the implementation and dissemination of research findings into improved programs, including with respect to how advances in serious mental illness and serious emotional disturbance research have been incorporated into programs;
 
@@ -300,13 +308,15 @@ Not later than September 30, 2020, and every 2 years thereafter, the Assistant S
 
 &emsp;&emsp;(C) the integration of mental disorder services, substance use disorder services, and physical health services;
 
-&emsp;&emsp;(D) homelessness; and
+&emsp;&emsp;(D) relevant preparedness and response activities;
 
-&emsp;&emsp;(E) veterans;
+&emsp;&emsp;(E) homelessness; and
 
-&emsp;(5) a description of the manner in which the Administration promotes coordination by grantees under this subchapter, and part B of subchapter XVII, with State or local agencies; and
+&emsp;&emsp;(F) veterans;
 
-&emsp;(6) a description of the activities carried out under section 290aa–0(e) of this title, with respect to mental and substance use disorders, including—
+&emsp;(6) a description of the manner in which the Administration promotes coordination by grantees under this subchapter, and part B of subchapter XVII, with State or local agencies; and
+
+&emsp;(7) a description of the activities carried out under section 290aa–0(e) of this title, with respect to mental and substance use disorders, including—
 
 &emsp;&emsp;(A) the number and a description of grants awarded;
 
@@ -316,7 +326,7 @@ Not later than September 30, 2020, and every 2 years thereafter, the Assistant S
 
 &emsp;&emsp;(D) information on how the National Mental Health and Substance Use Policy Laboratory is consulting with the Assistant Secretary for Planning and Evaluation and collaborating with the Center for Substance Abuse Treatment, the Center for Substance Abuse Prevention, the Center for Behavioral Health Statistics and Quality, and the Center for Mental Health Services to carry out such activities; and
 
-&emsp;(7) recommendations made by the Assistant Secretary for Planning and Evaluation under section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016 to improve programs within the Administration, and actions taken in response to such recommendations to improve programs within the Administration.
+&emsp;(8) recommendations made by the Assistant Secretary for Planning and Evaluation under section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016 to improve programs within the Administration, and actions taken in response to such recommendations to improve programs within the Administration.
 
 > The Assistant Secretary may meet reporting requirements established under this subchapter by providing the contents of such reports as an addendum to the biennial report established under this subsection, notwithstanding the timeline of other reporting requirements in this subchapter. Nothing in this subsection shall be construed to alter the content requirements of such reports or authorize the Assistant Secretary to alter the timeline of any such reports to be less frequent than biennially, unless as specified in this subchapter.
 
@@ -350,23 +360,19 @@ With respect to awards of grants, cooperative agreements, and contracts under th
 
 #### (p) Limitation on the use of certain information
 
-No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 290aa–4 of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose. Such information may not be published or released in other form if the person who supplied the information or who is described in it is identifiable unless such person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
+No information, if an establishment or person supplying the information or described in it is identifiable, obtained in the course of activities undertaken or supported under section 290aa–4of this title may be used for any purpose other than the purpose for which it was supplied unless such establishment or person has consented (as determined under regulations of the Secretary) to its use for such other purpose. Such information may not be published or released in other form if the person who supplied the information or who is described in it is identifiable unless such person has consented (as determined under regulations of the Secretary) to its publication or release in other form.
 
 #### (q) Authorization of appropriations
 
 For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
-(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218; Pub. L. 108–173, title IX, §900(e)(2)(A), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 111–148, title III, §3509(d), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. B, title VI, §§6001(a), (c)(2), 6002, 6003, 6005, 6006(a), Dec. 13, 2016, 130 Stat. 1202–1206, 1209, 1210.)
+(July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218; Pub. L. 108–173, title IX, §900(e)(2)(A), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 111–148, title III, §3509(d), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. B, title VI, §§6001(a), (c)(2), 6002, 6003, 6005, 6006(a), Dec. 13, 2016, 130 Stat. 1202–1206, 1209, 1210; Pub. L. 117–286, §4(a)(236), Dec. 27, 2022, 136 Stat. 4331; Pub. L. 117–328, div. FF, title I, §§1121(c)(2)(A), 1231, title II, §2112(a)–(c), Dec. 29, 2022, 136 Stat. 5650, 5673, 5721.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsecs. (d)(25), (l)(2), and (m)(7), is section 6021 of Pub. L. 114–255, which is set out as a note below.
-
-The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5.
-
-Section 6031 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsec. (l)(2), is section 6031 of Pub. L. 114–255, div. B, title VI, Dec. 13, 2016, 130 Stat. 1217, which is not classified to the Code.
+Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsecs. (d)(26), (l)(2), and (m)(8), is section 6021 of Pub. L. 114–255, which is set out as a note below.
 
 #### Codification
 
@@ -377,6 +383,26 @@ Section was formerly classified to section 3511 of this title prior to renumberi
 A prior section 501 of act July 1, 1944, which was classified to section 219 of this title, was successively renumbered by subsequent acts and transferred, see section 238 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(24), (25). Pub. L. 117–328, §2112(a), added par. (24) and redesignated former par. (24) as (25). Former par. (25) redesignated (26).
+
+Subsec. (d)(26). Pub. L. 117–328, §2112(a)(1), redesignated par. (25) as (26) relating to performance metrics.
+
+Pub. L. 117–328, §1231, added par. (26) relating to recovery housing and services.
+
+Subsec. (i). Pub. L. 117–286, which directed amendment of subsec. (h) by substituting "Chapter 10 of title 5" for "The Federal Advisory Committee Act", was executed by making the substitution in subsec. (i) to reflect the probable intent of Congress and the redesignation of subsec. (h) as (i) by Pub. L. 114–255, §6003(1). See 2016 Amendment note below.
+
+Subsec. (l)(2). Pub. L. 117–328, §1121(c)(2)(A), substituted "section 290aa–0b of this title" for "section 6031 of such Act".
+
+Subsec. (l)(4)(G). Pub. L. 117–328, §2112(b), added subpar. (G).
+
+Subsec. (m)(4). Pub. L. 117–328, §2112(c)(2), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (m)(5). Pub. L. 117–328, §2112(c)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (m)(5)(D) to (F). Pub. L. 117–328, §2112(c)(3), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+
+Subsec. (m)(6) to (8). Pub. L. 117–328, §2112(c)(1), redesignated pars. (5) to (7) as (6) to (8), respectively.
 
 <b>2016</b>—Subsec. (b). Pub. L. 114–255, §6002(1), substituted "Centers" for "Agencies" in heading and "Centers" for "entities" in introductory provisions.
 
@@ -476,7 +502,7 @@ Subsecs. (m) to (o). Pub. L. 106–310, §3102, added subsecs. (m) and (n), rede
 
 <b>1996</b>—Subsec. (g)(2)(A). Pub. L. 104–201 substituted "5724a(a), 5724a(c)" for "5724a(a)(1), 5724a(a)(3)".
 
-<b>1992</b>—Pub. L. 102–321 amended section generally, substituting provisions relating to the Substance Abuseand Mental Health Services Administration for provisions relating to the Alcohol, Drug Abuse, and Mental Health Administration.
+<b>1992</b>—Pub. L. 102–321 amended section generally, substituting provisions relating to the Substance Abuse and Mental Health Services Administration for provisions relating to the Alcohol, Drug Abuse, and Mental Health Administration.
 
 <b>1989</b>—Subsec. (b)(4). Pub. L. 101–93, §3(f)(1), substituted "for" for "of".
 
@@ -552,7 +578,7 @@ Substance Abuse and Mental Health Services Administration.—Except as specifica
 
 "(b)
 
-National Institutes.—Except as specifically provided otherwise in this Act or an amendment made by this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator ofthe Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment of this Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration.
+National Institutes.—Except as specifically provided otherwise in this Act or an amendment made by this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment of this Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration.
 
 "(c)
 
@@ -566,7 +592,7 @@ Substance Abuse and Mental Health Services Administration.—Except as otherwise
 
 "(b)
 
-National Institutes.—Except as otherwise provided in the Public Health Service Act, all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
+National Institutes.—Except as otherwise provided in the Public Health Service Act, all personnelemployed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 "(c)
 
@@ -624,7 +650,7 @@ No Abatement of Actions or Proceedings.—No action or other proceeding commence
 
 "(e)
 
-Substitution.—If, before the date of enactment of this Act \[July 10, 1992\], the Department of Health and Human Services, or any officer thereof in the official capacity of such officer, is a party to an action, and under this subtitle any function of such Department, Office, or officer is transferred to the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, then such action shall be continued with the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, as the case may be, substituted or added as a party.
+Substitution.—If, before the date of enactment of this Act \[July 10, 1992\], the Department of Health and Human Services, or any officer thereof in the official capacity of such officer, is a party to an action, and under this subtitle any function of such Department, Office, or officer is transferred to the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, then such action shall be continued with the Administrator of the Substance Abuse andMental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, as the case may be, substituted or added as a party.
 
 "(f)
 
@@ -786,7 +812,7 @@ Working Groups.—The Committee may establish working groups for purposes of car
 
 "(h)
 
-Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee only to the extent that the provisions of such Act do not conflict with the requirements of this section.
+Federal Advisory Committee Act.—The Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall apply to the Committee only to the extent that the provisions of such Act do not conflict with the requirements of this section.
 
 "(i)
 
@@ -824,77 +850,7 @@ Recommendations.—In carrying out this section, the Assistant Secretary for Pla
 
 #### Assisted Outpatient Treatment Grant Program for Individuals With Serious Mental Illness
 
-Pub. L. 113–93, title II, §224, Apr. 1, 2014, 128 Stat. 1083, as amended by Pub. L. 114–255, div. B, title IX, §9014, Dec. 13, 2016, 130 Stat. 1245, provided that:
-
-"(a)
-
-In General.—The Secretary shall establish a 4-year pilot program to award not more than 50 grants each year to eligible entities for assisted outpatient treatment programs for individuals with serious mental illness.
-
-"(b)
-
-Consultation.—The Secretary shall carry out this section in consultation with the Director of the National Institute of Mental Health, the Attorney General of the United States, the Administrator of the Administration for Community Living, and the Administrator of the Substance Abuse and Mental Health Services Administration.
-
-"(c)
-
-Selecting Among Applicants.—The Secretary—
-
-&emsp;"(1) may only award grants under this section to applicants that have not previously implemented an assisted outpatient treatment program; and
-
-&emsp;"(2) shall evaluate applicants based on their potential to reduce hospitalization, homelessness, incarceration, and interaction with the criminal justice system while improving the health and social outcomes of the patient.
-
-"(d)
-
-Use of Grant.—An assisted outpatient treatment program funded with a grant awarded under this section shall include—
-
-&emsp;"(1) evaluating the medical and social needs of the patients who are participating in the program;
-
-&emsp;"(2) preparing and executing treatment plans for such patients that—
-
-&emsp;&emsp;"(A) include criteria for completion of court-ordered treatment; and
-
-&emsp;&emsp;"(B) provide for monitoring of the patient's compliance with the treatment plan, including compliance with medication and other treatment regimens;
-
-&emsp;"(3) providing for such patients case management services that support the treatment plan;
-
-&emsp;"(4) ensuring appropriate referrals to medical and social service providers;
-
-&emsp;"(5) evaluating the process for implementing the program to ensure consistency with the patient's needs and State law; and
-
-&emsp;"(6) measuring treatment outcomes, including health and social outcomes such as rates of incarceration, health care utilization, and homelessness.
-
-"(e)
-
-Report.—Not later than the end of each of fiscal years 2016, 2017, 2018, 2019, 2020, 2021, and 2022, the Secretary shall submit a report to the appropriate congressional committees on the grant program under this section. Each such report shall include an evaluation of the following:
-
-&emsp;"(1) Cost savings and public health outcomes such as mortality, suicide, substance abuse, hospitalization, and use of services.
-
-&emsp;"(2) Rates of incarceration by patients.
-
-&emsp;"(3) Rates of homelessness among patients.
-
-&emsp;"(4) Patient and family satisfaction with program participation.
-
-"(f)
-
-Definitions.—In this section:
-
-&emsp;"(1) The term 'assisted outpatient treatment' means medically prescribed mental health treatment that a patient receives while living in a community under the terms of a law authorizing a State or local court to order such treatment.
-
-&emsp;"(2) The term 'eligible entity' means a county, city, mental health system, mental health court, or any other entity with authority under the law of the State in which the grantee is located to implement, monitor, and oversee assisted outpatient treatment programs.
-
-&emsp;"(3) The term 'Secretary' means the Secretary of Health and Human Services.
-
-"(g)
-
-Funding.—
-
-&emsp;"(1)
-
-Amount of grants.—A grant under this section shall be in an amount that is not more than $1,000,000 for each of fiscal years 2015 through 2022. Subject to the preceding sentence, the Secretary shall determine the amount of each grant based on the population of the area, including estimated patients, to be served under the grant.
-
-&emsp;"(2)
-
-Authorization of appropriations.—There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2015 through 2017, $20,000,000 for fiscal year 2018, $19,000,000 for eachof fiscal years 2019 and 2020, and $18,000,000 for each of fiscal years 2021 and 2022."
+Pub. L. 113–93, title II, §224, Apr. 1, 2014, 128 Stat. 1083, as amended by Pub. L. 114–255, div. B, title IX, §9014, Dec. 13, 2016, 130 Stat. 1245, which related to assisted outpatient treatment grant program for individuals with serious mental illness, was editorially reclassified as section 290aa–17 of this title.
 
 #### Report by Substance Abuse and Mental Health Services Administration
 
@@ -950,7 +906,7 @@ Section 1. <i>Purpose</i>. My Administration is committed to preventing the trag
 
 During the COVID–19 pandemic, the Federal Government has dedicated billions of dollars and thousands of hours in resources to help Americans, including approximately $425 million in emergency funds to address mental and substance use disorders through the Substance Abuse and Mental Health Services Administration. The pandemic has also exacerbated mental- and behavioral-health conditions as a result of stress from prolonged lockdown orders, lost employment, and social isolation. Survey data from the Centers for Disease Control and Prevention show that during the last week of June, 40.9 percent of Americans struggled with mental-health or substance-abuse issues and 10.7 percent reported seriously considering suicide. We must enhance the ability of the Federal Government, as well as its State, local, and Tribal partners, to appropriately address these ongoing mental- and behavioral-health concerns.
 
-Sec. 2. <i>Policy</i>. It is the policy of the United States to prevent suicides, drug-related deaths, and poor behavioral-health outcomes, particularly those that are induced or made worse by prolonged State and localCOVID–19 shutdown orders. I am therefore issuing a national call to action to:
+Sec. 2. <i>Policy</i>. It is the policy of the United States to prevent suicides, drug-related deaths, and poor behavioral-health outcomes, particularly those that are induced or made worse by prolonged State and local COVID–19 shutdown orders. I am therefore issuing a national call to action to:
 
 (a) Engage the resources of the Federal Government to address the mental- and behavioral-health needs of vulnerable Americans, including by:
 
@@ -993,4 +949,6 @@ Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> So in original. Two pars. (26) have been enacted.</i>
 

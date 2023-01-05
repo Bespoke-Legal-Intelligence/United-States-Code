@@ -22,7 +22,7 @@
 
 #### (b) Pediatric studies and research
 
-The Secretary, acting through the National Institutes of Health, shall award funds to entities that have the expertise to conduct pediatric clinical trials or other research (including qualified universities, hospitals, laboratories, contract research organizations, practice groups, federally funded programs such as pediatric pharmacology research units, other public or private institutions, or individuals) to enable the entities to conduct the drug studies or other research on the issues described in paragraphs (1) and (2)(A) of subsection (a). The Secretary may use contracts, grants, or other appropriate funding mechanisms to award funds under this subsection.
+The Secretary, acting through the National Institutes of Health, shall award funds to entities that have the expertise to conduct pediatric clinical trials or other research (including qualified universities, hospitals, laboratories, contract research organizations, practice groups,federally funded programs such as pediatric pharmacology research units, other public or private institutions, or individuals) to enable the entities to conduct the drug studies or other research on the issues described in paragraphs (1) and (2)(A) of subsection (a). The Secretary may use contracts, grants, or other appropriate funding mechanisms to award funds under this subsection.
 
 #### (c) Process for proposed pediatric study requests and labeling changes
 
@@ -124,13 +124,13 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this section, $25,000,000 for each of fiscal years 2018 through 2022.
+&emsp;There are authorized to be appropriated to carry out this section, $5,753,425 for the period beginning on October 1, 2022 and ending on December 23, 2022.<sup>1</sup>
 
 #### (2) Availability
 
 &emsp;Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
 
-(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049; Pub. L. 113–5, title III, §307(b), Mar. 13, 2013, 127 Stat. 192; Pub. L. 115–52, title V, §501, Aug. 18, 2017, 131 Stat. 1036.)
+(July 1, 1944, ch. 373, title IV, §409I, as added Pub. L. 107–109, §3(3), Jan. 4, 2002, 115 Stat. 1408; amended Pub. L. 108–155, §3(b)(6), Dec. 3, 2003, 117 Stat. 1942; Pub. L. 109–482, title I, §103(b)(14), Jan. 15, 2007, 120 Stat. 3687; Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886; Pub. L. 111–148, title VII, §7002(g)(2)(A), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§507(d), 509(d), July 9, 2012, 126 Stat. 1045, 1049; Pub. L. 113–5, title III, §307(b), Mar. 13, 2013, 127 Stat. 192; Pub. L. 115–52, title V, §501, Aug. 18, 2017, 131 Stat. 1036; Pub. L. 117–180, div. F, title V, §5001, Sept. 30, 2022, 136 Stat. 2167; Pub. L. 117–229, div. C, title III, §302, Dec. 16, 2022, 136 Stat. 2312; Pub. L. 117–328, div. FF, title III, §3102, Dec. 29, 2022, 136 Stat. 5807.)
 
 #### <b>Editorial Notes</b>
 
@@ -139,6 +139,12 @@ The Secretary, acting through the National Institutes of Health, shall award fun
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(10), (11), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(1). Pub. L. 117–328, which directed the substitution of "$25,000,000 for each of fiscal years 2023 through 2027" for "$5,273,973 for the period beginning on October 1, 2022 and ending on December 23, 2022", could not be executed because "$5,273,973" did not appear after the intervening amendment by Pub. L. 117–229. See below.
+
+Pub. L. 117–229 substituted "$5,753,425 for the period beginning on October 1, 2022 and ending on December 23, 2022" for "$5,273,973 for the period beginning on October 1, 2022 and ending on December 16, 2022".
+
+Pub. L. 117–180 substituted "$5,273,973 for the period beginning on October 1, 2022 and ending on December 16, 2022" for "$25,000,000 for each of fiscal years 2018 through 2022".
 
 <b>2017</b>—Subsec. (a)(2)(A)(ii). Pub. L. 115–52, §501(1), inserted "and identification of biomarkers for such diseases, disorders, or conditions," after "biologics,".
 
@@ -174,7 +180,7 @@ Subsec. (c)(1)(A)(i). Pub. L. 112–144, §509(d)(1)(B), inserted "or section 26
 
 Subsec. (c)(1)(B). Pub. L. 112–144, §509(d)(1)(C), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "there is no patent protection or market exclusivity protection for at least one form of the drug under the Federal Food, Drug, and Cosmetic Act; and".
 
-Subsec. (c)(2). Pub. L. 112–144, §509(d)(2), struck out "for drugs lacking exclusivity" after "applications" inheading, and in text struck out "under section 505 of the Federal Food, Drug, and Cosmetic Act" after "for the drug" and substituted "505A of the Federal Food, Drug, and Cosmetic Act or section 262(m) of this title" for "505A of such Act".
+Subsec. (c)(2). Pub. L. 112–144, §509(d)(2), struck out "for drugs lacking exclusivity" after "applications" in heading, and in text struck out "under section 505 of the Federal Food, Drug, and Cosmetic Act" after "for the drug" and substituted "505A of the Federal Food, Drug, and Cosmetic Act or section 262(m) of this title" for "505A of such Act".
 
 Subsec. (e)(1). Pub. L. 112–144, §507(d), substituted "to carry out this section, $25,000,000 for each of fiscal years 2013 through 2017." for "to carry out this section—
 
@@ -199,4 +205,6 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provided, see section 4 of Pub. L. 108–155, set out as an Effective Date note under section 355c of Title 21, Food and Drugs.
+
+<i><sup>1</sup></i><i> See 2022 Amendment notes below.</i>
 

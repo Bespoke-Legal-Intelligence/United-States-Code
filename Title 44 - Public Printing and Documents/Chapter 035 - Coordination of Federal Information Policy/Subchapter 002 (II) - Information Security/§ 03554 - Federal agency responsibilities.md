@@ -28,7 +28,7 @@ In General.—The head of each agency shall—
 
 &emsp;&emsp;(C) ensuring that information security management processes are integrated with agency strategic, operational, and budgetary planning processes;
 
-&emsp;(2) ensure that senior agency officials provide information security for the information and information systems that support the operations and assets under their control, including through—
+&emsp;(2) ensure that senior agency officials provide information security for the informationand information systems that support the operations and assets under their control, including through—
 
 &emsp;&emsp;(A) assessing the risk and magnitude of the harm that could result from the unauthorized access, use, disclosure, disruption, modification, or destruction of such information or information systems;
 
@@ -200,7 +200,7 @@ Performance Plan.—(1) In addition to the requirements of subsection (c), each 
 
 Public Notice and Comment.—Each agency shall provide the public with timely notice and opportunities for comment on proposed information security policies and procedures to the extent that such policies and procedures affect communication with the public.
 
-(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3078; amended Pub. L. 114–113, div. N, title II, §229(b), Dec. 18, 2015, 129 Stat. 2974; Pub. L. 115–390, title II, §204(a)(2), Dec. 21, 2018, 132 Stat. 5193.)
+(Added Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3078; amended Pub. L. 114–113, div. N, titleII, §229(b), Dec. 18, 2015, 129 Stat. 2974; Pub. L. 115–390, title II, §204(a)(2), Dec. 21, 2018, 132 Stat. 5193.)
 
 #### <b>Editorial Notes</b>
 

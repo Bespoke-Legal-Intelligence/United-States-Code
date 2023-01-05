@@ -12,7 +12,7 @@ The liability of the United States or an instrumentality of the United States un
 
 &emsp;&emsp;(C) a contractor that contracted with the Department of Energy to provide management and operation, management and integration, or environmental remediation of a Department of Energy facility (in its capacity as a contractor);
 
-&emsp;&emsp;(D) a subcontractor that provided services, including construction, at a Department of Energy facility (in its capacity as a subcontractor); and
+&emsp;&emsp;(D) a subcontractor that provided services, including construction, at a Department ofEnergy facility (in its capacity as a subcontractor); and
 
 &emsp;&emsp;(E) an employee, agent, or assign of an entity specified in subparagraphs (A) through (D);
 

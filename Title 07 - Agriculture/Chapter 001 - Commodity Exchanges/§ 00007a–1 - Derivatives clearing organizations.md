@@ -66,7 +66,7 @@ A person that clears 1 or more agreements, contracts, or transactions that are n
 
 #### (ii) Required procedures
 
-&emsp;&emsp;&emsp;Each derivatives clearing organization shall establish and implement proceduresto verify, on an ongoing basis, the compliance of each participation and membership requirement of the derivatives clearing organization.
+&emsp;&emsp;&emsp;Each derivatives clearing organization shall establish and implement procedures to verify, on an ongoing basis, the compliance of each participation and membership requirement of the derivatives clearing organization.
 
 #### (iii) Requirements
 
@@ -442,7 +442,7 @@ The Commission may exempt, conditionally or unconditionally, a derivatives clear
 
 #### (5) Confidentiality agreement
 
-&emsp;Before the Commission may share information with any entity described in paragraph (4), the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of this title relating to the information on swap transactions that is provided.
+&emsp;Before the Commission may share information with any entity described in paragraph\(4), the Commission shall receive a written agreement from each entity stating that the entity shall abide by the confidentiality requirements described in section 12 of this title relating to the information on swap transactions that is provided.
 
 #### (6) Public information
 

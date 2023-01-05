@@ -138,7 +138,7 @@ Any establishment within Canada engaged in the distribution of a prescription dr
 
 #### (g) Suspension of importation
 
-The Secretary shall require that importations of a specific prescription drug or importations by a specific importer under subsection (b) be immediately suspended on discovery of a pattern of importation of that specific prescription drug or by that specific importer of drugs that are counterfeit or in violation of any requirement under this section, until an investigation is completed and the Secretary determines that the public is adequately protected from counterfeit and violative prescription drugs being imported under subsection (b).
+The Secretary shall require that importations of a specific prescription drug or importations by a specific importer under subsection (b) be immediately suspended on discovery of a pattern of importation of that specific prescription drug or by that specific importer of drugs that are counterfeit or in violation of any requirement under this section, until an investigationis completed and the Secretary determines that the public is adequately protected from counterfeit and violative prescription drugs being imported under subsection (b).
 
 #### (h) Approved labeling
 
@@ -222,7 +222,7 @@ Nothing in this section limits the authority of the Secretary relating to the im
 
 &emsp;&emsp;&emsp;(bb) if the Secretary determines that any measures described in item (aa) would require additional statutory authority, submits to Congress a report describing the legislation that would be required;
 
-&emsp;&emsp;&emsp;(ii) identifies specifically, in qualitative and quantitative terms, the benefits that would result from implementation of this section (including the benefit of reductions in the cost of covered products to consumers in the United States, allowing consumers to procure needed medication that consumers might not otherwise be able to procure without foregoing other necessities of life); and
+&emsp;&emsp;&emsp;(ii) identifies specifically, in qualitative and quantitative terms, the benefits that would result from implementation of this section (including the benefit of reductionsin the cost of covered products to consumers in the United States, allowing consumers to procure needed medication that consumers might not otherwise be able to procure without foregoing other necessities of life); and
 
 &emsp;&emsp;&emsp;(iii)(I) compares in specific terms the detriment identified under clause (i) with the benefits identified under clause (ii); and
 

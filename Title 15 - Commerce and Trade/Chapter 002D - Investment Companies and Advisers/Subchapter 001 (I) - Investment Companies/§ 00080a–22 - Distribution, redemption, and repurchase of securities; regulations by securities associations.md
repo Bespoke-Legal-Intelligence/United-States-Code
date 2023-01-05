@@ -44,7 +44,7 @@ No registered open-end company shall restrict the transferability or negotiabili
 
 #### (g) Issuance of securities for services or property other than cash
 
-No registered open-end company shall issue any of its securities (1) for services; or (2) for property other than cash or securities (including securities of which such registered company is the issuer), except as a dividend or distribution to its security holders or in connection with a reorganization.
+No registered open-end company shall issue any of its securities (1) for services; or (2) for property other than cash or securities (includingsecurities of which such registered company is the issuer), except as a dividend or distribution to its security holders or in connection with a reorganization.
 
 (Aug. 22, 1940, ch. 686, title I, §22, 54 Stat. 823; Pub. L. 91–547, §12, Dec. 14, 1970, 84 Stat. 1422; Pub. L. 100–181, title VI, §616, Dec. 4, 1987, 101 Stat. 1262.)
 
@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 100–181, §616(4), (5), in introductory provisions, subst
 
 Subsec. (c). Pub. L. 91–547, §12(b), provided for application of rules and regulations to registered investment companies, struck out introductory phrase "After one year from the effective date of this chapter", "registered" before "securities association" where first appearing, and substituted "prescribed in subsection (a) of this section" for "prescribed in subsections (a) and (b) of this section" and ". Any rules and regulations" for "; and any rules and regulations".
 
-Subsec. (d). Pub. L. 91–547, §12(c), substituted "public offering price described in the prospectus. Nothing in this subsection" for "public offering price described in the prospectus: <i>Provided, however</i>, That nothing in thissubsection" and struck out "clause (1) or (2) of" before "section 80a–11(b) of this title".
+Subsec. (d). Pub. L. 91–547, §12(c), substituted "public offering price described in the prospectus. Nothing in this subsection" for "public offering price described in the prospectus: <i>Provided, however</i>, That nothing in this subsection" and struck out "clause (1) or (2) of" before "section 80a–11(b) of this title".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

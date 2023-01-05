@@ -10,7 +10,7 @@ Each statewide organization or consortium receiving a grant under this part shal
 
 &emsp;&emsp;(B) to communicate effectively with their children, teachers, school leaders, counselors, administrators, and other school personnel;
 
-&emsp;&emsp;(C) to become active participants in the development, implementation, and review ofschool-parent compacts, family engagement in education policies, and school planning and improvement;
+&emsp;&emsp;(C) to become active participants in the development, implementation, and review of school-parent compacts, family engagement in education policies, and school planning and improvement;
 
 &emsp;&emsp;(D) to participate in the design and provision of assistance to students who are not making academic progress;
 

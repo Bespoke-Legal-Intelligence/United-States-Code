@@ -6,7 +6,7 @@ Following any investigation conducted in accordance with section 973h(b) of this
 
 &emsp;(1) that the fishing vessel—
 
-&emsp;&emsp;(A) while fishing in the Licensing Area did not have a license under the Treaty to fishin the Licensing Area, and that under paragraph 2 of Article 3 of the Treaty, such fishing is not authorized to be conducted in the Licensing Area without a license;
+&emsp;&emsp;(A) while fishing in the Licensing Area did not have a license under the Treaty to fish in the Licensing Area, and that under paragraph 2 of Article 3 of the Treaty, such fishing is not authorized to be conducted in the Licensing Area without a license;
 
 &emsp;&emsp;(B) was involved in any incident in which an Authorized Officer, Authorized Party Officer, or observer was allegedly assaulted with resultant bodily harm, physically threatened, forcefully resisted, refused boarding, or subjected to physical intimidation or physical interference in the performance of duties as authorized by this chapter or the Treaty;
 

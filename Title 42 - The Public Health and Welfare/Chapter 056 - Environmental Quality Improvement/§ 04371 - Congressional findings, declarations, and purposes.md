@@ -12,7 +12,7 @@
 
 (2) The primary responsibility for implementing this policy rests with State and local government.
 
-(3) The Federal Government encourages and supports implementation of this policy through appropriate regional organizations established under existing law.
+(3) The Federal Government encourages and supports implementation of this policy throughappropriate regional organizations established under existing law.
 
 (c) The purposes of this chapter are—
 
@@ -26,7 +26,7 @@
 
 #### References in Text
 
-Public Law 91–190, referred to in subsec. (c)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+Public Law 91–190, referred to in subsec. (c)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

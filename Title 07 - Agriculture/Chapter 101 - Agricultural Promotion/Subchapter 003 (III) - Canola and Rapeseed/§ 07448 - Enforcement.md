@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-The district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, an order or regulation made or issued under this subchapter.
+The district courts of the United States are vested with jurisdiction specifically to enforce,and to prevent and restrain any person from violating, an order or regulation made or issued under this subchapter.
 
 #### (b) Referral to Attorney General
 
@@ -26,7 +26,7 @@ A civil action authorized to be commenced under this section shall be referred t
 
 #### (2) Cease-and-desist orders
 
-&emsp;In addition to, or in lieu of, a civil penalty under paragraph (1), the Secretary may issuean order requiring a person to cease and desist from continuing a violation.
+&emsp;In addition to, or in lieu of, a civil penalty under paragraph (1), the Secretary may issue an order requiring a person to cease and desist from continuing a violation.
 
 #### (3) Notice and hearing
 

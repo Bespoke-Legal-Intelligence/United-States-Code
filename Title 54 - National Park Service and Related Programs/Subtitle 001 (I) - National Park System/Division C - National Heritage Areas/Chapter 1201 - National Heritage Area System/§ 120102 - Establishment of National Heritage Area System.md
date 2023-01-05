@@ -1,0 +1,64 @@
+### §120102. Establishment of National Heritage Area System
+
+(a)
+
+In General.—To recognize certain areas of the United States that tell nationally significant stories and to conserve, enhance, and interpret those nationally significant stories and thenatural, historic, scenic, and cultural resources of areas that illustrate significant aspects of the heritage of the United States, there is established a National Heritage Area System through the administration of which the Secretary may provide technical and financial assistance to local coordinating entities to support the establishment, development, and continuity of the National Heritage Areas.
+
+(b)
+
+National Heritage Area System Components.—The National Heritage Area System shall be composed of—
+
+&emsp;(1) each National Heritage Area, National Heritage Corridor, National Heritage Canalway, Cultural Heritage Corridor, National Heritage Route, and National Heritage Partnership designated by Congress before or on the date of enactment of this chapter; and
+
+&emsp;(2) each National Heritage Area designated by Congress after the date of enactment of this chapter.
+
+(c)
+
+Relationship to the System.—
+
+&emsp;(1)
+
+Relationship to system units.—The Secretary shall—
+
+&emsp;&emsp;(A) ensure, to the maximum extent practicable, participation and assistance by any administrator of the System unit that is located near or encompassed by a National Heritage Area in local initiatives for the National Heritage Area to conserve and interpret resources consistent with the applicable management plan for the National Heritage Area; and
+
+&emsp;&emsp;(B) work with local coordinating entities to promote public enjoyment of System units and System-related resources.
+
+&emsp;(2)
+
+Treatment.—
+
+&emsp;&emsp;(A)
+
+In general.—A National Heritage Area shall not be—
+
+&emsp;&emsp;&emsp;(i) considered to be a System unit; or
+
+&emsp;&emsp;&emsp;(ii) subject to the authorities applicable to System units.
+
+&emsp;&emsp;(B)
+
+Effect.—Nothing in this paragraph affects the administration of a System unit located within the boundaries of a National Heritage Area.
+
+(d)
+
+Authorities.—In carrying out this chapter, the Secretary may—
+
+&emsp;(1) conduct or review, as applicable, feasibility studies in accordance with section 120103(a);
+
+&emsp;(2) conduct an evaluation of the accomplishments of, and submit to Congress a report that includes recommendations regarding the role of the Service with respect to, each National Heritage Area, in accordance with section 120104;
+
+&emsp;(3) enter into cooperative agreements with other Federal agencies, States, Tribal governments, local governments, local coordinating entities, and other interested individuals and entities to achieve the purposes of the National Heritage Area System;
+
+&emsp;(4) provide information, promote understanding, and encourage research regarding National Heritage Areas, in partnership with local coordinating entities; and
+
+&emsp;(5) provide national oversight, analysis, coordination, technical and financial assistance, and support to ensure consistency and accountability of the National Heritage Area System.
+
+(Added Pub. L. 117–339, §2(a), Jan. 5, 2023, 136 Stat. 6158.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The date of enactment of this chapter, referred to in subsec. (b), is the date of enactment of Pub. L. 117–339, which was approved Jan. 5, 2023.
+

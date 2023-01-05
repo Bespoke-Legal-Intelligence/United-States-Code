@@ -22,7 +22,7 @@ Subsec. (b). Pub. L. 94–502, §310(16), substituted "the person's" for "his" a
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–540, §312(1), inserted provision requiring the Administrator to pay in accordance with the provisions of section 1780 of this title.
 
-Subsec. (b). Pub. L. 92–540, §312(2), (3), redesignated subsec. (d) as (b). Former subsec. (b), which provided for the payment of the educational assistance allowance, pursuant to section 1732 of this title, to the eligible person only for a period of his enrollment as approved by the Administrator subject to certain limitations, was struck out.
+Subsec. (b). Pub. L. 92–540, §312(2), (3), redesignated subsec. (d) as (b). Former subsec. (b), which provided forthe payment of the educational assistance allowance, pursuant to section 1732 of this title, to the eligible person only for a period of his enrollment as approved by the Administrator subject to certain limitations, was struck out.
 
 Subsec. (c). Pub. L. 92–540, §312(2), struck out subsec. (c) which authorized the Administrator, pursuant to regulations, to determine enrollment in, pursuit of, and attendance at, any program of education or course by an eligible person.
 
@@ -30,7 +30,7 @@ Subsec. (d). Pub. L. 92–540, §312(3), redesignated subsec. (d) as (b).
 
 Subsec. (e). Pub. L. 92–540, §312(2), struck out subsec. (e) which related to the prompt payment by the Administrator of the allowance to the eligible person.
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–358 added subsec. (c) and struck out former subsec. (c) which conditioned payment of allowance to eligible person taking college degree course on receipt from such person of certification of enrollment and pursuit of such course and from educational institution certification or indorsement on student's certification of enrollment and pursuit of such course, prescribed such conditions for eligible person taking a course not leading to college degree as arenow incorporated in subsec. (d) of this section, and required payments to be made within twenty days after receipt of requisite certifications, now incorporated in subsec. (e) of this section.
+<b>1966</b>—Subsec. (c). Pub. L. 89–358 added subsec. (c) and struck out former subsec. (c) which conditioned payment of allowance to eligible person taking college degree course on receipt from such person of certification of enrollment and pursuit of such course and from educational institution certification or indorsement on student's certification of enrollment and pursuit of such course, prescribed such conditions for eligible person taking a course not leading to college degree as are now incorporated in subsec. (d) of this section, and required payments to be made within twenty days after receipt of requisite certifications, now incorporated in subsec. (e) of this section.
 
 Subsec. (d). Pub. L. 89–358 redesignated provisions of former subsec. (c)(1)(B), (2) as subsec. (d).
 

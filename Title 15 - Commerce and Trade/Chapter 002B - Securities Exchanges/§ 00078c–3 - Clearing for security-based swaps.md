@@ -88,7 +88,7 @@
 
 #### (1) In general
 
-&emsp;The Commission shall prescribe rules under this section (and issue interpretations of rulesprescribed under this section), as determined by the Commission to be necessary to prevent evasions of the mandatory clearing requirements under this chapter.
+&emsp;The Commission shall prescribe rules under this section (and issue interpretations of rules prescribed under this section), as determined by the Commission to be necessary to prevent evasions of the mandatory clearing requirements under this chapter.
 
 #### (2) Duty of Commission to investigate and take certain actions
 
@@ -182,7 +182,7 @@ Rules adopted by the Commission under this section shall provide for the reporti
 
 &emsp;&emsp;&emsp;(i) enters into the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, and the commercial risk that the affiliate is hedging or mitigating has been transferred to the affiliate;
 
-&emsp;&emsp;&emsp;(ii) is directly and wholly-owned by another affiliate qualified for the exceptionunder this paragraph or an entity that is not a financial entity;
+&emsp;&emsp;&emsp;(ii) is directly and wholly-owned by another affiliate qualified for the exception under this paragraph or an entity that is not a financial entity;
 
 &emsp;&emsp;&emsp;(iii) is not indirectly majority-owned by a financial entity;
 

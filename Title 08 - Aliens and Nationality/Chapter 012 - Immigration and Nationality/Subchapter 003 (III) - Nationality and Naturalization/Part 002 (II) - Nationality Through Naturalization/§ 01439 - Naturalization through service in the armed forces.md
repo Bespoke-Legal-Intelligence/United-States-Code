@@ -14,7 +14,7 @@ A person filing an application under subsection (a) of this section shall comply
 
 &emsp;(3) the applicant shall furnish to the Secretary of Homeland Security, prior to any hearing upon his application, a certified statement from the proper executive department for each period of his service upon which he relies for the benefits of this section, clearly showing that such service was honorable and that no discharges from service, including periods of service not relied upon by him for the benefits of this section, were other than honorable (the certificate or certificates herein provided for shall be conclusive evidence of such service and discharge); and
 
-&emsp;(4) notwithstanding any other provision of law, no fee shall be charged or collected from the applicant for filing the application, or for the issuance of a certificate of naturalization upon being granted citizenship, and no clerk of any State court shall charge or collect any fee for such services unless the laws of the State require such charge to be made, in which case nothing more than the portion of the fee required to be paid to the State shall be charged or collected.
+&emsp;(4) notwithstanding any other provision of law, no fee shall be charged or collected from the applicant for filing the application, or for the issuance of a certificate of naturalization upon being granted citizenship, and no clerk of any State court shall charge or collect any fee for such services unless the laws of the State require such charge to be made, in which casenothing more than the portion of the fee required to be paid to the State shall be charged or collected.
 
 #### (c) Periods when not in service
 
@@ -66,10 +66,6 @@ Subsec. (d). Pub. L. 101–649, §407(c)(10), substituted references to applican
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Change of Name
-
-Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law of Committee on the Judiciary of the House of Representatives changed to Subcommittee on Immigration Policy and Enforcement of Committee on the Judiciary of the House of Representatives under Rule V(b) of the Committee's rules of procedure adopted Jan. 19, 2011.
-
 #### Termination Date of 2008 Amendment
 
 Amendment by Pub. L. 110–382 repealed 5 years after Oct. 9, 2008, see section 4 of Pub. L. 110–382, set out as a note under section 271 of Title 6, Domestic Security.
@@ -98,5 +94,5 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

@@ -8,7 +8,7 @@
 
 #### (b) Antitrust laws
 
-For purposes of the antitrust laws, the performance by the private corporation of a "matched import" contract under the Suspension Agreement shall be considered to have occurred prior to the privatization date, if at the time of privatization, such contract had been agreed to by the parties in all material termsand confirmed by the Secretary of Commerce under the Suspension Agreement.
+For purposes of the antitrust laws, the performance by the private corporation of a "matched import" contract under the Suspension Agreement shall be considered to have occurred prior to the privatization date, if at the time of privatization, such contract had been agreed to by the parties in all material terms and confirmed by the Secretary of Commerce under the Suspension Agreement.
 
 #### (c) Energy Reorganization Act requirements
 
@@ -22,7 +22,7 @@ For purposes of the antitrust laws, the performance by the private corporation o
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(1), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(1), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Codification
 

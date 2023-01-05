@@ -148,7 +148,7 @@ The Families First Coronavirus Response Act, referred to in subsec. (a)(3)(C), i
 
 <b>2020</b>—Subsec. (a)(1)(A). Pub. L. 116–136, §19008(1), which directed amendment of subpar. (A) by inserting cl. (i) designation and heading before "In lieu of", was not executed due to intervening amendment by Pub. L. 116–136, §3605, see below.
 
-Pub. L. 116–136, §3605, amended subpar. (A) generally. Prior to amendment, text read as follows: "In lieu of the definition in sections 2611(2)(A) and 2611(2)(B)(ii) of this title, the term 'eligible employee' means an employee who has been employed for at least 30 calendardays by the employer with respect to whom leave is requested under section 2612(a)(1)(F) of this title."
+Pub. L. 116–136, §3605, amended subpar. (A) generally. Prior to amendment, text read as follows: "In lieu of the definition in sections 2611(2)(A) and 2611(2)(B)(ii) of this title, the term 'eligible employee' means an employee who has been employed for at least 30 calendar days by the employer with respect to whom leave is requested under section 2612(a)(1)(F) of this title."
 
 Subsec. (a)(1)(A)(ii). Pub. L. 116–136, §19008(2), added cl. (ii) related to special rule regarding eligible employees.
 
@@ -186,7 +186,7 @@ Pub. L. 116–127, div. C, §3104, Mar. 18, 2020, 134 Stat. 192, as amended by P
 
 #### Special Rule for Health Care Providers and Emergency Responders
 
-Pub. L. 116–127, div. C, §3105, Mar. 18, 2020, 134 Stat. 192, provided that: "An employer of an employee who is a health care provider or an emergency responder may elect to exclude such employee from the application of the provisions in the amendments made under of \[sic\] section 3102 of this Act \[div. C of Pub. L. 116–127, enacting this section and amending section 2612 of this title\]."
+Pub. L. 116–127, div. C, §3105, Mar. 18, 2020, 134 Stat. 192, provided that: "An employer of an employee who isa health care provider or an emergency responder may elect to exclude such employee from the application of the provisions in the amendments made under of \[sic\] section 3102 of this Act \[div. C of Pub. L. 116–127, enacting this section and amending section 2612 of this title\]."
 
 <i><sup>1</sup></i><i> So in original. Two cls. (ii) have been enacted.</i>
 

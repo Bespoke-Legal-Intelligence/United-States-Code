@@ -12,7 +12,7 @@ The Secretary may not charge any fee or charge not expressly provided in this ch
 
 #### (1) In general
 
-&emsp;To facilitate timely action on applications by borrowers for financial assistance under this chapter and for approvals required of theRural Electrification Administration pursuant to the terms of outstanding loan or security instruments or otherwise, the Secretary may use consultants funded by the borrower, paid for out of the general funds of the borrower, for financial, legal, engineering, and other technical advice and services in connection with the review of the application by the Rural Electrification Administration.
+&emsp;To facilitate timely action on applications by borrowers for financial assistance under this chapter and for approvals required of the Rural Electrification Administration pursuant to the terms of outstanding loan or security instruments or otherwise, the Secretary may use consultants funded by the borrower, paid for out of the general funds of the borrower, for financial, legal, engineering, and other technical advice and services in connection with the review of the application by the Rural Electrification Administration.
 
 #### (2) Conflicts of interest
 

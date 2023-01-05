@@ -34,7 +34,7 @@ In administering funds under section 3871d(d)(2) of this title, the Secretary sh
 
 #### (1) In general
 
-&emsp;The Secretary shall identify 1 or more priority resource concerns that apply to each critical conservation area designated under this section after February 7, 2014, including the conservation goals and outcomes sufficient to demonstrate that progress is being made to address the priority resource concern.
+&emsp;The Secretary shall identify 1 or more priority resource concerns that apply to eachcritical conservation area designated under this section after February 7, 2014, including the conservation goals and outcomes sufficient to demonstrate that progress is being made to address the priority resource concern.
 
 #### (2) Priority
 

@@ -30,7 +30,7 @@
 
 &emsp;(6) a contract to rent property is deemed to be a contract to acquire the property.
 
-(b) This chapter applies to the Tennessee Valley Authority. However, regulations prescribed under this chapter do not apply to the Authority, and the Authority alone is responsible for carrying out this chapter as it applies to contracts of the Authority.
+(b) This chapter applies to the Tennessee Valley Authority. However, regulations prescribed under this chapter do not apply to the Authority, and the Authority alone is responsible forcarrying out this chapter as it applies to contracts of the Authority.
 
 (c) This chapter applies to the United States Postal Service. However, the Postmaster General shall be responsible for issuing the implementing procurement regulations, solicitation provisions, and contract clauses for the United States Postal Service.
 
@@ -68,7 +68,7 @@ May 21, 1982, Pub. L. 97–177, §§6, 7(c), 96 Stat. 87, 88.
 
 In the chapter, the words "the head of" are added for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(1), the word "Federal" is omitted as unnecessary and for consistency in the revised title andwith other titles of the Code. The words "for this purpose" are omitted because of the restatement. The words "the purpose of" and "or more" are omitted as surplus.
+In subsection (a)(1), the word "Federal" is omitted as unnecessary and for consistency in the revised title and with other titles of the Code. The words "for this purpose" are omitted because of the restatement. The words "the purpose of" and "or more" are omitted as surplus.
 
 In subsection (a)(5), the words "deemed to be" are substituted for "considered" for consistency in the revised title and with other titles of the Code.
 

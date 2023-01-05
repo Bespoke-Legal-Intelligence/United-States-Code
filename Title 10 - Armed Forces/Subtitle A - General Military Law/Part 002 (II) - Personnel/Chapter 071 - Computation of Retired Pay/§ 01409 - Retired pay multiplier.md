@@ -136,7 +136,7 @@ Subsec. (b)(4)(C)(iv), (v). Pub. L. 114–328, §631(a)(2), added cls. (iv) and 
 
 <b>2008</b>—Subsec. (b)(2). Pub. L. 110–181, in introductory provisions, substituted "section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354" for "section 322".
 
-<b>2006</b>—Subsec. (b)(3). Pub. L. 109–364 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "In the case of a member with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent."
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–364 amended heading and text of par. (3) generally. Prior to amendment, textread as follows: "In the case of a member with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent."
 
 <b>1999</b>—Subsec. (b)(2). Pub. L. 106–65 inserted "certain" after "Reduction applicable to" in heading and "has elected to receive a bonus under section 322 of title 37," after "July 31, 1986," in introductory provisions.
 

@@ -46,7 +46,7 @@ It is the sense of Congress that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the group is substantially similar to the group of financial institutions described in section 104(c)(2)(E)(ii) of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8513(c)(2)(E)(ii)); and
 
-&emsp;&emsp;&emsp;&emsp;(II) the differences between those groups of financial institutions do notadversely affect the national interest of the United States; and
+&emsp;&emsp;&emsp;&emsp;(II) the differences between those groups of financial institutions do not adversely affect the national interest of the United States; and
 
 &emsp;&emsp;(B) the person has, pursuant to that sanctions regime, terminated the knowing provision of such messaging services to, and the knowing enabling and facilitation of direct or indirect access to such messaging services for, the Central Bank of Iran and each Iranian financial institution identified under such governing foreign law for purposes of that sanctions regime.
 

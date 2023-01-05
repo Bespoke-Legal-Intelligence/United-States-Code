@@ -20,7 +20,7 @@ Additional General Officers.—(1) In addition to the Chief and Vice Chief of th
 
 (C) An officer on active duty for service as the Director, Army National Guard, or the Director, Air National Guard, shall be counted for purposes of the grade limitations under sections 525 and 526 of this title.
 
-(D) The Director, Army National Guard, and the Director, Air National Guard, are appointed for a period of four years, but may be removed for cause at any time. An officer serving as either Director may be reappointed for one additional four-year period.
+(D) The Director, Army National Guard, and the Director, Air National Guard, are appointed for a period of four years, but may be removedfor cause at any time. An officer serving as either Director may be reappointed for one additional four-year period.
 
 (b)
 

@@ -20,7 +20,7 @@
 
 (d) Nothing in this section may be construed to limit the ability of the Government to forfeit property under any provision of law if the property involved in the offense giving rise to the forfeiture or property traceable thereto is available for forfeiture.
 
-(Added Pub. L. 102–550, title XV, §1522(a), Oct. 28, 1992, 106 Stat. 4063; amended Pub. L. 103–325, titleIV, §411(c)(2)(E), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 106–185, §13(a), Apr. 25, 2000, 114 Stat. 218.)
+(Added Pub. L. 102–550, title XV, §1522(a), Oct. 28, 1992, 106 Stat. 4063; amended Pub. L. 103–325, title IV, §411(c)(2)(E), Sept. 23, 1994, 108 Stat. 2253; Pub. L. 106–185, §13(a), Apr. 25, 2000, 114 Stat. 218.)
 
 #### <b>Editorial Notes</b>
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 106–185, §13(a)(1), redesignated subsec. (c) as (b). For
 
 Subsec. (c). Pub. L. 106–185, §13(a)(1), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (c)(1). Pub. L. 106–185, §13(a)(3)(A), added par. (1) and struck out former par. (1) which read as follows: "No action pursuant to this section to forfeit property not traceable directly to the offense that is the basis for the forfeiture may be taken against funds held by a financial institution in an interbank account, unless the financial institution holding the account knowingly engaged in the offense."
+Subsec. (c)(1). Pub. L. 106–185, §13(a)(3)(A), added par. (1) and struck out former par. (1) which read as follows: "No action pursuant to this section to forfeit propertynot traceable directly to the offense that is the basis for the forfeiture may be taken against funds held by a financial institution in an interbank account, unless the financial institution holding the account knowingly engaged in the offense."
 
 Subsec. (c)(2). Pub. L. 106–185, §13(a)(3)(B), substituted "In this subsection—" for "As used in this section, the term", added subpar. (A), and inserted "(B) the term" before " 'interbank account' means".
 

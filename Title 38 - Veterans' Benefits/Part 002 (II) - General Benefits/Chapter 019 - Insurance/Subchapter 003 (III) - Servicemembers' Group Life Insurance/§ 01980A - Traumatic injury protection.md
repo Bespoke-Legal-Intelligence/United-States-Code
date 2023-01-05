@@ -76,7 +76,7 @@
 
 (f) When a claim for benefits is submitted under this section, the Secretary of Defense or, in the case of a member not under the jurisdiction of the Secretary of Defense, the Secretary concerned, shall certify to the Secretary whether the member with respect to whom the claim is submitted—
 
-&emsp;(1) was at the time of the injury giving rise to the claim insured under Servicemembers' Group Life Insurance for the purposes of this section; and
+&emsp;(1) was at the time of the injury giving rise to the claim insured under Servicemembers'Group Life Insurance for the purposes of this section; and
 
 &emsp;(2) has sustained a qualifying loss.
 
@@ -92,7 +92,7 @@
 
 (k)
 
-Designation of Fiduciary or Trustee.—(1) The Secretary concerned, in consultation with the Secretary, shall develop a process for the designation of a fiduciary or trustee of a member of the uniformed services who is insuredagainst traumatic injury under this section. The fiduciary or trustee so designated would receive a payment for a qualifying loss under this section if the member is medically incapacitated (as determined pursuant to regulations prescribed by the Secretary concerned in consultation with the Secretary) or experiencing an extended loss of consciousness.
+Designation of Fiduciary or Trustee.—(1) The Secretary concerned, in consultation with the Secretary, shall develop a process for the designation of a fiduciary or trustee of a member of the uniformed services who is insured against traumatic injury under this section. The fiduciary or trustee so designated would receive a payment for a qualifying loss under this section if the member is medically incapacitated (as determined pursuant to regulations prescribed by the Secretary concerned in consultation with the Secretary) or experiencing an extended loss of consciousness.
 
 (2) The process under paragraph (1) may require each member of the uniformed services who is insured under this section to—
 
@@ -212,7 +212,7 @@ Certification of persons entitled to payment.—The Secretary concerned shall ce
 
 "(3)
 
-Funding.—At the time a certification is made under paragraph (2), the Secretary concerned, from funds then available to that Secretary for the pay of members of the uniformed services under the jurisdiction of that Secretary, shall pay to the Secretary of Veterans Affairs the amount of funds the Secretary of Veterans Affairs determines to be necessary to pay all costs related to payments to be made under that certification. Amounts received by the Secretary of Veterans Affairs under this paragraph shall be deposited to the credit of the revolving fund in the Treasury of the United States established under section 1969(d) of title 38, United States Code.
+Funding.—At the time a certification is made under paragraph (2), the Secretary concerned, from funds then available to that Secretary for the pay of members of the uniformed services under the jurisdiction of that Secretary, shall pay to the Secretary ofVeterans Affairs the amount of funds the Secretary of Veterans Affairs determines to be necessary to pay all costs related to payments to be made under that certification. Amounts received by the Secretary of Veterans Affairs under this paragraph shall be deposited to the credit of the revolving fund in the Treasury of the United States established under section 1969(d) of title 38, United States Code.
 
 "(4)
 

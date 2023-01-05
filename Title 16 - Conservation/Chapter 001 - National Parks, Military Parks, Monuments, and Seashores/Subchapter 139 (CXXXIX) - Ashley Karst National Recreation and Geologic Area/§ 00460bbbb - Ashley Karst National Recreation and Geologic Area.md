@@ -130,7 +130,7 @@ The Secretary shall only allow such uses of the Recreation Area that would—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall offer to enter into a cooperative agreement with authorized users and local governmental entities to provide, in accordance with any applicable law (including regulations)—
+&emsp;&emsp;The Secretary shall offer to enter into a cooperative agreement with authorized usersand local governmental entities to provide, in accordance with any applicable law (including regulations)—
 
 &emsp;&emsp;&emsp;(i) access, including motorized access, for repair and maintenance to water infrastructure facilities within the Recreation Area, including Whiterocks Reservoir, subject to such terms and conditions as the Secretary determines to be necessary; and
 

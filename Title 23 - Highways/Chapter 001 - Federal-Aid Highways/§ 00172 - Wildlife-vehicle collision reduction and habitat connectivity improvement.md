@@ -124,7 +124,7 @@ Standardized methodology.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary, acting through the Administrator of the Federal Highway Administration (referred to in this subsection as the "Secretary"), shall develop a quality standardized methodologyfor collecting and reporting spatially accurate wildlife collision and carcass data for the National Highway System, considering the practicability of the methodology with respect to technology and cost.
+In general.—The Secretary, acting through the Administrator of the Federal Highway Administration (referred to in this subsection as the "Secretary"), shall develop a quality standardized methodology for collecting and reporting spatially accurate wildlife collision and carcass data for the National Highway System, considering the practicability of the methodology with respect to technology and cost.
 
 &emsp;&emsp;(B)
 

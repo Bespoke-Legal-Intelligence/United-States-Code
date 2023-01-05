@@ -60,5 +60,5 @@ This Act, referred to in subsec. (a), is Pub. L. 102–486, Oct. 24, 1992, 106 S
 
 #### Codification
 
-Section was enacted as part of the Energy Policy Act of 1992, and not as part of act Feb. 25, 1920, ch. 85, 41Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
+Section was enacted as part of the Energy Policy Act of 1992, and not as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
 

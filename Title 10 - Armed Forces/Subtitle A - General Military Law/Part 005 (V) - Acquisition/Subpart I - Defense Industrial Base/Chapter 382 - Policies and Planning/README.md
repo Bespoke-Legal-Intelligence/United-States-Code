@@ -11,7 +11,7 @@
 | [4817\.](%C2%A7%2004817%20-%20Industrial%20Base%20Fund.md) | Industrial Base Fund. |
 | [4818\.](%C2%A7%2004818%20-%20Data%20collection%20authority%20of%20President.md) | Data collection authority of President. |
 | [4819\.](%C2%A7%2004819%20-%20Modernization%20of%20acquisition%20processes%20to%20ensure%20integrity%20of%20industrial%20base.md) | Modernization of acquisition processes to ensure integrity of industrial base. |
-| [4820\.](%C2%A7%2004820%20-%20National%20technology%20and%20industrial%20base%20plans%2C%20policy%2C%20and%20guidance.md) | National technology and industrial base plans, policy, and guidance.<br> |
+| [4820\.](%C2%A7%2004820%20-%20National%20technology%20and%20industrial%20base%20plans%2C%20policy%2C%20and%20guidance.md) | National technology and industrial base plans, policy, and guidance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

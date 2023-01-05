@@ -28,7 +28,7 @@ Provisions similar to those in this section were contained in section 5898(e) of
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383, §503(c)(1), added subsec. (a) and struck out former subsec. (a). Prior toamendment, text read as follows: "The proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board."
+<b>2011</b>—Subsec. (a). Pub. L. 111–383, §503(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The proceedings of a selection board convened under section 14101 of this title may not be disclosed to any person not a member of the board."
 
 Subsec. (b). Pub. L. 111–383, §503(c)(2), substituted "Notes, and Records" for "and Records" in heading.
 

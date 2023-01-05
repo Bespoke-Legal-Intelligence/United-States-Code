@@ -98,7 +98,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 #### (ii) Fourth-tier ownership
 
-&emsp;&emsp;&emsp;If the fourth-tier of ownership is that of a fourth-tier legal entity and not that of aperson, the Secretary shall reduce the amount of the payment to be made to the first-tier legal entity in the amount that represents the indirect ownership in the first-tier legal entity by the fourth-tier legal entity.
+&emsp;&emsp;&emsp;If the fourth-tier of ownership is that of a fourth-tier legal entity and not that of a person, the Secretary shall reduce the amount of the payment to be made to the first-tier legal entity in the amount that represents the indirect ownership in the first-tier legal entity by the fourth-tier legal entity.
 
 #### (f) Special rules
 
@@ -224,7 +224,7 @@ Nothing in this section authorizes any limitation on any benefit associated with
 
 Regulations of the Secretary shall establish time limits for the various steps involved with notice, hearing, decision, and the appeals procedure in order to ensure expeditious handling and settlement of payment limitation disputes. Notwithstanding any other provision of law, actions taken by an individual or other entity in good faith on action or advice of an authorized representative of the Secretary may be accepted as meeting the requirement under this section or section 1308–1 of this title, to the extent the Secretary deems it desirable in order to provide fair and equitable treatment.
 
-(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214; Pub. L. 110–234, title I, §1603(a), (b), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, §4(a), title I, §1603(a), (b), June 18, 2008, 122 Stat. 1664, 1730; Pub. L. 113–79, title I, §§1603(a)–(b)(2), 1605(f), Feb. 7, 2014, 128 Stat. 705, 706, 708; Pub. L. 115–334, title I, §1703(a), Dec. 20, 2018, 132 Stat. 4525.)
+(Pub. L. 99–198, title X, §1001, Dec. 23, 1985, 99 Stat. 1444; Pub. L. 99–500, §108(a), Oct. 18, 1986,100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346; Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428; Pub. L. 100–203, title I, §§1301(a)(1), (2), 1303, 1305(c), 1307, Dec. 22, 1987, 101 Stat. 1330–12, 1330–16, 1330–18, 1330–19; Pub. L. 101–217, §§1, 2, Dec. 11, 1989, 103 Stat. 1857; Pub. L. 101–624, title XI, §1111(a), (c), (e), Nov. 28, 1990, 104 Stat. 3497–3499; Pub. L. 102–237, title I, §118(b), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 103–66, title I, §1101(b)(3)(A), Aug. 10, 1993, 107 Stat. 314; Pub. L. 104–127, title I, §115(b), Apr. 4, 1996, 110 Stat. 902; Pub. L. 107–171, title I, §1603(a), (b), May 13, 2002, 116 Stat. 213, 214; Pub. L. 110–234, title I, §1603(a), (b), May 22, 2008, 122 Stat. 1002; Pub. L. 110–246, §4(a), title I, §1603(a), (b), June 18, 2008, 122 Stat. 1664, 1730; Pub. L. 113–79, title I, §§1603(a)–(b)(2), 1605(f), Feb. 7, 2014, 128 Stat. 705, 706, 708; Pub. L. 115–334, title I, §1703(a), Dec. 20, 2018, 132 Stat. 4525.)
 
 #### <b>Editorial Notes</b>
 
@@ -320,7 +320,7 @@ Par. (5)(B)(iii). Pub. L. 101–624, §1111(c), amended cl. (iii) generally. Pri
 
 "(ii) A tenant that because of any act or failure to act would otherwise be considered the same person as the landlord under clause (i) shall not be considered the same person as the landlord if the Secretary has at any time made a determination, for purposes of this section, regarding the number of persons with respect to the tenant's operation on such land for the 1989 crop year and the landlord did not consent to or knowingly participate in such act or failure to act.
 
-"(iii) Any tenant that would be considered to be the same person as the landlord but for the operation ofclause (ii) shall be eligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land only to the extent that the tenant would be eligible for such payments if the tenant were to be considered the same person as the landlord under the regulations in place immediately prior to the enactment of this subparagraph."
+"(iii) Any tenant that would be considered to be the same person as the landlord but for the operation of clause (ii) shall be eligible to receive any payment specified in paragraph (1) or (2) or subtitle D of title XII with respect to such land only to the extent that the tenant would be eligible for such payments if the tenant were to be considered the same person as the landlord under the regulations in place immediately prior to the enactment of this subparagraph."
 
 Pub. L. 101–217, §1, in temporarily amending subpar. (D) generally, designated existing provisions as cl. (i) and added cls. (ii) and (iii). See Effective and Termination Dates of 1989 Amendment note below.
 
@@ -388,7 +388,7 @@ Pub. L. 100–203, title I, §§1301(a), 1303, Dec. 22, 1987, 101 Stat. 1330–1
 
 Pub. L. 99–500, §108(a), Oct. 18, 1986, 100 Stat. 1783–346, and Pub. L. 99–591, §108(a), Oct. 30, 1986, 100 Stat. 3341–346, provided that the amendment made by Pub. L. 99–500 and Pub. L. 99–591 is effective with respect to each of the 1987 through 1990 crops.
 
-Pub. L. 99–500, §108(b), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, §108(b), Oct. 30, 1986, 100 Stat.3341–347, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply with respect to any payment or loan received under any agreement or contract made before the date of enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §108(b), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99–591, §108(b), Oct. 30, 1986, 100 Stat. 3341–347, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply with respect to any payment or loan received under any agreement or contract made before the date of enactment of this Act \[Oct. 18, 1986\]."
 
 #### Transition Provisions
 
@@ -462,7 +462,7 @@ Pub. L. 99–500, §108(c), Oct. 18, 1986, 100 Stat. 1783–347, and Pub. L. 99�
 
 "(2) Based on the reviews conducted under paragraph (1), the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives, not later than March 1, 1987, a report on such reviews and—
 
-&emsp;"(A) with respect to the matters reviewed under paragraph (1)(A), proposed regulations or amendments to regulations, to take effect not earlier thanOctober 1, 1987, that will meet the object with respect to limitations specified in paragraph (1)(A); and
+&emsp;"(A) with respect to the matters reviewed under paragraph (1)(A), proposed regulations or amendments to regulations, to take effect not earlier than October 1, 1987, that will meet the object with respect to limitations specified in paragraph (1)(A); and
 
 &emsp;"(B) with respect to the matters reviewed under paragraph (1)(B), recommendations on legislative changes to section 1001 of the Food Security Act of 1985 that the Secretary determines are necessary or appropriate."
 

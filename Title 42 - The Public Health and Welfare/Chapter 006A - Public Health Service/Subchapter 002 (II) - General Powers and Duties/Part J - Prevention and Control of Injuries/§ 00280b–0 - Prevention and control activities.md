@@ -20,7 +20,7 @@
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(3), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(3), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Codification
 
@@ -44,7 +44,7 @@ Subsec. (b)(2). Pub. L. 103–183, §203(b)(1), substituted "to promote activiti
 
 Subsec. (b)(1). Pub. L. 102–531, §301(1), struck out "and" after semicolon at end.
 
-Subsec. (b)(2). Pub. L. 102–531, §301(2), inserted sentence requiring Secretary to disseminate informationon injury control to the public, including through elementary and secondary schools and substituted "; and" for period at end.
+Subsec. (b)(2). Pub. L. 102–531, §301(2), inserted sentence requiring Secretary to disseminate information on injury control to the public, including through elementary and secondary schools and substituted "; and" for period at end.
 
 Subsec. (b)(3). Pub. L. 102–531, §301(3), added par. (3).
 

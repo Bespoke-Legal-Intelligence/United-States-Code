@@ -2,7 +2,7 @@
 
 Not later than March 1 of each year, the Secretary shall submit to Congress a report on the Educational Assistance Program. Each such report shall include the following information:
 
-&emsp;(1) The number of students receiving educational assistance under the Educational Assistance Program, showing the numbers of students receiving assistance under the Scholarship Program, the Tuition ReimbursementProgram, the Employee Incentive Scholarship Program, the Education Debt Reduction Program, the Specialty Education Loan Repayment Program, and the Readjustment Counseling Service Scholarship Program separately, and the number of students (if any) enrolled in each type of health profession training under each program.
+&emsp;(1) The number of students receiving educational assistance under the Educational Assistance Program, showing the numbers of students receiving assistance under the Scholarship Program, the Tuition Reimbursement Program, the Employee Incentive Scholarship Program, the Education Debt Reduction Program, the Specialty Education Loan Repayment Program, and the Readjustment Counseling Service Scholarship Program separately, and the number of students (if any) enrolled in each type of health profession training under each program.
 
 &emsp;(2) The education institutions (if any) providing such training to students in each program.
 

@@ -2,13 +2,13 @@
 
 (a) The head of an agency, under the regulations prescribed under section 4118(a)(8) of this title and from appropriations or other funds available to the agency, may—
 
-&emsp;(1) pay all or a part of the pay (except overtime, holiday, or night differential pay) of an employee of the agency selected and assigned for training under this chapter, for the period of training; and
+&emsp;(1) pay all or a part of the pay (except overtime, holiday, or night differential pay) of anemployee of the agency selected and assigned for training under this chapter, for the period of training; and
 
 &emsp;(2) pay, or reimburse the employee for, all or a part of the necessary expenses of the training, without regard to section 3324(a) and (b) of title 31, including among the expenses the necessary costs of—
 
-&emsp;&emsp;(A) travel and per diem instead of subsistence under subchapter I of chapter 57 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 474 and 475 <sup>1</sup> of title 37, and the Joint Travel Regulations for the Uniformed Services;
+&emsp;&emsp;(A) travel and per diem instead of subsistence under subchapter I of chapter 57 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 405 and 452 of title 37, and the Joint Travel Regulations for the Uniformed Services;
 
-&emsp;&emsp;(B) transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under section 5724 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 476 and 479 <sup>1</sup> of title 37, and the Joint Travel Regulations for the Uniformed Services, when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training;
+&emsp;&emsp;(B) transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under section 5724 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 452 and 453(c) of title 37, and the Joint Travel Regulations for the Uniformed Services, when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training;
 
 &emsp;&emsp;(C) tuition and matriculation fees;
 
@@ -24,7 +24,7 @@
 
 (d) Notwithstanding subsection (a)(1), a firefighter who is subject to section 5545b of this title shall be paid basic pay and overtime pay for the firefighter's regular tour of duty while attending agency sanctioned training.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 436; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, §2(a)(19), Aug. 14, 1979, 93 Stat. 382; Pub. L. 97–258, §3(a)(9), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–276, §151(a), Oct. 2, 1982, 96 Stat. 1200; Pub. L. 98–224, §5(b)(2), Mar. 2, 1984, 98 Stat. 48; Pub. L. 98–525, title XV, §1537(a), Oct. 19, 1984, 98 Stat. 2635; Pub. L. 102–378, §2(17), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 105–277, div. A, §101(h) \[title VI, §628(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 436; Pub. L. 90–83, § 1(4), Sept. 11, 1967, 81 Stat. 196; Pub. L. 96–54, §2(a)(19), Aug. 14, 1979, 93 Stat. 382; Pub. L. 97–258, §3(a)(9), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–276, §151(a), Oct. 2, 1982, 96 Stat. 1200; Pub. L. 98–224, §5(b)(2), Mar. 2, 1984, 98 Stat. 48; Pub. L. 98–525, title XV, §1537(a), Oct. 19, 1984, 98 Stat. 2635; Pub. L. 102–378, §2(17), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 105–277, div. A, §101(h) \[title VI, §628(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, §626(b)(1), Dec. 23, 2022, 136 Stat. 2628.)
 
 Historical and Revision Notes
 
@@ -52,15 +52,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 474 of title 37, referred to in subsec. (a)(2)(A), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
-
-Section 475 of title 37, referred to in subsec. (a)(2)(A), was transferred to section 405 of title 37 by Pub. L. 116–283, div. A, title VI, §604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
-
-Sections 476 and 479 of title 37, referred to in subsec. (a)(2)(B), were repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2)(A). Pub. L. 117–263, §626(b)(1)(A), substituted "sections 405 and 452" for "sections 474 and 475".
+
+Subsec. (a)(2)(B). Pub. L. 117–263, §626(b)(1)(B), substituted "sections 452 and 453(c)" for "sections 476 and 479".
 
 <b>2013</b>—Subsec. (a)(2)(A), (B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
 
@@ -70,7 +66,7 @@ Sections 476 and 479 of title 37, referred to in subsec. (a)(2)(B), were repeale
 
 <b>1992</b>—Subsec. (d). Pub. L. 102–378 struck out subsec. (d) which made revolving fund referred to in section 1304(e)(1) of this title available for costs of education and related travel of participants in such program, for printing, and for entertainment expenses, and which required crediting of participation fees to revolving fund.
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–525 inserted "and the Secretary of Defense may pay an individual training tobe an air traffic controller of the Department of Defense,".
+<b>1984</b>—Subsec. (c). Pub. L. 98–525 inserted "and the Secretary of Defense may pay an individual training to be an air traffic controller of the Department of Defense,".
 
 Subsec. (d). Pub. L. 98–224 added subsec. (d).
 
@@ -86,7 +82,7 @@ Subsec. (c). Pub. L. 97–276 added subsec. (c).
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 1998 Amendment
 
@@ -117,6 +113,4 @@ Exception from introductory provisions of subsec. (a) of this section of those e
 #### Central Intelligence Agency
 
 Exception of Central Intelligence Agency from certain introductory provisions of subsec. (a) of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

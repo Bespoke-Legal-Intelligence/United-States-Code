@@ -32,7 +32,7 @@
 
 (c) The Secretary may maintain information under this chapter in connection with any other information system maintained by the Secretary.
 
-(Added Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4735; amended Pub. L. 101–225, titleIII, §302(1), Dec. 12, 1989, 103 Stat. 1922; Pub. L. 101–595, title VI, §603(10), Nov. 16, 1990, 104 Stat. 2993.)
+(Added Pub. L. 100–710, title I, §101(a), Nov. 23, 1988, 102 Stat. 4735; amended Pub. L. 101–225, title III, §302(1), Dec. 12, 1989, 103 Stat. 1922; Pub. L. 101–595, title VI, §603(10), Nov. 16, 1990, 104 Stat. 2993.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 In this subchapter:
 
-&emsp;(1) The term "military child development center" means a facility on a military installation (or on property under the jurisdiction ofthe commander of a military installation) at which child care services are provided for members of the armed forces or any other facility at which such child care services are provided that is operated by the Secretary of a military department.
+&emsp;(1) The term "military child development center" means a facility on a military installation (or on property under the jurisdiction of the commander of a military installation) at which child care services are provided for members of the armed forces or any other facility at which such child care services are provided that is operated by the Secretary of a military department.
 
 &emsp;(2) The term "family home day care" means home-based child care services that are provided for members of the armed forces by an individual who (A) is certified by the Secretary of the military department concerned as qualified to provide those services, and (B) provides those services on a regular basis for compensation.
 

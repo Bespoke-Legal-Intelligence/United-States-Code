@@ -78,12 +78,17 @@
 | [174\.](%C2%A7%2000174%20-%20State%20human%20capital%20plans.md) | State human capital plans. |
 | [175\.](%C2%A7%2000175%20-%20Carbon%20reduction%20program.md) | Carbon reduction program. |
 | [176\.](%C2%A7%2000176%20-%20Promoting%20Resilient%20Operations%20for%20Transformative%2C%20Efficient%2C%20and%20Cost-saving%20Transportation%20%28PROTECT%29%20program.md) | Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) program. |
+| [177\.](%C2%A7%2000177%20-%20Neighborhood%20access%20and%20equity%20grant%20program.md) | Neighborhood access and equity grant program. |
+| [178\.](%C2%A7%2000178%20-%20Environmental%20review%20implementation%20funds.md) | Environmental review implementation funds. |
+| [179\.](%C2%A7%2000179%20-%20Low-carbon%20transportation%20materials%20grants.md) | Low-carbon transportation materials grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–169, title VI, §§60501(b), 60505(b), 60506(b), Aug. 16, 2022, 136 Stat. 2083, 2085, 2086, added items 177 to 179.
 
 <b>2021</b>—Pub. L. 117–58, div. A, title I, §§11110(b), 11118(b), 11123(b)(2), 11123(c)(2), 11132(b), 11203(b), 11301(b), 11312(b), 11403(b), 11405(b), 11501(b), Nov. 15, 2021, 135 Stat. 475, 495, 502, 505, 514, 520, 530, 539, 558, 575, 578, added items 124, 157, and 171 to 176, substituted "Nationally significant multimodal freight and highway projects" for "Nationally significant freight and highway projects" in item 117 and "Efficient environmental reviews for project decisionmaking and One Federal Decision" for "Efficient environmental reviews for project decisionmaking" in item 139, and struck out item 105 "Additional deposits into Highway Trust Fund".
 
@@ -109,7 +114,7 @@ Pub. L. 105–178, title I, §§1104(b), 1105(b), 1106(c)(2)(A), 1114(b)(1), 120
 
 <b>1995</b>—Pub. L. 104–59, title II, §205(d)(2), title III, §§311(c), 320(b), Nov. 28, 1995, 109 Stat. 577, 584, 590, substituted "Payments" for "Payment" and "and other debt instrument financing" for "retirement" in item 122, struck out item 154 "National maximum speed limit", and added item 161.
 
-<b>1991</b>—Pub. L. 102–240, title I, §§1007(a)(2), 1008(c), 1009(e)(2), 1014(b), 1016(f)(3), 1024(c)(1), 1025(b), 1031(a)(2), Dec. 18, 1991, 105 Stat. 1930, 1933, 1934, 1942, 1946, 1962, 1965, 1973, substituted "Program efficiencies" for "Authorizations" in item 102, substituted "maintenance program" for "System resurfacing" in item 119, added item 133, substituted "Metropolitan planning" for "Transportation planning in certain urban areas" initem 134, substituted "Statewide planning" for "Traffic operations improvement programs" in item 135, substituted "Congestion mitigation and air quality improvement program" for "Truck lanes" in item 149, and added items 153 and 160.
+<b>1991</b>—Pub. L. 102–240, title I, §§1007(a)(2), 1008(c), 1009(e)(2), 1014(b), 1016(f)(3), 1024(c)(1), 1025(b), 1031(a)(2),Dec. 18, 1991, 105 Stat. 1930, 1933, 1934, 1942, 1946, 1962, 1965, 1973, substituted "Program efficiencies" for "Authorizations" in item 102, substituted "maintenance program" for "System resurfacing" in item 119, added item 133, substituted "Metropolitan planning" for "Transportation planning in certain urban areas" in item 134, substituted "Statewide planning" for "Traffic operations improvement programs" in item 135, substituted "Congestion mitigation and air quality improvement program" for "Truck lanes" in item 149, and added items 153 and 160.
 
 Pub. L. 102–143, title III, §333(b), (c), Oct. 28, 1991, 105 Stat. 947, added item 159 and repealed Pub. L. 101–516, §333(b), which added former item 159. See 1990 Amendment note below.
 
@@ -228,4 +233,7 @@ Pub. L. 89–139, §4(b), Aug. 28, 1965, 79 Stat. 579, added item 135.
 - [&sect; 00174 - State human capital plans](%C2%A7%2000174%20-%20State%20human%20capital%20plans.md)
 - [&sect; 00175 - Carbon reduction program](%C2%A7%2000175%20-%20Carbon%20reduction%20program.md)
 - [&sect; 00176 - Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation (PROTECT) program](%C2%A7%2000176%20-%20Promoting%20Resilient%20Operations%20for%20Transformative%2C%20Efficient%2C%20and%20Cost-saving%20Transportation%20%28PROTECT%29%20program.md)
+- [&sect; 00177 - Neighborhood access and equity grant program](%C2%A7%2000177%20-%20Neighborhood%20access%20and%20equity%20grant%20program.md)
+- [&sect; 00178 - Environmental review implementation funds](%C2%A7%2000178%20-%20Environmental%20review%20implementation%20funds.md)
+- [&sect; 00179 - Low-carbon transportation materials grants](%C2%A7%2000179%20-%20Low-carbon%20transportation%20materials%20grants.md)
 - [&sect; 00181 to 190 - Renumbered &sect;&sect;601 to 610](%C2%A7%2000181%20to%20190%20-%20Renumbered%20%C2%A7%C2%A7601%20to%20610.md)

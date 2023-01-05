@@ -12,7 +12,7 @@ To assist the States in complying with section 6943(a)(3) of this title, not lat
 
 (1)(A) Not later than 36 months after November 8, 1984, each State shall adopt and implement a permit program or other system of prior approval and conditions to assure that each solid waste management facility within such State which may receive hazardous household waste or hazardous waste due to the provision of section 6921(d) of this title for small quantity generators (otherwise not subject to the requirement for a permit under section 6925 of this title) will comply with the applicable criteria promulgated under section 6944(a) and 6907(a)(3) of this title.
 
-(B) Not later than eighteen months after the promulgation of revised criteria under subsection <sup>1</sup> 6944(a) of this title (as required by section 6949a(c) of this title), each State shall adopt and implement a permit program or other system or <sup>2</sup> prior approval and conditions, to assure that each solid waste management facility within such State which may receive hazardous household waste or hazardous waste due to the provision of section 6921(d) of this title for small quantity generators (otherwise not subject to the requirement for a permit under section 6925of this title) will comply with the criteria revised under section 6944(a) of this title.
+(B) Not later than eighteen months after the promulgation of revised criteria under subsection <sup>1</sup> 6944(a) of this title (as required by section 6949a(c) of this title), each State shall adopt and implement a permit program or other system or <sup>2</sup> prior approval and conditions, to assure that each solid waste management facility within such State which may receive hazardous household waste or hazardous waste due to the provision of section 6921(d) of this title for small quantity generators (otherwise not subject to the requirement for a permit under section 6925 of this title) will comply with the criteria revised under section 6944(a) of this title.
 
 (C) The Administrator shall determine whether each State has developed an adequate program under this paragraph. The Administrator may make such a determination in conjunction with approval, disapproval or partial approval of a State plan under section 6947 of this title.
 
@@ -64,7 +64,7 @@ To assist the States in complying with section 6943(a)(3) of this title, not lat
 
 &emsp;&emsp;&emsp;&emsp;(I) a revision or correction to the permit program or other system of prior approval and conditions of the State is necessary to ensure that the permit program or other system of prior approval and conditions continues to ensure that each coal combustion residuals unit located in the State achieves compliance with the criteria described in clauses (i) and (ii) of subparagraph (B);
 
-&emsp;&emsp;&emsp;&emsp;(II) the State has not implemented an adequate permit program or other system of prior approval and conditionsthat requires each coal combustion residuals unit located in the State to achieve compliance with the criteria described in subparagraph (B); or
+&emsp;&emsp;&emsp;&emsp;(II) the State has not implemented an adequate permit program or other system of prior approval and conditions that requires each coal combustion residuals unit located in the State to achieve compliance with the criteria described in subparagraph (B); or
 
 &emsp;&emsp;&emsp;&emsp;(III) the State has, at any time, approved or failed to revoke a permit for a coal combustion residuals unit, a release from which adversely affects or is likely to adversely affect the soil, groundwater, or surface water of another State.
 
@@ -132,7 +132,7 @@ To assist the States in complying with section 6943(a)(3) of this title, not lat
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), not later than December 31, 2017, and December 31of each year thereafter, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes any enforcement action commenced under clause (i), including a description of the basis for the enforcement action.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (II), not later than December 31, 2017, and December 31 of each year thereafter, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes any enforcement action commenced under clause (i), including a description of the basis for the enforcement action.
 
 #### (II) Applicability
 

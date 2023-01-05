@@ -8,7 +8,7 @@ In this section, the term "gender analysis"—
 
 &emsp;&emsp;(A) differences in the status of women and men and their differential access to and control over assets, resources, education, opportunities, and services;
 
-&emsp;&emsp;(B) the influence of gender roles, structural barriers, and norms on the division oftime between paid employment, unpaid work (including the subsistence production and care for family members), and volunteer activities;
+&emsp;&emsp;(B) the influence of gender roles, structural barriers, and norms on the division of time between paid employment, unpaid work (including the subsistence production and care for family members), and volunteer activities;
 
 &emsp;&emsp;(C) the influence of gender roles, structural barriers, and norms on leadership roles and decision making; constraints, opportunities, and entry points for narrowing gender gaps and empowering women; and
 
@@ -48,9 +48,17 @@ In order to advance the policy described in subsection (b), the Administrator of
 
 (Pub. L. 115–428, §3, Jan. 9, 2019, 132 Stat. 5511.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Women's Entrepreneurship and Economic Empowerment Act of 2018, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Madeleine K. Albright Women's Leadership Program
+
+Pub. L. 117–328, div. K, title VII, §7059(b), Dec. 29, 2022, 136 Stat. 5079, provided that: "Of the funds appropriated under title III of this Act \[title III of div. K of Pub. L. 117–328, 136 Stat. 4985, see Tables for classification\], not less than $50,000,000 shall be made available for programs specifically designed to increase leadership opportunities for women in countries where women and girls suffer discrimination due to law, policy, or practice, by strengthening protections for women's political status, expanding women's participation in political parties and elections, and increasing women's opportunities for leadership positions in the public and private sectors at the local, provincial, and national levels: <i>Provided</i>, That such programs shall hereafter be collectively named the 'Madeleine K. Albright Women's Leadership Program'."
 
 #### Findings
 

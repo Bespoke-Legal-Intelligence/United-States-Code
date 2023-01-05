@@ -44,7 +44,7 @@
 
 #### (B) Time period of grants
 
-&emsp;&emsp;Grants awarded under this section shall be for one 3-year term. Grants may be renewedonly once for a maximum of 2 additional years.
+&emsp;&emsp;Grants awarded under this section shall be for one 3-year term. Grants may be renewed only once for a maximum of 2 additional years.
 
 #### (5) Evaluation and reports
 

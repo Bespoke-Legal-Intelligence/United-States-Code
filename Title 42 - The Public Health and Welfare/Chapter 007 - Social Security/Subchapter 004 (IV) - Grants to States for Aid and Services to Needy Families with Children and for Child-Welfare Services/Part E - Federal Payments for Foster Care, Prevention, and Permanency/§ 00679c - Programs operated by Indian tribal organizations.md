@@ -92,7 +92,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (III) Definition of early approved tribe, organization, or consortium
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (II) of this clause, the term "early approved tribe,organization, or consortium" means an Indian tribe, tribal organization, or tribal consortium that had a plan approved under section 671 of this title in accordance with this section for any quarter of fiscal year 2010 or 2011.
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (II) of this clause, the term "early approved tribe, organization, or consortium" means an Indian tribe, tribal organization, or tribal consortium that had a plan approved under section 671 of this title in accordance with this section for any quarter of fiscal year 2010 or 2011.
 
 #### (iv) Fiscal year 2015 and thereafter
 
@@ -140,7 +140,7 @@ Except as otherwise provided in this section, this part shall apply in the same 
 
 #### (e) Nonapplication to cooperative agreements and contracts
 
-Any cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under this part that is in effect as of October 7, 2008, shall remain in full force and effect, subject to the right of either party to the agreement or contract to revoke or modify the agreement or contract pursuant to the terms of the agreement or contract. Nothing in this section shall be construed as affecting the authority for an Indian tribe, a tribal organization, or a tribal consortium and a State to enter into a cooperative agreement or contract for the administration or payment of funds under this part.
+Any cooperative agreement or contract entered into between an Indian tribe, a tribal organization, or a tribal consortium and a State for the administration or payment of funds under this part that is in effect as of October 7, 2008, shall remain in full force and effect, subject to the right of either party to the agreement or contract to revoke or modify the agreement or contract pursuant to the terms of the agreement or contract. Nothing in this section shall be construed as affecting the authority for an Indian tribe, a tribal organization, or a tribal consortium and a State to enter into a cooperativeagreement or contract for the administration or payment of funds under this part.
 
 #### (f) John H. Chafee Foster Care Independence Program
 

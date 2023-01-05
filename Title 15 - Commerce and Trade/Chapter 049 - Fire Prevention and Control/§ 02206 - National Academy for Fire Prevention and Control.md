@@ -18,7 +18,7 @@ The Superintendent is authorized to—
 
 &emsp;(3) conduct courses and programs of training and education, as defined in subsection (d) of this section;
 
-&emsp;(4) appoint faculty members and consultants without regard to the provisions of title 5, governing appointments in the competitive service, and, with respect to temporary and intermittent services, to make appointments to the same extent as is authorized by section 3109 of title 5;
+&emsp;(4) appoint faculty members and consultants without regard to the provisions of title 5,governing appointments in the competitive service, and, with respect to temporary and intermittent services, to make appointments to the same extent as is authorized by section 3109 of title 5;
 
 &emsp;(5) establish fees and other charges for attendance at, and subscription to, courses and programs offered by the Academy. Such fees may be modified or waived as determined by the Superintendent;
 
@@ -102,7 +102,7 @@ The Academy shall be located on such site as the Administrator of FEMA selects, 
 
 #### (h) Construction costs
 
-Of the sums authorized to be appropriated for the purpose of implementing the programs of the Administration, not more than $9,000,000 shall be available for the construction of facilities of the Academy on the site selected under subsection (g) of this section. Such sums for such construction shall remain available until expended.
+Of the sums authorized to be appropriated for the purpose of implementing the programs ofthe Administration, not more than $9,000,000 shall be available for the construction of facilities of the Academy on the site selected under subsection (g) of this section. Such sums for such construction shall remain available until expended.
 
 #### (i) Educational and professional assistance
 
@@ -114,7 +114,7 @@ The Administrator is authorized to—
 
 &emsp;(3) make or enter into contracts to make payments to institutions of higher education for loans, not to exceed $2,500 per academic year for any individual who is enrolled on a full-time basis in an undergraduate or graduate program of fire research or engineering which is certified by the Superintendent. Loans under this paragraph shall be made on such terms and subject to such conditions as the Superintendent and each institution involved may jointly determine; and
 
-&emsp;(4) establish and maintain a placement and promotion opportunities center in cooperationwith the fire services, for firefighters who wish to learn and take advantage of different or better career opportunities. Such center shall not limit such assistance to students and graduates of the Academy, but shall undertake to assist all fire service personnel.
+&emsp;(4) establish and maintain a placement and promotion opportunities center in cooperation with the fire services, for firefighters who wish to learn and take advantage of different or better career opportunities. Such center shall not limit such assistance to students and graduates of the Academy, but shall undertake to assist all fire service personnel.
 
 #### (j) Board of Visitors
 
@@ -150,7 +150,7 @@ The Superintendent is authorized to admit to the courses and programs of the Aca
 
 #### (3) Restriction on use of funds
 
-&emsp;The amounts expended by the Administrator to carry out this subsection in any fiscal year shall not exceed 7.5 per centum of the amount authorized to be appropriated in such fiscal year pursuant to section 2216 of this title.
+&emsp;The amounts expended by the Administrator to carry out this subsection in any fiscal yearshall not exceed 7.5 per centum of the amount authorized to be appropriated in such fiscal year pursuant to section 2216 of this title.
 
 #### (n) Triennial report
 

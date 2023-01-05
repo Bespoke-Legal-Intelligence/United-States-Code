@@ -12,7 +12,7 @@
 
 (2)(A) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Social Security Administration unless such person has obtained specific, written authorization for such activity in accordance with regulations which the Commissioner of Social Security shall prescribe.
 
-(B) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Department of Health and Human Services unless such person has obtained specific, written authorization for such activity in accordance with regulations which the Secretary shall prescribe.
+(B) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Department of Health and Human Services unless such person has obtained specific, written authorization for such activity in accordancewith regulations which the Secretary shall prescribe.
 
 (3) Any determination of whether the use of one or more words, letters, symbols, or emblems (or any combination or variation thereof) in connection with an item described in paragraph (1) or the reproduction, reprinting, or distribution of an item described in paragraph (2) is a violation of this subsection shall be made without regard to any inclusion in such item (or any so reproduced, reprinted, or distributed copy thereof) of a disclaimer of affiliation with the United States Government or any particular agency or instrumentality thereof.
 
@@ -90,7 +90,7 @@ Subsec. (a)(2)(A), (B). Pub. L. 103–296, §108(b)(12)(A), in par. (2) as added
 
 Subsec. (a)(3). Pub. L. 103–296, §312(e), added par. (3).
 
-Subsec. (b). Pub. L. 103–296, §312(g), substituted "The" for "(1) Subject to paragraph (2), the", redesignatedsubpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (1) substituted "paragraph (2)" for "subparagraph (B)", and struck out former par. (2) which read as follows: "The total amount of penalties which may be imposed under paragraph (1) with respect to multiple violations in any one year period consisting of substantially identical communications or productions shall not exceed $100,000."
+Subsec. (b). Pub. L. 103–296, §312(g), substituted "The" for "(1) Subject to paragraph (2), the", redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (1) substituted "paragraph (2)" for "subparagraph (B)", and struck out former par. (2) which read as follows: "The total amount of penalties which may be imposed under paragraph (1) with respect to multiple violations in any one year period consisting of substantially identical communications or productions shall not exceed $100,000."
 
 Subsec. (b)(1). Pub. L. 103–296, §312(f) inserted at end "In the case of any items referred to in subsection (a)(1) consisting of pieces of mail, each such piece of mail which contains one or more words, letters, symbols, or emblems in violation of subsection (a) shall represent a separate violation. In the case of any item referred to in subsection (a)(2), the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed."
 

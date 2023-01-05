@@ -2,7 +2,7 @@
 
 (a) Each participant in the Tuition Reimbursement Program shall provide service in the full-time clinical practice of such participant's profession as a full-time employee of the Department for the period of obligated service provided in the agreement of such participant entered into under section 7603 of this title.
 
-(b) A participant who on such participant's course completion date is a full-time employeein the Veterans Health Administration shall be considered to have begun serving such participant's period of obligated service on the course completion date.
+(b) A participant who on such participant's course completion date is a full-time employee in the Veterans Health Administration shall be considered to have begun serving such participant's period of obligated service on the course completion date.
 
 (c) Except in the case of a participant whose tuition was paid pursuant to section 7622(e) of this title, if a participant in the Tuition Reimbursement Program fails to successfully complete a course, no reimbursement will be provided and no period of obligated service will be incurred.
 

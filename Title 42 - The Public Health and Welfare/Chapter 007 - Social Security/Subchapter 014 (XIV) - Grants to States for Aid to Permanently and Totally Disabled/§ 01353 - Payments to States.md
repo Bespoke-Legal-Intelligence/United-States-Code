@@ -28,7 +28,7 @@
 
 <b>2004</b>—Subsec. (b)(3). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1993</b>—Subsec. (a)(3). Pub. L. 103–66 substituted "50 percent of the total amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan." for "the sum of the following proportions of the total amounts expended during such quarter as found necessary by the Secretary of Health and Human Services for the proper and official administration of the State plan—
+<b>1993</b>—Subsec. (a)(3). Pub. L. 103–66 substituted "50 percent of the total amounts expended during such quarter as found necessary by the Secretary for the proper and efficient administration of the State plan." for "the sum of the following proportions of the total amounts expended during such quarter as found necessary by theSecretary of Health and Human Services for the proper and official administration of the State plan—
 
 &emsp;"(A) 75 per centum of so much of such expenditures as are for the training (including both short- and long-term training at educational institutions through grants to such institutions or by direct financial assistance to students enrolled in such institutions) of personnel employed or preparing for employment by the State agency or by the local agency administering the plan in the political subdivision; plus
 

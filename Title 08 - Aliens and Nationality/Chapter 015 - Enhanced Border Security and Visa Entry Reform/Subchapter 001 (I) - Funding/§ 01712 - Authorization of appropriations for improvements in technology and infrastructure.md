@@ -18,7 +18,7 @@
 
 #### (3) Offset of increases in fees
 
-&emsp;The Attorney General may, to the extent reasonable, increase land border fees for the issuance of arrival-departure documents to offset technology costs.
+&emsp;The Attorney General may, to the extent reasonable, increase land border fees for theissuance of arrival-departure documents to offset technology costs.
 
 #### (b) Improvement and expansion of INS, State Department, and customs facilities
 

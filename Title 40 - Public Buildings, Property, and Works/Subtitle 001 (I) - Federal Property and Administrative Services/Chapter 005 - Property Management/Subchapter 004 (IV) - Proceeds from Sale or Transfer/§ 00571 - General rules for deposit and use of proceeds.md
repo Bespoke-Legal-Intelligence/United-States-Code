@@ -18,7 +18,7 @@ Proceeds.—The proceeds referred to in paragraph (1) are proceeds under this ch
 
 (b)
 
-Payment of Expenses of Sale Before Deposit.—Subject to regulations under this subtitle, the expenses of the sale of old material, condemned stores, supplies, or other publicproperty may be paid from the proceeds of sale so that only the net proceeds are deposited in the Treasury. This subsection applies whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law.
+Payment of Expenses of Sale Before Deposit.—Subject to regulations under this subtitle, the expenses of the sale of old material, condemned stores, supplies, or other public property may be paid from the proceeds of sale so that only the net proceeds are deposited in the Treasury. This subsection applies whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1104; Pub. L. 114–287, §20(a), Dec. 16, 2016, 130 Stat. 1477; Pub. L. 114–318, §7(c)(1), Dec. 16, 2016, 130 Stat. 1616.)
 
@@ -84,7 +84,7 @@ June 30, 1949, ch. 288, title II, §204(a), 63 Stat. 388; Pub. L. 101–510, div
 
 June 8, 1896, ch. 373, 29 Stat. 268; Oct. 31, 1951, ch. 654, §2(20), 65 Stat. 707; Pub. L. 104–316, title I, §120(a), Oct. 19, 1996, 110 Stat. 3836.
 
-In subsection (b), the words "whether proceeds are deposited as miscellaneous receipts or to the credit of an appropriation as authorized by law" are substituted for "either as miscellaneous receipts on account of 'proceeds of Government property' or to the credit of the appropriations to which such proceeds are by law authorized to be made . . . either as miscellaneous receipts or to the credit of such appropriations, as the case may be" to eliminate unnecessary words.
+In subsection (b), the words "whether proceeds are deposited as miscellaneous receipts or to the credit ofan appropriation as authorized by law" are substituted for "either as miscellaneous receipts on account of 'proceeds of Government property' or to the credit of the appropriations to which such proceeds are by law authorized to be made . . . either as miscellaneous receipts or to the credit of such appropriations, as the case may be" to eliminate unnecessary words.
 
 #### <b>Editorial Notes</b>
 

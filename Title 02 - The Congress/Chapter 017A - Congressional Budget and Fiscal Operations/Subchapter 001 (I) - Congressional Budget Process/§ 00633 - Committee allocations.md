@@ -36,7 +36,7 @@
 
 #### (5) Adjusting allocation of discretionary spending in the House of Representatives
 
-&emsp;(A) If a concurrent resolution on the budget is not adopted by April 15, the chairman of the Committee on the Budget of the House of Representatives shall submit to the House, as soon as practicable, an allocation under paragraph (1) to the Committee on Appropriations consistent with the discretionary spending levels in the most recently agreed to concurrent resolution on the budget for the appropriate fiscal year covered by that resolution.
+&emsp;(A) If a concurrent resolution on the budget is not adopted by April 15, the chairman of the Committee on the Budget of the House of Representatives shall submit to the House, assoon as practicable, an allocation under paragraph (1) to the Committee on Appropriations consistent with the discretionary spending levels in the most recently agreed to concurrent resolution on the budget for the appropriate fiscal year covered by that resolution.
 
 &emsp;(B) As soon as practicable after an allocation under paragraph (1) is submitted under this section, the Committee on Appropriations shall make suballocations and report those suballocations to the House of Representatives.
 
@@ -76,7 +76,7 @@ At any time after a committee reports the allocations required to be made under 
 
 &emsp;&emsp;(A) in the case of any committee except the Committee on Appropriations, the applicable allocation of new budget authority or outlays under subsection (a) for the first fiscal year or the total of fiscal years to be exceeded; or
 
-&emsp;&emsp;(B) in the case of the Committee on Appropriations, the applicable suballocation ofnew budget authority or outlays under subsection (b) to be exceeded.
+&emsp;&emsp;(B) in the case of the Committee on Appropriations, the applicable suballocation of new budget authority or outlays under subsection (b) to be exceeded.
 
 #### (g) Pay-as-you-go exception in the House
 
@@ -114,7 +114,7 @@ At any time after a committee reports the allocations required to be made under 
 
 #### References in Text
 
-This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, and sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (g)(2)(B), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A, and 17B and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, and sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
@@ -150,7 +150,7 @@ Pub. L. 101–508, §13201(b)(3)(B), substituted "total budget outlays and total
 
 Pub. L. 101–508, §13112(a)(6), struck out "the House of Representatives and" after "among each committee of".
 
-Subsec. (b)(1)(A). Pub. L. 101–508, §13201(b)(3)(C), substituted "budget outlays and new budget authority" for "budget outlays, new budget authority, and new credit authority".
+Subsec. (b)(1)(A). Pub. L. 101–508, §13201(b)(3)(C), substituted "budget outlays and new budget authority" for"budget outlays, new budget authority, and new credit authority".
 
 Subsec. (c). Pub. L. 101–508, §13207(a)(1)(A), substituted "bill, joint resolution, amendment, motion, or conference report" for "bill or resolution, or amendment thereto".
 

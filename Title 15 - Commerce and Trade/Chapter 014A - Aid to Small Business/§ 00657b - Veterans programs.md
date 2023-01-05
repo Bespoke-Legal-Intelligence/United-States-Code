@@ -72,7 +72,7 @@ The Associate Administrator—
 
 #### (2) Presentations
 
-&emsp;In carrying out paragraph (1), a Veteran Business Outreach Center may provide grants to entities located in Transition Assistance Program locations to make presentations on the opportunities available from the Administration for recently separating or separated veterans. Each presentation under this paragraph shall include, at a minimum, a description of the entrepreneurial and business training resources available from the Administration.
+&emsp;In carrying out paragraph (1), a Veteran Business Outreach Center may provide grants to entities located in Transition Assistance Program locations to make presentations on the opportunities available from the Administration for recently separating or separatedveterans. Each presentation under this paragraph shall include, at a minimum, a description of the entrepreneurial and business training resources available from the Administration.
 
 #### (3) Written materials
 
@@ -174,7 +174,7 @@ Pub. L. 106–50, title II, §203, Aug. 17, 1999, 113 Stat. 239, as amended by P
 
 "(a)
 
-In General.—There is established an advisory committee to be known as the 'Advisory Committee on Veterans Business Affairs' (in this section referred to as the 'Committee'), which shall serve as an independent source of advice and policy recommendations to—
+In General.—There is established an advisory committee to be known as the 'Advisory Committee onVeterans Business Affairs' (in this section referred to as the 'Committee'), which shall serve as an independent source of advice and policy recommendations to—
 
 &emsp;"(1) the Administrator of the Small Business Administration (in this section referred to as the 'Administrator');
 
@@ -406,7 +406,7 @@ Pub. L. 106–50, title I, §103(b), Aug. 17, 1999, 113 Stat. 235, provided that
 
 Ex. Ord. No. 13540, Apr. 26, 2010, 75 F.R. 22497, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 102 of title I of the Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2008 (Public Law 110–186) (the "Act"), and in order to establish an interagency task force to coordinate the efforts of Federal agencies to improve capital, business development opportunities, and pre-established Federal contracting goals for small business concerns owned and controlled by veterans and service-disabled veterans, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, including section 102 of title I of the Military Reservist and Veteran Small Business Reauthorization and Opportunity Act of 2008 (Public Law 110–186) (the "Act"), and in order to establish an interagency task force to coordinate the efforts of Federal agencies to improve capital, business development opportunities, and pre-established Federal contracting goals for small business concerns owned and controlled by veterans and service-disabled veterans, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. The Administrator of the Small Business Administration (Administrator) shall establish within the Small Business Administration an Interagency Task Force on Veterans Small Business Development (Task Force).
 
@@ -458,7 +458,7 @@ Sec. 4. <i>General Provisions</i>. (a) The Small Business Administration shall p
 
 (ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
-(c) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA), may apply to the Task Force, any functions of the President under the FACA, except for those in section 6 of the FACA, shall be performed by the Administrator in accordance with guidelines issued by the Administrator of General Services.
+(c) Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] (FACA), may apply to the Task Force, any functions of the President under the FACA, except for those in section 6 of the FACA, shall be performed by the Administrator in accordance with guidelines issued by the Administrator of General Services.
 
 (d) This order is not intended to and does not create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
@@ -466,7 +466,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Interagency Task Force on Veterans Small Business Development
 
-Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of Interagency Task Force on Veterans Small Business Development were contained in the following prior Executive Orders:
 

@@ -56,7 +56,7 @@ Technology Implementation Plan.—
 
 &emsp;(1)
 
-In general.—As part of its railroad safety risk reduction program, a railroad carrier required to submit a railroad safety risk reduction program under subsection (a) shall develop, and periodically update as necessary, a 10-year technology implementation plan that describes the railroad carrier's plan for development, adoption, implementation, maintenance, and use of current, new, or novel technologies on its system over a 10-year period to reduce safety risks identified under the railroad safety risk reduction program. Any updates to the plan are subject to review and approval by the Secretary.
+In general.—As part of its railroad safety risk reduction program, a railroad carrierrequired to submit a railroad safety risk reduction program under subsection (a) shall develop, and periodically update as necessary, a 10-year technology implementation plan that describes the railroad carrier's plan for development, adoption, implementation, maintenance, and use of current, new, or novel technologies on its system over a 10-year period to reduce safety risks identified under the railroad safety risk reduction program. Any updates to the plan are subject to review and approval by the Secretary.
 
 &emsp;(2)
 
@@ -124,7 +124,7 @@ Statement.—If the railroad carrier and its directly affected employees, includ
 
 (h)
 
-Enforcement.—The Secretary shall have the authority to assess civil penalties pursuant to chapter 213 for a violation of this section, including the failure to submit, certify, or comply with a safety risk reduction program, risk mitigation plan, technology implementation plan, or fatigue management plan.
+Enforcement.—The Secretary shall have the authority to assess civil penalties pursuantto chapter 213 for a violation of this section, including the failure to submit, certify, or comply with a safety risk reduction program, risk mitigation plan, technology implementation plan, or fatigue management plan.
 
 (Added Pub. L. 110–432, div. A, title I, §103(a), Oct. 16, 2008, 122 Stat. 4853; amended Pub. L. 114–94, div. A, title XI, §11316(e), Dec. 4, 2015, 129 Stat. 1676.)
 

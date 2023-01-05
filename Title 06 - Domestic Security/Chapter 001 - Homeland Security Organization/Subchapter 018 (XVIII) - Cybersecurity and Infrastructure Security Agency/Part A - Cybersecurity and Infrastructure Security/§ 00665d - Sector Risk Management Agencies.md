@@ -44,11 +44,11 @@ Consistent with applicable law, Presidential directives, Federal regulations, an
 
 &emsp;(4) facilitating, in coordination with the Director, the sharing with the Department and other appropriate Federal department of information regarding physical security and cybersecurity threats within the designated sector or subsector of such sector, including—
 
-&emsp;&emsp;(A) facilitating, in coordination with the Director, access to, and exchange of, information and intelligence necessary to strengthen the security of critical infrastructure, including through information sharing and analysis organizations and the national cybersecurity and communications integration center established pursuant to section 659 of this title;
+&emsp;&emsp;(A) facilitating, in coordination with the Director, access to, and exchange of, information and intelligence necessary to strengthen the security of critical infrastructure, including through Information Sharing and Analysis Organizations and the national cybersecurity and communications integration center established pursuant to section 659 of this title;
 
 &emsp;&emsp;(B) facilitating the identification of intelligence needs and priorities of critical infrastructure owners and operators in the designated sector or subsector of such sector, in coordination with the Director of National Intelligence and the heads of other Federal departments and agencies, as appropriate;
 
-&emsp;&emsp;(C) providing the Director, and facilitating awareness within the designated sector orsubsector of such sector, of ongoing, and where possible, real-time awareness of identified threats, vulnerabilities, mitigations, and other actions related to the security of such sector or subsector of such sector; and
+&emsp;&emsp;(C) providing the Director, and facilitating awareness within the designated sector or subsector of such sector, of ongoing, and where possible, real-time awareness of identified threats, vulnerabilities, mitigations, and other actions related to the security of such sector or subsector of such sector; and
 
 &emsp;&emsp;(D) supporting the reporting requirements of the Department under applicable law by providing, on an annual basis, sector-specific critical infrastructure information;
 
@@ -66,15 +66,17 @@ Consistent with applicable law, Presidential directives, Federal regulations, an
 
 &emsp;&emsp;(C) supporting the Department and other Federal departments or agencies in developing planning documents or conducting exercises or simulations when relevant to the designated sector or subsector or such sector.
 
-(Pub. L. 107–296, title XXII, §2218, formerly §2215, as added Pub. L. 116–283, div. H, title XC, §9002(c)(1), Jan. 1, 2021, 134 Stat. 4770; renumbered §2218 and amended Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(v), Dec. 27, 2021, 135 Stat. 2061.)
+(Pub. L. 107–296, title XXII, §2218, formerly §2215, as added Pub. L. 116–283, div. H, title XC, §9002(c)(1), Jan. 1, 2021, 134 Stat. 4770; renumbered §2218 and amended Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(v), Dec. 27, 2021, 135 Stat. 2061; Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(J), Dec. 23, 2022, 136 Stat. 3660.)
 
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
-A prior section 2218 of Pub. L. 107–296, title XXII, as added Pub. L. 117–58, div. G, title VI, §70612(a), Nov. 15, 2021, 135 Stat. 1272, was renumbered section 2220A of Pub. L. 107–296 by Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(viii), Dec. 27, 2021, 135 Stat. 2061, and transferred to section 665g of this title.
+A prior section 2218 of Pub. L. 107–296 was renumbered section 2220A and is classified to section 665g of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(4)(A). Pub. L. 117–263 substituted "Information Sharing and Analysis Organizations" for "information sharing and analysis organizations".
 
 <b>2021</b>—Pub. L. 117–81 reenacted section catchline.
 

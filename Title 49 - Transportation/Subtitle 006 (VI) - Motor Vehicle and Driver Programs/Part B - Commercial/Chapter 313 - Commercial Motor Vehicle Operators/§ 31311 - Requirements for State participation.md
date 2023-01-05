@@ -110,7 +110,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(24) Before renewing or issuing a commercial driver's license to an individual, the State shall request information pertaining to the individual from the drug and alcohol clearinghouse maintained under section 31306a.
 
-&emsp;(25) Not later than 5 years after the date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, the State shall establish and maintain, as part of its driver information system, the capability to receive an electronic copy of a medical examiner's certificate, from a certified medical examiner, for each holder of a commercial driver's license issued by the State who operates or intends to operate in interstate commerce.
+&emsp;(25) Not later than 5 years after the date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, the State shall establish and maintain, as part of its driver information system, the capability toreceive an electronic copy of a medical examiner's certificate, from a certified medical examiner, for each holder of a commercial driver's license issued by the State who operates or intends to operate in interstate commerce.
 
 (b)
 
@@ -234,7 +234,7 @@ Subsec. (a)(21). Pub. L. 109–59, §4123(b)(3), added par. (21).
 
 Subsec. (a)(8). Pub. L. 106–159, §202(b), inserted ", and the violation that resulted in the disqualification, revocation, suspension, or cancellation shall be recorded" before the period at end.
 
-Subsec. (a)(9). Pub. L. 106–159, §202(c), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "If an individual operating a commercial motor vehicle violates a State or local law on motor vehicle traffic control (except a parking violation) and the individual has a driver's license issued by another State, the State in which the violation occurred shall notify a State official designated by the issuing State of theviolation not later than 10 days after the date the individual is found to have committed the violation."
+Subsec. (a)(9). Pub. L. 106–159, §202(c), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "If an individual operating a commercial motor vehicle violates a State or local law on motor vehicle traffic control (except a parking violation) and the individual has a driver's license issued by another State, the State in which the violation occurred shall notify a State official designated by the issuing State of the violation not later than 10 days after the date the individual is found to have committed the violation."
 
 Subsec. (a)(10). Pub. L. 106–159, §202(d), designated existing provisions as subpar. (A) and added subpar. (B).
 

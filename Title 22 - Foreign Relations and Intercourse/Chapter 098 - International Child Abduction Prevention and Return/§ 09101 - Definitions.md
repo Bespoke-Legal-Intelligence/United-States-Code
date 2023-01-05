@@ -76,7 +76,7 @@ In this chapter:
 
 #### (15) Left-behind parent
 
-&emsp;The term "left-behind parent" means an individual or legal custodian who alleges that an abduction has occurred that is in breach of rights of custody attributed to such individual.
+&emsp;The term "left-behind parent" means an individual or legal custodian who alleges that anabduction has occurred that is in breach of rights of custody attributed to such individual.
 
 #### (16) Non-Convention country
 
@@ -208,7 +208,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(4) More than 1,000 outgoing international child abductions are reported every year to the Central Authority of the United States, which depends solely on proactive reporting of abduction cases.
 
-&emsp;"(5) Only about one-half of the children abducted from the United States to countries with which theUnited States enjoys reciprocal obligations under the Hague Abduction Convention are returned to the United States.
+&emsp;"(5) Only about one-half of the children abducted from the United States to countries with which the United States enjoys reciprocal obligations under the Hague Abduction Convention are returned to the United States.
 
 &emsp;"(6) The United States and other Convention countries have expressed their desire, through the Hague Abduction Convention, 'to protect children internationally from the harmful effects of their wrongful removal or retention and to establish procedures to ensure their prompt return to the State of their habitual residence, as well as to secure protection for rights of access.'
 

@@ -28,7 +28,7 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted "1312(a)" for "412(a)".
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–295, §4(12), (95)(A), substituted "section 202 of the Social Security Act (42U.S.C. 402)" for "section 402 of title 42", and "Health and Human Services" for "Health, Education, and Welfare".
+<b>1982</b>—Subsec. (a). Pub. L. 97–295, §4(12), (95)(A), substituted "section 202 of the Social Security Act (42 U.S.C. 402)" for "section 402 of title 42", and "Health and Human Services" for "Health, Education, and Welfare".
 
 Subsec. (b). Pub. L. 97–295, §4(95)(A), substituted "Health and Human Services" for "Health, Education, and Welfare".
 

@@ -128,7 +128,7 @@ Notification by Copyright Claims Board.—The Register of Copyrights shall estab
 
 (i)
 
-Opt-Out Procedure.—Upon being properly served with a notice and claim, a respondent who chooses to opt out of the proceeding shall have a period of 60 days, beginning on the date of service, in which to provide written notice of such choice to the Copyright Claims Board, in accordance with regulations established by the Register of Copyrights. If proof of service has been filed by the claimant and the respondent does not submit an opt-out notice to the Copyright Claims Board within that 60-day period, the proceeding shall be deemed an active proceeding and the respondent shall be bound by the determination in the proceeding to the extent provided under section 1507(a). If the respondent opts out of the proceeding during that 60-day period, the proceeding shall be dismissedwithout prejudice, except that, in exceptional circumstances and upon written notice to the claimant, the Copyright Claims Board may extend that 60-day period in the interests of justice.
+Opt-Out Procedure.—Upon being properly served with a notice and claim, a respondent who chooses to opt out of the proceeding shall have a period of 60 days, beginning on the date of service, in which to provide written notice of such choice to the Copyright Claims Board, in accordance with regulations established by the Register of Copyrights. If proof of service has been filed by the claimant and the respondent does not submit an opt-out notice to the Copyright Claims Board within that 60-day period, the proceeding shall be deemed an active proceeding and the respondent shall be bound by the determination in the proceeding to the extent provided under section 1507(a). If the respondent opts out of the proceeding during that 60-day period, the proceeding shall be dismissed without prejudice, except that, in exceptional circumstances and upon written notice to the claimant, the Copyright Claims Board may extend that 60-day period in the interests of justice.
 
 (j)
 
@@ -208,7 +208,7 @@ In general.—At any time in an active proceeding, some or all of the parties ma
 
 &emsp;(2)
 
-Additional request.—A submission under paragraph (1)(B) may include a request that the Copyright Claims Board adopt someor all of the terms of the parties' settlement in a final determination in the proceeding.
+Additional request.—A submission under paragraph (1)(B) may include a request that the Copyright Claims Board adopt some or all of the terms of the parties' settlement in a final determination in the proceeding.
 
 (s)
 
@@ -246,7 +246,7 @@ Freedom of information act.—All information relating to proceedings of the Cop
 
 (u)
 
-Respondent's Default.—If a proceeding has been deemed an active proceeding but the respondent has failed to appear or has ceased participating in the proceeding, as demonstrated by the respondent's failure, without justifiable cause, to meet 1 or more deadlines or requirements set forth in the schedule adopted by the Copyright Claims Board under subsection (k), the Copyright Claims Board may enter a default determination, including the dismissal of any counterclaim asserted by the respondent, as follows and in accordance with such other requirements as the Register of Copyrights may establish by regulation:
+Respondent's Default.—If a proceeding has been deemed an active proceeding but the respondent has failed to appear or has ceased participating in the proceeding, as demonstrated by the respondent's failure, without justifiable cause, to meet 1 or more deadlines or requirements set forth in the schedule adopted by the Copyright Claims Board under subsection (k), the Copyright Claims Board may enter a defaultdetermination, including the dismissal of any counterclaim asserted by the respondent, as follows and in accordance with such other requirements as the Register of Copyrights may establish by regulation:
 
 &emsp;(1) The Copyright Claims Board shall require the claimant to submit relevant evidence and other information in support of the claimant's claim and any asserted damages and, upon review of such evidence and any other requested submissions from the claimant, shall determine whether the materials so submitted are sufficient to support a finding in favor of the claimant under applicable law and, if so, the appropriate relief and damages, if any, to be awarded.
 
@@ -290,7 +290,7 @@ Bad faith conduct.—Notwithstanding any other provision of law, in any proceedi
 
 &emsp;&emsp;(A) if an adversely affected party appeared pro se in the proceeding, the award to that party shall be for costs only, in an amount of not more than $2,500; and
 
-&emsp;&emsp;(B) in extraordinary circumstances, such as where a party has demonstrated a pattern or practice of bad faith conduct as described in this paragraph, the Copyright Claims Board may, in the interests of justice, award costs and attorneys' fees in excess of the limitations under this paragraph.
+&emsp;&emsp;(B) in extraordinary circumstances, such as where a party has demonstrated a patternor practice of bad faith conduct as described in this paragraph, the Copyright Claims Board may, in the interests of justice, award costs and attorneys' fees in excess of the limitations under this paragraph.
 
 &emsp;(3)
 

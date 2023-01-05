@@ -72,7 +72,7 @@ In general.—A civil investigative demand issued under subsection (a) may not r
 
 &emsp;(2)
 
-Effect on other orders, rules, and laws.—Any such demand which is an expressdemand for any product of discovery supersedes any inconsistent order, rule, or provision of law (other than this section) preventing or restraining disclosure of such product of discovery to any person. Disclosure of any product of discovery pursuant to any such express demand does not constitute a waiver of any right or privilege which the person making such disclosure may be entitled to invoke to resist discovery of trial preparation materials.
+Effect on other orders, rules, and laws.—Any such demand which is an express demand for any product of discovery supersedes any inconsistent order, rule, or provision of law (other than this section) preventing or restraining disclosure of such product of discovery to any person. Disclosure of any product of discovery pursuant to any such express demand does not constitute a waiver of any right or privilege which the person making such disclosure may be entitled to invoke to resist discovery of trial preparation materials.
 
 (c)
 
@@ -110,7 +110,7 @@ Natural persons.—Service of any such demand or petition may be made upon any n
 
 (e)
 
-Proof of Service.—A verified return by the individual serving any civil investigative demand issued under subsection (a) or any petition filed under subsection (j) setting forth the manner of such service shall be proof of such service. In the case of service by registered or certified mail, such return shall be accompanied by the return post office receipt of delivery of such demand.
+Proof of Service.—A verified return by the individual serving any civil investigative demand issued under subsection (a) or any petition filed under subsection (j) setting forth the manner of such service shall be proof of such service. In the case of service by registered or certifiedmail, such return shall be accompanied by the return post office receipt of delivery of such demand.
 
 (f)
 
@@ -162,7 +162,7 @@ Transcript of testimony.—When the testimony is fully transcribed, the false cl
 
 &emsp;(5)
 
-Certification and delivery to custodian.—The officer before whom the testimony is taken shall certify on the transcript that the witness was sworn by the officer and that the transcript is a true record of the testimony given by the witness, and the officer or false claims law investigator shall promptly deliver the transcript, or send the transcript by registered or certified mail, to the custodian.
+Certification and delivery to custodian.—The officer before whom the testimony is taken shall certify on the transcript that the witness was sworn by the officer and that the transcript is a true record of the testimony given by the witness, and the officer or false claims law investigator shall promptly deliver the transcript, or send the transcriptby registered or certified mail, to the custodian.
 
 &emsp;(6)
 
@@ -254,7 +254,7 @@ Petition to modify or set aside demand for product of discovery.—(A) In the ca
 
 &emsp;(4)
 
-Petition to require performance by custodian of duties.—At any time during which any custodian is in custody or control of any documentary material or answers to interrogatories produced, or transcripts of oral testimony given, by any person in compliance with any civil investigative demand issued under subsection (a), such person, and in the case of an express demand for any product of discovery, the person from whom such discovery was obtained, may file, in the district court of the United States for the judicial district within which the office of such custodian is situated, and serve upon such custodian, a petition for an order of such court to require the performance by the custodian of any duty imposed upon the custodian by this section.
+Petition to require performance by custodian of duties.—At any time during which any custodian is in custody or control of any documentary material or answers to interrogatories produced, or transcripts of oral testimony given, by any person in compliancewith any civil investigative demand issued under subsection (a), such person, and in the case of an express demand for any product of discovery, the person from whom such discovery was obtained, may file, in the district court of the United States for the judicial district within which the office of such custodian is situated, and serve upon such custodian, a petition for an order of such court to require the performance by the custodian of any duty imposed upon the custodian by this section.
 
 &emsp;(5)
 
@@ -310,7 +310,7 @@ The date of enactment of this section, referred to in subsec. (l)(1)(B), is the 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–21, §4(c)(1)(A), in introductory provisions, inserted ", or a designee (for purposes of this section)," after "Whenever the Attorney General" and substituted "the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b)," for "the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law," and, in concluding provisions, substituted "may delegate" for "may not delegate" and inserted at end "Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act investigation."
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–21, §4(c)(1)(A), in introductory provisions, inserted ", or a designee (for purposes of this section)," after "Whenever the Attorney General" and substituted "the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b)," for "the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law," and, in concluding provisions, substituted "may delegate" for "may not delegate" and inserted at end "Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the AttorneyGeneral or designee determine it is necessary as part of any false claims act investigation."
 
 Subsec. (a)(2)(G). Pub. L. 111–21, §4(c)(1)(B), struck out at end "The Attorney General may not, notwithstanding section 510 of title 28, authorize the performance, by any other officer, employee, or agency, of any function vested in the Attorney General under this subparagraph."
 

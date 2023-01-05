@@ -28,7 +28,7 @@ Except as provided in subsection (d), a project described in subsection (b) that
 
 #### (2) Inclusion
 
-&emsp;A project under this subsection may carry out part of a proposal that complies with the eligibility requirements of the Collaborative Forest Landscape Restoration Program under section 7303(b) of this title.
+&emsp;A project under this subsection may carry out part of a proposal that complies with theeligibility requirements of the Collaborative Forest Landscape Restoration Program under section 7303(b) of this title.
 
 #### (c) Limitations
 

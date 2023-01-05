@@ -96,11 +96,11 @@ Costs and expenses.—
 
 &emsp;&emsp;(A)
 
-No pay and allowances.—A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of a cadet or midshipman by reason of attendance at a Service Academy under the exchange program, and the Department of Defense may not incur any cost of international travel required for transportation of such a student to and from the sponsoring foreign country.
+No pay and allowances.—A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of a cadet or midshipman by reason of attendance at a Service Academy under the exchange program, and the Department of Defense may not incur anycost of international travel required for transportation of such a student to and from the sponsoring foreign country.
 
 &emsp;&emsp;(B)
 
-Subsistence, transportation, etc.—The Secretary of the military department concerned may provide a student from a foreign country under the exchange program,during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged cadet or midshipman in that foreign country.
+Subsistence, transportation, etc.—The Secretary of the military department concerned may provide a student from a foreign country under the exchange program, during the period of the exchange, with subsistence, transportation within the continental United States, clothing, health care, and other services to the same extent that the foreign country provides comparable support and services to the exchanged cadet or midshipman in that foreign country.
 
 &emsp;&emsp;(C)
 

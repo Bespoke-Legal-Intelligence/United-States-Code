@@ -50,7 +50,7 @@ Termination.—No report shall be required under this section after January 1, 2
 
 #### Effective Date of 2016 Amendment
 
-Pub. L. 114–315, title IV, §404(c), Dec. 16, 2016, 130 Stat. 1554, provided that: "The amendments made by this section \[enacting section 3326 of this title and amending this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Dec. 16, 2016\]."
+Pub. L. 114–315, title IV, §404(c), Dec. 16, 2016, 130 Stat. 1554, provided that: "The amendments made by this section \[enacting section 3326 of this title and amending this section\] shall take effect on the date that is 1year after the date of the enactment of this Act \[Dec. 16, 2016\]."
 
 #### Deadline for Submittal of First Report
 

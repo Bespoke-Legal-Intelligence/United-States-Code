@@ -13,7 +13,7 @@
 | \[2667a. | Repealed.\] |
 | [2668\.](%C2%A7%2002668%20-%20Easements%20for%20rights-of-way.md) | Easements for rights-of-way. |
 | [2668a.](%C2%A7%2002668a%20-%20Easements%20granting%20restrictive%20easements%20in%20connection%20with%20land%20conveyances.md) | Easements: granting restrictive easements in connection with land conveyances. |
-| \[2669. | Repealed.\] |
+| [2669\.](%C2%A7%2002669%20-%20Transfer%20of%20land%20and%20facilities%20to%20support%20contracts%20with%20federally%20funded%20research%20and%20development%20centers.md) | Transfer of land and facilities to support contracts with federally funded research and development centers. |
 | [2670\.](%C2%A7%2002670%20-%20Use%20of%20facilities%20by%20private%20organizations%3B%20use%20as%20polling%20places.md) | Use of facilities by private organizations; use as polling places. |
 | [2671\.](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md) | Military reservations and facilities: hunting, fishing, and trapping. |
 | [2672\.](%C2%A7%2002672%20-%20Protection%20of%20buildings%2C%20grounds%2C%20property%2C%20and%20persons.md) | Protection of buildings, grounds, property, and persons. |
@@ -35,18 +35,14 @@
 | [2687a.](%C2%A7%2002687a%20-%20Overseas%20base%20closures%20and%20realignments%20and%20status%20of%20United%20States%20overseas%20military%20locations.md) | Overseas base closures and realignments and status of United States overseas military locations. |
 | [2688\.](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md) | Utility systems: conveyance authority. |
 | \[2689, 2690. Renumbered.\] |  |
-| [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20damaged%20by%20mishap%3B%20reimbursement%20of%20state%20costs%20of%20fighting%20wildland%20fires.md) | Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [2691\.](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20damaged%20by%20mishap%3B%20reimbursement%20of%20State%20costs%20of%20fighting%20wildland%20fires.md) | Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires. |
 | [2692\.](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md) | Storage, treatment, and disposal of nondefense toxic and hazardous materials. |
 | \[2693. | Repealed.\] |
 | [2694\.](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md) | Conservation and cultural activities. |
 | [2694a.](%C2%A7%2002694a%20-%20Conveyance%20of%20surplus%20real%20property%20for%20natural%20resource%20conservation.md) | Conveyance of surplus real property for natural resource conservation. |
 | [2694b.](%C2%A7%2002694b%20-%20Participation%20in%20wetland%20mitigation%20banks.md) | Participation in wetland mitigation banks. |
 | [2694c.](%C2%A7%2002694c%20-%20Participation%20in%20conservation%20banking%20programs.md) | Participation in conservation banking programs. |
+| [2694d.](%C2%A7%2002694d%20-%20Participation%20in%20pollutant%20banks%20and%20water%20quality%20trading.md) | Participation in pollutant banks and water quality trading. |
 | [2695\.](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md) | Acceptance of funds to cover administrative expenses relating to certain real property transactions. |
 | [2696\.](%C2%A7%2002696%20-%20Real%20property%20transfer%20between%20armed%20forces%20and%20screening%20requirements%20for%20other%20Federal%20use.md) | Real property: transfer between armed forces and screening requirements for other Federal use. |
 | [2697\.](%C2%A7%2002697%20-%20Acceptance%20and%20use%20of%20landing%20fees%20charged%20for%20use%20of%20domestic%20military%20airfields%20by%20civil%20aircraft.md) | Acceptance and use of landing fees charged for use of domestic military airfields by civil aircraft. |
@@ -62,6 +58,8 @@ This section makes necessary clerical amendments to chapter analysis.
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title III, §312(b), div. B, title XXVIII, §2831(b), Dec. 23, 2022, 136 Stat. 2502, 3003, added items 2669 and 2694d.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title XVII, §1701(u)(5)(B), (w)(3), Dec. 27, 2021, 135 Stat. 2154, struck out item 2681 "Use of test and evaluation installations by commercial entities" and repealed Pub. L. 116–283, div. A, title XVIII, §1844(b)(2)(B), Jan. 1, 2021, 134 Stat. 4246, which had previously struck out that item.
 
@@ -165,13 +163,29 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Physical Entrances to Certain Military Installations
+
+Pub. L. 117–263, div. B, title XXVIII, §2833, Dec. 23, 2022, 136 Stat. 3003, provided that: "The Secretary of Defense shall ensure that, to the extent practicable that—
+
+&emsp;"(1) each military installation in the United States has a designated main entrance that, at all times, is manned by at least one member of the Armed Forces or civilian employee of the Department of Defense;
+
+&emsp;"(2) the location of each such designated main entrance is published on a publicly accessible internet website of the Department;
+
+&emsp;"(3) in the case of a military installation in the United States that has any additional entrance designated for commercial deliveries to the military installation, the location of such entrance (and any applicable days or hours of operation for such entrance) is published on the same internet website as the website referred to in paragraph (2); and
+
+&emsp;"(4) the information required to be published on the internet website under paragraph (2) is reviewed and, as necessary, updated on a basis that is not less frequent than annually."
+
 #### Prizes for Development of Non-PFAS-Containing Fire-Fighting Agent
 
-Pub. L. 116–283, div. A, title III, §330, Jan. 1, 2021, 134 Stat. 3528, provided that:
+Pub. L. 116–283, div. A, title III, §330, Jan. 1, 2021, 134 Stat. 3528, as amended by Pub. L. 117–263, div. A, title III, §343, Dec. 23, 2022, 136 Stat. 2530, provided that:
 
 "(a)
 
-Authority.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Sustainment and the Strategic Environmental Research and Development Program, may carry out a program to award cash prizes and other types of prizes that the Secretary determines are appropriate to recognize outstanding achievements in the development of a non-PFAS-containing fire-fighting agent to replace aqueous film-forming foam with the potential for application to the performance of the military missions of the Department of Defense.
+Authority.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Sustainment and the Strategic Environmental Research and Development Program, may carry out a program to award cash prizes and other types of prizes that the Secretary determines are appropriate to recognize outstanding achievements in the development of the following:
+
+&emsp;"(1) A non-PFAS-containing fire-fighting agent to replace aqueous film-forming foam with the potential for application to the performance of the military missions of the Department of Defense.
+
+&emsp;"(2) Covered personal protective firefighting equipment that does not contain an intentionally added perfluoroalkyl substance or polyfluoroalkyl substance.
 
 "(b)
 
@@ -197,11 +211,21 @@ Use of Prize Authority.—Use of prize authority under this section shall be con
 
 "(f)
 
-PFAS Defined.—In this section, the term 'PFAS' means—
+Definitions.—In this section:
 
-&emsp;"(1) man-made chemicals of which all of the carbon atoms are fully fluorinated carbon atoms; and
+&emsp;"(1) The term "perfluoroalkyl substance" means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
 
-&emsp;"(2) man-made chemicals containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
+&emsp;"(2) The term "polyfluoroalkyl substance" means a man-made chemical containing at least one fully fluorinated carbon atom and at least one non-fully fluorinated carbon atom.
+
+&emsp;"(3) The term "covered personal protective firefighting equipment" means the following:
+
+&emsp;&emsp;"(A) Turnout gear jacket or coat.
+
+&emsp;&emsp;"(B) Turnout gear pants.
+
+&emsp;&emsp;"(C) Turnout coveralls.
+
+&emsp;&emsp;"(D) Any other personal protective firefighting equipment, as determined by the Secretary of Defense, in consultation with the Administrator of the United States Fire Administration.
 
 "(g)
 
@@ -363,8 +387,6 @@ Exceptions.—Notwithstanding subsection (a), fluorinated AFFF may be released a
 
 "The Secretary of Defense shall prohibit the use of fluorinated aqueous film forming foam for training exercises at military installations."
 
-<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 115–232 without corresponding amendment of chapter analysis.</i>
-
 
 ---
 
@@ -381,7 +403,7 @@ Exceptions.—Notwithstanding subsection (a), fluorinated AFFF may be released a
 - [&sect; 02667a - Repealed. Pub. L. 110&#8211;417, div. B, title XXVIII, &sect;2812(e)(1), Oct. 14, 2008, 122 Stat. 4727](%C2%A7%2002667a%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93417%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72812%28e%29%281%29%2C%20Oct.%2014%2C%202008%2C%20122%20Stat.%204727.md)
 - [&sect; 02668 - Easements for rights-of-way](%C2%A7%2002668%20-%20Easements%20for%20rights-of-way.md)
 - [&sect; 02668a - Easements granting restrictive easements in connection with land conveyances](%C2%A7%2002668a%20-%20Easements%20granting%20restrictive%20easements%20in%20connection%20with%20land%20conveyances.md)
-- [&sect; 02669 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;2822(c), Oct. 17, 2006, 120 Stat. 2475](%C2%A7%2002669%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72822%28c%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202475.md)
+- [&sect; 02669 - Transfer of land and facilities to support contracts with federally funded research and development centers](%C2%A7%2002669%20-%20Transfer%20of%20land%20and%20facilities%20to%20support%20contracts%20with%20federally%20funded%20research%20and%20development%20centers.md)
 - [&sect; 02670 - Use of facilities by private organizations; use as polling places](%C2%A7%2002670%20-%20Use%20of%20facilities%20by%20private%20organizations%3B%20use%20as%20polling%20places.md)
 - [&sect; 02671 - Military reservations and facilities hunting, fishing, and trapping](%C2%A7%2002671%20-%20Military%20reservations%20and%20facilities%20hunting%2C%20fishing%2C%20and%20trapping.md)
 - [&sect; 02672 - Protection of buildings, grounds, property, and persons](%C2%A7%2002672%20-%20Protection%20of%20buildings%2C%20grounds%2C%20property%2C%20and%20persons.md)
@@ -406,13 +428,14 @@ Exceptions.—Notwithstanding subsection (a), fluorinated AFFF may be released a
 - [&sect; 02688 - Utility systems conveyance authority](%C2%A7%2002688%20-%20Utility%20systems%20conveyance%20authority.md)
 - [&sect; 02689 - Renumbered &sect;2917](%C2%A7%2002689%20-%20Renumbered%20%C2%A72917.md)
 - [&sect; 02690 - Renumbered &sect;2918](%C2%A7%2002690%20-%20Renumbered%20%C2%A72918.md)
-- [&sect; 02691 - Restoration of land used by permit or damaged by mishap; reimbursement of state costs of fighting wildland fires](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20damaged%20by%20mishap%3B%20reimbursement%20of%20state%20costs%20of%20fighting%20wildland%20fires.md)
+- [&sect; 02691 - Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires](%C2%A7%2002691%20-%20Restoration%20of%20land%20used%20by%20permit%20or%20damaged%20by%20mishap%3B%20reimbursement%20of%20State%20costs%20of%20fighting%20wildland%20fires.md)
 - [&sect; 02692 - Storage, treatment, and disposal of nondefense toxic and hazardous materials](%C2%A7%2002692%20-%20Storage%2C%20treatment%2C%20and%20disposal%20of%20nondefense%20toxic%20and%20hazardous%20materials.md)
 - [&sect; 02693 - Repealed. Pub. L. 109&#8211;364, div. B, title XXVIII, &sect;2825(c)(2), Oct. 17, 2006, 120 Stat. 2477](%C2%A7%2002693%20-%20Repealed.%20Pub.%20L.%20109%E2%80%93364%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72825%28c%29%282%29%2C%20Oct.%2017%2C%202006%2C%20120%20Stat.%202477.md)
 - [&sect; 02694 - Conservation and cultural activities](%C2%A7%2002694%20-%20Conservation%20and%20cultural%20activities.md)
 - [&sect; 02694a - Conveyance of surplus real property for natural resource conservation](%C2%A7%2002694a%20-%20Conveyance%20of%20surplus%20real%20property%20for%20natural%20resource%20conservation.md)
 - [&sect; 02694b - Participation in wetland mitigation banks](%C2%A7%2002694b%20-%20Participation%20in%20wetland%20mitigation%20banks.md)
 - [&sect; 02694c - Participation in conservation banking programs](%C2%A7%2002694c%20-%20Participation%20in%20conservation%20banking%20programs.md)
+- [&sect; 02694d - Participation in pollutant banks and water quality trading](%C2%A7%2002694d%20-%20Participation%20in%20pollutant%20banks%20and%20water%20quality%20trading.md)
 - [&sect; 02695 - Acceptance of funds to cover administrative expenses relating to certain real property transactions](%C2%A7%2002695%20-%20Acceptance%20of%20funds%20to%20cover%20administrative%20expenses%20relating%20to%20certain%20real%20property%20transactions.md)
 - [&sect; 02696 - Real property transfer between armed forces and screening requirements for other Federal use](%C2%A7%2002696%20-%20Real%20property%20transfer%20between%20armed%20forces%20and%20screening%20requirements%20for%20other%20Federal%20use.md)
 - [&sect; 02697 - Acceptance and use of landing fees charged for use of domestic military airfields by civil aircraft](%C2%A7%2002697%20-%20Acceptance%20and%20use%20of%20landing%20fees%20charged%20for%20use%20of%20domestic%20military%20airfields%20by%20civil%20aircraft.md)

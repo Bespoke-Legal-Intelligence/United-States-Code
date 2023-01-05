@@ -18,7 +18,7 @@ Notification in Event of Transfer.—In the event that a member of the armed for
 
 &emsp;&emsp;(B) the individuals involved in the order; and
 
-&emsp;(2) not later than seven days after receiving the notice under paragraph (1), the commander of the unit to which the member is transferred shall provide notice of the order to the appropriate civilian authorities in accordance with subsection (a).
+&emsp;(2) not later than seven days after receiving the notice under paragraph (1), the commander of the unit to which the member is transferred shall provide notice of the order tothe appropriate civilian authorities in accordance with subsection (a).
 
 (c)
 

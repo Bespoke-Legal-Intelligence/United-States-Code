@@ -152,7 +152,7 @@ Pub. L. 117–2, title III, §3301(g), Mar. 11, 2021, 135 Stat. 72, provided tha
 
 #### Short Title
 
-Pub. L. 111–240, title III, §3001, Sept. 27, 2010, 124 Stat. 2568, provided that: "This title \[enacting this chapter\]may be cited as the 'State Small Business Credit Initiative Act of 2010'."
+Pub. L. 111–240, title III, §3001, Sept. 27, 2010, 124 Stat. 2568, provided that: "This title \[enacting this chapter\] may be cited as the 'State Small Business Credit Initiative Act of 2010'."
 
 #### Appropriation
 

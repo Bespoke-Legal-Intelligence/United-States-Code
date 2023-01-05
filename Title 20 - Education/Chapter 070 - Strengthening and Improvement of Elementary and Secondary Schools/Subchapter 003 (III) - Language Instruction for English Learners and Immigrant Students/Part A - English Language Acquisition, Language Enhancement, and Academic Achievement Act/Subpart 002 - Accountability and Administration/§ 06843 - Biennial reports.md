@@ -8,7 +8,7 @@ Based upon the reports provided to a State educational agency under section 6841
 
 Every second year, the Secretary shall prepare and submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report—
 
-&emsp;(1) on programs and activities carried out to serve English learners under this part, and the effectiveness of such programs and activities in improving the academic achievement and English proficiency of English learners;
+&emsp;(1) on programs and activities carried out to serve English learners under this part, and the effectiveness of such programs and activitiesin improving the academic achievement and English proficiency of English learners;
 
 &emsp;(2) on the types of language instruction educational programs used by local educational agencies or eligible entities receiving funding under this part to teach English learners;
 

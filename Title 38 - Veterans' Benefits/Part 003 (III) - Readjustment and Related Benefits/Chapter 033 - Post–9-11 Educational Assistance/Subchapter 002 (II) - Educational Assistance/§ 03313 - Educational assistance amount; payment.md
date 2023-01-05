@@ -10,7 +10,7 @@ Approved Programs of Education.—A program of education is an approved program 
 
 (c)
 
-Programs of Education Leading to a Degree Pursued at Institutions of Higher Learning on More Than Half-time Basis.—The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
+Programs of Education Leading to a Degree Pursued at Institutions of HigherLearning on More Than Half-time Basis.—The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
 
 &emsp;(1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), (9), (10), or (11) of section 3311(b), amounts as follows:
 
@@ -28,7 +28,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) any waiver of, or reduction in, tuition and fees; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher EducationAct of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount equal to—
 
@@ -68,7 +68,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;(2) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(3), amounts equal to 90 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
-&emsp;(3) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(4), amounts equal to 80 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
+&emsp;(3) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(4), amounts equal to 80 percent of the amounts that would be payable to the individual under paragraph (1) forthe program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
 &emsp;(4) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(5), amounts equal to 70 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
@@ -94,15 +94,17 @@ Regulations.—The Secretary shall prescribe in regulations methods for determin
 
 (e)
 
-Programs of Education Leading to a Degree Pursued on Active Duty on More Than Half-time Basis.—
+Programs of Education Leading to a Degree Pursued on Active Duty for a Period of More Than 30
+
+Days on More Than Half-time Basis.—
 
 &emsp;(1)
 
-In general.—Educational assistance is payable under this chapter for pursuit of an approved program of education leading to a degree while on active duty.
+In general.—Educational assistance is payable under this chapter for pursuit of an approved program of education leading to a degree while on active duty for a period of more than 30 days.
 
 &emsp;(2)
 
-Amount of assistance.—The amounts of educational assistance payable under this chapter to an individual pursuing a program of education leading to a degree while on active duty are as follows:
+Amount of assistance.—The amounts of educational assistance payable under this chapter to an individual pursuing a program of education leading to a degree while on active duty for a period of more than 30 days are as follows:
 
 &emsp;&emsp;(A) Subject to subparagraph (C), an amount equal to the lesser of—
 
@@ -162,7 +164,7 @@ Amount of assistance.—The educational assistance payable under this chapter to
 
 &emsp;&emsp;&emsp;&emsp;(I) any waiver of, or reduction in, tuition and fees; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any scholarship, or other Federal, State, institutional, or employer-basedaid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 (20 U.S.C. 1070a(b))) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+&emsp;&emsp;&emsp;&emsp;(II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 (20 U.S.C. 1070a(b))) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
 &emsp;&emsp;&emsp;(ii) the maximum amount that would be payable to the individual for the program of education under paragraph (1)(A) of subsection (c), or under the provisions of paragraphs (2) through (6) of subsection (c) applicable to the individual, for the program of education if the individual were entitled to amounts for the program of education under subsection (c) rather than this subsection.
 
@@ -210,7 +212,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) for the academic year beginning on August 1, 2011, $17,500; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) for an academic year beginning on any subsequent August 1, the amount for the previous academic year beginning on August 1 under this subclause, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) for an academic year beginning on any subsequent August 1, the amount for the previous academic yearbeginning on August 1 under this subclause, as increased by the percentage increase equal to the most recent percentage increase determined under section 3015(h).
 
 &emsp;&emsp;&emsp;(ii) Except in the case of an individual pursuing a program of education on a half-time or less basis and subject to clause (iv), a monthly housing stipend equal to the product—
 
@@ -228,7 +230,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;(iii) Subject to clause (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for a partial month) of training pursued for books, supplies, equipment, and other educational costs.
 
-&emsp;&emsp;&emsp;(iv) In the case of an individual entitled to educational assistance by reason ofparagraphs (3) through (7) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
+&emsp;&emsp;&emsp;(iv) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
 &emsp;&emsp;(B) In the case of an individual pursuing a full-time program of apprenticeship or other on-job training, amounts as follows:
 
@@ -258,7 +260,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) any waiver of, or reduction in, tuition and fees; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly tothe institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount equal to—
 
@@ -364,7 +366,7 @@ Verification of Enrollment.—
 
 &emsp;(1)
 
-In general.—The Secretary shall require—
+In general.—Except as provided in paragraph (4), the Secretary shall require—
 
 &emsp;&emsp;(A) each educational institution to submit to the Secretary verification of each individual who is enrolled in a course or program of education at the educational institution and is receiving educational assistance under this chapter—
 
@@ -384,21 +386,15 @@ Failure to submit verification.—If an individual fails to submit the verificat
 
 &emsp;(4)
 
-Waiver.—The Secretary may waive the requirements of this subsection for an educational institution that the Secretary has determined uses a flat tuition and fee structure that would make the use of a second verification under this subsection unnecessary.
+Exception.—An educational institution is not required to submit verification of an individual under paragraph (1)(A) if—
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110, 4112–4117, 4121; Pub. L. 114–58, title VI, §601(16)–(18), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §§102(b), 105(b), (c)(2), 107(a), 113(a), Aug. 16, 2017, 131 Stat. 975, 977, 985; Pub. L. 115–62, title V, §501(b)(1), (c)(1), Sept. 29, 2017, 131 Stat. 1165, 1166; Pub. L. 115–407, title I, §102, Dec. 31, 2018, 132 Stat. 5369; Pub. L. 116–61, §6(3), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§1002(b)(2), 1009(a), 1010(a), Jan. 5, 2021, 134 Stat. 4938, 4941; Pub. L. 117–16, §7(a)(2), June 8, 2021, 135 Stat. 284; Pub. L. 117–76, §3(a), Dec. 21, 2021, 135 Stat. 1517.)
+&emsp;&emsp;(A) the individual is enrolled in a course or program of education offered by the educational institution on at least a full-time basis before the date on which the individual is able to withdraw from the course or program of education without penalty;
 
-#### Amendment of Subsection (e)
+&emsp;&emsp;(B) the educational institution charges the same amount of tuition and fees for students who are enrolled on a full-time basis and students who are enrolled on a more-than-full-time basis; and
 
-<i>Pub. L. 116–315, title I, §1009, Jan. 5, 2021, 134 Stat. 4941, provided that, effective Aug. 1, 2022, subsection (e) of this section is amended:</i>
+&emsp;&emsp;(C) the individual remains enrolled in the course or program of education after the date on which the individual is able to withdraw from the course or program of education without penalty.
 
-<i>(1) in the heading, by inserting "for a Period of More Than 30 Days" after "Active Duty";</i>
-
-<i>(2) in paragraph (1), by inserting "for a period of more than 30 days" after "active duty"; and</i>
-
-<i>(3) in paragraph (2), in the matter preceding subparagraph (A), by inserting "for a period of more than 30 days" after "active duty".</i>
-
-<i>See 2021 Amendment notes below.</i>
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110, 4112–4117, 4121; Pub. L. 114–58, title VI, §601(16)–(18), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §§102(b), 105(b), (c)(2), 107(a), 113(a), Aug. 16, 2017, 131 Stat. 975, 977, 985; Pub. L. 115–62, title V, §501(b)(1), (c)(1), Sept. 29, 2017, 131 Stat. 1165, 1166; Pub. L. 115–407, title I, §102, Dec. 31, 2018, 132 Stat. 5369; Pub. L. 116–61, §6(3), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§1002(b)(2), 1009(a), 1010(a), Jan. 5, 2021, 134 Stat. 4938, 4941; Pub. L. 117–16, §7(a)(2), June 8, 2021, 135 Stat. 284; Pub. L. 117–76, §3(a), Dec. 21, 2021, 135 Stat. 1517; Pub. L. 117–333, §13, Jan. 5, 2023, 136 Stat. 6134.)
 
 #### <b>Editorial Notes</b>
 
@@ -409,6 +405,10 @@ Section 401(b) of the Higher Education Act of 1965, referred to in subsecs. (c)(
 Subsection (b)(7) of section 3311 of this title, referred to in subsec. (c)(6), was repealed and subsection (b)(8) was redesignated (b)(7) by Pub. L. 115–48, title I, §105(a)(2), (3), Aug. 16, 2017, 131 Stat. 975.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (l)(1). Pub. L. 117–333, §13(1), substituted "Except as provided in paragraph (4), the Secretary" for "The Secretary" in introductory provisions.
+
+Subsec. (l)(4). Pub. L. 117–333, §13(2), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "The Secretary may waive the requirements of this subsection for an educational institution that the Secretary has determined uses a flat tuition and fee structure that would make the use of a second verification under this subsection unnecessary."
 
 <b>2021</b>—Subsec. (c)(1). Pub. L. 116–315, §1002(b)(2), substituted "(8), (9), (10), or (11)" for "(8), or (9)".
 
@@ -588,7 +588,7 @@ In General.—Notwithstanding paragraph (1)(A)(ii) of section 3313(c) of title 3
 
 &emsp;"(1) $17,500; or
 
-&emsp;"(2) the established charges payable for the program of education determined using the table of the Department of Veterans Affairs entitled 'Post-9/11 GI Bill 2010–2011 Tuition and Fee In-State Maximums', published October 27, 2010 (75 Fed. Reg. 66193), as if that table applied to the pursuit of the program of education by that individual during that period.
+&emsp;"(2) the established charges payable for the program of education determined using the table of theDepartment of Veterans Affairs entitled 'Post-9/11 GI Bill 2010–2011 Tuition and Fee In-State Maximums', published October 27, 2010 (75 Fed. Reg. 66193), as if that table applied to the pursuit of the program of education by that individual during that period.
 
 "(b)
 

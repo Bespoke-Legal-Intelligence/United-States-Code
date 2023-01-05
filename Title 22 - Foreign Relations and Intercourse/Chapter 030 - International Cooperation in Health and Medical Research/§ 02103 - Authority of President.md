@@ -24,7 +24,7 @@ To carry out his responsibilities under this chapter the President may—
 
 &emsp;(6) cooperate and assist in the planning and conduct of research, research planning, and research training programs and projects by groups engaged in, or concerned with, research or research training endeavors in the health sciences, and, through financial grants or other appropriate means, assist in special research, research planning, or research training projects conducted by or under the auspices of such groups where they can effectively carry out such activities contemplated by this joint resolution;
 
-&emsp;(7) encourage and support international communication in the sciences relating to health by means of calling or cooperating in the convening, and financing or contributing to the financing of the expenses of, international scientific meetings and conferences; and provide, or arrange for the provision of,translating and other services, and issue or finance publications, leading to a more effective dissemination of relevant scientific information with respect to research conducted in the United States or participating foreign countries.
+&emsp;(7) encourage and support international communication in the sciences relating to health by means of calling or cooperating in the convening, and financing or contributing to the financing of the expenses of, international scientific meetings and conferences; and provide, or arrange for the provision of, translating and other services, and issue or finance publications, leading to a more effective dissemination of relevant scientific information with respect to research conducted in the United States or participating foreign countries.
 
 #### (d) Programs of an operational nature excepted from assistance
 
@@ -36,7 +36,7 @@ The President is authorized, to the extent he deems it necessary to carry out th
 
 #### (f) Delegation of authority; regulations
 
-The President may delegate any authority vested in him by this section to the Secretary of Health, Education, and Welfare. The Secretary may from time to time issue such regulations as may be necessary to carry out any authority which is delegated to him under this section, and may delegate performance of any such authority to the Surgeon General of the Public Health Service, the Director of the Office of Vocational Rehabilitation, the Chief of the Children's Bureau, or other subordinates acting under his direction.
+The President may delegate any authority vested in him by this section to the Secretary of Health, Education, and Welfare. The Secretary may from time to time issue such regulations as may be necessary to carry out any authority which is delegated to him under this section, and may delegate performance of any such authority to the Surgeon General of the PublicHealth Service, the Director of the Office of Vocational Rehabilitation, the Chief of the Children's Bureau, or other subordinates acting under his direction.
 
 #### (g) Use of foreign currencies and credits
 
@@ -68,7 +68,7 @@ Section 142(b) of the Mutual Security Act of 1954, referred to in subsec. (g), w
 
 #### Codification
 
-In subsec. (c)(2), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648and 3709 of the Revised Statutes of the United States" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(2), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes of the United States" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (e), "section 3109 of title 5" and "section 5703 of title 5" substituted for "section 15 of the Administrative Expenses Act of 1946 (5 U.S.C. 55a)" and "section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)", respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
 

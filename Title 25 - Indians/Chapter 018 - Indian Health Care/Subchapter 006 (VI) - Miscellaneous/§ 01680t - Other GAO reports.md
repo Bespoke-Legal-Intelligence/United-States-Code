@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;The Comptroller General shall conduct a study on the use of health care furnished by health care providers under the contract health services program funded by the Service and operated by the Service, an Indian tribe, or a tribal organization.
+&emsp;The Comptroller General shall conduct a study on the use of health care furnished byhealth care providers under the contract health services program funded by the Service and operated by the Service, an Indian tribe, or a tribal organization.
 
 #### (2) Analysis
 

@@ -322,9 +322,9 @@ The administering authority shall establish procedures for the correction of min
 
 Section 1303 of this title, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(1)(A), (6)(C)(i), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
 
-The Antidumping Act, 1921, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(6)(C)(ii), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
+The Antidumping Act, 1921, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(6)(C)(ii), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193.
 
-The International Emergency Economic Powers Act, referred to in subsec. (c)(7)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (c)(7)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Amendments
 
@@ -334,7 +334,7 @@ The International Emergency Economic Powers Act, referred to in subsec. (c)(7)(A
 
 <b>1994</b>—Pub. L. 103–465, §283(c), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-Pub. L. 103–465, §220(a), amended section generally, substituting present provisions for provisions relating to administrative review of determinations, which provided for periodic review of amount of duty in subsec. (a), review upon information or request in subsec. (b), revocation of countervailing duty order or antidumping duty order in subsec. (c), hearings in subsec. (d), determination that basis for suspension no longer existed insubsec. (e), and correction of ministerial errors in subsec. (f).
+Pub. L. 103–465, §220(a), amended section generally, substituting present provisions for provisions relating to administrative review of determinations, which provided for periodic review of amount of duty in subsec. (a), review upon information or request in subsec. (b), revocation of countervailing duty order or antidumping duty order in subsec. (c), hearings in subsec. (d), determination that basis for suspension no longer existed in subsec. (e), and correction of ministerial errors in subsec. (f).
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–418 added subsec. (f).
 

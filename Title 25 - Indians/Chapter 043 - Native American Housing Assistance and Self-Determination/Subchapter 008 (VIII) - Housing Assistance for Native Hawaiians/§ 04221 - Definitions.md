@@ -70,13 +70,13 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iii) birth records of the State of Hawaii.
 
-(Pub. L. 104–330, title VIII, §801, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2876,and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2969.)
+(Pub. L. 104–330, title VIII, §801, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2876, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2969.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Hawaiian Homes Commission Act, 1920, referred to in pars. (1) and (4)(B), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
+The Hawaiian Homes Commission Act, 1920, referred to in pars. (1) and (4)(B), is act July 9, 1921, ch. 42, 42 Stat. 108, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
 This chapter, referred to in par. (5), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
@@ -108,7 +108,7 @@ Pub. L. 106–569, title V, §512, Dec. 27, 2000, 114 Stat. 2966, provided that:
 
 &emsp;"(4) despite the intent of Congress in 1920 to address the housing needs of Native Hawaiians through the enactment of the Hawaiian Homes Commission Act, 1920 (42 Stat. 108 et seq.), Native Hawaiians eligible to reside on the Hawaiian home lands have been foreclosed from participating in Federal housing assistance programs available to all other eligible families in the United States;
 
-&emsp;"(5) although Federal housing assistance programs have been administered on a racially neutral basis in the State of Hawaii, Native Hawaiians continue to have the greatest unmet need for housing and the highest rates of overcrowding in the United States;
+&emsp;"(5) although Federal housing assistance programs have been administered on a racially neutral basis inthe State of Hawaii, Native Hawaiians continue to have the greatest unmet need for housing and the highest rates of overcrowding in the United States;
 
 &emsp;"(6) among the Native American population of the United States, Native Hawaiians experience the highest percentage of housing problems in the United States, as the percentage—
 

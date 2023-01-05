@@ -64,7 +64,7 @@ If the partnership—
 
 #### (1) Penalties
 
-&emsp;Notwithstanding subsections (a) and (b), any penalties, additions to tax, or additional amount shall be determined as provided undersection 6221 and the partners of the partnership for the reviewed year shall be liable for any such penalty, addition to tax, or additional amount.
+&emsp;Notwithstanding subsections (a) and (b), any penalties, additions to tax, or additional amount shall be determined as provided under section 6221 and the partners of the partnership for the reviewed year shall be liable for any such penalty, addition to tax, or additional amount.
 
 #### (2) Interest
 

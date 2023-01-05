@@ -24,7 +24,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;(ii) biofuel derived from sugar and starch (other than ethanol derived from corn kernel starch);
 
-&emsp;&emsp;&emsp;(iii) biofuel derived from waste material, including crop residue, other vegetativewaste material, animal waste, food waste, and yard waste;
+&emsp;&emsp;&emsp;(iii) biofuel derived from waste material, including crop residue, other vegetative waste material, animal waste, food waste, and yard waste;
 
 &emsp;&emsp;&emsp;(iv) diesel-equivalent fuel derived from renewable biomass, including vegetable oil and animal fat;
 
@@ -158,7 +158,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;The term "renewable energy" means energy derived from—
 
-&emsp;&emsp;(A) a wind, solar, renewable biomass, ocean (including tidal, wave, current, andthermal), geothermal, or hydroelectric source; or
+&emsp;&emsp;(A) a wind, solar, renewable biomass, ocean (including tidal, wave, current, and thermal), geothermal, or hydroelectric source; or
 
 &emsp;&emsp;(B) hydrogen derived from renewable biomass or water using an energy source described in subparagraph (A).
 
@@ -234,7 +234,7 @@ Pub. L. 108–199, div. A, title VII, §778(a), Jan. 23, 2004, 118 Stat. 41, pro
 
 #### Biomass Research and Development
 
-Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002, 116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, and title III of Pub. L. 106–224 was transferred to chapter 112 (§8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, §9001(b), June 18, 2008, 122 Stat. 2095.
+Pub. L. 106–224, title III, June 20, 2000, 114 Stat. 428; as amended by Pub. L. 107–171, title IX, §9008, May 13, 2002,116 Stat. 483; Pub. L. 108–148, title II, §201, Dec. 3, 2003, 117 Stat. 1901; Pub. L. 109–58, title IX, §941, Aug. 8, 2005, 119 Stat. 873, known as the Biomass Research and Development Act of 2000, and formerly set out as a note under this section, provided temporary authority for the Secretaries of Agriculture and Energy to promote biomass research and development. As amended by Pub. L. 109–58, the program became permanent, and title III of Pub. L. 106–224 was transferred to chapter 112 (§8601 et seq.) of this title. Subsequently, title III of Pub. L. 106–224 was repealed by Pub. L. 110–246, title IX, §9001(b), June 18, 2008, 122 Stat. 2095.
 
 #### <b>Executive Documents</b>
 

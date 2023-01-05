@@ -10,7 +10,7 @@ Unless the Secretary of the Treasury finds that the collection of a tax is in je
 
 #### (c) Extended application of regulations prescribed by Secretary of the Treasury relating to minimum participation standards, minimum vesting standards, and minimum funding standards
 
-Regulations prescribed by the Secretary of the Treasury under sections 410(a), 411, and 412 of title 26 (relating to minimum participation standards, minimum vesting standards, and minimum funding standards, respectively) shallalso apply to the minimum participation, vesting, and funding standards set forth in parts 2 and 3 of subtitle B of subchapter I of this chapter. Except as otherwise expressly provided in this chapter, the Secretary of Labor shall not prescribe other regulations under such parts, or apply the regulations prescribed by the Secretary of the Treasury under sections 410(a), 411, 412 of title 26 and applicable to the minimum participation, vesting, and funding standards under such parts in a manner inconsistent with the way such regulations apply under sections 410(a), 411, and 412 of title 26.
+Regulations prescribed by the Secretary of the Treasury under sections 410(a), 411, and 412 of title 26 (relating to minimum participation standards, minimum vesting standards, and minimum funding standards, respectively) shall also apply to the minimum participation, vesting, and funding standards set forth in parts 2 and 3 of subtitle B of subchapter I of this chapter. Except as otherwise expressly provided in this chapter, the Secretary of Labor shall not prescribe other regulations under such parts, or apply the regulations prescribed by the Secretary of the Treasury under sections 410(a), 411, 412 of title 26 and applicable to the minimum participation, vesting, and funding standards under such parts in a manner inconsistent with the way such regulations apply under sections 410(a), 411, and 412 of title 26.
 
 #### (d) Opportunity afforded Secretary of the Treasury to intervene in cases involving construction or application of minimum standards; review of briefs filed by Pension Benefit Guaranty Corporation or Secretary of Labor
 
@@ -18,7 +18,7 @@ The Secretary of Labor and the Pension Benefit Guaranty Corporation, before fili
 
 #### (e) Consultative requirements respecting promulgation of proposed or final regulations
 
-The Secretary of the Treasury shall consult with the Pension Benefit Guaranty Corporation with respect to any proposed or final regulation authorized by subpart C of part I of subchapter D of chapter 1 of title 26, or by sections 1421 through 1426 <sup>1</sup> of this title, before publishing any such proposed or final regulation.
+The Secretary of the Treasury shall consult with the Pension Benefit Guaranty Corporationwith respect to any proposed or final regulation authorized by subpart C of part I of subchapter D of chapter 1 of title 26, or by sections 1421 through 1426 <sup>1</sup> of this title, before publishing any such proposed or final regulation.
 
 (Pub. L. 93–406, title III, §3002, Sept. 2, 1974, 88 Stat. 996; Pub. L. 96–364, title IV, §402(b)(3), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445.)
 

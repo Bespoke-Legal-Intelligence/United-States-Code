@@ -204,7 +204,7 @@ This amends 49:13102(4)(B) for clarity and consistency.
 
 #### References in Text
 
-Section 10923, referred to in par. (4)(A), was omitted in the general amendment of this subtitle by Pub. L.104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Section 10923, referred to in par. (4)(A), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
 The date of enactment of the Household Goods Mover Oversight Enforcement and Reform Act of 2005, referred to in par. (12)(B), is the date of enactment of subtitle B of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
@@ -246,7 +246,7 @@ Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 
 #### Application of Certain Provisions of Law
 
-Pub. L. 109–59, title IV, §4202(c), Aug. 10, 2005, 119 Stat. 1752, provided that: "The provisions of title 49, United States Code, and this subtitle \[subtitle B (§§4201–4216) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] (including any amendments made by this subtitle), that relate to the transportation of household goods apply only to a household goods motor carrier (as defined in section 13102 of title 49, United States Code)."
+Pub. L. 109–59, title IV, §4202(c), Aug. 10, 2005, 119 Stat. 1752, provided that: "The provisions of title 49,United States Code, and this subtitle \[subtitle B (§§4201–4216) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] (including any amendments made by this subtitle), that relate to the transportation of household goods apply only to a household goods motor carrier (as defined in section 13102 of title 49, United States Code)."
 
 #### Definitions
 

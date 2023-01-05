@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings; use of Arms Export Control Act procedures
 
-The Congress finds that the legitimate defense interests of Israel and Egypt require a one time extraordinary assistance package due to Israel's phased withdrawal from the Sinai and Egypt'sshift from reliance on Soviet weaponry. The authorizations contained in this section do not, however, constitute Congressional approval of the sale of any particular weapons system to either country. These sales will be reviewed under the normal procedures set forth in section 36(b) of the Arms Export Control Act \[22 U.S.C. 2776(b)\].
+The Congress finds that the legitimate defense interests of Israel and Egypt require a one time extraordinary assistance package due to Israel's phased withdrawal from the Sinai and Egypt's shift from reliance on Soviet weaponry. The authorizations contained in this section do not, however, constitute Congressional approval of the sale of any particular weapons system to either country. These sales will be reviewed under the normal procedures set forth in section 36(b) of the Arms Export Control Act \[22 U.S.C. 2776(b)\].
 
 #### (b) Authorization of appropriation
 
@@ -28,9 +28,9 @@ Loans guaranteed with funds made available pursuant to subsection (b) of this se
 
 #### References in Text
 
-That Act, referred to in subsec. (b), means the Arms Export Control Act, Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+That Act, referred to in subsec. (b), means the Arms Export Control Act, Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
-<b>1981</b>—Subsec. (e)(2). Pub. L. 97–113 struck out par. (2) which required annual reports respecting economic conditions in Israel and Egypt and their external debt burdens, covered in provisions respecting external debt burdens of Egypt, Israel, and Turkey in section 723 of Pub. L. 97–113, title VII, Dec. 29, 1981, 95 Stat. 1552, not classified to the Code.
+<b>1981</b>—Subsec. (e)(2). Pub. L. 97–113 struck out par. (2) which required annual reports respecting economic conditions in Israel and Egypt and their external debtburdens, covered in provisions respecting external debt burdens of Egypt, Israel, and Turkey in section 723 of Pub. L. 97–113, title VII, Dec. 29, 1981, 95 Stat. 1552, not classified to the Code.
 

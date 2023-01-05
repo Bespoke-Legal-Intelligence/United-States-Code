@@ -346,6 +346,10 @@ Effective Date.—This Act and the amendments made by this Act \[enacting sectio
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose."
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–201, §1, Oct. 17, 2022, 136 Stat. 2222, provided that: "This Act \[amending section 708 of this title\] may be cited as the 'Artistic Recognition for Talented Students Act' or the 'ARTS Act'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–260, div. Q, title II, §212(a), Dec. 27, 2020, 134 Stat. 2176, provided that: "This section \[enacting chapter 15 of this title and enacting provisions set out as notes under sections 1501 and 1502 of this title\] may be cited as the 'Copyright Alternative in Small-Claims Enforcement Act of 2020' or the 'CASE Act of 2020'."
@@ -376,11 +380,11 @@ Pub. L. 111–151, §1, Mar. 26, 2010, 124 Stat. 1027, provided that: "This Act 
 
 #### Short Title of 2009 Amendment
 
-Pub. L. 111–36, §1, June 30, 2009, 123 Stat. 1926, provided that: "This Act \[amending section 114 of this title\] may be cited as the 'Webcaster Settlement Act of 2009'."
+Pub. L. 111–36, §1, June 30, 2009, 123 Stat. 1926, provided that: "This Act \[amending section 114 of thistitle\] may be cited as the 'Webcaster Settlement Act of 2009'."
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–435, §1, Oct. 16, 2008, 122 Stat. 4974, provided that: "This Act \[amending section 114 of thistitle\] may be cited as the 'Webcaster Settlement Act of 2008'."
+Pub. L. 110–435, §1, Oct. 16, 2008, 122 Stat. 4974, provided that: "This Act \[amending section 114 of this title\] may be cited as the 'Webcaster Settlement Act of 2008'."
 
 Pub. L. 110–434, §1(a), Oct. 16, 2008, 122 Stat. 4972, provided that: "This Act \[amending section 1301 of this title\] may be cited as the 'Vessel Hull Design Protection Amendments of 2008'."
 
@@ -432,9 +436,9 @@ Pub. L. 105–304, title III, §301, Oct. 28, 1998, 112 Stat. 2886, provided tha
 
 Pub. L. 105–304, title V, §501, Oct. 28, 1998, 112 Stat. 2905, provided that: "This Act \[probably means "this title", enacting chapter 13 of this title and amending sections 1338, 1400, and 1498 of Title 28, Judiciary and Judicial Procedure\] may be referred to as the 'Vessel Hull Design Protection Act'."
 
-Pub. L. 105–298, title I, §101, Oct. 27, 1998, 112 Stat. 2827, provided that: "This title \[amending sections 108, 203, and 301 to 304 of this title, enacting provisions set out as a note under section 108 of this title, and amending provisions set out as notes under this section and section 304 of this title\] may be referred to as the 'Sonny Bono Copyright Term Extension Act'."
+Pub. L. 105–298, title I, §101, Oct. 27, 1998, 112 Stat. 2827, provided that: "This title \[amending sections 108, 203, and 301 to 304 of this title, enacting provisions set out as a note under section 108 of this title, and amending provisions set out as notes under this section andsection 304 of this title\] may be referred to as the 'Sonny Bono Copyright Term Extension Act'."
 
-Pub. L. 105–298, title II, §201, Oct. 27, 1998, 112 Stat. 2830, provided that: "This title \[enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out asnotes under this section\] may be cited as the 'Fairness In Music Licensing Act of 1998'."
+Pub. L. 105–298, title II, §201, Oct. 27, 1998, 112 Stat. 2830, provided that: "This title \[enacting section 512 of this title, amending this section and sections 110 and 504 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Fairness In Music Licensing Act of 1998'."
 
 #### Short Title of 1995 Amendment
 

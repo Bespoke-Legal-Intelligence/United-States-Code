@@ -84,7 +84,7 @@ An eligible entity may use a grant received under this part to carry out activit
 
 &emsp;&emsp;(D) biomass;
 
-&emsp;(14) programs for financing energy efficiency, renewable energy, and zero-emissiontransportation (and associated infrastructure), capital investments, projects, and programs, which may include loan programs and performance contracting programs, for leveraging of additional public and private sector funds, and programs that allow rebates, grants, or other incentives for the purchase and installation of energy efficiency, renewable energy, and zero-emission transportation (and associated infrastructure) measures; and
+&emsp;(14) programs for financing energy efficiency, renewable energy, and zero-emission transportation (and associated infrastructure), capital investments, projects, and programs, which may include loan programs and performance contracting programs, for leveraging of additional public and private sector funds, and programs that allow rebates, grants, or other incentives for the purchase and installation of energy efficiency, renewable energy, and zero-emission transportation (and associated infrastructure) measures; and
 
 &emsp;(15) any other appropriate activity, as determined by the Secretary, in consultation with—
 

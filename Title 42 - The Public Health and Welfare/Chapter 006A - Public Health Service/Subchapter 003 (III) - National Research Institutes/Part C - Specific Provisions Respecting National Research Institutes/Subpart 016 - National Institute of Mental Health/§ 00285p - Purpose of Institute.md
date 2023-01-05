@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The general purpose of the National Institute of Mental Health (hereafter in this subpart referred to as the "Institute") is the conduct andsupport of biomedical and behavioral research, health services research, research training, and health information dissemination with respect to the cause, diagnosis, treatment, control and prevention of mental illness.
+The general purpose of the National Institute of Mental Health (hereafter in this subpart referred to as the "Institute") is the conduct and support of biomedical and behavioral research, health services research, research training, and health information dissemination with respect to the cause, diagnosis, treatment, control and prevention of mental illness.
 
 #### (b) Research program
 
@@ -10,7 +10,7 @@ The research program established under this subpart shall include support for bi
 
 #### (c) Collaboration
 
-The Director of the Institute shall collaborate with the Administrator of the Substance Abuse and Mental Health Services Administration in focusing the services research activities of the Institute and in disseminating the results of such research to health professionals and the general public.
+The Director of the Institute shall collaborate with the Administrator of the Substance Abuse and Mental Health Services Administration in focusing the services research activities of the Institute and in disseminating the results ofsuch research to health professionals and the general public.
 
 #### (d) Information with respect to suicide
 

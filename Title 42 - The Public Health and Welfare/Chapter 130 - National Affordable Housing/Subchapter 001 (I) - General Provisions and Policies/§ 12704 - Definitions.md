@@ -4,7 +4,7 @@ As used in this subchapter and in subchapter II:
 
 &emsp;(1) The term "unit of general local government" means a city, town, township, county, parish, village, or other general purpose political subdivision of a State; the Federated States of Micronesia and Palau, the Marshall Islands, or a general purpose political subdivision thereof; a consortium of such political subdivisions recognized by the Secretary in accordance with section 12746(2) of this title; and any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive to act on behalf of the jurisdiction with regard to provisions of this Act.
 
-&emsp;(2) The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act.
+&emsp;(2) The term "State" means any State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, or any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act.
 
 &emsp;(3) The term "jurisdiction" means a State or unit of general local government.
 
@@ -36,7 +36,7 @@ As used in this subchapter and in subchapter II:
 
 &emsp;(8) The term "housing" includes manufactured housing and manufactured housing lots and elder cottage housing opportunity units that are small, free-standing, barrier-free, energy-efficient, removable, and designed to be installed adjacent to existing 1- to 4-family dwellings.
 
-&emsp;(9) The term "very low-income families" means low-income families whose incomes donot exceed 50 percent of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes.
+&emsp;(9) The term "very low-income families" means low-income families whose incomes do not exceed 50 percent of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes.
 
 &emsp;(10) The term "low-income families" means families whose incomes do not exceed 80 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes.
 
@@ -98,7 +98,7 @@ As used in this subchapter and in subchapter II:
 
 #### References in Text
 
-This Act, referred to in pars. (1), (2), (6), (16), and (21), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+This Act, referred to in pars. (1), (2), (6), (16), and (21), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, known as the Cranston-Gonzalez National Affordable Housing Act. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 #### Amendments
 

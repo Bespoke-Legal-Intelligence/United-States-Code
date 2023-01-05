@@ -18,7 +18,7 @@ In carrying out maintenance activities under this section, a non-Federal interes
 
 &emsp;(1) provide equipment at no cost to the Federal Government; and
 
-&emsp;(2) hold and save the United States free from any and all damage that arises from the use ofthe equipment of the non-Federal interest, except for damage due to the fault or negligence of a contractor of the Federal Government.
+&emsp;(2) hold and save the United States free from any and all damage that arises from the use of the equipment of the non-Federal interest, except for damage due to the fault or negligence of a contractor of the Federal Government.
 
 #### (e) Reimbursement eligibility limitations
 

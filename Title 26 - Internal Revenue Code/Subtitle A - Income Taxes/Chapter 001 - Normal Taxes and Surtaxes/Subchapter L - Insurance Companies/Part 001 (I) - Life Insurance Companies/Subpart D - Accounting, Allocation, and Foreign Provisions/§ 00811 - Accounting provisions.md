@@ -14,7 +14,7 @@ All computations entering into the determination of the taxes imposed by this pa
 
 #### (1) In general
 
-&emsp;The appropriate items of income, deductions, and adjustments under this part shall be adjusted to reflect the appropriate amortization of premium and the appropriate accrual of discount attributable to the taxable year on bonds, notes, debentures, or other evidences of indebtedness held by a life insurance company.Such amortization and accrual shall be determined—
+&emsp;The appropriate items of income, deductions, and adjustments under this part shall be adjusted to reflect the appropriate amortization of premium and the appropriate accrual of discount attributable to the taxable year on bonds, notes, debentures, or other evidences of indebtedness held by a life insurance company. Such amortization and accrual shall be determined—
 
 &emsp;&emsp;(A) in accordance with the method regularly employed by such company, if such method is reasonable, and
 
@@ -32,7 +32,7 @@ All computations entering into the determination of the taxes imposed by this pa
 
 #### (3) Exception
 
-&emsp;No accrual of discount shall be required under paragraph (1) on any bond (as defined in section 171(d)), except in the case of discount which is—
+&emsp;No accrual of discount shall be required under paragraph (1) on any bond (as defined insection 171(d)), except in the case of discount which is—
 
 &emsp;&emsp;(A) interest to which section 103 applies, or
 

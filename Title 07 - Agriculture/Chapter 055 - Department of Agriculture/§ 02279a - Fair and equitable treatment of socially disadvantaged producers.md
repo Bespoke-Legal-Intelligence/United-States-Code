@@ -16,7 +16,7 @@ If the Secretary of Agriculture determines that application of the Consolidated 
 
 &emsp;&emsp;(A) whether socially disadvantaged producers are underrepresented on State, county, area, or local committees established under section 590h(b)(5) of title 16 or local review committees established under section 1363 of this title because of racial, ethnic, or gender prejudice; and
 
-&emsp;&emsp;(B) if such underrepresentation exists, whether it inhibits or interferes with theparticipation of socially disadvantaged producers in programs of the Department of Agriculture.
+&emsp;&emsp;(B) if such underrepresentation exists, whether it inhibits or interferes with the participation of socially disadvantaged producers in programs of the Department of Agriculture.
 
 #### (2) Submission of report
 
@@ -32,7 +32,7 @@ For purposes of this section, the term "socially disadvantaged producer" means a
 
 #### References in Text
 
-The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended. Title V of the Act, which was classified generally to subchapter IV (§1461 et seq.) of chapter 35A of this title, was omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051. Title V of the Act, which was classified generally to subchapter IV (§1461 et seq.) of chapter 35A of this title, was omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (b), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (b), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 

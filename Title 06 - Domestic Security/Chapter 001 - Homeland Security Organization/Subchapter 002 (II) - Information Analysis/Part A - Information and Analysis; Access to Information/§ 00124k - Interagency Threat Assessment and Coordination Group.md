@@ -90,7 +90,7 @@ The Secretary, in consultation with the Director of National Intelligence, the A
 
 #### (2) Management
 
-&emsp;Pursuant to section 3056(f)(E) <sup>1</sup> of title 50, the Director of the National Counterterrorism Center, acting through the senior intelligence official from the Department of Homeland Security detailed pursuant to subsection (d)(6),<sup>2</sup> shall ensure that—
+&emsp;Pursuant to section 3056(f)(E) <sup>1</sup> of title 50, the Director of the National Counterterrorism Center, acting through the senior intelligenceofficial from the Department of Homeland Security detailed pursuant to subsection (d)(6),<sup>2</sup> shall ensure that—
 
 &emsp;&emsp;(A) the products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, prepared by the National Counterterrorism Center and the ITACG Detail for distribution to State, local, and tribal homeland security and law enforcement agencies reflect the requirements of such agencies and are produced consistently with the policies, processes, procedures, standards, and guidelines established by the ITACG Advisory Council;
 
@@ -102,15 +102,15 @@ The Secretary, in consultation with the Director of National Intelligence, the A
 
 &emsp;&emsp;(E) all detailees under subsection (d)(5) <sup>2</sup> complete appropriate privacy and civil liberties training.
 
-#### (g) Inapplicability of the Federal Advisory Committee Act
+#### (g) Inapplicability of chapter 10 of title 5
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the ITACG or any subsidiary groups thereof.
+Chapter 10 of title 5 shall not apply to the ITACG or any subsidiary groups thereof.
 
 #### (h) Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary for each of fiscal years 2008 through 2012 to carry out this section, including to obtain security clearances for the State, local, and tribal participants in the ITACG.
 
-(Pub. L. 107–296, title II, §210D, as added Pub. L. 110–53, title V, §521(a), Aug. 3, 2007, 121 Stat. 328; amended Pub. L. 111–258, §5(b)(2), (c), Oct. 7, 2010, 124 Stat. 2650, 2651; Pub. L. 116–92, div. E, title LXVII, §6726(b), Dec. 20, 2019, 133 Stat. 2236.)
+(Pub. L. 107–296, title II, §210D, as added Pub. L. 110–53, title V, §521(a), Aug. 3, 2007, 121 Stat. 328; amended Pub. L. 111–258, §5(b)(2), (c), Oct. 7, 2010, 124 Stat. 2650, 2651; Pub. L. 116–92, div. E, title LXVII, §6726(b), Dec. 20, 2019, 133 Stat. 2236; Pub. L. 117–286, §4(a)(12), Dec. 27, 2022, 136 Stat. 4306.)
 
 #### <b>Editorial Notes</b>
 
@@ -118,9 +118,9 @@ There are authorized to be appropriated such sums as may be necessary for each o
 
 Subsection (d)(5) and (6), referred to in subsec. (f)(2), was redesignated subsec. (c)(5) and (6), respectively, by Pub. L. 116–92, div. E, title LXVII, §6726(b)(2), Dec. 20, 2019, 133 Stat. 2236.
 
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (g). Pub. L. 117–286, which directed amendment of subsec. (h) by substituting "chapter 10 of title 5" for "the Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text, was executed by making the substitutions in subsec. (g) to reflect the probable intent of Congress and the prior amendment by Pub. L. 116–92. See 2019 Amendment below.
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–92, §6726(b)(1), (2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to responsibilities of program manager.
 

@@ -40,7 +40,7 @@ Crossing.—The term "crossing" means a location within a State, other than a lo
 
 State.—The term "State" means a State of the United States, the District of Columbia, or the Commonwealth of Puerto Rico.
 
-(Added Pub. L. 110–432, div. A, title II, §204(a), Oct. 16, 2008, 122 Stat. 4869; amended Pub. L.114–94, div. A, title XI, §11316(g), Dec. 4, 2015, 129 Stat. 1676.)
+(Added Pub. L. 110–432, div. A, title II, §204(a), Oct. 16, 2008, 122 Stat. 4869; amended Pub. L. 114–94, div. A, title XI, §11316(g), Dec. 4, 2015, 129 Stat. 1676.)
 
 #### <b>Editorial Notes</b>
 

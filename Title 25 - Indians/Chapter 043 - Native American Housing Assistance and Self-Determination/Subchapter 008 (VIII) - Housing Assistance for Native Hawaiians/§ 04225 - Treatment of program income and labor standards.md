@@ -28,7 +28,7 @@
 
 &emsp;Any contract or agreement for assistance, sale, or lease pursuant to this subchapter shall contain—
 
-&emsp;&emsp;(A) a provision requiring that an amount not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, technicians employed in the development and all maintenance, and laborers and mechanics employed in the operation, of the affordable housing project involved; and
+&emsp;&emsp;(A) a provision requiring that an amount not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State orlocal law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, technicians employed in the development and all maintenance, and laborers and mechanics employed in the operation, of the affordable housing project involved; and
 
 &emsp;&emsp;(B) a provision that an amount not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40 shall be paid to all laborers and mechanics employed in the development of the affordable housing involved.
 

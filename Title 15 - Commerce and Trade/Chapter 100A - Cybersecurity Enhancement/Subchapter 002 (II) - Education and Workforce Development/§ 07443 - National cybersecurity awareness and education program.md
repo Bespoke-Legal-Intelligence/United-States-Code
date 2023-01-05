@@ -30,7 +30,7 @@ The Director of the National Institute of Standards and Technology (referred to 
 
 #### (b) Considerations
 
-In carrying out the authority described in subsection (a), the Director, in consultation withappropriate Federal agencies, shall leverage existing programs designed to inform the public of safety and security of products or services, including self-certifications and independently verified assessments regarding the quantification and valuation of information security risk.
+In carrying out the authority described in subsection (a), the Director, in consultation with appropriate Federal agencies, shall leverage existing programs designed to inform the public of safety and security of products or services, including self-certifications and independently verified assessments regarding the quantification and valuation of information security risk.
 
 #### (c) Strategic plan
 
@@ -128,7 +128,7 @@ In carrying out subsection (a), the Director of the Office of Management and Bud
 
 &emsp;&emsp;&emsp;(ii) The metrics used by the regional alliance or partnership to measure the success of the efforts of the regional alliance or partnership under the cooperative agreement.
 
-(Pub. L. 113–274, title III, §303, formerly title IV, §401, Dec. 18, 2014, 128 Stat. 2985; renumbered title III, §303, and amended Pub. L. 116–283, div. H, title XCIV, §9401(a), (b), (e)–(g)(1), Jan. 1, 2021, 134 Stat. 4805–4807, 4809.)
+(Pub. L. 113–274, title III, §303, formerly title IV, §401, Dec. 18, 2014, 128 Stat. 2985; renumberedtitle III, §303, and amended Pub. L. 116–283, div. H, title XCIV, §9401(a), (b), (e)–(g)(1), Jan. 1, 2021, 134 Stat. 4805–4807, 4809.)
 
 #### <b>Editorial Notes</b>
 

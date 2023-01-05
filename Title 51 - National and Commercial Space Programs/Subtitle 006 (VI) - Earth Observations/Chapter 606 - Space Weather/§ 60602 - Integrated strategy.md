@@ -28,7 +28,7 @@ Review of Integrated Strategy.—
 
 &emsp;(1)
 
-Review.—The Administrator of the National Aeronautics and Space Administration and the Administrator of the National Oceanic and Atmospheric Administration, in consultation with Federal agencies participating in the interagency working group, shall enter into an agreement with the National Academies of Sciences, Engineering, and Medicine to review the integrated strategy developed in this section.
+Review.—The Administrator of the National Aeronautics and Space Administration and the Administrator of the National Oceanic and Atmospheric Administration, in consultation with Federal agencies participating in the interagency working group, shall enter into anagreement with the National Academies of Sciences, Engineering, and Medicine to review the integrated strategy developed in this section.
 
 &emsp;(2)
 

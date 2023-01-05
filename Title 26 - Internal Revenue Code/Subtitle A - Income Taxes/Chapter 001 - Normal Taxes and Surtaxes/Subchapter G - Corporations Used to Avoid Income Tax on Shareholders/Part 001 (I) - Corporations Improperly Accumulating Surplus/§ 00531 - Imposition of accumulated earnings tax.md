@@ -44,5 +44,5 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1001(a)(2)(B), Nov. 10, 1988, 102 Stat. 3349, provided that: "The amendment made bysubparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987. Such amendment shall not be treated as a change in a rate of tax for purposes of section 15 of the 1986 Code."
+Pub. L. 100–647, title I, §1001(a)(2)(B), Nov. 10, 1988, 102 Stat. 3349, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987. Such amendment shall not be treated as a change in a rate of tax for purposes of section 15 of the 1986 Code."
 

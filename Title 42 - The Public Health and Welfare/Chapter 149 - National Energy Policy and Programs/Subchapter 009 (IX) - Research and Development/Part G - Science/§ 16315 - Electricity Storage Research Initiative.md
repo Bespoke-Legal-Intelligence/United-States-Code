@@ -10,17 +10,21 @@
 
 &emsp;&emsp;&emsp;(i) electrical energy to chemical energy; and
 
-&emsp;&emsp;&emsp;(ii) chemical energy to electrical energy; and
+&emsp;&emsp;&emsp;(ii) chemical energy to electrical energy;
 
-&emsp;&emsp;(B) to support scientific inquiry into the practical understanding of chemical and physical processes that occur within systems involving crystalline and amorphous solids, polymers, and organic and aqueous liquids.
+&emsp;&emsp;(B) to support scientific inquiry into the practical understanding of chemical and physical processes that occur within systems involving crystalline and amorphous solids, polymers, and organic and aqueous liquids; and
+
+&emsp;&emsp;(C) to ensure the competitiveness of the United States in energy storage by fostering an ecosystem linking fundamental research and development to deployment of storage solutions while minimizing the environmental impacts of energy storage technologies.
 
 #### (2) Leveraging
 
 &emsp;In carrying out programs and activities under the Initiative, the Secretary shall leverage expertise and resources from—
 
-&emsp;&emsp;(A) the Basic Energy Sciences Program, the Advanced Scientific Computing Research Program, and the Biological and Environmental Research Program of the Office of Science; and
+&emsp;&emsp;(A) the Basic Energy Sciences Program, the Advanced Scientific Computing Research Program, and the Biological and Environmental Research Program of the Office of Science;
 
-&emsp;&emsp;(B) the Office of Energy Efficiency and Renewable Energy.
+&emsp;&emsp;(B) the Office of Energy Efficiency and Renewable Energy; and
+
+&emsp;&emsp;(C) any other relevant office of the Department.
 
 #### (3) Teams
 
@@ -38,7 +42,7 @@
 
 #### (4) Additional activities
 
-&emsp;The Secretary may organize additional activities under this subsection through Energy Frontier Research Centers, Energy Innovation Hubs, or other organizational structures.
+&emsp;The Secretary may organize additional activities under this subsection through EnergyFrontier Research Centers, Energy Innovation Hubs, or other organizational structures.
 
 #### (b) Multivalent systems
 
@@ -58,9 +62,9 @@
 
 &emsp;The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
 
-#### (4) Prohibition
+#### (4) Funding
 
-&emsp;No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+&emsp;Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under this subsection $50,000,000 for each of fiscal years 2023 through 2027.
 
 #### (c) Electrochemistry modeling and simulation
 
@@ -78,11 +82,11 @@
 
 #### (3) Standard of review
 
-&emsp;The Secretary shall review activities carried out under the program described in paragraph\(1) to determine the achievement of technical milestones.
+&emsp;The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
 
-#### (4) Prohibition
+#### (4) Funding
 
-&emsp;No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+&emsp;Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under this subsection $50,000,000 for each of fiscal years 2023 through 2027.
 
 #### (d) Mesoscale electrochemistry
 
@@ -106,15 +110,25 @@
 
 &emsp;The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
 
-#### (4) Prohibition
+#### (4) Funding
 
-&emsp;No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+&emsp;Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under this subsection $20,000,000 for each of fiscal years 2023 through 2027.
 
-(Pub. L. 109–58, title IX, §975, Aug. 8, 2005, 119 Stat. 903; Pub. L. 115–246, title III, §303(e)(1), Sept. 28, 2018, 132 Stat. 3143.)
+(Pub. L. 109–58, title IX, §975, Aug. 8, 2005, 119 Stat. 903; Pub. L. 115–246, title III, §303(g)(1), formerly §303(e)(1), Sept. 28, 2018, 132 Stat. 3143, renumbered §303(g)(1), Pub. L. 117–167, div. B, title I, §10102(a)(1), Aug. 9, 2022, 136 Stat. 1409; Pub. L. 117–167, div. B, title I, §10102(c), Aug. 9, 2022, 136 Stat. 1415.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(C). Pub. L. 117–167, §10102(c)(1)(A), added subpar. (C).
+
+Subsec. (a)(2)(C). Pub. L. 117–167, §10102(c)(1)(B), added subpar. (C).
+
+Subsec. (b)(4). Pub. L. 117–167, §10102(c)(2), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology."
+
+Subsec. (c)(4). Pub. L. 117–167, §10102(c)(3), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology."
+
+Subsec. (d)(4). Pub. L. 117–167, §10102(c)(4), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology."
 
 <b>2018</b>—Pub. L. 115–246 amended section generally. Prior to amendment, text read as follows: "The Secretary shall conduct a program of fundamental research on solid state lighting in support of the Next Generation Lighting Initiative carried out under section 16192 of this title."
 

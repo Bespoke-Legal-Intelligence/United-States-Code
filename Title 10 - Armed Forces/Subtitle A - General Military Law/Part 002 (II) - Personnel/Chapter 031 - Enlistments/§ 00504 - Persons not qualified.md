@@ -28,7 +28,7 @@ Citizenship or Residency.—(1) A person may be enlisted in any armed force only
 
 (3)(A) No person who enlists under paragraph (2) may report to initial training until after the Secretary concerned has completed all required background investigations and security and suitability screening as determined by the Secretary of Defense regarding that person.
 
-(B) A Secretary concerned may not authorize more than 1,000 enlistments under paragraph (2) per military department in a calendar year until after—
+(B) A Secretary concerned may not authorize more than 1,000 enlistments under paragraph (2)per military department in a calendar year until after—
 
 &emsp;(i) the Secretary of Defense submits to Congress written notice of the intent of that Secretary concerned to authorize more than 1,000 such enlistments in a calendar year; and
 

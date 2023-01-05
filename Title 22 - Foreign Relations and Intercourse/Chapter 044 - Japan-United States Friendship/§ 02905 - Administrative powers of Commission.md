@@ -30,7 +30,7 @@ In order to carry out its functions under this chapter, the Commission is author
 
 #### Amendments
 
-<b>1998</b>—Par. (4). Pub. L. 105–277 substituted "needed" for "needed, except that any amounts expended from amounts appropriated to the Fund under section 2902(e)(1) of this title shall be expended in Japan or for not more than 50 percent of administrative expenses in the United States".
+<b>1998</b>—Par. (4). Pub. L. 105–277 substituted "needed" for "needed, except that any amounts expended fromamounts appropriated to the Fund under section 2902(e)(1) of this title shall be expended in Japan or for not more than 50 percent of administrative expenses in the United States".
 
 <b>1991</b>—Par. (4). Pub. L. 102–138 inserted "or for not more than 50 percent of administrative expenses in the United States" after "Japan".
 

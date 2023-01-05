@@ -32,7 +32,7 @@ Gifts.—In the performance of its functions, the Administration is authorized t
 
 (e)
 
-Contracts, Leases, and Agreements.—In the performance of its functions, the Administration is authorized, without regard to subsections (a) and (b) of section 3324 of title 31, to enter into and perform such contracts, leases,cooperative agreements, or other transactions as may be necessary in the conduct of its work and on such terms as it may deem appropriate, with any agency or instrumentality of the United States, or with any State, territory, or possession, or with any political subdivision thereof, or with any person, firm, association, corporation, or educational institution. To the maximum extent practicable and consistent with the accomplishment of the purpose of this chapter, such contracts, leases, agreements, and other transactions shall be allocated by the Administrator in a manner which will enable small-business concerns to participate equitably and proportionately in the conduct of the work of the Administration.
+Contracts, Leases, and Agreements.—In the performance of its functions, the Administration is authorized, without regard to subsections (a) and (b) of section 3324 of title 31, to enter into and perform such contracts, leases, cooperative agreements, or other transactions as may be necessary in the conduct of its work and on such terms as it may deem appropriate, with any agency or instrumentality of the United States, or with any State, territory, or possession, or with any political subdivision thereof, or with any person, firm, association, corporation, or educational institution. To the maximum extent practicable and consistent with the accomplishment of the purpose of this chapter, such contracts, leases, agreements, and other transactions shall be allocated by the Administrator in a manner which will enable small-business concerns to participate equitably and proportionately in the conduct of the work of the Administration.
 
 (f)
 
@@ -86,7 +86,7 @@ Detailing Members of Armed Forces.—In the performance of its functions, the Ad
 
 Claims Against the United States.—In the performance of its functions, the Administration is authorized—
 
-&emsp;(1) to consider, ascertain, adjust, determine, settle, and pay, on behalf of the United States, in full satisfaction thereof, any claim for$25,000 or less against the United States for bodily injury, death, or damage to or loss of real or personal property resulting from the conduct of the Administration's functions as specified in section 20112(a) of this title, where such claim is presented to the Administration in writing within 2 years after the accident or incident out of which the claim arises; and
+&emsp;(1) to consider, ascertain, adjust, determine, settle, and pay, on behalf of the United States, in full satisfaction thereof, any claim for $25,000 or less against the United States for bodily injury, death, or damage to or loss of real or personal property resulting from the conduct of the Administration's functions as specified in section 20112(a) of this title, where such claim is presented to the Administration in writing within 2 years after the accident or incident out of which the claim arises; and
 
 &emsp;(2) if the Administration considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this subsection, to report the facts and circumstances to Congress for its consideration.
 
@@ -147,6 +147,160 @@ Pub. L. 115–10, §835(d)(1), inserted "and Congress" after "advice to the Admi
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–10, title VIII, §835(d)(2), Mar. 21, 2017, 131 Stat. 69, provided that the amendment by section 835(d)(2) is effective Sept. 30, 2017.
+
+#### Office of STEM Engagement
+
+Pub. L. 117–167, div. B, title VII, §10851(a)–(d), Aug. 9, 2022, 136 Stat. 1753, 1754, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that NASA \[National Aeronautics and Space Administration\]'s inspiring mission, specialized facilities, skilled engineering and scientific workforce, and research activities present unique opportunities for inspiring public engagement in STEM and increasing the number of students pursuing STEM degrees and careers.
+
+"(b)
+
+Establishment.—The Administrator \[of the National Aeronautics and Space Administration\] shall establish an Office of STEM Engagement (referred to in this section as the 'Office') for the purpose of advancing progress toward the STEM education goals of the United States by enhancing STEM literacy, increasing diversity, equity, and inclusion in STEM, and preparing the STEM workforce for the future.
+
+"(c)
+
+Responsibilities.—The Office established shall be responsible for coordinating efforts and activities among organizations across the \[National Aeronautics and Space\] Administration, including NASA headquarters, mission directorates, and NASA centers, designed—
+
+&emsp;"(1) to create unique opportunities for students and the public to learn from and contribute to the work of NASA in exploration and discovery;
+
+&emsp;"(2) to contribute to the growth of a diverse STEM workforce; and
+
+&emsp;"(3) to strengthen public understanding of science by enabling connections to the mission and work of NASA.
+
+"(d)
+
+Portfolio.—The Office shall coordinate and administer—
+
+&emsp;"(1) the National Space Grant College and Fellowship Program under chapter 403 of title 51 United States Code;
+
+&emsp;"(2) the Established Program to Stimulate Competitive Research under section 40903 of title 51 United States Code;
+
+&emsp;"(3) the Minority University Research and Education Project;
+
+&emsp;"(4) the NextGen STEM Project; and
+
+&emsp;"(5) any other program or activity the Administrator considers appropriate."
+
+\[For definition of "STEM" as used in section 10851(a)–(d) of Pub. L. 117–167, set out above, see section 18901 of Title 42, The Public Health and Welfare.\]
+
+#### Program, Workforce, and Industrial Base Reviews
+
+Pub. L. 117–167, div. B, title VII, §10861, Aug. 9, 2022, 136 Stat. 1754, provided that:
+
+"(a)
+
+Report on Industrial Base for Civil Space Missions and Operations.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of the enactment of this Act \[Aug. 9, 2022\], and from time to time thereafter, the Administrator \[of the National Aeronautics and Space Administration\] shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives\] a report on the United States industrial base for NASA \[National Aeronautics and Space Administration\] civil space missions and operations.
+
+&emsp;"(2)
+
+Elements.—The report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A comprehensive description of the current status of the United States industrial base for NASA civil space missions and operations.
+
+&emsp;&emsp;"(B) A description and assessment of the weaknesses in the supply chain, skills, manufacturing capacity, raw materials, key components, and other areas of the United States industrial base for NASA civil space missions and operations that could adversely impact such missions and operations if unavailable.
+
+&emsp;&emsp;"(C) A description and assessment of various mechanisms to address and mitigate the weaknesses described pursuant to subparagraph (B).
+
+&emsp;&emsp;"(D) A comprehensive list of the collaborative efforts, including future and proposed collaborative efforts, between NASA and the Manufacturing USA institutes of the Department of Commerce.
+
+&emsp;&emsp;"(E) An assessment of—
+
+&emsp;&emsp;&emsp;"(i) the defense and aerospace manufacturing supply chains relevant to NASA in each region of the United States; and
+
+&emsp;&emsp;&emsp;"(ii) the feasibility and benefits of establishing a supply chain center of excellence in a State in which NASA does not, as of the date of the enactment of this Act, have a research center or test facility.
+
+&emsp;&emsp;"(F) Such other matters relating to the United States industrial base for NASA civil space missions and operations as the Administrator considers appropriate.
+
+"(b)
+
+Workforce and Modeling and Test Facilities.—
+
+&emsp;"(1)
+
+Review.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Administrator shall enter into an arrangement with the National Academies of Sciences, Engineering, and Medicine to carry out a comprehensive review of the workforce, skills-base, and modeling and test facilities of the \[National Aeronautics and Space\] Administration.
+
+&emsp;&emsp;"(B)
+
+Elements.—The review conducted under subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) A consideration of the use of emerging technologies in relevant engineering and science disciplines and the skills needed to apply such capabilities to Administration missions across all mission directorates.
+
+&emsp;&emsp;&emsp;"(ii) Prioritized recommendations on actions needed to align the Administration's workforce with research objectives and strategic goals and on the improvements and additions to modeling capabilities and test facilities needed to meet the Administration's strategic goals and objectives.
+
+&emsp;&emsp;"(C)
+
+Report.—Not later than 18 months after the date of the enactment of this Act, the Administrator shall submit to the appropriate committees of Congress report on the results of the review conducted under subparagraph (A).
+
+&emsp;"(2)
+
+Implementation plan.—Not later than 120 days after the date on which the review under paragraph (1) is completed, the Administrator shall submit to the appropriate committees of Congress a plan for implementing the recommendations contained the review.
+
+&emsp;"(3)
+
+Report on nasa infrastructure, workforce skills and capabilities.—
+
+&emsp;&emsp;"(A)
+
+Policy and procedure.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The Administrator shall develop an Administration policy and procedure for assessment, not less frequently than every 5 years, of the strategic capabilities of the Administration, including infrastructure and facilities, and workforce skills and capabilities.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Elements.—The policy and procedure developed under clause (i) shall include acquiring data and support for Administration decisions and recommendations on strategic capabilities, including on infrastructure and facilities, and workforce skills and capabilities needed to support the goals and objectives of the Administration through 2040.
+
+&emsp;&emsp;"(B)
+
+Report.—Not later than 1 year after the date of the enactment of this Act, the Administrator shall submit the policy and procedure developed under subparagraph (A) to the appropriate committees of Congress.
+
+&emsp;"(4)
+
+Independent program analysis and evaluation office.—
+
+&emsp;&emsp;"(A)
+
+Establishment.—The Administrator shall establish within NASA an Independent Program Analysis and Evaluation Office (referred to in this paragraph as the 'Office') for purposes of independently assessing program performance, making programmatic, technical risk mitigation and institutional recommendations, performing cost estimates and analyses, and conducting strategic planning activities, among other functions.
+
+&emsp;&emsp;"(B)
+
+Independence.—The Office shall remain independent of any program, and shall have no programmatic responsibilities, so as to maintain its independent assessment integrity.
+
+&emsp;&emsp;"(C)
+
+Activities authorized.—In conducting the functions of the Office, the Administrator may carry out—
+
+&emsp;&emsp;&emsp;"(i) research on program assessment;
+
+&emsp;&emsp;&emsp;"(ii) cost, schedule, and technical estimation; and
+
+&emsp;&emsp;&emsp;"(iii) other relevant activities for the purposes of obtaining the highest level of expertise and the most effective decision-making tools with which to inform the Administrator.
+
+&emsp;&emsp;"(D)
+
+Moon to mars activities.—The Office shall maintain an ongoing, focused effort to assess the goals, objectives, requirements, architectural approach, cost and schedule, and progress of the Administration's Moon to Mars activities.
+
+&emsp;"(5)
+
+International space station.—Not later than 1 year after the date of the enactment of this Act, the Administrator shall submit to the appropriate committees of Congress the results of an independent estimate by the Office of the cost of continuing International Space Station operations through September 30, 2030, including—
+
+&emsp;&emsp;"(A) crew and cargo transportation, research to be undertaken reflecting the priorities described in section 10816 \[51 U.S.C. 70901 note\], and maintenance costs; and
+
+&emsp;&emsp;"(B) opportunities for operational efficiencies that could result in cost savings and increased research productivity and the amount of those potential savings and productivity increases."
+
+\[For definition of "Manufacturing USA institute" as used in section 10861 of Pub. L. 117–167, set out above, see section 18901 of Title 42, The Public Health and Welfare.\]
 
 #### Collaboration
 

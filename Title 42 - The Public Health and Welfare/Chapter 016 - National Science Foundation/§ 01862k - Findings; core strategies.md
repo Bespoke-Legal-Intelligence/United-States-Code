@@ -112,7 +112,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Educationally useful federal equipment.—The term 'educationally useful Federal equipment'means computers and related peripheral tools and research equipment that is appropriate for use in schools.
+Educationally useful federal equipment.—The term 'educationally useful Federal equipment' means computers and related peripheral tools and research equipment that is appropriate for use in schools.
 
 &emsp;"(2)
 

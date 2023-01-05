@@ -40,7 +40,7 @@ In connection with any project undertaken pursuant to this subchapter, provision
 
 #### References in Text
 
-The Rural Electrification Act of 1936, referred to in subsec. (a), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (a), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
 #### Amendments
 

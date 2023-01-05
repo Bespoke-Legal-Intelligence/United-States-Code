@@ -167,9 +167,9 @@ Pub. L. 90–206, title IV, §405(c), Dec. 16, 1967, 81 Stat. 648, provided that
 
 #### 1967 Adjustment in Amount of Insurance
 
-Pub. L. 90–206, title II, §220(b), Dec. 16, 1967, 81 Stat. 639, provided that: "For the purposes of determiningthe amount of insurance for which an individual is eligible chapter 87 of title 5, United States Code, relating to group life insurance for Federal employees—
+Pub. L. 90–206, title II, §220(b), Dec. 16, 1967, 81 Stat. 639, provided that: "For the purposes of determining the amount of insurance for which an individual is eligible chapter 87 of title 5, United States Code, relating to group life insurance for Federal employees—
 
-&emsp;"(1) all changes in rates of pay which result from the enactment of this title \[see Short Title Note under section 5332 of this title\] except Postal Field Service Schedule II, Rural Carrier Schedule II, and sections 207, 212, 213(d) and (e), 215, 219, and 225) shall be held and considered to become effective as of the date of such enactment \[Dec. 16, 1967\]; and
+&emsp;"(1) all changes in rates of pay which result from the enactment of this title \[see Short Title Noteunder section 5332 of this title\] except Postal Field Service Schedule II, Rural Carrier Schedule II, and sections 207, 212, 213(d) and (e), 215, 219, and 225) shall be held and considered to become effective as of the date of such enactment \[Dec. 16, 1967\]; and
 
 &emsp;"(2) all changes in rates of pay which result from the enactment of section 212 of this title \[enacting provisions set out as a note under section 5303 of this title\] and which take effect retroactively from the date on which the adjustments thereof are actually ordered under such section, shall be held and considered to become effective on the date on which such adjustments are actually ordered."
 

@@ -2,7 +2,7 @@
 
 The purposes of this chapter are, through trade agreements affording mutual benefits—
 
-&emsp;(1) to foster the economic growth of and full employment in the United States and to strengthen economic relations between the United States and foreign countries through open and nondiscriminatory world trade;
+&emsp;(1) to foster the economic growth of and full employment in the United States and tostrengthen economic relations between the United States and foreign countries through open and nondiscriminatory world trade;
 
 &emsp;(2) to harmonize, reduce, and eliminate barriers to trade on a basis which assures substantially equivalent competitive opportunities for the commerce of the United States;
 
@@ -20,7 +20,7 @@ The purposes of this chapter are, through trade agreements affording mutual bene
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

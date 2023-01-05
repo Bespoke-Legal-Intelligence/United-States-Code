@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Attorney General shall use available data from State and local authorities as well as research data to carry out a biennial comprehensive research and statistical review and analysis of severe forms of trafficking in persons, and a biennial comprehensive research and statistical review and analysis of sex trafficking and unlawful commercial sex acts in the United States, and shall submit to Congress separate biennial reports on the findings.
+&emsp;&emsp;The Attorney General shall use available data from State and local authorities as well as research data to carry out a biennial comprehensive research and statistical review and analysis of severe forms of trafficking inpersons, and a biennial comprehensive research and statistical review and analysis of sex trafficking and unlawful commercial sex acts in the United States, and shall submit to Congress separate biennial reports on the findings.
 
 #### (B) Contents
 
@@ -142,7 +142,7 @@ Sec. 2. <i>Strengthening Federal Responsiveness to Human Trafficking</i>. (a) Th
 
 Sec. 3. <i>Prosecuting Human Traffickers and Individuals Who Exploit Children Online</i>. (a) The Attorney General, through the Federal Enforcement Working Group, in collaboration with the Secretary of Labor and the Secretary of Homeland Security, shall:
 
-(i) improve interagency coordination with respect to targeting traffickers, determining threat assessments, and sharing law enforcement intelligence to build on the Administration's commitment to the continued success of ongoing anti-trafficking enforcement initiatives, such as the Anti-Trafficking Coordination Team and the U.S.-Mexico Bilateral Human Trafficking Enforcement Initiatives; and
+(i) improve interagency coordination with respect to targeting traffickers, determining threat assessments,and sharing law enforcement intelligence to build on the Administration's commitment to the continued success of ongoing anti-trafficking enforcement initiatives, such as the Anti-Trafficking Coordination Team and the U.S.-Mexico Bilateral Human Trafficking Enforcement Initiatives; and
 
 (ii) coordinate activities, as appropriate, with the Task Force on Missing and Murdered American Indians and Alaska Natives as established by Executive Order 13898 of November 26, 2019 (Establishing the Task Force on Missing and Murdered American Indians and Alaska Natives) \[25 U.S.C. 2801 note\].
 

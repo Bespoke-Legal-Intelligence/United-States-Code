@@ -42,7 +42,7 @@ Travel to primary office.—
 
 &emsp;&emsp;(A)
 
-In general.—After 1 year of service under this chapter, an independent counsel and persons appointed under subsection (c) shall not be entitled to the payment of travel, per diem, or subsistence expenses under subchapter I of chapter 57 of title 5, United States Code, for the purpose of commuting to or from the city in which the primary office of the independent counsel or person is located. The 1-year period may be extended for successive 6-month periods if the independent counsel and the division of the court certify that the payment is in the public interest to carry out the purposes of this chapter.
+In general.—After 1 year of service under this chapter, an independent counsel and persons appointed under subsection (c) shall not be entitled to the payment of travel, per diem, or subsistence expenses under subchapter I of chapter 57 of title 5, United States Code, for the purpose of commuting to or from the city in which the primary office of the independent counsel or person is located. The 1-year period may be extendedfor successive 6-month periods if the independent counsel and the division of the court certify that the payment is in the public interest to carry out the purposes of this chapter.
 
 &emsp;&emsp;(B)
 
@@ -58,7 +58,7 @@ Relevant factors.—In making any certification under this paragraph with respec
 
 (c)
 
-Additional Personnel.—For the purposes of carrying out the duties of an office of independent counsel, such independent counsel may appoint, fix the compensation, and assign the duties of such employees as such independent counsel considers necessary (including investigators, attorneys, and part-time consultants).The positions of all such employees are exempted from the competitive service. Such employees shall be compensated at levels not to exceed those payable for comparable positions in the Office of United States Attorney for the District of Columbia under sections 548 and 550, but in no event shall any such employee be compensated at a rate greater than the rate of basic pay payable for level ES–4 of the Senior Executive Service Schedule under section 5382 of title 5, as adjusted for the District of Columbia under section 5304 of that title regardless of the locality in which an employee is employed.
+Additional Personnel.—For the purposes of carrying out the duties of an office of independent counsel, such independent counsel may appoint, fix the compensation, and assign the duties of such employees as such independent counsel considers necessary (including investigators, attorneys, and part-time consultants). The positions of all such employees are exempted from the competitive service. Such employees shall be compensated at levels not to exceed those payable for comparable positions in the Office of United States Attorney for the District of Columbia under sections 548 and 550, but in no event shall any such employee be compensated at a rate greater than the rate of basic pay payable for level ES–4 of the Senior Executive Service Schedule under section 5382 of title 5, as adjusted for the District of Columbia under section 5304 of that title regardless of the locality in which an employee is employed.
 
 (d)
 
@@ -102,7 +102,7 @@ Required reports.—An independent counsel shall—
 
 &emsp;&emsp;(A) file with the division of the court, with respect to the 6-month period beginning on the date of his or her appointment, and with respect to each 6-month period thereafter until the office of that independent counsel terminates, a report which identifies and explains major expenses, and summarizes all other expenses, incurred by that office during the 6-month period with respect to which the report is filed, and estimates future expenses of that office; and
 
-&emsp;&emsp;(B) before the termination of the independent counsel's office under section 596(b), file a final report with the division of the court, setting forth fully and completely a description of the work of the independent counsel, including the disposition of all cases brought.
+&emsp;&emsp;(B) before the termination of the independent counsel's office under section 596(b),file a final report with the division of the court, setting forth fully and completely a description of the work of the independent counsel, including the disposition of all cases brought.
 
 &emsp;(2)
 
@@ -110,7 +110,7 @@ Disclosure of information in reports.—The division of the court may release to
 
 &emsp;(3)
 
-Publication of reports.—At the request of an independent counsel, the Director of the Government Publishing Office shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Director of the Government Publishing Office shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the publicthrough the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
+Publication of reports.—At the request of an independent counsel, the Director of the Government Publishing Office shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Director of the Government Publishing Office shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the public through the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
 
 (i)
 
@@ -188,7 +188,7 @@ Records provided by congress.—Records of an investigation conducted by a commi
 
 &emsp;&emsp;(A) shall be maintained as a separate body of records within the records of the independent counsel; and
 
-&emsp;&emsp;(B) shall, after the records have been transferred to the Archivist under this chapter, be made available, except as provided in paragraph (3)(B) and (C), in accordance with the rules governing release of the records ofthe House of Congress that provided the records to the independent counsel.
+&emsp;&emsp;(B) shall, after the records have been transferred to the Archivist under this chapter, be made available, except as provided in paragraph (3)(B) and (C), in accordance with the rules governing release of the records of the House of Congress that provided the records to the independent counsel.
 
 > &emsp;Subparagraph (B) shall not apply to those records which have been surrendered pursuant to grand jury or court proceedings.
 
@@ -270,7 +270,7 @@ Subsec. (a)(10). Pub. L. 97–409, §6(a), added par. (10).
 
 Subsecs. (b), (c). Pub. L. 97–409, §2(a)(1)(A), substituted "independent counsel" for "special prosecutor" wherever appearing.
 
-Subsecs. (d), (e). Pub. L. 97–409, §2(a)(1), substituted "independent counsel" for "special prosecutor" and"independent counsel's" for "special prosecutor's" wherever appearing.
+Subsecs. (d), (e). Pub. L. 97–409, §2(a)(1), substituted "independent counsel" for "special prosecutor" and "independent counsel's" for "special prosecutor's" wherever appearing.
 
 Subsec. (f). Pub. L. 97–409, §§2(a)(1)(A), 6(b), substituted "independent counsel" for "special prosecutor", "except where not possible" for "to the extent that such special prosecutor deems appropriate", and "written or other established policies" for "written policies".
 

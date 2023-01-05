@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Hazard tree
 
-&emsp;The term "hazard tree" means any tree or part thereof (whether located inside or outside a right-of-way) that has been designated, prior to tree failure, by a certified or licensed arborist or forester under the supervision ofthe Secretary concerned or the owner or operator of a transmission or distribution facility to be—
+&emsp;The term "hazard tree" means any tree or part thereof (whether located inside or outside a right-of-way) that has been designated, prior to tree failure, by a certified or licensed arborist or forester under the supervision of the Secretary concerned or the owner or operator of a transmission or distribution facility to be—
 
 &emsp;&emsp;(A) dead, likely to die within the routine vegetation management cycle, or likely to fail within the routine vegetation management cycle; and
 
@@ -272,7 +272,7 @@ Exclusions.—The term 'National Forest System land' does not include—
 
 &emsp;&emsp;&emsp;"(i) a National Grassland; or
 
-&emsp;&emsp;&emsp;"(ii) a land utilization project on land designated as a National Grassland and administeredpursuant to sections 31, 32, and 33 of the Bankhead-Jones Farm Tenant Act (7 U.S.C. 1010, 1011, 1012).
+&emsp;&emsp;&emsp;"(ii) a land utilization project on land designated as a National Grassland and administered pursuant to sections 31, 32, and 33 of the Bankhead-Jones Farm Tenant Act (7 U.S.C. 1010, 1011, 1012).
 
 &emsp;"(2)
 

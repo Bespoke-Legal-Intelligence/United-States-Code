@@ -14,7 +14,7 @@
 
 (e) Any lawful contract between a rail carrier and one or more purchasers of rail service that was in effect on October 1, 1980, shall be considered a contract authorized by this section.
 
-(f) A rail carrier that enters into a contract as authorized by this section remains subject to the common carrier obligation set forth in section 11101, with respect to rail transportation not provided under such a contract.
+(f) A rail carrier that enters into a contract as authorized by this section remains subject tothe common carrier obligation set forth in section 11101, with respect to rail transportation not provided under such a contract.
 
 (g)(1) No later than 30 days after the date of filing of a summary of a contract under this section, the Board may, on complaint, begin a proceeding to review such contract on the grounds described in this subsection.
 

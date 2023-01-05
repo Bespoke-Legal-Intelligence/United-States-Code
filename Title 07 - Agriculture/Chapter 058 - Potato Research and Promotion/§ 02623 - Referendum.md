@@ -36,5 +36,5 @@ Subsec. (d). Pub. L. 101–624, §1944(4), inserted ", or any importer or the v
 
 #### Construction of 1982 Referendum on Amendments to Plan
 
-Pub. L. 98–171, §2(b), Nov. 29, 1983, 97 Stat. 1118, provided that: "The failure of potato producers in December 1982 to approve amendments to the plan issued under this title \[probably means title III of Pub. L. 91–670 which is classified to this chapter\] shall not be deemed to invalidate the plan."
+Pub. L. 98–171, §2(b), Nov. 29, 1983, 97 Stat. 1118, provided that: "The failure of potato producers in December 1982 to approve amendments to the plan issuedunder this title \[probably means title III of Pub. L. 91–670 which is classified to this chapter\] shall not be deemed to invalidate the plan."
 

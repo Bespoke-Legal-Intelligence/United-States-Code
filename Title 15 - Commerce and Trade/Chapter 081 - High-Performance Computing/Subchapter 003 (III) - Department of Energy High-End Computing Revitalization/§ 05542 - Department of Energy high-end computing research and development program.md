@@ -36,7 +36,7 @@ The program shall—
 
 #### (2) Administration
 
-&emsp;In carrying out this subsection, the Secretary shall provide to Leadership Systems, on a competitive, merit-reviewed basis, access toresearchers in United States industry, institutions of higher education, national laboratories, and other Federal agencies.
+&emsp;In carrying out this subsection, the Secretary shall provide to Leadership Systems, on a competitive, merit-reviewed basis, access to researchers in United States industry, institutions of higher education, national laboratories, and other Federal agencies.
 
 #### (d) Exascale Computing Program
 
@@ -100,7 +100,7 @@ The program shall—
 
 &emsp;At the time of the budget submission of the Department for each fiscal year, the Secretary, in consultation with the members of the partnerships established pursuant to paragraph (2), shall submit to Congress a report that describes funding for the Program as a whole by functional element of the Department and critical milestones.
 
-(Pub. L. 108–423, §3, Nov. 30, 2004, 118 Stat. 2400; Pub. L. 115–246, title III, §304(a)(3), Sept. 28, 2018, 132 Stat. 3145.)
+(Pub. L. 108–423, §3, Nov. 30, 2004, 118 Stat. 2400; Pub. L. 115–246, title III, §304(b)(3), Sept. 28, 2018, 132 Stat. 3145; Pub. L. 117–167, div. B, title I, §10104(a)(1), Aug. 9, 2022, 136 Stat. 1433.)
 
 #### <b>Editorial Notes</b>
 
@@ -114,9 +114,9 @@ This section was enacted as part of the American Super Computing Leadership Act 
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1). Pub. L. 115–246, §304(a)(3)(A), substituted "coordinated program across the Department" for "program".
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–246, §304(b)(3)(A), as amended by Pub. L. 117–167, §10104(a)(1), substituted "coordinated program across the Department" for "program".
 
-Subsec. (b)(2). Pub. L. 115–246, §304(a)(3)(B), struck out ", which may include vector, reconfigurable logic, streaming, processor-in-memory, and multithreading architectures" before semicolon at end.
+Subsec. (b)(2). Pub. L. 115–246, §304(b)(3)(B), as amended by Pub. L. 117–167, §10104(a)(1), struck out ", which may include vector, reconfigurable logic, streaming, processor-in-memory, and multithreading architectures" before semicolon at end.
 
-Subsec. (d). Pub. L. 115–246, §304(a)(3)(C), added subsec. (d) and struck out former subsec. (d) which related to the establishment of a High-End Software Development Center.
+Subsec. (d). Pub. L. 115–246, §304(b)(3)(C), as amended by Pub. L. 117–167, §10104(a)(1), added subsec. (d) and struck out former subsec. (d) which related to the establishment of a High-End Software Development Center.
 

@@ -14,7 +14,7 @@ Funding Assistance.—The Secretary of Defense may provide funds to the Governor
 
 Use of Personnel Performing Full-Time National Guard Duty.—(1) Under regulations prescribed by the Secretary of Defense, personnel of the National Guard of a State may, in accordance with the State drug interdiction and counter-drug activities plan referred to in subsection (c), be ordered to perform full-time National Guard duty under section 502(f) of this title for the purpose of carrying out drug interdiction and counter-drug activities.
 
-(2)(A) A member of the National Guard serving on full-time National Guard duty under orders authorized under paragraph (1) shall participate in the training required under section 502(a) of this title in addition to the duty performed for the purpose authorized under that paragraph. The pay, allowances, and other benefits of the member while participating in the training shall be the same as those to which the member is entitled while performing duty for the purpose of carrying out drug interdiction and counter-drug activities. The member is not entitled to additional pay, allowances, or other benefits for participation in training required under section 502(a)(1) of this title.
+(2)(A) A member of the National Guard serving on full-time National Guard duty under orders authorized under paragraph (1) shall participate in the training required under section 502(a) of this title in addition to the duty performed for the purpose authorized under that paragraph. The pay, allowances, and other benefits of themember while participating in the training shall be the same as those to which the member is entitled while performing duty for the purpose of carrying out drug interdiction and counter-drug activities. The member is not entitled to additional pay, allowances, or other benefits for participation in training required under section 502(a)(1) of this title.
 
 (B) Appropriations available for the Department of Defense for drug interdiction and counter-drug activities may be used for paying costs associated with a member's participation in training described in subparagraph (A). The appropriation shall be reimbursed in full, out of appropriations available for paying those costs, for the amounts paid. Appropriations available for paying those costs shall be available for making the reimbursements.
 
@@ -72,7 +72,7 @@ End Strength Limitation.—(1) Except as provided in paragraph (2), at the end o
 
 &emsp;(B) on duty under State authority to perform drug interdiction or counter-drug activities pursuant to an order to duty with State pay and allowances being reimbursed with funds provided under subsection (a)(1).
 
-(2) The Secretary of Defense may increase the end strength authorized under paragraph (1) by not more than 20 percent for any fiscal year if the Secretary determines that such an increase is necessary in the national security interests of the United States.
+(2) The Secretary of Defense may increase the end strength authorized under paragraph (1) by not more than 20 percent for any fiscal year if the Secretary determines that such an increaseis necessary in the national security interests of the United States.
 
 (f)
 
@@ -140,7 +140,7 @@ Subsec. (i)(1). Pub. L. 105–261, §1022(d), inserted ", including drug demand
 
 Subsec. (c)(4) to (6). Pub. L. 105–85, §1031(b)(1), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
-Subsec. (e). Pub. L. 105–85, §1031(d), designated par. (1) as subsec. (e) and struck out par. (2) which read as follows: "The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives an annual report specifying for the period covered by the report the number of members of the National Guard excluded under paragraph (1) from the computation of end strengths."
+Subsec. (e). Pub. L. 105–85, §1031(d), designated par. (1) as subsec. (e) and struck out par. (2) which read as follows: "The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and theCommittee on National Security of the House of Representatives an annual report specifying for the period covered by the report the number of members of the National Guard excluded under paragraph (1) from the computation of end strengths."
 
 Subsecs. (g) to (i). Pub. L. 105–85, §1031(c), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
@@ -252,7 +252,7 @@ Curriculum Review.—The Secretary of Defense shall review the curriculum and pr
 
 "(f)
 
-Treatment Under Authority To Provide Counterdrug Support.—The provisions of section 1004 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 374 note) shall apply to any activities of a National Guard counterdrug school under this section that are for an agency referred to in subsection (a) of such section 1004 and for a purpose set forth in subsection (b) of such section 1004.
+Treatment Under Authority To Provide Counterdrug Support.—The provisions of section 1004of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 10 U.S.C. 374 note) shall apply to any activities of a National Guard counterdrug school under this section that are for an agency referred to in subsection (a) of such section 1004 and for a purpose set forth in subsection (b) of such section 1004.
 
 "(g)
 

@@ -6,7 +6,7 @@ Except as otherwise provided in subsection (d) of this section, the Secretary in
 
 &emsp;(1) at least six Alaska subsistence resource regions which, taken together, include all public lands. The number and boundaries of the regions shall be sufficient to assure that regional differences in subsistence uses are adequately accommodated;
 
-&emsp;(2) such local advisory committees within each region as he finds necessary at such time as he may determine, after notice and hearing, that the existing State fish and game advisory committees do not adequately perform the functions of the local committee system set forth in paragraph (3)(D)(iv) of this subsection; and
+&emsp;(2) such local advisory committees within each region as he finds necessary at such time as he may determine, after notice and hearing, that the existing State fish and game advisorycommittees do not adequately perform the functions of the local committee system set forth in paragraph (3)(D)(iv) of this subsection; and
 
 &emsp;(3) a regional advisory council in each subsistence resource region.
 
@@ -44,7 +44,7 @@ The Secretary shall not implement subsections (a), (b), and (c) of this section 
 
 (1) The Secretary shall reimburse the State, from funds appropriated to the Department of the Interior for such purposes, for reasonable costs relating to the establishment and operation of the regional advisory councils established by the State in accordance with subsection (d) and the operation of the State fish and game advisory committees so long as such committees are not superseded by the Secretary pursuant to paragraph (2) of subsection (a). Such reimbursement may not exceed 50 per centum of such costs in any fiscal year. Such costs shall be verified in a statement which the Secretary determines to be adequate and accurate. Sums paid under this subsection shall be in addition to any grants, payments, or other sums to which the State is entitled from appropriations to the Department of the Interior.
 
-(2) Total payments to the State under this subsection shall not exceed the sum of $5,000,000 in any one fiscal year. The Secretary shall advise the Congress at least once in every fiveyears as to whether or not the maximum payments specified in this subsection are adequate to ensure the effectiveness of the program established by the State to provide the preference for subsistence uses of fish and wildlife set forth in section 3114 of this title.
+(2) Total payments to the State under this subsection shall not exceed the sum of $5,000,000 in any one fiscal year. The Secretary shall advise the Congress at least once in every five years as to whether or not the maximum payments specified in this subsection are adequate to ensure the effectiveness of the program established by the State to provide the preference forsubsistence uses of fish and wildlife set forth in section 3114 of this title.
 
 (Pub. L. 96–487, title VIII, §805, Dec. 2, 1980, 94 Stat. 2424; Pub. L. 105–83, title III, §316(b)(6), (d), Nov. 14, 1997, 111 Stat. 1593, 1595; Pub. L. 105–277, div. A, §101(e) \[title III, §339(c)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–296.)
 
@@ -68,5 +68,5 @@ Until laws are adopted in Alaska which provide for definition, preference, and p
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

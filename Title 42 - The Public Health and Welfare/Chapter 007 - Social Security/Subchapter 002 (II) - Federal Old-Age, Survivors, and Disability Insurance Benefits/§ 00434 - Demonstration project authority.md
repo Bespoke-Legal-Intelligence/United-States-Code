@@ -22,7 +22,7 @@
 
 #### (2) Authority for expansion of scope
 
-&emsp;The Commissioner may expand the scope of any such experiment or demonstration project to include any group of applicants for benefits under the program established under this subchapter with impairments that reasonably may be presumed to be disabling for purposes of such demonstration project, and may limit any such demonstration project to any suchgroup of applicants, subject to the terms of such demonstration project which shall define the extent of any such presumption.
+&emsp;The Commissioner may expand the scope of any such experiment or demonstration project to include any group of applicants for benefits under the program established under this subchapter with impairments that reasonably may be presumed to be disabling for purposes of such demonstration project, and may limit any such demonstration project to any such group of applicants, subject to the terms of such demonstration project which shall define the extent of any such presumption.
 
 #### (b) Requirements
 
@@ -66,7 +66,7 @@ In developing and carrying out any experiment or demonstration project under thi
 
 &emsp;&emsp;(B) no benefit shall be payable under section 402 of this title on the basis of the wages and self-employment income of the individual for any month for which the benefit of such individual under section 423(a)(1) of this title is reduced to $0 pursuant to subparagraph (A);
 
-&emsp;&emsp;(C) entitlement to any benefit described in subparagraph (A) or (B) shall not terminate due to earnings derived from services except following the first month for which such benefit has been reduced to $0 pursuant to subparagraph (A) (and the trial work period (as defined in section 422(c) of this title) andextended period of eligibility shall not apply to any such individual for any such month); and
+&emsp;&emsp;(C) entitlement to any benefit described in subparagraph (A) or (B) shall not terminate due to earnings derived from services except following the first month for which such benefit has been reduced to $0 pursuant to subparagraph (A) (and the trial work period (as defined in section 422(c) of this title) and extended period of eligibility shall not apply to any such individual for any such month); and
 
 &emsp;&emsp;(D) in any case in which such an individual is entitled to hospital insurance benefits under part A of subchapter XVIII by reason of section 426(b) of this title and such individual's entitlement to a benefit described in subparagraph (A) or (B) or status as a qualified railroad retirement beneficiary is terminated pursuant to subparagraph (C), such individual shall be deemed to be entitled to such benefits or to occupy such status (notwithstanding the termination of such entitlement or status) for the period of consecutive months throughout all of which the physical or mental impairment, on which such entitlement or status was based, continues, and throughout all of which such individual would have been entitled to monthly insurance benefits under subchapter II or as a qualified railroad retirement beneficiary had such termination of entitlement or status not occurred, but not in excess of 93 such months.
 
@@ -172,7 +172,7 @@ Expenditures.—Administrative expenses for demonstration projects under this se
 
 #### Study by General Accounting Office of the Impact of the Substantial Gainful Activity Limit on Return to Work
 
-Pub. L. 106–170, title III, §303(c), Dec. 17, 1999, 113 Stat. 1904, provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General was to undertake a study of the substantial gainful activity level applicable as of that date to recipients of benefits under sections 402 and 423 of this title and the effect of such level as a disincentive for those recipients to return to work, to address the merits of increasing the substantial gainful activity level applicable to recipients and the rationale for not yearly indexing that level to inflation, and not later than 2 years after Dec. 17, 1999, to transmit to the appropriate congressional committees a written report presenting the results of the Comptroller General's study conducted pursuant to this subsection and appropriate recommendations for legislative or administrative changes.
+Pub. L. 106–170, title III, §303(c), Dec. 17, 1999, 113 Stat. 1904, provided that, as soon as practicable after Dec. 17, 1999, the Comptroller General was to undertake a study of the substantial gainful activity level applicable as of that date to recipients of benefits under sections 402 and 423 of this title and the effect of such level as a disincentive for those recipients to return to work,to address the merits of increasing the substantial gainful activity level applicable to recipients and the rationale for not yearly indexing that level to inflation, and not later than 2 years after Dec. 17, 1999, to transmit to the appropriate congressional committees a written report presenting the results of the Comptroller General's study conducted pursuant to this subsection and appropriate recommendations for legislative or administrative changes.
 
 #### Study by the Government Accountability Office of Social Security Administration's Disability Insurance Program Demonstration Authority
 

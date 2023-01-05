@@ -8,9 +8,9 @@
 
 #### (2) Amount of penalty
 
-&emsp;The amount of the penalty, as determined by the Secretary, may not exceed $5,000 for each violation, except that the maximum penalty for all violations by any particular mortgagee or lender or such other person or entity duringany 1-year period shall not exceed $1,000,000. Each violation of a <sup>2</sup> the provisions of subsection (b)(1) shall constitute a separate violation with respect to each mortgage or loan application. In the case of a continuing violation, as determined by the Secretary, each day shall constitute a separate violation.
+&emsp;The amount of the penalty, as determined by the Secretary, may not exceed $5,000 for each violation, except that the maximum penalty for all violations by any particular mortgagee or lender or such other person or entity during any 1-year period shall not exceed $1,000,000. Each violation of a <sup>2</sup> the provisions of subsection (b)(1) shall constitute a separate violation with respect to each mortgage or loan application. In the case of a continuing violation, as determined by the Secretary, each day shall constitute a separate violation.
 
-&emsp;In the case of the mortgagee's failure to engage in loss mitigation activities, as provided in subsection (b)(1)(I), the penalty shall be in the amount of three times the amount of any insurance benefits claimed by the mortgagee with respect to any mortgage for which the mortgagee failed to engage in such loss mitigation actions.
+&emsp;In the case of the mortgagee's failure to engage in loss mitigation activities, as providedin subsection (b)(1)(I), the penalty shall be in the amount of three times the amount of any insurance benefits claimed by the mortgagee with respect to any mortgage for which the mortgagee failed to engage in such loss mitigation actions.
 
 #### (b) Violations for which a penalty may be imposed
 
@@ -132,7 +132,7 @@ The Secretary shall issue such regulations as the Secretary deems appropriate to
 
 Notwithstanding any other provision of law, all civil money penalties collected under this section shall be deposited in the appropriate insurance fund or funds established under this chapter, as determined by the Secretary.
 
-(June 27, 1934, ch. 847, title V, §536, as added Pub. L. 101–235, title I, §107(a), Dec. 15, 1989, 103 Stat. 2000; amended Pub. L. 104–208, div. A, title II, §2704(d)(13)(B), Sept. 30, 1996, 110 Stat. 3009–490; Pub. L. 105–65, title V, §553, Oct. 27, 1997, 111Stat. 1413; Pub. L. 105–276, title VI, §601(g), (h), Oct. 21, 1998, 112 Stat. 2674; Pub. L. 108–447, div. I, title II, §219(a), Dec. 8, 2004, 118 Stat. 3319; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(f)(2), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 111–22, div. A, title II, §203(f), May 20, 2009, 123 Stat. 1647.)
+(June 27, 1934, ch. 847, title V, §536, as added Pub. L. 101–235, title I, §107(a), Dec. 15, 1989, 103 Stat. 2000; amended Pub. L. 104–208, div. A, title II, §2704(d)(13)(B), Sept. 30, 1996, 110 Stat. 3009–490; Pub. L. 105–65, title V, §553, Oct. 27, 1997, 111 Stat. 1413; Pub. L. 105–276, title VI, §601(g), (h), Oct. 21, 1998, 112 Stat. 2674; Pub. L. 108–447, div. I, title II, §219(a), Dec. 8, 2004, 118 Stat. 3319; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(f)(2), Feb. 15, 2006, 119 Stat. 3618; Pub. L. 111–22, div. A, title II, §203(f), May 20, 2009, 123 Stat. 1647.)
 
 #### <b>Editorial Notes</b>
 
@@ -204,11 +204,11 @@ Pub. L. 105–65, title V, §541, Oct. 27, 1997, 111 Stat. 1412, provided that:
 
 "(a)
 
-Issuance of Necessary Regulations.—Notwithstanding section 7(o) of the Department of Housing and Urban Development Act \[42 U.S.C. 3535(o)\] or part 10 of title 24, Code of Federal Regulations (as in existence on the date of enactment of this Act \[Oct. 27, 1997\]), the Secretary shall issue such regulations as the Secretary determines to be necessary to implement this subtitle \[subtitle C (§§541–564) of title V of Pub. L. 105–65, enacting section 1437z–1 of Title 42, The Public Health andWelfare, amending this section, sections 1708, 1715z–4a, 1715z–19, and 1735f–15 of this title, section 1516 of Title 18, Crimes and Criminal Procedure, section 6103 of Title 26, Internal Revenue Code, and sections 503 and 1437z of Title 42, and enacting provisions set out as notes under section 1735f–15 of this title and sections 503 and 1437z–1 of Title 42\] and the amendments made by this subtitle in accordance with section 552 or 553 of title 5, United States Code, as determined by the Secretary.
+Issuance of Necessary Regulations.—Notwithstanding section 7(o) of the Department of Housing and Urban Development Act \[42 U.S.C. 3535(o)\] or part 10 of title 24, Code of Federal Regulations (as in existence on the date of enactment of this Act \[Oct. 27, 1997\]), the Secretary shall issue such regulations as the Secretary determines to be necessary to implement this subtitle \[subtitle C (§§541–564) of title V of Pub. L. 105–65, enacting section 1437z–1 of Title 42, The Public Health and Welfare, amending this section, sections 1708, 1715z–4a, 1715z–19, and 1735f–15 of this title, section 1516 of Title 18, Crimes and Criminal Procedure, section 6103 of Title 26, Internal Revenue Code, and sections 503 and 1437z of Title 42, and enacting provisions set out as notes under section 1735f–15 of this title and sections 503 and 1437z–1 of Title 42\] and the amendments made by this subtitle in accordance with section 552 or 553 of title 5, United States Code, as determined by the Secretary.
 
 "(b)
 
-Use of Existing Regulations.—In implementing any provision of this subtitle, the Secretary may, in the discretion of the Secretary, provide for the use of existing regulations to the extent appropriate, without rulemaking."
+Use of Existing Regulations.—In implementing any provision of this subtitle, the Secretary may, inthe discretion of the Secretary, provide for the use of existing regulations to the extent appropriate, without rulemaking."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 

@@ -8,7 +8,7 @@ The Secretary is authorized, under regulations to be promulgated by him, to requ
 
 #### Advances by Farm Security Administration as Capital
 
-Act Aug. 7, 1939, ch. 509, 53 Stat. 1238, as amended June 17, 1940, ch. 390, 54 Stat. 402; May 28, 1941, ch. 136,55 Stat. 206; Aug. 1, 1942, ch. 540, 56 Stat. 732, authorized Secretary of the Interior during fiscal years 1940 to 1943 to consider money made available to settlers by the former Farm Security Administration to be all or part of the capital required under this section.
+Act Aug. 7, 1939, ch. 509, 53 Stat. 1238, as amended June 17, 1940, ch. 390, 54 Stat. 402; May 28, 1941, ch. 136, 55 Stat. 206; Aug. 1, 1942, ch. 540, 56 Stat. 732, authorized Secretary of the Interior during fiscal years 1940 to 1943 to consider money made available to settlers by theformer Farm Security Administration to be all or part of the capital required under this section.
 
 #### Definitions
 

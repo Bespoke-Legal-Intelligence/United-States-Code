@@ -32,5 +32,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date
 
-Section applicable only with respect to funds appropriated for fiscal years after fiscal year 2004, see section544(d) of Pub. L. 108–375, set out as a note under section 7459 of this title.
+Section applicable only with respect to funds appropriated for fiscal years after fiscal year 2004, see section 544(d) of Pub. L. 108–375, set out as a note under section 7459 of this title.
 

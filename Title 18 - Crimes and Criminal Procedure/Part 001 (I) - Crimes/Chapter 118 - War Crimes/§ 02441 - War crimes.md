@@ -6,7 +6,19 @@ Offense.—Whoever, whether inside or outside the United States, commits a war c
 
 (b)
 
-Circumstances.—The circumstances referred to in subsection (a) are that the person committing such war crime or the victim of such war crime is a member of the Armed Forces of the United States or a national of the United States (as defined in section 101 of the Immigration and Nationality Act).
+Jurisdiction.—There is jurisdiction over an offense described in subsection (a) if—
+
+&emsp;(1) the offense occurs in whole or in part within the United States; or
+
+&emsp;(2) regardless of where the offense occurs—
+
+&emsp;&emsp;(A) the victim or offender is—
+
+&emsp;&emsp;&emsp;(i) a national of the United States or an alien lawfully admitted for permanent residence; or
+
+&emsp;&emsp;&emsp;(ii) a member of the Armed Forces of the United States, regardless of nationality; or
+
+&emsp;&emsp;(B) the offender is present in the United States, regardless of the nationality of the victim or offender.
 
 (c)
 
@@ -48,7 +60,7 @@ Murder.—The act of a person who intentionally kills, or conspires or attempts 
 
 &emsp;&emsp;(E)
 
-Mutilation or maiming.—The act of a person who intentionally injures, or conspires or attempts to injure, or injures whether intentionally or unintentionally inthe course of committing any other offense under this subsection, one or more persons taking no active part in the hostilities, including those placed out of combat by sickness, wounds, detention, or any other cause, by disfiguring the person or persons by any mutilation thereof or by permanently disabling any member, limb, or organ of his body, without any legitimate medical or dental purpose.
+Mutilation or maiming.—The act of a person who intentionally injures, or conspires or attempts to injure, or injures whether intentionally or unintentionally in the course of committing any other offense under this subsection, one or more persons taking no active part in the hostilities, including those placed out of combat by sickness, wounds, detention, or any other cause, by disfiguring the person or persons by any mutilation thereof or by permanently disabling any member, limb, or organ of his body, without any legitimate medical or dental purpose.
 
 &emsp;&emsp;(F)
 
@@ -106,19 +118,57 @@ Inapplicability of taking hostages to prisoner exchange.—Paragraph (1)(I) does
 
 &emsp;(5)
 
-Definition of grave breaches.—The definitions in this subsection are intended only to define the grave breaches of common Article 3 and not the full scope of United States obligations under that Article.
+Definition of grave breaches.—The definitions in this subsection are intendedonly to define the grave breaches of common Article 3 and not the full scope of United States obligations under that Article.
 
-(Added Pub. L. 104–192, §2(a), Aug. 21, 1996, 110 Stat. 2104, §2401; renumbered §2441, Pub. L. 104–294, title VI, §605(p)(1), Oct. 11, 1996, 110 Stat. 3510; amended Pub. L. 105–118, title V, §583, Nov. 26, 1997, 111 Stat. 2436; Pub. L. 107–273, div. B, title IV, §4002(e)(7), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 109–366, §6(b)(1), Oct. 17, 2006, 120 Stat. 2633.)
+(e)
+
+Nonapplicability of Certain Limitations.—In the case of an offense described in subsection (a) and further described in subsections (c)(1) and (c)(3), an indictment may be found or an information may be instituted at any time without limitation.
+
+(f)
+
+Certification Requirement.—
+
+&emsp;(1)
+
+In general.—No prosecution for an offense described in subsection (a) shall be undertaken by the United States except on written certification of the Attorney General, the Deputy Attorney General, or an Assistant Attorney General, which function of approving prosecutions may not be delegated, that a prosecution by the United States is in the public interest and necessary to secure substantial justice.
+
+&emsp;(2)
+
+Offender present in united states.—For an offense for which jurisdiction exists under subsection (b)(2)(B) (and does not exist under any other provision of subsection (b)), the written certification required under paragraph (1) of this subsection that a prosecution by the United States is in the public interest and necessary to secure substantial justice shall be made by the Attorney General or the Deputy Attorney General, which function may not be delegated. In issuing such certification, the same official shall weigh and consider, among other relevant factors—
+
+&emsp;&emsp;(A) whether the alleged offender can be removed from the United States for purposes of prosecution in another jurisdiction; and
+
+&emsp;&emsp;(B) potential adverse consequences for nationals, servicemembers, or employees of the United States.
+
+(g)
+
+Input From Other Agency Heads.—The Secretary of Defense and Secretary of State may submit to the Attorney General for consideration their views generally regarding potential benefits, or potential adverse consequences for nationals, servicemembers, or employees of the United States, of prosecutions of offenses for which jurisdiction exists under subsection (b)(2)(B).
+
+(h)
+
+No Judicial Review.—Certifications under subsection (f) and input from other agency heads under subsection (g) are not subject to judicial review.
+
+(i)
+
+Rules of Construction.—Nothing in this section shall be construed as—
+
+&emsp;(1) support for ratification of or accession to the Rome Statute of the International Criminal Court, which entered into force on July 1, 2002; or
+
+&emsp;(2) consent by the United States to any assertion or exercise of jurisdiction by any international, hybrid, or foreign court.
+
+(Added Pub. L. 104–192, §2(a), Aug. 21, 1996, 110 Stat. 2104, §2401; renumbered §2441, Pub. L. 104–294, title VI, §605(p)(1), Oct. 11, 1996, 110 Stat. 3510; amended Pub. L. 105–118, title V, §583, Nov. 26, 1997, 111 Stat. 2436; Pub. L. 107–273, div. B, title IV, §4002(e)(7), Nov. 2, 2002, 116 Stat. 1810; Pub. L. 109–366, §6(b)(1), Oct. 17, 2006, 120 Stat. 2633; Pub. L. 117–351, §2, Jan. 5, 2023, 136 Stat. 6265.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 101 of the Immigration and Nationality Act, referred to in subsec. (b), is classified to section 1101 of Title 8, Aliens and Nationality.
-
 The date of the enactment of the Military Commissions Act of 2006, referred to in subsec. (d)(2)(E)(ii), is the date of enactment of Pub. L. 109–366, which was approved Oct. 17, 2006.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b). Pub. L. 117–351, §2(1), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The circumstances referred to in subsection (a) are that the person committing such war crime or the victim of such war crime is a member of the Armed Forces of the United States or a national of the United States (as defined in section 101 of the Immigration and Nationality Act)."
+
+Subsecs. (e) to (i). Pub. L. 117–351, §2(2), added subsecs. (e) to (i).
 
 <b>2006</b>—Subsec. (c)(3). Pub. L. 109–366, §6(b)(1)(A), added par. (3) and struck out former par. (3) which read as follows: "which constitutes a violation of common Article 3 of the international conventions signed at Geneva, 12 August 1949, or any protocol to such convention to which the United States is a party and which deals with non-international armed conflict; or".
 
@@ -158,7 +208,7 @@ Pub. L. 109–366, §6(a), Oct. 17, 2006, 120 Stat. 2632, provided that:
 
 "(1)
 
-In general.—The acts enumerated in subsection (d) of section 2441 of title 18, United States Code, as added by subsection (b) of this section, and in subsection (c) of this section \[enacting section 2000dd–0 of Title 42, The Public Health and Welfare\], constitute violations of common Article 3 of the Geneva Conventions prohibited by United States law.
+In general.—The acts enumerated in subsection (d) of section 2441 of title 18, United States Code, asadded by subsection (b) of this section, and in subsection (c) of this section \[enacting section 2000dd–0 of Title 42, The Public Health and Welfare\], constitute violations of common Article 3 of the Geneva Conventions prohibited by United States law.
 
 "(2)
 

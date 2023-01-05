@@ -10,7 +10,7 @@ All persons exporting or importing wheat or wheat-flour or selling wheat or whea
 
 #### (c) Penalty for violation
 
-Any person failing to make any report or keep any record as required by or pursuant to thissection, or making any false report or record or knowingly violating any rule or regulation of the President issued pursuant to this section shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $1,000 for each violation.
+Any person failing to make any report or keep any record as required by or pursuant to this section, or making any false report or record or knowingly violating any rule or regulation of the President issued pursuant to this section shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $1,000 for each violation.
 
 #### (d) Forfeiture for excessive exports or imports
 
@@ -18,7 +18,7 @@ Any person who knowingly and willfully exports wheat or wheat-flour from the Uni
 
 #### (e) Jurisdiction and venue of actions; remedies, fines, and forfeitures as additional
 
-The district courts of the United States shall have jurisdiction of violations of this chapter or the rules and regulations thereunder, and of all suits in equity and actions at law brought to enforce any liability or duty created by this chapter or the rules and regulations thereunder. Any criminal proceeding may be brought in the district wherein any act or transaction constituting the violation occurred. Any suit or action to enforce any liability or duty created by this chapter or rules and regulations thereunder, or to enjoin any violation of such chapter or rules and regulations, may be brought in any such district wherein the defendant is found or is a resident or transacts business. The remedies, fines, and forfeitures provided for in this chapter shall be in addition to, and not exclusive of, any of the remedies, fines, and forfeitures under existing law.
+The district courts of the United States shall have jurisdiction of violations of this chapter or the rules and regulations thereunder, and of all suits in equity and actions at law brought to enforce any liability or duty created by this chapter or the rules and regulations thereunder. Any criminal proceeding may be brought in the district wherein any act or transaction constituting the violation occurred. Any suit or action to enforce any liability or duty created by thischapter or rules and regulations thereunder, or to enjoin any violation of such chapter or rules and regulations, may be brought in any such district wherein the defendant is found or is a resident or transacts business. The remedies, fines, and forfeitures provided for in this chapter shall be in addition to, and not exclusive of, any of the remedies, fines, and forfeitures under existing law.
 
 #### (f) Delegation of authority
 
@@ -48,7 +48,7 @@ The term "person" as used in this section shall include the singular and the plu
 
 Section 607(g) of the Federal Employees Pay Act of 1945, as amended, referred to in subsec. (h), was repealed by act Sept. 12, 1950, ch. 946, title III, §301 (85), 64 Stat. 843.
 
-The Administrative Procedure Act, referred to in subsec. (i), is act June 11, 1946, ch. 324, 60 Stat. 237, as amended, which was repealed and reenacted as subchapter II of chapter 5, and chapter 7, of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378, which enacted Title 5. Sections 3 and 10 thereof are covered by section 552 and chapter 7, respectively, of Title 5.
+The Administrative Procedure Act, referred to in subsec. (i), is act June 11, 1946, ch. 324, 60 Stat. 237, which was repealed and reenacted as subchapter II of chapter 5, and chapter 7, of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378, which enacted Title 5. Sections 3 and 10 thereof are covered by section 552 and chapter 7, respectively, of Title 5.
 
 #### Codification
 

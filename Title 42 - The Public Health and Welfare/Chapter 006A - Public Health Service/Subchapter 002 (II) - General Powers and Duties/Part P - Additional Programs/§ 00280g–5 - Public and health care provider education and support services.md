@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, directly or through the awarding of grants to public or private nonprofit entities, may conduct activities, which may include demonstration projects for the purpose of improving the provision of information on prematurity to health professionals and other health care providers and the public and improving the treatment and outcomes mothers <sup>1</sup> of infants born preterm, and infants born preterm, as appropriate.
+The Secretary, directly or through the awarding of grants to public or private nonprofit entities, may conduct activities, which may include demonstration projects for the purpose of improving the provision of information on prematurity to health professionals and otherhealth care providers and the public and improving the treatment and outcomes mothers <sup>1</sup> of infants born preterm, and infants born preterm, as appropriate.
 
 #### (b) Activities
 

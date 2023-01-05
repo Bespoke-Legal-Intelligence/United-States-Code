@@ -2,15 +2,19 @@
 
 #### (a) In general
 
-The Administrator, in coordination with the Director of the Office of Victims of Crime, shall make grants to—
+The Administrator shall make grants to—
 
-&emsp;(1) develop and enhance multidisciplinary child abuse investigations, intervention, and prosecution; and
+&emsp;(1) establish and maintain a network of care for child abuse victims where investigation, prosecutions, and interventions are continually occurring and coordinating activities within local children's advocacy centers and multidisciplinary teams;
 
-&emsp;(2) promote the effective delivery of the evidence-informed Children's Advocacy Model and the multidisciplinary response to child abuse, including best practices in programmatic evaluation and financial oversight of Federal funding.
+&emsp;(2) develop, enhance, and coordinate multidisciplinary child abuse investigations, intervention, and prosecution activities;
+
+&emsp;(3) promote the effective delivery of the evidence-based, trauma-informed Children's Advocacy Center Model and the multidisciplinary response to child abuse; and
+
+&emsp;(4) develop and disseminate practice standards for care and best practices in programmatic evaluation, and support State chapter organizational capacity and local children's advocacy center organizational capacity and operations in order to meet such practice standards and best practices.
 
 #### (b) Direct services for child victims of a severe form of trafficking in persons and victims of human trafficking and child pornography
 
-The Administrator, in coordination with the Director of the Office of Victims of Crime, may make grants to develop and implement specialized programs to identify and provide direct services to victims of a severe form of trafficking (as defined in section 7102(9)(A) <sup>1</sup> of title 22) who were under the age of 18 at the time of the offense and victims of human trafficking and child pornography.
+The Administrator may make grants to develop and implement specialized programs to identify and provide direct services to victims of a severe form of trafficking (as defined in section 7102(9)(A) <sup>1</sup> of title 22) who were under the age of 18 at the time of the offense and victims of human trafficking and child pornography.
 
 #### (c) Grant criteria
 
@@ -18,23 +22,29 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 (2) In general, the grant criteria established pursuant to paragraph (1) may require that a program include any of the following elements:
 
-&emsp;(A) A written agreement between local law enforcement, child protective service, health,and other related agencies to coordinate child abuse investigation, prosecution, treatment, and counseling services.
+&emsp;(A) A written agreement between local law enforcement, child protective service, health, and other related agencies to coordinate child abuse investigation, prosecution, treatment, and counseling services.
 
 &emsp;(B) An appropriate site for referring, interviewing, treating, and counseling child victims of sexual and serious physical abuse and neglect and nonoffending family members (referred to as a "children's advocacy center").
 
-&emsp;(C) Referral of all child abuse cases that meet designated referral criteria to the children's advocacy center not later than 24 hours after notification of an incident of abuse.
+&emsp;(C) Referral of all child abuse cases that meet designated referral criteria to the children's advocacy center not later than 24 hours to the greatest extent practicable, but in no case later than 72 hours, after notification of an incident of abuse.
 
-&emsp;(D) Joint initial forensic interviews of child victims by personnel from law enforcement, health, and child protective service agencies.
+&emsp;(D) Forensic interviews of child victims by trained personnel that are used by law enforcement, health, and child protective service agencies to interview suspected abuse victims about allegations of abuse.
 
-&emsp;(E) A requirement that, to the extent practicable, all interviews and meetings with a child victim occur at the children's advocacy center or an agency with which there is a linkage agreement regarding the delivery of multidisciplinary child abuse investigation, prosecution, and intervention services.
+&emsp;(E) Provision of needed follow up services such as medical care, mental healthcare, and victims advocacy services.
 
-&emsp;(F) Coordination of each step of the investigation process to eliminate duplicative forensic interviews with a child victim.
+&emsp;(F) A requirement that, to the extent practicable, all interviews and meetings with a child victim occur at the children's advocacy center or an agency with which there is a linkage agreement regarding the delivery of multidisciplinary child abuse investigation, prosecution, and intervention services.
 
-&emsp;(G) Designation of a director for the children's advocacy center.
+&emsp;(G) Coordination of each step of the investigation process to eliminate duplicative forensic interviews with a child victim.
 
-&emsp;(H) Assignment of a volunteer or staff advocate to each child in order to assist the child and, when appropriate, the child's family, throughout each step of intervention and judicial proceedings.
+&emsp;(H) Designation of a director for the children's advocacy center.
 
-&emsp;(I) Such other criteria as the Administrator shall establish by regulation.
+&emsp;(I) Designation of a multidisciplinary team coordinator.
+
+&emsp;(J) Assignment of a volunteer or staff advocate to each child in order to assist the child and, when appropriate, the child's family, throughout each step of intervention and judicial proceedings.
+
+&emsp;(K) Coordination with State chapters to assist and provide oversight, and organizational capacity that supports local children's advocacy centers, multidisciplinary teams, and communities working to implement a multidisciplinary response to child abuse in the provision of evidence-informed initiatives, including mental health counseling, forensic interviewing, multidisciplinary team coordination, and victim advocacy.
+
+&emsp;(L) Such other criteria as the Administrator shall establish by regulation.
 
 #### (d) Distribution of grants
 
@@ -46,9 +56,9 @@ A grant recipient under this section shall consult from time to time with region
 
 #### (f) Grants to State chapters for assistance to local children's advocacy centers
 
-In awarding grants under this section, the Administrator shall ensure that a portion of the grants is distributed to State chapters to enable State chapters to provide technical assistance, training, coordination, and oversight to other recipients of grants under this section in providing evidence-informed initiatives, including mental health counseling, forensic interviewing, multidisciplinary team coordination, and victim advocacy.
+In awarding grants under this section, the Administrator shall ensure that a portion of the grants is distributed to State chapters to enable State chapters to provide oversight, training, and technical assistance to local centers on evidence-informed initiatives including mental health, counseling, forensic interviewing, multidisciplinary team coordination, and victim advocacy.
 
-(Pub. L. 101–647, title II, §214, formerly §212, Nov. 29, 1990, 104 Stat. 4793; renumbered §214 and amended Pub. L. 102–586, §6(b)(1), (c), Nov. 4, 1992, 106 Stat. 5029, 5034; Pub. L. 107–273, div. C, title II, §12221(b)(1)(A), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 114–22, title I, §104(2), May 29, 2015, 129 Stat. 236; Pub. L. 115–392, §6, Dec. 21, 2018, 132 Stat. 5253; Pub. L. 115–424, §2(d), (h)(2), Jan. 7, 2019, 132 Stat. 5467, 5470.)
+(Pub. L. 101–647, title II, §214, formerly §212, Nov. 29, 1990, 104 Stat. 4793; renumbered §214 and amended Pub. L. 102–586, §6(b)(1), (c), Nov. 4, 1992, 106 Stat. 5029, 5034; Pub. L. 107–273, div. C, title II, §12221(b)(1)(A), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 114–22, title I, §104(2), May 29, 2015, 129 Stat. 236; Pub. L. 115–392, §6, Dec. 21, 2018, 132 Stat. 5253; Pub. L. 115–424, §2(d), (h)(2), Jan. 7, 2019, 132 Stat. 5467, 5470; Pub. L. 117–354, §3(4), Jan. 5, 2023, 136 Stat. 6275.)
 
 #### <b>Editorial Notes</b>
 
@@ -65,6 +75,32 @@ Section was formerly classified to section 13002 of Title 42, The Public Health 
 A prior section 214 of Pub. L. 101–647 was renumbered section 214B and is classified to section 20306 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 117–354, §3(4)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Administrator, in coordination with the Director of the Office of Victims of Crime, shall make grants to—
+
+&emsp;"(1) develop and enhance multidisciplinary child abuse investigations, intervention, and prosecution; and
+
+&emsp;"(2) promote the effective delivery of the evidence-informed Children's Advocacy Model and the multidisciplinary response to child abuse, including bestpractices in programmatic evaluation and financial oversight of Federal funding."
+
+Subsec. (b). Pub. L. 117–354, §3(4)(B), struck out ", in coordination with the Director of the Office of Victims of Crime," after "Administrator".
+
+Subsec. (c)(2)(C). Pub. L. 117–354, §3(4)(C)(i), inserted "to the greatest extent practicable, but in no case later than 72 hours," after "hours".
+
+Subsec. (c)(2)(D) to (L). Pub. L. 117–354, §3(4)(C)(ii), added subpars. (D) to (L) and struck out former subpars. (D) to (I) which read as follows:
+
+"(D) Joint initial forensic interviews of child victims by personnel from law enforcement, health, and child protective service agencies.
+
+"(E) A requirement that, to the extent practicable, all interviews and meetings with a child victim occur at the children's advocacy center or an agency with which there is a linkage agreement regarding the delivery of multidisciplinary child abuse investigation, prosecution, and intervention services.
+
+"(F) Coordination of each step of the investigation process to eliminate duplicative forensic interviews with a child victim.
+
+"(G) Designation of a director for the children's advocacy center.
+
+"(H) Assignment of a volunteer or staff advocate to each child in order to assist the child and, when appropriate, the child's family, throughout each step of intervention and judicial proceedings.
+
+"(I) Such other criteria as the Administrator shall establish by regulation."
+
+Subsec. (f). Pub. L. 117–354, §3(4)(D), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: "In awarding grants under this section, the Administrator shall ensure that a portion of the grants is distributed to State chapters to enable State chapters to provide technical assistance, training, coordination, and oversight to other recipients of grants under this section in providing evidence-informed initiatives, including mental health counseling, forensic interviewing, multidisciplinary team coordination, and victim advocacy."
 
 <b>2019</b>—Subsec. (a). Pub. L. 115–424, §2(d)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Administrator, in coordination with the Director and with the Director of the Office of Victims of Crime, shall make grants to develop and implement multidisciplinary child abuse investigation and prosecution programs."
 

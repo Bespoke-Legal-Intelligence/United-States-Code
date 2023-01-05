@@ -28,7 +28,7 @@ Payments into such fund shall be made as follows:
 
 #### (d) Investigations; records, availability; recordkeeping; provisions of sections 49 and 50 of title 15 applicable to Secretary
 
-(1) For the purpose of making rules, regulations, and determinations under this section under and for providing enforcement thereof,the Secretary may investigate and gather appropriate data from each carrier and self-insurer. For that purpose, the Secretary may enter and inspect such places and records (and make such transcriptions thereof), question such employees, and investigate such facts, conditions, practices, or matters as he may deem necessary or appropriate.
+(1) For the purpose of making rules, regulations, and determinations under this section under and for providing enforcement thereof, the Secretary may investigate and gather appropriate data from each carrier and self-insurer. For that purpose, the Secretary may enter and inspect such places and records (and make such transcriptions thereof), question such employees, and investigate such facts, conditions, practices, or matters as he may deem necessary or appropriate.
 
 (2) Each carrier and self-insurer shall make, keep, and preserve such records, and make such reports and provide such additional information, as prescribed by regulation or order of the Secretary, as the Secretary deems necessary or appropriate to carry out his responsibilities under this section.
 

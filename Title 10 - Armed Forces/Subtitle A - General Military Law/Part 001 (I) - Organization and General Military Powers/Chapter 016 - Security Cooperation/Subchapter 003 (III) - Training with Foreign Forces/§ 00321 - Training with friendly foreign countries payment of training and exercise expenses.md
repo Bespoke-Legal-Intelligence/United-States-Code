@@ -108,7 +108,7 @@ Pub. L. 110–417, \[div. A\], title XII, §1203(b), Oct. 14, 2008, 122 Stat. 46
 
 #### Prohibition on Participation of the People's Republic of China in Rim of the Pacific (RIMPAC) Naval Exercises
 
-Pub. L. 115–232, div. A, title XII, §1259, Aug. 13, 2018, 132 Stat. 2058, provided that:
+Pub. L. 115–232, div. A, title XII, §1259, Aug. 13, 2018, 132 Stat. 2058, as amended by Pub. L. 117–263, div. A, title XII, §1253, Dec. 23, 2022, 136 Stat. 2850, provided that:
 
 "(a)
 
@@ -120,9 +120,11 @@ In general.—The Secretary of Defense shall not enable or facilitate the partic
 
 &emsp;&emsp;"(A) ceased all land reclamation activities in the South China Sea;
 
-&emsp;&emsp;"(B) removed all weapons from its land reclamation sites; and
+&emsp;&emsp;"(B) removed all weapons from its land reclamation sites;
 
-&emsp;&emsp;"(C) established a consistent four-year track record of taking actions toward stabilizing the region.
+&emsp;&emsp;"(C) established a consistent four-year track record of taking actions toward stabilizing the region; and
+
+&emsp;&emsp;"(D) ceased committing genocide in China, as articulated in the Department of State's Country Report on Human Rights Practices released on April 12, 2022, and engaged in a credible justice and accountability process for all victims of such genocide.
 
 &emsp;"(2)
 
@@ -134,7 +136,7 @@ National Security Waiver.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense may waive the certification requirement under subsection\(a) if the Secretary determines the waiver is in the national security interest of the United States and submits to the congressional defense committees a detailed justification for the waiver.
+In general.—The Secretary of Defense may waive the certification requirement under subsection (a) if the Secretary determines the waiver is in the national security interest of the United States and submits to the congressional defense committees a detailed justification for the waiver.
 
 &emsp;"(2)
 

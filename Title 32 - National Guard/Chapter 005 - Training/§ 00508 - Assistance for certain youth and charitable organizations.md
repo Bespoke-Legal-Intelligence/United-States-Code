@@ -70,5 +70,5 @@ Eligible Organizations.—The organizations eligible to receive services under t
 
 #### Change of Name
 
-References to the United States Olympic Committee deemed to refer to the United States Olympic andParalympic Committee, see section 220502(c) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+References to the United States Olympic Committee deemed to refer to the United States Olympic and Paralympic Committee, see section 220502(c) of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 

@@ -6,7 +6,7 @@ The Congress finds that certain outstanding natural features, including forests,
 
 #### (b) Cooperation between Federal, State, and local governments
 
-In preserving the lakeshore and stabilizing its development, substantial reliance shall be placed on cooperation between Federal, State, and local governments to apply sound principles of land use planning and zoning. In developing the lakeshore, full recognition shall be given to protecting the private properties for the enjoyment of the owners.
+In preserving the lakeshore and stabilizing its development, substantial reliance shall be placed on cooperation between Federal, State, and local governments to apply sound principles of land use planning and zoning. In developingthe lakeshore, full recognition shall be given to protecting the private properties for the enjoyment of the owners.
 
 (Pub. L. 91–479, §1, Oct. 21, 1970, 84 Stat. 1075.)
 

@@ -44,7 +44,7 @@ Amendment by Pub. L. 90–201 effective Dec. 15, 1967, except that with respect 
 
 #### Savings Provision
 
-Pub. L. 99–641, title IV, §404, Nov. 10, 1986, 100 Stat. 3571, provided that: "The expiration date provisions of section 403 \[enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title\] shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), as amended by section 403 \[amending this sectionand sections 606, 621, 671, and 676 of this title\], or under the rules or regulations issued under such Act."
+Pub. L. 99–641, title IV, §404, Nov. 10, 1986, 100 Stat. 3571, provided that: "The expiration date provisions of section 403 \[enacting provisions set out as notes under this section and sections 606, 621, 671, and 676 of this title\] shall not have the effect of releasing or extinguishing any penalty, forfeiture, or liability incurred under the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), as amended by section 403 \[amending this section and sections 606, 621, 671, and 676 of this title\], or under the rules or regulations issued under such Act."
 
 #### Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program
 

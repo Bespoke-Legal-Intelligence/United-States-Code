@@ -32,7 +32,7 @@ Review of Proposed Actions.—(1) Not later than 75 days after receiving from th
 
 (C) A notice of presumed risk issued under subparagraph (A) is a preliminary assessment only and does not represent a formal objection pursuant to subsection (e). Discussions of possible mitigation actions under such subparagraph could favorably resolve any concerns identified in the notice of presumed risk.
 
-(3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of theState in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance to the application. The Secretary of Defense shall consider the comments of the governor in the Secretary's evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to section 44718(f) of title 49.
+(3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of the State in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance to the application. The Secretary of Defense shall consider the comments of the governor in the Secretary's evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to section 44718(f) of title 49.
 
 (4) If, after issuing the notices of presumed risk required by paragraphs (2) and (3), the Secretary of Defense later concludes for any reason that the energy project will not have an adverse impact on military readiness, the Clearinghouse shall notify the applicant and the governor in writing of that conclusion.
 
@@ -72,7 +72,7 @@ Comprehensive Review.—(1) The Secretary of Defense shall develop a comprehensi
 
 &emsp;&emsp;(v) modifications to the projects for which such applications are filed with the Secretary of Transportation pursuant to section 44718 of title 49, including changes in size, location, or technology.
 
-(3) The governor of a State may recommend to the Secretary of Defense additional geographical areas of concern within that State. Any such recommendation shall be submittedfor notice and comment pursuant to paragraph (2)(C).
+(3) The governor of a State may recommend to the Secretary of Defense additional geographical areas of concern within that State. Any such recommendation shall be submitted for notice and comment pursuant to paragraph (2)(C).
 
 (4) The Clearinghouse shall make access to data reflecting geographic areas identified under subparagraph (B) of paragraph (2) and reviewed and modified under subparagraph (C) of such paragraph available online.
 
@@ -114,7 +114,7 @@ Definitions.—In this section:
 
 &emsp;(7) The term "military training route" means a training route developed as part of the Military Training Route Program, carried out jointly by the Administrator of the Federal Aviation Administration and the Secretary of Defense, for use by the armed forces for the purpose of conducting low-altitude, high-speed military training.
 
-&emsp;(8) The term "State" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the United States Virgin Islands, and American Samoa.
+&emsp;(8) The term "State" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, theUnited States Virgin Islands, and American Samoa.
 
 &emsp;(9) The term "unacceptable risk to the national security of the United States" means the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill, that the Secretary of Defense can demonstrate would—
 

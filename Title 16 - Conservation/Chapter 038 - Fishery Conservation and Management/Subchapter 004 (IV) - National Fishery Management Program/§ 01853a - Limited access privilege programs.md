@@ -150,7 +150,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 &emsp;&emsp;(B) consider the basic cultural and social framework of the fishery, especially through—
 
-&emsp;&emsp;&emsp;(i) the development of policies to promote the sustained participation of small owner-operated fishing vessels and fishing communities that depend on the fisheries, including regional or port-specific landing or delivery requirements; and
+&emsp;&emsp;&emsp;(i) the development of policies to promote the sustained participation of small owner-operated fishing vessels and fishing communities that depend on the fisheries,including regional or port-specific landing or delivery requirements; and
 
 &emsp;&emsp;&emsp;(ii) procedures to address concerns over excessive geographic or other consolidation in the harvesting or processing sectors of the fishery;
 
@@ -172,7 +172,7 @@ Limited access privilege, quota share, or other limited access system authorizat
 
 #### (B) Petition
 
-&emsp;&emsp;A group of fishermen constituting more than 50 percent of the permit holders, or holding more than 50 percent of the allocation, in the fishery for which a limited access privilege program to harvest fish is sought, may submit a petition to the Secretary requesting that the relevant Council or Councils with authority over the fisherybe authorized to initiate the development of the program. Any such petition shall clearly state the fishery to which the limited access privilege program would apply. For multispecies permits in the Gulf of Mexico, only those participants who have substantially fished the species proposed to be included in the limited access program shall be eligible to sign a petition for such a program and shall serve as the basis for determining the percentage described in the first sentence of this subparagraph.
+&emsp;&emsp;A group of fishermen constituting more than 50 percent of the permit holders, or holding more than 50 percent of the allocation, in the fishery for which a limited access privilege program to harvest fish is sought, may submit a petition to the Secretary requesting that the relevant Council or Councils with authority over the fishery be authorized to initiate the development of the program. Any such petition shall clearly state the fishery to which the limited access privilege program would apply. For multispecies permits in the Gulf of Mexico, only those participants who have substantially fished the species proposed to be included in the limited access program shall be eligible to sign a petition for such a program and shall serve as the basis for determining the percentage described in the first sentence of this subparagraph.
 
 #### (C) Certification by Secretary
 
@@ -222,7 +222,7 @@ In establishing a limited access privilege program, a Council shall—
 
 &emsp;(1) develop a methodology and the means to identify and assess the management, data collection and analysis, and enforcement programs that are directly related to and in support of the program; and
 
-&emsp;(2) provide, under section 1854(d)(2) of this title, for a program of fees paid by limited access privilege holders that will cover the costsof management, data collection and analysis, and enforcement activities.
+&emsp;(2) provide, under section 1854(d)(2) of this title, for a program of fees paid by limited access privilege holders that will cover the costs of management, data collection and analysis, and enforcement activities.
 
 #### (f) Characteristics
 
@@ -270,7 +270,7 @@ The requirements of this section shall not apply to any quota program, including
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b), (c)(1)(G), (9), (g)(2), and (h), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (b), (c)(1)(G), (9), (g)(2), and (h), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, referred to in subsec. (h), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575. Section 302(f) of the Act (120 Stat. 3624) is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 1801 of this title and Tables.
 

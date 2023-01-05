@@ -18,7 +18,7 @@ The terms "home State" and "out-of-State bank" have the same meaning as in secti
 
 #### References in Text
 
-Section 1831u of this title, referred to in subsec. (c), was subsequently amended, and subsec. (f) of section 1831u no longer defines the terms "home State" and "out-of-State bank". However, such terms are defined elsewhere in that section.
+Section 1831u of this title, referred to in subsec. (c), was subsequently amended, and subsec. (f) of section 1831u no longer defines the terms "home State" and"out-of-State bank". However, such terms are defined elsewhere in that section.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

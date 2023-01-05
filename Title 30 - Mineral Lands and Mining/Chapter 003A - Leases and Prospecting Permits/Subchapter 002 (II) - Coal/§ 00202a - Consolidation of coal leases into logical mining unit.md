@@ -2,7 +2,7 @@
 
 #### (1) Approval by Secretary; public hearing; definition
 
-The Secretary, upon determining that maximum economic recovery of the coal deposit or deposits is served thereby, may approve the consolidation of coal leases into a logical mining unit. Such consolidation may only take placeafter a public hearing, if requested by any person whose interest is or may be adversely affected. A logical mining unit is an area of land in which the coal resources can be developed in an efficient, economical, and orderly manner as a unit with due regard to conservation of coal reserves and other resources. A logical mining unit may consist of one or more Federal leaseholds, and may include intervening or adjacent lands in which the United States does not own the coal resources, but all the lands in a logical mining unit must be under the effective control of a single operator, be able to be developed and operated as a single operation and be contiguous.
+The Secretary, upon determining that maximum economic recovery of the coal deposit or deposits is served thereby, may approve the consolidation of coal leases into a logical mining unit. Such consolidation may only take place after a public hearing, if requested by any person whose interest is or may be adversely affected. A logical mining unit is an area of land in which the coal resources can be developed in an efficient, economical, and orderly manner as a unit with due regard to conservation of coal reserves and other resources. A logical mining unit may consist of one or more Federal leaseholds, and may include intervening or adjacent lands in which the United States does not own the coal resources, but all the lands in a logical mining unit must be under the effective control of a single operator, be able to be developed and operated as a single operation and be contiguous.
 
 #### (2) Mining plan; requirements
 
@@ -46,7 +46,7 @@ Nothing in this section shall be construed to waive the acreage limitations for 
 
 The date of enactment of this Act, referred to in par. (5), probably means the date of enactment of Pub. L. 94–377, which was approved Aug. 4, 1976.
 
-This section, referred to in pars. (5) and (8), is section 2 of act Feb. 25, 1920, as amended, which is comprised of subsecs. (a) to (d). Subsecs. (a) and (b) of section 2 are classified to section 201 of this title, subsec. (c) of section 2 is classified to section 202 of this title, and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, is classified to this section.
+This section, referred to in pars. (5) and (8), is section 2 of act Feb. 25, 1920, which is comprised of subsecs. (a) to (d). Subsecs. (a) and (b) of section 2 are classified to section 201 of this title, subsec. (c) of section 2 is classified to section 202 of this title, and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, is classified to this section.
 
 #### Codification
 

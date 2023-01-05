@@ -44,7 +44,7 @@
 
 #### (B) Resources determination
 
-&emsp;&emsp;For purposes of subparagraph (A), in determining whether a child would have received aid under a State plan approved under section 602 of this title (as in effect on July 16, 1996), a child whose resources (determined pursuant to section 602(a)(7)(B) of this title, as so in effect) have a combined value of not more than $10,000 shall be considered a child whose resources have a combined value of not more than $1,000 (or such lower amount as the State may determine for purposes of section 602(a)(7)(B) of this title).
+&emsp;&emsp;For purposes of subparagraph (A), in determining whether a child would have receivedaid under a State plan approved under section 602 of this title (as in effect on July 16, 1996), a child whose resources (determined pursuant to section 602(a)(7)(B) of this title, as so in effect) have a combined value of not more than $10,000 shall be considered a child whose resources have a combined value of not more than $1,000 (or such lower amount as the State may determine for purposes of section 602(a)(7)(B) of this title).
 
 #### (4) Eligibility of certain alien children
 
@@ -162,7 +162,7 @@ Expenditures by a State that would be considered administrative expenditures for
 
 &emsp;&emsp;(B) the treatment facility provides, as part of the treatment for substance abuse, parenting skills training, parent education, and individual and family counseling; and
 
-&emsp;&emsp;(C) the substance abuse treatment, parenting skills training, parent education, and individual and family counseling is provided under an organizational structure and treatment framework that involves understanding, recognizing, and responding to the effects of all types of trauma and in accordance with recognized principles of a trauma-informed approach and trauma-specific interventions to address the consequences of trauma and facilitate healing.
+&emsp;&emsp;(C) the substance abuse treatment, parenting skills training, parent education, and individual and family counseling is provided under an organizational structure and treatment framework that involves understanding, recognizing, and responding to the effects of all types of trauma and in accordance with recognized principles of a trauma-informed approach and trauma-specificinterventions to address the consequences of trauma and facilitate healing.
 
 #### (2) Application
 
@@ -276,7 +276,7 @@ Subsec. (i). Pub. L. 109–171, §7403(a), added subsec. (i).
 
 <b>2005</b>—Subsec. (b). Pub. L. 109–113 struck out "nonprofit" before "private" in pars. (1) and (2).
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–169 inserted at end "In determining whether a child would have received aid under a State plan approved under section 602 of this title (as in effect on July 16, 1996), a child whose resources (determined pursuant to section 602(a)(7)(B) of this title, as so in effect) have a combined value of not more than $10,000 shall be considered to be a childwhose resources have a combined value of not more than $1,000 (or such lower amount as the State may determine for purposes of such section 602(a)(7)(B) of this title).
+<b>1999</b>—Subsec. (a). Pub. L. 106–169 inserted at end "In determining whether a child would have received aid under a State plan approved under section 602 of this title (as in effect on July 16, 1996), a child whose resources (determined pursuant to section 602(a)(7)(B) of this title, as so in effect) have a combined value of not more than $10,000 shall be considered to be a child whose resources have a combined value of not more than $1,000 (or such lower amount as the State may determine for purposes of such section 602(a)(7)(B) of this title).
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–33, §5513(b)(1), substituted "July 16, 1996" for "June 1, 1995" in introductory provisions.
 
@@ -350,7 +350,7 @@ Amendment by section 108(d)(3), (4) of Pub. L. 104–193 effective July 1, 1997,
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–432 effective with respect to fiscal years beginning on or after Apr. 1, 1996, seesection 202(e) of Pub. L. 103–432, set out as a note under section 622 of this title.
+Amendment by Pub. L. 103–432 effective with respect to fiscal years beginning on or after Apr. 1, 1996, see section 202(e) of Pub. L. 103–432, set out as a note under section 622 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -360,7 +360,7 @@ Pub. L. 100–203, title IX, §9133(c), Dec. 22, 1987, 101 Stat. 1330–315, pro
 
 Pub. L. 96–272, title I, §102(a)(1), June 17, 1980, 94 Stat. 513, as amended by Pub. L. 98–118, §3(a), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(1), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, 12306(c)(1), Apr. 7, 1986, 100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(1), Dec. 22, 1987, 101 Stat. 1330–313, provided that the amendment made by that section is effective with respect to expenditures made after Sept. 30, 1980.
 
-Pub. L. 96–272, title I, §102(c), June 17, 1980, 94 Stat. 515, as amended by Pub. L. 98–118, §3(b), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(2), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, §12306(c)(2), Apr. 7, 1986, 100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(2), Dec. 22, 1987, 101 Stat. 1330–313, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 608, 673, and 675 of this title\] shall be effective only with respect to expenditures made after September 30, 1979."
+Pub. L. 96–272, title I, §102(c), June 17, 1980, 94 Stat. 515, as amended by Pub. L. 98–118, §3(b), Oct. 11, 1983, 97 Stat. 803; Pub. L. 98–617, §4(c)(2), Nov. 8, 1984, 98 Stat. 3297; Pub. L. 99–272, title XII, §12306(c)(2), Apr. 7, 1986,100 Stat. 294; Pub. L. 100–203, title IX, §9131(a)(2), Dec. 22, 1987, 101 Stat. 1330–313, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 608, 673, and 675 of this title\] shall be effective only with respect to expenditures made after September 30, 1979."
 
 \[Pub. L. 100–203, title IX, §9131(b), Dec. 22, 1987, 101 Stat. 1330–313, provided that: "The amendments made by subsection (a) \[amending section 102(a)(1), (c), and (e) of Pub. L. 96–272, set out as notes under this section\] shall become effective October 1, 1987."\]
 

@@ -106,7 +106,7 @@ Pub. L. 99–590, title II, §201, Oct. 30, 1986, 100 Stat. 3332, provided that:
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–560, §1, Oct. 25, 1972, 86 Stat. 1174, provided: "That this Act \[amending section 1274 of this title and enacting provisions classified as a note under section1274 of this title\] may be cited as the 'Lower Saint Croix River Act of 1972'."
+Pub. L. 92–560, §1, Oct. 25, 1972, 86 Stat. 1174, provided: "That this Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the 'Lower Saint Croix River Act of 1972'."
 
 #### Short Title
 

@@ -86,7 +86,7 @@ Pub. L. 108–375, div. B, title XXVIII, §2809(c), Oct. 28, 2004, 118 Stat. 212
 
 "(5) No cash equalization payment may be made or accepted under the authority of this subsection after September 30, 2010. Except as otherwise specifically authorized by law, the authority provided by this subsection to make or accept cash equalization payments in connection with the acquisition or disposal of facilities of the reserve components is the sole authority available in law to the Secretary of Defense or the Secretary of a military department for that purpose.
 
-"(6) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the exercise of the authority providedby this subsection. The report shall include the following:
+"(6) Not later than March 1, 2008, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the exercise of the authority provided by this subsection. The report shall include the following:
 
 &emsp;"(A) A description of the exchange agreements under section 18240 of title 10, United States Code, that included the authority to make or accept cash equalization payments.
 

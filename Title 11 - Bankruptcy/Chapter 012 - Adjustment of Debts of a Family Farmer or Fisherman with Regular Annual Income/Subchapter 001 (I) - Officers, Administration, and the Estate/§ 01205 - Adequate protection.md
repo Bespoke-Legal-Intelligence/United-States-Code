@@ -8,7 +8,7 @@
 
 &emsp;(2) providing to such entity an additional or replacement lien to the extent that such stay, use, sale, lease, or grant results in a decrease in the value of property securing a claim or of an entity's ownership interest in property;
 
-&emsp;(3) paying to such entity for the use of farmland the reasonable rent customary in thecommunity where the property is located, based upon the rental value, net income, and earning capacity of the property; or
+&emsp;(3) paying to such entity for the use of farmland the reasonable rent customary in the community where the property is located, based upon the rental value, net income, and earning capacity of the property; or
 
 &emsp;(4) granting such other relief, other than entitling such entity to compensation allowable under section 503(b)(1) of this title as an administrative expense, as will adequately protect the value of property securing a claim or of such entity's ownership interest in property.
 

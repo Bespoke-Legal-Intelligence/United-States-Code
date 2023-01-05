@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall approve and disburse assistance under section 4143 of this title through eligible intermediaries selected by the Secretary under subsection (b). If the Secretary does not receive an acceptable proposal from an intermediary offering to administer assistance underthis section in a given State, the Secretary shall administer the program in such State directly.
+The Secretary shall approve and disburse assistance under section 4143 of this title through eligible intermediaries selected by the Secretary under subsection (b). If the Secretary does not receive an acceptable proposal from an intermediary offering to administer assistance under this section in a given State, the Secretary shall administer the program in such State directly.
 
 #### (b) Selection of eligible intermediaries
 
@@ -38,7 +38,7 @@ The Secretary shall approve and disburse assistance under section 4143 of this t
 
 #### (c) Conflicts of interest
 
-Eligible intermediaries selected under subsection (b) to disburse assistance under section 4143 of this title shall certify that they will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
+Eligible intermediaries selected under subsection (b) to disburse assistance under section4143 of this title shall certify that they will serve only as delegated program administrators, charged with the responsibility for reviewing and approving grant applications on behalf of the Secretary. Selected intermediaries shall—
 
 &emsp;(1) establish appropriate procedures for grant administration and fiscal management, pursuant to standards established by the Secretary; and
 
@@ -68,7 +68,7 @@ For purposes of this section, the term "eligible intermediary" means a State, re
 
 This title, referred to in subsec. (b)(2), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (b)(2), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which was classified principally as a note under section 1715l of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (b)(2), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which was classified principally as a note under section 1715l of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

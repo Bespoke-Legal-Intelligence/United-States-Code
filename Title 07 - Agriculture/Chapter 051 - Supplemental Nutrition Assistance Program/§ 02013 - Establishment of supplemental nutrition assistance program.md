@@ -36,7 +36,7 @@ Subject to the availability of funds appropriated under section 2027 of this tit
 
 #### (B) Waiver
 
-&emsp;&emsp;The Secretary shall waive up to 100 percent of the non-Federal share of the costs described in subparagraph (A) if the Secretary determines that—
+&emsp;&emsp;The Secretary shall waive up to 100 percent of the non-Federal share of the costsdescribed in subparagraph (A) if the Secretary determines that—
 
 &emsp;&emsp;&emsp;(i) the tribal organization is financially unable to provide a greater non-Federal share of the costs; or
 
@@ -118,7 +118,7 @@ Subsec. (b)(6)(D). Pub. L. 115–334, §4003(a)(2)(D), amended subpar. (D) gener
 
 &emsp;"(ii) purchase or offer to purchase those traditional foods that may be procured cost-effectively."
 
-Subsec. (b)(6)(E), (F). Pub. L. 115–334, §4003(a)(2)(E), (F), redesignated subpar. (F) as (E), substituted "2023" for "2018", and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: "Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the Houseof Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year."
+Subsec. (b)(6)(E), (F). Pub. L. 115–334, §4003(a)(2)(E), (F), redesignated subpar. (F) as (E), substituted "2023" for "2018", and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: "Not later than 1 year after the date of enactment of this paragraph, and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the activities carried out under this paragraph during the preceding calendar year."
 
 Subsec. (b)(7). Pub. L. 115–334, §4003(a)(3), added par. (7).
 

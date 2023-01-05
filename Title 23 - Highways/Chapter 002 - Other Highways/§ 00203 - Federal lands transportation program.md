@@ -44,7 +44,7 @@ Contract.—In connection with an activity described in paragraph (1), the Secre
 
 &emsp;(3)
 
-Administration.—All appropriations for the construction and improvement of Federallands transportation facilities shall be administered in conformity with regulations and agreements jointly approved by the Secretary and the Secretary of the appropriate Federal land managing agency.
+Administration.—All appropriations for the construction and improvement of Federal lands transportation facilities shall be administered in conformity with regulations and agreements jointly approved by the Secretary and the Secretary of the appropriate Federal land managing agency.
 
 &emsp;(4)
 
@@ -174,7 +174,7 @@ Review.—A decision to add or remove a facility from the inventory shall not be
 
 (d)
 
-Bicycle Safety.—The Secretary of the appropriate Federal land management agency shall prohibit the use of bicycles on each federally owned road that has a speed limit of 30 miles per hour or greater and an adjacent paved path for use by bicycles within 100 yards of the road unless the Secretary determines that thebicycle level of service on that roadway is rated B or higher.
+Bicycle Safety.—The Secretary of the appropriate Federal land management agency shall prohibit the use of bicycles on each federally owned road that has a speed limit of 30 miles per hour or greater and an adjacent paved path for use by bicycles within 100 yards of the road unless the Secretary determines that the bicycle level of service on that roadway is rated B or higher.
 
 (e)
 

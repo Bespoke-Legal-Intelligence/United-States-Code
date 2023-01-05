@@ -6,7 +6,7 @@ Any person who is a tax return preparer with respect to any return or claim for 
 
 #### (b) Failure to sign return
 
-Any person who is a tax return preparer with respect to any return or claim for refund, who is required by regulations prescribed by the Secretary to sign such return or claim, and who fails to comply with such regulations with respect to such return or claim shall pay a penalty of $50 for such failure, unless it is shown that such failure is due to reasonable cause and not due to willful neglect. The maximum penalty imposed under this subsection on any person with respect to documents filed during any calendar year shall not exceed $25,000.
+Any person who is a tax return preparer with respect to any return or claim for refund, who is required by regulations prescribed by the Secretary to sign such return or claim, and who fails to comply with such regulations with respect to such return or claim shall pay a penalty of $50 for such failure, unless it is shown that such failure is due to reasonable cause and notdue to willful neglect. The maximum penalty imposed under this subsection on any person with respect to documents filed during any calendar year shall not exceed $25,000.
 
 #### (c) Failure to furnish identifying number
 
@@ -120,7 +120,7 @@ Pub. L. 114–113, div. Q, title II, §207(c), Dec. 18, 2015, 129 Stat. 3083, pr
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 applicable to returns or claims for refund filed after Dec. 31, 2014, see section208(h) of Pub. L. 113–295, set out as a note under section 6651 of this title.
+Amendment by Pub. L. 113–295 applicable to returns or claims for refund filed after Dec. 31, 2014, see section 208(h) of Pub. L. 113–295, set out as a note under section 6651 of this title.
 
 #### Effective Date of 2011 Amendment
 

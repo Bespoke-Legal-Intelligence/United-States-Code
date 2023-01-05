@@ -13,12 +13,15 @@
 | [2495\.](%C2%A7%2002495%20-%20Nonappropriated%20fund%20instrumentalities%20purchase%20of%20alcoholic%20beverages.md) | Nonappropriated fund instrumentalities: purchase of alcoholic beverages. |
 | [2495a.](%C2%A7%2002495a%20-%20Overseas%20package%20stores%20treatment%20of%20United%20States%20wines.md) | Overseas package stores: treatment of United States wines. |
 | [2495b.](%C2%A7%2002495b%20-%20Sale%20or%20rental%20of%20sexually%20explicit%20material%20prohibited.md) | Sale or rental of sexually explicit material prohibited. |
+| [2496\.](%C2%A7%2002496%20-%20Sale%20of%20certain%20goods%20from%20the%20Xinjiang%20Uyghur%20Autonomous%20Region%20prohibited.md) | Sale of certain goods from the Xinjiang Uyghur Autonomous Region prohibited. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title VI, §651(b), Dec. 23, 2022, 136 Stat. 2639, added item 2496.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title VI, §651(b), Oct. 28, 2009, 123 Stat. 2369, added item 2492a.
 
@@ -74,3 +77,4 @@ Morale, Welfare, and Recreation Telephone Services Defined.—In this section, t
 - [&sect; 02495 - Nonappropriated fund instrumentalities purchase of alcoholic beverages](%C2%A7%2002495%20-%20Nonappropriated%20fund%20instrumentalities%20purchase%20of%20alcoholic%20beverages.md)
 - [&sect; 02495a - Overseas package stores treatment of United States wines](%C2%A7%2002495a%20-%20Overseas%20package%20stores%20treatment%20of%20United%20States%20wines.md)
 - [&sect; 02495b - Sale or rental of sexually explicit material prohibited](%C2%A7%2002495b%20-%20Sale%20or%20rental%20of%20sexually%20explicit%20material%20prohibited.md)
+- [&sect; 02496 - Sale of certain goods from the Xinjiang Uyghur Autonomous Region prohibited](%C2%A7%2002496%20-%20Sale%20of%20certain%20goods%20from%20the%20Xinjiang%20Uyghur%20Autonomous%20Region%20prohibited.md)

@@ -104,7 +104,7 @@ This section is the heart of the fresh start provisions of the bankruptcy law. S
 
 The next three grounds for denial of discharge center on the debtor's wrongdoing in or in connection with the bankruptcy case. They are derived from Bankruptcy Act §14c \[section 32(c) of former title 11\]. If the debtor, with intent to hinder, delay, or defraud his creditors or an officer of the estate, has transferred, removed, destroyed, mutilated, or concealed, or has permitted any such action with respect to, property of the debtor within the year preceding the case, or property of the estate after the commencement of the case, then the debtor is denied discharge. The debtor is also denied discharge if he has concealed, destroyed, mutilated, falsified, or failed to keep or preserve any books and records from which his financial condition might be ascertained, unless the act or failure to act was justified under all the circumstances of the case. The fourth ground for denial of discharge is the commission of a bankruptcy crime, although the standard of proof is preponderance of the evidence rather than proof beyond a reasonable doubt. These crimes include the making of a false oath or account, the use or presentation of a false claim, the giving or receiving of money for acting or forbearing to act, and the withholding from an officer of the estate entitled to possession of books and records relating to the debtor's financial affairs.
 
-The fifth ground for denial of discharge is the failure of the debtor to explain satisfactorily any loss of assets or deficiency of assets to meet the debtor's liabilities. The sixth ground concerns refusal to testify. It is a change from present law, under which the debtor may be denied discharge for legitimately exercising hisright against self-incrimination. Under this provision, the debtor may be denied discharge if he refuses to obey any lawful order of the court, or if he refuses to testify after having been granted immunity or after improperly invoking the constitutional privilege against self-incrimination.
+The fifth ground for denial of discharge is the failure of the debtor to explain satisfactorily any loss of assets or deficiency of assets to meet the debtor's liabilities. The sixth ground concerns refusal to testify. It is a change from present law, under which the debtor may be denied discharge for legitimately exercising his right against self-incrimination. Under this provision, the debtor may be denied discharge if he refuses to obey any lawful order of the court, or if he refuses to testify after having been granted immunity or after improperly invoking the constitutional privilege against self-incrimination.
 
 The seventh ground for denial of discharge is the commission of an act specified in grounds two through six during the year before the debtor's case in connection with another bankruptcy case concerning an insider.
 
@@ -124,7 +124,7 @@ Subsection (e) permits the trustee or a creditor to request revocation of a disc
 
 #### References in Text
 
-The Bankruptcy Act, referred to in subsec. (a)(7), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11.
+The Bankruptcy Act, referred to in subsec. (a)(7), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11.
 
 Sections 14, 371, and 476 of the Bankruptcy Act, referred to in subsec. (a)(8), are section 14 of act July 1, 1898, ch. 541, 30 Stat. 550, section 371 of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, §1, 52 Stat. 912, and section 476 of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, §1, 52 Stat. 924, which were classified to sections 32, 771, and 876 of former Title 11.
 
@@ -146,7 +146,7 @@ Subsec. (c). Pub. L. 99–554, §220, amended subsec. (c) generally, substitutin
 
 Subsec. (d). Pub. L. 99–554, §220, amended subsec. (d) generally, substituting ", a creditor, or the United States trustee," for "or a creditor," in provisions preceding par. (1) and "acquisition of or entitlement to such property" for "acquisition of, or entitlement to, such property" in par. (2).
 
-Subsec. (e). Pub. L. 99–554, §220, amended subsec. (e) generally, substituting "The trustee, a creditor, or the United States trustee may" for "The trustee or a creditor may" in provisions preceding par. (1), "section within" for "section, within" and "discharge is granted" for "discharge was granted" in par. (1), "section before" for "section, before" in provisions of par. (2) preceding subpar. (A), and "discharge; and" for "discharge; or" in par. (2)(A).
+Subsec. (e). Pub. L. 99–554, §220, amended subsec. (e) generally, substituting "The trustee, a creditor, or the United States trustee may" for "The trustee or a creditor may" in provisions preceding par. (1), "sectionwithin" for "section, within" and "discharge is granted" for "discharge was granted" in par. (1), "section before" for "section, before" in provisions of par. (2) preceding subpar. (A), and "discharge; and" for "discharge; or" in par. (2)(A).
 
 <b>1984</b>—Subsec. (a)(6)(C). Pub. L. 98–353, §480(a)(1), substituted "properly" for "property".
 

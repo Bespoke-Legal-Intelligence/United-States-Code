@@ -26,7 +26,7 @@ July 25, 1956, ch. 727, §6, 70 Stat. 649.
 
 31:706(proviso).
 
-In subsection (a), the words "indefinite period" are substituted for "not limited to a definite period oftime" for consistency in the revised title. The words "consecutive fiscal years" are substituted for "full consecutive fiscal years" to eliminate an unnecessary word.
+In subsection (a), the words "indefinite period" are substituted for "not limited to a definite period of time" for consistency in the revised title. The words "consecutive fiscal years" are substituted for "full consecutive fiscal years" to eliminate an unnecessary word.
 
 In subsection (b), the words "or were heretofore withdrawn from the appropriation account by administrative action" are omitted as executed.
 

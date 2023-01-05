@@ -2,7 +2,7 @@
 
 #### (a) Disclosure requirements for manufacturers or private labelers; procedures applicable
 
-(1) Nothing contained in this Act shall be construed to require the release of any information described by subsection (b) of section 552 of title5 or which is otherwise protected by law from disclosure to the public.
+(1) Nothing contained in this Act shall be construed to require the release of any information described by subsection (b) of section 552 of title 5 or which is otherwise protected by law from disclosure to the public.
 
 (2) All information reported to or otherwise obtained by the Commission or its representative under this Act which information contains or relates to a trade secret or other matter referred to in section 1905 of title 18 or subject to section 552(b)(4) of title 5 shall be considered confidential and shall not be disclosed.
 
@@ -30,7 +30,7 @@
 
 (2) If the Commission determines that a document claimed to be inaccurate by a manufacturer or private labeler under paragraph (1) should be disclosed because the Commission believes it has complied with paragraph (1), the Commission shall notify the manufacturer or private labeler that the Commission intends to disclose such document at a date not less than 5 days after the date of the receipt of notification. The Commission may provide a lesser period of notice of intent to disclose if the Commission publishes a finding that the public health and safety requires a lesser period of notice.
 
-(3)(A) Prior to the date set for release of the document, the manufacturer or private labeler receiving the notice described in paragraph (2) may bring an action in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the documents are located or in the United States District Court for the District of Columbia to enjoin disclosure of the document. The district court may enjoin such disclosure if the Commission has failed to take the reasonable steps prescribed in paragraph (1).
+(3)(A) Prior to the date set for release of the document, the manufacturer or private labeler receiving the notice described in paragraph (2) may bring an action in the district court of the United States in the district in which the complainant resides, or has his principal place of business, or in which the documents are located or in the United States District Court for the District of Columbia to enjoin disclosure of the document. The district court may enjoin suchdisclosure if the Commission has failed to take the reasonable steps prescribed in paragraph (1).
 
 (B) If the Commission determines that the public health and safety requires expedited consideration of an action brought under subparagraph (A), the Commission may file a request with the District Court for such expedited consideration. If the Commission files such a request, the District Court shall—
 
@@ -80,7 +80,7 @@ The Commission shall communicate to each manufacturer of a consumer product, ins
 
 &emsp;(B) use such information for any purpose other than to carry out the Commission's responsibilities; or
 
-&emsp;(C) permit anyone (other than the members, officers, and employees of the Commission orofficers or employees of the Department of Justice who require such information for an action filed on behalf of the Commission) to examine such information.
+&emsp;(C) permit anyone (other than the members, officers, and employees of the Commission or officers or employees of the Department of Justice who require such information for an action filed on behalf of the Commission) to examine such information.
 
 (2) Any report furnished under subsection (c)(1) or (c)(2)(A) of section 2084 of this title shall be immune from legal process and shall not be subject to subpoena or other discovery in any civil action in a State or Federal court or in any administrative proceeding, except in an action against such manufacturer under section 2069, 2070, or 2071 of this title for failure to furnish information required by section 2084 of this title.
 
@@ -96,13 +96,13 @@ The Commission shall communicate to each manufacturer of a consumer product, ins
 
 #### References in Text
 
-The Consumer Product Safety Act, referred to in subsec. (d)(1), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+The Consumer Product Safety Act, referred to in subsec. (d)(1), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
-The Flammable Fabrics Act, referred to in subsec. (d)(1), is act June 30, 1953, ch. 164, 67 Stat. 111, as amended, which is classified generally to chapter 25 (§1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1191 of this title and Tables.
+The Flammable Fabrics Act, referred to in subsec. (d)(1), is act June 30, 1953, ch. 164, 67 Stat. 111, which is classified generally to chapter 25 (§1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1191 of this title and Tables.
 
 The Poison Prevention Packaging Act, referred to in subsec. (d)(1), probably means the Poison Prevention Packaging Act of 1970, Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to chapter 39A (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
-The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
+The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
 #### Amendments
 

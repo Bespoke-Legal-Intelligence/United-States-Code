@@ -32,7 +32,7 @@ The partnership shall facilitate the establishment of a Civic Health Assessment 
 
 #### (3) Updates
 
-&emsp;The partnership shall periodically evaluate and update the Civic Health Assessment, and may expand or modify the indicators described in subsection (d)(1) as necessary to carry out the purposes of this section.
+&emsp;The partnership shall periodically evaluate and update the Civic Health Assessment, andmay expand or modify the indicators described in subsection (d)(1) as necessary to carry out the purposes of this section.
 
 #### (d) Data on the indicators
 

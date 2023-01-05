@@ -34,7 +34,7 @@ The Office of the Director of National Intelligence is composed of the following
 
 &emsp;(11) The Director of the National Counterterrorism Center.
 
-&emsp;(12) The Director of the National Counter Proliferation Center.
+&emsp;(12) The Director of the National Counter Proliferation Center.<sup>1</sup>
 
 &emsp;(13) The Chief Financial Officer of the Intelligence Community.
 
@@ -50,7 +50,7 @@ The Office of the Director of National Intelligence is composed of the following
 
 With respect to filling temporarily a vacancy in an office within the Office of the Director of National Intelligence (other than that of the Director of National Intelligence), section 3345(a)(3) of title 5 may be applied—
 
-&emsp;(1) in the matter preceding subparagraph (A), by substituting "an element of the intelligence community, as that term is defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))," <sup>1</sup> for "such Executive agency"; and
+&emsp;(1) in the matter preceding subparagraph (A), by substituting "an element of the intelligence community, as that term is defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))," <sup>2</sup> for "such Executive agency"; and
 
 &emsp;(2) in subparagraph (A), by substituting "the intelligence community" for "such agency".
 
@@ -94,11 +94,119 @@ Subsec. (e). Pub. L. 111–259, §403, amended subsec. (e) generally. Prior to a
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Reference to the National Counter Proliferation Center deemed to be a reference to the National Counterproliferation and Biosecurity Center, see section 401(e) of div. X of Pub. L. 117–103, set out as a References note under section 3057 of this title.
+
 #### Effective Date
 
 For Determination by President that section take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Intelligence Community Coordinator for Russian Atrocities Accountability
+
+Pub. L. 117–263, div. F, title LXV, §6512, Dec. 23, 2022, 136 Stat. 3543, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the congressional intelligence committees;
+
+&emsp;&emsp;"(B) the Subcommittee on Defense of the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(C) the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives.
+
+&emsp;"(2)
+
+Atrocity.—The term 'atrocity' means a war crime, crime against humanity, or genocide.
+
+&emsp;"(3)
+
+Commit.—The term 'commit', with respect to an atrocity, includes the planning, committing, aiding, and abetting of such atrocity.
+
+&emsp;"(4)
+
+Foreign person.—The term 'foreign person' means a person that is not a United States person.
+
+&emsp;"(5)
+
+Russian atrocity.—The term 'Russian atrocity' means an atrocity that is committed by an individual who is—
+
+&emsp;&emsp;"(A) a member of the armed forces, or the security or other defense services, of the Russian Federation;
+
+&emsp;&emsp;"(B) an employee of any other element of the Russian Government; or
+
+&emsp;&emsp;"(C) an agent or contractor of an individual specified in subparagraph (A) or (B).
+
+&emsp;"(6)
+
+United states person.—The term 'United States person' has the meaning given that term in section 105A(c) of the National Security Act of 1947 (50 U.S.C. 3039).
+
+"(b)
+
+Intelligence Community Coordinator for Russian Atrocities Accountability.—
+
+&emsp;"(1)
+
+Designation.—Not later than 30 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Director of National Intelligence shall designate a senior official of the Office of the Director of National Intelligence to serve as the intelligence community coordinator for Russian atrocities accountability (in this section referred to as the 'Coordinator').
+
+&emsp;"(2)
+
+Duties.—The Coordinator shall oversee the efforts of the intelligence community relating to the following:
+
+&emsp;&emsp;"(A) Identifying, and (as appropriate) disseminating within the United States Government, intelligence relating to the identification, location, or activities of foreign persons suspected of playing a role in committing Russian atrocities in Ukraine.
+
+&emsp;&emsp;"(B) Identifying analytic and other intelligence needs and priorities of the intelligence community with respect to the commitment of such Russian atrocities.
+
+&emsp;&emsp;"(C) Addressing any gaps in intelligence collection relating to the commitment of such Russian atrocities and developing recommendations to address any gaps so identified, including by recommending the modification of the priorities of the intelligence community with respect to intelligence collection.
+
+&emsp;&emsp;"(D) Collaborating with appropriate counterparts across the intelligence community to ensure appropriate coordination on, and integration of the analysis of, the commitment of such Russian atrocities.
+
+&emsp;&emsp;"(E) Identifying intelligence and other information that may be relevant to preserve evidence of potential war crimes by Russia, consistent with the public commitments of the United States to support investigations into the conduct of Russia.
+
+&emsp;&emsp;"(F) Ensuring the Atrocities Early Warning Task Force and other relevant departments and agencies of the United States Government receive appropriate support from the intelligence community with respect to the collection, analysis, preservation, and, as appropriate, dissemination, of intelligence related to Russian atrocities in Ukraine.
+
+&emsp;"(3)
+
+Plan required.—Not later than 30 days after the date of enactment of this Act, the Director of National Intelligence shall submit to the appropriate committees of Congress—
+
+&emsp;&emsp;"(A) the name of the official designated as the Coordinator pursuant to paragraph (1); and
+
+&emsp;&emsp;"(B) the strategy of the intelligence community for the collection of intelligence related to Russian atrocities in Ukraine, including a detailed description of how the Coordinator shall support, and assist in facilitating the implementation of, such strategy.
+
+&emsp;"(4)
+
+Annual report to congress.—
+
+&emsp;&emsp;"(A)
+
+Reports required.—Not later than May 1, 2023, and annually thereafter until May 1, 2026, the Director of National Intelligence shall submit to the appropriate committees of Congress a report detailing, for the year covered by the report—
+
+&emsp;&emsp;&emsp;"(i) the analytical findings and activities of the intelligence community with respect to Russian atrocities in Ukraine; and
+
+&emsp;&emsp;&emsp;"(ii) the recipients of information shared pursuant to this section for the purpose of ensuring accountability for such Russian atrocities, and the date of any such sharing.
+
+&emsp;&emsp;"(B)
+
+Form.—Each report submitted under subparagraph (A) may be submitted in classified form, consistent with the protection of intelligence sources and methods.
+
+&emsp;&emsp;"(C)
+
+Supplement.—The Director of National Intelligence may supplement an existing reporting requirement with the information required under subparagraph (A) on an annual basis to satisfy that requirement with prior notification of intent to do so to the appropriate committees of Congress.
+
+"(c)
+
+Sunset.—This section shall cease to have effect on the date that is 4 years after the date of the enactment of this Act \[Dec. 23, 2022\]."
+
+\[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 6512 of Pub. L. 117–263, set out above, see section 6002 of Pub. L. 117–263, set out as a note under section 3003 of this title.\]
+
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

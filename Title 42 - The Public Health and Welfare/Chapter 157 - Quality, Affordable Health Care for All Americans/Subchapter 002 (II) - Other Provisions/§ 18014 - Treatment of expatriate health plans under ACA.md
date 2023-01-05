@@ -50,7 +50,7 @@ In this section:
 
 &emsp;The term "expatriate health plan" means a group health plan, health insurance coverage offered in connection with a group health plan, or health insurance coverage offered to a group of individuals described in paragraph (3)(C) (which may include spouses, dependents, and other individuals enrolled in the plan) that meets each of the following standards:
 
-&emsp;&emsp;(A) Substantially all of the primary enrollees in such plan or coverage are qualified expatriates with respect to such plan or coverage. In applying the previous sentence, an individual shall not be considered a primaryenrollee if the individual is not a national of the United States and the individual resides in the country of which the individual is a citizen.
+&emsp;&emsp;(A) Substantially all of the primary enrollees in such plan or coverage are qualified expatriates with respect to such plan or coverage. In applying the previous sentence, an individual shall not be considered a primary enrollee if the individual is not a national of the United States and the individual resides in the country of which the individual is a citizen.
 
 &emsp;&emsp;(B) Substantially all of the benefits provided under the plan or coverage are not excepted benefits described in section 9832(c) of title 26.
 
@@ -64,7 +64,7 @@ In this section:
 
 &emsp;&emsp;(D) The plan sponsor reasonably believes that the benefits provided by the expatriate health plan satisfy a standard at least actuarially equivalent to the level provided for in section 36B(c)(2)(C)(ii) of title 26.
 
-&emsp;&emsp;(E) If the plan or coverage provides dependent coverage of children, the plan or coverage makes such dependent coverage available for adult children until the adult child turns 26 years of age, unless such individual is the child of a child receiving dependent coverage.
+&emsp;&emsp;(E) If the plan or coverage provides dependent coverage of children, the plan or coverage makes such dependent coverage available for adult children until the adultchild turns 26 years of age, unless such individual is the child of a child receiving dependent coverage.
 
 &emsp;&emsp;(F) The plan or coverage—
 
@@ -130,7 +130,7 @@ Unless otherwise specified, this Act shall take effect on December 16, 2014, and
 
 #### References in Text
 
-The Patient Protection and Affordable Care Act, referred to in subsecs. (a), (c), and (d)(2)(F)(i), (G), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 9010 of the Act was set out as a note preceding section 4001 of Title 26, Internal Revenue Code, prior to repeal by Pub. L. 116–94, div. N, title I, §502(a), Dec. 20, 2019, 133 Stat. 3119. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
+The Patient Protection and Affordable Care Act, referred to in subsecs. (a), (c), and (d)(2)(F)(i), (G), is Pub.L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 9010 of the Act was set out as a note preceding section 4001 of Title 26, Internal Revenue Code, prior to repeal by Pub. L. 116–94, div. N, title I, §502(a), Dec. 20, 2019, 133 Stat. 3119. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
 The Health Care and Education Reconciliation Act of 2010, referred to in subsecs. (a) and (d)(2)(G), is Pub. L. 111–152, Mar. 30, 2010, 124 Stat. 1029. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1305 of this title and Tables.
 

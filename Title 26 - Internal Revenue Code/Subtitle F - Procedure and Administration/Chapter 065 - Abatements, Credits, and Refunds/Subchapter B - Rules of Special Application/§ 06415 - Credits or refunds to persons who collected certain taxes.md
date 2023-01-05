@@ -10,7 +10,7 @@ Any person entitled to a refund of tax imposed by section 4251, 4261, or 4271 pa
 
 #### (c) Refund of overcollections
 
-In case any person required under section 4251, 4261, or 4271 to collect any tax shall make anovercollection of such tax, such person shall, upon proper application, refund such overcollection to the person entitled thereto.
+In case any person required under section 4251, 4261, or 4271 to collect any tax shall make an overcollection of such tax, such person shall, upon proper application, refund such overcollection to the person entitled thereto.
 
 #### (d) Refund of taxable payment
 
@@ -26,7 +26,7 @@ Any person making a refund of any payment on which tax imposed by section 4251, 
 
 <b>1970</b>—Pub. L. 91–258 inserted reference to section 4271 in four places.
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–44, §601(b)(1), (2), substituted "section 4251 or 4261" for "sections 4231(1), 4231(2), 4231(3), 4241, 4245, 4261, or 4286" and struck out last sentence which referred to payment outside the United States of taxes imposed under pars. (1), (2) and (3) of section 4231.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44, §601(b)(1), (2), substituted "section 4251 or 4261" for "sections 4231(1),4231(2), 4231(3), 4241, 4245, 4261, or 4286" and struck out last sentence which referred to payment outside the United States of taxes imposed under pars. (1), (2) and (3) of section 4231.
 
 Subsecs. (b) to (d). Pub. L. 89–44, §601(b)(1), substituted "section 4251 or 4261" for "section 4231(1), 4231(2), 4231(3), 4241, 4245, 4261, or 4286" wherever appearing.
 

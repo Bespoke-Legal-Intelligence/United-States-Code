@@ -130,7 +130,7 @@ Subsec. (c)(4). Pub. L. 116–283, §1832(i)(4)(F), redesignated cls. (i) to (ii
 
 Subsec. (c)(5). Pub. L. 116–283, §1832(i)(4)(G), substituted "paragraphs (1), (2), (3), or (4)" for "subparagraph (A), (B), (C), or (D)".
 
-Subsec. (d). Pub. L. 116–283, §1832(i)(2), (5), redesignated par. (3) of section 2324(k) of this title as subsec. (d) of this section, inserted heading, and substituted"subsection (b)" for "paragraph (1)" and "such subsection" for "such paragraph".
+Subsec. (d). Pub. L. 116–283, §1832(i)(2), (5), redesignated par. (3) of section 2324(k) of this title as subsec. (d) of this section, inserted heading, and substituted "subsection (b)" for "paragraph (1)" and "such subsection" for "such paragraph".
 
 Subsec. (e). Pub. L. 116–283, §1832(i)(2), (6), redesignated par. (4) of section 2324(k) of this title as subsec. (e) of this section, inserted heading, and substituted "subsection (b)" for "paragraph (1)", "(1)" for "(A)", and "(2)" for "(B)".
 

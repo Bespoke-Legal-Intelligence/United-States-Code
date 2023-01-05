@@ -70,7 +70,7 @@ Pub. L. 104–201, div. A, title XVI, §1611(b), Sept. 23, 1996, 110 Stat. 2739,
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–138, title I, §147(b)(2), Oct. 28, 1991, 105 Stat. 669, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to service as part of a tour of duty or extension thereof commencing on or after the date of enactment of this Act \[Oct. 28, 1991\]."
+Pub. L. 102–138, title I, §147(b)(2), Oct. 28, 1991, 105 Stat. 669, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply with respect to service as part of a tour of duty or extension thereof commencing on or after the date of enactment of this Act \[Oct. 28, 1991\]."
 
 #### Effective Date of 1990 Amendment
 

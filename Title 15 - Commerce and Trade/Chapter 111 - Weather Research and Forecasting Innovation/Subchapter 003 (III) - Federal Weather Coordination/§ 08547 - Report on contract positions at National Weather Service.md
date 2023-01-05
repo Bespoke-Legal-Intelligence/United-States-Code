@@ -8,7 +8,7 @@ Not later than 180 days after April 18, 2017, the Under Secretary shall submit t
 
 The report required by subsection (a) shall include, with respect to the most recently completed fiscal year, the following:
 
-&emsp;(1) The total number of full-time equivalent employees at the National Weather Service, disaggregated by each equivalent level of the General Schedule.
+&emsp;(1) The total number of full-time equivalent employees at the National Weather Service,disaggregated by each equivalent level of the General Schedule.
 
 &emsp;(2) The total number of full-time equivalent contractors at the National Weather Service, disaggregated by each equivalent level of the General Schedule that most closely approximates their duties.
 
@@ -22,7 +22,7 @@ The report required by subsection (a) shall include, with respect to the most re
 
 &emsp;(7) The average salary for full-time equivalent contractors performing at each equivalent level of the General Schedule at the National Weather Service.
 
-&emsp;(8) A description of any actions taken by the Under Secretary to respond to the issuesraised by the Inspector General of the Department of Commerce regarding the hiring of former National Oceanic and Atmospheric Administration employees as contractors at the National Weather Service such as the issues raised in the Investigative Report dated June 2, 2015 (OIG–12–0447).
+&emsp;(8) A description of any actions taken by the Under Secretary to respond to the issues raised by the Inspector General of the Department of Commerce regarding the hiring of former National Oceanic and Atmospheric Administration employees as contractors at the National Weather Service such as the issues raised in the Investigative Report dated June 2, 2015 (OIG–12–0447).
 
 #### (c) Annual publication
 

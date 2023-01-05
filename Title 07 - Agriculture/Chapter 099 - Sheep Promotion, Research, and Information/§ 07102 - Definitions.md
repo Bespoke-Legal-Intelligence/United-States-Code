@@ -12,7 +12,7 @@ As used in this chapter (unless the context clearly requires otherwise):
 
 #### (3) Consumer information
 
-&emsp;The term "consumer information" means nutritional data and other information that will assist consumers and other persons inmaking evaluations and decisions regarding the purchase, preparation, or use of sheep products.
+&emsp;The term "consumer information" means nutritional data and other information that will assist consumers and other persons in making evaluations and decisions regarding the purchase, preparation, or use of sheep products.
 
 #### (4) Customs Service
 

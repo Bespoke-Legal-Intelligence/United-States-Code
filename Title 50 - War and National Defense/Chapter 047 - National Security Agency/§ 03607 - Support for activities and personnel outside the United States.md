@@ -24,7 +24,7 @@ The authority of the Director of the National Security Agency, on behalf of the 
 
 #### (d) Members of Armed Forces
 
-Members of the Armed Forces may not receive benefits under both subsection (b)(1) and title 37for the same purpose. The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.
+Members of the Armed Forces may not receive benefits under both subsection (b)(1) and title 37 for the same purpose. The Secretary of Defense shall prescribe such regulations as may be necessary to carry out this subsection.
 
 #### (e) Regulations
 

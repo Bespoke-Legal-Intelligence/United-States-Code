@@ -18,13 +18,19 @@
 
 &emsp;(8)(A) Transportation of the remains, and travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 for an escort of one person, to the place, subject to subparagraph (B), selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized.
 
-&emsp;(B) The person designated to direct disposition of the remains may select two places under subparagraph (A) if the second place is a national cemetery. If that person selects two places, the Secretary concerned may pay for transportation to the second place only by means of reimbursement under subsection (b).
+&emsp;(B) The person designated to direct disposition of the remains may select two places under subparagraph (A) if the second place isa national cemetery. If that person selects two places, the Secretary concerned may pay for transportation to the second place only by means of reimbursement under subsection (b).
 
 &emsp;(C) When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.
 
 &emsp;(9) Interment or inurnment of the remains.
 
 &emsp;(10) In the case of a decedent under the jurisdiction of a Secretary of a military department at the time of death, enduring care of remains interred in a foreign cemetery if the burial location was designated by such Secretary.
+
+&emsp;(11)(A) Delivery of personal effects of a decedent to the next of kin or other appropriate person.
+
+&emsp;(B) If the Secretary concerned enters into an agreement with an entity to carry out subparagraph (A), the Secretary concerned may, at the request of the person described in such subparagraph, pursue a claim against such entity that arises from the failure of such entity to substantially perform such subparagraph.
+
+&emsp;(C) If an entity described in subparagraph (B) fails to substantially perform subparagraph (A) by damaging, losing, or destroying the personal effects of a decedent, the Secretary concerned shall reimburse the person designated under subsection (c) the greater of $1,000 or the fair market value of such damage, loss, or destruction. The Secretary concerned may request, from the person designated under subsection (c), proof of fair market value and ownership of the personal effects.
 
 (b) If an individual pays any expense payable by the United States under this section, the Secretary concerned shall reimburse him or his representative in an amount not larger than that normally incurred by the Secretary in furnishing the supply or service concerned. If reimbursement by the United States is also authorized under another provision of law or regulation, the individual may elect under which provision to be reimbursed.
 
@@ -68,7 +74,7 @@ Presentation of Flag of the United States.—(1) In the case of a decedent cover
 
 (3) A flag to be presented to a person under subparagraph (B), (C), or (D) of paragraph (1) shall be of equal size to the flag presented under subparagraph (A) of such paragraph to the person designated to direct disposition of the remains of the decedent.
 
-(4) This subsection does not apply to a military prisoner who dies while in the custody of the Secretary concerned and while under a sentence that includes a discharge.
+(4) This subsection does not apply to a military prisoner who dies while in the custody ofthe Secretary concerned and while under a sentence that includes a discharge.
 
 (5) In this subsection:
 
@@ -76,7 +82,7 @@ Presentation of Flag of the United States.—(1) In the case of a decedent cover
 
 &emsp;(B) The term "child" has the meaning prescribed by section 1477(d) of this title.
 
-(f) The payment of expenses incident to the recovery, care, and disposition of a decedent covered by section 1481(a)(9) of this title is limitedto the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.
+(f) The payment of expenses incident to the recovery, care, and disposition of a decedent covered by section 1481(a)(9) of this title is limited to the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.
 
 (g)(1) The payment of expenses incident to the recovery, care, and disposition of the remains of a decedent covered by section 1481(a)(10) of this title is limited to those expenses that, as determined under regulations prescribed by the Secretary of Defense, would not have been incurred but for the retention of those remains for purposes of a forensic pathology investigation by the Armed Forces Medical Examiner under section 1471 of this title.
 
@@ -86,7 +92,7 @@ Presentation of Flag of the United States.—(1) In the case of a decedent cover
 
 (4) The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available at the time of reimbursement for the payment of such expenses.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397, Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, §638(b)(1), Dec. 28, 2001, 115 Stat. 1147; Pub. L. 110–181, div. A, title V, §591, Jan. 28, 2008, 122 Stat. 138; Pub. L. 110–417, \[div. A\], title V, §581, Oct. 14, 2008, 122 Stat. 4472; Pub. L. 112–81, div. A, title V, §528, Dec. 31, 2011, 125 Stat. 1402; Pub. L. 113–66, div. A, title VI, §§621(e), 651(a)(2)–(c), Dec. 26, 2013, 127 Stat. 784, 787, 788; Pub. L. 115–91, div. A, title VI, §632, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–92, div. A, title V, §573(a), Dec. 20, 2019, 133 Stat. 1404.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 113; Pub. L. 85–716, Aug. 21, 1958, 72 Stat. 708; Pub. L. 91–397, Sept. 1, 1970, 84 Stat. 837; Pub. L. 91–487, Oct. 22, 1970, 84 Stat. 1086; Pub. L. 93–292, May 28, 1974, 88 Stat. 176; Pub. L. 93–649, Jan. 8, 1975, 88 Stat. 2361; Pub. L. 101–189, div. A, title VI, §§652(a)(3), 653(a)(6), title XVI, §1622(c)(4), Nov. 29, 1989, 103 Stat. 1461, 1462, 1604; Pub. L. 103–337, div. A, title VI, §652(a)(2), title XVI, §1671(c)(8), Oct. 5, 1994, 108 Stat. 2793, 3014; Pub. L. 104–106, div. A, title XV, §1501(c)(19), Feb. 10, 1996, 110 Stat. 499; Pub. L. 107–107, div. A, title VI, §638(b)(1), Dec. 28, 2001, 115 Stat. 1147; Pub. L. 110–181, div. A, title V, §591, Jan. 28, 2008, 122 Stat. 138; Pub. L. 110–417, \[div. A\], title V, §581, Oct. 14, 2008, 122 Stat. 4472; Pub. L. 112–81, div. A, title V, §528, Dec. 31, 2011, 125 Stat. 1402; Pub. L. 113–66, div. A, title VI, §§621(e), 651(a)(2)–(c), Dec. 26, 2013, 127 Stat. 784, 787, 788; Pub. L. 115–91, div. A, title VI, §632, Dec. 12, 2017, 131 Stat. 1431; Pub. L. 116–92, div. A, title V, §573(a), Dec. 20, 2019, 133 Stat. 1404; Pub. L. 117–263, div. A, title VI, §641, Dec. 23, 2022, 136 Stat. 2633.)
 
 Historical and Revision Notes
 
@@ -139,6 +145,8 @@ In subsection (c), 5:2162 (1st sentence) is omitted since the Secretary has inhe
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(11). Pub. L. 117–263 added par. (11).
 
 <b>2019</b>—Subsec. (a)(8). Pub. L. 116–92 amended par. (8) generally. Prior to amendment, par. (8) read as follows: "Transportation of the remains, and travel and transportation allowances as specified in regulations prescribed under section 464 of title 37 for an escort of one person, to the place selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized. When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; 10 U.S.C. 1482 note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee."
 
@@ -230,7 +238,23 @@ Elements.—The policy developed under paragraph (1) shall include, but not be l
 
 #### Transportation of Remains of Casualties
 
-Pub. L. 116–92, div. A, title V, §580A(b), Dec. 20, 2019, 133 Stat. 1408, provided that: "The Secretary of Defense shall extend travel privileges via Invitational Travel Authorization to family members of members of the Armed Forces who die outside of the United States and whose remains are returned to the United States through the mortuary facility at Dover Air Force Base, Delaware."
+Pub. L. 116–92, div. A, title V, §580A(b), (c), Dec. 20, 2019, 133 Stat. 1408, as amended by Pub. L. 117–263, div. A, title V, §573, Dec. 23, 2022, 136 Stat. 2601, provided that:
+
+"(b)
+
+Transportation for Family.—The Secretary of Defense shall extend travel privileges via Invitational Travel Authorization to family members of members of the Armed Forces who die outside of the United States and whose remains are returned to the United States through the mortuary facility at Dover Air Force Base, Delaware.
+
+"(c)
+
+Transportation of Deceased Military Member.—In the event of a death that requires the Secretary concerned to provide a death benefit under subchapter II of chapter 75 of title 10, United States Code, such Secretary—
+
+&emsp;"(1) shall provide the next of kin or other appropriate person a commercial air travel use waiver for the transportation of deceased remains of military member who dies outside of—
+
+&emsp;&emsp;"(A) the United States; and
+
+&emsp;&emsp;"(B) a theater of combat operations; or
+
+&emsp;"(2) may provide the next of kin or other appropriate person a commercial air travel use waiver for the transportation of deceased remains of military member who dies inside a theater of combat operations."
 
 Pub. L. 109–364, div. A, title V, §562, Oct. 17, 2006, 120 Stat. 2220, as amended by Pub. L. 116–92, div. A, title V, §§573(b), 580A(a), Dec. 20, 2019, 133 Stat. 1404, 1408, provided that:
 

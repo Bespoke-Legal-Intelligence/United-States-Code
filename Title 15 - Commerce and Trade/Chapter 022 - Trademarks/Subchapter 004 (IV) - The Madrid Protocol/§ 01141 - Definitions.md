@@ -46,7 +46,7 @@ In this subchapter:
 
 #### (10) International Register
 
-&emsp;The term "International Register" means the official collection of data concerning international registrations maintained by the International Bureau that the Madrid Protocol or its implementing regulations require or permit to be recorded.
+&emsp;The term "International Register" means the official collection of data concerninginternational registrations maintained by the International Bureau that the Madrid Protocol or its implementing regulations require or permit to be recorded.
 
 #### (11) International registration
 

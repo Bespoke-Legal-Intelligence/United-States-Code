@@ -50,7 +50,7 @@ The Secretary shall provide from the funds appropriated under subsection (d)(1)(
 
 &emsp;&emsp;(B) A reduction in premium trends, actual premiums, or other cost-sharing requirements.
 
-&emsp;&emsp;(C) An expansion or broadening of the pool of individuals eligible for coverage, such as through eliminating waiting lists, increasing enrollment caps, or providing flexibility in enrollment rules.
+&emsp;&emsp;(C) An expansion or broadening of the pool of individuals eligible for coverage, such asthrough eliminating waiting lists, increasing enrollment caps, or providing flexibility in enrollment rules.
 
 &emsp;&emsp;(D) Less stringent rules, or additional waiver authority, with respect to coverage of pre-existing conditions.
 
@@ -144,7 +144,7 @@ In this section:
 
 #### Construction
 
-Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 35 of Title 26, Internal Revenue Code.
+Nothing in the amendments made by title II of Pub. L. 107–210, other than provisions relating to COBRAcontinuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 35 of Title 26, Internal Revenue Code.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

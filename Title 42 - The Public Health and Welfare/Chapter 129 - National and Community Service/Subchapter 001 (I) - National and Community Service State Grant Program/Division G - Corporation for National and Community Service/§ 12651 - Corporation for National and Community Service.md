@@ -98,7 +98,7 @@ Reorganization.—The Chief Executive Officer is authorized to allocate or reall
 
 "(5)
 
-Transfer and allocations of appropriations and personnel.—Except as otherwise provided in this subsection, the personnel employed in connection with, and the assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred by this subsection, subject to section 1531 of title 31, United States Code, shall be transferred to the Corporation. Unexpended funds transferred pursuant to this paragraph shall be used only for the purposes for which the funds were originally authorized and appropriated.
+Transfer and allocations of appropriations and personnel.—Except as otherwise provided in this subsection, the personnel employed in connection with, and the assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used,held, arising from, available to, or to be made available in connection with the functions transferred by this subsection, subject to section 1531 of title 31, United States Code, shall be transferred to the Corporation. Unexpended funds transferred pursuant to this paragraph shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 "(6)
 
@@ -140,7 +140,7 @@ Proceedings not affected.—The provisions of this subsection shall not affect a
 
 &emsp;"(C)
 
-Suits not affected.—The provisions of this subsection shall not affect suits commenced beforethe effective date of this subsection, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this subsection had not been enacted.
+Suits not affected.—The provisions of this subsection shall not affect suits commenced before the effective date of this subsection, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this subsection had not been enacted.
 
 &emsp;"(D)
 
@@ -180,7 +180,7 @@ Planning Study.—The Corporation shall conduct a study to identify—
 
 "(b)
 
-Consultation.—The study shall be carried out in consultation with the Secretary of Labor, State labor agencies, and other individuals and entities the Corporation considers appropriate.
+Consultation.—The study shall be carried out in consultation with the Secretary of Labor, State laboragencies, and other individuals and entities the Corporation considers appropriate.
 
 "(c)
 
@@ -204,7 +204,7 @@ Pub. L. 103–82, title II, §202(d), Sept. 21, 1993, 107 Stat. 888, provided th
 
 #### Business Plan for Corporation for National and Community Service
 
-Pub. L. 103–82, title II, §204, Sept. 21, 1993, 107 Stat. 895, provided that:
+Pub. L. 103–82, title II, §204, Sept. 21, 1993, 107 Stat. 895, as amended by Pub. L. 117–286, §4(b)(84), Dec. 27, 2022, 136 Stat. 4352, provided that:
 
 "(a)
 
@@ -240,9 +240,9 @@ Allocation of funds.—The business plan shall contain—
 
 Investigative and audit functions.—The business plan shall include a description of the plans of the Corporation—
 
-&emsp;&emsp;"(A) to ensure continuity, during the transition period, and after the transition period, in the investigative and audit functions carried out by the Inspector General of ACTION prior to such period, consistent with the Inspector General Act of 1978 (5 U.S.C. App.); and
+&emsp;&emsp;"(A) to ensure continuity, during the transition period, and after the transition period, in the investigative and audit functions carried out by the Inspector General of ACTION prior to such period, consistent with chapter 4 of title 5, United States Code; and
 
-&emsp;&emsp;"(B) to carry out investigative and audit functions and implement financial management controls regarding programs carried out by the Corporation after October 1, 1993, consistent with the Inspector General Act of 1978, including a specific description of—
+&emsp;&emsp;"(B) to carry out investigative and audit functions and implement financial management controls regarding programs carried out by the Corporation after October 1, 1993, consistent with chapter 4 of title 5, United States Code, including a specific description of—
 
 &emsp;&emsp;&emsp;"(i) the manner in which the Office of Inspector General shall be established in the Corporation, in accordance with section 194(b) of the National Community Service Act of 1990 \[42 U.S.C. 12651e(b)\], as added by section 202 of this Act; and
 
@@ -294,7 +294,7 @@ Duplication of functions.—The business plan shall include a description of the
 
 "(c)
 
-Definition.—The term 'transition period' means the period beginning on October 1, 1993 and ending on the day before the effective date of section 203(c)(2) \[see Effective Date of 1993 Amendment note above\]."
+Definition.—The term 'transition period' means the period beginning on October 1, 1993 and ending onthe day before the effective date of section 203(c)(2) \[see Effective Date of 1993 Amendment note above\]."
 
 #### <b>Executive Documents</b>
 
@@ -328,7 +328,7 @@ Sec. 3. The selection process for the award shall be administered by the Commiss
 
 Sec. 4. The award shall be presented by the President, his designee or designees, or individuals designated by the Director of the White House Office of National Service.
 
-Sec. 5. The name and design of the award shall be approved by the President upon the recommendation ofthe Director of the White House Office of National Service.
+Sec. 5. The name and design of the award shall be approved by the President upon the recommendation of the Director of the White House Office of National Service.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -356,7 +356,7 @@ Sec. 2. <i>Mission and Functions of the Council.</i>
 
 (iv) promote greater public access to information about existing volunteer opportunities, including via the Internet;
 
-(v) assist with the promotion of Federally administered volunteer programs and the link that they have to increasing and strengthening community volunteer service; and
+(v) assist with the promotion of Federally administered volunteer programs and the link that they haveto increasing and strengthening community volunteer service; and
 
 (vi) promote increased and sustained private sector sponsorship of and engagement in volunteer service.
 
@@ -382,7 +382,7 @@ Sec. 3. <i>Administration</i>. (a) Each Federal agency, to the extent permitted 
 
 (e) The Council, with the approval of the Chief Executive Officer of the CNCS, may establish subcommittees of the Council, consisting exclusively of members of the Council, as appropriate to aid the Council in carrying out its mission under this order.
 
-Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of CNCS in accordance with the guidelines and procedures issued by the Administrator of General Services.
+Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of CNCS in accordance with the guidelines and procedures issued by the Administrator of General Services.
 
 (b) Unless further extended by the President, this order shall expire on June 30, 2009.
 

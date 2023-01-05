@@ -38,7 +38,7 @@
 
 #### (2) Funding
 
-&emsp;Of the funds made available to carry out this subpart, the Secretary shall carry out this subsection using $37,500,000 for each of fiscal years 2019 through 2023.
+&emsp;Of the funds made available to carry out this subpart, the Secretary shall carry out this subsection using $37,500,000 for each of fiscal years 2019 through 2031.
 
 #### (c) On-farm conservation innovation trials
 
@@ -80,7 +80,7 @@
 
 #### (2) Testing new or innovative conservation approaches
 
-&emsp;Using $25,000,000 of the funds made available to carry out this subpart for each of fiscal years 2019 through 2023, the Secretary shall carry out on-farm conservation innovation trials, on eligible land of producers, to test new or innovative conservation approaches—
+&emsp;Using $25,000,000 of the funds made available to carry out this subpart for each of fiscal years 2019 through 2031, the Secretary shall carry out on-farm conservation innovation trials, on eligible land of producers, to test new or innovative conservation approaches—
 
 &emsp;&emsp;(A) directly with producers; or
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;&emsp;(iii) meet the goals described in clauses (i) and (ii);
 
-&emsp;&emsp;(B) to establish protocols for measuring carbon levels in the soil and testing carbon levels on land where conservation practices described in subparagraph (A) were applied to evaluate gains in soil health as a result of the practices implemented by the producers in the soil health demonstration trial; and
+&emsp;&emsp;(B) to establish protocols for measuring carbon levels in the soil and testing carbon levels on land where conservation practices described in subparagraph (A) were appliedto evaluate gains in soil health as a result of the practices implemented by the producers in the soil health demonstration trial; and
 
 &emsp;&emsp;(C)(i) not later than September 30, 2020, to initiate a study regarding changes in soil health and, if feasible, economic outcomes, generated as a result of the conservation practices described in subparagraph (A) that were applied by producers through the soil health demonstration trial; and
 
@@ -184,7 +184,7 @@
 
 &emsp;&emsp;Information provided under subparagraph (A) shall be transformed into a statistical or aggregate form so as to not include any identifiable or personal information of individual producers.
 
-(Pub. L. 99–198, title XII, §1240H, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 110–234, title II, §2509, May 22, 2008, 122 Stat. 1064; Pub. L. 110–246, §4(a), title II, §2509, June 18, 2008, 122 Stat. 1664, 1792; Pub. L. 113–79, title II, §2207, Feb. 7, 2014, 128 Stat. 731; Pub. L. 115–334, title II, §§2301(d)(1)(J), 2307, Dec. 20, 2018, 132 Stat. 4554, 4561.)
+(Pub. L. 99–198, title XII, §1240H, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 257; amended Pub. L. 110–234, title II, §2509, May 22, 2008, 122 Stat. 1064; Pub. L. 110–246, §4(a), title II, §2509, June 18, 2008, 122 Stat. 1664, 1792; Pub. L. 113–79, title II, §2207, Feb. 7, 2014, 128 Stat. 731; Pub. L. 115–334, title II, §§2301(d)(1)(J), 2307, Dec. 20, 2018, 132 Stat. 4554, 4561; Pub. L. 117–169, title II, §21001(c)(2), Aug. 16, 2022, 136 Stat. 2017.)
 
 #### <b>Editorial Notes</b>
 
@@ -197,6 +197,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 3839aa–8, Pub. L. 99–198, title XII, §1240H, as added Pub. L. 104–127, title III, §334, Apr. 4, 1996, 110 Stat. 1002, related to temporary administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
 
 #### Amendments
+
+<b>2022</b>—Subsecs. (b)(2), (c)(2). Pub. L. 117–169 substituted "2031" for "2023".
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §2301(d)(1)(J), substituted "this subpart" for "this part".
 

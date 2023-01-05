@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 103–377, §9, Oct. 19, 1994, 108 Stat. 3506, which related to the effect of revocation of theState Agreement or the gaming compact, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 103–377, §9, Oct. 19, 1994, 108 Stat. 3506, which related to the effect of revocation of the State Agreement or the gaming compact, was omitted from the Code as being of special and not general application.
 

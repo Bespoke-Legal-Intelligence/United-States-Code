@@ -12,7 +12,7 @@ If the Secretary of Homeland Security develops the training program described in
 
 &emsp;(2) include tactical instruction tailored to the diverse nature of the surface transportation asset operational environment; and
 
-&emsp;(3) prioritize training officers from law enforcement agencies that are eligible for or receive grants under sections 2003 or 2004 of the Homeland Security Act of 2002 (6 U.S.C. 604 and <sup>1</sup> 605) and officers employed by railroad carriers that operate passenger service, including interstate passenger service.
+&emsp;(3) prioritize training officers from law enforcement agencies that are eligible for or receive grants under sections <sup>1</sup> 2003 or <sup>1</sup> 2004 of the Homeland Security Act of 2002 (6 U.S.C. 604 and <sup>1</sup> 605) and officers employed by railroad carriers that operate passenger service, including interstate passenger service.
 
 #### (c) Report
 
@@ -30,7 +30,7 @@ If the Secretary of Homeland Security develops the training program described in
 
 In this section:
 
-&emsp;(1) The term "public and private sector stakeholders" has the meaning given such term in section 114(t)(1)(c) <sup>1</sup> of title 49.
+&emsp;(1) The term "public and private sector stakeholders" has the meaning given such term in section 114(t)(1)(c) <sup>2</sup> of title 49.
 
 &emsp;(2) The term "surface transportation asset" includes facilities, equipment, or systems used to provide transportation services by—
 
@@ -60,7 +60,9 @@ In this section:
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2022, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2022, and not as part of the National Transit Systems Security Act of 2007 which comprises this subchapter.
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "114(t)(1)(C)".</i>
 

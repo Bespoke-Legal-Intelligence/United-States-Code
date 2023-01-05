@@ -6,7 +6,7 @@ Section, act Sept. 1, 1937, ch. 896, title I, §14, as added Pub. L. 96–399, t
 
 #### Effective Date of Repeal
 
-Repeal effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement the repeal before such date, and with savings provision, see section 503 of Pub. L.105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
+Repeal effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement the repeal before such date, and with savings provision, see section 503 of Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
 #### Savings Provision
 

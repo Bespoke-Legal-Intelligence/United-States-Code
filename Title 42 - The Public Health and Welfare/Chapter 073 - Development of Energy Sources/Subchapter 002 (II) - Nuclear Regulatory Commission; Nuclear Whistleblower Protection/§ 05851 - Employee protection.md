@@ -10,7 +10,7 @@
 
 &emsp;(C) testified before Congress or at any Federal or State proceeding regarding any provision (or proposed provision) of this chapter or the Atomic Energy Act of 1954;
 
-&emsp;(D) commenced, caused to be commenced, or is about to commence or cause to be commenced a proceeding under this chapter or the Atomic Energy Act of 1954, as amended, or a proceeding for the administration or enforcement of any requirement imposed under this chapter or the Atomic Energy Act of 1954, as amended;
+&emsp;(D) commenced, caused to be commenced, or is about to commence or cause to be commenced a proceeding under this chapter or the Atomic Energy Act of 1954, as amended, or aproceeding for the administration or enforcement of any requirement imposed under this chapter or the Atomic Energy Act of 1954, as amended;
 
 &emsp;(E) testified or is about to testify in any such proceeding or;
 

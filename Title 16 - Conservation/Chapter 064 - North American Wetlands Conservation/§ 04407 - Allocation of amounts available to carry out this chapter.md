@@ -10,7 +10,7 @@ Of the sums available to the Secretary for any fiscal year under this chapter an
 
 #### (b) Cost sharing
 
-(1) Except as provided in paragraph (2), as a condition of providing assistance under this chapter for any approved wetlands conservation project, the Secretary shall require that the portion of the costs of the project paid with amounts provided by non-Federal United States sources is equal to at least the amount allocated under subsection (a) that is used for the project.
+(1) Except as provided in paragraph (2), as a condition of providing assistance under thischapter for any approved wetlands conservation project, the Secretary shall require that the portion of the costs of the project paid with amounts provided by non-Federal United States sources is equal to at least the amount allocated under subsection (a) that is used for the project.
 
 (2) Federal moneys allocated under subsection (a) may be used to pay 100 percent of the costs of such projects located on Federal lands and waters, including the acquisition of inholdings within such lands and waters.
 

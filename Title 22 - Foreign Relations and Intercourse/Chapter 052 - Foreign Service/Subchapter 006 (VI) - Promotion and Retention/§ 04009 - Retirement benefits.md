@@ -52,7 +52,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Exceptions.—The amendments made by paragraphs (2) and (3) of subsection (a) and paragraphs (1)(A) and (2) of subsection (b) \[amending this section and section 4071d of this title\] shall apply with respectto any actions taken under section 611 of the Foreign Service Act of 1980 \[22 U.S.C. 4010a\] on or after January 1, 1996."
+Exceptions.—The amendments made by paragraphs (2) and (3) of subsection (a) and paragraphs (1)(A) and (2) of subsection (b) \[amending this section and section 4071d of this title\] shall apply with respect to any actions taken under section 611 of the Foreign Service Act of 1980 \[22 U.S.C. 4010a\] on or after January 1, 1996."
 
 #### Special Annuity for Certain Foreign Service Officers
 
@@ -74,5 +74,5 @@ Pub. L. 95–105, title IV, §411, Aug. 17, 1977, 91 Stat. 855, as amended by Pu
 
 "(c) In the event that an officer who is entitled to retirement benefits under this section dies before reaching the age of fifty, but after the date of enactment of this section \[Aug. 17, 1977\], his or her death shall be considered a death in service within the meaning of section 832 of the Foreign Service Act of 1946 \[former section 1082 of this title, see section 4049 of this title\], except that no survivor's annuity (other than a survivor's annuity which would be payable under the first complete sentence in section 634(b)(2) of such Act \[former section 1004(b)(2) of this title, see subsec. (b)(2) of this section\] but for the enactment of this section) shall become effective before October 1, 1977.
 
-"(d) An officer entitled to retirement benefits under this section may make the election described in section 821(b) or (f), as appropriate, of the Foreign Service Act of 1946 \[former section 1076(b) or (f) of this title, see section 4046(b) and (f) of this title\] at any time before reaching the age of fifty or before the end of the sixty-day period beginning on the date of enactment of this section \[Aug. 17, 1977\], whichever is later."
+"(d) An officer entitled to retirement benefits under this section may make the election described in section821(b) or (f), as appropriate, of the Foreign Service Act of 1946 \[former section 1076(b) or (f) of this title, see section 4046(b) and (f) of this title\] at any time before reaching the age of fifty or before the end of the sixty-day period beginning on the date of enactment of this section \[Aug. 17, 1977\], whichever is later."
 

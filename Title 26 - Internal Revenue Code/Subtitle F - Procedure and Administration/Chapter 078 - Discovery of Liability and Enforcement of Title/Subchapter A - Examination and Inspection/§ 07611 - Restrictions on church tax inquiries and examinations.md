@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(ii) a general explanation of the applicable—
 
-&emsp;&emsp;&emsp;&emsp;(I) administrative and constitutional provisions with respect to such inquiry (including the right to a conference with the Secretary before any examination of church records), and
+&emsp;&emsp;&emsp;&emsp;(I) administrative and constitutional provisions with respect to such inquiry (including the right to a conference withthe Secretary before any examination of church records), and
 
 &emsp;&emsp;&emsp;&emsp;(II) provisions of this title which authorize such inquiry or which may be otherwise involved in such inquiry.
 
@@ -136,7 +136,7 @@
 
 #### (i) 3-year statute of limitations generally
 
-&emsp;&emsp;&emsp;In the case of any church tax examination with respect to the revocation of tax-exempt status under section 501(a), any tax imposed by chapter 1 (other than section 511) may be assessed, or a proceeding incourt for collection of such tax may be begun without assessment, only for the 3 most recent taxable years ending before the examination notice date.
+&emsp;&emsp;&emsp;In the case of any church tax examination with respect to the revocation of tax-exempt status under section 501(a), any tax imposed by chapter 1 (other than section 511) may be assessed, or a proceeding in court for collection of such tax may be begun without assessment, only for the 3 most recent taxable years ending before the examination notice date.
 
 #### (ii) 6-year statute of limitations where tax-exempt status revoked
 

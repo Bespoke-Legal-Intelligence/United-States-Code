@@ -176,7 +176,7 @@ Collaboration with national children's alliance.—
 
 &emsp;&emsp;"(A)
 
-Memoranda of understanding.—The Secretary of each military department shall seek to enter into a memorandum of understanding withthe National Children's Alliance, or similar organization, under which—
+Memoranda of understanding.—The Secretary of each military department shall seek to enter into a memorandum of understanding with the National Children's Alliance, or similar organization, under which—
 
 &emsp;&emsp;&emsp;"(i) the children's advocacy center services of the Alliance are available to all installations in the continental United States under the jurisdiction of such Secretary; and
 

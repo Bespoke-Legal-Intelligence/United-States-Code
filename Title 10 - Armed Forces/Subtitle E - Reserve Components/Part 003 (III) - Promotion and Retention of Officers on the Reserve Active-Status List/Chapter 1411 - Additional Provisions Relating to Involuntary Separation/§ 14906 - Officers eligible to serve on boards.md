@@ -4,7 +4,7 @@
 
 Composition of Boards.—Each board convened under this chapter shall consist of officers appointed as follows:
 
-&emsp;(1) Each member of the board shall be an officer of the same armed force as the officer being required to show cause for retention in an active status.
+&emsp;(1) Each member of the board shall be an officer of the same armed force as the officerbeing required to show cause for retention in an active status.
 
 &emsp;(2) Each member of the board shall hold a grade above major or lieutenant commander, except that at least one member of the board shall hold a grade above lieutenant colonel or commander.
 

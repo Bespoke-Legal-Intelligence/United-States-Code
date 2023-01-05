@@ -34,7 +34,7 @@ Role of federal agencies.—Congress makes the following findings with respect t
 
 &emsp;&emsp;(D) The National Science Foundation provides increased understanding of the Sun-Earth system through ground-based measurements, technologies, and modeling.
 
-&emsp;&emsp;(E) The Department of the Interior collects, distributes, and archives operational ground-based magnetometer data in the United States and its territories, works with the international community to improve global geophysical monitoring, and develops crustal conductivity models to assess and mitigate risks from space weather-induced electric ground currents.
+&emsp;&emsp;(E) The Department of the Interior collects, distributes, and archives operational ground-based magnetometer data in the United States and its territories, works with the international community to improveglobal geophysical monitoring, and develops crustal conductivity models to assess and mitigate risks from space weather-induced electric ground currents.
 
 &emsp;&emsp;(F) The Federal Aviation Administration provides operational requirements for space weather services in support of aviation and for coordination of these requirements with the International Civil Aviation Organization, and integrates space weather data and products into the Next Generation Air Transportation System.
 
@@ -88,7 +88,7 @@ In general.—
 
 &emsp;&emsp;(A)
 
-Establishment.—Not later than 180 days after the date of the enactment of the PROSWIFT Act, the Administrator of the National Oceanic and Atmospheric Administration, in consultation with other relevantFederal agencies, shall establish a space weather advisory group (in this chapter referred to as the "advisory group") for the purposes of receiving advice from the academic community, the commercial space weather sector, and space weather end users that informs the interests and work of the interagency working group.
+Establishment.—Not later than 180 days after the date of the enactment of the PROSWIFT Act, the Administrator of the National Oceanic and Atmospheric Administration, in consultation with other relevant Federal agencies, shall establish a space weather advisory group (in this chapter referred to as the "advisory group") for the purposes of receiving advice from the academic community, the commercial space weather sector, and space weather end users that informs the interests and work of the interagency working group.
 
 &emsp;&emsp;(B)
 
@@ -174,7 +174,7 @@ Reevaluation.—The advisory group shall review and assess the survey under subp
 
 &emsp;(4)
 
-Federal advisory committee act.—Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
+Federal advisory committee act.—Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply to the advisory group.
 
 (Pub. L. 116–181, §2(b), Oct. 21, 2020, 134 Stat. 882.)
 
@@ -184,13 +184,13 @@ Federal advisory committee act.—Section 14 of the Federal Advisory Committee A
 
 The date of enactment of the PROSWIFT Act, referred to in subsecs. (c) and (d)(1)(A), is the date of enactment of Pub. L. 116–181, which was approved Oct. 21, 2020.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(4), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Space Weather Policy
 
-Pub. L. 116–181, §2(a), Oct. 21, 2020, 134 Stat. 882, provided that: "It shall be the policy of the United States to prepare and protect against the social and economic impacts of space weather phenomena by supporting actions to improve space weather forecasts and predictions including: sustaining and enhancing criticalobservations, identifying research needs and promoting opportunities for research-to-operations and operations-to-research collaborations both within and outside of the Federal Government, advancing space weather models, engaging with all sectors of the space weather community, including academia, the commercial sector, and international partners, and understanding the needs of space weather end users."
+Pub. L. 116–181, §2(a), Oct. 21, 2020, 134 Stat. 882, provided that: "It shall be the policy of the United States to prepare and protect against the social and economic impacts of space weather phenomena by supporting actions to improve space weather forecasts and predictions including: sustaining and enhancing critical observations, identifying research needs and promoting opportunities for research-to-operations and operations-to-research collaborations both within and outside of the Federal Government, advancing space weather models, engaging with all sectors of the space weather community, including academia, the commercial sector, and international partners, and understanding the needs of space weather end users."
 
 #### <b>Executive Documents</b>
 
@@ -290,5 +290,7 @@ Sec. 8. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in section 651(5) of Title 6, Domestic Security, see section 652a(c)(3) of Title 6, enacted Jan. 1, 2021.\]
+\[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in section 650 of Title 6, Domestic Security, see section 652a(c)(3) of Title 6, enacted Jan. 1, 2021.\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

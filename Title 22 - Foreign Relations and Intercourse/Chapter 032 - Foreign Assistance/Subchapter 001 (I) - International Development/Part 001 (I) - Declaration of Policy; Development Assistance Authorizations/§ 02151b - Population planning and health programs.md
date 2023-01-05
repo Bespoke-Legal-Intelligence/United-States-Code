@@ -22,7 +22,7 @@ In order to increase the opportunities and motivation for family planning and to
 
 (C) Appropriations pursuant to subparagraph (B) may be referred to as the "Child Survival Fund".
 
-(3) The Congress recognizes that the promotion of primary health care is a major objective of the foreign assistance program. The Congress further recognizes that simple, relatively low cost means already exist to reduce incidence of communicable diseases among children, mothers, and infants. The promotion of vaccines for immunization, and salts for oral rehydration, therefore, is an essential feature of the health assistance program. To this end, the Congress expects the agency primarily responsible for administering subchapter I of this chapter to set as a goal the protection of not less than 80 percent of all children, in those countries in which such agency has established development programs, from immunizable diseases by January 1, 1991. Of the aggregate amounts made available for fiscal year 1987 to carry out paragraph (2) of this subsection (relating to theChild Survival Fund) and to carry out subsection (c) (relating to development assistance for health), $50,000,000 shall be used to carry out this paragraph.
+(3) The Congress recognizes that the promotion of primary health care is a major objective of the foreign assistance program. The Congress further recognizes that simple, relatively low cost means already exist to reduce incidence of communicable diseases among children, mothers, and infants. The promotion of vaccines for immunization, and salts for oral rehydration, therefore, is an essential feature of the health assistance program. To this end, the Congress expects the agency primarily responsible for administering subchapter I of this chapter to set as a goal the protection of not less than 80 percent of all children, in those countries in which such agency has established development programs, from immunizable diseases by January 1, 1991. Of the aggregate amounts made available for fiscal year 1987 to carry out paragraph (2) of this subsection (relating to the Child Survival Fund) and to carry out subsection (c) (relating to development assistance for health), $50,000,000 shall be used to carry out this paragraph.
 
 (4)
 
@@ -74,7 +74,7 @@ Relationship to other laws.—Assistance made available under this subsection an
 
 The Consolidated Appropriations Resolution, 2003, referred to in subsec. (c)(4), is Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 11. Provisions under the heading "Child Survival and Health Programs Fund" in Pub. L. 108–7 appear at 117 Stat. 161 and are not classified to the Code.
 
-This chapter, referred to in subsec. (e)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (e)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
@@ -151,6 +151,686 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 #### Effective Date of 1977 Amendment
 
 Pub. L. 95–88, title I, §103(d), Aug. 3, 1977, 91 Stat. 535, provided that: "The amendment made by subsection (a)of this section \[amending this section\] shall take effect on October 1, 1977."
+
+#### International Pandemic Preparedness
+
+Pub. L. 117–263, div. E, title LV, subtitle D, Dec. 23, 2022, 136 Stat. 3344, provided that:
+
+#### "SEC. 5559. SHORT TITLE.
+
+"This subtitle may be cited as the 'Global Health Security and International Pandemic Prevention, Preparedness and Response Act of 2022'.
+
+#### "SEC. 5560. DEFINITIONS.
+
+"In this subtitle:
+
+&emsp;"(1) The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Relations of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Appropriations of the Senate;
+
+&emsp;&emsp;"(C) the Committee on Foreign Affairs of the House of Representatives; and
+
+&emsp;&emsp;"(D) the Committee on Appropriations of the House of Representatives.
+
+&emsp;"(2) The terms 'Global Health Security Agenda' and 'GHSA' mean the multi-sectoral initiative launched in 2014, and renewed in 2018, that brings together countries, regions, international organizations, nongovernmental organizations, and the private sector—
+
+&emsp;&emsp;"(A) to elevate global health security as a national-level priority;
+
+&emsp;&emsp;"(B) to share best practices; and
+
+&emsp;&emsp;"(C) to facilitate national capacity to comply with and adhere to—
+
+&emsp;&emsp;&emsp;"(i) the International Health Regulations (2005);
+
+&emsp;&emsp;&emsp;"(ii) the international standards and guidelines established by the World Organisation for Animal Health;
+
+&emsp;&emsp;&emsp;"(iii) United Nations Security Council Resolution 1540 (2004);
+
+&emsp;&emsp;&emsp;"(iv) the Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological and Toxin Weapons and on their Destruction, done at Washington, London, and Moscow, April 10, 1972 (commonly referred to as the 'Biological Weapons Convention');
+
+&emsp;&emsp;&emsp;"(v) the Global Health Security Agenda 2024 Framework; and
+
+&emsp;&emsp;&emsp;"(vi) other relevant frameworks that contribute to global health security.
+
+&emsp;"(3) The term 'Global Health Security Index' means the comprehensive assessment and benchmarking of health security and related capabilities across the countries that make up the States Parties to the International Health Regulations (2005).
+
+&emsp;"(4) The term 'Global Health Security Initiative' means the informal network of countries and organizations that came together in 2001, to undertake concerted global action to strengthen public health preparedness and response to chemical, biological, radiological, and nuclear threats, including pandemic influenza.
+
+&emsp;"(5) The term 'IHR (2005) Monitoring and Evaluation Framework' means the framework through which the World Health Organization and the State Parties to the International Health Regulations, as amended in 2005, review, measure, and assess core country public health capacities and ensure mutual accountability for global health security under the International Health Regulations (2005), including through the Joint External Evaluations, simulation exercises, and after-action reviews.
+
+&emsp;"(6) The term 'Joint External Evaluation' means the voluntary, collaborative, multi-sectoral process facilitated by the World Health Organization—
+
+&emsp;&emsp;"(A) to assess country capacity to prevent, detect, and rapidly respond to public health risks occurring naturally or due to deliberate or accidental events;
+
+&emsp;&emsp;"(B) to assess progress in achieving the targets under the International Health Regulations (2005); and
+
+&emsp;&emsp;"(C) to recommend priority actions.
+
+&emsp;"(7) The term 'key stakeholders' means actors engaged in efforts to advance global health security programs and objectives, including—
+
+&emsp;&emsp;"(A) national and local governments in partner countries;
+
+&emsp;&emsp;"(B) other bilateral donors;
+
+&emsp;&emsp;"(C) international, regional, and local organizations, including private, voluntary, nongovernmental, and civil society organizations, including faith-based and indigenous organizations;
+
+&emsp;&emsp;"(D) international, regional, and local financial institutions;
+
+&emsp;&emsp;"(E) representatives of historically marginalized groups, including women, youth, and indigenous peoples;
+
+&emsp;&emsp;"(F) the private sector, including medical device, technology, pharmaceutical, manufacturing, logistics, and other relevant companies; and
+
+&emsp;&emsp;"(G) public and private research and academic institutions.
+
+&emsp;"(8) The term 'One Health approach' means the collaborative, multi-sectoral, and transdisciplinary approach toward achieving optimal health outcomes in a manner that recognizes the interconnection between people, animals, plants, and their shared environment.
+
+&emsp;"(9) The term 'pandemic preparedness' refers to the actions taken to establish and sustain the capacity and capabilities necessary to rapidly identify, prevent, protect against, and respond to the emergence, reemergence, and spread of pathogens of pandemic potential.
+
+&emsp;"(10) The term 'partner country' means a foreign country in which the relevant Federal departments and agencies are implementing United States foreign assistance for global health security and pandemic prevention, preparedness, and response under this subtitle.
+
+&emsp;"(11) The term 'relevant Federal departments and agencies' means any Federal department or agency implementing United States policies and programs relevant to the advancement of United States global health security and diplomacy overseas, which may include—
+
+&emsp;&emsp;"(A) the Department of State;
+
+&emsp;&emsp;"(B) the United States Agency for International Development;
+
+&emsp;&emsp;"(C) the Department of Health and Human Services;
+
+&emsp;&emsp;"(D) the Department of Defense;
+
+&emsp;&emsp;"(E) the Defense Threat Reduction Agency;
+
+&emsp;&emsp;"(F) the Millennium Challenge Corporation;
+
+&emsp;&emsp;"(G) the Development Finance Corporation;
+
+&emsp;&emsp;"(H) the Peace Corps; and
+
+&emsp;&emsp;"(I) any other department or agency that the President determines to be relevant for these purposes.
+
+&emsp;"(12) The term 'resilience' means the ability of people, households, communities, systems, institutions, countries, and regions to reduce, mitigate, withstand, adapt to, and quickly recover from shocks and stresses in a manner that reduces chronic vulnerability to the emergence, reemergence, and spread of pathogens of pandemic potential and facilitates inclusive growth.
+
+&emsp;"(13) The terms 'respond' and 'response' mean the actions taken to counter an infectious disease.
+
+&emsp;"(14) The term 'USAID' means the United States Agency for International Development.
+
+#### "SEC. 5561. ENHANCING THE UNITED STATES' INTERNATIONAL RESPONSE TO PANDEMICS.
+
+"(a)
+
+Leveraging United States Bilateral Global Health Programs for International Pandemic Response.—Subject to the notification requirements under section 634A of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–1), amounts authorized to be appropriated or otherwise made available to carry out section 104 of the Foreign Assistance Act (22 U.S.C. 2151b)may be used in countries receiving such United States foreign assistance for the purpose of—
+
+&emsp;"(1) strengthening vaccine readiness;
+
+&emsp;"(2) reducing vaccine hesitancy;
+
+&emsp;"(3) delivering and administering vaccines;
+
+&emsp;"(4) strengthening health systems and global supply chains as necessary for global health security and pandemic preparedness, prevention, and response;
+
+&emsp;"(5) supporting global health workforce planning, training, and management for pandemic preparedness, prevention, and response;
+
+&emsp;"(6) enhancing transparency, quality, and reliability of public health data;
+
+&emsp;"(7) increasing bidirectional testing, including screening for symptomatic and asymptomatic cases; and
+
+&emsp;"(8) building laboratory capacity.
+
+"(b)
+
+Roles of the Department of State, USAID, and the Department of Health and Human Services in International Pandemic Response.—
+
+&emsp;"(1)
+
+Finding.—Congress finds that different outbreaks of infectious disease threats may require flexibility and changes to the designated roles and responsibilities of relevant Federal departments and agencies.
+
+&emsp;"(2)
+
+Lead agencies for coordination of the united states' international response to infectious disease outbreaks with severe or pandemic potential.—The President shall identify the relevant Federal departments and agencies, including the Department of State, USAID, and the Department of Health and Human Services (including the Centers for Disease Control and Prevention), leading specific aspects of the United States international operational response to outbreaks of emerging high-consequence infectious disease threats in accordance with federal law.
+
+&emsp;"(3)
+
+Notification.—Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2022\], and regularly thereafter as appropriate, the President shall notify the appropriate congressional committees, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives of the roles and responsibilities of each relevant Federal department and agency with respect to the international operational response to the outbreak of an emerging high-consequence infectious disease threat.
+
+"(c)
+
+USAID Disaster Surge Capacity.—
+
+&emsp;"(1)
+
+Disaster surge capacity.—The Administrator of the USAID is authorized to expend funds made available to carry out part I and chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 \[et seq.\] and 2346 \[et seq.\]), including funds made available for 'Assistance for Europe, Eurasia and Central Asia', in addition to amounts otherwise made available for such purposes, for the cost (including support costs) of individuals detailed to or employed by USAID whose primary responsibility is to carry out programs to address global health emergencies and natural or manmade disasters.
+
+&emsp;"(2)
+
+Notification.—Not later than 15 days before making funds available to address manmade disasters pursuant to paragraph (1), the Secretary of State or the Administrator of the USAID shall notify the appropriate congressional committees of such intended action.
+
+#### "SEC. 5562. INTERNATIONAL PANDEMIC PREVENTION AND PREPAREDNESS.
+
+"(a)
+
+United States International Activities To Advance Global Health Security and Diplomacy Strategy and Report.—
+
+&emsp;"(1)
+
+In general.—The President shall develop, update, maintain, and advance a comprehensive strategy for improving United States global health security and diplomacy for pandemic prevention, preparedness, and response which, consistent with the purposes of this subtitle, shall—
+
+&emsp;&emsp;"(A) clearly articulate United States policy goals related to pandemic prevention, preparedness, and response, including through actions to strengthen diplomatic leadership and the effectiveness of United States foreign policy and international preparedness assistance for global health security through advancement of a One Health approach, the Global Health Security Agenda, the International Health Regulations (2005), and other relevant frameworks that contribute to pandemic prevention and preparedness;
+
+&emsp;&emsp;"(B) establish specific and measurable goals, benchmarks, timetables, performance metrics, and monitoring and evaluation plans for United States foreign policy and assistance for global health security that promote learning and adaptation and reflect international best practices relating to global health security, transparency, and accountability;
+
+&emsp;&emsp;"(C) establish transparent mechanisms to improve coordination and avoid duplication of effort between and among the relevant Federal departments and agencies, partner countries, donor countries, the private sector, multilateral organizations, and other key stakeholders;
+
+&emsp;&emsp;"(D) prioritize working with partner countries with—
+
+&emsp;&emsp;&emsp;"(i) demonstrated need, as identified through the Joint External Evaluation process, the Global Health Security Index classification of health systems, national action plans for health security, Global Health Security Agenda, other risk-based assessments, and complementary or successor indicators of global health security and pandemic preparedness; and
+
+&emsp;&emsp;&emsp;"(ii) demonstrated commitment to transparency, including budget and global health data transparency, complying with the International Health Regulations (2005), investing in domestic health systems, and achieving measurable results;
+
+&emsp;&emsp;"(E) reduce long-term reliance upon United States foreign assistance for global health security by—
+
+&emsp;&emsp;&emsp;"(i) ensuring that United States global health assistance authorized under this subtitle is strategically planned and coordinated in a manner that delivers immediate impact and contributes to enduring results, including through efforts to enhance community capacity and resilience to infectious disease threats and emergencies; and
+
+&emsp;&emsp;&emsp;"(ii) ensuring partner country ownership of global health security strategies, data, programs, and outcomes and improved domestic resource mobilization, co-financing, and appropriate national budget allocations for global health security and pandemic prevention, preparedness, and response;
+
+&emsp;&emsp;"(F) assist partner countries in building the technical capacity of relevant ministries, systems, and networks to prepare, execute, monitor, and evaluate national action plans for global health security and pandemic prevention, preparedness, and response that are developed with input from key stakeholders, including mechanism to enhance budget and global health data transparency, as necessary and appropriate;
+
+&emsp;&emsp;"(G) support and align United States foreign assistance authorized under this subtitle with such national action plans for health security and pandemic prevention, preparedness, and response, as appropriate;
+
+&emsp;&emsp;"(H) facilitate communication and collaboration, as appropriate, among local stakeholders in support of country-led strategies and initiatives to better identify and prevent health impacts related to the emergence, reemergence, and spread of zoonoses;
+
+&emsp;&emsp;"(I) support the long-term success of programs by building the pandemic preparedness capacity of local organizations and institutions in target countries and communities;
+
+&emsp;&emsp;"(J) develop community resilience to infectious disease threats and emergencies;
+
+&emsp;&emsp;"(K) support global health budget and workforce planning in partner countries, consistent with the purposes of this subtitle, including training in financial management and budget and global health data transparency;
+
+&emsp;&emsp;"(L) strengthen linkages between complementary bilateral and multilateral foreign assistance programs, including efforts of the World Bank, the World Health Organization, the Global Fund to Fight AIDS, Tuberculosis, and Malaria, and Gavi, the Vaccine Alliance, that contribute to the development of more resilient health systems and global supply chains for global health security and pandemic prevention, preparedness, and response in partner countries with the capacity, resources, and personnel required to prevent, detect, and respond to infectious disease threats; and
+
+&emsp;&emsp;"(M) support innovation and partnerships with the private sector, health organizations, civil society, nongovernmental, faith-based and indigenous organizations, and health research and academic institutions to improve pandemic prevention, preparedness, and response, including for the development and deployment of effective and accessible infectious disease tracking tools, diagnostics, therapeutics, and vaccines.
+
+&emsp;"(2)
+
+Submission of strategy.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after the date of the enactment of this Act, the President, in consultation with the heads of the relevant Federal departments and agencies, shall submit the strategy required under paragraph (1) to—
+
+&emsp;&emsp;&emsp;"(i) the appropriate congressional committees;
+
+&emsp;&emsp;&emsp;"(ii) the Committee on Health, Education, Labor, and Pensions of the Senate; and
+
+&emsp;&emsp;&emsp;"(iii) the Committee on Energy and Commerce of the House of Representatives.
+
+&emsp;&emsp;"(B)
+
+Agency-specific plans.—The strategy required under paragraph (1) shall include specific implementation plans from each relevant Federal department and agency that describe—
+
+&emsp;&emsp;&emsp;"(i) the anticipated contributions of the Federal department or agency, including technical, financial, and in-kind contributions, to implement the strategy; and
+
+&emsp;&emsp;&emsp;"(ii) the efforts of the Federal department or agency to ensure that the activities and programs carried out pursuant to the strategy are designed to achieve maximum impact and long-term sustainability.
+
+&emsp;"(3)
+
+Annual report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 1 year after the submission of the strategy pursuant to paragraph (2)(A), and not later than October 1 of each year thereafter, the President shall submit to the committees listed in such paragraph a report that describes the status of the implementation of such strategy.
+
+&emsp;&emsp;"(B)
+
+Contents.—Each report submitted pursuant to subparagraph (A) shall—
+
+&emsp;&emsp;&emsp;"(i) identify any substantial changes made to the strategy during the preceding calendar year;
+
+&emsp;&emsp;&emsp;"(ii) describe the progress made in implementing the strategy, including specific information related to the progress toward improving countries' ability to detect, prevent, and respond to infectious disease threats;
+
+&emsp;&emsp;&emsp;"(iii) identify—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the indicators used to establish benchmarks and measure results over time; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the mechanisms for reporting such results in an open and transparent manner;
+
+&emsp;&emsp;&emsp;"(iv) contain a transparent, open, and detailed accounting of obligations by relevant Federal departments and agencies to implement the strategy, including, to the extent practicable, for each such Federal department and agency, the statutory source of obligated funds, the amounts obligated, implementing partners and sub-partners, targeted beneficiaries, and activities supported;
+
+&emsp;&emsp;&emsp;"(v) the efforts of the relevant Federal department or agency to ensure that the activities and programs carried out pursuant to the strategy are designed to achieve maximum impact and enduring results, including through specific activities to strengthen health systems for global health security and pandemic prevention, preparedness, and response, as appropriate;
+
+&emsp;&emsp;&emsp;"(vi) assess efforts to coordinate United States global health security programs, activities, and initiatives with key stakeholders;
+
+&emsp;&emsp;&emsp;"(vii) incorporate a plan for regularly reviewing and updating strategies, partnerships, and programs and sharing lessons learned with a wide range of stakeholders in an open, transparent manner; and
+
+&emsp;&emsp;&emsp;"(viii) describe the progress achieved and challenges concerning the United States Government's ability to advance the Global Health Security Agenda and pandemic preparedness, including data disaggregated by priority country using indicators that are consistent on a year-to-year basis and recommendations to resolve, mitigate, or otherwise address the challenges identified through such indicators.
+
+&emsp;&emsp;"(C)
+
+Form.—The strategy and reports required under this subsection shall be submitted in unclassified form, but may contain a classified annex.
+
+"(b)
+
+United States Coordinator for Global Health Security.—The President shall designate an appropriate senior official to be the United States Coordinator for Global Health Security, who shall be responsible for the coordination of the Global Health Security Agenda Interagency Review Council and who should—
+
+&emsp;"(1) have significant background and expertise in public health, health security, and emergency response management;
+
+&emsp;"(2) coordinate, through a whole-of-government approach, the efforts of relevant Federal departments and agencies to implement the strategy under subsection (a); and
+
+&emsp;"(3) seek to fully use the unique capabilities of each relevant Federal department and agency and ensure effective and appropriate United States representation at relevant international forums, while collaborating with and leveraging the contributions of other key stakeholders.
+
+"(c)
+
+Ambassador-At-Large for Global Health Security and Diplomacy.—
+
+&emsp;"(1)
+
+Establishment.—There is established, within the Department of State, the position of Ambassador-At-Large for Global Health Security and Diplomacy (referred to in this section as the 'Ambassador-At-Large').
+
+&emsp;"(2)
+
+Appointment; qualifications.—The Ambassador-At-Large—
+
+&emsp;&emsp;"(A) shall be appointed by the President, by and with the advice and consent of the Senate;
+
+&emsp;&emsp;"(B) shall report to the Secretary of State; and
+
+&emsp;&emsp;"(C) shall have—
+
+&emsp;&emsp;&emsp;"(i) demonstrated knowledge and experience in the field of health security, development, public health, epidemiology, or medicine; and
+
+&emsp;&emsp;&emsp;"(ii) relevant diplomatic, policy, and political expertise.
+
+&emsp;"(3)
+
+Authorities.—The Ambassador-At-Large may—
+
+&emsp;&emsp;"(A) operate internationally to carry out the purposes of this section;
+
+&emsp;&emsp;"(B) ensure effective coordination, management, and oversight of United States foreign policy, diplomatic efforts, and foreign assistance funded with amounts authorized to be appropriated pursuant to section 5564(a) that are used by the Department of State to advance the relevant elements of the United States global health security and diplomacy strategy developed pursuant to subsection (a) by—
+
+&emsp;&emsp;&emsp;"(i) developing and updating, as appropriate, in collaboration with the Administrator of theUSAID and the Secretary of Health and Human Services, related policy guidance and unified auditing, monitoring, and evaluation plans;
+
+&emsp;&emsp;&emsp;"(ii) avoiding duplication of effort and collaborating with other relevant Federal departments and agencies;
+
+&emsp;&emsp;&emsp;"(iii) leading, in collaboration with the Secretary of Health and Human Services, the Administrator of the USAID, and other relevant Federal departments and agencies, diplomatic efforts to identify and address current and emerging threats to global health security;
+
+&emsp;&emsp;&emsp;"(iv) working to enhance coordination with, and transparency among, the governments of partner countries and key stakeholders, including the private sector;
+
+&emsp;&emsp;&emsp;"(v) promoting greater donor and national investment in partner countries to build health systems and supply chains for global health security and pandemic prevention and preparedness;
+
+&emsp;&emsp;&emsp;"(vi) securing bilateral and multilateral financing commitments to advance the Global Health Security Agenda, in coordination with relevant Federal departments and agencies, including through funding for the Financial Intermediary Fund for Pandemic Prevention, Preparedness, and Response; and
+
+&emsp;&emsp;&emsp;"(vii) providing regular updates to the appropriate congressional committees, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives regarding the fulfillment of the activities described in this paragraph;
+
+&emsp;&emsp;"(C) ensure, in collaboration with the Secretary of the Treasury, the Secretary of Health and Human Services, and the Administrator of the USAID, effective representation of the United States in the Financial Intermediary Fund for Pandemic Prevention, Preparedness, and Response;
+
+&emsp;&emsp;"(D) use detailees, on a reimbursable or nonreimbursable basis, from relevant Federal departments and agencies and hire personal service contractors, who may operate domestically and internationally, to ensure that the Ambassador-At-Large has access to the highest quality experts available to the United States Government to carry out the functions under this subtitle; and
+
+&emsp;&emsp;"(E) perform such other functions as the Secretary of State may assign.
+
+"(d)
+
+Strengthening Health Systems for Global Health Security and Pandemic Prevention and Preparedness.—
+
+&emsp;"(1)
+
+Statement of policy.—It is the policy of the United States to ensure that bilateral global health assistance programs are effectively managed and coordinated, as necessary and appropriate to achieve the purposes of this subtitle, to contribute to the strengthening of health systems for global health security and pandemic prevention, preparedness, and response in each country in which such programs are carried out.
+
+&emsp;"(2)
+
+Coordination.—The Administrator of the USAID shall work with the Global Malaria Coordinator, the Coordinator of United States Government Activities to Combat HIV/AIDS Globally, the Ambassador-at-Large for Global Health Security and Diplomacy at the Department of State, and the Secretary of Health and Human Services, to identify areas of collaboration and coordination in countries with global health programs and activities undertaken by the USAID pursuant to the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003 (Public Law 108–25) \[22 U.S.C. 7601 et seq.\] and other relevant provisions of law, to ensure that such activities contribute to the strengthening of health systems for global health security and pandemic prevention and preparedness.
+
+"(e)
+
+Coordination for International Pandemic Early Warning Network.—
+
+&emsp;"(1)
+
+Sense of congress.—It is the sense of Congress that the Secretary of Health and Human Services, in coordination with the Secretary of State, the USAID Administrator, the Director of the Centers for Disease Control and Prevention, and the heads of the other relevant Federal departments and agencies, should work with the World Health Organization and other key stakeholders to establish or strengthen effective early warning systems, at the partner country, regional, and international levels, that utilize innovative information and analytical tools and robust review processes to track, document, analyze, and forecast infectious disease threats with epidemic and pandemic potential.
+
+&emsp;"(2)
+
+Report.—Not later than 1 year after the date of the enactment of this Act, and annually thereafter for the following 4 years, the Secretary of Health and Human Services, in coordination with the Secretary of State and the heads of the other relevant Federal departments and agencies, shall submit a report to the appropriate congressional committees, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives that describes United States Government efforts and opportunities to establish or strengthen effective early warning systems to detect infectious disease threats internationally.
+
+"(f)
+
+International Emergency Operations.—
+
+&emsp;"(1)
+
+Sense of congress.—It is the sense of Congress that it is essential to enhance the capacity of key stakeholders to effectively operationalize early warning and execute multi-sectoral emergency operations during an infectious disease outbreak, particularly in countries and areas that deliberately withhold critical global health data and delay access during an infectious disease outbreak, in advance of the next infectious disease outbreak with pandemic potential.
+
+&emsp;"(2)
+
+Public health emergencies of international concern.—The Secretary of Health and Human Services, in coordination with the Secretary of State, should work with the World Health Organization and like-minded member states to adopt an approach toward assessing infectious disease threats under the International Health Regulations (2005) for the World Health Organization to identify and transparently communicate, on an ongoing basis, varying levels of risk leading up to a declaration by the Director General of the World Health Organization of a Public Health Emergency of International Concern for the duration and in the aftermath of such declaration.
+
+&emsp;"(3)
+
+Emergency operations.—The Secretary of Health and Human Services, in coordination with the Secretary of State, the Administrator of the USAID, the Director of the Centers for Disease Control and Prevention, and the heads of other relevant Federal departments and agencies and consistent with the requirements under the International Health Regulations (2005) and the objectives of the World Health Organization's Health Emergencies Programme, the Global Health Security Agenda, and national actions plans for health security, should work, in cooperation with the World Health Organization, with partner countries, and other key stakeholders, to support the establishment, strengthening, and rapid response capacity of global health emergency operations centers, at the partner country and international levels, including efforts—
+
+&emsp;&emsp;"(A) to collect and share de-identified public health data, assess risk, and operationalize early warning;
+
+&emsp;&emsp;"(B) to secure, including through utilization of stand-by arrangements and emergency funding mechanisms, the staff, systems, and resources necessary to execute cross-sectoral emergency operations during the 48-hour period immediately following an infectious disease outbreak with pandemic potential; and
+
+&emsp;&emsp;"(C) to organize and conduct emergency simulations.
+
+#### "SEC. 5563. FINANCIAL INTERMEDIARY FUND FOR PANDEMIC PREVENTION, PREPAREDNESS, AND RESPONSE.
+
+"(a)
+
+In General.—
+
+&emsp;"(1)
+
+Finding.—Congress finds that the Financial Intermediary Fund for Pandemic Prevention, Preparedness, and Response (referred to in this section as the 'Fund') was established in September 2022 by donor countries, relevant United Nations agencies, including the World Health Organization, and other key multilateral stakeholders as a multilateral, catalytic financing mechanism for pandemic prevention and preparedness.
+
+&emsp;"(2)
+
+Objectives.—The objectives of the Fund are—
+
+&emsp;&emsp;"(A) closing critical gaps in pandemic prevention and preparedness; and
+
+&emsp;&emsp;"(B) working with, and building the capacity of, eligible partner countries in the areas of global health security, infectious disease control, and pandemic prevention and preparedness in order to—
+
+&emsp;&emsp;&emsp;"(i) prioritize capacity building and financing availability in eligible partner countries;
+
+&emsp;&emsp;&emsp;"(ii) incentivize countries to prioritize the use of domestic resources for global health security and pandemic prevention and preparedness;
+
+&emsp;&emsp;&emsp;"(iii) leverage governmental, nongovernmental, and private sector investments;
+
+&emsp;&emsp;&emsp;"(iv) regularly respond to and evaluate progress based on clear metrics and benchmarks, such as those developed through the IHR (2005) Monitoring and Evaluation Framework and the Global Health Security Index;
+
+&emsp;&emsp;&emsp;"(v) align with and complement ongoing bilateral and multilateral efforts and financing, including through the World Bank, the World Health Organization, the Global Fund to Fight AIDS, Tuberculosis, and Malaria, the Coalition for Epidemic Preparedness and Innovation, and Gavi, the Vaccine Alliance; and
+
+&emsp;&emsp;&emsp;"(vi) help countries accelerate and achieve compliance with the International Health Regulations (2005) and fulfill the Global Health Security Agenda 2024 Framework not later than 8 years after the date on which the Fund is established, in coordination with the ongoing Joint External Evaluation national action planning process.
+
+&emsp;"(3)
+
+Governing board.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Fund should be governed by a transparent, representative, and accountable body (referred to in this section as the 'Governing Board'), which should—
+
+&emsp;&emsp;&emsp;"(i) function as a partnership with, and through full engagement by, donor governments, eligible partner countries, and independent civil society; and
+
+&emsp;&emsp;&emsp;"(ii) be composed of not more than 25 representatives of governments, foundations, academic institutions, independent civil society, indigenous people, vulnerable communities, frontline health workers, and the private sector with demonstrated commitment to carrying out the purposes of the Fund and upholding transparency and accountability requirements.
+
+&emsp;&emsp;"(B)
+
+Duties.—The Governing Board should—
+
+&emsp;&emsp;&emsp;"(i) be charged with approving strategies, operations, and grant making authorities such that it is able to conduct effective fiduciary, monitoring, and evaluation efforts, and other oversight functions;
+
+&emsp;&emsp;&emsp;"(ii) determine operational procedures to enable the Fund to effectively fulfill its mission;
+
+&emsp;&emsp;&emsp;"(iii) provide oversight and accountability for the Fund in collaboration with a qualified and independent Inspector General;
+
+&emsp;&emsp;&emsp;"(iv) develop and utilize a mechanism to obtain formal input from eligible partner countries, independent civil society, and implementing entities relative to program design, review, and implementation and associated lessons learned; and
+
+&emsp;&emsp;&emsp;"(v) coordinate and align with other multilateral financing and technical assistance activities, and with the activities of the United States and other nations leading pandemic prevention, preparedness, and response activities in partner countries, as appropriate.
+
+&emsp;&emsp;"(C)
+
+Composition.—The Governing Board should include—
+
+&emsp;&emsp;&emsp;"(i) representatives of the governments of founding member countries who, in addition to meeting the requirements under subparagraph (A), qualify based upon—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) meeting an established initial contribution threshold, which should be not less than 10 percent of the country's total initial contributions; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) demonstrating a commitment to supporting the International Health Regulations (2005);
+
+&emsp;&emsp;&emsp;"(ii) a geographically diverse group of members from donor countries, academic institutions, independent civil society, including faith-based and indigenous organizations, and the private sector who are selected on the basis of their experience and commitment to innovation, best practices, and the advancement of global health security objectives; and
+
+&emsp;&emsp;&emsp;"(iii) representatives of the World Health Organization, to serve in an observer status.
+
+&emsp;&emsp;"(D)
+
+Contributions.—Each government or private sector foundation or for-profit entity represented on the Governing Board should agree to make annual contributions to the Fund in an amount that is not less than the minimum amount determined by the Governing Board.
+
+&emsp;&emsp;"(E)
+
+Qualifications.—Individuals appointed to the Governing Board should have demonstrated knowledge and experience across a variety of sectors, including human and animal health, agriculture, development, defense, finance, research, and academia.
+
+&emsp;&emsp;"(F)
+
+Conflicts of interest.—All Governing Board members should be required to recuse themselves from matters presenting conflicts of interest, including financing decisions relating to such countries, bodies, and institutions.
+
+&emsp;&emsp;"(G)
+
+Removal procedures.—The Fund should establish procedures for the removal of members of the Governing Board who—
+
+&emsp;&emsp;&emsp;"(i) engage in a consistent pattern of human rights abuses;
+
+&emsp;&emsp;&emsp;"(ii) fail to uphold global health data transparency requirements; or
+
+&emsp;&emsp;&emsp;"(iii) otherwise violate the established standards of the Fund, including in relation to corruption.
+
+"(b)
+
+Authority for United States Participation.—
+
+&emsp;"(1)
+
+Founding member.—The United States is authorized to participate in the Fund and shall be represented on the Governing Board by an officer or employee of the United States Government who has been appointed by the President (referred in this section as the 'FIF Representative').
+
+&emsp;"(2)
+
+Effective date; termination date.—
+
+&emsp;&emsp;"(A)
+
+Effective date.—This subsection shall take effect on the date on which the Secretary of State submits to Congress a certified copy of the agreement establishing the Fund.
+
+&emsp;&emsp;"(B)
+
+Termination date.—The membership authorized under paragraph (1) shall terminate on the date on which the Fund is terminated.
+
+&emsp;"(3)
+
+Enforceability.—Any agreement concluded under the authorities provided under this subsection shall be legally effective and binding upon the United States, in accordance with the terms of the agreement—
+
+&emsp;&emsp;"(A) upon the enactment of appropriate implementing legislation that provides for the approval of the specific agreement or agreements, including attachments, annexes, and supporting documentation, as appropriate; or
+
+&emsp;&emsp;"(B) if concluded and submitted as a treaty, upon the approval by the Senate of the resolution of ratification of such treaty.
+
+"(c)
+
+Implementation of Program Objectives.—In carrying out the objectives described in subsection (a)(2), the Fund should work to eliminate duplication and waste by upholding strict transparency and accountability standards and coordinating its programs and activities with key partners working to advance pandemic prevention and preparedness.
+
+"(d)
+
+Priority Countries.—In providing assistance under this section, the Fund should give priority to low- and lower middle-income countries with—
+
+&emsp;"(1) low scores on the Global Health Security Index classification of health systems;
+
+&emsp;"(2) measurable gaps in global health security and pandemic prevention and preparedness identified under the IHR (2005) Monitoring and Evaluation Framework and national action plans for health security;
+
+&emsp;"(3) demonstrated political and financial commitment to pandemic prevention and preparedness; and
+
+&emsp;"(4) demonstrated commitment to—
+
+&emsp;&emsp;"(A) upholding global health budget and data transparency and accountability standards;
+
+&emsp;&emsp;"(B) complying with the International Health Regulations (2005);
+
+&emsp;&emsp;"(C) investing in domestic health systems; and
+
+&emsp;&emsp;"(D) achieving measurable results.
+
+"(e)
+
+Accountability; Conflicts of Interest; Criteria for Programs.—The FIF Representative shall—
+
+&emsp;"(1) take such actions as may be necessary to ensure that the Fund will have in effect adequate procedures and standards to account for and monitor the use of funds contributed to the Fund, including the cost of administering the Fund, by—
+
+&emsp;&emsp;"(A) engaging Fund stakeholders; and
+
+&emsp;&emsp;"(B) actively promoting transparency and accountability of Fund governance and operations;
+
+&emsp;"(2) seek to ensure there is agreement to put in place a conflict of interest policy to ensure fairness and a high standard of ethical conduct in the Fund's decision-making processes, including proactive procedures to screen staff for conflicts of interest and measures to address any conflicts, such as—
+
+&emsp;&emsp;"(A) potential divestments of interests;
+
+&emsp;&emsp;"(B) prohibition from engaging in certain activities;
+
+&emsp;&emsp;"(C) recusal from certain decision-making and administrative processes; and
+
+&emsp;&emsp;"(D) representation by an alternate board member; and
+
+&emsp;"(3) seek agreement on the criteria that should be used to determine the programs and activities that should be assisted by the Fund.
+
+"(f)
+
+Selection of Partner Countries, Projects, and Recipients.—The Governing Board should establish—
+
+&emsp;"(1) eligible partner country selection criteria, including transparent metrics to measure and assess global health security and pandemic prevention and preparedness strengths and vulnerabilities in countries seeking assistance;
+
+&emsp;"(2) minimum standards for ensuring eligible partner country ownership and commitment to long-term results, including requirements for domestic budgeting, resource mobilization, and co-investment;
+
+&emsp;"(3) criteria for the selection of projects to receive support from the Fund;
+
+&emsp;"(4) standards and criteria regarding qualifications of recipients of such support; and
+
+&emsp;"(5) such rules and procedures as may be necessary—
+
+&emsp;&emsp;"(A) for cost-effective management of the Fund; and
+
+&emsp;&emsp;"(B) to ensure transparency and accountability in the grant-making process.
+
+"(g)
+
+Additional Transparency and Accountability Requirements.—
+
+&emsp;"(1)
+
+Inspector general.—The FIF Representative shall seek to ensure that the Fund maintains an independent Office of the Inspector General that—
+
+&emsp;&emsp;"(A) is fully enabled to operate independently and transparently;
+
+&emsp;&emsp;"(B) is supported by and with the requisite resources and capacity to regularly conduct and publish, on a publicly accessible website, rigorous financial, programmatic, and reporting audits and investigations of the Fund and its grantees, including subgrantees; and
+
+&emsp;&emsp;"(C) establishes an investigative unit that—
+
+&emsp;&emsp;&emsp;"(i) develops an oversight mechanism to ensure that grant funds are not diverted to illicit or corrupt purposes or activities; and
+
+&emsp;&emsp;&emsp;"(ii) submits an annual report to the Governing Board describing its activities, investigations, and results.
+
+&emsp;"(2)
+
+Sense of congress on corruption.—It is the sense of Congress that—
+
+&emsp;&emsp;"(A) corruption within global health programs contribute directly to the loss of human life and cannot be tolerated; and
+
+&emsp;&emsp;"(B) in making financial recoveries relating to a corrupt act or criminal conduct committed by a grant recipient, as determined by the Inspector General described in paragraph (1), the responsible grant recipient should be assessed at a recovery rate of up to 150 percent of such loss.
+
+&emsp;"(3)
+
+Administrative expenses; financial tracking systems.—The FIF Representative shall seek to ensure that the Fund establishes, maintains, and makes publicly available a system to track—
+
+&emsp;&emsp;"(A) the administrative and management costs of the Fund on a quarterly basis; and
+
+&emsp;&emsp;"(B) the amount of funds disbursed to each grant recipient and subrecipient during each grant's fiscal cycle.
+
+&emsp;"(4)
+
+Exemption from duties and taxes.—The FIF Representative should seek to ensure that the Fund adopts rules that condition grants upon agreement by the relevant national authorities in an eligible partner country to exempt from duties and taxes all products financed by such grants, including procurements by any principal or subrecipient for the purpose of carrying out such grants.
+
+"(h)
+
+Reports to Congress.—
+
+&emsp;"(1)
+
+Annual report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], and annually thereafter for the duration of the Fund, the Secretary of State, in collaboration with the Administrator of the USAID and the heads of other relevant Federal departments and agencies, shall submit a report on the activities of the Fund to the appropriate congressional committees.
+
+&emsp;&emsp;"(B)
+
+Report elements.—Each report required under subparagraph (A) shall describe—
+
+&emsp;&emsp;&emsp;"(i) the goals of the Fund;
+
+&emsp;&emsp;&emsp;"(ii) the programs, projects, and activities supported by the Fund;
+
+&emsp;&emsp;&emsp;"(iii) private and governmental contributions to the Fund; and
+
+&emsp;&emsp;&emsp;"(iv) the criteria utilized to determine the programs and activities that should be assisted by the Fund, including baselines, targets, desired outcomes, measurable goals, and extent to which those goals are being achieved.
+
+&emsp;"(2)
+
+GAO report on effectiveness.—Not later than 2 years after the date on which the Fund is established, the Comptroller General of the United States shall submit a report to the appropriate congressional committees that evaluates the effectiveness of the Fund, including—
+
+&emsp;&emsp;"(A) the effectiveness of the programs, projects, and activities supported by the Fund; and
+
+&emsp;&emsp;"(B) an assessment of the merits of continued United States participation in the Fund.
+
+"(i)
+
+United States Contributions.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (4)(C), the President may provide contributions to the Fund.
+
+&emsp;"(2)
+
+Notification.—The Secretary of State, the Administrator of the USAID, or the head of any other relevant Federal department or agency shall submit a notification to the appropriate congressional committees not later than 15 days before making a contribution to the Fund that identifies—
+
+&emsp;&emsp;"(A) the amount of the proposed contribution;
+
+&emsp;&emsp;"(B) the total of funds contributed by other donors; and
+
+&emsp;&emsp;"(C) the national interests served by United States participation in the Fund.
+
+&emsp;"(3)
+
+Limitation.—During the 5-year period beginning on the date of the enactment of this Act, the cumulative total of United States contributions to the Fund may not exceed 33 percent of the total contributions to the Fund from all sources.
+
+&emsp;"(4)
+
+Withholdings.—
+
+&emsp;&emsp;"(A)
+
+Support for acts of international terrorism.—If the Secretary of State determines that the Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371) has repeatedly provided support for acts of international terrorism, the United States shall withhold from its contribution to the Fund for the next fiscal year an amount equal to the amount expended by the Fund to the government of such country.
+
+&emsp;&emsp;"(B)
+
+Excessive salaries.—If the Secretary of State determines that the salary during any of the first 5 fiscal years beginning after the date of the enactment of this Act of any individual employed by the Fund exceeds the salary of the Vice President of the United States for such fiscal year, the United States should withhold from its contribution for the following fiscal year an amount equal to the aggregate difference between the 2 salaries.
+
+&emsp;&emsp;"(C)
+
+Accountability certification requirement.—The Secretary of State may withhold not more than 20 percent of planned United States contributions to the Fund until the Secretary certifies to the appropriate congressional committees that the Fund has established procedures to provide access by the Office of Inspector General of the Department of State, as cognizant Inspector General, the Inspector General of the Department of Health and Human Services, the USAID Inspector General, and the Comptroller General of the United States to the Fund's financial data and other information relevant to United States contributions to the Fund (as determined by the Inspector General of the Department of State, in consultation with the Secretary of State).
+
+#### "SEC. 5564. GENERAL PROVISIONS.
+
+"(a)
+
+Authorization of Appropriations.—
+
+&emsp;"(1)
+
+In general.—There is authorized to be appropriated $5,000,000,000 for the 5-year period beginning on October 1, 2022 to carry out the purposes of sections 5562 and 5563, which may be in addition to amounts otherwise made available for such purposes, in consultation with the appropriate congressional committees and subject to the requirements under chapters 1 and 10 of part I \[22 U.S.C. 2151 et seq., 22 U.S.C. 2293 et seq.\] and section 634A \[22 U.S.C. 2394–1\] of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.).
+
+&emsp;"(2)
+
+Exception.—Section 110 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107) shall not apply with respect to assistance made available under this subtitle.
+
+"(b)
+
+Compliance With the Foreign Aid Transparency and Accountability Act of 2016.—\[Amended section 2(3) of Pub. L. 114–191, set out as a note under section 2394c of this title.\]
+
+#### "SEC. 5565. SUNSET.
+
+"This subtitle shall cease to be effective on September 30, 2027.
+
+#### "SEC. 5566. RULE OF CONSTRUCTION.
+
+"Nothing in this subtitle may be construed to impair or otherwise affect the authorities granted to the Administrator of the USAID, the Secretary of Health and Human Services, or the head of any other Federal department or agency under any applicable law."
 
 #### Findings
 

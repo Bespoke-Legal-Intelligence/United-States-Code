@@ -50,7 +50,7 @@ This chapter, referred to in subsecs. (a), (b)(1)(C), and (f), was in the origin
 
 <b>1992</b>—Subsec. (f). Pub. L. 102–528 struck out at end "The publication of a substantive rule shall not be made less than thirty days before the effective date of such rule, except as otherwise provided by the Institute for good cause found and published with the rule."
 
-<b>1988</b>—Subsec. (f). Pub. L. 100–690 and Pub. L. 100–702 made substantially identical amendments, striking out", at least thirty days prior to their effective date," after "Federal Register" and inserting sentence at end relating to publication of a substantive rule.
+<b>1988</b>—Subsec. (f). Pub. L. 100–690 and Pub. L. 100–702 made substantially identical amendments, striking out ", at least thirty days prior to their effective date," after "Federal Register" and inserting sentence at end relating to publication of a substantive rule.
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing, which for purposes of codification was translated as "title 26" thus requiring no change in text.
 

@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(iii) Any other appropriate action to resolve the performance problem; and
 
-&emsp;(2) except as provided under section 1204 of the Internal Revenue Service Restructuring and Reform Act of 1998, strengthens the system's effectiveness by—
+&emsp;(2) except as provided under section 1204 of the Internal Revenue Service Restructuringand Reform Act of 1998, strengthens the system's effectiveness by—
 
 &emsp;&emsp;(A) establishing goals or objectives for individual, group, or organizational performance (or any combination thereof), consistent with the Internal Revenue Service's performance planning procedures, including those established under the Government Performance and Results Act of 1993, subtitle III of title 40, Revenue Procedure 64–22 (as in effect on July 30, 1997), and taxpayer service surveys, and communicating such goals or objectives to employees;
 
@@ -46,7 +46,7 @@ The date of enactment of this section, referred to in subsec. (a), is the date o
 
 Section 1204 of the Internal Revenue Service Restructuring and Reform Act of 1998, referred to in subsec. (a)(2), is section 1204 of Pub. L. 105–206, which is set out as a note under section 7804 of Title 26, Internal Revenue Code.
 
-The Government Performance and Results Act of 1993, referred to in subsec. (a)(2)(A), is Pub. L. 103–62,Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of this title, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Government Performance and Results Act of 1993, referred to in subsec. (a)(2)(A), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of this title, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
 #### Amendments
 

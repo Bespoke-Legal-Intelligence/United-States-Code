@@ -40,7 +40,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;(ii) the gaps in early childhood home visitation in the State; and
 
-&emsp;&emsp;&emsp;(iii) the extent to which such programs or initiatives are meeting the needs of eligible families described in subsection (k)(2); and
+&emsp;&emsp;&emsp;(iii) the extent to which such programs or initiatives are meeting the needs of eligible families described in subsection (l)(2); and
 
 &emsp;&emsp;(C) the State's capacity for providing substance abuse treatment and counseling services to individuals and families in need of such treatment or services.
 
@@ -70,9 +70,133 @@ The purposes of this section are—
 
 &emsp;An eligible entity to which a grant is made under paragraph (1) may use up to 25 percent of the grant for outcomes or success payments related to a pay for outcomes initiative that will not result in a reduction of funding for services delivered by the entity under a childhood home visitation program under this section while the eligible entity develops or operates such an initiative.
 
-#### (4) Grant duration
+#### (4) Grant amounts
 
-&emsp;The Secretary shall determine the period of years for which a grant is made to an eligible entity under paragraph (1).
+#### (A) Base grants
+
+#### (i) In general
+
+#### (I) General rule
+
+&emsp;&emsp;&emsp;&emsp;With respect to each of fiscal years 2023 through 2027 for which an eligible entity not referred to in subsection (k)(2)(A) is awarded a base grant under this section, the amount of the grant payable to the eligible entity for the fiscal year is the amount described by clause (ii) of this subparagraph with respect to the eligible entity, except as provided in subclause (II) of this clause.
+
+#### (II) Substitution of successor eligible entity for predecessor
+
+&emsp;&emsp;&emsp;&emsp;If the 1st fiscal year for which an eligible entity is awarded a base grant under this section for a program operated in aState is among fiscal years 2024 through 2027, the amount described by clause (ii) with respect to the eligible entity is the amount of the base grant for which a program operated in the State was eligible under this subparagraph for fiscal year 2023.
+
+#### (ii) Amount described
+
+#### (I) General rule
+
+&emsp;&emsp;&emsp;&emsp;Subject to the succeeding provisions of this clause, the amount described by this clause with respect to an eligible entity is—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount made available under subsection (k) for base grants for fiscal year 2023 that remains after making the reservations required by subsection (k)(2) or any other reductions required by Federal law for fiscal year 2023; multiplied by
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the percentage of children in all States who have not attained 5 years of age (as determined by the Secretary on the basis of the data most recently available before fiscal year 2023) that is represented by the number of such children in the State in which the eligible entity is operating a program pursuant to this section (as so determined).
+
+#### (II) Adjustments to ensure stable funding
+
+&emsp;&emsp;&emsp;&emsp;If the amount otherwise payable to an eligible entity under subclause (I) for fiscal year 2023 is less than 90 percent, or greater than 110 percent, of the amount payable under this section to the eligible entity for the program for fiscal year 2021, the Secretary shall increase the amount otherwise so payable to 90 percent, or decrease the amount otherwise so payable to 110 percent, as the case may be, of the amount otherwise so payable.
+
+#### (III) Adjustment to ensure all base grant funds are allocated
+
+&emsp;&emsp;&emsp;&emsp;If the amount described by subclause (I)(aa) is different than the total of the amounts otherwise described by subclause (I) after applying subclause (II), the Secretary shall increase or decrease the amounts otherwise so described after applying subclause (II) by such equal percentage as is necessary to reduce that difference to zero.
+
+#### (IV) Minimum base grant amount
+
+&emsp;&emsp;&emsp;&emsp;Notwithstanding the preceding provisions of this clause, the amount described by this clause with respect to an eligible entity shall be not less than $1,000,000.
+
+#### (B) Matching grants
+
+#### (i) Amount of grant
+
+#### (I) General rule
+
+&emsp;&emsp;&emsp;&emsp;With respect to each of fiscal years 2024 through 2027 for which an eligible entity not referred to in subsection (k)(2)(A) is awarded a grant under this section, the Secretary shall increase the amount of the grant payable to the eligible entity for the fiscal year under subparagraph (A) of this paragraph by the matching amount (if any) determined under subclause (II) of this clause with respect to the eligible entity for the fiscal year and the additional matching amount (if any) determined under clause (iii) of this subparagraph with respect to the eligible entity for the fiscal year.
+
+#### (II) Matching amount
+
+#### (aa) In general
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Subject to item (bb) of this subclause, the matching amount with respect to an eligible entity for a fiscal year is 75 percent of the sum of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the total amount obligated by the eligible entity for home visiting services in the State for the fiscal year, from Federal funds made available for the fiscal year under this subparagraph; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the total amount so obligated by the eligible entity from non-Federal funds, determined under subclause (III).
+
+#### (bb) Limitation
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The matching amount with respect to an eligible entity for a fiscal year shall not exceed the allotment under subclause (IV) for the State in which the eligible entity is operating a program under this section for the fiscal year.
+
+#### (III) Determination of obligations from non-Federal funds
+
+&emsp;&emsp;&emsp;&emsp;For purposes of this clause, the total amount obligated by an eligible entity from non-Federal funds is the total of the amounts that are obligated by the eligible entity from non-Federal sources, to the extent that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the services are delivered in compliance with subsections (d)(2) and (d)(3);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the eligible entity has reported the obligations to the Secretary; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the amount is not counted toward meeting the maintenance of effort requirement in subsection (f).
+
+#### (IV) State allotments
+
+&emsp;&emsp;&emsp;&emsp;The amount allotted under this subclause for a State in which an eligible entity is operating a program under this section for a fiscal year is—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the minimum matching grant allocation amount for the fiscal year; plus
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb)(AA) the amount (if any) by which the amount made available under subsection (k) for matching grants for the fiscal year that remains after making the reservations required by subsection (k)(2) or any other reduction required by Federal law for the fiscal year exceeds the sum of the minimum matching grant allocationamounts for all eligible entities for the fiscal year; multiplied by
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the percentage of children in all States who have not attained 5 years of age and are members of families with income not exceeding the poverty line (as determined by the Secretary on the basis of the most recently available data) that is represented by the number of such children in the State (as so determined).
+
+#### (V) Minimum matching grant allocation amount
+
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (VI), for purposes of subclause (IV), the minimum matching grant allocation amount for a fiscal year is—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of fiscal year 2024, $776,000;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of fiscal year 2025, $1,000,000;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) in the case of fiscal year 2026, $1,500,000; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) in the case of fiscal year 2027, $2,000,000.
+
+#### (VI) Special rule
+
+&emsp;&emsp;&emsp;&emsp;If, after making any reductions otherwise required by law for a fiscal year, the amount made available for matching grants under this clause for the fiscal year is insufficient to provide the minimum matching grant allocation amount to each eligible entity operating a program under this section for the fiscal year, the Secretary may make a proportionate adjustment to the minimum matching grant allocation amount for the fiscal year to accommodate the reductions.
+
+#### (ii) Submission of statement expressing interest in additional matching funds if available
+
+&emsp;&emsp;&emsp;Before the beginning of a fiscal year for which an eligible entity desires a matching grant under this subparagraph for a program operated under this section, the eligible entity shall submit to the Secretary a statement as to whether the eligible entity desires additional matching grant funds that may be made available under clause (iii) for the fiscal year.
+
+#### (iii) Carryover and reallocation of unobligated funds
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;If the Secretary determines that an amount allotted under clause (i)(IV) of this subparagraph for a fiscal year will not be awarded during the fiscal year, or that an amount made available under subsection (k)(1) for a fiscal year for matching grants will not be obligated by an eligible entity for the fiscal year, the amount shall be available for matching grants under this subparagraph for the succeeding fiscal year for eligible entities that have made submissions under clause (ii) of this subparagraph for additional matching grant funds from the amount.
+
+#### (II) State allotments
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall allot to each eligible entity that has made such a submission for a fiscal year—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the total amount (if any) made available under subclause (I) for the fiscal year; multiplied by
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the percentage of children who have not attained 5 years of age and are members of families with income not exceeding the poverty line (as determined by the Secretary on the basis of the most recently available data) in all of the States in which any eligible entity that has made such a submission is so operating a program, that is represented by the number of such children in the State (as so determined) in which the eligible entity is operating such a program.
+
+#### (III) Additional matching amount
+
+#### (aa) In general
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Subject to item (bb) of this subclause, the additional matching amount with respect to an eligible entity for a fiscal year is 75 percent of the sum of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the total amount obligated by the eligible entity for home visiting services in the State for the fiscal year, from Federal funds made available for the fiscal year under this subparagraph; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the total amount so obligated by the eligible entity from non-Federal funds, determined under clause (i)(III),
+
+> &emsp;&emsp;&emsp;&emsp;that are not taken into account in determining the matching amount with respect to the eligible entity under clause (i).
+
+#### (bb) Limitation
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The additional matching amount with respect to an eligible entity for a fiscal year shall not exceed the allotment under subclause (II) for the State in which the eligible entity is operating a program under this section for the fiscal year.
 
 #### (5) Technical assistance
 
@@ -82,11 +206,11 @@ The purposes of this section are—
 
 The requirements of this subsection for an early childhood home visitation program conducted with a grant made under this section are as follows:
 
-#### (1) Quantifiable, measurable improvement in benchmark areas
+#### (1) Quantifiable, measurable improvement in benchmark areas related to individual family outcomes
 
 #### (A) In general
 
-&emsp;&emsp;The eligible entity establishes, subject to the approval of the Secretary, quantifiable, measurable 3- and 5-year benchmarks for demonstrating that the program results in improvements for the eligible families participating in the program in the following areas:
+&emsp;&emsp;The eligible entity establishes, subject to the approval of the Secretary, quantifiable,measurable 3- and 5-year benchmarks for demonstrating that the program results in improvements for the eligible families participating in the program in the following areas:
 
 &emsp;&emsp;&emsp;(i) Improved maternal and newborn health.
 
@@ -100,7 +224,31 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;&emsp;&emsp;(vi) Improvements in the coordination and referrals for other community resources and supports.
 
-#### (B) Demonstration of improvements after 3 years
+#### (B) Outcomes dashboards
+
+&emsp;&emsp;The Secretary shall, directly or by grant or contract, establish and operate a website accessible to the public that includes an annually updated dashboard that—
+
+&emsp;&emsp;&emsp;(i) provides easy-to-understand information on the outcomes achieved by each eligible entity with respect to each of the benchmarks described in subparagraph (A) of this paragraph that apply to the eligible entity, which shall be based on only the data elements or types of data collected before December 29, 2022, unless administering agencies and the Secretary agree pursuant to subsection (h)(6) that additional data is required;
+
+&emsp;&emsp;&emsp;(ii) includes a template provided by the Secretary that will enable comparison among eligible entities not referred to in subsection (k)(2)(A) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) a profile of each eligible entity showing outcome indicators and how the outcomes compare to benchmarks described in subclause (II);
+
+&emsp;&emsp;&emsp;&emsp;(II) information on the outcome indicators and requisite outcome levels established for each eligible entity;
+
+&emsp;&emsp;&emsp;&emsp;(III) information on each model employed in the program operated by each eligible entity, and regarding each benchmark area described in subsection (d)(1)(A) in which the model used by the eligible entity is expected to affect participant outcomes;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the most recently available information from the report required by subparagraph (E) of this paragraph;
+
+&emsp;&emsp;&emsp;&emsp;(V) an electronic link to the State needs assessment under subsection (b)(1); and
+
+&emsp;&emsp;&emsp;&emsp;(VI) information regarding any penalty imposed, or other corrective action taken, by the Secretary against a State for failing to achieve a requisite outcome level or any other requirement imposed by or under this section, and an indication as to whether the eligible entity is operating under a corrective action plan under subparagraph (E)(ii) of this paragraph, and if so, a link to the plan, an explanation of the reason for the implementation of the plan, and a report on any progress made in operating under the plan;
+
+&emsp;&emsp;&emsp;(iii) includes information relating to those eligible entities for which funding is reserved under subsection (k)(2)(A), with modifications as necessary to reflect tribal sovereignty, data privacy, and participant confidentiality; and
+
+&emsp;&emsp;&emsp;(iv) protects data privacy and confidentiality of participant families.
+
+#### (C) Demonstration of improvements after 3 years
 
 #### (i) Report to the Secretary
 
@@ -124,19 +272,19 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;&emsp;&emsp;If the Secretary determines after a period of time specified by the Secretary that an eligible entity implementing an improvement plan under clause (ii) has failed to demonstrate any improvement in the areas specified in subparagraph (A), or if the Secretary determines that an eligible entity has failed to submit the report required under clause (i), the Secretary shall terminate the entity's grant and may include any unexpended grant funds in grants made to nonprofit organizations under subsection (h)(2)(B).
 
-#### (C) Final report
+#### (D) Final report
 
 &emsp;&emsp;Not later than December 31, 2015, the eligible entity shall submit a report to the Secretary demonstrating improvements (if any) in each of the areas specified in subparagraph (A).
 
-#### (D) Demonstration of improvements in subsequent years
+#### (E) Demonstration of improvements in subsequent years
 
 #### (i) Continued measurement of improvement in applicable benchmark areas
 
-&emsp;&emsp;&emsp;The eligible entity, after demonstrating improvements for eligible families as specified in subparagraphs (A) and (B), shall continue to track and report, not later than 30 days after the end of fiscal year 2020 and every 3 years thereafter, information demonstrating that the program results in improvements for the eligible families participating in the program in at least 4 of the areas specified in subparagraph (A) that the service delivery model or models selected by the entity are intended to improve.
+&emsp;&emsp;&emsp;The eligible entity, after demonstrating improvements for eligible families as specified in subparagraphs (A) and (C), shall continue to track and report, not later than 30 days after the end of fiscal year 2020 and every 3 years thereafter, information demonstrating that the program results in improvements for the eligible families participating in the program in at least 4 of the areas specified in subparagraph (A) that the service delivery model or models selected by the entity are intended to improve.
 
 #### (ii) Corrective action plan
 
-&emsp;&emsp;&emsp;If the eligible entity fails to demonstrate improvement in at least 4 of the areas specified in subparagraph (A), as compared to eligible families who do not receiveservices under an early childhood home visitation program, the entity shall develop and implement a plan to improve outcomes in each of the areas specified in subparagraph (A) that the service delivery model or models selected by the entity are intended to improve, subject to approval by the Secretary. The plan shall include provisions for the Secretary to monitor implementation of the plan and conduct continued oversight of the program, including through submission by the entity of regular reports to the Secretary.
+&emsp;&emsp;&emsp;If the eligible entity fails to demonstrate improvement in at least 4 of the areas specified in subparagraph (A), as compared to eligible families who do not receive services under an early childhood home visitation program, the entity shall develop and implement a plan to improve outcomes in each of the areas specified in subparagraph (A) that the service delivery model or models selected by the entity are intended to improve, subject to approval by the Secretary. The plan shall include provisions for the Secretary to monitor implementation of the plan and conduct continued oversight of the program, including through submission by the entity of regular reports to the Secretary.
 
 #### (iii) Technical assistance
 
@@ -186,7 +334,7 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) quasi-experimental research designs.
 
-&emsp;&emsp;&emsp;&emsp;(II) The model conforms to a promising and new approach to achieving the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B), has been developed or identified by a national organization or institution of higher education, and will be evaluated through well-designed and rigorous process.
+&emsp;&emsp;&emsp;&emsp;(II) The model conforms to a promising and new approach to achieving thebenchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B), has been developed or identified by a national organization or institution of higher education, and will be evaluated through well-designed and rigorous process.
 
 #### (ii) Majority of grant funds used for evidence-based models
 
@@ -196,7 +344,11 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;&emsp;&emsp;The Secretary shall establish criteria for evidence of effectiveness of the service delivery models and shall ensure that the process for establishing the criteria is transparent and provides the opportunity for public comment.
 
-#### (B) Additional requirements
+#### (B) Use of grant to provide or support targeted, intensive home visiting services
+
+&emsp;&emsp;The program uses the grant to provide or support targeted, intensive home visiting services for the populations described in paragraph (5) <sup>3</sup>.
+
+#### (C) Additional requirements
 
 &emsp;&emsp;(i) The program adheres to a clear, consistent model that satisfies the requirements of being grounded in empirically-based knowledge related to home visiting and linked to the benchmark areas specified in paragraph (1)(A) and the participant outcomes described in paragraph (2)(B) related to the purposes of the program.
 
@@ -232,6 +384,28 @@ The requirements of this subsection for an early childhood home visitation progr
 
 &emsp;&emsp;(I) Eligible families who, or that include individuals who, are serving or formerly served in the Armed Forces, including such families that have members of the Armed Forces who have had multiple deployments outside of the United States.
 
+#### (5) Limitation on use of funds for administrative costs
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B) of this paragraph, an eligible entity to which funds are provided under subsection (c) or (h)(2)(B) shall not use more than 10 percent of the funds to cover the costs of administration.
+
+#### (B) Authority to grant exceptions
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary may authorize an eligible entity that meets a condition of clause (ii) of this subparagraph to exceed the percentage limitation in subparagraph (A) with respect to a program conducted under this subsection by not more than 5 percentage points, subject to such terms and conditions as the Secretary deems appropriate.
+
+#### (ii) Conditions
+
+&emsp;&emsp;&emsp;An eligible entity meets a condition of this clause if the eligible entity—
+
+&emsp;&emsp;&emsp;&emsp;(I) conducts the program by directly providing home visits to eligible families and without a sub-recipient;
+
+&emsp;&emsp;&emsp;&emsp;(II) in the fiscal year for which the grant for the program is made under this section, proposes to expand services in 1 or more communities identified in the statewide needs assessment under subsection (b) and in which home visiting services are not provided; or
+
+&emsp;&emsp;&emsp;&emsp;(III) has conducted the program for fewer than 3 years.
+
 #### (e) Application requirements
 
 An eligible entity desiring a grant under this section shall submit an application to the Secretary for approval, in such manner as the Secretary may require, that includes the following:
@@ -266,7 +440,17 @@ An eligible entity desiring a grant under this section shall submit an applicati
 
 #### (f) Maintenance of effort
 
-Funds provided to an eligible entity receiving a grant under this section shall supplement, andnot supplant, funds from other sources for early childhood home visitation programs or initiatives.
+#### (1) In general
+
+&emsp;Notwithstanding any other provision of this section, the Secretary may not make a grant to an eligible entity under this section for a fiscal year if the total amount of non-Federal funds obligated by the eligible entity in the State in the fiscal year for a program operated pursuant to this section is less than the total amount of non-Federal funds reported to have been expended by any eligible entity for such a program in the State in fiscal year 2019 or 2021, whichever is the lesser.
+
+#### (2) Publication of amounts
+
+&emsp;Not later than June 30, 2023, the Secretary shall cause to have published in the Federal Register the amount of non-Federal funds expended as described in this section that has been reported by each eligible entity not referred to in subsection (k)(2)(A) for each of fiscal years 2019 and 2021.
+
+#### (3) Grace period
+
+&emsp;The Secretary may, in exceptional circumstances, allow an eligible entity a period to come into compliance with this subsection. The Secretary shall provide technical assistance to any eligible entity to assist the entity in doing so.
 
 #### (g) Evaluation
 
@@ -292,7 +476,7 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 &emsp;&emsp;&emsp;(ii) the effectiveness of such programs on different populations, including the extent to which the ability of programs to improve participant outcomes varies across programs and populations; and
 
-&emsp;&emsp;&emsp;(iii) the potential for the activities conducted under such programs, if scaled broadly, to improve health care practices, eliminate health disparities, and improve health care system quality, efficiencies, and reduce costs.
+&emsp;&emsp;&emsp;(iii) the potential for the activities conducted under such programs, if scaled broadly, to improve health care practices,eliminate health disparities, and improve health care system quality, efficiencies, and reduce costs.
 
 #### (3) Report
 
@@ -310,7 +494,7 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 #### (2) Grants to eligible entities that are not States
 
-#### (A) Indian tribes, tribal organizations, or Urban Indian Organizations
+#### (A) Indian Tribes, Tribal Organizations, or Urban Indian Organizations
 
 &emsp;&emsp;The Secretary shall specify requirements for eligible entities that are Indian Tribes (or a consortium of Indian Tribes), Tribal Organizations, or Urban Indian Organizations to apply for and conduct an early childhood home visitation program with a grant under this section. Such requirements shall, to the greatest extent practicable, be consistent with the requirements applicable to eligible entities that are States and shall require an Indian Tribe (or consortium), Tribal Organization, or Urban Indian Organization to—
 
@@ -320,7 +504,7 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 #### (B) Nonprofit organizations
 
-&emsp;&emsp;If, as of the beginning of fiscal year 2012, a State has not applied or been approved for a grant under this section, the Secretary may use amounts appropriated under paragraph (1) of subsection (j) that are available for expenditure under paragraph (3) of that subsection to make a grant to an eligible entity that is a nonprofit organization described in subsection (k)(1)(B) to conduct an early childhood home visitation program in the State. The Secretary shall specify the requirements for such an organization to apply for and conduct the program which shall, to the greatest extent practicable, be consistent with the requirements applicable to eligible entities that are States and shall require the organization to—
+&emsp;&emsp;If, as of the beginning of fiscal year 2012, a State has not applied or been approved for a grant under this section, the Secretary may use amounts appropriated under paragraph (1) of subsection (k) that are available for expenditure under paragraph (3) of that subsection to make a grant to an eligible entity that is a nonprofit organization described in subsection (l)(1)(B) to conduct an early childhood home visitation program in the State. The Secretary shall specify the requirements for such an organization to apply for and conduct the program which shall, to the greatest extent practicable, be consistent with the requirements applicable to eligible entities that are States and shall require the organization to—
 
 &emsp;&emsp;&emsp;(i) carry out the program based on the needs assessment conducted by the State under subsection (b); and
 
@@ -356,7 +540,7 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 #### (i) Designation
 
-&emsp;&emsp;&emsp;The head of the department or agency responsible for administering a program funded under this section shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, designate data exchange standards for necessary categories of information that a State agency operating the program is required to electronically exchange with another State agency under applicable Federal law.
+&emsp;&emsp;&emsp;The head of the department or agency responsible for administering a programfunded under this section shall, in consultation with an interagency work group established by the Office of Management and Budget and considering State government perspectives, designate data exchange standards for necessary categories of information that a State agency operating the program is required to electronically exchange with another State agency under applicable Federal law.
 
 #### (ii) Data exchange standards must be nonproprietary and interoperable
 
@@ -398,6 +582,32 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 &emsp;&emsp;&emsp;Nothing in this paragraph shall be construed to require a change to existing data exchange standards for Federal reporting about a program referred to in this section, if the head of the department or agency responsible for administering the program finds the standards to be effective and efficient.
 
+#### (6) Reduction of administrative burden
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall reduce the burden, on States and public and private implementing agencies at the local level, of administering this section, by—
+
+&emsp;&emsp;&emsp;(i) reviewing and revising administrative data collection instruments and forms to eliminate duplication and streamline reporting requirements for States, eligible entities referred to in subsection (k)(2)(A), and nonprofit organizations referred to in subsection (l)(1)(B), including timelines for submitting reports;
+
+&emsp;&emsp;&emsp;(ii) conducting an analysis of the total number of hours reported by administering agencies on complying with paperwork requirements, and exploring, in consultation with administering agencies, ways to reduce the number of hours spent by at least 15 percent;
+
+&emsp;&emsp;&emsp;(iii) conducting a review of paperwork and data collection requirements for tribal grantees, and exploring, in consultation with tribes and tribal organizations, ways to reduce administrative burden, respect sovereignty, and acknowledge the different focus points for tribal grantees;
+
+&emsp;&emsp;&emsp;(iv) collecting input from relevant State fiscal officials to align fiscal requirements and oversight for States and eligible entities to ensure consistency with standards and guidelines for other Federal formula grant programs; and
+
+&emsp;&emsp;&emsp;(v) consulting with administering agencies and service delivery model representatives on needed and unneeded data elements regarding the dashboards provided for in subsection (d)(1)(B), consistent with the data requirements of such subsection.
+
+#### (B) Findings on paperwork reduction
+
+#### (i) Inclusion in report
+
+&emsp;&emsp;&emsp;In the 1st report submitted pursuant to subsection (j) more than 18 months after December 29, 2022, the Secretary shall include the findings of the Secretary with respect to the matters described in subparagraph (A).
+
+#### (ii) Implementation
+
+&emsp;&emsp;&emsp;Within 2 years after complying with clause (i), the Secretary shall implement the findings referred to in clause (i).
+
 #### (i) Application of other provisions of subchapter
 
 #### (1) In general
@@ -406,51 +616,75 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 #### (2) Exceptions
 
-&emsp;The following provisions of this subchapter shall apply to a grant made under this section to the same extent and in the same manner as such provisions apply to allotments made under section 702(c) of this title:
+&emsp;The following provisions of this subchapter shall apply to a grant made under this sectionto the same extent and in the same manner as such provisions apply to allotments made under section 702(c) of this title:
 
 &emsp;&emsp;(A) Section 704(b)(6) of this title (relating to prohibition on payments to excluded individuals and entities).
 
 &emsp;&emsp;(B) Section 704(c) of this title (relating to the use of funds for the purchase of technical assistance).
 
-&emsp;&emsp;(C) Section 704(d) of this title (relating to a limitation on administrative expenditures).
+&emsp;&emsp;(C) Section 706 of this title (relating to reports and audits), but only to the extent determined by the Secretary to be appropriate for grants made under this section.
 
-&emsp;&emsp;(D) Section 706 of this title (relating to reports and audits), but only to the extent determined by the Secretary to be appropriate for grants made under this section.
+&emsp;&emsp;(D) Section 707 of this title (relating to penalties for false statements).
 
-&emsp;&emsp;(E) Section 707 of this title (relating to penalties for false statements).
+&emsp;&emsp;(E) Section 708 of this title (relating to nondiscrimination).
 
-&emsp;&emsp;(F) Section 708 of this title (relating to nondiscrimination).
+&emsp;&emsp;(F) Section 709(a) of this title (relating to the administration of the grant program).
 
-&emsp;&emsp;(G) Section 709(a) of this title (relating to the administration of the grant program).
+#### (j) Annual report to Congress
 
-#### (j) Appropriations
+By December 31, 2023, and annually thereafter, the Secretary shall submit to the Congress a written report on the grants made under this section for the then preceding fiscal year, which shall include—
+
+&emsp;(1) an eligible entity-by-eligible entity summary of the outcomes measured by the entity with respect to each benchmark described in subsection (e)(5) that apply to the entity;
+
+&emsp;(2) information regarding any technical assistance funded under subparagraph (B) or (C) of subsection (k)(2), including the type of any such assistance provided;
+
+&emsp;(3) information on the demographic makeup of families served by each such entity to the extent possible while respecting participant confidentiality, including race, ethnicity, educational attainment at enrollment, household income, and other demographic markers as determined by the Secretary;
+
+&emsp;(4) the information described in subsection (d)(1)(E);
+
+&emsp;(5) the estimated share of the eligible population served using grants made under this section;
+
+&emsp;(6) a description of each service delivery model funded under this section by the eligible entities in each State, and the share (if any) of the grants expended on each model;
+
+&emsp;(7) a description of non-Federal expenditures by eligible entities to qualify for matching funds under subsection (c)(4);
+
+&emsp;(8) information on the uses of funds reserved under subsection (k)(2)(C);
+
+&emsp;(9) information relating to those eligible entities for which funding is reserved under subsection (k)(2)(A), with modifications as necessary to reflect tribal data sovereignty, data privacy, and participant confidentiality; and
+
+&emsp;(10) a list of data elements collected from eligible entities, and the purpose of each data element in measuring performance or enforcing requirements under this section.
+
+#### (k) Appropriations
 
 #### (1) In general
 
 &emsp;Out of any funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary to carry out this section—
 
-&emsp;&emsp;(A) $100,000,000 for fiscal year 2010;
+&emsp;&emsp;(A) for fiscal year 2023, $500,000,000 for base grants;
 
-&emsp;&emsp;(B) $250,000,000 for fiscal year 2011;
+&emsp;&emsp;(B) for fiscal year 2024, $550,000,000, of which $500,000,000 shall be for base grants and $50,000,000 shall be for matching grants;
 
-&emsp;&emsp;(C) $350,000,000 for fiscal year 2012;
+&emsp;&emsp;(C) for fiscal year 2025, $600,000,000, of which $500,000,000 shall be for base grants and $100,000,000 shall be for matching grants;
 
-&emsp;&emsp;(D) $400,000,000 for fiscal year 2013;
+&emsp;&emsp;(D) for fiscal year 2026, $650,000,000, of which $500,000,000 shall be for base grants and $150,000,000 shall be for matching grants; and
 
-&emsp;&emsp;(E) $400,000,000 for fiscal year 2014;
-
-&emsp;&emsp;(F) for fiscal year 2015, $400,000,000;
-
-&emsp;&emsp;(G) for fiscal year 2016, $400,000,000; and
-
-&emsp;&emsp;(H) for each of fiscal years 2017 through 2022, $400,000,000.
+&emsp;&emsp;(E) for fiscal year 2027, $800,000,000, of which $500,000,000 shall be for base grants and $300,000,000 shall be for matching grants.
 
 #### (2) Reservations
 
-&emsp;Of the amount appropriated under this subsection for a fiscal year (or portion of a fiscal year), the Secretary shall reserve—
+&emsp;Of each amount made available for base grants and each amount made available for matching grants appropriated under this subsection for a fiscal year (or portion of a fiscal year), the Secretary shall reserve—
 
-&emsp;&emsp;(A) 3 percent of such amount for purposes of making grants to eligible entities that are Indian Tribes (or a consortium of Indian Tribes), Tribal Organizations, or Urban Indian Organizations; and
+&emsp;&emsp;(A) 6 percent of such amount for purposes of making and administering grants to eligible entities that are Indian Tribes (or a consortium of Indian Tribes), Tribal Organizations, or Urban Indian Organizations;
 
-&emsp;&emsp;(B) 3 percent of such amount for purposes of carrying out subsections (d)(1)(B)(iii), (g), and (h)(3).
+&emsp;&emsp;(B) 2 percent of such amount for purposes of providing technical assistance, directly or through grants or contracts—
+
+&emsp;&emsp;&emsp;(i) for purposes as otherwise described in subsections (c)(5), (d)(1)(C)(iii), (d)(1)(E)(iii), and (d)(4)(E); and
+
+&emsp;&emsp;&emsp;(ii) to entities referred to in subparagraph (A) of this paragraph;
+
+&emsp;&emsp;(C) 2 percent of such amount for purposes of the provision of workforce support, retention, and case management, including workforce-related technical assistance, to eligible entities, research and evaluation, and program administration, directly or through grants or contracts, of which the Secretary shall use not more than $1,500,000 to establish and operate the Jackie Walorski Center for Evidence-Based Case Management; and
+
+&emsp;&emsp;(D) 3 percent of such amount for purposes of research and evaluation (directly or through grants or contracts), and for administering this section (directly, through contracts, or otherwise).
 
 #### (3) Availability
 
@@ -466,7 +700,11 @@ Funds provided to an eligible entity receiving a grant under this section shall 
 
 &emsp;To the extent that the grant amount awarded under this section to an eligible entity is determined on the basis of relative population or poverty considerations, the Secretary shall make the determination using the most accurate Federal data available for the eligible entity.
 
-#### (k) Definitions
+#### (5) Disposition of excess funds reserved for research, evaluation, and administration
+
+&emsp;To the extent that the amounts reserved under paragraph (2)(D) for a fiscal year are not obligated in the fiscal year, the Secretary may use the funds for any purpose described in this section or to offset any reduction with respect to this section that is required by Federal law.
+
+#### (l) Definitions
 
 In this section:
 
@@ -504,13 +742,75 @@ In this section:
 
 &emsp;&emsp;(D) a requirement that payments are made to the recipient of a grant, contract, or cooperative agreement only when agreed upon outcomes are achieved, except that this requirement shall not apply with respect to payments to a third party conducting the evaluation described in subparagraph (B).
 
-(Aug. 14, 1935, ch. 531, title V, §511, as added Pub. L. 111–148, title II, §2951, Mar. 23, 2010, 124 Stat. 334; amended Pub. L. 113–93, title II, §209, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §218, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title VI, §§50601–50606(a), 50607, Feb. 9, 2018, 132 Stat. 228–231.)
+(Aug. 14, 1935, ch. 531, title V, §511, as added Pub. L. 111–148, title II, §2951, Mar. 23, 2010, 124 Stat. 334; amended Pub. L. 113–93, title II, §209, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §218, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title VI, §§50601–50606(a), 50607, Feb. 9, 2018, 132 Stat. 228–231; Pub. L. 117–328, div. FF, title VI, §6101(b)–(c)(3)(A), (c)(4)–(f)(2)(A), (g), (h)(1), Dec. 29, 2022, 136 Stat. 5953–5962.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–328, div. FF, title VI, §6101(h)(1), (i)(2), Dec. 29, 2022, 136 Stat. 5962, 5964, provided that, effective Oct. 1, 2023, this section is amended:</i>
+
+<i>(1) in subsection (d)—</i>
+
+<i>(A) in paragraph (3)(C), by adding at the end the following:</i>
+
+&emsp;&emsp;<i>"(vii) If the application submitted by the eligible entity includes the assurance described in subsection (e)(10)(C) with respect to the program, the program provides in-person service consistent with the assurances."; and</i>
+
+<i>(B) by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively, and inserting after paragraph (3) the following:</i>
+
+#### <i>"(4) Virtual home visits</i>
+
+#### <i>"(A) In general</i>
+
+&emsp;&emsp;<i>A virtual home visit conducted under the program shall be considered a home visit for purposes of this section if the application for funding of the program submitted pursuant to this section most recently after the effective date of this paragraph includes the material described in subsection (e)(10).</i>
+
+#### <i>"(B) Standards for training applicable to virtual service delivery</i>
+
+&emsp;&emsp;<i>The standards for training requirements applicable to virtual service delivery under a home visiting model shall be equivalent to those that apply to in-person service delivery under the model.</i>
+
+#### <i>"(C) Reporting requirement</i>
+
+&emsp;&emsp;<i>A grant made under this section for the program may not be used for any virtual home visit during a year, unless the eligible entity to which the grant is made submits the report described in subsection (e)(8)(A) for the year.</i>
+
+#### <i>"(D) Virtual home visit defined</i>
+
+&emsp;&emsp;<i>In this section, the term 'virtual home visit' means a visit conducted solely by use of electronic information and telecommunications technologies.</i>
+
+#### <i>"(E) Technical assistance</i>
+
+&emsp;&emsp;<i>If the Secretary finds that an eligible entity has not complied with the assurance described</i><i>in subsection (e)(10)(C), the Secretary shall, directly or through grants, contracts, or cooperative agreements, provide the eligible entity with such technical assistance as is necessary to assist the eligible entity in doing so."; and</i>
+
+<i>(2) in subsection (e)—</i>
+
+<i>(A) in paragraph (8)(A), by inserting ", including the number of virtual home visits conducted under the program in the year covered by the report, disaggregated with respect to each home visiting model under which the virtual home visits are conducted" before the semicolon; and</i>
+
+<i>(B) by redesignating paragraph (10) as paragraph (11) and inserting after paragraph (9) the following:</i>
+
+&emsp;<i>(10) At the option of the eligible entity—</i>
+
+&emsp;&emsp;<i>(A) a description of any limitations or constraints on virtual home visits under the program, including—</i>
+
+&emsp;&emsp;&emsp;<i>(i) a description of the plan of the eligible entity to encourage in-person home visits; and</i>
+
+&emsp;&emsp;&emsp;<i>(ii) a description of the considerations to be used in determining when a virtual home visit is appropriate, including client consent, client preference, geographic limitations, model fidelity, and hazardous conditions including public health emergencies, weather events, health concerns for home visitors and client families, and other local issues;</i>
+
+&emsp;&emsp;<i>(B) an assurance that—</i>
+
+&emsp;&emsp;&emsp;<i>(i) the virtual home visit is implemented as a model enhancement; or</i>
+
+&emsp;&emsp;&emsp;<i>(ii) the Secretary has identified the home visit as part of an effective model or model adaptation, based on an evidence of effectiveness review conducted using the criteria established under subsection (d)(3)(A)(iii); and</i>
+
+&emsp;&emsp;<i>(C) an assurance to the Secretary that at least 1 in-person home visit shall be conducted for each client family under the program during the 12-month period that begins with the entry of the client family into the program, and during each succeeding 12-month period, except that any such period in which a public health emergency declared under Federal law, or under the law of the State in which the program is conducted, is in effect shall be extended by the length of time in which the declaration is in effect.</i>
+
+<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Child Abuse Prevention and Treatment Act, referred to in subsec. (e)(9), is Pub. L. 93–247, Jan. 31, 1974, 88 Stat. 4. Title II of the Act is classified generally to subchapter III (§5116 et seq.) of chapter 67 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+
+#### Codification
+
+December 29, 2022, referred to in subsecs. (d)(1)(B)(i) and (h)(6)(B)(i), was in the original "the date of the enactment of this section" and "the date of the enactment of this Act", respectively, and in both cases the quoted language was translated as meaning the date of enactment of Pub. L. 117–328, which added subsecs. (d)(1)(B) and (h)(6), to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -521,6 +821,76 @@ Another prior section 711, acts Aug. 14, 1935, ch. 531, title V, §511, 49 Stat.
 Provisions similar to those comprising former section 711 were contained in section 516 of act Aug. 14, 1935, ch. 531, title V, as added July 30, 1965, Pub. L. 89–97, title II, §203(a), 79 Stat. 353 (formerly classified to section 716 of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1)(B)(iii). Pub. L. 117–328, §6101(f)(2)(A)(i), substituted "subsection (l)(2)" for "subsection (k)(2)".
+
+Subsec. (c)(4). Pub. L. 117–328, §6101(c)(1)(A), amended par. (4) generally. Prior to amendment, text read as follows: "The Secretary shall determine the period of years for which a grant is made to an eligible entity under paragraph (1)."
+
+Subsec. (d)(1). Pub. L. 117–328, §6101(b)(1), substituted "benchmark areas related to individual family outcomes" for "benchmark areas" in heading.
+
+Subsec. (d)(1)(B), (C). Pub. L. 117–328, §6101(b)(3), added subpar. (B) and redesignated former subpar. (B) as (C). Former subpar. (C) redesignated (D).
+
+Subsec. (d)(1)(D). Pub. L. 117–328, §6101(b)(3), redesignated subpar. (C) as (D). Former par. (D) redesignated (E).
+
+Subsec. (d)(1)(D)(i). Pub. L. 117–328, §6101(b)(2), substituted "(C)" for "(B)".
+
+Subsec. (d)(1)(E). Pub. L. 117–328, §6101(b)(3), redesignated subpar. (D) as (E).
+
+Subsec. (d)(3)(B). Pub. L. 117–328, §6101(d), added subpar. (B). Former subpar. (B) redesignated (C).
+
+Subsec. (d)(3)(C). Pub. L. 117–328, §6101(d), redesignated subpar. (B) as (C).
+
+Subsec. (d)(3)(C)(vii). Pub. L. 117–328, §6101(h)(1)(C), added cl. (vii).
+
+Subsec. (d)(4). Pub. L. 117–328, §6101(h)(1)(B), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (d)(5). Pub. L. 117–328, §6101(h)(1)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Pub. L. 117–328, §6101(e)(1), added par. (5).
+
+Subsec. (d)(6). Pub. L. 117–328, §6101(h)(1)(B), redesignated par. (5) as (6).
+
+Subsec. (e)(8)(A). Pub. L. 117–328, §6101(h)(1)(D), inserted ", including the number of virtual home visits conducted under the program in the year covered by the report, disaggregated with respect to each home visiting model under which the virtual home visits are conducted" before semicolon.
+
+Subsec. (e)(10), (11). Pub. L. 117–328, §6101(h)(1)(A), added par. (10) and redesignated former par. (10) as (11).
+
+Subsec. (f). Pub. L. 117–328, §6101(c)(1)(B), amended subsec. (f) generally. Prior to amendment, text read asfollows: "Funds provided to an eligible entity receiving a grant under this section shall supplement, and not supplant, funds from other sources for early childhood home visitation programs or initiatives."
+
+Subsec. (h)(2)(B). Pub. L. 117–328, §6101(f)(2)(A)(ii), substituted "subsection (k)" for "subsection (j)" and "subsection (l)(1)(B)" for "subsection (k)(1)(B)" in introductory provisions.
+
+Subsec. (h)(6). Pub. L. 117–328, §6101(g), added par. (6).
+
+Subsec. (i)(2)(C) to (G). Pub. L. 117–328, §6101(e)(2), redesignated subpars. (D) to (G) as (C) to (F), respectively, and struck out former subpar. (C) which read as follows: "Section 704(d) of this title (relating to a limitation on administrative expenditures)."
+
+Subsec. (j). Pub. L. 117–328, §6101(f)(1), added subsec. (j). Former subsec. (j) redesignated (k).
+
+Subsec. (j)(1). Pub. L. 117–328, §6101(c)(3)(A), added subpars. (A) to (E) and struck out former subpars. (A) to (H) which read as follows:
+
+"(A) $100,000,000 for fiscal year 2010;
+
+"(B) $250,000,000 for fiscal year 2011;
+
+"(C) $350,000,000 for fiscal year 2012;
+
+"(D) $400,000,000 for fiscal year 2013;
+
+"(E) $400,000,000 for fiscal year 2014;
+
+"(F) for fiscal year 2015, $400,000,000;
+
+"(G) for fiscal year 2016, $400,000,000; and
+
+"(H) for each of fiscal years 2017 through 2022, $400,000,000."
+
+Subsec. (j)(2). Pub. L. 117–328, §6101(c)(2)(A), substituted "each amount made available for base grants and each amount made available for matching grants" for "the amount" in introductory provisions.
+
+Subsec. (j)(2)(A). Pub. L. 117–328, §6101(c)(2)(B), substituted "6" for "3", inserted "and administering" before "grants", and struck out "and" at end.
+
+Subsec. (j)(2)(B) to (D). Pub. L. 117–328, §6101(c)(2)(C), added subpars. (B) to (D) and struck out former subpar. (B) which read as follows: "3 percent of such amount for purposes of carrying out subsections (d)(1)(B)(iii), (g), and (h)(3)."
+
+Subsec. (j)(5). Pub. L. 117–328, §6101(c)(4), added par. (5).
+
+Subsecs. (k), (l). Pub. L. 117–328, §6101(f)(1), redesignated subsecs. (j) and (k) as (k) and (l), respectively.
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–123, §50603, in introductory provisions, substituted "Each State shall, as a condition of receiving payments from an allotment for the State under section 702 of this title, conduct a statewide needs assessment (which may be separate from but in coordination with the statewide needs assessment required under section 705(a) of this title and which shall be reviewed and updated by the State not later than October 1, 2020)" for "Not later than 6 months after March 23, 2010, each State shall, as a condition of receiving payments from an allotment for the State under section 702 of this title for fiscal year 2011, conduct a statewide needs assessment (which shall be separate from the statewide needs assessment required under section 705(a) of this title)".
 
@@ -554,9 +924,33 @@ Subsec. (j)(2), (3). Pub. L. 113–93, §209(2), inserted "(or portion of a fisc
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. FF, title VI, §6101(i), Dec. 29, 2022, 136 Stat. 5964, provided that:
+
+"(1)
+
+In general.—Except as provided in paragraph (2), this section \[amending this section and section 711a of this title and enacting provisions set out as notes under this section and section 1305 of this title\] and the amendments made by this section shall take effect on October 1, 2022.
+
+"(2)
+
+Virtual home visiting provisions.—The amendments made by subsection (h) \[amending this section\] shall take effect on October 1, 2023."
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–123, div. E, title VI, §50606(b), Feb. 9, 2018, 132 Stat. 231, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date that is 2 years after the date of enactment of this Act \[Feb. 9, 2018\]."
+
+#### Transition Rule
+
+Pub. L. 117–328, div. FF, title VI, §6101(h)(2), Dec. 29, 2022, 136 Stat. 5964, provided that:
+
+"(A)
+
+In general.—A virtual home visit conducted before the effective date of the amendments made by this subsection \[Oct. 1, 2023\] under an early childhood home visitation program funded under section 511 of the Social Security Act \[42 U.S.C. 711\] shall be considered a home visit for purposes of such section.
+
+"(B)
+
+Virtual home visit defined.—In subparagraph (A), the term 'virtual home visit' means a visit conducted solely by use of electronic information and telecommunications technologies."
 
 #### Allowing Home Visiting Programs To Continue Serving Families Safely
 
@@ -574,7 +968,7 @@ In General.—For purposes of section 511 of the Social Security Act \[42 U.S.C.
 
 &emsp;&emsp;"(A) to train home visitors in conducting a virtual home visit and in emergency preparedness and response planning for families served, and may include training on how to safely conduct intimate partner violence screenings remotely, training on safety and planning for families served;
 
-&emsp;&emsp;"(B) for the acquisition by families enrolled in the program of such technological means as are needed to conduct and support a virtual home visit; and
+&emsp;&emsp;"(B) for the acquisition by families enrolled in the program of such technological means as areneeded to conduct and support a virtual home visit; and
 
 &emsp;&emsp;"(C) to provide emergency supplies to families served, regardless of whether the provision of such supplies is within the scope of the approved program, such as diapers, formula, non-perishable food, water, hand soap, and hand sanitizer.
 
@@ -588,7 +982,7 @@ Authority to Delay Deadlines.—
 
 &emsp;"(1)
 
-In general.—The Secretary may extend the deadline by which a requirement of section 511 of theSocial Security Act must be met, by such period of time as the Secretary deems appropriate, taking into consideration the impact of the COVID–19 public health emergency on eligible entity home visiting programs and the impact of families enrolled in home visiting programs. The Secretary may delay the deadline for submission, waive performance measures, or allow for alternative data sources to be used to show improvement in performance in the manner provided in section 511(d)(1) of such Act.
+In general.—The Secretary may extend the deadline by which a requirement of section 511 of the Social Security Act must be met, by such period of time as the Secretary deems appropriate, taking into consideration the impact of the COVID–19 public health emergency on eligible entity home visiting programs and the impact of families enrolled in home visiting programs. The Secretary may delay the deadline for submission, waive performance measures, or allow for alternative data sources to be used to show improvement in performance in the manner provided in section 511(d)(1) of such Act.
 
 &emsp;"(2)
 
@@ -607,4 +1001,6 @@ Timely Release of Title V Funds.—The authorities provided in this section shal
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "paragraph (4)".</i>
 

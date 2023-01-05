@@ -32,7 +32,7 @@
 
 (1) In order to effectively carry out the purpose of this subchapter, the Assistant Secretary shall administer programs under this subchapter through the Administration.
 
-(2) In carrying out the provisions of this subchapter, the Assistant Secretary may request the technical assistance and cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, the Department of Veterans Affairs, the Substance Abuse and Mental Health Services Administration,,<sup>1</sup> and such other agencies and departments of the Federal Government as may be appropriate.
+(2) In carrying out the provisions of this subchapter, the Assistant Secretary may request the technical assistance and cooperation of the Department of Education, the Department of Labor, the Department of Housing and Urban Development, the Department of Transportation, the Office of Community Services, the Department of Veterans Affairs, the Substance Abuse and Mental Health Services Administration,,<sup>1</sup> and such other agencies and departmentsof the Federal Government as may be appropriate.
 
 #### (c) Ombudsman program
 
@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 106–501, §301, added subsec. (d).
 
 <b>1993</b>—Subsecs. (b), (c). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" wherever appearing.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–375, §301, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "It is the purpose of this subchapter to encourage and assist State and area agencies to concentrate resources in order to develop greater capacity and foster the development and implementation of comprehensive and coordinated service systems toserve older individuals by entering into new cooperative arrangements in each State with State and area agencies, with Indian tribes, tribal organizations, and Native Hawaiian organizations, and with the providers, including voluntary organizations, of supportive services, including nutrition services and multipurpose senior centers, for the planning, and for the provision of, supportive services, nutrition services, and multipurpose senior centers, in order to—
+<b>1992</b>—Subsec. (a). Pub. L. 102–375, §301, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "It is the purpose of this subchapter to encourage and assist State and area agencies to concentrate resources in order to develop greater capacity and foster the development and implementation of comprehensive and coordinated service systems to serve older individuals by entering into new cooperative arrangements in each State with State and area agencies, with Indian tribes, tribal organizations, and Native Hawaiian organizations, and with the providers, including voluntary organizations, of supportive services, including nutrition services and multipurpose senior centers, for the planning, and for the provision of, supportive services, nutrition services, and multipurpose senior centers, in order to—
 
 &emsp;"(1) secure and maintain maximum independence and dignity in a home environment for older individuals capable of self care with appropriate supportive services;
 

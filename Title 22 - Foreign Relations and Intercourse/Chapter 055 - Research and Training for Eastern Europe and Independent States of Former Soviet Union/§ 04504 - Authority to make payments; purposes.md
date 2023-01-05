@@ -34,7 +34,7 @@
 
 (5) One part of the payments made in each fiscal year shall be used to support training in the languages of the independent states of the former Soviet Union and the countries of Eastern Europe. Such payments shall include grants to individuals to pursue such training and to summer language institutes operated by institutions of higher education. Preference shall be given for Russian language studies and, as appropriate, studies of other languages of the independent states of the former Soviet Union.
 
-(6) Payments may be made to carry out other research and training in studies on the countries of Eastern Europe and the independent states of the former Soviet Union not otherwise described in this section.
+(6) Payments may be made to carry out other research and training in studies on the countries of Eastern Europe and the independent states ofthe former Soviet Union not otherwise described in this section.
 
 (Pub. L. 98–164, title VIII, §805, Nov. 22, 1983, 97 Stat. 1048; Pub. L. 103–199, title III, §302(6), Dec. 17, 1993, 107 Stat. 2323.)
 

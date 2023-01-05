@@ -400,7 +400,7 @@ Electronic commerce.—The term 'electronic commerce' means any transaction cond
 
 &emsp;"(4)
 
-Internet.—The term 'Internet' means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol,to communicate information of all kinds by wire or radio.
+Internet.—The term 'Internet' means collectively the myriad of computer and telecommunications facilities, including equipment and operating software, which comprise the interconnected world-wide network of networks that employ the Transmission Control Protocol/Internet Protocol, or any predecessor or successor protocols to such protocol, to communicate information of all kinds by wire or radio.
 
 &emsp;"(5)
 
@@ -518,7 +518,7 @@ Charges for telecommunications.—The term 'charges for telecommunications' mean
 
 "(a)
 
-Universal Service.—Nothing in this Act \[probably means "this title"\] shall prevent the imposition or collection of any fees or charges used to preserve andadvance Federal universal service or similar State programs—
+Universal Service.—Nothing in this Act \[probably means "this title"\] shall prevent the imposition or collection of any fees or charges used to preserve and advance Federal universal service or similar State programs—
 
 &emsp;"(1) authorized by section 254 of the Communications Act of 1934 (47 U.S.C. 254); or
 
@@ -528,7 +528,7 @@ Universal Service.—Nothing in this Act \[probably means "this title"\] shall p
 
 and E–911
 
-Services.—Nothing in this Act \[probably means "this title"\] shall prevent the imposition or collection, on a service used for access to 911 or E–911 services, of any fee or charge specifically designated or presented as dedicated by a State or political subdivision thereof for the support of 911 or E–911 services if no portion of the revenue derived from such fee or charge is obligated or expended for any purpose other than support of 911 or E–911 services.
+Services.—Nothing in this Act \[probably means "this title"\] shall prevent the imposition or collection, on a service used for access to 911 or E–⁠911 services, of any fee or charge specifically designated or presented as dedicated by a State or political subdivision thereof for the support of 911 or E–⁠911 services if no portion of the revenue derived from such fee or charge is obligated or expended for any purpose other than support of 911 or E–⁠911 services.
 
 "(c)
 

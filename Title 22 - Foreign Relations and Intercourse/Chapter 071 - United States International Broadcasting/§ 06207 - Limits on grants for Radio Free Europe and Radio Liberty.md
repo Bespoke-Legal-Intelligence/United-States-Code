@@ -4,7 +4,7 @@
 
 The Agency may not make any grant to RFE/RL, Incorporated, unless the certificate of incorporation of RFE/RL, Incorporated, has been amended to provide that—
 
-&emsp;(1) the Board of Directors of RFE/RL, Incorporated, shall consist of the members authorized under section 6204(a)(20) of this title; and
+&emsp;(1) the Board of Directors of RFE/RL, Incorporated, shall consist of the members authorized under section 6204(a)(20) <sup>1</sup> of this title; and
 
 &emsp;(2) such Board of Directors shall make all major policy determinations governing the operation of RFE/RL, Incorporated, and shall appoint and fix the compensation of such managerial officers and employees of RFE/RL, Incorporated, as it considers necessary to carry out the purposes of the grant provided under this chapter.
 
@@ -40,9 +40,9 @@ Grants to RFE/RL, Incorporated, by the Agency shall only be made in compliance w
 
 &emsp;(3) that failure to comply with the requirements of this section may result in suspension or termination of a grant without further obligation by the Agency or the United States;
 
-&emsp;(4) that duplication of language services and technical operations between RFE/RL, Incorporated and the <sup>1</sup> any other grantee of the Agency be reduced to the extent appropriate, as determined by the Chief Executive Officer; and
+&emsp;(4) that duplication of language services and technical operations between RFE/RL, Incorporated and the <sup>2</sup> any other grantee of the Agency be reduced to the extent appropriate, as determined by the Chief Executive Officer; and
 
-&emsp;(5) that RFE/RL, Incorporated, justify in detail each proposed expenditure of grant funds, and that such funds may not be used for any other purpose unless the Agency gives its prior written approval.
+&emsp;(5) that RFE/RL, Incorporated, justify in detail each proposed expenditure of grant funds,and that such funds may not be used for any other purpose unless the Agency gives its prior written approval.
 
 #### (h) Prohibited uses of grant funds
 
@@ -72,27 +72,29 @@ Effective not later than March 31 and September 30 of each calendar year, the In
 
 (2) Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
 
-(3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act \[22 U.S.C. 2871 et seq.\], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
+(3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act \[22 U.S.C. 2871 et seq.\], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of chapter 4 of title 5 with respect to RFE/RL, Incorporated.
 
-(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1314(d), 1323(l)(1), Oct. 21, 1998, 112 Stat. 2681–777, 2681–780; Pub. L. 107–228, div. A, title V, §§501, 502, Sept. 30, 2002, 116 Stat. 1392; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 114–328, div. A, title XII, §1288(5), Dec. 23, 2016, 130 Stat. 2552; Pub. L. 116–283, div. A, title XII, §1299Q(e)(3), Jan. 1, 2021, 134 Stat. 4025.)
+(Pub. L. 103–236, title III, §308, Apr. 30, 1994, 108 Stat. 437; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1314(d), 1323(l)(1), Oct. 21, 1998, 112 Stat. 2681–777, 2681–780; Pub. L. 107–228, div. A, title V, §§501, 502, Sept. 30, 2002, 116 Stat. 1392; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 114–328, div. A, title XII, §1288(5), Dec. 23, 2016, 130 Stat. 2552; Pub. L. 116–283, div. A, title XII, §1299Q(e)(3), Jan. 1, 2021, 134 Stat. 4025; Pub. L. 117–286, §4(b)(45), Dec. 27, 2022, 136 Stat. 4348.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
+Section 6204(a)(20) of this title, referred to in subsec. (a)(1), which related to authority of the Chief Executive Officer to condition any grant or cooperative agreement to RFE/RL, Inc., or certain other entities on authority to determine membership of the boards of such entities, was repealed by Pub. L. 117–263, div. I, title XCVII, §9706(2), Dec. 23, 2022, 136 Stat. 3915. Former section 6204(a)(21) of this title was redesignated as section 6204(a)(20) of this title.
+
 This chapter, referred to in subsecs. (a)(2) and (e), was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 The foreign relations laws of the United States, referred to in subsec. (h)(1)(A), are classified generally to this title.
 
-The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442. See section 6209(e) of this title.
-
-The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, which was classified generally to chapter 43 (§2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, §310(e), Apr. 30, 1994, 108 Stat. 442.
 
 #### Codification
 
 Pub. L. 116–283, div. A, title XII, §1299Q(e)(3), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (j)(3). Pub. L. 117–286 substituted "chapter 4 of title 5" for "the Inspector General Act of 1978".
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §1299Q(e)(3)(A), substituted "Agency" for "Board" in introductory provisions.
 
@@ -142,5 +144,7 @@ Pub. L. 99–93, title III, §305(b), Aug. 16, 1985, 99 Stat. 436, provided that
 
 &emsp;"(2) be represented by an observer at each meeting of the Board for International Broadcasting and of the Board of Directors of RFE/RL, Incorporated."
 
-<i><sup>1</sup></i><i> So in original. The word "the" probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

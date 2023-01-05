@@ -50,7 +50,7 @@ Amendment by Pub. L. 106–361 effective at the earliest practicable date after 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of Title 38, Veterans' Benefits.
+Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov.11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 1994 Amendment
 

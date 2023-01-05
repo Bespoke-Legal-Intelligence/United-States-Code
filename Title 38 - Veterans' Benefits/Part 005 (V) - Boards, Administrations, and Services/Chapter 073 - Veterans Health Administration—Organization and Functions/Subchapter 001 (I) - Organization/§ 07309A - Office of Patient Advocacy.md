@@ -22,9 +22,15 @@ Function.—(1) The function of the Office is to carry out the Patient Advocacy 
 
 &emsp;(C) receive training in patient advocacy.
 
+(3) Beginning not later than 18 months after the date of the enactment of this paragraph, the Director shall establish an information technology system that will allow a veteran (or the designated representative of a veteran) to electronically—
+
+&emsp;(A) file a complaint that will be received by the appropriate patient advocate; and
+
+&emsp;(B) at any time view the status of the complaint, including interim and final actions that have been taken to address the complaint.
+
 (d)
 
-Patient Advocacy Responsibilities.—The responsibilities of each patient advocate at amedical facility of the Department are the following:
+Patient Advocacy Responsibilities.—The responsibilities of each patient advocate at a medical facility of the Department are the following:
 
 &emsp;(1) To resolve complaints by veterans with respect to health care furnished under the laws administered by the Secretary that cannot be resolved at the point of service or at a higher level easily accessible to the veteran.
 
@@ -62,13 +68,19 @@ Training.—In providing training to patient advocates under subsection (c)(2)(C
 
 Controlled Substance Defined.—In this section, the term "controlled substance" has the meaning given that term in section 102 of the Controlled Substances Act (21 U.S.C. 802).
 
-(Added Pub. L. 114–198, title IX, §924(a), July 22, 2016, 130 Stat. 767.)
+(Added Pub. L. 114–198, title IX, §924(a), July 22, 2016, 130 Stat. 767; amended Pub. L. 117–175, §2, Sept. 16, 2022, 136 Stat. 2107.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
+The date of the enactment of this paragraph, referred to in subsec. (c)(3), is the date of enactment of Pub. L. 117–175, which was approved Sept. 16, 2022.
+
 The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (d)(12), was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c)(3). Pub. L. 117–175 added par. (3).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

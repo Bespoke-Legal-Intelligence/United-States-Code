@@ -32,7 +32,7 @@ The primary role of the warning coordination meteorologist shall be to carry out
 
 &emsp;&emsp;(D) ensure the maintenance and accuracy of severe weather call lists, appropriate office severe weather policy or procedures, and other severe weather or dissemination methodologies or strategies; and
 
-&emsp;&emsp;(E) work closely with State, local, and tribal emergency management agencies, and other agencies related to disaster management, to ensure a planned, coordinated, and effective preparedness and response effort.
+&emsp;&emsp;(E) work closely with State, local, and tribal emergency management agencies, andother agencies related to disaster management, to ensure a planned, coordinated, and effective preparedness and response effort.
 
 #### (2) Other staff
 

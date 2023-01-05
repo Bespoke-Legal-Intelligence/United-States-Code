@@ -40,3 +40,4 @@ A prior subchapter B of chapter 21 designation and accompanying heading "COMMISS
 - [&sect; 02163 - Removal of officer from active duty; action by Secretary](%C2%A7%2002163%20-%20Removal%20of%20officer%20from%20active%20duty%3B%20action%20by%20Secretary.md)
 - [&sect; 02164 - Officers considered for removal; retirement or discharge; separation benefits](%C2%A7%2002164%20-%20Officers%20considered%20for%20removal%3B%20retirement%20or%20discharge%3B%20separation%20benefits.md)
 - [&sect; 02165 - Relief of retired officer promoted while on active duty](%C2%A7%2002165%20-%20Relief%20of%20retired%20officer%20promoted%20while%20on%20active%20duty.md)
+- [&sect; 02166 - Continuation on active duty; Coast Guard officers with certain critical skills](%C2%A7%2002166%20-%20Continuation%20on%20active%20duty%3B%20Coast%20Guard%20officers%20with%20certain%20critical%20skills.md)

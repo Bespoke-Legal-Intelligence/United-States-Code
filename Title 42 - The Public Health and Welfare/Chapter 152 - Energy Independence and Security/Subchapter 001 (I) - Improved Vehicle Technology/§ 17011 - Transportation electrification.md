@@ -132,7 +132,7 @@ In this section:
 
 #### (2) Electric vehicle competition
 
-&emsp;The program established under paragraph (1) shall include a plug-in hybrid electric vehiclecompetition for institutions of higher education, which shall be known as the "Dr. Andrew Frank Plug-In Electric Vehicle Competition".
+&emsp;The program established under paragraph (1) shall include a plug-in hybrid electric vehicle competition for institutions of higher education, which shall be known as the "Dr. Andrew Frank Plug-In Electric Vehicle Competition".
 
 #### (3) Engineers
 

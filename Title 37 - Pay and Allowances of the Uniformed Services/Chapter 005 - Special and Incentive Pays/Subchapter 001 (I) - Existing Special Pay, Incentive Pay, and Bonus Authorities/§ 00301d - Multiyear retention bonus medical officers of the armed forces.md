@@ -58,7 +58,7 @@ Pub. L. 102–190, div. A, title VI, §615, Dec. 5, 1991, 105 Stat. 1377, provid
 
 "(a)
 
-Reiterating Ineligibility.—The restriction contained in subsection (b)(2) of section 301d of title 37,United States Code, on the eligibility of flag and general officers serving as full-time physicians to receive a multiyear retention bonus under that section shall not be construed as being limited, modified, or superseded by any provision of law, whether enacted before, on, or after the date of the enactment of this Act \[Dec. 5, 1991\], unless that provision of law—
+Reiterating Ineligibility.—The restriction contained in subsection (b)(2) of section 301d of title 37, United States Code, on the eligibility of flag and general officers serving as full-time physicians to receive a multiyear retention bonus under that section shall not be construed as being limited, modified, or superseded by any provision of law, whether enacted before, on, or after the date of the enactment of this Act \[Dec. 5, 1991\], unless that provision of law—
 
 &emsp;"(1) specifically refers to that section and this subsection; and
 

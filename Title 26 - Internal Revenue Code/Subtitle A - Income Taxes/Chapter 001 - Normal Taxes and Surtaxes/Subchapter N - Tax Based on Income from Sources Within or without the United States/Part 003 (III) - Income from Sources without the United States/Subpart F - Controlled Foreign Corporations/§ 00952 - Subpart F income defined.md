@@ -28,7 +28,7 @@ For purposes of this subpart, the term "subpart F income" means, in the case of 
 
 #### (b) Exclusion of United States income
 
-In the case of a controlled foreign corporation, subpart F income does not include any item ofincome from sources within the United States which is effectively connected with the conduct by such corporation of a trade or business within the United States unless such item is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States. For purposes of this subsection, any exemption (or reduction) with respect to the tax imposed by section 884 shall not be taken into account.
+In the case of a controlled foreign corporation, subpart F income does not include any item of income from sources within the United States which is effectively connected with the conduct by such corporation of a trade or business within the United States unless such item is exempt from taxation (or is subject to a reduced rate of tax) pursuant to a treaty obligation of the United States. For purposes of this subsection, any exemption (or reduction) with respect to the tax imposed by section 884 shall not be taken into account.
 
 #### (c) Limitation
 
@@ -52,7 +52,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 &emsp;&emsp;&emsp;&emsp;(II) has not previously been taken into account under this subparagraph.
 
-&emsp;&emsp;&nbsp;In determining the deficit attributable to qualified activities described in subclause (II) or (III) of clause (iii),<sup>1</sup> deficits in earnings and profits (to the extent not previously taken into account under this section) for taxable years beginning after 1962 and before 1987 also shall be taken into account. In the case of the qualified activity described in clause (iii)(I),<sup>1</sup> the rule of the preceding sentence shall apply, except that "1982" shall be substituted for "1962".
+&emsp;&emsp;&nbsp;In determining the deficit attributable to qualified activities described in subclause\(II) or (III) of clause (iii),<sup>1</sup> deficits in earnings and profits (to the extent not previously taken into account under this section) for taxable years beginning after 1962 and before 1987 also shall be taken into account. In the case of the qualified activity described in clause (iii)(I),<sup>1</sup> the rule of the preceding sentence shall apply, except that "1982" shall be substituted for "1962".
 
 #### (iii) Qualified activity
 
@@ -96,7 +96,7 @@ In the case of a controlled foreign corporation, subpart F income does not inclu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A controlled foreign corporation may elect to reduce the amount of its subpart F income for any taxable year which is attributable to any qualified activity by theamount of any deficit in earnings and profits of a qualified chain member for a taxable year ending with (or within) the taxable year of such controlled foreign corporation to the extent such deficit is attributable to such activity. To the extent any deficit reduces subpart F income under the preceding sentence, such deficit shall not be taken into account under subparagraph (B).
+&emsp;&emsp;&emsp;A controlled foreign corporation may elect to reduce the amount of its subpart F income for any taxable year which is attributable to any qualified activity by the amount of any deficit in earnings and profits of a qualified chain member for a taxable year ending with (or within) the taxable year of such controlled foreign corporation to the extent such deficit is attributable to such activity. To the extent any deficit reduces subpart F income under the preceding sentence, such deficit shall not be taken into account under subparagraph (B).
 
 #### (ii) Qualified chain member
 
@@ -128,7 +128,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### References in Text
 
-The Foreign Corrupt Practices Act of 1977, referred to in subsec. (a), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
+The Foreign Corrupt Practices Act of 1977, referred to in subsec. (a), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
 
 Clause (iii), referred to in subsec. (c)(1)(B)(ii), means cl. (iii) of subsec. (c)(1)(B), which was amended by Pub. L. 115–97, §14211(b)(1). As amended, subcl. (I) was struck out and subcls. (II) and (III) were redesignated (I) and (II), respectively. See 2017 Amendment note below.
 

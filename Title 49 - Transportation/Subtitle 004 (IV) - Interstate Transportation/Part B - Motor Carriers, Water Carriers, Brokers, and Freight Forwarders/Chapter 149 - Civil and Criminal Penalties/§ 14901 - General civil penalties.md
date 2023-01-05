@@ -98,7 +98,7 @@ Provisions similar to those in this section were contained in sections 10751 and
 
 Subsec. (h). Pub. L. 114–94, §5508(a)(4), struck out "Household Goods" after "Settlement of" in heading.
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §32108(a)(4), as amended by Pub. L. 114–94, §5508(b)(1), substituted "$10,000 for each violation, or $25,000 for each violation relating to providing transportation of passengers" for "$2,000 for each violation and for each additional day the violation continues" in concluding provisions.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §32108(a)(4), as amended by Pub. L. 114–94, §5508(b)(1), substituted "$10,000 for each violation, or $25,000 for each violation relating to providing transportation of passengers" for"$2,000 for each violation and for each additional day the violation continues" in concluding provisions.
 
 Pub. L. 112–141, §32108(a)(1)–(3), substituted "$1,000" for "$500" and "or section 13902(c) of this title," for "with respect to providing transportation of passengers," and struck out "who is not registered under this part to provide transportation of passengers," after "in the case of a person" in concluding provisions.
 

@@ -28,7 +28,7 @@ For transfer of functions, personnel, assets, and liabilities of the General Ser
 
 #### 5-Year Plans for Federal Building Construction and Land Port-of-Entry Projects
 
-Pub. L. 111–117, div. C, title V, Dec. 16, 2009, 123 Stat. 3188, provided in part: "That for fiscal year 2011 and thereafter, the annual budget submission to Congress for the General Services Administration shall include a detailed 5-year plan for Federal building constructionprojects with a yearly update of total projected future funding needs: <i>Provided further</i>, That for fiscal year 2011 and thereafter, the annual budget submission to Congress for the General Services Administration shall, in consultation with U.S. Customs and Border Protection, include a detailed 5-year plan for Federal land port-of-entry projects with a yearly update of total projected future funding needs".
+Pub. L. 111–117, div. C, title V, Dec. 16, 2009, 123 Stat. 3188, provided in part: "That for fiscal year 2011 and thereafter, the annual budget submission to Congress for the General Services Administration shall include a detailed 5-year plan for Federal building construction projects with a yearly update of total projected future funding needs: <i>Provided further</i>, That for fiscal year 2011 and thereafter, the annual budget submission to Congress for the General Services Administration shall, in consultation with U.S. Customs and Border Protection, include a detailed 5-year plan for Federal land port-of-entry projects with a yearly update of total projected future funding needs".
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -94,7 +94,7 @@ The provisions of this reorganization plan shall take effect on the 1st day of J
 
 > To the Congress of the United States:
 
-I transmit herewith Reorganization Plan No. 18 of 1950, prepared in accordance with the provisions of the Reorganization Act of 1949. The plan transfers to the Administrator of General Services the functions of the various Federal agencies with respect to leasing and assigning general-purpose space in buildings and the operation, maintenance, and custody of office buildings.Since such authority is already largely concentrated in the General Services Administration with respect to the District of Columbia, the plan principally relates to the administration of these functions in the field.
+I transmit herewith Reorganization Plan No. 18 of 1950, prepared in accordance with the provisions of the Reorganization Act of 1949. The plan transfers to the Administrator of General Services the functions of the various Federal agencies with respect to leasing and assigning general-purpose space in buildings and the operation, maintenance, and custody of office buildings. Since such authority is already largely concentrated in the General Services Administration with respect to the District of Columbia, the plan principally relates to the administration of these functions in the field.
 
 The transfers made by this plan will promote more economical leasing, better utilization of building space, and more efficient operation of Government-controlled office buildings. They will effectuate the recommendations of the Commission on Organization of the Executive Branch of the Government with respect to concentrating in the General Services Administration the responsibility for space allotment and the operation of Government buildings outside of the District of Columbia. Likewise, they will extend the principles laid down by the Congress in enacting the Federal Property and Administrative Services Act of 1949 to another important area of Government-wide administrative services—the administration of Government office buildings and general-purpose building space in the field.
 
@@ -142,7 +142,7 @@ Sec. 4. <i>Administration</i>. (a) The General Services Administration shall pro
 
 (b) All executive departments, agencies, and offices shall provide information and assistance to the PMAB as the Chair may request for purposes of carrying out the PMAB's functions, to the extent permitted by law.
 
-(c) The PMAB shall have a staff headed by an Executive Director, who shall be a full-time or permanent part-time Federal employee appointed by the Chair. The PMAB shall also have a Designated Federal Officer (DFO) in accordance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA). The Executive Director may serve as the DFO.
+(c) The PMAB shall have a staff headed by an Executive Director, who shall be a full-time or permanent part-time Federal employee appointed by the Chair. The PMAB shall also have a Designated Federal Officer (DFO) in accordance with the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] (FACA). The Executive Director may serve as the DFO.
 
 (d) Members of the PMAB shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707), consistent with the availability of funds.
 
@@ -162,7 +162,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Management Advisory Board
 
-Term of President's Management Advisory Board extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Management Advisory Board extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Management Advisory Board were contained in the following prior Executive Orders:
 

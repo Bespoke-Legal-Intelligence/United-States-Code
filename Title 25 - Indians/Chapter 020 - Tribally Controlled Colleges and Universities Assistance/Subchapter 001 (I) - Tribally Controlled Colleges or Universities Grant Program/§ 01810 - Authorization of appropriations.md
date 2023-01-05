@@ -36,7 +36,7 @@ Subsec. (a)(4). Pub. L. 105–244, §901(a)(2)(A)(iv), (b)(11), substituted "199
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–325 amended subsec. (a) generally, in pars. (1) to (3) substituting provisions authorizing appropriations for fiscal years 1993 to 1997 for provisions authorizing appropriations for fiscal years 1990 to 1992 and adding par. (4).
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–477, §1(b)(1), substituted "1990 and 1991, and for fiscal year 1992, suchsums as may be necessary" for "1987, 1988, 1989, and 1990".
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–477, §1(b)(1), substituted "1990 and 1991, and for fiscal year 1992, such sums as may be necessary" for "1987, 1988, 1989, and 1990".
 
 Subsec. (a)(2). Pub. L. 101–477, §1(b)(2), substituted "1990 and 1991, and for fiscal year 1992, such sums as may be necessary" for "1987, 1988, 1989, and 1990".
 

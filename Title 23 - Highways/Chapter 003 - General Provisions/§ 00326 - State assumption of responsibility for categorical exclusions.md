@@ -6,7 +6,7 @@ Categorical Exclusion Determinations.—
 
 &emsp;(1)
 
-In general.—The Secretary may assign, and a State may assume, responsibility for determining whether certain designated activities are included within classes of action identified in regulation by the Secretary that are categorically excluded from requirements for environmental assessments or environmental impact statements pursuant to regulations promulgated by the Council on Environmental Quality under part 1500 of title 40, Code of Federal Regulations (as in effect on October 1, 2003).
+In general.—The Secretary may assign, and a State may assume, responsibility for determining whether certain designated activities are included within classes of action identified in regulation by the Secretary that are categorically excluded from requirements for environmental assessments or environmental impact statements pursuant to regulationspromulgated by the Council on Environmental Quality under part 1500 of title 40, Code of Federal Regulations (as in effect on October 1, 2003).
 
 &emsp;(2)
 
@@ -110,7 +110,7 @@ Legal Fees.—A State assuming the responsibilities of the Secretary under this 
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is Pub. L. 91–190, Jan. 1, 1970,83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Prior Provisions
 

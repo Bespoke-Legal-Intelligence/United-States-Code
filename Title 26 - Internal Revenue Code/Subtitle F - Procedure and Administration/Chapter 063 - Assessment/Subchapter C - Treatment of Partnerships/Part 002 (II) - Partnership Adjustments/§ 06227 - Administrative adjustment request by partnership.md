@@ -28,7 +28,7 @@ A partnership may not file such a request more than 3 years after the later of�
 
 The Secretary shall issue regulations or other guidance which provide for the proper coordination of this section and section 905(c).
 
-(Added Pub. L. 114–74, title XI, §1101(c)(1), Nov. 2, 2015, 129 Stat. 631; amended Pub. L. 115–141,div. U, title II, §§201(c)(5), 206(f), (p)(2), (3), Mar. 23, 2018, 132 Stat. 1173, 1179, 1182.)
+(Added Pub. L. 114–74, title XI, §1101(c)(1), Nov. 2, 2015, 129 Stat. 631; amended Pub. L. 115–141, div. U, title II, §§201(c)(5), 206(f), (p)(2), (3), Mar. 23, 2018, 132 Stat. 1173, 1179, 1182.)
 
 #### <b>Editorial Notes</b>
 

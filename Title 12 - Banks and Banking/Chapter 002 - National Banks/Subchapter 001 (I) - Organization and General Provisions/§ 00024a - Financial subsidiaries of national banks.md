@@ -90,7 +90,7 @@
 
 #### (I) Board recommendation
 
-&emsp;&emsp;&emsp;&emsp;The Board may, at any time, recommend in writing that the Secretary ofthe Treasury find an activity to be financial in nature or incidental to a financial activity for purposes of this section.
+&emsp;&emsp;&emsp;&emsp;The Board may, at any time, recommend in writing that the Secretary of the Treasury find an activity to be financial in nature or incidental to a financial activity for purposes of this section.
 
 #### (II) Time period for secretarial action
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;(i) compete effectively with any company seeking to provide financial services in the United States;
 
-&emsp;&emsp;&emsp;(ii) efficiently deliver information and services that are financial in nature through the use of technological means, including any application necessary to protect the security or efficacy of systems for the transmission of data or financial transactions; and
+&emsp;&emsp;&emsp;(ii) efficiently deliver information and services that are financial in nature through the use of technological means,including any application necessary to protect the security or efficacy of systems for the transmission of data or financial transactions; and
 
 &emsp;&emsp;&emsp;(iii) offer customers any available or emerging technological means for using financial services or for the document imaging of data.
 
@@ -182,7 +182,7 @@ A national bank that establishes or maintains a financial subsidiary shall assur
 
 #### (2) Equity capital
 
-&emsp;For purposes of this subsection, the term "equity capital" includes, in addition to any equity instrument, any debt instrument issued by a financial subsidiary, if the instrument qualifies as capital of the subsidiary under any Federal or State law, regulation, or interpretation applicable to the subsidiary.
+&emsp;For purposes of this subsection, the term "equity capital" includes, in addition to anyequity instrument, any debt instrument issued by a financial subsidiary, if the instrument qualifies as capital of the subsidiary under any Federal or State law, regulation, or interpretation applicable to the subsidiary.
 
 #### (g) Definitions
 
@@ -238,7 +238,7 @@ The Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2)(B)(iii), (b)(2)(A), (
 
 Section 25 of the Federal Reserve Act, referred to in subsec. (g)(3)(B), is classified to subchapter I (§601 et seq.) of chapter 6 of this title. Section 25A of the Federal Reserve Act is classified to subchapter II (§611 et seq.) of chapter 6 of this title.
 
-The Bank Service Company Act, referred to in subsec. (g)(3)(B), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, as amended, which is classified generally to chapter 18 (§1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
+The Bank Service Company Act, referred to in subsec. (g)(3)(B), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, which is classified generally to chapter 18 (§1861 et seq.) of this title. For complete classification of this Act to the Code, see section 1861 of this title and Tables.
 
 #### Prior Provisions
 
@@ -264,7 +264,7 @@ Subsec. (f)(1). Pub. L. 111–203, §939(d)(5), substituted "standards of credit
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–203, title IX, §939(g), July 21, 2010, 124 Stat. 1887, provided that: "The amendments made by this section \[amending this section, sections 1817, 1831e, and 4519 of this title, sections 78c and 80a–6 of Title 15, Commerce and Trade, and section 286hh of Title 22, Foreign Relations and Intercourse\] shall take effect 2 years after the date of enactment of this Act \[July 21, 2010\]."
+Pub. L. 111–203, title IX, §939(g), July 21, 2010, 124 Stat. 1887, provided that: "The amendments made bythis section \[amending this section, sections 1817, 1831e, and 4519 of this title, sections 78c and 80a–6 of Title 15, Commerce and Trade, and section 286hh of Title 22, Foreign Relations and Intercourse\] shall take effect 2 years after the date of enactment of this Act \[July 21, 2010\]."
 
 #### Effective Date
 

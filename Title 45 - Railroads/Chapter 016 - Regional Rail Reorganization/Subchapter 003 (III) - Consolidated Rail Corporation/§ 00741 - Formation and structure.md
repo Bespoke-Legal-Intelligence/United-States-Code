@@ -38,7 +38,7 @@ The officers of the Corporation shall include a chief executive officer and a ch
 
 #### (g) Voting trustees
 
-For and during the period between the deposit of securities of the Corporation with the special court, in accordance with section 743(a) of this title, and the distribution of such securities, in accordance with section 743(c) of this title, the special court shall, within 30 days after the date of conveyance pursuant to section 743(b)(1) of this title, appoint one or more voting trustees for each class of securities which is so deposited. Such voting trustees shall, on behalf of the distributees, exercise the rights of the holders of such securities as their interests may appear. Within 30 days after such appointment, such voting trustees shall select members of the Board of Directors of the Corporation on behalf of the holders of the class of securities whose rights they exercise pursuant to this subsection.
+For and during the period between the deposit of securities of the Corporation with the specialcourt, in accordance with section 743(a) of this title, and the distribution of such securities, in accordance with section 743(c) of this title, the special court shall, within 30 days after the date of conveyance pursuant to section 743(b)(1) of this title, appoint one or more voting trustees for each class of securities which is so deposited. Such voting trustees shall, on behalf of the distributees, exercise the rights of the holders of such securities as their interests may appear. Within 30 days after such appointment, such voting trustees shall select members of the Board of Directors of the Corporation on behalf of the holders of the class of securities whose rights they exercise pursuant to this subsection.
 
 #### (h) Annual report
 
@@ -120,7 +120,7 @@ The provisions of this chapter shall not apply to the Corporation and to activit
 
 #### References in Text
 
-This Act, referred to in subsec. (b), means the Regional Rail Reorganization Act of 1973, Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to this chapter (§701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+This Act, referred to in subsec. (b), means the Regional Rail Reorganization Act of 1973, Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, which is classified principally to this chapter (§701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Conrail Privatization Act, referred to in subsec. (k)(7), is subtitle A (§§4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, which is classified principally to chapter 22 (§1301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
@@ -192,7 +192,7 @@ See section 1341 of this title.
 
 #### Applicability of National Environmental Policy Act
 
-Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub.L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
+Application of National Environmental Policy Act to actions of Commission not affected by title VI of Pub. L. 94–210, see section 619 of Pub. L. 94–210, set out as a note under section 791 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "719(c)(3)".</i>
 

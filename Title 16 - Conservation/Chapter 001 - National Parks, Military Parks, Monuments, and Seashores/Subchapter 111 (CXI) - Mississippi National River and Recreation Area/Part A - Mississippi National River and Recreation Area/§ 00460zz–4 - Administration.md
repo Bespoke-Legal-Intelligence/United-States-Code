@@ -24,7 +24,7 @@ Within the boundaries of the Area, the Secretary is authorized, in consultation 
 
 #### (2) Purpose
 
-&emsp;The purpose of review under paragraph (1) shall be to determine the degree to which actions by local governments are compatible with the purposes of this subchapter. Following the approval of the plan under section460zz–2 of this title and after a reasonable period of time has elapsed, upon a finding by the Secretary that such plans, laws and ordinances are nonexistent, are otherwise not in conformance with the plan or are not being enforced in a manner consistent with the plan, and if the Secretary determines that there is no feasible alternative available to prevent uses which would be substantially incompatible with the plan, the Secretary may exercise the authority available to him under the provisions of paragraph (3).
+&emsp;The purpose of review under paragraph (1) shall be to determine the degree to which actions by local governments are compatible with the purposes of this subchapter. Following the approval of the plan under section 460zz–2 of this title and after a reasonable period of time has elapsed, upon a finding by the Secretary that such plans, laws and ordinances are nonexistent, are otherwise not in conformance with the plan or are not being enforced in a manner consistent with the plan, and if the Secretary determines that there is no feasible alternative available to prevent uses which would be substantially incompatible with the plan, the Secretary may exercise the authority available to him under the provisions of paragraph (3).
 
 #### (3) Enforcement
 

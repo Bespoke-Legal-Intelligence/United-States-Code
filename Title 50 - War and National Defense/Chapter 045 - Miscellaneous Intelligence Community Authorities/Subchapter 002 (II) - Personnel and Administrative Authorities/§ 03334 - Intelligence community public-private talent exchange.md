@@ -80,7 +80,7 @@ An employee of a private-sector organization who is detailed to an element of th
 
 &emsp;&emsp;(D) chapter 171 of title 28 (commonly known as the "Federal Tort Claims Act") and any other Federal tort liability statute;
 
-&emsp;&emsp;(E) the Ethics in Government Act of 1978 (5 U.S.C. App.); and
+&emsp;&emsp;(E) the Ethics in Government Act of 1978 (5 U.S.C. App.); <sup>1</sup> and
 
 &emsp;&emsp;(F) chapter 21 of title 41;
 
@@ -140,11 +140,13 @@ In this section:
 
 #### References in Text
 
-The Ethics in Government Act of 1978, referred to in subsec. (g)(1)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (g)(2)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Titles I, IV, and V of the Act were classified principally to the Appendix to Title 5, Government Organization and Employees, and were substantially repealed and restated in chapter 131 (§13101 et seq.) of Title 5 by Pub. L. 117–286, §§3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of the Act into chapter 131 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 
 For definition of "intelligence community", referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

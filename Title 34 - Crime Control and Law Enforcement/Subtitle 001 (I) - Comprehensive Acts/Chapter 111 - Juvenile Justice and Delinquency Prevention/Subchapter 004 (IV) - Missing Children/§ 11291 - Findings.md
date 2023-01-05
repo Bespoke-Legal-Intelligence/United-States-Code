@@ -76,3 +76,7 @@ Application of Amendments.—The amendments made by section 2 \[enacting section
 
 Subchapter effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out as an Effective Date of 1984 Amendment note under section 11101 of this title.
 
+#### Short Title
+
+For short title of title IV of Pub. L. 93–415, which is classified to this subchapter, as the "Missing Children's Assistance Act", see section 401 of Pub. L. 93–415, set out as a Short Title of 1974 Act note under section 10101 of this title.
+

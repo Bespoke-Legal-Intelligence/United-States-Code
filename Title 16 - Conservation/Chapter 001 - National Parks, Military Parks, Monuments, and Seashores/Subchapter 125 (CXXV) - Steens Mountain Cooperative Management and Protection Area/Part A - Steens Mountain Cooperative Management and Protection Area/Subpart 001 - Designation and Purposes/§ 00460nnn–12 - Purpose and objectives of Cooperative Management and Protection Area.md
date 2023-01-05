@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of the Cooperative Management and Protection Area is to conserve, protect, andmanage the long-term ecological integrity of Steens Mountain for future and present generations.
+The purpose of the Cooperative Management and Protection Area is to conserve, protect, and manage the long-term ecological integrity of Steens Mountain for future and present generations.
 
 #### (b) Objectives
 

@@ -1,6 +1,6 @@
 ### §92. Lists furnished with deposits
 
-At the time of making such deposit the officer designated by the Secretary of the Interior shall furnish a list showing the date when the moneywas paid to him or to his predecessor; the names and residences of the parties; the purposes of the payments and the amounts thereof, which list shall bear the certificate of the officer that the same is correct; that the amounts are due and payable; that diligence has been exercised to return the same, and that the sums specified have remained unclaimed for a period of five years or more.
+At the time of making such deposit the officer designated by the Secretary of the Interior shall furnish a list showing the date when the money was paid to him or to his predecessor; the names and residences of the parties; the purposes of the payments and the amounts thereof, which list shall bear the certificate of the officer that the same is correct; that the amounts are due and payable; that diligence has been exercised to return the same, and that the sums specified have remained unclaimed for a period of five years or more.
 
 (Mar. 2, 1907, ch. 2562, §2, 34 Stat. 1245; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1145; 1946 Reorg. Plan No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 

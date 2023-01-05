@@ -38,7 +38,7 @@
 
 (2) The Secretary may also reimburse the applicant for the actual and reasonable expenses incurred for the travel of 1 family member to accompany the applicant to such site. The Secretary may establish a maximum total amount that may be paid to an individual as reimbursement for such expenses.
 
-(3) In the case of an individual who has entered into a contract for obligated service under the Scholarship Program or under the Loan Repayment Program, the Secretary may reimburse such individual for all or part of the actual and reasonable expenses incurred in transporting the individual, the individual's family, and the family's possessions to the site of the individual's assignment under section 254f of this title. The Secretary may establish a maximum total amount that may be paid to an individual as reimbursement for such expenses.
+(3) In the case of an individual who has entered into a contract for obligated service under the Scholarship Program or under the Loan Repayment Program, the Secretary may reimburse such individual for all or part of the actual and reasonable expenses incurred in transporting the individual, the individual's family, and the family's possessions to the site of the individual'sassignment under section 254f of this title. The Secretary may establish a maximum total amount that may be paid to an individual as reimbursement for such expenses.
 
 #### (d) Monthly pay adjustments of members directly engaged in delivery of health services in health professional shortage area; "monthly pay" defined; monthly pay adjustment of member with service obligation incurred under Scholarship Program or Loan Repayment Program; personnel system applicable
 
@@ -76,7 +76,7 @@ The Secretary shall ensure that adequate staff is provided to the Service with r
 
 #### (i) Demonstration projects; waivers
 
-(1) In carrying out subpart III, the Secretary may, in accordance with this subsection, issue waivers to individuals who have entered into a contract for obligated service under the Scholarship Program or the Loan Repayment Program under which the individuals are authorized to satisfy the requirement of obligated service through providing clinical practice that is half time.
+(1) In carrying out subpart III, the Secretary may, in accordance with this subsection, issue waivers to individuals who have entered into a contract for obligated service under the Scholarship Program or the Loan Repayment Program under which the individuals are authorized tosatisfy the requirement of obligated service through providing clinical practice that is half time.
 
 (2) A waiver described in paragraph (1) may be provided by the Secretary only if—
 
@@ -204,7 +204,7 @@ Subsec. (d). Pub. L. 97–35, §2701(d), in par. (1) inserted reference to membe
 
 Subsec. (g). Pub. L. 97–35, §2701(e), substituted provisions relating to conversion from Corps member to commissioned officer and retirement credits, for provisions relating to school participation in development of administrative guidelines.
 
-Subsec. (h). Pub. L. 97–35, §2701(f), in par. (1) substituted "Health and Human Services" for "Health, Education, and Welfare", in par. (2) substituted "254l"for "294t", and in par. (3) inserted reference to Commonwealth with respect to the Northern Mariana Islands.
+Subsec. (h). Pub. L. 97–35, §2701(f), in par. (1) substituted "Health and Human Services" for "Health, Education, and Welfare", in par. (2) substituted "254l" for "294t", and in par. (3) inserted reference to Commonwealth with respect to the Northern Mariana Islands.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -218,7 +218,7 @@ Pub. L. 101–597, title V, §501, Nov. 16, 1990, 104 Stat. 3036, provided that:
 
 #### Special Report on Present and Future Direction of National Health Service Corps; Submission to Congress Not Later Than February 1, 1979
 
-Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
+Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit toCongress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
 
 #### Effective Date; Other Provisions: Health Manpower Shortage Area; Approval of Applications for Assignment of Corps Personnel; Assignment Period, Commencement; Credit for Months of Prior Health Care and Services for Additional Pay Benefit; National Advisory Council on the National Health Service Corps, Continuation of Council and Appointment of Members
 

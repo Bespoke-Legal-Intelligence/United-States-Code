@@ -12,7 +12,7 @@ In this chapter:
 
 #### Implementation of Certain Recommendations Regarding Use of Unmanned Aircraft Systems by the National Guard
 
-Pub. L. 117–81, div. A, title V, §514, Dec. 27, 2021, 135 Stat. 1683, provided that: "Not later than September 30, 2022, the Secretary of Defense shall implement recommendations of the Secretary described in section 519C(a)(2) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[134 Stat. 3596\]."
+Pub. L. 117–81, div. A, title V, §514, Dec. 27, 2021, 135 Stat. 1683, provided that: "Not later than September 30,2022, the Secretary of Defense shall implement recommendations of the Secretary described in section 519C(a)(2) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) \[134 Stat. 3596\]."
 
 #### Pilot Program on Remote Provision by National Guard to National Guards of Other States of Cybersecurity Technical Assistance in Training, Preparation, and Response to Cyber Incidents
 
@@ -160,7 +160,7 @@ Consideration of inputs.—In conducting the evaluation under paragraph (1), the
 
 Elements of Evaluation.—The evaluation required under subsection (a) shall include review of the following:
 
-&emsp;"(1) Regulations promulgated under section 903 of title 32, United States Code, to clarify when andunder what conditions the National Guard could respond to a cyber attack as a homeland defense activity under section 902 of such title.
+&emsp;"(1) Regulations promulgated under section 903 of title 32, United States Code, to clarify when and under what conditions the National Guard could respond to a cyber attack as a homeland defense activity under section 902 of such title.
 
 &emsp;"(2) Guidance promulgated regarding how units of the National Guard shall collaborate with relevant civil, law enforcement, and cybersecurity agencies when conducting a homeland defense activity under section 902 of title 32, United States Code.
 

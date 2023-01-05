@@ -46,9 +46,9 @@ The Secretary shall—
 
 #### References in Text
 
-The Hawaiian Homes Commission Act, 1920, referred to in subsec. (d)(1), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
+The Hawaiian Homes Commission Act, 1920, referred to in subsec. (d)(1), is act July 9, 1921, ch. 42, 42 Stat. 108, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
 #### Codification
 
-Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 820 of Pub. L. 104–330. This section isbased on the text of section 820 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
+Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 820 of Pub. L. 104–330. This section is based on the text of section 820 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
 

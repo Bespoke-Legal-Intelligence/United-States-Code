@@ -84,7 +84,7 @@ Prior to the beginning of each award year, the Secretary shall provide to instit
 
 #### Prior Provisions
 
-A prior section 1089, Pub. L. 89–329, title IV, §482, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1445; amended Pub. L. 97–35, title V, §533(a)(1), (2), (b), Aug. 13, 1981, 95 Stat. 453; Pub. L. 99–272, title XVI, §16031, Apr. 7, 1986, 100 Stat. 354, related to analysis of student's need for financial assistance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1089, Pub. L. 89–329, title IV, §482, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1445; amended Pub. L. 97–35, title V, §533(a)(1), (2), (b), Aug. 13, 1981, 95 Stat. 453; Pub. L. 99–272, title XVI, §16031, Apr. 7, 1986, 100 Stat. 354, related to analysis of student's need for financial assistance, prior to the general revision of this part by Pub. L. 99–498.
 
 Another prior section 1089, Pub. L. 89–329, title IV, §499, formerly §469, as added Pub. L. 90–575, title I, §151, Oct. 16, 1968, 82 Stat. 1032; amended Pub. L. 91–230, title IV, §401(h)(4), Apr. 13, 1970, 84 Stat. 174; renumbered Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 272, related to the Advisory Council on Financial Aid to Students, prior to the general revision of this part by Pub. L. 96–374.
 
@@ -156,7 +156,7 @@ Pub. L. 110–315, title IV, §402(b), Aug. 14, 2008, 122 Stat. 3191, provided t
 
 Pub. L. 110–227, §11, May 7, 2008, 122 Stat. 752, as amended by Pub. L. 110–315, title IV, §402(c)(1), Aug. 14, 2008, 122 Stat. 3191, provided that: "Sections 482 and 492 of the Higher Education Act of 1965 (20 U.S.C. 1089, 1098a) shall not apply to amendments made by this Act \[see Tables for classification\], or to any regulations promulgated under such amendments."
 
-\[Pub. L. 110–315, title IV, §402(c)(2), Aug. 14, 2008, 122 Stat. 3191, provided that: "The amendment made by paragraph (1) \[amending section 11 of Pub. L. 110–227, set out above\] shall take effect as if enacted as part ofthe Ensuring Continued Access to Student Loans Act of 2008 \[Pub. L. 110–227\]."\]
+\[Pub. L. 110–315, title IV, §402(c)(2), Aug. 14, 2008, 122 Stat. 3191, provided that: "The amendment made by paragraph (1) \[amending section 11 of Pub. L. 110–227, set out above\] shall take effect as if enacted as part of the Ensuring Continued Access to Student Loans Act of 2008 \[Pub. L. 110–227\]."\]
 
 #### Establishment of Separate Systems of Need Analysis for Academic Years 1983–1984 Through 1987–1988
 

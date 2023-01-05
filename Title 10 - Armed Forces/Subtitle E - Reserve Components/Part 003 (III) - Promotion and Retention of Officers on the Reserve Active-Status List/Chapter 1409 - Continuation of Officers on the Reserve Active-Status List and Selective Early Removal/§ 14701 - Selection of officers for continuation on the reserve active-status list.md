@@ -22,7 +22,7 @@ Consideration for Continuation.—(1)(A) A reserve officer of the Army, Navy, Ai
 
 (6) An officer who is selected for continuation on the reserve active-status list under regulations prescribed under paragraph (1) but who declines to continue on that list shall be separated in accordance with section 14513 or 14514 of this title, as the case may be.
 
-(7) Each officer who is continued on the reserve active-status list under this section, who is not subsequently promoted or continued on the active-status list, and whose name is not on a list of officers recommended for promotion to the next higher grade shall (unless sooner separated under another provision of law) be separated in accordance with section 14513 or 14514 of this title, as appropriate, upon the expiration of the period for which the officer was continued on the reserve active-status list.
+(7) Each officer who is continued on the reserve active-status list under this section, who is not subsequently promoted or continued on the active-status list, and whose name is not on a list of officers recommended for promotion to the next higher grade shall (unless sooner separated under another provision of law) be separated in accordance with section 14513 or 14514 of this title, as appropriate, upon the expiration ofthe period for which the officer was continued on the reserve active-status list.
 
 (b)
 

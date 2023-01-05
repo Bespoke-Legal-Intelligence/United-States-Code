@@ -10,7 +10,7 @@ The Secretary shall provide for the form and manner of applications for grants u
 
 #### (c) Eligible project expense
 
-For any federally assisted housing project described in subparagraph (B), (C), (D), (E), (F), or (G) of section 13641(2) of this title that does not receive a grant under this section, the cost of employing or otherwise retaining the services of one or more service coordinators under section 13631 of this title and not more than 15 percent of the cost of providing services to the residents of the project shall be considered an eligible project expense, but only to the extent that amounts are available from project rent and other income for such costs.
+For any federally assisted housing project described in subparagraph (B), (C), (D), (E), (F), or\(G) of section 13641(2) of this title that does not receive a grant under this section, the cost of employing or otherwise retaining the services of one or more service coordinators under section 13631 of this title and not more than 15 percent of the cost of providing services to the residents of the project shall be considered an eligible project expense, but only to the extent that amounts are available from project rent and other income for such costs.
 
 (Pub. L. 102–550, title VI, §676, Oct. 28, 1992, 106 Stat. 3828; Pub. L. 106–569, title VIII, §851(a), Dec. 27, 2000, 114 Stat. 3023.)
 

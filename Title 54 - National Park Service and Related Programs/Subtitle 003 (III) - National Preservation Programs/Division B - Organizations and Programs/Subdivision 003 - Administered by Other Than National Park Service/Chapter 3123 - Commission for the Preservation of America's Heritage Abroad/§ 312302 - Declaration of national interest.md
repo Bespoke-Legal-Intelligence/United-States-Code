@@ -1,6 +1,6 @@
 ### §312302. Declaration of national interest
 
-Because the fabric of a society is strengthened by visible reminders of the historical roots of the society, it is in the national interest to encourage the preservation and protection of the cemeteries, monuments, and historic buildings associated with the foreign heritage of United States citizens.
+Because the fabric of a society is strengthened by visible reminders of the historical roots of the society, it is in the national interest to encourage the preservation and protection of the cemeteries, monuments, and historic buildingsassociated with the foreign heritage of United States citizens.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3252.)
 

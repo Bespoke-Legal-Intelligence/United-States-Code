@@ -6,15 +6,21 @@ As part of the activities authorized under section 7139 of this title and sectio
 
 #### (b) Fusion materials research and development
 
-As part of the activities authorized in section 16318 of this title—
+#### (1) In general
 
-&emsp;(1) the Director, in coordination with the Assistant Secretary for Nuclear Energy of the Department, shall carry out research and development activities to identify, characterize, and demonstrate materials that can endure the neutron, plasma, and heat fluxes expected in a fusion power system; and
+&emsp;As part of the activities authorized in section 16318 of this title—
 
-&emsp;(2) the Director shall provide an assessment of—
+&emsp;&emsp;(A) the Director, in coordination with the Assistant Secretary for Nuclear Energy of the Department, shall carry out research and development activities to identify, characterize, and demonstrate materials that can endure the neutron, plasma, and heat fluxes expected in a fusion power system; and
 
-&emsp;&emsp;(A) the need for one or more facilities that can examine and test potential fusion and next generation fission materials and other enabling technologies relevant to the development of fusion power; and
+&emsp;&emsp;(B) the Director shall provide an assessment of—
 
-&emsp;&emsp;(B) whether a single new facility that substantially addresses magnetic fusion and next generation fission materials research needs is feasible, in conjunction with the expected capabilities of facilities operational as of September 28, 2018.
+&emsp;&emsp;&emsp;(i) the need for one or more facilities that can examine and test potential fusion and next generation fission materials and other enabling technologies relevant to the development of fusion power; and
+
+&emsp;&emsp;&emsp;(ii) whether a single new facility that substantially addresses magnetic fusion and next generation fission materials research needs is feasible, in conjunction with the expected capabilities of facilities operational as of September 28, 2018.
+
+#### (2) Authorization of appropriations
+
+&emsp;Out of funds authorized to be appropriated under subsection (q),<sup>1</sup> there is authorized to be appropriated to the Secretary to carry out activities described in paragraph (1) $50,000,000 for each of fiscal years 2023 through 2027.
 
 #### (c) Tokamak research and development
 
@@ -40,13 +46,13 @@ The Director shall support research and development activities and facility oper
 
 #### (3) Authorization of appropriations
 
-&emsp;Out of funds authorized to be appropriated under subsection (o), there are authorized to be appropriated to the Secretary to carry out the activities described in subsection (d) $25,000,000 for each of fiscal years 2021 through 2025.
+&emsp;Out of funds authorized to be appropriated under subsection (q),<sup>1</sup> there are authorized to be appropriated to the Secretary to carry out the activities described in this subsection $25,000,000 for each of fiscal years 2021 through 2027.
 
 #### (e) Alternative and enabling concepts
 
 #### (1) In general
 
-&emsp;The Director shall support research and development activities and facility operations at institutions of higher education, National Laboratories, and private facilities in theUnited States for a portfolio of alternative and enabling fusion energy concepts that may provide solutions to significant challenges to the establishment of a commercial magnetic fusion power plant, prioritized based on the ability of the United States to play a leadership role in the international fusion research community.
+&emsp;The Director shall support research and development activities and facility operations at institutions of higher education, National Laboratories, and private facilities in the United States for a portfolio of alternative and enabling fusion energy concepts that may provide solutions to significant challenges to the establishment of a commercial magnetic fusion power plant, prioritized based on the ability of the United States to play a leadership role in the international fusion research community.
 
 #### (2) Activities
 
@@ -88,7 +94,7 @@ The Director shall support research and development activities and facility oper
 
 #### (4) Authorization of appropriations
 
-&emsp;Out of funds authorized to be appropriated under subsection (o), there are authorized to be appropriated to the Secretary to carry out the activities described in subsection (e) $50,000,000 for each of fiscal years 2021 through 2025.
+&emsp;Out of funds authorized to be appropriated under subsection (q),<sup>1</sup> there are authorized to be appropriated to the Secretary to carry out the activities described in this subsection $50,000,000 for each of fiscal years 2021 through 2027.
 
 #### (f) Coordination with ARPA–E
 
@@ -188,7 +194,7 @@ The Director shall coordinate with the Director of the Advanced Research Project
 
 #### (10) Authorization of appropriations
 
-&emsp;Out of funds authorized to be appropriated under subsection (o), there are authorized to be appropriated to the Secretary to carry out the activities described in subsection (i), to remain available until expended—
+&emsp;Out of funds authorized to be appropriated under subsection (q),<sup>1</sup> there are authorized to be appropriated to the Secretary to carry out the activities described in this subsection, to remain available until expended—
 
 &emsp;&emsp;(A) $45,000,000 for fiscal year 2021;
 
@@ -196,13 +202,45 @@ The Director shall coordinate with the Director of the Advanced Research Project
 
 &emsp;&emsp;(C) $105,000,000 for fiscal year 2023;
 
-&emsp;&emsp;(D) $65,000,000 for fiscal year 2024; and
+&emsp;&emsp;(D) $65,000,000 for fiscal year 2024;
 
-&emsp;&emsp;(E) $45,000,000 for fiscal year 2025.
+&emsp;&emsp;(E) $45,000,000 for fiscal year 2025;
+
+&emsp;&emsp;(F) $45,000,000 for fiscal year 2026; and
+
+&emsp;&emsp;(G) $45,000,000 for fiscal year 2027.
 
 #### (j) Fusion reactor system design
 
-The Director shall support research and development activities to design future fusion reactor systems and examine and address the technical drivers for the cost of these systems.
+#### (1) In general
+
+&emsp;Not later than 180 days after August 9, 2022, the Director shall establish not less than 2 national teams described in paragraph (2) that shall—
+
+&emsp;&emsp;(A) develop conceptual pilot plant designs and technology roadmaps; and
+
+&emsp;&emsp;(B) create an engineering design of a pilot plant that will bring fusion to commercial viability.
+
+#### (2) National teams
+
+&emsp;A national team referred to in paragraph (1) shall—
+
+&emsp;&emsp;(A) be composed of developers, manufacturers, universities, National Laboratories, and representatives of the engineering, procurement, and construction industries; and
+
+&emsp;&emsp;(B) include public-private partnerships.
+
+#### (3) Authorization of appropriations
+
+&emsp;Of the funds authorized to be appropriated for Fusion Energy Sciences in a fiscal year, there are authorized to be appropriated to the Secretary to carry out this subsection—
+
+&emsp;&emsp;(A) $35,000,000 for fiscal year 2023;
+
+&emsp;&emsp;(B) $50,000,000 for fiscal year 2024;
+
+&emsp;&emsp;(C) $65,000,000 for fiscal year 2025;
+
+&emsp;&emsp;(D) $80,000,000 for fiscal year 2026; and
+
+&emsp;&emsp;(E) $80,000,000 for fiscal year 2027.
 
 #### (k) General plasma science and applications
 
@@ -210,7 +248,7 @@ The Director shall support research in general plasma science and high energy de
 
 #### (l) Sense of Congress
 
-It is the sense of Congress that the United States should support a robust, diverse programin addition to providing sufficient support to, at a minimum, meet its commitments to ITER and maintain the schedule of the project as determined by the Secretary in coordination with the ITER Organization at the time of the enactment of this section. It is further the sense of Congress that developing the scientific basis for fusion, providing research results key to the success of ITER, and training the next generation of fusion scientists are of critical importance to the United States and should in no way be diminished by participation of the United States in the ITER project.
+It is the sense of Congress that the United States should support a robust, diverse program in addition to providing sufficient support to, at a minimum, meet its commitments to ITER and maintain the schedule of the project as determined by the Secretary in coordination with the ITER Organization at the time of the enactment of this section. It is further the sense of Congress that developing the scientific basis for fusion, providing research results key to the success of ITER, and training the next generation of fusion scientists are of critical importance to the United States and should in no way be diminished by participation of the United States in the ITER project.
 
 #### (m) International collaboration
 
@@ -218,7 +256,7 @@ The Director shall—
 
 &emsp;(1) as practicable and in coordination with other appropriate Federal agencies as necessary, ensure the access of United States researchers to the most advanced fusion research facilities and research capabilities in the world, including ITER;
 
-&emsp;(2) to the maximum extent practicable, continue to leverage United States participation ITER,<sup>1</sup> and prioritize expanding international partnerships and investments in current and future fusion research facilities within the United States; and
+&emsp;(2) to the maximum extent practicable, continue to leverage United States participation ITER,<sup>2</sup> and prioritize expanding international partnerships and investments in current and future fusion research facilities within the United States; and
 
 &emsp;(3) to the maximum extent practicable, prioritize engagement in collaborative efforts in support of future international facilities that would provide access to the most advanced fusion research facilities in the world to United States researchers.
 
@@ -250,25 +288,155 @@ The Director shall—
 
 &emsp;&emsp;(I) any other overlapping priority as identified by the Director of the Office of Science or the Assistant Secretary of Energy for Nuclear Energy.
 
-#### (o) Authorization of appropriations
+#### (o) High-performance computation collaborative research program
 
-There are authorized to be appropriated to the Secretary to carry out the activities described in this section—
+#### (1) In general
+
+&emsp;The Secretary shall carry out a program to conduct and support collaborative research, development, and demonstration of fusion energy technologies, through high-performance computation modeling and simulation techniques, in order—
+
+&emsp;&emsp;(A) to support fundamental research in plasmas and matter at very high temperatures and densities;
+
+&emsp;&emsp;(B) to inform the development of a broad range of fusion energy systems; and
+
+&emsp;&emsp;(C) to facilitate the translation of research results in fusion energy science to industry.
+
+#### (2) Coordination
+
+&emsp;In carrying out the program under paragraph (1), the Secretary shall coordinate with relevant Federal agencies, and prioritize the following objectives:
+
+&emsp;&emsp;(A) To use expertise from the private sector, institutions of higher education, and the National Laboratories to leverage existing, and develop new, computational software and capabilities that prospective users may use to accelerate research and development of fusion energy systems.
+
+&emsp;&emsp;(B) To develop computational tools to simulate and predict fusion energy science phenomena that may be validated through physical experimentation.
+
+&emsp;&emsp;(C) To increase the utility of the research infrastructure of the Department by coordinating with the Advanced Scientific Computing Research program within the Office of Science.
+
+&emsp;&emsp;(D) To leverage experience from existing modeling and simulation entities sponsored by the Department.
+
+&emsp;&emsp;(E) To ensure that new experimental and computational tools are accessible to relevant research communities, including private sector entities engaged in fusion energy technology development.
+
+&emsp;&emsp;(F) To ensure that newly developed computational tools are compatible with modern virtual engineering and visualization capabilities to accelerate the realization of fusion energy technologies and systems.
+
+#### (3) Duplication
+
+&emsp;The Secretary shall ensure the coordination of, and avoid unnecessary duplication of, the activities of the program under paragraph (1) with the activities of—
+
+&emsp;&emsp;(A) other research entities of the Department, including the National Laboratories, the Advanced Research Projects Agency—Energy, and the Advanced Scientific Computing Research program within the Office of Science; and
+
+&emsp;&emsp;(B) industry.
+
+#### (4) High-Performance Computing for Fusion Innovation Center
+
+#### (A) In general
+
+&emsp;&emsp;In carrying out the program under paragraph (1), the Secretary shall, in coordination with the Innovation Network for Fusion Energy, establish and operate a national High-Performance Computing for Fusion Innovation Center (referred to in this paragraph as the "Center"), to support the program under paragraph (1) by providing, to the extent practicable, a centralized entity for multidisciplinary, collaborative, fusion energy research and development through high-performance computing and advanced data analytics technologies and processes.
+
+#### (B) Eligible entities
+
+&emsp;&emsp;An entity eligible to serve as the Center shall be—
+
+&emsp;&emsp;&emsp;(i) a National Laboratory;
+
+&emsp;&emsp;&emsp;(ii) an institution of higher education;
+
+&emsp;&emsp;&emsp;(iii) a multi-institutional collaboration; or
+
+&emsp;&emsp;&emsp;(iv) any other entity that the Secretary determines to be appropriate.
+
+#### (C) Application; selection
+
+#### (i) Application
+
+&emsp;&emsp;&emsp;To be eligible to serve as the Center, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+#### (ii) Selection
+
+&emsp;&emsp;&emsp;The Secretary shall select the Center on a competitive, merit-reviewed basis.
+
+#### (D) Existing activities
+
+&emsp;&emsp;The Center may incorporate existing research activities that are consistent with the program under paragraph (1).
+
+#### (E) Priorities
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Center shall prioritize activities that utilize expertise and infrastructure from a balance among the private sector, institutions of higher education, and the National Laboratories to enhance existing computation tools and develop new computational software and capabilities to accelerate the commercial application of fusion energy systems.
+
+#### (ii) Maintenance of resource availability
+
+&emsp;&emsp;&emsp;The Secretary may enter into contracts with commercial cloud computing providers to ensure that resource availability within the Department is not reduced or disproportionately distributed as a result of Center activities.
+
+#### (F) Duration
+
+&emsp;&emsp;Subject to subparagraph (G), the Center shall receive support for a period of not more than 5 years, subject to the availability of appropriations.
+
+#### (G) Renewal
+
+&emsp;&emsp;On the expiration of the period of support of the Center under subparagraph (F), the Secretary may renew support for the Center, on a merit-reviewed basis, for a period of not more than 5 years.
+
+#### (p) Material Plasma Exposure Experiment
+
+#### (1) In general
+
+&emsp;The Secretary shall construct a Material Plasma Exposure Experiment facility as described in the 2020 publication approved by the Fusion Energy Sciences Advisory Committee entitled "Powering the Future: Fusion and Plasmas". The Secretary shall consult with the private sector, institutions of higher education, National Laboratories, and relevant Federal agencies to ensure that the facility is capable of meeting Federal research needs for steady state, high-heat-flux, and plasma-material interaction testing of fusion materials over a range of fusion energy relevant parameters.
+
+#### (2) Facility capabilities
+
+&emsp;The Secretary shall ensure that the facility described in paragraph (1) will provide the following capabilities:
+
+&emsp;&emsp;(A) A magnetic field at the target of 1 Tesla.
+
+&emsp;&emsp;(B) An energy flux at the target of 10 MW/m<sup>2</sup>.
+
+&emsp;&emsp;(C) The ability to expose previously irradiated plasma facing material samples to plasma.
+
+#### (3) Start of operations
+
+&emsp;The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the facility described in paragraph (1) occurs before December 31, 2027.
+
+#### (4) Funding
+
+&emsp;Of the funds authorized to be appropriated for Fusion Energy Sciences, there are authorized to be appropriated to the Secretary for the Office of Fusion Energy Sciences to complete construction of the facility described in paragraph (1)—
+
+&emsp;&emsp;(A) $21,895,000 for fiscal year 2023; and
+
+&emsp;&emsp;(B) $3,800,000 for fiscal year 2024.
+
+#### (q) Matter in Extreme Conditions instrument upgrade
+
+#### (1) In general
+
+&emsp;The Secretary shall provide for the upgrade to the Matter in Extreme Conditions endstation at the Linac Coherent Light Source as described in the 2020 publication approved by the Fusion Energy Sciences Advisory Committee entitled "Powering the Future: Fusion and Plasmas". The Secretary shall consult with the private sector, institutions of higher education, National Laboratories, and relevant Federal agencies to ensure that this facility is capable of meeting Federal research needs for understanding physical and chemical changes to plasmas at fundamental timescales, and explore new regimes of dense material physics, astrophysics, planetary physics, and short-pulse laser-plasma interactions.
+
+#### (2) Start of operations
+
+&emsp;The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the facility described in paragraph (1) occurs before December 31, 2028.
+
+#### (r) Authorization of appropriations
+
+Out of funds authorized to be appropriated for the Office of Science in a fiscal year, there are authorized to be appropriated to the Secretary to carry out the activities described in this section—
 
 &emsp;(1) $996,000,000 for fiscal year 2021;
 
 &emsp;(2) $921,000,000 for fiscal year 2022;
 
-&emsp;(3) $961,000,000 for fiscal year 2023;
+&emsp;(3) $1,025,500,400 for fiscal year 2023;
 
-&emsp;(4) $921,000,000 for fiscal year 2024; and
+&emsp;(4) $1,043,489,724 for fiscal year 2024;
 
-&emsp;(5) $901,000,000 for fiscal year 2025.
+&emsp;(5) $1,053,266,107 for fiscal year 2025;
 
-(Pub. L. 115–246, title III, §307, Sept. 28, 2018, 132 Stat. 3148; Pub. L. 116–260, div. Z, title II, §2008(a), Dec. 27, 2020, 134 Stat. 2474.)
+&emsp;(6) $1,047,962,074 for fiscal year 2026; and
+
+&emsp;(7) $1,114,187,798 for fiscal year 2027.
+
+(Pub. L. 115–246, title III, §307, Sept. 28, 2018, 132 Stat. 3148; Pub. L. 116–260, div. Z, title II, §2008(a), Dec. 27, 2020, 134 Stat. 2474; Pub. L. 117–167, div. B, title I, §10105(a), Aug. 9, 2022, 136 Stat. 1441.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
+
+Subsection (q), referred to in subsecs. (b)(2), (d)(3), (e)(4), and (i)(10), probably should be a reference to subsec. (r). Prior to amendment by Pub. L. 117–167, those references were to subsec. (o) of this section, which related to authorization of appropriations and was redesignated as subsec. (r) by Pub. L. 117–167, §10105(a)(6). See 2022 Amendment notes below.
 
 The date of enactment of this section, referred to in subsecs. (i)(1) and (n)(1), probably means the date of enactment of Pub. L. 116—260, which enacted subsecs. (i) and (n) of this section and was approved Dec. 27, 2020.
 
@@ -279,6 +447,24 @@ The enactment of this section, referred to in subsecs. (i)(2) and (l), probably 
 Section is comprised of section 307 of Pub. L. 115–246. Subsec. (g) of section 307 of Pub. L. 115–246 amended section 2053 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–167, §10105(a)(1), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and subpars. (A) and (B) of former par. (2) as cls. (i) and (ii), respectively, of subpar. (B) of par. (1), and added par. (2).
+
+Subsec. (d)(3). Pub. L. 117–167, §10105(a)(2), substituted "subsection (q)" for "subsection (o)", "this subsection" for "subsection (d)", and "2027" for "2025".
+
+Subsec. (e)(4). Pub. L. 117–167, §10105(a)(3), substituted "subsection (q)" for "subsection (o)", "this subsection" for "subsection (e)", and "2027" for "2025".
+
+Subsec. (i)(10). Pub. L. 117–167, §10105(a)(4)(A), substituted, in introductory provisions, "subsection (q)" for "subsection (o)" and "this subsection" for "subsection (i)".
+
+Subsec. (i)(10)(F), (G). Pub. L. 117–167, §10105(a)(4)(B)–(D), added subpars. (F) and (G).
+
+Subsec. (j). Pub. L. 117–167, §10105(a)(5), added subsec. (j) and struck out former subsec. (j). Prior to amendment, text read as follows: "The Director shall support research and development activities to design future fusion reactor systems and examine and address the technical drivers for the cost of these systems."
+
+Subsecs. (o) to (q). Pub. L. 117–167, §10105(a)(7), added subsecs. (o) to (q). Former subsec. (o) redesignated (r).
+
+Subsec. (r). Pub. L. 117–167, §10105(a)(6), (8)(A), redesignated subsec. (o) as (r) and substituted "Out of funds authorized to be appropriated for the Office of Science in a fiscal year, there" for "There" in introductory provisions.
+
+Subsec. (r)(3) to (7). Pub. L. 117–167, §10105(a)(8)(B), added pars. (3) to (7) and struck out former pars. (3) to (5) relating to appropriations for fiscal years 2023 to 2025, respectively.
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–260, §2008(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
@@ -296,5 +482,7 @@ Subsecs. (f) to (h). Pub. L. 116–260, §2008(a)(1), redesignated subsecs. (f) 
 
 Subsecs. (i) to (o). Pub. L. 116–260, §2008(a)(5), added subsecs. (i) to (o).
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (r),". See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

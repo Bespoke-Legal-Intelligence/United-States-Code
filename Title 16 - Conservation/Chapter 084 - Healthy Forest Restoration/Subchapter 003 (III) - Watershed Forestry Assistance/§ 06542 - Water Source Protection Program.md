@@ -30,7 +30,7 @@ In this section:
 
 #### (3) Forest plan
 
-&emsp;The term "forest plan" means a land management plan prepared by the Forest Servicefor a unit of the National Forest System pursuant to section 1604 of this title.
+&emsp;The term "forest plan" means a land management plan prepared by the Forest Service for a unit of the National Forest System pursuant to section 1604 of this title.
 
 #### (4) Non-Federal partner
 
@@ -142,7 +142,7 @@ In carrying out the Program, the Secretary may use the Manual on Adaptive Manage
 
 #### (C) Partnership agreements
 
-&emsp;&emsp;The Secretary may make multiyear commitments, if necessary, to implement 1 ormore partnership agreements under subsection (c).
+&emsp;&emsp;The Secretary may make multiyear commitments, if necessary, to implement 1 or more partnership agreements under subsection (c).
 
 (Pub. L. 108–148, title III, §303, as added Pub. L. 115–334, title VIII, §8404(a), Dec. 20, 2018, 132 Stat. 4841.)
 

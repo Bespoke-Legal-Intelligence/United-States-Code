@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may carry out a program to reduce vandalism and destruction of property atwater resources development projects under the jurisdiction of the Department of the Army.
+The Secretary may carry out a program to reduce vandalism and destruction of property at water resources development projects under the jurisdiction of the Department of the Army.
 
 #### (b) Provision of rewards
 

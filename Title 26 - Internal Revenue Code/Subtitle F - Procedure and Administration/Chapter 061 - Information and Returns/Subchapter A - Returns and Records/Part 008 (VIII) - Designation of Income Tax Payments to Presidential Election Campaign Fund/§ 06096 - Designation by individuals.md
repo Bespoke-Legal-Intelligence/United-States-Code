@@ -6,7 +6,7 @@ Every individual (other than a nonresident alien) whose income tax liability for
 
 #### (b) Income tax liability
 
-For purposes of subsection (a), the income tax liability of an individual for any taxable year is the amount of the tax imposed by chapter 1 on such individual for such taxable year (as shownon his return), reduced by the sum of the credits (as shown in his return) allowable under part IV of subchapter A of chapter 1 (other than subpart C thereof).
+For purposes of subsection (a), the income tax liability of an individual for any taxable year is the amount of the tax imposed by chapter 1 on such individual for such taxable year (as shown on his return), reduced by the sum of the credits (as shown in his return) allowable under part IV of subchapter A of chapter 1 (other than subpart C thereof).
 
 #### (c) Manner and time of designation
 
@@ -112,7 +112,7 @@ Pub. L. 89–809, title III, §302(c), Nov. 13, 1966, 80 Stat. 1588, provided th
 
 #### Short Title
 
-Pub. L. 89–809, title III, §301, Nov. 13, 1966, 80 Stat. 1587, provided that: "This title \[enacting this section and sections 971, 972, and 973 of former Title 31, Money and Finance\] may be cited as the 'Presidential Election Campaign Fund Act of 1966'."
+Pub. L. 89–809, title III, §301, Nov. 13, 1966, 80 Stat. 1587, provided that: "This title \[enacting this sectionand sections 971, 972, and 973 of former Title 31, Money and Finance\] may be cited as the 'Presidential Election Campaign Fund Act of 1966'."
 
 #### Adoption of Guidelines
 

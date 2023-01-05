@@ -8,7 +8,7 @@ Authority To Enter Into Agreements.—(1) The Secretary concerned, without regar
 
 &emsp;(A) The government of a State or of a territory or possession of the United States, including the Commonwealth of Puerto Rico, an interstate governmental organization, and a unit, subdivision, or instrumentality of any of the foregoing.
 
-&emsp;(B) A foreign government or international organization, or instrumentality of either, which is designated by the President as eligible to provide training under this section.
+&emsp;(B) A foreign government or international organization, or instrumentality of either,which is designated by the President as eligible to provide training under this section.
 
 &emsp;(C) A medical, scientific, technical, educational, research, or professional institution, foundation, or organization.
 
@@ -26,9 +26,9 @@ Expenses.—The Secretary concerned, from appropriations or other funds availabl
 
 &emsp;(2) pay, or reimburse the member of a uniformed service for, all or a part of the necessary expenses of the training (without regard to subsections (a) and (b) of section 3324 of title 31), including among those expenses the necessary costs of the following:
 
-&emsp;&emsp;(A) Travel and per diem instead of subsistence under sections 474 <sup>1</sup> and 475 <sup>1</sup> of title 37 and the Joint Travel Regulations for the Uniformed Services.
+&emsp;&emsp;(A) Travel and per diem instead of subsistence under sections 405 and 452 of title 37 and the Joint Travel Regulations for the Uniformed Services.
 
-&emsp;&emsp;(B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 <sup>1</sup> and 479 <sup>1</sup> of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
+&emsp;&emsp;(B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 452 and 453(c) of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
 
 &emsp;&emsp;(C) Tuition and matriculation fees.
 
@@ -42,19 +42,15 @@ Expenses.—The Secretary concerned, from appropriations or other funds availabl
 
 Certain Expenses Excluded.—The expenses of training do not include membership fees except to the extent that the fee is a necessary cost directly related to the training itself or that payment of the fee is a condition precedent to undergoing the training.
 
-(Added Pub. L. 104–201, div. A, title III, §362(a)(1), Sept. 23, 1996, 110 Stat. 2491; amended Pub. L. 111–350, §5(b)(2), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title X, §1071(a)(1), Dec. 19, 2014, 128 Stat. 3504.)
+(Added Pub. L. 104–201, div. A, title III, §362(a)(1), Sept. 23, 1996, 110 Stat. 2491; amended Pub. L. 111–350, §5(b)(2), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title X, §1071(a)(1), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 117–263, div. A, title VI, §626(c)(6), Dec. 23, 2022, 136 Stat. 2628.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 474 of title 37, referred to in subsec. (b)(2)(A), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
-
-Section 475 of title 37, referred to in subsec. (b)(2)(A), was renumbered section 405 of title 37 by Pub. L. 116–283, div. A, title VI, §604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
-
-Sections 476 and 479 of title 37, referred to in subsec. (b)(2)(A), were repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(2)(A). Pub. L. 117–263, §626(c)(6)(A), substituted "sections 405 and 452" for "sections 474 and 475".
+
+Subsec. (b)(2)(B). Pub. L. 117–263, §626(c)(6)(B), substituted "sections 452 and 453(c)" for "sections 476 and 479".
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–291 substituted "section 6101 of title 41" for "section 6101(b)–(d) of title 41".
 
@@ -68,11 +64,9 @@ Subsec. (b)(2)(A), (B). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date
 
 Pub. L. 104–201, div. A, title III, §362(b), Sept. 23, 1996, 110 Stat. 2493, provided that: "Section 2013 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -16,7 +16,7 @@
 
 #### References in Text
 
-The Older Americans Act of 1965, referred to in text, is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. Section 311 of the Act, which is classified to section 3030a of Title42, was amended by Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246, and, as so amended, provisions which formerly appeared in subsec. (a)(4) were struck out. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in text, is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. Section 311 of the Act, which is classified to section 3030a of Title 42, was amended by Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246, and, as so amended, provisions which formerly appeared in subsec. (a)(4) were struck out. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 #### Codification
 
@@ -68,7 +68,7 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 
 #### National Donated Commodity Processing Programs
 
-Pub. L. 99–500, title III, §364, Oct. 18, 1986, 100 Stat. 1783–368, and Pub. L. 99–591, title III, §364, Oct. 30, 1986, 100 Stat. 3341–371; Pub. L. 99–661, div. D, title IV, §4404, Nov. 14, 1986, 100 Stat. 4079, provided that: "In accordance with the terms and conditions of section 1114(a)(2) of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e(a)(2)), whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary of Agriculture, the Secretary shall encourage consumption of the commodity through agreements with private companies under which the commodity is reprocessed into end-food products for use by eligible recipient agencies."
+Pub. L. 99–500, title III, §364, Oct. 18, 1986, 100 Stat. 1783–368, and Pub. L. 99–591, title III, §364, Oct. 30, 1986,100 Stat. 3341–371; Pub. L. 99–661, div. D, title IV, §4404, Nov. 14, 1986, 100 Stat. 4079, provided that: "In accordance with the terms and conditions of section 1114(a)(2) of the Agriculture and Food Act of 1981 (7 U.S.C. 1431e(a)(2)), whenever a commodity is made available without charge or credit under any nutrition program administered by the Secretary of Agriculture, the Secretary shall encourage consumption of the commodity through agreements with private companies under which the commodity is reprocessed into end-food products for use by eligible recipient agencies."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,7 +32,7 @@ The Secretary shall consult with the State of Alaska on a method of prioritizing
 
 #### References in Text
 
-Section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998, referred to insubsecs. (a) and (d)(2), is section 325 of Pub. L. 105–83, title III, Nov. 14, 1997, 111 Stat. 1597, which is not classified to the Code.
+Section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998, referred to in subsecs. (a) and (d)(2), is section 325 of Pub. L. 105–83, title III, Nov. 14, 1997, 111 Stat. 1597, which is not classified to the Code.
 
 #### Codification
 
@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 115–334, §6408(2), inserted "for any grant awarded under
 
 Subsec. (d)(1). Pub. L. 115–334, §6408(3)(A), substituted "2023" for "2018".
 
-Subsec. (d)(2). Pub. L. 115–334, §6408(3)(B), substituted "Alaska, and not more than 2 percent of the amount made available under paragraph (1) for a fiscal year may be used by a consortium formed pursuant to section 325 of the Department of the Interior and Related Agencies Appropriations Act, 1998 (Public Law 105–83; 111 Stat. 1597)," for "Alaska".
+Subsec. (d)(2). Pub. L. 115–334, §6408(3)(B), substituted "Alaska, and not more than 2 percent of the amount made available under paragraph (1) for a fiscal year may be used by a consortium formed pursuant to section 325 of the Department of the Interior and RelatedAgencies Appropriations Act, 1998 (Public Law 105–83; 111 Stat. 1597)," for "Alaska".
 
 <b>2014</b>—Subsec. (d)(1). Pub. L. 113–79 substituted "2018" for "2012".
 

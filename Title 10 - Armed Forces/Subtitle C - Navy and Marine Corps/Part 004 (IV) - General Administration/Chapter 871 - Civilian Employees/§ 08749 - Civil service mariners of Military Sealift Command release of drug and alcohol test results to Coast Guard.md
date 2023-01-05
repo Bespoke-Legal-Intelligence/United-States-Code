@@ -28,7 +28,7 @@ A prior section 8749 was renumbered section 9279 of this title.
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(6), renumbered section 7479 of this title as this section.
 
-Pub. L. 115–232, §1114(b), substituted "Civil service mariners of military sealift command: release of drug and alcohol test results to coast guard" for "Civil service mariners of Military Sealift Command: release of drug test results to Coast Guard" in section catchline and inserted "Or Alcohol" after "Drug" in subsec. (a) heading and "or alcohol" after "drug" wherever appearing in text. Quoted text directed to be inserted in subsec. (a) heading was conformed to the style used in this title.
+Pub. L. 115–232, §1114(b), substituted "Civil service mariners of military sealift command: release of drug and alcohol test results to coast guard" for "Civil service mariners of Military Sealift Command: release of drug test results to Coast Guard" in section catchline and inserted "Or Alcohol" after "Drug" in subsec. (a)heading and "or alcohol" after "drug" wherever appearing in text. Quoted text directed to be inserted in subsec. (a) heading was conformed to the style used in this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

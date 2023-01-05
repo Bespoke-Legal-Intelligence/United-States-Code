@@ -6,13 +6,13 @@ National scenic and national historic trails shall be authorized and designated 
 
 (1) The Appalachian National Scenic Trail, a trail of approximately two thousand miles extending generally along the Appalachian Mountains from Mount Katahdin, Maine, to Springer Mountain, Georgia. Insofar as practicable, the right-of-way for such trail shall comprise the trail depicted on the maps identified as "Nationwide System of Trails, Proposed Appalachian Trail, NST–AT–101–May 1967", which shall be on file and available for public inspection in the office of the Director of the National Park Service. Where practicable, such rights-of-way shall include lands protected for it under agreements in effect as of October 2, 1968, to which Federal agencies and States were parties. The Appalachian Trail shall be administered primarily as a footpath by the Secretary of the Interior, in consultation with the Secretary of Agriculture.
 
-(2) The Pacific Crest National Scenic Trail, a trail of approximately two thousand three hundred fifty miles, extending from the Mexican-California border northward generally along the mountain ranges of the west coast States to the Canadian-Washington border near Lake Ross, following the route as generally depicted on the map, identified as "Nationwide System of Trails, Proposed Pacific Crest Trail, NST–PC–103–May 1967" which shall be on file and available for public inspection in the office of the Chief of the Forest Service. The Pacific Crest Trail shall be administered by the Secretary of Agriculture, in consultation with the Secretary of the Interior.
+(2) The Pacific Crest National Scenic Trail, a trail of approximately two thousand three hundred fifty miles, extending from the Mexican-California border northward generally along the mountain ranges of the west coast States to the Canadian-Washington border near Lake Ross, following the route as generally depicted on the map, identified as "Nationwide System of Trails, Proposed Pacific Crest Trail, NST–PC–103–May 1967" which shall be on file and available for public inspection in the officeof the Chief of the Forest Service. The Pacific Crest Trail shall be administered by the Secretary of Agriculture, in consultation with the Secretary of the Interior.
 
 (3) The Oregon National Historic Trail, a route of approximately two thousand miles extending from near Independence, Missouri, to the vicinity of Portland, Oregon, following a route as depicted on maps identified as "Primary Route of the Oregon Trail 1841–1848", in the Department of the Interior's Oregon Trail study report dated April 1977, and which shall be on file and available for public inspection in the office of the Director of the National Park Service. The trail shall be administered by the Secretary of the Interior. No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land. The authority of the Federal Government to acquire fee title under this paragraph shall be limited to an average of not more than ¼ mile on either side of the trail.
 
 (4) The Mormon Pioneer National Historic Trail, a route of approximately one thousand three hundred miles extending from Nauvoo, Illinois, to Salt Lake City, Utah, following the primary historical route of the Mormon Trail as generally depicted on a map, identified as, "Mormon Trail Vicinity Map, figure 2" in the Department of the Interior Mormon Trail study report dated March 1977, and which shall be on file and available for public inspection in the office of the Director, National Park Service, Washington, D.C. The trail shall be administered by the Secretary of the Interior. No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land. The authority of the Federal Government to acquire fee title under this paragraph shall be limited to an average of not more than ¼ mile on either side of the trail.
 
-(5) The Continental Divide National Scenic Trail, a trail of approximately thirty-one hundred miles, extending from the Montana-Canada border to the New Mexico-Mexico border, following the approximate route depicted on the map, identified as "Proposed Continental Divide National Scenic Trail" in the Department of the Interior Continental Divide Trail study reportdated March 1977 and which shall be on file and available for public inspection in the office of the Chief, Forest Service, Washington, D.C. The Continental Divide National Scenic Trail shall be administered by the Secretary of Agriculture in consultation with the Secretary of the Interior. Notwithstanding the provisions of section 1246(c) of this title, the use of motorized vehicles on roads which will be designated segments of the Continental Divide National Scenic Trail shall be permitted in accordance with regulations prescribed by the appropriate Secretary. No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land. The authority of the Federal Government to acquire fee title under this paragraph shall be limited to an average of not more than ¼ mile on either side of the trail.
+(5) The Continental Divide National Scenic Trail, a trail of approximately thirty-one hundred miles, extending from the Montana-Canada border to the New Mexico-Mexico border, following the approximate route depicted on the map, identified as "Proposed Continental Divide National Scenic Trail" in the Department of the Interior Continental Divide Trail study report dated March 1977 and which shall be on file and available for public inspection in the office of the Chief, Forest Service, Washington, D.C. The Continental Divide National Scenic Trail shall be administered by the Secretary of Agriculture in consultation with the Secretary of the Interior. Notwithstanding the provisions of section 1246(c) of this title, the use of motorized vehicles on roads which will be designated segments of the Continental Divide National Scenic Trail shall be permitted in accordance with regulations prescribed by the appropriate Secretary. No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land. The authority of the Federal Government to acquire fee title under this paragraph shall be limited to an average of not more than ¼ mile on either side of the trail.
 
 (6) The Lewis and Clark National Historic Trail, a trail of approximately 4,900 miles, extending from the Ohio River in Pittsburgh, Pennsylvania, to the mouth of the Columbia River in Oregon, following the outbound and inbound routes of the Lewis and Clark Expedition depicted on the map entitled "Lewis and Clark National Historic Trail Authorized Trail Including Proposed Eastern Legacy Extension", dated April 2018, and numbered 648/143721. The map shall be on file and available for public inspection in the office of the Director, National Park Service, Washington, D.C. The trail shall be administered by the Secretary of the Interior. No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land. The authority of the Federal Government to acquire fee title under this paragraph shall be limited to an average of not more than ¼ mile on either side of the trail.
 
@@ -20,11 +20,11 @@ National scenic and national historic trails shall be authorized and designated 
 
 (8) The North Country National Scenic Trail, a trail of approximately 4,600 miles, extending from the Appalachian Trail in Vermont to the vicinity of Lake Sakakawea in North Dakota, following the approximate route depicted on the map identified as " 'North <sup>1</sup> Country National Scenic Trail, Authorized Route", dated February 2014, and numbered 649/116870. The map shall be on file and available for public inspection in the office of the Director, National Park Service, Washington, District of Columbia. The trail shall be administered by the Secretary of the Interior. No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land.
 
-(9) The Overmountain Victory National Historic Trail, a system totaling approximately two hundred seventy-two miles of trail with routes from the mustering point near Abingdon, Virginia, to Sycamore Shoals (near Elizabethton, Tennessee); from Sycamore Shoals to Quaker Meadows (near Morganton, North Carolina); from the mustering point in Surry County, North Carolina, to Quaker Meadows; and from Quaker Meadows to Kings Mountain, South Carolina, as depicted on the map identified as Map 3—Historic Features—1780 in the draft study report entitled "Overmountain Victory Trail" dated December 1979. The map shall be on file and available for public inspection in the Office of the Director, National Park Service, Washington, District of Columbia. The trail shall be administered by the Secretary of the Interior.
+(9) The Overmountain Victory National Historic Trail, a system totaling approximately two hundred seventy-two miles of trail with routes from the mustering point near Abingdon, Virginia, to Sycamore Shoals (near Elizabethton, Tennessee); from Sycamore Shoalsto Quaker Meadows (near Morganton, North Carolina); from the mustering point in Surry County, North Carolina, to Quaker Meadows; and from Quaker Meadows to Kings Mountain, South Carolina, as depicted on the map identified as Map 3—Historic Features—1780 in the draft study report entitled "Overmountain Victory Trail" dated December 1979. The map shall be on file and available for public inspection in the Office of the Director, National Park Service, Washington, District of Columbia. The trail shall be administered by the Secretary of the Interior.
 
 (10) The Ice Age National Scenic Trail, a trail of approximately one thousand miles, extending from Door County, Wisconsin, to Interstate Park in Saint Croix County, Wisconsin, generally following the route described in "On the Trail of the Ice Age—A Hiker's and Biker's Guide to Wisconsin's Ice Age National Scientific Reserve and Trail", by Henry S. Reuss, Member of Congress, dated 1980. The guide and maps shall be on file and available for public inspection in the Office of the Director, National Park Service, Washington, District of Columbia. Overall administration of the trail shall be the responsibility of the Secretary of the Interior pursuant to subsection (d) of this section. The State of Wisconsin, in consultation with the Secretary of the Interior, may, subject to the approval of the Secretary, prepare a plan for the management of the trail which shall be deemed to meet the requirements of subsection (e) of this section. Notwithstanding the provisions of section 1246(c) of this title, snowmobile use may be permitted on segments of the Ice Age National Scenic Trail where deemed appropriate by the Secretary and the managing authority responsible for the segment. No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land.
 
-(11) The Potomac Heritage National Scenic Trail, a corridor of approximately seven hundred and four miles following the route as generally depicted on the map identified as "National Trails System, Proposed Potomac Heritage Trail" in "The Potomac Heritage Trail", a report prepared by the Department of the Interior and dated December 1974, except that no designation of the trail shall be made in the State of West Virginia. The map shall be on file andavailable for public inspection in the office of the Director of the National Park Service, Washington, District of Columbia. The trail shall initially consist of only those segments of the corridor located within the exterior boundaries of federally administered areas. The trail shall be administered by the Secretary of the Interior. No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land.
+(11) The Potomac Heritage National Scenic Trail, a corridor of approximately seven hundred and four miles following the route as generally depicted on the map identified as "National Trails System, Proposed Potomac Heritage Trail" in "The Potomac Heritage Trail", a report prepared by the Department of the Interior and dated December 1974, except that no designation of the trail shall be made in the State of West Virginia. The map shall be on file and available for public inspection in the office of the Director of the National Park Service, Washington, District of Columbia. The trail shall initially consist of only those segments of the corridor located within the exterior boundaries of federally administered areas. The trail shall be administered by the Secretary of the Interior. No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land.
 
 (12) The Natchez Trace National Scenic Trail, a trail system of approximately six hundred and ninety-four miles extending from Nashville, Tennessee, to Natchez, Mississippi, as depicted on the map entitled "Concept Plan, Natchez Trace Trails Study" in "The Natchez Trace", a report prepared by the Department of the Interior and dated August 1979. The map shall be on file and available for public inspection in the office of the Director of the National Park Service, Department of the Interior, Washington, District of Columbia. The trail shall be administered by the Secretary of the Interior.
 
@@ -32,7 +32,7 @@ National scenic and national historic trails shall be authorized and designated 
 
 (14) The Nez Perce National Historic Trail, a route of approximately eleven hundred and seventy miles extending from the vicinity of Wallowa Lake, Oregon, to Bear Paw Mountain, Montana, as generally depicted in "Nez Perce (Nee-Me-Poo) Trail Study Report" prepared by the Department of Agriculture and dated March 1982. The report shall be on file and available for public inspection in the Office of the Chief of the Forest Service, Washington, District of Columbia. The trail shall be administered by the Secretary of Agriculture. So that significant route segments and sites recognized as associated with the Nez Perce Trail may be distinguished by suitable markers, the Secretary of Agriculture is authorized to accept the donation of suitable markers for placement at appropriate locations. Any such markers associated with the Nez Perce Trail which are to be located on lands administered by any other department or agency of the United States may be placed on such lands only with the concurrence of the head of such department or agency. No land or interest in land outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the trail except with the consent of the owner of the land or interest in land. The authority of the Federal Government to acquire fee title under this paragraph shall be limited to an average of not more than ¼ mile on either side of the trail.
 
-(15) The Santa Fe National Historic Trail, a trail of approximately 950 miles from a point near Old Franklin, Missouri, through Kansas, Oklahoma, and Colorado to Santa Fe, New Mexico, as generally depicted on a map entitled "The Santa Fe Trail" contained in the Final Report of the Secretary of the Interior pursuant to subsection (b) of this section, dated July 1976. The map shall be on file and available for public inspection in the office of the Director of the National Park Service, Washington, District of Columbia. The trail shall be administered by the Secretary of the Interior. No lands or interests therein outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Santa Fe Trail except with the consent of the owner thereof. Before acquiring any easement or entering into any cooperative agreement with a private landowner with respect to the trail, the Secretary shall notify the landowner of the potential liability, if any, for injury to the public resulting from physical conditions which may be on the landowner's land. The United States shall not be held liable by reason of such notice or failure to provide such notice to the landowner. So that significant route segments and sites recognized as associated with the Santa Fe Trail may be distinguished by suitable markers, the Secretary of the Interior is authorized to accept the donation of suitable markers for placement at appropriate locations.
+(15) The Santa Fe National Historic Trail, a trail of approximately 950 miles from a point near Old Franklin, Missouri, through Kansas, Oklahoma, and Colorado to Santa Fe, New Mexico, as generally depicted on a map entitled "The Santa Fe Trail" contained in the Final Report of the Secretary of the Interior pursuant to subsection (b) of this section, dated July 1976. The map shall be on file and available for public inspection in the office of the Director of theNational Park Service, Washington, District of Columbia. The trail shall be administered by the Secretary of the Interior. No lands or interests therein outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Santa Fe Trail except with the consent of the owner thereof. Before acquiring any easement or entering into any cooperative agreement with a private landowner with respect to the trail, the Secretary shall notify the landowner of the potential liability, if any, for injury to the public resulting from physical conditions which may be on the landowner's land. The United States shall not be held liable by reason of such notice or failure to provide such notice to the landowner. So that significant route segments and sites recognized as associated with the Santa Fe Trail may be distinguished by suitable markers, the Secretary of the Interior is authorized to accept the donation of suitable markers for placement at appropriate locations.
 
 (16)(A) The Trail of Tears National Historic Trail, a trail consisting of water routes and overland routes traveled by the Cherokee Nation during its removal from ancestral lands in the East to Oklahoma during 1838 and 1839, generally located within the corridor described through portions of Georgia, North Carolina, Alabama, Tennessee, Kentucky, Illinois, Missouri, Arkansas, and Oklahoma in the final report of the Secretary of the Interior prepared pursuant to subsection (b) of this section entitled "Trail of Tears" and dated June 1986. Maps depicting the corridor shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The trail shall be administered by the Secretary of the Interior. No lands or interests therein outside the exterior boundaries of any federally administered area may be acquired by the Federal Government for the Trail of Tears except with the consent of the owner thereof.
 
@@ -54,7 +54,7 @@ National scenic and national historic trails shall be authorized and designated 
 
 (18) The California National Historic Trail, a route of approximately five thousand seven hundred miles, including all routes and cutoffs, extending from Independence and Saint Joseph, Missouri, and Council Bluffs, Iowa, to various points in California and Oregon, as generally described in the report of the Department of the Interior prepared pursuant to subsection (b) of this section entitled "California and Pony Express Trails, Eligibility/Feasibility Study/Environmental Assessment" and dated September 1987. A map generally depicting the route shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The trail shall be administered by the Secretary of the Interior. No lands or interests therein outside the exterior boundaries of any federally administered area may be acquired by the United States for the California National Historic Trail except with the consent of the owner thereof.
 
-(19) The Pony Express National Historic Trail, a route of approximately one thousand nine hundred miles, including the original route and subsequent route changes, extending from Saint Joseph, Missouri, to Sacramento, California, as generally described in the report of the Department of the Interior prepared pursuant to subsection (b) of this section entitled "California and Pony Express Trails, Eligibility/Feasibility Study/Environmental Assessment", and dated September 1987. A map generally depicting the route shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The trail shall be administered by the Secretary of the Interior. No lands or interests therein outside the exterior boundaries of any federally administered area may be acquired by the United States for the Pony Express National Historic Trail except with the consent of the owner thereof.
+(19) The Pony Express National Historic Trail, a route of approximately one thousand nine hundred miles, including the original route and subsequent route changes, extending from Saint Joseph, Missouri, to Sacramento, California, as generally described in the report of the Department of the Interior prepared pursuant to subsection (b) of this section entitled "California and Pony Express Trails, Eligibility/Feasibility Study/Environmental Assessment", and dated September 1987. A map generally depicting the route shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The trail shall be administered by the Secretary of the Interior. No lands or interests therein outside theexterior boundaries of any federally administered area may be acquired by the United States for the Pony Express National Historic Trail except with the consent of the owner thereof.
 
 (20) The Selma to Montgomery National Historic Trail, consisting of 54 miles of city streets and United States Highway 80 from Brown Chapel A.M.E. Church in Selma to the State Capitol Building in Montgomery, Alabama, traveled by voting rights advocates during March 1965 to dramatize the need for voting rights legislation, as generally described in the report of the Secretary of the Interior prepared pursuant to subsection (b) of this section entitled "Selma to Montgomery" and dated April 1993. Maps depicting the route shall be on file and available for public inspection in the Office of the National Park Service, Department of the Interior. The trail shall be administered in accordance with this chapter, including section 1246(h) of this title. The Secretary of the Interior, acting through the National Park Service, which shall be the lead Federal agency, shall cooperate with other Federal, State and local authorities to preserve historic sites along the route, including (but not limited to) the Edmund Pettus Bridge and the Brown Chapel A.M.E. Church.
 
@@ -308,6 +308,78 @@ Administration.—The Pacific Northwest National Scenic Trail shall be administe
 
 Land acquisition.—The United States shall not acquire for the Pacific Northwest National Scenic Trail any land or interest in land outside the exterior boundary of any federally-managed area without the consent of the owner of the land or interest in land.
 
+(31) <sup>2</sup>
+
+Chilkoot national historic trail.—
+
+&emsp;(A)
+
+In general.—The Chilkoot National Historic Trail, an approximately 16.5-mile route within the Klondike Gold Rush National Historical Park that was traditionally used as a trading route by the Tlingit Indian Tribe and Tagish First Nation and as a gold rush route, as generally depicted on the map entitled "Proposed Chilkoot National Historic Trail", numbered KLGO–461–173787, and dated October 2020.
+
+&emsp;(B)
+
+Availability of map.—The map described in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+&emsp;(C)
+
+Administration.—The Chilkoot National Historic Trail shall be administered by the Secretary of the Interior.
+
+&emsp;(D)
+
+Effect.—The designation of the Chilkoot National Historic Trail shall not affect any authorities under Public Law 94–323 (16 U.S.C. 410bb et seq.).
+
+&emsp;(E)
+
+Coordination of activities.—The Secretary of the Interior may coordinate with public and nongovernmental organizations and institutions of higher education in the United States and Canada, Alaska Native Corporations, and, in consultation with the Secretary of State, the Government of Canada and any political subdivisions of the Government of Canada for the purposes of—
+
+&emsp;&emsp;(i) exchanging information and research relating to the Chilkoot National Historic Trail;
+
+&emsp;&emsp;(ii) supporting the preservation of, and educational programs relating to, the Chilkoot National Historic Trail;
+
+&emsp;&emsp;(iii) providing technical assistance with respect to the Chilkoot National Historic Trail; and
+
+&emsp;&emsp;(iv) working to establish an international historic trail incorporating the Chilkoot National Historic Trail that provides for complementary preservation and education programs in the United States and Canada.
+
+(31) <sup>2</sup>
+
+Butterfield overland national historic trail.—
+
+&emsp;(A)
+
+In general.—The Butterfield Overland National Historic Trail, a trail of approximately 3,292 miles following the route operated by the Butterfield Overland Mail Company, known as the "Ox-Bow Route", to transport mail and passengers between the eastern termini of St. Louis, Missouri, and Memphis, Tennessee, and extending westward through the States of Arkansas, Oklahoma, Texas, New Mexico, and Arizona, to the western terminus of San Francisco, California, as generally depicted on the maps numbered 1 through 15, entitled "Study Route Maps", and contained in the report prepared by the National Park Service entitled "Butterfield Overland Trail National Historical Trail Special Resource Study" and dated May 2018.
+
+&emsp;(B)
+
+Maps.—The maps described in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+&emsp;(C)
+
+Administration.—The trail established by subparagraph (A) shall be administered by the Secretary of the Interior.
+
+&emsp;(D)
+
+Land acquisition.—The United States shall not acquire for the trail established by subparagraph (A) any land or interest in land outside of the exterior boundary of any federally administered area without the consent of the owner of the land or interest in land.
+
+&emsp;(E)
+
+No buffer zone created.—
+
+&emsp;&emsp;(i)
+
+In general.—Nothing in this paragraph, the acquisition of land or an interest in land authorized by this paragraph, or any management plan for the Butterfield Overland National Historic Trail creates a buffer zone outside of the Butterfield Overland National Historic Trail.
+
+&emsp;&emsp;(ii)
+
+Outside activities.—The fact that an activity or use on land outside the Butterfield Overland National Historic Trail can be seen, heard, or detected from land or an interest in land acquired for the Butterfield Overland National Historic Trail shall not preclude, limit, control, regulate, or determine the conduct or management of the activity or use.
+
+&emsp;(F)
+
+Effect on energy development, production, or transmission.—Nothing in this paragraph, the acquisition of land or an interest in land authorized by this paragraph, or any management plan for the Butterfield Overland National Historic Trail shall prohibit, hinder, or disrupt the development, production, or transmission of energy.
+
+&emsp;(G)
+
+No eminent domain or condemnation.—In carrying out this paragraph, the Secretary of the Interior may not use eminent domain or condemnation.
+
 #### (b) Additional national scenic or national historic trails; feasibility studies; consultations; submission of studies to Congress; scope of studies; qualifications for national historic trail designation
 
 The Secretary of the Interior, through the agency most likely to administer such trail, and the Secretary of Agriculture where lands administered by him are involved, shall make such additional studies as are herein or may hereafter be authorized by the Congress for the purpose of determining the feasibility and desirability of designating other trails as national scenic or national historic trails. Such studies shall be made in consultation with the heads of other Federal agencies administering lands through which such additional proposed trails would pass and in cooperation with interested interstate, State, and local governmental agencies, public and private organizations, and landowners and land users concerned. The feasibility of designating a trail shall be determined on the basis of an evaluation of whether or not it is physically possible to develop a trail along a route being studied, and whether the development of a trail would be financially feasible. The studies listed in subsection (c) of this section shall be completed and submitted to the Congress, with recommendations as to the suitability of trail designation, not later than three complete fiscal years from the date of enactment of their addition to this subsection, or from November 10, 1978, whichever is later. Such studies, when submitted, shall be printed as a House or Senate document, and shall include, but not be limited to:
@@ -316,7 +388,7 @@ The Secretary of the Interior, through the agency most likely to administer such
 
 &emsp;(2) the areas adjacent to such trails, to be utilized for scenic, historic, natural, cultural, or developmental, purposes;
 
-&emsp;(3) the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior's National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 (49 Stat. 666; 16 U.S.C. 461); <sup>2</sup>
+&emsp;(3) the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior's National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 (49 Stat. 666; 16 U.S.C. 461); <sup>3</sup>
 
 &emsp;(4) the current status of land ownership and current and potential use along the designated route;
 
@@ -424,7 +496,7 @@ The following routes shall be studied in accordance with the objectives outlined
 
 (35) Ala Kahakai Trail in the State of Hawaii, an ancient Hawaiian trail on the Island of Hawaii extending from the northern tip of the Island of Hawaii approximately 175 miles along the western and southern coasts to the northern boundary of Hawai‘i Volcanoes National Park.
 
-(36)(A) El Camino Real de Tierra Adentro, the approximately 1,800 mile route extending fromMexico City, Mexico, across the international border at El Paso, Texas, to Santa Fe, New Mexico.
+(36)(A) El Camino Real de Tierra Adentro, the approximately 1,800 mile route extending from Mexico City, Mexico, across the international border at El Paso, Texas, to Santa Fe, New Mexico.
 
 (B) The study shall—
 
@@ -482,7 +554,7 @@ Affected areas.—The trail crosses eight counties within the boundaries of the 
 
 &emsp;(C)
 
-Coordination with other congressionally mandated activities.—The study under this paragraph shall be undertaken in coordination with the study authorized under section 603 of the Omnibus Parks and Public Lands Management Act of 1996 (110 Stat. 4172) and the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 (112 Stat. 2961). Such coordination shall extend to any research needed to complete the studies and any findings and implementation actions that result from the studies and shall use available resources to the greatest extent possible to avoid unnecessary duplication of effort.
+Coordination with other congressionally mandated activities.—The study under this paragraph shall be undertaken in coordination with the study authorized under section 603 of the Omnibus Parks and Public Lands Management Act of 1996 (110 Stat. 4172) and the Chesapeake Bay Gateways and Watertrails Network authorized under the Chesapeake Bay Initiative Act of 1998 (112Stat. 2961). Such coordination shall extend to any research needed to complete the studies and any findings and implementation actions that result from the studies and shall use available resources to the greatest extent possible to avoid unnecessary duplication of effort.
 
 &emsp;(D)
 
@@ -536,13 +608,43 @@ Pike national historic trail.—The Pike National Historic Trail, a series of ro
 
 Emancipation national historic trail.—The Emancipation National Historic Trail, extending approximately 51 miles from the Osterman Building and Reedy Chapel in Galveston, Texas, along Texas State Highway 3 and Interstate Highway 45 North, to Freedmen's Town, then to Independence Heights and Emancipation Park in Houston, Texas, following the migration route taken by newly freed slaves and other persons of African descent from the major 19th century seaport town of Galveston to the burgeoning community of Freedmen's Town, located in the 4th Ward of Houston, Texas.
 
+(48)
+
+Alaska long trail.—
+
+&emsp;(A)
+
+In general.—The Alaska Long Trail, extending approximately 500 miles from Seward, Alaska, to Fairbanks, Alaska.
+
+&emsp;(B)
+
+Requirement.—The Secretary of the Interior (referred to in this paragraph as the "Secretary") shall study the feasibility of designating the trail described in subparagraph (A), including evaluating the potential impacts of the trail on rights-of-way, existing rights, or other recreational uses of the land proposed to be used for the trail.
+
+&emsp;(C)
+
+Consultation.—The Secretary shall conduct the study under this paragraph in consultation with—
+
+&emsp;&emsp;(i) the Secretary of Agriculture, acting through the Chief of the Forest Service;
+
+&emsp;&emsp;(ii) the State of Alaska;
+
+&emsp;&emsp;(iii) units of local government in the State of Alaska;
+
+&emsp;&emsp;(iv) Alaska Native Corporations; and
+
+&emsp;&emsp;(v) representatives of the private sector, including any entity that holds a permitissued by the Federal Energy Regulatory Commission.
+
+(49)
+
+Buckeye trail.—The Buckeye Trail, a system of trails creating a loop extending approximately 1,454 miles from Lake Erie to the Ohio River, through the farmland of northwest Ohio, the hills of Appalachia, the Black Hand sandstone cliffs of the Hocking Hills region, and the Bluegrass region of southwest Ohio.
+
 #### (d) Trail advisory councils; establishment and termination; term and compensation; membership; chairman
 
 The Secretary charged with the administration of each respective trail shall, within one year of the date of the addition of any national scenic or national historic trail to the System, and within sixty days of November 10, 1978, for the Appalachian and Pacific Crest National Scenic Trails, establish an advisory council for each such trail, each of which councils shall expire ten years from the date of its establishment, except that the Advisory Council established for the Iditarod Historic Trail shall expire twenty years from the date of its establishment. If the appropriate Secretary is unable to establish such an advisory council because of the lack of adequate public interest, the Secretary shall so advise the appropriate committees of the Congress. The appropriate Secretary shall consult with such council from time to time with respect to matters relating to the trail, including the selection of rights-of-way, standards for the erection and maintenance of markers along the trail, and the administration of the trail. The members of each advisory council, which shall not exceed thirty-five in number, shall serve for a term of two years and without compensation as such, but the Secretary may pay, upon vouchers signed by the chairman of the council, the expenses reasonably incurred by the council and its members in carrying out their responsibilities under this section. Members of each council shall be appointed by the appropriate Secretary as follows:
 
 &emsp;(1) the head of each Federal department or independent agency administering lands through which the trail route passes, or his designee;
 
-&emsp;(2) a member appointed to represent each State through which the trail passes, and suchappointments shall be made from recommendations of the Governors of such States;
+&emsp;(2) a member appointed to represent each State through which the trail passes, and such appointments shall be made from recommendations of the Governors of such States;
 
 &emsp;(3) one or more members appointed to represent private organizations, including corporate and individual landowners and land users, which in the opinion of the Secretary, have an established and recognized interest in the trail, and such appointments shall be made from recommendations of the heads of such organizations: <i>Provided</i>, That the Appalachian Trail Conference shall be represented by a sufficient number of persons to represent the various sections of the country through which the Appalachian Trail passes; and
 
@@ -774,7 +876,7 @@ Within two complete fiscal years of the date of enactment of legislation designa
 
 &emsp;&emsp;&emsp;(vii) Raft River to Applegate.
 
-(Pub. L. 90–543, §5, Oct. 2, 1968, 82 Stat. 920; Pub. L. 94–527, Oct. 17, 1976, 90 Stat. 2481; Pub. L. 95–248, §1(1), (2), Mar. 21, 1978, 92 Stat. 159; Pub. L. 95–625, title V, §551 (7)–(15), Nov. 10, 1978, 92 Stat. 3512–3515; Pub. L. 96–87, title IV, §401(m)(1), Oct. 12, 1979, 93 Stat. 666; Pub. L. 96–199, title I, §101(b)(1)–(3), Mar. 5, 1980, 94 Stat. 67, 68; Pub. L. 96–344, §14, Sept. 8, 1980, 94 Stat. 1136; Pub. L. 96–370, §1(a), Oct. 3, 1980, 94 Stat. 1360; Pub. L. 98–11, title II, §205, Mar. 28, 1983, 97 Stat. 43; Pub. L. 98–405, §1, Aug. 28, 1984, 98 Stat. 1483; Pub. L. 99–445, §1, Oct. 6, 1986, 100 Stat. 1122; Pub. L. 100–35, §1(a), May 8, 1987, 101 Stat. 302; Pub. L. 100–187, §3, Dec. 11, 1987, 101 Stat. 1287; Pub. L. 100–192, §1, Dec. 16, 1987, 101 Stat. 1309; Pub. L. 100–470, §4, Oct. 4, 1988, 102 Stat. 2283; Pub. L. 100–559, title II, §203, Oct. 28, 1988, 102 Stat. 2797; Pub. L. 101–321, §3, July 3, 1990, 104 Stat. 293; Pub. L. 101–365, §2(a), Aug. 15, 1990, 104 Stat. 429; Pub. L. 102–328, §1, Aug. 3, 1992, 106 Stat. 845; Pub. L. 102–461, Oct. 23, 1992, 106 Stat. 2273; Pub. L. 103–144, §3, Nov. 17, 1993, 107 Stat. 1494; Pub. L. 103–145, §3, Nov. 17, 1993, 107 Stat. 1497; Pub. L. 103–437, §6(d)(38), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–333, div. I, title IV, §§402, 403, title V, §501, Nov. 12, 1996, 110 Stat. 4148, 4153; Pub. L. 106–135, §3, Dec. 7, 1999, 113 Stat. 1686; Pub. L. 106–307, §3, Oct. 13, 2000, 114 Stat. 1075; Pub. L. 106–509, §3, Nov. 13, 2000, 114 Stat. 2361; Pub. L. 106–510, §3(a)(2), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 107–214, §3, Aug. 21, 2002, 116 Stat. 1053; Pub. L. 107–325, §2, Dec. 4, 2002, 116 Stat. 2790; Pub. L. 107–338, §2, Dec. 16, 2002, 116 Stat. 2886; Pub. L. 108–342, §2, Oct. 18, 2004, 118 Stat. 1370; Pub. L. 108–352, §14(1), Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–54, title I, §133, Aug. 2, 2005, 119 Stat. 526; Pub. L. 109–378, §1, Dec. 1, 2006, 120 Stat. 2664; Pub. L. 109–418, §2, Dec. 19, 2006, 120 Stat. 2882; Pub. L. 110–229, title III, §341, May 8, 2008, 122 Stat. 795; Pub. L. 111–11, title V, §§5201, 5202(a), 5204–5206, 5301(a), 5302, 5303, title VII, §7116(f), Mar. 30, 2009, 123 Stat. 1154, 1158, 1159, 1161, 1164, 1203; Pub. L. 116–9, title II, §§2501, 2502(a), 2504, Mar. 12, 2019, 133 Stat. 753, 754; Pub. L. 116–111, §2, Jan. 27, 2020, 134 Stat. 8.)
+(Pub. L. 90–543, §5, Oct. 2, 1968, 82 Stat. 920; Pub. L. 94–527, Oct. 17, 1976, 90 Stat. 2481; Pub. L. 95–248, §1(1), (2), Mar. 21, 1978, 92 Stat. 159; Pub. L. 95–625, title V, §551 (7)–(15), Nov. 10, 1978, 92 Stat. 3512–3515; Pub. L. 96–87, title IV, §401(m)(1), Oct. 12, 1979, 93 Stat. 666; Pub. L. 96–199, title I, §101(b)(1)–(3), Mar. 5, 1980, 94 Stat. 67, 68; Pub. L. 96–344, §14, Sept. 8, 1980, 94 Stat. 1136; Pub. L. 96–370, §1(a), Oct. 3, 1980, 94 Stat. 1360; Pub. L. 98–11, title II, §205, Mar. 28, 1983, 97 Stat. 43; Pub. L. 98–405, §1, Aug. 28, 1984, 98 Stat. 1483; Pub. L. 99–445, §1, Oct. 6, 1986, 100 Stat. 1122; Pub. L. 100–35, §1(a), May 8, 1987, 101 Stat. 302; Pub. L. 100–187, §3, Dec. 11, 1987, 101 Stat. 1287; Pub. L. 100–192, §1, Dec. 16, 1987, 101 Stat. 1309; Pub. L. 100–470, §4, Oct. 4, 1988, 102 Stat. 2283; Pub. L. 100–559, title II, §203, Oct. 28, 1988, 102 Stat. 2797; Pub. L. 101–321, §3, July 3, 1990, 104 Stat. 293; Pub. L. 101–365, §2(a), Aug. 15, 1990, 104 Stat. 429; Pub. L. 102–328, §1, Aug. 3, 1992, 106 Stat. 845; Pub. L. 102–461, Oct. 23, 1992, 106 Stat. 2273; Pub. L. 103–144, §3, Nov. 17, 1993, 107 Stat. 1494; Pub. L. 103–145, §3, Nov. 17, 1993, 107 Stat. 1497; Pub. L. 103–437, §6(d)(38), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–333, div. I, title IV, §§402, 403, title V, §501, Nov. 12, 1996, 110 Stat. 4148, 4153; Pub. L. 106–135, §3, Dec. 7, 1999, 113 Stat. 1686; Pub. L. 106–307, §3, Oct. 13, 2000, 114 Stat. 1075; Pub. L. 106–509, §3, Nov. 13, 2000, 114 Stat. 2361; Pub. L. 106–510, §3(a)(2), Nov. 13, 2000, 114 Stat. 2363; Pub. L. 107–214, §3, Aug. 21, 2002, 116 Stat. 1053; Pub. L. 107–325, §2, Dec. 4, 2002, 116 Stat. 2790; Pub. L. 107–338, §2, Dec. 16, 2002, 116 Stat. 2886; Pub. L. 108–342, §2, Oct. 18, 2004, 118 Stat. 1370; Pub. L. 108–352, §14(1), Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–54, title I, §133, Aug. 2, 2005, 119 Stat. 526; Pub. L. 109–378, §1, Dec. 1, 2006, 120 Stat. 2664; Pub. L. 109–418, §2, Dec. 19, 2006, 120 Stat. 2882; Pub. L. 110–229, title III, §341, May 8, 2008, 122 Stat. 795; Pub. L. 111–11, title V, §§5201, 5202(a), 5204–5206, 5301(a), 5302, 5303, title VII, §7116(f), Mar. 30, 2009, 123 Stat. 1154, 1158, 1159, 1161, 1164, 1203; Pub. L. 116–9, title II, §§2501, 2502(a), 2504, Mar. 12, 2019, 133 Stat. 753, 754; Pub. L. 116–111, §2, Jan. 27, 2020, 134 Stat. 8; Pub. L. 117–328, div. DD, title V, §§501–503, Dec. 29, 2022, 136 Stat. 5599–5601; Pub. L. 117–345, §2, Jan. 5, 2023, 136 Stat. 6196.)
 
 #### <b>Editorial Notes</b>
 
@@ -787,6 +889,14 @@ The Historic Sites Act of 1935 (49 Stat. 666; 16 U.S.C. 461), referred to in sub
 Section 603 of the Omnibus Parks and Public Lands Management Act of 1996, referred to in subsec. (c)(40)(C), is section 603 of Pub. L. 104–333, div. I, title VI, Nov. 12, 1996, 110 Stat. 4172, which was formerly set out as a note under section 1a–5 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(31). Pub. L. 117–345 added par. (31) relating to Butterfield Overland National Historic Trail.
+
+<b>2022</b>—Subsec. (a)(31). Pub. L. 117–328, §501, added par. (31) relating to Chilkoot National Historic Trail.
+
+Subsec. (c)(48). Pub. L. 117–328, §502, added par. (48).
+
+Subsec. (c)(49). Pub. L. 117–328, §503, added par. (49).
 
 <b>2020</b>—Subsec. (c)(47). Pub. L. 116–111 added par. (47).
 
@@ -862,7 +972,7 @@ Subsec. (a)(21)(A). Pub. L. 106–510 substituted "Hawai‘i Volcanoes National 
 
 Subsec. (c)(35). Pub. L. 106–510 substituted "Hawai‘i Volcanoes National Park" for "Hawaii Volcanoes National Park".
 
-<b>1999</b>—Subsec. (c)(36), (37). Pub. L. 106–135, §3(1), redesignated par. (36) relating to El Camino Real Para Los Texas as (37) and substituted "determine" for "detemine" in subpar. (C).
+<b>1999</b>—Subsec. (c)(36), (37). Pub. L. 106–135, §3(1), redesignated par. (36) relating to El Camino Real Para LosTexas as (37) and substituted "determine" for "detemine" in subpar. (C).
 
 Subsec. (c)(38) to (40). Pub. L. 106–135 designated unnumbered par. relating to the Old Spanish Trail as par. (38) and unnumbered par. relating to the Great Western Scenic Trail as par. (39) and added par. (40).
 
@@ -968,7 +1078,7 @@ Pub. L. 116–9, title II, §2502(b), Mar. 12, 2019, 133 Stat. 754, provided tha
 
 #### Termination of Advisory Councils
 
-Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Construction of Title V of Pub. L. 111–11
 
@@ -1010,7 +1120,7 @@ Pub. L. 111–11, title V, §5203, Mar. 30, 2009, 123 Stat. 1155, described and 
 
 Pub. L. 109–432, div. C, title III, §§303, 355, Dec. 20, 2006, 120 Stat. 3028, 3040, directed the Secretary of the Interior to complete a study of routes for the extension of the Silver State Off-Highway Vehicle Trail into White Pine County, Nevada, not later than 3 years after Dec. 20, 2006, to identify the preferred route for the Trail in consultation with the State of Nevada, White Pine County, and any interested persons, to designate the Trail not later than 90 days after the study is completed, to complete a management plan for the Trail not later than 2 years after the designation, and to annually assess the effects of use of the Trail on the environment and cultural resources and to temporarily close or permanently reroute a portion of the Trail where there is an adverse environmental impact, a threat to public safety, or where necessary to repair damage to the Trail or a resource.
 
-Pub. L. 108–424, title IV, §401, Nov. 30, 2004, 118 Stat. 2416, provided that the Secretary of the Interior would manage the system of trails designated as the Silver State Off-Highway Vehicle Trail in the Lincoln County Conservation, Recreation and Development Act Map for Lincoln County, Nevada, in a manner consistent with motorized and mechanized use of the Trail, the safety of the people who use the Trail and its sensitive habitat and cultural resources, and that the Secretary would, in consultation with the State, County and other interested parties, develop a management plan, not later than 3 years after Nov. 30, 2004, and monitor and evaluate the effects of the use of the Trail to minimize adverse environmental or cultural impact while giving notice of open routes.
+Pub. L. 108–424, title IV, §401, Nov. 30, 2004, 118 Stat. 2416, provided that the Secretary of the Interior would manage the system of trails designated as the Silver State Off-Highway Vehicle Trail in the Lincoln County Conservation, Recreation and Development Act Map for Lincoln County, Nevada, in a manner consistent with motorized and mechanized use of the Trail, the safety of the people who use the Trail and its sensitive habitat and cultural resources, and that the Secretary would, in consultation with the State, County and other interested parties, develop a management plan,not later than 3 years after Nov. 30, 2004, and monitor and evaluate the effects of the use of the Trail to minimize adverse environmental or cultural impact while giving notice of open routes.
 
 #### Expedited Report to Congress
 
@@ -1054,5 +1164,7 @@ Pub. L. 99–500, §101(h) \[title I, §113\], Oct. 18, 1986, 100 Stat. 1783–2
 
 <i><sup>1</sup></i><i> So in original. The additional quotation mark probably should not appear.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Two pars. (31) have been enacted.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

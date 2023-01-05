@@ -24,7 +24,7 @@ Amendment by Pub. L. 111–148 is based on section 102 of title I of S. 1790, On
 
 <b>2010</b>—Pub. L. 111–148 redesignated subsecs. (a), (b), (c), and (d) as pars. (1), (3), (4), and (5), respectively, realigned margins, and added par. (2).
 
-<b>1992</b>—Pub. L. 102–573 substituted "finds the following:" for "finds that—" in introductory provisionsand struck out last sentence of subsec. (d) which compared death rates of Indians to those of all Americans for tuberculosis, influenza and pneumonia, and compared death rates for infants, subsec. (e) which related to threat to fulfillment of Federal responsibility to Indians posed by low health status of American Indian people, subsec. (f) which enumerated causes imperiling improvements in Indian health, and subsec. (g) which related to confidence of Indian people in Federal Indian health services.
+<b>1992</b>—Pub. L. 102–573 substituted "finds the following:" for "finds that—" in introductory provisions and struck out last sentence of subsec. (d) which compared death rates of Indians to those of all Americans for tuberculosis, influenza and pneumonia, and compared death rates for infants, subsec. (e) which related to threat to fulfillment of Federal responsibility to Indians posed by low health status of American Indian people, subsec. (f) which enumerated causes imperiling improvements in Indian health, and subsec. (g) which related to confidence of Indian people in Federal Indian health services.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -42,7 +42,7 @@ Pub. L. 106–417, §1, Nov. 1, 2000, 114 Stat. 1812, provided that: "This Act \
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–313, §1(a), Oct. 19, 1996, 110 Stat. 3820, provided that: "This Act \[amending sections 1603, 1613a, 1621j, 1645, 1665e, 1665j, and 1680k of this title\] may be cited as the 'Indian Health Care Improvement Technical Corrections Act of 1996'."
+Pub. L. 104–313, §1(a), Oct. 19, 1996, 110 Stat. 3820, provided that: "This Act \[amending sections 1603, 1613a,1621j, 1645, 1665e, 1665j, and 1680k of this title\] may be cited as the 'Indian Health Care Improvement Technical Corrections Act of 1996'."
 
 #### Short Title of 1992 Amendment
 

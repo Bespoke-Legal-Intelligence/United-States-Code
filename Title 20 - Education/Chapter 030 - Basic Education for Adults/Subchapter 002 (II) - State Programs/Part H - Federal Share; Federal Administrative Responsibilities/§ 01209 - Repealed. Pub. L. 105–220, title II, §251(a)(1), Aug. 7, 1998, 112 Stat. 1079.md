@@ -6,5 +6,5 @@ A prior section 1209, Pub. L. 89–750, title III, §312, formerly §310, Nov. 3
 
 A prior section 1210, Pub. L. 89–750, title III, §313, Nov. 3, 1966, 80 Stat. 1222; renumbered §311, Pub. L. 91–230, title III, §301, Apr. 13, 1970, 84 Stat. 164; renumbered §312, Pub. L. 93–29, title VIII, §804(a), May 3, 1973, 87 Stat. 59; renumbered §314, Pub. L. 95–561, title XIII, §1307(a)(3), Nov. 1, 1978, 92 Stat. 2360; renumbered §313, Pub. L. 98–511, title I, §109(a)(2), Oct. 19, 1984, 98 Stat. 2369, related to prohibition on grants for sectarian instruction, religious worship, or school or department of divinity, prior to the general amendment of this chapter by Pub. L. 100–297.
 
-Another prior section 1210, Pub. L. 89–750, title III, §311, Nov. 3, 1966, 80 Stat. 1221, provided for delegation of functions and utilization of Federal facilities, prior to the general amendment of this chapter by Pub. L. 91–230.
+Another prior section 1210, Pub. L. 89–750, title III, §311, Nov. 3, 1966, 80 Stat. 1221, provided for delegationof functions and utilization of Federal facilities, prior to the general amendment of this chapter by Pub. L. 91–230.
 

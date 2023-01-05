@@ -2,7 +2,7 @@
 
 Under regulations prescribed by the Secretary, the term of enlistment of any enlisted member may, by voluntary written agreement, be extended and re-extended for a period not exceeding six full years from the date of expiration of the then-existing term of enlistment, and subsequent to such date an enlisted member who so extends his term of enlistment shall receive the same pay and allowances in all respects as though regularly discharged and reenlisted immediately upon expiration of his term of enlistment. However, the total of all such extensions of an enlistment may not exceed six years. No such extension shall operate to deprive the enlisted member concerned, upon discharge at the termination thereof, of any right, privilege, or benefit to which he would have been entitled if his term of enlistment had not been so extended.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 523, §365; Pub. L. 86–474, §1(18), May 14, 1960, 74 Stat. 146; Pub. L. 98–557, §15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865; renumbered §2312, Pub. L. 115–282, title I, §113(b), Dec. 4, 2018, 132 Stat. 4221.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 523, §365; Pub. L. 86–474, §1(18), May 14, 1960, 74 Stat. 146; Pub. L.98–557, §15(a)(3)(A), Oct. 30, 1984, 98 Stat. 2865; renumbered §2312, Pub. L. 115–282, title I, §113(b), Dec. 4, 2018, 132 Stat. 4221.)
 
 #### Historical and Revision Notes
 

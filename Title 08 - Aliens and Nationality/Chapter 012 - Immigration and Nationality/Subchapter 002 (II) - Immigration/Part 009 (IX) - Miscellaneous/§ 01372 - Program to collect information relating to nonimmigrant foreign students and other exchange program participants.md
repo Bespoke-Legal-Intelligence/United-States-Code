@@ -34,7 +34,7 @@
 
 #### (4) Reporting requirements
 
-&emsp;Not later than 30 days after the deadline for registering for classes for an academic term of an approved institution of higher education or other approved educational institution for which documentation is issued for an alien asdescribed in paragraph (3)(A), or the scheduled commencement of participation by an alien in a designated exchange visitor program, as the case may be, the institution or program, respectively, shall report to the Immigration and Naturalization Service any failure of the alien to enroll or to commence participation.
+&emsp;Not later than 30 days after the deadline for registering for classes for an academic term of an approved institution of higher education or other approved educational institution for which documentation is issued for an alien as described in paragraph (3)(A), or the scheduled commencement of participation by an alien in a designated exchange visitor program, as the case may be, the institution or program, respectively, shall report to the Immigration and Naturalization Service any failure of the alien to enroll or to commence participation.
 
 #### (b) Covered countries
 
@@ -168,13 +168,13 @@ As used in this section:
 
 &emsp;The term "other approved educational institution" includes any air flight school, language training school, or vocational school, approved by the Attorney General, in consultation with the Secretary of Education and the Secretary of State, under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title.
 
-(Pub. L. 104–208, div. C, title VI, §641, Sept. 30, 1996, 110 Stat. 3009–704; Pub. L. 106–396, title IV, §§404–406, Oct. 30, 2000, 114 Stat. 1649, 1650; Pub. L. 106–553, §1(a)(2) \[title I, §110\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 107–56, title IV, §416(c), Oct. 26, 2001, 115 Stat. 354; Pub. L. 107–173, title V, §501(a), May 14, 2002, 116 Stat. 560.)
+(Pub. L. 104–208, div. C, title VI, §641, Sept. 30, 1996, 110 Stat. 3009–704; Pub. L. 106–396, title IV,§§404–406, Oct. 30, 2000, 114 Stat. 1649, 1650; Pub. L. 106–553, §1(a)(2) \[title I, §110\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 107–56, title IV, §416(c), Oct. 26, 2001, 115 Stat. 354; Pub. L. 107–173, title V, §501(a), May 14, 2002, 116 Stat. 560.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Family Educational Rights and Privacy Act of 1974, referred to in subsec. (c)(2), is section 513 of Pub.L. 93–380, title V, Aug. 21, 1974, 88 Stat. 571, which enacted section 1232g of Title 20, Education, and provisions set out as notes under sections 1221 and 1232g of Title 20. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1221 of Title 20 and Tables.
+The Family Educational Rights and Privacy Act of 1974, referred to in subsec. (c)(2), is section 513 of Pub. L. 93–380, title V, Aug. 21, 1974, 88 Stat. 571, which enacted section 1232g of Title 20, Education, and provisions set out as notes under sections 1221 and 1232g of Title 20. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1221 of Title 20 and Tables.
 
 #### Codification
 

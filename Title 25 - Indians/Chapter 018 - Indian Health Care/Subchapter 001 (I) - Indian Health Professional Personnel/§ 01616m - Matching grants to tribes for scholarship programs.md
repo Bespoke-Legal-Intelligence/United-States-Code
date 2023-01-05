@@ -4,7 +4,7 @@
 
 (1) The Secretary shall make grants to Indian tribes and tribal organizations for the purpose of assisting such tribes and tribal organizations in educating Indians to serve as health professionals in Indian communities.
 
-(2) Amounts available for grants under paragraph (1) for any fiscal year shall not exceed 5percent of amounts available for such fiscal year for Indian Health Scholarships under section 1613a of this title.
+(2) Amounts available for grants under paragraph (1) for any fiscal year shall not exceed 5 percent of amounts available for such fiscal year for Indian Health Scholarships under section 1613a of this title.
 
 (3) An application for a grant under paragraph (1) shall be in such form and contain such agreements, assurances, and information as the Secretary determines are necessary to carry out this section.
 
@@ -86,5 +86,5 @@ The Secretary may not make any payments under subsection (a) to an Indian tribe 
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare, respectively. Part B of title XVIII of the Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare, respectively. Part B of title XVIII of the Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

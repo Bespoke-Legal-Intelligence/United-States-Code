@@ -14,7 +14,7 @@
 | [2409\.](%C2%A7%2002409%20-%20Memorial%20areas%20in%20Arlington%20National%20Cemetery.md) | Memorial areas in Arlington National Cemetery. |
 | [2410\.](%C2%A7%2002410%20-%20Burial%20of%20cremated%20remains%20in%20Arlington%20National%20Cemetery.md) | Burial of cremated remains in Arlington National Cemetery. |
 | [2410A.](%C2%A7%2002410A%20-%20Arlington%20National%20Cemetery%20other%20administrative%20matters.md) | Arlington National Cemetery: other administrative matters. |
-| [2411\.](%C2%A7%2002411%20-%20Prohibition%20against%20interment%20or%20memorialization%20in%20the%20National%20Cemetery%20Administration%20or%20Arlington%20National%20Cemetery%20of%20persons%E2%80%A6.md) | Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes. |
+| [2411\.](%C2%A7%2002411%20-%20Prohibition%20against%20interment%20or%20memorialization%20in%20the%20National%20Cemetery%20Administration%20or%20Arlington%20National%20Cemetery%20of%20persons%E2%80%A6.md) | Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing certain Federal or State crimes. |
 | [2412\.](%C2%A7%2002412%20-%20Lease%20of%20land%20and%20buildings.md) | Lease of land and buildings. |
 | [2413\.](%C2%A7%2002413%20-%20Prohibition%20on%20certain%20demonstrations%20and%20disruptions%20at%20cemeteries%20under%20control%20of%20the%20National%20Cemetery%20Administration%20and%20at%20Arlington%E2%80%A6.md) | Prohibition on certain demonstrations and disruptions at cemeteries under control of the National Cemetery Administration and at Arlington National Cemetery. |
 | [2414\.](%C2%A7%2002414%20-%20Communication%20between%20Department%20of%20Veterans%20Affairs%20and%20medical%20examiners%20and%20funeral%20directors.md) | Communication between Department of Veterans Affairs and medical examiners and funeral directors. |
@@ -24,6 +24,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 117–355, §6(b), Jan. 5, 2023, 136 Stat. 6281, added item 2411 and struck out former item 2411 "Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes".
 
 <b>2021</b>—Pub. L. 116–315, title II, §2205(b)(2), Jan. 5, 2021, 134 Stat. 4987, inserted ", counties, and tribal organizations" after "States" in item 2408.
 

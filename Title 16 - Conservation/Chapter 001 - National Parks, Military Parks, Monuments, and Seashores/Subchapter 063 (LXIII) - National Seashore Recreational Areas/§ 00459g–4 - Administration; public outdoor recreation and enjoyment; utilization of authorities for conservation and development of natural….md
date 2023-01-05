@@ -18,7 +18,7 @@
 
 &emsp;(C) except in the case of an emergency, or to protect public health and safety.
 
-(4) The Secretary shall annually monitor, assess, and make available to the public findingsregarding the population, structure, and health of the free roaming horses in the national seashore.
+(4) The Secretary shall annually monitor, assess, and make available to the public findings regarding the population, structure, and health of the free roaming horses in the national seashore.
 
 (5) Nothing in this subsection shall be construed to require the Secretary to replace horses or otherwise increase the number of horses within the boundaries of the seashore where the herd numbers fall below 110 as a result of natural causes, including, but not limited to, disease or natural disasters.
 

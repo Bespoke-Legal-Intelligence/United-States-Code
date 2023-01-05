@@ -44,7 +44,7 @@
 
 &emsp;(C) The Assistant Attorney General designated as the Assistant Attorney General for National Security under section 507A of title 28.
 
-(July 26, 1947, ch. 343, title I, §106, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106Stat. 3195; amended Pub. L. 103–359, title V, §501(a)(3), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–293, title VIII, §815(a), Oct. 11, 1996, 110 Stat. 3484; Pub. L. 107–108, title III, §308, Dec. 28, 2001, 115 Stat. 1399; Pub. L. 108–136, div. A, title IX, §921(e)(5), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title I, §105(c), Dec. 13, 2003, 117 Stat. 2603; Pub. L. 108–458, title I, §1014, Dec. 17, 2004, 118 Stat. 3663; Pub. L. 109–177, title V, §506(a)(4), Mar. 9, 2006, 120 Stat. 247; Pub. L. 110–53, title V, §531(b)(5), Aug. 3, 2007, 121 Stat. 334; Pub. L. 116–92, div. E, title LXVII, §§6742(b)(2), 6744(c), Dec. 20, 2019, 133 Stat. 2239, 2241.)
+(July 26, 1947, ch. 343, title I, §106, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3195; amended Pub. L. 103–359, title V, §501(a)(3), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–293, title VIII, §815(a), Oct. 11, 1996, 110 Stat. 3484; Pub. L. 107–108, title III, §308, Dec. 28, 2001, 115 Stat. 1399; Pub. L. 108–136, div. A, title IX, §921(e)(5), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 108–177, title I, §105(c), Dec. 13, 2003, 117 Stat. 2603; Pub. L. 108–458, title I, §1014, Dec. 17, 2004, 118 Stat. 3663; Pub. L. 109–177, title V, §506(a)(4), Mar. 9, 2006, 120 Stat. 247; Pub. L. 110–53, title V, §531(b)(5), Aug. 3, 2007, 121 Stat. 334; Pub. L. 116–92, div. E, title LXVII, §§6742(b)(2), 6744(c), Dec. 20, 2019, 133 Stat. 2239, 2241.)
 
 #### <b>Editorial Notes</b>
 

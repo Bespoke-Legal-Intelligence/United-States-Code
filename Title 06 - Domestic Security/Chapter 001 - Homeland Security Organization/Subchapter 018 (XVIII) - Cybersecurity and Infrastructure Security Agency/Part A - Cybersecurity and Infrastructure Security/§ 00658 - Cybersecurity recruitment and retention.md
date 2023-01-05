@@ -72,7 +72,7 @@ In this section:
 
 #### (4) Plan for execution of authorities
 
-&emsp;Not later than 120 days after December 18, 2014, the Secretary shall submit a report to the appropriate committees of Congress with a plan for the use of the authorities provided under this subsection.
+&emsp;Not later than 120 days after December 18, 2014, the Secretary shall submit a report tothe appropriate committees of Congress with a plan for the use of the authorities provided under this subsection.
 
 #### (5) Collective bargaining agreements
 

@@ -1,5 +1,7 @@
 ### §§1197, 1198. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1197, R.S. §1731, which related to posting rates of fees, was transferred to section 4216 of this title.

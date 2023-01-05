@@ -10,7 +10,7 @@ Examination and Implementation of Methods To Encourage Transfer.—The Secretary
 
 (c)
 
-Program To Encourage Diversification of Defense Laboratories.—(1) The Secretary ofDefense shall establish and implement a program to be known as the Federal Defense Laboratory Diversification Program (hereinafter in this subsection referred to as the "Program"). The purpose of the Program shall be to encourage greater cooperation in research and production activities carried out by defense laboratories and by private industry of the United States in order to enhance and improve the products of such research and production activities.
+Program To Encourage Diversification of Defense Laboratories.—(1) The Secretary of Defense shall establish and implement a program to be known as the Federal Defense Laboratory Diversification Program (hereinafter in this subsection referred to as the "Program"). The purpose of the Program shall be to encourage greater cooperation in research and production activities carried out by defense laboratories and by private industry of the United States in order to enhance and improve the products of such research and production activities.
 
 (2) Under the Program, the defense laboratories, in coordination with the Office of Technology Transfer in the Office of the Secretary of Defense, shall carry out cooperative activities with private industry in order to promote (by the use or exchange of patents, licenses, cooperative research and development agreements and other cooperative agreements, and the use of symposia, meetings, and other similar mechanisms) the transfer of defense or dual-use technologies from the defense laboratories to private industry, and the development and application of such technologies by the defense laboratories and private industry, for the purpose of the commercial utilization of such technologies by private industry.
 
@@ -18,7 +18,7 @@ Program To Encourage Diversification of Defense Laboratories.—(1) The Secretar
 
 (4) In this subsection, the term "defense laboratory" means any laboratory owned or operated by the Department of Defense that carries out research in fiscal year 1993 in an amount in excess of $50,000,000.
 
-(Added Pub. L. 102–484, div. D, title XLII, §4224(a), Oct. 23, 1992, 106 Stat. 2682, §2514; amended Pub. L. 104–201, div. A, title VIII, §829(f), Sept. 23, 1996, 110 Stat. 2614; renumbered §4832 and amended Pub. L. 116–283, div. A, title XVIII, §1868(b), (c)(2), Jan. 1, 2021, 134 Stat. 4282, 4283.)
+(Added Pub. L. 102–484, div. D, title XLII, §4224(a), Oct. 23, 1992, 106 Stat. 2682, §2514; amended Pub. L. 104–201, div. A, title VIII, §829(f), Sept. 23, 1996, 110 Stat. 2614; renumbered§4832 and amended Pub. L. 116–283, div. A, title XVIII, §1868(b), (c)(2), Jan. 1, 2021, 134 Stat. 4282, 4283.)
 
 #### <b>Editorial Notes</b>
 
@@ -72,7 +72,7 @@ In General.—The Secretary of Defense shall establish a pilot program to assess
 
 &emsp;&emsp;"(E) for scientific research and development consistent with the research and development missions and objectives of the laboratory.
 
-&emsp;"(3) All royalties or other payments retained by the laboratory after payments have been made pursuantto paragraphs (1) and (2) that are unobligated and unexpended at the end of the second fiscal year succeeding the fiscal year in which the royalties and other payments were received shall be paid into the Treasury of the United States.
+&emsp;"(3) All royalties or other payments retained by the laboratory after payments have been made pursuant to paragraphs (1) and (2) that are unobligated and unexpended at the end of the second fiscal year succeeding the fiscal year in which the royalties and other payments were received shall be paid into the Treasury of the United States.
 
 "(b)
 
@@ -178,7 +178,7 @@ Exception.—If, after payments under paragraph (1)(A), the balance of the royal
 
 &emsp;"(3)
 
-Status of payments to employees.—Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which the employee is otherwise entitled or for which the employee is otherwise eligible or limit the amount thereof except that the monetary value of an award for the same project or effort shall be deducted from the amount otherwise available under this paragraph. Payments, determined under the terms of this paragraph and made to an employee developer as such, may continue after the developer leaves the DOD laboratory or the Department of Defense or military department. Payments made under this section shall not exceed $75,000 per year to any one person, unless the President approves a larger award (with the excess over $75,000 being treated as a Presidential award under section 4504 of title 5, United States Code).
+Status of payments to employees.—Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which the employee is otherwise entitled or for which the employee is otherwise eligible or limit the amount thereof except that the monetary value of an award for the same project or effort shall be deducted from the amountotherwise available under this paragraph. Payments, determined under the terms of this paragraph and made to an employee developer as such, may continue after the developer leaves the DOD laboratory or the Department of Defense or military department. Payments made under this section shall not exceed $75,000 per year to any one person, unless the President approves a larger award (with the excess over $75,000 being treated as a Presidential award under section 4504 of title 5, United States Code).
 
 "(d)
 

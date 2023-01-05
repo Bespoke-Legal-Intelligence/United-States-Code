@@ -80,7 +80,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) New permanent or temporary road construction or the renovation of existing nonsystem roads, except as allowed under the final rule entitled "Special Areas; Roadless Area Conservation; Applicability to the National Forests in Colorado" (77 Fed. Reg. 39576 (July 3, 2012)).
 
-&emsp;&emsp;&emsp;&emsp;(II) Projects undertaken for the purpose of harvesting commercial timber (other than activities relating to the harvest of merchantable products thatare byproducts of activities conducted for ecological restoration or to further the purposes described in this section).
+&emsp;&emsp;&emsp;&emsp;(II) Projects undertaken for the purpose of harvesting commercial timber (other than activities relating to the harvest of merchantable products that are byproducts of activities conducted for ecological restoration or to further the purposes described in this section).
 
 #### (4) State and Federal water management
 

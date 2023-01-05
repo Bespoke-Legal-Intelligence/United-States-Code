@@ -14,5 +14,5 @@ Act of June 17, 1902, referred to in text, is popularly known as the Reclamation
 
 #### Authorization of Appropriations
 
-Act June 5, 1944, ch. 234, §4, 58 Stat. 271, authorized appropriation of such sums as might be necessary tocarry out the purpose of this section and section 593a of this title.
+Act June 5, 1944, ch. 234, §4, 58 Stat. 271, authorized appropriation of such sums as might be necessary to carry out the purpose of this section and section 593a of this title.
 

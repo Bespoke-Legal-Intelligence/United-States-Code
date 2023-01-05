@@ -56,7 +56,7 @@ Grant amounts awarded from the Capital Magnet Fund pursuant to this section may 
 
 &emsp;The application required under paragraph (1) shall include a detailed description of—
 
-&emsp;&emsp;(A) the types of affordable housing, economic, and community revitalization projects that support or sustain residents of an affordable housing project funded by a grant under this section for which such grant amounts would be used, including the proposed use of eligible grants as authorized under this section;
+&emsp;&emsp;(A) the types of affordable housing, economic, and community revitalization projects that support or sustain residents of an affordable housing project funded by agrant under this section for which such grant amounts would be used, including the proposed use of eligible grants as authorized under this section;
 
 &emsp;&emsp;(B) the types, sources, and amounts of other funding for such projects; and
 

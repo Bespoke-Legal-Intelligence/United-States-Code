@@ -18,7 +18,7 @@ In order to assist and strengthen the advancement of ongoing efforts to have the
 
 &emsp;&emsp;(B) the performance of the privately owned enterprises resulting from such transformation; and
 
-&emsp;&emsp;(C) the contributions of development finance companies toward strengthening theprivate sector in member borrowing countries.
+&emsp;&emsp;(C) the contributions of development finance companies toward strengthening the private sector in member borrowing countries.
 
 #### (2) Timing
 

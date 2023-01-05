@@ -18,7 +18,7 @@ Months.—(1) If an officer whose name is on a list of officers approved for pro
 
 (3) Paragraph (1) does not apply when the military department concerned is not able to obtain and provide to the Senate the information the Senate requires to give its advice and consent to the appointment concerned because that information is under the control of a department or agency of the Federal Government other than the Department of Defense.
 
-(4) In this subsection, the term "promotion eligibility period" means, with respect to an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required bysection 624(c) of this title to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
+(4) In this subsection, the term "promotion eligibility period" means, with respect to an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
 
 (d)
 
@@ -68,7 +68,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) to remove name of any officer from a promotion list to any grade below commodore or brigadier general delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§1(b), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (a) to remove name of any officer from a promotion list to any gradebelow commodore or brigadier general delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§1(b), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
 
 Functions of President under subsec. (c)(2) delegated to Secretary of Defense, with authority for Secretary to redelegate, see Ex. Ord. No. 13598, §§1(b), 2, Jan. 27, 2012, 77 F.R. 5371, set out as a note under section 301 of Title 3, The President.
 

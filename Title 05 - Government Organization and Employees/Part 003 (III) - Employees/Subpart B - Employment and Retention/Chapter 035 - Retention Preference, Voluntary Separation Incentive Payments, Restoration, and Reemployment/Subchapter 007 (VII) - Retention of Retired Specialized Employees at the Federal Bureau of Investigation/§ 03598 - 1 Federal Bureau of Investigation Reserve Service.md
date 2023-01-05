@@ -18,7 +18,7 @@ No Impact on Bureau Personnel Ceiling.—FBI Reserve Service members reemployed 
 
 (e)
 
-Expenses.—The Director may provide members of the FBI Reserve Service transportation and per diem in lieu of subsistence, in accordance with applicable provisions of this title, for the purpose of participating in any training that relates to service as a member of the FBI Reserve Service.
+Expenses.—The Director may provide members of the FBI Reserve Service transportation and per diem in lieu of subsistence, in accordance with applicable provisions of this title,for the purpose of participating in any training that relates to service as a member of the FBI Reserve Service.
 
 (f)
 

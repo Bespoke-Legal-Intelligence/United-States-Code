@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Make Loans and Gifts.—The Secretary of the Navy may lend or give, without expense to the United States, items described in subsection (b) that are not needed by the Department of the Navy to any of the following:
+Authority To Make Loans and Gifts.—The Secretary of the Navy may lend or give,without expense to the United States, items described in subsection (b) that are not needed by the Department of the Navy to any of the following:
 
 &emsp;(1) A State, Commonwealth, or possession of the United States, or political subdivision or municipal corporation thereof.
 

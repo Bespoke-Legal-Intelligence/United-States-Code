@@ -32,7 +32,7 @@ For purposes of this subchapter:
 
 #### (7) Authorizing committees
 
-&emsp;The term "authorizing committees" means the Committee on Education and Labor of theHouse of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
+&emsp;The term "authorizing committees" means the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
 #### (8) Carry out
 
@@ -258,7 +258,7 @@ For purposes of this subchapter:
 
 #### (41) Service-learning coordinator
 
-&emsp;The term "service-learning coordinator" means an individual who provides services as described in subsection (a)(3) or (b) of section 12523 of this title.
+&emsp;The term "service-learning coordinator" means an individual who provides services asdescribed in subsection (a)(3) or (b) of section 12523 of this title.
 
 #### (42) Service sponsor
 

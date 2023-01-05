@@ -48,7 +48,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;&emsp;(E) transfer to, or use by or for the benefit of, a disqualified person of the income or assets of a private foundation; and
 
-&emsp;&emsp;(F) agreement by a private foundation to make any payment of money or other property to a government official (as defined in section 4946(c)), other than an agreement to employ such individual for any period after the termination of his government service if such individual is terminating his government service within a 90-day period.
+&emsp;&emsp;(F) agreement by a private foundation to make any payment of money or other property to a government official (as defined in section 4946(c)), other than an agreement to employ such individual for any period after the termination of his government service ifsuch individual is terminating his government service within a 90-day period.
 
 #### (2) Special rules
 
@@ -106,9 +106,9 @@ For purposes of this section—
 
 #### (2) Amount involved
 
-&emsp;The term "amount involved" means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in subsection (d)(2)(E), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
+&emsp;The term "amount involved" means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in subsection (d)(2)(E), the amount involved shall be onlythe excess compensation. For purposes of the preceding sentence, the fair market value—
 
-&emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of thedate on which the act of self-dealing occurs; and
+&emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of the date on which the act of self-dealing occurs; and
 
 &emsp;&emsp;(B) in the case of the taxes imposed by subsection (b), shall be the highest fair market value during the taxable period.
 
@@ -186,7 +186,7 @@ Exceptions to applicability of section, see section 101(l)(2) of Pub. L. 91–17
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Tax on Self-Dealing Not To Apply to Certain Stock Purchases
 

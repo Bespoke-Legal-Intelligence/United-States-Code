@@ -20,7 +20,7 @@ The Council shall reform the security clearance process with the goal that by De
 
 #### (1) In general
 
-&emsp;If the Council develops a set of performance metrics that it certifies to the appropriate congressional committees should achieve substantially equivalent outcomes as those outlined in subsections (b) and (c),<sup>1</sup> the Council may use those metrics for purposes of compliance within this provision.
+&emsp;If the Council develops a set of performance metrics that it certifies to the appropriate congressional committees should achieve substantially equivalent outcomes as those outlined in subsections (a) and (b), the Council may use those metrics for purposes of compliance within this provision.
 
 #### (2) Notice
 
@@ -28,15 +28,19 @@ The Council shall reform the security clearance process with the goal that by De
 
 #### (d) Plan
 
-Not later than 180 days after December 20, 2019, the Council shall submit to the appropriate congressional committees and make available to appropriate industry partners a plan to carry out this section. Such plan shall include recommended interim milestones for the goals set forth in subsections (b) and (c) <sup>1</sup> for 2019, 2020, and 2021.
+Not later than 180 days after December 20, 2019, the Council shall submit to the appropriate congressional committees and make available to appropriate industry partners a plan to carry out this section. Such plan shall include recommended interim milestones for the goals set forth in subsections (a) and (b) for 2019, 2020, and 2021.
 
-(Pub. L. 116–92, div. E, title LXVI, §6604, Dec. 20, 2019, 133 Stat. 2213.)
+(Pub. L. 116–92, div. E, title LXVI, §6604, Dec. 20, 2019, 133 Stat. 2213; Pub. L. 117–263, div. F, title LXVIII, §6824(b)(3), Dec. 23, 2022, 136 Stat. 3615.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsecs. (c)(1), (d). Pub. L. 117–263 substituted "subsections (a) and (b)" for "subsections (b) and (c)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 
 For definitions of "Council", "reciprocity", "appropriate congressional committees", and "appropriate industry partners", referred to in text, see section 3352 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subsections (a) and (b)".</i>
 

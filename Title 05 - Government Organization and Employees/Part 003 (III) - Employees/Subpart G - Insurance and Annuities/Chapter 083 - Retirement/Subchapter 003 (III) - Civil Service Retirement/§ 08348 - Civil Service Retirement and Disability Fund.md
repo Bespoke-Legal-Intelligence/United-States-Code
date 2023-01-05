@@ -50,7 +50,7 @@
 
 (C) As of the close of the fiscal years ending September 30, 2015, 2025, 2035, and 2039, if the result is a surplus, that amount shall be transferred to the Postal Service Retiree Health Benefits Fund, and any prior amortization schedule for payments shall be terminated.
 
-(D) Amortization schedules established under this paragraph shall be set in accordance with generally accepted actuarial practices and principles, with interest computed at the rate usedin the most recent valuation of the Civil Service Retirement System.
+(D) Amortization schedules established under this paragraph shall be set in accordance with generally accepted actuarial practices and principles, with interest computed at the rate used in the most recent valuation of the Civil Service Retirement System.
 
 (E) The United States Postal Service shall pay the amounts so determined to the Office, with payments due not later than the date scheduled by the Office.
 
@@ -90,7 +90,7 @@
 
 (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (c) of this section, the Secretary shall immediately notify Congress of the determination. The notification shall be made in writing.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27,1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626; Pub. L. 109–435, title VIII, §802(a)(2), Dec. 20, 2006, 120 Stat. 3249; Pub. L. 116–126, §3(a), Mar. 18, 2020, 134 Stat. 176.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 584; Pub. L. 90–83, §1(85), Sept. 11, 1967, 81 Stat. 218; Pub. L. 91–93, title I, §103(a), Oct. 20, 1969, 83 Stat. 137; Pub. L. 93–349, §1, July 12, 1974, 88 Stat. 354; Pub. L. 94–183, §2(37), Dec. 31, 1975, 89 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title I, §1244, Sept. 27, 1979, 93 Stat. 474; Pub. L. 97–253, title III, §306(f), Sept. 8, 1982, 96 Stat. 797; Pub. L. 97–346, §3(g), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–216, §3(a)(5), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–615, §2(7), Nov. 8, 1984, 98 Stat. 3202; Pub. L. 99–335, title II, §207(j), June 6, 1986, 100 Stat. 597; Pub. L. 99–509, title VI, §6002, Oct. 21, 1986, 100 Stat. 1931; Pub. L. 100–203, title V, §5428(d), Dec. 22, 1987, 101 Stat. 1330–274; Pub. L. 101–239, title IV, §4002(a), Dec. 19, 1989, 103 Stat. 2133; Pub. L. 101–508, title VII, §§7001(a)(3), 7101(a), Nov. 5, 1990, 104 Stat. 1388–328, 1388–331; Pub. L. 101–510, div. C, title XXXV, §3506(c), Nov. 5, 1990, 104 Stat. 1847; Pub. L. 103–424, §10, Oct. 29, 1994, 108 Stat. 4366; Pub. L. 104–52, title IV, §2, Nov. 19, 1995, 109 Stat. 490; Pub. L. 104–316, title I, §103(h), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 105–362, title XIII, §1302(c), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 108–18, §2(c), (d)(1)(A), Apr. 23, 2003, 117 Stat. 625, 626; Pub. L. 109–435, title VIII, §802(a)(2), Dec. 20, 2006, 120 Stat. 3249; Pub. L. 116–126, §3(a), Mar. 18, 2020, 134 Stat. 176.)
 
 Historical and Revision Notes<br>1966
 
@@ -158,7 +158,7 @@ Section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 19
 
 #### Amendments
 
-<b>2020</b>—Subsec. (a)(1)(B). Pub. L. 116–126 inserted "in administering fraud prevention under sections 8345, 8345a, 8466, and 8466a of this title," after "8465(b) of this title,".
+<b>2020</b>—Subsec. (a)(1)(B). Pub. L. 116–126 inserted "in administering fraud prevention under sections 8345, 8345a,8466, and 8466a of this title," after "8465(b) of this title,".
 
 <b>2006</b>—Subsec. (h). Pub. L. 109–435 amended subsec. (h) generally. Prior to amendment, subsec. (h) related to postal supplemental liability.
 
@@ -186,7 +186,7 @@ Subsec. (m). Pub. L. 108–18, §2(d)(1)(A), struck out subsec. (m) which read a
 
 <b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–508, §7001(a)(3), inserted "in administering alternative forms of annuities under sections 8343a and 8420a (and related provisions of law)," before "and in withholding".
 
-Subsec. (i)(1). Pub. L. 101–510 substituted "1979, and the amendments made by section 3506 of the PanamaCanal Commission Authorization Act for Fiscal Year 1991" for "1979".
+Subsec. (i)(1). Pub. L. 101–510 substituted "1979, and the amendments made by section 3506 of the Panama Canal Commission Authorization Act for Fiscal Year 1991" for "1979".
 
 Subsec. (m)(1). Pub. L. 101–508, §7101(a), substituted "July 1, 1971" for "October 1, 1986" in two places.
 
@@ -310,7 +310,7 @@ Pub. L. 103–66, title XI, §11101(a), Aug. 10, 1993, 107 Stat. 413, required t
 
 Pub. L. 102–484, div. D, title XLIV, §4436(d), Oct. 23, 1992, 106 Stat. 2724, as amended by Pub. L. 103–337, div. A, title III, §341(b)(2), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 105–85, div. A, title XI, §1106(b)(2), Nov. 18, 1997, 111 Stat. 1924, provided that:
 
-"(1) In order to ensure the timely processing of applications for retirement benefits, under the Civil Service Retirement System or the Federal Employees' Retirement System, for civilian employees of the Department of Defense and other employees who retire when their agency is undergoing a major reorganization, a major reduction in force, or a major transfer of function, the costs incurred by the Office of Personnel Management in processing any such application shall be deemed to be an administrative expense described in section 8348(a)(1)(B) of title 5, United States Code.
+"(1) In order to ensure the timely processing of applications for retirement benefits, under the Civil Service Retirement System or the Federal Employees' Retirement System, for civilian employees of the Department of Defense and other employees who retire when their agency is undergoing a major reorganization, a majorreduction in force, or a major transfer of function, the costs incurred by the Office of Personnel Management in processing any such application shall be deemed to be an administrative expense described in section 8348(a)(1)(B) of title 5, United States Code.
 
 "(2) This subsection shall apply with respect to applications for retirement benefits based on separations occurring before January 1, 2002."
 

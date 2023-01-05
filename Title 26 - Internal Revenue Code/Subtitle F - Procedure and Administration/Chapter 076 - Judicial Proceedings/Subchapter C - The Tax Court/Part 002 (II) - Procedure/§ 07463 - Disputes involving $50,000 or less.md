@@ -20,11 +20,11 @@ A decision entered in any case in which the proceedings are conducted under this
 
 #### (c) Limitation of jurisdiction
 
-In any case in which the proceedings are conducted under this section, notwithstanding the provisions of sections 6214(a) and 6512(b), no decision shall be entered redetermining the amount of a deficiency, or determining an overpayment, except with respect to amounts placed in dispute within the limits described in subsection (a) and with respect to amounts conceded by the parties.
+In any case in which the proceedings are conducted under this section, notwithstanding the provisions of sections 6214(a) and 6512(b), no decision shall be entered redetermining theamount of a deficiency, or determining an overpayment, except with respect to amounts placed in dispute within the limits described in subsection (a) and with respect to amounts conceded by the parties.
 
 #### (d) Discontinuance of proceedings
 
-At any time before a decision entered in a case in which the proceedings are conducted under this section becomes final, the taxpayer or the Secretary may request that further proceedings under this section in such case be discontinued. The Tax Court, or the division thereof hearingsuch case, may, if it finds that (1) there are reasonable grounds for believing that the amount of the deficiency placed in dispute, or the amount of an overpayment, exceeds the applicable jurisdictional amount described in subsection (a), and (2) the amount of such excess is large enough to justify granting such request, discontinue further proceedings in such case under this section. Upon any such discontinuance, proceedings in such case shall be conducted in the same manner as cases to which the provisions of sections 6214(a) and 6512(b) apply.
+At any time before a decision entered in a case in which the proceedings are conducted under this section becomes final, the taxpayer or the Secretary may request that further proceedings under this section in such case be discontinued. The Tax Court, or the division thereof hearing such case, may, if it finds that (1) there are reasonable grounds for believing that the amount of the deficiency placed in dispute, or the amount of an overpayment, exceeds the applicable jurisdictional amount described in subsection (a), and (2) the amount of such excess is large enough to justify granting such request, discontinue further proceedings in such case under this section. Upon any such discontinuance, proceedings in such case shall be conducted in the same manner as cases to which the provisions of sections 6214(a) and 6512(b) apply.
 
 #### (e) Amount of deficiency in dispute
 
@@ -118,7 +118,7 @@ and (c).—The amendments made by subsection (b) \[amending this section\] and (
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–512, title II, §204, Oct. 20, 1972, 86 Stat. 945, as amended by Pub. L. 94–455, title XXI, §2116(a), Oct.4, 1976, 90 Stat. 1910; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 92–512, title II, §204, Oct. 20, 1972, 86 Stat. 945, as amended by Pub. L. 94–455, title XXI, §2116(a), Oct. 4, 1976, 90 Stat. 1910; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(a)
 

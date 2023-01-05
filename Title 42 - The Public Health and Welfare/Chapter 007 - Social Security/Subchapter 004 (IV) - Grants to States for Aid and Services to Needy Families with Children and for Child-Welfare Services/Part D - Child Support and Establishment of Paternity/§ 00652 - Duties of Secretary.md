@@ -10,7 +10,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;(3) review and approve State plans for such programs;
 
-&emsp;(4)(A) review data and calculations transmitted by State agencies pursuant to section654(15)(B) of this title on State program accomplishments with respect to performance indicators for purposes of subsection (g) of this section and section 658a of this title;
+&emsp;(4)(A) review data and calculations transmitted by State agencies pursuant to section 654(15)(B) of this title on State program accomplishments with respect to performance indicators for purposes of subsection (g) of this section and section 658a of this title;
 
 &emsp;(B) review annual reports submitted pursuant to section 654(15)(A) of this title and, as appropriate, provide to the State comments, recommendations for additional or alternative corrective actions, and technical assistance; and
 
@@ -32,7 +32,7 @@ The Secretary shall establish, within the Department of Health and Human Service
 
 &emsp;(7) provide technical assistance to the States to help them establish effective systems for collecting child and spousal support and establishing paternity, and specify the minimum requirements of an affidavit to be used for the voluntary acknowledgment of paternity which shall include the social security number of each parent and, after consultation with the States, other common elements as determined by such designee;
 
-&emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertaken to enforce the court order of the originating State against the noncustodial parent within a reasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
+&emsp;(8) receive applications from States for permission to utilize the courts of the United States to enforce court orders for support against noncustodial parents and, upon a finding that (A) another State has not undertaken to enforce the court order of the originating State against the noncustodial parent within areasonable time, and (B) that utilization of the Federal courts is the only reasonable method of enforcing such order, approve such applications;
 
 &emsp;(9) operate the Federal Parent Locator Service established by section 653 of this title;
 
@@ -116,7 +116,7 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 (2)(A) The Secretary shall through the separate organizational unit established pursuant to subsection (a), on a continuing basis, review, assess, and inspect the planning, design, and operation of, management information systems referred to in section 654(16) of this title, with a view to determining whether, and to what extent, such systems meet and continue to meet requirements imposed under paragraph (1) and the conditions specified under section 654(16) of this title.
 
-(B) If the Secretary finds with respect to any statewide management information system referred to in section 654(16) of this title that there is a failure substantially to comply with criteria, requirements, and other undertakings, prescribed by the advance automated data processing planning document theretofore approved by the Secretary with respect to such system, then the Secretary shall suspend his approval of such document until there is no longer any suchfailure of such system to comply with such criteria, requirements, and other undertakings so prescribed.
+(B) If the Secretary finds with respect to any statewide management information system referred to in section 654(16) of this title that there is a failure substantially to comply with criteria, requirements, and other undertakings, prescribed by the advance automated data processing planning document theretofore approved by the Secretary with respect to such system, then the Secretary shall suspend his approval of such document until there is no longer any such failure of such system to comply with such criteria, requirements, and other undertakings so prescribed.
 
 (3) The Secretary may waive any requirement of paragraph (1) or any condition specified under section 654(16) of this title, and shall waive the single statewide system requirement under sections 654(16) and 654a of this title, with respect to a State if—
 
@@ -150,7 +150,7 @@ The Secretary of the Treasury shall from time to time pay to each State for dist
 
 #### (e) Technical assistance to States
 
-The Secretary shall provide such technical assistance to States as he determines necessary to assist States to plan, design, develop, or install and provide for the security of, the management information systems referred to in section 654(16) of this title.
+The Secretary shall provide such technical assistance to States as he determines necessary toassist States to plan, design, develop, or install and provide for the security of, the management information systems referred to in section 654(16) of this title.
 
 #### (f) Regulations
 
@@ -172,7 +172,7 @@ The Secretary shall issue regulations to require that State agencies administeri
 
 &emsp;(F) for a State with a paternity establishment percentage of less than 40 percent for such fiscal year, the paternity establishment percentage of the State for the immediately preceding fiscal year plus 6 percentage points.
 
-> In determining compliance under this section, a State may use as its paternity establishmentpercentage either the State's IV–D paternity establishment percentage (as defined in paragraph (2)(A)) or the State's statewide paternity establishment percentage (as defined in paragraph (2)(B)).
+> In determining compliance under this section, a State may use as its paternity establishment percentage either the State's IV–D paternity establishment percentage (as defined in paragraph (2)(A)) or the State's statewide paternity establishment percentage (as defined in paragraph (2)(B)).
 
 (2) For purposes of this section—
 
@@ -280,7 +280,7 @@ The Secretary shall use the authorities otherwise provided by law to ensure the 
 
 &emsp;Nothing in this subsection shall be construed to require a change to existing data exchange standards found to be effective and efficient.
 
-(Aug. 14, 1935, ch. 531, title IV, §452, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2351; amended Pub. L. 95–30, title V, §504(a), May 23, 1977, 91 Stat. 163; Pub. L. 96–265, title IV, §§402(a), 405(c), (d), June 9, 1980, 94 Stat. 462, 464, 465; Pub. L. 96–272, title III, §301(b), June 17, 1980, 94 Stat. 527; Pub. L. 97–35, title XXIII, §2332(b), Aug. 13, 1981, 95 Stat. 861; Pub. L. 97–248, title I, §175(a)(1), Sept. 3, 1982, 96 Stat. 403; Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, 98 Stat. 1312, 1316, 1319, 1321; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9143(a), Dec. 22, 1987, 101 Stat. 1330–322; Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, 102 Stat. 2348, 2351–2353; Pub. L. 101–239, title X, §10403(a)(1)(B)(i), Dec. 19, 1989, 103 Stat. 2487; Pub. L. 103–66, title XIII, §13721(a), Aug. 10, 1993, 107 Stat. 658; Pub. L. 103–432, title II, §213, Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–35, §1(b), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(2)–(9), title III, §§301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, 110 Stat. 2165, 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug.5, 1997, 111 Stat. 619, 630, 637; Pub. L. 105–200, title I, §102(a), title II, §201(e)(1)(A), title IV, §§401(c)(2), 406(b), 407(b), July 16, 1998, 112 Stat. 647, 657, 662, 671, 672; Pub. L. 106–169, title IV, §401(f), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7303(a), 7304, 7306(a), 7307(a)(2)(A)(i), (b), (c), Feb. 8, 2006, 120 Stat. 145–147; Pub. L. 113–183, title III, §§301(a)(1), 304(a), Sept. 29, 2014, 128 Stat. 1943, 1947.)
+(Aug. 14, 1935, ch. 531, title IV, §452, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2351; amended Pub. L. 95–30, title V, §504(a), May 23, 1977, 91 Stat. 163; Pub. L. 96–265, title IV, §§402(a), 405(c), (d), June 9, 1980, 94 Stat. 462, 464, 465; Pub. L. 96–272, title III, §301(b), June 17, 1980, 94 Stat. 527; Pub. L. 97–35, title XXIII, §2332(b), Aug. 13, 1981, 95 Stat. 861; Pub. L. 97–248, title I, §175(a)(1), Sept. 3, 1982, 96 Stat. 403; Pub. L. 98–369, div. B, title VI, §2663(c)(12), (j)(2)(B)(viii), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§4(b), 9(a)(1), 13(a), (b), 16, Aug. 16, 1984, 98 Stat. 1312, 1316, 1319, 1321; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–203, title IX, §9143(a), Dec. 22, 1987, 101 Stat. 1330–322; Pub. L. 100–485, title I, §§111(a), 121(a), 122(a), 123(b), (d), Oct. 13, 1988, 102 Stat. 2348, 2351–2353; Pub. L. 101–239, title X, §10403(a)(1)(B)(i), Dec. 19, 1989, 103 Stat. 2487; Pub. L. 103–66, title XIII, §13721(a), Aug. 10, 1993, 107 Stat. 658; Pub. L. 103–432, title II, §213, Oct. 31, 1994, 108 Stat. 4461; Pub. L. 104–35, §1(b), Oct. 12, 1995, 109 Stat. 294; Pub. L. 104–193, title I, §108(c)(2)–(9), title III, §§301(c)(1), (2), 316(e)(1), 324(a), 331(b), 341(b), formerly 341(c), 342(b), 343(a), 345(a), 346(a), 370(a)(1), 395(d)(1)(B), Aug. 22, 1996, 110 Stat. 2165, 2200, 2215, 2223, 2230, 2232–2234, 2237, 2238, 2251, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5513(a)(1), (2), 5540, 5541(a), 5556(c), Aug. 5, 1997, 111 Stat. 619, 630, 637; Pub. L. 105–200, title I, §102(a), title II, §201(e)(1)(A), title IV, §§401(c)(2), 406(b), 407(b), July 16, 1998, 112 Stat. 647, 657, 662, 671, 672; Pub. L. 106–169, title IV, §401(f), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7303(a), 7304, 7306(a), 7307(a)(2)(A)(i), (b), (c), Feb. 8, 2006, 120 Stat. 145–147; Pub. L. 113–183, title III, §§301(a)(1), 304(a), Sept. 29, 2014, 128 Stat. 1943, 1947.)
 
 #### <b>Editorial Notes</b>
 
@@ -346,7 +346,7 @@ Subsec. (a)(8). Pub. L. 104–193, §395(d)(1)(B), substituted "noncustodial" fo
 
 Subsec. (a)(9). Pub. L. 104–193, §316(e)(1), inserted "Federal" before "Parent".
 
-Subsec. (a)(10). Pub. L. 104–193, §346(a)(5), struck out closing provisions which read as follows: "The information contained in any such report under subparagraph (A) shall specifically include (i) the total amount of child support payments collected as a result of services furnished during the fiscal year involved to individuals under section 654(6) of this title, (ii) the cost to the States and to the Federal Government of furnishing such services to those individuals, and (iii) the extent to which the furnishing of such services was successful in providing sufficient support to those individuals toassure that they did not require assistance under the State plan approved under part A of this subchapter."
+Subsec. (a)(10). Pub. L. 104–193, §346(a)(5), struck out closing provisions which read as follows: "The information contained in any such report under subparagraph (A) shall specifically include (i) the total amount of child support payments collected as a result of services furnished during the fiscal year involved to individuals under section 654(6) of this title, (ii) the cost to the States and to the Federal Government of furnishing such services to those individuals, and (iii) the extent to which the furnishing of such services was successful in providing sufficient support to those individuals to assure that they did not require assistance under the State plan approved under part A of this subchapter."
 
 Subsec. (a)(10)(A). Pub. L. 104–193, §346(a)(1)(A), substituted "this part, including—" for "this part;".
 
@@ -388,7 +388,7 @@ Subsec. (g)(1)(A). Pub. L. 104–193, §341(b)(1), formerly §341(c)(1), as rede
 
 Subsec. (g)(1)(B) to (F). Pub. L. 104–193, §341(b)(2)(A), formerly §341(c)(2)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
 
-Subsec. (g)(2). Pub. L. 104–193, §108(c)(8), as amended by Pub. L. 105–33, §5513(a)(2), in closing provisions, substituted "with respect to whom assistance is being provided under the State program funded under part A" for "who is a dependent child" and "found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title" for "found to have good cause for refusing to cooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so".
+Subsec. (g)(2). Pub. L. 104–193, §108(c)(8), as amended by Pub. L. 105–33, §5513(a)(2), in closing provisions, substituted "with respect to whom assistance is being provided under the State program funded under part A"for "who is a dependent child" and "found by the State to qualify for a good cause or other exception to cooperation pursuant to section 654(29) of this title" for "found to have good cause for refusing to cooperate under section 602(a)(26) of this title or any child with respect to whom the State agency administering the plan under part E of this subchapter determines (as provided in section 654(4)(B) of this title) that it is against the best interests of such child to do so".
 
 Subsec. (g)(2)(A). Pub. L. 104–193, §341(b)(3)(A), formerly §341(c)(3)(A), as redesignated by Pub. L. 105–200, §201(e)(1)(A), in introductory provisions, substituted " 'IV–D paternity establishment percentage' " for " 'paternity establishment percentage' " and struck out "(or all States, as the case may be)" after "with respect to a State", and, in closing provisions, struck out "and" at end.
 
@@ -462,7 +462,7 @@ Subsec. (i). Pub. L. 100–485, §122(a), added subsec. (i).
 
 "(1) There is hereby established in the Treasury a revolving fund which shall be available to the Secretary without fiscal year limitation, to enable him to pay to the States for distribution in accordance with the provisions of section 657 of this title such amounts as may be collected and paid (subject to paragraph (2)) into such fund under section 6305 of the Internal Revenue Code of 1986.
 
-"(2) There is hereby appropriated to the fund, out of any moneys in the Treasury not otherwise appropriated, amounts equal to the amounts collected under section 6305 the Internal Revenue Code of 1986, reduced by the amounts credited or refunded as overpayments of the amounts so collected. The amounts appropriated by the preceding sentence shall be transferred at least quarterly from the general fund of the Treasury to the fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred."
+"(2) There is hereby appropriated to the fund, out of any moneys in the Treasury not otherwise appropriated, amounts equal to the amounts collected under section 6305 the Internal Revenue Code of 1986, reducedby the amounts credited or refunded as overpayments of the amounts so collected. The amounts appropriated by the preceding sentence shall be transferred at least quarterly from the general fund of the Treasury to the fund on the basis of estimates made by the Secretary of the Treasury. Proper adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were in excess of or less than the amounts required to be transferred."
 
 <b>1986</b>—Subsecs. (b), (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" wherever appearing.
 
@@ -488,7 +488,7 @@ Subsec. (a)(7). Pub. L. 97–35, §2332(b)(1)(B), substituted "child and spousal
 
 Subsec. (a)(10)(C). Pub. L. 97–35, §2332(b)(1)(C), inserted "(with separate identification of the number in which collection of spousal support was involved)".
 
-Subsec. (b). Pub. L. 97–35, §2332(b)(2), inserted ", including any support obligation with respect to the parent who is living with the child and receiving aid under the State plan approved under part A of this subchapter," and provision that all reimbursements becredited to the appropriation accounts which bore all or part of the costs involved in making the collections and substituting "court or administrative order" for "court order" and "reimburse the Secretary of the Treasury" for "reimburse the United States".
+Subsec. (b). Pub. L. 97–35, §2332(b)(2), inserted ", including any support obligation with respect to the parent who is living with the child and receiving aid under the State plan approved under part A of this subchapter," and provision that all reimbursements be credited to the appropriation accounts which bore all or part of the costs involved in making the collections and substituting "court or administrative order" for "court order" and "reimburse the Secretary of the Treasury" for "reimburse the United States".
 
 <b>1980</b>—Subsec. (a)(10). Pub. L. 96–272 inserted provisions following subpar. (H) setting out certain required information to be contained in reports under subpar. (A).
 
@@ -522,7 +522,7 @@ Pub. L. 105–200, title IV, §401(c)(3), July 16, 1998, 112 Stat. 662, as amend
 
 > but in no event later than the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date specified in subparagraph (A). For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
 
-\[Pub. L. 105–306, §4(b)(2), Oct. 28, 1998, 112 Stat. 2927, provided that: "The amendment made by paragraph (1) of this subsection \[amending section 401(c)(3) of Pub. L. 105–200, set out above\] shall take effect as if included in the enactment of section 401(c)(3) of the Child Support Performance and Incentive Act of 1998 \[Pub. L. 105–200\]."\]
+\[Pub. L. 105–306, §4(b)(2), Oct. 28, 1998, 112 Stat. 2927, provided that: "The amendment made by paragraph (1) of this subsection \[amending section 401(c)(3) of Pub. L. 105–200, set out above\] shall take effect as if included inthe enactment of section 401(c)(3) of the Child Support Performance and Incentive Act of 1998 \[Pub. L. 105–200\]."\]
 
 Pub. L. 105–200, title IV, §407(c), July 16, 1998, 112 Stat. 672, provided that: "The amendments made by this section \[amending this section and section 669 of this title\] shall apply to information maintained with respect to fiscal year 1995 or any succeeding fiscal year."
 
@@ -592,7 +592,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise specifi
 
 Pub. L. 96–265, title IV, §402(b), June 9, 1980, 94 Stat. 462, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect July 1, 1980."
 
-Pub. L. 96–265, title IV, §405(e), June 9, 1980, 94 Stat. 465, provided that: "The amendments made by this section \[amending this section and sections 654 and 655 of this title\] shall take effect on July 1, 1981, and shall be effective only with respect to expenditures, referred to in section 455(a)(3) of the Social Security Act \[42 U.S.C. 655(a)(3)\] (as amended by this Act), made on or after such date."
+Pub. L. 96–265, title IV, §405(e), June 9, 1980, 94 Stat. 465, provided that: "The amendments made by this section \[amending this section and sections 654 and 655 of this title\] shall take effect on July 1, 1981, and shall be effective only with respect to expenditures, referred to in section 455(a)(3) of the Social Security Act \[42 U.S.C.655(a)(3)\] (as amended by this Act), made on or after such date."
 
 #### Effective Date of 1977 Amendment
 
@@ -618,7 +618,7 @@ Pub. L. 100–485, title I, §121(b), Oct. 13, 1988, 102 Stat. 2351, provided th
 
 #### Supplemental Report To Be Submitted to Congress Not Later Than June 30, 1977
 
-Pub. L. 95–30, title V, §504(c), May 23, 1977, 91 Stat. 164, directed the Secretary of Health, Education, andWelfare to submit to Congress, not later than June 30, 1977, a special supplementary report with respect to activities undertaken pursuant to part D of title IV of the Social Security Act (42 U.S.C. 651 et seq.).
+Pub. L. 95–30, title V, §504(c), May 23, 1977, 91 Stat. 164, directed the Secretary of Health, Education, and Welfare to submit to Congress, not later than June 30, 1977, a special supplementary report with respect to activities undertaken pursuant to part D of title IV of the Social Security Act (42 U.S.C. 651 et seq.).
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

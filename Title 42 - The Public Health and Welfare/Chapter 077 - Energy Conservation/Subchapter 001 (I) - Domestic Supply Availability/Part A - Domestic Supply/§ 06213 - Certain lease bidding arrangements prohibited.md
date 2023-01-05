@@ -10,7 +10,7 @@ As used in this section:
 
 &emsp;(1) The term "major oil company" means any person who, individually or together with any other person with respect to which such person has an affiliate relationship or significant ownership interest, produced during a prior 6–month period specified by the Secretary, an average daily volume of 1,600,000 barrels of crude oil, natural gas liquids equivalents, and natural gas equivalents.
 
-&emsp;(2) One barrel of natural gas equivalent equals 5,626 cubic feet of natural gas measuredat 14.73 pounds per square inch (MSL) and 60 degrees Fahrenheit.
+&emsp;(2) One barrel of natural gas equivalent equals 5,626 cubic feet of natural gas measured at 14.73 pounds per square inch (MSL) and 60 degrees Fahrenheit.
 
 &emsp;(3) One barrel of natural gas liquids equivalent equals 1.454 barrels of natural gas liquids at 60 degrees Fahrenheit.
 
@@ -48,5 +48,5 @@ The Secretary shall study and report to the Congress, not later than 6 months af
 
 #### Transfer of Functions
 
-Functions of Secretary of the Interior to promulgate regulations under this chapter relating to fostering of competition for Federal leases and to implementation of alternative bidding systems authorized for award of Federal leases transferred to Secretary of Energy by section 7152(b) of this title. Section 7152(b) of this title repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
+Functions of Secretary of the Interior to promulgate regulations under this chapter relating to fostering ofcompetition for Federal leases and to implementation of alternative bidding systems authorized for award of Federal leases transferred to Secretary of Energy by section 7152(b) of this title. Section 7152(b) of this title repealed by Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407, and functions of Secretary of Energy returned to Secretary of the Interior. See House Report No. 97–315, pp. 25, 26, Nov. 5, 1981.
 

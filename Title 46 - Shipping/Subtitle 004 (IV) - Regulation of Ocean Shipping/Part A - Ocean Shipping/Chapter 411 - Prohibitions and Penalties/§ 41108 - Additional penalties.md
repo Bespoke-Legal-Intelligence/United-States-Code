@@ -2,7 +2,7 @@
 
 (a)
 
-Suspension of Tariffs.—For a violation of section 41104(1), (2), or (7) <sup>1</sup> of this title, the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier's right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
+Suspension of Tariffs.—For a violation of paragraph (1), (2), or (7) of section 41104(a) of this title, the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier's right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
 
 (b)
 
@@ -32,7 +32,7 @@ Impairing Access to Foreign Trade.—If the Commission finds, after notice and o
 
 Submission of Order to President.—Before an order under this section becomes effective, it shall be submitted immediately to the President. The President, within 10 days after receiving it, may disapprove it if the President finds that disapproval is required for reasons of national defense or foreign policy.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1543.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1543; Pub. L. 117–146, §15(a), June 16, 2022, 136 Stat. 1279.)
 
 Historical and Revision Notes
 
@@ -76,9 +76,7 @@ In subsection (c)(1)(B), the words "Secretary of Homeland Security" are substitu
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Pars. (1), (2), and (7) of section 41104 of this title, referred to in subsec. (a), were redesignated as pars. (1), (2), and (7), respectively, of section 41104(a) of this title by Pub. L. 115–282, title VII, §708(a)(1), Dec. 4, 2018, 132 Stat. 4295.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<b>2022</b>—Subsec. (a). Pub. L. 117–146 substituted "paragraph (1), (2), or (7) of section 41104(a)" for "section 41104(1), (2), or (7)".
 

@@ -142,7 +142,7 @@ This subtitle, referred to in subsec. (c)(1)(A), is subtitle B (§§1101–1107)
 
 #### Definitions
 
-Pub. L. 111–11, title I, §1101, Mar. 30, 2009, 123 Stat. 1002, provided that: "In this subtitle \[subtitle B\(§§1101–1107) of title I of Pub. L. 111–11, enacting this section and section 546b–1 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\]:
+Pub. L. 111–11, title I, §1101, Mar. 30, 2009, 123 Stat. 1002, provided that: "In this subtitle \[subtitle B (§§1101–1107) of title I of Pub. L. 111–11, enacting this section and section 546b–1 of this title and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title\]:
 
 &emsp;"(1)
 

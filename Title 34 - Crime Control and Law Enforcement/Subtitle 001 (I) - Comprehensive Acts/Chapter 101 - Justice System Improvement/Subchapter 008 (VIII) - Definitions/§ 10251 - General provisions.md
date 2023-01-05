@@ -76,9 +76,35 @@ As used in this chapter—
 
 &emsp;(26) the term "Indian Tribe" has the meaning given the term "Indian tribe" in section 5304(e) of title 25;
 
-&emsp;(27) the term "private person" means any individual (including an individual acting in his official capacity) and any private partnership, corporation, association, organization, or entity (or any combination thereof); and
+&emsp;(27) the term "private person" means any individual (including an individual acting in his official capacity) and any private partnership, corporation, association, organization, or entity (or any combination thereof);
 
-&emsp;(28) the term "hearing examiner" includes any medical or claims examiner.
+&emsp;(28) the term "hearing examiner" includes any medical or claims examiner;
+
+&emsp;(29) the term "de-escalation" means taking action or communicating verbally or non-verbally during a potential force encounter in an attempt to stabilize the situation and reduce the immediacy of the threat so that more time, options, and resources can be called upon to resolve the situation without the use of force or with a reduction in the force necessary;
+
+&emsp;(30) the term "mental or behavioral health or suicidal crisis"—
+
+&emsp;&emsp;(A) means a situation in which the behavior of a person—
+
+&emsp;&emsp;&emsp;(i) puts the person at risk of hurting himself or herself or others; or
+
+&emsp;&emsp;&emsp;(ii) impairs or prevents the person from being able to care for himself or herself or function effectively in the community; and
+
+&emsp;&emsp;(B) includes a situation in which a person—
+
+&emsp;&emsp;&emsp;(i) is under the influence of a drug or alcohol, is suicidal, or experiences symptoms of a mental illness; or
+
+&emsp;&emsp;&emsp;(ii) may exhibit symptoms, including emotional reactions (such as fear or anger), psychological impairments (such as inability to focus, confusion, or psychosis), and behavioral reactions (such as the trigger of a freeze, fight, or flight response);
+
+&emsp;(31) the term "disability" has the meaning given that term in section 12102 of title 42;
+
+&emsp;(32) the term "crisis intervention team" means a collaborative, interdisciplinary team that brings together specially trained law enforcement officers, mental health providers, and other community stakeholders to respond to mental health-related calls, use appropriate de-escalation techniques, and assess if referral to services or transport for mental health evaluation is appropriate; and
+
+&emsp;(33) the term "covered mental health professional" means a mental health professional working on a crisis intervention team—
+
+&emsp;&emsp;(A) as an employee of a law enforcement agency; or
+
+&emsp;&emsp;(B) under a legal agreement with a law enforcement agency.
 
 #### (b) Data basis for definitions; reflection of technical changes or modifications
 
@@ -88,7 +114,7 @@ Where appropriate, the definitions in subsection (a) shall be based, with respec
 
 One or more public agencies, including existing local public agencies, may be designated by the chief executive officer of a State or a unit of local government to undertake a program or project in whole or in part.
 
-(Pub. L. 90–351, title I, §901, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, §609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, §7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, §6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, §206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, §1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, §20201(c), title III, §32101(c), title XXXIII, §330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, §102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, §101(b) \[title I, §129(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 109–162, title XI, §§1111(c)(2)(F), 1156, Jan. 5, 2006, 119 Stat. 3102, 3114; Pub. L. 112–239, div. A, title X, §1086(b)(1)(A), Jan. 2, 2013, 126 Stat. 1964.)
+(Pub. L. 90–351, title I, §901, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1216; amended Pub. L. 98–473, title II, §609C, Oct. 12, 1984, 98 Stat. 2096; Pub. L. 99–396, §7, Aug. 27, 1986, 100 Stat. 839; Pub. L. 100–690, title VI, §6092(b), Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–219, title II, §206, Dec. 12, 1989, 103 Stat. 1874; Pub. L. 101–647, title XVIII, §1801(c), Nov. 29, 1990, 104 Stat. 4849; Pub. L. 103–322, title II, §20201(c), title III, §32101(c), title XXXIII, §330001(d), (h)(13), Sept. 13, 1994, 108 Stat. 1822, 1900, 2138, 2140; Pub. L. 105–244, title I, §102(a)(13)(D), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 105–277, div. A, §101(b) \[title I, §129(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 109–162, title XI, §§1111(c)(2)(F), 1156, Jan. 5, 2006, 119 Stat. 3102, 3114; Pub. L. 112–239, div. A, title X, §1086(b)(1)(A), Jan. 2, 2013, 126 Stat. 1964; Pub. L. 117–325, §2(a), Dec. 27, 2022, 136 Stat. 4441.)
 
 #### <b>Editorial Notes</b>
 
@@ -99,6 +125,8 @@ Section was formerly classified to section 3791 of Title 42, The Public Health a
 Another section 901 of Pub. L. 90–351, title IV, June 19, 1968, 82 Stat. 225, is classified as a note under section 921 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(29) to (33). Pub. L. 117–325 added pars. (29) to (33).
 
 <b>2013</b>—Subsec. (a)(28). Pub. L. 112–239 added par. (28).
 

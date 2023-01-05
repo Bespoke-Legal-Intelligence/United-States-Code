@@ -38,7 +38,7 @@ The Attorney General may obtain the assistance of other Federal agencies in carr
 
 #### (C) Subchapter III
 
-&emsp;&emsp;The Attorney General, in coordination with the Secretary of Transportation andthe Chair of the Architectural Transportation Barriers Compliance Board, shall implement such plan for assistance for subchapter III, except for section 12184 of this title, the plan for assistance for which shall be implemented by the Secretary of Transportation.
+&emsp;&emsp;The Attorney General, in coordination with the Secretary of Transportation and the Chair of the Architectural Transportation Barriers Compliance Board, shall implement such plan for assistance for subchapter III, except for section 12184 of this title, the plan for assistance for which shall be implemented by the Secretary of Transportation.
 
 #### (D) Title IV
 

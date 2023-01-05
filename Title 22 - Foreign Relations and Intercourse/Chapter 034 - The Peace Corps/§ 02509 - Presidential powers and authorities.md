@@ -8,7 +8,7 @@ In furtherance of the purposes of this chapter, the President may—
 
 &emsp;(2) assign volunteers in special cases to temporary duty with international organizations and agencies when the Secretary of State determines that such assignment would serve the purposes of this chapter;
 
-&emsp;(3) assign volunteers to duty or otherwise make them available to any entity referred to in paragraph (1), in order to assist such organizations and agencies in providing developmentor other relief assistance to displaced persons and refugees in any country, if the government of the country agrees to such assignment;
+&emsp;(3) assign volunteers to duty or otherwise make them available to any entity referred to in paragraph (1), in order to assist such organizations and agencies in providing development or other relief assistance to displaced personsand refugees in any country, if the government of the country agrees to such assignment;
 
 &emsp;(4) accept in the name of the Peace Corps and employ or transfer in furtherance of the purposes of this chapter (A) voluntary services notwithstanding the provisions of section 1342 of title 31, and (B) any money or property (real, personal or mixed, tangible or intangible) received by gift, devise, bequest, or otherwise; and
 
@@ -68,11 +68,11 @@ The provisions of section 2702 of this title shall apply to volunteers and perso
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The Foreign Service Act of 1980, referred to in subsec. (a)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
+The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
 #### Codification
 

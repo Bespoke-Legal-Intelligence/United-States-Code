@@ -28,7 +28,7 @@ Fees.—
 
 &emsp;"(1)
 
-Imposition and collection.—Under the pilot program, the Secretary of Agriculture shall charge and collect from a person who harvests forest botanical products on National Forest System lands a fee in an amount established by the Secretary to recover at least a portion of the fair market value of the harvested forest botanical products and a portion of the costs incurred by the Department of Agriculture associated with granting, modifying, or monitoring the authorization for harvest of the forest botanical products, including the costs of any environmental or other analysis.
+Imposition and collection.—Under the pilot program, the Secretary of Agriculture shall charge and collect from a person who harvests forest botanical products on National Forest System lands a feein an amount established by the Secretary to recover at least a portion of the fair market value of the harvested forest botanical products and a portion of the costs incurred by the Department of Agriculture associated with granting, modifying, or monitoring the authorization for harvest of the forest botanical products, including the costs of any environmental or other analysis.
 
 &emsp;"(2)
 
@@ -108,9 +108,15 @@ Collection of fees.—The Secretary of Agriculture may collect fees under the au
 
 Use of special account.—The Secretary may make expenditures from the special account under subsection (f) until September 30 of the fiscal year following the last fiscal year specified in paragraph (1). After that date, amounts remaining in the special account shall be transferred to the general fund of the Treasury."
 
-\[Pub. L. 116–260, div. G, title IV, §429, Dec. 27, 2020, 134 Stat. 1542, provided that: "Section 339 of the Department of the Interior and Related Agencies Appropriations Act, 2000 (as enacted into law by Public Law 106–113; 16 U.S.C. 528 note), as amended by section 335(6) of Public Law 108–108 and section 432 of Public Law 113–76 \[set out above\], shall be applied by substituting 'fiscal year 2021' for 'fiscal year 2019'."\]
+\[Pub. L. 117–328, div. G, title IV, §427, Dec. 29, 2022, 136 Stat. 4827, provided that: "Section 339 of the Department of the Interior and Related Agencies Appropriations Act, 2000 (as enacted into law by Public Law 106–113; 16 U.S.C. 528 note), as amended by section 335(6) of Public Law 108–108 and section 432 of Public Law 113–76 \[set out above\], shall be applied by substituting 'fiscal year 2023' for 'fiscal year 2019'."\]
 
-\[Pub. L. 116–94, div. D, title IV, §432, Dec. 20, 2019, 133 Stat. 2749, provided that: "Section 339 of the Department of the Interior and Related Agencies Appropriations Act, 2000 (as enacted into law by Public Law 106–113; 16 U.S.C. 528 note), as amended by section 335(6) of Public Law 108–108 and section 432 of Public Law 113–76 \[set out above\], shall be applied by substituting 'fiscal year 2020' for 'fiscal year 2019'."\]
+\[Similar provisions were contained in the following prior appropriation acts:
+
+\[Pub. L. 117–103, div. G, title IV, §427, Mar. 15, 2022, 136 Stat. 416.\]
+
+\[Pub. L. 116–260, div. G, title IV, §429, Dec. 27, 2020, 134 Stat. 1542.\]
+
+\[Pub. L. 116–94, div. D, title IV, §432, Dec. 20, 2019, 133 Stat. 2749.\]
 
 \[Pub. L. 108–108, §335(3), which directed amendment of section 1000(a)(3) \[title III, §339(d)(1)\] of Pub. L. 106–113, set out above, was executed to section 1000(a)(3) \[title III, §339(e)(1)\] of Pub. L. 106–113 to reflect the probable intent of Congress.\]
 

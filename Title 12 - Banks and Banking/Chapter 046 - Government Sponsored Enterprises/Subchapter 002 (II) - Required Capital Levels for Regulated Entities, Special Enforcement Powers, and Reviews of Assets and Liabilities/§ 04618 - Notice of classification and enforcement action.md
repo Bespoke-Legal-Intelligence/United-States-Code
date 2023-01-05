@@ -28,7 +28,7 @@ The requirements of subsection (a) shall apply to the following actions:
 
 #### (3) Shortened period
 
-&emsp;The Director may shorten the period under paragraph (1) if the Director determines thatthe condition of the regulated entity so requires or the regulated entity consents.
+&emsp;The Director may shorten the period under paragraph (1) if the Director determines that the condition of the regulated entity so requires or the regulated entity consents.
 
 #### (4) Failure to respond
 

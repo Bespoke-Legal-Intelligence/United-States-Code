@@ -18,7 +18,7 @@ Whenever the Secretary utilizes a formula to allot or allocate funds made availa
 
 #### (e) Availability of funds
 
-Funds shall be made available under section 3163 of this title, and funds shall be made available under section 3173 of this title, for a local area not later than 30 days after the date the funds are made available to the Governor involved, under section 3162 or 3172 of this title (as the case may be), or 7 days after the date thelocal plan for the area is approved, whichever is later.
+Funds shall be made available under section 3163 of this title, and funds shall be made available under section 3173 of this title, for a local area not later than 30 days after the date the funds are made available to the Governor involved, under section 3162 or 3172 of this title (as the case may be), or 7 days after the date the local plan for the area is approved, whichever is later.
 
 (Pub. L. 113–128, title I, §182, July 22, 2014, 128 Stat. 1589.)
 
@@ -26,5 +26,5 @@ Funds shall be made available under section 3163 of this title, and funds shall 
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

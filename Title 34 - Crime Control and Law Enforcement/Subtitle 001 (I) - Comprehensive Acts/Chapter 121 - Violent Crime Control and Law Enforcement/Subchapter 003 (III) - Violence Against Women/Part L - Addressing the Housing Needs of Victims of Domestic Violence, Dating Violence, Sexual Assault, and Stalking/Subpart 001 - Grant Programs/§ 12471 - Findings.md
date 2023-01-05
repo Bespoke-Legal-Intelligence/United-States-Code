@@ -8,7 +8,7 @@ Congress finds that:
 
 &emsp;(3) Women and families across the country are being discriminated against, denied access to, and even evicted from public and subsidized housing because of their status as victims of domestic violence.
 
-&emsp;(4) A recent survey of legal service providers around the country found that these providers have responded to almost 150 documented eviction cases in the last year alone where the tenant was evicted because of the domestic violence crimes committed against her. In addition, nearly 100 clients were denied housingbecause of their status as victims of domestic violence.
+&emsp;(4) A recent survey of legal service providers around the country found that these providers have responded to almost 150 documented eviction cases in the last year alone where the tenant was evicted because of the domestic violence crimes committed against her. In addition, nearly 100 clients were denied housing because of their status as victims of domestic violence.
 
 &emsp;(5) Women who leave their abusers frequently lack adequate emergency shelter options. The lack of adequate emergency options for victims presents a serious threat to their safety and the safety of their children. Requests for emergency shelter by homeless women with children increased by 78 percent of United States cities surveyed in 2004. In the same year, 32 percent of the requests for shelter by homeless families went unmet due to the lack of available emergency shelter beds.
 

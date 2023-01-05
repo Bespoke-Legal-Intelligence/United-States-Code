@@ -42,7 +42,7 @@ Rulemaking.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than 1 year after the first day on which a waiver underthis subsection or a suspension under subpart E of part 211 of title 49, Code of Federal Regulations, or successor regulations, has been in continuous effect for a 6-year period, the Secretary shall complete a review and analysis of such waiver or suspension to determine whether issuing a rule that is consistent with the waiver is—
+In general.—Not later than 1 year after the first day on which a waiver under this subsection or a suspension under subpart E of part 211 of title 49, Code of Federal Regulations, or successor regulations, has been in continuous effect for a 6-year period, the Secretary shall complete a review and analysis of such waiver or suspension to determine whether issuing a rule that is consistent with the waiver is—
 
 &emsp;&emsp;&emsp;(i) in the public interest; and
 

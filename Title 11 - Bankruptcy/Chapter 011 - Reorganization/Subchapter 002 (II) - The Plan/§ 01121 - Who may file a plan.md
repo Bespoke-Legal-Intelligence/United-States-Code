@@ -12,7 +12,7 @@
 
 &emsp;(3) the debtor has not filed a plan that has been accepted, before 180 days after the date of the order for relief under this chapter, by each class of claims or interests that is impaired under the plan.
 
-(d)(1) Subject to paragraph (2), on request of a party in interest made within the respective periods specified in subsections (b) and (c) of this section and after notice and a hearing, the courtmay for cause reduce or increase the 120-day period or the 180-day period referred to in this section.
+(d)(1) Subject to paragraph (2), on request of a party in interest made within the respective periods specified in subsections (b) and (c) of this section and after notice and a hearing, the court may for cause reduce or increase the 120-day period or the 180-day period referred to in this section.
 
 (2)(A) The 120-day period specified in paragraph (1) may not be extended beyond a date that is 18 months after the date of the order for relief under this chapter.
 

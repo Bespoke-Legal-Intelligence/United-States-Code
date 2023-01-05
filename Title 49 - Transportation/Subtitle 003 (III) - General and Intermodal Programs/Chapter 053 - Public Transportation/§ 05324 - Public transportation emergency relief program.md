@@ -126,7 +126,7 @@ July 9, 1964, Pub. L. 88–365, §14(a) (last sentence)–(c), 78 Stat. 308; Sep
 
 July 9, 1964, Pub. L. 88–365, §12(d), 78 Stat. 307; Aug. 10, 1965, Pub. L. 89–117, §1109, 79 Stat. 507; Sept. 8, 1966, Pub. L. 89–562, §2(a)(1), 80 Stat. 715; May 25, 1967, Pub. L. 90–19, §20(a), 81 Stat. 25; Nov. 6, 1978, Pub. L. 95–599, §308(c), 92 Stat. 2747.
 
-In subsection (a), before clause (1), the word "provided" is substituted for "extended" for clarity. The words "to any project" are omitted as surplus. In clause (2), the words "available . . . displaced" are omitted as surplus.
+In subsection (a), before clause (1), the word "provided" is substituted for "extended" for clarity. Thewords "to any project" are omitted as surplus. In clause (2), the words "available . . . displaced" are omitted as surplus.
 
 In subsection (b)(1), the words "Health and Human Services" are substituted for "Health, Education, and Welfare" in section 14(a) (last sentence) of the Urban Mass Transportation Act of 1964 (Public Law 88–365, 78 Stat. 308) \[subsequently changed to the Federal Transit Act by section 3003(a) of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240, 105 Stat. 2087)\] because of 20:3508(b).
 

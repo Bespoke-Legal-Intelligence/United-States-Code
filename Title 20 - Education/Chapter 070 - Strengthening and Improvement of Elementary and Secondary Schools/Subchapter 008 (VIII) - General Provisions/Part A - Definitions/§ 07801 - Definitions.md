@@ -34,7 +34,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;(A) without regard to the source of funds—
 
-&emsp;&emsp;&emsp;(i) the aggregate current expenditures, during the third fiscal year preceding thefiscal year for which the determination is made (or, if satisfactory data for that year are not available, during the most recent preceding fiscal year for which satisfactory data are available) of all local educational agencies in the State or, in the case of the United States, for all States (which, for the purpose of this paragraph, means the 50 States and the District of Columbia); plus
+&emsp;&emsp;&emsp;(i) the aggregate current expenditures, during the third fiscal year preceding the fiscal year for which the determination is made (or, if satisfactory data for that year are not available, during the most recent preceding fiscal year for which satisfactory data are available) of all local educational agencies in the State or, in the case of the United States, for all States (which, for the purpose of this paragraph, means the 50 States and the District of Columbia); plus
 
 &emsp;&emsp;&emsp;(ii) any direct current expenditures by the State for the operation of those agencies; divided by
 
@@ -134,7 +134,7 @@ Except as otherwise provided, in this chapter:
 
 #### (19) Elementary school
 
-&emsp;The term "elementary school" means a nonprofit institutional day or residential school,including a public elementary charter school, that provides elementary education, as determined under State law.
+&emsp;The term "elementary school" means a nonprofit institutional day or residential school, including a public elementary charter school, that provides elementary education, as determined under State law.
 
 #### (20) English learner
 
@@ -290,7 +290,7 @@ Except as otherwise provided, in this chapter:
 
 #### (B) Cohort removal
 
-&emsp;&emsp;To remove a student from a cohort, a school or local educational agency shall require documentation, or obtain documentation from the State educational agency, to confirm that the student has transferredout, emigrated to another country, or transferred to a prison or juvenile facility, or is deceased.
+&emsp;&emsp;To remove a student from a cohort, a school or local educational agency shall require documentation, or obtain documentation from the State educational agency, to confirm that the student has transferred out, emigrated to another country, or transferred to a prison or juvenile facility, or is deceased.
 
 #### (C) Transferred out
 
@@ -300,7 +300,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(I) another school from which the student is expected to receive a regular high school diploma; or
 
-&emsp;&emsp;&emsp;&emsp;(II) another educational program from which the student is expected to receive a regular high school diploma or an alternate diploma that meets the requirements of subparagraph (A)(ii)(I)(bb).
+&emsp;&emsp;&emsp;&emsp;(II) another educational program from which the student is expected to receivea regular high school diploma or an alternate diploma that meets the requirements of subparagraph (A)(ii)(I)(bb).
 
 #### (ii) Confirmation requirements
 
@@ -446,7 +446,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;The term "professional development" means activities that—
 
-&emsp;&emsp;(A) are an integral part of school and local educational agency strategies for providingeducators (including teachers, principals, other school leaders, specialized instructional support personnel, paraprofessionals, and, as applicable, early childhood educators) with the knowledge and skills necessary to enable students to succeed in a well-rounded education and to meet the challenging State academic standards; and
+&emsp;&emsp;(A) are an integral part of school and local educational agency strategies for providing educators (including teachers, principals, other school leaders, specialized instructional support personnel, paraprofessionals, and, as applicable, early childhood educators) with the knowledge and skills necessary to enable students to succeed in a well-rounded education and to meet the challenging State academic standards; and
 
 &emsp;&emsp;(B) are sustained (not stand-alone, 1-day, or short term workshops), intensive, collaborative, job-embedded, data-driven, and classroom-focused, and may include activities that—
 
@@ -514,7 +514,7 @@ Except as otherwise provided, in this chapter:
 
 #### (45) Secondary school
 
-&emsp;The term "secondary school" means a nonprofit institutional day or residential school, including a public secondary charter school, that provides secondary education, as determined under State law, except that the term does not include any education beyond grade 12.
+&emsp;The term "secondary school" means a nonprofit institutional day or residential school, including a public secondary charter school,that provides secondary education, as determined under State law, except that the term does not include any education beyond grade 12.
 
 #### (46) Secretary
 

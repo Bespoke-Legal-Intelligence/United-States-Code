@@ -24,7 +24,7 @@ Each study shall particularly examine the effects of such privatization on—
 
 #### (c) Information
 
-The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall provide full and prompt access to the Comptroller General, the Secretary of Housing and Urban Development, the Secretary of the Treasury, and the Director of the Congressional Budget Office to any books, records, and other information requested for the purposes of conducting the studies under this section.
+The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall provide full and prompt access to theComptroller General, the Secretary of Housing and Urban Development, the Secretary of the Treasury, and the Director of the Congressional Budget Office to any books, records, and other information requested for the purposes of conducting the studies under this section.
 
 #### (d) Views of FNMA and FHLMC
 

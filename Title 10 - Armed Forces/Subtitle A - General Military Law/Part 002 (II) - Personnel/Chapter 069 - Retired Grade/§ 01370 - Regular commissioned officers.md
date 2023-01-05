@@ -6,7 +6,7 @@ Retirement in Highest Grade in Which Served Satisfactorily.—
 
 &emsp;(1)
 
-In general.—Unless entitled to a different retired grade under some other provision of law, a commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, Marine Corps, or Space Forcewho retires under any provision of law other than chapter 61 or 1223 of this title shall be retired in the highest permanent grade in which such officer is determined to have served on active duty satisfactorily.
+In general.—Unless entitled to a different retired grade under some other provision of law, a commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, Marine Corps, or Space Force who retires under any provision of law other than chapter 61 or 1223 of this title shall be retired in the highest permanent grade in which such officer is determined to have served on active duty satisfactorily.
 
 &emsp;(2)
 
@@ -68,7 +68,7 @@ Grade and fiscal year limitations on reduction or waiver of requirements.—The 
 
 &emsp;(6)
 
-Notice to congress on reduction or waiver of requirements for general, flag,and equivalent officer grades.—In the case of an officer to be retired in a grade that is a general or flag officer grade, or an equivalent grade in the Space Force, who is eligible to retire in that grade only by reason of an exercise of the authority in paragraph (1) to reduce the service-in-grade requirement in that paragraph, or the authority in paragraph (3) to waive that requirement, the Secretary of Defense or the President, as applicable, shall, not later than 60 days prior to the date on which the officer will be retired in that grade, notify the Committees on Armed Services of the Senate and the House of Representatives of the exercise of the applicable authority with respect to that officer.
+Notice to congress on reduction or waiver of requirements for general, flag, and equivalent officer grades.—In the case of an officer to be retired in a grade that is a general or flag officer grade, or an equivalent grade in the Space Force, who is eligible to retire in that grade only by reason of an exercise of the authority in paragraph (1) to reduce the service-in-grade requirement in that paragraph, or the authority in paragraph (3) to waive that requirement, the Secretary of Defense or the President, as applicable, shall, not later than 60 days prior to the date on which the officer will be retired in that grade, notify the Committees on Armed Services of the Senate and the House of Representatives of the exercise of the applicable authority with respect to that officer.
 
 &emsp;(7)
 
@@ -78,7 +78,7 @@ Retirement in next lowest grade for officers not meeting requirement.—An offic
 
 Officers in O–9
 
-and O–10
+and O–⁠10
 
 Grades.—
 

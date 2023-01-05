@@ -36,7 +36,7 @@
 
 #### (1) Establishment
 
-&emsp;There shall be identified within the Bureau of Democracy, Human Rights, and Labor of the Department at least one office that shall be responsible for working with democratic movements and facilitating the transition to full democracy of nondemocratic countries and democratic transition countries.
+&emsp;There shall be identified within the Bureau of Democracy, Human Rights, and Labor of the Department at least one office that shall be responsible for working with democratic movements and facilitating the transition tofull democracy of nondemocratic countries and democratic transition countries.
 
 #### (2) Responsibilities
 

@@ -12,7 +12,7 @@ This section may be cited as the "Atomic Testing Liability Act".
 
 #### (2) Exclusivity
 
-&emsp;The remedies referred to in paragraph (1) shall be exclusive of any other civil action or proceeding for the purpose of determining civil liability arising from any act or omission of the contractor without regard to when the act or omission occurred. The employees of a contractor referred to in paragraph (1) shall be considered to be employees of the FederalGovernment, as provided in section 2671 of title 28, for the purposes of any such civil action or proceeding; and the civil action or proceeding shall proceed in the same manner as any action against the United States filed pursuant to section 1346(b) of such title and shall be subject to the limitations and exceptions applicable to those actions.
+&emsp;The remedies referred to in paragraph (1) shall be exclusive of any other civil action or proceeding for the purpose of determining civil liability arising from any act or omission of the contractor without regard to when the act or omission occurred. The employees of a contractor referred to in paragraph (1) shall be considered to be employees of the Federal Government, as provided in section 2671 of title 28, for the purposes of any such civil action or proceeding; and the civil action or proceeding shall proceed in the same manner as any action against the United States filed pursuant to section 1346(b) of such title and shall be subject to the limitations and exceptions applicable to those actions.
 
 #### (c) Procedure
 
@@ -36,7 +36,7 @@ Section was formerly classified to section 2212 of Title 42, The Public Health a
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(1). Pub. L. 113–66 substituted "or by chapter 309 or 311 of title 46" for "by the Act of March 9, 1920 (46 U.S.C. App. 741–752), or by the Act of March 3, 1925 (46 U.S.C. App. 781–790)".
+<b>2013</b>—Subsec. (b)(1). Pub. L. 113–66 substituted "or by chapter 309 or 311 of title 46" for "by the Act of March9, 1920 (46 U.S.C. App. 741–752), or by the Act of March 3, 1925 (46 U.S.C. App. 781–790)".
 
 <b>2003</b>—Pub. L. 108–136, §3141(k)(4)(D)(i), made technical amendment to section catchline.
 

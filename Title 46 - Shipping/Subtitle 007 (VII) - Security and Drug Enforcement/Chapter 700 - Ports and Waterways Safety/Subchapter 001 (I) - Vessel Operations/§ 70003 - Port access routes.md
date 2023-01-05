@@ -40,7 +40,7 @@ Study.—In carrying out the Secretary's responsibilities under subsection (c), 
 
 &emsp;&emsp;(A) issue a notice of proposed rulemaking for the designation contemplated; or
 
-&emsp;&emsp;(B) publish in the Federal Register a notice that no designation is contemplated asa result of the study and the reason for such determination.
+&emsp;&emsp;(B) publish in the Federal Register a notice that no designation is contemplated as a result of the study and the reason for such determination.
 
 (e)
 

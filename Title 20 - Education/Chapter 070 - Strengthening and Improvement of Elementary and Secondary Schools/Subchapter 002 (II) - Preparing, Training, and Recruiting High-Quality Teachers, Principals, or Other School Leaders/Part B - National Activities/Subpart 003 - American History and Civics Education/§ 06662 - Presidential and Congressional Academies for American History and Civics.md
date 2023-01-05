@@ -98,7 +98,7 @@ Grants awarded to eligible entities under subsection (a) shall be for a term of 
 
 #### Prior Provisions
 
-A prior section 6662, Pub. L. 89–10, title II, §2202, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115Stat. 1644, related to grants for mathematics and science partnerships, prior to repeal by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+A prior section 6662, Pub. L. 89–10, title II, §2202, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1644, related to grants for mathematics and science partnerships, prior to repeal by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 A prior section 2202 of Pub. L. 89–10 was classified to section 6642 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
@@ -124,7 +124,7 @@ Pub. L. 108–474, Dec. 21, 2004, 118 Stat. 3898, as amended by Pub. L. 114–95
 
 Establishment.—The Secretary of Education (referred to in this Act as the 'Secretary') may award not more than 12 grants, on a competitive basis—
 
-&emsp;"(1) to entities to establish Presidential Academies for Teaching of American History and Civics that may offer workshops for both veteran and new teachers of American history and civics; and
+&emsp;"(1) to entities to establish Presidential Academies for Teaching of American History and Civics thatmay offer workshops for both veteran and new teachers of American history and civics; and
 
 &emsp;"(2) to entities to establish Congressional Academies for Students of American History and Civics.
 

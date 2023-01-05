@@ -92,7 +92,7 @@ General Provisions
 
 1–501. Executive Order No. 11764 is revoked. The present regulations of the Attorney General relating to the coordination of enforcement of Title VI of the Civil Rights Act of 1964 \[this subchapter\] shall continue in effect until revoked or modified (28 CFR 42.401 to 42.415).
 
-1–502. Executive Order No. 11914 is revoked. The present regulations of the Secretary of Health and Human Services relating to the coordination of the implementation of Section 504 of the Rehabilitation Act of 1973, as amended \[29 U.S.C. 794\], shall be deemed to have been issued by the Attorney General pursuant to this Order and shall continue in effect until revoked or modified by the Attorney General.
+1–502. Executive Order No. 11914 is revoked. The present regulations of the Secretary of Health and Human Services relating to the coordination of the implementation of Section 504 of the Rehabilitation Act of 1973, as amended \[29 U.S.C. 794\], shall be deemed tohave been issued by the Attorney General pursuant to this Order and shall continue in effect until revoked or modified by the Attorney General.
 
 1–503. Nothing in this Order shall vest the Attorney General with the authority to coordinate the implementation and enforcement by Executive agencies of statutory provisions relating to equal employment.
 
@@ -112,7 +112,7 @@ The Federal Government provides and funds an array of services that can be made 
 
 Sec. 2. <i>Federally Conducted Programs and Activities.</i>
 
-Each Federal agency shall prepare a plan to improve access to its federally conducted programs and activities by eligible LEP persons. Each plan shall be consistent with the standards set forth in the LEP Guidance, and shall include the steps the agency will taketo ensure that eligible LEP persons can meaningfully access the agency's programs and activities. Agencies shall develop and begin to implement these plans within 120 days of the date of this order, and shall send copies of their plans to the Department of Justice, which shall serve as the central repository of the agencies' plans.
+Each Federal agency shall prepare a plan to improve access to its federally conducted programs and activities by eligible LEP persons. Each plan shall be consistent with the standards set forth in the LEP Guidance, and shall include the steps the agency will take to ensure that eligible LEP persons can meaningfully access the agency's programs and activities. Agencies shall develop and begin to implement these plans within 120 days of the date of this order, and shall send copies of their plans to the Department of Justice, which shall serve as the central repository of the agencies' plans.
 
 Sec. 3. <i>Federally Assisted Programs and Activities.</i>
 

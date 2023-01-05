@@ -108,9 +108,9 @@ The Administrative Supervisor, in consultation with the Issuer, shall establish 
 
 &emsp;&emsp;&emsp;(ii) not less than one Pool for all other Bonds issued by the Issuer for which a dedicated revenue stream has not been pledged for repayment.
 
-&emsp;&emsp;(E) The Administrative Supervisor shall not place into separate Pools Bonds of thesame Issuer that have identical rights in security or priority.
+&emsp;&emsp;(E) The Administrative Supervisor shall not place into separate Pools Bonds of the same Issuer that have identical rights in security or priority.
 
-&emsp;(4) Notwithstanding the preceding provisions of this subsection, solely with respect to a preexisting voluntary agreement as described in section 2124(i)(3) of this title, such voluntary agreement may classify Insured Bonds and uninsured bonds in different Pools and provide different treatment thereof so long as the preexisting voluntary agreement has been agreed to by—
+&emsp;(4) Notwithstanding the preceding provisions of this subsection, solely with respect to a preexisting voluntary agreement as described in section 2124(i)(3) of this title, such voluntary agreement may classify Insured Bonds and uninsured bonds in different Pools and providedifferent treatment thereof so long as the preexisting voluntary agreement has been agreed to by—
 
 &emsp;&emsp;(A) holders of a majority in amount of all uninsured bonds outstanding in the modified Pool; and
 

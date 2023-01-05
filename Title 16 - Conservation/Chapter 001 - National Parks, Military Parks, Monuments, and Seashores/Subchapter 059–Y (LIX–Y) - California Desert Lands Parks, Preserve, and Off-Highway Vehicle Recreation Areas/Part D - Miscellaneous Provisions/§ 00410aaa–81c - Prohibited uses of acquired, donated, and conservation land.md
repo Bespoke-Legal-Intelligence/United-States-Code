@@ -86,7 +86,7 @@ Except as provided in subsection (c), the Secretary shall not authorize the use 
 
 #### (d) Existing agreements
 
-Nothing in this section affects permitted or prohibited uses of donated land or acquired landin the Conservation Area established in any easements, deed restrictions, memoranda of understanding, or other agreements in existence on March 12, 2019.
+Nothing in this section affects permitted or prohibited uses of donated land or acquired land in the Conservation Area established in any easements, deed restrictions, memoranda of understanding, or other agreements in existence on March 12, 2019.
 
 #### (e) Deed restrictions
 

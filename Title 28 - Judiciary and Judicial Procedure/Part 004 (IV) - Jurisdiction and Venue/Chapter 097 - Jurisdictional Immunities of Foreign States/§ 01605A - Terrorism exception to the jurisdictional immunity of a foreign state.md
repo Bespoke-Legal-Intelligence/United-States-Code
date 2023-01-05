@@ -380,7 +380,7 @@ Payments.—With the requirement of achieving parity in compensation between ind
 
 &emsp;&emsp;"(A) an individual described in paragraph (1)(B)(i) shall be based on the same standards used to determine the compensation for an employee or contractor injured in connection with the bombings described in that paragraph who was a United States citizen on or before August 7, 1998;
 
-&emsp;&emsp;"(B) an individual described in paragraph (1)(B)(ii) shall be on an equal basis to compensationprovided to a family member of an individual described in subparagraph (A); and
+&emsp;&emsp;"(B) an individual described in paragraph (1)(B)(ii) shall be on an equal basis to compensation provided to a family member of an individual described in subparagraph (A); and
 
 &emsp;&emsp;"(C) an individual described in paragraph (1)(B)(iii) shall be on an equal, or, where applicable, a pro rata basis to compensation provided to a family member of a United States employee or contractor who was a United States citizen killed during such bombings.
 

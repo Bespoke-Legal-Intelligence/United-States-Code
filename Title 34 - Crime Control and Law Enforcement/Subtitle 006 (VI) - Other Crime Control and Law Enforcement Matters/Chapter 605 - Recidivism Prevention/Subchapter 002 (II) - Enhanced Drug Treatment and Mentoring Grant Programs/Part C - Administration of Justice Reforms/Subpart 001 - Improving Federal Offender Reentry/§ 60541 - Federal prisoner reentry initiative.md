@@ -6,7 +6,7 @@ The Attorney General, in coordination with the Director of the Bureau of Prisons
 
 &emsp;(1) The establishment of a Federal prisoner reentry strategy to help prepare prisoners for release and successful reintegration into the community, including, at a minimum, that the Bureau of Prisons—
 
-&emsp;&emsp;(A) assess each prisoner's skill level (including academic, vocational, health, cognitive, interpersonal, daily living, and related reentry skills) at the beginning of the term of imprisonment of that prisoner to identify any areas in need of improvement prior to reentry;
+&emsp;&emsp;(A) assess each prisoner's skill level (including academic, vocational, health, cognitive, interpersonal, daily living, and related reentry skills) at the beginning of theterm of imprisonment of that prisoner to identify any areas in need of improvement prior to reentry;
 
 &emsp;&emsp;(B) generate a skills development plan for each prisoner to monitor skills enhancement and reentry readiness throughout incarceration;
 

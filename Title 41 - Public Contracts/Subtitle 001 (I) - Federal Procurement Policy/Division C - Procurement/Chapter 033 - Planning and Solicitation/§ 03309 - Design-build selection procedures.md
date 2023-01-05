@@ -62,7 +62,7 @@ Selection by contracting officer.—
 
 &emsp;&emsp;(A)
 
-Number of offerors selected and what is to be evaluated.—The contracting officer selects as the most highly qualified the number of offerors specified in the solicitation to provide the property or services under the contract and requests the selected offerors to submit phase-two competitive proposals that include technical proposals and cost or price information. Each solicitation establishes with respect to phase two—
+Number of offerors selected and what is to be evaluated.—The contracting officer selects as the most highly qualified the number of offerors specified in the solicitation to provide the property or services under the contract and requests the selectedofferors to submit phase-two competitive proposals that include technical proposals and cost or price information. Each solicitation establishes with respect to phase two—
 
 &emsp;&emsp;&emsp;(i) the technical submission for the proposal, including design concepts or proposed solutions to requirements addressed within the scope of work, or both; and
 

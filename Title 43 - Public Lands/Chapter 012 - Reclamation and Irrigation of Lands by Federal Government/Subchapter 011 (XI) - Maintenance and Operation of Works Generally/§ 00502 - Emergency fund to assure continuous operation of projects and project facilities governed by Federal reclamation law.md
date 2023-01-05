@@ -1,6 +1,6 @@
 ### §502. Emergency fund to assure continuous operation of projects and project facilities governed by Federal reclamation law
 
-In order to assure continuous operation of all projects and project facilities governed by the Federal reclamation law (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), including any project and facilities constructed with funds provided by the Small Reclamation Projects Act (Act of August 6, 1956, 70 Stat. 1044, and Acts amendatory thereof or supplementary thereto) \[43 U.S.C. 422a et seq.\] or with funds provided by the Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto), there is hereby authorized to be appropriated from the reclamation fund anemergency fund which shall be available for defraying expenses which the Commissioner of Reclamation determines are required to be incurred because of unusual or emergency conditions.
+In order to assure continuous operation of all projects and project facilities governed by the Federal reclamation law (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), including any project and facilities constructed with funds provided by the Small Reclamation Projects Act (Act of August 6, 1956, 70 Stat. 1044, and Acts amendatory thereof or supplementary thereto) \[43 U.S.C. 422a et seq.\] or with funds provided by the Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto), there is hereby authorized to be appropriated from the reclamation fund an emergency fund which shall be available for defraying expenses which the Commissioner of Reclamation determines are required to be incurred because of unusual or emergency conditions.
 
 (June 26, 1948, ch. 676, §1, 62 Stat. 1052; Pub. L. 97–275, Oct. 1, 1982, 96 Stat. 1185.)
 
@@ -10,9 +10,9 @@ In order to assure continuous operation of all projects and project facilities g
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-The Small Reclamation Projects Act, referred to in text, probably means the Small Reclamation Projects Act of 1956, act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§422a et seq.) of this chapter. For complete classification of this Act to the Code, see section 422k of this title and Tables.
+The Small Reclamation Projects Act, referred to in text, probably means the Small Reclamation Projects Act of 1956, act Aug. 6, 1956, ch. 972, 70 Stat. 1044, which is classified generally to subchapter IV (§422a et seq.) of this chapter. For complete classification of this Act to the Code, see section 422k of this title and Tables.
 
-The Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto), referred to in text, probably means act July 4, 1955, ch. 271, 69 Stat. 244, as amended, which is classified generally to sections 421a to 421h of this title. Act May 14, 1956, ch. 268, 70 Stat. 155, amended section 421c of this title. For complete classification of this Act to the Code, see Tables.
+The Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto), referred to in text, probably means act July 4, 1955, ch. 271, 69 Stat. 244, which is classified generally to sections 421a to 421h of this title. Act May 14, 1956, ch. 268, 70 Stat. 155, amended section 421c of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Fish and Wildlife.—The Secretary may make available water for the purposes of 
 
 #### "SEC. 417. CARRYOVER STORAGE AND WATER, NEW MELONES UNIT, CENTRAL VALLEY PROJECT, CALIFORNIA.
 
-"The first undesignated paragraph under the heading 'San Joaquin River Basin' in section 203 of the Flood Control Act of 1962 (Public Law 87–874, 76 Stat. 1191) is amended by inserting before the last period the following: ': <i>And provided further</i>, That the Secretary of the Interior is authorized to make available to the Oakdale and South San Joaquin irrigation districts, at the current contract rate, unallocated storage of such districts carried over from the previous year'.
+"The first undesignated paragraph under the heading 'San Joaquin River Basin' in section 203 of the FloodControl Act of 1962 (Public Law 87–874, 76 Stat. 1191) is amended by inserting before the last period the following: ': <i>And provided further</i>, That the Secretary of the Interior is authorized to make available to the Oakdale and South San Joaquin irrigation districts, at the current contract rate, unallocated storage of such districts carried over from the previous year'.
 
 #### "SEC. 418. INITIATION AND DEADLINE OF EMERGENCY DROUGHT PROGRAM.
 

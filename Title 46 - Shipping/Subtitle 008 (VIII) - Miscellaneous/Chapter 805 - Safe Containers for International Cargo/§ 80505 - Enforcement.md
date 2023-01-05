@@ -14,7 +14,7 @@ In General.—To enforce the Convention, this chapter, and regulations prescribe
 
 &emsp;&emsp;(A) does not have a safety approval plate attached to it; or
 
-&emsp;&emsp;(B) has a safety approval plate attached but there is significant evidence that thecontainer is in a condition that creates an obvious risk to safety;
+&emsp;&emsp;(B) has a safety approval plate attached but there is significant evidence that the container is in a condition that creates an obvious risk to safety;
 
 &emsp;(5) take other appropriate action, including issuing necessary orders, to remove a container from service or restrict its use if the container is not in compliance with the Convention, this chapter, or regulations prescribed under this chapter, but does not present an obvious risk to safety; and
 
@@ -88,7 +88,7 @@ Historical and Revision Notes
 
 Pub. L. 95–208, §5, Dec. 13, 1977, 91 Stat. 1477; Pub. L. 97–249, §1(2), Sept. 8, 1982, 96 Stat. 708.
 
-In subsection (a), before paragraph (1), the words "On and after the date the instrument of ratification is deposited by the United States in accordance with the provisions of article VII of the Convention" are omitted as obsolete. The words "and regulations prescribed under this chapter" are added for clarity. In paragraph (1), the words "new . . . and existing containers which are subject to this chapter" are omitted as obsolete. Paragraphs (2) and (3) are substituted for "test, inspect, and approve designs for new containers and new containers being manufactured" to eliminate unnecessary words. In paragraph (4), before subparagraph (A), the words "is subject to this chapter" are omitted as unnecessary. In subparagraph (A), the word "valid" is omitted as unnecessary. In paragraph (5), the words "or regulations prescribed under this chapter" are added for consistency. In paragraph (6), the word "valid" is omitted as unnecessary.
+In subsection (a), before paragraph (1), the words "On and after the date the instrument of ratification is deposited by the United States in accordance with the provisions of article VII of the Convention" are omitted as obsolete. The words "and regulations prescribed under this chapter" are added for clarity. In paragraph (1), the words "new . . . and existing containers which are subject to this chapter" are omitted as obsolete. Paragraphs (2) and (3) are substituted for "test, inspect, and approve designs for new containers and new containers being manufactured" to eliminate unnecessary words. In paragraph (4), before subparagraph (A), thewords "is subject to this chapter" are omitted as unnecessary. In subparagraph (A), the word "valid" is omitted as unnecessary. In paragraph (5), the words "or regulations prescribed under this chapter" are added for consistency. In paragraph (6), the word "valid" is omitted as unnecessary.
 
 In subsection (b)(3), the words "appropriation for the operating expenses of the Coast Guard" are substituted for "appropriations bearing the cost thereof" for clarity.
 

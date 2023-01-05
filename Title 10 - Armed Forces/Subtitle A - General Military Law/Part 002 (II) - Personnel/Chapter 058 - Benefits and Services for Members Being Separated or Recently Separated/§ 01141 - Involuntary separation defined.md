@@ -2,7 +2,7 @@
 
 A member of the armed forces shall be considered to be involuntarily separated for purposes of this chapter if the member was on active duty or full-time National Guard duty on September 30, 1990, or after November 29, 1993, or, with respect to a member of the Coast Guard, if the member was on active duty in the Coast Guard after September 30, 1994, and—
 
-&emsp;(1) in the case of a regular officer (other than a retired officer), the officer is involuntarily discharged under other than adverse conditions, as characterized by the Secretary concerned;
+&emsp;(1) in the case of a regular officer (other than a retired officer), the officer is involuntarily discharged under other than adverseconditions, as characterized by the Secretary concerned;
 
 &emsp;(2) in the case of a reserve officer who is on the active-duty list or, if not on the active-duty list, is on full-time active duty (or in the case of a member of the National Guard, full-time National Guard duty) for the purpose of organizing, administering, recruiting, instructing, or training the reserve components, the officer is involuntarily discharged or released from active duty or full-time National Guard (other than a release from active duty or full-time National Guard duty incident to a transfer to retired status) under other than adverse conditions, as characterized by the Secretary concerned;
 

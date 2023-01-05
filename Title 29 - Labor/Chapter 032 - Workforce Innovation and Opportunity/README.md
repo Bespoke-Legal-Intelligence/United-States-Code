@@ -121,7 +121,7 @@
 
 #### Part D—National Programs
 
-|  |  |
+| Sec. |  |
 | :--- | ---: |
 | [3221\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003221%20-%20Native%20American%20programs.md) | Native American programs. |
 | [3222\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003222%20-%20Migrant%20and%20seasonal%20farmworker%20programs.md) | Migrant and seasonal farmworker programs. |
@@ -133,6 +133,7 @@
 | [3226\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003226%20-%20YouthBuild%20program.md) | YouthBuild program. |
 | [3226a.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003226a%20-%20Re-enrollment%20in%20alternative%20school%20by%20high-school%20dropout.md) | Re-enrollment in alternative school by high-school dropout. |
 | [3227\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003227%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [3228\.](Subchapter%20001%20%28I%29%20-%20Workforce%20Development%20Activities/Part%20D%20-%20National%20Programs/%C2%A7%2003228%20-%20Worker%20ownership%2C%20readiness%2C%20and%20knowledge.md) | Worker ownership, readiness, and knowledge. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

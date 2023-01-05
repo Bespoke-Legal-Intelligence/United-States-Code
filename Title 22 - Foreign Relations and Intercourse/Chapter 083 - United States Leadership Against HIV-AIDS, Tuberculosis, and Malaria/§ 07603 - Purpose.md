@@ -10,7 +10,7 @@ The purpose of this chapter is to strengthen and enhance United States leadershi
 
 &emsp;&emsp;(C) emphasizing capacity building initiatives in order to promote a transition toward greater sustainability through the support of country-driven efforts;
 
-&emsp;(2) providing increased resources for bilateral and multilateral efforts to fight HIV/AIDS, tuberculosis, and malaria as integrated components of United States development assistance;
+&emsp;(2) providing increased resources for bilateral and multilateral efforts to fight HIV/AIDS, tuberculosis, and malaria as integratedcomponents of United States development assistance;
 
 &emsp;(3) intensifying efforts to—
 

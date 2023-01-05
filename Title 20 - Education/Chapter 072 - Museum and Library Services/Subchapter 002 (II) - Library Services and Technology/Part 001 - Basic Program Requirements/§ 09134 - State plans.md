@@ -134,7 +134,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 &emsp;&emsp;&emsp;A library covered by paragraph (1) that does not have in place an Internet safety policy meeting the requirements of paragraph (1)—
 
-&emsp;&emsp;&emsp;&emsp;(I) for the first program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put in place an Internet safety policy that meets such requirements; and
+&emsp;&emsp;&emsp;&emsp;(I) for the first program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that it is undertaking such actions, including any necessary procurement procedures, to put inplace an Internet safety policy that meets such requirements; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for the second program year after the effective date of this subsection in which the library applies for funds under this subchapter, shall certify that such library is in compliance with such requirements.
 
@@ -148,7 +148,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (A) Use of General Education Provisions Act remedies
 
-&emsp;&emsp;Whenever the Director of the Institute of Museum and Library Services has reason to believe that any recipient of funds this <sup>1</sup> subchapter is failing to comply substantiallywith the requirements of this subsection, the Director may—
+&emsp;&emsp;Whenever the Director of the Institute of Museum and Library Services has reason to believe that any recipient of funds this <sup>1</sup> subchapter is failing to comply substantially with the requirements of this subsection, the Director may—
 
 &emsp;&emsp;&emsp;(i) withhold further payments to the recipient under this subchapter,
 
@@ -210,7 +210,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(6)(C)(i
 
 For the effective date of this subsection, referred to in subsec. (f)(4), as 120 days after Dec. 21, 2000, see §1(a)(4) \[div. B, title XVII, §1712(b)\] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
-The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 #### Amendments
 

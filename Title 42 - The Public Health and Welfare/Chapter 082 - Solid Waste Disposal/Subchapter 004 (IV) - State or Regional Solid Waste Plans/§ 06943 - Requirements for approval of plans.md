@@ -14,7 +14,7 @@ In order to be approved under section 6947 of this title, each State plan must c
 
 &emsp;(5) The plan shall provide that no State or local government within the State shall be prohibited under State or local law from negotiating and entering into long-term contracts for the supply of solid waste to resource recovery facilities, from entering into long-term contracts for the operation of such facilities, or from securing long-term markets for material and energy recovered from such facilities or for conserving materials or energy by reducing the volume of waste.
 
-&emsp;(6) The plan shall provide for such resource conservation or recovery and for the disposalof solid waste in sanitary landfills or any combination of practices so as may be necessary to use or dispose of such waste in a manner that is environmentally sound.
+&emsp;(6) The plan shall provide for such resource conservation or recovery and for the disposal of solid waste in sanitary landfills or any combination of practices so as may be necessary to use or dispose of such waste in a manner that is environmentally sound.
 
 #### (b) Discretionary plan provisions relating to recycled oil
 

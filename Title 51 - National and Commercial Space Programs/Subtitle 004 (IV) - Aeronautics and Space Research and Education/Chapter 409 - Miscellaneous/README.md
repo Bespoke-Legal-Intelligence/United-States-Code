@@ -4,7 +4,12 @@
 | :--- | ---: |
 | [40901\.](%C2%A7%2040901%20-%20Science%2C%20Space%2C%20and%20Technology%20Education%20Trust%20Fund.md) | Science, Space, and Technology Education Trust Fund. |
 | [40902\.](%C2%A7%2040902%20-%20National%20Aeronautics%20and%20Space%20Administration%20Endeavor%20Teacher%20Fellowship%20Trust%20Fund.md) | National Aeronautics and Space Administration Endeavor Teacher Fellowship Trust Fund. |
-| [40903\.](%C2%A7%2040903%20-%20Experimental%20Program%20to%20Stimulate%20Competitive%20Research%E2%80%94merit%20grant%20competition%20requirements.md) | Experimental Program to Stimulate Competitive Research—merit grant competition requirements. |
+| [40903\.](%C2%A7%2040903%20-%20Established%20Program%20to%20Stimulate%20Competitive%20Research%E2%80%94merit%20grant%20competition%20requirements.md) | Experimental Program to Stimulate Competitive Research—merit grant competition requirements.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [40904\.](%C2%A7%2040904%20-%20Microgravity%20research.md) | Microgravity research. |
 | [40905\.](%C2%A7%2040905%20-%20Program%20to%20expand%20distance%20learning%20in%20rural%20underserved%20areas.md) | Program to expand distance learning in rural underserved areas. |
 | [40906\.](%C2%A7%2040906%20-%20Equal%20access%20to%20the%20Administration%27s%20education%20programs.md) | Equal access to the Administration's education programs. |
@@ -134,11 +139,11 @@ National Awareness Campaign.—
 
 &emsp;"(1)
 
-In general.—The Administrator \[of the National Aeronautics and Space Administration\] shallimplement, beginning not later than May 1, 2006, a national awareness campaign through various media, including print, radio, television, and the Internet, to articulate missions, publicize recent accomplishments, and facilitate efforts to encourage young Americans to enter the fields of science, mathematics, and engineering to help maintain United States leadership in those fields.
+In general.—The Administrator \[of the National Aeronautics and Space Administration\] shall implement, beginning not later than May 1, 2006, a national awareness campaign through various media, including print, radio, television, and the Internet, to articulate missions, publicize recent accomplishments, and facilitate efforts to encourage young Americans to enter the fields of science, mathematics, and engineering to help maintain United States leadership in those fields.
 
 &emsp;"(2)
 
-Reports.—(A) Not later than April 1, 2006, the Administrator shall transmit a plan to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the activities that will be undertaken as part of the national awareness campaign required by paragraph (1) and the expected cost of those activities. NASA \[National Aeronautics and Space Administration\] may undertake activities as part of the national awareness campaign prior to the transmittal of the plan required by this subparagraph, but the plan shall include a description of any activities undertaken prior to the transmittal and the estimated cost of those activities.
+Reports.—(A) Not later than April 1, 2006, the Administrator shall transmit a plan to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the activities that will be undertaken as part of the national awareness campaign required by paragraph (1) and the expected cost of those activities. NASA \[NationalAeronautics and Space Administration\] may undertake activities as part of the national awareness campaign prior to the transmittal of the plan required by this subparagraph, but the plan shall include a description of any activities undertaken prior to the transmittal and the estimated cost of those activities.
 
 &emsp;"(B) Not later than three years after the date of enactment of this Act \[Dec. 30, 2005\], the Administrator shall transmit to the Committee on Science of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate an assessment of the impact of the national awareness campaign.
 
@@ -228,6 +233,8 @@ Pub. L. 91–303, §6, July 2, 1970, 84 Stat. 372.
 
 Pub. L. 91–119, §7, Nov. 18, 1969, 83 Stat. 201.
 
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 117–167 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -235,7 +242,7 @@ Pub. L. 91–119, §7, Nov. 18, 1969, 83 Stat. 201.
 
 - [&sect; 40901 - Science, Space, and Technology Education Trust Fund](%C2%A7%2040901%20-%20Science%2C%20Space%2C%20and%20Technology%20Education%20Trust%20Fund.md)
 - [&sect; 40902 - National Aeronautics and Space Administration Endeavor Teacher Fellowship Trust Fund](%C2%A7%2040902%20-%20National%20Aeronautics%20and%20Space%20Administration%20Endeavor%20Teacher%20Fellowship%20Trust%20Fund.md)
-- [&sect; 40903 - Experimental Program to Stimulate Competitive Research&#8212;merit grant competition requirements](%C2%A7%2040903%20-%20Experimental%20Program%20to%20Stimulate%20Competitive%20Research%E2%80%94merit%20grant%20competition%20requirements.md)
+- [&sect; 40903 - Established Program to Stimulate Competitive Research&#8212;merit grant competition requirements](%C2%A7%2040903%20-%20Established%20Program%20to%20Stimulate%20Competitive%20Research%E2%80%94merit%20grant%20competition%20requirements.md)
 - [&sect; 40904 - Microgravity research](%C2%A7%2040904%20-%20Microgravity%20research.md)
 - [&sect; 40905 - Program to expand distance learning in rural underserved areas](%C2%A7%2040905%20-%20Program%20to%20expand%20distance%20learning%20in%20rural%20underserved%20areas.md)
 - [&sect; 40906 - Equal access to the Administration's education programs](%C2%A7%2040906%20-%20Equal%20access%20to%20the%20Administration%27s%20education%20programs.md)

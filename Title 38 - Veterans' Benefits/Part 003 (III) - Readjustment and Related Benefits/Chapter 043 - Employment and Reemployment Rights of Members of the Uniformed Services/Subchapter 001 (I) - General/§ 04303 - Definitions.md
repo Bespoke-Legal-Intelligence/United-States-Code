@@ -42,7 +42,27 @@ For the purposes of this chapter—
 
 &emsp;(ii) The entity's lack of notice or awareness of a potential or pending claim under this chapter at the time of a merger, acquisition, or other form of succession shall not be considered when applying the multi-factor test under clause (i).
 
-&emsp;(5) The term "Federal executive agency" includes the United States Postal Service, the Postal Regulatory Commission, any nonappropriated fund instrumentality of the United States, any Executive agency (as that term is defined in section 105 of title 5) other than an agency referred to in section 2302(a)(2)(C)(ii) of title 5, and any military department (as that term is defined in section 102 of title 5) with respect to the civilian employees of that department.
+&emsp;(5) The term "Federal executive agency"—
+
+&emsp;&emsp;(A) except as provided in subparagraph (B), includes—
+
+&emsp;&emsp;&emsp;(i) the United States Postal Service;
+
+&emsp;&emsp;&emsp;(ii) the Postal Regulatory Commission;
+
+&emsp;&emsp;&emsp;(iii) any nonappropriated fund instrumentality of the United States;
+
+&emsp;&emsp;&emsp;(iv) any Executive agency (as defined in section 105 of title 5); and
+
+&emsp;&emsp;&emsp;(v) any military department (as defined in section 102 of title 5) with respect to the civilian employees of that department; and
+
+&emsp;&emsp;(B) does not include—
+
+&emsp;&emsp;&emsp;(i) an agency referred to in section 2302(a)(2)(C)(ii) of title 5;
+
+&emsp;&emsp;&emsp;(ii) the National Oceanic and Atmospheric Administration with respect to members of the commissioned officer corps of the National Oceanic and Atmospheric Administration; or
+
+&emsp;&emsp;&emsp;(iii) the Public Health Service with respect to members of the Commissioned Corps of the Public Health Service serving on active duty, active duty for training, or inactive duty training.
 
 &emsp;(6) The term "Federal Government" includes any Federal executive agency, the legislative branch of the United States, and the judicial branch of the United States.
 
@@ -58,7 +78,7 @@ For the purposes of this chapter—
 
 &emsp;(12) The term "seniority" means longevity in employment together with any benefits of employment which accrue with, or are determined by, longevity in employment.
 
-&emsp;(13) The term "service in the uniformed services" means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, State active duty for a period of 14 days or more, State active duty in response to a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.), State active duty in response to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.
+&emsp;(13) The term "service in the uniformed services" means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, State active duty for a period of 14 days or more, State active duty in response to a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.), State active duty in response to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, a period for which a person is absent from a position of employment due to an appointment into service in the Federal Emergency Management Agency as intermittent personnel under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5149(b)(1)), and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by section 12503 of title 10 or section 115 of title 32.
 
 &emsp;(14) The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and other territories of the United States (including the agencies and political subdivisions thereof).
 
@@ -70,19 +90,19 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(C) for which the member is not entitled to pay from the Federal Government.
 
-&emsp;(16) <sup>1</sup> The term "undue hardship", in the case of actions taken by an employer, means actions requiring significant difficulty or expense, when considered in light of—
+&emsp;(16) The term "undue hardship", in the case of actions taken by an employer, means actions requiring significant difficulty or expense, when considered in light of—
 
 &emsp;&emsp;(A) the nature and cost of the action needed under this chapter;
 
 &emsp;&emsp;(B) the overall financial resources of the facility or facilities involved in the provision of the action; the number of persons employed at such facility; the effect on expenses and resources, or the impact otherwise of such action upon the operation of the facility;
 
-&emsp;&emsp;(C) the overall financial resources of the employer; the overall size of the business ofan employer with respect to the number of its employees; the number, type, and location of its facilities; and
+&emsp;&emsp;(C) the overall financial resources of the employer; the overall size of the business of an employer with respect to the number of its employees; the number, type, and location of its facilities; and
 
 &emsp;&emsp;(D) the type of operation or operations of the employer, including the composition, structure, and functions of the work force of such employer; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the employer.
 
-&emsp;(16) <sup>1</sup> The term "uniformed services" means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, the commissioned officer corps of the National Oceanic and Atmospheric Administration, System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and any other category of persons designated by the President in time of war or national emergency.
+&emsp;(17) The term "uniformed services" means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the Commissioned Corps of the Public Health Service, the commissioned officer corps of the National Oceanic and Atmospheric Administration, System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, intermittent personnel who are appointed into Federal Emergency Management Agency service under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5149(b)(1)) or to train for such service, and any other category of persons designated by the President in time of war or national emergency.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, §212(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 106–419, title III, §323(a), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §8(a)(11), (b)(2), June 5, 2001, 115 Stat. 35, 36; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–275, title VII, §§701(a), 702(a), Oct. 13, 2010, 124 Stat. 2887; Pub. L. 112–56, title II, §251, Nov. 21, 2011, 125 Stat. 729; Pub. L. 114–326, §2(b)(2), Dec. 16, 2016, 130 Stat. 1972; Pub. L. 116–259, title II, §208, Dec. 23, 2020, 134 Stat. 1168; Pub. L. 116–315, title VII, §7004, Jan. 5, 2021, 134 Stat. 5058.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3150; amended Pub. L. 104–275, title III, §311(2), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 105–368, title II, §212(a), Nov. 11, 1998, 112 Stat. 3331; Pub. L. 106–419, title III, §323(a), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–14, §8(a)(11), (b)(2), June 5, 2001, 115 Stat. 35, 36; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–275, title VII, §§701(a), 702(a), Oct. 13, 2010, 124 Stat. 2887; Pub. L. 112–56, title II, §251, Nov. 21, 2011, 125 Stat. 729; Pub. L. 114–326, §2(b)(2), Dec. 16, 2016, 130 Stat. 1972; Pub. L. 116–259, title II, §208, Dec. 23, 2020, 134 Stat. 1168; Pub. L. 116–315, title VII, §7004, Jan. 5, 2021, 134 Stat. 5058; Pub. L. 117–178, §3(a), Sept. 29, 2022, 136 Stat. 2110; Pub. L. 117–263, div. E, title LI, §5121, Dec. 23, 2022, 136 Stat. 3210.)
 
 #### <b>Editorial Notes</b>
 
@@ -90,7 +110,7 @@ For the purposes of this chapter—
 
 The National Emergencies Act, referred to in par. (13), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-Section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in pars. (13) and (16), is classified to section 5165f of Title 42, The Public Health and Welfare.
+Section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in pars. (13) and (17), is classified to section 5165f of Title 42, The Public Health and Welfare.
 
 #### Prior Provisions
 
@@ -99,6 +119,16 @@ A prior section 4303, added Pub. L. 93–508, title IV, §404(a), Dec. 3, 1974, 
 Another prior section 4303 was renumbered section 7603 of this title.
 
 #### Amendments
+
+<b>2022</b>—Par. (5). Pub. L. 117–263, §5121(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The term 'Federal executive agency' includes the United States Postal Service, the Postal Regulatory Commission, any nonappropriated fund instrumentality of the United States, any Executive agency (as that term is defined in section 105 of title 5) other than an agency referred to in section 2302(a)(2)(C)(ii) of title 5, and any military department (as that term is defined in section 102 of title 5) with respect to the civilian employees of that department."
+
+Par. (13). Pub. L. 117–178, §3(a)(1), inserted ", a period for which a person is absent from a position of employment due to an appointment into service in the Federal Emergency Management Agency as intermittent personnel under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5149(b)(1))" before ", and a period".
+
+Par. (16). Pub. L. 117–178, §3(a)(2), redesignated par. (16) defining "uniformed services" as (17).
+
+Par. (17). Pub. L. 117–263, §5121(b), substituted "Commissioned Corps of the Public Health Service" for "commissioned corps of the Public Health Service".
+
+Pub. L. 117–178, §3(a)(2), (3), redesignated par. (16) defining "uniformed services" as (17) and inserted "intermittent personnel who are appointed into Federal Emergency Management Agency service under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5149(b)(1)) or to train for such service," before "and any other category".
 
 <b>2021</b>—Par. (13). Pub. L. 116–315, §7004(1), inserted "State active duty for a period of 14 days or more, State active duty in response to a national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.), State active duty in response to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170)," after "full-time National Guard duty,".
 
@@ -165,6 +195,4 @@ Amendment by Pub. L. 104–275 effective Oct. 13, 1994, see section 313 of Pub. 
 #### Effective Date
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
-
-<i><sup>1</sup></i><i> So in original. Two pars. (16) have been enacted.</i>
 

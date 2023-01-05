@@ -14,7 +14,7 @@
 
 &emsp;(iii) may review any grant, contract, or cooperative agreement proposed to be made or entered into by the institute;
 
-&emsp;(B) may collect, by correspondence or by personal investigation, information as to studies which are being carried on in the United States or any other country as to the diseases, disorders, or other aspect of human health with respect to which the institute was established and with the approval of the Director of the institute make available such information through appropriate publications for the benefit of public and private health entities and health professions personnel and scientists and for the information of the general public; and
+&emsp;(B) may collect, by correspondence or by personal investigation, information as to studies which are being carried on in the United States or any other country as to the diseases,disorders, or other aspect of human health with respect to which the institute was established and with the approval of the Director of the institute make available such information through appropriate publications for the benefit of public and private health entities and health professions personnel and scientists and for the information of the general public; and
 
 &emsp;(C) may appoint subcommittees and convene workshops and conferences.
 
@@ -86,7 +86,7 @@ Each advisory council may prepare, for inclusion in the biennial report made und
 
 (B) This section applies to the advisory council to the National Heart, Lung, and Blood Institute, except that the advisory council shall meet at least four times each fiscal year.
 
-(July 1, 1944, ch. 373, title IV, §406, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 828; amendedPub. L. 100–607, title I, §117, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 101–381, title I, §102(1), Aug. 18, 1990, 104 Stat. 585; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title II, §210(a), title XX, §§2008(b)(1), 2010(b)(2), June 10, 1993, 107 Stat. 149, 210, 214; Pub. L. 105–245, title III, §309(b)(2)(C), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 115–180, title I, §111, June 5, 2018, 132 Stat. 1386.)
+(July 1, 1944, ch. 373, title IV, §406, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 828; amended Pub. L. 100–607, title I, §117, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 101–381, title I, §102(1), Aug. 18, 1990, 104 Stat. 585; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title II, §210(a), title XX, §§2008(b)(1), 2010(b)(2), June 10, 1993, 107 Stat. 149, 210, 214; Pub. L. 105–245, title III, §309(b)(2)(C), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 115–180, title I, §111, June 5, 2018, 132 Stat. 1386.)
 
 #### <b>Editorial Notes</b>
 
@@ -122,7 +122,7 @@ Subsec. (h)(2)(A)(v). Pub. L. 100–607, §117(c), inserted "shall be nonvoting 
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

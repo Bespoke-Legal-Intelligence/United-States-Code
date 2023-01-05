@@ -10,7 +10,7 @@ Any person who, on October 1, 1977, held a position compensated in accordance wi
 
 #### (c) Employees holding reemployment rights acquired under section 786 of title 15
 
-Employees transferred to the Department holding reemployment rights acquired undersection 786 of title 15 <sup>1</sup> or any other provision of law or regulation may exercise such rights only within one hundred twenty days from October 1, 1977, or within two years of acquiring such rights, whichever is later. Reemployment rights may only be exercised at the request of the employee.
+Employees transferred to the Department holding reemployment rights acquired under section 786 of title 15 <sup>1</sup> or any other provision of law or regulation may exercise such rights only within one hundred twenty days from October 1, 1977, or within two years of acquiring such rights, whichever is later. Reemployment rights may only be exercised at the request of the employee.
 
 (Pub. L. 95–91, title VII, §702, Aug. 4, 1977, 91 Stat. 605.)
 
@@ -18,7 +18,7 @@ Employees transferred to the Department holding reemployment rights acquired und
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 This subchapter, referred to in subsec. (a), was in the original "this title" meaning title VII of Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 605, which enacted this subchapter and section 916 of Title 7, Agriculture, amended sections 6833 and 6839 of this title, section 19 of Title 3, The President, sections 101, 5108, and 5312 to 5316 of Title 5, Government Organization and Employees, section 1701z–8 of Title 12, Banks and Banking, and sections 766, 790a, and 790d of Title 15, Commerce and Trade, repealed sections 2036 and 5818 of this title and sections 763, 768 and 786 of Title 15, enacted provisions set out as a note under 2201 of this title, and repealed provisions set out as a note under section 761 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 

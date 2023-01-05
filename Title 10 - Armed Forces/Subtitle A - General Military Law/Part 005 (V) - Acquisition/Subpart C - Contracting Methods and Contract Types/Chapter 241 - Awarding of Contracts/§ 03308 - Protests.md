@@ -26,13 +26,13 @@ Agency Actions on Protests.—If, in connection with a protest, the head of an a
 
 #### Codification
 
-The text of subsec. (e) of section 2305 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, §1816(e), was based on Pub. L. 103–355, title I, §1015, Oct. 13, 1994,108 Stat. 3256; Pub. L. 104–106, div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, §1074(b)(4)(A), Sept. 23, 1996, 110 Stat. 2660.
+The text of subsec. (e) of section 2305 of this title, which was transferred to this section, redesignated as subsec. (a), and amended by Pub. L. 116–283, §1816(e), was based on Pub. L. 103–355, title I, §1015, Oct. 13, 1994, 108 Stat. 3256; Pub. L. 104–106, div. E, title LVI, §5601(a), Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–201, div. A, title X, §1074(b)(4)(A), Sept. 23, 1996, 110 Stat. 2660.
 
 The text of subsec. (f) of section 2305 of this title, which was transferred to this section, redesignated as subsec. (b), and amended by Pub. L. 116–283, §1816(e)(1), was based on Pub. L. 103–355, title I, §1016, Oct. 13, 1994, 108 Stat. 3257.
 
 #### Prior Provisions
 
-A prior section 3308, act Aug. 10, 1956, ch. 1041, 70A Stat. 192, related to effect of removal from recommended list by President of name of any promotion-list officer or brigadier general of Regular Army who in President's opinion is not qualified for promotion or who is not confirmed by Senate, prior to repeal by Pub. L. 96–513, title II, §204, title VII, §701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 629 of this title.
+A prior section 3308, act Aug. 10, 1956, ch. 1041, 70A Stat. 192, related to effect of removal from recommended list by President of name of any promotion-list officer or brigadier general of Regular Army who in President's opinion is not qualified for promotion orwho is not confirmed by Senate, prior to repeal by Pub. L. 96–513, title II, §204, title VII, §701, Dec. 12, 1980, 94 Stat. 2880, 2955, effective Sept. 15, 1981. See section 629 of this title.
 
 #### Amendments
 

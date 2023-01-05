@@ -32,7 +32,7 @@
 
 > The Secretary of Health and Human Services shall designate the chairman of the committee.
 
-(2) The advisory committee shall consult with, and make recommendations to, the Secretary of Health and Human Services on matters involving or relating to coal or other mine health research. The Secretary of Health and Human Services shall consult with, and consider the recommendations of, such committee in the conduct of such research, the making of any grants, and the entering into of contracts for such research.
+(2) The advisory committee shall consult with, and make recommendations to, the Secretary ofHealth and Human Services on matters involving or relating to coal or other mine health research. The Secretary of Health and Human Services shall consult with, and consider the recommendations of, such committee in the conduct of such research, the making of any grants, and the entering into of contracts for such research.
 
 (3) The chairman of the committee and a majority of the persons appointed by the Secretary of Health and Human Services pursuant to paragraph (1)(D) shall be individuals who have no economic interests in the coal or other mining industry, and who are not operators, miners, or officers or employees of the Federal Government or any State or local government.
 
@@ -82,7 +82,7 @@ Section operative 90 days after Dec. 30, 1969, except to the extent an earlier d
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -92,5 +92,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Transfer of Functions
 
-Functions vested by law in Office of Science and Technology and in Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation, and Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2, of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, abolished by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, both set out in the Appendix to Title 5, Government Organization and Employees.
+Functions vested by law in Office of Science and Technology and in Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation, and Office of Scienceand Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2, of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, abolished by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, both set out in the Appendix to Title 5, Government Organization and Employees.
 

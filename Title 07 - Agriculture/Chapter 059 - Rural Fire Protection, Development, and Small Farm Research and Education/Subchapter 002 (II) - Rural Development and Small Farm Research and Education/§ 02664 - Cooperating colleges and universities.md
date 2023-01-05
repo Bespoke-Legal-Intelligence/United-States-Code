@@ -14,7 +14,7 @@ The institution of each State responsible for administering the programs authori
 
 #### (d) Appointment of advisory council for program administration; eligibility, membership, etc.
 
-The institution in each State responsible for administering the programs authorized underthis subchapter shall name an advisory council to review and approve budgets and plans of work conducted under this subchapter and to advise the chief administrative officer of the institution administering the programs on matters pertaining to the programs. An existing State rural development committee or council may be named to perform this function, or a new council may be appointed by the chief administrative officer or officers. The committee or council named or appointed shall consist of at least twelve members and shall include persons representing farmers, business, labor, banking, local government, multicounty planning and development districts, public and private colleges and universities in the State, and Federal and State agencies involved in rural development.
+The institution in each State responsible for administering the programs authorized under this subchapter shall name an advisory council to review and approve budgets and plans of work conducted under this subchapter and to advise the chief administrative officer of the institution administering the programs on matters pertaining to the programs. An existing State rural development committee or council may be named to perform this function, or a new council may be appointed by the chief administrative officer or officers. The committee or council named or appointed shall consist of at least twelve members and shall include persons representing farmers, business, labor, banking, local government, multicounty planning and development districts, public and private colleges and universities in the State, and Federal and State agencies involved in rural development.
 
 (Pub. L. 92–419, title V, §504, as added Pub. L. 97–98, title XIV, §1444(a), Dec. 22, 1981, 95 Stat. 1325; amended Pub. L. 115–334, title VI, §6101(a)(3)(B), Dec. 20, 2018, 132 Stat. 4727.)
 
@@ -24,7 +24,7 @@ The institution in each State responsible for administering the programs authori
 
 Act of July 2, 1862, referred to in subsec. (a), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 #### Prior Provisions
 

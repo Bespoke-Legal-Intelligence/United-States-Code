@@ -34,7 +34,7 @@
 
 #### (c) Payments in lieu of minimum work requirements
 
-In lieu of the minimum work requirements set forth in subsection (b)(2), the Secretary shall byregulation establish minimum annual payments which may be made by the lessee for a limited number of years that the Secretary determines will not impair achieving diligent development of the geothermal resource, but in no event shall the number of years exceed the duration of the extension period provided in subsection (a).
+In lieu of the minimum work requirements set forth in subsection (b)(2), the Secretary shall by regulation establish minimum annual payments which may be made by the lessee for a limited number of years that the Secretary determines will not impair achieving diligent development of the geothermal resource, but in no event shall the number of years exceed the duration of the extension period provided in subsection (a).
 
 #### (d) Transition rules for leases issued prior to August 8, 2005
 
@@ -76,7 +76,7 @@ Minerals locatable under the mining laws of the United States in lands subject t
 
 #### References in Text
 
-The Multiple Mineral Development Act, referred to in subsec. (i), is act Aug. 13, 1954, ch. 730, 68 Stat. 708, as amended, which is classified principally to chapter 12 (§521 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 521 of this title and Tables.
+The Multiple Mineral Development Act, referred to in subsec. (i), is act Aug. 13, 1954, ch. 730, 68 Stat. 708, which is classified principally to chapter 12 (§521 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 521 of this title and Tables.
 
 #### Codification
 
@@ -94,7 +94,7 @@ Subsecs. (g) to (j). Pub. L. 100–443, §3, added subsecs. (g) to (j).
 
 #### Consistency Provision
 
-Pub. L. 100–443, §9, Sept. 22, 1988, 102 Stat. 1771, provided that: "To the extent that any provision in this Act \[see Short Title of 1988 Amendment note set out under section 1001 of this title\] is inconsistent with the provisions of section 115(2) of title I of section 101(h) of Public Law 99–591 (100 Stat. 3341–264 through 100 Stat.3341–266) \[set out below\], this Act shall be deemed to supersede the provisions of such section."
+Pub. L. 100–443, §9, Sept. 22, 1988, 102 Stat. 1771, provided that: "To the extent that any provision in this Act \[see Short Title of 1988 Amendment note set out under section 1001 of this title\] is inconsistent with the provisions of section 115(2) of title I of section 101(h) of Public Law 99–591 (100 Stat. 3341–264 through 100 Stat. 3341–266) \[set out below\], this Act shall be deemed to supersede the provisions of such section."
 
 #### Extension of Lease; Listing, Monitoring and Protection of Significant Thermal Features in National Park System; Factors Considered in Issuing or Denying Leases; Effect on Other Provisions
 
@@ -102,7 +102,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 "(1) The primary term of any geothermal lease in effect as of July 27, 1984, issued pursuant to the Geothermal \[Steam\] Act of 1970 (Public Law 91–581, 84 Stat. 1566, 30 U.S.C. 1001–1025) is hereby extended to December 31, 1988, if the Secretary of the Interior finds that—
 
-&emsp;"(a) a bona fide sale of the geothermal resource, from a well capable of production, for delivery to or utilization by a facility or facilities, has not been completed (1) due to administrative delays by government entities, beyond the control of the lessee, or (2) such sale would be uneconomic;
+&emsp;"(a) a bona fide sale of the geothermal resource, from a well capable of production, for delivery to orutilization by a facility or facilities, has not been completed (1) due to administrative delays by government entities, beyond the control of the lessee, or (2) such sale would be uneconomic;
 
 &emsp;"(b) substantial investment in the development of or for the benefit of the lease has been made; and
 

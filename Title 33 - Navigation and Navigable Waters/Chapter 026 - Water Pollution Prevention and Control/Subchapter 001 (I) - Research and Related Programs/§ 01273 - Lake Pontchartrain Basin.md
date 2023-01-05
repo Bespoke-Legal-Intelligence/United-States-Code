@@ -20,15 +20,17 @@ In carrying out the program, the Administrator shall—
 
 &emsp;(4) develop a comprehensive research plan to address the technical needs of the program;
 
-&emsp;(5) coordinate the grant, research, and planning programs authorized under this section; and
+&emsp;(5) coordinate the grant, research, and planning programs authorized under this section;
 
-&emsp;(6) collect and make available to the public publications, and other forms of information the management conference determines to be appropriate, relating to the environmental quality of the Basin.
+&emsp;(6) collect and make available to the public publications, and other forms of information the management conference determines to be appropriate, relating to the environmental quality of the Basin; and
+
+&emsp;(7) ensure that the comprehensive conservation and management plan approved for the Basin under section 1330 of this title is reviewed and revised in accordance with section 1330 of this title not less often than once every 5 years, beginning on December 23, 2022.
 
 #### (d) Grants
 
 The Administrator may make grants to pay not more than 75 percent of the costs—
 
-&emsp;(1) for restoration projects and studies recommended by a management conference convened for the Basin under section 1330 of this title; and
+&emsp;(1) for restoration projects and studies identified in the comprehensive conservation and management plan approved for the Basin under section 1330 of this title; and
 
 &emsp;(2) for public education projects recommended by the management conference.
 
@@ -38,7 +40,7 @@ In this section, the following definitions apply:
 
 #### (1) Basin
 
-&emsp;The term "Basin" means the Lake Pontchartrain Basin, a 5,000 square mile watershed encompassing 16 parishes in the State of Louisiana and 4 counties in the State of Mississippi.
+&emsp;The term "Basin" means the Lake Pontchartrain Basin, a 10,000 square mile watershed encompassing 16 parishes in the State of Louisiana and 4 counties in the State of Mississippi.
 
 #### (2) Program
 
@@ -54,7 +56,11 @@ In this section, the following definitions apply:
 
 &emsp;Not more than 15 percent of the amount appropriated pursuant to paragraph (1) in a fiscal year may be expended on grants for public education projects under subsection (d)(2).
 
-(June 30, 1948, ch. 758, title I, §121, as added Pub. L. 106–457, title V, §502, Nov. 7, 2000, 114 Stat. 1973; amended Pub. L. 109–392, §1, Dec. 12, 2006, 120 Stat. 2703; Pub. L. 112–237, §1, Dec. 28, 2012, 126 Stat. 1628.)
+#### (3) Administrative expenses
+
+&emsp;Not more than 5 percent of the amounts appropriated to carry out this section may be used for administrative expenses.
+
+(June 30, 1948, ch. 758, title I, §121, as added Pub. L. 106–457, title V, §502, Nov. 7, 2000, 114 Stat. 1973; amended Pub. L. 109–392, §1, Dec. 12, 2006, 120 Stat. 2703; Pub. L. 112–237, §1, Dec. 28, 2012, 126 Stat. 1628; Pub. L. 117–263, div. H, title LXXXV, §8501(c), Dec. 23, 2022, 136 Stat. 3856.)
 
 #### <b>Editorial Notes</b>
 
@@ -63,6 +69,14 @@ In this section, the following definitions apply:
 Another section 121 of act June 30, 1948, was renumbered section 122 and is classified to section 1274 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(7). Pub. L. 117–263, §8501(c)(1)(A), added par. (7).
+
+Subsec. (d)(1). Pub. L. 117–263, §8501(c)(1)(B), substituted "identified in the comprehensive conservation and management plan approved for the Basin under section 1330 of this title" for "recommended by a management conference convened for the Basin under section 1330 of this title".
+
+Subsec. (e)(1). Pub. L. 117–263, §8501(c)(2), substituted "10,000 square mile" for "5,000 square mile".
+
+Subsec. (f)(3). Pub. L. 117–263, §8501(c)(3), added par (3).
 
 <b>2012</b>—Subsec. (d). Pub. L. 112–237, §1(1), inserted "to pay not more than 75 percent of the costs" after "make grants" in introductory provisions.
 

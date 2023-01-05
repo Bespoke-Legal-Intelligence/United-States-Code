@@ -6,7 +6,7 @@ The Congress finds the following:
 
 &emsp;(1) Since World War II, Federal nuclear activities have been explicitly recognized under Federal law as activities that are ultra-hazardous. Nuclear weapons production and testing have involved unique dangers, including potential catastrophic nuclear accidents that private insurance carriers have not covered and recurring exposures to radioactive substances and beryllium that, even in small amounts, can cause medical harm.
 
-&emsp;(2) Since the inception of the nuclear weapons program and for several decades afterwards, a large number of nuclear weapons workers at sites of the Department of Energyand at sites of vendors who supplied the Cold War effort were put at risk without their knowledge and consent for reasons that, documents reveal, were driven by fears of adverse publicity, liability, and employee demands for hazardous duty pay.
+&emsp;(2) Since the inception of the nuclear weapons program and for several decades afterwards, a large number of nuclear weapons workers at sites of the Department of Energy and at sites of vendors who supplied the Cold War effort were put at risk without their knowledge and consent for reasons that, documents reveal, were driven by fears of adverse publicity, liability, and employee demands for hazardous duty pay.
 
 &emsp;(3) Many previously secret records have documented unmonitored exposures to radiation and beryllium and continuing problems at these sites across the Nation, at which the Department of Energy and its predecessor agencies have been, since World War II, self-regulating with respect to nuclear safety and occupational safety and health. No other hazardous Federal activity has been permitted to be carried out under such sweeping powers of self-regulation.
 
@@ -144,7 +144,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (i) No later than May 31, 2001, promulgate regulations establishing:
 
-(A) guidelines, pursuant to section 3623(c) of the Act \[42 U.S.C. 7384n(c)\], to assess the likelihood that an individual with cancer sustained the cancer in the performance of duty at a Department of Energy facility or an atomic weapons employer facility, as defined by the Act; and
+(A) guidelines, pursuant to section 3623(c) of the Act \[42 U.S.C. 7384n(c)\], to assess the likelihood that an individual with cancer sustained the cancer in the performance of duty at a Department of Energy facility oran atomic weapons employer facility, as defined by the Act; and
 
 (B) methods, pursuant to section 3623(d) of the Act, for arriving at and providing reasonable estimates of the radiation doses received by individuals applying for assistance under this program for whom there are inadequate records of radiation exposure;
 
@@ -154,7 +154,7 @@ Sec. 2. <i>Designation of Responsibilities for Administering the Energy Employee
 
 (iv) Upon request from the Secretary of Energy, appoint members for a physician panel or panels to consider individual workers' compensation claims as part of the Worker Assistance Program under the process established pursuant to subsection (c)(v); and
 
-(v) Provide the Advisory Board established under section 4 of this order with administrative services, funds, facilities, staff, and other necessary support services and perform the administrative functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), with respect to the Advisory Board.
+(v) Provide the Advisory Board established under section 4 of this order with administrative services, funds, facilities, staff, and other necessary support services and perform the administrative functions of the President under the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], with respect to the Advisory Board.
 
 (c) <i>Secretary of Energy</i>. The Secretary of Energy shall:
 
@@ -204,7 +204,7 @@ Sec. 4. <i>Establishment of Advisory Board on Radiation and Worker Health.</i>
 
 (ii) Advise the Secretary of Health and Human Services on the scientific validity and quality of dose reconstruction efforts performed for this Program; and
 
-(iii) Upon request by the Secretary of Health and Human Services, advise the Secretary on whether there is a class of employees at any Department of Energy facility who were exposed to radiation but for whom it is not feasible to estimate their radiation dose, and onwhether there is a reasonable likelihood that such radiation dose may have endangered the health of members of the class.
+(iii) Upon request by the Secretary of Health and Human Services, advise the Secretary on whether there is a class of employees at any Department of Energy facility who were exposed to radiation but for whom it is not feasible to estimate their radiation dose, and on whether there is a reasonable likelihood that such radiation dose may have endangered the health of members of the class.
 
 Sec. 5. <i>Reporting Requirements</i>. The Secretaries of Labor, Health and Human Services, and Energy shall, as part of their annual budget submissions, report to the Office of Management and Budget (OMB) on their activities under this Program, including total expenditures related to benefits and program administration. They shall also report to the OMB, no later than March 1, 2001, on the manner in which they will carry out their respective responsibilities under the Act and this order. This report shall include, among other things, a description of the administrative structure established within their agencies to implement the Act and this order. In addition, the Secretary of Labor shall annually report on the total number and types of claims for which compensation was considered and other data pertinent to evaluating the Federal Government's performance fulfilling the requirements of the Act and this order.
 
@@ -216,7 +216,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Advisory Board on Radiation and Worker Health
 
-Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of Advisory Board on Radiation and Worker Health were contained in the following prior Executive Orders:
 

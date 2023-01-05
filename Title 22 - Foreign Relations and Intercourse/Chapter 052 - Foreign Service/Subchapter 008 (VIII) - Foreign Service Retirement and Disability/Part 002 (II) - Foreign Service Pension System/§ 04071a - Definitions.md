@@ -76,7 +76,7 @@ As used in this part, unless otherwise specified—
 
 #### References in Text
 
-The Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (3)(A) and (7)(B)(iii)(II), is title II of Pub. L. 98–168, Nov. 29, 1983, 97 Stat. 1106, as amended, which is set out as a note under section 8331 of Title 5, Government Organization and Employees.
+The Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (3)(A) and (7)(B)(iii)(II), is title II of Pub. L. 98–168, Nov. 29, 1983, 97 Stat. 1106, which is set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -94,7 +94,7 @@ Pars. (8) to (11). Pub. L. 113–67, §402(a)(1), added par. (8) and redesignate
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
+Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect tocertain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
 
 #### Effective Date of 1988 Amendment
 

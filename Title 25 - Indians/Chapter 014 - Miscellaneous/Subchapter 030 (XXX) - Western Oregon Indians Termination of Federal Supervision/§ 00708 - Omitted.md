@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, act Aug. 13, 1954, ch. 733, §18, 68 Stat. 728, which authorized the Secretary of the Interior to issue rules and regulations necessary to effectuate the purposes of this subchapter and allowed the Secretary to provide for tribal referenda on matters pertaining to management or disposition of tribal assets, was omitted from the Code as being of special and not general application.
+Section, act Aug. 13, 1954, ch. 733, §18, 68 Stat. 728, which authorized the Secretary of the Interior to issuerules and regulations necessary to effectuate the purposes of this subchapter and allowed the Secretary to provide for tribal referenda on matters pertaining to management or disposition of tribal assets, was omitted from the Code as being of special and not general application.
 

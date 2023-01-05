@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than one year after December 23, 2021, the Secretary of Health and Human Services (referred to in this section as the "Secretary") shall establish and implement a Public-Private Partnership for Neurodegenerative Diseases between the National Institutes of Health, the Food and Drug Administration, and one or more eligible entities (to be known and referred to in this section as the "Partnership") through cooperative agreements, contracts, or other appropriate mechanisms with such eligible entities, for the purpose of advancing the understanding of neurodegenerative diseases and fostering the development of treatments for amytrophic lateral sclerosis and other rare neurodegenerative diseases. The Partnership shall—
+Not later than one year after December 23, 2021, the Secretary of Health and Human Services (referred to in this section as the "Secretary") shall establish and implement a Public-Private Partnership for Neurodegenerative Diseases between the National Institutes of Health, the Food and Drug Administration, and one or more eligible entities (to be known and referredto in this section as the "Partnership") through cooperative agreements, contracts, or other appropriate mechanisms with such eligible entities, for the purpose of advancing the understanding of neurodegenerative diseases and fostering the development of treatments for amytrophic lateral sclerosis and other rare neurodegenerative diseases. The Partnership shall—
 
 &emsp;(1) establish partnerships and consortia with other public and private entities and individuals with expertise in amyotrophic lateral sclerosis and other rare neurodegenerative diseases for the purposes described in this subsection;
 
@@ -40,7 +40,7 @@ In this section, the term "eligible entity" means an entity that—
 
 #### (1) In general
 
-&emsp;The Partnership may solicit and accept gifts, grants, and other donations, establishaccounts, and invest and expend funds in support of basic research and research associated with phase 3 clinical trials conducted with respect to investigational drugs that are the subjects of expanded access requests under section 360bbb of title 21.
+&emsp;The Partnership may solicit and accept gifts, grants, and other donations, establish accounts, and invest and expend funds in support of basic research and research associated with phase 3 clinical trials conducted with respect to investigational drugs that are the subjects of expanded access requests under section 360bbb of title 21.
 
 #### (2) Use
 

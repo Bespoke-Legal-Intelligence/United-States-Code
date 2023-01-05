@@ -102,7 +102,7 @@
 
 #### (5) Consistency with compulsory school attendance laws
 
-&emsp;In providing assistance under this section to an individual who is required to attend school under applicable State compulsory school attendance laws, the priority in providing suchassistance shall be for the individual to attend school regularly.
+&emsp;In providing assistance under this section to an individual who is required to attend school under applicable State compulsory school attendance laws, the priority in providing such assistance shall be for the individual to attend school regularly.
 
 #### (b) Statewide activities
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(D) operating a fiscal and management accountability information system under section 3141(i) of this title;
 
-&emsp;&emsp;(E) carrying out monitoring and oversight of activities carried out under this subpart and subpart 3, which may include a review comparing the services provided to male and female youth; and
+&emsp;&emsp;(E) carrying out monitoring and oversight of activities carried out under this subpart and subpart 3, which may include a reviewcomparing the services provided to male and female youth; and
 
 &emsp;&emsp;(F) providing additional assistance to local areas that have high concentrations of eligible youth.
 
@@ -162,7 +162,7 @@
 
 &emsp;&emsp;(A) provide an objective assessment of the academic levels, skill levels, and service needs of each participant, which assessment shall include a review of basic skills, occupational skills, prior work experience, employability, interests, aptitudes (including interests and aptitudes for nontraditional jobs), supportive service needs, and developmental needs of such participant, for the purpose of identifying appropriate services and career pathways for participants, except that a new assessment of a participant is not required if the provider carrying out such a program determines it is appropriate to use a recent assessment of the participant conducted pursuant to another education or training program;
 
-&emsp;&emsp;(B) develop service strategies for each participant that are directly linked to 1 or more of the indicators of performance described insection 3141(b)(2)(A)(ii) of this title, and that shall identify career pathways that include education and employment goals (including, in appropriate circumstances, nontraditional employment), appropriate achievement objectives, and appropriate services for the participant taking into account the assessment conducted pursuant to subparagraph (A), except that a new service strategy for a participant is not required if the provider carrying out such a program determines it is appropriate to use a recent service strategy developed for the participant under another education or training program;
+&emsp;&emsp;(B) develop service strategies for each participant that are directly linked to 1 or more of the indicators of performance described in section 3141(b)(2)(A)(ii) of this title, and that shall identify career pathways that include education and employment goals (including, in appropriate circumstances, nontraditional employment), appropriate achievement objectives, and appropriate services for the participant taking into account the assessment conducted pursuant to subparagraph (A), except that a new service strategy for a participant is not required if the provider carrying out such a program determines it is appropriate to use a recent service strategy developed for the participant under another education or training program;
 
 &emsp;&emsp;(C) provide—
 

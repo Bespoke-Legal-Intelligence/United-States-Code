@@ -18,7 +18,7 @@ The Secretary shall approve any application or any modification thereof, submitt
 
 &emsp;(2) provides research and planning studies to carry out plans designed to improve State workmen's compensation and occupational disease laws and programs, as they relate to compensation to miners for occupationally caused diseases and injuries arising out of employment in any coal or other mine;
 
-&emsp;(3) designates such State coal or other mine inspection or safety agency as the sole agency responsible for administering grants under this section throughout the State, and contains satisfactory evidence that such agencywill have the authority to carry out the purposes of this section;
+&emsp;(3) designates such State coal or other mine inspection or safety agency as the sole agency responsible for administering grants under this section throughout the State, and contains satisfactory evidence that such agency will have the authority to carry out the purposes of this section;
 
 &emsp;(4) gives assurances that such agency has or will employ an adequate and competent staff of trained inspectors qualified under the laws of such State to make coal or other mine inspections within such State;
 

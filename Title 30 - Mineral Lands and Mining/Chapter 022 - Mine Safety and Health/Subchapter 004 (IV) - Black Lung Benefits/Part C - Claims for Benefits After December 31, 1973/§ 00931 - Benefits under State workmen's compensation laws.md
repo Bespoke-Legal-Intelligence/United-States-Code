@@ -34,7 +34,7 @@ Final regulations required for implementation of any amendments to this part sha
 
 #### References in Text
 
-Public Law 803, 69th Congress, referred to in subsec. (b)(2)(F), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, popularly known as the Longshore and Harbor Workers' Compensation Act, which is classified generally to chapter 18 (§901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classificationof this Act to the Code, see section 901 of Title 33 and Tables.
+Public Law 803, 69th Congress, referred to in subsec. (b)(2)(F), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, popularly known as the Longshore and Harbor Workers' Compensation Act, which is classified generally to chapter 18 (§901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
 
 #### Amendments
 
@@ -44,7 +44,7 @@ Subsec. (b)(2)(A). Pub. L. 95–239, §6(a), added the exceptions set out in cls
 
 Subsec. (b)(2)(C). Pub. L. 95–239, §6(b), substituted "established under this part, and by the regulations of the Secretary promulgated under this part" for "established under part B of this subchapter, and by the regulations of the Secretary of Health, Education, and Welfare promulgated thereunder".
 
-Subsec. (b)(2)(D). Pub. L. 95–239, §6(c), substituted "total disability of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years after a medical determination of total disability due to pneumoconiosis" for "total disability or death of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years of the discovery of total disability due to pneumoconiosis, or the date of such death, as the case may be".
+Subsec. (b)(2)(D). Pub. L. 95–239, §6(c), substituted "total disability of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years after a medical determination of total disability due to pneumoconiosis" for "total disability or death of a miner due to pneumoconiosis is deemed to be timely filed if such claim is filed within three years ofthe discovery of total disability due to pneumoconiosis, or the date of such death, as the case may be".
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–303, §§1(c)(1), 5(3), substituted "widows, children, parents, brothers, or sisters, as the case may be," for "widows" and "1974" for "1973".
 

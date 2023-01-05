@@ -5,7 +5,7 @@ Part B—General Powers and Duties
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 06611 - Transfers from appropriations account for expenses of Office of Sergeant at Arms and Doorkeeper of Senate](%C2%A7%2006611%20-%20Transfers%20from%20appropriations%20account%20for%20expenses%20of%20Office%20of%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md)
+- [&sect; 06611 - Transfer authority and Sergeant at Arms Business Continuity and Disaster Recovery Fund](%C2%A7%2006611%20-%20Transfer%20authority%20and%20Sergeant%20at%20Arms%20Business%20Continuity%20and%20Disaster%20Recovery%20Fund.md)
 - [&sect; 06612 - Travel expenses of Sergeant at Arms and Doorkeeper of Senate](%C2%A7%2006612%20-%20Travel%20expenses%20of%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md)
 - [&sect; 06613 - Advances to Sergeant at Arms of Senate for extraordinary expenses](%C2%A7%2006613%20-%20Advances%20to%20Sergeant%20at%20Arms%20of%20Senate%20for%20extraordinary%20expenses.md)
 - [&sect; 06614 - Funds advanced by Secretary of Senate to Sergeant at Arms and Doorkeeper of Senate to defray office expenses; accountability; maximum&#8230;](%C2%A7%2006614%20-%20Funds%20advanced%20by%20Secretary%20of%20Senate%20to%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%20to%20defray%20office%20expenses%3B%20accountability%3B%20maximum%E2%80%A6.md)

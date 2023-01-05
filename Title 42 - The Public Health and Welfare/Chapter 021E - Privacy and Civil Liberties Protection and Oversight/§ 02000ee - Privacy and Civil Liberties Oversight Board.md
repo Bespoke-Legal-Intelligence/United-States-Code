@@ -108,7 +108,7 @@ The Board shall—
 
 The Board—
 
-&emsp;(1) shall make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with the protection of classified information and applicable law; and
+&emsp;(1) shall make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with theprotection of classified information and applicable law; and
 
 &emsp;(2) shall hold public hearings and otherwise inform the public of its activities, as appropriate and in a manner consistent with the protection of classified information and applicable law, but may, notwithstanding section 552b of title 5, meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public.
 
@@ -168,15 +168,25 @@ The Board—
 
 #### (4) Term
 
-&emsp;Each member of the Board shall serve a term of 6 years, except that—
+#### (A) Commencement
 
-&emsp;&emsp;(A) a member appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term; and
+&emsp;&emsp;Each member of the Board shall serve a term of 6 years, commencing on the date of the appointment of the member to the Board.
 
-&emsp;&emsp;(B) upon the expiration of the term of office of a member, the member shall continue to serve until the member's successor has been appointed and qualified, except that no member may serve under this subparagraph—
+#### (B) Reappointment
 
-&emsp;&emsp;&emsp;(i) for more than 60 days when Congress is in session unless a nomination to fill the vacancy shall have been submitted to the Senate; or
+&emsp;&emsp;A member may be reappointed to one or more additional terms.
 
-&emsp;&emsp;&emsp;(ii) after the adjournment sine die of the session of the Senate in which such nomination is submitted.
+#### (C) Vacancy
+
+&emsp;&emsp;A vacancy on the Board shall be filled in the manner in which the original appointment was made.
+
+#### (D) Extension
+
+&emsp;&emsp;Upon the expiration of the term of office of a member, the member may continue to serve for up to one year after the date of expiration, at the election of the member—
+
+&emsp;&emsp;&emsp;(i) during the period preceding the reappointment of the member pursuant to subparagraph (B); or
+
+&emsp;&emsp;&emsp;(ii) until the member's successor has been appointed and qualified.
 
 #### (5) Quorum and meetings
 
@@ -232,7 +242,7 @@ The Board—
 
 &emsp;(1) is an agency (as defined in section 551(1) of title 5); and
 
-&emsp;(2) is not an advisory committee (as defined in section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.)).
+&emsp;(2) is not an advisory committee (as defined in section 1001(2) of title 5).
 
 #### (m) Authorization of appropriations
 
@@ -248,7 +258,7 @@ There are authorized to be appropriated to carry out this section amounts as fol
 
 &emsp;(5) For fiscal year 2012 and each subsequent fiscal year, such sums as may be necessary.
 
-(Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, §305, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 115–118, title I, §108, Jan. 19, 2018, 132 Stat. 15.)
+(Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, §305, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 115–118, title I, §108, Jan. 19, 2018, 132 Stat. 15; Pub. L. 117–263, div. F, title LXVIII, §6801, Dec. 23, 2022, 136 Stat. 3586; Pub. L. 117–286, §4(a)(259), Dec. 27, 2022, 136 Stat. 4334.)
 
 #### <b>Editorial Notes</b>
 
@@ -256,13 +266,23 @@ There are authorized to be appropriated to carry out this section amounts as fol
 
 Section 5703 of title 5, referred to in subsec. (i)(2), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (l)(2), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 
 Section was formerly set out as a note under section 601 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h)(4). Pub. L. 117–263, §6801, amended par. (4) generally. Prior to amendment, text read as follows: "Each member of the Board shall serve a term of 6 years, except that—
+
+&emsp;"(A) a member appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term; and
+
+&emsp;"(B) upon the expiration of the term of office of a member, the member shall continue to serve until the member's successor has been appointed and qualified, except that no member may serve under this subparagraph—
+
+&emsp;&emsp;"(i) for more than 60 days when Congress is in session unless a nomination to fill the vacancy shall have been submitted to the Senate; or
+
+&emsp;&emsp;"(ii) after the adjournment sine die of the session of the Senate in which such nomination is submitted."
+
+Subsec. (l)(2). Pub. L. 117–286 substituted "section 1001(2) of title 5)." for "section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.))."
 
 <b>2018</b>—Subsec. (f). Pub. L. 115–118, §108(b)(1), substituted "The Board" for "The Board shall" in introductory provisions.
 
@@ -402,7 +422,7 @@ Sec. 4. <i>Membership and Operation</i>. The Board shall consist exclusively of 
 
 (u) such other officers of the United States as the Deputy Attorney General may from time to time designate.
 
-A member of the Board may designate, to perform the Board or Board subgroup functions of the member, any person who is part of such member's department or agency and who is either (i) an officer of the United States appointed by the President, or (ii) a member of the Senior Executive Service or the Senior Intelligence Service. The Chair, after consultation with the Vice Chair, shall convene and preside at meetings of the Board, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct subgroups of the Board that shall consist exclusively of members of the Board. The Chair may invite, in his discretion, officers or employees of other departments or agencies to participate in thework of the Board. The Chair shall convene the first meeting of the Board within 20 days after the date of this order and shall thereafter convene meetings of the Board at such times as the Chair, after consultation with the Vice Chair, deems appropriate. The Deputy Attorney General shall designate an official of the Department of Justice to serve as the Executive Director of the Board.
+A member of the Board may designate, to perform the Board or Board subgroup functions of the member, any person who is part of such member's department or agency and who is either (i) an officer of the United States appointed by the President, or (ii) a member of the Senior Executive Service or the Senior Intelligence Service. The Chair, after consultation with the Vice Chair, shall convene and preside at meetings of the Board, determine its agenda, direct its work, and, as appropriate to deal with particular subject matters, establish and direct subgroups of the Board that shall consist exclusively of members of the Board. The Chair may invite, in his discretion, officers or employees of other departments or agencies to participate in the work of the Board. The Chair shall convene the first meeting of the Board within 20 days after the date of this order and shall thereafter convene meetings of the Board at such times as the Chair, after consultation with the Vice Chair, deems appropriate. The Deputy Attorney General shall designate an official of the Department of Justice to serve as the Executive Director of the Board.
 
 Sec. 5. <i>Cooperation</i>. To the extent permitted by law, all Federal departments and agencies shall cooperate with the Board and provide the Board with such information, support, and assistance as the Board, through the Chair, may request.
 

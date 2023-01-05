@@ -10,7 +10,7 @@ Exceptions.—
 
 &emsp;(1)
 
-Regulations.—Under regulations of the Secretary governing the payment for transportation and service and preventing discrimination, those carriers may give up possession at destination of property transported by them before payment for the transportation or service. The regulations of the Secretary mayprovide for weekly or monthly payment for transportation provided by motor carriers and for periodic payment for transportation provided by water carriers.
+Regulations.—Under regulations of the Secretary governing the payment for transportation and service and preventing discrimination, those carriers may give up possession at destination of property transported by them before payment for the transportation or service. The regulations of the Secretary may provide for weekly or monthly payment for transportation provided by motor carriers and for periodic payment for transportation provided by water carriers.
 
 &emsp;(2)
 

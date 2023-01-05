@@ -154,7 +154,7 @@ In this section:
 
 &emsp;&emsp;(B) with respect to National Forest System land, apply the extraordinary circumstances procedures under section 220.6 of title 36, Code of Federal Regulations (or successor regulations), in determining whether to use the categorical exclusion;
 
-&emsp;&emsp;(C) with respect to public land, apply the extraordinary circumstances proceduresunder section 46.215 of title 43, Code of Federal Regulations (or successor regulations), in determining whether to use the categorical exclusion; and
+&emsp;&emsp;(C) with respect to public land, apply the extraordinary circumstances procedures under section 46.215 of title 43, Code of Federal Regulations (or successor regulations), in determining whether to use the categorical exclusion; and
 
 &emsp;&emsp;(D) consider—
 

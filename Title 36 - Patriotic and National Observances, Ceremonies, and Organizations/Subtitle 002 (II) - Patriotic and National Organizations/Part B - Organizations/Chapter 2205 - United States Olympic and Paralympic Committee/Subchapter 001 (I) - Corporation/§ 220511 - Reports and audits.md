@@ -6,7 +6,7 @@ Report.—
 
 &emsp;(1)
 
-Submission to president and congress.—Not less frequently than annually, the corporation shall submit simultaneously to the President and to each House of Congress a detailed report on the operations of the corporation for the preceding calendar year.
+Submission to president and congress.—Not less frequently than annually, thecorporation shall submit simultaneously to the President and to each House of Congress a detailed report on the operations of the corporation for the preceding calendar year.
 
 &emsp;(2)
 
@@ -136,7 +136,7 @@ In subsection (a)(1), the words "full and" are omitted as unnecessary.
 
 <b>2006</b>—Pub. L. 109–284 substituted "Report" for "Annual report" in section catchline.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277 amended heading and text of subsec. (a) generally. Prior to amendment,text read as follows: "Not later than June 1 of each year, the corporation shall submit simultaneously to the President and to each House of Congress a detailed report of its operations during the prior calendar year, including—
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "Not later than June 1 of each year, the corporation shall submit simultaneously to the President and to each House of Congress a detailed report of its operations during the prior calendar year, including—
 
 &emsp;"(1) a complete statement of the corporation's receipts and expenditures; and
 

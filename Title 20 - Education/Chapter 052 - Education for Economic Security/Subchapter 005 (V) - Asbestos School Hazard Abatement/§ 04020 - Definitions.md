@@ -52,7 +52,7 @@ Par. (5)(A). Pub. L. 114–95, §9215(dd)(2)(B), added subpar. (A) and struck ou
 
 <b>2002</b>—Par. (4)(A). Pub. L. 107–110, §1076(l)(2)(A), which directed amendment of subpar. (A) by substituting in the original "9101" for "198(a)(10)", was executed by substituting "section 7801 of this title" for "section 8801 of this title", to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(1), which had substituted "14101" for "198(a)(10)" in the original. See 1994 Amendment note below.
 
-Par. (5)(A). Pub. L. 107–110, §1076(l)(2)(B), which directed amendment of subpar. (A) by substituting in theoriginal "9101" for "198(a)(7)", was executed by substituting "section 7801 of this title" for "section 8801 of this title", to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(2), which had substituted "14101" for "198(a)(7)" in the original. See 1994 Amendment note below.
+Par. (5)(A). Pub. L. 107–110, §1076(l)(2)(B), which directed amendment of subpar. (A) by substituting in the original "9101" for "198(a)(7)", was executed by substituting "section 7801 of this title" for "section 8801 of this title", to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(2), which had substituted "14101" for "198(a)(7)" in the original. See 1994 Amendment note below.
 
 <b>1994</b>—Par. (4)(A). Pub. L. 103–382, §394(c)(1), substituted "section 8801 of this title" for "section 198(a)(10) of the Elementary and Secondary Education Act of 1965".
 

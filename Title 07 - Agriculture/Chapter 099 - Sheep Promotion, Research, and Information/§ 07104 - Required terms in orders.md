@@ -42,7 +42,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 | Michigan | 1&nbsp;&nbsp;&nbsp; |
 | Minnesota | 2&nbsp;&nbsp;&nbsp; |
 | Mississippi | 1&nbsp;&nbsp;&nbsp; |
-| Missouri | 1&nbsp;&nbsp;&nbsp; |
+| Missouri | 1    |
 | Montana | 5&nbsp;&nbsp;&nbsp; |
 | Nebraska | 1&nbsp;&nbsp;&nbsp; |
 | Nevada | 1&nbsp;&nbsp;&nbsp; |
@@ -57,7 +57,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 | Oregon | 2&nbsp;&nbsp;&nbsp; |
 | Pennsylvania | 1&nbsp;&nbsp;&nbsp; |
 | Rhode Island | 1&nbsp;&nbsp;&nbsp; |
-| South Carolina | 1    |
+| South Carolina | 1&nbsp;&nbsp;&nbsp; |
 | South Dakota | 4&nbsp;&nbsp;&nbsp; |
 | Tennessee | 1&nbsp;&nbsp;&nbsp; |
 | Texas | 10&nbsp;&nbsp;&nbsp; |
@@ -235,11 +235,11 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) Plans or projects
 
-&emsp;&emsp;The Executive Committee shall develop plans or projects of promotion, research, consumer information, education, industry information, and producer information, which shall be paid for with assessments collected by the Board. The plans or projects shall not become effective until the plans or projects are approved by the Secretary.
+&emsp;&emsp;The Executive Committee shall develop plans or projects of promotion, research,consumer information, education, industry information, and producer information, which shall be paid for with assessments collected by the Board. The plans or projects shall not become effective until the plans or projects are approved by the Secretary.
 
 #### (B) Budgets
 
-&emsp;&emsp;The Executive Committee shall be responsible for developing and submitting to the Board, for the approval of the Board, budgets, on a fiscal year basis, of the anticipatedexpenses and disbursements of the Board, including probable costs of promotion, research, consumer information, education, industry information, and producer information projects. The Board shall approve or disapprove a budget submitted by the Executive Committee, and, if approved, shall submit the budget to the Secretary for the approval of the Secretary.
+&emsp;&emsp;The Executive Committee shall be responsible for developing and submitting to the Board, for the approval of the Board, budgets, on a fiscal year basis, of the anticipated expenses and disbursements of the Board, including probable costs of promotion, research, consumer information, education, industry information, and producer information projects. The Board shall approve or disapprove a budget submitted by the Executive Committee, and, if approved, shall submit the budget to the Secretary for the approval of the Secretary.
 
 #### (4) Terms
 
@@ -339,7 +339,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) In general
 
-&emsp;&emsp;The order shall provide that any person importing sheep or sheep product, and any person importing wool or products containing wool, into the United States shall pay an assessment to the Board in the manner prescribed by the order, except that thisparagraph shall not apply to raw wool that is imported into the United States.
+&emsp;&emsp;The order shall provide that any person importing sheep or sheep product, and any person importing wool or products containing wool, into the United States shall pay an assessment to the Board in the manner prescribed by the order, except that this paragraph shall not apply to raw wool that is imported into the United States.
 
 #### (B) Collection
 
@@ -435,7 +435,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the order shall prohibit any funds collected by the Board under the order from being used in any manner for the purpose of influencing legislation or government action or policy.
+&emsp;Except as provided in paragraph (2), the order shall prohibit any funds collected by theBoard under the order from being used in any manner for the purpose of influencing legislation or government action or policy.
 
 #### (2) Exceptions
 
@@ -443,7 +443,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;&emsp;(A) the development and recommendation to the Secretary of amendments to the order; or
 
-&emsp;&emsp;(B) the communication to appropriate government officials, in response to a request made by the officials, of information relating to the conduct, implementation, or results of promotion, research, consumer information, education, industry information,or producer information activities under the order.
+&emsp;&emsp;(B) the communication to appropriate government officials, in response to a request made by the officials, of information relating to the conduct, implementation, or results of promotion, research, consumer information, education, industry information, or producer information activities under the order.
 
 #### (3) False or misleading claims
 

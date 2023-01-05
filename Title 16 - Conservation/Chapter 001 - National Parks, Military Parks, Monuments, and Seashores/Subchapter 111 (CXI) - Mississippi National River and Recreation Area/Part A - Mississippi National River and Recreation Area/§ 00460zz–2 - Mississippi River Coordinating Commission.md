@@ -56,7 +56,7 @@ Members of the Commission shall serve without pay. While away from their homes o
 
 #### (d) Chairperson
 
-The Chairperson of the Commission shall be appointed by the Secretary from among the members of the Commission nominated by the Governor of Minnesota and shall serve for a term of three years.
+The Chairperson of the Commission shall be appointed by the Secretary from among themembers of the Commission nominated by the Governor of Minnesota and shall serve for a term of three years.
 
 #### (e) Quorum
 
@@ -110,11 +110,11 @@ Within 3 years after appointment of the full membership of the Commission, the C
 
 #### (j) Development of plan
 
-(1) In developing the plan the Commission shall consult on a regular basis with appropriateofficials of any local government or Federal or State agency which has jurisdiction over lands and waters within the Area.
+(1) In developing the plan the Commission shall consult on a regular basis with appropriate officials of any local government or Federal or State agency which has jurisdiction over lands and waters within the Area.
 
 (2) In developing the plan the Commission shall consult with interested conservation, business, professional and citizen organizations.
 
-(3) In developing the plan the Commission shall conduct public hearings within the Area, and at such other places as may be appropriate, for the purposes of providing interested persons with the opportunity to testify with respect to matters to be addressed by the plan.
+(3) In developing the plan the Commission shall conduct public hearings within the Area, and at such other places as may be appropriate, for the purposes of providing interested personswith the opportunity to testify with respect to matters to be addressed by the plan.
 
 #### (k) Approval of plan
 

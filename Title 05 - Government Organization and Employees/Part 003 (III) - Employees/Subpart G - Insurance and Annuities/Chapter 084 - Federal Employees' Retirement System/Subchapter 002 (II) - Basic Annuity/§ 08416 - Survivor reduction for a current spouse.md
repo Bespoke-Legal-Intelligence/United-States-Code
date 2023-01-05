@@ -2,7 +2,7 @@
 
 (a)(1) If an employee or Member is married at the time of retiring under this chapter, the reduction described in section 8419(a) shall be made unless the employee or Member and the spouse jointly waive, by written election, any right which the spouse may have to a survivor annuity under section 8442 based on the service of such employee or Member. A waiver under this paragraph shall be filed with the Office under procedures prescribed by the Office.
 
-(2) Notwithstanding paragraph (1), an employee or Member who is married at the time of retiring under this chapter may waive the annuity for a surviving spouse without the spouse's consent if the employee or Member establishes to the satisfaction of the Office (in accordance with regulations prescribed by the Office)—
+(2) Notwithstanding paragraph (1), an employee or Member who is married at the time of retiring under this chapter may waive the annuity for a surviving spouse without the spouse'sconsent if the employee or Member establishes to the satisfaction of the Office (in accordance with regulations prescribed by the Office)—
 
 &emsp;(A) that the spouse's whereabouts cannot be determined; or
 

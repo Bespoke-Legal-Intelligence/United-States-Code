@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Board
 
-Within 120 days after October 15, 1990, the Secretary, after consulting with representatives of trade and technical associations of the metal casting industry, shall establish an Industrial Advisory Board (hereafter in this chapter referred to as the "Board") to provide guidanceand oversight in implementing the selection criteria and operation of the program. The Board shall be composed of nine members who are selected by the Secretary, a majority of whom shall be individuals from the metal casting industry or individuals affiliated with the industry. At least one member of the Board shall be chosen from each of the four census regions of the country. Each Board member shall serve for a term not to exceed five years, but may be reappointed for successive terms.
+Within 120 days after October 15, 1990, the Secretary, after consulting with representatives of trade and technical associations of the metal casting industry, shall establish an Industrial Advisory Board (hereafter in this chapter referred to as the "Board") to provide guidance and oversight in implementing the selection criteria and operation of the program. The Board shall be composed of nine members who are selected by the Secretary, a majority of whom shall be individuals from the metal casting industry or individuals affiliated with the industry. At least one member of the Board shall be chosen from each of the four census regions of the country. Each Board member shall serve for a term not to exceed five years, but may be reappointed for successive terms.
 
 #### (b) Review and recommendations
 
@@ -20,5 +20,5 @@ Within 120 days after October 15, 1990, the Secretary, after consulting with rep
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

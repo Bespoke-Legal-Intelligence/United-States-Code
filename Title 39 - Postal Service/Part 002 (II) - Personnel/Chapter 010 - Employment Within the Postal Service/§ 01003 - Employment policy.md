@@ -1,22 +1,22 @@
 ### §1003. Employment policy
 
-(a) Except as provided under chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978, or other provision of law, the Postal Service shall classify and fix the compensation and benefits of all officers and employees in the Postal Service. It shall be the policy of the Postal Service to maintain compensation and benefits for all officers and employees on a standard of comparability to the compensation and benefits paid for comparable levels of work in the private sector of the economy. No officer or employee shall be paid compensation at a rate in excess of the rate for level I of the Executive Schedule under section 5312 of title 5.
+(a) Except as provided under chapters 2 and 12 of this title, section 415 of title 5, or other provision of law, the Postal Service shall classify and fix the compensation and benefits of all officers and employees in the Postal Service. It shall be the policy of the Postal Service to maintain compensation and benefits for all officers and employees on a standard of comparability to the compensation and benefits paid for comparable levels of work in the private sector of the economy. No officer or employee shall be paid compensation at a rate in excess of the rate for level I of the Executive Schedule under section 5312 of title 5.
 
-(b) Compensation and benefits for all officers and employees serving in or under the Office of Inspector General of the United States Postal Service shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the respective Offices of Inspector General of the various establishments named in section 11(2) <sup>1</sup> of the Inspector General Act of 1978.
+(b) Compensation and benefits for all officers and employees serving in or under the Office of Inspector General of the United States Postal Service shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the respective Offices of Inspector General of the various establishments named in section 401(1) of title 5.
 
-(c) Compensation and benefits for all Postal Inspectors shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the executive branch of the Government outside of the Postal Service. As used in this subsection, the term "Postal Inspector" included <sup>2</sup> any agent to whom any investigative powers are granted under section 3061 of title 18.
+(c) Compensation and benefits for all Postal Inspectors shall be maintained on a standard of comparability to the compensation and benefits paid for comparable levels of work in the executive branch of the Government outside of the Postal Service. As used in this subsection, the term "Postal Inspector" included <sup>1</sup> any agent to whom any investigative powers are granted under section 3061 of title 18.
 
 (d) The Postal Service shall follow an employment policy designed, without compromising the policy of section 101(a) of this title, to extend opportunity to the disadvantaged and the handicapped.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 730; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(c)(2)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 730; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §662(c)(2)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–380; Pub. L. 117–286, §4(b)(65), Dec. 27, 2022, 136 Stat. 4350.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Sections 8G and 11(2) of the Inspector General Act of 1978, referred to in subsecs. (a) and (b), are sections 8G and 11(2) of Pub. L. 95–452, which are set out in the Appendix to Title 5, Government Organization and Employees. Section 11(2) of the Act was renumbered section 12(2) by Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–286, §4(b)(65)(A), substituted "section 415 of title 5," for "section 8G of the Inspector General Act of 1978,".
+
+Subsec. (b). Pub. L. 117–286, §4(b)(65)(B), substituted "section 401(1) of title 5." for "section 11(2) of the Inspector General Act of 1978."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–208, §101(f) \[title VI, §662(c)(2)(B)\], substituted "chapters 2 and 12 of this title, section 8G of the Inspector General Act of 1978," for "chapters 2 and 12 of this title".
 
@@ -42,7 +42,7 @@ Pub. L. 91–375, §9, Aug. 12, 1970, 84 Stat. 784, provided that:
 
 > Such retroactive pay, compensation, or salary shall not be considered as basic pay for the purposes of subchapter III of chapter 83 of title 5, United States Code \[section 8331 et seq. of Title 5\], relating to civil service retirement, or any other retirement law or retirement system, in the case of any such retired or deceased officer or employee.
 
-"(c) \[<i>Period for Restoration to Government Position, as Service</i>\] For the purposes of this section, service in the Armed Forces of the United States, in the case of an individual relieved from training and service in the Armed Forces of the United States or discharged from hospitalization following such training and service, shall include the period provided by law for the mandatory restoration of such individual to a position in or under the Government of the United States.
+"(c) \[<i>Period for Restoration to Government Position, as Service</i>\] For the purposes of this section, service in theArmed Forces of the United States, in the case of an individual relieved from training and service in the Armed Forces of the United States or discharged from hospitalization following such training and service, shall include the period provided by law for the mandatory restoration of such individual to a position in or under the Government of the United States.
 
 "(d) \[<i>Group Life Insurance; Amount; Effective Date</i>\] For purposes of determining the amount of insurance for which an individual is eligible under chapter 87 of title 5, United States Code \[section 8701 et seq. of Title 5\], relating to group life insurance for Government employees, all changes in rates of pay, compensation, and salary which result from the enactment of this section shall be held and considered to become effective as of the date of such enactment \[Aug. 12, 1970\].
 
@@ -50,7 +50,5 @@ Pub. L. 91–375, §9, Aug. 12, 1970, 84 Stat. 784, provided that:
 
 \[Provisions of section 9 of Pub. L. 91–375 effective Aug. 12, 1970, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of this title.\]
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "includes".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "includes".</i>
 

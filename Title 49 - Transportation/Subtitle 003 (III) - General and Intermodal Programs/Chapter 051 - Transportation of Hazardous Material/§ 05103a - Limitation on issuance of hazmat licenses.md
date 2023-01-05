@@ -72,7 +72,7 @@ Employer notification.—Not later than 90 days after the date of enactment of t
 
 &emsp;&emsp;&emsp;(i) such notification is appropriate considering the potential security implications; and
 
-&emsp;&emsp;&emsp;(ii) the Director, in a final notification of threat assessment,<sup>2</sup> served on the applicant <sup>2</sup> determines that the applicant doesnot meet the standards set forth in regulations issued to carry out this section.
+&emsp;&emsp;&emsp;(ii) the Director, in a final notification of threat assessment,<sup>2</sup> served on the applicant <sup>2</sup> determines that the applicant does not meet the standards set forth in regulations issued to carry out this section.
 
 &emsp;&emsp;(B)
 
@@ -149,6 +149,8 @@ Commercial motor vehicle defined.—In this subsection, the term "commercial mot
 #### <b>Editorial Notes</b>
 
 #### References in Text
+
+With respect to a "transportation security card issued under section 70105 of title 46", referred to in subsec. (a)(1)(B), amendments made by Pub. L. 117–263 to section 70105 of Title 46, Shipping, are such that section 70105 now refers to "transportation worker identification credential" rather than "transportation security card". See section 70105 of Title 46.
 
 Section 101(a)(3) of the Immigration and Nationality Act, referred to in subsec. (f), is classified to section 1101(a)(3) of Title 8, Aliens and Nationality.
 

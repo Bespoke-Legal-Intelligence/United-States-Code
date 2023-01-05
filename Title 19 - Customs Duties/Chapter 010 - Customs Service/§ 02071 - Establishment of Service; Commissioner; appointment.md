@@ -30,7 +30,7 @@ References to the Bureau of Prohibition and to the Commissioner of Prohibition w
 
 #### Change of Name
 
-Reference to Commissioner of Customs deemed to be reference to Commissioner of U.S. Customs and Border Protection pursuant to section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
+Reference to Commissioner of Customs deemed to be reference to Commissioner of U.S. Customs and Border Protection pursuant to section 802(d)(2) of Pub. L.114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 #### Effective Date
 

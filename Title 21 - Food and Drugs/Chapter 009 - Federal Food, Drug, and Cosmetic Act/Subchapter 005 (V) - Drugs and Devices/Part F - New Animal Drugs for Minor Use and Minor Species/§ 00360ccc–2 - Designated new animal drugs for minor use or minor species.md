@@ -2,7 +2,7 @@
 
 #### (a) Designation
 
-(1) The manufacturer or the sponsor of a new animal drug for a minor use or use in a minor species may request that the Secretary declare that drug a "designated new animal drug". A request for designation of a new animal drug shall be made before the submission of an application under section 360b(b) of this title or section 360ccc of this title for the new animal drug.
+(1) The manufacturer or the sponsor of a new animal drug for a minor use or use in a minorspecies may request that the Secretary declare that drug a "designated new animal drug". A request for designation of a new animal drug shall be made before the submission of an application under section 360b(b) of this title or section 360ccc of this title for the new animal drug.
 
 (2) The Secretary may declare a new animal drug a "designated new animal drug" if—
 

@@ -1,6 +1,6 @@
 ### §1461. Rules and regulations governing inspection and copying
 
-Nothing in sections 1460 to 1463 of this title shall be construed to limit or restrict in any manner the authority of the Secretary of the Interior to prescribe such rules and regulations as he may deem proper governing the inspection of the records of said department and its various bureaus by the general public, and any person having any particular interest in any of such records may be permitted to take copies of such records under such rules and regulations as may be prescribed by the Secretary of the Interior.
+Nothing in sections 1460 to 1463 of this title shall be construed to limit or restrict in any manner the authority of the Secretary of the Interior to prescribe such rules and regulations as he may deem proper governing the inspection of the records of said department and its various bureaus by the general public, and any person having any particular interest in any of suchrecords may be permitted to take copies of such records under such rules and regulations as may be prescribed by the Secretary of the Interior.
 
 (Aug. 24, 1912, ch. 370, §2, 37 Stat. 498.)
 
@@ -8,7 +8,7 @@ Nothing in sections 1460 to 1463 of this title shall be construed to limit or re
 
 #### Codification
 
-Section was formerly classified to section 489 of Title 5 prior to the general revision and enactment of Title5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 489 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### <b>Executive Documents</b>
 

@@ -116,7 +116,7 @@ During the term of a contract entered into under the program established under t
 
 #### (2) Contract offers and payments
 
-&emsp;The Secretary shall use the method of determination described in section 3834(d) of this title to determine the acceptability of contract offers and the amount of rental payments under this section.
+&emsp;The Secretary shall use the method of determination described in section 3834(d) of thistitle to determine the acceptability of contract offers and the amount of rental payments under this section.
 
 #### (3) Incentives
 

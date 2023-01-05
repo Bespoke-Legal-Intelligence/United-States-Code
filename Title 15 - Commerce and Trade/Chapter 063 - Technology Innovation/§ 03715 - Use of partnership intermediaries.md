@@ -30,7 +30,7 @@ Subsec. (b) of this section, which required the Secretary to include in each tri
 
 <b>2000</b>—Subsec. (a)(1). Pub. L. 106–404, §9(1), inserted ", institutions of higher education as defined in section 1141(a) of title 20, or educational institutions within the meaning of section 2194 of title 10" after "small business firms".
 
-Subsec. (c). Pub. L. 106–404, §9(2), inserted ", institutions of higher education as defined in section 1141(a) of title 20, or educational institutions within the meaning of section 2194 of title 10," after "small business firms".
+Subsec. (c). Pub. L. 106–404, §9(2), inserted ", institutions of higher education as defined in section1141(a) of title 20, or educational institutions within the meaning of section 2194 of title 10," after "small business firms".
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–190 inserted "that is not a laboratory (as defined in section 3710a(d)(2) of this title)" after "center" in introductory provisions.
 

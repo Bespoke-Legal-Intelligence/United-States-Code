@@ -1,6 +1,6 @@
 ### §316<i>o</i>. Laws applicable
 
-Laws now applicable to lands or resources in the Territory of Alaska shall continue in force and effect to the same extent and in the same manner after March 4, 1927, as before, and nothing in this subchapter shall preclude or prevent ingress or egress upon the lands in districts for any purpose authorized by any such law, including prospecting for and extraction of minerals.
+Laws now applicable to lands or resources in the Territory of Alaska shall continue in force and effect to the same extent and in the same manner after March 4, 1927, as before, and nothing in this subchapter shall preclude or preventingress or egress upon the lands in districts for any purpose authorized by any such law, including prospecting for and extraction of minerals.
 
 (Mar. 4, 1927, ch. 513, §16, 44 Stat. 1455.)
 

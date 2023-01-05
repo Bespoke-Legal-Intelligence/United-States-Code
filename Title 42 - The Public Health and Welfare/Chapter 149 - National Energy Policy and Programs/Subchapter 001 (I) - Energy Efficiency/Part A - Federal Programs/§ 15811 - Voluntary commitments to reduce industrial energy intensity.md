@@ -18,7 +18,7 @@ The Secretary, in cooperation with other appropriate Federal agencies, shall dev
 
 #### (e) Technical assistance
 
-A person that enters into an agreement under this section and continues to make a good faitheffort to achieve the energy efficiency goals specified in the agreement shall be eligible to receive from the Secretary a grant or technical assistance, as appropriate, to assist in the achievement of those goals.
+A person that enters into an agreement under this section and continues to make a good faith effort to achieve the energy efficiency goals specified in the agreement shall be eligible to receive from the Secretary a grant or technical assistance, as appropriate, to assist in the achievement of those goals.
 
 #### (f) Report
 

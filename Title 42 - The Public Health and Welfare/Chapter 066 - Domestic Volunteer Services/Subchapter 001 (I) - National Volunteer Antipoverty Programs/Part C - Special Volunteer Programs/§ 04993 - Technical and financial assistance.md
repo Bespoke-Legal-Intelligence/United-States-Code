@@ -8,7 +8,7 @@ The Director may provide technical and financial assistance to Federal agencies,
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–82 amended section generally, substituting single sentence authorizing technical and financial assistance for former subsecs. (a) and (b) which contained similar general authority and provisions detailing use of the general authority.
+<b>1993</b>—Pub. L. 103–82 amended section generally, substituting single sentence authorizing technical and financial assistance for former subsecs. (a) and (b) whichcontained similar general authority and provisions detailing use of the general authority.
 
 <b>1989</b>—Pub. L. 101–204 designated existing provisions as subsec. (a) and added subsec. (b).
 

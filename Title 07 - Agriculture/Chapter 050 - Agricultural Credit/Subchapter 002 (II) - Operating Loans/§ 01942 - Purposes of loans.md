@@ -24,7 +24,7 @@ A direct loan (including a microloan, as defined by the Secretary) may be made u
 
 &emsp;&emsp;(A) has refinanced a loan under this subchapter not more than 4 times previously; and
 
-&emsp;&emsp;(B)(i) is a direct loan borrower under this chapter at the time of the refinancing and has suffered a qualifying loss because of a natural disaster declared by the Secretary under this chapter or a major disaster or emergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); or
+&emsp;&emsp;(B)(i) is a direct loan borrower under this chapter at the time of the refinancing and has suffered a qualifying loss because of a natural disaster declared by the Secretary under this chapter or a major disaster oremergency designated by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); or
 
 &emsp;&emsp;(ii) is refinancing a debt obtained from a creditor other than the Secretary; or
 
@@ -96,7 +96,7 @@ A loan may be guaranteed under this subchapter only for—
 
 This chapter, referred to in subsecs. (a)(9)(B)(i) and (d)(1), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(9)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(9)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
 

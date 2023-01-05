@@ -64,7 +64,7 @@ For purposes of this subchapter:
 
 #### (6) Pacific Island and Asian Americans
 
-&emsp;The term "Pacific Island and Asian Americans" means Americans having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands.
+&emsp;The term "Pacific Island and Asian Americans" means Americans having origins in anyof the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands.
 
 #### (7) Program
 
@@ -128,5 +128,5 @@ Amendment by Pub. L. 116–131 effective 1 year after Mar. 25, 2020, see section
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014\(July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 

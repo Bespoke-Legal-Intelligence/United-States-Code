@@ -6,7 +6,7 @@ In issuing an order under this chapter, an amendment to an order, or a regulatio
 
 #### (b) Formal agency action
 
-Sections 556 and 557 of that title shall not apply with respect to the issuance of an order, an amendment to an order, or a regulation under this chapter.
+Sections 556 and 557 of that title shall not apply with respect to the issuance of an order,an amendment to an order, or a regulation under this chapter.
 
 #### (c) Proposal of an order
 

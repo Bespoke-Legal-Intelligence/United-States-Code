@@ -14,7 +14,7 @@ Laws to be included.—A provision of law described in subsection (b) shall be i
 
 &emsp;(3)
 
-Other authorities or responsibilities not affected.—This section does not modify, supersede, impair, or restrict authorities or responsibilities under—
+Other authorities or responsibilities not affected.—This section does not modify,supersede, impair, or restrict authorities or responsibilities under—
 
 &emsp;&emsp;(A) section 15 of the Small Business Act (15 U.S.C. 644); or
 
@@ -51,8 +51,6 @@ Historical and Revision Notes
 41:431(a), (b).
 
 Pub. L. 93–400, §35(a), (b), as added Pub. L. 104–106, title XLII, §4203(a), Feb. 10, 1996, 110 Stat. 654; Pub. L. 105–85, title X, §1073(g)(2)(C), Nov. 18, 1997, 111 Stat. 1906.
-
-#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -16,7 +16,7 @@ Any Indian tribe which became subject to State jurisdiction pursuant to the prov
 
 &emsp;(iv) the feasibility of the plan in cases of multitribal occupation of a single reservation or geographic area.
 
-(2) In those cases where the Secretary determines that the jurisdictional provisions of section 1911(a) of this title are not feasible, he is authorized to accept partial retrocession which will enable tribes to exercise referral jurisdiction as provided in section 1911(b) of this title, or, where appropriate, will allow them to exercise exclusive jurisdiction as provided in section1911(a) of this title over limited community or geographic areas without regard for the reservation status of the area affected.
+(2) In those cases where the Secretary determines that the jurisdictional provisions of section 1911(a) of this title are not feasible, he is authorized to accept partial retrocession which will enable tribes to exercise referral jurisdiction as provided in section 1911(b) of this title, or, where appropriate, will allow them to exercise exclusive jurisdiction as provided in section 1911(a) of this title over limited community or geographic areas without regard for the reservation status of the area affected.
 
 #### (c) Approval of petition; publication in Federal Register; notice; reassumption period; correction of causes for disapproval
 
@@ -32,5 +32,5 @@ Assumption of jurisdiction under this section shall not affect any action or pro
 
 #### References in Text
 
-Act of August 15, 1953, referred to in subsec. (a), is act Aug. 15, 1953, ch. 505, 67 Stat. 588, as amended, which enacted section 1162 of Title 18, Crimes and Criminal Procedure, section 1360 of Title 28, Judiciary and Judicial Procedure, and provisions set out as notes under section 1360 of Title 28. For complete classification of this Act to the Code, see Tables.
+Act of August 15, 1953, referred to in subsec. (a), is act Aug. 15, 1953, ch. 505, 67 Stat. 588, which enacted section 1162 of Title 18, Crimes and Criminal Procedure, section 1360 of Title 28, Judiciary and Judicial Procedure, and provisions set out as notes under section 1360 of Title 28. For complete classification of this Act to the Code, see Tables.
 

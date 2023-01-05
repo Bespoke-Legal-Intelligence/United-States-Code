@@ -62,7 +62,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (i) Countries in which the United States is actively promoting religious freedom
 
-&emsp;&emsp;&emsp;An identification of foreign countries in which the United States is actively promoting religious freedom. This section of the report shall include a description of United States actions taken to promotethe internationally recognized right to freedom of religion and oppose violations of such right under title IV and title V of this Act during the period covered by the Annual Report. Any country designated as a country of particular concern for religious freedom under section 6442(b)(1)(A)(ii) of this title shall be included in this section of the report. Any country in which a non-state actor designated as an entity of particular concern for religious freedom under section 6442a of this title is located shall be included in this section of the report.
+&emsp;&emsp;&emsp;An identification of foreign countries in which the United States is actively promoting religious freedom. This section of the report shall include a description of United States actions taken to promote the internationally recognized right to freedom of religion and oppose violations of such right under title IV and title V of this Act during the period covered by the Annual Report. Any country designated as a country of particular concern for religious freedom under section 6442(b)(1)(A)(ii) of this title shall be included in this section of the report. Any country in which a non-state actor designated as an entity of particular concern for religious freedom under section 6442a of this title is located shall be included in this section of the report.
 
 #### (ii) Countries of significant improvement in religious freedom
 
@@ -76,7 +76,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 &emsp;&emsp;&emsp;(ii) to the extent practicable, the efforts of the United States Government over the reporting period to partner with European law enforcement agencies and civil society groups regarding the sharing of information and best practices to combat anti-Semitic incidents in Europe;
 
-&emsp;&emsp;&emsp;(iii) European educational programming and public awareness initiatives that aim to collaborate on educational curricula and campaigns that impart shared values of pluralism and tolerance, and showcase the positive contributions of Jews in culture, scholarship, science, and art, with special attention to those segments of the population that exhibit a high degree of anti-Semitic animus; and
+&emsp;&emsp;&emsp;(iii) European educational programming and public awareness initiatives that aim to collaborate on educational curricula and campaigns that impart shared values of pluralism and tolerance, and showcase the positive contributions of Jews in culture, scholarship, science, and art, with special attention to those segments of thepopulation that exhibit a high degree of anti-Semitic animus; and
 
 &emsp;&emsp;&emsp;(iv) efforts by European governments to adopt and apply a working definition of anti-Semitism.
 

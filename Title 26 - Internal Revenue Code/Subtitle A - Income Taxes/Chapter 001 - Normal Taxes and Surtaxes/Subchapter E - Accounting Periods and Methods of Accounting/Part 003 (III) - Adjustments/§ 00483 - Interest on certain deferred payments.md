@@ -64,7 +64,7 @@ For purposes of this section, the term "total unstated interest" means, with res
 
 #### (2) Qualified sale
 
-&emsp;For purposes of this subsection, the term "qualified sale" means any sale or exchange ofland by an individual to a member of such individual's family (within the meaning of section 267(c)(4)).
+&emsp;For purposes of this subsection, the term "qualified sale" means any sale or exchange of land by an individual to a member of such individual's family (within the meaning of section 267(c)(4)).
 
 #### (3) $500,000 limitation
 
@@ -124,7 +124,7 @@ Subsec. (d). Pub. L. 98–369 amended subsec. (d) generally, substituting provis
 
 Subsec. (e). Pub. L. 98–369 amended subsec. (e) generally, substituting provisions relating to interest rates in case of sale of principal residence or farm land for provision relating to changes in terms of contract.
 
-Subsec. (f). Pub. L. 98–369 amended subsec. (f) generally, substituting provisions relating to maximum rate of interest on certain transfers of land between related parties for provisions which related to exceptionsand limitations now covered in subsec. (d) of this section.
+Subsec. (f). Pub. L. 98–369 amended subsec. (f) generally, substituting provisions relating to maximum rate of interest on certain transfers of land between related parties for provisions which related to exceptions and limitations now covered in subsec. (d) of this section.
 
 Subsec. (g). Pub. L. 98–369 amended subsec. (g) generally, substituting provisions which related to calling for the promulgation of regulations by the Secretary for provisions which related to the maximum rate of interest on certain transfers of land between related parties now covered in subsec. (f) of this section.
 

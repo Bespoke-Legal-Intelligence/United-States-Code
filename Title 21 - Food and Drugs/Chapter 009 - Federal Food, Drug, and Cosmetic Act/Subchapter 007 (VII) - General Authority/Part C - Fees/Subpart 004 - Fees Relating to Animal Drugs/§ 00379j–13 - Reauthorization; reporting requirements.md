@@ -16,7 +16,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 #### (1) Consultation
 
-&emsp;In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for the process for the review of animal drug applications for the first 5 fiscal years after fiscal year 2023, andfor the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+&emsp;In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for the process for the review of animal drug applications for the first 5 fiscal years after fiscal year 2023, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
 &emsp;&emsp;(A) the Committee on Health, Education, Labor, and Pensions of the Senate;
 
@@ -112,7 +112,7 @@ Pub. L. 115–234, title I, §107(b), Aug. 14, 2018, 132 Stat. 2432, provided th
 
 Pub. L. 113–14, title I, §107(b), June 13, 2013, 127 Stat. 464, which provided that section 740A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–13) would cease to be effective Jan. 31, 2019, was repealed by Pub. L. 115–234, title I, §107(c), Aug. 14, 2018, 132 Stat. 2432, effective Oct. 1, 2018.
 
-Section effective Oct. 1, 2008, with fees under this subpart to be assessed for all animal drug applications and supplemental animal drug applications received on orafter Oct. 1, 2008, see section 107 of Pub. L. 110–316, set out as an Effective and Termination Dates of 2008 Amendment note under section 379j–11 of this title.
+Section effective Oct. 1, 2008, with fees under this subpart to be assessed for all animal drug applications and supplemental animal drug applications received on or after Oct. 1, 2008, see section 107 of Pub. L. 110–316, set out as an Effective and Termination Dates of 2008 Amendment note under section 379j–11 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

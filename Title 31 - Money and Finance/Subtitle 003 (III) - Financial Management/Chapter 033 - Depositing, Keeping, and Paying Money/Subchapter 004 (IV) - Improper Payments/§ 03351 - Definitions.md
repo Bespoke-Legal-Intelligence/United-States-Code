@@ -84,7 +84,7 @@ Sec. 2. <i>Transparency and Public Participation</i>.
 
 &emsp;(ii) establish, in coordination with the executive department or agency (agency) responsible for administering the high-priority program annual or semi-annual targets (or where such targets already exist, supplemental targets), as appropriate, for reducing improper payments associated with each high-priority program;
 
-&emsp;(iii) issue Government-wide guidance on the implementation of this order, including procedures foridentifying and publicizing the list of entities described in subsection (b)(v) of this section and for administrative appeal of the decision to publish the identity of those entities, prior to publication; and
+&emsp;(iii) issue Government-wide guidance on the implementation of this order, including procedures for identifying and publicizing the list of entities described in subsection (b)(v) of this section and for administrative appeal of the decision to publish the identity of those entities, prior to publication; and
 
 &emsp;(iv) establish a working group consisting of Federal, State, and local officials to make recommendations to the Director of OMB designed to improve the Federal Government's measurement of access to Federal programs by the programs' intended beneficiaries. The working group's recommendations shall be prepared in consultation with the Council of Inspectors General on Integrity and Efficiency (CIGIE) and submitted within 180 days of the date of this order, and the recommended measurements may be incorporated by the Secretary of the Treasury in the information published pursuant to subsection (b) of this section.
 

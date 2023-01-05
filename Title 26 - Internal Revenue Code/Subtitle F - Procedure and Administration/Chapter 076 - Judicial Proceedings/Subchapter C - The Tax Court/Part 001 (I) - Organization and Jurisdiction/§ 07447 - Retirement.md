@@ -47,7 +47,7 @@ At or after his retirement, any individual who has elected to receive retired pa
 
 Any individual who—
 
-&emsp;(1) retires under paragraph (1), (2), or (3) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period as the number of years he has served as judge bears to 10; except that the rate of suchretired pay shall not be more than the rate of such salary for such period; or
+&emsp;(1) retires under paragraph (1), (2), or (3) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period as the number of years he has served as judge bears to 10; except that the rate of such retired pay shall not be more than the rate of such salary for such period; or
 
 &emsp;(2) retires under paragraph (4) of subsection (b) and elects under subsection (e) to receive retired pay under this subsection shall receive retired pay during any period at a rate—
 
@@ -127,7 +127,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 &emsp;&emsp;(B) no deduction for purposes of the Civil Service Retirement and Disability Fund shall be made from retired pay payable to him under subsection (d) or from any other salary, pay, or compensation payable to him, for any period beginning after the day on which such election is filed; and
 
-&emsp;&emsp;(C) such individual shall be paid the lump-sum credit computed under section 8331(8) of title 5 of the United States Code upon making application therefor with the Office of Personnel Management.
+&emsp;&emsp;(C) such individual shall be paid the lump-sum credit computed under sections 8331(8) and 8401(19) of title 5 of the United States Code upon making application therefor with the Office of Personnel Management.
 
 #### (h) Retirement for disability
 
@@ -143,7 +143,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (2) Manner of revoking
 
-&emsp;Any revocation under this subsection shall be made by filing a notice thereof in writing with the Civil Service Commission. The Civil Service Commission shall transmit to the chief judge a copy of each notice filed under this subsection.
+&emsp;Any revocation under this subsection shall be made by filing a notice thereof in writing with the Office of Personnel Management. The Office of Personnel Management shall transmit to the chief judge a copy of each notice filed under this subsection.
 
 #### (3) Effect of revocation
 
@@ -187,7 +187,7 @@ In the case of an individual for whom an election to receive retired pay under s
 
 #### (B) Contributions for benefit of judge
 
-&emsp;&emsp;No contributions may be made for the benefit of a judge under section 8432(c) of title 5, United States Code.
+&emsp;&emsp;No contributions under section 8432(c) of title 5, United States Code, shall be made for the benefit of a judge who has filed an election to receive retired pay under subsection (e).
 
 #### (C) Applicability of section 8433(b) of title 5 whether or not judge retires
 
@@ -207,11 +207,33 @@ In the case of an individual for whom an election to receive retired pay under s
 
 &emsp;&emsp;Notwithstanding subparagraph (C), if any judge retires under this section, or resigns without having met the age and service requirements set forth under subsection (b)(2), and such judge's nonforfeitable account balance is less than an amount that the Executive Director of the Federal Retirement Thrift Investment Board prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016; Pub. L. 113–295, div. A, title II, §221(a)(115), Dec. 19, 2014, 128 Stat. 4054.)
+#### (F) Offset
+
+&emsp;&emsp;In the case of a judge who receives a distribution from the Thrift Savings Plan and who later receives retired pay under subsection (d), the retired pay shall be offset by an amount equal to the amount of the distribution which represents the Government's contribution to the individual's Thrift Savings Account during years of service as a full-time judicial officer under the Federal Employees Retirement System, without regard to earnings attributable to such amount. Where such an offset would exceed 50 percent of the retired pay to be received in the first year, the offset may be divided equally over the first 2 years in which the individual receives the annuity.
+
+#### (k) Teaching compensation of retired judges
+
+For purposes of the limitation under section 501(a) of the Ethics in Government Act of 1978 (5 U.S.C. App.),<sup>1</sup> any compensation for teaching approved under section 502(a)(5) of such Act shall not be treated as outside earned income when received by a judge of the United States Tax Court who has retired under subsection (b) for teaching performed during any calendar year for which such a judge has met the requirements of subsection (c), as certified by the chief judge, or has retired under subsection (b)(4).
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 880; Pub. L. 89–354, §1, Feb. 2, 1966, 80 Stat. 5; Pub. L. 91–172, title IX, §§954, 960(c), (d), Dec. 30, 1969, 83 Stat. 730, 734; Pub. L. 92–41, §4(a), July 1, 1971, 85 Stat. 99; Pub. L. 95–472, §1, Oct. 17, 1978, 92 Stat. 1332; Pub. L. 97–362, title I, §106(d), Oct. 25, 1982, 96 Stat. 1730; Pub. L. 99–514, title XV, §1557(a), (b), (d), Oct. 22, 1986, 100 Stat. 2756, 2757; Pub. L. 100–647, title I, §1015(k)(1), Nov. 10, 1988, 102 Stat. 3571; Pub. L. 109–280, title VIII, §853(a), Aug. 17, 2006, 120 Stat. 1016; Pub. L. 113–295, div. A, title II, §221(a)(115), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 117–328, div. T, title VII, §701(a)(1), (2), (c)(1), (d)(1), Dec. 29, 2022, 136 Stat. 5398, 5401.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Sections 501(a) and 502(a)(5) of the Ethics in Government Act of 1978, referred to in subsec. (k), are sections 501(a) and 502(a)(5) of Pub. L. 95–521, which were set out in the Appendix to Title 5, Government Organization and Employees, and were repealed and restated as sections 13143(a) and 13144(a)(5), respectively, of Title 5 by Pub. L. 117–286, §§3(c), 7, Dec. 27, 2022, 136 Stat. 4303, 4304, 4361.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (g)(2)(C). Pub. L. 117–328, §701(c)(1)(A), substituted "sections 8331(8) and 8401(19)" for "section 8331(8)".
+
+Subsec. (i)(2). Pub. L. 117–328, §701(c)(1)(B), substituted "Office of Personnel Management" for "Civil Service Commission" in two places.
+
+Subsec. (j)(3)(B). Pub. L. 117–328, §701(a)(1), amended subpar. (B) generally. Prior to amendment, text read as follows: "No contributions may be made for the benefit of a judge under section 8432(c) of title 5, United States Code."
+
+Subsec. (j)(3)(F). Pub. L. 117–328, §701(a)(2), added subpar. (F).
+
+Subsec. (k). Pub. L. 117–328, §701(d)(1), added subsec. (k).
 
 <b>2014</b>—Subsec. (i)(3)(B)(ii). Pub. L. 113–295 substituted "at 3 percent per annum" for "at 4 percent per annum to December 31, 1947, and 3 percent per annum thereafter".
 
@@ -255,7 +277,7 @@ Subsec. (g)(1). Pub. L. 91–172, §954(e)(2), substituted "civil service retire
 
 Subsec. (g)(2). Pub. L. 91–172, §954(c), substituted provisions that any individual electing to receive retirement pay under subsec. (d) of this section is not to receive any payment under the civil service retirement laws, and no deduction is to be made for the Civil Service Retirement and Disability Fund, and a lump-sum credit computed under section 8331(8) of Title 5 is to be paid, for provisions which enumerated the effects and conditions of electing retirement pay under former subsec. (d) of this section.
 
-Subsec. (g)(3). Pub. L. 91–172, §954(c), struck out par. (3) which enumerated the conditions and effects ofwaiving civil service benefits in lieu of retirement pay under former subsec. (d) of this section.
+Subsec. (g)(3). Pub. L. 91–172, §954(c), struck out par. (3) which enumerated the conditions and effects of waiving civil service benefits in lieu of retirement pay under former subsec. (d) of this section.
 
 Subsec. (g)(4). Pub. L. 91–172, §954(c), struck out par. (4) which provided that the fourth and sixth paragraphs of section 6 of the Civil Service Retirement Act would be applicable to retirement pay accruing under subsec. (d) of this section.
 
@@ -264,6 +286,14 @@ Subsec. (h). Pub. L. 91–172, §954(d), added subsec. (h).
 <b>1966</b>—Subsec. (d). Pub. L. 89–354 substituted "during any period at a rate which bears the same ratio to the rate of the salary payable to a judge during such period" for "at a rate which bears the same ratio to the rate of the salary payable to him as judge at the time he ceases to be a judge" and "the rate of such salary for such period" for "the rate of such salary" wherever appearing.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. T, title VII, §701(a)(3), Dec. 29, 2022, 136 Stat. 5398, provided that: "The amendments made by this subsection \[amending this section\] shall apply to basic pay earned while serving as a judge of the United States Tax Court on or after the date of the enactment of this Act \[Dec. 29, 2022\]."
+
+Pub. L. 117–328, div. T, title VII, §701(d)(2), Dec. 29, 2022, 136 Stat. 5402, provided that: "The amendment made by this subsection \[amending this section\] shall apply to any individual serving as a retired judge of the United States Tax Court on or after the date of the enactment of this Act \[Dec. 29, 2022\]."
+
+Pub. L. 117–328, div. T, title VII, §701(e), Dec. 29, 2022, 136 Stat. 5402, provided that: "Except as otherwise provided, the amendments made by this section \[amending this section and section 7448 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 29, 2022\]."
 
 #### Effective Date of 2014 Amendment
 
@@ -322,4 +352,6 @@ Pub. L. 95–472, §2(b), Oct. 17, 1978, 92 Stat. 1333, as amended by Pub. L. 99
 #### Transfer of Functions
 
 Functions vested by statute in United States Civil Service Commission or Chairman thereof transferred to Director of Office of Personnel Management (except as otherwise specified) by Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

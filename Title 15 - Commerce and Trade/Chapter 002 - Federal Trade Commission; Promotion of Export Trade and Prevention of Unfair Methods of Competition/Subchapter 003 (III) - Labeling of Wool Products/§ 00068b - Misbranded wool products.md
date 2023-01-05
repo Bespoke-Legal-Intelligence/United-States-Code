@@ -90,7 +90,7 @@ For the purposes of this subchapter, a wool product shall be considered to be fa
 
 #### (f) Location of label, etc.
 
-For purposes of this subchapter, any wool product shall be misbranded if a stamp, tag, label, or other identification conforming to the requirements of this section is not on or affixed to the inside center of the neck midway between the shoulder seams or, if such product does not contain a neck, in the most conspicuous place on the inner side of such product, unless it is on or affixed on the outer side of such product or in the case of hosiery items, on the outer side of such product or package.
+For purposes of this subchapter, any wool product shall be misbranded if a stamp, tag, label, or other identification conforming to the requirements of this section is not on or affixed to the inside center of the neck midway between the shoulder seams or, if such product does not contain a neck, in the most conspicuous place on the inner side of such product, unless it is onor affixed on the outer side of such product or in the case of hosiery items, on the outer side of such product or package.
 
 (Oct. 14, 1940, ch. 871, §4, 54 Stat. 1129; Pub. L. 96–242, §2, May 5, 1980, 94 Stat. 344; Pub. L. 98–417, title III, §§304, 305, Sept. 24, 1984, 98 Stat. 1604; Pub. L. 109–428, §2(a), Dec. 20, 2006, 120 Stat. 2913.)
 

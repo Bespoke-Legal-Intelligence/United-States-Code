@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Historical park
 
-&emsp;The term "Historical Park" means the Ocmulgee Mounds National Historical Park inthe State of Georgia, as redesignated by subsection (b)(1)(A).
+&emsp;The term "Historical Park" means the Ocmulgee Mounds National Historical Park in the State of Georgia, as redesignated by subsection (b)(1)(A).
 
 #### (2) Map
 

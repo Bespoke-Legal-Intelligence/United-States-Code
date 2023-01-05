@@ -44,7 +44,7 @@ For purposes of this section, the term "net precontribution gain" means the net 
 
 &emsp;&emsp;<b>For treatment of marketable securities as money for purposes of this section, see section 731(c).</b>
 
-(Added Pub. L. 102–486, title XIX, §1937(a), Oct. 24, 1992, 106 Stat. 3032; amended Pub. L. 103–465, title VII, §741(b), Dec. 8, 1994, 108 Stat. 5009; Pub.L. 104–188, title I, §1704(j)(8), Aug. 20, 1996, 110 Stat. 1882; Pub. L. 105–34, title X, §1063(a), Aug. 5, 1997, 111 Stat. 947.)
+(Added Pub. L. 102–486, title XIX, §1937(a), Oct. 24, 1992, 106 Stat. 3032; amended Pub. L. 103–465, title VII, §741(b), Dec. 8, 1994, 108 Stat. 5009; Pub. L. 104–188, title I, §1704(j)(8), Aug. 20, 1996, 110 Stat. 1882; Pub. L. 105–34, title X, §1063(a), Aug. 5, 1997, 111 Stat. 947.)
 
 #### <b>Editorial Notes</b>
 
@@ -62,7 +62,7 @@ Subsec. (e). Pub. L. 103–465, §741(b)(2), added subsec. (e).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to property contributed to a partnership after June 8, 1997, but not applicable to any property contributed pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such contribution if such contract provides for the contribution of a fixed amount of property, see section 1063(b) of Pub. L. 105–34, set out as a note under section 704 of this title.
+Amendment by Pub. L. 105–34 applicable to property contributed to a partnership after June 8, 1997, but not applicable to any property contributed pursuant to awritten binding contract in effect on June 8, 1997, and at all times thereafter before such contribution if such contract provides for the contribution of a fixed amount of property, see section 1063(b) of Pub. L. 105–34, set out as a note under section 704 of this title.
 
 #### Effective Date of 1994 Amendment
 

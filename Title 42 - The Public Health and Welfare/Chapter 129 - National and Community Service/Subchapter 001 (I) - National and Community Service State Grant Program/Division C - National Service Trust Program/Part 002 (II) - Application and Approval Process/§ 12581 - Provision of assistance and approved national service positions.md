@@ -68,7 +68,7 @@ The Corporation may not approve positions as approved national service positions
 
 #### (1) Sponsorship authorized
 
-&emsp;The Corporation may enter into agreements with persons or entities who offer to sponsor national service positions for which the personor entity will be responsible for supplying the funds necessary to provide a national service educational award. The distribution of those approved national service positions shall be made pursuant to the agreement, and the creation of those positions shall not be taken into consideration in determining the number of approved national service positions to be available for distribution under this section.
+&emsp;The Corporation may enter into agreements with persons or entities who offer to sponsor national service positions for which the person or entity will be responsible for supplying the funds necessary to provide a national service educational award. The distribution of those approved national service positions shall be made pursuant to the agreement, and the creation of those positions shall not be taken into consideration in determining the number of approved national service positions to be available for distribution under this section.
 
 #### (2) Deposit of contribution
 

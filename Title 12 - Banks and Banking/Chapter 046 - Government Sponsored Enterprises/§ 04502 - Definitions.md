@@ -46,7 +46,7 @@ For purposes of this chapter:
 
 #### (7) Core capital
 
-&emsp;The term "core capital" means, with respect to an enterprise, the sum of the following (asdetermined in accordance with generally accepted accounting principles):
+&emsp;The term "core capital" means, with respect to an enterprise, the sum of the following (as determined in accordance with generally accepted accounting principles):
 
 &emsp;&emsp;(A) The par or stated value of outstanding common stock.
 

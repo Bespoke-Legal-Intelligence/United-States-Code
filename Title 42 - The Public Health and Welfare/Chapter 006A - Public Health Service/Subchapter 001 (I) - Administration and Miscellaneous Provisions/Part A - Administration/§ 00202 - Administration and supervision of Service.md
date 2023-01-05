@@ -38,7 +38,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 2. Performance of Transferred Functions
 
-The Secretary may from time to time make such provisions as he shall deem appropriate authorizing theperformance of any of the functions transferred to him by the provisions of this reorganization plan by any officer, employee, or agency of the Public Health Service or of the Department of Health, Education, and Welfare.
+The Secretary may from time to time make such provisions as he shall deem appropriate authorizing the performance of any of the functions transferred to him by the provisions of this reorganization plan by any officer, employee, or agency of the Public Health Service or of the Department of Health, Education, and Welfare.
 
 #### Sec. 3. Abolitions
 
@@ -142,7 +142,7 @@ In summary, the reorganization plan would:
 
 &emsp;Transfer to the Secretary of Health, Education, and Welfare the functions now vested in the Surgeon General of the Public Health Service and in its various subordinate units (this transfer will not affect certain statutory advisory bodies such as the National Advisory Cancer and Heart Councils);
 
-&emsp;Abolish the four principal statutory components of the Public Health Service, including the offices held by their heads (the Bureau of Medical Services, the Bureau of State Services, the National Institutes of Health exclusive of its several research institutes such as the National Cancer and Heart Institutes, and the Office of the Surgeon General); and
+&emsp;Abolish the four principal statutory components of the Public Health Service, including the offices held by their heads (the Bureau of Medical Services, the Bureau of State Services, the National Institutes ofHealth exclusive of its several research institutes such as the National Cancer and Heart Institutes, and the Office of the Surgeon General); and
 
 &emsp;Authorize the Secretary to assign the functions transferred to him by the plan to officials and entities of the Public Health Service and to other agencies of the Department as he deems appropriate.
 
@@ -206,7 +206,7 @@ Sec. 5. All actions heretofore taken by appropriate authority with respect to th
 
 Sec. 6. As used in this order, the term "functions" embraces duties, powers, responsibilities, authority, or discretion, and the term "perform" may be construed to mean "exercise".
 
-Sec. 7. (a) Executive Order No. 10506 of December 10, 1953, entitled "Delegating Certain Functions of thePresident under the Public Health Service Act," is hereby superseded.
+Sec. 7. (a) Executive Order No. 10506 of December 10, 1953, entitled "Delegating Certain Functions of the President under the Public Health Service Act," is hereby superseded.
 
 (b) Executive Orders Nos. 9993 of August 31, 1948, 10031 of January 26, 1949, 10280 of August 16, 1951, 10354 of May 26, 1952, and 10497 of October 27, 1953, which prescribed regulations relating to commissioned officers and employees of the Public Health Service, are hereby revoked. Nothing in this subsection shall be deemed to alter or otherwise affect the regulations prescribed by the Surgeon General (42 CFR Parts 21 and 22) to replace the regulations prescribed by the orders described in the preceding sentence.
 

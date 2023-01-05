@@ -64,5 +64,5 @@ Subsecs. (c) to (f). Pub. L. 96–464 added subsecs. (c) to (f).
 
 #### Regulations
 
-Pub. L. 96–464, §9(b), Oct. 17, 1980, 94 Stat. 2066, provided that: "Within two hundred and seventy days after the date of the enactment of this Act \[Oct. 17, 1980\], the Secretary of Commerce shall issue such regulations as may be necessary or appropriate to administer section 312 of the Coastal Zone Management Act of 1972 (as amended by subsection (a) of this section) \[this section\]."
+Pub. L. 96–464, §9(b), Oct. 17, 1980, 94 Stat. 2066, provided that: "Within two hundred and seventy days afterthe date of the enactment of this Act \[Oct. 17, 1980\], the Secretary of Commerce shall issue such regulations as may be necessary or appropriate to administer section 312 of the Coastal Zone Management Act of 1972 (as amended by subsection (a) of this section) \[this section\]."
 

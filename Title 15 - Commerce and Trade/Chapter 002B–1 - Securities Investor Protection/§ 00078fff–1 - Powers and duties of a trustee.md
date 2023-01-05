@@ -30,7 +30,7 @@ The trustee shall—
 
 &emsp;(2) examine, by deposition or otherwise, the directors and officers of the debtor and any other witnesses concerning any of the matters referred to in paragraph (1);
 
-&emsp;(3) report to the court any facts ascertained by the trustee with respect to fraud, misconduct, mismanagement, and irregularities, and to any causes of action available to the estate; and
+&emsp;(3) report to the court any facts ascertained by the trustee with respect to fraud, misconduct, mismanagement, and irregularities,and to any causes of action available to the estate; and
 
 &emsp;(4) as soon as practicable, prepare and submit, to SIPC and such other persons as the court designates and in such form and manner as the court directs, a statement of his investigation of matters referred to in paragraph (1).
 

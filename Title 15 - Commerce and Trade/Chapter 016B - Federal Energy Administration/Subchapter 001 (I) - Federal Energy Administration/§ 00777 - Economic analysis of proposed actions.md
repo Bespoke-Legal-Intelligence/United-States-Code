@@ -28,7 +28,7 @@ The Administrator shall develop analyses of the economic impact of various conse
 
 #### (c) Explicit analyses; interagency cooperation; other review and cause of action provisions
 
-Such analyses shall, wherever possible, be made explicit, and to the extent possible, otherFederal agencies and agencies of State and local governments which have special knowledge and expertise relevant to the impact of proposed regulatory or other actions shall be consulted in making the analyses and all Federal agencies are authorized and directed to cooperate with the Administrator in preparing such analyses: <i>Provided</i>, That the Administrator's actions pursuant to this section shall not create any right of review or cause of action except as would otherwise exist under other provisions of law.
+Such analyses shall, wherever possible, be made explicit, and to the extent possible, other Federal agencies and agencies of State and local governments which have special knowledge and expertise relevant to the impact of proposed regulatory or other actions shall be consulted in making the analyses and all Federal agencies are authorized and directed to cooperate with the Administrator in preparing such analyses: <i>Provided</i>, That the Administrator's actions pursuant to this section shall not create any right of review or cause of action except as would otherwise exist under other provisions of law.
 
 #### (d) Monitoring economic impact of energy actions; report and recommendations to Congress
 

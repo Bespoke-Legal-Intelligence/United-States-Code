@@ -112,7 +112,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;&emsp;"(C) from the time at which the basis of the protest is known to the time of filing in each tribunal; and
 
-&emsp;&emsp;"(D) in the case of an appeal from a decision of the United States Court of Federal Claims, fromthe date of the initial filing of the appeal to decision in the appeal;
+&emsp;&emsp;"(D) in the case of an appeal from a decision of the United States Court of Federal Claims, from the date of the initial filing of the appeal to decision in the appeal;
 
 &emsp;"(4) the number of protests where performance was stayed or enjoined and for how long;
 

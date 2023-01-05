@@ -102,7 +102,7 @@ Goals.—The goals of the accelerated implementation and deployment of advanced 
 
 &emsp;&emsp;(C)
 
-Publication.—The reporting requirements for the accelerated implementation and deployment of advanced digital construction management systems program established under section 503(c)(5) of title 23 shall include data and analysis collected under this section.
+Publication.—The reporting requirements for the accelerated implementation and deployment of advanced digital construction management systems program established under section 503(c)(5) of title 23shall include data and analysis collected under this section.
 
 (c)
 
@@ -282,7 +282,7 @@ Definitions.—In this subsection—
 
 &emsp;&emsp;(B) the terms "direct carbon emissions" and "low or no emission vehicle" have the meanings given those terms in subsection (e)(6);
 
-&emsp;&emsp;(C) the term "institution of higher education" has the meaning given the term insection 102 of the Higher Education Act of 1965 (20 U.S.C. 1002); and
+&emsp;&emsp;(C) the term "institution of higher education" has the meaning given the term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002); and
 
 &emsp;&emsp;(D) the term "low or no emission vehicle component" means an item that is separately installed in and removable from a low or no emission vehicle.
 
@@ -334,7 +334,7 @@ Voluntary testing.—A manufacturer of a low or no emission vehicle component is
 
 &emsp;&emsp;(F)
 
-Compliance with section 5318.—Notwithstanding whether a low or no emission vehicle component is assessed at a facility selected under subparagraph (A), each new bus model shall comply with the requirements under section 5318.
+Compliance with section 5318.—Notwithstanding whether a low or no emissionvehicle component is assessed at a facility selected under subparagraph (A), each new bus model shall comply with the requirements under section 5318.
 
 &emsp;&emsp;(G)
 
@@ -394,7 +394,7 @@ Federal assistance.—The Secretary may make grants to, and enter into cooperati
 
 &emsp;(4)
 
-Government share of costs.—If there would be a clear and direct financial benefit to an entity under a grant or contract financedunder this subsection, the Secretary shall establish a Government share consistent with that benefit.
+Government share of costs.—If there would be a clear and direct financial benefit to an entity under a grant or contract financed under this subsection, the Secretary shall establish a Government share consistent with that benefit.
 
 &emsp;(5)
 
@@ -516,7 +516,7 @@ Subsec. (f). Pub. L. 114–94, §3008(a)(6)(A), redesignated subsec. (f) relatin
 
 Pub. L. 114–94, §3008(a)(2), redesignated subsec. (e) relating to annual report on research as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 114–94, §3008(a)(6)(A), redesignated subsec. (f) relating to annual report on research as (g), inserted heading and introductory provisions, and struck out former heading and introductory provisions. Prior to amendment, text read as follows: "Not laterthan the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—".
+Subsec. (g). Pub. L. 114–94, §3008(a)(6)(A), redesignated subsec. (f) relating to annual report on research as (g), inserted heading and introductory provisions, and struck out former heading and introductory provisions. Prior to amendment, text read as follows: "Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—".
 
 Pub. L. 114–94, §3008(a)(2), redesignated subsec. (f) relating to government share of costs as (g).
 

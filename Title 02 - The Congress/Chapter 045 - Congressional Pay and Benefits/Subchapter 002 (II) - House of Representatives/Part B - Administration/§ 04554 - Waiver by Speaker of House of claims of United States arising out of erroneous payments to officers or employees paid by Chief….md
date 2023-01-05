@@ -18,7 +18,7 @@ The Speaker of the House may not exercise his authority under this section to wa
 
 #### (d) Credit for waiver
 
-In the audit and settlement of the accounts of any accountable officer or official, full credit shall be given for any amounts with respect to which collection by the United States is waived under this section.
+In the audit and settlement of the accounts of any accountable officer or official, full creditshall be given for any amounts with respect to which collection by the United States is waived under this section.
 
 #### (e) Effect of waiver
 

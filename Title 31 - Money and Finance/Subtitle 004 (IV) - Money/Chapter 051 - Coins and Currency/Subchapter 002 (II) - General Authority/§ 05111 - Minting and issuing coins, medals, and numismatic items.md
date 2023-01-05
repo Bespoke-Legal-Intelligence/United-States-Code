@@ -36,7 +36,7 @@ In general.—Any determination of the Secretary referred to in paragraph (2) sh
 
 &emsp;&emsp;(B)
 
-Other rights unaffected.—This paragraph does not alter or annul any right of review that arises under any provision of any law or regulation of the United States other than paragraph (2).
+Other rights unaffected.—This paragraph does not alter or annul any right of review that arises under any provision of anylaw or regulation of the United States other than paragraph (2).
 
 &emsp;(4) Nothing in paragraph (2) of this subsection in any way affects the procurement by the Secretary of gold and silver for the production of coins by the United States Mint.
 
@@ -44,7 +44,7 @@ Other rights unaffected.—This paragraph does not alter or annul any right of r
 
 (2) A person knowingly violating an order or license issued or regulation prescribed under paragraph (1) of this subsection, shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
-(3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforceforfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
+(3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 100–274, §3, Mar. 31, 1988, 102 Stat. 49; Pub. L. 102–390, title II, §222, Oct. 6, 1992, 106 Stat. 1629.)
 
@@ -148,7 +148,7 @@ In subsection (d)(1), the words "prohibit or limit" are substituted for "prohibi
 
 In subsection (d)(2), the word "person" is substituted for "Whoever" for consistency in the revised title.
 
-In subsection (d)(3), the words "and his delegates" are omitted as unnecessary because of the power of the Secretary to delegate under section 321(b) of the revised title. The word "remedies" is substituted for "judicial and other remedies available to the United States" to eliminate unnecessary words. The words "of property subject to forfeiture pursuant to subsection (a) of this section" and "for the enforcement of forfeitures of property subject to forfeiture under any provision of title 26" are omitted as unnecessary because of the restatement.
+In subsection (d)(3), the words "and his delegates" are omitted as unnecessary because of the power of the Secretary to delegate under section 321(b) of the revised title. The word "remedies" is substituted for "judicial and other remedies available to the United States" to eliminate unnecessary words. The words "ofproperty subject to forfeiture pursuant to subsection (a) of this section" and "for the enforcement of forfeitures of property subject to forfeiture under any provision of title 26" are omitted as unnecessary because of the restatement.
 
 #### <b>Editorial Notes</b>
 
@@ -172,6 +172,22 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 117–334, Jan. 5, 2023, 136 Stat. 6140, recognizing Emmett Till and Mamie Till-Mobley for heroic actions in the midst of evil, injustice, and grief that became a catalyst for the civil rights movement.
+
+Pub. L. 117–328, div. AA, title VII, Dec. 29, 2022, 136 Stat. 5549, recognizing Benjamin Berell Ferencz for his service to the United States and international community during the post-World War II Nuremberg trials and lifelong advocacy for international criminal justice and rule of law.
+
+Pub. L. 117–320, Dec. 27, 2022, 136 Stat. 4426, recognizing the 53 hostages of the Iran Hostage Crisis of 1979–1981 for their bravery and endurance throughout their captivity.
+
+Pub. L. 117–256, Dec. 21, 2022, 136 Stat. 2368, recognizing Glen Doherty, J. Christopher Stevens, Sean Smith, and Tyrone Woods, killed in the attack on the United States consulate in Benghazi, Libya, on September 11, 2012, for their contributions to the nation.
+
+Pub. L. 117–132, June 7, 2022, 136 Stat. 1232, recognizing United States Army Rangers Veterans of World War II.
+
+Pub. L. 117–97, Mar. 14, 2022, 136 Stat. 36, recognizing the service of the women of the 6888th Central Postal Directory Battalion, known as the "Six Triple Eight".
+
+Pub. L. 117–85, Feb. 1, 2022, 136 Stat. 11, recognizing the service of the 23d Headquarters Special Troops and the 3133d Signal Services Company, known collectively as the "Ghost Army", during World War II.
+
+Pub. L. 117–84, Jan. 31, 2022, 136 Stat. 8, recognizing Willie O'Ree, the first Black player to compete in the National Hockey League.
+
 Pub. L. 117–72, Dec. 16, 2021, 135 Stat. 1511, recognizing the 13 United States servicemembers killed at the Hamid Karzai International Airport in Kabul, Afghanistan, on Aug. 26, 2021.
 
 Pub. L. 117–38, Aug. 25, 2021, 135 Stat. 333, recognizing the 369th Infantry Regiment, commonly known as the "Harlem Hellfighters", for service during World War I.
@@ -186,7 +202,7 @@ Pub. L. 116–170, Oct. 17, 2020, 134 Stat. 775, recognizing Merrill's Marauders
 
 Pub. L. 116–125, Mar. 13, 2020, 134 Stat. 171, recognizing the United States merchant mariners of World War II.
 
-Pub. L. 116–68, Nov. 8, 2019, 133 Stat. 1129, recognizing Katherine Johnson, Dr. Christine Darden, Dorothy Vaughan, Mary Jackson, and all women who served as computers, mathematicians, and engineers at the National Advisory Committee for Aeronautics and the National Aeronautics and Space Administration between the 1930s and the 1970s.
+Pub. L. 116–68, Nov. 8, 2019, 133 Stat. 1129; Pub. L. 117–103, div. HH, title IV, §401, Mar. 15, 2022, 136 Stat. 1113, recognizing Katherine Johnson, Dr. Christine Darden, Dorothy Vaughan, Mary Jackson, and all women who served as computers, mathematicians, and engineers at the National Advisory Committee for Aeronautics and the National Aeronautics and Space Administration between the 1930s and the 1970s.
 
 Pub. L. 115–415, Jan. 3, 2019, 132 Stat. 5433, recognizing Stephen Michael Gleason.
 

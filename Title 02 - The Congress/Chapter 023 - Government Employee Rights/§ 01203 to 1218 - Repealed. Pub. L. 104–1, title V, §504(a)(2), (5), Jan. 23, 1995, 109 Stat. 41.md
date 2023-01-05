@@ -32,7 +32,7 @@ Section 1216, Pub. L. 102–166, title III, §317, Nov. 21, 1991, 105 Stat. 1096
 
 Section 1217, Pub. L. 102–166, title III, §318, Nov. 21, 1991, 105 Stat. 1096, expressed sense of Senate that legislation be enacted giving employees of other instrumentalities of Congress rights comparable to those granted in this chapter.
 
-Section 1218, Pub. L. 102–166, title III, §319, Nov. 21, 1991, 105 Stat. 1096, reaffirmed Senate's commitment toRule XLII of Standing Rules of the Senate, relating to employment discrimination on basis of race, color, religion, sex, national origin, age, or state of physical handicap.
+Section 1218, Pub. L. 102–166, title III, §319, Nov. 21, 1991, 105 Stat. 1096, reaffirmed Senate's commitment to Rule XLII of Standing Rules of the Senate, relating to employment discrimination on basis of race, color, religion, sex, national origin, age, or state of physical handicap.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

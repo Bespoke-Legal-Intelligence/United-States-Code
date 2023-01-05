@@ -186,7 +186,7 @@ Non-federal share.—The non-Federal share of the cost of an activity described 
 
 &emsp;&emsp;(B)
 
-Tribal technical assistance centers.—The Federal share of the cost of an activity carried out by a tribal technical assistance center under paragraph (2)(D)(ii) shall be 100 percent.
+Tribal technical assistance centers.—The Federal share of the cost of anactivity carried out by a tribal technical assistance center under paragraph (2)(D)(ii) shall be 100 percent.
 
 (c)
 

@@ -20,7 +20,7 @@ A local educational agency that claims children residing on Indian lands for the
 
 #### (c) Waiver
 
-A local educational agency that claims children residing on Indian lands for the purpose ofreceiving funds under section 7703 of this title shall not be required to comply with the requirements of subsections (a) and (b) for any fiscal year with respect to any Indian tribe from which such agency has received a written statement that the agency need not comply with those subsections because the tribe is satisfied with the provision of educational services by such agency to such children.
+A local educational agency that claims children residing on Indian lands for the purpose of receiving funds under section 7703 of this title shall not be required to comply with the requirements of subsections (a) and (b) for any fiscal year with respect to any Indian tribe from which such agency has received a written statement that the agency need not comply with those subsections because the tribe is satisfied with the provision of educational services by such agency to such children.
 
 #### (d) Technical assistance and enforcement
 
@@ -46,7 +46,7 @@ The Secretary shall—
 
 #### (2) Hearing
 
-&emsp;The hearing shall be held within 30 days of the designation of a hearing examiner and shall be open to the public. A record of the proceedings shall be established and maintained.
+&emsp;The hearing shall be held within 30 days of the designation of a hearing examiner andshall be open to the public. A record of the proceedings shall be established and maintained.
 
 #### (3) Evidence; recommendations; cost
 

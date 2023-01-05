@@ -10,7 +10,7 @@ The Secretary may award grants to States, transplant centers, qualified organ pr
 
 #### (b) Preference
 
-The Secretary shall, in carrying out subsection (a), give preference to those individualsthat the Secretary determines are more likely to be otherwise unable to meet such expenses.
+The Secretary shall, in carrying out subsection (a), give preference to those individuals that the Secretary determines are more likely to be otherwise unable to meet such expenses.
 
 #### (c) Certain circumstances
 

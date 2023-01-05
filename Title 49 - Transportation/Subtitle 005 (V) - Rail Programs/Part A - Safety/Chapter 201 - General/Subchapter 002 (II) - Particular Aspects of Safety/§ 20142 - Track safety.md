@@ -44,7 +44,7 @@ In general.—Within 90 days after the date of enactment of this subsection, the
 
 Inspection.—Whenever the Administration determines that it is necessary or appropriate, the Administration may require railroads to increase the frequency of inspection, or improve the methods of inspection, of joint bars in continuous welded rail.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 879; Pub. L. 103–440, title II, §208, Nov. 2, 1994, 108Stat. 4621; Pub. L. 109–59, title IX, §9005(a), Aug. 10, 2005, 119 Stat. 1924.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 879; Pub. L. 103–440, title II, §208, Nov. 2, 1994, 108 Stat. 4621; Pub. L. 109–59, title IX, §9005(a), Aug. 10, 2005, 119 Stat. 1924.)
 
 Historical and Revision Notes
 

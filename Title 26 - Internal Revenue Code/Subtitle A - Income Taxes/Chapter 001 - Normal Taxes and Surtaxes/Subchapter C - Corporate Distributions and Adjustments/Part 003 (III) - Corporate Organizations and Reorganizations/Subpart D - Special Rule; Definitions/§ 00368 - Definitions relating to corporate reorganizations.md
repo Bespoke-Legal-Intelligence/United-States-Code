@@ -54,7 +54,7 @@
 
 &emsp;&emsp;A transaction otherwise qualifying under paragraph (1)(A) shall not be disqualified by reason of the fact that stock of a corporation (referred to in this subparagraph as the "controlling corporation") which before the merger was in control of the merged corporation is used in the transaction, if—
 
-&emsp;&emsp;&emsp;(i) after the transaction, the corporation surviving the merger holds substantially all of its properties and of the properties of the merged corporation (other than stockof the controlling corporation distributed in the transaction); and
+&emsp;&emsp;&emsp;(i) after the transaction, the corporation surviving the merger holds substantially all of its properties and of the properties of the merged corporation (other than stock of the controlling corporation distributed in the transaction); and
 
 &emsp;&emsp;&emsp;(ii) in the transaction, former shareholders of the surviving corporation exchanged, for an amount of voting stock of the controlling corporation, an amount of stock in the surviving corporation which constitutes control of such corporation.
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(v) This subparagraph shall not apply if the stock of each investment company is owned substantially by the same persons in the same proportions.
 
-&emsp;&emsp;&emsp;(vi) If an investment company which does not meet the requirements of clause (ii) acquires assets of another corporation, clause (i) shall be applied to such investment company and its shareholders and security holders as though its assets had been acquired by such other corporation. If such investment company acquires stock of another corporation in a reorganization described in section 368(a)(1)(B), clause (i) shall be applied to the shareholders of such investment company as though they had exchanged with such other corporation all of their stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange. For purposes of section 1001, the deemed acquisition or exchange referred to in the two preceding sentences shall be treated as a sale or exchange of property by the corporation and by the shareholders and security holders to which clause (i) is applied.
+&emsp;&emsp;&emsp;(vi) If an investment company which does not meet the requirements of clause (ii) acquires assets of another corporation, clause (i) shall be applied to such investment company and its shareholders and security holders as though its assets had been acquired by such other corporation. If such investment company acquires stock of another corporation in a reorganization described in section 368(a)(1)(B), clause (i)shall be applied to the shareholders of such investment company as though they had exchanged with such other corporation all of their stock in such company for stock having a fair market value equal to the fair market value of their stock of such investment company immediately after the exchange. For purposes of section 1001, the deemed acquisition or exchange referred to in the two preceding sentences shall be treated as a sale or exchange of property by the corporation and by the shareholders and security holders to which clause (i) is applied.
 
 &emsp;&emsp;&emsp;(vii) For purposes of clauses (ii) and (iii), the term "securities" includes obligations of State and local governments, commodity futures contracts, shares of regulated investment companies and real estate investment trusts, and other investments constituting a security within the meaning of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)(36)).
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;For purposes of determining whether a transaction qualifies under paragraph (1)(D)—
 
-&emsp;&emsp;&emsp;(i) in the case of a transaction with respect to which the requirements of subparagraphs (A) and (B) of section 354(b)(1)are met, the term "control" has the meaning given such term by section 304(c), and
+&emsp;&emsp;&emsp;(i) in the case of a transaction with respect to which the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met, the term "control" has the meaning given such term by section 304(c), and
 
 &emsp;&emsp;&emsp;(ii) in the case of a transaction with respect to which the requirements of section 355 (or so much of section 356 as relates to section 355) are met, the fact that the shareholders of the distributing corporation dispose of part or all of the distributed stock, or the fact that the corporation whose stock was distributed issues additional stock, shall not be taken into account.
 
@@ -142,7 +142,7 @@ For purposes of this part, the term "a party to a reorganization" includes—
 
 &emsp;(2) both corporations, in the case of a reorganization resulting from the acquisition by one corporation of stock or properties of another.
 
-> In the case of a reorganization qualifying under paragraph (1)(B) or (1)(C) of subsection (a), if the stock exchanged for the stock or properties is stock of a corporation which is in control of the acquiring corporation, the term "a party to a reorganization" includes the corporation so controlling the acquiring corporation. In the case of a reorganization qualifying under paragraph (1)(A), (1)(B), (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C) of subsection (a), the term "a party to a reorganization" includes the corporation controlling the corporation to which the acquired assets or stock are transferred. In the case of a reorganization qualifying under paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D) of that subsection, the term "a party to a reorganization" includes the controlling corporation referred to in such paragraph (2)(D). In the case of a reorganization qualifying under subsection (a)(1)(A) by reason of subsection (a)(2)(E), the term "party to a reorganization" includes the controlling corporation referred to in subsection (a)(2)(E).
+> In the case of a reorganization qualifying under paragraph (1)(B) or (1)(C) of subsection (a), if the stock exchanged for the stock or properties isstock of a corporation which is in control of the acquiring corporation, the term "a party to a reorganization" includes the corporation so controlling the acquiring corporation. In the case of a reorganization qualifying under paragraph (1)(A), (1)(B), (1)(C), or (1)(G) of subsection (a) by reason of paragraph (2)(C) of subsection (a), the term "a party to a reorganization" includes the corporation controlling the corporation to which the acquired assets or stock are transferred. In the case of a reorganization qualifying under paragraph (1)(A) or (1)(G) of subsection (a) by reason of paragraph (2)(D) of that subsection, the term "a party to a reorganization" includes the controlling corporation referred to in such paragraph (2)(D). In the case of a reorganization qualifying under subsection (a)(1)(A) by reason of subsection (a)(2)(E), the term "party to a reorganization" includes the controlling corporation referred to in subsection (a)(2)(E).
 
 #### (c) Control defined
 
@@ -290,7 +290,7 @@ Amendment by section 174(b)(5)(D) of Pub. L. 98–369 applicable to transactions
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–448, title III, §311(b)(2), Jan. 12, 1983, 96 Stat. 2411, provided that: "The amendment made by subsection (b) of section 304 \[amending this section\] shall take effect as if included in the amendmentsmade by section 4 of such Act \[Pub. L. 96–589, the Bankruptcy Tax Act of 1980, see 1980 Amendment notes above\]."
+Pub. L. 97–448, title III, §311(b)(2), Jan. 12, 1983, 96 Stat. 2411, provided that: "The amendment made by subsection (b) of section 304 \[amending this section\] shall take effect as if included in the amendments made by section 4 of such Act \[Pub. L. 96–589, the Bankruptcy Tax Act of 1980, see 1980 Amendment notes above\]."
 
 #### Effective Date of 1982 Amendment
 

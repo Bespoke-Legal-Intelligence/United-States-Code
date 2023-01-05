@@ -38,7 +38,7 @@ Each Federal agency administering Federal property on which children reside, and
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary shall pay a local educational agency the full amount that the agency is eligible to receive under this subchapter for a fiscal year not later than September 30 of the second fiscal year following the fiscal year for which such amount has been appropriated if, not later than 1 calendar year following the fiscal year in which such amount has been appropriated,such local educational agency submits to the Secretary all the data and information necessary for the Secretary to pay the full amount that the agency is eligible to receive under this subchapter for such fiscal year.
+&emsp;Subject to paragraph (2), the Secretary shall pay a local educational agency the full amount that the agency is eligible to receive under this subchapter for a fiscal year not later than September 30 of the second fiscal year following the fiscal year for which such amount has been appropriated if, not later than 1 calendar year following the fiscal year in which such amount has been appropriated, such local educational agency submits to the Secretary all the data and information necessary for the Secretary to pay the full amount that the agency is eligible to receive under this subchapter for such fiscal year.
 
 #### (2) Payments with respect of fiscal years in which insufficient funds are appropriated
 

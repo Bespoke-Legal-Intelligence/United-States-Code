@@ -18,7 +18,7 @@ In this subchapter, except as specified otherwise:
 
 &emsp;&emsp;&emsp;&emsp;(II) such information is not further acquired, accessed, used, or disclosed by any person; or
 
-&emsp;&emsp;&emsp;(ii) any inadvertent disclosure from an individual who is otherwise authorized to access protected health information at a facility operated by a covered entity orbusiness associate to another similarly situated individual at <sup>1</sup> same facility; and
+&emsp;&emsp;&emsp;(ii) any inadvertent disclosure from an individual who is otherwise authorized to access protected health information at a facility operated by a covered entity or business associate to another similarly situated individual at <sup>1</sup> same facility; and
 
 &emsp;&emsp;&emsp;(iii) any such information received as a result of such disclosure is not further acquired, accessed, used, or disclosed without authorization by any person.
 
@@ -60,7 +60,7 @@ In this subchapter, except as specified otherwise:
 
 #### (11) Personal health record
 
-&emsp;The term "personal health record" means an electronic record of PHR identifiable health information (as defined in section 17937(f)(2) of this title) on an individual that can be drawn from multiple sources and that is managed, shared, and controlled by or primarily for the individual.
+&emsp;The term "personal health record" means an electronic record of PHR identifiable healthinformation (as defined in section 17937(f)(2) of this title) on an individual that can be drawn from multiple sources and that is managed, shared, and controlled by or primarily for the individual.
 
 #### (12) Protected health information
 

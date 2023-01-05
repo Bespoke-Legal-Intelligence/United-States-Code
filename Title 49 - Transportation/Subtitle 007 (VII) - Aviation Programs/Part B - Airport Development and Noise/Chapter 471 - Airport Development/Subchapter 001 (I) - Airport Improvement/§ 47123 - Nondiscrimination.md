@@ -10,7 +10,7 @@ Indian Employment.—
 
 &emsp;(1)
 
-Tribal sponsor preference.—Consistent with section 703(i) of the Civil Rights Act of1964 (42 U.S.C. 2000e–2(i)), nothing in this section shall preclude the preferential employment of Indians living on or near a reservation on a project or contract at—
+Tribal sponsor preference.—Consistent with section 703(i) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–2(i)), nothing in this section shall preclude the preferential employment of Indians living on or near a reservation on a project or contract at—
 
 &emsp;&emsp;(A) an airport sponsored by an Indian tribal government; or
 
@@ -52,7 +52,7 @@ The words "as the Secretary deems" and "the purposes of" are omitted as surplus.
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (a), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 #### Amendments
 

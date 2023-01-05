@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A duty assignment for an active duty member of the Coast Guard in support of a declaration of a major disaster or emergency by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or in response to a spill of national significance shall be treated, for the purpose of section 701(f)(2) of title 10, as a duty assignment in support of a contingency operation.
+In General.—A duty assignment for an active duty member of the Coast Guard in support of a declaration of a major disaster or emergency by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or in response to a spill of national significance shall be treated, for the purpose of section 701(e) of title 10, as a duty assignment in support of a contingency operation.
 
 (b)
 
@@ -16,7 +16,7 @@ Spill of national significance.—The term "spill of national significance" mean
 
 Discharge.—The term "discharge" has the meaning given that term in section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 2701).
 
-(Added Pub. L. 111–281, title II, §207(a), Oct. 15, 2010, 124 Stat. 2912, §426; renumbered §2508, Pub. L. 115–282, title I, §114(b), Dec. 4, 2018, 132 Stat. 4223.)
+(Added Pub. L. 111–281, title II, §207(a), Oct. 15, 2010, 124 Stat. 2912, §426; renumbered §2508, Pub. L. 115–282, title I, §114(b), Dec. 4, 2018, 132 Stat. 4223; amended Pub. L. 117–263, div. A, title VI, §631(c)(1), Dec. 23, 2022, 136 Stat. 2631.)
 
 #### <b>Editorial Notes</b>
 
@@ -26,9 +26,15 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a). Pub. L. 117–263 substituted "section 701(e)" for "section 701(f)(2)".
+
 <b>2018</b>—Pub. L. 115–282 renumbered section 426 of this title as this section.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–232 effective Jan. 1, 2023, see section 631(d) of Pub. L. 117–263, set out as a note under section 701 of Title 10, Armed Forces.
 
 #### Effective Date
 

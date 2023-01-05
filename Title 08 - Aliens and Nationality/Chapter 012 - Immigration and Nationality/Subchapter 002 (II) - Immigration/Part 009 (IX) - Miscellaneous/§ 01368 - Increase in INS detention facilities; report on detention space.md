@@ -30,11 +30,11 @@ Subject to the availability of appropriations, the Attorney General shall provid
 
 #### (ii) Aliens convicted of aggravated felonies
 
-&emsp;&emsp;&emsp;The estimate under clause (i) shall estimate separately, with respect to each year described in such clause, the number of criminal aliens described in such clause who were convicted of an aggravated felony.
+&emsp;&emsp;&emsp;The estimate under clause (i) shall estimate separately, with respect to each year described in such clause, the number of criminal aliens described in such clausewho were convicted of an aggravated felony.
 
 #### (B) All inadmissible or deportable aliens
 
-&emsp;&emsp;The first report submitted under paragraph (1) shall also estimate the number of inadmissible or deportable aliens who were released into the community due to a lack of detention facilities in each of the 3 fiscal years concluded prior to the date of the report notwithstanding circumstances thatthe Attorney General believed justified detention (for example, a significant probability that the released alien would not appear, as agreed, at subsequent exclusion or deportation proceedings).
+&emsp;&emsp;The first report submitted under paragraph (1) shall also estimate the number of inadmissible or deportable aliens who were released into the community due to a lack of detention facilities in each of the 3 fiscal years concluded prior to the date of the report notwithstanding circumstances that the Attorney General believed justified detention (for example, a significant probability that the released alien would not appear, as agreed, at subsequent exclusion or deportation proceedings).
 
 #### (C) Subsequent reports
 

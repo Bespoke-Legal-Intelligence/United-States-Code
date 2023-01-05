@@ -26,7 +26,7 @@ Effective Date for New Operations.—The amendments made by this section \[amend
 
 "(c)
 
-Effective Date for Existing Operations.—The amendments made by this section shall take effect on the date 6 months after the enactment of this Act with respect to each operator commencing surface coal mining operations pursuant to an authorization under State law before the date 30 days after the enactment of this Act. Nothing in this Act \[amending this section and section 1232 of this title\] shall preclude reclamation activities pursuant to State law or regulations at the site of any surface coal mine which was exempt from the Surface Mining Control and Reclamation Act of 1977 \[30 U.S.C. 1201 et seq.\] under section 528(2) of that Act \[30 U.S.C. 1278(2)\], as in effect before the enactment of this Act.
+Effective Date for Existing Operations.—The amendments made by this section shall take effect on the date 6 months after the enactment of this Act with respect to each operator commencing surface coal mining operations pursuant to an authorization under State law before the date 30 days after the enactmentof this Act. Nothing in this Act \[amending this section and section 1232 of this title\] shall preclude reclamation activities pursuant to State law or regulations at the site of any surface coal mine which was exempt from the Surface Mining Control and Reclamation Act of 1977 \[30 U.S.C. 1201 et seq.\] under section 528(2) of that Act \[30 U.S.C. 1278(2)\], as in effect before the enactment of this Act.
 
 "(d)
 

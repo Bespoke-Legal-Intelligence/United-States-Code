@@ -8,7 +8,7 @@ Every issuer of a security registered pursuant to section 78l of this title shal
 
 &emsp;(2) such annual reports (and such copies thereof), certified if required by the rules and regulations of the Commission by independent public accountants, and such quarterly reports (and such copies thereof), as the Commission may prescribe.
 
-> Every issuer of a security registered on a national securities exchange shall also file a duplicate original of such information, documents, and reports with the exchange. In any registration statement, periodic report, or other reports to be filed with the Commission, an emerging growth company need not present selected financial data in accordance with section 229.301 of title 17, Code of Federal Regulations, for anyperiod prior to the earliest audited period presented in connection with its first registration statement that became effective under this chapter or the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and, with respect to any such statement or reports, an emerging growth company may not be required to comply with any new or revised financial accounting standard until such date that a company that is not an issuer (as defined under section 7201 of this title) is required to comply with such new or revised accounting standard, if such standard applies to companies that are not issuers.
+> Every issuer of a security registered on a national securities exchange shall also file a duplicate original of such information, documents, and reports with the exchange. In any registration statement, periodic report, or other reports to be filed with the Commission, an emerging growth company need not present selected financial data in accordance with section 229.301 of title 17, Code of Federal Regulations, for any period prior to the earliest audited period presented in connection with its first registration statement that became effective under this chapter or the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and, with respect to any such statement or reports, an emerging growth company may not be required to comply with any new or revised financial accounting standard until such date that a company that is not an issuer (as defined under section 7201 of this title) is required to comply with such new or revised accounting standard, if such standard applies to companies that are not issuers.
 
 #### (b) Form of report; books, records, and internal accounting; directives
 
@@ -48,7 +48,7 @@ If in the judgment of the Commission any report required under subsection (a) is
 
 #### (d) Reports by persons acquiring more than five per centum of certain classes of securities
 
-(1) Any person who, after acquiring directly or indirectly the beneficial ownership of any equity security of a class which is registered pursuant to section 78l of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78l(g)(2)(G) of this title, or any equity security issued by a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] or any equity security issued by a Native Corporation pursuant to section 1629c(d)(6) of title 43, or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and is directly or indirectly the beneficial owner of more than 5 per centum of such class shall, within ten days after such acquisition or within such shorter time as the Commission may establish by rule, file with the Commission, a statement containing such of the following information, and such additional information, as the Commission may by rules and regulations, prescribe as necessary or appropriate in the public interest or for the protection of investors—
+(1) Any person who, after acquiring directly or indirectly the beneficial ownership of any equity security of a class which is registered pursuantto section 78l of this title, or any equity security of an insurance company which would have been required to be so registered except for the exemption contained in section 78l(g)(2)(G) of this title, or any equity security issued by a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\] or any equity security issued by a Native Corporation pursuant to section 1629c(d)(6) of title 43, or otherwise becomes or is deemed to become a beneficial owner of any of the foregoing upon the purchase or sale of a security-based swap that the Commission may define by rule, and is directly or indirectly the beneficial owner of more than 5 per centum of such class shall, within ten days after such acquisition or within such shorter time as the Commission may establish by rule, file with the Commission, a statement containing such of the following information, and such additional information, as the Commission may by rules and regulations, prescribe as necessary or appropriate in the public interest or for the protection of investors—
 
 &emsp;(A) the background, and identity, residence, and citizenship of, and the nature of such beneficial ownership by, such person and all other persons by whom or on whose behalf the purchases have been or are to be effected;
 
@@ -80,7 +80,7 @@ If in the judgment of the Commission any report required under subsection (a) is
 
 #### (e) Purchase of securities by issuer
 
-(1) It shall be unlawful for an issuer which has a class of equity securities registered pursuant to section 78l of this title, or which is a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], to purchase any equity security issued by it if such purchase is in contravention of such rules and regulations as the Commission, in the public interest or for the protection of investors, may adopt (A) to define acts and practices which are fraudulent, deceptive, or manipulative, and (B) to prescribe means reasonably designed to prevent such acts and practices. Such rules and regulations may require such issuer to provide holders of equity securities of such class with such information relating to the reasons for such purchase, the source of funds, the number of shares to be purchased, the price to be paid for such securities, the method of purchase, and such additional information, as the Commission deems necessary or appropriate in the public interest or for the protection of investors, or which the Commission deems to be material to a determination whether such security should be sold.
+(1) It shall be unlawful for an issuer which has a class of equity securities registered pursuant to section 78l of this title, or which is a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], to purchase any equity security issued by it if such purchase is in contravention of such rules and regulations as the Commission, in the public interest or for the protection of investors, may adopt (A) to define acts and practices which are fraudulent, deceptive, or manipulative, and\(B) to prescribe means reasonably designed to prevent such acts and practices. Such rules and regulations may require such issuer to provide holders of equity securities of such class with such information relating to the reasons for such purchase, the source of funds, the number of shares to be purchased, the price to be paid for such securities, the method of purchase, and such additional information, as the Commission deems necessary or appropriate in the public interest or for the protection of investors, or which the Commission deems to be material to a determination whether such security should be sold.
 
 (2) For the purpose of this subsection, a purchase by or for the issuer or any person controlling, controlled by, or under common control with the issuer, or a purchase subject to control of the issuer or any such person, shall be deemed to be a purchase by the issuer. The Commission shall have power to make rules and regulations implementing this paragraph in the public interest and for the protection of investors, including exemptive rules and regulations covering situations in which the Commission deems it unnecessary or inappropriate that a purchase of the type described in this paragraph shall be deemed to be a purchase by the issuer for purposes of some or all of the provisions of paragraph (1) of this subsection.
 
@@ -248,7 +248,7 @@ Not later than 180 days after July 30, 2002, the Commission shall issue final ru
 
 #### (l) Real time issuer disclosures
 
-Each issuer reporting under subsec. (a) or section 78o(d) of this title shall disclose to the public on a rapid and current basis such additional information concerning material changes in the financial condition or operations of the issuer, in plain English, which may include trend and qualitative information and graphic presentations, as the Commission determines, by rule, is necessary or useful for the protection of investors and in the public interest.
+Each issuer reporting under subsec. (a) or section 78o(d) of this title shall disclose to the public on a rapid and current basis such additional information concerning material changes in the financial condition or operations of the issuer, in plain English, which may include trend and qualitative information and graphic presentations, as the Commission determines, by rule,is necessary or useful for the protection of investors and in the public interest.
 
 #### (m) Public availability of security-based swap transaction data
 
@@ -328,7 +328,7 @@ Each issuer reporting under subsec. (a) or section 78o(d) of this title shall di
 
 #### (1) Registration requirement
 
-&emsp;It shall be unlawful for any person, unless registered with the Commission, directly or indirectly, to make use of the mails or any means or instrumentality of interstate commerce to perform the functions of a security-based swap data repository.
+&emsp;It shall be unlawful for any person, unless registered with the Commission, directly orindirectly, to make use of the mails or any means or instrumentality of interstate commerce to perform the functions of a security-based swap data repository.
 
 #### (2) Inspection and examination
 
@@ -424,7 +424,7 @@ Confidentiality agreement.—Before the security-based swap data repository may 
 
 &emsp;&emsp;&emsp;(ii) review the compliance of the security-based swap data repository with respect to the requirements and core principles described in this subsection;
 
-&emsp;&emsp;&emsp;(iii) in consultation with the board of the security-based swap data repository, a body performing a function similar to the board of the security-based swap data repository, or the senior officer of the security-based swap data repository, resolve any conflicts of interest that may arise;
+&emsp;&emsp;&emsp;(iii) in consultation with the board of the security-based swap data repository, abody performing a function similar to the board of the security-based swap data repository, or the senior officer of the security-based swap data repository, resolve any conflicts of interest that may arise;
 
 &emsp;&emsp;&emsp;(iv) be responsible for administering each policy and procedure that is required to be established pursuant to this section;
 
@@ -572,7 +572,7 @@ For purposes of this section and section 78p of this title, a person shall be de
 
 &emsp;In this subsection—
 
-&emsp;&emsp;(A) the term "commercial development of oil, natural gas, or minerals" includes exploration, extraction, processing, export, andother significant actions relating to oil, natural gas, or minerals, or the acquisition of a license for any such activity, as determined by the Commission;
+&emsp;&emsp;(A) the term "commercial development of oil, natural gas, or minerals" includes exploration, extraction, processing, export, and other significant actions relating to oil, natural gas, or minerals, or the acquisition of a license for any such activity, as determined by the Commission;
 
 &emsp;&emsp;(B) the term "foreign government" means a foreign government, a department, agency, or instrumentality of a foreign government, or a company owned by a foreign government, as determined by the Commission;
 
@@ -720,7 +720,17 @@ For purposes of this section and section 78p of this title, a person shall be de
 
 &emsp;The provisions of this subsection shall terminate on the date that is 30 days after the date on which the President makes the certification described in section 8551(a) of title 22.
 
-(June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(i), formerly §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791, renumbered §109(i), Pub. L. 111–203, title IX, §982(h)(3), July 21, 2010, 124 Stat. 1930; Pub. L. 111–203, title VII, §§763(i), 766(b), (c), (e), title IX, §§929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§1502(b), 1504, July 21, 2010, 124 Stat. 1779, 1799, 1866, 1870, 1933, 1952, 2213, 2220; Pub. L. 112–106, title I, §102(b)(2), Apr. 5, 2012, 126 Stat. 309; Pub. L. 112–158, title II, §219(a), Aug. 10, 2012, 126 Stat. 1235; Pub. L. 114–94, div. G, title LXXXVI, §86001(c), Dec. 4, 2015, 129 Stat. 1798.)
+#### (s) Data standards
+
+#### (1) Requirement
+
+&emsp;The Commission shall, by rule, adopt data standards for all collections of information with respect to periodic and current reports required to be filed or furnished under this section or under section 78o(d) of this title, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
+
+#### (2) Consistency
+
+&emsp;The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(i), formerly §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791, renumbered §109(i), Pub. L. 111–203, title IX, §982(h)(3), July 21, 2010, 124 Stat. 1930; Pub. L. 111–203, title VII,§§763(i), 766(b), (c), (e), title IX, §§929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§1502(b), 1504, July 21, 2010, 124 Stat. 1779, 1799, 1866, 1870, 1933, 1952, 2213, 2220; Pub. L. 112–106, title I, §102(b)(2), Apr. 5, 2012, 126 Stat. 309; Pub. L. 112–158, title II, §219(a), Aug. 10, 2012, 126 Stat. 1235; Pub. L. 114–94, div. G, title LXXXVI, §86001(c), Dec. 4, 2015, 129 Stat. 1798; Pub. L. 117–263, div. E, title LVIII, §5821(f), Dec. 23, 2022, 136 Stat. 3426.)
 
 #### <b>Editorial Notes</b>
 
@@ -745,6 +755,8 @@ Executive Order No. 13224, referred to in subsec. (r)(1)(D)(i), is Ex. Ord. No. 
 Executive Order No. 13382, referred to in subsec. (r)(1)(D)(ii), is Ex. Ord. No. 13382, June 28, 2005, 70 F.R. 38567, which is listed in a table under section 1701 of Title 50, War and National Defense.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (s). Pub. L. 117–263 added subsec. (s).
 
 <b>2015</b>—Subsec. (n)(5)(G). Pub. L. 114–94, §86001(c)(1)(A), substituted "make available security-based swap" for "make available all" in introductory provisions.
 
@@ -868,6 +880,10 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 
 Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L. 88–467, set out as a note under section 78c of this title.
 
+#### Rule of Construction—No New Disclosure Requirements
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
+
 #### Improving Access to Capital
 
 Pub. L. 115–174, title V, §508, May 24, 2018, 132 Stat. 1364, provided that: "The Securities and Exchange Commission shall amend—
@@ -878,11 +894,11 @@ Pub. L. 115–174, title V, §508, May 24, 2018, 132 Stat. 1364, provided that: 
 
 #### Summary Page for Form 10–K
 
-Pub. L. 114–94, div. G, title LXXII, §72001, Dec. 4, 2015, 129 Stat. 1784, provided that: "Not later than the end of the 180-day period beginning on the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall issue regulations to permit issuers to submit a summary page on form 10–K (17 CFR 249.310), but only if each item on such summary page includes a cross-reference (by electronic link or otherwise) to the material contained in form 10–K to which such item relates."
+Pub. L. 114–94, div. G, title LXXII, §72001, Dec. 4, 2015, 129 Stat. 1784, provided that: "Not later than the end ofthe 180-day period beginning on the date of the enactment of this Act \[Dec. 4, 2015\], the Securities and Exchange Commission shall issue regulations to permit issuers to submit a summary page on form 10–K (17 CFR 249.310), but only if each item on such summary page includes a cross-reference (by electronic link or otherwise) to the material contained in form 10–K to which such item relates."
 
 #### Elimination of Exemption From Fair Disclosure Rule
 
-Pub. L. 111–203, title IX, §939B, July 21, 2010, 124 Stat. 1887, provided that: "Not later than 90 days after the date of enactment of this subtitle \[July 21, 2010\], the Securities \[and\] Exchange Commission shall revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation the exemption for entities whose primarybusiness is the issuance of credit ratings (17 C.F.R. 243.100(b)(2)(iii))."
+Pub. L. 111–203, title IX, §939B, July 21, 2010, 124 Stat. 1887, provided that: "Not later than 90 days after the date of enactment of this subtitle \[July 21, 2010\], the Securities \[and\] Exchange Commission shall revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation the exemption for entities whose primary business is the issuance of credit ratings (17 C.F.R. 243.100(b)(2)(iii))."
 
 #### Conflict Minerals
 
@@ -1046,7 +1062,9 @@ Definitions.—For purposes of subsection (a), the terms 'insured depository ins
 
 #### Adjustment of Registration Fee Rate
 
-By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $92.71 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
+By order dated Aug. 25, 2022, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $110.20 per $1,000,000, effective Oct. 1, 2022, see 87 F.R. 53030.
+
+By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $92.70 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
 
 By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
 

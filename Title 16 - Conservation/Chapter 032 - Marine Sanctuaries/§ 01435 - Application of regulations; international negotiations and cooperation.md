@@ -12,7 +12,7 @@ This chapter and the regulations issued under section 1434 of this title shall b
 
 #### (b) Negotiations
 
-The Secretary of State, in consultation with the Secretary, shall take appropriate action to enter into negotiations with other governmentsto make necessary arrangements for the protection of any national marine sanctuary and to promote the purposes for which the sanctuary is established.
+The Secretary of State, in consultation with the Secretary, shall take appropriate action to enter into negotiations with other governments to make necessary arrangements for the protection of any national marine sanctuary and to promote the purposes for which the sanctuary is established.
 
 #### (c) International cooperation
 

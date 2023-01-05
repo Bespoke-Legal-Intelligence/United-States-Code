@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Of the amounts appropriated for a fiscal year under paragraph (1), the Secretary shall make available 30 percent of such amounts to fund discretionary activities under this subchapter.
+&emsp;&emsp;Of the amounts appropriated for a fiscal year under paragraph (1), the Secretary shallmake available 30 percent of such amounts to fund discretionary activities under this subchapter.
 
 #### (B) Demonstration projects
 
@@ -46,7 +46,7 @@ Authorization.—There are authorized to be appropriated to carry out this subch
 
 Allocations.—
 
-&emsp;"(A) Of the amounts appropriated under paragraph (1) for a fiscal year, $5,000,000 shall be available for the purpose of making additional grants to the Statesto carry out the provisions of section 5106a(g) of this title.
+&emsp;"(A) Of the amounts appropriated under paragraph (1) for a fiscal year, $5,000,000 shall be available for the purpose of making additional grants to the States to carry out the provisions of section 5106a(g) of this title.
 
 &emsp;"(B) Of the amounts appropriated under paragraph (1) for a fiscal year and available after compliance with subparagraph (A)—
 

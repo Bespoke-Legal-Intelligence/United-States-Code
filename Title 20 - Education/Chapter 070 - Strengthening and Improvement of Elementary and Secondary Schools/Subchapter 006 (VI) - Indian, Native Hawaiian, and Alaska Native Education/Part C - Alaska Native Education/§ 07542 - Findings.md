@@ -8,7 +8,7 @@ Congress finds and declares the following:
 
 &emsp;(3) Overcoming the magnitude of the geographic challenges, historical inequities, and other barriers to successfully improving educational outcomes for Alaska Native students in rural, village, and urban settings is challenging. Significant disparities between academic achievement of Alaska Native students and non-Native students continue, including lower graduation rates, increased school dropout rates, and lower achievement scores on standardized tests.
 
-&emsp;(4) The preservation of Alaska Native cultures and languages and the integration of Alaska Native cultures and languages into education, positive identity development for Alaska Native students, and local, place-based, and culture-based programming are critical to the attainment of educational success and the long-term well-being of Alaska Native students.
+&emsp;(4) The preservation of Alaska Native cultures and languages and the integration of Alaska Native cultures and languages into education, positive identity development forAlaska Native students, and local, place-based, and culture-based programming are critical to the attainment of educational success and the long-term well-being of Alaska Native students.
 
 &emsp;(5) Improving educational outcomes for Alaska Native students increases access to employment opportunities.
 

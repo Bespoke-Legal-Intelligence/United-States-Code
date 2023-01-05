@@ -46,7 +46,7 @@ When announcing the reprioritization, the Secretary shall—
 
 #### (e) Extension
 
-The Secretary may extend an announcement under subsection (a) for no more than 6 years intotal, except that nothing shall prevent the Secretary from renewing reprioritizations by making a new announcement under subsection (a).
+The Secretary may extend an announcement under subsection (a) for no more than 6 years in total, except that nothing shall prevent the Secretary from renewing reprioritizations by making a new announcement under subsection (a).
 
 #### (f) Rescinding the announcement
 
@@ -59,6 +59,42 @@ Not later than 48 hours after making, extending, or rescinding an announcement u
 (Pub. L. 92–419, title VI, §608, as added Pub. L. 115–334, title VI, §6101(b), Dec. 20, 2018, 132 Stat. 4727.)
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Support for Cotton Merchandisers
+
+Pub. L. 117–328, div. HH, title V, §601, Dec. 29, 2022, 136 Stat. 5994, provided that:
+
+"(a)
+
+Cotton Merchandiser Pandemic Assistance.—
+
+&emsp;"(1)
+
+Pandemic assistance payments to cotton merchandisers.—The Secretary \[of Agriculture\] shall make pandemic assistance payments, under terms and conditions as determined by the Secretary, to cotton merchandisers that purchased cotton from a United States cotton producer or marketed cotton on behalf of a United States cotton producer during the period that begins on March 1, 2020, and ends on the date of enactment of this Act \[Dec. 29, 2022\].
+
+&emsp;"(2)
+
+Payment determinations.—The Secretary shall take into consideration economic impacts of COVID–19 and other supply chain disruptions in determining payment rates under this subsection, such that the amounts made available under paragraph (4)(A) are fully expended no later than 1 year after the date of enactment of this section.
+
+&emsp;"(3)
+
+Cotton merchandiser defined.—In this subsection, the term 'cotton merchandiser' means an entity that markets, sells, or trades cotton to end users.
+
+&emsp;"(4)
+
+Funding limitations.—
+
+&emsp;&emsp;"(A)
+
+In general.—Of the funds made available under subsection (b), the Secretary shall make available $100,000,000 to carry out this subsection.
+
+&emsp;&emsp;"(B)
+
+Administrative expenses.—The Secretary may use not more than 1 percent of the funds under subparagraph (A) for administrative costs necessary to carry out this subsection.
+
+"(b)
+
+Funding.—The Secretary shall make available $100,000,000 to be derived from the unobligated balances of amounts made available under section 751 of division N of the Consolidated Appropriations Act, 2021 (Public Law 116–260) \[134 Stat. 2105\] to carry out subsection (a)."
 
 #### Emergency Rural Development Grants for Rural Health Care
 

@@ -197,7 +197,7 @@ Elements.—The revised regulations under subsection (a) shall, at a minimum—
 
 &emsp;"(1) address organizational conflicts of interest that could potentially arise as a result of—
 
-&emsp;&emsp;"(A) lead system integrator contracts on major acquisition programs and contracts that follow lead system integrator contracts on such programs, particularly contracts for production;
+&emsp;&emsp;"(A) lead system integrator contracts on major acquisition programs and contracts that follow leadsystem integrator contracts on such programs, particularly contracts for production;
 
 &emsp;&emsp;"(B) the ownership of business units performing systems engineering and technical assistance functions, professional services, or management support services in relation to major acquisition programs by contractors who simultaneously own business units competing to perform as either the prime contractor or the supplier of a major subsystem or component for such programs;
 

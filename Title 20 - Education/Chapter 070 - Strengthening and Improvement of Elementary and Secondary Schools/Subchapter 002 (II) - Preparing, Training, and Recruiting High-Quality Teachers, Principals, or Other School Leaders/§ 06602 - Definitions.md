@@ -30,7 +30,7 @@ In this subchapter:
 
 #### (4) Teacher, principal, or other school leader preparation academy
 
-&emsp;The term "teacher, principal, or other school leader preparation academy" means apublic or other nonprofit entity, which may be an institution of higher education or an organization affiliated with an institution of higher education, that establishes an academy that will prepare teachers, principals, or other school leaders to serve in high-needs schools, and that—
+&emsp;The term "teacher, principal, or other school leader preparation academy" means a public or other nonprofit entity, which may be an institution of higher education or an organization affiliated with an institution of higher education, that establishes an academy that will prepare teachers, principals, or other school leaders to serve in high-needs schools, and that—
 
 &emsp;&emsp;(A) enters into an agreement with a State authorizer that specifies the goals expected of the academy, including—
 

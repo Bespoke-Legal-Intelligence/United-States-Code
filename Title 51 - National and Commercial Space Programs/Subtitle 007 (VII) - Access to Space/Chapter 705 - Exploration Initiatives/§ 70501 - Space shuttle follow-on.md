@@ -106,7 +106,7 @@ Pub. L. 109–155, title V, §502, Dec. 30, 2005, 119 Stat. 2928, provided that:
 
 "(a)
 
-In General.—The Administrator \[of the National Aeronautics and Space Administration\] shall, to the fullest extent possible consistent with a successfuldevelopment program, use the personnel, capabilities, assets, and infrastructure of the Space Shuttle program in developing the Crew Exploration Vehicle, Crew Launch Vehicle, and a heavy-lift launch vehicle.
+In General.—The Administrator \[of the National Aeronautics and Space Administration\] shall, to the fullest extent possible consistent with a successful development program, use the personnel, capabilities, assets, and infrastructure of the Space Shuttle program in developing the Crew Exploration Vehicle, Crew Launch Vehicle, and a heavy-lift launch vehicle.
 
 "(b)
 

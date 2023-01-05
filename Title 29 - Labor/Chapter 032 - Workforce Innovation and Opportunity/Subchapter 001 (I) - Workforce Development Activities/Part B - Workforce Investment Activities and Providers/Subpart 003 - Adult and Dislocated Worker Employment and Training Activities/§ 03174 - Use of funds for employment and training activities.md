@@ -34,7 +34,7 @@
 
 #### (B) Statewide employment and training activities
 
-&emsp;&emsp;Funds reserved by a Governor under sections 3163(a)(1) and 3173(a)(1) of this title and not used under paragraph (1)(A) (regardless of whether the funds were allotted to the States under section 3162(b)(1)(C) of this titleor paragraph (1)(B) or (2)(B) of section 3172(b) of this title) shall be used for statewide employment and training activities, including—
+&emsp;&emsp;Funds reserved by a Governor under sections 3163(a)(1) and 3173(a)(1) of this title and not used under paragraph (1)(A) (regardless of whether the funds were allotted to the States under section 3162(b)(1)(C) of this title or paragraph (1)(B) or (2)(B) of section 3172(b) of this title) shall be used for statewide employment and training activities, including—
 
 &emsp;&emsp;&emsp;(i) providing assistance to—
 
@@ -362,7 +362,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), training services provided under this paragraph shall be provided through the use of individual training accounts in accordance with this paragraph, and shall be providedto eligible individuals through the one-stop delivery system.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), training services provided under this paragraph shall be provided through the use of individual training accounts in accordance with this paragraph, and shall be provided to eligible individuals through the one-stop delivery system.
 
 #### (ii) Training contracts
 
@@ -430,7 +430,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(iv) customer support to enable individuals with barriers to employment (including individuals with disabilities) and veterans, to navigate among multiple services and activities for such populations;
 
-&emsp;&emsp;&emsp;(v) technical assistance for one-stop operators, one-stop partners, and eligible providers of training services, regarding the provision of services to individualswith disabilities in local areas, including the development and training of staff, the provision of outreach, intake, assessments, and service delivery, the coordination of services across providers and programs, and the development of performance accountability measures;
+&emsp;&emsp;&emsp;(v) technical assistance for one-stop operators, one-stop partners, and eligible providers of training services, regarding the provision of services to individuals with disabilities in local areas, including the development and training of staff, the provision of outreach, intake, assessments, and service delivery, the coordination of services across providers and programs, and the development of performance accountability measures;
 
 &emsp;&emsp;&emsp;(vi) employment and training activities provided in coordination with—
 
@@ -546,7 +546,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 #### (i) Factors
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the local board shall establish the non-Federal share of such cost (taking into consideration such other factors as the number of employeesparticipating in the training, the wage and benefit levels of the employees (at the beginning and anticipated upon completion of the training), the relationship of the training to the competitiveness of the employer and employees, and the availability of other employer-provided training and advancement opportunities.<sup>1</sup>
+&emsp;&emsp;&emsp;Subject to clause (ii), the local board shall establish the non-Federal share of such cost (taking into consideration such other factors as the number of employees participating in the training, the wage and benefit levels of the employees (at the beginning and anticipated upon completion of the training), the relationship of the training to the competitiveness of the employer and employees, and the availability of other employer-provided training and advancement opportunities.<sup>1</sup>
 
 #### (ii) Limits
 

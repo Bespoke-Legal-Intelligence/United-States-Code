@@ -12,12 +12,15 @@
 | [4048\.](%C2%A7%2004048%20-%20Fees%20for%20health%20care%20services%20for%20prisoners.md) | Fees for health care services for prisoners. |
 | [4049\.](%C2%A7%2004049%20-%20Officers%20and%20employees%20of%20the%20Bureau%20of%20Prisons%20authorized%20to%20carry%20oleoresin%20capsicum%20spray.md) | Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray. |
 | [4050\.](%C2%A7%2004050%20-%20Secure%20firearms%20storage.md) | Secure firearms storage. |
+| [4051\.](%C2%A7%2004051%20-%20Treatment%20of%20primary%20caretaker%20parents%20and%20other%20individuals.md) | Treatment of primary caretaker parents and other individuals. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–103, div. W, title X, §1001(e), Mar. 15, 2022, 136 Stat. 914, added item 4051.
 
 <b>2018</b>—Pub. L. 115–391, title II, §202(b), Dec. 21, 2018, 132 Stat. 5217, added item 4050.
 
@@ -48,3 +51,4 @@
 - [&sect; 04048 - Fees for health care services for prisoners](%C2%A7%2004048%20-%20Fees%20for%20health%20care%20services%20for%20prisoners.md)
 - [&sect; 04049 - Officers and employees of the Bureau of Prisons authorized to carry oleoresin capsicum spray](%C2%A7%2004049%20-%20Officers%20and%20employees%20of%20the%20Bureau%20of%20Prisons%20authorized%20to%20carry%20oleoresin%20capsicum%20spray.md)
 - [&sect; 04050 - Secure firearms storage](%C2%A7%2004050%20-%20Secure%20firearms%20storage.md)
+- [&sect; 04051 - Treatment of primary caretaker parents and other individuals](%C2%A7%2004051%20-%20Treatment%20of%20primary%20caretaker%20parents%20and%20other%20individuals.md)

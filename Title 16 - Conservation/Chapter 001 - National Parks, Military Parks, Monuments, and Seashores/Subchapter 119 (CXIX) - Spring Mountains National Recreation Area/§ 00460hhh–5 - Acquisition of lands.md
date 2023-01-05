@@ -18,5 +18,5 @@ For purposes of section 100506 of title 54, where such boundaries are establishe
 
 #### Amendments
 
-<b>2014</b>—Subsec. (c). Pub. L. 113–287, which directed substitution of "section 100506 of title 54" for "section 460l–9 of this title" in section 7 of the Springs Mountain National Recreation Area Act, was executed to this section, which is section 7 of the Spring Mountains National Recreation Area Act, to reflect the probable intent of Congress.
+<b>2014</b>—Subsec. (c). Pub. L. 113–287, which directed substitution of "section 100506 of title 54" for "section460l–9 of this title" in section 7 of the Springs Mountain National Recreation Area Act, was executed to this section, which is section 7 of the Spring Mountains National Recreation Area Act, to reflect the probable intent of Congress.
 

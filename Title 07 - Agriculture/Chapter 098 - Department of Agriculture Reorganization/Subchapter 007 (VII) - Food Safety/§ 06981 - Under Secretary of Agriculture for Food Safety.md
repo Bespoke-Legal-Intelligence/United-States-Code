@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Department of Agriculture the position of Under Secretary of Agriculture for Food Safety. The Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals with specialized training orsignificant experience in food safety or public health programs.
+There is established in the Department of Agriculture the position of Under Secretary of Agriculture for Food Safety. The Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals with specialized training or significant experience in food safety or public health programs.
 
 #### (b) Functions of Under Secretary
 

@@ -16,7 +16,7 @@ Not later than 60 days after all the members of the Board of the Commission have
 
 &emsp;(4) section 1343, 1344, and 1349(b) of title 31;
 
-&emsp;(5) the Ethics in Government Act of 1978 (92 Stat. 1824), as amended; and
+&emsp;(5) chapter 131 of title 5; and
 
 &emsp;(6) those provisions of the laws and regulations of the Republic of Panama which are substantially equivalent to those of the United States set forth in this subsection.
 
@@ -26,7 +26,7 @@ The Commission shall investigate any allegations regarding the violation of the 
 
 #### (d) Measures to insure compliance with code of conduct
 
-The President shall negotiate suitable arrangements with the Republic of Panama whereby each nation shall agree to take all measures within its legal authority to assure that members of the Board of the Commission comply with the code of conduct established pursuant to subsection (b) of this section. Without prejudice to such jurisdiction as the United States may have with respect to members of the Board, the provisions of law enumerated in subsection (b) of this section shall be enforced with respect to members of the Board only in accordance with such arrangements.
+The President shall negotiate suitable arrangements with the Republic of Panama whereby each nation shall agree to take all measures within its legal authority to assure that members of the Board of the Commission comply with the code of conduct established pursuant tosubsection (b) of this section. Without prejudice to such jurisdiction as the United States may have with respect to members of the Board, the provisions of law enumerated in subsection (b) of this section shall be enforced with respect to members of the Board only in accordance with such arrangements.
 
 #### (e) Waiver of post-employment restrictions
 
@@ -48,19 +48,17 @@ The President shall negotiate suitable arrangements with the Republic of Panama 
 
 (2) The consent of the Congress under paragraph (1) is effective without regard to subsection (b) of section 908 of title 37 (relating to approval required for employment of Reserve and retired members by foreign governments).
 
-(Pub. L. 96–70, title I, §1112, Sept. 27, 1979, 93 Stat. 459; Pub. L. 105–85, div. C, title XXXV, §§3522, 3550(d)(2)(A), Nov. 18, 1997, 111 Stat. 2064, 2074.)
+(Pub. L. 96–70, title I, §1112, Sept. 27, 1979, 93 Stat. 459; Pub. L. 105–85, div. C, title XXXV, §§3522, 3550(d)(2)(A), Nov. 18, 1997, 111 Stat. 2064, 2074; Pub. L. 117–286, §4(c)(31), Dec. 27, 2022, 136 Stat. 4358.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Ethics in Government Act of 1978 (92 Stat. 1824), as amended, referred to in subsec. (b)(5), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
 #### Codification
 
 In subsec. (b)(4), "sections 1343, 1344, and 1349(b) of title 31" substituted for "section 5 of the Act of July 16, 1914 (31 U.S.C. 638a), as amended" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(5). Pub. L. 117–286 substituted "chapter 131 of title 5;" for "the Ethics in Government Act of 1978 (92 Stat. 1824), as amended;".
 
 <b>1997</b>—Subsec. (b). Pub. L. 105–85, §3550(d)(2)(A), substituted "October 1, 1979" for "the effective date of this Act".
 

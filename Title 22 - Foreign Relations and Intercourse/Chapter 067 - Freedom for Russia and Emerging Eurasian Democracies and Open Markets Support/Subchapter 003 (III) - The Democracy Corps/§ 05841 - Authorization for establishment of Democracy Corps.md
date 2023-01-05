@@ -74,7 +74,7 @@ The Board shall be required to submit to the Administrator and the Congress, not
 
 #### (j) Authorization of appropriations
 
-Of the amount authorized to be appropriated to carry out chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\], up to $15,000,000 for fiscal year 1993 are authorized to be appropriated for grants to the Democracy Corps under this section, in addition to amounts otherwise available for such purpose.
+Of the amount authorized to be appropriated to carry out chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\], up to $15,000,000 for fiscal year 1993 are authorized to be appropriated for grants to the DemocracyCorps under this section, in addition to amounts otherwise available for such purpose.
 
 #### (k) Sunset provision
 
@@ -94,5 +94,5 @@ As used in this section—
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 11 of part I of the Act is classified generally to part XI (§2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part XI (§2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 

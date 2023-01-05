@@ -24,6 +24,7 @@
 | [773\.](%C2%A7%2000773%20-%20Resurveys%20or%20retracements%20of%20township%20lines%2C%20etc.md) | Resurveys or retracements of township lines, etc. |
 | [774\.](%C2%A7%2000774%20-%20Protection%20of%20surveyor%20by%20marshal.md) | Protection of surveyor by marshal. |
 | [775\.](%C2%A7%2000775%20-%20Omitted.md) | Omitted. |
+| [776\.](%C2%A7%2000776%20-%20Cadastre%20of%20Federal%20real%20property.md) | Cadastre of Federal real property. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,3 +56,4 @@
 - [&sect; 00773 - Resurveys or retracements of township lines, etc](%C2%A7%2000773%20-%20Resurveys%20or%20retracements%20of%20township%20lines%2C%20etc.md)
 - [&sect; 00774 - Protection of surveyor by marshal](%C2%A7%2000774%20-%20Protection%20of%20surveyor%20by%20marshal.md)
 - [&sect; 00775 - Omitted](%C2%A7%2000775%20-%20Omitted.md)
+- [&sect; 00776 - Cadastre of Federal real property](%C2%A7%2000776%20-%20Cadastre%20of%20Federal%20real%20property.md)

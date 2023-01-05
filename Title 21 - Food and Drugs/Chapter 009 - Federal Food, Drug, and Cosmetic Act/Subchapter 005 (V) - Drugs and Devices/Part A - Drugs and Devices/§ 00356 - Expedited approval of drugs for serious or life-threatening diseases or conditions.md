@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) holding meetings with the sponsor and the review team throughout the development of the drug;
 
-&emsp;&emsp;&emsp;(ii) providing timely advice to, and interactive communication with, the sponsor regarding the development of the drug to ensure that the development program to gather the nonclinical and clinical datanecessary for approval is as efficient as practicable;
+&emsp;&emsp;&emsp;(ii) providing timely advice to, and interactive communication with, the sponsor regarding the development of the drug to ensure that the development program to gather the nonclinical and clinical data necessary for approval is as efficient as practicable;
 
 &emsp;&emsp;&emsp;(iii) involving senior managers and experienced review staff, as appropriate, in a collaborative, cross-disciplinary review;
 
@@ -38,7 +38,7 @@
 
 #### (2) Request for designation
 
-&emsp;The sponsor of a new drug may request the Secretary to designate the drug as a fast track product. A request for the designation may be made concurrently with, or at any time after, submission of an application for the investigation of the drug under section 355(i) of this title or section 351(a)(3) of the Public Health Service Act \[42 U.S.C. 262(a)(3)\].
+&emsp;The sponsor of a new drug may request the Secretary to designate the drug as a fast track product. A request for the designation may be made concurrently with, or at any time after,submission of an application for the investigation of the drug under section 355(i) of this title or section 351(a)(3) of the Public Health Service Act \[42 U.S.C. 262(a)(3)\].
 
 #### (3) Designation
 
@@ -58,23 +58,63 @@
 
 #### (2) Limitation
 
-&emsp;Approval of a product under this subsection may be subject to 1 or both of the following requirements:
+#### (A) In general
 
-&emsp;&emsp;(A) That the sponsor conduct appropriate postapproval studies to verify and describe the predicted effect on irreversible morbidity or mortality or other clinical benefit.
+&emsp;&emsp;Approval of a product under this subsection may be subject to 1 or both of the following requirements:
 
-&emsp;&emsp;(B) That the sponsor submit copies of all promotional materials related to the product during the preapproval review period and, following approval and for such period thereafter as the Secretary determines to be appropriate, at least 30 days prior to dissemination of the materials.
+&emsp;&emsp;&emsp;(i) That the sponsor conduct an appropriate postapproval study or studies to verify and describe the predicted effect on irreversible morbidity or mortality or other clinical benefit.
+
+&emsp;&emsp;&emsp;(ii) That the sponsor submit copies of all promotional materials related to the product during the preapproval review period and, following approval and for such period thereafter as the Secretary determines to be appropriate, at least 30 days prior to dissemination of the materials.
+
+#### (B) Studies not required
+
+&emsp;&emsp;If the Secretary does not require that the sponsor of a product approved under accelerated approval conduct a postapproval study under this paragraph, the Secretary shall publish on the website of the Food and Drug Administration the rationale for why such study is not appropriate or necessary.
+
+#### (C) Postapproval study conditions
+
+&emsp;&emsp;Not later than the date of approval of a product under accelerated approval, the Secretary shall specify the conditions for a postapproval study or studies required to be conducted under this paragraph with respect to such product, which may include enrollment targets, the study protocol, and milestones, including the target date of study completion.
+
+#### (D) Studies begun before approval
+
+&emsp;&emsp;The Secretary may require, as appropriate, a study or studies to be underway prior to approval, or within a specified time period after the date of approval, of the applicable product.
 
 #### (3) Expedited withdrawal of approval
 
-&emsp;The Secretary may withdraw approval of a product approved under accelerated approval using expedited procedures (as prescribed by the Secretary in regulations which shall include an opportunity for an informal hearing) if—
+#### (A) In general
 
-&emsp;&emsp;(A) the sponsor fails to conduct any required postapproval study of the drug with due diligence;
+&emsp;&emsp;The Secretary may withdraw approval of a product approved under accelerated approval using expedited procedures described in subparagraph (B) if—
 
-&emsp;&emsp;(B) a study required to verify and describe the predicted effect on irreversible morbidity or mortality or other clinical benefit of the product fails to verify and describe such effect or benefit;
+&emsp;&emsp;&emsp;(i) the sponsor fails to conduct any required postapproval study of the product with due diligence, including with respect to conditions specified by the Secretary under paragraph (2)(C);
 
-&emsp;&emsp;(C) other evidence demonstrates that the product is not safe or effective under the conditions of use; or
+&emsp;&emsp;&emsp;(ii) a study required to verify and describe the predicted effect on irreversible morbidity or mortality or other clinical benefit of the product fails to verify and describe such effect or benefit;
 
-&emsp;&emsp;(D) the sponsor disseminates false or misleading promotional materials with respect to the product.
+&emsp;&emsp;&emsp;(iii) other evidence demonstrates that the product is not shown to be safe or effective under the conditions of use; or
+
+&emsp;&emsp;&emsp;(iv) the sponsor disseminates false or misleading promotional materials with respect to the product.
+
+#### (B) Expedited procedures described
+
+&emsp;&emsp;Expedited procedures described in this subparagraph shall consist of, prior to the withdrawal of accelerated approval—
+
+&emsp;&emsp;&emsp;(i) providing the sponsor with—
+
+&emsp;&emsp;&emsp;&emsp;(I) due notice;
+
+&emsp;&emsp;&emsp;&emsp;(II) an explanation for the proposed withdrawal;
+
+&emsp;&emsp;&emsp;&emsp;(III) an opportunity for a meeting with the Commissioner or the Commissioner's designee; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) an opportunity for written appeal to—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the Commissioner; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) a designee of the Commissioner who has not participated in the proposed withdrawal of approval (other than a meeting pursuant to subclause (III)) and is not subordinate of an individual (other than the Commissioner) who participated in such proposed withdrawal;
+
+&emsp;&emsp;&emsp;(ii) providing an opportunity for public comment on the proposal to withdraw approval;
+
+&emsp;&emsp;&emsp;(iii) the publication of a summary of the public comments received, and the Secretary's response to such comments, on the website of the Food and Drug Administration; and
+
+&emsp;&emsp;&emsp;(iv) convening and consulting an advisory committee on issues related to the proposed withdrawal, if requested by the sponsor and if no such advisory committee has previously advised the Secretary on such issues with respect to the withdrawal of the product prior to the sponsor's request.
 
 #### (d) Review of incomplete applications for approval of a fast track product
 
@@ -134,7 +174,7 @@ The Secretary shall—
 
 #### (5) Actions
 
-&emsp;The sponsor of a regenerative advanced therapy shall be eligible for the actions to expedite development and review of such therapy under subsection (a)(3)(B), including early interactions to discuss any potential surrogate or intermediate endpoint to be used to support the accelerated approval of an application for the product under subsection (c).
+&emsp;The sponsor of a regenerative advanced therapy shall be eligible for the actions to expeditedevelopment and review of such therapy under subsection (a)(3)(B), including early interactions to discuss any potential surrogate or intermediate endpoint to be used to support the accelerated approval of an application for the product under subsection (c).
 
 #### (6) Access to expedited approval pathways
 
@@ -204,7 +244,7 @@ The Secretary shall—
 
 #### (5) Guidance
 
-&emsp;Not later than 18 months after December 13, 2016, the Secretary shall issue draft guidance describing criteria, processes, and other general considerations for demonstrating the safety and effectiveness of limited population antibacterial and antifungal drugs. The Secretary shall publish final guidance within 18 months of the close of the public comment period on such draft guidance. The Secretary may approve antibacterial and antifungal drugs under this subsection prior to issuing guidance under this paragraph.
+&emsp;Not later than 18 months after December 13, 2016, the Secretary shall issue draft guidancedescribing criteria, processes, and other general considerations for demonstrating the safety and effectiveness of limited population antibacterial and antifungal drugs. The Secretary shall publish final guidance within 18 months of the close of the public comment period on such draft guidance. The Secretary may approve antibacterial and antifungal drugs under this subsection prior to issuing guidance under this paragraph.
 
 #### (6) Advice
 
@@ -228,7 +268,7 @@ The Secretary shall—
 
 &emsp;&emsp;Not later than December 2021, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report on the coordination of activities required under section 319E of the Public Health Service Act \[42 U.S.C. 247d–5\]. Such report shall include a review of such activities, and the extent to which the use of the pathway established under this subsection has streamlined premarket approval for antibacterial or antifungal drugs for limited populations, if such pathway has functioned as intended, if such pathway has helped provide for safe and effective treatment for patients, if such premarket approval would be appropriate for other categories of drugs, and if the authorities under this subsection have affected antibacterial or antifungal resistance.
 
-(June 25, 1938, ch. 675, §506, as added Pub. L. 105–115, title I, §112(a), Nov. 21, 1997, 111 Stat. 2309; amended Pub. L. 112–144, title VIII, §803, title IX, §§901(b), 902(a), July 9, 2012, 126 Stat. 1079, 1083, 1086; Pub. L. 114–255, div. A, title III, §§3033(a), (c), 3042, Dec. 13, 2016, 130 Stat. 1101, 1103, 1112.)
+(June 25, 1938, ch. 675, §506, as added Pub. L. 105–115, title I, §112(a), Nov. 21, 1997, 111 Stat. 2309; amended Pub. L. 112–144, title VIII, §803, title IX, §§901(b), 902(a), July 9, 2012, 126 Stat. 1079, 1083, 1086; Pub. L. 114–255, div. A, title III, §§3033(a), (c), 3042, Dec. 13, 2016, 130 Stat. 1101, 1103, 1112; Pub. L. 117–328, div. FF, title III, §3210(a), Dec. 29, 2022, 136 Stat. 5822.)
 
 #### <b>Editorial Notes</b>
 
@@ -247,6 +287,18 @@ The Public Health Service Act, referred to in subsec. (h)(4), is act July 1, 194
 A prior section 356, act June 25, 1938, ch. 675, §506, as added Dec. 22, 1941, ch. 613, §3, 55 Stat. 851; amended Pub. L. 102–300, §6(b)(2), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(o), Aug. 13, 1993, 107 Stat. 777, related to certification of drugs containing insulin, prior to repeal by Pub. L. 105–115, title I, §125(a)(1), Nov. 21, 1997, 111 Stat. 2325.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(2). Pub. L. 117–328, §3210(a)(1)(A), (B), (D), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpars. (B) to (D).
+
+Subsec. (c)(2)(A)(i). Pub. L. 117–328, §3210(a)(1)(C), substituted "an appropriate postapproval study or studies" for "appropriate postapproval studies".
+
+Subsec. (c)(3). Pub. L. 117–328, §3210(a)(2)(B), (C), (F), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+
+Pub. L. 117–328, §3210(a)(2)(A), substituted "described in subparagraph (B)" for "(as prescribed by the Secretary in regulations which shall include an opportunity for an informal hearing)" in introductory provisions.
+
+Subsec. (c)(3)(A)(i). Pub. L. 117–328, §3210(a)(2)(D), substituted "product with due diligence, including with respect to conditions specified by the Secretary under paragraph (2)(C)" for "drug with due diligence".
+
+Subsec. (c)(3)(A)(iii). Pub. L. 117–328, §3210(a)(2)(E), inserted "shown to be" after "product is not".
 
 <b>2016</b>—Subsec. (e). Pub. L. 114–255, §3033(a)(1), transferred subsec. (e) to appear before subsec. (f).
 
@@ -274,6 +326,10 @@ Subsec. (f)(1). Pub. L. 112–144, §902(a)(4), substituted "applicable to break
 
 Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as an Effective Date of 1997 Amendment note under section 321 of this title.
 
+#### Construction of 2022 Amendment
+
+Pub. L. 117–328, div. FF, title III, §3210(f), Dec. 29, 2022, 136 Stat. 5825, provided that: "Nothing in this section \[enacting section 356–2 of this title, amending this section and sections 331 and 356b of this title, and enacting provisions set out as a note under this section\] (including the amendments made by this section) shall be construed to affect ongoing withdrawal proceedings for products approved pursuant to section 506(c) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356(c)) for which a notice of proposed withdrawal has been published in the Federal Register prior to the date of enactment of this Act \[Dec. 29, 2022\]. Such proceedings may continue under procedures in effect prior to the date of enactment of this Act."
+
 #### Construction of 2016 Amendments
 
 Pub. L. 114–255, div. A, title III, §3033(b), Dec. 13, 2016, 130 Stat. 1103, provided that: "Nothing in this section \[amending this section\] and the amendments made by this section shall be construed to alter the authority of the Secretary of Health and Human Services—
@@ -283,6 +339,30 @@ Pub. L. 114–255, div. A, title III, §3033(b), Dec. 13, 2016, 130 Stat. 1103, 
 &emsp;"(2) to alter the authority of the Secretary to require postapproval studies pursuant to such Acts, as authorized prior to the date of enactment of the 21st Century Cures Act."
 
 Pub. L. 114–255, div. A, title III, §3043, Dec. 13, 2016, 130 Stat. 1114, provided that: "Nothing in this subtitle \[subtitle E (§§3041–3044) of title III of div. A of Pub. L. 114–255, enacting section 360a–2 of this title, amending this section, sections 352 and 360d of this title, and section 247d–5 of Title 42, The Public Health and Welfare, repealing section 247d–5a of Title 42, and enacting provisions set out as notes under section 360a–2 of this title and section 247d–5 of Title 42\], or an amendment made by this subtitle, shall be construed to restrict the prescribing of antimicrobial drugs or other products, including drugs approved under subsection (h) of section 506 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356\[(h)\]) (as added by section 3042), by health care professionals, or to limit the practice of health care."
+
+#### Guidance
+
+Pub. L. 117–328, div. FF, title III, §3210(d), Dec. 29, 2022, 136 Stat. 5824, provided that:
+
+"(1)
+
+In general.—The Secretary \[of Health and Human Services\] shall issue guidance describing—
+
+&emsp;"(A) how sponsor questions related to the identification of novel surrogate or intermediate clinical endpoints may be addressed in early-stage development meetings with the Food and Drug Administration;
+
+&emsp;"(B) the use of novel clinical trial designs that may be used to conduct appropriate postapproval studies as may be required under section 506(c)(2)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356(c)(2)(A)), as amended by subsection (a);
+
+&emsp;"(C) the expedited procedures described in section 506(c)(3)(B) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356(c)(3)(B)); and
+
+&emsp;"(D) considerations related to the use of surrogate or intermediate clinical endpoints that may support the accelerated approval of an application under 506(c)(1)(A) of such Act (21 U.S.C. 356(c)(1)(A)), including considerations in evaluating the evidence related to any such endpoints.
+
+"(2)
+
+Final guidance.—The Secretary shall issue—
+
+&emsp;"(A) draft guidance under paragraph (1) not later than 18 months after the date of enactment of this Act \[Dec. 29, 2022\]; and
+
+&emsp;"(B) final guidance not later than 1 year after the close of the public comment period on such draft guidance."
 
 #### Report on Regenerative Advanced Therapies
 
@@ -358,7 +438,7 @@ In general.—
 
 &emsp;"(A)
 
-Guidance.—Not later than 18 months after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue draft guidance on implementing the requirements with respect to breakthrough therapies, as set forth in section506(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356(a)), as amended by this section. The Secretary shall issue final guidance not later than 1 year after the close of the comment period for the draft guidance.
+Guidance.—Not later than 18 months after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue draft guidance on implementing the requirements with respect to breakthrough therapies, as set forth in section 506(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356(a)), as amended by this section. The Secretary shall issue final guidance not later than 1 year after the close of the comment period for the draft guidance.
 
 &emsp;"(B)
 

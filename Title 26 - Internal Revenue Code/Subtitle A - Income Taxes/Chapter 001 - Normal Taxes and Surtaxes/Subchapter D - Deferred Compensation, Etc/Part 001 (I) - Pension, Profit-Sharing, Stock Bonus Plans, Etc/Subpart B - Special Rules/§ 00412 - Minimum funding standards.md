@@ -10,7 +10,7 @@
 
 &emsp;For purposes of paragraph (1), a plan shall be treated as satisfying the minimum funding standard for a plan year if—
 
-&emsp;&emsp;(A) in the case of a defined benefit plan which is not a multiemployer plan or a CSEC plan, the employer makes contributions to or under the plan for the plan year which, in the aggregate, are not less than the minimum required contribution determined under section 430 for the plan for the plan year,
+&emsp;&emsp;(A) in the case of a defined benefit plan which is not a multiemployer plan or a CSEC plan, the employer makes contributions to or under the plan for the plan yearwhich, in the aggregate, are not less than the minimum required contribution determined under section 430 for the plan for the plan year,
 
 &emsp;&emsp;(B) in the case of a money purchase plan which is not a multiemployer plan, the employer makes contributions to or under the plan for the plan year which are required under the terms of the plan,
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) application of the standard would be adverse to the interests of plan participants in the aggregate,
 
-> &emsp;&emsp;the Secretary may, subject to subparagraph (C), waive the requirements of subsection (a) for such year with respect to all or any portion of the minimum funding standard. TheSecretary shall not waive the minimum funding standard with respect to a plan for more than 3 of any 15 (5 of any 15 in the case of a multiemployer plan) consecutive plan years.
+> &emsp;&emsp;the Secretary may, subject to subparagraph (C), waive the requirements of subsection (a) for such year with respect to all or any portion of the minimum funding standard. The Secretary shall not waive the minimum funding standard with respect to a plan for more than 3 of any 15 (5 of any 15 in the case of a multiemployer plan) consecutive plan years.
 
 #### (B) Effects of waiver
 
@@ -82,7 +82,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the Secretary may require an employer maintaining a defined benefit plan which is a single-employer plan (within the meaning of section 4001(a)(15) of the Employee Retirement Income Security Act of 1974) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1) or for granting an extension under section 433(d).
+&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the Secretary may require an employer maintaining a defined benefit plan whichis a single-employer plan (within the meaning of section 4001(a)(15) of the Employee Retirement Income Security Act of 1974) to provide security to such plan as a condition for granting or modifying a waiver under paragraph (1) or for granting an extension under section 433(d).
 
 #### (ii) Special rules
 
@@ -154,7 +154,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rate at which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 431(d) or section 433(d) is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
+&emsp;&emsp;No amendment of a plan which increases the liabilities of the plan by reason of any increase in benefits, any change in the accrual of benefits, or any change in the rateat which benefits become nonforfeitable under the plan shall be adopted if a waiver under this subsection or an extension of time under section 431(d) or section 433(d) is in effect with respect to the plan, or if a plan amendment described in subsection (d)(2) which reduces the accrued benefit of any participant has been made at any time in the preceding 12 months (24 months in the case of a multiemployer plan). If a plan is amended in violation of the preceding sentence, any such waiver, or extension of time, shall not apply to any plan year ending on or after the date on which such amendment is adopted.
 
 #### (B) Exception
 
@@ -182,7 +182,7 @@
 
 &emsp;&emsp;(C) does not reduce the accrued benefit of any participant determined as of the time of adoption except to the extent required by the circumstances,
 
-> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary notifying him of such amendment and the Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary unless the Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan or aCSEC plan, any extension of the amortization period under section 431(d) or section 433(d)) is unavailable or inadequate.
+> &emsp;shall, at the election of the plan administrator, be deemed to have been made on the first day of such plan year. No amendment described in this paragraph which reduces the accrued benefits of any participant shall take effect unless the plan administrator files a notice with the Secretary notifying him of such amendment and the Secretary has approved such amendment, or within 90 days after the date on which such notice was filed, failed to disapprove such amendment. No amendment described in this subsection shall be approved by the Secretary unless the Secretary determines that such amendment is necessary because of a temporary substantial business hardship (as determined under subsection (c)(2)) or a substantial business hardship (as so determined) in the case of a multiemployer plan and that a waiver under subsection (c) (or, in the case of a multiemployer plan or a CSEC plan, any extension of the amortization period under section 431(d) or section 433(d)) is unavailable or inadequate.
 
 #### (3) Controlled group
 
@@ -444,7 +444,7 @@ Subsec. (m)(4)(D). Pub. L. 101–239, §7881(b)(4)(A), amended subpar. (D) gener
 
 &emsp;"(ii) each required installment shall be increased by the greater of—
 
-&emsp;&emsp;"(I) the amount of benefits described in subsection (l)(5)(A)(i) paid during the 3-month periodpreceding the month in which the due date for such installment occurs, or
+&emsp;&emsp;"(I) the amount of benefits described in subsection (l)(5)(A)(i) paid during the 3-month period preceding the month in which the due date for such installment occurs, or
 
 &emsp;&emsp;"(II) 25 percent of the amount determined under subsection (l)(5)(A)(ii) for the plan year."
 
@@ -598,7 +598,7 @@ Certain changes cease to be effective.—In the case of changes in assumptions f
 
 &emsp;"(B) such change is not so approved."
 
-Pub. L. 103–465, title VII, §753(b), Dec. 8, 1994, 108 Stat. 5023, provided that: "The amendment made by this section \[amending this section\] shall apply to plan yearsbeginning after December 31, 1994, with respect to collective bargaining agreements in effect on or after January 1, 1995."
+Pub. L. 103–465, title VII, §753(b), Dec. 8, 1994, 108 Stat. 5023, provided that: "The amendment made by this section \[amending this section\] shall apply to plan years beginning after December 31, 1994, with respect to collective bargaining agreements in effect on or after January 1, 1995."
 
 Pub. L. 103–465, title VII, §754(b), Dec. 8, 1994, 108 Stat. 5023, provided that: "The amendment made by this section \[amending this section\] shall apply to plan years beginning after the date of enactment of this Act \[Dec. 8, 1994\]."
 
@@ -656,7 +656,7 @@ Required percentage.—For purposes of subparagraph (A), the term 'required perc
 
 &emsp;&emsp;&emsp;"(I) the funded current liability percentage as of the beginning of the 1st plan year beginning after December 31, 1988 (determined without regard to any plan amendment adopted after June 30, 1987), plus
 
-&emsp;&emsp;&emsp;"(II) 1 percentage point for the plan year for which the determination under this paragraph is being made and for each prior plan year beginning after December 31, 1988, over
+&emsp;&emsp;&emsp;"(II) 1 percentage point for the plan year for which the determination under this paragraph isbeing made and for each prior plan year beginning after December 31, 1988, over
 
 &emsp;&emsp;"(ii) the funded current liability percentage as of the beginning of the plan year for which such determination is being made.
 
@@ -764,7 +764,7 @@ Section applicable, except as otherwise provided in section 1017(c) through (i) 
 
 #### Regulations
 
-Pub. L. 103–465, title VII, §769, Dec. 8, 1994, 108 Stat. 5041, as amended by Pub. L. 105–34, title XV, §1508(a), Aug. 5, 1997, 111 Stat. 1067; Pub. L. 108–218, title II, §201(a), Apr. 10, 2004, 118 Stat. 608; Pub. L. 109–280, title I, §115(d)(1), (e)(1), Aug. 17, 2006, 120 Stat. 856, provided that:
+Pub. L. 103–465, title VII, §769, Dec. 8, 1994, 108 Stat. 5041, as amended by Pub. L. 105–34, title XV, §1508(a),Aug. 5, 1997, 111 Stat. 1067; Pub. L. 108–218, title II, §201(a), Apr. 10, 2004, 118 Stat. 608; Pub. L. 109–280, title I, §115(d)(1), (e)(1), Aug. 17, 2006, 120 Stat. 856, provided that:
 
 "(a)
 
@@ -790,7 +790,7 @@ Pub. L. 100–203, title IX, §9303(c), Dec. 22, 1987, 101 Stat. 1330–342, pro
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractorplans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 

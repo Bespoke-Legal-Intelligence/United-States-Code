@@ -232,7 +232,7 @@ For purposes of this section—
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations with respect to items properly included in, or excluded from, the adjusted basis of any listed property.
 
-(Added Pub. L. 98–369, div. A, title I, §179(a), July 18, 1984, 98 Stat. 713; amended Pub. L. 99–44, §4, May 24, 1985, 99 Stat. 78; Pub. L. 99–514, title II, §201(d)(4), title XVIII, §1812(e)(1)(A), (C), (2)–(5), Oct. 22, 1986, 100 Stat. 2139, 2836, 2837; Pub. L. 100–647, title I, §§1002(a)(10), (b)(2), 1018(u)(3), Nov. 10, 1988, 102 Stat. 3354, 3357, 3590; Pub. L. 101–239, title VII, §7643(a), Dec. 19, 1989, 103 Stat. 2381; Pub. L. 101–508, title XI, §11813(b)(13)(A)–(E), Nov. 5, 1990, 104 Stat. 1388–554, 1388–555; Pub. L. 104–188, title I, §1702(h)(5), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title IX, §971(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 105–206, title VI, §6009(c), July 22, 1998, 112 Stat. 812; Pub. L. 107–147, title VI, §602(b)(1), Mar. 9, 2002, 116 Stat. 59; Pub. L. 111–240, title II, §2043(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 113–295, div. A, title II, §§220(j), 221(a)(34)(E), Dec. 19, 2014, 128 Stat. 4036, 4042; Pub. L. 115–97, title I, §§11002(d)(8), 13202(a), (b), Dec. 22, 2017, 131 Stat. 2061, 2108, 2109.)
+(Added Pub. L. 98–369, div. A, title I, §179(a), July 18, 1984, 98 Stat. 713; amended Pub. L. 99–44,§4, May 24, 1985, 99 Stat. 78; Pub. L. 99–514, title II, §201(d)(4), title XVIII, §1812(e)(1)(A), (C), (2)–(5), Oct. 22, 1986, 100 Stat. 2139, 2836, 2837; Pub. L. 100–647, title I, §§1002(a)(10), (b)(2), 1018(u)(3), Nov. 10, 1988, 102 Stat. 3354, 3357, 3590; Pub. L. 101–239, title VII, §7643(a), Dec. 19, 1989, 103 Stat. 2381; Pub. L. 101–508, title XI, §11813(b)(13)(A)–(E), Nov. 5, 1990, 104 Stat. 1388–554, 1388–555; Pub. L. 104–188, title I, §1702(h)(5), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title IX, §971(a), Aug. 5, 1997, 111 Stat. 897; Pub. L. 105–206, title VI, §6009(c), July 22, 1998, 112 Stat. 812; Pub. L. 107–147, title VI, §602(b)(1), Mar. 9, 2002, 116 Stat. 59; Pub. L. 111–240, title II, §2043(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 113–295, div. A, title II, §§220(j), 221(a)(34)(E), Dec. 19, 2014, 128 Stat. 4036, 4042; Pub. L. 115–97, title I, §§11002(d)(8), 13202(a), (b), Dec. 22, 2017, 131 Stat. 2061, 2108, 2109.)
 
 #### Inflation Adjusted Items for Certain Calendar Years
 
@@ -404,7 +404,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 201(d)(4) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(4) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(4) of Pub. L. 99–514 not applicable to any property placed in service before Jan.1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 Amendment by section 1812(e)(1)(A), (C), (2)–(5) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -461,6 +461,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2022</b>—Revenue Procedure 2022–17.
 
 <b>2021</b>—Revenue Procedure 2021–31.
 

@@ -322,7 +322,7 @@
 
 #### (D) Use of funds
 
-&emsp;&emsp;The administering entity for an eligible State to which a grant is awarded under thissubsection shall use the grant amounts for the following purposes:
+&emsp;&emsp;The administering entity for an eligible State to which a grant is awarded under this subsection shall use the grant amounts for the following purposes:
 
 &emsp;&emsp;&emsp;(i)(I) Subject to subclause (II), to update or maintain the State Digital Equity Plan of the State.
 
@@ -396,7 +396,7 @@ When applying for a grant under this section, a State shall include in the appli
 
 #### (1) In general
 
-&emsp;The Assistant Secretary shall terminate a grant awarded to an eligible State under this section if, after notice to the State and opportunity for a hearing, the Assistant Secretary—
+&emsp;The Assistant Secretary shall terminate a grant awarded to an eligible State under thissection if, after notice to the State and opportunity for a hearing, the Assistant Secretary—
 
 &emsp;&emsp;(A) presents to the State a rationale and supporting information that clearly demonstrates that—
 

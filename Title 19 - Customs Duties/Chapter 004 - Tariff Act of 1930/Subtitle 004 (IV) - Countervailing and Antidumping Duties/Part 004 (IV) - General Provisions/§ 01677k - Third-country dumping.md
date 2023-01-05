@@ -14,7 +14,7 @@ For purposes of this section:
 
 #### (b) Petition by domestic industry
 
-(1) A domestic industry that produces a product that is like or directly competitive with merchandise produced by a foreign country (whether or not an Agreement country) may, if it has reason to believe that—
+(1) A domestic industry that produces a product that is like or directly competitive withmerchandise produced by a foreign country (whether or not an Agreement country) may, if it has reason to believe that—
 
 &emsp;(A) such merchandise is being dumped in an Agreement country; and
 

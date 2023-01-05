@@ -2,7 +2,7 @@
 
 (a)
 
-Offense.—A person who, while confined in a Federal correctional institution under a sentence for a term of life imprisonment, commits the murder of another shall be punished by death or by life imprisonment.
+Offense.—A person who, while confined in a Federal correctional institution under a sentence for a term of life imprisonment, commitsthe murder of another shall be punished by death or by life imprisonment.
 
 (b)
 

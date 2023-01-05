@@ -4,7 +4,11 @@
 
 As recommended by a personnel board convened under section 3022 of this title—
 
-&emsp;(1) an officer in the permanent grade of captain or commander may be transferred to the retired list; and
+&emsp;(1) an officer in the permanent grade of captain or commander may—
+
+&emsp;&emsp;(A) except as provided by subparagraph (B), be transferred to the retired list; or
+
+&emsp;&emsp;(B) if the officer is not qualified for retirement, be separated from service; and
 
 &emsp;(2) an officer in the permanent grade of lieutenant commander, lieutenant, or lieutenant (junior grade) who is not qualified for retirement may be separated from the service.
 
@@ -30,7 +34,7 @@ A retirement or separation under subsection (a) shall take effect on the first d
 
 &emsp;A deferment of retirement or separation under this subsection may not extend for more than 30 days after completion of the evaluation requiring hospitalization or medical observation.
 
-(Pub. L. 107–372, title II, §241, Dec. 19, 2002, 116 Stat. 3088; Pub. L. 116–259, title IV, §401, Dec. 23, 2020, 134 Stat. 1177.)
+(Pub. L. 107–372, title II, §241, Dec. 19, 2002, 116 Stat. 3088; Pub. L. 116–259, title IV, §401, Dec. 23, 2020, 134 Stat. 1177; Pub. L. 117–263, div. K, title CXVII, §11705(a), Dec. 23, 2022, 136 Stat. 4157.)
 
 #### <b>Editorial Notes</b>
 
@@ -39,6 +43,8 @@ A retirement or separation under subsection (a) shall take effect on the first d
 Provisions similar to those in this section were contained in section 853g of this title prior to repeal by Pub. L. 107–372.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–263 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "an officer in the permanent grade of captain or commander may be transferred to the retired list; and".
 
 <b>2020</b>—Subsec. (d). Pub. L. 116–259 added subsec. (d).
 

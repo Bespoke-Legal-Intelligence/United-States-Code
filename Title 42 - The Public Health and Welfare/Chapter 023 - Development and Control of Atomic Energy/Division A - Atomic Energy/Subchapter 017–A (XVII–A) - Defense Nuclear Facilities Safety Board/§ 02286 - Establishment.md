@@ -96,17 +96,43 @@ There is hereby established an independent establishment in the executive branch
 
 &emsp;&emsp;(II) a plan for submitting such a nomination during the 90-day period following the submission of the report.
 
-(B) If the President does not submit to the Senate the nomination of an individual to fill a vacancy during the 90-day period described in subclause (II) of subparagraph (A)(ii), the President shall submit to the Committee on Armed Services a report described in that subparagraphnot less frequently than every 90 days until the President submits such a nomination.
+(B) If the President does not submit to the Senate the nomination of an individual to fill a vacancy during the 90-day period described in subclause (II) of subparagraph (A)(ii), the President shall submit to the Committee on Armed Services a report described in that subparagraph not less frequently than every 90 days until the President submits such a nomination.
 
 #### (e) Quorum
 
-Three members of the Board shall constitute a quorum, but a lesser number may hold hearings.
+(1) Three members of the Board shall constitute a quorum, but a lesser number may hold hearings.
 
-(Aug. 1, 1946, ch. 724, title I, §311, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 112–239, div. C, title XXXII, §3202(a), Jan. 2, 2013, 126 Stat. 2217; Pub. L. 114–92, div. C, title XXXII, §3202(a), (b)(1), Nov. 25, 2015, 129 Stat. 1217; Pub. L. 116–92, div. C, title XXXII, §3202(a)(1)(B)–(3), §3203(a), (b)(1), (c), Dec. 20, 2019, 133 Stat. 1964, 1966; Pub. L. 117–81, div. C, title XXXII, §3202, Dec. 27, 2021, 135 Stat. 2235.)
+(2) In accordance with paragraph (4), during a covered period, the Chairperson, in consultation with an eligible member, may carry out the functions and powers of the Board under sections 2286a through 2286e of this title, notwithstanding that a quorum does not exist.
+
+(3) Not later than 30 days after a covered period begins, the Chairperson shall notify the congressional defense committees that a quorum does not exist.
+
+(4) The Chairperson may make recommendations to the Secretary of Energy and initiate investigations into defense nuclear facilities under section 2286a of this title pursuant to paragraph (2) only if—
+
+&emsp;(A) a period of 30 days elapses following the date on which the Chairperson submits the notification required under paragraph (3);
+
+&emsp;(B) not later than 30 days after making any such recommendation or initiating any such investigation, the Chairperson notifies the congressional defense committees of such recommendation or investigation; and
+
+&emsp;(C) any eligible member concurs with such recommendation or investigation.
+
+(5) In this subsection:
+
+&emsp;(A) The term "congressional defense committees" has the meaning given such term in section 101(a) of title 10.
+
+&emsp;(B) The term "covered period" means a period beginning on the date on which a quorum specified in paragraph (1) does not exist by reason of either or both a vacancy in the membership of the Board or the incapacity of a member of the Board and ending on the earlier of—
+
+&emsp;&emsp;(i) the date that is one year after such beginning date; or
+
+&emsp;&emsp;(ii) the date on which a quorum exists.
+
+&emsp;(C) The term "eligible member" means a member of the Board, other than the Chairperson, serving during a covered period and who is not incapacitated.
+
+(Aug. 1, 1946, ch. 724, title I, §311, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 112–239, div. C, title XXXII, §3202(a), Jan. 2, 2013, 126 Stat. 2217; Pub. L. 114–92, div. C, title XXXII, §3202(a), (b)(1), Nov. 25, 2015, 129 Stat. 1217; Pub. L. 116–92, div. C, title XXXII, §3202(a)(1)(B)–(3), §3203(a), (b)(1), (c), Dec. 20, 2019, 133 Stat. 1964, 1966; Pub. L. 117–81, div. C, title XXXII, §3202, Dec. 27, 2021, 135 Stat. 2235; Pub. L. 117–263, div. C, title XXXII, §3202, Dec. 23, 2022, 136 Stat. 3060.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–263 designated existing provisions as par. (1) and added pars. (2) to (5).
 
 <b>2021</b>—Subsec. (c). Pub. L. 117–81 substituted "Chairperson, Vice Chairperson" for "Chairman, Vice Chairman" in heading and "Chairperson" for "Chairman" wherever appearing.
 
@@ -134,7 +160,7 @@ Pub. L. 116–92, §3202(a)(2)(B), (C), redesignated par. (7) as (6) and struck 
 
 Subsec. (c)(7). Pub. L. 116–92, §3202(a)(2)(C), redesignated par. (7) as (6).
 
-Subsec. (d)(1). Pub. L. 116–92, §3203(b)(1)(A), substituted "A member may be reappointed for a second term only if the member was confirmed by the Senate more than two years into the member's first term. A member may not be reappointed for a third term." for "Members of the Board may be reappointed."
+Subsec. (d)(1). Pub. L. 116–92, §3203(b)(1)(A), substituted "A member may be reappointed for a second term only if the member was confirmed by the Senate more than two years into the member's first term. Amember may not be reappointed for a third term." for "Members of the Board may be reappointed."
 
 Subsec. (d)(3). Pub. L. 116–92, §3203(b)(1)(B), designated existing provisions as subpar. (A), struck out at end "A member may serve after the expiration of that member's term until a successor has taken office.", and added subpar. (B).
 
@@ -180,7 +206,7 @@ Reporting Requirement.—The Defense Nuclear Facilities Safety Board (in this se
 
 &emsp;"(4) An assessment of the relative advantages and disadvantages to the Department and the public of continuing the functions of the Board with respect to Department of Energy defense nuclear facilities and replacing the activities of the Board with external regulation of such facilities.
 
-&emsp;"(5) A list of all existing or planned Department of Energy defense nuclear facilities that are similar tofacilities under the regulatory jurisdiction of the Nuclear Regulatory Commission.
+&emsp;"(5) A list of all existing or planned Department of Energy defense nuclear facilities that are similar to facilities under the regulatory jurisdiction of the Nuclear Regulatory Commission.
 
 &emsp;"(6) A list of all Department of Energy defense nuclear facilities that are in compliance with all applicable Department of Energy orders, regulations, and requirements relating to the design, construction, operation, and decommissioning of defense nuclear facilities.
 
@@ -216,7 +242,7 @@ Comments on Report.—Before submission of the report to Congress under subsecti
 
 "(c)
 
-Submission to Congress.—Not later than six months after the date of the enactment of this Act \[Nov. 18, 1997\], the Board shall provide to Congress an interim report on the status of the implementation of this section. Not later than one year after the date of the enactment of this Act, and not earlier than 30 days after receipt of comments from the Secretary of Energy and the Nuclear Regulatory Commission under subsection (b), the Board shall submit to Congress the report required under subsection (a).
+Submission to Congress.—Not later than six months after the date of the enactment of this Act \[Nov. 18, 1997\], the Board shall provide to Congress an interim report on the status of the implementation ofthis section. Not later than one year after the date of the enactment of this Act, and not earlier than 30 days after receipt of comments from the Secretary of Energy and the Nuclear Regulatory Commission under subsection (b), the Board shall submit to Congress the report required under subsection (a).
 
 "(d)
 

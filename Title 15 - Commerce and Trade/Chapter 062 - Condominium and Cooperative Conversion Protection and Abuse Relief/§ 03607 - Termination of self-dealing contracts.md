@@ -8,7 +8,7 @@ Any contract or portion thereof which is entered into after October 8, 1980, and
 
 &emsp;(2) is between such unit owners or such association and the developer or an affiliate of the developer;
 
-&emsp;(3) was entered into while such association was controlled by the developer through special developer control or because the developerheld a majority of the votes in such association; and
+&emsp;(3) was entered into while such association was controlled by the developer through special developer control or because the developer held a majority of the votes in such association; and
 
 &emsp;(4) is for a period of more than three years, including any automatic renewal provisions which are exercisable at the sole option of the developer or an affiliate of the developer,
 

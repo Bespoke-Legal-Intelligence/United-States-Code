@@ -64,7 +64,7 @@ To be eligible to receive a grant, contract, or cooperative agreement under subs
 
 #### (1) Annual report to Secretary
 
-&emsp;An entity receiving a grant, contract, or cooperative agreement under this section shall prepare and submit to the Secretary an annual report. The report shall describe the program activities undertaken with funds received under the grant, contract, or cooperative agreement, including each of the following:
+&emsp;An entity receiving a grant, contract, or cooperative agreement under this section shallprepare and submit to the Secretary an annual report. The report shall describe the program activities undertaken with funds received under the grant, contract, or cooperative agreement, including each of the following:
 
 &emsp;&emsp;(A) The programming that has been developed, directly or indirectly, by the eligible entity, and the target population of the programming.
 

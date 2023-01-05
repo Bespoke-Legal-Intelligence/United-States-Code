@@ -6,7 +6,7 @@ The Coast Guard may expend operations and support funds for recruiting activitie
 
 &emsp;(2) gain support of recruiting objectives from those who may assist in the recruiting effort.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 531, §468; Pub. L. 104–324, title II, §206(b), Oct. 19, 1996, 110 Stat. 3908; renumbered §2701, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8513(a)(4), Jan. 1, 2021, 134 Stat. 4760.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 531, §468; Pub. L. 104–324, title II, §206(b), Oct. 19, 1996, 110 Stat.3908; renumbered §2701, Pub. L. 115–282, title I, §116(b), Dec. 4, 2018, 132 Stat. 4226; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8513(a)(4), Jan. 1, 2021, 134 Stat. 4760.)
 
 #### Historical and Revision Notes
 

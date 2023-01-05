@@ -68,7 +68,7 @@ In this section, the following definitions apply:
 
 #### (2) Feasibility study
 
-&emsp;The term "feasibility study" means a study that results in a feasibility report under section 2282 of this title, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a study that results in a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
+&emsp;The term "feasibility study" means a study that results in a feasibility report under section 2282 of this title, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for awater resources project. The term includes a study that results in a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
 
 (Pub. L. 99–662, title I, §105, Nov. 17, 1986, 100 Stat. 4088; Pub. L. 101–640, title III, §301, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §203(a), Oct. 12, 1996, 110 Stat. 3677; Pub. L. 106–541, title II, §225, Dec. 11, 2000, 114 Stat. 2598; Pub. L. 110–114, title II, §2043(a), Nov. 8, 2007, 121 Stat. 1101.)
 

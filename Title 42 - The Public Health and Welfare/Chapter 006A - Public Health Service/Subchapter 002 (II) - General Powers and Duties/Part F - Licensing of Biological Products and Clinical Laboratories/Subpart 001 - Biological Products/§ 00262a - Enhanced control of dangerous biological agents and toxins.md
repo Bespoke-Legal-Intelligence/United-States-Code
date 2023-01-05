@@ -34,7 +34,13 @@ The Secretary shall by regulation provide for—
 
 &emsp;(1) the establishment and enforcement of safety procedures for the transfer of listed agents and toxins, including measures to ensure—
 
-&emsp;&emsp;(A) proper training and appropriate skills to handle such agents and toxins; and
+&emsp;&emsp;(A) proper training, including with respect to notification requirements under this section, of—
+
+&emsp;&emsp;&emsp;(i) individuals who are involved in the handling and use of such agents and toxins, including appropriate skills to handle such agents and toxins;
+
+&emsp;&emsp;&emsp;(ii) individuals whose responsibilities routinely place them in close proximity to laboratory facilities in which such agents and toxins are being transferred, possessed, or used; and
+
+&emsp;&emsp;&emsp;(iii) individuals who perform administrative or oversight functions of the facility related to the transfer, possession, or use of such agents and toxins on behalf of registered persons;
 
 &emsp;&emsp;(B) proper laboratory facilities to contain and dispose of such agents and toxins;
 
@@ -62,7 +68,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (1) In general
 
-&emsp;Regulations under subsections (b) and (c) shall include appropriate safeguard and security requirements for persons possessing, using, or transferring a listed agent or toxin commensurate with the risk such agent or toxin poses to public health and safety (including the risk of use in domestic or international terrorism). The Secretary shall establish such requirements in collaboration with the Secretary of Homeland Security and the Attorney General, and shall ensure compliance with such requirements as part of the registration system under such regulations.
+&emsp;Regulations under subsections (b) and (c) shall include appropriate safeguard and security requirements for persons possessing, using, or transferring a listed agent or toxin commensurate with the risk such agent or toxin poses to public health and safety (including risks posed by the release, theft, or loss of such agent or toxin, or use in domestic or international terrorism). The Secretary shall establish such requirements in collaboration with the Secretary of Homeland Security and the Attorney General, and shall ensure compliance with such requirements as part of the registration system under such regulations.
 
 #### (2) Limiting access to listed agents and toxins
 
@@ -98,7 +104,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (C) Notification by Attorney General regarding submitted names
 
-&emsp;&emsp;After the receipt of a name and other identifying information under paragraph (2)(B),the Attorney General shall promptly notify the Secretary whether the individual is within any of the categories specified in subparagraph (B).
+&emsp;&emsp;After the receipt of a name and other identifying information under paragraph (2)(B), the Attorney General shall promptly notify the Secretary whether the individual is within any of the categories specified in subparagraph (B).
 
 #### (4) Notifications by Secretary
 
@@ -120,7 +126,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 #### (B) Other persons
 
-&emsp;&emsp;Regulations under subsections (b) and (c) shall provide that, in determining whether to deny or revoke registration by a person other than an individual, the Secretary shall submit the name of such person to the Attorney General, who shall use criminal, immigration, national security, and other electronic databases available to the Federal Government, as appropriate for the purpose of promptly notifying the Secretary whether the person, or, where relevant, the individual who owns or controls such person, is a restricted person or is reasonably suspected by any Federal law enforcement or intelligence agency of being within any category specified in paragraph (3)(B)(ii) (as applied to persons, including individuals). Such regulations shall provide that a person who seeks to register under either of such subsections is subject to the same processes described in paragraphs (2) and (4) as apply to names and other identifying information submitted to the Attorney General under paragraph (2)(B). Paragraph (5) does not apply for purposes of this subparagraph. The Secretary may exempt Federal, State, or local governmental agencies from the requirements of this subparagraph.
+&emsp;&emsp;Regulations under subsections (b) and (c) shall provide that, in determining whether to deny or revoke registration by a person other than an individual, the Secretary shall submit the name of such person to the Attorney General, who shall use criminal, immigration, national security, and other electronic databases available to the Federal Government, as appropriate for the purpose of promptly notifying the Secretary whether the person, or, where relevant, the individual who owns or controls such person, is a restricted person or is reasonably suspected by any Federal law enforcement or intelligence agency of being within any category specified in paragraph (3)(B)(ii) (as applied to persons, including individuals). Such regulations shall provide that a person whoseeks to register under either of such subsections is subject to the same processes described in paragraphs (2) and (4) as apply to names and other identifying information submitted to the Attorney General under paragraph (2)(B). Paragraph (5) does not apply for purposes of this subparagraph. The Secretary may exempt Federal, State, or local governmental agencies from the requirements of this subparagraph.
 
 #### (7) Review
 
@@ -220,7 +226,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;No Federal agency specified in paragraph (2) shall disclose under section 552 of title 5 any of the following:
 
-&emsp;&emsp;(A) Any registration or transfer documentation submitted under subsections (b)and (c) for the possession, use, or transfer of a listed agent or toxin; or information derived therefrom to the extent that it identifies the listed agent or toxin possessed, used, or transferred by a specific registered person or discloses the identity or location of a specific registered person.
+&emsp;&emsp;(A) Any registration or transfer documentation submitted under subsections (b) and (c) for the possession, use, or transfer of a listed agent or toxin; or information derived therefrom to the extent that it identifies the listed agent or toxin possessed, used, or transferred by a specific registered person or discloses the identity or location of a specific registered person.
 
 &emsp;&emsp;(B) The national database developed pursuant to subsection (d), or any other compilation of the registration or transfer information submitted under subsections (b) and (c) to the extent that such compilation discloses site-specific registration or transfer information.
 
@@ -244,7 +250,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (3) Other exemptions
 
-&emsp;This subsection may not be construed as altering the application of any exemptions to public disclosure under section 552 of title 5, except as to subsection <sup>2</sup> 552(b)(3) of such title, to any of the information specified in paragraph (1).
+&emsp;This subsection may not be construed as altering the application of any exemptions to public disclosure under section 552 of title 5, except as to subsection <sup>2</sup> 552(b)(3) of such title,to any of the information specified in paragraph (1).
 
 #### (4) Rule of construction
 
@@ -274,7 +280,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 #### (2) Applicability of certain provisions
 
-&emsp;The provisions of section 1320a–7a of this title (other than subsections (a), (b), (h), and (i), the first sentence of subsection (c), and paragraphs (1) and (2) of subsection (f)) shall apply to a civil money penalty under paragraph (1) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary may delegate authority under this subsection in the same manner as provided in section 1320a–7a(j)(2) of this title, and such authority shall include all powers as contained in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+&emsp;The provisions of section 1320a–7a of this title (other than subsections (a), (b), (h), and (i), the first sentence of subsection (c), and paragraphs (1) and (2) of subsection (f)) shall apply to a civil money penalty under paragraph (1) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The Secretary may delegate authority under this subsection in the same manner as provided in section 1320a–7a(j)(2) of this title, and such authority shall include all powers as contained in section 406 of title 5.
 
 #### (j) Notification in event of release
 
@@ -282,11 +288,33 @@ Regulations under subsections (b) and (c) shall require the prompt notification 
 
 #### (k) Reports
 
-#### (1) In general
+#### (1) Notification with respect to Federal facilities
 
-&emsp;The Secretary shall report to the Congress annually on the number and nature of notifications received under subsection (e)(8) (relating to theft or loss) and subsection (j) (relating to releases).
+&emsp;In the event of the release, loss, or theft of an agent or toxin listed by the Secretary pursuant to subsection (a)(1), or by the Secretary of Agriculture pursuant to section 8401(a)(1) of title 7, from or within a laboratory facility owned or operated by the Department of Health and Human Services, or other Federal laboratory facility subject to the requirements of this section, the Secretary, in a manner that does not compromise national security, shall—
 
-#### (2) Implementation of recommendations of the Federal Experts Security Advisory Panel and the fast track action committee on select agent regulations
+&emsp;&emsp;(A) not later than 72 hours after such event is reported to the Secretary, notify the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives of such event, including—
+
+&emsp;&emsp;&emsp;(i) the Federal laboratory facility in which such release, loss, or theft occurred; and
+
+&emsp;&emsp;&emsp;(ii) the circumstances of such release, loss, or theft; and
+
+&emsp;&emsp;(B) not later than 14 days after such notification, update such Committees on—
+
+&emsp;&emsp;&emsp;(i) any actions taken or planned by the Secretary to mitigate any potential threat such release, loss, or theft may pose to public health and safety; and
+
+&emsp;&emsp;&emsp;(ii) any actions taken or planned by the Secretary to review the circumstances of such release, loss, or theft, and prevent similar events.
+
+#### (2) Annual report
+
+&emsp;The Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives on an annual basis a report—
+
+&emsp;&emsp;(A) summarizing the number and nature of notifications received under subsection (e)(8) (relating to theft or loss) and subsection (j) (relating to releases), during the preceding fiscal year;
+
+&emsp;&emsp;(B) describing actions taken by the Secretary to address such incidents, such as any corrective action plans required and steps taken to promote adherence to, and compliance with, safety and security best practices, standards, and regulations; and
+
+&emsp;&emsp;(C) describing any gaps, challenges, or limitations with respect to ensuring that such safety and security practices are consistently applied and adhered to, and actions taken to address such gaps, challenges, or limitations.
+
+#### (3) Implementation of recommendations of the Federal Experts Security Advisory Panel and the fast track action committee on select agent regulations
 
 #### (A) In general
 
@@ -326,23 +354,35 @@ For purposes of this section:
 
 #### (m) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2002 through 2007.
+For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title III, §351A, as added Pub. L. 107–188, title II, §201(a), June 12, 2002, 116 Stat. 637; amended Pub. L. 107–296, title XVII, §1709(a), Nov. 25, 2002, 116 Stat. 2318; Pub. L. 116–22, title IV, §405, June 24, 2019, 133 Stat. 949.)
+(July 1, 1944, ch. 373, title III, §351A, as added Pub. L. 107–188, title II, §201(a), June 12, 2002, 116 Stat. 637; amended Pub. L. 107–296, title XVII, §1709(a), Nov. 25, 2002, 116 Stat. 2318; Pub. L. 116–22, title IV, §405, June 24, 2019, 133 Stat. 949; Pub. L. 117–286, §4(b)(75), Dec. 27, 2022, 136 Stat. 4351; Pub. L. 117–328, div. FF, title II, §2311, Dec. 29, 2022, 136 Stat. 5759.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec.(g)(2)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec.(g)(2)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(2)(B)(iii), is the eighth paragraph under the heading "Bureau of Animal Industry" of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(2)(B)(iii), is the eighth paragraph under the heading "Bureau of Animal Industry" of act Mar. 4, 1913, ch. 145, 37 Stat. 832, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2)(B)(iv), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-Section 6 of the Inspector General Act of 1978, referred to in subsec. (i)(2), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1)(A). Pub. L. 117–328, §2311(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "proper training and appropriate skills to handle such agents and toxins; and".
+
+Subsec. (e)(1). Pub. L. 117–328, §2311(2), substituted "(including risks posed by the release, theft, or loss of such agent or toxin, or use in domestic or international terrorism)" for "(including the risk of use in domestic or international terrorism)".
+
+Subsec. (i)(2). Pub. L. 117–286 substituted "section 406 of title 5." for "section 6 of the Inspector General Act of 1978 (5 U.S.C. App.)."
+
+Subsec. (k)(1). Pub. L. 117–328, §2311(3)(B), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (k)(2). Pub. L. 117–328, §2311(3)(A), (C), redesignated par. (1) as (2) and amended it generally. Prior to amendment, text read as follows: "The Secretary shall report to the Congress annually on the number and nature of notifications received under subsection (e)(8) (relating to theft or loss) and subsection (j) (relating to releases)." Former par. (2) redesignated (3).
+
+Subsec. (k)(3). Pub. L. 117–328, §2311(3)(A), redesignated par. (2) as (3).
+
+Subsec. (m). Pub. L. 117–328, §2311(4), substituted "fiscal years 2023 through 2027" for "fiscal years 2002 through 2007".
 
 <b>2019</b>—Subsec. (k). Pub. L. 116–22 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -360,15 +400,71 @@ Pub. L. 107–188, title II, §203(b), June 12, 2002, 116 Stat. 647, provided th
 
 #### Regulations
 
-Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: "Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, 42 U.S.C. 262 note\] are deemed to have been promulgated under section 351A of the Public Health Service Act \[42 U.S.C. 262a\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\]."
+Pub. L. 107–188, title II, §203(a), June 12, 2002, 116 Stat. 647, provided that: "Regulations promulgated by the Secretary of Health and Human Services under section 511 of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, 42 U.S.C. 262 note\] are deemed to have been promulgated under section 351A ofthe Public Health Service Act \[42 U.S.C. 262a\], as added by section 201 of this Act. Such regulations, including the list under \[former\] subsection (d)(1) of such section 511, that were in effect on the day before the date of the enactment of this Act \[June 12, 2002\] remain in effect until modified by the Secretary in accordance with such section 351A and with section 202 of this Act \[set out as a note below\]."
+
+#### Improving Research and Development of Medical Countermeasures for Novel Pathogens
+
+Pub. L. 117–328, div. FF, title II, §2303(a), Dec. 29, 2022, 136 Stat. 5758, provided that:
+
+"(1)
+
+Sample access.—Not later than 1 year after the date of enactment of this Act \[Dec. 29, 2022\], the Secretary of Health and Human Services (referred to in this subsection as the 'Secretary') shall make publicly available policies and procedures related to public and private entities accessing specimens of, or specimens containing, pathogens or suitable surrogates for, or alternatives to, such pathogens as the Secretary determines appropriate to support public health preparedness and response activities or biomedical research for purposes of the development and validation, as applicable, of medical products to address emerging infectious diseases and for use to otherwise respond to emerging infectious diseases. Such policies and procedures shall take into account, as appropriate, any applicable existing Federal resources.
+
+"(2)
+
+Guidance.—The Secretary shall issue guidance regarding the procedures for carrying out paragraph (1), including—
+
+&emsp;"(A) the method for requesting such samples;
+
+&emsp;"(B) considerations for sample availability and use of suitable surrogates or alternatives to such pathogens, as appropriate, including applicable safeguard and security measures; and
+
+&emsp;"(C) information required to be provided in order to receive such samples or suitable surrogates or alternatives."
+
+#### Strategy for Federal High-Containment Laboratories
+
+Pub. L. 117–328, div. FF, title II, §2312, Dec. 29, 2022, 136 Stat. 5761, provided that:
+
+"(a)
+
+Strategy for Federal High-containment Laboratories.—Not later than 1 year after the date of enactment of this Act \[Dec. 29, 2022\], the Director of the Office of Science and Technology Policy, in consultation with relevant Federal departments and agencies, shall establish a strategy for the management, maintenance, and oversight of federally-owned laboratory facilities operating at Biosafety Level 3 or 4, including equivalent classification levels and facilities with Biosafety Level 4 capabilities. Such strategy shall include—
+
+&emsp;"(1) a description of the roles and responsibilities of relevant Federal departments and agencies with respect to the management, maintenance, and oversight of Biosafety Level 3 or 4 laboratory facilities;
+
+&emsp;"(2) an assessment of the needs of the Federal Government with respect to Biosafety Level 3 or 4 laboratory facilities;
+
+&emsp;"(3) a summary of existing federally-owned Biosafety Level 3 or 4 laboratory facility capacity;
+
+&emsp;"(4) a summary of other Biosafety Level 3 or 4 laboratory facility capacity established through Federal funds;
+
+&emsp;"(5) a description of how the capacity described in paragraphs (3) and (4) addresses the needs of the Federal Government, including—
+
+&emsp;&emsp;"(A) how relevant Federal departments and agencies coordinate to provide access to appropriate laboratory facilities to reduce unnecessary duplication; and
+
+&emsp;&emsp;"(B) any gaps in such capacity related to such needs;
+
+&emsp;"(6) a summary of plans that are in place for the maintenance of such capacity within each relevant Federal department or agency, as applicable and appropriate, including processes for determining whether to maintain or expand such capacity, and a description of how the Federal Government will address rapid changes in the need for such capacity within each relevant Federal department or agency during a public health emergency; and
+
+&emsp;"(7) a description of how the heads of relevant Federal departments and agencies will coordinate to ensure appropriate oversight of federally-owned laboratory facility capacity and leverage such capacity within each relevant Federal department, as appropriate, to fulfill the needs of each Federal department and agency in order to reduce unnecessary duplication and improve collaboration within the Federal Government.
+
+"(b)
+
+Clarification.—The strategy under subsection (a) shall not be construed to supersede the authorities of each relevant Federal department or agency with respect to the management, maintenance, and oversight of the Federally-owned laboratory facilities operated by any such Federal department or agency."
+
+#### Research To Improve Biosafety
+
+Pub. L. 117–328, div. FF, title II, §2314, Dec. 29, 2022, 136 Stat. 5763, provided that:
+
+"(a)
+
+In General.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall, as appropriate, conduct or support research to improve the safe conduct of biomedical research activities involving pathogens of pandemic potential or biological agents or toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act (42 U.S.C. 262a(a)(1)).
+
+"(b)
+
+Report.—Not later than 5 years after the date of enactment of this Act \[Dec. 29, 2022\], the Secretary shall prepare and submit a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding an overview of any research conducted or supported under this section, any relevant findings, and steps the Secretary is taking to disseminate any such findings to support the reduction of risks associated with biomedical research involving pathogens of pandemic potential or biological agents or toxins listed pursuant to section 351A(a)(1) of the Public Health Service Act (42 U.S.C. 262a(a)(1))."
 
 #### National Science Advisory Board for Biosecurity
 
-Pub. L. 109–417, title II, §205, Dec. 19, 2006, 120 Stat. 2851, provided that: "The National Science Advisory Board for Biosecurity shall, when requested by the Secretary of Health and Human Services, provide to relevant Federal departments and agencies, advice, guidance, or recommendations concerning—
-
-&emsp;"(1) a core curriculum and training requirements for workers in maximum containment biological laboratories; and
-
-&emsp;"(2) periodic evaluations of maximum containment biological laboratory capacity nationwide and assessments of the future need for increased laboratory capacity."
+Pub. L. 109–417, title II, §205, Dec. 19, 2006, 120 Stat. 2851, formerly set out as a note under this section, was transferred and is set out as a National Science Advisory Board for Biosecurity: Provision of Advice, Guidance, or Recommendations note under section 283r of this title.
 
 #### Report to Congress
 

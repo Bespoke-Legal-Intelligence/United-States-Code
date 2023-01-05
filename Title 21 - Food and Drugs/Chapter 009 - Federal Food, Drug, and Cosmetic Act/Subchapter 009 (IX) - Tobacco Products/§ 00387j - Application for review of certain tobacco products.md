@@ -102,11 +102,11 @@
 
 &emsp;&emsp;&emsp;(i) issue an order that the new product may be introduced or delivered for introduction into interstate commerce if the Secretary finds that none of the grounds specified in paragraph (2) of this subsection applies; or
 
-&emsp;&emsp;&emsp;(ii) issue an order that the new product may not be introduced or delivered for introduction into interstate commerce if the Secretary finds (and sets forth the basis for such finding as part of or accompanying such denial) that 1 or moregrounds for denial specified in paragraph (2) of this subsection apply.
+&emsp;&emsp;&emsp;(ii) issue an order that the new product may not be introduced or delivered for introduction into interstate commerce if the Secretary finds (and sets forth the basis for such finding as part of or accompanying such denial) that 1 or more grounds for denial specified in paragraph (2) of this subsection apply.
 
 #### (B) Restrictions on sale and distribution
 
-&emsp;&emsp;An order under subparagraph (A)(i) may require that the sale and distribution of the tobacco product be restricted but only to the extent that the sale and distribution of a tobacco product may be restricted under a regulation under section 387f(d) of this title.
+&emsp;&emsp;An order under subparagraph (A)(i) may require that the sale and distribution of thetobacco product be restricted but only to the extent that the sale and distribution of a tobacco product may be restricted under a regulation under section 387f(d) of this title.
 
 #### (2) Denial of application
 
@@ -164,11 +164,11 @@
 
 &emsp;&emsp;(E) on the basis of new information before the Secretary, evaluated together with the evidence before the Secretary when the application was reviewed, that the labeling of such tobacco product, based on a fair evaluation of all material facts, is false or misleading in any particular and was not corrected within a reasonable time after receipt of written notice from the Secretary of such fact; or
 
-&emsp;&emsp;(F) on the basis of new information before the Secretary, evaluated together with the evidence before the Secretary when such order was issued, that such tobacco product is not shown to conform in all respects to a tobacco product standard which is in effect under section 387g of this title, compliancewith which was a condition to the issuance of an order relating to the application, and that there is a lack of adequate information to justify the deviation from such standard.
+&emsp;&emsp;(F) on the basis of new information before the Secretary, evaluated together with the evidence before the Secretary when such order was issued, that such tobacco product is not shown to conform in all respects to a tobacco product standard which is in effect under section 387g of this title, compliance with which was a condition to the issuance of an order relating to the application, and that there is a lack of adequate information to justify the deviation from such standard.
 
 #### (2) Appeal
 
-&emsp;The holder of an application subject to an order issued under paragraph (1) withdrawing an order issued pursuant to subsection (c)(1)(A)(i) may, by petition filed on or before the 30th day after the date upon which such holder receives notice of such withdrawal, obtain review thereof in accordance with section 387l of this title.
+&emsp;The holder of an application subject to an order issued under paragraph (1) withdrawingan order issued pursuant to subsection (c)(1)(A)(i) may, by petition filed on or before the 30th day after the date upon which such holder receives notice of such withdrawal, obtain review thereof in accordance with section 387l of this title.
 
 #### (3) Temporary suspension
 
@@ -203,4 +203,34 @@ The Secretary may exempt tobacco products intended for investigational use from 
 #### Prior Provisions
 
 A prior section 910 of act June 25, 1938, was renumbered section 1010 and is classified to section 399a of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Submission of Applications for Previously Marketed Products
+
+Pub. L. 117–103, div. P, title I, §111(d), Mar. 15, 2022, 136 Stat. 789, provided that:
+
+"(1)
+
+Transition period for all products.—With respect to a tobacco product that contains nicotine from any source other than tobacco and that was being marketed in the United States within 30 days after the date of enactment of this Act \[Mar. 15, 2022\], such product shall not be considered to be in violation of section 910 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387j) (relating to applications for review of certain tobacco products) during the 60-day period following the date of enactment of this Act.
+
+"(2)
+
+Submission of applications.—
+
+&emsp;"(A)
+
+In general.—As a condition for continuing to market a product described in paragraph (1) after the 60-day period specified in such paragraph, during the 30-day period beginning on the effective date specified in subsection (c) \[21 U.S.C. 321 note\], the manufacturer shall submit a new tobacco product application under section 910(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387j(b)) with respect to such product.
+
+&emsp;"(B)
+
+Transition period.—Except as provided in subparagraph (C), with respect to a tobacco product for which an application is submitted as described in subparagraph (A), the manufacturer of such product may continue to market such product during the 90-day period beginning on the effective date specified in subsection (c).
+
+&emsp;"(C)
+
+Exception.—If the Secretary of Health and Human Services previously denied an application under section 910(c)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387j(c)(2)), refused to file an application under section 910(b) of such Act, or withdrew an order under section 910(d) of such Act for a previous version of a tobacco product that used nicotine made or derived from tobacco, such product is not eligible for continued marketing under subparagraph (B).
+
+"(3)
+
+End of transition period.—Beginning on the date that is 90 days after the effective date specified in subsection (c), a tobacco product described in paragraph (1) (including such a tobacco product that is the subject of a pending application under section 910 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 387j)) is in violation of such section 910 if such tobacco product does not have an order in effect under subsection (c)(1)(A)(i) of such section."
 

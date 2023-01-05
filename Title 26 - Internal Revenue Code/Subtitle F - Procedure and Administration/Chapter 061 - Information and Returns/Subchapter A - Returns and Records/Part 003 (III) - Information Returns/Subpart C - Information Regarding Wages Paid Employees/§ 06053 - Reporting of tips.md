@@ -12,7 +12,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### (1) Report to Secretary
 
-&emsp;In the case of a large food or beverage establishment, each employer shall report to the Secretary, at such time and manner as the Secretary may prescribe by regulation, the following information with respect to each calendar year:
+&emsp;In the case of a large food or beverage establishment, each employer shall report to the Secretary, at such time and manner as theSecretary may prescribe by regulation, the following information with respect to each calendar year:
 
 &emsp;&emsp;(A) The gross receipts of such establishment from the provision of food and beverages (other than nonallocable receipts).
 
@@ -118,7 +118,7 @@ Subsec. (b). Pub. L. 89–212, §2(d)(2), inserted "or section 3201 (as the case
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 applicable with respect to wages for services performed on or after Jan.1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as a note under section 3302 of this title.
+Amendment by Pub. L. 113–295 applicable with respect to wages for services performed on or after Jan. 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as a note under section 3302 of this title.
 
 #### Effective Date of 1984 Amendment
 

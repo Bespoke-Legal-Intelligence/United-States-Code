@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) be open at all times to inspection and examination by any representative of the Commission; and
 
-&emsp;&emsp;(C) be open at all times to inspection and examination by the Securities and Exchange Commission, to the extent such books and records relate to transactions in swaps (as that term is defined in section 1a(47)(A)(v) of this title), and consistent with the confidentiality and disclosure requirements of section 12 of this title.
+&emsp;&emsp;(C) be open at all times to inspection and examination by the Securities and Exchange Commission, to the extent such books and records relate to transactions in swaps (asthat term is defined in section 1a(47)(A)(v) of this title), and consistent with the confidentiality and disclosure requirements of section 12 of this title.
 
 #### (2) Jurisdiction
 

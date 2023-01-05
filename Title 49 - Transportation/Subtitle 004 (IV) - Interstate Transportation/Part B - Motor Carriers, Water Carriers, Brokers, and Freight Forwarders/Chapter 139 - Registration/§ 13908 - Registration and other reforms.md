@@ -54,7 +54,7 @@ Use of Fees for Unified Carrier Registration System.—Fees collected under this
 
 Application to Certain Intrastate Operations.—Nothing in this section requires the registration of a motor carrier, a motor private carrier of property, or a transporter of waste or recyclable materials operating exclusively in intrastate transportation not otherwise required to register with the Secretary under another provision of this title.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 888; amended Pub. L. 104–287, §5(36),Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4304, Aug. 10, 2005, 119 Stat. 1763; Pub. L. 110–244, title III, §301(l), June 6, 2008, 122 Stat. 1617; Pub. L. 112–141, div. C, title II, §32106, July 6, 2012, 126 Stat. 781.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 888; amended Pub. L. 104–287, §5(36), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4304, Aug. 10, 2005, 119 Stat. 1763; Pub. L. 110–244, title III, §301(l), June 6, 2008, 122 Stat. 1617; Pub. L. 112–141, div. C, title II, §32106, July 6, 2012, 126 Stat. 781.)
 
 #### Historical and Revision Notes
 
@@ -100,7 +100,7 @@ Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 
 #### Regulations
 
-Pub. L. 110–53, title XV, §1537(b), Aug. 3, 2007, 121 Stat. 467, provided that: "Not later than October 1, 2007, the Federal Motor Carrier Safety Administration shall issue final regulations to establish the Unified Carrier Registration System, as required by section 13908 of title 49, United States Code, and set fees for the unified carrier registration agreement for calendar year 2007 or subsequent calendar years to be charged to motor carriers, motor private carriers, and freight forwarders under such agreement, as required by 14504a of title 49, United States Code."
+Pub. L. 110–53, title XV, §1537(b), Aug. 3, 2007, 121 Stat. 467, provided that: "Not later than October 1, 2007,the Federal Motor Carrier Safety Administration shall issue final regulations to establish the Unified Carrier Registration System, as required by section 13908 of title 49, United States Code, and set fees for the unified carrier registration agreement for calendar year 2007 or subsequent calendar years to be charged to motor carriers, motor private carriers, and freight forwarders under such agreement, as required by 14504a of title 49, United States Code."
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 

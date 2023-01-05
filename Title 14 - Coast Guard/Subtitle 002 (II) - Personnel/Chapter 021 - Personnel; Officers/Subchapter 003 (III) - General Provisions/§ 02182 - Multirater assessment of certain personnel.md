@@ -16,13 +16,47 @@ In general.—Commencing not later than one year after the date of the enactment
 
 &emsp;(2)
 
-Post-assessment elements.—Following an assessment of an individual pursuant to paragraph (1), the individual shall be provided appropriate post-assessment counseling and leadership coaching.
+Officers.—Each officer of the Coast Guard shall undergo a multirater assessment before promotion to—
+
+&emsp;&emsp;(A) the grade of O–4;
+
+&emsp;&emsp;(B) the grade of O–5; and
+
+&emsp;&emsp;(C) the grade of O–6.
+
+&emsp;(3)
+
+Enlisted members.—Each enlisted member of the Coast Guard shall undergo amultirater assessment before advancement to—
+
+&emsp;&emsp;(A) the grade of E–7;
+
+&emsp;&emsp;(B) the grade of E–8;
+
+&emsp;&emsp;(C) the grade of E–⁠9; and
+
+&emsp;&emsp;(D) the grade of E–10.
+
+&emsp;(4)
+
+Selection.—An individual assessed shall not be permitted to select the peers and subordinates who provide opinions for the multirater assessment of such individual.
+
+&emsp;(5)
+
+Post-assessment elements.—
+
+&emsp;&emsp;(A)
+
+In general.—Following an assessment of an individual pursuant to paragraphs (1) through (3), the individual shall be provided appropriate post-assessment counseling and leadership coaching.
+
+&emsp;&emsp;(B)
+
+Availability of results.—The supervisor of the individual assessed shall be provided with the results of the multirater assessment.
 
 (b)
 
 Multirater Assessment Defined.—In this section, the term "multirater assessment" means a review that seeks opinion from members senior to the reviewee and the peers and subordinates of the reviewee.
 
-(Added Pub. L. 114–120, title II, §214(a)(1), Feb. 8, 2016, 130 Stat. 43, §429; amended Pub. L. 114–328, div. C, title XXXV, §3503(a), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, §3531(c)(12), Aug. 13, 2018, 132 Stat. 2320; renumbered §2182, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216.)
+(Added Pub. L. 114–120, title II, §214(a)(1), Feb. 8, 2016, 130 Stat. 43, §429; amended Pub. L. 114–328, div. C, title XXXV, §3503(a), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–232, div. C, title XXXV, §3531(c)(12), Aug. 13, 2018, 132 Stat. 2320; renumbered §2182, Pub. L. 115–282, title I, §112(b), Dec. 4, 2018, 132 Stat. 4216; Pub. L. 117–263, div. K, title CXII, §11244(a), Dec. 23, 2022, 136 Stat. 4042.)
 
 #### <b>Editorial Notes</b>
 
@@ -31,6 +65,8 @@ Multirater Assessment Defined.—In this section, the term "multirater assessmen
 The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2) to (5). Pub. L. 117–263 added pars. (2) to (5) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Following an assessment of an individual pursuant to paragraph (1), the individual shall be provided appropriate post-assessment counseling and leadership coaching."
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 429 of this title as this section.
 
@@ -42,5 +78,5 @@ Subsec. (a)(1). Pub. L. 115–232 substituted "Commandant" for "Commandant of th
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e)of Pub. L. 114–328, set out as a note under section 315 of this title.
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under section 315 of this title.
 

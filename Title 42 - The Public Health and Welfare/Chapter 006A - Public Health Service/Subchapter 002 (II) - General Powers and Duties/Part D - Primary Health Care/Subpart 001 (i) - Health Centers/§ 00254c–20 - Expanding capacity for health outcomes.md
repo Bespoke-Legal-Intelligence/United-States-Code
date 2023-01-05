@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term "eligible entity" means an entity that provides, or supports the provision of, health care services in rural areas, frontier areas, health professional shortage areas, or medically underserved areas, or to medically underserved populations or Native Americans, including Indian Tribes, Tribal organizations, and urban Indian organizations, and which may include entities leading, or capable ofleading, a technology-enabled collaborative learning and capacity building model or engaging in technology-enabled collaborative training of participants in such model.
+&emsp;The term "eligible entity" means an entity that provides, or supports the provision of, health care services in rural areas, frontier areas, health professional shortage areas, or medically underserved areas, or to medically underserved populations or Native Americans, including Indian Tribes, Tribal organizations, and urban Indian organizations, and which may include entities leading, or capable of leading, a technology-enabled collaborative learning and capacity building model or engaging in technology-enabled collaborative training of participants in such model.
 
 #### (2) Health professional shortage area
 
@@ -74,7 +74,7 @@ In administering grants under this section, the Secretary may coordinate with ot
 
 #### (h) Technical assistance
 
-The Secretary shall provide (either directly through the Department of Health and Human Services or by contract) technical assistance to eligible entities, including recipients of grants under subsection (b), on the development, use,and evaluation of technology-enabled collaborative learning and capacity building models in order to expand access to health care services provided by such entities, including for medically underserved areas and to medically underserved populations or Native Americans.
+The Secretary shall provide (either directly through the Department of Health and Human Services or by contract) technical assistance to eligible entities, including recipients of grants under subsection (b), on the development, use, and evaluation of technology-enabled collaborative learning and capacity building models in order to expand access to health care services provided by such entities, including for medically underserved areas and to medically underserved populations or Native Americans.
 
 #### (i) Research and evaluation
 

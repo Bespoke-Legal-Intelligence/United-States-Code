@@ -128,7 +128,7 @@ The purposes of this section are—
 
 &emsp;&emsp;&emsp;(iv) allows forest road 2209 beyond the gate to the Scenic Recreation Area, as depicted on the map described in subsection (a)(2), to be used by motorized vehicles only for administrative purposes and for access by private inholders, subject to such terms and conditions as the Secretary may determine to be necessary; and
 
-&emsp;&emsp;&emsp;(v) restricts construction or improvement of forest road 2209 beyond the gate to the Scenic Recreation Area to maintaining the character of the road as it existed upon November 12, 1996, which shall not include paving or widening.
+&emsp;&emsp;&emsp;(v) restricts construction or improvement of forest road 2209 beyond the gate tothe Scenic Recreation Area to maintaining the character of the road as it existed upon November 12, 1996, which shall not include paving or widening.
 
 > &emsp;In order to comply with subsection (f)(2), the Secretary may make improvements to forest road 2209 and its bridge structures consistent with the character of the road as it existed on November 12, 1996.
 
@@ -304,7 +304,7 @@ The purposes of this section are—
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable after November 12, 1996, the Secretary shall file a map and a boundary description for the Opal Creek Wilderness and for the Scenic Recreation Area with the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+&emsp;&emsp;As soon as practicable after November 12, 1996, the Secretary shall file a map and aboundary description for the Opal Creek Wilderness and for the Scenic Recreation Area with the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
 
 #### (B) Force and effect
 
@@ -426,7 +426,7 @@ Pub. L. 104–208, div. B, title I, §101, Sept. 30, 1996, 110 Stat. 3009–523,
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

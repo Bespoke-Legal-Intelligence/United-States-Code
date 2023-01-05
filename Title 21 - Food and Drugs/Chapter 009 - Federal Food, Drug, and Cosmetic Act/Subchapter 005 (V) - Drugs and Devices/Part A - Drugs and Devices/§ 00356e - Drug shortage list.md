@@ -48,7 +48,7 @@ For each drug on such list, the Secretary shall include the following informatio
 
 Not later than 180 days after March 27, 2020, and every 90 days thereafter, the Secretary shall transmit a report regarding the drugs of the current drug shortage list under this section to the Administrator of the Centers for Medicare \& Medicaid Services.
 
-(June 25, 1938, ch. 675, §506E, as added Pub. L. 112–144, title X, §1004, July 9, 2012, 126 Stat. 1104; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(G), Dec. 13, 2016, 130 Stat. 1153; Pub. L. 116–136, div. A, title III, §3112(c), Mar. 27, 2020, 134 Stat. 362.)
+(June 25, 1938, ch. 675, §506E, as added Pub. L. 112–144, title X, §1004, July 9, 2012, 126 Stat. 1104;amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(G), Dec. 13, 2016, 130 Stat. 1153; Pub. L. 116–136, div. A, title III, §3112(c), Mar. 27, 2020, 134 Stat. 362.)
 
 #### <b>Editorial Notes</b>
 

@@ -10,7 +10,7 @@
 
 &emsp;(C) a combination of the ways referred to in clauses (A) and (B) of this paragraph.
 
-(2) The official designated in section 1513 of this title to make apportionments shall apportion an appropriation under paragraph (1) of thissubsection as the official considers appropriate. Except as specified by the official, an amount apportioned is available for obligation under the terms of the appropriation on a cumulative basis unless reapportioned.
+(2) The official designated in section 1513 of this title to make apportionments shall apportion an appropriation under paragraph (1) of this subsection as the official considers appropriate. Except as specified by the official, an amount apportioned is available for obligation under the terms of the appropriation on a cumulative basis unless reapportioned.
 
 (c)(1) In apportioning or reapportioning an appropriation, a reserve may be established only—
 
@@ -68,7 +68,7 @@ In subsection (c)(2), the words "appropriation requests" are substituted for "es
 
 #### References in Text
 
-The Impoundment Control Act of 1974, referred to in subsec. (c)(2), is parts A and B of title X of Pub. L. 93–344, July 12, 1974, 88 Stat. 332, as amended, which is classified principally to subchapters I (§681) and II (§682 et seq.) of chapter 17B of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 681 of Title 2 and Tables.
+The Impoundment Control Act of 1974, referred to in subsec. (c)(2), is parts A and B of title X of Pub. L. 93–344, July 12, 1974, 88 Stat. 332, which is classified principally to subchapters I (§681) and II (§682 et seq.) of chapter 17B of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 681 of Title 2 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -22,7 +22,7 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 #### (2) Exception for use on premises where produced
 
-&emsp;Paragraph (1) shall not apply to any use of crude oil for extracting oil or natural gas on the premises where such crude oil was produced.
+&emsp;Paragraph (1) shall not apply to any use of crude oil for extracting oil or natural gas onthe premises where such crude oil was produced.
 
 #### (c) Rate of tax
 
@@ -38,13 +38,27 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 &emsp;For purposes of paragraph (1)—
 
-&emsp;&emsp;(A) the Hazardous Substance Superfund financing rate is 9.7 cents a barrel, and
+&emsp;&emsp;(A) the Hazardous Substance Superfund financing rate is 16.4 cents a barrel, and
 
 &emsp;&emsp;(B) the Oil Spill Liability Trust Fund financing rate is—
 
 &emsp;&emsp;&emsp;(i) in the case of crude oil received or petroleum products entered before January 1, 2017, 8 cents a barrel, and
 
 &emsp;&emsp;&emsp;(ii) in the case of crude oil received or petroleum products entered after December 31, 2016, 9 cents a barrel.
+
+#### (3) Adjustment for inflation
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a year beginning after 2023, the amount in paragraph (2)(A) shall be increased by an amount equal to—
+
+&emsp;&emsp;&emsp;(i) such amount, multiplied by
+
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2022" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+
+#### (B) Rounding
+
+&emsp;&emsp;If any amount as adjusted under subparagraph (A) is not a multiple of $0.01, such amount shall be rounded to the next lowest multiple of $0.01.
 
 #### (d) Persons liable for tax
 
@@ -60,31 +74,7 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 &emsp;The tax imposed by subsection (b) shall be paid by the person using or exporting the crude oil, as the case may be.
 
-#### (e) Application of Hazardous Substance Superfund financing rate
-
-#### (1) In general
-
-&emsp;Except as provided in paragraphs (2) and (3), the Hazardous Substance Superfund financing rate under this section shall apply after December 31, 1986, and before January 1, 1996.
-
-#### (2) No tax if unobligated balance in Fund exceeds $3,500,000,000
-
-&emsp;If on December 31, 1993, or December 31, 1994—
-
-&emsp;&emsp;(A) the unobligated balance in the Hazardous Substance Superfund exceeds $3,500,000,000, and
-
-&emsp;&emsp;(B) the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the unobligated balance in the Hazardous Substance Superfund will exceed $3,500,000,000 on December 31 of 1994 or 1995, respectively, if no tax is imposed under this section and sections 4661 and 4671,
-
-> &emsp;then no tax shall be imposed under this section (to the extent attributable to the Hazardous Substance Superfund financing rate) during 1994 or 1995, as the case may be.
-
-#### (3) No tax if amounts collected exceed $11,970,000,000
-
-#### (A) Estimates by Secretary
-
-&emsp;&emsp;The Secretary as of the close of each calendar quarter (and at such other times as the Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under this section (to the extent attributable to the Hazardous Substance Superfund financing rate) and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987, and ending December 31, 1995.
-
-#### (B) Termination if $11,970,000,000 credited before January 1, 1996
-
-&emsp;&emsp;If the Secretary estimates under subparagraph (A) that more than $11,970,000,000 will be credited to the Fund before January 1, 1996, the Hazardous Substance Superfund financing rate under this section shall not apply after the date on which (as estimated by the Secretary) $11,970,000,000 will be so credited to the Fund.
+#### \[(e) Repealed. Pub. L. 117–169, title I, §13601(a)(1), Aug. 16, 2022, 136 Stat. 1981\]
 
 #### (f) Application of Oil Spill Liability Trust Fund financing rate
 
@@ -96,7 +86,7 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 
 &emsp;The Oil Spill Liability Trust Fund financing rate shall not apply after December 31, 2025.
 
-(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, title V, §§511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, §8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, §6108, Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–221, §8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, §7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, §11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 109–58, title XIII, §1361, Aug. 8, 2005, 119 Stat. 1058; Pub. L. 110–343, div. B, title IV, §405(a)(1), (b)(1), (2), Oct. 3, 2008, 122 Stat. 3860, 3861; Pub. L. 113–295, div. A, title II, §221(a)(12)(I), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 115–123, div. D, title I, §40416(a), Feb. 9, 2018, 132 Stat. 152; Pub. L. 116–94, div. Q, title I, §134(a), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §117(a), Dec. 27, 2020, 134 Stat. 3051.)
+(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2797; amended Pub. L. 99–499, title V, §§511(a), 512(a), (b), Oct. 17, 1986, 100 Stat. 1760, 1761; Pub. L. 99–509, title VIII, §8032(a), (c)(1), (2), Oct. 21, 1986, 100 Stat. 1957, 1958; Pub. L. 100–647, title VI, §6108, Nov. 10, 1988, 102 Stat. 3712; Pub. L. 101–221, §8(a), Dec. 12, 1989, 103 Stat. 1891; Pub. L. 101–239, title VII, §7505(a), (b), Dec. 19, 1989, 103 Stat. 2363; Pub. L. 101–508, title XI, §11231(a)(1)(B), (2), (b), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 109–58, title XIII, §1361, Aug. 8, 2005, 119 Stat. 1058; Pub. L. 110–343, div. B, title IV, §405(a)(1), (b)(1), (2), Oct. 3, 2008, 122 Stat. 3860, 3861; Pub. L. 113–295, div. A, title II, §221(a)(12)(I), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 115–123, div. D, title I, §40416(a), Feb. 9, 2018, 132 Stat. 152; Pub. L. 116–94, div. Q, title I, §134(a), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §117(a), Dec. 27, 2020, 134 Stat. 3051; Pub. L. 117–169, title I, §13601(a), Aug. 16, 2022, 136 Stat. 1981.)
 
 #### <b>Editorial Notes</b>
 
@@ -105,6 +95,12 @@ There is hereby imposed a tax at the rate specified in subsection (c) on—
 Amendments by Pub. L. 99–509, title VIII, §8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a) to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, §8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(2)(A). Pub. L. 117–169, §13601(a)(2)(A), substituted "16.4 cents" for "9.7 cents".
+
+Subsec. (c)(3). Pub. L. 117–169, §13601(a)(2)(B), added par. (3).
+
+Subsec. (e). Pub. L. 117–169, §13601(a)(1), struck out subsec. (e) which related to application of Hazardous Substance Superfund financing rate.
 
 <b>2020</b>—Subsec. (f)(2). Pub. L. 116–260 substituted "December 31, 2025" for "December 31, 2020".
 
@@ -184,6 +180,10 @@ Subsec. (f). Pub. L. 99–509, §8032(c)(2), added subsec. (f).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–169, title I, §13601(c), Aug. 16, 2022, 136 Stat. 1982, provided that: "The amendments made by this section \[amending this section and section 9507 of this title\] shall take effect on January 1, 2023."
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. EE, title I, §117(b), Dec. 27, 2020, 134 Stat. 3051, provided that: "The amendment made by this section \[amending this section\] shall apply on and after January 1, 2021."
@@ -204,7 +204,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 Pub. L. 110–343, div. B, title IV, §405(a)(2), Oct. 3, 2008, 122 Stat. 3860, provided that: "The amendment made by this subsection \[amending this section\] shall apply on and after the first day of the first calendar quarter beginning more than 60 days after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
-Pub. L. 110–343, div. B, title IV, §405(b)(3), Oct. 3, 2008, 122 Stat. 3861, provided that: "The amendments madeby this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\]."
+Pub. L. 110–343, div. B, title IV, §405(b)(3), Oct. 3, 2008, 122 Stat. 3861, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\]."
 
 #### Effective Date of 1989 Amendment
 

@@ -6,7 +6,7 @@ The Secretary shall establish an Energy Research, Development, Demonstration, an
 
 #### (b) Responsibilities
 
-The Advisory Board shall provide impartial technical advice to the Secretary to assist in the development of energy research, development, demonstration, and commercial application plans and reports under sections 5905 and 5914 <sup>1</sup> of this title, under section 7321 of this title, and as otherwise provided in subchapters VIII through XI of this chapter. The Advisory Boardshall also periodically review such plans and reports and their implementation in relation to the goals stated in section 13401 of this title, and report the results of such review to the Secretary and the Congress. Such report shall be included as part of the report required under section 5914 <sup>1</sup> of this title.
+The Advisory Board shall provide impartial technical advice to the Secretary to assist in the development of energy research, development, demonstration, and commercial application plans and reports under sections 5905 and 5914 <sup>1</sup> of this title, under section 7321 of this title, and as otherwise provided in subchapters VIII through XI of this chapter. The Advisory Board shall also periodically review such plans and reports and their implementation in relation to the goals stated in section 13401 of this title, and report the results of such review to the Secretary and the Congress. Such report shall be included as part of the report required under section 5914 <sup>1</sup> of this title.
 
 #### (c) Use of existing advisory board
 
@@ -26,7 +26,7 @@ Section 5914 of this title, referred to in subsec. (b), was omitted from the Cod
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

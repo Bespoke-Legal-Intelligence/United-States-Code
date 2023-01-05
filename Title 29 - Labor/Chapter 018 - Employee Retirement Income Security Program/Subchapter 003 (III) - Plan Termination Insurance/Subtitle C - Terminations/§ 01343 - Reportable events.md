@@ -2,7 +2,7 @@
 
 #### (a) Notification that event has occurred
 
-Within 30 days after the plan administrator or the contributing sponsor knows or has reason toknow that a reportable event described in subsection (c) has occurred, he shall notify the corporation that such event has occurred, unless a notice otherwise required under this subsection has already been provided with respect to such event. The corporation is authorized to waive the requirement of the preceding sentence with respect to any or all reportable events with respect to any plan, and to require the notification to be made by including the event in the annual report made by the plan.
+Within 30 days after the plan administrator or the contributing sponsor knows or has reason to know that a reportable event described in subsection (c) has occurred, he shall notify the corporation that such event has occurred, unless a notice otherwise required under this subsection has already been provided with respect to such event. The corporation is authorized to waive the requirement of the preceding sentence with respect to any or all reportable events with respect to any plan, and to require the notification to be made by including the event in the annual report made by the plan.
 
 #### (b) Notification that event is about to occur
 
@@ -12,7 +12,7 @@ Within 30 days after the plan administrator or the contributing sponsor knows or
 
 &emsp;(B) the funded vested benefit percentage for such plans is less than 90 percent.
 
-> For purposes of subparagraph (B), the funded vested benefit percentage means the percentage which the aggregate value of the assets of such plans bears to the aggregate vested benefits of such plans (determined in accordance with section 1306(a)(3)(E)(iii) of this title).
+> For purposes of subparagraph (B), the funded vested benefit percentage means the percentagewhich the aggregate value of the assets of such plans bears to the aggregate vested benefits of such plans (determined in accordance with section 1306(a)(3)(E)(iii) of this title).
 
 (2) This subsection shall not apply to an event if the contributing sponsor, or the member of the contributing sponsor's controlled group to which the event relates, is—
 
@@ -88,7 +88,7 @@ Any information or documentary material submitted to the corporation pursuant to
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
 

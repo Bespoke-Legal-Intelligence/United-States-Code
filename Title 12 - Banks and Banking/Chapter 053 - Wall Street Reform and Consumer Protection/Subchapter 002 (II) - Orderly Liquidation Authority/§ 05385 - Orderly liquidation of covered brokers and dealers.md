@@ -22,7 +22,7 @@
 
 #### (D) Determination of claims
 
-&emsp;&emsp;As trustee for the covered broker or dealer, SIPC shall determine and satisfy, consistent with this subchapter and with theSecurities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), all claims against the covered broker or dealer arising on or before the filing date.
+&emsp;&emsp;As trustee for the covered broker or dealer, SIPC shall determine and satisfy, consistent with this subchapter and with the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), all claims against the covered broker or dealer arising on or before the filing date.
 
 #### (b) Powers and duties of SIPC
 
@@ -92,7 +92,7 @@ Any claim against the Corporation as receiver for a covered broker or dealer for
 
 #### (2) Satisfaction of claims by SIPC
 
-&emsp;SIPC, as trustee for a covered broker or dealer, shall satisfy customer claims in themanner and amount provided under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), as if the appointment of the Corporation as receiver had not occurred, and with a filing date as of the date on which the Corporation is appointed as receiver. The Corporation shall satisfy customer claims, to the extent that a customer would have received more securities or cash with respect to the allocation of customer property had the covered financial company been subject to a proceeding under the Securities Investor Protection Act (15 U.S.C. 78aaa et seq.) without the appointment of the Corporation as receiver, and with a filing date as of the date on which the Corporation is appointed as receiver.
+&emsp;SIPC, as trustee for a covered broker or dealer, shall satisfy customer claims in the manner and amount provided under the Securities Investor Protection Act of 1970 (15 U.S.C. 78aaa et seq.), as if the appointment of the Corporation as receiver had not occurred, and with a filing date as of the date on which the Corporation is appointed as receiver. The Corporation shall satisfy customer claims, to the extent that a customer would have received more securities or cash with respect to the allocation of customer property had the covered financial company been subject to a proceeding under the Securities Investor Protection Act (15 U.S.C. 78aaa et seq.) without the appointment of the Corporation as receiver, and with a filing date as of the date on which the Corporation is appointed as receiver.
 
 #### (g) Priorities
 

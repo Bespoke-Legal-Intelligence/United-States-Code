@@ -8,7 +8,7 @@ Each individual to whom the application is disclosed shall sign a dated acknowle
 
 An invention shall not be ordered kept secret and the publication of the application or the grant of a patent withheld for a period of more than one year. The Commissioner of Patents shall renew the order at the end thereof, or at the end of any renewal period, for additional periods of one year upon notification by the head of the department or the chief officer of the agency who caused the order to be issued that an affirmative determination has been made that the national interest continues so to require. An order in effect, or issued, during a time when the United States is at war, shall remain in effect for the duration of hostilities and one year following cessation of hostilities. An order in effect, or issued, during a national emergency declared by the President shall remain in effect for the duration of the national emergency and six months thereafter. The Commissioner of Patents may rescind any order upon notification by the heads of the departments and the chief officers of the agencies who caused the order to be issued that the publication or disclosure of the invention is no longer deemed detrimental to the national security.
 
-(July 19, 1952, ch. 950, 66 Stat. 805; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(7), 4732(a)(10)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 805; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(7),4732(a)(10)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, 1501A–582.)
 
 #### Historical and Revision Notes
 
@@ -36,7 +36,7 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(7)(D)\], inserted "the public
 
 Amendment by section 1000(a)(9) \[title IV, §4507(7)\] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
-Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(B)\] of Pub. L. 106–113 effective 4 monthsafter Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(B)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 
 #### Transfer of Functions
 

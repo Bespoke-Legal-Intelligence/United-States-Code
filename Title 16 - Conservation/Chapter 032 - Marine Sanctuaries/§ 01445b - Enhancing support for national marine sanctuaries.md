@@ -68,7 +68,7 @@ The Secretary may authorize the use of a symbol adopted by the Secretary under s
 
 &emsp;&emsp;(B) is established to promote the understanding of, education relating to, and the conservation of the resources of a particular sanctuary or 2 or more related sanctuaries.
 
-(Pub. L. 92–532, title III, §316, formerly Pub. L. 102–587, title II, §2204, Nov. 4, 1992, 106 Stat. 5049; renumbered §316 of Pub. L. 92–532 and amended Pub. L. 104–283, §6, Oct. 11, 1996, 110 Stat. 3364; Pub. L. 106–513, §17, Nov. 13, 2000, 114 Stat. 2391.)
+(Pub. L. 92–532, title III, §316, formerly Pub. L. 102–587, title II, §2204, Nov. 4, 1992, 106 Stat. 5049;renumbered §316 of Pub. L. 92–532 and amended Pub. L. 104–283, §6, Oct. 11, 1996, 110 Stat. 3364; Pub. L. 106–513, §17, Nov. 13, 2000, 114 Stat. 2391.)
 
 #### <b>Editorial Notes</b>
 

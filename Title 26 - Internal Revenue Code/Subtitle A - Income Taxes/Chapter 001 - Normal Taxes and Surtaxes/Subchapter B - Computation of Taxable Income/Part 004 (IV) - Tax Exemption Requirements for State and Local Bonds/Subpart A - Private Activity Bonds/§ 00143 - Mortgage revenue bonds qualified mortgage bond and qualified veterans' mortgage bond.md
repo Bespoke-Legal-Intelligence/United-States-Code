@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, an issue shall not meet the requirement of subparagraph (A)(i) unless—
 
-&emsp;&emsp;&emsp;&emsp;(I) all proceeds of the issue required to be used to finance owner-occupied residences are so used within the 42-month period beginning on the date of issuanceof the issue (or, in the case of a refunding bond, within the 42-month period beginning on the date of issuance of the original bond) or, to the extent not so used within such period, are used within such period to redeem bonds which are part of such issue, and
+&emsp;&emsp;&emsp;&emsp;(I) all proceeds of the issue required to be used to finance owner-occupied residences are so used within the 42-month period beginning on the date of issuance of the issue (or, in the case of a refunding bond, within the 42-month period beginning on the date of issuance of the original bond) or, to the extent not so used within such period, are used within such period to redeem bonds which are part of such issue, and
 
 &emsp;&emsp;&emsp;&emsp;(II) no portion of the proceeds of the issue are used to make or finance any loan (other than a loan which is a nonpurpose investment within the meaning of section 148(f)(6)(A)) after the close of such period.
 
@@ -238,7 +238,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In determining the effective rate of interest on any mortgage for purposes of thisparagraph, there shall be taken into account all fees, charges, and other amounts borne by the mortgagor which are attributable to the mortgage or to the bond issue.
+&emsp;&emsp;&emsp;In determining the effective rate of interest on any mortgage for purposes of this paragraph, there shall be taken into account all fees, charges, and other amounts borne by the mortgagor which are attributable to the mortgage or to the bond issue.
 
 #### (ii) Specification of some of the amounts to be treated as borne by the mortgagor
 
@@ -310,7 +310,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 &emsp;&emsp;Subparagraph (A) shall be satisfied with respect to any issue if the issuer elects before issuing the bonds to pay over to the United States—
 
-&emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amount equal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
+&emsp;&emsp;&emsp;(i) not less frequently than once each 5 years after the date of issue, an amountequal to 90 percent of the aggregate amount which would be required to be paid or credited to mortgagors under subparagraph (A) (and not theretofore paid to the United States), and
 
 &emsp;&emsp;&emsp;(ii) not later than 60 days after the redemption of the last bond, 100 percent of such aggregate amount not theretofore paid to the United States.
 
@@ -588,7 +588,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a residence which is located in a high housing cost area (as defined in section 143(f)(5)), the interest of a governmental unit in such residence by reason of financing provided under any qualified program shall not be taken into account under this section (other than subsection (m)), and the acquisition cost of the residence which is taken into account under subsection (e) shall be such cost reduced by the amount of such financing.
+&emsp;&emsp;In the case of a residence which is located in a high housing cost area (as defined in section 143(f)(5)), the interest of a governmental unit in such residence by reason offinancing provided under any qualified program shall not be taken into account under this section (other than subsection (m)), and the acquisition cost of the residence which is taken into account under subsection (e) shall be such cost reduced by the amount of such financing.
 
 #### (B) Qualified program
 
@@ -672,7 +672,7 @@ For purposes of this section—
 
 #### (ii) Denial of double benefit
 
-&emsp;&emsp;&emsp;If a taxpayer elects the application of this paragraph, paragraph (11) shall not apply with respect to the purchase or financing of any residence by such taxpayer.
+&emsp;&emsp;&emsp;If a taxpayer elects the application of this paragraph, paragraph (11) shall notapply with respect to the purchase or financing of any residence by such taxpayer.
 
 #### (l) Additional requirements for qualified veterans' mortgage bonds
 
@@ -690,7 +690,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (A) In general
 
-&emsp;&emsp;An issue meets the requirements of this paragraph only if the aggregate amount ofbonds issued pursuant thereto (when added to the aggregate amount of qualified veterans' mortgage bonds previously issued by the State during the calendar year) does not exceed the State veterans limit for such calendar year.
+&emsp;&emsp;An issue meets the requirements of this paragraph only if the aggregate amount of bonds issued pursuant thereto (when added to the aggregate amount of qualified veterans' mortgage bonds previously issued by the State during the calendar year) does not exceed the State veterans limit for such calendar year.
 
 #### (B) State veterans limit
 
@@ -891,7 +891,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (C) Involuntary conversions resulting from casualties
 
-&emsp;&emsp;In the case of property which (as a result of its destruction in whole or in part by fire, storm, or other casualty) is compulsorily or involuntarily converted, paragraph (1) shall not apply to such conversion if the taxpayer purchases (during the period specified in section 1033(a)(2)(B)) property for use as his principal residence on the site of the converted property. For purposes of subparagraph (A), the adjusted basis of the taxpayer in the residence shall not be adjusted for anygain or loss on a conversion to which this subparagraph applies.
+&emsp;&emsp;In the case of property which (as a result of its destruction in whole or in part by fire, storm, or other casualty) is compulsorily or involuntarily converted, paragraph (1) shall not apply to such conversion if the taxpayer purchases (during the period specified in section 1033(a)(2)(B)) property for use as his principal residence on the site of the converted property. For purposes of subparagraph (A), the adjusted basis of the taxpayer in the residence shall not be adjusted for any gain or loss on a conversion to which this subparagraph applies.
 
 #### (7) Issuer to inform mortgagor of federally-subsidized amount and family income limits
 
@@ -943,7 +943,7 @@ Section 1034(e) (as in effect on the day before the date of the enactment of the
 
 #### Prior Provisions
 
-A prior section 143, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Dec. 30, 1969, Pub. L. 91–172, title VIII, §802(b), 83 Stat. 677; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(22), 90 Stat. 1767; May 23, 1977, Pub. L. 95–30, title I, §101(d)(4), 91 Stat. 133; July 18, 1984, Pub. L. 98–369, div. A, title IV, §423(c)(1), 98 Stat. 800, related to determination of marital status, prior to the general revision of this part by Pub. L. 99–514. See section 7703 of this title.
+A prior section 143, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Dec. 30, 1969, Pub. L. 91–172, title VIII, §802(b), 83 Stat. 677; Oct. 4, 1976, Pub. L. 94–455, title XIX, §1901(a)(22), 90 Stat. 1767; May 23, 1977, Pub. L. 95–30, title I, §101(d)(4), 91 Stat. 133; July 18, 1984, Pub. L. 98–369, div. A, title IV, §423(c)(1), 98 Stat. 800, related todetermination of marital status, prior to the general revision of this part by Pub. L. 99–514. See section 7703 of this title.
 
 Provisions similar to this section were contained in section 103A of this title prior to repeal by Pub. L. 99–514.
 
@@ -1039,7 +1039,7 @@ Subsec. (m)(5)(B), (C). Pub. L. 101–508, §11408(c)(2)(C), redesignated subpar
 
 Subsec. (m)(6). Pub. L. 101–508, §11408(c)(3)(B)(i), substituted "Special rules relating to limitation" for "Limitation" in heading.
 
-Subsec. (m)(6)(A). Pub. L. 101–508, §11408(c)(3)(B)(ii), (iii), struck out at beginning "In no event shall the recapture amount of the taxpayer with respect to any indebtedness exceed 50 percent of the gain (if any) on the disposition of the taxpayer's interest in the residence." and substituted "paragraph (1)" for "the preceding sentence".
+Subsec. (m)(6)(A). Pub. L. 101–508, §11408(c)(3)(B)(ii), (iii), struck out at beginning "In no event shall the recapture amount of the taxpayer with respect to any indebtedness exceed 50 percent of the gain (if any) on the disposition of the taxpayer's interest in the residence."and substituted "paragraph (1)" for "the preceding sentence".
 
 Subsec. (m)(7)(B)(ii). Pub. L. 101–508, §11408(c)(3)(C), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "the amounts described in paragraph (5)(B)(ii) for each category of family size for each year of the 10-year period beginning on the date the financing was provided."
 
@@ -1137,7 +1137,7 @@ Simplification.—The amendment made by subsection (c) \[amending this section\]
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1013(a)(2), (3) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1013(a)(2), (3) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title IV, §4005(h), Nov. 10, 1988, 102 Stat. 3651, provided that:
 
@@ -1159,7 +1159,7 @@ Subsection (g).—
 
 &emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by subsection (g)\[amending this section and sections 25, 26, 6045, and 6654 of this title\] shall apply to financing provided, and mortgage credit certificates issued, after December 31, 1990.
+In general.—Except as provided in subparagraph (B), the amendments made by subsection (g) \[amending this section and sections 25, 26, 6045, and 6654 of this title\] shall apply to financing provided, and mortgage credit certificates issued, after December 31, 1990.
 
 &emsp;"(B)
 

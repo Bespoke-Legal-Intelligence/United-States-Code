@@ -12,7 +12,7 @@ In order to continue and expand efforts to ensure that research institutions thr
 
 #### Codification
 
-Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence inTechnology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -14,7 +14,7 @@ Whoever takes and carries away, with intent to steal or purloin, any property or
 
 (d) Whoever, in committing, or in attempting to commit, any offense defined in subsections (a) and (b) of this section, assaults any person, or puts in jeopardy the life of any person by the use of a dangerous weapon or device, shall be fined under this title or imprisoned not more than twenty-five years, or both.
 
-(e) Whoever, in committing any offense defined in this section, or in avoiding or attempting to avoid apprehension for the commission of such offense, or in freeing himself or attempting to free himself from arrest or confinement forsuch offense, kills any person, or forces any person to accompany him without the consent of such person, shall be imprisoned not less than ten years, or if death results shall be punished by death or life imprisonment.
+(e) Whoever, in committing any offense defined in this section, or in avoiding or attempting to avoid apprehension for the commission of such offense, or in freeing himself or attempting to free himself from arrest or confinement for such offense, kills any person, or forces any person to accompany him without the consent of such person, shall be imprisoned not less than ten years, or if death results shall be punished by death or life imprisonment.
 
 (f) As used in this section the term "bank" means any member bank of the Federal Reserve System, and any bank, banking association, trust company, savings bank, or other banking institution organized or operating under the laws of the United States, including a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978), and any institution the deposits of which are insured by the Federal Deposit Insurance Corporation.
 
@@ -74,7 +74,7 @@ Subsec. (h). Pub. L. 103–322, §320608, added subsec. (h).
 
 <b>1989</b>—Subsec. (f). Pub. L. 101–73, §962(d)(1), substituted "any institution the deposits of which" for "any bank the deposits of which".
 
-Subsecs. (g), (h). Pub. L. 101–73, §962(a)(7), (d)(2), (3), redesignated subsec. (h) as (g), substituted "National Credit Union Administration Board, and any 'Federal credit union' as defined in section 2 of the Federal Credit Union Act" for "Administrator of the National Credit Union Administration", and struck out former subsec. (g) which read as follows: "As used in this section the term 'savings and loan association' means any Federal savings and loan association and any 'insured institution' as defined in section 401 of the National Housing Act, as amended, and any 'Federal creditunion' as defined in section 2 of the Federal Credit Union Act."
+Subsecs. (g), (h). Pub. L. 101–73, §962(a)(7), (d)(2), (3), redesignated subsec. (h) as (g), substituted "National Credit Union Administration Board, and any 'Federal credit union' as defined in section 2 of the Federal Credit Union Act" for "Administrator of the National Credit Union Administration", and struck out former subsec. (g) which read as follows: "As used in this section the term 'savings and loan association' means any Federal savings and loan association and any 'insured institution' as defined in section 401 of the National Housing Act, as amended, and any 'Federal credit union' as defined in section 2 of the Federal Credit Union Act."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–646 inserted ", or obtains or attempts to obtain by extortion" after "presence of another" in first par.
 

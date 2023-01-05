@@ -124,7 +124,7 @@ Section was formerly classified to section 441a–1 of Title 2, The Congress, pr
 
 #### Constitutionality
 
-For information regarding constitutionality of section 315A of Pub. L. 92–225, as added by section 319(a) of Pub. L. 107–155, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of section 315A of Pub. L. 92–225, as added by section 319(a) of Pub. L. 107–155, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

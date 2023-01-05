@@ -1,6 +1,6 @@
 ### §300b–2. Voluntary participation by individuals
 
-The participation by any individual in any program or portion thereof under this part shallbe wholly voluntary and shall not be a prerequisite to eligibility for or receipt of any other service or assistance from, or to participation in, any other program.
+The participation by any individual in any program or portion thereof under this part shall be wholly voluntary and shall not be a prerequisite to eligibility for or receipt of any other service or assistance from, or to participation in, any other program.
 
 (July 1, 1944, ch. 373, title XI, §1103, as added Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 408.)
 
@@ -8,5 +8,5 @@ The participation by any individual in any program or portion thereof under this
 
 #### Prior Provisions
 
-A prior section 300b–2, act July 1, 1944, ch. 373, title XI, §1103, as added May 16, 1972, Pub. L. 92–294, §3(c), 86 Stat. 138; amended Aug. 29, 1972, Pub. L. 92–414, §4(3), 86 Stat. 652, was identical to this section, prior to repeal by Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 407.
+A prior section 300b–2, act July 1, 1944, ch. 373, title XI, §1103, as added May 16, 1972, Pub. L. 92–294, §3(c), 86 Stat. 138; amended Aug. 29, 1972, Pub. L. 92–414, §4(3), 86Stat. 652, was identical to this section, prior to repeal by Pub. L. 94–278, title IV, §403(a), Apr. 22, 1976, 90 Stat. 407.
 

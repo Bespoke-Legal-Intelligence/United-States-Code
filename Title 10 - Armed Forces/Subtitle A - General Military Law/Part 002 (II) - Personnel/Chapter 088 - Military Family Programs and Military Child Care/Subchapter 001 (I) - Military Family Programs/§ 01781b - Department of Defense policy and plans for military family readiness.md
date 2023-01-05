@@ -30,7 +30,7 @@ Elements of Policy.—The policy required under subsection (a) shall include the
 
 &emsp;(4) Metrics to measure the performance and effectiveness of the military family readiness programs and activities of the Department of Defense.
 
-&emsp;(5) A summary, by fiscal year, of the allocation of funds (including appropriated fundsand nonappropriated funds) for major categories of military family readiness programs and activities of the Department of Defense, set forth for each of the military departments and for the Office of the Secretary of Defense.
+&emsp;(5) A summary, by fiscal year, of the allocation of funds (including appropriated funds and nonappropriated funds) for major categories of military family readiness programs and activities of the Department of Defense, set forth for each of the military departments and for the Office of the Secretary of Defense.
 
 (Added Pub. L. 110–181, div. A, title V, §581(a), Jan. 28, 2008, 122 Stat. 121; amended Pub. L. 111–383, div. A, title X, §1075(b)(23), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 115–91, div. A, title X, §1051(a)(9), Dec. 12, 2017, 131 Stat. 1560.)
 
@@ -82,7 +82,7 @@ Military Installation Defined.—In this section, the term 'military installatio
 
 #### Consideration of Certain Military Family Readiness Issues in Making Basing Decisions Associated With Certain Military Units and Major Headquarters
 
-Pub. L. 116–283, div. B, title XXVIII, §2883, Jan. 1, 2021, 134 Stat. 4370, provided that:
+Pub. L. 116–283, div. B, title XXVIII, §2883, Jan. 1, 2021, 134 Stat. 4370, as amended by Pub. L. 117–263, div. B, title XXVIII, §2866, Dec. 23, 2022, 136 Stat. 3011, provided that:
 
 "(a)
 
@@ -134,7 +134,27 @@ Update.—The Secretary of the military department concerned shall update the sc
 
 &emsp;"(3)
 
-Availability to public.—A current version of each scorecard established under this subsection shall be available to the public through an Internetwebsite of the military department concerned that is accessible to the public.
+Availability.—
+
+&emsp;&emsp;"(A)
+
+In general.—A current version of each scorecard established under this subsection shall be available to the public through an Internet website of the military department concerned.
+
+&emsp;&emsp;"(B)
+
+Methodology and criteria.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Availability.—Each Secretary of a military department shall publish on the website described in subparagraph (A) the methodology and criteria each time such Secretary establishes or updates a scorecard.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Public comment.—Each Secretary of a military department shall establish a 60-day public comment period beginning on each date of publication of such methodology and criteria.
+
+&emsp;"(4)
+
+Coordination.—In establishing or updating a scorecard under this subsection, each Secretary of the military department concerned shall coordinate with the Secretary of Defense to ensure consistency across the military departments.
 
 "(i)
 

@@ -50,7 +50,7 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 #### (j) Concurrence by Secretary
 
-(1) Upon receipt of a special management area land use ordinance from the Commission, the Secretary shall notify the public of such receipt and shall, within ninety days thereafter, concur with the Commission's tentative determination of consistency with the management plan unlessthe Secretary determines the ordinance is inconsistent. Any ordinance submitted to the Secretary shall become effective upon notification of concurrence. Should the Secretary fail to act within ninety days, the Secretary shall be deemed to have concurred with the Commission's tentative consistency determination.
+(1) Upon receipt of a special management area land use ordinance from the Commission, the Secretary shall notify the public of such receipt and shall, within ninety days thereafter, concur with the Commission's tentative determination of consistency with the management plan unless the Secretary determines the ordinance is inconsistent. Any ordinance submitted to the Secretary shall become effective upon notification of concurrence. Should the Secretary fail to act within ninety days, the Secretary shall be deemed to have concurred with the Commission's tentative consistency determination.
 
 (2)
 

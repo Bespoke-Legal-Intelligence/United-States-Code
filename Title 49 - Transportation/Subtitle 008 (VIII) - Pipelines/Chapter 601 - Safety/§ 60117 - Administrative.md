@@ -148,7 +148,7 @@ Cooperation.—The Secretary may—
 
 (j)
 
-Promoting Coordination.—(1) After consulting with appropriate State officials, the Secretary shall establish procedures to promote more effective coordination between departments, agencies, and instrumentalities of the Government and State authorities with regulatory authority over pipeline facilities about responses to a pipeline accident.
+Promoting Coordination.—(1) After consulting with appropriate State officials, the Secretary shall establish procedures to promotemore effective coordination between departments, agencies, and instrumentalities of the Government and State authorities with regulatory authority over pipeline facilities about responses to a pipeline accident.
 
 (2) In consultation with the Occupational Safety and Health Administration, the Secretary shall establish procedures to notify the Administration of any pipeline accident in which an excavator that has caused damage to a pipeline may have violated a regulation of the Administration.
 
@@ -238,7 +238,7 @@ Use.—Amounts in the Fund shall be available to the Secretary, in amounts speci
 
 &emsp;(4)
 
-No additional permitting authority.—Nothing in this subsection may be construed as authorizing the Secretary to require a person to obtain a permit before beginning design and construction in connection with a project described in paragraph (1)(B).
+No additional permitting authority.—Nothing in this subsection may be construed as authorizing the Secretary to require a person to obtain a permit before beginning designand construction in connection with a project described in paragraph (1)(B).
 
 (p)
 

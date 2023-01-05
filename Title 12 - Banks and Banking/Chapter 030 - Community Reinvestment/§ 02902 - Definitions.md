@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 &emsp;(1) the term "appropriate Federal financial supervisory agency" means—
 
-&emsp;&emsp;(A) the Comptroller of the Currency with respect to national banks and Federal savings associations (the deposits of which areinsured by the Federal Deposit Insurance Corporation);
+&emsp;&emsp;(A) the Comptroller of the Currency with respect to national banks and Federal savings associations (the deposits of which are insured by the Federal Deposit Insurance Corporation);
 
 &emsp;&emsp;(B) the Board of Governors of the Federal Reserve System with respect to State chartered banks which are members of the Federal Reserve System, bank holding companies, and savings and loan holding companies;
 

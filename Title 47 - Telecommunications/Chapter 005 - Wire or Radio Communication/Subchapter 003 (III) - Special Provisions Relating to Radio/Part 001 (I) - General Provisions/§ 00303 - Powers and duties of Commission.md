@@ -12,7 +12,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (e) Regulate the kind of apparatus to be used with respect to its external effects and the purity and sharpness of the emissions from each station and from the apparatus therein;
 
-(f) Make such regulations not inconsistent with law as it may deem necessary to prevent interference between stations and to carry out the provisions of this chapter: <i>Provided, however</i>, That changes in the frequencies, authorized power, or in the times of operation of any station, shall not be made without the consent of the station licensee unless the Commission shall determine that such changes will promote public convenience or interest or will serve public necessity, or the provisions of this chapter will be more fully complied with;
+(f) Make such regulations not inconsistent with law as it may deem necessary to prevent interference between stations and to carry out the provisions of this chapter: <i>Provided, however</i>, That changes in the frequencies, authorized power, or in the times of operation of any station, shall not be made without the consent ofthe station licensee unless the Commission shall determine that such changes will promote public convenience or interest or will serve public necessity, or the provisions of this chapter will be more fully complied with;
 
 (g) Study new uses for radio, provide for experimental uses of frequencies, and generally encourage the larger and more effective use of radio in the public interest;
 
@@ -28,7 +28,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (2) Notwithstanding paragraph (1) of this subsection, an individual to whom a radio station is licensed under the provisions of this chapter may be issued an operator's license to operate that station.
 
-(3) In addition to amateur operator licenses which the Commission may issue to aliens pursuant to paragraph (2) of this subsection, and notwithstanding section 301 of this title and paragraph (1) of this subsection, the Commission may issue authorizations, under such conditions and terms as it may prescribe, to permit analien licensed by his government as an amateur radio operator to operate his amateur radio station licensed by his government in the United States, its possessions, and the Commonwealth of Puerto Rico provided there is in effect a multilateral or bilateral agreement, to which the United States and the alien's government are parties, for such operation on a reciprocal basis by United States amateur radio operators. Other provisions of this chapter and of subchapter II of chapter 5, and chapter 7, of title 5 shall not be applicable to any request or application for or modification, suspension, or cancellation of any such authorization.
+(3) In addition to amateur operator licenses which the Commission may issue to aliens pursuant to paragraph (2) of this subsection, and notwithstanding section 301 of this title and paragraph (1) of this subsection, the Commission may issue authorizations, under such conditions and terms as it may prescribe, to permit an alien licensed by his government as an amateur radio operator to operate his amateur radio station licensed by his government in the United States, its possessions, and the Commonwealth of Puerto Rico provided there is in effect a multilateral or bilateral agreement, to which the United States and the alien's government are parties, for such operation on a reciprocal basis by United States amateur radio operators. Other provisions of this chapter and of subchapter II of chapter 5, and chapter 7, of title 5 shall not be applicable to any request or application for or modification, suspension, or cancellation of any such authorization.
 
 (m)(1) Have authority to suspend the license of any operator upon proof sufficient to satisfy the Commission that the licensee—
 
@@ -62,7 +62,7 @@ Except as otherwise provided in this chapter, the Commission from time to time, 
 
 (s) Have authority to require that apparatus designed to receive television pictures broadcast simultaneously with sound be capable of adequately receiving all frequencies allocated by the Commission to television broadcasting when such apparatus is shipped in interstate commerce, or is imported from any foreign country into the United States, for sale or resale to the public.
 
-(t) Notwithstanding the provisions of section 301(e) of this title, have authority, in any case in which an aircraft registered in the United States is operated (pursuant to a lease, charter, or similar arrangement) by an aircraft operator who is subject to regulation by the government of a foreign nation, to enter into an agreement with such government under which the Commission shall recognize and accept any radio stationlicenses and radio operator licenses issued by such government with respect to such aircraft.
+(t) Notwithstanding the provisions of section 301(e) of this title, have authority, in any case in which an aircraft registered in the United States is operated (pursuant to a lease, charter, or similar arrangement) by an aircraft operator who is subject to regulation by the government of a foreign nation, to enter into an agreement with such government under which the Commission shall recognize and accept any radio station licenses and radio operator licenses issued by such government with respect to such aircraft.
 
 (u) Require that, if technically feasible—
 
@@ -230,7 +230,7 @@ Applicability of rating provision.—The amendment made by subsection (b) of thi
 
 "(2)
 
-Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability of the requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\]." \[On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. This feature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.\]
+Effective date of manufacturing provision.—In prescribing regulations to implement the amendment made by subsection (c) \[amending this section\], the Federal Communications Commission shall, after consultation with the television manufacturing industry, specify the effective date for the applicability ofthe requirement to the apparatus covered by such amendment, which date shall not be less than two years after the date of enactment of this Act \[Feb. 8, 1996\]." \[On Mar. 12, 1998, the Federal Communications Commission adopted technical rules that require certain television receivers to be equipped with features to block display of programs with a common rating. This feature was to be phased in, with half of subject television receivers to have it by July 1, 1999, and all such models to have it by Jan. 1, 2000.\]
 
 #### Effective Date of 1992 Amendment
 
@@ -266,7 +266,7 @@ Implementing Regulations.—Within 18 months after the submission to the Commiss
 
 "(c)
 
-Alternate Means of Compliance.—An entity may meet the requirements of section 303(aa) of theCommunications Act of 1934 \[47 U.S.C. 303(aa)\] through alternate means than those prescribed by regulations pursuant to subsection (b) if the requirements of those sections are met, as determined by the Commission.
+Alternate Means of Compliance.—An entity may meet the requirements of section 303(aa) of the Communications Act of 1934 \[47 U.S.C. 303(aa)\] through alternate means than those prescribed by regulations pursuant to subsection (b) if the requirements of those sections are met, as determined by the Commission.
 
 "(d)
 

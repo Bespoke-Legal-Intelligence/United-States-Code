@@ -118,7 +118,7 @@ Beginning with respect to fiscal year 2009, the Secretary shall assess and colle
 
 &emsp;&emsp;&emsp;(ii) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 of the preceding 4 fiscal years for which data are available, multiplied by the average proportion of personnel compensation and benefits costs to total Food and Drug Administration costs for the first 3 of the preceding 4 fiscal years for which data are available; and
 
-&emsp;&emsp;&emsp;(iii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; not seasonally adjusted; all items less food and energy; annual index) for the first 3 of the preceding 4 years for which data are available multiplied by the average proportion of all costs other than personnel compensation and benefits costs to total Food and Drug Administration costs for the first 3 of the preceding 4 fiscal years for which data are available.
+&emsp;&emsp;&emsp;(iii) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; not seasonally adjusted; all items less food and energy; annual index) for the first 3 of the preceding 4 years for which data are available multiplied by the average proportion of all costs other than personnel compensation andbenefits costs to total Food and Drug Administration costs for the first 3 of the preceding 4 fiscal years for which data are available.
 
 #### (B) Compounded basis
 
@@ -172,7 +172,7 @@ An abbreviated application for a generic new animal drug submitted by a person s
 
 #### (1) Limitation
 
-&emsp;Fees may not be assessed under subsection (a) for a fiscal year beginning after fiscal year 2008 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
+&emsp;Fees may not be assessed under subsection (a) for a fiscal year beginning after fiscal year 2008 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) areequal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 2003 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
 
 #### (2) Authority
 
@@ -294,7 +294,7 @@ In this section and section 379j–22 of this title:
 
 &emsp;&emsp;(A) The activities necessary for the review of abbreviated applications, supplemental abbreviated applications, and investigational submissions.
 
-&emsp;&emsp;(B) The issuance of action letters which approve abbreviated applications or supplemental abbreviated applications or which set forth in detail the specific deficiencies in abbreviated applications, supplemental abbreviated applications, or investigational submissions and, where appropriate, the actions necessary to place such applications, supplemental applications, or submissions in condition for approval.
+&emsp;&emsp;(B) The issuance of action letters which approve abbreviated applications or supplemental abbreviated applications or which set forth in detail the specific deficiencies in abbreviated applications, supplemental abbreviated applications, or investigationalsubmissions and, where appropriate, the actions necessary to place such applications, supplemental applications, or submissions in condition for approval.
 
 &emsp;&emsp;(C) The inspection of generic new animal drug establishments and other facilities undertaken as part of the Secretary's review of pending abbreviated applications, supplemental abbreviated applications, and investigational submissions.
 
@@ -364,7 +364,7 @@ Pub. L. 115–234, title II, §206(a), Aug. 14, 2018, 132 Stat. 2435, provided t
 
 Pub. L. 113–14, title II, §206(a), June 13, 2013, 127 Stat. 474, which provided that section 741 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21) would cease to be effective Oct. 1, 2018, was repealed by Pub. L. 115–234, title II, §206(c), Aug. 14, 2018, 132 Stat. 2435, effective Oct. 1, 2018.
 
-Pub. L. 110–316, title II, §204(a), Aug. 14, 2008, 122 Stat. 3524, which provided that the amendments made by section 202 of Pub. L. 110–316 (enacting this section and amending sections 379k, 379l, and 379o of this title) would cease to be effective Oct. 1, 2013, was repealed by Pub. L. 113–14, title II, §206(c)(1), June 13, 2013, 127 Stat. 474.
+Pub. L. 110–316, title II, §204(a), Aug. 14, 2008, 122 Stat. 3524, which provided that the amendments made by section 202 of Pub. L. 110–316 (enacting this section and amending sections 379k, 379l, and 379o of this title) would cease to be effective Oct. 1, 2013, was repealed byPub. L. 113–14, title II, §206(c)(1), June 13, 2013, 127 Stat. 474.
 
 #### Savings Provisions
 
@@ -376,7 +376,7 @@ Pub. L. 113–14, title II, §204, June 13, 2013, 127 Stat. 474, provided that: 
 
 Pub. L. 115–234, title II, §201(b), Aug. 14, 2018, 132 Stat. 2432, provided that: "Congress finds that the fees authorized by the amendments made in this title \[see section 201(a) of Pub. L. 115–234, set out as a Short Title of 2018 Amendment note under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified for purposes of part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–21 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor and Pensions of the Senate as set forth in the Congressional Record."
 
-Pub. L. 113–14, title II, §201(b), June 13, 2013, 127 Stat. 464, provided that: "The fees authorized by this title \[see Short Title of 2013 Amendment note set out under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of theHouse of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
+Pub. L. 113–14, title II, §201(b), June 13, 2013, 127 Stat. 464, provided that: "The fees authorized by this title \[see Short Title of 2013 Amendment note set out under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
 
 Pub. L. 110–316, title II, §201(b), Aug. 14, 2008, 122 Stat. 3515, provided that: "Congress finds as follows:
 

@@ -6,7 +6,7 @@ All power sales under this chapter shall be subject at all times to the preferen
 
 #### (b) Sales to public bodies, cooperatives, and Federal agency customers
 
-(1) Whenever requested, the Administrator shall offer to sell to each requesting public body and cooperative entitled to preference and priority under the Bonneville Project Act of 1937 \[16 U.S.C. 832 et seq.\] and to each requesting investor-owned utility electric power to meet the firm power load of such public body, cooperative or investor-owned utility in the Region to the extent that such firm power load exceeds—
+(1) Whenever requested, the Administrator shall offer to sell to each requesting public bodyand cooperative entitled to preference and priority under the Bonneville Project Act of 1937 \[16 U.S.C. 832 et seq.\] and to each requesting investor-owned utility electric power to meet the firm power load of such public body, cooperative or investor-owned utility in the Region to the extent that such firm power load exceeds—
 
 &emsp;(A) the capability of such entity's firm peaking and energy resources used in the year prior to December 5, 1980, to serve its firm load in the region, and
 
@@ -54,7 +54,7 @@ No resale.—A public body or cooperative to which a joint operating entity sell
 
 (2) The purchase and exchange sale referred to in paragraph (1) of this subsection with any electric utility shall be limited to an amount not in excess of 50 per centum of such utility's Regional residential load in the year beginning July 1, 1980, such 50 per centum limit increasing in equal annual increments to 100 per centum of such load in the year beginning July 1, 1985, and each year thereafter.
 
-(3) The cost benefits, as specified in contracts with the Administrator, of any purchase and exchange sale referred to in paragraph (1) of this subsection which are attributable to any electric utility's residential load within a State shall be passed through directly to such utility'sresidential loads within such State, except that a State which lies partially within and partially without the region may require that such cost benefits be distributed among all of the utility's residential loads in that State.
+(3) The cost benefits, as specified in contracts with the Administrator, of any purchase and exchange sale referred to in paragraph (1) of this subsection which are attributable to any electric utility's residential load within a State shall be passed through directly to such utility's residential loads within such State, except that a State which lies partially within and partially without the region may require that such cost benefits be distributed among all of the utility's residential loads in that State.
 
 (4) An electric utility may terminate, upon reasonable terms and conditions agreed to by the Administrator and such utility prior to such termination, its purchase and sale under this subsection if the supplemental rate charge provided for in section 839e(b)(3) of this title is applied and the cost of electric power sold to such utility under this subsection exceeds, after application of such rate charge, the average system cost of power sold by such utility to the Administrator under this subsection.
 

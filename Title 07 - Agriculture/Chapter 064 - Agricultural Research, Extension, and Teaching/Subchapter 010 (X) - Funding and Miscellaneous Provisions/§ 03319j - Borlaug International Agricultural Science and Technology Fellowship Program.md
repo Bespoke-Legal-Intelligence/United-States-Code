@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a fellowship program, to be known as the "Borlaug International Agricultural Science and Technology Fellowship Program," to provide fellowships for scientific training and study in the United States to individuals from eligible countries\(as described in subsection (b)) who specialize in agricultural education, research, and extension.
+&emsp;The Secretary shall establish a fellowship program, to be known as the "Borlaug International Agricultural Science and Technology Fellowship Program," to provide fellowships for scientific training and study in the United States to individuals from eligible countries (as described in subsection (b)) who specialize in agricultural education, research, and extension.
 
 #### (2) Programs
 
@@ -100,5 +100,5 @@ Subsec. (f). Pub. L. 115–334, §3306(2), designated existing provisions as par
 
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

@@ -42,7 +42,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (3) Order of awards; program fraud
 
-&emsp;(A) Except with respect to grants made under sections 1070a–17 and 1070a–18 of thistitle and as provided in subparagraph (B), the Secretary shall award grants and contracts under this division in the order of the scores received by the application for such grant or contract in the peer review process required under paragraph (4) and adjusted for prior experience in accordance with paragraph (2) of this subsection.
+&emsp;(A) Except with respect to grants made under sections 1070a–17 and 1070a–18 of this title and as provided in subparagraph (B), the Secretary shall award grants and contracts under this division in the order of the scores received by the application for such grant or contract in the peer review process required under paragraph (4) and adjusted for prior experience in accordance with paragraph (2) of this subsection.
 
 &emsp;(B) The Secretary shall not provide assistance to a program otherwise eligible for assistance under this division, if the Secretary has determined that such program has involved the fraudulent use of funds under this division.
 
@@ -70,7 +70,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 &emsp;&emsp;Not later than 180 days after August 14, 2008, the Secretary shall issue nonregulatory guidance regarding the rights and responsibilities of applicants with respect to the application and evaluation process for programs and projects assisted under this division, including applicant access to peer review comments. The guidance shall describe the procedures for the submission, processing, and scoring of applications for grants under this division, including—
 
-&emsp;&emsp;&emsp;(i) the responsibility of applicants to submit materials in a timely manner and in accordance with the processes established by the Secretary under the authority of the General Education Provisions Act \[20 U.S.C. 1221 et seq.\];
+&emsp;&emsp;&emsp;(i) the responsibility of applicants to submit materials in a timely manner andin accordance with the processes established by the Secretary under the authority of the General Education Provisions Act \[20 U.S.C. 1221 et seq.\];
 
 &emsp;&emsp;&emsp;(ii) steps the Secretary will take to ensure that the materials submitted by applicants are processed in a proper and timely manner;
 
@@ -88,7 +88,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;With respect to any competition for a grant under this division, an applicantmay request a review by the Secretary if the applicant—
+&emsp;&emsp;&emsp;With respect to any competition for a grant under this division, an applicant may request a review by the Secretary if the applicant—
 
 &emsp;&emsp;&emsp;&emsp;(I) has evidence of a specific technical, administrative, or scoring error made by the Department, an agent of the Department, or a peer reviewer, with respect to the scoring or processing of a submitted application; and
 
@@ -160,7 +160,7 @@ The Secretary shall, in accordance with the provisions of this division, carry o
 
 #### (2) Notice
 
-&emsp;In carrying out the provisions of paragraph (1), the Secretary shall notify the entities described in subsection (b) of the availability of assistance under this subsection not less than120 days prior to the deadline for submission of applications under this division and shall consult national, State, and regional organizations about candidates for notification.
+&emsp;In carrying out the provisions of paragraph (1), the Secretary shall notify the entities described in subsection (b) of the availability of assistance under this subsection not less than 120 days prior to the deadline for submission of applications under this division and shall consult national, State, and regional organizations about candidates for notification.
 
 #### (3) Technical assistance
 

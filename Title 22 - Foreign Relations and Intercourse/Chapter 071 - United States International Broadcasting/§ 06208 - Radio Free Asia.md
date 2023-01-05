@@ -118,7 +118,7 @@ Subsec. (c)(5), (6). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(3)
 
 Subsecs. (d), (e). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(2)\], redesignated subsecs. (e) and (f) as (d) and (e), respectively. Former subsec. (d) redesignated (c).
 
-Subsec. (f). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(4)\], reenacted subsec. heading without change andamended text generally. Prior to amendment, text read as follows: "The Board may not make any grant for the purpose of operating Radio Free Asia after September 30, 1998, unless the President of the United States determines in the President's fiscal year 1999 budget submission that continuation of funding for Radio Free Asia for 1 additional year is in the interest of the United States."
+Subsec. (f). Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(4)\], reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: "The Board may not make any grant for the purpose of operating Radio Free Asia after September 30, 1998, unless the President of the United States determines in the President's fiscal year 1999 budget submission that continuation of funding for Radio Free Asia for 1 additional year is in the interest of the United States."
 
 Pub. L. 106–113, §1000(a)(7) \[div. A, title V, §501(2)\], redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 

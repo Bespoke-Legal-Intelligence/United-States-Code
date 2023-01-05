@@ -158,7 +158,7 @@ Section 2 of the National Science Foundation Authorization Act of 1998, referred
 
 #### Codification
 
-Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of theNational Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 

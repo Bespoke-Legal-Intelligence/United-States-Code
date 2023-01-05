@@ -40,7 +40,7 @@ Not later than February 1 of each year, the Secretary shall develop and submit t
 
 &emsp;&emsp;(A) make the notice publicly available, including on the Internet; and
 
-&emsp;&emsp;(B) provide written notification of the publication to the Committee on Environmentand Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+&emsp;&emsp;(B) provide written notification of the publication to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 #### (c) Contents
 
@@ -302,7 +302,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(2) The Water Resources Reform and Development Act of 2014 (Public Law 113–121) established a new and transparent process to review and prioritize the water resources development activities of the Corps of Engineers with strong congressional oversight.
 
-&emsp;"(3) Section 7001 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d) requires the Secretary \[of the Army\] to develop and submit to Congress each year a Report to Congress on Future Water Resources Development and, as part of the annual report process, to—
+&emsp;"(3) Section 7001 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d) requires the Secretary \[of the Army\] to develop and submit to Congress each year a Report to Congress on FutureWater Resources Development and, as part of the annual report process, to—
 
 &emsp;&emsp;"(A) publish a notice in the Federal Register that requests from non-Federal interests proposed feasibility studies and proposed modifications to authorized water resources development projects and feasibility studies for inclusion in the report; and
 

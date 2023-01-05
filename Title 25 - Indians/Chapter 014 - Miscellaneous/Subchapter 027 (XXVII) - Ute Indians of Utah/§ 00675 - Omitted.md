@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, act Aug. 12, 1953, ch. 406, §2, 67 Stat. 540, which prohibited use of funds authorized to be expendedor advanced pursuant to former section 674 of this title for the payment of agents' or attorneys' fees, was omitted from the Code as being of special and not general application.
+Section, act Aug. 12, 1953, ch. 406, §2, 67 Stat. 540, which prohibited use of funds authorized to be expended or advanced pursuant to former section 674 of this title for the payment of agents' or attorneys' fees, was omitted from the Code as being of special and not general application.
 

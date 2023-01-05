@@ -6,11 +6,17 @@ Using operation and maintenance funds or facilities and infrastructure funds aut
 
 #### (b) Annual report
 
-The Secretary shall submit to the congressional defense committees on an annual basis a report on each exercise of the authority in subsection (a) during the preceding fiscal year. Each report shall provide a brief description of each minor construction project covered by the report.
+The Secretary shall submit to the congressional defense committees on an annual basis a report on each exercise of the authority in subsection (a) during the preceding fiscal year. Each report shall provide a brief description of each minor construction project covered by the report. The report shall include with respect to each project the following:
+
+&emsp;(1) The estimated original total project cost and the estimated original date of completion.
+
+&emsp;(2) The percentage of the project that is complete.
+
+&emsp;(3) The current estimated total project cost and estimated date of completion.
 
 #### (c) Cost variation reports to congressional committees
 
-If, at any time during the construction of any minor construction project authorized by a DOE national security authorization, the estimated cost of the project is revised and the revised cost of the project exceeds the minor construction threshold, the Secretary shall immediately submit to the congressional defense committees a report explaining the reasons for the cost variation.
+If, at any time during the construction of any minor construction project authorized by a DOE national security authorization, the estimatedcost of the project is revised and the revised cost of the project exceeds the minor construction threshold, the Secretary shall immediately submit to the congressional defense committees a report explaining the reasons for the cost variation.
 
 #### (d) Notification required for certain projects
 
@@ -24,7 +30,7 @@ Notwithstanding subsection (a), the Secretary may not start a minor construction
 
 In this section, the term "minor construction project" means any plant project not specifically authorized by law for which the approved total estimated cost does not exceed the minor construction threshold.
 
-(Pub. L. 107–314, div. D, title XLVII, §4703, formerly div. C, title XXXVI, §3622, Dec. 2, 2002, 116 Stat. 2757; renumbered div. D, title XLVII, §4703, by Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 117–81, div. C, title XXXI, §3115(b)(1), Dec. 27, 2021, 135 Stat. 2226.)
+(Pub. L. 107–314, div. D, title XLVII, §4703, formerly div. C, title XXXVI, §3622, Dec. 2, 2002, 116 Stat. 2757; renumbered div. D, title XLVII, §4703, by Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 117–81, div. C, title XXXI, §3115(b)(1), Dec. 27, 2021, 135 Stat. 2226; Pub. L. 117–263, div. C, title XXXI, §3113(b), Dec. 23, 2022, 136 Stat. 3053.)
 
 #### <b>Editorial Notes</b>
 
@@ -33,6 +39,8 @@ In this section, the term "minor construction project" means any plant project n
 Section was formerly classified to section 7386b of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–263 inserted at end "The report shall include with respect to each project the following:" and added pars. (1) to (3).
 
 <b>2021</b>—Subsecs. (d), (e). Pub. L. 117–81 added subsec. (d) and redesignated former subsec. (d) as (e).
 

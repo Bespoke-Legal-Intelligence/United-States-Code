@@ -22,7 +22,7 @@ Foreign fishing described in subsection (a) may be conducted pursuant to an inte
 
 Foreign fishing described in subsection (a) may be conducted pursuant to an international fishery agreement (other than a treaty) which meets the requirements of this subsection if such agreement becomes effective after application of section 1823 of this title. Any such international fishery agreement shall hereafter in this chapter be referred to as a "governing international fishery agreement". Each governing international fishery agreement shall acknowledge the exclusive fishery management authority of the United States, as set forth in this chapter. It is the sense of the Congress that each such agreement shall include a binding commitment, on the part of such foreign nation and its fishing vessels, to comply with the following terms and conditions:
 
-&emsp;(1) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by all regulations promulgated by the Secretary pursuant to this chapter, including any regulations promulgated to implement any applicable fisherymanagement plan or any preliminary fishery management plan.
+&emsp;(1) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by all regulationspromulgated by the Secretary pursuant to this chapter, including any regulations promulgated to implement any applicable fishery management plan or any preliminary fishery management plan.
 
 &emsp;(2) The foreign nation, and the owner or operator of any fishing vessel fishing pursuant to such agreement, will abide by the requirement that—
 
@@ -134,7 +134,7 @@ Foreign fishing shall not be authorized for the fishing vessels of any foreign n
 
 #### (g) Preliminary fishery management plans
 
-The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such application if the Secretary determines that no fishery management plan for that fishery will be preparedand implemented, pursuant to subchapter IV, before March 1, 1977. To the extent practicable, each such plan—
+The Secretary, when notified by the Secretary of State that any foreign nation has submitted an application under section 1824(b) of this title shall prepare a preliminary fishery management plan for any fishery covered by such applicationif the Secretary determines that no fishery management plan for that fishery will be prepared and implemented, pursuant to subchapter IV, before March 1, 1977. To the extent practicable, each such plan—
 
 &emsp;(1) shall contain a preliminary description of the fishery and a preliminary determination as to—
 
@@ -182,7 +182,7 @@ The Secretary, when notified by the Secretary of State that any foreign nation h
 
 (6) If at any time the requirement set forth in paragraph (1) cannot be met because of insufficient appropriations, the Secretary shall, in implementing a supplementary observer program:
 
-&emsp;(A) certify as observers, for the purposes of this subsection, individuals who are citizens ornationals of the United States and who have the requisite education or experience to carry out the functions referred to in paragraph (3);
+&emsp;(A) certify as observers, for the purposes of this subsection, individuals who are citizens or nationals of the United States and who have the requisite education or experience to carry out the functions referred to in paragraph (3);
 
 &emsp;(B) establish standards of conduct for certified observers equivalent to those applicable to Federal personnel;
 
@@ -212,7 +212,7 @@ Notwithstanding any other provision of this subchapter, foreign fishing vessels 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 

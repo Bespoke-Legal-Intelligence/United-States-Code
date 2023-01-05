@@ -48,7 +48,7 @@
 
 <b>1984</b>—Pub. L. 98–547, title II, §204(b), Oct. 25, 1984, 98 Stat. 2770, added item 2320 relating to trafficking in certain motor vehicles or motor vehicle parts.
 
-Pub. L. 98–473, title II, §§1115, 1502(b), Oct. 12, 1984, 98 Stat. 2149, 2179, substituted "livestock" for "cattle" initems 2316 and 2317 and added item 2320 relating to trafficking in counterfeit goods or services.
+Pub. L. 98–473, title II, §§1115, 1502(b), Oct. 12, 1984, 98 Stat. 2149, 2179, substituted "livestock" for "cattle" in items 2316 and 2317 and added item 2320 relating to trafficking in counterfeit goods or services.
 
 <b>1982</b>—Pub. L. 97–180, §4, May 24, 1982, 96 Stat. 92, substituted "Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works" for "Transportation, sale, or receipt of phonograph records bearing forged or counterfeit labels" in item 2318 and added item 2319.
 

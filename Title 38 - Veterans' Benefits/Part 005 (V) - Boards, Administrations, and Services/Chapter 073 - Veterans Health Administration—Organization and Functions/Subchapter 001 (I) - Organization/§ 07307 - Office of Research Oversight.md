@@ -2,7 +2,7 @@
 
 (a)
 
-Requirement for Office.—(1) There is in the Veterans Health Administration an Office of Research Oversight (hereinafter in this section referred to as the "Office"). The Office shall advise the Under Secretary for Health on matters of compliance and assurance in human subjects protections, research safety, and research impropriety and misconduct. The Office shall function independently of entities within the Veterans Health Administration with responsibility for the conduct of medical research programs.
+Requirement for Office.—(1) There is in the Veterans Health Administration an Office ofResearch Oversight (hereinafter in this section referred to as the "Office"). The Office shall advise the Under Secretary for Health on matters of compliance and assurance in human subjects protections, research safety, and research impropriety and misconduct. The Office shall function independently of entities within the Veterans Health Administration with responsibility for the conduct of medical research programs.
 
 (2) The Office shall—
 

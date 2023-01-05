@@ -28,7 +28,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Prior Provisions
 
-A prior section 4341, Pub. L. 99–371, title III, §301, Aug. 4, 1986, 100 Stat. 786, established Commission on Education of the Deaf, prior to repeal by Pub. L. 102–421, title I, §§101(a)(2), 161, Oct. 16, 1992, 106 Stat. 2151, 2164, effective Oct. 1, 1992.
+A prior section 4341, Pub. L. 99–371, title III, §301, Aug. 4, 1986, 100 Stat. 786, established Commission onEducation of the Deaf, prior to repeal by Pub. L. 102–421, title I, §§101(a)(2), 161, Oct. 16, 1992, 106 Stat. 2151, 2164, effective Oct. 1, 1992.
 
 A prior section 121 of Pub. L. 99–371 was classified to section 4321 of this title, prior to repeal by Pub. L. 102–421.
 

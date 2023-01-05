@@ -22,7 +22,7 @@ Congress finds as follows:
 
 &emsp;(9) RAINN established and continues to operate the National Sexual Assault Hotline, a free, confidential telephone hotline that provides help, 24 hours a day, to victims nationally.
 
-&emsp;(10) More than 1,100 local rape crisis centers in the 50 States and the District of Columbia partner with RAINN and are members of the National Sexual Assault Hotline network\(which has helped more than 970,000 people since its inception in 1994).
+&emsp;(10) More than 1,100 local rape crisis centers in the 50 States and the District of Columbia partner with RAINN and are members of the National Sexual Assault Hotline network (which has helped more than 970,000 people since its inception in 1994).
 
 &emsp;(11) To better serve victims of sexual assault, 80 percent of whom are under age 30 and 44 percent of whom are under age 18, RAINN will soon launch the National Sexual Assault Online Hotline, the web's first secure hotline service offering live help 24 hours a day.
 
@@ -82,9 +82,9 @@ For the purposes of this section:
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated to the Administrator to carry out this section, $3,000,000 for each of fiscal years 2007 through 2010.
+There is authorized to be appropriated to the Administrator to carry out this section, $3,000,000 for each of fiscal years 2022 through 2027.
 
-(Pub. L. 109–248, title VI, §628, July 27, 2006, 120 Stat. 638.)
+(Pub. L. 109–248, title VI, §628, July 27, 2006, 120 Stat. 638; Pub. L. 117–347, title I, §105(e), Jan. 5, 2023, 136 Stat. 6204.)
 
 #### <b>Editorial Notes</b>
 
@@ -97,6 +97,10 @@ The Violence Against Women Act, referred to in subsec. (a)(5), probably means th
 #### Codification
 
 Section was formerly classified to section 16985 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>2023</b>—Subsec. (d). Pub. L. 117–347 substituted "fiscal years 2022 through 2027" for "fiscal years 2007 through 2010".
 
 <i><sup>1</sup></i><i> So in original. The second period probably should not appear.</i>
 

@@ -84,7 +84,7 @@ Not later than 1 year after December 19, 2007, as part of the program carried ou
 
 #### (d) Technical review
 
-The Secretary shall establish a technical review committee composed of non-Federal officers to review entrant data submitted under thissection to determine whether the data meets the prize specifications described in subsection (b).
+The Secretary shall establish a technical review committee composed of non-Federal officers to review entrant data submitted under this section to determine whether the data meets the prize specifications described in subsection (b).
 
 #### (e) Third party administration
 

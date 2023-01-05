@@ -10,3 +10,4 @@
 - [&sect; 02463 - Sharing of technology with Department of Defense](%C2%A7%2002463%20-%20Sharing%20of%20technology%20with%20Department%20of%20Defense.md)
 - [&sect; 02464 - Use of capabilities of national security laboratories by entities outside the Administration](%C2%A7%2002464%20-%20Use%20of%20capabilities%20of%20national%20security%20laboratories%20by%20entities%20outside%20the%20Administration.md)
 - [&sect; 02465 - Enhancing private-sector employment through cooperative research and development activities](%C2%A7%2002465%20-%20Enhancing%20private-sector%20employment%20through%20cooperative%20research%20and%20development%20activities.md)
+- [&sect; 02466 - Use of funds for the purchase of options to purchase real property](%C2%A7%2002466%20-%20Use%20of%20funds%20for%20the%20purchase%20of%20options%20to%20purchase%20real%20property.md)

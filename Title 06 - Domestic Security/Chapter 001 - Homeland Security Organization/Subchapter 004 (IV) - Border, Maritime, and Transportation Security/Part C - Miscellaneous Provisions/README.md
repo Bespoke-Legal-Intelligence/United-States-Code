@@ -17,5 +17,8 @@ Part C—Miscellaneous Provisions
 - [&sect; 00240 - Border Enforcement Security Task Force](%C2%A7%2000240%20-%20Border%20Enforcement%20Security%20Task%20Force.md)
 - [&sect; 00241 - Prevention of international child abduction](%C2%A7%2000241%20-%20Prevention%20of%20international%20child%20abduction.md)
 - [&sect; 00242 - Department of Homeland Security Blue Campaign](%C2%A7%2000242%20-%20Department%20of%20Homeland%20Security%20Blue%20Campaign.md)
+- [&sect; 00242a - Department of Homeland Security Center for Countering Human Trafficking](%C2%A7%2000242a%20-%20Department%20of%20Homeland%20Security%20Center%20for%20Countering%20Human%20Trafficking.md)
+- [&sect; 00242b - Reports](%C2%A7%2000242b%20-%20Reports.md)
 - [&sect; 00243 - Maritime operations coordination plan](%C2%A7%2000243%20-%20Maritime%20operations%20coordination%20plan.md)
 - [&sect; 00244 - Maritime security capabilities assessments](%C2%A7%2000244%20-%20Maritime%20security%20capabilities%20assessments.md)
+- [&sect; 00245 - Operational data sharing capability](%C2%A7%2000245%20-%20Operational%20data%20sharing%20capability.md)

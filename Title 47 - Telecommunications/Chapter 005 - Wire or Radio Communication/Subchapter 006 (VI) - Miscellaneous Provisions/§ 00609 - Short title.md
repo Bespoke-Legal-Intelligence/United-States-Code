@@ -12,6 +12,14 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 117–338, §1, Jan. 5, 2023, 136 Stat. 6156, provided that: "This Act \[amending sections 152, 153, and 276 of this title and enacting provisions set out as notes under section 152 of this title\] may be cited as the 'Martha Wright-Reed Just and Reasonable Communications Act of 2022'."
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–223, §1, Dec. 7, 2022, 136 Stat. 2280, provided that: "This Act \[enacting section 345 of this title and provisions set out as notes under section 345 of this title\] may be cited as the 'Safe Connections Act of 2022'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 117–58, div. F, title VI, §60601, Nov. 15, 2021, 135 Stat. 1246, provided that: "This title \[enacting and repealing section 344 of this title and enacting provisions set out as notes under section 344 of this title and section 3111 of Title 29, Labor\] may be cited as the 'Telecommunications Skilled Workforce Act'."
@@ -22,7 +30,7 @@ Pub. L. 116–260, div. FF, title IX, §902(a), Dec. 27, 2020, 134 Stat. 3206, p
 
 Pub. L. 116–172, §1, Oct. 17, 2020, 134 Stat. 832, provided that: "This Act \[enacting section 251a of this title, amending section 251 of this title, and enacting provisions set out as notes under section 251 of this title\] may be cited as the 'National Suicide Hotline Designation Act of 2020'."
 
-Pub. L. 116–130, §1, Mar. 23, 2020, 134 Stat. 228, provided that: "This Act \[enacting subchapter VII of this chapter\] may be cited as the 'Broadband DeploymentAccuracy and Technological Availability Act' or the 'Broadband DATA Act'."
+Pub. L. 116–130, §1, Mar. 23, 2020, 134 Stat. 228, provided that: "This Act \[enacting subchapter VII of this chapter\] may be cited as the 'Broadband Deployment Accuracy and Technological Availability Act' or the 'Broadband DATA Act'."
 
 Pub. L. 116–109, §1, Jan. 24, 2020, 134 Stat. 3, provided that: "This Act \[enacting section 511 of this title\] may be cited as the 'Preventing Illegal Radio Abuse Through Enforcement Act' or the 'PIRATE Act'."
 
@@ -54,7 +62,7 @@ Pub. L. 113–197, §1, Nov. 26, 2014, 128 Stat. 2055, provided that: "This Act 
 
 Pub. L. 111–331, §1, Dec. 22, 2010, 124 Stat. 3572, provided that: "This Act \[amending section 227 of this title\] may be cited as the 'Truth in Caller ID Act of 2009'."
 
-Pub. L. 111–311, §1, Dec. 15, 2010, 124 Stat. 3294, provided that: "This Act \[enacting section 621 of this title\] may be cited as the 'Commercial Advertisement Loudness Mitigation Act' or the 'CALM Act'."
+Pub. L. 111–311, §1, Dec. 15, 2010, 124 Stat. 3294, provided that: "This Act \[enacting section 621 of this title\]may be cited as the 'Commercial Advertisement Loudness Mitigation Act' or the 'CALM Act'."
 
 Pub. L. 111–260, §1(a), Oct. 8, 2010, 124 Stat. 2751, provided that: "This Act \[enacting sections 615c and 616 to 620 of this title, amending sections 153, 225, 303, 330, 402, 503, 610, and 613 of this title, and enacting provisions set out as notes under sections 153, 303, 613, and 619 of this title\] may be cited as the 'Twenty-First Century Communications and Video Accessibility Act of 2010'."
 
@@ -192,7 +200,7 @@ Pub. L. 91–97, §1, Oct. 27, 1969, 83 Stat. 146, provided: "That this Act \[am
 
 #### Short Title of 1967 Amendment
 
-Pub. L. 90–129, §1, Nov. 7, 1967, 81 Stat. 365, provided: "That this Act \[enacting sections 396, 398, and 399 of this title, amending sections 390 to 395 and 397 of this title, and enacting provisions set out as notes under sections 390 and 392 of this title\] may be cited as the 'Public Broadcasting Act of 1967'."
+Pub. L. 90–129, §1, Nov. 7, 1967, 81 Stat. 365, provided: "That this Act \[enacting sections 396, 398, and 399 ofthis title, amending sections 390 to 395 and 397 of this title, and enacting provisions set out as notes under sections 390 and 392 of this title\] may be cited as the 'Public Broadcasting Act of 1967'."
 
 #### Short Title of 1960 Amendment
 

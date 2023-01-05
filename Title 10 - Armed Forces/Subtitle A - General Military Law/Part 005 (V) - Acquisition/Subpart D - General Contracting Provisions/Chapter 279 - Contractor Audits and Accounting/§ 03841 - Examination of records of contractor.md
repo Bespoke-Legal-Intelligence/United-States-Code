@@ -58,7 +58,7 @@ Exception for foreign contractor or subcontractor.—Paragraph (1) does not appl
 
 &emsp;(3)
 
-Additional records not required.—Paragraph (1) may not be construed to requirea contractor or subcontractor to create or maintain any record that the contractor or subcontractor does not maintain in the ordinary course of business or pursuant to another provision of law.
+Additional records not required.—Paragraph (1) may not be construed to require a contractor or subcontractor to create or maintain any record that the contractor or subcontractor does not maintain in the ordinary course of business or pursuant to another provision of law.
 
 (e)
 
@@ -86,7 +86,7 @@ Use of Images of Original Records.—The head of an agency shall not require a c
 
 &emsp;(1) The contractor or subcontractor has established procedures to ensure that the imaging process preserves the integrity, reliability, and security of the original records.
 
-&emsp;(2) The contractor or subcontractor maintains an effective indexing system to permit timely and convenient access to the imaged records.
+&emsp;(2) The contractor or subcontractor maintains an effective indexing system to permittimely and convenient access to the imaged records.
 
 &emsp;(3) The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
 
@@ -134,7 +134,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 #### Exception From Records Examination Requirement
 
-Requirements under subsecs. (b)(2)(A)–(C) and (c) of this section (former subsecs. (a)(2)(A)–(C) and (b) of section 2313 of this title) not applicable to certain contracts valued at less than $7,500,000 awarded to smallbusiness or nontraditional defense contractors, with certain exceptions, see section 873(b) of Pub. L. 114–92, set out in a Pilot Program for Streamlining Awards for Innovative Technology Projects note under section 3702 of this title.
+Requirements under subsecs. (b)(2)(A)–(C) and (c) of this section (former subsecs. (a)(2)(A)–(C) and (b) of section 2313 of this title) not applicable to certain contracts valued at less than $7,500,000 awarded to small business or nontraditional defense contractors, with certain exceptions, see section 873(b) of Pub. L. 114–92, set out in a Pilot Program for Streamlining Awards for Innovative Technology Projects note under section 3702 of this title.
 
 #### Department of Defense Access to, Use of, and Safeguards and Protections for Contractor Internal Audit Reports
 
@@ -164,7 +164,7 @@ Risk-based Auditing.—A determination by the Defense Contract Audit Agency that
 
 "(d)
 
-Comptroller General Review.—Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall initiate a review of the documentation required by subsection (a). Not later than 90 days after completion of the review, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the review, with findings and recommendations for improving the audit processes of the Defense Contract Audit Agency."
+Comptroller General Review.—Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall initiate a review of the documentation required by subsection (a). Not later than 90 days after completion of the review, the Comptroller General shall submit to the congressional defense committees \[Committees onArmed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the review, with findings and recommendations for improving the audit processes of the Defense Contract Audit Agency."
 
 #### <b>Executive Documents</b>
 

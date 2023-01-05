@@ -2,7 +2,7 @@
 
 #### (a) Authorization; maximum term; maximum aggregate amount
 
-The Secretary of Housing and Urban Development (hereinafter referred to as the "Secretary") is authorized to make, and contract to make, annual payments to a "housing owner" on behalf of "qualified tenants", as those terms are defined herein, in such amounts and under such circumstances as are prescribed in or pursuant to this section. In no case shall a contract provide for such payments with respect to any housing for a period exceeding forty years. The aggregate amount of the contracts to make such payments shall not exceed amounts approved in appropriation Acts, and payments pursuant to such contracts shall not exceed $150,000,000 per annum prior to July 1, 1969, which maximum dollar amount shall be increased by $40,000,000, on July 1, 1969, by $100,000,000 on July 1, 1970, and by $40,000,000 on July 1, 1971.
+The Secretary of Housing and Urban Development (hereinafter referred to as the "Secretary") is authorized to make, and contract to make, annual payments to a "housing owner" on behalf of "qualified tenants", as those terms are defined herein, in such amounts and under such circumstances as are prescribed in or pursuant to this section. In no case shall a contract provide for such payments with respect to any housing for a period exceeding forty years. The aggregate amount of the contracts to make such payments shall not exceed amounts approved in appropriation Acts, and payments pursuant to such contracts shall not exceed $150,000,000 per annum prior to July 1, 1969, which maximum dollar amount shall be increased by $40,000,000,on July 1, 1969, by $100,000,000 on July 1, 1970, and by $40,000,000 on July 1, 1971.
 
 #### (b) "Housing owner" defined; limitation on payments to housing owner
 
@@ -20,7 +20,7 @@ As used in this section, the term—
 
 #### (d) Annual payment amount
 
-The amount of the annual payment with respect to any dwelling unit shall be the lesser of (1) 70 per centum of the fair market rent, or (2)the amount by which the fair market rental for such unit exceeds 30 per centum of the tenant's adjusted income.
+The amount of the annual payment with respect to any dwelling unit shall be the lesser of (1) 70 per centum of the fair market rent, or (2) the amount by which the fair market rental for such unit exceeds 30 per centum of the tenant's adjusted income.
 
 #### (e) Criteria and procedure for determining eligibility and rental charges; recertification of income; agreements for services required in selection of tenants; delegation of authority to issue certificates
 
@@ -36,7 +36,7 @@ The amount of the annual payment with respect to any dwelling unit shall be the 
 
 #### (g) Authority of Secretary
 
-The Secretary is authorized to make such rules and regulations, to enter into such agreements, and to adopt such procedures as he may deem necessary or desirable to carry out the provisions of this section. Nothing contained in this section shall affect the authority of the Secretary of Housing and Urban Development with respect to any housing assisted under this section, section 221(d)(3), section 231(c)(3), or section 236 of the National Housing Act \[12 U.S.C. 1715l(d)(3), 1715v(c)(3), 1715z–1\], or section 1701q of this title, including the authority to prescribe occupancy requirements under other provisions of law or to determine the portion of such housing which may be occupied by qualified tenants. To ensure that qualified tenants occupying that number of units with respect to which assistance was being provided under this section immediately prior to November 30, 1983, receive the benefit of assistance contracted for under this section, the Secretary shall offer annually to amend contracts entered into with owners of projects assisted under this section but not subject to mortgages insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] to provide sufficient payments to cover 100 percent of the necessary rent increases and changes in the incomes of qualified tenants, subject to the availability of authority for such purpose under section 1437c(c) of title 42. The Secretary shall take such actions as may be necessary to ensure that payments, including payments that reflect necessary rent increases and changes in the incomes of tenants, are made on a timely basis for all units covered by contracts entered into under this section.
+The Secretary is authorized to make such rules and regulations, to enter into such agreements, and to adopt such procedures as he may deem necessary or desirable to carry out the provisions of this section. Nothing contained in this section shall affect the authority of the Secretary of Housing and Urban Development with respect to any housing assisted under this section, section 221(d)(3), section 231(c)(3), or section 236 of the National Housing Act \[12 U.S.C.1715l(d)(3), 1715v(c)(3), 1715z–1\], or section 1701q of this title, including the authority to prescribe occupancy requirements under other provisions of law or to determine the portion of such housing which may be occupied by qualified tenants. To ensure that qualified tenants occupying that number of units with respect to which assistance was being provided under this section immediately prior to November 30, 1983, receive the benefit of assistance contracted for under this section, the Secretary shall offer annually to amend contracts entered into with owners of projects assisted under this section but not subject to mortgages insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] to provide sufficient payments to cover 100 percent of the necessary rent increases and changes in the incomes of qualified tenants, subject to the availability of authority for such purpose under section 1437c(c) of title 42. The Secretary shall take such actions as may be necessary to ensure that payments, including payments that reflect necessary rent increases and changes in the incomes of tenants, are made on a timely basis for all units covered by contracts entered into under this section.
 
 #### (h) Authorization of appropriations
 
@@ -54,7 +54,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 &emsp;(C) a private nonprofit corporation, a public body or agency, or a cooperative housing corporation, which is a borrower under section 1701q of this title and has been approved for receiving the benefits of this section: <i>Provided</i>, That, with respect to properties financed with loans under such section made on or before August 10, 1965, payments shall not be made with respect to more than 20 per centum of the dwelling units in any property so financed; and
 
-&emsp;(D) a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividendlegal entity, or a cooperative housing corporation, which is assisted under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\] and which has been approved for receiving the benefits of this section: <i>Provided</i>, That payments shall not be made with respect to more than 20 per centum of the dwelling units in any property so financed, except that the foregoing limitation may be increased to 40 per centum of the dwelling units in any such property if the Secretary determines that such increase is necessary and desirable in order to provide additional housing for individuals and families meeting the requirements of subsection (c).
+&emsp;(D) a private nonprofit corporation or other private nonprofit legal entity, a limited dividend corporation or other limited dividend legal entity, or a cooperative housing corporation, which is assisted under section 236 of the National Housing Act \[12 U.S.C. 1715z–1\] and which has been approved for receiving the benefits of this section: <i>Provided</i>, That payments shall not be made with respect to more than 20 per centum of the dwelling units in any property so financed, except that the foregoing limitation may be increased to 40 per centum of the dwelling units in any such property if the Secretary determines that such increase is necessary and desirable in order to provide additional housing for individuals and families meeting the requirements of subsection (c).
 
 (2) Of the amounts approved in appropriation Acts pursuant to subsection (a) for payments under this section in any year, not more than 5 per centum in the aggregate shall be paid with respect to properties of housing owners as defined in paragraph (1)(A) of this subsection, and not more than 5 per centum in the aggregate shall be paid with respect to properties of housing owners as defined in paragraphs (1)(B) and (1)(C) of this subsection.
 
@@ -66,7 +66,7 @@ Notwithstanding the provisions of subsection (a) and any other provision of law,
 
 #### (m) Payments for benefit of certain projects having mortgages made by State or local housing finance or government agencies
 
-The Secretary shall, not later than 45 days after receipt of an application by the mortgagee, provide interest reduction and rental assistance payments for the benefit of projects assisted under this section whose mortgages were made by State or local housing finance agencies or State or local government agencies for a term equal to the remaining mortgage term to maturity on projects assisted under this section to the extent of—
+The Secretary shall, not later than 45 days after receipt of an application by the mortgagee, provide interest reduction and rental assistancepayments for the benefit of projects assisted under this section whose mortgages were made by State or local housing finance agencies or State or local government agencies for a term equal to the remaining mortgage term to maturity on projects assisted under this section to the extent of—
 
 &emsp;(1) unexpended balances of amounts of authority as set forth in certain letter agreements between the Department of Housing and Urban Development and such State or local housing finance agencies or State or local government agencies, and
 
@@ -80,7 +80,7 @@ The Secretary shall, not later than 45 days after receipt of an application by t
 
 #### References in Text
 
-The National Housing Act, referred to in subsecs. (g) and (l), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended which is classified principally to this chapter (§1701 et seq.). Title II of the National Housing Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (g) and (l), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). Title II of the National Housing Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 Section 236 contracts, referred to in subsec. (m)(2), refer to contracts under section 1715z–1 of this title.
 
@@ -166,7 +166,7 @@ Subsec. (g). Pub. L. 90–19, §22(c)(2), consolidated in the Secretary of Housi
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–276, title V, §514(g), Oct. 21, 1998, 112 Stat. 2549, provided that: "This section \[amending this section, sections 1701z–11 and 4116 of this title, and sections 1437d, 1437f, 12899d, and 13615 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1437a and 1437f of Title 42, and repealing provisions set out as notes under sections 1437d and 1437f of Title 42\] shall take effect on, and theamendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
+Pub. L. 105–276, title V, §514(g), Oct. 21, 1998, 112 Stat. 2549, provided that: "This section \[amending this section, sections 1701z–11 and 4116 of this title, and sections 1437d, 1437f, 12899d, and 13615 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 1437a and 1437f of Title 42, and repealing provisions set out as notes under sections 1437d and 1437f of Title 42\] shall take effect on, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
 
 #### Effective and Termination Dates of 1996 Amendment
 

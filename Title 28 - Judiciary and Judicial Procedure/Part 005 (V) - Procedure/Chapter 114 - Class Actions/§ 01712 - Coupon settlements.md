@@ -2,7 +2,7 @@
 
 (a)
 
-Contingent Fees in Coupon Settlements.—If a proposed settlement in a class action provides for a recovery of coupons to a class member, the portion of any attorney's fee award to class counsel that is attributable to the award of the coupons shall be based on the value to class members of the coupons that are redeemed.
+Contingent Fees in Coupon Settlements.—If a proposed settlement in a class action provides for a recovery of coupons to a class member, the portion of any attorney's fee awardto class counsel that is attributable to the award of the coupons shall be based on the value to class members of the coupons that are redeemed.
 
 (b)
 

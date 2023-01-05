@@ -32,7 +32,7 @@ From the funds appropriated under section 7176 of this title for any fiscal year
 
 &emsp;&emsp;(A) the administrative costs of carrying out its responsibilities under this part;
 
-&emsp;&emsp;(B) establishing and implementing a rigorous peer-review process for subgrant applications described in section 7174(b) of thistitle (including consultation with the Governor and other State agencies responsible for administering youth development programs and adult learning activities); and
+&emsp;&emsp;(B) establishing and implementing a rigorous peer-review process for subgrant applications described in section 7174(b) of this title (including consultation with the Governor and other State agencies responsible for administering youth development programs and adult learning activities); and
 
 &emsp;&emsp;(C) awarding of funds to eligible entities (in consultation with the Governor and other State agencies responsible for administering youth development programs and adult learning activities).
 

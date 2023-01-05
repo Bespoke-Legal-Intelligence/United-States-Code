@@ -8,7 +8,7 @@ The Secretary of Energy, in consultation with the Administrator of each Federal 
 
 #### (1) In general
 
-&emsp;In carrying out each assessment under subsection (a), the Secretary of Energy shall consult with the United States Geological Survey, the National Oceanic and Atmospheric Administration, the program, and each appropriate State water resource agency, to ensure that the Secretary of Energy has access to the best available scientific information with respect to presently observed impacts and projected future impacts of global climate change on water supplies that are used to produce hydroelectric power.
+&emsp;In carrying out each assessment under subsection (a), the Secretary of Energy shall consult with the United States Geological Survey, the National Oceanic and Atmospheric Administration, the program, and each appropriate State water resource agency, to ensure that the Secretary of Energy has access to the best available scientific information with respect to presently observed impacts and projected future impacts of global climate change onwater supplies that are used to produce hydroelectric power.
 
 #### (2) Access to data for certain assessments
 

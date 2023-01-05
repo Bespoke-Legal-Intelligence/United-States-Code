@@ -25,6 +25,7 @@ Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275, redesignated pa
 - [&sect; 01395cc&#8211;4 - National pilot program on payment bundling](%C2%A7%2001395cc%E2%80%934%20-%20National%20pilot%20program%20on%20payment%20bundling.md)
 - [&sect; 01395cc&#8211;5 - Independence at home medical practice demonstration program](%C2%A7%2001395cc%E2%80%935%20-%20Independence%20at%20home%20medical%20practice%20demonstration%20program.md)
 - [&sect; 01395cc&#8211;6 - Opioid use disorder treatment demonstration program](%C2%A7%2001395cc%E2%80%936%20-%20Opioid%20use%20disorder%20treatment%20demonstration%20program.md)
+- [&sect; 01395cc&#8211;7 - Extension of Acute Hospital Care at Home initiative](%C2%A7%2001395cc%E2%80%937%20-%20Extension%20of%20Acute%20Hospital%20Care%20at%20Home%20initiative.md)
 - [&sect; 01395dd - Examination and treatment for emergency medical conditions and women in labor](%C2%A7%2001395dd%20-%20Examination%20and%20treatment%20for%20emergency%20medical%20conditions%20and%20women%20in%20labor.md)
 - [&sect; 01395ee - Practicing Physicians Advisory Council; Council for Technology and Innovation](%C2%A7%2001395ee%20-%20Practicing%20Physicians%20Advisory%20Council%3B%20Council%20for%20Technology%20and%20Innovation.md)
 - [&sect; 01395ff - Determinations; appeals](%C2%A7%2001395ff%20-%20Determinations%3B%20appeals.md)

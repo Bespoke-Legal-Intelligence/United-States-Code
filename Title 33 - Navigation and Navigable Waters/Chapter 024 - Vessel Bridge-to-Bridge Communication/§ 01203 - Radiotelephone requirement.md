@@ -42,7 +42,7 @@ Section effective May 1, 1971, or six months after the promulgation of regulatio
 
 #### Vessel Communication Equipment Regulations
 
-Pub. L. 101–380, title IV, §4118, Aug. 18, 1990, 104 Stat. 523, provided that: "The Secretary shall, not later thanone year after the date of the enactment of this Act \[Aug. 18, 1990\], issue regulations necessary to ensure that vessels subject to the Vessel Bridge-to-Bridge Radiotelephone Act of 1971 (33 U.S.C. 1203) are also equipped as necessary to—
+Pub. L. 101–380, title IV, §4118, Aug. 18, 1990, 104 Stat. 523, provided that: "The Secretary shall, not later than one year after the date of the enactment of this Act \[Aug. 18, 1990\], issue regulations necessary to ensure that vessels subject to the Vessel Bridge-to-Bridge Radiotelephone Act of 1971 (33 U.S.C. 1203) are also equipped as necessary to—
 
 &emsp;"(1) receive radio marine navigation safety warnings; and
 

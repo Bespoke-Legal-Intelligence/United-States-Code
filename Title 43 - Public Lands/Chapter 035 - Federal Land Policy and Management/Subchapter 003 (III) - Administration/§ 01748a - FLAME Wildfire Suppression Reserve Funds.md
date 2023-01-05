@@ -24,7 +24,7 @@ In this section:
 
 #### (3) Relevant congressional committees
 
-&emsp;The term "relevant congressional committees" means the Committee on Appropriations, the Committee on Natural Resources, and the Committee on Agriculture of the House of Representatives and the Committee on Appropriations, the Committee on Energy and Natural Resources, and the Committee on Indian Affairs of the Senate.
+&emsp;The term "relevant congressional committees" means the Committee on Appropriations, the Committee on Natural Resources,and the Committee on Agriculture of the House of Representatives and the Committee on Appropriations, the Committee on Energy and Natural Resources, and the Committee on Indian Affairs of the Senate.
 
 #### (4) Secretary concerned
 
@@ -78,7 +78,7 @@ The FLAME Funds shall be available to cover the costs of large or complex wildfi
 
 &emsp;&emsp;It is the sense of Congress that for fiscal year 2011 and each fiscal year thereafter—
 
-&emsp;&emsp;&emsp;(i) amounts appropriated to a FLAME Fund in excess of the amount estimated bythe Secretary concerned as the amount necessary for that fiscal year for wildfire suppression activities of the Secretary that meet the criteria specified in subsection (e)(2)(B)(i) should be designated as amounts necessary to meet emergency needs;
+&emsp;&emsp;&emsp;(i) amounts appropriated to a FLAME Fund in excess of the amount estimated by the Secretary concerned as the amount necessary for that fiscal year for wildfire suppression activities of the Secretary that meet the criteria specified in subsection (e)(2)(B)(i) should be designated as amounts necessary to meet emergency needs;
 
 &emsp;&emsp;&emsp;(ii) the Secretary concerned should promptly make a supplemental request for additional funds to replenish the FLAME Fund if the Secretary determines that the FLAME Fund will be exhausted within 30 days; and
 

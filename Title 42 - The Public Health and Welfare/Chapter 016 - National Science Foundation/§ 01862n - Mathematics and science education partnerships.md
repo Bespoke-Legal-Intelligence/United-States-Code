@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) may include professional development activities to prepare mathematics and science teachers to teach challenging mathematics, science, and technology college-preparatory courses;
 
-&emsp;&emsp;(C) offering innovative preservice and inservice programs that instruct teachers on using technology and laboratory experiences more effectively in teaching mathematics and science, including programs that recruit and train undergraduate and graduate students to provide technical and laboratory support to teachers;
+&emsp;&emsp;(C) offering innovative preservice and inservice programs that instruct teachers on using technology and laboratory experiences more effectively in teaching mathematics and science, including programs that recruitand train undergraduate and graduate students to provide technical and laboratory support to teachers;
 
 &emsp;&emsp;(D) developing distance learning programs for teachers or students, including developing courses, curricular materials, and other resources for the in-service professional development of teachers that are made available to teachers through the Internet;
 
@@ -46,13 +46,15 @@
 
 &emsp;&emsp;(J) using mathematicians, scientists, and engineers employed by private businesses to help recruit and train mathematics and science teachers;
 
-&emsp;&emsp;(K) developing science, technology, engineering, and mathematics educational programs and materials and conducting science, technology, engineering, and mathematics enrichment programs for students, including after-school programs and summer programs, with an emphasis on including andserving students described in subsection (b)(2)(G);
+&emsp;&emsp;(K) developing science, technology, engineering, and mathematics educational programs and materials and conducting science, technology, engineering, and mathematics enrichment programs for students, including after-school programs and summer programs, with an emphasis on including and serving students described in subsection (b)(2)(G);
 
 &emsp;&emsp;(L) providing research opportunities in business or academia for students and teachers;
 
-&emsp;&emsp;(M) bringing mathematicians, scientists, and engineers from business and academia into elementary school and secondary school classrooms; and
+&emsp;&emsp;(M) bringing mathematicians, scientists, and engineers from business and academia into elementary school and secondary school classrooms;
 
-&emsp;&emsp;(N) any other activities the Director determines will accomplish the goals of this subsection.
+&emsp;&emsp;(N) developing science, technology, engineering, and mathematics educational curriculum that incorporates art and design to promote creativity and innovation; and
+
+&emsp;&emsp;(O) any other activities the Director determines will accomplish the goals of this subsection.
 
 #### (4) Master teachers
 
@@ -94,7 +96,7 @@
 
 #### (8) Mentors for teachers and students of challenging courses
 
-&emsp;Partnerships carrying out activities to prepare mathematics and science teachers to teach challenging mathematics, science, and technology college-preparatory courses in accordance with paragraph (3)(B) shall encourage companies employing scientists, technologists, engineers, or mathematicians to provide mentors to teachers and students and provide for the coordination of such mentoring activities.
+&emsp;Partnerships carrying out activities to prepare mathematics and science teachers toteach challenging mathematics, science, and technology college-preparatory courses in accordance with paragraph (3)(B) shall encourage companies employing scientists, technologists, engineers, or mathematicians to provide mentors to teachers and students and provide for the coordination of such mentoring activities.
 
 #### (9) Innovation
 
@@ -122,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(v) be content-based and build on school year curricula that are experiment-oriented, content-based, and grounded in current research;
 
-&emsp;&emsp;&emsp;(vi) ensure that the pedagogy component is designed around specific strategies that are relevant to teaching the subject and content on which teachers are beingtrained, which may include training teachers in the essential components of reading instruction for adolescents in order to improve student reading skills within the subject areas of science, technology, engineering, and mathematics;
+&emsp;&emsp;&emsp;(vi) ensure that the pedagogy component is designed around specific strategies that are relevant to teaching the subject and content on which teachers are being trained, which may include training teachers in the essential components of reading instruction for adolescents in order to improve student reading skills within the subject areas of science, technology, engineering, and mathematics;
 
 &emsp;&emsp;&emsp;(vii) be a multiyear program that is conducted for a period of not less than 2 weeks per year;
 
@@ -228,7 +230,7 @@ In this section—
 
 &emsp;(2) the term "science", in the context of elementary and secondary education, includes technology and pre-engineering.
 
-(Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697; Pub. L. 114–95, title IX, §9215(ggg)(2), Dec. 10, 2015, 129 Stat. 2186; Pub. L. 114–329, title II, §204(a)(3)(C), Jan. 6, 2017, 130 Stat. 2999.)
+(Pub. L. 107–368, §9, Dec. 19, 2002, 116 Stat. 3044; Pub. L. 110–69, title VII, §§7028, 7029, Aug. 9, 2007, 121 Stat. 696, 697; Pub. L. 114–95, title IX, §9215(ggg)(2), Dec. 10, 2015, 129 Stat. 2186; Pub. L. 114–329, title II, §204(a)(3)(C), Jan. 6, 2017, 130 Stat. 2999; Pub. L. 117–167, div. B, title III, §10319(a), Aug. 9, 2022, 136 Stat. 1536.)
 
 #### <b>Editorial Notes</b>
 
@@ -247,6 +249,8 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(3
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(3)(N), (O). Pub. L. 117–167 added subpar. (N) and redesignated former subpar. (N) as (O).
 
 <b>2017</b>—Subsec. (c)(4), (5). Pub. L. 114–329 redesignated par. (5) as (4) and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "The Director, in consultation with the Secretary of Education, shall provide an annual report to the Committee on Science of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate describing how the program authorized under this section has been and will be coordinated with other programs with similar purposes. The report under this paragraph shall be submitted along with the President's annual budget request."
 
@@ -312,7 +316,7 @@ Pub. L. 107–368, §22, Dec. 19, 2002, 116 Stat. 3065, provided for a National 
 
 #### Definitions
 
-Pub. L. 107–368, §4, Dec. 19, 2002, 116 Stat. 3035, as amended by Pub. L. 114–95, title IX, §9215(ggg)(1), Dec. 10, 2015, 129 Stat. 2186, provided that: "In this Act \[see Short Title of 2002 Amendment note set out under section 1861 of this title\]:
+Pub. L. 107–368, §4, Dec. 19, 2002, 116 Stat. 3035, as amended by Pub. L. 114–95, title IX, §9215(ggg)(1), Dec.10, 2015, 129 Stat. 2186, provided that: "In this Act \[see Short Title of 2002 Amendment note set out under section 1861 of this title\]:
 
 &emsp;"(1)
 
@@ -352,7 +356,7 @@ High-need local educational agency.—The term 'high-need local educational agen
 
 &emsp;&emsp;&emsp;"(i) more than 34 percent of the academic classroom teachers at the secondary level (across all academic subjects) do not have an undergraduate degree with a major or minor in, or a graduate degree in, the academic field in which they teach the largest percentage of their classes; or
 
-&emsp;&emsp;&emsp;"(ii) more than 34 percent of the teachers in two of the academic departments do not have an undergraduate degree with a major or minor in, ora graduate degree in, the academic field in which they teach the largest percentage of their classes.
+&emsp;&emsp;&emsp;"(ii) more than 34 percent of the teachers in two of the academic departments do not have an undergraduate degree with a major or minor in, or a graduate degree in, the academic field in which they teach the largest percentage of their classes.
 
 &emsp;&emsp;"(C) It has at least one school whose teacher attrition rate has been 15 percent or more over the last three school years.
 

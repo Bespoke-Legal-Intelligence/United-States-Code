@@ -26,7 +26,7 @@
 
 #### (2) Reservation
 
-&emsp;The Secretary is authorized in each fiscal year to reserve not more than 10 percent of theamount appropriated pursuant to the authority of paragraph (1) to carry out national activities described in section 5966 of this title, of which 50 percent of such amount shall be available in such fiscal year to carry out the program described in section 5966(b) of this title.
+&emsp;The Secretary is authorized in each fiscal year to reserve not more than 10 percent of the amount appropriated pursuant to the authority of paragraph (1) to carry out national activities described in section 5966 of this title, of which 50 percent of such amount shall be available in such fiscal year to carry out the program described in section 5966(b) of this title.
 
 (Pub. L. 103–227, title VII, §702, Mar. 31, 1994, 108 Stat. 204.)
 

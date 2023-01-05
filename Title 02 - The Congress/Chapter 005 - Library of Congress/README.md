@@ -119,6 +119,7 @@
 | [183a.](%C2%A7%2000183a%20-%20Oral%20history%20of%20the%20House%20of%20Representatives.md) | Oral history of the House of Representatives. |
 | [184\.](%C2%A7%2000184%20-%20Incorporation%20of%20digital%20collections%20into%20educational%20curricula.md) | Incorporation of digital collections into educational curricula. |
 | [185\.](%C2%A7%2000185%20-%20Inspector%20General%20of%20the%20Library%20of%20Congress.md) | Inspector General of the Library of Congress. |
+| [186\.](%C2%A7%2000186%20-%20Library%20of%20Congress%20orders%20under%20task%20and%20delivery%20order%20contracts.md) | Library of Congress orders under task and delivery order contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -246,3 +247,4 @@
 - [&sect; 00183a - Oral history of the House of Representatives](%C2%A7%2000183a%20-%20Oral%20history%20of%20the%20House%20of%20Representatives.md)
 - [&sect; 00184 - Incorporation of digital collections into educational curricula](%C2%A7%2000184%20-%20Incorporation%20of%20digital%20collections%20into%20educational%20curricula.md)
 - [&sect; 00185 - Inspector General of the Library of Congress](%C2%A7%2000185%20-%20Inspector%20General%20of%20the%20Library%20of%20Congress.md)
+- [&sect; 00186 - Library of Congress orders under task and delivery order contracts](%C2%A7%2000186%20-%20Library%20of%20Congress%20orders%20under%20task%20and%20delivery%20order%20contracts.md)

@@ -6,7 +6,7 @@ Upon request of the non-Federal interest in the form of a written notice of inte
 
 #### (b) Coordination
 
-The Secretary shall seek, to the extent practicable, to consolidate hearing and comment periods, procedures for data collection and report preparation, and the environmental review and permitting processes associated with the project and related activities. The Secretary shall notify, to the extent possible, the non-Federal interest of its responsibilities for data development and information that may be necessary toprocess each permit required for the project, including a schedule when the information and data should be provided to the appropriate Federal, State, or local agency or Indian tribe.
+The Secretary shall seek, to the extent practicable, to consolidate hearing and comment periods, procedures for data collection and report preparation, and the environmental review and permitting processes associated with the project and related activities. The Secretary shall notify, to the extent possible, the non-Federal interest of its responsibilities for data development and information that may be necessary to process each permit required for the project, including a schedule when the information and data should be provided to the appropriate Federal, State, or local agency or Indian tribe.
 
 #### (c) Costs of coordination
 
@@ -40,7 +40,7 @@ In General.—During the 10-year period after the date of enactment of this sect
 
 "(b)
 
-Covered Permit Defined.—In this section, the term 'covered permit' means a permit to be issued by the Secretary to modify a reservoir, with respect to which not less than 80 percent of the water rights are held for drinking water supplies, in order to accommodate projected water supply needs of an area with a population of less than 80,000.
+Covered Permit Defined.—In this section, the term 'covered permit' means a permit to be issued by the Secretary to modify a reservoir, with respect to which not less than 80 percent of the water rights areheld for drinking water supplies, in order to accommodate projected water supply needs of an area with a population of less than 80,000.
 
 "(c)
 

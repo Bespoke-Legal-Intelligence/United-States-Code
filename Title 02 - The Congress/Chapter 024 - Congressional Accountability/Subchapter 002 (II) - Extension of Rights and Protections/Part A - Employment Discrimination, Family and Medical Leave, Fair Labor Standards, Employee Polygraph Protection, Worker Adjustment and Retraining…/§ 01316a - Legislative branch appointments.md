@@ -16,7 +16,7 @@ The rights and protections established under section 2108, sections 3309 through
 
 #### (B) Procedure
 
-&emsp;The procedure for consideration of alleged violations of paragraph (2) shall be the same as apply under section 401 of the Congressional Accountability Act of 1995 \[2 U.S.C. 1401\] (and the provisions of law referred to therein) in the case of an alleged violation of part A of title II of such Act \[2 U.S.C. 1311 et seq.\].
+&emsp;The procedure for consideration of alleged violations of paragraph (2) shall be the sameas apply under section 401 of the Congressional Accountability Act of 1995 \[2 U.S.C. 1401\] (and the provisions of law referred to therein) in the case of an alleged violation of part A of title II of such Act \[2 U.S.C. 1311 et seq.\].
 
 #### (4) Regulations to implement section
 

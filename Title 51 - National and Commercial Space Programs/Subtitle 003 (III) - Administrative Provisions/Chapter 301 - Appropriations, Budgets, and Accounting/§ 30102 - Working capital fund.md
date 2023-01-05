@@ -28,6 +28,10 @@ Capital repairs.—The fund shall also be available for the purpose of funding c
 
 &emsp;(3)
 
+Information technology (it) modernization.—The fund shall also be available for the purpose of funding IT Modernization activities, as described in section 1077(b)(3)(A)–(E) of Public Law 115–91, on a non-reimbursable basis.
+
+&emsp;(4)
+
 No fiscal year limitation.—Amounts in the fund are available without regard to fiscal year limitation.
 
 (c)
@@ -46,7 +50,7 @@ Contents.—The capital of the fund consists of—
 
 Reimbursement.—The fund shall be reimbursed, in advance, for supplies and services at rates that will approximate the expenses of operation, such as the accrual of annual leave, depreciation of plant, property, and equipment, and overhead.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3357; Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 264.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3357; Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 264; Pub. L. 117–328, div. B, title III, Dec. 29, 2022, 136 Stat. 4549.)
 
 Historical and Revision Notes
 
@@ -66,7 +70,13 @@ Pub. L. 108–7, div. K, title III, (last par. under heading "Administrative Pro
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 1077(b)(3)(A)–(E) of Public Law 115–91, referred to in subsec. (b)(3), is section 1077(b)(3)(A)–(E) of Pub. L. 115–91, div. A, title X, subtitle G, Dec. 12, 2017, 131 Stat. 1587, which is set out in a note under section 11301 of Title 40, Public Buildings, Property, and Works.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3), (4). Pub. L. 117–328 added par. (3) and redesignated former par. (3) as (4).
 
 <b>2013</b>—Subsec. (c)(4). Pub. L. 113–6 added par. (4).
 

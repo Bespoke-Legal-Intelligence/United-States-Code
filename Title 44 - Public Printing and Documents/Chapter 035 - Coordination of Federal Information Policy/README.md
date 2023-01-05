@@ -24,7 +24,7 @@
 | [3518\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003518%20-%20Effect%20on%20existing%20laws%20and%20regulations.md) | Effect on existing laws and regulations. |
 | [3519\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003519%20-%20Access%20to%20information.md) | Access to information. |
 | [3520\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003520%20-%20Chief%20Data%20Officers.md) | Chief Data Officers. |
-|  | Chief Data Officer Council. |
+| [3520A.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003520A%20-%20Chief%20Data%20Officer%20Council.md) | Chief Data Officer Council. |
 | [3521\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003521%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -2,7 +2,7 @@
 
 The warrant officer grades in the Navy and the Marine Corps are:
 
-&emsp;(1) Chief warrant officer, W–5.
+&emsp;(1) Chief warrant officer, W–⁠5.
 
 &emsp;(2) Chief warrant officer, W–4.
 

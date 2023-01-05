@@ -176,7 +176,7 @@ Consistent with the terms and conditions of grants awarded under this section, S
 
 &emsp;&emsp;Of the funds set aside under paragraph (1), as determined by the Secretary—
 
-&emsp;&emsp;&emsp;(i) for each of fiscal years 2011 through 2013, 100 percent shall be allocated to Stateagencies in direct proportion to the amount of funding that the State received for carrying out section 2020(f) of this title (as that section existed on the day before the December 13, 2010) during fiscal year 2009, as reported to the Secretary as of February 2010; and
+&emsp;&emsp;&emsp;(i) for each of fiscal years 2011 through 2013, 100 percent shall be allocated to State agencies in direct proportion to the amount of funding that the State received for carrying out section 2020(f) of this title (as that section existed on the day before the December 13, 2010) during fiscal year 2009, as reported to the Secretary as of February 2010; and
 
 &emsp;&emsp;&emsp;(ii) subject to a reallocation under subparagraph (B)—
 
@@ -214,7 +214,7 @@ Consistent with the terms and conditions of grants awarded under this section, S
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the Secretary determines that a State agency will not expend all of the funds allocated to the State agency for a fiscal year under paragraph (1) or in the case of a State agency that elects not to receive the entire amount of funds allocated to the State agency for a fiscal year, the Secretary shall reallocate the unexpended funds to other States during the fiscal year or the subsequent fiscal year (as determined by the Secretary) that have approved State plans under which the State agencies may expend the reallocated funds.
+&emsp;&emsp;&emsp;If the Secretary determines that a State agency will not expend all of the funds allocated to the State agency for a fiscal year under paragraph (1) or in the case of a State agency that elects not to receivethe entire amount of funds allocated to the State agency for a fiscal year, the Secretary shall reallocate the unexpended funds to other States during the fiscal year or the subsequent fiscal year (as determined by the Secretary) that have approved State plans under which the State agencies may expend the reallocated funds.
 
 #### (ii) Effect of additional funds
 
@@ -260,7 +260,7 @@ Subsec. (c)(6) to (9). Pub. L. 115–334, §4019(4), added pars. (6) to (9).
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–79 inserted "and physical activity" after "healthy food choices".
 
-Subsec. (d)(1)(B) to (F). Pub. L. 112–240 added subpars. (B) to (F) and struck out former subpar. (B) which read as follows: "for fiscal year 2012 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in theConsumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor."
+Subsec. (d)(1)(B) to (F). Pub. L. 112–240 added subpars. (B) to (F) and struck out former subpar. (B) which read as follows: "for fiscal year 2012 and each subsequent fiscal year, the applicable amount during the preceding fiscal year, as adjusted to reflect any increases for the 12-month period ending the preceding June 30 in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

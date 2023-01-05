@@ -44,7 +44,7 @@ Every 4 years, the Secretary shall, on a competitive basis, make grants to, or e
 
 &emsp;&emsp;(A) are consistent with this section; and
 
-&emsp;&emsp;(B) are necessary to meet the needs of Indians, Alaska Natives, or Native Hawaiians preparing to enter, reenter, or retain unsubsidized employment leading to self-sufficiency.
+&emsp;&emsp;(B) are necessary to meet the needs of Indians, Alaska Natives, or Native Hawaiianspreparing to enter, reenter, or retain unsubsidized employment leading to self-sufficiency.
 
 #### (2) Workforce development activities and supplemental services
 
@@ -170,7 +170,7 @@ Nothing in this section shall be construed—
 
 #### (G) Application
 
-&emsp;&emsp;Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
+&emsp;&emsp;Section 1013 of title 5 shall not apply to the Council.
 
 #### (5) Technical assistance
 
@@ -206,7 +206,7 @@ Grants made and contracts and cooperative agreements entered into under this sec
 
 &emsp;&emsp;(F) $542,000 for fiscal year 2020.
 
-(Pub. L. 113–128, title I, §166, July 22, 2014, 128 Stat. 1560; Pub. L. 114–95, title IX, §9215(yyy)(4), Dec. 10, 2015, 129 Stat. 2192.)
+(Pub. L. 113–128, title I, §166, July 22, 2014, 128 Stat. 1560; Pub. L. 114–95, title IX, §9215(yyy)(4), Dec. 10, 2015, 129 Stat. 2192; Pub. L. 117–286, §4(a)(192), Dec. 27, 2022, 136 Stat. 4327.)
 
 #### <b>Editorial Notes</b>
 
@@ -220,9 +220,9 @@ The Indian Employment, Training and Related Services Demonstration Act of 1992, 
 
 This Act, referred to in subsec. (g)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i)(4)(G), is section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (i)(4)(G). Pub. L. 117–286 substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)".
 
 <b>2015</b>—Subsec. (b)(3). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7517 of title 20.
 

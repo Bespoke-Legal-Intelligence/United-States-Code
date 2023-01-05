@@ -12,7 +12,7 @@ The Secretary shall award grants to States, political subdivisions of States, In
 
 &emsp;(4) by providing training to members of the public in cardiopulmonary resuscitation and automated external defibrillation;
 
-&emsp;(5) by integrating the emergency medical services system with the public access defibrillation programs so that emergency medical services personnel, including dispatchers, are informed about the location ofautomated external defibrillators in their community; and
+&emsp;(5) by integrating the emergency medical services system with the public access defibrillation programs so that emergency medical services personnel, including dispatchers, are informed about the location of automated external defibrillators in their community; and
 
 &emsp;(6) by encouraging private companies, including small businesses, to purchase automated external defibrillators and provide training for their employees to administer cardiopulmonary resuscitation and external automated defibrillation to cardiac arrest victims in their community.
 

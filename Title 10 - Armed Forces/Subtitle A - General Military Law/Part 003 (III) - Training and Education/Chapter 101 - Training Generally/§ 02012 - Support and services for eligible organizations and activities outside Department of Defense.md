@@ -82,7 +82,7 @@ Advisory Councils.—(1) The Secretary of Defense shall encourage the establishm
 
 (2) The advisory councils should include officials from relevant military organizations, representatives of appropriate local, State, and Federal agencies, representatives of civic and social service organizations, business representatives, and labor representatives.
 
-(3) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to such councils.
+(3) Chapter 10 of title 5 shall not apply to such councils.
 
 (i)
 
@@ -106,7 +106,7 @@ Oversight and Cost Accounting.—The Secretary of Defense shall establish a prog
 
 &emsp;(5) Provide for oversight of project execution to ensure that a training project under this section is carried out in accordance with the proposal for that project as approved.
 
-(Added Pub. L. 104–106, div. A, title V, §572(a)(1), Feb. 10, 1996, 110 Stat. 353; amended Pub. L. 105–85, div. A, title V, §594, Nov. 18, 1997, 111 Stat. 1764; Pub. L. 105–261, div. A, title V, §525(a), Oct. 17, 1998, 112 Stat. 2014; Pub. L. 117–81, div. A, title XV, §1512, Dec. 27, 2021, 135 Stat. 2039.)
+(Added Pub. L. 104–106, div. A, title V, §572(a)(1), Feb. 10, 1996, 110 Stat. 353; amended Pub. L. 105–85, div. A, title V, §594, Nov. 18, 1997, 111 Stat. 1764; Pub. L. 105–261, div. A, title V, §525(a), Oct. 17, 1998, 112 Stat. 2014; Pub. L. 117–81, div. A, title XV, §1512, Dec. 27, 2021, 135 Stat. 2039; Pub. L. 117–286, §4(a)(51), Dec. 27, 2022, 136 Stat. 4311.)
 
 #### <b>Editorial Notes</b>
 
@@ -114,9 +114,9 @@ Oversight and Cost Accounting.—The Secretary of Defense shall establish a prog
 
 The Homeland Security Act of 2002, referred to in subsec. (f)(5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified principally to subchapter XVIII (§651 et seq.) of chapter 1 of Title 6. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (h)(3). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)".
 
 <b>2021</b>—Subsec. (e)(3), (4). Pub. L. 117–81, §1512(1), added par. (3) and redesignated former par. (3) as (4).
 

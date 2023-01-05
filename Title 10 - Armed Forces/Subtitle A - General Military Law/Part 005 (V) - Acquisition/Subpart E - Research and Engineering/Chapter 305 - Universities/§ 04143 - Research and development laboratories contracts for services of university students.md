@@ -6,7 +6,7 @@
 
 (c) The Secretary of Defense shall prescribe regulations to carry out this section. Such regulations shall include definitions for the purposes of this section of the terms "student", "institution of higher learning", and "nonprofit organization".
 
-(Added Pub. L. 97–86, title VI, §603(a), Dec. 1, 1981, 95 Stat. 1110, §2360; renumbered §4143, Pub. L. 116–283, div. A, title XVIII, §1844(b), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154; Pub. L. 116–283, div.A, title XVIII, §1843(b)(2), Jan. 1, 2021, 134 Stat. 4245; Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), Dec. 27, 2021, 135 Stat. 2153.)
+(Added Pub. L. 97–86, title VI, §603(a), Dec. 1, 1981, 95 Stat. 1110, §2360; renumbered §4143, Pub. L. 116–283, div. A, title XVIII, §1844(b), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154; Pub. L. 116–283, div. A, title XVIII, §1843(b)(2), Jan. 1, 2021, 134 Stat. 4245; Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), Dec. 27, 2021, 135 Stat. 2153.)
 
 #### <b>Editorial Notes</b>
 

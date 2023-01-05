@@ -34,7 +34,7 @@
 
 #### legislative statements
 
-Section 1104 of the House amendment represents a compromise between the House bill and the Senateamendment concerning the appointment of a trustee or examiner. The method of appointment rather than election, is derived from the House bill; the two alternative standards of appointment are derived with modifications from the Senate amendment, instead of the standard stated in the House bill. For example, if the current management of the debtor gambled away rental income before the filing of the petition, a trustee should be appointed after the petition, whether or not postpetition mismanagement can be shown. However, under no circumstances will cause include the number of security holders of the debtor or the amount of assets or liabilities of the debtor. The standard also applies to the appointment of an examiner in those circumstances in which mandatory appointment, as previously detailed, is not required.
+Section 1104 of the House amendment represents a compromise between the House bill and the Senate amendment concerning the appointment of a trustee or examiner. The method of appointment rather than election, is derived from the House bill; the two alternative standards of appointment are derived with modifications from the Senate amendment, instead of the standard stated in the House bill. For example, if the current management of the debtor gambled away rental income before the filing of the petition, a trustee should be appointed after the petition, whether or not postpetition mismanagement can be shown. However, under no circumstances will cause include the number of security holders of the debtor or the amount of assets or liabilities of the debtor. The standard also applies to the appointment of an examiner in those circumstances in which mandatory appointment, as previously detailed, is not required.
 
 #### senate report no. 95–989
 
@@ -54,7 +54,7 @@ The protection afforded by a trustee would be needed, for example, in cases wher
 
 The second test, relating to the costs and expenses of a trustee, is not intended to be a strict cost/benefit analysis. It is included to require the court to have due regard for any additional costs or expenses that the appointment of a trustee would impose on the estate.
 
-Subsection (b) permits the court, at any time after the commencement of the case and on request of a party in interest, to order the appointment of an examiner, if the court has not ordered the appointment of a trustee. The examiner would be appointed to conduct such an investigation of the debtor as is appropriate under the particular circumstances of the case, including an investigation of any allegations of fraud, dishonesty, or gross mismanagement of the debtor of or by current or former management of the debtor. The standards for the appointment of an examiner are the same as those for the appointment of a trustee: the protection must be needed, and the costs and expenses must not be disproportionately high.
+Subsection (b) permits the court, at any time after the commencement of the case and on request of a party in interest, to order the appointment of an examiner, if the court has not ordered the appointment of atrustee. The examiner would be appointed to conduct such an investigation of the debtor as is appropriate under the particular circumstances of the case, including an investigation of any allegations of fraud, dishonesty, or gross mismanagement of the debtor of or by current or former management of the debtor. The standards for the appointment of an examiner are the same as those for the appointment of a trustee: the protection must be needed, and the costs and expenses must not be disproportionately high.
 
 By virtue of proposed 11 U.S.C. 1109, an indenture trustee and the Securities and Exchange Commission will be parties in interest for the purpose of requesting the appointment of a trustee or examiner.
 
@@ -90,7 +90,7 @@ Subsec. (c). Pub. L. 99–554, §222(3), substituted "the United States trustee,
 
 Amendment by section 1405 of Pub. L. 109–8 effective Apr. 20, 2005, and applicable only with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1406 of Pub. L. 109–8, set out as a note under section 507 of this title.
 
-Amendment by sections 416 and 442(b) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicablewith respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by sections 416 and 442(b) of Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

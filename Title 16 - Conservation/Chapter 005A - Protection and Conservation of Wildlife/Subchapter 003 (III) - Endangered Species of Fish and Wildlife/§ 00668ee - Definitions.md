@@ -30,7 +30,7 @@ For purposes of this Act:
 
 &emsp;(12) The term "Secretary" means the Secretary of the Interior.
 
-&emsp;(13) The terms "State" and "United States" mean the several States of the United States,Puerto Rico, American Samoa, the Virgin Islands, Guam, and the territories and possessions of the United States.
+&emsp;(13) The terms "State" and "United States" mean the several States of the United States, Puerto Rico, American Samoa, the Virgin Islands, Guam, and the territories and possessions of the United States.
 
 &emsp;(14) The term "System" means the National Wildlife Refuge System designated under section 668dd(a)(1) of this title.
 
@@ -44,7 +44,7 @@ For purposes of this Act:
 
 This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715l, 715m of this title. For complete classification of this Act to the Code, see Tables.
 
-The Bankhead-Jones Farm Tenant Act, referred to in par. (5)(B), is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of the Act is classified generally to subchapter III (§1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1000 of Title 7 and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in par. (5)(B), is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of the Act is classified generally to subchapter III (§1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1000 of Title 7 and Tables.
 
 #### Amendments
 

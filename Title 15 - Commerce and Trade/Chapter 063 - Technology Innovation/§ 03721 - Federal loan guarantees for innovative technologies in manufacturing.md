@@ -140,13 +140,9 @@ The Secretary shall issue final regulations before making any loan guarantees un
 
 &emsp;The Secretary shall enter into an arrangement with an independent auditor for annual evaluations of the program under this section.
 
-#### (2) Comptroller general review
+#### (2) Report
 
-&emsp;The Comptroller General of the United States shall conduct a biennial review of the Secretary's execution of the program under this section.
-
-#### (3) Report
-
-&emsp;The results of the independent audit under paragraph (1) and the Comptroller General's review under paragraph (2) shall be provided directly to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+&emsp;The results of the independent audit under paragraph (1) shall be provided directly to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 #### (n) Report to Congress
 
@@ -186,11 +182,11 @@ In this section:
 
 #### (3) Innovative technology
 
-&emsp;The term "innovative technology" means a technology that is significantly improved as compared to the technology in general use in the commercial marketplace in the UnitedStates at the time the loan guarantee is issued.
+&emsp;The term "innovative technology" means a technology that is significantly improved as compared to the technology in general use in the commercial marketplace in the United States at the time the loan guarantee is issued.
 
 #### (4) Loan guarantee
 
-&emsp;The term "loan guarantee" has the meaning given such term in section 661a of title 2. The term includes a loan guarantee commitment (as defined in section 661a of title 2).
+&emsp;The term "loan guarantee" has the meaning given such term in section 661a of title 2. Theterm includes a loan guarantee commitment (as defined in section 661a of title 2).
 
 #### (5) Obligation
 
@@ -204,7 +200,13 @@ In this section:
 
 There are authorized to be appropriated $20,000,000 for each of fiscal years 2011 through 2013 to provide the cost of loan guarantees under this section.
 
-(Pub. L. 96–480, §26, as added Pub. L. 111–358, title VI, §602, Jan. 4, 2011, 124 Stat. 4026.)
+(Pub. L. 96–480, §26, as added Pub. L. 111–358, title VI, §602, Jan. 4, 2011, 124 Stat. 4026; amended Pub. L. 117–167, div. B, title II, §10246(b)(2), Aug. 9, 2022, 136 Stat. 1492.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (m)(2), (3). Pub. L. 117–167 redesignated par. (3) as (2), struck out "and the Comptroller General's review under paragraph (2)" before "shall be provided", and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The Comptroller General of the United States shall conduct a biennial review of the Secretary's execution of the program under this section."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -40,7 +40,7 @@ In this part:
 
 #### (4) Youth engagement zone program
 
-&emsp;The term "youth engagement zone program" means a service-learning program in whichmembers of an eligible partnership collaborate to provide coordinated school-based or community-based service-learning opportunities—
+&emsp;The term "youth engagement zone program" means a service-learning program in which members of an eligible partnership collaborate to provide coordinated school-based or community-based service-learning opportunities—
 
 &emsp;&emsp;(A) in order to address a specific community challenge;
 
@@ -108,7 +108,7 @@ Funds under this part may be used to—
 
 &emsp;&emsp;(B) engage as participants high percentages or numbers of economically disadvantaged students;
 
-&emsp;&emsp;(C) allow participants to receive academic credit, for the time spent in the classroom and in the field for the program, that isequivalent to the academic credit for any class of equivalent length and with an equivalent time commitment; and
+&emsp;&emsp;(C) allow participants to receive academic credit, for the time spent in the classroom and in the field for the program, that is equivalent to the academic credit for any class of equivalent length and with an equivalent time commitment; and
 
 &emsp;&emsp;(D) ensure that the classroom-based instruction component of the program is integrated into the academic program of the local educational agency involved; and
 
@@ -126,7 +126,7 @@ In making grants under this part, the Corporation shall give priority to applica
 
 &emsp;(2) implement service-learning programs in low-income or rural communities; and
 
-&emsp;(3) utilize adult volunteers, including tapping the resources of retired and retiring adults, in the planning and implementation of service-learning programs.
+&emsp;(3) utilize adult volunteers, including tapping the resources of retired and retiringadults, in the planning and implementation of service-learning programs.
 
 #### (f) Requirements
 

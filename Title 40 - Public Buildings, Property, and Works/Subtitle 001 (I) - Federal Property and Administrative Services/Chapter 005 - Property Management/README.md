@@ -42,6 +42,7 @@
 | [547\.](Subchapter%20003%20%28III%29%20-%20Disposing%20of%20Property/%C2%A7%2000547%20-%20Agricultural%20commodities%2C%20foods%2C%20and%20cotton%20or%20woolen%20goods.md) | Agricultural commodities, foods, and cotton or woolen goods. |
 | [548\.](Subchapter%20003%20%28III%29%20-%20Disposing%20of%20Property/%C2%A7%2000548%20-%20Surplus%20vessels.md) | Surplus vessels. |
 | [549\.](Subchapter%20003%20%28III%29%20-%20Disposing%20of%20Property/%C2%A7%2000549%20-%20Donation%20of%20personal%20property%20through%20state%20agencies.md) | Donation of personal property through state agencies. |
+| [549a.](Subchapter%20003%20%28III%29%20-%20Disposing%20of%20Property/%C2%A7%2000549a%20-%20Donation%20of%20personal%20property%20through%20nonprofit%20refurbishers.md) | Donation of personal property through nonprofit refurbishers. |
 | [550\.](Subchapter%20003%20%28III%29%20-%20Disposing%20of%20Property/%C2%A7%2000550%20-%20Disposal%20of%20real%20property%20for%20certain%20purposes.md) | Disposal of real property for certain purposes. |
 | [551\.](Subchapter%20003%20%28III%29%20-%20Disposing%20of%20Property/%C2%A7%2000551%20-%20Donations%20to%20American%20Red%20Cross.md) | Donations to American Red Cross. |
 | [552\.](Subchapter%20003%20%28III%29%20-%20Disposing%20of%20Property/%C2%A7%2000552%20-%20Abandoned%20or%20unclaimed%20property%20on%20Government%20premises.md) | Abandoned or unclaimed property on Government premises. |
@@ -118,6 +119,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. Z, §103(b), Dec. 29, 2022, 136 Stat. 5527, added item 549a.
 
 <b>2016</b>—Pub. L. 114–318, §3(b)(1), Dec. 16, 2016, 130 Stat. 1613, added item for subchapter VII and items 621 to 624.
 

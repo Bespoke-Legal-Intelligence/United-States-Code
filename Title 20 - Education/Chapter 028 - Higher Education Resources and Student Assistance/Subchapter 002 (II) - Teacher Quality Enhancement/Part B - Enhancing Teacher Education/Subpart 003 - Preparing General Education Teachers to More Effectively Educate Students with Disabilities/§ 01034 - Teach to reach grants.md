@@ -12,7 +12,7 @@
 
 #### (3) Non-Federal share
 
-&emsp;An eligible partnership that receives a grant under this section shall provide not less than25 percent of the cost of the activities carried out with such grant from non-Federal sources, which may be provided in cash or in kind.
+&emsp;An eligible partnership that receives a grant under this section shall provide not less than 25 percent of the cost of the activities carried out with such grant from non-Federal sources, which may be provided in cash or in kind.
 
 #### (b) Definition of eligible partnership
 

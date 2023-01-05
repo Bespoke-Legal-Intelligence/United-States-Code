@@ -56,7 +56,7 @@ To be eligible to receive a grant under this section, a tribally controlled post
 
 #### (2) Prohibition on alteration of grant amount
 
-&emsp;The amount of any grant for which tribally controlled postsecondary career and technicalinstitutions are eligible under this section shall not be altered because of funds allocated to any such institution from funds appropriated under section 13 of title 25.
+&emsp;The amount of any grant for which tribally controlled postsecondary career and technical institutions are eligible under this section shall not be altered because of funds allocated to any such institution from funds appropriated under section 13 of title 25.
 
 #### (3) Prohibition on contract denial
 
@@ -142,7 +142,7 @@ There are authorized to be appropriated to carry out this section—
 
 #### References in Text
 
-The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsecs. (a)(1) and (d), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325. Title Iof the Act is classified generally to subchapter I (§1802 et seq.) of chapter 20 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsecs. (a)(1) and (d), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325. Title I of the Act is classified generally to subchapter I (§1802 et seq.) of chapter 20 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 The Navajo Community College Act, referred to in subsecs. (a)(2) and (d), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of Title 25, Indians, and was omitted from the Code as being of special and not general application.
 
@@ -152,7 +152,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Prior Provisions
 
-A prior section 2327, Pub. L. 88–210, title I, §117, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3097; amended Pub. L. 106–554, §1(a)(1) \[title III, §310\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 107–20, title II, §2701(a), July 24, 2001, 115 Stat. 181, related to tribally controlled postsecondary vocational and technical institutions, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2327, Pub. L. 88–210, title I, §117, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3097;amended Pub. L. 106–554, §1(a)(1) \[title III, §310\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 107–20, title II, §2701(a), July 24, 2001, 115 Stat. 181, related to tribally controlled postsecondary vocational and technical institutions, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2327, Pub. L. 88–210, title I, §117, as added Pub. L. 101–392, title I, §116, Sept. 25, 1990, 104 Stat. 772, related to program evaluation and improvement, prior to the general amendment of this chapter by Pub. L. 105–332.
 

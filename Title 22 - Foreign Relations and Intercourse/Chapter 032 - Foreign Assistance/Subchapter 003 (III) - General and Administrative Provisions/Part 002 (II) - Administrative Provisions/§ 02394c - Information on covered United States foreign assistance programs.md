@@ -164,7 +164,7 @@ President's Report.—Not later than 18 months after the date of the enactment o
 
 "(e)
 
-Comptroller General's Report.—The Comptroller General of the United States shall, not later than 18 months after the report required by subsection (d) is submitted to Congress, submit to the appropriate congressional committees a report that—
+Comptroller General's Report.—The Comptroller General of the United States shall, not later than 18 months after the report required by subsection\(d) is submitted to Congress, submit to the appropriate congressional committees a report that—
 
 &emsp;"(1) analyzes the guidelines established pursuant to subsection (b); and
 
@@ -174,7 +174,7 @@ Comptroller General's Report.—The Comptroller General of the United States sha
 
 #### Definitions
 
-Pub. L. 114–191, §2, July 15, 2016, 130 Stat. 666, as amended by Pub. L. 115–254, div. F, title VI, §1470(l), Oct. 5, 2018, 132 Stat. 3517, provided that:
+Pub. L. 114–191, §2, July 15, 2016, 130 Stat. 666, as amended by Pub. L. 115–254, div. F, title VI, §1470(l), Oct. 5, 2018, 132 Stat. 3517; Pub. L. 117–214, §7, Oct. 19, 2022, 136 Stat. 2255; Pub. L. 117–263, div. E, title LV, §5564(b), Dec. 23, 2022, 136 Stat. 3361, provided that:
 
 "In this Act \[enacting this section and provisions set out as notes under this section and section 2151 of this title\]:
 
@@ -210,9 +210,15 @@ Covered united states foreign assistance.—The term 'covered United States fore
 
 &emsp;&emsp;"(C) the Millennium Challenge Act of 2003 (22 U.S.C. 7701 et seq.);
 
-&emsp;&emsp;"(D) the Food for Peace Act (7 U.S.C. 1721 \[1691\] et seq.); and
+&emsp;&emsp;"(D) the Food for Peace Act (7 U.S.C. 1721 \[1691\] et seq.);
 
-&emsp;&emsp;"(E) the Better Utilization of Investments Leading to Development Act of 2018 \[22 U.S.C. 9601 et seq.\]."
+&emsp;&emsp;"(E) the Better Utilization of Investments Leading to Development Act of 2018 \[22 U.S.C. 9601 et seq.\].
+
+&emsp;&emsp;"(E) the Global Malnutrition Prevention and Treatment Act of 2021 \[Pub. L. 117–214; 22 U.S.C. 9301 note\]; and
+
+&emsp;&emsp;"(F) the Global Health Security and International Pandemic Prevention, Preparedness and Response Act of 2022 \[Pub. L. 117–263, div. E, title LV, subtitle D; 22 U.S.C. 2151b note\]."
+
+\[Amendment by section 1470(l) of Pub. L. 115–254, adding first par. (3)(E) to section 2 of Pub. L. 114–191, set out above, effective at the end of the transition period, as defined in section 9681 of this title, see section 1470(w) of Pub. L. 115–254, set out as a note under section 905 of Title 2, The Congress. Another par. (3)(E) was added by section 7 of Pub. L. 117–214. Section 5564(b)(2) of Pub. L. 117–263, which directed substitution of "; and" for period at end of subpar. (E) of section 2(3) of Pub. L. 114–191, was executed by making the substitution in the second subpar. (E).\]
 
 #### <b>Executive Documents</b>
 

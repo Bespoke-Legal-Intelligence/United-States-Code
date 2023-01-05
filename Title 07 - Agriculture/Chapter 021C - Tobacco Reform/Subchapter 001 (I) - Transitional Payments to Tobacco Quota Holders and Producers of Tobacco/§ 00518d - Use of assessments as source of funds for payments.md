@@ -164,7 +164,7 @@ The amount of the assessment for each class of tobacco product specified in subs
 
 #### (3) Revision
 
-&emsp;If a manufacturer or importer establishes that the initial determination of the amount of an assessment is incorrect, the Secretary shall revise the amount of the assessment so that the manufacturer or importer is required to pay only the amount correctly determined.
+&emsp;If a manufacturer or importer establishes that the initial determination of the amountof an assessment is incorrect, the Secretary shall revise the amount of the assessment so that the manufacturer or importer is required to pay only the amount correctly determined.
 
 #### (4) Time for review
 
@@ -202,7 +202,7 @@ The authority provided by this section to impose assessments terminates on Septe
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(2)(B), is not set out in theCode. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(2)(B), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

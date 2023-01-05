@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) the lack of employment policies to accommodate working parents can force individuals to choose between job security and parenting;
 
-&emsp;(4) there is inadequate job security for employees who have serious health conditions that prevent them from working for temporary periods;
+&emsp;(4) there is inadequate job security for employees who have serious health conditionsthat prevent them from working for temporary periods;
 
 &emsp;(5) due to the nature of the roles of men and women in our society, the primary responsibility for family caretaking often falls on women, and such responsibility affects the working lives of women more than it affects the working lives of men; and
 
@@ -68,7 +68,7 @@ Collective bargaining agreements.—In the case of a collective bargaining agree
 
 Pub. L. 116–127, §1, Mar. 18, 2020, 134 Stat. 178, provided that: "This Act \[see Tables for classification\] may be cited as the 'Families First Coronavirus Response Act'."
 
-Pub. L. 116–127, div. C, §3101, Mar. 18, 2020, 134 Stat. 189, provided that: "This Act \[div. C of Pub. L. 116–127, enacting section 2620 of this title, amending section2612 of this title, and enacting provisions set out as notes under section 2620 of this title\] may be cited as \[the\] 'Emergency Family and Medical Leave Expansion Act'."
+Pub. L. 116–127, div. C, §3101, Mar. 18, 2020, 134 Stat. 189, provided that: "This Act \[div. C of Pub. L. 116–127, enacting section 2620 of this title, amending section 2612 of this title, and enacting provisions set out as notes under section 2620 of this title\] may be cited as \[the\] 'Emergency Family and Medical Leave Expansion Act'."
 
 #### Short Title of 2009 Amendment
 
@@ -206,7 +206,7 @@ Investigations and Collection of Data.—The Secretary of Labor or his designee 
 
 "(a)
 
-Employers.—An employer signatory to a multiemployer collective bargaining agreement may, consistent with its bargaining obligations and its collective bargaining agreement, fulfill its obligations underthis Act by making contributions to a multiemployer fund, plan, or program based on the hours of paid sick time each of its employees is entitled to under this Act while working under the multiemployer collective bargaining agreement, provided that the fund, plan, or program enables employees to secure pay from such fund, plan, or program based on hours they have worked under the multiemployer collective bargaining agreement and for the uses specified under section 5102(a).
+Employers.—An employer signatory to a multiemployer collective bargaining agreement may, consistent with its bargaining obligations and its collective bargaining agreement, fulfill its obligations under this Act by making contributions to a multiemployer fund, plan, or program based on the hours of paid sick time each of its employees is entitled to under this Act while working under the multiemployer collective bargaining agreement, provided that the fund, plan, or program enables employees to secure pay from such fund, plan, or program based on hours they have worked under the multiemployer collective bargaining agreement and for the uses specified under section 5102(a).
 
 "(b)
 

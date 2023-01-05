@@ -26,7 +26,7 @@ On receiving a request under subsection (d), the Administrator shall promptly co
 
 #### (f) Subpoena power
 
-In connection with any hearing on the record under this section, the Administrator may issue subpoenas for the attendance and testimony of witnesses and for the production of relevant papers, books, and documents.
+In connection with any hearing on the record under this section, the Administrator may issuesubpoenas for the attendance and testimony of witnesses and for the production of relevant papers, books, and documents.
 
 #### (g) Continued violation after expiration of period for compliance
 

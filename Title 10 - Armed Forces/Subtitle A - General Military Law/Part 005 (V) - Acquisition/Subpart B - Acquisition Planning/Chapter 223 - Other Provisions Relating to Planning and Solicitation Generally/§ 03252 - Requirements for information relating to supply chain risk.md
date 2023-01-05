@@ -116,7 +116,7 @@ A prior section 3252, added Pub. L. 110–181, div. A, title VI, §671(a)(1), Ja
 
 Another prior section 3252, act Aug. 10, 1956, ch. 1041, 70A Stat. 177, provided that temporary enlistments could be made only in the Army without specification of component, prior to repeal by Pub. L. 90–235, §2(a)(2)(B), Jan. 2, 1968, 81 Stat. 756.
 
-A prior section 3253, acts Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 87–143, §1(1), Aug. 17, 1961, 75 Stat. 364;Pub. L. 90–235, §2(a)(2)(A), Jan. 2, 1968, 81 Stat. 756; Pub. L. 96–513, title V, §512(3), Dec. 12, 1980, 94 Stat. 2929, provided that, in peace time, Army enlistment was available only to citizens and persons lawfully admitted to the United States for permanent residence, prior to repeal by Pub. L. 109–163, div. A, title V, §542(b)(1), Jan. 6, 2006, 119 Stat. 3253.
+A prior section 3253, acts Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 87–143, §1(1), Aug. 17, 1961, 75 Stat. 364; Pub. L. 90–235, §2(a)(2)(A), Jan. 2, 1968, 81 Stat. 756; Pub. L. 96–513, title V, §512(3), Dec. 12, 1980, 94 Stat. 2929, provided that, in peace time, Army enlistment was available only to citizens and persons lawfully admitted to the United States for permanent residence, prior to repeal by Pub. L. 109–163, div. A, title V, §542(b)(1), Jan. 6, 2006, 119 Stat. 3253.
 
 Prior sections 3254 to 3256 were repealed by Pub. L. 90–235, §2(a)(2)(B), Jan. 2, 1968, 81 Stat. 756.
 
@@ -124,7 +124,7 @@ Section 3254, act Aug. 10, 1956, ch. 1041, 70A Stat. 178, provided for temporary
 
 Section 3255, act Aug. 10, 1956, ch. 1041, 70A Stat. 178, provided for recruiting campaigns to obtain enlistments in the Regular Army.
 
-Section 3256, act Aug. 10, 1956, ch. 1041, 70A Stat. 178, set forth qualifications for and term of enlistments in the Regular Army and the grade in which such enlistments were made.
+Section 3256, act Aug. 10, 1956, ch. 1041, 70A Stat. 178, set forth qualifications for and term of enlistments inthe Regular Army and the grade in which such enlistments were made.
 
 A prior section 3258 was renumbered section 7138 of this title.
 
@@ -172,7 +172,7 @@ Section 3294, acts Aug. 10, 1956, ch. 1041, 70A Stat. 184; Sept. 2, 1958, Pub. L
 
 Section 3295, acts Aug. 10, 1956, ch. 1041, 70A Stat. 184; Sept. 2, 1958, Pub. L. 85–861, §1(78), 72 Stat. 1467, provided for determination of the place on a promotion list of name of each person who is originally appointed in a commissioned grade in Regular Army and whose name is to be carried on a promotion list, other than persons appointed in Medical Corps, Dental Corps, Army Nurse Corps, or Army Medical Specialist Corps. See section 624 of this title.
 
-Section 3296, acts Aug. 10, 1956, ch. 1041, 70A Stat. 184; Aug. 21, 1957, Pub. L. 85–155, title I, §101(10), 71 Stat. 377; Aug. 6, 1958, Pub. L. 85–600, §1(5), 72 Stat. 522; June 4, 1968, Pub. L. 90–329, 82 Stat. 170; Oct. 20, 1978, Pub. L. 95–485, title VIII, §820(d)(2), 92 Stat. 1627; Oct. 30, 1978, Pub. L. 95–551, §2, 92 Stat. 2069, provided for promotion lists in Regular Army for all commissioned officers in grades below brigadier general on active list, with exceptions, which officers are known as "promotion-list officers", a separate list for Chaplains and each of the several branches of Army Medical Department, and determination of place on list upon transfer or promotion. See section 624 of this title.
+Section 3296, acts Aug. 10, 1956, ch. 1041, 70A Stat. 184; Aug. 21, 1957, Pub. L. 85–155, title I, §101(10), 71 Stat. 377; Aug. 6, 1958, Pub. L. 85–600, §1(5), 72 Stat. 522; June 4, 1968, Pub. L. 90–329, 82 Stat. 170; Oct. 20, 1978, Pub. L. 95–485, title VIII, §820(d)(2), 92 Stat. 1627; Oct. 30, 1978, Pub. L. 95–551, §2, 92 Stat. 2069, provided for promotion lists in Regular Army for all commissioned officers in grades below brigadier general on active list, with exceptions, which officers are known as "promotion-list officers", a separate list for Chaplains and each of theseveral branches of Army Medical Department, and determination of place on list upon transfer or promotion. See section 624 of this title.
 
 Section 3297, acts Aug. 10, 1956, ch. 1041, 70A Stat. 185; Aug. 21, 1957, Pub. L. 85–155, title I, §101(11), 71 Stat. 377; July 12, 1960, Pub. L. 86–616, §1(1), 74 Stat. 386; Oct. 20, 1978, Pub. L. 95–485, title VIII, §820(d)(3), 92 Stat. 1627, provided for selection boards to recommend promotion-list officers and brigadier generals of Regular Army for promotion in Regular Army. See section 611 et seq. of this title.
 

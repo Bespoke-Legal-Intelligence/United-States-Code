@@ -120,7 +120,7 @@ The Secretary shall establish and carry out a program to provide grants to the s
 
 #### (III) Reduction
 
-&emsp;&emsp;&emsp;&emsp;The sun grant center or subcenter may reduce or eliminate the requirement for non-Federal funds under subclause (I) for applied research (as defined in subsection (f)(1) of section 6971 of this title (as added by section 7511(a)(4)) <sup>1</sup> if the sun grant center or subcenter determines that the reduction is necessary and appropriate pursuant to guidance issued by the Secretary.
+&emsp;&emsp;&emsp;&emsp;The sun grant center or subcenter may reduce or eliminate the requirement for non-Federal funds under subclause (I) for applied research (as defined in subsection (f)(1) of section 6971 of this title (as added by section 7511(a)(4)) <sup>1</sup> if the sun grant center or subcenter determinesthat the reduction is necessary and appropriate pursuant to guidance issued by the Secretary.
 
 #### (v) Buildings and facilities
 
@@ -146,7 +146,7 @@ The Secretary shall establish and carry out a program to provide grants to the s
 
 #### (1) In general
 
-&emsp;Subject to the availability of funds under subsection (g), and in cooperation with land-grant colleges and universities and private industry, the sun grant centers and subcenter shall jointly develop and submit to the Secretary for approval a plan for addressing the bioenergy, biomass, and bioproducts research priorities of the Department of Agricultureand other appropriate Federal agencies at the State and regional levels.
+&emsp;Subject to the availability of funds under subsection (g), and in cooperation with land-grant colleges and universities and private industry, the sun grant centers and subcenter shall jointly develop and submit to the Secretary for approval a plan for addressing the bioenergy, biomass, and bioproducts research priorities of the Department of Agriculture and other appropriate Federal agencies at the State and regional levels.
 
 #### (2) Funding
 

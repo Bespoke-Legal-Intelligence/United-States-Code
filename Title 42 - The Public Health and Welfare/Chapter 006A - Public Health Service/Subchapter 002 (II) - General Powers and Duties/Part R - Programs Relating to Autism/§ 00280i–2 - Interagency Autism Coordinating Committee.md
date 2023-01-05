@@ -126,7 +126,7 @@ Subsec. (c)(2). Pub. L. 113–157, §5(2)(B)(i), (ii), substituted "Non-Federal"
 
 Subsec. (c)(2)(A). Pub. L. 113–157, §5(2)(B)(iii), substituted "two such members shall be individuals" for "one such member shall be an individual".
 
-Subsec. (c)(2)(B). Pub. L. 113–157, §5(2)(B)(iv), substituted "two such members shall be parents or legal guardians" for "one such member shall be a parent or legal guardian".
+Subsec. (c)(2)(B). Pub. L. 113–157, §5(2)(B)(iv), substituted "two such members shall be parents or legalguardians" for "one such member shall be a parent or legal guardian".
 
 Subsec. (c)(2)(C). Pub. L. 113–157, §5(2)(B)(v), substituted "two such members shall be representatives" for "one such member shall be a representative".
 

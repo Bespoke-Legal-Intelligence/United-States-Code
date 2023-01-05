@@ -6,7 +6,7 @@ Penalty.—(1) A person may not fail to comply with section 20160 or with a regu
 
 (2) The Secretary shall include in, or make applicable to, each regulation prescribed and order issued under chapter 201 of this title a civil penalty for a violation. The Secretary shall impose a civil penalty for a violation of section 20160 of this title. The amount of the penalty shall be at least $500 but not more than $25,000. However, when a grossly negligent violation or a pattern of repeated violations has caused an imminent hazard of death or injury to individuals, or has caused death or injury, the amount may be not more than $100,000.
 
-(3) The Secretary may find that a person has violated this chapter or a regulation prescribedor order, special permit, or approval issued under this chapter only after notice and an opportunity for a hearing. The Secretary shall impose a penalty under this section by giving the person written notice of the amount of the penalty. The Secretary may compromise the amount of a civil penalty by settlement agreement without issuance of an order. In determining the amount of a compromise, the Secretary shall consider—
+(3) The Secretary may find that a person has violated this chapter or a regulation prescribed or order, special permit, or approval issued under this chapter only after notice and an opportunity for a hearing. The Secretary shall impose a penalty under this section by giving the person written notice of the amount of the penalty. The Secretary may compromise the amount of a civil penalty by settlement agreement without issuance of an order. In determining the amount of a compromise, the Secretary shall consider—
 
 &emsp;(A) the nature, circumstances, extent, and gravity of the violation;
 
@@ -98,7 +98,7 @@ Subsec. (a)(2). Pub. L. 110–432, §302(a), substituted "$25,000." for "$10,000
 
 Pub. L. 110–432, §204(d)(2), inserted "The Secretary shall impose a civil penalty for a violation of section 20160 of this title." after first sentence.
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–287, §5(53)(B), substituted "Secretary under chapter 201 is liable" for"Secretary of Transportation under chapter 201 of this title is liable".
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–287, §5(53)(B), substituted "Secretary under chapter 201 is liable" for "Secretary of Transportation under chapter 201 of this title is liable".
 
 Pub. L. 104–287, §5(53)(A), inserted "A person may not fail to comply with a regulation prescribed or order issued by the Secretary of Transportation under chapter 201 of this title." before "Subject to".
 

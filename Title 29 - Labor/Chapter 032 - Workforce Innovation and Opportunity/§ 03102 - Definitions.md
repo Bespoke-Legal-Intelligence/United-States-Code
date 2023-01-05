@@ -66,7 +66,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 #### (10) Community-based organization
 
-&emsp;The term "community-based organization" means a private nonprofit organization (whichmay include a faith-based organization), that is representative of a community or a significant segment of a community and that has demonstrated expertise and effectiveness in the field of workforce development.
+&emsp;The term "community-based organization" means a private nonprofit organization (which may include a faith-based organization), that is representative of a community or a significant segment of a community and that has demonstrated expertise and effectiveness in the field of workforce development.
 
 #### (11) Competitive integrated employment
 
@@ -94,7 +94,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 &emsp;&emsp;(A) that is designed to meet the specific requirements of an employer (including a group of employers);
 
-&emsp;&emsp;(B) that is conducted with a commitment by the employer to employ an individual upon successful completion of the training; and
+&emsp;&emsp;(B) that is conducted with a commitment by the employer to employ an individualupon successful completion of the training; and
 
 &emsp;&emsp;(C) for which the employer pays—
 
@@ -506,7 +506,7 @@ In this Act, and the core program provisions that are not in this Act, except as
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and madeamendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in text, is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The National Apprenticeship Act, referred to in par. (7)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 50 of this title and Tables.
 
@@ -518,7 +518,7 @@ The Social Security Act, referred to in pars. (24)(K) and (36)(A)(i), is act Aug
 
 The Food and Nutrition Act of 2008, referred to in par. (36)(A)(i), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in par. (36)(A)(iv), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
+The Richard B. Russell National School Lunch Act, referred to in par. (36)(A)(iv), is act June 4, 1946, ch. 281,60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
 #### Amendments
 

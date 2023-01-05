@@ -16,7 +16,7 @@ For purposes of this section, the inflation percentage applicable to a fiscal ye
 
 &emsp;(2) the average of such index (as so defined) for the 12-month period that immediately precedes the 12-month period described in paragraph (1).
 
-(Pub. L. 87–128, title III, §305, Aug. 8, 1961, 75 Stat. 308; Pub. L. 91–620, §1, Dec. 31, 1970, 84 Stat.1862; Pub. L. 92–419, title I, §103, Aug. 30, 1972, 86 Stat. 658; Pub. L. 91–524, title VIII, §807, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 237; Pub. L. 95–334, title I, §103, Aug. 4, 1978, 92 Stat. 421; Pub. L. 102–554, §3, Oct. 28, 1992, 106 Stat. 4142; Pub. L. 105–277, div. A, §101(a) \[title VIII, §806(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 110–234, title V, §5003, May 22, 2008, 122 Stat. 1144; Pub. L. 110–246, §4(a), title V, §5003, June 18, 2008, 122 Stat. 1664, 1905; Pub. L. 115–334, title V, §5103, Dec. 20, 2018, 132 Stat. 4669.)
+(Pub. L. 87–128, title III, §305, Aug. 8, 1961, 75 Stat. 308; Pub. L. 91–620, §1, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 92–419, title I, §103, Aug. 30, 1972, 86 Stat. 658; Pub. L. 91–524, title VIII, §807, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 237; Pub. L. 95–334, title I, §103, Aug. 4, 1978, 92 Stat. 421; Pub. L. 102–554, §3, Oct. 28, 1992, 106 Stat. 4142; Pub. L. 105–277, div. A, §101(a) \[title VIII, §806(a)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 110–234, title V, §5003, May 22, 2008, 122 Stat. 1144; Pub. L. 110–246, §4(a), title V, §5003, June 18, 2008, 122 Stat. 1664, 1905; Pub. L. 115–334, title V, §5103, Dec. 20, 2018, 132 Stat. 4669.)
 
 #### <b>Editorial Notes</b>
 

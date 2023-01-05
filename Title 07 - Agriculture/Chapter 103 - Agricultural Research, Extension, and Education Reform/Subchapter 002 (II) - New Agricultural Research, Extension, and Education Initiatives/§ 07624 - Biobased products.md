@@ -82,7 +82,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### References in Text
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(1)(B), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(1)(B), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Codification
 
@@ -144,7 +144,7 @@ Qualified institution.—The term 'qualified institution' means a bioproducts re
 
 &emsp;&emsp;"(A) is funded, in part, by a State;
 
-&emsp;&emsp;"(B) is located within a reasonable distance, not to exceed 3 miles, of the primary residence hall of an institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)));
+&emsp;&emsp;"(B) is located within a reasonable distance, not to exceed 3 miles, of the primary residence hall ofan institution of higher education (as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)));
 
 &emsp;&emsp;"(C) provides students opportunities to engage in research activities; and
 

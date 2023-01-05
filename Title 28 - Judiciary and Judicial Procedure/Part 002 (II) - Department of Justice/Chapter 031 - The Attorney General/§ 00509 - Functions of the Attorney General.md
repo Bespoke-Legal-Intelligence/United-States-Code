@@ -56,6 +56,10 @@ Pub. L. 114–325, §1, Dec. 16, 2016, 130 Stat. 1965, provided that: "This Act 
 
 For transfer of functions, personnel, assets, and liabilities of the Domestic Emergency Support Teams of the Department of Justice, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(4) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
+#### Prohibition on Firearms or Ammunition Transfers to Agents of Drug Cartels
+
+Pub. L. 117–159, div. A, title II, §12004(g), June 25, 2022, 136 Stat. 1330, provided that: "The Department of Justice, and any of its law enforcement coordinate agencies, shall not conduct or otherwise facilitate the transfer of an operable firearm or ammunition to an individual if any law enforcement officer employed by the Department of Justice involved with the transfer knows or has reasonable cause to believe that the recipient of the firearm or ammunition is an agent of a drug cartel, unless law enforcement personnel of the United States continuously monitor or control the firearm or ammunition at all times."
+
 #### Unsolved Civil Rights Crimes
 
 Pub. L. 110–344, Oct. 7, 2008, 122 Stat. 3934, as amended by Pub. L. 114–325, §2, Dec. 16, 2016, 130 Stat. 1965, provided that:
@@ -210,7 +214,7 @@ Criminal civil rights statutes.—The term 'criminal civil rights statutes' mean
 
 &emsp;"(2)
 
-Eligible entity.—The term 'eligible entity' means an organization whose primary purpose is topromote civil rights, an institution of higher education, or another entity, determined by the Attorney General to be appropriate.
+Eligible entity.—The term 'eligible entity' means an organization whose primary purpose is to promote civil rights, an institution of higher education, or another entity, determined by the Attorney General to be appropriate.
 
 #### "\[SEC. 8. Repealed. Pub. L. 114–325, §2(7), Dec. 16, 2016, 130 Stat. 1967.\]
 
@@ -394,7 +398,7 @@ Pub. L. 103–317, title I, §109, Aug. 26, 1994, 108 Stat. 1735, provided that:
 
 #### Neighborhood Revitalization
 
-Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: "That for fiscal year 1993 and thereafter the Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing andUrban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review and approve such plans in consultation with the Federal agency to which funds are appropriated".
+Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: "That for fiscal year 1993 and thereafterthe Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing and Urban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review and approve such plans in consultation with the Federal agency to which funds are appropriated".
 
 #### Procurement of Expert Witnesses Without Regard to Competitive Procurement Procedures
 
@@ -448,9 +452,7 @@ Compensation.—The Special Counsel shall be paid at the basic pay payable for l
 
 #### Authorization of Appropriations for Humanitarian Expenses Incurred by Federal Bureau of Investigation and Drug Enforcement Administration
 
-Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, §101(b) \[title I, §109(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that: "Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, or the Immigration and Naturalization Service are available, in an amount of not to exceed $25,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee's immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business."
-
-\[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
+Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, §101(b) \[title I, §109(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67; Pub. L. 117–328, div. B, title II, §219, Dec. 29, 2022, 136 Stat. 4544, provided that: "Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, the Federal Prison System, the Bureau of Alcohol, Tobacco, Firearms and Explosives, or the United States Marshals Service are available, in an amount of not to exceed $50,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee's immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business."
 
 #### Investigation of Financial Institutions; Assistance of Government Personnel
 

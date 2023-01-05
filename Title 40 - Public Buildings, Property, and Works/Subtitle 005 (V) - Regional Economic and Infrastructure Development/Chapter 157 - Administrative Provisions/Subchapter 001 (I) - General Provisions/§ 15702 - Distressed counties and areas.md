@@ -56,7 +56,7 @@ Isolated areas of distress.—For a designation of an isolated area of distress 
 
 &emsp;&emsp;(B) if no recent Federal data are available, by the most recent data available through the government of the State in which the isolated area of distress is located.
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1479, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2241.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1479, and Pub. L. 110–246,§4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2241.)
 
 #### <b>Editorial Notes</b>
 

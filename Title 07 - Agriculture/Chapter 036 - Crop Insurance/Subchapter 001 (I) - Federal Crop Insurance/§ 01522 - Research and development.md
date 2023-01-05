@@ -16,7 +16,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An applicant who submits a policy under section 1508(h) of this title shall be eligible for the reimbursement of reasonable research and development costs if the policy is approved by the Board for sale to producers.
+&emsp;&emsp;&emsp;An applicant who submits a policy under section 1508(h) of this title shall be eligible for the reimbursement of reasonable research and development costs if the policyis approved by the Board for sale to producers.
 
 #### (ii) Reasonable costs
 
@@ -54,7 +54,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (i) Experts
 
-&emsp;&emsp;&emsp;If the requirements of subparagraph (B) and (C) are met, the Board may submit aconcept proposal described in subparagraph (C) to not less than 2 independent expert reviewers, whose services are appropriate for the type of concept proposal submitted, to assess the likelihood that the proposed policy being developed will result in a viable and marketable policy, as determined by the Board.
+&emsp;&emsp;&emsp;If the requirements of subparagraph (B) and (C) are met, the Board may submit a concept proposal described in subparagraph (C) to not less than 2 independent expert reviewers, whose services are appropriate for the type of concept proposal submitted, to assess the likelihood that the proposed policy being developed will result in a viable and marketable policy, as determined by the Board.
 
 #### (ii) Timing
 
@@ -220,7 +220,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 #### (4) Types of contracts
 
-&emsp;A contract under this subsection may provide for research and development regarding new or expanded policies, including policies based on adjusted gross income, cost-of-production, quality losses, and an intermediatebase program with a higher coverage and cost than catastrophic risk protection.
+&emsp;A contract under this subsection may provide for research and development regarding new or expanded policies, including policies based on adjusted gross income, cost-of-production, quality losses, and an intermediate base program with a higher coverage and cost than catastrophic risk protection.
 
 #### (5) Use of resulting policies
 
@@ -442,7 +442,7 @@ In this section, the term "policy" means a policy, plan of insurance, provision 
 
 &emsp;&emsp;&emsp;(i) consider expanding the availability of the limited irrigation insurance program to neighboring and similarly situated States (such as the States of Colorado and Nebraska), as determined by the Secretary;
 
-&emsp;&emsp;&emsp;(ii) carry out research, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out research, on the marketability of the existing limited irrigation insurance program; and
+&emsp;&emsp;&emsp;(ii) carry out research, or offer to enter into 1 or more contracts with 1 or more qualified persons to carry out research, onthe marketability of the existing limited irrigation insurance program; and
 
 &emsp;&emsp;&emsp;(iii) make recommendations on how to improve participation in that program.
 

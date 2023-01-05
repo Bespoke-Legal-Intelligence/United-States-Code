@@ -14,7 +14,7 @@ It is the policy of the United States that all water resources projects should r
 
 #### (1) Principles and guidelines defined
 
-&emsp;In this subsection, the term "principles and guidelines" means the principles and guidelines contained in the document prepared bythe Water Resources Council pursuant to section 1962a–2 of this title, entitled "Economic and Environmental Principles and Guidelines for Water and Related Land Resources Implementation Studies", and dated March 10, 1983.
+&emsp;In this subsection, the term "principles and guidelines" means the principles and guidelines contained in the document prepared by the Water Resources Council pursuant to section 1962a–2 of this title, entitled "Economic and Environmental Principles and Guidelines for Water and Related Land Resources Implementation Studies", and dated March 10, 1983.
 
 #### (2) In general
 
@@ -52,7 +52,7 @@ It is the policy of the United States that all water resources projects should r
 
 &emsp;&emsp;&emsp;(i) the revisions to the principles and guidelines for use by the Secretary; and
 
-&emsp;&emsp;&emsp;(ii) an explanation of the intent of each revision, how each revision is consistent with this section, and the probable impact of each revision on water resources projects carried out by the Secretary; and
+&emsp;&emsp;&emsp;(ii) an explanation of the intent of each revision, how each revision is consistentwith this section, and the probable impact of each revision on water resources projects carried out by the Secretary; and
 
 &emsp;&emsp;(B) make the revisions to the principles and guidelines for use by the Secretary available to the public, including on the Internet.
 

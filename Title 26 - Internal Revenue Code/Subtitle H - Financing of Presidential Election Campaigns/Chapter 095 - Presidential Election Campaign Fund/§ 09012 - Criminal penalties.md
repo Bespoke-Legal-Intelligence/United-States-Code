@@ -16,7 +16,7 @@
 
 #### (c) Unlawful use of payments
 
-(1) It shall be unlawful for any person who receives any payment under section 9006, or to whom any portion of any payment received under such section is transferred, knowingly and willfully to use, or authorize the use of, such payment or such portion for any purpose other than—
+(1) It shall be unlawful for any person who receives any payment under section 9006, or to whom any portion of any payment received under such section is transferred, knowingly andwillfully to use, or authorize the use of, such payment or such portion for any purpose other than—
 
 &emsp;(A) to defray the qualified campaign expenses with respect to which such payment was made, or
 
@@ -62,7 +62,7 @@
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, as added by section 801 of Pub. L. 92–178, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, as added by section 801 of Pub. L. 92–178, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 

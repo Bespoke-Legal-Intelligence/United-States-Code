@@ -1,34 +1,12 @@
 ### §659. National cybersecurity and communications integration center
 
-#### (a) Definitions
+#### (a) Definition
 
-In this section—
-
-&emsp;(1) the term "cybersecurity purpose" has the meaning given that term in section 102 of the Cybersecurity Information Sharing Act of 2015 (6 U.S.C. 1501);
-
-&emsp;(2) the term "cybersecurity risk"—
-
-&emsp;&emsp;(A) means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism; and
-
-&emsp;&emsp;(B) does not include any action that solely involves a violation of a consumer term of service or a consumer licensing agreement;
-
-&emsp;(3) the terms "cyber threat indicator" and "defensive measure" have the meanings given those terms in section 102 of the Cybersecurity Act of 2015 \[6 U.S.C. 1501\];
-
-&emsp;(4) the term "cybersecurity vulnerability" has the meaning given the term "security vulnerability" in section 102 of the Cybersecurity Information Sharing Act of 2015 (6 U.S.C. 1501);
-
-&emsp;(5) the term "incident" means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system;
-
-&emsp;(6) the term "information sharing and analysis organization" has the meaning given that term in section 671(5) of this title;
-
-&emsp;(7) the term "information system" has the meaning given that term in section 3502(8) of title 44;
-
-&emsp;(8) the term "security vulnerability" has the meaning given that term in section 102 of the Cybersecurity Information Sharing Act of 2015 (6 U.S.C. 1501); and
-
-&emsp;(9) the term "sharing" (including all conjugations thereof) means providing, receiving, and disseminating (including all conjugations of each of such terms).
+The term "cybersecurity vulnerability" has the meaning given the term "security vulnerability" in section 650 of this title.
 
 #### (b) Center
 
-There is in the Department a national cybersecurity and communications integration center (referred to in this section as the "Center") to carry out certain responsibilities of the Director. The Center shall be located in the Cybersecurity and Infrastructure Security Agency. The head of the Center shall report to the Assistant Director for Cybersecurity.
+There is in the Department a national cybersecurity and communications integration center (referred to in this section as the "Center") to carry out certain responsibilities of the Director. The Center shall be located in the Cybersecurity and Infrastructure Security Agency. The head of the Center shall report to the Executive Assistant Director for Cybersecurity.
 
 #### (c) Functions
 
@@ -48,7 +26,7 @@ The cybersecurity functions of the Center shall include—
 
 &emsp;(C) sharing the analysis conducted under subparagraph (A) and mitigation protocols to counter cybersecurity vulnerabilities in accordance with subparagraph (B), as appropriate, with Federal and non-Federal entities;
 
-&emsp;(6) upon request, providing timely technical assistance, risk management support, and incident response capabilities to Federal and non-Federal entities with respect to cyber threat indicators, defensive measures, cybersecurity risks, and incidents, which may include attribution, mitigation, and remediation, which may take the form of continuous monitoring and detection of cybersecurity risks to critical infrastructure entities that own or operate industrial control systems that support national critical functions;
+&emsp;(6) upon request, providing operational and timely technical assistance, risk management support, and incident response capabilities to Federal and non-Federal entities with respect to cyber threat indicators, defensive measures, cybersecurity risks, and incidents, which may include attribution, mitigation, and remediation, which may take the form of continuous monitoring and detection of cybersecurity risks to critical infrastructure entities that own or operate industrial control systems that support national critical functions;
 
 &emsp;(7) providing information and recommendations on security and resilience measures to Federal and non-Federal entities, including information and recommendations to—
 
@@ -68,9 +46,11 @@ The cybersecurity functions of the Center shall include—
 
 &emsp;(10) participating, as appropriate, in national exercises run by the Department;
 
-&emsp;(11) in coordination with the Emergency Communications Division of the Department, assessing and evaluating consequence, vulnerability, and threat information regarding cyber incidents to public safety communications to help facilitate continuous improvements to the security and resiliency of such communications; and
+&emsp;(11) in coordination with the Emergency Communications Division of the Department, assessing and evaluating consequence, vulnerability, and threat information regarding cyber incidents to public safety communications to help facilitate continuous improvements to the security and resiliency of such communications;
 
-&emsp;(12) detecting, identifying, and receiving information for a cybersecurity purpose about security vulnerabilities relating to critical infrastructure in information systems and devices.
+&emsp;(12) detecting, identifying, and receiving information for a cybersecurity purpose about security vulnerabilities relating to critical infrastructure in information systems and devices; and
+
+&emsp;(13) receiving, aggregating, and analyzing reports related to covered cyber incidents (as defined in section 681 of this title) submitted by covered entities (as defined in section 681 of this title) and reports related to ransom payments (as defined in section 681 of this title) submitted by covered entities (as defined in section 681 of this title) in furtherance of the activities specified in sections 652(e), 653, and 681a of this title, this subsection, and any other authorized activity of the Director, to enhance the situational awareness of cybersecurity threats across critical infrastructure sectors.
 
 #### (d) Composition
 
@@ -84,13 +64,13 @@ The cybersecurity functions of the Center shall include—
 
 &emsp;&emsp;&emsp;(ii) civilian and law enforcement agencies; and
 
-&emsp;&emsp;&emsp;(iii) elements of the intelligence community, as that term is defined under section 3003(4) of title 50;
+&emsp;&emsp;&emsp;(iii) elements of the intelligence community;
 
 &emsp;&emsp;(B) appropriate representatives of non-Federal entities, such as—
 
 &emsp;&emsp;&emsp;(i) State, local, and tribal governments;
 
-&emsp;&emsp;&emsp;(ii) information sharing and analysis organizations, including information sharing and analysis centers;
+&emsp;&emsp;&emsp;(ii) Information Sharing and Analysis Organizations, including information sharing and analysis centers;
 
 &emsp;&emsp;&emsp;(iii) owners and operators of critical information systems; and
 
@@ -100,7 +80,7 @@ The cybersecurity functions of the Center shall include—
 
 &emsp;&emsp;(D) a designated Federal official for operational coordination with and across each sector;
 
-&emsp;&emsp;(E) an entity that collaborates with State and local governments on cybersecurity risks and incidents, and has entered into a voluntary information sharing relationship with the Center; and
+&emsp;&emsp;(E) an entity that collaborates with State and local governments, including an entity that collaborates with election officials, on cybersecurity risks and incidents, and has entered into a voluntary information sharing relationship with the Center; and
 
 &emsp;&emsp;(F) other appropriate representatives or entities, as determined by the Secretary.
 
@@ -130,7 +110,7 @@ In carrying out the functions under subsection (c), the Center shall ensure—
 
 &emsp;&emsp;&emsp;&emsp;(I) sector coordinating councils;
 
-&emsp;&emsp;&emsp;&emsp;(II) information sharing and analysis organizations; and
+&emsp;&emsp;&emsp;&emsp;(II) Information Sharing and Analysis Organizations; and
 
 &emsp;&emsp;&emsp;&emsp;(III) other appropriate non-Federal partners;
 
@@ -434,7 +414,67 @@ The Director shall maintain capabilities to identify and address threats and vul
 
 &emsp;(5) conduct such other efforts and assistance as the Secretary determines appropriate.
 
-(Pub. L. 107–296, title XXII, §2209, formerly title II, §227, formerly §226, as added Pub. L. 113–282, §3(a), Dec. 18, 2014, 128 Stat. 3066; renumbered §227 and amended Pub. L. 114–113, div. N, title II, §§203, 223(a)(3), Dec. 18, 2015, 129 Stat. 2957, 2963; Pub. L. 114–328, div. A, title XVIII, §1841(b), Dec. 23, 2016, 130 Stat. 2663; renumbered title XXII, §2209, and amended Pub. L. 115–278, §2(g)(2)(I), (9)(A)(iii), Nov. 16, 2018, 132 Stat. 4178, 4180; Pub. L. 116–94, div. L, §102(a), Dec. 20, 2019, 133 Stat. 3089; Pub. L. 116–283, div. A, title XVII, §1716(a), Jan. 1, 2021, 134 Stat. 4094; Pub. L. 117–81, div. A, title XV, §§1541(a), 1542, 1548(c), Dec. 27, 2021, 135 Stat. 2054, 2056, 2063.)
+#### (r) Coordination on cybersecurity for SLTT entities
+
+#### (1) <sup>1</sup> Coordination
+
+&emsp;The Center shall, upon request and to the extent practicable, and in coordination as appropriate with Federal and non-Federal entities, such as the Multi-State Information Sharing and Analysis Center—
+
+&emsp;&emsp;(A) conduct exercises with SLTT entities;
+
+&emsp;&emsp;(B) provide operational and technical cybersecurity training to SLTT entities to address cybersecurity risks or incidents, with or without reimbursement, related to—
+
+&emsp;&emsp;&emsp;(i) cyber threat indicators;
+
+&emsp;&emsp;&emsp;(ii) defensive measures;
+
+&emsp;&emsp;&emsp;(iii) cybersecurity risks;
+
+&emsp;&emsp;&emsp;(iv) vulnerabilities; and
+
+&emsp;&emsp;&emsp;(v) incident response and management;
+
+&emsp;&emsp;(C) in order to increase situational awareness and help prevent incidents, assist SLTT entities in sharing, in real time, with the Federal Government as well as among SLTT entities, actionable—
+
+&emsp;&emsp;&emsp;(i) cyber threat indicators;
+
+&emsp;&emsp;&emsp;(ii) defensive measures;
+
+&emsp;&emsp;&emsp;(iii) information about cybersecurity risks; and
+
+&emsp;&emsp;&emsp;(iv) information about incidents;
+
+&emsp;&emsp;(D) provide SLTT entities notifications containing specific incident and malware information that may affect them or their residents;
+
+&emsp;&emsp;(E) provide to, and periodically update, SLTT entities via an easily accessible platform and other means—
+
+&emsp;&emsp;&emsp;(i) information about tools;
+
+&emsp;&emsp;&emsp;(ii) information about products;
+
+&emsp;&emsp;&emsp;(iii) resources;
+
+&emsp;&emsp;&emsp;(iv) policies;
+
+&emsp;&emsp;&emsp;(v) guidelines;
+
+&emsp;&emsp;&emsp;(vi) controls; and
+
+&emsp;&emsp;&emsp;(vii) other cybersecurity standards and best practices and procedures related to information security, including, as appropriate, information produced by other Federal agencies;
+
+&emsp;&emsp;(F) work with senior SLTT entity officials, including chief information officers and senior election officials and through national associations, to coordinate the effective implementation by SLTT entities of tools, products, resources, policies, guidelines, controls, and procedures related to information security to secure the information systems, including election systems, of SLTT entities;
+
+&emsp;&emsp;(G) provide operational and technical assistance to SLTT entities to implement tools, products, resources, policies, guidelines, controls, and procedures on information security;
+
+&emsp;&emsp;(H) assist SLTT entities in developing policies and procedures for coordinating vulnerability disclosures consistent with international and national standards in the information technology industry; and
+
+&emsp;&emsp;(I) promote cybersecurity education and awareness through engagements with Federal agencies and non-Federal entities.
+
+#### (s) Report
+
+Not later than 1 year after June 21, 2022, and every 2 years thereafter, the Secretary shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives a report on the services and capabilities that the Agency directly and indirectly provides to SLTT entities.
+
+(Pub. L. 107–296, title XXII, §2209, formerly title II, §227, formerly §226, as added Pub. L. 113–282, §3(a), Dec. 18, 2014, 128 Stat. 3066; renumbered §227 and amended Pub. L. 114–113, div. N, title II, §§203, 223(a)(3), Dec. 18, 2015, 129 Stat. 2957, 2963; Pub. L. 114–328, div. A, title XVIII, §1841(b), Dec. 23, 2016, 130 Stat. 2663; renumbered title XXII, §2209, and amended Pub. L. 115–278, §2(g)(2)(I),\(9)(A)(iii), Nov. 16, 2018, 132 Stat. 4178, 4180; Pub. L. 116–94, div. L, §102(a), Dec. 20, 2019, 133 Stat. 3089; Pub. L. 116–283, div. A, title XVII, §1716(a), Jan. 1, 2021, 134 Stat. 4094; Pub. L. 117–81, div. A, title XV, §§1541(a), 1542, 1548(c), Dec. 27, 2021, 135 Stat. 2054, 2056, 2063; Pub. L. 117–103, div. Y, §103(a)(1), Mar. 15, 2022, 136 Stat. 1038; Pub. L. 117–150, §2(2), June 21, 2022, 136 Stat. 1295; Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(D), Dec. 23, 2022, 136 Stat. 3659.)
 
 #### <b>Editorial Notes</b>
 
@@ -450,33 +490,37 @@ Section was formerly classified to section 148 of this title prior to renumberin
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a)(1), (2). Pub. L. 116–283, §1716(a)(1)(A), (B), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (3).
+<b>2022</b>—Subsec. (a). Pub. L. 117–263, §7143(b)(2)(D)(i), added subsec. (a) and struck out former subsec. (a) which defined cybersecurity purpose, cybersecurity risk, cyber threat indicator, defensive measure, cybersecurity vulnerability, incident, information sharing and analysis organization, information system, security vulnerability, and sharing.
 
-Subsec. (a)(3). Pub. L. 116–283, §1716(a)(1)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+Subsec. (b). Pub. L. 117–263, §7143(b)(2)(D)(ii), inserted "Executive" before "Assistant Director for Cybersecurity".
 
-Subsec. (a)(4). Pub. L. 117–81, §1542(1), added par. (4). Former par. (4) redesignated (5).
+Subsec. (c)(6). Pub. L. 117–150, §2(2)(A), inserted "operational and" before "timely".
 
-Pub. L. 116–283, §1716(a)(1)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+Subsec. (c)(13). Pub. L. 117–103 added par. (13).
 
-Subsec. (a)(5). Pub. L. 117–81, §1542(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (d)(1)(A)(iii). Pub. L. 117–263, §7143(b)(2)(D)(iii)(I), struck out ", as that term is defined under section 3003(4) of title 50" after "intelligence community".
 
-Pub. L. 116–283, §1716(a)(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+Subsec. (d)(1)(B)(ii). Pub. L. 117–263, §7143(b)(2)(D)(iii)(II), substituted "Information Sharing and Analysis Organizations" for "information sharing and analysis organizations".
 
-Subsec. (a)(6). Pub. L. 117–81, §1542(1), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (d)(1)(E). Pub. L. 117–150, §2(2)(B), inserted ", including an entity that collaborates with election officials," after "governments".
 
-Pub. L. 116–283, §1716(a)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+Subsec. (e)(1)(E)(ii)(II). Pub. L. 117–263, §7143(b)(2)(D)(iv), substituted "Information Sharing and Analysis Organizations" for "information sharing and analysis organizations".
 
-Subsec. (a)(7). Pub. L. 117–81, §1542(1), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+Subsec. (p). Pub. L. 117–263, §7143(b)(2)(D)(v), redesignated subsec. (p) relating to coordination on cybersecurity for SLTT entities as (r).
 
-Pub. L. 116–283, §1716(a)(1)(E), added par. (7). Former par. (7) redesignated (8).
+Pub. L. 117–150, §2(2)(C), added subsec. (p) relating to coordination on cybersecurity for SLTT entities.
 
-Pub. L. 116–283, §1716(a)(1)(A), redesignated par. (6) as (7).
+Subsec. (q). Pub. L. 117–263, §7143(b)(2)(D)(vi), redesignated subsec. (q) relating to report as (s).
 
-Subsec. (a)(8). Pub. L. 117–81, §1542(1), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+Pub. L. 117–150, §2(2)(C), added subsec. (q) relating to report.
 
-Pub. L. 116–283, §1716(a)(1)(D), redesignated par. (7) as (8).
+Subsec. (r). Pub. L. 117–263, §7143(b)(2)(D)(v), redesignated subsec. (p) relating to coordination on cybersecurity for SLTT entities as (r).
 
-Subsec. (a)(9). Pub. L. 117–81, §1542(1), redesignated par. (8) as (9).
+Subsec. (s). Pub. L. 117–263, §7143(b)(2)(D)(vi), redesignated subsec. (q) relating to report as (s).
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–81, §1542(1), added par. (4) and redesignated former pars. (4) to (8) (as previously added or redesignated by Pub. L. 116–283) as (5) to (9), respectively.
+
+Pub. L. 116–283, §1716(a)(1), added pars. (1) and (7) and redesignated former pars. (1) to (5) as (2) to (6), respectively, and former par. (6) as (8).
 
 Subsec. (c)(5)(B), (C). Pub. L. 117–81, §1542(2)(A), added subpar. (B), redesignated former subpar. (B) as (C), and inserted in subpar. (C) as redesignated "and mitigation protocols to counter cybersecurity vulnerabilities in accordance with subparagraph (B), as appropriate," before "with Federal".
 
@@ -490,13 +534,13 @@ Subsec. (c)(12). Pub. L. 116–283, §1716(a)(2), added par. (12).
 
 Subsec. (e)(1)(I). Pub. L. 117–81, §1541(a)(1), added subpar. (I).
 
-Subsec. (o). Pub. L. 117–81, §1542(4), added subsec. (o). Former subsec. (o) redesignated (p).
+Subsec. (o). Pub. L. 117–81, §1542(4), added subsec. (o). Former subsec. (o) redesignated (p) relating to subpoena authority.
 
 Pub. L. 116–283, §1716(a)(3), added subsec. (o).
 
-Subsec. (p). Pub. L. 117–81, §1542(3), redesignated former subsec. (o) as (p).
+Subsec. (p). Pub. L. 117–81, §1542(3), redesignated subsec. (o) as (p) relating to subpoena authority.
 
-Subsec. (q). Pub. L. 117–81, §1541(a)(2), added subsec. (q).
+Subsec. (q). Pub. L. 117–81, §1541(a)(2), added subsec. (q) relating to industrial control systems.
 
 <b>2019</b>—Subsec. (d)(1)(B)(iv). Pub. L. 116–94, §102(a)(1), inserted ", including cybersecurity specialists" after "entities".
 
@@ -562,6 +606,8 @@ Subsecs. (g) to (l). Pub. L. 114–113, §203(5), added subsecs. (g) to (l).
 
 #### Rules of Construction
 
+Nothing in amendment made by Pub. L. 117–263 to be construed to alter the authorities, responsibilities, functions, or activities of any agency (as such term is defined in 44 U.S.C. 3502) or officer or employee of the United States on or before Dec. 23, 2022, see section 7143(f)(1) of Pub. L. 117–263, set out as a note under section 650 of this title.
+
 Pub. L. 116–283, div. A, title XVII, §1716(b), Jan. 1, 2021, 134 Stat. 4098, provided that:
 
 "(1)
@@ -600,9 +646,11 @@ Pub. L. 113–282, §2, Dec. 18, 2014, 128 Stat. 3066, provided that: "In this A
 
 &emsp;"(3) the term 'cybersecurity risk' has the meaning given that term in section 226 \[2209\] of the Homeland Security Act of 2002, as added by section 3;
 
-&emsp;"(4) the term 'information sharing and analysis organization' has the meaning given that term in section 212(5) \[renumbered 2222(5) by section 2(g)(2)(H) of Pub. L. 115–278\] of the Homeland Security Act of 2002 (\[former\] 6 U.S.C. 131(5)) \[now 6 U.S.C. 671(5)\];
+&emsp;"(4) the term 'information sharing and analysis organization' has the meaning given that term in section 212(5) \[renumbered 2222(5) by section 2(g)(2)(H) of Pub. L. 115–278\] of the Homeland Security Act of 2002 (\[former\] 6 U.S.C. 131(5)) \[now 6 U.S.C. 671(5); see 6 U.S.C. 650(13)\];
 
 &emsp;"(5) the term 'information system' has the meaning given that term in section 3502(8) of title 44, United States Code; and
 
 &emsp;"(6) the term 'Secretary' means the Secretary of Homeland Security."
+
+<i><sup>1</sup></i><i> So in original. There is no par. (2).</i>
 

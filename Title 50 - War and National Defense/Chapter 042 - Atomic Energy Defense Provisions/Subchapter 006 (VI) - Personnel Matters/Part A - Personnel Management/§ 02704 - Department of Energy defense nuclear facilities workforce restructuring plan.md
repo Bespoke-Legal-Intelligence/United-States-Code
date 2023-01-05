@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Upon determination that a change in the workforce at a defense nuclear facility is necessary, the Secretary of Energy shall develop aplan for restructuring the workforce for the defense nuclear facility that takes into account—
+Upon determination that a change in the workforce at a defense nuclear facility is necessary, the Secretary of Energy shall develop a plan for restructuring the workforce for the defense nuclear facility that takes into account—
 
 &emsp;(1) the reconfiguration of the defense nuclear facility; and
 
@@ -48,7 +48,7 @@ The Secretary shall, subject to the availability of appropriations for such purp
 
 #### (e) Submittal to Congress
 
-(1) The Secretary shall submit to Congress a plan referred to in subsection (a) with respect to a defense nuclear facility within 90 days after the date on which a notice of changes described in subsection (c)(1)(B) is provided to employees of the facility, or 90 days after the date of the enactment of this Act,<sup>1</sup> whichever is later.
+(1) The Secretary shall submit to Congress a plan referred to in subsection (a) with respect to a defense nuclear facility within 90 days after the date on which a notice of changes described in subsection (c)(1)(B) is provided to employeesof the facility, or 90 days after the date of the enactment of this Act,<sup>1</sup> whichever is later.
 
 (2) In addition to the plans submitted under paragraph (1), the Secretary shall submit to Congress every six months a report setting forth a description of, and the amount or value of, all local impact assistance provided during the preceding six months under subsection (c)(6).
 
@@ -82,7 +82,7 @@ Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(6)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title II of the Act is classified generally to subchapter II (§3141 et seq.) of chapter 38 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552. Title II of the Act is classified generally to subchapter II (§3141 et seq.) of chapter 38 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
 The date of the enactment of this Act, referred to in subsec. (e)(1), meant Oct. 23, 1992, the date of enactment of Pub. L. 102–484, in this section as originally enacted. As renumbered by Pub. L. 108–136, this section is now part of Pub. L. 107–314, which was approved Dec. 2, 2002.
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(7)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendmentby section 101(f) \[title VIII, §405(f)(6)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(7)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(6)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1994 Amendment
 

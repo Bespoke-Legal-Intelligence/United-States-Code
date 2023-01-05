@@ -60,7 +60,7 @@ Section 123 of Public Law 91–508, referred to in subsec. (a), is classified to
 
 Subsec. (a)(1). Pub. L. 107–56, §353(c)(3), inserted ", to file a report or to maintain a record required by an order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508" before semicolon at end.
 
-Subsec. (a)(2). Pub. L. 107–56, §353(c)(4), inserted ", to file a report or to maintain a record required by any order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508," after "regulation prescribed under any such section".
+Subsec. (a)(2). Pub. L. 107–56, §353(c)(4), inserted ", to file a report or to maintain a record required by any order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 5326, or to maintain a record required pursuantto any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508," after "regulation prescribed under any such section".
 
 Subsecs. (b) to (d). Pub. L. 107–56, §365(b)(1), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 

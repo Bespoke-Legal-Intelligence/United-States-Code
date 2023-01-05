@@ -34,11 +34,11 @@ The Secretary of Housing and Urban Development may make grants to States and met
 
 #### (D) Section 1437f assistance
 
-&emsp;&emsp;Assistance made available under section 8 of the United States Housing Act of 1937 (42U.S.C. 1437f) may be used in conjunction with a community residence under this subsection for tenant-based assistance.
+&emsp;&emsp;Assistance made available under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f) may be used in conjunction with a community residence under this subsection for tenant-based assistance.
 
 #### (2) Services
 
-&emsp;Services provided with a grant under this section shall consist of services appropriate in assisting eligible persons to enhance their quality of life, enable such individuals to more fully participate in community life, and delay or prevent the placement of such individuals in hospitals or other institutions.
+&emsp;Services provided with a grant under this section shall consist of services appropriate in assisting eligible persons to enhance theirquality of life, enable such individuals to more fully participate in community life, and delay or prevent the placement of such individuals in hospitals or other institutions.
 
 #### (c) Use of grants
 
@@ -116,7 +116,7 @@ Subsec. (b)(1)(A). Pub. L. 102–550, §606(j)(11)(E)(i), substituted "eligible 
 
 Subsec. (b)(1)(A)(iv). Pub. L. 102–550, §606(j)(9), (11)(E)(i), substituted "eligible persons" for "individuals with acquired immunodeficiency syndrome or related diseases" and "such eligible persons" for "such individuals".
 
-Subsec. (b)(2). Pub. L. 102–550, §606(j)(11)(E)(i), which directed the substitution of "eligible persons" for "individuals with acquired immunodeficiency syndrome or related diseases" wherever appearing in subsec. (b), was executed by making the substitution for "individualswith acquired immunodeficiency syndrome and related diseases" in par. (2) to reflect the probable intent of Congress.
+Subsec. (b)(2). Pub. L. 102–550, §606(j)(11)(E)(i), which directed the substitution of "eligible persons" for "individuals with acquired immunodeficiency syndrome or related diseases" wherever appearing in subsec. (b), was executed by making the substitution for "individuals with acquired immunodeficiency syndrome and related diseases" in par. (2) to reflect the probable intent of Congress.
 
 Subsec. (c)(1)(C). Pub. L. 102–550, §606(i)(1), inserted before period at end ", and expenses relating to community outreach and educational activities regarding acquired immunodeficiency syndrome and related diseases provided for individuals residing in proximity of eligible persons assisted under this chapter".
 

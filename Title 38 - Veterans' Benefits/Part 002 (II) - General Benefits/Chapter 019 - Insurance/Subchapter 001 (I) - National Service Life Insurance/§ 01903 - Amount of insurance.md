@@ -1,6 +1,6 @@
 ### §1903. Amount of insurance
 
-Insurance shall be issued in any multiple of $500 and the amount of insurance with respect to any one person shall be not less than $1,000 or more than $10,000. No person may carry a combined amount of National Service Life Insurance and United States Government life insurance in excess of $10,000 at any one time. The limitations of this section shall not apply to the additional paid up insurance the purchase of which is authorized under section 1907 of this title.
+Insurance shall be issued in any multiple of $500 and the amount of insurance with respect to any one person shall be not less than $1,000 or more than $10,000. No person may carry a combined amount of National Service Life Insuranceand United States Government life insurance in excess of $10,000 at any one time. The limitations of this section shall not apply to the additional paid up insurance the purchase of which is authorized under section 1907 of this title.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1148, §703; Pub. L. 92–188, §1, Dec. 15, 1971, 85 Stat. 645; renumbered §1903 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 

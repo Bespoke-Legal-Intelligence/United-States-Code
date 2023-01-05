@@ -200,13 +200,13 @@
 
 #### (B) Corporations
 
-&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if theSecretary, after an informal hearing, finds that—
+&emsp;&emsp;Upon an application submitted under subparagraph (A), the Secretary may take the action described in subparagraph (D) if the Secretary, after an informal hearing, finds that—
 
 &emsp;&emsp;&emsp;(i) the person making the application under subparagraph (A) has demonstrated that the felony conviction which was the basis for such person's debarment involved the commission of an offense which was not authorized, requested, commanded, performed, or recklessly tolerated by the board of directors or by a high managerial agent acting on behalf of the person within the scope of the board's or agent's office or employment,
 
 &emsp;&emsp;&emsp;(ii) all individuals who were involved in the commission of the offense or who knew or should have known of the offense have been removed from employment involving the development or approval of any drug subject to sections <sup>1</sup> 355 of this title,
 
-&emsp;&emsp;&emsp;(iii) the person fully cooperated with all investigations and promptly disclosed all wrongdoing to the appropriate authorities, and
+&emsp;&emsp;&emsp;(iii) the person fully cooperated with all investigations and promptly disclosed allwrongdoing to the appropriate authorities, and
 
 &emsp;&emsp;&emsp;(iv) the person acted to mitigate any impact on the public of any offense involved, including the recall, or the discontinuation of the distribution, of any drug with respect to which the Secretary requested a recall or discontinuation of distribution due to concerns about the safety or efficacy of the drug.
 
@@ -266,7 +266,7 @@ The Secretary shall publish in the Federal Register the name of any person debar
 
 #### (B) Extension
 
-&emsp;&emsp;If, at the end of the period described in subparagraph (A), the Secretary determines that a person has been criminally chargedfor an action described in subparagraph (B) of paragraph (1), the Secretary may extend the period of denial of approval of an application for a period not to exceed 18 months. The Secretary shall terminate such extension if the charges have been dismissed, if a judgment of acquittal has been entered, or if the Secretary determines that the finding described in subparagraph (A) was in error.
+&emsp;&emsp;If, at the end of the period described in subparagraph (A), the Secretary determines that a person has been criminally charged for an action described in subparagraph (B) of paragraph (1), the Secretary may extend the period of denial of approval of an application for a period not to exceed 18 months. The Secretary shall terminate such extension if the charges have been dismissed, if a judgment of acquittal has been entered, or if the Secretary determines that the finding described in subparagraph (A) was in error.
 
 #### (3) Informal hearing
 
@@ -324,7 +324,7 @@ The Secretary may not take any action under subsection (a), (b), (c), (d)(3), (g
 
 #### (2) Exception
 
-&emsp;Any person that is the subject of an adverse decision under clause (iii) or (iv) of subsection\(b)(2)(B) may obtain a review of such decision by the United States District Court for the District of Columbia or a district court of the United States for the district in which the person resides, by filing in such court (within 30 days following the date the person is notified of the Secretary's decision) a complaint requesting that the decision be modified or set aside. In such an action, the court shall determine the matter de novo.
+&emsp;Any person that is the subject of an adverse decision under clause (iii) or (iv) of subsection (b)(2)(B) may obtain a review of such decision by the United States District Court for the District of Columbia or a district court of the United States for the district in which the person resides, by filing in such court (within 30 days following the date the person is notified of the Secretary's decision) a complaint requesting that the decision be modified or set aside. In such an action, the court shall determine the matter de novo.
 
 #### (k) Certification
 
@@ -420,7 +420,7 @@ Subsec. (m). Pub. L. 107–250 added subsec. (m).
 
 #### Construction
 
-Pub. L. 102–282, §7, May 13, 1992, 106 Stat. 162, provided that: "No amendment made by this Act \[enacting this section and sections 335b and 335c of this title and amending sections 321, 336, 337, and 355 of this title\] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act."
+Pub. L. 102–282, §7, May 13, 1992, 106 Stat. 162, provided that: "No amendment made by this Act \[enacting thissection and sections 335b and 335c of this title and amending sections 321, 336, 337, and 355 of this title\] shall preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by this Act."
 
 #### Congressional Findings
 

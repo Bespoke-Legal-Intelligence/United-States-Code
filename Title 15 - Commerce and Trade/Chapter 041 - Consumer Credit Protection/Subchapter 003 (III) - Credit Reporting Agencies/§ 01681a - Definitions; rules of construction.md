@@ -50,7 +50,7 @@ Restriction on sharing of medical information.—Except for information or any c
 
 (e) The term "investigative consumer report" means a consumer report or portion thereof in which information on a consumer's character, general reputation, personal characteristics, or mode of living is obtained through personal interviews with neighbors, friends, or associates of the consumer reported on or with others with whom he is acquainted or who may have knowledge concerning any such items of information. However, such information shall not include specific factual information on a consumer's credit record obtained directly from a creditor of the consumer or from a consumer reporting agency when such information was obtained directly from a creditor of the consumer or from the consumer.
 
-(f) The term "consumer reporting agency" means any person which, for monetary fees, dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports.
+(f) The term "consumer reporting agency" means any person which, for monetary fees,dues, or on a cooperative nonprofit basis, regularly engages in whole or in part in the practice of assembling or evaluating consumer credit information or other information on consumers for the purpose of furnishing consumer reports to third parties, and which uses any means or facility of interstate commerce for the purpose of preparing or furnishing consumer reports.
 
 (g) The term "file", when used in connection with information on any consumer, means all of the information on that consumer recorded and retained by a consumer reporting agency regardless of how the information is stored.
 
@@ -208,7 +208,7 @@ Fraud alert; active duty alert.—The terms "fraud alert" and "active duty alert
 
 &emsp;(3)
 
-Identity theft.—The term "identity theft" means a fraud committed using the identifying information of another person,subject to such further definition as the Bureau may prescribe, by regulation.
+Identity theft.—The term "identity theft" means a fraud committed using the identifying information of another person, subject to such further definition as the Bureau may prescribe, by regulation.
 
 &emsp;(4)
 
@@ -420,7 +420,7 @@ Pub. L. 108–159, title IV, §411(d), Dec. 4, 2003, 117 Stat. 2002, provided th
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–347, §7, Nov. 2, 1998, 112 Stat. 3211, provided that: "The amendments made by this Act\[amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title\] shall be deemed to have the same effective date \[see section 2420 of Pub. L. 104–208, set out as a note below\] as the amendments made by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 \[3009–430\]) \[amending section 1681b of this title\]."
+Pub. L. 105–347, §7, Nov. 2, 1998, 112 Stat. 3211, provided that: "The amendments made by this Act \[amending this section and sections 1681b, 1681c, 1681g, 1681i, 1681k, and 1681s of this title\] shall be deemed to have the same effective date \[see section 2420 of Pub. L. 104–208, set out as a note below\] as the amendments made by section 2403 of the Consumer Credit Reporting Reform Act of 1996 (Public Law 104–208; 110 Stat. 3009–1257 \[3009–430\]) \[amending section 1681b of this title\]."
 
 #### Effective Date of 1996 Amendment
 

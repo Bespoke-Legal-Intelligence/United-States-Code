@@ -22,7 +22,7 @@ An agreement with any institution of higher education for participation in the d
 
 &emsp;(2) provide assurances that the institution will comply with requirements established by the Secretary relating to student loan information with respect to loans made under this part;
 
-&emsp;(3) provide that the institution accepts responsibility and financial liability stemming from its failure to perform its functions pursuant to the agreement;
+&emsp;(3) provide that the institution accepts responsibility and financial liability stemmingfrom its failure to perform its functions pursuant to the agreement;
 
 &emsp;(4) provide for the implementation of a quality assurance system, as established by the Secretary and developed in consultation with institutions of higher education, to ensure that the institution is complying with program requirements and meeting program objectives;
 
@@ -50,7 +50,7 @@ The Secretary shall establish procedures by which institutions or consortia may 
 
 #### Amendment of Subsection (a)(1)(B)
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, subsection (a)(1)(B) of this section is amended by striking "the expected family contribution" and inserting "the student aid index". See 2020 Amendment note below.</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, subsection (a)(1)(B) of this section is amended by striking "the expected family contribution" and inserting "the student aid index". See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -72,7 +72,7 @@ Subsec. (b)(2). Pub. L. 111–152, §2210(a)(2), substituted "(5), and (6)" for 
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2010 Amendment
 

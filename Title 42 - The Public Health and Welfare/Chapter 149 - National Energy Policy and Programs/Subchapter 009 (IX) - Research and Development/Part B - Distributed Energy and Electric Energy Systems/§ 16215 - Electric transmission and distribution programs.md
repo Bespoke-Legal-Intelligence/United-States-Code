@@ -96,7 +96,7 @@ Not later than 2 years after the submission of the plan under subsection (b), th
 
 &emsp;&emsp;(A) feasibility analysis, planning, research, and design to construct demonstrations of superconducting links in high power, direct current, and controllable alternating current transmission systems;
 
-&emsp;&emsp;(B) public-private partnerships to demonstrate deployment of high temperature superconducting cable into testbeds simulating a realistic transmission grid and under varying transmission conditions, including actual grid insertions; and
+&emsp;&emsp;(B) public-private partnerships to demonstrate deployment of high temperaturesuperconducting cable into testbeds simulating a realistic transmission grid and under varying transmission conditions, including actual grid insertions; and
 
 &emsp;&emsp;(C) testbeds developed in cooperation with National Laboratories, industries, and institutions of higher education to—
 

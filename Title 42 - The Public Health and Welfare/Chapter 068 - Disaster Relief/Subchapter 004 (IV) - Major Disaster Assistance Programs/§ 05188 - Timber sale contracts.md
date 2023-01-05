@@ -14,7 +14,7 @@ The Secretary of Agriculture is authorized to reduce to seven days the minimum p
 
 #### (d) State grants for removal of damaged timber; reimbursement of expenses limited to salvage value of removed timber
 
-The President, when he determines it to be in the public interest, is authorized to make grantsto any State or local government for the purpose of removing from privately owned lands timber damaged as a result of a major disaster, and such State or local government is authorized upon application, to make payments out of such grants to any person for reimbursement of expenses actually incurred by such person in the removal of damaged timber, not to exceed the amount that such expenses exceed the salvage value of such timber.
+The President, when he determines it to be in the public interest, is authorized to make grants to any State or local government for the purpose of removing from privately owned lands timber damaged as a result of a major disaster, and such State or local government is authorized upon application, to make payments out of such grants to any person for reimbursement of expenses actually incurred by such person in the removal of damaged timber, not to exceed the amount that such expenses exceed the salvage value of such timber.
 
 (Pub. L. 93–288, title IV, §421, formerly §418, May 22, 1974, 88 Stat. 158; renumbered §421, Pub. L. 100–707, title I, §106(j), Nov. 23, 1988, 102 Stat. 4705.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Supervision
 
-The Chief Executive Officer shall monitor and supervise the administration of the National Civilian Community Corps Program authorized to be established under section 12612 of this title.In carrying out this section, the Chief Executive Officer shall—
+The Chief Executive Officer shall monitor and supervise the administration of the National Civilian Community Corps Program authorized to be established under section 12612 of this title. In carrying out this section, the Chief Executive Officer shall—
 
 &emsp;(1) approve such guidelines, including those recommended by the Board, for the design, selection of members, and operation of the National Civilian Community Corps as the Chief Executive Officer considers appropriate;
 
@@ -26,7 +26,7 @@ The Chief Executive Officer shall—
 
 #### (A) Appointment
 
-&emsp;&emsp;Upon the establishment of the Program, the Chief Executive Officer shall appoint a Director. The Director may be selected from among retired commissioned officers of the Armed Forces of the United States.
+&emsp;&emsp;Upon the establishment of the Program, the Chief Executive Officer shall appoint aDirector. The Director may be selected from among retired commissioned officers of the Armed Forces of the United States.
 
 #### (B) Duties
 
@@ -82,7 +82,7 @@ The Chief Executive Officer shall—
 
 &emsp;Notwithstanding any other provision of law, the Director may accept the voluntary services of individuals. While away from their homes or regular places of business on the business of the Corps, such individuals may be allowed travel expenses, including per diem in lieu of subsistence, in the same amounts and to the same extent, as authorized under section 5703 of title 5 for persons employed intermittently in Federal Government service.
 
-(Pub. L. 101–610, title I, §159, formerly §195H, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2528; renumbered §159 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(E), title IV, §§402(b)(1), 403(a)(1)–(3), (b), Sept. 21, 1993, 107 Stat. 840, 847, 918–920; Pub. L. 103–304,§3(b)(5)(B), Aug. 23, 1994, 108 Stat. 1567; Pub. L. 103–337, div. A, title VI, §640, Oct. 5, 1994, 108 Stat. 2791; Pub. L. 111–13, title I, §1509, Apr. 21, 2009, 123 Stat. 1525; Pub. L. 115–232, div. A, title V, §553(b)(3), Aug. 13, 2018, 132 Stat. 1772.)
+(Pub. L. 101–610, title I, §159, formerly §195H, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2528; renumbered §159 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(E), title IV, §§402(b)(1), 403(a)(1)–(3), (b), Sept. 21, 1993, 107 Stat. 840, 847, 918–920; Pub. L. 103–304, §3(b)(5)(B), Aug. 23, 1994, 108 Stat. 1567; Pub. L. 103–337, div. A, title VI, §640, Oct. 5, 1994, 108 Stat. 2791; Pub. L. 111–13, title I, §1509, Apr. 21, 2009, 123 Stat. 1525; Pub. L. 115–232, div. A, title V, §553(b)(3), Aug. 13, 2018, 132 Stat. 1772.)
 
 #### <b>Editorial Notes</b>
 

@@ -78,7 +78,7 @@ Implementation.—The Secretary concerned shall create such legal documents as m
 
 The date of enactment of this section, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (g), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title III of the Act is classified generally tosubchapter III (§12181 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (g), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title III of the Act is classified generally to subchapter III (§12181 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 

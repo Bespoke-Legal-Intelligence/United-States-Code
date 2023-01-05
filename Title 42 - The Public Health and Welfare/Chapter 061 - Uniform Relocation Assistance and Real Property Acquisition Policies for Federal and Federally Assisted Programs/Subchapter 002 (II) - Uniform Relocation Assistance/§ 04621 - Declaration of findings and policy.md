@@ -24,7 +24,7 @@ It is the intent of Congress that—
 
 &emsp;(1) Federal agencies shall carry out this subchapter in a manner which minimizes waste, fraud, and mismanagement and reduces unnecessary administrative costs borne by States and State agencies in providing relocation assistance;
 
-&emsp;(2) uniform procedures for the administration of relocation assistance shall, to the maximum extent feasible, assure that the unique circumstances of any displaced person are taken into account and that persons in essentially similar circumstances are accorded equal treatment under this chapter;
+&emsp;(2) uniform procedures for the administration of relocation assistance shall, to the maximum extent feasible, assure that the uniquecircumstances of any displaced person are taken into account and that persons in essentially similar circumstances are accorded equal treatment under this chapter;
 
 &emsp;(3) the improvement of housing conditions of economically disadvantaged persons under this subchapter shall be undertaken, to the maximum extent feasible, in coordination with existing Federal, State, and local governmental programs for accomplishing such goals; and
 
@@ -52,7 +52,7 @@ The Civil Rights Act of 1964, referred to in subsec. (c)(4), is Pub. L. 88–352
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, seesection 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
+Amendment by Pub. L. 100–17 effective on effective date provided in regulations promulgated under section 4633 of this title (as amended by section 412 of Pub. L. 100–17), but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
 
 #### Savings Provision
 

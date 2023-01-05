@@ -48,7 +48,7 @@ Policy.—(1) The Office shall develop, and regularly update, a uniform policy f
 
 &emsp;(D) Protection from having a medical recommendation for an approved assignment overridden by the commanding officer.
 
-&emsp;(E) Ability to request continuation of location when there is a documented substantial risk of transferring medical care or educational services to a new provider or school at the specific time of permanent change of station.
+&emsp;(E) Ability to request continuation of location when there is a documented substantial risk of transferring medical care or educational services to a new provider or schoolat the specific time of permanent change of station.
 
 (4) In addressing support for military families under paragraph (2)(B), the policy developed under this subsection shall provide the following:
 
@@ -58,7 +58,7 @@ Policy.—(1) The Office shall develop, and regularly update, a uniform policy f
 
 &emsp;(C) Procedures to facilitate the enrollment of such members of the armed forces and their families in programs of the military department for the support of military families with special needs.
 
-&emsp;(D) Procedures to ensure the coordination of Department of Defense health care programsand support programs for military families with special needs, and the coordination of such programs with other Federal, State, local, and non-governmental health care programs and support programs intended to serve such families.
+&emsp;(D) Procedures to ensure the coordination of Department of Defense health care programs and support programs for military families with special needs, and the coordination of such programs with other Federal, State, local, and non-governmental health care programs and support programs intended to serve such families.
 
 &emsp;(E) Requirements for resources (including staffing) to ensure the availability through the Department of Defense of appropriate numbers of case managers to provide individualized support for military families with special needs.
 
@@ -110,13 +110,13 @@ Reports.—(1) Not later than April 30 each year, the Secretary of Defense shall
 
 &emsp;&emsp;(iv) an assessment of the average wait time for an eligible dependent enrolled in the program to access alternative health coverage for a qualifying condition (as such term is defined in such section), including a discussion of any adverse health outcomes associated with such wait.
 
-&emsp;(D) Such recommendations for legislative action as the Secretary considers appropriate to provide for the continuous improvement of support and services for military families with special needs.
+&emsp;(D) Such recommendations for legislative action as the Secretary considers appropriateto provide for the continuous improvement of support and services for military families with special needs.
 
 (h)
 
 Military Family With Special Needs.—For purposes of this section, a military family with special needs is any military family with one or more members who has a medical or educational special need (as defined by the Secretary in regulations for purposes of this section), including a condition covered by the Extended Health Care Option Program under section 1079f of this title.
 
-(Added Pub. L. 111–84, div. A, title V, §563(a)(1), Oct. 28, 2009, 123 Stat. 2304; amended Pub. L. 111–383, div. A, title V, §582(a), (b), title X, §1075(b)(24), Jan. 7, 2011, 124 Stat. 4226, 4227, 4370;Pub. L. 114–328, div. A, title IX, §933(b)(1)–(5)(A), Dec. 23, 2016, 130 Stat. 2364, 2365; Pub. L. 116–283, div. A, title V, §582(a), title VII, §704(c), Jan. 1, 2021, 134 Stat. 3651, 3688.)
+(Added Pub. L. 111–84, div. A, title V, §563(a)(1), Oct. 28, 2009, 123 Stat. 2304; amended Pub. L. 111–383, div. A, title V, §582(a), (b), title X, §1075(b)(24), Jan. 7, 2011, 124 Stat. 4226, 4227, 4370; Pub. L. 114–328, div. A, title IX, §933(b)(1)–(5)(A), Dec. 23, 2016, 130 Stat. 2364, 2365; Pub. L. 116–283, div. A, title V, §582(a), title VII, §704(c), Jan. 1, 2021, 134 Stat. 3651, 3688.)
 
 #### <b>Editorial Notes</b>
 
@@ -316,7 +316,7 @@ Recommendations.—As part of the study under paragraph (1), the Comptroller Gen
 
 &emsp;&emsp;"(A) Improvements to the ability of the Department of Defense to monitor and enforce the compliance of local educational agencies with requirements for the provision of a free appropriate public education to military dependent students with special needs.
 
-&emsp;&emsp;"(B) Improvements to the policies of the Office of Special Needs, and of each military department, with respect to the standardization and efficacy of policies and programs for military dependent students with special needs.
+&emsp;&emsp;"(B) Improvements to the policies of the Office of Special Needs, and of each military department, with respect to the standardization and efficacy ofpolicies and programs for military dependent students with special needs.
 
 &emsp;"(3)
 

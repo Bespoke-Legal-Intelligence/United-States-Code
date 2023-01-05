@@ -26,21 +26,23 @@ The Secretary shall furnish to the Council an executive secretary and such secre
 
 #### (e) Termination
 
-Section 14(a) of the Federal Advisory Committee Act (relating to termination) shall not apply to the Council.
+Section 1013(a) of title 5 (relating to termination) shall not apply to the Council.
 
-(Pub. L. 93–406, title I, §512, Sept. 2, 1974, 88 Stat. 895.)
+(Pub. L. 93–406, title I, §512, Sept. 2, 1974, 88 Stat. 895; Pub. L. 117–286, §4(a)(189), Dec. 27, 2022, 136 Stat. 4326.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2), (b), was in the original "this Act", meaning Pub. L. 93–406, knownas the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2), (b), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Section 1143(b) of this title, referred to in subsec. (b), was omitted from the Code.
 
 Section 5703 of title 5, referred to in subsec. (d)(2), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–286 substituted "Section 1013(a) of title 5 (relating to termination)" for "Section 14(a) of the Federal Advisory Committee Act (relating to termination)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

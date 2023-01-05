@@ -4,11 +4,11 @@ A drug or device shall be deemed to be misbranded—
 
 #### (a) False or misleading label
 
-(1) If its labeling is false or misleading in any particular. Health care economic information provided to a payor, formulary committee, or other similar entity with knowledge and expertise in the area of health care economic analysis, carrying out its responsibilities for the selection of drugs for coverage or reimbursement, shall not be considered to be false or misleading under this paragraph if the health care economic information relates to an indication approved under section 355 of this title or under section 262(a) of title 42 for such drug, is based on competent and reliable scientific evidence, and includes, where applicable, a conspicuous and prominent statement describing any material differences between the health care economic information and the labeling approved for the drug under section 355 of this title or under section 262 of title 42. The requirements set forth in section 355(a) of this title or in subsections (a) and (k) of section 262 of title 42 shall not apply to health care economic information provided to such a payor, committee, or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request.
+(1) If its labeling is false or misleading in any particular. Health care economic information provided to a payor, formulary committee, or other similar entity with knowledge and expertise in the area of health care economic analysis, carrying out its responsibilities for the selection of drugs or devices for coverage or reimbursement, shall not be considered to be false or misleading under this paragraph if the health care economic information relates to an indication approved under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 for such drug or device, is based on competent and reliable scientific evidence, and includes, where applicable, a conspicuous and prominent statement describing any material differences between the health care economic information and the labeling approved for the drug or device under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42. The requirements set forth in section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 shall not apply to health care economic information provided to such a payor, committee, or entity in accordance with this paragraph. Information that is relevant to the substantiation of the health care economic information presented pursuant to this paragraph shall be made available to the Secretary upon request.
 
 (2)(A) For purposes of this paragraph,<sup>1</sup> the term "health care economic information" means any analysis (including the clinical data, inputs, clinical or other assumptions, methods, results, and other components underlying or comprising the analysis) that identifies, measures, or describes the economic consequences, which may be based on the separate or aggregated clinical consequences of the represented health outcomes, of the use of a drug. Such analysis may be comparative to the use of another drug, to another health care intervention, or to no intervention.
 
-(B) Such term does not include any analysis that relates only to an indication that is not approved under section 355 of this title or under section 262 of title 42 for such drug.
+(B) Such term does not include any analysis that relates only to an indication that is not approved under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 for such drug.
 
 #### (b) Package form; contents of label
 
@@ -16,7 +16,7 @@ If in package form unless it bears a label containing (1) the name and place of 
 
 #### (c) Prominence of information on label
 
-If any word, statement, or other information required by or under authority of this chapter toappear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
+If any word, statement, or other information required by or under authority of this chapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use.
 
 #### (d) Repealed. Pub. L. 105–115, title I, §126(b), Nov. 21, 1997, 111 Stat. 2327
 
@@ -44,7 +44,7 @@ Unless its labeling bears (1) adequate directions for use; and (2) such adequate
 
 #### (g) Representations as recognized drug; packing and labeling; inconsistent requirements for designation of drug
 
-If it purports to be a drug the name of which is recognized in an official compendium, unless it is packaged and labeled as prescribed therein. The method of packing may be modified withthe consent of the Secretary. Whenever a drug is recognized in both the United States Pharmacopoeia and the Homoeopathic Pharmacopoeia of the United States, it shall be subject to the requirements of the United States Pharmacopoeia with respect to packaging and labeling unless it is labeled and offered for sale as a homoeopathic drug, in which case it shall be subject to the provisions of the Homoeopathic Pharmacopoeia of the United States, and not those of the United States Pharmacopoeia, except that in the event of inconsistency between the requirements of this paragraph and those of paragraph (e) as to the name by which the drug or its ingredients shall be designated, the requirements of paragraph (e) shall prevail.
+If it purports to be a drug the name of which is recognized in an official compendium, unless it is packaged and labeled as prescribed therein. The method of packing may be modified with the consent of the Secretary. Whenever a drug is recognized in both the United States Pharmacopoeia and the Homoeopathic Pharmacopoeia of the United States, it shall be subject to the requirements of the United States Pharmacopoeia with respect to packaging and labeling unless it is labeled and offered for sale as a homoeopathic drug, in which case it shall be subject to the provisions of the Homoeopathic Pharmacopoeia of the United States, and not those of the United States Pharmacopoeia, except that in the event of inconsistency between the requirements of this paragraph and those of paragraph (e) as to the name by which the drug or its ingredients shall be designated, the requirements of paragraph (e) shall prevail.
 
 #### (h) Deteriorative drugs; packing and labeling
 
@@ -78,7 +78,7 @@ If it is a drug and its packaging or labeling is in violation of an applicable r
 
 #### (q) Restricted devices using false or misleading advertising or used in violation of regulations
 
-In the case of any restricted device distributed or offered for sale in any State, if (1) its advertising is false or misleading in any particular, or (2) it is sold, distributed, or used in violation ofregulations prescribed under section 360j(e) of this title.
+In the case of any restricted device distributed or offered for sale in any State, if (1) its advertising is false or misleading in any particular, or (2) it is sold, distributed, or used in violation of regulations prescribed under section 360j(e) of this title.
 
 #### (r) Restricted devices not carrying requisite accompanying statements in advertisements and other descriptive printed matter
 
@@ -122,7 +122,7 @@ If it is a drug subject to an approved risk evaluation and mitigation strategy p
 
 #### (z) Postmarket studies and clinical trials; new safety information in labeling
 
-If it is a drug, and the responsible person (as such term is used in section 355(o) of this title) is in violation of a requirement establishedunder paragraph (3) (relating to postmarket studies and clinical trials) or paragraph (4) (relating to labeling) of section 355(o) of this title with respect to such drug.
+If it is a drug, and the responsible person (as such term is used in section 355(o) of this title) is in violation of a requirement established under paragraph (3) (relating to postmarket studies and clinical trials) or paragraph (4) (relating to labeling) of section 355(o) of this title with respect to such drug.
 
 #### (aa) Unpaid fees; failure to submit identifying information
 
@@ -148,7 +148,63 @@ If it is a nonprescription drug that is subject to section 355h of this title, i
 
 If it is a drug and it was manufactured, prepared, propagated, compounded, or processed in a facility for which fees have not been paid as required by section 379j–72 of this title.
 
-(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441; Pub. L. 109–462, §2(d), Dec. 22, 2006, 120 Stat. 3472; Pub. L. 110–85, title IX, §§901(d)(3)(A), (6), 902(a), 906(a), Sept. 27, 2007, 121 Stat. 940, 942, 943, 949; Pub. L. 112–144, title III, §306, title VII, §§702(a), 714(c), July 9, 2012, 126 Stat. 1024, 1065, 1074; Pub. L. 112–193, §2(a), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 113–54, title I, §103(b), title II, §206(b), Nov. 27, 2013, 127 Stat. 597, 639; Pub. L. 114–255, div. A, title III, §§3037, 3044(b)(2), Dec. 13, 2016, 130 Stat. 1105, 1121; Pub. L. 115–234, title III, §303(a), Aug. 14, 2018, 132 Stat. 2436; Pub. L. 116–136, div. A, title III, §3852, Mar. 27, 2020, 134 Stat. 454.)
+#### (gg) Product information prior to approval
+
+(1) Unless its labeling bears adequate directions for use in accordance with paragraph (f), except that (in addition to drugs or devices that conform with exemptions pursuant to such paragraph) no drug or device shall be deemed to be misbranded under such paragraph through the provision of truthful and not misleading product information to a payor, formulary committee, or other similar entity with knowledge and expertise in the area of health care economic analysis carrying out its responsibilities for the selection of drugs or devices for coverage or reimbursement if the product information relates to an investigational drug or device or investigational use of a drug or device that is approved, cleared, granted marketing authorization, or licensed under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 (as applicable), provided—
+
+&emsp;(A) the product information includes—
+
+&emsp;&emsp;(i) a clear statement that the investigational drug or device or investigational use of a drug or device has not been approved, cleared, granted marketing authorization, or licensed under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 (as applicable) and that the safety and effectiveness of such drug or device for such use has not been established;
+
+&emsp;&emsp;(ii) information related to the stage of development of the drug or device involved, such as—
+
+&emsp;&emsp;&emsp;(I) the status of any study or studies in which the investigational drug or device or investigational use is being investigated;
+
+&emsp;&emsp;&emsp;(II) how the study or studies relate to the overall plan for the development of the drug or device; and
+
+&emsp;&emsp;&emsp;(III) whether an application, premarket notification, or request for classification for the investigational drug or device or investigational use has been submitted to the Secretary and when such a submission is planned;
+
+&emsp;&emsp;(iii) in the case of information that includes factual presentations of results from studies, which shall not be selectively presented, a description of—
+
+&emsp;&emsp;&emsp;(I) all material aspects of study design, methodology, and results; and
+
+&emsp;&emsp;&emsp;(II) all material limitations related to the study design, methodology, and results;
+
+&emsp;&emsp;(iv) where applicable, a prominent statement disclosing the indication or indications for which the Secretary has approved, granted marketing authorization, cleared, or licensed the product pursuant to section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42, and a copy of the most current required labeling; and
+
+&emsp;&emsp;(v) updated information, if previously communicated information becomes materially outdated as a result of significant changes or as a result of new information regarding the product or its review status; and
+
+&emsp;(B) the product information does not include—
+
+&emsp;&emsp;(i) information that represents that an unapproved product—
+
+&emsp;&emsp;&emsp;(I) has been approved, cleared, granted marketing authorization, or licensed under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42 (as applicable); or
+
+&emsp;&emsp;&emsp;(II) has otherwise been determined to be safe or effective for the purpose or purposes for which the drug or device is being studied; or
+
+&emsp;&emsp;(ii) information that represents that an unapproved use of a drug or device that hasbeen so approved, granted marketing authorization, cleared, or licensed—
+
+&emsp;&emsp;&emsp;(I) is so approved, granted marketing authorization, cleared, or licensed; or
+
+&emsp;&emsp;&emsp;(II) that the product is safe or effective for the use or uses for which the drug or device is being studied.
+
+(2) For purposes of this paragraph, the term "product information" includes—
+
+&emsp;(A) information describing the drug or device (such as drug class, device description, and features);
+
+&emsp;(B) information about the indication or indications being investigated;
+
+&emsp;(C) the anticipated timeline for a possible approval, clearance, marketing authorization, or licensure pursuant to section 355, 360(k), 360c, or 360e of this title or section 262 of title 42;
+
+&emsp;(D) drug or device pricing information;
+
+&emsp;(E) patient utilization projections;
+
+&emsp;(F) product-related programs or services; and
+
+&emsp;(G) factual presentations of results from studies that do not characterize or make conclusions regarding safety or efficacy.
+
+(June 25, 1938, ch. 675, §502, 52 Stat. 1050; June 23, 1939, ch. 242, §3, 53 Stat. 854; Dec. 22, 1941, ch. 613, §2, 55 Stat. 851; July 6, 1945, ch. 281, §2, 59 Stat. 463; Mar. 10, 1947, ch. 16, §2, 61 Stat. 11; July 13, 1949, ch. 305, §1, 63 Stat. 409; Aug. 5, 1953, ch. 334, §1, 67 Stat. 389; Pub. L. 86–618, title I, §102(b)(2), July 12, 1960, 74 Stat. 398; Pub. L. 87–781, title I, §§105(c), 112(a), (b), 131(a), title III, §305, Oct. 10, 1962, 76 Stat. 785, 790, 791, 795; Pub. L. 90–399, §105(a), July 13, 1968, 82 Stat. 352; Pub. L. 91–601, §6(d), formerly §7(d), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 94–295, §§3(e), 4(b)(2), 5(a), 9(b)(2), May 28, 1976, 90 Stat. 577, 580, 583; Pub. L. 95–633, title I, §111, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 102–300, §3(a)(2), June 16, 1992, 106 Stat. 239; Pub. L. 102–571, title I, §107(9), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(m), Aug. 13, 1993, 107 Stat. 777; Pub. L. 105–115, title I, §§114(a), 125(a)(2)(B), (b)(2)(D), 126(b), title IV, §412(c), Nov. 21, 1997, 111 Stat. 2312, 2325, 2327, 2375; Pub. L. 107–250, title II, §206, title III, §§301(a), 302(a)(1), Oct. 26, 2002, 116 Stat. 1613, 1616; Pub. L. 108–214, §2(b)(2)(B), Apr. 1, 2004, 118 Stat. 575; Pub. L. 108–282, title I, §102(b)(5)(E), Aug. 2, 2004, 118 Stat. 902; Pub. L. 109–43, §2(c)(1), Aug. 1, 2005, 119 Stat. 441; Pub. L. 109–462, §2(d), Dec. 22, 2006, 120 Stat. 3472; Pub. L. 110–85, title IX, §§901(d)(3)(A), (6), 902(a), 906(a), Sept. 27, 2007, 121 Stat. 940, 942, 943, 949; Pub. L. 112–144, title III, §306, title VII, §§702(a), 714(c), July 9, 2012, 126 Stat. 1024, 1065, 1074; Pub. L. 112–193, §2(a), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 113–54, title I, §103(b), title II, §206(b), Nov. 27, 2013, 127 Stat. 597, 639; Pub. L. 114–255, div. A, title III, §§3037, 3044(b)(2), Dec. 13, 2016, 130 Stat. 1105, 1121; Pub. L. 115–234, title III, §303(a), Aug. 14, 2018, 132 Stat. 2436; Pub. L. 116–136, div. A, title III, §3852, Mar. 27, 2020, 134 Stat. 454; Pub. L. 117–328, div. FF, title III, §3630(a), Dec. 29, 2022, 136 Stat. 5893.)
 
 #### Applicability of Amendment
 
@@ -157,6 +213,12 @@ If it is a drug and it was manufactured, prepared, propagated, compounded, or pr
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–328, §3630(a)(1)–(3), substituted "drugs or devices for coverage" for "drugs for coverage", "drug or device" for "drug" in two places, "under section 355 of this title or under section 262(a) of title 42" for "under section 355 of this title or under section 262(a) of title 42", "under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42" for "under section 355 of this title or under section 262 of title 42", and "in section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42" for "in section 355(a) of this title or in subsections (a) and (k) of section 262 of title 42".
+
+Subsec. (a)(2)(B). Pub. L. 117–328, §3630(a)(2), substituted "under section 355, 360(k), 360c(f)(2), or 360e of this title or section 262 of title 42" for "under section 355 of this title or under section 262 of title 42".
+
+Subsec. (gg). Pub. L. 117–328, §3630(a)(4), added subsec. (gg).
 
 <b>2020</b>—Subsecs. (ee), (ff). Pub. L. 116–136 added subsecs. (ee) and (ff).
 
@@ -178,7 +240,7 @@ Par. (aa). Pub. L. 112–193 substituted "379j–42(a)(4)" for "379j–41(a)(4)"
 
 Pub. L. 112–144, §306, added par. (aa).
 
-<b>2007</b>—Par. (n). Pub. L. 110–85, §906(a), inserted "and in the case of published direct-to-consumer advertisements the following statement printed in conspicuoustext: 'You are encouraged to report negative side effects of prescription drugs to the FDA. Visit www.fda.gov/medwatch, or call 1–800-FDA-1088.'," after "section 371(a) of this title,".
+<b>2007</b>—Par. (n). Pub. L. 110–85, §906(a), inserted "and in the case of published direct-to-consumer advertisements the following statement printed in conspicuous text: 'You are encouraged to report negative side effects of prescription drugs to the FDA. Visit www.fda.gov/medwatch, or call 1–800-FDA-1088.'," after "section 371(a) of this title,".
 
 Pub. L. 110–85, §901(d)(6), substituted "section 371(a) of this title" for "the procedure specified in section 371(e) of this title".
 
@@ -384,7 +446,7 @@ In general.—In the case of direct-to-consumer television advertisements, the S
 
 "(2)
 
-Content.—As part of the study under paragraph (1), such Secretary shall consider whether the information in the statement described in paragraph (1) would detract from the presentation of risk information in a direct-to-consumer television advertisement. If such Secretary determines the inclusion of such statement is appropriate in direct-to-consumer television advertisements, such Secretary shall issue regulations requiring the implementation of such statement in direct-to-consumer television advertisements, including determining a reasonable length of time for displaying the statement in such advertisements. The Secretaryshall report to the appropriate committees of Congress the findings of such study and any plans to issue regulations under this paragraph."
+Content.—As part of the study under paragraph (1), such Secretary shall consider whether the information in the statement described in paragraph (1) would detract from the presentation of risk information in a direct-to-consumer television advertisement. If such Secretary determines the inclusion of such statement is appropriate in direct-to-consumer television advertisements, such Secretary shall issue regulations requiring the implementation of such statement in direct-to-consumer television advertisements, including determining a reasonable length of time for displaying the statement in such advertisements. The Secretary shall report to the appropriate committees of Congress the findings of such study and any plans to issue regulations under this paragraph."
 
 Pub. L. 108–173, title I, §107(f), Dec. 8, 2003, 117 Stat. 2171, directed the Secretary of Health and Human Services to undertake a study of how to make prescription pharmaceutical information, including drug labels and usage instructions, accessible to blind and visually-impaired individuals, and to submit a report to Congress not later than 18 months after Dec. 8, 2003.
 

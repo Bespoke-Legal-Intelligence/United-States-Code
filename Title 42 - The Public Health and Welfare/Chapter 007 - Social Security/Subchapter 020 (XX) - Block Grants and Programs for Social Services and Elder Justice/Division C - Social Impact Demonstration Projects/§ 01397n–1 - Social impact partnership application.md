@@ -28,7 +28,7 @@ To qualify as a social impact partnership project under this division, a project
 
 &emsp;(10) Reducing incidences and adverse consequences of child abuse and neglect.
 
-&emsp;(11) Reducing the number of youth in foster care by increasing adoptions, permanentguardianship arrangements, reunifications, or placements with a fit and willing relative, or by avoiding placing children in foster care by ensuring they can be cared for safely in their own homes.
+&emsp;(11) Reducing the number of youth in foster care by increasing adoptions, permanent guardianship arrangements, reunifications, or placements with a fit and willing relative, or by avoiding placing children in foster care by ensuring they can be cared for safely in their own homes.
 
 &emsp;(12) Reducing the number of children and youth in foster care residing in group homes, child care institutions, agency-operated foster homes, or other non-family foster homes, unless it is determined that it is in the interest of the child's long-term health, safety, or psychological well-being to not be placed in a family foster home.
 
@@ -66,7 +66,7 @@ The notice described in subsection (a) shall require a State or local government
 
 &emsp;(6) Projected Federal, State, and local government costs and other costs to conduct the project.
 
-&emsp;(7) Projected Federal, State, and local government savings and other savings, including an estimate of the savings to the Federal Government, on a program-by-program basis and in the aggregate, if the project is implemented and the outcomes are achieved as a result of the intervention.
+&emsp;(7) Projected Federal, State, and local government savings and other savings, including an estimate of the savings to the Federal Government, on a program-by-program basis andin the aggregate, if the project is implemented and the outcomes are achieved as a result of the intervention.
 
 &emsp;(8) If savings resulting from the successful completion of the project are estimated to accrue to the State or local government, the likelihood of the State or local government to realize those savings.
 

@@ -1,6 +1,6 @@
 ### §5512. Use of available balances of expired appropriations
 
-(a) Subject to section 5511 of this title, available balances of expired appropriations for theHouse of Representatives shall be available to the House of Representatives—
+(a) Subject to section 5511 of this title, available balances of expired appropriations for the House of Representatives shall be available to the House of Representatives—
 
 &emsp;(1) for the payment of a death gratuity which is specifically appropriated by law and which is made in connection with the death of an employee of the House of Representatives, without regard to the fiscal year in which the payment is made; and
 

@@ -88,7 +88,7 @@ Application to Certain Current Employees.—In the case of a nonappropriated fun
 
 "(c)
 
-Nonappropriated Fund Instrumentality Employee Defined.—For purposes of this section, the term 'nonappropriated fund instrumentality employee'has the meaning given such term in section 1587(a)(1) of title 10, United States Code."
+Nonappropriated Fund Instrumentality Employee Defined.—For purposes of this section, the term 'nonappropriated fund instrumentality employee' has the meaning given such term in section 1587(a)(1) of title 10, United States Code."
 
 #### Uniform Health Benefits Program for Employees of Department of Defense Assigned to Nonappropriated Fund Instrumentalities
 
@@ -106,7 +106,7 @@ Progress Report.—Not later than March 15, 1995, the Secretary of Defense shall
 
 Treatment of Program as Federal Health Benefit Program.—(1) No State tax, fee, other monetary payment, or State health plan requirement, may be imposed, directly or indirectly, on the Nonappropriated Fund Uniform Health Benefits Program of the Department of Defense, or on a carrier or an underwriting or plan administration contractor of the Program, to the same extent as such prohibition applies to the health insurance program authorized by chapter 89 of title 5, United States Code, under section 8909(f) of such title.
 
-"(2) Paragraph (1) shall not be construed to exempt the Nonappropriated Fund Uniform Health Benefits Program of the Department of Defense, or any carrier or underwriting or plan administration contractor of the Program from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to, or realized by, the Program or by such carrier or contractor from business conducted under the Program, so long as the tax, fee, or payment is applicable to a broad range of business activity.
+"(2) Paragraph (1) shall not be construed to exempt the Nonappropriated Fund Uniform Health Benefits Program of the Department of Defense, or any carrier or underwriting or plan administration contractor of the Program from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to, or realized by, theProgram or by such carrier or contractor from business conducted under the Program, so long as the tax, fee, or payment is applicable to a broad range of business activity.
 
 "(3) In this subsection, the term 'State' means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and any political subdivision or other non-Federal authority thereof."
 

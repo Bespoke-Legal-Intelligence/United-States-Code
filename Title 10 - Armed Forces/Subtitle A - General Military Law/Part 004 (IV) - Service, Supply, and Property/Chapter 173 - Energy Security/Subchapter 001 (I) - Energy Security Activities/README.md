@@ -30,7 +30,7 @@ Pub. L. 116–283, div. A, title III, §316(b), div. B, title XXVIII, §2805(b),
 
 <b>2017</b>—Pub. L. 115–91, div. B, title XXVIII, §2831(b), Dec. 12, 2017, 131 Stat. 1857, as amended by Pub. L. 115–232, div. A, title X, §1081(c)(6), Aug. 13, 2018, 132 Stat. 1985, which directed amendment of the analysis at the beginning of this chapter by adding item 2911 and striking out former item 2911 "Energy performance goals and master plan for the Department of Defense", was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
-<b>2016</b>—Pub. L. 114–328, div. B, title XXVIII, §2805(a)(2), Dec. 23, 2016, 130 Stat. 2714, which directed amendmentof the analysis at the beginning of this chapter by adding item 2914 and striking out former item 2914 "Energy conservation construction projects", was executed in the analysis for this subchapter to reflect the probable intent of Congress.
+<b>2016</b>—Pub. L. 114–328, div. B, title XXVIII, §2805(a)(2), Dec. 23, 2016, 130 Stat. 2714, which directed amendment of the analysis at the beginning of this chapter by adding item 2914 and striking out former item 2914 "Energy conservation construction projects", was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
 <b>2011</b>—Pub. L. 111–383, div. B, title XXVIII, §2832(c)(2), Jan. 7, 2011, 124 Stat. 4470, added items 2911 and 2915 and struck out former items 2911 "Energy performance goals and plan for Department of Defense" and 2915 "New construction: use of renewable forms of energy and energy efficient products".
 

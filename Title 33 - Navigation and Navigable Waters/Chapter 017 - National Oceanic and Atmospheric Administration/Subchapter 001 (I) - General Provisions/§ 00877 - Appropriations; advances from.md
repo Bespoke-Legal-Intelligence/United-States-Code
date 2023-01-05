@@ -10,7 +10,7 @@ Advances of money from available appropriations may be made to the National Ocea
 
 Section was a provision of the Sundry Civil Appropriation Act of July 1, 1918.
 
-Section was formerly classified to section 550 of Title 31 prior to the general revision and enactment of Title31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877.
+Section was formerly classified to section 550 of Title 31 prior to the general revision and enactment of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 

@@ -16,7 +16,7 @@ Minimum Standards.—The standards established by the Secretary under subsection
 
 (c)
 
-Certification Requirement.—No vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who is certified as having successfully completed training in the prevention, detection, evidence preservation, and reporting of criminal activities in the international maritime environment on passenger vessels under subsection (a).
+Certification Requirement.—No vessel to which this section applies may enter a United States port on a voyage (or voyage segment) on which a United States citizen is a passenger unless there is at least 1 crewmember onboard who is certified as having successfully completed training in the prevention, detection, evidencepreservation, and reporting of criminal activities in the international maritime environment on passenger vessels under subsection (a).
 
 (d)
 
@@ -47,6 +47,16 @@ Subsec. (e). Pub. L. 115–232, §3543(b)(3), (4), redesignated subsec. (f) as (
 Subsec. (f). Pub. L. 115–232, §3543(b)(3), redesignated subsec. (f) as (e).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Exemptions for Certain Passenger Vessels
+
+Pub. L. 117–263, div. K, title CXV, §11510, Dec. 23, 2022, 136 Stat. 4137, provided that: "Notwithstanding any other provision of law, requirements authorized under sections 3508 and 3509 of title 46, United States Code, shall not apply to any passenger vessel, as defined in section 2101 of such title—
+
+&emsp;"(1) that carries in excess of 250 passengers;
+
+&emsp;"(2) that is, or was, in operation exclusively within the inland rivers and internal waters of the United States on voyages inside the Boundary Line, as defined in section 103 of such title, on or before July 27, 2030; and
+
+&emsp;"(3) the operators or charterers of which operated any documented vessels with a coastwise endorsement prior to January 1, 2024."
 
 #### Definitions
 

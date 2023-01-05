@@ -54,7 +54,7 @@ Section was formerly classified in a note under section 402 of this title prior 
 
 Subsec. (d)(1)(D). Pub. L. 112–87, §421(b), added subpar. (D).
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–177, §377(c)(1), substituted "officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40" for "special policemen of the General Services Administration perform under the first section of the Act entitled 'An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policemen for duty upon Federal property under the jurisdictionof the Federal Works Agency, and for other purposes' (40 U.S.C. 318)".
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–177, §377(c)(1), substituted "officers and agents of the Department of Homeland Security, as provided in section 1315(b)(2) of title 40" for "special policemen of the General Services Administration perform under the first section of the Act entitled 'An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policemen for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes' (40 U.S.C. 318)".
 
 Subsec. (b). Pub. L. 108–177, §377(c)(2), substituted "section 1315(c)(2) of title 40" for "the fourth section of the Act referred to in subsection (a) (40 U.S.C. 318c)".
 

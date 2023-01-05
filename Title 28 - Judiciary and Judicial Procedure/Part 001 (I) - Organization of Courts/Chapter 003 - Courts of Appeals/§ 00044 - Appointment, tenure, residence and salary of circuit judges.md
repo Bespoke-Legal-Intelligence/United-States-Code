@@ -8,7 +8,7 @@
 | :--- | ---: |
 | District of Columbia | 11&nbsp;&nbsp; |
 | First | 6&nbsp;&nbsp; |
-| Second | 13&nbsp;&nbsp; |
+| Second | 13   |
 | Third | 14&nbsp;&nbsp; |
 | Fourth | 15&nbsp;&nbsp; |
 | Fifth | 17&nbsp;&nbsp; |
@@ -54,7 +54,7 @@ Changes were made in phraseology.
 
 The effective date of the Federal Courts Improvement Act of 1982, referred to in subsec. (c), is the effective date of Pub. L. 97–164, Oct. 1, 1982. See Effective Date of 1982 Amendment note set out under section 171 of this title.
 
-Section 225 of the Federal Salary Act of 1967, referred to in subsec. (d), is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, as amended, which is classified to chapter 11 (§351 et seq.) of Title 2, The Congress.
+Section 225 of the Federal Salary Act of 1967, referred to in subsec. (d), is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, which is classified to chapter 11 (§351 et seq.) of Title 2, The Congress.
 
 #### <b>Editorial Notes</b>
 
@@ -64,7 +64,7 @@ Section 225 of the Federal Salary Act of 1967, referred to in subsec. (d), is se
 
 Pub. L. 110–177, §509(a)(1), substituted "11" for "12" in item relating to District of Columbia Circuit.
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–119 inserted at end "In each circuit (other than the Federal judicial circuit) there shall be at least one circuit judge in regular active service appointed from the residents of each state in that circuit."
+<b>1997</b>—Subsec. (c). Pub. L. 105–119 inserted at end "In each circuit (other than the Federal judicial circuit)there shall be at least one circuit judge in regular active service appointed from the residents of each state in that circuit."
 
 <b>1991</b>—Subsec. (c). Pub. L. 102–198 substituted "the Federal Courts Improvement Act of 1982" for "this Act".
 
@@ -263,7 +263,7 @@ Ex. Ord. No. 11972, Feb. 14, 1977, 42 F.R. 9659, as amended by Ex. Ord. No. 1199
 
 #### Executive Order No. 12059
 
-Ex. Ord. No. 12059, May 11, 1978, 43 F.R. 20949, as amended by Ex. Ord. No. 12097, Nov. 8, 1978, 43 F.R.52455, which established the United States Circuit Judge Nominating Commission and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12305, May 5, 1981, 46 F.R. 25421, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12059, May 11, 1978, 43 F.R. 20949, as amended by Ex. Ord. No. 12097, Nov. 8, 1978, 43 F.R. 52455, which established the United States Circuit Judge Nominating Commission and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12305, May 5, 1981, 46 F.R. 25421, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13300. Facilitating the Administration of Justice in the Federal Courts
 

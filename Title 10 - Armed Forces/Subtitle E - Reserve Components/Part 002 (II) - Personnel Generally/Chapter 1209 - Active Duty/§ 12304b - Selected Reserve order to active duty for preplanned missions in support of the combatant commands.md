@@ -54,7 +54,7 @@ Policies and Procedures.—The Secretaries of the military departments shall pre
 
 Defense Budget Materials Defined.—In this section, the term "defense budget materials" has the meaning given that term in section 231(f)(2) of this title.
 
-(Added Pub. L. 112–81, div. A, title V, §516(a)(1), Dec. 31, 2011, 125 Stat. 1395; amended Pub. L. 112–239, div. A, title X, §1014(b), Jan. 2, 2013, 126 Stat. 1908.)
+(Added Pub. L. 112–81, div. A, title V, §516(a)(1), Dec. 31, 2011, 125 Stat. 1395; amended Pub. L.112–239, div. A, title X, §1014(b), Jan. 2, 2013, 126 Stat. 1908.)
 
 #### <b>Editorial Notes</b>
 

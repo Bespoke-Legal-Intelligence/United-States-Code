@@ -8,7 +8,7 @@ Employees of the Division of Accounts and Disbursements may be detailed by the S
 
 #### References in Text
 
-The Division of Accounts and Disbursements, referred to in text, was a division of the Department of Agriculture at the time of enactment of this section. The activities of that Division are now performed by the various departmental offices in the Department of Agriculture under the Assistant Secretary of Agriculture for Administration. In a similar consolidation of operations, but one carried out in a different department,the Division of Disbursement and certain other offices and agencies and their functions in the Treasury Department were consolidated into the Fiscal Service of the Treasury Department by 1940 Reorg. Plan No. III, §1(a), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees.
+The Division of Accounts and Disbursements, referred to in text, was a division of the Department of Agriculture at the time of enactment of this section. The activities of that Division are now performed by the various departmental offices in the Department of Agriculture under the Assistant Secretary of Agriculture for Administration. In a similar consolidation of operations, but one carried out in a different department, the Division of Disbursement and certain other offices and agencies and their functions in the Treasury Department were consolidated into the Fiscal Service of the Treasury Department by 1940 Reorg. Plan No. III, §1(a), eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 

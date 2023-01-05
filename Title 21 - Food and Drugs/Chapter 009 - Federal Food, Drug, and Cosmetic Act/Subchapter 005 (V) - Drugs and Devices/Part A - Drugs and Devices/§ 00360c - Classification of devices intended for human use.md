@@ -20,7 +20,7 @@ Class I, General Controls.—
 
 &emsp;(B)
 
-Class II, Special Controls.—A device which cannot be classified as a class I device because the general controls by themselves are insufficient to provide reasonable assurance of the safety and effectiveness of the device, and for which there is sufficient information to establish special controls to provide such assurance, including the promulgation of performance standards, postmarket surveillance, patient registries, development and dissemination of guidelines (including guidelines for the submission of clinical data in premarket notification submissions in accordance with section 360(k) of this title), recommendations, and other appropriate actions as the Secretary deems necessary to provide such assurance. For a device that is purported or represented to be for a use in supporting or sustaining human life, the Secretary shall examine and identify the special controls, if any, that are necessary to provide adequate assurance of safety and effectiveness and describe how such controls provide such assurance.
+Class II, Special Controls.—A device which cannot be classified as a class I device because the general controls by themselves are insufficient to provide reasonable assurance of the safety and effectiveness of the device, and for which there is sufficient information to establish special controls to provide such assurance, including the promulgation of performance standards, postmarket surveillance, patient registries, development and dissemination of guidelines (including guidelines for the submission of clinical data in premarket notification submissions in accordance with section 360(k) of this title), recommendations, and other appropriate actions as the Secretary deems necessary to provide such assurance. For a device that is purported or represented to be for a use in supporting or sustaining human life, the Secretary shall examine and identify the special controls, if any,that are necessary to provide adequate assurance of safety and effectiveness and describe how such controls provide such assurance.
 
 &emsp;(C)
 
@@ -74,9 +74,9 @@ Class III, Premarket Approval.—A device which because—
 
 &emsp;(B) providing notice to the manufacturers and importers of such devices to enable them to prepare for the application of such requirements to devices manufactured or imported by them,
 
-> the Secretary shall classify all such devices (other than devices classified by subsection (f)) into the classes established by subsection (a). For the purpose of securing recommendations with respect to the classification of devices, the Secretary shall establish panels of experts or use panels of experts established before May 28, 1976, or both. Section 14 of the Federal Advisory Committee Act shall not apply to the duration of a panel established under this paragraph.
+> the Secretary shall classify all such devices (other than devices classified by subsection (f))into the classes established by subsection (a). For the purpose of securing recommendations with respect to the classification of devices, the Secretary shall establish panels of experts or use panels of experts established before May 28, 1976, or both. Section 1013 of title 5 shall not apply to the duration of a panel established under this paragraph.
 
-(2) The Secretary shall appoint to each panel established under paragraph (1) persons who are qualified by training and experience to evaluate the safety and effectiveness of the devices to be referred to the panel and who, to the extent feasible, possess skill in the use of, or experience in the development, manufacture, or utilization of, such devices. The Secretary shall make appointments to each panel so that each panel shall consist of members with adequately diversifiedexpertise in such fields as clinical and administrative medicine, engineering, biological and physical sciences, and other related professions. In addition, each panel shall include as nonvoting members a representative of consumer interests and a representative of interests of the device manufacturing industry. Scientific, trade, and consumer organizations shall be afforded an opportunity to nominate individuals for appointment to the panels. No individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter may be a member of any panel. The Secretary shall designate one of the members of each panel to serve as chairman thereof.
+(2) The Secretary shall appoint to each panel established under paragraph (1) persons who are qualified by training and experience to evaluate the safety and effectiveness of the devices to be referred to the panel and who, to the extent feasible, possess skill in the use of, or experience in the development, manufacture, or utilization of, such devices. The Secretary shall make appointments to each panel so that each panel shall consist of members with adequately diversified expertise in such fields as clinical and administrative medicine, engineering, biological and physical sciences, and other related professions. In addition, each panel shall include as nonvoting members a representative of consumer interests and a representative of interests of the device manufacturing industry. Scientific, trade, and consumer organizations shall be afforded an opportunity to nominate individuals for appointment to the panels. No individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter may be a member of any panel. The Secretary shall designate one of the members of each panel to serve as chairman thereof.
 
 (3) Panel members (other than officers or employees of the United States), while attending meetings or conferences of a panel or otherwise engaged in its business, shall be entitled to receive compensation at rates to be fixed by the Secretary, but not at rates exceeding the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day so engaged, including traveltime; and while so serving away from their homes or regular places of business each member may be allowed travel expenses (including per diem in lieu of subsistence) as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
 
@@ -124,11 +124,11 @@ Class III, Premarket Approval.—A device which because—
 
 (7) After receiving from a classification panel the conclusions and recommendations of the panel on a matter that the panel has reviewed, the Secretary shall review the conclusions and recommendations, shall make a final decision on the matter in accordance with section 360e(d)(2) of this title, and shall notify the affected persons of the decision in writing and, if the decision differs from the conclusions and recommendations of the panel, shall include the reasons for the difference.
 
-(8) A classification panel under this subsection shall not be subject to the annual chartering and annual report requirements of the Federal Advisory Committee Act.
+(8) A classification panel under this subsection shall not be subject to the annual charteringand annual report requirements of the <sup>1</sup> chapter 10 of title 5.
 
 #### (c) Classification panel organization and operation
 
-(1) The Secretary shall organize the panels according to the various fields of clinical medicine and fundamental sciences in which devices intended for human use are used. The Secretary shall refer a device to be classified under this section to an appropriate panel established or authorized to be used under subsection (b) for its review and for its recommendation respecting the classification of the device. The Secretary shall by regulation prescribe the procedure to be followed by the panels in making their reviews and recommendations. In making their reviewsof devices, the panels, to the maximum extent practicable, shall provide an opportunity for interested persons to submit data and views on the classification of the devices.
+(1) The Secretary shall organize the panels according to the various fields of clinical medicine and fundamental sciences in which devices intended for human use are used. The Secretary shall refer a device to be classified under this section to an appropriate panel established or authorized to be used under subsection (b) for its review and for its recommendation respecting the classification of the device. The Secretary shall by regulation prescribe the procedure to be followed by the panels in making their reviews and recommendations. In making their reviews of devices, the panels, to the maximum extent practicable, shall provide an opportunity for interested persons to submit data and views on the classification of the devices.
 
 (2)(A) Upon completion of a panel's review of a device referred to it under paragraph (1), the panel shall, subject to subparagraphs (B) and (C), submit to the Secretary its recommendation for the classification of the device. Any such recommendation shall (i) contain (I) a summary of the reasons for the recommendation, (II) a summary of the data upon which the recommendation is based, and (III) an identification of the risks to health (if any) presented by the device with respect to which the recommendation is made, and (ii) to the extent practicable, include a recommendation for the assignment of a priority for the application of the requirements of section 360d or 360e of this title to a device recommended to be classified in class II or class III.
 
@@ -166,7 +166,7 @@ Class III, Premarket Approval.—A device which because—
 
 &emsp;(III) in the case of reclassification from class III to class II, why general controls pursuant to subsection (a)(1)(A) and special controls pursuant to subsection (a)(1)(B) together are sufficient to provide a reasonable assurance of safety and effectiveness for such device.
 
-(ii) An order under this subsection changing the classification of a device from class III to class II may provide that such classification shall not take effect until the effective date ofa performance standard established under section 360d of this title for such device.
+(ii) An order under this subsection changing the classification of a device from class III to class II may provide that such classification shall not take effect until the effective date of a performance standard established under section 360d of this title for such device.
 
 (B) Authority to issue such administrative order shall not be delegated below the Director of the Center for Devices and Radiological Health, acting in consultation with the Commissioner.
 
@@ -208,9 +208,9 @@ Class III, Premarket Approval.—A device which because—
 
 (C) Within 30 days after the issuance of an order classifying a device under this paragraph, the Secretary shall publish a notice in the Federal Register announcing such classification.
 
-(3)(A) The Secretary may initiate the reclassification of a device classified into class III under paragraph (1) of this subsection or the manufacturer or importer of a device classified under paragraph (1) may petition the Secretary (in such form and manner as he shall prescribe) for the issuance of an order classifying the device in class I or class II. Within thirty days of the filing of such a petition, the Secretary shall notify the petitioner of any deficiencies in the petition which prevent the Secretary from making a decision on the petition.
+(3)(A) The Secretary may initiate the reclassification of a device classified into class III under paragraph (1) of this subsection or the manufacturer or importer of a device classified under paragraph (1) may petition the Secretary (in such form and manner as he shall prescribe) for the issuance of an order classifying the device in class I or class II. Within thirty days of the filing of such a petition, the Secretary shall notify the petitioner of any deficiencies in the petitionwhich prevent the Secretary from making a decision on the petition.
 
-(B)(i) Upon determining that a petition does not contain any deficiency which prevents the Secretary from making a decision on the petition, the Secretary may for good cause shown refer the petition to an appropriate panel established or authorized to be used under subsection (b). A panel to which such a petition has been referred shall not later than ninety days after the referral of the petition make a recommendation to the Secretary respecting approval or denial of the petition. Any such recommendation shall contain (I) a summary of the reasons for the recommendation, (II) a summary of the data upon which the recommendation is based, and (III) an identification of the risks to health (if any) presented by the device with respect to which the petition was filed. In the case of a petition for adevice which is intended to be implanted in the human body or which is purported or represented to be for a use in supporting or sustaining human life, the panel shall recommend that the petition be denied unless the panel determines that the classification in class III of the device is not necessary to provide reasonable assurance of its safety and effectiveness. If the panel recommends that such petition be approved, it shall in its recommendation to the Secretary set forth its reasons for such recommendation.
+(B)(i) Upon determining that a petition does not contain any deficiency which prevents the Secretary from making a decision on the petition, the Secretary may for good cause shown refer the petition to an appropriate panel established or authorized to be used under subsection (b). A panel to which such a petition has been referred shall not later than ninety days after the referral of the petition make a recommendation to the Secretary respecting approval or denial of the petition. Any such recommendation shall contain (I) a summary of the reasons for the recommendation, (II) a summary of the data upon which the recommendation is based, and (III) an identification of the risks to health (if any) presented by the device with respect to which the petition was filed. In the case of a petition for a device which is intended to be implanted in the human body or which is purported or represented to be for a use in supporting or sustaining human life, the panel shall recommend that the petition be denied unless the panel determines that the classification in class III of the device is not necessary to provide reasonable assurance of its safety and effectiveness. If the panel recommends that such petition be approved, it shall in its recommendation to the Secretary set forth its reasons for such recommendation.
 
 (ii) The requirements of paragraphs (1) and (2) of subsection (c) (relating to opportunities for submission of data and views and recommendations respecting priorities and exemptions from sections 360, 360i, and 360j(f) of this title) shall apply with respect to consideration by panels of petitions submitted under subparagraph (A).
 
@@ -244,7 +244,7 @@ Class III, Premarket Approval.—A device which because—
 
 (ii) The Secretary's response under section 360e(d) or section 360(n) of this title (as applicable) to an application or report described in clause (i) shall also contain the Secretary's granting or denial of the request for classification of the accessory involved.
 
-(iii) The Secretary's evaluation of an accessory under clause (i) shall constitute an orderestablishing a new classification for such accessory for the specified intended use or uses of such accessory and for any accessory with the same intended use or uses as such accessory.
+(iii) The Secretary's evaluation of an accessory under clause (i) shall constitute an order establishing a new classification for such accessory for the specified intended use or uses of such accessory and for any accessory with the same intended use or uses as such accessory.
 
 (D) For accessories that have been granted marketing authorization as part of a submission for another device with which the accessory involved is intended to be used, through an application for such other device under section 360e(c) of this title, a report under section 360(k) of this title, or a request for classification under paragraph (2) of this subsection, the following shall apply:
 
@@ -276,7 +276,7 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 &emsp;(i) has the same technological characteristics as the predicate device, or
 
-&emsp;(ii)(I) has different technological characteristics and the information submitted that the device is substantially equivalent to the predicate device contains information, including appropriate clinical or scientific data if deemed necessary by the Secretary or a person accredited under section 360m of this title, that demonstrates that the device is as safe and effective as a legally marketed device, and (II) does not raise different questions of safety and effectiveness than the predicate device.
+&emsp;(ii)(I) has different technological characteristics and the information submitted that the device is substantially equivalent to the predicate device contains information, including appropriate clinical or scientific data if deemed necessary by the Secretary or a person accredited under section 360m of this title, that demonstrates that the device is as safe and effective as a legally marketed device, and\(II) does not raise different questions of safety and effectiveness than the predicate device.
 
 (B) For purposes of subparagraph (A), the term "different technological characteristics" means, with respect to a device being compared to a predicate device, that there is a significant change in the materials, design, energy source, or other features of the device from those of the predicate device.
 
@@ -314,13 +314,13 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 #### (j) Training and oversight of least burdensome requirements
 
-#### (1) The Secretary shall—
+(1) The Secretary shall—
 
 &emsp;(A) ensure that each employee of the Food and Drug Administration who is involved in the review of premarket submissions, including supervisors, receives training regarding the meaning and implementation of the least burdensome requirements under subsections (a)(3)(D) and (i)(1)(D) of this section and section 360e(c)(5) of this title; and
 
 &emsp;(B) periodically assess the implementation of the least burdensome requirements, including the employee training under subparagraph (A), to ensure that the least burdensome requirements are fully and consistently applied.
 
-#### (2) Not later than 18 months after December 13, 2016, the ombudsman for any organizational unit of the Food and Drug Administration responsible for the premarket review of devices shall—
+(2) Not later than 18 months after December 13, 2016, the ombudsman for any organizational unit of the Food and Drug Administration responsible for the premarket review of devices shall—
 
 &emsp;(A) conduct an audit of the training described in paragraph (1)(A), including the effectiveness of such training in implementing the least burdensome requirements;
 
@@ -336,15 +336,25 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 &emsp;&emsp;(ii) on the Internet website of the Food and Drug Administration.
 
-(June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337,2339, 2340, 2350; Pub. L. 107–250, title II, §208, Oct. 26, 2002, 116 Stat. 1613; Pub. L. 112–144, title VI, §§602, 607–608(a)(2)(A), July 9, 2012, 126 Stat. 1051, 1054–1056; Pub. L. 114–255, div. A, title III, §§3055, 3058(a), 3060(c), 3101(a)(2)(I), Dec. 13, 2016, 130 Stat. 1127, 1128, 1133, 1154; Pub. L. 115–52, title VII, §707(a), (b), title IX, §901(h), Aug. 18, 2017, 131 Stat. 1060, 1062, 1077.)
+#### (k) Dual submission for certain devices
+
+For a device authorized for emergency use under section 360bbb–3 of this title for which, in accordance with section 360bbb–3(m) of this title, the Secretary has deemed a laboratory examination or procedure associated with such device to be in the category of examinations and procedures described in section 263a(d)(3) of title 42, the sponsor of such device may, when submitting a request for classification under subsection (f)(2), submit a single submission containing—
+
+&emsp;(1) the information needed for such a request; and
+
+&emsp;(2) sufficient information to enable the Secretary to determine whether such laboratory examination or procedure satisfies the criteria to be categorized under section 263a(d)(3) of title 42.
+
+(June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337, 2339, 2340, 2350; Pub. L. 107–250, title II, §208, Oct. 26, 2002, 116 Stat. 1613; Pub. L. 112–144, title VI, §§602, 607–608(a)(2)(A), July 9, 2012, 126 Stat. 1051, 1054–1056; Pub. L. 114–255, div. A, title III, §§3055, 3058(a), 3060(c), 3101(a)(2)(I), Dec. 13, 2016, 130 Stat. 1127, 1128, 1133, 1154; Pub. L. 115–52, title VII, §707(a), (b), title IX, §901(h), Aug. 18, 2017, 131 Stat. 1060, 1062, 1077; Pub. L. 117–286, §4(a)(155), Dec. 27, 2022, 136 Stat. 4323; Pub. L. 117–328, div. FF, title III, §3301, Dec. 29, 2022, 136 Stat. 5831.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (b)(1), (8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1). Pub. L. 117–286, §4(a)(155)(A), substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act" in concluding provisions.
+
+Subsec. (b)(8). Pub. L. 117–286, §4(a)(155)(B), substituted "chapter 10 of title 5." for "Federal Advisory Committee Act."
+
+Subsec. (k). Pub. L. 117–328 added subsec. (k).
 
 <b>2017</b>—Subsec. (b)(5)(D). Pub. L. 115–52, §901(h), substituted "medical devices that may be specifically the subject of a review by a classification panel" for "medical device submissions".
 
@@ -412,7 +422,7 @@ Subsec. (a)(1)(B). Pub. L. 101–629, §5(a)(2), amended subpar. (B) generally. 
 
 Class II, Performance Standards.—A device which cannot be classified as a class I device because the controls authorized by or under sections 351, 352, 360, 360f, 360h, 360i, and 360j of this title by themselves are insufficient to provide reasonable assurance of the safety and effectiveness of the device, for which there is sufficient information to establish a performance standard to provide such assurance, and for which it is therefore necessary to establish for the device a performance standard under section 360d of this title to provide reasonable assurance of its safety and effectiveness."
 
-Subsec. (a)(1)(C)(i). Pub. L. 101–629, §5(a)(3), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "it (I) cannot be classified as a class I device because insufficient information exists to determine that the controls authorized by or under sections 351, 352, 360, 360f, 360h, 360i, and 360j of this title are sufficientto provide reasonable assurance of the safety and effectiveness of the device and (II) cannot be classified as a class II device because insufficient information exists for the establishment of a performance standard to provide reasonable assurance of its safety and effectiveness, and".
+Subsec. (a)(1)(C)(i). Pub. L. 101–629, §5(a)(3), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "it (I) cannot be classified as a class I device because insufficient information exists to determine that the controls authorized by or under sections 351, 352, 360, 360f, 360h, 360i, and 360j of this title are sufficient to provide reasonable assurance of the safety and effectiveness of the device and (II) cannot be classified as a class II device because insufficient information exists for the establishment of a performance standard to provide reasonable assurance of its safety and effectiveness, and".
 
 Subsec. (e). Pub. L. 101–629, §5(b), designated existing provisions as par. (1), redesignated cls. (1) and (2) as (A) and (B), respectively, and added par. (2).
 
@@ -468,11 +478,13 @@ Pub. L. 101–629, §4(b)(3), Nov. 28, 1990, 104 Stat. 4517, provided that:
 
 "(ii) Prior to classifying a lens in class I pursuant to subparagraph (A), the Secretary shall assure that appropriate regulatory safeguards are in effect which provide reasonable assurance of the safety and effectiveness of such lens, including clinical and preclinical data if deemed necessary by the Secretary.
 
-"(D) Notwithstanding section 520(l)(5) of such Act, if the Secretary of Health and Human Services has not made the finding and published the finding required by subparagraph (A) within 36 months of the date of the enactment of this subparagraph \[Nov. 28, 1990\], the Secretary shall issue an order placing the lens in class II.
+"(D) Notwithstanding section 520(l)(5) of such Act, if the Secretary of Health and Human Services has notmade the finding and published the finding required by subparagraph (A) within 36 months of the date of the enactment of this subparagraph \[Nov. 28, 1990\], the Secretary shall issue an order placing the lens in class II.
 
 "(E) Any person adversely affected by a final regulation under this paragraph revising the classification of a lens may challenge the revision of the classification of such lens only by filing a petition under section 513(e) for a classification change."
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+<i><sup>1</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

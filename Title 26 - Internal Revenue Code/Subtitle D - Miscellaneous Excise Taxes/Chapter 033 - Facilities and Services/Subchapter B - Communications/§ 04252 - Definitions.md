@@ -40,7 +40,7 @@ For purposes of this subchapter, the term "private communication service" means�
 
 > except that such term does not include any communication service unless a separate charge is made for such service.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 503; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1290; Pub. L. 87–508, §4(a), June 28, 1962, 76 Stat. 115; Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 145.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 503; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1290;Pub. L. 87–508, §4(a), June 28, 1962, 76 Stat. 115; Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 145.)
 
 #### <b>Editorial Notes</b>
 
@@ -78,7 +78,7 @@ Subsec. (f). Pub. L. 85–859 added subsec. (f). Similar provisions were formerl
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. L. 89–44 applicable to amounts paid pursuant to bills rendered on or after January 1, 1966, for services rendered on or after such date but, in the case of amounts paid pursuant to bills renderedafter January 1, 1966, for services rendered before such date for which no previous bill had been rendered, applicable except with respect to such services as were rendered more than two months before such date, see section 701(b)(2)(A) of Pub. L. 89–44, set out as a note under section 4251 of this title.
+Amendment by Pub. L. 89–44 applicable to amounts paid pursuant to bills rendered on or after January 1, 1966, for services rendered on or after such date but, in the case of amounts paid pursuant to bills rendered after January 1, 1966, for services rendered before such date for which no previous bill had been rendered, applicable except with respect to such services as were rendered more than two months before such date, see section 701(b)(2)(A) of Pub. L. 89–44, set out as a note under section 4251 of this title.
 
 #### Effective Date of 1962 Amendment
 

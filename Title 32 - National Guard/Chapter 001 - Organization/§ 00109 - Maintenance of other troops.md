@@ -76,7 +76,7 @@ In subsection (c), the words "heretofore authorized by this Act \[sic\]", "as su
 
 In subsection (d), the words "under any Federal law" are omitted since only Federal law could require service in the armed forces. The word "military" is omitted as surplusage.
 
-In subsection (e), the words "defense force" are substituted for the words "organized militia" for accuracy and to conform to subsection (c). The words "reserve component of the armed forces" are substituted for the words "Reserve Forces as defined in section 901 of Title 50", since that term is not defined in the Armed Forces Reserve Act of 1952.
+In subsection (e), the words "defense force" are substituted for the words "organized militia" for accuracyand to conform to subsection (c). The words "reserve component of the armed forces" are substituted for the words "Reserve Forces as defined in section 901 of Title 50", since that term is not defined in the Armed Forces Reserve Act of 1952.
 
 #### <b>Editorial Notes</b>
 

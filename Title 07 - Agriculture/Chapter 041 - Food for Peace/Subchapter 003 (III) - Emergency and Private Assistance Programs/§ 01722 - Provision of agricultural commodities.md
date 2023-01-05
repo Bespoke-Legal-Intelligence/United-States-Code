@@ -2,7 +2,7 @@
 
 #### (a) Emergency assistance
 
-Notwithstanding any other provision of law, the Administrator may provide agricultural commodities to meet emergency food needs under this subchapter through governments and public or private agencies, including intergovernmental organizations such as the World Food Program and other multilateral organizations, in such manner and on such terms and conditions as the Administrator determines appropriate to respond to the emergency.
+Notwithstanding any other provision of law, the Administrator may provide agricultural commodities to meet emergency food needs under this subchapter through governments andpublic or private agencies, including intergovernmental organizations such as the World Food Program and other multilateral organizations, in such manner and on such terms and conditions as the Administrator determines appropriate to respond to the emergency.
 
 #### (b) Nonemergency assistance
 
@@ -146,7 +146,7 @@ Subsec. (h)(1). Pub. L. 113–79, §3003(1), added par. (1) and struck out forme
 
 Subsec. (h)(3). Pub. L. 113–79, §3003(2), substituted "fiscal years 2014 through 2018" for "fiscal years 2009 through 2011".
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–246, §3008(1), substituted "may not use as a sole rationale for denying arequest for funds" for "may not deny a request for funds" in introductory provisions.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–246, §3008(1), substituted "may not use as a sole rationale for denying a request for funds" for "may not deny a request for funds" in introductory provisions.
 
 Subsec. (e)(1). Pub. L. 110–246, §3008(2)(A), substituted "not less than 7.5 percent nor more than 13 percent" for "not less than 5 percent nor more than 10 percent" in introductory provisions.
 
@@ -160,7 +160,7 @@ Subsec. (e)(1). Pub. L. 107–171, §3002(2), substituted "not less than 5 perce
 
 Subsec. (h). Pub. L. 107–171, §3002(3), added subsec. (h).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127, §207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "The Administrator may provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter."
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "The Administratormay provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter."
 
 Subsec. (e). Pub. L. 104–127, §207(a)(2)(A), substituted "eligible organizations" for "private voluntary organizations and cooperatives" in heading.
 

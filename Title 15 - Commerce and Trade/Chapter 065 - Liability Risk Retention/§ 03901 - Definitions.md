@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(B) purchases such insurance only for its group members and only to cover their similar or related liability exposure, as described in subparagraph (C);
 
-&emsp;&emsp;(C) is composed of members whose businesses or activities are similar or related with respect to the liability to which members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations; and
+&emsp;&emsp;(C) is composed of members whose businesses or activities are similar or relatedwith respect to the liability to which members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations; and
 
 &emsp;&emsp;(D) is domiciled in any State;
 
@@ -76,7 +76,7 @@
 
 #### References in Text
 
-The Federal Employers' Liability Act (45 U.S.C. 51 et seq.), referred to in subsec. (a)(2)(B), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, as amended, which is classified generally to chapter 2 (§51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 51 of Title 45 and Tables.
+The Federal Employers' Liability Act (45 U.S.C. 51 et seq.), referred to in subsec. (a)(2)(B), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, which is classified generally to chapter 2 (§51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 51 of Title 45 and Tables.
 
 #### Codification
 

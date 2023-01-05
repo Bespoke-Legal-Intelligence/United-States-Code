@@ -8,7 +8,7 @@ Separation Required.—Unless retired, transferred to the Retired Reserve, or di
 
 Exception for Officers Serving in O–9
 
-and O–10
+and O–⁠10
 
 Positions.—The retirement of a reserve officer of the Army, Air Force, or Marine Corps in the grade of lieutenant general or general, or a reserve officer of the Navy in the grade of vice admiral or admiral, under subsection (a) may be deferred—
 
@@ -20,7 +20,7 @@ Positions.—The retirement of a reserve officer of the Army, Air Force, or Mari
 
 Exception for Officers Holding Certain Offices.—This section does not apply to an officer covered by section 14512 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L.109–364, div. A, title V, §503(a), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title XVIII, §1825(a)(1), Jan. 28, 2008, 122 Stat. 501.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 109–364, div. A, title V, §503(a), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title XVIII, §1825(a)(1), Jan. 28, 2008, 122 Stat. 501.)
 
 #### <b>Editorial Notes</b>
 

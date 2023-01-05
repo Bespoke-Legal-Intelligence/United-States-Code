@@ -116,7 +116,7 @@ In general.—If a financial institution or any director, officer, employee, or 
 
 &emsp;&emsp;&emsp;(i) neither the financial institution, director, officer, employee, or agent of such institution (whether or not any such person is still employed by the institution), nor any other current or former director, officer, or employee of, or contractor for, the financial institution or other reporting person, may notify any person involved in the transaction that the transaction has been reported or otherwise reveal any information that would reveal that the transaction has been reported,; <sup>2</sup> and
 
-&emsp;&emsp;&emsp;(ii) no current or former officer or employee of or contractor for the Federal Government or of or for any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, or otherwise reveal any information that would reveal that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
+&emsp;&emsp;&emsp;(ii) no current or former officer or employee of or contractor for the Federal Government or of or for any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, or otherwise reveal any information that would reveal that the transaction has been reported, other than as necessary to fulfillthe official duties of such officer or employee.
 
 &emsp;&emsp;(B)
 
@@ -150,7 +150,7 @@ Rule of construction.—Subparagraph (A) shall not be construed as creating—
 
 &emsp;&emsp;&emsp;(i) any inference that the term "person", as used in such subparagraph, may be construed more broadly than its ordinary usage so as to include any government or agency of government; or
 
-&emsp;&emsp;&emsp;(ii) any immunity against, or otherwise affecting, any civil or criminal action brought by any government or agency of government to enforce any constitution,law, or regulation of such government or agency.
+&emsp;&emsp;&emsp;(ii) any immunity against, or otherwise affecting, any civil or criminal action brought by any government or agency of government to enforce any constitution, law, or regulation of such government or agency.
 
 &emsp;(4)
 
@@ -196,7 +196,7 @@ Streamlined data and real-time reporting.—
 
 &emsp;&emsp;&emsp;(i)
 
-Requirement to establish system.—In considering the means by or form in which the Secretary of the Treasury shall receive reporting pursuant to subparagraph (B)(iii), the Secretary of the Treasury, acting through the Director of the Financial Crimes Enforcement Network, and in consultation with appropriate representatives of the State bank supervisors, State credit union supervisors, and Federal functional regulators, shall—
+Requirement to establish system.—In considering the means by or form in which the Secretary of the Treasury shallreceive reporting pursuant to subparagraph (B)(iii), the Secretary of the Treasury, acting through the Director of the Financial Crimes Enforcement Network, and in consultation with appropriate representatives of the State bank supervisors, State credit union supervisors, and Federal functional regulators, shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) establish streamlined, including automated, processes to, as appropriate, permit the filing of noncomplex categories of reports that—
 
@@ -236,7 +236,7 @@ Sharing of threat pattern and trend information.—
 
 Definitions.—In this paragraph—
 
-&emsp;&emsp;&emsp;(i) the terms "Bank Secrecy Act" and "Federal functional regulator" have themeanings given the terms in section 6003 of the Anti-Money Laundering Act of 2020; and
+&emsp;&emsp;&emsp;(i) the terms "Bank Secrecy Act" and "Federal functional regulator" have the meanings given the terms in section 6003 of the Anti-Money Laundering Act of 2020; and
 
 &emsp;&emsp;&emsp;(ii) the term "typology" means a technique to launder money or finance terrorism.
 
@@ -320,7 +320,7 @@ Exceptions.—The Secretary is authorized to make exceptions, on a case-by-case 
 
 &emsp;&emsp;(D)
 
-Implementation updates.—Not later than 360 days after the date on which rules are issued under subparagraph (A), and annually thereafter for 3 years, the Secretaryof the Treasury, or the designee of the Secretary, shall brief the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on—
+Implementation updates.—Not later than 360 days after the date on which rules are issued under subparagraph (A), and annually thereafter for 3 years, the Secretary of the Treasury, or the designee of the Secretary, shall brief the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on—
 
 &emsp;&emsp;&emsp;(i) the degree of any information sharing permitted under the pilot program and a description of criteria used by the Secretary to evaluate the appropriateness of the information sharing;
 
@@ -558,7 +558,7 @@ Subpoena of records.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Notwithstanding subsection (b), the Secretary of the Treasury or the Attorney General may issue a subpoena to any foreign bank that maintains a correspondent account in the United States and request any records relating to the correspondent account or any accountat the foreign bank, including records maintained outside of the United States, that are the subject of—
+In general.—Notwithstanding subsection (b), the Secretary of the Treasury or the Attorney General may issue a subpoena to any foreign bank that maintains a correspondent account in the United States and request any records relating to the correspondent account or any account at the foreign bank, including records maintained outside of the United States, that are the subject of—
 
 &emsp;&emsp;&emsp;&emsp;(I) any investigation of a violation of a criminal law of the United States;
 
@@ -764,7 +764,7 @@ Exemptions.—The Secretary (and, in the case of any financial institution descr
 
 &emsp;(6)
 
-Effective date.—Final regulations prescribed under this subsection shall take effect before the end of the 1-year period beginningon the date of enactment of the International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001.
+Effective date.—Final regulations prescribed under this subsection shall take effect before the end of the 1-year period beginning on the date of enactment of the International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001.
 
 (m)
 
@@ -800,7 +800,7 @@ In general.—Before prescribing the regulations required under paragraph (1), a
 
 &emsp;&emsp;&emsp;(i) identifies the information in cross-border electronic transmittals of funds that may be found in particular cases to be reasonably necessary to conduct the efforts of the Secretary to identify money laundering and terrorist financing, and outlines the criteria to be used by the Secretary to select the situations in which reporting under this subsection may be required;
 
-&emsp;&emsp;&emsp;(ii) outlines the appropriate form, manner, content, and frequency of filing of the reports that may be required under such regulations;
+&emsp;&emsp;&emsp;(ii) outlines the appropriate form, manner, content, and frequency of filing of thereports that may be required under such regulations;
 
 &emsp;&emsp;&emsp;(iii) identifies the technology necessary for the Financial Crimes Enforcement Network to receive, keep, exploit, protect the security of, and disseminate information from reports of cross-border electronic transmittals of funds to law enforcement and other entities engaged in efforts against money laundering and terrorist financing; and
 
@@ -836,7 +836,7 @@ Standards.—The standards described in paragraph (1) may include—
 
 &emsp;&emsp;(A) an emphasis on using innovative approaches such as machine learning or other enhanced data analytics processes;
 
-&emsp;&emsp;(B) risk-based testing, oversight, and other risk management approaches of the regime,prior to and after implementation, to facilitate calibration of relevant systems and prudently evaluate and monitor the effectiveness of their implementation;
+&emsp;&emsp;(B) risk-based testing, oversight, and other risk management approaches of the regime, prior to and after implementation, to facilitate calibration of relevant systems and prudently evaluate and monitor the effectiveness of their implementation;
 
 &emsp;&emsp;(C) specific criteria for when and how risk-based testing against existing processes should be considered to test and validate the effectiveness of relevant systems and situations and standards for when other risk management processes, including those developed by or through third party risk and compliance management systems, and oversight may be more appropriate;
 
@@ -926,7 +926,7 @@ Federal depository institution.—The term "Federal depository institution" has 
 
 Federal depository institution regulators.—The term "Federal depository institution regulator" means a member of the Financial Institutions Examination Council to which is delegated any authority of the Secretary under subsection (a)(1).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept.13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, §407, Mar. 9, 2006, 120 Stat. 245; Pub. L. 112–74, div. C, title I, §118, Dec. 23, 2011, 125 Stat. 891; Pub. L. 113–156, §2(a), Aug. 8, 2014, 128 Stat. 1829; Pub. L. 116–283, div. F, title LXI, §§6101(b), 6102(c), title LXII, §§6202, 6206, 6209(a), 6212, 6213(a), title LXIII, §§6301, 6308(a), Jan. 1, 2021, 134 Stat. 4550, 4553, 4566, 4571, 4573, 4576, 4579, 4584, 4590.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, §407, Mar. 9, 2006, 120 Stat. 245; Pub. L. 112–74, div. C, title I, §118, Dec. 23, 2011, 125 Stat. 891; Pub. L. 113–156, §2(a), Aug. 8, 2014, 128 Stat. 1829; Pub. L. 116–283, div. F, title LXI, §§6101(b), 6102(c), title LXII, §§6202, 6206, 6209(a), 6212, 6213(a), title LXIII, §§6301, 6308(a), Jan. 1, 2021, 134 Stat. 4550, 4553, 4566, 4571, 4573, 4576, 4579, 4584, 4590.)
 
 Historical and Revision Notes
 

@@ -12,7 +12,7 @@
 
 #### (3) Mission
 
-&emsp;The mission of the Office of Urban Agriculture and Innovative Production shall be to encourage and promote urban, indoor, and other emerging agricultural practices, including—
+&emsp;The mission of the Office of Urban Agriculture and Innovative Production shall be to encourage and promote urban, indoor, andother emerging agricultural practices, including—
 
 &emsp;&emsp;(A) community gardens and farms located in urban areas, suburbs, and urban clusters;
 
@@ -126,7 +126,7 @@
 
 &emsp;&emsp;&emsp;(i) develop recommendations and advise the Director on policies, initiatives, and outreach administered by the Office of Urban Agriculture and Innovative Production;
 
-&emsp;&emsp;&emsp;(ii) evaluate and review ongoing research and extension activities relating to urban, indoor, and other innovative agricultural practices;
+&emsp;&emsp;&emsp;(ii) evaluate and review ongoing research and extension activities relating to urban,indoor, and other innovative agricultural practices;
 
 &emsp;&emsp;&emsp;(iii) identify new and existing barriers to successful urban, indoor, and other emerging agricultural production practices; and
 

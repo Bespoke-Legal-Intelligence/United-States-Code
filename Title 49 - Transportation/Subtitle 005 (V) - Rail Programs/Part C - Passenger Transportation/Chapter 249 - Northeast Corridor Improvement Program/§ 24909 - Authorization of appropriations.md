@@ -80,7 +80,7 @@ Emergency Maintenance.—Not more than $25,000,000 of the amount appropriated un
 
 (c)
 
-Priority in Using Certain Amounts.—Amounts appropriated under subsection (a)(2)(B) and (D) of this section shall be used first to repay, with interest, obligations guaranteed under section 602 of the Rail Passenger Service Act, if the proceeds of those obligations were used to pay the expenses of acquiring interestsin property referred to in subsection (a)(2)(B) and (D).
+Priority in Using Certain Amounts.—Amounts appropriated under subsection (a)(2)(B) and (D) of this section shall be used first to repay, with interest, obligations guaranteed under section 602 of the Rail Passenger Service Act, if the proceeds of those obligations were used to pay the expenses of acquiring interests in property referred to in subsection (a)(2)(B) and (D).
 
 (d)
 
@@ -200,13 +200,13 @@ In subsection (a)(2)(C), the words "passenger radio mobile telephone service on 
 
 In subsection (a)(2)(D), the word "rail" is added for consistency in the revised title.
 
-In subsection (b), the words "After the conveyance of rail properties, pursuant to section 303(b) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 743(b)) and section 851(b) of this title" are omitted as executed. The words "remain available to" and "the purpose of performing" are omitted as surplus.
+In subsection (b), the words "After the conveyance of rail properties, pursuant to section 303(b) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 743(b))and section 851(b) of this title" are omitted as executed. The words "remain available to" and "the purpose of performing" are omitted as surplus.
 
 In subsection (c), the words "that portion of . . . issued by the National Railroad Passenger Corporation and" are omitted as surplus.
 
 In subsection (e)(1), the words "to be appropriated", "undertaken or viewed as", "entitled", and "prepared for the United States Department of Transportation, Federal Railroad Administration, Northeast Corridor Improvement Project, in cooperation with the Federal Railroad Administration and the National Railroad Passenger Corporation (Amtrak), by Deleuw, Cather/Parsons, NECIP architect/engineer" are omitted as surplus. The words "for which amounts are authorized under" are substituted for "described in" for clarity. The words "for expenditure" are omitted as surplus.
 
-In subsection (g), the text of 45:854(a) (3d, 5th, and last sentences) is omitted as executed. The words "An amount greater than that authorized for a fiscal year"are substituted for "Funds . . . in excess of limitations imposed under the preceding sentence with respect to a fiscal year, or for fiscal years after the fiscal year ending September 30, 1983" to eliminate unnecessary and obsolete words. The words "under this section" are omitted as surplus. The words "amount authorized" are substituted for "limitation under such sentence" for consistency.
+In subsection (g), the text of 45:854(a) (3d, 5th, and last sentences) is omitted as executed. The words "An amount greater than that authorized for a fiscal year" are substituted for "Funds . . . in excess of limitations imposed under the preceding sentence with respect to a fiscal year, or for fiscal years after the fiscal year ending September 30, 1983" to eliminate unnecessary and obsolete words. The words "under this section" are omitted as surplus. The words "amount authorized" are substituted for "limitation under such sentence" for consistency.
 
 #### <b>Editorial Notes</b>
 

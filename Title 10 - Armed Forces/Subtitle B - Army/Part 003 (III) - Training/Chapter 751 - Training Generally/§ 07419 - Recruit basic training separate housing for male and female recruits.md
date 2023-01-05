@@ -6,7 +6,7 @@ Physically Separate Housing.—(1) The Secretary of the Army shall provide for h
 
 (2) To meet the requirements of paragraph (1), the sleeping areas and latrine areas provided for male recruits shall be physically separated from the sleeping areas and latrine areas provided for female recruits by permanent walls, and the areas for male recruits and the areas for female recruits shall have separate entrances.
 
-(3) The Secretary shall ensure that, when a recruit is in an area referred to in paragraph (2), the area is supervised by one or more persons who are authorized and trained to supervise the area.
+(3) The Secretary shall ensure that, when a recruit is in an area referred to in paragraph (2),the area is supervised by one or more persons who are authorized and trained to supervise the area.
 
 (b)
 

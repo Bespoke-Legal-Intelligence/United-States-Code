@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In order to carry out the purpose of this section, the Secretary is authorized to grant waivers of statutory requirements of, or regulatory requirements relating to, subchapter II for a period of time not to exceed 4 years with respect to not more than 15 States based on proposals submitted by States toreduce excessive paperwork and noninstructional time burdens that do not assist in improving educational and functional results for children with disabilities.
+&emsp;&emsp;In order to carry out the purpose of this section, the Secretary is authorized to grant waivers of statutory requirements of, or regulatory requirements relating to, subchapter II for a period of time not to exceed 4 years with respect to not more than 15 States based on proposals submitted by States to reduce excessive paperwork and noninstructional time burdens that do not assist in improving educational and functional results for children with disabilities.
 
 #### (B) Exception
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;The proposal shall include—
 
-&emsp;&emsp;&emsp;(i) a list of any statutory requirements of, or regulatory requirements relating to, subchapter II that the State desires the Secretary to waive, in whole or in part; and
+&emsp;&emsp;&emsp;(i) a list of any statutory requirements of, or regulatory requirements relating to,subchapter II that the State desires the Secretary to waive, in whole or in part; and
 
 &emsp;&emsp;&emsp;(ii) a list of any State requirements that the State proposes to waive or change, in whole or in part, to carry out a waiver granted to the State by the Secretary.
 

@@ -24,6 +24,7 @@
 | 701b–14. | Structural integrity evaluations. |
 | 701b–15. | Non-Federal plans to provide additional flood risk reduction. |
 | 701b–16. | Management of flood risk reduction projects. |
+| 701b–17. | Corps of Engineers Western Water Cooperative Committee. |
 | [701c.](%C2%A7%2000701c%20-%20Rights-of-way%2C%20easements%2C%20etc.%3B%20acquisition%20by%20local%20authorities%3B%20maintenance%20and%20operation%3B%20protection%20of%20United%20States%20from%20liability%E2%80%A6.md) | Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability for damages; requisites to run-off and water-flow retardation and soil erosion prevention assistance. |
 | 701c–1. | Acquirement of titles for certain projects and to lands, easements, rights-of-way; reimbursement of local agencies. |
 | 701c–2. | Acquisition and sale of land. |
@@ -53,7 +54,7 @@
 | [701p.](%C2%A7%2000701p%20-%20Railroad%20bridge%20alterations%20at%20Federal%20expense.md) | Railroad bridge alterations at Federal expense. |
 | [701q.](%C2%A7%2000701q%20-%20Repair%20and%20protection%20of%20highways%2C%20railroads%2C%20and%20utilities%20damaged%20by%20operation%20of%20dams%20or%20reservoir.md) | Repair and protection of highways, railroads, and utilities damaged by operation of dams or reservoir. |
 | 701q–1. | Repair and restoration of embankments. |
-| [701r.](%C2%A7%2000701r%20-%20Protection%20of%20highways%2C%20bridge%20approaches%2C%20public%20works%2C%20and%20nonprofit%20public%20services.md) | Protection of highways, bridge approaches, public works, and nonprofit public services. |
+| [701r.](%C2%A7%2000701r%20-%20Protection%20of%20highways%2C%20bridge%20approaches%2C%20lighthouses%2C%20public%20works%2C%20and%20nonprofit%20public%20services.md) | Protection of highways, bridge approaches, lighthouses, public works, and nonprofit public services. |
 | 701r–1. | Utilization of public roads. |
 | [701s.](%C2%A7%2000701s%20-%20Small%20flood%20control%20projects%3B%20appropriations%3B%20amount%20limitation%20for%20single%20locality%3B%20conditions.md) | Small flood control projects; appropriations; amount limitation for single locality; conditions. |
 | [701t.](%C2%A7%2000701t%20-%20Emergency%20fund%20for%20flood%20damage%3B%20amount%3B%20commitments%20to%20be%20fulfilled%20by%20local%20interests.md) | Emergency fund for flood damage; amount; commitments to be fulfilled by local interests. |
@@ -135,6 +136,7 @@
 - [&sect; 00701b&#8211;14 - Structural integrity evaluations](%C2%A7%2000701b%E2%80%9314%20-%20Structural%20integrity%20evaluations.md)
 - [&sect; 00701b&#8211;15 - Non-Federal plans to provide additional flood risk reduction](%C2%A7%2000701b%E2%80%9315%20-%20Non-Federal%20plans%20to%20provide%20additional%20flood%20risk%20reduction.md)
 - [&sect; 00701b&#8211;16 - Management of flood risk reduction projects](%C2%A7%2000701b%E2%80%9316%20-%20Management%20of%20flood%20risk%20reduction%20projects.md)
+- [&sect; 00701b&#8211;17 - Corps of Engineers Western Water Cooperative Committee](%C2%A7%2000701b%E2%80%9317%20-%20Corps%20of%20Engineers%20Western%20Water%20Cooperative%20Committee.md)
 - [&sect; 00701c - Rights-of-way, easements, etc.; acquisition by local authorities; maintenance and operation; protection of United States from liability&#8230;](%C2%A7%2000701c%20-%20Rights-of-way%2C%20easements%2C%20etc.%3B%20acquisition%20by%20local%20authorities%3B%20maintenance%20and%20operation%3B%20protection%20of%20United%20States%20from%20liability%E2%80%A6.md)
 - [&sect; 00701c&#8211;1 - Acquirement of titles for certain projects and to lands, easements, rights-of-way; reimbursement of local agencies](%C2%A7%2000701c%E2%80%931%20-%20Acquirement%20of%20titles%20for%20certain%20projects%20and%20to%20lands%2C%20easements%2C%20rights-of-way%3B%20reimbursement%20of%20local%20agencies.md)
 - [&sect; 00701c&#8211;2 - Acquisition and sale of land](%C2%A7%2000701c%E2%80%932%20-%20Acquisition%20and%20sale%20of%20land.md)
@@ -164,7 +166,7 @@
 - [&sect; 00701p - Railroad bridge alterations at Federal expense](%C2%A7%2000701p%20-%20Railroad%20bridge%20alterations%20at%20Federal%20expense.md)
 - [&sect; 00701q - Repair and protection of highways, railroads, and utilities damaged by operation of dams or reservoir](%C2%A7%2000701q%20-%20Repair%20and%20protection%20of%20highways%2C%20railroads%2C%20and%20utilities%20damaged%20by%20operation%20of%20dams%20or%20reservoir.md)
 - [&sect; 00701q&#8211;1 - Repair and restoration of embankments](%C2%A7%2000701q%E2%80%931%20-%20Repair%20and%20restoration%20of%20embankments.md)
-- [&sect; 00701r - Protection of highways, bridge approaches, public works, and nonprofit public services](%C2%A7%2000701r%20-%20Protection%20of%20highways%2C%20bridge%20approaches%2C%20public%20works%2C%20and%20nonprofit%20public%20services.md)
+- [&sect; 00701r - Protection of highways, bridge approaches, lighthouses, public works, and nonprofit public services](%C2%A7%2000701r%20-%20Protection%20of%20highways%2C%20bridge%20approaches%2C%20lighthouses%2C%20public%20works%2C%20and%20nonprofit%20public%20services.md)
 - [&sect; 00701r&#8211;1 - Utilization of public roads](%C2%A7%2000701r%E2%80%931%20-%20Utilization%20of%20public%20roads.md)
 - [&sect; 00701s - Small flood control projects; appropriations; amount limitation for single locality; conditions](%C2%A7%2000701s%20-%20Small%20flood%20control%20projects%3B%20appropriations%3B%20amount%20limitation%20for%20single%20locality%3B%20conditions.md)
 - [&sect; 00701t - Emergency fund for flood damage; amount; commitments to be fulfilled by local interests](%C2%A7%2000701t%20-%20Emergency%20fund%20for%20flood%20damage%3B%20amount%3B%20commitments%20to%20be%20fulfilled%20by%20local%20interests.md)

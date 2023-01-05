@@ -42,7 +42,7 @@ Employee Organization Plans.—Benefits of the types named under paragraph (1) o
 
 Comprehensive Medical Plans.—Benefits of the types named under paragraph (1) or (2) of this subsection or both.
 
-> All plans contracted for under paragraphs (1) and (2) of this subsection shall include benefits both for costs associated with care in a general hospital and for other health services of a catastrophic nature.
+> All plans contracted for under paragraphs (1) and (2) of this subsection shall include benefitsboth for costs associated with care in a general hospital and for other health services of a catastrophic nature.
 
 (b)(1)(A) A plan, other than a prepayment plan described in section 8903(4) of this title, may not provide benefits, in the case of any retired enrolled individual who is age 65 or older and is not covered to receive Medicare hospital and insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), to pay a charge imposed by any health care provider, for inpatient hospital services which are covered for purposes of benefit payments under this chapter and part A of title XVIII of the Social Security Act, to the extent that such charge exceeds applicable limitations on hospital charges established for Medicare purposes under section 1886 of the Social Security Act (42 U.S.C. 1395ww). Hospital providers who have in force participation agreements with the Secretary of Health and Human Services consistent with sections 1814(a) and 1866 of the Social Security Act (42 U.S.C. 1395f(a) and 1395cc), whereby the participating provider accepts Medicare benefits as full payment for covered items and services after applicable patient copayments under section 1813 of such Act (42 U.S.C. 1395e) have been satisfied, shall accept equivalent benefit payments and enrollee copayments under this chapter as full payment for services described in the preceding sentence. The Office of Personnel Management shall notify the Secretary of Health and Human Services if a hospital is found to knowingly and willfully violate this subsection on a repeated basis and the Secretary may invoke appropriate sanctions in accordance with section 1866(b)(2) of the Social Security Act (42 U.S.C. 1395cc(b)(2)) and applicable regulations.
 
@@ -52,7 +52,7 @@ Comprehensive Medical Plans.—Benefits of the types named under paragraph (1) o
 
 (C) If the Secretary of Health and Human Services determines that a violation of this subsection warrants excluding a provider from participation for a specified period under title XVIII of the Social Security Act, the Office shall enforce a corresponding exclusion of such provider for purposes of this chapter.
 
-(2) Notwithstanding any other provision of law, the Secretary of Health and Human Services and the Director of the Office of PersonnelManagement, and their agents, shall exchange any information necessary to implement this subsection.
+(2) Notwithstanding any other provision of law, the Secretary of Health and Human Services and the Director of the Office of Personnel Management, and their agents, shall exchange any information necessary to implement this subsection.
 
 (3)(A) Not later than December 1, 1991, and periodically thereafter, the Secretary of Health and Human Services (in consultation with the Director of the Office of Personnel Management) shall supply to carriers of plans described in paragraphs (1) through (3) of section 8903 the Medicare program information necessary for them to comply with paragraph (1).
 
@@ -88,7 +88,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XVIII of the Act are classified generally to part A (§1395c et seq.) and part B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XVIII of the Act are classified generally to part A (§1395c et seq.) and part B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -138,5 +138,5 @@ Sense of the Congress.—It is the sense of the Congress—
 
 &emsp;"(1) that participants in the Federal employees health benefits program should receive adequate benefits coverage for treatment of mental illness, alcoholism, and drug addiction; and
 
-&emsp;"(2) that the Office of Personnel Management should encourage participating health benefits plansto provide adequate benefits relating to treatment of mental illness, alcoholism, and drug addiction (including benefits relating to coverage for inpatient and outpatient treatment and catastrophic protection benefits)."
+&emsp;"(2) that the Office of Personnel Management should encourage participating health benefits plans to provide adequate benefits relating to treatment of mental illness, alcoholism, and drug addiction (including benefits relating to coverage for inpatient and outpatient treatment and catastrophic protection benefits)."
 

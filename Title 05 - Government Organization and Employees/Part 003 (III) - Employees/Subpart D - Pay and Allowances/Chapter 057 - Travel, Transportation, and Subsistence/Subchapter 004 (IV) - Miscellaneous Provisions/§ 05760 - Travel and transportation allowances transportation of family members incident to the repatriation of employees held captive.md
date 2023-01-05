@@ -22,31 +22,31 @@ Covered Employees.—An employee described in this subsection is an employee (as
 
 (c)
 
-Eligible Family Members.—In this section, the term "family member" has the meaning given the term in section 481h(b) <sup>1</sup> of title 37.
+Eligible Family Members.—In this section, the term "family member" has the meaning given the term in section 451(a) of title 37.
 
 (d)
 
 Travel and Transportation Authorized.—(1) The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), as the case may be) and the location of the repatriation site at which the employee is located.
 
-(2) In addition to the transportation authorized by subsection (a), the head of an agency may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under section 474(d) <sup>1</sup> of title 37.
+(2) In addition to the transportation authorized by subsection (a), the head of an agency may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under section 464 of title 37.
 
-(3) The transportation authorized by subsection (a) may be provided by any of the means described in section 481h(d)(1) <sup>1</sup> of title 37.
+(3) The transportation authorized by subsection (a) may be provided by any of the means described in section 452(d) of title 37.
 
 (4) An allowance under this subsection may be paid in advance.
 
 (5) Reimbursement payable under this subsection may not exceed the cost of government-procured round-trip air travel.
 
-(Added Pub. L. 109–163, div. A, title XI, §1121(a), Jan. 6, 2006, 119 Stat. 3451; amended Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Added Pub. L. 109–163, div. A, title XI, §1121(a), Jan. 6, 2006, 119 Stat. 3451; amended Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, §626(b)(3), Dec. 23, 2022, 136 Stat. 2628.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 481h of title 37, referred to in subsecs. (c) and (d)(3), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
-
-Section 474 of title 37, referred to in subsec. (d)(2), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–263, §626(b)(3)(A), substituted "section 451(a)" for "section 481h(b)".
+
+Subsec. (d)(2). Pub. L. 117–263, §626(b)(3)(B)(i), substituted "section 464" for "section 474(d)".
+
+Subsec. (d)(3). Pub. L. 117–263, §626(b)(3)(B)(ii), substituted "section 452(d)" for "section 481h(d)(1)".
 
 <b>2013</b>—Subsecs. (c), (d)(2), (3). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
 
@@ -57,6 +57,4 @@ Section 474 of title 37, referred to in subsec. (d)(2), was repealed by Pub. L. 
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

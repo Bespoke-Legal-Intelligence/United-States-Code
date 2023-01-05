@@ -74,7 +74,7 @@ To the extent practicable, at locations where vehicles acquired under subsection
 
 (3) Only one-half of the vehicles acquired under this section by an agency of the Federal Government shall be counted against any limitation under law, Executive order, or executive or agency policy on the number of vehicles which may be acquired by such agency.
 
-(4) Any Federal agency receiving a vehicle under paragraph (1) shall cooperate with studiesundertaken by the Secretary under subsection (b).
+(4) Any Federal agency receiving a vehicle under paragraph (1) shall cooperate with studies undertaken by the Secretary under subsection (b).
 
 #### (e) Detail of personnel
 
@@ -112,7 +112,7 @@ For purposes of this part—
 
 #### (h) Funding
 
-(1) For the purposes of this section, there are authorized to be appropriated such sums as may be necessary for fiscal years 1993 through 1998, to remain available until expended.
+(1) For the purposes of this section, there are authorized to be appropriated such sums as maybe necessary for fiscal years 1993 through 1998, to remain available until expended.
 
 (2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
@@ -142,7 +142,7 @@ Subsec. (b)(3) to (5). Pub. L. 104–66, §1051(a), redesignated par. (5) as (3)
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §302(a)(1), substituted "vehicles" for "passenger automobiles and light duty trucks" before "acquired annually for use" and "alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title." for "alcohol powered vehicles, dual energy vehicles, natural gas powered vehicles, or natural gas dual energy vehicles."
 
-Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquiredunder this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers."
+Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquired under this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers."
 
 Subsec. (a)(4). Pub. L. 102–486, §302(a)(3), added par. (4).
 

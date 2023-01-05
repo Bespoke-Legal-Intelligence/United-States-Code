@@ -42,13 +42,13 @@
 
 #### (8) Rights to certain appeals reserved
 
-&emsp;Notwithstanding any other provision of law, an individual who is an employee of the Tax Court on the day before the effective date of this subsection and who, as of that day, was entitled to—
+&emsp;Notwithstanding any other provision of law, an individual who is an employee of the Tax Court on the day before the effective date ofthis subsection and who, as of that day, was entitled to—
 
 &emsp;&emsp;(A) appeal a reduction in grade or removal to the Merit Systems Protection Board under chapter 43 of title 5, United States Code,
 
 &emsp;&emsp;(B) appeal an adverse action to the Merit Systems Protection Board under chapter 75 of title 5, United States Code,
 
-&emsp;&emsp;(C) appeal a prohibited personnel practice described under section 2302(b) of title 5,United States Code, to the Merit Systems Protection Board under chapter 77 of that title,
+&emsp;&emsp;(C) appeal a prohibited personnel practice described under section 2302(b) of title 5, United States Code, to the Merit Systems Protection Board under chapter 77 of that title,
 
 &emsp;&emsp;(D) make an allegation of a prohibited personnel practice described under section 2302(b) of title 5, United States Code, with the Office of Special Counsel under chapter 12 of that title for action in accordance with that chapter, or
 

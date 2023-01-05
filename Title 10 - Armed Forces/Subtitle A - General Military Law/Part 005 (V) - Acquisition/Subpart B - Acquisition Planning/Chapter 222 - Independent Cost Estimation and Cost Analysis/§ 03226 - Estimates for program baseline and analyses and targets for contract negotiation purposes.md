@@ -10,13 +10,13 @@ Cost Estimates Developed for Specified Purposes Not to Be Used for Contract Nego
 
 (c)
 
-Program Manager and Contracting Officer.—The program manager and contracting officer for each major defense acquisition program and major subprogram shall ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are carried out in accordance with the requirements of subsection (a) and the policies, procedures, and guidance issued by the UnderSecretary of Defense for Acquisition and Sustainment under subsection (b).
+Program Manager and Contracting Officer.—The program manager and contracting officer for each major defense acquisition program and major subprogram shall ensure that cost analyses and targets developed for the purpose of contract negotiations and the obligation of funds are carried out in accordance with the requirements of subsection (a) and the policies, procedures, and guidance issued by the Under Secretary of Defense for Acquisition and Sustainment under subsection (b).
 
 (d)
 
 Availability of Excess Funds.—
 
-&emsp;(1) Funds that are made available for a major defense acquisition program or major subprogram in accordance with a cost estimate conducted pursuant to section 3221(b)(6) of this title, but are excess to a cost analysis or target developed pursuant to subsection (b), shall remain available for obligation in accordance with the terms of applicable authorization and appropriations Acts.
+&emsp;(1) Funds that are made available for a major defense acquisition program or major subprogram in accordance with a cost estimate conducted pursuant to section 3221(b)(6)of this title, but are excess to a cost analysis or target developed pursuant to subsection (b), shall remain available for obligation in accordance with the terms of applicable authorization and appropriations Acts.
 
 &emsp;(2) Funds described in paragraph (1)—
 

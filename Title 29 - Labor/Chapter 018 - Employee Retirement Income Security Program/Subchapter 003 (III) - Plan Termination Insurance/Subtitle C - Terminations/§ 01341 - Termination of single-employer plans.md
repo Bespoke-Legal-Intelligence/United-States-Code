@@ -272,7 +272,7 @@
 
 &emsp;&emsp;If the corporation determines that the requirements for a distress termination set forth in paragraphs (1) and (2) are met, the corporation shall—
 
-&emsp;&emsp;&emsp;(i) determine that the plan is sufficient for guaranteed benefits (as of the termination date) or that the corporation is unable to make such determination on the basis of information made available to the corporation,
+&emsp;&emsp;&emsp;(i) determine that the plan is sufficient for guaranteed benefits (as of the termination date) or that the corporation is unable to make such determination on thebasis of information made available to the corporation,
 
 &emsp;&emsp;&emsp;(ii) determine that the plan is sufficient for benefit liabilities (as of the termination date) or that the corporation is unable to make such determination on the basis of information made available to the corporation, and
 
@@ -326,7 +326,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) continues to pay all benefit liabilities under the plan, but, commencing on the proposed termination date, limits the payment of benefits under the plan to those benefits which are guaranteed by the corporation under section 1322 of this title or to which assets are required to be allocated under section 1344 of this title.
 
-&emsp;&emsp;&nbsp;In the event the plan administrator is later determined not to have met the requirements for distress termination, any benefits which are not paid solely by reason of compliance with subclause (IV) shall be due and payable immediately (together with interest, at a reasonable rate, in accordance with regulations of the corporation).
+&emsp;&emsp;&nbsp;In the event the plan administrator is later determined not to have met the requirements for distress termination, any benefits which are not paid solely by reason of compliance with subclause (IV) shall be due and payable immediately (together with interest, at a reasonable rate,in accordance with regulations of the corporation).
 
 #### (d) Sufficiency
 
@@ -488,7 +488,7 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title IV, §409(b), Aug. 17, 2006, 120 Stat. 934, provided that: "The amendments made by this section \[amending this section\] shall apply to any transaction or series of transactions occurring on and after the date of the enactment of this Act \[Aug. 17, 2006\]."
+Pub. L. 109–280, title IV, §409(b), Aug. 17, 2006, 120 Stat. 934, provided that: "The amendments made bythis section \[amending this section\] shall apply to any transaction or series of transactions occurring on and after the date of the enactment of this Act \[Aug. 17, 2006\]."
 
 Pub. L. 109–280, title V, §506(c), Aug. 17, 2006, 120 Stat. 948, provided that:
 
@@ -574,7 +574,7 @@ Terminations for which sufficiency notices have not been issued.—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I)
 
-In general.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i) and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, if, during the 90-day period commencing on the date of the notice required in subclause (II), all benefit commitments under the plan have been satisfied, the termination shall be treated as a standard termination under section 4041(b) of such Act (as amended by this title).
+In general.—In the case of a plan termination described in paragraph (1) with respect to which the Corporation has been provided the notification described in subparagraph (A)(i)and with respect to which a notice of sufficiency has not been issued by the Corporation before the date of the enactment of this Act, if, during the 90-day period commencing on the date of the notice required in subclause (II), all benefit commitments under the plan have been satisfied, the termination shall be treated as a standard termination under section 4041(b) of such Act (as amended by this title).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II)
 

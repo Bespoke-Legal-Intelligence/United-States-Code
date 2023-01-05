@@ -48,7 +48,7 @@ The Secretary may provide financial assistance for the purpose of financing the 
 
 #### (3) Appeal
 
-&emsp;If the Secretary rejects the application of a borrower who applies for a cost of money loanor grant under this section, the borrower may appeal the decision to the Secretary not later than 10 days after the borrower is notified of the rejection.
+&emsp;If the Secretary rejects the application of a borrower who applies for a cost of money loan or grant under this section, the borrower may appeal the decision to the Secretary not later than 10 days after the borrower is notified of the rejection.
 
 #### (4) Assistance to provide or improve services
 
@@ -138,7 +138,7 @@ Notwithstanding subsection (f), financial assistance provided under this chapter
 
 #### References in Text
 
-The Rural Electrification Act of 1936, referred to in subsecs. (c)(2) and (h)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsecs. (c)(2) and (h)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
 #### Codification
 

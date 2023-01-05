@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) in accordance with such subparagraph; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to such number, as determined by the Administrator based on the best available information and subject to amounts available under section 300mm–61 of this title, that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals who are enrolled; and
+&emsp;&emsp;&emsp;&emsp;(II) to such number, as determined by the Administrator based on the best available information and subject to amounts available under sections 300mm–61 and 300mm–62 of this title, that will ensure sufficient funds will be available to provide treatment and monitoring benefits under this subchapter, with respect to all individuals who are enrolled; and
 
 &emsp;&emsp;&emsp;(ii) provide priority (subject to paragraph (3)(A)(i)) in such enrollments in the order in which individuals apply for enrollment under paragraph (3).
 
@@ -130,13 +130,15 @@
 
 #### (2) Provision of monitoring benefits
 
-&emsp;The monitoring benefits under paragraph (1) shall be provided through the Clinical Center of Excellence for the type of individual involved or, in the case of an individual residing outside the New York metropolitan area, under an arrangement under section 300mm–23 of this title.
+&emsp;The monitoring benefits under paragraph (1) shall be provided through the Clinical Centerof Excellence for the type of individual involved or, in the case of an individual residing outside the New York metropolitan area, under an arrangement under section 300mm–23 of this title.
 
-(July 1, 1944, ch. 373, title XXXIII, §3311, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011,124 Stat. 3635; amended Pub. L. 114–113, div. O, title III, §302(d), Dec. 18, 2015, 129 Stat. 2999; Pub. L. 116–59, div. B, title VI, §1602(a), Sept. 27, 2019, 133 Stat. 1107.)
+(July 1, 1944, ch. 373, title XXXIII, §3311, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3635; amended Pub. L. 114–113, div. O, title III, §302(d), Dec. 18, 2015, 129 Stat. 2999; Pub. L. 116–59, div. B, title VI, §1602(a), Sept. 27, 2019, 133 Stat. 1107; Pub. L. 117–328, div. FF, title VII, §7701(b)(1), Dec. 29, 2022, 136 Stat. 5965.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(4)(B)(i)(II). Pub. L. 117–328 substituted "sections 300mm–61 and 300mm–62 of this title" for "section 300mm–61 of this title".
 
 <b>2019</b>—Subsec. (a)(4)(A). Pub. L. 116–59 substituted "75,000" for "25,000".
 

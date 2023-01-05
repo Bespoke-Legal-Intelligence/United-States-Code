@@ -4,7 +4,7 @@
 
 Policy.—It is in the national interest—
 
-&emsp;(1) to encourage and promote the safe and efficient management, operation, and development of surface transportation systems that will serve the mobility needs of people and freight, foster economic growth and development within and between States and urbanized areas better connect housing and employment,,<sup>1</sup> and take into consideration resiliency needs while minimizing transportation-related fuel consumption and air pollution through metropolitan and statewide transportation planning processes identified in this chapter; and
+&emsp;(1) to encourage and promote the safe and efficient management, operation, and development of surface transportation systems that will serve the mobility needs of people and freight, foster economic growth and development within and between States and urbanizedareas better connect housing and employment,,<sup>1</sup> and take into consideration resiliency needs while minimizing transportation-related fuel consumption and air pollution through metropolitan and statewide transportation planning processes identified in this chapter; and
 
 &emsp;(2) to encourage the continued improvement and evolution of the metropolitan and statewide transportation planning processes by metropolitan planning organizations, State departments of transportation, and public transit operators as guided by the planning factors identified in subsection (h) and section 135(d).
 
@@ -96,7 +96,7 @@ Powers of certain officials.—An official described in paragraph (2)(B) shall h
 
 &emsp;&emsp;(D)
 
-Considerations.—In designating officials or representatives under paragraph (2)for the first time, subject to the bylaws or enabling statute of the metropolitan planning organization, the metropolitan planning organization shall consider the equitable and proportional representation of the population of the metropolitan planning area.
+Considerations.—In designating officials or representatives under paragraph (2) for the first time, subject to the bylaws or enabling statute of the metropolitan planning organization, the metropolitan planning organization shall consider the equitable and proportional representation of thepopulation of the metropolitan planning area.
 
 &emsp;(4)
 
@@ -196,7 +196,7 @@ MPO Consultation in Plan and TIP Coordination.—
 
 &emsp;(1)
 
-Nonattainment areas.—If more than 1 metropolitan planning organization has authority within an urbanized area (as defined by the Bureau of the Census) or an area whichis designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), each metropolitan planning organization shall consult with the other metropolitan planning organizations designated for such area and the State in the coordination of plans and TIPs required by this section.
+Nonattainment areas.—If more than 1 metropolitan planning organization has authority within an urbanized area (as defined by the Bureau of the Census) or an area which is designated as a nonattainment area for ozone or carbon monoxide under the Clean Air Act (42 U.S.C. 7401 et seq.), each metropolitan planning organization shall consult with the other metropolitan planning organizationsdesignated for such area and the State in the coordination of plans and TIPs required by this section.
 
 &emsp;(2)
 
@@ -384,7 +384,7 @@ Inclusions.—The financial plan may include, for illustrative purposes, additio
 
 &emsp;&emsp;&emsp;(iii)
 
-Cooperative development.—For the purpose of developing the transportation plan, the metropolitan planning organization, transit operator, and Stateshall cooperatively develop estimates of funds that will be available to support plan implementation.
+Cooperative development.—For the purpose of developing the transportation plan, the metropolitan planning organization, transit operator, and State shall cooperatively develop estimates of funds that will be available to support plan implementation.
 
 &emsp;&emsp;(F)
 
@@ -484,7 +484,7 @@ Use of technology.—A metropolitan planning organization may use social media a
 
 &emsp;(7)
 
-Publication.—A transportation plan involving Federal participation shall be published or otherwise made readily available by the metropolitan planning organization for public review, including (to the maximum extent practicable) in electronically accessible formats and means, such as the World Wide Web, approved by the metropolitan planning organization and submitted for information purposes to the Governor at such times and in such manner as the Secretary shall establish.
+Publication.—A transportation plan involving Federal participation shall be published or otherwise made readily available bythe metropolitan planning organization for public review, including (to the maximum extent practicable) in electronically accessible formats and means, such as the World Wide Web, approved by the metropolitan planning organization and submitted for information purposes to the Governor at such times and in such manner as the Secretary shall establish.
 
 &emsp;(8)
 
@@ -696,7 +696,7 @@ Coordination in integrated planning process.—In carrying out the process descr
 
 &emsp;&emsp;&emsp;(i) consult with—
 
-&emsp;&emsp;&emsp;&emsp;(I) State and local entities responsible for land use, economic development, housing, management of road networks, or public transportation; and
+&emsp;&emsp;&emsp;&emsp;(I) State and local entities responsible for land use, economic development,housing, management of road networks, or public transportation; and
 
 &emsp;&emsp;&emsp;&emsp;(II) other appropriate public or private entities; and
 
@@ -786,7 +786,7 @@ Report on Performance-based Planning Processes.—
 
 &emsp;(1)
 
-In general.—The Secretary shall submit to Congress a report on the effectiveness ofthe performance-based planning processes of metropolitan planning organizations under this section, taking into consideration the requirements of this subsection.
+In general.—The Secretary shall submit to Congress a report on the effectiveness of the performance-based planning processes of metropolitan planning organizations under this section, taking into consideration the requirements of this subsection.
 
 &emsp;(2)
 
@@ -876,7 +876,7 @@ Planning.—In determining the amounts under subparagraph (A) of section 133(d)(
 
 STBGP set aside.—In determining the amounts under paragraph (2) of section 133(h) that shall be obligated for a fiscal year in the States of California and Nevada, the Secretary shall, for the purpose of that subsection, calculate the populations for each of those States in a manner consistent with subparagraph (A).
 
-(Added Pub. L. 87–866, §9(a), Oct. 23, 1962, 76 Stat. 1148; amended Pub. L. 91–605, title I, §143, Dec. 31, 1970, 84 Stat. 1737; Pub. L. 95–599, title I, §169, Nov. 6, 1978, 92 Stat. 2723; Pub. L. 102–240, title I, §1024(a), Dec. 18, 1991, 105 Stat. 1955; Pub. L. 102–388, title V, §502(b), Oct. 6, 1992, 106 Stat. 1566; Pub. L. 103–429, §3(5), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §317, Nov. 28, 1995, 109 Stat. 588; Pub. L. 105–178, title I, §1203(a)–(m),\(o), June 9, 1998, 112 Stat. 170–179; Pub. L. 105–206, title IX, §9003(c), July 22, 1998, 112 Stat. 839; Pub. L. 109–59, title VI, §6001(a), Aug. 10, 2005, 119 Stat. 1839; Pub. L. 110–244, title I, §101(n), June 6, 2008, 122 Stat. 1576; Pub. L. 112–141, div. A, title I, §1201(a), July 6, 2012, 126 Stat. 500; Pub. L. 114–94, div. A, title I, §1201, Dec. 4, 2015, 129 Stat. 1371; Pub. L. 117–58, div. A, title I, §11201(a), (d), Nov. 15, 2021, 135 Stat. 516, 517.)
+(Added Pub. L. 87–866, §9(a), Oct. 23, 1962, 76 Stat. 1148; amended Pub. L. 91–605, title I, §143, Dec. 31, 1970, 84 Stat. 1737; Pub. L. 95–599, title I, §169, Nov. 6, 1978, 92 Stat. 2723; Pub. L. 102–240, title I, §1024(a), Dec. 18, 1991, 105 Stat. 1955; Pub. L. 102–388, title V, §502(b), Oct. 6, 1992, 106 Stat. 1566; Pub. L. 103–429, §3(5), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §317, Nov. 28, 1995, 109 Stat. 588; Pub. L. 105–178, title I, §1203(a)–(m), (o), June 9, 1998, 112 Stat. 170–179; Pub. L. 105–206, title IX, §9003(c), July 22, 1998, 112 Stat. 839; Pub. L. 109–59, title VI, §6001(a), Aug. 10, 2005, 119Stat. 1839; Pub. L. 110–244, title I, §101(n), June 6, 2008, 122 Stat. 1576; Pub. L. 112–141, div. A, title I, §1201(a), July 6, 2012, 126 Stat. 500; Pub. L. 114–94, div. A, title I, §1201, Dec. 4, 2015, 129 Stat. 1371; Pub. L. 117–58, div. A, title I, §11201(a), (d), Nov. 15, 2021, 135 Stat. 516, 517.)
 
 #### <b>Editorial Notes</b>
 
@@ -1010,7 +1010,7 @@ Subsec. (g)(2). Pub. L. 105–178, §1203(g)(1), (7), (8), substituted "Long-ran
 
 Subsec. (g)(2)(A). Pub. L. 105–178, §1203(g)(2), (8), substituted "An identification of" for "Identify" and "long-range transportation plan" for "long range plan".
 
-Subsec. (g)(2)(B). Pub. L. 105–178, §1203(g)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: "Include a financial plan that demonstrates how the long-range plan can be implemented, indicates resources from public and private sources that are reasonably expected to be made available to carry out the plan, and recommends any innovative financing techniques to finance needed projects and programs, including such techniques as value capture, tolls and congestion pricing."
+Subsec. (g)(2)(B). Pub. L. 105–178, §1203(g)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: "Include a financial plan that demonstrates how the long-range plan can be implemented, indicates resources from public and private sources that are reasonably expected to be made available tocarry out the plan, and recommends any innovative financing techniques to finance needed projects and programs, including such techniques as value capture, tolls and congestion pricing."
 
 Subsec. (g)(3). Pub. L. 105–178, §1203(g)(8), substituted "long-range transportation plan" for "long range plan".
 
@@ -1050,7 +1050,7 @@ Subsecs. (l), (m). Pub. L. 103–429, §3(5)(C), substituted "chapter 53 of titl
 
 <b>1992</b>—Subsec. (k). Pub. L. 102–388 inserted at end "The provisions of title 23, United States Code, regarding the non-Federal share shall apply to title 23 funds used for transit projects and the provisions of the Federal Transit Act regarding non-Federal share shall apply to Federal Transit Act funds used for highway projects."
 
-<b>1991</b>—Pub. L. 102–240 substituted section catchline for one which read: "Transportation planning in certain urban areas" and amended text generally, substituting present provisions for provisions relating to transportation planning in certain urban areas, including provisions stating transportation objectives, requiring continuing comprehensive planning process by States and local communities, and relating to redesignation ofmetropolitan planning organizations, designation of contiguous interstate areas as critical transportation regions and corridors, establishment of planning bodies for such regions and corridors, and authorization of appropriations.
+<b>1991</b>—Pub. L. 102–240 substituted section catchline for one which read: "Transportation planning in certain urban areas" and amended text generally, substituting present provisions for provisions relating to transportation planning in certain urban areas, including provisions stating transportation objectives, requiring continuing comprehensive planning process by States and local communities, and relating to redesignation of metropolitan planning organizations, designation of contiguous interstate areas as critical transportation regions and corridors, establishment of planning bodies for such regions and corridors, and authorization of appropriations.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–599, §169(a), inserted provisions related to cooperation with local officials and specific considerations in the planning process.
 
@@ -1176,7 +1176,7 @@ Metropolitan transportation planning.—In the case of a metropolitan planning o
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) use the evaluation under subclause (II) to create a ranked list of proposed projects; and
 
-&emsp;&emsp;&emsp;"(ii) with respect to the priority list under section 134(j)(2)(A) of title 23 and section 5303(j)(2)(A) of title 49, United States Code, include projects according to the rank of the project under clause (i)(III), except as provided in subparagraph (D).
+&emsp;&emsp;&emsp;"(ii) with respect to the priority list under section 134(j)(2)(A) of title 23 and section 5303(j)(2)(A) of title 49, United States Code, include projectsaccording to the rank of the project under clause (i)(III), except as provided in subparagraph (D).
 
 &emsp;&emsp;"(B)
 

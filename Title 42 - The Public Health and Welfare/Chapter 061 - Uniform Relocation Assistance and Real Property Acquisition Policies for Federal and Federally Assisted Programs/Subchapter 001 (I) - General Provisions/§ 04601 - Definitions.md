@@ -18,7 +18,7 @@ As used in this chapter—
 
 &emsp;&emsp;(I) as a direct result of a written notice of intent to acquire or the acquisition of such real property in whole or in part for a program or project undertaken by a Federal agency or with Federal financial assistance; or
 
-&emsp;&emsp;(II) on which such person is a residential tenant or conducts a small business, a farm operation, or a business defined in paragraph (7)(D), as a direct result of rehabilitation, demolition, or such other displacing activity as the lead agency may prescribe, under a program or project undertaken by a Federal agency or with Federal financial assistance in any case in which the head of the displacing agency determines that such displacement is permanent; and
+&emsp;&emsp;(II) on which such person is a residential tenant or conducts a small business, a farmoperation, or a business defined in paragraph (7)(D), as a direct result of rehabilitation, demolition, or such other displacing activity as the lead agency may prescribe, under a program or project undertaken by a Federal agency or with Federal financial assistance in any case in which the head of the displacing agency determines that such displacement is permanent; and
 
 &emsp;(ii) solely for the purposes of sections 4622(a) and (b) and 4625 of this title, any person who moves from real property, or moves his personal property from real property—
 
@@ -42,7 +42,7 @@ As used in this chapter—
 
 &emsp;(D) solely for the purposes of section 4622 of this title, for assisting in the purchase, sale, resale, manufacture, processing, or marketing of products, commodities, personal property, or services by the erection and maintenance of an outdoor advertising display or displays, whether or not such display or displays are located on the premises on which any of the above activities are conducted.
 
-(8) The term "farm operation" means any activity conducted solely or primarily for the production of one or more agricultural products or commodities, including timber, for sale or home use, and customarily producing such products orcommodities in sufficient quantity to be capable of contributing materially to the operator's support.
+(8) The term "farm operation" means any activity conducted solely or primarily for the production of one or more agricultural products or commodities, including timber, for sale or home use, and customarily producing such products or commodities in sufficient quantity to be capable of contributing materially to the operator's support.
 
 (9) The term "mortgage" means such classes of liens as are commonly given to secure advances on, or the unpaid purchase price of, real property, under the laws of the State in which the real property is located, together with the credit instruments, if any, secured thereby.
 

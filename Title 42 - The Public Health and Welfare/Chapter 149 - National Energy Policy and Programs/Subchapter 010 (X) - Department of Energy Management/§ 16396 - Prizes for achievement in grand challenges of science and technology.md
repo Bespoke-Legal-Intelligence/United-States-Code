@@ -60,7 +60,7 @@ There are authorized to be appropriated—
 
 &emsp;&emsp;&emsp;(i) advertising prize competitions under this subsection and their results;
 
-&emsp;&emsp;&emsp;(ii) raising funds from private entities and individuals to pay for administrative costs and to contribute to cash prizes, including funds provided in exchange for the right to name a prize awarded under this subsection;
+&emsp;&emsp;&emsp;(ii) raising funds from private entities and individuals to pay for administrative costs and to contribute to cash prizes, including funds provided in exchange for theright to name a prize awarded under this subsection;
 
 &emsp;&emsp;&emsp;(iii) developing, in consultation with and subject to the final approval of the Secretary, the criteria for selecting winners in prize competitions under this subsection, based on goals provided by the Secretary;
 
@@ -118,7 +118,7 @@ There are authorized to be appropriated—
 
 #### (iii) Transformational technologies
 
-&emsp;&emsp;&emsp;To the extent permitted under paragraph (1)(E), the Secretary shall announce one prize competition authorized under subparagraph (A)(iii) as soon after December 19, 2007, as is practicable. A prize offered under this clause shall be not less than $10,000,000, paid to the winner in a lump sum, and an additional amount paid to the winner as a match for each dollar of private funding raised by the winner for the hydrogen technology beginning on the date the winner was named. The match shall be provided for 3 years after the date the prize winner is named or until the full amount of the prize has been paid out, whichever occurs first. A prize winner may elect to have the match amount paid to another entity that is continuing the development of the winning technology. The Secretary shall announce the rules for receiving the match in the notice requiredby paragraph (1)(B)(ii). The Secretary shall award a prize under this clause only when a registered participant has met the objective criteria established for the prize pursuant to subparagraph (C) and announced pursuant to paragraph (1)(B)(ii). Not more than $10,000,000 in Federal funds may be used for the prize award under this clause. The administering entity shall seek to raise $40,000,000 toward the matching award under this clause.
+&emsp;&emsp;&emsp;To the extent permitted under paragraph (1)(E), the Secretary shall announce one prize competition authorized under subparagraph (A)(iii) as soon after December 19, 2007, as is practicable. A prize offered under this clause shall be not less than $10,000,000, paid to the winner in a lump sum, and an additional amount paid to thewinner as a match for each dollar of private funding raised by the winner for the hydrogen technology beginning on the date the winner was named. The match shall be provided for 3 years after the date the prize winner is named or until the full amount of the prize has been paid out, whichever occurs first. A prize winner may elect to have the match amount paid to another entity that is continuing the development of the winning technology. The Secretary shall announce the rules for receiving the match in the notice required by paragraph (1)(B)(ii). The Secretary shall award a prize under this clause only when a registered participant has met the objective criteria established for the prize pursuant to subparagraph (C) and announced pursuant to paragraph (1)(B)(ii). Not more than $10,000,000 in Federal funds may be used for the prize award under this clause. The administering entity shall seek to raise $40,000,000 toward the matching award under this clause.
 
 #### (C) Criteria
 
@@ -208,7 +208,11 @@ There are authorized to be appropriated—
 
 &emsp;The programs created under this subsection shall not be considered a substitute for Federal research and development programs.
 
-(Pub. L. 109–58, title X, §1008, Aug. 8, 2005, 119 Stat. 933; Pub. L. 110–140, title VI, §654, Dec. 19, 2007, 121 Stat. 1695; Pub. L. 116–260, div. Z, title IX, §9004, Dec. 27, 2020, 134 Stat. 2598.)
+#### (h) Report
+
+In accordance with section 16391a of this title, the Secretary shall report annually on a description of any prize competitions carried out using the authority under this section, the total amount of prizes awarded along with any private sector contributions, the methods used for solicitation and evaluation, and a description of how each prize competition advanced the mission of the Department.
+
+(Pub. L. 109–58, title X, §1008, Aug. 8, 2005, 119 Stat. 933; Pub. L. 110–140, title VI, §654, Dec. 19, 2007, 121 Stat. 1695; Pub. L. 116–260, div. Z, title IX, §9004, Dec. 27, 2020, 134 Stat. 2598; Pub. L. 117–167, div. B, title VI, §10724, Aug. 9, 2022, 136 Stat. 1709.)
 
 #### <b>Editorial Notes</b>
 
@@ -218,9 +222,13 @@ Section 105 of the America Creating Opportunities to Meaningfully Promote Excell
 
 #### Amendments
 
-<b>2020</b>—Subsec. (e). Pub. L. 116–260 added subsec. (e). Former subsec. (e) redesignated (f) as the probable intent of Congress.
+<b>2022</b>—Subsec. (f). Pub. L. 117–167, §10724(b), redesignated subsec. (e) relating to authorization of appropriations as (f).
 
-Subsecs. (f) to (h). Pub. L. 116–260, which directed redesignation of subsecs. (f) and (g) as (g) and (h), respectively, was executed by redesignating subsecs. (e) and (f) as (f) and (g), respectively, to reflect the probable intent of Congress.
+Subsec. (h). Pub. L. 117–167, §10724(a), added subsec. (h).
+
+<b>2020</b>—Subsec. (e). Pub. L. 116–260 added subsec. (e) relating to coordination.
+
+Subsecs. (f), (g). Pub. L. 116–260, which directed redesignation of subsecs. (f) and (g) as (g) and (h), respectively, was executed by redesignating subsec. (f) as (g), to reflect the probable intent of Congress.
 
 <b>2007</b>—Subsec. (f). Pub. L. 110–140 added subsec. (f).
 

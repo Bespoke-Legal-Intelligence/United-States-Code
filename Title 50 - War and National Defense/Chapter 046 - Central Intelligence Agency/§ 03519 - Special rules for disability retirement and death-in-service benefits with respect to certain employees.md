@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, an officer or employee of the Centra
 
 &emsp;(4) satisfies the requirements for disability retirement under section 8337 of title 5—
 
-> shall, upon his own application or upon order of the Director, be retired on an annuity computedin accordance with the rules prescribed in section 2051 of this title, in lieu of an annuity computed as provided by section 8337 of title 5.
+> shall, upon his own application or upon order of the Director, be retired on an annuity computed in accordance with the rules prescribed in section 2051 of this title, in lieu of an annuity computed as provided by section 8337 of title 5.
 
 #### (b) Survivors of officers and employees to whom section 2052 rules apply
 

@@ -56,7 +56,7 @@ Pub. L. 111–84, div. A, title V, §525(c)–(f), Oct. 28, 2009, 123 Stat. 2287
 
 "(c)
 
-Undergraduate Nurse Training Program Plan.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a plan to establish an undergraduate nurse training program in the Department of Defense in accordance with the authority provided by section 2169 of title 10, United States Code, as added by subsection (a), section 2016 of such title, as added by subsection (b), or any other authority available to the Secretary.
+Undergraduate Nurse Training Program Plan.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a plan to establish an undergraduate nurse training program in the Department of Defense in accordance with the authority provided by section 2169 of title 10, United States Code, as added by subsection (a), section 2016 ofsuch title, as added by subsection (b), or any other authority available to the Secretary.
 
 "(d)
 

@@ -8,13 +8,15 @@
 | [70904\.](%C2%A7%2070904%20-%20International%20Space%20Station%20completion.md) | International Space Station completion. |
 | [70905\.](%C2%A7%2070905%20-%20National%20laboratory%20designation.md) | National laboratory designation. |
 | [70906\.](%C2%A7%2070906%20-%20International%20Space%20Station%20National%20Laboratory%20Advisory%20Committee.md) | International Space Station National Laboratory Advisory Committee. |
-| [70907\.](%C2%A7%2070907%20-%20Maintaining%20use%20through%20at%20least%202024.md) | Maintaining use through at least 2024. |
+| [70907\.](%C2%A7%2070907%20-%20Maintaining%20use%20through%20at%20least%202030.md) | Maintaining use through at least 2030. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–167, div. B, title VII, §10815(d)(2), Aug. 9, 2022, 136 Stat. 1738, substituted "Maintaining use through at least 2030." for "Maintaining use through at least 2024." in item 70907.
 
 <b>2015</b>—Pub. L. 114–90, title I, §114(b)(5)(B), Nov. 25, 2015, 129 Stat. 716, substituted "Maintaining use through at least 2024." for "Maintaining use through at least 2020." in item 70907.
 
@@ -29,4 +31,4 @@
 - [&sect; 70904 - International Space Station completion](%C2%A7%2070904%20-%20International%20Space%20Station%20completion.md)
 - [&sect; 70905 - National laboratory designation](%C2%A7%2070905%20-%20National%20laboratory%20designation.md)
 - [&sect; 70906 - International Space Station National Laboratory Advisory Committee](%C2%A7%2070906%20-%20International%20Space%20Station%20National%20Laboratory%20Advisory%20Committee.md)
-- [&sect; 70907 - Maintaining use through at least 2024](%C2%A7%2070907%20-%20Maintaining%20use%20through%20at%20least%202024.md)
+- [&sect; 70907 - Maintaining use through at least 2030](%C2%A7%2070907%20-%20Maintaining%20use%20through%20at%20least%202030.md)

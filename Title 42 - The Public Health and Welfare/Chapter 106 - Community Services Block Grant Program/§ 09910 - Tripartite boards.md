@@ -10,7 +10,7 @@
 
 &emsp;The members of the board referred to in paragraph (1) shall be selected by the entity and the board shall be composed so as to assure that—
 
-&emsp;&emsp;(A) 1/3 of the members of the board are elected public officials, holding office on the date of selection, or their representatives, except that if the number of such elected officials reasonably available and willing to serve on the board is less than 1/3 of themembership of the board, membership on the board of appointive public officials or their representatives may be counted in meeting such 1/3 requirement;
+&emsp;&emsp;(A) 1/3 of the members of the board are elected public officials, holding office on the date of selection, or their representatives, except that if the number of such elected officials reasonably available and willing to serve on the board is less than 1/3 of the membership of the board, membership on the board of appointive public officials ortheir representatives may be counted in meeting such 1/3 requirement;
 
 &emsp;&emsp;(B)(i) not fewer than 1/3 of the members are persons chosen in accordance with democratic selection procedures adequate to assure that these members are representative of low-income individuals and families in the neighborhood served; and
 

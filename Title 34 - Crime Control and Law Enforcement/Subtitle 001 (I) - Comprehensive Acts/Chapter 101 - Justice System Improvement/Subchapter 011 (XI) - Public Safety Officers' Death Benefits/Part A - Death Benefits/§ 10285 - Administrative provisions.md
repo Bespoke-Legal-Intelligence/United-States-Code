@@ -6,7 +6,7 @@ The Bureau is authorized to establish such rules, regulations, and procedures as
 
 #### (b) Use of State and local administrative and investigative assistance
 
-(1) In making determinations under section 10281 of this title, the Bureau may utilize such administrative and investigative assistance as may be available from State and local agencies. Responsibility for making final determinations shall rest with the Bureau.
+(1) In making determinations under section 10281 of this title, the Bureau may utilize such administrative and investigative assistance asmay be available from State and local agencies. Responsibility for making final determinations shall rest with the Bureau.
 
 (2) In making a determination under section 10281 of this title, the Bureau shall give substantial weight to the evidence and all findings of fact presented by a State, local, or Federal administrative or investigative agency regarding eligibility for death or disability benefits.
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 117–61 effective Nov. 18, 2021, and applicable to any mat
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–36 effective June 2, 2017, and applicable to any benefit claim or applicationunder this subchapter pending before the Bureau of Justice Assistance on such date or received by the Bureau on or after such date, see section 6 of Pub. L. 115–36, set out as a note under section 10282 of this title.
+Amendment by Pub. L. 115–36 effective June 2, 2017, and applicable to any benefit claim or application under this subchapter pending before the Bureau of Justice Assistance on such date or received by the Bureau on or after such date, see section 6 of Pub. L. 115–36, set out as a note under section 10282 of this title.
 
 #### Effective Date of 2013 Amendment
 

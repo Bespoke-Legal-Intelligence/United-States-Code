@@ -18,7 +18,7 @@ In the case of the termination of a single-employer plan, the plan administrator
 
 &emsp;(4) Fourth—
 
-&emsp;&emsp;(A) to all other benefits (if any) of individuals under the plan guaranteed under thissubchapter (determined without regard to section 1322b(a) of this title), and
+&emsp;&emsp;(A) to all other benefits (if any) of individuals under the plan guaranteed under this subchapter (determined without regard to section 1322b(a) of this title), and
 
 &emsp;&emsp;(B) to the additional benefits (if any) which would be determined under subparagraph (A) if section 1322(b)(5)(B) of this title did not apply.
 
@@ -34,7 +34,7 @@ For purposes of subsection (a)—
 
 &emsp;(1) The amount allocated under any paragraph of subsection (a) with respect to any benefit shall be properly adjusted for any allocation of assets with respect to that benefit under a prior paragraph of subsection (a).
 
-&emsp;(2) If the assets available for allocation under any paragraph of subsection (a) (other than paragraphs (4), (5), and (6)) are insufficient to satisfy in full the benefits of all individuals which are described in that paragraph, the assets shall be allocated pro rata among such individuals on the basis of the present value (as of the termination date) of their respective benefits described in that paragraph.
+&emsp;(2) If the assets available for allocation under any paragraph of subsection (a) (other than paragraphs (4), (5), and (6)) are insufficient to satisfy in full the benefits of all individuals which are described in that paragraph, the assets shall be allocated pro rata among such individuals on the basis of the presentvalue (as of the termination date) of their respective benefits described in that paragraph.
 
 &emsp;(3) If assets available for allocation under paragraph (4) of subsection (a) are insufficient to satisfy in full the benefits of all individuals who are described in that paragraph, the assets shall be allocated first to benefits described in subparagraph (A) of that paragraph. Any remaining assets shall then be allocated to benefits described in subparagraph (B) of that paragraph. If assets allocated to such subparagraph (B) are insufficient to satisfy in full the benefits described in that subparagraph, the assets shall be allocated pro rata among individuals on the basis of the present value (as of the termination date) of their respective benefits described in that subparagraph.
 
@@ -64,7 +64,7 @@ Any increase or decrease in the value of the assets of a single-employer plan oc
 
 &emsp;(C) the plan provides for such a distribution in these circumstances.
 
-(2)(A) In determining the extent to which a plan provides for the distribution of plan assets to the employer for purposes of paragraph (1)(C), any such provision, and any amendment increasing the amount which may be distributed to theemployer, shall not be treated as effective before the end of the fifth calendar year following the date of the adoption of such provision or amendment.
+(2)(A) In determining the extent to which a plan provides for the distribution of plan assets to the employer for purposes of paragraph (1)(C), any such provision, and any amendment increasing the amount which may be distributed to the employer, shall not be treated as effective before the end of the fifth calendar year following the date of the adoption of such provision or amendment.
 
 (B) A distribution to the employer from a plan shall not be treated as failing to satisfy the requirements of this paragraph if the plan has been in effect for fewer than 5 years and the plan has provided for such a distribution since the effective date of the plan.
 
@@ -72,7 +72,7 @@ Any increase or decrease in the value of the assets of a single-employer plan oc
 
 (D) For purposes of this subsection, the term "employer" includes any member of the controlled group of which the employer is a member. For purposes of the preceding sentence, the term "controlled group" means any group treated as a single employer under subsection (b), (c), (m) or (o) of section 414 of title 26.
 
-(3)(A) Before any distribution from a plan pursuant to paragraph (1), if any assets of the plan attributable to employee contributions remain after satisfaction of all liabilities described in subsection (a), such remaining assets shall be equitably distributed to the participants who made such contributions or their beneficiaries (including alternate payees, within the meaning of section 1056(d)(3)(K) of this title).
+(3)(A) Before any distribution from a plan pursuant to paragraph (1), if any assets of the plan attributable to employee contributions remain after satisfaction of all liabilities described in subsection (a), such remaining assets shall be equitably distributed to the participants who made such contributions or their beneficiaries\(including alternate payees, within the meaning of section 1056(d)(3)(K) of this title).
 
 (B) For purposes of subparagraph (A), the portion of the remaining assets which are attributable to employee contributions shall be an amount equal to the product derived by multiplying—
 
@@ -148,7 +148,7 @@ If a contributing sponsor of a plan has filed or has had filed against such pers
 
 &emsp;Determinations under this subsection shall be made by the corporation. Such determinations shall be binding unless shown by clear and convincing evidence to be unreasonable.
 
-(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7), Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 109–280, title IV, §§404(b), 407(b), 408(b)(2), Aug. 17, 2006, 120 Stat. 928, 930, 931; Pub. L. 110–458, title I, §104(c), Dec. 23, 2008, 122 Stat. 5104.)
+(Pub. L. 93–406, title IV, §4044, Sept. 2, 1974, 88 Stat. 1025; Pub. L. 96–364, title IV, §402(a)(7),Sept. 26, 1980, 94 Stat. 1299; Pub. L. 99–272, title XI, §11016(c)(12), (13), Apr. 7, 1986, 100 Stat. 274; Pub. L. 100–203, title IX, §9311(a)(1), (b), (c), Dec. 22, 1987, 101 Stat. 1330–359, 1330–360; Pub. L. 101–239, title VII, §§7881(e)(3), 7891(a)(1), 7894(g)(2), Dec. 19, 1989, 103 Stat. 2440, 2445, 2451; Pub. L. 101–508, title XII, §12002(b)(2)(B), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 109–280, title IV, §§404(b), 407(b), 408(b)(2), Aug. 17, 2006, 120 Stat. 928, 930, 931; Pub. L. 110–458, title I, §104(c), Dec. 23, 2008, 122 Stat. 5104.)
 
 #### <b>Editorial Notes</b>
 
@@ -216,7 +216,7 @@ Amendment by section 408(b)(2) of Pub. L. 109–280 applicable for any terminati
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30, 1990, but not applicableto any reversion after Sept. 30, 1990, if (1) in the case of plans subject to subchapter III of this chapter, notice of intent to terminate under such subchapter was provided to participants (or if no participants, to Pension Benefit Guaranty Corporation) before Oct. 1, 1990, (2) in the case of plans subject to subchapter I of this chapter (and not subchapter III), notice of intent to reduce future accruals under section 1054(h) of this title was provided to participants in connection with termination before Oct. 1, 1990, (3) in the case of plans not subject to subchapter I or III of this chapter, a request for a determination letter with respect to termination was filed with Secretary of the Treasury or Secretary's delegate before Oct. 1, 1990, or (4) in the case of plans not subject to subchapter I or III of this chapter and having only one participant, a resolution terminating the plan was adopted by employer before Oct. 1, 1990, see section 12003 of Pub. L. 101–508, set out as a note under section 4980 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 101–508 applicable to reversions occurring after Sept. 30, 1990, but not applicable to any reversion after Sept. 30, 1990, if (1) in the case of plans subject to subchapter III of this chapter, notice of intent to terminate under such subchapter was provided to participants (or if no participants, to Pension Benefit Guaranty Corporation) before Oct. 1, 1990, (2) in the case of plans subject to subchapter I of this chapter (and not subchapter III), notice of intent to reduce future accruals under section 1054(h) of this title was provided to participants in connection with termination before Oct. 1, 1990, (3) in the case of plans not subject to subchapter I or III of this chapter, a request for a determination letter with respect to termination was filed with Secretary of the Treasury or Secretary's delegate before Oct. 1, 1990, or (4) in the case of plans not subject to subchapter I or III of this chapter and having only one participant, a resolution terminating the plan was adopted by employer before Oct. 1, 1990, see section 12003 of Pub. L. 101–508, set out as a note under section 4980 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

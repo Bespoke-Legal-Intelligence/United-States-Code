@@ -4,7 +4,7 @@
 
 #### (1) Definition of special import quota
 
-&emsp;In this subsection, the term "special import quota" means a quantity of imports that isnot subject to the over-quota tariff rate of a tariff-rate quota.
+&emsp;In this subsection, the term "special import quota" means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
 
 #### (2) Establishment
 
@@ -52,7 +52,7 @@
 
 #### (A) Supply
 
-&emsp;&emsp;The term "supply" means, using the latest official data of the Bureau of the Census, the Department of Agriculture, and the Department of the Treasury—
+&emsp;&emsp;The term "supply" means, using the latest official data of the Bureau of the Census, theDepartment of Agriculture, and the Department of the Treasury—
 
 &emsp;&emsp;&emsp;(i) the carry-over of upland cotton at the beginning of the marketing year (adjusted to 480-pound bales) in which the quota is established;
 
@@ -102,7 +102,7 @@
 
 #### (D) Quota entry period
 
-&emsp;&emsp;When a quota is established under this subsection, cotton may be entered under thequota during the 90-day period beginning on the date the quota is established by the Secretary.
+&emsp;&emsp;When a quota is established under this subsection, cotton may be entered under the quota during the 90-day period beginning on the date the quota is established by the Secretary.
 
 #### (3) No overlap
 

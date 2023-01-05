@@ -8,7 +8,7 @@ The Secretary shall establish a program under which the Secretary provides fello
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a program under which the Secretary provides fellowships to allow outstanding senior researchers and their research groups in energy research and development to explore research and development topics of their choosing for a periodof not less than 3 years, to be determined by the Secretary.
+&emsp;The Secretary shall establish a program under which the Secretary provides fellowships to allow outstanding senior researchers and their research groups in energy research and development to explore research and development topics of their choosing for a period of not less than 3 years, to be determined by the Secretary.
 
 #### (2) Consideration
 

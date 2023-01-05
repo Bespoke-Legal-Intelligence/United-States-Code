@@ -28,5 +28,5 @@ Amendment by Pub. L. 98–622 effective Nov. 8, 1984, see section 406(a) of Pub.
 
 #### Effective Date
 
-Section effective Jan. 24, 1978, and applicable to international and national applications filed on andafter that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
+Section effective Jan. 24, 1978, and applicable to international and national applications filed on and after that date, see section 11 of Pub. L. 94–131, set out as a note under section 351 of this title.
 

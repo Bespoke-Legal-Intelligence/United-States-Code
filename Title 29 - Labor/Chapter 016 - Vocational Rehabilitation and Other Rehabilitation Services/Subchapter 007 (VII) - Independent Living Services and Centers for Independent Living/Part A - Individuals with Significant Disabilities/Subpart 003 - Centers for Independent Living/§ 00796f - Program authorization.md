@@ -36,7 +36,7 @@ From the funds appropriated for fiscal year 2015 and for each subsequent fiscal 
 
 #### (B) Maintenance of 1992 amounts
 
-&emsp;&emsp;Subject to the availability of appropriations to carry out this subpart, the amount of any allotment made under subparagraph (A) to a State for a fiscal year shall not be less than the amount of financial assistance received by centers for independent living in the State for fiscal year 1992 under part B of this subchapter, as in effect on the day before October 29, 1992.
+&emsp;&emsp;Subject to the availability of appropriations to carry out this subpart, the amountof any allotment made under subparagraph (A) to a State for a fiscal year shall not be less than the amount of financial assistance received by centers for independent living in the State for fiscal year 1992 under part B of this subchapter, as in effect on the day before October 29, 1992.
 
 #### (C) Minimums
 
@@ -82,7 +82,7 @@ Part B of this subchapter, as in effect on the day before October 29, 1992, refe
 
 A prior section 796f, Pub. L. 93–112, title VII, §721, as added Pub. L. 102–569, title VII, §701(2), Oct. 29, 1992, 106 Stat. 4452; amended Pub. L. 103–73, title I, §114(h), Aug. 11, 1993, 107 Stat. 730, authorized program to assist centers for independent living, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-Another prior section 796f, Pub. L. 93–112, title VII, §721, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978,92 Stat. 2999; amended Pub. L. 99–506, title X, §1001(g)(4), Oct. 21, 1986, 100 Stat. 1843; Pub. L. 100–630, title II, §208(g), Nov. 7, 1988, 102 Stat. 3314, related to establishment of independent living service programs for older blind individuals, prior to repeal by Pub. L. 102–569, §701(1).
+Another prior section 796f, Pub. L. 93–112, title VII, §721, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978, 92 Stat. 2999; amended Pub. L. 99–506, title X, §1001(g)(4), Oct. 21, 1986, 100 Stat. 1843; Pub. L. 100–630, title II, §208(g), Nov. 7, 1988, 102 Stat. 3314, related to establishment of independent living service programs for older blind individuals, prior to repeal by Pub. L. 102–569, §701(1).
 
 #### Amendments
 

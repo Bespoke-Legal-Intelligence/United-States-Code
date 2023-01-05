@@ -12,7 +12,7 @@ In this section, the term "Secretary" means the Secretary of the Interior.
 
 #### (2) Restriction
 
-&emsp;If the advance payment, bid deposit, or other earnest money received by the Secretary results from competitive bidding, upon selection of the successful bidder, only the funds paid by the successful bidder shall be held in the trust fund system.
+&emsp;If the advance payment, bid deposit, or other earnest money received by the Secretary results from competitive bidding, upon selectionof the successful bidder, only the funds paid by the successful bidder shall be held in the trust fund system.
 
 #### (c) Use of funds
 
@@ -22,7 +22,7 @@ In this section, the term "Secretary" means the Secretary of the Interior.
 
 #### (2) Administration
 
-&emsp;If a contract or other instrument for a sale, lease, permit, or any other conveyance described in subsection (b)(1) is not approved by the Secretary, the funds held in the trust fund system and described in subsection (b), alongwith all income generated from the investment of those funds, shall be paid to the party identified in, and in such amount and on such terms as set out in, the applicable regulations, advertisement, or other notice governing the proposed conveyance of the interest in the land at issue.
+&emsp;If a contract or other instrument for a sale, lease, permit, or any other conveyance described in subsection (b)(1) is not approved by the Secretary, the funds held in the trust fund system and described in subsection (b), along with all income generated from the investment of those funds, shall be paid to the party identified in, and in such amount and on such terms as set out in, the applicable regulations, advertisement, or other notice governing the proposed conveyance of the interest in the land at issue.
 
 #### (d) Applicability
 

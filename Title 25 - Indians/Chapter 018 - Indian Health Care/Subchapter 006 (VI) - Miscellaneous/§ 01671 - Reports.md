@@ -60,7 +60,7 @@ Section 1680k of this title, referred to in par. (9), was repealed by Pub. L. 11
 
 #### Commission on Indian and Native Alaskan Health Care
 
-Pub. L. 106–310, div. B, title XXXIII, §3307, Oct. 17, 2000, 114 Stat. 1216, provided that:
+Pub. L. 106–310, div. B, title XXXIII, §3307, Oct. 17, 2000, 114 Stat. 1216, as amended by Pub. L. 117–286, §4(a)(181), Dec. 27, 2022, 136 Stat. 4325, provided that:
 
 "(a)
 
@@ -192,7 +192,7 @@ Exception.—In addition to the report required under paragraph (1), not later t
 
 "(j)
 
-Permanent Commission.—Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+Permanent Commission.—Section 1013 of title 5, United States Code, shall not apply to the Commission.
 
 "(k)
 
@@ -200,7 +200,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 #### References to Sections 701 to 720 of Public Law 94–437
 
-Pub. L. 102–573, title VII, §701(d), Oct. 29, 1992, 106 Stat. 4572, provided that: "Any reference in a provision of law other than the Indian Health Care Improvement Act \[25 U.S.C. 1601 et seq.\] to sections redesignated by subsection (b) \[renumbering sections 701 to 720 of Pub.L. 94–437 as sections 801 to 820 of Pub. L. 94–437, which are classified to sections 1671 to 1680j of this title\] shall be deemed to refer to the section as so redesignated."
+Pub. L. 102–573, title VII, §701(d), Oct. 29, 1992, 106 Stat. 4572, provided that: "Any reference in a provision of law other than the Indian Health Care Improvement Act \[25 U.S.C. 1601 et seq.\] to sections redesignated by subsection (b) \[renumbering sections 701 to 720 of Pub. L. 94–437 as sections 801 to 820 of Pub. L. 94–437, which are classified to sections 1671 to 1680j of this title\] shall be deemed to refer to the section as so redesignated."
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -74,7 +74,7 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 #### Effective Date
 
-Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
+Section effective upon the expiration of one hundred and eighty days following Oct. 26, 1970, see section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, set out as a note under section 1681 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "section".</i>
 

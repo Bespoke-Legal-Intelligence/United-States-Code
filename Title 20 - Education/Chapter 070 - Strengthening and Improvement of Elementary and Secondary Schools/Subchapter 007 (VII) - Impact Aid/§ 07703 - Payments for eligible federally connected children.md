@@ -50,7 +50,7 @@
 
 #### (3) Special rule
 
-&emsp;The Secretary shall only compute a payment for a local educational agency for children described in subparagraph (F) or (G) of paragraph (1) if the number of such children equals or exceeds 1,000 or such number equals or exceeds 10 percent of the total number ofstudents in average daily attendance in the schools of such agency.
+&emsp;The Secretary shall only compute a payment for a local educational agency for children described in subparagraph (F) or (G) of paragraph (1) if the number of such children equals or exceeds 1,000 or such number equals or exceeds 10 percent of the total number of students in average daily attendance in the schools of such agency.
 
 #### (4) Military installation and Indian housing undergoing renovation or rebuilding
 
@@ -86,7 +86,7 @@
 
 #### (B) Additional requirements
 
-&emsp;&emsp;If the property described in subparagraph (A) is not owned by the Federal Government, is subject to taxation by a State or political subdivision of a State, and thereby generates revenues for a local educational agency that is applying to receive a payment under this section, then the Secretary—
+&emsp;&emsp;If the property described in subparagraph (A) is not owned by the Federal Government,is subject to taxation by a State or political subdivision of a State, and thereby generates revenues for a local educational agency that is applying to receive a payment under this section, then the Secretary—
 
 &emsp;&emsp;&emsp;(i) shall require the local educational agency to provide certification from an appropriate official of the Department of Defense that the property is being used to provide military housing; and
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(i) at least 400 such children; or
 
-&emsp;&emsp;&emsp;(ii) a number of such children which equals at least 3 percent of the total number of children who were in average dailyattendance, during such year, at the schools of such agency and for whom such agency provided free public education.
+&emsp;&emsp;&emsp;(ii) a number of such children which equals at least 3 percent of the total number of children who were in average daily attendance, during such year, at the schools of such agency and for whom such agency provided free public education.
 
 #### (C) Maximum amount
 
@@ -166,7 +166,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) is a local educational agency that—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has a tax rate for general fund purposes which is not less than 125 percent of the average tax rate for generalfund purposes for comparable local educational agencies in the State;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has a tax rate for general fund purposes which is not less than 125 percent of the average tax rate for general fund purposes for comparable local educational agencies in the State;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb)(AA) has an enrollment of children described in subsection (a)(1) that constitutes a percentage of the total student enrollment of the agency that is not less than 30 percent; or
 
@@ -198,7 +198,7 @@
 
 #### (II) Loss of eligibility due to falling below 95 percent of the average tax rate for general fund purposes
 
-&emsp;&emsp;&emsp;&emsp;In the case of a heavily impacted local educational agency described in subclause (II) or (V) of clause (i) that is eligible to receive a basic support payment under subparagraph (A), but that has had, for 2 consecutive fiscal years, a tax rate for general fund purposes that falls below 95 percent of the average tax rate for general fund purposes of comparable local educational agencies in the State, such agency shall be determined to be ineligible under clause (i) and ineligible to receive a basic support payment under subparagraph (A) for each fiscal year succeeding such 2 consecutive fiscal years for which the agency has such a tax rate for general fund purposes, and until the fiscal year for which the agency resumes such eligibility in accordance with clause (iii).
+&emsp;&emsp;&emsp;&emsp;In the case of a heavily impacted local educational agency described in subclause (II) or (V) of clause (i) that is eligible to receive a basic support payment under subparagraph (A), but that hashad, for 2 consecutive fiscal years, a tax rate for general fund purposes that falls below 95 percent of the average tax rate for general fund purposes of comparable local educational agencies in the State, such agency shall be determined to be ineligible under clause (i) and ineligible to receive a basic support payment under subparagraph (A) for each fiscal year succeeding such 2 consecutive fiscal years for which the agency has such a tax rate for general fund purposes, and until the fiscal year for which the agency resumes such eligibility in accordance with clause (iii).
 
 #### (III) Taken over by State board of education
 
@@ -212,7 +212,7 @@
 
 #### (II) Resumption of eligibility
 
-&emsp;&emsp;&emsp;&emsp;A heavily impacted local educational agency described in clause (i) that becomes ineligible under such clause for 1 or more fiscal years may resume eligibility for a basic support payment under this paragraph for a subsequent fiscalyear only if the agency meets the requirements of clause (i) for that subsequent fiscal year, except that such agency shall not receive a basic support payment under this paragraph until the fiscal year succeeding the fiscal year for which the eligibility determination is made.
+&emsp;&emsp;&emsp;&emsp;A heavily impacted local educational agency described in clause (i) that becomes ineligible under such clause for 1 or more fiscal years may resume eligibility for a basic support payment under this paragraph for a subsequent fiscal year only if the agency meets the requirements of clause (i) for that subsequent fiscal year, except that such agency shall not receive a basic support payment under this paragraph until the fiscal year succeeding the fiscal year for which the eligibility determination is made.
 
 #### (C) Maximum amount for heavily impacted local educational agencies
 
@@ -338,7 +338,7 @@
 
 #### (iii) Conversion of military housing units to private housing described
 
-&emsp;&emsp;&emsp;For purposes of clause (i), "conversion of military housing units to private housing" means the conversion of military housing units to private housing units pursuant to subchapter IV of chapter 169 of title 10 orpursuant to any other related provision of law.
+&emsp;&emsp;&emsp;For purposes of clause (i), "conversion of military housing units to private housing" means the conversion of military housing units to private housing units pursuant to subchapter IV of chapter 169 of title 10 or pursuant to any other related provision of law.
 
 #### (3) Payments with respect to fiscal years in which insufficient funds are appropriated
 
@@ -490,7 +490,7 @@
 
 &emsp;Subject to paragraph (3), A local educational agency described in paragraph (1) shall receive—
 
-&emsp;&emsp;(A) for the first year for which the reduced payment is determined, an amount that is not less than 90 percent of the total amount that the local educational agency received under subsection (b) for the previous fiscal year;
+&emsp;&emsp;(A) for the first year for which the reduced payment is determined, an amount that is not less than 90 percent of the total amount that the local educational agency receivedunder subsection (b) for the previous fiscal year;
 
 &emsp;&emsp;(B) for the second year following such reduction, an amount that is not less than 85 percent of the total amount that the local educational agency received under subparagraph (A); and
 
@@ -514,7 +514,7 @@
 
 Notwithstanding any other provision of law, a local educational agency receiving funds under this section may also receive funds under section 386 of the National Defense Authorization Act for Fiscal Year 1993 or such section's successor authority.
 
-(Pub. L. 89–10, title VII, §7003, formerly title VIII, §8003, as added Pub. L. 103–382, title I, §101,Oct. 20, 1994, 108 Stat. 3752; amended Pub. L. 104–106, div. A, title X, §1074(f), (g), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 104–195, §§3(a), 4(a), 5(a), (b), Sept. 16, 1996, 110 Stat. 2380–2382; Pub. L. 104–201, div. A, title III, §376, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §307(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60005(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1497; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §§1804(a), (b)(1), (c), 1805–1808(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–372, 1654A–374 to 1654A–382; Pub. L. 106–554, §1(a)(1) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61; Pub. L. 107–20, title II, §2703(a), July 24, 2001, 115 Stat. 182; Pub. L. 107–110, title VIII, §802(a)(1), Jan. 8, 2002, 115 Stat. 1949; Pub. L. 107–206, title I, §§801, 802, Aug. 2, 2002, 116 Stat. 874; Pub. L. 107–279, title IV, §406(a), Nov. 5, 2002, 116 Stat. 1986; Pub. L. 107–314, div. A, title III, §344, Dec. 2, 2002, 116 Stat. 2515; Pub. L. 108–136, div. A, title V, §537(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 111–84, div. A, title V, §536, Oct. 28, 2009, 123 Stat. 2293; Pub. L. 112–239, div. A, title V, §563(b)(2), (c)(4), Jan. 2, 2013, 126 Stat. 1746, 1748; renumbered title VII, §7003, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(10), 7004, Dec. 10, 2015, 129 Stat. 2074, 2075, 2077; Pub. L. 114–328, div. A, title V, §579(b)(1), (d)(1), Dec. 23, 2016, 130 Stat. 2145, 2146; Pub. L. 115–141, div. H, title III, §311(d), Mar. 23, 2018, 132 Stat. 750.)
+(Pub. L. 89–10, title VII, §7003, formerly title VIII, §8003, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3752; amended Pub. L. 104–106, div. A, title X, §1074(f), (g), Feb. 10, 1996, 110 Stat. 448, 449; Pub. L. 104–195, §§3(a), 4(a), 5(a), (b), Sept. 16, 1996, 110 Stat. 2380–2382; Pub. L. 104–201, div. A, title III, §376, Sept. 23, 1996, 110 Stat. 2503; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §307(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60005(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1497; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §§1804(a), (b)(1), (c), 1805–1808(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–372, 1654A–374 to 1654A–382; Pub. L. 106–554, §1(a)(1) \[title III, §323\], Dec. 21, 2000, 114 Stat. 2763, 2763A–61; Pub. L. 107–20, title II, §2703(a), July 24, 2001, 115 Stat. 182; Pub. L. 107–110, title VIII, §802(a)(1), Jan. 8, 2002, 115 Stat. 1949; Pub. L. 107–206, title I, §§801, 802, Aug. 2, 2002, 116 Stat. 874; Pub. L. 107–279, title IV, §406(a), Nov. 5, 2002, 116 Stat. 1986; Pub. L. 107–314, div. A, title III, §344, Dec. 2, 2002, 116 Stat. 2515; Pub. L. 108–136, div. A, title V, §537(a), Nov. 24, 2003, 117 Stat. 1475; Pub. L. 111–84, div. A, title V, §536, Oct. 28, 2009, 123 Stat. 2293; Pub. L. 112–239, div. A, title V, §563(b)(2), (c)(4), Jan. 2, 2013, 126 Stat. 1746, 1748; renumbered title VII, §7003, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(10), 7004, Dec. 10, 2015, 129 Stat. 2074, 2075, 2077; Pub. L. 114–328, div. A, title V, §579(b)(1), (d)(1), Dec. 23, 2016, 130 Stat. 2145, 2146; Pub. L. 115–141, div. H, title III, §311(d), Mar. 23, 2018, 132 Stat. 750.)
 
 #### <b>Editorial Notes</b>
 
@@ -522,7 +522,7 @@ Notwithstanding any other provision of law, a local educational agency receiving
 
 Section 2828(g) of title 10 (commonly known as the "Build to Lease" program), as added by section 801 of the Military Construction Authorization Act, 1984, referred to in subsec. (a)(5)(A), means the subsection (g) added to section 2828 of Title 10, Armed Forces, by section 801 of Pub. L. 98–115, which was repealed by Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540.
 
-Act of September 30, 1950, referred to in subsec. (b)(1)(C)(iii), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950, referred to in subsec. (b)(1)(C)(iii), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, which was classified generally to chapter 13 (§236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(2)(B)(i)(III)(bb)(BB), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
@@ -530,7 +530,7 @@ Section 7703(b)(2) of this title, as such section was in effect on the day befor
 
 Section 7703(b)(2)(E) of this title (as such section was in effect for such fiscal year), referred to in subsec. (b)(2)(B)(i)(IV), (D)(i)(II), was in the original "8003(b)(2)(E) (as such section was in effect for such fiscal year)", meaning former section 8003(b)(2)(E) of Pub. L. 89–10, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3752, as such section was in effect for fiscal year 2015. Former section 8003 of Pub. L. 89–10 was renumbered section 7003 by Pub. L. 114–95, title VII, §7001(c)(1), Dec. 10, 2015, 129 Stat. 2074, and is classified to this section.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 Section 386 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (f), is section 386 of Pub. L. 102–484, which is set out as a note below.
 
@@ -540,7 +540,7 @@ A prior section 7003 of Pub. L. 89–10 was classified to section 3283 of this t
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b)(2)(B)(i)(III)(bb)(BB). Pub. L. 115–141, §311(d)(1)(B)(i), inserted "and received assistance for fiscal year 2017 pursuant to subparagraph (G)" after "not less than 65 percent".
+<b>2018</b>—Subsec. (b)(2)(B)(i)(III)(bb)(BB). Pub. L. 115–141, §311(d)(1)(B)(i), inserted "and received assistance forfiscal year 2017 pursuant to subparagraph (G)" after "not less than 65 percent".
 
 Subsec. (b)(2)(B)(i)(III)(cc). Pub. L. 115–141, §311(d)(1)(A), (B)(ii), (C), added item (cc).
 
@@ -560,7 +560,7 @@ Subsec. (b)(2)(B)(i)(IV)(bb). Pub. L. 114–328, §579(d)(1)(A)(iii), added item
 
 Subsec. (b)(2)(D)(i)(I). Pub. L. 114–328, §579(d)(1)(B)(i)(I), substituted "clauses (ii), (iii), and (iv)" for "clause (ii)".
 
-Subsec. (b)(2)(D)(i)(II). Pub. L. 114–328, §579(d)(1)(B)(i)(II), inserted "received a payment for fiscal year 2015 under section 7703(b)(2)(E) of this title (as such section was in effect for such fiscal year) and" after "agency that" and substituted "35 percent" for "50 percent", "subsection (a)(1) and—" and item (aa)for "subsection (a)(1) and not less than 5,000", and "subsection (a)(1); or" and item (bb) for "subsection (a)(1)."
+Subsec. (b)(2)(D)(i)(II). Pub. L. 114–328, §579(d)(1)(B)(i)(II), inserted "received a payment for fiscal year 2015 under section 7703(b)(2)(E) of this title (as such section was in effect for such fiscal year) and" after "agency that" and substituted "35 percent" for "50 percent", "subsection (a)(1) and—" and item (aa) for "subsection (a)(1) and not less than 5,000", and "subsection (a)(1); or" and item (bb) for "subsection (a)(1)."
 
 Subsec. (b)(2)(D)(ii). Pub. L. 114–328, §579(d)(1)(B)(ii), substituted "shall be—" for "shall be 1.35." and added subcls. (I) to (V).
 
@@ -604,7 +604,7 @@ Subsec. (a)(4). Pub. L. 112–239, §563(b)(2), added par. (4) and struck out fo
 
 "(i)
 
-Eligibility.—For any fiscal year beginning with fiscal year 2003, a heavily impacted local educational agency that received a basic support payment under subparagraph (A) for the prior fiscal year, but is ineligible for such payment for the current fiscal year under subparagraph (B) or (C), as the case may be, by reason of the conversion of military housing units to private housing described in clause (iii), shall be deemed to meet the eligibility requirements under subparagraph (B) or (C), as the case may be, for the period during which the housing units are undergoing such conversion.
+Eligibility.—For any fiscal year beginning with fiscal year 2003, a heavily impacted local educationalagency that received a basic support payment under subparagraph (A) for the prior fiscal year, but is ineligible for such payment for the current fiscal year under subparagraph (B) or (C), as the case may be, by reason of the conversion of military housing units to private housing described in clause (iii), shall be deemed to meet the eligibility requirements under subparagraph (B) or (C), as the case may be, for the period during which the housing units are undergoing such conversion.
 
 "(ii)
 
@@ -700,7 +700,7 @@ Subsec. (f)(2)(D). Pub. L. 104–106, §1074(f)(1)(B), added subpar. (D).
 
 Subsec. (f)(3)(A). Pub. L. 104–106, §1074(f)(2)(A)(i), inserted "(other than any amount received under paragraph (2)(B))" after "subsection" in introductory provisions.
 
-Subsec. (f)(3)(A)(i). Pub. L. 104–208, §101(e) \[title III, §307(a)(1), (5)\], substituted in introductory provisions,"The Secretary, in conjunction with the local educational agency, shall first determine each of the following:" for "The Secretary shall first determine the greater of—" and inserted concluding provisions.
+Subsec. (f)(3)(A)(i). Pub. L. 104–208, §101(e) \[title III, §307(a)(1), (5)\], substituted in introductory provisions, "The Secretary, in conjunction with the local educational agency, shall first determine each of the following:" for "The Secretary shall first determine the greater of—" and inserted concluding provisions.
 
 Subsec. (f)(3)(A)(i)(I). Pub. L. 104–208, §101(e) \[title III, §307(a)(2), (3)\], substituted "The average" for "the average" before "of the State" and substituted period for semicolon at end.
 
@@ -748,7 +748,7 @@ Pub. L. 108–136, div. A, title V, §537(b), Nov. 24, 2003, 117 Stat. 1475, pro
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–279, title IV, §406(b), Nov. 5, 2002, 116 Stat. 1987, provided that: "The amendment made by section 406(a) \[amending this section\] shall be effective on September 30, 2001, and shall apply with respect to fiscal year 2001, and all subsequent fiscal years."
+Pub. L. 107–279, title IV, §406(b), Nov. 5, 2002, 116 Stat. 1987, provided that: "The amendment made by section406(a) \[amending this section\] shall be effective on September 30, 2001, and shall apply with respect to fiscal year 2001, and all subsequent fiscal years."
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
@@ -770,7 +770,7 @@ Pub. L. 104–195, §3(b), Sept. 16, 1996, 110 Stat. 2381, provided that: "Parag
 
 Pub. L. 104–195, §4(b), Sept. 16, 1996, 110 Stat. 2381, provided that: "Paragraph (3) of section 8003(b) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7703(b)(3)\], as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1994."
 
-Pub. L. 104–195, §5(c), Sept. 16, 1996, 110 Stat. 2382, provided that: "The amendments made by subsections (a)and (b) \[amending this section\] shall apply with respect to fiscal years after fiscal year 1996."
+Pub. L. 104–195, §5(c), Sept. 16, 1996, 110 Stat. 2382, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to fiscal years after fiscal year 1996."
 
 #### Calculation of Basic Support Payments
 
@@ -822,7 +822,7 @@ Pub. L. 114–328, div. A, title V, §579(c), Dec. 23, 2016, 130 Stat. 2145, as 
 
 "(1)
 
-References.—Except as otherwise expressly provided, any reference in this subsection to a section or other provision of title VII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\] shall be considered to be a reference to the section or other provision of such title VII as amended by the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802).
+References.—Except as otherwise expressly provided, any reference in this subsection to a section or other provision of title VII of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7701 et seq.\]shall be considered to be a reference to the section or other provision of such title VII as amended by the Every Student Succeeds Act (Public Law 114–95; 129 Stat. 1802).
 
 "(2)
 

@@ -8,7 +8,7 @@ Funds appropriated to the Rural Development Loan Fund under title VII of the Eco
 
 #### References in Text
 
-The Economic Opportunity Act of 1964, referred to in text, is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VII of the Economic Opportunity Act of 1964 was classified generally to subchapter VII (§2981 et seq.) of chapter 34 of this title, prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in text, is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title VII of the Economic Opportunity Act of 1964 was classified generally to subchapter VII (§2981 et seq.) of chapter 34 of this title, prior to repeal by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -36,7 +36,7 @@ In general.—Beginning on the date of the enactment of this Act \[Nov. 6, 1986\
 
 &emsp;"(2)
 
-Transfer of authority.—All authority to carry out the purposes of the Fund and to prescribe regulations in connection with the administration of the Fund which, on the day before the date of the enactment of this Act, was vested in the Secretary ofHealth and Human Services shall vest on such date in the Board. Except as provided in subsection (c), the Secretary shall have no further responsibility with respect to the Fund.
+Transfer of authority.—All authority to carry out the purposes of the Fund and to prescribe regulations in connection with the administration of the Fund which, on the day before the date of the enactment of this Act, was vested in the Secretary of Health and Human Services shall vest on such date inthe Board. Except as provided in subsection (c), the Secretary shall have no further responsibility with respect to the Fund.
 
 "(b)
 

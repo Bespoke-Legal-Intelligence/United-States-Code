@@ -24,7 +24,7 @@ Sustainment and Operation for Civilian Purposes.—The Secretary of Defense shal
 
 (c)
 
-Federal Radionavigation Plan.—The Secretary of Defense and the Secretary of Transportation shall jointly prepare the Federal Radionavigation Plan. The plan shall be revised and updated not less often than every two years. The plan shall be prepared in accordance with the requirements applicable to such plan as first prepared pursuant to section 507 of the International Maritime Satellite Telecommunications Act <sup>1</sup> (47 U.S.C. 756). The plan, and any amendment to the plan, shall be published in the Federal Register.
+Federal Radionavigation Plan.—The Secretary of Defense and the Secretary of Transportation shall jointly prepare the Federal Radionavigation Plan. The plan shall be revised and updated not less often than every two years. The plan shall be prepared in accordance with the requirements applicable to such plan as first prepared pursuant to section 507 of the International Maritime Satellite Telecommunications Act <sup>1</sup> (47 U.S.C. 756). The plan, and anyamendment to the plan, shall be published in the Federal Register.
 
 (d)
 
@@ -206,7 +206,7 @@ Elements.—In carrying out the program under subsection (a), the Secretary shal
 
 &emsp;"(4) conduct an assessment of the desirability of establishing a program for the development and deployment of the receiver system described in subsection (a) in a manner that—
 
-&emsp;&emsp;"(A) is a cooperative effort, coordinated with the Secretary of State, between the United States and the allies of the United States that may also have interest in funding a multi-global navigation satellite system and M-code program; and
+&emsp;&emsp;"(A) is a cooperative effort, coordinated with the Secretary of State, between the United States andthe allies of the United States that may also have interest in funding a multi-global navigation satellite system and M-code program; and
 
 &emsp;&emsp;"(B) the Secretary of Defense, in coordination with the Secretary of State, ensures that the United States has access to sufficient insight into trusted signals of allied systems to assure potential reliance by the United States on such signals.
 
@@ -480,7 +480,7 @@ Delayed Effective Date for Limitation on Procurement of Systems Not GPS-Equipped
 
 "(f)
 
-Funding From Authorized Appropriations for Fiscal Year 1999.—Of the amounts authorized to be appropriated under section 201(3) \[112 Stat. 1946\],$44,000,000 shall be available to establish and carry out an enhanced Global Positioning System program."
+Funding From Authorized Appropriations for Fiscal Year 1999.—Of the amounts authorized to be appropriated under section 201(3) \[112 Stat. 1946\], $44,000,000 shall be available to establish and carry out an enhanced Global Positioning System program."
 
 #### Sustainment and Operation of Global Positioning System
 

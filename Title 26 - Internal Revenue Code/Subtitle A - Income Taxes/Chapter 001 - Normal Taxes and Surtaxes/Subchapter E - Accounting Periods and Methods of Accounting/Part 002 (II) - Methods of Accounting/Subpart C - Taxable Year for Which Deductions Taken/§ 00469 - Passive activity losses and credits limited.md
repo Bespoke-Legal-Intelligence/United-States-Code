@@ -86,7 +86,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) more than one-half of the personal services performed in trades or businesses by the taxpayer during such taxable year are performed in real property trades or businesses in which the taxpayer materially participates, and
 
-&emsp;&emsp;&emsp;(ii) such taxpayer performs more than 750 hours of services during the taxableyear in real property trades or businesses in which the taxpayer materially participates.
+&emsp;&emsp;&emsp;(ii) such taxpayer performs more than 750 hours of services during the taxable year in real property trades or businesses in which the taxpayer materially participates.
 
 > &emsp;&emsp;In the case of a joint return, the requirements of the preceding sentence are satisfied if and only if either spouse separately satisfies such requirements. For purposes of the preceding sentence, activities in which a spouse materially participates shall be determined under subsection (h).
 
@@ -474,7 +474,7 @@ For purposes of this section—
 
 #### (4) Application to regulated investment companies
 
-&emsp;For purposes of this section, a regulated investment company (as defined in section 851)holding an interest in a qualified publicly traded partnership (as defined in section 851(h)) shall be treated as a taxpayer described in subsection (a)(2) with respect to items attributable to such interest.
+&emsp;For purposes of this section, a regulated investment company (as defined in section 851) holding an interest in a qualified publicly traded partnership (as defined in section 851(h)) shall be treated as a taxpayer described in subsection (a)(2) with respect to items attributable to such interest.
 
 #### (l) Regulations
 
@@ -662,7 +662,7 @@ Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2017 Amendment
 
-Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017,except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 Amendment by section 14202(b)(3) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 14202(c) of Pub. L. 115–97, set out as a note under section 172 of this title.
 
@@ -724,7 +724,7 @@ Amendment by section 1005(a)(1)–(9), (11), (12) of Pub. L. 100–647 effective
 
 Amendment by section 2004(g) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
-Amendment by section 6009(c)(3) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1989, see section 6009(d) of Pub. L. 100–647, set out as a note under section 86 of this title.
+Amendment by section 6009(c)(3) of Pub. L. 100–647 applicable to taxable years beginning after Dec. 31, 1989,see section 6009(d) of Pub. L. 100–647, set out as a note under section 86 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -756,7 +756,7 @@ Income from sales of passive activities in taxable years beginning before januar
 
 #### Savings Provision
 
-Amendment by section 401(d)(5)(B)(i)–(iii) of Pub. L. 115–141 not applicable to certain qualified communityassets acquired, wages paid or incurred, qualified revitalization buildings placed in service, or property acquired before Jan. 1, 2010, see section 401(d)(5)(C) of Pub. L. 115–141, set out as a note under former section 1400E of this title.
+Amendment by section 401(d)(5)(B)(i)–(iii) of Pub. L. 115–141 not applicable to certain qualified community assets acquired, wages paid or incurred, qualified revitalization buildings placed in service, or property acquired before Jan. 1, 2010, see section 401(d)(5)(C) of Pub. L. 115–141, set out as a note under former section 1400E of this title.
 
 For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
@@ -852,7 +852,7 @@ Special Rules.—
 
 &emsp;"(1)
 
-Where more than 1 building in project.—If there is more than 1 building in any project, the determination of when such project is placed in serviceshall be based on when the 1st building in such project is placed in service.
+Where more than 1 building in project.—If there is more than 1 building in any project, the determination of when such project is placed in service shall be based on when the 1st building in such project is placed in service.
 
 &emsp;"(2)
 

@@ -18,7 +18,7 @@ In carrying out this section, the Secretary shall insure that the data is compil
 
 #### References in Text
 
-The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination Act, referred to in subsec. (a), is title I of Pub. L. 93–638, Jan. 4, 1975, 88Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Section 2477 of this title, referred to in subsec. (b), was repealed by Pub. L. 102–573, title VII, §702(b)(2), Oct. 29, 1992, 106 Stat. 4582.
 

@@ -2,7 +2,7 @@
 
 (a) The Secretary may treat a health facility (or certain beds in a health facility) as a State home for purposes of subchapter V of chapter 17 of this title if the following requirements are met:
 
-&emsp;(1) The facility (or certain beds in such facility) meets the standards for the provision of nursing home care that are applicable to State homes, as prescribed by the Secretary under section 8134(b) of this title, and such other standards relating to the facility (or certain beds in such facility) as the Secretary may require.
+&emsp;(1) The facility (or certain beds in such facility) meets the standards for the provision of nursing home care that are applicable to State homes, as prescribed by the Secretary under section 8134(b) of this title, and such other standards relating to the facility (or certainbeds in such facility) as the Secretary may require.
 
 &emsp;(2) The facility (or certain beds in such facility) is licensed or certified by the appropriate State and local agencies charged with the responsibility of licensing or otherwise regulating or inspecting State home facilities.
 

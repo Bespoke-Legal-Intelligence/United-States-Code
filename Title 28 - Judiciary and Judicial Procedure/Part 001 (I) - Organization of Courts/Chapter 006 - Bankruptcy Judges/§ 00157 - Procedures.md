@@ -56,10 +56,6 @@
 
 #### <b>Editorial Notes</b>
 
-#### Constitutionality
-
-For information regarding constitutionality of certain provisions of this section, as added by section104(a) of Pub. L. 98–353, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
-
 #### Amendments
 
 <b>2005</b>—Subsec. (b)(2)(P). Pub. L. 109–8 added subpar. (P).

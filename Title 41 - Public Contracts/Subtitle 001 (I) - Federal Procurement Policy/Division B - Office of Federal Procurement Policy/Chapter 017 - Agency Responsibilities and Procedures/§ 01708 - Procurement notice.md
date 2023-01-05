@@ -12,7 +12,7 @@ Notice Requirement.—Except as provided in subsection (b)—
 
 &emsp;&emsp;(B) place an order, expected to exceed $25,000, under a basic agreement, basic ordering agreement, or similar arrangement; and
 
-&emsp;(3) an executive agency awarding a contract for property or services for a price exceeding $25,000, or placing an order exceeding $25,000 under a basic agreement, basic ordering agreement, or similar arrangement, shall furnish for publication a notice announcing the awardor order if there is likely to be a subcontract under the contract or order.
+&emsp;(3) an executive agency awarding a contract for property or services for a price exceeding $25,000, or placing an order exceeding $25,000 under a basic agreement, basic ordering agreement, or similar arrangement, shall furnish for publication a notice announcing the award or order if there is likely to be a subcontract under the contract or order.
 
 (b)
 
@@ -102,7 +102,7 @@ Issuing notice of solicitation and establishing deadline for submitting bids and
 
 &emsp;&emsp;(A) issue the solicitation earlier than 15 days after the date on which the notice is published; or
 
-&emsp;&emsp;(B) in the case of a contract or order expected to be greater than the simplified acquisition threshold, establish a deadline forthe submission of all bids or proposals in response to the notice required by subsection (a)(2) that—
+&emsp;&emsp;(B) in the case of a contract or order expected to be greater than the simplified acquisition threshold, establish a deadline for the submission of all bids or proposals in response to the notice required by subsection (a)(2) that—
 
 &emsp;&emsp;&emsp;(i) in the case of a solicitation for research and development, is earlier than 45 days after the date the notice required for a bid or proposal for a contract described in subsection (a)(2)(A) is published;
 
@@ -116,7 +116,7 @@ Establishing deadline when none provided by statute.—An executive agency shall
 
 &emsp;(3)
 
-Flexible deadlines.—The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance of solicitations and the submission of bids or proposals for the procurement of commercial products or commercial services.
+Flexible deadlines.—The Administrator shall prescribe regulations defining limited circumstances in which flexible deadlines can be used under paragraph (1) for the issuance ofsolicitations and the submission of bids or proposals for the procurement of commercial products or commercial services.
 
 (f)
 

@@ -10,7 +10,7 @@ In this section:
 
 &emsp;&emsp;(A) with jurisdiction over an area that has been subject to flooding in two or more events in any 10-year period; and
 
-&emsp;&emsp;(B) that has received emergency flood-fighting assistance, including construction of temporary barriers by the Secretary,under section 701n of this title with respect to such flood events.
+&emsp;&emsp;(B) that has received emergency flood-fighting assistance, including construction of temporary barriers by the Secretary, under section 701n of this title with respect to such flood events.
 
 #### (2) Natural feature; nature-based feature
 

@@ -6,7 +6,7 @@ For the purposes of this subchapter:
 
 &emsp;(2) The term "congressional veterans' affairs committees" means the Committees on Veterans' Affairs of the Senate and the House of Representatives.
 
-&emsp;(3) The term "supportive housing" means housing that engages tenants in on-site and community-based support services for veterans or their families that are at risk of homelessness or are homeless. Such term may include the following:
+&emsp;(3) The term "supportive housing" means housing that engages tenants in on-site andcommunity-based support services for veterans or their families that are at risk of homelessness or are homeless. Such term may include the following:
 
 &emsp;&emsp;(A) Transitional housing.
 

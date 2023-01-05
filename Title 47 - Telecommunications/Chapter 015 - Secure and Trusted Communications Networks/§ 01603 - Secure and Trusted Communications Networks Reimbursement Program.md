@@ -22,7 +22,7 @@ The Commission may not make a reimbursement under the Program to a provider of a
 
 &emsp;&emsp;&emsp;(i) as defined in the Report and Order of the Commission in the matter of Protecting Against National Security Threats to the Communications Supply Chain Through FCC Programs (FCC 19–121; WC Docket No. 18–89; adopted November 22, 2019) (in this section referred to as the "Report and Order"); or
 
-&emsp;&emsp;&emsp;(ii) as determined to be covered by both the process of the Report and Order and the Designation Orders of the Commission on June 30, 2020 (DA 20–690; PS Docket No. 19–351; adopted June 30, 2020) (DA 20–691; PS Docket No. 19–352; adopted June 30,2020) (in this section collectively referred to as the "Designation Orders");
+&emsp;&emsp;&emsp;(ii) as determined to be covered by both the process of the Report and Order and the Designation Orders of the Commission on June 30, 2020 (DA 20–690; PS Docket No. 19–351; adopted June 30, 2020) (DA 20–691; PS Docket No. 19–352; adopted June 30, 2020) (in this section collectively referred to as the "Designation Orders");
 
 &emsp;&emsp;(B) replacing the covered communications equipment or services removed as described in subparagraph (A) with communications equipment or services that are not covered communications equipment or services; and
 
@@ -170,7 +170,7 @@ The Commission may not make a reimbursement under the Program to a provider of a
 
 #### (7) Disposal of covered communications equipment or services
 
-&emsp;The Commission shall include in the regulations promulgated under subsection (g) requirements for the disposal by a recipient of a reimbursement under the Program of covered communications equipment or services identified under paragraph (4)(A)(i) and removed from the network of the recipient in order to prevent such equipment or services from beingused in the networks of providers of advanced communications service.
+&emsp;The Commission shall include in the regulations promulgated under subsection (g) requirements for the disposal by a recipient of a reimbursement under the Program of covered communications equipment or services identified under paragraph (4)(A)(i) and removed from the network of the recipient in order to prevent such equipment or services from being used in the networks of providers of advanced communications service.
 
 #### (8) Status updates
 

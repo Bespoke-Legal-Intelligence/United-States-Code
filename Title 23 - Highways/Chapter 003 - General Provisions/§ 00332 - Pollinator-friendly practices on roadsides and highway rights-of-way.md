@@ -96,7 +96,7 @@ Federal Share.—The Federal share of the cost of an activity carried out with a
 
 (h)
 
-Best Practices.—The Secretary shall develop and make available to eligible entitiesbest practices for, and a priority ranking of, pollinator-friendly practices on roadsides and highway rights-of-way.
+Best Practices.—The Secretary shall develop and make available to eligible entities best practices for, and a priority ranking of, pollinator-friendly practices on roadsides and highway rights-of-way.
 
 (i)
 

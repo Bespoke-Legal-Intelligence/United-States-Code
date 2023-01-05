@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-To receive assistance under this chapter, an eligible entity shall submit to the Secretary or the Administrator, as applicable, an applicationat such time, in such manner, and containing such information as the Secretary or the Administrator may require.
+To receive assistance under this chapter, an eligible entity shall submit to the Secretary or the Administrator, as applicable, an application at such time, in such manner, and containing such information as the Secretary or the Administrator may require.
 
 #### (b) Combined projects
 

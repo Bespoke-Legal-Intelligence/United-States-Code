@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Assistant Secretary shall perform a study to assess how to measure and evaluate the discrepancy between available services and the demand for such services in the home delivered nutrition services program and the congregate nutrition services program under this part, which shall include assessing various methods (such as those that States use) to measure and evaluate the discrepancy (such as measurement through the length of waitlists).
+&emsp;The Assistant Secretary shall perform a study to assess how to measure and evaluatethe discrepancy between available services and the demand for such services in the home delivered nutrition services program and the congregate nutrition services program under this part, which shall include assessing various methods (such as those that States use) to measure and evaluate the discrepancy (such as measurement through the length of waitlists).
 
 #### (2) Contents
 

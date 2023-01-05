@@ -74,7 +74,7 @@ In the case of a registered management company which is an unincorporated compan
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–351 inserted "or any one savings and loan holding company, together with its affiliates and subsidiaries (as such terms are defined in section 1467a of title 12)," after "1841 of title 12)".
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–102 substituted "bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates and subsidiaries) (as such terms are defined in section 1841 of title 12), except" for "bank, except".
+<b>1999</b>—Subsec. (c). Pub. L. 106–102 substituted "bank (together with its affiliates and subsidiaries) or any one bank holding company (together with its affiliates andsubsidiaries) (as such terms are defined in section 1841 of title 12), except" for "bank, except".
 
 <b>1975</b>—Subsec. (e). Pub. L. 94–29 inserted reference to provisions of section 80a–15(f)(1) of this title.
 

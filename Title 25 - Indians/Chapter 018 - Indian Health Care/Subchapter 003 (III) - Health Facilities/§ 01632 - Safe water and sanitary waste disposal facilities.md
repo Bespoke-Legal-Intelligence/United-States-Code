@@ -12,7 +12,7 @@ The Congress hereby finds and declares that—
 
 &emsp;(4) many Indian homes and communities still lack safe water supply systems and sanitary sewage and solid waste disposal systems; and
 
-&emsp;(5) it is in the interest of the United States, and it is the policy of the United States, that all Indian communities and Indian homes, new and existing, be provided with safe and adequate water supply systems and sanitary sewage waste disposal systems as soon as possible.
+&emsp;(5) it is in the interest of the United States, and it is the policy of the United States, thatall Indian communities and Indian homes, new and existing, be provided with safe and adequate water supply systems and sanitary sewage waste disposal systems as soon as possible.
 
 #### (b) Authority; assistance; transfer of funds
 
@@ -108,7 +108,7 @@ Programs administered by Indian tribes or tribal organizations under the authori
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
 The Indian Self-Determination Act, referred to in subsecs. (f) and (g)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

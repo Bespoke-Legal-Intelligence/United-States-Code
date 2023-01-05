@@ -16,3 +16,75 @@ The head of each agency operating or exercising control of a national security s
 
 Provisions similar to this section were contained in sections 3536 and 3547 of this title prior to repeal by Pub. L. 113–283.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Enforcement of Cybersecurity Requirements for National Security Systems
+
+Pub. L. 117–263, div. F, title LXIII, §6309, Dec. 23, 2022, 136 Stat. 3506, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Cybersecurity requirements for national security systems.—The term 'cybersecurity requirements for national security systems' means the minimum cybersecurity requirements established by the National Manager, consistent with the direction of the President and in consultation with the Director of National Intelligence, that applies to all national security systems operated by, on the behalf of, or administered by the head of an element of the intelligence community.
+
+&emsp;"(2)
+
+National manager.—The term 'National Manager' means the National Manager for National Security Systems designated by the President.
+
+&emsp;"(3)
+
+National security systems.—The term 'national security systems' includes—
+
+&emsp;&emsp;"(A) national security systems (as defined in section 3552(b) of title 44, United States Code); and
+
+&emsp;&emsp;"(B) information systems described in paragraph (2) or (3) of section 3553(e) of such title.
+
+"(b)
+
+Implementation Deadline.—The cybersecurity requirements for national security systems shall include appropriate deadlines by which all elements of the intelligence community shall have fully implemented the requirements.
+
+"(c)
+
+Reevaluation and Updates.—Not less frequently than once every 2 years, the National Manager shall reevaluate and update the cybersecurity requirements for national security systems.
+
+"(d)
+
+Resources.—Each head of an element of the intelligence community that owns or operates a national security system shall update plans of the element to prioritize resources in such a manner as to fully implement the cybersecurity requirements for national security systems by the deadline established pursuant to subsection (b) for the next 10 fiscal years.
+
+"(e)
+
+Exemptions.—
+
+&emsp;"(1)
+
+In general.—The head of an element of the intelligence community may exempt a national security system owned or operated by the element from the cybersecurity requirements for national securitysystems if done so in accordance with the procedures established under paragraph (2).
+
+&emsp;"(2)
+
+Exemption procedures.—The National Manager shall, consistent with the direction of the President, establish procedures that govern—
+
+&emsp;&emsp;"(A) the circumstances under which the head of an element of the intelligence community may exempt a national security system under paragraph (1); and
+
+&emsp;&emsp;"(B) the process for implementing the exemption.
+
+&emsp;"(3)
+
+Annual reports on exemptions.—
+
+&emsp;&emsp;"(A)
+
+In general.—Each year, the National Manager and the Director of National Intelligence shall—
+
+&emsp;&emsp;&emsp;"(i) submit to the congressional intelligence committees an annual report documenting all exemptions made under paragraph (1) during the period covered by the report, along with the justifications for the exemptions; and
+
+&emsp;&emsp;&emsp;"(ii) in the case of an exemption made by the Assistant Secretary of State for Intelligence and Research under such paragraph, submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a separate report describing the exemption and the justification for it.
+
+&emsp;&emsp;"(B)
+
+Manner.—Each report submitted under subparagraph (A) shall be submitted with such classification as the Director considers appropriate and with due regard for the protection of sensitive intelligence sources and methods."
+
+\[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 6309 of Pub. L. 117–263, set out above, see section 3003 of Title 50, War and National Defense, as made applicable by section 6002 of Pub. L. 117–263, which is set out as a note under section 3003 of Title 50.\]
+

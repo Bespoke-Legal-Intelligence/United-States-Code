@@ -10,5 +10,5 @@ Section, Pub. L. 107–331, title VI, §602, Dec. 13, 2002, 116 Stat. 2845, whic
 
 #### Short Title
 
-Pub. L. 107–331, title VI, §601, Dec. 13, 2002, 116 Stat. 2845, provided that title VI of Pub. L. 107–331, enacting this subchapter, could be cited as the "Cherokee, Choctaw, and Chickasaw Nations Claims Settlement Act".
+Pub. L. 107–331, title VI, §601, Dec. 13, 2002, 116 Stat. 2845, provided that title VI of Pub. L. 107–331, enactingthis subchapter, could be cited as the "Cherokee, Choctaw, and Chickasaw Nations Claims Settlement Act".
 

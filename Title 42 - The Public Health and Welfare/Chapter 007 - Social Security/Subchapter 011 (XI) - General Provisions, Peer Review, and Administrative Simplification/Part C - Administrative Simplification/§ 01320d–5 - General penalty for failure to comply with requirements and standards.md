@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) in the case of a violation of such provision in which it is established that the violation was due to willful neglect—
 
-&emsp;&emsp;&emsp;(i) if the violation is corrected as described in subsection (b)(3)(A),<sup>1</sup> a penaltyin an amount that is at least the amount described in paragraph (3)(C) but not to exceed the amount described in paragraph (3)(D); and
+&emsp;&emsp;&emsp;(i) if the violation is corrected as described in subsection (b)(3)(A),<sup>1</sup> a penalty in an amount that is at least the amount described in paragraph (3)(C) but not to exceed the amount described in paragraph (3)(D); and
 
 &emsp;&emsp;&emsp;(ii) if the violation is not corrected as described in such subsection, a penalty in an amount that is at least the amount described in paragraph (3)(D).
 
@@ -44,7 +44,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) or subsection (a)(1)(C), no penalty may be imposed under subsection (a) and no damages obtained under subsection (d) if the failure to comply is corrected during the 30-day period beginning on the first date the person liable for the penalty or damages knew, or by exercising reasonable diligence would have known, that the failure to comply occurred.
+&emsp;&emsp;Except as provided in subparagraph (B) or subsection (a)(1)(C), no penalty may be imposed under subsection (a) and no damages obtained under subsection (d) if the failure to comply is corrected during the 30-day period beginning on the first date the person liable for the penalty or damages knew, orby exercising reasonable diligence would have known, that the failure to comply occurred.
 
 #### (B) Extension of period
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The United States shall be represented on the Commission by 5 United States Commissioners. The President shall appoint individuals to serve on the Commission at the pleasure of the President. In making the appointments, the President shall select Commissioners from among individuals who are knowledgeable or experienced concerning highly migratory fish stocks and commercial fishing in the Western and Central Pacific Ocean, one of whom shall be an officer or employee of the Department of Commerce, and one of whom shall be the chairman or a member of the Western Pacific Fishery Management Council, and one of whom shall be the chairman or a member of the Pacific Fishery Management Council. The Commissioners shall be entitled to adopt such rules of procedures as they find necessary and to select a chairman from among members who are officers or employees of the United States Government.
+The United States shall be represented on the Commission by 5 United States Commissioners.The President shall appoint individuals to serve on the Commission at the pleasure of the President. In making the appointments, the President shall select Commissioners from among individuals who are knowledgeable or experienced concerning highly migratory fish stocks and commercial fishing in the Western and Central Pacific Ocean, one of whom shall be an officer or employee of the Department of Commerce, and one of whom shall be the chairman or a member of the Western Pacific Fishery Management Council, and one of whom shall be the chairman or a member of the Pacific Fishery Management Council. The Commissioners shall be entitled to adopt such rules of procedures as they find necessary and to select a chairman from among members who are officers or employees of the United States Government.
 
 #### (b) Alternate Commissioners
 
@@ -44,7 +44,7 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 #### (C) Procedures
 
-&emsp;&emsp;The advisory committee established by subparagraph (A) shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter,<sup>1</sup> the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), and the WCPFC Convention. The advisory committee shall publish and make available to the public a statement of its organization, practices, and procedures. A majority of the members of the advisory committee shall constitute a quorum. Meetings of the advisory committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.<sup>2</sup> and the advisory committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;&emsp;The advisory committee established by subparagraph (A) shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter,<sup>1</sup> the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), and the WCPFC Convention. The advisory committee shall publish and make available to the public a statement of its organization, practices, and procedures. A majority of the members of the advisory committee shall constitute a quorum. Meetings of the advisory committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.<sup>2</sup> and the advisory committee shall not be subject to chapter 10 of title 5.
 
 #### (D) Provision of information
 
@@ -80,7 +80,7 @@ For highly migratory species in the Pacific, the Secretary, in coordination with
 
 &emsp;(4) recommending those domestic fishing regulations that are consistent with the actions of the international fishery organization, for approval and implementation under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.)
 
-(Pub. L. 109–479, title V, §503, Jan. 12, 2007, 120 Stat. 3636; Pub. L. 111–348, title III, §301, Jan. 4, 2011, 124 Stat. 3672; Pub. L. 114–327, title III, §301(a)(1), Dec. 16, 2016, 130 Stat. 1993.)
+(Pub. L. 109–479, title V, §503, Jan. 12, 2007, 120 Stat. 3636; Pub. L. 111–348, title III, §301, Jan. 4, 2011, 124 Stat. 3672; Pub. L. 114–327, title III, §301(a)(1), Dec. 16, 2016, 130 Stat. 1993; Pub. L. 117–286, §4(a)(133), Dec. 27, 2022, 136 Stat. 4320.)
 
 #### <b>Editorial Notes</b>
 
@@ -90,9 +90,9 @@ This chapter, referred to in subsec. (d)(1)(C), probably should have been "this 
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (d)(1)(C) and (f)(4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(1)(C). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–327, §301(a)(1)(A), inserted "and commercial fishing" after "fish stocks".
 

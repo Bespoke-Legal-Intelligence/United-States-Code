@@ -20,13 +20,13 @@ For the purposes of this section—
 
 #### (c) Authorization to insure; prohibition of premiums on guarantees of principal and interest under title VII of the Public Health Service Act
 
-The Secretary is authorized to insure any mortgage (including advances on such mortgage during construction) in accordance with the provisions of this section upon such terms and conditions as he may prescribe and to make commitments for insurance of such mortgage prior to the date of its execution or disbursement thereon. No mortgage insurance premium shallbe charged with respect to the amount of principal and interest guaranteed by the Department of Health and Human Services under title VII of the Public Health Service Act \[42 U.S.C. 292 et seq.\].
+The Secretary is authorized to insure any mortgage (including advances on such mortgage during construction) in accordance with the provisions of this section upon such terms and conditions as he may prescribe and to make commitments for insurance of such mortgage prior to the date of its execution or disbursement thereon. No mortgage insurance premium shall be charged with respect to the amount of principal and interest guaranteed by the Department of Health and Human Services under title VII of the Public Health Service Act \[42 U.S.C. 292 et seq.\].
 
 #### (d) Insurance of mortgages covering new or rehabilitated hospitals, including equipment; terms and conditions
 
 In order to carry out the purpose of this section, the Secretary is authorized to insure any mortgage which covers a new or rehabilitated hospital, including equipment to be used in its operation, subject to the following conditions:
 
-&emsp;(1) The mortgage shall be executed by a mortgagor approved by the Secretary. The Secretary may in his discretion require any such mortgagor to be regulated or restricted as to charges and methods of financing, and, in addition thereto, if the mortgagor is a corporate entity, as to capital structure and rate of return. As an aid to the regulation or restriction of any mortgagor with respect to any of the foregoing matters, the Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in such mortgagor as he may deem necessary. Any stock or interest so purchased shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
+&emsp;(1) The mortgage shall be executed by a mortgagor approved by the Secretary. The Secretary may in his discretion require any such mortgagor to be regulated or restricted as to charges and methods of financing, and, in addition thereto, if the mortgagor is a corporate entity, as to capital structure and rateof return. As an aid to the regulation or restriction of any mortgagor with respect to any of the foregoing matters, the Secretary may make such contracts with and acquire for not to exceed $100 such stock or interest in such mortgagor as he may deem necessary. Any stock or interest so purchased shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
 
 &emsp;(2) The mortgage shall involve a principal obligation in the amount requested by the mortgagor if such amount does not exceed 90 percent of the estimated replacement cost of the property or project including—
 
@@ -52,7 +52,7 @@ In order to carry out the purpose of this section, the Secretary is authorized t
 
 > &emsp;This paragraph shall not limit the authority of the Secretary to approve a mortgage increase on any mortgage eligible for insurance under this paragraph at any time prior to final endorsement of the loan for insurance; except that such mortgage increase may not be approved for the cost of constructing any improvements not included in the original plans and specifications approved by the Department of Health and Human Services unless approved by the Secretary of Housing and Urban Development and by the Secretary of Health and Human Services.
 
-&emsp;(6) To the extent that a private nonprofit or public facility mortgagor is required by theSecretary to provide cash equity in excess of the amount of the mortgage to complete the project, the mortgagor shall be entitled, at the option of the mortgagee, to fund the excess with a letter of credit. In such event, mortgage proceeds may be advanced to the mortgagor prior to any demand being made on the letter of credit.
+&emsp;(6) To the extent that a private nonprofit or public facility mortgagor is required by the Secretary to provide cash equity in excess of the amount of the mortgage to complete the project, the mortgagor shall be entitled, at the option of the mortgagee, to fund the excess with a letter of credit. In such event, mortgage proceeds may be advanced to the mortgagor prior to any demand being made on the letter of credit.
 
 #### (e) Release of part of property or project from lien
 
@@ -92,11 +92,11 @@ The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title VII of the Act was added by act July 30, 1956, ch. 779, §2, 70 Stat. 717, and is classified generally to subchapter V (§292 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, ch. 373, 58 Stat. 682. Title VII of the Act was added by act July 30, 1956, ch. 779, §2, 70 Stat. 717, and is classified generally to subchapter V (§292 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 Section 8211 of title 42, referred to in subsec. (d)(2)(B), was omitted from the Code pursuant to section 8229 of Title 42, The Public Health and Welfare, which terminated authority under that section on June 30, 1989.
 
-The Social Security Act, referred to in subsec. (d)(5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

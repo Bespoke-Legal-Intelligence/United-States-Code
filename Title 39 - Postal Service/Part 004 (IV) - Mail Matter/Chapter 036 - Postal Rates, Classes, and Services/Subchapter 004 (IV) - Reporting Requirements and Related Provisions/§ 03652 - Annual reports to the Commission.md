@@ -38,7 +38,7 @@ Market Tests.—In carrying out subsections (a) and (b) with respect to experime
 
 (d)
 
-Supporting Matter.—The Postal Regulatory Commission shall have access, in accordance with such regulations as the Commission shall prescribe, to the working papers and any other supporting matter of the Postal Service and the Inspector General in connection with any information submitted under this section.
+Supporting Matter.—The Postal Regulatory Commission shall have access, in accordance with such regulations as the Commission shall prescribe, to the working papers and any other supporting matter of the Postal Serviceand the Inspector General in connection with any information submitted under this section.
 
 (e)
 

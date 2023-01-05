@@ -26,7 +26,7 @@ Testimony of Witnesses.—
 
 &emsp;(1)
 
-Procedure for taking testimony.—In a proceeding under this part, the Secretary maytake the testimony of a witness by deposition and may order the witness to produce records. A party to a proceeding pending under this part may take the testimony of a witness by deposition and may require the witness to produce records at any time after a proceeding is at issue on petition and answer.
+Procedure for taking testimony.—In a proceeding under this part, the Secretary may take the testimony of a witness by deposition and may order the witness to produce records. A party to a proceeding pending under this part may take the testimony of a witness by deposition and may require the witness to produce records at any time after a proceeding is at issue on petition and answer.
 
 &emsp;(2)
 

@@ -28,7 +28,7 @@
 
 (H)(i) In making determinations with respect to disability under this subchapter, the provisions of sections 421(h), 421(k), and 423(d)(5) of this title shall apply in the same manner as they apply to determinations of disability under subchapter II.
 
-(ii)(I) Not less frequently than once every 3 years, the Commissioner shall review in accordance with paragraph (4) the continued eligibilityfor benefits under this subchapter of each individual who has not attained 18 years of age and is eligible for such benefits by reason of an impairment (or combination of impairments) which is likely to improve (or, at the option of the Commissioner, which is unlikely to improve).
+(ii)(I) Not less frequently than once every 3 years, the Commissioner shall review in accordance with paragraph (4) the continued eligibility for benefits under this subchapter of each individual who has not attained 18 years of age and is eligible for such benefits by reason of an impairment (or combination of impairments) which is likely to improve (or, at the option of the Commissioner, which is unlikely to improve).
 
 (II) A representative payee of a recipient whose case is reviewed under this clause shall present, at the time of review, evidence demonstrating that the recipient is, and has been, receiving treatment, to the extent considered medically necessary and available, of the condition which was the basis for providing benefits under this subchapter.
 
@@ -106,7 +106,7 @@
 
 &emsp;(2) if a man and woman are found to be holding themselves out to the community in which they reside as husband and wife, they shall be so considered for purposes of this subchapter notwithstanding any other provision of this section.
 
-(e) For purposes of this subchapter, the term "United States", when used in a geographicalsense, means the 50 States and the District of Columbia.
+(e) For purposes of this subchapter, the term "United States", when used in a geographical sense, means the 50 States and the District of Columbia.
 
 (f)(1) For purposes of determining eligibility for and the amount of benefits for any individual who is married and whose spouse is living with him in the same household but is not an eligible spouse, such individual's income and resources shall be deemed to include any income and resources of such spouse, whether or not available to such individual, except to the extent determined by the Commissioner of Social Security to be inequitable under the circumstances.
 
@@ -242,7 +242,7 @@ Subsec. (f)(2). Pub. L. 96–265, §203(a), substituted "under age 18" for "unde
 
 Subsec. (f)(3). Pub. L. 96–265, §504(a), added par. (3).
 
-<b>1973</b>—Subsec. (a)(3)(A). Pub. L. 93–233, §9(1), struck out last sentence defining a disabled individual as one permanently and totally disabled as defined under a State plan approved under subchapter XIV or XVI of this chapter as in effect for 1972 and receiving aid under such plan (on the basis of disability for December 1973, so long as the individual is continuously disabled as so defined, which provisions were covered in subsec. (a)(3)(E) of this section.
+<b>1973</b>—Subsec. (a)(3)(A). Pub. L. 93–233, §9(1), struck out last sentence defining a disabled individual as one permanently and totally disabled as defined under a State plan approved under subchapter XIV or XVI of this chapter as in effect for 1972 and receiving aid under such plan (on the basis of disability for December 1973,so long as the individual is continuously disabled as so defined, which provisions were covered in subsec. (a)(3)(E) of this section.
 
 Subsec. (a)(3)(E). Pub. L. 93–233, §9(2), incorporated provisions of last sentence of subpar. (A) in provisions designated as subpar. (E) and inserted introductory text "Notwithstanding the provisions of subparagraphs (A) through (D)" and parenthetical phrase "(and for at least one month prior to July 1973)" after "December 1973".
 

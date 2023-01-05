@@ -170,9 +170,17 @@ Pub. L. 109–364, div. A, title VIII, §842(a)(4)(B), Oct. 17, 2006, 120 Stat. 
 
 This section is popularly known as the "Berry Amendment".
 
+#### Appropriations for United States Flags
+
+Pub. L. 117–328, div. C, title VIII, §8037, Dec. 29, 2022, 136 Stat. 4595, provided that: "None of the funds made available in this Act \[div. C of Pub. L. 117–328, see Tables for classification\], or any subsequent Act making appropriations for the Department of Defense, may be used for the purchase or manufacture of a flag of the United States unless such flags are treated as covered items under section 4862(b) of title 10, United States Code."
+
+Similar provisions were contained in the following appropriation act:
+
+Pub. L. 117–103, div. C, title VIII, §8038, Dec. 29, 2022, 136 Stat. 183.
+
 #### Periodic Audits of Contracting Compliance by Inspector General of Department of Defense
 
-Pub. L. 113–66, div. A, title XVI, §1601, Dec. 26, 2013, 127 Stat. 941, provided that:
+Pub. L. 113–66, div. A, title XVI, §1601, Dec. 26, 2013, 127 Stat. 941, as amended by Pub. L. 117–286, §4(b)(29), Dec. 27, 2022, 136 Stat. 4346, provided that:
 
 "(a)
 
@@ -180,7 +188,7 @@ Requirement for Periodic Audits of Contracting Compliance.—The Inspector Gener
 
 "(b)
 
-Requirement for Additional Information in Semiannual Reports.—The Inspector General of the Department of Defense shall ensure that findings and other information resulting from audits conducted pursuant to subsection (a) are included in the semiannual report transmitted to congressional committees under section 8(f)(1) of the Inspector General Act of 1978 (5 U.S.C. App.)."
+Requirement for Additional Information in Semiannual Reports.—The Inspector General of the Department of Defense shall ensure that findings and other information resulting from audits conducted pursuant to subsection (a) are included in the semiannual report transmitted to congressional committees under section 408(f)(1) of title 5, United States Code."
 
 #### Fire Resistant Rayon Fiber
 

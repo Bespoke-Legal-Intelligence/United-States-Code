@@ -16,7 +16,7 @@ Based on title 28, U.S.C., 1940 ed., §931(a) (Aug. 2, 1946, ch. 753, §410(a), 
 
 Section constitutes the liability provisions in the second sentence of section 931(a) of title 28, U.S.C., 1940 ed.
 
-Other provisions of section 931(a) of title 28, U.S.C., 1940 ed., are incorporated in sections 1346(b), 1402, 2402, 2411, and 2412 of this title, but the provision of such section 931(a) that the United States shall not be liable for interest prior to judgment was omitted as unnecessary in view of section 2411 of this title, which provides that interest on judgments against the United States shall be computed from the date of judgment. Such section 2411 is made applicable to tort-claim actions by section 932 of title 28, U.S.C., 1940 ed.
+Other provisions of section 931(a) of title 28, U.S.C., 1940 ed., are incorporated in sections 1346(b), 1402, 2402,2411, and 2412 of this title, but the provision of such section 931(a) that the United States shall not be liable for interest prior to judgment was omitted as unnecessary in view of section 2411 of this title, which provides that interest on judgments against the United States shall be computed from the date of judgment. Such section 2411 is made applicable to tort-claim actions by section 932 of title 28, U.S.C., 1940 ed.
 
 Changes were made in phraseology.
 

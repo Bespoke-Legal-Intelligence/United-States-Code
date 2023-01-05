@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(II) if such student is enrolled in a program of undergraduate education which is less than one academic year, the maximum annual loan amount that such student may receive may not exceed the amount that bears the same ratio to the amount specified in subclause (I) as the length of such program measured in semester, trimester, quarter, or clock hours bears to one academic year;
 
-&emsp;&emsp;(ii) in the case of a student at an eligible institution who has successfully completed such first year but has not successfully completed the remainder of a program of undergraduate education—
+&emsp;&emsp;(ii) in the case of a student at an eligible institution who has successfully completedsuch first year but has not successfully completed the remainder of a program of undergraduate education—
 
 &emsp;&emsp;&emsp;(I) $4,500; or
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(i) the 90th day after the adjournment of the next regular session of the appropriate State legislature which convenes after October 12, 1976, or
 
-&emsp;&emsp;(ii) if the primary source of lending capital for such lender is derived from the sale of bonds, and the constitution of the appropriate State prohibits a pledge of such State's credit as security against such bonds, the day which is one year after such 90th day.
+&emsp;&emsp;(ii) if the primary source of lending capital for such lender is derived from the sale of bonds, and the constitution of the appropriate State prohibits a pledge of such State's credit as security against suchbonds, the day which is one year after such 90th day.
 
 #### (2) Computation of amounts in repayment
 
@@ -80,7 +80,7 @@
 
 &emsp;The full faith and credit of the United States is pledged to the payment of all amounts which may be required to be paid under the provisions of section 1080 or 1087 of this title.
 
-(Pub. L. 89–329, title IV, §425, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1359; amended Pub. L. 100–50, §10(a), June 3, 1987,101 Stat. 341; Pub. L. 102–325, title IV, §413, July 23, 1992, 106 Stat. 512; Pub. L. 103–208, §2(c)(2), (3), Dec. 20, 1993, 107 Stat. 2460, 2461; Pub. L. 105–244, title IV, §415, Oct. 7, 1998, 112 Stat. 1679; Pub. L. 109–171, title VIII, §8005(a), Feb. 8, 2006, 120 Stat. 158.)
+(Pub. L. 89–329, title IV, §425, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1359; amended Pub. L. 100–50, §10(a), June 3, 1987, 101 Stat. 341; Pub. L. 102–325, title IV, §413, July 23, 1992, 106 Stat. 512; Pub. L. 103–208, §2(c)(2), (3), Dec. 20, 1993, 107 Stat. 2460, 2461; Pub. L. 105–244, title IV, §415, Oct. 7, 1998, 112 Stat. 1679; Pub. L. 109–171, title VIII, §8005(a), Feb. 8, 2006, 120 Stat. 158.)
 
 #### <b>Editorial Notes</b>
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 102–325 effective July 23, 1992, with changes made in sub
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
 #### Effective Date
 

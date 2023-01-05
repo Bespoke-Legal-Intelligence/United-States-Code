@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-Not later than 120 days after August 8, 2005, the President shall establish an interagencytask force chaired by the Secretary with representatives from each of the following:
+Not later than 120 days after August 8, 2005, the President shall establish an interagency task force chaired by the Secretary with representatives from each of the following:
 
 &emsp;(1) The Office of Science and Technology Policy within the Executive Office of the President.
 

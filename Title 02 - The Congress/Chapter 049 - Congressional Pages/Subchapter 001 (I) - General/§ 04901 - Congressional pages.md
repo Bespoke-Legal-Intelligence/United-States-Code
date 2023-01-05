@@ -46,7 +46,7 @@ Pub. L. 91–510, title IV, §491(f), Oct. 26, 1970, 84 Stat. 1198, provided tha
 
 #### Pay of Pages Between Recess or Adjournment
 
-Prior to the repeal of subsecs. (c) and (d) of section 88b–1 (now 4901) of this title by Pub. L. 97–51, provisions for continuing the pay of pages of the Senate and House of Representatives during specific periods of recess or adjournment of Congress by making such subsecs. (b) and (c) inapplicable to the pay of pages during such periods, were contained in the following appropriation acts:
+Prior to the repeal of subsecs. (c) and (d) of section 88b–1 (now 4901) of this title by Pub. L. 97–51, provisions for continuing the pay of pages of the Senate and Houseof Representatives during specific periods of recess or adjournment of Congress by making such subsecs. (b) and (c) inapplicable to the pay of pages during such periods, were contained in the following appropriation acts:
 
 Pub. L. 97–12, title I, June 5, 1981, 95 Stat. 65.
 

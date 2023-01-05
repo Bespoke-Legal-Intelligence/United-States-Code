@@ -28,7 +28,7 @@ Within 18 months after February 8, 1996, the Commission shall prescribe such reg
 
 #### (C) Cost
 
-&emsp;&emsp;The Commission may delay or waive the regulation promulgated under subparagraph (A) to the extent the Commission finds that the application of the regulation to live video programming delivered using Internet protocol with captions after the effectivedate of such regulations would be economically burdensome to providers of video programming or program owners.
+&emsp;&emsp;The Commission may delay or waive the regulation promulgated under subparagraph (A) to the extent the Commission finds that the application of the regulation to live video programming delivered using Internet protocol with captions after the effective date of such regulations would be economically burdensome to providers of video programming or program owners.
 
 #### (D) Requirements for regulations
 
@@ -224,7 +224,7 @@ Subsecs. (h), (j). Pub. L. 111–260, §202(a)(2), (3), added subsec. (h) and re
 
 #### Video Programming and Emergency Access Advisory Committee
 
-Pub. L. 111–260, §201, Oct. 8, 2010, 124 Stat. 2764, as amended by Pub. L. 111–265, §1(2)–(5), Oct. 8, 2010, 124 Stat. 2795, provided that:
+Pub. L. 111–260, §201, Oct. 8, 2010, 124 Stat. 2764, as amended by Pub. L. 111–265, §1(2)–(5), Oct. 8, 2010, 124 Stat. 2795; Pub. L. 117–286, §4(a)(297), Dec. 27, 2022, 136 Stat. 4338, provided that:
 
 "(a)
 
@@ -332,7 +332,11 @@ Additional procedural rules.—The Advisory Committee may adopt other procedural
 
 "(h)
 
-Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee."
+Chapter 10
+
+of Title 5
+
+, United States Code.—Chapter 10 of Title 5, United States Code, shall not apply to the Advisory Committee."
 
 \[For definitions of terms used in section 201 of Pub. L. 111–260, set out above, see section 206 of Pub. L. 111–260, set out as a note under section 153 of this title.\]
 

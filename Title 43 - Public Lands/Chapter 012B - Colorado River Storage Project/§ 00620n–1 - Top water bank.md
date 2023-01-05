@@ -28,7 +28,7 @@
 
 &emsp;(E) water eligible for banking in the top water bank shall be water that otherwise would have been diverted and beneficially used in New Mexico that year.
 
-(e) The Secretary of the Interior may charge fees to water users that use the top water bank in amounts sufficient to cover the costs incurredby the United States in administering the water bank.
+(e) The Secretary of the Interior may charge fees to water users that use the top water bank in amounts sufficient to cover the costs incurred by the United States in administering the water bank.
 
 (Apr. 11, 1956, ch. 203, §16, as added Pub. L. 111–11, title X, §10401(b)(2), Mar. 30, 2009, 123 Stat. 1371.)
 
@@ -42,7 +42,9 @@
 
 Public Law 87–483, referred to in subsecs. (b) and (c)(2)(A), is Pub. L. 87–483, June 13, 1962, 76 Stat. 96, which was classified principally to subchapter XXX (§615ii et seq.) of chapter 12 of this title, and was omitted from the Code. Section 11 of Pub. L. 87–483 was classified to §615ss of this title prior to being omitted from the Code.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination Date
 
-Section to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11, set out as an Agreement note under section 620 of this title.
+Section to be null and void on issuance of a court order terminating a certain Agreement and Contract between New Mexico, the Navajo Nation, and the United States, see section 10701(e)(2) of Pub. L. 111–11,set out as an Agreement note under section 620 of this title.
 

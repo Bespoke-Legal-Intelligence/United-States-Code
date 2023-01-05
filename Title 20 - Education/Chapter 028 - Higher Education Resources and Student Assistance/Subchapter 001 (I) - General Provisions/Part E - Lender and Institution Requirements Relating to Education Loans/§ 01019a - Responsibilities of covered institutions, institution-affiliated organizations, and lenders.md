@@ -50,7 +50,7 @@
 
 #### (3) Use of lender name
 
-&emsp;A covered institution, or an institution-affiliated organization of such covered institution, that enters into a preferred lender arrangement with a lender regarding private education loans shall ensure that the name ofthe lender is displayed in all information and documentation related to such loans.
+&emsp;A covered institution, or an institution-affiliated organization of such covered institution, that enters into a preferred lender arrangement with a lender regarding private education loans shall ensure that the name of the lender is displayed in all information and documentation related to such loans.
 
 #### (b) Lender responsibilities
 

@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) available information about consumption patterns among infants and children that are likely to result in disproportionately high consumption of foods containing or bearing such residue among infants and children in comparison to the general population;
 
-&emsp;&emsp;&emsp;&emsp;(II) available information concerning the special susceptibility of infants andchildren to the pesticide chemical residues, including neurological differences between infants and children and adults, and effects of in utero exposure to pesticide chemicals; and
+&emsp;&emsp;&emsp;&emsp;(II) available information concerning the special susceptibility of infants and children to the pesticide chemical residues, including neurological differences between infants and children and adults, and effects of in utero exposure to pesticide chemicals; and
 
 &emsp;&emsp;&emsp;&emsp;(III) available information concerning the cumulative effects on infants and children of such residues and other substances that have a common mechanism of toxicity; and
 
@@ -178,7 +178,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;A tolerance for a pesticide chemical residue in or on a food shall not be established or modified by the Administrator unless the Administrator determines, after consultation with the Secretary, that there is a practical method for detecting and measuring the levels of the pesticide chemical residue in or on the food.
+&emsp;&emsp;A tolerance for a pesticide chemical residue in or on a food shall not be establishedor modified by the Administrator unless the Administrator determines, after consultation with the Secretary, that there is a practical method for detecting and measuring the levels of the pesticide chemical residue in or on the food.
 
 #### (B) Detection limit
 
@@ -416,11 +416,11 @@
 
 #### (1) Regulations under section 346
 
-&emsp;Regulations affecting pesticide chemical residues in or on raw agricultural commodities promulgated, in accordance with section 371(e) of this title, under the authority of section 346(a) <sup>1</sup> of this title upon the basis of publichearings instituted before January 1, 1953, shall be deemed to be regulations issued under this section and shall be subject to modification or revocation under subsections (d) and (e), and shall be subject to review under subsection (q).
+&emsp;Regulations affecting pesticide chemical residues in or on raw agricultural commodities promulgated, in accordance with section 371(e) of this title, under the authority of section 346(a) <sup>1</sup> of this title upon the basis of public hearings instituted before January 1, 1953, shall be deemed to be regulations issued under this section and shall be subject to modification or revocation under subsections (d) and (e), and shall be subject to review under subsection (q).
 
 #### (2) Regulations under section 348
 
-&emsp;Regulations that established tolerances for substances that are pesticide chemical residues in or on processed food, or that otherwise stated the conditions under which such pesticide chemicals could be safely used, and that were issued under section 348 of this title on or before August 3, 1996, shall be deemed to be regulations issued under this section and shall be subject to modification or revocation under subsection (d) or (e), and shall be subject to review under subsection (q).
+&emsp;Regulations that established tolerances for substances that are pesticide chemical residues in or on processed food, or that otherwise stated the conditions under which such pesticide chemicals could be safely used, and that were issued under section 348 of this title on or before August 3, 1996, shall be deemed to be regulations issued under this section and shallbe subject to modification or revocation under subsection (d) or (e), and shall be subject to review under subsection (q).
 
 #### (3) Regulations under section 346a
 
@@ -466,7 +466,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (B) Effect of suspension
 
-&emsp;&emsp;The suspension of a tolerance or exemption under subparagraph (A) shall be effective as long as the use of each associated registration of a pesticide is suspended under the Federal Insecticide, Fungicide, and Rodenticide Act. While a suspension of atolerance or exemption is effective the tolerance or exemption shall not be considered to be in effect. If the suspension of use of the pesticide under that Act is terminated, leaving the registration of the pesticide for such use in effect under that Act, the Administrator shall rescind any associated suspension of tolerance or exemption.
+&emsp;&emsp;The suspension of a tolerance or exemption under subparagraph (A) shall be effective as long as the use of each associated registration of a pesticide is suspended under the Federal Insecticide, Fungicide, and Rodenticide Act. While a suspension of a tolerance or exemption is effective the tolerance or exemption shall not be considered to be in effect. If the suspension of use of the pesticide under that Act is terminated, leaving the registration of the pesticide for such use in effect under that Act, the Administrator shall rescind any associated suspension of tolerance or exemption.
 
 #### (4) Tolerances for unavoidable residues
 
@@ -508,7 +508,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (3) Prohibition
 
-&emsp;During the period beginning on October 1, 2007, and ending on September 30, 2023, the Administrator shall not collect any tolerance fees under paragraph (1).
+&emsp;During the period beginning on December 29, 2022, and ending on September 30, 2027, the Administrator shall not collect any tolerance fees under paragraph (1).
 
 #### (n) National uniformity of tolerances
 
@@ -522,7 +522,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (2) "Qualifying Federal determination" defined
 
-&emsp;For purposes of this subsection, the term "qualifying Federal determination" means a tolerance or exemption from the requirement for a tolerance for a qualifying pesticide chemical residue that—
+&emsp;For purposes of this subsection, the term "qualifying Federal determination" means a tolerance or exemption from the requirementfor a tolerance for a qualifying pesticide chemical residue that—
 
 &emsp;&emsp;(A) is issued under this section after August 3, 1996, and determined by the Administrator to meet the standard under subsection (b)(2)(A) (in the case of a tolerance) or (c)(2) (in the case of an exemption); or
 
@@ -582,7 +582,7 @@ If, on the day before August 3, 1996, a substance that is a pesticide chemical w
 
 #### (o) Consumer right to know
 
-Not later than 2 years after August 3, 1996, and annually thereafter, the Administrator shall, in consultation with the Secretary of Agriculture and the Secretary of Health and Human Services, publish in a format understandable to a lay person, and distribute to large retail grocers for public display (in a manner determined by the grocer), the following information, at a minimum:
+Not later than 2 years after August 3, 1996, and annually thereafter, the Administrator shall, in consultation with the Secretary of Agricultureand the Secretary of Health and Human Services, publish in a format understandable to a lay person, and distribute to large retail grocers for public display (in a manner determined by the grocer), the following information, at a minimum:
 
 &emsp;(1) A discussion of the risks and benefits of pesticide chemical residues in or on food purchased by consumers.
 
@@ -632,7 +632,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (ii) Hearing
 
-&emsp;&emsp;&emsp;If a person requests a hearing under clause (i), the hearing shall be conducted in accordance with section 554 of title 5. The only matter for resolution at the hearing shall be whether the registrant has failed to comply with an order under subparagraph (A) of this paragraph. A decision by the Administrator after completion of ahearing shall be considered to be a final agency action.
+&emsp;&emsp;&emsp;If a person requests a hearing under clause (i), the hearing shall be conducted in accordance with section 554 of title 5. The only matter for resolution at the hearing shall be whether the registrant has failed to comply with an order under subparagraph (A) of this paragraph. A decision by the Administrator after completion of a hearing shall be considered to be a final agency action.
 
 #### (iii) Termination of suspensions
 
@@ -640,7 +640,7 @@ Nothing in this subsection shall prevent retail grocers from providing additiona
 
 #### (D) Noncompliance by other persons
 
-&emsp;&emsp;Any person (other than a registrant) who fails to comply with an order under subparagraph (A) shall be liable for the same penalties and sanctions as are provided under section 16 of the Toxic Substances Control Act \[15 U.S.C. 2615\] in the case of a violation referred to in that section. Such penalties and sanctions shall be assessed and imposed in the same manner as provided in such section 16.
+&emsp;&emsp;Any person (other than a registrant) who fails to comply with an order under subparagraph (A) shall be liable for the same penalties and sanctions as are provided under section 16 of the Toxic Substances Control Act \[15 U.S.C. 2615\] in the case of a violation referred to in that section. Such penalties and sanctions shall be assessed and imposedin the same manner as provided in such section 16.
 
 #### (6) Agency action
 
@@ -686,7 +686,7 @@ The Administrator may, upon the request of any person who has obtained an experi
 
 Nothing in this section shall be construed to amend or modify the provisions of the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\] or the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\].
 
-(June 25, 1938, ch. 675, §408, as added July 22, 1954, ch. 559, §3, 68 Stat. 511; amended Pub. L. 85–791, §20, Aug. 28, 1958, 72 Stat. 947; Pub. L. 91–515, title VI, §601(d)(1), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 92–157, title III, §303(a), Nov. 18, 1971, 85 Stat. 464; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 98–620, title IV, §402(25)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(7), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(k), Aug. 13, 1993, 107 Stat. 776; Pub. L. 104–170, title IV, §405, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 105–324, §2(b), Oct. 30, 1998, 112 Stat. 3036; Pub. L. 110–94, §4(d)(2), Oct. 9, 2007, 121 Stat. 1002; Pub. L. 112–177, §2(a)(3), Sept. 28, 2012, 126 Stat. 1329; Pub. L. 116–8, §2(c), Mar. 8, 2019, 133 Stat. 485.)
+(June 25, 1938, ch. 675, §408, as added July 22, 1954, ch. 559, §3, 68 Stat. 511; amended Pub. L. 85–791, §20, Aug. 28, 1958, 72 Stat. 947; Pub. L. 91–515, title VI, §601(d)(1), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 92–157, title III, §303(a), Nov. 18, 1971, 85 Stat. 464; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 98–620, title IV, §402(25)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(7), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(k), Aug. 13, 1993, 107 Stat. 776; Pub. L. 104–170, title IV, §405, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 105–324, §2(b), Oct. 30, 1998, 112 Stat. 3036; Pub. L. 110–94, §4(d)(2), Oct. 9, 2007, 121 Stat. 1002; Pub. L. 112–177, §2(a)(3), Sept. 28, 2012, 126 Stat. 1329; Pub. L. 116–8, §2(c), Mar. 8, 2019, 133 Stat. 485; Pub. L. 117–328, div. HH, title VI, §703(b), Dec. 29, 2022, 136 Stat. 6002.)
 
 #### <b>Editorial Notes</b>
 
@@ -700,13 +700,15 @@ The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsecs.
 
 Section 4365 of title 42, referred to in subsec. (p)(2), was in the original "section 8 of the Environmental Research, Development, and Demonstration Act of 1978", and was translated as meaning section 8 of the Environmental Research, Development, and Demonstration Authorization Act of 1978, to reflect the probable intent of Congress.
 
-The Toxic Substances Control Act, referred to in subsec. (s), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
+The Toxic Substances Control Act, referred to in subsec. (s), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§2601 et seq.) of Title 15, Commerce and Trade. Forcomplete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 15 and Tables.
 
 #### Codification
 
 August 3, 1996, referred to in subsecs. (k), (n)(1)(B), (2)(A), and (p)(1), (2), (7), was in the original references to the date of enactment of this subsection and the date of enactment of this section, which was translated as meaning the date of enactment of Pub. L. 104–170, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (m)(3). Pub. L. 117–328 substituted "December 29, 2022, and ending on September 30, 2027" for "October 1, 2007, and ending on September 30, 2023".
 
 <b>2019</b>—Subsec. (m)(3). Pub. L. 116–8 substituted "2023" for "2017".
 

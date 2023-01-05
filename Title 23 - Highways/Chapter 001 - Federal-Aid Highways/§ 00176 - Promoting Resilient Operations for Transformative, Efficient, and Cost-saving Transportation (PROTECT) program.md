@@ -38,7 +38,7 @@ Resilience improvement.—The term "resilience improvement" means the use of mat
 
 &emsp;&emsp;&emsp;(i) to better anticipate, prepare for, and adapt to changing conditions and to withstand and respond to disruptions; and
 
-&emsp;&emsp;&emsp;(ii) to be better able to continue to serve the primary function of the project during and after weather events and natural disasters for the expected life of the project; or
+&emsp;&emsp;&emsp;(ii) to be better able to continue to serve the primary function of the project duringand after weather events and natural disasters for the expected life of the project; or
 
 &emsp;&emsp;(B) that—
 
@@ -140,7 +140,7 @@ In general.—Except as provided in subsection (e)(1), the Federal share of the 
 
 &emsp;&emsp;&emsp;(ii)
 
-Non-federal share.—A State may use Federal funds other than Federal funds apportioned to the State under section 104(b)(8) to meet the non-Federal cost share requirement for a project under this subsection.
+Non-federal share.—A State may use Federal funds other than Federal funds apportioned to the State under section 104(b)(8) to meet the non-Federal costshare requirement for a project under this subsection.
 
 &emsp;&emsp;(E)
 
@@ -324,7 +324,7 @@ At-risk coastal infrastructure grants.—
 
 Definition of eligible entity.—In this subparagraph, the term "eligible entity" means any of the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) A State (including the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands) in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or 1 or more of the Great Lakes.
+&emsp;&emsp;&emsp;&emsp;(I) A State (including the United States Virgin Islands, Guam, AmericanSamoa, and the Commonwealth of the Northern Mariana Islands) in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or 1 or more of the Great Lakes.
 
 &emsp;&emsp;&emsp;&emsp;(II) A political subdivision of a State described in subclause (I).
 

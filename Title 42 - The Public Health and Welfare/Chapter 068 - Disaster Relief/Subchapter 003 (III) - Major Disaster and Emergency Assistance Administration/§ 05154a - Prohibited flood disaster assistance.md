@@ -10,7 +10,7 @@ Notwithstanding any other provision of law, no Federal disaster relief assistanc
 
 &emsp;In the event of the transfer of any property described in paragraph (3), the transferor shall, not later than the date on which such transfer occurs, notify the transferee in writing of the requirements to—
 
-&emsp;&emsp;(A) obtain flood insurance in accordance with applicable Federal law with respect to such property, if the property is not so insured as of the date on which the property is transferred; and
+&emsp;&emsp;(A) obtain flood insurance in accordance with applicable Federal law with respect tosuch property, if the property is not so insured as of the date on which the property is transferred; and
 
 &emsp;&emsp;(B) maintain flood insurance in accordance with applicable Federal law with respect to such property.
 
@@ -52,7 +52,7 @@ This section and the amendments made by this section shall apply to disasters de
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 The amendments made by this section, referred to in subsec. (e), means the amendments made by section 582(c) of Pub. L. 103–325, which amended section 4012a of this title. See Codification note below.
 

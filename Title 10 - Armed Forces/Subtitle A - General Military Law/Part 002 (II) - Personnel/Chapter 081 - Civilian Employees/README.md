@@ -32,25 +32,22 @@
 | [1599b.](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md) | Employees abroad: travel expenses; health care. |
 | [1599c.](%C2%A7%2001599c%20-%20Health%20care%20professionals%20enhanced%20appointment%20and%20compensation%20authority%20for%20personnel%20for%20care%20and%20treatment%20of%20wounded%20and%20injured%E2%80%A6.md) | Health care professionals: enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured members of the armed forces. |
 | [1599d.](%C2%A7%2001599d%20-%20Financial%20management%20positions%20authority%20to%20prescribe%20professional%20certification%20and%20credential%20standards.md) | Financial management positions: authority to prescribe professional certification and credential standards. |
-| [1599e.](%C2%A7%2001599e%20-%20Probationary%20period%20for%20employees.md) | Probationary period for employees. |
+| \[1599e. | Repealed.\] |
 | [1599f.](%C2%A7%2001599f%20-%20United%20States%20Cyber%20Command%20recruitment%20and%20retention.md) | United States Cyber Command recruitment and retention. |
 | [1599g.](%C2%A7%2001599g%20-%20Public-private%20talent%20exchange.md) | Public-private talent exchange. |
 | \[1599h. | Renumbered.\] |
 | [1599i.](%C2%A7%2001599i%20-%20Recruitment%20incentives%20for%20placement%20at%20remote%20locations.md) | Recruitment incentives for placement at remote locations. |
+| [1599j.](%C2%A7%2001599j%20-%20Restricted%20reports%20of%20incidents%20of%20adult%20sexual%20assault.md) | Restricted reports of incidents of adult sexual assault. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 117–81, div. A, title XI, §1106(b)(1), Dec. 27, 2021, 135 Stat. 1950, provided that this analysis is amended by striking the item relating to section 1599e "Probationary period for employees". See 2021 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–81, div. A, title XVII, §1701(w)(1), Dec. 27, 2021, 135 Stat. 2154, struck out item 1599h "Personnel management authority to attract experts in science and engineering".
+<b>2022</b>—Pub. L. 117–263, div. A, title XI, §1101(b), Dec. 23, 2022, 136 Stat. 2815, added item 1599j.
 
-Pub. L. 117–81, div. A, title XI, §1106(b)(1), Dec. 27, 2021, 135 Stat. 1950, which directed amendment of this analysis by striking item 1599e "Probationary period for employees", was executed as if effective on Dec. 31, 2022, concurrent with the repeal of section 1599e by Pub. L. 117–81, div. A, title XI, §1106(a)(1), to reflect the probable intent of Congress.
+<b>2021</b>—Pub. L. 117–81, div. A, title XI, §1106(b)(1), title XVII, §1701(w)(1), Dec. 27, 2021, 135 Stat. 1950, 2154, struck out items 1599e "Probationary period for employees" and 1599h "Personnel management authority to attract experts in science and engineering".
 
 Pub. L. 116–283, div. A, title II, §241(c)(2), title XI, §1120(d), Jan. 1, 2021, 134 Stat. 3487, 3900, added items 1596c and 1599i.
 
@@ -124,7 +121,7 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 #### Pilot Program on the Use of Electronic Portfolios To Evaluate Certain Applicants for Technical Positions
 
-Pub. L. 116–283, div. A, title II, §247, Jan. 1, 2021, 134 Stat. 3491, provided that:
+Pub. L. 116–283, div. A, title II, §247, Jan. 1, 2021, 134 Stat. 3491, as amended by Pub. L. 117–263, div. A, title II, §212(h), Dec. 23, 2022, 136 Stat. 2468, provided that:
 
 "(a)
 
@@ -142,13 +139,11 @@ Activities.—Under the pilot program, the human resources manager of each organ
 
 Scope of Program.—The Secretary of Defense shall carry out the pilot program under subsection (a) in—
 
-&emsp;"(1) the Joint Artificial Intelligence Center;
+&emsp;"(1) the office of the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061);
 
-&emsp;"(2) the Defense Digital Service;
+&emsp;"(2) at least one activity of each military department, as identified by the Secretary of the department concerned; and
 
-&emsp;"(3) at least one activity of each military department, as identified by the Secretary of the department concerned; and
-
-&emsp;"(4) such other organizations and elements of the Department of Defense as the Secretary determines appropriate.
+&emsp;"(3) such other organizations and elements of the Department of Defense as the Secretary determines appropriate.
 
 "(d)
 
@@ -390,7 +385,7 @@ Modifications to Fellows Program.—The Secretary may modify the terms and proce
 
 "(f)
 
-Consultation.—The Secretary may consult with the heads of the agencies, components, and other elements of the Department of Defense, Members andcommittees of Congress, and such institutions of higher education and private entities engaged in work on national security and emerging technologies as the Secretary considers appropriate for purposes of the fellows program, including with respect to assignments in the fellows program."
+Consultation.—The Secretary may consult with the heads of the agencies, components, and other elements of the Department of Defense, Members and committees of Congress, and such institutions of higher education and private entities engaged in work on national security and emerging technologies as the Secretary considers appropriate for purposes of the fellows program, including with respect to assignments in the fellows program."
 
 #### John S. McCain Strategic Defense Fellows Program
 
@@ -522,7 +517,7 @@ Career Development.—
 
 In general.—The Secretary of Defense shall ensure that participants in the fellows program—
 
-&emsp;&emsp;"(A) receive opportunities and support appropriate for the commencement of a career trackwithin the Department leading toward a future position of senior leadership within the Department, including ongoing mentorship support through appropriate personnel from entities within the Department such as the Defense Business Board and the Defense Innovation Board; and
+&emsp;&emsp;"(A) receive opportunities and support appropriate for the commencement of a career track within the Department leading toward a future position of senior leadership within the Department, including ongoing mentorship support through appropriate personnel from entities within the Department such as the Defense Business Board and the Defense Innovation Board; and
 
 &emsp;&emsp;"(B) are provided appropriate opportunities for employment and advancement within the Department upon successful completion of the fellows program, including, if appropriate, opportunities to work at Department installations or Field Activities for between 12 and 24 months.
 
@@ -748,7 +743,7 @@ Nature of Service Under Appointments.—
 
 Treatment of personnel appointed as employees.—Except as otherwise provided by this section, individuals serving with the Department of Defense as cybersecurity or legal professionals under the pilot program pursuant to appointments under this section shall be considered employees (as specified in section 2105 of title 5, United States Code) for purposes of the provisions of title 5, United States Code, and other applicable provisions of law, including, in particular, for purposes as follows:
 
-&emsp;&emsp;"(A) Eligibility for participation in the Federal Employees' Retirement System under chapter 84 oftitle 5, United States Code, subject to the provisions of section 8402 of such title and the regulations prescribed pursuant to such section.
+&emsp;&emsp;"(A) Eligibility for participation in the Federal Employees' Retirement System under chapter 84 of title 5, United States Code, subject to the provisions of section 8402 of such title and the regulations prescribed pursuant to such section.
 
 &emsp;&emsp;"(B) Eligibility for enrollment in a health benefits plan under chapter 89 of title 5, United States Code (commonly referred as the 'Federal Employees Health Benefits Program').
 
@@ -774,7 +769,7 @@ Treatment as basic pay.—Basic pay payable under the pilot program shall be tre
 
 &emsp;"(3)
 
-Performance awards.—Individuals serving with the Department as cybersecurity or legal professionals under the pilot program may be awarded such performance awards for outstanding performance as the Secretary shall prescribe for purposes of the pilot program. The performance awards may include a monetary bonus, time off with pay, or such other awards as the Secretary considers appropriate for purposes of the pilot program. The award of performance awards under the pilot program shall be based in accordance with such policies and requirements as the Secretary shall prescribe for purposes of the pilot program.
+Performance awards.—Individuals serving with the Department as cybersecurity or legal professionals under the pilot program may be awarded such performance awards for outstanding performance as the Secretary shall prescribe for purposes of the pilot program. The performance awards may include a monetary bonus, time off with pay, or such otherawards as the Secretary considers appropriate for purposes of the pilot program. The award of performance awards under the pilot program shall be based in accordance with such policies and requirements as the Secretary shall prescribe for purposes of the pilot program.
 
 &emsp;"(4)
 
@@ -850,7 +845,7 @@ Termination.—
 
 &emsp;"(1)
 
-In general.—The authority of the Secretary of Defense to appoint individuals for service with theDepartment of Defense as cybersecurity or legal professionals under the pilot program shall expire on December 31, 2029.
+In general.—The authority of the Secretary of Defense to appoint individuals for service with the Department of Defense as cybersecurity or legal professionals under the pilot program shall expire on December 31, 2029.
 
 &emsp;"(2)
 
@@ -884,7 +879,7 @@ Reports required.—Not later than January 30 of each of 2022, 2025, and 2028, t
 
 &emsp;&emsp;"(B) A description and assessment of the successes in and impediments to carrying out the pilot program system during such period.
 
-&emsp;&emsp;"(C) Such recommendations as the Secretary considers appropriate for legislative action to improve the pilot program and to otherwise improve civilian personnel management of cybersecurity and legal professionals by the Department of Defense.
+&emsp;&emsp;"(C) Such recommendations as the Secretary considers appropriate for legislative action to improvethe pilot program and to otherwise improve civilian personnel management of cybersecurity and legal professionals by the Department of Defense.
 
 &emsp;&emsp;"(D) In the case of the report submitted in 2028, an assessment and recommendations by the Secretary on whether to make the pilot program permanent.
 
@@ -1124,7 +1119,7 @@ Data Collection Requirement.—The Secretary of Defense shall develop and implem
 
 "(g)
 
-Briefing.—Not later than 90 days after the end of each of fiscal years 2022 through 2026, the Secretary of Defense shall provide a briefing to the Committee on Armed Services of the House of Representatives, the Committee on Armed Services of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate including—
+Briefing.—Not later than 90 days after the end of each of fiscal years 2022 through 2026, the Secretaryof Defense shall provide a briefing to the Committee on Armed Services of the House of Representatives, the Committee on Armed Services of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate including—
 
 &emsp;"(1) a description of the effect of this section on the management of civilian personnel at domestic defense industrial base facilities and Major Range and Test Facilities Base during the most recently ended fiscal year; and
 
@@ -1342,7 +1337,7 @@ Earlier termination.—If the Secretary of Defense, jointly with the Secretary o
 
 Pub. L. 110–181, div. A, title VIII, §851, Jan. 28, 2008, 122 Stat. 247, which required that, in updates of the strategic human capital plan, the Secretary of Defense was to include a separate section focused on the defense acquisition workforce, was repealed by Pub. L. 111–84, div. A, title XI, §1108(c)(3), Oct. 28, 2009, 123 Stat. 2492.
 
-Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, which required the Secretary of Defense to develop and submit to the Committees on Armed Services of the Senate and House of Representatives a strategic human capital plan to shape and improve the civilian employee workforce of the Department of Defense, along with updates and the assessment of the Secretary of the progress of the Department in implementing the plan, and required the Comptroller General to submit to the Committees on Armed Services a report on the plan, was repealed by Pub. L. 111–84, div. A, title XI, §1108(c)(1), Oct. 28, 2009, 123 Stat. 2491.
+Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, which required the Secretary of Defense to develop and submit to the Committees on Armed Services of the Senate and House of Representatives a strategic human capital plan to shape and improve the civilian employee workforce of the Department of Defense, along with updates and the assessment of theSecretary of the progress of the Department in implementing the plan, and required the Comptroller General to submit to the Committees on Armed Services a report on the plan, was repealed by Pub. L. 111–84, div. A, title XI, §1108(c)(1), Oct. 28, 2009, 123 Stat. 2491.
 
 
 ---
@@ -1379,8 +1374,9 @@ Pub. L. 109–163, div. A, title XI, §1122, Jan. 6, 2006, 119 Stat. 3452, which
 - [&sect; 01599b - Employees abroad travel expenses; health care](%C2%A7%2001599b%20-%20Employees%20abroad%20travel%20expenses%3B%20health%20care.md)
 - [&sect; 01599c - Health care professionals enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured&#8230;](%C2%A7%2001599c%20-%20Health%20care%20professionals%20enhanced%20appointment%20and%20compensation%20authority%20for%20personnel%20for%20care%20and%20treatment%20of%20wounded%20and%20injured%E2%80%A6.md)
 - [&sect; 01599d - Financial management positions authority to prescribe professional certification and credential standards](%C2%A7%2001599d%20-%20Financial%20management%20positions%20authority%20to%20prescribe%20professional%20certification%20and%20credential%20standards.md)
-- [&sect; 01599e - Probationary period for employees](%C2%A7%2001599e%20-%20Probationary%20period%20for%20employees.md)
+- [&sect; 01599e - Repealed. Pub. L. 117&#8211;81, div. A, title XI, &sect;1106(a)(1), Dec. 27, 2021, 135 Stat. 1950](%C2%A7%2001599e%20-%20Repealed.%20Pub.%20L.%20117%E2%80%9381%2C%20div.%20A%2C%20title%20XI%2C%20%C2%A71106%28a%29%281%29%2C%20Dec.%2027%2C%202021%2C%20135%20Stat.%201950.md)
 - [&sect; 01599f - United States Cyber Command recruitment and retention](%C2%A7%2001599f%20-%20United%20States%20Cyber%20Command%20recruitment%20and%20retention.md)
 - [&sect; 01599g - Public-private talent exchange](%C2%A7%2001599g%20-%20Public-private%20talent%20exchange.md)
 - [&sect; 01599h - Renumbered &sect;4092](%C2%A7%2001599h%20-%20Renumbered%20%C2%A74092.md)
 - [&sect; 01599i - Recruitment incentives for placement at remote locations](%C2%A7%2001599i%20-%20Recruitment%20incentives%20for%20placement%20at%20remote%20locations.md)
+- [&sect; 01599j - Restricted reports of incidents of adult sexual assault](%C2%A7%2001599j%20-%20Restricted%20reports%20of%20incidents%20of%20adult%20sexual%20assault.md)

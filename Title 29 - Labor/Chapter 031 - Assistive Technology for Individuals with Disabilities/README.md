@@ -9,6 +9,7 @@
 | [3005\.](%C2%A7%2003005%20-%20National%20activities.md) | National activities. |
 | [3006\.](%C2%A7%2003006%20-%20Administrative%20provisions.md) | Administrative provisions. |
 | [3007\.](%C2%A7%2003007%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [3008\.](%C2%A7%2003008%20-%20Authorization%20of%20appropriations%3B%20reservations%20and%20distribution%20of%20funds.md) | Authorization of appropriations; reservations and distribution of funds. |
 | 3011 to 3058. Omitted. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,6 +26,7 @@
 - [&sect; 03005 - National activities](%C2%A7%2003005%20-%20National%20activities.md)
 - [&sect; 03006 - Administrative provisions](%C2%A7%2003006%20-%20Administrative%20provisions.md)
 - [&sect; 03007 - Authorization of appropriations](%C2%A7%2003007%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 03008 - Authorization of appropriations; reservations and distribution of funds](%C2%A7%2003008%20-%20Authorization%20of%20appropriations%3B%20reservations%20and%20distribution%20of%20funds.md)
 - [&sect; 03011 to 3015 - Omitted](%C2%A7%2003011%20to%203015%20-%20Omitted.md)
 - [&sect; 03031 to 3037 - Omitted](%C2%A7%2003031%20to%203037%20-%20Omitted.md)
 - [&sect; 03051 to 3058 - Omitted](%C2%A7%2003051%20to%203058%20-%20Omitted.md)

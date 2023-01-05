@@ -14,7 +14,7 @@ The Secretary shall publish information reported under subsection (a) as the Sec
 
 #### Negotiated Rulemaking Process
 
-Pub. L. 111–239, §2(b)(2)–(4), Sept. 27, 2010, 124 Stat. 2501, provided that:
+Pub. L. 111–239, §2(b)(2)–(4), Sept. 27, 2010, 124 Stat. 2501, as amended by Pub. L. 117–286, §4(a)(25), Dec. 27, 2022, 136 Stat. 4307, provided that:
 
 "(2)
 
@@ -38,11 +38,15 @@ Representation.—Any negotiated rulemaking committee established by the Secreta
 
 &emsp;"(B)
 
-Inapplicability of federal advisory committee act.—Any negotiated rulemaking committee established by the Secretary of Agriculture pursuant to paragraph (2) shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+Inapplicability of chapter 10
+
+of title 5
+
+, united states code.—Any negotiated rulemaking committee established by the Secretary of Agriculture pursuant to paragraph (2) shall not be subject to chapter 10 of title 5, United States Code.
 
 "(4)
 
-Timing of proposed and final rules.—In carrying out the negotiated rulemaking process underparagraph (2), the Secretary of Agriculture shall ensure that—
+Timing of proposed and final rules.—In carrying out the negotiated rulemaking process under paragraph (2), the Secretary of Agriculture shall ensure that—
 
 &emsp;"(A) any recommendation for a proposed rule or report is provided to the Secretary of Agriculture not later than 180 days after the date of the enactment of this Act \[Sept. 27, 2010\]; and
 

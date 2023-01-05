@@ -42,7 +42,7 @@ To the extent that all the funds appropriated under section 300w of this title f
 
 &emsp;(A) receives a request from the governing body of an Indian tribe or tribal organization within any State that funds under this part be provided directly by the Secretary to such tribe or organization, and
 
-&emsp;(B) determines that the members of such tribe or tribal organization would be betterserved by means of grants made directly by the Secretary under this part,
+&emsp;(B) determines that the members of such tribe or tribal organization would be better served by means of grants made directly by the Secretary under this part,
 
 > the Secretary shall reserve from amounts which would otherwise be allotted to such State under subsection (a) for the fiscal year the amount determined under paragraph (2).
 
@@ -64,7 +64,7 @@ The Secretary shall conduct a study for the purpose of devising a formula for th
 
 &emsp;(3) any other factor which the Secretary may consider appropriate.
 
-> Before June 30, 1982, the Secretary shall submit a report to the Congress respecting the development of a formula and make such recommendations as the Secretary may deem appropriate in order to ensure the most equitable distribution of funds under allotments under this section.
+> Before June 30, 1982, the Secretary shall submit a report to the Congress respecting the development of a formula and make such recommendations as the Secretary may deem appropriate inorder to ensure the most equitable distribution of funds under allotments under this section.
 
 (July 1, 1944, ch. 373, title XIX, §1902, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 535.)
 

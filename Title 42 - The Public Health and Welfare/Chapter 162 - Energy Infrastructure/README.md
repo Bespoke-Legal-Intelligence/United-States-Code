@@ -18,6 +18,16 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part A–1—Electric Transmission
+
+|  |  |
+| :--- | ---: |
+| [18715\.](Subchapter%20001%20%28I%29%20-%20Grid%20Infrastructure%20and%20Resiliency/Part%20A%E2%80%931%20-%20Electric%20Transmission/%C2%A7%2018715%20-%20Transmission%20facility%20financing.md) | Transmission facility financing. |
+| [18715a.](Subchapter%20001%20%28I%29%20-%20Grid%20Infrastructure%20and%20Resiliency/Part%20A%E2%80%931%20-%20Electric%20Transmission/%C2%A7%2018715a%20-%20Grants%20to%20facilitate%20the%20siting%20of%20interstate%20electricity%20transmission%20lines.md) | Grants to facilitate the siting of interstate electricity transmission lines. |
+| [18715b.](Subchapter%20001%20%28I%29%20-%20Grid%20Infrastructure%20and%20Resiliency/Part%20A%E2%80%931%20-%20Electric%20Transmission/%C2%A7%2018715b%20-%20Interregional%20and%20offshore%20wind%20electricity%20transmission%20planning%2C%20modeling%2C%20and%20analysis.md) | Interregional and offshore wind electricity transmission planning, modeling, and analysis. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Part B—Cybersecurity
 
 |  |  |
@@ -84,7 +94,18 @@
 | :--- | ---: |
 | [18791\.](Subchapter%20005%20%28V%29%20-%20Energy%20Efficiency%20and%20Building%20Infrastructure/Part%20A%20-%20Residential%20and%20Commercial%20Energy%20Efficiency/%C2%A7%2018791%20-%20Definitions.md) | Definitions. |
 | [18792\.](Subchapter%20005%20%28V%29%20-%20Energy%20Efficiency%20and%20Building%20Infrastructure/Part%20A%20-%20Residential%20and%20Commercial%20Energy%20Efficiency/%C2%A7%2018792%20-%20Energy%20efficiency%20revolving%20loan%20fund%20capitalization%20grant%20program.md) | Energy efficiency revolving loan fund capitalization grant program. |
-| [18793\.](Subchapter%20005%20%28V%29%20-%20Energy%20Efficiency%20and%20Building%20Infrastructure/Part%20A%20-%20Residential%20and%20Commercial%20Energy%20Efficiency/%C2%A7%2018793%20-%20Energy%20auditor%20training%20grant%20program.md) | Energy auditor training grant program. |
+| [18793\.](Subchapter%20005%20%28V%29%20-%20Energy%20Efficiency%20and%20Building%20Infrastructure/Part%20A%20-%20Residential%20and%20Commercial%20Energy%20Efficiency/%C2%A7%2018793%20-%20Energy%20auditor%20training%20grant%20program.md) |  |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part A–1—Residential Efficiency and Electrification Rebates
+
+|  |  |
+| :--- | ---: |
+| [18795\.](Subchapter%20005%20%28V%29%20-%20Energy%20Efficiency%20and%20Building%20Infrastructure/Part%20A%E2%80%931%20-%20Residential%20Efficiency%20and%20Electrification%20Rebates/%C2%A7%2018795%20-%20Home%20energy%20performance-based%2C%20whole-house%20rebates.md) | Home energy performance-based, whole-house rebates. |
+| [18795a.](Subchapter%20005%20%28V%29%20-%20Energy%20Efficiency%20and%20Building%20Infrastructure/Part%20A%E2%80%931%20-%20Residential%20Efficiency%20and%20Electrification%20Rebates/%C2%A7%2018795a%20-%20High-efficiency%20electric%20home%20rebate%20program.md) | High-efficiency electric home rebate program. |
+| [18795b.](Subchapter%20005%20%28V%29%20-%20Energy%20Efficiency%20and%20Building%20Infrastructure/Part%20A%E2%80%931%20-%20Residential%20Efficiency%20and%20Electrification%20Rebates/%C2%A7%2018795b%20-%20State-based%20home%20energy%20efficiency%20contractor%20training%20grants.md) | State-based home energy efficiency contractor training grants. |
+|  | Energy auditor training grant program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

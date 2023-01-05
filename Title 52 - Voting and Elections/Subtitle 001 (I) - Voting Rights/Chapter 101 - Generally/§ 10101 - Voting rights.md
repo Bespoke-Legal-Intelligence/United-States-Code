@@ -104,6 +104,10 @@ Subsecs. (e), (f). Pub. L. 86–449, §601(a), added subsec. (e) and redesignate
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–182, §1, Sept. 30, 2022, 136 Stat. 2178, provided that: "This Act \[amending section 21061 of this title and enacting provisions set out as a note under section 21061 of this title\] may be cited as the 'Protection and Advocacy for Voting Access Program Inclusion Act' or the 'PAVA Program Inclusion Act'."
+
 #### Short Title of 2009 Act
 
 Pub. L. 111–84, div. A, title V, §575, Oct. 28, 2009, 123 Stat. 2318, provided that: "This subtitle \[subtitle H (§§575–589) of title V of div. A of Pub. L. 111–84, see Tables for classification\] may be cited as the 'Military and Overseas Voter Empowerment Act'."
@@ -140,11 +144,11 @@ Pub. L. 97–205, §1, June 29, 1982, 96 Stat. 131, provided: "That this Act \[s
 
 #### Short Title of 1980 Act
 
-Pub. L. 96–187, Jan. 8, 1980, 93 Stat. 1339, provided in part: "That this Act \[see Tables for classification\] may be cited as the 'Federal Election Campaign Act Amendments of 1979'."
+Pub. L. 96–187, Jan. 8, 1980, 93 Stat. 1339, provided in part: "That this Act \[see Tables for classification\] maybe cited as the 'Federal Election Campaign Act Amendments of 1979'."
 
 #### Short Title of 1976 Act
 
-Pub. L. 94–283, §1, May 11, 1976, 90 Stat. 475, provided that: "This Act \[see Tables for classification\] may becited as the 'Federal Election Campaign Act Amendments of 1976'."
+Pub. L. 94–283, §1, May 11, 1976, 90 Stat. 475, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Election Campaign Act Amendments of 1976'."
 
 #### Short Title of 1975 Act
 

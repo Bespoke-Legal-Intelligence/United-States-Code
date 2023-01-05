@@ -24,7 +24,7 @@ The words "public", "actual", and "by law" are omitted as surplusage.
 
 #### Prior Provisions
 
-A prior section 8263, added Pub. L. 85–861, §1(166)(B), Sept. 2, 1958, 72 Stat. 1516; Pub. L. 87–649, §14c(53), Sept. 7, 1962, 76 Stat. 501, provided for voluntary extension ofenlistments in the Air Force, prior to repeal by Pub. L. 90–235, §2(a)(4)(B), Jan. 2, 1968, 81 Stat. 756.
+A prior section 8263, added Pub. L. 85–861, §1(166)(B), Sept. 2, 1958, 72 Stat. 1516; Pub. L. 87–649, §14c(53), Sept. 7, 1962, 76 Stat. 501, provided for voluntary extension of enlistments in the Air Force, prior to repeal by Pub. L. 90–235, §2(a)(4)(B), Jan. 2, 1968, 81 Stat. 756.
 
 #### Amendments
 

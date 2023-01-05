@@ -32,5 +32,11 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in par. (1)(
 
 Section was formerly classified to section 14043h of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of title IV of Pub. L. 114–22, which is classified to this chapter, as the "Rape Survivor Child Custody Act", see section 401 of Pub. L. 114–22, set out as a Short Title of 2015 Act note under section 10101 of this title.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

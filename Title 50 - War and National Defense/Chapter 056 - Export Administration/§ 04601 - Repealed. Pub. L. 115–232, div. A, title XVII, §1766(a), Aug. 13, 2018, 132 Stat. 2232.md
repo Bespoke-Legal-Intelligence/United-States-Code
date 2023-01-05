@@ -26,7 +26,7 @@ Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232,
 
 #### Implementation of Repeal
 
-Pub. L. 115–232, div. A, title XVII, §1766(b), Aug. 13, 2018, 132 Stat. 2232, provided that: "The President shallimplement the amendment made by subsection (a) \[repealing sections 4601 to 4610 and 4614 to 4623 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section and sections 4606 and 4609 of this title and section 3108 of Title 22, Foreign Relations and Intercourse\] by exercising the authorities of the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)."
+Pub. L. 115–232, div. A, title XVII, §1766(b), Aug. 13, 2018, 132 Stat. 2232, provided that: "The President shall implement the amendment made by subsection (a) \[repealing sections 4601 to 4610 and 4614 to 4623 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section and sections 4606 and 4609 of this title and section 3108 of Title 22, Foreign Relations and Intercourse\] by exercising the authorities of the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)."
 
 #### Transition Provisions
 
@@ -42,7 +42,7 @@ Pub. L. 111–259, title IV, §415, Oct. 7, 2010, 124 Stat. 2727, provided that:
 
 Ex. Ord. No. 12131, May 4, 1979, 44 F.R. 26841, as amended by Ex. Ord. No. 12551, Feb. 21, 1986, 21 F.R. 6509; Ex. Ord. No. 12991, Mar. 6, 1996, 61 F.R. 9587; Ex. Ord. No. 13138, §5, Sept. 30, 1999, 64 F.R. 53880; Ex. Ord. No. 13316, §5, Sept. 17, 2003, 68 F.R. 55256; Ex. Ord. No. 13596, §1, Dec. 19, 2011, 76 F.R. 80725, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, and in order to expand the membership of the President's Export Council, in accord with the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, and in order to expand the membership of the President's Export Council, in accord with the provisions of the Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], it is hereby ordered as follows:
 
 #### 1–1.
 
@@ -128,7 +128,7 @@ Administrative Provisions
 
 General Provisions
 
-1–401. Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act (5 U.S.C. App.), except that of reporting annually to the Congress,which are applicable to the Council, shall be performed by the Secretary of Commerce in accordance with guidelines and procedures established by the Administrator of General Services.
+1–401. Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], except that of reporting annually to the Congress, which are applicable to the Council, shall be performed by the Secretary of Commerce in accordance with guidelines and procedures established by the Administrator of General Services.
 
 1–402. Executive Order No. 11753 is revoked; however, nothing in this Order shall be deemed to require new charters for the Council, including its executive and subordinate committees, which were current immediately prior to the issuance of this Order.
 
@@ -138,7 +138,7 @@ General Provisions
 
 #### Extension of Term of President's Export Council
 
-Term of President's Export Council extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Export Council extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Export Council were contained in the following prior Executive Orders:
 

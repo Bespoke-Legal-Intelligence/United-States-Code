@@ -328,7 +328,7 @@ Not later than February 1 of each year, the Director shall submit to Congress as
 
 &emsp;(4) evaluates the contribution of demand reduction and supply reduction activities as defined in section 1701 of this title implemented by each National Drug Control Program agency in support of the National Drug Control Strategy;
 
-&emsp;(5) monitors consistency between the drug-related goals and objectives of the National Drug Control Program agencies and ensures that each agency's goals and budgets support and are fully consistent with the National Drug Control Strategy; and
+&emsp;(5) monitors consistency between the drug-related goals and objectives of the National Drug Control Program agencies and ensures that each agency's goals and budgets support and are fully consistent with the National Drug Control Strategy;
 
 &emsp;(6) coordinates the development and implementation of national drug control data collection and reporting systems to support policy formulation and performance measurement, including an assessment of—
 
@@ -338,13 +338,15 @@ Not later than February 1 of each year, the Director shall submit to Congress as
 
 &emsp;&emsp;(C) the adequacy of the coverage of existing national treatment outcome monitoring systems to measure the effectiveness of drug abuse treatment in reducing illicit drug use and criminal behavior during and after the completion of substance abuse treatment; and
 
-&emsp;&emsp;(D) the actions the Director shall take to correct any deficiencies and limitations identified pursuant to subparagraphs (A) and (B) of this subsection.
+&emsp;&emsp;(D) the actions the Director shall take to correct any deficiencies and limitations identified pursuant to subparagraphs (A) and (B) of this subsection; and
+
+&emsp;(7) develops performance measures and targets for the National Drug Control Strategy for supplemental strategies (the Southwest Border, Northern Border, and Caribbean Border Counternarcotics Strategies) to effectively evaluate region-specific goals, to the extent the performance measurement system does not adequately measure the effectiveness of the strategies, as determined by the Director, such strategies may evaluate interdiction efforts at and between ports of entry, interdiction technology, intelligence sharing, diplomacy, and other appropriate metrics, specific to each supplemental strategies region, as determined by the Director.
 
 #### (i) Modifications
 
 A description of any modifications made during the preceding year to the national drug performance measurement system described in subsection (c) <sup>4</sup> shall be included in each report submitted under subsection (b).<sup>5</sup>
 
-(Pub. L. 105–277, div. C, title VII, §§706, 715, Oct. 21, 1998, 112 Stat. 2681–681, 2681–693; Pub. L. 109–469, title II, §§201, 202, title VI, §602, Dec. 29, 2006, 120 Stat. 3513, 3517, 3533; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8221(a), Oct. 24, 2018, 132 Stat. 4110, 4134; Pub. L. 116–74, §2(a)(1), (2), (c)(1)(B), (d), Nov. 27, 2019, 133 Stat. 1155, 1158.)
+(Pub. L. 105–277, div. C, title VII, §§706, 715, Oct. 21, 1998, 112 Stat. 2681–681, 2681–693; Pub. L. 109–469, title II, §§201, 202, title VI, §602, Dec. 29, 2006, 120 Stat. 3513, 3517, 3533; Pub. L. 115–271, title VIII, §§8202(a), (b)(2), 8221(a), Oct. 24, 2018, 132 Stat. 4110, 4134; Pub. L. 116–74, §2(a)(1), (2), (c)(1)(B), (d), Nov. 27, 2019, 133 Stat. 1155, 1158; Pub. L. 117–263, div. E, title LIII, §5302, Dec. 23, 2022, 136 Stat. 3249.)
 
 #### <b>Editorial Notes</b>
 
@@ -355,6 +357,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(A)(i)(IV
 This chapter, referred to in subsec. (g)(2), (3)(B), was in the original "this title", meaning title VII of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h)(7). Pub. L. 117–263 added par. (7).
 
 <b>2019</b>—Pub. L. 116–74, §2(c)(1)(B), amended directory language of Pub. L. 115–271, §8221(a). See 2018 Amendment note below.
 
@@ -398,7 +402,7 @@ Amendment by section 2(c)(1)(B) of Pub. L. 116–74 effective as if included in 
 
 #### Requirement for Southwest Border Counternarcotics Strategy
 
-Pub. L. 109–469, title XI, §1110, Dec. 29, 2006, 120 Stat. 3543, which directed the Director of National Drug Control Policy to submit to Congress every two years a Southwest Border Counternarcotics Strategy, was repealed by Pub. L. 115–271, title VIII, §8221(b)(2), Oct. 24, 2018, 132 Stat. 4142. See subsection (c)(3)(B) of this section.
+Pub. L. 109–469, title XI, §1110, Dec. 29, 2006, 120 Stat. 3543, which directed the Director of National Drug Control Policy to submit to Congress every two years aSouthwest Border Counternarcotics Strategy, was repealed by Pub. L. 115–271, title VIII, §8221(b)(2), Oct. 24, 2018, 132 Stat. 4142. See subsection (c)(3)(B) of this section.
 
 #### Requirement for Northern Border Counternarcotics Strategy
 

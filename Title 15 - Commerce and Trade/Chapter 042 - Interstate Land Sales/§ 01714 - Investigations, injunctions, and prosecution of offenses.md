@@ -2,7 +2,7 @@
 
 #### (a) Permanent or temporary injunction or restraining order; jurisdiction
 
-Whenever it shall appear to the Director that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this chapter, or of any rule or regulation prescribed pursuant thereto, he may, in his discretion, bring an action in any district court of the United States, or the United States District Court for the District of Columbia to enjoin such acts or practices, and, upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond. The Director may transmit such evidence as may be available concerning such acts or practices to the Attorney General who may, in his discretion, institute the appropriate criminal proceedings under this chapter.
+Whenever it shall appear to the Director that any person is engaged or about to engage in anyacts or practices which constitute or will constitute a violation of the provisions of this chapter, or of any rule or regulation prescribed pursuant thereto, he may, in his discretion, bring an action in any district court of the United States, or the United States District Court for the District of Columbia to enjoin such acts or practices, and, upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond. The Director may transmit such evidence as may be available concerning such acts or practices to the Attorney General who may, in his discretion, institute the appropriate criminal proceedings under this chapter.
 
 #### (b) Investigations; publication of information concerning violations
 
@@ -34,7 +34,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1970 Amendment
 
-For effective date of amendment by Pub. L. 91–452, and for amendment not to affect any immunity towhich any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+For effective date of amendment by Pub. L. 91–452, and for amendment not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date
 

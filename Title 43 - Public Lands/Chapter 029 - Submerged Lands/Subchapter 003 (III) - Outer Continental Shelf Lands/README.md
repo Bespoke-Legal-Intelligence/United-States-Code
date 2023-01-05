@@ -34,3 +34,4 @@
 - [&sect; 01356 - Documentary, registry and manning requirements](%C2%A7%2001356%20-%20Documentary%2C%20registry%20and%20manning%20requirements.md)
 - [&sect; 01356a - Coastal impact assistance program](%C2%A7%2001356a%20-%20Coastal%20impact%20assistance%20program.md)
 - [&sect; 01356b - Transboundary hydrocarbon agreements](%C2%A7%2001356b%20-%20Transboundary%20hydrocarbon%20agreements.md)
+- [&sect; 01356c - Wind lease sales for areas of the outer Continental Shelf offshore of territories of the United States](%C2%A7%2001356c%20-%20Wind%20lease%20sales%20for%20areas%20of%20the%20outer%20Continental%20Shelf%20offshore%20of%20territories%20of%20the%20United%20States.md)

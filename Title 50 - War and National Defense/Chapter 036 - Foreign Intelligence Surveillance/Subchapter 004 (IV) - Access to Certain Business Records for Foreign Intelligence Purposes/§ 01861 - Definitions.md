@@ -72,7 +72,7 @@ Subsec. (g)(1). Pub. L. 114–23, §104(a)(3), substituted "The" for "Not later 
 
 Subsec. (g)(3). Pub. L. 114–23, §104(a)(2), added par. (3).
 
-Subsec. (i). Pub. L. 114–23, §102(a), which directed adding subsec. (i) at the end of this section, effective afterthe addition of subsecs. (j) and (k), was executed by adding subsec. (i) after subsec. (h) to reflect the probable intent of Congress.
+Subsec. (i). Pub. L. 114–23, §102(a), which directed adding subsec. (i) at the end of this section, effective after the addition of subsecs. (j) and (k), was executed by adding subsec. (i) after subsec. (h) to reflect the probable intent of Congress.
 
 Subsec. (j). Pub. L. 114–23, §106, added subsec. (j).
 

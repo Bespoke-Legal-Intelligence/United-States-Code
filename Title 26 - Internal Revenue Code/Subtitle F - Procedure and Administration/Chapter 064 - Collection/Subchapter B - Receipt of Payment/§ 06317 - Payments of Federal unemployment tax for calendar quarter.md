@@ -16,7 +16,7 @@ Payment of Federal unemployment tax for a calendar quarter or other period withi
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable to remuneration paid after Dec. 31, 1988, see section 7106(d) ofPub. L. 100–647, set out as a note under section 3321 of this title.
+Amendment by Pub. L. 100–647 applicable to remuneration paid after Dec. 31, 1988, see section 7106(d) of Pub. L. 100–647, set out as a note under section 3321 of this title.
 
 #### Effective Date of 1983 Amendment
 

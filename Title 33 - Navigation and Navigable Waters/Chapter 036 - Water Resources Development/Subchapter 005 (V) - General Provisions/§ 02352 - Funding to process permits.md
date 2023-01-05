@@ -20,7 +20,17 @@
 
 #### (2) Permit processing
 
-&emsp;The Secretary, after public notice, may accept and expend funds contributed by a non-Federal public entity or a public-utility company, natural gas company, or railroad carrier to expedite the evaluation of a permit of that entity, company, or carrier related to a project or activity for a public purpose under the jurisdiction of the Department of the Army.
+#### (A) In general
+
+&emsp;&emsp;The Secretary, after public notice, may accept and expend funds contributed by a non-Federal public entity or a public-utility company, natural gas company, or railroad carrier to expedite the evaluation of a permit of that entity, company, or carrier related to a project or activity for a public purpose under the jurisdiction of the Department of the Army.
+
+#### (B) Mitigation bank instrument processing
+
+&emsp;&emsp;An activity carried out by the Secretary to expedite evaluation of a permit described in subparagraph (A) may include the evaluation of an instrument for a mitigation bank if—
+
+&emsp;&emsp;&emsp;(i) the non-Federal public entity, public-utility company, natural gas company, or railroad carrier applying for the permit described in that subparagraph is the sponsor of the mitigation bank; and
+
+&emsp;&emsp;&emsp;(ii) expediting evaluation of the instrument is necessary to expedite evaluation of the permit described in that subparagraph.
 
 #### (3) Effect on other entities
 
@@ -90,7 +100,7 @@ None of the funds accepted under this section shall be used to carry out a revie
 
 &emsp;&emsp;(B) make each report received under subparagraph (A) available on a single publicly accessible Internet site.
 
-(Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594; Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, §1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, §1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, §2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, §1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, §1, Dec. 18, 2010, 124 Stat. 3450; Pub. L. 113–121, title I, §1006, June 10, 2014, 128 Stat. 1212; Pub. L. 114–322, title I, §1125, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, §1145, Oct. 23, 2018, 132 Stat. 3785.)
+(Pub. L. 106–541, title II, §214, Dec. 11, 2000, 114 Stat. 2594; Pub. L. 108–137, title I, §114, Dec. 1, 2003, 117 Stat. 1836; Pub. L. 109–99, §1, Nov. 11, 2005, 119 Stat. 2169; Pub. L. 109–209, §1, Mar. 24, 2006, 120 Stat. 318; Pub. L. 109–434, §1, Dec. 20, 2006, 120 Stat. 3197; Pub. L. 110–114, title II, §2002, Nov. 8, 2007, 121 Stat. 1067; Pub. L. 111–120, §1, Dec. 22, 2009, 123 Stat. 3478; Pub. L. 111–315, §1, Dec. 18, 2010, 124 Stat. 3450; Pub. L. 113–121, title I, §1006, June 10, 2014, 128 Stat. 1212; Pub. L. 114–322, title I, §1125, Dec. 16, 2016, 130 Stat. 1648; Pub. L. 115–270, title I, §1145, Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–263, div. H, title LXXXI, §8135, Dec. 23, 2022, 136 Stat. 3722.)
 
 #### <b>Editorial Notes</b>
 
@@ -101,6 +111,8 @@ Section was enacted as part of the Water Resources Development Act of 2000, and 
 Section was formerly classified as a note under section 2201 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–263 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 <b>2018</b>—Subsec. (a)(3). Pub. L. 115–270, §1145(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "The authority provided under paragraph (2) to a public-utility company, natural gas company, or railroad carrier shall expire on the date that is 10 years after June 10, 2014."
 
@@ -128,7 +140,7 @@ Public Availability.—The Secretary shall ensure that all final permit decision
 
 Duration of Authority.—The authority provided under this section shall be in effect from October 1, 2000, through December 31, 2016."
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–315, §1(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary, after public notice, may accept and expend funds contributed by non-Federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army."
+<b>2010</b>—Subsec. (a). Pub. L. 111–315, §1(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary, after public notice, may accept and expend funds contributed bynon-Federal public entities to expedite the evaluation of permits under the jurisdiction of the Department of the Army."
 
 Subsec. (b). Pub. L. 111–315, §1(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "In carrying out this section, the Secretary shall ensure that the use of funds accepted under subsection (a) will not impact impartial decisionmaking with respect to permits, either substantively or procedurally."
 

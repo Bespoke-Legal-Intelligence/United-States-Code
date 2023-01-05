@@ -74,7 +74,7 @@ In subsection (c), the words "A member" are substituted for "such person". The w
 
 In subsection (d), the words "A member . . . he . . . in a missing status" are substituted for "Persons", "such persons", and the enumerated absent stata to conform to the definitions in 37 U.S.C. 101(23) and revised section 551(2) of this chapter.
 
-In subsection (e), the words "A member in a missing status" are substituted for "a person missing under the conditions specified in section 2 of this Act" to conformto the definition in revised section 551(2) of this chapter. The words "under subsection (a) of this section" are substituted for "as provided in section 2 of this Act".
+In subsection (e), the words "A member in a missing status" are substituted for "a person missing under the conditions specified in section 2 of this Act" to conform to the definition in revised section 551(2) of this chapter. The words "under subsection (a) of this section" are substituted for "as provided in section 2 of this Act".
 
 #### <b>Editorial Notes</b>
 

@@ -10,7 +10,7 @@ Section 457, act July 2, 1948, ch. 811, §8, 62 Stat. 1227, related to transport
 
 Section 458, act July 2, 1948, ch. 811, §9, 62 Stat. 1227, related to limitation on acquisition of property.
 
-Section 459, act July 2, 1948, ch. 811, §10, 62 Stat. 1227, provided for an Industrial Reserve Review Committee, its composition, appointment, tenure, and compensation and related to inapplicability of certain laws to Committee solely by reason of appointment to and membership on such Committee.
+Section 459, act July 2, 1948, ch. 811, §10, 62 Stat. 1227, provided for an Industrial Reserve Review Committee,its composition, appointment, tenure, and compensation and related to inapplicability of certain laws to Committee solely by reason of appointment to and membership on such Committee.
 
 Section 460, act July 2, 1948, ch. 811, §11, 62 Stat. 1228, related to duties of Industrial Reserve Review Committee, including making of recommendations to Secretary of Defense.
 

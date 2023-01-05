@@ -10,7 +10,7 @@ Representatives of Agency on Committee.—The person or persons representing the
 
 (c)
 
-Selecting Facilitator.—Notwithstanding section 10(e) of the Federal Advisory Committee Act, an agency may nominate either a person from the Federal Government or a person from outside the Federal Government to serve as a facilitator for the negotiations of the committee, subject to the approval of the committee by consensus. If the committee does not approve the nominee of the agency for facilitator, the agency shall submit a substitute nomination. If a committee does not approve any nominee of the agency for facilitator, the committee shall select by consensus a person to serve as facilitator. A person designated to represent the agency in substantive issues may not serve as facilitator or otherwise chair the committee.
+Selecting Facilitator.—Notwithstanding section 1009(e) of this title, an agency may nominate either a person from the Federal Government or a person from outside the Federal Government to serve as a facilitator for the negotiations of the committee, subject to the approval of the committee by consensus. If the committee does not approve the nominee of the agency for facilitator, the agency shall submit a substitute nomination. If a committee does not approve any nominee of the agency for facilitator, the committee shall select by consensus a person to serve as facilitator. A person designated to represent the agency in substantive issues may not serve as facilitator or otherwise chair the committee.
 
 (d)
 
@@ -20,7 +20,7 @@ Duties of Facilitator.—A facilitator approved or selected by a negotiated rule
 
 &emsp;(2) impartially assist the members of the committee in conducting discussions and negotiations; and
 
-&emsp;(3) manage the keeping of minutes and records as required under section 10(b) and (c) of the Federal Advisory Committee Act, except that any personal notes and materials of the facilitator or of the members of a committee shall not be subject to section 552 of this title.
+&emsp;(3) manage the keeping of minutes and records as required under section 1009(b) and (c) of this title, except that any personal notes and materials of the facilitator or of the members of a committee shall not be subject to section 552 of this title.
 
 (e)
 
@@ -32,17 +32,19 @@ Report of Committee.—If a committee reaches a consensus on a proposed rule, at
 
 (g)
 
-Records of Committee.—In addition to the report required by subsection (f), a committee shall submit to the agency the records required under section 10(b) and (c) of the Federal Advisory Committee Act.
+Records of Committee.—In addition to the report required by subsection (f), a committee shall submit to the agency the records required under section 1009(b) and (c) of this title.
 
-(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4973, §586; renumbered §566, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4973, §586; renumbered §566, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 117–286, §4(a)(8), Dec. 27, 2022, 136 Stat. 4305.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 10 of the Federal Advisory Committee Act, referred to in subsecs. (c), (d)(3), and (g), is section 10 of Pub. L. 92–463, which is set out in the Appendix to this title.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–286, §4(a)(8)(A), substituted "section 1009(e) of this title," for "section 10(e) of the Federal Advisory Committee Act,".
+
+Subsec. (d)(3). Pub. L. 117–286, §4(a)(8)(B), substituted "section 1009(b) and (c) of this title," for "section 10(b) and (c) of the Federal Advisory Committee Act,".
+
+Subsec. (g). Pub. L. 117–286, §4(a)(8)(C), substituted "section 1009(b) and (c) of this title." for "section 10(b) and (c) of the Federal Advisory Committee Act."
 
 <b>1992</b>—Pub. L. 102–354 renumbered section 586 of this title as this section.
 

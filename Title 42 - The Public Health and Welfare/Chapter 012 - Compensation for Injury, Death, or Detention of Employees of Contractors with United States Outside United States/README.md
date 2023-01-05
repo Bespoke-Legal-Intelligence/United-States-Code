@@ -23,7 +23,7 @@
 | [1714\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001714%20-%20Legal%20services.md) | Legal services. |
 | [1715\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001715%20-%20Finality%20of%20Secretary%27s%20decisions.md) | Finality of Secretary's decisions. |
 | [1716\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001716%20-%20Presumption%20of%20death%20or%20detention.md) | Presumption of death or detention. |
-| [1717\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001717%20-%20Assignment%20of%20benefits%3B%20execution%2C%20levy%2C%20etc.%2C%20against%20benefits.md) | Assignment of benefits; execution, levy, etc., against benefits.<br> |
+| [1717\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2001717%20-%20Assignment%20of%20benefits%3B%20execution%2C%20levy%2C%20etc.%2C%20against%20benefits.md) | Assignment of benefits; execution, levy, etc., against benefits. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

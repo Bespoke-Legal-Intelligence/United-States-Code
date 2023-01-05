@@ -108,7 +108,7 @@
 
 #### (D) Payments to others
 
-&emsp;&emsp;The Secretary shall make a payment, in accordance with regulations prescribed by the Secretary, in a manner as the Secretarydetermines is fair and reasonable under the circumstances, if an owner who is entitled to a payment under this section—
+&emsp;&emsp;The Secretary shall make a payment, in accordance with regulations prescribed by the Secretary, in a manner as the Secretary determines is fair and reasonable under the circumstances, if an owner who is entitled to a payment under this section—
 
 &emsp;&emsp;&emsp;(i) dies;
 
@@ -200,7 +200,7 @@
 
 #### (B) Payments
 
-&emsp;&emsp;Except as provided in subparagraphs (E) and (F)(ii)(II), the annual rental rate for apayment under a contract described in paragraph (2) shall be equal to 50 percent of the average rental rate for the applicable county under section 3834(d) of this title, as determined by the Secretary.
+&emsp;&emsp;Except as provided in subparagraphs (E) and (F)(ii)(II), the annual rental rate for a payment under a contract described in paragraph (2) shall be equal to 50 percent of the average rental rate for the applicable county under section 3834(d) of this title, as determined by the Secretary.
 
 #### (C) Limitation on enrolled land
 

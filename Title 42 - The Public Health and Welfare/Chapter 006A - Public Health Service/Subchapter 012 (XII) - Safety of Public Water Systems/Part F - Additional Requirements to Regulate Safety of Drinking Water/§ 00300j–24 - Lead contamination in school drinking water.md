@@ -40,7 +40,7 @@ Each State shall provide for the dissemination to local educational agencies, pr
 
 &emsp;&emsp;&emsp;(i) States to assist local educational agencies, public water systems that serve schools and child care programs under the jurisdiction of those local educational agencies, and qualified nonprofit organizations in voluntary testing or compliance monitoring for and remediation of lead contamination in drinking water at schools and child care programs under the jurisdiction of those local educational agencies; and
 
-&emsp;&emsp;&emsp;(ii) tribal consortia to assist tribal education agencies (as defined in section 5502 of title 20), public water systems that serve schools and child care programs under the jurisdiction of those tribal education agencies, and qualified nonprofit organizations in voluntary testing or compliance monitoring for and remediation of lead contamination in drinking water at schools and child care programs under the jurisdiction of those tribal education agencies.
+&emsp;&emsp;&emsp;(ii) tribal consortia to assist tribal education agencies (as defined in section 5502 of title 20), public water systems that serve schools and child care programs under the jurisdiction of those tribal education agencies, and qualified nonprofit organizations in voluntary testing or compliance monitoring for and remediation oflead contamination in drinking water at schools and child care programs under the jurisdiction of those tribal education agencies.
 
 #### (B) Direct grants to local educational agencies
 

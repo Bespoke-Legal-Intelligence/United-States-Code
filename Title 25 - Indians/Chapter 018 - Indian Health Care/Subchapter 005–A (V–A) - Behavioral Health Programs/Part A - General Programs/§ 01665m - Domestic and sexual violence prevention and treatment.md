@@ -58,5 +58,5 @@ Section 714 of Pub. L. 94–437 is based on section 181 of title I of S. 1790, O
 
 #### Prior Provisions
 
-A prior section 1665m, Pub. L. 94–437, title VII, §714, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992,106 Stat. 4581, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to the general amendment of this subchapter by Pub. L. 111–148.
+A prior section 1665m, Pub. L. 94–437, title VII, §714, as added Pub. L. 102–573, title VII, §702(a), Oct. 29, 1992, 106 Stat. 4581, authorized appropriations through fiscal year 2000 to carry out this subchapter, prior to the general amendment of this subchapter by Pub. L. 111–148.
 

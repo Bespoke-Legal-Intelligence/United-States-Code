@@ -22,7 +22,7 @@ For purposes of this subtitle—
 
 #### (A) In general
 
-&emsp;&emsp;The amount which would (but for this paragraph) be includible in the gross income of any individual by reason of paragraph (1) shall be reduced (but not below zero) by $600,000.
+&emsp;&emsp;The amount which would (but for this paragraph) be includible in the gross income of any individual by reason of paragraph (1)shall be reduced (but not below zero) by $600,000.
 
 #### (B) Adjustment for inflation
 
@@ -68,7 +68,7 @@ For purposes of this subtitle—
 
 #### (5) Waiver of certain rights
 
-&emsp;No election may be made under paragraph (1) unless the taxpayer makes an irrevocablewaiver of any right under any treaty of the United States which would preclude assessment or collection of any tax imposed by reason of this section.
+&emsp;No election may be made under paragraph (1) unless the taxpayer makes an irrevocable waiver of any right under any treaty of the United States which would preclude assessment or collection of any tax imposed by reason of this section.
 
 #### (6) Elections
 
@@ -198,7 +198,7 @@ Subsection (a) shall not apply to—
 
 &emsp;&emsp;(A) rules similar to the rules of subsection (d)(6) shall apply, and
 
-&emsp;&emsp;(B) the covered expatriate shall be treated as having waived any right to claim any reduction under any treaty with the United States in withholding on any distribution to which paragraph (1)(A) applies unless the covered expatriate agrees to such other treatment as the Secretary determines appropriate.
+&emsp;&emsp;(B) the covered expatriate shall be treated as having waived any right to claim any reduction under any treaty with the United States in withholding on any distribution to which paragraph (1)(A) applies unless the covered expatriate agrees to such othertreatment as the Secretary determines appropriate.
 
 #### (5) Application
 
@@ -254,7 +254,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the date the individual renounces his United States nationality before a diplomatic or consular officer of the United States pursuant to paragraph (5) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(5)),
 
-&emsp;&emsp;(B) the date the individual furnishes to the United States Department of State a signedstatement of voluntary relinquishment of United States nationality confirming the performance of an act of expatriation specified in paragraph (1), (2), (3), or (4) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(1)–(4)),
+&emsp;&emsp;(B) the date the individual furnishes to the United States Department of State a signed statement of voluntary relinquishment of United States nationality confirming the performance of an act of expatriation specified in paragraph (1), (2), (3), or (4) of section 349(a) of the Immigration and Nationality Act (8 U.S.C. 1481(a)(1)–(4)),
 
 &emsp;&emsp;(C) the date the United States Department of State issues to the individual a certificate of loss of nationality, or
 
@@ -282,7 +282,7 @@ For purposes of this section—
 
 #### (2) Step-up in basis
 
-&emsp;Solely for purposes of determining any tax imposed by reason of subsection (a), property which was held by an individual on the date the individual first became a resident of the United States (within the meaning of section 7701(b)) shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply. Such an election, once made, shall be irrevocable.
+&emsp;Solely for purposes of determining any tax imposed by reason of subsection (a), property which was held by an individual on the date the individual first became a resident of the United States (within the meaning of section 7701(b)) shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply.Such an election, once made, shall be irrevocable.
 
 #### (3) Coordination with section 684
 

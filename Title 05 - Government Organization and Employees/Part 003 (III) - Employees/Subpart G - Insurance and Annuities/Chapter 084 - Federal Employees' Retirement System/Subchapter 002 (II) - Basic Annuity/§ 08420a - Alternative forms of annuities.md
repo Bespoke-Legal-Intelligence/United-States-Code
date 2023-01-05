@@ -26,7 +26,7 @@
 
 &emsp;(1) is married, shall be ineligible to make an election under this section unless a waiver is made under section 8416(a); or
 
-&emsp;(2) has a former spouse, shall be ineligible to make an election under this section if the former spouse is entitled to benefits under section 8445 or 8467 (based on the service of the employee or Member) under the terms of a decree of divorce or annulment, or a court order or court-approved property settlement incident to any such decree, with respect to which the Office has been duly notified.
+&emsp;(2) has a former spouse, shall be ineligible to make an election under this section if theformer spouse is entitled to benefits under section 8445 or 8467 (based on the service of the employee or Member) under the terms of a decree of divorce or annulment, or a court order or court-approved property settlement incident to any such decree, with respect to which the Office has been duly notified.
 
 (e) An employee or Member who is married at the time of retiring under this subchapter and who makes an election under this section may, during the 18-month period beginning on the date of retirement, make the election provided for under section 8416(d), subject to the deposit requirement thereunder.
 
@@ -54,5 +54,5 @@ For provisions relating to application of subsec. (f) of this section to certain
 
 #### Partial Deferred Payment of Lump-Sum Credit for Certain Individuals Electing Alternative Forms of Annuities
 
-For provisions relating to deferred payment of lump-sum credit for certain individuals electing alternativeforms of annuities, see notes set out under section 8343a of this title.
+For provisions relating to deferred payment of lump-sum credit for certain individuals electing alternative forms of annuities, see notes set out under section 8343a of this title.
 

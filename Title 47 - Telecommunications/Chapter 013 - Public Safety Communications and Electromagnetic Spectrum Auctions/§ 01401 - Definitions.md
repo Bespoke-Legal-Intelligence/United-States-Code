@@ -170,7 +170,7 @@ In this chapter:
 
 #### (32) Ultra high frequency
 
-&emsp;The term "ultra high frequency" means, with respect to a television channel, that thechannel is located in the portion of the electromagnetic spectrum between the frequencies from 470 megahertz to 698 megahertz.
+&emsp;The term "ultra high frequency" means, with respect to a television channel, that the channel is located in the portion of the electromagnetic spectrum between the frequencies from 470 megahertz to 698 megahertz.
 
 #### (33) Very high frequency
 

@@ -174,7 +174,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) reflect professional judgment as to the highest possible standards achievable by such students;
 
-&emsp;&emsp;&emsp;&emsp;(IV) are designated in the individualized education program developed under section 614(d)(3) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)(3)) for each such student as the academic achievement standards that will be used for the student; and
+&emsp;&emsp;&emsp;&emsp;(IV) are designated in the individualized education program developed under section 614(d)(3) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)(3)) for each such student as theacademic achievement standards that will be used for the student; and
 
 &emsp;&emsp;&emsp;&emsp;(V) are aligned to ensure that a student who meets the alternate academic achievement standards is on track to pursue postsecondary education or employment, consistent with the purposes of Public Law 93–112 \[29 U.S.C. 701 et seq.\], as in effect on July 22, 2014.
 
@@ -252,7 +252,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the appropriate accommodations, such as interoperability with, and ability to use, assistive technology, for children with disabilities (as defined in section 602(3) of the Individuals with Disabilities Education Act (20 U.S.C. 1401(3))), including students with the most significant cognitive disabilities, and students with a disability who are provided accommodations under an Act other than the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), necessary to measure the academic achievement of such children relative to the challenging State academic standards or alternate academic achievement standards described in paragraph (1)(E); and
 
-&emsp;&emsp;&emsp;&emsp;(III) the inclusion of English learners, who shall be assessed in a valid and reliable manner and provided appropriate accommodations on assessments administered to such students under this paragraph, including, to the extent practicable, assessments in the language and form most likely to yield accurate data on what such students know and can do in academic content areas, until such students have achieved English language proficiency, as determined under subparagraph (G);
+&emsp;&emsp;&emsp;&emsp;(III) the inclusion of English learners, who shall be assessed in a valid and reliable manner and provided appropriateaccommodations on assessments administered to such students under this paragraph, including, to the extent practicable, assessments in the language and form most likely to yield accurate data on what such students know and can do in academic content areas, until such students have achieved English language proficiency, as determined under subparagraph (G);
 
 &emsp;&emsp;&emsp;(viii) at the State's discretion—
 
@@ -306,7 +306,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) consistent with clause (ii), ensures that, for each subject, the total number of students assessed in such subject using the alternate assessments does not exceed 1 percent of the total number of all students in the State who are assessed in such subject;
 
-&emsp;&emsp;&emsp;&emsp;(II) ensures that the parents of such students are clearly informed, as part of the process for developing the individualized education program (as defined in section 614(d)(1)(A) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)(1)(A)))—
+&emsp;&emsp;&emsp;&emsp;(II) ensures that the parents of such students are clearly informed, as part ofthe process for developing the individualized education program (as defined in section 614(d)(1)(A) of the Individuals with Disabilities Education Act (20 U.S.C. 1414(d)(1)(A)))—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) that their child's academic achievement will be measured based on such alternate standards; and
 
@@ -428,7 +428,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) of its request to the State educational agency for approval to administer a locally-selected assessment; and
 
-&emsp;&emsp;&emsp;&emsp;(II) upon approval, and at the beginning of each subsequent school year during which the locally selected assessment will be administered, that the local educational agency will be administering a different assessment than the State-designed assessments under subclause (I)(bb) and subclause (II)(cc) of subparagraph (B)(v).
+&emsp;&emsp;&emsp;&emsp;(II) upon approval, and at the beginning of each subsequent school year during which the locally selected assessment will be administered, that the local educational agency will be administeringa different assessment than the State-designed assessments under subclause (I)(bb) and subclause (II)(cc) of subparagraph (B)(v).
 
 #### (I) Deferral
 
@@ -496,7 +496,7 @@
 
 #### (B) English learner subgroup
 
-&emsp;&emsp;With respect to a student previously identified as an English learner and for not more than 4 years after the student ceases to be identified as an English learner, a State may include the results of the student's assessments under paragraph (2)(B)(v)(I) within the English learner subgroup of the subgroups of students (as defined in subsection (c)(2)(D)) for the purposes of the State-determined accountability system.
+&emsp;&emsp;With respect to a student previously identified as an English learner and for not more than 4 years after the student ceases to be identified as an English learner, a State may include the results of the student's assessments under paragraph (2)(B)(v)(I) within the English learner subgroup of the subgroups of students (as defined in subsection\(c)(2)(D)) for the purposes of the State-determined accountability system.
 
 #### (c) Statewide accountability system
 
@@ -580,7 +580,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) in each of the grades 3 through 8; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the grade for which such English learners are otherwise assessed under subsection (b)(2)(B)(v)(I) during the grade 9 through grade 12 period, with such progress being measured against the results of the assessments described in subsection (b)(2)(G) taken in the previous grade.
+&emsp;&emsp;&emsp;&emsp;(II) in the grade for which such English learners are otherwise assessed undersubsection (b)(2)(B)(v)(I) during the grade 9 through grade 12 period, with such progress being measured against the results of the assessments described in subsection (b)(2)(G) taken in the previous grade.
 
 &emsp;&emsp;&emsp;(v)(I) For all public schools in the State, not less than one indicator of school quality or student success that—
 
@@ -718,7 +718,7 @@
 
 #### (v) Funding for transportation
 
-&emsp;&emsp;&emsp;A local educational agency may spend an amount equal to not more than 5 percentof its allocation under subpart 2 of this part to pay for the provision of transportation for students who transfer under this paragraph to the public schools to which the students transfer.
+&emsp;&emsp;&emsp;A local educational agency may spend an amount equal to not more than 5 percent of its allocation under subpart 2 of this part to pay for the provision of transportation for students who transfer under this paragraph to the public schools to which the students transfer.
 
 #### (2) Targeted support and improvement
 
@@ -804,7 +804,7 @@
 
 &emsp;&emsp;&emsp;(iii) be in excess of statutory authority granted to the Secretary;
 
-&emsp;&emsp;(B) as a condition of approval of the State plan, or revisions or amendments to, the State plan, or approval of a waiver request submitted under section 7861 of this title, to—
+&emsp;&emsp;(B) as a condition of approval of the State plan, or revisions or amendments to, theState plan, or approval of a waiver request submitted under section 7861 of this title, to—
 
 &emsp;&emsp;&emsp;(i) require a State to add any requirements that are inconsistent with or outside the scope of this part;
 
@@ -918,7 +918,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;(M) the State has professional standards for paraprofessionals working in a program supported with funds under this part, including qualifications that were in place on the day before December 10, 2015; and
 
-&emsp;&emsp;(N) the State educational agency will provide the information described in clauses (ii), (iii), and (vii) of subsection (h)(1)(C) to the public in an easily accessible and user-friendly manner that can be cross-tabulated by, at a minimum, each major racial and ethnic group, gender, English proficiency status, and children with or without disabilities, which—
+&emsp;&emsp;(N) the State educational agency will provide the information described in clauses (ii), (iii), and (vii) of subsection (h)(1)(C) to the public in an easily accessible and user-friendly manner that can be cross-tabulated by, at a minimum, each major racial andethnic group, gender, English proficiency status, and children with or without disabilities, which—
 
 &emsp;&emsp;&emsp;(i) may be accomplished by including such information on the annual State report card described subsection (h)(1)(C); and
 
@@ -974,7 +974,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;&emsp;(II) the long-term goals and measurements of interim progress for all students and for each of the subgroups of students, as defined in subsection (c)(2);
 
-&emsp;&emsp;&emsp;&emsp;(III) the indicators described in subsection (c)(4)(B) used to meaningfullydifferentiate all public schools in the State;
+&emsp;&emsp;&emsp;&emsp;(III) the indicators described in subsection (c)(4)(B) used to meaningfully differentiate all public schools in the State;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the State's system for meaningfully differentiating all public schools in the State, including—
 
@@ -990,7 +990,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;&emsp;(VI) the exit criteria established by the State as required under clause (i) of subsection (d)(3)(A), including the length of years established under clause (i)(II) of such subsection.
 
-&emsp;&emsp;&emsp;(ii) For all students and disaggregated by each subgroup of students described in subsection (b)(2)(B)(xi), homeless status, status as a child in foster care, and status as a student with a parent who is a member of the Armed Forces (as defined in section 101(a)(4) of title 10), information on student achievement on the academic assessments described in subsection (b)(2) at each level of achievement, as determined by the State under subsection (b)(1).
+&emsp;&emsp;&emsp;(ii) For all students and disaggregated by each subgroup of students described in subsection (b)(2)(B)(xi), homeless status, status as a child in foster care, and status as a student with a parent who is a memberof the Armed Forces (as defined in section 101(a)(4) of title 10), information on student achievement on the academic assessments described in subsection (b)(2) at each level of achievement, as determined by the State under subsection (b)(1).
 
 &emsp;&emsp;&emsp;(iii) For all students and disaggregated by each of the subgroups of students, as defined in subsection (c)(2), and for purposes of subclause (II) of this clause, homeless status and status as a child in foster care—
 
@@ -1092,7 +1092,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;Each State educational agency receiving assistance under this part shall report annually to the Secretary, and make widely available within the State—
 
-&emsp;&emsp;(A) information on the achievement of students on the academic assessments requiredby subsection (b)(2), including the disaggregated results for the subgroups of students as defined in subsection (c)(2);
+&emsp;&emsp;(A) information on the achievement of students on the academic assessments required by subsection (b)(2), including the disaggregated results for the subgroups of students as defined in subsection (c)(2);
 
 &emsp;&emsp;(B) information on the acquisition of English proficiency by English learners;
 
@@ -1118,7 +1118,7 @@ The Secretary shall transmit annually to the Committee on Education and the Work
 
 #### (1) In general
 
-&emsp;Information collected or disseminated under this section (including any information collected for or included in the reports described in subsection (h)) shall be collected and disseminated in a manner that protects the privacy of individuals consistent with section 1232g of this title (commonly known as the "Family Educational Rights and Privacy Act of 1974") and this chapter.
+&emsp;Information collected or disseminated under this section (including any information collected for or included in the reports described in subsection (h)) shall be collected and disseminated in a manner that protects the privacy of individuals consistent with section 1232g of this title (commonly known as the"Family Educational Rights and Privacy Act of 1974") and this chapter.
 
 #### (2) Sufficiency
 
@@ -1160,7 +1160,7 @@ The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1)(
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(1)(B), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(1)(B), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generallyby Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(1)(B), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(1)(B), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 

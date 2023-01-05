@@ -92,7 +92,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 &emsp;&emsp;(C) noncompliance with the applicable federally enforceable measurement, monitoring, or reporting requirement was unavoidable in the face of an emergency directly related to a Y2K failure and was necessary to prevent the disruption of critical functions or services that could result in harm to life or property;
 
-&emsp;&emsp;(D) upon identification of noncompliance the defendant invoking the defense began immediate actions to correct any violationof federally enforceable measurement, monitoring, or reporting requirements; and
+&emsp;&emsp;(D) upon identification of noncompliance the defendant invoking the defense began immediate actions to correct any violation of federally enforceable measurement, monitoring, or reporting requirements; and
 
 &emsp;&emsp;(E) the defendant submitted notice to the appropriate Federal regulatory authority of a Y2K upset within 72 hours from the time that the defendant became aware of the upset.
 

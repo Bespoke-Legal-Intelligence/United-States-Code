@@ -1,0 +1,4 @@
+### §763a–2. Repealed. Pub. L. 117–263, div. K, title CXVIII, §11808(a)(14), Dec. 23, 2022, 136 Stat. 4165
+
+Section, act June 6, 1940, ch. 257, §7, 54 Stat. 247, related to application of former sections 763 and 763a–1 of this title to persons of the Coast Guard.
+

@@ -28,7 +28,7 @@ For a procurement carried out pursuant to subsection (a), section 644(j) of titl
 
 #### Amendments
 
-<b>2021</b>—Subsec. (b). Pub. L. 117–81 added pars. (1) to (3) and struck out former pars. (1) to (3), which read as follows:
+<b>2021</b>—Subsec. (b). Pub. L. 117–81 added pars. (1) to (3) and struck out former pars. (1) to (3) which read as follows:
 
 &emsp;"(1) Section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)).
 

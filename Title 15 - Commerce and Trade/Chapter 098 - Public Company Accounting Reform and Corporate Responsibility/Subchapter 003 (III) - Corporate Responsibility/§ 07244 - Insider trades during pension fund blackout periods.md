@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except to the extent otherwise provided by rule of the Commission pursuant to paragraph\(3), it shall be unlawful for any director or executive officer of an issuer of any equity security (other than an exempted security), directly or indirectly, to purchase, sell, or otherwise acquire or transfer any equity security of the issuer (other than an exempted security) during any blackout period with respect to such equity security if such director or officer acquires such equity security in connection with his or her service or employment as a director or executive officer.
+&emsp;Except to the extent otherwise provided by rule of the Commission pursuant to paragraph (3), it shall be unlawful for any director or executive officer of an issuer of any equity security (other than an exempted security), directly or indirectly, to purchase, sell, or otherwise acquire or transfer any equity security of the issuer (other than an exempted security) during any blackout period with respect to such equity security if such director or officer acquires such equity security in connection with his or her service or employment as a director or executive officer.
 
 #### (2) Remedy
 
@@ -38,7 +38,7 @@
 
 #### (5) Individual account plan
 
-&emsp;For purposes of this subsection, the term "individual account plan" has the meaning provided in section 1002(34) of title 29, except that such term shall not include a one-participant retirement plan (within the meaning of section 1021(i)(8)(B) of title 29).
+&emsp;For purposes of this subsection, the term "individual account plan" has the meaningprovided in section 1002(34) of title 29, except that such term shall not include a one-participant retirement plan (within the meaning of section 1021(i)(8)(B) of title 29).
 
 #### (6) Notice to directors, executive officers, and the Commission
 
@@ -62,7 +62,7 @@
 
 #### (c) Effective date
 
-The provisions of this section (including the amendments made thereby) shall take effect 180days after July 30, 2002. Good faith compliance with the requirements of such provisions in advance of the issuance of applicable regulations thereunder shall be treated as compliance with such provisions.
+The provisions of this section (including the amendments made thereby) shall take effect 180 days after July 30, 2002. Good faith compliance with the requirements of such provisions in advance of the issuance of applicable regulations thereunder shall be treated as compliance with such provisions.
 
 (Pub. L. 107–204, title III, §306, July 30, 2002, 116 Stat. 779.)
 

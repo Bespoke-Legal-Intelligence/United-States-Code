@@ -8,7 +8,7 @@ The Congress makes the following findings:
 
 &emsp;(2) As a result, many United States security firms that provide local guard services abroad have been unaware that local guard contracts were available for bidding abroad and such firms have been disadvantaged as a result.
 
-&emsp;(3) Undoubtedly, United States security firms would be interested in bidding on more local guard contracts abroad if such firms knew of the opportunity to bid on such contracts.
+&emsp;(3) Undoubtedly, United States security firms would be interested in bidding on more local guard contracts abroad if such firmsknew of the opportunity to bid on such contracts.
 
 #### (b) Objective
 
@@ -88,7 +88,7 @@ With respect to local guard contracts subject to subsection (c), a prime contrac
 
 In evaluating proposals for local guard contracts under this section, the Secretary of State may award such contracts on the basis of best value as determined by a cost-technical tradeoff analysis (as described in Federal Acquisition Regulation part 15.101) and, with respect to such contracts for posts that are not high risk, high threat posts (as such term is defined in section 4803 of this title), subject to congressional notification 15-days prior to any such award.
 
-(Pub. L. 101–246, title I, §136, Feb. 16, 1990, 104 Stat. 33; Pub. L. 103–236, title I, §141, Apr. 30, 1994, 108 Stat. 401; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2210, Oct. 21, 1998, 112 Stat. 2681–811; Pub. L. 114–323, title I, §112, Dec. 16, 2016, 130 Stat. 1910.)
+(Pub. L. 101–246, title I, §136, Feb. 16, 1990, 104 Stat. 33; Pub. L. 103–236, title I, §141, Apr. 30,1994, 108 Stat. 401; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2210, Oct. 21, 1998, 112 Stat. 2681–811; Pub. L. 114–323, title I, §112, Dec. 16, 2016, 130 Stat. 1910.)
 
 #### <b>Editorial Notes</b>
 

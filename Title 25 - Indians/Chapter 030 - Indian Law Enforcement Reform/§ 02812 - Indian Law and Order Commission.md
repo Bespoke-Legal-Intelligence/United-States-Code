@@ -218,7 +218,7 @@ Not later than 3 years after the date of enactment of this Act, the Commission s
 
 #### (A) Composition
 
-&emsp;&emsp;The Tribal Advisory Committee shall consist of 2 representatives of Indian tribesfrom each region of the Bureau of Indian Affairs.
+&emsp;&emsp;The Tribal Advisory Committee shall consist of 2 representatives of Indian tribes from each region of the Bureau of Indian Affairs.
 
 #### (B) Qualifications
 
@@ -246,11 +246,11 @@ For the fiscal year after July 29, 2010, out of any unobligated amounts availabl
 
 The Commission shall terminate 90 days after the date on which the Commission submits the report of the Commission under subsection (f).
 
-#### (m) Nonapplicability of FACA
+#### (m) Nonapplicability of chapter 10 of title 5
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+Chapter 10 of title 5 shall not apply to the Commission.
 
-(Pub. L. 101–379, §15, as added Pub. L. 111–211, title II, §235, July 29, 2010, 124 Stat. 2282; amended Pub. L. 113–4, title IX, §909(a), Mar. 7, 2013, 127 Stat. 126.)
+(Pub. L. 101–379, §15, as added Pub. L. 111–211, title II, §235, July 29, 2010, 124 Stat. 2282; amended Pub. L. 113–4, title IX, §909(a), Mar. 7, 2013, 127 Stat. 126; Pub. L. 117–286, §4(a)(183), Dec. 27, 2022, 136 Stat. 4326.)
 
 #### <b>Editorial Notes</b>
 
@@ -262,9 +262,9 @@ The Indian Civil Rights Act of 1968, referred to in subsec. (d)(4), is title II 
 
 The Tribal Law and Order Act of 2010, referred to in subsec. (d)(5), is title II of Pub. L. 111–211, July 29, 2010, 124 Stat. 2261. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 2801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (m), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (m). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2013</b>—Subsec. (f). Pub. L. 113–4 substituted "3 years" for "2 years" in introductory provisions.
 

@@ -26,7 +26,7 @@ This section shall not be operative when the United States is at war.
 
 #### References in Text
 
-Section 452(i) of this title, referred to in subsec. (a), was repealed by act Aug. 26, 1954, ch. 937, title V,§542(a)(12), 68 Stat. 861. See former section 1934(a) and section 2778(a) of this title.
+Section 452(i) of this title, referred to in subsec. (a), was repealed by act Aug. 26, 1954, ch. 937, title V, §542(a)(12), 68 Stat. 861. See former section 1934(a) and section 2778(a) of this title.
 
 #### Amendments
 

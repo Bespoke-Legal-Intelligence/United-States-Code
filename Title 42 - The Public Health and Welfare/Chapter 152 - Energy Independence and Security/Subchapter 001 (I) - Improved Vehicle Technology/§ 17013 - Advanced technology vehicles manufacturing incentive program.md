@@ -86,7 +86,7 @@ An award under subsection (b) shall apply to—
 
 #### (1) In general
 
-&emsp;Not later than 1 year after December 19, 2007, and subject to the availability of appropriated funds, the Secretary shall carry out a program to provide a total of not more than $25,000,000,000 in loans to eligible individuals and entities (as determined by the Secretary) for the costs of activities described in subsection (b). The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.
+&emsp;Not later than 1 year after December 19, 2007, and subject to the availability of appropriated funds, the Secretary shall carry out a program to provide loans to eligible individuals and entities (as determined by the Secretary) for the costs of activities described in subsection (b). The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.
 
 #### (2) Application
 
@@ -182,7 +182,7 @@ The Secretary shall, in making awards or loans to those manufacturers that have 
 
 #### (i) Appointment and pay of personnel
 
-(1) The Secretary may use direct hiring authority pursuant to section 3304(a)(3) of title 5 to appoint such professional and administrative personnel as the Secretary deems necessary to the discharge of the Secretary's functions under this section.
+(1) The Secretary may use direct hiring authority pursuant to section 3304(a)(3) of title 5 to appoint such professional and administrativepersonnel as the Secretary deems necessary to the discharge of the Secretary's functions under this section.
 
 (2) The rate of pay for a person appointed pursuant to paragraph (1) shall not exceed the maximum rate payable for GS-15 of the General Schedule under chapter 53 such <sup>3</sup> title 5.
 
@@ -200,9 +200,7 @@ In carrying out this section, the Secretary shall—
 
 &emsp;(2) conduct outreach, including through conferences and online programs, to disseminate information on awards and loans under this section to potential applicants.
 
-#### (l) Prohibition on use of appropriated funds
-
-Amounts appropriated to the Secretary before November 15, 2021, shall not be available to the Secretary to provide awards under subsection (b) or loans under subsection (d) for the costs of activities that were not eligible for those awards or loans on the day before that date.
+#### (l) Repealed. Pub. L. 117–328, div. D, title III, §308, Dec. 29, 2022, 136 Stat. 4645
 
 #### (m) Report
 
@@ -222,7 +220,7 @@ Not later than 2 years after November 15, 2021, and every 3 years thereafter, th
 
 &emsp;(7) any other metrics the Secretary determines appropriate.
 
-(Pub. L. 110–140, title I, §136, Dec. 19, 2007, 121 Stat. 1514; Pub. L. 110–329, div. A, §129(c), Sept. 30, 2008, 122 Stat. 3578; Pub. L. 111–85, title III, §312(a), Oct. 28, 2009, 123 Stat. 2874; Pub. L. 117–58, div. D, title IV, §40401(b), Nov. 15, 2021, 135 Stat. 1034.)
+(Pub. L. 110–140, title I, §136, Dec. 19, 2007, 121 Stat. 1514; Pub. L. 110–329, div. A, §129(c), Sept. 30, 2008, 122 Stat. 3578; Pub. L. 111–85, title III, §312(a), Oct. 28, 2009, 123 Stat. 2874; Pub. L. 117–58, div. D, title IV, §40401(b), Nov. 15, 2021, 135 Stat. 1034; Pub. L. 117–169, title V, §50142(c), Aug. 16, 2022, 136 Stat. 2044; Pub. L. 117–328, div. D, title III, §308, Dec. 29, 2022, 136 Stat. 4645.)
 
 #### <b>Editorial Notes</b>
 
@@ -237,6 +235,10 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d)(2)(B), is se
 In subsec. (i)(3), "section 1901 of title 41" substituted for "section 31 of the Office of Federal Procurement Policy Act (41 U.S.C. 427)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(1). Pub. L. 117–169 struck out "a total of not more than $25,000,000,000 in" after "to provide".
+
+Subsec. (l). Pub. L. 117–328 struck out subsec. (l). Text read as follows: "Amounts appropriated to the Secretary before November 15, 2021, shall not be available to the Secretary to provide awards under subsection (b) or loans under subsection (d) for the costs of activities that were not eligible for those awards or loans on the day before that date."
 
 <b>2021</b>—Subsec. (a)(1). Pub. L. 117–58, §40401(b)(1), substituted "means—" for "means", inserted subpar. (A) designation before "an ultra", redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), respectively, and added subpars. (B) to (F).
 
@@ -274,7 +276,7 @@ Subsec. (g). Pub. L. 111–85, §312(a)(3), inserted "or are utilized primarily 
 
 Subsec. (h)(1)(B). Pub. L. 111–85, §312(a)(4), substituted "ultra efficient vehicles, automobiles," for "automobiles".
 
-<b>2008</b>—Subsec. (d)(1). Pub. L. 110–329, §129(c)(1), inserted at end "The loans shall be made through theFederal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds."
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–329, §129(c)(1), inserted at end "The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds."
 
 Subsec. (e). Pub. L. 110–329, §129(c)(2), substituted "Not later than 60 days after September 30, 2008, the Secretary shall promulgate an interim final rule establishing regulations that the Secretary deems necessary to administer this section and any loans made by the Secretary pursuant to this section. Such interim final rule shall require that," for "The Secretary shall issue regulations that require that,".
 

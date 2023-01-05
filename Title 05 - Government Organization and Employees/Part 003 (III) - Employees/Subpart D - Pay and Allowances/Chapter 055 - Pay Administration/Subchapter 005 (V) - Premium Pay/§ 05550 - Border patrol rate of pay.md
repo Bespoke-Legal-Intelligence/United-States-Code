@@ -178,7 +178,7 @@ Level 2 border patrol rate of pay.—For a border patrol agent who is assigned t
 
 &emsp;&emsp;(F) if the border patrol agent is absent during scheduled overtime described in subparagraph (A)(ii)—
 
-&emsp;&emsp;&emsp;(i) the border patrol agent shall accrue an obligation to perform other overtimework for each hour (or part thereof) the border patrol agent is absent; and
+&emsp;&emsp;&emsp;(i) the border patrol agent shall accrue an obligation to perform other overtime work for each hour (or part thereof) the border patrol agent is absent; and
 
 &emsp;&emsp;&emsp;(ii) any overtime work applied toward the obligation under clause (i) shall not be credited as overtime work under any other provision of law; and
 
@@ -278,7 +278,7 @@ Insufficient hours.—If a border patrol agent has a remaining hours obligation 
 
 (g)
 
-Authority To Require Overtime Work.—Nothing in this section shall be construed to limit the authority of U.S. Customs and BorderProtection to require a border patrol agent to perform hours of overtime work in accordance with the needs of U.S. Customs and Border Protection, including if needed in the event of a local or national emergency.
+Authority To Require Overtime Work.—Nothing in this section shall be construed to limit the authority of U.S. Customs and Border Protection to require a border patrol agent to perform hours of overtime work in accordance with the needs of U.S. Customs and Border Protection, including if needed in the event of a local or national emergency.
 
 (Pub. L. 113–277, §2(b), Dec. 18, 2014, 128 Stat. 2995.)
 
@@ -288,7 +288,7 @@ Authority To Require Overtime Work.—Nothing in this section shall be construed
 
 The date of enactment of this section, referred to in subsec. (b)(1)(A), (C), is the date of enactment of Pub. L. 113–277, which was approved Dec. 18, 2014.
 
-Section 2(e) of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec. (b)(1)(D)(iv), (E)(ii), is section 2(e) of Pub. L. 113–277, Dec. 18, 2014, 128 Stat. 3003, which related to comprehensive staffing analysis and is not classified to the Code.
+Section 2(e) of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec. (b)(1)(D)(iv), (E)(ii), issection 2(e) of Pub. L. 113–277, Dec. 18, 2014, 128 Stat. 3003, which related to comprehensive staffing analysis and is not classified to the Code.
 
 The date of enactment of the Border Patrol Agent Pay Reform Act of 2014, referred to in subsec. (b)(1)(G)(i), is the date of enactment of Pub. L. 113–277, which was approved Dec. 18, 2014.
 

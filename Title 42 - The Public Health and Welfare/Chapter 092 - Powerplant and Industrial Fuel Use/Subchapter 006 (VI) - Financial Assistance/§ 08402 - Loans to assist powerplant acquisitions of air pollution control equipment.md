@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (e) Records
 
-(1) The Secretary shall require all persons receiving financial assistance under this section to keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance was given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) The Secretary shall require all persons receiving financial assistance under this sectionto keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance was given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (2) The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall, until the later of—
 
@@ -66,7 +66,7 @@ For purposes of this section—
 
 &emsp;(B) full repayment of interest and principal on a loan made under this section, occurs,
 
-> have access for the purposes of audit, evaluation, examination to any books, documents, papers, and records of such receipts which in the opinion of the Secretary or the ComptrollerGeneral may be related or pertinent to such loan.
+> have access for the purposes of audit, evaluation, examination to any books, documents, papers, and records of such receipts which in the opinion of the Secretary or the Comptroller General may be related or pertinent to such loan.
 
 #### (f) Default
 
@@ -92,5 +92,5 @@ There are hereby authorized to be appropriated to the Secretary such sums as may
 
 The effective date of this chapter, referred to in subsecs. (a) and (d)(1)(E), is the effective date of Pub. L. 95–620. See section 901 of Pub. L. 95–620, set out as an Effective Date note under section 8301 of this title.
 
-The Clean Air Act, referred to in subsec. (d)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (d)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 

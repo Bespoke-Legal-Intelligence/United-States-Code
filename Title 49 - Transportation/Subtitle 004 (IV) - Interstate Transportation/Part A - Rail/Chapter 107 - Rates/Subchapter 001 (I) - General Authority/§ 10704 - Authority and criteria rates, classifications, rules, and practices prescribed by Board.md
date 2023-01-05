@@ -1,6 +1,6 @@
 ### §10704. Authority and criteria: rates, classifications, rules, and practices prescribed by Board
 
-(a)(1) When the Board, after a full hearing, decides that a rate charged or collected by a rail carrier for transportation subject to the jurisdiction of the Board under this part, or that a classification, rule, or practice of that carrier, does or will violate this part, the Board may prescribe the maximum rate, classification, rule, or practice to be followed. The Board may order the carrier to stop the violation. When a rate, classification, rule, or practice is prescribed under this subsection, the affected carrier may not publish, charge, or collect a different rate and shall adopt the classification and observe the rule or practice prescribed by the Board.
+(a)(1) When the Board, after a full hearing, decides that a rate charged or collected by a rail carrier for transportation subject to the jurisdiction of the Board under this part, or that a classification, rule, or practice of that carrier, does or will violate this part, the Board may prescribe the maximum rate, classification, rule, or practice to be followed. The Board may order the carrier to stop the violation. When arate, classification, rule, or practice is prescribed under this subsection, the affected carrier may not publish, charge, or collect a different rate and shall adopt the classification and observe the rule or practice prescribed by the Board.
 
 (2) The Board shall maintain and revise as necessary standards and procedures for establishing revenue levels for rail carriers providing transportation subject to its jurisdiction under this part that are adequate, under honest, economical, and efficient management, for the infrastructure and investment needed to meet the present and future demand for rail services and to cover total operating expenses, including depreciation and obsolescence, plus a reasonable and economic profit or return (or both) on capital employed in the business. The Board shall make an adequate and continuing effort to assist those carriers in attaining revenue levels prescribed under this paragraph. Revenue levels established under this paragraph should—
 
@@ -32,7 +32,7 @@
 
 (B) The Board may extend a timeline under subparagraph (A) after a request from any party or in the interest of due process.
 
-(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 810; amended Pub. L. 104–287,§5(23), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 114–110, §§11(b), 16, Dec. 18, 2015, 129 Stat. 2233, 2238.)
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 810; amended Pub. L. 104–287, §5(23), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 114–110, §§11(b), 16, Dec. 18, 2015, 129 Stat. 2233, 2238.)
 
 #### <b>Editorial Notes</b>
 

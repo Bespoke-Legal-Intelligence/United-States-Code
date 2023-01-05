@@ -100,7 +100,7 @@ The remedy for a violation of subsection (a) shall be such remedy, including a r
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(1), was in the original "this Act", meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
+This chapter, referred to in subsec. (e)(1), was in the original "this Act", meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
 #### Amendments
 
@@ -118,5 +118,5 @@ Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the
 
 #### Senate Democratic Leadership Offices Funding and Authorities
 
-Reference to the Office of the Secretary of the majority or minority conference of the Senate, as applicable,that represents the Democratic party deemed to be a reference to the Office of the Assistant Leader of the applicable conference, under certain conditions during the 117th Congress, see section 104 of div. I of Pub. L. 116–260, set out as a note under section 6154 of this title.
+Reference to the Office of the Secretary of the majority or minority conference of the Senate, as applicable, that represents the Democratic party deemed to be a reference to the Office of the Assistant Leader of the applicable conference, under certain conditions during the 117th Congress, see section 104 of div. I of Pub. L. 116–260, set out as a note under section 6154 of this title.
 

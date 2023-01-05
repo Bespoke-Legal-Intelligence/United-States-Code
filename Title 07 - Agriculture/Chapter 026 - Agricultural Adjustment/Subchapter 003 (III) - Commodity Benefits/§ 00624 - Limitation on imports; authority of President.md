@@ -6,7 +6,7 @@
 
 In any case where the Secretary of Agriculture determines and reports to the President with regard to any article or articles that a condition exists requiring emergency treatment, the President may take immediate action under this section without awaiting the recommendations of the International Trade Commission, such action to continue in effect pending the report and recommendations of the International Trade Commission and action thereon by the President.
 
-(c) The fees and limitations imposed by the President by proclamation under this section and any revocation, suspension, or modification thereof, shall become effective on such date as shall be therein specified, and such fees shall be treated for administrative purposes and for the purposes of section 612c of this title, as duties imposed by the Tariff Act of 1930 \[19 U.S.C. 1202et seq.\], but such fees shall not be considered as duties for the purpose of granting any preferential concession under any international obligation of the United States.
+(c) The fees and limitations imposed by the President by proclamation under this section and any revocation, suspension, or modification thereof, shall become effective on such date as shall be therein specified, and such fees shall be treated for administrative purposes and for the purposes of section 612c of this title, as duties imposed by the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], but such fees shall not be considered as duties for the purpose of granting any preferential concession under any international obligation of the United States.
 
 (d) After investigation, report, finding, and declaration in the manner provided in the case of a proclamation issued pursuant to subsection (b) of this section, any proclamation or provision of such proclamation may be suspended or terminated by the President whenever he finds and proclaims that the circumstances requiring the proclamation or provision thereof no longer exist or may be modified by the President whenever he finds and proclaims that changed circumstances require such modification to carry out the purposes of this section.
 
@@ -24,9 +24,9 @@ In any case where the Secretary of Agriculture determines and reports to the Pre
 
 #### References in Text
 
-The Soil Conservation and Domestic Allotment Act, as amended, referred to in subsec. (a), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+The Soil Conservation and Domestic Allotment Act, as amended, referred to in subsec. (a), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
 
-The Tariff Act of 1930, referred to in subsec. (c), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsec. (c), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 #### Codification
 
@@ -68,7 +68,7 @@ Pub. L. 103–465, title IV, §401(a)(2), Dec. 8, 1994, 108 Stat. 4957, provided
 
 #### Effective and Termination Dates of 1988 Amendment
 
-Amendment by Pub. L. 100–449 effective on the date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effecton the date the Agreement ceases to be in force, see section 501(a), (c), of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–449 effective on the date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on the date the Agreement ceases to be in force, see section 501(a), (c), of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
 
 #### Effective Date of 1948 Amendment
 
@@ -146,7 +146,7 @@ NOW, THEREFORE, I, JOHN F. KENNEDY, President of the United States of America, a
 
 IN WITNESS WHEREOF, I have hereunto set my hand and caused the Seal of the United States of America to be affixed.
 
-DONE at the City of Washington this 11th day of September in the year of our Lord nineteen hundred and sixty-one, and of the Independence of the United States of America the one hundred and eighty-sixth.
+DONE at the City of Washington this 11th day of September in the year of our Lord nineteen hundred and sixty-one, and of the Independence ofthe United States of America the one hundred and eighty-sixth.
 
 > \[
 

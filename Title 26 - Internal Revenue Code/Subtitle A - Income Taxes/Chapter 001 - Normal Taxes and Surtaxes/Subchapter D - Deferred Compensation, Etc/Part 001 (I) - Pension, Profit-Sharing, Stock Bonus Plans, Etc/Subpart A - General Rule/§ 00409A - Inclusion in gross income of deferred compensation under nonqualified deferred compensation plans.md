@@ -186,7 +186,7 @@
 
 #### (4) Income inclusion for offshore trusts and employer's financial health
 
-&emsp;For each taxable year that assets treated as transferred under this subsection remain set aside in a trust or other arrangement subjectto paragraph (1), (2), or (3), any increase in value in, or earnings with respect to, such assets shall be treated as an additional transfer of property under this subsection (to the extent not previously included in income).
+&emsp;For each taxable year that assets treated as transferred under this subsection remain set aside in a trust or other arrangement subject to paragraph (1), (2), or (3), any increase in value in, or earnings with respect to, such assets shall be treated as an additional transfer of property under this subsection (to the extent not previously included in income).
 
 #### (5) Interest on tax liability payable with respect to transferred property
 
@@ -262,7 +262,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 &emsp;(5) disregarding a substantial risk of forfeiture in cases where necessary to carry out the purposes of this section.
 
-(Added Pub. L. 108–357, title VIII, §885(a), Oct. 22, 2004, 118 Stat. 1634; amended Pub. L. 109–135, title IV, §403(hh)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 109–280, title I, §116(a), (b), Aug. 17, 2006, 120 Stat. 856, 858; Pub. L. 110–458, title I, §101(e), Dec. 23, 2008, 122 Stat. 5100; Pub. L. 115–97, title I, §13603(c)(2), Dec. 22, 2017, 131 Stat. 2164; Pub. L. 115–141, div. U, title IV, §401(a)(80), Mar. 23, 2018, 132 Stat. 1187.)
+(Added Pub. L. 108–357, title VIII, §885(a), Oct. 22, 2004, 118 Stat. 1634; amended Pub. L. 109–135, titleIV, §403(hh)(2), Dec. 21, 2005, 119 Stat. 2631; Pub. L. 109–280, title I, §116(a), (b), Aug. 17, 2006, 120 Stat. 856, 858; Pub. L. 110–458, title I, §101(e), Dec. 23, 2008, 122 Stat. 5100; Pub. L. 115–97, title I, §13603(c)(2), Dec. 22, 2017, 131 Stat. 2164; Pub. L. 115–141, div. U, title IV, §401(a)(80), Mar. 23, 2018, 132 Stat. 1187.)
 
 #### <b>Editorial Notes</b>
 
@@ -356,7 +356,7 @@ Pub. L. 108–357, title VIII, §885(e), Oct. 22, 2004, 118 Stat. 1640, provided
 
 #### Guidance Relating to Termination of Certain Existing Arrangements
 
-Pub. L. 108–357, title VIII, §885(f), Oct. 22, 2004, 118 Stat. 1641, as amended by Pub. L. 109–135, title IV, §403(hh)(4), Dec. 21, 2005, 119 Stat. 2632, provided that: "Not later than 60 days after the date of the enactment of this Act \[Oct. 22, 2004\], the Secretary of the Treasury shall issue guidance providing a limited period during which a nonqualified deferred compensation plan adopted before January 1, 2005, may, without violating the requirements of paragraphs (2), (3), and (4) of section 409A(a) of the Internal Revenue Code of 1986 (as added by this section), be amended—
+Pub. L. 108–357, title VIII, §885(f), Oct. 22, 2004, 118 Stat. 1641, as amended by Pub. L. 109–135, title IV, §403(hh)(4), Dec. 21, 2005, 119 Stat. 2632, provided that: "Not later than 60 days after the date of the enactment of this Act \[Oct. 22, 2004\], the Secretary of the Treasury shall issue guidance providing a limited period during which a nonqualified deferred compensation planadopted before January 1, 2005, may, without violating the requirements of paragraphs (2), (3), and (4) of section 409A(a) of the Internal Revenue Code of 1986 (as added by this section), be amended—
 
 &emsp;"(1) to provide that a participant may terminate participation in the plan, or cancel an outstanding deferral election with regard to amounts deferred after December 31, 2004, but only if amounts subject to the termination or cancellation are includible in income of the participant as earned (or, if later, when no longer subject to substantial risk of forfeiture), and
 

@@ -2,7 +2,7 @@
 
 #### (a) Implementation of Federal cybersecurity standards
 
-Consistent with section 3553 of title 44, the Secretary, in consultation with the Director, shall exercise the authority to issue binding operational directives to assist the Director in ensuring timely agency adoption of and compliance with policies and standards promulgated under section 11331 of title 40 for securing agency information systems.
+Consistent with section 3553 of title 44, the Secretary, in consultation with the Director, shall exercise the authority to issue binding operational directives to assist the Director in ensuring timely agency adoption of and compliance with policies and standards promulgated under section 11331 of title 40 <sup>1</sup> for securing agency information systems.
 
 #### (b) Cybersecurity requirements at agencies
 
@@ -47,4 +47,12 @@ Consistent with section 3553 of title 44, the Secretary, in consultation with th
 The requirements under this section shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.
 
 (Pub. L. 114–113, div. N, title II, §225, Dec. 18, 2015, 129 Stat. 2967.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The text of section 11331 of title 40, referred to in subsec. (a), was generally amended by Pub. L. 117–167, div. B, title II, §10246(f), Aug. 9, 2022, 136 Stat. 1492, so as to provide for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

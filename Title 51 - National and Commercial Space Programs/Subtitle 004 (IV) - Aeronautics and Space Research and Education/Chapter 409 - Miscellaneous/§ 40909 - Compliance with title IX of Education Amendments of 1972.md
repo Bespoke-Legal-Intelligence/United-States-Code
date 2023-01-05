@@ -1,6 +1,6 @@
 ### §40909. Compliance with title IX of Education Amendments of 1972
 
-To comply with title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), the Administrator shall conduct compliance reviews of at least 2 grantees annually.
+To comply with title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.), theAdministrator shall conduct compliance reviews of at least 2 grantees annually.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3394.)
 

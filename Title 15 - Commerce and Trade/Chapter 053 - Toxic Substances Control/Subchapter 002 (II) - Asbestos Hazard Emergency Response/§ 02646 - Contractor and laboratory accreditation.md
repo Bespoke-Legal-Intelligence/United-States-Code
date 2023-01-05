@@ -112,7 +112,7 @@ A person may not—
 
 #### (f) List of EPA-approved courses
 
-Not later than August 31, 1988, and every three months thereafter until August 31, 1991, the Administrator shall publish in the Federal Register a list of all Environmental Protection Agency-approved asbestos training courses for persons to achieve accreditation in each category described in subsection (b)(1)(A) and for laboratories to achieve accreditation. The Administrator may continue publishing such a list after August 31, 1991, at such times as the Administrator considers it useful. The list shall include the name and address of each approved trainer and, to the extent available, a list of all the geographic sites where training courses will take place. The Administrator shall provide a copy of the list to each State official on the list published by the Administrator under section 2645(d)(6) of this title and to each regional office of the Environmental Protection Agency.
+Not later than August 31, 1988, and every three months thereafter until August 31, 1991, the Administrator shall publish in the Federal Register a list of all Environmental Protection Agency-approved asbestos training courses for persons to achieve accreditation in each category described in subsection (b)(1)(A) and for laboratories to achieve accreditation. The Administrator may continue publishing such a listafter August 31, 1991, at such times as the Administrator considers it useful. The list shall include the name and address of each approved trainer and, to the extent available, a list of all the geographic sites where training courses will take place. The Administrator shall provide a copy of the list to each State official on the list published by the Administrator under section 2645(d)(6) of this title and to each regional office of the Environmental Protection Agency.
 
 (Pub. L. 94–469, title II, §206, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2980; amended Pub. L. 100–368, §3, July 18, 1988, 102 Stat. 832; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–637, §15(a)(1), (2), Nov. 28, 1990, 104 Stat. 4596.)
 
@@ -120,7 +120,7 @@ Not later than August 31, 1988, and every three months thereafter until August 3
 
 #### References in Text
 
-The Defense Dependents' Education Act of 1978, referred to in subsec. (b)(2), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
+The Defense Dependents' Education Act of 1978, referred to in subsec. (b)(2), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 The Asbestos School Hazard Abatement Act of 1984, referred to in subsec. (e)(2), is title V of Pub. L. 98–377, Aug. 11, 1984, 98 Stat. 1287, as amended, which is classified generally to subchapter V (§4011 et seq.) of chapter 52 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 4011 of Title 20 and Tables.
 

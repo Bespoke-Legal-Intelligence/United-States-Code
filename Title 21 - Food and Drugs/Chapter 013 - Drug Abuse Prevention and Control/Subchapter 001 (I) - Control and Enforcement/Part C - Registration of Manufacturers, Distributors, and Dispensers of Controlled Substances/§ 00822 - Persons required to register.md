@@ -52,6 +52,8 @@ The Attorney General may, by regulation, waive the requirement for registration 
 
 (2) Notwithstanding paragraph (1), a registrant who is a veterinarian shall not be required to have a separate registration in order to transport and dispense controlled substances in the usual course of veterinary practice at a site other than the registrant's registered principal place of business or professional practice, so long as the site of transporting and dispensing is located in a State where the veterinarian is licensed to practice veterinary medicine and is not a principal place of business or professional practice.
 
+(3) Notwithstanding paragraph (1), a registrant that is dispensing pursuant to section 823(g) <sup>1</sup> of this title narcotic drugs to individuals for maintenance treatment or detoxification treatment shall not be required to have a separate registration to incorporate one or more mobile medication units into the registrant's practice to dispense such narcotics at locations other than the registrant's principal place of business or professional practice described in paragraph (1), so long as the registrant meets such standards for operation of a mobile medication unit as the Attorney General may establish.
+
 #### (f) Inspection
 
 The Attorney General is authorized to inspect the establishment of a registrant or applicant for registration in accordance with the rules and regulations promulgated by him.
@@ -80,7 +82,7 @@ The Attorney General is authorized to inspect the establishment of a registrant 
 
 &emsp;&emsp;(aa) the physician of the person receiving hospice care; and
 
-&emsp;&emsp;(bb) registered under section 823(f) of this title; and
+&emsp;&emsp;(bb) registered under section 823(g) of this title; and
 
 &emsp;(II) the hospice patient no longer requires the controlled substance because the plan of care of the hospice patient has been modified.
 
@@ -116,7 +118,7 @@ The Attorney General is authorized to inspect the establishment of a registrant 
 
 &emsp;&emsp;&emsp;(bb) the time, date, and manner in which that disposal occurred.
 
-(Pub. L. 91–513, title II, §302, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 98–473, title II, §510, Oct. 12, 1984, 98 Stat. 2072; Pub. L. 103–200, §3(b), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 111–273, §3(a), Oct. 12, 2010, 124 Stat. 2859; Pub. L. 113–143, §2, Aug. 1, 2014, 128 Stat. 1750; Pub. L. 115–271, title III, §3222(a), Oct. 24, 2018, 132 Stat. 3948; Pub. L. 117–53, §2, Nov. 10, 2021, 135 Stat. 411.)
+(Pub. L. 91–513, title II, §302, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 98–473, title II, §510, Oct. 12, 1984, 98 Stat. 2072; Pub. L. 103–200, §3(b), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 111–273, §3(a), Oct. 12, 2010, 124 Stat. 2859; Pub. L. 113–143, §2, Aug. 1, 2014, 128 Stat. 1750; Pub. L. 115–271, title III, §3222(a), Oct. 24, 2018, 132 Stat. 3948; Pub. L. 117–53, §2, Nov. 10, 2021, 135 Stat. 411; Pub. L. 117–215, title I, §103(b)(1)(B), Dec. 2, 2022, 136 Stat. 2263; Pub. L. 117–328, div. FF, title I, §1252(a), Dec. 29, 2022, 136 Stat. 5681.)
 
 #### <b>Editorial Notes</b>
 
@@ -126,7 +128,13 @@ This subchapter, referred to in subsecs. (a)(3), (b), (c), and (g)(1), was in th
 
 Section 802(25) of this title, referred to in subsec. (c)(3), was redesignated section 802(26) of this title by Pub. L. 98–473, title II, §507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated section 802(27) of this title by Pub. L. 99–570, title I, §1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
 
+Section 823(g) of this title, referred to in subsec. (e)(3), was redesignated section 823(h) of this title by Pub. L. 117–215, title I, §103(a)(1), Dec. 2, 2022, 136 Stat. 2261.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(3). Pub. L. 117–328, §1252(a), added par. (3).
+
+Subsec. (g)(5)(A)(iii)(I)(bb). Pub. L. 117–215 substituted "823(g)" for "823(f)".
 
 <b>2021</b>—Subsec. (a)(3). Pub. L. 117–53 added par. (3).
 
@@ -188,7 +196,7 @@ Pub. L. 111–273, §2, Oct. 12, 2010, 124 Stat. 2858, provided that: "Congress 
 
 &emsp;"(4)(A) Many State and local law enforcement agencies have established drug disposal programs (often called 'take-back' programs) to facilitate the collection and destruction of unused, unwanted, or expired medications. These programs help get outdated or unused medications off household shelves and out of the reach of children and teenagers.
 
-&emsp;"(B) However, take-back programs often cannot dispose of the most dangerous pharmaceutical drugs—controlled substance medications—because Federal law does not permit take-back programs to accept controlled substances unless they get specificpermission from the Drug Enforcement Administration and arrange for full-time law enforcement officers to receive the controlled substances directly from the member of the public who seeks to dispose of them.
+&emsp;"(B) However, take-back programs often cannot dispose of the most dangerous pharmaceutical drugs—controlled substance medications—because Federal law does not permit take-back programs to accept controlled substances unless they get specific permission from the Drug Enforcement Administration and arrange for full-time law enforcement officers to receive the controlled substances directly from the member of the public who seeks to dispose of them.
 
 &emsp;"(C) Individuals seeking to reduce the amount of unwanted controlled substances in their household consequently have few disposal options beyond discarding or flushing the substances, which may not be appropriate means of disposing of the substances. Drug take-back programs are also a convenient and effective means for individuals in various communities to reduce the introduction of some potentially harmful substances into the environment, particularly into water.
 

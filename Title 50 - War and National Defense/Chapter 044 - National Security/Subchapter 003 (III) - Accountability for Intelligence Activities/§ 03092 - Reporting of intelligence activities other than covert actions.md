@@ -4,7 +4,7 @@
 
 To the extent consistent with due regard for the protection from unauthorized disclosure of classified information relating to sensitive intelligence sources and methods or other exceptionally sensitive matters, the Director of National Intelligence and the heads of all departments, agencies, and other entities of the United States Government involved in intelligence activities shall—
 
-&emsp;(1) keep the congressional intelligence committees fully and currently informed of all intelligence activities, other than a covert action (as defined in section 3093(e) of this title), which are the responsibility of, are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the United States Government, including any significant anticipated intelligence activity and any significant intelligence failure; and
+&emsp;(1) keep the congressional intelligence committees fully and currently informed of all intelligence activities, other than a covert action (as defined in section 3093(e) of this title), which are the responsibility of, are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the United States Government, including any significantanticipated intelligence activity and any significant intelligence failure; and
 
 &emsp;(2) furnish the congressional intelligence committees any information or material concerning intelligence activities (including the legal basis under which the intelligence activity is being or was conducted), other than covert actions, which is within their custody or control, and which is requested by either of the congressional intelligence committees in order to carry out its authorized responsibilities.
 
@@ -58,7 +58,7 @@ Pub. L. 102–88, title IV, §405, Aug. 14, 1991, 105 Stat. 434, provided that:
 
 "(a)
 
-Furnishing of Specific Information.—In accordance with title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\], the head of any department or agency of the United States involved in any intelligence activities which may pertain to United States military personnel listed as prisoner, missing, or unaccounted for in military actions shall furnish any information or documents in the possession, custody, orcontrol of the department or agency, or person paid by such department or agency, whenever requested by the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate.
+Furnishing of Specific Information.—In accordance with title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\], the head of any department or agency of the United States involved in any intelligence activities which may pertain to United States military personnel listed as prisoner, missing, or unaccounted for in military actions shall furnish any information or documents in the possession, custody, or control of the department or agency, or person paid by such department or agency, whenever requested by the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate.
 
 "(b)
 

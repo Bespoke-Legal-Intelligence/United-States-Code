@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The Secretary may grant a reasonable extension of time for filing any return, declaration, statement, or other document required by this title or by regulations. Except in the case of taxpayers who are abroad, no such extension shall be for more than 6 months.
+The Secretary may grant a reasonable extension of time for filing any return, declaration, statement, or other document required by thistitle or by regulations. Except in the case of taxpayers who are abroad, no such extension shall be for more than 6 months.
 
 #### (b) Automatic extension for corporation income tax returns
 
@@ -38,7 +38,7 @@ Pub. L. 107–134, title I, §112(f), Jan. 23, 2002, 115 Stat. 2435, provided th
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 234(e) ofPub. L. 97–248, set out as a note under section 6655 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 234(e) of Pub. L. 97–248, set out as a note under section 6655 of this title.
 
 #### Modification of Due Dates by Regulation
 

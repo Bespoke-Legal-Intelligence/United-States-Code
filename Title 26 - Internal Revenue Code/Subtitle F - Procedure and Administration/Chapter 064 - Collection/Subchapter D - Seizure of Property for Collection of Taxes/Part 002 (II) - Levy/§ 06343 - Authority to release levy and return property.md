@@ -42,7 +42,7 @@ If the Secretary determines that property has been wrongfully levied upon, it sh
 
 Interest shall be allowed and paid at the overpayment rate established under section 6621—
 
-&emsp;(1) in a case described in subsection (b)(2), from the date the Secretary receives themoney to a date (to be determined by the Secretary) preceding the date of return by not more than 30 days, or
+&emsp;(1) in a case described in subsection (b)(2), from the date the Secretary receives the money to a date (to be determined by the Secretary) preceding the date of return by not more than 30 days, or
 
 &emsp;(2) in a case described in subsection (b)(3), from the date of the sale of the property to a date (to be determined by the Secretary) preceding the date of return by not more than 30 days.
 
@@ -110,7 +110,7 @@ In the case of a levy on the salary or wages payable to or received by the taxpa
 
 &emsp;For purposes of paragraph (1)(A), section 408(d)(3)(C) shall be disregarded in determining whether an individual retirement plan is a plan to which a rollover contribution of a distribution from the plan levied upon is permitted.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 789; Pub. L. 89–719, title I, §104(i), Nov. 2, 1966, 80 Stat. 1138; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §4(a), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 99–514, title XV, §1511(c)(10), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–647, title VI, §6236(f), Nov. 10, 1988, 102 Stat. 3740; Pub. L. 104–168, title V, §501(b), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(B), title III, §3432(a), July 22, 1998, 112 Stat. 704, 759; Pub. L. 115–97, title I, §11071(a),Dec. 22, 2017, 131 Stat. 2091; Pub. L. 115–123, div. D, title II, §41104(a), Feb. 9, 2018, 132 Stat. 155.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 789; Pub. L. 89–719, title I, §104(i), Nov. 2, 1966, 80 Stat. 1138; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–167, §4(a), Dec. 29, 1979, 93 Stat. 1275; Pub. L. 99–514, title XV, §1511(c)(10), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–647, title VI, §6236(f), Nov. 10, 1988, 102 Stat. 3740; Pub. L. 104–168, title V, §501(b), July 30, 1996, 110 Stat. 1460; Pub. L. 105–206, title I, §1102(d)(1)(B), title III, §3432(a), July 22, 1998, 112 Stat. 704, 759; Pub. L. 115–97, title I, §11071(a), Dec. 22, 2017, 131 Stat. 2091; Pub. L. 115–123, div. D, title II, §41104(a), Feb. 9, 2018, 132 Stat. 155.)
 
 #### <b>Editorial Notes</b>
 

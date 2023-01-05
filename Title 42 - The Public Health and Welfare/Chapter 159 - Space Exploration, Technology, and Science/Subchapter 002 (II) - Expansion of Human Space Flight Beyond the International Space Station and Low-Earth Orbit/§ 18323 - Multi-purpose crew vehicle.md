@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Administrator shall continue the development of a multi-purpose crew vehicle to be available as soon as practicable, and no laterthan for use with the Space Launch System. The vehicle shall continue to advance development of the human safety features, designs, and systems in the Orion project.
+&emsp;The Administrator shall continue the development of a multi-purpose crew vehicle to be available as soon as practicable, and no later than for use with the Space Launch System. The vehicle shall continue to advance development of the human safety features, designs, and systems in the Orion project.
 
 #### (2) Goal for operational capability
 

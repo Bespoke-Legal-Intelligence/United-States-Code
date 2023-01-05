@@ -14,7 +14,7 @@
 
 (c) For the purposes of this section and section 1441 of this title—
 
-&emsp;(1) a corporation shall be deemed to be a citizen of every State and foreign state by which it has been incorporated and of the State or foreign state where it has its principal place of business, except that in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of—
+&emsp;(1) a corporation shall be deemed to be a citizen of every State and foreign state by which it has been incorporated and of the State or foreign state where it has its principal place of business, except that in any direct action against the insurer of a policy or contract ofliability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of—
 
 &emsp;&emsp;(A) every State and foreign state of which the insured is a citizen;
 
@@ -124,7 +124,7 @@
 
 (e) The word "States", as used in this section, includes the Territories, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, §2, July 25,1958, 72 Stat. 415; Pub. L. 88–439, §1, Aug. 14, 1964, 78 Stat. 445; Pub. L. 94–583, §3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, §205(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 109–2, §4(a), Feb. 18, 2005, 119 Stat. 9; Pub. L. 112–63, title I, §§101, 102, Dec. 7, 2011, 125 Stat. 758.)
+(June 25, 1948, ch. 646, 62 Stat. 930; July 26, 1956, ch. 740, 70 Stat. 658; Pub. L. 85–554, §2, July 25, 1958, 72 Stat. 415; Pub. L. 88–439, §1, Aug. 14, 1964, 78 Stat. 445; Pub. L. 94–583, §3, Oct. 21, 1976, 90 Stat. 2891; Pub. L. 100–702, title II, §§201(a), 202(a), 203(a), Nov. 19, 1988, 102 Stat. 4646; Pub. L. 104–317, title II, §205(a), Oct. 19, 1996, 110 Stat. 3850; Pub. L. 109–2, §4(a), Feb. 18, 2005, 119 Stat. 9; Pub. L. 112–63, title I, §§101, 102, Dec. 7, 2011, 125 Stat. 758.)
 
 #### Historical and Revision Notes
 
@@ -353,7 +353,7 @@ Pub. L. 100–702, §203(a), inserted at end "For the purposes of this section, 
 
 Subsec. (b). Pub. L. 100–702, §201(a), substituted "$50,000" for "$10,000".
 
-Subsec. (c). Pub. L. 100–702, §202(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "For the purposes of this section and section 1441 of this title, a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: <i>Provided further</i>, That in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any Stateby which the insurer has been incorporated and of the State where it has its principal place of business."
+Subsec. (c). Pub. L. 100–702, §202(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "For the purposes of this section and section 1441 of this title, a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: <i>Provided further</i>, That in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business."
 
 <b>1976</b>—Subsec. (a)(2). Pub. L. 94–583 substituted "and citizens or subjects of a foreign state;" for ", and foreign states or citizens or subjects thereof; and".
 

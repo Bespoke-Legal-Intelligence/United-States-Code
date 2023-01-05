@@ -56,7 +56,7 @@ In this chapter—
 
 &emsp;(5) "head of a State agency" includes the designated delegate of the head of the agency.
 
-&emsp;(6) "local government" means a unit of general local government, a school district, orother special district established under State law.
+&emsp;(6) "local government" means a unit of general local government, a school district, or other special district established under State law.
 
 &emsp;(7) "Secretary" means the Secretary of the Treasury.
 
@@ -144,7 +144,7 @@ This amends 31:6501(1)(B) to clarify the section as enacted by the Act of Sept. 
 
 #### References in Text
 
-The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
+The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of Title 42 and Tables.
 
 #### Amendments
 

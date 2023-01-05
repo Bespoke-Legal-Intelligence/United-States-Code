@@ -30,7 +30,7 @@ Pub. L. 93–400, §7, Aug. 30, 1974, 88 Stat. 798.
 
 Ex. Ord. No. 12073, Aug. 16, 1978, 43 F.R. 36873, provided:
 
-By the authority vested in me as President by the Constitution of the United States of America, and inorder to strengthen the economic base of our Nation, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution of the United States of America, and in order to strengthen the economic base of our Nation, it is hereby ordered as follows:
 
 #### 1–1.
 

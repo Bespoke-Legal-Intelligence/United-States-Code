@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;No suit or proceeding under section 7422(a) for the recovery of any internal revenue tax, penalty, or other sum, shall be begun before the expiration of 6 months from the date of filing the claim required under such section unless the Secretary renders a decision thereonwithin that time, nor after the expiration of 2 years from the date of mailing by certified mail or registered mail by the Secretary to the taxpayer of a notice of the disallowance of the part of the claim to which the suit or proceeding relates.
+&emsp;No suit or proceeding under section 7422(a) for the recovery of any internal revenue tax, penalty, or other sum, shall be begun before the expiration of 6 months from the date of filing the claim required under such section unless the Secretary renders a decision thereon within that time, nor after the expiration of 2 years from the date of mailing by certified mail or registered mail by the Secretary to the taxpayer of a notice of the disallowance of the part of the claim to which the suit or proceeding relates.
 
 #### (2) Extension of time
 

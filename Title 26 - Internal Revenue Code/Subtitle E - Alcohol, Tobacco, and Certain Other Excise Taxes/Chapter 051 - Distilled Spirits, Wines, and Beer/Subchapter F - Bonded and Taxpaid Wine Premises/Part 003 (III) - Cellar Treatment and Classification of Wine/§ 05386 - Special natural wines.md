@@ -26,5 +26,5 @@ A prior section 5386, act Aug. 16, 1954, ch. 736, 68A Stat. 671, consisted of pr
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22, 1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
+Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22,1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
 

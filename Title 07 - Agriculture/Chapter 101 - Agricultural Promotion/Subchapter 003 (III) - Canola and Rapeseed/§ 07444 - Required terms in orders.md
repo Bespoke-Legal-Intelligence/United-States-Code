@@ -8,7 +8,7 @@ An order issued under this subchapter shall contain the terms and conditions spe
 
 #### (1) In general
 
-&emsp;The order shall provide for the establishment of, and appointment of members to, a National Canola and Rapeseed Board to administer the order.
+&emsp;The order shall provide for the establishment of, and appointment of members to, aNational Canola and Rapeseed Board to administer the order.
 
 #### (2) Service to entire industry
 

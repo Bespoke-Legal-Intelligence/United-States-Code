@@ -120,7 +120,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) the fuels identified with respect to the gasification technology for such project will comprise at least 90 percent of the fuels required by the project for the production of chemical feedstocks, liquid transportation fuels, or coproduction of electricity,
 
-&emsp;&emsp;(E) the award recipient's project team is competent in the construction and operation of the gasification technology proposed, with preference given to those recipients with experience which demonstrates successful and reliable operations of the technology on domestic fuels so identified, and
+&emsp;&emsp;(E) the award recipient's project team is competent in the construction and operationof the gasification technology proposed, with preference given to those recipients with experience which demonstrates successful and reliable operations of the technology on domestic fuels so identified, and
 
 &emsp;&emsp;(F) the award recipient has met other criteria established and published by the Secretary.
 
@@ -140,7 +140,7 @@ A credit shall not be allowed under this section for any qualified investment fo
 
 The Secretary shall provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any project which fails to attain or maintain the separation and sequestration requirements for such project under subsection (d)(1).
 
-(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 1004; amended Pub. L. 110–343, div.B, title I, §112(a)–(e), Oct. 3, 2008, 122 Stat. 3824; Pub. L. 111–5, div. B, title I, §1103(b)(2)(D), Feb. 17, 2009, 123 Stat. 321.)
+(Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 1004; amended Pub. L. 110–343, div. B, title I, §112(a)–(e), Oct. 3, 2008, 122 Stat. 3824; Pub. L. 111–5, div. B, title I, §1103(b)(2)(D), Feb. 17, 2009, 123 Stat. 321.)
 
 #### <b>Editorial Notes</b>
 

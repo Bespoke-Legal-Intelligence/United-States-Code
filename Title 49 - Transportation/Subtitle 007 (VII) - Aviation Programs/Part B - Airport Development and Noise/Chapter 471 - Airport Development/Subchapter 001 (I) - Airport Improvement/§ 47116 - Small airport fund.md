@@ -26,7 +26,7 @@ Priority Consideration for Certain Projects.—
 
 &emsp;(1)
 
-Construction of new runways.—In making grants to sponsors described in subsection (b)(2), the Secretary shall give priority consideration to multi-year projects for constructionof new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
+Construction of new runways.—In making grants to sponsors described in subsection (b)(2), the Secretary shall give priority consideration to multi-year projects for construction of new runways that the Secretary finds are cost beneficial and would increase capacity in a region of the United States.
 
 &emsp;(2)
 
@@ -114,5 +114,5 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 

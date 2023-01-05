@@ -18,13 +18,13 @@ Establishment.—(1) The Under Secretary for Health shall establish and operate 
 
 Functions.—The functions of the Office include the following:
 
-&emsp;(1) To provide a central office for monitoring and encouraging the activities of the Veterans Health Administration with respect to the provision, evaluation, and improvement of health care services provided to women veterans by the Department.
+&emsp;(1) To provide a central office for monitoring and encouraging the activities of the VeteransHealth Administration with respect to the provision, evaluation, and improvement of health care services provided to women veterans by the Department.
 
 &emsp;(2) To develop and implement standards of care for the provision of health care for women veterans by the Department.
 
 &emsp;(3) To monitor and identify deficiencies in standards of care for the provision of health care for women veterans by the Department, to provide technical assistance to medical facilities of the Department to address and remedy deficiencies, and to perform oversight of implementation of such standards of care.
 
-&emsp;(4) To monitor and identify deficiencies in standards of care for the provision of healthcare for women veterans provided through the community pursuant to this title and to provide recommendations to the appropriate office to address and remedy any deficiencies.
+&emsp;(4) To monitor and identify deficiencies in standards of care for the provision of health care for women veterans provided through the community pursuant to this title and to provide recommendations to the appropriate office to address and remedy any deficiencies.
 
 &emsp;(5) To oversee distribution of resources and information related to health programming for women veterans under this title.
 

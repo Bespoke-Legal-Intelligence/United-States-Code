@@ -6,7 +6,7 @@ The taxes imposed by sections 4261 and 4271 shall not apply to transportation by
 
 #### (b) Maximum certificated takeoff weight
 
-For purposes of this section, the term "maximum certificated takeoff weight" means themaximum such weight contained in the type certificate or airworthiness certificate.
+For purposes of this section, the term "maximum certificated takeoff weight" means the maximum such weight contained in the type certificate or airworthiness certificate.
 
 #### (c) Sightseeing
 

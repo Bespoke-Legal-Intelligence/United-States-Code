@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An owner, agent, or custodian who has been notified of an order issued under section 80505 of this title and fails to takereasonable and prompt action to prevent or stop a container subject to the order from being moved in violation of the order is liable to the United States Government for a civil penalty of not more than $5,000 for each container moved. Each day the container remains in service while the order is in effect is a separate violation.
+In General.—An owner, agent, or custodian who has been notified of an order issued under section 80505 of this title and fails to take reasonable and prompt action to prevent or stop a container subject to the order from being moved in violation of the order is liable to the United States Government for a civil penalty of not more than $5,000 for each container moved. Each day the container remains in service while the order is in effect is a separate violation.
 
 (b)
 

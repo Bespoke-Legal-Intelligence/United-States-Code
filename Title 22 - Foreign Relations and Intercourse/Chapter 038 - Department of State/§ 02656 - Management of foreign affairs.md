@@ -18,6 +18,114 @@ Section was formerly classified to section 156 of Title 5 prior to the general r
 
 Pub. L. 115–409, §412, Dec. 31, 2018, 132 Stat. 5411, provided that: "Nothing in this Act \[see Short Title of 2018 Amendment note set out under section 2651 of this title\] may be construed as authorizing the use of military force."
 
+#### Establishment of United States Embassies in Solomon Islands, Kiribati, and Tonga and a Diplomatic Presence in Vanuatu
+
+Pub. L. 117–263, div. I, title XCIII, §9303, Dec. 23, 2022, 136 Stat. 3890, provided that:
+
+"(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;"(1) The Pacific Islands are vital to United States national security and national interests in the Indo-Pacific region and globally.
+
+&emsp;"(2) The Pacific Islands region spans 15 percent of the world's surface area and controls access to open waters in the Central Pacific, sea lanes to the Western Hemisphere, supply lines to United States forward-deployed forces in East Asia, and economically important fisheries.
+
+&emsp;"(3) The Pacific Islands region is home to the State of Hawaii, 11 United States territories, United States Naval Base Guam, and United States Andersen Air Force Base.
+
+&emsp;"(4) Pacific Island countries cooperate with the United States and United States partners on maritime security and efforts to stop illegal, unreported, and destructive fishing.
+
+&emsp;"(5) The Pacific Islands are rich in biodiversity and are on the frontlines of environmental challenges and climate issues.
+
+&emsp;"(6) The People's Republic of China seeks to increase its influence in the Pacific Islands region, including through infrastructure development under the People's Republic of China's One Belt, One Road Initiative and its new security agreement with the Solomon Islands.
+
+&emsp;"(7) The United States closed its embassy in the Solomon Islands in 1993.
+
+&emsp;"(8) The United States Embassy in Papua New Guinea manages the diplomatic affairs of the United States to the Republic of Vanuatu and the Solomon Islands, and the United States Embassy in Fiji manages the diplomatic affairs of the United States to the Republic of Kiribati and the Kingdom of Tonga.
+
+&emsp;"(9) The United States requires a physical and more robust diplomatic presence in the Republic of Vanuatu, the Republic of Kiribati, the Solomon Islands, and the Kingdom of Tonga, to ensure the physical and operational security of our efforts in those countries to deepen relations, protect United States national security, and pursue United States national interests.
+
+&emsp;"(10) Increasing the number of United States embassies dedicated solely to a Pacific Island country demonstrates the United States' ongoing commitment to the region and to the Pacific Island countries.
+
+"(b)
+
+Establishment of Embassies.—
+
+&emsp;"(1)
+
+In general.—As soon as possible, the Secretary \[of State\] should—
+
+&emsp;&emsp;"(A) establish physical United States embassies in the Republic of Kiribati and in the Kingdom of Tonga;
+
+&emsp;&emsp;"(B) upgrade the United States consular agency in the Solomon Islands to an embassy; and
+
+&emsp;&emsp;"(C) establish a physical United States Government presence in the Republic of Vanuatu.
+
+&emsp;"(2)
+
+Other strategies.—
+
+&emsp;&emsp;"(A)
+
+Physical infrastructure.—In establishing embassies pursuant to paragraph (1) and creating the physical infrastructure to ensure the physical and operational safety of embassy personnel, the Secretary may pursue rent or purchase existing buildings or co-locate personnel in embassies of like-minded partners, such as Australia and New Zealand.
+
+&emsp;&emsp;"(B)
+
+Personnel.—In establishing a physical presence in the Republic of Vanuatu pursuant to paragraph (1), the Secretary may assign 1 or more United States Government personnel to the Republic of Vanuatu as part of the United States mission in Papua New Guinea.
+
+&emsp;"(3)
+
+Waiver authority.—The President may waive the requirements under paragraph (1) for a period of one year if the President determines and reports to Congress in advance that such waiver is necessary to protect the national security interests of the United States.
+
+"(c)
+
+Authorization of Appropriations.—Of the amounts authorized to be appropriated to the Department of State for Embassy Security, Construction, and Maintenance—
+
+&emsp;"(1) $40,200,000 is authorized to be appropriated for fiscal year 2023—
+
+&emsp;&emsp;"(A) to establish and maintain the 3 embassies authorized to be established under subsection (b); and
+
+&emsp;&emsp;"(B) to establish a physical United States Government presence in the Republic of Vanuatu;
+
+&emsp;"(2) $3,000,000 is authorized to be appropriated for fiscal year 2024—
+
+&emsp;&emsp;"(A) to maintain such embassies; and
+
+&emsp;&emsp;"(B) to establish a physical United States Government presence in the Republic of Vanuatu;\[.\]
+
+"(d)
+
+Report.—
+
+&emsp;"(1)
+
+Defined term.—In this subsection, the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Relations of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Appropriations of the Senate;
+
+&emsp;&emsp;"(C) the Committee on Foreign Affairs of the House of Representatives; and
+
+&emsp;&emsp;"(D) the Committee on Appropriations of the House of Representatives.
+
+&emsp;"(2)
+
+Progress report.—Not later than 180 days following the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary shall submit to the appropriate committees of Congress a report that includes—
+
+&emsp;&emsp;"(A) a description of the status of activities carried out to achieve the objectives described in this section;
+
+&emsp;&emsp;"(B) an estimate of when embassies and a physical presence will be fully established pursuant to subsection (b)(1); and
+
+&emsp;&emsp;"(C) an update on events in the Pacific Islands region relevant to the establishment of United States embassies, including activities by the People's Republic of China.
+
+&emsp;"(3)
+
+Report on final disposition.—Not later than 2 years after the date of the enactment of this Act, the Secretary shall submit a report to the appropriate committees of Congress that—
+
+&emsp;&emsp;"(A) confirms the establishment of the 3 embassies and the physical presence required under subsection (b)(1); or
+
+&emsp;&emsp;"(B) if the embassies and physical presence required in subsection (b)(1) have not been established, a justification for such failure to comply with such requirement."
+
 #### Mitigation and Prevention of Atrocities in High-Risk Countries
 
 Pub. L. 116–283, div. A, title XII, §1210D, Jan. 1, 2021, 134 Stat. 3916, provided that:
@@ -64,7 +172,7 @@ Covered foreign country.—The term 'covered foreign country' means a foreign co
 
 #### Termination of National Intelligence Authority and Central Intelligence Group
 
-National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreignintelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, formerly set out as section 403 of Title 50, War and National Defense. See Prior Provisions note under section 3023 of Title 50.
+National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, formerly set out as section 403 of Title 50, War and National Defense. See Prior Provisions note under section 3023 of Title 50.
 
 #### Genocide and Atrocities Prevention
 
@@ -292,7 +400,7 @@ Identification.—The Secretary of State, in consultation with the Secretary of 
 
 &emsp;"(1) threats of persecution and other early-warning indicators of genocide, crimes against humanity, and war crimes against individuals who are or were nationals and residents of Iraq or Syria, are members of religious or ethnic minority groups in such countries, and against whom the Secretary of State has determined ISIS has committed genocide, crimes against humanity, or war crimes;
 
-&emsp;"(2) the religious and ethnic minority groups in Iraq or Syria identified pursuant to paragraph (1)that are at risk of forced migration, within or across the borders of Iraq, Syria, or a country of first asylum, and the primary reasons for such risk;
+&emsp;"(2) the religious and ethnic minority groups in Iraq or Syria identified pursuant to paragraph (1) that are at risk of forced migration, within or across the borders of Iraq, Syria, or a country of first asylum, and the primary reasons for such risk;
 
 &emsp;"(3)(A) the humanitarian, stabilization, and recovery needs of individuals described in paragraphs (1) and (2), including the assistance provided by the United States and by the United Nations, respectively—
 
@@ -346,257 +454,7 @@ Form.—The report required under subsection (a) shall be submitted in unclassif
 
 #### Human Rights Sanctions
 
-Pub. L. 114–328, div. A, title XII, subtitle F, Dec. 23, 2016, 130 Stat. 2533, provided that:
-
-#### "SEC. 1261. SHORT TITLE.
-
-"This subtitle may be cited as the 'Global Magnitsky Human Rights Accountability Act'.
-
-#### "SEC. 1262. DEFINITIONS.
-
-"In this subtitle:
-
-&emsp;"(1)
-
-Foreign person.—The term 'foreign person' has the meaning given that term in section 595.304 of title 31, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act \[Dec. 23, 2016\]).
-
-&emsp;"(2)
-
-Gross violations of internationally recognized human rights.—The term 'gross violations of internationally recognized human rights' has the meaning given that term in section 502B(d)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2304(d)(1)).
-
-&emsp;"(3)
-
-Person.—The term 'person' has the meaning given that term in section 591.308 of title 31, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act).
-
-&emsp;"(4)
-
-United states person.—The term 'United States person' has the meaning given that term in section 595.315 of title 31, Code of Federal Regulations (as in effect on the day before the date of the enactment of this Act).
-
-#### "SEC. 1263. AUTHORIZATION OF IMPOSITION OF SANCTIONS.
-
-"(a)
-
-In General.—The President may impose the sanctions described in subsection (b) with respect to any foreign person the President determines, based on credible evidence—
-
-&emsp;"(1) is responsible for extrajudicial killings, torture, or other gross violations of internationally recognized human rights committed against individuals in any foreign country who seek—
-
-&emsp;&emsp;"(A) to expose illegal activity carried out by government officials; or
-
-&emsp;&emsp;"(B) to obtain, exercise, defend, or promote internationally recognized human rights and freedoms, such as the freedoms of religion, expression, association, and assembly, and the rights to a fair trial and democratic elections;
-
-&emsp;"(2) acted as an agent of or on behalf of a foreign person in a matter relating to an activity described in paragraph (1);
-
-&emsp;"(3) is a government official, or a senior associate of such an official, that is responsible for, or complicit in, ordering, controlling, or otherwise directing, acts of significant corruption, including the expropriation of private or public assets for personal gain, corruption related to government contracts or the extraction of natural resources, bribery, or the facilitation or transfer of the proceeds of corruption to foreign jurisdictions; or
-
-&emsp;"(4) has materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, an activity described in paragraph (3).
-
-"(b)
-
-Sanctions Described.—The sanctions described in this subsection are the following:
-
-&emsp;"(1)
-
-Inadmissibility to united states.—In the case of a foreign person who is an individual—
-
-&emsp;&emsp;"(A) ineligibility to receive a visa to enter the United States or to be admitted to the United States; or
-
-&emsp;&emsp;"(B) if the individual has been issued a visa or other documentation, revocation, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), of the visa or other documentation.
-
-&emsp;"(2)
-
-Blocking of property.—
-
-&emsp;&emsp;"(A)
-
-In general.—The blocking, in accordance with the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.), of all transactions in all property and interests in property of a foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
-
-&emsp;&emsp;"(B)
-
-Inapplicability of national emergency requirement.—The requirements of section 202 of the International Emergency Economic Powers Act (50 U.S.C. 1701) shall not apply for purposes of this section.
-
-&emsp;&emsp;"(C)
-
-Exception relating to importation of goods.—
-
-&emsp;&emsp;&emsp;"(i)
-
-In general.—The authority to block and prohibit all transactions in all property and interests in property under subparagraph (A) shall not include the authority to impose sanctions on the importation of goods.
-
-&emsp;&emsp;&emsp;"(ii)
-
-Good.—In this subparagraph, the term 'good' has the meaning given that term in \[former\] section 16 of the Export Administration Act of 1979 (\[former\] 50 U.S.C. 4618) (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
-
-"(c)
-
-Consideration of Certain Information in Imposing Sanctions.—In determining whether to impose sanctions under subsection (a), the President shall consider—
-
-&emsp;"(1) information provided jointly by the chairperson and ranking member of each of the appropriate congressional committees; and
-
-&emsp;"(2) credible information obtained by other countries and nongovernmental organizations that monitor violations of human rights.
-
-"(d)
-
-Requests by Appropriate Congressional Committees.—
-
-&emsp;"(1)
-
-In general.—Not later than 120 days after receiving a request that meets the requirements of paragraph (2) with respect to whether a foreign person has engaged in an activity described in subsection (a), the President shall—
-
-&emsp;&emsp;"(A) determine if that person has engaged in such an activity; and
-
-&emsp;&emsp;"(B) submit a classified or unclassified report to the chairperson and ranking member of the committee or committees that submitted the request with respect to that determination that includes—
-
-&emsp;&emsp;&emsp;"(i) a statement of whether or not the President imposed or intends to impose sanctions with respect to the person; and
-
-&emsp;&emsp;&emsp;"(ii) if the President imposed or intends to impose sanctions, a description of those sanctions.
-
-&emsp;"(2)
-
-Requirements.—
-
-&emsp;&emsp;"(A)
-
-Requests relating to human rights violations.—A request under paragraph (1) with respect to whether a foreign person has engaged in an activity described in paragraph (1) or (2) of subsection (a) shall be submitted to the President in writing jointly by the chairperson and ranking member of one of the appropriate congressional committees.
-
-&emsp;&emsp;"(B)
-
-Requests relating to corruption.—A request under paragraph (1) with respect to whether a foreign person has engaged in an activity described in paragraph (3) or (4) of subsection (a) shall be submitted to the President in writing jointly by the chairperson and ranking member of—
-
-&emsp;&emsp;&emsp;"(i) one of the appropriate congressional committees of the Senate; and
-
-&emsp;&emsp;&emsp;"(ii) one of the appropriate congressional committees of the House of Representatives.
-
-"(e)
-
-Exception To Comply With United Nations Headquarters Agreement and Law Enforcement Objectives.—Sanctions under subsection (b)(1) shall not apply to an individual if admitting the individual into the United States would further important law enforcement objectives or is necessary to permit the United States to comply with the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or other applicable international obligations of the United States.
-
-"(f)
-
-Enforcement of Blocking of Property.—A person that violates, attempts to violate, conspires to violate, or causes a violation of a sanction described in subsection (b)(2) that is imposed by the President or any regulation, license, or order issued to carry out such a sanction shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
-
-"(g)
-
-Termination of Sanctions.—The President may terminate the application of sanctions under this section with respect to a person if the President determines and reports to the appropriate congressional committees not later than 15 days before the termination of the sanctions that—
-
-&emsp;"(1) credible information exists that the person did not engage in the activity for which sanctions were imposed;
-
-&emsp;"(2) the person has been prosecuted appropriately for the activity for which sanctions were imposed;
-
-&emsp;"(3) the person has credibly demonstrated a significant change in behavior, has paid an appropriate consequence for the activity for which sanctions were imposed, and has credibly committed to not engage in an activity described in subsection (a) in the future; or
-
-&emsp;"(4) the termination of the sanctions is in the national security interests of the United States.
-
-"(h)
-
-Regulatory Authority.—The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
-
-"(i)
-
-Identification of Sanctionable Foreign Persons.—The Assistant Secretary of State for Democracy, Human Rights, and Labor, in consultation with the Assistant Secretary of State for Consular Affairs and other bureaus of the Department of State, as appropriate, is authorized to submit to the Secretary of State, for review and consideration, the names of foreign persons who may meet the criteria described in subsection (a).
-
-"(j)
-
-Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
-
-&emsp;"(1) the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate; and
-
-&emsp;"(2) the Committee on Financial Services and the Committee on Foreign Affairs of the House of Representatives.
-
-#### "SEC. 1264. REPORTS TO CONGRESS.
-
-"(a)
-
-In General.—The President shall submit to the appropriate congressional committees, in accordance with subsection (b), a report that includes—
-
-&emsp;"(1) a list of each foreign person with respect to which the President imposed sanctions pursuant to section 1263 during the year preceding the submission of the report;
-
-&emsp;"(2) a description of the type of sanctions imposed with respect to each such person;
-
-&emsp;"(3) the number of foreign persons with respect to which the President—
-
-&emsp;&emsp;"(A) imposed sanctions under section 1263(a) during that year; and
-
-&emsp;&emsp;"(B) terminated sanctions under section 1263(g) during that year;
-
-&emsp;"(4) the dates on which such sanctions were imposed or terminated, as the case may be;
-
-&emsp;"(5) the reasons for imposing or terminating such sanctions; and
-
-&emsp;"(6) a description of the efforts of the President to encourage the governments of other countries to impose sanctions that are similar to the sanctions authorized by section 1263.
-
-"(b)
-
-Dates for Submission.—
-
-&emsp;"(1)
-
-Initial report.—The President shall submit the initial report under subsection (a) not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2016\].
-
-&emsp;"(2)
-
-Subsequent reports.—
-
-&emsp;&emsp;"(A)
-
-In general.—The President shall submit a subsequent report under subsection (a) on December 10, or the first day thereafter on which both Houses of Congress are in session, of—
-
-&emsp;&emsp;&emsp;"(i) the calendar year in which the initial report is submitted if the initial report is submitted before December 10 of that calendar year; and
-
-&emsp;&emsp;&emsp;"(ii) each calendar year thereafter.
-
-&emsp;&emsp;"(B)
-
-Congressional statement.—Congress notes that December 10 of each calendar year has been recognized in the United States and internationally since 1950 as 'Human Rights Day'.
-
-"(c)
-
-Form of Report.—
-
-&emsp;"(1)
-
-In general.—Each report required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.
-
-&emsp;"(2)
-
-Exception.—The name of a foreign person to be included in the list required by subsection (a)(1) may be submitted in the classified annex authorized by paragraph (1) only if the President—
-
-&emsp;&emsp;"(A) determines that it is vital for the national security interests of the United States to do so;
-
-&emsp;&emsp;"(B) uses the annex in a manner consistent with congressional intent and the purposes of this subtitle; and
-
-&emsp;&emsp;"(C) not later than 15 days before submitting the name in a classified annex, provides to the appropriate congressional committees notice of, and a justification for, including the name in the classified annex despite any publicly available credible information indicating that the person engaged in an activity described in section 1263(a).
-
-"(d)
-
-Public Availability.—
-
-&emsp;"(1)
-
-In general.—The unclassified portion of the report required by subsection (a) shall be made available to the public, including through publication in the Federal Register.
-
-&emsp;"(2)
-
-Nonapplicability of confidentiality requirement with respect to visa records.—The President shall publish the list required by subsection (a)(1) without regard to the requirements of section 222(f) of the Immigration and Nationality Act (8 U.S.C. 1202(f)) with respect to confidentiality of records pertaining to the issuance or refusal of visas or permits to enter the United States.
-
-"(e)
-
-Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
-
-&emsp;"(1) the Committee on Appropriations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on the Judiciary of the Senate; and
-
-&emsp;"(2) the Committee on Appropriations, the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on the Judiciary of the House of Representatives.
-
-#### "SEC. 1265. SUNSET.
-
-"(a)
-
-In General.—The authority to impose sanctions under this subtitle shall terminate on the date that is 6 years after the date of the enactment of this Act \[Dec. 23, 2016\].
-
-"(b)
-
-Continuation in Effect of Sanctions.—Sanctions imposed under this subtitle on or before the date specified in subsection (a), and in effect as of such date, shall remain in effect until terminated in accordance with the requirements of section 1263(g)."
-
-\[Authority to administer financial sanctions under section 1263 of Pub. L. 114–328, set out in a note above, delegated to Secretary of the Treasury and authority to administer visa sanctions under such section 1263 delegated to Secretary of State by Memorandum of President of the United States, Sept. 8, 2017, 82 F.R. 45411.\]
+Pub. L. 114–328, div. A, title XII, subtitle F, Dec. 23, 2016, 130 Stat. 2533, known as the Global Magnitsky Human Rights Accountability Act and formerly set out as a note under this section, was transferred to chapter 108 (§10101 et seq.) of this title. Section 1265 of Pub. L. 114–328, which terminated the authority to impose sanctions under the Act 6 years after Dec. 23, 2016, was repealed by Pub. L. 117–110, §6(a), Apr. 8, 2022, 136 Stat. 1165.
 
 #### Global Engagement Center
 
@@ -654,7 +512,7 @@ Appointment.—The head of the Center shall be an individual who is an official 
 
 &emsp;"(2)
 
-Compliance with privacy and civil liberties laws.—The President shall designate a senior officialto develop guidance for the Center relating to relevant privacy and civil liberties laws and to ensure compliance with such guidance.
+Compliance with privacy and civil liberties laws.—The President shall designate a senior official to develop guidance for the Center relating to relevant privacy and civil liberties laws and to ensure compliance with such guidance.
 
 "(d)
 
@@ -752,7 +610,7 @@ Congressional Findings.—Congress finds that:
 
 &emsp;"(2) Saudi Arabia has an uneven record in the fight against terrorism, especially with respect to terrorist financing, support for radical madrassas, a lack of political outlets for its citizens, and restrictions on religious pluralism, that poses a threat to the security of the United States, the international community, and Saudi Arabia itself.
 
-&emsp;"(3) The National Commission on Terrorist Attacks Upon the United States concluded that the 'problems in the U.S.-Saudi relationship must be confronted, openly'. It recommended that the two countries build a relationship that includes a 'shared commitment topolitical and economic reform . . . and a shared interest in greater tolerance and cultural respect, translating into a commitment to fight the violent extremists who foment hatred'.
+&emsp;"(3) The National Commission on Terrorist Attacks Upon the United States concluded that the 'problems in the U.S.-Saudi relationship must be confronted, openly'. It recommended that the two countries build a relationship that includes a 'shared commitment to political and economic reform . . . and a shared interest in greater tolerance and cultural respect, translating into a commitment to fight the violent extremists who foment hatred'.
 
 &emsp;"(4) The United States has a national security interest in working with the Government of Saudi Arabia to combat international terrorists that operate within that country or that operate outside Saudi Arabia with the support of citizens of Saudi Arabia.
 
@@ -860,7 +718,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(3) The international terrorists who planned other attacks on the United States, including the plot to bomb New York City landmarks in 1993, the plot to bomb the New York City subway in 1997, and the millennium plot to bomb Los Angeles International Airport on December 31, 1999, traveled across international borders to plan and carry out these attacks.
 
-&emsp;"(4) Many of the international terrorists who planned and carried out large-scale attacks against foreign targets, including the attack in Bali, Indonesia, on October 11, 2002, and the attack in Madrid, Spain, on March 11, 2004, traveled across international borders to plan and carry out these attacks.
+&emsp;"(4) Many of the international terrorists who planned and carried out large-scale attacks againstforeign targets, including the attack in Bali, Indonesia, on October 11, 2002, and the attack in Madrid, Spain, on March 11, 2004, traveled across international borders to plan and carry out these attacks.
 
 &emsp;"(5) Throughout the 1990s, international terrorists, including those involved in the attack on the World Trade Center on February 26, 1993, the plot to bomb New York City landmarks in 1993, and the millennium plot to bomb Los Angeles International Airport on December 31, 1999, traveled on fraudulent passports and often had more than 1 passport.
 
@@ -982,7 +840,7 @@ Availability.—Amounts appropriated pursuant to the authorization of appropriat
 
 #### "SEC. 633. MULTILATERAL ASSISTANCE.
 
-"The Secretary of the Treasury shall instruct the United States executive director at each international financial institution to which the United States is a member to use the voice, vote, and influence of the United States to support economic and democratic development in East Timor.
+"The Secretary of the Treasury shall instruct the United States executive director at each internationalfinancial institution to which the United States is a member to use the voice, vote, and influence of the United States to support economic and democratic development in East Timor.
 
 #### "SEC. 634. TRADE AND INVESTMENT ASSISTANCE.
 
@@ -1090,7 +948,7 @@ Information.—The report required by subsection (a) shall include—
 
 \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.\]
 
-\[For definitions of "appropriate congressional committees" and "Secretary" as used in subtitle C of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definitions of "appropriate congressional committees" and "Secretary" as used in subtitle C of titleVI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 \[For Presidential certification authorizing security assistance to East Timor pursuant to section 637(b)(2) of Pub. L. 107–228, set out above, see Presidential Determination No. 2003–19, set out below.\]
 
@@ -1260,7 +1118,7 @@ Purpose.—The purpose of the Office shall be to support, through organizations 
 
 &emsp;"(2) to provide the people of Cambodia with access to documents, records, and other evidence held by the Office as a result of such investigation;
 
-&emsp;"(3) to submit the relevant data to a national or international penal tribunal that may be convened toformally hear and judge the genocidal acts committed by the Khmer Rouge; and
+&emsp;"(3) to submit the relevant data to a national or international penal tribunal that may be convened to formally hear and judge the genocidal acts committed by the Khmer Rouge; and
 
 &emsp;"(4) to develop the United States proposal for the establishment of an international criminal tribunal for the prosecution of those accused of genocide in Cambodia.
 
@@ -1346,7 +1204,7 @@ Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: "It
 
 #### Torture by Foreign Governments; United States Policy in Opposition; Implementation
 
-Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: "That the Congress reaffirms that it is the continuing policy of the United States Government to oppose the practice of torture by foreign governments through public and private diplomacy and, when necessary and appropriate, through the enactment and vigorous implementation of laws intended to reinforce United States policies with respect to torture. The United States Government opposes acts of torture wherever they occur, without regard to ideological or regional considerations, and will make every effort to work cooperatively with other governments and with nongovernmental organizations to combat the practice of torture worldwide.
+Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: "That the Congress reaffirms that it is the continuing policy of the United States Government to oppose thepractice of torture by foreign governments through public and private diplomacy and, when necessary and appropriate, through the enactment and vigorous implementation of laws intended to reinforce United States policies with respect to torture. The United States Government opposes acts of torture wherever they occur, without regard to ideological or regional considerations, and will make every effort to work cooperatively with other governments and with nongovernmental organizations to combat the practice of torture worldwide.
 
 "Sec. 2. (a) The President is requested—
 
@@ -1446,7 +1304,7 @@ Sec. 3. <i>Responsibilities Assigned to the Center</i>. Recognizing the need for
 
 (f) developing, supporting, and sustaining networks of governmental and non-governmental partners, to provide original content and disseminate messaging products to foreign audiences abroad and to create, develop, and sustain effective positive alternative narratives consistent with U.S. policy objectives.
 
-Sec. 4. <i>Establishment of a Steering Committee</i>. The Secretary shall establish a Steering Committee composed of senior representatives of agencies relevant to the Center's mission to provide advice to the Secretary on the operations and strategic orientation of the Center and to ensure adequate support for the Center. The Steering Committee shall be chaired by the Under Secretary of State for Public Diplomacy. The Steering Committee shall include one senior representative designated by the head of each of the following agencies: the Department of Defense, the Department of Justice,the Department of Homeland Security, the Department of the Treasury, the Small Business Administration, the National Counterterrorism Center, the Joint Chiefs of Staff, the Counterterrorism Center of the Central Intelligence Agency, the Broadcast Board of Governors, and the United States Agency for International Development. Other agencies may be invited to participate in the Steering Committee at the discretion of the Chair.
+Sec. 4. <i>Establishment of a Steering Committee</i>. The Secretary shall establish a Steering Committee composed of senior representatives of agencies relevant to the Center's mission to provide advice to the Secretary on the operations and strategic orientation of the Center and to ensure adequate support for the Center. The Steering Committee shall be chaired by the Under Secretary of State for Public Diplomacy. The Steering Committee shall include one senior representative designated by the head of each of the following agencies: the Department of Defense, the Department of Justice, the Department of Homeland Security, the Department of the Treasury, the Small Business Administration, the National Counterterrorism Center, the Joint Chiefs of Staff, the Counterterrorism Center of the Central Intelligence Agency, the Broadcast Board of Governors, and the United States Agency for International Development. Other agencies may be invited to participate in the Steering Committee at the discretion of the Chair.
 
 Sec. 5. <i>Interagency Support</i>. Agencies are hereby directed, consistent with budget priorities and mission constraints, upon request by the Secretary and to the extent permitted by law and consistent with the need to protect intelligence and law enforcement sources, methods, operations, and investigations, to provide to the Center, and the Center is authorized to use, for the purpose of carrying out the responsibilities outlined in this order:
 
@@ -1458,7 +1316,7 @@ Sec. 5. <i>Interagency Support</i>. Agencies are hereby directed, consistent wit
 
 (d) such other resources and assistance as the Coordinator may request for the purpose of carrying out the responsibilities outlined in this order.
 
-Sec. 6. <i>Establishment of a Temporary Organization</i>. (a) There is established within the Department of State, in accordance with section 3161 of title 5, United States Code, a temporary organization to be known as the Global Engagement Center Coordination Office (GECCO).
+Sec. 6. <i>Establishment of a Temporary Organization</i>. (a) There is established within the Department of State, inaccordance with section 3161 of title 5, United States Code, a temporary organization to be known as the Global Engagement Center Coordination Office (GECCO).
 
 (b) The purpose of the GECCO shall be to perform the specific project of providing technical, marketing, management, and operational support to the Center in its efforts to build and maintain a network of partners outside the U.S. Government, including private sector entities and non-governmental organizations, and to develop research and analytics to enable measurement and evaluation of the activities of the Center and related activities conducted by other agencies.
 
@@ -1494,6 +1352,60 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 14089. Establishing the President's Advisory Council on African Diaspora Engagement in the United States
+
+Ex. Ord. No. 14089, Dec. 13, 2022, 87 F.R. 77459, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to strengthen the dialogue between United States officials and the African Diaspora by elevating engagement through collaboration, partnership, and community-building among the United States, Africa, and other nations globally, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The United States has a longstanding commitment to engagement with the African Diaspora—people of native African origin living outside the African continent, and who have been collectively described as constituting the sixth region of the African Union. The African Diaspora in the United States is a source of strength, and encompasses African Americans—including descendants of enslaved Africans—and nearly two million African immigrants who have close familial, social, and economic connections to the African continent. African Americans have been foundational to strengthening United States-Africa relations and in shaping United States foreign policy toward Africa—including by actively advocating on the African continent's behalf, even as they struggled for civil rights in the United States. The African immigrant community continues to make significant contributions to America's growth and prosperity. The United States Government encourages efforts to advance equity and opportunity for the African Diaspora in the United States, and will continue to encourage efforts to strengthen cultural, social, political, and economic ties between African communities, the global African Diaspora, and the United States.
+
+In August 2022, my Administration released the U.S. Strategy Toward Sub-Saharan Africa, which outlines our foreign policy objectives to bolster relations with African nations, listen to diverse local voices, and widen the circle of engagement to advance our strategic objectives for the benefit of both Africans and Americans.
+
+Sec. 2. <i>Establishment of the President's Advisory Council on African Diaspora Engagement in the United States</i>. Within 180 days of the date of this order \[Dec. 13, 2022\], the Secretary of State shall establish the President's Advisory Council on African Diaspora Engagement in the United States (Advisory Council) within the Department of State.
+
+Sec. 3. <i>Membership</i>. (a) The Advisory Council shall consist of not more than 12 members, appointed by the Secretary of State, who are representatives of and reflect the diversity of the African Diaspora from African American and African immigrant communities, including individuals who have distinguished themselves in government, sports, creative industries, business, academia, social work, and faith-based activities. Appointments to the Advisory Council shall be made without regard to political affiliation.
+
+(b) Members of the Advisory Council shall serve for 2-year terms without compensation or reimbursement.
+
+(c) The Secretary of State shall designate one of the members of the Advisory Council to serve as Chair.
+
+(d) The Secretary of State shall designate a senior officer or employee of the Department of State to serve as Executive Director of the Advisory Council.
+
+Sec. 4. <i>Functions</i>. (a) The Advisory Council shall advise the President, through the Secretary of State, and then through the Assistant to the President for National Security Affairs (APNSA) and the Assistant to the President for Domestic Policy (APDP), on strengthening connections between the United States Government and the African Diaspora in the United States, as described in the U.S. Strategy Toward Sub-Saharan Africa.
+
+(b) In providing the advice described in subsection (a) of this section, the Advisory Council shall provide information, analysis, and recommendations that address the following, in addition to other topics deemed relevant by the Secretary of State, in coordination with the APNSA and the APDP:
+
+(i) strategies to advance equity and opportunity for African Diaspora communities, including through efforts coordinated by the Domestic Policy Council under Executive Order 13985 of January 20, 2021 (Advancing Racial Equity and Support for Underserved Communities Through the Federal Government) \[5 U.S.C. 601 note\];
+
+(ii) ways to support the United Nations' Permanent Forum on People of African Descent;
+
+(iii) programs and initiatives to strengthen cultural, social, political, and economic ties between African communities, the global African Diaspora, and the United States, such as the Young African Leaders Initiative, and address challenges and opportunities to advance inclusion, belonging, and public awareness of the diversity, accomplishments, culture, and history of the African Diaspora;
+
+(iv) programs and initiatives, such as the International Visitor Leadership Program, to expand educational exchange programs between Africa and the United States;
+
+(v) programs and initiatives to increase public- and private-sector collaboration and community involvement in improving the socioeconomic well-being of African Diaspora communities; and
+
+(vi) programs and initiatives, such as Prosper Africa, to increase participation of members of the African Diaspora in the United States with regard to trade, investment, economic growth, and development programs relating to Africa.
+
+Sec. 5. <i>Administration</i>. (a) The Department of State shall provide funding and administrative support for the Advisory Council, to the extent permitted by law and within existing appropriations.
+
+(b) The Advisory Council shall meet in plenary session on a quarterly basis, at a minimum, or more frequently as necessary.
+
+Sec. 6. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] (the "Act"), may apply to the Advisory Council, any functions of the President under the Act, except for those in section 6 of the Act \[see 5 U.S.C. 1005\], shall be performed by the Secretary of State in accordance with the guidelines issued by the Administrator of General Services.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Presidential Certification Authorizing Security Assistance to East Timor
 
 Determination of President of the United States, No. 2003–19, Mar. 28, 2003, 68 F.R. 16167, provided:
@@ -1522,7 +1434,7 @@ By this memorandum I am directing all agencies engaged abroad to ensure that U.S
 
 Section 1. <i>Combating Criminalization of LGBTQI+ Status or Conduct Abroad</i>. Agencies engaged abroad are directed to strengthen existing efforts to combat the criminalization by foreign governments of LGBTQI+ status or conduct and expand efforts to combat discrimination, homophobia, transphobia, and intolerance on the basis of LGBTQI+ status or conduct. The Department of State shall, on an annual basis and as part of the annual report submitted to the Congress pursuant to sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 (22 U.S.C. 2151n(d) and 2304(b)), report on human rights abuses experienced by LGBTQI+ persons globally. This reporting shall include anti-LGBTQI+ laws as well as discrimination and violence committed by both state and non-state actors against LGBTQI+ persons.
 
-Sec. 2. <i>Protecting Vulnerable LGBTQI+ Refugees and Asylum Seekers</i>. LGBTQI+ persons who seek refuge from violence and persecution face daunting challenges. In order to improve protection for LGBTQI+ refugees and asylum seekers at all stages of displacement, the Departments of State and Homeland Security shall enhance their ongoing efforts to ensure that LGBTQI+ refugees and asylum seekers have equal access to protection and assistance, particularly in countries of first asylum. In addition, the Departments of State, Justice, and Homeland Security shall ensure appropriate training is in place so that relevant federal government personnel and key partners can effectively identify and respond to the particular needs of LGBTQI+ refugees and asylum seekers, including by providing to them adequate assistance and ensuring that the Federal Government takes all appropriate steps, such as potential increased use of Embassy Priority-1 referrals, to identify and expedite resettlement of highly vulnerable persons with urgent protection needs.
+Sec. 2. <i>Protecting Vulnerable LGBTQI+ Refugees and Asylum Seekers</i>. LGBTQI+ persons who seek refuge from violence and persecution face daunting challenges. In order to improve protection for LGBTQI+ refugees and asylum seekers at all stages of displacement, the Departments of State and Homeland Security shall enhance their ongoing efforts to ensure that LGBTQI+ refugees and asylum seekers have equal access to protection and assistance, particularly in countries of first asylum. In addition, the Departments of State, Justice, and Homeland Security shall ensure appropriate training is in place so that relevant federal government personnel and key partners can effectively identify and respond to the particular needs of LGBTQI+ refugees and asylum seekers, including by providing to them adequate assistance and ensuring that the Federal Government takes all appropriate steps, such as potential increased use of Embassy Priority–1 referrals, to identify and expedite resettlement of highly vulnerable persons with urgent protection needs.
 
 Sec. 3. <i>Foreign Assistance to Protect Human Rights and Advance Nondiscrimination</i>. Agencies involved with foreign aid, assistance, and development programs shall enhance their ongoing efforts to ensure regular federal government engagement with governments, citizens, civil society, and the private sector in order to build respect for the human rights of LGBTQI+ persons and combat discrimination. Agencies involved with foreign aid, assistance, and development programs should consider the impact of programs funded by the federal government on human rights, including the rights of LGBTQI+ persons, when making funding decisions, as appropriate and consistent with applicable law.
 

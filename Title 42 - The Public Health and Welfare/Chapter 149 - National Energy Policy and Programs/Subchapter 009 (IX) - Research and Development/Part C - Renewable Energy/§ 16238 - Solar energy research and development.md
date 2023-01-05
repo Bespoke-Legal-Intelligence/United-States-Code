@@ -272,7 +272,7 @@ In this section:
 
 #### (B) Priority
 
-&emsp;&emsp;In awarding grants under subparagraph (A), to the extent practicable, the Secretaryshall give priority to solar energy manufacturing projects that—
+&emsp;&emsp;In awarding grants under subparagraph (A), to the extent practicable, the Secretary shall give priority to solar energy manufacturing projects that—
 
 &emsp;&emsp;&emsp;(i) increase efficiency and cost effectiveness in—
 

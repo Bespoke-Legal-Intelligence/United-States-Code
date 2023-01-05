@@ -4,7 +4,7 @@
 
 &emsp;(1) the rates of pay of—
 
-&emsp;&emsp;(A) employees in the legislative, executive, and judicial branches of the Government of the United States (except employees whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) and of the government of the District of Columbia, whose rates of pay are fixed by administrative action under law and are not otherwise adjusted under this subchapter;
+&emsp;&emsp;(A) employees in the legislative, executive, and judicial branches of the Government of the United States (except employees whosepay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) and of the government of the District of Columbia, whose rates of pay are fixed by administrative action under law and are not otherwise adjusted under this subchapter;
 
 &emsp;&emsp;(B) employees under the Architect of the Capitol, whose rates of pay are fixed under section 166b–3a <sup>1</sup> of title 40, and the Superintendent of Garages, House office buildings; and
 
@@ -18,7 +18,7 @@
 
 &emsp;(ii) if there are no corresponding rates of pay, by an amount or amounts equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to the amount of the pay adjustment provided under section 5303; or
 
-&emsp;(iii) in the case of minimum or maximum rates of pay, or monetary limitations of allowances with respect to pay, by an amountrounded to the nearest $100 and computed on the basis of a percentage equal or equivalent, insofar as practicable and with such variations as may be appropriate, to the percentage of the pay adjustment provided under section 5303.
+&emsp;(iii) in the case of minimum or maximum rates of pay, or monetary limitations of allowances with respect to pay, by an amount rounded to the nearest $100 and computed on the basis of a percentage equal or equivalent, insofar as practicable and with such variations as may be appropriate, to the percentage of the pay adjustment provided under section 5303.
 
 (b) An adjustment under subsection (a) in rates of pay, minimum or maximum rates of pay, the monetary limitations or allowances with respect to pay, shall be made in such manner as the appropriate authority concerned considers appropriate.
 

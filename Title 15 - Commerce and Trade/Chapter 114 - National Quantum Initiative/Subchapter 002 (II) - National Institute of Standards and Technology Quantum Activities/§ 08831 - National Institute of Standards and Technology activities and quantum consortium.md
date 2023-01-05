@@ -8,9 +8,15 @@ As part of the Program, the Director of the National Institute of Standards and 
 
 &emsp;(2) shall use the existing programs of the National Institute of Standards and Technology, in collaboration with other Federal departments and agencies, as appropriate, to train scientists in quantum information science and technology to increase participation in the quantum fields;
 
-&emsp;(3) shall establish or expand collaborative ventures or consortia with other public or private sector entities, including industry, universities, and Federal laboratories for the purpose of advancing the field of quantum information science and engineering; and
+&emsp;(3) shall carry out research to facilitate the development and standardization of quantum cryptography and post-quantum classical cryptography;
 
-&emsp;(4) may enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards and Technology and on such terms as the Director considers appropriate, in furtherance of the purposes of this chapter.
+&emsp;(4) shall carry out research to facilitate the development and standardization of quantum networking, communications, and sensing technologies and applications;
+
+&emsp;(5) for quantum technologies determined by the Director of the National Institute of Standards and Technology to be at a readiness level sufficient for standardization, shall provide technical review and assistance to such other Federal agencies as the Director considers appropriate for the development of quantum networking infrastructure standards;
+
+&emsp;(6) shall establish or expand collaborative ventures or consortia with other public or private sector entities, including industry, universities, and Federal laboratories for the purpose of advancing the field of quantum information science and engineering; and
+
+&emsp;(7) may enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards andTechnology and on such terms as the Director considers appropriate, in furtherance of the purposes of this chapter.
 
 #### (b) Quantum consortium
 
@@ -36,5 +42,11 @@ As part of the Program, the Director of the National Institute of Standards and 
 
 The Director of the National Institute of Standards and Technology shall allocate up to $80,000,000 to carry out the activities under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Institute of Standards and Technology.
 
-(Pub. L. 115–368, title II, §201, Dec. 21, 2018, 132 Stat. 5098.)
+(Pub. L. 115–368, title II, §201, Dec. 21, 2018, 132 Stat. 5098; Pub. L. 117–167, div. B, title VI, §10661(c)(1), Aug. 9, 2022, 136 Stat. 1684.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a)(3) to (7). Pub. L. 117–167 added pars. (3) to (5) and redesignated former pars. (3) and (4) as (6) and (7), respectively.
 

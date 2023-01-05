@@ -50,7 +50,7 @@ The Secretary shall establish, under section 241 of this title, telehealth netwo
 
 #### (1) Telehealth network grants
 
-&emsp;The Director may, in carrying out the telehealth network grant program referred to in subsection (b), award grants to eligible entities for evidence-based projects that utilize telehealth technologies through telehealth networks in rural areas, frontier communities, and medically underserved areas, and for medically underserved populations, to—
+&emsp;The Director may, in carrying out the telehealth network grant program referred to insubsection (b), award grants to eligible entities for evidence-based projects that utilize telehealth technologies through telehealth networks in rural areas, frontier communities, and medically underserved areas, and for medically underserved populations, to—
 
 &emsp;&emsp;(A) expand access to, coordinate, and improve access to, and the quality of, health care services; and
 
@@ -102,6 +102,8 @@ The Director may award grants under this section for periods of not more than 5 
 
 &emsp;&emsp;(L) Entities operating dental clinics.
 
+&emsp;&emsp;(M) Providers of prenatal, labor care, birthing, and postpartum care services, including hospitals that operate obstetric care units.
+
 #### (g) Applications
 
 To be eligible to receive a grant under subsection (d), an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
@@ -134,7 +136,7 @@ To be eligible to receive a grant under subsection (d), an eligible entity, in c
 
 #### (B) Services
 
-&emsp;&emsp;The eligible entity proposes to use Federal funds made available through such a grantto develop plans for, or to establish, telehealth networks that provide mental health care, public health services, long-term care, home care, preventive care, case management services, or prenatal care for high-risk pregnancies.
+&emsp;&emsp;The eligible entity proposes to use Federal funds made available through such a grant to develop plans for, or to establish, telehealth networks that provide mental health care, public health services, long-term care, home care, preventive care, case management services, prenatal care, labor care, birthing care, or postpartum care.
 
 #### (C) Coordination
 
@@ -284,11 +286,15 @@ Not later than 4 years after March 27, 2020, and every 5 years thereafter, the S
 
 There are authorized to be appropriated to carry out this section $29,000,000 for each of fiscal years 2021 through 2025.
 
-(July 1, 1944, ch. 373, title III, §330I, as added Pub. L. 107–251, title II, §212, Oct. 26, 2002, 116 Stat. 1632; amended Pub. L. 108–163, §2(c), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 113–55, title I, §103(a), Nov. 27, 2013, 127 Stat. 642; Pub. L. 116–136, div. A, title III, §3212, Mar. 27, 2020, 134 Stat. 368.)
+(July 1, 1944, ch. 373, title III, §330I, as added Pub. L. 107–251, title II, §212, Oct. 26, 2002, 116 Stat. 1632; amended Pub. L. 108–163, §2(c), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 113–55, title I, §103(a), Nov. 27, 2013, 127 Stat. 642; Pub. L. 116–136, div. A, title III, §3212, Mar. 27, 2020, 134 Stat. 368; Pub. L. 117–103, div. P, title I, §143, Mar. 15, 2022, 136 Stat. 799.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(3)(M). Pub. L. 117–103, §143(1), added subpar. (M).
+
+Subsec. (h)(1)(B). Pub. L. 117–103, §143(2), substituted "prenatal care, labor care, birthing care, or postpartum care" for "or prenatal care for high-risk pregnancies".
 
 <b>2020</b>—Subsec. (d)(1). Pub. L. 116–136, §3212(1)(A)(i), substituted "evidence-based projects that utilize telehealth technologies through telehealth networks" for "projects to demonstrate how telehealth technologies can be used through telehealth networks" in introductory provisions.
 
@@ -308,7 +314,7 @@ Subsec. (f)(3)(I). Pub. L. 116–136, §3212(3)(C), inserted "and substance use 
 
 Subsec. (g)(2). Pub. L. 116–136, §3212(4), substituted "and improve" for "or improve".
 
-Subsec. (h). Pub. L. 116–136, §3212(5), (6), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: "The Secretary shall establish the terms and conditions of each grant program described in subsection (b)and the maximum amount of a grant to be awarded to an individual recipient for each fiscal year under this section. The Secretary shall publish, in a publication of the Health Resources and Services Administration, notice of the application requirements for each grant program described in subsection (b) for each fiscal year."
+Subsec. (h). Pub. L. 116–136, §3212(5), (6), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: "The Secretary shall establish the terms and conditions of each grant program described in subsection (b) and the maximum amount of a grant to be awarded to an individual recipient for each fiscal year under this section. The Secretary shall publish, in a publication of the Health Resources and Services Administration, notice of the application requirements for each grant program described in subsection (b) for each fiscal year."
 
 Subsec. (h)(1)(B). Pub. L. 116–136, §3212(7)(A)(i), substituted "mental health care, public health services, long-term care, home care, preventive care" for "mental health, public health, long-term care, home care, preventive".
 

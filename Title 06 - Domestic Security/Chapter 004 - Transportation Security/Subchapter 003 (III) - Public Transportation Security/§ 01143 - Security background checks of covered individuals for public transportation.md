@@ -20,7 +20,7 @@ In this section, the following definitions apply:
 
 #### (b) Guidance
 
-(1) Any guidance, recommendations, suggested action items, or any other widely disseminatedvoluntary action item issued by the Secretary to a public transportation agency or a contractor or subcontractor of a public transportation agency relating to performing a security background check of a covered individual shall contain recommendations on the appropriate scope and application of such a security background check, including the time period covered, the types of disqualifying offenses, and a redress process for adversely impacted covered individuals consistent with subsections (c) and (d) of this section.
+(1) Any guidance, recommendations, suggested action items, or any other widely disseminated voluntary action item issued by the Secretary to a public transportation agency or a contractor or subcontractor of a public transportation agency relating to performing a security background check of a covered individual shall contain recommendations on the appropriate scope and application of such a security background check, including the time period covered, the types of disqualifying offenses, and a redress process for adversely impacted covered individuals consistent with subsections (c) and (d) of this section.
 
 (2) Not later than 60 days after August 3, 2007, any guidance, recommendations, suggested action items, or any other widely disseminated voluntary action item issued by the Secretary prior to August 3, 2007, to a public transportation agency or a contractor or subcontractor of a public transportation agency relating to performing a security background check of a covered individual shall be updated in compliance with paragraph (b)(1).
 

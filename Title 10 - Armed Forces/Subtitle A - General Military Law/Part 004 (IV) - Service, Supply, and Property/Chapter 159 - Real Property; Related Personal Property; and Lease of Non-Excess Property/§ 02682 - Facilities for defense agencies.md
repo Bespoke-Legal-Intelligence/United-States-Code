@@ -26,7 +26,7 @@ Facilities for Intelligence Collection or for Special Operations Abroad.—(1) T
 
 (4) The waiver authority provided by paragraph (1) expires December 31, 2020.
 
-(Added Pub. L. 88–174, title VI, §609(a)(1), Nov. 7, 1963, 77 Stat. 329; amended Pub. L. 97–214, §10(a)(7), July 12, 1982, 96 Stat. 175; Pub. L. 112–81, div. A, title IX, §926, Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–92, div. A, title XVI, §1632, Nov. 25, 2015, 129 Stat. 1111; Pub. L. 115–91, div. B, title XXVIII, §2811(f), Dec. 12, 2017, 131 Stat. 1848.)
+(Added Pub. L. 88–174, title VI, §609(a)(1), Nov. 7, 1963, 77 Stat. 329; amended Pub. L. 97–214, §10(a)(7), July 12, 1982, 96 Stat. 175; Pub. L.112–81, div. A, title IX, §926, Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–92, div. A, title XVI, §1632, Nov. 25, 2015, 129 Stat. 1111; Pub. L. 115–91, div. B, title XXVIII, §2811(f), Dec. 12, 2017, 131 Stat. 1848.)
 
 #### <b>Editorial Notes</b>
 

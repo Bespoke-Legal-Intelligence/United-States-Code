@@ -36,7 +36,7 @@ Availability of Information.—The Secretary concerned shall, upon request, make
 
 (f)
 
-Nondisclosure of Certain Information.—A record of the content of a debriefing of a missing person returned to United States control during the period beginning on July 8, 1959, and ending on February 10, 1996, that was conducted by an official of the United States authorized to conduct the debriefing is privileged information and, notwithstanding sections 552 and 552a of title 5, may not be disclosed, in whole or in part, under either such section. However, this subsection does not limit the responsibility of the Secretary concerned under paragraphs (3) and (4) of subsection (d) to place extracts of non-derogatory information, or a notice of the existence of such information, in the personnel file of a missing person.
+Nondisclosure of Certain Information.—A record of the content of a debriefing of a missing person returned to United States control during the period beginning on July 8, 1959, and ending on February 10, 1996, that was conducted by an official of the United States authorized to conduct the debriefing is privileged information and, notwithstanding sections 552 and 552a of title 5, may not be disclosed, in whole or in part, under either such section. However, this subsection does not limit the responsibility of theSecretary concerned under paragraphs (3) and (4) of subsection (d) to place extracts of non-derogatory information, or a notice of the existence of such information, in the personnel file of a missing person.
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 346; amended Pub. L. 104–201, div. A, title V, §578(d), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(f), (g), Nov. 18, 1997, 111 Stat. 1770; Pub. L. 106–65, div. A, title V, §575, Oct. 5, 1999, 113 Stat. 624; Pub. L. 107–107, div. A, title V, §573, Dec. 28, 2001, 115 Stat. 1122; Pub. L. 113–66, div. A, title V, §582(a), Dec. 26, 2013, 127 Stat. 776.)
 
@@ -58,7 +58,7 @@ Subsec. (d)(2). Pub. L. 105–85, §599(g)(1), inserted "or about unnamed missin
 
 Subsec. (d)(3). Pub. L. 105–85, §599(g)(2), inserted ", or part of a debriefing report," after "a debriefing report".
 
-<b>1996</b>—Subsecs. (e), (f). Pub. L. 104–201 redesignated subsec. (f) as (e) and struck out former subsec. (e)which read as follows: "
+<b>1996</b>—Subsecs. (e), (f). Pub. L. 104–201 redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: "
 
 Wrongful Withholding.—Except as provided in subsections (a) through (d), any person who knowingly and willfully withholds from the personnel file of a missing person any information relating to the disappearance or whereabouts and status of a missing person shall be fined as provided in title 18 or imprisoned not more than one year, or both."
 

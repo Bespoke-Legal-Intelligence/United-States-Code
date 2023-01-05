@@ -40,7 +40,7 @@ The functions of the Foundation shall be the planning, development, and implemen
 
 #### (2) Ex-officio members
 
-&emsp;The Secretary of Commerce and representatives of Federal agencies with responsibility for Federal recreational sites in rural areas (including the National Park Service, Bureau of Land Management, Forest Service, Corps of Engineers, Bureau of Indian Affairs, Tennessee Valley Authority, and such other Federal agencies as the Board determines appropriate) shall be nonvoting ex-officio members of the Board.
+&emsp;The Secretary of Commerce and representatives of Federal agencies with responsibility for Federal recreational sites in rural areas (including the National Park Service, Bureau of Land Management, Forest Service, Corps of Engineers, Bureau of Indian Affairs, TennesseeValley Authority, and such other Federal agencies as the Board determines appropriate) shall be nonvoting ex-officio members of the Board.
 
 #### (3) Chair
 
@@ -80,7 +80,7 @@ The Foundation shall have the power to enter into contracts, to execute instrume
 
 #### (1) In general
 
-&emsp;In carrying out the provisions of this section, the Board may adopt bylaws, rules, and regulations necessary for the administration of its functions and may hire officers and employees and contract for any other necessary services. Such officers and employees shall be appointed without regard to the provisions oftitle 5 governing appointments in the competitive service and may be paid without regard to the provisions of chapters 51 and 53 of such title relating to classification and General Schedule pay rates.
+&emsp;In carrying out the provisions of this section, the Board may adopt bylaws, rules, and regulations necessary for the administration of its functions and may hire officers and employees and contract for any other necessary services. Such officers and employees shall be appointed without regard to the provisions of title 5 governing appointments in the competitive service and may be paid without regard to the provisions of chapters 51 and 53 of such title relating to classification and General Schedule pay rates.
 
 #### (2) Services
 

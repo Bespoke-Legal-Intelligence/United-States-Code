@@ -14,7 +14,7 @@ In this section:
 
 &emsp;&emsp;(C) any waste material that can be converted to energy, is segregated from other waste materials, and is derived from—
 
-&emsp;&emsp;&emsp;(i) any of the following forest-related resources: mill residues, precommercial thinnings, slash, brush, or otherwise nonmerchantable material; or
+&emsp;&emsp;&emsp;(i) any of the following forest-related resources: mill residues, precommercialthinnings, slash, brush, or otherwise nonmerchantable material; or
 
 &emsp;&emsp;&emsp;(ii) wood waste materials, including waste pallets, crates, dunnage, manufacturing and construction wood wastes (other than pressure-treated, chemically-treated, or painted wood wastes), and landscape or right-of-way tree trimmings, but not including municipal solid waste, gas derived from the biodegradation of municipal solid waste, or paper that is commonly recycled.
 

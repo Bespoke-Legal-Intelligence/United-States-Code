@@ -10,7 +10,7 @@ An application under subsection (a) shall—
 
 &emsp;(1) describe the scholarship program and the student employment program for which assistance under this part is sought;
 
-&emsp;(2) contain assurances that the lead agency will work in cooperation with the local law enforcement liaisons, representatives of police labor organizations and police management organizations, and other appropriate State andlocal agencies to develop and implement interagency agreements designed to carry out this part;
+&emsp;(2) contain assurances that the lead agency will work in cooperation with the local law enforcement liaisons, representatives of police labor organizations and police management organizations, and other appropriate State and local agencies to develop and implement interagency agreements designed to carry out this part;
 
 &emsp;(3) contain assurances that the State will advertise the scholarship assistance and student employment it will provide under this part and that the State will use such programs to enhance recruitment efforts;
 

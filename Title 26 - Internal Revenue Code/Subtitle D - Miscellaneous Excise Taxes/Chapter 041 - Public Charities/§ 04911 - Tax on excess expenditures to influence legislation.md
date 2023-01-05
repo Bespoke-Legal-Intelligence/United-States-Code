@@ -16,7 +16,7 @@ For purposes of this section, the term "excess lobbying expenditures" means, for
 
 &emsp;(1) the amount by which the lobbying expenditures made by the organization during the taxable year exceed the lobbying nontaxable amount for such organization for such taxable year, or
 
-&emsp;(2) the amount by which the grass roots expenditures made by the organization duringthe taxable year exceed the grass roots nontaxable amount for such organization for such taxable year.
+&emsp;(2) the amount by which the grass roots expenditures made by the organization during the taxable year exceed the grass roots nontaxable amount for such organization for such taxable year.
 
 #### (c) Definitions
 

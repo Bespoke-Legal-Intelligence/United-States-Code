@@ -10,7 +10,7 @@
 
 &emsp;(3) 1 shall be appointed to represent the labor organization which has been accorded exclusive recognition under section 1203(a) of title 39 representing the largest number of individuals employed by the United States Postal Service as rural letter carriers;
 
-&emsp;(4) 2 shall be appointed to represent the respective managerial organizations (other than an organization described in paragraph (5)) which consult with the United States Postal Service under section 1004(b) of title 39 and which represent the largest and second largest numbers of individuals employed by the United States Postal Service as managerial personnel;
+&emsp;(4) 2 shall be appointed to represent the respective managerial organizations (other thanan organization described in paragraph (5)) which consult with the United States Postal Service under section 1004(b) of title 39 and which represent the largest and second largest numbers of individuals employed by the United States Postal Service as managerial personnel;
 
 &emsp;(5) 1 shall be appointed to represent the supervisors' organization as defined in section 1004(h) of title 39;
 
@@ -46,17 +46,15 @@
 
 &emsp;(2) perform such other duties as the Board may direct with respect to investment funds established in accordance with subchapter III of this chapter.
 
-(f) Section 14(a)(2) of the Federal Advisory Committee Act shall not apply to the Council.
+(f) Section 1013(a) of this title shall not apply to the Council.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 579; amended Pub. L. 103–89, §3(b)(1)(N), Sept. 30, 1993, 107 Stat. 982; Pub. L. 106–65, div. A, title VI, §661(a)(6), Oct. 5, 1999, 113 Stat. 672.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 579; amended Pub. L. 103–89, §3(b)(1)(N), Sept. 30, 1993, 107 Stat. 982; Pub. L. 106–65, div. A, title VI, §661(a)(6), Oct. 5, 1999, 113 Stat. 672; Pub. L. 117–286, §4(a)(10), Dec. 27, 2022, 136 Stat. 4306.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 14(a)(2) of the Federal Advisory Committee Act \[Pub. L. 92–463\], referred to in subsec. (f), is section 14(a)(2) of Pub. L. 92–463, which is set out in the Appendix to this title.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–286 substituted "Section 1013(a) of this title" for "Section 14(a)(2) of the Federal Advisory Committee Act".
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–65, §661(a)(6)(A), substituted "15 members" for "14 members".
 

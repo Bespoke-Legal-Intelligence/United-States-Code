@@ -28,7 +28,7 @@ The Secretary may not make a direct operating loan under subchapter II to a borr
 
 &emsp;&emsp;&emsp;(ii) is current on payments under a confirmed reorganization plan under chapters <sup>1</sup> 11, 12, or 13 of title 11; or
 
-&emsp;&emsp;&emsp;(iii) received debt forgiveness on not more than 1 occasion resulting directly and primarily from a major disaster or emergency designated by the President on or after April 4, 1996, under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+&emsp;&emsp;&emsp;(iii) received debt forgiveness on not more than 1 occasion resulting directlyand primarily from a major disaster or emergency designated by the President on or after April 4, 1996, under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
 #### (B) Emergency loans
 
@@ -56,7 +56,7 @@ The Secretary may not provide to a borrower debt forgiveness on a direct loan ma
 
 This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
 

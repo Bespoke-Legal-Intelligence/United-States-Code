@@ -4,7 +4,7 @@ In this subtitle, the following definitions apply:
 
 &emsp;(1)
 
-Commission.—The term "Commission" means a Commission established under section 15301.
+Commission.—The term "Commission" means a Commission or Authority established under section 15301.
 
 &emsp;(2)
 
@@ -50,7 +50,7 @@ Nonprofit entity.—The term "nonprofit entity" means any organization described
 
 Region.—The term "region" means the area covered by a Commission as described in subchapter II of chapter 157.<sup>2</sup>
 
-(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1468, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2230.)
+(Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1468, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2230; amended Pub. L. 117–328, div. O, title IV, §401(a)(2), Dec. 29, 2022, 136 Stat. 5228.)
 
 #### <b>Editorial Notes</b>
 
@@ -65,6 +65,10 @@ Section 501 of the Internal Revenue Code of 1986, referred to in par. (5), is cl
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+<b>2022</b>—Par. (1). Pub. L. 117–328 inserted "or Authority" after "a Commission".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -40,7 +40,7 @@ It is the sense of Congress that—
 
 &emsp;&emsp;(A) the Sergei Magnitsky Rule of Law Accountability Act of 2012 (title IV of Public Law 112–208; 22 U.S.C. 5811 note); and
 
-&emsp;&emsp;(B) the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note).
+&emsp;&emsp;(B) the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note).<sup>1</sup>
 
 (Pub. L. 115–44, title II, §252, Aug. 2, 2017, 131 Stat. 926.)
 
@@ -50,5 +50,7 @@ It is the sense of Congress that—
 
 The Sergei Magnitsky Rule of Law Accountability Act of 2012, referred to in par. (10)(A), is title IV of Pub. L. 112–208, Dec. 14, 2012, 126 Stat. 1502, which is set out as a note under section 5811 of this title.
 
-The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B), is subtitle F (§§1261–1265) of title XII of div. A of Pub. L. 114–328, Dec. 23, 2016, 130 Stat. 2533, which is set out as a note under section 2656 of this title.
+The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B), is subtitle F (§§1261–1264) of title XII of div. A of Pub. L. 114–328, Dec. 23, 2016, 130 Stat. 2533, which is classified generally to chapter 108 (§10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10101 of this title and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

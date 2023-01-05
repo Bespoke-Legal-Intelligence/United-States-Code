@@ -60,7 +60,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (3) Effect
 
-&emsp;A certificate of guarantee issued under this paragraph by the Secretary shall be conclusive evidence of the eligibility of the loan for guarantee under the provisions of this section and the amount of such guarantee. Such evidence shall be incontestable in the hands of the bearer and the full faith and credit of the UnitedStates is pledged to the payment of all amounts agreed to be paid by the Secretary as security for such obligations.
+&emsp;A certificate of guarantee issued under this paragraph by the Secretary shall be conclusive evidence of the eligibility of the loan for guarantee under the provisions of this section and the amount of such guarantee. Such evidence shall be incontestable in the hands of the bearer and the full faith and credit of the United States is pledged to the payment of all amounts agreed to be paid by the Secretary as security for such obligations.
 
 #### (4) Fraud and misrepresentation
 
@@ -70,7 +70,7 @@ Loans guaranteed pursuant to this section shall meet the following requirements:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may issue a certificate of guarantee under this subsection for a loan involving a security interest in Indian trust land before the Secretary receives the trailing documents required by the Secretary from the Bureau of Indian Affairs, including the final certified title status report showing the recordation by the Bureau of Indian Affairs of the mortgage relating to the loan, if the originating lender agrees to indemnify the Secretary for any losses that may result when—
+&emsp;&emsp;The Secretary may issue a certificate of guarantee under this subsection for a loan involving a security interest in Indian trustland before the Secretary receives the trailing documents required by the Secretary from the Bureau of Indian Affairs, including the final certified title status report showing the recordation by the Bureau of Indian Affairs of the mortgage relating to the loan, if the originating lender agrees to indemnify the Secretary for any losses that may result when—
 
 &emsp;&emsp;&emsp;(i) a claim payment is presented to the Secretary due to the default of the borrower on the loan; and
 
@@ -184,7 +184,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (B) Limitations on costs of guarantees
 
-&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent that amounts in the Guarantee Fund are or have been made available in appropriation Acts to cover the costs (as such term is defined in section 661a of title 2) of such loan guarantees for suchfiscal year. Any amounts appropriated pursuant to this subparagraph shall remain available until expended.
+&emsp;&emsp;The authority of the Secretary to enter into commitments to guarantee loans under this section shall be effective for any fiscal year only to the extent that amounts in the Guarantee Fund are or have been made available in appropriation Acts to cover the costs (as such term is defined in section 661a of title 2) of such loan guarantees for such fiscal year. Any amounts appropriated pursuant to this subparagraph shall remain available until expended.
 
 #### (C) Limitation on outstanding aggregate principal amount
 
@@ -274,7 +274,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) by operation of State law providing specifically for housing authorities for Indians, including regional housing authorities in the State of Alaska.
 
-> &emsp;The term includes tribally designated housing entities under the Native American HousingAssistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\].
+> &emsp;The term includes tribally designated housing entities under the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\].
 
 &emsp;(6) The term "Secretary" means the Secretary of Housing and Urban Development.
 
@@ -282,7 +282,7 @@ For purposes of this section:
 
 &emsp;(8)
 
-Tribe; indian tribe.—The term "tribe" or "Indian tribe" means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[25 U.S.C. 5301 et seq.\].
+Tribe; indian tribe.—The term "tribe" or "Indian tribe" means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of theirstatus as Indians pursuant to the Indian Self-Determination and Education Assistance Act of 1975 \[25 U.S.C. 5301 et seq.\].
 
 &emsp;(9) The term "trust land" means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
@@ -292,15 +292,15 @@ Tribe; indian tribe.—The term "tribe" or "Indian tribe" means any Indian tribe
 
 #### References in Text
 
-The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (l)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (l)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (l)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (l)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (l)(8), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
@@ -334,7 +334,7 @@ Subsec. (i)(5)(C). Pub. L. 105–276, §595(e)(12), substituted "not" for "note"
 
 Subsecs. (k), (l). Pub. L. 105–276, §595(e)(13), added subsec. (k) and redesignated former subsec. (k) as (l).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–330, §701(a)(1), (b), substituted ", Indian housing authorities, and Indian tribes," for "and Indian housing authorities", "lands oras a result of a lack of access to private financial markets" for "trust land", and ", Indian housing authority, or Indian tribe" for "or Indian housing authority".
+<b>1996</b>—Subsec. (a). Pub. L. 104–330, §701(a)(1), (b), substituted ", Indian housing authorities, and Indian tribes," for "and Indian housing authorities", "lands or as a result of a lack of access to private financial markets" for "trust land", and ", Indian housing authority, or Indian tribe" for "or Indian housing authority".
 
 Subsec. (b)(1). Pub. L. 104–330, §701(a)(2), substituted ", Indian housing authorities, or Indian tribes" for "or Indian housing authorities".
 

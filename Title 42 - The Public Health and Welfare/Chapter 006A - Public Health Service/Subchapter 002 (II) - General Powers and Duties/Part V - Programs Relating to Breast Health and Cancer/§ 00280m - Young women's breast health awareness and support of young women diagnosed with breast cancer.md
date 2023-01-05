@@ -40,7 +40,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(1) of breast health, symptoms, and early diagnosis and treatment of breast cancer in young women, including specific risk factors such as family history of cancer and women that may be at high risk for breast cancer, such as Ashkenazi Jewish population;
 
-&emsp;(2) on how to provide counseling to young women about their breast health, includingknowledge of their family cancer history and importance of providing regular clinical breast examinations;
+&emsp;(2) on how to provide counseling to young women about their breast health, including knowledge of their family cancer history and importance of providing regular clinical breast examinations;
 
 &emsp;(3) concerning the importance of discussing healthy behaviors, and increasing awareness of services and programs available to address overall health and wellness, and making patient referrals to address tobacco cessation, good nutrition, and physical activity;
 

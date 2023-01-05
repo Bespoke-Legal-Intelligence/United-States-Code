@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(5) there is a lack of clear, comprehensive, and consistent Federal policy on treatment of Native American languages which has often resulted in acts of suppression and extermination of Native American languages and cultures;
 
-&emsp;(6) there is convincing evidence that student achievement and performance, community and school pride, and educational opportunity is clearly and directly tied to respect for, and support of, the first language of the child or student;
+&emsp;(6) there is convincing evidence that student achievement and performance, community and school pride, and educational opportunity isclearly and directly tied to respect for, and support of, the first language of the child or student;
 
 &emsp;(7) it is clearly in the interests of the United States, individual States, and territories to encourage the full academic and human potential achievements of all students and citizens and to take steps to realize these ends;
 
@@ -25,6 +25,10 @@ The Congress finds that—
 (Pub. L. 101–477, title I, §102, Oct. 30, 1990, 104 Stat. 1153.)
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2023 Amendment
+
+Pub. L. 117–337, §1, Jan. 5, 2023, 136 Stat. 6153, provided that: "This Act \[enacting section 2907 of this title and amending section 2905 of this title\] may be cited as the 'Durbin Feeling Native American Languages Act of 2022'."
 
 #### Short Title
 

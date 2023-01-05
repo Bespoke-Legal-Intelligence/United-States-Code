@@ -2,7 +2,7 @@
 
 Before final payment upon discharge may be made to an officer of the Air Force or the Space Force who has been accountable or responsible for public property, the officer must obtain a certificate of nonindebtedness to the United States from each officer to whom the officer was accountable or responsible for property. The officer must also make an affidavit, certified by the officer's commanding officer to be correct, that the officer is not accountable or responsible for property to any other officer. An officer who has not been responsible for public property must make an affidavit of that fact, certified by the officer's commanding officer. Compliance with this section warrants the final payment of the officer concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 595; Pub. L. 116–283, div. A, title IX, §923(e)(23), Jan. 1, 2021,134 Stat. 3819; Pub. L. 117–81, div. A, title X, §1081(a)(37), Dec. 27, 2021, 135 Stat. 1922.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 595; Pub. L. 116–283, div. A, title IX, §923(e)(23), Jan. 1, 2021, 134 Stat. 3819; Pub. L. 117–81, div. A, title X, §1081(a)(37), Dec. 27, 2021, 135 Stat. 1922.)
 
 Historical and Revision Notes
 

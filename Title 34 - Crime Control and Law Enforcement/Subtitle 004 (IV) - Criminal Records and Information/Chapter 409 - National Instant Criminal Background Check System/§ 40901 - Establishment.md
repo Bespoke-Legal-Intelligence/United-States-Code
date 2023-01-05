@@ -12,7 +12,31 @@ Not later than 6 months after November 30, 1993, the Attorney General shall—
 
 #### (b) Establishment of system
 
-Not later than 60 months after November 30, 1993, the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or by other electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate section 922 of title 18 or State law.
+#### (1) In general
+
+&emsp;Not later than 60 months after November 30, 1993, the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or by other electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate section 922 of title 18 or State law.
+
+#### (2) Voluntary background checks
+
+#### (A) In general
+
+&emsp;&emsp;Not later than 90 days after June 25, 2022, the Attorney General shall promulgate regulations allowing licensees to use the national instant criminal background check system established under this section for purposes of voluntarily conducting an employment background check relating to a current or prospective employee. The Attorney General may not collect a fee for an employment background check under this subparagraph.
+
+#### (B) Notice
+
+&emsp;&emsp;Before conducting an employment background check relating to a current or prospective employee under subparagraph (A), a licensee shall—
+
+&emsp;&emsp;&emsp;(i) provide written notice to the current or prospective employee that the licensee intends to conduct the background check; and
+
+&emsp;&emsp;&emsp;(ii) obtain consent to conduct the background check from the current or prospective employee in writing.
+
+#### (C) Exemption
+
+&emsp;&emsp;An employment background check conducted by a licensee under subparagraph (A) shall not be governed by the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.).
+
+#### (D) Appeal
+
+&emsp;&emsp;Any individual who is the subject of an employment background check conducted by a licensee under subparagraph (A) the result of which indicates that the individual is prohibited from possessing a firearm or ammunition pursuant to subsection (g) or (n) of section 922 of title 18 may appeal the results of the background check in the same manner and to the same extent as if the individual had been the subject of a background check relating to the transfer of a firearm.
 
 #### (c) Expedited action by the Attorney General
 
@@ -26,7 +50,7 @@ The Attorney General shall expedite—
 
 #### (d) Notification of licensees
 
-On establishment of the system under this section, the Attorney General shall notify each licensee and the chief law enforcement officer of each State of the existence and purpose of the system and the means to be used to contact the system.
+On establishment of the system under this section, the Attorney General shall notify each licensee and the chief law enforcement officer ofeach State of the existence and purpose of the system and the means to be used to contact the system.
 
 #### (e) Administrative provisions
 
@@ -80,7 +104,7 @@ On establishment of the system under this section, the Attorney General shall no
 
 &emsp;&emsp;&emsp;&emsp;(II) for each category of records described in subclause (I), the total number of records of the Federal department or agency that have been provided to the Attorney General; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the efforts of the Federal department or agency to ensure complete and accurate reporting of relevant records, including efforts to monitor complianceand correct any reporting failures or inaccuracies.
+&emsp;&emsp;&emsp;&emsp;(III) the efforts of the Federal department or agency to ensure complete and accurate reporting of relevant records, including efforts to monitor compliance and correct any reporting failures or inaccuracies.
 
 #### (G) Implementation plan
 
@@ -152,7 +176,7 @@ If the national instant criminal background check system determines that an indi
 
 #### (g) Correction of erroneous system information
 
-If the system established under this section informs an individual contacting the system that receipt of a firearm by a prospective transferee would violate subsection (g) or (n) of section 922 of title 18 or State law, the prospective transferee may request the Attorney General to provide the prospective transferee with the reasons therefor. Upon receipt of such a request, the Attorney General shall immediately comply with the request. The prospective transferee may submit to the Attorney General information to correct, clarify, or supplement records of the system with respect to the prospective transferee. After receipt of such information, the Attorney General shall immediately consider the information, investigate the matter further, and correct all erroneous Federal records relating to the prospective transferee and give notice of the error to any Federal department or agency or any State that was the source of such erroneous records. For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection.
+If the system established under this section informs an individual contacting the system that receipt of a firearm by a prospective transferee would violate subsection (g) or (n) of section 922 of title 18 or State law, the prospective transferee may request the Attorney General to provide the prospective transferee with the reasons therefor. Upon receipt of such a request, the Attorney General shall immediately comply with the request. The prospective transferee may submit to the Attorney General information to correct, clarify, or supplement records of the system with respect to the prospective transferee. After receipt of such information, the Attorney General shall immediately consider the information, investigate the matter further, and correct all erroneous Federal records relating to the prospective transferee and give notice of the error to any Federal department or agency or any State that was the source of such erroneous records. For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expensesof the Federal Bureau of Investigation to comply with this subsection.
 
 #### (h) Regulations
 
@@ -182,9 +206,37 @@ As used in this section:
 
 There are authorized to be appropriated such sums as are necessary to enable the Attorney General to carry out this section.
 
-(Pub. L. 103–159, title I, §103, Nov. 30, 1993, 107 Stat. 1541; Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 110–180, title I, §101(a), Jan. 8, 2008, 121 Stat. 2561; Pub. L. 115–141, div. S, title VI, §602, Mar. 23, 2018, 132 Stat. 1132.)
+#### (l) Requirements relating to background checks for persons under age 21
+
+If a licensee contacts the system established under this section regarding a proposed transfer of a firearm to a person less than 21 years of age in accordance with subsection (t) of section 922 of title 18, the system shall—
+
+&emsp;(1) immediately contact—
+
+&emsp;&emsp;(A) the criminal history repository or juvenile justice information system, as appropriate, of the State in which the person resides for the purpose of determining whether the person has a possibly disqualifying juvenile record under subsection (d) of such section 922;
+
+&emsp;&emsp;(B) the appropriate State custodian of mental health adjudication records in the State in which the person resides to determine whether the person has a possibly disqualifying juvenile record under subsection (d) of such section 922; and
+
+&emsp;&emsp;(C) a local law enforcement agency of the jurisdiction in which the person resides for the purpose of determining whether the person has a possibly disqualifying juvenile record under subsection (d) of such section 922;
+
+&emsp;(2) as soon as possible, but in no case more than 3 business days, after the licensee contacts the system, notify the licensee whether cause exists to further investigate a possibly disqualifying juvenile record under subsection (d) of such section 922; and
+
+&emsp;(3) if there is cause for further investigation, as soon as possible, but in no case more than 10 business days, after the licensee contacts the system, notify the licensee whether—
+
+&emsp;&emsp;(A) transfer of a firearm to the person would violate subsection (d) of such section 922; or
+
+&emsp;&emsp;(B) receipt of a firearm by the person would violate subsection (g) or (n) of such section 922, or State, local, or Tribal law.
+
+(Pub. L. 103–159, title I, §103, Nov. 30, 1993, 107 Stat. 1541; Pub. L. 103–322, title XXI, §210603(b), Sept. 13, 1994, 108 Stat. 2074; Pub. L. 104–294, title VI, §603(h), (i)(1), Oct. 11, 1996, 110 Stat. 3504; Pub. L. 110–180, title I, §101(a), Jan. 8, 2008, 121 Stat. 2561; Pub. L. 115–141, div. S, title VI, §602, Mar. 23, 2018, 132 Stat. 1132; Pub. L. 117–159, div. A, title II, §§12001(a)(2), (3), 12004(h)(1), June 25, 2022, 136 Stat. 1323, 1324, 1330.)
+
+#### Amendment of Subsection (l)
+
+<i>For repeal of amendment by section 12001(a)(3) of Pub. L. 117–159, see Termination Date of 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+The Fair Credit Reporting Act, referred to in subsec. (b)(2)(C), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Codification
 
@@ -194,9 +246,13 @@ Section was formerly classified as a note under section 922 of Title 18, Crimes 
 
 #### Amendments
 
+<b>2022</b>—Subsec. (b). Pub. L. 117–159, §12004(h)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (l). Pub. L. 117–159, §12001(a)(2), (3), temporarily added subsec. (l). See Termination Date of 2022 Amendment note below.
+
 <b>2018</b>—Subsec. (e)(1)(F) to (K). Pub. L. 115–141, §602(1), added subpars. (F) to (K).
 
-Subsec. (g). Pub. L. 115–141, §602(2), inserted at end "For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection."
+Subsec. (g). Pub. L. 115–141, §602(2), inserted at end "For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee isthe subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection."
 
 <b>2008</b>—Subsec. (e)(1). Pub. L. 110–180 designated first and second sentences as subpars. (A) and (B), respectively, inserted subpar. headings, substituted "furnish electronic versions of the information described under subparagraph (A)" for "furnish such information" in subpar. (B), and added subpar. (C).
 
@@ -210,9 +266,41 @@ Subsec. (k). Pub. L. 104–294, §603(i)(1), amended directory language of Pub. 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Termination Date of 2022 Amendment
+
+Amendment by section 12001(a)(2) of Pub. L. 117–159 repealed effective Sept. 30, 2032, and section restored as if such amendment had not been enacted, see section 12001(a)(3) of Pub. L. 117–159, set out as an Effective and Termination Dates of 2022 Amendment note under section 922 of Title 18, Crimes and Criminal Procedure.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 603(i)(1) of Pub. L. 104–294 effective as if the amendment had been included in section 210603(b) of Pub. L. 103–322 on Sept. 13, 1994, see section 603(i)(2) of Pub. L. 104–294, set out as a note under section 40302 of this title.
+
+#### Short Title
+
+For short title of Pub. L. 110–180, which is classified to this chapter, as the "NICS Improvement Amendments Act of 2007", see section 1(a) of Pub. L. 110–180, set out as a Short Title of 2008 Act note under section 10101 of this title.
+
+#### Statutory Construction; Evidence
+
+Nothing in amendment made by section 12004(h)(1) of Pub. L. 117–159 to be construed to create a cause of action against any person licensed as an importer, manufacturer, or dealer of firearms under chapter 44 of Title 18, Crimes and Criminal Procedure, or any other person for any civil liability or to establish any standard of care, with additional provision relating to nonadmissibility of evidence, see section 12004(h)(4) of Pub. L. 117–159, set out as a note under section 534 of Title 28, Judiciary and Judicial Procedure.
+
+Nothing in amendment made by section 12004(h)(1) of Pub. L. 117–159 to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a Rule of Construction note under section 922 of Title 18, Crimes and Criminal Procedure.
+
+#### Report on Removing Outdated, Expired, or Erroneous Records
+
+Pub. L. 117–159, div. A, title II, §12001(b), June 25, 2022, 136 Stat. 1324, provided that:
+
+"(1)
+
+In general.—On an annual basis for each fiscal year through fiscal year 2032, each State and Federal agency responsible for the submission of disqualifying records under subsection (d), (g), or (n) of section 922 of title 18, United States Code, to the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901) shall submit to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives a report detailing the removal from the system of records that no longer prohibit an individual from lawfully acquiring or possessing a firearm under such subsection (d), (g), or (n).
+
+"(2)
+
+Contents.—Each report submitted by a State or Federal agency under paragraph (1) shall include pertinent information on—
+
+&emsp;"(A) the number of records that the State or Federal agency removed from the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901) during the reporting period;
+
+&emsp;"(B) why the records were removed; and
+
+&emsp;"(C) for each record removed, the nature of the disqualifying characteristic outlined in subsection (d), (g), or (n) of section 922 of title 18, United States Code, that caused the State or Federal agency to originally submit the record to the system."
 
 #### Destruction of Identifying Information for Persons Not Prohibited From Possessing or Receiving Firearms
 
@@ -238,7 +326,7 @@ Identification of Felons Ineligible To Purchase Handguns.—The Attorney General
 
 "(b)
 
-Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Nov. 18, 1988\], the Attorney General shall report to the Congress a description of the system referred to in subsection (a) and a plan (including a cost analysis of the proposed system) for implementation of the system. Such report may include, if appropriate, recommendations for modifications of the system and legislation necessary in order to fully implement such system.
+Report to Congress.—Not later than 1 year after the date of the enactment of this Act \[Nov. 18,1988\], the Attorney General shall report to the Congress a description of the system referred to in subsection (a) and a plan (including a cost analysis of the proposed system) for implementation of the system. Such report may include, if appropriate, recommendations for modifications of the system and legislation necessary in order to fully implement such system.
 
 "(c)
 

@@ -14,7 +14,7 @@
 
 #### (2) Deposit of funds
 
-&emsp;Grants provided under this chapter shall be deposited into the general operating fund of the tribally controlled school with respect to which the grant is made.
+&emsp;Grants provided under this chapter shall be deposited into the general operating fund ofthe tribally controlled school with respect to which the grant is made.
 
 #### (3) Use of funds
 
@@ -66,7 +66,7 @@ Nothing in this chapter may be construed—
 
 &emsp;(2) to allow any person to coerce any tribe or tribal organization to apply for, or accept,
 
-> a grant under this chapter to plan, conduct, and administer all of, or any portion of, any Bureauprogram. Such applications and the timing of such applications shall be strictly voluntary. Nothing in this chapter may be construed as allowing or requiring any grant with any entity other than the entity to which the grant is provided.
+> a grant under this chapter to plan, conduct, and administer all of, or any portion of, any Bureau program. Such applications and the timing of such applications shall be strictly voluntary. Nothing in this chapter may be construed as allowing or requiring any grant with any entity other than the entity to which the grant is provided.
 
 #### (e) No effect on Federal responsibility
 
@@ -100,7 +100,7 @@ Grants provided under this chapter may not be terminated, modified, suspended, o
 
 #### References in Text
 
-The Education Amendments of 1978, referred to in subsecs. (a)(1)(A) and (f)(3)(B), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
+The Education Amendments of 1978, referred to in subsecs. (a)(1)(A) and (f)(3)(B), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

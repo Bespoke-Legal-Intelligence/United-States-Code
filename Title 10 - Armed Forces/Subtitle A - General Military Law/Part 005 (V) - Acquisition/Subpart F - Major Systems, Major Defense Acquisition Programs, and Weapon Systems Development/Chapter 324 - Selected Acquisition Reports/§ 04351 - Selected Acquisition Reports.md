@@ -4,7 +4,7 @@
 
 &emsp;(1) The term "program acquisition unit cost", with respect to a major defense acquisition program, means the amount equal to (A) the total cost for development and procurement of, and system-specific military construction for, the acquisition program, divided by (B) the number of fully-configured end items to be produced for the acquisition program.
 
-&emsp;(2) The term "procurement unit cost", with respect to a major defense acquisition program, means the amount equal to (A) the total of all funds programmed to be available for obligation for procurement for the program, divided by (B) the number of fully-configured end items to be procured.
+&emsp;(2) The term "procurement unit cost", with respect to a major defense acquisition program, means the amount equal to (A) the totalof all funds programmed to be available for obligation for procurement for the program, divided by (B) the number of fully-configured end items to be procured.
 
 &emsp;(3) The term "major contract", with respect to a major defense acquisition program, means each of the six largest prime, associate, or Government-furnished equipment contracts under the program that is in excess of $40,000,000 and that is not a firm, fixed price contract.
 
@@ -96,7 +96,7 @@
 
 (g) The requirements of this section with respect to a major defense acquisition program or designated major subprogram shall cease to apply after 90 percent of the items to be delivered to the United States under the program or subprogram (shown as the total quantity of items to be purchased under the program or subprogram in the most recent Selected Acquisition Report) have been delivered or 90 percent of planned expenditures under the program or subprogram have been made.
 
-(h)(1) Total program reporting under this section shall apply to a major defense acquisition program when funds have been appropriated for such program and the Secretary of Defense hasdecided to proceed to system development and demonstration of such program. Reporting may be limited to the development program as provided in paragraph (2) before a decision is made by the Secretary of Defense to proceed to system development and demonstration if the Secretary notifies the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the intention to submit a limited report under this subsection not less than 15 days before a report is due under this section.
+(h)(1) Total program reporting under this section shall apply to a major defense acquisition program when funds have been appropriated for such program and the Secretary of Defense has decided to proceed to system development and demonstration of such program. Reporting may be limited to the development program as provided in paragraph (2) before a decision is made by the Secretary of Defense to proceed to system development and demonstration if the Secretary notifies the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the intention to submit a limited report under this subsection not less than 15 days before a report is due under this section.
 
 (2) A limited report under this subsection shall include the following:
 
@@ -226,7 +226,7 @@ Subsec. (h)(1). Pub. L. 104–106 substituted "Committee on Armed Services of th
 
 Subsec. (a)(3). Pub. L. 103–355, §3002(b), inserted before period at end "and that is not a firm, fixed price contract".
 
-Subsec. (a)(4). Pub. L. 103–355, §3002(c), substituted "means all costs of development, procurement, military construction, and operations and support, withoutregard to funding source or management control." for "has the meaning given the term 'cost of the program' in section 2434(b)(2) of this title."
+Subsec. (a)(4). Pub. L. 103–355, §3002(c), substituted "means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control." for "has the meaning given the term 'cost of the program' in section 2434(b)(2) of this title."
 
 Subsec. (b)(3)(A)(i). Pub. L. 103–355, §3002(h)(1), struck out "full scale development or" before "engineering".
 
@@ -242,7 +242,7 @@ Subsec. (f). Pub. L. 103–355, §3002(g), struck out last sentence which read a
 
 Subsec. (h)(1). Pub. L. 103–355, §3002(h)(3), substituted "engineering and manufacturing" for "full-scale engineering" in two places.
 
-<b>1992</b>—Subsec. (a)(3). Pub. L. 102–484, §817(c)(1), added par. (3) and struck out former par. (3) which read as follows: "The term 'major contract', with respect to a major defense acquisition program, means (A) each prime contract under the program, and (B) each associate or Government-furnished equipment contract under the program that is one of the six largest contracts under the program in dollar amount and that is in excess of $40,000,000."
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–484, §817(c)(1), added par. (3) and struck out former par. (3) which read as follows: "The term 'major contract', with respect to a major defense acquisition program, means (A) each prime contract under the program, and (B) each associate or Government-furnished equipment contractunder the program that is one of the six largest contracts under the program in dollar amount and that is in excess of $40,000,000."
 
 Subsec. (b)(3). Pub. L. 102–484, §817(c)(2), added par. (3) and struck out former par. (3) which read as follows: "A status report on a particular major defense acquisition program need not be included in any Selected Acquisition Report with the approval of the Committees on Armed Services of the Senate and House of Representatives."
 
@@ -316,7 +316,7 @@ Subsec. (g). Pub. L. 98–525, §1242(a)(5), added subsec. (g).
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
@@ -358,6 +358,32 @@ Pub. L. 99–500, §101(c) \[title X, §961(c)\], Oct. 18, 1986, 100 Stat. 1783�
 
 Pub. L. 97–252, title XI, §1107(c), Sept. 8, 1982, 96 Stat. 746, provided that: "Sections 139a \[now 10 U.S.C. 4351\] and 139b \[see 10 U.S.C. 4371 to 4375\] of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 1983, and shall apply beginning with respect to reports for the first quarter of fiscal year 1983. The repeal made by subsection (b) \[repealing section 811 of Pub. L. 94–106, formerly set out as a Reports to Congress of Acquisitions for Major Defense Systems note under section 2431 of this title\] shall take effect on January 1, 1983."
 
+#### Acquisition Reporting System
+
+Pub. L. 117–263, div. A, title VIII, §809(a), (b), Dec. 23, 2022, 136 Stat. 2705, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense shall institute a defense acquisition reporting system to replace the requirements of section 4351 of title 10, United States Code, as soon as practicable but not later than June 30, 2023.
+
+"(b)
+
+Elements.—The reporting system required under subsection (a) shall—
+
+&emsp;"(1) produce the information necessary to carry out the actions specified in chapter 325 of title 10, United States Code;
+
+&emsp;"(2) produce the information necessary to carry out the actions specified in sections 4217 and 4311 of the Atomic Energy Defense Act (50 U.S.C. 2537, 2577);
+
+&emsp;"(3) incorporate—
+
+&emsp;&emsp;"(A) the lessons learned from the demonstration carried out under subsection (b) of section 805 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1816); and
+
+&emsp;&emsp;"(B) the plans required under subsection (c) of such section (Public Law 117–81; 135 Stat. 1817);
+
+&emsp;"(4) provide the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and other designated Government entities with access to acquisition reporting that is updated on a not less than quarterly basis; and
+
+&emsp;"(5) include such other information and functions as the Secretary of Defense determines appropriate to support the acquisition reporting needs of the Department of Defense."
+
 #### Termination of Reporting Requirements
 
 For termination, effective Dec. 31, 2021, of provisions in this section requiring submittal of reports to Congress, see section 1051(x) of Pub. L. 115–91, set out as a note under section 111 of this title.
@@ -372,7 +398,7 @@ Pub. L. 100–180, div. A, title I, §127, Dec. 4, 1987, 101 Stat. 1044, as amen
 
 "(a)
 
-SAR Coverage for ATB, ACM, and ATA Programs.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives, in accordance with the provisions of subsection (b) of section 2432 of title 10, United States Code \[now 10 U.S.C. 4351(b)\], a Selected Acquisition Report with respect to each program referred to in subsection (b), notwithstanding that such a report would not otherwise be required under section 2432 of title 10, United States Code \[now 10 U.S.C. 4351\].
+SAR Coverage for ATB, ACM, and ATA Programs.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives, in accordance with the provisions of subsection (b) of section 2432 of title 10, UnitedStates Code \[now 10 U.S.C. 4351(b)\], a Selected Acquisition Report with respect to each program referred to in subsection (b), notwithstanding that such a report would not otherwise be required under section 2432 of title 10, United States Code \[now 10 U.S.C. 4351\].
 
 "(b)
 

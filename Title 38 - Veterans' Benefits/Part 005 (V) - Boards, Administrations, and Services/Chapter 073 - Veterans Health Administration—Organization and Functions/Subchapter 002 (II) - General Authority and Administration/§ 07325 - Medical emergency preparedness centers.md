@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Centers.—(1) The Secretary shall establish four medical emergency preparedness centers in accordance with this section. Each such center shall be established ata Department medical center and shall be staffed by Department employees.
+Establishment of Centers.—(1) The Secretary shall establish four medical emergency preparedness centers in accordance with this section. Each such center shall be established at a Department medical center and shall be staffed by Department employees.
 
 (2) The Under Secretary for Health shall be responsible for supervising the operation of the centers established under this section. The Under Secretary shall provide for ongoing evaluation of the centers and their compliance with the requirements of this section.
 
@@ -34,7 +34,7 @@ Selection of Centers.—(1) The Secretary shall select the sites for the centers
 
 (3) For purposes of paragraph (2)(A)—
 
-&emsp;(A) a qualifying medical school is an accredited medical school that provides education and training in toxicology and environmental health hazards and with which one or more of the participating Department medical centers is affiliated; and
+&emsp;(A) a qualifying medical school is an accredited medical school that provides education and training in toxicology and environmental health hazards and with which one or more ofthe participating Department medical centers is affiliated; and
 
 &emsp;(B) a qualifying school of public health is an accredited school of public health that provides education and training in toxicology and environmental health hazards and with which one or more of the participating Department medical centers is affiliated.
 
@@ -92,13 +92,13 @@ For transfer of functions, personnel, assets, and liabilities of the National Di
 
 #### Peer Review for Designation of Centers
 
-Pub. L. 107–287, §2(b), Nov. 7, 2002, 116 Stat. 2027, provided that:
+Pub. L. 107–287, §2(b), Nov. 7, 2002, 116 Stat. 2027, as amended by Pub. L. 117–286, §4(a)(221), Dec. 27, 2022, 136 Stat. 4330, provided that:
 
-"(1) In order to assist the Secretary of Veterans Affairs and the Under Secretary of Veterans Affairs for Health in selecting sites for centers under section 7325 of title 38, United States Code, as added by subsection (a), the Under Secretary shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the designation of such centers. The peer review panel shall be established in consultation with the Assistant Secretary of Veterans Affairs with responsibility for operations, preparedness, security, and law enforcement functions.
+"(1) In order to assist the Secretary of Veterans Affairs and the Under Secretary of Veterans Affairs forHealth in selecting sites for centers under section 7325 of title 38, United States Code, as added by subsection (a), the Under Secretary shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the designation of such centers. The peer review panel shall be established in consultation with the Assistant Secretary of Veterans Affairs with responsibility for operations, preparedness, security, and law enforcement functions.
 
 "(2) The peer review panel shall include experts in the fields of toxicological research, infectious diseases, radiology, clinical care of patients exposed to such hazards, and other persons as determined appropriate by the Secretary. Members of the panel shall serve as consultants to the Department of Veterans Affairs.
 
 "(3) The panel shall review each proposal submitted to the panel by the officials referred to in paragraph (1) and shall submit to the Under Secretary for Health its views on the relative scientific and clinical merit of each such proposal. The panel shall specifically determine with respect to each such proposal whether that proposal is among those proposals which have met the highest competitive standards of scientific and clinical merit.
 
-"(4) The panel shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.)."
+"(4) The panel shall not be subject to chapter 10 of title 5, United States Code."
 

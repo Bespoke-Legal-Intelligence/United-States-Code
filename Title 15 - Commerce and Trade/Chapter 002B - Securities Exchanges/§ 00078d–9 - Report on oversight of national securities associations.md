@@ -38,7 +38,7 @@ Not later than 2 years after July 21, 2010, and every 3 years thereafter, the Co
 
 #### (1) Reimbursements required
 
-&emsp;The Commission shall reimburse the Government Accountability Office for the full costof making the reports under subsection (a), as billed therefor by the Comptroller General.
+&emsp;The Commission shall reimburse the Government Accountability Office for the full cost of making the reports under subsection (a), as billed therefor by the Comptroller General.
 
 #### (2) Crediting and use of reimbursements
 
@@ -60,7 +60,7 @@ Section was enacted as part of the Investor Protection and Securities Reform Act
 
 #### Effective Date
 
-Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, setout as a note under section 5301 of Title 12, Banks and Banking.
 
 #### Definitions
 

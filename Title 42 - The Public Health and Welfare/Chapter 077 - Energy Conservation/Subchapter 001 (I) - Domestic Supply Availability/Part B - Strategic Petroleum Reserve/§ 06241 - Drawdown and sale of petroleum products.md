@@ -52,7 +52,7 @@ Prior notice.—Not less than 14 days before the date on which a test is carried
 
 &emsp;(B)
 
-Emergency.—The prior notice requirement in subparagraph (A) shall not apply if the Secretary determines that an emergency exists which requires a test to be carried out, in which case the Secretary shall notify bothHouses of Congress of the test as soon as possible.
+Emergency.—The prior notice requirement in subparagraph (A) shall not apply if the Secretary determines that an emergency exists which requires a test to be carried out, in which case the Secretary shall notify both Houses of Congress of the test as soon as possible.
 
 &emsp;(C)
 
@@ -146,7 +146,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 &emsp;&emsp;(A) the State of Hawaii, in addition to having the opportunity to submit a competitive bid, may—
 
-&emsp;&emsp;&emsp;(i) submit a binding offer, and shall on submission of the offer, be entitled to purchase a category of a petroleum product specified in a notice of sale at a price equal to the volumetrically weighted average of the successful bids made for the remaining quantity of the petroleum product withinthe category that is the subject of the offering; and
+&emsp;&emsp;&emsp;(i) submit a binding offer, and shall on submission of the offer, be entitled to purchase a category of a petroleum product specified in a notice of sale at a price equal to the volumetrically weighted average of the successful bids made for the remaining quantity of the petroleum product within the category that is the subject of the offering; and
 
 &emsp;&emsp;&emsp;(ii) submit one or more alternative offers, for other categories of the petroleum product, that will be binding if no price competitive contract is awarded for the category of petroleum product on which a binding offer is submitted under clause (i); and
 
@@ -216,7 +216,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 #### References in Text
 
-This chapter, referred to in subsec. (j)(6), (7)(A), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsec. (j)(6), (7)(A), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Amendments
 
@@ -332,7 +332,7 @@ Pub. L. 115–141, div. D, title III, Mar. 23, 2018, 132 Stat. 520.
 
 Pub. L. 115–141, div. O, title V, §501(a), (b), Mar. 23, 2018, 132 Stat. 1079, 1080.
 
-Pub. L. 115–123, div. C, title II, §30204(a), (b), Feb. 9, 2018, 132 Stat. 126, 127.
+Pub. L. 115–123, div. C, title II, §30204(a), (b), Feb. 9, 2018, 132 Stat. 126, 127, as amended by Pub. L. 117–328, div. M, title III, §1301(d), Dec. 29, 2022, 136 Stat. 5194.
 
 Pub. L. 115–97, title II, §20003, Dec. 22, 2017, 131 Stat. 2237.
 
@@ -340,7 +340,7 @@ Pub. L. 115–56, div. D, §158, as added by Pub. L. 115–123, div. B, §20101(
 
 Pub. L. 114–255, div. A, title V, §5010(a), (b), Dec. 13, 2016, 130 Stat. 1197, 1198.
 
-Pub. L. 114–94, div. C, title XXXII, §32204, Dec. 4, 2015, 129 Stat. 1740.
+Pub. L. 114–94, div. C, title XXXII, §32204, Dec. 4, 2015, 129 Stat. 1740, as amended by Pub. L. 117–328, div. M, title III, §1301(c), Dec. 29, 2022, 136 Stat. 5194.
 
-Pub. L. 114–74, title IV, §403, Nov. 2, 2015, 129 Stat. 589.
+Pub. L. 114–74, title IV, §403, Nov. 2, 2015, 129 Stat. 589, as amended by Pub. L. 117–328, div. M, title III, §1301(b), Dec. 29, 2022, 136 Stat. 5194.
 

@@ -216,7 +216,7 @@ In administering the Program, the Secretary shall—
 
 #### (A) Administration
 
-&emsp;&emsp;The Secretary shall carry out this subsection through the Administrator of the Rural Business-Cooperative Service, in coordination with the Administrator of the Agricultural Marketing Service.
+&emsp;&emsp;The Secretary shall carry out this subsection through the Administrator of theRural Business-Cooperative Service, in coordination with the Administrator of the Agricultural Marketing Service.
 
 #### (B) Eligible entities
 
@@ -390,7 +390,7 @@ In administering the Program, the Secretary shall—
 
 #### (4) Contribution
 
-&emsp;A partnership receiving a grant under paragraph (2) shall provide funding in an amountequal to not less than 25 percent of the total amount of the Federal portion of the grant.
+&emsp;A partnership receiving a grant under paragraph (2) shall provide funding in an amount equal to not less than 25 percent of the total amount of the Federal portion of the grant.
 
 #### (5) Applications
 
@@ -506,7 +506,7 @@ In carrying out the Program, to the maximum extent practicable, the Secretary sh
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), of the funds made available to carry out this section for afiscal year, 35 percent shall be used for grants under subsection (d)(5).
+&emsp;&emsp;&emsp;Subject to clause (ii), of the funds made available to carry out this section for a fiscal year, 35 percent shall be used for grants under subsection (d)(5).
 
 #### (ii) Reservation of funds
 

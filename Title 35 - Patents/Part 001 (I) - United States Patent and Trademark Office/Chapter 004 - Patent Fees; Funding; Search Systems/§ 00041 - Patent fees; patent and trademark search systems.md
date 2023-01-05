@@ -20,7 +20,7 @@ Filing and basic national fees.—
 
 &emsp;&emsp;(F) The basic national fee for each international application filed under the treaty defined in section 351(a) entering the national stage under section 371, $330.
 
-&emsp;&emsp;(G) In addition, excluding any sequence listing or computer program listing filed in an electronic medium as prescribed by the Director, for any application the specification and drawings of which exceed 100 sheets of paper (or equivalent as prescribed by the Director if filed in an electronic medium), $270 for each additional 50 sheets of paper (or equivalent as prescribed by the Director iffiled in an electronic medium) or fraction thereof.
+&emsp;&emsp;(G) In addition, excluding any sequence listing or computer program listing filed in an electronic medium as prescribed by the Director, for any application the specification and drawings of which exceed 100 sheets of paper (or equivalent as prescribed by the Director if filed in an electronic medium), $270 for each additional 50 sheets of paper (or equivalent as prescribed by the Director if filed in an electronic medium) or fraction thereof.
 
 &emsp;(2)
 
@@ -136,7 +136,7 @@ Acceptance.—The Director may accept the payment of any maintenance fee require
 
 &emsp;(2)
 
-Effect on rights of others.—A patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall not abridge or affect the right of any person or that person's successors in business who made, purchased, offered to sell, or used anything protected by the patent within the United States, or imported anything protected by the patent into the United States after the 6-month grace period but prior to the acceptance of a maintenance fee under this subsection, to continue the use of, to offer for sale, or to sell to others to be used, offered for sale, or sold, the specific thing so made, purchased, offered for sale, used, or imported. The court before which such matter is in question may provide for the continued manufacture, use, offer for sale, or sale of the thing made, purchased, offered for sale, or used within the United States, or imported into the United States, as specified, or for the manufacture, use, offer for sale, or sale in the United States of which substantial preparation was made after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, and the court may also provide for the continued practice of any process that is practiced, or for the practice of which substantial preparation was made, after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced after the 6-month grace period but before the acceptance of a maintenance fee under this subsection.
+Effect on rights of others.—A patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall not abridge or affect the right of any person or that person's successors in business who made, purchased, offered to sell, or used anything protected by the patent within the United States, or imported anything protected by the patent into the United States after the 6-month grace period but prior to the acceptance of a maintenance fee under this subsection, to continue the use of, to offer for sale, or to sell to others to be used, offered for sale, or sold, the specific thing so made, purchased, offered for sale, used, or imported. The court before which such matter is in question may provide for the continued manufacture, use, offer for sale, or sale of the thing made, purchased, offered for sale, or used within the United States, or imported into the United States, as specified, or for the manufacture, use, offer for sale, or sale in the United States of which substantial preparation was made after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, and the court may also provide forthe continued practice of any process that is practiced, or for the practice of which substantial preparation was made, after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced after the 6-month grace period but before the acceptance of a maintenance fee under this subsection.
 
 (d)
 
@@ -206,7 +206,7 @@ Fees for Small Entities.—
 
 &emsp;(1)
 
-Reductions in fees.—Subject to paragraph (3), fees charged under subsections (a), (b), and (d)(1) shall be reduced by 50 percent with respect to their application to any small business concern as defined under section 3 of the Small Business Act, and to any independent inventor or nonprofit organization as defined in regulations issued by the Director.
+Reductions in fees.—Subject to paragraph (3), fees charged under subsections (a), (b), and (d)(1) shall be reduced by 60 percent with respect to their application to any small business concern as defined under section 3 of the Small Business Act, and to any independent inventor or nonprofit organization as defined in regulations issued by the Director.
 
 &emsp;(2)
 
@@ -214,7 +214,7 @@ Surcharges and other fees.—With respect to its application to any entity descr
 
 &emsp;(3)
 
-Reduction for electronic filing.—The fee charged under subsection (a)(1)(A) shall be reduced by 75 percent with respect to its application to any entity to which paragraph (1) applies, if the application is filed by electronic means as prescribed by the Director.
+Reduction for electronic filing.—The fee charged under subsection (a)(1)(A) shall be reduced by 80 percent with respect to its application to any entity to which paragraph (1) applies, if the application is filed by electronic means as prescribed by the Director.
 
 (i)
 
@@ -230,13 +230,17 @@ Availability of automated search systems.—The Director shall provide for the f
 
 &emsp;(3)
 
-Access fees.—The Director may establish reasonable fees for access by the public to the automated search systems of the Patent and Trademark Office. If such fees are established, a limited amount of free access shall be made available to users of the systems for purposes of education and training. The Director may waive the payment by an individual of fees authorized by this subsection upon a showing of need or hardship, and if such a waiver is in the public interest.
+Access fees.—The Director may establish reasonable fees for access by the public tothe automated search systems of the Patent and Trademark Office. If such fees are established, a limited amount of free access shall be made available to users of the systems for purposes of education and training. The Director may waive the payment by an individual of fees authorized by this subsection upon a showing of need or hardship, and if such a waiver is in the public interest.
 
 &emsp;(4)
 
 Annual report to congress.—The Director shall submit to the Congress an annual report on the automated search systems of the Patent and Trademark Office and the access by the public to such systems. The Director shall also publish such report in the Federal Register. The Director shall provide an opportunity for the submission of comments by interested persons on each such report.
 
-(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, §3(a)–(e), Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, §101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, §204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, §1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, §5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, §1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988; Pub. L. 105–358, §3, Nov. 10, 1998, 112 Stat. 3272; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, 1501A–570, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§11(a)–(e), 20(j), Sept. 16, 2011, 125 Stat. 320–323, 335; Pub. L. 112–211, title II, §202(b)(1), Dec. 18, 2012, 126 Stat. 1535.)
+(j)
+
+Penalty for False Assertions.—In addition to any other penalty available under law, an entity that is found to have falsely asserted entitlement to a fee reduction under this section shall be subject to a fine, to be determined by the Director, the amount of which shall be not less than 3 times the amount that the entity failed to pay as a result of the false assertion, whether the Director discovers the false assertion before or after the date on which a patent has been issued.
+
+(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, §3(a)–(e), Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, §101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, §204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, §1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, §5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, §1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988; Pub. L. 105–358, §3, Nov. 10, 1998, 112 Stat. 3272; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, 1501A–570, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§11(a)–(e), 20(j), Sept. 16, 2011, 125 Stat. 320–323, 335; Pub. L. 112–211, title II, §202(b)(1), Dec. 18, 2012, 126 Stat. 1535; Pub. L. 117–328, div. W, §107(a), (b)(1), Dec. 29, 2022, 136 Stat. 5521.)
 
 #### Historical and Revision Notes
 
@@ -265,6 +269,12 @@ The fee for reissue applications is changed slightly.
 Section 3 of the Small Business Act, referred to in subsec. (h)(1), is classified to section 632 of Title 15, Commerce and Trade.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h)(1). Pub. L. 117–328, §107(a)(1), substituted "60 percent" for "50 percent".
+
+Subsec. (h)(3). Pub. L. 117–328, §107(a)(2), substituted "80 percent" for "75 percent".
+
+Subsec. (j). Pub. L. 117–328, §107(b)(1), added subsec. (j).
 
 <b>2012</b>—Subsec. (a)(7). Pub. L. 112–211, §202(b)(1)(A), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: "On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in any reexamination proceeding, $1,620, unless the petition is filed under section 133 or 151, in which case the fee shall be $540."
 
@@ -362,7 +372,7 @@ Subsec. (a). Pub. L. 102–204, §5(a)(1), amended subsec. (a) generally. Prior 
 
 &emsp;"d. On issuing each plant patent, $250.
 
-"4. On filing each application for the reissue of a patent, $300; in addition, on filing or on presentation atany other time, $30 for each claim in independent form which is in excess of the number of independent claims of the original patent, and $10 for each claim (whether independent or dependent) which is in excess of twenty and also in excess of the number of claims of the original patent. Errors in payment of the additional fees may be rectified in accordance with regulations of the Commissioner.
+"4. On filing each application for the reissue of a patent, $300; in addition, on filing or on presentation at any other time, $30 for each claim in independent form which is in excess of the number of independent claims of the original patent, and $10 for each claim (whether independent or dependent) which is in excess of twenty and also in excess of the number of claims of the original patent. Errors in payment of the additional fees may be rectified in accordance with regulations of the Commissioner.
 
 "5. On filing each disclaimer, $50.
 
@@ -508,7 +518,7 @@ Pub. L. 102–204, §13, Dec. 10, 1991, 105 Stat. 1642, provided that: "This Act
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–622, title II, §207, Nov. 8, 1984, 98 Stat. 3389, provided that: "Section 206 of this Act \[98 Stat. 3388\] and the amendments made by this title \[amending this section, sections 7, 134, 135, 141, 145, 146, and 305 of this title, section 1295 of Title 28, Judiciary and Judicial Procedure, and sections 2182 and 2457 of Title 42, The Public Health and Welfare\] shall take effect three months after the date of the enactment of this Act \[Nov. 8, 1984\]."
+Pub. L. 98–622, title II, §207, Nov. 8, 1984, 98 Stat. 3389, provided that: "Section 206 of this Act \[98 Stat. 3388\] and the amendments made by this title \[amending this section, sections 7, 134, 135, 141, 145, 146, and 305 of this title, section 1295 of Title 28, Judiciary and JudicialProcedure, and sections 2182 and 2457 of Title 42, The Public Health and Welfare\] shall take effect three months after the date of the enactment of this Act \[Nov. 8, 1984\]."
 
 #### Effective Date of 1982 Amendment
 
@@ -556,7 +566,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (i)(4) of this
 
 #### Fee Setting Authority
 
-Pub. L. 112–29, §10, Sept. 16, 2011, 125 Stat. 316, as amended by Pub. L. 115–273, §4, Oct. 31, 2018, 132 Stat. 4159, provided that:
+Pub. L. 112–29, §10, Sept. 16, 2011, 125 Stat. 316, as amended by Pub. L. 115–273, §4, Oct. 31, 2018, 132 Stat. 4159; Pub. L. 117–328, div. W, §107(c), Dec. 29, 2022, 136 Stat. 5522, provided that:
 
 "(a)
 
@@ -572,7 +582,7 @@ Fees to recover costs.—Fees may be set or adjusted under paragraph (1) only to
 
 "(b)
 
-Small and Micro Entities.—The fees set or adjusted under subsection (a) for filing, searching, examining, issuing, appealing, and maintaining patent applications and patents shall be reduced by 50 percent with respect to the application of such fees to any small entity that qualifies for reduced fees under section 41(h)(1) of title 35, United States Code, and shall be reduced by 75 percent with respect to the application of such fees to any micro entity as defined in section 123 of that title (as added by subsection (g) of this section).
+Small and Micro Entities.—The fees set or adjusted under subsection (a) for filing, searching, examining, issuing, appealing, and maintaining patent applications and patents shall be reduced by 60 percent with respect to the application of such fees to any small entity that qualifies for reduced fees under section 41(h)(1) of title 35, United States Code, and shall be reduced by 80 percent with respect to the application of such fees to any micro entity as defined in section 123 of that title (as added by subsection (g) of this section).
 
 "(c)
 
@@ -586,7 +596,7 @@ Reduction of Fees in Certain Fiscal Years.—In each fiscal year, the Director�
 
 Role of the Public Advisory Committee.—The Director shall—
 
-&emsp;"(1) not less than 45 days before publishing any proposed fee under subsection (a) in the Federal Register, submit the proposed fee to the Patent Public Advisory Committee or the Trademark Public Advisory Committee, or both, as appropriate;
+&emsp;"(1) not less than 45 days before publishing any proposed fee under subsection (a) in the Federal Register, submit the proposed fee to the Patent PublicAdvisory Committee or the Trademark Public Advisory Committee, or both, as appropriate;
 
 &emsp;"(2)(A) provide the relevant advisory committee described in paragraph (1) a 30-day period following the submission of any proposed fee, in which to deliberate, consider, and comment on such proposal;
 
@@ -728,7 +738,7 @@ Effective date.—This subsection shall take effect on the date that is 10 days 
 
 &emsp;"(B)
 
-Termination.—The fee imposed under paragraph (1)(A)(i), and the reduced fee under paragraph (2), shall terminate on the effective date of the setting or adjustment of the fee under paragraph (1)(A)(i) pursuant to the exercise of the authority under section 10 \[enacting section 123 of this title and provisions set out as a note under this section\] for the first time with respect to that fee."
+Termination.—The fee imposed under paragraph (1)(A)(i), and the reduced fee under paragraph (2), shall terminate on the effective date of the setting or adjustment of the fee under paragraph\(1)(A)(i) pursuant to the exercise of the authority under section 10 \[enacting section 123 of this title and provisions set out as a note under this section\] for the first time with respect to that fee."
 
 #### Appropriation Account Transition Fees
 
@@ -834,7 +844,7 @@ Excess claims fees.—In addition to the fee specified in paragraph (1)—
 
 &emsp;&emsp;" '(C) for each application containing a multiple dependent claim, $360.
 
-> For the purpose of computing fees under this paragraph, a multiple dependent claim referred to in section 112 of this title or any claim depending therefrom shall be considered as separate dependent claims in accordance with the number of claims to which reference is made. The Director may by regulation provide for a refund of any part of the fee specified in this paragraph for any claim that is canceled before an examinationon the merits, as prescribed by the Director, has been made of the application under section 131 of this title. Errors in payment of the additional fees under this paragraph may be rectified in accordance with regulations prescribed by the Director.
+> For the purpose of computing fees under this paragraph, a multiple dependent claim referred to in section 112 of this title or any claim depending therefrom shall be considered as separate dependent claims in accordance with the number of claims to which reference is made. The Director may by regulation provide for a refund of any part of the fee specified in this paragraph for any claim that is canceled before an examination on the merits, as prescribed by the Director, has been made of the application under section 131 of this title. Errors in payment of the additional fees under this paragraph may be rectified in accordance with regulations prescribed by the Director.
 
 &emsp;" '(3)
 
@@ -1120,7 +1130,7 @@ Pub. L. 101–508, title X, §10103, Nov. 5, 1990, 104 Stat. 1388–392, provide
 
 #### Public Access to Patent and Trademark Office Information
 
-Pub. L. 100–703, title I, §104(b), (c), Nov. 19, 1988, 102 Stat. 4675, provided that the Commissioner of Patents and Trademarks maintain patent and trademark collections, search rooms, and libraries for use by the public without fees and authorized establishment of fees for access by the public to automated search systems ofthe Patent and Trademark Office, prior to repeal by Pub. L. 102–204, §9, Dec. 10, 1991, 105 Stat. 1641. See section 41(i) of this title.
+Pub. L. 100–703, title I, §104(b), (c), Nov. 19, 1988, 102 Stat. 4675, provided that the Commissioner of Patents and Trademarks maintain patent and trademark collections, search rooms, and libraries for use by the public without fees and authorized establishment of fees for access by the public to automated search systems of the Patent and Trademark Office, prior to repeal by Pub. L. 102–204, §9, Dec. 10, 1991, 105 Stat. 1641. See section 41(i) of this title.
 
 Pub. L. 99–607, §4, Nov. 6, 1986, 100 Stat. 3471, provided that the Commissioner of Patents and Trademarks could not impose a fee for use of public patent or trademark search rooms and libraries and that costs of such rooms and libraries should come from amounts appropriated by Congress, prior to repeal by Pub. L. 100–703, title I, §104(a), Nov. 19, 1988, 102 Stat. 4675.
 

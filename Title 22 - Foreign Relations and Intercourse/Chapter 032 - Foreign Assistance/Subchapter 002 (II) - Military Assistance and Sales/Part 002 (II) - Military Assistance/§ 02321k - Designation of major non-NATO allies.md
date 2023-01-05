@@ -18,9 +18,9 @@ Australia, Egypt, Israel, Japan, the Republic of Korea, and New Zealand shall be
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (a)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 2751 of this title and Tables.
 
 The effective date of this section, referred to in subsec. (b), is July 21, 1996, the date of enactment of Pub. L. 104–164, which enacted this section.
 
@@ -28,11 +28,13 @@ The effective date of this section, referred to in subsec. (b), is July 21, 1996
 
 A prior section 2321k, Pub. L. 87–195, pt. II, §517, as added Pub. L. 101–231, §5, Dec. 13, 1989, 103 Stat. 1957; amended Pub. L. 101–623, §15, Nov. 21, 1990, 104 Stat. 3357; Pub. L. 102–583, §9(a), Nov. 2, 1992, 106 Stat. 4934; Pub. L. 103–236, title VII, §731(b), Apr. 30, 1994, 108 Stat. 502, related to modernization of counternarcotics capabilities of certain Latin America and Caribbean countries, prior to repeal by Pub. L. 104–164, title I, §104(b)(2)(B), July 21, 1996, 110 Stat. 1427.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Treatment of Taiwan Relating to Transfers of Defense Articles and Defense Services
 
 Pub. L. 107–228, div. B, title XII, §1206, Sept. 30, 2002, 116 Stat. 1428, provided that: "Notwithstanding any other provision of law, for purposes of the transfer or possible transfer of defense articles or defense services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), or any other provision of law, Taiwan shall be treated as though it were designated a major non-NATO ally (as defined in section 644(q) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(q))\[)\]."
 
-\[For definitions of "defense article" and "defense service" as used in section 1206 of Pub. L. 107–228, setout above, see section 1002 of Pub. L. 107–228, set out as a note under section 2151 of this title.\]
+\[For definitions of "defense article" and "defense service" as used in section 1206 of Pub. L. 107–228, set out above, see section 1002 of Pub. L. 107–228, set out as a note under section 2151 of this title.\]
 
 #### <b>Executive Documents</b>
 
@@ -42,13 +44,17 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Presidential Determinations Relating to Designations of Countries as Major Non-NATO Allies
 
-The following Presidential Determinations designated the countries listed as major non-NATO allies of the United States for purposes of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) and the Arms Export Control Act (22 U.S.C. 2751 et seq.):
+The following Presidential Determinations related to the designation or termination of the countries listed as major non-NATO allies of the United States for purposes of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) and the Arms Export Control Act (22 U.S.C. 2751 et seq.):
+
+Afghanistan.—Determination No. 2012–11, dated July 6, 2012, released July 7, 2012, not published in Federal Register. Terminated by Determination No. 2022–24, Sept. 23, 2022, 87 F.R. 60057.
 
 Argentina.—Determination No. 98–9, Jan. 6, 1998, 63 F.R. 3635.
 
 Bahrain.—Determination No. 2002–10, Mar. 14, 2002, 67 F.R. 13247.
 
 Brazil.—Determination No. 2019–21, July 31, 2019, 84 F.R. 43035.
+
+Colombia.—Determination No. 2022–14, May 23, 2022, 87 F.R. 32943.
 
 Jordan.—Determination No. 97–4, Nov. 12, 1996, 61 F.R. 59809.
 
@@ -59,6 +65,8 @@ Morocco.—Determination No. 2004–35, June 3, 2004, 69 F.R. 34049.
 Pakistan.—Determination No. 2004–37, June 16, 2004, 69 F.R. 38797.
 
 Philippines.—Determination No. 2004–02, Oct. 6, 2003, 68 F.R. 59855.
+
+Qatar.—Determination No. 2022–10, Mar. 10, 2022, 87 F.R. 15025.
 
 Thailand.—Determination No. 2004–16, Dec. 30, 2003, 69 F.R. 2053.
 

@@ -28,7 +28,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Any alien with permanent resident status on a conditional basis under section 1186a of this title (relating to conditional permanent resident status for certain alien spouses and sons and daughters) orunder section 1186b of this title (relating to conditional permanent resident status for certain alien entrepreneurs, spouses, and children) who has had such status terminated under such respective section is deportable.
+&emsp;&emsp;&emsp;Any alien with permanent resident status on a conditional basis under section 1186a of this title (relating to conditional permanent resident status for certain alien spouses and sons and daughters) or under section 1186b of this title (relating to conditional permanent resident status for certain alien entrepreneurs, spouses, and children) who has had such status terminated under such respective section is deportable.
 
 #### (ii) Exception
 
@@ -108,7 +108,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (i) Conviction
 
-&emsp;&emsp;&emsp;Any alien who at any time after admission has been convicted of a violation of (or a conspiracy or attempt to violate) any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21), other than a single offense involving possession for one's own use of 30 grams or less of marijuana, is deportable.
+&emsp;&emsp;&emsp;Any alien who at any time after admission has been convicted of a violation of\(or a conspiracy or attempt to violate) any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21), other than a single offense involving possession for one's own use of 30 grams or less of marijuana, is deportable.
 
 #### (ii) Drug abusers and addicts
 
@@ -172,7 +172,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (ii) Waiver authorized
 
-&emsp;&emsp;&emsp;The Attorney General may waive clause (i) in the case of an alien lawfully admitted for permanent residence if no previous civil money penalty was imposed against the alien under section 1324c of this title and the offense was incurred solely to assist, aid, or support the alien's spouse or child (and no other individual). No court shall have jurisdiction to review a decision of the Attorney General to grant or deny a waiver under this clause.
+&emsp;&emsp;&emsp;The Attorney General may waive clause (i) in the case of an alien lawfully admitted for permanent residence if no previous civil money penalty was imposed against the alien under section 1324c of this title and the offense was incurred solely to assist, aid, or support the alien's spouse orchild (and no other individual). No court shall have jurisdiction to review a decision of the Attorney General to grant or deny a waiver under this clause.
 
 #### (D) Falsely claiming citizenship
 
@@ -254,7 +254,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) that did not result in serious bodily injury; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) where there was a connection between the crime and the alien's having been battered or subjected to extreme cruelty.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) where there was a connection between the crime and the alien's havingbeen battered or subjected to extreme cruelty.
 
 #### (B) Credible evidence considered
 
@@ -298,9 +298,9 @@ The Military Selective Service Act, referred to in subsec. (a)(2)(D)(iii), is ac
 
 The Trading With the Enemy Act, referred to in subsec. (a)(2)(D)(iii), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, which was classified to sections 1 to 6, 7 to 39 and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 53 (§4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-The Alien Registration Act, 1940, referred to in subsec. (a)(3)(B)(i), is act June 28, 1940, ch. 439, 54 Stat. 670, as amended. Section 36(a) of that act was classified to section 457(c) of this title and was repealed by section 403(a)(39) of act June 27, 1952.
+The Alien Registration Act, 1940, referred to in subsec. (a)(3)(B)(i), is act June 28, 1940, ch. 439, 54 Stat. 670. Section 36(a) of that act was classified to section 457(c) of this title and was repealed by section 403(a)(39) of act June 27, 1952.
 
-The Foreign Agents Registration Act of 1938, referred to in subsec. (a)(3)(B)(ii), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
+The Foreign Agents Registration Act of 1938, referred to in subsec. (a)(3)(B)(ii), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
 
 Section was formerly classified to section 1251 of this title prior to renumbering by Pub. L. 104–208.
 
@@ -474,7 +474,7 @@ Subsec. (a)(20). Pub. L. 100–525, §2(n)(2), substituted "an alien lawfully ad
 
 Subsec. (a)(10). Pub. L. 99–653 repealed par. (10). Prior to repeal, par. (10) read as follows: "entered the United States from foreign contiguous territory or adjacent islands, having arrived there on a vessel or aircraft of a nonsignatory transportation company under section 1228(a) of this title and was without the required period of stay in such foreign contiguous territory or adjacent islands following such arrival (other than an alien described in section 1101(a)(27)(A) of this title and aliens born in the Western Hemisphere);".
 
-Subsec. (a)(11). Pub. L. 99–570 substituted "any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21)" for "any law or regulation relating to the illicit possession of or traffic in narcotic drugs or marihuana, or who has been convicted of a violation of, or a conspiracy to violate, any law or regulation governing or controlling the taxing, manufacture, production, compounding, transportation, sale, exchange, dispensing, giving away, importation, exportation, or the possession for the purpose of the manufacture, production, compounding, transportation, sale, exchange, dispensing, giving away, importation, or exportation of opium, coca leaves, heroin, marihuana, any salt derivative or preparation of opium or coca leaves or isonipecaine or any addiction-forming or addiction-sustaining opiate".
+Subsec. (a)(11). Pub. L. 99–570 substituted "any law or regulation of a State, the United States, or a foreign country relating to a controlled substance (as defined in section 802 of title 21)" for "any law or regulation relating to the illicit possession of or traffic in narcotic drugs or marihuana, or who has been convicted of a violation of, or a conspiracy to violate, any law or regulation governing or controlling the taxing, manufacture,production, compounding, transportation, sale, exchange, dispensing, giving away, importation, exportation, or the possession for the purpose of the manufacture, production, compounding, transportation, sale, exchange, dispensing, giving away, importation, or exportation of opium, coca leaves, heroin, marihuana, any salt derivative or preparation of opium or coca leaves or isonipecaine or any addiction-forming or addiction-sustaining opiate".
 
 Subsec. (a)(20). Pub. L. 99–603 added par. (20).
 
@@ -528,7 +528,7 @@ Pub. L. 106–395, title II, §201(c)(3), Oct. 30, 2000, 114 Stat. 1635, provide
 
 #### Effective Date of 1996 Amendments
 
-Amendment by sections 301(d), 305(a)(2), and 308(d)(2)(A)–(C), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5)of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by sections 301(d), 305(a)(2), and 308(d)(2)(A)–(C), (3)(A), (e)(1)(E), (2)(C), (f)(1)(L)–(N), (5) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Pub. L. 104–208, div. C, title III, §308(d)(2)(D), Sept. 30, 1996, 110 Stat. 3009–617, provided that the amendment made by section 308(d)(2)(D) is effective Sept. 30, 1996.
 

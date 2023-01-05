@@ -22,7 +22,7 @@ Except as provided in subsection (b), the costs of decontamination, decommission
 
 #### (A) To individual active site uranium licensees
 
-&emsp;&emsp;The amount of reimbursement paid to any licensee under paragraph (1) shall be determined by the Secretary in accordance with regulations issued pursuant to section 2296a–1 of this title and, for uranium mill tailings only, shall not exceed an amount equal to $6.25 multiplied by the dry shorttons of byproduct material located on October 24, 1992, at the site of the activities of such licensee described in subsection (a), and generated as an incident of sales to the United States.
+&emsp;&emsp;The amount of reimbursement paid to any licensee under paragraph (1) shall be determined by the Secretary in accordance with regulations issued pursuant to section 2296a–1 of this title and, for uranium mill tailings only, shall not exceed an amount equal to $6.25 multiplied by the dry short tons of byproduct material located on October 24, 1992, at the site of the activities of such licensee described in subsection (a), and generated as an incident of sales to the United States.
 
 #### (B) To all active site uranium licensees
 
@@ -58,7 +58,7 @@ Except as provided in subsection (b), the costs of decontamination, decommission
 
 #### (ii) In the event of excess
 
-&emsp;&emsp;&emsp;If the Secretary determines under clause (i) that there is an excess, the Secretary may allow reimbursement in excess of $6.25 per dry short ton on a prorated basis at such sites where the costs reimbursable under subsection (b)(1) exceed the $6.25 per dry short ton limitation described in paragraph (2) of such subsection.
+&emsp;&emsp;&emsp;If the Secretary determines under clause (i) that there is an excess, the Secretary may allow reimbursement in excess of $6.25 per dry short ton on a prorated basis at such sites where the costs reimbursable under subsection (b)(1) exceed the $6.25 perdry short ton limitation described in paragraph (2) of such subsection.
 
 #### (3) Byproduct location
 

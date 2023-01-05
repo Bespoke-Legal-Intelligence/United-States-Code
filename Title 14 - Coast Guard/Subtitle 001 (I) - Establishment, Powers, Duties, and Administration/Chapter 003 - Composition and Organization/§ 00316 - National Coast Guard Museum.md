@@ -24,7 +24,7 @@ Funding Plan.—Not later than 2 years after the date of the enactment of the El
 
 &emsp;(3) an explanation of any environmental remediation issues related to the land associated with the Museum; and
 
-&emsp;(4) a certification by the Inspector General of the department in which the Coast Guard is operating that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
+&emsp;(4) a certification by a third party entity qualified to undertake such a certification process that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
 
 (d)
 
@@ -72,7 +72,7 @@ Museum.—The term "Museum" means the National Coast Guard Museum.
 
 Association.—The term "Association" means the National Coast Guard Museum Association.
 
-(Added Pub. L. 108–293, title II, §213(a), Aug. 9, 2004, 118 Stat. 1037, §98; amended Pub. L. 114–120, title II, §219, Feb. 8, 2016, 130 Stat. 48; renumbered §316 and amended Pub. L. 115–282, title I, §104(b), title III, §303, Dec. 4, 2018, 132 Stat. 4196, 4243; Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8439(a), Jan. 1, 2021, 134 Stat. 4737.)
+(Added Pub. L. 108–293, title II, §213(a), Aug. 9, 2004, 118 Stat. 1037, §98; amended Pub. L. 114–120, title II, §219, Feb. 8, 2016, 130 Stat. 48; renumbered §316 and amended Pub. L. 115–282, title I, §104(b), title III, §303, Dec. 4, 2018, 132 Stat. 4196, 4243; Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8439(a), Jan. 1, 2021, 134 Stat. 4737; Pub. L. 117–263, div. K, title CXII, §11259, Dec. 23, 2022, 136 Stat. 4058.)
 
 #### <b>Editorial Notes</b>
 
@@ -81,6 +81,8 @@ Association.—The term "Association" means the National Coast Guard Museum Asso
 The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (c), is the date of enactment of div. G of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(4). Pub. L. 117–263 substituted "a third party entity qualified to undertake such a certification process" for "the Inspector General of the department in which the Coast Guard is operating".
 
 <b>2021</b>—Pub. L. 116–283 amended section generally. Prior to amendment, section related to National Coast Guard Museum.
 

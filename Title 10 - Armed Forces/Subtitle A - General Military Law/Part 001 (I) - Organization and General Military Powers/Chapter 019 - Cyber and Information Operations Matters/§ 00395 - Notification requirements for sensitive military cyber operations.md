@@ -14,7 +14,7 @@ Procedures.—(1) The Secretary of Defense shall establish and submit to the con
 
 (c)
 
-Sensitive Military Cyber Operation Defined.—(1) In this section, the term "sensitive military cyber operation" means an action described in paragraph (2) that—
+Sensitive Military Cyber Operation Defined.—(1) In this section, the term "sensitivemilitary cyber operation" means an action described in paragraph (2) that—
 
 &emsp;(A) is carried out by the armed forces of the United States;
 

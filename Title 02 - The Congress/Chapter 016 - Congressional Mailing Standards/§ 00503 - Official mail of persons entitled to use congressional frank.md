@@ -24,7 +24,7 @@ The Postmaster General, in consultation with the Committee on Rules and Administ
 
 #### (c) Source of funds for expenses of official mail
 
-Expenses of official mail of the Senate and the House of Representatives may be paid only fromfunds specifically appropriated for that purpose and funds so appropriated—
+Expenses of official mail of the Senate and the House of Representatives may be paid only from funds specifically appropriated for that purpose and funds so appropriated—
 
 &emsp;(1) may be supplemented by other appropriated funds only if such supplementation is provided for by law or by regulation under subsection (a); and
 

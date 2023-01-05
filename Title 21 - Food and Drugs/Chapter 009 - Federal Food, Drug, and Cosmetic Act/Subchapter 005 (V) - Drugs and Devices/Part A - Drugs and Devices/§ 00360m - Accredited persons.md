@@ -38,7 +38,7 @@
 
 &emsp;&emsp;The Secretary shall—
 
-&emsp;&emsp;&emsp;(i) issue draft guidance on the factors the Secretary will use in determining whether a class I or class II device type, or subset of such device types, is eligible for review by an accredited person, including—
+&emsp;&emsp;&emsp;(i) issue draft guidance on the factors the Secretary will use in determining whethera class I or class II device type, or subset of such device types, is eligible for review by an accredited person, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) the risk of the device type, or subset of such device type; and
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;(iv) promptly respond and attempt to resolve complaints regarding its activities for which it is accredited; and
 
-&emsp;&emsp;&emsp;(v) protect against the use, in carrying out subsection (a) with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirements under this clause relating to financial conflicts of interest.
+&emsp;&emsp;&emsp;(v) protect against the use, in carrying out subsection (a) with respect to a device, of any officer or employee of the person who has a financial conflict of interest regarding the device, and annually make available to the public disclosures of the extent to which the person, and the officers and employees of the person, have maintained compliance with requirementsunder this clause relating to financial conflicts of interest.
 
 #### (4) Selection of accredited persons
 
@@ -126,9 +126,9 @@
 
 #### (c) Duration
 
-The authority provided by this section terminates October 1, 2022.
+The authority provided by this section terminates on October 1, 2027.
 
-(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059; Pub. L. 114–255, div. A, title III, §3102(4), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title II, §206, Aug. 18, 2017, 131 Stat. 1018.)
+(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059; Pub. L. 114–255, div. A, title III, §3102(4), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title II, §206, Aug. 18, 2017, 131 Stat. 1018; Pub. L. 117–180, div. F, title II, §2006, Sept. 30, 2022, 136 Stat. 2154; Pub. L. 117–229, div. C, title III, §309, Dec. 16, 2022, 136 Stat. 2312; Pub. L. 117–328, div. FF, title III, §3109, Dec. 29, 2022, 136 Stat. 5808.)
 
 #### <b>Editorial Notes</b>
 
@@ -137,6 +137,12 @@ The authority provided by this section terminates October 1, 2022.
 Section 360e–3 of this title, referred to in subsec. (a)(3)(A)(ii), was in the original a reference to section 515C of act June 25, 1938, which was renumbered section 515B by Pub. L. 115–52, title IX, §901(f)(2), Aug. 18, 2017, 131 Stat. 1077.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–328 substituted "on October 1, 2027" for "December 24, 2022".
+
+Pub. L. 117–229 substituted "December 24, 2022" for "December 17, 2022".
+
+Pub. L. 117–180 substituted "December 17" for "October 1".
 
 <b>2017</b>—Subsec. (a)(3)(A)(ii) to (iv). Pub. L. 115–52, §206(1)(A), added cls. (ii) to (iv) and struck out former cls. (ii) and (iii) which read as follows:
 
@@ -177,6 +183,10 @@ Subsec. (c). Pub. L. 112–144, §611(b), substituted "October 1, 2017" for "Oct
 Subsec. (d). Pub. L. 107–250, §202(2), added subsec. (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–180 effective Oct. 1, 2022, with fees under subpart 3 of part C of subchapter VII of this chapter to be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2022, see section 2008 of Pub. L. 117–180, set out as a note under section 360d of this title.
 
 #### Effective Date of 2017 Amendment
 

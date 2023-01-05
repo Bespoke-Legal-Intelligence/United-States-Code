@@ -100,7 +100,7 @@ Consideration by secretary.—Not later than 180 days of receipt of a request fr
 
 "(d)
 
-Exclusion of Parcels.—The Secretary shall not include in the inventory maintained under this section any parcel transferred to the government of Guamprior to the date of the enactment of this Act \[Aug. 13, 2018\], without regard to whether or not the parcel is included in the inventory under subsection (b).
+Exclusion of Parcels.—The Secretary shall not include in the inventory maintained under this section any parcel transferred to the government of Guam prior to the date of the enactment of this Act \[Aug. 13, 2018\], without regard to whether or not the parcel is included in the inventory under subsection (b).
 
 "(e)
 
@@ -176,7 +176,7 @@ Definitions.—For the purposes of this section:
 
 &emsp;"(4) The term 'Guam National Wildlife Refuge' includes those lands within the refuge overlay under the jurisdiction of the Department of Defense, identified as DoD lands in figure 3, on page 74, and as submerged lands in figure 7, on page 78 of the 'Final Environmental Assessment for the Proposed Guam National Wildlife Refuge, Territory of Guam, July 1993' to the extent that the Federal Government holds title to such lands.
 
-&emsp;"(5) The term 'public purpose' means those public benefit purposes for which the United States may dispose of property pursuant to section 203 of the Property Act \[now 40 U.S.C. 541 et seq.\], as implemented by the Federal Property Management Regulations (41 CFR 101–47) or the specific public benefit uses set forth in section 3(c) of the Guam Excess Lands Act (Public Law 103–339; 108 Stat. 3116), except that such definition shall not include the transfer of land to an individual or entity for private use other than on a nondiscriminatory basis.
+&emsp;"(5) The term 'public purpose' means those public benefit purposes for which the United States may dispose of property pursuant to section 203 of the Property Act \[now 40 U.S.C. 541 et seq.\], as implemented by the Federal Property Management Regulations (41 CFR 101–47) or the specific public benefit uses setforth in section 3(c) of the Guam Excess Lands Act (Public Law 103–339; 108 Stat. 3116), except that such definition shall not include the transfer of land to an individual or entity for private use other than on a nondiscriminatory basis.
 
 "(d)
 

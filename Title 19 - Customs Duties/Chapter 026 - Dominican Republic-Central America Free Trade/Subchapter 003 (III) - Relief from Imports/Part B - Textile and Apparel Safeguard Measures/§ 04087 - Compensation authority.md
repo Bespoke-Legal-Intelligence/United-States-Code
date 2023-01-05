@@ -12,7 +12,7 @@ For purposes of section 123 of the Trade Act of 1974 (19 U.S.C. 2133), any impor
 
 #### References in Text
 
-The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

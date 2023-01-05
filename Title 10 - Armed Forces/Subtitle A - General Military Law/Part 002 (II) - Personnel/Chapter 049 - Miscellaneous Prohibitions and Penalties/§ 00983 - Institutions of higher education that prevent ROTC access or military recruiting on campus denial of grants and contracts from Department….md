@@ -100,7 +100,7 @@ Subsec. (e)(1). Pub. L. 108–375, §552(b)(2)(B), inserted ", to the head of e
 
 Subsec. (d)(2)(B). Pub. L. 107–296, §1704(b)(3), substituted "Department of Homeland Security" for "Department of Transportation".
 
-<b>1999</b>—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to denial of Department of Defense grants and contracts to institutions of higher education that have anti-ROTC policies.
+<b>1999</b>—Pub. L. 106–65 amended section catchline and text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to denial of Departmentof Defense grants and contracts to institutions of higher education that have anti-ROTC policies.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -114,7 +114,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Funds Available Solely for Student Financial Assistance
 
-Pub. L. 106–79, title VIII, §8120, Oct. 25, 1999, 113 Stat. 1260, provided that during fiscal year 2000 and thereafter, any Federal grant of funds to an institution of higher education to be available solely for student financial assistance or related administrative costscould be used for the purpose for which the grant was made without regard to any provision to the contrary in section 101(e) \[title V, §514\] of Pub. L. 104–208 (formerly 10 U.S.C. 503 note), or section 983 of this title, prior to repeal by Pub. L. 108–375, div. A, title V, §552(e), Oct. 28, 2004, 118 Stat. 1912.
+Pub. L. 106–79, title VIII, §8120, Oct. 25, 1999, 113 Stat. 1260, provided that during fiscal year 2000 and thereafter, any Federal grant of funds to an institution of higher education to be available solely for student financial assistance or related administrative costs could be used for the purpose for which the grant was made without regard to any provision to the contrary in section 101(e) \[title V, §514\] of Pub. L. 104–208 (formerly 10 U.S.C. 503 note), or section 983 of this title, prior to repeal by Pub. L. 108–375, div. A, title V, §552(e), Oct. 28, 2004, 118 Stat. 1912.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

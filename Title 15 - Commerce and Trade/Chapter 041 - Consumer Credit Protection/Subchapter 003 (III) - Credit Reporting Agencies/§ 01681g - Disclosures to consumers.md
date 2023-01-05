@@ -32,7 +32,7 @@ Every consumer reporting agency shall, upon request, and subject to section 1681
 
 (4) The dates, original payees, and amounts of any checks upon which is based any adverse characterization of the consumer, included in the file at the time of the disclosure.
 
-(5) A record of all inquiries received by the agency during the 1-year period preceding therequest that identified the consumer in connection with a credit or insurance transaction that was not initiated by the consumer.
+(5) A record of all inquiries received by the agency during the 1-year period preceding the request that identified the consumer in connection with a credit or insurance transaction that was not initiated by the consumer.
 
 (6) If the consumer requests the credit file and not the credit score, a statement that the consumer may request and obtain a credit score.
 
@@ -102,7 +102,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (1) In general
 
-&emsp;For the purpose of documenting fraudulent transactions resulting from identity theft, not later than 30 days after the date of receipt of a request from a victim in accordance with paragraph (3), and subject to verification ofthe identity of the victim and the claim of identity theft in accordance with paragraph (2), a business entity that has provided credit to, provided for consideration products, goods, or services to, accepted payment from, or otherwise entered into a commercial transaction for consideration with, a person who has allegedly made unauthorized use of the means of identification of the victim, shall provide a copy of application and business transaction records in the control of the business entity, whether maintained by the business entity or by another person on behalf of the business entity, evidencing any transaction alleged to be a result of identity theft to—
+&emsp;For the purpose of documenting fraudulent transactions resulting from identity theft, not later than 30 days after the date of receipt of a request from a victim in accordance with paragraph (3), and subject to verification of the identity of the victim and the claim of identity theft in accordance with paragraph (2), a business entity that has provided credit to, provided for consideration products, goods, or services to, accepted payment from, or otherwise entered into a commercial transaction for consideration with, a person who has allegedly made unauthorized use of the means of identification of the victim, shall provide a copy of application and business transaction records in the control of the business entity, whether maintained by the business entity or by another person on behalf of the business entity, evidencing any transaction alleged to be a result of identity theft to—
 
 &emsp;&emsp;(A) the victim;
 
@@ -186,7 +186,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (10) Affirmative defense
 
-&emsp;In any civil action brought to enforce this subsection, it is an affirmative defense (whichthe defendant must establish by a preponderance of the evidence) for a business entity to file an affidavit or answer stating that—
+&emsp;In any civil action brought to enforce this subsection, it is an affirmative defense (which the defendant must establish by a preponderance of the evidence) for a business entity to file an affidavit or answer stating that—
 
 &emsp;&emsp;(A) the business entity has made a reasonably diligent search of its available business records; and
 
@@ -202,7 +202,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (13) Effectiveness study
 
-&emsp;Not later than 18 months after December 4, 2003, the Comptroller General of the United States shall submit a report to Congress assessing the effectiveness of this provision.
+&emsp;Not later than 18 months after December 4, 2003, the Comptroller General of the UnitedStates shall submit a report to Congress assessing the effectiveness of this provision.
 
 #### (f) Disclosure of credit scores
 
@@ -286,7 +286,7 @@ The requirements of subsection (a) respecting the disclosure of sources of infor
 
 #### (1) In general
 
-&emsp;Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for a closed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the "lender") shall provide the following to the consumer as soon as reasonably practicable:
+&emsp;Any person who makes or arranges loans and who uses a consumer credit score, as defined in subsection (f), in connection with an application initiated or sought by a consumer for aclosed end loan or the establishment of an open end loan for a consumer purpose that is secured by 1 to 4 units of residential real property (hereafter in this subsection referred to as the "lender") shall provide the following to the consumer as soon as reasonably practicable:
 
 #### (A) Information required under subsection (f)
 
@@ -384,7 +384,7 @@ Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referre
 
 Section 1681a(w) of this title, referred to in subsec. (c)(1)(B)(vi), was redesignated section 1681a(x) of this title by Pub. L. 111–203, title X, §1088(a)(1), July 21, 2010, 124 Stat. 2086.
 
-Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended, known as the Gramm-Leach-Bliley Act. Subtitle A of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. Subtitle A of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 
@@ -444,7 +444,7 @@ Amendment by Pub. L. 105–347 deemed to have same effective date as amendments 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance,see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with special rule for early compliance, see section 2420 of Pub. L. 104–208, set out as a note under section 1681a of this title.
 
 #### Effective Date
 
@@ -460,7 +460,7 @@ Simplified disclosure.—Not later than 90 days after the date of enactment of t
 
 "(3)
 
-Goals.—The Federal Trade Commission shall take appropriate action to assure that the goals of comprehensibility and standardization are achieved in accordance with paragraph (2)."
+Goals.—The Federal Trade Commission shall take appropriate action to assure that the goals ofcomprehensibility and standardization are achieved in accordance with paragraph (2)."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

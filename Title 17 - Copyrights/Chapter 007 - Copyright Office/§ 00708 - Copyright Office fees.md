@@ -34,7 +34,7 @@ Adjustment of Fees.—The Register of Copyrights may, by regulation, adjust the 
 
 &emsp;(1) The Register shall conduct a study of the costs incurred by the Copyright Office for the registration of claims, the recordation of documents, and the provision of services. The study shall also consider the timing of any adjustment in fees and the authority to use such fees consistent with the budget.
 
-&emsp;(2) The Register may, on the basis of the study under paragraph (1), and subject to paragraph (5), adjust fees to not more than that necessary to cover the reasonable costs incurred by the Copyright Office for the services described in paragraph (1), plus a reasonable inflation adjustment to account for any estimated increase in costs.
+&emsp;(2) The Register may, on the basis of the study under paragraph (1), and subject to paragraph (5), adjust fees to not more than that necessary to cover the reasonable costs incurred by the Copyright Office for the servicesdescribed in paragraph (1), plus a reasonable inflation adjustment to account for any estimated increase in costs.
 
 &emsp;(3) Any fee established under paragraph (2) shall be rounded off to the nearest dollar, or for a fee less than $12, rounded off to the nearest 50 cents.
 
@@ -50,7 +50,19 @@ Adjustment of Fees.—The Register of Copyrights may, by regulation, adjust the 
 
 (3) The income on such investments shall be deposited in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, §1, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 101–318, §2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, §102(f), June 26, 1992, 106 Stat. 266; Pub. L. 105–80, §7,Nov. 13, 1997, 111 Stat. 1532; Pub. L. 106–379, §3(a)(3), Oct. 27, 2000, 114 Stat. 1445; Pub. L. 111–175, title I, §106, May 27, 2010, 124 Stat. 1244.)
+(e)(1) In this subsection, the term "covered competition" means—
+
+&emsp;(A) an art competition sponsored by the Congressional Institute that is open only to high school students; or
+
+&emsp;(B) the competition established under section 3 of House Resolution 77, 113th Congress, agreed to February 26, 2013.
+
+(2) With respect to a work that wins a covered competition, the Register of Copyrights—
+
+&emsp;(A) shall waive the requirement under subsection (a)(1) with respect to an application for registration of a copyright claim for that work if that application is submitted to the Copyright Office not later than the last day of the calendar year following the year in which the work claimed by the application wins the covered competition (referred to in this paragraph as the "covered year"); and
+
+&emsp;(B) may waive a fee described in subparagraph (A) for an application submitted after the end of the covered year if the fee would have been waived under that subparagraph had the application been submitted before the last day of the covered year.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2593; Pub. L. 95–94, title IV, §406(b), Aug. 5, 1977, 91 Stat. 682; Pub. L. 97–366, §1, Oct. 25, 1982, 96 Stat. 1759; Pub. L. 101–318, §2(a), (b), July 3, 1990, 104 Stat. 287, 288; Pub. L. 102–307, title I, §102(f), June 26, 1992, 106 Stat. 266; Pub. L. 105–80, §7, Nov. 13, 1997, 111 Stat. 1532; Pub. L. 106–379, §3(a)(3), Oct. 27, 2000, 114 Stat. 1445; Pub. L. 111–175, title I, §106, May 27, 2010, 124 Stat. 1244; Pub. L. 117–201, §2, Oct. 17, 2022, 136 Stat. 2222.)
 
 #### <b>Editorial Notes</b>
 
@@ -59,6 +71,8 @@ Adjustment of Fees.—The Register of Copyrights may, by regulation, adjust the 
 Subsection (b) of section 115, referred to in subsec. (a)(5), was struck out and a new subsection (b) was added by Pub. L. 115–264, title I, §102(a)(2), Oct. 11, 2018, 132 Stat. 3678.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–201 added subsec. (e).
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–175, §106(4), inserted at end of concluding provisions "Fees established under paragraphs (10) and (11) shall be reasonable and may not exceed one-half of the cost necessary to cover reasonable expenses incurred by the Copyright Office for the collection and administration of the statements of account and any royalty fees deposited with such statements."
 

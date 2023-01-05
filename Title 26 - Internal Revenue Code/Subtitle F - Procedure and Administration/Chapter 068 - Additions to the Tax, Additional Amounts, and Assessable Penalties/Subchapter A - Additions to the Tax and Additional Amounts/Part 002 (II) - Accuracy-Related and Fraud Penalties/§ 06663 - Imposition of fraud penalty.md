@@ -18,5 +18,5 @@ In the case of a joint return, this section shall not apply with respect to a sp
 
 #### Effective Date
 
-Section applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as an Effective Date of 1989 Amendment note under section 461 of this title.
+Section applicable to returns the due date for which (determined without regard to extensions) is after Dec.31, 1989, see section 7721(d) of Pub. L. 101–239, set out as an Effective Date of 1989 Amendment note under section 461 of this title.
 

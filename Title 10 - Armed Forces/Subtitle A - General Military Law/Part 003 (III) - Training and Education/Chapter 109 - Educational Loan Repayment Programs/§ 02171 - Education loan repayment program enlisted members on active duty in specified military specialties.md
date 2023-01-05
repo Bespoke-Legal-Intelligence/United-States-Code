@@ -56,7 +56,7 @@ Subsec. (a)(2). Pub. L. 109–163, §537(b), substituted "a member in an officer
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 struck out "or" at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 
-<b>1994</b>—Pub. L. 103–337, §1663(e)(6), substituted "Education loan repayment program: enlisted members onactive duty in specified military specialties" for "General educational loan repayment program" as section catchline.
+<b>1994</b>—Pub. L. 103–337, §1663(e)(6), substituted "Education loan repayment program: enlisted members on active duty in specified military specialties" for "General educational loan repayment program" as section catchline.
 
 Subsec. (a)(1)(B). Pub. L. 103–337, §1663(e)(1), struck out "or" after "(B)".
 

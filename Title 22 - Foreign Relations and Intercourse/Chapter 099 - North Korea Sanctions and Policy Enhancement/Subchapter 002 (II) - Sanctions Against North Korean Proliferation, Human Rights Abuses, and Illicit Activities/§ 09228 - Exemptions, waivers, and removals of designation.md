@@ -40,7 +40,7 @@ The President may waive, on a case-by-case basis, for renewable periods of betwe
 
 #### (d) Financial services for humanitarian and consular activities
 
-The President may promulgate such regulations, rules, and policies as may be necessary to facilitate the provision of financial services by a foreign financial institution that is not a North Korean financial institution in support of activities conducted pursuant to an exemption or waiver under this section.
+The President may promulgate such regulations, rules, and policies as may be necessary tofacilitate the provision of financial services by a foreign financial institution that is not a North Korean financial institution in support of activities conducted pursuant to an exemption or waiver under this section.
 
 (Pub. L. 114–122, title II, §208, Feb. 18, 2016, 130 Stat. 109; Pub. L. 115–44, title III, §322, Aug. 2, 2017, 131 Stat. 953; Pub. L. 116–92, div. F, title LXXI, §7143(a), Dec. 20, 2019, 133 Stat. 2255.)
 

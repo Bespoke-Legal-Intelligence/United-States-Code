@@ -104,7 +104,7 @@ Heads of Agencies
 
 (c) Designate an agency official with sufficient authority to represent the interest and support of the agency head to be responsible for the management and administration of the agency occupational safety and health program.
 
-(d) Comply with all standards issued under section 6 of the Act \[29 U.S.C. 655\], except where the Secretary approves compliance with alternative standards. Whenan agency head determines it necessary to apply a different standard, that agency head shall, after consultation with appropriate occupational safety and health committees where established, notify the Secretary and provide justification that equivalent or greater protection will be assured by the alternate standard.
+(d) Comply with all standards issued under section 6 of the Act \[29 U.S.C. 655\], except where the Secretary approves compliance with alternative standards. When an agency head determines it necessary to apply a different standard, that agency head shall, after consultation with appropriate occupational safety and health committees where established, notify the Secretary and provide justification that equivalent or greater protection will be assured by the alternate standard.
 
 (e) Assure prompt abatement of unsafe or unhealthy working conditions. Whenever an agency cannot promptly abate such conditions, it shall develop an abatement plan setting forth a timetable for abatement and a summary of interim steps to protect employees. Employees exposed to the conditions shall be informed of the provisions of the plan. When a hazard cannot be abated without assistance of the General Services Administration or other Federal lessor agency, an agency shall act with the lessor agency to secure abatement.
 
@@ -118,7 +118,7 @@ Heads of Agencies
 
 (j) Operate an occupational safety and health management information system, which shall include the maintenance of such records as the Secretary may require.
 
-(k) Provide safety and health training for supervisory employees, employees responsible for conducting occupational safety and health inspections, all members of occupational safety and health committees where established, and other employees.
+(k) Provide safety and health training for supervisory employees, employees responsible for conducting occupational safety and health inspections, all members ofoccupational safety and health committees where established, and other employees.
 
 (l) Submit to the Secretary an annual report on the agency occupational safety and health program that includes information the Secretary prescribes.
 
@@ -172,11 +172,11 @@ Department of Labor
 
 The Federal Advisory Council on Occupational Safety and Health
 
-1–501. The Federal Advisory Council on Occupational Safety and Health, established pursuant to Executive Order No. 11612, is continued. It shall advise the Secretary in carrying out responsibilities under this order. The Council shall consist of sixteen members appointed by the Secretary, of whom eight shall be representatives of Federal agencies and eight shall be representatives of labor organizations representing Federal employees. The members shall serve three-year terms with the terms of five or six members expiring each year, provided this Council is renewed every two years in accordance with the Federal Advisory Committee Act \[5 U.S.C. App.\]. The members currently serving on the Council shall be deemed to be its initial members under this order and their terms shall expire in accordance with the terms of their appointment.
+1–501. The Federal Advisory Council on Occupational Safety and Health, established pursuant to Executive Order No. 11612, is continued. It shall advise the Secretary in carrying out responsibilities under this order. The Council shall consist of sixteen members appointed by the Secretary, of whom eight shall be representatives of Federal agencies and eight shall be representatives of labor organizations representing Federal employees. The members shall serve three-year terms with the terms of five or six members expiring each year, provided this Council is renewed every two years in accordance with the Federal Advisory Committee Act \[see 5 U.S.C. 1001 et seq.\]. The members currently serving on the Council shall be deemed to be its initial members under this order and their terms shall expire in accordance with the terms of their appointment.
 
 1–502. The Secretary, or a designee, shall serve as the Chairman of the Council, and shall prescribe rules for the conduct of its business.
 
-1–503. The Secretary shall make available necessary office space and furnish the Council necessary equipment, supplies, and staff services, and shall perform such functions with respect to the Council as may be required by the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+1–503. The Secretary shall make available necessary office space and furnish the Council necessary equipment, supplies, and staff services, and shall perform such functions with respect to the Council as may be required by the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\].
 
 #### 1–6.
 
@@ -210,7 +210,7 @@ Ex. Ord. No. 12566, Sept. 26, 1986, 51 F.R. 34575, which related to safety belt 
 
 #### Extension of Term of Federal Advisory Council on Occupational Safety and Health
 
-Term of Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of this title.
 
 Previous extensions of term of Federal Advisory Council on Occupational Safety and Health were contained in the following prior Executive Orders:
 
@@ -286,7 +286,7 @@ Executive departments and agencies (except the U.S. Postal Service) shall coordi
 
 Each executive department and agency shall bear its own costs for participating in the POWER Initiative, and nothing in this memorandum shall be construed to impair or otherwise affect the authority granted by law to an executive department or agency, or the head thereof.
 
-This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural,enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 The Secretary of Labor is authorized and directed to publish this memorandum in the Federal Register.
 

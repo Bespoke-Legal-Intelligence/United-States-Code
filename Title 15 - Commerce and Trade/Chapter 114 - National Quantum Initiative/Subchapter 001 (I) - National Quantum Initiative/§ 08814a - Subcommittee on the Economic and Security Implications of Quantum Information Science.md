@@ -76,7 +76,7 @@ A prior section 105 of Pub. L. 115–368 was renumbered section 106 and is class
 
 #### Effective Date
 
-Pub. L. 117–81, div. F, title LXVI, §6606(b)(2), Dec. 27, 2021, 135 Stat. 2443, provided that: "The amendmentsmade by subsection (a) \[enacting this section and amending section 8815 of this title\] shall take effect as if included in the enactment of the National Quantum Initiative Act (15 U.S.C. 8801 et seq.)."
+Pub. L. 117–81, div. F, title LXVI, §6606(b)(2), Dec. 27, 2021, 135 Stat. 2443, provided that: "The amendments made by subsection (a) \[enacting this section and amending section 8815 of this title\] shall take effect as if included in the enactment of the National Quantum Initiative Act (15 U.S.C. 8801 et seq.)."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

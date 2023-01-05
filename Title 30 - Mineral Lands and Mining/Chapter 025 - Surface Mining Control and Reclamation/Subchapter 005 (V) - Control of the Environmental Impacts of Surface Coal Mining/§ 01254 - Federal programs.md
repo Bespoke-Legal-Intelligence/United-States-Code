@@ -2,7 +2,7 @@
 
 #### (a) Promulgation and implementation by Secretary for State
 
-The Secretary shall prepare and, subject to the provisions of this section, promulgate and implement a Federal program for a State nolater than thirty-four months after August 3, 1977, if such State—
+The Secretary shall prepare and, subject to the provisions of this section, promulgate and implement a Federal program for a State no later than thirty-four months after August 3, 1977, if such State—
 
 &emsp;(1) fails to submit a State program covering surface coal mining and reclamation operations by the end of the eighteen-month period beginning on August 3, 1977;
 
@@ -30,7 +30,7 @@ A State which has failed to obtain the approval of a State program prior to impl
 
 #### (f) Validity of Federal program permits under superseding State program
 
-Permits issued pursuant to the Federal program shall be valid under any superseding State program: <i>Provided</i>, That the Federal permittee shall have the right to apply for a State permit to supersede his Federal permit. The State regulatory authority may review such permits to determine that the requirements of this chapter and the approved State program are not violated. Should the State program contain additional requirements not contained in the Federal program, the permittee will be provided opportunity for hearing and a reasonable time, within a time limit prescribed in regulations promulgated pursuant to section 1251 of this title, to conform ongoing surface mining and reclamation operations to the additional State requirements.
+Permits issued pursuant to the Federal program shall be valid under any superseding State program: <i>Provided</i>, That the Federal permittee shall have the right to apply for a State permit to supersede his Federal permit. The State regulatory authority may review such permits to determine that the requirements of this chapter and the approved State program are not violated. Should the State program contain additional requirements not contained in the Federal program, the permittee will be provided opportunity for hearing and a reasonable time, within a time limit prescribed in regulationspromulgated pursuant to section 1251 of this title, to conform ongoing surface mining and reclamation operations to the additional State requirements.
 
 #### (g) Preemption of State statutes or regulations
 

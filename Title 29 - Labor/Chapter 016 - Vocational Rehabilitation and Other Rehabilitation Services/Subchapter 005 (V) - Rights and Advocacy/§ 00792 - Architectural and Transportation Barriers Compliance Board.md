@@ -104,11 +104,11 @@ Beginning in fiscal year 2000, the Access Board, after consultation with the Sec
 
 #### (e) Investigations; hearings; orders; administrative procedure applicable; final orders; judicial review; civil action; intervention
 
-(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b). Except as provided in paragraph (3) of subsection (f), the provisions of subchapter II of chapter 5, and chapter 7 of title 5 shall apply to procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
+(1) The Access Board shall conduct investigations, hold public hearings, and issue such orders as it deems necessary to ensure compliance with the provisions of the Acts cited in subsection (b). Except as provided in paragraph (3) of subsection (f), the provisions of subchapter II of chapter 5, and chapter 7 of title 5 shall applyto procedures under this subsection, and an order of compliance issued by the Access Board shall be a final order for purposes of judicial review. Any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality. An order of compliance may include the withholding or suspension of Federal funds with respect to any building or public conveyance or rolling stock found not to be in compliance with standards enforced under this section. Pursuant to chapter 7 of title 5, any complainant or participant in a proceeding under this subsection may obtain review of a final order issued in such proceeding.
 
 (2) The executive director is authorized, at the direction of the Access Board—
 
-&emsp;(A) to bring a civil action in any appropriate United States district court to enforce, inwhole or in part, any final order of the Access Board under this subsection; and
+&emsp;(A) to bring a civil action in any appropriate United States district court to enforce, in whole or in part, any final order of the Access Board under this subsection; and
 
 &emsp;(B) to intervene, appear, and participate, or to appear as amicus curiae, in any court of the United States or in any court of a State in civil actions that relate to this section or to the Architectural Barriers Act of 1968 \[42 U.S.C. 4151 et seq.\].
 
@@ -158,9 +158,9 @@ There are authorized to be appropriated for the purpose of carrying out the duti
 
 Executive level IV, referred to in subsec. (a)(1)(B), is set out in section 5315 of Title 5, Government Organization and Employees.
 
-The Act commonly known as the Architectural Barriers Act of 1968, referred to in subsecs. (b)(1), (3)(A), (7) and (e)(2)(B), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+The Act commonly known as the Architectural Barriers Act of 1968, referred to in subsecs. (b)(1), (3)(A), (7) and (e)(2)(B), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Titles II and III of the Act are classified generally to subchapters II (§12131 et seq.) and III (§12181 et seq.), respectively, of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Titles II and III of the Act are classified generally to subchapters II (§12131 et seq.) and III (§12181 et seq.), respectively, of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Codification
 
@@ -214,7 +214,7 @@ Pub. L. 102–569, §102(p)(30), substituted "individuals with disabilities" for
 
 Subsec. (a)(1)(B)(xii). Pub. L. 102–569, §504(b)(1)(B), added cl. (xii).
 
-Subsec. (a)(2)(A). Pub. L. 102–569, §504(b)(2), designated existing provisions as cl. (i), substituted "4 years, except as provided in clause (ii)" for "three years" and "at least three" for "four", and added cl. (ii).
+Subsec. (a)(2)(A). Pub. L. 102–569, §504(b)(2), designated existing provisions as cl. (i), substituted "4years, except as provided in clause (ii)" for "three years" and "at least three" for "four", and added cl. (ii).
 
 Subsec. (a)(3). Pub. L. 102–569, §504(b)(3), substituted "a Federal" for "such an" after "member becomes".
 
@@ -224,7 +224,7 @@ Subsec. (b). Pub. L. 102–569, §504(c), amended subsec. (b) generally, substit
 
 Subsec. (c). Pub. L. 102–569, §102(p)(30), substituted "individuals with disabilities" for "individuals with handicaps" wherever appearing.
 
-Subsec. (d)(1). Pub. L. 102–569, §504(d)(1), in first sentence, substituted "The Access Board shall conduct" for "In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carryout its functions under subsections (b) and (c) of this section, and shall conduct" and "to ensure compliance" for "to insure compliance".
+Subsec. (d)(1). Pub. L. 102–569, §504(d)(1), in first sentence, substituted "The Access Board shall conduct" for "In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carry out its functions under subsections (b) and (c) of this section, and shall conduct" and "to ensure compliance" for "to insure compliance".
 
 Subsec. (d)(3). Pub. L. 102–569, §504(d)(2), struck out par. (3) which read as follows: "The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected by regulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph. The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section."
 
@@ -264,7 +264,7 @@ Subsec. (g). Pub. L. 100–630, §206(b)(11), substituted "transportation barrie
 
 <b>1986</b>—Subsec. (a)(1)(A). Pub. L. 99–506, §§103(d)(2)(C), 601(a)(2), substituted "Twelve" for "Eleven", "six" for "five", and "individuals with handicaps" for "handicapped individuals".
 
-Subsec. (a)(1)(B). Pub. L. 99–506, §601(a)(1), substituted provision that Chairperson and vice-chairperson of Board shall be elected by majority vote of members of Board to serve for terms of one year, for provision that President had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
+Subsec. (a)(1)(B). Pub. L. 99–506, §601(a)(1), substituted provision that Chairperson and vice-chairperson ofBoard shall be elected by majority vote of members of Board to serve for terms of one year, for provision that President had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
 
 Subsec. (a)(2)(ii), (iii). Pub. L. 99–506, §601(a)(3), added cls. (ii) and (iii), and struck out former cl. (ii) which read as follows: "any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed".
 
@@ -348,11 +348,11 @@ Pub. L. 94–230, §11(a), (b)(1), (c), Mar. 15, 1976, 90 Stat. 213, 214, extend
 
 #### Termination of Advisory Panels
 
-Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Accessibility of Information on Prescription Drug Container Labels by Visually Impaired and Blind Consumers
 
-Pub. L. 112–144, title IX, §904, July 9, 2012, 126 Stat. 1090, provided that:
+Pub. L. 112–144, title IX, §904, July 9, 2012, 126 Stat. 1090, as amended by Pub. L. 117–286, §4(a)(188), Dec. 27, 2022, 136 Stat. 4326, provided that:
 
 "(a)
 
@@ -418,7 +418,7 @@ Information campaign.—Upon completion of development of the best practices und
 
 &emsp;"(6)
 
-FACA waiver.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group.
+Waiver of chapter 10 of title 5, united states code.—Chapter 10 of title 5, United States Code, shall not apply to the working group.
 
 "(b)
 

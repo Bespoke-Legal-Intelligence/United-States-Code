@@ -64,7 +64,7 @@
 
 &emsp;(3) The person's years of active service in the Commissioned Corps of the Public Health Service.
 
-&emsp;(4) The person's years of active commissioned service in the National Oceanic and Atmospheric Administration (including active commissioned service in the EnvironmentalScience Services Administration and in the Coast and Geodetic Survey).
+&emsp;(4) The person's years of active commissioned service in the National Oceanic and Atmospheric Administration (including active commissioned service in the Environmental Science Services Administration and in the Coast and Geodetic Survey).
 
 (b) The following service may not be counted under subsection (a):
 
@@ -216,7 +216,7 @@ Subsec. (a)(2)(G). Pub. L. 116–283, §602(b)(4)(A), added subpar. (G).
 
 <b>1959</b>—Subsec. (a). Pub. L. 86–197, §§(1), (2), redesignated cls. (D) to (F) as (E) to (G), and added cls. (D), (H), (I), and (J), and provisions requiring, for the purpose of cls. (A), (B), and (C), service in the National Guard to be treated as if it were service in a reserve component, if the person concerned was later appointed in the National Guard of the United States, the Army National Guard of the United States, the Air National Guard of the United States, or as a Reserve of the Army or the Air Force, and served continuously in the National Guard from the date of his Federal recognition to the date of that appointment.
 
-Subsec. (b)(6), (7). Pub. L. 86–197, §1(3), added par. (6), redesignated former par. (6) as (7), and prohibited the counting of service as a nurse, as an appointed aviation cadet, and that service described in cls. (I) and (J) of subsec. (a)(1) of this section.
+Subsec. (b)(6), (7). Pub. L. 86–197, §1(3), added par. (6), redesignated former par. (6) as (7), and prohibited thecounting of service as a nurse, as an appointed aviation cadet, and that service described in cls. (I) and (J) of subsec. (a)(1) of this section.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–861 substituted "full-time service under" for "service under", and inserted reference to section 502 of this title in cl. (2)(A)(ii).
 
@@ -298,5 +298,5 @@ Pub. L. 85–861, §15, Sept. 2, 1958, 72 Stat. 1558, provided that:
 
 "(a) Notwithstanding section 1332(b)(6) \[now 12732(b)(7)\] of title 10, United States Code, a person is entitled to count his service as an Army field clerk or as a field clerk, Quartermaster Corps, as active service in determining his entitlement to retired pay under chapter 67 \[now 1223\] of title 10, United States Code, and in computing his retired pay under that chapter.
 
-"(b) notwithstanding section 1332(b)(6) \[now 12732(b)(7)\] of title 10, United States Code, a warrant officer is entitled to count classified service as an Army headquarters clerk or as a clerk of the Army Quartermaster Corps that he performed under any law in effect before August 29, 1916, as active service in determining his entitlement to retired pay under chapter 67 \[now 1223\] of title 10, United States Code, and in computing his retired pay under that chapter."
+"(b) notwithstanding section 1332(b)(6) \[now 12732(b)(7)\] of title 10, United States Code, a warrant officer is entitled to count classified service as an Army headquarters clerk or as a clerk of the Army Quartermaster Corps that he performed under any law in effectbefore August 29, 1916, as active service in determining his entitlement to retired pay under chapter 67 \[now 1223\] of title 10, United States Code, and in computing his retired pay under that chapter."
 

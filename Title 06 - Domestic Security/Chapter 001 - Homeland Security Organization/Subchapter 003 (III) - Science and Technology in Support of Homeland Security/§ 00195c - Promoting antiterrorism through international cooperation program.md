@@ -134,7 +134,11 @@ Nothing in this section shall be construed to alter or affect the following prov
 
 There are authorized to be appropriated to carry out this section such sums as are necessary.
 
-(Pub. L. 107–296, title III, §317, as added Pub. L. 110–53, title XIX, §1901(b)(1), Aug. 3, 2007, 121 Stat. 505; amended Pub. L. 114–304, §2(a), Dec. 16, 2016, 130 Stat. 1519; Pub. L. 115–387, §2(f)(3), Dec. 21, 2018, 132 Stat. 5168.)
+(Pub. L. 107–296, title III, §317, as added Pub. L. 110–53, title XIX, §1901(b)(1), Aug. 3, 2007, 121 Stat. 505; amended Pub. L. 114–304, §2(a), Dec. 16, 2016, 130 Stat. 1519; Pub. L. 115–387, §2(f)(3), Dec. 21, 2018, 132 Stat. 5168; Pub. L. 117–263, div. E, title LIX, §5947(a)(3), Dec. 23, 2022, 136 Stat. 3481.)
+
+#### Amendment of Subsection (h)(2)
+
+<i>Pub. L. 117–263, div. E, title LIX, §5947(a)(3), (c), Dec. 23, 2022, 136 Stat. 3481, 3482, provided that, effective 270 days after Dec. 23, 2022, subsection (h)(2) of this section is amended by striking "Section 112b(c)" and inserting "Section 112b(g)". See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -144,6 +148,8 @@ The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec
 
 #### Amendments
 
+<b>2022</b>—Subsec. (h)(2). Pub. L. 117–263 substituted "Section 112b(g)" for "Section 112b(c)".
+
 <b>2018</b>—Subsec. (f). Pub. L. 115–387 substituted "the Assistant Secretary for the Countering Weapons of Mass Destruction Office," for "the Chief Medical Officer,".
 
 <b>2016</b>—Subsec. (e)(3), (4). Pub. L. 114–304, §2(a)(1), added pars. (3) and (4).
@@ -151,6 +157,10 @@ The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec
 Subsecs. (g) to (i). Pub. L. 114–304, §2(a)(2), (3), added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–263 effective 270 days after Dec. 23, 2022, see section 5947(c) of Pub. L. 117–263, set out as a note under section 112a of Title 1, General Provisions.
 
 #### Findings
 
@@ -166,7 +176,7 @@ Pub. L. 110–53, title XIX, §1901(a), Aug. 3, 2007, 121 Stat. 505, provided th
 
 &emsp;"(5) The United States and its allies in the global war on terrorism will mutually benefit from the sharing of technological expertise to combat domestic and international terrorism.
 
-&emsp;"(6) The establishment of an office to facilitate and support cooperative endeavors between and among government agencies, for-profit business entities, academic institutions, and nonprofit entities of the United States and its allies will safeguard lives and property worldwide against acts of terrorism and other high consequence events."
+&emsp;"(6) The establishment of an office to facilitate and support cooperative endeavors between and among government agencies, for-profit business entities, academic institutions, and nonprofit entities of theUnited States and its allies will safeguard lives and property worldwide against acts of terrorism and other high consequence events."
 
 #### Transparency of Funds
 

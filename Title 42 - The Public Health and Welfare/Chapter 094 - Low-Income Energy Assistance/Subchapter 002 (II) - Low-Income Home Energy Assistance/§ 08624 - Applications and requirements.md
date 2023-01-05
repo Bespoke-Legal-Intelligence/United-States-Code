@@ -64,13 +64,13 @@ As part of the annual application required by subsection (a), the chief executiv
 
 &emsp;&emsp;(D) ensure that the provision of vendored payments remains at the option of the State in consultation with local grantees and may be contingent on unregulated vendors taking appropriate measures to alleviate the energy burdens of eligible households, including providing for agreements between suppliers and individuals eligible for benefits under this subchapter <sup>1</sup> that seek to reduce home energy costs, minimize the risks of home energy crisis, and encourage regular payments by individuals receiving financial assistance for home energy costs;
 
-&emsp;(8) provide assurances that (A) the State will not exclude households described in clause (2)(B) of this subsection from receiving home energy assistance benefits under clause (2), and (B) the State will treat owners and renters equitably under the program assisted under this subchapter;
+&emsp;(8) provide assurances that (A) the State will not exclude households described in clause\(2)(B) of this subsection from receiving home energy assistance benefits under clause (2), and (B) the State will treat owners and renters equitably under the program assisted under this subchapter;
 
 &emsp;(9) provide that—
 
 &emsp;&emsp;(A) the State may use for planning and administering the use of funds under this subchapter an amount not to exceed 10 percent of the funds payable to such State under this subchapter for a fiscal year; and
 
-&emsp;&emsp;(B) the State will pay from non-Federal sources the remaining costs of planning and administering the program assisted under this subchapter and will not use Federal funds for such remaining costs (except forthe costs of the activities described in paragraph (16));
+&emsp;&emsp;(B) the State will pay from non-Federal sources the remaining costs of planning and administering the program assisted under this subchapter and will not use Federal funds for such remaining costs (except for the costs of the activities described in paragraph (16));
 
 &emsp;(10) provide that such fiscal control and fund accounting procedures will be established as may be necessary to assure the proper disbursal of and accounting for Federal funds paid to the State under this subchapter, including procedures for monitoring the assistance provided under this subchapter, and provide that the State will comply with the provisions of chapter 75 of title 31 (commonly known as the "Single Audit Act");
 
@@ -118,7 +118,7 @@ Not later than 18 months after May 18, 1994, the Secretary shall develop model p
 
 > The chief executive officer may revise any plan prepared under this paragraph and shall furnish the revised plan to the Secretary.
 
-(2) Each plan prepared under paragraph (1) and each substantial revision thereof shall be made available for public inspection within the Stateinvolved in such a manner as will facilitate timely and meaningful review of, and comment upon, such plan or substantial revision.
+(2) Each plan prepared under paragraph (1) and each substantial revision thereof shall be made available for public inspection within the State involved in such a manner as will facilitate timely and meaningful review of, and comment upon, such plan or substantial revision.
 
 (3) Not later than April 1 of each fiscal year the Secretary shall make available to the States a model State plan format that may be used, at the option of each State, to prepare the plan required under paragraph (1) for the next fiscal year.
 
@@ -172,7 +172,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B), the State 
 
 > may be used by the State for low-cost residential weatherization or other energy-related home repair for low-income households, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy.
 
-(2)(A) If a State receives a waiver granted under subparagraph (B) for a fiscal year, theState may use not more than the greater of 25 percent of—
+(2)(A) If a State receives a waiver granted under subparagraph (B) for a fiscal year, the State may use not more than the greater of 25 percent of—
 
 &emsp;(i) the funds allotted to a State under this subchapter for such fiscal year; or
 
@@ -204,17 +204,17 @@ In verifying income eligibility for purposes of subsection (b)(2)(B), the State 
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(2)(A)(i), (ii), (4), (i)(1), and (j), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Titles XVI, XIX, and XX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(2)(A)(i), (ii), (4), (i)(1), and (j), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. Titles XVI, XIX, and XX of the Social Security Act are classified generally to subchapters XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Food and Nutrition Act of 2008, referred to in subsecs. (b)(2)(A)(iii) and (f)(2)(A), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 Section 306 of the Veterans' and Survivors' Pension Improvement Act of 1978, referred to in subsec. (b)(2)(A)(iv), is section 306 of Pub. L. 95–588, title III, Nov. 4, 1978, 92 Stat. 2508, which is set out as a note under section 521 of Title 38, Veterans' Benefits.
 
-Subtitle B of title VI, referred to in subsecs. (b)(3), (4), and (j), is subtitle B of title VI of Pub. L. 97–35, §671 et seq., Aug. 13, 1981, 95 Stat. 511, as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
+Subtitle B of title VI, referred to in subsecs. (b)(3), (4), and (j), is subtitle B of title VI of Pub. L. 97–35, §671 et seq., Aug. 13, 1981, 95 Stat. 511, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
-The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (4), (6), and (j), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsecs. (b)(3), (4), (6), and (j), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Energy Conservation and Production Act, referred to in subsec. (b)(4), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1142, as amended. Title IV of the Energy Conservation and Production Act is classified principally to subchapter III (§6851 et seq.) of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+The Energy Conservation and Production Act, referred to in subsec. (b)(4), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1142. Title IV of the Energy Conservation and Production Act is classified principally to subchapter III (§6851 et seq.) of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 This subchapter, referred to in subsec. (b)(7)(D), was in the original "this Act" and was translated as reading "this title", meaning title XXVI of Pub. L. 97–35, known as the Low-Income Home Energy Assistance Act of 1981, to reflect the probable intent of Congress.
 

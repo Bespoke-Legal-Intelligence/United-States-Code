@@ -82,7 +82,7 @@ The Secretary shall—
 
 &emsp;&emsp;(C) referring complaints to the relevant Federal, State, or local authorities for appropriate action;
 
-&emsp;&emsp;(D) alerting educational agencies, schools, and parents to the practices of educational organizations that violate the provisions of this section; and
+&emsp;&emsp;(D) alerting educational agencies, schools, and parents to the practices of educationalorganizations that violate the provisions of this section; and
 
 &emsp;&emsp;(E) imposing civil fines (not to exceed $1,000 per violation) on educational organizations that knowingly violate this section.
 

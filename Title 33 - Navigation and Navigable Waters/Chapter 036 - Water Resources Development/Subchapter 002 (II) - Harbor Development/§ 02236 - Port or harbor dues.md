@@ -44,7 +44,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 &emsp;Port or harbor dues may be levied only on a vessel entering or departing from a harbor and its cargo on a fair and equitable basis. In formulating port and harbor dues, the non-Federal interest shall consider—
 
-&emsp;&emsp;(A) the direct and indirect cost of construction, operations, and maintenance, and providing the facilities and services under paragraph (1) of this subsection;
+&emsp;&emsp;(A) the direct and indirect cost of construction, operations, and maintenance, andproviding the facilities and services under paragraph (1) of this subsection;
 
 &emsp;&emsp;(B) the value of those facilities and services to the vessel and cargo;
 
@@ -60,7 +60,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 &emsp;&emsp;(ii) the name, address, and telephone number of an official to whom comments on and requests for further information on the proposal are to be directed;
 
-&emsp;&emsp;(iii) the date by which comments on the proposal are due and a date for a publichearing on the proposal at which any interested party may present a statement; however, the non-Federal interest may not set a hearing date earlier than 45 days after the date of publication of the notice in the Federal Register required by subparagraph (B) of this paragraph or set a deadline for receipt of comments earlier than 60 days after the date of publication; and
+&emsp;&emsp;(iii) the date by which comments on the proposal are due and a date for a public hearing on the proposal at which any interested party may present a statement; however, the non-Federal interest may not set a hearing date earlier than 45 days after the date of publication of the notice in the Federal Register required by subparagraph (B) of this paragraph or set a deadline for receipt of comments earlier than 60 days after the date of publication; and
 
 &emsp;&emsp;(iv) a written statement signed by an appropriate official that the non-Federal interest agrees to be governed by the provisions of this section.
 
@@ -116,7 +116,7 @@ At the request of an authorized representative referred to in subsection (a)(6)(
 
 #### (e) Maritime Lien
 
-Port or harbor dues levied under this section against a vessel constitute a maritime lien against the vessel and port or harbor dues leviedagainst cargo constitute a lien against the cargo that may be recovered in an action in the district court of the United States for the district in which the vessel or cargo is found.
+Port or harbor dues levied under this section against a vessel constitute a maritime lien against the vessel and port or harbor dues levied against cargo constitute a lien against the cargo that may be recovered in an action in the district court of the United States for the district in which the vessel or cargo is found.
 
 (Pub. L. 99–662, title II, §208, Nov. 17, 1986, 100 Stat. 4102; Pub. L. 104–66, title I, §1021(g), Dec. 21, 1995, 109 Stat. 713.)
 
@@ -128,7 +128,7 @@ Subsection (b) of this section, referred to in subsec. (a)(6)(B), which related 
 
 Subsection (c) of this section, referred to in subsec. (a)(6)(D), which related to jurisdiction, was redesignated as subsec. (b) by Pub. L. 104–66.
 
-The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsec. (d)(2), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 #### Codification
 

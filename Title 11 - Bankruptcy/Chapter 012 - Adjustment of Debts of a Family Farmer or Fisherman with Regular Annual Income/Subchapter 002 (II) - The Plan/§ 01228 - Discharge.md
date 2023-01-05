@@ -52,7 +52,7 @@ Subsec. (c)(2). Pub. L. 115–72, §1005(b)(1)(B)(ii), inserted ", except as pr
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–8, §330(c)(1), substituted "Subject to subsection (d), as" for "As" in introductory provisions.
 
-Pub. L. 109–8, §213(6), inserted ", and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid" after "completion by the debtor of all payments under the plan" in introductory provisions.
+Pub. L. 109–8, §213(6), inserted ", and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only tothe extent provided for by the plan) have been paid" after "completion by the debtor of all payments under the plan" in introductory provisions.
 
 Subsec. (b). Pub. L. 109–8, §330(c)(2), substituted "Subject to subsection (d), at" for "At" in introductory provisions.
 

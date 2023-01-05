@@ -1,6 +1,6 @@
 ### §1475a. Replacement of passenger motor vehicles
 
-The exchange allowances or proceeds derived from the exchange or sale of passenger motorvehicles used abroad for purposes of this chapter or the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\] shall be available without fiscal year limitation for replacement of an equal number of such vehicles in accordance with section 503 of title 40.
+The exchange allowances or proceeds derived from the exchange or sale of passenger motor vehicles used abroad for purposes of this chapter or the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\] shall be available without fiscal year limitation for replacement of an equal number of such vehicles in accordance with section 503 of title 40.
 
 (Jan. 27, 1948, ch. 36, title VIII, §806, as added Pub. L. 94–350, title II, §204, July 12, 1976, 90 Stat. 830; amended Pub. L. 96–60, title II, §204(c), Aug. 15, 1979, 93 Stat. 400.)
 
@@ -8,7 +8,7 @@ The exchange allowances or proceeds derived from the exchange or sale of passeng
 
 #### References in Text
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 #### Codification
 

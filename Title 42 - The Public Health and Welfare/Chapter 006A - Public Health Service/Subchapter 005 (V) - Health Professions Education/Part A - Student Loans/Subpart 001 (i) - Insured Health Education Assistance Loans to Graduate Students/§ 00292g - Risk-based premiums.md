@@ -64,7 +64,7 @@ Lenders shall reduce by 50 percent the risk-based premium to eligible borrowers 
 
 &emsp;&emsp;(A) subsection (b)(4) shall not apply with respect to any eligible institution that is a Historically Black College or University; and
 
-&emsp;&emsp;(B) any such institution that has a default rate in excess of 20 percent, and any eligible borrower seeking a loan for attendance at the institution, shall be subject to subsection (b)(3) to the same extent and in the same manner as eligible institutions and borrowers described in such subsection.
+&emsp;&emsp;(B) any such institution that has a default rate in excess of 20 percent, and any eligibleborrower seeking a loan for attendance at the institution, shall be subject to subsection (b)(3) to the same extent and in the same manner as eligible institutions and borrowers described in such subsection.
 
 #### (e) Payoff to reduce risk category
 

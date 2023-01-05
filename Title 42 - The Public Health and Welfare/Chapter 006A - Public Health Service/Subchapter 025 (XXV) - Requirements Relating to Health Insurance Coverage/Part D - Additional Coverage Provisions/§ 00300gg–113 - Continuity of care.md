@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) provide such individual with an opportunity to notify the plan or issuer of the individual's need for transitional care; and
 
-&emsp;&emsp;(C) permit the patient to elect to continue to have benefits provided under such plan or such coverage, under the same terms and conditions as would have applied and with respect to such items and services as would have been covered under such plan or coverage had such termination not occurred, with respect to the course of treatment furnished by such provider or facility relatingto such individual's status as a continuing care patient during the period beginning on the date on which the notice under subparagraph (A) is provided and ending on the earlier of—
+&emsp;&emsp;(C) permit the patient to elect to continue to have benefits provided under such plan or such coverage, under the same terms and conditions as would have applied and with respect to such items and services as would have been covered under such plan or coverage had such termination not occurred, with respect to the course of treatment furnished by such provider or facility relating to such individual's status as a continuing care patient during the period beginning on the date on which the notice under subparagraph (A) is provided and ending on the earlier of—
 
 &emsp;&emsp;&emsp;(i) the 90-day period beginning on such date; or
 

@@ -60,7 +60,7 @@ The Secretary may add a parcel of real property to the System, if—
 
 The Secretary shall—
 
-&emsp;(1) keep a map showing the location of each boundary modification made under subsection (c) and of each parcel of real property added to the System under subsection (d) or (e) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other officesof the Service as the Director considers appropriate;
+&emsp;(1) keep a map showing the location of each boundary modification made under subsection (c) and of each parcel of real property added to the System under subsection (d) or (e) on file and available for public inspection in the Office of the Director of the United States Fish and Wildlife Service and in such other offices of the Service as the Director considers appropriate;
 
 &emsp;(2) provide a copy of the map to—
 
@@ -270,7 +270,7 @@ In General.—
 
 &emsp;"(1)
 
-Project.—The Secretary of the Interior (referred to in this section as the 'Secretary'), in consultation with the Director of the Federal Emergency Management Agency, shall carry out a pilot project to determine the feasibility and cost of creating digital versions of the John H. Chafee Coastal BarrierResources System maps referred to in section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)) (as amended by section 3(d)).
+Project.—The Secretary of the Interior (referred to in this section as the 'Secretary'), in consultation with the Director of the Federal Emergency Management Agency, shall carry out a pilot project to determine the feasibility and cost of creating digital versions of the John H. Chafee Coastal Barrier Resources System maps referred to in section 4(a) of the Coastal Barrier Resources Act (16 U.S.C. 3503(a)) (as amended by section 3(d)).
 
 &emsp;"(2)
 
@@ -328,7 +328,7 @@ Contents.—The report shall include a description of—
 
 "(e)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carry out this section $500,000 for each of fiscal years 2002 through 2004."
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary to carryout this section $500,000 for each of fiscal years 2002 through 2004."
 
 #### Findings
 

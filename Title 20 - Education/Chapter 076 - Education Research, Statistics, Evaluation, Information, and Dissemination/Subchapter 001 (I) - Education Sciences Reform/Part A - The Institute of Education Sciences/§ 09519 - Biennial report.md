@@ -4,7 +4,7 @@ The Director shall, on a biennial basis, transmit to the President, the Board, a
 
 &emsp;(1) A description of the activities carried out by and through the National Education Centers during the prior fiscal years.
 
-&emsp;(2) A summary of each grant, contract, and cooperative agreement in excess of $100,000 funded through the National Education Centers during the prior fiscal years, including, at a minimum, the amount, duration, recipient, purpose of the award, and the relationship, if any, to the priorities and mission of the Institute, which shall be available in a user-friendly electronic database.
+&emsp;(2) A summary of each grant, contract, and cooperative agreement in excess of $100,000 funded through the National Education Centers during the prior fiscal years, including, ata minimum, the amount, duration, recipient, purpose of the award, and the relationship, if any, to the priorities and mission of the Institute, which shall be available in a user-friendly electronic database.
 
 &emsp;(3) A description of how the activities of the National Education Centers are consistent with the principles of scientifically valid research and the priorities and mission of the Institute.
 

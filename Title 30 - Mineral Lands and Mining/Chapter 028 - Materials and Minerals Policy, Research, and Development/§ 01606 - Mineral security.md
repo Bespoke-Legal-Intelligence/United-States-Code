@@ -346,7 +346,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 #### (B) Leadership
 
-&emsp;&emsp;If an Energy Innovation Hub authorized under section 18632 of title 42 that is focusedon critical materials exists on December 27, 2020, the Secretary shall leverage the personnel and expertise of the Energy Innovation Hub to manage the Consortium for not less than 3 years following the date on which the Consortium is established.
+&emsp;&emsp;If an Energy Innovation Hub authorized under section 18632 of title 42 that is focused on critical materials exists on December 27, 2020, the Secretary shall leverage the personnel and expertise of the Energy Innovation Hub to manage the Consortium for not less than 3 years following the date on which the Consortium is established.
 
 #### (C) Membership
 
@@ -402,7 +402,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 #### (1) In general
 
-&emsp;The Secretary of Energy (referred to in this subsection as the "Secretary") shall support construction of a Critical Materials Supply Chain Research Facility (referred to in this subsection as the "facility").
+&emsp;The Secretary of Energy (referred to in this subsection as the "Secretary") shall supportconstruction of a Critical Materials Supply Chain Research Facility (referred to in this subsection as the "facility").
 
 #### (2) Requirements
 
@@ -474,7 +474,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 &emsp;In order to evaluate existing critical mineral policies and inform future actions that may be taken to avoid supply shortages, mitigate price volatility, and prepare for demand growth and other market shifts, the Secretary (acting through the Director of the United States Geological Survey) or a designee of the Secretary, in consultation with the Energy Information Administration, academic institutions, and others in order to maximize the application of existing competencies related to developing and maintaining computer-models and similar analytical tools, shall conduct and publish the results of an annual report that includes—
 
-&emsp;&emsp;(A) as part of the annually published Mineral Commodity Summaries from the United States Geological Survey, a comprehensive review of critical mineral production, consumption, and recycling patterns, including—
+&emsp;&emsp;(A) as part of the annually published Mineral Commodity Summaries from the UnitedStates Geological Survey, a comprehensive review of critical mineral production, consumption, and recycling patterns, including—
 
 &emsp;&emsp;&emsp;(i) the quantity of each critical mineral domestically produced during the preceding year;
 
@@ -572,7 +572,7 @@ Not later than 1 year and 300 days after December 27, 2020, the Administrator of
 
 #### (A) Establishment
 
-&emsp;&emsp;The Secretary and the Secretary of Labor shall jointly conduct a competitive grantprogram under which institutions of higher education may apply for and receive 4-year grants for—
+&emsp;&emsp;The Secretary and the Secretary of Labor shall jointly conduct a competitive grant program under which institutions of higher education may apply for and receive 4-year grants for—
 
 &emsp;&emsp;&emsp;(i) startup costs for newly designated faculty positions in integrated critical mineral education, research, innovation, training, and workforce development programs consistent with paragraph (2);
 

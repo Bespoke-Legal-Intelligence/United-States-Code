@@ -6,7 +6,7 @@ The Congress finds and declares that—
 
 &emsp;(1) education is important to, and makes a significant contribution to, the readjustment of incarcerated individuals to society; and
 
-&emsp;(2) there is a growing need for immediate action by the Federal Government to assistState and local educational programs for criminal offenders in correctional institutions.
+&emsp;(2) there is a growing need for immediate action by the Federal Government to assist State and local educational programs for criminal offenders in correctional institutions.
 
 #### (b) Statement of purpose
 

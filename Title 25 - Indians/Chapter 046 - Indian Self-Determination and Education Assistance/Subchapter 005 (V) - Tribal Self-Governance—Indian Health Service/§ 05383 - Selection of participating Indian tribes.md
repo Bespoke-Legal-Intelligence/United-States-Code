@@ -14,7 +14,7 @@ Each Indian tribe that is participating in the Tribal Self-Governance Demonstrat
 
 #### (A) In general
 
-&emsp;&emsp;An Indian tribe that has withdrawn from participation in an inter-tribal consortium or tribal organization, in whole or in part, shall be entitled to participate in self-governance provided the Indian tribe meets the eligibility criteria specified in subsection (c) of this section.
+&emsp;&emsp;An Indian tribe that has withdrawn from participation in an inter-tribal consortium or tribal organization, in whole or in part,shall be entitled to participate in self-governance provided the Indian tribe meets the eligibility criteria specified in subsection (c) of this section.
 
 #### (B) Effect of withdrawal
 
@@ -42,7 +42,7 @@ Each Indian tribe that is participating in the Tribal Self-Governance Demonstrat
 
 #### (d) Planning phase
 
-Each Indian tribe seeking participation in self-governance shall complete a planning phase. The planning phase shall be conducted to thesatisfaction of the Indian tribe and shall include—
+Each Indian tribe seeking participation in self-governance shall complete a planning phase. The planning phase shall be conducted to the satisfaction of the Indian tribe and shall include—
 
 &emsp;(1) legal and budgetary research; and
 

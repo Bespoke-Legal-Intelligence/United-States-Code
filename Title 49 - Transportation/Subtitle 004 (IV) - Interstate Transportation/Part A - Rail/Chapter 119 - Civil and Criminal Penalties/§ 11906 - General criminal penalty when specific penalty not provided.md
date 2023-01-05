@@ -16,7 +16,7 @@ This amends 49:11906 to correct an erroneous cross-reference.
 
 Provisions similar to those in this section were contained in section 11914 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-A prior section 11906, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1459, related to evasion of regulation of motor carriers and brokers, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See section 14906 of this title.
+A prior section 11906, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1459, related to evasion of regulation of motorcarriers and brokers, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See section 14906 of this title.
 
 #### Amendments
 

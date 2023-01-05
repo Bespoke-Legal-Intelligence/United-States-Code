@@ -26,5 +26,5 @@ The word "Alaska" is substituted for "Alaskan" in the phrase "Alaska Native-serv
 
 #### References in Text
 
-The General Education Provisions Act, referred to in text, is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 etseq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1221 of Title 20 and Tables.
+The General Education Provisions Act, referred to in text, is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1221 of Title 20 and Tables.
 

@@ -38,7 +38,7 @@ For purposes of this part:
 
 &emsp;&emsp;&emsp;(i) any company that directly or indirectly owns, controls, or holds, with power to vote, 10 percent or more of the outstanding voting securities of a public-utility company or of a holding company of any public-utility company; and
 
-&emsp;&emsp;&emsp;(ii) any person, determined by the Commission, after notice and opportunity for hearing, to exercise directly or indirectly (either alone or pursuant to an arrangement or understanding with one or more persons) such a controlling influence over the management or policies of any public-utility company or holding company as to make it necessary or appropriate for the rate protection of utility customers with respect to rates that such person be subject to the obligations, duties, and liabilities imposed by this part upon holding companies.
+&emsp;&emsp;&emsp;(ii) any person, determined by the Commission, after notice and opportunity for hearing, to exercise directly or indirectly (either alone or pursuant to an arrangement or understanding with one or morepersons) such a controlling influence over the management or policies of any public-utility company or holding company as to make it necessary or appropriate for the rate protection of utility customers with respect to rates that such person be subject to the obligations, duties, and liabilities imposed by this part upon holding companies.
 
 #### (B) Exclusions
 
@@ -116,7 +116,7 @@ Pub. L. 109–58, title XII, §1274, Aug. 8, 2005, 119 Stat. 977, provided that:
 
 "(a)
 
-In General.—Except for section 1272 \[42 U.S.C. 16460\] (relating to implementation), this subtitle \[subtitle F (§§1261 to 1277) of title XII of Pub. L. 109–58, enacting this part, amending sections 824 and 824m of Title 16, Conservation, repealing chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, and section 825q of Title 16, and enacting provisions set out as a note under section 15801 of this title\] shall take effect 6 months after the date of enactment of this subtitle \[Aug. 8, 2005\].
+In General.—Except for section 1272 \[42 U.S.C. 16460\] (relating to implementation), this subtitle \[subtitle F (§§1261 to 1277) of title XII of Pub. L. 109–58, enacting this part, amending sections 824 and 824m of Title 16, Conservation, repealing chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, and section 825q of Title 16, and enacting provisions set out as a note undersection 15801 of this title\] shall take effect 6 months after the date of enactment of this subtitle \[Aug. 8, 2005\].
 
 "(b)
 

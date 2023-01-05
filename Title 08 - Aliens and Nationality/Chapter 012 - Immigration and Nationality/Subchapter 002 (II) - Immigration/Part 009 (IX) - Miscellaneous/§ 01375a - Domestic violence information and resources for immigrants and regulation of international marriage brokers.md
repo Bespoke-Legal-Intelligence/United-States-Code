@@ -10,13 +10,13 @@
 
 &emsp;The information pamphlet developed under paragraph (1) shall include information on the following:
 
-&emsp;&emsp;(A) The K nonimmigrant visa application process and the marriage-based immigration process, including conditional residence and adjustment of status.
+&emsp;&emsp;(A) The K nonimmigrant visa application process and the marriage-based immigrationprocess, including conditional residence and adjustment of status.
 
 &emsp;&emsp;(B) The illegality of domestic violence, sexual assault, and child abuse in the United States and the dynamics of domestic violence.
 
 &emsp;&emsp;(C) Domestic violence and sexual assault services in the United States, including the National Domestic Violence Hotline and the National Sexual Assault Hotline.
 
-&emsp;&emsp;(D) The legal rights of immigrant victims of abuse and other crimes in immigration,criminal justice, family law, and other matters, including access to protection orders.
+&emsp;&emsp;(D) The legal rights of immigrant victims of abuse and other crimes in immigration, criminal justice, family law, and other matters, including access to protection orders.
 
 &emsp;&emsp;(E) The obligations of parents to provide child support for children.
 
@@ -356,7 +356,7 @@ In this section:
 
 #### (2) Report
 
-&emsp;Not later than 2 years after January 5, 2006, the Comptroller General shall submit to theCommittee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report setting forth the results of the study conducted under paragraph (1).
+&emsp;Not later than 2 years after January 5, 2006, the Comptroller General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report setting forth the results of the study conducted under paragraph (1).
 
 #### (3) Data collection
 
@@ -418,7 +418,7 @@ Subsec. (d)(3)(C). Pub. L. 113–4, §808(c)(3)(B), struck out subpar. (C). Text
 
 Subsec. (d)(5)(A)(ii). Pub. L. 113–4, §808(c)(4)(A), substituted "At the discretion of the Attorney General, a penalty may be imposed under clause (i) either by a Federal judge, or by the Attorney General" for "A penalty may be imposed under clause (i) by the Attorney General only".
 
-Subsec. (d)(5)(B). Pub. L. 113–4, §808(c)(4)(B), amended subpar. (B) generally. Prior to amendment, text read as follows: "In circumstances in or affecting interstate or foreign commerce, an international marriage brokerthat, within the special maritime and territorial jurisdiction of the United States, violates (or attempts to violate) paragraph (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 5 years, or both."
+Subsec. (d)(5)(B). Pub. L. 113–4, §808(c)(4)(B), amended subpar. (B) generally. Prior to amendment, text read as follows: "In circumstances in or affecting interstate or foreign commerce, an international marriage broker that, within the special maritime and territorial jurisdiction of the United States, violates (or attempts to violate) paragraph (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 5 years, or both."
 
 Subsec. (d)(5)(C). Pub. L. 113–4, §808(c)(4)(C), substituted "including equitable remedies." for period at end.
 

@@ -36,7 +36,7 @@ In developing the strategy required under subsection (a), the Secretary shall—
 
 #### (d) Implementation plan
 
-Not later than 90 days after the development of the strategy required under subsection (a), the Secretary shall issue an implementation plan for the strategy that includes the following:
+Not later than 90 days after the development of the strategy required under subsection (a), the Secretary shall issue an implementationplan for the strategy that includes the following:
 
 &emsp;(1) Strategic objectives and corresponding tasks.
 
@@ -60,11 +60,7 @@ The strategy required under subsection (a) shall be in an unclassified form but 
 
 Nothing in this section may be construed as permitting the Department to engage in monitoring, surveillance, exfiltration, or other collection activities for the purpose of tracking an individual's personally identifiable information.
 
-#### (h) Definition
-
-In this section, the term "Homeland Security Enterprise" means relevant governmental and nongovernmental entities involved in homeland security, including Federal, State, local, and tribal government officials, private sector representatives, academics, and other policy experts.
-
-(Pub. L. 107–296, title XXII, §2211, formerly title II, §228A, as added Pub. L. 114–328, div. A, title XIX, §1912(a), Dec. 23, 2016, 130 Stat. 2683; renumbered title XXII, §2211, and amended Pub. L. 115–278, §2(g)(2)(I), (9)(A)(v), Nov. 16, 2018, 132 Stat. 4178, 4181.)
+(Pub. L. 107–296, title XXII, §2211, formerly title II, §228A, as added Pub. L. 114–328, div. A, title XIX, §1912(a), Dec. 23, 2016, 130 Stat. 2683; renumbered title XXII, §2211, and amended Pub. L. 115–278, §2(g)(2)(I), (9)(A)(v), Nov. 16, 2018, 132 Stat. 4178, 4181; Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(F), Dec. 23, 2022, 136 Stat. 3660.)
 
 #### <b>Editorial Notes</b>
 
@@ -73,6 +69,8 @@ In this section, the term "Homeland Security Enterprise" means relevant governme
 Section was formerly classified to section 149a of this title prior to renumbering by Pub. L. 115–278.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–263 struck out subsec. (h). Text read as follows: "In this section, the term 'Homeland Security Enterprise' means relevant governmental and nongovernmental entities involved in homeland security, including Federal, State, local, and tribal government officials, private sector representatives, academics, and other policy experts."
 
 <b>2018</b>—Subsec. (b)(2)(A). Pub. L. 115–278, §2(g)(9)(A)(v), substituted "section 659 of this title" for "the section 148 of this title".
 

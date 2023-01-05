@@ -24,23 +24,9 @@
 
 (2) The plan as modified becomes the plan unless, after notice and a hearing, such modification is disapproved.
 
-(c) A plan modified under this section may not provide for payments over a period that expiresafter the applicable commitment period under section 1325(b)(1)(B) after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
-
-(d)(1) Subject to paragraph (3), for a plan confirmed prior to the date of enactment of the COVID–19 Bankruptcy Relief Extension Act of 2021, the plan may be modified upon the request of the debtor if—
-
-&emsp;(A) the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; and
-
-&emsp;(B) the modification is approved after notice and a hearing.
-
-(2) A plan modified under paragraph (1) may not provide for payments over a period that expires more than 7 years after the time that the first payment under the original confirmed plan was due.
-
-(3) Sections 1322(a), 1322(b), 1323(c), and the requirements of section 1325(a) shall apply to any modification under paragraph (1).
+(c) A plan modified under this section may not provide for payments over a period that expires after the applicable commitment period under section 1325(b)(1)(B) after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2651; Pub. L. 98–353, title III, §§319, 533, July 10, 1984, 98 Stat. 357, 389; Pub. L. 109–8, title I, §102(i), title III, §318(4), Apr. 20, 2005, 119 Stat. 34, 94; Pub. L. 116–136, div. A, title I, §1113(b)(1)(C), (2)(A)(iii), Mar. 27, 2020, 134 Stat. 311, 312; Pub. L. 116–260, div. FF, title X, §1001(e), Dec. 27, 2020, 134 Stat. 3218; Pub. L. 117–5, §2(b)(1), Mar. 27, 2021, 135 Stat. 249.)
-
-#### Amendment of Subsection (d)
-
-<i>Pub. L. 116–136, div. A, title I, §1113(b)(2)(A)(iii), (B), Mar. 27, 2020, 134 Stat. 312, as amended by Pub. L. 117–5, §2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that, effective 2 years after Mar. 27, 2020, this section is amended by striking subsection (d). See 2020 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
@@ -49,10 +35,6 @@
 At any time prior to the completion of payments under a confirmed plan, the plan may be modified, after notice and hearing, to change the amount of payments to creditors or a particular class of creditors and to extend or reduce the payment period. A modified plan may not contain any provision which could not be included in an original plan as prescribed by section 1322. A modified plan may not call for payments to be made beyond four years as measured from the date of the commencement of payments under the original plan.
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The date of enactment of the COVID–19 Bankruptcy Relief Extension Act of 2021, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 117–5, which was approved Mar. 27, 2021.
 
 #### Amendments
 

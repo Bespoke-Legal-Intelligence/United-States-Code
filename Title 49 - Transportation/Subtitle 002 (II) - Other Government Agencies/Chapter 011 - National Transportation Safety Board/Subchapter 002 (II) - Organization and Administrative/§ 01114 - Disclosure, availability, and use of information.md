@@ -146,7 +146,7 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §304(b)(11); added Nov. 28, 1990
 
 49 App.:1903(b) (11)(C).
 
-In subsection (a), the words "record, information, or investigation" are substituted for "communication, document, investigation, or other report, or information" to eliminate unnecessary words. The words "of the United States" are added for clarity.
+In subsection (a), the words "record, information, or investigation" are substituted for "communication,document, investigation, or other report, or information" to eliminate unnecessary words. The words "of the United States" are added for clarity.
 
 In subsection (c)(1), before clause (A), the words "Notwithstanding any other provision of law" are omitted as surplus. The word "relevant" is substituted for "relevant and pertinent" to eliminate unnecessary words.
 

@@ -16,7 +16,7 @@ Every investment adviser who makes use of the mails or of any means or instrumen
 
 #### (2) Treatment of records
 
-&emsp;The records and reports of any private fund to which an investment adviser registered under this subchapter provides investment advice shall be deemed to be the records and reports of the investment adviser.
+&emsp;The records and reports of any private fund to which an investment adviser registeredunder this subchapter provides investment advice shall be deemed to be the records and reports of the investment adviser.
 
 #### (3) Required information
 
@@ -90,7 +90,7 @@ Every investment adviser who makes use of the mails or of any means or instrumen
 
 #### (A) In general
 
-&emsp;&emsp;The Commission, the Council, and any other department, agency, or self-regulatory organization that receives information, reports, documents, records, or information from the Commission under this subsection, shall be exempt from the provisions of section 552 of title 5 with respect to any such report, document, record, or information. Any proprietary information of an investment adviser ascertained by the Commission from any report required to be filed with the Commission pursuant to this subsection shall be subject to the same limitations on public disclosure as any facts ascertained during an examination, as provided by section 80b–10(b) of this title.
+&emsp;&emsp;The Commission, the Council, and any other department, agency, or self-regulatory organization that receives information, reports, documents, records, or informationfrom the Commission under this subsection, shall be exempt from the provisions of section 552 of title 5 with respect to any such report, document, record, or information. Any proprietary information of an investment adviser ascertained by the Commission from any report required to be filed with the Commission pursuant to this subsection shall be subject to the same limitations on public disclosure as any facts ascertained during an examination, as provided by section 80b–10(b) of this title.
 
 #### (B) Proprietary information
 
@@ -138,7 +138,7 @@ The Commission may, by rule, require an investment adviser—
 
 &emsp;An entity designated by the Commission under subsection (b)(1) shall not have any liability to any person for any actions taken or omitted in good faith under this subsection.
 
-#### (d) <sup>3</sup> Records of persons with custody or use
+#### (e) Records of persons with custody or use
 
 #### (1) In general
 
@@ -148,11 +148,25 @@ The Commission may, by rule, require an investment adviser—
 
 &emsp;Any person that is subject to regulation and examination by a Federal financial institution regulatory agency (as such term is defined under section 212(c)(2) of title 18) may satisfy any examination request, information request, or document request described under paragraph (1), by providing the Commission with a detailed listing, in writing, of the securities, deposits, or credits of the client within the custody or use of such person.
 
-(Aug. 22, 1940, ch. 686, title II, §204, 54 Stat. 852; Pub. L. 86–750, §6, Sept. 13, 1960, 74 Stat. 886; Pub. L. 94–29, §29(5), June 4, 1975, 89 Stat. 169; Pub. L. 109–290, §7(a), Sept. 29, 2006, 120 Stat. 1321; Pub. L. 111–203, title IV, §404, title IX, §929Q(b), July 21, 2010, 124 Stat. 1571, 1866.)
+#### (f) Data standards for reports filed under this section
+
+#### (1) Requirement
+
+&emsp;The Commission shall, by rule, adopt data standards for all reports filed by investment advisers with the Commission under this section.
+
+#### (2) Consistency
+
+&emsp;The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(Aug. 22, 1940, ch. 686, title II, §204, 54 Stat. 852; Pub. L. 86–750, §6, Sept. 13, 1960, 74 Stat. 886; Pub. L. 94–29, §29(5), June 4, 1975, 89 Stat. 169; Pub. L. 109–290, §7(a), Sept. 29, 2006, 120 Stat. 1321; Pub. L. 111–203, title IV, §404, title IX, §929Q(b), July 21, 2010, 124 Stat. 1571, 1866; Pub. L. 117–263, div. E, title LVIII, §5821(a), Dec. 23, 2022, 136 Stat. 3424.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsecs. (d), (e). Pub. L. 117–263, §5821(a)(1), redesignated subsec. (d) relating to records of persons with custody or use as (e).
+
+Subsec. (f). Pub. L. 117–263, §5821(a)(2), added subsec. (f).
 
 <b>2010</b>—Subsecs. (b), (c). Pub. L. 111–203, §404, added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d) relating to access to disciplinary and other information.
 
@@ -178,6 +192,10 @@ Amendment by section 404 of Pub. L. 111–203 effective 1 year after July 21, 20
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
 
+#### Rule of Construction—No New Disclosure Requirements
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
+
 #### <b>Executive Documents</b>
 
 #### Transfer of Functions
@@ -187,6 +205,4 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 <i><sup>1</sup></i><i> So in original. The quotation marks and period probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be preceded by "to".</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "(e)".</i>
 

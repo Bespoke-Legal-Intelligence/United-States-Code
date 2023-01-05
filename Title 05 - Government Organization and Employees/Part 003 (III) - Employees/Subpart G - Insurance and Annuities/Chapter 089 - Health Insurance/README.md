@@ -8,6 +8,7 @@
 | [8903\.](%C2%A7%2008903%20-%20Health%20benefits%20plans.md) | Health benefits plans. |
 | [8903a.](%C2%A7%2008903a%20-%20Additional%20health%20benefits%20plans.md) | Additional health benefits plans. |
 | [8903b.](%C2%A7%2008903b%20-%20Authority%20to%20readmit%20an%20employee%20organization%20plan.md) | Authority to readmit an employee organization plan. |
+| [8903c.](%C2%A7%2008903c%20-%20Postal%20Service%20Health%20Benefits%20Program.md) | Postal Service Health Benefits Program. |
 | [8904\.](%C2%A7%2008904%20-%20Types%20of%20benefits.md) | Types of benefits. |
 | [8905\.](%C2%A7%2008905%20-%20Election%20of%20coverage.md) | Election of coverage. |
 | [8905a.](%C2%A7%2008905a%20-%20Continued%20coverage.md) | Continued coverage. |
@@ -16,23 +17,20 @@
 | [8907\.](%C2%A7%2008907%20-%20Information%20to%20individuals%20eligible%20to%20enroll.md) | Information to individuals eligible to enroll. |
 | [8908\.](%C2%A7%2008908%20-%20Coverage%20of%20restored%20employees%20and%20survivor%20or%20disability%20annuitants.md) | Coverage of restored employees and survivor or disability annuitants. |
 | [8909\.](%C2%A7%2008909%20-%20Employees%20Health%20Benefits%20Fund.md) | Employees Health Benefits Fund. |
-| [8909a.](%C2%A7%2008909a%20-%20Postal%20Service%20Retiree%20Health%20Benefit%201%20Fund.md) | Postal Service Retiree Health Benefits Fund.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [8909a.](%C2%A7%2008909a%20-%20Postal%20Service%20Retiree%20Health%20Benefits%20Fund.md) | Postal Service Retiree Health Benefits Fund. |
 | [8910\.](%C2%A7%2008910%20-%20Studies%2C%20reports%2C%20and%20audits.md) | Studies, reports, and audits. |
 | [8911\.](%C2%A7%2008911%20-%20Advisory%20committee.md) | Advisory committee. |
 | [8912\.](%C2%A7%2008912%20-%20Jurisdiction%20of%20courts.md) | Jurisdiction of courts. |
 | [8913\.](%C2%A7%2008913%20-%20Regulations.md) | Regulations. |
-| [8914\.](%C2%A7%2008914%20-%20Effect%20of%20other%20statutes.md) | Effect of other statutes.<br> |
+| [8914\.](%C2%A7%2008914%20-%20Effect%20of%20other%20statutes.md) | Effect of other statutes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–108, title I, §102(a)(2)(B), Apr. 6, 2022, 136 Stat. 1135, added item 8903c.
 
 <b>2006</b>—Pub. L. 109–435, title VIII, §803(a)(2), Dec. 20, 2006, 120 Stat. 3252, added item 8909a.
 
@@ -48,8 +46,6 @@ Pub. L. 100–238, title I, §108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added 
 
 <b>1976</b>—Pub. L. 94–342, §1(b), July 6, 1976, 90 Stat. 808, substituted "employees and survivor annuitants" for "employee" in item 8908.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
-
 
 ---
 
@@ -61,6 +57,7 @@ Pub. L. 100–238, title I, §108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added 
 - [&sect; 08903 - Health benefits plans](%C2%A7%2008903%20-%20Health%20benefits%20plans.md)
 - [&sect; 08903a - Additional health benefits plans](%C2%A7%2008903a%20-%20Additional%20health%20benefits%20plans.md)
 - [&sect; 08903b - Authority to readmit an employee organization plan](%C2%A7%2008903b%20-%20Authority%20to%20readmit%20an%20employee%20organization%20plan.md)
+- [&sect; 08903c - Postal Service Health Benefits Program](%C2%A7%2008903c%20-%20Postal%20Service%20Health%20Benefits%20Program.md)
 - [&sect; 08904 - Types of benefits](%C2%A7%2008904%20-%20Types%20of%20benefits.md)
 - [&sect; 08905 - Election of coverage](%C2%A7%2008905%20-%20Election%20of%20coverage.md)
 - [&sect; 08905a - Continued coverage](%C2%A7%2008905a%20-%20Continued%20coverage.md)
@@ -69,7 +66,7 @@ Pub. L. 100–238, title I, §108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added 
 - [&sect; 08907 - Information to individuals eligible to enroll](%C2%A7%2008907%20-%20Information%20to%20individuals%20eligible%20to%20enroll.md)
 - [&sect; 08908 - Coverage of restored employees and survivor or disability annuitants](%C2%A7%2008908%20-%20Coverage%20of%20restored%20employees%20and%20survivor%20or%20disability%20annuitants.md)
 - [&sect; 08909 - Employees Health Benefits Fund](%C2%A7%2008909%20-%20Employees%20Health%20Benefits%20Fund.md)
-- [&sect; 08909a - Postal Service Retiree Health Benefit 1 Fund](%C2%A7%2008909a%20-%20Postal%20Service%20Retiree%20Health%20Benefit%201%20Fund.md)
+- [&sect; 08909a - Postal Service Retiree Health Benefits Fund](%C2%A7%2008909a%20-%20Postal%20Service%20Retiree%20Health%20Benefits%20Fund.md)
 - [&sect; 08910 - Studies, reports, and audits](%C2%A7%2008910%20-%20Studies%2C%20reports%2C%20and%20audits.md)
 - [&sect; 08911 - Advisory committee](%C2%A7%2008911%20-%20Advisory%20committee.md)
 - [&sect; 08912 - Jurisdiction of courts](%C2%A7%2008912%20-%20Jurisdiction%20of%20courts.md)

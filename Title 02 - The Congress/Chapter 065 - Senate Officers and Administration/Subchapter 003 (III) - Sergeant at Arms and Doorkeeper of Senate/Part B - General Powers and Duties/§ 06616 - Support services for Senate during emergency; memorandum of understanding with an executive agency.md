@@ -8,7 +8,7 @@ Notwithstanding any other provision of law—
 
 &emsp;(2) the Sergeant at Arms of the Senate and the head of the agency may take any action necessary to carry out the terms of the memorandum of understanding; and
 
-&emsp;(3) the Sergeant at Arms of the Senate may enter into a memorandum of understandingdescribed in paragraph (1) consistent with the Senate Procurement Regulations.
+&emsp;(3) the Sergeant at Arms of the Senate may enter into a memorandum of understanding described in paragraph (1) consistent with the Senate Procurement Regulations.
 
 #### (b) Obligations and expenditures
 

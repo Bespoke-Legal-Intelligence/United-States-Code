@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(i) furnished pursuant to the prescription, order, or recommendation (as applicable) of a physician or other health care professional qualified to make such prescription, order, or recommendation, for the dietary management of a covered disease or condition;
 
-&emsp;&emsp;(ii) a specially formulated and processed product (as opposed to a naturally occurringfoodstuff used in its natural state) for the partial or exclusive feeding of an individual by means of oral intake or enteral feeding by tube;
+&emsp;&emsp;(ii) a specially formulated and processed product (as opposed to a naturally occurring foodstuff used in its natural state) for the partial or exclusive feeding of an individual by means of oral intake or enteral feeding by tube;
 
 &emsp;&emsp;(iii) intended for the dietary management of an individual who, because of therapeutic or chronic medical needs, has limited or impaired capacity to ingest, digest, absorb, or metabolize ordinary foodstuffs or certain nutrients, or who has other special medically determined nutrient requirements, the dietary management of which cannot be achieved by the modification of the normal diet alone;
 
@@ -304,7 +304,7 @@ In general.—With respect to a child who receives from the Department of Defens
 
 &emsp;&emsp;"(A) the Secretary shall provide the results of the test to the parent or guardian of the child; and
 
-&emsp;&emsp;"(B) notwithstanding any requirements for the confidentiality of health information under the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) \[see Tables for classification\], if the results of the test show an abnormal blood lead level or elevated blood lead level, the Secretary shall provide those results and the address at which the child resides to—
+&emsp;&emsp;"(B) notwithstanding any requirements for the confidentiality of health information under the Health Insurance Portability and AccountabilityAct of 1996 (Public Law 104–191) \[see Tables for classification\], if the results of the test show an abnormal blood lead level or elevated blood lead level, the Secretary shall provide those results and the address at which the child resides to—
 
 &emsp;&emsp;&emsp;"(i) the relevant health department of the State in which the child resides if the child resides in the United States; or
 
@@ -324,7 +324,7 @@ State defined.—In this subsection, the term 'State' means each of the several 
 
 Report.—Not later than January 1, 2021, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report detailing, with respect to the period beginning on the date of the enactment of this Act and ending on the date of the report, the following:
 
-&emsp;"(1) The number of children who were tested by the Department of Defense for the level of lead in theblood of the child, and of such number, the number who were found to have an elevated blood lead level.
+&emsp;"(1) The number of children who were tested by the Department of Defense for the level of lead in the blood of the child, and of such number, the number who were found to have an elevated blood lead level.
 
 &emsp;"(2) The number of children who were screened by the Department of Defense for an elevated risk of lead exposure.
 
@@ -414,7 +414,7 @@ Pub. L. 109–163, div. A, title VII, §721, Jan. 6, 2006, 119 Stat. 3346, direc
 
 #### Provision of Domiciliary and Custodial Care for Certain CHAMPUS Beneficiaries
 
-Pub. L. 106–65, div. A, title VII, §703, Oct. 5, 1999, 113 Stat. 682, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, § 701(a), (b), (c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, related to the continued provision of domiciliary and custodial care for certain CHAMPUS beneficiaries, prohibited the establishment of a limited transition period for such program, required a survey and report of case management and custodial care policies, and provided for cost limitations for each fiscal year, prior to repeal by Pub. L. 107–107, div. A, title VII, §701(g)(1)(A), Dec. 28, 2001, 115 Stat. 1161.
+Pub. L. 106–65, div. A, title VII, §703, Oct. 5, 1999, 113 Stat. 682, as amended by Pub. L. 106–398, §1 \[\[div. A\],title VII, § 701(a), (b), (c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–172, related to the continued provision of domiciliary and custodial care for certain CHAMPUS beneficiaries, prohibited the establishment of a limited transition period for such program, required a survey and report of case management and custodial care policies, and provided for cost limitations for each fiscal year, prior to repeal by Pub. L. 107–107, div. A, title VII, §701(g)(1)(A), Dec. 28, 2001, 115 Stat. 1161.
 
 #### Obstetrical Care Facilities
 

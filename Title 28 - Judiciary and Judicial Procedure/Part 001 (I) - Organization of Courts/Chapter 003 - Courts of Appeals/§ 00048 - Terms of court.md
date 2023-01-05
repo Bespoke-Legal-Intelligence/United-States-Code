@@ -66,7 +66,7 @@ Changes were made in phraseology.
 
 #### Senate Revision Amendment
 
-By Senate amendment, Jacksonville (Fla.) was added as a place for holding a regular session of the Court ofAppeals for the Fifth Circuit. See 80th Congress Senate Report No. 1559.
+By Senate amendment, Jacksonville (Fla.) was added as a place for holding a regular session of the Court of Appeals for the Fifth Circuit. See 80th Congress Senate Report No. 1559.
 
 #### <b>Editorial Notes</b>
 

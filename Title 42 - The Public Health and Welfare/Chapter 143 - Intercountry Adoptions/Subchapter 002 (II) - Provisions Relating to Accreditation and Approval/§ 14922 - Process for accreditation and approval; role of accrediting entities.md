@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall enter into agreements with one or more qualified entities under which such entities will perform the duties described in subsection (b) in accordance with the Convention, this subchapter, and the regulations prescribed under section 14923 of this title, and upon entering into each such agreement shall designate the qualified entity as an accrediting entity.
+&emsp;The Secretary shall enter into agreements with one or more qualified entities underwhich such entities will perform the duties described in subsection (b) in accordance with the Convention, this subchapter, and the regulations prescribed under section 14923 of this title, and upon entering into each such agreement shall designate the qualified entity as an accrediting entity.
 
 #### (2) Qualified entities
 
@@ -72,7 +72,7 @@ The amount of fees assessed by accrediting entities for the costs of accreditati
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a)(1), was in the original "this title", meaning title II of Pub. L.106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in subsec. (a)(1), was in the original "this title", meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 

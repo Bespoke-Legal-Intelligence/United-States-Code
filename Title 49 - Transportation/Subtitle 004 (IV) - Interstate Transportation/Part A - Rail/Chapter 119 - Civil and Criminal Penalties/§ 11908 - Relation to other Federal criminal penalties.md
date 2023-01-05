@@ -16,7 +16,7 @@ Section 11909, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1460; Pub. L. 96–258,
 
 Section 11910, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1461; Pub. L. 96–448, title III, §303(b), Oct. 14, 1980, 94 Stat. 1938; Pub. L. 99–521, §13(d), Oct. 22, 1986, 100 Stat. 2999, related to penalties for unlawful disclosure of information. See sections 11904, 14908, and 16103 of this title.
 
-Section 11911, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1462; Pub. L. 97–261, §19(c), Sept. 20, 1982, 96 Stat. 1121, related to penalties for violations involving issuance ofsecurities, disposition of funds, and restrictions on ownership.
+Section 11911, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1462; Pub. L. 97–261, §19(c), Sept. 20, 1982, 96 Stat. 1121, related to penalties for violations involving issuance of securities, disposition of funds, and restrictions on ownership.
 
 Section 11912, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1462; Pub. L. 96–258, §1(13)(C), June 3, 1980, 94 Stat. 427, related to penalties for violations by persons, not carriers, involving consolidations, mergers, and acquisitions of control.
 

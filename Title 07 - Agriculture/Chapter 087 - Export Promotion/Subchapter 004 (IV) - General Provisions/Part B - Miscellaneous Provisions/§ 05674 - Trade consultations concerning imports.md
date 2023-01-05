@@ -6,7 +6,7 @@ The Secretary shall require consultation between the Administrator of the Servic
 
 #### (b) Consultation with Trade Representative
 
-The Secretary shall consult with the United States Trade Representative prior to relaxing or removing any restriction on the importation of any agricultural commodity or a product thereof into the United States.
+The Secretary shall consult with the United States Trade Representative prior to relaxing orremoving any restriction on the importation of any agricultural commodity or a product thereof into the United States.
 
 #### (c) Monitoring compliance with sanitary and phytosanitary measures
 

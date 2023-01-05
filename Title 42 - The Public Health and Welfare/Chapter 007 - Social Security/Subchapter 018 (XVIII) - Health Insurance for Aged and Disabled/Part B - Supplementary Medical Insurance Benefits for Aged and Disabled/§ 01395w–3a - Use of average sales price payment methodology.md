@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) in the case of a multiple source drug (as defined in subsection (c)(6)(C)), 106 percent of the amount determined under paragraph (3) for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008;
 
-&emsp;&emsp;(B) in the case of a single source drug or biological (as defined in subsection (c)(6)(D)), 106 percent of the amount determined under paragraph (4); or
+&emsp;&emsp;(B) in the case of a single source drug or biological (as defined in subsection (c)(6)(D)), 106 percent of the amount determined under paragraph (4) or in the case of such a drug or biological product that is a selected drug (asreferred to in section 1320f–1(c) of this title), with respect to a price applicability period (as defined in section 1320f(b)(2) of this title), 106 percent of the maximum fair price (as defined in section 1320f(c)(3) of this title) applicable for such drug and a year during such period; or
 
 &emsp;&emsp;(C) in the case of a biosimilar biological product (as defined in subsection (c)(6)(H)), the amount determined under paragraph (8).
 
@@ -100,11 +100,35 @@
 
 #### (8) Biosimilar biological product
 
-&emsp;The amount specified in this paragraph for a biosimilar biological product described in paragraph (1)(C) is the sum of—
+#### (A) In general
 
-&emsp;&emsp;(A) the average sales price as determined using the methodology described under paragraph (6) applied to a biosimilar biological product for all National Drug Codes assigned to such product in the same manner as such paragraph is applied to drugs described in such paragraph; and
+&emsp;&emsp;Subject to subparagraph (B), the amount specified in this paragraph for a biosimilar biological product described in paragraph (1)(C) is the sum of—
 
-&emsp;&emsp;(B) 6 percent of the amount determined under paragraph (4) for the reference biological product (as defined in subsection (c)(6)(I)).
+&emsp;&emsp;&emsp;(i) the average sales price as determined using the methodology described under paragraph (6) applied to a biosimilar biological product for all National Drug Codes assigned to such product in the same manner as such paragraph is applied to drugs described in such paragraph; and
+
+&emsp;&emsp;&emsp;(ii) 6 percent of the amount determined under paragraph (4) for the reference biological product (as defined in subsection (c)(6)(I)).
+
+#### (B) Temporary payment increase
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In the case of a qualifying biosimilar biological product that is furnished during the applicable 5-year period for such product, the amount specified in this paragraph for such product with respect to such period is the sum determined under subparagraph (A), except that clause (ii) of such subparagraph shall be applied by substituting "8 percent" for "6 percent".
+
+#### (ii) Applicable 5-year period
+
+&emsp;&emsp;&emsp;For purposes of clause (i), the applicable 5-year period for a qualifying biosimilar biological product is—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the case of such a product for which payment was made under this paragraph as of September 30, 2022, the 5-year period beginning on October 1, 2022; and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of such a product for which payment is first made under this paragraph during a calendar quarter during the period beginning October 1, 2022, and ending December 31, 2027, the 5-year period beginning on the first day of such calendar quarter during which such payment is first made.
+
+#### (iii) Qualifying biosimilar biological product defined
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "qualifying biosimilar biological product" means a biosimilar biological product described in paragraph (1)(C) with respect to which—
+
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a product described in clause (ii)(I), the average sales price under paragraph (8)(A)(i) for a calendar quarter during the 5-year period described in such clause is not more than the average sales price under paragraph (4)(A) for such quarter for the reference biological product; and
+
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a product described in clause (ii)(II), the average sales price under paragraph (8)(A)(i) for a calendar quarter during the 5-year period described in such clause is not more than the average sales price under paragraph (4)(A) for such quarter for the reference biological product.
 
 #### (c) Manufacturer's average sales price
 
@@ -126,27 +150,37 @@
 
 #### (B) Sales at nominal charge
 
-&emsp;&emsp;Such other sales as the Secretary identifies as sales to an entity that are merelynominal in amount (as applied for purposes of section 1396r–8(c)(1)(C)(ii)(III) of this title, except as the Secretary may otherwise provide).
+&emsp;&emsp;Such other sales as the Secretary identifies as sales to an entity that are merely nominal in amount (as applied for purposes of section 1396r–8(c)(1)(C)(ii)(III) of this title, except as the Secretary may otherwise provide).
 
 #### (3) Sale price net of discounts
 
-&emsp;In calculating the manufacturer's average sales price under this subsection, such price shall include volume discounts, prompt pay discounts, cash discounts, free goods that are contingent on any purchase requirement, chargebacks, and rebates (other than rebates under section 1396r–8 of this title). For years after 2004, the Secretary may include in such price other price concessions, which may be based on recommendations of the Inspector General, that would result in a reduction of the cost to the purchaser.
+&emsp;In calculating the manufacturer's average sales price under this subsection, such price shall include volume discounts, prompt pay discounts, cash discounts, free goods that are contingent on any purchase requirement, chargebacks, and rebates (other than rebates under subsection (i), section 1396r–8 of this title, or section 1395w–114b of this title). For years after 2004, the Secretary may include in such price other price concessions, which may be based on recommendations of the Inspector General, that would result in a reduction of the cost to the purchaser.
 
 #### (4) Payment methodology in cases where average sales price during first quarter of sales is unavailable
 
-&emsp;In the case of a drug or biological during an initial period (not to exceed a full calendar quarter) in which data on the prices for sales for the drug or biological is not sufficiently available from the manufacturer to compute an average sales price for the drug or biological, the Secretary may determine the amount payable under this section—
+#### (A) In general
 
-&emsp;&emsp;(A) in the case of a drug or biological furnished prior to January 1, 2019, based on—
+&emsp;&emsp;Subject to subparagraph (B), in the case of a drug or biological during an initial period (not to exceed a full calendar quarter) in which data on the prices for sales for the drug or biological is not sufficiently available from the manufacturer to compute anaverage sales price for the drug or biological, the Secretary may determine the amount payable under this section—
 
-&emsp;&emsp;&emsp;(i) the wholesale acquisition cost; or
+&emsp;&emsp;&emsp;(i) in the case of a drug or biological furnished prior to January 1, 2019, based on—
 
-&emsp;&emsp;&emsp;(ii) the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals; and
+&emsp;&emsp;&emsp;&emsp;(I) the wholesale acquisition cost; or
 
-&emsp;&emsp;(B) in the case of a drug or biological furnished on or after January 1, 2019—
+&emsp;&emsp;&emsp;&emsp;(II) the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals; and
 
-&emsp;&emsp;&emsp;(i) at an amount not to exceed 103 percent of the wholesale acquisition cost; or
+&emsp;&emsp;&emsp;(ii) in the case of a drug or biological furnished on or after January 1, 2019—
 
-&emsp;&emsp;&emsp;(ii) based on the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals.
+&emsp;&emsp;&emsp;&emsp;(I) at an amount not to exceed 103 percent of the wholesale acquisition cost; or
+
+&emsp;&emsp;&emsp;&emsp;(II) based on the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals.
+
+#### (B) Limitation on payment amount for biosimilar biological products during initial period
+
+&emsp;&emsp;In the case of a biosimilar biological product furnished on or after July 1, 2024, during the initial period described in subparagraph (A) with respect to the biosimilar biological product, the amount payable under this section for the biosimilar biological product is the lesser of the following:
+
+&emsp;&emsp;&emsp;(i) The amount determined under clause (ii) of such subparagraph for the biosimilar biological product.
+
+&emsp;&emsp;&emsp;(ii) The amount determined under subsection (b)(1)(B) for the reference biological product.
 
 #### (5) Frequency of determinations
 
@@ -276,7 +310,7 @@
 
 &emsp;&emsp;For calendar quarters beginning on or after January 1, 2022, section 1396r–8(b)(3)(C)(iv) of this title shall be applied as if—
 
-&emsp;&emsp;&emsp;(i) each reference to "under this subparagraph and subsection (c)(4)(B)(ii)(III)" were a reference to "under this subparagraph, subsection (c)(4)(B)(ii)(III), and subparagraphs (A), (B), and (C) of section 1395w–3a(d)(4) of this title"; and
+&emsp;&emsp;&emsp;(i) each reference to "under this subparagraph and subsection (c)(4)(B)(ii)(III)" werea reference to "under this subparagraph, subsection (c)(4)(B)(ii)(III), and subparagraphs (A), (B), and (C) of section 1395w–3a(d)(4) of this title"; and
 
 &emsp;&emsp;&emsp;(ii) the reference to "activities related to the oversight and enforcement of this section and agreements under this section" were a reference to "activities related to the oversight and enforcement of this section and under subsection (f)(2) of section 1395w–3a of this title and subparagraphs (A), (B), and (C) of this subsection 1395w–3a(d)(4) of this title and, if applicable, agreements under this section".
 
@@ -336,7 +370,7 @@ In the case of a public health emergency under section 247d of this title in whi
 
 #### (C) Verification
 
-&emsp;&emsp;The Secretary may survey wholesalers and manufacturers that directly distribute drugs or biologicals described in subparagraph (A), when necessary, to verify manufacturer prices and manufacturer's average sales prices (including wholesale acquisition cost) if required to make payment reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of such a drug or biological refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly provides false information. The provisions of section1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;&emsp;The Secretary may survey wholesalers and manufacturers that directly distribute drugs or biologicals described in subparagraph (A), when necessary, to verify manufacturer prices and manufacturer's average sales prices (including wholesale acquisition cost) if required to make payment reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of such a drug or biological refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly provides false information. The provisions of section 1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (D) Confidentiality
 
@@ -388,7 +422,7 @@ In the case of a public health emergency under section 247d of this title in whi
 
 #### (B) Determination of discarded amounts
 
-&emsp;&emsp;For purposes of subparagraph (A)(i), with respect to a refundable single-dose container or single-use package drug furnished during a quarter, the amount of such drug that was discarded shall be determined based on the amount of such drug that was unused anddiscarded for each drug on the date of service.
+&emsp;&emsp;For purposes of subparagraph (A)(i), with respect to a refundable single-dose container or single-use package drug furnished during a quarter, the amount of such drug that was discarded shall be determined based on the amount of such drug that was unused and discarded for each drug on the date of service.
 
 #### (C) Exclusion of units of packaged drugs
 
@@ -486,7 +520,153 @@ In the case of a public health emergency under section 247d of this title in whi
 
 &emsp;Not later than 3 years after November 15, 2021, the Office of the Inspector General, after consultation with the Centers for Medicare \& Medicaid Services and the Food and Drug Administration, shall submit to the Committee on Finance of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives, a report on any impact this section is reported to have on the licensure, market entry, market retention, or marketing of biosimilar biological products. Such report shall be updated periodically at the direction of the Committee on Finance of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives.
 
-#### (i) Judicial review
+#### (i) Rebate by manufacturers for single source drugs and biologicals with prices increasing faster than inflation
+
+#### (1) Requirements
+
+#### (A) Secretarial provision of information
+
+&emsp;&emsp;Not later than 6 months after the end of each calendar quarter beginning on or after January 1, 2023, the Secretary shall, for each part B rebatable drug, report to each manufacturer of such part B rebatable drug the following for such calendar quarter:
+
+&emsp;&emsp;&emsp;(i) Information on the total number of units of the billing and payment code described in subparagraph (A)(i) of paragraph (3) with respect to such drug and calendar quarter.
+
+&emsp;&emsp;&emsp;(ii) Information on the amount (if any) of the excess average sales price increase described in subparagraph (A)(ii) of such paragraph for such drug and calendar quarter.
+
+&emsp;&emsp;&emsp;(iii) The rebate amount specified under such paragraph for such part B rebatable drug and calendar quarter.
+
+#### (B) Manufacturer requirement
+
+&emsp;&emsp;For each calendar quarter beginning on or after January 1, 2023, the manufacturer of a part B rebatable drug shall, for such drug, not later than 30 days after the date of receipt from the Secretary of the information described in subparagraph (A) for such calendar quarter, provide to the Secretary a rebate that is equal to the amount specified in paragraph (3) for such drug for such calendar quarter.
+
+#### (C) Transition rule for reporting
+
+&emsp;&emsp;The Secretary may, for each part B rebatable drug, delay the timeframe for reporting the information described in subparagraph (A) for calendar quarters beginning in 2023 and 2024 until not later than September 30, 2025.
+
+#### (2) Part B rebatable drug defined
+
+#### (A) In general
+
+&emsp;&emsp;In this subsection, the term "part B rebatable drug" means a single source drug or biological (as defined in subparagraph (D) of subsection (c)(6)), including a biosimilar biological product (as defined in subparagraph (H) of such subsection) but excluding a qualifying biosimilar biological product (as defined in subsection (b)(8)(B)(iii)), for which payment is made under this part, except such term shall not include such a drug or biological—
+
+&emsp;&emsp;&emsp;(i) if, as determined by the Secretary, the average total allowed charges for such drug or biological under this part for a year per individual that uses such a drug or biological are less than, subject to subparagraph (B), $100; or
+
+&emsp;&emsp;&emsp;(ii) that is a vaccine described in subparagraph (A) or (B) of section 1395x(s)(10) of this title.
+
+#### (B) Increase
+
+&emsp;&emsp;The dollar amount applied under subparagraph (A)(i)—
+
+&emsp;&emsp;&emsp;(i) for 2024, shall be the dollar amount specified under such subparagraph for 2023, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year; and
+
+&emsp;&emsp;&emsp;(ii) for a subsequent year, shall be the dollar amount specified in this clause (or clause (i)) for the previous year (without application of subparagraph (C)), increased by the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year.
+
+#### (C) Rounding
+
+&emsp;&emsp;Any dollar amount determined under subparagraph (B) that is not a multiple of $10 shall be rounded to the nearest multiple of $10.
+
+#### (3) Rebate amount
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of paragraph (1), the amount specified in this paragraph for a part B rebatable drug assigned to a billing and payment code for a calendar quarter is, subject to subparagraphs (B) and (G) and paragraph (4), the estimated amount equal to the product of—
+
+&emsp;&emsp;&emsp;(i) the total number of units determined under subparagraph (B) for the billing and payment code of such drug; and
+
+&emsp;&emsp;&emsp;(ii) the amount (if any) by which—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount equal to—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of a part B rebatable drug described in paragraph (1)(B) of subsection (b), 106 percent of the amount determined under paragraph (4) of such section <sup>2</sup> for such drug during the calendar quarter; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a part B rebatable drug described in paragraph (1)(C) of such subsection, the payment amount under such paragraph for such drug during the calendar quarter; exceeds
+
+&emsp;&emsp;&emsp;&emsp;(II) the inflation-adjusted payment amount determined under subparagraph (C) for such part B rebatable drug during the calendar quarter.
+
+#### (B) Total number of units
+
+&emsp;&emsp;For purposes of subparagraph (A)(i), the total number of units for the billing and payment code with respect to a part B rebatable drug furnished during a calendar quarter described in subparagraph (A) is equal to—
+
+&emsp;&emsp;&emsp;(i) the number of units for the billing and payment code of such drug furnished during such calendar quarter, minus
+
+&emsp;&emsp;&emsp;(ii) the number of units for such billing and payment code of such drug furnished during such calendar quarter—
+
+&emsp;&emsp;&emsp;&emsp;(I) with respect to which the manufacturer provides a discount under the program under section 256b of this title or a rebate under section 1396r–8 of this title; or
+
+&emsp;&emsp;&emsp;&emsp;(II) that are packaged into the payment amount for an item or service and are not separately payable.
+
+#### (C) Determination of inflation-adjusted payment amount
+
+&emsp;&emsp;The inflation-adjusted payment amount determined under this subparagraph for a part B rebatable drug for a calendar quarter is—
+
+&emsp;&emsp;&emsp;(i) the payment amount for the billing and payment code for such drug in the payment amount benchmark quarter (as defined in subparagraph (D)); increased by
+
+&emsp;&emsp;&emsp;(ii) the percentage by which the rebate period CPI–U (as defined in subparagraph (F)) for the calendar quarter exceeds the benchmark period CPI–U (as defined in subparagraph (E)).
+
+#### (D) Payment amount benchmark quarter
+
+&emsp;&emsp;The term "payment amount benchmark quarter" means the calendar quarter beginning July 1, 2021.
+
+#### (E) Benchmark period CPI–U
+
+&emsp;&emsp;The term "benchmark period CPI–U" means the consumer price index for all urban consumers (United States city average) for January 2021.
+
+#### (F) Rebate period CPI–U
+
+&emsp;&emsp;The term "rebate period CPI–U" means, with respect to a calendar quarter described in subparagraph (C), the greater of the benchmark period CPI–U and the consumer price index for all urban consumers (United States city average) for the first month of the calendar quarter that is two calendar quarters prior to such described calendar quarter.
+
+#### (G) Reduction or waiver for shortages and severe supply chain disruptions
+
+&emsp;&emsp;The Secretary shall reduce or waive the amount under subparagraph (A) with respect to a part B rebatable drug and a calendar quarter—
+
+&emsp;&emsp;&emsp;(i) in the case of a part B rebatable drug that is described as currently in shortage on the shortage list in effect under section 356e of title 21 at any point during the calendar quarter; or
+
+&emsp;&emsp;&emsp;(ii) in the case of a biosimilar biological product, when the Secretary determines there is a severe supply chain disruption during the calendar quarter, such as that caused by a natural disaster or other unique or unexpected event.
+
+#### (4) Special treatment of certain drugs and exemption
+
+#### (A) Subsequently approved drugs
+
+&emsp;&emsp;In the case of a part B rebatable drug first approved or licensed by the Food and Drug Administration after December 1, 2020, clause (i) of paragraph (3)(C) shall be applied as if the term "payment amount benchmark quarter" were defined under paragraph (3)(D) as the third full calendar quarter after the day on which the drug was first marketed and clause (ii) of paragraph (3)(C) shall be applied as if the term "benchmark period CPI–U" were defined under paragraph (3)(E) as if the reference to "January 2021" under such paragraph were a reference to "the first month of the first full calendar quarter after the day on which the drug was first marketed".
+
+#### (B) Timeline for provision of rebates for subsequently approved drugs
+
+&emsp;&emsp;In the case of a part B rebatable drug first approved or licensed by the Food and Drug Administration after December 1, 2020, paragraph (1)(B) shall be applied as if the reference to "January 1, 2023" under such paragraph were a reference to "the later of the 6th full calendar quarter after the day on which the drug was first marketed or January 1, 2023".
+
+#### (C) Selected drugs
+
+&emsp;&emsp;In the case of a part B rebatable drug that is a selected drug (as defined in section 1320f–1(c) of this title) with respect to a price applicability period (as defined in section 1320f(b)(2) of this title), in the case such drug is no longer considered to be a selected drug under section 1320f–1(c) of this title, for each applicable period (as defined under subsection (g)(7)) <sup>3</sup> beginning after the price applicability period with respect to such drug, clause (i) of paragraph (3)(C) shall be appliedas if the term "payment amount benchmark quarter" were defined under paragraph (3)(D) as the calendar quarter beginning January 1 of the last year during such price applicability period with respect to such selected drug and clause (ii) of paragraph (3)(C) shall be applied as if the term "benchmark period CPI–U" were defined under paragraph (3)(E) as if the reference to "January 2021" under such paragraph were a reference to "the July of the year preceding such last year".
+
+#### (5) Application to beneficiary coinsurance
+
+&emsp;In the case of a part B rebatable drug furnished on or after April 1, 2023, if the payment amount described in paragraph (3)(A)(ii)(I) (or, in the case of a part B rebatable drug that is a selected drug (as defined in section 1320f–1(c) of this title), the payment amount described in subsection (b)(1)(B) for such drug) for a calendar quarter exceeds the inflation adjusted payment for such quarter—
+
+&emsp;&emsp;(A) in computing the amount of any coinsurance applicable under this part to an individual to whom such drug is furnished, the computation of such coinsurance shall be equal to 20 percent of the inflation-adjusted payment amount determined under paragraph (3)(C) for such part B rebatable drug; and
+
+&emsp;&emsp;(B) the amount of such coinsurance for such calendar quarter, as computed under subparagraph (A), shall be applied as a percent, as determined by the Secretary, to the payment amount that would otherwise apply under subparagraphs (B) or (C) of subsection (b)(1).
+
+#### (6) Rebate deposits
+
+&emsp;Amounts paid as rebates under paragraph (1)(B) shall be deposited into the Federal Supplementary Medical Insurance Trust Fund established under section 1395t of this title.
+
+#### (7) Civil money penalty
+
+&emsp;If a manufacturer of a part B rebatable drug has failed to comply with the requirements under paragraph (1)(B) for such drug for a calendar quarter, the manufacturer shall be subject to, in accordance with a process established by the Secretary pursuant to regulations, a civil money penalty in an amount equal to at least 125 percent of the amount specified in paragraph (3) for such drug for such calendar quarter. The provisions of section 1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+
+#### (8) Limitation on administrative or judicial review
+
+&emsp;There shall be no administrative or judicial review of any of the following:
+
+&emsp;&emsp;(A) The determination of units under this subsection.
+
+&emsp;&emsp;(B) The determination of whether a drug is a part B rebatable drug under this subsection.
+
+&emsp;&emsp;(C) The calculation of the rebate amount under this subsection.
+
+&emsp;&emsp;(D) The computation of coinsurance under paragraph (5) of this subsection.
+
+&emsp;&emsp;(E) The computation of amounts paid under section 1395l(a)(1)(EE) of this title.
+
+#### (j) Judicial review
 
 There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise, of—
 
@@ -500,11 +680,27 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 &emsp;(5) the disclosure of the average manufacturer price by reason of an adjustment under subsection (d)(3)(C) or (e).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8, 2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500; Pub. L. 111–148, title III, §3139(a), Mar. 23, 2010, 124 Stat. 439; Pub. L. 116–39, §6, Aug. 6, 2019, 133 Stat. 1062; Pub. L. 116–260, div. CC, title IV, §§401(a), (b), 405, Dec. 27, 2020, 134 Stat. 2995, 2996, 3002; Pub. L. 117–58, div. I, §90004, Nov. 15, 2021, 135 Stat. 1343.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847A, as added Pub. L. 108–173, title III, §303(c)(1), Dec. 8, 2003, 117 Stat. 2239; amended Pub. L. 110–173, title I, §112, Dec. 29, 2007, 121 Stat. 2500; Pub. L. 111–148, title III, §3139(a), Mar. 23, 2010, 124 Stat. 439; Pub. L. 116–39, §6, Aug. 6, 2019, 133 Stat. 1062; Pub. L. 116–260, div. CC, title IV, §§401(a), (b), 405, Dec. 27, 2020, 134 Stat. 2995, 2996, 3002; Pub. L. 117–58, div. I, §90004, Nov. 15, 2021, 135 Stat. 1343; Pub. L. 117–169, title I, §§11001(b)(1)(A), 11101(a), (c)(1), 11102(b)(1), 11402, 11403, Aug. 16, 2022, 136 Stat. 1851, 1865, 1870, 1876, 1898.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Subsection (g)(7), referred to in subsec. (i)(4)(C), does not define "applicable period" because subsec. (g) of this section does not have a par. (7). However, such term is defined in section 1395w–114b(g)(7) of this title.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1)(B). Pub. L. 117–169, §11001(b)(1)(A), inserted "or in the case of such a drug or biological product that is a selected drug (as referred to in section 1320f–1(c) of this title), with respect to a price applicability period (as defined in section 1320f(b)(2) of this title), 106 percent of the maximum fair price (as defined in section 1320f(c)(3) of this title) applicable for such drug and a year during such period" after "paragraph (4)".
+
+Subsec. (b)(8). Pub. L. 117–169, §11403, designated existing provisions as subpar. (A) and inserted heading, substituted "Subject to subparagraph (B), the amount" for "The amount" in introductory provisions, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+
+Subsec. (c)(3). Pub. L. 117–169, §11102(b)(1), substituted "subsection (i), section 1396r–8 of this title, or section 1395w–114b of this title" for "subsection (i) or section 1396r–8 of this title".
+
+Pub. L. 117–169, §11101(c)(1), inserted "subsection (i) or" before "section 1396r–8 of this title".
+
+Subsec. (c)(4). Pub. L. 117–169, §11402, designated existing provisions as subpar. (A) and inserted heading; substituted "Subject to subparagraph (B), in the case" for "In the case" in introductory provisions; redesignated former subpars. (A) and (B) and cls. (i) and (ii) of each subpar. as cls. (i) and (ii) of subpar. (A) and subcls. (I) and (II) of each cl., respectively, and realigned margins; and added subpar. (B).
+
+Subsecs. (i), (j). Pub. L. 117–169, §11101(a), added subsec. (i) and redesignated former subsec. (i) as (j).
 
 <b>2021</b>—Subsecs. (h), (i). Pub. L. 117–58 added subsec. (h) and redesignated former subsec. (h) as (i).
 
@@ -556,7 +752,7 @@ Subsec. (b)(7). Pub. L. 110–173, §112(b)(2), added par. (7).
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title III, §3139(b), Mar. 23, 2010, 124 Stat. 440, provided that: "The amendments made bysubsection (a) \[amending this section\] shall apply to payments for biosimilar biological products beginning with the first day of the second calendar quarter after enactment of legislation providing for a biosimilar pathway (as determined by the Secretary \[probably means the Secretary of Health and Human Services\])."
+Pub. L. 111–148, title III, §3139(b), Mar. 23, 2010, 124 Stat. 440, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to payments for biosimilar biological products beginning with the first day of the second calendar quarter after enactment of legislation providing for a biosimilar pathway (as determined by the Secretary \[probably means the Secretary of Health and Human Services\])."
 
 #### Report on Sales to Pharmacy Benefit Managers
 
@@ -589,4 +785,8 @@ Amendment by section 303 of Pub. L. 108–173, insofar as applicable to payments
 Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment by section 303 of Pub. L. 108–173 also applicable to payments for drugs or biologicals and drug administration services furnished by physicians in specialties other than the specialties of hematology, hematology/oncology, and medical oncology, see section 304 of Pub. L. 108–173, set out as a note under section 1395u of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "subsection".</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

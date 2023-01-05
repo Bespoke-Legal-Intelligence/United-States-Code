@@ -40,7 +40,7 @@ In this section:
 
 #### (7) State
 
-&emsp;The term "State" means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
+&emsp;The term "State" means a State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, and any other territory or possession of the United States.
 
 #### (8) Secretary
 
@@ -70,7 +70,7 @@ In this section:
 
 &emsp;&emsp;(A) incorporate data available from the Coastal Wind and Water Event Database established under section 3611(f) of title 33;
 
-&emsp;&emsp;(B) use relevant data provided on the National Flood Insurance Program ElevationCertificate, or other data or information used to determine a property's current risk of flood, as determined by the Administrator, for each indeterminate loss for which the formula is used;
+&emsp;&emsp;(B) use relevant data provided on the National Flood Insurance Program Elevation Certificate, or other data or information used to determine a property's current risk of flood, as determined by the Administrator, for each indeterminate loss for which the formula is used;
 
 &emsp;&emsp;(C) consider any sufficient and credible evidence, approved by the Administrator, of the pre-event condition of a specific property, including the findings of any policyholder or insurance claims adjuster in connection with the indeterminate loss to that specific property;
 
@@ -114,7 +114,7 @@ In this section:
 
 #### (ii) Report
 
-&emsp;&emsp;&emsp;The National Academy of Sciences shall submit a report containing the results of each evaluation under clause (i) to the Administrator, the Committee on Banking, Housing, and Urban Affairs and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Financial Services and the Committee on Science, Space, and Technology of the House of Representatives.
+&emsp;&emsp;&emsp;The National Academy of Sciences shall submit a report containing the results ofeach evaluation under clause (i) to the Administrator, the Committee on Banking, Housing, and Urban Affairs and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Financial Services and the Committee on Science, Space, and Technology of the House of Representatives.
 
 #### (B) Effective date and applicability
 
@@ -128,7 +128,7 @@ In this section:
 
 #### (C) Funding
 
-&emsp;&emsp;Notwithstanding section 4017 of this title, there shall be available to the Administratorfrom the National Flood Insurance Fund, of amounts not otherwise obligated, not more than $750,000 to carry out this paragraph.
+&emsp;&emsp;Notwithstanding section 4017 of this title, there shall be available to the Administrator from the National Flood Insurance Fund, of amounts not otherwise obligated, not more than $750,000 to carry out this paragraph.
 
 #### (d) Disclosure of COASTAL Formula
 

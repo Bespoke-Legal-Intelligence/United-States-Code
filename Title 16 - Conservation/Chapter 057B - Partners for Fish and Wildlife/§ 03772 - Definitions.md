@@ -56,7 +56,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "habitat restoration" means the manipulation of the physical, chemical, orbiological characteristics of a site with the goal of returning the majority of natural functions to the lost or degraded native habitat.
+&emsp;&emsp;The term "habitat restoration" means the manipulation of the physical, chemical, or biological characteristics of a site with the goal of returning the majority of natural functions to the lost or degraded native habitat.
 
 #### (B) Inclusions
 

@@ -12,7 +12,7 @@ For purposes of this section—
 
 &emsp;The term "qualified military benefit" means any allowance or in-kind benefit (other than personal use of a vehicle) which—
 
-&emsp;&emsp;(A) is received by any member or former member of the uniformed services of theUnited States or any dependent of such member by reason of such member's status or service as a member of such uniformed services, and
+&emsp;&emsp;(A) is received by any member or former member of the uniformed services of the United States or any dependent of such member by reason of such member's status or service as a member of such uniformed services, and
 
 &emsp;&emsp;(B) was excludable from gross income on September 9, 1986, under any provision of law, regulation, or administrative practice which was in effect on such date (other than a provision of this title).
 
@@ -106,7 +106,7 @@ Pub. L. 108–375, div. A, title V, §585(b)(3), Oct. 28, 2004, 118 Stat. 1932, 
 
 Pub. L. 108–121, title I, §102(b)(3), Nov. 11, 2003, 117 Stat. 1337, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to deaths occurring after September 10, 2001."
 
-Pub. L. 108–121, title I, §106(c), Nov. 11, 2003, 117 Stat. 1339, provided that: "The amendments made by thissection \[amending this section and sections 3121, 3306, and 3401 of this title\] shall apply to taxable years beginning after December 31, 2002."
+Pub. L. 108–121, title I, §106(c), Nov. 11, 2003, 117 Stat. 1339, provided that: "The amendments made by this section \[amending this section and sections 3121, 3306, and 3401 of this title\] shall apply to taxable years beginning after December 31, 2002."
 
 #### Effective Date of 1988 Amendment
 

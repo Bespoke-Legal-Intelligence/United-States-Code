@@ -4,7 +4,7 @@
 
 (1) The Department of State shall be administered, in accordance with this Act and other provisions of law, under the supervision and direction of the Secretary of State (hereinafter referred to as the "Secretary").
 
-(2) The Secretary, the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources shall be appointedby the President, by and with the advice and consent of the Senate.
+(2) The Secretary, the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources shall be appointed by the President, by and with the advice and consent of the Senate.
 
 (3)(A) Notwithstanding any other provision of law and except as provided in this section, the Secretary shall have and exercise any authority vested by law in any office or official of the Department of State. The Secretary shall administer, coordinate, and direct the Foreign Service of the United States and the personnel of the Department of State, except where authority is inherent in or vested in the President.
 
@@ -34,9 +34,21 @@
 
 &emsp;&emsp;(C) provide guidance to Department personnel in the United States and overseas who conduct or implement public diplomacy policies, programs, and activities;
 
-&emsp;&emsp;(D) assist the United States Agency for International Development and the Broadcasting Board of Governors to present the policies of the United States clearly and effectively; and
+&emsp;&emsp;(D) assist the United States Agency for International Development and the Broadcasting Board of Governors to present the policies of the United States clearly and effectively;
 
-&emsp;&emsp;(E) submit statements of United States policy and editorial material to the Broadcasting Board of Governors for broadcast consideration.
+&emsp;&emsp;(E) submit statements of United States policy and editorial material to the Broadcasting Board of Governors for broadcast consideration; and
+
+&emsp;&emsp;(F) coordinate the allocation and management of the financial and human resources for public diplomacy, including for—
+
+&emsp;&emsp;&emsp;(i) the Bureau of Educational and Cultural Affairs;
+
+&emsp;&emsp;&emsp;(ii) the Bureau of Global Public Affairs;
+
+&emsp;&emsp;&emsp;(iii) the Office of Policy, Planning, and Resources for Public Diplomacy and Public Affairs;
+
+&emsp;&emsp;&emsp;(iv) the Global Engagement Center; and
+
+&emsp;&emsp;&emsp;(v) the public diplomacy functions within the regional and functional bureaus.
 
 #### (4) Nomination of Under Secretaries
 
@@ -50,7 +62,7 @@
 
 #### (2) Assistant Secretary of State for Democracy, Human Rights, and Labor
 
-&emsp;(A) There shall be in the Department of State an Assistant Secretary of State for Democracy, Human Rights, and Labor who shall be responsible to the Secretary of State for matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy and such other related duties as the Secretary may from time to time designate. The Secretary of State shall carry out the Secretary's responsibility under section 2304 of this title through the Assistant Secretary.
+&emsp;(A) There shall be in the Department of State an Assistant Secretary of State for Democracy, Human Rights, and Labor who shall be responsible to the Secretary of State for matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy and such other related duties as the Secretary may from time to time designate. The Secretary of State shall carry out the Secretary's responsibilityunder section 2304 of this title through the Assistant Secretary.
 
 &emsp;(B) The Assistant Secretary of State for Democracy, Human Rights, and Labor shall maintain continuous observation and review all matters pertaining to human rights and humanitarian affairs (including matters relating to prisoners of war and members of the United States Armed Forces missing in action) in the conduct of foreign policy including the following:
 
@@ -94,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(iii) develop standard requirements for monitoring and evaluation of Bureau programs, including metrics for success that do not rely solely on the amounts of illegal drugs that are produced or seized;
 
-&emsp;&emsp;&emsp;(iv) in coordination with the Secretary of State, annually certify in writing to the Committee on Foreign Relations of the Senate that United States and the Committee on Foreign Affairs of the House of Representatives enforcement personnel posted abroad whose activities are funded to any extent by the Bureau of International Narcotics and Law Enforcement Affairs are complying with section 3927 of this title; and
+&emsp;&emsp;&emsp;(iv) in coordination with the Secretary of State, annually certify in writing to the Committee on Foreign Relations of the Senate that United States and the Committee on Foreign Affairs of the House of Representatives enforcement personnel posted abroad whose activities are funded to any extent by the Bureau of International Narcotics and Law EnforcementAffairs are complying with section 3927 of this title; and
 
 &emsp;&emsp;&emsp;(v) carry out such other relevant duties as the Secretary may assign.
 
@@ -106,7 +118,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the numerical limitation specified in paragraph (1), there is authorized tobe established in the Department of State an Assistant Secretary of State who shall be responsible to the Secretary of State for matters pertaining to international economics and business matters in the conduct of foreign policy.
+&emsp;&emsp;Subject to the numerical limitation specified in paragraph (1), there is authorized to be established in the Department of State an Assistant Secretary of State who shall be responsible to the Secretary of State for matters pertaining to international economics and business matters in the conduct of foreign policy.
 
 #### (B) Matters contemplated
 
@@ -248,11 +260,131 @@ In addition to officials of the Department of State who are otherwise authorized
 
 There is in the Department of State the Bureau of Consular Affairs, which shall be headed by the Assistant Secretary of State for Consular Affairs.
 
-#### (h) <sup>2</sup> Bureau of Population, Refugees, and Migration
+#### (h) Bureau of Population, Refugees, and Migration
 
 There is in the Department of State the Bureau of Population, Refugees, and Migration, which shall be headed by the Assistant Secretary of State for Population, Refugees, and Migration.
 
-#### (i) Special appointments
+#### (i) Bureau of Cyberspace and Digital Policy
+
+#### (1) In general
+
+&emsp;There is established, within the Department of State, the Bureau of Cyberspace and Digital Policy (referred to in this subsection as the "Bureau"). The head of the Bureau shall have the rank and status of ambassador and shall be appointed by the President, by and with the advice and consent of the Senate.
+
+#### (2) Duties
+
+#### (A) In general
+
+&emsp;&emsp;The head of the Bureau shall perform such duties and exercise such powers as the Secretary of State shall prescribe, including implementing the diplomatic and foreign policy aspects of the policy described in section 9501(a) of the Department of State Authorization Act of 2022 \[22 U.S.C. 10301(a)\].
+
+#### (B) Duties described
+
+&emsp;&emsp;The principal duties and responsibilities of the head of the Bureau shall, in furtherance of the diplomatic and foreign policy mission of the Department of State, be—
+
+&emsp;&emsp;&emsp;(i) to serve as the principal cyberspace policy official within the senior management of the Department of State and as the advisor to the Secretary of State for cyberspace and digital issues;
+
+&emsp;&emsp;&emsp;(ii) to lead, coordinate, and execute, in coordination with other relevant bureaus and offices, the Department of State's diplomatic cyberspace, and cybersecurity efforts (including efforts related to data privacy, data flows, internet governance, information and communications technology standards, and other issues that the Secretary has assigned to the Bureau);
+
+&emsp;&emsp;&emsp;(iii) to coordinate with relevant Federal agencies and the Office of the National Cyber Director to ensure the diplomatic and foreign policy aspects of the cyber strategy in section 9501 of the Department of State Authorization Act of 2022 \[22 U.S.C. 10301\] and any other subsequent strategy are implemented in a manner that is fully integrated with the broader strategy;
+
+&emsp;&emsp;&emsp;(iv) to promote an open, interoperable, reliable, and secure information and communications technology infrastructure globally;
+
+&emsp;&emsp;&emsp;(v) to represent the Secretary of State in interagency efforts to develop and advance Federal Government cyber priorities and activities, including efforts to develop credible national capabilities, strategies, and policies to deter and counter cyber adversaries, and carry out the purposes of title V of the Department of State Authorization Act of 2022;
+
+&emsp;&emsp;&emsp;(vi) to engage civil society, the private sector, academia, and other public and private entities on relevant international cyberspace and international information and communications technology issues;
+
+&emsp;&emsp;&emsp;(vii) to support United States Government efforts to uphold and further develop global deterrence frameworks for malicious cyber activity;
+
+&emsp;&emsp;&emsp;(viii) to advise the Secretary of State and coordinate with foreign governments regarding responses to national security-level cyber incidents, including coordination on diplomatic response efforts to support allies and partners threatened by malicious cyber activity, in conjunction with members of the North Atlantic Treaty Organization and like-minded countries;
+
+&emsp;&emsp;&emsp;(ix) to promote the building of foreign capacity relating to cyberspace policy priorities;
+
+&emsp;&emsp;&emsp;(x) to promote an open, interoperable, reliable, and secure information and communications technology infrastructure globally and an open, interoperable, secure, and reliable internet governed by the multi-stakeholder model;
+
+&emsp;&emsp;&emsp;(xi) to promote an international environment for technology investments and theinternet that benefits United States economic and national security interests;
+
+&emsp;&emsp;&emsp;(xii) to promote cross-border flow of data and combat international initiatives seeking to impose unreasonable requirements on United States businesses;
+
+&emsp;&emsp;&emsp;(xiii) to promote international policies to protect the integrity of United States and international telecommunications infrastructure from foreign-based threats, including cyber-enabled threats;
+
+&emsp;&emsp;&emsp;(xiv) to lead engagement, in coordination with relevant executive branch agencies, with foreign governments on relevant international cyberspace, cybersecurity, cybercrime, and digital economy issues described in title V of the Department of State Authorization Act of 2022;
+
+&emsp;&emsp;&emsp;(xv) to promote international policies, in coordination with the Department of Commerce, to secure radio frequency spectrum in the best interests of the United States;
+
+&emsp;&emsp;&emsp;(xvi) to promote and protect the exercise of human rights, including freedom of speech and religion, through the internet;
+
+&emsp;&emsp;&emsp;(xvii) to build capacity of United States diplomatic officials to engage on cyberspace issues;
+
+&emsp;&emsp;&emsp;(xviii) to encourage the development and adoption by foreign countries of internationally recognized standards, policies, and best practices;
+
+&emsp;&emsp;&emsp;(xix) to support efforts by the Global Engagement Center to counter cyber-enabled information operations against the United States or its allies and partners; and
+
+&emsp;&emsp;&emsp;(xx) to conduct such other matters as the Secretary of State may assign.
+
+#### (3) Qualifications
+
+&emsp;The head of the Bureau should be an individual of demonstrated competency in the fields of—
+
+&emsp;&emsp;(A) cybersecurity and other relevant cyberspace and information and communications technology policy issues; and
+
+&emsp;&emsp;(B) international diplomacy.
+
+#### (4) Organizational placement
+
+#### (A) Initial placement
+
+&emsp;&emsp;Except as provided in subparagraph (B), the head of the Bureau shall report to the Deputy Secretary of State.
+
+#### (B) Subsequent placement
+
+&emsp;&emsp;The head of the Bureau may report to an Under Secretary of State or to an official holding a higher position than Under Secretary if, not later than 15 days before any change in such reporting structure, the Secretary of State—
+
+&emsp;&emsp;&emsp;(i) consults with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives; and
+
+&emsp;&emsp;&emsp;(ii) submits a report to such committees that—
+
+&emsp;&emsp;&emsp;&emsp;(I) indicates that the Secretary, with respect to the reporting structure of the Bureau, has consulted with and solicited feedback from—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) other relevant Federal entities with a role in international aspects of cyber policy; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the elements of the Department of State with responsibility for aspects of cyber policy, including the elements reporting to—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the Under Secretary of State for Political Affairs;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the Under Secretary of State for Civilian Security, Democracy, and Human Rights;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) the Under Secretary of State for Economic Growth, Energy, and the Environment;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(DD) the Under Secretary of State for Arms Control and International Security Affairs;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(EE) the Under Secretary of State for Management; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(FF) the Under Secretary of State for Public Diplomacy and Public Affairs;
+
+&emsp;&emsp;&emsp;&emsp;(II) describes the new reporting structure for the head of the Bureau and the justification for such new structure; and
+
+&emsp;&emsp;&emsp;&emsp;(III) includes a plan describing how the new reporting structure will better enable the head of the Bureau to carry out the duties described in paragraph (2), including the security, economic, and human rights aspects of cyber diplomacy.
+
+#### (5) Special hiring authorities
+
+&emsp;The Secretary of State may—
+
+&emsp;&emsp;(A) appoint up to 25 employees to cyber positions in the Bureau without regard to the provisions of subchapter I of chapter 33 of title 5, regarding appointments in the competitive service; and
+
+&emsp;&emsp;(B) fix the rates of basic pay of such employees without regard to chapter 51 and subchapter III of chapter 53 of such title regarding classification and General Schedule pay rates, provided that the rates for such positions do not exceed the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5.
+
+#### (6) Coordination
+
+&emsp;In implementing the duties prescribed under paragraph (2), the head of the Bureau shall coordinate with the heads of other Federal agencies, including the Department of Commerce, the Department of Homeland Security, and other Federal agencies that the National Cyber Director deems appropriate.
+
+#### (7) Rule of construction
+
+&emsp;Nothing in this subsection may be construed—
+
+&emsp;&emsp;(A) to preclude the head of the Bureau from being designated as an Assistant Secretary, if such an Assistant Secretary position does not increase the number of Assistant Secretary positions at the Department above the number authorized under subsection (c)(1); or
+
+&emsp;&emsp;(B) to alter or modify the existing authorities of any other Federal agency or official.
+
+#### (j) Special appointments
 
 #### (1) Positions exercising significant authority
 
@@ -292,7 +424,7 @@ There is in the Department of State the Bureau of Population, Refugees, and Migr
 
 &emsp;This subsection shall apply to appointments made on or after January 3, 2023.
 
-#### (j) Qualifications of certain officers of the Department of State
+#### (k) Qualifications of certain officers of the Department of State
 
 #### (1) Officer having primary responsibility for personnel management
 
@@ -306,7 +438,7 @@ There is in the Department of State the Bureau of Population, Refugees, and Migr
 
 &emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
-#### (h) <sup>2</sup> Office of Sanctions Coordination
+#### (l) Office of Sanctions Coordination
 
 #### (1) In general
 
@@ -346,9 +478,81 @@ There is in the Department of State the Bureau of Population, Refugees, and Migr
 
 #### (B) Termination
 
-&emsp;&emsp;The authority provided under subparagraph (A) shall terminate on the date that is two years after December 27, 2020.
+&emsp;&emsp;The authority provided under subparagraph (A) shall terminate on December 31, 2024.
 
-(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 116–94, div. J, title VII, §703, Dec. 20, 2019, 133 Stat. 3070; Pub. L. 116–260, div. FF, title III, §361(a)(1), (2), Dec. 27, 2020, 134 Stat. 3131, 3132; Pub. L. 117–81, div. E, title LI, §§5102(a), 5103, 5105, Dec. 27, 2021, 135 Stat. 2343, 2345, 2346.)
+#### (m) Extended post-employment restrictions for certain Senate-confirmed officials
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Country of concern
+
+&emsp;&emsp;The term "country of concern" means—
+
+&emsp;&emsp;&emsp;(i) the People's Republic of China;
+
+&emsp;&emsp;&emsp;(ii) the Russian Federation;
+
+&emsp;&emsp;&emsp;(iii) the Islamic Republic of Iran;
+
+&emsp;&emsp;&emsp;(iv) the Democratic People's Republic of Korea;
+
+&emsp;&emsp;&emsp;(v) the Republic of Cuba; and
+
+&emsp;&emsp;&emsp;(vi) the Syrian Arab Republic.
+
+#### (B) Foreign government entity
+
+&emsp;&emsp;The term "foreign governmental entity" includes—
+
+&emsp;&emsp;&emsp;(i) any person employed by—
+
+&emsp;&emsp;&emsp;&emsp;(I) any department, agency, or other entity of a foreign government at the national, regional, or local level;
+
+&emsp;&emsp;&emsp;&emsp;(II) any governing party or coalition of a foreign government at the national, regional, or local level; or
+
+&emsp;&emsp;&emsp;&emsp;(III) any entity majority-owned or majority-controlled by a foreign government at the national, regional, or local level; and
+
+&emsp;&emsp;&emsp;(ii) in the case of a country of concern, any company, economic project, cultural organization, exchange program, or nongovernmental organization that is more than 33 percent owned or controlled by the government of such country.
+
+#### (C) Representation
+
+&emsp;&emsp;The term "representation" does not include representation by an attorney, who is duly licensed and authorized to provide legal advice in a United States jurisdiction, of a person or entity in a legal capacity or for the purposes of rendering legal advice.
+
+#### (2) Secretary of State and Deputy Secretary of State
+
+&emsp;With respect to a person serving as the Secretary of State or the Deputy Secretary of State, the restrictions described in section 207(f)(1) of title 18 shall apply to any such person who knowingly represents, aids, or advises a foreign governmental entity before an officer or employee of the executive branch of the United States with the intent to influence a decision of such officer or employee in carrying out his or her official duties at any time after the termination of such person's service as Secretary or Deputy Secretary.
+
+#### (3) Under Secretaries, Assistant Secretaries, and Ambassadors
+
+&emsp;With respect to a person serving as an Under Secretary, Assistant Secretary, or Ambassador at the Department of State or as the United States Permanent Representative to the United Nations, the restrictions described in section 207(f)(1) of title 18 shall apply to any such person who knowingly represents, aids, or advises—
+
+&emsp;&emsp;(A) a foreign governmental entity before an officer or employee of the executive branch of the United States with the intent to influence a decision of such officer or employee in carrying out his or her official duties for 3 years after the termination of such person's service in a position described in this paragraph, or the duration of the term or terms of the President who appointed that person to their position, whichever is longer; or
+
+&emsp;&emsp;(B) a foreign governmental entity of a country of concern before an officer or employee of the executive branch of the United States with the intent to influence a decision of such officer or employee in carrying out his or her official duties at any time after the termination of such person's service in a position described in this paragraph.
+
+#### (4) Penalties and injunctions
+
+&emsp;Any violations of the restrictions under paragraphs (2) or (3) shall be subject to thepenalties and injunctions provided for under section 216 of title 18.
+
+#### (5) Notice of restrictions
+
+&emsp;Any person subject to the restrictions under this subsection shall be provided notice of these restrictions by the Department of State—
+
+&emsp;&emsp;(A) upon appointment by the President; and
+
+&emsp;&emsp;(B) upon termination of service with the Department of State.
+
+#### (6) Effective date
+
+&emsp;The restrictions under this subsection shall apply only to persons who are appointed by the President to the positions referenced in this subsection on or after 120 days after December 23, 2022.
+
+#### (7) Sunset
+
+&emsp;The restrictions under this subsection shall expire on the date that is 5 years after December 23, 2022.
+
+(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 116–94, div. J, title VII, §703, Dec. 20, 2019, 133 Stat. 3070; Pub. L. 116–260, div. FF, title III, §361(a)(1), (2), Dec. 27, 2020, 134 Stat. 3131, 3132; Pub. L. 117–81, div. E, title LI, §§5102(a), 5103, 5105, Dec. 27, 2021, 135 Stat. 2343, 2345, 2346; Pub. L. 117–263, div. I, title XCI, §9107(a), title XCII, §9215(b), title XCV, §9502(a), title XCVI, §9602(a), Dec. 23, 2022, 136 Stat. 3859, 3876, 3898, 3910.)
 
 #### <b>Editorial Notes</b>
 
@@ -360,6 +564,8 @@ Executive Order 12333, referred to in subsec. (c)(3)(D), is Ex. Ord. No. 12333, 
 
 The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (f)(2)(B)(i), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which enacted chapter 83 and sections 262p–8 and 2151b–2 to 2151b–4 of this title, amended this section, sections 2151b and 2222 of this title, and section 242l of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 7601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
+Title V of the Department of State Authorization Act of 2022, referred to in subsec. (i)(2)(B)(v), (xiv), probably means title XCV of div. I of Pub. L. 117–263. Div. I of Pub. L. 117–263 is the Department of State Authorization Act of 2022. Title XCV of div. I, relating to Information Security and Cyber Diplomacy, is classified principally to chapter 110 (§10301 et seq.) of this title. For complete classification of title XCV to the Code, see Tables.
+
 #### Codification
 
 Section was formerly classified to section 2662 of this title.
@@ -367,6 +573,20 @@ Section was formerly classified to section 2662 of this title.
 Section was also formerly classified to section 170f of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3)(F). Pub. L. 117–263, §9602(a), added subpar. (F).
+
+Subsec. (h). Pub. L. 117–263, §9502(a)(2), redesignated subsec. (h) relating to Office of Sanctions Coordination as (l).
+
+Subsec. (i). Pub. L. 117–263, §9502(a)(3), added subsec. (i). Former subsec. (i) redesignated (j).
+
+Subsecs. (j), (k). Pub. L. 117–263, §9502(a)(1), redesignated subsecs. (i) and (j) as (j) and (k), respectively.
+
+Subsec. (l). Pub. L. 117–263, §9502(a)(2), redesignated subsec. (h) relating to Office of Sanctions Coordination as (l).
+
+Subsec. (l)(4)(B). Pub. L. 117–263, §9107(a), substituted "December 31, 2024" for "the date that is two years after December 27, 2020".
+
+Subsec. (m). Pub. L. 117–263, §9215(b), added subsec. (m).
 
 <b>2021</b>—Subsec. (c)(3) to (5). Pub. L. 117–81, §5102(a), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
@@ -380,7 +600,7 @@ Subsec. (j). Pub. L. 117–81, §5103(1), redesignated subsec. (g) as (j).
 
 <b>2020</b>—Subsec. (c)(3)(C). Pub. L. 116–260, §361(a)(2), added subpar. (C).
 
-Subsec. (h). Pub. L. 116–260, §361(a)(1), added subsec. (h).
+Subsec. (h). Pub. L. 116–260, §361(a)(1), added subsec. (h) relating to Office of Sanctions Coordination.
 
 <b>2019</b>—Subsec. (c)(3), (4). Pub. L. 116–94 added par. (3) and redesignated former par. (3) as (4).
 
@@ -394,7 +614,7 @@ Subsec. (f)(2)(B)(ii)(IV), (V). Pub. L. 110–293, §102(2)(A), (B), added subcl
 
 "(V) Pursuing coordination with other countries and international organizations."
 
-Subsec. (f)(2)(B)(ii)(VII), (VIII). Pub. L. 110–293, §102(2)(D), added subcls. (VII) and (VIII). Former subcls. (VII) and (VIII) redesignated (IX) and (XII), respectively.
+Subsec. (f)(2)(B)(ii)(VII), (VIII). Pub. L. 110–293, §102(2)(D), added subcls. (VII) and (VIII). Former subcls.\(VII) and (VIII) redesignated (IX) and (XII), respectively.
 
 Subsec. (f)(2)(B)(ii)(IX). Pub. L. 110–293, §102(2)(E), inserted "Vietnam," after "Uganda," and ", and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program" after "May 27, 2003" and inserted at end "In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country."
 
@@ -454,7 +674,7 @@ Subsec. (a)(2). Pub. L. 103–415 inserted "and the Deputy Secretary of State" a
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 2012 Amendment
 
@@ -468,11 +688,19 @@ Amendment by section 1313 of Pub. L. 105–277 effective Oct. 1, 1999, see secti
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–236, title I, §161(b), Apr. 30, 1994, 108 Stat. 404, as amended by Pub. L. 103–415, §1(f)(2), Oct. 25, 1994, 108 Stat. 4300, provided that: "The amendments made by this section and section 162 \[amending this section, sections 2151n, 2304, 2314, 2349aa–2, 2384, 2652b, 2655a, 2669, 2670, 2707, 2755, 4302 to 4305, 4308, 4801, 4802, 4806, 4821 to 4823, and 4852 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 1101, 1104, 1105, and 1521 to 1523 of Title 8,Aliens and Nationality, repealing sections 811a, 2652, 2652a, 2653 to 2655, 2658, 4803, and 4804 of this title and section 1525 of Title 8, and amending provisions set out as a note under section 113 of Title 10, Armed Forces\] shall apply with respect to officials, offices, and bureaus of the Department of State when executive orders, regulations, or departmental directives implementing such amendments become effective, or 90 days after the date of enactment of this Act \[Apr. 30, 1994\], whichever comes earlier."
+Pub. L. 103–236, title I, §161(b), Apr. 30, 1994, 108 Stat. 404, as amended by Pub. L. 103–415, §1(f)(2), Oct. 25, 1994, 108 Stat. 4300, provided that: "The amendments made by this section and section 162 \[amending this section, sections 2151n, 2304, 2314, 2349aa–2, 2384, 2652b, 2655a, 2669, 2670, 2707, 2755, 4302 to 4305, 4308, 4801, 4802, 4806, 4821 to 4823, and 4852 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 1101, 1104, 1105, and 1521 to 1523 of Title 8, Aliens and Nationality, repealing sections 811a, 2652, 2652a, 2653 to 2655, 2658, 4803, and 4804 of this title and section 1525 of Title 8, and amending provisions set out as a note under section 113 of Title 10, Armed Forces\] shall apply with respect to officials, offices, and bureaus of the Department of State when executive orders, regulations, or departmental directives implementing such amendments become effective, or 90 days after the date of enactment of this Act \[Apr. 30, 1994\], whichever comes earlier."
 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under section 4301 of this title.
+
+#### Provision of Parking Services and Retention of Parking Fees
+
+Pub. L. 117–263, div. I, title XCVII, §9712, Dec. 23, 2022, 136 Stat. 3920, provided that: "The Secretary of State may—
+
+&emsp;"(1) provide parking services, including electric vehicle charging and other parking services, in facilities operated by or for the Department \[of State\]; and
+
+&emsp;"(2) charge fees for such services that may be deposited into the appropriate account of the Department, to remain available until expended for the purposes of such account, provided that the fees shall not exceed the cost of the providing such services."
 
 #### Waiver Authority for Individual Occupational Requirements of Certain Positions
 
@@ -488,7 +716,7 @@ Coordination With Allies and Partners of the United States.—
 
 &emsp;"(1)
 
-In general.—The Secretary of State shall develop and implement mechanisms and programs, as appropriate, through the head of the Office of Sanctions Coordination established pursuant to subsection (h) of section 1 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2651a(h)\], as added by subsection (a)(1), to coordinate the development and implementation of United States sanctions policies with allies and partners of the United States, including the United Kingdom, the European Union and member countries of the European Union, Canada, Australia, New Zealand, Japan, and South Korea.
+In general.—The Secretary of State shall develop and implement mechanisms and programs, as appropriate, through the head of the Office of Sanctions Coordination established pursuant to subsection (h) of section 1 of the State Department Basic Authorities Act of 1956 \[now 22 U.S.C. 2651a(l)\], as added by subsection (a)(1), to coordinate the development and implementation of United States sanctions policies with allies and partners of the United States, including the United Kingdom, the European Union and member countries of the European Union, Canada, Australia, New Zealand, Japan, and South Korea.
 
 &emsp;"(2)
 
@@ -534,7 +762,7 @@ Pub. L. 116–136, div. B, title XI, §21007, Mar. 27, 2020, 134 Stat. 592, prov
 
 #### Oaths of Office Administered Remotely
 
-Pub. L. 116–136, div. B, title XI, §21011, Mar. 27, 2020, 134 Stat. 593, provided that: "Notwithstanding any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may authorize any oath of office required by law to, in particular circumstances that could otherwise pose health risks, be administered remotely, subject to appropriate verification: <i>Provided</i>, That prior to initially exercising the authority of this section, the Secretary and the Administrator shall each submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives describing the process and procedures for administering such oaths, including appropriateverification: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2021."
+Pub. L. 116–136, div. B, title XI, §21011, Mar. 27, 2020, 134 Stat. 593, provided that: "Notwithstanding any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may authorize any oath of office required by law to, in particular circumstances that could otherwise pose health risks, be administered remotely, subject to appropriate verification: <i>Provided</i>, That prior to initially exercising the authority of this section, the Secretary and the Administrator shall each submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives describing the process and procedures for administering such oaths, including appropriate verification: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2021."
 
 #### Coordinator of United States Government Activities Providing Basic Education Assistance in Developing Countries
 
@@ -604,7 +832,7 @@ Pub. L. 108–447, div. B, title IV, §408, Dec. 8, 2004, 118 Stat. 2904, provid
 
 #### Comprehensive Workforce Plan
 
-Pub. L. 107–228, div. A, title III, §301, Sept. 30, 2002, 116 Stat. 1376, required the Secretary of State to submit tothe appropriate congressional committees, not later than 180 days after Sept. 30, 2002, a comprehensive workforce plan for the Department of State for the fiscal years 2003 through 2007, considering personnel needs in both the Civil Service and the Foreign Service and expected domestic and overseas personnel allocations.
+Pub. L. 107–228, div. A, title III, §301, Sept. 30, 2002, 116 Stat. 1376, required the Secretary of State to submit to the appropriate congressional committees, not later than 180 days after Sept. 30, 2002, a comprehensive workforce plan for the Department of State for the fiscal years 2003 through 2007, considering personnel needs in both the Civil Service and the Foreign Service and expected domestic and overseas personnel allocations.
 
 #### "Rightsizing" Overseas Posts
 
@@ -708,7 +936,7 @@ Duties.—The Adviser shall—
 
 Pub. L. 103–236, title I, §161(c), Apr. 30, 1994, 108 Stat. 404, provided that: "Any officer of the Department of State holding office on the date of the enactment of this Act \[Apr. 30, 1994\] shall not be required to be reappointed to any other office, at the Department of State at the same level performing similar functions, as determined by the President, by reason of the enactment of the amendments made by this section and section 162 \[see Effective Date of 1994 Amendment note above for classification\]."
 
-\[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the UnitedStates, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
+\[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
 
 #### References to Officials and Offices of Department of State Whose Authority Is vested in Secretary of State Deemed References to Secretary of State or Department of State
 
@@ -743,6 +971,4 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be "under".</i>
-
-<i><sup>2</sup></i><i> So in original. Two subsecs. (h) have been enacted.</i>
 

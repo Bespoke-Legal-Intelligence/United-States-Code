@@ -1,6 +1,6 @@
 ### §1955. Prohibition of illegal gambling businesses
 
-(a) Whoever conducts, finances, manages, supervises, directs, or owns all or part of an illegalgambling business shall be fined under this title or imprisoned not more than five years, or both.
+(a) Whoever conducts, finances, manages, supervises, directs, or owns all or part of an illegal gambling business shall be fined under this title or imprisoned not more than five years, or both.
 
 (b) As used in this section—
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 113–251, §5(3)(B), substituted "This section shall not a
 
 #### National Gambling Impact Study Commission
 
-Pub. L. 104–169, Aug. 3, 1996, 110 Stat. 1482, as amended by Pub. L. 105–30, §1, July 25, 1997, 111 Stat. 248, established the National Gambling Impact Study Commission to conduct a comprehensive legal and factual study of the social and economic impacts of gambling in the United States on Federal, State, local, and Native American tribal governments, as well as on communities and social institutions generally, including individuals, families, and businesses within such communities and institutions, and to submit a report, not later than two years after its first meeting, to the President, the Congress, State Governors, and Native American tribal governments containing the Commission's findings and conclusions, together with any recommendations of the Commission, and further providedfor membership of the Commission, meetings, powers and duties of the Commission, personnel matters, contracts for research with the Advisory Commission on Intergovernmental Relations and the National Research Council, definitions, appropriations, and termination of the Commission 60 days after submission of its final report.
+Pub. L. 104–169, Aug. 3, 1996, 110 Stat. 1482, as amended by Pub. L. 105–30, §1, July 25, 1997, 111 Stat. 248, established the National Gambling Impact Study Commission to conduct a comprehensive legal and factual study of the social and economic impacts of gambling in the United States on Federal, State, local, and Native American tribal governments, as well as on communities and social institutions generally, including individuals, families, and businesses within such communities and institutions, and to submit a report, not later than two years after its first meeting, to the President, the Congress, State Governors, and Native American tribal governments containing the Commission's findings and conclusions, together with any recommendations of the Commission, and further provided for membership of the Commission, meetings, powers and duties of the Commission, personnel matters, contracts for research with the Advisory Commission on Intergovernmental Relations and the National Research Council, definitions, appropriations, and termination of the Commission 60 days after submission of its final report.
 
 #### Priority of State Laws
 

@@ -18,7 +18,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;(B) the amounts necessary to amortize in equal annual installments (until fully amortized)—
 
-&emsp;&emsp;&emsp;(i) in the case of a plan which comes into existence on or after January 1, 2008, theunfunded past service liability under the plan on the first day of the first plan year to which this section applies, over a period of 15 plan years,
+&emsp;&emsp;&emsp;(i) in the case of a plan which comes into existence on or after January 1, 2008, the unfunded past service liability under the plan on the first day of the first plan year to which this section applies, over a period of 15 plan years,
 
 &emsp;&emsp;&emsp;(ii) separately, with respect to each plan year, the net increase (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
 
@@ -310,7 +310,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall establish mortality tables which may be used (in lieu of the tables under clause (iv)) to determine current liability under this subsection for individuals who are entitledto benefits under the plan on account of disability. The Secretary shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall establish mortality tables which may be used (in lieu of the tables under clause (iv)) to determine current liability under this subsection for individuals who are entitled to benefits under the plan on account of disability. The Secretary shall establish separate tables for individuals whose disabilities occur in plan years beginning before January 1, 1995, and for individuals whose disabilities occur in plan years beginning on or after such date.
 
 #### (II) Special rule for disabilities occurring after 1994
 
@@ -362,7 +362,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (ii) Use of prior year valuation
 
-&emsp;&emsp;&emsp;The valuation referred to in subparagraph (A) may be made as of a date within the plan year prior to the year to which the valuation refers if, as of such date, the value of the assets of the plan are not less than 100 percent of the plan's current liability (as defined in paragraph (6)(D) without regard to clause (iv) thereof).
+&emsp;&emsp;&emsp;The valuation referred to in subparagraph (A) may be made as of a date within the plan year prior to the year to whichthe valuation refers if, as of such date, the value of the assets of the plan are not less than 100 percent of the plan's current liability (as defined in paragraph (6)(D) without regard to clause (iv) thereof).
 
 #### (iii) Adjustments
 
@@ -434,7 +434,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;The Secretary shall consider any relevant information provided by a person to whom notice was given under paragraph (1).
 
-(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890; amended Pub. L. 111–192, title II, §211(a)(2), June 25, 2010, 124 Stat. 1304; Pub. L. 113–235, div. O, title I, §§101(b)(2), 108(b)(3)(A), Dec. 16, 2014, 128 Stat. 2774, 2788; Pub. L. 113–295, div. A, title I, §171(a), Dec. 19, 2014, 128 Stat. 4023; Pub. L. 115–141, div. U, title IV, §401(a)(101), Mar. 23, 2018, 132 Stat. 1189; Pub. L. 117–2, title IX, §9703(a)(2), Mar. 11, 2021, 135 Stat. 189.)
+(Added Pub. L. 109–280, title II, §211(a), Aug. 17, 2006, 120 Stat. 890; amended Pub. L. 111–192, titleII, §211(a)(2), June 25, 2010, 124 Stat. 1304; Pub. L. 113–235, div. O, title I, §§101(b)(2), 108(b)(3)(A), Dec. 16, 2014, 128 Stat. 2774, 2788; Pub. L. 113–295, div. A, title I, §171(a), Dec. 19, 2014, 128 Stat. 4023; Pub. L. 115–141, div. U, title IV, §401(a)(101), Mar. 23, 2018, 132 Stat. 1189; Pub. L. 117–2, title IX, §9703(a)(2), Mar. 11, 2021, 135 Stat. 189.)
 
 #### <b>Editorial Notes</b>
 

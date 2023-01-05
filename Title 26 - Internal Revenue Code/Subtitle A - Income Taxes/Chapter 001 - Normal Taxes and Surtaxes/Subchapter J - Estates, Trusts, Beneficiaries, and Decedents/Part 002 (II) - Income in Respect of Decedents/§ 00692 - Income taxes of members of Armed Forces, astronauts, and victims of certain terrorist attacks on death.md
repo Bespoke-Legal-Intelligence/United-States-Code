@@ -122,7 +122,7 @@ Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings pro
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–121 applicable with respect to any astronaut whose death occurs after Dec. 31, 2002, see section 110(a)(4) of Pub. L. 108–121, set out as a note under section 5 of this title.
+Amendment by Pub. L. 108–121 applicable with respect to any astronaut whose death occurs after Dec.31, 2002, see section 110(a)(4) of Pub. L. 108–121, set out as a note under section 5 of this title.
 
 #### Effective Date of 2002 Amendment
 

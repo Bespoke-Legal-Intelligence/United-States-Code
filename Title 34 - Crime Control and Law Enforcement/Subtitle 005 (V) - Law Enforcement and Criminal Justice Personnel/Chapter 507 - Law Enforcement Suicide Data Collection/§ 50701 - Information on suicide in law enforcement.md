@@ -38,3 +38,9 @@ In this section—
 
 (Pub. L. 116–143, §2, June 16, 2020, 134 Stat. 644.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of Pub. L. 116–143, which is classified to this chapter, as the "Law Enforcement Suicide Data Collection Act", see section 1 of Pub. L. 116–143, set out as a Short Title of 2020 Amendment note under section 10101 of this title.
+

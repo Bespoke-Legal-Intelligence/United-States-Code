@@ -36,7 +36,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;(F) A description of the organizational structure proposed to implement such management program, including the responsibilities and interrelationships of local, areawide, State, regional, and interstate agencies in the management process.
 
-&emsp;&emsp;(G) A definition of the term "beach" and a planning process for the protection of, and access to, public beaches and other public coastal areas of environmental, recreational, historical, esthetic, ecological, or cultural value.
+&emsp;&emsp;(G) A definition of the term "beach" and a planning process for the protection of, and access to, public beaches and other publiccoastal areas of environmental, recreational, historical, esthetic, ecological, or cultural value.
 
 &emsp;&emsp;(H) A planning process for energy facilities likely to be located in, or which may significantly affect, the coastal zone, including a process for anticipating the management of the impacts resulting from such facilities.
 
@@ -50,7 +50,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;&emsp;(ii) which have been developed by a local government, an areawide agency, a regional agency, or an interstate agency; and
 
-&emsp;&emsp;(B) established an effective mechanism for continuing consultation and coordination between the management agency designated pursuant to paragraph (6) and with local governments, interstate agencies, regional agencies, and areawide agencies within the coastal zone to assure the full participation of those local governments and agencies in carrying out the purposes of this chapter;except that the Secretary shall not find any mechanism to be effective for purposes of this subparagraph unless it requires that—
+&emsp;&emsp;(B) established an effective mechanism for continuing consultation and coordination between the management agency designated pursuant to paragraph (6) and with local governments, interstate agencies, regional agencies, and areawide agencies within the coastal zone to assure the full participation of those local governments and agencies in carrying out the purposes of this chapter; except that the Secretary shall not find any mechanism to be effective for purposes of this subparagraph unless it requires that—
 
 &emsp;&emsp;&emsp;(i) the management agency, before implementing any management program decision which would conflict with any local zoning ordinance, decision, or other action, shall send a notice of the management program decision to any local government whose zoning authority is affected;
 
@@ -110,7 +110,7 @@ A coastal state may amend or modify a management program which it has submitted 
 
 &emsp;(1) The State shall promptly notify the Secretary of any proposed amendment, modification, or other program change and submit it for the Secretary's approval. The Secretary may suspend all or part of any grant made under this section pending State submission of the proposed amendments, modification, or other program change.
 
-&emsp;(2) Within 30 days after the date the Secretary receives any proposed amendment, the Secretary shall notify the State whether the Secretary approves or disapproves the amendment, or whether the Secretary finds it is necessary to extend the review of the proposed amendment for a period not to exceed 120 days after the date the Secretary received the proposed amendment. The Secretary may extend this period only as necessary to meet the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.). If the Secretary does not notify the coastal statethat the Secretary approves or disapproves the amendment within that period, then the amendment shall be conclusively presumed as approved.
+&emsp;(2) Within 30 days after the date the Secretary receives any proposed amendment, the Secretary shall notify the State whether the Secretary approves or disapproves the amendment, or whether the Secretary finds it is necessary to extend the review of the proposed amendment for a period not to exceed 120 days after the date the Secretary received the proposed amendment. The Secretary may extend this period only as necessary to meet the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.). If the Secretary does not notify the coastal state that the Secretary approves or disapproves the amendment within that period, then the amendment shall be conclusively presumed as approved.
 
 &emsp;(3)(A) Except as provided in subparagraph (B), a coastal state may not implement any amendment, modification, or other change as part of its approved management program unless the amendment, modification, or other change is approved by the Secretary under this subsection.
 
@@ -122,7 +122,7 @@ A coastal state may amend or modify a management program which it has submitted 
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
@@ -144,7 +144,7 @@ Subsec. (i). Pub. L. 96–464, §5(a)(3), added subsec. (i).
 
 Subsec. (c)(2)(B). Pub. L. 94–370, §5(2), inserted provisions that mechanism not be found to be effective by Secretary until management agency meets certain requirement such as notice to affected zoning authority, 30-day period for zoning authority to respond with recommendations, and action to be taken by management agency where zoning authority does submit recommendations.
 
-Subsec. (c)(8). Pub. L. 94–370, §5(3), inserted "planning for, and" before "in the siting of" and reference to energy facilities in, or which significantly affect, such state's coastal zone and inserted proviso that in the case of energy facilities, the Secretary shall find that the state has given consideration to any applicable interstate energy plan or program.
+Subsec. (c)(8). Pub. L. 94–370, §5(3), inserted "planning for, and" before "in the siting of" and reference to energy facilities in, or which significantly affect, suchstate's coastal zone and inserted proviso that in the case of energy facilities, the Secretary shall find that the state has given consideration to any applicable interstate energy plan or program.
 
 Subsec. (g). Pub. L. 94–370, §5(4), inserted requirement that except for pre-Oct. 1, 1978 amendments of management programs, for purposes of complying with section 1454(b)(7), (8), and (9) of this title, no grant shall be made under this section to any coastal state after the date of an amendment until approved by Secretary.
 

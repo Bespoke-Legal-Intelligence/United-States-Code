@@ -68,7 +68,7 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (1) In general
 
-&emsp;Sections 4, 5 (other than subsections (a)(13) and (e)(1)(B) thereof), 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.) shall apply to the Inspector General of the Architect of the Capitol and the Office of such Inspector General and such sections shall be applied to the Office of the Architect of the Capitol and the Architect of the Capitol by substituting—
+&emsp;Sections 404, 405 (other than subsections (b)(13) and (f)(1)(B) thereof), 406 (other than subsection (a)(7) and (8) thereof), and 407 of title 5 shall apply to the Inspector General of the Architect of the Capitol and the Office of such Inspector General and such sections shall be applied to the Office of the Architect of the Capitol and the Architect of the Capitol by substituting—
 
 &emsp;&emsp;(A) "Office of the Architect of the Capitol" for "establishment"; and
 
@@ -78,7 +78,7 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (A) In general
 
-&emsp;&emsp;The Inspector General, in carrying out this section, is authorized, without the supervision or approval of any other employee, office, or other entity within the Office of the Architect of the Capitol, to select, appoint,and employ such officers and employees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Office of the Architect of the Capitol.
+&emsp;&emsp;The Inspector General, in carrying out this section, is authorized, without the supervision or approval of any other employee, office, or other entity within the Office of the Architect of the Capitol, to select, appoint, and employ such officers and employees (including consultants) as may be necessary for carrying out the functions, powers, and duties of the Office of Inspector General subject to the provisions of law governing selections, appointments, and employment in the Office of the Architect of the Capitol.
 
 #### (B) Security and suitability
 
@@ -86,13 +86,13 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (C) Consultants
 
-&emsp;&emsp;Any appointment of a consultant under the authority under subparagraph (A) shall be made consistent with section 6(a)(8) of the Inspector General Act of 1978 (5 U.S.C. App.).
+&emsp;&emsp;Any appointment of a consultant under the authority under subparagraph (A) shall be made consistent with section 6(a)(8) of the Inspector General Act of 1978 (5 U.S.C. App.).<sup>1</sup>
 
 #### (3) Law enforcement authority
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), any supervisory special agent under the Inspector General and any special agent supervised by such a supervisory special agent is authorized to—
+&emsp;&emsp;Subject to subparagraph (B), any supervisory special agent under the InspectorGeneral and any special agent supervised by such a supervisory special agent is authorized to—
 
 &emsp;&emsp;&emsp;(i) make an arrest without a warrant while engaged in official duties as authorized under this section or any other statute for any offense against the United States committed in the presence of such supervisory special agent or special agent, or for any felony cognizable under the laws of the United States if such supervisory special agent or special agent has reasonable grounds to believe that the person to be arrested has committed or is committing such felony;
 
@@ -144,15 +144,15 @@ There is an Office of Inspector General within the Office of the Architect of th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Before the first grant of authority under subparagraph (A), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this paragraph.
+&emsp;&emsp;&emsp;Before the first grant of authority under subparagraph (A), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.),<sup>1</sup> the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this paragraph.
 
 #### (ii) Suspension of authority
 
-&emsp;&emsp;&emsp;The authority granted under this paragraph (including any grant of authority toan individual under subparagraph (A), without regard to whether the individual is in compliance with subparagraph (B)) may be suspended by the Inspector General if the Office of Inspector General fails to comply with the reporting and review requirements under clause (i) of this subparagraph or subparagraph (D). Any suspension of authority under this clause shall be reported to the appropriate committees of Congress.
+&emsp;&emsp;&emsp;The authority granted under this paragraph (including any grant of authority to an individual under subparagraph (A), without regard to whether the individual is in compliance with subparagraph (B)) may be suspended by the Inspector General if the Office of Inspector General fails to comply with the reporting and review requirements under clause (i) of this subparagraph or subparagraph (D). Any suspension of authority under this clause shall be reported to the appropriate committees of Congress.
 
 #### (D) Peer review
 
-&emsp;&emsp;To ensure the proper exercise of the law enforcement powers authorized under this paragraph, the Office of Inspector General shall submit to and participate in the external review process established by the Council of the Inspectors General on Integrity and Efficiency for ensuring that adequate internal safeguards and management procedures continue to exist. Under the review process, the exercise of the law enforcement powers by the Office of Inspector General shall be reviewed periodically by another Office of Inspector General or by a committee of Inspectors General. The results of each review shall be communicated in writing to the Inspector General, the Council of the Inspectors General on Integrity and Efficiency, and the appropriate committees of Congress.
+&emsp;&emsp;To ensure the proper exercise of the law enforcement powers authorized under this paragraph, the Office of Inspector General shall submit to and participate in the external review process established by the Council of the Inspectors General on Integrity and Efficiency for ensuring that adequate internal safeguards and management procedures continue to exist. Under the review process, the exercise of the law enforcementpowers by the Office of Inspector General shall be reviewed periodically by another Office of Inspector General or by a committee of Inspectors General. The results of each review shall be communicated in writing to the Inspector General, the Council of the Inspectors General on Integrity and Efficiency, and the appropriate committees of Congress.
 
 #### (E) Alleged misconduct
 
@@ -192,19 +192,21 @@ By the date occurring 180 days after December 26, 2007, the Architect of the Cap
 
 &emsp;Subsection (g) shall take effect on December 26, 2007, and the Architect of the Capitol shall take such actions as necessary after December 26, 2007, to carry out that subsection.
 
-(Pub. L. 110–161, div. H, title I, §1301, Dec. 26, 2007, 121 Stat. 2240; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 116–94, div. P, title XVI, §§1602(b), 1603(b), 1604(b), 1605(b), Dec. 20, 2019, 133 Stat. 3210, 3214, 3218, 3219.)
+(Pub. L. 110–161, div. H, title I, §1301, Dec. 26, 2007, 121 Stat. 2240; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 116–94, div. P, title XVI, §§1602(b), 1603(b), 1604(b), 1605(b), Dec. 20, 2019, 133 Stat. 3210, 3214, 3218, 3219; Pub. L. 117–286, §4(b)(3), Dec. 27, 2022, 136 Stat. 4342.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (d)(1), (2)(C), (3)(C)(i), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 5 and 6(a)(8) of the Inspector General Act of 1978, referred to in subsec. (d)(2)(C), (3)(C)(i), are sections 5 and 6(a)(8) of Pub. L. 95–452, which were set out in the Appendix to Title 5, Government Organization and Employees, and were repealed and restated as sections 405 and 406(a)(8), respectively, of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4219, 4361.
 
 #### Codification
 
 Section is from the Legislative Branch Appropriations Act, 2008, which is div. H of the Consolidated Appropriations Act, 2008.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(1). Pub. L. 117–286 substituted "Sections 404, 405 (other than subsections (b)(13) and (f)(1)(B) thereof), 406 (other than subsection (a)(7) and (8) thereof), and 407 of title 5" for "Sections 4, 5 (other than subsections (a)(13) and (e)(1)(B) thereof), 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.)" in introductory provisions.
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–94, §1602(b)(1), inserted "; pay; limits on bonuses; counsel" after "removal" in heading.
 
@@ -223,4 +225,6 @@ Subsec. (d)(4). Pub. L. 116–94, §1604(b), added par. (4).
 #### Change of Name
 
 "Government Publishing Office" substituted for "Government Printing Office" in subsec. (c)(1)(A) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

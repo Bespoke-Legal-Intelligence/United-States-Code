@@ -54,7 +54,7 @@ In this subchapter:
 
 &emsp;(7) The term "covered beryllium employee" means the following, if and only if the employee is determined to have been exposed to beryllium in the performance of duty in accordance with section 7384n(a) of this title:
 
-&emsp;&emsp;(A) A current or former employee (as that term is defined in section 8101(1) of title 5)who may have been exposed to beryllium at a Department of Energy facility or at a facility owned, operated, or occupied by a beryllium vendor.
+&emsp;&emsp;(A) A current or former employee (as that term is defined in section 8101(1) of title 5) who may have been exposed to beryllium at a Department of Energy facility or at a facility owned, operated, or occupied by a beryllium vendor.
 
 &emsp;&emsp;(B) A current or former employee of—
 

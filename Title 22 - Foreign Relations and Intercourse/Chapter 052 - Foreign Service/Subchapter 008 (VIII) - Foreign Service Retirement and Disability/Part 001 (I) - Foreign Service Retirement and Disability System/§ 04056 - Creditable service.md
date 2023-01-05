@@ -26,7 +26,7 @@ In computing any annuity under this part, the total service of a participant who
 
 #### (d) Special contribution in repayment of refund of retirement contributions
 
-<sup>2</sup> A participant who has received a refund of retirement contributions (which has not been repaid) under this or any other retirement system for Government employees covering service which may be creditable may make a special contribution for such service under section 4045 of this title. Credit may not be allowed for service covered by the refund unless the special contribution is made.
+<sup>1</sup> A participant who has received a refund of retirement contributions (which has not been repaid) under this or any other retirement system for Government employees covering service which may be creditable may make a special contribution for such service under section 4045 of this title. Credit may not be allowed for service covered by the refund unless the special contribution is made.
 
 #### (e) Civilian service under other Government retirement system
 
@@ -90,7 +90,7 @@ A participant who, while on approved leave without pay, serves as a full-time pa
 
 &emsp;"(2) the denominator of which is the total of all wages deemed additional wages described in paragraph (1) of this subsection plus all other wages (within the meaning of section 209 of the Social Security Act \[42 U.S.C. 409\]) and all self-employment income (within the meaning of section 211(b) of such Act \[42 U.S.C. 411(b)\]) of such individual credited for years after 1936 and before the calendar year in which the determination month occurs, up to the contribution and benefit base (or such other amount referred to in such section 215(e)(1) of such Act \[42 U.S.C. 415(e)(1)\]) for each such year.
 
-"(c) Subsection (b) shall not reduce the annuity of any individual below the amount of the annuitywhich would be payable under chapter 8 of the Act \[this subchapter\] to the individual for the determination month if section 8332(j) of Title 5 of the United States Code applied to the individual for such month.
+"(c) Subsection (b) shall not reduce the annuity of any individual below the amount of the annuity which would be payable under chapter 8 of the Act\[this subchapter\] to the individual for the determination month if section 8332(j) of Title 5 of the United States Code applied to the individual for such month.
 
 "(d) For purposes of this section, the term 'determination month' means—
 
@@ -135,6 +135,4 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 Amendment by section 4 of Ex. Ord. No. 12446 effective Oct. 17, 1983, see section 4(e) of Ex. Ord. No. 12446, set out under section 4067 of this title.
 
 <i><sup>1</sup></i><i> See Amendment of Section note below.</i>
-
-<i><sup>2</sup></i><i> See Amendment of Section note below.</i>
 

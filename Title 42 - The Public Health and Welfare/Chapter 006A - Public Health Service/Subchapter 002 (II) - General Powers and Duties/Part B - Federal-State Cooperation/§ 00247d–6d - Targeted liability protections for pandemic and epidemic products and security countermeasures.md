@@ -92,7 +92,7 @@
 
 #### (C) Additional period for certain strategic national stockpile countermeasures
 
-&emsp;&emsp;With respect to a covered countermeasure that is in the stockpile under section 247d–6b of this title, if such countermeasure was the subject of a declaration under paragraph (1) at the time that it was obtained for the stockpile, the effective period of such declaration shall include a period when the countermeasure is administered or used pursuant to a distribution or release from the stockpile.
+&emsp;&emsp;With respect to a covered countermeasure that is in the stockpile under section 247d–6bof this title, if such countermeasure was the subject of a declaration under paragraph (1) at the time that it was obtained for the stockpile, the effective period of such declaration shall include a period when the countermeasure is administered or used pursuant to a distribution or release from the stockpile.
 
 #### (4) Amendments to declaration
 
@@ -160,11 +160,11 @@
 
 #### (3) Proof of willful misconduct
 
-&emsp;In an action under subsection (d), the plaintiff shall have the burden of proving by clear and convincing evidence willful misconduct by each covered person sued and that such willful misconduct caused death or serious physical injury.
+&emsp;In an action under subsection (d), the plaintiff shall have the burden of proving by clear and convincing evidence willful misconduct by each covered person sued and that such willfulmisconduct caused death or serious physical injury.
 
 #### (4) Defense for acts or omissions taken pursuant to Secretary's declaration
 
-&emsp;Notwithstanding any other provision of law, a program planner or qualified person shall not have engaged in "willful misconduct" as a matter of law where such program planner or qualified person acted consistent with applicable directions, guidelines, or recommendations by the Secretary regarding the administration or use of a covered countermeasure that is specified in the declaration under subsection (b), provided either the Secretary, or a State or local health authority, was provided with notice of information regarding serious physical injury or death from the administrationor use of a covered countermeasure that is material to the plaintiff's alleged loss within 7 days of the actual discovery of such information by such program planner or qualified person.
+&emsp;Notwithstanding any other provision of law, a program planner or qualified person shall not have engaged in "willful misconduct" as a matter of law where such program planner or qualified person acted consistent with applicable directions, guidelines, or recommendations by the Secretary regarding the administration or use of a covered countermeasure that is specified in the declaration under subsection (b), provided either the Secretary, or a State or local health authority, was provided with notice of information regarding serious physical injury or death from the administration or use of a covered countermeasure that is material to the plaintiff's alleged loss within 7 days of the actual discovery of such information by such program planner or qualified person.
 
 #### (5) Exclusion for regulated activity of manufacturer or distributor
 
@@ -224,7 +224,7 @@
 
 #### (2) Persons who can sue
 
-&emsp;An action under this subsection may be brought for wrongful death or serious physicalinjury by any person who suffers such injury or by any representative of such a person.
+&emsp;An action under this subsection may be brought for wrongful death or serious physical injury by any person who suffers such injury or by any representative of such a person.
 
 #### (e) Procedures for suit
 
@@ -288,7 +288,7 @@
 
 #### (B) Standard
 
-&emsp;&emsp;Notwithstanding any other provision of law, the court in an action under subsection (d) shall permit discovery only with respect to matters directly related to material issues contested in such action, and the court shall compel a response to a discovery request (including a request for admission, an interrogatory, a request for production of documents, or any other form of discovery request) under Rule 37, Federal Rules of Civil Procedure, only if the court finds that the requesting party needs the information sought to prove or defend as to a material issue contested in such action and that the likely benefits of a response to such request equal or exceed the burden or cost for the responding party of providing such response.
+&emsp;&emsp;Notwithstanding any other provision of law, the court in an action under subsection (d) shall permit discovery only with respect to matters directly related to material issues contested in such action, and the court shall compel a response to a discovery request (including a request for admission, an interrogatory, a request for production ofdocuments, or any other form of discovery request) under Rule 37, Federal Rules of Civil Procedure, only if the court finds that the requesting party needs the information sought to prove or defend as to a material issue contested in such action and that the likely benefits of a response to such request equal or exceed the burden or cost for the responding party of providing such response.
 
 #### (7) Reduction in award of damages for collateral source benefits
 
@@ -440,7 +440,7 @@ In this section:
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(8)(B), (c)(5)(A), (B)(i), (ii)(I), (C)(i), and\(i)(7)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Chapter V of the Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(8)(B), (c)(5)(A), (B)(i), (ii)(I), (C)(i), and (i)(7)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Chapter V of the Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (e)(6)(B), (9), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

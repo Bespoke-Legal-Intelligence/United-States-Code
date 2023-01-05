@@ -30,7 +30,7 @@ In this part:
 
 #### (4) High concentration of low-income students
 
-&emsp;The term "high concentration of low-income students", used with respect to a school,means a school that serves a student population 40 percent or more of who are low-income students.
+&emsp;The term "high concentration of low-income students", used with respect to a school, means a school that serves a student population 40 percent or more of who are low-income students.
 
 #### (5) High-need local educational agency
 

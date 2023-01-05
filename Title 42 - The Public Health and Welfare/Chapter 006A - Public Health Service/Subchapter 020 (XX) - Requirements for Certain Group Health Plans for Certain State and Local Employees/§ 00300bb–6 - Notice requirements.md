@@ -2,7 +2,7 @@
 
 In accordance with regulations prescribed by the Secretary—
 
-&emsp;(1) the group health plan shall provide, at the time of commencement of coverage underthe plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection,<sup>1</sup>
+&emsp;(1) the group health plan shall provide, at the time of commencement of coverage under the plan, written notice to each covered employee and spouse of the employee (if any) of the rights provided under this subsection,<sup>1</sup>
 
 &emsp;(2) the employer of an employee under a plan must notify the plan administrator of a qualifying event described in paragraph (1), (2), or (4) of section 300bb–3 of this title within 30 days of the date of the qualifying event,
 
@@ -24,7 +24,7 @@ In accordance with regulations prescribed by the Secretary—
 
 #### References in Text
 
-The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

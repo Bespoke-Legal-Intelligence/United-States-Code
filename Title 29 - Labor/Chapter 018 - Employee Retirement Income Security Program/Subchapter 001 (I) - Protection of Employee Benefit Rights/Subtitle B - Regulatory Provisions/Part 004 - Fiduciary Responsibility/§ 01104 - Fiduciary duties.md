@@ -42,9 +42,9 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 &emsp;(C) one year after the simple retirement account is established.
 
-> No reports, other than those required under section 1021(g) of this title, shall be required with respect to a simple retirement account established pursuant to such a qualified salary reduction arrangement.
+> No reports, other than those required under section 1021(g) of this title, shall be required withrespect to a simple retirement account established pursuant to such a qualified salary reduction arrangement.
 
-(3) In the case of a pension plan which makes a transfer to an individual retirement account or annuity of a designated trustee or issuerunder section 401(a)(31)(B) of title 26, the participant or beneficiary shall, for purposes of paragraph (1), be treated as exercising control over the assets in the account or annuity upon—
+(3) In the case of a pension plan which makes a transfer to an individual retirement account or annuity of a designated trustee or issuer under section 401(a)(31)(B) of title 26, the participant or beneficiary shall, for purposes of paragraph (1), be treated as exercising control over the assets in the account or annuity upon—
 
 &emsp;(A) the earlier of—
 
@@ -184,7 +184,7 @@ Form of notice.—The requirements of clauses (i) and (ii) of section 401(k)(12)
 
 #### (5) Limited liability
 
-&emsp;A fiduciary which satisfies the requirements of this subsection shall not be liable following the distribution of any benefit, or the investment by or on behalf of a participant or beneficiary pursuant to the selected guaranteed retirement income contract, for any losses that may result to the participant or beneficiarydue to an insurer's inability to satisfy its financial obligations under the terms of such contract.
+&emsp;A fiduciary which satisfies the requirements of this subsection shall not be liable following the distribution of any benefit, or the investment by or on behalf of a participant or beneficiary pursuant to the selected guaranteed retirement income contract, for any losses that may result to the participant or beneficiary due to an insurer's inability to satisfy its financial obligations under the terms of such contract.
 
 #### (6) Definitions
 
@@ -198,7 +198,17 @@ Form of notice.—The requirements of clauses (i) and (ii) of section 401(k)(12)
 
 &emsp;&emsp;The term "guaranteed retirement income contract" means an annuity contract for a fixed term or a contract (or provision or feature thereof) which provides guaranteed benefits annually (or more frequently) for at least the remainder of the life of the participant or the joint lives of the participant and the participant's designated beneficiary as part of an individual account plan.
 
-(Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 107–16, title VI, §657(c)(1), June 7, 2001, 115 Stat. 136; Pub. L. 107–147, title IV, §411(t), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title VI, §§621(a), 624(a), Aug. 17, 2006, 120 Stat. 978, 980; Pub. L. 110–458, title I, §106(d), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 116–94, div. O, title II, §204, Dec. 20, 2019, 133 Stat. 3165.)
+(Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 107–16, title VI, §657(c)(1), June 7, 2001, 115 Stat. 136; Pub. L. 107–147, title IV, §411(t), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title VI, §§621(a), 624(a), Aug. 17, 2006, 120 Stat. 978, 980; Pub. L. 110–458, title I, §106(d), Dec. 23, 2008, 122 Stat. 5107; Pub. L. 116–94, div. O, title II, §204, Dec. 20, 2019, 133 Stat. 3165; Pub. L. 117–328, div. T, title I, §127(d), Dec. 29, 2022, 136 Stat. 5324.)
+
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 117–328, div. T, title I, §127(d), (g), Dec. 29, 2022, 136 Stat. 5324, 5330, provided that, applicable to plan years beginning after Dec. 31, 2023, subsection (c) of this section is amended by adding at the end the following:</i>
+
+<i>"(6)</i>
+
+<i>Default investment arrangements for a pension-linked emergency savings account.—For purposes of paragraph (1), a participant in a pension-linked emergency savings account shall be treated as exercising control over the assets in the account with respect to the amount of contributions and earnings which are invested in accordance with section 1193(c)(1)(A)(iii) of this title."</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -207,6 +217,8 @@ Form of notice.—The requirements of clauses (i) and (ii) of section 401(k)(12)
 The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (d)(2)(B), is the enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(6). Pub. L. 117–328 added par. (6).
 
 <b>2019</b>—Subsec. (e). Pub. L. 116–94 added subsec. (e).
 
@@ -233,6 +245,10 @@ Subsec. (d). Pub. L. 101–508, §12002(b)(1), added subsec. (d).
 <b>1980</b>—Subsec. (a)(1)(D). Pub. L. 96–364 inserted reference to subchapter III of this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 
@@ -305,6 +321,18 @@ In General.—Not later than 1 year after the date of the enactment of this Act 
 Effective Date.—This section shall take effect on the date of enactment of this Act \[Aug. 17, 2006\]."
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
+
+#### Performance Benchmarks for Asset Allocation Funds
+
+Pub. L. 117–328, div. T, title III, §318(a), Dec. 29, 2022, 136 Stat. 5353, provided that: Not later than 2 years after the date of enactment of this Act \[Dec. 29, 2022\], the Secretary of Labor shall promulgate regulations under section 404 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1104) providing that, in the case of a designated investment alternative that contains a mix of asset classes, the administrator of a plan may, but is not required to, use a benchmark that is a blend of different broad-based securities market indices if—
+
+&emsp;"(1) the blend is reasonably representative of the asset class holdings of the designated investment alternative;
+
+&emsp;"(2) for purposes of determining the blend's returns for 1-, 5-, and 10-calendar-year periods (or for the life of the alternative, if shorter), the blend is modified at least once per year if needed to reflect changes in the asset class holdings of the designated investment alternative;
+
+&emsp;"(3) the blend is furnished to participants and beneficiaries in a manner that is reasonably calculated to be understood by the average plan participant; and
+
+&emsp;"(4) each securities market index that is used for an associated asset class would separately satisfy the requirements of such regulation for such asset class."
 
 #### Plan Amendments Not Required Until January 1, 1998
 

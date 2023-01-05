@@ -14,7 +14,27 @@ In General.—The Secretary of Transportation may provide for the training of ca
 
 (b)
 
-Sea Year Cadets on Cable Security Fleet and Tanker Security Fleet Vessels.—The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title, the Cable Security Fleet under chapter 532 of this title, or the Tanker Security Fleet under chapter 534 of this title to carry on each Maritime Security Program vessel, Cable Security Fleet vessel, or Tanker Security Fleet vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage.
+Sea Year Cadets on Certain Vessels.—
+
+&emsp;(1)
+
+Requirements.—The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title, the Cable Security Fleet under chapter 532 of this title, or the Tanker Security Fleet under chapter 534 of this title to—
+
+&emsp;&emsp;(A) carry on each Maritime Security Program vessel, Cable Security Fleet vessel, or Tanker Security Fleet vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage; and
+
+&emsp;&emsp;(B) implement and adhere to policies, programs, criteria, and requirements established pursuant to section 51322 of this title.
+
+&emsp;(2)
+
+Failure to implement or adhere to requirements.—Failure to implement or adhere to the policies, programs, criteria, and requirements referred to in paragraph (1) may, as determined by the Maritime Administrator, constitute a violation of an operating agreement entered into under chapter 531, 532, or 534 of this title and the Maritime Administrator may—
+
+&emsp;&emsp;(A) require the operator to take corrective actions; or
+
+&emsp;&emsp;(B) withhold payment due to the operator until the violation, as determined by the Maritime Administrator, has been remedied.
+
+&emsp;(3)
+
+Withheld payments.—Any payment withheld pursuant to paragraph (2)(B) may be paid, upon a determination by the Maritime Administrator that the operator is in compliance with the policies, programs, criteria, and requirements referred to in paragraph (1).
 
 (c)
 
@@ -46,7 +66,7 @@ Savings Clause.—Nothing in this section may be construed as affecting—
 
 &emsp;(3) the discretion of the master of the vessel to ensure the safety of all crew members.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1574; Pub. L. 109–241, title III, §307, July 11, 2006, 120 Stat. 528; Pub. L. 110–181, div. C, title XXXV, §3525(a)(3), (b), Jan. 28, 2008, 122 Stat. 600, 601; Pub. L. 115–232, div. C, title XXXV, §3512, Aug. 13, 2018, 132 Stat. 2311; Pub. L. 116–283, div. C, title XXXV, §3506, Jan. 1, 2021, 134 Stat. 4405.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1574; Pub. L. 109–241, title III, §307, July 11, 2006, 120 Stat. 528; Pub. L. 110–181, div. C, title XXXV, §3525(a)(3), (b), Jan. 28, 2008, 122 Stat. 600, 601; Pub. L. 115–232, div. C, title XXXV, §3512, Aug. 13, 2018, 132 Stat. 2311; Pub. L. 116–283, div. C, title XXXV, §3506, Jan. 1, 2021, 134 Stat. 4405; Pub. L. 117–263, div. C, title XXXV, §3517(a)(1), Dec. 23, 2022, 136 Stat. 3073.)
 
 Historical and Revision Notes
 
@@ -70,6 +90,8 @@ In paragraph (2), the words "with the permission of the owner" are substituted f
 
 #### Amendments
 
+<b>2022</b>—Subsec. (b). Pub. L. 117–263 amended subsec. (b) generally. Prior to amendment, text read as follows: "The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title, the Cable Security Fleet under chapter 532 of this title, or the Tanker Security Fleet under chapter 534 of this title to carry on each Maritime Security Program vessel, Cable Security Fleet vessel, or Tanker Security Fleet vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage."
+
 <b>2021</b>—Subsec. (b). Pub. L. 116–283 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title to carry on each Maritime Security Program vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage."
 
 <b>2018</b>—Pub. L. 115–232, §3512(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
@@ -81,4 +103,10 @@ Subsec. (a)(1). Pub. L. 115–232, §3512(2), substituted "owned, subsidized by,
 Par. (4). Pub. L. 110–181, §3525(a)(3), incorporated the substance of the amendment by Pub. L. 109–241, §307, into this section by adding par. (4). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–241, §307, which directed the amendment of section 1295b(f) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3525(b). See 2008 Amendment note for par. (4) and Historical and Revision notes above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–263, div. C, title XXXV, §3517(a)(2), Dec. 23, 2022, 136 Stat. 3074, provided that: "Paragraph (2) of subsection (b) of section 51307, as amended by paragraph (1), shall apply with respect to any failure to implement or adhere to the policies, programs, criteria, and requirements referred to in paragraph (1)(B) of such subsection that occurs on or after the date that is one year after the date of the enactment of this Act \[Dec. 23, 2022\]."
 

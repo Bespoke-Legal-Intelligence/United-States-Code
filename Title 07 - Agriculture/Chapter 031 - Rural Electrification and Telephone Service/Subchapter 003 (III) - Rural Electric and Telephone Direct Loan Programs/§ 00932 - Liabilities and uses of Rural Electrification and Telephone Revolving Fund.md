@@ -2,7 +2,7 @@
 
 #### (a) Liabilities and obligations of fund
 
-The notes of the Secretary to the Secretary of the Treasury to obtain funds for loans under sections 904, 905,<sup>1</sup> and 922 of this title, and all otherliabilities against the appropriations or assets in the fund in connection with electrification and telephone loan operations shall be liabilities of the fund, and all other obligations against such appropriations or assets in the fund arising out of electrification and telephone loan operations shall be obligations of the fund.
+The notes of the Secretary to the Secretary of the Treasury to obtain funds for loans under sections 904, 905,<sup>1</sup> and 922 of this title, and all other liabilities against the appropriations or assets in the fund in connection with electrification and telephone loan operations shall be liabilities of the fund, and all other obligations against such appropriations or assets in the fund arising out of electrification and telephone loan operations shall be obligations of the fund.
 
 #### (b) Uses of fund assets
 

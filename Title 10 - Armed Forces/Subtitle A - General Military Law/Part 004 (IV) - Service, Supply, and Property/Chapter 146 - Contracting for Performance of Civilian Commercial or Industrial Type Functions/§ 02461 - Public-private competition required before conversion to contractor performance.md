@@ -110,7 +110,7 @@ Congressional Notification.—(1) Before commencing a public-private competition
 
 &emsp;(E) A certification that a proposed performance of the function by a contractor is not a result of a decision by an official of a military department or Defense Agency to impose predetermined constraints or limitations on such employees in terms of man years, end strengths, full-time equivalent positions, or maximum number of employees.
 
-(2) The report required under paragraph (1) shall include an examination of the potentialeconomic effect of performance of the function by a contractor on—
+(2) The report required under paragraph (1) shall include an examination of the potential economic effect of performance of the function by a contractor on—
 
 &emsp;(A) Department of Defense civilian employees who would be affected by such a conversion in performance; and
 
@@ -328,7 +328,7 @@ Pub. L. 110–181, div. A, title X, §1081, Jan. 28, 2008, 122 Stat. 335, as ame
 
 "(a)
 
-Pilot Program Required.—The Secretary of the Air Force shall conduct, as soon as practicable after the date of the enactment of this Act \[Jan. 28, 2008\], a pilot program to assess the feasibility and advisability of utilizing commercial fee-for-service air refueling tanker aircraft for Air Force operations, unless the Secretary of Defense submits notification to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that pursuing such a program is not in the national interest. The duration of the pilot program shall be at least five years after commencement of the program.
+Pilot Program Required.—The Secretary of the Air Force shall conduct, as soon as practicable after the date of the enactment of this Act \[Jan. 28, 2008\], a pilot program to assess the feasibility and advisability of utilizing commercial fee-for-service air refueling tanker aircraft for Air Force operations, unless the Secretary of Defense submits notification to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that pursuing such a program is not in the national interest. The duration ofthe pilot program shall be at least five years after commencement of the program.
 
 "(b)
 
@@ -416,7 +416,7 @@ Content of Report.—The report required by subsection (a) shall contain, at a m
 
 &emsp;"(3) Identify safeguards in the revised circular to ensure that all public-private competitions are fair, appropriate, and comply with requirements of full and open competition.
 
-&emsp;"(4) The plans of the Department to ensure an appropriate phase-in period for the revised circular, as recommended by the Commercial Activities Panel of the Government \[General\] Accounting Office \[now Government Accountability Office\] in its April 2002report to Congress, including recommendations for any legislative changes that may be required to ensure a smooth and efficient phase-in period.
+&emsp;"(4) The plans of the Department to ensure an appropriate phase-in period for the revised circular, as recommended by the Commercial Activities Panel of the Government \[General\] Accounting Office \[now Government Accountability Office\] in its April 2002 report to Congress, including recommendations for any legislative changes that may be required to ensure a smooth and efficient phase-in period.
 
 &emsp;"(5) The plans of the Department to provide training to employees of the Department of Defense regarding the revised circular, including how the training will be funded, how employees will be selected to receive the training, and the number of employees likely to receive the training.
 
@@ -486,7 +486,7 @@ Pub. L. 104–106, div. A, title III, §353(b), Feb. 10, 1996, 110 Stat. 267, wh
 
 #### Demonstration Program To Identify Overpayments Made to Vendors
 
-Pub. L. 105–85, div. A, title III, §388(c), Nov. 18, 1997, 111 Stat. 1714, provided that, not later than Dec. 31,1998, the Comptroller General was to submit to Congress a report containing the results of a review by the Comptroller General of the demonstration program conducted under section 354 of Pub. L. 104–106, set out below.
+Pub. L. 105–85, div. A, title III, §388(c), Nov. 18, 1997, 111 Stat. 1714, provided that, not later than Dec. 31, 1998, the Comptroller General was to submit to Congress a report containing the results of a review by the Comptroller General of the demonstration program conducted under section 354 of Pub. L. 104–106, set out below.
 
 Pub. L. 104–106, div. A, title III, §354, Feb. 10, 1996, 110 Stat. 268, as amended by Pub. L. 105–85, div. A, title III, §388(a), (b), Nov. 18, 1997, 111 Stat. 1713, 1714, provided that:
 

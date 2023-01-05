@@ -124,7 +124,7 @@
 
 #### (5) Continuation of service
 
-&emsp;An individual whose term of service as a member of the Board expires may continue toserve on the Board until a successor is appointed.
+&emsp;An individual whose term of service as a member of the Board expires may continue to serve on the Board until a successor is appointed.
 
 #### (6) Removal
 

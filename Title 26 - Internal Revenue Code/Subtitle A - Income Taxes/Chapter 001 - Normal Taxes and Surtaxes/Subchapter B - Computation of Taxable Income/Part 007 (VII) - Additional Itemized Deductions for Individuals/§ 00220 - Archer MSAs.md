@@ -2,13 +2,13 @@
 
 #### (a) Deduction allowed
 
-In the case of an individual who is an eligible individual for any month during the taxable year, there shall be allowed as a deduction forthe taxable year an amount equal to the aggregate amount paid in cash during such taxable year by such individual to an Archer MSA of such individual.
+In the case of an individual who is an eligible individual for any month during the taxable year, there shall be allowed as a deduction for the taxable year an amount equal to the aggregate amount paid in cash during such taxable year by such individual to an Archer MSA of such individual.
 
 #### (b) Limitations
 
 #### (1) In general
 
-&emsp;The amount allowable as a deduction under subsection (a) to an individual for the taxable year shall not exceed the sum of the monthly limitations for months during such taxable year that the individual is an eligible individual.
+&emsp;The amount allowable as a deduction under subsection (a) to an individual for the taxableyear shall not exceed the sum of the monthly limitations for months during such taxable year that the individual is an eligible individual.
 
 #### (2) Monthly limitation
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) such amount is excludable from gross income under section 106(b) or allowable as a deduction under this section,
 
-> &emsp;&emsp;such individual shall not cease to meet the requirement of subparagraph (A)(iii)(I) by reason of such employer ceasing to be a small employer so long as such employee continues to be an employee of such employer.
+> &emsp;&emsp;such individual shall not cease to meet the requirement of subparagraph (A)(iii)(I) by reason of such employer ceasing to be a small employer so long as such employeecontinues to be an employee of such employer.
 
 #### (D) Limitations on eligibility
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) unless it is in cash, or
 
-&emsp;&emsp;&emsp;(ii) to the extent such contribution, when added to previous contributions to the trust for the calendar year, exceeds 75percent of the highest annual limit deductible permitted under subsection (c)(2)(A)(ii) for such calendar year.
+&emsp;&emsp;&emsp;(ii) to the extent such contribution, when added to previous contributions to the trust for the calendar year, exceeds 75 percent of the highest annual limit deductible permitted under subsection (c)(2)(A)(ii) for such calendar year.
 
 &emsp;&emsp;(B) The trustee is a bank (as defined in section 408(n)), an insurance company (as defined in section 816), or another person who demonstrates to the satisfaction of the Secretary that the manner in which such person will administer the trust will be consistent with the requirements of this section.
 
@@ -518,7 +518,7 @@ The Secretary may require the trustee of an Archer MSA to make such reports rega
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(7) and (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1811 of the Act is classified to section 1395c of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(7) and (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620.Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1811 of the Act is classified to section 1395c of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -700,7 +700,7 @@ Section applicable to taxable years beginning after Dec. 31, 1996, see section 3
 
 Pub. L. 109–432, div. A, title I, §117(c), Dec. 20, 2006, 120 Stat. 2942, provided that:
 
-"(1) The report required by section 220(j)(4) of the Internal Revenue Code of 1986 to be made on August 1,2005, or August 1, 2006, as the case may be, shall be treated as timely if made before the close of the 90-day period beginning on the date of the enactment of this Act \[Dec. 20, 2006\].
+"(1) The report required by section 220(j)(4) of the Internal Revenue Code of 1986 to be made on August 1, 2005, or August 1, 2006, as the case may be, shall be treated as timely if made before the close of the 90-day period beginning on the date of the enactment of this Act \[Dec. 20, 2006\].
 
 "(2) The determination and publication required by section 220(j)(5) of such Code with respect to calendar year 2005 or calendar year 2006, as the case may be, shall be treated as timely if made before the close of the 120-day period beginning on the date of the enactment of this Act. If the determination under the preceding sentence is that 2005 or 2006 is a cut-off year under section 220(i) of such Code, the cut-off date under such section 220(i) shall be the last day of such 120-day period."
 

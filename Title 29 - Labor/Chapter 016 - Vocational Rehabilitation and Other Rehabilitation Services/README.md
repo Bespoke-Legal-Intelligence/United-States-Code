@@ -125,6 +125,7 @@
 | [794b.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794b%20-%20Removal%20of%20architectural%2C%20transportation%2C%20or%20communication%20barriers%3B%20technical%20and%20financial%20assistance%3B%20compensation%20of%20experts%20or%E2%80%A6.md) | Removal of architectural, transportation, or communication barriers; technical and financial assistance; compensation of experts or consultants; authorization of appropriations. |
 | [794c.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794c%20-%20Interagency%20Disability%20Coordinating%20Council.md) | Interagency Disability Coordinating Council. |
 | [794d.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794d%20-%20Electronic%20and%20information%20technology.md) | Electronic and information technology. |
+| 794d–1. | Reports on accessibility of electronic information to individuals with disabilities. |
 | [794e.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794e%20-%20Protection%20and%20advocacy%20of%20individual%20rights.md) | Protection and advocacy of individual rights. |
 | [794f.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794f%20-%20Establishment%20of%20standards%20for%20accessible%20medical%20diagnostic%20equipment.md) | Establishment of standards for accessible medical diagnostic equipment. |
 | [794g.](Subchapter%20005%20%28V%29%20-%20Rights%20and%20Advocacy/%C2%A7%2000794g%20-%20Limitations%20on%20use%20of%20subminimum%20wage.md) | Limitations on use of subminimum wage. |

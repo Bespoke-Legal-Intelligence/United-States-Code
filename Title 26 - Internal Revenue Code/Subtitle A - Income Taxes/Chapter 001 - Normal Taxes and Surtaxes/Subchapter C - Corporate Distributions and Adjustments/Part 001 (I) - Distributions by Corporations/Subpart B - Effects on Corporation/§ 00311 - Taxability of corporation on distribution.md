@@ -260,7 +260,7 @@ Pub. L. 95–600, title VII, §703(j)(2)(C), Nov. 6, 1978, 92 Stat. 2941, provid
 
 Amendment by section 1901(a)(42)(A), (C) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
-Pub. L. 94–455, title XIX, §1901(a)(42)(B)(ii), Oct. 4, 1976, 90 Stat. 1771, provided that: "The amendments made by clause (i) \[amending this section\] shall apply only with respect to distributions after November 30, 1974."
+Pub. L. 94–455, title XIX, §1901(a)(42)(B)(ii), Oct. 4, 1976, 90 Stat. 1771, provided that: "The amendmentsmade by clause (i) \[amending this section\] shall apply only with respect to distributions after November 30, 1974."
 
 Pub. L. 94–452, §2(d)(4), Oct. 2, 1976, 90 Stat. 1512, provided that: "The amendment made by subsection (b) \[amending this section\] shall take effect on October 1, 1977, with respect to distributions after December 31, 1975, in taxable years ending after December 31, 1975."
 

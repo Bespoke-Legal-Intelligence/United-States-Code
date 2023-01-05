@@ -10,7 +10,7 @@ Notwithstanding section 15 of this title and in lieu of the relief specified in 
 
 #### (b) Recovery by States
 
-Notwithstanding section 15c of this title, and in lieu of the relief specified in such section, any State that is entitled to monetary relief on a claim under such section shall recover the total damage sustained as described in subsection (a)(1) of such section, interest calculated at the rate specified in section 1961 of title 28 on such total damage as specified in subsection (d) of this section, and the cost of suit attributable to such claim, including a reasonable attorney's fee pursuant to section 15c of this title if such claim—
+Notwithstanding section 15c of this title, and in lieu of the relief specified in such section, any State that is entitled to monetary relief on a claim under such section shall recover the total damage sustained as described in subsection (a)(1) of such section, interest calculated at the rate specified in section 1961 of title 28 on suchtotal damage as specified in subsection (d) of this section, and the cost of suit attributable to such claim, including a reasonable attorney's fee pursuant to section 15c of this title if such claim—
 
 &emsp;(1) results from conduct that is within the scope of a notification that has been filed under section 4305(a) of this title for a joint venture, or for a standards development activity engaged in by a standards development organization against which such claim is made, and
 
@@ -36,7 +36,7 @@ Subsections (a), (b), and (c) shall not be construed to modify the liability und
 
 &emsp;(2) is not a fulltime employee of the standards development organization that engaged in such activity, and
 
-&emsp;(3) is, or is an employee or agent of a person who is, engaged in a line of commerce that islikely to benefit directly from the operation of the standards development activity with respect to which such violation is found.
+&emsp;(3) is, or is an employee or agent of a person who is, engaged in a line of commerce that is likely to benefit directly from the operation of the standards development activity with respect to which such violation is found.
 
 #### (f) Applicability
 

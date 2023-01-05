@@ -56,7 +56,7 @@ The education and awareness campaigns under subsection (a) shall, as appropriate
 
 #### Codification
 
-Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2016, and not as part ofthe Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2016, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
 
@@ -67,6 +67,84 @@ Subsec. (b)(1). Pub. L. 115–271, §7161(b)(2)(A), substituted "opioid misuse a
 Subsec. (b)(2). Pub. L. 115–271, §7161(b)(2), substituted "opioid misuse and abuse" for "opioid abuse" and "non-addictive treatment options, safe disposal options for prescription medications, and other applicable" for "safe disposal of prescription medications and other".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Synthetic Opioid and Emerging Drug Misuse Danger Awareness
+
+Pub. L. 117–328, div. FF, title I, §1272, Dec. 29, 2022, 136 Stat. 5686, provided that:
+
+"(a)
+
+In General.—Not later than one year after the date of enactment of this Act \[Dec. 29, 2022\], the Secretary shall provide for the planning and implementation of a public education campaign to raise public awareness of synthetic opioids (including fentanyl and its analogues) and emerging drug use and misuse issues, as appropriate. Such campaign related to synthetic opioids shall include the dissemination of information that—
+
+&emsp;"(1) promotes awareness about the potency and dangers of fentanyl and its analogues and other synthetic opioids;
+
+&emsp;"(2) explains services provided by the Substance Abuse and Mental Health Services Administration and the Centers for Disease Control and Prevention (and any entity providing such services under a contract entered into with such agencies) with respect to the use and misuse of opioids (including synthetic opioids) and other emerging drug threats, such as stimulants, as appropriate; and
+
+&emsp;"(3) relates generally to opioid use and pain management, including information on alternative, nonopioid pain management treatments.
+
+> The Secretary shall update such campaign to address emerging drug misuse issues, as appropriate.
+
+"(b)
+
+Use of Media.—The campaign under subsection (a) may be implemented through the use of television, radio, internet, in-person public communications, and other commercial marketing venues and may be targeted to specific demographic groups.
+
+"(c)
+
+Consideration of Report Findings.—In planning and implementing the public education campaign under subsection (a) related to synthetic opioids, the Secretary shall take into consideration the findings of the report required under section 7001 of the SUPPORT for Patients and Communities Act (Public Law 115–271) \[132 Stat. 4007\].
+
+"(d)
+
+Consultation.—In coordinating the campaign under subsection (a), the Secretary shall consult with the Assistant Secretary for Mental Health and Substance Use to provide ongoing advice on the effectiveness of information disseminated through the campaign.
+
+"(e)
+
+Requirement of Campaign.—The campaign implemented under subsection (a) shall not be duplicative of any other Federal efforts relating to eliminating substance use and misuse.
+
+"(f)
+
+Evaluation.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall ensure that the campaign implemented under subsection (a) is subject to an independent evaluation, beginning 2 years after the date of enactment of this Act, and 2 years thereafter.
+
+&emsp;"(2)
+
+Measures and benchmarks.—For purposes of an evaluation conducted pursuant to paragraph (1), the Secretary shall—
+
+&emsp;&emsp;"(A) establish baseline measures and benchmarks to quantitatively evaluate the impact of the campaign under this section; and
+
+&emsp;&emsp;"(B) conduct qualitative assessments regarding the effectiveness of strategies employed under this section.
+
+"(g)
+
+Report.—The Secretary shall, beginning 2 years after the date of enactment of this Act, and 2 years thereafter, submit to Congress a report on the effectiveness of the campaign implemented under subsection (a) towards meeting the measures and benchmarks established under subsection (f)(2).
+
+"(h)
+
+Dissemination of Information Through Providers.—The Secretary shall develop and implement a plan for the dissemination of information related to synthetic opioids, to health care providers who participate in Federal programs, including programs administered by the Department of Health and Human Services, the Indian Health Service, the Department of Veterans Affairs, the Department of Defense, and the Health Resources and Services Administration, the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.), and the Medicaid program under title XIX of such Act (42 U.S.C. 1396 et seq.).
+
+"(i)
+
+Training Guide and Outreach on Synthetic Opioid Exposure Prevention.—
+
+&emsp;"(1)
+
+Training guide.—Not later than 18 months after the date of enactment of this Act, the Secretary shall design, publish, and make publicly available on the internet website of the Department of Health and Human Services, a training guide and webinar for first responders and other individuals who also may be at high risk of exposure to synthetic opioids that details measures to prevent that exposure.
+
+&emsp;"(2)
+
+Outreach.—Not later than 18 months after the date of enactment of this Act, the Secretary shall also conduct outreach about the availability of the training guide and webinar published under paragraph (1) to—
+
+&emsp;&emsp;"(A) fire department staff;
+
+&emsp;&emsp;"(B) law enforcement officers;
+
+&emsp;&emsp;"(C) ambulance transport and other first responders;
+
+&emsp;&emsp;"(D) hospital emergency department personnel; and
+
+&emsp;&emsp;"(E) other high-risk occupations, as identified by the Secretary."
 
 #### Information Materials and Resources To Prevent Addiction Related to Youth Sports Injuries
 

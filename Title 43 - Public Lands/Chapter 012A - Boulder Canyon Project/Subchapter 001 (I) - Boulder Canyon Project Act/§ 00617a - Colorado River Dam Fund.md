@@ -6,11 +6,11 @@ There is established a special fund, to be known as the "Colorado River Dam fund
 
 #### (b) Advancements to fund by Secretary of the Treasury; allocation; repayment; interest
 
-The Secretary of the Treasury is authorized to advance to the fund, from time to time and within the appropriations therefor, such amounts as the Secretary of the Interior deems necessary for carrying out the provisions of this subchapter..<sup>1</sup> Of this amount the sum of $25,000,000 shall be allocated to flood control and shall be repaid to the United States out of 62½ per centum of revenues, if any, in excess of the amount necessary to meet periodical payments during the period of amortization, as provided in section 617c of this title. If said sum of $25,000,000 is not repaid in full during the period of amortization, then 62½ per centum of all net revenues shall be applied to payment of the remainder. Interest at the rate of 4 per centum per annum accruing during the year upon the amounts so advanced and remaining unpaidshall be paid annually out of the fund, except as herein otherwise provided.
+The Secretary of the Treasury is authorized to advance to the fund, from time to time and within the appropriations therefor, such amounts as the Secretary of the Interior deems necessary for carrying out the provisions of this subchapter..<sup>1</sup> Of this amount the sum of $25,000,000 shall be allocated to flood control and shall be repaid to the United States out of 62½ per centum of revenues, if any, in excess of the amount necessary to meet periodical payments during the period of amortization, as provided in section 617c of this title. If said sum of $25,000,000 is not repaid in full during the period of amortization, then 62½ per centum of all net revenues shall be applied to payment of the remainder. Interest at the rate of 4 per centum per annum accruing during the year upon the amounts so advanced and remaining unpaid shall be paid annually out of the fund, except as herein otherwise provided.
 
 #### (c) Limitation on use made of advancements
 
-Moneys in the fund advanced under subdivision (b) shall be available only for expenditures for construction and the payment of interest, during construction, upon the amounts so advanced. No expenditures out of the fund shall be made for operation and maintenance except from appropriations therefor.
+Moneys in the fund advanced under subdivision (b) shall be available only for expenditures for construction and the payment of interest, during construction, upon the amounts so advanced. No expenditures out of the fund shall bemade for operation and maintenance except from appropriations therefor.
 
 #### (d) Unpaid interest on advancements; charge on fund; rate of interest
 

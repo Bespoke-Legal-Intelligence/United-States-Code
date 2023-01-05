@@ -36,7 +36,7 @@ Plea Agreements.—In the case of a plea agreement that includes a specific sent
 
 (d)
 
-Record on Review.—If a notice of appeal is filed in the district court pursuant to subsection\(a) or (b), the clerk shall certify to the court of appeals—
+Record on Review.—If a notice of appeal is filed in the district court pursuant to subsection (a) or (b), the clerk shall certify to the court of appeals—
 
 &emsp;(1) that portion of the record in the case that is designated as pertinent by either of the parties;
 
@@ -118,7 +118,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(2) a factor is an "impermissible" ground of departure if it is not a permissible factor within the meaning of subsection (j)(1).
 
-(Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416;Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 108–21, title IV, §401(d)–(f), Apr. 30, 2003, 117 Stat. 670, 671.)
+(Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 108–21, title IV, §401(d)–(f), Apr. 30, 2003, 117 Stat. 670, 671.)
 
 #### <b>Editorial Notes</b>
 
@@ -130,7 +130,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, as added and amended by section 401(d)(2), (e) of Pub. L. 108–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, as added and amended by section 401(d)(2), (e) of Pub. L. 108–21, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 
@@ -180,7 +180,7 @@ Subsec. (b)(2). Pub. L. 100–690, §7103(a)(1), struck out "issued by the Sente
 
 Subsec. (b)(3). Pub. L. 100–690, §7103(a)(3), added par. (3) and struck out former par. (3) which read as follows: "was imposed for an offense for which a sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1), and the sentence is less than—
 
-&emsp;"(A) the sentence specified in the applicable guideline to the extent that the sentence includes a lesser fine or term of imprisonment or term of supervised release than the minimum established in the guideline, or includes a less limiting condition of probation or supervised release under section 3563(b)(6) or (b)(11) than the minimum established in the guideline; and
+&emsp;"(A) the sentence specified in the applicable guideline to the extent that the sentence includes a lesser fine or term of imprisonment or term of supervised release than the minimum established in the guideline, or includes a less limiting condition of probation or supervised release under section 3563(b)(6) or\(b)(11) than the minimum established in the guideline; and
 
 &emsp;"(B) the sentence specified in a plea agreement, if any, under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure; or".
 

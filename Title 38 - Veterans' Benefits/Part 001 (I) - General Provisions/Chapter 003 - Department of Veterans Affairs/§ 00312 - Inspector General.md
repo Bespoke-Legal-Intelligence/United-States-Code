@@ -1,12 +1,12 @@
 ### §312. Inspector General
 
-(a) There is in the Department an Inspector General, who is appointed by the President, by and with the advice and consent of the Senate, as provided in the Inspector General Act of 1978 (5 U.S.C. App.). The Inspector General performs the functions, has the responsibilities, and exercises the powers specified in that Act.
+(a) There is in the Department an Inspector General, who is appointed by the President, by and with the advice and consent of the Senate, as provided in chapter 4 of title 5. The Inspector General performs the functions, has the responsibilities, and exercises the powers specified in that Act.<sup>1</sup>
 
 (b)(1) The Secretary shall provide for not less than 40 full-time positions in the Office of Inspector General in addition to the number of such positions in that office on March 15, 1989.
 
 (2) The President shall include in the budget transmitted to the Congress for each fiscal year pursuant to section 1105 of title 31 an estimate of the amount for the Office of Inspector General that is sufficient to provide for a number of full-time positions in that office that is not less than the number of full-time positions in that office on March 15, 1989, plus 40.
 
-(c)(1) Whenever the Inspector General, in carrying out the duties and responsibilities established under the Inspector General Act of 1978 (5 U.S.C. App.), issues a work product the Inspector General shall—
+(c)(1) Whenever the Inspector General, in carrying out the duties and responsibilities established under chapter 4 of title 5, issues a work product the Inspector General shall—
 
 &emsp;(A) submit the work product to—
 
@@ -30,13 +30,53 @@
 
 (2) Nothing in this subsection shall be construed to authorize the public disclosure of information that is specifically prohibited from disclosure by any other provision of law.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 383; amended Pub. L. 103–446, title XII, §1201(e)(3), (g)(1), Nov. 2, 1994, 108 Stat. 4685, 4687; Pub. L. 114–113, div. J, title II, §239, Dec. 18, 2015, 129 Stat. 2700; Pub. L. 114–223, div. A, title II, §244, Sept. 29, 2016, 130 Stat. 884.)
+(d)(1)(A) In addition to the authority otherwise provided by the Inspector General Act of 1978 (5 U.S.C. App.) <sup>1</sup> and in accordance with the requirements of this subsection, the Inspector General, in carrying out the provisions of this section, may require by subpoena the attendance and testimony of witnesses as necessary in the performance of the functions assigned to the Inspector General by the Inspector General Act of 1978 (5 U.S.C. App.) <sup>1</sup> and this section, which in the case of contumacy or refusal to obey, such subpoena shall be enforceable by order of any appropriate district court of the United States.
+
+(B) The Inspector General may not require by subpoena the attendance and testimony under subparagraph (A) of—
+
+&emsp;(i) any current Federal employee; or
+
+&emsp;(ii) any witness as part of any criminal proceeding.
+
+(2) The authority to issue a subpoena under paragraph (1) may not be delegated.
+
+(3)(A) The Inspector General shall notify the Attorney General of the intent to issue a subpoena under paragraph (1).
+
+(B) Not later than 10 days after the date on which the Attorney General is notified pursuant to subparagraph (A), the Attorney General may object in writing to the issuance of the subpoena if the subpoena will interfere with an ongoing investigation and, if the Attorney General makes such an objection, the Inspector General may not issue the subpoena.
+
+(C) If the Attorney General does not object in writing to the issuance of the subpoena during the 10-day period described in subparagraph (B), the Inspector General may issue the subpoena.
+
+(4) Before requiring by subpoena under paragraph (1) the attendance and testimony of a witness, the Inspector General shall, to the degree practicable—
+
+&emsp;(A) notify the witness of the intent of the Inspector General to issue the subpoena; and
+
+&emsp;(B) provide the witness an opportunity to attend and testify voluntarily.
+
+(5) Whenever requiring by subpoena under paragraph (1) the attendance and testimony of a witness, the Inspector General shall, to the greatest extent practicable, travel to residence of the witness, the principal place of business of the witness, or other similar location that is in proximity to the residence of the witness.
+
+(6) <sup>2</sup> (A) Along with each semiannual report submitted by the Inspector General pursuant to section 5(b) of the Inspector General Act of 1978 (5 U.S.C. App. 5(b)),<sup>1</sup> the Inspector General shall include a report on the exercise of the authority provided by paragraph (1).
+
+(B) Each report submitted under subparagraph (A) shall include, for the most recently completed six-month period, the following:
+
+&emsp;(i) The number of testimonial subpoenas issued and the number of individuals interviewed pursuant to such subpoenas.
+
+&emsp;(ii) The number of proposed testimonial subpoenas with respect to which the Attorney General objected under paragraph (3)(B).
+
+&emsp;(iii) A discussion of any challenges or concerns that the Inspector General has encountered exercising the authority provided by paragraph (1).
+
+&emsp;(iv) Such other matters as the Inspector General considers appropriate.
+
+(7)(A) The authority provided by paragraph (1)(A) shall terminate on May 31, 2025.
+
+(B) The termination of authority by subparagraph (A) shall not affect the enforceability of a subpoena issued under paragraph (1)(A) before the date of such termination.
+
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 383; amended Pub. L. 103–446, title XII, §1201(e)(3), (g)(1), Nov. 2, 1994, 108 Stat. 4685, 4687; Pub. L. 114–113, div. J, title II, §239, Dec. 18, 2015, 129 Stat. 2700; Pub. L. 114–223, div. A, title II, §244, Sept. 29, 2016, 130 Stat. 884; Pub. L. 117–136, §2(a), June 7, 2022, 136 Stat. 1251; Pub. L. 117–286, §4(b)(60), Dec. 27, 2022, 136 Stat. 4350.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsecs. (a) and (c)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978 and that Act, referred to in subsecs. (a) and (d)(1)(A), (6)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§401 et seq.) of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. Section 5(b) of the Act was repealed and restated as section 405(b) of Title 5. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Prior Provisions
 
@@ -45,6 +85,12 @@ Prior section 312 was renumbered section 1112 of this title.
 Provisions similar to those in this section were contained in section 9(b) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §3(3).
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–286, §4(b)(60)(A), substituted "chapter 4 of title 5." for "the Inspector General Act of 1978 (5 U.S.C. App.)."
+
+Subsec. (c)(1). Pub. L. 117–286, §4(b)(60)(B), substituted "chapter 4 of title 5," for "the Inspector General Act of 1978 (5 U.S.C. App.),".
+
+Subsec. (d). Pub. L. 117–136 added subsec. (d).
 
 <b>2016</b>—Subsec. (c)(1). Pub. L. 114–223, in introductory provisions, struck out "that makes a recommendation or otherwise suggests corrective action," after "work product".
 
@@ -59,4 +105,20 @@ Subsec. (b)(3). Pub. L. 103–446, §1201(g)(1), struck out par. (3) which read 
 #### Change of Name
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–136, §2(b), June 7, 2022, 136 Stat. 1252, provided that:
+
+"(1)
+
+In general.—Subsection (d) of section 312 of title 38, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[June 7, 2022\].
+
+"(2)
+
+Semiannual report.—Paragraph (6) of subsection (d) of such section, as so added, shall apply beginning on the date that is seven months after the first day of the first fiscal year beginning after the date of the enactment of this Act."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See Effective Date of 2022 Amendment note below.</i>
 

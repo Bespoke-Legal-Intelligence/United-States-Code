@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as otherwise provided by law (including section 101(a) of the PROGRESS for IndianTribes Act), the Secretary shall interpret each Federal law and regulation in a manner that facilitates—
+Except as otherwise provided by law (including section 101(a) of the PROGRESS for Indian Tribes Act), the Secretary shall interpret each Federal law and regulation in a manner that facilitates—
 
 &emsp;(1) the inclusion of programs in funding agreements; and
 

@@ -74,9 +74,9 @@ For the purposes of this subchapter—
 
 #### References in Text
 
-The Plant Protection Act, referred to in subsec. (a), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, as amended, which is classified principally to chapter 104 (§7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+The Plant Protection Act, referred to in subsec. (a), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For completeclassification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Codification
 
@@ -92,7 +92,7 @@ Pub. L. 113–79, §5201(3), in second sentence, substituted "ownership or opera
 
 Pub. L. 113–79, §5201(2)(C), which directed substitution of "limited liability companies, and such other legal entities" for "and limited liability companies," in first sentence and could not be executed as directed, was superseded by Pub. L. 115–334, §5401(a)(1). See 2018 Amendment note above and Effective Date of 2018 Amendment note below.
 
-Pub. L. 113–79, §5201(1), (2)(A), (B), in first sentence, substituted "(in the case of farm ownership loans in accordance with subchapter I) owner-operators or operators, or (in the case of loans for a purpose under subchapter II) operators" for "owner-operators (in the case of loans for a purpose under subchapter I of this chapter) or operators (in the case of loans for a purpose under subchapter II of this chapter)" in two places, and inserted ", or such other legal entities as the Secretary considers appropriate" after "limited liability companies" the first place appearing and ", or other legal entities" after "limited liability companies" the second place appearing.
+Pub. L. 113–79, §5201(1), (2)(A), (B), in first sentence, substituted "(in the case of farm ownership loans in accordance with subchapter I) owner-operators or operators, or (in the case of loans for a purpose under subchapter II) operators" for "owner-operators (in the case of loans for a purpose under subchapter I of this chapter) or operators (in the case of loans for a purposeunder subchapter II of this chapter)" in two places, and inserted ", or such other legal entities as the Secretary considers appropriate" after "limited liability companies" the first place appearing and ", or other legal entities" after "limited liability companies" the second place appearing.
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §5201(1), substituted "farmers or ranchers (including equine farmers or ranchers)" for "farmers, ranchers".
 
@@ -120,7 +120,7 @@ Pub. L. 96–302, §120(a) (see par. above), struck out from proviso requirement
 
 Subsecs. (b) to (d). Pub. L. 96–438, §3(b)(1), added subsecs. (b) to (d).
 
-<b>1978</b>—Pub. L. 95–334 struck out subsec. (a) which set forth provisions relating to designation of emergency areas and definition of term "aquaculture", and incorporated provisions of subsec. (b) as entire section and,as so incorporated, substituted provisions relating to criteria authorizing the Secretary to make and insure loans, for provisions relating to criteria authorizing the Secretary to make loans in designated areas.
+<b>1978</b>—Pub. L. 95–334 struck out subsec. (a) which set forth provisions relating to designation of emergency areas and definition of term "aquaculture", and incorporated provisions of subsec. (b) as entire section and, as so incorporated, substituted provisions relating to criteria authorizing the Secretary to make and insure loans, for provisions relating to criteria authorizing the Secretary to make loans in designated areas.
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–68, §2, substituted provisions authorizing the Secretary to designate an emergency area if he finds that a natural disaster has occurred in that area which substantially affected farming, ranching, or aquaculture operations for provisions authorizing the Secretary to designate an emergency area if he finds that there exists in that area a general need for agricultural credit and that the need for such credit in that area is the result of a natural disaster, and inserted definition of "aquaculture".
 
@@ -128,7 +128,7 @@ Subsec. (b). Pub. L. 94–68, §3, extended the authority of the Secretary to ma
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–237, §10(d), struck out "which cannot be met for temporary periods of time by private, cooperative, or other responsible sources (including loans the Secretary is authorized to make or insure under subchapters I and II of this chapter or any other Act of Congress), at reasonable rates and terms for loans for similar purposes and periods of time" after "a general need for agricultural credit".
 
-Subsec. (b). Pub. L. 93–237, §10(a), struck out ", and are unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing practice and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time" after "a reasonable prospect for successful operation with the assistance of such loan" and inserted provision that the loans be made without regard to whether the required financial assistance is otherwise available from the private, cooperative, or other responsible sources.
+Subsec. (b). Pub. L. 93–237, §10(a), struck out ", and are unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms,taking into consideration prevailing practice and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time" after "a reasonable prospect for successful operation with the assistance of such loan" and inserted provision that the loans be made without regard to whether the required financial assistance is otherwise available from the private, cooperative, or other responsible sources.
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–24, §§2, 6, substituted in parenthetical text "authorized to make or insure under subchapters I and II of this chapter" for "authorized to make under subchapter II of this chapter or to make or insure under subchapter I of this chapter" and introductory words "shall designate" for "may designate".
 
@@ -178,7 +178,7 @@ Pub. L. 93–237, §10(d), Jan. 2, 1974, 87 Stat. 1025, provided in part that: "
 
 #### Ineligibility for Emergency Loans
 
-Pub. L. 101–82, title III, §301, Aug. 14, 1989, 103 Stat. 581, provided that: "Section 321(b) of the ConsolidatedFarm and Rural Development Act (7 U.S.C. 1961(b)) shall not apply to a person who otherwise would be eligible for an emergency loan under subtitle C of such Act \[7 U.S.C. 1961 et seq.\], if such eligibility is the result of damage to an annual crop planted for harvest in 1989."
+Pub. L. 101–82, title III, §301, Aug. 14, 1989, 103 Stat. 581, provided that: "Section 321(b) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1961(b)) shall not apply to a person who otherwise would be eligible for an emergency loan under subtitle C of such Act \[7 U.S.C. 1961 et seq.\], if such eligibility is the result of damage to an annual crop planted for harvest in 1989."
 
 Similar provisions were contained in the following prior act:
 

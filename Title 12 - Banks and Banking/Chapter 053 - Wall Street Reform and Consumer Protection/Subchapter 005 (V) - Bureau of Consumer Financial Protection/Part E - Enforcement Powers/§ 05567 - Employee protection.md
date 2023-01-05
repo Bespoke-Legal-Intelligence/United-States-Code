@@ -10,7 +10,7 @@ No covered person or service provider shall terminate or in any other way discri
 
 &emsp;(3) filed, instituted, or caused to be filed or instituted any proceeding under any Federal consumer financial law; or
 
-&emsp;(4) objected to, or refused to participate in, any activity, policy, practice, or assigned task that the employee (or other such person) reasonably believed to be in violation of any law, rule, order, standard, or prohibition, subject to the jurisdiction of, or enforceable by, the Bureau.
+&emsp;(4) objected to, or refused to participate in, any activity, policy, practice, or assigned task that the employee (or other such person) reasonably believed to be in violation of any law,rule, order, standard, or prohibition, subject to the jurisdiction of, or enforceable by, the Bureau.
 
 #### (b) Definition of covered employee
 
@@ -92,7 +92,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (C) Penalty for frivolous claims
 
-&emsp;&emsp;If the Secretary of Labor finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary of Labor may award to the prevailing employera reasonable attorney fee, not exceeding $1,000, to be paid by the complainant.
+&emsp;&emsp;If the Secretary of Labor finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary of Labor may award to the prevailing employer a reasonable attorney fee, not exceeding $1,000, to be paid by the complainant.
 
 #### (D) De novo review
 
@@ -140,7 +140,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (2) No predispute arbitration agreements
 
-&emsp;Except as provided under paragraph (3), and notwithstanding any other provision of law, no predispute arbitration agreement shall be valid or enforceable to the extent that it requires arbitration of a dispute arising under this section.
+&emsp;Except as provided under paragraph (3), and notwithstanding any other provision of law,no predispute arbitration agreement shall be valid or enforceable to the extent that it requires arbitration of a dispute arising under this section.
 
 #### (3) Exception
 

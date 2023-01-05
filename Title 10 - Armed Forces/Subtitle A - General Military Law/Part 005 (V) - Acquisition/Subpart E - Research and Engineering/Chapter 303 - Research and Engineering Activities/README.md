@@ -21,7 +21,13 @@
 | [4091\.](Subchapter%20002%20%28II%29%20-%20Personnel/%C2%A7%2004091%20-%20Authorities%20for%20certain%20positions%20at%20science%20and%20technology%20reinvention%20laboratories.md) | Authorities for certain positions at science and technology reinvention laboratories. |
 | [4092\.](Subchapter%20002%20%28II%29%20-%20Personnel/%C2%A7%2004092%20-%20Personnel%20management%20authority%20to%20attract%20experts%20in%20science%20and%20engineering.md) | Personnel management authority to attract experts in science and engineering. |
 | [4093\.](Subchapter%20002%20%28II%29%20-%20Personnel/%C2%A7%2004093%20-%20Science%2C%20Mathematics%2C%20and%20Research%20for%20Transformation%20%28SMART%29%20Defense%20Education%20Program.md) | Science, Mathematics, and Research for Transformation (SMART) Defense Education Program. |
-| [4094\.](Subchapter%20002%20%28II%29%20-%20Personnel/%C2%A7%2004094%20-%20Enhanced%20pay%20authority%20for%20certain%20research%20and%20technology%20positions%20in%20science%20and%20technology%20reinvention%20laboratories.md) | Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories.<sup>1</sup> |
+| 4094\.<sup>1</sup> | Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 4094\.<sup>1</sup> | Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,10 +46,6 @@
 
 #### <b>Editorial Notes</b>
 
-#### Codification
-
-Item 4094 was added to this analysis by section 1701(e)(3)(B) of Pub. L. 117–81 in conjunction with the transfer of section 2358c of this title to section 4094. However, the transfer was not executed in light of the repeal of section 2358c, which took effect just prior to the transfer. See Codification note under section 4094 of this title.
-
 #### Prior Provisions
 
 A prior chapter 303 "WEAPON SYSTEMS DEVELOPMENT AND RELATED MATTERS", consisting of reserved section 4071, was repealed by Pub. L. 116–283, div. A, title XVIII, §1841(a)(1)(A), Jan. 1, 2021, 134 Stat. 4242.
@@ -52,11 +54,13 @@ A prior chapter 303 was renumbered chapter 703 of this title.
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–81, div. A, title II, §215(b), title XVII, §1701(e)(3)(B), Dec. 27, 2021, 135 Stat. 1593, 2138, added items 4094 and 4121 and struck out former item 4121 "\[Reserved\]", effective after the amendment made by Pub. L. 116–283, as amended by Pub. L. 117–81, see note below. See Codification note above as to item 4094.
+<b>2022</b>—Pub. L. 117–263, div. A, title XI, §1106(b), Dec. 23, 2022, 136 Stat. 2818, added identical second item 4094 "Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories" after item 4093.
+
+<b>2021</b>—Pub. L. 117–81, div. A, title II, §215(b), title XVII, §1701(e)(3)(B), Dec. 27, 2021, 135 Stat. 1593, 2138, added items 4094 "Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories" and 4121 and struck out former item 4121 "\[Reserved\]", effective after the amendment made by Pub. L. 116–283, as amended by Pub. L. 117–81, see note below.
 
 Pub. L. 117–81, div. A, title XVII, §1701(u)(3)(A), Dec. 27, 2021, 135 Stat. 2152, amended Pub. L. 116–283, div. A, title XVIII, §1842(a), Jan. 1, 2021, 134 Stat. 4244, which added this analysis, by substituting chapter heading, items for subchapters I to III, and items 4061 to 4067, 4091 to 4093, and 4121 to 4126 for former chapter heading "INNOVATION" and items 4061 to 4066.
 
-<i><sup>1</sup></i><i> See Codification note below.</i>
+<i><sup>1</sup></i><i> So in original. Two items 4094 have been enacted.</i>
 
 
 ---

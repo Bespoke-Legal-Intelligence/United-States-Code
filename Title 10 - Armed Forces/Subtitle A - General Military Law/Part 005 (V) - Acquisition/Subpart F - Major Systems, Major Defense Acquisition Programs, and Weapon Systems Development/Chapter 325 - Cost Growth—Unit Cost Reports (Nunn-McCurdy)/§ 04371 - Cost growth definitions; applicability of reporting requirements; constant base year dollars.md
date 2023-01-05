@@ -46,7 +46,7 @@ Baseline estimate.—The term "Baseline Estimate", with respect to a unit cost r
 
 &emsp;(5)
 
-Original baseline estimate.—The term "original Baseline Estimate" has the samemeaning as provided in section 4214(d) of this title.
+Original baseline estimate.—The term "original Baseline Estimate" has the same meaning as provided in section 4214(d) of this title.
 
 &emsp;(6)
 

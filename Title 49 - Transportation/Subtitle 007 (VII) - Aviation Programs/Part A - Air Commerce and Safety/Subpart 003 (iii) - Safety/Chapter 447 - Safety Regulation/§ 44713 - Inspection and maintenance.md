@@ -116,7 +116,7 @@ In subsections (a)–(c), the word "Administrator" in section 605(a) and (b) of 
 
 In subsection (a), the word "overhaul" is omitted as being included in "repair". The word "prescribed" is added for consistency in the revised title and with other titles of the United States Code. The words "A person operating, inspecting, overhauling, or maintaining the equipment shall comply with those requirements, regulations, and orders" are substituted for 49 App.:1425(a) (last sentence) to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words "be charged with the duty . . . of" are omitted as surplus.In clause (1), the words "in use" are substituted for "used by an air carrier in air transportation" to eliminate unnecessary words. The words "as may be necessary" and "for operation in air transportation" are omitted as surplus.
+In subsection (b), before clause (1), the words "be charged with the duty . . . of" are omitted as surplus. In clause (1), the words "in use" are substituted for "used by an air carrier in air transportation" to eliminate unnecessary words. The words "as may be necessary" and "for operation in air transportation" are omitted as surplus.
 
 In subsection (c), the words "in the performance of his duty", "used or intended to be used by any air carrier in air transportation", and "a period of" are omitted as surplus.
 
@@ -142,7 +142,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs andBorder Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Maintenance Providers
 

@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;&emsp;(A) emphasizes management, protection, and rehabilitation of habitat for these raptors and of other resources and values of the area;
 
-&emsp;&emsp;(B) provides for continued military use, consistent with the requirements of section 460iii–3(e) of this title, of the Orchard Training Area by reserve components of the Armed Forces;
+&emsp;&emsp;(B) provides for continued military use, consistent with the requirements of section460iii–3(e) of this title, of the Orchard Training Area by reserve components of the Armed Forces;
 
 &emsp;&emsp;(C) addresses the need for public educational and interpretive opportunities;
 

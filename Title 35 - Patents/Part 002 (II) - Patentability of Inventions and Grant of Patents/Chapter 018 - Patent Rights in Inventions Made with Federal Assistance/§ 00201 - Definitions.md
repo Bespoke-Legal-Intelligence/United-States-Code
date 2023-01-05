@@ -26,7 +26,7 @@ As used in this chapter—
 
 #### References in Text
 
-The Plant Variety Protection Act, referred to in subsec. (d), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
+The Plant Variety Protection Act, referred to in subsec. (d), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
 
 Section 41 of the Plant Variety Protection Act (7 U.S.C. 2401(d)), referred to in subsec. (e), was subsequently amended, and no longer defines the term "date of determination".
 

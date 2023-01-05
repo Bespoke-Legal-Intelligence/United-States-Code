@@ -72,7 +72,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 #### (1) In general
 
-&emsp;To be eligible to receive a grant under this section, a State shall provide assurances to the Attorney General that the State has the capability to contribute pertinent information to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note).<sup>2</sup>
+&emsp;To be eligible to receive a grant under this section, a State shall provide assurances tothe Attorney General that the State has the capability to contribute pertinent information to the national instant criminal background check system established under section 103(b) of the Brady Handgun Violence Prevention Act (18 U.S.C. 922 note).<sup>2</sup>
 
 #### (2) Information sharing
 
@@ -140,7 +140,7 @@ Subsec. (d). Pub. L. 115–141, §604(a)(3), inserted "the State has achieved co
 
 Subsec. (e)(1). Pub. L. 115–141, §604(a)(4), substituted "2018 through 2022" for "2002 through 2007".
 
-<b>2006</b>—Subsec. (c)(2)(G). Pub. L. 109–162 substituted "such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program" for "such as the Local Law Enforcement Block Grant program (described under the heading 'Violent Crime Reduction Programs, State and Local Law Enforcement Assistance' of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program".
+<b>2006</b>—Subsec. (c)(2)(G). Pub. L. 109–162 substituted "such as the Edward Byrne Justice Assistance Grant Program and the M.O.R.E. program" for "such as the Local Law Enforcement Block Grant program (described under the heading 'Violent Crime ReductionPrograms, State and Local Law Enforcement Assistance' of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119)) and the M.O.R.E. program".
 
 <b>2001</b>—Subsec. (b)(18). Pub. L. 107–56, §1015(1), added par. (18).
 
@@ -155,6 +155,10 @@ Subsec. (e)(2)(B) to (D). Pub. L. 106–561 inserted "and" after semicolon in su
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 10151 of this title.
+
+#### Short Title
+
+For short title of title I of Pub. L. 105–251, which is classified to this subchapter, as the "Crime Identification Technology Act of 1998", see section 101 of Pub. L. 105–251, set out as a Short Title of 1998 Act note under section 10101 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

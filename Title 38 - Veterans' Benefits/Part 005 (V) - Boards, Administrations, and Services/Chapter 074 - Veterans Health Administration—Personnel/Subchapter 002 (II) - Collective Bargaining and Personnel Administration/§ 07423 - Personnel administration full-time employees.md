@@ -8,6 +8,8 @@
 
 (C) The Secretary may prescribe regulations to implement this paragraph, including regulations making adjustments to address the annual hours requirement for physicians who are covered by this paragraph for only a portion of a calendar year.
 
+(D) The Secretary may exclude from the requirements of paragraph (1) employees hired under section 7306 or 7401(4) of this title or for a position described in section 7401(1) of this title that the Secretary has determined is of equivalent rank to a Senior Executive Service position (as such term is defined in section 3132(a) of title 5).
+
 (b) A person covered by subsection (a) may not do any of the following:
 
 &emsp;(1) Teach or provide consultative services at any affiliated institution if such teaching or consultation will, because of its nature or duration, conflict with such person's responsibilities under this title.
@@ -32,7 +34,7 @@
 
 &emsp;(2) The term "remuneration" means the receipt of any amount of monetary benefit from any non-Department source in payment for carrying out any professional responsibilities.
 
-(e)(1) The Secretary shall establish a leave transfer program for the benefit of health-care professionals in positions listed in section 7401(1) of this title. The Secretary may also establish a leave bank program for the benefit of such health-care professionals.
+(e)(1) The Secretary shall establish a leave transfer program for the benefit of health-care professionals in positions listed in section 7421(b) of this title. The Secretary may also establish a leave bank program for the benefit of such health-care professionals.
 
 (2) To the maximum extent feasible—
 
@@ -50,13 +52,13 @@
 
 (f) The Secretary may purchase promotional items of nominal value for use in the recruitment of individuals for employment under this chapter. The Secretary shall prescribe guidelines for the administration of the preceding sentence.
 
-(Added and amended Pub. L. 102–40, title II, §202, title IV, §401(b)(3)(A), May 7, 1991, 105 Stat. 201, 230; Pub. L. 102–405, title II, §203, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 104–262, title III, §347, Oct. 9, 1996, 110 Stat. 3208; Pub. L. 114–315, title VI, §614, Dec. 16, 2016, 130 Stat. 1577.)
+(Added and amended Pub. L. 102–40, title II, §202, title IV, §401(b)(3)(A), May 7, 1991, 105 Stat. 201, 230; Pub. L. 102–405, title II, §203, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 104–262, title III, §347, Oct. 9, 1996, 110 Stat. 3208; Pub. L. 114–315, title VI, §614, Dec. 16, 2016, 130 Stat. 1577; Pub. L. 117–168, title IX, §906(c)(2), Aug. 10, 2022, 136 Stat. 1812.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -64,9 +66,13 @@ Provisions similar to those in this section were contained in section 4108(a), (
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(2)(D). Pub. L. 117–168, §906(c)(2)(A), added subpar. (D).
+
+Subsec. (e)(1). Pub. L. 117–168, §906(c)(2)(B), substituted "7421(b)" for "7401(1)".
+
 <b>2016</b>—Subsec. (a). Pub. L. 114–315 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), the hours" for "The hours", and added par. (2).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–262, §347(a), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: "Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the Under Secretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which maybe extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each."
+<b>1996</b>—Subsec. (b). Pub. L. 104–262, §347(a), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: "Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the Under Secretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each."
 
 Subsec. (c). Pub. L. 104–262, §347(b), substituted "subsection (b)(5)" for "subsection (b)(6)" in introductory provisions.
 

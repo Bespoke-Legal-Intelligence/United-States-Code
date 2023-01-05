@@ -13,7 +13,7 @@
 | [2154\.](%C2%A7%2002154%20-%20Production%20of%20defective%20war%20material%2C%20war%20premises%2C%20or%20war%20utilities.md) | Production of defective war material, war premises or war utilities.<sup>1</sup> |
 | [2155\.](%C2%A7%2002155%20-%20Destruction%20of%20national-defense%20materials%2C%20national-defense%20premises%2C%20or%20national-defense%20utilities.md) | Destruction of national-defense materials, national-defense premises, or national-defense utilities. |
 | [2156\.](%C2%A7%2002156%20-%20Production%20of%20defective%20national-defense%20material%2C%20national-defense%20premises%2C%20or%20national-defense%20utilities.md) | Production of defective national-defense material, national-defense premises, or national-defense utilities. |
-| \[2157. | Repealed.\]<br> |
+| \[2157. | Repealed.\] |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

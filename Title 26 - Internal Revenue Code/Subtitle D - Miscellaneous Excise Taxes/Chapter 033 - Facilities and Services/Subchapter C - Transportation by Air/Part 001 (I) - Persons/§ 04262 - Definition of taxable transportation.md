@@ -6,7 +6,7 @@ For purposes of this part, except as provided in subsection (b), the term "taxab
 
 &emsp;(1) transportation by air which begins in the United States or in the 225–mile zone and ends in the United States or in the 225–mile zone; and
 
-&emsp;(2) in the case of transportation by air other than transportation described in paragraph (1), that portion of such transportation which is directly or indirectly from one port or station in the United States to another port or station in the United States, but only if such portion is not a part of uninterrupted international air transportation (within the meaning of subsection (c)(3)).
+&emsp;(2) in the case of transportation by air other than transportation described in paragraph (1), that portion of such transportation which is directly or indirectly from one port or station in the United States to another port or stationin the United States, but only if such portion is not a part of uninterrupted international air transportation (within the meaning of subsection (c)(3)).
 
 #### (b) Exclusion of certain travel
 
@@ -84,7 +84,7 @@ For purposes of this part, the term "transportation" includes layover or waiting
 
 &emsp;No notice may be published under paragraph (1)(A) with respect to any qualified agreement before the date 90 days after the date on which a copy of such agreement was furnished to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.
 
-(Added July 25, 1956, ch. 725, §3, 70 Stat. 644; amended Pub. L. 86–70, §22(b), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(a), July 12, 1960, 74 Stat. 416; Pub. L. 87–508, §5(b), June 28, 1962, 76 Stat. 116; Pub. L. 89–44, title VIII, §803(a), June 21, 1965, 79 Stat. 160; Pub. L. 91–258, title II, §203(b), May 21, 1970, 84 Stat. 238; Pub. L. 97–248, title II, §281A(a)(1), (2), Sept. 3, 1982, 96 Stat. 566, 567.)
+(Added July 25, 1956, ch. 725, §3, 70 Stat. 644; amended Pub. L. 86–70, §22(b), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(a), July 12, 1960, 74Stat. 416; Pub. L. 87–508, §5(b), June 28, 1962, 76 Stat. 116; Pub. L. 89–44, title VIII, §803(a), June 21, 1965, 79 Stat. 160; Pub. L. 91–258, title II, §203(b), May 21, 1970, 84 Stat. 238; Pub. L. 97–248, title II, §281A(a)(1), (2), Sept. 3, 1982, 96 Stat. 566, 567.)
 
 #### <b>Editorial Notes</b>
 
@@ -148,5 +148,5 @@ Section applicable to amounts paid on or after first day of first month which be
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -20,7 +20,7 @@ Promoting Safety and Efficiency.—To promote safety and efficiency in air navig
 
 &emsp;(6) coordinate meteorological requirements in the United States to maintain standard observations, to promote efficient use of facilities, and to avoid duplication of services unless the duplication tends to promote the safety and efficiency of air navigation; and
 
-&emsp;(7) promote and develop meteorological science and foster and support research projects in meteorology through the use ofprivate and governmental research facilities and provide for publishing the results of the projects unless publication would not be in the public interest.
+&emsp;(7) promote and develop meteorological science and foster and support research projects in meteorology through the use of private and governmental research facilities and provide for publishing the results of the projects unless publication would not be in the public interest.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1201.)
 
@@ -140,7 +140,7 @@ Applicability to low population density states.—This subsection is applicable 
 
 "(e)
 
-Report.—Not later than September 30, 2025, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee onTransportation and Infrastructure of the House of Representatives\] a report on the implementation of the requirements under this section."
+Report.—Not later than September 30, 2025, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the implementation of the requirements under this section."
 
 #### Automated Surface Observation System Stations
 

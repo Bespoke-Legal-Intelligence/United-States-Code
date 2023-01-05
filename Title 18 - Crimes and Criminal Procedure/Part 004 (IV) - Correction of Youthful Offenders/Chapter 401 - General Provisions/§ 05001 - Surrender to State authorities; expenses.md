@@ -6,7 +6,7 @@ The United States marshal of such district upon written order of the United Stat
 
 Before any person is conveyed from one State to another or from or to the District of Columbia under this section, he shall signify his willingness to be so returned, or there shall be presented to the United States attorney a demand from the executive authority of such State or the District of Columbia, to which the prisoner is to be returned, supported by indictment or affidavit as prescribed by section 3182 of this title.
 
-The expense incident to the transportation of any such person, as herein authorized, shall bepaid from the appropriation "Salaries, Fees, and Expenses, United States Marshals."
+The expense incident to the transportation of any such person, as herein authorized, shall be paid from the appropriation "Salaries, Fees, and Expenses, United States Marshals."
 
 (June 25, 1948, ch. 645, 62 Stat. 857; Pub. L. 100–690, title VI, §6467(b), Nov. 18, 1988, 102 Stat. 4376.)
 

@@ -10,7 +10,7 @@ In general.—The Secretary, subject to availability of appropriations and other
 
 &emsp;(2)
 
-Timing.—This amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section.
+Timing.—This amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section or section 51307(b).
 
 (b)
 
@@ -28,5 +28,11 @@ General Limitations.—The Secretary shall not make any payment under this chapt
 
 Reductions in Payments.—With respect to payments under this chapter for a vessel covered by an Operating Agreement, the Secretary shall make a pro rata reduction for each day less than 365 in a fiscal year that the vessel is not operated in accordance with section 53205(a)(1), with days during which the vessel is drydocked or undergoing survey, inspection or repair to be considered days on which the vessel is operated as provided in subsection (b).
 
-(Added Pub. L. 116–92, div. C, title XXXV, §3521(a), Dec. 20, 2019, 133 Stat. 1995.)
+(Added Pub. L. 116–92, div. C, title XXXV, §3521(a), Dec. 20, 2019, 133 Stat. 1995; amended Pub. L. 117–263, div. C, title XXXV, §3517(b)(2), Dec. 23, 2022, 136 Stat. 3074.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–263 inserted "or section 51307(b)" after "this section".
 

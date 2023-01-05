@@ -1,6 +1,6 @@
 ### §1231e. Use of funds withheld
 
-(a) At any time that the Secretary makes an allotment or reallotment to any State under any applicable program, the Secretary shall reduce such allotment or reallotment by such amount as the Secretary determines such allotment or reallotment would have been reduced, had the data on which such allotment or reallotment is based excluded all data relating to local educational agencies of the State that, on the date of the Secretary's action, are ineligible to receive the Federal financial assistance involved because of failure to comply with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], section 794 of title 29, or the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\].
+(a) At any time that the Secretary makes an allotment or reallotment to any State under any applicable program, the Secretary shall reduce such allotment or reallotment by such amount as the Secretary determines such allotment or reallotment would have been reduced, had the data on which such allotment or reallotment is based excluded all data relating to local educational agencies of the State that, on the date of the Secretary's action, are ineligible to receive the Federal financial assistance involved because of failure to comply with title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\],title IX of the Education Amendments of 1972 \[20 U.S.C. 1681 et seq.\], section 794 of title 29, or the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\].
 
 (b) The Secretary may use any funds withheld under subsection (a)—
 
@@ -14,11 +14,11 @@
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (a), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (a), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (a), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (a), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (a), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
 
 #### Prior Provisions
 

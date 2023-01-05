@@ -28,7 +28,7 @@ Subject to the limitations contained in subsection (b), the corporation shall gu
 
 &emsp;(i) the term "gross income" means "earned income" within the meaning of section 911(b) of title 26 (determined without regard to any community property laws),
 
-&emsp;(ii) in the case of a participant in a plan under which contributions are made by more than one employer, amounts received as gross income from any employer under that plan shall be aggregated with amounts received from any other employer under that plan during the same period, and
+&emsp;(ii) in the case of a participant in a plan under which contributions are made by morethan one employer, amounts received as gross income from any employer under that plan shall be aggregated with amounts received from any other employer under that plan during the same period, and
 
 &emsp;(iii) any non-basic benefit shall be disregarded.
 
@@ -84,7 +84,7 @@ In general.—Except as provided in subparagraph (C), the term "recovery ratio" 
 
 &emsp;(i) the corporation has determined the value of recoveries under section 1362, 1363, or 1364 of this title, and
 
-&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the 5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
+&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
 
 (C) In the case of a terminated plan with respect to which the outstanding amount of benefit liabilities exceeds $20,000,000, for purposes of this section, the term "recovery ratio" means, with respect to the termination of such plan, the ratio of—
 
@@ -132,7 +132,7 @@ If any plan makes an election under section 402(a)(1) of the Pension Protection 
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, and XVI of the Act are classified generally to subchapters II (§401 et seq.) and XVI (§1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 402(a)(1) of the Pension Protection Act of 2006, referred to in subsec. (h), is section 402(a)(1) of Pub. L. 109–280, which is set out as a note under section 430 of Title 26, Internal Revenue Code.
 

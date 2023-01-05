@@ -32,7 +32,7 @@
 
 &emsp;(12) when a marine casualty occurs, a statement about the casualty and the circumstances under which it occurred, made immediately after the casualty when practicable to do so.
 
-&emsp;(13) when a vessel fails to carry out ballast water management requirements as applicable and pursuant to regulations promulgated by the Secretary, including when the vessel fails to carry out ballast water management requirements due to an allowed safety exemption, a statement regarding the failure tocomply and the circumstances under which the failure occurred, made immediately after the failure, when practicable to do so.
+&emsp;(13) when a vessel fails to carry out ballast water management requirements as applicable and pursuant to regulations promulgated by the Secretary, including when the vessel fails to carry out ballast water management requirements due to an allowed safety exemption, a statement regarding the failure to comply and the circumstances under which the failure occurred, made immediately after the failure, when practicable to do so.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 581; Pub. L. 98–557, §30, Oct. 30, 1984, 98 Stat. 2875; Pub. L. 104–324, title VII, §742, Oct. 19, 1996, 110 Stat. 3942; Pub. L. 115–282, title IX, §903(d), Dec. 4, 2018, 132 Stat. 4357.)
 

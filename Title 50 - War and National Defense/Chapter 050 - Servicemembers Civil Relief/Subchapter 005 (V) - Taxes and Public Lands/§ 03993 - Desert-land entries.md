@@ -14,7 +14,7 @@ A desert-land entry made or held under the desert-land laws before the entrance 
 
 #### (b) Service-related disability
 
-If an entryman or claimant is honorably discharged and is unable to accomplish reclamation of, and payment for, desert land due to a disability incurred in the line of duty, the entryman or claimant may make proof without further reclamation or payments, under regulations prescribed by the Secretary of the Interior, and receive a patent for the land entered or claimed.
+If an entryman or claimant is honorably discharged and is unable to accomplish reclamation of, and payment for, desert land due to a disability incurred in the line of duty, theentryman or claimant may make proof without further reclamation or payments, under regulations prescribed by the Secretary of the Interior, and receive a patent for the land entered or claimed.
 
 #### (c) Filing requirement
 

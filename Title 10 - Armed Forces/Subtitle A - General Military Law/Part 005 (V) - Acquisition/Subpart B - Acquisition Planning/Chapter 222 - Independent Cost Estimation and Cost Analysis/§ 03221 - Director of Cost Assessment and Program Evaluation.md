@@ -36,9 +36,11 @@ Functions.—In carrying out the responsibility of the Director under subsection
 
 &emsp;&emsp;&emsp;(ii) any decision to enter into low-rate initial production or full-rate production;
 
-&emsp;&emsp;&emsp;(iii) any certification under section 4376 of this title; and
+&emsp;&emsp;&emsp;(iii) any certification under section 4376 of this title;
 
 &emsp;&emsp;&emsp;(iv) any report under section 2445c(f) <sup>1</sup> of this title; and
+
+&emsp;&emsp;&emsp;(v) any decision to enter into a contract in connection with a military construction project of a value greater than $500,000,000; and
 
 &emsp;&emsp;(B) at any other time considered appropriate by the Director, upon the request of the Under Secretary of Defense for Acquisition and Sustainment, or upon the request of the milestone decision authority;
 
@@ -50,7 +52,7 @@ Functions.—In carrying out the responsibility of the Director under subsection
 
 Staff.—The Secretary of Defense shall ensure that the Director of Cost Assessment and Program Evaluation has sufficient professional staff of military and civilian personnel to enable the Director to carry out the duties and responsibilities of the Director under this chapter.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1812(a), (b), Jan. 1, 2021, 134 Stat. 4174; Pub. L. 117–81, div. A, title XVII, §1701(c)(1), (d)(5), (o)(6)(A)(i), Dec. 27, 2021, 135 Stat. 2135, 2136, 2147.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1812(a), (b), Jan. 1, 2021, 134 Stat. 4174; Pub. L. 117–81, div. A, title XVII, §1701(c)(1), (d)(5), (o)(6)(A)(i), Dec. 27, 2021, 135 Stat. 2135, 2136, 2147; Pub. L. 117–263, div. B, title XXVIII, §2806(b), Dec. 23, 2022, 136 Stat. 2995.)
 
 #### <b>Editorial Notes</b>
 
@@ -60,7 +62,7 @@ Section 2445c of this title, referred to in subsec. (b)(6)(A)(iv), was repealed 
 
 #### Codification
 
-The text of subsec. (a) of section 2334 of this title, which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, §1812(b)(1), (2), was based on Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 113–66, div. A, title VIII, §812(c)(1), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, §§842(a)(1), (2), (b)(1), (2), 846(3), Dec. 23, 2016, 130 Stat. 2288, 2289, 2292; Pub. L. 115–91, div. A, title X, §1081(a)(31), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, §902(53), Dec. 20, 2019, 133 Stat. 1549.
+The text of subsec. (a) of section 2334 of this title, which was transferred to this section, redesignated as subsecs. (a) and (b), and amended by Pub. L. 116–283, §1812(b)(1), (2), was based on Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 113–66, div. A, title VIII, §812(c)(1), Dec. 26, 2013, 127 Stat. 808; Pub. L. 114–92, div. A, title VIII, §824(b), Nov. 25, 2015, 129 Stat. 907; Pub. L. 114–328, div. A, title VIII, §§842(a)(1), (2), (b)(1), (2), 846(3), Dec. 23, 2016, 130 Stat.2288, 2289, 2292; Pub. L. 115–91, div. A, title X, §1081(a)(31), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title IX, §902(53), Dec. 20, 2019, 133 Stat. 1549.
 
 The text of subsec. (h) of section 2334 of this title, which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, §1812(b)(3), was based on Pub. L. 111–23, title I, §101(b)(1), May 22, 2009, 123 Stat. 1706; Pub. L. 114–92, div. A, title X, §1077(a), Nov. 25, 2015, 129 Stat. 998; Pub. L. 114–328, div. A, title VIII, §842(a)(3), Dec. 23, 2016, 130 Stat. 2288.
 
@@ -69,6 +71,8 @@ The text of subsec. (h) of section 2334 of this title, which was transferred to 
 A prior section 3221, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, related to authorized strength of Army Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See section 12001 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(6)(A)(v). Pub. L. 117–263 added cl. (v).
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §1812(b)(1), transferred subsec. (a) of section 2334 of this title to this section.
 
@@ -89,6 +93,10 @@ Subsec. (c). Pub. L. 117–81, §1701(c)(1), substituted "under this chapter" fo
 Pub. L. 116–283, §1812(b)(3), redesignated subsec. (h) of section 2334 of this title as subsec. (c) of this section.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–263 applicable to contracts entered into on or after Dec. 23, 2022, see section 2806(c) of Pub. L. 117–263, set out as a note under section 2851 of this title.
 
 #### Effective Date of 2021 Amendment
 

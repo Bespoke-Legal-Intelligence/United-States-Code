@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Aug. 29, 1916, ch. 417, 39 Stat. 606 (3d proviso).
 
-The word "agency" is substituted for the word "branch" to conform to present terminology. Thewords "by the Secretary of the Navy and the head of the department or agency having control of the land" are added to identify the officials who "mutually" select the site.
+The word "agency" is substituted for the word "branch" to conform to present terminology. The words "by the Secretary of the Navy and the head of the department or agency having control of the land" are added to identify the officials who "mutually" select the site.
 
 #### <b>Editorial Notes</b>
 

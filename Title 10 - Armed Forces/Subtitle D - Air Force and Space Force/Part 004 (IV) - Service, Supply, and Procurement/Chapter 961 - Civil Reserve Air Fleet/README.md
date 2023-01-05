@@ -25,7 +25,7 @@ Prior section 9502, act Aug. 10, 1956, ch. 1041, 70A Stat. 574, related to maint
 
 Prior section 9503, act Aug. 10, 1956, ch. 1041, 70A Stat. 574, related to research and development programs of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §827(c), Nov. 30, 1993, 107 Stat. 1713.
 
-Prior section 9504, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to procurement of ordnance, signal, and chemical warfare supplies for experimental purposes by the Secretary of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(c)(2), Nov. 30, 1993, 107 Stat. 1707. See section 4023 of this title.
+Prior section 9504, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to procurement of ordnance, signal, andchemical warfare supplies for experimental purposes by the Secretary of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(c)(2), Nov. 30, 1993, 107 Stat. 1707. See section 4023 of this title.
 
 Prior section 9505, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to procurement of production equipment by Secretary of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §823(1), Nov. 30, 1993, 107 Stat. 1707.
 
@@ -35,7 +35,7 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–81, div. A, title X, §1083(c)(2), Dec. 27, 2021, 135 Stat. 1923, added items 9512 and 9513 andstruck out item 9511a "Civil Reserve Air Fleet contracts: payment rate" and former item 9512 "Contracts for the inclusion or incorporation of defense features".
+<b>2021</b>—Pub. L. 117–81, div. A, title X, §1083(c)(2), Dec. 27, 2021, 135 Stat. 1923, added items 9512 and 9513 and struck out item 9511a "Civil Reserve Air Fleet contracts: payment rate" and former item 9512 "Contracts for the inclusion or incorporation of defense features".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 931 of this title as this chapter.
 

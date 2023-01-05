@@ -20,7 +20,7 @@ Submission and Contents.—Not later than August 15, 1997, and every 2 years the
 
 &emsp;&emsp;(B) technological progress in safety achieved; and
 
-&emsp;&emsp;(C) a summary of each research and development project carried out with Federal and non-Federal entities pursuant to section 12 of the Pipeline Safety Improvement Act of 2002 and a review of how the project affects safety.
+&emsp;&emsp;(C) a summary of each research and development project carried out with Federal andnon-Federal entities pursuant to section 12 of the Pipeline Safety Improvement Act of 2002 and a review of how the project affects safety.
 
 &emsp;(7) a list, with a brief statement of the issues, of completed or pending judicial actions under this chapter.
 

@@ -72,7 +72,7 @@ In general.—Subject to clauses (ii) and (iii), the Secretary shall make funds 
 
 &emsp;&emsp;(ii)
 
-Provision of funds.—The Secretary shall provide funds described in clause (i) to States administering a school lunch program in a manner proportional to the administrative expense allocation of each State during the preceding fiscal year.
+Provision of funds.—The Secretary shall provide funds described in clause (i) toStates administering a school lunch program in a manner proportional to the administrative expense allocation of each State during the preceding fiscal year.
 
 &emsp;&emsp;(iii)
 
@@ -104,7 +104,7 @@ Subsec. (b). Pub. L. 97–35, §801(a)(3), added subsec. (b).
 
 <b>1973</b>—Pub. L. 93–150 increased national average food assistance payments from 8 to 10 cents per lunch.
 
-<b>1972</b>—Pub. L. 92–433 substituted new formula for food assistance payments to State educational agencies bytaking into account the number of lunches served during the year, the children in the schools in such State participating in the school lunch program, and the national average payment per lunch set up by the Secretary, with certain limitations, for apportionment formula limiting the apportionable funds to 75 per cent of the available funds for such year, and taking into account the participation rate for the State, the need rate for the State, and providing for a method of apportionment, special provisions for disposal of excess or unused funds and for fiscal years beginning July 1, 1962, July 1, 1963, July 1, 1964 and fixing the funds for American Samoa at $25,000 for each year for the five fiscal years beginning July 1, 1962.
+<b>1972</b>—Pub. L. 92–433 substituted new formula for food assistance payments to State educational agencies by taking into account the number of lunches served during the year, the children in the schools in such State participating in the school lunch program, and the national average payment per lunch set up by the Secretary, with certain limitations, for apportionment formula limiting the apportionable funds to 75 per cent of the available funds for such year, and taking into account the participation rate for the State, the need rate for the State, and providing for a method of apportionment, special provisions for disposal of excess or unused funds and for fiscal years beginning July 1, 1962, July 1, 1963, July 1, 1964 and fixing the funds for American Samoa at $25,000 for each year for the five fiscal years beginning July 1, 1962.
 
 <b>1962</b>—Pub. L. 87–823 amended section generally, and, among other changes, substituted as factors for apportionment of funds among the States "(1) the participation rate for the State, and (2) the assistance need rate for the State" for "(1) the number of school children in the State and (2) the need for assistance in the State as indicated by the relation of the per capita income of the United States to the per capita income in the State"; inserted, in provision for determination of amount of apportionment in clause designated "second", "(exclusive of American Samoa for periods ending before July 1, 1967)"; inserted provisions for use of transitional formulas in apportionment of funds for fiscal years beginning in 1962, 1963, and 1964 and apportioning to American Samoa $25,000 annually for five fiscal years in period beginning July 1, 1962 and ending June 30, 1967; and struck out apportionment formula for Puerto Rico, Guam, American Samoa, and the Virgin Islands, which limited apportionments to 3 per centum of the total fund to be apportioned but required the apportionment to each to be not less than an amount which would result in an allotment per child of school age equal to that for the State with the lowest per capita income, definition of school (incorporated in section 1760(d)(7) of this title), provision for use of latest per capita income figures certified by the Department of Commerce (incorporated in section 1760(d)(6)(ii) of this title), and definition of school children which provided that the number of school children should be the number between ages of five and seventeen.
 
@@ -138,7 +138,7 @@ Pub. L. 97–35, title VIII, §820(a), Aug. 13, 1981, 95 Stat. 534, provided tha
 
 "(3) The amendments made by sections 807 \[amending section 1772 of this title\], 808 \[amending sections 1760 and 1784 of this title\], and 810(a)(2) \[amending section 1766 of this title\] shall take effect on the first day of the second month following the date of the enactment of this Act \[Aug. 13, 1981\].
 
-"(4) The amendments made by the following sections shall take effect October 1, 1981: sections 805 \[repealing sections 1754 and 1774 of this title\], 806 \[amending section 1788 of this title\], 809 \[amending section 1761 of this title\], 810(a)(1) \[amending section 1766 of this title\], 810(f) \[amending section 1766 of this title\], 810(g) \[amending section 1766 of this title\], 812 \[amending section 1759a of this title\], 814 \[amending section 1776 of this title\], 817 \[enacting section 1774 of this title and amending sections 1759, 1761, 1766, 1773, and 1788 of this title\], and 819 \[amending this section and sections 1755, 1757, 1759a, 1760, 1762a, 1763, 1766, 1773, 1776, and 1780 of this title\].
+"(4) The amendments made by the following sections shall take effect October 1, 1981: sections 805 \[repealing sections 1754 and 1774 of this title\], 806 \[amending section 1788 of this title\], 809 \[amending section 1761 of this title\], 810(a)(1) \[amending section 1766 of this title\], 810(f) \[amending section 1766 of this title\], 810(g) \[amending section 1766 of this title\], 812 \[amending section 1759a of this title\], 814 \[amending section 1776 of this title\], 817 \[enacting section 1774 of this title and amending sections 1759, 1761, 1766, 1773, and 1788 of this title\], and 819 \[amending this section and sections 1755,1757, 1759a, 1760, 1762a, 1763, 1766, 1773, 1776, and 1780 of this title\].
 
 "(5) The amendments made by section 813 \[amending sections 1759a, 1760, 1762a, and 1772 of this title\] shall take effect 90 days after the date of the enactment of this Act \[Aug. 13, 1981\].
 
@@ -170,11 +170,39 @@ Pub. L. 87–688, §3(b), Sept. 25, 1962, 76 Stat. 587, provided that: "The amen
 
 #### Effective Date of 1952 Amendment
 
-Act July 12, 1952, ch. 699, §1(d), 66 Stat. 591, provided that: "The amendments made by this Act \[amending this section and sections 1754 and 1760 of this title\]shall be effective only with respect to funds appropriated after the date on which this Act is enacted \[July 12, 1952\]."
+Act July 12, 1952, ch. 699, §1(d), 66 Stat. 591, provided that: "The amendments made by this Act \[amending this section and sections 1754 and 1760 of this title\] shall be effective only with respect to funds appropriated after the date on which this Act is enacted \[July 12, 1952\]."
 
 #### Promulgation of Regulations
 
 Pub. L. 97–35, title VIII, §820(c), Aug. 13, 1981, 95 Stat. 535, provided that: "Not later than 60 days after the date of the enactment of this Act \[Aug. 13, 1981\], the Secretary of Agriculture shall promulgate regulations to implement the amendments made by this title \[see Tables for classification\]."
+
+#### Support for Child Nutrition Programs; Temporary Reimbursements
+
+Pub. L. 117–158, §2(a), June 25, 2022, 136 Stat. 1309, provided that:
+
+&emsp;"(1)
+
+Temporary lunch reimbursement.—Each lunch served under the school lunch program authorized under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) shall receive additional reimbursement in the amount of 40 cents.
+
+&emsp;"(2)
+
+Temporary breakfast reimbursement.—Each breakfast served under the school breakfast program established by section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) shall receive additional reimbursement in the amount of 15 cents.
+
+&emsp;"(3)
+
+Limitation.—The additional reimbursement amounts authorized under this subsection shall only be available for the school year beginning July 2022.
+
+&emsp;"(4)
+
+Appropriations.—
+
+&emsp;&emsp;"(A)
+
+In general.—There is appropriated, out of any funds in the Treasury not otherwise appropriated, such sums as are necessary to carry out this subsection.
+
+&emsp;&emsp;"(B)
+
+Disbursement.—A State agency shall disburse funds made available under subparagraph (A) to school food authorities participating in the school meal programs described in paragraphs (1) and (2)."
 
 #### Reduction in General Reimbursement for Fiscal Year Ending September 30, 1981
 

@@ -1,7 +1,5 @@
 ### §2294. Application of State laws
 
-#### (a) In general
-
 Except where inconsistent with the provisions of this part and subject to such regulations as the Secretary may prescribe, the availability and disqualification provisions of the State law—
 
 &emsp;(1) under which an adversely affected worker is entitled to unemployment insurance (whether or not he has filed a claim for such insurance), or
@@ -10,19 +8,17 @@ Except where inconsistent with the provisions of this part and subject to such r
 
 > shall apply to any such worker who files a claim for trade readjustment allowances. The State law so determined with respect to a separation of a worker shall remain applicable, for purposes of the preceding sentence, with respect to such separation until such worker becomes entitled to unemployment insurance under another State law (whether or not he has filed a claim for such insurance).
 
-#### (b) Special rule on good cause for waiver of time limits or late filing of claims
-
-The Secretary shall establish procedures and criteria that allow for a waiver for good cause of the time limitations with respect to an application for a trade readjustment allowance or enrollment in training under this part.
-
 (Pub. L. 93–618, title II, §234, Jan. 3, 1975, 88 Stat. 2022; Pub. L. 111–5, div. B, title I, §1825, Feb. 17, 2009, 123 Stat. 378; Pub. L. 112–40, title II, §§201(b), (c), 212(b), Oct. 21, 2011, 125 Stat. 403, 404; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
-#### Reversion to Provisions in Effect on January 1, 2014
+#### Termination of Assistance
 
-<i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+<i>For termination of assistance under this part after June 30, 2022, see Termination Date note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Codification
+
+Section reflects the July 1, 2021, reversion to provisions in effect on Jan. 1, 2014. See Effective and Termination Dates of 2015 Revival note below.
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
@@ -36,7 +32,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 Subsec. (b). Pub. L. 112–40, §§212(b), 233, temporarily amended subsec. (b) generally. Prior to amendment, text read as follows: "Any law, regulation, policy, or practice of a cooperating State that allows for a waiver for good cause of any time limitation relating to the administration of the State unemployment insurance law shall, in the administration of the program under this part by the State, apply to any time limitation with respect to an application for a trade readjustment allowance or enrollment in training under this part." See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-<b>2009</b>—Pub. L. 111–5, §§1825, 1893, temporarily designated existing provisions as subsec. (a), insertedheading, and added subsec. (b). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Pub. L. 111–5, §§1825, 1893, temporarily designated existing provisions as subsec. (a), inserted heading, and added subsec. (b). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -60,5 +56,5 @@ Section 1893 of Pub. L. 111–5, formerly set out as a Termination Date of 2009 
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after June 30, 2022, except as otherwise provided, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Consultation on problems relating to employment
 
-The Secretary may consult with any persons, including representatives of labor, management, agriculture, and government, who can assist inaddressing the problems of area and regional unemployment or underemployment.
+The Secretary may consult with any persons, including representatives of labor, management, agriculture, and government, who can assist in addressing the problems of area and regional unemployment or underemployment.
 
 #### (b) Consultation on administration of chapter
 

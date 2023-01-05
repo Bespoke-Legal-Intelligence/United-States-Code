@@ -18,7 +18,7 @@ In subsec. (b), "chapter 31 of title 31" and "that chapter" substituted for "the
 
 #### Prior Provisions
 
-A prior section 1081, Pub. L. 89–329, title IV, §431, Nov. 8, 1965, 79 Stat. 1245; Pub. L. 90–460, §3(c), Aug. 3, 1968, 82 Stat. 638; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976,90 Stat. 2126; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to a student loan insurance fund, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1081, Pub. L. 89–329, title IV, §431, Nov. 8, 1965, 79 Stat. 1245; Pub. L. 90–460, §3(c), Aug. 3, 1968, 82 Stat. 638; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2126; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to a student loan insurance fund, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

@@ -68,7 +68,7 @@ The Secretary shall ensure that producers on a farm do not reconstitute the farm
 
 &emsp;&emsp;(B) each crop year thereafter until another election change is made under that paragraph.
 
-(Pub. L. 113–79, title I, §1115, Feb. 7, 2014, 128 Stat. 667; Pub. L. 115–123, div. F, §60101(a)(7), Feb. 9, 2018, 132 Stat. 309; Pub. L. 115–334, title I, §1105, Dec. 20, 2018, 132 Stat. 4503.)
+(Pub. L. 113–79, title I, §1115, Feb. 7, 2014, 128 Stat. 667; Pub. L. 115–123, div. F, §60101(a)(7),Feb. 9, 2018, 132 Stat. 309; Pub. L. 115–334, title I, §1105, Dec. 20, 2018, 132 Stat. 4503.)
 
 #### <b>Editorial Notes</b>
 

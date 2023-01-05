@@ -30,7 +30,7 @@ The Advisory Committee shall advise the President and the Initiative Office on m
 
 &emsp;(7) the balance of activities and funding across the Initiative;
 
-&emsp;(8) whether the strategic plan developed or updated by the Interagency Committee established under section 9413(d)(2) of this title is helping to maintain United States leadership in artificial intelligence;
+&emsp;(8) whether the strategic plan developed or updated by the Interagency Committee established under section 9413(d)(2) of this title ishelping to maintain United States leadership in artificial intelligence;
 
 &emsp;(9) the management, coordination, and activities of the Initiative;
 
@@ -70,7 +70,7 @@ Non-Federal members of the Advisory Committee, while attending meetings of the A
 
 #### (h) FACA exemption
 
-The Secretary of Commerce shall charter the Advisory Committee in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), except that the Advisory Committee shall be exempt from section 14 of such Act.
+The Secretary of Commerce shall charter the Advisory Committee in accordance with the Federal Advisory Committee Act (5 U.S.C. App.),<sup>1</sup> except that the Advisory Committee shall be exempt from section 14 of such Act.
 
 (Pub. L. 116–283, div. E, title LI, §5104, Jan. 1, 2021, 134 Stat. 4528.)
 
@@ -80,7 +80,7 @@ The Secretary of Commerce shall charter the Advisory Committee in accordance wit
 
 25 U.S.C. 5304, referred to in subsec. (d)(4), was so in the original, but probably should have been a reference to section 4 of the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, which is classified to section 5304 of Title 25, Indians.
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. Section 14 of the Act was repealed and restated as section 1013 of Title 5. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

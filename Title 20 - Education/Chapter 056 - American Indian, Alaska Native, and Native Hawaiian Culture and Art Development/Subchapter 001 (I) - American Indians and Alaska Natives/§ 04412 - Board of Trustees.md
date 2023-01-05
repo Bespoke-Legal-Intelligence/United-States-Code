@@ -36,7 +36,7 @@
 
 (1) Except as otherwise provided in this section, members shall be appointed for terms of office of 6 years.
 
-(2) The terms of office on the Board for the Members of the House of Representatives and of the Senate shall expire at the end of the congressional term of office during which such Member or Senator was appointed to the Board.
+(2) The terms of office on the Board for the Members of the House of Representatives and ofthe Senate shall expire at the end of the congressional term of office during which such Member or Senator was appointed to the Board.
 
 (3) Of the members of the Board first appointed under subsection (a)(1)(A)—
 
@@ -108,7 +108,7 @@ Review by Secretary of the Interior.—For so long as any employee of the Instit
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
+Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made onand after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date of 1992 Amendment
 

@@ -78,7 +78,7 @@ There are authorized to be appropriated to carry out—
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsec. (a)(7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (a)(7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Social Security Act, referred to in subsec. (a)(17), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -86,7 +86,7 @@ The Social Security Act, referred to in subsec. (a)(17), is act Aug. 14, 1935, c
 
 A prior section 3032, Pub. L. 89–73, title IV, §412, as added Pub. L. 97–115, §11(a), Dec. 29, 1981, 95 Stat. 1601; amended Pub. L. 98–459, title IV, §404, Oct. 9, 1984, 98 Stat. 1782; Pub. L. 100–175, title I, §§105(e)(2), 134(c)(4), 146(c), 156(b), Nov. 29, 1987, 101 Stat. 930, 941, 950, 954; Pub. L. 102–375, title I, §102(b)(10)(I), title IV, §405, title IX, §904(a)(17), Sept. 30, 1992, 106 Stat. 1202, 1245, 1308; Pub. L. 103–171, §3(a)(13), Dec. 2, 1993, 107 Stat. 1990, related to establishment and support of multidisciplinary centers of gerontology and gerontology centers of special emphasis, prior to the general amendment of this subchapter by Pub. L. 106–501.
 
-Another prior section 3032, Pub. L. 89–73, title IV, §402, as added Pub. L. 93–29, title IV, §401, May 3, 1973,87 Stat. 45; amended Pub. L. 95–478, title I, §104(a)(2), Oct. 18, 1978, 92 Stat. 1537, related to appraisal and assessment of personnel needs of field of aging, prior to the general amendment of this subchapter by Pub. L. 97–115.
+Another prior section 3032, Pub. L. 89–73, title IV, §402, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 45; amended Pub. L. 95–478, title I, §104(a)(2), Oct. 18, 1978, 92 Stat. 1537, related to appraisal and assessment of personnel needs of field of aging, prior to the general amendment of this subchapter by Pub. L. 97–115.
 
 Another prior section 3032, Pub. L. 89–73, title IV, §402, July 14, 1965, 79 Stat. 224, related to payments of grants, providing in: subsec. (a) for contribution by recipients; subsec. (b) adjustments, advances or reimbursement, installments and conditions; and subsec. (c) consultation of Secretary with State agency prior to making grants or contracts, prior to repeal by Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 45.
 
@@ -122,5 +122,5 @@ Subsec. (b). Pub. L. 114–144, §5(a)(2), substituted "carry out—" for "carry
 
 <b>2006</b>—Subsec. (a)(9) to (13). Pub. L. 109–365, §402(1), added pars. (9) to (12) and redesignated former par. (9) as (13).
 
-Subsec. (b). Pub. L. 109–365, §402(2), substituted "years 2007, 2008, 2009, 2010, and 2011" for "year 2001, and such sums as may be necessary for subsequent fiscal years".
+Subsec. (b). Pub. L. 109–365, §402(2), substituted "years 2007, 2008, 2009, 2010, and 2011" for "year 2001, andsuch sums as may be necessary for subsequent fiscal years".
 

@@ -14,7 +14,7 @@ The Secretary is authorized to enter into agreements with the State agency for t
 
 #### (d) Cross reference
 
-For provisions relating to the authority of certain Indian tribes, tribal organizations, and Alaska Native health organizations to elect to directly bill for, and receive payment for, health care services provided by a hospital or clinic of such tribes or organizations and for which payment may be made under this subchapter, see section 1645 of title 25.<sup>1</sup>
+For provisions relating to the authority of certain Indian tribes, tribal organizations, andAlaska Native health organizations to elect to directly bill for, and receive payment for, health care services provided by a hospital or clinic of such tribes or organizations and for which payment may be made under this subchapter, see section 1645 of title 25.<sup>1</sup>
 
 (Aug. 14, 1935, ch. 531, title XIX, §1911, as added Pub. L. 94–437, title IV, §402(a), Sept. 30, 1976, 90 Stat. 1409; amended Pub. L. 100–203, title IV, §§4118(f)(1), 4211(h)(8), Dec. 22, 1987, 101 Stat. 1330–155, 1330–206; Pub. L. 100–360, title IV, §411(k)(10)(E), July 1, 1988, 102 Stat. 796; Pub. L. 106–417, §3(b)(2), Nov. 1, 2000, 114 Stat. 1815.)
 
@@ -50,7 +50,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 Pub. L. 100–203, title IV, §4118(f)(2), Dec. 22, 1987, 101 Stat. 1330–156, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to health care services performed on or after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
-Amendment by section 4211(h)(8) of Pub. L. 100–203 applicable to nursing facility services furnished on orafter Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by section 4211(h)(8) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
 #### Agreements To Reimburse State Agency for Health Care and Services Provided by Agency to Indians
 

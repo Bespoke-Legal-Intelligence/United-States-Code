@@ -46,7 +46,57 @@
 
 (2) A bond issued under this subsection is deemed to be a series E bond issued under this section, except that the bond shall bear an issue date of the first day of the first month beginning after the close of the taxable year for which the bond is issued. The Secretary also may provide that a bond issued to joint payees may be redeemed by either payee alone.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 940; Pub. L. 97–452, §1(6), (7), Jan. 12, 1983, 96 Stat. 2467, 2468; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–465, title VII, §745(a), Dec. 8, 1994, 108 Stat. 5011.)
+(f)(1)(A) The Secretary shall provide each State, in digital or other electronic form, with information describing any applicable savings bond which has an applicable address that is within such State, including—
+
+&emsp;(i) the name and applicable address of the registered owner; and
+
+&emsp;(ii) the name and applicable address of any registered co-owner or beneficiary.
+
+(B) The information provided under subparagraph (A) may include the serial number of any applicable savings bond.
+
+(C)(i) For purposes of this paragraph, the term "applicable address" means, with respect to any applicable savings bond—
+
+&emsp;(I) the registered address for the registered owner, co-owner, or beneficiary (as applicable) of such bond; or
+
+&emsp;(II) if such information is available to the Secretary, the last known address for the registered owner, co-owner, or beneficiary (as applicable) of such bond.
+
+(ii) For purposes of clause (i), if the information described in subclause (II) of clause (i) with respect to any individual is available to the Secretary, subclause (I) of such clause shall not apply.
+
+(2)(A) Not later than 12 months after the date of enactment of this subsection, the Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this subsection, including rules to—
+
+&emsp;(i) protect the privacy of the owners of applicable savings bonds;
+
+&emsp;(ii) prevent fraud; and
+
+&emsp;(iii) ensure that any information provided to a State under this subsection shall be used solely to carry out the purposes of this subsection.
+
+(B) Except as deemed necessary to protect privacy or prevent fraud or misuse of savings bond information, any regulations or guidance prescribed by the Secretary pursuant to subparagraph (A) shall not have the effect of prohibiting, restricting, or otherwise preventing a State from obtaining all information described in paragraph (1)(A).
+
+(3) Not later than 12 months after the date of enactment of this subsection, and annually thereafter for each year during the 5-year period beginning after the date of enactment of this subsection, the Secretary shall submit to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Ways and Means of the House of Representatives, and the Committee on Finance of the Senate a report assessing all efforts to satisfy the requirement under paragraph (1)(A).
+
+(4) Any State that receives information described in paragraph (1)(A) with respect to an applicable savings bond may use such information to locate the owner of such bond pursuant to the same standards and requirements as are applicable under—
+
+&emsp;(A) the abandoned property rules and regulations of such State; and
+
+&emsp;(B) any regulations or guidance promulgated under this subsection.
+
+(5) For purposes of this subsection, the Secretary may disclose to the public any information with respect to any applicable savings bond which a State may disclose to the public pursuant to paragraph (4).
+
+(6) For purposes of this subsection, the term "applicable savings bond" means a savings bond which—
+
+&emsp;(A) is more than 3 years past its date of final maturity;
+
+&emsp;(B)(i) is in paper form; or
+
+&emsp;(ii) is in paperless or electronic form and for which—
+
+&emsp;&emsp;(I) there is no designated bank account or routing information; or
+
+&emsp;&emsp;(II) the designated bank account or routing information is incorrect; and
+
+&emsp;(C) has not been redeemed.
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 940; Pub. L. 97–452, §1(6), (7), Jan. 12, 1983, 96 Stat. 2467, 2468; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–465, title VII, §745(a), Dec. 8, 1994, 108 Stat. 5011; Pub. L. 117–328, div. T, title I, §122(a), Dec. 29, 2022, 136 Stat. 5311.)
 
 Historical and Revision Notes<br>1982
 
@@ -100,7 +150,7 @@ In subsection (b)(3), the words "at their option" and "upon them" are omitted as
 
 In subsection (c), before clause (1), the words "subject to the limitation imposed by section 757b of this title" are omitted as surplus. The words "issued under this section" are added for clarity. In clause (3), the words "terms and" are omitted as surplus. The words "consistent with subsections (b) to (d) of this section" are omitted as unnecessary because of the restatement. In clause (4), the words "before maturity" are omitted as surplus. In clause (6), the words "a way to evidence payments for" are substituted for "issue, or cause to be issued, stamps, or may provide any other means to evidence payments for" because they are inclusive. The text of 31:757c(c)(last sentence) is omitted because section 5 of the Public Debt Act of 1942 (ch. 205, 56 Stat. 189), ended the authority of the Postmaster General to issue stamps. In clause (7), the word "maximum" is added for clarity. The words "at any one time" are omitted as surplus.
 
-In subsection (d), before clause (1), the words "under such regulations as he may prescribe", "or permit", and "commercial banks, trust companies, savings banks, savings and loan associations, building and loan associations (including cooperative banks), credit unions, cash depositories, industrial banks, and similar" are omitted as surplus. In clause (1), the words "Commonwealth of the Philippine Islands" in section 22(h) of the Second Liberty Bond Act (ch. 56, 40 Stat. 288) are omitted because of Proclamation No. 2695 (July 24, 1946, 60 Stat. 1352) proclaiming the independence of the Philippines. In clause (3), the words "department or equivalent" are omitted as surplus. In clause (5), the word "duly" is omitted as surplus.
+In subsection (d), before clause (1), the words "under such regulations as he may prescribe", "or permit", and "commercial banks, trust companies, savings banks, savings and loan associations, building and loan associations (including cooperative banks), creditunions, cash depositories, industrial banks, and similar" are omitted as surplus. In clause (1), the words "Commonwealth of the Philippine Islands" in section 22(h) of the Second Liberty Bond Act (ch. 56, 40 Stat. 288) are omitted because of Proclamation No. 2695 (July 24, 1946, 60 Stat. 1352) proclaiming the independence of the Philippines. In clause (3), the words "department or equivalent" are omitted as surplus. In clause (5), the word "duly" is omitted as surplus.
 
 In subsection (e)(1), the words "by regulations" are omitted as unnecessary. The words "a way" are added, and the words "However, a check may become a bond" are substituted for "This subsection shall apply", for clarity.
 
@@ -140,7 +190,13 @@ In subsection (b)(1), before clause (A), the words "and except as provided in pa
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The date of enactment of this subsection, referred to in subsec. (f)(2)(A), (3), is the date of enactment of Pub. L. 117–328, which was approved Dec. 29, 2022.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–328 added subsec. (f).
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–465 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
@@ -154,7 +210,7 @@ In subsection (b)(1), before clause (A), the words "and except as provided in pa
 
 "(3) With the approval of the President, the Secretary may prescribe regulations providing that—
 
-&emsp;"(A) owners of series E and H savings bonds may keep the bonds after maturity or after a period beyond maturity during which the bonds have earnedinterest and continue to earn interest at rates consistent with paragraph (1) of this subsection; and
+&emsp;"(A) owners of series E and H savings bonds may keep the bonds after maturity or after a period beyond maturity during which the bonds have earned interest and continue to earn interest at rates consistent with paragraph (1) of this subsection; and
 
 &emsp;"(B) series E and H savings bonds earning a different rate of interest before the regulations are prescribed shall earn a rate of interest consistent with paragraph (1)."
 
@@ -165,6 +221,10 @@ In subsection (b)(1), before clause (A), the words "and except as provided in pa
 Subsec. (c)(5). Pub. L. 97–452, §1(7), struck out "(expressed in terms of the maturity value)" after "denominations".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. T, title I, §122(b), Dec. 29, 2022, 136 Stat. 5313, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 29, 2022\]."
 
 #### Effective Date of 1994 Amendment
 

@@ -18,7 +18,7 @@
 
 &emsp;(B) assess program evaluations prepared by and for an agency.
 
-(2) On request of a member of Congress, the Comptroller General shall give the member a copy of the material the Comptroller General compiles in carrying out this subsection that has been released by the committee for which the material was compiled.
+(2) On request of a member of Congress, the Comptroller General shall give the member a copy of the material the Comptroller Generalcompiles in carrying out this subsection that has been released by the committee for which the material was compiled.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 893.)
 

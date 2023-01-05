@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) positions which are specifically excepted from the competitive service by or under statute;
 
-&emsp;&emsp;(B) positions to which appointments are made by nomination for confirmation by theSenate, unless the Senate otherwise directs; and
+&emsp;&emsp;(B) positions to which appointments are made by nomination for confirmation by the Senate, unless the Senate otherwise directs; and
 
 &emsp;&emsp;(C) positions in the Senior Executive Service;
 

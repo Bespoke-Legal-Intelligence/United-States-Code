@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To be eligible for review under subsection (b) and section 360fff–3 of this title, a request shall be for a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients, for use under specified conditions, to be prescribed, recommended, or suggested in the labeling thereof, that—
+&emsp;&emsp;To be eligible for review under subsection (b) and section 360fff–3 of this title, a requestshall be for a nonprescription sunscreen active ingredient or combination of nonprescription sunscreen active ingredients, for use under specified conditions, to be prescribed, recommended, or suggested in the labeling thereof, that—
 
 &emsp;&emsp;&emsp;(i) is not included in part 352 of title 21, Code of Federal Regulations (or any successor regulations) concerning nonprescription sunscreen; and
 

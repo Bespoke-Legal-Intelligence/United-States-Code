@@ -10,7 +10,7 @@ Notwithstanding the provisions of section 358(a)2 <sup>1</sup> of this title, t
 
 Section 358(a) of this title, referred to in text, was amended generally by Pub. L. 100–647, title VII, §7102(a), Nov. 10, 1988, 102 Stat. 3759, and, as so amended, does not contain a cl. "2".
 
-The Railroad Unemployment Insurance Act, referred to in text, is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.
+The Railroad Unemployment Insurance Act, referred to in text, is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§351 et seq.) of this title. For complete classification of this Act to the Code, see section 367 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -34,7 +34,7 @@
 
 #### (ii) Proportional share
 
-&emsp;&emsp;&emsp;The proportional share of funds shall be determined based on the total amount of funds received by the local educational agency under this part prior to any allowable expenditures or transfers by the local educational agency.
+&emsp;&emsp;&emsp;The proportional share of funds shall be determined based on the total amount offunds received by the local educational agency under this part prior to any allowable expenditures or transfers by the local educational agency.
 
 #### (B) Obligation of funds
 
@@ -100,7 +100,7 @@
 
 #### (5) Documentation
 
-&emsp;Each local educational agency shall maintain in the agency's records and provide to the State educational agency involved a written affirmation signed by officials of each participating private school that the meaningful consultation required by this section has occurred. The written affirmation shall provide the option for private school officials to indicate such officials' belief that timely and meaningful consultation has not occurred or that the program design is not equitable with respect to eligible private school children. If such officials do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation that such consultation has, or attempts at such consultation have, taken place to the State educational agency.
+&emsp;Each local educational agency shall maintain in the agency's records and provide to theState educational agency involved a written affirmation signed by officials of each participating private school that the meaningful consultation required by this section has occurred. The written affirmation shall provide the option for private school officials to indicate such officials' belief that timely and meaningful consultation has not occurred or that the program design is not equitable with respect to eligible private school children. If such officials do not provide such affirmation within a reasonable period of time, the local educational agency shall forward the documentation that such consultation has, or attempts at such consultation have, taken place to the State educational agency.
 
 #### (6) Compliance
 
@@ -156,7 +156,7 @@
 
 #### (B) Requirement
 
-&emsp;&emsp;In the provision of such services, such employee, individual, association, agency, ororganization shall be independent of such private school and of any religious organization, and such employment or contract shall be under the control and supervision of such public agency.
+&emsp;&emsp;In the provision of such services, such employee, individual, association, agency, or organization shall be independent of such private school and of any religious organization, and such employment or contract shall be under the control and supervision of such public agency.
 
 #### (e) Standards for a bypass
 
@@ -174,7 +174,7 @@ If a local educational agency is prohibited by law from providing for the partic
 
 #### Prior Provisions
 
-A prior section 6320, Pub. L. 89–10, title I, §1119, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3555, related to professional development, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6320, Pub. L. 89–10, title I, §1119, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3555, related to professional development, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1117 of Pub. L. 89–10 was classified to section 6317 of this title, prior to repeal by Pub. L. 114–95.
 

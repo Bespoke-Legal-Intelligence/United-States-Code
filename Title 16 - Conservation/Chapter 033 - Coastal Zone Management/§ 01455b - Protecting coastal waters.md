@@ -24,7 +24,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (2) Identifying critical coastal areas
 
-&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures in addition to those provided for in subsection (g).
+&emsp;The identification of, and a continuing process for identifying, critical coastal areas adjacent to coastal waters referred to in paragraph (1)(A) and (B), within which any new land uses or substantial expansion of existing land uses shall be subject to management measures inaddition to those provided for in subsection (g).
 
 #### (3) Management measures
 
@@ -40,7 +40,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (6) Administrative coordination
 
-&emsp;The establishment of mechanisms to improve coordination among State agencies andbetween State and local officials responsible for land use programs and permitting, water quality permitting and enforcement, habitat protection, and public health and safety, through the use of joint project review, memoranda of agreement, or other mechanisms.
+&emsp;The establishment of mechanisms to improve coordination among State agencies and between State and local officials responsible for land use programs and permitting, water quality permitting and enforcement, habitat protection, and public health and safety, through the use of joint project review, memoranda of agreement, or other mechanisms.
 
 #### (7) State coastal zone boundary modification
 
@@ -118,7 +118,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (1) In general
 
-&emsp;Upon request of a State having a program approved under section 306 of the Coastal ZoneManagement Act of 1972 \[16 U.S.C. 1455\], the Secretary, in consultation with the Administrator, may provide grants to the State for use for developing a State program under this section.
+&emsp;Upon request of a State having a program approved under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], the Secretary, in consultation with the Administrator, may provide grants to the State for use for developing a State program under this section.
 
 #### (2) Amount
 
@@ -178,7 +178,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (2) Secretary
 
-&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
+&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972,as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
 
 &emsp;(B) There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) not more than—
 
@@ -212,7 +212,7 @@ In this section—
 
 #### References in Text
 
-The Coastal Zone Management Act of 1972, referred to in subsecs. (a)(2) and (i)(3), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to this chapter (§1451 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsecs. (a)(2) and (i)(3), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to this chapter (§1451 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1451 of this title and Tables.
 
 This Act, referred to in subsecs. (a)(2) and (c)(2)(B), is Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388, known as the Omnibus Budget Reconciliation Act of 1990. For complete classification of this Act to the Code, see Tables.
 

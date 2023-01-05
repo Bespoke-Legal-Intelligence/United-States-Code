@@ -34,7 +34,7 @@ The Director shall make grants under subsection (a) to support one or more of th
 
 &emsp;(7) Programs that provide before-school and after-school activities, serving children in low-income communities, that may engage participants in mentoring relationships, tutoring, life skills, and study skills programs, service-learning, physical, nutrition, and health education programs, and other activities addressing the needs of the children in the communities, including children of working parents.
 
-&emsp;(8) Programs that serve children who are enrolled in child care programs, giving priority to such programs that serve children with special needs.
+&emsp;(8) Programs that serve children who are enrolled in child care programs, giving priorityto such programs that serve children with special needs.
 
 &emsp;(9) Programs that provide care to developmentally disabled adults who reside at home and in community-based settings, including programs that, when appropriate, involve older developmentally disabled individuals as volunteers under this subchapter.
 
@@ -100,7 +100,7 @@ Subsec. (b)(6) to (9). Pub. L. 111–13, §2146(d)(2)(D)–(F), added pars. (6) 
 
 "(8) Programs that work with boarder babies."
 
-Subsec. (b)(10). Pub. L. 111–13, §2146(d)(2)(F), (G), redesignated par. (11) as (10) and substituted "students" for "educationally disadvantaged children" and "the academic achievement of such students" for "the basic skills of such children". Former par. (10) redesignated (9).
+Subsec. (b)(10). Pub. L. 111–13, §2146(d)(2)(F), (G), redesignated par. (11) as (10) and substituted "students"for "educationally disadvantaged children" and "the academic achievement of such students" for "the basic skills of such children". Former par. (10) redesignated (9).
 
 Subsec. (b)(11). Pub. L. 111–13, §2146(d)(2)(H), added par. (11) and struck out former par. (11), which read as follows: "Programs that address environmental needs."
 

@@ -19,3 +19,4 @@ Part B provides authority and responsibility for the inspection and regulation o
 - [Chapter 043 - Recreational Vessels](Chapter%20043%20-%20Recreational%20Vessels/README.md)
 - [Chapter 045 - Uninspected Commercial Fishing Industry Vessels](Chapter%20045%20-%20Uninspected%20Commercial%20Fishing%20Industry%20Vessels/README.md)
 - [Chapter 047 - Abandonment of Barges](Chapter%20047%20-%20Abandonment%20of%20Barges/README.md)
+- [Chapter 049 - Oceangoing Non-Passenger Commercial Vessels](Chapter%20049%20-%20Oceangoing%20Non-Passenger%20Commercial%20Vessels/README.md)

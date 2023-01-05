@@ -1,6 +1,6 @@
 ### §767. Commodity broker liquidation and forward contract merchants, commodity brokers, stockbrokers, financial institutions, financial participants, securities clearing agencies, swap participants, repo participants, and master netting agreement participants
 
-Notwithstanding any other provision of this title, the exercise of rights by a forward contract merchant, commodity broker, stockbroker, financial institution, financial participant, securities clearing agency, swap participant, repo participant, or master netting agreement participant under this title shall not affect the priority of any unsecured claim it may have after the exercise of such rights.
+Notwithstanding any other provision of this title, the exercise of rights by a forward contract merchant, commodity broker, stockbroker, financial institution, financial participant, securities clearing agency, swap participant, repo participant, or master netting agreement participant under this title shall not affectthe priority of any unsecured claim it may have after the exercise of such rights.
 
 (Added Pub. L. 109–8, title IX, §907(l), Apr. 20, 2005, 119 Stat. 181.)
 

@@ -132,7 +132,7 @@ Historical and Revision Notes
 
 <i>Section of title 5</i>
 
-<i>Source (U.S.Code)</i>
+<i>Source (U.S. Code)</i>
 
 <i>Source (Statutes at Large)</i>
 

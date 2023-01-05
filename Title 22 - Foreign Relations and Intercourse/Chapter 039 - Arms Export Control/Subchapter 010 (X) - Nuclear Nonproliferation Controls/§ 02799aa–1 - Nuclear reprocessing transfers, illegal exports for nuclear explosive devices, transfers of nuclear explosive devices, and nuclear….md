@@ -46,7 +46,7 @@
 
 &emsp;(C) The United States Government shall terminate all foreign military financing for that country under this chapter.
 
-&emsp;(D) The United States Government shall deny to that country any credit, credit guarantees, or other financial assistance by any department, agency, or instrumentality of the United States Government, except that the sanction of this subparagraph shall not apply—
+&emsp;(D) The United States Government shall deny to that country any credit, credit guarantees, or other financial assistance by any department, agency, or instrumentality of theUnited States Government, except that the sanction of this subparagraph shall not apply—
 
 &emsp;&emsp;(i) to any transaction subject to the reporting requirements of title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\] (relating to congressional oversight of intelligence activities),
 
@@ -94,7 +94,7 @@ As used in this section, the term "non-nuclear-weapon state" means any country w
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (b)(2)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§2346 et seq.) and VI (§2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (b)(2)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§2346 et seq.) and VI (§2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in subsecs. (a)(1) and (b)(2)(B)(i), (C), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -190,7 +190,7 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 &emsp;"(2) the Committees on Appropriations, Armed Services, and Foreign Affairs of the House of Representatives."
 
-\[Amendment of section 1405 of Pub. L. 110–252, set out above, by section 7034(i) of div. J of Pub. L. 113–235,which directed that subsec. (c) of section 1405 be repealed, was not executed to reflect the probable intent of Congress and the prior amendment by section 801 of Pub. L. 113–188, which struck out subsec. (c) and redesignated subsec. (d) as (c).\]
+\[Amendment of section 1405 of Pub. L. 110–252, set out above, by section 7034(i) of div. J of Pub. L. 113–235, which directed that subsec. (c) of section 1405 be repealed, was not executed to reflect the probable intent of Congress and the prior amendment by section 801 of Pub. L. 113–188, which struck out subsec. (c) and redesignated subsec. (d) as (c).\]
 
 #### Exemption for Rhinoceros, Tiger, Asian Elephant, and Great Ape Conservation Programs
 

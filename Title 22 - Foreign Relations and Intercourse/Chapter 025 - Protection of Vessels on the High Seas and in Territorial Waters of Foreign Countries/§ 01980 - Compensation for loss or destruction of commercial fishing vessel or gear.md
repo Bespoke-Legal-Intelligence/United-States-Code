@@ -94,7 +94,7 @@ In addition to any fee imposed under section 204(b)(10) of the Magnuson-Stevens 
 
 Any person who willfully makes any false or misleading statement or representation for the purpose of obtaining compensation under this section is guilty of a criminal offense and, upon conviction thereof, shall be punished by a fine of not more than $25,000, or by imprisonment for not more than one year, or both.
 
-(Aug. 27, 1954, ch. 1018, §10, as added Pub. L. 95–194, §2, Nov. 18, 1977, 91 Stat. 1413; amendedPub. L. 95–376, §3(a), Sept. 18, 1978, 92 Stat. 715; Pub. L. 96–289, §4(b), June 28, 1980, 94 Stat. 606; Pub. L. 96–561, title II, §§238(b), 241, Dec. 22, 1980, 94 Stat. 3300, 3301; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Aug. 27, 1954, ch. 1018, §10, as added Pub. L. 95–194, §2, Nov. 18, 1977, 91 Stat. 1413; amended Pub. L. 95–376, §3(a), Sept. 18, 1978, 92 Stat. 715; Pub. L. 96–289, §4(b), June 28, 1980, 94 Stat. 606; Pub. L. 96–561, title II, §§238(b), 241, Dec. 22, 1980, 94 Stat. 3300, 3301; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
 #### <b>Editorial Notes</b>
 
@@ -102,7 +102,7 @@ Any person who willfully makes any false or misleading statement or representati
 
 Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802), referred to in subsec. (a)(1), contained a prior par. (8) defining "fishery conservation zone" which was repealed and a new par. defining "exclusive economic zone" was added by Pub. L. 99–659, title I, §101(a), Nov. 14, 1986, 100 Stat. 3706.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 #### Codification
 

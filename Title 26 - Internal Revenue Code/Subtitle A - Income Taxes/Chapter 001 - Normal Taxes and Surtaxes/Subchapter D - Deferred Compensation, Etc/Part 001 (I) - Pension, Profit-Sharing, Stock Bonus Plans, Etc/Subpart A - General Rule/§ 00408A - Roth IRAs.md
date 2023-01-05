@@ -18,7 +18,7 @@ For purposes of this title, the term "Roth IRA" means an individual retirement p
 
 &emsp;The aggregate amount of contributions for any taxable year to all Roth IRAs maintained for the benefit of an individual shall not exceed the excess (if any) of—
 
-&emsp;&emsp;(A) the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (d)(1) <sup>1</sup> or (g) of such section), over
+&emsp;&emsp;(A) the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (g) of such section), over
 
 &emsp;&emsp;(B) the aggregate amount of contributions for such taxable year to all other individual retirement plans (other than Roth IRAs) maintained for the benefit of the individual.
 
@@ -114,7 +114,7 @@ For purposes of this title—
 
 #### (B) Distributions within nonexclusion period
 
-&emsp;&emsp;A payment or distribution from a Roth IRA shall not be treated as a qualified distribution under subparagraph (A) if such payment or distribution is made within the 5-taxable year period beginning with the first taxable year for which the individual made a contribution to a Roth IRA (or such individual's spouse made a contribution to a Roth IRA) established for such individual.
+&emsp;&emsp;A payment or distribution from a Roth IRA shall not be treated as a qualified distribution under subparagraph (A) if such payment or distribution is made within the 5-taxable year period beginning with the first taxable year for which the individual made a contribution to a Roth IRA (or such individual's spouse, or employer in the case of a simple retirement account (as defined in section 408(p)) or simplified employee pension (as defined in section 408(k)), made a contribution to a Roth IRA) established for such individual.
 
 #### (C) Distributions of excess contributions and earnings
 
@@ -158,7 +158,7 @@ For purposes of this title—
 
 #### (II) Limitation on aggregate amount included
 
-&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceed the aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 2-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
+&emsp;&emsp;&emsp;&emsp;The amount required to be included in gross income for any taxable year under subparagraph (A)(iii) shall not exceedthe aggregate amount required to be included in gross income under subparagraph (A)(iii) for all taxable years in the 2-year period (without regard to subclause (I)) reduced by amounts included for all preceding taxable years.
 
 #### (ii) Death of distributee
 
@@ -270,27 +270,81 @@ For purposes of this section—
 
 &emsp;&emsp;For purposes of applying section 72 in the case of a distribution which is not a qualified distribution, the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract.
 
-#### (f) Individual retirement plan
+#### (3) Simple retirement accounts
 
-For purposes of this section—
+&emsp;In the case of any payment or distribution out of a simple retirement account (as defined in section 408(p)) with respect to which an election has been made under section 408(p)(12) and to which 72(t)(6) applies, the term "qualified rollover contribution" shall not include any payment or distribution paid into an account other than another simple retirement account (as so defined).
 
-&emsp;(1) a simplified employee pension or a simple retirement account may not be designated as a Roth IRA; and
-
-&emsp;(2) contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).
-
-(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165; Pub. L. 115–141, div. U, title IV, §401(a)(77), (78), Mar. 23, 2018, 132 Stat. 1187; Pub. L. 116–94, div. O, title I, §107(c), Dec. 20, 2019, 133 Stat. 3149.)
+(Added Pub. L. 105–34, title III, §302(a), Aug. 5, 1997, 111 Stat. 825; amended Pub. L. 105–206, title VI, §6005(b)(1)–(7), (9), title VII, §7004(a), July 22, 1998, 112 Stat. 796–800, 833; Pub. L. 105–277, div. J, title IV, §4002(j), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title VI, §617(e)(1), June 7, 2001, 115 Stat. 106; Pub. L. 109–222, title V, §512(a), (b), May 17, 2006, 120 Stat. 365; Pub. L. 109–280, title VIII, §§824(a), (b), 833(c), Aug. 17, 2006, 120 Stat. 998, 1004; Pub. L. 110–245, title I, §109(a), (b), June 17, 2008, 122 Stat. 1631, 1632; Pub. L. 110–458, title I, §108(d), (h), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 115–97, title I, §§11002(d)(1)(W), 13611(a), Dec. 22, 2017, 131 Stat. 2060, 2165; Pub. L. 115–141, div. U, title IV, §401(a)(77), (78), Mar. 23, 2018, 132 Stat. 1187; Pub. L. 116–94, div. O, title I, §107(c), Dec. 20, 2019, 133 Stat. 3149; Pub. L. 117–328, div. T, title I, §126(b), title IV, §401(b)(5), title VI, §601(a), (c)(2), (d), Dec. 29, 2022, 136 Stat. 5316, 5388, 5390.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.</i>
 
+#### Amendment of Section
+
+<i>Pub. L. 117–328, div. T, title I, §126(b), (d), Dec. 29, 2022, 136 Stat. 5316, 5317, provided that, applicable with respect to distributions after Dec. 31, 2023, this section is amended as follows:</i>
+
+<i>(1) in subsection (c)—</i>
+
+<i>(A) in paragraph (3), by adding at the end the following new subparagraph:</i>
+
+#### <i>"(E) Special rule for certain transfers from qualified tuition programs</i>
+
+&emsp;&emsp;<i>"The amount determined under subparagraph (A) shall be increased by the lesser of—</i>
+
+&emsp;&emsp;&emsp;<i>"(i) the amount of contributions described in section 529(c)(3)(E) for the taxable year, or</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) the amount of the reduction determined under such subparagraph (determined without regard to this subparagraph)."; and</i>
+
+<i>(B) in paragraph (5)(B)—</i>
+
+<i>(i) by striking "A qualified rollover contribution" and inserting the following:</i>
+
+#### <i>"(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>"A qualified rollover contribution"; and</i>
+
+<i>(ii) by adding at the end the following:</i>
+
+#### <i>"(ii) Exception for rollovers from qualified tuition programs</i>
+
+&emsp;&emsp;&emsp;<i>"Clause (i) shall not apply to any qualified rollover contribution described in subsection (e)(1)(C)."; and</i>
+
+<i>(2) in subsection (e)(1)—</i>
+
+<i>(A) by striking the period at the end of subparagraph (B) and inserting ", and";</i>
+
+<i>(B) by inserting after subparagraph (B) the following new subparagraph:</i>
+
+&emsp;&emsp;<i>"(C) from a qualified tuition program to the extent provided in section 529(c)(3)(E)."; and</i>
+
+<i>(C) by adding at the end the following new sentence: "The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earnings and contributions of a Roth IRA from which a qualified rollover contribution is made under subparagraph (A)."</i>
+
+<i>See 2022 Amendment notes below.</i>
+
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Subsection (d)(1) of such section, referred to in subsec. (c)(2)(A), means section 219(d)(1) of this title, which was repealed by Pub. L. 116–94, div. O, title I, §107(a), Dec. 20, 2019, 133 Stat. 3148.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(2)(A). Pub. L. 117–328, §401(b)(5), struck out "(d)(1) or" before "(g) of such section".
+
+Subsec. (c)(3)(E). Pub. L. 117–328, §126(b)(2)(B), added subpar. (E).
+
+Subsec. (c)(5)(B). Pub. L. 117–328, §126(b)(2)(A), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (d)(2)(B). Pub. L. 117–328, §601(d), inserted ", or employer in the case of a simple retirement account (as defined in section 408(p)) or simplified employee pension (as defined in section 408(k))," after "individual's spouse".
+
+Subsec. (e)(1). Pub. L. 117–328, §126(b)(1)(C), inserted at end of concluding provisions "The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earnings and contributions of a Roth IRA from which a qualified rollover contribution is made under subparagraph (A)."
+
+Subsec. (e)(1)(C). Pub. L. 117–328, §126(b)(1)(A), (B), added subpar. (C).
+
+Subsec. (e)(3). Pub. L. 117–328, §601(c)(2), added par. (3).
+
+Subsec. (f). Pub. L. 117–328, §601(a), struck out subsec. (f). Text read as follows: "For purposes of this section—
+
+&emsp;"(1) a simplified employee pension or a simple retirement account may not be designated as a Roth IRA; and
+
+&emsp;"(2) contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B)."
 
 <b>2019</b>—Subsec. (c)(4) to (7). Pub. L. 116–94 redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: "Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70½."
 
@@ -372,7 +426,7 @@ Subsec. (d)(3). Pub. L. 109–280, §824(b)(2)(E), substituted "an eligible reti
 
 Subsec. (d)(3)(A). Pub. L. 109–280, §824(b)(2)(A), substituted "sections 402(c), 403(b)(8), 408(d)(3), and 457(e)(16)" for "section 408(d)(3)" in introductory provisions.
 
-Subsec. (d)(3)(A)(iii). Pub. L. 109–222, §512(b)(1), amended cl. (iii) generally. Prior to amendment, cl.\(iii) read as follows: "unless the taxpayer elects not to have this clause apply for any taxable year, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year."
+Subsec. (d)(3)(A)(iii). Pub. L. 109–222, §512(b)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "unless the taxpayer elects not to have this clause apply for any taxable year, any amount required to be included in gross income for such taxable year by reason of this paragraph for any distribution before January 1, 1999, shall be so included ratably over the 4-taxable year period beginning with such taxable year."
 
 Subsec. (d)(3)(B). Pub. L. 109–280, §824(b)(2)(B), substituted "eligible retirement plan (as defined by section 402(c)(8)(B))" for "individual retirement plan".
 
@@ -450,9 +504,17 @@ Subsec. (f). Pub. L. 105–206, §6005(b)(9), added subsec. (f).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. T, title I, §126(d), Dec. 29, 2022, 136 Stat. 5317, provided that: "The amendments made by this section \[amending this section and section 529 of this title\] shall apply with respect to distributions after December 31, 2023."
+
+Amendment by section 401(b)(5) of Pub. L. 117–328 effective as if included in the section of div. O of Pub. L. 116–94 to which the amendment relates, see section 401(c) of Pub. L. 117–328, set out as a note under section 72 of this title.
+
+Amendment by section 601(a), (c)(2), (d) of Pub. L. 117–328 applicable to taxable years beginning after Dec. 31, 2022, see section 601(e) of Pub. L. 117–328, set out as a note under section 402 of this title.
+
 #### Effective Date of 2019 Amendment
 
-Amendment by Pub. L. 116–94 applicable to contributions made for taxable years beginning after Dec. 31,2019, see section 107(d)(1) of div. O of Pub. L. 116–94, set out in a note under section 219 of this title.
+Amendment by Pub. L. 116–94 applicable to contributions made for taxable years beginning after Dec. 31, 2019, see section 107(d)(1) of div. O of Pub. L. 116–94, set out in a note under section 219 of this title.
 
 #### Effective Date of 2017 Amendment
 
@@ -557,6 +619,4 @@ Reporting requirements.—If a commercial passenger airline carrier pays 1 or mo
 "(c)
 
 Effective Date.—This section shall apply to transfers made after the date of the enactment of this Act \[Dec. 23, 2008\] with respect to airline payment amounts paid before, on, or after such date."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

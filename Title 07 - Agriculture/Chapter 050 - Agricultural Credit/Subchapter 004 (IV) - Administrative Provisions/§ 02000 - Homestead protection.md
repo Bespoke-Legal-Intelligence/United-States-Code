@@ -56,7 +56,7 @@ As used in this section:
 
 (2) For purposes of subparagraphs (B) and (C) of paragraph (1), the term "farming or ranching operations" shall include rent paid by lessees of agricultural land during any period in which the borrower-owner, due to circumstances beyond the control of the borrower-owner, is unable to actively farm such land.
 
-(3) For the purposes of paragraph (1)(E), the failure of the borrower-owner to make timely rental payments shall constitute cause for the termination of all rights of such borrower-ownerto possession and occupancy of the homestead property under this section. In effecting any such termination, the Secretary shall afford the borrower-owner or lessee the notice and hearing procedural rights described in section 1983b <sup>2</sup> of this title and shall comply with all applicable State and local laws governing eviction from residential property.
+(3) For the purposes of paragraph (1)(E), the failure of the borrower-owner to make timely rental payments shall constitute cause for the termination of all rights of such borrower-owner to possession and occupancy of the homestead property under this section. In effecting any such termination, the Secretary shall afford the borrower-owner or lessee the notice and hearing procedural rights described in section 1983b <sup>2</sup> of this title and shall comply with all applicable State and local laws governing eviction from residential property.
 
 (4)(A) The period of occupancy allowed the prior owner of homestead property under this section shall be the period requested in writing by the prior owner, except that such period shall not exceed 5 years.
 

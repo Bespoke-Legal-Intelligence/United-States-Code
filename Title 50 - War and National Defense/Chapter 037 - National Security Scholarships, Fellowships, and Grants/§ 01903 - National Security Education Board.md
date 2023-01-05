@@ -106,7 +106,7 @@ Subsec. (d)(4). Pub. L. 105–272, §305(a)(3), substituted "area, and counterpr
 
 <b>1996</b>—Subsec. (d)(1). Pub. L. 104–201, §1078(e)(1), inserted before period at end ", including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position".
 
-Subsec. (d)(4). Pub. L. 104–201, §1078(e)(2)(A), in introductory provisions, substituted "After taking into account the annual analyses of trends in language, international, and area studies under section 1906(b)(1) ofthis title, make recommendations" for "Make recommendations".
+Subsec. (d)(4). Pub. L. 104–201, §1078(e)(2)(A), in introductory provisions, substituted "After taking into account the annual analyses of trends in language, international, and area studies under section 1906(b)(1) of this title, make recommendations" for "Make recommendations".
 
 Subsec. (d)(4)(A). Pub. L. 104–201, §1078(e)(2)(B), substituted "and countries which are of importance to the national security interests of the United States" after "are studying".
 

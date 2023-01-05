@@ -70,7 +70,7 @@ Whenever it appears to the Attorney General that a drug not considered to be a p
 
 #### (B) Emergency situations
 
-&emsp;&emsp;In emergency situations, as described in subsection (a), the remaining portions of apartially filled prescription for a controlled substance in schedule II—
+&emsp;&emsp;In emergency situations, as described in subsection (a), the remaining portions of a partially filled prescription for a controlled substance in schedule II—
 
 &emsp;&emsp;&emsp;(i) may be filled; and
 
@@ -116,11 +116,11 @@ Pub. L. 116–215, div. B, title III, §1302, Dec. 11, 2020, 134 Stat. 1046, pro
 
 #### Programs and Materials for Training on Certain Circumstances Under Which a Pharmacist May Decline To Fill a Prescription
 
-Pub. L. 115–271, title III, §3212, Oct. 24, 2018, 132 Stat. 3947, provided that:
+Pub. L. 115–271, title III, §3212, Oct. 24, 2018, 132 Stat. 3947, as amended by Pub. L. 117–328, div. FF, title I, §1271(a), Dec. 29, 2022, 136 Stat. 5685, provided that:
 
 "(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Oct. 24, 2018\], the Secretary of Health and Human Services, in consultation with the Administrator of the Drug Enforcement Administration, Commissioner of Food and Drugs, Director of the Centers for Disease Control and Prevention, and Assistant Secretary for Mental Health and Substance Use, shall develop and disseminate, as appropriate, materials for pharmacists, health care providers, and patients on—
+In General.—The Secretary of Health and Human Services, in consultation with the Administrator of the Drug Enforcement Administration, Commissioner of Food and Drugs, Director of the Centers for Disease Control and Prevention, and Assistant Secretary for Mental Health and Substance Use, shall develop and disseminate not later than 1 year after the date of enactment of the Restoring Hope for Mental Health and Well-Being Act of 2022 \[Dec. 29, 2022\], and update periodically thereafter, as appropriate, materials for pharmacists, health care providers, and patients on—
 
 &emsp;"(1) circumstances under which a pharmacist may, consistent with section 309 of the Controlled Substances Act (21 U.S.C. 829) and regulations thereunder, including section 1306.04 of title 21, Code of Federal Regulations, decline to fill a prescription for a controlled substance because the pharmacist suspects the prescription is fraudulent, forged, or of doubtful, questionable, or suspicious origin; and
 
@@ -130,13 +130,23 @@ In General.—Not later than 1 year after the date of enactment of this Act \[Oc
 
 Materials Included.—In developing materials under subsection (a), the Secretary of Health and Human Services shall include information for—
 
-&emsp;"(1) pharmacists on how to decline to fill a prescription and actions to take after declining to fill a prescription; and
+&emsp;"(1) pharmacists on how to verify the identity of the patient;
 
-&emsp;"(2) other health care practitioners and the public on a pharmacist's ability to decline to fill prescriptions in certain circumstances and a description of those circumstances (as described in the materials developed under subsection (a)(1)).
+&emsp;"(2) pharmacists on how to decline to fill a prescription and actions to take after declining to fill a prescription; and
+
+&emsp;"(3) other health care practitioners and the public on a pharmacist's ability to decline to fill prescriptions in certain circumstances and a description of those circumstances (as described in the materials developed under subsection (a)(1)).
 
 "(c)
 
-Stakeholder Input.—In developing the programs and materials required under subsection (a), the Secretary of Health and Human Services shall seek input from relevant national, State, and local associations, boards of pharmacy, medical societies, licensing boards, health care practitioners, and patients, including individuals with chronic pain."
+Stakeholder Input.—In developing the programs and materials required under subsection (a), the Secretary of Health and Human Services shall seekinput from relevant national, State, and local associations, boards of pharmacy, medical societies, licensing boards, health care practitioners, and patients, including individuals with chronic pain.
+
+"(d)
+
+Materials for Training on Verification of Identity.—Not later than 1 year after the date of enactment of this subsection \[Dec. 29, 2022\], the Secretary of Health and Human Services, after seeking stakeholder input in accordance with subsection (c), shall—
+
+&emsp;"(1) update the materials developed under subsection (a) to include information for pharmacists on how to verify the identity of the patient; and
+
+&emsp;"(2) disseminate, as appropriate, the updated materials."
 
 #### Effect of Scheduling on Prescriptions
 

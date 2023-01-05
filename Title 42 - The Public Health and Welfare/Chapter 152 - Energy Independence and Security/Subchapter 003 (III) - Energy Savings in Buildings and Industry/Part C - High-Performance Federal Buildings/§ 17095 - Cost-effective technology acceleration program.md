@@ -16,7 +16,7 @@ In this section, the term "Administrator" means the Administrator of General Ser
 
 &emsp;&emsp;(A) ensure centralized responsibility for the coordination of cost reduction-related recommendations, practices, and activities of all relevant Federal agencies;
 
-&emsp;&emsp;(B) provide technical assistance and operational guidance to applicable tenants toachieve the goal identified in subsection (c)(2)(B)(ii);
+&emsp;&emsp;(B) provide technical assistance and operational guidance to applicable tenants to achieve the goal identified in subsection (c)(2)(B)(ii);
 
 &emsp;&emsp;(C) establish methods to track the success of Federal departments and agencies with respect to that goal; and
 
@@ -132,7 +132,7 @@ Section 432, referred to in subsec. (d)(1), is section 432 of Pub. L. 110–140,
 
 Section 525, referred to in subsec. (d)(2), is section 525 of Pub. L. 110–140, December 19, 2007, 121 Stat. 1663, which amended section 8259b of this title and enacted provisions set out as a note under section 8259b of this title.
 
-This part, referred to in subsec. (d)(3)(C)(i), was in the original "this subtitle", meaning subtitle C (§§431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607, which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under section 6834 of this title. For complete classification of subtitle C to the Code, see Tables.
+This part, referred to in subsec. (d)(3)(C)(i), was in the original "this subtitle", meaning subtitle C (§§431–441) of title IV of Pub. L. 110–140, Dec. 19, 2007, 121 Stat. 1607,which enacted this part, amended sections 6832, 6834, 8253, and 8254 of this title, and enacted provisions set out as a note under section 6834 of this title. For complete classification of subtitle C to the Code, see Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -4,7 +4,7 @@ For the purpose of this subchapter—
 
 &emsp;(1) "employee" means—
 
-&emsp;&emsp;(A) a civil officer or employee in any branch of the Government of the UnitedStates, including an officer or employee of an instrumentality wholly owned by the United States;
+&emsp;&emsp;(A) a civil officer or employee in any branch of the Government of the United States, including an officer or employee of an instrumentality wholly owned by the United States;
 
 &emsp;&emsp;(B) an individual rendering personal service to the United States similar to the service of a civil officer or employee of the United States, without pay or for nominal pay, when a statute authorizes the acceptance or use of the service, or authorizes payment of travel or other expenses of the individual;
 
@@ -68,7 +68,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(B) engaged in armed conflict, whether or not war has been declared, against the United States or any of its allies; or
 
-&emsp;&emsp;(C) engaged in a war or armed conflict between military forces of any origin in a country in which an individual to whom this subchapter applies is serving;
+&emsp;&emsp;(C) engaged in a war or armed conflict between military forces of any origin in acountry in which an individual to whom this subchapter applies is serving;
 
 &emsp;(15) "allies" means any nation with which the United States is engaged in a common military effort or with which the United States has entered into a common defensive military alliance;
 

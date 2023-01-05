@@ -14,7 +14,7 @@ The President is authorized to furnish assistance to friendly countries and inte
 
 #### Required Notification and Reports Related to Peacekeeping Operations Account
 
-Pub. L. 117–81, div. F, title LXV, §6502, Dec. 27, 2021, 135 Stat. 2422, provided that:
+Pub. L. 117–81, div. F, title LXV, §6502, Dec. 27, 2021, 135 Stat. 2422, as amended by Pub. L. 117–263, div. E, title LV, §5594, Dec. 23, 2022, 136 Stat. 3392, provided that:
 
 "(a)
 
@@ -26,31 +26,19 @@ Congressional Notification.—Not later than 15 days prior to the obligation of 
 
 &emsp;"(3) An assessment of the capacity of each such country or entity to effectively implement, benefit from, or use the assistance to be provided for the intended purpose identified under paragraph (2).
 
-&emsp;"(4) A description of plans to encourage and monitor adherence to international human rights and humanitarian law by the foreign country or entity receiving the assistance.
+&emsp;"(4) As applicable, a description of specific training on monitoring and adhering to international human rights and humanitarian law provided to the foreign country or entity receiving the assistance.
 
 &emsp;"(5) An identification of any implementers, including third party contractors or other such entities, and the anticipated timeline for implementing any activities to carry out the assistance.
 
 &emsp;"(6) As applicable, a description of plans to sustain and account for any military or security equipment and subsistence funds provided as an element of the assistance beyond the date of completion of such activities, including the estimated cost and source of funds to support such sustainment.
 
-&emsp;"(7) An assessment of how such activities promote the following:
-
-&emsp;&emsp;"(A) The diplomatic and national security objectives of the United States.
-
-&emsp;&emsp;"(B) The objectives and regional strategy of the country or entity receiving the assistance.
-
-&emsp;&emsp;"(C) The priorities of the United States regarding the promotion of good governance, rule of law, the protection of civilians, and human rights.
-
-&emsp;&emsp;"(D) The peacekeeping capabilities of partner countries of the country or entity receiving the assistance, including an explanation if such activities do not support peacekeeping.
-
-&emsp;"(8) An assessment of the possible impact of such activities on local political and social dynamics, including a description of any consultations with local civil society.
-
 "(b)
 
-Reports on Programs Under Peacekeeping Operations Account.—
+Reports.—
 
 &emsp;"(1)
 
-Annual report.—Not later than 90 days after the enactment of this Act \[Dec. 27, 2021\], and annually thereafter for 5 years, the Secretary of State shall submit to the appropriate congressional committees a report on any security assistance made available, during the three fiscal years preceding the date on which the report is submitted, to foreign countries that received assistance authorized under section 551 of the Foreign Assistance Act of 1961 (22 U.S.C. 2348) for any of the following purposes:
+Annual report.—Not later than 90 days after the enactment of this Act \[Dec. 27, 2021\], and annually thereafter for 5 years, the Secretary of State shall submit to the appropriate congressional committees a report on any security assistance authorized under section 551 of the Foreign Assistance Act of 1961 (22 U.S.C. 2348) and made available, during the three fiscal years preceding the date on which the report is submitted, to foreign countries for any of the following purposes:
 
 &emsp;&emsp;"(A) Building the capacity of the foreign military, border security, or law enforcement entities, of the country.
 
@@ -72,6 +60,10 @@ Matters.—Each report under paragraph (1) shall include, with respect to each f
 
 "(c)
 
+Coordination of Submission.—The Secretary of State is authorized to integrate the elements of the report required by subsection (b) into other reports required to be submitted annually to the appropriate congressional committees.
+
+"(d)
+
 Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
 
 &emsp;"(1) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives; and
@@ -92,7 +84,7 @@ Pub. L. 94–110, Oct. 13, 1975, 89 Stat. 572, provided that:
 
 <i>"Resolved by the Senate and House of Representatives of the United States of America in Congress assembled</i>, That the President is authorized to implement the 'United States Proposal for the Early Warning System in Sinai': <i>Provided, however</i>, That United States civilian personnel assigned to Sinai under such proposal shall be removed immediately in the event of an outbreak of hostilities between Egypt and Israel or if the Congress by concurrent resolution determines that the safety of such personnel is jeopardized or that continuation of their role is no longer necessary. Nothing contained in this resolution shall be construed as granting any authority to the President with respect to the introduction of United States Armed Forces into hostilities or into situations wherein involvement in hostilities is clearly indicated by the circumstances which authority he would not have had in the absence of this joint resolution.
 
-"Sec. 2. Any concurrent resolution of the type described in the first section of this resolution which is introduced in either House of Congress shall be privileged in the same manner and to the same extent as a concurrent resolution of the type described in section 5(c) of Public Law 93–148 \[section 1544(c) of Title 50, War and National Defense\] is privileged under section 7 of such law \[section 1546 of title 50, War and National Defense\].
+"Sec. 2. Any concurrent resolution of the type described in the first section of this resolution which is introduced in either House of Congress shall be privileged in the same manner and to the same extent as a concurrent resolution of the type described in section5(c) of Public Law 93–148 \[section 1544(c) of Title 50, War and National Defense\] is privileged under section 7 of such law \[section 1546 of title 50, War and National Defense\].
 
 "Sec. 3. The United States civilian personnel participating in the early warning system in Sinai shall include only individuals who have volunteered to participate in such system.
 
@@ -104,7 +96,7 @@ Pub. L. 94–110, Oct. 13, 1975, 89 Stat. 572, provided that:
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Executive Order No. 11896
 

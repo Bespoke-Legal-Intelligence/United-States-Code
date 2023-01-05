@@ -22,7 +22,7 @@ Section 460m–22, Pub. L. 95–625, title XI, §1109, Nov. 10, 1978, 92 Stat. 3
 
 Section 460m–23, Pub. L. 95–625, title XI, §1110, Nov. 10, 1978, 92 Stat. 3548, which related to cooperation between the Secretaries of the Army and Interior, was transferred to section 410eeee–9 of this title.
 
-Section 460m–24, Pub. L. 95–625, title XI, §1111, Nov. 10, 1978, 92 Stat. 3548, which related to class I or classII redesignation for clean air purposes, was transferred to section 410eeee–10 of this title.
+Section 460m–24, Pub. L. 95–625, title XI, §1111, Nov. 10, 1978, 92 Stat. 3548, which related to class I or class II redesignation for clean air purposes, was transferred to section 410eeee–10 of this title.
 
 Section 460m–25, Pub. L. 95–625, title XI, §1112, Nov. 10, 1978, 92 Stat. 3548; Pub. L. 99–500, §101(h) \[title I, §116(b)\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §116(b)\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title X, §1002, Oct. 30, 1986, 100 Stat. 3340, which authorized appropriations, was transferred to section 410eeee–11 of this title.
 

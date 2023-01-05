@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(iv) family caregivers providing care and treatment for individuals with Alzheimer's disease and related disorders; and
 
-&emsp;&emsp;&emsp;(v) personnel of local organizations (including community groups, business andlabor groups, and religious, educational, and charitable organizations) that have traditionally not been involved in planning and developing long-term care services; and
+&emsp;&emsp;&emsp;(v) personnel of local organizations (including community groups, business and labor groups, and religious, educational, and charitable organizations) that have traditionally not been involved in planning and developing long-term care services; and
 
 &emsp;&emsp;(B) with attention to such variables as—
 
@@ -68,7 +68,7 @@ The Director of the National Institute on Aging shall coordinate the award of gr
 
 #### References in Text
 
-The Older Americans Act of 1965, referred to in subsec. (a)(1)(A)(iii), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsec. (a)(1)(A)(iii), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 #### Amendments
 

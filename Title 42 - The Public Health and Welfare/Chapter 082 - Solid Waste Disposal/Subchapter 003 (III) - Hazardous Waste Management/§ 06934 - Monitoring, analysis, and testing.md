@@ -30,7 +30,7 @@ An order under subsection (a) or (b) shall require the person to whom such order
 
 (2) No order may be issued under this subsection requiring reimbursement of the costs of any action carried out by the Administrator which confirms the results of an order issued under subsection (a) or (b).
 
-(3) For purposes of carrying out this subsection, the Administrator or any authority or other person authorized under paragraph (1), may exercise the authorities set forth in section 6927 of this title.
+(3) For purposes of carrying out this subsection, the Administrator or any authority or other person authorized under paragraph (1),may exercise the authorities set forth in section 6927 of this title.
 
 #### (e) Enforcement
 

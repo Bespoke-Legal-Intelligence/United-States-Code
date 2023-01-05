@@ -26,7 +26,7 @@ Funding.—
 
 &emsp;&emsp;"(A)
 
-Use of prior year funds.—Notwithstanding the repeal of section 1240Q of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3839bb–4), any funds made available from the Commodity Credit Corporation to carry out the Chesapeake Bay watershed program under that section for fiscal years 2009 through 2013 shall be made available to carry out contracts, agreements, and easements referred to in paragraph (1) that were entered into prior to the date of enactment of the Agricultural Act of 2014 (including the provision of technical assistance).
+Use of prior year funds.—Notwithstanding the repeal of section 1240Q of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3839bb–4), any funds made available from the Commodity Credit Corporation to carry out the Chesapeake Bay watershed program under that section for fiscal years 2009 through 2013 shall be made available to carry outcontracts, agreements, and easements referred to in paragraph (1) that were entered into prior to the date of enactment of the Agricultural Act of 2014 (including the provision of technical assistance).
 
 &emsp;&emsp;"(B)
 

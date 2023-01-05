@@ -52,7 +52,7 @@ With the prior written consent of the Board, the concentration limit under subse
 
 #### (d) Rulemaking and guidance
 
-The Board shall issue regulations implementing this section in accordance with the recommendations of the Council under subsection\(e), including the definition of terms, as necessary. The Board may issue interpretations or guidance regarding the application of this section to an individual financial company or to financial companies in general.
+The Board shall issue regulations implementing this section in accordance with the recommendations of the Council under subsection (e), including the definition of terms, as necessary. The Board may issue interpretations or guidance regarding the application of this section to an individual financial company or to financial companies in general.
 
 #### (e) Council study and rulemaking
 

@@ -46,23 +46,15 @@
 
 (2) In a case under chapter 9, 11, 12, or 13 of this title, the trustee may assume or reject an executory contract or unexpired lease of residential real property or of personal property of the debtor at any time before the confirmation of a plan but the court, on the request of any party to such contract or lease, may order the trustee to determine within a specified period of time whether to assume or reject such contract or lease.
 
-(3)(A) The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding section 503(b)(1) of this title. The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period, except as provided in subparagraph (B). This subsection shall not be deemed to affect the trustee's obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor's rights under such lease or under this title.
-
-(B) In a case under subchapter V of chapter 11, the time for performance of an obligation described in subparagraph (A) arising under any unexpired lease of nonresidential real property may be extended by the court if the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic until the earlier of—
-
-&emsp;(i) the date that is 60 days after the date of the order for relief, which may be extended by the court for an additional period of 60 days if the court determines that the debtor is continuing to experience a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; or
-
-&emsp;(ii) the date on which the lease is assumed or rejected under this section.
-
-(C) An obligation described in subparagraph (A) for which an extension is granted under subparagraph (B) shall be treated as an administrative expense described in section 507(a)(2) for the purpose of section 1191(e).
+(3) The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding section 503(b)(1) of this title. The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period. This subsection shall not be deemed to affect the trustee's obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor's rights under such lease or under this title.
 
 (4)(A) Subject to subparagraph (B), an unexpired lease of nonresidential real property under which the debtor is the lessee shall be deemed rejected, and the trustee shall immediately surrender that nonresidential real property to the lessor, if the trustee does not assume or reject the unexpired lease by the earlier of—
 
-&emsp;(i) the date that is 210 days after the date of the order for relief; or
+&emsp;(i) the date that is 120 days after the date of the order for relief; or
 
 &emsp;(ii) the date of the entry of an order confirming a plan.
 
-(B)(i) The court may extend the period determined under subparagraph (A), prior to the expiration of the 210-day period, for 90 days on the motion of the trustee or lessor for cause.
+(B)(i) The court may extend the period determined under subparagraph (A), prior to the expiration of the 120-day period, for 90 days on the motion of the trustee or lessor for cause.
 
 (ii) If the court grants an extension under clause (i), the court may grant a subsequent extension only upon prior written consent of the lessor in each instance.
 
@@ -114,7 +106,7 @@
 
 &emsp;(ii) if the term of such lease has commenced, the lessee may retain its rights under such lease (including rights such as those relating to the amount and timing of payment of rent and other amounts payable by the lessee and any right of use, possession, quiet enjoyment, subletting, assignment, or hypothecation) that are in or appurtenant to the real property for the balance of the term of such lease and for any renewal or extension of such rights to the extent that such rights are enforceable under applicable nonbankruptcy law.
 
-(B) If the lessee retains its rights under subparagraph (A)(ii), the lessee may offset against the rent reserved under such lease for the balance of the term after the date of the rejectionof such lease and for the term of any renewal or extension of such lease, the value of any damage caused by the nonperformance after the date of such rejection, of any obligation of the debtor under such lease, but the lessee shall not have any other right against the estate or the debtor on account of any damage occurring after such date caused by such nonperformance.
+(B) If the lessee retains its rights under subparagraph (A)(ii), the lessee may offset against the rent reserved under such lease for the balance of the term after the date of the rejection of such lease and for the term of any renewal or extension of such lease, the value of any damage caused by the nonperformance after the date of such rejection, of any obligation of the debtor under such lease, but the lessee shall not have any other right against the estate or the debtor on account of any damage occurring after such date caused by such nonperformance.
 
 (C) The rejection of a lease of real property in a shopping center with respect to which the lessee elects to retain its rights under subparagraph (A)(ii) does not affect the enforceability under applicable nonbankruptcy law of any provision in the lease pertaining to radius, location, use, exclusivity, or tenant mix or balance.
 
@@ -196,22 +188,6 @@
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2574; Pub. L. 98–353, title III, §§362, 402–404, July 10, 1984, 98 Stat. 361, 367; Pub. L. 99–554, title II, §§257(j), (m), 283(e), Oct. 27, 1986, 100 Stat. 3115, 3117; Pub. L. 100–506, §1(b), Oct. 18, 1988, 102 Stat. 2538; Pub. L. 101–647, title XXV, §2522(c), Nov. 29, 1990, 104 Stat. 4866; Pub. L. 102–365, §19(b)–(e), Sept. 3, 1992, 106 Stat. 982–984; Pub. L. 103–394, title II, §§205(a), 219(a), (b), title V, §501(d)(10), Oct. 22, 1994, 108 Stat. 4122, 4128, 4145; Pub. L. 103–429, §1, Oct. 31, 1994, 108 Stat. 4377; Pub. L. 109–8, title III, §§309(b), 328(a), title IV, §404, Apr. 20, 2005, 119 Stat. 82, 100, 104; Pub. L. 116–260, div. FF, title X, §1001(f)(1), (2)(A), Dec. 27, 2020, 134 Stat. 3219.)
 
-#### Amendment of Subsection (d)
-
-<i>Pub. L. 116–260, div. FF, title X, §1001(f)(2)(A), Dec. 27, 2020, 134 Stat. 3219, provided that, effective on the date that is 2 years after Dec. 27, 2020, subsection (d) of this section is amended:</i>
-
-<i>(1) in paragraph (3)—</i>
-
-<i>(A) by striking "(A)" after "(3)";</i>
-
-<i>(B) by striking ", except as provided in subparagraph (B)" after "such 60-day period"; and</i>
-
-<i>(C) by striking subparagraphs (B) and (C); and</i>
-
-<i>(2) in paragraph (4), by striking "210" each place it appears and inserting "120".</i>
-
-<i>See 2020 Amendment notes below.</i>
-
 #### Historical and Revision Notes
 
 #### legislative statements
@@ -232,7 +208,7 @@ Section 363(h) of the House amendment represents a modification of section 365(h
 
 #### senate report no. 95–989
 
-Subsection (a) of this section authorizes the trustee, subject to the court's approval, to assume or reject an executory contract or unexpired lease. Though there is no precise definition of what contracts are executory, it generally includes contracts on which performance remains due to some extent on both sides. A note is not usually an executory contract if the only performance that remains is repayment. Performance on one side of the contract would have been completed and the contract is no longer executory.
+Subsection (a) of this section authorizes the trustee, subject to the court's approval, to assume or reject an executory contract or unexpired lease. Though there is no precise definition of what contracts are executory, it generally includes contracts on which performance remains due to some extent on both sides. A note is notusually an executory contract if the only performance that remains is repayment. Performance on one side of the contract would have been completed and the contract is no longer executory.
 
 Because of the volatile nature of the commodities markets and the special provisions governing commodity broker liquidations in subchapter IV of chapter 7, the provisions governing distribution in section 765(a) will govern if any conflict between those provisions and the provisions of this section arise.
 
@@ -258,7 +234,7 @@ Subsection (f) partially invalidates restrictions on assignment of contracts or 
 
 Subsection (g) defines the time as of which a rejection of an executory contract or unexpired lease constitutes a breach of the contract or lease. Generally, the breach is as of the date immediately preceding the date of the petition. The purpose is to treat rejection claims as prepetition claims. The remainder of the subsection specifies different times for cases that are converted from one chapter to another. The provisions of this subsection are not a substantive authorization to breach or reject an assumed contract. Rather, they prescribe the rules for the allowance of claims in case an assumed contract is breached, or if a case under chapter 11 in which a contract has been assumed is converted to a case under chapter 7 in which the contract is rejected.
 
-Subsection (h) protects real property lessees of the debtor if the trustee rejects an unexpired lease under which the debtor is the lessor (or sublessor). The subsection permits the lessee to remain in possession of the leased property or to treat the lease as terminated by the rejection. The balance of the term of the lease referred to in paragraph (1) will include any renewal terms that are enforceable by the tenant, but not renewal terms if the landlord had an option to terminate. Thus, the tenant will not be deprived of his estate for the term for which he bargained. If the lessee remains in possession, he may offset the rent reserved under thelease against damages caused by the rejection, but does not have any affirmative rights against the estate for any damages after the rejection that result from the rejection.
+Subsection (h) protects real property lessees of the debtor if the trustee rejects an unexpired lease under which the debtor is the lessor (or sublessor). The subsection permits the lessee to remain in possession of the leased property or to treat the lease as terminated by the rejection. The balance of the term of the lease referred to in paragraph (1) will include any renewal terms that are enforceable by the tenant, but not renewal terms if the landlord had an option to terminate. Thus, the tenant will not be deprived of his estate for the term for which he bargained. If the lessee remains in possession, he may offset the rent reserved under the lease against damages caused by the rejection, but does not have any affirmative rights against the estate for any damages after the rejection that result from the rejection.
 
 Subsection (i) gives a purchaser of real property under a land installment sales contract similar protection. The purchaser, if the contract is rejected, may remain in possession or may treat the contract as terminated. If the purchaser remains in possession, he is required to continue to make the payments due, but may offset damages that occur after rejection. The trustee is required to deliver title, but is relieved of all other obligations to perform.
 
@@ -320,7 +296,7 @@ Subsec. (g)(2)(A), (B). Pub. L. 103–394, §501(d)(10)(B), substituted "1208, o
 
 Subsec. (h). Pub. L. 103–394, §205(a), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows:
 
-"(h)(1) If the trustee rejects an unexpired lease of real property of the debtor under which the debtor is the lessor, or a timeshare interest under a timeshare plan under which the debtor is the timeshare interest seller, the lessee or timeshare interest purchaser under such lease or timeshare plan may treat such lease or timeshare plan as terminated by such rejection, where the disaffirmance by the trustee amounts to such a breach as would entitle the lessee or timeshare interest purchaser to treat such lease or timeshare plan as terminated by virtue of its own terms, applicable nonbankruptcy law, or other agreements the lessee or timeshare interest purchaser has made with other parties; or, in the alternative, the lessee or timeshare interest purchaser may remain in possession of the leasehold or timeshare interest under any lease or timeshare plan the term of which has commenced for the balance of such term and for any renewal or extension of such term that is enforceable by such lessee or timeshare interest purchaser under applicable nonbankruptcy law.
+"(h)(1) If the trustee rejects an unexpired lease of real property of the debtor under which the debtor is the lessor, or a timeshare interest under a timeshare plan under which the debtor is the timeshare interest seller, the lessee or timeshare interest purchaser under such lease or timeshare plan may treat such lease or timeshare plan as terminated by such rejection, where the disaffirmance by the trustee amounts to such a breach as would entitle the lessee or timeshare interestpurchaser to treat such lease or timeshare plan as terminated by virtue of its own terms, applicable nonbankruptcy law, or other agreements the lessee or timeshare interest purchaser has made with other parties; or, in the alternative, the lessee or timeshare interest purchaser may remain in possession of the leasehold or timeshare interest under any lease or timeshare plan the term of which has commenced for the balance of such term and for any renewal or extension of such term that is enforceable by such lessee or timeshare interest purchaser under applicable nonbankruptcy law.
 
 "(2) If such lessee or timeshare interest purchaser remains in possession as provided in paragraph (1) of this subsection, such lessee or timeshare interest purchaser may offset against the rent reserved under such lease or moneys due for such timeshare interest for the balance of the term after the date of the rejection of such lease or timeshare interest, and any such renewal or extension thereof, any damages occurring after such date caused by the nonperformance of any obligation of the debtor under such lease or timeshare plan after such date, but such lessee or timeshare interest purchaser does not have any rights against the estate on account of any damages arising after such date from such rejection, other than such offset."
 

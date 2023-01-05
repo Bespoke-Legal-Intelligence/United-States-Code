@@ -22,7 +22,7 @@ This section shall apply to any covered person that is—
 
 #### (2) Coordination
 
-&emsp;To minimize regulatory burden, the Bureau shall coordinate its supervisory activities with the supervisory activities conducted by prudential regulators and the State bank regulatory authorities, including consultation regarding their respective schedules for examining such persons described in subsection (a) and requirements regarding reports to be submitted by such persons.
+&emsp;To minimize regulatory burden, the Bureau shall coordinate its supervisory activities withthe supervisory activities conducted by prudential regulators and the State bank regulatory authorities, including consultation regarding their respective schedules for examining such persons described in subsection (a) and requirements regarding reports to be submitted by such persons.
 
 #### (3) Use of existing reports
 
@@ -44,7 +44,7 @@ This section shall apply to any covered person that is—
 
 #### (1) The Bureau to have primary enforcement authority
 
-&emsp;To the extent that the Bureau and another Federal agency are authorized to enforce aFederal consumer financial law, the Bureau shall have primary authority to enforce that Federal consumer financial law with respect to any person described in subsection (a).
+&emsp;To the extent that the Bureau and another Federal agency are authorized to enforce a Federal consumer financial law, the Bureau shall have primary authority to enforce that Federal consumer financial law with respect to any person described in subsection (a).
 
 #### (2) Referral
 
@@ -90,7 +90,7 @@ A service provider to a person described in subsection (a) shall be subject to t
 
 #### (A) In general
 
-&emsp;&emsp;If the agencies do not resolve the conflict or issue a joint statement required by subparagraph (B), or if either of the agencies takes or attempts to take any supervisory action relating to the request for the joint statement without the consent of the other agency, an insured depository institution, insured credit union, or other covered person described in subsection (a) may institute an appeal to a governing panel, as provided in this subsection, not later than 30 days after the expiration of the period during which a joint statement is required to be filed under paragraph (3)(B).
+&emsp;&emsp;If the agencies do not resolve the conflict or issue a joint statement required by subparagraph (B), or if either of the agencies takes or attempts to take any supervisory action relating to the request for the joint statement without the consent of the other agency, an insured depository institution, insured credit union, or other covered persondescribed in subsection (a) may institute an appeal to a governing panel, as provided in this subsection, not later than 30 days after the expiration of the period during which a joint statement is required to be filed under paragraph (3)(B).
 
 #### (B) Composition of governing panel
 

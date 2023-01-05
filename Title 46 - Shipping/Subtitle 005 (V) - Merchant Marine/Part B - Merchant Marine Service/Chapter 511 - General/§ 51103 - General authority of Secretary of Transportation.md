@@ -2,7 +2,7 @@
 
 (a)
 
-Education and Training.—The Secretary of Transportation may provide for the educationand training of citizens of the United States for the safe and efficient operation of the merchant marine of the United States at all times, including operation as a naval and military auxiliary in time of war or national emergency.
+Education and Training.—The Secretary of Transportation may provide for the education and training of citizens of the United States for the safe and efficient operation of the merchant marine of the United States at all times, including operation as a naval and military auxiliary in time of war or national emergency.
 
 (b)
 
@@ -10,7 +10,7 @@ Property for Instructional Purposes.—
 
 &emsp;(1)
 
-In general.—The Secretary may cooperate with and assist the institutions named in paragraph (2) by making vessels, fuel, shipboard equipment, and other marine equipment, owned by the United States Government and determined by the entity having custody and control of such property to be excess or surplus, available to those institutions for instructional purposes, by gift, loan, sale, lease, or charter on terms and conditions the Secretary considers appropriate. The consent of the Secretary of the Navy shall be obtained with respect to any property from National Defense Reserve Fleet vessels, if such vessels are either Ready Reserve Force vessels or other National Defense Reserve Fleet vessels determined to be of sufficient value to the Navy to warrant their further preservation and retention.
+In general.—The Secretary may cooperate with and assist the institutions named in paragraph (2) by making vessels, fuel, shipboard equipment, and other marine equipment, owned by the United States Governmentand determined by the entity having custody and control of such property to be excess or surplus, available to those institutions for instructional purposes, by gift, loan, sale, lease, or charter on terms and conditions the Secretary considers appropriate. The consent of the Secretary of the Navy shall be obtained with respect to any property from National Defense Reserve Fleet vessels, if such vessels are either Ready Reserve Force vessels or other National Defense Reserve Fleet vessels determined to be of sufficient value to the Navy to warrant their further preservation and retention.
 
 &emsp;(2)
 

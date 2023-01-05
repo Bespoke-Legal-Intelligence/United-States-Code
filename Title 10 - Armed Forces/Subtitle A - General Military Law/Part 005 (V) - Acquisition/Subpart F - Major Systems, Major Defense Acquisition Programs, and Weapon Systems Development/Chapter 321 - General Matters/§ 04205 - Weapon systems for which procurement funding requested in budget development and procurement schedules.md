@@ -98,7 +98,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Transition of Ballistic Missile Defense Programs to Military Departments
 
-Pub. L. 115–91, div. A, title XVI, §1676(b), Dec. 12, 2017, 131 Stat. 1772, as amended by Pub. L. 115–232, div. A, title XVI, §1679, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–283, div. A, title XVI, §1643, Jan. 1, 2021, 134 Stat. 4062; Pub. L. 117–81, div. A, title XVI, §1663, Dec. 27, 2021, 135 Stat. 2104, directed the Secretary of Defense to transfer, not later than Oct. 1, 2023, the acquisition authority and the total obligational authority for each missile defense program that has received Milestone C approval or equivalent approval as of such date from the Missile Defense Agency to a military department, and directed the Secretary to submit to the congressional defense committees, not later than one year after Dec. 12, 2017, a report on the plans for such transition of missile defense programs.
+Pub. L. 115–91, div. A, title XVI, §1676(b), Dec. 12, 2017, 131 Stat. 1772, as amended by Pub. L. 115–232, div. A, title XVI, §1679, Aug. 13, 2018, 132 Stat. 2161; Pub. L. 116–283, div. A, title XVI, §1643, Jan. 1, 2021, 134 Stat. 4062; Pub. L. 117–81, div. A, title XVI, §1663, Dec. 27, 2021, 135 Stat. 2104; Pub. L. 117–263, div. A, title XVI, §1655, Dec. 23, 2022, 136 Stat. 2950, directed the Secretary of Defense to transfer, not later than Oct. 1, 2023—except that such requirement to transfer would terminate 60 days after the Secretary submits the report under section 1675(b) of Pub. L. 117–81 (135 Stat. 2113)—the acquisition authority and the total obligational authority for each missile defense program that has received Milestone C approval or equivalent approval as of such date from the Missile Defense Agency to a military department, and directed the Secretary to submit to the congressional defense committees, not later than one year after Dec. 12, 2017, a report on the plans for such transition of missile defense programs.
 
 #### Development of Persistent Space-Based Sensor Architecture
 
@@ -128,7 +128,7 @@ Development.—Subject to the availability of appropriations, the Director of th
 
 "(b)
 
-Space-based Ballistic Missile Intercept Layer Plan.—Not later than one year after the date ofthe enactment of this Act \[Dec. 12, 2017\], the Director shall submit to the appropriate congressional committees a plan to carry out subsection (a) during the 10-year period following the date of the plan. Such plan shall include the following:
+Space-based Ballistic Missile Intercept Layer Plan.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the Director shall submit to the appropriate congressional committees a plan to carry out subsection (a) during the 10-year period following the date of the plan. Such plan shall include the following:
 
 &emsp;"(1) A concept definition phase consisting of multiple awarded contracts to identify feasible solutions consistent with architectural principles, performance goals, and price points established by the Director, such as contracts relating to—
 
@@ -232,7 +232,7 @@ Additional functions.—In addition to the functions and duties of the Office in
 
 &emsp;"(3)
 
-Funding.—The Secretary may make available such funds to the Office for basic research, applied research, advanced technology development, prototyping, studies and analyses, and organizational support as the Secretary considers appropriate to support the efficient and effective development of directed energy systems and technologies, including high-powered microwaves, and transition of those systems and technologies into acquisition programs or operational use.
+Funding.—The Secretary may make available such funds to the Office for basic research, applied research, advanced technology development, prototyping, studies and analyses, and organizational support as the Secretary considers appropriate to support the efficient and effective development of directed energy systems and technologies, including high-powered microwaves, and transition of thosesystems and technologies into acquisition programs or operational use.
 
 "(c)
 
@@ -606,7 +606,7 @@ Pub. L. 113–66, div. A, title II, §237, Dec. 26, 2013, 127 Stat. 717, directe
 
 #### Limitation on Availability of Funds for Missile Defense Interceptors in Europe
 
-Pub. L. 111–383, div. A, title II, §223(a)–(d), Jan. 7, 2011, 124 Stat. 4168, 4169, prohibited the expenditure of Department of Defense funds for the construction or deployment of missile defense interceptors in Europe until the host nation ratified a missile defense basing agreement and a status of forces agreement authorizing such interceptors and the Secretary of Defense submitted to the congressional defense committees the report on the independent assessment of alternative missile defense systems in Europe required by section235(c)(2) of the National Defense Authorization Act for Fiscal Year 2010 (Pub. L. 111–84, 123 Stat. 2235).
+Pub. L. 111–383, div. A, title II, §223(a)–(d), Jan. 7, 2011, 124 Stat. 4168, 4169, prohibited the expenditure of Department of Defense funds for the construction or deployment of missile defense interceptors in Europe until the host nation ratified a missile defense basing agreement and a status of forces agreement authorizing such interceptors and the Secretary of Defense submitted to the congressional defense committees the report on the independent assessment of alternative missile defense systems in Europe required by section 235(c)(2) of the National Defense Authorization Act for Fiscal Year 2010 (Pub. L. 111–84, 123 Stat. 2235).
 
 #### Limitation on Availability of Funds for Procurement, Construction, and Deployment of Missile Defenses in Europe
 

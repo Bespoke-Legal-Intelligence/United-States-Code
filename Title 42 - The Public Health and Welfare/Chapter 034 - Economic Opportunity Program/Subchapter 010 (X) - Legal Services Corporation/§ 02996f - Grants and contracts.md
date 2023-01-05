@@ -44,7 +44,7 @@ With respect to grants or contracts in connection with the provision of legal as
 
 &emsp;(7) require recipients to establish guidelines, consistent with regulations promulgated by the Corporation, for a system for review of appeals to insure the efficient utilization of resources and to avoid frivolous appeals (except that such guidelines or regulations shall in no way interfere with attorneys' professional responsibilities);
 
-&emsp;(8) insure that recipients solicit the recommendations of the organized bar in the community being served before filling staff attorney positions in any project funded pursuant to this subchapter and give preference in filling such positions to qualified persons who reside in the community to be served;
+&emsp;(8) insure that recipients solicit the recommendations of the organized bar in the community being served before filling staff attorney positions in any project funded pursuant to this subchapter and give preference infilling such positions to qualified persons who reside in the community to be served;
 
 &emsp;(9) insure that every grantee, contractor, or person or entity receiving financial assistance under this subchapter or predecessor authority under this chapter which files with the Corporation a timely application for refunding is provided interim funding necessary to maintain its current level of activities until (A) the application for refunding has been approved and funds pursuant thereto received, or (B) the application for refunding has been finally denied in accordance with section 2996j of this title;
 
@@ -74,7 +74,7 @@ No funds made available by the Corporation under this subchapter, either by gran
 
 &emsp;(9) to provide legal assistance with respect to any proceeding or litigation relating to the desegregation of any elementary or secondary school or school system, except that nothing in this paragraph shall prohibit the provision of legal advice to an eligible client with respect to such client's legal rights and responsibilities;
 
-&emsp;(10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act \[50 U.S.C. 3801 et seq.\] or of desertion from the Armed Forces of the United States, exceptthat legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
+&emsp;(10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act \[50 U.S.C. 3801 et seq.\] or of desertion from the Armed Forces of the United States, except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
 
 &emsp;(11) to provide legal assistance in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\].
 
@@ -134,7 +134,7 @@ Section 2809 of this title, referred to in subsec. (c), was repealed by Pub. L. 
 
 <b>1997</b>—Subsec. (b)(11). Pub. L. 105–12 added par. (11).
 
-<b>1977</b>—Subsec. (a)(2)(B)(iv). Pub. L. 95–222, §9(a), substituted provisions setting forth factors which may be included in determining financial ability, for provisionssetting forth factors required to be included in determining financial ability.
+<b>1977</b>—Subsec. (a)(2)(B)(iv). Pub. L. 95–222, §9(a), substituted provisions setting forth factors which may be included in determining financial ability, for provisions setting forth factors required to be included in determining financial ability.
 
 Subsec. (a)(2)(C). Pub. L. 95–222, §9(b)(1), expanded existing provisions by requiring the Corporation to establish procedures for determining and implementing priorities and criteria for such priorities, and inserted provisions relating to appropriate training and support services.
 
@@ -144,7 +144,7 @@ Subsec. (a)(6). Pub. L. 95–222, §7(b), struck out provisions relating to proh
 
 Subsec. (b). Pub. L. 95–222, §10, redesignated and reorganized provisions of former par. (1) as pars. (1) to (3) and, as so redesignated, enumerated criteria for assistance under such pars., redesignated former pars. (2) and (3) as (4) and (5), respectively, struck out former par. (4) relating to assistance to any unemancipated person of less than eighteen years of age, redesignated former par. (5) as (6), redesignated former par. (6) as (7) and, as so redesignated, inserted provision relating to initiation and provision relating to acting as an organizer, and struck out provisions relating to organization, assistance or encouragement to organize, or to plan for the creation, formation or structuring of entities, and provision respecting guidelines for assistance to clients, redesignated former par. (7) as (9) and, as so redesignated, inserted exception for legal advice to clients, reenacted par. (8) without change, and redesignated former par. (9) as (10) and, as so redesignated, inserted exception for actions concerning classifications prior to July 1, 1973.
 
-Subsec. (c). Pub. L. 95–222, §11, substituted provisions requiring recipients to include at least one-third membership of eligible clients or eligible clients who may also be representatives of associations or organizations of eligible clients, for provisions requiring recipients to include at least one individual eligible to receive legal assistance.
+Subsec. (c). Pub. L. 95–222, §11, substituted provisions requiring recipients to include at least one-third membership of eligible clients or eligible clients who may also be representatives of associations or organizationsof eligible clients, for provisions requiring recipients to include at least one individual eligible to receive legal assistance.
 
 Subsec. (f). Pub. L. 95–222, §12, inserted provision requiring notice to principal local bar association, if any, of community.
 

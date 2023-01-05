@@ -32,7 +32,7 @@ Provisions similar to those in this section were contained in section 1163(a) of
 
 Subsec. (b)(1). Pub. L. 105–85, §516(b)(1), (2), substituted "A" for "to a" and "title." for "title;".
 
-Subsec. (b)(2). Pub. L. 105–85, §516(b)(3), which directed substitution of a period for "; and" at end ofpar. (2), could not be executed because "; and" did not appear in par. (2).
+Subsec. (b)(2). Pub. L. 105–85, §516(b)(3), which directed substitution of a period for "; and" at end of par. (2), could not be executed because "; and" did not appear in par. (2).
 
 Pub. L. 105–85, §516(b)(1), substituted "A" for "to a".
 

@@ -234,7 +234,7 @@ Updates.—The Secretary shall revise the policy required by subsection (a) on a
 
 #### Mental Health Assessments for Members of the Armed Forces Deployed in Connection With a Contingency Operation
 
-Pub. L. 111–84, div. A, title VII, §708, Oct. 28, 2009, 123 Stat. 2376, which required the Secretary of Defense to issue guidance for the provision of mental health assessments for members of the Armed Forces deployed in connection with a contingency operation, was repealed by Pub. L. 112–81, div. A, title VII, §702(b), Dec. 31, 2011, 125 Stat. 1471.
+Pub. L. 111–84, div. A, title VII, §708, Oct. 28, 2009, 123 Stat. 2376, which required the Secretary of Defense toissue guidance for the provision of mental health assessments for members of the Armed Forces deployed in connection with a contingency operation, was repealed by Pub. L. 112–81, div. A, title VII, §702(b), Dec. 31, 2011, 125 Stat. 1471.
 
 #### Administration and Prescription of Psychotropic Medications for Members of the Armed Forces Before and During Deployment
 

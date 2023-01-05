@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any adjustable rate mortgage loan originated by a creditor shall include a limitation on the maximum interest rate that may apply during the term of the mortgage loan.
+Any adjustable rate mortgage loan originated by a creditor shall include a limitation on themaximum interest rate that may apply during the term of the mortgage loan.
 
 #### (b) Regulations
 
@@ -30,7 +30,7 @@ This section shall take effect upon the expiration of 120 days after August 10, 
 
 #### References in Text
 
-The Truth in Lending Act, referred to in subsec. (c), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (c), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Codification
 

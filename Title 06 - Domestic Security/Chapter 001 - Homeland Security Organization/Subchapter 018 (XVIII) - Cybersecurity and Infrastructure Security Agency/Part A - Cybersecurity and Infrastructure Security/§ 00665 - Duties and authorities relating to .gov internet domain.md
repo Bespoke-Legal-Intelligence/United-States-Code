@@ -62,7 +62,7 @@ The Director, with the approval of the Director of the Office of Management and 
 
 #### (2) Limitation
 
-&emsp;The total fees collected for new .gov internet domain registrants or annual renewals of .gov internet domains shall not exceed the direct operational expenses of improving, maintaining, and operating the .gov internet domain, .gov internet domain services, and .gov internet domain supporting services.
+&emsp;The total fees collected for new .gov internet domain registrants or annual renewals of .govinternet domains shall not exceed the direct operational expenses of improving, maintaining, and operating the .gov internet domain, .gov internet domain services, and .gov internet domain supporting services.
 
 #### (g) Consultation
 
@@ -122,7 +122,7 @@ The Director shall consult with the Director of the Office of Management and Bud
 
 &emsp;Not later than 180 days after December 27, 2020, the Director shall develop and submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Rules and Administration of the Senate and the Committee on Homeland Security, the Committee on Oversight and Reform, and the Committee on House Administration of the House of Representatives a strategy to utilize the information collected under this subsection for countering malicious cyber activity.
 
-(Pub. L. 107–296, title XXII, §2215, as added Pub. L. 116–260, div. U, title IX, §904(b)(1)(B), Dec. 27, 2020, 134 Stat. 2298; Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(ii), (B), Dec. 27, 2021, 135 Stat. 2060, 2061.)
+(Pub. L. 107–296, title XXII, §2215, as added Pub. L. 116–260, div. U, title IX, §904(b)(1)(B), Dec. 27, 2020, 134 Stat. 2298; Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(ii), (B), Dec. 27, 2021, 135 Stat. 2060, 2061; Pub. L. 117–263, div. G, title LXXI, §7143(a)(1), Dec. 23, 2022, 136 Stat. 3654.)
 
 #### <b>Editorial Notes</b>
 
@@ -130,13 +130,23 @@ The Director shall consult with the Director of the Office of Management and Bud
 
 The 21st Century IDEA Act, referred to in subsec. (d)(3), is Pub. L. 115–336, Dec. 20, 2018, 132 Stat. 5025, also known as the 21st Century Integrated Digital Experience Act, which is set out as a note under section 3501 of Title 44, Public Printing and Documents.
 
+#### Codification
+
+Other sections 2215 of Pub. L. 107–296 were renumbered sections 2216, 2217, and 2218 and are classified, respectively, to sections 665b, 665c, and 665d of this title.
+
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263 made amendment identical to that made by Pub. L. 117–81, §1547(b)(1)(B). See 2021 Amendment note below.
 
 <b>2021</b>—Pub. L. 117–81, §1547(b)(1)(B), made technical amendment to the directory language of section 904(b)(1) of Pub. L. 116–260.
 
 Pub. L. 117–81, §1547(b)(1)(A)(ii), reenacted section catchline.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–263 effective as if enacted as part of title IX of div. U of Pub. L. 116–260, see section 7143(a)(2) of Pub. L. 117–263, set out as a note under section 652 of this title.
 
 #### Findings
 
@@ -158,13 +168,9 @@ Pub. L. 116–260, div. U, title IX, §902, Dec. 27, 2020, 134 Stat. 2297, provi
 
 \[For definition of "State" as used in section 902 of Pub. L. 116–260, set out above, see section 903 of Pub. L. 116–260, set out as a note below.\]
 
-#### Duties of Department of Homeland Security
+#### Purpose of .gov Internet Domain Program
 
-Pub. L. 116–260, div. U, title IX, §904(a), Dec. 27, 2020, 134 Stat. 2298, provided that:
-
-"(a)
-
-Purpose.—The purpose of the .gov internet domain program is to—
+Pub. L. 116–260, div. U, title IX, §904(a), Dec. 27, 2020, 134 Stat. 2298, provided that: "The purpose of the .gov internet domain program is to—
 
 &emsp;"(1) legitimize and enhance public trust in government entities and their online services;
 

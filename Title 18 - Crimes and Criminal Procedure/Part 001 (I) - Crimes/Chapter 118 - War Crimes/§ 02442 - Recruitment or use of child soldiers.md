@@ -34,7 +34,7 @@ Definitions.—In this section:
 
 Participate actively in hostilities.—The term "participate actively in hostilities" means taking part in—
 
-&emsp;&emsp;(A) combat or military activities related to combat, including sabotage and serving asa decoy, a courier, or at a military checkpoint; or
+&emsp;&emsp;(A) combat or military activities related to combat, including sabotage and serving as a decoy, a courier, or at a military checkpoint; or
 
 &emsp;&emsp;(B) direct support functions related to combat, including transporting supplies or providing other services.
 

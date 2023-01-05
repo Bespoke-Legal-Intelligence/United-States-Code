@@ -55,6 +55,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER V—MASIH ALINEJAD HARASSMENT AND UNLAWFUL TARGETING
+
+|  |  |
+| :--- | ---: |
+| [8561\.](Subchapter%20005%20%28V%29%20-%20Masih%20Alinejad%20Harassment%20and%20Unlawful%20Targeting/%C2%A7%2008561%20-%20Findings.md) | Findings. |
+| [8562\.](Subchapter%20005%20%28V%29%20-%20Masih%20Alinejad%20Harassment%20and%20Unlawful%20Targeting/%C2%A7%2008562%20-%20Definitions.md) | Definitions. |
+| [8563\.](Subchapter%20005%20%28V%29%20-%20Masih%20Alinejad%20Harassment%20and%20Unlawful%20Targeting/%C2%A7%2008563%20-%20Report%20and%20imposition%20of%20sanctions%20with%20respect%20to%20persons%20who%20are%20responsible%20for%20or%20complicit%20in%20abuses%20toward%20dissidents%20on%20behalf%20of%E2%80%A6.md) | Report and imposition of sanctions with respect to persons who are responsible for or complicit in abuses toward dissidents on behalf of the Government of Iran. |
+| [8564\.](Subchapter%20005%20%28V%29%20-%20Masih%20Alinejad%20Harassment%20and%20Unlawful%20Targeting/%C2%A7%2008564%20-%20Report%20and%20imposition%20of%20sanctions%20with%20respect%20to%20foreign%20financial%20institutions%20conducting%20significant%20transactions%20with%20persons%E2%80%A6.md) | Report and imposition of sanctions with respect to foreign financial institutions conducting significant transactions with persons responsible for or complicit in abuses toward dissidents on behalf of the Government of Iran. |
+| [8565\.](Subchapter%20005%20%28V%29%20-%20Masih%20Alinejad%20Harassment%20and%20Unlawful%20Targeting/%C2%A7%2008565%20-%20Exceptions%3B%20waivers%3B%20implementation.md) | Exceptions; waivers; implementation. |
+| [8566\.](Subchapter%20005%20%28V%29%20-%20Masih%20Alinejad%20Harassment%20and%20Unlawful%20Targeting/%C2%A7%2008566%20-%20Exception%20relating%20to%20importation%20of%20goods.md) | Exception relating to importation of goods. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -65,3 +78,4 @@
 - [Subchapter 002 (II) - Divestment from Certain Companies That Invest in Iran](Subchapter%20002%20%28II%29%20-%20Divestment%20from%20Certain%20Companies%20That%20Invest%20in%20Iran/README.md)
 - [Subchapter 003 (III) - Prevention of Diversion of Certain Goods, Services, and Technologies to Iran](Subchapter%20003%20%28III%29%20-%20Prevention%20of%20Diversion%20of%20Certain%20Goods%2C%20Services%2C%20and%20Technologies%20to%20Iran/README.md)
 - [Subchapter 004 (IV) - General Provisions](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/README.md)
+- [Subchapter 005 (V) - Masih Alinejad Harassment and Unlawful Targeting](Subchapter%20005%20%28V%29%20-%20Masih%20Alinejad%20Harassment%20and%20Unlawful%20Targeting/README.md)

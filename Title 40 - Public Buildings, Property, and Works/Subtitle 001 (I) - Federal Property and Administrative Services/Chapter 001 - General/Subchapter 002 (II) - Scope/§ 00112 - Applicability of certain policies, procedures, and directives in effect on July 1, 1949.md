@@ -8,7 +8,7 @@ In General.—A policy, procedure, or directive described in subsection (b) rema
 
 Description.—A policy, procedure, or directive referred to in subsection (a) is one that was in effect on July 1, 1949, and that was prescribed by—
 
-&emsp;(1) the Director of the Bureau of Federal Supply or the Secretary of the Treasury and that related to a function transferred to or vested in the Administrator of General Services on June 30, 1949, by the Federal Property and Administrative Services Act of 1949; <sup>1</sup>
+&emsp;(1) the Director of the Bureau of Federal Supply or the Secretary of the Treasury andthat related to a function transferred to or vested in the Administrator of General Services on June 30, 1949, by the Federal Property and Administrative Services Act of 1949; <sup>1</sup>
 
 &emsp;(2) an officer of the Federal Government under authority of the Surplus Property Act of 1944 (ch. 479, 58 Stat. 765) or other authority related to surplus property or foreign excess property;
 

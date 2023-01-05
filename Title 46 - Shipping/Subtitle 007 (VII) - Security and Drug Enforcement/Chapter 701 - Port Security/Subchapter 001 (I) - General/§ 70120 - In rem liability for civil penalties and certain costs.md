@@ -20,7 +20,7 @@ Definitions.—In this subsection—
 
 &emsp;&emsp;(B) required handling of cargo or other items on board the vessel.
 
-(Added Pub. L. 108–293, title VIII, §802(a)(2), Aug. 9, 2004, 118 Stat. 1078, §70117; renumbered §70120and amended Pub. L. 109–241, title IX, §901(l)(2), (3), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(33)(B), (C), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
+(Added Pub. L. 108–293, title VIII, §802(a)(2), Aug. 9, 2004, 118 Stat. 1078, §70117; renumbered §70120 and amended Pub. L. 109–241, title IX, §901(l)(2), (3), July 11, 2006, 120 Stat. 565; Pub. L. 109–304, §15(33)(B), (C), Oct. 6, 2006, 120 Stat. 1705; Pub. L. 110–181, div. C, title XXXV, §3529(c)(1), Jan. 28, 2008, 122 Stat. 603.)
 
 #### <b>Editorial Notes</b>
 

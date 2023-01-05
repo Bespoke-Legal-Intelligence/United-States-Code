@@ -46,7 +46,7 @@ Procedures for Prescribing Regulations.—(1) The Secretary shall prepare an age
 
 (3) An emergency regulation ends 120 days after it is issued.
 
-(4) The Secretary shall comply with this subsection when proposing or carrying out a regulation governing an activity under this chapter,except for a routine matter or a matter with no significant impact.
+(4) The Secretary shall comply with this subsection when proposing or carrying out a regulation governing an activity under this chapter, except for a routine matter or a matter with no significant impact.
 
 (d)
 
@@ -168,7 +168,7 @@ Transfer of Amounts and Non-Government Share.—(1) Amounts made available for a
 
 (j)
 
-Notification of Pending Discretionary Grants.—Not less than 3 full business days before announcement of award by the Secretary of any discretionary grant, letter of intent, or full funding grant agreement totaling $1,000,000 or more, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
+Notification of Pending Discretionary Grants.—Not less than 3 full business days before announcement of award by the Secretary of any discretionary grant, letter of intent, or full funding grant agreement totaling $1,000,000 ormore, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
 
 (k)
 
@@ -266,7 +266,7 @@ In subsection (c), before clause (1), the words "In the performance of, and with
 
 Subsection (d) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(b) and last sentence) to eliminate unnecessary words.
 
-In subsection (e), the words "such . . . as the making of loans" are omitted as surplus. The words "under this chapter" are added for clarity. The word "related" is substituted for "in connection with such financial transactions" to eliminate unnecessary words. The words "approved by the Secretary" are omitted as surplus. The word "binding" is substituted for "final and conclusive" to eliminate unnecessary words. The words "and employees" are added for consistency in the revised title and with other titles of the United States Code.
+In subsection (e), the words "such . . . as the making of loans" are omitted as surplus. The words "under this chapter" are added for clarity. The word "related" is substituted for "in connection with such financial transactions" to eliminate unnecessary words. The words "approved by the Secretary" are omitted as surplus. The word "binding" is substituted for "final and conclusive" to eliminate unnecessary words. The words"and employees" are added for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (f), before clause (1), the words "in any way" are substituted for "complete, administer, remodel and convert, dispose of, lease and otherwise" to eliminate unnecessary words. In clause (1), the words "civil or criminal" are omitted as surplus. In clause (2), the words "political subdivision of a State" are substituted for "local" for consistency.
 
@@ -348,7 +348,7 @@ Subsec. (h). Pub. L. 109–59, §3032(3), redesignated subsec. (g) as (h). Forme
 
 Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation" in pars. (1) and (2).
 
-Subsec. (i). Pub. L. 109–59, §3032(2), (3), redesignated subsec. (h) as (i) and struck out heading and text of former subsec. (i). Text read as follows: "The Secretary of Housing and Urban Development shall—
+Subsec. (i). Pub. L. 109–59, §3032(2), (3), redesignated subsec. (h) as (i) and struck out heading and text offormer subsec. (i). Text read as follows: "The Secretary of Housing and Urban Development shall—
 
 &emsp;"(1) carry out section 5312(a) and (b)(1) of this title related to—
 

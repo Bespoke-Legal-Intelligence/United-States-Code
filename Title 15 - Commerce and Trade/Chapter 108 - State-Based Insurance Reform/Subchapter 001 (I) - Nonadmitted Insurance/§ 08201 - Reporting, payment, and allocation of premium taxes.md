@@ -8,7 +8,7 @@ No State other than the home State of an insured may require any premium tax pay
 
 #### (1) In general
 
-&emsp;The States may enter into a compact or otherwise establish procedures to allocate amongthe States the premium taxes paid to an insured's home State described in subsection (a).
+&emsp;The States may enter into a compact or otherwise establish procedures to allocate among the States the premium taxes paid to an insured's home State described in subsection (a).
 
 #### (2) Effective date
 

@@ -2,7 +2,7 @@
 
 #### (a) Early return or advance payment of tax
 
-For purposes of section 6511, any return filed before the last day prescribed for the filing thereof shall be considered as filed on such last day. For purposes of section 6511(b)(2) and (c) and section 6512, payment of any portion of the tax made before the last day prescribed for the payment of the tax shall be considered made on such last day. For purposes of this subsection, the last day prescribed for filing the return or paying the tax shall be determined without regard to any extension of time granted the taxpayer and without regard to any election to pay the tax in installments.
+For purposes of section 6511, any return filed before the last day prescribed for the filing thereof shall be considered as filed on such last day. For purposes of section 6511(b)(2) and (c) and section 6512, payment of any portion of the tax made before the last day prescribed for thepayment of the tax shall be considered made on such last day. For purposes of this subsection, the last day prescribed for filing the return or paying the tax shall be determined without regard to any extension of time granted the taxpayer and without regard to any election to pay the tax in installments.
 
 #### (b) Prepaid income tax
 
@@ -10,7 +10,7 @@ For purposes of section 6511 or 6512—
 
 &emsp;(1) Any tax actually deducted and withheld at the source during any calendar year under chapter 24 shall, in respect of the recipient of the income, be deemed to have been paid by him on the 15th day of the fourth month following the close of his taxable year with respect to which such tax is allowable as a credit under section 31.
 
-&emsp;(2) Any amount paid as estimated income tax for any taxable year shall be deemed tohave been paid on the last day prescribed for filing the return under section 6012 for such taxable year (determined without regard to any extension of time for filing such return).
+&emsp;(2) Any amount paid as estimated income tax for any taxable year shall be deemed to have been paid on the last day prescribed for filing the return under section 6012 for such taxable year (determined without regard to any extension of time for filing such return).
 
 &emsp;(3) Any tax withheld at the source under chapter 3 or 4 shall, in respect of the recipient of the income, be deemed to have been paid by such recipient on the last day prescribed for filing the return under section 6012 for the taxable year (determined without regard to any extension of time for filing) with respect to which such tax is allowable as a credit under section 1462 or 1474(b). For this purpose, any exemption granted under section 6012 from the requirement of filing a return shall be disregarded.
 

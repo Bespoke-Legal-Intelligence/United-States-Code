@@ -24,7 +24,7 @@
 
 #### (4) Certification
 
-&emsp;As a condition of restoration under paragraph (1) for an employee who has taken leave under section 2612(a)(1)(D) of this title, the employer may have a uniformly applied practice or policy that requires each such employee to receive certification from the health care provider of the employee that the employee is able to resume work, except that nothing in this paragraph shall supersede a valid State or local law or a collective bargaining agreement that governs the return to work of such employees.
+&emsp;As a condition of restoration under paragraph (1) for an employee who has taken leaveunder section 2612(a)(1)(D) of this title, the employer may have a uniformly applied practice or policy that requires each such employee to receive certification from the health care provider of the employee that the employee is able to resume work, except that nothing in this paragraph shall supersede a valid State or local law or a collective bargaining agreement that governs the return to work of such employees.
 
 #### (5) Construction
 
@@ -104,5 +104,5 @@ Subsec. (c)(3)(A)(iii). Pub. L. 110–181, §585(a)(3)(F)(ii), added cl. (iii).
 
 #### Effective Date
 
-Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements in effect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
+Section effective 6 months after Feb. 5, 1993, except that, in the case of collective bargaining agreements ineffect on that effective date, section applicable on the earlier of (1) the date of termination of such agreement, or (2) the date that occurs 12 months after Feb. 5, 1993, see section 405(b) of Pub. L. 103–3, set out as a note under section 2601 of this title.
 

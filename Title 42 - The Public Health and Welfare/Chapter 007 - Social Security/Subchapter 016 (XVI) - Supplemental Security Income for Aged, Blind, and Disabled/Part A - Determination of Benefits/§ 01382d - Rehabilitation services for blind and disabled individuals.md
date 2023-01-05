@@ -44,9 +44,9 @@ The Commissioner of Social Security may reimburse the State agency described in 
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Rehabilitation Act of 1973 is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Rehabilitation Act of 1973 is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-Section 212(b) of Public Law 93–66, referred to in subsec. (e)(1)(C), (2)(C), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212(b) of Public Law 93–66, referred to in subsec. (e)(1)(C), (2)(C), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, which is set out as a note under section 1382 of this title.
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title V, §5037(b), Nov. 5, 1990, 104 Stat. 1388–226, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\] and shall apply to claims for reimbursement pending on or after such date."
+Pub. L. 101–508, title V, §5037(b), Nov. 5, 1990, 104 Stat. 1388–226, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect onthe date of the enactment of this Act \[Nov. 5, 1990\] and shall apply to claims for reimbursement pending on or after such date."
 
 #### Effective Date of 1984 Amendment
 

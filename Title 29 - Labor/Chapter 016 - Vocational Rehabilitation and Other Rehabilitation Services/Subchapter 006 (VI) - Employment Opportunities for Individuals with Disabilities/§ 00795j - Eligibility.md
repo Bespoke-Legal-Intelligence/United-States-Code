@@ -16,7 +16,7 @@ An individual, including a youth with a disability, shall be eligible under this
 
 #### References in Text
 
-Section 705(42) of this title, referred to in par. (3), was in the original "section (7)(42)", and was translated asmeaning section 7(42) of the Rehabilitation Act of 1973, which is classified to section 705(42) of this title, to reflect the probable intent of Congress.
+Section 705(42) of this title, referred to in par. (3), was in the original "section (7)(42)", and was translated as meaning section 7(42) of the Rehabilitation Act of 1973, which is classified to section 705(42) of this title, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

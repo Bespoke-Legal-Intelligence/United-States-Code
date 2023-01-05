@@ -62,7 +62,7 @@ In this section:
 
 &emsp;The Secretary shall ensure the coordination of, and avoid unnecessary duplication of, the activities of each Hub with the activities of—
 
-&emsp;&emsp;(A) other research entities of the Department, including the National Laboratories, the Advanced Research Projects Agency—Energy, and Energy Frontier Research Centers; and
+&emsp;&emsp;(A) other research entities of the Department, including the National Laboratories,the Advanced Research Projects Agency—Energy, and Energy Frontier Research Centers; and
 
 &emsp;&emsp;(B) industry.
 

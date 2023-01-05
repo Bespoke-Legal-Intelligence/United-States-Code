@@ -280,7 +280,7 @@ Requirements.—In carrying out the pilot program under paragraph (1), the Secre
 
 &emsp;"(C) reduce or eliminate copayments or cost shares for covered beneficiaries to receive health care services from high-value providers;
 
-&emsp;"(D) credit the amount of any reduction or elimination of a copayment or cost share under subparagraph (B) or (C) for a covered beneficiary towards meeting a deductible applicable to the covered beneficiary in the purchased care component of theTRICARE program to the same extent as if such reduction or elimination had not applied; and
+&emsp;"(D) credit the amount of any reduction or elimination of a copayment or cost share under subparagraph (B) or (C) for a covered beneficiary towards meeting a deductible applicable to the covered beneficiary in the purchased care component of the TRICARE program to the same extent as if such reduction or elimination had not applied; and
 
 &emsp;"(E) develop a process to reimburse high-value providers at rates higher than those rates for health care providers that are not high-value providers.
 
@@ -486,7 +486,7 @@ Publication.—The Secretary shall—
 
 &emsp;"(1) publish information on any modifications made pursuant to subsection (a) with respect to the ability of covered beneficiaries under the TRICARE program who are covered under a health plan under such program to access health care in each TRICARE region on the primary Internet website of the Department that is available to the public; and
 
-&emsp;"(2) ensure that such information is made available on the primary Internet website that is available to the public of each current contractor responsible for administering the TRICARE program.
+&emsp;"(2) ensure that such information is made available on the primary Internet website that is available tothe public of each current contractor responsible for administering the TRICARE program.
 
 "(d)
 
@@ -704,7 +704,7 @@ Reports.—The Comptroller General shall submit to the Committees on Armed Servi
 
 &emsp;&emsp;"(B) An identification of any impediments to achieving adequacy of availability of health care and mental health care under TRICARE Standard or TRICARE Extra.
 
-&emsp;&emsp;"(C) An assessment of the adequacy of Department of Defense education programs to inform health care and mental health care providers about TRICARE Standard and TRICARE Extra.
+&emsp;&emsp;"(C) An assessment of the adequacy of Department of Defense education programs to informhealth care and mental health care providers about TRICARE Standard and TRICARE Extra.
 
 &emsp;&emsp;"(D) An assessment of the adequacy of Department of Defense initiatives to encourage health care and mental health care providers to accept patients under TRICARE Standard and TRICARE Extra.
 
@@ -922,7 +922,7 @@ Pub. L. 109–163, div. A, title VII, §740, Jan. 6, 2006, 119 Stat. 3359, as am
 
 #### Surveys on Continued Viability of TRICARE Standard
 
-Pub. L. 108–136, div. A, title VII, §723, Nov. 24, 2003, 117 Stat. 1532, as amended by Pub. L. 109–163, div. A, title VII, §711, Jan. 6, 2006, 119 Stat. 3343, required the Secretary of Defense to conduct surveys in the TRICARE market areas in the United States to determine how many health care providers were accepting new patients under TRICARE Standard in each such market area, and required the Comptroller General to review the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care providers and the actions taken by the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care under TRICARE Standard in each TRICARE market area, prior to repeal by Pub. L. 110–181, div. A, title VII, §711(d), Jan. 28, 2008, 122 Stat. 193, eff. Oct. 1, 2007.
+Pub. L. 108–136, div. A, title VII, §723, Nov. 24, 2003, 117 Stat. 1532, as amended by Pub. L. 109–163, div. A, titleVII, §711, Jan. 6, 2006, 119 Stat. 3343, required the Secretary of Defense to conduct surveys in the TRICARE market areas in the United States to determine how many health care providers were accepting new patients under TRICARE Standard in each such market area, and required the Comptroller General to review the processes, procedures, and analysis used by the Department of Defense to determine the adequacy of the number of health care providers and the actions taken by the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care under TRICARE Standard in each TRICARE market area, prior to repeal by Pub. L. 110–181, div. A, title VII, §711(d), Jan. 28, 2008, 122 Stat. 193, eff. Oct. 1, 2007.
 
 #### Modernization of TRICARE Business Practices and Increase of Use of Military Treatment Facilities
 
@@ -1060,7 +1060,7 @@ Suspension of Implementation of Program.—The Secretary shall suspend any plan 
 
 &emsp;"(2) the Secretary implements cost-saving reforms with respect to the military and contractor retail and mail order pharmacy system."
 
-Pub. L. 105–261, div. A, title VII, §723, Oct. 17, 1998, 112 Stat. 2068, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1\[\[div. A\], title VII, §711(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that:
+Pub. L. 105–261, div. A, title VII, §723, Oct. 17, 1998, 112 Stat. 2068, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, §1 \[\[div. A\], title VII, §711(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, provided that:
 
 "(a)
 
@@ -1286,7 +1286,7 @@ Application of Payment Rules.—Subject to subsection (b), the Secretary shall r
 
 "(b)
 
-Authorized Adjustments.—The payment rules imposed under subsection (a) shall be subject to such modifications as the Secretary considers appropriate. The Secretary may authorize a lower rate than the maximum rate that would otherwise apply under subsection (a) if the lower rate is agreed to by the designated provider and the private facility or health care provider.
+Authorized Adjustments.—The payment rules imposed under subsection (a) shall be subject to such modifications as the Secretary considers appropriate.The Secretary may authorize a lower rate than the maximum rate that would otherwise apply under subsection (a) if the lower rate is agreed to by the designated provider and the private facility or health care provider.
 
 "(c)
 
@@ -1312,7 +1312,7 @@ Establishment of Payment Rates on Annual Basis.—The Secretary and a designated
 
 "(d)
 
-Alternative Basis for Calculating Payments.—After September 30, 1999, the Secretary and adesignated provider may mutually agree upon a new basis for calculating capitation payments.
+Alternative Basis for Calculating Payments.—After September 30, 1999, the Secretary and a designated provider may mutually agree upon a new basis for calculating capitation payments.
 
 #### "SEC. 727. REPEAL OF SUPERSEDED AUTHORITIES.
 
@@ -1432,7 +1432,7 @@ Modification of Existing Contracts.—In the case of managed health care contrac
 
 Pub. L. 104–61, title VI, Dec. 1, 1995, 109 Stat. 649, provided in part that the date for implementation of the nation-wide managed care military health services system would be extended to Sept. 30, 1997.
 
-Pub. L. 103–139, title VIII, §8025, Nov. 11, 1993, 107 Stat. 1443, provided that: "Notwithstanding any other provision of law, to establish region-wide, at-risk, fixed price managed care contracts possessing features similar to those of the CHAMPUS Reform Initiative, the Secretary of Defense shall submit to the Congress a plan to implement a nation-wide managed health care program for the military health services system not later than December 31, 1993: <i>Provided</i>, That the program shall include, but not be limited to: (1) a uniform, stabilized benefit structure characterized by a triple option health benefit feature; (2) a regionally-based health care management system; (3) cost minimization incentives including 'gatekeeping' and annual enrollment procedures, capitation budgeting, and at-risk managed care support contracts; and (4) full and open competition for all managed care support contracts: <i>Provided further</i>, That the implementation of the nation-wide managed care military health services system shall be completed by September 30, 1996: <i>Provided further</i>, That the Department shall competitively award contracts in fiscal year 1994 for at least four new region-wide, at-risk, fixed price managed care support contracts consistent with the nation-wide plan, that one such contract shall include the State of Florida (which may include Department of Veterans Affairs' medical facilities with the concurrence of the Secretary of Veterans Affairs), one such contract shall include the States of Washington and Oregon, and one such contract shall include the State of Texas: <i>Provided further</i>, That any law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery, administration, and financing methods shall be preempted and shall not apply to any region-wide, at-risk, fixed price managed care contract entered into pursuant to chapter 55 of title 10, United States Code: <i>Provided further</i>, That the Department shall competitively award within 13 months after the date of enactment of this Act \[Nov. 11, 1993\] two contracts for stand-alone, at-risk managed mental health services in high utilization, high-cost areas, consistent with the management and service delivery features in operation in Department of Defense managed mental health care contracts: <i>Provided further</i>, That the Assistant Secretary of Defense for Health Affairs shall, during the current fiscal year, initiate through competitive procedures a managed health care program for eligible beneficiaries in the area of Homestead Air Force Base with benefits and services substantially identical to those established to serve beneficiary populations in areas where military medical facilities have been terminated, to include retail pharmacy networks available to Medicare-eligible beneficiaries, and shall present a plan to implement this program to the House and Senate Committees on Appropriations not later than January 15, 1994."
+Pub. L. 103–139, title VIII, §8025, Nov. 11, 1993, 107 Stat. 1443, provided that: "Notwithstanding any other provision of law, to establish region-wide, at-risk, fixed price managed care contracts possessing features similar to those of the CHAMPUS Reform Initiative, the Secretary of Defense shall submit to the Congress a plan to implement a nation-wide managed health care program for the military health services system not later than December 31, 1993: <i>Provided</i>, That the program shall include, but not be limited to: (1) a uniform, stabilized benefit structure characterized by a triple option health benefit feature; (2) a regionally-based health care management system; (3) cost minimization incentives including 'gatekeeping' and annual enrollment procedures, capitation budgeting, and at-risk managed care support contracts; and (4) full and open competition for all managed care support contracts: <i>Provided further</i>, That the implementation of the nation-wide managed care military health services system shall be completed by September 30, 1996: <i>Provided further</i>, That the Department shall competitively award contracts in fiscal year 1994 for at least four new region-wide, at-risk, fixed price managed care support contracts consistent with the nation-wide plan, that one such contract shall include the State of Florida (which may include Department of Veterans Affairs' medical facilities with the concurrence of the Secretary of Veterans Affairs), one such contract shall include the States of Washington and Oregon, and one such contract shall include the State of Texas: <i>Provided further</i>, That any law or regulation of a State or local government relating to health insurance, prepaid health plans, or other health care delivery, administration, and financing methods shall be preempted and shall not apply to any region-wide, at-risk, fixed price managed care contract entered into pursuant to chapter 55 of title 10, United States Code: <i>Provided further</i>, That the Department shall competitively award within 13 months after the date of enactment of this Act \[Nov.11, 1993\] two contracts for stand-alone, at-risk managed mental health services in high utilization, high-cost areas, consistent with the management and service delivery features in operation in Department of Defense managed mental health care contracts: <i>Provided further</i>, That the Assistant Secretary of Defense for Health Affairs shall, during the current fiscal year, initiate through competitive procedures a managed health care program for eligible beneficiaries in the area of Homestead Air Force Base with benefits and services substantially identical to those established to serve beneficiary populations in areas where military medical facilities have been terminated, to include retail pharmacy networks available to Medicare-eligible beneficiaries, and shall present a plan to implement this program to the House and Senate Committees on Appropriations not later than January 15, 1994."
 
 #### Alternative Health Care Delivery Methodologies
 
@@ -1440,7 +1440,7 @@ Pub. L. 102–484, div. A, title VII, §713, Oct. 23, 1992, 106 Stat. 2435, as a
 
 #### Military Health Care for Persons Reliant on Health Care Facilities at Bases Being Closed or Realigned
 
-Pub. L. 102–484, div. A, title VII, §722, Oct. 23, 1992, 106 Stat. 2439, as amended by Pub. L. 108–136, div. A, title VII, §726, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 110–181, div. A, title X, §1063(i), Jan. 28, 2008, 122 Stat. 324, directed the Secretary of Defense to establish a working group on the provision of military health care to persons who rely on health care facilities at military installations selected for closure or realignment and provided that the working group would terminate on Dec. 31, 2006.
+Pub. L. 102–484, div. A, title VII, §722, Oct. 23, 1992, 106 Stat. 2439, as amended by Pub. L. 108–136, div. A, title VII, §726, Nov. 24, 2003, 117 Stat. 1535; Pub. L. 110–181, div. A, title X, §1063(i), Jan. 28, 2008, 122 Stat. 324; Pub. L. 117–286, §4(a)(48), Dec. 27, 2022, 136 Stat. 4310, directed the Secretary of Defense to establish a working group on the provision of military health care to persons who rely on health care facilities at military installations selected for closure or realignment and provided that the working group would terminate on Dec. 31, 2006.
 
 #### Requirements Prior to Termination of Medical Services at Military Medical Treatment Facilities
 

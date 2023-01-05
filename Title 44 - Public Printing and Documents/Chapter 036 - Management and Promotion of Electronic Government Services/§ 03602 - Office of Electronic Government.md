@@ -24,7 +24,7 @@
 
 &emsp;(5) the Federal Information Security Management Act of 2002.
 
-(e) The Administrator shall work with the Administrator of the Office of Information and Regulatory Affairs and with other offices within the Office of Management and Budget to oversee implementation of electronic Government under this chapter, chapter 35, the E-Government Act of 2002, and other relevant statutes, in a manner consistent with law, relating to—
+(e) The Administrator shall work with the Administrator of the Office of Information and Regulatory Affairs and with other offices within the Office of Management and Budget to oversee implementation of electronic Government under this chapter, chapter 35, the E-Government Actof 2002, and other relevant statutes, in a manner consistent with law, relating to—
 
 &emsp;(1) capital planning and investment control for information technology;
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;(ii) identification of opportunities for public-private collaboration in using Internet-based technology to increase the efficiency of Government-to-business transactions;
 
-&emsp;&emsp;&emsp;(iii) identification of mechanisms for providing incentives to program managersand other Government employees to develop and implement innovative uses of information technologies; and
+&emsp;&emsp;&emsp;(iii) identification of mechanisms for providing incentives to program managers and other Government employees to develop and implement innovative uses of information technologies; and
 
 &emsp;&emsp;&emsp;(iv) identification of opportunities for public, private, and intergovernmental collaboration in addressing the disparities in access to the Internet and information technology.
 

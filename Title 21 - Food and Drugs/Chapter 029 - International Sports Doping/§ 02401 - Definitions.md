@@ -32,7 +32,7 @@ The term "Major International Sport Competition"— <sup>1</sup>
 
 &emsp;&emsp;&emsp;(II) the competition organizer or sanctioning body receives compensation for the right to broadcast the competition in the United States; and
 
-&emsp;(B) includes a competition that is a single event or a competition that consists of a series of events held at different times which, when combined, qualify an athlete or team for an award or other recognition.
+&emsp;(B) includes a competition that is a single event or a competition that consists of a series of events held at different times which,when combined, qualify an athlete or team for an award or other recognition.
 
 #### (6) Person
 

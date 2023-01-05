@@ -10,7 +10,7 @@ Notwithstanding any other provision of this subchapter, payment to an individual
 
 &emsp;(1) such individual is participating in a program consisting of the Ticket to Work and Self-Sufficiency Program under section 1320b–19 of this title or another program of vocational rehabilitation services, employment services, or other support services approved by the Commissioner of Social Security, and
 
-&emsp;(2) the Commissioner of Social Security determines that the completion of such program, or its continuation for a specified period of time, will increase the likelihood that such individual may (following his participation in such program) be permanently removed from the disability benefit rolls.
+&emsp;(2) the Commissioner of Social Security determines that the completion of such program,or its continuation for a specified period of time, will increase the likelihood that such individual may (following his participation in such program) be permanently removed from the disability benefit rolls.
 
 #### (c) Access to information held by payroll data providers
 
@@ -108,7 +108,7 @@ Effective date.—
 
 &emsp;"(i)
 
-In general.—Except as otherwise provided in this paragraph, the amendments made by this paragraph \[amending this section and sections 426 and 426–1 of this title\] shall apply with respect to benefitsbased on disability (as defined in section 225(c)(9) of the Social Security Act \[42 U.S.C. 425(c)(9)\], added by this section) which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after the date of the enactment of this Act.
+In general.—Except as otherwise provided in this paragraph, the amendments made by this paragraph \[amending this section and sections 426 and 426–1 of this title\] shall apply with respect to benefits based on disability (as defined in section 225(c)(9) of the Social Security Act \[42 U.S.C. 425(c)(9)\], added by this section) which are otherwise payable in months beginning after 180 days after the date of the enactment of this Act \[Aug. 15, 1994\]. The Secretary of Health and Human Services shall issue regulations necessary to carry out the amendments made by this paragraph not later than 180 days after the date of the enactment of this Act.
 
 &emsp;"(ii)
 
@@ -158,7 +158,7 @@ Pub. L. 103–296, title II, §201(a)(3)(F), Aug. 15, 1994, 108 Stat. 1498, prov
 
 &emsp;"(i)
 
-Treatment requirement.—Paragraphs (1) through (4) of section 225(c) of the Social Security Act \[42 U.S.C. 425(c)(1)–(4)\] (added by this subsection) shall apply only with respect to benefits paid in months after the month in which such individual is notified by the Secretary in writing that alcoholism or drug addiction is a contributing factor material to the Secretary's determination and that such individual is therefore required to comply with the provisions of section 225(c) of such Act.
+Treatment requirement.—Paragraphs (1) through (4) of section 225(c) of the Social Security Act \[42 U.S.C. 425(c)(1)–(4)\] (added by this subsection) shall apply only with respect to benefits paid inmonths after the month in which such individual is notified by the Secretary in writing that alcoholism or drug addiction is a contributing factor material to the Secretary's determination and that such individual is therefore required to comply with the provisions of section 225(c) of such Act.
 
 &emsp;"(ii)
 

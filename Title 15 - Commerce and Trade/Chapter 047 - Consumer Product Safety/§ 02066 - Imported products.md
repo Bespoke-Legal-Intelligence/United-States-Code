@@ -40,7 +40,7 @@ Manufacturers of imported products shall be in compliance with all inspection an
 
 #### (h) Product surveillance program
 
-(1) The Commission shall establish and maintain a permanent product surveillance program, in cooperation with other appropriate Federal agencies, for the purpose of carrying out the Commission's responsibilities under this chapter and the other Acts administered by the Commission and preventing the entry of unsafe consumer products into the commerce of the United States.
+(1) The Commission shall establish and maintain a permanent product surveillance program,in cooperation with other appropriate Federal agencies, for the purpose of carrying out the Commission's responsibilities under this chapter and the other Acts administered by the Commission and preventing the entry of unsafe consumer products into the commerce of the United States.
 
 (2) The Commission may provide to the agencies with which it is cooperating under paragraph (1) such information, data, violator lists, test results, and other support, guidance, and documents as may be necessary or helpful for such agencies to cooperate with the Commission to carry out the product surveillance program under paragraph (1).
 
@@ -122,9 +122,9 @@ Pub. L. 116–260, div. FF, title XX, §2001, Dec. 27, 2020, 134 Stat. 3301, pro
 
 "(a)
 
-CPSC Surveillance Personnel During the COVID-19
+CPSC Surveillance Personnel During the COVID–19
 
-Pandemic.—For the duration of a public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) as a result of confirmed cases of 2019 novel coronavirus (COVID–19), including any renewal thereof, the Commission shall ensure, to the maximum extent feasible, that investigators are stationed at ports of entry to protect the public against unreasonable risk of injury from consumer products, with the goal of covering no fewer than 90 percent of all consumer products entering the United States that are risk-scored in the Risk Assessment Methodology system. The Commission shall consult with United States Customs and Border Protection, and other relevant agencies, including health and safety agencies, on methods to safely staff ports during the pandemic.
+Pandemic.—For the duration of a public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) as a result of confirmed cases of 2019 novel coronavirus\(COVID–19), including any renewal thereof, the Commission shall ensure, to the maximum extent feasible, that investigators are stationed at ports of entry to protect the public against unreasonable risk of injury from consumer products, with the goal of covering no fewer than 90 percent of all consumer products entering the United States that are risk-scored in the Risk Assessment Methodology system. The Commission shall consult with United States Customs and Border Protection, and other relevant agencies, including health and safety agencies, on methods to safely staff ports during the pandemic.
 
 "(b)
 
@@ -136,7 +136,7 @@ Report to Congress.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of enactment of this section \[Dec. 27, 2020\], the Commission shall transmit to Congress, and make publicly available, a study and report assessing the risk to consumers associated with the reduction in Commission port inspection activity during the COVID-19 pandemic and the targeting and screening of de minimis shipments.
+In general.—Not later than 180 days after the date of enactment of this section \[Dec. 27, 2020\], the Commission shall transmit to Congress, and make publicly available, a study and report assessing the risk to consumers associated with the reduction in Commission port inspection activity during the COVID–19 pandemic and the targeting and screening of de minimis shipments.
 
 &emsp;"(2)
 
@@ -144,9 +144,9 @@ Report requirements.—In the study and report, the Commission shall—
 
 &emsp;&emsp;"(A) identify—
 
-&emsp;&emsp;&emsp;"(i) the risks associated with the reduction in Commission port inspection activity during the COVID-19 pandemic;
+&emsp;&emsp;&emsp;"(i) the risks associated with the reduction in Commission port inspection activity during the COVID–19 pandemic;
 
-&emsp;&emsp;&emsp;"(ii) the extent to which the reduction in port inspection activity is linked to inadequate Commission resources or due to shortages of trained Commission staff due to the COVID-19 pandemic; and
+&emsp;&emsp;&emsp;"(ii) the extent to which the reduction in port inspection activity is linked to inadequate Commission resources or due to shortages of trained Commission staff due to the COVID–19 pandemic; and
 
 &emsp;&emsp;&emsp;"(iii) the steps the Commission has taken and plans to take to mitigate those risks, such as recalls, inspections of product inventory, consumer warnings, and other appropriate measures;
 
@@ -166,7 +166,7 @@ Definitions.—In this section—
 
 &emsp;"(1) the term 'Commission' means the Consumer Product Safety Commission;
 
-&emsp;"(2) the term 'de minimis shipments' means articles containing consumer products entering theUnited States under the de minimis value exemption in 19 U.S.C. 1321(a)(2)(C);
+&emsp;"(2) the term 'de minimis shipments' means articles containing consumer products entering the United States under the de minimis value exemption in 19 U.S.C. 1321(a)(2)(C);
 
 &emsp;"(3) the term 'ports of entry for de minimis shipments' means environments where de minimis shipments are processed, including express consignment carrier facilities, international mail facilities, and air cargo facilities; and
 

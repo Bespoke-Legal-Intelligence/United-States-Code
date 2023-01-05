@@ -34,7 +34,7 @@ If the Secretary mails a notice of a final partnership adjustment to any partner
 
 #### (d) Authority to rescind notice with partnership consent
 
-The Secretary may, with the consent of the partnership, rescind any notice of a partnershipadjustment mailed to such partnership. Any notice so rescinded shall not be treated as a notice of a partnership adjustment for purposes of this subchapter, and the taxpayer shall have no right to bring a proceeding under section 6234 with respect to such notice.
+The Secretary may, with the consent of the partnership, rescind any notice of a partnership adjustment mailed to such partnership. Any notice so rescinded shall not be treated as a notice of a partnership adjustment for purposes of this subchapter, and the taxpayer shall have no right to bring a proceeding under section 6234 with respect to such notice.
 
 (Added Pub. L. 114–74, title XI, §1101(c)(1), Nov. 2, 2015, 129 Stat. 632; amended Pub. L. 115–141, div. U, title II, §§201(c)(6), 206(h), Mar. 23, 2018, 132 Stat. 1173, 1179.)
 

@@ -78,7 +78,7 @@
 
 (2) Amounts deducted from payments to contractors under paragraph (1)(B) shall revert to the Treasury.
 
-(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, §§4–7, 13(a),Oct. 17, 1988, 102 Stat. 2457–2459, 2465; Pub. L. 102–190, div. A, title VIII, §842, Dec. 5, 1991, 105 Stat. 1449; Pub. L. 106–65, div. A, title X, §1009, Oct. 5, 1999, 113 Stat. 738; Pub. L. 116–92, div. A, title VIII, §873, Dec. 20, 2019, 133 Stat. 1527.)
+(Added Pub. L. 97–452, §1(18)(A), Jan. 12, 1983, 96 Stat. 2476; amended Pub. L. 100–496, §§4–7, 13(a), Oct. 17, 1988, 102 Stat. 2457–2459, 2465; Pub. L. 102–190, div. A, title VIII, §842, Dec. 5, 1991, 105 Stat. 1449; Pub. L. 106–65, div. A, title X, §1009, Oct. 5, 1999, 113 Stat. 738; Pub. L. 116–92, div. A, title VIII, §873, Dec. 20, 2019, 133 Stat. 1527.)
 
 Historical and Revision Notes
 
@@ -100,7 +100,7 @@ In the section, before clause (1), the words "The Director of the Office of Mana
 
 #### References in Text
 
-The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a)(3), is act June 10, 1930, ch. 436, 46 Stat. 531, as amended, which is classified generally to chapter 20A (§499a et seq.) of Title 7, Agriculture. Section 1(4) of the Act was redesignated section 1(b)(4) by Pub. L. 102–237, title X, §1011(1)(A), Dec. 13, 1991, 105 Stat. 1898, and is classified to section 499a(b)(4) of Title 7. For complete classification of this Act to the Code, see section 499r of Title 7 and Tables.
+The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a)(3), is act June 10, 1930, ch. 436, 46 Stat. 531, which is classified generally to chapter 20A (§499a et seq.) of Title 7, Agriculture. Section 1(4) of the Act was redesignated section 1(b)(4) by Pub. L. 102–237, title X, §1011(1)(A), Dec. 13, 1991, 105 Stat. 1898, and is classified to section 499a(b)(4) of Title 7. For complete classification of this Act to the Code, see section 499r of Title 7 and Tables.
 
 Section 3903(c) of this title, referred to in subsec. (a)(9), was redesignated section 3903(d) by Pub. L. 106–65, div. A, title X, §1009(1), Oct. 5, 1999, 113 Stat. 738.
 

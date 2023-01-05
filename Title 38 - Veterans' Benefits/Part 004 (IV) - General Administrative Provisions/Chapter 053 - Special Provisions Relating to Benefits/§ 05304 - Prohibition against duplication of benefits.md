@@ -2,7 +2,7 @@
 
 (a)(1) Except as provided in section 1414 of title 10 or to the extent that retirement pay is waived under other provisions of law, not more than one award of pension, compensation, emergency officers', regular, or reserve retirement pay, or initial award of naval pension granted after July 13, 1943, shall be made concurrently to any person based on such person's own service or concurrently to any person based on the service of any other person.
 
-(2) Notwithstanding the provisions of paragraph (1) of this subsection and of section 5305 ofthis title, pension under section 1521 or 1541 of this title may be paid to a person entitled to receive retired or retirement pay described in section 5305 of this title concurrently with such person's receipt of such retired or retirement pay if the annual amount of such retired or retirement pay is counted as annual income for the purposes of chapter 15 of this title.
+(2) Notwithstanding the provisions of paragraph (1) of this subsection and of section 5305 of this title, pension under section 1521 or 1541 of this title may be paid to a person entitled to receive retired or retirement pay described in section 5305 of this title concurrently with such person's receipt of such retired or retirement pay if the annual amount of such retired or retirement pay is counted as annual income for the purposes of chapter 15 of this title.
 
 (b)(1) Except as provided in paragraphs (2) and (3) of this subsection and in section 1521(i) of this title, the receipt of pension, compensation, or dependency and indemnity compensation by a surviving spouse, child, or parent on account of the death of any person, or receipt by any person of pension or compensation on account of such person's own service, shall not bar the payment of pension, compensation, or dependency and indemnity compensation on account of the death or disability of any other person.
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 88–664 effective Jan. 1, 1965, see section 11 of Pub. L. 
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–495, §2, June 8, 1960, 74 Stat. 163, provided that: "The amendment made by this Act \[amending this section\] shall apply only to cases where the deathof a parent occurs after the date of enactment of this Act \[June 8, 1960\]."
+Pub. L. 86–495, §2, June 8, 1960, 74 Stat. 163, provided that: "The amendment made by this Act \[amending this section\] shall apply only to cases where the death of a parent occurs after the date of enactment of this Act \[June 8, 1960\]."
 

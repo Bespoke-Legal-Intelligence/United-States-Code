@@ -6,5 +6,5 @@ Section, act Aug. 14, 1935, ch. 531, title XI, §1147A, as added Pub. L. 106–1
 
 #### Effective Date of Repeal
 
-Repeal effective Mar. 2, 2004, and effective with respect to overpayments under subchapters II, VIII, andXVI of this chapter that are outstanding on or after such date, see section 210(c) of Pub. L. 108–203, set out as an Effective Date of 2004 Amendment note under section 404 of this title.
+Repeal effective Mar. 2, 2004, and effective with respect to overpayments under subchapters II, VIII, and XVI of this chapter that are outstanding on or after such date, see section 210(c) of Pub. L. 108–203, set out as an Effective Date of 2004 Amendment note under section 404 of this title.
 

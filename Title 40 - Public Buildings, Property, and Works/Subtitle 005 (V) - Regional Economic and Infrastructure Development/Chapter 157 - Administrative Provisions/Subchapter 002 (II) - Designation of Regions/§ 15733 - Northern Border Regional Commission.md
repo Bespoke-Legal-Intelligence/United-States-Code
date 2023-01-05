@@ -30,7 +30,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 <b>2018</b>—Par. (2). Pub. L. 115–334, §6304(d)(1), inserted "Belknap," before "Carroll," and "Cheshire," before "Coos,".
 
-Par. (3). Pub. L. 115–334, §6304(d)(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "The counties of Cayuga, Clinton, Essex, Franklin, Fulton, Hamilton, Herkimer, Jefferson, Lewis, Madison, Oneida, Oswego, Seneca, and St. Lawrence in the State of New York."
+Par. (3). Pub. L. 115–334, §6304(d)(2), added par. (3) and struck out former par. (3). Prior to amendment, textread as follows: "The counties of Cayuga, Clinton, Essex, Franklin, Fulton, Hamilton, Herkimer, Jefferson, Lewis, Madison, Oneida, Oswego, Seneca, and St. Lawrence in the State of New York."
 
 Par. (4). Pub. L. 115–334, §6304(d)(3), inserted "Addison, Bennington," before "Caledonia,", "Chittenden," before "Essex,", and ", Rutland, Washington, Windham, and Windsor" before "in the State" and substituted "Orange," for "and".
 

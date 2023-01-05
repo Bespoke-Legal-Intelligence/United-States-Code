@@ -20,7 +20,7 @@
 
 &emsp;&emsp;If, for any taxable year—
 
-&emsp;&emsp;&emsp;(i) the sum of the foreign-derived intangible income and the global intangible low-taxed income amount otherwise taken into account by the domestic corporation under paragraph (1), exceeds
+&emsp;&emsp;&emsp;(i) the sum of the foreign-derived intangible income and the global intangiblelow-taxed income amount otherwise taken into account by the domestic corporation under paragraph (1), exceeds
 
 &emsp;&emsp;&emsp;(ii) the taxable income of the domestic corporation (determined without regard to this section),
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (ii) Services
 
-&emsp;&emsp;&emsp;If a taxpayer provides services to another person (other than a related party) located within the United States, such services shall not be treated as described in paragraph (4)(B) even if such other person uses such services in providing services which are so described.
+&emsp;&emsp;&emsp;If a taxpayer provides services to another person (other than a related party)located within the United States, such services shall not be treated as described in paragraph (4)(B) even if such other person uses such services in providing services which are so described.
 
 #### (C) Special rules with respect to related party transactions
 

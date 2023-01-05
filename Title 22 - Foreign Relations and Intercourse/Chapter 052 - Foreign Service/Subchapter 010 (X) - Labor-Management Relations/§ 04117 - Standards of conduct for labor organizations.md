@@ -20,7 +20,7 @@ The Department shall accord recognition only to a labor organization that is fre
 
 A labor organization may be required to furnish evidence of its freedom from corrupt influences opposed to basic democratic principles if there is reasonable cause to believe that—
 
-&emsp;(1) the organization has been suspended or expelled from, or is subject to other sanction by, a parent labor organization, or federation of organizations with which it has been affiliated, because it has demonstrated an unwillingness or inability to comply with governing requirements comparable in purpose to those required by subsection (a); or
+&emsp;(1) the organization has been suspended or expelled from, or is subject to other sanction by, a parent labor organization, or federationof organizations with which it has been affiliated, because it has demonstrated an unwillingness or inability to comply with governing requirements comparable in purpose to those required by subsection (a); or
 
 &emsp;(2) the organization is in fact subject to influences that would preclude recognition under this subchapter.
 
@@ -30,7 +30,7 @@ A labor organization which has or seeks recognition as a representative of emplo
 
 #### (d) Regulations; filing of complaints; cease and desist orders
 
-The Assistant Secretary of Labor shall prescribe such regulations as are necessary to carry out this section. Such regulations shall conform generally to the principles applied to labor organizations in the private sector. Complaints of violations of this section shall be filed with theAssistant Secretary. In any matter arising under this section, the Assistant Secretary may require a labor organization to cease and desist from violations of this section and require it to take such actions as the Assistant Secretary considers appropriate to carry out the policies of this section.
+The Assistant Secretary of Labor shall prescribe such regulations as are necessary to carry out this section. Such regulations shall conform generally to the principles applied to labor organizations in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary. In any matter arising under this section, the Assistant Secretary may require a labor organization to cease and desist from violations of this section and require it to take such actions as the Assistant Secretary considers appropriate to carry out the policies of this section.
 
 #### (e) Participation in labor organizations restricted
 

@@ -54,7 +54,7 @@ In carrying out the provisions of this chapter, the Secretary, or any Government
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in par. (21), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in par. (21), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### Amendments
 
@@ -72,7 +72,7 @@ Par. (20). Pub. L. 97–241, §304(d), added par. (20).
 
 Par. (10). Pub. L. 96–60, §204(b)(1), substituted "ten" for "five" years.
 
-Par. (14). Pub. L. 96–60, §204(b)(3), substituted a semicolon for ", when funds are appropriated therefor.".
+Par. (14). Pub. L. 96–60, §204(b)(3), substituted a semicolon for ", when funds are appropriated therefor."
 
 Pars. (15) to (19). Pub. L. 96–60, §204(b)(4), added pars. (15) to (19).
 

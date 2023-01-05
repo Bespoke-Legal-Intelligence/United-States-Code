@@ -6,7 +6,7 @@
 
 &emsp;The Secretary may make grants to, or enter into contracts with, an accredited public or nonprofit private hospital, school of medicine or osteopathic medicine, academically affiliated physician assistant training program, or a public or private nonprofit entity which the Secretary has determined is capable of carrying out such grant or contract—
 
-&emsp;&emsp;(A) to plan, develop, operate, or participate in an accredited professional training program, including an accredited residency or internship program in the field of family medicine, general internal medicine, or general pediatrics for medical students, interns, residents, or practicing physicians as defined by the Secretary;
+&emsp;&emsp;(A) to plan, develop, operate, or participate in an accredited professional training program, including an accredited residencyor internship program in the field of family medicine, general internal medicine, or general pediatrics for medical students, interns, residents, or practicing physicians as defined by the Secretary;
 
 &emsp;&emsp;(B) to provide need-based financial assistance in the form of traineeships and fellowships to medical students, interns, residents, practicing physicians, or other medical personnel, who are participants in any such program, and who plan to specialize or work in the practice of the fields defined in subparagraph (A);
 

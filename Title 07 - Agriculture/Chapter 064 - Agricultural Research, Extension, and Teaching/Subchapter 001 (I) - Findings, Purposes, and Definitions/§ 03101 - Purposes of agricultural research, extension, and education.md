@@ -68,5 +68,5 @@ Pub. L. 95–113, title XIV, §1401, Sept. 29, 1977, 91 Stat. 981, provided that
 
 #### Review of Agricultural Research Service
 
-Pub. L. 107–171, title VII, §7404, May 13, 2002, 116 Stat. 457, as amended by Pub. L. 108–11, title II, §2101(b), Apr. 16, 2003, 117 Stat. 589; Pub. L. 110–234, title VII, §7511(c)(7), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, §4(a), title VII, §7511(c)(7), June 18, 2008, 122 Stat. 1664, 2029, which provided for the establishment of a task force to review the Agricultural Research Service and to evaluate the merits of establishing one or more National Institutes related to food and agricultural science, was repealed by Pub. L. 115–334, title VII, §7506, Dec. 20, 2018, 132 Stat. 4823.
+Pub. L. 107–171, title VII, §7404, May 13, 2002, 116 Stat. 457, as amended by Pub. L. 108–11, title II, §2101(b), Apr. 16, 2003, 117 Stat. 589; Pub. L. 110–234, title VII, §7511(c)(7), May 22, 2008, 122 Stat. 1267; Pub. L. 110–246, §4(a), title VII, §7511(c)(7), June 18, 2008, 122 Stat. 1664,2029, which provided for the establishment of a task force to review the Agricultural Research Service and to evaluate the merits of establishing one or more National Institutes related to food and agricultural science, was repealed by Pub. L. 115–334, title VII, §7506, Dec. 20, 2018, 132 Stat. 4823.
 

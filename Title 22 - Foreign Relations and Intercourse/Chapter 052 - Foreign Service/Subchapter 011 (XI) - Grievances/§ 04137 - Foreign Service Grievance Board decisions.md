@@ -2,7 +2,7 @@
 
 #### (a) Record; findings of fact and statement of reasons
 
-Upon completion of its proceedings, the Board shall expeditiously decide the grievance on the basis of the record of proceedings. In each case the decision of the Board shall be in writing, and shall include findings of fact and a statement of the reasons for the decision of the Board.
+Upon completion of its proceedings, the Board shall expeditiously decide the grievance on thebasis of the record of proceedings. In each case the decision of the Board shall be in writing, and shall include findings of fact and a statement of the reasons for the decision of the Board.
 
 #### (b) Authority of Department upon finding of meritorious grievance
 
@@ -50,7 +50,7 @@ Except as provided in subsection (d), decisions of the Board under this subchapt
 
 (B) Whenever material is provided to the Committee or a Member thereof pursuant to paragraph (1), the Board shall, at the same time, provide a copy of all such material to the supervisor who is the subject of such material.
 
-(C) A supervisor who is the subject of records disclosed to the committee <sup>1</sup> pursuant to this subsection shall have the right to review such record and provide comments to the Committee concerning such record. Such comments shall be treated in a confidential manner.
+(C) A supervisor who is the subject of records disclosed to the committee <sup>1</sup> pursuant to this subsection shall have the right to review such record and provide comments to the Committeeconcerning such record. Such comments shall be treated in a confidential manner.
 
 #### (f) Alleged discrimination; substantive law to be applied
 
@@ -64,7 +64,7 @@ The Board shall, with respect to any grievance based on an alleged violation of 
 
 <b>1991</b>—Subsec. (f). Pub. L. 102–138 added subsec. (f).
 
-<b>1987</b>—Subsec. (d). Pub. L. 100–204, §181(a), (b), designated existing provisions as par. (1), inserted", tenure" after "promotion" in first sentence, and added pars. (2) and (3).
+<b>1987</b>—Subsec. (d). Pub. L. 100–204, §181(a), (b), designated existing provisions as par. (1), inserted ", tenure" after "promotion" in first sentence, and added pars. (2) and (3).
 
 Subsec. (e). Pub. L. 100–204, §182, added subsec. (e).
 

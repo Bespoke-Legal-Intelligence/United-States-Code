@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-No employer shall discharge or in any manner discriminate against any employee with respect to his or her compensation, terms, conditions, or other privileges of employment because the employee (or an individual acting at the request of the employee) has—
+No employer shall discharge or in any manner discriminate against any employee with respectto his or her compensation, terms, conditions, or other privileges of employment because the employee (or an individual acting at the request of the employee) has—
 
 &emsp;(1) received a credit under section 36B of title 26 or a subsidy under section 18071 of title 42; <sup>1</sup>
 
@@ -12,7 +12,7 @@ No employer shall discharge or in any manner discriminate against any employee w
 
 &emsp;(4) assisted or participated, or is about to assist or participate, in such a proceeding; or
 
-&emsp;(5) objected to, or refused to participate in, any activity, policy, practice, or assigned taskthat the employee (or other such person) reasonably believed to be in violation of any provision of this title <sup>1</sup> (or amendment), or any order, rule, regulation, standard, or ban under this title <sup>1</sup> (or amendment).
+&emsp;(5) objected to, or refused to participate in, any activity, policy, practice, or assigned task that the employee (or other such person) reasonably believed to be in violation of any provision of this title <sup>1</sup> (or amendment), or any order, rule, regulation, standard, or ban under this title <sup>1</sup> (or amendment).
 
 #### (b) Complaint procedure
 

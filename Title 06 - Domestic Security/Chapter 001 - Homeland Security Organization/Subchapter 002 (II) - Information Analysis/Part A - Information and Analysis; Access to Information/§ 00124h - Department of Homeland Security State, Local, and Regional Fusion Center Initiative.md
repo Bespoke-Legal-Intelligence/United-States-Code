@@ -166,7 +166,7 @@ In order to fulfill the objectives described under subsection (d), each officer 
 
 #### (2) Participation
 
-&emsp;Nothing in this section shall be construed to require a State, local, or regional governmentor entity to accept the assignment of officers or intelligence analysts of the Department into the fusion center of that State, locality, or region.
+&emsp;Nothing in this section shall be construed to require a State, local, or regional government or entity to accept the assignment of officers or intelligence analysts of the Department into the fusion center of that State, locality, or region.
 
 #### (i) Guidelines
 
@@ -266,5 +266,5 @@ Fusion Center Defined.—In this section, the term 'fusion center' has the meani
 
 #### Training for Predeployed Officers and Analysts
 
-Pub. L. 110–53, title V, §511(b), Aug. 3, 2007, 121 Stat. 323, provided that: "An officer or analyst assigned to a fusion center by the Secretary of Homeland Security before the date of the enactment of this Act \[Aug. 3, 2007\] shall undergo the training described in section 210A(c)(4)(A) of the Homeland Security Act of 2002 \[6 U.S.C. 124h(c)(4)(A)\], as added by subsection (a), by not later than 6 months after such date."
+Pub. L. 110–53, title V, §511(b), Aug. 3, 2007, 121 Stat. 323, provided that: "An officer or analyst assigned to afusion center by the Secretary of Homeland Security before the date of the enactment of this Act \[Aug. 3, 2007\] shall undergo the training described in section 210A(c)(4)(A) of the Homeland Security Act of 2002 \[6 U.S.C. 124h(c)(4)(A)\], as added by subsection (a), by not later than 6 months after such date."
 

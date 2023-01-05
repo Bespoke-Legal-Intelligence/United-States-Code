@@ -48,7 +48,7 @@ Pub. L. 105–134, §1(a), Dec. 2, 1997, 111 Stat. 2570, provided that: "This Ac
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–440, title I, §101, Nov. 2, 1994, 108 Stat. 4615, provided that: "This title \[enacting sections 26101to 26105 of this title, renumbering former sections 26101 and 26102 of this title as 28101 and 28102 of this title, respectively, and enacting provisions set out as notes under section 26101 of this title and section 838 of Title 45, Railroads\] may be cited as the 'Swift Rail Development Act of 1994'."
+Pub. L. 103–440, title I, §101, Nov. 2, 1994, 108 Stat. 4615, provided that: "This title \[enacting sections 26101 to 26105 of this title, renumbering former sections 26101 and 26102 of this title as 28101 and 28102 of this title, respectively, and enacting provisions set out as notes under section 26101 of this title and section 838 of Title 45, Railroads\] may be cited as the 'Swift Rail Development Act of 1994'."
 
 Pub. L. 103–440, title II, §201, Nov. 2, 1994, 108 Stat. 4619, provided that: "This title \[enacting sections 20145 to 20151 and 21108 of this title, amending sections 103, 20103, 20111, 20116, 20117, 20133, 20142, and 21303 of this title, and enacting provisions set out as a note under section 11504 of this title\] may be cited as the 'Federal Railroad Safety Authorization Act of 1994'."
 
@@ -162,7 +162,7 @@ Implementation.—The Secretary shall integrate, as appropriate, the recommendat
 
 #### Railroad Safety Strategy
 
-Pub. L. 110–432, div. A, title I, §102, Oct. 16, 2008, 122 Stat. 4852, as amended by Pub. L. 114–94, div. A, titleXI, §11316(j)(3), Dec. 4, 2015, 129 Stat. 1677, provided that:
+Pub. L. 110–432, div. A, title I, §102, Oct. 16, 2008, 122 Stat. 4852, as amended by Pub. L. 114–94, div. A, title XI, §11316(j)(3), Dec. 4, 2015, 129 Stat. 1677, provided that:
 
 "(a)
 
@@ -204,7 +204,7 @@ Report to congress.—Beginning in 2009, not later than November 1 of each year,
 
 #### Reports on Statutory Mandates and Recommendations
 
-Pub. L. 110–432, div. A, title I, §106, Oct. 16, 2008, 122 Stat. 4859, provided that: "Not later than December 31, 2008, and annually thereafter, the Secretary shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation on the specific actions taken to implement unmet statutory mandates regarding railroad safety and each open railroad safety recommendation made by the National Transportation Safety Board or the Department's Inspector General."
+Pub. L. 110–432, div. A, title I, §106, Oct. 16, 2008, 122 Stat. 4859, provided that: "Not later than December 31, 2008, and annually thereafter, the Secretary shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation on the specific actions taken to implement unmet statutory mandates regarding railroad safetyand each open railroad safety recommendation made by the National Transportation Safety Board or the Department's Inspector General."
 
 \[For definitions of "Secretary", "railroad", and "Department", as used in section 106 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 

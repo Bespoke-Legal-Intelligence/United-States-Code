@@ -72,7 +72,7 @@ The Administrator of the Environmental Protection Agency, in coordination with t
 
 #### (c) Transparency
 
-The Administrator of the Environmental Protection Agency shall, to the extent practicable and not less than annually, estimate and make available to the public the relative water and energy savings attributable to the use of WaterSense-labeled products, buildings, landscapes, facilities, processes, and services.
+The Administrator of the Environmental Protection Agency shall, to the extent practicableand not less than annually, estimate and make available to the public the relative water and energy savings attributable to the use of WaterSense-labeled products, buildings, landscapes, facilities, processes, and services.
 
 #### (d) Distinction of authorities
 

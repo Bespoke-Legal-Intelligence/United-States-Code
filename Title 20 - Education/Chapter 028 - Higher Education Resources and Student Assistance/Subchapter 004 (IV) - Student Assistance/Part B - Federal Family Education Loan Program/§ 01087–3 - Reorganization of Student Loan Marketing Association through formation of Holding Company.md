@@ -18,7 +18,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (1) In general
 
-&emsp;Except as specifically provided in this section, until the dissolution date the Association shall continue to have all of the rights, privileges and obligations set forth in, and shall be subject to all of the limitations and restrictions of, section 1087–2 of this title, and the Association shall continue to carry out the purposes of such section. The Holding Company and any subsidiary of the Holding Company (other than the Association) shall not be entitled to any of the rights, privileges, and obligations, and shall not be subject to thelimitations and restrictions, applicable to the Association under section 1087–2 of this title, except as specifically provided in this section. The Holding Company and any subsidiary of the Holding Company (other than the Association or a subsidiary of the Association) shall not purchase loans insured under this chapter until such time as the Association ceases acquiring such loans, except that the Holding Company may purchase such loans if the Association is merely continuing to acquire loans as a lender of last resort pursuant to section 1087–2(q) of this title or under an agreement with the Secretary described in paragraph (6).
+&emsp;Except as specifically provided in this section, until the dissolution date the Association shall continue to have all of the rights, privileges and obligations set forth in, and shall be subject to all of the limitations and restrictions of, section 1087–2 of this title, and the Association shall continue to carry out the purposes of such section. The Holding Company and any subsidiary of the Holding Company (other than the Association) shall not be entitled to any of the rights, privileges, and obligations, and shall not be subject to the limitations and restrictions, applicable to the Association under section 1087–2 of this title, except as specifically provided in this section. The Holding Company and any subsidiary of the Holding Company (other than the Association or a subsidiary of the Association) shall not purchase loans insured under this chapter until such time as the Association ceases acquiring such loans, except that the Holding Company may purchase such loans if the Association is merely continuing to acquire loans as a lender of last resort pursuant to section 1087–2(q) of this title or under an agreement with the Secretary described in paragraph (6).
 
 #### (2) Transfer of certain property
 
@@ -44,7 +44,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (4) Dividends
 
-&emsp;The Association may pay dividends in the form of cash or noncash distributions so long as at the time of the declaration of such dividends, after giving effect to the payment of such dividends as of the date of such declaration by the Board of Directors of the Association, the Association's capital would be in compliance with the capital standards and requirements set forth in section 1087–2(r) of this title. If, at any time after the reorganization effective date, the Association fails to comply with such capital standards, the Holding Company shall transfer with due diligence to the Association additional capital in such amounts as are necessary to ensure that the Association again complies with the capital standards.
+&emsp;The Association may pay dividends in the form of cash or noncash distributions so long as at the time of the declaration of such dividends, after giving effect to the payment of such dividends as of the date of such declaration by the Board of Directors of the Association, the Association's capital would be incompliance with the capital standards and requirements set forth in section 1087–2(r) of this title. If, at any time after the reorganization effective date, the Association fails to comply with such capital standards, the Holding Company shall transfer with due diligence to the Association additional capital in such amounts as are necessary to ensure that the Association again complies with the capital standards.
 
 #### (5) Certification prior to dividend
 
@@ -70,7 +70,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (7) Issuance of debt obligations during the transition period; attributes of debt obligations
 
-&emsp;After the reorganization effective date, the Association shall not issue debt obligations which mature later than September 30, 2008, except in connection with serving as a lender-of-last-resort pursuant to section 1087–2(q) of this title or with purchasing loans under an agreement with the Secretary as described in paragraph (6). Nothing in this section shallmodify the attributes accorded the debt obligations of the Association by section 1087–2 of this title, regardless of whether such debt obligations are incurred prior to, or at any time following, the reorganization effective date or are transferred to a trust in accordance with subsection (d).
+&emsp;After the reorganization effective date, the Association shall not issue debt obligations which mature later than September 30, 2008, except in connection with serving as a lender-of-last-resort pursuant to section 1087–2(q) of this title or with purchasing loans under an agreement with the Secretary as described in paragraph (6). Nothing in this section shall modify the attributes accorded the debt obligations of the Association by section 1087–2 of this title, regardless of whether such debt obligations are incurred prior to, or at any time following, the reorganization effective date or are transferred to a trust in accordance with subsection (d).
 
 #### (8) Monitoring of safety and soundness
 
@@ -134,7 +134,7 @@ In the event the shareholders of the Association approve the plan of reorganizat
 
 #### (G) Definition
 
-&emsp;&emsp;For purposes of this paragraph, the term "associated person" means any person, otherthan a natural person, who is directly or indirectly controlling, controlled by, or under common control with, the Association.
+&emsp;&emsp;For purposes of this paragraph, the term "associated person" means any person, other than a natural person, who is directly or indirectly controlling, controlled by, or under common control with, the Association.
 
 #### (9) Issuance of stock warrants
 
@@ -172,7 +172,7 @@ In the event the shareholders of the Association approve a plan of reorganizatio
 
 #### (4) Transfer of remaining assets
 
-&emsp;After compliance with paragraphs (1) and (3), any remaining assets of the trust shall betransferred to the Holding Company or any subsidiary of the Holding Company, as directed by the Holding Company.
+&emsp;After compliance with paragraphs (1) and (3), any remaining assets of the trust shall be transferred to the Holding Company or any subsidiary of the Holding Company, as directed by the Holding Company.
 
 #### (e) Operation of Holding Company
 
@@ -244,7 +244,7 @@ For purposes of this section:
 
 &emsp;&emsp;(C) Investment securities owned by the Association.
 
-&emsp;&emsp;(D) Any instruments, assets, or agreements described in section 1087–2(d) of this title (including, without limitation, all student loans and agreements relating to the purchase and sale of student loans, forwardpurchase and lending commitments, warehousing advances, academic facilities obligations, letters of credit, standby bond purchase agreements, liquidity agreements, and student loan revenue bonds or other loans).
+&emsp;&emsp;(D) Any instruments, assets, or agreements described in section 1087–2(d) of this title (including, without limitation, all student loans and agreements relating to the purchase and sale of student loans, forward purchase and lending commitments, warehousing advances, academic facilities obligations, letters of credit, standby bond purchase agreements, liquidity agreements, and student loan revenue bonds or other loans).
 
 &emsp;&emsp;(E) Except as specifically prohibited by this section or section 1087–2 of this title, any other nonmaterial assets or liabilities of the Association which the Association's Board of Directors determines to be necessary or appropriate to the Association's operations.
 

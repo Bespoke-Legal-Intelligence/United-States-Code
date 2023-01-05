@@ -5,7 +5,7 @@
 | Sec. | Art. | &nbsp; |
 | :--- | :---: | ---: |
 | [859\.](%C2%A7%2000859%20-%20Art.%2059.%20Error%20of%20law%3B%20lesser%20included%20offense.md) | 59\. | Error of law; lesser included offense. |
-| [860\.](%C2%A7%2000860%20-%20Art%2060.%20Post-trial%20processing%20in%20general%20and%20special%20courts-martial.md) | 60\. | Post-trial processing in general and special courts-martial. |
+| [860\.](%C2%A7%2000860%20-%20Art.%2060.%20Post-trial%20processing%20in%20general%20and%20special%20courts-martial.md) | 60\. | Post-trial processing in general and special courts-martial. |
 | [860a.](%C2%A7%2000860a%20-%20Art.%2060a.%20Limited%20authority%20to%20act%20on%20sentence%20in%20specified%20post-trial%20circumstances.md) | 60a. | Limited authority to act on sentence in specified post-trial circumstances. |
 | [860b.](%C2%A7%2000860b%20-%20Art.%2060b.%20Post-trial%20actions%20in%20summary%20courts-martial%20and%20certain%20general%20and%20special%20courts-martial.md) | 60b. | Post-trial actions in summary courts-martial and certain general and special courts-martial. |
 | [860c.](%C2%A7%2000860c%20-%20Art.%2060c.%20Entry%20of%20judgment.md) | 60c. | Entry of judgment. |
@@ -41,7 +41,7 @@ Pub. L. 114–328, div. E, title LXIII, §5541(6)(B), (C), Dec. 23, 2016, 130 St
 
 Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added items 860a to 860c and substituted "Post-trial processing in general and special courts-martial" for "Action by the convening authority" in item 860.
 
-Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, which directed amendment of analysis by striking out item "61" and inserting item 861, was amended by striking out item 861 "Waiver or withdrawal of appeal" and adding new item 861 to reflect the probable intent of Congress.
+Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, which directed amendment of analysis by striking out item "61" and inserting item 861, was amended bystriking out item 861 "Waiver or withdrawal of appeal" and adding new item 861 to reflect the probable intent of Congress.
 
 <b>1996</b>—Pub. L. 104–106, div. A, title XI, §1133(a)(2), Feb. 10, 1996, 110 Stat. 466, added item 876b.
 
@@ -61,7 +61,7 @@ Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00859 - Art. 59. Error of law; lesser included offense](%C2%A7%2000859%20-%20Art.%2059.%20Error%20of%20law%3B%20lesser%20included%20offense.md)
-- [&sect; 00860 - Art 60. Post-trial processing in general and special courts-martial](%C2%A7%2000860%20-%20Art%2060.%20Post-trial%20processing%20in%20general%20and%20special%20courts-martial.md)
+- [&sect; 00860 - Art. 60. Post-trial processing in general and special courts-martial](%C2%A7%2000860%20-%20Art.%2060.%20Post-trial%20processing%20in%20general%20and%20special%20courts-martial.md)
 - [&sect; 00860a - Art. 60a. Limited authority to act on sentence in specified post-trial circumstances](%C2%A7%2000860a%20-%20Art.%2060a.%20Limited%20authority%20to%20act%20on%20sentence%20in%20specified%20post-trial%20circumstances.md)
 - [&sect; 00860b - Art. 60b. Post-trial actions in summary courts-martial and certain general and special courts-martial](%C2%A7%2000860b%20-%20Art.%2060b.%20Post-trial%20actions%20in%20summary%20courts-martial%20and%20certain%20general%20and%20special%20courts-martial.md)
 - [&sect; 00860c - Art. 60c. Entry of judgment](%C2%A7%2000860c%20-%20Art.%2060c.%20Entry%20of%20judgment.md)

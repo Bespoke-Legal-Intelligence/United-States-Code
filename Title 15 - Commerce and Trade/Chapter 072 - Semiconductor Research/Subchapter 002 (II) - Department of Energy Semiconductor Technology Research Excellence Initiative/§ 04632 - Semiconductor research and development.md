@@ -58,7 +58,7 @@ There is hereby created in the executive branch of the Government an independent
 
 (B) The Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, the Director of the Office of Science and Technology Policy, and the Director of the National Science Foundation, or their designees, shall serve as members of the Committee.
 
-(C) The President, acting through the Director of the Office of Science and Technology Policy, shall appoint, as additional members of the Committee, 4 members from outside the Federal Government who are eminent in the semiconductor industry, and 4 members from outside theFederal Government who are eminent in the fields of technology, defense, and economic development.
+(C) The President, acting through the Director of the Office of Science and Technology Policy, shall appoint, as additional members of the Committee, 4 members from outside the Federal Government who are eminent in the semiconductor industry, and 4 members from outside the Federal Government who are eminent in the fields of technology, defense, and economic development.
 
 (D) One of the members appointed under subparagraph (C), as designated by the President at the time of appointment, shall be chairman of the Committee.
 
@@ -94,5 +94,5 @@ For termination, effective May 15, 2000, of provisions in subsec. (e)(5) of this
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 

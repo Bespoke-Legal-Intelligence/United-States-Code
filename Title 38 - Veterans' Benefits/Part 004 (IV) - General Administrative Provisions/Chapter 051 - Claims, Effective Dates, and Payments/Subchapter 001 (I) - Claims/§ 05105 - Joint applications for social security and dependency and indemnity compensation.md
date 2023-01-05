@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 112–154, §503(2), substituted "on any document indicatin
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–296, §108(k)(1), substituted "Commissioner of Social Security" for "Secretary of Health and Human Services".
 
-Subsec. (b). Pub. L. 103–296, §108(k), substituted "Commissioner of Social Security" for "Secretary of Health and Human Services" in two places and amended second sentence generally. Prior to amendment, second sentence read as follows: "A copy of each such application filed with either Secretary, together with any additional information and supporting documents (orcertifications thereof) which may have been received by that Secretary with such application, and which may be needed by the other Secretary in connection therewith, shall be transmitted by the Secretary receiving the application to the other Secretary."
+Subsec. (b). Pub. L. 103–296, §108(k), substituted "Commissioner of Social Security" for "Secretary of Health and Human Services" in two places and amended second sentence generally. Prior to amendment, second sentence read as follows: "A copy of each such application filed with either Secretary, together with any additional information and supporting documents (or certifications thereof) which may have been received by that Secretary with such application, and which may be needed by the other Secretary in connection therewith, shall be transmitted by the Secretary receiving the application to the other Secretary."
 
 <b>1991</b>—Pub. L. 102–40, §402(b)(1), renumbered section 3005 of this title as this section.
 

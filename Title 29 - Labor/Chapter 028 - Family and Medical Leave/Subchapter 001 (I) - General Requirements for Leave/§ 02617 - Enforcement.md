@@ -22,7 +22,7 @@
 
 #### (2) Right of action
 
-&emsp;An action to recover the damages or equitable relief prescribed in paragraph (1) may be maintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees for and in behalf of—
+&emsp;An action to recover the damages or equitable relief prescribed in paragraph (1) may bemaintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees for and in behalf of—
 
 &emsp;&emsp;(A) the employees; or
 

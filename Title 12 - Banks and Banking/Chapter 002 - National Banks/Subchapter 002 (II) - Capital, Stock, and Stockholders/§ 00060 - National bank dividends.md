@@ -6,7 +6,7 @@ Subject to subsection (b), the directors of any national bank may declare a divi
 
 #### (b) Approval required under certain circumstances
 
-A national bank may not declare and pay dividends in any year in excess of an amount equal to the sum of the total of the net income of the bank for that year and the retained net income of the bank for the preceding 2 years, minus the sum of any transfers required by the Comptroller of the Currency and any transfers required to be made to a fund for the retirement of any preferred stock, unless the Comptroller of the Currency approves the declaration and payment of dividends in excess of such amount.
+A national bank may not declare and pay dividends in any year in excess of an amount equal to the sum of the total of the net income of the bank for that year and the retained net incomeof the bank for the preceding 2 years, minus the sum of any transfers required by the Comptroller of the Currency and any transfers required to be made to a fund for the retirement of any preferred stock, unless the Comptroller of the Currency approves the declaration and payment of dividends in excess of such amount.
 
 (R.S. §5199; Aug. 23, 1935, ch. 614, title III, §315, 49 Stat. 712; Pub. L. 86–230, §21(a), Sept. 8, 1959, 73 Stat. 465; Pub. L. 103–325, title VI, §602(h)(2), Sept. 23, 1994, 108 Stat. 2294; Pub. L. 109–351, title III, §302(a), Oct. 13, 2006, 120 Stat. 1970.)
 

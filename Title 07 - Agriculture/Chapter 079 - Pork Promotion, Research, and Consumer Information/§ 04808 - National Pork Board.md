@@ -32,7 +32,7 @@
 
 &emsp;(G) employ a staff and conduct routine business.
 
-(2) The Board shall prepare and submit to the Secretary, for the approval of the Secretary, a budget for each fiscal year of anticipated expenses and disbursements of the Board in the administration of the order, including the projected cost of—
+(2) The Board shall prepare and submit to the Secretary, for the approval of the Secretary, abudget for each fiscal year of anticipated expenses and disbursements of the Board in the administration of the order, including the projected cost of—
 
 &emsp;(A) any promotion, research or consumer information plan or project to be conducted by the Board directly or by way of contract or agreement; and
 

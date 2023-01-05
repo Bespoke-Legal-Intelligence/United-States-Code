@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established an Environmental Education and Training Program. The purposeof the program shall be to train educational professionals in the development and delivery of environmental education and training programs and studies.
+There is hereby established an Environmental Education and Training Program. The purpose of the program shall be to train educational professionals in the development and delivery of environmental education and training programs and studies.
 
 #### (b) Functions and activities
 
@@ -16,7 +16,7 @@ The functions and activities of the program shall include, at a minimum—
 
 &emsp;(4) sponsorship and management of international exchanges of teachers and other educational professionals between the United States, Canada, and Mexico involved in environmental programs and issues;
 
-&emsp;(5) maintenance or support of a library of environmental education materials, information, literature, and technologies, with electronic as well as hard copy accessibility;
+&emsp;(5) maintenance or support of a library of environmental education materials, information,literature, and technologies, with electronic as well as hard copy accessibility;
 
 &emsp;(6) evaluation and dissemination of environmental education materials, training methods, and related programs;
 

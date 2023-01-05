@@ -1,6 +1,6 @@
 ### §7691. Establishment
 
-As part of the Educational Assistance Program, the Secretary may carry out a student loan repayment program under section 5379 oftitle 5. The program shall be known as the Department of Veterans Affairs Specialty Education Loan Repayment Program (in this chapter referred to as the "Specialty Education Loan Repayment Program").
+As part of the Educational Assistance Program, the Secretary may carry out a student loan repayment program under section 5379 of title 5. The program shall be known as the Department of Veterans Affairs Specialty Education Loan Repayment Program (in this chapter referred to as the "Specialty Education Loan Repayment Program").
 
 (Added Pub. L. 115–182, title III, §303(a), June 6, 2018, 132 Stat. 1464.)
 

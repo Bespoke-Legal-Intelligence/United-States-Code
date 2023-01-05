@@ -18,7 +18,7 @@
 
 #### (B) Use of funds
 
-&emsp;&emsp;Sums allotted to the States under this section shall be used to pay for the Federal share of the cost of carrying out projects in accordance with State plans approved under section 15024 of this title for the provision under such plans of services for individuals with developmental disabilities.
+&emsp;&emsp;Sums allotted to the States under this section shall be used to pay for the Federalshare of the cost of carrying out projects in accordance with State plans approved under section 15024 of this title for the provision under such plans of services for individuals with developmental disabilities.
 
 #### (2) Adjustments
 
@@ -82,7 +82,7 @@ If a State plan approved in accordance with section 15024 of this title provides
 
 #### (1) In general
 
-&emsp;If the Secretary determines that an amount of an allotment to a State for a period (of a fiscal year or longer) will not be required by the State during the period for the purpose for which the allotment was made, the Secretary may reallot the amount.
+&emsp;If the Secretary determines that an amount of an allotment to a State for a period (of a fiscal year or longer) will not be required bythe State during the period for the purpose for which the allotment was made, the Secretary may reallot the amount.
 
 #### (2) Timing
 

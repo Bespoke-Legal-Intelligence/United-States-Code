@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to the provisions of this chapter, a person who is not the owner of apatent may file with the Office a petition to institute an inter partes review of the patent. The Director shall establish, by regulation, fees to be paid by the person requesting the review, in such amounts as the Director determines to be reasonable, considering the aggregate costs of the review.
+In General.—Subject to the provisions of this chapter, a person who is not the owner of a patent may file with the Office a petition to institute an inter partes review of the patent. The Director shall establish, by regulation, fees to be paid by the person requesting the review, in such amounts as the Director determines to be reasonable, considering the aggregate costs of the review.
 
 (b)
 
@@ -64,5 +64,5 @@ Pub. L. 112–274, §1(d)(1), Jan. 14, 2013, 126 Stat. 2456, provided that: "Sec
 
 #### Report to Congress
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle F, §4606\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, required the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office to submit to Congress a report on possible inequities of certain inter partes reexamination proceedings no later than 5 years after Nov. 29, 1999.
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle F, §4606\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, requiredthe Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office to submit to Congress a report on possible inequities of certain inter partes reexamination proceedings no later than 5 years after Nov. 29, 1999.
 

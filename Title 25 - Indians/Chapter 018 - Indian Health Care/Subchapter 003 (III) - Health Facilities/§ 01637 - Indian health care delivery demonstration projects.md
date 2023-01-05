@@ -12,7 +12,7 @@
 
 #### (2) Authority
 
-&emsp;The Secretary, acting through the Service, is authorized to carry out, or to enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act\(25 U.S.C. 450 et seq.) <sup>2</sup> with Indian tribes or tribal organizations to carry out, health care delivery demonstration projects that—
+&emsp;The Secretary, acting through the Service, is authorized to carry out, or to enter into contracts or compacts under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>2</sup> with Indian tribes or tribal organizations to carry out, health care delivery demonstration projects that—
 
 &emsp;&emsp;(A) test alternative means of delivering health care and services to Indians through facilities; or
 
@@ -124,7 +124,7 @@ For purposes of subsection (c), the Secretary, in evaluating facilities operated
 
 The Secretary shall ensure that the planning, design, construction, renovation, and expansion needs of Service and non-Service facilities that are the subject of a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>2</sup> for health services are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
 
-(Pub. L. 94–437, title III, §307, as added Pub. L. 101–630, title V, §504, Nov. 28, 1990, 104 Stat. 4562; amended Pub. L. 102–573, title III, §§304, 307(b)(2), title VII, §701(c)(2), title IX, §902(4)(A), Oct. 29, 1992, 106 Stat. 4562, 4564, 4572, 4591; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title III, §307, as added Pub. L. 101–630, title V, §504, Nov. 28, 1990, 104 Stat. 4562;amended Pub. L. 102–573, title III, §§304, 307(b)(2), title VII, §701(c)(2), title IX, §902(4)(A), Oct. 29, 1992, 106 Stat. 4562, 4564, 4572, 4591; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### <b>Editorial Notes</b>
 

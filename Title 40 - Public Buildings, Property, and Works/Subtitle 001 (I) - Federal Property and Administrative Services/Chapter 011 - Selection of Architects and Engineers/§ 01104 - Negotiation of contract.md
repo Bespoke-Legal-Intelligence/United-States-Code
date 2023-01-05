@@ -6,7 +6,7 @@ In General.—The agency head shall negotiate a contract for architectural and e
 
 (b)
 
-Order of Negotiation.—The agency head shall attempt to negotiate a contract, as provided in subsection (a), with the most highly qualified firm selected under section 1103 of this title. If the agency head is unable to negotiate a satisfactory contract with the firm, the agency head shall formally terminate negotiationsand then undertake negotiations with the next most qualified of the selected firms, continuing the process until an agreement is reached. If the agency head is unable to negotiate a satisfactory contract with any of the selected firms, the agency head shall select additional firms in order of their competence and qualification and continue negotiations in accordance with this section until an agreement is reached.
+Order of Negotiation.—The agency head shall attempt to negotiate a contract, as provided in subsection (a), with the most highly qualified firm selected under section 1103 of this title. If the agency head is unable to negotiate a satisfactory contract with the firm, the agency head shall formally terminate negotiations and then undertake negotiations with the next most qualified of the selected firms, continuing the process until an agreement is reached. If the agency head is unable to negotiate a satisfactory contract with any of the selected firms, the agency head shall select additional firms in order of their competence and qualification and continue negotiations in accordance with this section until an agreement is reached.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1130.)
 

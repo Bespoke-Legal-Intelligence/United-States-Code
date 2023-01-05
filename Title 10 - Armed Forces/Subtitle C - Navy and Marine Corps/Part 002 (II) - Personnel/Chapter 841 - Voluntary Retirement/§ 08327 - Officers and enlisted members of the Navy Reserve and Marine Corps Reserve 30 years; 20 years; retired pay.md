@@ -46,7 +46,7 @@ Subsecs. (a), (c). Pub. L. 109–163, §515(b)(1)(I), substituted "Navy Reserve"
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–132 substituted "of the grade in which retired" for "to which he would be entitled if on active duty" after "50 percent of the basic pay".
 
-<b>1958</b>—Subsec. (e). Pub. L. 85–583 entitled eligible members of Naval Reserve or Marine Corps Reserve toelect to transfer to Fleet Reserve or Fleet Marine Corps Reserve.
+<b>1958</b>—Subsec. (e). Pub. L. 85–583 entitled eligible members of Naval Reserve or Marine Corps Reserve to elect to transfer to Fleet Reserve or Fleet Marine Corps Reserve.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -116,3 +116,9 @@ Before the initial peer support counseling session of a peer support participant
 
 (Pub. L. 117–60, §2, Nov. 18, 2021, 135 Stat. 1470.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of Pub. L. 117–60, which is classified to this chapter, as the "Confidentiality Opportunities for Peer Support Counseling Act" and also as the "COPS Counseling Act", see section 1 of Pub. L. 117–60, set out as a Short Title of 2021 Amendment note under section 10101 of this title.
+

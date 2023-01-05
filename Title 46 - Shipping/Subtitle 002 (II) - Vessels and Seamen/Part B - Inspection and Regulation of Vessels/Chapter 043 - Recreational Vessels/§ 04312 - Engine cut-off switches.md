@@ -96,7 +96,7 @@ Subsecs. (b) to (e). Pub. L. 116–283, §8316(a), added subsec. (b) and redesig
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 116–283 effective 90 days after Jan. 1, 2021, unless the Commandant of the Coast Guard, prior to the date that is 90 days after Jan. 1, 2021, determines that the use requirement enacted in section 8316(a) of Pub. L. 116–283 (amending this section) would not promote recreational boating safety. See section 8316(c) of Pub. L. 116–283, set out as a note under section 4311 of this title.
+Amendment by Pub. L. 116–283 effective 90 days after Jan. 1, 2021, unless the Commandant of the CoastGuard, prior to the date that is 90 days after Jan. 1, 2021, determines that the use requirement enacted in section 8316(a) of Pub. L. 116–283 (amending this section) would not promote recreational boating safety. See section 8316(c) of Pub. L. 116–283, set out as a note under section 4311 of this title.
 
 #### Effective Date
 

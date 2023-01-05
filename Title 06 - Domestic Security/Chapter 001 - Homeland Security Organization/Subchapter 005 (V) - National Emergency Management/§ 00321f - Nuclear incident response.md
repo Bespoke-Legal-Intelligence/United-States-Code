@@ -8,7 +8,7 @@ At the direction of the Secretary (in connection with an actual or threatened te
 
 Nothing in this subchapter shall be construed to limit the ordinary responsibility of the Secretary of Energy and the Administrator of the Environmental Protection Agency for organizing, training, equipping, and utilizing their respective entities in the Nuclear Incident Response Team, or (subject to the provisions of this subchapter) from exercising direction, authority, and control over them when they are not operating as a unit of the Department.
 
-(Pub. L. 107–296, title V, §517, formerly §504, Nov. 25, 2002, 116 Stat. 2213; renumbered §517, Pub. L.109–295, title VI, §611(6), Oct. 4, 2006, 120 Stat. 1395.)
+(Pub. L. 107–296, title V, §517, formerly §504, Nov. 25, 2002, 116 Stat. 2213; renumbered §517, Pub. L. 109–295, title VI, §611(6), Oct. 4, 2006, 120 Stat. 1395.)
 
 #### <b>Editorial Notes</b>
 

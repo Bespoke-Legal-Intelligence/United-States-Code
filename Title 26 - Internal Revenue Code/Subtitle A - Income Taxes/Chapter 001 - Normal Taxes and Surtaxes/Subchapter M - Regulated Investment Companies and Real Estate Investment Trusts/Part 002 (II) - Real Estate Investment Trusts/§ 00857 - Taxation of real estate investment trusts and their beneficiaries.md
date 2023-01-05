@@ -26,7 +26,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (1) Imposition of tax on real estate investment trusts
 
-&emsp;There is hereby imposed for each taxable year on the real estate investment trust taxable income of every real estate investment trust a tax computed as provided in section 11,as though the real estate investment trust taxable income were the taxable income referred to in section 11.
+&emsp;There is hereby imposed for each taxable year on the real estate investment trust taxable income of every real estate investment trust a tax computed as provided in section 11, as though the real estate investment trust taxable income were the taxable income referred to in section 11.
 
 #### (2) Real estate investment trust taxable income
 
@@ -138,7 +138,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (C) Certain sales not to constitute prohibited transactions
 
-&emsp;&emsp;For purposes of this part, the term "prohibited transaction" does not include a saleof property which is a real estate asset (as defined in section 856(c)(5)(B)) if—
+&emsp;&emsp;For purposes of this part, the term "prohibited transaction" does not include a sale of property which is a real estate asset (as defined in section 856(c)(5)(B)) if—
 
 &emsp;&emsp;&emsp;(i) the trust has held the property for not less than 2 years;
 
@@ -190,7 +190,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 &emsp;&emsp;In applying subparagraphs (C) and (D) the following special rules apply:
 
-&emsp;&emsp;&emsp;(i) The holding period of property acquired through foreclosure (or deed in lieuof foreclosure), or termination of the lease, includes the period for which the trust held the loan which such property secured, or the lease of such property.
+&emsp;&emsp;&emsp;(i) The holding period of property acquired through foreclosure (or deed in lieu of foreclosure), or termination of the lease, includes the period for which the trust held the loan which such property secured, or the lease of such property.
 
 &emsp;&emsp;&emsp;(ii) In the case of a property acquired through foreclosure (or deed in lieu of foreclosure), or termination of a lease, expenditures made by, or for the account of, the mortgagor or lessee after default became imminent will be regarded as made by the trust.
 
@@ -384,7 +384,7 @@ The provisions of this part (other than subsection (d) of this section and subse
 
 #### (2) Coordination with tax on undistributed income
 
-&emsp;A real estate investment trust shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section 302(a) applies) which is treated as a dividend by such trust. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the trust exceeds the required distribution for such calendar year (as determined under section 4981).
+&emsp;A real estate investment trust shall be treated as having sufficient earnings and profits to treat as a dividend any distribution (other than in a redemption to which section 302(a) applies) which is treated as a dividendby such trust. The preceding sentence shall not apply to the extent that the amount distributed during any calendar year by the trust exceeds the required distribution for such calendar year (as determined under section 4981).
 
 #### (3) Distributions to meet requirements of subsection (a)(2)(B)
 
@@ -620,7 +620,7 @@ Subsec. (b)(6)(B)(iii). Pub. L. 106–170, §532(c)(2)(M), substituted "section 
 
 Subsec. (b)(7) to (9). Pub. L. 106–170, §545(a), added par. (7) and redesignated former pars. (7) and (8) as (8) and (9), respectively.
 
-Subsec. (d)(3)(A). Pub. L. 106–170, §566(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "shall be treated for purposes of this subsection and subsection (a)(2)(B) as made from the earliest earnings and profits accumulated in any taxable year to which the provisions of this part did not apply rather than the most recently accumulated earnings and profits, and".
+Subsec. (d)(3)(A). Pub. L. 106–170, §566(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "shall be treated for purposes of this subsection and subsection (a)(2)(B) as made from theearliest earnings and profits accumulated in any taxable year to which the provisions of this part did not apply rather than the most recently accumulated earnings and profits, and".
 
 Subsec. (d)(3)(B). Pub. L. 106–170, §566(b), inserted "and section 858" before period at end.
 
@@ -916,7 +916,7 @@ Pub. L. 94–455, title XVI, §1608(a), Oct. 4, 1976, 90 Stat. 1757, as amended 
 
 For effective date of amendment by section 1602(b)(1), (2) of Pub. L. 94–455, see section 1608(b) of Pub. L. 94–455, set out as a Trust Not Disqualified in Certain Cases Where Income Tests Not Met note under section 856 of this title.
 
-For effective date of amendment by sections 1603, 1604, and 1605 of Pub. L. 94–455, see section 1608(d) of Pub. L. 94–455, set out as a note under section 856 of this title.
+For effective date of amendment by sections 1603, 1604, and 1605 of Pub. L. 94–455, see section 1608(d) ofPub. L. 94–455, set out as a note under section 856 of this title.
 
 Pub. L. 94–455, title XVI, §1608(c), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by sections 1606 and 1607 \[amending this section and sections 46, 172, and 443 of this title\] shall apply to taxable years ending after the date of the enactment of this Act \[Oct. 4, 1976\]; except that in the case of a taxpayer which has a net operating loss (as defined in section 172(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) for any taxable year ending after the date of enactment of this Act \[Oct. 4, 1976\] for which the provisions of part II of subchapter M of chapter 1 of subtitle A of such Code apply to such taxpayer, such loss shall not be a net operating loss carryback under section 172 of such Code to any taxable year ending on or before the date of enactment of this Act \[Oct. 4, 1976\]."
 

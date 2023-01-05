@@ -82,7 +82,7 @@ Post-Education Duty Assignments.—The Secretary of Defense shall ensure that—
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–160, div. A, title IX, §933(b), Nov. 30, 1993, 107 Stat. 1736, provided that: "The amendments madeby subsection (a) \[amending this section\] shall apply with respect to officers graduating from joint professional military education schools after the date of the enactment of this Act \[Nov. 30, 1993\]."
+Pub. L. 103–160, div. A, title IX, §933(b), Nov. 30, 1993, 107 Stat. 1736, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to officers graduating from joint professional military education schools after the date of the enactment of this Act \[Nov. 30, 1993\]."
 
 #### Effective Date of 1991 Amendment
 

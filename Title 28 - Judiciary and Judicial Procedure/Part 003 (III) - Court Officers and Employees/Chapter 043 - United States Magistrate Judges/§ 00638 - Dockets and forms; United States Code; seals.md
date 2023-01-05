@@ -24,7 +24,7 @@ Changes in phraseology were made.
 
 #### Amendments
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–578 incorporated in provisions designated as subsec. (a) provisions of first par. of former section 639 of this title, substituting "United States magistrates" for prior designation as "United States Commissioners", specifying that the copy of the United States Code be a current edition, and dispensing with approval by the chief judge of the district court for a copy of such Code.
+<b>1968</b>—Subsec. (a). Pub. L. 90–578 incorporated in provisions designated as subsec. (a) provisions of first par. of former section 639 of this title, substituting "UnitedStates magistrates" for prior designation as "United States Commissioners", specifying that the copy of the United States Code be a current edition, and dispensing with approval by the chief judge of the district court for a copy of such Code.
 
 Subsec. (b). Pub. L. 90–578 incorporated in provisions designated as subsec. (b) provisions of the second par. of former section 639 of this title.
 

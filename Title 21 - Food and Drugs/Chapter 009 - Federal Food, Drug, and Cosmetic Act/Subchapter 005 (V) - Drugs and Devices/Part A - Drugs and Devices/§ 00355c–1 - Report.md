@@ -42,7 +42,7 @@ Each report under subsection (a) shall include—
 
 &emsp;(12) an assessment of the efforts of the Secretary to implement the plan developed under section 505C–1 of the Federal Food, Drug, and Cosmetic Act,<sup>1</sup> regarding earlier submission of pediatric studies under sections 355a and 355c of this title and section 262(m) of title 42, including—
 
-&emsp;&emsp;(A) the average length of time after the approval of an application under section 355(b)(1) of this title or section 262(a) of title 42 before studies conducted pursuant to such section 355a of this title, 355c of this title, orsection 262(m) of title 42 are completed, submitted, and incorporated into labeling;
+&emsp;&emsp;(A) the average length of time after the approval of an application under section 355(b)(1) of this title or section 262(a) of title 42 before studies conducted pursuant to such section 355a of this title, 355c of this title, or section 262(m) of title 42 are completed, submitted, and incorporated into labeling;
 
 &emsp;&emsp;(B) the average length of time after the receipt of a proposed pediatric study request before the Secretary responds to such request;
 

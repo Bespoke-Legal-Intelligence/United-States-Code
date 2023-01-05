@@ -62,7 +62,7 @@ Members of the Council shall receive no additional pay, allowances, or benefits 
 
 The Executive Director of the Council shall report to the Chairman of the Council.
 
-(Pub. L. 100–77, title II, §202, July 22, 1987, 101 Stat. 486; Pub. L. 101–645, title I, §101, Nov. 29, 1990, 104 Stat. 4674; Pub. L. 103–82, title IV, §405(m), Sept. 21, 1993, 107 Stat. 922; Pub. L. 106–377, §1(a)(1) \[title II, §231(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31; Pub. L. 107–95, §11, Dec. 21, 2001, 115 Stat. 920; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 111–22, div. B, §1004(a)(2), May 20, 2009, 123 Stat. 1666.)
+(Pub. L. 100–77, title II, §202, July 22, 1987, 101 Stat. 486; Pub. L. 101–645, title I, §101, Nov. 29, 1990, 104 Stat. 4674; Pub. L. 103–82, title IV,§405(m), Sept. 21, 1993, 107 Stat. 922; Pub. L. 106–377, §1(a)(1) \[title II, §231(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–31; Pub. L. 107–95, §11, Dec. 21, 2001, 115 Stat. 920; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 111–22, div. B, §1004(a)(2), May 20, 2009, 123 Stat. 1666.)
 
 #### <b>Editorial Notes</b>
 

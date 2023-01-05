@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Accept.—In connection with a real property transaction referred to in subsection (b) with a non-Federal person or entity, the Secretary of a military department may accept amounts provided by the person or entity to cover administrative expenses incurred by the Secretary in entering into the transaction.
+Authority To Accept.—In connection with a real property transaction referred to in subsection (b) with a non-Federal person or entity,the Secretary of a military department may accept amounts provided by the person or entity to cover administrative expenses incurred by the Secretary in entering into the transaction.
 
 (b)
 

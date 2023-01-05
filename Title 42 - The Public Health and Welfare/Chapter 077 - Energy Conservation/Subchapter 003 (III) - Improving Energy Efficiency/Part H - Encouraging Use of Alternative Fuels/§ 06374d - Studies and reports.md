@@ -30,7 +30,7 @@ This part, referred to in subsec. (b)(1)(A), was in the original "the Alternativ
 
 #### Codification
 
-Subsec. (b) of this section, which required the Administrator of the Environmental Protection Agency to submit biennially to Congress a report which includesa comprehensive analysis of the environmental impacts associated with the production and use of alternative motor vehicle fuels under this part and an extended forecast of the environmental effects of such production and use, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 25th item on page 163 of House Document No. 103–7.
+Subsec. (b) of this section, which required the Administrator of the Environmental Protection Agency to submit biennially to Congress a report which includes a comprehensive analysis of the environmental impacts associated with the production and use of alternative motor vehicle fuels under this part and an extended forecast of the environmental effects of such production and use, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 25th item on page 163 of House Document No. 103–7.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -8,7 +8,7 @@
 
 #### (b) Applications; submittal to Governors for approval or disapproval; consistency of Federal licenses and State programs; views of other interested States
 
-(1) Not later than 10 days after the designation of adjacent coastal States pursuant to this chapter, the Secretary shall transmit a complete copy of the application to the Governor of each adjacent coastal State. The Secretary shall not issue a license without the approval of the Governor of each adjacent coastal State. If the Governor fails to transmit his approval or disapproval to the Secretary not later than 45 days after the last public hearing on applications for a particular application area, such approval shall be conclusively presumed. If the Governor notifies the Secretary that an application, which would otherwise be approved pursuant to this paragraph, is inconsistent with State programs relating to environmental protection, land and water use, and coastal zone management, the Secretary shall condition the license granted so as to make it consistent with such State programs.
+(1) Not later than 10 days after the designation of adjacent coastal States pursuant to this chapter, the Secretary shall transmit a completecopy of the application to the Governor of each adjacent coastal State. The Secretary shall not issue a license without the approval of the Governor of each adjacent coastal State. If the Governor fails to transmit his approval or disapproval to the Secretary not later than 45 days after the last public hearing on applications for a particular application area, such approval shall be conclusively presumed. If the Governor notifies the Secretary that an application, which would otherwise be approved pursuant to this paragraph, is inconsistent with State programs relating to environmental protection, land and water use, and coastal zone management, the Secretary shall condition the license granted so as to make it consistent with such State programs.
 
 (2) Any other interested State shall have the opportunity to make its views known to, and shall be given full consideration by, the Secretary regarding the location, construction, and operation of a deepwater port.
 
@@ -26,5 +26,5 @@ The consent of Congress is given to two or more coastal States to negotiate and 
 
 #### References in Text
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (c), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16, and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (c), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16, and Tables.
 

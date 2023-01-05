@@ -56,7 +56,7 @@ The Federal Fund, and any nonliquid asset (such as a building or equipment) deve
 
 #### (3) Repayment provisions
 
-&emsp;Each guaranty agency shall begin repayment of sums transferred pursuant to this subsection not later than the start of the fourth year after the establishment of the Operating Fund, and shall repay all amounts transferred not later than 5 years from the date of the establishment of the Operating Fund. With respect to amounts transferred from the Federal Fund, the guaranty agency shall not be required to repay any interest on the funds transferred and subsequently repaid. The guaranty agency shall provide to the Secretary a reasonable schedule for repayment of the sums transferred and an annual financial analysis demonstrating the agency's ability to comply with the schedule and repay all outstanding sums transferred.
+&emsp;Each guaranty agency shall begin repayment of sums transferred pursuant to this subsection not later than the start of the fourth year after the establishment of the Operating Fund, and shall repay all amounts transferred not later than 5 years from the date of the establishment of the Operating Fund. With respect to amounts transferred from the Federal Fund, the guaranty agency shall not be required to repay any interest on the fundstransferred and subsequently repaid. The guaranty agency shall provide to the Secretary a reasonable schedule for repayment of the sums transferred and an annual financial analysis demonstrating the agency's ability to comply with the schedule and repay all outstanding sums transferred.
 
 #### (4) Prohibition
 

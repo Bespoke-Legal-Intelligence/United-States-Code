@@ -6,13 +6,13 @@ Report Required.—
 
 &emsp;(1)
 
-In general.—Not later than 30 days after the submission to Congress of the budget of the President under section 1105(a) of title 31, United States Code, for each of fiscal years 2013 through 2024, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
+In general.—Not later than 30 days after the submission to Congress of the budget of the President under section 1105(a) of title 31, United States Code, for each of fiscal years 2013 through 2029, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
 
 &emsp;(2)
 
 Elements.—Each report required under paragraph (1) shall include the following:
 
-&emsp;&emsp;(A) A detailed description of the plan to enhance the safety, security, and reliabilityof the nuclear weapons stockpile of the United States.
+&emsp;&emsp;(A) A detailed description of the plan to enhance the safety, security, and reliability of the nuclear weapons stockpile of the United States.
 
 &emsp;&emsp;(B) A detailed description of the plan to sustain and modernize the nuclear weapons complex, including improving the safety of facilities, modernizing the infrastructure, and maintaining the key capabilities and competencies of the nuclear weapons workforce, including designers and technicians.
 
@@ -82,7 +82,7 @@ Comptroller General Review.—The Comptroller General of the United States shall
 
 &emsp;(2) submit to the congressional defense committees a summary of each such review.
 
-(Added and amended Pub. L. 116–92, div. A, title XVI, §1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, §1633, Jan. 1, 2021, 134 Stat. 4059.)
+(Added and amended Pub. L. 116–92, div. A, title XVI, §1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, §1633, Jan. 1, 2021, 134 Stat. 4059; Pub. L. 117–263, div. A, title XVI, §1635, Dec. 23, 2022, 136 Stat. 2939.)
 
 #### <b>Editorial Notes</b>
 
@@ -91,6 +91,8 @@ Comptroller General Review.—The Comptroller General of the United States shall
 Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81, div. A, title X, §1043, Dec. 31, 2011, 125 Stat. 1576, as amended by Pub. L. 112–239, div. A, title X, §1041(a), Jan. 2, 2013, 126 Stat. 1931; Pub. L. 113–66, div. A, title X, §1054, Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title XVI, §1643, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 115–91, div. A, title XVI, §1665, Dec. 12, 2017, 131 Stat. 1767; Pub. L. 115–232, div. A, title XVI, §1670, Aug. 13, 2018, 132 Stat. 2157; Pub. L. 116–92, div. A, title XVI, §1665(a), (b), Dec. 20, 2019, 133 Stat. 1773, which was transferred to this chapter and renumbered as this section.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–263 substituted "2029" for "2024".
 
 <b>2021</b>—Subsec. (c)(1). Pub. L. 116–283, §1633(1), substituted "periodically review reports submitted" for "review each report".
 

@@ -10,7 +10,7 @@
 | [3105\.](%C2%A7%2003105%20-%20Duration%20of%20rehabilitation%20programs.md) | Duration of rehabilitation programs. |
 | [3106\.](%C2%A7%2003106%20-%20Initial%20and%20extended%20evaluations%3B%20determinations%20regarding%20serious%20employment%20handicap.md) | Initial and extended evaluations; determinations regarding serious employment handicap. |
 | [3107\.](%C2%A7%2003107%20-%20Individualized%20vocational%20rehabilitation%20plan.md) | Individualized vocational rehabilitation plan. |
-| [3108\.](%C2%A7%2003108%20-%20Allowances%201.md) | Allowances. |
+| [3108\.](%C2%A7%2003108%20-%20Allowances.md) | Allowances. |
 | [3109\.](%C2%A7%2003109%20-%20Entitlement%20to%20independent%20living%20services%20and%20assistance.md) | Entitlement to independent living services and assistance. |
 | [3110\.](%C2%A7%2003110%20-%20Leaves%20of%20absence.md) | Leaves of absence. |
 | [3111\.](%C2%A7%2003111%20-%20Regulations%20to%20promote%20satisfactory%20conduct%20and%20cooperation.md) | Regulations to promote satisfactory conduct and cooperation. |
@@ -57,7 +57,7 @@
 - [&sect; 03105 - Duration of rehabilitation programs](%C2%A7%2003105%20-%20Duration%20of%20rehabilitation%20programs.md)
 - [&sect; 03106 - Initial and extended evaluations; determinations regarding serious employment handicap](%C2%A7%2003106%20-%20Initial%20and%20extended%20evaluations%3B%20determinations%20regarding%20serious%20employment%20handicap.md)
 - [&sect; 03107 - Individualized vocational rehabilitation plan](%C2%A7%2003107%20-%20Individualized%20vocational%20rehabilitation%20plan.md)
-- [&sect; 03108 - Allowances 1](%C2%A7%2003108%20-%20Allowances%201.md)
+- [&sect; 03108 - Allowances](%C2%A7%2003108%20-%20Allowances.md)
 - [&sect; 03109 - Entitlement to independent living services and assistance](%C2%A7%2003109%20-%20Entitlement%20to%20independent%20living%20services%20and%20assistance.md)
 - [&sect; 03110 - Leaves of absence](%C2%A7%2003110%20-%20Leaves%20of%20absence.md)
 - [&sect; 03111 - Regulations to promote satisfactory conduct and cooperation](%C2%A7%2003111%20-%20Regulations%20to%20promote%20satisfactory%20conduct%20and%20cooperation.md)

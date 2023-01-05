@@ -96,7 +96,7 @@ Section 1. (a) Subject to paragraph (b) of this section, the head of an agency m
 
 (g) In selecting an applicant for appointment under this section, an agency shall not discriminate because of race, color, religion, sex, national origin, or political affiliation.
 
-Sec. 2. (a) A person eligible for appointment under section 1 of this order may be appointed only within one year after his separation from the armed forces, or one year following his release from hospitalization or treatment immediately following his separation fromthe armed forces, or one year after involuntary separation without cause from (i) a veterans readjustment appointment or (ii) a transitional appointment, or one year after the effective date of this order if he is serving under a transitional appointment.
+Sec. 2. (a) A person eligible for appointment under section 1 of this order may be appointed only within one year after his separation from the armed forces, or one year following his release from hospitalization or treatment immediately following his separation from the armed forces, or one year after involuntary separation without cause from (i) a veterans readjustment appointment or (ii) a transitional appointment, or one year after the effective date of this order if he is serving under a transitional appointment.
 
 (b) The Office of Personnel Management may determine the circumstances under which service under a transitional appointment may be deemed service under a veterans readjustment appointment for the purpose of paragraph (f) of section 1 of this order.
 

@@ -116,7 +116,7 @@
 
 #### (E) Waivers of grant assistance repayment by students affected by disasters
 
-&emsp;&emsp;In addition to the waivers authorized by subparagraph (D), the Secretary may waive the amounts that students are required to return under this section with respect to any other grant assistance under this subchapter if the withdrawals on which the returns are based are withdrawals by students—
+&emsp;&emsp;In addition to the waivers authorized by subparagraph (D), the Secretary may waivethe amounts that students are required to return under this section with respect to any other grant assistance under this subchapter if the withdrawals on which the returns are based are withdrawals by students—
 
 &emsp;&emsp;&emsp;(i) who were residing in, employed in, or attending an institution of higher education that is located in an area in which the President has declared that a major disaster exists, in accordance with section 5170 of title 42;
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
 
-&emsp;&emsp;&emsp;(i) To outstanding balances on loans made under section 1078–8 of this title forthe payment period or period of enrollment for which a return of funds is required.
+&emsp;&emsp;&emsp;(i) To outstanding balances on loans made under section 1078–8 of this title for the payment period or period of enrollment for which a return of funds is required.
 
 &emsp;&emsp;&emsp;(ii) To outstanding balances on loans made under section 1078 of this title for the payment period or period of enrollment for which a return of funds is required.
 
@@ -186,7 +186,7 @@ For purposes of subsection (a)(3)(B), the percentage of the payment period or pe
 
 The provisions of this section shall take effect 2 years after October 7, 1998. An institution of higher education may choose to implement such provisions prior to that date.
 
-(Pub. L. 89–329, title IV, §484B, as added Pub. L. 102–325, title IV, §485(a), July 23, 1992, 106 Stat. 619; amended Pub. L. 103–208, §2(h)(26), (27), Dec. 20, 1993, 107 Stat. 2477; Pub. L. 105–244, title IV, §485, Oct. 7, 1998, 112 Stat. 1737; Pub. L. 109–66, §2, Sept. 21, 2005, 119 Stat. 1999; Pub. L. 109–67, §2, Sept. 21, 2005, 119 Stat. 2001; Pub. L. 109–171, title VIII, §8022, Feb. 8, 2006, 120 Stat. 178.)
+(Pub. L. 89–329, title IV, §484B, as added Pub. L. 102–325, title IV, §485(a), July 23, 1992, 106 Stat.619; amended Pub. L. 103–208, §2(h)(26), (27), Dec. 20, 1993, 107 Stat. 2477; Pub. L. 105–244, title IV, §485, Oct. 7, 1998, 112 Stat. 1737; Pub. L. 109–66, §2, Sept. 21, 2005, 119 Stat. 1999; Pub. L. 109–67, §2, Sept. 21, 2005, 119 Stat. 2001; Pub. L. 109–171, title VIII, §8022, Feb. 8, 2006, 120 Stat. 178.)
 
 #### <b>Editorial Notes</b>
 

@@ -6,7 +6,7 @@ A prior section 894, Pub. L. 93–203, title III, §341, as added Pub. L. 95–9
 
 A prior section 416 of Pub. L. 93–203, title IV, Dec. 28, 1973, 87 Stat. 872, which related to the Federal status of enrollees in the Job Corps, was classified to former section 926 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
-Provisions similar to those comprising this section were contained in former section 892 of this title priorto the general revision of Pub. L. 93–203, by Pub. L. 95–524.
+Provisions similar to those comprising this section were contained in former section 892 of this title prior to the general revision of Pub. L. 93–203, by Pub. L. 95–524.
 
 Sections 894a to 894g of this title were eliminated in the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

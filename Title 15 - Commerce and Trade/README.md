@@ -125,6 +125,7 @@
 | [<b>92.</b>](Chapter%20092%20-%20Year%202000%20Computer%20Date%20Change/README.md) | <b>Year 2000 Computer Date Change</b> | <b>6601</b> |
 | [<b>93.</b>](Chapter%20093%20-%20Insurance/README.md) | <b>Insurance</b> | <b>6701</b> |
 | [<b>94.</b>](Chapter%20094%20-%20Privacy/README.md) | <b>Privacy</b> | <b>6801</b> |
+| [<b>94A.</b>](Chapter%20094A%20-%20Visual%20Depiction%20Privacy/README.md) | <b>Visual Depiction Privacy</b> | <b>6851</b> |
 | [<b>95.</b>](Chapter%20095%20-%20Microenterprise%20Technical%20Assistance%20and%20Capacity%20Building%20Program/README.md) | <b>Microenterprise Technical Assistance and Capacity Building Program</b> | <b>6901</b> |
 | [<b>96.</b>](Chapter%20096%20-%20Electronic%20Signatures%20in%20Global%20and%20National%20Commerce/README.md) | <b>Electronic Signatures in Global and National Commerce</b> | <b>7001</b> |
 | [<b>97.</b>](Chapter%20097%20-%20Women%27s%20Business%20Enterprise%20Development/README.md) | <b>Women's Business Enterprise Development</b> | <b>7101</b> |
@@ -152,6 +153,8 @@
 | [<b>118.</b>](Chapter%20118%20-%20Sustainable%20Chemistry/README.md) | <b>Sustainable Chemistry</b> | <b>9301</b> |
 | [<b>119.</b>](Chapter%20119%20-%20National%20Artificial%20Intelligence%20Initiative/README.md) | <b>National Artificial Intelligence Initiative</b> | <b>9401</b> |
 | [<b>120.</b>](Chapter%20120%20-%20Minority%20Business%20Development/README.md) | <b>Minority Business Development</b> | <b>9501</b> |
+| [<b>121.</b>](Chapter%20121%20-%20Flood%20Level%20Observation%2C%20Operations%2C%20and%20Decision%20Support/README.md) | <b>Flood Level Observation, Operations, and Decision Support</b> | <b>9701</b> |
+| [<b>122.</b>](Chapter%20122%20-%20Travel%20and%20Tourism/README.md) | <b>Travel and Tourism</b> | <b>9801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -282,6 +285,7 @@
 - [Chapter 092 - Year 2000 Computer Date Change](Chapter%20092%20-%20Year%202000%20Computer%20Date%20Change/README.md)
 - [Chapter 093 - Insurance](Chapter%20093%20-%20Insurance/README.md)
 - [Chapter 094 - Privacy](Chapter%20094%20-%20Privacy/README.md)
+- [Chapter 094A - Visual Depiction Privacy](Chapter%20094A%20-%20Visual%20Depiction%20Privacy/README.md)
 - [Chapter 095 - Microenterprise Technical Assistance and Capacity Building Program](Chapter%20095%20-%20Microenterprise%20Technical%20Assistance%20and%20Capacity%20Building%20Program/README.md)
 - [Chapter 096 - Electronic Signatures in Global and National Commerce](Chapter%20096%20-%20Electronic%20Signatures%20in%20Global%20and%20National%20Commerce/README.md)
 - [Chapter 097 - Women's Business Enterprise Development](Chapter%20097%20-%20Women%27s%20Business%20Enterprise%20Development/README.md)
@@ -309,3 +313,5 @@
 - [Chapter 118 - Sustainable Chemistry](Chapter%20118%20-%20Sustainable%20Chemistry/README.md)
 - [Chapter 119 - National Artificial Intelligence Initiative](Chapter%20119%20-%20National%20Artificial%20Intelligence%20Initiative/README.md)
 - [Chapter 120 - Minority Business Development](Chapter%20120%20-%20Minority%20Business%20Development/README.md)
+- [Chapter 121 - Flood Level Observation, Operations, and Decision Support](Chapter%20121%20-%20Flood%20Level%20Observation%2C%20Operations%2C%20and%20Decision%20Support/README.md)
+- [Chapter 122 - Travel and Tourism](Chapter%20122%20-%20Travel%20and%20Tourism/README.md)

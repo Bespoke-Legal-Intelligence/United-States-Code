@@ -34,7 +34,7 @@ For purposes of subsection (a), a contract fails to meet the 7-pay test of this 
 
 #### (B) Reductions attributable to nonpayment of premiums
 
-&emsp;&emsp;Any reduction in benefits attributable to the nonpayment of premiums due under thecontract shall not be taken into account under subparagraph (A) if the benefits are reinstated within 90 days after the reduction in such benefits.
+&emsp;&emsp;Any reduction in benefits attributable to the nonpayment of premiums due under the contract shall not be taken into account under subparagraph (A) if the benefits are reinstated within 90 days after the reduction in such benefits.
 
 #### (3) Treatment of material changes
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (B) Treatment of certain premiums returned
 
-&emsp;&emsp;If, in order to comply with the requirements of subsection (b), any portion of any premium paid during any contract year is returned by the insurance company (with interest) within 60 days after the end of such contract year, the amount so returned (excluding interest) shall be deemed to reduce the sum of the premiums paid under the contract during such contract year.
+&emsp;&emsp;If, in order to comply with the requirements of subsection (b), any portion of any premium paid during any contract year is returned by the insurance company (with interest) within 60 days after the end of such contract year, the amount so returned (excluding interest) shall be deemed to reducethe sum of the premiums paid under the contract during such contract year.
 
 #### (C) Interest returned includible in gross income
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 &emsp;Except as otherwise provided in this section, terms used in this section shall have the same meaning as when used in section 7702.
 
-(Added Pub. L. 100–647, title V, §5012(c)(1), Nov. 10, 1988, 102 Stat. 3662; amended Pub. L. 101–239,title VII, §§7647(a), 7815(a)(1), (4), Dec. 19, 1989, 103 Stat. 2382, 2414; Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 107–147, title IV, §416(f), Mar. 9, 2002, 116 Stat. 55.)
+(Added Pub. L. 100–647, title V, §5012(c)(1), Nov. 10, 1988, 102 Stat. 3662; amended Pub. L. 101–239, title VII, §§7647(a), 7815(a)(1), (4), Dec. 19, 1989, 103 Stat. 2382, 2414; Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 107–147, title IV, §416(f), Mar. 9, 2002, 116 Stat. 55.)
 
 #### <b>Editorial Notes</b>
 

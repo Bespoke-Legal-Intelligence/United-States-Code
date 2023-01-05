@@ -76,7 +76,7 @@ Joint force development activities.—In matters relating to joint force develop
 
 &emsp;&emsp;(E) formulating policies for gathering, developing, and disseminating joint lessons learned for the armed forces; and
 
-&emsp;&emsp;(F) advising the Secretary on development of joint command, control, communications,and cybercapability, including integration and interoperability of such capability, through requirements, integrated architectures, data standards, and assessments.
+&emsp;&emsp;(F) advising the Secretary on development of joint command, control, communications, and cybercapability, including integration and interoperability of such capability, through requirements, integrated architectures, data standards, and assessments.
 
 &emsp;(7)
 
@@ -96,7 +96,7 @@ National Military Strategy.—
 
 National military strategy.—(A) The Chairman shall determine each even-numbered year whether to prepare a new National Military Strategy in accordance with this paragraph or to update a strategy previously prepared in accordance with this paragraph. The Chairman shall provide such National Military Strategy or update to the Secretary of Defense in time for transmittal to Congress pursuant to paragraph (3), including in time for inclusion in the report of the Secretary of Defense, if any, under paragraph (4).
 
-&emsp;(B) Each National Military Strategy (or update) under this paragraph shall be based on a comprehensive review conducted by the Chairman in conjunction with the other members of the Joint Chiefs of Staff and the commanders of the unified and specified combatant commands. Each update shall address only those parts of the most recent National Military Strategy for which the Chairman determines, on the basis of the review, that a modification is needed.
+&emsp;(B) Each National Military Strategy (or update) under this paragraph shall be based on a comprehensive review conducted by the Chairman in conjunction with the other members of the Joint Chiefs of Staff and the commandersof the unified and specified combatant commands. Each update shall address only those parts of the most recent National Military Strategy for which the Chairman determines, on the basis of the review, that a modification is needed.
 
 &emsp;(C) Each National Military Strategy (or update) submitted under this paragraph shall describe how the military will support the objectives of the United States as articulated in—
 
@@ -144,7 +144,7 @@ Risk assessment.—(A) The Chairman shall prepare each year an assessment of the
 
 &emsp;&emsp;(vi) Identify and assess the critical deficiencies and strengths in force capabilities (including manpower, logistics, intelligence, and mobility support) identified during the preparation and review of the contingency plans of each unified combatant command, and identify and assess the effect of such deficiencies and strengths for the National Military Strategy (or update).
 
-&emsp;&emsp;(vii) Identify and assess risk resulting from, or likely to result from, current orprojected effects on military installation resilience.
+&emsp;&emsp;(vii) Identify and assess risk resulting from, or likely to result from, current or projected effects on military installation resilience.
 
 &emsp;(3)
 
@@ -158,7 +158,7 @@ Submittal of national military strategy and risk assessment to congress.—(A) N
 
 Secretary of defense reports to congress.—(A) In transmitting a National Military Strategy (or update) or Risk Assessment to Congress pursuant to paragraph (3), the Secretary of Defense shall include in the transmittal such comments of the Secretary thereon, if any, as the Secretary considers appropriate.
 
-&emsp;(B) If the Risk Assessment transmitted under paragraph (3) in a year includes an assessment that a risk or risks associated with the National Military Strategy (or update) are significant, or that critical deficiencies in force capabilities exist for a contingency plan described in paragraph (2)(B)(vi), the Secretary shall include in the transmittal of the Risk Assessment the plan of the Secretary for mitigating such risk or deficiency. A plan for mitigating risk of deficiency under this subparagraph shall—
+&emsp;(B) If the Risk Assessment transmitted under paragraph (3) in a year includes an assessment that a risk or risks associated with the National Military Strategy (or update) aresignificant, or that critical deficiencies in force capabilities exist for a contingency plan described in paragraph (2)(B)(vi), the Secretary shall include in the transmittal of the Risk Assessment the plan of the Secretary for mitigating such risk or deficiency. A plan for mitigating risk of deficiency under this subparagraph shall—
 
 &emsp;&emsp;(i) address the risk assumed in the National Military Strategy (or update) concerned, and the additional actions taken or planned to be taken to address such risk using only current technology and force structure capabilities; and
 

@@ -22,7 +22,7 @@ To receive payments under the program, a producer shall agree—
 
 &emsp;(6) to comply with such additional provisions as the Secretary determines are necessary to carry out the program plan.
 
-(Pub. L. 99–198, title XII, §1240D, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat.256; amended Pub. L. 110–234, title II, §2505, May 22, 2008, 122 Stat. 1062; Pub. L. 110–246, §4(a), title II, §2505, June 18, 2008, 122 Stat. 1664, 1790; Pub. L. 113–79, title II, §2205, Feb. 7, 2014, 128 Stat. 730.)
+(Pub. L. 99–198, title XII, §1240D, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 256; amended Pub. L. 110–234, title II, §2505, May 22, 2008, 122 Stat. 1062; Pub. L. 110–246, §4(a), title II, §2505, June 18, 2008, 122 Stat. 1664, 1790; Pub. L. 113–79, title II, §2205, Feb. 7, 2014, 128 Stat. 730.)
 
 #### <b>Editorial Notes</b>
 

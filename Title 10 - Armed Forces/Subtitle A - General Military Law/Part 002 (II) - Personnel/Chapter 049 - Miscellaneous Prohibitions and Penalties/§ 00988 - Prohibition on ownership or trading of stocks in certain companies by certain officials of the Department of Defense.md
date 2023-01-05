@@ -26,7 +26,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(ii) A civilian officer or employee in a Senior Executive Service, Senior-Level, or Scientific or Professional position.
 
-&emsp;(2) The term "Excepted Investment Fund" means a widely-held investment fund described in section 102(f)(8) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+&emsp;(2) The term "Excepted Investment Fund" means a widely-held investment fund described in section 102(f)(8) of the Ethics in Government Act of 1978 (5 U.S.C. App.).<sup>1</sup>
 
 (Added Pub. L. 116–92, div. A, title IX, §921(a), Dec. 20, 2019, 133 Stat. 1560.)
 
@@ -34,5 +34,7 @@ Definitions.—In this section:
 
 #### References in Text
 
-Section 102(f)(8) of the Ethics in Government Act of 1978, referred to in subsec. (c)(2), is section 102(f)(8) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 102(f)(8) of the Ethics in Government Act of 1978, referred to in subsec. (c)(2), is section 102(f)(8) of Pub. L. 95–521, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 13104(f)(8) of Title 5 by Pub. L. 117–286, §§3(c), (7), Dec. 27, 2022, 136 Stat. 4284, 4361.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

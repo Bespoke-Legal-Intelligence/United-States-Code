@@ -116,7 +116,7 @@ Publication of Comprehensive Report.—
 
 &emsp;"(1)
 
-In general.—Not later than the date that is one year after the date described in subsection (a)(2) of section 2799A–8 of the Public Health Service Act \[42 U.S.C. 300gg–118\], of section 723 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1185l\], and of section 9823 of the Internal Revenue Code of 1986 \[26 U.S.C. 9823\], as such sections are added bysubsection (b), the Secretary of Health and Human Services, in consultation with the Secretary of Transportation (referred to in this section as the 'Secretaries'), shall develop, and make publicly available (subject to paragraph (3)), a comprehensive report summarizing the information submitted under subsection (a) and the amendments made by subsection (b) and including each of the following:
+In general.—Not later than the date that is one year after the date described in subsection (a)(2) of section 2799A–8 of the Public Health Service Act \[42 U.S.C. 300gg–118\], of section 723 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1185l\], and of section 9823 of the Internal Revenue Code of 1986 \[26 U.S.C. 9823\], as such sections are added by subsection (b), the Secretary of Health and Human Services, in consultation with the Secretary of Transportation (referred to in this section as the 'Secretaries'), shall develop, and make publicly available (subject to paragraph (3)), a comprehensive report summarizing the information submitted under subsection (a) and the amendments made by subsection (b) and including each of the following:
 
 &emsp;&emsp;"(A) The percentage of providers of air ambulance services that are part of a hospital-owned or sponsored program, municipality-sponsored program, hospital-independent partnership (hybrid) program, or independent program.
 
@@ -202,7 +202,7 @@ Membership.—The Committee shall be composed of the following members:
 
 &emsp;&emsp;"(D) Three representatives of the air ambulance industry, to be appointed by the Secretary of Transportation.
 
-&emsp;&emsp;"(E) Additional three representatives not covered under subparagraphs (A) through (D), as determinednecessary and appropriate by the Secretary of Health and Human Services and Secretary of Transportation.
+&emsp;&emsp;"(E) Additional three representatives not covered under subparagraphs (A) through (D), as determined necessary and appropriate by the Secretary of Health and Human Services and Secretary of Transportation.
 
 &emsp;"(3)
 

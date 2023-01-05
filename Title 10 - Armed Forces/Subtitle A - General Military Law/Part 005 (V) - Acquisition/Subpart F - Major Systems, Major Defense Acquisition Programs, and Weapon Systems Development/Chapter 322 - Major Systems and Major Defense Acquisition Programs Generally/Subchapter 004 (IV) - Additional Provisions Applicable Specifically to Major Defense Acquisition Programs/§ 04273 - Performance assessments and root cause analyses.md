@@ -38,7 +38,7 @@ Responsibilities.—The senior official designated under subsection (a) shall be
 
 (c)
 
-Performance Assessments.—For purposes of this section, a performance assessment with respect to a major defense acquisition program is an evaluation of the following:
+Performance Assessments.—For purposes of this section, a performance assessment withrespect to a major defense acquisition program is an evaluation of the following:
 
 &emsp;(1) The cost, schedule, and performance of the program, relative to current metrics, including performance requirements and baseline descriptions.
 

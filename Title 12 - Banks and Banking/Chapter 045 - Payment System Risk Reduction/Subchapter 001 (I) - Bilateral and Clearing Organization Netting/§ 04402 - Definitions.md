@@ -114,7 +114,7 @@ For purposes of this subchapter—
 
 &emsp;The term "payment" means a payment of United States dollars, another currency, or a composite currency, and a noncash delivery, including a payment or delivery to liquidate an unmatured obligation.
 
-(Pub. L. 102–242, title IV, §402, Dec. 19, 1991, 105 Stat. 2372; Pub. L. 102–550, title XVI, §1606(a), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 106–554, §1(a)(5) \[title I, §§112(a)(2), 123(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–391, 2763A–411; Pub. L. 109–8, title IX, §906(a), Apr. 20, 2005, 119 Stat. 167.)
+(Pub. L. 102–242, title IV, §402, Dec. 19, 1991, 105 Stat. 2372; Pub. L. 102–550, title XVI, §1606(a),Oct. 28, 1992, 106 Stat. 4087; Pub. L. 106–554, §1(a)(5) \[title I, §§112(a)(2), 123(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–391, 2763A–411; Pub. L. 109–8, title IX, §906(a), Apr. 20, 2005, 119 Stat. 167.)
 
 #### <b>Editorial Notes</b>
 
@@ -160,7 +160,7 @@ Par. (2)(B). Pub. L. 106–554, §1(a)(5) \[title I, §123(b)\], added subpar. (
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1992 Amendment
 

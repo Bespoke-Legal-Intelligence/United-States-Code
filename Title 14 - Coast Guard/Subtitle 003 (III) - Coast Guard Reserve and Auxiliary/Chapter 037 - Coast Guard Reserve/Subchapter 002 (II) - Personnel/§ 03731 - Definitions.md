@@ -6,7 +6,7 @@ As used in this subchapter—
 
 &emsp;(2) "discharged" means released from an appointment as a Reserve officer.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1007, §720; renumbered §3731 and amended Pub.L. 115–282, title I, §§118(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4233, 4240.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1007, §720; renumbered §3731 and amended Pub. L. 115–282, title I, §§118(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4233, 4240.)
 
 #### <b>Editorial Notes</b>
 

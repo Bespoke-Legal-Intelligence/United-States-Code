@@ -56,7 +56,7 @@ Pub. L. 102–54 amended section as in effect immediately before the enactment o
 
 Par. (3). Pub. L. 95–62, §3(6), substituted "furnishing of care" for "furnishing of nursing home care".
 
-<b>1976</b>—Pub. L. 94–581 substituted "date of enactment of this section or any amendment to it with respect to such amendment" for "date of enactment of this subchapter" in provisions preceding par. (1), substituted"veterans" and "veteran" for "war veterans" and "war veteran", respectively, in par. (1), and added par. (3).
+<b>1976</b>—Pub. L. 94–581 substituted "date of enactment of this section or any amendment to it with respect to such amendment" for "date of enactment of this subchapter" in provisions preceding par. (1), substituted "veterans" and "veteran" for "war veterans" and "war veteran", respectively, in par. (1), and added par. (3).
 
 <b>1973</b>—Par. (1). Pub. L. 93–82 substituted "two and one-half beds" for "one and one-half beds".
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 #### Regulations
 
-Pub. L. 106–117, title II, §207(d), Nov. 30, 1999, 113 Stat. 1567, provided that: "The Secretary \[of Veterans Affairs\] shall prescribe the initial regulations under subsection (a) of section 8134 of title 38, United States Code, as added by subsection (a), not later than April 30, 2000."
+Pub. L. 106–117, title II, §207(d), Nov. 30, 1999, 113 Stat. 1567, provided that: "The Secretary \[of Veterans Affairs\] shall prescribe the initial regulations under subsection (a) of section 8134 of title 38, United StatesCode, as added by subsection (a), not later than April 30, 2000."
 
 #### Transition Provisions
 

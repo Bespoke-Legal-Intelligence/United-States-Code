@@ -42,7 +42,7 @@ The Secretary, acting through the Commissioner of Reclamation, is authorized toâ
 
 &emsp;(iii) shall be developed with appropriate public participation.
 
-(C) Each plan described in subparagraph (A) shall provide for the development, use, conservation, protection, enhancement, and management of resources of Reclamation lands in a mannerthat is compatible with the authorized purposes of the Reclamation project associated with the Reclamation lands.
+(C) Each plan described in subparagraph (A) shall provide for the development, use, conservation, protection, enhancement, and management of resources of Reclamation lands in a manner that is compatible with the authorized purposes of the Reclamation project associated with the Reclamation lands.
 
 #### (d) Nonreimbursable funds
 

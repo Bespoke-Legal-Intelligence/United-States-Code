@@ -18,7 +18,7 @@
 
 (e)(1) In conducting an investigation to determine if a person is engaged in any of the activities covered by subsection (a) of this section, the Postmaster General (or any duly authorized agent of the Postmaster General) may tender, at any reasonable time and by any reasonable means, the price advertised or otherwise requested for any article or service that such person has offered to provide through the mails.
 
-(2) A failure to provide the article or service offered after the Postmaster General or his agent has tendered the price advertised or otherwise requested in the manner described in paragraph (1) of this subsection, and any reasons for such failure, may be considered in a proceedingheld under section 3007 of this title to determine if there is probable cause to believe that a violation of this section has occurred.
+(2) A failure to provide the article or service offered after the Postmaster General or his agent has tendered the price advertised or otherwise requested in the manner described in paragraph (1) of this subsection, and any reasons for such failure, may be considered in a proceeding held under section 3007 of this title to determine if there is probable cause to believe that a violation of this section has occurred.
 
 (3) The Postmaster General shall prescribe regulations under which any individual seeking to make a purchase on behalf of the Postal Service under this subsection from any person shall—
 
@@ -78,9 +78,9 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 #### Consumer Education Program on Schemes Involving False Representations
 
-Pub. L. 98–186, §4, Nov. 30, 1983, 97 Stat. 1317, as amended by Pub. L. 104–66, title II, §2211(a), Dec. 21, 1995, 109 Stat. 732, provided that:
+Pub. L. 98–186, §4, Nov. 30, 1983, 97 Stat. 1317, as amended by Pub. L. 104–66, title II, §2211(a), Dec. 21, 1995, 109 Stat. 732; Pub. L. 117–286, §4(b)(68), Dec. 27, 2022, 136 Stat. 4350, provided that:
 
 "(a) As soon as practicable after the date of enactment of this Act \[Nov. 30, 1983\], the Postmaster General or his designee, following consultation with representatives of the mail order industry, shall develop and carry out a program designed to provide consumer education to the public on schemes involving false representations through use of the mails, including the dissemination of information on recognizing practices commonly associated with such schemes, as well as appropriate measures which an individual may take upon receiving mail matter which the individual believes may be part of such a scheme.
 
-"(b) A summary of the activities carried out under subsection (a) shall be included in the first semiannual report submitted each year as required under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.)."
+"(b) A summary of the activities carried out under subsection (a) shall be included in the first semiannual report submitted each year as required under section 405 of title 5, United States Code."
 

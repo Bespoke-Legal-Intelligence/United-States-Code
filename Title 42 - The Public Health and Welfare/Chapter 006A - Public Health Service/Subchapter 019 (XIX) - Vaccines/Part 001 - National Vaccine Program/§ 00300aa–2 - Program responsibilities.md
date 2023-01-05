@@ -4,7 +4,7 @@
 
 #### (1) Vaccine research
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of thistitle, coordinate and provide direction for research carried out in or through the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development on means to induce human immunity against naturally occurring infectious diseases and to prevent adverse reactions to vaccines.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for research carried out in or through the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development on means to induce human immunity against naturally occurring infectious diseases and to prevent adverse reactions to vaccines.
 
 #### (2) Vaccine development
 

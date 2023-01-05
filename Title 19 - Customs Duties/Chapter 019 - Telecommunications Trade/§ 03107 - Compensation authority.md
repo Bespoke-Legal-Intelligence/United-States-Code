@@ -14,7 +14,7 @@ If—
 
 #### Amendments
 
-<b>1994</b>—Par. (2). Pub. L. 103–465 substituted "the WTO Agreement and the multilateral trade agreements (assuch terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)" for "the General Agreement on Tariffs and Trade".
+<b>1994</b>—Par. (2). Pub. L. 103–465 substituted "the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of this title)" for "the General Agreement on Tariffs and Trade".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

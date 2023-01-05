@@ -14,6 +14,7 @@
 | [41310\.](%C2%A7%2041310%20-%20Report%20on%20theft%20of%20trade%20secrets%20occurring%20abroad.md) | Report on theft of trade secrets occurring abroad. |
 | [41311\.](%C2%A7%2041311%20-%20Improving%20Department%20of%20Justice%20data%20collection%20on%20mental%20illness%20involved%20in%20crime.md) | Improving Department of Justice data collection on mental illness involved in crime. |
 | [41312\.](%C2%A7%2041312%20-%20Report%20on%20female%20genital%20mutilation.md) | Report on female genital mutilation. |
+| [41313\.](%C2%A7%2041313%20-%20GAO%20study%20on%20incidence%20of%20fatal%20and%20non-fatal%20physical%20and%20sexual%20assault%20of%20passengers%2C%20TNC%20drivers%2C%20and%20drivers%20of%20other%20for-hire%E2%80%A6.md) | GAO study on incidence of fatal and non-fatal physical and sexual assault of passengers, TNC drivers, and drivers of other for-hire vehicles. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,3 +35,4 @@
 - [&sect; 41310 - Report on theft of trade secrets occurring abroad](%C2%A7%2041310%20-%20Report%20on%20theft%20of%20trade%20secrets%20occurring%20abroad.md)
 - [&sect; 41311 - Improving Department of Justice data collection on mental illness involved in crime](%C2%A7%2041311%20-%20Improving%20Department%20of%20Justice%20data%20collection%20on%20mental%20illness%20involved%20in%20crime.md)
 - [&sect; 41312 - Report on female genital mutilation](%C2%A7%2041312%20-%20Report%20on%20female%20genital%20mutilation.md)
+- [&sect; 41313 - GAO study on incidence of fatal and non-fatal physical and sexual assault of passengers, TNC drivers, and drivers of other for-hire&#8230;](%C2%A7%2041313%20-%20GAO%20study%20on%20incidence%20of%20fatal%20and%20non-fatal%20physical%20and%20sexual%20assault%20of%20passengers%2C%20TNC%20drivers%2C%20and%20drivers%20of%20other%20for-hire%E2%80%A6.md)

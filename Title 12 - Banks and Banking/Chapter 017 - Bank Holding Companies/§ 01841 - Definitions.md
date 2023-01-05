@@ -88,7 +88,7 @@ Exceptions.—The term "bank" does not include any of the following:
 
 &emsp;&emsp;&emsp;(i) engages only in credit card operations;
 
-&emsp;&emsp;&emsp;(ii) does not accept demand deposits or deposits that the depositor may withdrawby check or similar means for payment to third parties or others;
+&emsp;&emsp;&emsp;(ii) does not accept demand deposits or deposits that the depositor may withdraw by check or similar means for payment to third parties or others;
 
 &emsp;&emsp;&emsp;(iii) does not accept any savings or time deposit of less than $100,000;
 
@@ -132,7 +132,7 @@ Exceptions.—The term "bank" does not include any of the following:
 
 (4) No domestic office or subsidiary of a bank holding company or subsidiary thereof holding shares of a section 2(h)(2) company may extend credit to a domestic office or subsidiary of such section 2(h)(2) company on terms more favorable than those afforded similar borrowers in the United States.
 
-(5) No domestic banking office or bank subsidiary of a bank holding company that controls a section 2(h)(2) company may offer or marketproducts or services of such section 2(h)(2) company, or permit its products or services to be offered or marketed by or through such section 2(h)(2) company, unless such products or services were being so offered or marketed as of March 5, 1987, and then only in the same manner in which they were being offered or marketed as of that date.
+(5) No domestic banking office or bank subsidiary of a bank holding company that controls a section 2(h)(2) company may offer or market products or services of such section 2(h)(2) company, or permit its products or services to be offered or marketed by or through such section 2(h)(2) company, unless such products or services were being so offered or marketed as of March 5, 1987, and then only in the same manner in which they were being offered or marketed as of that date.
 
 (i)
 
@@ -250,7 +250,7 @@ Lead insured depository institutions.—
 
 &emsp;&emsp;(A)
 
-In general.—The term "lead insured depository institution" means the largestinsured depository institution controlled by the subject bank holding company at any time, based on a comparison of the average total risk-weighted assets controlled by each insured depository institution during the previous 12-month period.
+In general.—The term "lead insured depository institution" means the largest insured depository institution controlled by the subject bank holding company at any time, based on a comparison of the average total risk-weighted assets controlled by each insured depository institution during the previous 12-month period.
 
 &emsp;&emsp;(B)
 
@@ -394,7 +394,7 @@ Subsecs. (j) to (m). Pub. L. 100–86, §101(a)(3), added subsecs. (j) to (m).
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–320, §404(d)(1), inserted references to State chartered banks and national banking associations as being included in definition of "bank".
 
-Pub. L. 97–320, §333, excepted from term "bank" an institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation or an institution chartered by the Federal Home Loan Bank Board.
+Pub. L. 97–320, §333, excepted from term "bank" an institution the accounts of which are insured by theFederal Savings and Loan Insurance Corporation or an institution chartered by the Federal Home Loan Bank Board.
 
 Subsec. (i)(4). Pub. L. 97–320, §118(b), added cl. (4).
 

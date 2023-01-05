@@ -56,7 +56,7 @@ Authority to sell permits.—When authorized by the Secretary, volunteers at Sys
 
 &emsp;(2)
 
-Surety bond required.—The Secretary shall require a surety bond for any such volunteer performing services under this subsection. Funds available to the Service may be used to cover the cost of the surety bond. The Secretary may enter into arrangements with qualified public or private entities pursuant to which the entities may sell (without cost to the United States) annual admission permits (including Golden Eagle Passports) at any appropriate location. The arrangements shall require each such entity to reimburse the United States for the full amount to be received from the sale of the permits at or before the Secretary delivers the permits to the entity for sale.
+Surety bond required.—The Secretary shall require a surety bond for any such volunteer performing services under this subsection. Funds available to the Service may be used to cover the cost of the surety bond. The Secretary may enter into arrangements withqualified public or private entities pursuant to which the entities may sell (without cost to the United States) annual admission permits (including Golden Eagle Passports) at any appropriate location. The arrangements shall require each such entity to reimburse the United States for the full amount to be received from the sale of the permits at or before the Secretary delivers the permits to the entity for sale.
 
 (d)
 
@@ -64,7 +64,7 @@ Charge for Transportation Provided by Service for Viewing System Units.—
 
 &emsp;(1)
 
-Charge when transportation provided.—Where the Service provides transportation to view all or a portion of any System unit, the Director may impose a charge for theservice in lieu of an admission fee under this section.
+Charge when transportation provided.—Where the Service provides transportation to view all or a portion of any System unit, the Director may impose a charge for the service in lieu of an admission fee under this section.
 
 &emsp;(2)
 
@@ -160,5 +160,5 @@ Section 107 of the Department of the Interior and Related Agencies Appropriation
 
 #### Construction
 
-Pub. L. 109–54, title I, §132(c), Aug. 2, 2005, 119 Stat. 526, provided that: "Except as provided in this section \[amending former section 460l–6a and section 6812 of Title 16, Conservation, and enacting provisions set out as a note under section 6812 of Title 16\], section 4(i)(1)(C) of the Land and Water Conservation Fund Act of 1965 (\[former\] 16 U.S.C. 460l–6a(i)(1)(C)) \[see 54 U.S.C. 100904(a)\] shall be applied and administered as if section 813(a) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6812(a)) (and the amendments made by that section \[Pub. L. 108–447, amending former section 460l–6a of Title 16\]) had not been enacted."
+Pub. L. 109–54, title I, §132(c), Aug. 2, 2005, 119 Stat. 526, provided that: "Except as provided in this section \[amending former section 460l–6a and section 6812 of Title 16, Conservation, and enacting provisions set out as a note under section 6812 of Title 16\], section4(i)(1)(C) of the Land and Water Conservation Fund Act of 1965 (\[former\] 16 U.S.C. 460l–6a(i)(1)(C)) \[see 54 U.S.C. 100904(a)\] shall be applied and administered as if section 813(a) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6812(a)) (and the amendments made by that section \[Pub. L. 108–447, amending former section 460l–6a of Title 16\]) had not been enacted."
 

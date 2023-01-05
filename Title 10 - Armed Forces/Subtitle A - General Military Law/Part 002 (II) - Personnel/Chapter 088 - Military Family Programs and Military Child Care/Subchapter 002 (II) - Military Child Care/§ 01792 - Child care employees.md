@@ -18,7 +18,7 @@ Required Training.—(1) The Secretary of Defense shall prescribe regulations im
 
 (b)
 
-Training and Curriculum Specialists.—(1) The Secretary of Defense shall require that at least one employee at each military child development center be a specialist in training and curriculum development. The Secretary shall ensure that such employees have appropriate credentials and experience.
+Training and Curriculum Specialists.—(1) The Secretary of Defense shall require that at least one employee at each military child development center be a specialist in training andcurriculum development. The Secretary shall ensure that such employees have appropriate credentials and experience.
 
 (2) The duties of such employees shall include the following:
 
@@ -66,6 +66,66 @@ Subsec. (d)(2). Pub. L. 105–85, §1073(a)(34)(B), substituted "section 1784" f
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Pilot Program on Hiring of Special Needs Inclusion Coordinators for Department of Defense Child Development Centers
+
+Pub. L. 117–263, div. A, title V, §576, Dec. 23, 2022, 136 Stat. 2605, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, in coordination with the Secretaries of the military departments, shall carry out a pilot program to hire special needs inclusion coordinators at child development centers selected by the Secretary under subsection (b).
+
+"(b)
+
+Selection of Centers.—The Secretary of Defense shall select the child development centers at which the pilot program required by subsection (a) will be carried out based on—
+
+&emsp;"(1) the number of dependent children enrolled in the Exceptional Family Member Program at the military installation on which the center in \[sic; probably should be "is"\] located;
+
+&emsp;"(2) the number of children with special needs enrolled in the center; and
+
+&emsp;"(3) such other considerations as the Secretary, in consultation with the Secretaries of the military departments, considers appropriate.
+
+"(c)
+
+Functions.—Each special needs inclusion coordinator assigned to a child development center under the pilot program required by subsection (a) shall—
+
+&emsp;"(1) coordinate intervention and inclusion services at the center;
+
+&emsp;"(2) provide direct classroom support; and
+
+&emsp;"(3) provide guidance and assistance relating to the increased complexity of working with the behaviors of children with special needs.
+
+"(d)
+
+Briefings Required.—
+
+&emsp;"(1)
+
+Briefing on anticipated costs.—Not later than March 1, 2023, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the anticipated costs for the pilot program required by subsection (a).
+
+&emsp;"(2)
+
+Briefing on effectiveness of program.—Not later than September 30, 2025, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the pilot program required by subsection (a) that includes—
+
+&emsp;&emsp;"(A) the number of special needs inclusion coordinators hired under the pilot program;
+
+&emsp;&emsp;"(B) a description of any issues relating to the retention of those coordinators;
+
+&emsp;&emsp;"(C) a recommendation with respect to whether the pilot program should be made permanent or expanded to other military installations; and
+
+&emsp;&emsp;"(D) an assessment of the amount of funding required to make the pilot program permanent or expand the pilot program to other military installations, as the Secretary recommends under subparagraph (C).
+
+"(e)
+
+Duration of Pilot Program.—The pilot program required by subsection (a) shall—
+
+&emsp;"(1) commence not later than January 1, 2024; and
+
+&emsp;"(2) terminate on December 31, 2026.
+
+"(f)
+
+Child Development Center Defined.—In this section, the term 'child development center' has the meaning given that term in section 2871(2) of title 10, United States Code, and includes a facility identified as a child care center or day care center."
+
 #### Portability of Background Investigations for Child Care Providers
 
 Pub. L. 116–92, div. A, title V, §580(f), Dec. 20, 2019, 133 Stat. 1408, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall ensure that the background investigation and training certification for a child care provider employed by the Department of Defense in a facility of the Department may be transferred to another facility of the Department, without regard to which Secretary of a military department has jurisdiction over either such facility."
@@ -82,7 +142,7 @@ In General.—The Secretary of Defense shall implement a policy to permit the is
 
 Elements.—The policy required by subsection (a) shall provide for the following:
 
-&emsp;"(1) Any clearance issued under the policy shall be temporary and contingent upon the satisfaction ofsuch requirements for the issuance of a clearance on a permanent basis as the Secretary considers appropriate.
+&emsp;"(1) Any clearance issued under the policy shall be temporary and contingent upon the satisfaction of such requirements for the issuance of a clearance on a permanent basis as the Secretary considers appropriate.
 
 &emsp;"(2) Any individual issued a clearance on a provisional or interim basis under the policy shall be subject to such supervision in the provision of childcare services using such clearance as the Secretary considers appropriate.
 

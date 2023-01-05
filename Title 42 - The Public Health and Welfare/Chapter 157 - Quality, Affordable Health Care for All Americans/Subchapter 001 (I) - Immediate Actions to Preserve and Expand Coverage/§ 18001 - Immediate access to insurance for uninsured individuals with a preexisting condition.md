@@ -58,7 +58,7 @@ An individual shall be deemed to be an eligible individual for purposes of this 
 
 &emsp;(1) is a citizen or national of the United States or is lawfully present in the United States (as determined in accordance with section 18081 of this title);
 
-&emsp;(2) has not been covered under creditable coverage (as defined in section 300gg(c)(1) of this title as in effect on March 23, 2010) during the 6-month period prior to the date on which such individual is applying for coverage through the high risk pool; and
+&emsp;(2) has not been covered under creditable coverage (as defined in section 300gg(c)(1) of this title as in effect on March 23, 2010) duringthe 6-month period prior to the date on which such individual is applying for coverage through the high risk pool; and
 
 &emsp;(3) has a pre-existing condition, as determined in a manner consistent with guidance issued by the Secretary.
 
@@ -212,13 +212,13 @@ Section 1. <i>Purpose</i>. Since January 20, 2017, my Administration has been co
 
 (a) My Administration has been committed to restoring choice and control to the American patient.
 
-On December 22, 2017, I signed into law the repeal of the burdensome individual-mandate penalty, liberating millions of low-income Americans from a tax that penalized them for not purchasing health-insurance coverage they did not want or could not afford. Through Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) \[formerly set out above\], my Administration has expanded coverage options for millions of Americans in several ways. My Administration increased the availability of renewable short-term, limited-duration healthcare plans, providing options that are up to 60 percent cheaper than the least expensive alternatives under the Patient Protection and Affordable Care Act (ACA) \[Pub. L. 111–148\] and are projected to cover 500,000 individuals who would otherwise be uninsured. My Administration expanded health reimbursement arrangements, which have been projected by the Department of the Treasury to reach 800,000 businesses andover 11 million employees and to expand coverage to more than 800,000 individuals who would otherwise be uninsured. My Administration also issued a rule to increase the availability of association health plans for small businesses, which, upon implementation of the rule, are projected to cover up to 400,000 previously uninsured individuals for on average 30 percent less cost.
+On December 22, 2017, I signed into law the repeal of the burdensome individual-mandate penalty, liberating millions of low-income Americans from a tax that penalized them for not purchasing health-insurance coverage they did not want or could not afford. Through Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) \[formerly set out above\], my Administration has expanded coverage options for millions of Americans in several ways. My Administration increased the availability of renewable short-term, limited-duration healthcare plans, providing options that are up to 60 percent cheaper than the least expensive alternatives under the Patient Protection and Affordable Care Act (ACA) \[Pub. L. 111–148\] and are projected to cover 500,000 individuals who would otherwise be uninsured. My Administration expanded health reimbursement arrangements, which have been projected by the Department of the Treasury to reach 800,000 businesses and over 11 million employees and to expand coverage to more than 800,000 individuals who would otherwise be uninsured. My Administration also issued a rule to increase the availability of association health plans for small businesses, which, upon implementation of the rule, are projected to cover up to 400,000 previously uninsured individuals for on average 30 percent less cost.
 
 As set forth in the Economic Report of the President (February 2020), my Administration's expansion of health savings accounts will further help millions of Americans pay for health expenditures by allowing them to save more of their own money free from Federal taxation, and will especially help Americans with chronic conditions who now have more flexibility to enroll in plans that fit their complicated care needs and can be paired with a tax-advantaged account.
 
 At the beginning of the current COVID–19 pandemic, my Administration acted to dramatically increase the accessibility and availability of telehealth services for Medicare beneficiaries, enabling millions of individuals to use these services. Pursuant to Executive Order 13941 of August 3, 2020 (Improving Rural Health and Telehealth Access) \[42 U.S.C. 254c note\], the Secretary of Health and Human Services will make permanent many of the new policies that improve the accessibility and availability of telehealth services. In addition, pursuant to that order, the Secretary of Health and Human Services and the Secretary of Agriculture will develop and implement a strategy to improve the physical and communications healthcare infrastructure available to rural Americans.
 
-Through our State Relief and Empowerment Waivers, my Administration has given States additional health-insurance flexibility, which has expanded health-insurance coverage options for consumers and lowered costs for patients. These waivers allow States to move away from the ACA's rigid structure and are estimated to have lowered premiums by approximately 11 percent in Wisconsin, 20 percent in Minnesota, and 43 percent in Maryland. Due to actions my Administration took, like the State Relief and Empowerment Waivers, after years of dwindling choices and escalating prices, plan options for consumers increased and for 2019, for the first time ever, benchmark premiums actually decreased on Healthcare.gov. For 2020, the average benchmark premium dropped by nearly 4 percent.
+Through our State Relief and Empowerment Waivers, my Administration has given States additional health-insurance flexibility, which has expanded health-insurance coverage options for consumers and lowered costs for patients. These waivers allow States to move away from the ACA's rigid structure and are estimated to have lowered premiums by approximately 11 percent in Wisconsin, 20 percent in Minnesota, and 43 percent in Maryland. Due to actions my Administration took, like the State Relief and Empowerment Waivers, afteryears of dwindling choices and escalating prices, plan options for consumers increased and for 2019, for the first time ever, benchmark premiums actually decreased on Healthcare.gov. For 2020, the average benchmark premium dropped by nearly 4 percent.
 
 After the prior Administration spent tens of billions of dollars creating electronic health records systems unable to accurately or effectively record and communicate patient data, my Administration has paved the way for a new wave of innovation to allow patients to safely send their own medical records to care providers of their choosing. My Patients over Paperwork initiative has cut red tape for doctors and nurses so they can spend more time with their patients, which the Centers for Medicare and Medicaid Services (CMS) within the Department of Health and Human Services (HHS) has estimated to save over 40 million hours of wasted time for providers and suppliers between 2017 and 2021.
 
@@ -250,7 +250,7 @@ My Administration has cracked down on waste, fraud, and abuse that direct valuab
 
 (c) My Administration has been dedicated to providing better care for all Americans.
 
-This includes a steadfast commitment to always protecting individuals with pre-existing conditions and ensuring they have access to the high-quality healthcare they deserve. No American should have to risk going without health insurance based on a health history that he or she cannot change.
+This includes a steadfast commitment to always protecting individuals with pre-existing conditions and ensuring they have access to the high-quality healthcarethey deserve. No American should have to risk going without health insurance based on a health history that he or she cannot change.
 
 In an attempt to justify the ACA, the previous Administration claimed that, absent action by the Congress, up to 129 million (later updated to 133 million) non-elderly people with what it described as pre-existing conditions were in danger of being denied health-insurance coverage. According to the previous Administration, however, only 2.7 percent of such individuals actually gained access to health insurance through the ACA, given existing laws and programs already in place to cover them. For example, the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\] has long protected individuals with pre-existing conditions, including individuals covered by group health plans and individuals who had such coverage but lost it.
 
@@ -270,9 +270,9 @@ My Administration has started a transformation in healthcare in rural America. T
 
 My Administration has additionally demonstrated an incredible dedication to protecting and improving care for those most in need, including senior citizens, those with substance use disorders, and those to whom our Nation owes the greatest debt: our veterans.
 
-I have protected the viability of the Medicare program. For example, on February 9, 2018, I signed into law the repeal of the Independent Payment AdvisoryBoard, which would have been a group of unelected bureaucrats created by the ACA, designed to be insulated from the will of America's elected leaders for the purpose of cutting the spending of this important program. On October 3, 2019, I signed Executive Order 13890 (Protecting and Improving Medicare for Our Nation's Seniors) \[42 U.S.C. 1395 note prec.\], to modernize the Medicare program and continue its viability. According to CMS estimates, seniors have saved $2.65 billion in lower Medicare premiums under my Administration while benefiting from more choices. For example, the average monthly Medicare Advantage premium has declined an estimated 28 percent since 2017, and Medicare Advantage has included about 1,200 more plan options since 2018. New Medicare Advantage supplemental benefits have helped seniors stay safe in their homes, improved respite care for caregivers, and provided transportation, more in-home support services and assistance, and non-opioid pain management alternatives like therapeutic massages. Medicare Part D premiums are at their lowest level in their history, with the average basic premium declining 13.5 percent since 2016.
+I have protected the viability of the Medicare program. For example, on February 9, 2018, I signed into law the repeal of the Independent Payment Advisory Board, which would have been a group of unelected bureaucrats created by the ACA, designed to be insulated from the will of America's elected leaders for the purpose of cutting the spending of this important program. On October 3, 2019, I signed Executive Order 13890 (Protecting and Improving Medicare for Our Nation's Seniors) \[42 U.S.C. 1395 note prec.\], to modernize the Medicare program and continue its viability. According to CMS estimates, seniors have saved $2.65 billion in lower Medicare premiums under my Administration while benefiting from more choices. For example, the average monthly Medicare Advantage premium has declined an estimated 28 percent since 2017, and Medicare Advantage has included about 1,200 more plan options since 2018. New Medicare Advantage supplemental benefits have helped seniors stay safe in their homes, improved respite care for caregivers, and provided transportation, more in-home support services and assistance, and non-opioid pain management alternatives like therapeutic massages. Medicare Part D premiums are at their lowest level in their history, with the average basic premium declining 13.5 percent since 2016.
 
-My Administration has directed unprecedented attention on the substance use disorder epidemic, with a focus on reducing overdose deaths from prescription opioids and the deadly synthetic opioid fentanyl. On October 24, 2018, I signed the Substance Use-Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act \[Pub. L. 115–271\], enabling the expenditure of billions of dollars of funding for important programs to support prevention and recovery. My Administration has provided approximately $22.5 billion from 2017 to 2020 to address the opioid crisis and improve access to prevention, treatment, and recovery services. We saw a 34 percent decrease in total opioids dispensed monthly by pharmacies between 2017 and 2019, an approximate increase of 64 percent in the number of Americans who receive medication-assisted treatment for opioid use disorder since 2016, and a 484 percent increase in naloxone prescriptions since 2017. Data show that drug overdose deaths fell nationwide for the first time in decades between 2017 and 2018, with many of the hardest-hit States leading the way.
+My Administration has directed unprecedented attention on the substance use disorder epidemic, with a focus on reducing overdose deaths from prescription opioids and the deadly synthetic opioid fentanyl. On October 24, 2018, I signed the Substance Use-Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act \[Pub. L. 115–271\], enabling the expenditure of billions of dollars of funding for important programs to support prevention and recovery. My Administration has provided approximately $22.5 billion from 2017 to 2020 to address the opioid crisis and improve access to prevention, treatment, and recovery services. We saw a 34 percent decrease in total opioids dispensed monthly by pharmacies between 2017 and 2019, an approximate increase of 64 percent in the number of Americans who receive medication-assisted treatment for opioid use disorder since 2016, and a 484 percent increase in naloxone prescriptions since 2017. Data show that drug overdosedeaths fell nationwide for the first time in decades between 2017 and 2018, with many of the hardest-hit States leading the way.
 
 Improving care for our Nation's veterans has been a priority since the beginning of my Administration. On June 6, 2018, I signed the \[John S. McCain III, Daniel K. Akaka, and Samuel R. Johnson\] VA Maintaining Internal Systems and Strengthening Integrated Outside Networks (MISSION) Act of 2018 \[Pub. L. 115–182\], which authorized billions of dollars to improve options for veterans to receive care outside of Department of Veterans Affairs (VA) healthcare providers. Since taking effect, the VA estimates that more than 2.4 million veterans have benefited from more than 6.5 million referrals to the 725,000 private healthcare providers with which the VA is now working. On June 23, 2017, I signed the Department of Veterans Affairs Accountability and Whistleblower Protection Act of 2017 \[Pub. L. 115–41\] to hold our civil servants accountable for maintaining the best quality of care possible for our Nation's veterans by giving the Secretary of Veterans Affairs more power to discipline employees and shorten an appeals process that can last years. On March 5, 2019, I signed Executive Order 13861 (National Roadmap to Empower Veterans and End Suicide) \[Mar. 5, 2019, 84 F.R. 8585\] to ensure that the Federal Government leads a collective effort to prevent suicide among our veterans.
 
@@ -336,15 +336,15 @@ Sec. 2. <i>Special Enrollment Period</i>. The coronavirus disease 2019 (COVID–
 
 Sec. 3. <i>Immediate Review of Agency Actions</i>. (a) The Secretary of the Treasury, the Secretary of Labor, the Secretary of Health and Human Services, and the heads of all other executive departments and agencies with authorities and responsibilities related to Medicaid and the ACA (collectively, heads of agencies) shall, as soon as practicable, review all existing regulations, orders, guidance documents, policies, and any other similar agency actions (collectively, agency actions) to determine whether such agency actions are inconsistent with the policy set forth in section 1 of this order. As part of this review, the heads of agencies shall examine the following:
 
-&emsp;(i) policies or practices that may undermine protections for people with pre-existing conditions, including complications related to COVID–19, under the ACA;
+(i) policies or practices that may undermine protections for people with pre-existing conditions, including complications related to COVID–19, under the ACA;
 
-&emsp;(ii) demonstrations and waivers, as well as demonstration and waiver policies, that may reduce coverage under or otherwise undermine Medicaid or the ACA;
+(ii) demonstrations and waivers, as well as demonstration and waiver policies, that may reduce coverage under or otherwise undermine Medicaid or the ACA;
 
-&emsp;(iii) policies or practices that may undermine the Health Insurance Marketplace or the individual, small group, or large group markets for health insurance in the United States;
+(iii) policies or practices that may undermine the Health Insurance Marketplace or the individual, small group, or large group markets for health insurance in the United States;
 
-&emsp;(iv) policies or practices that may present unnecessary barriers to individuals and families attempting to access Medicaid or ACA coverage, including for mid-year enrollment; and
+(iv) policies or practices that may present unnecessary barriers to individuals and families attempting to access Medicaid or ACA coverage, including for mid-year enrollment; and
 
-&emsp;(v) policies or practices that may reduce the affordability of coverage or financial assistance for coverage, including for dependents.
+(v) policies or practices that may reduce the affordability of coverage or financial assistance for coverage, including for dependents.
 
 (b) Heads of agencies shall, as soon as practicable and as appropriate and consistent with applicable law, consider whether to suspend, revise, or rescind—and, as applicable, publish for notice and comment proposed rules suspending, revising, or rescinding—those agency actions identified as inconsistent with the policy set forth in section 1 of this order.
 
@@ -359,6 +359,70 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 &emsp;(i) the authority granted by law to an executive department or agency, or the head thereof; or
 
 &emsp;(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 14070. Continuing To Strengthen Americans' Access to Affordable, Quality Health Coverage
+
+Ex. Ord. No. 14070, Apr. 5, 2022, 87 F.R. 20689, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. On January 28, 2021, I signed Executive Order 14009 (Strengthening Medicaid and the Affordable Care Act) \[set out above\], establishing that it is the policy of my Administration to protect and strengthen Medicaid and the Affordable Care Act (ACA) and to make high-quality healthcare accessible and affordable for every American. It directs executive departments and agencies (agencies) with authorities and responsibilities related to Medicaid and the ACA to review existing regulations, orders, guidance documents, policies, and any other similar agency actions (collectively, agency actions) to determine whether such agency actions are inconsistent with this policy.
+
+Consistent with Executive Order 14009, agencies have taken numerous actions to protect and strengthen Medicaid and the ACA, including:
+
+(a) facilitating the expansion of Medicaid in Missouri and Oklahoma to individuals below 138 percent of the Federal poverty level, which is projected to cover nearly half a million people;
+
+(b) extending Medicaid eligibility to new populations in order to allow pregnant individuals to retain theirMedicaid coverage for up to 1 year postpartum, including through initiatives in Illinois, New Jersey, Virginia, and Louisiana;
+
+(c) operating a Special Enrollment Period during 2021 that allowed 2.8 million Americans to newly enroll in coverage under the ACA;
+
+(d) extending the length of the HealthCare.gov Open Enrollment Period by 1 month and operating the most successful Open Enrollment Period ever, with a historic 14.5 million Americans enrolling in coverage through the ACA Marketplaces and an additional 1 million people enrolling in Basic Health Program coverage, resulting in a 20 percent increase over the prior year across both programs combined;
+
+(e) increasing outreach and enrollment funding for organizations that help Americans apply for ACA and Medicaid coverage, including quadrupling the number of trained Navigators to more than 1,500 people in States using HealthCare.gov;
+
+(f) lowering maximum out-of-pocket costs for consumers with employer and ACA coverage by $400 in 2022;
+
+(g) reducing paperwork burdens for people enrolling in Medicaid and the ACA by eliminating unnecessary documentation requirements;
+
+(h) allowing low-income Americans to enroll in affordable ACA coverage year-round;
+
+(i) strengthening Medicaid and ACA section 1332 \[42 U.S.C. 18052\] waiver policies to partner with States to develop innovative coverage options, strengthen benefits, and lower costs;
+
+(j) proposing rules that would better ensure comprehensive and standardized coverage and improve the adequacy of ACA provider networks; and
+
+(k) making efforts to improve the affordability of ACA coverage for families by proposing rules to correct a regulatory gap that prevents family members from accessing ACA subsidies despite very high premiums for coverage through an employer.
+
+On March 11, 2021, I signed into law the American Rescue Plan Act of 2021 (Public Law 117–2), which will further strengthen Medicaid and the ACA in numerous ways, including by making ACA coverage more affordable for 9 million Americans through enhanced ACA subsidies, incentivizing States to adopt the ACA's Medicaid expansion, making it easier for States to extend postpartum Medicaid coverage, establishing new options for States to establish mobile crisis intervention services teams to help provide services to Medicaid beneficiaries experiencing a behavioral health crisis, and increasing Medicaid funding for home- and community-based services to strengthen and expand access to services for millions of seniors and people with disabilities who need care as well as to help States strengthen their programs.
+
+My Administration has made significant progress in making healthcare more affordable and accessible to millions of Americans. From the end of 2020 to September 2021, one in seven uninsured Americans gained coverage, leaving the uninsured rate at nearly an all-time low. Despite this progress, nearly 4 million Americans continue to be locked out of Medicaid expansion because they reside in 1 of the 12 States that have failed to adopt the ACA's Medicaid expansion. In addition, millions more continue to struggle to obtain the care they need, to go without health coverage, or to be enrolled in coverage that is insufficient to meet their needs. The effects of being uninsured or underinsured can be devastating financially, as families without access to affordable coverage may accrue high levels of medical debt.
+
+It remains the policy of my Administration to protect and strengthen Medicaid and the ACA and to make high-quality healthcare accessible and affordable for every American. Agencies with authorities and responsibilities related to Medicaid and the ACA are continuing their review of existing agency actions under Executive Order 14009.
+
+Sec. 2. <i>Agency Responsibilities</i>. In addition to taking the actions directed pursuant to Executive Order 14009, agencies (as described in section 3502(1) of title 44, United States Code, except for the agencies described in section 3502(5) of title 44, United States Code) with responsibilities related to Americans' access to health coverage shall review agency actions to identify ways to continue to expand the availability of affordable health coverage, to improve the quality of coverage, to strengthen benefits, and to help more Americans enroll in quality health coverage. As part of this review, the heads of such agencies shall examine the following:
+
+(a) policies or practices that make it easier for all consumers to enroll in and retain coverage, understand their coverage options, and select appropriate coverage;
+
+(b) policies or practices that strengthen benefits and improve access to healthcare providers;
+
+(c) policies or practices that improve the comprehensiveness of coverage and protect consumers from low-quality coverage;
+
+(d) policies or practices that expand eligibility and lower costs for coverage in the ACA Marketplaces, Medicaid, Medicare, and other programs;
+
+(e) policies or practices that help improve linkages between the healthcare system and other stakeholders to address health-related needs; and
+
+(f) policies or practices that help reduce the burden of medical debt on households.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 

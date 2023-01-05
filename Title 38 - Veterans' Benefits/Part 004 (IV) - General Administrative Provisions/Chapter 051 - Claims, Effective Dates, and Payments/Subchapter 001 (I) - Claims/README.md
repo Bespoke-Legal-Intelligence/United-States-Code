@@ -11,7 +11,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05100 - Definition of claimant](%C2%A7%2005100%20-%20Definition%20of%20claimant.md)
+- [&sect; 05100 - Definitions](%C2%A7%2005100%20-%20Definitions.md)
 - [&sect; 05101 - Claims and forms](%C2%A7%2005101%20-%20Claims%20and%20forms.md)
 - [&sect; 05102 - Application forms furnished upon request; notice to claimants of incomplete applications](%C2%A7%2005102%20-%20Application%20forms%20furnished%20upon%20request%3B%20notice%20to%20claimants%20of%20incomplete%20applications.md)
 - [&sect; 05103 - Notice to claimants of required information and evidence](%C2%A7%2005103%20-%20Notice%20to%20claimants%20of%20required%20information%20and%20evidence.md)

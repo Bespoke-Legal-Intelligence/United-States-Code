@@ -4,7 +4,7 @@
 
 To provide timely and effective warnings regarding natural disasters, acts of terrorism, and other man-made disasters or threats to public safety, the Administrator shall—
 
-&emsp;(1) modernize the integrated public alert and warning system of the United States (in this section referred to as the "public alert and warning system") to help ensure that under all conditions the President and, except to the extent the public alert and warning system is in use by the President, Federal agencies and State, tribal, and local governments can alert and warn the civilian population in areas endangered by natural disasters, acts of terrorism, and other man-made disasters or threats to public safety; and
+&emsp;(1) modernize the integrated public alert and warning system of the United States (in thissection referred to as the "public alert and warning system") to help ensure that under all conditions the President and, except to the extent the public alert and warning system is in use by the President, Federal agencies and State, tribal, and local governments can alert and warn the civilian population in areas endangered by natural disasters, acts of terrorism, and other man-made disasters or threats to public safety; and
 
 &emsp;(2) implement the public alert and warning system to disseminate timely and effective warnings regarding natural disasters, acts of terrorism, and other man-made disasters or threats to public safety.
 
@@ -26,7 +26,7 @@ In carrying out subsection (a), the Administrator shall—
 
 &emsp;&emsp;(C) conducting, not less than once every 3 years, periodic nationwide tests of the public alert and warning system;
 
-&emsp;(5) to the extent practicable, ensure that the public alert and warning system is resilientand secure and can withstand acts of terrorism and other external attacks;
+&emsp;(5) to the extent practicable, ensure that the public alert and warning system is resilient and secure and can withstand acts of terrorism and other external attacks;
 
 &emsp;(6) conduct public education efforts so that State, tribal, and local governments, private entities, and the people of the United States reasonably understand the functions of the public alert and warning system and how to access, use, and respond to information from the public alert and warning system through a general market awareness campaign;
 

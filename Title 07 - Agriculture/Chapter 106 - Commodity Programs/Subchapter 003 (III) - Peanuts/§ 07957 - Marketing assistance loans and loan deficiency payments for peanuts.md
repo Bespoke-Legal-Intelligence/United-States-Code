@@ -56,7 +56,7 @@ The loan rate for a marketing assistance loan under for peanuts subsection (a) s
 
 #### (1) In general
 
-&emsp;The Secretary shall permit producers on a farm to repay a marketing assistance loan forpeanuts under subsection (a) at a rate that is the lesser of—
+&emsp;The Secretary shall permit producers on a farm to repay a marketing assistance loan for peanuts under subsection (a) at a rate that is the lesser of—
 
 &emsp;&emsp;(A) the loan rate established for peanuts under subsection (b), plus interest (determined in accordance with section 7283 of this title); or
 
@@ -124,7 +124,7 @@ The Secretary may implement any reimbursable agreements or provide for the payme
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsec. (f), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (f), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 This subchapter, referred to in subsec. (g), was in the original "this subtitle", meaning subtitle C (§§1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 

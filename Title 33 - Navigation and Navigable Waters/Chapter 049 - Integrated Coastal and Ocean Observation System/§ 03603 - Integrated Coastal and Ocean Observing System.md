@@ -100,7 +100,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;&emsp;&emsp;(I) review the System Plan; and
 
-&emsp;&emsp;&emsp;&emsp;(II) submit to the Council such recommendations as the Interagency OceanObservation Committee may have for improvements to the System Plan;
+&emsp;&emsp;&emsp;&emsp;(II) submit to the Council such recommendations as the Interagency Ocean Observation Committee may have for improvements to the System Plan;
 
 &emsp;&emsp;&emsp;(ix) ensure collaboration among Federal agencies participating in the Interagency Ocean Observation Committee; and
 
@@ -154,7 +154,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;&emsp;(xi) not less frequently than once each year, submit to the Interagency Ocean Observation Committee a report on the accomplishments, operational needs, and performance of the System to contribute to the annual and long-term plans prepared pursuant to paragraph (2)(B)(i);
 
-&emsp;&emsp;&emsp;(xii) develop and periodically update a plan to efficiently integrate into the System new, innovative, or emerging technologies that have been demonstrated to be useful to the System and which will fulfill the purposes of this chapter and the System Plan; and
+&emsp;&emsp;&emsp;(xii) develop and periodically update a plan to efficiently integrate into the System new, innovative, or emerging technologies that have been demonstrated tobe useful to the System and which will fulfill the purposes of this chapter and the System Plan; and
 
 &emsp;&emsp;&emsp;(xiii) work with users and regional associations to develop products to enable real-time data sharing for decision makers, including with respect to weather forecasting and modeling, search and rescue operations, corrosive seawater forecasts, water quality monitoring and communication, and harmful algal bloom forecasting.
 
@@ -276,7 +276,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (E) Expiration
 
-&emsp;&emsp;Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the System advisory committee.
+&emsp;&emsp;Section 1013 of title 5 shall not apply to the System advisory committee.
 
 #### (e) Civil liability
 
@@ -286,15 +286,13 @@ For purposes of determining liability arising from the dissemination and use of 
 
 Nothing in this chapter shall be construed to invalidate existing certifications, contracts, or agreements between regional coastal observing systems and other elements of the System.
 
-(Pub. L. 111–11, title XII, §12304, Mar. 30, 2009, 123 Stat. 1429; Pub. L. 116–271, title I, §103, Dec. 31, 2020, 134 Stat. 3333.)
+(Pub. L. 111–11, title XII, §12304, Mar. 30, 2009, 123 Stat. 1429; Pub. L. 116–271, title I, §103, Dec. 31, 2020, 134 Stat. 3333; Pub. L. 117–286, §4(a)(209), Dec. 27, 2022, 136 Stat. 4329.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(4)(E), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(4)(E). Pub. L. 117–286 substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)".
 
 <b>2020</b>—Subsec. (b)(1). Pub. L. 116–271, §103(a)(1), added par. (1) and struck out former par. (1) which related to the general elements of the System.
 
@@ -308,7 +306,7 @@ Subsec. (d)(1). Pub. L. 116–271, §103(c)(1), substituted "or the Council unde
 
 Subsec. (d)(2)(A). Pub. L. 116–271, §103(c)(2)(A), inserted ", data sharing," after "data management".
 
-Subsec. (d)(2)(D), (E). Pub. L. 116–271, §103(c)(2)(B), (C), added subpars. (D) and (E) and struck out former subpar. (D) which read as follows: "any other purpose identified by the Administrator or the Interagency Ocean Observing Committee."
+Subsec. (d)(2)(D), (E). Pub. L. 116–271, §103(c)(2)(B), (C), added subpars. (D) and (E) and struck out formersubpar. (D) which read as follows: "any other purpose identified by the Administrator or the Interagency Ocean Observing Committee."
 
 Subsec. (d)(3)(B). Pub. L. 116–271, §103(c)(2)(D), inserted "The Administrator may stagger the terms of the System advisory committee members." before "Members".
 

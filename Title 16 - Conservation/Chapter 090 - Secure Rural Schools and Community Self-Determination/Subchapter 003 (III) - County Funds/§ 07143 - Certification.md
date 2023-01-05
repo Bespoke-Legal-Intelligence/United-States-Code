@@ -6,7 +6,7 @@ Not later than February 1 of the year after the year in which any county funds w
 
 #### (b) Review
 
-The Secretary concerned shall review the certifications submitted under subsection (a) as theSecretary concerned determines to be appropriate.
+The Secretary concerned shall review the certifications submitted under subsection (a) as the Secretary concerned determines to be appropriate.
 
 (Pub. L. 106–393, title III, §303, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3910.)
 

@@ -24,7 +24,7 @@ Covered Countries.—For purposes of subsection (a), the countries specified in 
 
 "(c)
 
-Time Limit.—Written objections under subsection (a) to an export or reexport shall be raisedwithin 10 days after the notification is received under subsection (a). If such a written objection to the export or reexport of a computer is raised, the computer may be exported or reexported only pursuant to a license issued by the Secretary of Commerce under the Export Administration Regulations of the Department of Commerce, without regard to the licensing exceptions otherwise authorized under section 740.7 of title 15 of the Code of Federal Regulations, as in effect on June 10, 1997. If no objection is raised within the 10-day period, the export or reexport is authorized.
+Time Limit.—Written objections under subsection (a) to an export or reexport shall be raised within 10 days after the notification is received under subsection (a). If such a written objection to the export or reexport of a computer is raised, the computer may be exported or reexported only pursuant to a license issued by the Secretary of Commerce under the Export Administration Regulations of the Department of Commerce, without regard to the licensing exceptions otherwise authorized under section 740.7 of title 15 of the Code of Federal Regulations, as in effect on June 10, 1997. If no objection is raised within the 10-day period, the export or reexport is authorized.
 
 "(d)
 
@@ -62,7 +62,7 @@ Classification.—Each report under subsections (d) and (e) shall be submitted i
 
 "(g)
 
-Delegation of Objection Authority Within the Department of Defense.—For the purposes of the Department of Defense, the authority to issue an objection referred to in subsection (a) shall be executed for the Secretary of Defense by an official at the Assistant Secretary level within the office of the Under Secretary of Defense for Policy. In implementing subsection (a), the Secretary of Defense shall ensure that Department of Defense procedures maximize the ability of the Department of Defense to be able to issue an objection within the 10-day period specified in subsection (c).
+Delegation of Objection Authority Within the Department of Defense.—For the purposes of the Department of Defense, the authority to issue an objection referred to in subsection (a) shall be executed for the Secretary of Defense by an official at the Assistant Secretary level within the office of the Under Secretary of Defense for Policy. In implementing subsection (a), the Secretary of Defense shall ensure that Department of Defense procedures maximize the abilityof the Department of Defense to be able to issue an objection within the 10-day period specified in subsection (c).
 
 "(h)
 

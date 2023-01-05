@@ -54,7 +54,7 @@ Not later than 90 days after October 2, 2013, to provide the market with appropr
 
 &emsp;&emsp;(G) updates on repair status and the anticipated online date;
 
-&emsp;(3) monthly summaries of meetings and communications between the Bureau of Land Management and the Cliffside Refiners Limited Partnership, including a list of participantsand an indication of any actions taken as a result of the meetings or communications; and
+&emsp;(3) monthly summaries of meetings and communications between the Bureau of Land Management and the Cliffside Refiners Limited Partnership, including a list of participants and an indication of any actions taken as a result of the meetings or communications; and
 
 &emsp;(4) current predictions of the lifespan of the Federal Helium System, including how much longer the crude helium supply will be available based on current and forecasted demand and the projected maximum production capacity of the Federal Helium System for the following fiscal year.
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(ii) during a period in which the Secretary provides the veteran with temporary lodging at a facility of the Department to make such care more accessible to the veteran.
 
-(2) The Secretary may make payments provided for in this section to or for any person not covered by paragraph (1) of this subsection for travel by such person for examination, treatment, or care. Such payments shall be made in accordance with regulations which the Secretary shall prescribe.
+(2) The Secretary may make payments provided for in this section to or for any person not covered by paragraph (1) of this subsection for travel by such person for examination, treatment, or care. Such payments shall be made inaccordance with regulations which the Secretary shall prescribe.
 
 (3)(A) Except as provided in subparagraph (B) of this paragraph, the Secretary shall not make payments under this section for travel performed by a special mode of travel unless (i) the travel by such mode is medically required and is authorized by the Secretary before the travel begins, or (ii) the travel by such mode is in connection with a medical emergency of such a nature that the delay incident to obtaining authorization from the Secretary to use that mode of travel would have been hazardous to the person's life or health.
 
@@ -34,7 +34,7 @@
 
 (c)(1) Except as otherwise provided in this subsection, the Secretary, in making a payment under this section to or for a person described in subparagraph (A), (B), (C), or (D) of subsection (b)(1) of this section for travel for examination, treatment, or care, shall deduct from the amount otherwise payable an amount equal to $3 for each one-way trip.
 
-(2) In the case of a person who is determined by the Secretary to be a person who is requiredto make six or more one-way trips for needed examination, treatment, or care during the remainder of the calendar month in which the determination is made or during any subsequent calendar month during the one-year period following the last day of the month in which the determination is made, the amount deducted by the Secretary pursuant to paragraph (1) of this subsection from payments for trips made to or from such facility during any such month shall not exceed $18.
+(2) In the case of a person who is determined by the Secretary to be a person who is required to make six or more one-way trips for needed examination, treatment, or care during the remainder of the calendar month in which the determination is made or during any subsequent calendar month during the one-year period following the last day of the month in which the determination is made, the amount deducted by the Secretary pursuant to paragraph (1) of this subsection from payments for trips made to or from such facility during any such month shall not exceed $18.
 
 (3) No deduction shall be made pursuant to paragraph (1) of this subsection in the case of a person whose travel to or from a Department facility is performed by a special mode of travel for which payment under this section is authorized under subsection (b)(3) of this section.
 
@@ -210,6 +210,144 @@ Pub. L. 100–322, title I, §108(f), May 20, 1988, 102 Stat. 498, provided that
 
 Pub. L. 111–163, title III, §305(e), May 5, 2010, 124 Stat. 1152, provided that: "The amendments made by subsections (b) and (d) of this section \[amending this section\] may not be construed as expanding or otherwise modifying eligibility for payments or allowances for beneficiary travel under section 111 of title 38, United States Code, as in effect on the day before the date of the enactment of this Act \[May 5, 2010\]."
 
+#### Department of Veterans Affairs Transportation Pilot Program for Low Income Veterans
+
+Pub. L. 117–328, div. U, title II, §243, Dec. 29, 2022, 136 Stat. 5459, provided that:
+
+"(a)
+
+Pilot Program Required.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs shall commence carrying out a pilot program to assess the feasibility and advisability of providing payments authorized under subsection (a) of section 111 of title 38, United States Code, 48 hours in advance of travel to eligible appointments to veterans and other eligible individuals who are also eligible for a deduction waiver as provided by paragraphs (3) and (4) of subsection (c) of such section.
+
+"(b)
+
+Duration.—The Secretary shall carry out the pilot program during the five-year period beginning on the date of the commencement of the pilot program.
+
+"(c)
+
+Locations.—The Secretary shall carry out the pilot program at not fewer than five locations selected by the Secretary for purposes of the pilot program.
+
+"(d)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the completion of the pilot program, the Secretary shall submit to Congress a report on the findings of the Secretary with respect to the pilot program.
+
+&emsp;"(2)
+
+Contents.—The report submitted under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) The number of individuals who benefitted from the pilot program broken, disaggregated by geographic location, race or ethnicity, age, disability rating, and sex.
+
+&emsp;&emsp;"(B) Average distance traveled by participants to appointments and average funds provided per appointment, disaggregated by geographic region.
+
+&emsp;&emsp;"(C) A description of any impediments to carrying out the pilot program.
+
+&emsp;&emsp;"(D) An account of payments provided for travel that did not occur or was authorized incorrectly.
+
+&emsp;&emsp;"(E) An account of any attempts to retrieve such payment.
+
+&emsp;&emsp;"(F) Recommendations of the Secretary for legislative or administrative action to reduce improper payments.
+
+&emsp;&emsp;"(G) An assessment of the feasibility and advisability of providing payments as described in subsection (a)."
+
+#### Pilot Program for Travel Cost Reimbursement for Accessing Readjustment Counseling Services
+
+Pub. L. 117–328, div. U, title II, §244, Dec. 29, 2022, 136 Stat. 5460, provided that:
+
+"(a)
+
+Pilot Program Required.—Not later than 270 days after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary shall establish and commence a pilot program, within the Readjustment Counseling Services of the Veterans Health Administration, to assess the feasibility and advisability of providing payment to cover or offset financial difficulties of an individual in accessing or using transportation to and from the nearest Vet Center service site providing the necessary readjustment counseling services for the individual's plan of service.
+
+"(b)
+
+Participation.—
+
+&emsp;"(1)
+
+In general.—In carrying out the pilot program required by subsection (a), the Secretary shall limit participation—
+
+&emsp;&emsp;"(A) by individuals pursuant to paragraph (2); and
+
+&emsp;&emsp;"(B) by Vet Centers pursuant to paragraph (3).
+
+&emsp;"(2)
+
+Participation by individuals.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall limit participation in the pilot program to individuals who are eligible for services at a participating Vet Center and experiencing financial hardship.
+
+&emsp;&emsp;"(B)
+
+Financial hardship.—The Secretary shall determine the meaning of 'financial hardship' for purposes of subparagraph (A).
+
+&emsp;"(3)
+
+Participation of vet centers.—Vet Centers participating in the program shall be chosen by the Secretary from among those serving individuals in areas designated by the Secretary as rural or highly rural or Tribal lands.
+
+"(c)
+
+Travel Allowances and Reimbursements.—Under the pilot program required by subsection (a), the Secretary shall provide a participating individual a travel allowance or reimbursement at the earliest time practicable, but not later than 10 business days after the date of the appointment.
+
+"(d)
+
+Duration.—The Secretary shall carry out the pilot program required by subsection (a) during the five-year period beginning on the date of the commencement of the pilot program.
+
+"(e)
+
+Locations.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall carry out the pilot program at not fewer than five locations selected by the Secretary for purposes of the pilot program.
+
+&emsp;"(2)
+
+Existing initiative.—
+
+&emsp;&emsp;"(A)
+
+Locations participating in existing initiative.—Of the locations selected under paragraph (1), four shall be the locations participating in the initiative commenced under section 104(a) of the Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012 (Public Law 112–154) \[126 Stat. 1169\], as most recently amended by section 105 of the Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023 (Public Law 117–180) \[136 Stat. 2137\], as of the date of the enactment of this Act.
+
+&emsp;&emsp;"(B)
+
+Termination of existing initiative.—\[Amended section 104(a) of Pub. L. 112–154, which is not classified to the Code.\]
+
+"(f)
+
+Annual Reports.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the commencement of the pilot program required by subsection (a) and each year thereafter for the duration of the pilot program, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the findings of the Secretary with respect to the pilot program.
+
+&emsp;"(2)
+
+Contents.—Each report submitted under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) The number of individuals who benefitted from the pilot program, disaggregated by age, race or ethnicity, and sex, to the extent possible.
+
+&emsp;&emsp;"(B) The average distance traveled by each individual per each Vet Center.
+
+&emsp;&emsp;"(C) The definition of financial hardship determined by the Secretary under subsection (b)(2)(B).
+
+&emsp;&emsp;"(D) A description of how the funds are distributed.
+
+&emsp;&emsp;"(E) The average amount of funds distributed per instance, disaggregated by Vet Center.
+
+&emsp;&emsp;"(F) A description of any impediments to the Secretary in paying expenses or allowances under the pilot program.
+
+&emsp;&emsp;"(G) An assessment of the potential for fraudulent receipt of payment under the pilot program and the recommendations of the Secretary for legislative or administrative action to reduce such fraud.
+
+&emsp;&emsp;"(H) Such recommendations for legislative or administrative action as the Secretary considers appropriate with respect to the payment of expenses or allowances.
+
+"(g)
+
+Vet Center Defined.—In this section, the term 'Vet Center' means a center for readjustment counseling and related mental health services for veterans under section 1712A of title 38, United States Code."
+
 #### Clarification of Relation to Public Transportation in Veterans Health Administration Handbook
 
 Pub. L. 111–163, title III, §305(f), May 5, 2010, 124 Stat. 1152, provided that: "Not later than 30 days after the date of the enactment of this Act \[May 5, 2010\], the Secretary of Veterans Affairs shall revise the Veterans Health Administration Handbook to clarify that an allowance for travel based on mileage paid under section 111(a) of title 38, United States Code, may exceed the cost of such travel by public transportation regardless of medical necessity."
@@ -220,7 +358,7 @@ Pub. L. 110–387, title IV, §401(a)(2), Oct. 10, 2008, 122 Stat. 4122, provide
 
 #### Interim Guidelines for Beneficiary Travel Between January 1, 1984, and the Promulgation of Regulations by Administrator of Veterans' Affairs
 
-Pub. L. 98–160, title I, §108, Nov. 21, 1983, 97 Stat. 999, provided that promulgation of guidelines pending issuance of regulations covering the travel of beneficiaries during an interim period beginning Jan. 1, 1984, and directed that a report be made to Congress not later than Apr. 1, 1984, regarding travel payments.
+Pub. L. 98–160, title I, §108, Nov. 21, 1983, 97 Stat. 999, provided that promulgation of guidelines pendingissuance of regulations covering the travel of beneficiaries during an interim period beginning Jan. 1, 1984, and directed that a report be made to Congress not later than Apr. 1, 1984, regarding travel payments.
 
 #### Availability of Funds for Travel of Eligible Veterans, Dependents, or Survivors
 

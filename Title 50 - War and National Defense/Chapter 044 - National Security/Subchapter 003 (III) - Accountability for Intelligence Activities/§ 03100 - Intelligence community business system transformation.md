@@ -116,7 +116,7 @@ Not later than March 31 of each of the years 2011 through 2014, the Director of 
 
 &emsp;&emsp;(A) specific milestones and actual performance against specified performance measures, and any revision of such milestones and performance measures; and
 
-&emsp;&emsp;(B) specific actions on the intelligence community business system transformationssubmitted for certification under such subsection;
+&emsp;&emsp;(B) specific actions on the intelligence community business system transformations submitted for certification under such subsection;
 
 &emsp;(2) identify the number of intelligence community business system transformations that received a certification described in subsection (a)(2); and
 

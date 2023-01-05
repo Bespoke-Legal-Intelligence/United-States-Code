@@ -18,7 +18,7 @@ The Secretary may not make a grant under subsection (a) unless the designated he
 
 &emsp;(5) to facilitate faculty and student research on health issues particularly affecting under-represented minority groups, including research on issues relating to the delivery of health care;
 
-&emsp;(6) to carry out a program to train students of the school in providing health services to asignificant number of under-represented minority individuals through training provided to such students at community-based health facilities that—
+&emsp;(6) to carry out a program to train students of the school in providing health services to a significant number of under-represented minority individuals through training provided to such students at community-based health facilities that—
 
 &emsp;&emsp;(A) provide such health services; and
 
@@ -50,7 +50,7 @@ The Secretary may not make a grant under subsection (a) unless the designated he
 
 &emsp;&emsp;&emsp;(ii) has been effective in assisting under-represented minority students of the school to complete the program of education and receive the degree involved;
 
-&emsp;&emsp;&emsp;(iii) has been effective in recruiting under-represented minority individuals to enroll in and graduate from the school, including providing scholarships and other financial assistance to such individuals and encouraging under-represented minority students from all levels of the educational pipeline to pursue health professions careers; and
+&emsp;&emsp;&emsp;(iii) has been effective in recruiting under-represented minority individuals toenroll in and graduate from the school, including providing scholarships and other financial assistance to such individuals and encouraging under-represented minority students from all levels of the educational pipeline to pursue health professions careers; and
 
 &emsp;&emsp;&emsp;(iv) has made significant recruitment efforts to increase the number of under-represented minority individuals serving in faculty or administrative positions at the school.
 
@@ -118,7 +118,7 @@ The Secretary may not make a grant under subsection (a) unless the designated he
 
 &emsp;&emsp;&emsp;&emsp;(II) to facilitate the educational preparation of such students to enter the designated health professions school; and
 
-&emsp;&emsp;&emsp;(ii) the designated health professions school will make efforts to recruit Native American students, including students who have participated in the undergraduate program carried out under arrangements established by the school pursuant to clause (i) and will assist Native American students regarding the completion of the educational requirements for a degree from the designated health professions school.
+&emsp;&emsp;&emsp;(ii) the designated health professions school will make efforts to recruit NativeAmerican students, including students who have participated in the undergraduate program carried out under arrangements established by the school pursuant to clause (i) and will assist Native American students regarding the completion of the educational requirements for a degree from the designated health professions school.
 
 #### (5) Other centers of excellence
 
@@ -200,7 +200,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) 80 percent of such excess amounts shall be made available for grants under subsection (a) to health professions schools that meet the requirements described in paragraph (3) or (4) of subsection (c) (including meeting conditions pursuant to subsection (e)); and
 
-&emsp;&emsp;&emsp;(ii) 20 percent of such excess amount shall be made available for grants under subsection (a) to health professions schools that meet the conditions described in subsection (c)(5).
+&emsp;&emsp;&emsp;(ii) 20 percent of such excess amount shall be made available for grants undersubsection (a) to health professions schools that meet the conditions described in subsection (c)(5).
 
 #### (C) Funding in excess of $30,000,000
 
@@ -274,7 +274,7 @@ A prior section 736 of act July 1, 1944, was classified to section 294i of this 
 
 #### Savings Provision
 
-Pub. L. 105–392, title I, §110, Nov. 13, 1998, 112 Stat. 3562, provided that: "In the case of any authority for making awards of grants or contracts that is terminated by the amendments made by this subtitle \[subtitle A (§§101–110) of title I of Pub. L. 105–392, see Tables for classification\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be."
+Pub. L. 105–392, title I, §110, Nov. 13, 1998, 112 Stat. 3562, provided that: "In the case of any authority formaking awards of grants or contracts that is terminated by the amendments made by this subtitle \[subtitle A (§§101–110) of title I of Pub. L. 105–392, see Tables for classification\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
 

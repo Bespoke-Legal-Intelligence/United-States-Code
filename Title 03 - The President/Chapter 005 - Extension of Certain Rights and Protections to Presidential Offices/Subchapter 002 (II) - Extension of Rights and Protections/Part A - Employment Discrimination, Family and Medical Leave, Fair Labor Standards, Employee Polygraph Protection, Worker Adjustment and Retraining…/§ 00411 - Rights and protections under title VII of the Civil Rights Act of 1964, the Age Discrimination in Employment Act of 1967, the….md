@@ -50,7 +50,7 @@ Covered employee.—The term "covered employee" means any employee of a unit of 
 
 &emsp;&emsp;(A) whose appointment is made by and with the advice and consent of the Senate;
 
-&emsp;&emsp;(B) who is appointed to an advisory committee, as defined in section 3(2) of the Federal Advisory Committee Act; or
+&emsp;&emsp;(B) who is appointed to an advisory committee, as defined in section 1001 of title 5; or
 
 &emsp;&emsp;(C) who is a member of the uniformed services.
 
@@ -80,13 +80,13 @@ Agency regulations.—The regulations issued under paragraph (1) shall be the sa
 
 (e)
 
-Applicability.—Subsections (a) through (c), and section 417 (to the extent that it relatesto any matter under this section), shall apply with respect to violations occurring on or after the effective date of this chapter.
+Applicability.—Subsections (a) through (c), and section 417 (to the extent that it relates to any matter under this section), shall apply with respect to violations occurring on or after the effective date of this chapter.
 
 (f)
 
 Effective Date.—This section shall take effect on October 1, 1997.
 
-(Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4055.)
+(Added Pub. L. 104–331, §2(a), Oct. 26, 1996, 110 Stat. 4055; amended Pub. L. 117–286, §4(a)(3), Dec. 27, 2022, 136 Stat. 4305.)
 
 #### <b>Editorial Notes</b>
 
@@ -102,9 +102,11 @@ Sections 102 to 104 and 107 of the Americans with Disabilities Act of 1990, refe
 
 Sections 1977 and 1977A of the Revised Statutes, referred to in subsec. (b)(1)(B), (3)(B), are classified to sections 1981 and 1981a, respectively, of Title 42.
 
-Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (c)(1)(B), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The effective date of this chapter, referred to in subsec. (e), is Oct. 1, 1997, unless otherwise provided, see section 471 of this title.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c)(1)(B). Pub. L. 117–286 substituted "section 1001 of title 5;" for "section 3(2) of the Federal Advisory Committee Act;".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

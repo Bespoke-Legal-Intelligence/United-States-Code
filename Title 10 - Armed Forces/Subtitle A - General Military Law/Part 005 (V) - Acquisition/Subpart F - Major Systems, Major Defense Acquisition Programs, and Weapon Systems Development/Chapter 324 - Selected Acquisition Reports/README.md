@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [4351\.](%C2%A7%2004351%20-%20Selected%20Acquisition%20Reports.md) | Selected Acquisition Reports.<br> |
+| [4351\.](%C2%A7%2004351%20-%20Selected%20Acquisition%20Reports.md) | Selected Acquisition Reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

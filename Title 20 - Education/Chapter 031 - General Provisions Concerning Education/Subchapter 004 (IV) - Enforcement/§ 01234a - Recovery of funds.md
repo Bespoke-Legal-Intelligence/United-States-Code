@@ -16,7 +16,7 @@
 
 &emsp;(A) transmitted a copy of the preliminary departmental decision to any affected subrecipient within 10 days of the date that the State recipient in a State administered program received such written notice; and
 
-&emsp;(B) consulted with each affected subrecipient to determine whether the State recipientshould submit an application for review under paragraph (1).
+&emsp;(B) consulted with each affected subrecipient to determine whether the State recipient should submit an application for review under paragraph (1).
 
 (3) In any proceeding before the Office under this section, the burden shall be upon the recipient to demonstrate that it should not be required to return the amount of funds for which recovery is sought in the preliminary departmental decision under subsection (a).
 
@@ -26,7 +26,7 @@ A hearing shall be set 90 days after receipt of a request for review of a prelim
 
 #### (d) Review of findings of fact in preliminary decision; conclusiveness; remand; new or modified findings
 
-(1) Upon review of a decision of the Office by the Secretary, the findings of fact by the Office, if supported by substantial evidence, shall be conclusive. However, the Secretary, for good cause shown, may remand the case to the Office to take further evidence, and the Office may thereupon make new or modified findings of fact and may modify its previous action. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+(1) Upon review of a decision of the Office by the Secretary, the findings of fact by the Office, if supported by substantial evidence, shall be conclusive. However, the Secretary, for goodcause shown, may remand the case to the Office to take further evidence, and the Office may thereupon make new or modified findings of fact and may modify its previous action. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 (2) During the conduct of such review, there shall not be any ex parte contact between the Secretary and individuals representing the Department or the recipient.
 

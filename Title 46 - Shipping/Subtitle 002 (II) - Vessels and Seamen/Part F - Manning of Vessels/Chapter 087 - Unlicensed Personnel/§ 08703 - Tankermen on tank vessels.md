@@ -28,7 +28,7 @@ Section 8703 sets requirements for tankermen on board vessels carrying oil or ha
 
 Subsection (a) requires a specified number of the crew certified as tankermen on board these vessels and a notation be made to that effect on the vessel's certificate of inspection. A tankerman is an individual who is experienced and trained in the procedures for transferring oil or hazardous material to or from a vessel and is responsible for carrying out these duties and responsibilities.
 
-Subsection (b) authorizes the Secretary to regulate tankermen and restrict the types of oil or hazardousmaterials on the basis of safety to the vessel and the marine environment.
+Subsection (b) authorizes the Secretary to regulate tankermen and restrict the types of oil or hazardous materials on the basis of safety to the vessel and the marine environment.
 
 Subsection (c) requires a tankerman or licensed master, pilot, engineer, or operator to be present and in charge of a transfer of oil or hazardous material on certain vessels in the service of oil exploitation. If this individual is not on board, then the tank vessel requirements of chapter 37 apply to the vessel.
 

@@ -20,7 +20,7 @@
 
 (2) An obligation of the Government issued after March 3, 1971, under law may not be redeemed before its maturity to pay a tax imposed by the Government in an amount more than the fair market value of the obligation at the time of its redemption. This paragraph does not apply to a Treasury bill issued under section 3104 of this title.
 
-(c) Under conditions prescribed by the Secretary, an obligation authorized by this chapter may be issued in exchange for an obligation of an agency whose principal and interest are unconditionally guaranteed by the Government at or before maturity.
+(c) Under conditions prescribed by the Secretary, an obligation authorized by this chapter may be issued in exchange for an obligation ofan agency whose principal and interest are unconditionally guaranteed by the Government at or before maturity.
 
 (d) Under conditions prescribed by the Secretary, the Secretary may issue registered bonds in exchange for and instead of coupon bonds that have been or may be issued. The registered bonds shall be similar in all respects to the registered bonds issued under a law authorizing the issue of coupon bonds offered for exchange.
 
@@ -44,7 +44,7 @@
 
 (3) Nothing in this subsection shall be construed to affect in any way the powers of such agencies under any other provision of law.
 
-(4) The Secretary shall, prior to adopting regulations under this subsection, determine with respect to each appropriate regulatory agency and the National Credit Union AdministrationBoard, whether its rules and standards adequately meet the purposes of regulations to be promulgated under this subsection, and if the Secretary so determines, shall exempt any depository institution subject to such rules or standards from the regulations promulgated under this subsection.
+(4) The Secretary shall, prior to adopting regulations under this subsection, determine with respect to each appropriate regulatory agency and the National Credit Union Administration Board, whether its rules and standards adequately meet the purposes of regulations to be promulgated under this subsection, and if the Secretary so determines, shall exempt any depository institution subject to such rules or standards from the regulations promulgated under this subsection.
 
 (5) As used in this subsection—
 
@@ -226,7 +226,7 @@ Pub. L. 98–216, §4(a), (b), Feb. 14, 1984, 98 Stat. 6, 7, as amended by Pub. 
 
 "(2) The amendment made by section 1(9) of the Act of January 12, 1983 (Public Law 97–452, 96 Stat. 2468) \[amending this section\], applies to an obligation issued after June 30, 1983, if—
 
-&emsp;"(A) interest on the obligation is exempt from tax (decided without regard to the amendments made by section 310 of the Tax Equity and Fiscal Responsibility Act of 1982 (Public Law 97–248, 96 Stat. 595) \[enacting section 4701 of Title 26, Internal Revenue Code, section 757c–5 of former Title 31, Money and Finance, amending sections 103, 103A, 163, 165, 312, and 1232 of Title 26, and enacting a provision set out as a note under section 103 of Title 26\]) under law (without regard to the identity of the holder); and
+&emsp;"(A) interest on the obligation is exempt from tax (decided without regard to the amendments made by section 310 of the Tax Equity and Fiscal Responsibility Act of 1982 (Public Law 97–248, 96 Stat. 595) \[enacting section 4701 of Title 26, Internal Revenue Code,section 757c–5 of former Title 31, Money and Finance, amending sections 103, 103A, 163, 165, 312, and 1232 of Title 26, and enacting a provision set out as a note under section 103 of Title 26\]) under law (without regard to the identity of the holder); and
 
 &emsp;"(B) the obligation was not required to be in registered form under the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (26 U.S.C. 1 et seq.) as in effect on September 2, 1982.
 
@@ -242,7 +242,7 @@ Pub. L. 103–329, title I, Sept. 30, 1994, 108 Stat. 2386, provided in part: "T
 
 #### Treasury Auction Reforms
 
-Pub. L. 103–202, title II, §202, Dec. 17, 1993, 107 Stat. 2356, provided that:
+Pub. L. 103–202, title II, §202, Dec. 17, 1993, 107 Stat. 2356, as amended by Pub. L. 117–286, §4(a)(195), Dec. 27, 2022, 136 Stat. 4327, provided that:
 
 "(a)
 
@@ -298,7 +298,7 @@ Exception.—Subparagraph (A) shall not apply with respect to any part of any me
 
 &emsp;"(2)
 
-Minutes of each meeting.—The detailed minutes required to be maintained under section 10(c) of the Federal Advisory Committee Act \[5 U.S.C. App.\] for any meeting by the advisory committee shall be made available to the public within 3 business days of the date of the meeting.
+Minutes of each meeting.—The detailed minutes required to be maintained under section 1009(c) of title 5, United States Code, for any meeting by the advisory committee shall be made available to the public within 3 business days of the date of the meeting.
 
 &emsp;"(3)
 

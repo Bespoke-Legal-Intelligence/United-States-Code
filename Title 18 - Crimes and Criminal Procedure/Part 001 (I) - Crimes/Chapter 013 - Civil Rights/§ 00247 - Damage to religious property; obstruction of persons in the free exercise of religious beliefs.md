@@ -18,13 +18,13 @@
 
 &emsp;(2) if bodily injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this section, and the violation is by means of fire or an explosive, a fine under this title or imprisonment for not more that 40 years, or both;
 
-&emsp;(3) if bodily injury to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this section, results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire, a fine in accordance with this title and imprisonment for not more than 20 years, or both;
+&emsp;(3) if bodily injury to any person, including any public safety officer performing duties asa direct or proximate result of conduct prohibited by this section, results from the acts committed in violation of this section or if such acts include the use, attempted use, or threatened use of a dangerous weapon, explosives, or fire, a fine in accordance with this title and imprisonment for not more than 20 years, or both;
 
 &emsp;(4) if damage to or destruction of property results from the acts committed in violation of this section, which damage to or destruction of such property is in an amount that exceeds $5,000, a fine in accordance with this title, imprisonment for not more than 3 years, or both; and
 
 &emsp;(5) in any other case, a fine in accordance with this title and imprisonment for not more than one year, or both.
 
-(e) No prosecution of any offense described in this section shall be undertaken by the United States except upon the certification in writingof the Attorney General or his designee that in his judgment a prosecution by the United States is in the public interest and necessary to secure substantial justice.
+(e) No prosecution of any offense described in this section shall be undertaken by the United States except upon the certification in writing of the Attorney General or his designee that in his judgment a prosecution by the United States is in the public interest and necessary to secure substantial justice.
 
 (f) As used in this section, the term "religious real property" means any church, synagogue, mosque, religious cemetery, or other religious real property, including fixtures or religious objects contained within a place of religious worship, or real property owned or leased by a nonprofit, religiously affiliated organization.
 

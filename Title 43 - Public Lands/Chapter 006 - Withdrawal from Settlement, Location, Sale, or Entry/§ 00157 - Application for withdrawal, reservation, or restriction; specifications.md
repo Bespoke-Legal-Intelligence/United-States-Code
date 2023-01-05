@@ -14,7 +14,7 @@ Any application filed on and after February 28, 1958 for a withdrawal, reservati
 
 &emsp;(6) the period during which the proposed withdrawal, reservation, or restriction will continue in effect;
 
-&emsp;(7) whether, and if so to what extent, the proposed use will affect continuing full operation of the public land laws and Federal regulations relating to conservation, utilization, and development of mineral resources, timber and other material resources, grazing resources, fish and wildlife resources, water resources, and scenic, wilderness, and recreation and other values; and
+&emsp;(7) whether, and if so to what extent, the proposed use will affect continuing full operation of the public land laws and Federal regulations relating to conservation, utilization,and development of mineral resources, timber and other material resources, grazing resources, fish and wildlife resources, water resources, and scenic, wilderness, and recreation and other values; and
 
 &emsp;(8) if effecting the purpose for which the area is proposed to be withdrawn, reserved, or restricted, will involve the use of water in any State, whether, subject to existing rights under law, the intended using agency has acquired, or proposes to acquire, rights to the use thereof in conformity with State laws and procedures relating to the control, appropriation, use, and distribution of water.
 

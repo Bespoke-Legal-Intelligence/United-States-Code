@@ -14,7 +14,7 @@
 
 &emsp;The pro rata share referred to in paragraph (1)(A)(i) in the case of any United States shareholder is the amount—
 
-&emsp;&emsp;(A) which would have been distributed with respect to the stock which such shareholder owns (within the meaning of section 958(a)) in such corporation if on the last day, in its taxable year, on which the corporation is a controlled foreign corporation it had distributed pro rata to its shareholders an amount (i) which bears the same ratio to its subpart F income for the taxable year, as (ii) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year, reduced by
+&emsp;&emsp;(A) which would have been distributed with respect to the stock which such shareholder owns (within the meaning of section 958(a)) in such corporation if on the last day,in its taxable year, on which the corporation is a controlled foreign corporation it had distributed pro rata to its shareholders an amount (i) which bears the same ratio to its subpart F income for the taxable year, as (ii) the part of such year during which the corporation is a controlled foreign corporation bears to the entire year, reduced by
 
 &emsp;&emsp;(B) the amount of distributions received by any other person during such year as a dividend with respect to such stock, but only to the extent of the dividend which would have been received if the distribution by the corporation had been the amount (i) which bears the same ratio to the subpart F income of such corporation for the taxable year, as (ii) the part of such year during which such shareholder did not own (within the meaning of section 958(a)) such stock bears to the entire year.
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 104–188 applicable to taxable years of foreign corporatio
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13231(e), Aug. 10, 1993, 107 Stat. 501, provided that: "The amendments made by this section \[enacting section 956A of this title and amending this section and sections 959, 989, 1293, 1296, and 1297 of this title\] shall apply to taxable years of foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders inwhich or with which such taxable years of foreign corporations end."
+Pub. L. 103–66, title XIII, §13231(e), Aug. 10, 1993, 107 Stat. 501, provided that: "The amendments made by this section \[enacting section 956A of this title and amending this section and sections 959, 989, 1293, 1296, and 1297 of this title\] shall apply to taxable years of foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of foreign corporations end."
 
 Pub. L. 103–66, title XIII, §13232(d), Aug. 10, 1993, 107 Stat. 502, provided that: "The amendments made by this section \[amending this section and section 956 of this title\] shall apply to taxable years of controlled foreign corporations beginning after September 30, 1993, and to taxable years of United States shareholders in which or with which such taxable years of controlled foreign corporations end."
 
@@ -144,7 +144,7 @@ Amendment by section 801(d)(4) of Pub. L. 98–369 applicable to transactions af
 
 #### Effective Date of 1975 Amendment
 
-Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31, 1975, and to taxable years of United States shareholders (within the meaning of 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as a note under section 954 of this title.
+Amendment by Pub. L. 94–12 applicable to taxable years of foreign corporations beginning after Dec. 31,1975, and to taxable years of United States shareholders (within the meaning of 951(b) of this title) within which or with which such taxable years of such foreign corporations end, see section 602(f) of Pub. L. 94–12, set out as a note under section 954 of this title.
 
 #### Effective Date
 

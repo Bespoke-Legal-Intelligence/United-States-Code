@@ -20,7 +20,7 @@ The Office of Innovation and Entrepreneurship shall be responsible for—
 
 #### (c) Advisory committee
 
-The Secretary shall establish an Advisory Council on Innovation and Entrepreneurship to provide advice to the Secretary on carrying out subsection (b).
+The Secretary shall establish an Advisory Council on Innovation and Entrepreneurship toprovide advice to the Secretary on carrying out subsection (b).
 
 (Pub. L. 96–480, §25, as added Pub. L. 111–358, title VI, §601, Jan. 4, 2011, 124 Stat. 4026.)
 

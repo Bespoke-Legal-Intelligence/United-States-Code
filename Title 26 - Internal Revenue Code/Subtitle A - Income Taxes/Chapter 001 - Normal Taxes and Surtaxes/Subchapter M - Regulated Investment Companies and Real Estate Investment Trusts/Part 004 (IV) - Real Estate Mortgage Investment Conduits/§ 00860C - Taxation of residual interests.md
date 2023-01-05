@@ -30,7 +30,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) the deductions referred to in section 703(a)(2) (other than any deduction under section 212) shall not be allowed, and
 
-&emsp;&emsp;(E) the amount of the net income from foreclosure property (if any) shall be reduced by the amount of the tax imposed by section 860G(c).
+&emsp;&emsp;(E) the amount of the net income from foreclosure property (if any) shall be reducedby the amount of the tax imposed by section 860G(c).
 
 #### (2) Net loss
 
@@ -90,7 +90,7 @@ Any distribution by a REMIC—
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647, §1006(t)(21), substituted "and, except as provided in regulations, in thesame manner" for "and in the same manner" in introductory provisions.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–647, §1006(t)(21), substituted "and, except as provided in regulations, in the same manner" for "and in the same manner" in introductory provisions.
 
 Subsec. (b)(1)(E). Pub. L. 100–647, §1006(t)(8)(C), added subpar. (E).
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) The initial determination of the amount of benefits available to the individual under such parts.
 
-&emsp;&emsp;(C) Any other initial determination with respect to a claim for benefits under such parts, including an initial determination by the Secretary that payment may not be made, or may no longer be made, for an item or service under such parts, an initial determination made by a quality improvement organization under section 1320c–3(a)(2) of this title, and an initial determination made by an entity pursuant to a contract (other than a contract under section 1395w–22 of this title) with the Secretary to administer provisions of this subchapter or subchapter XI.
+&emsp;&emsp;(C) Any other initial determination with respect to a claim for benefits under such parts, including an initial determination by the Secretary that payment may not be made, or may no longer be made, for an item or service under such parts, an initial determination made by a quality improvement organization under section 1320c–3(a)(2) ofthis title, and an initial determination made by an entity pursuant to a contract (other than a contract under section 1395w–22 of this title) with the Secretary to administer provisions of this subchapter or subchapter XI.
 
 #### (2) Deadlines for making initial determinations
 
@@ -92,7 +92,7 @@
 
 #### (A) Reconsideration of initial determination
 
-&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the "Commissioner of Social Security" or the "Social Security Administration" in subsection (g) or (l) of section 405 of this title shall be considered a reference to the "Secretary" or the "Department of Health and Human Services", respectively.
+&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary tothe same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the "Commissioner of Social Security" or the "Social Security Administration" in subsection (g) or (l) of section 405 of this title shall be considered a reference to the "Secretary" or the "Department of Health and Human Services", respectively.
 
 #### (B) Representation by provider or supplier
 
@@ -218,7 +218,7 @@
 
 #### (2) Qualified independent contractor
 
-&emsp;For purposes of this subsection, the term "qualified independent contractor" means an entity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1), and that meets the requirements established by the Secretary consistent with paragraph (3).
+&emsp;For purposes of this subsection, the term "qualified independent contractor" means anentity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1), and that meets the requirements established by the Secretary consistent with paragraph (3).
 
 #### (3) Requirements
 
@@ -252,7 +252,7 @@
 
 #### (i) Reconsiderations
 
-&emsp;&emsp;&emsp;Except as provided in clauses (iii) and (iv), the qualified independent contractorshall conduct and conclude a reconsideration under subparagraph (B), and mail the notice of the decision with respect to the reconsideration by not later than the end of the 60-day period beginning on the date a request for reconsideration has been timely filed.
+&emsp;&emsp;&emsp;Except as provided in clauses (iii) and (iv), the qualified independent contractor shall conduct and conclude a reconsideration under subparagraph (B), and mail the notice of the decision with respect to the reconsideration by not later than the end of the 60-day period beginning on the date a request for reconsideration has been timely filed.
 
 #### (ii) Consequences of failure to meet deadline
 
@@ -276,7 +276,7 @@
 
 #### (iv) Extension
 
-&emsp;&emsp;&emsp;An individual requesting a reconsideration under this subparagraph may be granted such additional time as the individual specifies (not to exceed 14 days) for the qualified independent contractor to conclude the reconsideration. The individual may request such additional time orally or in writing.
+&emsp;&emsp;&emsp;An individual requesting a reconsideration under this subparagraph may begranted such additional time as the individual specifies (not to exceed 14 days) for the qualified independent contractor to conclude the reconsideration. The individual may request such additional time orally or in writing.
 
 #### (D) Qualifications for reviewers
 
@@ -342,7 +342,7 @@
 
 #### (iii) Limitations on entity compensation
 
-&emsp;&emsp;&emsp;Compensation provided by the Secretary to a qualified independent contractor in connection with reviews under this section shall not be contingent on any decision rendered by the contractor or by any reviewing professional.
+&emsp;&emsp;&emsp;Compensation provided by the Secretary to a qualified independent contractor inconnection with reviews under this section shall not be contingent on any decision rendered by the contractor or by any reviewing professional.
 
 #### (4) Number of qualified independent contractors
 
@@ -382,7 +382,7 @@
 
 #### (B) Departmental Appeals Board review
 
-&emsp;&emsp;In the case of a failure by the Departmental Appeals Board to render a decisionby the end of the period described in paragraph (2), the party requesting the hearing may seek judicial review, notwithstanding any requirements for a hearing for purposes of the party's right to such judicial review.
+&emsp;&emsp;In the case of a failure by the Departmental Appeals Board to render a decision by the end of the period described in paragraph (2), the party requesting the hearing may seek judicial review, notwithstanding any requirements for a hearing for purposes of the party's right to such judicial review.
 
 #### (4) Notice
 
@@ -580,7 +580,7 @@
 
 &emsp;&emsp;(A) a physician (allopathic or osteopathic) who is appropriately credentialed or licensed in one or more States to deliver health care services and has medical expertise in the field of practice that is appropriate for the items or services at issue; or
 
-&emsp;&emsp;(B) a health care professional who is legally authorized in one or more States (in accordance with State law or the State regulatory mechanism provided by State law) to furnish the health care items or services atissue and has medical expertise in the field of practice that is appropriate for such items or services.
+&emsp;&emsp;(B) a health care professional who is legally authorized in one or more States (in accordance with State law or the State regulatory mechanism provided by State law) to furnish the health care items or services at issue and has medical expertise in the field of practice that is appropriate for such items or services.
 
 #### (5) Related party defined
 
@@ -724,7 +724,7 @@ Subsec. (c)(3)(B)(i). Pub. L. 108–173, §933(b), inserted "(including the medi
 
 Subsec. (c)(3)(C)(i). Pub. L. 108–173, §940(a)(2), substituted "60-day period" for "30-day period".
 
-Subsec. (c)(3)(D). Pub. L. 108–173, §933(d)(2)(A), amended heading and text of subpar. (D) generally, substituting provisions directing that subsec. (g) requirements be met for provisions prohibiting a physician or health care professional from reviewing a determination where such physician or health care professionalhad been directly responsible for furnishing services or had had a significant financial interest in the institution, organization, or agency which provided the services.
+Subsec. (c)(3)(D). Pub. L. 108–173, §933(d)(2)(A), amended heading and text of subpar. (D) generally, substituting provisions directing that subsec. (g) requirements be met for provisions prohibiting a physician or health care professional from reviewing a determination where such physician or health care professional had been directly responsible for furnishing services or had had a significant financial interest in the institution, organization, or agency which provided the services.
 
 Subsec. (c)(3)(E). Pub. L. 108–173, §933(c)(2), inserted "be written in a manner calculated to be understood by the individual entitled to benefits under part A or enrolled under part B, or both, and shall include (to the extent appropriate)" after "in writing," and "and a notification of the right to appeal such determination and instructions on how to initiate such appeal under this section" after "such decision,".
 
@@ -804,7 +804,7 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 #### Effective Date of 2003 Amendment
 
-Amendment by section 932(a) of Pub. L. 108–173 applicable to appeals filed on or after Oct. 1, 2004, see section932(d) of Pub. L. 108–173, set out as a note under section 1395i–3 of this title.
+Amendment by section 932(a) of Pub. L. 108–173 applicable to appeals filed on or after Oct. 1, 2004, see section 932(d) of Pub. L. 108–173, set out as a note under section 1395i–3 of this title.
 
 Pub. L. 108–173, title IX, §933(a)(2), Dec. 8, 2003, 117 Stat. 2402, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 2004."
 
@@ -894,7 +894,7 @@ Contents.—The plan shall include information on the following:
 
 &emsp;&emsp;"(A)
 
-Workload.—The number of such administrative law judges and support staff required now andin the future to hear and decide such cases in a timely manner, taking into account the current and anticipated claims volume, appeals, number of beneficiaries, and statutory changes.
+Workload.—The number of such administrative law judges and support staff required now and in the future to hear and decide such cases in a timely manner, taking into account the current and anticipated claims volume, appeals, number of beneficiaries, and statutory changes.
 
 &emsp;&emsp;"(B)
 
@@ -954,7 +954,7 @@ Additional information.—The plan may also include recommendations for further 
 
 &emsp;"(4) GAO
 
-evaluation.—The Comptroller General of the United States shall evaluate the plan and, not later than the date that is 6 months after the date on which the plan is received by the Comptroller General, shall submit to Congress a report on such evaluation.
+evaluation.—The Comptroller General of the United States shall evaluate the plan and, notlater than the date that is 6 months after the date on which the plan is received by the Comptroller General, shall submit to Congress a report on such evaluation.
 
 "(b)
 
@@ -1004,7 +1004,7 @@ Pub. L. 108–173, title IX, §937, Dec. 8, 2003, 117 Stat. 2412, provided that:
 
 "(a)
 
-Claims.—The Secretary \[of Health and Human Services\] shall develop, in consultation with appropriate medicare contractors (as defined in section 1889(g) of the Social Security Act \[42 U.S.C. 1395zz(g)\], as inserted by section 301(a)(1) \[probably should be 921(f)(1)\]) and representatives of providers of servicesand suppliers, a process whereby, in the case of minor errors or omissions (as defined by the Secretary) that are detected in the submission of claims under the programs under title XVIII of such Act \[42 U.S.C. 1395 et seq.\], a provider of services or supplier is given an opportunity to correct such an error or omission without the need to initiate an appeal. Such process shall include the ability to resubmit corrected claims.
+Claims.—The Secretary \[of Health and Human Services\] shall develop, in consultation with appropriate medicare contractors (as defined in section 1889(g) of the Social Security Act \[42 U.S.C. 1395zz(g)\], as inserted by section 301(a)(1) \[probably should be 921(f)(1)\]) and representatives of providers of services and suppliers, a process whereby, in the case of minor errors or omissions (as defined by the Secretary) that are detected in the submission of claims under the programs under title XVIII of such Act \[42 U.S.C. 1395 et seq.\], a provider of services or supplier is given an opportunity to correct such an error or omission without the need to initiate an appeal. Such process shall include the ability to resubmit corrected claims.
 
 "(b)
 

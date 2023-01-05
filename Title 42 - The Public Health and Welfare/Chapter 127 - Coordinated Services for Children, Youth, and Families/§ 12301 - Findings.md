@@ -104,7 +104,7 @@ Performance Partnership Agreements.—Federal agencies may use Federal discretio
 
 &emsp;&emsp;"(I) the outcome (or outcomes) that the Pilot is designed to achieve;
 
-&emsp;&emsp;"(J) the appropriate, reliable, and objective outcome-measurement methodology that the Federal Government and the participating State, local, or tribal governments will use, in carrying out the Pilot, to determine whether the Pilot is achieving, and has achieved, the specified outcomes that the Pilot is designed to achieve;
+&emsp;&emsp;"(J) the appropriate, reliable, and objective outcome-measurement methodology that the Federal Government and the participating State, local, or tribal governments will use, in carrying out the Pilot, to determine whether the Pilot is achieving,and has achieved, the specified outcomes that the Pilot is designed to achieve;
 
 &emsp;&emsp;"(K) the statutory, regulatory, or administrative requirements related to Federal mandatory programs that are barriers to achieving improved outcomes of the Pilot; and
 

@@ -14,7 +14,7 @@ Membership.—(1) The Board shall consist of 5 members, to be appointed by the P
 
 &emsp;(B) at least 2 members shall be individuals with professional or business experience (including agriculture) in the private sector.
 
-(3) The term of each member of the Board shall be 5 years and shall begin when the termof the predecessor of that member ends. An individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, shall be appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
+(3) The term of each member of the Board shall be 5 years and shall begin when the term of the predecessor of that member ends. An individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, shall be appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
 
 (4) No individual may serve as a member of the Board for more than 2 terms. In the case of an individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, such individual may not be appointed for more than one additional term.
 
@@ -50,7 +50,7 @@ Subsec. (a). Pub. L. 114–110, §3(b), added subsec. (a) and struck out former 
 
 Subsec. (b)(1). Pub. L. 114–110, §4(a)(1), substituted "5 members" for "3 members" and "3 members" for "2 members".
 
-Subsec. (b)(2). Pub. L. 114–110, §4(a)(2), added par. (2) and struck out former par. (2) which read as follows: "At any given time, at least 2 members of the Board shall be individuals with professional standing and demonstrated knowledge in the fields of transportation or transportation regulation, and at least one member shall be an individual with professional or business experience (including agriculture) in the private sector."
+Subsec. (b)(2). Pub. L. 114–110, §4(a)(2), added par. (2) and struck out former par. (2) which read as follows: "At any given time, at least 2 members of the Board shall be individuals with professional standing and demonstrated knowledge in the fields of transportation or transportation regulation, and at least one membershall be an individual with professional or business experience (including agriculture) in the private sector."
 
 Subsec. (b)(4). Pub. L. 114–110, §4(b)(3), struck out "who becomes a member of the Board pursuant to paragraph (4), or an individual" after "In the case of an individual".
 

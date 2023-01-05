@@ -32,7 +32,7 @@ There shall be an Office of Indian Education (referred to in this section as "th
 
 &emsp;Such preference shall be implemented in the same fashion as the preference given to any veteran under section 45 of title 25.
 
-(Pub. L. 96–88, title II, §215, as added Pub. L. 103–382, title III, §372(2), Oct. 20, 1994, 108 Stat. 3977; amended Pub. L. 114–95, title IX, §9215(v), Dec. 10, 2015, 129 Stat. 2171.)
+(Pub. L. 96–88, title II, §215, as added Pub. L. 103–382, title III, §372(2), Oct. 20, 1994, 108 Stat.3977; amended Pub. L. 114–95, title IX, §9215(v), Dec. 10, 2015, 129 Stat. 2171.)
 
 #### <b>Editorial Notes</b>
 

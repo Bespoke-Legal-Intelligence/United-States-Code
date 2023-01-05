@@ -1,6 +1,6 @@
 ### §4506. Recipient's eligibility
 
-Each student awarded a fellowship under this chapter shall demonstrate the potential, and aserious intention, to follow a career of educating students in secondary schools. Each institution of higher education at which such a student is in attendance shall make reasonable efforts to encourage such a student to meet the objectives of this section.
+Each student awarded a fellowship under this chapter shall demonstrate the potential, and a serious intention, to follow a career of educating students in secondary schools. Each institution of higher education at which such a student is in attendance shall make reasonable efforts to encourage such a student to meet the objectives of this section.
 
 Each student receiving a Fellowship under this chapter <sup>1</sup> shall enter into an agreement under which the recipient shall:
 

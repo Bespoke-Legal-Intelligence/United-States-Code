@@ -36,7 +36,7 @@ A disclosing part B provider shall notify the Secretary of any changes or update
 
 #### (3) Fees for verification
 
-&emsp;The Secretary shall reimburse the Commissioner and Secretary of the Treasury, at a ratenegotiated between the Secretary and such official, for the costs incurred by such official in performing the verification and correction services described in this subsection.
+&emsp;The Secretary shall reimburse the Commissioner and Secretary of the Treasury, at a rate negotiated between the Secretary and such official, for the costs incurred by such official in performing the verification and correction services described in this subsection.
 
 #### (d) Definitions
 

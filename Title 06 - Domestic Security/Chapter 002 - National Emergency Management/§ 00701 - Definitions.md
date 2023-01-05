@@ -18,7 +18,7 @@ In this title— <sup>1</sup>
 
 &emsp;(6) the terms "emergency" and "major disaster" have the meanings given the terms in section 5122 of title 42;
 
-&emsp;(7) the term "emergency management" means the governmental function that coordinates and integrates all activities necessary to build, sustain, and improve the capability to prepare for, protect against, respond to, recover from, or mitigate against threatened or actual natural disasters, acts of terrorism, or other man-made disasters;
+&emsp;(7) the term "emergency management" means the governmental function that coordinates and integrates all activities necessary tobuild, sustain, and improve the capability to prepare for, protect against, respond to, recover from, or mitigate against threatened or actual natural disasters, acts of terrorism, or other man-made disasters;
 
 &emsp;(8) the term "emergency response provider" has the meaning given the term in section 101 of this title;
 
@@ -75,6 +75,10 @@ Exceptions.—The following shall take effect on March 31, 2007:
 &emsp;"(4) The amendments made by subsection (a) \[sic\].
 
 &emsp;"(5) The amendments made by subsection (b)(1) \[sic\]."
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–263, div. G, title LXXIII, §7301, Dec. 23, 2022, 136 Stat. 3684, provided that: "This subtitle \[subtitle A (§§7301–7309) of title LXXIII of div. G of Pub. L. 117–263, enacting part F of subchapter II of this chapter\] may be cited as the 'Global Catastrophic Risk Management Act of 2022'."
 
 #### Short Title of 2020 Amendment
 

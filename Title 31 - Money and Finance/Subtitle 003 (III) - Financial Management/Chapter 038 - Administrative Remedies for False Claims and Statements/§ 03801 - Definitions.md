@@ -8,19 +8,19 @@
 
 &emsp;&emsp;(B) a military department;
 
-&emsp;&emsp;(C) an establishment (as such term is defined in section 11(2) <sup>1</sup> of the Inspector General Act of 1978) which is not an executive department;
+&emsp;&emsp;(C) an establishment (as such term is defined in section 401 of title 5) which is not an executive department;
 
 &emsp;&emsp;(D) the United States Postal Service;
 
 &emsp;&emsp;(E) the National Science Foundation; and
 
-&emsp;&emsp;(F) a designated Federal entity (as such term is defined under section 8G(a)(2) of the Inspector General Act of 1978);
+&emsp;&emsp;(F) a designated Federal entity (as such term is defined under section 415(a) of title 5);
 
 &emsp;(2) "authority head" means—
 
 &emsp;&emsp;(A) the head of an authority; or
 
-&emsp;&emsp;(B) an official or employee of the authority designated, in regulations promulgatedby the head of the authority, to act on behalf of the head of the authority;
+&emsp;&emsp;(B) an official or employee of the authority designated, in regulations promulgated by the head of the authority, to act on behalf of the head of the authority;
 
 &emsp;(3) "claim" means any request, demand, or submission—
 
@@ -48,9 +48,9 @@
 
 &emsp;(4) "investigating official" means an individual who—
 
-&emsp;&emsp;(A)(i) in the case of an authority in which an Office of Inspector General is established by the Inspector General Act of 1978 or by any other Federal law, is the Inspector General of that authority or an officer or employee of such Office designated by the Inspector General;
+&emsp;&emsp;(A)(i) in the case of an authority in which an Office of Inspector General is established by chapter 4 of title 5 or by any other Federal law, is the Inspector General of that authority or an officer or employee of such Office designated by the Inspector General;
 
-&emsp;&emsp;(ii) in the case of an authority in which an Office of Inspector General is not established by the Inspector General Act of 1978 or by any other Federal law, is an officer or employee of the authority designated by the authority head to conduct investigations under section 3803(a)(1) of this title; or
+&emsp;&emsp;(ii) in the case of an authority in which an Office of Inspector General is not established by chapter 4 of title 5 or by any other Federal law, is an officer or employee of the authority designated by the authority head to conduct investigations under section 3803(a)(1) of this title; or
 
 &emsp;&emsp;(iii) in the case of a military department, is the Inspector General of the Department of Defense or an officer or employee of the Office of Inspector General of the Department of Defense who is designated by the Inspector General; and
 
@@ -128,17 +128,23 @@
 
 &emsp;(2) a statement shall be considered made, presented, or submitted to an authority when such statement is actually made to an agent, fiscal intermediary, or other entity, including any State or political subdivision thereof, acting for or on behalf of such authority.
 
-(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1934; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–272, §4(f)(1)(Q), July 5, 1994, 108 Stat. 1362; Pub. L. 110–69, title VII, §7017, Aug. 9, 2007, 121 Stat. 684; Pub. L. 110–409, §10, Oct. 14, 2008, 122 Stat. 4314.)
+(Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1934; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–272, §4(f)(1)(Q), July 5, 1994, 108 Stat. 1362; Pub. L. 110–69, title VII, §7017, Aug. 9, 2007, 121 Stat. 684; Pub. L. 110–409, §10, Oct. 14, 2008, 122 Stat. 4314; Pub. L. 117–286, §4(b)(56), Dec. 27, 2022, 136 Stat. 4349.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (a)(1)(C), (F), (4)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees. Section 11(2) of the Act was renumbered section 12(2) by Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305.
-
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3), (9), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(C). Pub. L. 117–286, §4(b)(56)(A), substituted "section 401 of title 5)" for "section 11(2) of the Inspector General Act of 1978)".
+
+Subsec. (a)(1)(F). Pub. L. 117–286, §4(b)(56)(B), substituted "section 415(a) of title 5)" for "section 8G(a)(2) of the Inspector General Act of 1978)".
+
+Subsec. (a)(4)(A)(i). Pub. L. 117–286, §4(b)(56)(C), substituted "chapter 4 of title 5" for "the Inspector General Act of 1978".
+
+Subsec. (a)(4)(A)(ii). Pub. L. 117–286, §4(b)(56)(D), substituted "chapter 4 of title 5" for "the Inspector General Act of 1978".
 
 <b>2008</b>—Subsec. (a)(1)(F). Pub. L. 110–409 added subpar. (F).
 
@@ -185,6 +191,4 @@ Purposes.—The purposes of this subtitle \[see Short Title note above\] are—
 &emsp;"(1) to provide Federal agencies which are the victims of false, fictitious, and fraudulent claims and statements with an administrative remedy to recompense such agencies for losses resulting from such claims and statements, to permit administrative proceedings to be brought against persons who make, present, or submit such claims and statements, and to deter the making, presenting, and submitting of such claims and statements in the future; and
 
 &emsp;"(2) to provide due process protections to all persons who are subject to the administrative adjudication of false, fictitious, or fraudulent claims or statements."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

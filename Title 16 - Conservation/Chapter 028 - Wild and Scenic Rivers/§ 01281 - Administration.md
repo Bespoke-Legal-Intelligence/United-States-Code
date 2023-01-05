@@ -18,7 +18,7 @@ The Secretary of Agriculture, in his administration of any component of the nati
 
 #### (e) Cooperative agreements with State and local governments
 
-The Federal agency charged with the administration of any component of the national wild and scenic rivers system may enter into written cooperative agreements with the Governor of a State, the head of any State agency, or the appropriate official of a political subdivision of a State for State or local governmental participation in the administration of the component. The States and their political subdivisions shall be encouraged to cooperate in the planning and administration of components of the system which include or adjoin State- or county-owned lands.
+The Federal agency charged with the administration of any component of the national wild and scenic rivers system may enter into written cooperative agreements with the Governor of a State, the head of any State agency, or the appropriate official of a political subdivision of a State for State or local governmental participation in the administration of the component. The States and their political subdivisions shall be encouraged to cooperate in the planning and administration of components of the systemwhich include or adjoin State- or county-owned lands.
 
 (Pub. L. 90–542, §10, Oct. 2, 1968, 82 Stat. 916.)
 
@@ -26,7 +26,7 @@ The Federal agency charged with the administration of any component of the natio
 
 #### References in Text
 
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 The Acts under which the national park system and the national wildlife system are administered, referred to in subsec. (c), are classified generally to this title.
 

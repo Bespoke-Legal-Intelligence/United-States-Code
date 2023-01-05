@@ -18,7 +18,7 @@ Section 1906, act June 6, 1933, ch. 49, §6, 48 Stat. 115; 1939 Reorg. Plan No. 
 
 Section 1907, act June 6, 1933, ch. 49, §7, 48 Stat. 115; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which related to ascertainment of amount due to States and certification thereof to Secretary of the Treasury, was transferred to section 49f of Title 29.
 
-Section 1908, act June 6, 1933, ch. 49, §8, 48 Stat. 115; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R.2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which related to submission of State plans, was transferred to section 49g of Title 29.
+Section 1908, act June 6, 1933, ch. 49, §8, 48 Stat. 115; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which related to submission of State plans, was transferred to section 49g of Title 29.
 
 Section 1909, act June 6, 1933, ch. 49, §9, 48 Stat. 116; 1939 Reorg. Plan No. I, §§201, 203, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, which related to reports by State agencies, was transferred to section 49h of Title 29.
 

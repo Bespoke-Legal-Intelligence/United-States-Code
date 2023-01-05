@@ -26,7 +26,7 @@ Congress makes the following findings:
 
 &emsp;(11) Institutionalizing ongoing robust, independent, and vigorous analysis of data related to foreign threat networks within and across social media platforms will help counter ongoing information warfare operations against the United States, its allies, and its partners.
 
-&emsp;(12) Archiving and disclosing to the public the results of these analyses by the social media companies and trusted third-party experts in a transparent manner will serve to demonstrate that the social media companies are detecting and removing foreign malign activities from their platforms while protecting the privacy of the people of the United States and will build public understanding of thescale and scope of these foreign threats to our democracy, since exposure is one of the most effective means to build resilience.
+&emsp;(12) Archiving and disclosing to the public the results of these analyses by the socialmedia companies and trusted third-party experts in a transparent manner will serve to demonstrate that the social media companies are detecting and removing foreign malign activities from their platforms while protecting the privacy of the people of the United States and will build public understanding of the scale and scope of these foreign threats to our democracy, since exposure is one of the most effective means to build resilience.
 
 #### (b) Sense of Congress
 

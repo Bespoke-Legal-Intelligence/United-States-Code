@@ -96,7 +96,7 @@ Adverse impact on military operations and readiness.—The term "adverse impact 
 
 Unacceptable risk to the national security of the united states.—The term "unacceptable risk to the national security of the United States" has the meaning given the term in section 183a(h)(7) <sup>1</sup> of title 10.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200; Pub. L. 104–264, title XII, §1220(a), Oct. 9, 1996, 110 Stat. 3286; Pub. L. 106–181, title V, §503(b), Apr. 5, 2000, 114 Stat. 133; Pub. L. 112–81, div. A, title III, §332, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 114–248, §1(a), Nov. 28, 2016, 130 Stat. 998; Pub. L. 114–328, div. A, title III, §341(a)(1)–(4)(A), Dec. 23, 2016, 130 Stat. 2079–2081; Pub. L. 115–91, div. A, title III, §311(b)(2), (3), (e), Dec. 12, 2017, 131 Stat. 1347, 1348; Pub. L. 115–232, div. A, title X, §1081(e)(2), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 115–254, div. B, title V, §539(h), Oct. 5, 2018, 132 Stat. 3371.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1200; Pub. L. 104–264, title XII, §1220(a), Oct. 9, 1996, 110 Stat. 3286; Pub. L. 106–181, title V, §503(b), Apr. 5, 2000, 114 Stat. 133; Pub. L. 112–81, div. A, title III, §332, Dec. 31, 2011, 125 Stat. 1369; Pub. L. 114–248, §1(a), Nov. 28, 2016, 130 Stat. 998; Pub. L. 114–328, div. A, title III, §341(a)(1)–(4)(A), Dec. 23, 2016, 130 Stat. 2079–2081; Pub. L. 115–91, div. A, title III, §311(b)(2), (3), (e), Dec. 12, 2017, 131 Stat.1347, 1348; Pub. L. 115–232, div. A, title X, §1081(e)(2), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 115–254, div. B, title V, §539(h), Oct. 5, 2018, 132 Stat. 3371.)
 
 Historical and Revision Notes
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Rulemaking
 
@@ -310,7 +310,7 @@ Exclusion and Waiver Authorities.—As part of a rulemaking conducted pursuant t
 
 &emsp;"(2) shall establish a process to waive specific covered towers from the marking requirements under this section as required under the rulemaking if the Administrator later determines such tower or towers do not pose a hazard to aviation safety;
 
-&emsp;"(3) shall consider, in establishing exclusions and granting waivers under this subsection, factors thatmay sufficiently mitigate risks to aviation safety, such as the length of time the tower has been in existence or alternative marking methods or technologies that maintains a tower's level of conspicuousness to a degree which adequately maintains the safety of the airspace; and
+&emsp;"(3) shall consider, in establishing exclusions and granting waivers under this subsection, factors that may sufficiently mitigate risks to aviation safety, such as the length of time the tower has been in existence or alternative marking methods or technologies that maintains a tower's level of conspicuousness to a degree which adequately maintains the safety of the airspace; and
 
 &emsp;"(4) shall consider excluding towers located in a State that has enacted tower marking requirements according to the Federal Aviation Administration's recommended guidance for the voluntary marking of meteorological evaluation towers erected in remote and rural areas that are less than 200 feet above ground level to enhance the conspicuity of the towers for low level agricultural operations in the vicinity of those towers.
 

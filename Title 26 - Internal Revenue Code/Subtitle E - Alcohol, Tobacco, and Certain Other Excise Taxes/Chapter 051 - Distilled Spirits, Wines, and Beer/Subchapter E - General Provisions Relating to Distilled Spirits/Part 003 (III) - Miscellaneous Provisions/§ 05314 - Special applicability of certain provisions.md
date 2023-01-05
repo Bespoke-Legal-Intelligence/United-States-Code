@@ -8,7 +8,7 @@
 
 #### (2) In general
 
-&emsp;Distilled spirits for the purposes authorized in section 5214(a)(2) and (3), denatured distilled spirits, and articles, as described in this paragraph, produced or manufactured in Puerto Rico, may be brought into the United States free of any tax imposed by section 5001(a)(9) or 7652(a)(1) for disposal under the same conditions as like spirits, denatured spirits, and articles, produced or manufactured in the United States; and the provisions of this chapter and regulations promulgated thereunder (and all other provisions of the internal revenue laws applicable to the enforcement thereof, including the penalties of special application thereto) relating to the production, bonded warehousing, and denaturation of distilled spirits, to the withdrawal of distilled spirits or denatured distilled spirits, and to the manufacture of articles from denatured distilled spirits, shall, insofar as applicable, extend to and apply in Puerto Rico in respect of—
+&emsp;Distilled spirits for the purposes authorized in section 5214(a)(2) and (3), denatured distilled spirits, and articles, as described in this paragraph, produced or manufactured in Puerto Rico, may be brought into the United States free of any tax imposed by section 5001(a)(9) or 7652(a)(1) for disposal under the same conditions as like spirits, denatured spirits, and articles, produced or manufactured in the United States; and the provisions of this chapter and regulations promulgated thereunder (and all other provisions of the internal revenue laws applicable to the enforcement thereof, including the penalties of special application thereto) relating to the production, bondedwarehousing, and denaturation of distilled spirits, to the withdrawal of distilled spirits or denatured distilled spirits, and to the manufacture of articles from denatured distilled spirits, shall, insofar as applicable, extend to and apply in Puerto Rico in respect of—
 
 &emsp;&emsp;(A) distilled spirits for shipment to the United States for the purposes authorized in section 5214(a)(2) and (3);
 
@@ -74,5 +74,5 @@ Subsec. (b)(2), (3). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his dele
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(a)(18) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(a)(18) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 

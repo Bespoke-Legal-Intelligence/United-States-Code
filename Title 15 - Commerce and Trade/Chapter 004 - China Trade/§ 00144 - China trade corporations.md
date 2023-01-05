@@ -6,7 +6,7 @@ Three or more individuals (hereinafter in this chapter referred to as "incorpora
 
 #### (b) Articles of incorporation
 
-The incorporators may adopt articles of incorporation which shall be filed with the Secretary at his office in the District of Columbia and may thereupon make application to the Secretary fora certificate of incorporation in such manner and form as shall be by regulation prescribed. The articles of incorporation shall state—
+The incorporators may adopt articles of incorporation which shall be filed with the Secretary at his office in the District of Columbia and may thereupon make application to the Secretary for a certificate of incorporation in such manner and form as shall be by regulation prescribed. The articles of incorporation shall state—
 
 &emsp;(1) The name of the proposed China Trade Act corporation, which shall end with the legend, "Federal Inc. U.S.A.", and which shall not, in the opinion of the Secretary, be likely in any manner to mislead the public;
 
@@ -18,7 +18,7 @@ The incorporators may adopt articles of incorporation which shall be filed with 
 
 &emsp;(5) The duration of the corporation, which may be perpetual or for a limited period;
 
-&emsp;(6) The names and addresses of at least three individuals (a majority of whom, at the time of designation and during their term of office, shall be citizens of the United States), to be designated by the incorporators, who shall serve as temporary directors; and
+&emsp;(6) The names and addresses of at least three individuals (a majority of whom, at the time of designation and during their term of office,shall be citizens of the United States), to be designated by the incorporators, who shall serve as temporary directors; and
 
 &emsp;(7) The fact that an amount equal to 25 per centum of the amount of the authorized capital stock has been in good faith subscribed to.
 

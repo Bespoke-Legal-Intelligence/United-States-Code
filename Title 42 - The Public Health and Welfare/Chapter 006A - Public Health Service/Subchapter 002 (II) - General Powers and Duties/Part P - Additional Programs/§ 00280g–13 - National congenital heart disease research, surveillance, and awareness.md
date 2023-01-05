@@ -44,7 +44,7 @@ The Secretary shall ensure that, subject to subsection (e), information collecte
 
 #### (e) Patient privacy
 
-The Secretary shall ensure that the data and information collected under this section aremade available in a manner that, at a minimum, protects personal privacy to the extent required by applicable Federal and State law.
+The Secretary shall ensure that the data and information collected under this section are made available in a manner that, at a minimum, protects personal privacy to the extent required by applicable Federal and State law.
 
 #### (f) Eligibility for grants
 

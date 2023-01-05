@@ -97,7 +97,7 @@
 
 (j) A judge who makes an election under subsection (d) of this section shall deposit, for service on the Court performed before the election for which contributions may be made under this section, an amount equal to 1 percent of the salary received for the first years, not exceeding 15 years, of that service. Retired pay may not be allowed until a deposit required by this subsection has been made.
 
-(k) The amounts deducted and withheld under subsection (i) of this section, and the amounts deposited under subsection (j) of this section, shall be deposited in the Court of Appeals for Veterans Claims Retirement Fund for credit toindividual accounts in the name of each judge from whom such amounts are received.
+(k) The amounts deducted and withheld under subsection (i) of this section, and the amounts deposited under subsection (j) of this section, shall be deposited in the Court of Appeals for Veterans Claims Retirement Fund for credit to individual accounts in the name of each judge from whom such amounts are received.
 
 (Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 617, §4096; renumbered §7296 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, §5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §§1022, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 107–103, title VI, §602, Dec. 27, 2001, 115 Stat. 999; Pub. L. 110–389, title VI, §603(b)(1), (2), Oct. 10, 2008, 122 Stat. 4177, 4178.)
 

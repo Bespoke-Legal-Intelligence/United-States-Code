@@ -16,7 +16,7 @@ The Secretary may conduct the study required in subsection (a) in a State only i
 
 The Secretary shall, during each of the fiscal years 1993 and 1994, develop a plan for conducting the study required in subsection (a). The study shall be initiated by the Secretary not later than fiscal year 1994, and the collection of data under the study may continue through fiscal year 1998.
 
-(July 1, 1944, ch. 373, title III, §399E, formerly §399K, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3376; renumbered §399E and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (C),Oct. 17, 2000, 114 Stat. 1115; Pub. L. 109–482, title I, §104(b)(2)(A), Jan. 15, 2007, 120 Stat. 3693.)
+(July 1, 1944, ch. 373, title III, §399E, formerly §399K, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3376; renumbered §399E and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (C), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 109–482, title I, §104(b)(2)(A), Jan. 15, 2007, 120 Stat. 3693.)
 
 #### <b>Editorial Notes</b>
 

@@ -52,7 +52,7 @@ Nothing in this section shall authorize the Fund or the appropriate Federal bank
 
 #### (1) Notification
 
-&emsp;The Fund shall notify the appropriate Federal banking agency before imposing any sanction pursuant to the authority in section4707(f)(2)(C) of this title on an insured community development financial institution or other institution that is examined by or subject to the reporting requirements of that agency.
+&emsp;The Fund shall notify the appropriate Federal banking agency before imposing any sanction pursuant to the authority in section 4707(f)(2)(C) of this title on an insured community development financial institution or other institution that is examined by or subject to the reporting requirements of that agency.
 
 #### (2) Exceptions
 

@@ -34,7 +34,7 @@ The President, through the Committee on Environment and Natural Resources of the
 
 #### (b) Assessment of harmful algal blooms
 
-(1) Not later than 12 months after November 13, 1998, the Task Force, in cooperation with the coastal States, Indian tribes, and local governments, industry (including agricultural organizations), academic institutions, and non-governmental organizations with expertise in coastal zone management, shall complete and submit to the Congress an assessment which examines theecological and economic consequences of harmful algal blooms, alternatives for reducing, mitigating, and controlling harmful algal blooms, and the social and economic costs and benefits of such alternatives.
+(1) Not later than 12 months after November 13, 1998, the Task Force, in cooperation with the coastal States, Indian tribes, and local governments, industry (including agricultural organizations), academic institutions, and non-governmental organizations with expertise in coastal zone management, shall complete and submit to the Congress an assessment which examines the ecological and economic consequences of harmful algal blooms, alternatives for reducing, mitigating, and controlling harmful algal blooms, and the social and economic costs and benefits of such alternatives.
 
 (2) The assessment shall—
 
@@ -52,7 +52,7 @@ The President, through the Committee on Environment and Natural Resources of the
 
 &emsp;(B) identify alternatives for preventing unnecessary duplication of effort among Federal agencies and departments with respect to hypoxia; and
 
-&emsp;(C) provide for Federal cooperation and coordination with and assistance to the States, Indian tribes, and local governments in the prevention, reduction, management, mitigation, and control of hypoxia and its environmental impacts.
+&emsp;(C) provide for Federal cooperation and coordination with and assistance to the States, Indian tribes, and local governments in theprevention, reduction, management, mitigation, and control of hypoxia and its environmental impacts.
 
 #### (d) Report to Congress on harmful algal bloom impacts
 
@@ -96,7 +96,7 @@ The President, through the Committee on Environment and Natural Resources of the
 
 #### (f) Scientific assessments of hypoxia
 
-(1) Not less than once every 5 years the Task Force shall complete and submit to the Congress a scientific assessment of hypoxia in United States coastal waters including the GreatLakes. The first such assessment shall be completed not less than 24 months after December 10, 2004.
+(1) Not less than once every 5 years the Task Force shall complete and submit to the Congress a scientific assessment of hypoxia in United States coastal waters including the Great Lakes. The first such assessment shall be completed not less than 24 months after December 10, 2004.
 
 (2) The assessments under this subsection shall—
 
@@ -181,6 +181,10 @@ Pub. L. 108–456, §102, struck out subsec. (e) which provided that the Preside
 Subsecs. (f) to (i). Pub. L. 108–456, §104, added subsecs. (f) to (i).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–144, §1, June 16, 2022, 136 Stat. 1266, provided that: "This Act \[enacting section 4004a of this title and amending sections 4005 to 4009 of this title\] may be cited as the 'South Florida Clean Coastal Waters Act of 2021'."
 
 #### Short Title of 2019 Amendment
 

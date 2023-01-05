@@ -34,7 +34,7 @@ Not later than 18 months after October 9, 1996, the Secretary shall cease produc
 
 #### (1) In general
 
-&emsp;All contracts that were entered into by any person with the Secretary for the purchase by the person from the Secretary of refined helium and that are in effect on October 9, 1996,shall remain in force and effect until the date on which the refining operations cease, as described in subsection (b).
+&emsp;All contracts that were entered into by any person with the Secretary for the purchase by the person from the Secretary of refined helium and that are in effect on October 9, 1996, shall remain in force and effect until the date on which the refining operations cease, as described in subsection (b).
 
 #### (2) Costs
 

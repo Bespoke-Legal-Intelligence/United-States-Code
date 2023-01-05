@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of this part, the term "exempt facility bond" means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
+For purposes of this part, the term "exempt facility bond" means any bond issued as part ofan issue 95 percent or more of the net proceeds of which are to be used to provide—
 
 &emsp;(1) airports,
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (A) Qualified project period
 
-&emsp;&emsp;The term "qualified project period" means the period beginning on the 1st day on which 10 percent of the residential units in the project are occupied and ending on the latest of—
+&emsp;&emsp;The term "qualified project period" means the period beginning on the 1st day on which10 percent of the residential units in the project are occupied and ending on the latest of—
 
 &emsp;&emsp;&emsp;(i) the date which is 15 years after the date on which 50 percent of the residential units in the project are occupied,
 
@@ -180,7 +180,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The determination of whether the income of a resident of a unit in a project exceeds the applicable income limit shall be made at least annually on the basis of the current income of the resident. The preceding sentence shall not apply with respect to any projectfor any year if during such year no residential unit in the project is occupied by a new resident whose income exceeds the applicable income limit.
+&emsp;&emsp;The determination of whether the income of a resident of a unit in a project exceeds the applicable income limit shall be made at least annually on the basis of the current income of the resident. The preceding sentence shall not apply with respect to any project for any year if during such year no residential unit in the project is occupied by a new resident whose income exceeds the applicable income limit.
 
 #### (B) Continuing resident's income may increase above the applicable limit
 
@@ -438,7 +438,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the State may allocate theamount described in subparagraph (A) for any calendar year in such manner as the State determines appropriate.
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the State may allocate the amount described in subparagraph (A) for any calendar year in such manner as the State determines appropriate.
 
 #### (ii) Rules for carryforward of unused limitation
 
@@ -642,7 +642,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 &emsp;&emsp;(A) is designed to provide broadband service solely to 1 or more census block groups in which more than 50 percent of residential households do not have access to fixed, terrestrial broadband service which delivers at least 25 megabits per second downstream and at least 3 megabits service upstream, and
 
-&emsp;&emsp;(B) results in internet access to residential locations, commercial locations, or a combination of residential and commercial locations at speeds not less than 100 megabits per second for downloads and 20 megabits for <sup>1</sup> second for uploads, but only if at least 90 percent of the locations provided such access under the project are locations where, before the project, a broadband service provider—
+&emsp;&emsp;(B) results in internet access to residential locations, commercial locations, or a combination of residential and commercial locations at speeds not less than 100 megabits per second for downloads and 20 megabits for second for uploads, but only if at least 90 percent of the locations provided such access under the project are locations where, before the project, a broadband service provider—
 
 &emsp;&emsp;&emsp;(i) did not provide service, or
 
@@ -666,7 +666,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 &emsp;&emsp;(A) the eligible components of an industrial carbon dioxide facility, and
 
-&emsp;&emsp;(B) a direct air capture facility (as defined in section 45Q(e)(1)).
+&emsp;&emsp;(B) a direct air capture facility (as defined in section 45Q(e)(3)).
 
 #### (2) Definitions
 
@@ -680,7 +680,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 &emsp;&emsp;&emsp;&emsp;(I) used for the purpose of capture, treatment and purification, compression, transportation, or on-site storage of carbon dioxide produced by the industrial carbon dioxide facility, or
 
-&emsp;&emsp;&emsp;&emsp;(II) integral or functionally related and subordinate to a process which converts a solid or liquid product from coal, petroleum residue, biomass, or other materials which are recovered for their energy or feedstock value into a synthesisgas composed primarily of carbon dioxide and hydrogen for direct use or subsequent chemical or physical conversion.
+&emsp;&emsp;&emsp;&emsp;(II) integral or functionally related and subordinate to a process which converts a solid or liquid product from coal, petroleum residue, biomass, or other materials which are recovered for their energy or feedstock value into a synthesis gas composed primarily of carbon dioxide and hydrogen for direct use or subsequent chemical or physical conversion.
 
 #### (ii) Definitions
 
@@ -800,7 +800,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 &emsp;The Secretary shall issue such regulations or other guidance as are necessary to carry out the provisions of this subsection, including methods for determining costs attributable to an eligible component for purposes of paragraph (3)(A).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, titleI, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355; Pub. L. 115–141, div. U, title IV, §401(a)(47), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 117–58, div. H, title IV, §§80401(a), (b), 80402(a), (b), 80403(a), Nov. 15, 2021, 135 Stat. 1330, 1331, 1335.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2),Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355; Pub. L. 115–141, div. U, title IV, §401(a)(47), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 117–58, div. H, title IV, §§80401(a), (b), 80402(a), (b), 80403(a), Nov. 15, 2021, 135 Stat. 1330, 1331, 1335; Pub. L. 117–169, title I, §13104(a)(2)(B), Aug. 16, 2022, 136 Stat. 1925.)
 
 #### <b>Editorial Notes</b>
 
@@ -831,6 +831,8 @@ The date of the enactment of this subsection, referred to in subsec. (m)(1)(A), 
 A prior section 142, act Aug. 16, 1954, ch. 736, 68A Stat. 40, enumerated individuals not eligible for standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (o)(1)(B). Pub. L. 117–169 substituted "section 45Q(e)(3)" for "section 45Q(e)(1)".
 
 <b>2021</b>—Subsec. (a)(16). Pub. L. 117–58, §80401(a), added par. (16).
 
@@ -911,6 +913,10 @@ Subsec. (d)(4)(B)(iii). Pub. L. 100–647, §1013(a)(1), substituted "average gr
 Subsec. (i). Pub. L. 100–647, §6180(b)(1), added subsec. (i).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–169 applicable to facilities or equipment the construction of which begins after Aug. 16, 2022, see section 13104(i)(2) of Pub. L. 117–169, set out in a note under section 45Q of this title.
 
 #### Effective Date of 2021 Amendment
 
@@ -997,6 +1003,4 @@ Pub. L. 104–188, title I, §1608(b), Aug. 20, 1996, 110 Stat. 1841, provided t
 #### Tax-Exempt Bonds for Sale of Alaska Power Administration Facility
 
 Pub. L. 104–188, title I, §1804, Aug. 20, 1996, 110 Stat. 1893, provided that: "Sections 142(f)(3) (as added by section 1608) and 147(d) of the Internal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "per".</i>
 

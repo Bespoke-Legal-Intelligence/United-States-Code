@@ -52,7 +52,7 @@ Registration of Trailers.—A State that requires annual registration of contain
 
 "(b)
 
-Limitation on Registration of Trailers.—A State described in subsection (a) may not deny the useof trip permits for the operation in the State of a container chassis that is registered under the laws of another State.
+Limitation on Registration of Trailers.—A State described in subsection (a) may not deny the use of trip permits for the operation in the State of a container chassis that is registered under the laws of another State.
 
 "(c)
 

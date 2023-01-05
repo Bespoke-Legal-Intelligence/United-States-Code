@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [241\.](%C2%A7%2000241%20-%20Reference%20to%20chapters%201003%2C%201005%2C%20and%201007.md) | Reference to chapters 1003, 1005, and 1007.<br> |
+| [241\.](%C2%A7%2000241%20-%20Reference%20to%20chapters%201003%2C%201005%2C%20and%201007.md) | Reference to chapters 1003, 1005, and 1007. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) commences or resumes on the first day of the month in which the child later becomes or again becomes a student as described by section 8441(4), if any lump sum paid is returned to the Fund; or
 
-&emsp;(3) commences or resumes on the first day of the month in which the child later becomes oragain becomes incapable of self-support because of a mental or physical disability incurred before age 18 (or a later recurrence of such disability), if any lump sum paid is returned to the Fund.
+&emsp;(3) commences or resumes on the first day of the month in which the child later becomes or again becomes incapable of self-support because of a mental or physical disability incurred before age 18 (or a later recurrence of such disability), if any lump sum paid is returned to the Fund.
 
 > This annuity and the right thereto terminate on the last day of the month before the child—
 
@@ -38,7 +38,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

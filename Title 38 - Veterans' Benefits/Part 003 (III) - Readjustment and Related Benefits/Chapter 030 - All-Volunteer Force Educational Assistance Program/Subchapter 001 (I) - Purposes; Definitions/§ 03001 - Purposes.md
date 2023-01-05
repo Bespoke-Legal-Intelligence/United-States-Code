@@ -32,7 +32,7 @@ Prior section 3001 was renumbered section 5101 of this title.
 
 #### Department of Veterans Affairs High Technology Pilot Program
 
-Pub. L. 115–48, title I, §116, Aug. 16, 2017, 131 Stat. 986, as amended by Pub. L. 115–407, title I, §105, Dec. 31, 2018, 132 Stat. 5371; Pub. L. 116–315, title IV, §4302, Jan. 5, 2021, 134 Stat. 5017, provided that:
+Pub. L. 115–48, title I, §116, Aug. 16, 2017, 131 Stat. 986, as amended by Pub. L. 115–407, title I, §105, Dec. 31, 2018, 132 Stat. 5371; Pub. L. 116–315, title IV, §4302, Jan. 5, 2021, 134 Stat. 5017; Pub. L. 117–103, div. DD, §101, Mar. 15, 2022, 136 Stat. 1111, provided that:
 
 "(a)
 
@@ -80,7 +80,7 @@ Tuition reimbursement.—In entering into contracts to carry out the pilot progr
 
 &emsp;&emsp;"(A) completes a program of education offered by the provider; and
 
-&emsp;&emsp;"(B) does not find full-time meaningful employment in the field of study of the program within the 180-day period beginning on the date the student completes the program.
+&emsp;&emsp;"(B) does not find full-time meaningful employment in the field of study of the program within the180-day period beginning on the date the student completes the program.
 
 &emsp;"(6)
 
@@ -108,7 +108,7 @@ Housing Stipend.—The Secretary shall pay to each eligible veteran (not includi
 
 &emsp;&emsp;"(A) 1.0; or
 
-&emsp;&emsp;"(B) the number of course hours borne by the individual in pursuit of the program of education involved, divided by the minimum number of coursehours required for full-time pursuit of such program of education, rounded to the nearest multiple of 10.
+&emsp;&emsp;"(B) the number of course hours borne by the individual in pursuit of the program of education involved, divided by the minimum number of course hours required for full-time pursuit of such program of education, rounded to the nearest multiple of 10.
 
 "(e)
 
@@ -162,7 +162,19 @@ Final report.—Not later than 5 years after the date on which the Secretary fir
 
 "(g)
 
-Authorization of Appropriations.—For each fiscal year during which the Secretary carries out a pilot program under this section, $45,000,000 shall be made available for such purpose from funds appropriated to, or otherwise made available to, the Department for the payment of readjustment benefits.
+Authorization of Appropriations.—Funds shall be made available to carry out the pilot program under this section from funds appropriated to, or otherwise made available to, the Department for the payment of readjustment benefits, in the following amounts for a fiscal year in which the Secretary carries out the pilot program:
+
+&emsp;"(1) For fiscal year 2019, $15,000,000.
+
+&emsp;"(2) For fiscal year 2020, $15,000,000.
+
+&emsp;"(3) For fiscal year 2021, $45,000,000.
+
+&emsp;"(4) For fiscal year 2022, $125,000,000.
+
+&emsp;"(5) For fiscal year 2023, $45,000,000.
+
+&emsp;"(6) For fiscal year 2024, $45,000,000.
 
 "(h)
 

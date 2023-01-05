@@ -36,7 +36,7 @@ Each production credit association, under standards prescribed by the board of d
 
 #### (2) Setting of rates
 
-&emsp;In setting rates and charges, it shall be the objective to provide the types of credit needed by eligible borrowers, at the lowest reasonable cost on a sound business basis, taking into account the cost of money to the association, necessary reserves and expenses of the association, and services provided to borrowers and members.
+&emsp;In setting rates and charges, it shall be the objective to provide the types of credit neededby eligible borrowers, at the lowest reasonable cost on a sound business basis, taking into account the cost of money to the association, necessary reserves and expenses of the association, and services provided to borrowers and members.
 
 #### (3) Varying rates
 
@@ -58,7 +58,7 @@ A prior section 2075, Pub. L. 92–181, title II, §2.4, Dec. 10, 1971, 85 Stat.
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–334 struck out subsec. (d) which described a special rule for providing credit and technical assistance in a district containing only two production credit associations.
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624 substituted "some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations of farmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year" for "at least 20 percent, or such larger percent as is required by the supervising bank under regulations of the Farm Credit Administration, of the total processing or marketing for which financing is extended".
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624 substituted "some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations of farmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed 15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year" for "at least 20 percent, or such larger percent as is required by the supervising bank under regulations of the Farm Credit Administration, of the total processing or marketing for which financing is extended".
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–399, §401(p), substituted "this part" for "this subchapter" and substituted "or planned" for "planned".
 

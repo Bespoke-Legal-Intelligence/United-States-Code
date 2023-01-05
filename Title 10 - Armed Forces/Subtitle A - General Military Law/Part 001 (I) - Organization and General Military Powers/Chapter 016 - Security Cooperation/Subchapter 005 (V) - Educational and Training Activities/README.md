@@ -6,7 +6,7 @@
 | [342\.](%C2%A7%2000342%20-%20Regional%20Centers%20for%20Security%20Studies.md) | Regional Centers for Security Studies. |
 | [343\.](%C2%A7%2000343%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md) | Western Hemisphere Institute for Security Cooperation. |
 | [344\.](%C2%A7%2000344%20-%20Participation%20in%20multinational%20centers%20of%20excellence.md) | Participation in multinational centers of excellence. |
-| [345\.](%C2%A7%2000345%20-%20Regional%20Defense%20Combating%20Terrorism%20and%20Irregular%20Warfare%20Fellowship%20Program.md) | Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program. |
+| [345\.](%C2%A7%2000345%20-%20Irregular%20Warfare%20Center%20and%20Regional%20Defense%20Fellowship%20Program.md) | Irregular Warfare Center and Regional Defense Fellowship Program. |
 | [346\.](%C2%A7%2000346%20-%20Distribution%20to%20certain%20foreign%20personnel%20of%20education%20and%20training%20materials%20and%20information%20technology%20to%20enhance%20military%E2%80%A6.md) | Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces. |
 | [347\.](%C2%A7%2000347%20-%20International%20engagement%20authorities%20for%20service%20academies.md) | International engagement authorities for service academies. |
 | [348\.](%C2%A7%2000348%20-%20Aviation%20Leadership%20Program.md) | Aviation Leadership Program. |
@@ -20,6 +20,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title XII, §1204(b), Dec. 23, 2022, 136 Stat. 2829, added item 345 and struck out former item 345 "Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program".
 
 <b>2021</b>—Pub. L. 116–283, div. A, title XII, §1206(b), Jan. 1, 2021, 134 Stat. 3913, added item 344 and struck out former item 344 "Participation in multinational military centers of excellence".
 
@@ -116,7 +118,7 @@ Appropriate committees of congress defined.—In this subsection, the term 'appr
 - [&sect; 00342 - Regional Centers for Security Studies](%C2%A7%2000342%20-%20Regional%20Centers%20for%20Security%20Studies.md)
 - [&sect; 00343 - Western Hemisphere Institute for Security Cooperation](%C2%A7%2000343%20-%20Western%20Hemisphere%20Institute%20for%20Security%20Cooperation.md)
 - [&sect; 00344 - Participation in multinational centers of excellence](%C2%A7%2000344%20-%20Participation%20in%20multinational%20centers%20of%20excellence.md)
-- [&sect; 00345 - Regional Defense Combating Terrorism and Irregular Warfare Fellowship Program](%C2%A7%2000345%20-%20Regional%20Defense%20Combating%20Terrorism%20and%20Irregular%20Warfare%20Fellowship%20Program.md)
+- [&sect; 00345 - Irregular Warfare Center and Regional Defense Fellowship Program](%C2%A7%2000345%20-%20Irregular%20Warfare%20Center%20and%20Regional%20Defense%20Fellowship%20Program.md)
 - [&sect; 00346 - Distribution to certain foreign personnel of education and training materials and information technology to enhance military&#8230;](%C2%A7%2000346%20-%20Distribution%20to%20certain%20foreign%20personnel%20of%20education%20and%20training%20materials%20and%20information%20technology%20to%20enhance%20military%E2%80%A6.md)
 - [&sect; 00347 - International engagement authorities for service academies](%C2%A7%2000347%20-%20International%20engagement%20authorities%20for%20service%20academies.md)
 - [&sect; 00348 - Aviation Leadership Program](%C2%A7%2000348%20-%20Aviation%20Leadership%20Program.md)

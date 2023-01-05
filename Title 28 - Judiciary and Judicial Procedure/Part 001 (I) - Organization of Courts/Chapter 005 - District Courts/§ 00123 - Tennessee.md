@@ -44,7 +44,7 @@ Tennessee is divided into three judicial districts to be known as the Eastern, M
 
 &emsp;&emsp;(1) The Eastern Division comprises the counties of Benton, Carroll, Chester, Crockett, Decatur, Dyer, Gibson, Hardeman, Hardin, Haywood, Henderson, Henry, Lake, McNairy, Madison, Obion, Perry, and Weakley.
 
-The Eastern Division also includes the waters of Tennessee River to low-water mark on theeastern shore wherever such river forms the boundary between the western and middle districts from the north line of Alabama north to the point in Henry County, Tennessee, where the south boundary of Kentucky strikes the east bank of the river.
+The Eastern Division also includes the waters of Tennessee River to low-water mark on the eastern shore wherever such river forms the boundary between the western and middle districts from the north line of Alabama north to the point in Henry County, Tennessee, where the south boundary of Kentucky strikes the east bank of the river.
 
 &emsp;&emsp;Court for the Eastern Division shall be held at Jackson and Dyersburg.
 

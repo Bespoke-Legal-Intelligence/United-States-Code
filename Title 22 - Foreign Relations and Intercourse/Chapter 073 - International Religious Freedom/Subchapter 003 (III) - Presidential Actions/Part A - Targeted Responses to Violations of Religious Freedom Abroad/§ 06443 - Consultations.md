@@ -20,7 +20,7 @@ As soon as practicable after the President decides to take action under section 
 
 #### (3) Election of nondisclosure of negotiations to public
 
-&emsp;If negotiations are undertaken or an agreement is concluded with a foreign governmentregarding steps to cease the pattern of violations by that government, and if public disclosure of such negotiations or agreement would jeopardize the negotiations or the implementation of such agreement, as the case may be, the President may refrain from disclosing such negotiations and such agreement to the public, except that the President shall inform the appropriate congressional committees of the nature and extent of such negotiations and any agreement reached.
+&emsp;If negotiations are undertaken or an agreement is concluded with a foreign government regarding steps to cease the pattern of violations by that government, and if public disclosure of such negotiations or agreement would jeopardize the negotiations or the implementation of such agreement, as the case may be, the President may refrain from disclosing such negotiations and such agreement to the public, except that the President shall inform the appropriate congressional committees of the nature and extent of such negotiations and any agreement reached.
 
 #### (c) Duty to consult with humanitarian organizations
 

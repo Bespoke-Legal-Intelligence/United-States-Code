@@ -6,7 +6,7 @@
 
 &emsp;(2) Examine the state of the dockets of the courts; secure information as to the courts' need of assistance; prepare and transmit semiannually to the chief judges of the circuits, statistical data and reports as to the business of the courts;
 
-&emsp;(3) Submit to the annual meeting of the Judicial Conference of the United States, at least two weeks prior thereto, a report of the activities of the Administrative Office and the state of the business of the courts, together with the statistical data submitted to the chief judges of the circuits under paragraph (a)(2) of this section, and the Director's recommendations, which report, data and recommendations shall be public documents.
+&emsp;(3) Submit to the annual meeting of the Judicial Conference of the United States, at leasttwo weeks prior thereto, a report of the activities of the Administrative Office and the state of the business of the courts, together with the statistical data submitted to the chief judges of the circuits under paragraph (a)(2) of this section, and the Director's recommendations, which report, data and recommendations shall be public documents.
 
 &emsp;(4) Submit to Congress and the Attorney General copies of the report, data and recommendations required by paragraph (a)(3) of this section;
 
@@ -38,7 +38,7 @@
 
 &emsp;(18) Establish procedures and mechanisms within the judicial branch for processing fines, restitution, forfeitures of bail bonds or collateral, and assessments;
 
-&emsp;(19) Regulate and pay annuities to bankruptcy judges and United States magistrate judges in accordance with section 377 of this title and paragraphs (1)(B) and (2) of section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988;
+&emsp;(19) Regulate and pay annuities to bankruptcy judges and United States magistratejudges in accordance with section 377 of this title and paragraphs (1)(B) and (2) of section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988;
 
 &emsp;(20) Periodically compile—
 
@@ -54,9 +54,11 @@
 
 &emsp;(22) Receive and expend, either directly or by transfer to the United States Marshals Service or other Government agency, funds appropriated for the procurement, installation, and maintenance of security equipment and protective services for the United States Courts in courtrooms and adjacent areas, including building ingress/egress control, inspection of packages, directed security patrols, and other similar activities;
 
-&emsp;(23) Regulate and pay annuities to judges of the United States Court of Federal Claims in accordance with section 178 of this title; and
+&emsp;(23) Regulate and pay annuities to judges of the United States Court of Federal Claims in accordance with section 178 of this title;
 
-&emsp;(24) Perform such other duties as may be assigned to him by the Supreme Court or the Judicial Conference of the United States.
+&emsp;(24) Establish and administer a vulnerability management program in the judicial branch; and
+
+&emsp;(25) Perform such other duties as may be assigned to the Director by the Supreme Court or the Judicial Conference of the United States.
 
 (b) The clerical and administrative personnel of the courts shall comply with all requests by the Director for information or statistical data as to the state of court dockets.
 
@@ -90,7 +92,7 @@
 
 &emsp;(A) to enter into contracts for the acquisition of severable services for a period that begins in one fiscal year and ends in the next fiscal year to the same extent as the head of an executive agency under the authority of section 253l <sup>2</sup> of title 41, United States Code;
 
-&emsp;(B) to enter into contracts for multiple years for the acquisition of property and services to the same extent as executive agencies under the authority of section 254c <sup>2</sup> of title 41, United States Code; and
+&emsp;(B) to enter into contracts for multiple years for the acquisition of property and services to the same extent as executive agenciesunder the authority of section 254c <sup>2</sup> of title 41, United States Code; and
 
 &emsp;(C) to make advance, partial, progress or other payments under contracts for property or services to the same extent as executive agencies under the authority of section 255 <sup>2</sup> of title 41, United States Code.
 
@@ -120,7 +122,7 @@ Definitions.—In this subsection—
 
 &emsp;(2)
 
-Restriction.—A covered employee may not request that an applicant for employment as a covered employee disclose criminal history record information if the request wouldbe prohibited under section 9202 of title 5 if made by an employee of an agency.
+Restriction.—A covered employee may not request that an applicant for employment as a covered employee disclose criminal history record information if the request would be prohibited under section 9202 of title 5 if made by an employee of an agency.
 
 &emsp;(3)
 
@@ -158,7 +160,7 @@ Parallel with agency regulations.—The regulations issued under subparagraph (A
 
 Effective date.—Paragraphs (1) through (4) shall take effect on the date on which section 9202 of title 5 applies with respect to agencies.
 
-(June 25, 1948, ch. 646, 62 Stat. 914; Aug. 3, 1956, ch. 944, §3, 70 Stat. 1026; Pub. L. 90–219, title II, §203(a)–(c), Dec. 20, 1967, 81 Stat. 669; Pub. L. 90–578, title II, §201, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1114, 1118; Pub. L. 92–397, §4, Aug. 22, 1972, 86 Stat. 580; Pub. L. 93–619, title II, §204, Jan. 3, 1975, 88 Stat. 2089; Pub. L. 95–539, §§3, 4, Oct. 28, 1978, 92 Stat. 2043; Pub. L. 95–598, title II, §225, Nov. 6, 1978, 92 Stat. 2664; Pub. L. 96–82, §5, Oct. 10, 1979, 93 Stat. 645; Pub. L. 96–458, §5, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 96–523, §1(c)(1), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–267, §7, Sept. 27, 1982, 96 Stat. 1139; Pub. L. 99–554, title I, §116, Oct. 27, 1986, 100 Stat. 3095; Pub. L. 100–185, §2, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–659, §6(a), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title IV, §402(a), title X, §§1008, 1010, 1011, 1020(a)(2), Nov. 19, 1988, 102 Stat. 4650, 4667, 4668, 4671; Pub. L. 101–474, §5(r), Oct. 30, 1990, 104 Stat. 1101; Pub. L. 101–647, title XXV, §2548, Nov. 29, 1990, 104 Stat. 4888; Pub. L. 101–650, title III, §§306(e)(1), 321, 325(c)(1), Dec. 1, 1990, 104 Stat. 5111, 5117, 5121; Pub. L. 102–572, title V, §503, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4513, 4516; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §305\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, §204, title III, §304(d), Nov. 13, 2000, 114 Stat. 2414, 2418; Pub. L. 107–217, §3(g)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–273, div. C, title I, §11043(e), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 109–115, div. A, title IV, §407(a), Nov. 30, 2005, 119 Stat. 2470; Pub. L. 110–177, title V, §502(a), Jan. 7, 2008, 121 Stat. 2542; Pub. L. 111–8, div. D, title III, §307(a), Mar. 11, 2009, 123 Stat. 648; Pub. L. 111–350, §5(g)(2), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 116–92, div. A, title XI, §1122(e), Dec. 20, 2019, 133 Stat. 1609.)
+(June 25, 1948, ch. 646, 62 Stat. 914; Aug. 3, 1956, ch. 944, §3, 70 Stat. 1026; Pub. L. 90–219, title II, §203(a)–(c), Dec. 20, 1967, 81 Stat. 669; Pub. L. 90–578, title II, §201, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1114, 1118; Pub. L. 92–397, §4, Aug. 22, 1972, 86 Stat. 580; Pub. L. 93–619, title II, §204, Jan. 3, 1975, 88 Stat. 2089; Pub. L. 95–539, §§3, 4, Oct. 28, 1978, 92 Stat. 2043; Pub. L. 95–598, title II, §225, Nov. 6, 1978, 92 Stat. 2664; Pub. L. 96–82, §5, Oct. 10, 1979, 93 Stat. 645; Pub. L. 96–458, §5, Oct. 15, 1980, 94 Stat. 2040; Pub. L. 96–523, §1(c)(1), Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–267, §7, Sept. 27, 1982, 96 Stat. 1139; Pub. L. 99–554, title I, §116, Oct. 27, 1986, 100 Stat. 3095; Pub. L. 100–185, §2, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–659, §6(a), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title IV, §402(a), title X, §§1008, 1010, 1011, 1020(a)(2), Nov. 19, 1988, 102 Stat. 4650, 4667, 4668, 4671; Pub. L. 101–474, §5(r), Oct. 30, 1990, 104 Stat. 1101; Pub. L. 101–647, title XXV, §2548, Nov. 29, 1990, 104 Stat. 4888; Pub. L. 101–650, title III, §§306(e)(1), 321, 325(c)(1), Dec. 1, 1990, 104 Stat. 5111, 5117, 5121; Pub. L. 102–572, title V, §503, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4513, 4516; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §305\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–518, title II, §204, title III, §304(d), Nov. 13, 2000, 114 Stat. 2414, 2418; Pub. L. 107–217, §3(g)(1), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–273, div. C, title I, §11043(e), Nov. 2, 2002, 116 Stat. 1855; Pub. L. 109–115, div. A, title IV, §407(a), Nov. 30, 2005, 119 Stat. 2470; Pub. L. 110–177, title V, §502(a), Jan. 7, 2008, 121 Stat. 2542; Pub. L. 111–8, div. D, title III, §307(a), Mar. 11, 2009, 123 Stat. 648; Pub. L. 111–350, §5(g)(2), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 116–92, div. A, title XI, §1122(e), Dec. 20, 2019, 133 Stat. 1609; Pub. L. 117–263, div. E, title LIX, §5936(a)(3), Dec. 23, 2022, 136 Stat. 3467.)
 
 #### Historical and Revision Notes
 
@@ -208,7 +210,7 @@ As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 304, 3
 
 Section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsec. (a)(19), is section 2(c) of Pub. L. 100–659, Nov. 15, 1988, 102 Stat. 3916, which is set out as a note under section 377 of this title.
 
-Section 253l of title 41, United States Code, referred to in subsec. (g)(4)(A), probably means section 303L of act June 30, 1949, ch. 288, which was classified to section 253l of former Title 41, Public Contracts, and was repealed and restated as section 3902 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+Section 253l of title 41, United States Code, referred to in subsec. (g)(4)(A), probably means section 303L of act June 30, 1949, ch. 288, which was classified to section 253l of former Title 41, Public Contracts, and was repealed and restated as section 3902 of Title 41, PublicContracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
 Section 254c of title 41, United States Code, referred to in subsec. (g)(4)(B), probably means section 304B of act June 30, 1949, ch. 288, which was classified to section 254c of former Title 41, Public Contracts, and was repealed and restated as section 3903 of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
 
@@ -219,6 +221,8 @@ The date of enactment of the Fair Chance to Compete for Jobs Act of 2019, referr
 Section 2(b)(1) of the Fair Chance to Compete for Jobs Act of 2019, referred to in subsec. (i)(5)(B), probably means section 1122(b)(1) of Pub. L. 116–92, which relates to regulations and is set out as a note under section 9201 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(24), (25). Pub. L. 117–263 substituted "the Director" for "him" in par. (24), redesignated par. (24) as (25), and added new par. (24).
 
 <b>2019</b>—Subsec. (i). Pub. L. 116–92 added subsec. (i).
 
@@ -414,7 +418,7 @@ Adjustment of rates of pay of judicial branch employees whose rates of pay are f
 
 #### Compensation and Appointment of Secretaries and Law Clerks
 
-Provisions authorizing the appointment and compensation of secretaries and law clerks to circuit and district judges in such number and at such rates ofcompensation as may be determined by the Judicial Conference of the United States were contained in the following appropriation acts:
+Provisions authorizing the appointment and compensation of secretaries and law clerks to circuit and district judges in such number and at such rates of compensation as may be determined by the Judicial Conference of the United States were contained in the following appropriation acts:
 
 Dec. 12, 1985, Pub. L. 99–180, title IV, 99 Stat. 1154.
 
@@ -500,7 +504,7 @@ Provision effective first day of first pay period which begins on or after July 
 
 <b>1965</b>—Pub. L. 89–301, §12(b), Oct. 29, 1965, 79 Stat. 1122, provided that: "The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by section 2(a) of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\]."
 
-<b>1964</b>—Pub. L. 88–426, title IV, §402(b), Aug. 14, 1964, 78 Stat. 433, provided that: "The limitation provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by the title I of this Act in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\]."
+<b>1964</b>—Pub. L. 88–426, title IV, §402(b), Aug. 14, 1964, 78 Stat. 433, provided that: "The limitation provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by amounts which reflect the respective applicable increases provided by the title I of this Act incorresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\]."
 
 <b>1962</b>—Pub. L. 87–793, title VI, §1004(b), Oct. 11, 1962, 76 Stat. 866, provided that: "The limitations provided by applicable law on the effective date of this section with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges are hereby increased by two amounts, the first amount to be effective for the period beginning as of the first day of the first pay period which begins on or after the date of enactment of this Act \[Oct. 11, 1962\], and ending immediately prior to the first day of the first pay period which begins on or after January 1, 1964, and the second amount to be effective on the first day of the first pay period which begins on or after January 1, 1964, and thereafter, which reflect the respective applicable increases provided by title II of this part in corresponding rates of compensation for officers and employees subject to the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\]."
 
@@ -512,7 +516,7 @@ Words "this part", referred to above, means Part B of Pub. L. 86–568, which en
 
 <b>1955</b>—Act June 28, 1955, ch. 189, §3(b), 69 Stat. 175, provided that: "The limitations of $10,560 and $14,355 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the paragraph under the heading '
 
-salaries of supporting personnel' in the Judiciary Appropriation Act, 1955 (Public Law 470, Eighty-third Congress), or in any subsequent appropriation Act, shall be increasedby the amounts necessary to pay the additional basic compensation provided by this Act."
+salaries of supporting personnel' in the Judiciary Appropriation Act, 1955 (Public Law 470, Eighty-third Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act."
 
 <b>1951</b>—Act Oct. 24, 1951, ch. 554, §1(d), 65 Stat. 613, provided that: "The limitations of $9,600 and $13,050 with respect to the aggregate salaries payable to secretaries and law clerks of circuit and district judges, contained in the sixteenth paragraph under the head 'Miscellaneous salaries' in the Judiciary Appropriation Act, 1951 (Public Law 759, Eighty-first Congress), or in any subsequent appropriation Act, shall be increased by the amounts necessary to pay the additional basic compensation provided by this Act."
 

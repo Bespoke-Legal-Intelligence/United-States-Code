@@ -1,6 +1,6 @@
 ### §545. Appointment of agents to receive payments; record of payments and amounts owing
 
-The Secretary of the Interior is authorized to designate such bonded fiscal agents or officers of the Reclamation Service as he may deem advisable on each reclamation project, to whom shall be paid all sums due on reclamation entries or water rights, and the officials so designated shall keep a record for the information of the public of the sums paid and the amount due at any time on account of any entry made or water right purchased under the reclamation Act; and the Secretary of the Interior shall make provision for furnishing copies of duly authenticated records of entries upon payment of reasonable fees which copies shall be admissible in evidence, as are copies authenticated under sectioneight hundred and eighty-eight <sup>1</sup> of the Revised Statutes.
+The Secretary of the Interior is authorized to designate such bonded fiscal agents or officers of the Reclamation Service as he may deem advisable on each reclamation project, to whom shall be paid all sums due on reclamation entries or water rights, and the officials so designated shall keep a record for the information of the public of the sums paid and the amount due at any time on account of any entry made or water right purchased under the reclamation Act; and the Secretary of the Interior shall make provision for furnishing copies of duly authenticated records of entries upon payment of reasonable fees which copies shall be admissible in evidence, as are copies authenticated under section eight hundred and eighty-eight <sup>1</sup> of the Revised Statutes.
 
 (Aug. 9, 1912, ch. 278, §4, 37 Stat. 267.)
 
@@ -8,7 +8,7 @@ The Secretary of the Interior is authorized to designate such bonded fiscal agen
 
 #### References in Text
 
-The reclamation Act, referred to in text, is identified in section 541 of this section as act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
+The reclamation Act, referred to in text, is identified in section 541 of this section as act June 17, 1902, ch.1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 Section eight hundred and eighty-eight of the Revised Statutes, referred to in text, was repealed by section 21 of act June 25, 1948, ch. 645, 62 Stat. 862, the first section of which enacted Title 18, Crimes and Criminal Procedure. Prior to repeal, R.S. §888 was classified to section 669 of former Title 28, Judicial Code and Judiciary. For provisions relating to admissibility in evidence of authenticated copies, see section 1733 of Title 28, Judiciary and Judicial Procedure.
 

@@ -2,7 +2,7 @@
 
 #### (a) Development of System
 
-The Secretary shall consult with a representative group of guaranty agencies, eligible lenders, and eligible institutions to develop a mutually agreeable proposal for the establishment of a National Student Loan Data System containing information regarding loans made, insured, or guaranteed under part B and loans made under parts D and E, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan not later than one year after October 7, 1998. The information in the data system shall include (but is not limited to)—
+The Secretary shall consult with a representative group of guaranty agencies, eligible lenders,and eligible institutions to develop a mutually agreeable proposal for the establishment of a National Student Loan Data System containing information regarding loans made, insured, or guaranteed under part B and loans made under parts D and E, and for allowing the electronic exchange of data between program participants and the system. In establishing such data system, the Secretary shall place a priority on providing for the monitoring of enrollment, student status, information about current loan holders and servicers, and internship and residency information. Such data system shall also permit borrowers to use the system to identify the current loan holders and servicers of such borrower's loan not later than one year after October 7, 1998. The information in the data system shall include (but is not limited to)—
 
 &emsp;(1) the amount and type of each such loan made;
 
@@ -64,7 +64,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;(F) includes other information as determined appropriate by the Secretary;
 
-&emsp;(4) requiring guaranty agencies, eligible lenders, and eligible institutions of higher education that enter into an agreement with a potential student, student, or parent of such student regarding a loan under part B, D, or E, to inform the student or parent that such loan shall be—
+&emsp;(4) requiring guaranty agencies, eligible lenders, and eligible institutions of higher education that enter into an agreement with a potential student, student, or parent of such student regarding a loan under part B, D, or E,to inform the student or parent that such loan shall be—
 
 &emsp;&emsp;(A) submitted to the data system; and
 
@@ -130,7 +130,7 @@ In managing the National Student Loan Data System, the Secretary shall take acti
 
 &emsp;&emsp;(D) the ability of the Secretary to monitor how the system is being used, relative to the intended purposes of the data system; and
 
-&emsp;&emsp;(E) any protocols, codes of conduct, terms of service, or information security standards developed under paragraphs <sup>1</sup> (6) or (7) of subsection (d) during the preceding fiscal year.
+&emsp;&emsp;(E) any protocols, codes of conduct, terms of service, or information security standards developed under paragraphs (6) or (7) of subsection (d) during the preceding fiscal year.
 
 #### (2) Study
 
@@ -180,9 +180,9 @@ The Secretary shall integrate the National Student Loan Data System with the Pel
 
 #### References in Text
 
-The Peace Corps Act, referred to in subsec. (a)(5), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (a)(5), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of Title 42 and Tables.
 
 #### Amendments
 
@@ -265,6 +265,4 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

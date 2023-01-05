@@ -12,7 +12,7 @@ Pub. L. 92–70, §1, Aug. 9, 1971, 85 Stat. 178, provided that: "This Act \[ena
 
 #### Emergency Steel Loan Guarantees and Emergency Oil and Gas Guaranteed Loans
 
-Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat.1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, §205, Nov. 22, 2005, 119 Stat. 2315; Pub. L. 110–161, div. B, title I, §105, Dec. 26, 2007, 121 Stat. 1892; Pub. L. 111–117, div. B, title I, §108, Dec. 16, 2009, 123 Stat. 3122, provided that:
+Pub. L. 106–51, Aug. 17, 1999, 113 Stat. 252, as amended by Pub. L. 106–102, title VII, §734, Nov. 12, 1999, 113 Stat. 1478; Pub. L. 107–63, title III, §336(a), Nov. 5, 2001, 115 Stat. 472; Pub. L. 108–199, div. B, title II, §211(a), Jan. 23, 2004, 118 Stat. 75; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–108, title II, §205, Nov. 22, 2005, 119 Stat. 2315; Pub. L. 110–161, div. B, title I, §105, Dec. 26, 2007, 121 Stat. 1892; Pub. L. 111–117, div. B, title I, §108, Dec. 16, 2009, 123 Stat. 3122, provided that:
 
 #### "CHAPTER 1
 
@@ -42,7 +42,7 @@ Congressional Findings.—Congress finds that—
 
 &emsp;"(5) these steel bankruptcies, job losses, and financial losses are also having serious negative effects on the tax base of cities, counties, and States, and on the essential health, education, and municipal services that these government entities provide to their citizens; and
 
-&emsp;"(6) a strong steel industry is necessary to the adequate defense preparedness of the United States in order to have sufficient steel available to build the ships, tanks, planes, and armaments necessary for the national defense.
+&emsp;"(6) a strong steel industry is necessary to the adequate defense preparedness of the United States inorder to have sufficient steel available to build the ships, tanks, planes, and armaments necessary for the national defense.
 
 "(c)
 
@@ -304,7 +304,7 @@ Additional costs.—For the additional cost of the loans guaranteed under this s
 
 "(f)
 
-Requirements for Loan Guarantees.—The Board may issue a loan guarantee on application by a qualified oil and gas company under an agreement by a private bank or investment company to provide a loan to the qualified oil and gas company, if the Board determines that—
+Requirements for Loan Guarantees.—The Board may issue a loan guarantee on application by aqualified oil and gas company under an agreement by a private bank or investment company to provide a loan to the qualified oil and gas company, if the Board determines that—
 
 &emsp;"(1) credit is not otherwise available to the company under reasonable terms or conditions sufficient to meet its financing needs, as reflected in the financial and business plans of the company;
 

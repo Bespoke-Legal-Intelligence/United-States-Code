@@ -30,7 +30,7 @@ A prior section 3687, acts Aug. 10, 1956, ch. 1041, 70A Stat. 212; Sept. 2, 1958
 
 A prior section 3688, act Aug. 10, 1956, ch. 1041, 70A Stat. 212, related to payment of death gratuity to survivors of members of the Army, prior to repeal by Pub. L. 85–861, §36B(10), Sept. 2, 1958, 72 Stat. 1570. See section 1475 et seq. of this title.
 
-A prior section 3689, acts Aug. 10, 1956, ch. 1041, 70A Stat. 213; Sept. 26, 1961, Pub. L. 87–304, §9(c), 75 Stat. 665, related to assignments and allotments of pay, prior to repeal by Pub. L. 87–649, §§14c(9), 15, Sept. 7, 1962, 76 Stat. 501, 502, effective Nov. 1, 1962. See section 701 of Title 37, Pay and Allowances of the Uniformed Services.
+A prior section 3689, acts Aug. 10, 1956, ch. 1041, 70A Stat. 213; Sept. 26, 1961, Pub. L. 87–304, §9(c), 75 Stat. 665, related to assignments and allotments of pay, priorto repeal by Pub. L. 87–649, §§14c(9), 15, Sept. 7, 1962, 76 Stat. 501, 502, effective Nov. 1, 1962. See section 701 of Title 37, Pay and Allowances of the Uniformed Services.
 
 A prior section 3690, act Aug. 10, 1956, ch. 1041, 70A Stat. 213, exempted enlisted members of the Army, while on active duty, from arrest for any debt, unless it was contracted before enlistment and amounted to at least $20 when first contracted, prior to repeal by Pub. L. 90–235, §7(b)(1), Jan. 2, 1968, 81 Stat. 763.
 

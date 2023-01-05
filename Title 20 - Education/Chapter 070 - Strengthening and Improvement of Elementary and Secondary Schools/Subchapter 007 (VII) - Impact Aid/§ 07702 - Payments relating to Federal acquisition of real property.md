@@ -32,7 +32,7 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 &emsp;(II) Except as provided in subclause (III), the Secretary may not reduce the amount of a payment under this section to a local educational agency for a fiscal year by (aa) the amount equal to the amount of revenue, if any, the agency received during the previous fiscal year from activities conducted on Federal property eligible under this section and located in a school district served by the agency, including amounts received from any Federal department or agency (other than the Department of Education) from such activities, by reason of receipt of such revenue, or (bb) any other amount by reason of receipt of such revenue.
 
-&emsp;(III) If the amount equal to the sum of (aa) the proposed payment under this section to alocal educational agency for a fiscal year and (bb) the amount of revenue described in subclause (II)(aa) received by the agency during the previous fiscal year, exceeds the maximum amount the agency is eligible to receive under this section for the fiscal year involved, then the Secretary shall reduce the amount of the proposed payment under this section by an amount equal to such excess amount.
+&emsp;(III) If the amount equal to the sum of (aa) the proposed payment under this section to a local educational agency for a fiscal year and (bb) the amount of revenue described in subclause (II)(aa) received by the agency during the previous fiscal year, exceeds the maximum amount the agency is eligible to receive under this section for the fiscal year involved, then the Secretary shall reduce the amount of the proposed payment under this section by an amount equal to such excess amount.
 
 &emsp;(ii) For purposes of clause (i), the amount of revenue that a local educational agency receives during the previous fiscal year from activities conducted on Federal property shall not include payments received by the agency from the Secretary of Defense to support—
 
@@ -138,7 +138,7 @@ For any fiscal year for which the amount appropriated under section 7714(a) of t
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall first make a foundation payment to each local educational agency that is determined by the Secretary to be eligible to receive a payment under this section for the fiscal year involved and that filed a timely application, and met, or has been determined by statute to meet, the eligibility requirements of subsection (a) for fiscal year 2009.
+&emsp;&emsp;The Secretary shall first make a foundation payment to each local educational agency that is determined by the Secretary to be eligible to receive a payment underthis section for the fiscal year involved and that filed a timely application, and met, or has been determined by statute to meet, the eligibility requirements of subsection (a) for fiscal year 2009.
 
 #### (B) Amount
 
@@ -254,7 +254,7 @@ Pub. L. 114–95, §7001(d)(6), made technical amendment to reference in origina
 
 Subsec. (b)(3)(B). Pub. L. 114–95, §7003(2)(B), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "In the case of Federal property eligible under this section that is within the boundaries of 2 or more local educational agencies, such a local educational agency may ask the Secretary to calculate the per acre value of each such local educational agency as provided under subparagraph (A) and apply the average of these per acre values to the acres of the Federal property in such agency."
 
-Subsec. (e)(2). Pub. L. 114–95, §7003(3), inserted at end "For each fiscal year beginning on or after December 10, 2015, the Secretary shall treat local educational agencies chartered in 1871 having more than 70 percent of the county in Federal ownership as meeting the eligibility requirements of subparagraphs (A) and (C) of subsection (a)(1)."
+Subsec. (e)(2). Pub. L. 114–95, §7003(3), inserted at end "For each fiscal year beginning on or after December 10, 2015, the Secretary shall treat local educational agencies chartered in 1871 having more than 70 percentof the county in Federal ownership as meeting the eligibility requirements of subparagraphs (A) and (C) of subsection (a)(1)."
 
 Subsec. (f). Pub. L. 114–95, §7003(4), added subsec. (f) and struck out former subsec. (f) which related to special rules for certain local educational agencies.
 
@@ -278,7 +278,7 @@ Subsec. (n). Pub. L. 114–95, §7003(10), redesignated subsec. (n) as (k).
 
 <b>2013</b>—Pub. L. 112–239, §563(c)(4), which directed repeal of the amendments by Pub. L. 112–239, §563(b)(1), on the day after the 5-year period that began on Jan. 3, 2013, was itself repealed by Pub. L. 114–95, §7001(a)(1).
 
-Subsec. (a). Pub. L. 112–239, §563(b)(1)(A), struck out "for a fiscal year ending prior to October 1, 2003" at endof introductory provisions and inserted "or (h)" after "subsection (b)" in concluding provisions.
+Subsec. (a). Pub. L. 112–239, §563(b)(1)(A), struck out "for a fiscal year ending prior to October 1, 2003" at end of introductory provisions and inserted "or (h)" after "subsection (b)" in concluding provisions.
 
 Subsec. (b)(2). Pub. L. 112–239, §563(b)(1)(B)(i), substituted "estimated taxable" for "aggregate assessed".
 

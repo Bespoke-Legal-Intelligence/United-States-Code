@@ -122,7 +122,7 @@ In general.—If the conditions described in paragraph (2) are satisfied with re
 
 &emsp;&emsp;"(i) shall distribute among such centers funds appropriated for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.) by any Act other than the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) in the same proportion as such funds were distributed among such centers in the State in fiscal year 2009, notwithstanding section 722(e) of the Rehabilitation Act of 1973 (29 U.S.C. 796f–1(e)) and any contrary provision of a State plan submitted under section 704 of such Act (29 U.S.C. 796c); and
 
-&emsp;&emsp;"(ii) shall disregard any funds provided to such centers from funds appropriated by the American Recovery and Reinvestment Act of 2009 for the centers for independent living program under part C oftitle VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.); and
+&emsp;&emsp;"(ii) shall disregard any funds provided to such centers from funds appropriated by the American Recovery and Reinvestment Act of 2009 for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.); and
 
 &emsp;"(B) in fiscal year 2011 and subsequent fiscal years, shall disregard any funds provided to such centers from funds appropriated by the American Recovery and Reinvestment Act of 2009 (Public Law 111–5) for the centers for independent living program under part C of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.).
 

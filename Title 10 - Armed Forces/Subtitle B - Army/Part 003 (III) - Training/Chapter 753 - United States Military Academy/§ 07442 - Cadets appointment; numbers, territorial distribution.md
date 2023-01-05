@@ -44,7 +44,7 @@
 
 &emsp;(4) 20 nominated by the Secretary of the Army, under regulations prescribed by him, from the honor graduates of schools designated as honor schools by the Department of the Army, the Department of the Navy, or the Department of the Air Force, and from members of the Reserve Officers' Training Corps.
 
-&emsp;(5) 150 selected by the Secretary of the Army in order of merit (prescribed pursuant to section 7443 of this title) from qualified alternates nominated by persons named in paragraphs (3) and (4) of subsection (a).
+&emsp;(5) 150 selected by the Secretary of the Army in order of merit (prescribed pursuant to section 7443 of this title) from qualified alternates nominated by persons named in paragraphs (3) through (10) of subsection (a).
 
 (c) The President may also appoint as cadets at the Academy children of persons who have been awarded the Medal of Honor for acts performed while in the armed forces.
 
@@ -52,7 +52,7 @@
 
 (e) If the annual quota of cadets under subsection (b)(1), (2), (3) is not filled, the Secretary may fill the vacancies by nominating for appointment other candidates from any of these sources who were found best qualified on examination for admission and not otherwise nominated.
 
-(f) Each candidate for admission nominated under paragraphs (3) through (9) of subsection (a) must be domiciled in the State, or in thecongressional district, from which he is nominated, or in the District of Columbia, Puerto Rico, American Samoa, Guam, or the Virgin Islands, if nominated from one of those places.
+(f) Each candidate for admission nominated under paragraphs (3) through (9) of subsection (a) must be domiciled in the State, or in the congressional district, from which he is nominated, or in the District of Columbia, Puerto Rico, American Samoa, Guam, or the Virgin Islands, if nominated from one of those places.
 
 (g) The Secretary of the Army may limit the number of cadets authorized to be appointed under this section to the number that can be adequately accommodated at the Academy, as determined by the Secretary after consulting with the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, subject to the following:
 
@@ -84,13 +84,13 @@
 
 (j)(1) Beginning with the 2003–2004 academic year, the Secretary of the Army may prescribe annual increases in the cadet strength limit in effect under subsection (a). For any academic year, any such increase shall be by no more than 100 cadets or such lesser number as applies under paragraph (3) for that year. Such annual increases may be prescribed until the cadet strength limit is 4,400.
 
-(2) Any increase in the cadet strength limit under paragraph (1) with respect to an academic year shall be prescribed not later than the date on which the budget of the President is submitted to Congress under section 1105 of title 31 for the fiscal year beginning in the same year as the year in which that academic year begins. Whenever the Secretary prescribes such an increase, the Secretary shall submit to Congress a notice in writing of the increase. The notice shall state the amount of the increase in the cadet strength limit and the new cadet strength limit, as so increased, and the amount of the increase in Senior Army Reserve Officers' Training Corps enrollment under each of sections 2104 and 2107 of this title.
+(2) Any increase in the cadet strength limit under paragraph (1) with respect to an academic year shall be prescribed not later than the date on which the budget of the President is submitted to Congress under section 1105 of title 31 for the fiscal year beginning in the same year asthe year in which that academic year begins. Whenever the Secretary prescribes such an increase, the Secretary shall submit to Congress a notice in writing of the increase. The notice shall state the amount of the increase in the cadet strength limit and the new cadet strength limit, as so increased, and the amount of the increase in Senior Army Reserve Officers' Training Corps enrollment under each of sections 2104 and 2107 of this title.
 
 (3) The amount of an increase under paragraph (1) in the cadet strength limit for an academic year may not exceed the increase (if any) for the preceding academic year in the total number of cadets enrolled in the Army Senior Reserve Officers' Training Corps program under chapter 103 of this title who have entered into an agreement under section 2104 or 2107 of this title.
 
 (4) In this subsection, the term "cadet strength limit" means the authorized maximum strength of the Corps of Cadets of the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 240, §4342; Pub. L. 85–861, §33(a)(26), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–663, §1(1), (2), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §1(1), Mar. 3, 1964, 78 Stat. 148; Pub. L. 89–650, §1(1)–(4), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(1), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §1(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §512(13), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 96–600, §2(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(a)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(1), (b)(1), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(a)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1672(c)(3), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–106, div. A, title V, §532(a), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 314, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–314, div. A, title V, §532(a), (f), Dec. 2, 2002, 116 Stat. 2545, 2547; Pub. L. 108–136, div. A, title V, §524(a), title X, §1031(a)(53), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–364, div. A, title X, §1071(a)(28), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 110–181, div. A, title V, §525, Jan. 28, 2008, 122 Stat. 104; Pub. L. 110–229, title VII, §718(a), May 8, 2008, 122 Stat. 869; Pub. L. 110–417, \[div. A\], title V, §540(a), Oct. 14, 2008, 122 Stat. 4454; Pub. L. 111–84, div. A, title V, §527(a), Oct. 28, 2009, 123 Stat. 2288; Pub. L. 112–239, div. A, title X, §1076(f)(38), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 114–92, div. A, title V, §556(a), Nov. 25, 2015, 129 Stat. 824; Pub. L. 114–328, div. A, title V, §566(a), Dec. 23, 2016, 130 Stat. 2138; renumbered §7442 and amended Pub. L. 115–232, div. A, title VIII, §§808(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 240, §4342; Pub. L. 85–861, §33(a)(26), Sept. 2, 1958, 72 Stat. 1565; Pub. L. 87–663, §1(1), (2), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §1(1), Mar. 3, 1964, 78 Stat. 148; Pub. L. 89–650, §1(1)–(4), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(1), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §1(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §512(13), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 96–600, §2(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(a)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(1), (b)(1), Sept. 24, 1983, 97 Stat. 660; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(a)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1672(c)(3), Oct. 5, 1994, 108 Stat. 3015; Pub. L. 104–106, div. A, title V, §532(a), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 314, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–109; Pub. L. 107–314, div. A, title V, §532(a), (f), Dec. 2, 2002, 116 Stat. 2545, 2547; Pub. L. 108–136, div. A, title V, §524(a), title X, §1031(a)(53), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–364, div. A, title X, §1071(a)(28), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 110–181, div. A, title V, §525, Jan. 28, 2008, 122 Stat. 104; Pub. L. 110–229, title VII, §718(a), May 8, 2008, 122 Stat. 869; Pub. L. 110–417, \[div. A\], title V, §540(a), Oct. 14, 2008, 122 Stat. 4454; Pub. L. 111–84, div. A, title V, §527(a), Oct. 28, 2009, 123 Stat. 2288; Pub. L. 112–239, div. A, title X, §1076(f)(38), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 114–92, div. A, title V, §556(a), Nov. 25, 2015, 129 Stat. 824; Pub. L. 114–328, div. A, title V, §566(a), Dec. 23, 2016, 130 Stat. 2138; renumbered §7442 and amended Pub. L. 115–232, div. A, title VIII, §§808(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1839, 1840; Pub. L. 117–263, div. A, title V, §552(a), Dec. 23, 2022, 136 Stat. 2592.)
 
 Historical and Revision Notes
 
@@ -176,11 +176,13 @@ In subsection (h), the words "or shall hereafter be" are omitted as surplusage.
 
 #### Amendments
 
+<b>2022</b>—Subsec. (b)(5). Pub. L. 117–263 substituted "paragraphs (3) through (10)" for "paragraphs (3) and (4)".
+
 <b>2018</b>—Pub. L. 115–232, §808(c)(1), renumbered section 4342 of this title as this section.
 
 Subsec. (b)(5). Pub. L. 115–232, §809(a), substituted "section 7443" for "section 4343".
 
-<b>2016</b>—Subsec. (a). Pub. L. 114–328 inserted at end of concluding provisions "When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made."
+<b>2016</b>—Subsec. (a). Pub. L. 114–328 inserted at end of concluding provisions "When a nominee of a Senator,Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made."
 
 <b>2015</b>—Subsec. (a)(6). Pub. L. 114–92, §556(a)(1), substituted "Four" for "Three".
 
@@ -330,7 +332,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1973 Amendment
 
-Pub. L. 93–171, §4, Nov. 29, 1973, 87 Stat. 691, provided that: "The amendments made by this Act \[amending this section and sections 4343, 6954, 6956, 6958, 9342, and 9343 of this title\] shall be effective beginning with the nominations for appointments to the service academies in the calendar year 1974."
+Pub. L. 93–171, §4, Nov. 29, 1973, 87 Stat. 691, provided that: "The amendments made by this Act \[amendingthis section and sections 4343, 6954, 6956, 6958, 9342, and 9343 of this title\] shall be effective beginning with the nominations for appointments to the service academies in the calendar year 1974."
 
 #### Effective Date of 1970 Amendment
 
@@ -346,7 +348,7 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Information on Nominations and Applications for Military Service Academies
 
-Pub. L. 116–283, div. A, title V, §575, Jan. 1, 2021, 134 Stat. 3645, provided that:
+Pub. L. 116–283, div. A, title V, §575, Jan. 1, 2021, 134 Stat. 3645, as amended by Pub. L. 117–263, div. A, title V, §556, Dec. 23, 2022, 136 Stat. 2595, provided that:
 
 "(a) Nominations Portal.—
 
@@ -410,6 +412,8 @@ Elements.—Each report under paragraph (1) shall include, with respect to each 
 
 &emsp;&emsp;&emsp;"(iv) the number and percentage who accepted an appointment to the academy, disaggregated by the classifications established under subsection (b).
 
+&emsp;&emsp;"(C) Anything the Secretary determines to be significant regarding gender, race, ethnicity, or other demographic information, described in subsection (b), of such individuals.
+
 &emsp;"(3)
 
 Consultation.—In preparing each report under paragraph (1), the Secretary shall consult with the Superintendents of the military service academies.
@@ -440,7 +444,7 @@ Definitions.—In this section:
 
 #### Eligibility of Female Individuals for Appointment and Admission to Service Academies; Uniform Application of Academic and Other Standards to Male and Female Individuals
 
-Pub. L. 94–106, title VIII, §803(a), Oct. 7, 1975, 89 Stat. 537, provided that: "Notwithstanding any other provision of law, in the administration of chapter 403 \[now 753\] of title 10, United States Code \[this chapter\] (relating to the United States Military Academy), chapter 603 \[now 853\] of such title (relating to the United States Naval Academy), and chapter 903 \[now 953\] of such title (relating to the United States Air Force Academy), the Secretary of the military department concerned shall take such action as may be necessary and appropriate to insure that (1) female individuals shall be eligible for appointment and admission to the service academy concerned, beginning with appointments to such academy for the class beginning in calendar year 1976, and (2) the academic and other relevant standards required for appointment, admission, training, graduation, and commissioning of female individuals shall be the same as those required for male individuals, except for those minimum essential adjustments in such standards required because of physiological differences between male and female individuals."
+Pub. L. 94–106, title VIII, §803(a), Oct. 7, 1975, 89 Stat. 537, provided that: "Notwithstanding any other provision of law, in the administration of chapter 403 \[now 753\] of title 10, United States Code \[this chapter\] (relating to the United States Military Academy), chapter 603 \[now 853\] of such title (relating to the United States Naval Academy), and chapter 903 \[now 953\] of such title (relating to the United States Air Force Academy), the Secretary of the military department concerned shall take such action as may be necessary and appropriate to insure that (1) female individuals shall be eligible for appointment and admission to the service academy concerned, beginning with appointments to such academy for the class beginning in calendar year 1976, and (2) the academic and other relevant standards required for appointment, admission, training, graduation, and commissioning of female individuals shall be the same as those required for male individuals, except for thoseminimum essential adjustments in such standards required because of physiological differences between male and female individuals."
 
 #### Secretary To Implement Policy of Expeditious Admission of Women to the Academy
 

@@ -18,7 +18,7 @@ As used in this subchapter the term "scenic easement" means the right to control
 
 #### (e) Offers to sell land; hardship from delay
 
-The Secretary shall give prompt and careful consideration to any offer made by a personowning land within the recreation area to sell such land to the United States. The Secretary shall specifically consider any hardship to such person which might result from an undue delay in acquiring his property.
+The Secretary shall give prompt and careful consideration to any offer made by a person owning land within the recreation area to sell such land to the United States. The Secretary shall specifically consider any hardship to such person which might result from an undue delay in acquiring his property.
 
 #### (f) Exchange of land; equalization payments
 
@@ -26,7 +26,7 @@ In exercising his authority to acquire property by exchange, the Secretary may a
 
 #### (g) Acquisition of mineral interests
 
-Notwithstanding any other provision of law, the Secretary is authorized to acquire mineral interests in lands within the recreation area, with or without the consent of the owner. Upon acquisition of any such interest, the lands and/or minerals covered by such interest are by this subchapter withdrawn from entry or appropriation under the United States mining laws and from disposition under all laws pertaining to mineral leasing and all amendments thereto.
+Notwithstanding any other provision of law, the Secretary is authorized to acquire mineral interests in lands within the recreation area,with or without the consent of the owner. Upon acquisition of any such interest, the lands and/or minerals covered by such interest are by this subchapter withdrawn from entry or appropriation under the United States mining laws and from disposition under all laws pertaining to mineral leasing and all amendments thereto.
 
 #### (h) Transfer of Federal property to Secretary
 

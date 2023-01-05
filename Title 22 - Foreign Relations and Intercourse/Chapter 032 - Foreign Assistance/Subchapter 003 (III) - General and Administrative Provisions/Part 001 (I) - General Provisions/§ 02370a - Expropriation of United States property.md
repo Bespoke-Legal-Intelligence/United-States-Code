@@ -64,7 +64,7 @@ The President may waive the prohibitions in subsections (a) and (b) for a countr
 
 #### (h) "United States person" defined
 
-For the purpose of this section, the term "United States person" means a United Statescitizen or corporation, partnership, or association at least 50 percent beneficially owned by United States citizens.
+For the purpose of this section, the term "United States person" means a United States citizen or corporation, partnership, or association at least 50 percent beneficially owned by United States citizens.
 
 #### (i) Certain claims for expropriation by the Government of Nicaragua
 
@@ -90,9 +90,9 @@ For the purpose of this section, the term "United States person" means a United 
 
 This Act, referred to in subsec. (a), is Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 382, known as the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 2651 of this title and Tables.
 
-The Foreign Assistance Act of 1961, as amended, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to this chapter (§2151 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, as amended, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to this chapter (§2151 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Codification
 
@@ -110,7 +110,7 @@ Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, prov
 
 Memorandum for the Secretary of State
 
-By the authority vested in me by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate to the Secretary of State the functions vested in the President by the following provisions of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236) (the "Act"): sections 102(g) \[22 U.S.C. 287e note\], 161(c) \[22 U.S.C. 2651a note\], 401(b) \[108 Stat. 446\], 407(a) \[22 U.S.C. 287b note\], 409 \[22 U.S.C. 287e note\], 431(b) \[108 Stat. 459\], 514(b) \[22 U.S.C. 1928 note\], 523 \[108 Stat. 473\], 527(e) and (g) \[22 U.S.C. 2370a(e), (g)\], 528 \[108 Stat. 477\], 532(a) \[108 Stat. 480\], 574 \[22 U.S.C. 2656 note\], 583(b)(1) and (b)(6) \[108 Stat. 489, 490\], 733 \[22 U.S.C. 2779a\] and 735(d) \[22 U.S.C. 2797b–1\].
+By the authority vested in me by the Constitution and laws of the United States of America, includingsection 301 of title 3 of the United States Code, I hereby delegate to the Secretary of State the functions vested in the President by the following provisions of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236) (the "Act"): sections 102(g) \[22 U.S.C. 287e note\], 161(c) \[22 U.S.C. 2651a note\], 401(b) \[108 Stat. 446\], 407(a) \[22 U.S.C. 287b note\], 409 \[22 U.S.C. 287e note\], 431(b) \[108 Stat. 459\], 514(b) \[22 U.S.C. 1928 note\], 523 \[108 Stat. 473\], 527(e) and (g) \[22 U.S.C. 2370a(e), (g)\], 528 \[108 Stat. 477\], 532(a) \[108 Stat. 480\], 574 \[22 U.S.C. 2656 note\], 583(b)(1) and (b)(6) \[108 Stat. 489, 490\], 733 \[22 U.S.C. 2779a\] and 735(d) \[22 U.S.C. 2797b–1\].
 
 The functions under section 407(a) of the Act \[22 U.S.C. 287b note\] shall be exercised in coordination with the Secretary of Defense.
 

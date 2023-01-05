@@ -26,11 +26,11 @@ Components for naval vessels.—The following components of vessels, to the exte
 
 &emsp;(3)
 
-Components for auxiliary ships.—Subject to subsection (k),<sup>1</sup> large medium-speed diesel engines.
+Components for auxiliary ships.—Subject to subsection (k), large medium-speed diesel engines.
 
 &emsp;(4)
 
-Components for t–ao 205 class vessels.—The following components of T–AO 205 class vessels:
+Components for t–ao 205 and t–arc class vessels.—The following components of T–AO 205 and T–ARC class vessels:
 
 &emsp;&emsp;(A) Auxiliary equipment, including pumps, for all shipboard services.
 
@@ -154,7 +154,7 @@ Elements.—The application process required under paragraph (1) shall include t
 
 &emsp;&emsp;&emsp;&emsp;(V) National security regulations or restrictions imposed on such item that may not be imposed on a non-national technology and industrial base competitor.
 
-&emsp;&emsp;&emsp;&emsp;(VI) Non-national security-related Federal, State, and local government regulations imposed on such item that may not be imposed on a non-national technology and industrial base competitor.
+&emsp;&emsp;&emsp;&emsp;(VI) Non-national security-related Federal, State, and local government regulations imposed on such item that may not be imposed on a non-nationaltechnology and industrial base competitor.
 
 &emsp;&emsp;&emsp;&emsp;(VII) The extent to which such item is fielded in current programs of record.
 
@@ -190,11 +190,41 @@ Justification.—The determination required under subparagraph (B) shall also in
 
 Recommendations for legislation.—For applications recommended under subsection (3), the official designated pursuant to paragraph (2)(A) shall be responsible for preparing a legislative proposal for consideration by the Secretary.
 
-(l) <sup>2</sup>
+(k)
 
 Implementation of Auxiliary Ship Component Limitation.—Subsection (a)(3) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy. For purposes of this subsection, the term "auxiliary ship" does not include an icebreaker or a special mission ship.
 
-(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225; Pub. L. 108–136, div. A, title VIII, §828,Nov. 24, 2003, 117 Stat. 1548; Pub. L. 111–350, §5(b)(40), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. A, title VIII, §813(a), Dec. 12, 2017, 131 Stat. 1461; Pub. L. 115–232, div. A, title VIII, §844(a), Aug. 13, 2018, 132 Stat. 1879; Pub. L. 116–92, div. A, title VIII, §853, Dec. 20, 2019, 133 Stat. 1511; renumbered §4864 and amended Pub. L. 116–283, div. A, title VIII, §845(a), title XVI, §1603(a), title XVIII, §1870(c)(2)–(4), Jan. 1, 2021, 134 Stat. 3766, 4043, 4285; Pub. L. 117–81, div. A, title VIII, §816, title X, §1081(a)(30), title XVII, §1701(b)(23), Dec. 27, 2021, 135 Stat. 1825, 1921, 2135.)
+(l)
+
+Periodic Review.—
+
+&emsp;(1)
+
+Recommendation.—Not later than November 1, 2024, and every five years thereafter, the Under Secretary of Defense for Acquisition and Sustainment shall review each item described in subsections (a) and (e) of this section and submit to the congressional defense committees, in writing, one of the following recommendations:
+
+&emsp;&emsp;(A) Recommend continued inclusion of the item under this section.
+
+&emsp;&emsp;(B) Recommend continued inclusion of the item under this section with modifications.
+
+&emsp;&emsp;(C) Recommend discontinuing inclusion of the item under this section.
+
+&emsp;(2)
+
+Elements.—Each review required under paragraph (1) shall include, with respect to the five-year period preceding the date of submission of the written determination related to such a review, the following elements:
+
+&emsp;&emsp;(A) The criticality of the item reviewed to a military unit's mission accomplishment or other national security objectives.
+
+&emsp;&emsp;(B) The extent to which such item is fielded in current programs of record.
+
+&emsp;&emsp;(C) The number of such items to be procured by current programs of record.
+
+&emsp;&emsp;(D) The extent to which cost and pricing data for such item has been deemed fair and reasonable.
+
+&emsp;(3)
+
+Justification.—The written determination required under paragraph (1) shall also include the findings of the applicable review conducted under such paragraph and any key justifications for the recommendation.
+
+(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225; Pub. L. 108–136, div. A, title VIII, §828, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 111–350, §5(b)(40), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. A, title VIII, §813(a), Dec. 12, 2017, 131 Stat. 1461; Pub. L. 115–232, div. A, title VIII, §844(a), Aug. 13, 2018, 132 Stat. 1879; Pub. L. 116–92, div. A, title VIII, §853, Dec. 20, 2019, 133 Stat. 1511; renumbered §4864 and amended Pub. L. 116–283, div. A, title VIII, §845(a), title XVI, §1603(a), title XVIII, §1870(c)(2)–(4), Jan. 1, 2021, 134 Stat. 3766, 4043, 4285; Pub. L. 117–81, div. A, title VIII, §816, title X, §1081(a)(30), title XVII, §1701(b)(23), Dec. 27, 2021, 135 Stat. 1825, 1921, 2135; Pub. L. 117–263, div. A, title VIII, §§852, 853(a), Dec. 23, 2022, 136 Stat. 2721, 2722.)
 
 Historical and Revision Notes
 
@@ -216,11 +246,13 @@ The words "of the United States under the provisions of this Act or the provisio
 
 #### References in Text
 
-Subsection (k), referred to in subsec. (a)(3), probably should be a reference to subsec. (l). Prior to amendment by Pub. L. 116–283, this section contained two subsecs. (k). Section 845(a)(8) of Pub. L. 116–283 redesignated the subsec. (k) relating to limitation on certain procurements application process as (j), but the reference in subsec. (a)(3) was probably to the subsec. (k) relating to implementation of auxiliary ship component limitation, which was redesignated as subsec. (l) by section 1870(c)(4) of Pub. L. 116–283.
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (l), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (k), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(4). Pub. L. 117–263, §853(a)(2), inserted "and T–ARC" after "T–AO 205" in heading and introductory provisions in text.
+
+Subsecs. (k), (l). Pub. L. 117–263, §§852, 853(a)(1) added subsec. (l) and redesignated former subsec. (l) as (k).
 
 <b>2021</b>—Pub. L. 116–283, §1870(c)(2), renumbered section 2534 of this title as this section.
 
@@ -284,7 +316,7 @@ Subsec. (k). Pub. L. 116–92, §853(b), added subsec. (k) related to implementa
 
 <b>2003</b>—Subsec. (a)(5). Pub. L. 108–136 inserted before period at end ", except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer".
 
-<b>2001</b>—Subsec. (i)(3). Pub. L. 107–107, §1048(b)(2), substituted "Under Secretary of Defense for Acquisition,Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
+<b>2001</b>—Subsec. (i)(3). Pub. L. 107–107, §1048(b)(2), substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
 Subsec. (j). Pub. L. 107–107, §835(a), added subsec. (j).
 
@@ -398,6 +430,10 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Pub. L. 102–484, div. A, title VIII, §833(b), Oct. 23, 1992, 106 Stat. 2461, provided that: "Subsection (f) of section 2534 of title 10, United States Code, as added by subsection (a) \[see, now, 10 U.S.C. 4864(e)\], shall apply with respect to solicitations for contracts issued after the expiration of the 120-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\]."
 
+#### Regulations
+
+Pub. L. 117–263, div. A, title VIII, §853(b), Dec. 23, 2022, 136 Stat. 2722, provided that: "Not later than June 1,2023, the Secretary of Defense shall issue regulations for carrying out section 4864(j) of title 10, United States Code."
+
 #### Review of Select Components
 
 Pub. L. 116–283, div. A, title VIII, §845(b), Jan. 1, 2021, 134 Stat. 3767, provided that:
@@ -439,8 +475,4 @@ Contracts Described.—The contracts described in this subsection include energy
 "(c)
 
 Definition of Photovoltaic Devices.—In this section, the term 'photovoltaic devices' means devices that convert light directly into electricity through a solid-state, semiconductor process."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "subsection (l),". See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. There is no subsec. (k).</i>
 

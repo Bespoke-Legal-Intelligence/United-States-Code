@@ -146,7 +146,7 @@ Pub. L. 105–277, §1225(h), struck out ", or the Director of the Arms Control
 
 Subsec. (d). Pub. L. 104–287, §5(68)(A), substituted "
 
-Certain Transportation by Air Outside the UnitedStates" for "
+Certain Transportation by Air Outside the United States" for "
 
 Transportation by Foreign Air Carriers" in heading.
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of Title 10, Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 8752 of Title 10, Armed Forces.
 
 #### Effective Date of 2003 Amendment
 

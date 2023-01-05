@@ -82,7 +82,7 @@
 
 #### (1) Designated 9–1–1 charges
 
-&emsp;For the purposes of this subsection, the term "designated 9–1–1 charges" means any taxes,fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
+&emsp;For the purposes of this subsection, the term "designated 9–1–1 charges" means any taxes, fees, or other charges imposed by a State or other taxing jurisdiction that are designated or presented as dedicated to deliver or improve 9–1–1 services, E9–1–1 services, or Next Generation 9–1–1 services.
 
 #### (2) Certification
 
@@ -182,7 +182,7 @@ In this section, the following definitions shall apply:
 
 <b>2021</b>—Subsec. (a)(4). Pub. L. 117–58 struck out par. (4). Text read as follows: "The Assistant Secretary and the Administrator shall provide an annual report to Congress by the first day of October of each year on the activities of the Office to improve coordination and communication with respect to the implementation of 9–1–1 services, E9–1–1 services, and Next Generation 9–1–1 services."
 
-<b>2012</b>—Pub. L. 112–96 amended section generally. Prior to amendment, section established a joint program to facilitate coordination and communication between Federal, State, and local emergency communications systems, emergency personnel, public safety organizations, telecommunications carriers, and telecommunications equipment manufacturers and vendors involved in the implementation of E–911 services and created an E–911 Implementation Coordination Office.
+<b>2012</b>—Pub. L. 112–96 amended section generally. Prior to amendment, section established a joint program to facilitate coordination and communication between Federal, State, and local emergency communications systems, emergency personnel, public safety organizations, telecommunications carriers, and telecommunications equipment manufacturers and vendors involved in the implementation of E–⁠911 services and created an E–⁠911 Implementation Coordination Office.
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–283, §102(1), inserted "and for migration to an IP-enabled emergency network" before period at end.
 
@@ -220,7 +220,7 @@ Pub. L. 108–494, title I, §102, Dec. 23, 2004, 118 Stat. 3986, provided that:
 
 Pub. L. 108–494, title I, §103, Dec. 23, 2004, 118 Stat. 3986, provided that: "The purposes of this title \[see section 101 of title I of Pub. L. 108–494, set out as a Short Title of 2004 Amendment note under section 901 of this title\] are—
 
-&emsp;"(1) to coordinate 911 services and E–911 services, at the Federal, State, and local levels; and
+&emsp;"(1) to coordinate 911 services and E–⁠911 services, at the Federal, State, and local levels; and
 
 &emsp;"(2) to ensure that funds collected on telecommunications bills for enhancing emergency 911 services are used only for the purposes for which the funds are being collected."
 

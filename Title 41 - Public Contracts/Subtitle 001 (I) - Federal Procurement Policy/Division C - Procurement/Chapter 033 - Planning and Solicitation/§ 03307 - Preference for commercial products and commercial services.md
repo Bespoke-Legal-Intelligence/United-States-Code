@@ -34,7 +34,7 @@ Implementation.—The head of each executive agency shall ensure that procuremen
 
 &emsp;(1) acquire commercial services or commercial products or nondevelopmental items other than commercial products to meet the needs of the executive agency;
 
-&emsp;(2) require that prime contractors and subcontractors at all levels under contracts of the executive agency incorporate commercial services or commercial products or nondevelopmental items other than commercialproducts as components of items supplied to the executive agency;
+&emsp;(2) require that prime contractors and subcontractors at all levels under contracts of the executive agency incorporate commercial services or commercial products or nondevelopmental items other than commercial products as components of items supplied to the executive agency;
 
 &emsp;(3) modify requirements in appropriate cases to ensure that the requirements can be met by commercial services or commercial products or, to the extent that commercial products suitable to meet the executive agency's needs are not available, nondevelopmental items other than commercial products;
 
@@ -112,7 +112,7 @@ Clauses that may be used in a contract.—To the maximum extent practicable, onl
 
 &emsp;&emsp;(E)
 
-Waiver of contract clauses.—The Federal Acquisition Regulation shall provide standards and procedures for waiving the use of contract clauses required pursuant to subparagraph (B), other than those required by law, including standards for determining the cases in which a waiver is appropriate.
+Waiver of contract clauses.—The Federal Acquisition Regulation shall providestandards and procedures for waiving the use of contract clauses required pursuant to subparagraph (B), other than those required by law, including standards for determining the cases in which a waiver is appropriate.
 
 &emsp;(3)
 

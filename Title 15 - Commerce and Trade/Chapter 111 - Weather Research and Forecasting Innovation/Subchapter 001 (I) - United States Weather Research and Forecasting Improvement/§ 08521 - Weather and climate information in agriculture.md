@@ -52,7 +52,7 @@ The Under Secretary shall build upon existing forecasting and assessment program
 
 #### (1) In general
 
-&emsp;The Under Secretary shall foster effective communication, understanding, and use of the forecasts by the intended users of the information described in subsection (d). This may include assistance to States for forecast communication coordinators to enable local interpretation and planning based on the information.
+&emsp;The Under Secretary shall foster effective communication, understanding, and use of the forecasts by the intended users of the information described in subsection (d). This shall include assistance to States for forecast communication coordinators to enable local interpretation and planning based on the information.
 
 #### (2) Requirements
 
@@ -60,7 +60,7 @@ The Under Secretary shall build upon existing forecasting and assessment program
 
 &emsp;&emsp;(A) provide funds to support an individual in that State—
 
-&emsp;&emsp;&emsp;(i) to serve as a liaison among the National Oceanic and Atmospheric Administration, other Federal departments andagencies, the weather enterprise, the State, and relevant interests within that State; and
+&emsp;&emsp;&emsp;(i) to serve as a liaison among the National Oceanic and Atmospheric Administration, other Federal departments and agencies, the weather enterprise, the State, and relevant interests within that State; and
 
 &emsp;&emsp;&emsp;(ii) to receive the forecasts and information under subsection (c) and disseminate the forecasts and information throughout the State, including to county and tribal governments; and
 
@@ -140,7 +140,7 @@ There are authorized to be appropriated to carry out the activities under this s
 
 Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Weather Service.
 
-(Pub. L. 99–198, title XVII, §1762, Dec. 23, 1985, 99 Stat. 1651; Pub. L. 115–25, title II, §201, Apr. 18, 2017, 131 Stat. 98; Pub. L. 115–423, §3(a), Jan. 7, 2019, 132 Stat. 5455.)
+(Pub. L. 99–198, title XVII, §1762, Dec. 23, 1985, 99 Stat. 1651; Pub. L. 115–25, title II, §201, Apr. 18, 2017, 131 Stat. 98; Pub. L. 115–423, §3(a), Jan. 7, 2019, 132 Stat. 5455; Pub. L. 117–316, §11, Dec. 27, 2022, 136 Stat. 4413.)
 
 #### <b>Editorial Notes</b>
 
@@ -151,6 +151,8 @@ Section was formerly set out as a note under section 313 of this title.
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(1). Pub. L. 117–316 substituted "shall include" for "may include".
 
 <b>2019</b>—Subsec. (j). Pub. L. 115–423, §3(a)(1), amended subsec. (j) generally. Prior to amendment, text read as follows: "For each of fiscal years 2017 and 2018, there are authorized out of funds appropriated to the National Weather Service, $26,500,000 to carry out the activities of this section."
 

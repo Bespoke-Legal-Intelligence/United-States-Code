@@ -30,7 +30,7 @@ Subsection (a) shall apply to any information, data, estimates, and statistics o
 
 #### (e) Level of confidentiality
 
-With respect to information, data, estimates, and statistics obtained under sections 601(d) and 601(e) of this title, the Director shall maintain the same level of confidentiality as is required by law of the department, agency, establishment, or regulatory agency or commission from which it is obtained. Officers and employees ofthe Congressional Budget Office shall be subject to the same statutory penalties for unauthorized disclosure or use as officers or employees of the department, agency, establishment, or regulatory agency or commission from which it is obtained.
+With respect to information, data, estimates, and statistics obtained under sections 601(d) and 601(e) of this title, the Director shall maintain the same level of confidentiality as is required by law of the department, agency, establishment, or regulatory agency or commission from which it is obtained. Officers and employees of the Congressional Budget Office shall be subject to the same statutory penalties for unauthorized disclosure or use as officers or employees of the department, agency, establishment, or regulatory agency or commission from which it is obtained.
 
 (Pub. L. 93–344, title II, §203, July 12, 1974, 88 Stat. 305; Pub. L. 106–554, §1(a)(7) \[title III, §310(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–639.)
 

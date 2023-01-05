@@ -40,9 +40,9 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 &emsp;&emsp;In making adjustments to the loan rate for cotton (including any review of the adjustments) as provided in this subsection, the Secretary shall consult with representatives of the United States cotton industry.
 
-#### (B) Inapplicability of Federal Advisory Committee Act
+#### (B) Inapplicability of chapter 10 of title 5
 
-&emsp;&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations under this subsection.
+&emsp;&emsp;Chapter 10 of title 5 shall not apply to consultations under this subsection.
 
 #### (4) Review of adjustments
 
@@ -52,7 +52,7 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 The Secretary shall not make adjustments in the loan rates for long grain rice and medium grain rice, except for differences in grade and quality (including milling yields).
 
-(Pub. L. 113–79, title I, §1210, Feb. 7, 2014, 128 Stat. 686.)
+(Pub. L. 113–79, title I, §1210, Feb. 7, 2014, 128 Stat. 686; Pub. L. 117–286, §4(a)(43), Dec. 27, 2022, 136 Stat. 4310.)
 
 #### <b>Editorial Notes</b>
 
@@ -60,5 +60,7 @@ The Secretary shall not make adjustments in the loan rates for long grain rice a
 
 Subtitle C, referred to in subsec. (b), means subtitle C of title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 687, which amended sections 1359bb, 1359ll, and 7272 of this title.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+
+<b>2022</b>—Subsec. (d)(3)(B). Pub. L. 117–286 substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 

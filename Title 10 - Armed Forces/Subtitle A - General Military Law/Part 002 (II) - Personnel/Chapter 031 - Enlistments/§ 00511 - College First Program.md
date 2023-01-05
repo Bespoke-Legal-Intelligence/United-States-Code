@@ -32,7 +32,7 @@ Allowance.—(1) The monthly allowance paid under subsection (b)(2) shall be equ
 
 (e)
 
-Recoupment of Allowance.—(1) A person who, after receiving an allowance under this section, fails to complete the total period of service required of that person in connection with delayed entry authorized for the person under section 513 shall repay the United States the amount which bears the same ratio to the total amount of that allowance paid to the person as the unserved part of the total required period of service bears to the total period.
+Recoupment of Allowance.—(1) A person who, after receiving an allowance under this section, fails to complete the total period of service required of that person in connection with delayed entry authorized for the person under section 513 shall repay the United States the amount which bears the same ratio to the totalamount of that allowance paid to the person as the unserved part of the total required period of service bears to the total period.
 
 (2) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
 

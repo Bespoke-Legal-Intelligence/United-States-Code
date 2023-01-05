@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of skilled nursing facilities, the resident's assessment under section 1395i–3(b)(3) of this title;
 
-&emsp;&emsp;&emsp;(iii) in the case of inpatient rehabilitation facilities, any Medicare beneficiaryassessment instrument established by the Secretary for purposes of section 1395ww(j) of this title; and
+&emsp;&emsp;&emsp;(iii) in the case of inpatient rehabilitation facilities, any Medicare beneficiary assessment instrument established by the Secretary for purposes of section 1395ww(j) of this title; and
 
 &emsp;&emsp;&emsp;(iv) in the case of long-term care hospitals, the Medicare beneficiary assessment instrument used with respect to such hospitals for the collection of data elements necessary to calculate quality measures as described in the August 18, 2011, Federal Register (76 Fed. Reg. 51754–51755), including for purposes of section 1395ww(m)(5)(C) of this title, or any other instrument used with respect to such hospitals for assessment purposes.
 
@@ -136,7 +136,7 @@
 
 #### (B) Standardized patient assessment data described
 
-&emsp;&emsp;For purposes of subparagraph (A), the standardized patient assessment data described in this subparagraph is data requiredfor at least the quality measures described in subsection (c)(1) and that is with respect to the following categories:
+&emsp;&emsp;For purposes of subparagraph (A), the standardized patient assessment data described in this subparagraph is data required for at least the quality measures described in subsection (c)(1) and that is with respect to the following categories:
 
 &emsp;&emsp;&emsp;(i) Functional status, such as mobility and self care at admission to a PAC provider and before discharge from a PAC provider.
 
@@ -166,7 +166,7 @@
 
 #### (1) Requirement for reporting quality measures
 
-&emsp;Not later than the specified application date, as applicable to measures and PAC providers, the Secretary shall specify quality measures on which PAC providers are required under the applicable reporting provisions to submit standardized patient assessment data described in subsection (b)(1) and other necessary data specified by the Secretary. Such measures shall be with respect to at least the following domains:
+&emsp;Not later than the specified application date, as applicable to measures and PAC providers, the Secretary shall specify quality measures on which PAC providers are required under the applicable reporting provisions to submit standardized patient assessment data described in subsection (b)(1) and other necessary data specified by the Secretary. Suchmeasures shall be with respect to at least the following domains:
 
 &emsp;&emsp;(A) Functional status, cognitive function, and changes in function and cognitive function.
 
@@ -248,7 +248,7 @@
 
 &emsp;&emsp;The initial implementation phase, with respect to such a measure, shall, in accordance with subsections (c) and (d), as applicable, consist of—
 
-&emsp;&emsp;&emsp;(i) measure specification, including informing the public of the measure's numerator, denominator, exclusions, and any other aspects the Secretary determines necessary;
+&emsp;&emsp;&emsp;(i) measure specification, including informing the public of the measure's numerator, denominator, exclusions, and anyother aspects the Secretary determines necessary;
 
 &emsp;&emsp;&emsp;(ii) data collection, including, in the case of quality measures, requiring PAC providers to report data elements needed to calculate such a measure; and
 
@@ -354,7 +354,7 @@
 
 #### (j) Stakeholder input
 
-Before the initial rulemaking process to implement this section, the Secretary shall allowfor stakeholder input, such as through town halls, open door forums, and mail-box submissions.
+Before the initial rulemaking process to implement this section, the Secretary shall allow for stakeholder input, such as through town halls, open door forums, and mail-box submissions.
 
 #### (k) Funding
 
@@ -384,7 +384,7 @@ Section 2(d) of the IMPACT Act of 2014, referred to in subsecs. (c)(3)(A) and (d
 
 #### Permitting Occupational Therapists To Conduct the Initial Assessment Visit and Complete the Comprehensive Assessment With Respect to Certain Rehabilitation Services for Home Health Agencies Under the Medicare Program
 
-Pub. L. 116–260, div. CC, title I, §115, Dec. 27, 2020, 134 Stat. 2948, provided that: "Not later than January 1, 2022, the Secretary of Health and Human Services shall revise subsections (a)(2) and (b)(3) of section 484.55 of title 42, Code of Federal Regulations, or a successor regulation, to permit an occupational therapist to conduct the initial assessment visit and to complete the comprehensive assessment (as such terms are described in such subsections, respectively) for home health services for an individual under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) if the home health plan of care for such individual—
+Pub. L. 116–260, div. CC, title I, §115, Dec. 27, 2020, 134 Stat. 2948, provided that: "Not later than January 1, 2022, the Secretary of Health and Human Services shall revise subsections (a)(2) and (b)(3) of section 484.55 of title 42, Code of Federal Regulations, or a successor regulation, to permit an occupational therapist to conduct the initial assessment visit and to complete the comprehensive assessment (as such terms are describedin such subsections, respectively) for home health services for an individual under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) if the home health plan of care for such individual—
 
 &emsp;"(1) does not initially include skilled nursing care;
 
@@ -436,7 +436,7 @@ Recommendations to account for information in payment adjustment mechanisms.—I
 
 &emsp;&emsp;"(ii) account for such factors—
 
-&emsp;&emsp;&emsp;"(I) in quality measures, resource use measures, and other measures under title XVIII of the Social Security Act (including such measures specified under subsections (c) and (d) of section 1899Bof such Act \[42 U.S.C. 1395lll\], as added by subsection (a)); and
+&emsp;&emsp;&emsp;"(I) in quality measures, resource use measures, and other measures under title XVIII of the Social Security Act (including such measures specified under subsections (c) and (d) of section 1899B of such Act \[42 U.S.C. 1395lll\], as added by subsection (a)); and
 
 &emsp;&emsp;&emsp;"(II) in determining payment adjustments based on such measures in other applicable provisions of such title.
 

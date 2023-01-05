@@ -22,7 +22,7 @@
 
 #### (b) Certain matters
 
-In carrying out the section 351A program and the section 212 program, the Secretary of Health and Human Services and the Secretary of Agriculture shall, to the greatest extent practicable,coordinate activities to achieve the following purposes:
+In carrying out the section 351A program and the section 212 program, the Secretary of Health and Human Services and the Secretary of Agriculture shall, to the greatest extent practicable, coordinate activities to achieve the following purposes:
 
 &emsp;(1) To minimize any conflicts between the regulations issued under, and activities carried out under, such programs.
 
@@ -52,7 +52,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 &emsp;&emsp;(E) A procedure through which—
 
-&emsp;&emsp;&emsp;(i) the agency receiving the single registration form under one of such programs informs the agency administering the other program whether the receiving agency has denied the registration; and
+&emsp;&emsp;&emsp;(i) the agency receiving the single registration form under one of such programsinforms the agency administering the other program whether the receiving agency has denied the registration; and
 
 &emsp;&emsp;&emsp;(ii) each of such agencies ensures that registrations are entered into the national database of registered persons that is maintained by each such agency.
 
@@ -76,7 +76,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 #### (d) Joint regulations
 
-Not later than 18 months after the date on which the single system of registration under subsection (c)(2) is implemented, the Secretary of Health and Human Services and the Secretary of Agriculture shall jointly issue regulations for the possession, use, and transfer of overlap agents and toxins that meet the requirements ofboth the section 351A program and the section 212 program.
+Not later than 18 months after the date on which the single system of registration under subsection (c)(2) is implemented, the Secretary of Health and Human Services and the Secretary of Agriculture shall jointly issue regulations for the possession, use, and transfer of overlap agents and toxins that meet the requirements of both the section 351A program and the section 212 program.
 
 (Pub. L. 107–188, title II, §221, June 12, 2002, 116 Stat. 657.)
 

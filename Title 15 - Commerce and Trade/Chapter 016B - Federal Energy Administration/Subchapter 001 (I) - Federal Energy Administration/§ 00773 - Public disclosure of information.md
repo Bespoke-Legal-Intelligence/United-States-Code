@@ -10,7 +10,7 @@ Subject to the provisions of this chapter, section 552 of title 5 shall apply to
 
 #### (c) Guidelines and procedures for handling information pertaining to individuals; access of individuals to such personal information
 
-To protect and assure privacy of individuals and confidentiality of personal information, the Administrator is directed to establish guidelines and procedures for handling any information which the Administration obtains pertaining to individuals. He shall provide, to the extent practicable, in such guidelines and procedures a method for allowing any such individual to gain access to such information pertaining to himself.
+To protect and assure privacy of individuals and confidentiality of personal information, theAdministrator is directed to establish guidelines and procedures for handling any information which the Administration obtains pertaining to individuals. He shall provide, to the extent practicable, in such guidelines and procedures a method for allowing any such individual to gain access to such information pertaining to himself.
 
 (Pub. L. 93–275, §14, May 7, 1974, 88 Stat. 108.)
 

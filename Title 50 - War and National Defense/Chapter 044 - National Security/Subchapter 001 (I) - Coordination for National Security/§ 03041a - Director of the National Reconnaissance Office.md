@@ -32,7 +32,7 @@ The Director of the National Reconnaissance Office shall be the head of the Nati
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Board shall be composed of five members appointed by the Director from among individuals with demonstrated academic, government, business, or other expertise relevant to the mission and functions of the National Reconnaissance Office.
+&emsp;&emsp;&emsp;The Board shall be composed of five members appointed by the Director, in consultation with the Director of National Intelligence and the Secretary of Defense, from among individuals with demonstrated academic, government, business, or other expertise relevant to the mission and functions of the National Reconnaissance Office.
 
 #### (ii) Notification
 
@@ -68,13 +68,13 @@ The Director of the National Reconnaissance Office shall be the head of the Nati
 
 #### (6) Nonapplicability of certain requirements
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
+&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply to the Board.
 
 #### (7) Termination
 
-&emsp;The Board shall terminate on the date that is 3 years after the date of the first meeting of the Board.
+&emsp;The Board shall terminate on September 30, 2024.
 
-(July 26, 1947, ch. 343, title I, §106A, as added Pub. L. 113–126, title IV, §411(a), July 7, 2014, 128 Stat. 1409; amended Pub. L. 116–92, div. E, title LXIV, §6433(a), Dec. 20, 2019, 133 Stat. 2200.)
+(July 26, 1947, ch. 343, title I, §106A, as added Pub. L. 113–126, title IV, §411(a), July 7, 2014, 128 Stat. 1409; amended Pub. L. 116–92, div. E, title LXIV, §6433(a), Dec. 20, 2019, 133 Stat. 2200; Pub. L. 117–263, div. F, title LXIV, §6431, Dec. 23, 2022, 136 Stat. 3532.)
 
 #### <b>Editorial Notes</b>
 
@@ -82,9 +82,13 @@ The Director of the National Reconnaissance Office shall be the head of the Nati
 
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning act July 26, 1947, ch. 343, 61 Stat. 495, known as the National Security Act of 1947, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(3)(A)(i). Pub. L. 117–263, §6431(1), inserted ", in consultation with the Director of National Intelligence and the Secretary of Defense," after "Director".
+
+Subsec. (d)(7). Pub. L. 117–263, §6431(2), substituted "September 30, 2024" for "the date that is 3 years after the date of the first meeting of the Board".
 
 <b>2019</b>—Subsec. (d). Pub. L. 116–92 added subsec. (d).
 
@@ -92,7 +96,31 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(6), is Pub. L. 92
 
 #### Effective Date
 
-Section effective Oct. 1, 2014, and applicable upon the earlier of the date of the first nomination by the President of an individual to serve as the Director of the National Reconnaissance Office that occurs on or after Oct. 1, 2014, or the date of the cessation of the performance of the duties of the Director of the National Reconnaissance Office by the individual performing such duties on Oct. 1, 2014, subject to an exception for initial nominations, see section 413 of Pub. L. 113–126, set out as an Effective Date of 2014 Amendment note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
+Pub. L. 113–126, title IV, §413, July 7, 2014, 128 Stat. 1410, as amended by Pub. L. 117–286, §4(b)(12), Dec. 27, 2022, 136 Stat. 4344, provided that:
+
+"(a)
+
+In General.—The amendments made by sections 411 \[enacting this section\] and 412 \[amending sections 8G and 12 of Pub. L. 95–452, formerly set out in the Appendix to Title 5, Government Organization and Employees\] shall take effect on October 1, 2014, and shall apply upon the earlier of—
+
+&emsp;"(1) in the case of section 411—
+
+&emsp;&emsp;"(A) the date of the first nomination by the President of an individual to serve as the Director of the National Reconnaissance Office that occurs on or after October 1, 2014; or
+
+&emsp;&emsp;"(B) the date of the cessation of the performance of the duties of the Director of the National Reconnaissance Office by the individual performing such duties on October 1, 2014; and
+
+&emsp;"(2) in the case of section 412—
+
+&emsp;&emsp;"(A) the date of the first nomination by the President of an individual to serve as the Inspector General of the National Reconnaissance Office that occurs on or after October 1, 2014; or
+
+&emsp;&emsp;"(B) the date of the cessation of the performance of the duties of the Inspector General of the National Reconnaissance Office by the individual performing such duties on October 1, 2014.
+
+"(b)
+
+Exception for Initial Nominations.—Notwithstanding paragraph (1)(A) or (2)(A) of subsection (a), an individual serving as the Director of the National Reconnaissance Office or the Inspector General of the National Reconnaissance Office on the date that the President first nominates an individual for such position on or after October 1, 2014, may continue to perform in that position after such date of nomination and until the individual appointed to the position, by and with the advice and consent of the Senate, assumes the duties of the position.
+
+"(c)
+
+Incumbent Inspector General.—The individual serving as Inspector General of the National Reconnaissance Office on the date of the enactment of this Act \[July 7, 2014\] shall be eligible to be appointed by the President to a new term of service under section 403 of title 5, United States Code, by and with the advice and consent of the Senate."
 
 #### Initial Appointments
 
@@ -109,4 +137,6 @@ In general.—The President may designate the Director of the National Reconnais
 "(2)
 
 Effective date.—Paragraph (1) shall take effect on the date of the enactment of this Act \[July 7, 2014\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

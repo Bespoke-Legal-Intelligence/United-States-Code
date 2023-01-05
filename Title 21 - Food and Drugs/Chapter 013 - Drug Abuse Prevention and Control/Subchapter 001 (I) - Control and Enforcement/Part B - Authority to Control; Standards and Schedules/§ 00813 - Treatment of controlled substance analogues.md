@@ -6,7 +6,7 @@ A controlled substance analogue shall, to the extent intended for human consumpt
 
 #### (b) Determination
 
-In determining whether a controlled substance analogue was intended for human consumption under subsection (a), the following factors may be considered, along with any other relevant factors:
+In determining whether a controlled substance analogue was intended for human consumptionunder subsection (a), the following factors may be considered, along with any other relevant factors:
 
 &emsp;(1) The marketing, advertising, and labeling of the substance.
 

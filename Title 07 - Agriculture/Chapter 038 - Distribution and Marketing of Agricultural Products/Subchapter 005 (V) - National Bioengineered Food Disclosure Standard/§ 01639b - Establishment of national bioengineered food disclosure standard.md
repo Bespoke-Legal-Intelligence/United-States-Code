@@ -98,7 +98,7 @@ In promulgating regulations under this section, the Secretary shall ensure thatâ
 
 #### (e) State food labeling standards
 
-Notwithstanding section 1639i of this title, no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce any requirement relating to the labeling or disclosure of whether a food is bioengineered or was developed or produced usingbioengineering for a food that is the subject of the national bioengineered food disclosure standard under this section that is not identical to the mandatory disclosure requirement under that standard.
+Notwithstanding section 1639i of this title, no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce any requirement relating to the labeling or disclosure of whether a food is bioengineered or was developed or produced using bioengineering for a food that is the subject of the national bioengineered food disclosure standard under this section that is not identical to the mandatory disclosure requirement under that standard.
 
 #### (f) Consistency with certain laws
 
@@ -126,7 +126,7 @@ The Secretary shall consider establishing consistency betweenâ€”
 
 #### (B) Notice and hearing
 
-&emsp;&emsp;A person subject to an examination, audit, or similar activity under subparagraph (A) shall be provided notice and opportunity for a hearing on the results of any examination, audit, or similar activity.
+&emsp;&emsp;A person subject to an examination, audit, or similar activity under subparagraph (A)shall be provided notice and opportunity for a hearing on the results of any examination, audit, or similar activity.
 
 #### (C) Audit results
 

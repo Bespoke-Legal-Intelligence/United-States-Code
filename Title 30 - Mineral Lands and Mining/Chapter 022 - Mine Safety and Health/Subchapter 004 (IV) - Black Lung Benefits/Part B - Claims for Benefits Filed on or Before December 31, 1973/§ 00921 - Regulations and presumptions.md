@@ -32,7 +32,7 @@ Nothing in subsection (c) shall be deemed to affect the applicability of subsect
 
 #### References in Text
 
-The effective date of the Black Lung Benefits Amendments of 1981, referred to in subsecs. (a) and (c)(2), (5), is Jan. 1, 1982, except as otherwise provided. See section 206(a) of Pub. L. 97–119, set out as an Effective Date of 1981 Amendment note under section 901 of this title.
+The effective date of the Black Lung Benefits Amendments of 1981, referred to in subsecs. (a) and (c)(2), (5),is Jan. 1, 1982, except as otherwise provided. See section 206(a) of Pub. L. 97–119, set out as an Effective Date of 1981 Amendment note under section 901 of this title.
 
 #### Amendments
 
@@ -130,7 +130,7 @@ Continuation of Administrative Proceedings.—
 
 &emsp;&emsp;"(A) Any proceeding described in this paragraph shall continue as if this Act had not been enacted, and shall include all rights to hearing, administrative review, and judicial review available under part B and the applicable regulations of the Secretary of Health and Human Services.
 
-&emsp;&emsp;"(B) Any decision, order, or other determination issued in any proceeding described in this subsection shall apply to the Secretary of Labor and continue in effect, according to its terms, until it is modified, superseded, terminated, or otherwise deprived of legal effect by the Secretary of Labor, a court of competent jurisdiction, or operation of law.
+&emsp;&emsp;"(B) Any decision, order, or other determination issued in any proceeding described in this subsection shall apply to the Secretary of Labor and continue in effect, according to its terms, until it ismodified, superseded, terminated, or otherwise deprived of legal effect by the Secretary of Labor, a court of competent jurisdiction, or operation of law.
 
 &emsp;&emsp;"(C) Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this Act had not been enacted.
 

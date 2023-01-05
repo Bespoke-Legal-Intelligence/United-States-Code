@@ -28,7 +28,7 @@ The attendance of witnesses and the production of documents provided for in this
 
 #### (d) Fees and expenses
 
-Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the United States. Any court having jurisdiction of any proceeding instituted under this section by an regulated entity enterprise-affiliated party <sup>1</sup> may allow to any such party such reasonable expenses and attorneys fees as the court deems just and proper. Such expenses and fees shall be paid by the regulated entity or from its assets.
+Witnesses subpoenaed under this section shall be paid the same fees and mileage that are paid witnesses in the district courts of the UnitedStates. Any court having jurisdiction of any proceeding instituted under this section by an regulated entity enterprise-affiliated party <sup>1</sup> may allow to any such party such reasonable expenses and attorneys fees as the court deems just and proper. Such expenses and fees shall be paid by the regulated entity or from its assets.
 
 #### (e) Penalties
 
@@ -62,7 +62,7 @@ Subsec. (a)(4). Pub. L. 110–289, §1158(a)(1)(B), struck out "issued by the Di
 
 Subsec. (b). Pub. L. 110–289, §1158(a)(2), inserted "or in any territory or other place subject to the jurisdiction of the United States" after "State". See Codification note above.
 
-Subsec. (c). Pub. L. 110–289, §1158(a)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Director may requestthe Attorney General of the United States to bring an action in the United States district court for the judicial district in which such proceeding is being conducted, or where the witness resides or conducts business, or the United States District Court for the District of Columbia, for enforcement of any subpoena or subpoena duces tecum issued pursuant to this section or may, under the direction and control of the Attorney General, bring such an action. Such courts shall have jurisdiction and power to order and require compliance therewith." See Codification note above.
+Subsec. (c). Pub. L. 110–289, §1158(a)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Director may request the Attorney General of the United States to bring an action in the United States district court for the judicial district in which such proceeding is being conducted, or where the witness resides or conducts business, or the United States District Court for the District of Columbia, for enforcement of any subpoena or subpoena duces tecum issued pursuant to this section or may, under the direction and control of the Attorney General, bring such an action. Such courts shall have jurisdiction and power to order and require compliance therewith." See Codification note above.
 
 Subsec. (d). Pub. L. 110–289, §1158(a)(4), inserted "enterprise-affiliated party" before "may allow". See Codification note above.
 

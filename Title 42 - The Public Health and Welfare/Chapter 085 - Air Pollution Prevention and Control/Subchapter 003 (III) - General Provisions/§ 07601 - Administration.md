@@ -2,7 +2,7 @@
 
 #### (a) Regulations; delegation of powers and duties; regional officers and employees
 
-(1) The Administrator is authorized to prescribe such regulations as are necessary to carry out his functions under this chapter. The Administrator may delegate to any officer or employee of the Environmental Protection Agencysuch of his powers and duties under this chapter, except the making of regulations subject to section 7607(d) of this title, as he may deem necessary or expedient.
+(1) The Administrator is authorized to prescribe such regulations as are necessary to carry out his functions under this chapter. The Administrator may delegate to any officer or employee of the Environmental Protection Agency such of his powers and duties under this chapter, except the making of regulations subject to section 7607(d) of this title, as he may deem necessary or expedient.
 
 (2) Not later than one year after August 7, 1977, the Administrator shall promulgate regulations establishing general applicable procedures and policies for regional officers and employees (including the Regional Administrator) to follow in carrying out a delegation under paragraph (1), if any. Such regulations shall be designed—
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Disadvantaged Business Concerns; Use of Quotas Prohibited
 

@@ -38,7 +38,7 @@ The Secretary of Agriculture (hereinafter referred to as "the Secretary") is aut
 
 &emsp;&emsp;(B) to the extent practicable—
 
-&emsp;&emsp;&emsp;(i) harmonize with the natural environment of the National Forest System land on which the activity or facility is located; and
+&emsp;&emsp;&emsp;(i) harmonize with the natural environment of the National Forest System landon which the activity or facility is located; and
 
 &emsp;&emsp;&emsp;(ii) be located within the developed portions of the ski area;
 
@@ -138,7 +138,7 @@ Pub. L. 99–522, §1, Oct. 22, 1986, 100 Stat. 3000, provided that: "This Act \
 
 #### Effect
 
-Pub. L. 112–46, §4, Nov. 7, 2011, 125 Stat. 540, provided that: "Nothing in the amendments made by this Act \[amending this section\] establishes a legal preference for the holder of a ski area permit to provide activities and associated facilities authorized by section 3(c) of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b(c)) (as amended by section 3)."
+Pub. L. 112–46, §4, Nov. 7, 2011, 125 Stat. 540, provided that: "Nothing in the amendments made by this Act\[amending this section\] establishes a legal preference for the holder of a ski area permit to provide activities and associated facilities authorized by section 3(c) of the National Forest Ski Area Permit Act of 1986 (16 U.S.C. 497b(c)) (as amended by section 3)."
 
 #### Purposes
 

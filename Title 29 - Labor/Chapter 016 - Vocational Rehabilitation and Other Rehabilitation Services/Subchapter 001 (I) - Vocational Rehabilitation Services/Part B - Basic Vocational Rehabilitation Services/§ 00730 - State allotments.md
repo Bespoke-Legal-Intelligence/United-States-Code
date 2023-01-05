@@ -14,7 +14,7 @@
 
 (B) For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under section 720(b)(1) of this title for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A) <sup>2</sup> of this title for the fiscal year ending September 30, 1978, in an amount equal to the sum of—
 
-&emsp;(i) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and the square of its allotment percentage bears to the sum of the corresponding products for all the States; and
+&emsp;(i) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and the square of its allotment percentage bears to the sumof the corresponding products for all the States; and
 
 &emsp;(ii) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and its allotment percentage bears to the sum of the corresponding products for all the States.
 
@@ -22,7 +22,7 @@
 
 #### (b) Unused funds; redistribution; increase in amount
 
-(1) Not later than 45 days prior to the end of the fiscal year, the Commissioner shall determine, after reasonable opportunity for the submission to the Commissioner of comments bythe State agency administering or supervising the program established under this subchapter, that any payment of an allotment to a State under section 731(a) of this title for any fiscal year will not be utilized by such State in carrying out the purposes of this subchapter.
+(1) Not later than 45 days prior to the end of the fiscal year, the Commissioner shall determine, after reasonable opportunity for the submission to the Commissioner of comments by the State agency administering or supervising the program established under this subchapter, that any payment of an allotment to a State under section 731(a) of this title for any fiscal year will not be utilized by such State in carrying out the purposes of this subchapter.
 
 (2) As soon as practicable but not later than the end of the fiscal year, the Commissioner shall make such amount available for carrying out the purposes of this subchapter to one or more other States to the extent the Commissioner determines such other State will be able to use such additional amount during that fiscal year or the subsequent fiscal year for carrying out such purposes. The Commissioner shall make such amount available only if such other State will be able to make sufficient payments from non-Federal sources to pay for the non-Federal share of the cost of vocational rehabilitation services under the State plan for the fiscal year for which the amount was appropriated.
 

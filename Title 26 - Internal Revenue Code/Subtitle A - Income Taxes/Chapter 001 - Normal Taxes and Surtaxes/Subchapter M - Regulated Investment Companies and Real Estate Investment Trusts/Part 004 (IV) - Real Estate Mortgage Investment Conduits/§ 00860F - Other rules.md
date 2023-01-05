@@ -78,7 +78,7 @@
 
 #### (B) Adjusted bases of interests
 
-&emsp;&emsp;The adjusted bases of the regular and residual interests received in a transfer described in subparagraph (A) shall be equal to the aggregate adjusted bases of the property transferred in such transfer. Such amount shall be allocated among such interests in proportion to their respective fair market values.
+&emsp;&emsp;The adjusted bases of the regular and residual interests received in a transfer described in subparagraph (A) shall be equal to the aggregate adjusted bases of the property transferred in such transfer. Such amountshall be allocated among such interests in proportion to their respective fair market values.
 
 #### (C) Treatment of nonrecognized gain
 
@@ -122,7 +122,7 @@ For purposes of section 1091—
 
 #### (e) Treatment under subtitle F
 
-For purposes of subtitle F, a REMIC shall be treated as a partnership (and holders of residualinterests in such REMIC shall be treated as partners). Any return required by reason of the preceding sentence shall include the amount of the daily accruals determined under section 860E(c). Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection.
+For purposes of subtitle F, a REMIC shall be treated as a partnership (and holders of residual interests in such REMIC shall be treated as partners). Any return required by reason of the preceding sentence shall include the amount of the daily accruals determined under section 860E(c). Such return shall be filed by the REMIC. The determination of who may sign such return shall be made without regard to the first sentence of this subsection.
 
 (Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2313; amended Pub. L. 100–647, title I, §1006(t)(3), (4), (14), (18)(A), (22)(B)–(E), Nov. 10, 1988, 102 Stat. 3419, 3420, 3423, 3426; Pub. L. 104–188, title I, §1704(t)(74), Aug. 20, 1996, 110 Stat. 1891.)
 
@@ -156,5 +156,5 @@ Subsec. (e). Pub. L. 100–647, §1006(t)(18)(A), inserted at end "Such return s
 
 Pub. L. 100–647, title I, §1006(t)(18)(B), Nov. 10, 1988, 102 Stat. 3426, provided that: "Unless the REMIC otherwise elects, the amendment made by subparagraph (A) \[amending this section\] shall not apply to any REMIC where the start-up day (as defined in section 860G(a)(9) of the 1986 Code as in effect on the day before the date of the enactment of this Act \[Nov. 10, 1988\]) is before the date of the enactment of this Act."
 
-Amendment by section 1006(t)(3), (4), (14), (22)(B)–(E) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1006(t)(3), (4), (14), (22)(B)–(E) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax ReformAct of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

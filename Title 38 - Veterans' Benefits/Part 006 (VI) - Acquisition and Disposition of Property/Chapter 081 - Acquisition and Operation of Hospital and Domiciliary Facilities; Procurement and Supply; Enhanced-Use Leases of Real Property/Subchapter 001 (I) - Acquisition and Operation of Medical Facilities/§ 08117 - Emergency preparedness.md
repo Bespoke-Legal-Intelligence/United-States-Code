@@ -102,7 +102,7 @@ Subsec. (a)(2)(C), (D). Pub. L. 109–417, §306(a)(1)(B), added subpars. (C) an
 
 Subsec. (c). Pub. L. 109–417, §306(a)(2), substituted "a public health emergency. The Secretary shall, through existing medical procurement contracts, and on a reimbursable basis, make available as necessary, medical supplies, equipment, and pharmaceuticals in response to a public health emergency in support of the Secretary of Health and Human Services." for "a chemical or biological attack or other terrorist attack."
 
-Subsec. (d). Pub. L. 109–417, §306(a)(3), struck out "develop and" before "implement curricula", substituted "public health emergencies" for "biological, chemical,or radiological attacks", and inserted "consistent with section 319F(a) of the Public Health Service Act" before period at end.
+Subsec. (d). Pub. L. 109–417, §306(a)(3), struck out "develop and" before "implement curricula", substituted "public health emergencies" for "biological, chemical, or radiological attacks", and inserted "consistent with section 319F(a) of the Public Health Service Act" before period at end.
 
 Subsec. (e)(1). Pub. L. 109–417, §306(a)(4)(A), substituted "2812" for "2811(b)".
 
@@ -120,7 +120,7 @@ Subsec. (g). Pub. L. 109–417, §306(b), added subsec. (g).
 
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto, to the Secretary of Health and Human Services, see title III of Pub. L. 109–295, set out in part as a note under section 300hh–11 of Title 42, The Public Health and Welfare, and section 301(b) of Pub. L. 109–417, set out as a note under section 300hh–11 of Title 42.
 
-For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment ofrelated references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Enhancement of Emergency Preparedness of Department of Veterans Affairs
 

@@ -1,6 +1,6 @@
 ### §1719. Repair or replacement of certain prosthetic and other appliances
 
-The Secretary may repair or replace any artificial limb, truss, brace, hearing aid, spectacles, or similar appliance (not including dental appliances) reasonably necessary to a veteran and belonging to such veteran which was damaged or destroyed by a fall or other accident caused by a service-connected disability for which such veteran is in receipt of, or but for the receipt of retirement pay would be entitled to, disability compensation.
+The Secretary may repair or replace any artificial limb, truss, brace, hearing aid, spectacles,or similar appliance (not including dental appliances) reasonably necessary to a veteran and belonging to such veteran which was damaged or destroyed by a fall or other accident caused by a service-connected disability for which such veteran is in receipt of, or but for the receipt of retirement pay would be entitled to, disability compensation.
 
 (Added Pub. L. 87–850, §1(a), Oct. 23, 1962, 76 Stat. 1126, §619; amended Pub. L. 94–581, title II, §210(a)(6), Oct. 21, 1976, 90 Stat. 2862; renumbered §1719 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 

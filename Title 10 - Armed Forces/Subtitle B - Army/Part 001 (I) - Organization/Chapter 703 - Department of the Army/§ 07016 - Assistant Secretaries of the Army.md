@@ -16,7 +16,7 @@
 
 (5)(A) One of the Assistant Secretaries shall be the Assistant Secretary of the Army for Acquisition, Logistics, and Technology. The principal duty of the Assistant Secretary shall be the overall supervision of acquisition, technology, and logistics matters of the Department of the Army.
 
-(B) The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Army on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas ofacquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1731 of this title. In the event of a vacancy in the position of Assistant Secretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
+(B) The Assistant Secretary shall have a Principal Military Deputy, who shall be an officer of the Army on active duty. The Principal Military Deputy shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy shall be designated as a critical acquisition position under section 1731 of this title. In the event of a vacancy in the position of Assistant Secretary of the Army for Acquisition, Logistics, and Technology, the Principal Military Deputy may serve as Acting Assistant Secretary for a period of not more than one year.
 
 (6)(A) One of the Assistant Secretaries shall be the Assistant Secretary for Energy, Installations, and Environment.
 

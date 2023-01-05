@@ -26,7 +26,7 @@
 
 #### (b) Borrowing from Federal Financing Bank
 
-The Corporation is authorized to issue and sell the Corporation's obligations, on behalf of the Deposit Insurance Fund, to the Federal Financing Bank established by the Federal Financing Bank Act of 1973 \[12 U.S.C. 2281 et seq.\]. The Federal Financing Bank is authorized to purchase and sell the Corporation's obligations on terms and conditions determined by the Federal Financing Bank. Any such borrowings shall be obligations subject to the obligation limitation of section 1825(c) of this title. This subsection does not affect the eligibility of any other entity to borrow from the Federal Financing Bank.
+The Corporation is authorized to issue and sell the Corporation's obligations, on behalf of theDeposit Insurance Fund, to the Federal Financing Bank established by the Federal Financing Bank Act of 1973 \[12 U.S.C. 2281 et seq.\]. The Federal Financing Bank is authorized to purchase and sell the Corporation's obligations on terms and conditions determined by the Federal Financing Bank. Any such borrowings shall be obligations subject to the obligation limitation of section 1825(c) of this title. This subsection does not affect the eligibility of any other entity to borrow from the Federal Financing Bank.
 
 #### (c) Repayment schedules required for any borrowing
 
@@ -42,7 +42,7 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 &emsp;The Secretary of the Treasury and the Corporation shall—
 
-&emsp;&emsp;(A) consult with the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee onBanking, Housing, and Urban Affairs of the Senate on the terms of any repayment schedule agreement described in paragraph (1) relating to repayment, including terms relating to any emergency special assessment under section 1817(b)(7) of this title; and
+&emsp;&emsp;(A) consult with the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on the terms of any repayment schedule agreement described in paragraph (1) relating to repayment, including terms relating to any emergency special assessment under section 1817(b)(7) of this title; and
 
 &emsp;&emsp;(B) submit a copy of each repayment schedule agreement entered into under paragraph (1) to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate before the end of the 30-day period beginning on the date any amount is provided by the Secretary of the Treasury to the Corporation under subsection (a).
 
@@ -90,7 +90,7 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 #### (B) Investment only from capital and retained earnings
 
-&emsp;&emsp;Any insured depository institution may purchase obligations or make loans to the Corporation under paragraph (1) only to the extent the purchase money or the money loaned is derived from the member's <sup>3</sup> capital or retained earnings.
+&emsp;&emsp;Any insured depository institution may purchase obligations or make loans to theCorporation under paragraph (1) only to the extent the purchase money or the money loaned is derived from the member's <sup>3</sup> capital or retained earnings.
 
 #### (6) Accounting treatment
 
@@ -122,7 +122,7 @@ The Corporation is authorized to issue and sell the Corporation's obligations, o
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(3)(C), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-The Federal Financing Bank Act of 1973, referred to in subsec. (b), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, as amended, which is classified generally to chapter 24 (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of this title and Tables.
+The Federal Financing Bank Act of 1973, referred to in subsec. (b), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, which is classified generally to chapter 24 (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of this title and Tables.
 
 #### Codification
 
@@ -190,7 +190,7 @@ Subsec. (d). Pub. L. 102–242, §105, added subsec. (d).
 
 <b>1990</b>—Pub. L. 101–508 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted "this subsection" for "this section" wherever appearing, substituted "The Corporation may employ any funds obtained under this section" for "The Corporation may employ such funds", and added subsec. (b).
 
-<b>1989</b>—Pub. L. 101–73 substituted "$5,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury" for "$3,000,000,000 outstanding at any one time", substituted "an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities" for "the current average rate on outstanding marketable and nonmarketable obligations of the United States as of the last day of the month preceding the making of such loan", and inserted at end "The Corporation may employ such funds for purposes of the Bank Insurance Fund or the Savings Association Insurance Fund and the borrowing shall become a liability of each such fund to the extent fundsare employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this section."
+<b>1989</b>—Pub. L. 101–73 substituted "$5,000,000,000 outstanding at any one time, subject to the approval of the Secretary of the Treasury" for "$3,000,000,000 outstanding at any one time", substituted "an amount determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities" for "the current average rate on outstanding marketable and nonmarketable obligations of the United States as of the last day of the month preceding the making of such loan", and inserted at end "The Corporation may employ such funds for purposes of the Bank Insurance Fund or the Savings Association Insurance Fund and the borrowing shall become a liability of each such fund to the extent funds are employed therefor. There are hereby appropriated to the Secretary, for fiscal year 1989 and each fiscal year thereafter, such sums as may be necessary to carry out this section."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

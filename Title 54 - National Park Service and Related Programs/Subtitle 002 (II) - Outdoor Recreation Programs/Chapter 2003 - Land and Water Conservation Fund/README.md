@@ -11,7 +11,7 @@
 | [200307\.](%C2%A7%20200307%20-%20Availability%20of%20Fund%20amounts%20for%20publicity%20purposes.md) | Availability of Fund amounts for publicity purposes. |
 | [200308\.](%C2%A7%20200308%20-%20Contracts%20for%20acquisition%20of%20land%20and%20water.md) | Contracts for acquisition of land and water. |
 | [200309\.](%C2%A7%20200309%20-%20Contracts%20for%20options%20to%20acquire%20land%20and%20water%20in%20System.md) | Contracts for options to acquire land and water in System. |
-| [200310\.](%C2%A7%20200310%20-%20Transfers%20to%20and%20from%20Fund.md) | Transfers to and from Fund.<br> |
+| [200310\.](%C2%A7%20200310%20-%20Transfers%20to%20and%20from%20Fund.md) | Transfers to and from Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

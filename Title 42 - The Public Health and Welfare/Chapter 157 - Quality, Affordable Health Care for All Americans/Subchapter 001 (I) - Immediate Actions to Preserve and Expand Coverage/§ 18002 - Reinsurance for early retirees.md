@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) is—
 
-&emsp;&emsp;&emsp;&emsp;(I) maintained by one or more current or former employers (including without limitation any State or local government or political subdivision thereof or any agency or instrumentality of any of the foregoing), employee organization, a voluntary employees' beneficiary association, or a committee or board of individuals appointed to administer such plan; or
+&emsp;&emsp;&emsp;&emsp;(I) maintained by one or more current or former employers (including withoutlimitation any State or local government or political subdivision thereof or any agency or instrumentality of any of the foregoing), employee organization, a voluntary employees' beneficiary association, or a committee or board of individuals appointed to administer such plan; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a multiemployer plan (as defined in section 1002(37) of title 29); and
 
@@ -72,7 +72,7 @@
 
 #### (4) Use of payments
 
-&emsp;Amounts paid to a participating employment-based plan under this subsection shall beused to lower costs for the plan. Such payments may be used to reduce premium costs for an entity described in subsection (a)(2)(B)(i) or to reduce premium contributions, co-payments, deductibles, co-insurance, or other out-of-pocket costs for plan participants. Such payments shall not be used as general revenues for an entity described in subsection (a)(2)(B)(i). The Secretary shall develop a mechanism to monitor the appropriate use of such payments by such entities.
+&emsp;Amounts paid to a participating employment-based plan under this subsection shall be used to lower costs for the plan. Such payments may be used to reduce premium costs for an entity described in subsection (a)(2)(B)(i) or to reduce premium contributions, co-payments, deductibles, co-insurance, or other out-of-pocket costs for plan participants. Such payments shall not be used as general revenues for an entity described in subsection (a)(2)(B)(i). The Secretary shall develop a mechanism to monitor the appropriate use of such payments by such entities.
 
 #### (5) Payments not treated as income
 

@@ -20,7 +20,7 @@ Point of order.—It shall not be in order in either the House of Representative
 
 (2) If any committee of the House of Representatives or the Senate reports any bill or resolution which provides new entitlement authority which is to become effective during a fiscal year and the amount of new budget authority which will be required for such fiscal year if such bill or resolution is enacted as so reported exceeds the appropriate allocation of new budget authority reported under section 633(a) of this title in connection with the most recently agreed to concurrent resolution on the budget for such fiscal year, such bill or resolution shall then be referred to the Committee on Appropriations of the Senate or may then be referred to the Committee on Appropriations of the House, as the case may be, with instructions to report it, with the committee's recommendations, within 15 calendar days (not counting any day on which that House is not in session) beginning with the day following the day on which it is so referred. If the Committee on Appropriations of either House fails to report a bill or resolution referred to it under this paragraph within such 15-day period, the committee shall automatically be discharged from further consideration of such bill or resolution and such bill or resolution shall be placed on the appropriate calendar.
 
-(3) The Committee on Appropriations of each House shall have jurisdiction to report any billor resolution referred to it under paragraph (2) with an amendment which limits the total amount of new spending authority provided in such bill or resolution.
+(3) The Committee on Appropriations of each House shall have jurisdiction to report any bill or resolution referred to it under paragraph (2) with an amendment which limits the total amount of new spending authority provided in such bill or resolution.
 
 #### (c) Exceptions
 
@@ -38,13 +38,13 @@ Point of order.—It shall not be in order in either the House of Representative
 
 (3) In the House of Representatives, subsections (a) and (b) shall not apply to new authority described in those subsections to the extent that a provision in a bill or joint resolution, or an amendment thereto or a conference report thereon, establishes prospectively for a Federal office or position a specified or minimum level of compensation to be funded by annual discretionary appropriations.
 
-(Pub. L. 93–344, title IV, §401, July 12, 1974, 88 Stat. 317; Pub. L. 99–177, title II, §211, Dec. 12, 1985, 99 Stat. 1056; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–508, title XIII, §13207(a)(1)(F), (G), Nov. 5, 1990, 104 Stat. 1388–617, 1388–618; Pub. L. 105–33, title X, §10116(a)(1)–(5), Aug. 5, 1997, 111 Stat. 690, 691; Pub. L. 113–67, div. A, title I, §122(12), (13), Dec. 26, 2013, 127 Stat. 1176.)
+(Pub. L. 93–344, title IV, §401, July 12, 1974, 88 Stat. 317; Pub. L. 99–177, title II, §211, Dec. 12, 1985, 99 Stat. 1056; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–508, title XIII, §13207(a)(1)(F), (G), Nov. 5, 1990, 104 Stat. 1388–617, 1388–618; Pub. L. 105–33, title X,§10116(a)(1)–(5), Aug. 5, 1997, 111 Stat. 690, 691; Pub. L. 113–67, div. A, title I, §122(12), (13), Dec. 26, 2013, 127 Stat. 1176.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (c)(1)(B), is classified generally to Title 26, Internal Revenue Code.
 
@@ -80,7 +80,7 @@ Subsec. (d)(1). Pub. L. 105–33, §10116(a)(4)(A), which directed substitution 
 
 Subsec. (d)(2), (3). Pub. L. 105–33, §10116(a)(4)(B), (C), redesignated par. (3) as (2), substituted "new authority described in those subsections" for "new spending authority" in introductory provisions, and struck out former par. (2) which read as follows: "Subsections (a) and (b) of this section shall not apply to new spending authority which is an amendment to or extension of chapter 67 of title 31, or a continuation of the program of fiscal assistance to State and local governments provided by that chapter, to the extent so provided in the bill or resolution providing such authority."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(F), substituted "bill, joint resolution, amendment, motion, orconference report" for "bill, resolution, or conference report" and struck out "(or any amendment which provides such new spending authority)" after "subsection (c)(2)(A) or (B) of this section".
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13207(a)(1)(F), substituted "bill, joint resolution, amendment, motion, or conference report" for "bill, resolution, or conference report" and struck out "(or any amendment which provides such new spending authority)" after "subsection (c)(2)(A) or (B) of this section".
 
 Subsec. (b)(1). Pub. L. 101–508, §13207(a)(1)(G), substituted "bill, joint resolution, amendment, motion, or conference report, as reported to its House" for "bill or resolution" and struck out "(or any amendment which provides such new spending authority)" after "subsection (c)(2)(C) of this section".
 

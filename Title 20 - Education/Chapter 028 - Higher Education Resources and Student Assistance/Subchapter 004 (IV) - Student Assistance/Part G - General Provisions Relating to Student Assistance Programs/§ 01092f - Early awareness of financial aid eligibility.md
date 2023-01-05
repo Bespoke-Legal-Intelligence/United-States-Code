@@ -32,11 +32,11 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 &emsp;Not later than two years after August 14, 2008, the Secretary, in coordination with States, institutions of higher education, early intervention and outreach programs under this subchapter, other agencies and organizations involved in college access and student financial aid, secondary schools, organizations that provide services to individuals that are or were homeless, to individuals in foster care, or to other disconnected individuals, local educational agencies, public libraries, community centers, businesses, employers, employment services, workforce investment boards, and movie theaters, shall implement a public awareness campaign in order to increase national awareness regarding the availability of financial aid under this title. The public awareness campaign shall disseminate accurate information regarding the availability of financial aid under this subchapter and shall be implemented, to the extent practicable, using a variety of media, including print, television, radio, and the Internet. The Secretary shall design and implement the public awareness campaign based upon relevant independent research and the information and dissemination strategies found most effective in implementing paragraphs (1) through (3).
 
-(Pub. L. 89–329, title IV, §485E, as added Pub. L. 110–315, title IV, §490, Aug. 14, 2008, 122 Stat. 3305; amended Pub. L. 111–152, title II, §2101(b)(5), Mar. 30, 2010, 124 Stat. 1073; Pub. L. 116–260, div. FF, title VII, §702(o), Dec. 27, 2020, 134 Stat. 3186.)
+(Pub. L. 89–329, title IV, §485E, as added Pub. L. 110–315, title IV, §490, Aug. 14, 2008, 122 Stat. 3305; amended Pub. L. 111–152, title II, §2101(b)(5), Mar. 30, 2010, 124 Stat. 1073; Pub. L. 116–260, div. FF, title VII, §702(o), Dec. 27, 2020, 134 Stat. 3186; Pub. L. 117–103, div. R, §102(b)(5), Mar. 15, 2022, 136 Stat. 819.)
 
 #### Amendment of Section
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(o), Dec. 27, 2020, 134 Stat. 3137, 3186, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(o), Dec. 27, 2020, 134 Stat. 3137, 3186; Pub. L. 117–103, div. R, §102(a), (b)(5), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
 
 #### §1092f. Early awareness and outreach of financial aid eligibility
 
@@ -64,7 +64,7 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 #### <i>(B) Updates</i>
 
-&emsp;&emsp;<i>For award year 2023–2024 and each fourth succeeding award year thereafter, the design of the method of estimating eligibility shall be updated based on additional consumer testing with the populations described in subparagraph (A).</i>
+&emsp;&emsp;<i>For award year 2024–2025 and each fourth succeeding award year thereafter, the design of the method of estimating eligibility shall be updated based on additional consumer testing with the populations described in subparagraph (A).</i>
 
 #### <i>(3) Distribution</i>
 
@@ -84,7 +84,7 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 #### <i>(4) Electronic estimator on FAFSA</i>
 
-&emsp;<i>In accordance with subsection (d)(5) of section 1090 of this title, the Secretary shall maintain an electronic method for applicants to enter income and family size, and level of education sought information to calculate a non-binding estimate (which may include a range, ceiling, or minimum)</i><i>of the applicant's Federal financial aid available under this subchapter and shall place such calculator on a prominent location on the FAFSA website and in a manner that encourages students to fill out the FAFSA.</i>
+&emsp;<i>In accordance with subsection (d)(5) of section 1090 of this title, the Secretary shall maintain an electronic method for applicants to enter income and family size, and level of education sought information to calculate a non-binding estimate (which may include a range, ceiling, or minimum) of the applicant's Federal financial aid available under this subchapter and shall place such calculator on a prominent location on the FAFSA website and in a manner that encourages students to fill out the FAFSA.</i>
 
 #### <i>(c) Early awareness plans</i>
 
@@ -166,7 +166,7 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 #### <i>(C) Plan with Secretary of the Treasury</i>
 
-&emsp;&emsp;<i>The interagency coordination plan under subparagraph (A)(i) between the Secretary and the Secretary of the Treasury shall further include specific methods to increase the application for Federal financial aid under this subchapter from individuals who file Federal tax returns,</i><i>including collaboration with tax preparation entities or other third parties, as appropriate.</i>
+&emsp;&emsp;<i>The interagency coordination plan under subparagraph (A)(i) between the Secretary and the Secretary of the Treasury shall further include specific methods to increase the application for Federal financial aid under this subchapter from individuals who file Federal tax returns, including collaboration with tax preparation entities or other third parties, as appropriate.</i>
 
 #### <i>(D) Reporting and updates</i>
 
@@ -206,7 +206,7 @@ The Secretary shall implement, in cooperation with States, institutions of highe
 
 &emsp;<i>The Secretary shall report on the success of the public awareness campaign described in paragraph (1) annually regarding the extent to which the public and target populations were reached using data commonly used to evaluate advertising and outreach campaigns and data regarding whether the campaign produced any increase in applicants for Federal aid under this subchapter publicly on the Department of Education website.</i>
 
-<i>See 2020 Amendment note below.</i>
+<i>See 2020 and 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -216,6 +216,8 @@ The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(A), is Pub. L.
 
 #### Amendments
 
+<b>2022</b>—Subsec. (b)(2)(B). Pub. L. 117–103 substituted "award year 2024–2025" for "award year 2023–2024".
+
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to early awareness of financial aid eligibility.
 
 <b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–152 substituted "of such students' potential eligibility for the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which the student would be eligible" for "of such students' potential eligibility for a maximum Federal Pell Grant under subpart 1 of part A".
@@ -224,7 +226,7 @@ The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(A), is Pub. L.
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2010 Amendment
 

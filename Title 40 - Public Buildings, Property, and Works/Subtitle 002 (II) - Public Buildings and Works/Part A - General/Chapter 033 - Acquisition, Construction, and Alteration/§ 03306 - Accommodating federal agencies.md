@@ -32,7 +32,7 @@ Unit of general local government.—The term "unit of general local government" 
 
 Duties of Administrator.—To carry out the duties of the Administrator of General Services under sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5) of this title and under any other authority with respect to constructing, operating, maintaining, altering, and otherwise managing or acquiring space necessary to accommodate federal agencies and to accomplish the purposes of sections 581(h), 584(b), 3303(c), and 3307(b)(3) and (5), the Administrator shall—
 
-&emsp;(1) acquire and utilize space in suitable buildings of historical, architectural, or cultural significance, unless use of the spacewould not prove feasible and prudent compared with available alternatives;
+&emsp;(1) acquire and utilize space in suitable buildings of historical, architectural, or cultural significance, unless use of the space would not prove feasible and prudent compared with available alternatives;
 
 &emsp;(2) encourage the location of commercial, cultural, educational, and recreational facilities and activities in public buildings;
 
@@ -102,7 +102,7 @@ In subsection (c)(1), the words "chief executive officers of the States" are sub
 
 #### References in Text
 
-The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–754, Nov. 3, 1966, 80 Stat. 1255, as amended. Title II of the Act is classified generally to subchapter II (§3331 et seq.) of chapter 41 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3331 of Title 42 and Tables.
+The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–754, Nov. 3, 1966, 80 Stat. 1255. Title II of the Act is classified generally to subchapter II (§3331 et seq.) of chapter 41 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3331 of Title 42 and Tables.
 
 #### Amendments
 
@@ -118,7 +118,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Statement of Policy</i>. Through community empowerment initiatives, the Federal Government has undertaken various efforts to revitalize distressed communities. This order reaffirms the commitment set forth in Executive Order No. 12072 \[40 U.S.C. 121 note\], as amended, to strengthen our Nation's distressed communities by encouraging the location of Federal facilities in qualified opportunity zones (as defined in 26 U.S.C. 1400Z–1), other distressed areas, and centralized business districts. This order also reaffirms the commitments set forth in the National Historic Preservation Act to provide leadership in the preservation of historic resources, and in the Public Buildings Cooperative Use Act of 1976 to acquire and utilize space in suitable buildings of historic, architectural, or cultural significance.
 
-To this end, the Federal Government shall utilize and maintain, wherever operationally appropriate and economically prudent, historic properties and districts, especially those located in our central business areas. When implementing these policies, the Federal Government shall institute practices and procedures that are sensible, understandable, and compatible with current authority and that impose the least burden on, and provide the maximum benefit to, society.
+To this end, the Federal Government shall utilize and maintain, wherever operationally appropriate and economically prudent, historic properties and districts, especially those located in our central business areas. When implementing these policies, the Federal Government shall institute practices and procedures that are sensible, understandable, and compatible with currentauthority and that impose the least burden on, and provide the maximum benefit to, society.
 
 Sec. 2. <i>Encouraging the Location of Federal Facilities on Historic Properties in Our Central Cities</i>. When operationally appropriate and economically prudent, and subject to the requirements of section 601 of title VI of the Rural Development Act of 1972, as amended (42 U.S.C. 3122) \[now 7 U.S.C. 2204b–1\], and Executive Order No. 12072,, \[sic\] as amended, when locating Federal facilities, Federal agencies shall give consideration to historic properties within historic districts. If no such property is suitable, then such consideration shall include other developed or undeveloped sites within historic districts or historic properties outside of historic districts. Any rehabilitation or construction that is undertaken pursuant to this order must be architecturally compatible with the character of the surrounding historic district or properties.
 

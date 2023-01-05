@@ -26,7 +26,7 @@ Appointment.—The Secretary of Transportation, with the approval of the Secreta
 
 &emsp;(2)
 
-Reimbursement.—The Secretary of Transportation shall be reimbursed for the cost (as determined by the Secretary) of the instruction and allowances received by an individual appointed under this subsection.
+Reimbursement.—The Secretary of Transportation shall be reimbursed for the cost (as determined by the Secretary) of theinstruction and allowances received by an individual appointed under this subsection.
 
 (d)
 

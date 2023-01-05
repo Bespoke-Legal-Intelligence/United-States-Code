@@ -132,7 +132,7 @@ Act Apr. 16, 1936, ch. 229, 49 Stat. 1207, as amended by Pub. L. 97–31, §12(1
 
 "(5) Neither the carrier nor the ship shall in any event be or become liable for any loss or damage to or in connection with the transportation of goods in an amount exceeding $500 per package lawful money of the United States, or in case of goods not shipped in packages, per customary freight unit, or the equivalent of that sum in other currency, unless the nature and value of such goods have been declared by the shipper before shipment and inserted in the bill of lading. This declaration, if embodied in the bill of lading, shall be prima facie evidence, but shall not be conclusive on the carrier.
 
-"By agreement between the carrier, master, or agent of the carrier, and the shipper another maximum amount than that mentioned in this paragraph may befixed: <i>Provided</i>, That such maximum shall not be less than the figure above named. In no event shall the carrier be liable for more than the amount of damage actually sustained.
+"By agreement between the carrier, master, or agent of the carrier, and the shipper another maximum amount than that mentioned in this paragraph may be fixed: <i>Provided</i>, That such maximum shall not be less than the figure above named. In no event shall the carrier be liable for more than the amount of damage actually sustained.
 
 "Neither the carrier nor the ship shall be responsible in any event for loss or damage to or in connection with the transportation of the goods if the nature or value thereof has been knowingly and fraudulently misstated by the shipper in the bill of lading.
 

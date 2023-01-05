@@ -30,7 +30,7 @@ Not later than 6 months after June 22, 2009, the Secretary shall establish a 12-
 
 #### (C) Conflicts of interest
 
-&emsp;&emsp;No members of the committee, other than members appointed pursuant to clauses (iv), (v), and (vi) of subparagraph (A) shall, during the member's tenure on the committee or for the 18-month period prior to becomingsuch a member, receive any salary, grants, or other payments or support from any business that manufactures, distributes, markets, or sells cigarettes or other tobacco products.
+&emsp;&emsp;No members of the committee, other than members appointed pursuant to clauses (iv), (v), and (vi) of subparagraph (A) shall, during the member's tenure on the committee or for the 18-month period prior to becoming such a member, receive any salary, grants, or other payments or support from any business that manufactures, distributes, markets, or sells cigarettes or other tobacco products.
 
 #### (2) Limitation
 
@@ -52,7 +52,7 @@ The Tobacco Products Scientific Advisory Committee shall provide advice, informa
 
 &emsp;(4) on its review of other safety, dependence, or health issues relating to tobacco products as requested by the Secretary.
 
-#### (d) Compensation; support; FACA
+#### (d) Compensation; support; chapter 10 of title 5
 
 #### (1) Compensation and travel
 
@@ -62,21 +62,23 @@ The Tobacco Products Scientific Advisory Committee shall provide advice, informa
 
 &emsp;The Secretary shall furnish the Advisory Committee clerical and other assistance.
 
-#### (3) Nonapplication of FACA
+#### (3) Nonapplication of chapter 10 of title 5
 
-&emsp;Section 14 of the Federal Advisory Committee Act does not apply to the Advisory Committee.
+&emsp;Section 1013 of title 5 does not apply to the Advisory Committee.
 
 #### (e) Proceedings of advisory panels and committees
 
 The Advisory Committee shall make and maintain a transcript of any proceeding of the panel or committee. Each such panel and committee shall delete from any transcript made under this subsection information which is exempt from disclosure under section 552(b) of title 5.
 
-(June 25, 1938, ch. 675, §917, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1824.)
+(June 25, 1938, ch. 675, §917, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1824; amended Pub. L. 117–286, §4(a)(160), Dec. 27, 2022, 136 Stat. 4323.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (d). Pub. L. 117–286, §4(a)(160)(A), substituted "chapter 10 of title 5" for "FACA" in heading.
+
+Subsec. (d)(3). Pub. L. 117–286, §4(a)(160)(B), substituted "chapter 10 of title 5" for "FACA" in heading and "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act" in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -2,7 +2,7 @@
 
 #### (a) Advisory Committee on Adoption and Foster Care Information
 
-(1) Not later than 90 days after October 21, 1986, the Secretary shall establish an AdvisoryCommittee on Adoption and Foster Care Information (in this section referred to as the "Advisory Committee") to study the various methods of establishing, administering, and financing a system for the collection of data with respect to adoption and foster care in the United States.
+(1) Not later than 90 days after October 21, 1986, the Secretary shall establish an Advisory Committee on Adoption and Foster Care Information (in this section referred to as the "Advisory Committee") to study the various methods of establishing, administering, and financing a system for the collection of data with respect to adoption and foster care in the United States.
 
 (2) The study required by paragraph (1) shall—
 
@@ -18,7 +18,7 @@
 
 &emsp;(D) evaluate the financial and administrative impact of implementing each such method.
 
-(3) Not later than October 1, 1987, the Advisory Committee shall submit to the Secretary and the Congress a report setting forth the results of the study required by paragraph (1) and evaluating and making recommendations with respect to the various methods of establishing, administering, and financing a system for the collection of data with respect to adoption and foster care in the United States.
+(3) Not later than October 1, 1987, the Advisory Committee shall submit to the Secretary and the Congress a report setting forth the results ofthe study required by paragraph (1) and evaluating and making recommendations with respect to the various methods of establishing, administering, and financing a system for the collection of data with respect to adoption and foster care in the United States.
 
 (4)(A) Subject to subparagraph (B), the membership and organization of the Advisory Committee shall be determined by the Secretary.
 
@@ -96,7 +96,7 @@ Any data collection system developed and implemented under this section shall—
 
 #### (d) Data collection on adoption and legal guardianship disruption and dissolution
 
-To promote improved knowledge on how best to ensure strong, permanent families for children, the Secretary shall promulgate regulations providing for the collection and analysis of information regarding children who enter into foster care under the supervision of a State after prior finalization of an adoption or legal guardianship. The regulations shall require each State with a State plan approved under this part to collect and report as part of such data collection system the number of children who enter foster care under supervision of the State after finalization of an adoption or legal guardianship and may include information concerning the length of the prior adoption or guardianship, the age of the child at the time of the prior adoption or guardianship, the age at which the child subsequently entered foster care under supervision of the State, the type of agency involved in making the prior adoptive or guardianship placement, and any other factors determined necessary to better understand factors associated with the child's post-adoption or post-guardianship entry to foster care.
+To promote improved knowledge on how best to ensure strong, permanent families for children, the Secretary shall promulgate regulations providing for the collection and analysis of information regarding children who enter into foster care under the supervision of a State after prior finalization of an adoption or legal guardianship. The regulations shall require each State with a State plan approved under this part to collect and report as part of such data collection system the number of children who enter foster care under supervision of the State after finalization of an adoption or legal guardianship and may include information concerning the length of the prior adoption or guardianship, the age of the child at the time of the prior adoption or guardianship, the age at which the child subsequently entered foster care under supervision of the State, the type of agency involved in making the prior adoptive or guardianship placement, and any other factors determinednecessary to better understand factors associated with the child's post-adoption or post-guardianship entry to foster care.
 
 (Aug. 14, 1935, ch. 531, title IV, §479, as added Pub. L. 99–509, title IX, §9443, Oct. 21, 1986, 100 Stat. 2073; amended Pub. L. 103–432, title II, §209(c), Oct. 31, 1994, 108 Stat. 4459; Pub. L. 113–183, title I, §103, title II, §208, Sept. 29, 2014, 128 Stat. 1922, 1940.)
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 103–432 effective with respect to fiscal years beginning 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

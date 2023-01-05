@@ -84,7 +84,7 @@ Removal to federal court.—
 
 &emsp;&emsp;(A)
 
-In general.—Any civil action brought in a State court against the Center relating to the responsibilities of the Center under this section, section 220542, or section 220543, shall be removed, on request by the Center, to the district court of the United States in the district in which the action was brought, and such district court shall have original jurisdiction over the action without regard to the amount in controversy or the citizenship of the parties involved.
+In general.—Any civil action brought in a State court against the Center relating to the responsibilities of the Center under this section, section 220542, or section 220543, shall be removed, on request by the Center, to the district court of the United States in the district in which the action was brought, and such district court shall have originaljurisdiction over the action without regard to the amount in controversy or the citizenship of the parties involved.
 
 &emsp;&emsp;(B)
 
@@ -198,7 +198,7 @@ In general.—The Center may file a lawsuit to compel payment under paragraph (1
 
 &emsp;&emsp;(B)
 
-Penalty.—For each day of late or incomplete payment of a mandatory paymentunder paragraph (1) after January 1 of the applicable year, the Center shall be allowed to recover from the corporation an additional $20,000.
+Penalty.—For each day of late or incomplete payment of a mandatory payment under paragraph (1) after January 1 of the applicable year, the Center shall be allowed to recover from the corporation an additional $20,000.
 
 &emsp;(4)
 
@@ -216,7 +216,7 @@ Use of funds.—
 
 In general.—Of the amounts made available to the Center by the corporation or a national governing body in a fiscal year for the purpose described in section 220503(15)—
 
-&emsp;&emsp;&emsp;&emsp;(I) not less than 50 percent shall be used for processing the investigation and resolution of allegations described in subparagraph (A); and
+&emsp;&emsp;&emsp;&emsp;(I) not less than 50 percent shall be used for processing the investigation andresolution of allegations described in subparagraph (A); and
 
 &emsp;&emsp;&emsp;&emsp;(II) not more than 10 percent may be used for executive compensation of officers and directors of the Center.
 

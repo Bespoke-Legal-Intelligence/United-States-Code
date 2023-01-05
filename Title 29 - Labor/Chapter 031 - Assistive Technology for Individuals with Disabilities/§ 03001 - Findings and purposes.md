@@ -22,7 +22,7 @@ Congress finds the following:
 
 &emsp;(4) As technology has come to play an increasingly important role in the lives of all persons in the United States, in the conduct of business, in the functioning of government, in the fostering of communication, in the conduct of commerce, and in the provision of education, its impact upon the lives of individuals with disabilities in the United States has been comparable to its impact upon the remainder of the citizens of the United States. Any development in mainstream technology will have profound implications for individuals with disabilities in the United States.
 
-&emsp;(5) Substantial progress has been made in the development of assistive technology devices, including adaptations to existing devices that facilitate activities of daily living that significantly benefit individuals with disabilities of all ages. These devices, including adaptations, increase involvement in, and reduce expenditures associated with, programs and activities that facilitate communication, ensure independent functioning, enable early childhood development, support educational achievement, provide and enhance employment options, and enable full participation in community living for individuals with disabilities. Access to such devices can also reduce expenditures associated with early childhoodintervention, education, rehabilitation and training, health care, employment, residential living, independent living, recreation opportunities, and other aspects of daily living.
+&emsp;(5) Substantial progress has been made in the development of assistive technology devices, including adaptations to existing devices that facilitate activities of daily living that significantly benefit individuals with disabilities of all ages. These devices, including adaptations, increase involvement in, and reduce expenditures associated with, programs and activities that facilitate communication, ensure independent functioning, enable early childhood development, support educational achievement, provide and enhance employment options, and enable full participation in community living for individuals with disabilities. Access to such devices can also reduce expenditures associated with early childhood intervention, education, rehabilitation and training, health care, employment, residential living, independent living, recreation opportunities, and other aspects of daily living.
 
 &emsp;(6) Over the last 15 years, the Federal Government has invested in the development of comprehensive statewide programs of technology-related assistance, which have proven effective in assisting individuals with disabilities in accessing assistive technology devices and assistive technology services. This partnership between the Federal Government and the States provided an important service to individuals with disabilities by strengthening the capacity of each State to assist individuals with disabilities of all ages meet their assistive technology needs.
 
@@ -42,7 +42,7 @@ The purposes of this chapter are—
 
 &emsp;&emsp;(C) increase the capacity of public agencies and private entities to provide and pay for assistive technology devices and assistive technology services on a statewide basis for individuals with disabilities of all ages;
 
-&emsp;&emsp;(D) increase the involvement of individuals with disabilities and, if appropriate, their family members, guardians, advocates, and authorized representatives, in decisions related to the provision of assistive technology devices and assistive technology services;
+&emsp;&emsp;(D) increase the involvement of individuals with disabilities and, if appropriate, theirfamily members, guardians, advocates, and authorized representatives, in decisions related to the provision of assistive technology devices and assistive technology services;
 
 &emsp;&emsp;(E) increase and promote coordination among State agencies, between State and local agencies, among local agencies, and between State and local agencies and private entities (such as managed care providers), that are involved or are eligible to be involved in carrying out activities under this chapter;
 
@@ -52,7 +52,35 @@ The purposes of this chapter are—
 
 &emsp;(2) to provide States with financial assistance that supports programs designed to maximize the ability of individuals with disabilities and their family members, guardians, advocates, and authorized representatives to obtain assistive technology devices and assistive technology services.
 
-(Pub. L. 105–394, §2, Nov. 13, 1998, 112 Stat. 3628; Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707.)
+(Pub. L. 105–394, §2, Nov. 13, 1998, 112 Stat. 3628; Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707; Pub. L. 117–263, div. E, title LIV, §5402, Dec. 23, 2022, 136 Stat. 3260.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–263, div. E, title LIV, §§5402, 5403, Dec. 23, 2022, 136 Stat. 3260, 3289, provided that, effective on the day that is 6 months after Dec. 23, 2022, this section is amended to read as follows:</i>
+
+#### §3001. Purposes
+
+<i>The purposes of this chapter are to—</i>
+
+&emsp;<i>(1) to support State efforts to improve the provision of assistive technology to individuals with disabilities of all ages, including underrepresented populations, through comprehensive statewide programs of technology-related assistance that are designed to—</i>
+
+&emsp;&emsp;<i>(A) increase the availability of, funding for, access to, provision of, and education about assistive technology devices and assistive technology services;</i>
+
+&emsp;&emsp;<i>(B) increase the ability of individuals with disabilities to secure and maintain possession of assistive technology devices as such individuals make the transition between services offered by educational or human service agencies or between settings of daily living (for example, between home and work);</i>
+
+&emsp;&emsp;<i>(C) increase the capacity of public agencies and private entities to provide and pay for assistive technology devices and assistive technology services on a statewide basis for individuals with disabilities;</i>
+
+&emsp;&emsp;<i>(D) increase the involvement of individuals with disabilities and, if appropriate, their family members, guardians, advocates, and authorized representatives, in decisions related to the provision of assistive technology devices and assistive technology services;</i>
+
+&emsp;&emsp;<i>(E) increase and promote coordination among and between State and local agencies and private entities (such as managed care providers), that are involved in carrying out activities under this chapter;</i>
+
+&emsp;&emsp;<i>(F) increase the awareness and facilitate the change of laws, regulations, policies, practices, procedures, and organizational structures that facilitate the availability or provision of assistive technology devices and assistive technology services; and</i>
+
+&emsp;&emsp;<i>(G) increase awareness and knowledge of the benefits of assistive technology devices and assistive technology services among targeted individuals and entities and the general population; and</i>
+
+&emsp;<i>(2) to provide States and protection and advocacy systems with financial assistance that supports programs designed to maximize the ability of individuals with disabilities and their family members, guardians, advocates, and authorized representatives to obtain assistive technology devices and assistive technology services.</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -60,15 +88,25 @@ The purposes of this chapter are—
 
 The Help America Vote Act of 2002, referred to in subsec. (a)(8), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which was formerly classified principally to chapter 146 (§15301 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 209 (§20901 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(8), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(8), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 
-The No Child Left Behind Act of 2001, referred to in subsec. (a)(8), is Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425, as amended. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6301 of Title 20, Education, and Tables.
+The No Child Left Behind Act of 2001, referred to in subsec. (a)(8), is Pub. L. 107–110, Jan. 8, 2002, 115 Stat. 1425. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to findings and purposes.
 
 <b>2004</b>—Pub. L. 108–364 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to findings and purposes.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–263, div. E, title LIV, §5403, Dec. 23, 2022, 136 Stat. 3289, provided that: "This title \[see Short Title of 2022 Amendment note set out below\], and the amendments made by this title, shall take effect on the day that is 6 months after the date of enactment of this Act \[Dec. 23, 2022\]."
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–263, div. E, title LIV, §5401, Dec. 23, 2022, 136 Stat. 3260, provided that: "This title \[enacting section 3008 of this title, amending this section and sections 3002 to 3007 of this title, and enacting and amending provisions set out as notes under this section\] may be cited as the '21st Century Assistive Technology Act'."
 
 #### Short Title of 2004 Amendment
 
@@ -76,5 +114,5 @@ Pub. L. 108–364, §1, Oct. 25, 2004, 118 Stat. 1707, provided that: "This Act 
 
 #### Short Title
 
-Pub. L. 105–394, §1(a), Nov. 13, 1998, 112 Stat. 3627, as amended by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707, provided that: "This Act \[enacting this chapter\] may be cited as the 'Assistive Technology Act of 1998'."
+Pub. L. 105–394, §1(a), Nov. 13, 1998, 112 Stat. 3627, as amended by Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1707; Pub. L. 117–263, div. E, title LIV, §5402, Dec. 23, 2022, 136 Stat. 3260, provided that: "This Act \[enacting this chapter\] may be cited as the 'Assistive Technology Act of 1998'."
 

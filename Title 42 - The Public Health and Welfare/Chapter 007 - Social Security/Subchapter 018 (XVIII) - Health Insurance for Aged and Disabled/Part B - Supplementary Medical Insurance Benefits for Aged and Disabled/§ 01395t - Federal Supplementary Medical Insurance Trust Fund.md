@@ -2,7 +2,7 @@
 
 #### (a) Creation; deposits; fund transfers
 
-There is hereby created on the books of the Treasury of the United States a trust fund to be known as the "Federal Supplementary Medical Insurance Trust Fund" (hereinafter in this section referred to as the "Trust Fund"). The Trust Fund shall consist of such gifts and bequests as may be made as provided in section 401(i)(1) of this title, such amounts as may be deposited in, or appropriated to, such fund as provided in this part or section 9008(c) <sup>1</sup> of the Patient Protection and Affordable Care Act of 2009, and such amounts as may be deposited in, or appropriated to, the Medicare Prescription Drug Account established by section 1395w–116 of this title or the Transitional Assistance Account established by section 1395w–141(k)(1) of this title.
+There is hereby created on the books of the Treasury of the United States a trust fund to be known as the "Federal Supplementary Medical Insurance Trust Fund" (hereinafter in this section referred to as the "Trust Fund"). The Trust Fund shall consist of such gifts and bequests as may be made as provided in section 401(i)(1) of this title, such amounts as may be deposited in, or appropriated to, such fund as provided in thispart or section 9008(c) <sup>1</sup> of the Patient Protection and Affordable Care Act of 2009, and such amounts as may be deposited in, or appropriated to, the Medicare Prescription Drug Account established by section 1395w–116 of this title or the Transitional Assistance Account established by section 1395w–141(k)(1) of this title.
 
 #### (b) Board of Trustees; composition; meetings; duties
 
@@ -28,7 +28,7 @@ Any obligations acquired by the Trust Fund (except public-debt obligations issue
 
 #### (e) Interest on or proceeds from sale or redemption of obligations
 
-The interest on, and the proceeds from the sale or redemption of, any obligations held in the Trust Fund shall be credited to and form a part of the Trust Fund.
+The interest on, and the proceeds from the sale or redemption of, any obligations held inthe Trust Fund shall be credited to and form a part of the Trust Fund.
 
 #### (f) Transfers to other Funds
 

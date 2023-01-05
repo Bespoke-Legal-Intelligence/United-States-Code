@@ -6,7 +6,7 @@ In General.—An inter partes review instituted under this chapter shall be term
 
 (b)
 
-Agreements in Writing.—Any agreement or understanding between the patent owner and a petitioner, including any collateral agreements referred to in such agreement or understanding, made in connection with, or in contemplation of, the termination of an inter partes review under this section shall be in writing and a true copy of such agreement or understanding shall be filed in the Office before the termination of the inter partes review as between the parties. At the request of a party to the proceeding, the agreement or understanding shall be treated as business confidential information, shall be kept separate from the file of the involved patents, and shall be made available only to Federal Government agencies on written request, or to any person on a showing of good cause.
+Agreements in Writing.—Any agreement or understanding between the patent owner and a petitioner, including any collateral agreements referred to in such agreement or understanding, made in connection with, or in contemplation of, the termination of an inter partes review under this section shall be in writing and a true copy of such agreement or understanding shall be filed in the Office before the termination of the inter partes review as between the parties. At the request of a party to the proceeding, the agreement or understandingshall be treated as business confidential information, shall be kept separate from the file of the involved patents, and shall be made available only to Federal Government agencies on written request, or to any person on a showing of good cause.
 
 (Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; amended Pub. L. 107–273, div. C, title III, §13202(a)(5), (c)(1), Nov. 2, 2002, 116 Stat. 1901, 1902; Pub. L. 112–29, §6(a), Sept. 16, 2011, 125 Stat. 303.)
 
@@ -30,5 +30,5 @@ Amendment by Pub. L. 112–29 effective upon the expiration of the 1-year period
 
 #### Effective Date
 
-Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
+Section effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 41 of this title.
 

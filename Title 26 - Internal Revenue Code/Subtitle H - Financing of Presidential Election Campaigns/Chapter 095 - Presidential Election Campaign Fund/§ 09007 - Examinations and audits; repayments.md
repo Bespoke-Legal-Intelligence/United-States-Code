@@ -6,7 +6,7 @@ After each presidential election, the Commission shall conduct a thorough examin
 
 #### (b) Repayments
 
-(1) If the Commission determines that any portion of the payments made to the eligible candidates of a political party under section 9006 was in excess of the aggregate payments to which candidates were entitled under section 9004, it shall so notify such candidates, and suchcandidates shall pay to the Secretary of the Treasury an amount equal to such portion.
+(1) If the Commission determines that any portion of the payments made to the eligible candidates of a political party under section 9006 was in excess of the aggregate payments to which candidates were entitled under section 9004, it shall so notify such candidates, and such candidates shall pay to the Secretary of the Treasury an amount equal to such portion.
 
 (2) If the Commission determines that the eligible candidates of a political party and their authorized committees incurred qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party were entitled under section 9004, it shall notify such candidates of the amount of such excess and such candidates shall pay to the Secretary of the Treasury an amount equal to such amount.
 

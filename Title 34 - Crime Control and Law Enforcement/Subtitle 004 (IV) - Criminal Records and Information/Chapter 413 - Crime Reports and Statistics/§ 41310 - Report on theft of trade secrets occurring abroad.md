@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Foreign instrumentality, etc.
 
-&emsp;The terms "foreign instrumentality", "foreign agent", and "trade secret" have the meanings given those terms in section 1839 of title 18.
+&emsp;The terms "foreign instrumentality", "foreign agent", and "trade secret" have themeanings given those terms in section 1839 of title 18.
 
 #### (3) State
 

@@ -24,7 +24,7 @@ Notwithstanding any other provision of this subtitle, no deduction or credit sha
 
 #### (B) Public utility
 
-&emsp;&emsp;The term "public utility" means a person engaged in the sale of electricity or natural gas to residential, commercial, or industrial customers for use by such customers. For purposes of the preceding sentence, the term "person" includes the Federal Government, a State or local government or any political subdivision thereof, or any instrumentality of any of the foregoing.
+&emsp;&emsp;The term "public utility" means a person engaged in the sale of electricity or naturalgas to residential, commercial, or industrial customers for use by such customers. For purposes of the preceding sentence, the term "person" includes the Federal Government, a State or local government or any political subdivision thereof, or any instrumentality of any of the foregoing.
 
 #### (d) Exception
 

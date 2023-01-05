@@ -6,7 +6,7 @@ In General.—A railroad carrier engaged in interstate or foreign commerce, a co
 
 &emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to railroad safety or security, or gross fraud, waste, or abuse of Federal grants or other public funds intended to be used for railroad safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
 
-&emsp;&emsp;(A) a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452);
+&emsp;&emsp;(A) a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under chapter 4 of title 5; <sup>1</sup>
 
 &emsp;&emsp;(B) any Member of Congress, any committee of Congress, or the Government Accountability Office; or
 
@@ -78,7 +78,7 @@ In general.—Any action under paragraph (1) shall be governed under the rules a
 
 &emsp;&emsp;&emsp;(i)
 
-Burdens of proof.—Any action brought under (d)(1) <sup>1</sup> shall be governed by the legal burdens of proof set forth in section 42121(b).
+Burdens of proof.—Any action brought under (d)(1) <sup>2</sup> shall be governed by the legal burdens of proof set forth in section 42121(b).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -86,7 +86,7 @@ Statute of limitations.—An action under paragraph (1) shall be commenced not l
 
 &emsp;&emsp;&emsp;(iii)
 
-Civil actions to enforce.—If a person fails to comply with an order issued by the Secretary of Labor pursuant to the procedures in section 42121(b), the Secretary of Labor may bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred, as set forth in 42121.<sup>2</sup>
+Civil actions to enforce.—If a person fails to comply with an order issued by the Secretary of Labor pursuant to the procedures in section 42121(b), the Secretary of Labor may bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred, as set forth in 42121.<sup>3</sup>
 
 &emsp;&emsp;(B)
 
@@ -98,7 +98,7 @@ De novo review.—With respect to a complaint under paragraph (1), if the Secret
 
 &emsp;(4)
 
-Appeals.—Any person adversely affected or aggrieved by an order issued pursuant to the procedures in section 42121(b),<sup>3</sup> may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. The review shall conform to chapter 7 of title 5. The commencement of proceedings under this paragraph shall not, unless ordered by the court, operate as a stay of the order.
+Appeals.—Any person adversely affected or aggrieved by an order issued pursuant to the procedures in section 42121(b),<sup>4</sup> may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. The review shall conform to chapter 7 of title 5. The commencement of proceedings under this paragraph shall not, unless ordered by the court, operate as a stay of the order.
 
 (e)
 
@@ -158,7 +158,7 @@ Acknowledgment of receipt.—If a report submitted under paragraph (1) identifie
 
 Steps to address problem.—The Secretary of Homeland Security shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 867; Pub. L. 110–53, title XV, §1521, Aug. 3, 2007, 121 Stat. 444; Pub. L. 110–432, div. A, title IV, §419, Oct. 16, 2008, 122 Stat. 4892.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 867; Pub. L. 110–53, title XV, §1521, Aug. 3, 2007, 121 Stat. 444; Pub. L. 110–432, div. A, title IV, §419, Oct. 16, 2008, 122 Stat. 4892; Pub. L. 117–286, §4(b)(98), Dec. 27, 2022, 136 Stat. 4353.)
 
 Historical and Revision Notes
 
@@ -226,11 +226,9 @@ Subsection (e)(2) is substituted for 45:441(f)(2) to eliminate unnecessary words
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Inspector General Act of 1978, referred to in subsec. (a)(1)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(A). Pub. L. 117–286 substituted "chapter 4 of title 5;" for "the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452);".
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–432, §419(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
@@ -252,7 +250,7 @@ Subsec. (e)(3). Pub. L. 110–432, §419(b)(2)(D), substituted "(d)" for "(c)".
 
 Subsecs. (f) to (j). Pub. L. 110–432, §419(a)(1), redesignated subsecs. (e) to (i) as (f) to (j), respectively.
 
-<b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e)relating to prohibition against discharge or discrimination for filing of complaints or testifying, prohibition against discharge or discrimination for refusal to work because of hazardous conditions, dispute resolution, election of remedies, and nondisclosure of identity of employee who had provided information regarding a violation.
+<b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to prohibition against discharge or discrimination for filing of complaints or testifying, prohibition against discharge or discrimination for refusal to work because of hazardous conditions, dispute resolution, election of remedies, and nondisclosure of identity of employee who had provided information regarding a violation.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -286,9 +284,11 @@ Secretary To Define What Constitutes A Critical Incident.—Within 30 days after
 
 \[For definitions of "railroad carrier" and "Secretary", as used in section 410 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "subsection".</i>
+<i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "subsection".</i>
 
-<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be preceded by "section".</i>
+
+<i><sup>4</sup></i><i> So in original. The comma probably should not appear.</i>
 

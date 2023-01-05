@@ -18,7 +18,7 @@
 
 #### (3) Violation
 
-&emsp;The failure to comply with any requirement of paragraph (2) shall be deemed to be a failure to comply with a consumer product safetystandard under this chapter and subject to all of the penalties and remedies available under this chapter.
+&emsp;The failure to comply with any requirement of paragraph (2) shall be deemed to be a failure to comply with a consumer product safety standard under this chapter and subject to all of the penalties and remedies available under this chapter.
 
 #### (4) Compliant models with additional features
 
@@ -96,7 +96,7 @@ In this section:
 
 #### (2) ATV action plan
 
-&emsp;The term "ATV action plan" means a written plan or letter of undertaking that describes actions the manufacturer or distributor agrees to take to promote ATV safety, including rider training, dissemination of safety information, age recommendations, other policies governing marketing and sale of the ATVs, the monitoring of such sales, and other safety related measures, and that is substantially similar to the plans described underthe heading "The Undertakings of the Companies in the Commission Notice" published in the Federal Register on September 9, 1998 (63 FR 48199–48204).
+&emsp;The term "ATV action plan" means a written plan or letter of undertaking that describes actions the manufacturer or distributor agrees to take to promote ATV safety, including rider training, dissemination of safety information, age recommendations, other policies governing marketing and sale of the ATVs, the monitoring of such sales, and other safety related measures, and that is substantially similar to the plans described under the heading "The Undertakings of the Companies in the Commission Notice" published in the Federal Register on September 9, 1998 (63 FR 48199–48204).
 
 (Pub. L. 92–573, §42, as added Pub. L. 110–314, title II, §232(a), Aug. 14, 2008, 122 Stat. 3071.)
 

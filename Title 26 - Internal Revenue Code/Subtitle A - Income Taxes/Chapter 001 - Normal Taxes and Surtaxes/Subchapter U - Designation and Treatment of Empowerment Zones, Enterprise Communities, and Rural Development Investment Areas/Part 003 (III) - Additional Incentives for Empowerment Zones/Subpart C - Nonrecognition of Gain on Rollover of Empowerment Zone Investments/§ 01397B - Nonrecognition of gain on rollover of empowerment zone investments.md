@@ -88,7 +88,7 @@ Subsec. (b)(5). Pub. L. 115–141, §401(d)(5)(B)(v), substituted "which is sold
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 118(e) ofdiv. EE of Pub. L. 116–260, set out as a note under section 1391 of this title.
+Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 118(e) of div. EE of Pub. L. 116–260, set out as a note under section 1391 of this title.
 
 #### Effective Date of 2014 Amendment
 

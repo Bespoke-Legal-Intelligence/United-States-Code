@@ -10,7 +10,7 @@ As used in this section—
 
 &emsp;&emsp;(B) to dial such numbers.
 
-&emsp;(2) The term "established business relationship", for purposes only of subsection (b)(1)(C)(i), shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003, except that—
+&emsp;(2) The term "established business relationship", for purposes only of subsection\(b)(1)(C)(i), shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003, except that—
 
 &emsp;&emsp;(A) such term shall include a relationship between a person or entity and a business subscriber subject to the same terms applicable under such section to a relationship between a person or entity and a residential subscriber; and
 
@@ -138,7 +138,7 @@ As used in this section—
 
 &emsp;&emsp;(C) both such actions.
 
-> &emsp;If the court finds that the defendant willfully or knowingly violated this subsection or the regulations prescribed under this subsection, the court may, in its discretion, increase theamount of the award to an amount equal to not more than 3 times the amount available under subparagraph (B) of this paragraph.
+> &emsp;If the court finds that the defendant willfully or knowingly violated this subsection or the regulations prescribed under this subsection, the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under subparagraph (B) of this paragraph.
 
 #### (4) Civil forfeiture
 
@@ -244,7 +244,7 @@ As used in this section—
 
 &emsp;&emsp;(C) both such actions.
 
-> &emsp;It shall be an affirmative defense in any action brought under this paragraph that the defendant has established and implemented, with due care, reasonable practices and procedures to effectively prevent telephone solicitations in violation of the regulations prescribed under this subsection. If the court finds that the defendant willfully or knowingly violated the regulations prescribed under this subsection, the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under subparagraph (B) of this paragraph.
+> &emsp;It shall be an affirmative defense in any action brought under this paragraph that the defendant has established and implemented, with due care, reasonable practices and procedures to effectively prevent telephone solicitations inviolation of the regulations prescribed under this subsection. If the court finds that the defendant willfully or knowingly violated the regulations prescribed under this subsection, the court may, in its discretion, increase the amount of the award to an amount equal to not more than 3 times the amount available under subparagraph (B) of this paragraph.
 
 #### (6) Relation to subsection (b)
 
@@ -258,7 +258,7 @@ As used in this section—
 
 &emsp;&emsp;(A) to initiate any communication using a telephone facsimile machine, or to make any telephone call using any automatic telephone dialing system, that does not comply with the technical and procedural standards prescribed under this subsection, or to use any telephone facsimile machine or automatic telephone dialing system in a manner that does not comply with such standards; or
 
-&emsp;&emsp;(B) to use a computer or other electronic device to send any message via a telephone facsimile machine unless such person clearly marks, in a margin at the top or bottom of each transmitted page of the message or onthe first page of the transmission, the date and time it is sent and an identification of the business, other entity, or individual sending the message and the telephone number of the sending machine or of such business, other entity, or individual.
+&emsp;&emsp;(B) to use a computer or other electronic device to send any message via a telephone facsimile machine unless such person clearly marks, in a margin at the top or bottom of each transmitted page of the message or on the first page of the transmission, the date and time it is sent and an identification of the business, other entity, or individual sending the message and the telephone number of the sending machine or of such business, other entity, or individual.
 
 #### (2) Telephone facsimile machines
 
@@ -410,7 +410,7 @@ As used in this section—
 
 #### (9) Limitation
 
-&emsp;Notwithstanding any other provision of this section, subsection (f) shall not apply to thissubsection or to the regulations under this subsection.
+&emsp;Notwithstanding any other provision of this section, subsection (f) shall not apply to this subsection or to the regulations under this subsection.
 
 #### (f) Effect on State law
 
@@ -454,7 +454,7 @@ As used in this section—
 
 #### (6) Effect on State court proceedings
 
-&emsp;Nothing contained in this subsection shall be construed to prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State.
+&emsp;Nothing contained in this subsection shall be construed to prohibit an authorized Stateofficial from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State.
 
 #### (7) Limitation
 
@@ -542,7 +542,7 @@ This chapter, referred to in subsecs. (b)(4)(A), (B) and (e)(5)(A)(i), was in th
 
 #### Constitutionality
 
-For information regarding constitutionality of provisions of subsection (b)(1)(A)(iii) of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of provisions of subsection (b)(1)(A)(iii) of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 
@@ -626,7 +626,7 @@ Effective date.—The requirements of section 227 of the Communications Act of 1
 
 #### Regulations
 
-Pub. L. 116–105, §3(c), Dec. 30, 2019, 133 Stat. 3276, provided that: "The Commission \[Federal Communications Commission\] shall prescribe regulations to implement the amendments made by this section \[amending this section\] not later than 270 days after the date of the enactment of this Act \[Dec. 30, 2019\]."
+Pub. L. 116–105, §3(c), Dec. 30, 2019, 133 Stat. 3276, provided that: "The Commission \[Federal CommunicationsCommission\] shall prescribe regulations to implement the amendments made by this section \[amending this section\] not later than 270 days after the date of the enactment of this Act \[Dec. 30, 2019\]."
 
 Pub. L. 116–105, §8(b), Dec. 30, 2019, 133 Stat. 3283, provided that: "In the case of any exemption issued under subparagraph (B) or (C) of section 227(b)(2) of the Communications Act of 1934 (47 U.S.C. 227(b)(2)) before the date of the enactment of this Act \[Dec. 30, 2019\], the Commission \[Federal Communications Commission\] shall, not later than 1 year after such date of enactment, prescribe such regulations, or amend such existing regulations, as necessary to ensure that such exemption contains each requirement described in subparagraph (I) of such section, as added by subsection (a). To the extent such an exemption contains such a requirement before such date of enactment, nothing in this section \[amending this section\] or the amendments made by this section shall be construed to require the Commission to prescribe or amend regulations relating to such requirement."
 
@@ -634,7 +634,7 @@ Pub. L. 115–141, div. P, title V, §503(a)(4)(B), Mar. 23, 2018, 132 Stat. 109
 
 Pub. L. 114–74, title III, §301(b), Nov. 2, 2015, 129 Stat. 588, provided that: "Not later than 9 months after the date of enactment of this Act \[Nov. 2, 2015\], the Federal Communications Commission, in consultation with the Department of the Treasury, shall prescribe regulations to implement the amendments made by this section \[amending this secton\]."
 
-Pub. L. 109–21, §2(h), July 9, 2005, 119 Stat. 362, provided that: "Except as provided in section 227(b)(2)(G)(ii) of the Communications Act of 1934 \[47U.S.C. 227(b)(2)(G)(ii)\] (as added by subsection (f)), not later than 270 days after the date of enactment of this Act \[July 9, 2005\], the Federal Communications Commission shall issue regulations to implement the amendments made by this section."
+Pub. L. 109–21, §2(h), July 9, 2005, 119 Stat. 362, provided that: "Except as provided in section 227(b)(2)(G)(ii) of the Communications Act of 1934 \[47 U.S.C. 227(b)(2)(G)(ii)\] (as added by subsection (f)), not later than 270 days after the date of enactment of this Act \[July 9, 2005\], the Federal Communications Commission shall issue regulations to implement the amendments made by this section."
 
 #### Separability
 
@@ -730,7 +730,7 @@ In General.—Not later than 1 year after the date of the enactment of this Act 
 
 Contents of Report.—The report required under subsection (a) shall include, at minimum, the following:
 
-&emsp;"(1) A description of private-led efforts to trace back the origin of suspected unlawful robocalls bythe registered consortium and the actions taken by the registered consortium to coordinate with the Commission.
+&emsp;"(1) A description of private-led efforts to trace back the origin of suspected unlawful robocalls by the registered consortium and the actions taken by the registered consortium to coordinate with the Commission.
 
 &emsp;"(2) A list of voice service providers identified by the registered consortium that participated in private-led efforts to trace back the origin of suspected unlawful robocalls through the registered consortium.
 

@@ -8,13 +8,15 @@ In this chapter:
 
 &emsp;&emsp;(B) In the case of members of the reserve components of the Armed Forces, service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12301(h), 12302, 12304, 12304a, or 12304b of title 10 or section 712 <sup>1</sup> of title 14.
 
-&emsp;&emsp;(C) In the case of a member of the Army National Guard of the United States or Air National Guard of the United States, in addition to service described in subparagraph (B), full-time service—
+&emsp;&emsp;(C) In the case of a member of the Army National Guard of the United States or AirNational Guard of the United States, in addition to service described in subparagraph (B), full-time service—
 
 &emsp;&emsp;&emsp;(i) in the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard; or
 
-&emsp;&emsp;&emsp;(ii) in the National Guard under section 502(f) of title 32 when authorized by the President or the Secretary of Defense forthe purpose of responding to a national emergency declared by the President and supported by Federal funds.
+&emsp;&emsp;&emsp;(ii) in the National Guard under section 502(f) of title 32 when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds.
 
-&emsp;(2) The term "entry level and skill training" means the following:
+&emsp;(2) The term "emergency situation" has the meaning given such term in section 3601 of this title.
+
+&emsp;(3) The term "entry level and skill training" means the following:
 
 &emsp;&emsp;(A) In the case of members of the Army, Basic Combat Training and Advanced Individual Training or One Station Unit Training.
 
@@ -26,11 +28,11 @@ In this chapter:
 
 &emsp;&emsp;(E) In the case of members of the Coast Guard, Basic Training and Skill Training (or so-called "A" School).
 
-&emsp;(3) The term "program of education" has the meaning given such term in section 3002, except to the extent otherwise provided in section 3313.
+&emsp;(4) The term "program of education" has the meaning given such term in section 3002, except to the extent otherwise provided in section 3313.
 
-&emsp;(4) The term "Secretary of Defense" means the Secretary of Defense, except that the term means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
+&emsp;(5) The term "Secretary of Defense" means the Secretary of Defense, except that the term means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–377, title I, §101(a), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 112–239, div. A, title VI, §681(c), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 115–48, title I, §101(a), title IV, §401(a), Aug. 16, 2017, 131 Stat. 974, 995; Pub. L. 116–283, div. A, title IX, §926(g), Jan. 1, 2021, 134 Stat. 3831.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–377, title I, §101(a), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 112–239, div. A, title VI, §681(c), Jan. 2, 2013, 126 Stat. 1795; Pub. L. 115–48, title I, §101(a), title IV, §401(a), Aug. 16, 2017, 131 Stat. 974, 995; Pub. L. 116–283, div. A, title IX, §926(g), Jan. 1, 2021, 134 Stat. 3831; Pub. L. 117–333, §3(e)(1), Jan. 5, 2023, 136 Stat. 6127.)
 
 #### <b>Editorial Notes</b>
 
@@ -39,6 +41,8 @@ In this chapter:
 Section 712 of title 14, referred to in par. (1)(B), was redesignated section 3713 of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233, and references to section 712 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
 #### Amendments
+
+<b>2023</b>—Pars. (2) to (5). Pub. L. 117–333 added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
 
 <b>2021</b>—Par. (2)(C). Pub. L. 116–283 inserted "or the Space Force" after "Air Force".
 
@@ -88,11 +92,11 @@ Entry level and skill training for the coast guard.—The amendment made by subs
 
 #### Effective Date
 
-Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008Amendment note under section 16163 of Title 10, Armed Forces.
 
 #### Construction of Active Duty
 
-Pub. L. 115–48, title I, §106(b), Aug. 16, 2017, 131 Stat. 977, provided that: "Section 3301(1) of title 38, United States Code, shall be construed to include, in the case of a member of a reserve component of the Armed Forces who, before November 25, 2015, established eligibility for educational assistance under chapter 1607 of title 10, United States Code, pursuant to section 16163(a)(1) of such title, but lost eligibility for such educational assistance pursuant to section 16167(b) of such title, service on active duty (as defined in section 101 ofsuch title) that satisfies the requirements of section 16163(a)(1) of such title."
+Pub. L. 115–48, title I, §106(b), Aug. 16, 2017, 131 Stat. 977, provided that: "Section 3301(1) of title 38, United States Code, shall be construed to include, in the case of a member of a reserve component of the Armed Forces who, before November 25, 2015, established eligibility for educational assistance under chapter 1607 of title 10, United States Code, pursuant to section 16163(a)(1) of such title, but lost eligibility for such educational assistance pursuant to section 16167(b) of such title, service on active duty (as defined in section 101 of such title) that satisfies the requirements of section 16163(a)(1) of such title."
 
 #### Improvement of Information Technology of the Veterans Benefits Administration of the Department of Veterans Affairs
 
@@ -152,7 +156,7 @@ Since the Post-9/11 GI Bill became law, there have been reports of aggressive an
 
 To ensure our service members, veterans, spouses, and other family members have the information they need to make informed decisions concerning their well-earned Federal military and veterans educational benefits, I am directing my Administration to develop Principles of Excellence to strengthen oversight, enforcement, and accountability within these benefits programs.
 
-Sec. 2. <i>Principles of Excellence for Educational Institutions Serving Service Members, Veterans, Spouses, and Other Family Members</i>. The Departments of Defense, Veterans Affairs, and Education shall establish Principles of Excellence (Principles) to apply to educational institutions receiving funding from Federal military and veterans educational benefits programs, including benefits programs provided by the Post-9/11 GI Bill and the Tuition Assistance Program. The Principles should ensure that these educational institutions provide meaningful information to service members, veterans, spouses, and other family members about the financial cost and quality of educational institutions to assist those prospective students in making choices about how to use their Federal educational benefits; prevent abusive and deceptive recruiting practices that target the recipients of Federal military and veterans educational benefits; and ensure that educational institutions provide high-quality academic and student support services to active-duty service members, reservists, members of the National Guard, veterans, and military families.
+Sec. 2. <i>Principles of Excellence for Educational Institutions Serving Service Members, Veterans, Spouses, and Other Family Members</i>. The Departments of Defense, Veterans Affairs, and Education shall establish Principles of Excellence (Principles) to apply to educational institutions receiving funding from Federal military and veterans educational benefits programs, including benefits programs provided by the Post-9/11 GI Bill and the Tuition Assistance Program. The Principles should ensure that these educational institutions provide meaningful information to service members, veterans,spouses, and other family members about the financial cost and quality of educational institutions to assist those prospective students in making choices about how to use their Federal educational benefits; prevent abusive and deceptive recruiting practices that target the recipients of Federal military and veterans educational benefits; and ensure that educational institutions provide high-quality academic and student support services to active-duty service members, reservists, members of the National Guard, veterans, and military families.
 
 To the extent permitted by law, the Principles, implemented pursuant to section 3 of this order, should require educational institutions receiving funding pursuant to Federal military and veterans educational benefits to:
 
@@ -186,13 +190,13 @@ Sec. 4. <i>Strengthening Enforcement and Compliance Mechanisms</i>. Service memb
 
 (a) create a centralized complaint system for students receiving Federal military and veterans educational benefits to register complaints that can be tracked and responded to by the Departments of Defense, Veterans Affairs, Justice, and Education, the CFPB, and other relevant agencies;
 
-(b) institute uniform procedures for receiving and processing complaints across the State Approving Agencies (SAAs) that work with the Department of Veterans Affairs to review participating institutions, provide a coordinated mechanism across SAAs to alert the Department of Veterans Affairs to any complaints that have been registered at the State level, and create procedures for sharing information about complaints with the appropriate State officials, accrediting agency representatives, and the Secretary of Education;
+(b) institute uniform procedures for receiving and processing complaints across the State Approving Agencies (SAAs) that work with the Department of Veterans Affairs to review participating institutions,provide a coordinated mechanism across SAAs to alert the Department of Veterans Affairs to any complaints that have been registered at the State level, and create procedures for sharing information about complaints with the appropriate State officials, accrediting agency representatives, and the Secretary of Education;
 
 (c) institute uniform procedures for referring potential matters for civil or criminal enforcement to the Department of Justice and other relevant agencies;
 
 (d) establish procedures for targeted risk-based program reviews of institutions to ensure compliance with the Principles;
 
-(e) establish new uniform rules and strengthen existing procedures for access to military installations by educational institutions. These new rules should ensure, at a minimum, that only those institutions thatenter into a memorandum of agreement pursuant to section 3(a) of this order are permitted entry onto a Federal military installation for the purposes of recruitment. The Department of Defense shall include specific steps for instructing installation commanders on commercial solicitation rules and the requirement of the Principles outlined in section 2(c) of this order; and
+(e) establish new uniform rules and strengthen existing procedures for access to military installations by educational institutions. These new rules should ensure, at a minimum, that only those institutions that enter into a memorandum of agreement pursuant to section 3(a) of this order are permitted entry onto a Federal military installation for the purposes of recruitment. The Department of Defense shall include specific steps for instructing installation commanders on commercial solicitation rules and the requirement of the Principles outlined in section 2(c) of this order; and
 
 (f) take all appropriate steps to ensure that websites and programs are not deceptively and fraudulently marketing educational services and benefits to program beneficiaries, including initiating a process to protect the term "GI Bill" and other military or veterans-related terms as trademarks, as appropriate.
 

@@ -26,7 +26,7 @@ Individuals awarded scholarships under this subpart shall be known as "Byrd Scho
 
 #### Prior Provisions
 
-A prior section 1070d–33, Pub. L. 89–329, title IV, §419C, as added Pub. L. 98–558, title VIII, §801(a), Oct. 30, 1984, 98 Stat. 2900; amended Pub. L. 99–145, title XVI, §1627(b), Nov. 8, 1985, 99 Stat. 779, authorized the award of scholarships under Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1070d–33, Pub. L. 89–329, title IV, §419C, as added Pub. L. 98–558, title VIII, §801(a), Oct. 30, 1984, 98 Stat. 2900; amended Pub. L. 99–145, title XVI, §1627(b), Nov. 8, 1985, 99 Stat. 779, authorized the awardof scholarships under Robert C. Byrd Honors Scholarship Program, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

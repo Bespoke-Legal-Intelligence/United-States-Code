@@ -48,7 +48,7 @@ The Secretary shall prepare an environmental assessment or an environmental impa
 
 #### (3) Proposed agency action and community wildfire protection plan alternative
 
-&emsp;In the case of an authorized hazardous fuel reduction project described in paragraph (2), if the at-risk community has adopted a community wildfire protection plan and the proposed agency action does not implement the recommendations in the plan regarding the general location and basic method of treatments, the Secretary shall evaluate the recommendations in the plan as an alternative to the proposed agency action in the environmental assessment or environmental impact statement prepared pursuant to section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)).
+&emsp;In the case of an authorized hazardous fuel reduction project described in paragraph (2), if the at-risk community has adopted a community wildfire protection plan and the proposed agency action does not implement the recommendations in the plan regarding the general location and basic method of treatments,the Secretary shall evaluate the recommendations in the plan as an alternative to the proposed agency action in the environmental assessment or environmental impact statement prepared pursuant to section 102(2) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)).
 
 #### (e) Public notice and meeting
 
@@ -82,5 +82,5 @@ The Secretary shall sign a decision document for authorized hazardous fuel reduc
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

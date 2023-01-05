@@ -26,7 +26,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010, complian
 
 &emsp;(6) subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau, with respect to any person subject to this subchapter.
 
-> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act\(12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
+> The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
 #### (c) Agency powers
 
@@ -36,7 +36,7 @@ For the purpose of the exercise by any agency referred to in subsection (b) of i
 
 Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5519(a)\], the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter.
 
-(Pub. L. 90–321, title VIII, §814, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(n), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(e), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 102–550, title XVI, §1604(a)(8), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §316, Dec. 29, 1995, 109 Stat. 949; Pub. L. 111–203, title X, §1089(3), (4), July 21, 2010, 124 Stat. 2092, 2093.)
+(Pub. L. 90–321, title VIII, §814, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 881; amended Pub.L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(n), Aug. 9, 1989, 103 Stat. 440; Pub. L. 102–242, title II, §212(e), Dec. 19, 1991, 105 Stat. 2301; Pub. L. 102–550, title XVI, §1604(a)(8), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §316, Dec. 29, 1995, 109 Stat. 949; Pub. L. 111–203, title X, §1089(3), (4), July 21, 2010, 124 Stat. 2092, 2093.)
 
 #### <b>Editorial Notes</b>
 
@@ -78,7 +78,7 @@ Subsec. (b)(2) to (6). Pub. L. 111–203, §1089(3)(B)(ii)–(vi), added par. (6
 
 Subsec. (d). Pub. L. 111–203, §1089(4), substituted "Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010, the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter" for "Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter". See Codification note above.
 
-<b>1995</b>—Subsec. (b)(4). Pub. L. 104–88 substituted "Secretary of Transportation, with respect to all carrierssubject to the jurisdiction of the Surface Transportation Board" for "Interstate Commerce Commission with respect to any common carrier subject to those Acts".
+<b>1995</b>—Subsec. (b)(4). Pub. L. 104–88 substituted "Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board" for "Interstate Commerce Commission with respect to any common carrier subject to those Acts".
 
 <b>1992</b>—Subsec. (b)(1)(C). Pub. L. 102–550 substituted semicolon for period at end.
 
@@ -92,7 +92,7 @@ Pub. L. 102–242, §212(e)(1), added par. (1) and struck out former par. (1) wh
 
 &emsp;"(C) banks the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
-<b>1989</b>—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;".
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i)and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;".
 
 <b>1984</b>—Subsec. (b)(5). Pub. L. 98–443 substituted "Secretary of Transportation" for "Civil Aeronautics Board".
 

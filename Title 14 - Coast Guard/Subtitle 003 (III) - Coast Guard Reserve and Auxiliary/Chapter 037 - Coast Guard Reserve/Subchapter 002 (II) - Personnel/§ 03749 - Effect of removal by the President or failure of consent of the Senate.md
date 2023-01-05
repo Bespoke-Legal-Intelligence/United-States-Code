@@ -6,7 +6,7 @@
 
 (c) An officer whose name is removed from a list of selectees under subsection (a) or (b) continues to be eligible for consideration for promotion. If selected for promotion by the next selection board and promoted, that officer shall be assigned the date of rank and precedence that would have been assigned if the officer's name had not been previously removed. However, if the officer is not selected by the next selection board, or if the officer's name is again removed from the list of selectees, the officer shall be considered for all purposes as having twice failed of selection for promotion.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1013, §738; renumbered §3749 and amended Pub. L. 115–282, title I, §§118(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4233, 4240.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1013, §738; renumbered §3749 and amended Pub.L. 115–282, title I, §§118(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4233, 4240.)
 
 #### <b>Editorial Notes</b>
 

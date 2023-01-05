@@ -4,7 +4,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [5100\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005100%20-%20Definition%20of%20claimant.md) | Definition of "claimant". |
+| [5100\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005100%20-%20Definitions.md) | Definitions. |
 | [5101\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005101%20-%20Claims%20and%20forms.md) | Claims and forms. |
 | [5102\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005102%20-%20Application%20forms%20furnished%20upon%20request%3B%20notice%20to%20claimants%20of%20incomplete%20applications.md) | Application forms furnished upon request; notice to claimants of incomplete applications. |
 | [5103\.](Subchapter%20001%20%28I%29%20-%20Claims/%C2%A7%2005103%20-%20Notice%20to%20claimants%20of%20required%20information%20and%20evidence.md) | Notice to claimants of required information and evidence. |
@@ -52,6 +52,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–168, §1(b)(2), title VIII, §807(a)(1), Aug. 10, 2022, 136 Stat. 1759, 1805, added item 5100 and struck out former item 5100 "Definition of 'claimant' ".
 
 <b>2017</b>—Pub. L. 115–55, §2(f)(2), (g)(2), (h)(2), (i)(3), (k)(2), Aug. 23, 2017, 131 Stat. 1107–1109, added items 5104A to 5104C and substituted "Supplemental claims" for "Reopening disallowed claims" in item 5108 and "Expedited treatment of returned and remanded claims" for "Expedited treatment of remanded claims" in item 5109B.
 

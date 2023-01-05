@@ -2,7 +2,7 @@
 
 #### (a) Authorization of payments
 
-From the sums appropriated therefor, the Secretary of the Treasury shall pay to each State which has an approved plan for aid to the blind, for each quarter, beginning with the quarter commencing October 1, 1958—
+From the sums appropriated therefor, the Secretary of the Treasury shall pay to each Statewhich has an approved plan for aid to the blind, for each quarter, beginning with the quarter commencing October 1, 1958—
 
 &emsp;(1) Repealed. Pub. L. 97–35, title XXI, §2184(c)(2)(A), Aug. 13, 1981, 95 Stat. 817.
 
@@ -70,7 +70,7 @@ Subsec. (a)(2). Pub. L. 89–97, §122, inserted "premiums under part B of subch
 
 Subsec. (a)(2). Pub. L. 87–543, §132(b), substituted "$37.50" for "$35.50".
 
-Subsec. (a)(3). Pub. L. 87–543, §101(a)(3), (b)(3)(A), inserted in opening provisions "whose State plan approved under section 1202 of this title meets the requirements of subsection (c)(1) of this section" after"any State", and substituted provisions which increased the Federal share of expenses of administration of State public assistance plans by providing quarterly payments of the sum of 75 per centum of the quarterly expenses for certain prescribed services to help attain and retain capability for self-support or self-care, services likely to prevent or reduce dependency, and services appropriate for individuals who were or are likely to become applicants for or recipients of aid to the blind and request such services, and training of State or local public assistance personnel administering such plans and one-half of other administrative expenses for other services, permitted State health or vocational rehabilitation or other appropriate State agencies to furnish such services, except vocational rehabilitation services, and required the determination of the portion of expenses covered by the 75 and 50 per centum provisions in accordance with methods and procedures permitted by the Secretary for former provisions requiring quarterly payments of one-half of quarterly expenses of administration of State plans, including staff service of State or local public assistance agencies to applicants for and recipients of aid to the blind to help them attain self-support or self-care.
+Subsec. (a)(3). Pub. L. 87–543, §101(a)(3), (b)(3)(A), inserted in opening provisions "whose State plan approved under section 1202 of this title meets the requirements of subsection (c)(1) of this section" after "any State", and substituted provisions which increased the Federal share of expenses of administration of State public assistance plans by providing quarterly payments of the sum of 75 per centum of the quarterly expenses for certain prescribed services to help attain and retain capability for self-support or self-care, services likely to prevent or reduce dependency, and services appropriate for individuals who were or are likely to become applicants for or recipients of aid to the blind and request such services, and training of State or local public assistance personnel administering such plans and one-half of other administrative expenses for other services, permitted State health or vocational rehabilitation or other appropriate State agencies to furnish such services, except vocational rehabilitation services, and required the determination of the portion of expenses covered by the 75 and 50 per centum provisions in accordance with methods and procedures permitted by the Secretary for former provisions requiring quarterly payments of one-half of quarterly expenses of administration of State plans, including staff service of State or local public assistance agencies to applicants for and recipients of aid to the blind to help them attain self-support or self-care.
 
 Subsec. (a)(4). Pub. L. 87–543, §101(b)(3)(B), added par. (4).
 
@@ -84,7 +84,7 @@ Subsec. (c). Pub. L. 87–543, §101(b)(3)(C), added subsec. (c).
 
 Act Aug. 1, 1956, §313(c), struck out ", which shall be used exclusively as aid to the blind," after "the Virgin Islands, an amount" in cls. (1) and (2), and substituted "including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care" for "which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose" in cl. (3).
 
-Act Aug. 1, 1956, §343, substituted "October 1, 1956" for "October 1, 1952", struck out ", which shall be used exclusively as aid to the blind," after "the Virgin Islands, an amount" in cls. (1) and (2), substituted "$60" for "$55," "the product of $30" for "the product of $25", "Secretary of Health, Education, and Welfare" for "Secretary", and "including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care" for "which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose".
+Act Aug. 1, 1956, §343, substituted "October 1, 1956" for "October 1, 1952", struck out ", which shall be used exclusively as aid to the blind," after "the Virgin Islands, an amount" in cls. (1) and (2), substituted "$60" for "$55," "the product of $30" for "the product of $25", "Secretary of Health, Education, and Welfare" for "Secretary", and "including services which are provided by the staff of the State agency (or of the local agency administering the State plan in the political subdivision) to applicants for and recipients of aid to the blind to help them attain self-support or self-care"for "which amount shall be used for paying the costs of administering the State plan or for aid to the blind, or both, and for no other purpose".
 
 <b>1954</b>—Subsec. (b)(1). Act Sept. 1, 1954, substituted "the State's proportionate share" for "one-half".
 
@@ -172,7 +172,7 @@ Amendment by act June 14, 1948, effective Oct. 1, 1948, see section 3(d) of act 
 
 #### Effective and Termination Date of 1946 Amendment
 
-Amendment by section 503 of act Aug. 10, 1946, effective only for period beginning Oct. 1, 1946, and ending with close of June 30, 1950, see section 504 of act Aug. 10, 1946, as amended, set out as a note under section 303 of this title.
+Amendment by section 503 of act Aug. 10, 1946, effective only for period beginning Oct. 1, 1946, and ending with close of June 30, 1950, see section 504 of act Aug.10, 1946, as amended, set out as a note under section 303 of this title.
 
 #### Effective Date of 1939 Amendment
 

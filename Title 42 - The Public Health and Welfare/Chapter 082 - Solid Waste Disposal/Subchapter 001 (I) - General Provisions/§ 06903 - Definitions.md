@@ -16,7 +16,7 @@ As used in this chapter:
 
 &emsp;(A) cause, or significantly contribute to an increase in mortality or an increase in serious irreversible, or incapacitating reversible, illness; or
 
-&emsp;(B) pose a substantial present or potential hazard to human health or the environment when improperly treated, stored, transported, or disposed of, or otherwise managed.
+&emsp;(B) pose a substantial present or potential hazard to human health or the environmentwhen improperly treated, stored, transported, or disposed of, or otherwise managed.
 
 (6) The term "hazardous waste generation" means the act or process of producing hazardous waste.
 
@@ -40,7 +40,7 @@ As used in this chapter:
 
 (16) The term "procurement item" means any device, good, substance, material, product, or other item whether real or personal property which is the subject of any purchase, barter, or other exchange made to procure such item.
 
-(17) The term "procuring agency" means any Federal agency, or any State agency or agencyof a political subdivision of a State which is using appropriated Federal funds for such procurement, or any person contracting with any such agency with respect to work performed under such contract.
+(17) The term "procuring agency" means any Federal agency, or any State agency or agency of a political subdivision of a State which is using appropriated Federal funds for such procurement, or any person contracting with any such agency with respect to work performed under such contract.
 
 (18) The term "recoverable" refers to the capability and likelihood of being recovered from solid waste for a commercial or industrial use.
 
@@ -100,7 +100,7 @@ As used in this chapter:
 
 (39) The term "re-refined oil" means used oil from which the physical and chemical contaminants acquired through previous use have been removed through a refining process.
 
-(40) Except as otherwise provided in this paragraph, the term "medical waste" means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings oranimals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III or any household waste as defined in regulations under subchapter III.
+(40) Except as otherwise provided in this paragraph, the term "medical waste" means any solid waste which is generated in the diagnosis, treatment, or immunization of human beings or animals, in research pertaining thereto, or in the production or testing of biologicals. Such term does not include any hazardous waste identified or listed under subchapter III or any household waste as defined in regulations under subchapter III.
 
 (41) The term "mixed waste" means waste that contains both hazardous waste and source, special nuclear, or by-product material subject to the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.).
 
@@ -140,7 +140,7 @@ Par. (29)(C). Pub. L. 95–609, §7(b)(3), substituted "the collection, source s
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in par. (4) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+"Government Publishing Office" substituted for "Government Printing Office" in par. (4) on authorityof section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
 
 #### <b>Executive Documents</b>
 

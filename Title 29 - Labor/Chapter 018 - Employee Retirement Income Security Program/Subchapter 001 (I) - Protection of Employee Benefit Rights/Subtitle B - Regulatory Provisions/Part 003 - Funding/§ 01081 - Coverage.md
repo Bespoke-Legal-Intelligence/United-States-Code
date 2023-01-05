@@ -42,7 +42,7 @@ For the purposes of paragraph (2) of subsection (a) a plan is an "insurance cont
 
 &emsp;(6) no policy loans are outstanding at any time during the plan year.
 
-> A plan funded exclusively by the purchase of group insurance contracts which is determined under regulations prescribed by the Secretary of the Treasury to have the same characteristics as contracts described in the preceding sentence shall be treated as a plan described in this subsection.
+> A plan funded exclusively by the purchase of group insurance contracts which is determinedunder regulations prescribed by the Secretary of the Treasury to have the same characteristics as contracts described in the preceding sentence shall be treated as a plan described in this subsection.
 
 #### (c) Applicability of this part to terminated multiemployer plans
 

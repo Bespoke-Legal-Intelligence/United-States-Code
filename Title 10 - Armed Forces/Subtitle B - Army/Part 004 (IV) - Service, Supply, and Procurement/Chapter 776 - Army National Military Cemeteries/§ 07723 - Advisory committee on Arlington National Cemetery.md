@@ -6,11 +6,11 @@ Appointment.—The Secretary of the Army shall appoint an advisory committee on 
 
 (b)
 
-Role.—The Secretary of the Army shall advise and consult with the advisory committeewith respect to the administration of Arlington National Cemetery, the erection of memorials at the cemetery, and master planning for the cemetery.
+Role.—The Secretary of the Army shall advise and consult with the advisory committee with respect to the administration of Arlington National Cemetery, the erection of memorials at the cemetery, and master planning for the cemetery.
 
 (c)
 
-Reports and Recommendations.—The advisory committee shall make periodic reports and recommendations to the Secretary of the Army.
+Reports and Recommendations.—The advisory committee shall make periodic reportsand recommendations to the Secretary of the Army.
 
 (d)
 

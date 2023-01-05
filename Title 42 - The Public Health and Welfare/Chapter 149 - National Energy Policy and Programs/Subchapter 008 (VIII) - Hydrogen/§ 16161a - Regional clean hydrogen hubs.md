@@ -22,7 +22,7 @@ The Secretary shall establish a program to support the development of at least 4
 
 #### (2) Selection of hubs
 
-&emsp;Not later than 1 year after the deadline for the submission of proposals under paragraph\(1), the Secretary shall select at least 4 regional clean hydrogen hubs to be developed under subsection (b).
+&emsp;Not later than 1 year after the deadline for the submission of proposals under paragraph (1), the Secretary shall select at least 4 regional clean hydrogen hubs to be developed under subsection (b).
 
 #### (3) Criteria
 

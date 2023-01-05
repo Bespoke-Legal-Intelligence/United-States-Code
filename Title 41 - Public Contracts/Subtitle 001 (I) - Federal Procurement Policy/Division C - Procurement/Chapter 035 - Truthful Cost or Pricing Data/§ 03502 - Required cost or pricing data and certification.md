@@ -28,7 +28,7 @@ Offeror for subcontract.—An offeror for a subcontract (at any tier) of a contr
 
 &emsp;&emsp;(A) in the case of a subcontract under a prime contract referred to in paragraph (1)(A), the price of the subcontract is expected to exceed $2,000,000;
 
-&emsp;&emsp;(B) in the case of a subcontract entered into under a prime contract that was entered into on or before June 30, 2018, andthat has been modified pursuant to subsection (f), the price of the subcontract is expected to exceed $2,000,000; and
+&emsp;&emsp;(B) in the case of a subcontract entered into under a prime contract that was entered into on or before June 30, 2018, and that has been modified pursuant to subsection (f), the price of the subcontract is expected to exceed $2,000,000; and
 
 &emsp;&emsp;(C) in the case of a subcontract not covered by subparagraph (A) or (B), the price of the subcontract is expected to exceed $750,000.
 
@@ -100,5 +100,5 @@ Subsec. (a)(3)(A), (B), (4)(A). Pub. L. 115–91, §811(a)(2)(A)(iii), substitut
 
 Subsec. (f). Pub. L. 115–91, §811(a)(2)(B), substituted "June 30, 2018" for "October 13, 1994".
 
-Subsec. (g). Pub. L. 115–91, §811(a)(2)(C), substituted "in accordance with section 1908." for "to the amount that is equal to the fiscal year 1994 constant dollar value of the amount set forth. Any amount, as so adjusted, that is not evenly divisible by $50,000 shall be rounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000."
+Subsec. (g). Pub. L. 115–91, §811(a)(2)(C), substituted "in accordance with section 1908." for "to the amount that is equal to the fiscal year 1994 constant dollar value of the amount set forth. Any amount, as so adjusted, that is not evenly divisible by $50,000 shall berounded to the nearest multiple of $50,000. In the case of an amount that is evenly divisible by $25,000 but not evenly divisible by $50,000, the amount shall be rounded to the next higher multiple of $50,000."
 

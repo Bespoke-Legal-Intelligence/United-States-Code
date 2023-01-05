@@ -2,13 +2,13 @@
 
 (a)
 
-Mandatory Retirement.—Upon the termination of the detail of an officer to the position of Superintendent of the United States Naval Academy, the Secretary of the Navy shall retire the officer under any provision of chapter 841 of this title under which the officer is eligible to retire.
+Mandatory Retirement.—Upon the termination of the detail of an officer to the positionof Superintendent of the United States Naval Academy, the Secretary of the Navy shall retire the officer under any provision of chapter 841 of this title under which the officer is eligible to retire.
 
 (b)
 
-Waiver Authority.—The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment.
+Waiver Authority.—The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment. In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate.
 
-(Added Pub. L. 106–65, div. A, title V, §532(a)(2)(A), Oct. 5, 1999, 113 Stat. 603, §6371; amended Pub. L. 108–375, div. A, title V, §541(a)(2), (c)(2)(A), Oct. 28, 2004, 118 Stat. 1902, 1904; renumbered §8371 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(16), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Added Pub. L. 106–65, div. A, title V, §532(a)(2)(A), Oct. 5, 1999, 113 Stat. 603, §6371; amended Pub. L. 108–375, div. A, title V, §541(a)(2), (c)(2)(A), Oct. 28, 2004, 118 Stat. 1902, 1904; renumbered §8371 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(16), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 117–263, div. A, title V, §509(b), Dec. 23, 2022, 136 Stat. 2560.)
 
 #### <b>Editorial Notes</b>
 
@@ -17,6 +17,8 @@ Waiver Authority.—The Secretary of Defense may waive the requirement in subsec
 A prior section 8371, added Pub. L. 85–861, §1(178)(C), Sept. 2, 1958, 72 Stat. 1527, related to promotion of officers to grade of colonel to fill vacancies in Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14301 et seq. of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–263 inserted at end "In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate."
 
 <b>2018</b>—Pub. L. 115–232, §807(b)(16), renumbered section 6371 of this title as this section.
 

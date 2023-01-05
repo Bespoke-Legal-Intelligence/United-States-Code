@@ -1398,9 +1398,13 @@ Pub. L. 109–59, title I, §1102, Aug. 10, 2005, 119 Stat. 1157, as amended by 
 
 Pub. L. 105–178, title I, §1102, June 9, 1998, 112 Stat. 115, as amended by Pub. L. 105–206, title IX, §9002(b), July 22, 1998, 112 Stat. 834; Pub. L. 106–159, title I, §103(b)(2), Dec. 9, 1999, 113 Stat. 1753.
 
-Pub. L. 116–260, div. L, title I, Dec. 27, 2020, 134 Stat. 1835, provided in part that: "Funds available for the implementation or execution of Federal-aid highway and highway safety construction programs authorized under titles 23 and 49, United States Code, and the provisions of the Fixing America's Surface Transportation (FAST) Act (Public Law 114–94) \[see Tables for classification\] shall not exceed total obligations of $46,365,092,000 for fiscal year 2021."
+Pub. L. 117–328, div. L, title I, Dec. 29, 2022, 136 Stat. 5109, provided in part that: "Funds available for the implementation or execution of authorized Federal-aid highway and highway safety construction programs shall not exceed total obligations of $58,764,510,674 for fiscal year 2023".
 
 Similar provisions for prior fiscal years were contained in the following acts:
+
+Pub. L. 117–103, div. L, title I, Mar. 15, 2022, 136 Stat. 698.
+
+Pub. L. 116–260, div. L, title I, Dec. 27, 2020, 134 Stat. 1835.
 
 Pub. L. 116–94, div. H, title I, Dec. 20, 2019, 133 Stat. 2945.
 
@@ -1418,9 +1422,9 @@ Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 583.
 
 Pub. L. 112–55, div. C, title I, Nov. 18, 2011, 125 Stat. 650.
 
-Pub. L. 116–260, div. L, title I, §120, Dec. 27, 2020, 134 Stat. 1839, provided that:
+Pub. L. 117–328, div. L, title I, §120, Dec. 29, 2022, 136 Stat. 5114, provided that:
 
-"(a) For fiscal year 2021, the Secretary of Transportation shall—
+"(a) For fiscal year 2023, the Secretary of Transportation shall—
 
 &emsp;"(1) not distribute from the obligation limitation for Federal-aid highways—
 
@@ -1430,7 +1434,7 @@ Pub. L. 116–260, div. L, title I, §120, Dec. 27, 2020, 134 Stat. 1839, provid
 
 &emsp;"(2) not distribute an amount from the obligation limitation for Federal-aid highways that is equal to the unobligated balance of amounts—
 
-&emsp;&emsp;"(A) made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid highway and highway safety construction programs for previous fiscal years the funds for which are allocated by the Secretary (or apportioned by the Secretary under sections 202 or 204 of title 23, United States Code); and
+&emsp;&emsp;"(A) made available from the Highway Trust Fund (other than the Mass Transit Account) for Federal-aid highway and highway safety construction programs for previous fiscal years the funds for which are allocated by the Secretary (or apportioned by the Secretary under section 202 or 204 of title 23, United States Code); and
 
 &emsp;&emsp;"(B) for which obligation limitation was provided in a previous fiscal year;
 
@@ -1438,9 +1442,9 @@ Pub. L. 116–260, div. L, title I, §120, Dec. 27, 2020, 134 Stat. 1839, provid
 
 &emsp;&emsp;"(A) the obligation limitation for Federal-aid highways, less the aggregate of amounts not distributed under paragraphs (1) and (2) of this subsection; bears to
 
-&emsp;&emsp;"(B) the total of the sums authorized to be appropriated for the Federal-aid highway and highway safety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (11) of subsection (b) and sums authorized to be appropriated for section 119 of title 23, United States Code, equal to the amount referred to in subsection (b)(12) for such fiscal year), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
+&emsp;&emsp;"(B) the total of the sums authorized to be appropriated for the Federal-aid highway and highwaysafety construction programs (other than sums authorized to be appropriated for provisions of law described in paragraphs (1) through (11) of subsection (b) and sums authorized to be appropriated for section 119 of title 23, United States Code, equal to the amount referred to in subsection (b)(12) for such fiscal year), less the aggregate of the amounts not distributed under paragraphs (1) and (2) of this subsection;
 
-&emsp;"(4) distribute the obligation limitation for Federal-aid highways, less the aggregate amounts not distributed under paragraphs (1) and (2), for each of the programs (other than programs to which paragraph (1) applies) that are allocated by the Secretary under the Fixing America's Surface Transportation Act \[Pub. L. 114–94, see Tables for classification\] and title 23, United States Code, or apportioned by the Secretary under sections 202 or 204 of that title, by multiplying—
+&emsp;"(4) distribute the obligation limitation for Federal-aid highways, less the aggregate amounts not distributed under paragraphs (1) and (2), for each of the programs (other than programs to which paragraph (1) applies) that are allocated by the Secretary under authorized Federal-aid highway and highway safety construction programs, or apportioned by the Secretary under section 202 or 204 of title 23, United States Code, by multiplying—
 
 &emsp;&emsp;"(A) the proportion determined under paragraph (3); by
 
@@ -1460,7 +1464,7 @@ Exceptions From Obligation Limitation.—The obligation limitation for Federal-a
 
 &emsp;"(2) section 147 of the Surface Transportation Assistance Act of 1978 \[Pub. L. 95–599\] (\[former\] 23 U.S.C. 144 note; 92 Stat. 2714);
 
-&emsp;"(3) section 9 of the Federal-Aid Highway Act of 1981 \[Pub. L. 97–134\] (95 Stat. 1701);
+&emsp;"(3) section 9 of the Federal-Aid Highway Act of 1981 \[Pub. L. 97–134\](95 Stat. 1701);
 
 &emsp;"(4) subsections (b) and (j) of section 131 of the Surface Transportation Assistance Act of 1982 \[Pub. L. 97–424\] (96 Stat. 2119);
 
@@ -1478,7 +1482,7 @@ Exceptions From Obligation Limitation.—The obligation limitation for Federal-a
 
 &emsp;"(11) section 1603 of SAFETEA–LU \[Pub. L. 109–59\] (23 U.S.C. 118 note; 119 Stat. 1248), to the extent that funds obligated in accordance with that section were not subject to a limitation on obligations at the time at which the funds were initially made available for obligation; and
 
-&emsp;"(12) section 119 of title 23, United States Code (but, for each of fiscal years 2013 through 2021, only in an amount equal to $639,000,000).
+&emsp;"(12) section 119 of title 23, United States Code (but, for each of fiscal years 2013 through 2023, only in an amount equal to $639,000,000).
 
 "(c)
 
@@ -1496,9 +1500,11 @@ Applicability of Obligation Limitations to Transportation Research Programs.—
 
 In general.—Except as provided in paragraph (2), the obligation limitation for Federal-aid highways shall apply to contract authority for transportation research programs carried out under—
 
-&emsp;&emsp;"(A) chapter 5 of title 23, United States Code; and
+&emsp;&emsp;"(A) chapter 5 of title 23, United States Code;
 
-&emsp;&emsp;"(B) title VI of the Fixing America's Surface Transportation Act \[title VI of Pub. L. 114–94, see Tables for classification\].
+&emsp;&emsp;"(B) title VI of the Fixing America's Surface Transportation Act \[title VI of Pub. L. 114–94, see Tables for classification\]; and
+
+&emsp;&emsp;"(C) title III of division A of the Infrastructure Investment and Jobs Act (Public Law 117–58).
 
 &emsp;"(2)
 
@@ -1510,7 +1516,7 @@ Exception.—Obligation authority made available under paragraph (1) shall—
 
 "(e)
 
-Redistribution of certain authorized funds.—
+Redistribution of Certain Authorized Funds.—
 
 &emsp;"(1)
 
@@ -1529,6 +1535,10 @@ Ratio.—Funds shall be distributed under paragraph (1) in the same proportion a
 Availability.—Funds distributed to each State under paragraph (1) shall be available for any purpose described in section 133(b) of title 23, United States Code."
 
 Similar provisions for prior fiscal years were contained in the following acts:
+
+Pub. L. 117–103, div. L, title I, §120, Mar. 15, 2022, 136 Stat. 701.
+
+Pub. L. 116–260, div. L, title I, §120, Dec. 27, 2020, 134 Stat. 1839.
 
 Pub. L. 116–94, div. H, title I, §120, Dec. 20, 2019, 133 Stat. 2948.
 
@@ -1680,7 +1690,7 @@ Pub. L. 91–605, title I, §105(b), Dec. 31, 1970, 84 Stat. 1716.
 
 #### Public Boat Launching Areas; Access Ramps
 
-Pub. L. 94–280, title I, §147, May 5, 1976, 90 Stat. 446, provided that: "Funds apportioned to States under \[former\] subsections (b)(1), (b)(2), and (b)(6) of section 104 of title 23, United States Code, may be used upon the application of the State and the approval of the Secretary of Transportation for construction of access ramps from bridges under construction or which are being reconstructed, replaced, repaired, or otherwise altered on the Federal-aid primary, secondary, or urban system to public boat launching areas adjacent to such bridges. Approval of the Secretary shall be in accordance with guidelines developed jointly by the Secretary of Transportation and the Secretary of the Interior."
+Pub. L. 94–280, title I, §147, May 5, 1976, 90 Stat. 446, provided that: "Funds apportioned to States under \[former\] subsections (b)(1), (b)(2), and (b)(6) of section104 of title 23, United States Code, may be used upon the application of the State and the approval of the Secretary of Transportation for construction of access ramps from bridges under construction or which are being reconstructed, replaced, repaired, or otherwise altered on the Federal-aid primary, secondary, or urban system to public boat launching areas adjacent to such bridges. Approval of the Secretary shall be in accordance with guidelines developed jointly by the Secretary of Transportation and the Secretary of the Interior."
 
 #### Use of Federal Funds During Period Beginning February 12, 1975, and Ending September 30, 1975
 

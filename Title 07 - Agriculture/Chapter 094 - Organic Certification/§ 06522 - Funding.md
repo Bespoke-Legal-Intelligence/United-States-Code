@@ -42,7 +42,7 @@ Notwithstanding any other provision of law, in order to carry out activities und
 
 #### (4) Funding
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available $5,000,000 for fiscal year 2019 for the purposes of—
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall make available$5,000,000 for fiscal year 2019 for the purposes of—
 
 &emsp;&emsp;(A) carrying out this subsection; and
 

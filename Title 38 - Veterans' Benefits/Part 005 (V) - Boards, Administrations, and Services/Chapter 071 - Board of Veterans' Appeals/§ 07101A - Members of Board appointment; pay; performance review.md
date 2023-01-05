@@ -6,7 +6,7 @@
 
 (b) Members of the Board (other than the Chairman and any member of the Board who is a member of the Senior Executive Service) shall, in accordance with regulations prescribed by the Secretary, be paid basic pay at rates equivalent to the rates payable under section 5372 of title 5.
 
-(c)(1)(A) The Chairman shall establish a panel to review the performance of members of the Board. The panel shall be comprised of theChairman and two other members of the Board (other than the Vice Chairman). The Chairman shall periodically rotate membership on the panel so as to ensure that each member of the Board (other than the Vice Chairman) serves as a member of the panel for and within a reasonable period.
+(c)(1)(A) The Chairman shall establish a panel to review the performance of members of the Board. The panel shall be comprised of the Chairman and two other members of the Board (other than the Vice Chairman). The Chairman shall periodically rotate membership on the panel so as to ensure that each member of the Board (other than the Vice Chairman) serves as a member of the panel for and within a reasonable period.
 
 (B) Not less than one year after the job performance standards under subsection (f) are initially established, and not less often than once every three years thereafter, the performance review panel shall determine, with respect to each member of the Board (other than the Chairman or a member who is a member of the Senior Executive Service), whether that member's job performance as a member of the Board meets the performance standards for a member of the Board established under subsection (f). Each such determination shall be in writing.
 

@@ -20,7 +20,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;(6) costs of audits under subsection (d);
 
-&emsp;(7) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
+&emsp;(7) costs of necessary training of Federal and State personnel who administer this chapter to improve administration of this chapter;
 
 &emsp;(8) costs of travel to States, territories, and Canada by personnel who—
 
@@ -28,7 +28,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;&emsp;(B) administer grants under section 777e or 777m of this title;
 
-&emsp;(9) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
+&emsp;(9) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
 
 &emsp;(10) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time or part-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter; and
 
@@ -76,7 +76,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 &emsp;&emsp;(B) a copy of each audit under this subsection.
 
-(Aug. 9, 1950, ch. 658, §9, 64 Stat. 433; Pub. L. 106–408, title I, §121(b), Nov. 1, 2000, 114 Stat. 1770; Pub. L. 109–59, title X, §10116, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 117–58, div. B, title VIII, §28001(a)(2), Nov. 15, 2021, 135 Stat. 887.)
+(Aug. 9, 1950, ch. 658, §9, 64 Stat. 433; Pub. L. 106–408, title I, §121(b), Nov. 1, 2000, 114 Stat. 1770; Pub. L. 109–59, title X, §10116, Aug. 10, 2005, 119 Stat. 1929; Pub. L. 117–58, div. B, title VIII, §28001(a)(2), Nov. 15, 2021, 135 Stat. 887; Pub. L. 117–263, div. K, title CXIII, §11324(a)(2), Dec. 23, 2022, 136 Stat. 4095.)
 
 #### <b>Editorial Notes</b>
 
@@ -86,6 +86,10 @@ In subsec. (d)(2)(A), "section 132 of title 41" substituted for "section 4 of th
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(7). Pub. L. 117–263, §11324(a)(2)(A), struck out "full-time" before "personnel".
+
+Subsec. (a)(9). Pub. L. 117–263, §11324(a)(2)(B), struck out "on a full-time basis" after "administer this chapter".
+
 <b>2021</b>—Subsec. (a)(1). Pub. L. 117–58, §28001(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: "personnel costs of employees who directly administer this chapter on a full-time basis;".
 
 Subsec. (a)(2). Pub. L. 117–58, §28001(a)(2)(C), substituted "paragraph (1)" for "paragraphs (1) and (2)".
@@ -94,7 +98,7 @@ Pub. L. 117–58, §28001(a)(2)(A), (B), redesignated par. (3) as (2) and struck
 
 Subsec. (a)(3), (4). Pub. L. 117–58, §28001(a)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
-Subsec. (a)(4)(B). Pub. L. 117–58, §28001(a)(2)(D), substituted "employee authorized under paragraph (1)" for"full-time equivalent employee authorized under paragraphs (1) and (2)".
+Subsec. (a)(4)(B). Pub. L. 117–58, §28001(a)(2)(D), substituted "employee authorized under paragraph (1)" for "full-time equivalent employee authorized under paragraphs (1) and (2)".
 
 Subsec. (a)(5) to (8). Pub. L. 117–58, §28001(a)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively. Former par. (5) redesignated (4).
 

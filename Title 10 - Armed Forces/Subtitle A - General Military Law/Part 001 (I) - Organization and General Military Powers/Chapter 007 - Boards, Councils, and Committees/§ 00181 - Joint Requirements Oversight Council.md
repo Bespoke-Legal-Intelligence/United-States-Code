@@ -114,7 +114,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "performance requirement" means a performance attribute of a particular system considered critical or essential to the development of an effective military capability.
 
-&emsp;(3) The term "joint performance requirement" means a performance requirement that is critical or essential to ensure interoperability or fulfill a capability gap of more thanone armed force, Defense Agency, or other entity of the Department of Defense, or impacts the joint force in other ways such as logistics.
+&emsp;(3) The term "joint performance requirement" means a performance requirement that is critical or essential to ensure interoperability or fulfill a capability gap of more than one armed force, Defense Agency, or other entity of the Department of Defense, or impacts the joint force in other ways such as logistics.
 
 &emsp;(4) The term "oversight information" means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
 
@@ -136,7 +136,7 @@ Pub. L. 116–283, §1850(m), which directed amendment of par. (6) by substituti
 
 Subsec. (c)(1)(F). Pub. L. 116–283, §924(b)(9), added subpar. (F).
 
-Subsec. (d)(1)(D). Pub. L. 117–81, §903(a)(2), substituted "Engineering who shall serve as the Chief Technical Advisor to the Council and—" and cls. (i) and (ii) for "Engineering."
+Subsec. (d)(1)(D). Pub. L. 117–81, §903(a)(2), substituted "Engineering who shall serve as the ChiefTechnical Advisor to the Council and—" and cls. (i) and (ii) for "Engineering."
 
 Pub. L. 116–283, §906(b), substituted "The" for "the".
 

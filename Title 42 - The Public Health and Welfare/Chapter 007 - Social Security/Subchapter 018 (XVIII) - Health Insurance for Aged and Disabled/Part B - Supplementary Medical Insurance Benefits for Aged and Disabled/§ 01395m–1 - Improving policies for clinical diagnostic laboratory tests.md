@@ -12,9 +12,9 @@
 
 &emsp;&emsp;In the case of reporting with respect to clinical diagnostic laboratory tests that are not advanced diagnostic laboratory tests, the Secretary shall revise the reporting period under subparagraph (A) such that—
 
-&emsp;&emsp;&emsp;(i) no reporting is required during the period beginning January 1, 2020, and ending December 31, 2022;
+&emsp;&emsp;&emsp;(i) no reporting is required during the period beginning January 1, 2020, and ending December 31, 2023;
 
-&emsp;&emsp;&emsp;(ii) reporting is required during the period beginning January 1, 2023, and ending March 31, 2023; and
+&emsp;&emsp;&emsp;(ii) reporting is required during the period beginning January 1, 2024, and ending March 31, 2024; and
 
 &emsp;&emsp;&emsp;(iii) reporting is required every three years after the period described in clause (ii).
 
@@ -80,7 +80,7 @@
 
 #### (10) Confidentiality of information
 
-&emsp;Notwithstanding any other provision of law, information disclosed by a laboratory underthis subsection is confidential and shall not be disclosed by the Secretary or a Medicare contractor in a form that discloses the identity of a specific payor or laboratory, or prices charged or payments made to any such laboratory, except—
+&emsp;Notwithstanding any other provision of law, information disclosed by a laboratory under this subsection is confidential and shall not be disclosed by the Secretary or a Medicare contractor in a form that discloses the identity of a specific payor or laboratory, or prices charged or payments made to any such laboratory, except—
 
 &emsp;&emsp;(A) as the Secretary determines to be necessary to carry out this section;
 
@@ -118,7 +118,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Payment amounts determined under this subsection for a clinical diagnostic laboratory test for each of 2017 through 2025 shall not result in a reduction in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent (as defined in subparagraph (B)) of the amount of payment for the test for the preceding year.
+&emsp;&emsp;Payment amounts determined under this subsection for a clinical diagnostic laboratory test for each of 2017 through 2026 shall not result in a reduction in payments for a clinical diagnostic laboratory test for the year of greater than the applicable percent (as defined in subparagraph (B)) of the amount of payment for the test for the preceding year.
 
 #### (B) Applicable percent defined
 
@@ -126,9 +126,9 @@
 
 &emsp;&emsp;&emsp;(i) for each of 2017 through 2020, 10 percent;
 
-&emsp;&emsp;&emsp;(ii) for each of 2021 and 2022, 0 percent; and
+&emsp;&emsp;&emsp;(ii) for each of 2021 through 2023, 0 percent; and
 
-&emsp;&emsp;&emsp;(iii) for each of 2023 through 2025, 15 percent.
+&emsp;&emsp;&emsp;(iii) for each of 2024 through 2026, 15 percent.
 
 #### (C) No application to new tests
 
@@ -142,7 +142,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraph (3), once established for a year following a data collection period, the payment amounts under this subsection shall continue to apply until the year following the next data collection period.
+&emsp;&emsp;Subject to paragraph (3), once established for a year following a data collection period,the payment amounts under this subsection shall continue to apply until the year following the next data collection period.
 
 #### (B) Other adjustments not applicable
 
@@ -164,7 +164,7 @@
 
 #### (2) Gapfilling process described
 
-&emsp;The gapfilling process described in this paragraph shall take into account the followingsources of information to determine gapfill amounts, if available:
+&emsp;The gapfilling process described in this paragraph shall take into account the following sources of information to determine gapfill amounts, if available:
 
 &emsp;&emsp;(A) Charges for the test and routine discounts to charges.
 
@@ -246,7 +246,7 @@
 
 #### (3) Establishment of unique identifier for certain tests
 
-&emsp;For purposes of tracking and monitoring, if a laboratory or a manufacturer requests aunique identifier for an advanced diagnostic laboratory test (as so defined) or a laboratory test that is cleared or approved by the Food and Drug Administration, the Secretary shall utilize a means to uniquely track such test through a mechanism such as a HCPCS code or modifier.
+&emsp;For purposes of tracking and monitoring, if a laboratory or a manufacturer requests a unique identifier for an advanced diagnostic laboratory test (as so defined) or a laboratory test that is cleared or approved by the Food and Drug Administration, the Secretary shall utilize a means to uniquely track such test through a mechanism such as a HCPCS code or modifier.
 
 #### (f) Input from clinicians and technical experts
 
@@ -262,9 +262,9 @@
 
 &emsp;&emsp;(B) recommendations to the Secretary under this section.
 
-#### (2) Compliance with FACA
+#### (2) Compliance with chapter 10 of title 5
 
-&emsp;The panel shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;The panel shall be subject to chapter 10 of title 5.
 
 #### (3) Continuation of annual meeting
 
@@ -302,21 +302,29 @@
 
 #### (3) Funding
 
-&emsp;For purposes of implementing this section, the Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, to the Centers for Medicare \& Medicaid Services Program Management Account, for each of fiscal years 2014 through 2018, $4,000,000, and for each of fiscal years 2019 through 2023, $3,000,000. Amounts transferred under the preceding sentence shall remain available until expended.
+&emsp;For purposes of implementing this section, the Secretary shall provide for the transfer, from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, to the Centers for Medicare \& Medicaid Services Program Management Account, for each of fiscal years 2014 through 2018, $4,000,000, and for each of fiscal years 2019through 2023, $3,000,000. Amounts transferred under the preceding sentence shall remain available until expended.
 
 #### (i) Transitional rule
 
 During the period beginning on April 1, 2014, and ending on December 31, 2016, with respect to advanced diagnostic laboratory tests under this part, the Secretary shall use the methodologies for pricing, coding, and coverage in effect on the day before April 1, 2014, which may include cross-walking or gapfilling methods.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1834A, as added Pub. L. 113–93, title II, §216(a), Apr. 1, 2014, 128 Stat. 1053; amended Pub. L. 116–94, div. N, title I, §105(a), Dec. 20, 2019, 133 Stat. 3100; Pub. L. 116–136, div. A, title III, §3718, Mar. 27, 2020, 134 Stat. 425; Pub. L. 117–71, §4, Dec. 10, 2021, 135 Stat. 1507.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1834A, as added Pub. L. 113–93, title II, §216(a), Apr. 1, 2014, 128 Stat. 1053; amended Pub. L. 116–94, div. N, title I, §105(a), Dec. 20, 2019, 133 Stat. 3100; Pub. L. 116–136, div. A, title III, §3718, Mar. 27, 2020, 134 Stat. 425; Pub. L. 117–71, §4, Dec. 10, 2021, 135 Stat. 1507; Pub. L. 117–286, §4(a)(251), Dec. 27, 2022, 136 Stat. 4333; Pub. L. 117–328, div. FF, title IV, §4114, Dec. 29, 2022, 136 Stat. 5901.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(B)(i). Pub. L. 117–328, §4114(b)(1), substituted "December 31, 2023" for "December 31, 2022".
+
+Subsec. (a)(1)(B)(ii). Pub. L. 117–328, §4114(b)(2), substituted "January 1, 2024" for "January 1, 2023" and "March 31, 2024" for "March 31, 2023".
+
+Subsec. (b)(3)(A). Pub. L. 117–328, §4114(a)(1), substituted "through 2026" for "through 2025".
+
+Subsec. (b)(3)(B)(ii). Pub. L. 117–328, §4114(a)(2)(A), substituted "through 2023" for "and 2022".
+
+Subsec. (b)(3)(B)(iii). Pub. L. 117–328, §4114(a)(2)(B), substituted "2024 through 2026" for "2023 through 2025".
+
+Subsec. (f)(2). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)." in text.
 
 <b>2021</b>—Subsec. (a)(1)(B)(i). Pub. L. 117–71, §4(b)(1), substituted "December 31, 2022" for "December 31, 2021".
 

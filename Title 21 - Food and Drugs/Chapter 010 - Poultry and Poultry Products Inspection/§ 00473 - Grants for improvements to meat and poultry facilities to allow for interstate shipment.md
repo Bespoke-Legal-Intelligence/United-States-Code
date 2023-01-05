@@ -66,7 +66,7 @@ A facility that receives a grant under this section may use the grant amount for
 
 #### (B) Exception
 
-&emsp;&emsp;The Secretary shall not require any recipient of a grant under this section to provide matching funds with respect to a grant awarded in fiscal year 2021.
+&emsp;&emsp;The Secretary shall not require any recipient of a grant under this section to provide matching funds with respect to a grant awarded in fiscal year 2021 and fiscal year 2022.
 
 #### (e) Reports
 
@@ -86,7 +86,7 @@ A facility that receives a grant under this section may use the grant amount for
 
 Of the funds of the Treasury not otherwise appropriated, there is appropriated to carry out this section $60,000,000 for the period of fiscal years 2021 through 2023, to remain available until expended.
 
-(Pub. L. 116–260, div. N, title VII, §764, Dec. 27, 2020, 134 Stat. 2115.)
+(Pub. L. 116–260, div. N, title VII, §764, Dec. 27, 2020, 134 Stat. 2115; Pub. L. 117–103, div. A, title VII, §776, Mar. 15, 2022, 136 Stat. 99.)
 
 #### <b>Editorial Notes</b>
 
@@ -94,11 +94,15 @@ Of the funds of the Treasury not otherwise appropriated, there is appropriated t
 
 The Federal Meat Inspection Act, referred to in subsecs. (a)(1), (2)(A), and (d)(2)(A)(i), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, §11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
-The Poultry Products Inspection Act, referred to in subsecs. (a)(1), (2)(B), and (d)(2)(A)(i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
+The Poultry Products Inspection Act, referred to in subsecs. (a)(1), (2)(B), and (d)(2)(A)(i), is Pub. L. 85–172,Aug. 28, 1957, 71 Stat. 441, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Consolidated Appropriations Act, 2021, and not as part of the Poultry Products Inspection Act which comprises this chapter.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (d)(3)(B). Pub. L. 117–103 inserted "and fiscal year 2022" after "fiscal year 2021".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

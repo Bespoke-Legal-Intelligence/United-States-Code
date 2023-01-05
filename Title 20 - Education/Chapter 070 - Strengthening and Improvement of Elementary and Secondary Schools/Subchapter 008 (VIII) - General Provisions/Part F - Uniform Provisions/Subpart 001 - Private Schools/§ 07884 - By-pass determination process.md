@@ -6,7 +6,7 @@
 
 #### (A) Written objections
 
-&emsp;&emsp;The Secretary shall not take any final action under section 7882 of this title until the State educational agency, local educational agency, educational service agency, consortium of those agencies, or entity affected by the action has had an opportunity, for notless than 45 days after receiving written notice thereof, to submit written objections and to appear before the Secretary to show cause why that action should not be taken.
+&emsp;&emsp;The Secretary shall not take any final action under section 7882 of this title until the State educational agency, local educational agency, educational service agency, consortium of those agencies, or entity affected by the action has had an opportunity, for not less than 45 days after receiving written notice thereof, to submit written objections and to appear before the Secretary to show cause why that action should not be taken.
 
 #### (B) Prior to reduction
 

@@ -22,7 +22,7 @@ An eligible institution may, upon the request of a student, make payments to the
 
 &emsp;In the event of a major disaster, an eligible institution located in any area affected by such major disaster, as determined by the Secretary, may make payments under this part to disaster-affected students, for the period of time (not to exceed one academic year) in which the disaster-affected students were prevented from fulfilling the students' work-study obligations as described in paragraph (2)(A)(iii), as follows:
 
-&emsp;&emsp;(A) Payments may be made under this part to disaster-affected students in an amount equal to or less than the amount of wagessuch students would have been paid under this part had the students been able to complete the work obligation necessary to receive work study funds.
+&emsp;&emsp;(A) Payments may be made under this part to disaster-affected students in an amount equal to or less than the amount of wages such students would have been paid under this part had the students been able to complete the work obligation necessary to receive work study funds.
 
 &emsp;&emsp;(B) Payments shall not be made to any student who was not eligible for work study or was not completing the work obligation necessary to receive work study funds under this part prior to the occurrence of the major disaster.
 

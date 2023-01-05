@@ -54,7 +54,7 @@ Service Not Covered.—(1) A cost-of-living allowance may not be paid a member u
 
 (g)
 
-Average Spendable Income.—The Secretary of Defense shall determine, using a methodology and assumptions that the Secretary considers appropriate, the amounts of average spendable income of members of the uniformed services for various ranges of regular military compensation. For purposes of this subsection, spendable income is the total amount of regular military compensation that is available for purchase of goods and services after allocation of amounts for taxes, insurance, housing, gifts and contributions, and savings.
+Average Spendable Income.—The Secretary of Defense shall determine, using a methodology and assumptions that the Secretary considers appropriate, the amounts of averagespendable income of members of the uniformed services for various ranges of regular military compensation. For purposes of this subsection, spendable income is the total amount of regular military compensation that is available for purchase of goods and services after allocation of amounts for taxes, insurance, housing, gifts and contributions, and savings.
 
 (h)
 
@@ -115,6 +115,40 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### OCONUS Cost of Living Allowance: Adjustments; Notice to Certain Congressional Committees
+
+Pub. L. 117–263, div. A, title VI, §617, Dec. 23, 2022, 136 Stat. 2624, provided that:
+
+"(a)
+
+Adjustments.—
+
+&emsp;"(1)
+
+Reductions: limitation.—The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may reduce the cost-of-living allowance for a member of the Armed Forces assigned to a duty station located outside the United States—
+
+&emsp;&emsp;"(A) not more than once every six months; or
+
+&emsp;&emsp;"(B) in connection with a permanent change of station for such member.
+
+&emsp;"(2)
+
+Increases.—The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may increase the allowance described in paragraph (1) for a member of the Armed Forces at any time.
+
+"(b)
+
+Notice.—The Secretary of Defense shall notify the Committees on Armed Services of the Senate and House of Representatives not less than 180 days before modifying a table used to calculate the living allowance described in subsection (a).
+
+"(c)
+
+Briefing.—Not later than March 1, 2023, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a briefing containing—
+
+&emsp;"(1) the determination of the Secretary regarding the effects of this section on the allowance described in subsection (a);
+
+&emsp;"(2) an assessment of the representative market basket of goods and services used to determine such allowance, including the methodology to identify such market basket and the frequency with which such allowance is adjusted; and
+
+&emsp;"(3) the methodology and process by which surveys regarding such allowance are updated, including the average response rates and the efforts undertaken to ensure a representative sample of beneficiaries are surveyed."
 
 #### Conditions on Provision of Allowance
 

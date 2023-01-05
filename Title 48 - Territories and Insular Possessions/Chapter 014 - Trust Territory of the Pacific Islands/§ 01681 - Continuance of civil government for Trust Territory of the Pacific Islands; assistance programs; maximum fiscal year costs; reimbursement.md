@@ -1,6 +1,6 @@
 ### §1681. Continuance of civil government for Trust Territory of the Pacific Islands; assistance programs; maximum fiscal year costs; reimbursement
 
-(a) Until Congress shall further provide for the government of the Trust Territory of the Pacific Islands, all executive, legislative, and judicial authority necessary for the civil administrationof the Trust Territory shall continue to be vested in such person or persons and shall be exercised in such manner and through such agency or agencies as the President of the United States may direct or authorize.
+(a) Until Congress shall further provide for the government of the Trust Territory of the Pacific Islands, all executive, legislative, and judicial authority necessary for the civil administration of the Trust Territory shall continue to be vested in such person or persons and shall be exercised in such manner and through such agencyor agencies as the President of the United States may direct or authorize.
 
 (b) The head of any department, corporation, or other agency of the executive branch of the Government may, upon the request of the Secretary of the Interior, extend to the Trust Territory of the Pacific Islands, with or without reimbursement, scientific, technical, and other assistance under any program administered by such agency, or extend to the Trust Territory any Federal program administered by such agency, if the assistance or program will promote the welfare of the Trust Territory, notwithstanding any provision of law under which the Trust Territory may otherwise be ineligible for the assistance or program: <i>Provided</i>, That the Secretary of the Interior shall not request assistance pursuant to this subsection that involves, in the aggregate, an estimated nonreimbursable cost in any one fiscal year in excess of $150,000: <i>Provided further</i>, That the cost of any program extended to the Trust Territory under this subsection shall be reimbursable out of appropriations authorized and made for the government of the Trust Territory pursuant to section 2 of this Act, as amended. The provisions of this subsection shall not apply to financial assistance under a grant-in-aid program.
 
@@ -10,7 +10,7 @@
 
 #### References in Text
 
-Section 2 of this Act, as amended, referred to in subsec. (b), means section 2 of act June 30, 1954, set out as a note below.
+Section 2 of this Act, referred to in subsec. (b), means section 2 of act June 30, 1954, set out as a note below.
 
 #### Codification
 
@@ -42,7 +42,7 @@ Pub. L. 97–357, title II, §205, Oct. 19, 1982, 96 Stat. 1708, directed Secret
 
 #### Establishment of Permanent Location for Displaced People of Bikini Island; Progress Report to Congress; Contents
 
-Pub. L. 95–348, §2(c), Aug. 18, 1978, 92 Stat. 488, directed Secretary of the Interior to prepare and submit to Congress by July 1, 1979, a progress report on efforts to establish a permanent location for displaced people of Bikini Island.
+Pub. L. 95–348, §2(c), Aug. 18, 1978, 92 Stat. 488, directed Secretary of the Interior to prepare and submitto Congress by July 1, 1979, a progress report on efforts to establish a permanent location for displaced people of Bikini Island.
 
 #### Disaster Relief
 

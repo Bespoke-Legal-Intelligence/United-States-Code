@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;With respect to a demonstration project that is designed to accomplish 1 or more of the goals described in clause (i), the State may elect to establish a program—
 
-&emsp;&emsp;&emsp;&emsp;(I) to permit foster care maintenance payments to be made under part E ofsubchapter IV to a long-term therapeutic family treatment center (as described in paragraph (8)(B)) on behalf of a child residing in the center; or
+&emsp;&emsp;&emsp;&emsp;(I) to permit foster care maintenance payments to be made under part E of subchapter IV to a long-term therapeutic family treatment center (as described in paragraph (8)(B)) on behalf of a child residing in the center; or
 
 &emsp;&emsp;&emsp;&emsp;(II) to identify and address domestic violence that endangers children and results in the placement of children in foster care.
 

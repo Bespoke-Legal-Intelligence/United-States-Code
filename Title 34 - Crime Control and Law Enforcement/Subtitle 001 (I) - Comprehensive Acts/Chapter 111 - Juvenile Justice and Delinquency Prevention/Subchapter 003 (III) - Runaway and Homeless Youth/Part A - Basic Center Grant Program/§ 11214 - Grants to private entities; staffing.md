@@ -14,7 +14,7 @@ Section was formerly classified to section 5714 of Title 42, The Public Health a
 
 A prior section 314 of Pub. L. 93–415 was classified to section 5712b of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 102–586.
 
-Section 315 of title III of Pub. L. 93–415, as added Pub. L. 100–690, title VII, §7277, Nov. 18, 1988, 102 Stat. 4457, related to authority of the Secretary to make grantsfor research, demonstration, and service projects, and was classified to section 5712c of Title 42, prior to repeal by Pub. L. 102–586.
+Section 315 of title III of Pub. L. 93–415, as added Pub. L. 100–690, title VII, §7277, Nov. 18, 1988, 102 Stat. 4457, related to authority of the Secretary to make grants for research, demonstration, and service projects, and was classified to section 5712c of Title 42, prior to repeal by Pub. L. 102–586.
 
 Section 316 of title III of Pub. L. 93–415, as added Pub. L. 103–322, title IV, §40155, Sept. 13, 1994, 108 Stat. 1922, related to grants for prevention of sexual abuse and exploitation, and was classified to section 5712d of Title 42, prior to repeal by Pub. L. 109–162.
 

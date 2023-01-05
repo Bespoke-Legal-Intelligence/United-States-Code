@@ -4,7 +4,7 @@ In furtherance of the findings and policy stated in section 101912 of this title
 
 &emsp;(1)
 
-Competitive selection process.—Except as otherwise provided in this section, all proposed concession contracts shall be awarded by the Secretary to the person, corporation, or other entity submitting the best proposal, as determined by the Secretary through a competitive selection process. The competitiveprocess shall include simplified procedures for small, individually-owned entities seeking award of a concession contract.
+Competitive selection process.—Except as otherwise provided in this section, all proposed concession contracts shall be awarded by the Secretary to the person, corporation, or other entity submitting the best proposal, as determined by the Secretary through a competitive selection process. The competitive process shall include simplified procedures for small, individually-owned entities seeking award of a concession contract.
 
 &emsp;(2)
 
@@ -92,7 +92,7 @@ Secondary factors.—The Secretary may also consider such secondary factors as t
 
 &emsp;&emsp;(C)
 
-Development of regulations.—In developing regulations to implement this subchapter, the Secretary shall consider the extent to which plans for employment of Indians (including Native Alaskans) and involvement of businesses owned by Indians, Indiantribes, or Native Alaskans in the operation of a concession contract should be identified as a factor in the selection of a best proposal under this section.
+Development of regulations.—In developing regulations to implement this subchapter, the Secretary shall consider the extent to which plans for employment of Indians (including Native Alaskans) and involvement of businesses owned by Indians, Indian tribes, or Native Alaskans in the operation of a concession contract should be identified as a factor in the selection of a best proposal under this section.
 
 &emsp;(6)
 
@@ -162,7 +162,7 @@ Contract with estimated gross receipts of less than $500,000.—A concessioner t
 
 &emsp;(9)
 
-New or additional services.—The Secretary may propose to amend the applicable terms of an existing concessions contract to provide new and additional services where the Secretary determines the services are necessary and appropriate for public use and enjoyment of the unit of the National Park System in which they are located and are consistent to the highest practicable degree with the preservation and conservation of the resources and values of the unit. Such new and additional services shall not represent a material change to the required and authorized services as set forth in the applicable prospectus or contract.
+New or additional services.—The Secretary may propose to amend the applicableterms of an existing concessions contract to provide new and additional services where the Secretary determines the services are necessary and appropriate for public use and enjoyment of the unit of the National Park System in which they are located and are consistent to the highest practicable degree with the preservation and conservation of the resources and values of the unit. Such new and additional services shall not represent a material change to the required and authorized services as set forth in the applicable prospectus or contract.
 
 &emsp;(10)
 

@@ -8,7 +8,7 @@ The lakeshore shall be administered, protected, and developed in accordance with
 
 Notwithstanding subsection (c) of section 460w of this title—
 
-&emsp;(1) the Secretary of the department in which the Coast Guard is operating may operate, maintain, keep, locate, inspect, repair, and replace any Federal aid to navigation located at the Ashland Harbor Breakwater Light for as long as such aid is needed for navigational purposes; and
+&emsp;(1) the Secretary of the department in which the Coast Guard is operating may operate, maintain, keep, locate, inspect, repair, and replace any Federal aid to navigation located atthe Ashland Harbor Breakwater Light for as long as such aid is needed for navigational purposes; and
 
 &emsp;(2) in carrying out the activities described in paragraph (1), such Secretary may enter, at any time, the Ashland Harbor Breakwater Light or any Federal aid to navigation at the Ashland Harbor Breakwater Light, for as long as such aid is needed for navigational purposes, without notice to the extent that it is not possible to provide advance notice.
 

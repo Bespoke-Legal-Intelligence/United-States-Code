@@ -14,7 +14,7 @@
 
 &emsp;(2) such other method as is provided by law.
 
-> The head of the agency concerned may waive in whole or in part a right of recovery of an advance of funds under subsection (a) of this section, if it is shown that the recovery would beagainst equity and good conscience or against the public interest.
+> The head of the agency concerned may waive in whole or in part a right of recovery of an advance of funds under subsection (a) of this section, if it is shown that the recovery would be against equity and good conscience or against the public interest.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 480; Pub. L. 96–465, title II §2303(a), (b), Oct. 17, 1980, 94 Stat. 2164, 2165.)
 
@@ -38,7 +38,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2303(a), substituted "departure" for "evacuation", substituted "is officially authorized or ordered" for "is ordered for military or other reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family", and added pars. (1) and (2).
+<b>1980</b>—Subsec. (a). Pub. L. 96–465, §2303(a), substituted "departure" for "evacuation", substituted "is officially authorized or ordered" for "is ordered for military orother reasons which create imminent danger to the life or lives of the employee or of his dependents or immediate family", and added pars. (1) and (2).
 
 Subsec. (b). Pub. L. 96–465, §2303(b), substituted "departure" for "evacuation" after "issuance of the".
 

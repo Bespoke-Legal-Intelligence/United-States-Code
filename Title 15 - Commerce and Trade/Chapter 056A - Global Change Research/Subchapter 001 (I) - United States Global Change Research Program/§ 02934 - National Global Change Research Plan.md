@@ -40,7 +40,7 @@ The Plan shall provide for, but not be limited to, the following research elemen
 
 &emsp;(3) Studies of earlier changes in the Earth system, using evidence from the geological and fossil record.
 
-&emsp;(4) Predictions, using quantitative models of the Earth system to identify and simulateglobal environmental processes and trends, and the regional implications of such processes and trends.
+&emsp;(4) Predictions, using quantitative models of the Earth system to identify and simulate global environmental processes and trends, and the regional implications of such processes and trends.
 
 &emsp;(5) Focused research initiatives to understand the nature of and interaction among physical, chemical, biological, and social processes related to global change.
 

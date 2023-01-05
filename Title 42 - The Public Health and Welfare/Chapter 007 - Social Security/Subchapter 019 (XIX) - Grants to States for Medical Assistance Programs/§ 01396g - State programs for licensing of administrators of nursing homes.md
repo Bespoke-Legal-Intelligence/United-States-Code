@@ -16,7 +16,7 @@ It shall be the function and duty of such agency or board to—
 
 &emsp;(2) develop and apply appropriate techniques, including examinations and investigations, for determining whether an individual meets such standards;
 
-&emsp;(3) issue licenses to individuals determined, after the application of such techniques, to meet such standards, and revoke or suspend licenses previously issued by the board in any case where the individual holding any such license is determined substantially to havefailed to conform to the requirements of such standards;
+&emsp;(3) issue licenses to individuals determined, after the application of such techniques, to meet such standards, and revoke or suspend licenses previously issued by the board in any case where the individual holding any such license is determined substantially to have failed to conform to the requirements of such standards;
 
 &emsp;(4) establish and carry out procedures designed to insure that individuals licensed as nursing home administrators will, during any period that they serve as such, comply with the requirements of such standards;
 

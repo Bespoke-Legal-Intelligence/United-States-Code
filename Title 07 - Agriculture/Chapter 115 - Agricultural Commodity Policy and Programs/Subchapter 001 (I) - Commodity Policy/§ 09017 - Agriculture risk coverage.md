@@ -186,7 +186,7 @@ In providing agriculture risk coverage, the Secretary shall—
 
 #### (3) Data sources for county yields
 
-&emsp;For the 2018 crop year and each crop year thereafter, the Secretary shall make publicly available information describing, for the most recent crop year—
+&emsp;For the 2018 crop year and each crop year thereafter, the Secretary shall make publiclyavailable information describing, for the most recent crop year—
 
 &emsp;&emsp;(A) the sources of data used to calculate county yields under subsection (c)(2)(A) for each covered commodity—
 
@@ -236,7 +236,7 @@ The Federal Crop Insurance Act, referred to in subsec. (c)(5), is subtitle A of 
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–334, §1107(1), in introductory provisions, inserted "(beginning with the 2019 cropyear, based on the physical location of the farm)" after "payments" and "or the 2019 through 2023 crop years, as applicable" after "the 2014 through 2018 crop years".
+<b>2018</b>—Subsec. (a). Pub. L. 115–334, §1107(1), in introductory provisions, inserted "(beginning with the 2019 crop year, based on the physical location of the farm)" after "payments" and "or the 2019 through 2023 crop years, as applicable" after "the 2014 through 2018 crop years".
 
 Subsec. (c)(2)(A). Pub. L. 115–334, §1107(2)(A)(i), substituted "paragraphs (4) and (5)" for "paragraph (4)".
 

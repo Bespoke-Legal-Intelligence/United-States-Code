@@ -14,7 +14,7 @@ As used in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "certifying agent" means the chief executive officer of a State or, in the case of a State that provides for the Statewide election of an official to be responsible solely for the administration of the agricultural operations of the State, such official, and any person (including private entities) who is accredited by the Secretary as a certifying agent for the purpose of certifying a farm or handling operation as a certified organic farm or handling operation in accordance with this chapter.
+&emsp;&emsp;The term "certifying agent" means the chief executive officer of a State or, in thecase of a State that provides for the Statewide election of an official to be responsible solely for the administration of the agricultural operations of the State, such official, and any person (including private entities) who is accredited by the Secretary as a certifying agent for the purpose of certifying a farm or handling operation as a certified organic farm or handling operation in accordance with this chapter.
 
 #### (B) Foreign operations
 

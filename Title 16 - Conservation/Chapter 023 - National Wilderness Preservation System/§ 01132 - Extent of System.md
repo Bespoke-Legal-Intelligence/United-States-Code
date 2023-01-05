@@ -22,7 +22,7 @@ Within ten years after September 3, 1964 the Secretary of the Interior shall rev
 
 &emsp;(A) give such public notice of the proposed action as they deem appropriate, including publication in the Federal Register and in a newspaper having general circulation in the area or areas in the vicinity of the affected land;
 
-&emsp;(B) hold a public hearing or hearings at a location or locations convenient to the area affected. The hearings shall be announcedthrough such means as the respective Secretaries involved deem appropriate, including notices in the Federal Register and in newspapers of general circulation in the area: <i>Provided</i>, That if the lands involved are located in more than one State, at least one hearing shall be held in each State in which a portion of the land lies;
+&emsp;(B) hold a public hearing or hearings at a location or locations convenient to the area affected. The hearings shall be announced through such means as the respective Secretaries involved deem appropriate, including notices in the Federal Register and in newspapers of general circulation in the area: <i>Provided</i>, That if the lands involved are located in more than one State, at least one hearing shall be held in each State in which a portion of the land lies;
 
 &emsp;(C) at least thirty days before the date of a hearing advise the Governor of each State and the governing board of each county, or in Alaska the borough, in which the lands are located, and Federal departments and agencies concerned, and invite such officials and Federal agencies to submit their views on the proposed action at the hearing or by no later than thirty days following the date of the hearing.
 
@@ -278,6 +278,8 @@ Cadiz Dunes Wilderness, California Desert Conservation Area, of Bureau of Land M
 
 Cahuilla Mountain Wilderness, San Bernardino National Forest, California.—Pub. L. 111–11, title I, §1851(b)(1)(B), Mar. 30, 2009, 123 Stat. 1062.
 
+Cain Mountain Wilderness, Nevada.—Pub. L. 117–263, div. B, title XXIX, §§2905(b)(1)(C), 2932(a)(1), Dec. 23, 2022, 136 Stat. 3040, 3048.
+
 Calico Mountains Wilderness, Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area, Nevada.—Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§8(a)(8)\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–357; Pub. L. 107–63, title I, §135(a), Nov. 5, 2001, 115 Stat. 443.
 
 Canaan Mountain Wilderness, Washington County, Utah.—Pub. L. 111–11, title I, §1972(a)(1)(C), Mar. 30, 2009, 123 Stat. 1076.
@@ -351,6 +353,8 @@ Cinder Cone Wilderness, Doña Ana County, New Mexico.—Pub. L. 116–9, title I
 Citico Creek Wilderness, Cherokee National Forest, Tennessee.—Pub. L. 98–578, §2(2), Oct. 30, 1984, 98 Stat. 3088.
 
 Clackamas Wilderness, Oregon.—Pub. L. 111–11, title I, §1202(a)(3), Mar. 30, 2009, 123 Stat. 1008.
+
+Clan Alpine Mountains Wilderness, Nevada.—Pub. L. 117–263, div. B, title XXIX, §2905(b)(1)(A), Dec. 23, 2022, 136 Stat. 3040.
 
 Clear Springs Wilderness, Shawnee National Forest, Illinois.—Pub. L. 101–633, §3(4), Nov. 28, 1990, 104 Stat. 4577.
 
@@ -434,7 +438,9 @@ Delirium Wilderness, Hiawatha National Forest, Michigan.—Pub. L. 100–184, §
 
 Denali Wilderness, Denali National Park and Preserve, Alaska.—Pub. L. 96–487, title VII, §701(1), Dec. 2, 1980, 94 Stat. 2417; Pub. L. 110–229, title III, §351, May 8, 2008, 122 Stat. 800.
 
-Deseret Peak Wilderness, Wasatch National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(12), Sept. 28, 1984, 98 Stat. 1658.
+Desatoya Mountains Wilderness, Nevada.—Pub. L. 117–263, div. B, title XXIX, §§2905(b)(1)(B), 2932(a)(2), Dec. 23, 2022, 136 Stat. 3040, 3048.
+
+Deseret Peak Wilderness, Wasatch National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(12), Sept. 28, 1984, 98 Stat. 1658; Pub. L. 117–328, div. DD, title III, §303(a)(2), Dec. 29, 2022, 136 Stat. 5589.
 
 Desolation Canyon Wilderness, Utah.—Pub. L. 116–9, title I, §1231(a)(3), Mar. 12, 2019, 133 Stat. 671.
 
@@ -858,7 +864,7 @@ Little Wilson Creek Wilderness, Jefferson National Forest, Virginia.—Pub. L. 9
 
 Lizard Head Wilderness, San Juan and Uncompahgre National Forests, Colorado.—Pub. L. 96–560, title I, §102(a)(7), Dec. 22, 1980, 94 Stat. 3266; Pub. L. 116–9, title I, §1106, Mar. 12, 2019, 133 Stat. 607.
 
-Lone Peak Wilderness, Wasatch and Uinta National Forests, Utah.—Pub. L. 95–237, §2(i), Feb. 24, 1978, 92 Stat. 42.
+Lone Peak Wilderness, Wasatch and Uinta National Forests, Utah.—Pub. L. 95–237, §2(i), (<i>l</i>), Feb. 24, 1978, 92 Stat. 42; Pub. L. 117–328, div. DD, title III, §303(b)(4)(A)(iii), Dec. 29, 2022, 136 Stat. 5590.
 
 Lost Creek Wilderness, Pike National Forest, Colorado.—Pub. L. 96–560, title I, §102(a)(8), Dec. 22, 1980, 94 Stat. 3266; Pub. L. 103–77, §2(a)(8), Aug. 13, 1993, 107 Stat. 757.
 
@@ -980,13 +986,13 @@ Mount Massive Wilderness, San Isabel National Forest, Colorado.—Pub. L. 96–5
 
 Mt. Moriah Wilderness, Humboldt National Forest, Nevada.—Pub. L. 101–195, §2(13), Dec. 5, 1989, 103 Stat. 1785; Pub. L. 109–432, div. C, title III, §323(a)(1), (e), Dec. 20, 2006, 120 Stat. 3031, 3033; Pub. L. 116–9, title I, §1116(f)(1), Mar. 12, 2019, 133 Stat. 623.
 
-Mount Naomi Wilderness, Wasatch-Cache National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(1), Sept. 28, 1984, 98 Stat. 1657; Pub. L. 105–355, title V, §503, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 108–95, Oct. 3, 2003, 117 Stat. 1165.
+Mount Naomi Wilderness, Wasatch-Cache National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(1), (c), Sept. 28, 1984, 98 Stat. 1657; Pub. L. 105–355, title V, §503, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 108–95, Oct. 3, 2003, 117 Stat. 1165; Pub. L. 117–328, div. DD, title III, §303(b)(1)(A), Dec. 29, 2022, 136 Stat. 5589.
 
 Mount Nebo Wilderness, Uinta National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(7), Sept. 28, 1984, 98 Stat. 1658; Pub. L. 107–334, Dec. 16, 2002, 116 Stat. 2876.
 
 Mount Nutt Wilderness, Mohave County, Arizona.—Pub. L. 101–628, title I, §101(a)(3), Nov. 28, 1990, 104 Stat. 4469.
 
-Mount Olympus Wilderness, Wasatch-Cache National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(3), Sept. 28, 1984, 98 Stat. 1658.
+Mount Olympus Wilderness, Wasatch-Cache National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(3), (13), (d), Sept. 28, 1984, 98 Stat. 1658; Pub. L. 117–328, div. DD, title III, §303(a)(3), (b)(2)(A), Dec. 29, 2022, 136 Stat. 5589, 5590.
 
 Mount Rainier Wilderness, Mount Rainier National Park, Washington.—Pub. L. 100–668, title III, §301, Nov. 16, 1988, 102 Stat. 3965.
 
@@ -1158,7 +1164,7 @@ Pine Forest Range Wilderness, Humboldt County, Nevada.—Pub. L. 113–291, div.
 
 Pine Mountain Wilderness, Prescott and Tonto National Forests, Arizona.—Pub. L. 92–230, Feb. 15, 1972, 86 Stat. 38.
 
-Pine Valley Mountain Wilderness, Dixie National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(11), Sept. 28, 1984, 98 Stat. 1658.
+Pine Valley Mountain Wilderness, Dixie National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(11), Sept. 28, 1984, 98 Stat. 1658; Pub. L. 117–328, div. DD, title III, §303(a)(1), Dec. 29, 2022, 136 Stat. 5589.
 
 Piney Creek Wilderness, Mark Twain National Forest, Missouri.—Pub. L. 96–560, title II, §201(c), Dec. 22, 1980, 94 Stat. 3273.
 
@@ -1344,7 +1350,7 @@ Santa Teresa Wilderness, Coronado National Forest, Arizona.—Pub. L. 98–406, 
 
 Sarvis Creek Wilderness, Routt National Forest, Colorado.—Pub. L. 103–77, §2(a)(11), Aug. 13, 1993, 107 Stat. 757.
 
-Savage Run Wilderness, Medicine Bow National Forest, Wyoming.—Pub. L. 95–237, §2(j), Feb. 24, 1978, 92 Stat. 42.
+Savage Run Wilderness, Medicine Bow National Forest, Wyoming.—Pub. L. 95–237, §2(j), Feb. 24, 1978, 92 Stat. 42; Pub. L. 117–328, div. DD, title III, §303(b)(4)(A)(i), Dec. 29, 2022, 136 Stat. 5590.
 
 Sawtooth Mountains Wilderness, California Desert District, of Bureau of Land Management, California.—Pub. L. 103–433, title I, §102(60), Oct. 31, 1994, 108 Stat. 4480.
 
@@ -1536,7 +1542,7 @@ Turtle Mountains Wilderness, California Desert Conservation Area, of Bureau of L
 
 Tuxedni Wilderness, Tuxedni National Wildlife Refuge, Alaska.—Pub. L. 91–504, §1(a), Oct. 23, 1970, 84 Stat. 1104.
 
-Twin Peaks Wilderness, Wasatch-Cache National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(4), Sept. 28, 1984, 98 Stat. 1658.
+Twin Peaks Wilderness, Wasatch-Cache National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(4), (e), Sept. 28, 1984, 98 Stat. 1658; Pub. L. 117–328, div. DD, title III, §303(b)(3)(A), Dec. 29, 2022, 136 Stat. 5590.
 
 UL Bend Wilderness, UL Bend National Wildlife Refuge, Montana.—Pub. L. 94–557, §1(m), Oct. 19, 1976, 90 Stat. 2634; Pub. L. 98–140, §3(e), Oct. 31, 1983, 97 Stat. 903.
 
@@ -1580,7 +1586,7 @@ Wee Thump Joshua Tree Wilderness, of Bureau of Land Management, Nevada.—Pub. L
 
 Weepah Spring Wilderness, of Bureau of Land Management, Nevada.—Pub. L. 108–424, title II, §203(a)(7), Nov. 30, 2004, 118 Stat. 2407.
 
-Welcome Creek Wilderness, Lolo National Forest, Montana.—Pub. L. 95–237, §2(k), Feb. 24, 1978, 92 Stat. 43.
+Welcome Creek Wilderness, Lolo National Forest, Montana.—Pub. L. 95–237, §2(k), Feb. 24, 1978, 92 Stat. 43; Pub. L. 117–328, div. DD, title III, §303(b)(4)(A)(ii), Dec. 29, 2022, 136 Stat. 5590.
 
 Wellsville Mountain Wilderness, Wasatch-Cache National Forest, Utah.—Pub. L. 98–428, title I, §102(a)(2), Sept. 28, 1984, 98 Stat. 1658.
 

@@ -2,37 +2,67 @@
 
 (a)
 
-Designation.—The Secretary of Transportation may designate as a center of excellence for domestic maritime workforce training and education a covered training entity located in a State that borders on the—
-
-&emsp;(1) Gulf of Mexico;
-
-&emsp;(2) Atlantic Ocean;
-
-&emsp;(3) Long Island Sound;
-
-&emsp;(4) Pacific Ocean;
-
-&emsp;(5) Great Lakes;
-
-&emsp;(6) Mississippi River System;
-
-&emsp;(7) Arctic; or
-
-&emsp;(8) Gulf of Alaska.
+Designation.—The Secretary of Transportation may designate as a center of excellence for domestic maritime workforce training and education an entity which is a covered training entity.
 
 (b)
 
-Assistance.—The Secretary may enter into a cooperative agreement (as that term is used in section 6305 of title 31) with a center of excellence designated under subsection (a) to support maritime workforce training and education at the center of excellence, including efforts of the center of excellence to—
+Grant Program.—
 
-&emsp;(1) admit additional students;
+&emsp;(1)
 
-&emsp;(2) recruit and train faculty;
+In general.—The Secretary may award a maritime career training grant to a center of excellence designated under subsection (a) for the purpose of developing, offering, or improving career and technical education or training programs related to the United States maritime industry for United States workers.
 
-&emsp;(3) expand facilities;
+&emsp;(2)
 
-&emsp;(4) create new maritime career pathways; or
+Grant proposal.—To be eligible to receive a grant under this subsection, a center of excellence designated under subsection (a) shall submit to the Secretary a grant proposal that includes a detailed description of—
 
-&emsp;(5) award students credit for prior experience, including military service.
+&emsp;&emsp;(A) the specific project proposed to be funded by the grant, including a description of the manner in which the grant will be used to develop, offer, or improve a career and technical education or training program that is suited to United States maritime industry workers;
+
+&emsp;&emsp;(B) the extent to which the project for which the grant proposal is submitted will meet the educational or career training needs of United States maritime industry workers;
+
+&emsp;&emsp;(C) any previous experience of the center of excellence in providing United States maritime industry career and technical education or training programs;
+
+&emsp;&emsp;(D) how the project proposed to be funded by the grant would address shortcomings in existing educational or career training opportunities available to United States maritime industry workers; and
+
+&emsp;&emsp;(E) the extent to which employers, including small and medium-sized firms, have demonstrated a commitment to employing United States maritime industry workers who would benefit from the project for which the grant proposal is submitted.
+
+&emsp;(3)
+
+Criteria for award of grants.—Subject to the appropriation of funds to carry out this section, the Secretary shall award grants under this subsection to centers of excellence based on—
+
+&emsp;&emsp;(A) an determination of the merits of a grant proposal submitted under paragraph (2) to develop, offer, or improve career and technical education or training programs to be made available to United States maritime industry workers;
+
+&emsp;&emsp;(B) an evaluation of the likely employment opportunities available to United States maritime industry workers who complete a maritime career and technical education or training program that a center proposes to develop, offer, or improve; and
+
+&emsp;&emsp;(C) an evaluation of prior demand for training programs by workers served by centers of excellence designated under subsection (a), as well as the availability and capacity of existing maritime training programs to meet future demand for training programs.
+
+&emsp;(4)
+
+Competitive awards.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall award grants under this subsection to centers of excellence designated under subsection (a) on a competitive basis.
+
+&emsp;&emsp;(B)
+
+Timing of grant notice.—The Secretary shall post a Notice of Funding Opportunity regarding grants awarded under this subsection not more than 90 days after the date of the enactment of the appropriations Act for the fiscal year concerned.
+
+&emsp;&emsp;(C)
+
+Timing of grants.—The Secretary shall award grants under this subsection not later than 270 days after the date of the enactment of the appropriations Act for the fiscal year concerned.
+
+&emsp;&emsp;(D)
+
+Reuse of unexpended grant funds.—Notwithstanding subparagraph (C), amounts awarded as a grant under this subsection that are not expended by the grantee shall remain available to the Secretary for use for grants under this subsection.
+
+&emsp;&emsp;(E)
+
+Administrative costs.—Not more than 3 percent of amounts made available to carry out this subsection may be used for the necessary costs of grant administration.
+
+&emsp;&emsp;(F)
+
+Prohibited use.—A center of excellence designated under subsection (a) that has received funds awarded under section 54101(a)(2) for training purposes for a fiscal year shall not be eligible for grants under this subsection during the same fiscal year.
 
 (c)
 
@@ -40,29 +70,99 @@ Definitions.—In this section,
 
 &emsp;(1)
 
-Covered training entity.—the term "covered training entity" means an entity that is—
+Covered training entity.—The term "covered training entity" means an entity that—
 
-&emsp;&emsp;(A) a community or technical college; or
+&emsp;&emsp;(A) is located in a State that borders on the—
 
-&emsp;&emsp;(B) a maritime training center—
+&emsp;&emsp;&emsp;(i) Gulf of Mexico;
 
-&emsp;&emsp;&emsp;(i) operated by, or under the supervision of, a State; and
+&emsp;&emsp;&emsp;(ii) Atlantic Ocean;
 
-&emsp;&emsp;&emsp;(ii) with a maritime training program in operation on the date of enactment of this section.
+&emsp;&emsp;&emsp;(iii) Long Island Sound;
+
+&emsp;&emsp;&emsp;(iv) Pacific Ocean;
+
+&emsp;&emsp;&emsp;(v) Great Lakes; or
+
+&emsp;&emsp;&emsp;(vi) Mississippi River System;
+
+&emsp;&emsp;(B) is—
+
+&emsp;&emsp;&emsp;(i) a postsecondary educational institution (as such term is defined in section 3(39) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302));
+
+&emsp;&emsp;&emsp;(ii) a postsecondary vocational institution (as such term is defined in section102(c) of the Higher Education Act of 1965 (20 U.S.C. 1002(c)); <sup>1</sup>
+
+&emsp;&emsp;&emsp;(iii) a public or private nonprofit entity that offers one or more other structured experiential learning training programs for United States workers in the United States maritime industry, including a program that is offered by a labor organization or conducted in partnership with a nonprofit organization or one or more employers in the United States maritime industry;
+
+&emsp;&emsp;&emsp;(iv) an entity sponsoring an apprenticeship program registered with the Office of Apprenticeship of the Employment and Training Administration of the Department of Labor or a State apprenticeship agency recognized by the Office of Apprenticeship pursuant to the Act of August 16, 1937 (commonly known as the 'National Apprenticeship Act'; 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.); or
+
+&emsp;&emsp;&emsp;(v) a maritime training center designated prior to the date of enactment of the National Defense Authorization Act for Fiscal Year 2023; and
+
+&emsp;&emsp;(C) has a demonstrated record of success in maritime workforce training and education.
 
 &emsp;(2)
 
 Arctic.—The term "Arctic" has the meaning that term has under section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111).
 
-(Added Pub. L. 115–91, div. C, title XXXV, §3507(a), Dec. 12, 2017, 131 Stat. 1914, §54102; renumbered §51706, Pub. L. 116–283, div. C, title XXXV, §3507(a), Jan. 1, 2021, 134 Stat. 4405.)
+&emsp;(3)
+
+Career and technical education.—The term "career and technical education" has the meaning given such term in section 3(5) of the Carl D. Perkins Career and Technical Education Act <sup>2</sup> (20 U.S.C. 2302).
+
+&emsp;(4)
+
+Secretary.—The term "Secretary" means the Secretary of Transportation.
+
+&emsp;(5)
+
+Training program.—The term "training program" means a program that provides training services, as described in section 134(c)(3)(D) of the Workforce Innovation and Opportunity Act (Public Law 113–128; 29 U.S.C. 3174).
+
+&emsp;(6)
+
+United states maritime industry.—The term "United States maritime industry" means the design, construction, repair, operation, manning, and supply of vessels in all segments of the maritime transportation system of the United States, including—
+
+&emsp;&emsp;(A) the domestic and foreign trade;
+
+&emsp;&emsp;(B) the coastal, offshore, and inland trade;
+
+&emsp;&emsp;(C) non-commercial maritime activities, including—
+
+&emsp;&emsp;&emsp;(i) recreational boating; and
+
+&emsp;&emsp;&emsp;(ii) oceanographic and limnological research as described in section 2101(24).
+
+(Added Pub. L. 115–91, div. C, title XXXV, §3507(a), Dec. 12, 2017, 131 Stat. 1914, §54102; renumbered §51706, Pub. L. 116–283, div. C, title XXXV, §3507(a), Jan. 1, 2021, 134 Stat. 4405; amended Pub. L. 117–263, div. C, title XXXV, §3532(a), Dec. 23, 2022, 136 Stat. 3089.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The date of enactment of this section, referred to in subsec. (c)(1)(B)(ii), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
+The date of enactment of the National Defense Authorization Act for Fiscal Year 2023, referred to in subsec. (c)(1)(B)(v), is the date of enactment of Pub. L. 117–263, also known as the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, which was approved Dec. 23, 2022.
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a). Pub. L. 117–263, §3532(a)(1), added subsec. (a) and struck out former subsec. (a) which related to designation.
+
+Subsec. (b). Pub. L. 117–263, §3532(a)(2), added subsec. (b) and struck out former subsec. (b) which related to assistance.
+
+Subsec. (c)(1). Pub. L. 117–263, §3532(a)(3)(A), added par. (1) and struck out former par. (1) which defined "covered training entity" in this section.
+
+Subsec. (c)(3) to (6). Pub. L. 117–263, §3532(a)(3)(B), added pars. (3) to (6).
+
 <b>2021</b>—Pub. L. 116–283 renumbered section 54102 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Guidelines
+
+Pub. L. 117–263, div. C, title XXXV, §3532(c), Dec. 23, 2022, 136 Stat. 3092, provided that:
+
+"Not later than one year after the date of enactment of this Act \[Dec. 23, 2022\], the Secretary of Transportation shall—
+
+&emsp;"(1) prescribe guidelines for the submission of grant proposals under section 51706(b) of title 46, United States Code, as amended by subsection (a); and
+
+&emsp;"(2) publish and maintain such guidelines on the website of the Department of Transportation."
+
+<i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the semicolon.</i>
+
+<i><sup>2</sup></i><i> The words "of 2006" probably should appear. See subsec. (c)(1)(B)(i).</i>
 

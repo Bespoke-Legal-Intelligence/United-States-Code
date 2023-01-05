@@ -64,7 +64,7 @@ Death during commission of another crime.—The death, or injury resulting in de
 
 &emsp;(2)
 
-Previous conviction of violent felony involving firearm.—For any offense, other than an offense for which a sentence of death is sought on the basis of section 924(c), the defendant has previously been convicted of a Federal or State offense punishable by a term of imprisonment of more than 1 year, involving the use or attempted or threatened use of a firearm (as defined in section 921) against another person.
+Previous conviction of violent felony involving firearm.—For any offense, other than an offense for which a sentence of death is sought on the basis of section 924(c), the defendant has previously been convicted of a Federal or State offense punishable by a termof imprisonment of more than 1 year, involving the use or attempted or threatened use of a firearm (as defined in section 921) against another person.
 
 &emsp;(3)
 
@@ -114,7 +114,7 @@ Continuing criminal enterprise involving drug sales to minors.—The defendant c
 
 High public officials.—The defendant committed the offense against—
 
-&emsp;&emsp;(A) the President of the United States, the President-elect, the Vice President, the Vice President-elect, the Vice President-designate, or, if there is no Vice President, theofficer next in order of succession to the office of the President of the United States, or any person who is acting as President under the Constitution and laws of the United States;
+&emsp;&emsp;(A) the President of the United States, the President-elect, the Vice President, the Vice President-elect, the Vice President-designate, or, if there is no Vice President, the officer next in order of succession to the office of the President of the United States, or any person who is acting as President under the Constitution and laws of the United States;
 
 &emsp;&emsp;(B) a chief of state, head of government, or the political equivalent, of a foreign nation;
 
@@ -150,7 +150,7 @@ Previous conviction of offense for which a sentence of death or life imprisonmen
 
 &emsp;(2)
 
-Previous conviction of other serious offenses.—The defendant has previously been convicted of two or more Federal or State offenses, each punishable by a term of imprisonment of more than one year, committed on different occasions, involving the importation, manufacture, or distribution of a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)) or the infliction of, or attempted infliction of, serious bodily injury or death upon another person.
+Previous conviction of other serious offenses.—The defendant has previously been convicted of two or more Federal or State offenses, each punishable by a term of imprisonment of more than one year, committed on different occasions, involving the importation, manufacture, or distribution of a controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)) or theinfliction of, or attempted infliction of, serious bodily injury or death upon another person.
 
 &emsp;(3)
 

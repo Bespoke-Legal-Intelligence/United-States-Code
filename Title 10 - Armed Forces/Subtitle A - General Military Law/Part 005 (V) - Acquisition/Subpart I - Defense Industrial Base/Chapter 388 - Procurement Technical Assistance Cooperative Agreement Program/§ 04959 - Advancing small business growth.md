@@ -46,7 +46,7 @@ Pub. L. 117–81, div. A, title XVII, §1701(m)(2)(G), Dec. 27, 2021, 135 Stat. 
 
 <b>2021</b>—Pub. L. 116–283, §1872(a)(10), as amended by Pub. L. 117–81, §1701(b)(24), (m)(2)(F), renumbered section 2419 of this title as this section.
 
-<b>2019</b>—Subsec. (a)(1). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment"for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+<b>2019</b>—Subsec. (a)(1). Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

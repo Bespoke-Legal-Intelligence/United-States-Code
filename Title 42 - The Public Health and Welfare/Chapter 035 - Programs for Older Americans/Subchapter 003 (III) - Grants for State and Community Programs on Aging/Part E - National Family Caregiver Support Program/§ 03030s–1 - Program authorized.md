@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Assistant Secretary shall carry out a program for making grants to States with State plans approved under section 3027 of this title, to pay for the Federal share of the cost of carrying out State programs, to enable area agencies on aging, or entities that such area agencies on aging contract with, to provide multifaceted systems of support services—
+The Assistant Secretary shall carry out a program for making grants to States with State plans approved under section 3027 of this title, to pay for the Federal share of the cost of carrying out State programs, to enable area agencies on aging, or entities that such area agencies onaging contract with, to provide multifaceted systems of support services—
 
 &emsp;(1) for family caregivers; and
 
@@ -56,7 +56,7 @@ Not later than 1 year after March 25, 2020, and every 5 years thereafter, the As
 
 &emsp;&emsp;(C) any other issue determined relevant by the Assistant Secretary; and
 
-&emsp;(2) make available, including on the website of the Administration and pursuant to section 3012(a)(34) of this title, best practices describedin paragraph (1), to carry out the programs under this section and section 3057k–11 of this title.
+&emsp;(2) make available, including on the website of the Administration and pursuant to section 3012(a)(34) of this title, best practices described in paragraph (1), to carry out the programs under this section and section 3057k–11 of this title.
 
 #### (f) Quality standards and mechanisms and accountability
 
@@ -80,7 +80,7 @@ Not later than 1 year after March 25, 2020, and every 5 years thereafter, the As
 
 &emsp;(B) In determining the amounts allotted to States from the sums appropriated under section 3023 of this title for a fiscal year, the Assistant Secretary shall first determine the amount allotted to each State under subparagraph (A) and then proportionately adjust such amounts, if necessary, to meet the requirements of paragraph (2).
 
-&emsp;(C) The number of individuals 70 years of age or older in any State and in all States shall be determined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census and other reliable demographic data satisfactory to the Assistant Secretary.
+&emsp;(C) The number of individuals 70 years of age or older in any State and in all States shall bedetermined by the Assistant Secretary on the basis of the most recent data available from the Bureau of the Census and other reliable demographic data satisfactory to the Assistant Secretary.
 
 #### (2) Minimum allotment
 

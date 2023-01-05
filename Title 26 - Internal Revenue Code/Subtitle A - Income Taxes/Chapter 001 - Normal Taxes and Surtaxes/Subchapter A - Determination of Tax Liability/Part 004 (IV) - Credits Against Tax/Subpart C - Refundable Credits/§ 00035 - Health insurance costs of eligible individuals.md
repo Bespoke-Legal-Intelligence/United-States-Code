@@ -76,7 +76,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) has attained age 55 as of the first day of such month, and
 
-&emsp;&emsp;(B) is receiving a benefit for such month any portion of which is paid by the Pension Benefit Guaranty Corporation under title IVof the Employee Retirement Income Security Act of 1974.
+&emsp;&emsp;(B) is receiving a benefit for such month any portion of which is paid by the PensionBenefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974.
 
 #### (d) Qualifying family member
 

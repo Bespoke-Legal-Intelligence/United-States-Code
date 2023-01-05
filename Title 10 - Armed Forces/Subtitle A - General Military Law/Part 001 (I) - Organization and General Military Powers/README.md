@@ -2,7 +2,7 @@
 
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
-| [<b>1.</b>](Chapter%20001%20-%20Definitions/README.md) | <b>Definitions</b> | <b>101</b> |
+| [<b>1.</b>](Chapter%20001%20-%20Definitions%2C%20Rules%20of%20Construction%2C%20Cross%20References%2C%20and%20Related%20Matters/README.md) | <b>Definitions, Rules of Construction, Cross References, and Related Matters</b> | <b>101</b> |
 | [<b>2.</b>](Chapter%20002%20-%20Department%20of%20Defense/README.md) | <b>Department of Defense</b> | <b>111</b> |
 | [<b>3.</b>](Chapter%20003%20-%20General%20Powers%20and%20Functions/README.md) | <b>General Powers and Functions</b> | <b>121</b> |
 | [<b>4.</b>](Chapter%20004%20-%20Office%20of%20the%20Secretary%20of%20Defense/README.md) | <b>Office of the Secretary of Defense</b> | <b>131</b> |
@@ -30,6 +30,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title X, §1081(e)(2), Dec. 23, 2022, 136 Stat. 2798, substituted "Definitions, Rules of Construction, Cross References, and Related Matters" for "Definitions" in item for chapter 1. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title X, §1081(a)(1), Dec. 27, 2021, 135 Stat. 1919, struck out second item for chapter 19 "Cyber Matters".
 
@@ -86,7 +88,7 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Chapter 001 - Definitions](Chapter%20001%20-%20Definitions/README.md)
+- [Chapter 001 - Definitions, Rules of Construction, Cross References, and Related Matters](Chapter%20001%20-%20Definitions%2C%20Rules%20of%20Construction%2C%20Cross%20References%2C%20and%20Related%20Matters/README.md)
 - [Chapter 002 - Department of Defense](Chapter%20002%20-%20Department%20of%20Defense/README.md)
 - [Chapter 003 - General Powers and Functions](Chapter%20003%20-%20General%20Powers%20and%20Functions/README.md)
 - [Chapter 004 - Office of the Secretary of Defense](Chapter%20004%20-%20Office%20of%20the%20Secretary%20of%20Defense/README.md)

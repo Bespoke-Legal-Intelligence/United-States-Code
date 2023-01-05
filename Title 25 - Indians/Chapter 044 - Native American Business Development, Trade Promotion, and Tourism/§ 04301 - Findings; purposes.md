@@ -14,7 +14,7 @@ Congress finds that—
 
 &emsp;(5) Congress has carried out the responsibility of the United States for the protection and preservation of Indian Tribes and the resources of Indian Tribes through the endorsement of treaties, and the enactment of other laws, including laws that provide for the exercise of administrative authorities;
 
-&emsp;(6) the United States has an obligation to guard and preserve the sovereignty of Indian Tribes in order to foster strong Tribal governments, Indian self-determination, and economic self-sufficiency among Indian Tribes;
+&emsp;(6) the United States has an obligation to guard and preserve the sovereignty of IndianTribes in order to foster strong Tribal governments, Indian self-determination, and economic self-sufficiency among Indian Tribes;
 
 &emsp;(7) the capacity of Indian Tribes to build strong Tribal governments and vigorous economies is hindered by the inability of Indian Tribes to engage communities that surround Indian lands and outside investors in economic activities on Indian lands;
 
@@ -58,7 +58,7 @@ The purposes of this chapter are as follows:
 
 &emsp;(4) To raise incomes of Indians in order to reduce the number of Indians at poverty levels and provide the means for achieving a higher standard of living on Indian reservations.
 
-&emsp;(5) To encourage intertribal, regional, and international trade and business developmentin order to assist in increasing productivity and the standard of living of members of Indian Tribes and improving the economic self-sufficiency of the governing bodies of Indian Tribes.
+&emsp;(5) To encourage intertribal, regional, and international trade and business development in order to assist in increasing productivity and the standard of living of members of Indian Tribes and improving the economic self-sufficiency of the governing bodies of Indian Tribes.
 
 &emsp;(6) To promote economic self-sufficiency and political self-determination for Indian Tribes and members of Indian Tribes.
 
@@ -178,7 +178,7 @@ In general.—The Secretary shall designate nominated zones as Tribal Promise Zo
 
 Effective dates of designations.—The designation of any Tribal Promise Zone shall take effect—
 
-&emsp;&emsp;"(A) for purposes of priority consideration in Federal grant programs and initiatives (other than thissection), upon execution of the Tribal Promise Zone agreement with the Secretary; and
+&emsp;&emsp;"(A) for purposes of priority consideration in Federal grant programs and initiatives (other than this section), upon execution of the Tribal Promise Zone agreement with the Secretary; and
 
 &emsp;&emsp;"(B) for purposes of this section, on January 1 of the first calendar year beginning after the date of the execution of the Tribal Promise Zone agreement.
 
@@ -248,7 +248,7 @@ Pub. L. 106–568, title IV, §421, Dec. 27, 2000, 114 Stat. 2906, directed the 
 
 #### Indian Tribal Regulatory Reform and Business Development
 
-Pub. L. 106–447, Nov. 6, 2000, 114 Stat. 1934, provided that:
+Pub. L. 106–447, Nov. 6, 2000, 114 Stat. 1934, as amended by Pub. L. 117–286, §4(a)(185), Dec. 27, 2022, 136 Stat. 4326, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -448,9 +448,9 @@ Procurement of temporary and intermittent services.—The chairperson of the Aut
 
 "The Authority shall terminate 90 days after the date on which the Authority has submitted a copy of the report prepared under section 5 to the committees of Congress specified in section 5 and to the governing body of each Indian tribe.
 
-#### "SEC. 9. EXEMPTION FROM FEDERAL ADVISORY COMMITTEE ACT.
+#### "SEC. 9. EXEMPTION FROM CHAPTER 10 OF TITLE, UNITED STATES CODE.
 
-"The activities of the Authority conducted under this Act shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
+"The activities of the Authority conducted under this Act shall be exempt from chapter 10 of title 5, United States Code.
 
 #### "SEC. 10. AUTHORIZATION OF APPROPRIATIONS.
 

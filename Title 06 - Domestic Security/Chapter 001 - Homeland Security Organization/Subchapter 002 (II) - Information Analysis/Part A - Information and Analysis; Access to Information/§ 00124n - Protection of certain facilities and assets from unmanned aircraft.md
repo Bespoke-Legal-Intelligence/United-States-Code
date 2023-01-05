@@ -56,7 +56,7 @@ Any unmanned aircraft system or unmanned aircraft described in subsection (a) th
 
 #### (e) Privacy protection
 
-The regulations or guidance issued to carry out actions authorized under subsection (b) by each Secretary or the Attorney General, as the case may be, shall ensure that—
+The regulations or guidance issued to carry out actions authorized under subsection (b) byeach Secretary or the Attorney General, as the case may be, shall ensure that—
 
 &emsp;(1) the interception or acquisition of, or access to, or maintenance or use of, communications to or from an unmanned aircraft system under this section is conducted in a manner consistent with the First and Fourth Amendments to the Constitution of the United States and applicable provisions of Federal law;
 
@@ -114,7 +114,7 @@ The Secretary and the Attorney General shall submit to Congress, as a part of th
 
 #### (5) Notification
 
-&emsp;Within 30 days of deploying any new technology to carry out the actions described in subsection (b)(1), the Secretary and the Attorney General shall, respectively, submit a notification to the appropriate congressional committees. Such notification shall include a description of options considered to mitigate any identified impacts to the national airspace system related to the use of any system or technology, including the minimization of the use of any technology that disrupts the transmission of radio or electronic signals, for carrying out the actions described in subsection (b)(1).
+&emsp;Within 30 days of deploying any new technology to carry out the actions described in subsection (b)(1), the Secretary and the Attorney General shall, respectively, submit a notification to the appropriate congressional committees. Such notification shall include a description of options considered to mitigate any identified impacts to the national airspace system related to the use of any system or technology, including the minimization ofthe use of any technology that disrupts the transmission of radio or electronic signals, for carrying out the actions described in subsection (b)(1).
 
 #### (h) Rule of construction
 
@@ -166,7 +166,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) protection of facilities pursuant to section 1315(a) of title 40;
 
-&emsp;&emsp;&emsp;(ii) missions authorized to be performed by the Department of Justice, consistentwith governing statutes, regulations, and orders issued by the Attorney General, pertaining to—
+&emsp;&emsp;&emsp;(ii) missions authorized to be performed by the Department of Justice, consistent with governing statutes, regulations, and orders issued by the Attorney General, pertaining to—
 
 &emsp;&emsp;&emsp;&emsp;(I) personal protection operations by—
 
@@ -243,6 +243,12 @@ The Presidential Protection Assistance Act of 1976, referred to in subsec. (k)(3
 Section 104 of title 14, referred to in subsec. (k)(3)(C)(iv), was redesignated section 528 of title 14 by Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200, and references to section 104 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 This chapter, referred to in subsec. (l)(1)(A), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Termination Date
+
+Pub. L. 117–328, div. F, title V, §547, Dec. 29, 2022, 136 Stat. 4758, provided that: "Section 210G(i) of the Homeland Security Act of 2002 (6 U.S.C. 124n(i)) shall be applied by substituting 'September 30, 2023' for 'the date that is 4 years after October 5, 2018'."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "determines".</i>
 

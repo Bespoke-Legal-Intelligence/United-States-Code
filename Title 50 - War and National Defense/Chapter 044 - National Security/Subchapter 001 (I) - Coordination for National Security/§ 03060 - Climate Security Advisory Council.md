@@ -28,7 +28,7 @@ The Director of National Intelligence shall establish a Climate Security Advisor
 
 &emsp;&emsp;&emsp;(iv) the Office of Intelligence and Counterintelligence of the Department of Energy;
 
-&emsp;&emsp;&emsp;(v) the Office of the Under Secretary of Defense for Intelligence; <sup>1</sup> and
+&emsp;&emsp;&emsp;(v) the Office of the Under Secretary of Defense for Intelligence and Security; and
 
 &emsp;&emsp;&emsp;(vi) the Defense Intelligence Agency.
 
@@ -86,13 +86,23 @@ The Council shall carry out the following duties and responsibilities:
 
 #### (d) Annual report
 
-Not later than January 31, 2021, and not less frequently than annually thereafter, the chair of the Council shall submit, on behalf of the Council, to the congressional intelligence committees a report describing the activities of the Council as described in subsection (c) during the year preceding the year during which the report is submitted.
+#### (1) Requirement
 
-#### (e) <sup>2</sup> Sunset
+&emsp;Not later than January 31, 2021, and not less frequently than annually thereafter, the chair of the Council shall submit, on behalf of the Council, to the congressional intelligence committees a report describing the activities of the Council as described in subsection (c) during the year preceding the year during which the report is submitted.
 
-The Council shall terminate on the date that is 4 years after December 20, 2019.
+#### (2) Matters included
 
-#### (e) <sup>2</sup> Definitions
+&emsp;Each report under paragraph (1) shall include a description of any obstacles or gaps relating to—
+
+&emsp;&emsp;(A) the Council fulfilling its duties and responsibilities under subsection (c); or
+
+&emsp;&emsp;(B) the responsiveness of the intelligence community to the climate security needs and priorities of the policymaking elements of the Federal Government.
+
+#### (e) Sunset
+
+The Council shall terminate on December 31, 2025.
+
+#### (f) Definitions
 
 In this section:
 
@@ -122,11 +132,21 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) citizens of the United States abroad.
 
-(July 26, 1947, ch. 343, title I, §120, as added Pub. L. 116–92, div. E, title LIII, §5321(a), Dec. 20, 2019, 133 Stat. 2126; amended Pub. L. 116–260, div. W, title IV, §405(b), title VI, §618, Dec. 27, 2020, 134 Stat. 2380, 2400.)
+(July 26, 1947, ch. 343, title I, §120, as added Pub. L. 116–92, div. E, title LIII, §5321(a), Dec. 20, 2019, 133 Stat. 2126; amended Pub. L. 116–260, div. W, title IV, §405(b), title VI, §618, Dec. 27, 2020, 134 Stat. 2380, 2400; Pub. L. 117–103, div. X, title IV, §404, Mar. 15, 2022, 136 Stat. 975.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1)(B)(v). Pub. L. 117–103, §404(b)(1), inserted "and Security" after "for Intelligence".
+
+Subsec. (d). Pub. L. 117–103, §404(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (e). Pub. L. 117–103, §404(b)(3), substituted "December 31, 2025" for "the date that is 4 years after December 20, 2019".
+
+Pub. L. 117–103, §404(b)(2), redesignated subsec. (e) relating to definitions as (f).
+
+Subsec. (f). Pub. L. 117–103, §404(b)(2), redesignated subsec. (e) relating to definitions as (f).
 
 <b>2020</b>—Subsec. (c)(4). Pub. L. 116–260, §405(b), substituted "intelligence indications" for "security indicators".
 
@@ -134,15 +154,7 @@ Subsecs. (d), (e). Pub. L. 116–260, §618, added subsec. (d) and redesignated 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Change of Name
-
-Under Secretary of Defense for Intelligence redesignated and references deemed to refer to Under Secretary of Defense for Intelligence and Security, see section 1621(a) of Pub. L. 116–92, set out as a note under section 137 of Title 10, Armed Forces.
-
 #### Initial Appointments
 
 Pub. L. 116–92, div. E, title LIII, §5321(c), Dec. 20, 2019, 133 Stat. 2129, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Director of National Intelligence shall appoint the members of the Council under section 120 of the National Security Act of 1947 \[50 U.S.C. 3060\], as added by subsection (a)."
-
-<i><sup>1</sup></i><i> See Change of Name note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

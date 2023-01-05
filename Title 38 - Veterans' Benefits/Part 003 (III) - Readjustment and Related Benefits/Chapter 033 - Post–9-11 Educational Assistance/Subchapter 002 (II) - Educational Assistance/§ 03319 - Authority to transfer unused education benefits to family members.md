@@ -36,11 +36,9 @@ Limitation on Months of Transfer.—The total number of months of entitlement tr
 
 Designation of Transferee.—An individual transferring an entitlement to educational assistance under this section shall—
 
-&emsp;(1) designate the dependent or dependents to whom such entitlement is being transferred;
+&emsp;(1) designate the dependent or dependents to whom such entitlement is being transferred; and
 
-&emsp;(2) designate the number of months of such entitlement to be transferred to each such dependent; and
-
-&emsp;(3) specify the period for which the transfer shall be effective for each dependent designated under paragraph (1).
+&emsp;(2) designate the number of months of such entitlement to be transferred to each such dependent.
 
 (f)
 
@@ -64,7 +62,7 @@ Notice.—The modification or revocation of the transfer of entitlement under th
 
 &emsp;(3)
 
-Prohibition on treatment of transferred entitlement as marital property.—Entitlement transferred under this section may not be treated as marital property, or the asset of a marital estate, subject to division in a divorce or other civil proceeding.
+Prohibition on treatment of transferred entitlement as marital property.—Entitlement transferred under this sectionmay not be treated as marital property, or the asset of a marital estate, subject to division in a divorce or other civil proceeding.
 
 (g)
 
@@ -116,7 +114,17 @@ Rate of payment.—The monthly rate of educational assistance payable to a depen
 
 &emsp;(4)
 
-Death of transferor.—The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
+Death of transferor.—
+
+&emsp;&emsp;(A)
+
+In general.—The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
+
+&emsp;&emsp;(B)
+
+Death prior to transfer to designated transferees.—(i) In the case of an eligible individual whom the Secretary has approved to transfer the individual's entitlement under this section who, at the time of death, is entitled to educational assistance under this chapter and has designated a transferee or transferees under subsection (e) but has not transferred all of such entitlement to such transferee or transferees, the Secretary shall transfer the entitlement of the individual under this section by evenly distributing the amount of such entitlement between all such transferees who would not be precluded from using some or all of the transferred benefits due to the expiration of time limitations found in paragraph (5) of this subsection or section 3321 of this title, notwithstanding the limitations under subsection (f).
+
+&emsp;&emsp;(ii) If a transferee cannot use all of the transferred benefits under clause (i) because of expiration of a time limitation, the unused benefits will be distributed among the other designated transferees who would not be precluded from using some or all of the transferred benefits due to expiration of time limitations found in paragraph (5) of this subsection or section 3321 of this title, unless or until there are no transferees who would not be precluded from using the transferred benefits because of expiration of a time limitation.
 
 &emsp;(5)
 
@@ -124,7 +132,7 @@ Limitation on age of use by child transferees.—
 
 &emsp;&emsp;(A)
 
-In general.—A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B),<sup>1</sup> use any benefits so transferred after attaining the age of 26 years.
+In general.—A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B) or (C), use any benefits so transferred after attaining the age of 26 years.
 
 &emsp;&emsp;(B)
 
@@ -159,6 +167,10 @@ Length of use.—The length of the period specified in this clause for the use o
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the date on which the child ceases acting as the primary provider of personal care services for the veteran or member as described in clause (i); or
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the date on which it is reasonably feasible, as so determined, for the child to initiate or resume the use of benefits.
+
+&emsp;&emsp;(C)
+
+Emergency situations.—In any case in which the Secretary determines that an individual to whom entitlement is transferred under this section has been prevented from pursuing the individual's chosen program of education before the individual attains the age of 26 years because the educational institution or training establishment closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the individual may use such entitlement for a period equal to the number of months that the individual was so prevented from pursuing the program of education, as determined by the Secretary.
 
 &emsp;(6)
 
@@ -214,11 +226,19 @@ Additional Transfer Upon Death of Dependent.—In the case of a dependent to who
 
 Transfer by Dependent.—In the case of an individual who transfers entitlement to educational assistance under this section who dies before the dependent to whom entitlement to educational assistance is so transferred has used all of such entitlement, such dependent may transfer such entitlement to another eligible dependent in accordance with the provisions of this section.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §110(a), Aug. 16, 2017, 131 Stat. 981; Pub. L. 116–92, div. A, title V, §578, Dec. 20, 2019, 133 Stat. 1406; Pub. L. 116–315, title I, §1011(a), Jan. 5, 2021, 134 Stat. 4941.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2369; amended Pub. L. 111–275, title X, §1001(g)(7), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§110(a), (b), 112(b), title II, §201(b), Jan. 4, 2011, 124 Stat. 4120, 4122, 4123; Pub. L. 114–58, title VI, §601(19), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §110(a), Aug. 16, 2017, 131 Stat. 981; Pub. L. 116–92, div. A, titleV, §578, Dec. 20, 2019, 133 Stat. 1406; Pub. L. 116–315, title I, §1011(a), Jan. 5, 2021, 134 Stat. 4941; Pub. L. 117–297, §3, Dec. 27, 2022, 136 Stat. 4376; Pub. L. 117–328, div. U, title II, §214(a), Dec. 29, 2022, 136 Stat. 5454; Pub. L. 117–333, §3(b)(2), Jan. 5, 2023, 136 Stat. 6126.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (h)(5)(A). Pub. L. 117–333, §3(b)(2)(A), inserted "or (C)" after "subparagraph (B)".
+
+Subsec. (h)(5)(C). Pub. L. 117–333, §3(b)(2)(B), added subpar. (C).
+
+<b>2022</b>—Subsec. (e)(3). Pub. L. 117–297 struck out par. (3) which read as follows: "specify the period for which the transfer shall be effective for each dependent designated under paragraph (1)."
+
+Subsec. (h)(4). Pub. L. 117–328 amended par. (4) generally. Prior to amendment, text read as follows: "The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred."
 
 <b>2021</b>—Subsec. (c). Pub. L. 116–315 amended subsec. (c) generally. Prior to amendment, text read as follows: "An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual's entitlement as follows:
 
@@ -258,6 +278,10 @@ Subsec. (k). Pub. L. 111–377, §110(a)(2), struck out subsec. (k). Text read a
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. U, title II, §214(b), Dec. 29, 2022, 136 Stat. 5455, provided that: "Paragraph (4)(B) of section 3319(h) of title 38, United States Code, shall apply with respect to an eligible individual who dies on or after November 1, 2018."
+
 #### Effective Date of 2021 Amendment
 
 Pub. L. 116–315, title I, §1011(b), Jan. 5, 2021, 134 Stat. 4942, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to educational assistance payable under chapter 33 of title 38, United States Code, before, on, or after the date that is 90 days after the date of the enactment of this Act \[Jan. 5, 2021\]."
@@ -286,19 +310,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 #### Extension of Time Limitations for Use of Entitlement: Transfer Period
 
-Pub. L. 116–315, title I, §1107(d)(2), Jan. 5, 2021, 134 Stat. 4966, provided that: "The subparagraph (C) temporarily added to section 3319(h)(5) of such title by section 6 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140) \[set out as a note below\] is amended by inserting 'or training establishment' after 'educational institution'."
+Pub. L. 116–315, title I, §1107(d)(2), Jan. 5, 2021, 134 Stat. 4966, amended text temporarily added by Pub. L. 116–140, §6(b)(2), formerly set out below.
 
-Pub. L. 116–140, §6(b)(2), Apr. 28, 2020, 134 Stat. 633, provided that: "During the covered period, the Secretary of Veterans Affairs shall apply section 3319(h)(5) of such title as if it were amended—
-
-&emsp;"(A) in subparagraph (A) by inserting 'or (C)' after 'subparagraph (B)'; and
-
-&emsp;"(B) by adding at the end the following new subparagraph:
-
-&emsp;" '(C)
-
-Emergency situations.—In any case in which the Secretary determines that an individual to whom entitlement is transferred under this section has been prevented from pursuing the individual's chosen program of education before the individual attains the age of 26 years because the educational institution closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the individual may use such entitlement for a period equal to the number of months that the individual was so prevented from pursuing the program of education, as determined by the Secretary.'."
-
-\[The term "covered period" as used in section 6(b)(2) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under section 3031 of this title.\]
-
-<i><sup>1</sup></i><i> See Extension of Time Limitations for Use of Entitlement: Transfer Period note below.</i>
+Pub. L. 116–140, §6(b)(2), Apr. 28, 2020, 134 Stat. 633, which temporarily allowed for an extension of time to use entitled educational benefits because of closure of an educational institution, was repealed by Pub. L. 117–333, §3(f), Jan. 5, 2023, 136 Stat. 6128. See subsec. (h)(5)(C) of this section.
 

@@ -128,7 +128,7 @@ In subsections (a) and (b), before each clause (1), the words "Not later than 18
 
 In subsection (a), before clause (1), the words "with respect to standards relating to the location of any new LNG facility" are omitted because of the restatement. In clause (2), the word "involved" is omitted as surplus. In clause (4), the words "meteorological, geological, topographical, seismic, and other" are omitted as surplus. In clause (5), the word "existing" is omitted as surplus.
 
-In subsection (b), before clause (1), the text of 49 App.:1674a(a)(2) (1st sentence) is omitted as executed. The text of 49 App.:1674a(a)(2) (last sentence) is omitted as surplus. The words "with respect to standards applicable to the design, installation, construction, initial inspection, and initial testing of any new LNG facility" are omitted because of the restatement. In clause (1), the words "thermal resistance and other" are omitted as surplus. In clause (2), the words "(such as multiple diking, insulated concrete, and vapor containment barriers)" are omitted as surplus. In clause (3), the words"(for example, whether it is to be in a liquid or semisolid state)" are omitted as surplus. In clause (4), the words "under such a design" are omitted as surplus.
+In subsection (b), before clause (1), the text of 49 App.:1674a(a)(2) (1st sentence) is omitted as executed. The text of 49 App.:1674a(a)(2) (last sentence) is omitted as surplus. The words "with respect to standards applicable to the design, installation, construction, initial inspection, and initial testing of any new LNG facility" are omitted because of the restatement. In clause (1), the words "thermal resistance and other" are omitted as surplus. In clause (2), the words "(such as multiple diking, insulated concrete, and vapor containment barriers)" are omitted as surplus. In clause (3), the words "(for example, whether it is to be in a liquid or semisolid state)" are omitted as surplus. In clause (4), the words "under such a design" are omitted as surplus.
 
 In subsection (c)(1) and (2), the word "prescribed" is substituted for "issued" for consistency in the revised title and with other titles of the Code.
 
@@ -364,7 +364,7 @@ Considerations.—In determining the location of the Center, the Secretary shall
 
 &emsp;&emsp;"(A) take into account the strategic value of locating resources in close proximity to LNG facilities; and
 
-&emsp;&emsp;"(B) locate the Center in the State with the largest LNG production capacity, as determined by the total capacity (in billion cubic feet per day) of LNG production authorized by the Federal Energy Regulatory Commission under section 3 of the Natural Gas Act (15 U.S.C. 717b) as of the date of enactment of this Act \[Dec. 27, 2020\].
+&emsp;&emsp;"(B) locate the Center in the State with the largest LNG production capacity, as determined by thetotal capacity (in billion cubic feet per day) of LNG production authorized by the Federal Energy Regulatory Commission under section 3 of the Natural Gas Act (15 U.S.C. 717b) as of the date of enactment of this Act \[Dec. 27, 2020\].
 
 "(f)
 
@@ -388,7 +388,7 @@ Report of the secretary.—Not later than 18 months after the date of enactment 
 
 &emsp;"(A) discussing—
 
-&emsp;&emsp;"(i) the best available technologies or practices to prevent or minimize, without compromisingpipeline safety, the release of natural gas when making planned repairs, replacements, or maintenance to a pipeline facility;
+&emsp;&emsp;"(i) the best available technologies or practices to prevent or minimize, without compromising pipeline safety, the release of natural gas when making planned repairs, replacements, or maintenance to a pipeline facility;
 
 &emsp;&emsp;"(ii) the best available technologies or practices to prevent or minimize, without compromising pipeline safety, the release of natural gas when the operator intentionally vents or releases natural gas, including blowdowns; and
 

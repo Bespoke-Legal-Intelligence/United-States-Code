@@ -50,7 +50,7 @@ In this section:
 
 #### (7) Veteran farmer or rancher
 
-&emsp;The term "veteran farmer or rancher" means a farmer or rancher who has served in the Armed Forces (as defined in section 101(10) of title 38) and who—
+&emsp;The term "veteran farmer or rancher" means a farmer or rancher who has served inthe Armed Forces (as defined in section 101(10) of title 38) and who—
 
 &emsp;&emsp;(A) has not operated a farm or ranch;
 
@@ -134,7 +134,7 @@ The Secretary shall carry out this section to encourage and assist socially disa
 
 &emsp;&emsp;&emsp;(ii) The activities undertaken and services provided.
 
-&emsp;&emsp;&emsp;(iii) The number of current and prospective socially disadvantaged farmers or ranchers served and outcomes of such service.
+&emsp;&emsp;&emsp;(iii) The number of current and prospective socially disadvantaged farmers orranchers served and outcomes of such service.
 
 &emsp;&emsp;&emsp;(iv) The problems and barriers identified by entities in trying to increase participation by current and prospective socially disadvantaged farmers or ranchers.
 
@@ -260,7 +260,7 @@ The Secretary shall carry out this section to encourage and assist socially disa
 
 #### (6) Evaluation criteria
 
-&emsp;In making grants or entering into cooperative agreements under this subsection, theSecretary shall evaluate, with respect to applications for the grants or cooperative agreements—
+&emsp;In making grants or entering into cooperative agreements under this subsection, the Secretary shall evaluate, with respect to applications for the grants or cooperative agreements—
 
 &emsp;&emsp;(A) relevancy;
 
@@ -328,7 +328,7 @@ The Secretary shall carry out this section to encourage and assist socially disa
 
 #### (B) Curriculum
 
-&emsp;&emsp;In promoting the development of curricula, educational programs and workshops, or training and technical assistance initiatives under subparagraph (A), the Secretary shall, to the maximum extent practicable, include content tailored to specific audiences of beginning farmers and ranchers, based on crop diversity or regional diversity.
+&emsp;&emsp;In promoting the development of curricula, educational programs and workshops,or training and technical assistance initiatives under subparagraph (A), the Secretary shall, to the maximum extent practicable, include content tailored to specific audiences of beginning farmers and ranchers, based on crop diversity or regional diversity.
 
 #### (C) Composition
 
@@ -536,15 +536,15 @@ The Secretary shall ensure, to the maximum extent practicable, that the Census o
 
 #### References in Text
 
-The Agricultural Act of 1949, referred to in subsec. (a)(1)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a)(1)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(1)(C), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(1)(C), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Soil Conservation Act and the Domestic Allotment Assistance Act, referred to in subsec. (a)(1)(D) and (E), respectively, probably mean the Soil Conservation and Domestic Allotment Act, act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+The Soil Conservation Act and the Domestic Allotment Assistance Act, referred to in subsec. (a)(1)(D) and (E), respectively, probably mean the Soil Conservation and Domestic Allotment Act, act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (a)(1)(F), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (a)(1)(F), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 Act of August 30, 1890, referred to in subsec. (c)(5), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
@@ -590,7 +590,7 @@ Subsec. (c)(1)(A)(ii). Pub. L. 115–334, §12301(b)(7)(D)(ii), substituted "thi
 
 Subsec. (c)(1)(F). Pub. L. 115–334, §12301(b)(7)(D)(iii), made technical amendment to reference in original act which appears in text as reference to section 5304 of title 25.
 
-Subsec. (c)(2). Pub. L. 115–334, §12301(b)(7)(C), (E)(i), redesignated par. (1) as (2) and substituted "Using funds made available under subsection (l), the Secretary of Agriculture shall, for the period of fiscal years 2019 through 2023, carry out" for "The Secretary of Agriculture shall carry out" in introductory provisions. Former par. (2) redesignated (3).
+Subsec. (c)(2). Pub. L. 115–334, §12301(b)(7)(C), (E)(i), redesignated par. (1) as (2) and substituted "Using fundsmade available under subsection (l), the Secretary of Agriculture shall, for the period of fiscal years 2019 through 2023, carry out" for "The Secretary of Agriculture shall carry out" in introductory provisions. Former par. (2) redesignated (3).
 
 Subsec. (c)(2)(B). Pub. L. 115–334, §12301(b)(7)(E)(ii), (iii), substituted "agricultural, forestry, and related" for "agricultural".
 
@@ -718,55 +718,43 @@ Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of P
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-#### USDA Assistance and Support for Socially Disadvantaged Farmers, Ranchers, Forest Land Owners and Operators, and Groups
+#### USDA Assistance and Support for Underserved Farmers, Ranchers, and Foresters
 
-Pub. L. 117–2, title I, §1006, Mar. 11, 2021, 135 Stat. 13, provided that:
+Pub. L. 117–2, title I, §1006, Mar. 11, 2021, 135 Stat. 13, as amended by Pub. L. 117–169, title II, §22007, Aug. 16, 2022, 136 Stat. 2021, provided that:
 
 "(a)
 
-Appropriation.—In addition to amounts otherwise available, there is appropriated to the Secretary of Agriculture for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $1,010,000,000, to remain available until expended, to carry out this section.
+Technical and other assistance.—In addition to amounts otherwise available, there is appropriated to the Secretary of Agriculture for fiscal year 2022, to remain available until September 30, 2031, out of any money in the Treasury not otherwise appropriated, $125,000,000 to provide outreach, mediation, financial training, capacity building training, cooperative development and agricultural credit training and support, and other technical assistance on issues concerning food, agriculture, agricultural credit, agricultural extension, rural development, or nutrition to underserved farmers, ranchers, or forest landowners, including veterans, limited resource producers, beginning farmers and ranchers, and farmers, ranchers, and forest landowners living in high poverty areas.
 
 "(b)
 
-Assistance.—The Secretary of Agriculture shall use the amounts made available pursuant to subsection (a) for purposes described in this subsection by—
-
-&emsp;"(1) using not less than 5 percent of the total amount of funding provided under subsection (a) to provide outreach, mediation, financial training, capacity building training, cooperative development training and support, and other technical assistance on issues concerning food, agriculture, agricultural credit, agricultural extension, rural development, or nutrition to socially disadvantaged farmers, ranchers, or forest landowners, or other members of socially disadvantaged groups;
-
-&emsp;"(2) using not less than 5 percent of the total amount of funding provided under subsection (a) to provide grants and loans to improve land access for socially disadvantaged farmers, ranchers, or forest landowners, including issues related to heirs' property in a manner as determined by the Secretary;
-
-&emsp;"(3) using not less than 0.5 percent of the total amount of funding provided under subsection (a) to fund the activities of one or more equity commissions that will address racial equity issues within the Department of Agriculture and its programs;
-
-&emsp;"(4) using not less than 5 percent of the total amount of funding provided under subsection (a) to support and supplement agricultural research, education, and extension, as well as scholarships and programs that provide internships and pathways to Federal employment, by—
-
-&emsp;&emsp;"(A) using not less than 1 percent of the total amount of funding provided under subsection (a) at colleges or universities eligible to receive funds under the Act of August 30, 1890 (commonly known as the 'Second Morrill Act') (7 U.S.C. 321 et seq.), including Tuskegee University;
-
-&emsp;&emsp;"(B) using not less than 1 percent of the total amount of funding provided under subsection (a) at 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382));
-
-&emsp;&emsp;"(C) using not less than 1 percent of the total amount of funding provided under subsection (a) at Alaska Native serving institutions and Native Hawaiian serving institutions eligible to receive grants under subsections (a) and (b), respectively, of section 1419B of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3156);
-
-&emsp;&emsp;"(D) using not less than 1 percent of the total amount of funding provided under subsection (a) at Hispanic-serving institutions eligible to receive grants under section 1455 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3241); and
-
-&emsp;&emsp;"(E) using not less than 1 percent of the total amount of funding provided under subsection (a) at the insular area institutions of higher education located in the territories of the United States, as referred to in section 1489 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3361); and
-
-&emsp;"(5) using not less than 5 percent of the total amount of funding provided under subsection (a) to provide financial assistance to socially disadvantaged farmers, ranchers, or forest landowners that are former farm loan borrowers that suffered related adverse actions or past discrimination or bias in Department of Agriculture programs, as determined by the Secretary.
+Land loss assistance.—In addition to amounts otherwise available, there is appropriated to the Secretary of Agriculture for fiscal year 2022, to remain available until September 30, 2031, out of any money in the Treasury not otherwise appropriated, $250,000,000 to provide grants and loans to eligible entities, as determined by the Secretary, to improve land access (including heirs' property and fractionated land issues) for underserved farmers, ranchers, and forest landowners, including veterans, limited resource producers, beginning farmers and ranchers, and farmers, ranchers, and forest landowners living in high poverty areas.
 
 "(c)
 
-Definitions.—In this section:
+Equity commissions.—In addition to amounts otherwise available, there is appropriated to the Secretary of Agriculture for fiscal year 2022, to remain available until September 30, 2031, out of any money in the Treasury not otherwise appropriated, $10,000,000 to fund the activities of one or more equity commissions that will address racial equity issues within the Department of Agriculture and the programs of the Department of Agriculture.
 
-&emsp;"(1)
+"(d)
 
-Nonindustrial private forest land.—The term 'nonindustrial private forest land' has the meaning given the term in section 1201(a)(18) of the Food Security Act of 1985 (16 U.S.C. 3801(a)(18)).
+Research, education, and extension.—In addition to amounts otherwise available, there is appropriated to the Secretary of Agriculture for fiscal year 2022, to remain available until September 30, 2031, out of any money in the Treasury not otherwise appropriated, $250,000,000 to support and supplement agricultural research, education, and extension, as well as scholarships and programs that provide internships and pathways to agricultural sector or Federal employment, for 1890 Institutions (as defined in section 2 of the Agricultural, \[sic\] Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7601)), 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)), Alaska Native serving institutions and Native Hawaiian serving institutions eligible to receive grants under subsections (a) and (b), respectively, of section 1419B of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3156), Hispanic-serving institutions eligible to receive grants under section 1455 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3241), and the insular area institutions of higher education located in the territories of the United States, as referred to in section 1489 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3361).
 
-&emsp;"(2)
+"(e)
 
-Socially disadvantaged farmer, rancher, or forest landowner.—The term 'socially disadvantaged farmer, rancher, or forest landowner' means a farmer, rancher, or owner or operator of nonindustrial private forest land who is a member of a socially disadvantaged group.
+Discrimination financial assistance.—In addition to amounts otherwise available, there is appropriated to the Secretary of Agriculture for fiscal year 2022, to remain available until September 30, 2031, out of any money in the Treasury not otherwise appropriated, $2,200,000,000 for a program to provide financial assistance, including the cost of any financial assistance, to farmers, ranchers, or forest landowners determined to have experienced discrimination prior to January 1, 2021, in Department of Agriculture farm lending programs, under which the amount of financial assistance provided to a recipient may be not more than $500,000, as determined to be appropriate based on any consequences experienced from the discrimination, which program shall be administered through 1 or more qualified nongovernmental entities selected by the Secretary subject to standards set and enforced by the Secretary.
 
-&emsp;"(3)
+"(f)
 
-Socially disadvantaged group.—The term 'socially disadvantaged group' has the meaning given the term in section 2501(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279(a))."
+Administrative costs.—In addition to amounts otherwise available, there is appropriated to the Secretary of Agriculture for fiscal year 2022, to remain available until September 30, 2031, out of any money in the Treasury not otherwise appropriated, $24,000,000 for administrative costs, including training employees, of the agencies and offices of the Department of Agriculture to carry out this section.
+
+"(g)
+
+Limitation.—The funds made available under this section are subject to the condition that the Secretary shall not—
+
+&emsp;"(1) enter into any agreement under which any payment could be outlaid or funds disbursed after September 30, 2031; or
+
+&emsp;"(2) use any other funds available to the Secretary to satisfy obligations initially made under this section."
 
 #### Minority Farmer Advisory Committee
 

@@ -6,7 +6,7 @@ The President is authorized to provide assistance to the independent states of t
 
 &emsp;Meeting urgent humanitarian needs (including those arising from the health effects of exposure to radiation in the Chernobyl region), in particular—
 
-&emsp;&emsp;(A) meeting needs for medicine, medical supplies and equipment, and food, includingthe nutritional needs of infants such as processed baby food; and
+&emsp;&emsp;(A) meeting needs for medicine, medical supplies and equipment, and food, including the nutritional needs of infants such as processed baby food; and
 
 &emsp;&emsp;(B) continuing efforts to rebuild from the earthquake in Armenia.
 
@@ -84,7 +84,7 @@ The President is authorized to provide assistance to the independent states of t
 
 #### (9) Energy efficiency and production
 
-&emsp;Promoting market-based pricing policies and the transfer of technologies that reduce energy wastage and harmful emissions; supporting developmentally sound capital energy projects that utilize United States advanced coal technologies; and promoting efficient production, use, and transportation of oil, gas, coal, and other sources of energy.
+&emsp;Promoting market-based pricing policies and the transfer of technologies that reduceenergy wastage and harmful emissions; supporting developmentally sound capital energy projects that utilize United States advanced coal technologies; and promoting efficient production, use, and transportation of oil, gas, coal, and other sources of energy.
 
 #### (10) Civilian nuclear reactor safety
 
@@ -176,7 +176,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;"(vii) bolster law-related activities of nongovernmental organizations.
 
-&emsp;"(6) Because the capability of Russian democratic forces and the civil society to organize and defend democratic gains without international support is uncertain, and because the gradual integration of the Russian Federation into the global order of free-market, democratic nations would enhance Russian cooperation with the United States on a wide range of political, economic, and security issues, the success of democracy in Russia is in the national security interest of the United States, and the United StatesGovernment should develop a far-reaching and flexible strategy aimed at strengthening Russian society's support for democracy and a market economy, particularly by enhancing Russian democratic institutions and education, promoting the rule of law, and supporting Russia's independent media.
+&emsp;"(6) Because the capability of Russian democratic forces and the civil society to organize and defenddemocratic gains without international support is uncertain, and because the gradual integration of the Russian Federation into the global order of free-market, democratic nations would enhance Russian cooperation with the United States on a wide range of political, economic, and security issues, the success of democracy in Russia is in the national security interest of the United States, and the United States Government should develop a far-reaching and flexible strategy aimed at strengthening Russian society's support for democracy and a market economy, particularly by enhancing Russian democratic institutions and education, promoting the rule of law, and supporting Russia's independent media.
 
 &emsp;"(7) Since the tragic events of September 11, 2001, the Russian Federation has stood with the United States and the rest of the civilized world in the struggle against terrorism and has cooperated in the war in Afghanistan by sharing intelligence and through other means.
 
@@ -246,5 +246,5 @@ Radio Free Europe/Radio Liberty and Voice of America.—RFE/RL, Incorporated, an
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title, and section 3(b) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381of this title, and section 3(b) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under section 5812 of this title.
 

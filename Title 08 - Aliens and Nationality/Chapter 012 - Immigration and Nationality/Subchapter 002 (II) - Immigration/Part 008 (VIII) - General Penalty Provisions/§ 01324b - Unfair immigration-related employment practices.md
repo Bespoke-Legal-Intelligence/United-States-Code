@@ -62,7 +62,7 @@
 
 #### (3) Compensation
 
-&emsp;The Special Counsel is entitled to receive compensation at a rate not to exceed the ratenow or hereafter provided for grade GS–17 of the General Schedule, under section 5332 of title 5.
+&emsp;The Special Counsel is entitled to receive compensation at a rate not to exceed the rate now or hereafter provided for grade GS–17 of the General Schedule, under section 5332 of title 5.
 
 #### (4) Regional offices
 
@@ -104,7 +104,7 @@
 
 #### (2) Authority of administrative law judges
 
-&emsp;In conducting investigations and hearings under this subsection <sup>1</sup> and in accordance with regulations of the Attorney General, the Special Counsel and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated. The administrative law judges by subpoena may compel the attendance of witnesses and the production of evidence at any designated place or hearing. In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraph and upon application of the administrative law judge, an appropriate district court of the United States may issue an order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
+&emsp;In conducting investigations and hearings under this subsection <sup>1</sup> and in accordance with regulations of the Attorney General, the Special Counsel and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated. The administrative law judges by subpoena may compel the attendance of witnesses and the production of evidence at any designated place or hearing. In case of contumacy or refusal to obey a subpoena lawfully issued under this paragraph and upon application of the administrative law judge, an appropriate district court of the United States may issuean order requiring compliance with such subpoena and any failure to obey such order may be punished by such court as a contempt thereof.
 
 #### (g) Determinations
 
@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, upon the preponderance of the evidence, an administrative law judge determines that any person or entity named in the complaint has engaged in or is engaging in any suchunfair immigration-related employment practice, then the judge shall state his findings of fact and shall issue and cause to be served on such person or entity an order which requires such person or entity to cease and desist from such unfair immigration-related employment practice.
+&emsp;&emsp;If, upon the preponderance of the evidence, an administrative law judge determines that any person or entity named in the complaint has engaged in or is engaging in any such unfair immigration-related employment practice, then the judge shall state his findings of fact and shall issue and cause to be served on such person or entity an order which requires such person or entity to cease and desist from such unfair immigration-related employment practice.
 
 #### (B) Contents of order
 
@@ -168,7 +168,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (2) Further review
 
-&emsp;Upon the filing of the record with the court, the jurisdiction of the court shall be exclusive and its judgment shall be final, except that the same shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification as provided in section 1254 of title 28.
+&emsp;Upon the filing of the record with the court, the jurisdiction of the court shall be exclusive and its judgment shall be final, except thatthe same shall be subject to review by the Supreme Court of the United States upon writ of certiorari or certification as provided in section 1254 of title 28.
 
 #### (j) Court enforcement of administrative orders
 
@@ -222,7 +222,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsecs. (b)(2) and (l)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VII of the Civil Rights Act of 1964 is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (b)(2) and (l)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Civil Rights Act of 1964 is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 Subsections (j), (l), (m), and (n) of section 1324a of this title, referred to in subsec. (k), were repealed by Pub. L. 104–208, div. C, title IV, §412(c), Sept. 30, 1996, 110 Stat. 3009–668.
 
@@ -324,7 +324,7 @@ Pub. L. 101–649, title V, §539(b), Nov. 29, 1990, 104 Stat. 5057, provided th
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Actof 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

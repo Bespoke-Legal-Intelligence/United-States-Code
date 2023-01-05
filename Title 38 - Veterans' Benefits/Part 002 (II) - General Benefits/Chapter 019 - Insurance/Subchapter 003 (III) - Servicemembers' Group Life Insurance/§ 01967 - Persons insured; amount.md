@@ -22,7 +22,7 @@
 
 (3)(A) Subject to subparagraphs (B), (C), and (D), the amount for which a person is insured under this subchapter is as follows:
 
-&emsp;(i) In the case of a member, $400,000.
+&emsp;(i) In the case of a member, $500,000.
 
 &emsp;(ii) In the case of a member's spouse, $100,000.
 
@@ -44,7 +44,7 @@
 
 (4)(A) An insurable dependent of a member is not insured under this chapter unless the member is insured under this subchapter.
 
-(B) An insurable dependent who is a child may not be insured at any time by the insurance coverage under this chapter of more than one member. If an insurable dependent who is a child is otherwise eligible to be insured by the coverage of more than one member under this chapter, the child shall be insured by the coverage of the member whose eligibility for insurance under this subchapter occurred first, except that ifthat member does not have legal custody of the child, the child shall be insured by the coverage of the member who has legal custody of the child.
+(B) An insurable dependent who is a child may not be insured at any time by the insurance coverage under this chapter of more than one member. If an insurable dependent who is a child is otherwise eligible to be insured by the coverage of more than one member under this chapter, the child shall be insured by the coverage of the member whose eligibility for insurance under this subchapter occurred first, except that if that member does not have legal custody of the child, the child shall be insured by the coverage of the member who has legal custody of the child.
 
 (5) The insurance shall be effective with respect to a member and the insurable dependents of the member on the latest of the following dates:
 
@@ -82,7 +82,7 @@
 
 (e) The effective date and time for any change in benefits under the Servicemembers' Group Life Insurance Program shall be based on the date and time according to the time zone immediately west of the International Date Line.
 
-(f)(1) If a member who is married and who is eligible for insurance under this section makes an election under subsection (a)(2)(A) not to be insured under this subchapter, the Secretary concerned shall notify the member's spouse, in writing, of that election.
+(f)(1) If a member who is married and who is eligible for insurance under this section makes an election under subsection (a)(2)(A) not to beinsured under this subchapter, the Secretary concerned shall notify the member's spouse, in writing, of that election.
 
 (2) In the case of a member who is married and who is insured under this section and whose spouse is designated as a beneficiary of the member under this subchapter, whenever the member makes an election under subsection (a)(3)(B) for insurance of the member in an amount that is less than the maximum amount provided under subsection (a)(3)(A)(i), the Secretary concerned shall notify the member's spouse, in writing, of that election—
 
@@ -94,11 +94,13 @@
 
 (4) A notification required by this subsection is satisfied by a good faith effort to provide the required information to the spouse at the last address of the spouse in the records of the Secretary concerned. Failure to provide a notification required under this subsection in a timely manner does not affect the validity of any election specified in paragraph (1) or (2) or beneficiary designation specified in paragraph (3).
 
-(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, §4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046; Pub. L. 110–389, title IV, §403(a)(1), (2)(A), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title X, §1001(d)(1), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–239, div. A, title VI, §642, Jan. 2, 2013, 126 Stat. 1783; Pub. L. 115–232, div. A, title VI, §625, Aug. 13, 2018, 132 Stat. 1801; Pub. L. 116–283, div. A, title X, §1081(b), Jan. 1, 2021, 134 Stat. 3873.)
+(Added Pub. L. 89–214, §1(a), Sept. 29, 1965, 79 Stat. 881, §767; amended Pub. L. 91–291, §2, June 25, 1970, 84 Stat. 327; Pub. L. 93–289, §4, May 24, 1974, 88 Stat. 166; Pub. L. 97–66, title IV, §401(a), Oct. 17, 1981, 95 Stat. 1030; Pub. L. 99–166, title IV, §401(a), Dec. 3, 1985, 99 Stat. 956; Pub. L. 99–576, title VII, §701(37), Oct. 28, 1986, 100 Stat. 3293; Pub. L. 102–25, title III, §336(a), Apr. 6, 1991, 105 Stat. 89; renumbered §1967 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §201, Oct. 29, 1992, 106 Stat. 4324; Pub. L. 103–160, div. A, title XI, §1175(a), Nov. 30, 1993, 107 Stat. 1768; Pub. L. 103–337, div. A, title VI, §651(b), Oct. 5, 1994, 108 Stat. 2792; Pub. L. 104–106, div. A, title VI, §646, Feb. 10, 1996, 110 Stat. 369; Pub. L. 104–275, title IV, §§402(b), 404, 405(b)(1)(A), Oct. 9, 1996, 110 Stat. 3337, 3339; Pub. L. 106–419, title III, §§312(a), 313(b), Nov. 1, 2000, 114 Stat. 1854, 1855; Pub. L. 107–14, §4(b), June 5, 2001, 115 Stat. 26; Pub. L. 109–13, div. A, title I, §1012(a)–(c)(1), (d), (f), May 11, 2005, 119 Stat. 244–246; Pub. L. 109–80, §§2, 3(a), 4, 5(a), Sept. 30, 2005, 119 Stat. 2045, 2046; Pub. L. 110–389, title IV, §403(a)(1), (2)(A), Oct. 10, 2008, 122 Stat. 4174; Pub. L. 111–275, title X, §1001(d)(1), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 112–239, div. A, title VI, §642, Jan. 2, 2013, 126 Stat. 1783; Pub. L. 115–232, div. A, title VI, §625, Aug. 13, 2018, 132 Stat. 1801; Pub. L. 116–283, div. A, title X, §1081(b), Jan. 1, 2021, 134 Stat. 3873; Pub. L. 117–209, §2(a), Oct. 17, 2022, 136 Stat. 2243.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(3)(A)(i). Pub. L. 117–209 substituted "$500,000" for "$400,000".
 
 <b>2021</b>—Subsec. (a)(3)(D). Pub. L. 116–283 inserted a comma after "theater of operations" in introductory provisions.
 
@@ -130,13 +132,13 @@ Pub. L. 109–13, §1012(a)(1), which directed the addition of cl. (i) and the s
 
 Subsec. (a)(3)(B). Pub. L. 109–80, §5(a), substituted "member, be evenly divisible by $50,000 and, in the case of a member's spouse," for "member or spouse".
 
-Pub. L. 109–13, §1012(b), which directed substitution of "member, be evenly divisible by $50,000 and, in the case of a member's spouse" for "member or spouse", was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below.
+Pub. L. 109–13, §1012(b), which directed substitution of "member, be evenly divisible by $50,000 and, in the caseof a member's spouse" for "member or spouse", was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below.
 
 Subsec. (a)(3)(D), (E). Pub. L. 109–13, §1012(f)(2)(B), which directed addition of subpars. (D) and (E), was repealed by Pub. L. 109–80, §2. See Effective and Termination Dates of 2005 Amendments note below. Subpars. (D) and (E) read as follows:
 
 "(D) A member with a spouse may not elect not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount provided under subparagraph (A)(i)(I), without the written consent of the spouse.
 
-"(E) Whenever a member who is not married elects not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount provided for under subparagraph (A)(i)(I), the Secretary concerned shall provide a notice of such election to any person designated by the member as a beneficiary or designated as the member's next-of-kin for the purpose of emergency notification,as determined under regulations prescribed by the Secretary of Defense."
+"(E) Whenever a member who is not married elects not to be insured under this subchapter, or to be insured under this subchapter in an amount less than the maximum amount provided for under subparagraph (A)(i)(I), the Secretary concerned shall provide a notice of such election to any person designated by the member as a beneficiary or designated as the member's next-of-kin for the purpose of emergency notification, as determined under regulations prescribed by the Secretary of Defense."
 
 Subsec. (d). Pub. L. 109–80, §3(a)(2), substituted "in effect under paragraph (3)(A)(i) of that subsection" for "of $250,000" in introductory provisions.
 
@@ -272,9 +274,21 @@ Subsec. (c). Pub. L. 91–291 redesignated former subsec. (b) as subsec. (c) and
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–209, §2(b), Oct. 17, 2022, 136 Stat. 2243, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the later of—
+
+&emsp;"(1) the date that is 60 days after the date of the enactment of this Act \[Oct. 17, 2022\]; or
+
+&emsp;"(2) the date on which the Secretary of Veterans Affairs determines that—
+
+&emsp;&emsp;"(A) the amount for which a member will be insured pursuant to the amendment made by subsection (a) and the premiums for such amount are administratively and actuarially sound for the Servicemembers' Group Life Insurance program under subchapter III of chapter 19 of title 38, United States Code, and the Veterans' Group Life Insurance program under section 1977 of such title; and
+
+&emsp;&emsp;"(B) the increase in such amount carried out pursuant to the amendment will not result in such programs operating at a loss."
+
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–389, title IV, §403(e)(1), Oct. 10, 2008, 122 Stat. 4174, provided that: "The amendments made by subsection (a) \[amending this section and section 1969 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 10, 2008\]."
+Pub. L. 110–389, title IV, §403(e)(1), Oct. 10, 2008, 122 Stat. 4174, provided that: "The amendments made bysubsection (a) \[amending this section and section 1969 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 10, 2008\]."
 
 #### Effective and Termination Dates of 2005 Amendments
 
@@ -286,7 +300,7 @@ Pub. L. 109–80, §4, Sept. 30, 2005, 119 Stat. 2046, provided that the amendme
 
 Pub. L. 109–80, §5(b), Sept. 30, 2005, 119 Stat. 2047, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as of September 1, 2005."
 
-Pub. L. 109–77, §115, Sept. 30, 2005, 119 Stat. 2040, provided that: "The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 \[amending this section, sections 1969, 1970, and 1977 of this title, section 1478 of Title 10, Armed Forces, and section 411h of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[119 Stat. 244\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37\], throughthe earlier of: (1) the date specified in section 106(3) of this joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section."
+Pub. L. 109–77, §115, Sept. 30, 2005, 119 Stat. 2040, provided that: "The provisions of, and amendments made by, sections 1011, 1012, 1013, 1023, and 1026 of Public Law 109–13 \[amending this section, sections 1969, 1970, and 1977 of this title, section 1478 of Title 10, Armed Forces, and section 411h of Title 37, Pay and Allowances of the Uniformed Services, and enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37\] shall continue in effect, notwithstanding the fiscal year limitation in section 1011 \[119 Stat. 244\] and the provisions of sections 1012(i), 1013(e), 1023(c), and 1026(e) of that Public Law \[enacting provisions set out as notes under this section, section 1478 of Title 10, and section 411h of Title 37\], through the earlier of: (1) the date specified in section 106(3) of this joint resolution \[Dec. 31, 2005\]; or (2) with respect to any such section of Public Law 109–13, the date of the enactment into law of legislation that supersedes the provisions of, or the amendments made by, that section."
 
 Pub. L. 109–13, div. A, title I, §1012(h), (i), May 11, 2005, 119 Stat. 246, which provided that section 1012 of Pub. L. 109–13, amending this section and sections 1969, 1970, and 1977 of this title, would take effect on the first day of the first month that began more than 90 days after May 11, 2005, and would terminate on Sept. 30, 2005, and that provisions of such sections as in effect on the day before May 11, 2005, would be revived, was repealed by Pub. L. 109–80, §2, Sept. 30, 2005, 119 Stat. 2045, effective Aug. 31, 2005.
 
@@ -354,5 +368,5 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 
 #### Payment of Death Gratuity to SGLI Beneficiaries
 
-Pub. L. 103–139, title VIII, §8134, Nov. 11, 1993, 107 Stat. 1471, required Secretary of Defense to pay death gratuity to each beneficiary under Servicemen's Group Life Insurance policy in case of each deceased member of uniformed services who died on or after Oct. 29, 1992, and before Dec. 1, 1992, and whose death was in performance of duty.
+Pub. L. 103–139, title VIII, §8134, Nov. 11, 1993, 107 Stat. 1471, required Secretary of Defense to pay deathgratuity to each beneficiary under Servicemen's Group Life Insurance policy in case of each deceased member of uniformed services who died on or after Oct. 29, 1992, and before Dec. 1, 1992, and whose death was in performance of duty.
 

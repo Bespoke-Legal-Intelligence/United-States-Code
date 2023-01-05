@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(E) includes only information directly related to the waiver request; and
 
-&emsp;&emsp;(F) describes how schools will continue to provide assistance to the same populations served by programs for which waivers are requested and, if the waiver relates to provisions of subsections (b) or (h) of section 6311 of this title, describes how the State educational agency, local educational agency, school, or Indian tribe will maintain or improve transparency in reporting to parents and the public on student achievement andschool performance, including the achievement of the subgroups of students identified in section 6311(b)(2)(B)(xi) of this title.
+&emsp;&emsp;(F) describes how schools will continue to provide assistance to the same populations served by programs for which waivers are requested and, if the waiver relates to provisions of subsections (b) or (h) of section 6311 of this title, describes how the State educational agency, local educational agency, school, or Indian tribe will maintain or improve transparency in reporting to parents and the public on student achievement and school performance, including the achievement of the subgroups of students identified in section 6311(b)(2)(B)(xi) of this title.
 
 #### (2) Additional information
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) does not revise and resubmit the waiver request; or
 
-&emsp;&emsp;&emsp;&emsp;(II) revises and resubmits the waiver request, and the Secretary determines that such waiver request does not meet the requirements of this section after ahearing conducted under subparagraph (B)(iii), if such a hearing is requested.
+&emsp;&emsp;&emsp;&emsp;(II) revises and resubmits the waiver request, and the Secretary determines that such waiver request does not meet the requirements of this section after a hearing conducted under subparagraph (B)(iii), if such a hearing is requested.
 
 #### (D) External conditions
 
@@ -316,7 +316,7 @@ State and locally-requested waivers.—For a State educational agency, local edu
 
 &emsp;&emsp;"(F) Section 4109(b) \[20 U.S.C. 7119(b)\].
 
-&emsp;&emsp;"(G) The definition under section 8101(42) \[20 U.S.C. 7801(42)\] for purposes of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
+&emsp;&emsp;"(G) The definition under section 8101(42) \[20 U.S.C. 7801(42)\] for purposes of the Elementary andSecondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
 
 &emsp;"(3)
 

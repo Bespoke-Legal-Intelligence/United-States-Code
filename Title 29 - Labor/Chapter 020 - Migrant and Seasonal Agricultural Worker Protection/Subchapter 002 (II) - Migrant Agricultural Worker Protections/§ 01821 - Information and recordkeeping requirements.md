@@ -16,7 +16,7 @@ Each farm labor contractor, agricultural employer, and agricultural association 
 
 &emsp;(6) the existence of any strike or other concerted work stoppage, slowdown, or interruption of operations by employees at the place of employment;
 
-&emsp;(7) the existence of any arrangements with any owner or agent of any establishment in the area of employment under which the farm labor contractor, the agricultural employer, or the agricultural association is to receive a commission or any other benefit resulting from any sales by such establishment to the workers; and
+&emsp;(7) the existence of any arrangements with any owner or agent of any establishment in the area of employment under which the farm labor contractor, the agricultural employer,or the agricultural association is to receive a commission or any other benefit resulting from any sales by such establishment to the workers; and
 
 &emsp;(8) whether State workers' compensation insurance is provided, and, if so, the name of the State workers' compensation insurance carrier, the name of the policyholder of such insurance, the name and the telephone number of each person who must be notified of an injury or death, and the time period within which such notice must be given.
 
@@ -52,7 +52,7 @@ Each farm labor contractor, agricultural employer, and agricultural association 
 
 #### (e) Furnishing of records by farm labor contractor; maintenance of records by recipient
 
-Each farm labor contractor shall provide to any other farm labor contractor, and to any agricultural employer and agricultural association to which such farm labor contractor has furnished migrant agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required toretain by subsection (d)(1). The recipient of such records shall keep them for a period of three years from the end of the period of employment.
+Each farm labor contractor shall provide to any other farm labor contractor, and to any agricultural employer and agricultural association to which such farm labor contractor has furnished migrant agricultural workers, copies of all records with respect to each such worker which such farm labor contractor is required to retain by subsection (d)(1). The recipient of such records shall keep them for a period of three years from the end of the period of employment.
 
 #### (f) Prohibition on knowingly providing false or misleading information to workers
 

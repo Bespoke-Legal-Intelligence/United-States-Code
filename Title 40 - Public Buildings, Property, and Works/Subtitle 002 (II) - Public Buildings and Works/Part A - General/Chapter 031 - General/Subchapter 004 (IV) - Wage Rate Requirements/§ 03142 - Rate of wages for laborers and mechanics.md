@@ -62,7 +62,7 @@ In subsection (a), the words "a State" are substituted for "the geographical lim
 
 In subsection (b), the words "city, town, village, or other" are omitted as unnecessary.
 
-In subsection (d), the words "of a type" are omitted as unnecessary. The words "basic hourly rate of pay"are substituted for "rate of pay described in paragraph (1)" for clarity.
+In subsection (d), the words "of a type" are omitted as unnecessary. The words "basic hourly rate of pay" are substituted for "rate of pay described in paragraph (1)" for clarity.
 
 #### <b>Editorial Notes</b>
 

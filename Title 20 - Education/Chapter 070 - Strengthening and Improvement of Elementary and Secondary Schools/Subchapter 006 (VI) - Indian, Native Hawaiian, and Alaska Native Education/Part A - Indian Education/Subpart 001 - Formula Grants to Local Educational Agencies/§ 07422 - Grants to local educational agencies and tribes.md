@@ -10,7 +10,7 @@ The Secretary may make grants, from allocations made under section 7423 of this 
 
 &emsp;(3) Indian organizations, as provided under subsection (c)(1);
 
-&emsp;(4) consortia of 2 or more local educational agencies, Indian tribes, Indian organizations,or Indian community-based organizations, if each local educational agency participating in such a consortium, if applicable—
+&emsp;(4) consortia of 2 or more local educational agencies, Indian tribes, Indian organizations, or Indian community-based organizations, if each local educational agency participating in such a consortium, if applicable—
 
 &emsp;&emsp;(A) provides an assurance that the eligible Indian children served by such local educational agency will receive the services of the programs funded under this subpart; and
 

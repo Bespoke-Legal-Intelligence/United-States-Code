@@ -1,60 +1,90 @@
 ### <b>CHAPTER 36—ADMINISTRATION OF EDUCATIONAL BENEFITS</b>
 
-#### SUBCHAPTER I—STATE APPROVING AGENCIES
+#### SUBCHAPTER I—EMERGENCY SITUATIONS
 
-| Sec. |  |
-| :--- | ---: |
-| [3670\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003670%20-%20Scope%20of%20approval.md) | Scope of approval. |
-| [3671\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003671%20-%20Designation.md) | Designation. |
-| [3672\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003672%20-%20Approval%20of%20courses.md) | Approval of courses. |
-| [3673\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003673%20-%20Approval%20activities%20cooperation%20and%20coordination%20of%20activities.md) | Approval activities: cooperation and coordination of activities. |
-| [3673A.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003673A%20-%20Risk-based%20surveys.md) | Risk-based surveys. |
-| [3674\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003674%20-%20Reimbursement%20of%20expenses.md) | Reimbursement of expenses. |
-| [3674A.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003674A%20-%20Evaluations%20of%20agency%20performance%3B%20qualifications%20and%20performance%20of%20agency%20personnel.md) | Evaluations of agency performance; qualifications and performance of agency personnel. |
-| [3675\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003675%20-%20Approval%20of%20accredited%20courses.md) | Approval of accredited courses. |
-| [3676\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003676%20-%20Approval%20of%20nonaccredited%20courses.md) | Approval of nonaccredited courses. |
-| [3677\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003677%20-%20Approval%20of%20training%20on%20the%20job.md) | Approval of training on the job. |
-| [3678\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003678%20-%20Notice%20of%20approval%20of%20courses.md) | Notice of approval of courses. |
-| [3679\.](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/%C2%A7%2003679%20-%20Disapproval%20of%20courses.md) | Disapproval of courses. |
+|  |
+| :--- |
+| 3601\.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER II—MISCELLANEOUS PROVISIONS
+Definition of emergency situation.
 
 |  |  |
 | :--- | ---: |
-| [3680\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003680%20-%20Payment%20of%20educational%20assistance%20or%20subsistence%20allowances.md) | Payment of educational assistance or subsistence allowances. |
-| [3680A.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003680A%20-%20Disapproval%20of%20enrollment%20in%20certain%20courses.md) | Disapproval of enrollment in certain courses. |
-| [3681\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003681%20-%20Limitations%20on%20educational%20assistance.md) | Limitations on educational assistance. |
-| [3682\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003682%20-%20Control%20by%20agencies%20of%20the%20United%20States.md) | Control by agencies of the United States. |
-| [3683\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003683%20-%20Conflicting%20interests.md) | Conflicting interests. |
-| [3684\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003684%20-%20Reports%20by%20veterans%2C%20eligible%20persons%2C%20and%20institutions%3B%20reporting%20fee.md) | Reports by veterans, eligible persons, and institutions; reporting fee. |
-| [3684A.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003684A%20-%20Procedures%20relating%20to%20computer%20matching%20program.md) | Procedures relating to computer matching program. |
-| [3685\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003685%20-%20Overpayments%20to%20eligible%20persons%20or%20veterans.md) | Overpayments to eligible persons or veterans. |
-| [3686\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003686%20-%20Correspondence%20courses.md) | Correspondence courses. |
-| [3687\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003687%20-%20Apprenticeship%20or%20other%20on-job%20training.md) | Apprenticeship or other on-job training. |
-| [3688\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003688%20-%20Measurement%20of%20courses.md) | Measurement of courses. |
-| [3689\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003689%20-%20Approval%20requirements%20for%20licensing%20and%20certification%20testing.md) | Approval requirements for licensing and certification testing. |
-| [3690\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003690%20-%20Overcharges%20by%20educational%20institutions%3B%20discontinuance%20of%20allowances%3B%20examination%20of%20records%3B%20false%20or%20misleading%20statements.md) | Overcharges by educational institutions; discontinuance of allowances; examination of records; false or misleading statements. |
-| [3691\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003691%20-%20Change%20of%20program.md) | Change of program. |
-| [3692\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003692%20-%20Advisory%20committee.md) | Advisory committee. |
-| [3693\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003693%20-%20Compliance%20surveys.md) | Compliance surveys. |
-| [3694\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003694%20-%20Use%20of%20other%20Federal%20agencies.md) | Use of other Federal agencies. |
-| [3695\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003695%20-%20Limitation%20on%20period%20of%20assistance%20under%20two%20or%20more%20programs.md) | Limitation on period of assistance under two or more programs. |
-| [3696\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003696%20-%20Prohibition%20on%20certain%20advertising%2C%20sales%2C%20and%20enrollment%20practices.md) | Prohibition on certain advertising, sales, and enrollment practices. |
-| [3697\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003697%20-%20Funding%20of%20contract%20educational%20and%20vocational%20counseling.md) | Funding of contract educational and vocational counseling. |
-| [3697A.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003697A%20-%20Educational%20and%20vocational%20counseling.md) | Educational and vocational counseling. |
-| [3697B.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003697B%20-%20On-campus%20educational%20and%20vocational%20counseling.md) | On-campus educational and vocational counseling. |
-| [3698\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003698%20-%20Comprehensive%20policy%20on%20providing%20education%20information%20to%20veterans.md) | Comprehensive policy on providing education information to veterans. |
-| [3699\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003699%20-%20Effects%20of%20closure%20or%20disapproval%20of%20educational%20institution.md) | Effects of closure or disapproval of educational institution. |
-| [3699A.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003699A%20-%20Provision%20of%20certain%20information%20to%20educational%20institutions.md) | Provision of certain information to educational institutions. |
-| [3699B.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003699B%20-%20Treatment%20of%20certain%20for-profit%20educational%20institutions.md) | Treatment of certain for-profit educational institutions. |
+| 3602\. | Continuation of educational assistance benefits during emergency situations. |
+| 3603\. | Continuation of educational assistance benefits for certain programs of education converted to distance learning by reason of emergency situations. |
+| 3604\. | Effects of closure of educational institution and modification of courses by reason of emergency situation. |
+| 3605\. | Payment of educational assistance in cases of withdrawal. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER II—STATE APPROVING AGENCIES
+
+| Sec.<sup>2</sup> |
+| :--- |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 3670\. | Scope of approval. |
+| 3671\. | Designation. |
+| 3672\. | Approval of courses. |
+| 3672A. | Uniform application. |
+| 3673\. | Approval activities: cooperation and coordination of activities. |
+| 3673A. | Risk-based surveys. |
+| 3674\. | Reimbursement of expenses. |
+| 3674A. | Evaluations of agency performance; qualifications and performance of agency personnel. |
+| 3675\. | Approval of accredited courses. |
+| 3676\. | Approval of nonaccredited courses. |
+| 3677\. | Approval of training on the job. |
+| 3678\. | Notice of approval of courses. |
+| 3679\. | Disapproval of courses. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER III—MISCELLANEOUS PROVISIONS
+
+|  |  |
+| :--- | ---: |
+| 3680\. | Payment of educational assistance or subsistence allowances. |
+| 3680A. | Disapproval of enrollment in certain courses. |
+| 3681\. | Limitations on educational assistance. |
+| 3682\. | Control by agencies of the United States. |
+| 3683\. | Conflicting interests. |
+| 3684\. | Reports by veterans, eligible persons, and institutions; reporting fee. |
+| 3684A. | Procedures relating to computer matching program. |
+| 3685\. | Overpayments to eligible persons or veterans. |
+| 3686\. | Correspondence courses. |
+| 3687\. | Apprenticeship or other on-job training. |
+| 3688\. | Measurement of courses. |
+| 3689\. | Approval requirements for licensing and certification testing. |
+| 3690\. | Overcharges by educational institutions; discontinuance of allowances; examination of records; false or misleading statements. |
+| 3691\. | Change of program. |
+| 3691A. | Withdrawal or leave of absence from certain education. |
+| 3692\. | Advisory committee. |
+| 3693\. | Compliance surveys. |
+| 3694\. | Use of other Federal agencies. |
+| 3695\. | Limitation on period of assistance under two or more programs. |
+| 3696\. | Prohibition on certain advertising, sales, and enrollment practices. |
+| 3697\. | Funding of contract educational and vocational counseling. |
+| 3697A. | Educational and vocational counseling. |
+| 3697B. | On-campus educational and vocational counseling. |
+| 3698\. | Comprehensive policy on providing education information to veterans. |
+| 3699\. | Effects of closure or disapproval of educational institution. |
+| 3699A. | Provision of certain information to educational institutions. |
+| 3699B. | Treatment of certain for-profit educational institutions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 117–333, §§2(b), 11(b), Jan. 5, 2023, 136 Stat. 6125, 6134, redesignated items for subchapter I and subchapter II as subchapter II and subchapter III, respectively, and added item for subchapter I and items 3601 to 3605 and 3672A.
+
+<b>2022</b>—Pub. L. 117–328, div. U, title II, §216(b), Dec. 29, 2022, 136 Stat. 5456, added item 3691A.
 
 <b>2021</b>—Pub. L. 116–315, title I, §§1013(a)(2), 1020(a)(2), 1022(b), Jan. 5, 2021, 134 Stat. 4943, 4958, 4959, added items 3673A, 3696, and 3699B and struck out former item 3696 "Limitation on certain advertising, sales, and enrollment practices".
 
@@ -104,10 +134,15 @@ Pub. L. 100–323, §13(b)(1)(B), May 20, 1988, 102 Stat. 573, added item 1774A.
 
 <b>1966</b>—Pub. L. 89–358, §3(a)(4), Mar. 3, 1966, 80 Stat. 20, substituted "CHAPTER 36—ADMINISTRATION OF EDUCATIONAL BENEFITS" heading, including Subchapter I and II analyses, preceding section 1770 of this title for "SUBCHAPTER VII—STATE APPROVING AGENCIES" heading preceding section 1771 of this title, Subchapter VII heading being redesignated Subchapter I.
 
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "Sec.".</i>
+
+<i><sup>2</sup></i><i> So in original. "Sec." probably should not appear.</i>
+
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [Subchapter 001 (I) - State Approving Agencies](Subchapter%20001%20%28I%29%20-%20State%20Approving%20Agencies/README.md)
-- [Subchapter 002 (II) - Miscellaneous Provisions](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/README.md)
+- [Subchapter 001 (I) - Emergency Situations](Subchapter%20001%20%28I%29%20-%20Emergency%20Situations/README.md)
+- [Subchapter 002 (II) - State Approving Agencies](Subchapter%20002%20%28II%29%20-%20State%20Approving%20Agencies/README.md)
+- [Subchapter 003 (III) - Miscellaneous Provisions](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/README.md)

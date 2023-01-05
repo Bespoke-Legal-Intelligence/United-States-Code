@@ -126,7 +126,7 @@ Contents.—An air tour management plan for a national park—
 
 &emsp;&emsp;(A) may prohibit commercial air tour operations over a national park in whole or in part;
 
-&emsp;&emsp;(B) may establish conditions for the conduct of commercial air tour operations over a national park, including commercial air tour routes, maximum or minimum altitudes, time-of-day restrictions, restrictions for particular events, maximum number of flights per unit of time, intrusions on privacy on tribal lands, and mitigation of noise, visual, or other impacts;
+&emsp;&emsp;(B) may establish conditions for the conduct of commercial air tour operations over a national park, including commercial air tour routes, maximum or minimum altitudes, time-of-day restrictions, restrictionsfor particular events, maximum number of flights per unit of time, intrusions on privacy on tribal lands, and mitigation of noise, visual, or other impacts;
 
 &emsp;&emsp;(C) shall apply to all commercial air tour operations over a national park that are also within ½ mile outside the boundary of a national park;
 
@@ -294,7 +294,7 @@ Existing commercial air tour operator.—The term "existing commercial air tour 
 
 &emsp;(3)
 
-New entrant commercial air tour operator.—The term "new entrant commercial air tour operator" means a commercial air tour operator that—
+New entrant commercial air tour operator.—The term "new entrant commercial airtour operator" means a commercial air tour operator that—
 
 &emsp;&emsp;(A) applies for operating authority as a commercial air tour operator for a national park or tribal lands; and
 
@@ -498,7 +498,7 @@ Resolution of disputes.—Subject to applicable administrative law and procedure
 
 #### National Parks Air Tour Management
 
-Pub. L. 106–181, title VIII, Apr. 5, 2000, 114 Stat. 185, as amended by Pub. L. 106–528, §8(b), Nov. 22, 2000, 114 Stat. 2522, provided that:
+Pub. L. 106–181, title VIII, Apr. 5, 2000, 114 Stat. 185, as amended by Pub. L. 106–528, §8(b), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 117–286, §4(a)(312), Dec. 27, 2022, 136 Stat. 4340, provided that:
 
 #### "SEC. 801. SHORT TITLE.
 
@@ -622,7 +622,11 @@ Duties.—The advisory group shall provide advice, information, and recommendati
 
 "(d)
 
-Compensation; Support; FACA.—
+Compensation; Support; Chapter 10
+
+of Title 5
+
+, United States Code.—
 
 &emsp;"(1)
 
@@ -634,7 +638,11 @@ Administrative support.—The Federal Aviation Administration and the National P
 
 &emsp;"(3)
 
-Nonapplication of faca.—Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) does not apply to the advisory group.
+Nonapplication of Chapter 10
+
+of title 5
+
+, united states code.—Section 1013 of title 5, United States Code, does not apply to the advisory group.
 
 #### "SEC. 806. PROHIBITION OF COMMERCIAL AIR TOUR OPERATIONS OVER THE ROCKY MOUNTAIN NATIONAL PARK.
 
@@ -696,7 +704,7 @@ Report to Congress.—The Secretary shall submit a report to the Congress within
 
 "(e)
 
-FAA Review of Rules.—The Administrator shall review current rules and regulations pertaining to flights of aircraft over units of the National Park System at which research is conducted under subsection (c) and over any other such units at which such a review is determined necessary by the Administrator or is requested by the Secretary. In the review under this subsection, the Administrator shall determine whether changes are needed in such rules and regulations on the basis of aviation safety. Not later than 180 days after the identification of the units of the National Park System for which research is to be conducted under subsection (c), the Administrator shall submit a report to Congress containing the results of the review along with recommendations for legislative and regulatory action which are needed to implement any such changes.
+FAA Review of Rules.—The Administrator shall review current rules and regulations pertaining to flights of aircraft over units of the National Park System at which research is conducted under subsection (c) and over any other such units at which such a review is determined necessary by the Administrator or is requested by the Secretary. In the review under this subsection, the Administrator shall determine whetherchanges are needed in such rules and regulations on the basis of aviation safety. Not later than 180 days after the identification of the units of the National Park System for which research is to be conducted under subsection (c), the Administrator shall submit a report to Congress containing the results of the review along with recommendations for legislative and regulatory action which are needed to implement any such changes.
 
 "(f)
 

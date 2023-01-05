@@ -14,7 +14,7 @@ In carrying out the activities under section 278h–1 of this title as amended b
 
 #### References in Text
 
-Section 278h–1 of this title as amended by title III of this Act, referred to in text, probably means section 278h–1 of this title as added by title LIII of Pub. L. 116–283, div. E, Jan. 1, 2021, 134 Stat. 4536.
+Section 278h–1 of this title as amended by title III of this Act, referred to in text, probably means section278h–1 of this title as added by title LIII of Pub. L. 116–283, div. E, Jan. 1, 2021, 134 Stat. 4536.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

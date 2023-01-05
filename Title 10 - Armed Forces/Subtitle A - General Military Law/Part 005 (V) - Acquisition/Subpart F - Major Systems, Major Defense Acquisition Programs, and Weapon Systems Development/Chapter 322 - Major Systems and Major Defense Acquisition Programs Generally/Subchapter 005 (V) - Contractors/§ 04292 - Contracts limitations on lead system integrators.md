@@ -48,7 +48,7 @@ Prohibitions on the Use of Lead Systems Integrators.—
 
 &emsp;"(1)
 
-Prohibition on new lead systems integrators.—Effective October 1, 2010, the Department of Defense may not award a new contract for lead systems integrator functions in the acquisition of a major system to any entity that was not performing lead systems integrator functions in the acquisition of the major system prior to the date of the enactment of this Act \[Jan. 28, 2008\].
+Prohibition on new lead systems integrators.—Effective October 1, 2010, the Department ofDefense may not award a new contract for lead systems integrator functions in the acquisition of a major system to any entity that was not performing lead systems integrator functions in the acquisition of the major system prior to the date of the enactment of this Act \[Jan. 28, 2008\].
 
 &emsp;"(2)
 

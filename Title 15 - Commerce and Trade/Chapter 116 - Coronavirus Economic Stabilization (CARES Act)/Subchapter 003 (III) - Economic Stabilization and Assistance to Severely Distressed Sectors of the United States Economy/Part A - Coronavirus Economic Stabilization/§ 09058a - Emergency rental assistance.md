@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(iv) utilities and home energy costs arrears; and
 
-&emsp;&emsp;&emsp;(v) other expenses related to housing incurred due, directly or indirectly, to the novel coronavirus disease (COVID-19) outbreak, as defined by the Secretary.
+&emsp;&emsp;&emsp;(v) other expenses related to housing incurred due, directly or indirectly, to the novel coronavirus disease (COVID–19) outbreak, as defined by the Secretary.
 
 > &emsp;&emsp;Such assistance shall be provided for a period not to exceed 12 months except that grantees may provide assistance for an additional 3 months only if necessary to ensure housing stability for a household subject to the availability of funds.
 
@@ -132,7 +132,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to the exception in clause (ii), an eligible grantee shall not provide an eligible household with financial assistance forprospective rent payments for more than 3 months based on any application by or on behalf of the household.
+&emsp;&emsp;&emsp;Subject to the exception in clause (ii), an eligible grantee shall not provide an eligible household with financial assistance for prospective rent payments for more than 3 months based on any application by or on behalf of the household.
 
 #### (ii) Exception
 
@@ -164,7 +164,7 @@
 
 #### (3) Housing stability services
 
-&emsp;Not more than 10 percent of funds received by an eligible grantee from a payment made under this section may be used to provide eligible households with case management and other services related to the novel coronavirus disease (COVID-19) outbreak, as defined by the Secretary, intended to help keep households stably housed.
+&emsp;Not more than 10 percent of funds received by an eligible grantee from a payment made under this section may be used to provide eligible households with case management and other services related to the novel coronavirus disease (COVID–19) outbreak, as defined by the Secretary, intended to help keep households stably housed.
 
 #### (4) Prioritization of assistance
 
@@ -174,7 +174,7 @@
 
 &emsp;&emsp;(ii) 1 or more individuals within the household are unemployed as of the date of the application for assistance and have not been employed for the 90-day period preceding such date.
 
-&emsp;(B) Nothing in this section shall be construed to prohibit an eligible grantee from providing a process for the further prioritizing of applications for financial assistance and housing stability services from a payment made under this section, including to eligible households in which 1 or more individuals within the household were unable to reach their place of employment or their place of employment was closed because of a public health order imposed as a direct result of the COVID-19 public health emergency.
+&emsp;(B) Nothing in this section shall be construed to prohibit an eligible grantee from providing a process for the further prioritizing of applications for financial assistance and housing stability services from a payment made under this section, including to eligible households in which 1 or more individuals within the household were unable to reach their place of employment or their place of employment was closed because of a public health order imposed as a direct result of the COVID–19 public health emergency.
 
 #### (5) Administrative costs
 
@@ -188,7 +188,7 @@
 
 #### (d) Reallocation of unused funds
 
-Beginning on September 30, 2021, the Secretary shall recapture excess funds, as determined by the Secretary, not obligated by a grantee for the purposes described under subsection (c) and the Secretary shall reallocate and repay such amounts to eligible grantees who, at the time of such reallocation, have obligated at least 65 percent of the amount originally allocated and paid to such grantee under subsection (b)(1), only for the allowable uses described under subsection (c). The amount of any such reallocation shall be determined based on demonstrated need within a grantee's jurisdiction, as determined by the Secretary.
+Beginning on September 30, 2021, the Secretary shall recapture excess funds, as determined by the Secretary, not obligated by a grantee for the purposes described under subsection (c) and the Secretary shall reallocate and repay such amounts to eligible grantees who, at the time of such reallocation, have obligated at least 65 percent of the amount originally allocated and paid to such grantee under subsection (b)(1), only for the allowable uses described under subsection (c). The amount of anysuch reallocation shall be determined based on demonstrated need within a grantee's jurisdiction, as determined by the Secretary.
 
 #### (e) Availability
 
@@ -284,7 +284,7 @@ Beginning on September 30, 2021, the Secretary shall recapture excess funds, as 
 
 #### (h) Administrative expenses of the Secretary
 
-Of the funds appropriated pursuant to subsection (a), not more than $15,000,000 may be used for administrative expenses of the Secretary in administering this section, including technical assistance to grantees in order to facilitate effective use of funds provided under this section.
+Of the funds appropriated pursuant to subsection (a), not more than $15,000,000 may beused for administrative expenses of the Secretary in administering this section, including technical assistance to grantees in order to facilitate effective use of funds provided under this section.
 
 #### (i) Inspector General Oversight; Recoupment
 
@@ -302,7 +302,7 @@ Of the funds appropriated pursuant to subsection (a), not more than $15,000,000 
 
 #### (4) Authority of Inspector General
 
-&emsp;Nothing in this subsection shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.)
+&emsp;Nothing in this subsection shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.) <sup>3</sup>
 
 #### (j) Treatment of assistance
 
@@ -334,7 +334,7 @@ In this section:
 
 &emsp;&emsp;The term "eligible household" means a household of 1 or more individuals who are obligated to pay rent on a residential dwelling and with respect to which the eligible grantee involved determines—
 
-&emsp;&emsp;&emsp;(i) that 1 or more individuals within the household has <sup>3</sup>
+&emsp;&emsp;&emsp;(i) that 1 or more individuals within the household has <sup>4</sup>
 
 &emsp;&emsp;&emsp;&emsp;(I) qualified for unemployment benefits or
 
@@ -390,7 +390,7 @@ The Native American Housing Assistance and Self-Determination Act of 1996, refer
 
 The Further Consolidated Appropriations Act, 2020, referred to in subsecs. (b)(2)(A)(ii) and (k)(2)(C), is Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 2534. Provisions under the heading "native american programs" under the heading "Public and Indian Housing" of title II of division H of the Act \[133 Stat. 2985\] are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (i)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (i)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§401 et seq.) of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (k)(2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
@@ -408,5 +408,7 @@ Section was enacted as part of the Consolidated Appropriations Act, 2021, and no
 
 <i><sup>2</sup></i><i> See Codification note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a dash.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a period. See References in Text note below.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be followed by a dash.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Deputy Secretary
 
-There shall be in the Department a Deputy Secretary, who shall be appointed by the President, by and with the advice and consent of theSenate, and who shall be compensated at the rate provided for level II of the Executive Schedule under section 5313 of title 5. The Deputy Secretary shall act for and exercise the functions of the Secretary during the absence or disability of the Secretary or in the event the office of Secretary becomes vacant. The Secretary shall designate the order in which the Under Secretary and other officials shall act for and perform the functions of the Secretary during the absence or disability of both the Secretary and Deputy Secretary or in the event of vacancies in both of those offices.
+There shall be in the Department a Deputy Secretary, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate provided for level II of the Executive Schedule under section 5313 of title 5. The Deputy Secretary shall act for and exercise the functions of the Secretary during the absence or disability of the Secretary or in the event the office of Secretary becomes vacant. The Secretary shall designate the order in which the Under Secretary and other officials shall act for and perform the functions of the Secretary during the absence or disability of both the Secretary and Deputy Secretary or in the event of vacancies in both of those offices.
 
 #### (b) Under Secretary for Science
 
@@ -34,7 +34,7 @@ There shall be in the Department a Deputy Secretary, who shall be appointed by t
 
 #### (c) Under Secretary for Nuclear Security
 
-(1) There shall be in the Department an Under Secretary for Nuclear Security, who shall be appointed by the President, by and with the advice and consent of the Senate. The Under Secretary shall be compensated at the rate provided for at level III of the Executive Schedule under section 5314 of title 5.
+(1) There shall be in the Department an Under Secretary for Nuclear Security, who shall be appointed by the President, by and with the adviceand consent of the Senate. The Under Secretary shall be compensated at the rate provided for at level III of the Executive Schedule under section 5314 of title 5.
 
 (2) The Under Secretary for Nuclear Security shall be appointed from among persons who—
 
@@ -76,7 +76,7 @@ Pub. L. 106–398, §1 \[div. C, title XXXI, §3151\], Oct. 30, 2000, 114 Stat. 
 
 "(a)
 
-Length of Term.—The term of office as Under Secretary for Nuclear Security of the Department ofEnergy of the person first appointed to that position shall be three years.
+Length of Term.—The term of office as Under Secretary for Nuclear Security of the Department of Energy of the person first appointed to that position shall be three years.
 
 "(b)
 

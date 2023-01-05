@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to the provisions required in subsection (b) of suchsection) that the school will make a loan from such fund to a student only if the student agrees—
+&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to the provisions required in subsection (b) of such section) that the school will make a loan from such fund to a student only if the student agrees—
 
 &emsp;&emsp;(A) to enter and complete a residency training program in primary health care not later than 4 years after the date on which the student graduates from such school; and
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(II) a school contribution made under section 292q of this title pursuant to such a Federal capital contribution (in this section referred to as an "exempt school contribution").
 
-&emsp;(B) A Federal capital contribution under section 292q of this title may not be construed as being an exempt Federal capital contribution if the contribution was made from amounts appropriated before October 1, 1990. A school contribution under section 292q of this title may not be construed as being an exempt school contribution if the contribution was made pursuant to a Federal capital contribution under such section that was made from amounts appropriated before such date.
+&emsp;(B) A Federal capital contribution under section 292q of this title may not be construed as being an exempt Federal capital contribution if the contribution was made from amounts appropriated before October 1, 1990. A school contribution under section 292q of this title may not be construed as being an exempt school contribution if the contribution wasmade pursuant to a Federal capital contribution under such section that was made from amounts appropriated before such date.
 
 #### (3) Noncompliance by student
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(iii) for any subsequent 1-year period under paragraph (1), an amount equal to 30 percent of the income received during such period by the student loan fund.
 
-&emsp;(C) In determining the amount of income that a student loan fund has received for purposes of subparagraph (B), the Secretary shall exclude any income derived from exempt contributions. Payments made to the Secretary under subparagraph (A) may not be made with such contributions or with income derived from such contributions.
+&emsp;(C) In determining the amount of income that a student loan fund has received for purposes of subparagraph (B), the Secretary shall exclude any income derived from exempt contributions. Payments made to the Secretary under subparagraph (A) may not be made withsuch contributions or with income derived from such contributions.
 
 #### (5) Expenditure of payments
 
@@ -130,7 +130,7 @@ Subsec. (a)(3). Pub. L. 111–148, §5201(a)(1)(B), added par. (3) and struck ou
 
 Subsec. (d). Pub. L. 111–148, §5201(a)(2), added subsec. (d).
 
-<b>1998</b>—Subsec. (a)(3). Pub. L. 105–392, §131(b), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: "Each agreement entered into with a student pursuantto paragraph (1) shall provide that, if the student fails to comply with the agreement—
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–392, §131(b), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: "Each agreement entered into with a student pursuant to paragraph (1) shall provide that, if the student fails to comply with the agreement—
 
 &emsp;"(A) the balance due on the loan involved will be immediately recomputed from the date of issuance at an interest rate of 12 percent per year, compounded annually; and
 
@@ -152,7 +152,7 @@ Subsec. (b)(4)(B). Pub. L. 103–43, §2014(c)(2)(C), substituted "1997" for "19
 
 #### Student Loan Guidelines
 
-Pub. L. 111–148, title V, §5201(b), Mar. 23, 2010, 124 Stat. 607, provided that: "The Secretary of Health and Human Services shall not require parental financial information for an independent student to determine financial need under section 723 of the Public Health Service Act (42 U.S.C. 292s) and the determination of need for such information shall be at the discretion of applicable school loan officer. The Secretary shall amend guidelines issued by the Health Resources and Services Administration in accordance with the preceding sentence."
+Pub. L. 111–148, title V, §5201(b), Mar. 23, 2010, 124 Stat. 607, provided that: "The Secretary of Health and Human Services shall not require parental financial information for an independent student to determine financial need under section 723 of the Public Health Service Act (42 U.S.C. 292s) and the determination of need for such information shall be at the discretion of applicable school loan officer. The Secretary shall amend guidelines issued by the Health Resources andServices Administration in accordance with the preceding sentence."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

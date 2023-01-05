@@ -544,7 +544,7 @@ Notice of Reprogramming.—If any funds authorized for carrying out this title \
 
 "(b)
 
-Notice of Reorganization.—On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department \[of Transportation\] for which funds are authorized by this title or the amendments made by this title, the Secretary \[of Transportation\] shall provide notice of the reorganization to the Committees on Transportation and Infrastructure and Science \[now Science,Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate."
+Notice of Reorganization.—On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department \[of Transportation\] for which funds are authorized by this title or the amendments made by this title, the Secretary \[of Transportation\] shall provide notice of the reorganization to the Committees on Transportation and Infrastructure and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate."
 
 Pub. L. 105–178, title V, §5003, June 9, 1998, 112 Stat. 422, provided that:
 

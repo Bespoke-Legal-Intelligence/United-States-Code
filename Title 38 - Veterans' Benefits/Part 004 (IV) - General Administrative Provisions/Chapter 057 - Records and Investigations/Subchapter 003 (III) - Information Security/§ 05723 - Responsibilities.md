@@ -106,7 +106,7 @@ Other Key Officials.—In accordance with the provisions of subchapter III of ch
 
 &emsp;&emsp;(B) organizational managers have all necessary authority and means to direct full compliance with such orders from the Assistant Secretary.
 
-&emsp;(6) Ensuring the VA National Rules of Behavior is signed and enforced by all system users to ensure appropriate use and protectionof the information which is used to support Department missions and functions on an annual basis.
+&emsp;(6) Ensuring the VA National Rules of Behavior is signed and enforced by all system users to ensure appropriate use and protection of the information which is used to support Department missions and functions on an annual basis.
 
 (f)
 
@@ -128,7 +128,7 @@ Inspector General of Department of Veterans Affairs.—In accordance with the pr
 
 &emsp;(1) Conducting an annual audit of the Department information security program.
 
-&emsp;(2) Submitting an independent annual report to the Office of Management and Budget on the status of the Department information security program, based on the results of the annual audit.
+&emsp;(2) Submitting an independent annual report to the Office of Management and Budget onthe status of the Department information security program, based on the results of the annual audit.
 
 &emsp;(3) Conducting investigations of complaints and referrals of violations as considered appropriate by the Inspector General.
 

@@ -1,6 +1,6 @@
 ### §1784. Lands in Alaska; designation as wilderness; management by Bureau of Land Management pending Congressional action
 
-Notwithstanding any other provision of law, section 1782 of this title shall not apply to any lands in Alaska. However, in carrying out his duties under sections 1711 and 1712 of this title and other applicable laws, the Secretary may identify areas in Alaska which he determines are suitable as wilderness and may, from time to time, make recommendations to the Congress for inclusion of any such areas in the National Wilderness Preservation System, pursuant to the provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\]. In the absence of congressional action relating to any such recommendation of the Secretary, the Bureau of Land Management shall manage all such areas which are within its jurisdiction in accordance with the applicable land use plans and applicable provisions of law.
+Notwithstanding any other provision of law, section 1782 of this title shall not apply to anylands in Alaska. However, in carrying out his duties under sections 1711 and 1712 of this title and other applicable laws, the Secretary may identify areas in Alaska which he determines are suitable as wilderness and may, from time to time, make recommendations to the Congress for inclusion of any such areas in the National Wilderness Preservation System, pursuant to the provisions of the Wilderness Act \[16 U.S.C. 1131 et seq.\]. In the absence of congressional action relating to any such recommendation of the Secretary, the Bureau of Land Management shall manage all such areas which are within its jurisdiction in accordance with the applicable land use plans and applicable provisions of law.
 
 (Pub. L. 96–487, title XIII, §1320, Dec. 2, 1980, 94 Stat. 2487.)
 
@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, section 1782 of this title shall not
 
 #### References in Text
 
-The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of Title 16 and Tables.
+The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of Title 16 and Tables.
 
 #### Codification
 
@@ -106,7 +106,7 @@ Lands to be conveyed to the united states.—The lands to be conveyed by KNA to 
 
 &emsp;&emsp;&emsp;"(vi) The conveyance of an access easement providing the United States and its assigns access across KNA's surface estate in the SW¼ of section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska.
 
-&emsp;&emsp;&emsp;"(vii) The conveyance of approximately 100 acres within the Beaver Creek Patented Tract, which is contiguous to lands being retained by the United States contiguous to the Beaver Creek Patented Tract, in exchange for 280 acres of Service lands currently situated within the Beaver Creek Selected Tract.
+&emsp;&emsp;&emsp;"(vii) The conveyance of approximately 100 acres within the Beaver Creek Patented Tract, which is contiguous to lands being retained bythe United States contiguous to the Beaver Creek Patented Tract, in exchange for 280 acres of Service lands currently situated within the Beaver Creek Selected Tract.
 
 &emsp;&emsp;"(B)
 
@@ -122,7 +122,7 @@ Lands to be conveyed to kna.—The rights provided or lands to be conveyed by th
 
 &emsp;&emsp;&emsp;"(iv) The nonexclusive right to excavate within the subsurface estate as reasonably necessary for structures, utilities, transportation systems, and other development of the surface estate on the SW¼, section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska, where the entire subsurface of the land is owned by the United States and which public lands shall continue to be withdrawn from mining following their removal from the Refuge boundary under paragraph (3)(A)(ii). The United States shall retain the ownership of all other sand and gravel located within the subsurface of this parcel.
 
-&emsp;&emsp;&emsp;"(v) The surface estate of approximately 280 acres known as the Beaver Creek Selected Tract.This tract shall be conveyed to KNA in exchange for lands conveyed to the United States as described in paragraph (2)(A)(ii).
+&emsp;&emsp;&emsp;"(v) The surface estate of approximately 280 acres known as the Beaver Creek Selected Tract. This tract shall be conveyed to KNA in exchange for lands conveyed to the United States as described in paragraph (2)(A)(ii).
 
 &emsp;&emsp;"(C)
 
@@ -148,7 +148,7 @@ Removal of kna lands from the national wildlife refuge system.—
 
 &emsp;&emsp;&emsp;"(iii) The Secretary is authorized to acquire by purchase or exchange, on a willing seller basis only, any lands retained by or conveyed to KNA. In the event that any lands owned by KNA are subsequently acquired by the United States, they shall be automatically included in the Refuge System. The laws and regulations applicable to Refuge lands shall then apply to these lands and the Secretary shall then adjust the boundaries accordingly.
 
-&emsp;&emsp;&emsp;"(iv) Nothing in this section is intended to enlarge or diminish the authorities, rights, duties, obligations, or the property rights held by CIRI under the Terms and Conditions, or otherwise except as set forth in this section. In the event of the purchase by the United States of any lands from KNA in accordance with subparagraph (A)(ii), the United States shall reassume from KNA the rights it previously held under the Terms and Conditions and the provisions in any patent implementing section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] will again apply.
+&emsp;&emsp;&emsp;"(iv) Nothing in this section is intended to enlarge or diminish the authorities, rights, duties, obligations, or the property rights held by CIRI under the Terms and Conditions, or otherwise except as set forth in this section. In the event of the purchase by the United States of any lands from KNA in accordance with subparagraph (A)(ii), the United States shall reassume from KNA the rights it previously held under the Terms and Conditions and the provisions in anypatent implementing section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] will again apply.
 
 &emsp;&emsp;&emsp;"(v) By virtue of implementation of this section, CIRI is deemed entitled to 1,207 acres of in-lieu subsurface entitlement under section 12(a)(1) of ANCSA \[43 U.S.C. 1611(a)(1)\]. Such entitlement shall be fulfilled in accordance with paragraph 1(B)(2)(A) of the Terms and Conditions.
 

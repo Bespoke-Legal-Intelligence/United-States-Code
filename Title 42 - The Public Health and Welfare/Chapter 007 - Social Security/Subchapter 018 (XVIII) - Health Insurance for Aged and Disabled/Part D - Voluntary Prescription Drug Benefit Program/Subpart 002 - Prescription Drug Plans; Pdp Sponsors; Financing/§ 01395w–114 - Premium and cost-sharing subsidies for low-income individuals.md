@@ -1,10 +1,10 @@
 ### §1395w–114. Premium and cost-sharing subsidies for low-income individuals
 
-#### (a) Income-related subsidies for individuals with income up to 150 percent of poverty line
+#### (a) Income-related subsidies for certain individuals
 
-#### (1) Individuals with income below 135 percent of poverty line
+#### (1) Individuals with certain low incomes
 
-&emsp;In the case of a subsidy eligible individual (as defined in paragraph (3)) who is determined to have income that is below 135 percent of the poverty line applicable to a family of the size involved and who meets the resources requirement described in paragraph (3)(D) or who is covered under this paragraph under paragraph (3)(B)(i), the individual is entitled under this section to the following:
+&emsp;In the case of a subsidy eligible individual (as defined in paragraph (3)) who is determined to have income that is below 135 percent (or, with respect to a plan year beginning on or after January 1, 2024, 150 percent) of the poverty line applicable to a family of the size involved and who meets the resources requirement described in paragraph (3)(D) (or, with respect to a plan year beginning on or after January 1, 2024, paragraph (3)(E)) or who is covered under this paragraph under paragraph (3)(B)(i), the individual is entitled under this section to the following:
 
 #### (A) Full premium subsidy
 
@@ -16,7 +16,7 @@
 
 #### (C) Continuation of coverage above the initial coverage limit
 
-&emsp;&emsp;The continuation of coverage from the initial coverage limit (under paragraph (3) of section 1395w–102(b) of this title) for expenditures incurred through the total amount of expenditures at which benefits are available under paragraph (4) of such section, subject to the reduced cost-sharing described in subparagraph (D).
+&emsp;&emsp;For a year preceding 2025, the continuation of coverage from the initial coverage limit (under paragraph (3) of section 1395w–102(b) of this title) for expenditures incurred through the total amount of expenditures at which benefits are available under paragraph (4) of such section, subject to the reduced cost-sharing described in subparagraph (D).
 
 #### (D) Reduction in cost-sharing below out-of-pocket threshold
 
@@ -26,19 +26,19 @@
 
 #### (ii) Lowest income dual eligible individuals
 
-&emsp;&emsp;&emsp;In the case of an individual not described in clause (i) who is a full-benefit dual eligible individual and whose income does not exceed 100 percent of the poverty line applicable to a family of the size involved, the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed $1 for a generic drug or a preferred drug that is a multiple source drug (as defined in section 1396r–8(k)(7)(A)(i) of this title) and $3 for any other drug, or, if less, the copayment amount applicable to an individual under clause (iii).
+&emsp;&emsp;&emsp;Subject to paragraph (6), in the case of an individual not described in clause (i) who is a full-benefit dual eligible individual and whose income does not exceed 100 percent of the poverty line applicable to a family of the size involved, the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed $1 for a generic drug or a preferred drug that is a multiple source drug (as defined in section 1396r–8(k)(7)(A)(i) of this title) and $3 for any other drug, or, if less, the copayment amount applicable to an individual under clause (iii).
 
 #### (iii) Other individuals
 
-&emsp;&emsp;&emsp;In the case of an individual not described in clause (i) or (ii), the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed the copayment amount specified under section 1395w–102(b)(4)(A)(i)(I) of this title for the drug and year involved.
+&emsp;&emsp;&emsp;Subject to paragraph (6), in the case of an individual not described in clause (i) or\(ii), the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed the copayment amount specified under section 1395w–102(b)(4)(A)(i)(I)(aa) of this title for the drug and year involved. For plan year 2023 and subsequent plan years, the copayment amount applicable under the preceding sentence to a month's supply of a covered insulin product (as defined in section 1395w–102(b)(9)(C) of this title) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled.
 
 #### (E) Elimination of cost-sharing above annual out-of-pocket threshold
 
-&emsp;&emsp;The elimination of any cost-sharing imposed under section 1395w–102(b)(4)(A) of this title.
+&emsp;&emsp;For a year preceding 2024, the elimination of any cost-sharing imposed under section 1395w–102(b)(4)(A) of this title or under section 1395w–102(b)(9) of this title in the case of a covered insulin product (as defined in subparagraph (C) of such section).
 
-#### (2) Other individuals with income below 150 percent of poverty line
+#### (2) Other low-income individuals
 
-&emsp;In the case of a subsidy eligible individual who is not described in paragraph (1), the individual is entitled under this section to the following:
+&emsp;With respect to a plan year beginning before January 1, 2024, in the case of a subsidy eligible individual who is not described in paragraph (1), the individual is entitled under this section to the following:
 
 #### (A) Sliding scale premium subsidy
 
@@ -46,7 +46,7 @@
 
 #### (B) Reduction of deductible
 
-&emsp;&emsp;A reduction in the annual deductible applicable under section 1395w–102(b)(1) of this title to $50.
+&emsp;&emsp;Subject to paragraphs (8) and (9) of section 1395w–102(b) of this title, a reduction in the annual deductible applicable under section 1395w–102(b)(1) of this title to $50.
 
 #### (C) Continuation of coverage above the initial coverage limit
 
@@ -54,11 +54,11 @@
 
 #### (D) Reduction in cost-sharing below out-of-pocket threshold
 
-&emsp;&emsp;The substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts above the deductible under subparagraph (B) through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of coinsurance of "15 percent" instead of coinsurance of "25 percent" in section 1395w–102(b)(2) of this title.
+&emsp;&emsp;Subject to paragraph (6), the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts above the deductible under subparagraph (B) through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of coinsurance of "15 percent" instead of coinsurance of "25 percent" in section 1395w–102(b)(2) of this title. For plan year 2023, the amount of the coinsurance applicable under the preceding sentence to a month's supply of a covered insulin product (as defined in section 1395w–102(b)(9)(C) of this title) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled.
 
 #### (E) Reduction of cost-sharing above annual out-of-pocket threshold
 
-&emsp;&emsp;Subject to subsection (c), the substitution for the cost-sharing imposed under section 1395w–102(b)(4)(A) of this title of a copayment or coinsurance not to exceed the copayment or coinsurance amount specified under section 1395w–102(b)(4)(A)(i)(I) of this title for the drug and year involved.
+&emsp;&emsp;Subject to paragraph (6) of this subsection and subsection (c), the substitution for the cost-sharing imposed under section 1395w–102(b)(4)(A) of this title of a copayment or coinsurance not to exceed the copayment or coinsurance amount specified under section 1395w–102(b)(4)(A)(i)(I)(aa) of this title for the drug and year involved. For plan year 2023, the amount of the copayment or coinsurance applicable under the preceding sentence to a month's supply of a covered insulin product (as defined in section 1395w–102(b)(9)(C) of this title) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled.
 
 #### (3) Determination of eligibility
 
@@ -84,7 +84,7 @@
 
 #### (iii) Redeterminations and appeals through medicaid
 
-&emsp;&emsp;&emsp;Redeterminations and appeals, with respect to eligibility determinations under clause (i) made under a State plan under subchapter XIX, shall be made in accordance with the frequency of, and manner in which, redeterminations and appeals of eligibility are made under such plan for purposes of medical assistance under such subchapter.
+&emsp;&emsp;&emsp;Redeterminations and appeals, with respect to eligibility determinations underclause (i) made under a State plan under subchapter XIX, shall be made in accordance with the frequency of, and manner in which, redeterminations and appeals of eligibility are made under such plan for purposes of medical assistance under such subchapter.
 
 #### (iv) Redeterminations and appeals through Commissioner
 
@@ -196,7 +196,15 @@
 
 #### (5) Waiver of de minimis premiums
 
-&emsp;The Secretary shall, under procedures established by the Secretary, permit a prescriptiondrug plan or an MA–PD plan to waive the monthly beneficiary premium for a subsidy eligible individual if the amount of such premium is de minimis. If such premium is waived under the plan, the Secretary shall not reassign subsidy eligible individuals enrolled in the plan to other plans based on the fact that the monthly beneficiary premium under the plan was greater than the low-income benchmark premium amount.
+&emsp;The Secretary shall, under procedures established by the Secretary, permit a prescription drug plan or an MA–PD plan to waive the monthly beneficiary premium for a subsidy eligible individual if the amount of such premium is de minimis. If such premium is waived under the plan, the Secretary shall not reassign subsidy eligible individuals enrolled in the plan to other plans based on the fact that the monthly beneficiary premium under the plan was greater than the low-income benchmark premium amount.
+
+#### (6) No application of cost-sharing or deductible for adult vaccines recommended by the Advisory Committee on Immunization Practices
+
+&emsp;For plan years beginning on or after January 1, 2023, with respect to an adult vaccine recommended by the Advisory Committee on Immunization Practices (as defined in section 1395w–102(b)(8)(B) of this title)—
+
+&emsp;&emsp;(A) the deductible under section 1395w–102(b)(1) of this title shall not apply; and
+
+&emsp;&emsp;(B) there shall be no cost-sharing under this section with respect to such vaccine.
 
 #### (b) Premium subsidy amount
 
@@ -262,7 +270,7 @@ Beginning not later than January 1, 2011, the Secretary shall, in the case of a 
 
 #### (1) In general
 
-&emsp;Beginning not later than January 1, 2024, the Secretary shall carry out a program to providetransitional coverage for covered part D drugs for LI NET eligible individuals in accordance with this subsection.
+&emsp;Beginning not later than January 1, 2024, the Secretary shall carry out a program to provide transitional coverage for covered part D drugs for LI NET eligible individuals in accordance with this subsection.
 
 #### (2) LI NET eligible individual defined
 
@@ -276,7 +284,7 @@ Beginning not later than January 1, 2011, the Secretary shall, in the case of a 
 
 &emsp;For purposes of this subsection, the term "transitional coverage" means with respect to an LI NET eligible individual—
 
-&emsp;&emsp;(A) immediate access to covered part D drugs at the point of sale during the period that begins on the first day of the month such individual is determined to meet the requirements of clauses (ii) and (iii) of subsection (a)(3)(A) and ends on the date that coverage under a prescription drug plan or MA–PD plan takes effect with respect to such individual; and
+&emsp;&emsp;(A) immediate access to covered part D drugs at the point of sale during the period that begins on the first day of the monthsuch individual is determined to meet the requirements of clauses (ii) and (iii) of subsection (a)(3)(A) and ends on the date that coverage under a prescription drug plan or MA–PD plan takes effect with respect to such individual; and
 
 &emsp;&emsp;(B) in the case of an LI NET eligible individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) or a recipient of supplemental security income benefits under subchapter XVI, retroactive coverage (in the form of reimbursement of the amounts that would have been paid under this part had such individual been enrolled in a prescription drug plan or MA–PD plan) of covered part D drugs purchased by such individual during the period that begins on the date that is the later of—
 
@@ -328,11 +336,47 @@ Beginning not later than January 1, 2011, the Secretary shall, in the case of a 
 
 For special provisions under the medicaid program relating to medicare prescription drug benefits, see section 1396u–5 of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–14, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2107; amended Pub. L. 110–275, title I, §§114(a)(2), 116(a), 117(a), July 15, 2008, 122 Stat. 2506, 2507; Pub. L. 111–148, title III, §§3302(a), 3303(a), 3304(a), 3305, 3309, Mar. 23, 2010, 124 Stat. 468–470, 475; Pub. L. 111–152, title I, §1102(c)(4), Mar. 30, 2010, 124 Stat. 1045; Pub. L. 116–260, div. CC, title I, §118, Dec. 27, 2020, 134 Stat. 2950.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–14, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2107; amended Pub. L. 110–275, title I, §§114(a)(2), 116(a), 117(a), July 15, 2008, 122 Stat. 2506, 2507; Pub. L. 111–148, title III, §§3302(a), 3303(a), 3304(a), 3305, 3309, Mar. 23, 2010, 124 Stat. 468–470, 475; Pub. L. 111–152, title I, §1102(c)(4), Mar. 30, 2010, 124 Stat. 1045; Pub. L. 116–260, div. CC, title I, §118, Dec. 27, 2020, 134 Stat. 2950; Pub. L. 117–169, title I, §§11201(e)(3), 11401(b), 11404, 11406(b), Aug. 16, 2022, 136 Stat. 1891, 1897, 1899, 1903.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–169, §11404(1), substituted "certain individuals" for "individuals with income up to 150 percent of poverty line" in heading.
+
+Subsec. (a)(1). Pub. L. 117–169, §11404(2), substituted "Individuals with certain low incomes" for "Individuals with income below 135 percent of poverty line" in heading and, in introductory provisions, inserted "(or, with respect to a plan year beginning on or after January 1, 2024, 150 percent)" after "135 percent" and "(or, with respect to a plan year beginning on or after January 1, 2024, paragraph (3)(E))" after "the resources requirement described in paragraph (3)(D)".
+
+Subsec. (a)(1)(C). Pub. L. 117–169, §11201(e)(3)(A)(i), substituted "For a year preceding 2025, the continuation" for "The continuation".
+
+Subsec. (a)(1)(D)(ii). Pub. L. 117–169, §11401(b)(1), substituted "Subject to paragraph (6), in the case" for "In the case".
+
+Subsec. (a)(1)(D)(iii). Pub. L. 117–169, §11406(b)(1)(A), inserted at end "For plan year 2023 and subsequent plan years, the copayment amount applicable under the preceding sentence to a month's supply of a covered insulin product (as defined in section 1395w–102(b)(9)(C) of this title) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled."
+
+Pub. L. 117–169, §11401(b)(1), substituted "Subject to paragraph (6), in the case" for "In the case".
+
+Pub. L. 117–169, §11201(e)(3)(A)(ii), substituted "1395w–102(b)(4)(A)(i)(I)(aa)" for "1395w–102(b)(4)(A)(i)(I)".
+
+Subsec. (a)(1)(E). Pub. L. 117–169, §11406(b)(1)(B), inserted before period at end "or under section 1395w–102(b)(9) of this title in the case of a covered insulin product (as defined in subparagraph (C) of such section)".
+
+Pub. L. 117–169, §11201(e)(3)(A)(iii), substituted "For a year preceding 2024, the elimination" for "The elimination".
+
+Subsec. (a)(2). Pub. L. 117–169, §11404(3), substituted "Other low-income individuals" for "Other individualswith income below 150 percent of poverty line" in heading and "With respect to a plan year beginning before January 1, 2024, in the case of a subsidy" for "In the case of a subsidy" in introductory provisions.
+
+Subsec. (a)(2)(B). Pub. L. 117–169, §11406(b)(2)(A), substituted "paragraphs (8) and (9) of section 1395w–102(b)" for "section 1395w–102(b)(8)".
+
+Pub. L. 117–169, §11401(b)(2)(A), substituted "Subject to section 1395w–102(b)(8) of this title, a reduction" for "A reduction".
+
+Subsec. (a)(2)(D). Pub. L. 117–169, §11406(b)(2)(B), inserted at end "For plan year 2023, the amount of the coinsurance applicable under the preceding sentence to a month's supply of a covered insulin product (as defined in section 1395w–102(b)(9)(C) of this title) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled."
+
+Pub. L. 117–169, §11401(b)(2)(B), substituted "Subject to paragraph (6), the substitution" for "The substitution".
+
+Subsec. (a)(2)(E). Pub. L. 117–169, §11406(b)(2)(C), inserted at end "For plan year 2023, the amount of the copayment or coinsurance applicable under the preceding sentence to a month's supply of a covered insulin product (as defined in section 1395w–102(b)(9)(C) of this title) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled."
+
+Pub. L. 117–169, §11401(b)(2)(C), substituted "paragraph (6) of this subsection and subsection (c)" for "subsection (c)".
+
+Pub. L. 117–169, §11201(e)(3)(B), substituted "1395w–102(b)(4)(A)(i)(I)(aa)" for "1395w–102(b)(4)(A)(i)(I)".
+
+Subsec. (a)(6). Pub. L. 117–169, §11401(b)(3), added par. (6).
 
 <b>2020</b>—Subsecs. (e), (f). Pub. L. 116–260 added subsec. (e) and redesignated former subsec. (e) as (f).
 
@@ -379,6 +423,10 @@ Amendment by section 114(a)(2) of Pub. L. 110–275 applicable to subsidies for 
 Pub. L. 110–275, title I, §116(b), July 15, 2008, 122 Stat. 2507, provided that: "The amendments made by this section \[amending this section\] shall take effect with respect to applications filed on or after January 1, 2010."
 
 Pub. L. 110–275, title I, §117(b), July 15, 2008, 122 Stat. 2507, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 101 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 \[Pub. L. 108–173\]."
+
+#### Construction of 2022 Amendment
+
+Nothing in amendment by section 11401(b) of Pub. L. 117–169 to be construed as limiting coverage under this part for vaccines that are not recommended by the Advisory Committee on Immunization Practices, see section 11401(d) of Pub. L. 117–169, set out as a note under section 1395w–102 of this title.
 
 #### GAO Study Regarding Impact of Assets Test for Subsidy Eligible Individuals
 

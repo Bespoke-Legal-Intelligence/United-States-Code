@@ -26,7 +26,7 @@ No policy or contract of insurance issued by a carrier to comply with the requir
 
 (3) This subsection shall not affect any other liability of the employer under this part.
 
-(Pub. L. 91–173, title IV, §423, Dec. 30, 1969, 83 Stat. 797; Pub. L. 92–303, §3(b), May 19, 1972, 86 Stat. 153; Pub. L. 95–239, §8, Mar. 1, 1978, 92 Stat. 100.)
+(Pub. L. 91–173, title IV, §423, Dec. 30, 1969, 83 Stat. 797; Pub. L. 92–303, §3(b), May 19, 1972, 86Stat. 153; Pub. L. 95–239, §8, Mar. 1, 1978, 92 Stat. 100.)
 
 #### <b>Editorial Notes</b>
 

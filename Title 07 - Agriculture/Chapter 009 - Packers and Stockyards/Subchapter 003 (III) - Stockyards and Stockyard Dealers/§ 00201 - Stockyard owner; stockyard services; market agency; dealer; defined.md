@@ -8,7 +8,7 @@ In this chapter:
 
 (c) The term "market agency" means any person engaged in the business of (1) buying or selling in commerce livestock on a commission basis or (2) furnishing stockyard services. Beginning on October 7, 2016, such term includes any person who engages in the business of buying or selling livestock, on a commission or other fee basis, through the use of online, video, or other electronic methods when handling or providing the means to handle receivables or proceeds from such buying or selling, so long as such person's annual average of online, video, or electronic sales of livestock, on a commission or other fee basis, exceeds $250,000.
 
-(d) The term "dealer" means any person, not a market agency, engaged in the business of buying or selling in commerce livestock, either on his own account or as the employee or agent of the vendor or purchaser.
+(d) The term "dealer" means any person, not a market agency, engaged in the business ofbuying or selling in commerce livestock, either on his own account or as the employee or agent of the vendor or purchaser.
 
 (Aug. 15, 1921, ch. 64, title III, §301, 42 Stat. 163; Pub. L. 85–909, §2(1), Sept. 2, 1958, 72 Stat. 1750; Pub. L. 94–410, §3(c), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 114–237, §2, Oct. 7, 2016, 130 Stat. 970.)
 

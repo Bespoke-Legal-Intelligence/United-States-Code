@@ -12,7 +12,7 @@ In accordance with the Implementation Plan, the Secretary shall develop an annua
 
 #### (2) Exemption
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the planning process and recommendations concerning community wildfire protection plans.
+&emsp;Chapter 10 of title 5 shall not apply to the planning process and recommendations concerning community wildfire protection plans.
 
 #### (c) Administration
 
@@ -98,17 +98,17 @@ In accordance with the Implementation Plan, the Secretary shall develop an annua
 
 &emsp;There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2019 through 2023.
 
-(Pub. L. 108–148, title I, §103, Dec. 3, 2003, 117 Stat. 1896; Pub. L. 115–334, title VIII, §8401, Dec. 20, 2018, 132 Stat. 4840.)
+(Pub. L. 108–148, title I, §103, Dec. 3, 2003, 117 Stat. 1896; Pub. L. 115–334, title VIII, §8401, Dec. 20, 2018, 132 Stat. 4840; Pub. L. 117–286, §4(a)(130), Dec. 27, 2022, 136 Stat. 4319.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(2). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)".
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–334 added subsec. (e).
 

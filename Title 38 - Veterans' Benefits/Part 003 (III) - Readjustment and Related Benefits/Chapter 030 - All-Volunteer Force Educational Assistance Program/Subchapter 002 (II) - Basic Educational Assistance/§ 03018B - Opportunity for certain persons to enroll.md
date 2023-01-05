@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(C) in the case of any individual who has made an election under section 3011(c)(1) or 3012(d)(1) of this title, withdraws such election before such separation pursuant to procedures which the Secretary of each military department shall provide in accordance with regulations prescribed by the Secretary of Defense for the purpose of carrying out this section or which the Secretary of Homeland Security shall provide for such purpose with respect to the Coast Guard when it is not operating as service in the Navy;
 
-&emsp;&emsp;(D) in the case of any person enrolled in the educational benefits program providedby chapter 32 of this title makes an irrevocable election, pursuant to procedures referred to in subparagraph (C) of this paragraph, before such separation to receive benefits under this section in lieu of benefits under such chapter 32; and
+&emsp;&emsp;(D) in the case of any person enrolled in the educational benefits program provided by chapter 32 of this title makes an irrevocable election, pursuant to procedures referred to in subparagraph (C) of this paragraph, before such separation to receive benefits under this section in lieu of benefits under such chapter 32; and
 
 &emsp;&emsp;(E) before such separation elects to receive assistance under this section pursuant to procedures referred to in subparagraph (C) of this paragraph; or
 
@@ -44,7 +44,7 @@
 
 (3) Any contribution made by the Secretary of Defense to the Post-Vietnam Era Veterans Education Account pursuant to subsection (c) of section 3222 of this title on behalf of any individual referred to in paragraph (1) of this subsection shall remain in such account to make payments of benefits to such individual under section 3015(f) of this title.
 
-(Added Pub. L. 102–484, div. D, title XLIV, §4404(a), Oct. 23, 1992, 106 Stat. 2704; amended Pub. L. 103–446, title XII, §1201(d)(5), (e)(11), (f)(3), Nov. 2, 1994, 108 Stat. 4684, 4685, 4687; Pub. L. 105–368, title II, §203(a), title X, §1005(b)(6), Nov. 11, 1998, 112 Stat. 3326, 3365; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 116–283, div. A, title IX, §926(a)(40), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 102–484, div. D, title XLIV, §4404(a), Oct. 23, 1992, 106 Stat. 2704; amended Pub. L. 103–446, title XII, §1201(d)(5), (e)(11), (f)(3), Nov. 2, 1994, 108 Stat. 4684, 4685, 4687; Pub.L. 105–368, title II, §203(a), title X, §1005(b)(6), Nov. 11, 1998, 112 Stat. 3326, 3365; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 116–283, div. A, title IX, §926(a)(40), Jan. 1, 2021, 134 Stat. 3830.)
 
 #### <b>Editorial Notes</b>
 
@@ -68,7 +68,7 @@ Subsec. (d)(3). Pub. L. 103–446, §1201(d)(5), (e)(11)(B), substituted "such a
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L.107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1998 Amendment
 

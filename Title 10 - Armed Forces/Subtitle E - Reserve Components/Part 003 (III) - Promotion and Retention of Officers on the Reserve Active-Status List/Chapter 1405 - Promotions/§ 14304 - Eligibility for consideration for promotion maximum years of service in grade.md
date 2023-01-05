@@ -22,7 +22,7 @@ Promotion Date.—An officer holding a permanent grade specified in the table in
 
 (c)
 
-Waiver Authority for Navy and Marine Corps Running Mate System.—If the Secretary of the Navy establishes promotion zones for officers on the reserve active-status list of the Navy or the Marine Corps Reserve in accordance with a running mate system under section 14306 of this title, the Secretary may waive the requirements of subsection (a) to the extent the Secretary considers necessary in any case in which the years of service for promotion, or for consideration for promotion, within those zones will exceed the maximum years of service in grade specified in subsection (a).
+Waiver Authority for Navy and Marine Corps Running Mate System.—If the Secretary of the Navy establishes promotion zones for officers on the reserve active-status list of the Navy or the Marine Corps Reserve in accordance witha running mate system under section 14306 of this title, the Secretary may waive the requirements of subsection (a) to the extent the Secretary considers necessary in any case in which the years of service for promotion, or for consideration for promotion, within those zones will exceed the maximum years of service in grade specified in subsection (a).
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2934.)
 

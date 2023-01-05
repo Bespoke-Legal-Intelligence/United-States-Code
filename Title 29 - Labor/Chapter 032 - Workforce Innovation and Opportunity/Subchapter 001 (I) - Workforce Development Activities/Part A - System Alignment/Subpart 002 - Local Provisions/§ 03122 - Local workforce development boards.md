@@ -26,7 +26,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 &emsp;&emsp;&emsp;(i) shall include representatives of labor organizations (for a local area in which employees are represented by labor organizations), who have been nominated by local labor federations, or (for a local area in which no employees are represented by such organizations) other representatives of employees;
 
-&emsp;&emsp;&emsp;(ii) shall include a representative, who shall be a member of a labor organization or a training director, from a joint labor-management apprenticeship program, or ifno such joint program exists in the area, such a representative of an apprenticeship program in the area, if such a program exists;
+&emsp;&emsp;&emsp;(ii) shall include a representative, who shall be a member of a labor organization or a training director, from a joint labor-management apprenticeship program, or if no such joint program exists in the area, such a representative of an apprenticeship program in the area, if such a program exists;
 
 &emsp;&emsp;&emsp;(iii) may include representatives of community-based organizations that have demonstrated experience and expertise in addressing the employment needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive integrated employment for individuals with disabilities; and
 
@@ -158,7 +158,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 #### (ii) Plans
 
-&emsp;&emsp;&emsp;The State board shall prepare a local plan under section 3123 of this title for theState, and submit the plan for approval as part of the State plan.
+&emsp;&emsp;&emsp;The State board shall prepare a local plan under section 3123 of this title for the State, and submit the plan for approval as part of the State plan.
 
 #### (iii) Performance accountability measures
 
@@ -304,7 +304,7 @@ Consistent with section 3123 of this title, the functions of the local board sha
 
 #### (II) Designation
 
-&emsp;&emsp;&emsp;&emsp;In order to assist in administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient for such funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;In order to assist in administration of the grant funds, the chief elected official or the Governor, where the Governor serves as the local grant recipient for a local area, may designate an entity to serve as a local grant subrecipient forsuch funds or as a local fiscal agent. Such designation shall not relieve the chief elected official or the Governor of the liability for any misuse of grant funds as described in subclause (I).
 
 #### (III) Disbursal
 
@@ -440,5 +440,5 @@ Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovati
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

@@ -46,7 +46,7 @@ No action taken by the United States, an Indian tribe, or tribal organization to
 
 #### (A) In general
 
-&emsp;&emsp;In any case in which an Indian tribe or tribal organization that is authorized or required under a compact or contract issued pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> to furnish or pay for health services to a person who is injured or suffers a disease on or after March 23, 2010, under circumstances that establish grounds for a claim of liability against the tortfeasor with respect to the injury or disease, the Indian tribe or tribal organization shall have a right to recover from the tortfeasor (or an insurer of the tortfeasor) the reasonable value of the health services so furnished, paid for, or to be paid for, in accordance with the Federal Medical Care Recovery Act (42 U.S.C. 2651 et seq.), to the same extent and under the same circumstances as the United States may recover under that Act.
+&emsp;&emsp;In any case in which an Indian tribe or tribal organization that is authorized or required under a compact or contract issued pursuant to the Indian Self-Determinationand Education Assistance Act (25 U.S.C. 450 et seq.) <sup>1</sup> to furnish or pay for health services to a person who is injured or suffers a disease on or after March 23, 2010, under circumstances that establish grounds for a claim of liability against the tortfeasor with respect to the injury or disease, the Indian tribe or tribal organization shall have a right to recover from the tortfeasor (or an insurer of the tortfeasor) the reasonable value of the health services so furnished, paid for, or to be paid for, in accordance with the Federal Medical Care Recovery Act (42 U.S.C. 2651 et seq.), to the same extent and under the same circumstances as the United States may recover under that Act.
 
 #### (B) Treatment
 
@@ -76,7 +76,7 @@ The provisions of section 2415 of title 28 shall apply to all actions commenced 
 
 Nothing in this section shall be construed to limit any right of recovery available to the United States, an Indian tribe, or tribal organization under the provisions of any applicable, Federal, State, or tribal law, including medical lien laws.
 
-(Pub. L. 94–437, title II, §206, as added Pub. L. 100–713, title II, §204, Nov. 23, 1988, 102 Stat. 4811; amended Pub. L. 102–573, title II, §209, Oct. 29,1992, 106 Stat. 4551; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
+(Pub. L. 94–437, title II, §206, as added Pub. L. 100–713, title II, §204, Nov. 23, 1988, 102 Stat. 4811; amended Pub. L. 102–573, title II, §209, Oct. 29, 1992, 106 Stat. 4551; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### <b>Editorial Notes</b>
 

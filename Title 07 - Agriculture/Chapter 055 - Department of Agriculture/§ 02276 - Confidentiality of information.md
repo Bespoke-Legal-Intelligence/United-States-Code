@@ -4,7 +4,7 @@
 
 In the case of information furnished under a provision of law referred to in subsection (d), neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—
 
-&emsp;(1) use such information for a purpose other than the development or reporting of aggregate data in a manner such that the identityof the person who supplied such information is not discernible and is not material to the intended uses of such information;
+&emsp;(1) use such information for a purpose other than the development or reporting of aggregate data in a manner such that the identity of the person who supplied such information is not discernible and is not material to the intended uses of such information;
 
 &emsp;(2) disclose such information to the public, unless such information has been transformed into a statistical or aggregate form that does not allow the identification of the person who supplied particular information; or
 
@@ -58,7 +58,7 @@ For purposes of this section, a provision of law referred to in this subsection 
 
 This section shall not prohibit the release of information under section 2204g(f)(2) of this title.
 
-(Pub. L. 99–198, title XVII, §1770, Dec. 23, 1985, 99 Stat. 1657; Pub. L. 105–113, §4(a)(2), (b), Nov. 21, 1997, 111 Stat. 2276; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §348\], Nov. 29, 1999, 113 Stat. 1535, 1501A–207; Pub. L. 107–171, title II, §2004(b), May 13, 2002, 116 Stat. 236; Pub. L. 115–334, title X, §10109(d), Dec. 20, 2018, 132 Stat. 4907.)
+(Pub. L. 99–198, title XVII, §1770, Dec. 23, 1985, 99 Stat. 1657; Pub. L. 105–113, §4(a)(2), (b), Nov. 21, 1997, 111 Stat. 2276; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §348\], Nov. 29, 1999, 113 Stat.1535, 1501A–207; Pub. L. 107–171, title II, §2004(b), May 13, 2002, 116 Stat. 236; Pub. L. 115–334, title X, §10109(d), Dec. 20, 2018, 132 Stat. 4907.)
 
 #### <b>Editorial Notes</b>
 

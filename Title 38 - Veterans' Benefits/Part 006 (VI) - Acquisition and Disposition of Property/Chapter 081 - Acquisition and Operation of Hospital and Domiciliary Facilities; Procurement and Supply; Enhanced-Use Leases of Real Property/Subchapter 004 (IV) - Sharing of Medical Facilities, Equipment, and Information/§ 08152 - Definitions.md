@@ -8,7 +8,7 @@ For the purposes of this subchapter—
 
 &emsp;(3) The term "hospital", unless otherwise specified, includes any Federal, State, local, or other public or private hospital.
 
-(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1373, §5052; renumbered §8152, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(8), June 13, 1991, 105 Stat. 288; Pub. L. 103–210, §3(b), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 104–262, title III, §301(b), Oct. 9, 1996, 110 Stat. 3191; Pub. L. 107–135, title II, §208(e)(8), Jan. 23, 2002, 115 Stat. 2464.)
+(Added Pub. L. 89–785, title II, §203, Nov. 7, 1966, 80 Stat. 1373, §5052; renumbered §8152, Pub. L.102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(8), June 13, 1991, 105 Stat. 288; Pub. L. 103–210, §3(b), Dec. 20, 1993, 107 Stat. 2497; Pub. L. 104–262, title III, §301(b), Oct. 9, 1996, 110 Stat. 3191; Pub. L. 107–135, title II, §208(e)(8), Jan. 23, 2002, 115 Stat. 2464.)
 
 #### <b>Editorial Notes</b>
 

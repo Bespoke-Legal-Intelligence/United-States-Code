@@ -55,3 +55,4 @@ Ex. Ord. No. 13933, June 26, 2020, 85 F.R. 40081, which related to protecting ag
 - [Chapter 603 - Improving the Quality of Representation in State Capital Cases](Chapter%20603%20-%20Improving%20the%20Quality%20of%20Representation%20in%20State%20Capital%20Cases/README.md)
 - [Chapter 605 - Recidivism Prevention](Chapter%20605%20-%20Recidivism%20Prevention/README.md)
 - [Chapter 607 - Project Safe Neighborhoods Block Grant Program](Chapter%20607%20-%20Project%20Safe%20Neighborhoods%20Block%20Grant%20Program/README.md)
+- [Chapter 609 - Homicide Victims' Families' Rights](Chapter%20609%20-%20Homicide%20Victims%27%20Families%27%20Rights/README.md)

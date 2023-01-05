@@ -123,7 +123,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) coverage for any benefit provided by permitted insurance,
 
-&emsp;&emsp;&emsp;(ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of plan years beginning on or before December 31, 2021) telehealth and other remote care, and
+&emsp;&emsp;&emsp;(ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of months or plan years to which paragraph (2)(E) applies) telehealth and other remote care, and
 
 &emsp;&emsp;&emsp;(iii) for taxable years beginning after December 31, 2006, coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
 
@@ -151,7 +151,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) twice the dollar amount in subclause (I) for family coverage, and
 
-&emsp;&emsp;&emsp;(ii) the sum of the annual deductible and the other annual out-of-pocket expenses required to be paid under the plan (other than for premiums) for covered benefits does not exceed—
+&emsp;&emsp;&emsp;(ii) the sum of the annual deductible and the other annual out-of-pocket expenses required to be paid under the plan (otherthan for premiums) for covered benefits does not exceed—
 
 &emsp;&emsp;&emsp;&emsp;(I) $5,000 for self-only coverage, and
 
@@ -179,11 +179,35 @@ For purposes of this section—
 
 #### (E) Safe harbor for absence of deductible for telehealth
 
-&emsp;&emsp;In the case of plan years beginning on or before December 31, 2021, a plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
+&emsp;&emsp;In the case of—
+
+&emsp;&emsp;&emsp;(i) months beginning after March 31, 2022, and before January 1, 2023, and
+
+&emsp;&emsp;&emsp;(ii) plan years beginning on or before December 31, 2021, or after December 31, 2022, and before January 1, 2025,
+
+> &emsp;&emsp;a plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
 
 #### (F) Special rule for surprise billing
 
 &emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of providing benefits for medical care in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717 of the Employee Retirement Income Security Act of 1974, or any State law providing similar protections to individuals, prior to the satisfaction of the deductible under paragraph (2)(A)(i).
+
+#### (G) Safe harbor for absence of deductible for certain insulin products
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for selected insulin products.
+
+#### (ii) Selected insulin products
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph—
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The term "selected insulin products" means any dosage form (such as vial, pump, or inhaler dosage forms) of any different type (such as rapid-acting, short-acting, intermediate-acting, long-acting, ultra long-acting, and premixed) of insulin.
+
+#### (II) Insulin
+
+&emsp;&emsp;&emsp;&emsp;The term "insulin" means insulin that is licensed under subsection (a) or (k) of section 351 of the Public Health Service Act (42 U.S.C. 262) and continues to be marketed under such section, including any insulin product that has been deemed to be licensed under section 351(a) of such Act pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009 (Public Law 111–148) and continues to be marketed pursuant to such licensure.
 
 #### (3) Permitted insurance
 
@@ -407,11 +431,7 @@ The Secretary may require—
 
 > The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
 
-(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953; Pub. L. 111–148, title IX, §§9003(a), 9004(a), Mar. 23, 2010, 124 Stat. 854; Pub. L. 114–41, title IV, §4007(b)(1), July 31, 2015, 129 Stat. 466; Pub. L. 115–97, title I, §§11002(d)(1)(V), 11051(b)(3)(E), Dec. 22, 2017, 131 Stat. 2060, 2090; Pub. L. 115–141, div. U, title IV, §401(a)(57), (58), Mar. 23, 2018, 132 Stat. 1186, 1187; Pub. L. 116–136, div. A, title III, §§3701(a), (b), 3702(a), Mar. 27, 2020, 134 Stat. 415, 416; Pub. L. 116–260, div. BB, title I, §102(c)(4)(A), Dec. 27, 2020, 134 Stat. 2796.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 102 of div. BB of Pub. L. 116–260 applicable for plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.</i>
+(Added Pub. L. 108–173, title XII, §1201(a), Dec. 8, 2003, 117 Stat. 2469; amended Pub. L. 109–135, title IV, §404(c), Dec. 21, 2005, 119 Stat. 2634; Pub. L. 109–432, div. A, title III, §§302(b), 303(a), (b), 304, 305(a), 307(b), Dec. 20, 2006, 120 Stat. 2949, 2950, 2953; Pub. L. 111–148, title IX, §§9003(a), 9004(a), Mar. 23, 2010, 124 Stat. 854; Pub. L. 114–41, title IV, §4007(b)(1), July 31, 2015, 129 Stat. 466; Pub. L. 115–97, title I, §§11002(d)(1)(V), 11051(b)(3)(E), Dec. 22, 2017, 131 Stat. 2060, 2090; Pub. L. 115–141, div. U, title IV, §401(a)(57), (58), Mar. 23, 2018, 132 Stat. 1186, 1187; Pub. L. 116–136, div. A, title III, §§3701(a), (b), 3702(a), Mar. 27, 2020, 134 Stat. 415, 416; Pub. L. 116–260, div. BB, title I, §102(c)(4)(A), Dec. 27, 2020, 134 Stat. 2796; Pub. L. 117–103, div. P, title II, §307(a), (b), Mar. 15, 2022, 136 Stat. 807; Pub. L. 117–169, title I, §11408(a), Aug. 16, 2022, 136 Stat. 1905; Pub. L. 117–328, div. FF, title IV, §4151(a), (b), Dec. 29, 2022, 136 Stat. 5931.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -421,17 +441,29 @@ The Secretary may require—
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv), (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 1811, 1861, and 1882 of the Act are classified to sections 1395c, 1395x, and 1395ss, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv), (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 1811, 1861, and 1882 of the Act are classified to sections 1395c, 1395x, and 1395ss, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Sections 2799A–1 and 2799A–2 of the Public Health Service Act, referred to in subsec. (c)(1)(D), (2)(F), are classified to sections 300gg–111 and 300gg–112, respectively, of Title 42, The Public Health and Welfare.
 
 Sections 716 and 717 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (c)(1)(D), (2)(F), are classified to sections 1185e and 1185f, respectively, of Title 29, Labor.
+
+Section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009, referred to in subsec. (c)(2)(G)(ii)(II), is section 7002(e)(4) of Pub. L. 111–148, which is set out in a note under section 262 of Title 42, The Public Health and Welfare.
 
 #### Prior Provisions
 
 A prior section 223 was renumbered section 224 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(1)(B)(ii). Pub. L. 117–328, §4151(b), which directed the substitution of "(in the case of months or plan years to which paragraph (2)(E) applies)" for "(in the case of plan years beginning on or before December 31, 2021, or in the case of months beginning after March 31, 2022, and before January 1, 2023)", was executed by making the substitution for "(in the case of plan years beginning on or before December 31, 2021, or in the case of months beginning after March 31, 2022, and before January 1, 2023,)", to reflect the probable intent of Congress.
+
+Pub. L. 117–103, §307(b), inserted ", or in the case of months beginning after March 31, 2022, and before January 1, 2023," after "December 31, 2021".
+
+Subsec. (c)(2)(E). Pub. L. 117–328, §4151(a), substituted "In the case of—" and cls. (i) and (ii) for "In the case of plan years beginning on or before December 31, 2021, or in the case of months beginning after March 31, 2022, and before January 1, 2023,".
+
+Pub. L. 117–103, §307(a), inserted "or in the case of months beginning after March 31, 2022, and before January 1, 2023," after "December 31, 2021,".
+
+Subsec. (c)(2)(G). Pub. L. 117–169 added subpar. (G).
 
 <b>2020</b>—Subsec. (c)(1)(B)(ii). Pub. L. 116–136, §3701(b), substituted "long-term care, or (in the case of plan years beginning on or before December 31, 2021) telehealth and other remote care" for "or long-term care".
 
@@ -485,6 +517,14 @@ Subsec. (g)(1). Pub. L. 109–432, §304, inserted concluding provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. FF, title IV, §4151(c), Dec. 29, 2022, 136 Stat. 5931, provided that: "The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2022."
+
+Pub. L. 117–169, title I, §11408(b), Aug. 16, 2022, 136 Stat. 1905, provided that: "The amendment made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2022."
+
+Pub. L. 117–103, div. P, title II, §307(c), Mar. 15, 2022, 136 Stat. 807, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 15, 2022\]."
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. BB, title I, §102(c)(4)(B), Dec. 27, 2020, 134 Stat. 2796, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall apply for plan years beginning on or after January 1, 2022."
@@ -501,7 +541,7 @@ Amendment by section 11051(b)(3)(E) of Pub. L. 115–97 applicable to any divorc
 
 #### Effective Date of 2015 Amendment
 
-Pub. L. 114–41, title IV, §4007(b)(2), July 31, 2015, 129 Stat. 466, provided that: "The amendment made by thissubsection \[amending this section\] shall apply to months beginning after December 31, 2015."
+Pub. L. 114–41, title IV, §4007(b)(2), July 31, 2015, 129 Stat. 466, provided that: "The amendment made by this subsection \[amending this section\] shall apply to months beginning after December 31, 2015."
 
 #### Effective Date of 2010 Amendment
 
@@ -530,6 +570,10 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2023</b>—Revenue Procedure 2022–24.
+
+<b>2022</b>—Revenue Procedure 2021–25.
 
 <b>2021</b>—Revenue Procedure 2020–32.
 

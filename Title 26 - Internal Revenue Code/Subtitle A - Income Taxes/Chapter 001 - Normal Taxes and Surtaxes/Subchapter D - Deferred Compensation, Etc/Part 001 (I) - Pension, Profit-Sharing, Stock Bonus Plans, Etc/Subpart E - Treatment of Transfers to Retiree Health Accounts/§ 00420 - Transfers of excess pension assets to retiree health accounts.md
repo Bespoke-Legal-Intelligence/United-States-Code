@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (4) Expiration
 
-&emsp;No transfer made after December 31, 2025, shall be treated as a qualified transfer.
+&emsp;No transfer made after December 31, 2032, shall be treated as a qualified transfer.
 
 #### (c) Requirements of plans transferring assets
 
@@ -100,11 +100,11 @@ For purposes of this section—
 
 #### (C) Election to compute cost separately
 
-&emsp;&emsp;An employer may elect to have this paragraph applied separately for applicable health benefits with respect to individuals eligible for benefits under title XVIII of the Social Security Act at any time during the taxable year and with respect to individuals not so eligible, and separately for applicable life insurance benefits with respect to individuals age 65 or older at any time during the taxable year and with respect to individuals under age 65 during the taxable year.
+&emsp;&emsp;An employer may elect to have this paragraph applied separately for applicable health benefits with respect to individuals eligible for benefits under title XVIII of the Social Security Act at any time during the taxable year and with respect to individualsnot so eligible, and separately for applicable life insurance benefits with respect to individuals age 65 or older at any time during the taxable year and with respect to individuals under age 65 during the taxable year.
 
 #### (D) Cost maintenance period
 
-&emsp;&emsp;For purposes of this paragraph, the term "cost maintenance period" means the period of 5 taxable years beginning with the taxable year in which the qualified transfer occurs. If a taxable year is in two or more overlapping cost maintenance periods, this paragraph shall be applied by taking into account the highest applicable employer cost required to be provided under subparagraph (A) for such taxable year.
+&emsp;&emsp;For purposes of this paragraph, the term "cost maintenance period" means the period of 5 taxable years (7 taxable years in the case of a transfer to which subsection (e)(7) applies) beginning with the taxable year in which the qualified transfer occurs. If a taxable year is in two or more overlapping cost maintenance periods, this paragraph shall be applied by taking into account the highest applicable employer cost required to be provided under subparagraph (A) for such taxable year.
 
 #### (E) Regulations
 
@@ -218,6 +218,16 @@ For purposes of this section—
 
 &emsp;&emsp;(B) in accordance with such modifications of this section (and the provisions of this title relating to this section) as the Secretary determines appropriate to reflect the fact the plan is not maintained by a single employer.
 
+#### (7) Special rule for de minimis transfers
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a transfer of an amount which is not more than 1.75 percent of the amount determined under paragraph (2)(A) by a plan which meets the requirements of subparagraph (B), paragraph (2)(B) shall be applied by substituting "110 percent" for "125 percent".
+
+#### (B) Two-year lookback requirement
+
+&emsp;&emsp;A plan is described in this subparagraph if, as of any valuation date in each of the 2 plan years immediately preceding the plan year in which the transfer occurs, the amount determined under paragraph (2)(A) exceeded 110 percent of the sum of the funding target and the target normal cost determined under section 430 for each such plan year.
+
 #### (f) Qualified transfers to cover future retiree costs and collectively bargained retiree benefits
 
 #### (1) In general
@@ -250,7 +260,13 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In determining excess pension assets for purposes of this subsection, subsection (e)(2) shall be applied by substituting "120 percent" for "125 percent".
+#### (I) Determination
+
+&emsp;&emsp;&emsp;&emsp;In determining excess pension assets for purposes of this subsection, subsection (e)(2)(B) shall be applied by substituting "120 percent" for "125 percent".
+
+#### (II) Special rule for collectively bargained transfers
+
+&emsp;&emsp;&emsp;&emsp;In determining excess pension assets for purposes of a collectively bargained transfer, subsection (e)(7) shall not apply.
 
 #### (ii) Requirement to maintain funded status
 
@@ -278,7 +294,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The requirements of subsection (c)(3) shall be treated as met if—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided, and each group-term life insurance plan or arrangement under which applicable life insurance benefits are provided, provides applicable health benefits or applicable life insurance benefits, as the case may be, during the period beginning with the first year of the transfer period and ending with the last day of the 4th year following the transfer period such that the annual average amount of the applicable employer cost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided, and each group-term life insurance plan or arrangement under which applicable life insurance benefits are provided, provides applicable health benefits or applicable life insurance benefits, as the case may be, during the period beginning with the first year of the transfer period and ending with the last day of the 4th year (the 6th year in the case of a transfer to which subsection (e)(7) applies) following the transfer period such that the annual average amount of the applicable employer cost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a collectively bargained transfer, each collectively bargained plan under which collectively bargained health benefits or collectively bargained life insurance benefits are provided provides that the collectively bargained employer cost for each taxable year during the collectively bargained cost maintenance period shall not be less than the amount specified by the collective bargaining agreement.
 
@@ -348,7 +364,7 @@ For purposes of this section—
 
 #### (iii) Key employees excluded
 
-&emsp;&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(i)(1)) with respect to any plan year ending in a taxable year, such employee shall not be taken into account in computing collectively bargained retiree liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
+&emsp;&emsp;&emsp;If an employee is a key employee (within the meaning of section 416(i)(1)) with respect to any plan year ending in a taxableyear, such employee shall not be taken into account in computing collectively bargained retiree liabilities for such taxable year or in calculating collectively bargained employer cost under subsection (c)(3)(C).
 
 #### (C) Collectively bargained health benefits
 
@@ -420,19 +436,29 @@ For purposes of this section—
 
 For purposes of this section, section 430 shall be applied without regard to subsection (h)(2)(C)(iv) thereof.
 
-(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L.103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(a), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(b)(1), (2), Oct. 22, 2004, 118 Stat. 1551, 1552; Pub. L. 109–280, title I, §114(d), title VIII, §§841(a), 842(a), Aug. 17, 2006, 120 Stat. 854, 1005, 1009; Pub. L. 110–28, title VI, §§6612(a), (b), 6613(a), May 25, 2007, 121 Stat. 181; Pub. L. 110–458, title I, §108(i)(1), (2), Dec. 23, 2008, 122 Stat. 5110; Pub. L. 112–141, div. D, title II, §§40211(a)(2)(D), 40241(a), 40242(a)–(c), (e)(1)–(13), (f), (g), July 6, 2012, 126 Stat. 847, 859, 860, 862, 863; Pub. L. 113–97, title II, §202(c)(7), Apr. 7, 2014, 128 Stat. 1137; Pub. L. 114–41, title II, §2007(a), July 31, 2015, 129 Stat. 459; Pub. L. 115–141, div. U, title IV, §401(a)(97), Mar. 23, 2018, 132 Stat. 1188; Pub. L. 116–260, div. N, title II, §285(a), Dec. 27, 2020, 134 Stat. 1988.)
+(Added Pub. L. 101–508, title XII, §12011(a), Nov. 5, 1990, 104 Stat. 1388–567; amended Pub. L. 103–465, title VII, §731(a)–(c)(3), Dec. 8, 1994, 108 Stat. 5003, 5004; Pub. L. 104–188, title I, §1704(a), (t)(32), Aug. 20, 1996, 110 Stat. 1878, 1889; Pub. L. 106–170, title V, §535(a)(1), (b), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 108–218, title II, §204(a), Apr. 10, 2004, 118 Stat. 609; Pub. L. 108–357, title VII, §709(b)(1), (2), Oct. 22, 2004, 118 Stat. 1551, 1552; Pub. L. 109–280, title I, §114(d), title VIII, §§841(a), 842(a), Aug. 17, 2006, 120 Stat. 854, 1005, 1009; Pub. L. 110–28, title VI, §§6612(a), (b), 6613(a), May 25, 2007, 121 Stat. 181; Pub. L. 110–458, title I, §108(i)(1), (2), Dec. 23, 2008, 122 Stat. 5110; Pub. L. 112–141, div. D, title II, §§40211(a)(2)(D), 40241(a), 40242(a)–(c), (e)(1)–(13), (f), (g), July 6, 2012, 126 Stat. 847, 859, 860, 862, 863; Pub. L. 113–97, title II, §202(c)(7), Apr. 7, 2014, 128 Stat. 1137; Pub. L. 114–41, title II, §2007(a), July 31, 2015, 129 Stat. 459; Pub. L. 115–141, div. U, title IV, §401(a)(97), Mar. 23, 2018, 132 Stat. 1188; Pub. L. 116–260, div. N, title II, §285(a), Dec. 27, 2020, 134 Stat. 1988; Pub. L. 117–328, div. T, title VI, §606(a), Dec. 29, 2022, 136 Stat. 5396.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 Subsection (c)(3) as in effect before the amendments made by section 535 of the Tax Relief Extension Act of 1999, referred to in subsec. (f)(2)(D)(ii), is subsec. (c)(3) of this section prior to its general amendment by section 535(b)(1) of Pub. L. 106–170.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(4). Pub. L. 117–328, §606(a)(1), substituted "December 31, 2032" for "December 31, 2025".
+
+Subsec. (c)(3)(D). Pub. L. 117–328, §606(a)(2)(B), substituted "5 taxable years (7 taxable years in the case of a transfer to which subsection (e)(7) applies)" for "5 taxable years".
+
+Subsec. (e)(7). Pub. L. 117–328, §606(a)(2)(A), added par. (7).
+
+Subsec. (f)(2)(B)(i). Pub. L. 117–328, §606(a)(2)(C)(i), designated existing provisions as subcl. (I), inserted heading, substituted "subsection (e)(2)(B)" for "subsection (e)(2)", and added subcl. (II).
+
+Subsec. (f)(2)(D)(i)(I). Pub. L. 117–328, §606(a)(2)(C)(ii), substituted "4th year (the 6th year in the case of a transfer to which subsection (e)(7) applies)" for "4th year".
 
 <b>2020</b>—Subsec. (f)(7). Pub. L. 116–260 added par. (7).
 
@@ -586,7 +612,7 @@ Subsec. (e)(4). Pub. L. 109–280, §114(d)(2), amended heading and text of par.
 
 &emsp;"(A) any assets transferred in a plan year on or before the valuation date for such year (and any income allocable thereto) shall, for purposes of section 412, be treated as assets in the plan as of the valuation date for such year, and
 
-&emsp;"(B) the plan shall be treated as having a net experience loss under section 412(b)(2)(B)(iv) in an amountequal to the amount of such transfer (reduced by any amounts transferred back to the pension plan under subsection (c)(1)(B)) and for which amortization charges begin for the first plan year after the plan year in which such transfer occurs, except that such section shall be applied to such amount by substituting '10 plan years' for '5 plan years'."
+&emsp;"(B) the plan shall be treated as having a net experience loss under section 412(b)(2)(B)(iv) in an amount equal to the amount of such transfer (reduced by any amounts transferred back to the pension plan under subsection (c)(1)(B)) and for which amortization charges begin for the first plan year after the plan year in which such transfer occurs, except that such section shall be applied to such amount by substituting '10 plan years' for '5 plan years'."
 
 Subsec. (e)(5). Pub. L. 109–280, §842(a)(2), added par. (5).
 
@@ -619,6 +645,10 @@ Subsec. (e)(1)(B). Pub. L. 103–465, §731(c)(2), reenacted subpar. (B) heading
 Subsec. (e)(1)(D). Pub. L. 103–465, §731(c)(3), substituted "and shall not be subject to the minimum benefit requirements of subsection (c)(3)" for "or in calculating applicable employer cost under subsection (c)(3)(B)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. T, title VI, §606(c), Dec. 29, 2022, 136 Stat. 5398, provided that: "The amendments made by this section \[amending this section and sections 1021, 1103, and 1108 of Title 29, Labor\] shall apply to transfers made after the date of the enactment of this Act \[Dec. 29, 2022\]."
 
 #### Effective Date of 2020 Amendment
 

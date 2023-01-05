@@ -26,7 +26,7 @@ Administrative action under the provisions of or amendments made by this subtitl
 
 #### References in Text
 
-This subtitle, referred to in subsecs. (a) and (c), is subtitle E (§§1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, as amended, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This subtitle, referred to in subsecs. (a) and (c), is subtitle E (§§1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 The Conrail Privatization Act, referred to in subsecs. (a) and (c), is subtitle A (§§4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892. Part 2 of that Act is classified principally to subchapter II (§1311 et seq.) of chapter 22 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of this title and Tables.
 
@@ -36,11 +36,11 @@ The Conrail Privatization Act, referred to in subsecs. (a) and (c), is subtitle 
 
 Subsec. (d). Pub. L. 104–317, §605(c)(4), struck out subsec. (d) which read as follows: "If the volume of civil actions under subsection (a) of this section so requires, the United States Railway Association shall apply to the judicial panel on multi-district litigation authorized by section 1407 of title 28 for the assignment of additional judges to the special court. Within 30 days after the date of such application, the panel shall assign to the special court such additional judges as may be necessary to exercise the jurisdiction described in subsection (a) of this section."
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–352 struck out ", except that any order or judgment enjoining the enforcement, or declaring or determining the unconstitutionality orinvalidity, of any provision of this subtitle shall be reviewable by direct appeal to the Supreme Court of the United States" at end of first sentence and substituted "such petition shall be filed in the Supreme Court" for "petition or appeal shall be filed" in second sentence.
+<b>1988</b>—Subsec. (b). Pub. L. 100–352 struck out ", except that any order or judgment enjoining the enforcement, or declaring or determining the unconstitutionality or invalidity, of any provision of this subtitle shall be reviewable by direct appeal to the Supreme Court of the United States" at end of first sentence and substituted "such petition shall be filed in the Supreme Court" for "petition or appeal shall be filed" in second sentence.
 
 <b>1986</b>—Subsecs. (a), (b). Pub. L. 99–509, §4033(c)(1)(A)(i), inserted "or part 2 of the Conrail Privatization Act" after "subtitle" wherever appearing.
 
-Subsec. (c). Pub. L. 99–509, §4033(c)(1)(A), inserted "or part 2 of the Conrail Privatization Act" after "subtitle" in first sentence and "or part 2 of the Conrail Privatization Act, as the case may be," after "subtitle" in second sentence.
+Subsec. (c). Pub. L. 99–509, §4033(c)(1)(A), inserted "or part 2 of the Conrail Privatization Act" after "subtitle" in first sentence and "or part 2 of the ConrailPrivatization Act, as the case may be," after "subtitle" in second sentence.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

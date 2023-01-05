@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(iii) a supervisor or a management official;
 
-&emsp;&emsp;(iv) an officer or employee in the Foreign Service of the United States employed in the Department of State, the International Communication Agency, the Agency for International Development, the Department of Agriculture, or the Department of Commerce; or
+&emsp;&emsp;(iv) an officer or employee in the Foreign Service of the United States employed in theDepartment of State, the International Communication Agency, the Agency for International Development, the Department of Agriculture, or the Department of Commerce; or
 
 &emsp;&emsp;(v) any person who participates in a strike in violation of section 7311 of this title;
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(A) an employee engaged in the performance of work—
 
-&emsp;&emsp;&emsp;(i) requiring knowledge of an advanced type in a field of science or learning customarily acquired by a prolonged course of specialized intellectual instruction and study in an institution of higher learning or a hospital (as distinguished from knowledge acquired by a general academic education, or from an apprenticeship, or from training in the performance of routine mental, manual, mechanical, or physical activities);
+&emsp;&emsp;&emsp;(i) requiring knowledge of an advanced type in a field of science or learning customarily acquired by a prolonged course of specialized intellectual instruction and study in an institution of higher learningor a hospital (as distinguished from knowledge acquired by a general academic education, or from an apprenticeship, or from training in the performance of routine mental, manual, mechanical, or physical activities);
 
 &emsp;&emsp;&emsp;(ii) requiring the consistent exercise of discretion and judgment in its performance;
 
@@ -598,7 +598,7 @@ Section 1. <i>Suspensions</i>. With regard to United States citizen employees of
 
 (d) The provisions of 5 U.S.C. 7121(b)(3)(C) are suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation.
 
-Sec. 2. <i>Disputes</i>. Disputes between a labor organization and the United States Forces as to whether a particular matter is covered by one or more of the suspensions set forth in this Order shall be referred to the Secretary of Defense. The decision of the Secretary in such disputes shall be made after consultation with the Secretary of State and shall be final. The Secretary of Defense may delegate this authority, but only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. The functions assigned to the Secretary of State may not be delegated or assigned to anyone below the rank of an Assistant Secretary of State.
+Sec. 2. <i>Disputes</i>. Disputes between a labor organization and the United States Forces as to whether a particular matter is covered by one or more of the suspensions set forth in this Order shall be referred to the Secretary of Defense. The decision of the Secretary in such disputes shall be made after consultation with the Secretary of State and shall be final. The Secretary of Defense may delegate this authority, but only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense. The functions assigned to the Secretary of State may not bedelegated or assigned to anyone below the rank of an Assistant Secretary of State.
 
 Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -688,7 +688,7 @@ Sec. 2. <i>Department of Defense</i>. Executive Order 12171 of November 19, 1979
 
 "1–205. Agencies or subdivisions of the Department of the Navy, Department of Defense:
 
-\["\](a) Office of the Director of Naval Intelligence, and all Intelligence offices within Navy Commands, Navy Service Component Commands, and Direct Reporting Units, including the following:
+\["\](a) Office of the Director of Naval Intelligence, and all Intelligence offices within Navy Commands, NavyService Component Commands, and Direct Reporting Units, including the following:
 
 &emsp;\["\](1) Naval Intelligence Activity.
 
@@ -922,7 +922,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Delegation of Certain Authority Under the Federal Service Labor-Management Relations Statute
 
-Memorandum of President of the United States, Jan. 29, 2020, 85 F.R. 10033, which delegated to the Secretary of Defense authority under subsec. (b)(1) and (2) of this section to issue orders excluding Department of Defense agencies or subdivisions thereof from Federal Service Labor-Management Relations Statute coverage, was revoked by Ex. Ord. No. 14018, §1, Feb. 24, 2021, 86 F.R. 11855.
+Memorandum of President of the United States, Jan. 29, 2020, 85 F.R. 10033, which delegated to the Secretary of Defense authority under subsec. (b)(1) and (2) of this section to issue orders excluding Department of Defense agencies or subdivisions thereof from Federal Service Labor-Management Relations Act coverage, was revoked by Ex. Ord. No. 14018, §1, Feb. 24, 2021, 86 F.R. 11855.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

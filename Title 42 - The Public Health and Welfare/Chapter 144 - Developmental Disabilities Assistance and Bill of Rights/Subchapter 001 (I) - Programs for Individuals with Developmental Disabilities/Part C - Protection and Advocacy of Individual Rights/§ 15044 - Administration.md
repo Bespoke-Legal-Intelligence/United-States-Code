@@ -8,7 +8,7 @@ In a State in which the system described in section 15043 of this title is organ
 
 &emsp;(B) a majority of the members of the board shall be—
 
-&emsp;&emsp;(i) individuals with disabilities, including individuals with developmental disabilities, who are eligible for services, or have received or are receiving services through the system; or
+&emsp;&emsp;(i) individuals with disabilities, including individuals with developmental disabilities,who are eligible for services, or have received or are receiving services through the system; or
 
 &emsp;&emsp;(ii) parents, family members, guardians, advocates, or authorized representatives of individuals referred to in clause (i); and
 

@@ -110,7 +110,7 @@
 
 &emsp;(D) twenty-five years and thirty-two days, in the case of a loan for the purchase of a double-wide manufactured home and a lot.
 
-(2) Nothing in paragraph (1) of this subsection shall preclude the Secretary, under regulationswhich the Secretary shall prescribe, from consenting to necessary advances for the protection of the security or the holder's lien, to a reasonable extension of the term of such loan, or to a reasonable reamortization of such loan.
+(2) Nothing in paragraph (1) of this subsection shall preclude the Secretary, under regulations which the Secretary shall prescribe, from consenting to necessary advances for the protection of the security or the holder's lien, to a reasonable extension of the term of such loan, or to a reasonable reamortization of such loan.
 
 (e) No loan shall be guaranteed for purposes specified in this section unless—
 
@@ -368,7 +368,7 @@ Subsec. (o). Pub. L. 93–569, §5(11), struck out subsec. (o) which prohibited 
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title VIII, §8031(b), Nov. 5, 1990, 104 Stat. 1388–348, provided that: "The amendment made bythis section \[amending this section\] shall apply to claims filed with the Secretary of Veterans Affairs on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–508, title VIII, §8031(b), Nov. 5, 1990, 104 Stat. 1388–348, provided that: "The amendment made by this section \[amending this section\] shall apply to claims filed with the Secretary of Veterans Affairs on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Effective Date of 1988 Amendment
 

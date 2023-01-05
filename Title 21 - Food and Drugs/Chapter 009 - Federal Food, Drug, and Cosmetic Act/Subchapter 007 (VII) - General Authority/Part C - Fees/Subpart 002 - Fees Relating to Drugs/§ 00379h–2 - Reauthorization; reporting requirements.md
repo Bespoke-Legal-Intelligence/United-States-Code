@@ -4,9 +4,9 @@
 
 #### (1) In general
 
-&emsp;Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning—
+&emsp;Not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning—
 
-&emsp;&emsp;(A) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals, including the status of the independent assessment described in such letters; and
+&emsp;&emsp;(A) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(b) <sup>1</sup> of the Prescription Drug User Fee Amendments of 2022 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals, including the status of the independent assessment described in such letters; and
 
 &emsp;&emsp;(B) the progress of the Center for Drug Evaluation and Research and the Center for Biologics Evaluation and Research in achieving the goals, and future plans for meeting the goals, including, for each review division—
 
@@ -22,9 +22,13 @@
 
 &emsp;&emsp;&emsp;(vi) the number of applications filed for review as fast track products per fiscal year for each review division;
 
-&emsp;&emsp;&emsp;(vii) the number of applications filed for orphan-designated products per fiscal year for each review division; and
+&emsp;&emsp;&emsp;(vii) the number of applications filed for orphan-designated products per fiscal year for each review division;
 
-&emsp;&emsp;&emsp;(viii) the number of breakthrough designations for a fiscal year for each review division.
+&emsp;&emsp;&emsp;(viii) the number of breakthrough designations for a fiscal year for each review division; and
+
+&emsp;&emsp;&emsp;(ix) the number of investigational new drug applications submitted per fiscal year, including for each review division.
+
+> &emsp;Nothing in subparagraph (B) shall be construed to authorize the disclosure of information that is prohibited from disclosure under section 331(j) of this title or section 1905 of title 18 or that is subject to withholding under section 552(b)(4) of title 5.
 
 #### (2) Inclusion
 
@@ -34,29 +38,37 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subparagraph (B) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basis for such fiscal year, and may remove duplicative data from the annual performance report under this subsection.
+&emsp;&emsp;Not later than 30 calendar days after the end of each quarter of each fiscal year for which fees are collected under this subpart, the Secretary shall post the data described in subparagraph (B) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basis for such fiscal year, and may remove duplicative data from the annual performance report under this subsection.
 
 #### (B) Data
 
 &emsp;&emsp;The Secretary shall post the following data in accordance with subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) The number and titles of draft and final guidance on topics related to the process for the review of human drug applications, and whether such guidances were issued as required by statute or pursuant to a commitment under the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017.
+&emsp;&emsp;&emsp;(i) The number and titles of draft and final guidance on topics related to the process for the review of human drug applications, and whether such guidances were issued as required by statute or pursuant to a commitment under the letters described in section 101(b) <sup>1</sup> of the Prescription Drug User Fee Amendments of 2022.
 
-&emsp;&emsp;&emsp;(ii) The number and titles of public meetings held on topics related to the process for the review of human drug applications, and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017.
+&emsp;&emsp;&emsp;(ii) The number and titles of public meetings held on topics related to the process for the review of human drug applications, and whether such meetings were required by statute or pursuant to a commitment under the letters described in section 101(b) <sup>1</sup> of the Prescription Drug User Fee Amendments of 2022.
 
 &emsp;&emsp;&emsp;(iii) The number of new drug applications and biological licensing applications approved.
 
 &emsp;&emsp;&emsp;(iv) The number of new drug applications and biological licensing applications filed.
 
+&emsp;&emsp;&emsp;(v) For fiscal years 2023 and 2024, of the meeting requests from sponsors for which the Secretary has determined that a face-to-face meeting is appropriate, the number of face-to-face meetings requested by sponsors to be conducted in person (in such manner as the Secretary shall prescribe on the website of the Food and Drug Administration), and the number of such in-person meetings granted by the Secretary, with both such numbers disaggregated by the relevant agency center.
+
 #### (4) Rationale for PDUFA program changes
 
-&emsp;Beginning with fiscal year 2020, the Secretary shall include in the annual report under paragraph (1)—
+&emsp;The Secretary shall include in the annual report under paragraph (1)—
 
-&emsp;&emsp;(A) data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+&emsp;&emsp;(A) data, analysis, and discussion of the changes in the number of individuals hired as agreed upon in the letters described in section 1001(b) of the Prescription Drug User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379h of this title, and the number of full-time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
 
-&emsp;&emsp;(B) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of human drugs, including identifying drivers of such changes; and
+&emsp;&emsp;(B) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of human drug applications, including identifying—
 
-&emsp;&emsp;(C) for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
+&emsp;&emsp;&emsp;(i) drivers of such changes; and
+
+&emsp;&emsp;&emsp;(ii) changes in the average total cost per full-time equivalent in the prescription drug review program;
+
+&emsp;&emsp;(C) for each of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required; and
+
+&emsp;&emsp;(D) data, analysis, and discussion of the changes in the average full-time equivalent hours required to complete review of each type of human drug application.
 
 #### (5) Analysis
 
@@ -66,27 +78,27 @@
 
 &emsp;&emsp;&emsp;(i) such applications filed during one fiscal year for which a decision is not scheduled to be made until the following fiscal year;
 
-&emsp;&emsp;&emsp;(ii) the aggregate number of applications for each fiscal year that did not meet the goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 for the applicable fiscal year.
+&emsp;&emsp;&emsp;(ii) the aggregate number of applications for each fiscal year that did not meet the goals identified in the letters described in section 101(b) <sup>1</sup> of the Prescription Drug User Fee Amendments of 2022 for the applicable fiscal year.
 
-&emsp;&emsp;(B) Relevant data to determine whether the Center for Drug Evaluation and Research and the Center for Biologics Evaluation and Research have met performance enhancement goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 for the applicable fiscal year.
+&emsp;&emsp;(B) Relevant data to determine whether the Center for Drug Evaluation and Research and the Center for Biologics Evaluation and Research have met performance enhancement goals identified in the letters described in section 101(b) <sup>1</sup> of the Prescription Drug User Fee Amendments of 2022 for the applicable fiscal year.
 
-&emsp;&emsp;(C) The most common causes and trends of external or other circumstances affecting the ability of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, Office of Regulatory Affairs, and the Food and Drug Administration to meet the review time and performance enhancement goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017.
+&emsp;&emsp;(C) The most common causes and trends of external or other circumstances affecting the ability of the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, Office of Regulatory Affairs, and the Food and Drug Administration to meet the review time and performance enhancement goals identified in the letters described in section 101(b) <sup>1</sup> of the Prescription Drug User Fee Amendments of 2022.
 
 #### (b) Fiscal report
 
-Beginning with fiscal year 2018, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
+Not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected for such fiscal year.
 
 #### (c) Corrective action report
 
-Beginning with fiscal year 2018, for each fiscal year for which fees are collected under this part, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
+For each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
 
 #### (1) Goals met
 
-&emsp;For each fiscal year, if the Secretary determines, based on the analysis under subsection (a)(5), that each of the goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the human drug application review process.
+&emsp;For each fiscal year, if the Secretary determines, based on the analysis under subsection (a)(5), that each of the goals identified in the letters described in section 101(b) <sup>1</sup> of the Prescription Drug User Fee Amendments of 2022 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the human drug application review process.
 
 #### (2) Goals missed
 
-&emsp;For any of the goals identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2017 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
+&emsp;For any of the goals identified in the letters described in section 101(b) <sup>1</sup> of the Prescription Drug User Fee Amendments of 2022 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
 
 &emsp;&emsp;(A) a detailed justification for such determination and a description, as applicable, of the types of circumstances and trends under which human drug applications that missed the review goal time were approved during the first cycle review, or application review goals were missed; and
 
@@ -100,7 +112,7 @@ Beginning with fiscal year 2018, for each fiscal year for which fees are collect
 
 #### (2) Participation in congressional hearing
 
-&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occurnot later than 120 days after the end of each fiscal year for which fees are collected under this part.
+&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
 
 #### (e) Public availability
 
@@ -110,7 +122,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 #### (1) Consultation
 
-&emsp;In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for the process for the review of human drug applications for the first 5 fiscal years after fiscal year 2022, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+&emsp;In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for the process for the review of human drug applications for the first 5 fiscal years after fiscal year 2027, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
 &emsp;&emsp;(A) the Committee on Energy and Commerce of the House of Representatives;
 
@@ -140,7 +152,11 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 &emsp;Not less frequently than once every month during negotiations with the regulated industry, the Secretary shall hold discussions with representatives of patient and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
 
-#### (4) Public review of recommendations
+#### (4) Updates to Congress
+
+&emsp;The Secretary, in consultation with regulated industry, shall provide regular updates on negotiations on the reauthorization of this subpart to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+
+#### (5) Public review of recommendations
 
 &emsp;After negotiations with the regulated industry, the Secretary shall—
 
@@ -154,33 +170,73 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 &emsp;&emsp;(E) after consideration of such public views and comments, revise such recommendations as necessary.
 
-#### (5) Transmittal of recommendations
+#### (6) Transmittal of recommendations
 
-&emsp;Not later than January 15, 2022, the Secretary shall transmit to the Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+&emsp;Not later than January 15, 2027, the Secretary shall transmit to the Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
 
-#### (6) Minutes of negotiation meetings
+#### (7) Minutes of negotiation meetings
 
 #### (A) Public availability
 
-&emsp;&emsp;Before presenting the recommendations developed under paragraphs (1) through (5) to the Congress, the Secretary shall make publicly available, on the public Web site of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the regulated industry.
+&emsp;&emsp;The Secretary shall make publicly available, on the public Web site of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the regulated industry, not later than 30 days after each such negotiation meeting.
 
 #### (B) Content
 
-&emsp;&emsp;The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
+&emsp;&emsp;The minutes described under subparagraph (A) shall summarize, in sufficient detail, any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
-(June 25, 1938, ch. 675, §736B, as added Pub. L. 110–85, title I, §105, Sept. 27, 2007, 121 Stat. 840; amended Pub. L. 112–144, title I, §104, July 9, 2012, 126 Stat. 1000; Pub. L. 115–52, title I, §103, title IX, §§903(a), 904(a), Aug. 18, 2017, 131 Stat. 1012, 1077, 1082.)
+(June 25, 1938, ch. 675, §736B, as added Pub. L. 110–85, title I, §105, Sept. 27, 2007, 121 Stat. 840; amended Pub. L. 112–144, title I, §104, July 9, 2012, 126 Stat. 1000; Pub. L. 115–52, title I, §103,title IX, §§903(a), 904(a), Aug. 18, 2017, 131 Stat. 1012, 1077, 1082; Pub. L. 117–180, div. F, title I, §1004, Sept. 30, 2022, 136 Stat. 2146; Pub. L. 117–328, div. FF, title III, §3626(a), Dec. 29, 2022, 136 Stat. 5883.)
 
 #### Termination of Section
 
-<i>For termination of section by section 104(b) of Pub. L. 115–52, see Effective and Termination Dates note below.</i>
+<i>For termination of section by section 1005(b) of Pub. L. 117–180, see Effective and Termination Dates note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 101(b) of the Prescription Drug User Fee Amendments of 2017, referred to in subsecs. (a) and (c), is section 101(b) of Pub. L. 115–52, which is set out as a note under section 379g of this title.
+Section 101(b) of the Prescription Drug User Fee Amendments of 2022, referred to in subsecs. (a) and (c), probably should be a reference to section 1001(b) of the Prescription Drug User Fee Amendments of 2022, title I of div. F of Pub. L. 117–180, which is set out as a note under section 379g of this title. The Prescription Drug User Fee Amendments of 2022 does not contain a section 101(b).
+
+Section 1001(b) of the Prescription Drug User Fee Amendments of 2022, referred to in subsec. (a)(4)(A), is section 1001(b) of title I of div. F of Pub. L. 117–180, which is set out as a note under section 379g of this title.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–180, §1004(2), substituted "Prescription Drug User Fee Amendments of 2022" for "Prescription Drug User Fee Amendments of 2017" wherever appearing.
+
+Subsec. (a)(1). Pub. L. 117–328, §3626(a)(1)(A)(ii), inserted concluding provisions.
+
+Pub. L. 117–180, §1004(1), substituted "Not" for "Beginning with fiscal year 2018, not" in introductory provisions.
+
+Subsec. (a)(1)(B)(ix). Pub. L. 117–328, §3626(a)(1)(A)(i), added cl. (ix).
+
+Subsec. (a)(3)(A). Pub. L. 117–180, §1004(3), substituted "Not later than 30 calendar days after the end of each quarter of each fiscal year for which fees are collected under this subpart" for "Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter".
+
+Subsec. (a)(3)(B)(v). Pub. L. 117–328, §3626(a)(1)(B), added cl. (v).
+
+Subsec. (a)(4). Pub. L. 117–180, §1004(4), substituted "The" for "Beginning with fiscal year 2020, the" in introductory provisions.
+
+Subsec. (a)(4)(A). Pub. L. 117–328, §3626(a)(1)(C)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2022 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Drug Evaluation and Research, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;".
+
+Subsec. (a)(4)(B). Pub. L. 117–328, §3626(a)(1)(C)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of human drugs, including identifying drivers of such changes; and".
+
+Subsec. (a)(4)(D). Pub. L. 117–328, §3626(a)(1)(C)(iii), (iv), added subpar. (D).
+
+Subsec. (b). Pub. L. 117–180, §1004(5), substituted "Not" for "Beginning with fiscal year 2018, not".
+
+Subsec. (c). Pub. L. 117–180, §1004(6), substituted "For" for "Beginning with fiscal year 2018, for" in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 117–180, §1004(7)(A), substituted "fiscal year 2027" for "fiscal year 2022" in introductory provisions.
+
+Subsec. (f)(4). Pub. L. 117–328, §3626(a)(2)(B), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (f)(5). Pub. L. 117–328, §3626(a)(2)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Pub. L. 117–180, §1004(7)(B), substituted "January 15, 2027" for "January 15, 2022".
+
+Subsec. (f)(6), (7). Pub. L. 117–328, §3626(a)(2)(A), redesignated pars. (5) and (6) as (6) and (7), respectively.
+
+Subsec. (f)(7)(A). Pub. L. 117–328, §3626(a)(2)(C)(i), substituted "The" for "Before presenting the recommendations developed under paragraphs (1) through (5) to the Congress, the" and inserted ", not later than 30 days after each such negotiation meeting" before period at end.
+
+Subsec. (f)(7)(B). Pub. L. 117–328, §3626(a)(2)(C)(ii), inserted ", in sufficient detail," after "shall summarize".
 
 <b>2017</b>—Subsec. (a)(1). Pub. L. 115–52, §103(a)(1), substituted "2018" for "2013".
 
@@ -200,7 +256,7 @@ Pub. L. 115–52, §103(3), substituted "2022" for "2017" in pars. (1) and (5).
 
 Subsecs. (e), (f). Pub. L. 115–52, §904(a)(2)(A), redesignated subsecs. (c) and (d) as (e) and (f), respectively.
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–144, §104(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "Beginning with fiscal year 2008, not later than120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort."
+<b>2012</b>—Subsec. (a). Pub. L. 112–144, §104(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "Beginning with fiscal year 2008, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort."
 
 Subsec. (b). Pub. L. 112–144, §104(2), substituted "2013" for "2008".
 
@@ -208,23 +264,33 @@ Subsec. (d)(1), (5). Pub. L. 112–144, §104(3), substituted "2017" for "2012".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–180 effective Oct. 1, 2022, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2022, see section 1006 of Pub. L. 117–180, set out as a note under section 379g of this title.
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 103 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2017, see section 105 of Pub. L. 115–52, set out as a note under section 379g of this title.
 
 #### Effective Date of 2012 Amendment
 
-Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2012, see section 106 of Pub. L. 112–144, set out as a note under section 379g of this title.
+Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subpart to be assessed for allhuman drug applications received on or after Oct. 1, 2012, see section 106 of Pub. L. 112–144, set out as a note under section 379g of this title.
 
 #### Effective and Termination Dates
 
-Pub. L. 115–52, title I, §104(b), Aug. 18, 2017, 131 Stat. 1012, provided that: "Section 736B of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379h–2) shall cease to be effective January 31, 2023."
+Pub. L. 117–180, div. F, title I, §1005(b), Sept. 30, 2022, 136 Stat. 2147, provided that: "Section 736B of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379h–2) shall cease to be effective January 31, 2028."
 
-Pub. L. 112–144, title I, §105(b), July 9, 2012, 126 Stat. 1001, which provided that section 736B of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379h–2) would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title I, §104(c), Aug. 18, 2017, 131 Stat 1012.
+Pub. L. 115–52, title I, §104(b), Aug. 18, 2017, 131 Stat. 1012, which provided that this section would cease to be effective Jan. 31, 2023, was repealed by Pub. L. 117–180, div. F, title I, §1005(c), Sept. 30, 2022, 136 Stat. 2147.
+
+\[Pub. L. 117–180, div. F, title I, §1005(c), Sept. 30, 2022, 136 Stat. 2147, provided that the repeal of section 104(b) of Pub. L. 115–52, formerly set out above, is effective Oct. 1, 2022.\]
+
+Pub. L. 112–144, title I, §105(b), July 9, 2012, 126 Stat. 1001, which provided that this section would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title I, §104(c), Aug. 18, 2017, 131 Stat 1012.
 
 \[Pub. L. 115–52, title I, §104(c), Aug. 18, 2017, 131 Stat. 1012, provided that the repeal of section 105(b) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.\]
 
 Pub. L. 110–85, title I, §106(b), Sept. 27, 2007, 121 Stat. 842, which provided that the amendment made by section 105 of Pub. L. 110–85 (enacting this section) would cease to be effective Jan. 31, 2013, was repealed by Pub. L. 112–144, title I, §105(c)(1), July 9, 2012, 126 Stat. 1001.
 
 Section effective Oct. 1, 2007, with fees under this subpart to be assessed for all human drug applications received on or after Oct. 1, 2007, see section 107 of Pub. L. 110–85, set out as an Effective and Termination Dates of 2007 Amendment note under section 379g of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

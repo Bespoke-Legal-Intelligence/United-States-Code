@@ -90,7 +90,7 @@ A funding agreement shall include a provision to monitor the performance of trus
 
 &emsp;&emsp;&emsp;(ii) provide technical assistance to overcome the objections stated in the notification required by clause (i);
 
-&emsp;&emsp;&emsp;(iii) provide the Indian Tribe with a hearing on the record with the right to engage in full discovery relevant to any issue raised in the matter, and the opportunity for appeal on the objections raised, except that the Indian Tribe may, in lieu of filing such appeal, directly proceed to initiate anaction in a United States district court under section 5331(a) of this title; and
+&emsp;&emsp;&emsp;(iii) provide the Indian Tribe with a hearing on the record with the right to engage in full discovery relevant to any issue raised in the matter, and the opportunity for appeal on the objections raised, except that the Indian Tribe may, in lieu of filing such appeal, directly proceed to initiate an action in a United States district court under section 5331(a) of this title; and
 
 &emsp;&emsp;&emsp;(iv) provide the Indian Tribe the option of entering into the severable portions of a final proposed compact or funding agreement (including a lesser funding amount, if any), that the Secretary did not reject, subject to any additional alterations necessary to conform the compact or funding agreement to the severed provisions.
 

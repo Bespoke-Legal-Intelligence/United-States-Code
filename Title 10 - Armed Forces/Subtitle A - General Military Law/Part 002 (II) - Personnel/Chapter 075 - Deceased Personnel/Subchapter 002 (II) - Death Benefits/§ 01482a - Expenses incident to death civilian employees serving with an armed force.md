@@ -26,7 +26,7 @@ Definitions.—In this section:
 
 &emsp;(4) The term "Secretary concerned" includes the Secretary of Defense with respect to employees of the Department of Defense who are not employees of a military department.
 
-(Added Pub. L. 103–160, div. A, title III, §368(a), Nov. 30, 1993, 107 Stat. 1633; amended Pub. L. 103–337, div. A, title X, §1070(a)(8)(A), Oct. 5, 1994,108 Stat. 2855; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. A, title X, §1075(b)(20), Jan. 7, 2011, 124 Stat. 4370.)
+(Added Pub. L. 103–160, div. A, title III, §368(a), Nov. 30, 1993, 107 Stat. 1633; amended Pub. L. 103–337, div. A, title X, §1070(a)(8)(A), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. A, title X, §1075(b)(20), Jan. 7, 2011, 124 Stat. 4370.)
 
 #### <b>Editorial Notes</b>
 

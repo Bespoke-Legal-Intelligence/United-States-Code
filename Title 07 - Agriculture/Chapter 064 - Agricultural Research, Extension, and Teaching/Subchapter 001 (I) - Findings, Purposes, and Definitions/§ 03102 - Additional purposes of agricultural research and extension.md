@@ -6,7 +6,7 @@ The purposes of this chapter are to—
 
 &emsp;(2) undertake the special measures set forth in this chapter to improve the coordination and planning of agricultural research, extension, and teaching programs, identify needs and establish priorities for these programs, assure that national agricultural research, extension, and teaching objectives are fully achieved, and assure that the results of agricultural research are effectively communicated and demonstrated to farmers, processors, handlers, consumers, and all other users who can benefit therefrom;
 
-&emsp;(3) increase cooperation and coordination in the performance of agricultural research byFederal departments and agencies, the States, State agricultural experiment stations, colleges and universities, and user groups;
+&emsp;(3) increase cooperation and coordination in the performance of agricultural research by Federal departments and agencies, the States, State agricultural experiment stations, colleges and universities, and user groups;
 
 &emsp;(4) enable the Federal Government, the States, colleges and universities, and others to implement needed agricultural research, extension, and teaching programs, through the establishment of new programs and the improvement of existing programs, as provided for in this chapter;
 
@@ -22,7 +22,7 @@ The purposes of this chapter are to—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original this "title", meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, as amended, which enacted this chapter and sections 2669 and 2670 of this title, amended sections 341, 342, 343, 361c, 390 to 390j, 1923, 1942, 2662, 2663, 2667, 3104, and 3157 of this title and section 6651 of Title 42, The Public Health and Welfare, and repealed section 390k of this title. For complete classification of such title to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This chapter, referred to in text, was in the original this "title", meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, which enacted this chapter and sections 2669 and 2670 of this title, amended sections 341, 342, 343, 361c, 390 to 390j, 1923, 1942, 2662, 2663, 2667, 3104, and 3157 of this title and section 6651 of Title 42, The Public Health and Welfare, and repealed section 390k of this title. For complete classification of such title to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Amendments
 

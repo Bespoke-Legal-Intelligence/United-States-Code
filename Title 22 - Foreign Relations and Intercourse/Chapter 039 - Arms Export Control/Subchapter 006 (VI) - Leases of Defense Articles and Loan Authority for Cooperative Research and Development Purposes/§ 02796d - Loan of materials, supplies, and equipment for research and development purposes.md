@@ -24,7 +24,7 @@ The Secretary of Defense may not loan to a country under this section any materi
 
 For purposes of this section, the term "NATO ally" means a member country of the North Atlantic Treaty Organization (other than the United States).
 
-(Pub. L. 90–629, ch. 6, §65, as added Pub. L. 100–456, div. A, title X, §1003(a), Sept. 29, 1988, 102Stat. 2038; amended Pub. L. 102–25, title VII, §705(d)(2), Apr. 6, 1991, 105 Stat. 120; Pub. L. 104–164, title I, §147(a)(3)(B), July 21, 1996, 110 Stat. 1435.)
+(Pub. L. 90–629, ch. 6, §65, as added Pub. L. 100–456, div. A, title X, §1003(a), Sept. 29, 1988, 102 Stat. 2038; amended Pub. L. 102–25, title VII, §705(d)(2), Apr. 6, 1991, 105 Stat. 120; Pub. L. 104–164, title I, §147(a)(3)(B), July 21, 1996, 110 Stat. 1435.)
 
 #### <b>Editorial Notes</b>
 

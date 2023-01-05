@@ -76,7 +76,7 @@ Subsec. (k)(2) was based on House Resolution No. 37 of the Eighty-second Congres
 
 Subsec. (k)(3) was based on House Resolution No. 554 of the Eighty-third Congress, which was enacted into permanent law by act July 2, 1954, ch. 455, §103, 68 Stat. 409, House Resolution No. 468 of the Eighty-fourth Congress, which was enacted into permanent law by act June 27, 1956, ch. 453, §103, 70 Stat. 370, House Resolution No. 126 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, §103, July 1, 1957, 71 Stat. 256, House Resolution No. 525 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–570, §103, July 31, 1958, 72 Stat. 453, and House Resolution No. 509 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693.
 
-Subsec. (k)(4) was based on House Resolution No. 28 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, §103, July 1, 1957, 71Stat. 256, and section 2 of House Resolution No. 348 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693.
+Subsec. (k)(4) was based on House Resolution No. 28 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–75, §103, July 1, 1957, 71 Stat. 256, and section 2 of House Resolution No. 348 of the Eighty-seventh Congress, which was enacted into permanent law by Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693.
 
 Subsec. (k)(5) was based on House Resolution No. 239 of the Eighty-fifth Congress, which was enacted into permanent law by Pub. L. 85–570, §103, July 31, 1958, 72 Stat. 453, and House Resolution No. 225 of the Eighty-eighth Congress, which was enacted into permanent law by Pub. L. 88–248, §103, Dec. 30, 1963, 77 Stat. 817.
 
@@ -94,7 +94,7 @@ Subsec. (j)(1). Pub. L. 104–186, §204(11), as amended by Pub. L. 105–55, §
 
 <b>1988</b>—Subsec. (i)(1). Pub. L. 100–458 inserted "or with respect to the administration of the affairs of the committee" before period at end.
 
-<b>1971</b>—Subsec. (g). Pub. L. 92–136, §5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any other clerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
+<b>1971</b>—Subsec. (g). Pub. L. 92–136, §5(a), permitted a clerical staff member, appointed at the request of the minority when no vacancy exists on the permanent staff, to continue to serve, in addition to any otherclerical staff members authorized, and until otherwise provided, to continue to be paid from the contingent fund of the Senate, thereby eliminating the requirement, in the case of a clerical staff member, that this status continue until such time as a vacancy occurs, at which time such person is considered to be appointed to such vacancy.
 
 Subsec. (j)(1). Pub. L. 92–136, §5(b), authorized the same training opportunities for professional staff members of the Senate Appropriations Committee, the Senate Majority and Minority Policy Committees and joint committees whose expenses are paid out of funds disbursed by the Secretary of the Senate or the Clerk of the House, as are afforded to professional staff members of standing committees.
 
@@ -172,7 +172,7 @@ Act Aug. 2, 1946, ch. 753, title II, §245, 60 Stat. 839, provided that: "This t
 
 #### Short Title
 
-Pub. L. 91–510, §1, Oct. 26, 1970, 84 Stat. 1140, provided that Pub. L. 91–510 \[see Tables for classification\] may be cited as the "Legislative Reorganization Act of 1970."
+Pub. L. 91–510, §1, Oct. 26, 1970, 84 Stat. 1140, provided that Pub. L. 91–510 \[see Tables for classification\] maybe cited as the "Legislative Reorganization Act of 1970."
 
 Act Aug. 2, 1946, ch. 753, §1(a), 60 Stat. 812, provided that such Act \[see Tables for classification\] may be cited as the "Legislative Reorganization Act of 1946."
 
@@ -218,7 +218,7 @@ Act Aug. 2, 1946, ch. 753, title I, §§102, 121, 60 Stat. 814, 822, in amending
 
 #### Office of Senate Security
 
-S. Res. 243, One Hundredth Congress, July 1, 1987, provided: "That (a) there is established, within the Officeof the Secretary of the Senate (hereinafter referred to as the 'Secretary'), the Office of Senate Security (hereinafter referred to as the 'Office'), which shall be headed by a Director of Senate Security (hereinafter referred to as the 'Director'). The Office shall be under the policy direction of the Majority and Minority Leaders of the Senate, and shall be under the administrative direction and supervision of the Secretary.
+S. Res. 243, One Hundredth Congress, July 1, 1987, provided: "That (a) there is established, within the Office of the Secretary of the Senate (hereinafter referred to as the 'Secretary'), the Office of Senate Security (hereinafter referred to as the 'Office'), which shall be headed by a Director of Senate Security (hereinafter referred to as the 'Director'). The Office shall be under the policy direction of the Majority and Minority Leaders of the Senate, and shall be under the administrative direction and supervision of the Secretary.
 
 "(b)(1) The Director shall be appointed by the Secretary after consultation with the Majority and Minority Leaders. The Secretary shall fix the compensation of the Director. Any appointment under this subsection shall be made solely on the basis of fitness to perform the duties of the position and without regard to political affiliation.
 

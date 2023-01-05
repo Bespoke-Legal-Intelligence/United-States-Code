@@ -56,17 +56,17 @@ As used in this chapter—
 
 (q) "Major non-NATO ally" means a country which is designated in accordance with section 2321k of this title as a major non-NATO ally for purposes of this chapter and the Arms Export Control Act (22 U.S.C. 2751 et seq.).
 
-(Pub. L. 87–195, pt. III, §644, Sept. 4, 1961, 75 Stat. 461; Pub. L. 87–565, pt. III, §303(b), Aug. 1, 1962, 76 Stat. 263; Pub. L. 88–205, pt. III, §303, Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §303(b), Sept. 6, 1965, 79 Stat. 661; Pub. L. 90–137, pt. III, §303(a), Nov. 14, 1967, 81 Stat. 462; Pub. L. 90–629, ch. 4, §45(b)(5), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 92–226, pt. III, §304(c)(1), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, §22, Dec. 17, 1973, 87 Stat. 726; Pub. L. 94–329, title I, §106(b)(6), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §103(b), Oct. 6, 1978, 92 Stat. 944; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §115(b)(1), Dec. 16, 1980, 94 Stat. 3140; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L. 102–583, §9(b), Nov. 2, 1992, 106 Stat. 4934; Pub. L. 104–164, title I, §147(a)(2), July 21, 1996, 110 Stat. 1435.)
+(Pub. L. 87–195, pt. III, §644, Sept. 4, 1961, 75 Stat. 461; Pub. L. 87–565, pt. III, §303(b), Aug. 1, 1962, 76 Stat. 263; Pub. L. 88–205, pt. III, §303, Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §303(b), Sept. 6, 1965, 79 Stat. 661; Pub. L. 90–137, pt. III, §303(a), Nov. 14, 1967, 81 Stat. 462; Pub. L. 90–629, ch. 4, §45(b)(5), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 92–226, pt. III, §304(c)(1), Feb. 7, 1972, 86 Stat. 32; Pub. L. 93–189, §22, Dec. 17, 1973, 87 Stat. 726; Pub. L. 94–329, title I, §106(b)(6), June 30, 1976, 90 Stat. 733; Pub. L. 95–424, title I, §103(b), Oct. 6, 1978, 92 Stat. 944; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §115(b)(1), Dec. 16, 1980, 94 Stat. 3140; Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; Pub. L.102–583, §9(b), Nov. 2, 1992, 106 Stat. 4934; Pub. L. 104–164, title I, §147(a)(2), July 21, 1996, 110 Stat. 1435.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Atomic Energy Act of 1954, as amended, referred to in subsecs. (d) and (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-The Arms Export Control Act, referred to in subsec. (q), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (q), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Codification
 
@@ -138,5 +138,5 @@ Amendment by Pub. L. 90–629 effective on July 1, 1968, see section 41 of Pub. 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

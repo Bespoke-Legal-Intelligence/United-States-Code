@@ -92,9 +92,9 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(B) a strategy for using the science-based tools (including advanced simulation and computing capabilities) of each national security laboratory to ensure that the nuclear weapons stockpile is safe, secure, and reliable without the use of nuclear testing;
 
-&emsp;&emsp;(C) an assessment of the science-based tools (including advanced simulation and computing capabilities) of each national security laboratory that exist at the time of the assessment compared with the science-based tools expected to exist during the period covered by the future-years nuclear security program; and
+&emsp;&emsp;(C) an assessment of the science-based tools (including advanced simulation andcomputing capabilities) of each national security laboratory that exist at the time of the assessment compared with the science-based tools expected to exist during the period covered by the future-years nuclear security program; and
 
-&emsp;&emsp;(D) an assessment of the core scientific and technical competencies required toachieve the objectives of the stockpile stewardship program and other weapons activities and weapons-related activities of the Administration, including—
+&emsp;&emsp;(D) an assessment of the core scientific and technical competencies required to achieve the objectives of the stockpile stewardship program and other weapons activities and weapons-related activities of the Administration, including—
 
 &emsp;&emsp;&emsp;(i) the number of scientists, engineers, and technicians, by discipline, required to maintain such competencies; and
 
@@ -158,7 +158,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(B) for each site and for the nuclear security enterprise, the methods used by the Administration to establish priorities among investments in physical and cybersecurity technologies; and
 
-&emsp;&emsp;(C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budgetfor the Administration for each fiscal year during that five-fiscal-year period will help carry out that plan.
+&emsp;&emsp;(C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help carry out that plan.
 
 &emsp;(8) An assessment of whether the programs described by the report can be executed with current and projected budgets and any associated risks.
 
@@ -340,7 +340,7 @@ Matters Included.—The matters referred to in subsection (a) are the following:
 
 "(c) 2005
 
-Stockpile Stewardship Plan Defined.—In this section, the term '2005 stockpile stewardship plan' means the updated version of the plan for maintaining the nuclear weapons stockpile developed under section 4203 of the Atomic Energy Defense Act \[50 U.S.C. 2523\] (as transferred and redesignated by section 3161(e)(4) \[probably should be "3141(e)(4)"\] of this Act) that is required to be submitted to Congress not later than March 15, 2005."
+Stockpile Stewardship Plan Defined.—In this section, the term '2005 stockpile stewardship plan'means the updated version of the plan for maintaining the nuclear weapons stockpile developed under section 4203 of the Atomic Energy Defense Act \[50 U.S.C. 2523\] (as transferred and redesignated by section 3161(e)(4) \[probably should be "3141(e)(4)"\] of this Act) that is required to be submitted to Congress not later than March 15, 2005."
 
 #### <b>Executive Documents</b>
 

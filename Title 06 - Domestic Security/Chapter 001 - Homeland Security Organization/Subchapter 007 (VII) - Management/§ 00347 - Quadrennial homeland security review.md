@@ -16,9 +16,11 @@
 
 &emsp;&emsp;(A) the heads of other Federal agencies, including the Attorney General, the Secretary of State, the Secretary of Defense, the Secretary of Health and Human Services, the Secretary of the Treasury, the Secretary of Agriculture the Secretary of Energy,,<sup>1</sup> and the Director of National Intelligence;
 
-&emsp;&emsp;(B) key officials of the Department, including the Under Secretary for Strategy, Policy, and Plans; and
+&emsp;&emsp;(B) key officials of the Department, including the Under Secretary for Strategy, Policy, and Plans;
 
-&emsp;&emsp;(C) other relevant governmental and nongovernmental entities, including State, local, and tribal government officials, members of Congress, private sector representatives, academics, and other policy experts.
+&emsp;&emsp;(C) representatives from appropriate advisory committees established pursuant to section 451 of this title, including the Homeland Security Advisory Council and the Homeland Security Science and Technology Advisory Committee, or otherwise established, including the Aviation Security Advisory Committee established pursuant to section 44946 of title 49; and
+
+&emsp;&emsp;(D) other relevant governmental and nongovernmental entities, including State, local, and tribal government officials, members of Congress, private sector representatives, academics, and other policy experts.
 
 #### (4) Relationship with future years homeland security program
 
@@ -30,21 +32,19 @@ In each quadrennial homeland security review, the Secretary shall—
 
 &emsp;(1) delineate and update, as appropriate, the national homeland security strategy, consistent with appropriate national and Department strategies, strategic plans, and Homeland Security Presidential Directives, including the National Strategy for Homeland Security, the National Response Plan, and the Department Security Strategic Plan;
 
-&emsp;(2) outline and prioritize the full range of the critical homeland security mission areas of the Nation;
+&emsp;(2) outline and prioritize the full range of the critical homeland security mission areasof the Nation based on the risk assessment required pursuant to subsection (c)(2)(B);
 
-&emsp;(3) describe the interagency cooperation, preparedness of Federal response assets, infrastructure, budget plan, and other elements of the homeland security program and policies of the Nation associated with the national homeland security strategy, required to execute successfully the full range of missions called for in the national homeland security strategy described in paragraph (1) and the homeland security mission areas outlined under paragraph (2);
+&emsp;(3) describe, to the extent practicable, the interagency cooperation, preparedness of Federal response assets, infrastructure, resources required, and other elements of the homeland security program and policies of the Nation associated with the national homeland security strategy, required to execute successfully the full range of missions called for in the national homeland security strategy described in paragraph (1) and the homeland security mission areas outlined under paragraph (2);
 
-&emsp;(4) identify the budget plan required to provide sufficient resources to successfully execute the full range of missions called for in the national homeland security strategy described in paragraph (1) and the homeland security mission areas outlined under paragraph (2);
+&emsp;(4) identify, to the extent practicable, the resources required to execute the full range of missions called for in the national homeland security strategy described in paragraph (1) and the homeland security mission areas outlined under paragraph (2), including any resources identified from redundant, wasteful, or unnecessary capabilities or capacities that may be redirected to better support other existing capabilities or capacities, as the case may be; and
 
-&emsp;(5) include an assessment of the organizational alignment of the Department with the national homeland security strategy referred to in paragraph (1) and the homeland security mission areas outlined under paragraph (2); and
-
-&emsp;(6) review and assess the effectiveness of the mechanisms of the Department for executing the process of turning the requirements developed in the quadrennial homeland security review into an acquisition strategy and expenditure plan within the Department.
+&emsp;(5) include an assessment of the organizational alignment of the Department with the national homeland security strategy referred to in paragraph (1) and the homeland security mission areas outlined under paragraph (2).
 
 #### (c) Reporting
 
 #### (1) In general
 
-&emsp;Not later than December 31 of the year in which a quadrennial homeland security review is conducted, the Secretary shall submit to Congress a report regarding that quadrennial homeland security review.
+&emsp;Not later than 60 days after the date of the submission of the President's budget for the fiscal year after the fiscal year in which a quadrennial homeland security review is conducted, the Secretary shall submit to Congress a report regarding that quadrennial homeland security review.
 
 #### (2) Contents of report
 
@@ -52,35 +52,85 @@ In each quadrennial homeland security review, the Secretary shall—
 
 &emsp;&emsp;(A) the results of the quadrennial homeland security review;
 
-&emsp;&emsp;(B) a description of the threats to the assumed or defined national homeland security interests of the Nation that were examined for the purposes of that review or for purposes of the quadrennial EMP and GMD risk assessment under section 195f(d)(1)(E) of this title;
+&emsp;&emsp;(B) a risk assessment of the assumed or defined national homeland security interests of the Nation that were examined for the purposes of that review or for purposes of the quadrennial EMP and GMD risk assessment under section 195f(d)(1)(E) of this title;
 
-&emsp;&emsp;(C) the national homeland security strategy, including a prioritized list of the critical homeland security missions of the Nation;
+&emsp;&emsp;(C) the national homeland security strategy, including a prioritized list of the critical homeland security missions of the Nation, as required under subsection (b)(2);
 
-&emsp;&emsp;(D) a description of the interagency cooperation, preparedness of Federal response assets, infrastructure, budget plan, and other elements of the homeland security program and policies of the Nation associated with the national homeland security strategy, required to execute successfully the full range of missions called for in the applicable national homeland security strategy referred to in subsection (b)(1) and the homeland security mission areas outlined under subsection (b)(2);
+&emsp;&emsp;(D) to the extent practicable, a description of the interagency cooperation, preparedness of Federal response assets, infrastructure, resources required, and other elements of the homeland security program and policies of the Nation associated with the national homeland security strategy, required to execute successfully the full range of missions called for in the applicable national homeland security strategy referred to in subsection (b)(1) and the homeland security mission areas outlined under subsection (b)(2);
 
 &emsp;&emsp;(E) an assessment of the organizational alignment of the Department with the applicable national homeland security strategy referred to in subsection (b)(1) and the homeland security mission areas outlined under subsection (b)(2), including the Department's organizational structure, management systems, budget and accounting systems, human resources systems, procurement systems, and physical and technical infrastructure;
 
-&emsp;&emsp;(F) a discussion of the status of cooperation among Federal agencies in the effort to promote national homeland security;
+&emsp;&emsp;(F) to the extent practicable, a discussion of cooperation among Federal agencies in the effort to promote national homeland security;
 
-&emsp;&emsp;(G) a discussion of the status of cooperation between the Federal Government and State, local, and tribal governments in preventing terrorist attacks and preparing for emergency response to threats to national homeland security;
+&emsp;&emsp;(G) to the extent practicable, a discussion of cooperation between the Federal Government and State, local, and tribal governments in preventing terrorist attacks and preparing for emergency response to threats and risks to national homeland security; and
 
-&emsp;&emsp;(H) an explanation of any underlying assumptions used in conducting the review; and
+&emsp;&emsp;(H) any other matter the Secretary considers appropriate.
 
-&emsp;&emsp;(I) any other matter the Secretary considers appropriate.
+#### (3) Documentation
 
-#### (3) Public availability
+&emsp;The Secretary shall retain and, upon request, provide to Congress the following documentation regarding each quadrennial homeland security review:
+
+&emsp;&emsp;(A) Records regarding the consultation carried out pursuant to subsection (a)(3), including the following:
+
+&emsp;&emsp;&emsp;(i) All written communications, including communications sent out by the Secretary and feedback submitted to the Secretary through technology, online communications tools, in-person discussions, and the interagency process.
+
+&emsp;&emsp;&emsp;(ii) Information on how feedback received by the Secretary informed each such quadrennial homeland security review.
+
+&emsp;&emsp;(B) Information regarding the risk assessment required pursuant to subsection (c)(2)(B), including the following:
+
+&emsp;&emsp;&emsp;(i) The risk model utilized to generate such risk assessment.
+
+&emsp;&emsp;&emsp;(ii) Information, including data used in the risk model, utilized to generate such risk assessment.
+
+&emsp;&emsp;&emsp;(iii) Sources of information, including other risk assessments, utilized to generate such risk assessment.
+
+&emsp;&emsp;&emsp;(iv) Information on assumptions, weighing factors, and subjective judgments utilized to generate such risk assessment, together with information on the rationale or basis thereof.
+
+#### (4) Public availability
 
 &emsp;The Secretary shall, consistent with the protection of national security and other sensitive matters, make each report submitted under paragraph (1) publicly available on the Internet website of the Department.
 
-#### (d) Authorization of appropriations
+#### (d) Review
+
+Not later than 90 days after the submission of each report required under subsection (c)(1), the Secretary shall provide to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate information on the degree to which the findings and recommendations developed in the quadrennialhomeland security review that is the subject of such report were integrated into the acquisition strategy and expenditure plans for the Department.
+
+#### (e) Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 107–296, title VII, §707, as added Pub. L. 110–53, title XXIV, §2401(a), Aug. 3, 2007, 121 Stat. 543; amended Pub. L. 114–328, div. A, title XIX, §1902(b), Dec. 23, 2016, 130 Stat. 2672; Pub. L. 116–92, div. A, title XVII, §1740(b), Dec. 20, 2019, 133 Stat. 1824.)
+(Pub. L. 107–296, title VII, §707, as added Pub. L. 110–53, title XXIV, §2401(a), Aug. 3, 2007, 121 Stat. 543; amended Pub. L. 114–328, div. A, title XIX, §1902(b), Dec. 23, 2016, 130 Stat. 2672; Pub. L. 116–92, div. A, title XVII, §1740(b), Dec. 20, 2019, 133 Stat. 1824; Pub. L. 117–263, div. G, title LXXI, §7141(a), Dec. 23, 2022, 136 Stat. 3652.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(3)(C), (D). Pub. L. 117–263, §7141(a)(1), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (b)(2). Pub. L. 117–263, §7141(a)(2)(A), inserted "based on the risk assessment required pursuant to subsection (c)(2)(B)" before semicolon at end.
+
+Subsec. (b)(3). Pub. L. 117–263, §7141(a)(2)(B), inserted ", to the extent practicable," after "describe" and substituted "resources required" for "budget plan".
+
+Subsec. (b)(4). Pub. L. 117–263, §7141(a)(2)(C), inserted ", to the extent practicable," after "identify" and substituted "resources required to" for "budget plan required to provide sufficient resources to successfully" and ", including any resources identified from redundant, wasteful, or unnecessary capabilities or capacities that may be redirected to better support other existing capabilities or capacities, as the case may be; and" for semicolon at end.
+
+Subsec. (b)(6). Pub. L. 117–263, §7141(a)(2)(D), (E), struck out par. (6) which read as follows: "review and assess the effectiveness of the mechanisms of the Department for executing the process of turning the requirements developed in the quadrennial homeland security review into an acquisition strategy and expenditure plan within the Department."
+
+Subsec. (c)(1). Pub. L. 117–263, §7141(a)(3)(A), substituted "60 days after the date of the submission of the President's budget for the fiscal year after the fiscal year" for "December 31 of the year".
+
+Subsec. (c)(2)(B). Pub. L. 117–263, §7141(a)(3)(B)(i), substituted "risk assessment of" for "description of the threats to".
+
+Subsec. (c)(2)(C). Pub. L. 117–263, §7141(a)(3)(B)(ii), inserted ", as required under subsection (b)(2)" before semicolon at end.
+
+Subsec. (c)(2)(D). Pub. L. 117–263, §7141(a)(3)(B)(iii), inserted "to the extent practicable," before "a description" and substituted "resources required" for "budget plan".
+
+Subsec. (c)(2)(F). Pub. L. 117–263, §7141(a)(3)(B)(iv), inserted "to the extent practicable," before "a discussion" and struck out "the status of" before "cooperation".
+
+Subsec. (c)(2)(G). Pub. L. 117–263, §7141(a)(3)(B)(v), inserted "to the extent practicable," before "a discussion", "and risks" before "to national homeland", and "and" after semicolon at end and struck out "the status of" before "cooperation".
+
+Subsec. (c)(2)(H), (I). Pub. L. 117–263, §7141(a)(3)(B)(vi), (vii), redesignated subpar. (I) as (H) and struck out former subpar. (H) which read as follows: "an explanation of any underlying assumptions used in conducting the review; and".
+
+Subsec. (c)(3), (4). Pub. L. 117–263, §7141(a)(3)(C), (D), added par. (3) and redesignated former par. (3) as (4).
+
+Subsecs. (d), (e). Pub. L. 117–263, §7141(a)(4), (5), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>2019</b>—Subsec. (a)(3)(A). Pub. L. 116–92, §1740(b)(1), inserted "the Secretary of Energy," after "the Secretary of Agriculture".
 
@@ -89,6 +139,10 @@ Subsec. (c)(2)(B). Pub. L. 116–92, §1740(b)(2), which directed insertion of "
 <b>2016</b>—Subsec. (a)(3)(B). Pub. L. 114–328 inserted ", including the Under Secretary for Strategy, Policy, and Plans" after "Department".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–263, div. G, title LXXI, §7141(b), Dec. 23, 2022, 136 Stat. 3654, provided that: "The amendments made by this Act \[probably means "this section", amending this section\] shall apply with respect to a quadrennial homeland security review conducted after December 31, 2021."
 
 #### Preparation for First Quadrennial Homeland Security Review
 

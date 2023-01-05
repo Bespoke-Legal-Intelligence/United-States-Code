@@ -28,7 +28,7 @@ No entrance or admission fees shall be collected after March 31, 1970, by any of
 
 #### References in Text
 
-Subsections (b) and (i) of section 460l–6a of this title, referred to in subsec. (b)(1), (4), were repealed, except for par. (1)(C) of subsec. (i), by Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2005, 119 Stat. 526. Subsec. (i)(1)(C) of section 460l–6a of this titlewas repealed and restated as section 100904(a) of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
+Subsections (b) and (i) of section 460l–6a of this title, referred to in subsec. (b)(1), (4), were repealed, except for par. (1)(C) of subsec. (i), by Pub. L. 108–447, div. J, title VIII, §813(a), Dec. 8, 2004, 118 Stat. 3390, as amended by Pub. L. 109–54, title I, §132(a), Aug. 2, 2005, 119 Stat. 526. Subsec. (i)(1)(C) of section 460l–6a of this title was repealed and restated as section 100904(a) of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272.
 
 #### Amendments
 

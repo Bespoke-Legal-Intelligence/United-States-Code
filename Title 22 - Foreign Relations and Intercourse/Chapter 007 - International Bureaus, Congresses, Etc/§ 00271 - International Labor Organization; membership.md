@@ -24,7 +24,7 @@ The reasons for acceptance of the Constitution of the Organization by the United
 
 "Whereas the International Labor Organization provides a unique international forum in which representatives of employers and workers join together with those of governments in formulating conventions and recommendations which serve as international minimum standards for labor and social legislation and administration within member countries; and
 
-"Whereas extensive revision of the constitution has been undertaken to enable the Organization to meet changed conditions, to strengthen the application of conventions and recommendations, with careful provision to meet the constitutional rules and practices of Federal States, and to operate as a specialized agency in relationship with the United Nations; and
+"Whereas extensive revision of the constitution has been undertaken to enable the Organization to meetchanged conditions, to strengthen the application of conventions and recommendations, with careful provision to meet the constitutional rules and practices of Federal States, and to operate as a specialized agency in relationship with the United Nations; and
 
 "Whereas the Constitution of the International Labor Organization Instrument of Amendment of 1946 was adopted unanimously on October 9, 1946, with the entire delegation of the United States to the Twenty-ninth Session of the International Labor Conference supporting this Instrument of Amendment."
 
@@ -34,7 +34,7 @@ The reasons for acceptance of the Constitution of the Organization by the United
 
 Ex. Ord. No. 12216, June 18, 1980, 45 F.R. 41619, as amended by Ex. Ord. No. 13135, Aug. 27, 1999, 64 F.R. 47339; Ex. Ord. No. 13385, §7, Sept. 29, 2005, 70 F.R. 57991, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, and in order to create in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) an advisory committee on United States participation in the International Labor Organization, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, and in order to create in accordance with the Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] an advisory committee on United States participation in the International Labor Organization, it is hereby ordered as follows:
 
 #### 1–1.
 
@@ -68,13 +68,13 @@ Funding and Expenses
 
 General Provisions
 
-1–401. Notwithstanding the provisions of any other Executive order, the functions of the President applicable to the Committee under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), except that of reporting annually to the Congress, are hereby delegated to the Secretary of Labor, who shall perform them in accordance with guidelines and procedures established by the Administrator of General Services.
+1–401. Notwithstanding the provisions of any other Executive order, the functions of the President applicable to the Committee under the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], except that of reporting annually to the Congress, are hereby delegated to the Secretary of Labor, who shall perform them in accordance with guidelines and procedures established by the Administrator of General Services.
 
 1–402. The Committee shall terminate on December 31, 1980, unless this date is extended by further Executive order.
 
 #### Extension of Term of President's Committee on the International Labor Organization
 
-Term of President's Committee on the International Labor Organization extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Committee on the International Labor Organization extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Committee on the International Labor Organization were contained in the following prior Executive Orders:
 

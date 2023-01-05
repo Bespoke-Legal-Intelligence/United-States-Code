@@ -112,7 +112,7 @@ The Social Security Act, referred to in subsec. (d)(2)(C), is act Aug. 14, 1935,
 
 #### Prior Provisions
 
-Prior sections 7261 to 7261f were repealed by Pub. L. 114–95, §5, title IV, §4001(b)(1)(C), Dec. 10, 2015, 129 Stat.1806, 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+Prior sections 7261 to 7261f were repealed by Pub. L. 114–95, §5, title IV, §4001(b)(1)(C), Dec. 10, 2015, 129 Stat. 1806, 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 Section 7261, Pub. L. 89–10, title V, §5501, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1841, provided that subpart 10 of part D of former subchapter V of this chapter could be cited as the "Carol M. White Physical Education Program".
 
@@ -124,7 +124,7 @@ Section 7261b, Pub. L. 89–10, title V, §5503, as added Pub. L. 107–110, tit
 
 Section 7261c, Pub. L. 89–10, title V, §5504, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1841, related to application requirement.
 
-Section 7261d, Pub. L. 89–10, title V, §5505, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1842, related to annual report to Secretary and administrative expenses.
+Section 7261d, Pub. L. 89–10, title V, §5505, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1842,related to annual report to Secretary and administrative expenses.
 
 Section 7261e, Pub. L. 89–10, title V, §5506, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1842, related to other administrative provisions.
 

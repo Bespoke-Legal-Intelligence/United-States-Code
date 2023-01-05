@@ -14,7 +14,7 @@ The President, by and with the advice and consent of the Senate, shall designate
 
 #### (d) Additional appointees; conditions governing certain appointments; designation of certain State Department officers to sit on Security Council
 
-The President may also appoint from time to time such other persons as he may deem necessary to represent the United States in organs and agencies of the United Nations. The President may, without the advice and consent of the Senate, designate any officer of the United States to act without additional compensation as the representative of the United States in either the Economic and Social Council or the Trusteeship Council (1) at any specified session thereof where the position is vacant or in the absence or disability of the regular representative or (2) in connection with a specified subject matter at any specified session of either such Council in lieu of the regular representative. The President may designate any officer of the Department of State, whose appointment is subject to confirmation by the Senate, to act, without additional compensation, for temporary periods as the representative of the United States in the Security Council of the United Nations in the absence or disability of the representatives provided for under subsections (a) and (b) or in lieu of such representatives in connection with a specified subject matter.
+The President may also appoint from time to time such other persons as he may deem necessary to represent the United States in organs and agencies of the United Nations. The President may, without the advice and consent of the Senate, designate any officer of the United States to act without additional compensation as the representative of the United States in either the Economic and Social Council or the Trusteeship Council (1) at any specified session thereof where the position is vacant or in the absence or disability of the regular representative or (2) in connection with a specified subject matter at any specified session of either suchCouncil in lieu of the regular representative. The President may designate any officer of the Department of State, whose appointment is subject to confirmation by the Senate, to act, without additional compensation, for temporary periods as the representative of the United States in the Security Council of the United Nations in the absence or disability of the representatives provided for under subsections (a) and (b) or in lieu of such representatives in connection with a specified subject matter.
 
 #### (e) Appointment of representative to European office of United Nations; rank, status, and tenure; duties
 
@@ -52,7 +52,7 @@ This Act, as amended, referred to in subsec. (b), is Pub. L. 89–206, Sept. 28,
 
 Subsec. (b). Pub. L. 89–206, §1(a), substituted provisions that the President, by and with the advice and consent of the Senate, shall appoint additional persons with appropriate titles, rank, and status to represent the United States in the principal organs of the United Nations and in such organs, commissions, or other bodies as may be created by the United Nations with respect to nuclear energy or disarmament, that they shall serve at the pleasure of the President and subject to the direction of the Representative of the United States to the United Nations, that they shall, at the direction of the Representative of the United States to the United Nations, represent the United States in any organ, commission, or other body of the United Nations, including the Security Council, the Economic and Social Council, and the Trusteeship Council, and perform such other functions as the Representative of the United States is authorized to perform in connection with the participation of the United States in the United Nations, and that any Deputy Representative or any other officer holding office at the time the provisions of this Act, as amended, become effective shall not be required to be reappointed by reason of the enactment of this Act, as amended, for provisions which authorized the President, by and with the advice and consent of the Senate, to appoint an additional deputy representative of the United States to the Security Council who shall hold office at the pleasure of the President, and which required the deputy representative to represent the United States in the Security Council of the United Nations in the event of the absence or disability of both the representative and the deputy representative of the United States to the United Nations.
 
-Subsec. (d). Pub. L. 89–206, §1(b), struck out provisions which required the representative of the United States in the Economic and Social Council and in the Trusteeship Council of the United Nations to be appointed only by and with the advice and consent of the Senate and which required the advice and consent of the Senate for the appointment by the President of the representative of the United States in any commission that may be formed by the United Nations with respect to atomic energy or in any other commission of the United Nations to which the United States is entitled to appoint a representative.
+Subsec. (d). Pub. L. 89–206, §1(b), struck out provisions which required the representative of the United States in the Economic and Social Council and in the Trusteeship Council of the United Nations to be appointed only by and with the advice and consent of the Senate and which required the advice and consent ofthe Senate for the appointment by the President of the representative of the United States in any commission that may be formed by the United Nations with respect to atomic energy or in any other commission of the United Nations to which the United States is entitled to appoint a representative.
 
 Subsecs. (e) to (g). Pub. L. 89–206, §2, added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
 
@@ -148,7 +148,7 @@ Child marriage.—The term 'child marriage' means a formal marriage or informal 
 
 &emsp;"(2)
 
-Illegal child marriage.—The term 'illegal child marriage' means a child marriage that is illegal under the laws of the country in which the child marriage occurs."
+Illegal child marriage.—The term 'illegal child marriage' means a child marriage that is illegalunder the laws of the country in which the child marriage occurs."
 
 #### Restriction on Funding for the Preparatory Commission for the Comprehensive Nuclear-Test-Ban Treaty Organization
 
@@ -248,7 +248,7 @@ Implementation.—The United States Permanent Representative to the United Natio
 
 "(e)
 
-Peacekeeping Training.—The United States should deny further United States peacekeeper training or related assistance, except for training specifically designed to reduce the incidence of sexual exploitation or abuse, or to assist in its identification or prosecution, to any troop- or police-contributing country that does not—
+Peacekeeping Training.—The United States should deny further United States peacekeeper training or related assistance, except for training specifically designed to reduce the incidence of sexual exploitationor abuse, or to assist in its identification or prosecution, to any troop- or police-contributing country that does not—
 
 &emsp;"(1) implement and maintain effective measures to investigate allegations of sexual exploitation and abuse offenses committed by peacekeeping personnel who are nationals of such country;
 
@@ -300,7 +300,7 @@ Human Rights Reporting.—In coordination with the ombudsman described in subsec
 
 Pub. L. 114–323, title III, §307, Dec. 16, 2016, 130 Stat. 1921, provided that: "The President shall direct the United States Permanent Representative to the United Nations to use the voice, vote, and influence of the United States at the United Nations to—
 
-&emsp;"(1) call for the removal of any official of the United Nations or of any United Nations agency, program, commission, or fund who the Secretary \[of State\] has determined has failed to uphold the highest standards of ethics and integrity established by the United Nations, including such standards specified in United Nations Codes of Conduct and Codes of Ethics, or whose conduct, with respect to preventingsexual exploitation and abuse by United Nations peacekeepers, has resulted in the erosion of public confidence in the United Nations;
+&emsp;"(1) call for the removal of any official of the United Nations or of any United Nations agency, program, commission, or fund who the Secretary \[of State\] has determined has failed to uphold the highest standards of ethics and integrity established by the United Nations, including such standards specified in United Nations Codes of Conduct and Codes of Ethics, or whose conduct, with respect to preventing sexual exploitation and abuse by United Nations peacekeepers, has resulted in the erosion of public confidence in the United Nations;
 
 &emsp;"(2) ensure that best practices with regard to whistleblower protections are extended to all personnel serving the United Nations or serving any United Nations agency, program, commission, or fund, especially personnel participating in United Nations peacekeeping operations, United Nations police officers, United Nations staff, contractors, and victims of misconduct, wrongdoing, or criminal behavior involving United Nations personnel;
 
@@ -322,7 +322,7 @@ Pub. L. 114–323, title III, §307, Dec. 16, 2016, 130 Stat. 1921, provided tha
 
 &emsp;&emsp;"(A) complaints submitted to the United Nations' Ethics Office, local Conduct and Discipline teams, or other entity designated to receive complaints from whistleblowers;
 
-&emsp;&emsp;"(B) determinations that probable cause exists to conduct an investigation, and specification of the entity conducting such investigation, including the Office of Internal Oversight Services, the Office of Audit and Investigations (for UNDP), the Office of Internal Audit (for UNICEF), and the Inspector General's Office (for UNHCR);
+&emsp;&emsp;"(B) determinations that probable cause exists to conduct an investigation, and specification of theentity conducting such investigation, including the Office of Internal Oversight Services, the Office of Audit and Investigations (for UNDP), the Office of Internal Audit (for UNICEF), and the Inspector General's Office (for UNHCR);
 
 &emsp;&emsp;"(C) dispositions of such investigations, including dismissal and referral for adjudication, specifying the adjudicating entity, such as the United Nations Dispute Tribunal; and
 
@@ -386,7 +386,7 @@ Pub. L. 100–204, title VII, part B, Dec. 22, 1987, 101 Stat. 1391, as amended 
 
 #### Soviet Mission at the United Nations
 
-Pub. L. 99–569, title VII, §702, Oct. 27, 1986, 100 Stat. 3204, related to policy of Congress of limiting number of Soviet nationals serving as members of Soviet mission at the United Nations to number not to substantially exceed number of United States nationals serving as members of United States mission, required Secretary of State to report numbers of Soviet nationals so serving, and provided that spouses and dependents were not to be included in such numbers, prior to repeal by Pub. L. 103–199, title V, §501(d), Dec. 17, 1993, 107 Stat. 2325.
+Pub. L. 99–569, title VII, §702, Oct. 27, 1986, 100 Stat. 3204, related to policy of Congress of limiting number of Soviet nationals serving as members of Soviet mission at the United Nations to number not to substantially exceed number of United States nationals serving asmembers of United States mission, required Secretary of State to report numbers of Soviet nationals so serving, and provided that spouses and dependents were not to be included in such numbers, prior to repeal by Pub. L. 103–199, title V, §501(d), Dec. 17, 1993, 107 Stat. 2325.
 
 #### United States Participation in the United Nations if Israel is Illegally Expelled
 
@@ -430,7 +430,7 @@ Pub. L. 91–622, Dec. 31, 1970, 84 Stat. 1867, provided: "That there is hereby 
 
 #### United States Loan for Construction of Permanent Headquarters in New York City
 
-Act Aug. 11, 1948, ch. 834, 62 Stat. 1286, authorized the President to loan to the United Nations $65,000,000 to construct a permanent headquarters in New York City, provided for the repayment of the loan without interest in installments beginning July 1, 1951, and continuinguntil July 1, 1982, and authorized the Reconstruction Finance Corporation to advance to the United Nations up to $25,000,000 until such time as the $65,000,000 is appropriated by Congress.
+Act Aug. 11, 1948, ch. 834, 62 Stat. 1286, authorized the President to loan to the United Nations $65,000,000 to construct a permanent headquarters in New York City, provided for the repayment of the loan without interest in installments beginning July 1, 1951, and continuing until July 1, 1982, and authorized the Reconstruction Finance Corporation to advance to the United Nations up to $25,000,000 until such time as the $65,000,000 is appropriated by Congress.
 
 #### Establishment of Permanent Headquarters in New York; Agreement Between United Nations and United States
 
@@ -618,7 +618,7 @@ The Secretary-General and the appropriate American authorities shall, at the req
 
 #### section 16
 
-(a) The appropriate American authorities shall exercise due diligence to ensure that the tranquility of theheadquarters district is not disturbed by the unauthorized entry of groups of persons from outside or by disturbances in its immediate vicinity and shall cause to be provided on the boundaries of the headquarters district such police protection as is required for these purposes.
+(a) The appropriate American authorities shall exercise due diligence to ensure that the tranquility of the headquarters district is not disturbed by the unauthorized entry of groups of persons from outside or by disturbances in its immediate vicinity and shall cause to be provided on the boundaries of the headquarters district such police protection as is required for these purposes.
 
 (b) If so requested by the Secretary-General, the appropriate American authorities shall provide a sufficient number of police for the preservation of law and order in the headquarters district, and for the removal therefrom of persons as requested under the authority of the United Nations. The United Nations shall, if requested, enter into arrangements with the appropriate American authorities to reimburse them for the reasonable cost of such services.
 
@@ -736,7 +736,7 @@ Sec. 4. Any States, or, to the extent not inconsistent with State law any politi
 
 Sec. 5. The President is authorized to make effective with respect to the temporary headquarters of the United Nations in the State of New York, on a provisional basis, such of the provisions of the agreement as he may deem appropriate, having due regard for the needs of the United Nations at its temporary headquarters.
 
-Sec. 6. Nothing in the agreement shall be construed as in any way diminishing, abridging, or weakening the right of the United States to safeguard its own security and completely to control the entrance of aliens into any territory of the United States other than the headquarters district and its immediate vicinity, as to be defined and fixed in a supplementary agreement between the Government of the United States and the United Nations in pursuance of section 13(3)(e) of the agreement, and such areas as it is reasonably necessaryto traverse in transit between the same and foreign countries. Moreover, nothing in section 14 of the agreement with respect to facilitating entrance into the United States by persons who wish to visit the headquarters district and do not enjoy the right of entry provided in section 11 of the agreement shall be construed to amend or suspend in any way the immigration laws of the United States or to commit the United States in any way to effect any amendment or suspension of such laws."
+Sec. 6. Nothing in the agreement shall be construed as in any way diminishing, abridging, or weakening the right of the United States to safeguard its own security and completely to control the entrance of aliens into any territory of the United States other than the headquarters district and its immediate vicinity, as to be defined and fixed in a supplementary agreement between the Government of the United States and the United Nations in pursuance of section 13(3)(e) of the agreement, and such areas as it is reasonably necessary to traverse in transit between the same and foreign countries. Moreover, nothing in section 14 of the agreement with respect to facilitating entrance into the United States by persons who wish to visit the headquarters district and do not enjoy the right of entry provided in section 11 of the agreement shall be construed to amend or suspend in any way the immigration laws of the United States or to commit the United States in any way to effect any amendment or suspension of such laws."
 
 #### UN Membership for Communist China
 

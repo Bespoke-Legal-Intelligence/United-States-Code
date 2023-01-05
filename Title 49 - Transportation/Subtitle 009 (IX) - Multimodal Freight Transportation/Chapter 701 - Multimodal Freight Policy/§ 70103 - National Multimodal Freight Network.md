@@ -10,7 +10,7 @@ In General.—The Assistant Secretary for Multimodal Freight (referred to in thi
 
 &emsp;(3) to assist in the prioritization of Federal investment; and
 
-&emsp;(4) to assess and support Federal investments to achieve the national multimodal freight policy goals described in section 70101(b) of this title and the national highway freight program goals described in section 167 of title 23.
+&emsp;(4) to assess and support Federal investments to achieve the national multimodalfreight policy goals described in section 70101(b) of this title and the national highway freight program goals described in section 167 of title 23.
 
 (b)
 

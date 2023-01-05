@@ -46,7 +46,7 @@ Subject to the availability of funds appropriated for this purpose, the Director
 
 &emsp;&emsp;(F) engaging in outreach and engagement to broaden participation in artificial intelligence research and the artificial intelligence workforce; and
 
-&emsp;&emsp;(G) such other activities that an agency head, whose agency's missions contribute toor are affected by artificial intelligence, considers consistent with the purposes described in section 9411(a) of this title.
+&emsp;&emsp;(G) such other activities that an agency head, whose agency's missions contribute to or are affected by artificial intelligence, considers consistent with the purposes described in section 9411(a) of this title.
 
 #### (4) Duration
 

@@ -10,23 +10,35 @@ Guidance on Life-Cycle Management.—The Secretary of Defense shall issue and ma
 
 (b)
 
-Life Cycle Sustainment Plan.—Before granting Milestone B approval (or the equivalent), the milestone decision authority shall ensure that each covered system has an approved life cycle sustainment plan. The life cycle sustainment plan shall include—
+Life Cycle Sustainment Plan.—
 
-&emsp;(1) a comprehensive product support strategy;
+&emsp;(1)
 
-&emsp;(2) performance goals, including key performance parameters for sustainment, key system attributes of the covered system, and other appropriate metrics;
+In general.—Before granting Milestone B approval (or the equivalent), the milestone decision authority shall ensure that each covered system has an approved life cycle sustainment plan for which the milestone decision authority has received views from appropriate materiel, logistics, or fleet representatives. The life cycle sustainment plan shall include—
 
-&emsp;(3) an approved life-cycle cost estimate for the covered system;
+&emsp;&emsp;(A) a comprehensive product support strategy;
 
-&emsp;(4) affordability constraints and key cost factors that could affect the operating and support costs of the covered system;
+&emsp;&emsp;(B) performance goals, including key performance parameters for sustainment, keysystem attributes of the covered system, and other appropriate metrics;
 
-&emsp;(5) sustainment risks and proposed mitigation plans for such risks;
+&emsp;&emsp;(C) an approved life-cycle cost estimate for the covered system;
 
-&emsp;(6) engineering and design considerations that support cost-effective sustainment of the covered system;
+&emsp;&emsp;(D) affordability constraints and key cost factors that could affect the operating and support costs of the covered system;
 
-&emsp;(7) a technical data and intellectual property management plan for product support; and
+&emsp;&emsp;(E) sustainment risks and proposed mitigation plans for such risks;
 
-&emsp;(8) major maintenance and overhaul requirements that will be required during the life cycle of the covered system.
+&emsp;&emsp;(F) engineering and design considerations that support cost-effective sustainment of the covered system;
+
+&emsp;&emsp;(G) an intellectual property management plan for product support, including requirements for technical data, software, and modular open system approaches (as defined in section 4401 of this title);
+
+&emsp;&emsp;(H) an estimate of the number of personnel needed to operate and maintain the covered system, including military personnel, Federal employees, contractors, and host nation support personnel (as applicable);
+
+&emsp;&emsp;(I) a description of opportunities for foreign military sales; and
+
+&emsp;&emsp;(J) major maintenance and overhaul requirements that will be required during the life cycle of the covered system.
+
+&emsp;(2)
+
+Subsequent phases.—Before granting Milestone C approval (or the equivalent) for the covered system, the milestone decision authority shall ensure that the life cycle sustainment plan required by paragraph (1) for such covered system has been updated to include views received by the milestone decision authority from appropriate materiel, logistics, or fleet representatives.
 
 (c)
 
@@ -102,9 +114,13 @@ Milestone b approval.—The term "Milestone B approval" has the meaning given th
 
 &emsp;(7)
 
+Milestone c approval.—The term "Milestone C approval" has the meaning given that term in section 4172(e)(8) of this title.
+
+&emsp;(8)
+
 Milestone decision authority.—The term "milestone decision authority" has the meaning given in section 4211(e)(3) of this title.
 
-(Added Pub. L. 112–239, div. A, title VIII, §823(a)(1), Jan. 2, 2013, 126 Stat. 1830, §2337; amended Pub. L. 113–66, div. A, title VIII, §823, Dec. 26, 2013, 127 Stat. 809; renumbered §4324 and amended Pub. L. 116–283, div. A, title VIII, §802(a), title XVIII, §§1848(d)(1), (2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3731, 4258, 4294; Pub. L. 117–81, div. A, title XVII, §1701(b)(17), (d)(11), Dec. 27, 2021, 135 Stat. 2135, 2137.)
+(Added Pub. L. 112–239, div. A, title VIII, §823(a)(1), Jan. 2, 2013, 126 Stat. 1830, §2337; amended Pub. L. 113–66, div. A, title VIII, §823, Dec. 26, 2013, 127 Stat. 809; renumbered §4324 and amended Pub. L. 116–283, div. A, title VIII, §802(a), title XVIII, §§1848(d)(1), (2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3731, 4258, 4294; Pub. L. 117–81, div. A, title XVII, §1701(b)(17), (d)(11), Dec. 27, 2021, 135 Stat. 2135, 2137; Pub. L. 117–263, div. A, title VIII, §806, Dec. 23, 2022, 136 Stat. 2702.)
 
 #### <b>Editorial Notes</b>
 
@@ -113,6 +129,10 @@ Milestone decision authority.—The term "milestone decision authority" has the 
 Section 804 of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (d)(5)(B), is section 804 of Pub. L. 114–92, which is set out as a note preceding section 3201 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–263, §806(a), designated existing provisions as par. (1) and inserted heading; inserted "for which the milestone decision authority has received views from appropriate materiel, logistics, or fleet representatives" after "approved life cycle sustainment plan"; designated former pars. (1) to (8) as subpars. (A) to (G) and (J), respectively, of par. (1); amended subpar. (G) generally, prior to which text read "a technical data and intellectual property management plan for product support; and"; added subpars. (H) and (I) of par. (1); and added par. (2). Amendment adding par. (2) "at the end of" par. (1) was executed by adding par. (2) after par. (1) to reflect the probable intent of Congress.
+
+Subsec. (d)(7), (8). Pub. L. 117–263, §806(b), added par. (7) and redesignated former par. (7) as (8).
 
 <b>2021</b>—Pub. L. 116–283, §1848(d)(1), renumbered section 2337 of this title as this section.
 
@@ -162,7 +182,7 @@ Pub. L. 116–283, §802(a)(7)(B), added par. (7).
 
 Amendment by section 1701(d)(11) of Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
-Amendment by sections 1848(d)(1), (2) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additionalprovisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by sections 1848(d)(1), (2) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Similar Provisions
 

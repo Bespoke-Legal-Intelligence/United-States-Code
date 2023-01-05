@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director shall, by regulation, establish criteria governing the portfolio holdings of the enterprises, to ensure that the holdings are backed by sufficient capital and consistent with the mission and the safe and sound operations of the enterprises. In establishing such criteria, the Director shall consider the ability of the enterprises to provide a liquid secondary market through securitization activities, the portfolio holdings in relation to the overall mortgage market, and adherence to the standards specified in section 4513b of this title.
+The Director shall, by regulation, establish criteria governing the portfolio holdings of theenterprises, to ensure that the holdings are backed by sufficient capital and consistent with the mission and the safe and sound operations of the enterprises. In establishing such criteria, the Director shall consider the ability of the enterprises to provide a liquid secondary market through securitization activities, the portfolio holdings in relation to the overall mortgage market, and adherence to the standards specified in section 4513b of this title.
 
 #### (b) Temporary adjustments
 
@@ -24,5 +24,5 @@ This Act, referred to in subsec. (c), is Pub. L. 102–550, Oct. 28, 1992, 106 S
 
 #### Regulations
 
-Pub. L. 110–289, div. A, title I, §1109(b), July 30, 2008, 122 Stat. 2675, provided that: "Not later than the expiration of the 180-day period beginning on the effective date of this Act \[probably means date of enactment ofPub. L. 110–289, approved July 30, 2008\], the Director \[of the Federal Housing Finance Agency\] shall issue regulations pursuant to section 1369E(a) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4624(a)\] (as added by subsection (a) of this section) establishing the portfolio holdings standards under such section."
+Pub. L. 110–289, div. A, title I, §1109(b), July 30, 2008, 122 Stat. 2675, provided that: "Not later than the expiration of the 180-day period beginning on the effective date of this Act \[probably means date of enactment of Pub. L. 110–289, approved July 30, 2008\], the Director \[of the Federal Housing Finance Agency\] shall issue regulations pursuant to section 1369E(a) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 \[12 U.S.C. 4624(a)\] (as added by subsection (a) of this section) establishing the portfolio holdings standards under such section."
 

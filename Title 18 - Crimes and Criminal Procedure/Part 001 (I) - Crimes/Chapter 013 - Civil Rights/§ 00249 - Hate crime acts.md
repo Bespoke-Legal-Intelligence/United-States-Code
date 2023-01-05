@@ -14,7 +14,7 @@ Offenses involving actual or perceived race, color, religion, or national origin
 
 &emsp;&emsp;&emsp;(i) death results from the offense; or
 
-&emsp;&emsp;&emsp;(ii) the offense includes kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill.
+&emsp;&emsp;&emsp;(ii) the offense includes kidnapping or an attempt to kidnap, aggravated sexualabuse or an attempt to commit aggravated sexual abuse, or an attempt to kill.
 
 &emsp;(2)
 
@@ -59,6 +59,14 @@ Offenses occurring in the special maritime or territorial jurisdiction of the un
 &emsp;(4)
 
 Guidelines.—All prosecutions conducted by the United States under this section shall be undertaken pursuant to guidelines issued by the Attorney General, or the designee of the Attorney General, to be included in the United States Attorneys' Manual that shall establish neutral and objective criteria for determining whether a crime was committed because of the actual or perceived status of any person.
+
+&emsp;(5)
+
+Lynching.—Whoever conspires to commit any offense under paragraph (1), (2), or (3) shall, if death or serious bodily injury (as defined in section 2246 of this title) results from the offense, be imprisoned for not more than 30 years, fined in accordance with this title, or both.
+
+&emsp;(6)
+
+Other conspiracies.—Whoever conspires to commit any offense under paragraph (1), (2), or (3) shall, if death or serious bodily injury (as defined in section 2246 of this title) results from the offense, or if the offense includes kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, be imprisoned for not more than 30 years, fined in accordance with this title, or both.
 
 (b)
 
@@ -110,11 +118,13 @@ Death resulting offenses.—An indictment or information alleging that an offens
 
 Supervised Release.—If a court includes, as a part of a sentence of imprisonment imposed for a violation of subsection (a), a requirement that the defendant be placed on a term of supervised release after imprisonment under section 3583, the court may order, as an explicit condition of supervised release, that the defendant undertake educational classes or community service directly related to the community harmed by the defendant's offense.
 
-(Added and amended Pub. L. 111–84, div. E, §§4707(a), 4711, Oct. 28, 2009, 123 Stat. 2838, 2842; Pub. L. 117–13, §5(h), May 20, 2021, 135 Stat. 272.)
+(Added and amended Pub. L. 111–84, div. E, §§4707(a), 4711, Oct. 28, 2009, 123 Stat. 2838, 2842; Pub. L. 117–13, §5(h), May 20, 2021, 135 Stat. 272; Pub. L. 117–107, §2, Mar. 29, 2022, 136 Stat. 1125.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(5), (6). Pub. L. 117–107 added pars. (5) and (6).
 
 <b>2021</b>—Subsec. (e). Pub. L. 117–13 added subsec. (e).
 

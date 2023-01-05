@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) standards for monitoring and verification of operational cost savings through the application of cost-effective technologies and practices reported by grantees under this section;
 
-&emsp;&emsp;(B) standards for grantees to implement training programs, and to provide technicalassistance and education, relating to the retrofit of buildings using cost-effective technologies and practices; and
+&emsp;&emsp;(B) standards for grantees to implement training programs, and to provide technical assistance and education, relating to the retrofit of buildings using cost-effective technologies and practices; and
 
 &emsp;&emsp;(C) a requirement that each local government that receives a grant under this section shall achieve facility-wide cost savings, through renovation of existing local government buildings using cost-effective technologies and practices, of at least 40 percent as compared to the baseline operational costs of the buildings before the renovation (as calculated assuming a 3-year, weather-normalized average).
 

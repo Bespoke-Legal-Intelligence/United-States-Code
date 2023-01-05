@@ -1,6 +1,6 @@
 ### §§166 to 175. Repealed. Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787
 
-Section 166, acts May 14, 1880, ch. 89, §3, 21 Stat. 141; June 6, 1900, ch. 821, 31 Stat. 683; Aug. 9, 1912, ch. 280, 37 Stat. 267, related to time for settlers to file application and for perfection of entry, marriage of entrywoman, and preferential right of entry.
+Section 166, acts May 14, 1880, ch. 89, §3, 21 Stat. 141; June 6, 1900, ch. 821, 31 Stat. 683; Aug. 9, 1912, ch. 280, 37 Stat. 267, related to time for settlers to file applicationand for perfection of entry, marriage of entrywoman, and preferential right of entry.
 
 Section 167, acts Apr. 6, 1914, ch. 51, 38 Stat. 312; Mar. 1, 1921, ch. 90, 41 Stat. 1193, related to marriage of entryman to entrywoman.
 

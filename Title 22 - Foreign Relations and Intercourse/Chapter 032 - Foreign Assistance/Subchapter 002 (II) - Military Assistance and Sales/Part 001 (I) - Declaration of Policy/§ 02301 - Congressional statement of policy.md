@@ -18,11 +18,11 @@ Finally, the Congress reaffirms its full support of the progress of the members 
 
 #### References in Text
 
-This legislation, referred to in fourth paragraph, means Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This legislation, referred to in fourth paragraph, means Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 501 of Pub. L. 87–195, provided that part II of Pub. L. 87–195 \[subchapter II of this chapter\] should be cited as the "International Peace and Security Act of 1961", prior to repeal by Pub. L. 88–205, pt. II, §201(b), Dec. 16, 1963, 77 Stat. 384.
+A prior section 501 of Pub. L. 87–195, provided that part II of Pub. L. 87–195 \[subchapter II of this chapter\]should be cited as the "International Peace and Security Act of 1961", prior to repeal by Pub. L. 88–205, pt. II, §201(b), Dec. 16, 1963, 77 Stat. 384.
 
 #### Amendments
 
@@ -32,7 +32,13 @@ Pub. L. 103–199, §705(1)(B), in fourth par., struck out "Communist or Communi
 
 Pub. L. 103–199, §705(1)(C), in fifth par., substituted "aggression or in which the internal security is threatened by internal subversion inspired or supported by hostile countries." for "active Communist or Communist-supported aggression or those countries in which the internal security is threatened by Communist-inspired or Communist-supported internal subversion."
 
-<b>1967</b>—Pub. L. 90–137 inserted par. to indicate that priority shall be given in the use of the funds available todefend against Communist aggression or Communist-inspired internal subversion.
+<b>1967</b>—Pub. L. 90–137 inserted par. to indicate that priority shall be given in the use of the funds available to defend against Communist aggression or Communist-inspired internal subversion.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
+
+References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 
 #### Transfer of Proscribed Weapons to Persons or Entities in the West Bank and Gaza
 
@@ -57,10 +63,4 @@ Definition.—In this section, the term 'proscribed weapons' means arms, ammunit
 \[Functions of President under section 699 of Pub. L. 107–228, set out above, delegated to Secretary of State by Memorandum of President of the United States, Apr. 30, 2009, 74 F.R. 22637.\]
 
 \[For definition of "appropriate congressional committees" as used in section 699 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### References to Subchapter II Deemed To Exclude Certain Parts of Subchapter II
-
-References to subchapter II of this chapter are deemed to exclude parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II, and references to subchapter I of this chapter are deemed to include such parts. See section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title.
 

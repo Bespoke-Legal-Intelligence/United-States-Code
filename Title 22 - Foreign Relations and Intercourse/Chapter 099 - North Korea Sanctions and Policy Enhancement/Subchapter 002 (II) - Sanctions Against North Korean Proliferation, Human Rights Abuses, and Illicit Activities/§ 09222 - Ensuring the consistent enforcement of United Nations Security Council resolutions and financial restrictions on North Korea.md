@@ -24,7 +24,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(B) the protection of the international financial system.
 
-&emsp;(7) The report of the Panel of Experts expressed concern about the ability of banks to detect and prevent illicit transfers involving North Korea if such banks are located in member states with less effective regulators ormember states that are unable to afford effective compliance.
+&emsp;(7) The report of the Panel of Experts expressed concern about the ability of banks to detect and prevent illicit transfers involving North Korea if such banks are located in member states with less effective regulators or member states that are unable to afford effective compliance.
 
 &emsp;(8) North Korea has historically exploited inconsistencies between jurisdictions in the interpretation and enforcement of financial regulations and applicable United Nations Security Council resolutions to circumvent sanctions and launder the proceeds of illicit activities.
 

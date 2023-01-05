@@ -54,7 +54,7 @@ Criteria.—To reduce supply chain risk, the Council shall establish criteria an
 
 &emsp;&emsp;(C) requesting and approving exceptions to an issued exclusion or removal order when warranted by circumstances, including alternative mitigation actions or other findings relating to the national interest, including national security reviews, national security investigations, or national security agreements; and
 
-&emsp;&emsp;(D) ensuring that recommended orders do not conflict with standards and guidelines issued under section 11331 of title 40 and that the Council consults with the Director of the National Institute of Standards and Technology regarding any recommended orders that would implement standards and guidelines developed by the National Institute of Standards and Technology.
+&emsp;&emsp;(D) ensuring that recommended orders do not conflict with standards and guidelines issued under section 11331 of title 40 and that the Council consults with the Director of the National Institute of Standards and Technology regarding any recommended ordersthat would implement standards and guidelines developed by the National Institute of Standards and Technology.
 
 &emsp;(2)
 
@@ -106,7 +106,7 @@ Order issuance.—Recommendations of the Council under paragraph (2), together w
 
 &emsp;&emsp;&emsp;(ii) The Secretary of Defense, for exclusion and removal orders applicable to the Department of Defense and national security systems other than sensitive compartmented information systems.
 
-&emsp;&emsp;&emsp;(iii) The Director of National Intelligence, for exclusion and removal orders applicable to the intelligence communityand sensitive compartmented information systems, to the extent not covered by clause (ii).
+&emsp;&emsp;&emsp;(iii) The Director of National Intelligence, for exclusion and removal orders applicable to the intelligence community and sensitive compartmented information systems, to the extent not covered by clause (ii).
 
 &emsp;&emsp;(B)
 

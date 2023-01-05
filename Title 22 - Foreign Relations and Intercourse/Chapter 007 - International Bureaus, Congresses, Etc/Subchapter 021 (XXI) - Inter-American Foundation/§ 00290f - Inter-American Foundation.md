@@ -62,7 +62,7 @@ The management of the Foundation shall be vested in a board of directors (hereaf
 
 #### (h) Reimbursement of expenses
 
-Members of the Board shall serve without additional compensation, but shall be reimbursed for travel expenses, including per diem in lieu of subsistence, in accordance with section 5703 of title 5, while engaged in their duties on behalf of the corporation.
+Members of the Board shall serve without additional compensation, but shall be reimbursedfor travel expenses, including per diem in lieu of subsistence, in accordance with section 5703 of title 5, while engaged in their duties on behalf of the corporation.
 
 #### (i) Board; authority
 
@@ -118,7 +118,7 @@ The Foundation shall be subject to the provisions of chapter 91 of title 31.
 
 #### (u) Interest on funds invested pending disbursement
 
-When, with the permission of the Foundation, funds made available to a grantee under this section are invested pending disbursement, the resulting interest is not required to be deposited in the United States Treasury if the grantee uses the resulting interest for the purposes for which the grant was made. This subsection applies with respect to both interest earned before and interest earned after August 24, 1982.
+When, with the permission of the Foundation, funds made available to a grantee under this section are invested pending disbursement, the resulting interest is not required to be deposited in the United States Treasury if the granteeuses the resulting interest for the purposes for which the grant was made. This subsection applies with respect to both interest earned before and interest earned after August 24, 1982.
 
 #### (v) Travel expenses
 
@@ -158,7 +158,7 @@ Subsecs. (v), (w). Pub. L. 102–138, §173(d), added subsecs. (v) and (w).
 
 <b>1986</b>—Subsec. (g). Pub. L. 99–529, §403(a), substituted "nine members" for "seven members" and "Six members" for "Four members".
 
-Subsec. (s)(2). Pub. L. 99–529, §202(e), substituted "$12,969,000 for fiscal year 1987 (not less than $1,000,000of which shall be for Haiti)" for "$11,969,000 for fiscal year 1987".
+Subsec. (s)(2). Pub. L. 99–529, §202(e), substituted "$12,969,000 for fiscal year 1987 (not less than $1,000,000 of which shall be for Haiti)" for "$11,969,000 for fiscal year 1987".
 
 <b>1985</b>—Subsec. (s)(2). Pub. L. 99–83 substituted provisions authorizing appropriations of $11,969,000 for each of fiscal years 1986 and 1987, for provisions authorizing appropriations of $16,000,000 for each of fiscal years 1984 and 1985.
 
@@ -196,7 +196,7 @@ Pub. L. 91–175, pt. IV, Dec. 30, 1969, 83 Stat. 821, as amended by Pub. L. 92�
 
 #### Abolition of Inter-American Foundation
 
-Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586\], Nov. 29, 1999, 113 Stat. 1535, 1501A–117, as amended by Pub. L. 106–429, §101(a) \[title V, §591\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, authorized the President, during fiscal years 2000 and 2001, to abolish the Inter-American Foundation, provided for the termination and transfer of functions of the Foundation, disposition of funds, and responsibilities and authorities of the Director of the Office of Management and Budget to take actions necessary to wind-up the affairs of the Foundation, required the Director to certify to Congress the discharge of the Director's responsibilities, directed the repeal of sections 290f and 2182a(d) of this title and the amendment of section 290h of this title and section 36 of Pub. L. 93–189 (22 U.S.C. 1942 note), effective on the date of transmittal to Congress of the Director's certification, and provided that section 1000(a)(2) \[title V, §586\] of Pub. L. 106–113 would only be effective upon the effective date of the abolition of the Foundation. The President did not exercise his authority to abolish the Inter-American Foundation during fiscal years 2000 and 2001.
+Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586\], Nov. 29, 1999, 113 Stat. 1535, 1501A–117, as amended by Pub. L.106–429, §101(a) \[title V, §591\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, authorized the President, during fiscal years 2000 and 2001, to abolish the Inter-American Foundation, provided for the termination and transfer of functions of the Foundation, disposition of funds, and responsibilities and authorities of the Director of the Office of Management and Budget to take actions necessary to wind-up the affairs of the Foundation, required the Director to certify to Congress the discharge of the Director's responsibilities, directed the repeal of sections 290f and 2182a(d) of this title and the amendment of section 290h of this title and section 36 of Pub. L. 93–189 (22 U.S.C. 1942 note), effective on the date of transmittal to Congress of the Director's certification, and provided that section 1000(a)(2) \[title V, §586\] of Pub. L. 106–113 would only be effective upon the effective date of the abolition of the Foundation. The President did not exercise his authority to abolish the Inter-American Foundation during fiscal years 2000 and 2001.
 
 #### Transition Rule for Board Appointments
 

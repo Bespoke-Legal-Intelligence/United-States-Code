@@ -2,7 +2,7 @@
 
 #### (a) Criminal penalties
 
-Any person who violates any of the provisions of section 1263 of this title shall be guilty of a misdemeanor and shall on conviction thereof be subject to a fine of not more than $500 or to imprisonment for not more than ninety days, or both; but for offenses committed with intent to defraud or mislead, or for second and subsequent offenses, the penalty shall be imprisonment for not more than 5 years, a fine determined under section 3571 of title 18, or both.
+Any person who violates any of the provisions of section 1263 of this title shall be guilty of amisdemeanor and shall on conviction thereof be subject to a fine of not more than $500 or to imprisonment for not more than ninety days, or both; but for offenses committed with intent to defraud or mislead, or for second and subsequent offenses, the penalty shall be imprisonment for not more than 5 years, a fine determined under section 3571 of title 18, or both.
 
 #### (b) Exceptions
 
@@ -16,7 +16,7 @@ No person shall be subject to the penalties of subsection (a) of this section, (
 
 &emsp;(A) if the person who violated such subsection is not the manufacturer, importer, or private labeler or a distributor of the substances involved; and
 
-&emsp;(B) if such person did not have either (i) actual knowledge that such person's distributionor sale of the substance violated such subsection, or (ii) notice from the Commission that such distribution or sale would be a violation of such subsection.
+&emsp;(B) if such person did not have either (i) actual knowledge that such person's distribution or sale of the substance violated such subsection, or (ii) notice from the Commission that such distribution or sale would be a violation of such subsection.
 
 (3) In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of section 1263 of this title, the Commission shall consider the nature, circumstances, extent, and gravity of the violation, including the nature of the substance, the severity of the risk of injury, the occurrence or absence of injury, the amount of the substance distributed, the appropriateness of such penalty in relation to the size of the business of the person charged, including how to mitigate undue adverse economic impacts on small businesses, and such other factors as appropriate.
 

@@ -28,7 +28,7 @@ Each rural business investment company that participates in the program establis
 
 &emsp;&emsp;(G) the amount of Federal Government leverage that each licensee received in the previous fiscal year and the types of leverage instruments each licensee used;
 
-&emsp;&emsp;(H) for each type of financing instrument, the sizes, types of geographic locations, andother characteristics of the small business investment companies using the instrument during the previous fiscal year, including the extent to which the investment companies have used the leverage from each instrument to make loans or equity investments in rural areas; and
+&emsp;&emsp;(H) for each type of financing instrument, the sizes, types of geographic locations, and other characteristics of the small business investment companies using the instrument during the previous fiscal year, including the extent to which the investment companies have used the leverage from each instrument to make loans or equity investments in rural areas; and
 
 &emsp;&emsp;(I) the actions of the Secretary to carry out this subchapter.
 
@@ -36,7 +36,7 @@ Each rural business investment company that participates in the program establis
 
 &emsp;In compiling the report required under paragraph (1), the Secretary may not—
 
-&emsp;&emsp;(A) compile the report in a manner that permits identification of any particular type of investment by an individual rural business investment company or small business concern in which a rural business investment company invests; and
+&emsp;&emsp;(A) compile the report in a manner that permits identification of any particular typeof investment by an individual rural business investment company or small business concern in which a rural business investment company invests; and
 
 &emsp;&emsp;(B) may not release any information that is prohibited under section 1905 of title 18.
 

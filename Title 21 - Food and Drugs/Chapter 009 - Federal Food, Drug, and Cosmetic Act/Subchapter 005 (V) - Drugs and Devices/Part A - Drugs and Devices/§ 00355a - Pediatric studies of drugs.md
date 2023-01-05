@@ -8,7 +8,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if, prior to approval of an application that is submitted under section 355(b)(1) of this title, the Secretary determines that information relating to the use of a new drug in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and thereports thereof are submitted and accepted in accordance with subsection (d)(4)—
+&emsp;Except as provided in paragraph (2), if, prior to approval of an application that is submitted under section 355(b)(1) of this title, the Secretary determines that information relating to the use of a new drug in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with subsection (d)(4)—
 
 &emsp;&emsp;(A)(i)(I) the period referred to in subsection (c)(3)(E)(ii) of section 355 of this title, and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(E)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
 
@@ -28,7 +28,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (2) Exception
 
-&emsp;The Secretary shall not extend the period referred to in paragraph (1)(A) or (1)(B) if the determination made under subsection (d)(4) is made later than 9 months prior to the expiration of such period.
+&emsp;The Secretary shall not extend the period referred to in paragraph (1)(A) or (1)(B) if thedetermination made under subsection (d)(4) is made later than 9 months prior to the expiration of such period.
 
 #### (c) Market exclusivity for already-marketed drugs
 
@@ -86,7 +86,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (ii) Disagree with request
 
-&emsp;&emsp;&emsp;If, on or after September 27, 2007, the applicant or holder does not agree to the request on the grounds that it is not possible to develop the appropriate pediatric formulation, the applicant or holder shall submit to the Secretary the reasons such pediatric formulation cannot be developed.
+&emsp;&emsp;&emsp;If, on or after September 27, 2007, the applicant or holder does not agree to the request on the grounds that it is not possible to develop the appropriate pediatric formulation, the applicant or holder shallsubmit to the Secretary the reasons such pediatric formulation cannot be developed.
 
 #### (B) Adverse event reports
 
@@ -204,7 +204,7 @@ Exclusivity under this section shall only be granted for the completion of a stu
 
 #### (C) Consideration of recommendations
 
-&emsp;&emsp;The Commissioner shall consider the recommendations of the Pediatric AdvisoryCommittee and, if appropriate, not later than 30 days after receiving the recommendation, make a request to the sponsor of the application to make any labeling change that the Commissioner determines to be appropriate.
+&emsp;&emsp;The Commissioner shall consider the recommendations of the Pediatric Advisory Committee and, if appropriate, not later than 30 days after receiving the recommendation, make a request to the sponsor of the application to make any labeling change that the Commissioner determines to be appropriate.
 
 #### (D) Misbranding
 
@@ -262,7 +262,7 @@ If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a
 
 #### (1) In general
 
-&emsp;Beginning on September 27, 2007, if pediatric studies of a drug have not been submitted by the date specified in the written request issued or if the applicant or holder does not agree to the request under subsection (d) and if the Secretary, through the committee established under section 355d of this title, determinesthat there is a continuing need for information relating to the use of the drug in the pediatric population (including neonates, as appropriate), the Secretary shall carry out the following:
+&emsp;Beginning on September 27, 2007, if pediatric studies of a drug have not been submitted by the date specified in the written request issued or if the applicant or holder does not agree to the request under subsection (d) and if the Secretary, through the committee established under section 355d of this title, determines that there is a continuing need for information relating to the use of the drug in the pediatric population (including neonates, as appropriate), the Secretary shall carry out the following:
 
 &emsp;&emsp;(A) For a drug for which a listed patent has not expired, or for which a period of exclusivity eligible for extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of section 262 of title 42 has not ended, make a determination regarding whether an assessment shall be required to be submitted under section 355c(b) of this title.
 
@@ -512,7 +512,7 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–109, §11(b), Jan. 4, 2002, 115 Stat. 1416, provided that: "The amendment made by subsection (a)\[amending this section\] takes effect on the date of enactment of this Act \[Jan. 4, 2002\], including with respect to applications under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) that are approved or pending on that date."
+Pub. L. 107–109, §11(b), Jan. 4, 2002, 115 Stat. 1416, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on the date of enactment of this Act \[Jan. 4, 2002\], including with respect to applications under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) that are approved or pending on that date."
 
 #### Construction of 2007 Amendments on Pediatric Studies
 
@@ -538,7 +538,7 @@ Pub. L. 112–144, title V, §503, July 9, 2012, 126 Stat. 1040, provided that: 
 
 #### Access to Data
 
-Pub. L. 112–144, title V, §504, July 9, 2012, 126 Stat. 1040, provided that: "Not later than 3 years after the date of enactment of this Act \[July 9, 2012\], the Secretary \[of Health and Human Services\] shall make available to the public, including through posting on the Internet Web site of the Food and Drug Administration, the medical, statistical, and clinical pharmacology reviews of, and corresponding written requests issued to an applicant, sponsor, or holder for, pediatric studies submitted between January 4, 2002, and September 27, 2007, under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a) for which 6 months of market exclusivity was granted and that resulted in a labeling change. The Secretary shall make public the information described in the preceding sentence in a manner consistent with how the Secretary releases information under section 505A(k) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a(k))."
+Pub. L. 112–144, title V, §504, July 9, 2012, 126 Stat. 1040, provided that: "Not later than 3 years after thedate of enactment of this Act \[July 9, 2012\], the Secretary \[of Health and Human Services\] shall make available to the public, including through posting on the Internet Web site of the Food and Drug Administration, the medical, statistical, and clinical pharmacology reviews of, and corresponding written requests issued to an applicant, sponsor, or holder for, pediatric studies submitted between January 4, 2002, and September 27, 2007, under subsection (b) or (c) of section 505A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a) for which 6 months of market exclusivity was granted and that resulted in a labeling change. The Secretary shall make public the information described in the preceding sentence in a manner consistent with how the Secretary releases information under section 505A(k) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355a(k))."
 
 #### Report on Pediatric Exclusivity Program
 

@@ -164,7 +164,7 @@ Subsec. (d). Pub. L. 96–458, §2(c), amended subsec. (d) generally, designatin
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–650, title IV, §407, Dec. 1, 1990, 104 Stat. 5124, provided that: "The amendments made by thissubtitle \[subtitle I (§§402–407) of title IV of Pub. L. 101–650, amending this section, sections 372, 453, and 2077 of this title, and provisions set out in the Appendix to Title 5, Government Organization and Employees\] shall take effect 90 days after the date of the enactment of this Act \[Dec. 1, 1990\]."
+Pub. L. 101–650, title IV, §407, Dec. 1, 1990, 104 Stat. 5124, provided that: "The amendments made by this subtitle \[subtitle I (§§402–407) of title IV of Pub. L. 101–650, amending this section, sections 372, 453, and 2077 of this title, and provisions set out in the Appendix to Title 5, Government Organization and Employees\] shall take effect 90 days after the date of the enactment of this Act \[Dec. 1, 1990\]."
 
 #### Effective Date of 1988 Amendment
 

@@ -4,7 +4,7 @@ No priority shall be transferable, except—
 
 &emsp;(a) a husband and wife may exercise a priority in their joint names;
 
-&emsp;(b) a religious organization may exercise the priority which would otherwise belong to its priest, minister, or rabbi, regardless of whether that position happens to be filled at the time of the exercise of the priority;
+&emsp;(b) a religious organization may exercise the priority which would otherwise belong to itspriest, minister, or rabbi, regardless of whether that position happens to be filled at the time of the exercise of the priority;
 
 &emsp;(c) two or more priority holders having a common interest in a building or location may assign their interests to a single assignee; and
 

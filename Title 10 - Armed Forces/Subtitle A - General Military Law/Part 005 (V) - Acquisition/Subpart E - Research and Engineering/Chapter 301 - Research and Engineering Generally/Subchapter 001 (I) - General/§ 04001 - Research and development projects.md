@@ -110,15 +110,301 @@ Pub. L. 115–91, div. A, title II, §214(a), Dec. 12, 2017, 131 Stat. 1325, pro
 
 Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 1994 Amendment
 
 For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of this title.
 
+#### Pilot Program To Facilitate the Development of Battery Technologies for Warfighters
+
+Pub. L. 117–263, div. A, title II, §225, Dec. 23, 2022, 136 Stat. 2484, provided that:
+
+"(a)
+
+Establishment.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense may establish and carry out a pilot program to assess the feasibility and advisability of providing support to battery producers—
+
+&emsp;&emsp;"(A) to facilitate the research and development of safe and secure battery technologies for existingand new or novel battery chemistry configurations, including through the research and development of new or updated manufacturing processes and technologies;
+
+&emsp;&emsp;"(B) to assess commercial battery offerings within the marketplace for viability and utility for warfighter applications; and
+
+&emsp;&emsp;"(C) to transition battery technologies, including technologies developed under other pilot programs, prototype projects, or other research and development programs, from the prototyping phase to manufacturing production.
+
+&emsp;"(2)
+
+Designation.—The pilot program established under paragraph (1) shall be known as the 'Warfighter Electric Battery Transition Project' (referred to in this section as the 'Project').
+
+&emsp;"(3)
+
+Administration.—The Under Secretary of Defense for Research and Engineering shall administer the Project.
+
+"(b)
+
+Grants, Contracts, and Other Agreements.—The Secretary of Defense may carry out the Project through the award of support, as described in subsection (a)(1), in the form of grants to, or contracts or other agreements with, battery producers.
+
+"(c)
+
+Coordination.—The Secretary of Defense shall ensure that activities under the Project are coordinated with the Strategic Environmental Research and Development Program under section 2901 of title 10, United States Code.
+
+"(d)
+
+Use of Grant and Contract Amounts.—A battery producer who receives a grant, contract, or other agreement under the Project may use the amount of the grant, contract, or other agreement to carry out one or more of the following activities:
+
+&emsp;"(1) Conducting research and development to validate new or novel battery chemistry configurations, including through—
+
+&emsp;&emsp;"(A) experimentation;
+
+&emsp;&emsp;"(B) prototyping;
+
+&emsp;&emsp;"(C) testing;
+
+&emsp;&emsp;"(D) adapting battery technology to integrate with other technologies and systems; or
+
+&emsp;&emsp;"(E) addressing manufacturing or other production challenges.
+
+&emsp;"(2) Providing commercially available battery technologies to each Secretary of a military department and the commanders of the combatant commands to support utility assessments or other testing by warfighters.
+
+&emsp;"(3) Expanding, validating, or assessing battery recycling capabilities that may provide operational utility to the Department of Defense.
+
+&emsp;"(4) Building and strengthening relationships of the Department of Defense with nontraditional defense contractors in the technology industry that may have unused or underused solutions to specific operational challenges of the Department relating to battery technology.
+
+"(e)
+
+Priority of Awards.—In awarding grants, contracts, or other agreements under the Project, the Secretary shall give preference to battery producers that meet one or more of the following criteria:
+
+&emsp;"(1) The producer manufactures, designs, or develops battery cells, packs, modules, or other related capabilities in the United States.
+
+&emsp;"(2) The producer manufactures, designs, or develops battery cells, packs, modules, or other related capabilities in the national technology and industrial base (as defined in section 4801 of title 10, United States Code).
+
+&emsp;"(3) The technology made available by the producer provides modularity to support diverse applications.
+
+&emsp;"(4) The technology made available by the producer facilitates safety in tactical and combat applications by using battery chemistries and configurations that reduce thermal runaway and minimize oxygen liberation.
+
+&emsp;"(5) The producer demonstrates new or novel battery chemistry configurations, safety characteristics, or form-factor configurations.
+
+&emsp;"(6) The producer facilitates the domestic supply chain for raw materials needed for battery production.
+
+&emsp;"(7) The producer offers battery-related commercial products or commercial services.
+
+"(f)
+
+Planning, Reporting and Data Collection.—
+
+&emsp;"(1)
+
+Plan required before implementation.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary of Defense may not commence the Project until the Secretary has completed a plan for the implementation of the Project.
+
+&emsp;&emsp;"(B)
+
+Elements.—The plan under subparagraph (A) shall provide for—
+
+&emsp;&emsp;&emsp;"(i) collecting, analyzing, and retaining Project data;
+
+&emsp;&emsp;&emsp;"(ii) developing and sharing best practices for achieving the objectives of the Project;
+
+&emsp;&emsp;&emsp;"(iii) identification of any policy or regulatory impediments inhibiting the execution of the Project; and
+
+&emsp;&emsp;&emsp;"(iv) sharing results from the Project across the Department of Defense and with other departments and agencies of the Federal Government and Congress.
+
+&emsp;&emsp;"(C)
+
+Submittal to congress.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the implementation plan developed under subparagraph (A).
+
+&emsp;"(2)
+
+Final report.—Not later than one year after the date on which the Project terminates under subsection (g), the Secretary of Defense shall submit to the congressional defense committees a final report on the results of the Project. Such report shall include—
+
+&emsp;&emsp;"(A) a summary of the objectives achieved by the Project; and
+
+&emsp;&emsp;"(B) recommendations regarding the steps that may be taken to promote battery technologies that are not dependent on foreign competitors to meet the needs of the Armed Forces.
+
+"(g)
+
+Termination.—The authority to carry out the Project shall terminate on December 31, 2028."
+
+#### Plan for Investments To Support the Development of Novel Processing Approaches for Defense Applications
+
+Pub. L. 117–263, div. A, title II, §233, Dec. 23, 2022, 136 Stat. 2486, provided that:
+
+"(a)
+
+Investment Plans Required.—Not later than November 1, 2023, and not less frequently than once every three years thereafter until December 31, 2035, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for making investments to support the development of novel processing approaches for defense applications.
+
+"(b)
+
+Elements.—Each investment plan required by subsection (a) shall—
+
+&emsp;"(1) identify any investments the Secretary has made, and any future investments the Secretary intends to make, in research and technology development to support the use and fielding of novel processing approaches for defense applications;
+
+&emsp;"(2) identify any investments the Secretary has made, and any future investments the Secretary intends to make, to accelerate the development of novel processing approaches for defense applications, including investments in—
+
+&emsp;&emsp;"(A) personnel and workforce capabilities;
+
+&emsp;&emsp;"(B) facilities and infrastructure to host systems utilizing novel processing approaches;
+
+&emsp;&emsp;"(C) algorithm developments necessary to expand the functionality of each novel processing approach;
+
+&emsp;&emsp;"(D) other Federal agencies and federally funded laboratories; and
+
+&emsp;&emsp;"(E) appropriate international and commercial sector organizations and activities;
+
+&emsp;"(3) describe mechanisms to coordinate and leverage investments in novel processing approaches within the Department and with non-Federal partners;
+
+&emsp;"(4) describe the technical goals to be achieved and capabilities to be developed under the plan; and
+
+&emsp;"(5) include recommendations for such legislative or administration actions as may support the effective execution of the investment plan.
+
+"(c)
+
+Form.—Each plan submitted under subsection (a) shall be submitted in such form as the Secretary considers appropriate, which may include classified, unclassified, and publicly releasable formats.
+
+"(d)
+
+Novel Processing Approaches Defined.—In this section, the term 'novel processing approaches' means—
+
+&emsp;"(1) emerging techniques in computation, such as biocomputing, exascale computing, utility scale quantum computing; and
+
+&emsp;"(2) associated algorithm and hardware development needed to implement such techniques."
+
+#### Strategy and Plan for Fostering and Strengthening the Defense Innovation Ecosystem
+
+Pub. L. 117–263, div. A, title II, §236, Dec. 23, 2022, 136 Stat. 2490, provided that:
+
+"(a)
+
+Strategy and Implementation Plan Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, shall develop—
+
+&emsp;"(1) a strategy fostering and strengthening the defense innovation ecosystem; and
+
+&emsp;"(2) a plan for implementing such strategy.
+
+"(b)
+
+Purposes.—
+
+&emsp;"(1)
+
+Strategy.—The purpose of the strategy required by subsection (a)(1) is to provide a framework for identifying, assessing, and tracking innovation ecosystems that are beneficial to advancing the defense, national security, and warfighting missions of the Department of Defense.
+
+&emsp;"(2)
+
+Implementation plan.—The purpose of the implementation plan required by subsection (a)(2) is to provide—
+
+&emsp;&emsp;"(A) concrete steps and measures of effectiveness to gauge the effect of the innovation ecosystems described in paragraph (1) on the Department; and
+
+&emsp;&emsp;"(B) a means for assessing the effectiveness of the strategy developed under subsection (a)(1), including the approaches taken by the Department to grow, foster, and sustain such innovation ecosystems.
+
+"(c)
+
+Elements.—The strategy and the implementation plan required by subsection (a) shall include the following elements:
+
+&emsp;"(1) A process for defining, assessing, and selecting innovation ecosystems with potential to provide benefit to the Department of Defense.
+
+&emsp;"(2) Metrics for measuring the performance and health of innovation ecosystems being supported by the Department, including identification of criteria to determine when to support or cease supporting identified ecosystems.
+
+&emsp;"(3) Identification of the authorities and Department of Defense research, development, test, and evaluation assets that can be used to identify, establish, sustain, and expand innovation ecosystems.
+
+&emsp;"(4) For each innovation ecosystem supported by the Department—
+
+&emsp;&emsp;"(A) a description of the core competencies or focus areas of the ecosystem;
+
+&emsp;&emsp;"(B) identification of any organizations or elements of the Department that engage with the ecosystem;
+
+&emsp;&emsp;"(C) identification of the private sector assets that are being used to support, sustain, and expand the identified innovation ecosystem; and
+
+&emsp;&emsp;"(D) a description of any challenges and successes associated with such ecosystem.
+
+&emsp;"(5) Such other elements as the Secretary considers appropriate.
+
+"(d)
+
+Interim Briefing.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the strategy and implementation plan developed under subsection (a).
+
+"(e)
+
+Submittal of Strategy and Plan.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees the strategy and implementation plan developed under subsection (a).
+
+"(f)
+
+Quadrennial Updates.—Not later than March 1, 2027, and not less frequently than once ever four years thereafter until December 31, 2039, the Secretary shall—
+
+&emsp;"(1) update the strategy and plan developed under subsection (a); and
+
+&emsp;"(2) submit the updated strategy and plan to the congressional defense committees.
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'Department of Defense research, development, test, and evaluation assets' includes the following:
+
+&emsp;&emsp;"(A) The Department of Defense science and technology reinvention laboratories designated under section 4121 of title 10, United States Code.
+
+&emsp;&emsp;"(B) The Major Range and Test Facility Base (as defined in section 4173(i) of such title).
+
+&emsp;&emsp;"(C) Department of Defense sponsored manufacturing innovation institutes.
+
+&emsp;&emsp;"(D) The organic industrial base.
+
+&emsp;&emsp;"(E) Defense Agencies and Department of Defense Field Activities (as defined in section 101(a) of title 10, United States Code) that carry out activities using funds appropriated for research, development, test, and evaluation.
+
+&emsp;&emsp;"(F) Any other organization or element of the Department of Defense that carries out activities using funds appropriated for research, development, test, and evaluation.
+
+&emsp;"(2) The term 'innovation ecosystem' refers to a regionally based network of private sector, academic, and government institutions in a network of formal and informal institutional relationships that contribute to technological and economic development in a defined technology sector or sectors."
+
+#### Establishing Projects for Data Management, Artificial Intelligence, and Digital Solutions
+
+Pub. L. 117–263, div. A, title XV, §1513, Dec. 23, 2022, 136 Stat. 2894, provided that:
+
+"(a)
+
+Establishment of Priority Projects.—The Deputy Secretary of Defense shall—
+
+&emsp;"(1) establish priority enterprise projects for data management, artificial intelligence, and digital solutions for both business efficiency and warfighting capabilities intended to accelerate decision advantage; and
+
+&emsp;"(2) assign responsibilities for execution and funding of the projects established under paragraph (1).
+
+"(b)
+
+Actions Required.—To ensure implementation of the priority projects of the Deputy Secretary of Defense under subsection (a), and to instill data science and technology as a core discipline in the Department of Defense, the Deputy Secretary shall—
+
+&emsp;"(1) hold the heads of components accountable for—
+
+&emsp;&emsp;"(A) making their component's data available for use pursuant to the memorandum of the Deputy Secretary of Defense dated May 5, 2021, and titled 'Creating Data Advantage', in accordance with plans developed and approved by the head of the component and the Deputy Secretary;
+
+&emsp;&emsp;"(B) developing, implementing, and reporting measurable actions to acquire, preserve, and grow the population of government and contractor personnel with expertise in data management, artificial intelligence, and digital solutions;
+
+&emsp;&emsp;"(C) making their components use data management practices, analytics processes, enterprise cloud computing environments, and operational test environments that are made available and specifically approved by the head of the component and the Deputy Secretary;
+
+&emsp;&emsp;"(D) identifying and reporting on an annual basis for Deputy Secretary approval those ongoing programs and activities and new initiatives within their components to which the component head determines should be applied advanced analytics, digital technology, and artificial intelligence; and
+
+&emsp;&emsp;"(E) developing and implementing cybersecurity and artificial intelligence security solutions, including preventative and mitigative technical solutions, red team assessments, to protect artificial intelligence systems, data, development processes, and applications from adversary actions;
+
+&emsp;"(2) require the Chief Digital and Artificial Intelligence Officer, in coordination with the heads of components, to develop and report on an actionable plan for the Deputy Secretary to reform the technologies, policies, and processes used to support accreditation and authority to operate decisions to enable rapid deployment into operational environments of newly developed government, contractor, and commercial data management, artificial intelligence, and digital solutions software;
+
+&emsp;"(3) require the Under Secretary of Defense for Personnel and Readiness, in coordination with the Chief Digital and Artificial Intelligence Officer and heads of components to define and establish career paths, work roles, and occupational specialties for civilian and military personnel in the fields of data management, artificial intelligence, and digital solutions for the Deputy Secretary's approval; and
+
+&emsp;"(4) establish a Departmental management reform goal for adoption and integration artificial intelligence or machine learning into business and warfighting processes, including the tracking of metrics, milestones, and initiatives to measure the progress of the Department in meeting that goal.
+
+"(c)
+
+Briefings Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], and annually thereafter until December 31, 2025, the Deputy Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on directives issued by the Deputy Secretary to implement the requirements of this section and the status of implementation actions.
+
+"(d)
+
+Component Defined.—In this section, the term 'component' means a military department, a combatant command, or a Defense Agency of the Department of Defense."
+
 #### Review of Artificial Intelligence Applications and Establishment of Performance Metrics
 
-Pub. L. 117–81, div. A, title II, §226, Dec. 27, 2021, 135 Stat. 1607, provided that:
+Pub. L. 117–81, div. A, title II, §226, Dec. 27, 2021, 135 Stat. 1607, as amended by Pub. L. 117–263, div. A, title II, §212(b), Dec. 23, 2022, 136 Stat. 2467, provided that:
 
 "(a)
 
@@ -158,7 +444,7 @@ AI modernization activities.—In carrying out subsection (a), the Secretary of 
 
 &emsp;"(3)
 
-Exercises, wargames, and experimentation.—In conjunction with the activities of the Secretary of Defense under subsection (a), the Chairman of the Joint Chiefs of Staff, in coordination with the Director of the Joint Artificial Intelligence Center, shall—
+Exercises, wargames, and experimentation.—In conjunction with the activities of the Secretary of Defense under subsection (a), the Chairman of the Joint Chiefs of Staff, in coordination with the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061), shall—
 
 &emsp;&emsp;"(A) assess the integration of artificial intelligence into war-games, exercises, and experimentation; and
 
@@ -166,7 +452,7 @@ Exercises, wargames, and experimentation.—In conjunction with the activities o
 
 &emsp;"(4)
 
-Logistics and sustainment.—In carrying out subsection (a), the Secretary of Defense shall require the Under Secretary of Defense for Acquisition and Sustainment, with support from the Director of the Joint Artificial Intelligence Center, to—
+Logistics and sustainment.—In carrying out subsection (a), the Secretary of Defense shall require the Under Secretary of Defense for Acquisition and Sustainment, with support from the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061), to—
 
 &emsp;&emsp;"(A) assess the application of artificial intelligence in logistics and sustainment systems; and
 
@@ -174,7 +460,7 @@ Logistics and sustainment.—In carrying out subsection (a), the Secretary of De
 
 &emsp;"(5)
 
-Business applications.—In carrying out subsection (a), the Secretary of Defense shall require the Under Secretary of Defense (Comptroller), in coordination with the Director of the Joint Artificial Intelligence Center, to—
+Business applications.—In carrying out subsection (a), the Secretary of Defense shall require the Under Secretary of Defense (Comptroller), in coordination with the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061), to—
 
 &emsp;&emsp;"(A) assess the integration of artificial intelligence for administrative functions that can be performed with robotic process automation and artificial intelligence-enabled analysis; and
 
@@ -204,11 +490,11 @@ Report to Congress.—Not later than 120 days after the completion of the review
 
 #### Modification of the Joint Common Foundation Program
 
-Pub. L. 117–81, div. A, title II, §227, Dec. 27, 2021, 135 Stat. 1609, provided that:
+Pub. L. 117–81, div. A, title II, §227, Dec. 27, 2021, 135 Stat. 1609, as amended by Pub. L. 117–263, div. A, title II, §212(c), Dec. 23, 2022, 136 Stat. 2467, provided that:
 
 "(a)
 
-Modification of Joint Common Foundation.—The Secretary of Defense shall modify the Joint Common Foundation program conducted by the Joint Artificial Intelligence Center to ensure that Department of Defense components can more easily contract with leading commercial artificial intelligence companies to support the rapid and efficient development and deployment of applications and capabilities.
+Modification of Joint Common Foundation.—The Secretary of Defense shall modify the Joint Common Foundation program conducted by the the \[sic\] office of the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061) to ensure that Department of Defense components can more easily contract with leading commercial artificial intelligence companies to support the rapid and efficient development and deployment of applications and capabilities.
 
 "(b)
 
@@ -302,27 +588,27 @@ Briefing and Report.—
 
 &emsp;"(1)
 
-Briefing.—Not later than March 1, 2022, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the plan to carry out the activities required by subsection (a) and the program required by subsection (b).
+Briefing.—Not later than March 1, 2022, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and theHouse of Representatives\] a briefing on the plan to carry out the activities required by subsection (a) and the program required by subsection (b).
 
 &emsp;"(2)
 
 Report.—Not later than December 31, 2022, and not less frequently than once each year thereafter until December 31, 2026, the Secretary of Defense shall submit to the congressional defense committees a report on the activities carried out under subsection (a) and the program carried out under subsection (b)."
 
-#### Pilot Program on Data Repositories To Facilitate the Development of Artificial Intelligence Capabilities for the Department of Defense
+#### Data Repositories To Facilitate the Development of Artificial Intelligence Capabilities for the Department of Defense
 
-Pub. L. 117–81, div. A, title II, §232, Dec. 27, 2021, 135 Stat. 1613, provided that:
+Pub. L. 117–81, div. A, title II, §232, Dec. 27, 2021, 135 Stat. 1613, as amended by Pub. L. 117–263, div. A, title II, §212(d), Dec. 23, 2022, 136 Stat. 2467, provided that:
 
 "(a)
 
-Establishment of Data Repositories.—The Secretary of Defense, acting through the Chief Data Officer of the Department of Defense and the Director of the Joint Artificial Intelligence Center (and such other officials as the Secretary determines appropriate), may carry out a pilot program under which the Secretary—
+Establishment of Data Repositories.—The Secretary of Defense, acting through the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061) (and such other officials as the Secretary determines appropriate), shall—
 
-&emsp;"(1) establishes data repositories containing Department of Defense data sets relevant to the development of artificial intelligence software and technology; and
+&emsp;"(1) establish data repositories containing Department of Defense data sets relevant to the development of artificial intelligence software and technology; and
 
-&emsp;"(2) allows appropriate public and private sector organizations to access such data repositories for the purpose of developing improved artificial intelligence and machine learning software capabilities that may, as determined appropriate by the Secretary, be procured by the Department to satisfy Department requirements and technology development goals.
+&emsp;"(2) allow appropriate public and private sector organizations to access such data repositories for the purpose of developing improved artificial intelligence and machine learning software capabilities that may, as determined appropriate by the Secretary, be procured by the Department to satisfy Department requirements and technology development goals.
 
 "(b)
 
-Elements.—If the Secretary of Defense carries out the pilot program under subsection (a), the data repositories established under the program—
+Elements.—The data repositories established under subsection (a)—
 
 &emsp;"(1) may include unclassified training quality data sets and associated labels representative of diverse types of information, representing Department of Defense missions, business processes, and activities; and
 
@@ -338,17 +624,11 @@ Elements.—If the Secretary of Defense carries out the pilot program under subs
 
 "(c)
 
-Briefing.—Not later than 270 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on—
+Briefing.—Not later than July 1, 2023, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on—
 
-&emsp;"(1) whether the Secretary intends to carry out the pilot program under this section;
+&emsp;"(1) the types of information the Secretary determines are feasible and advisable to include in the data repositories established under subsection (a); and
 
-&emsp;"(2) if the Secretary does not intend to carry out the pilot program, an explanation of the reasons for such decision;
-
-&emsp;"(3) if the Secretary does intend to carry out the pilot program, or if the Secretary has already initiated the pilot program as of the date of the briefing—
-
-&emsp;&emsp;"(A) the types of information the Secretary determines are feasible and advisable to include in the data repositories described in subsection (a); and
-
-&emsp;&emsp;"(B) the progress of the Secretary in carrying out the program."
+&emsp;"(2) the progress of the Secretary in establishing such data repositories."
 
 #### Authority for Activities To Improve Next Generation Radar Systems Capabilities
 
@@ -448,7 +728,7 @@ Elements.—The systems engineering plan required under subparagraph (A) shall i
 
 &emsp;&emsp;&emsp;"(ii) Measurable transition technical capability, based on the technical needs of the prospective program executive officers to support a current or future program of record.
 
-&emsp;&emsp;&emsp;"(iii) Discrete technical development activities necessary to progress from the baseline technicalcapability to the transition technical capability, including an approximate cost and schedule, including activities that provide resolution to issues relating to—
+&emsp;&emsp;&emsp;"(iii) Discrete technical development activities necessary to progress from the baseline technical capability to the transition technical capability, including an approximate cost and schedule, including activities that provide resolution to issues relating to—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) interfaces;
 
@@ -538,7 +818,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'covered transaction' means a transaction, procurement, or project conducted pursuant to an authority listed in subsection (b).
 
-&emsp;"(3) The term 'Service Systems Engineering Command' means the specific Department of Defense command that reports through a chain of command to the head of a military department that specializes in the systems engineering of a system, subsystem, component, or capability area."
+&emsp;"(3) The term 'Service Systems Engineering Command' means the specific Department of Defense command that reports through a chain of commandto the head of a military department that specializes in the systems engineering of a system, subsystem, component, or capability area."
 
 #### Pilot Program on Acquisition Practices for Emerging Technologies
 
@@ -640,7 +920,7 @@ Deadline for appointment.—Members of the advisory group shall be appointed not
 
 &emsp;"(3)
 
-FACA non-applicability.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group established under paragraph (1).
+FACA non-applicability.—The Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall not apply to the advisory group established under paragraph (1).
 
 "(f)
 
@@ -914,7 +1194,7 @@ Strategy and Plan.—Not later than 60 days after the date of the enactment of t
 
 "(d)
 
-Report.—In addition to the strategy and plan required under subsection (c), not later than 60 days after the date of the enactment of this Act, the Under Secretary of Defense for Research and Engineering, in consultation with the Director of Operational Test and Evaluation, shall submit to the congressional defense committees a report on the testing capabilities and infrastructure used for hypersonic weapons development. The report shall include—
+Report.—In addition to the strategy and plan required under subsection (c), not later than 60 days afterthe date of the enactment of this Act, the Under Secretary of Defense for Research and Engineering, in consultation with the Director of Operational Test and Evaluation, shall submit to the congressional defense committees a report on the testing capabilities and infrastructure used for hypersonic weapons development. The report shall include—
 
 &emsp;"(1) an assessment of the sufficiency of the testing capabilities and infrastructure used for fielding hypersonic weapons; and
 
@@ -950,7 +1230,7 @@ Additional Activities.—In addition to the activities required under subsection
 
 &emsp;"(2) consider using commercially available off-the-shelf items (as defined in section 104 of title 41, United States Code) and near-ready deployment technologies to achieve cost savings and improve the self sufficiency of warfighters; and
 
-&emsp;"(3) seek to enter into information sharing arrangements with foreign militaries and other organizations that have the proven ability to operate in water constrained areas for the purpose of sharing lessonslearned and best practices relating to water harvesting.
+&emsp;"(3) seek to enter into information sharing arrangements with foreign militaries and other organizations that have the proven ability to operate in water constrained areas for the purpose of sharing lessons learned and best practices relating to water harvesting.
 
 "(d)
 
@@ -964,27 +1244,27 @@ Water Harvesting Defined.—In this section, the term 'water harvesting', when u
 
 &emsp;"(2) recycling or otherwise reclaiming water that has previously been used."
 
-#### Board of Advisors for the Joint Artificial Intelligence Center
+#### Board of Advisors for the Office of the Senior Official With Principal Responsibility for Artificial Intelligence and Machine Learning
 
-Pub. L. 116–283, div. A, title II, §233, Jan. 1, 2021, 134 Stat. 3483, provided that:
+Pub. L. 116–283, div. A, title II, §233, Jan. 1, 2021, 134 Stat. 3483, as amended by Pub. L. 117–263, div. A, title II, §212(f), Dec. 23, 2022, 136 Stat. 2468, provided that:
 
 "(a)
 
-Establishment.—The Secretary of Defense shall establish a board of advisors for the Joint Artificial Intelligence Center.
+Establishment.—The Secretary of Defense shall establish a board of advisors for the office of the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061) (referred to in this section as the 'Official').
 
 "(b)
 
 Duties.—The duties of the board of advisors shall include the following:
 
-&emsp;"(1) Provide independent strategic advice and technical expertise to the Secretary and the Director on matters relating to the development and use of artificial intelligence by the Department of Defense.
+&emsp;"(1) Provide independent strategic advice and technical expertise to the Secretary and the Official on matters relating to the development and use of artificial intelligence by the Department of Defense.
 
-&emsp;"(2) Evaluate and advise the Secretary and the Director on ethical matters relating to the development and use of artificial intelligence by the Department.
+&emsp;"(2) Evaluate and advise the Secretary and the Official on ethical matters relating to the development and use of artificial intelligence by the Department.
 
 &emsp;"(3) Conduct long-term and long-range studies on matters relating to artificial intelligence, as required.
 
-&emsp;"(4) Evaluate and provide recommendations to the Secretary and the Director regarding the Department's development of a robust workforce proficient in artificial intelligence.
+&emsp;"(4) Evaluate and provide recommendations to the Secretary and the Official regarding the Department's development of a robust workforce proficient in artificial intelligence.
 
-&emsp;"(5) Assist the Secretary and the Director in developing strategic level guidance on artificial intelligence-related hardware procurement, supply-chain matters, and other technical matters relating to artificial intelligence.
+&emsp;"(5) Assist the Secretary and the Official in developing strategic level guidance on artificial intelligence-related hardware procurement, supply-chain matters, and other technical matters relating to artificial intelligence.
 
 "(c)
 
@@ -1000,7 +1280,7 @@ Meetings.—The board of advisors shall meet not less than once each fiscal quar
 
 "(f)
 
-Reports.—Not later than September 30 of each year through September 30, 2024, the board of advisors shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that summarizes the activities of the board over the preceding year.
+Reports.—Not later than September 30 of each year through September 30, 2026, the board of advisors shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that summarizes the activities of the board over the preceding year.
 
 "(g)
 
@@ -1008,11 +1288,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'artificial intelligence' has the meaning given that term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 2358 note \[now 10 U.S.C. 4061 note prec.\]).
 
-&emsp;"(2) The term 'Director' means the Director of the Joint Artificial Intelligence Center.
-
-&emsp;"(3) The term 'Joint Artificial Intelligence Center' means the Joint Artificial Intelligence Center of the Department of Defense established pursuant to the memorandum of the Secretary of Defense dated June 27, 2018, and titled 'Establishment of the Joint Artificial Intelligence Center', or any successor to such Center.
-
-&emsp;"(4) The term 'Secretary' means the Secretary of Defense."
+&emsp;"(2) The term 'Secretary' means the Secretary of Defense."
 
 #### Steering Committee on Emerging Technology
 
@@ -1042,7 +1318,7 @@ Leadership.—The Steering Committee shall be chaired by the Deputy Secretary of
 
 Responsibilities.—The Steering Committee shall be responsible for—
 
-&emsp;"(1) developing strategies for the organizational change, concept and capability development, and technology investments in emerging technologies that are needed to maintain the technological superiority of the United States military and intelligence community as outlined in the National Defense Strategy and National Intelligence Strategy, and consistent with the National Security Strategy;
+&emsp;"(1) developing strategies for the organizational change, concept and capability development, andtechnology investments in emerging technologies that are needed to maintain the technological superiority of the United States military and intelligence community as outlined in the National Defense Strategy and National Intelligence Strategy, and consistent with the National Security Strategy;
 
 &emsp;"(2) providing assessments of emerging threats and identifying investments and advances in emerging technology areas undertaken by adversaries of the United States;
 
@@ -1188,35 +1464,35 @@ Definitions.—In this section:
 
 &emsp;"(3) The term 'institution of higher education' has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)."
 
-#### Acquisition Authority of the Director of the Joint Artificial Intelligence Center
+#### Acquisition Authority of the Senior Official With Principal Responsibility for Artificial Intelligence and Machine Learning
 
-Pub. L. 116–283, div. A, title VIII, §808, Jan. 1, 2021, 134 Stat. 3745, provided that:
+Pub. L. 116–283, div. A, title VIII, §808, Jan. 1, 2021, 134 Stat. 3745, as amended by Pub. L. 117–263, div. A, title II, §212(i), Dec. 23, 2022, 136 Stat. 2469, provided that:
 
 "(a)
 
-Authority.—The Secretary of Defense shall delegate to the Director of the Joint Artificial Intelligence Center the acquisition authority to exercise the functions of a head of an agency (as defined in section 2302 of title 10, United States Code \[see 10 U.S.C. 3004\]) with respect to appropriate acquisition activities of the Center.
+Authority.—The Secretary of Defense shall delegate to the official designated under subsection (b) of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061) (referred to in this section as the 'Official') the acquisition authority to exercise the functions of a head of an agency (as defined in section 2302 of title 10, United States Code \[see 10 U.S.C. 3004\]) with respect to appropriate acquisition activities of the office of such official (referred to in this section as the 'Office').
 
 "(b)
 
-JAIC Acquisition Executive.—
+Acquisition Executive.—
 
 &emsp;"(1)
 
-In general.—The staff of the Director shall include an acquisition executive who shall be responsible for the supervision of appropriate acquisition activities under subsection (a). Subject to the authority, direction, and control of the Director of the Center, the acquisition executive shall have the authority—
+In general.—The staff of the Official shall include an acquisition executive who shall be responsible for the supervision of appropriate acquisition activities under subsection (a). Subject to the authority, direction, and control of such Official, the acquisition executive shall have the authority—
 
-&emsp;&emsp;"(A) to negotiate memoranda of agreement with any element of the Department of Defense to carry out the acquisition of technologies, services, and capabilities developed or identified by the Center;
+&emsp;&emsp;"(A) to negotiate memoranda of agreement with any element of the Department of Defense to carry out the acquisition of technologies, services, and capabilities developed or identified by the Office;
 
-&emsp;&emsp;"(B) to supervise the acquisition of technologies, services, and capabilities to support the mission of the Center;
+&emsp;&emsp;"(B) to supervise the acquisition of technologies, services, and capabilities to support the mission of the Office;
 
-&emsp;&emsp;"(C) to represent the Center in discussions with the Secretaries concerned regarding acquisition programs relating to such appropriate acquisition activities for which the Center is involved; and
+&emsp;&emsp;"(C) to represent the Office in discussions with the Secretaries concerned regarding acquisition programs relating to such appropriate acquisition activities for which the Office is involved; and
 
-&emsp;&emsp;"(D) to work with the Secretaries concerned to ensure that the Center is appropriately represented in any joint working group or integrated product team regarding acquisition programs relating to such appropriate activities for which the Center is involved.
+&emsp;&emsp;"(D) to work with the Secretaries concerned to ensure that the Office is appropriately represented in any joint working group or integrated product team regarding acquisition programs relating to such appropriate activities for which the Office is involved.
 
 &emsp;"(2)
 
-Delivery of acquisition solutions.—The acquisition executive of the Center shall be—
+Delivery of acquisition solutions.—The acquisition executive of the Office shall be—
 
-&emsp;&emsp;"(A) responsible to the Director for rapidly delivering capabilities to meet validated requirements;
+&emsp;&emsp;"(A) responsible to the Official for rapidly delivering capabilities to meet validated requirements;
 
 &emsp;&emsp;"(B) subordinate to the Under Secretary of Defense for Acquisition and Sustainment in matters of acquisition; and
 
@@ -1228,7 +1504,7 @@ Acquisition Personnel.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall provide the Center with at least 10 full-time employees to support the Director in carrying out the requirements of this section, including personnel with experience in—
+In general.—The Secretary of Defense shall provide the Office with at least 10 full-time employees to support the Official in carrying out the requirements of this section, including personnel with experience in—
 
 &emsp;&emsp;"(A) acquisition practices and processes;
 
@@ -1246,7 +1522,7 @@ Existing personnel.—The personnel provided under this subsection shall be prov
 
 "(d)
 
-Funding.—In exercising the acquisition authority granted in subsection (a), the Director may not obligate or expend more than $75,000,000 out of the funds made available in each of fiscal years 2021, 2022, 2023, 2024, and 2025 to enter into new contracts to support appropriate acquisition activities carried out under this section.
+Funding.—In exercising the acquisition authority granted in subsection (a), the Official may not obligate or expend more than $75,000,000 out of the funds made available in each of fiscal years 2021, 2022, 2023, 2024, and 2025 to enter into new contracts to support appropriate acquisition activities carried out under this section.
 
 "(e)
 
@@ -1266,17 +1542,17 @@ Implementation plan.—The plan shall include the following:
 
 &emsp;&emsp;"(A) Description of the types of activities to be undertaken using the acquisition authority provided under subsection (a).
 
-&emsp;&emsp;"(B) Plan for the negotiation and approval of any such memorandum of agreement with an element of the Department of Defense to support Center missions and transition of artificial intelligence capabilities into appropriate acquisition programs or into operational use.
+&emsp;&emsp;"(B) Plan for the negotiation and approval of any such memorandum of agreement with an element of the Department of Defense to support the missions of the Office and transition of artificial intelligence capabilities into appropriate acquisition programs or into operational use.
 
 &emsp;&emsp;"(C) Plan for oversight of the position of acquisition executive established in subsection (b).
 
-&emsp;&emsp;"(D) Assessment of the acquisition workforce, tools, and infrastructure needs of the Center to support the authority under subsection (a) until September 30, 2025.
+&emsp;&emsp;"(D) Assessment of the acquisition workforce, tools, and infrastructure needs of the Office to support the authority under subsection (a) until September 30, 2025.
 
 &emsp;&emsp;"(E) Other matters as appropriate.
 
 &emsp;"(3)
 
-Demonstration.—The capability demonstration shall include a description of how the acquisition authority enabled the capability, how requirements were established and agreed upon, how testing was conducted, and how the capability was transitioned to the user, as well as any other matters deemed appropriate by the Center.
+Demonstration.—The capability demonstration shall include a description of how the acquisition authority enabled the capability, how requirements were established and agreed upon, how testing was conducted, and how the capability was transitioned to the user, as well as any other matters deemed appropriate by the Office.
 
 &emsp;"(4)
 
@@ -1284,7 +1560,7 @@ Relationship to other authorities.—The requirement to submit a plan under this
 
 "(f)
 
-Sunset.—Effective October 1, 2025, the Director may not exercise the authority under subsection (a) and may not enter into any new contracts under this section. The performance on any contract entered into before such date may continue according to the terms of such contract.
+Sunset.—Effective October 1, 2025, the Official may not exercise the authority under subsection (a) and may not enter into any new contracts under this section. The performance on any contract entered into before such date may continue according to the terms of such contract.
 
 "(g)
 
@@ -1292,17 +1568,9 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Center.—The term 'Center' has the meaning given the term 'Joint Artificial Intelligence Center' in section 260(c) of National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1294).
-
-&emsp;"(3) \[sic\]
-
-Director.—The term 'Director' means the Director of the Center.
-
-&emsp;"(4)
-
 Element.—The term 'element' means an element described under section 111(b) of title 10, United States Code.
 
-&emsp;"(5)
+&emsp;"(2)
 
 Secretary concerned.—The term 'Secretary concerned' has the meaning given in section 101\[(a)\](9) of title 10, United States Code."
 
@@ -1474,7 +1742,7 @@ Elements.—The assessment required by paragraph (1) shall include analysis of t
 
 &emsp;&emsp;"(A) The percentage of women and minorities employed in the research and engineering workforce of the Department of Defense as of the date of the assessment.
 
-&emsp;&emsp;"(B) Of the individuals hired into the research and engineering workforce of the Department inthe five years preceding the date of the assessment, the percentage of such individuals who are women and minorities.
+&emsp;&emsp;"(B) Of the individuals hired into the research and engineering workforce of the Department in the five years preceding the date of the assessment, the percentage of such individuals who are women and minorities.
 
 &emsp;&emsp;"(C) The effectiveness of existing hiring, recruitment, and retention incentives for women and minorities in the research and engineering workforce of the Department.
 
@@ -1592,7 +1860,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(F) The Secretaries of the military departments.
 
-&emsp;"(2) The term 'emerging technology' means technology determined to be in an emerging phase of development by the Secretary of Defense, including quantum computing, technology for the analysis of large and diverse sets of data (commonly known as 'big data analytics'), artificial intelligence, autonomous technology, robotics, directed energy,hypersonics, biotechnology, and such other technology as may be identified by the Secretary."
+&emsp;"(2) The term 'emerging technology' means technology determined to be in an emerging phase of development by the Secretary of Defense, including quantum computing, technology for the analysis of large and diverse sets of data (commonly known as 'big data analytics'), artificial intelligence, autonomous technology, robotics, directed energy, hypersonics, biotechnology, and such other technology as may be identified by the Secretary."
 
 #### Procedures for Rapid Reaction to Emerging Technology
 
@@ -1682,7 +1950,7 @@ Purposes.—The purposes of the program required by subsection (a) are as follow
 
 &emsp;"(2) To coordinate all quantum information science and technology research and development within the Department of Defense and to provide for interagency cooperation and collaboration on quantum information science and technology research and development between the Department of Defense and other departments and agencies of the United States and appropriate private sector and international entities that are involved in quantum information science and technology research and development.
 
-&emsp;"(3) To develop and manage a portfolio of fundamental and applied quantum information science and technology and engineering research initiatives that is stable, consistent, and balanced across scientific disciplines.
+&emsp;"(3) To develop and manage a portfolio of fundamental and applied quantum information science andtechnology and engineering research initiatives that is stable, consistent, and balanced across scientific disciplines.
 
 &emsp;"(4) To accelerate the transition and deployment of technologies and concepts derived from quantum information science and technology research and development into the Armed Forces, and to establish policies, procedures, and standards for measuring the success of such efforts.
 
@@ -1710,7 +1978,7 @@ Administration.—In carrying out the program required by subsection (a), the Se
 
 &emsp;&emsp;"(G) processing and manufacturing of low-cost, robust, and reliable quantum information science and technology-enabled devices and systems;
 
-&emsp;"(2) develop a coordinated and integrated research and investment plan for meeting the near-, mid-, and long-term challenges with definitive milestones whileachieving the specific technical goals that builds upon the Department's increased investment in quantum information science and technology research and development, commercial sector and global investments, and other United States Government investments in the quantum information sciences, including through consultation with—
+&emsp;"(2) develop a coordinated and integrated research and investment plan for meeting the near-, mid-, and long-term challenges with definitive milestones while achieving the specific technical goals that builds upon the Department's increased investment in quantum information science and technology research and development, commercial sector and global investments, and other United States Government investments in the quantum information sciences, including through consultation with—
 
 &emsp;&emsp;"(A) the National Quantum Coordination Office;
 

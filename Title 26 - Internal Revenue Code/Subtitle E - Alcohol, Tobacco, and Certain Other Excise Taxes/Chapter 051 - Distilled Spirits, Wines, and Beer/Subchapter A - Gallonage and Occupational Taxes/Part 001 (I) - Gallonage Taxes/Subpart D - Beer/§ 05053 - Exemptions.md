@@ -14,7 +14,7 @@ Beer may be removed from the brewery, without payment of tax, for laboratory ana
 
 #### (d) Removals for research, development, or testing
 
-Under such conditions and regulations as the Secretary may prescribe, beer may be removed from the brewery without payment of tax foruse in research, development, or testing (other than consumer testing or other market analysis) of processes, systems, materials, or equipment relating to beer or brewery operations.
+Under such conditions and regulations as the Secretary may prescribe, beer may be removed from the brewery without payment of tax for use in research, development, or testing (other than consumer testing or other market analysis) of processes, systems, materials, or equipment relating to beer or brewery operations.
 
 #### (e) Beer for personal or family use
 
@@ -40,7 +40,7 @@ Subject to such regulations as the Secretary may prescribe, beer may be removed 
 
 &emsp;&emsp;(B) beer entered into any customs bonded warehouse under subparagraph (A) may be withdrawn for consumption in the United States by, and for the official and family use of, such foreign governments, organizations, and individuals as are entitled to withdraw imported beer from such warehouses free of tax.
 
-> &emsp;Beer transferred to any customs bonded warehouse under subparagraph (A) shall be entered, stored, and accounted for in such warehouse under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported beer.
+> &emsp;Beer transferred to any customs bonded warehouse under subparagraph (A) shall be entered, stored, and accounted for in such warehouseunder such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported beer.
 
 #### (2) Other rules to apply
 

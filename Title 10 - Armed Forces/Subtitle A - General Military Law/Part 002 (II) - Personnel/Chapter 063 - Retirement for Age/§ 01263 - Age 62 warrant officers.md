@@ -2,7 +2,7 @@
 
 (a) Unless retired under section 1305 of this title, a permanent regular warrant officer who has at least 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114; 10 U.S.C. 580 note), and who is at least 62 years of age, shall be retired 60 days after he becomes that age, except as provided by section 8301 of title 5.
 
-(b) The Secretary concerned may defer, for not more than four months, the retirement under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to retire under this section.
+(b) The Secretary concerned may defer, for not more than four months, the retirement undersubsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to retire under this section.
 
 (Aug. 10, 1956 ch. 1041, 70A Stat. 101; Pub. L. 89–718, §3, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 90–130, §1(6), Nov. 8, 1967, 81 Stat. 374; Pub. L. 96–513, title V, §511(46), Dec. 12, 1980, 94 Stat. 2924; Pub. L. 102–484, div. A, title X, §1052(17), Oct. 23, 1992, 106 Stat. 2500.)
 

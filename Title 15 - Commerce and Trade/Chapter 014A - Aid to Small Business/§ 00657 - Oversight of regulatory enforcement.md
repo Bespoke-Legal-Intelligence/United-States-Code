@@ -10,13 +10,13 @@ For purposes of this section, the term—
 
 #### (b) SBA Enforcement Ombudsman
 
-(1) Not later than 180 days after March 29, 1996, the Administrator shall designate a Small Business and Agriculture Regulatory Enforcement Ombudsman, who shall report directly to the Administrator, utilizing personnel of the Small Business Administration to the extent practicable. Other agencies shall assist the Ombudsman and take actions as necessary to ensure compliance with the requirements of this section. Nothing in this section is intended to replace or diminish the activities of any Ombudsman or similar office in any other agency.
+(1) Not later than 180 days after March 29, 1996, the Administrator shall designate a Small Business and Agriculture Regulatory EnforcementOmbudsman, who shall report directly to the Administrator, utilizing personnel of the Small Business Administration to the extent practicable. Other agencies shall assist the Ombudsman and take actions as necessary to ensure compliance with the requirements of this section. Nothing in this section is intended to replace or diminish the activities of any Ombudsman or similar office in any other agency.
 
 (2) The Ombudsman shall—
 
-&emsp;(A) work with each agency with regulatory authority over small businesses to ensure that small business concerns that receive or are subject to an audit, on-site inspection, compliance assistance effort, or other enforcementrelated communication or contact by agency personnel are provided with a means to comment on the enforcement activity conducted by such personnel;
+&emsp;(A) work with each agency with regulatory authority over small businesses to ensure that small business concerns that receive or are subject to an audit, on-site inspection, compliance assistance effort, or other enforcement related communication or contact by agency personnel are provided with a means to comment on the enforcement activity conducted by such personnel;
 
-&emsp;(B) establish means to receive comments from small business concerns regarding actions by agency employees conducting compliance or enforcement activities with respect to the small business concern, means to refer comments to the Inspector General of the affected agency in the appropriate circumstances, and otherwise seek to maintain the identity of the person and small business concern making such comments on a confidential basis to the same extent as employee identities are protected under section 7 of the Inspector General Act of 1978 (5 U.S.C. App.);
+&emsp;(B) establish means to receive comments from small business concerns regarding actions by agency employees conducting compliance or enforcement activities with respect to the small business concern, means to refer comments to the Inspector General of the affected agency in the appropriate circumstances, and otherwise seek to maintain the identity of the person and small business concern making such comments on a confidential basis to the same extent as employee identities are protected under section 407 of title 5;
 
 &emsp;(C) based on substantiated comments received from small business concerns and the Boards, annually report to Congress and affected agencies evaluating the enforcement activities of agency personnel including a rating of the responsiveness to small business of the various regional and program offices of each agency;
 
@@ -54,17 +54,35 @@ For purposes of this section, the term—
 
 (4) Members of the Board shall serve without compensation, provided that, members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Board.
 
-(Pub. L. 85–536, §2\[30\], as added Pub. L. 104–121, title II, §222(2), Mar. 29, 1996, 110 Stat. 860.)
+#### (e) Centralized website
+
+Not later than 6 months after October 10, 2022, the Ombudsman shall maintain a publicly available website that includes—
+
+&emsp;(1) hyperlinks to small entity compliance guides described under section 212(a)(1) of the Small Business Regulatory Enforcement Fairness Act of 1996; and
+
+&emsp;(2) with respect to each such small entity compliance guide, the contact information for an individual who can offer assistance to small entities with respect to the rules that are the subject of such guide.
+
+#### (f) Report on agency compliance
+
+The Ombudsman shall include in the annual report required under subsection (b)(2)(C) an assessment of agency compliance with the requirements of section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996 for the year covered by such annual report.
+
+(Pub. L. 85–536, §2\[30\], as added Pub. L. 104–121, title II, §222(2), Mar. 29, 1996, 110 Stat. 860; amended Pub. L. 117–188, §2, Oct. 10, 2022, 136 Stat. 2203; Pub. L. 117–286, §4(b)(37), Dec. 27, 2022, 136 Stat. 4347.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 7 of the Inspector General Act of 1978, referred to in subsec. (b)(2)(B), is section 7 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996, referred to in subsecs. (e)(1) and (f), is section 212 of title II of Pub. L. 104–121, which is set out in a note under section 601 of Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
 A prior section 2\[30\] of Pub. L. 85–536 was renumbered section 2\[49\] and is set out as a note under section 631 of this title.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(2)(B). Pub. L. 117–286 substituted "section 407 of title 5;" for "section 7 of the Inspector General Act of 1978 (5 U.S.C. App.);".
+
+Subsecs. (e), (f). Pub. L. 117–188 added subsecs. (e) and (f).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

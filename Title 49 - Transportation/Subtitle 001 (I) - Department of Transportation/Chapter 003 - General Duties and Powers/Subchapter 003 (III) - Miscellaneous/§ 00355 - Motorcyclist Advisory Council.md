@@ -128,7 +128,7 @@ In general.—Not later than 60 days after the date on which the Secretary recei
 
 &emsp;&emsp;&emsp;(iv) the Committee on Transportation and Infrastructure of the House of Representatives; and
 
-&emsp;&emsp;&emsp;(v) the Subcommittee on Transportation, Housing and Urban Development,and Related Agencies of the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;&emsp;(v) the Subcommittee on Transportation, Housing and Urban Development, and Related Agencies of the Committee on Appropriations of the House of Representatives.
 
 &emsp;&emsp;(B)
 

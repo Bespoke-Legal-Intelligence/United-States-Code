@@ -6,7 +6,7 @@
 
 (3) The officials authorized under this section shall be the only Deputy Under Secretaries of Defense.
 
-(b) Each Deputy Under Secretary of Defense shall be the first assistant to an Under Secretary of Defense and shall assist such Under Secretary in the performance of the duties of the position of such Under Secretary and shallact for, and exercise the powers of, such Under Secretary when such Under Secretary dies, resigns, or is otherwise unable to perform the functions and duties of the office.
+(b) Each Deputy Under Secretary of Defense shall be the first assistant to an Under Secretary of Defense and shall assist such Under Secretary in the performance of the duties of the position of such Under Secretary and shall act for, and exercise the powers of, such Under Secretary when such Under Secretary dies, resigns, or is otherwise unable to perform the functions and duties of the office.
 
 (c)(1) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Research and Engineering.
 
@@ -20,7 +20,7 @@
 
 (6) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Intelligence and Security, who shall be appointed from among persons who have extensive expertise in intelligence matters.
 
-(d) The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
+(d) The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense,<sup>1</sup> the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
 (Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, §901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468; Pub. L. 115–91, div. A, title IX, §906(a)–(c), (f)(1), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(C), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(B), Dec. 20, 2019, 133 Stat. 1733.)
 
@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 113–291, §901(j)(2)(C), which directed substitution of "
 
 Subsec. (a)(1). Pub. L. 111–383, §901(b)(3)(A), substituted "Principal Deputy Under" for "Deputy Under".
 
-Subsec. (a)(2). Pub. L. 111–383, §901(b)(3)(B), struck out subpar. (A) and subpar. (B) designation and substituted "The Principal Deputy Under Secretaries of Defense" for "The Deputy Under Secretaries of Defense referred to in paragraphs (4) and (5) of subsection (c)". Prior to amendment, subpar. (A) read as follows: "The Deputy Under Secretaries of Defense referred to in paragraphs (1) through (3) of subsection (c) shall be appointed as provided in the applicable paragraph."
+Subsec. (a)(2). Pub. L. 111–383, §901(b)(3)(B), struck out subpar. (A) and subpar. (B) designation and substituted "The Principal Deputy Under Secretaries ofDefense" for "The Deputy Under Secretaries of Defense referred to in paragraphs (4) and (5) of subsection (c)". Prior to amendment, subpar. (A) read as follows: "The Deputy Under Secretaries of Defense referred to in paragraphs (1) through (3) of subsection (c) shall be appointed as provided in the applicable paragraph."
 
 Subsec. (b). Pub. L. 111–383, §901(b)(3)(A), substituted "Principal Deputy Under" for "Deputy Under".
 
@@ -110,6 +110,10 @@ Covered positions.—The positions specified in this paragraph are the following
 
 &emsp;"(B) The Principal Deputy Under Secretary of Defense for Intelligence."
 
+#### Transfer of Functions
+
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
+
 #### Temporary Authority for Additional DUSDS
 
 Pub. L. 111–383, div. A, title IX, §901(i)(2), Jan. 7, 2011, 124 Stat. 4323, provided that: "During the period beginning on the date of the enactment of this Act \[Jan. 7, 2011\] and ending on January 1, 2015, the Secretary of Defense may, in the Secretary's discretion, appoint not more than five Deputy Under Secretaries of Defense in addition to the five Principal Deputy Under Secretaries of Defense authorized by section 137a of title 10, United States Code (as amended by subsection (b)(3))."
@@ -119,4 +123,6 @@ Pub. L. 111–383, div. A, title IX, §901(i)(2), Jan. 7, 2011, 124 Stat. 4323, 
 Pub. L. 111–84, div. A, title IX, §906(a)(2), Oct. 28, 2009, 123 Stat. 2426, as amended by Pub. L. 111–383, div. A, title IX, §901(i)(1), Jan. 7, 2011, 124 Stat. 4323, which provided that, effective Jan. 1, 2015, the five Deputy Under Secretaries of Defense authorized by section 137a of title 10 would be the only Deputy Under Secretaries of Defense, was repealed by Pub. L. 113–291, div. A, title IX, §901(i)(2), Dec. 19, 2014, 128 Stat. 3467.
 
 \[Pub. L. 113–291, div. A, title IX, §901(i)(2), Dec. 19, 2014, 128 Stat. 3467, provided that section 901(i)(2), which repealed section 906(a)(2) of Pub. L. 111–84, formerly set out above, is effective on the effective date specified in section 901(i)(1) of Pub. L. 113–291, which is Jan. 1, 2015.\]
+
+<i><sup>1</sup></i><i> See Transfer of Functions note below.</i>
 

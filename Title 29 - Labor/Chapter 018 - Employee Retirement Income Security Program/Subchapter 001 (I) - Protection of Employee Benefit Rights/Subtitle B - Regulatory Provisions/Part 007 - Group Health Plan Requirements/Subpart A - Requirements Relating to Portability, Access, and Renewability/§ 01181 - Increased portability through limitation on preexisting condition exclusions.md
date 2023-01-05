@@ -22,7 +22,7 @@ For purposes of this part—
 
 #### (B) Treatment of genetic information
 
-&emsp;&emsp;Genetic information shall not be treated as a condition described in subsection (a)(1)in the absence of a diagnosis of the condition related to such information.
+&emsp;&emsp;Genetic information shall not be treated as a condition described in subsection (a)(1) in the absence of a diagnosis of the condition related to such information.
 
 #### (2) Enrollment date
 
@@ -76,7 +76,7 @@ For purposes of this part—
 
 #### (B) Waiting period not treated as a break in coverage
 
-&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4), any period that an individual is in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2)) shall not be taken into account in determining the continuous period under subparagraph (A).
+&emsp;&emsp;For purposes of subparagraph (A) and subsection (d)(4), any period that an individualis in a waiting period for any coverage under a group health plan (or for group health insurance coverage) or is in an affiliation period (as defined in subsection (g)(2)) shall not be taken into account in determining the continuous period under subparagraph (A).
 
 #### (C) TAA-eligible individuals
 
@@ -110,7 +110,7 @@ For purposes of this part—
 
 #### (4) Establishment of period
 
-&emsp;Periods of creditable coverage with respect to an individual shall be established throughpresentation of certifications described in subsection (e) or in such other manner as may be specified in regulations.
+&emsp;Periods of creditable coverage with respect to an individual shall be established through presentation of certifications described in subsection (e) or in such other manner as may be specified in regulations.
 
 #### (d) Exceptions
 
@@ -178,7 +178,7 @@ For purposes of this part—
 
 &emsp;&emsp;(A) The employee or dependent was covered under a group health plan or had health insurance coverage at the time coverage was previously offered to the employee or dependent.
 
-&emsp;&emsp;(B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only ifthe plan sponsor or issuer (if applicable) required such a statement at such time and provided the employee with notice of such requirement (and the consequences of such requirement) at such time.
+&emsp;&emsp;(B) The employee stated in writing at such time that coverage under a group health plan or health insurance coverage was the reason for declining enrollment, but only if the plan sponsor or issuer (if applicable) required such a statement at such time and provided the employee with notice of such requirement (and the consequences of such requirement) at such time.
 
 &emsp;&emsp;(C) The employee's or dependent's coverage described in subparagraph (A)—
 
@@ -240,7 +240,7 @@ For purposes of this part—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans forhealth coverage of the employee or the employee's dependents.
+&emsp;&emsp;&emsp;&emsp;Each employer that maintains a group health plan in a State that provides medical assistance under a State Medicaid plan under title XIX of the Social Security Act, or child health assistance under a State child health plan under title XXI of such Act, in the form of premium assistance for the purchase of coverage under a group health plan, shall provide to each employee a written notice informing the employee of potential opportunities then currently available in the State in which the employee resides for premium assistance under such plans for health coverage of the employee or the employee's dependents.
 
 #### (II) Model notice
 
@@ -290,7 +290,7 @@ For purposes of this part—
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (II), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapterXVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(C), (D), (f)(3)(A)(i), (B)(i)(I), (II), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (f)(3)(B)(ii), is section 311(b)(1)(C) of Pub. L. 111–3, which is set out as a note under this section.
 
@@ -394,7 +394,7 @@ Timely regulations.—The Secretary of Labor, consistent with section 104 \[42 U
 
 "(5)
 
-Limitation on actions.—No enforcement action shall be taken, pursuant to the amendments made bythis section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements."
+Limitation on actions.—No enforcement action shall be taken, pursuant to the amendments made by this section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements."
 
 #### Working Group to Develop Model Coverage Coordination Disclosure Form
 
@@ -448,7 +448,7 @@ Compensation.—The members of the Working Group shall serve without compensatio
 
 "(iv)
 
-Administrative support.—The Department of Health and Human Services and the Department of Labor shall jointly provide appropriate administrative support to the Working Group, including technical assistance. The Working Group may use the services and facilities of either such Department, with or without reimbursement, as jointly determined by such Departments.
+Administrative support.—The Department of Health and Human Services and the Department ofLabor shall jointly provide appropriate administrative support to the Working Group, including technical assistance. The Working Group may use the services and facilities of either such Department, with or without reimbursement, as jointly determined by such Departments.
 
 "(v)
 

@@ -44,11 +44,11 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 &emsp;(ii) For a manufacturer that began assembling automobiles in Mexico after model year 1991, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994, or the model year beginning after the date the manufacturer begins assembling automobiles in Mexico, whichever is later.
 
-&emsp;(iii) A manufacturer not described in clause (i) or (ii) of this subparagraph that assembles automobiles in the United States or Canada, but not in Mexico, may elect, during the period from January 1, 1997, through January 1, 2004, to have subparagraph (A) of this paragraph apply to all automobiles manufactured by that manufacturer beginning with the model year that begins after the date of the election. However, if the manufacturer begins assembling automobiles in Mexico before making an election under this subparagraph, this clause does not apply, and the manufacturer is subject to clause (ii) of this subparagraph.
+&emsp;(iii) A manufacturer not described in clause (i) or (ii) of this subparagraph that assembles automobiles in the United States or Canada, but not in Mexico, may elect, during the period from January 1, 1997, through January 1,2004, to have subparagraph (A) of this paragraph apply to all automobiles manufactured by that manufacturer beginning with the model year that begins after the date of the election. However, if the manufacturer begins assembling automobiles in Mexico before making an election under this subparagraph, this clause does not apply, and the manufacturer is subject to clause (ii) of this subparagraph.
 
 &emsp;(iv) For a manufacturer that does not assemble automobiles in the United States, Canada, or Mexico, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 1994.
 
-&emsp;(v) For a manufacturer described in clause (i) or (iii) of this subparagraph that does not make an election within the specified period,subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 2004.
+&emsp;(v) For a manufacturer described in clause (i) or (iii) of this subparagraph that does not make an election within the specified period, subparagraph (A) of this paragraph applies to all automobiles manufactured by that manufacturer beginning with the model year that begins after January 1, 2004.
 
 (C) The Secretary of Transportation shall prescribe reasonable procedures for elections under subparagraph (B) of this paragraph.
 
@@ -214,7 +214,7 @@ Subsec. (b)(6) to (8). Pub. L. 110–140, §113(a), struck out pars. (6) to (8) 
 
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–429, §6(36)(B), added par. (1) and struck out former par. (1) which read as follows: "In this subsection—
 
-&emsp;"(A) a passenger automobile is deemed to be manufactured domestically in a model year if at least 75 percent of the cost to the manufacturer is attributable to value added in the United States or Canada, unless the assembly of the automobile is completed in Canada and the automobile is imported into theUnited States more than 30 days after the end of the model year; and
+&emsp;"(A) a passenger automobile is deemed to be manufactured domestically in a model year if at least 75 percent of the cost to the manufacturer is attributable to value added in the United States or Canada, unless the assembly of the automobile is completed in Canada and the automobile is imported into the United States more than 30 days after the end of the model year; and
 
 &emsp;"(B) the fuel economy of a passenger automobile that is not manufactured domestically is deemed to be equal to the average fuel economy of all passenger automobiles manufactured by the same manufacturer that are not manufactured domestically."
 

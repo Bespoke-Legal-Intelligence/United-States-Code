@@ -52,7 +52,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 (3) Two or more Indian tribes may form a coalition for the adoption of resolutions and the establishment and development of a joint community mental health plan under this subsection.
 
-(4) The Secretary, acting through the Service, may make grants to Indian tribes adopting aresolution pursuant to paragraph (1) to obtain technical assistance for the development of a community mental health plan and to provide administrative support in the implementation of such plan.
+(4) The Secretary, acting through the Service, may make grants to Indian tribes adopting a resolution pursuant to paragraph (1) to obtain technical assistance for the development of a community mental health plan and to provide administrative support in the implementation of such plan.
 
 #### (d) Behavioral health training and community education programs
 
@@ -82,7 +82,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (A) In general
 
-&emsp;&emsp;The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraphs (2)(A) and (2)(B) and ensure that appropriate training has been, or shall be provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respective Secretaries shall provide appropriate training to, or provide funds to, an Indian tribe or tribal organization for training of appropriate individuals. In the case of positions funded under a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> the appropriate Secretary shall ensure that such training costs are included in the contract or compact, as the Secretary determines necessary.
+&emsp;&emsp;The appropriate Secretary shall provide training criteria appropriate to each type of position identified in paragraphs (2)(A) and (2)(B) and ensure that appropriate training has been, or shall be provided to any individual in any such position. With respect to any such individual in a position identified pursuant to paragraph (2)(C), the respectiveSecretaries shall provide appropriate training to, or provide funds to, an Indian tribe or tribal organization for training of appropriate individuals. In the case of positions funded under a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> the appropriate Secretary shall ensure that such training costs are included in the contract or compact, as the Secretary determines necessary.
 
 #### (B) Position specific training criteria
 
@@ -118,7 +118,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 #### (g) Mental Health Technician program
 
-(1) Under the authority of section 13 of this title, the Secretary shall establish and maintaina Mental Health Technician program within the Service which—
+(1) Under the authority of section 13 of this title, the Secretary shall establish and maintain a Mental Health Technician program within the Service which—
 
 &emsp;(A) provides for the training of Indians as mental health technicians; and
 
@@ -208,7 +208,7 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 (3) Funds provided under this subsection may not be used for the purposes described in section 1621o(b)(1) of this title.
 
-(4) An Indian tribe or tribal organization receiving a grant under this subsection shall ensure that intermediate adolescent mental health services are coordinated with other tribal, Service, and Bureau of Indian Affairs mental health, alcohol and substance abuse, and social services programs on the reservation of such tribe or tribal organization.
+(4) An Indian tribe or tribal organization receiving a grant under this subsection shall ensure that intermediate adolescent mental health services are coordinated with other tribal, Service, and Bureau of Indian Affairs mental health,alcohol and substance abuse, and social services programs on the reservation of such tribe or tribal organization.
 
 (5) The Secretary shall establish criteria for the review and approval of applications for grants made pursuant to this subsection.
 
@@ -218,7 +218,7 @@ Any person employed as a psychologist, social worker, or marriage and family the
 
 #### References in Text
 
-The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
+The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
 This chapter, referred to in subsecs. (b)(6)(A) and (l), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 

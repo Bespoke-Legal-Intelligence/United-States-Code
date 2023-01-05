@@ -70,7 +70,7 @@ Prior sections 8841 and 8842, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 7
 
 Prior sections 8843 to 8846 were repealed by Pub. L. 103–337, div. A, title XVI, §1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
 
-Section 8843, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1535; amended Pub. L. 86–599, §1(67), June 30, 1960, 74 Stat. 278, related to transfer or discharge ofreserve commissioned officers 60 years of age and below grade of major general. See section 14510 of this title.
+Section 8843, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1535; amended Pub. L. 86–599, §1(67), June 30, 1960, 74 Stat. 278, related to transfer or discharge of reserve commissioned officers 60 years of age and below grade of major general. See section 14510 of this title.
 
 Section 8844, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1535; amended Pub. L. 86–559, §1(68), June 30, 1960, 74 Stat. 279, related to transfer or discharge of certain reserve major generals who are 62 years of age. See section 14511 of this title.
 

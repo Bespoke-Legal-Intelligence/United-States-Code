@@ -44,7 +44,7 @@
 
 &emsp;(A) the term "agreement" means an agreement described in section 273(b)(3)(A) of this title;
 
-&emsp;(B) the term "designated organ procurement agency" means, with respect to a hospital or critical access hospital, the organ procurement agency designated pursuant to subsection (b) for the service area in which such hospital is located; and
+&emsp;(B) the term "designated organ procurement agency" means, with respect to a hospital orcritical access hospital, the organ procurement agency designated pursuant to subsection (b) for the service area in which such hospital is located; and
 
 &emsp;(C) the term "organ" means a human kidney, liver, heart, lung, pancreas, and any other human organ or tissue specified by the Secretary for purposes of this subsection.
 
@@ -120,7 +120,7 @@ Pub. L. 99–509, title IX, §9318(b), Oct. 21, 1986, 100 Stat. 2010, as amended
 
 #### Existing Agreements With Organ Procurement Agencies
 
-Pub. L. 103–432, title I, §155(a)(2), Oct. 31, 1994, 108 Stat. 4439, provided that: "Any hospital or rural primary care hospital which has an agreement (as defined in section 1138(a)(3)(A) of the Social Security Act \[42 U.S.C. 1320b–8(a)(3)(A)\]) with an organ procurement agency other than such hospital's designated organ procurement agency (as defined in section 1138(a)(3)(B) of such Act) on the date of the enactment of this section \[Oct. 31, 1994\] shall, if such hospital desires to continue such agreement on and after the effective date of the amendments made by paragraph (1) \[see Effective Date of 1994 Amendment note above\], submit an application to the Secretary for a waiver under section 1138(a)(2) of such Act not later than January 1, 1996, and such agreement may continue in effect pending the Secretary's determination with respect to such application."
+Pub. L. 103–432, title I, §155(a)(2), Oct. 31, 1994, 108 Stat. 4439, provided that: "Any hospital or rural primary care hospital which has an agreement (as definedin section 1138(a)(3)(A) of the Social Security Act \[42 U.S.C. 1320b–8(a)(3)(A)\]) with an organ procurement agency other than such hospital's designated organ procurement agency (as defined in section 1138(a)(3)(B) of such Act) on the date of the enactment of this section \[Oct. 31, 1994\] shall, if such hospital desires to continue such agreement on and after the effective date of the amendments made by paragraph (1) \[see Effective Date of 1994 Amendment note above\], submit an application to the Secretary for a waiver under section 1138(a)(2) of such Act not later than January 1, 1996, and such agreement may continue in effect pending the Secretary's determination with respect to such application."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@ The rules of the Authority promulgated in accordance with this chapter shall pre
 
 &emsp;&emsp;&emsp;(ii) issuance and enforcement of subpoenas and subpoenas duces tecum; and
 
-&emsp;&emsp;&emsp;(iii) other investigatory powers of the nature and scope exercised by State racing commissions before the program effective date; and
+&emsp;&emsp;&emsp;(iii) other investigatory powers of the nature and scope exercised by State racingcommissions before the program effective date; and
 
 &emsp;&emsp;(B) with respect to an unfair or deceptive act or practice described in section 3059 of this title, may recommend that the Commission commence an enforcement action.
 
@@ -88,7 +88,7 @@ The rules of the Authority promulgated in accordance with this chapter shall pre
 
 &emsp;&emsp;&emsp;(ii) ensure that covered horses and covered persons are deterred from using or administering medications, substances, and methods in violation of the rules established in accordance with this chapter;
 
-&emsp;&emsp;&emsp;(iii) implement anti-doping education, research, testing, compliance and adjudication programs designed to prevent covered persons and covered horses from using or administering medications, substances,and methods in violation of the rules established in accordance with this chapter;
+&emsp;&emsp;&emsp;(iii) implement anti-doping education, research, testing, compliance and adjudication programs designed to prevent covered persons and covered horses from using or administering medications, substances, and methods in violation of the rules established in accordance with this chapter;
 
 &emsp;&emsp;&emsp;(iv) exercise the powers specified in section 3055(c)(4) of this title in accordance with that section; and
 
@@ -104,7 +104,7 @@ The rules of the Authority promulgated in accordance with this chapter shall pre
 
 &emsp;&emsp;&emsp;At the end of the 5-year period described in clause (i), the Authority may—
 
-&emsp;&emsp;&emsp;&emsp;(I) extend the term of the initial agreement under this paragraph for such additional term as is provided by the rules of the Authority and consistent with this chapter; or
+&emsp;&emsp;&emsp;&emsp;(I) extend the term of the initial agreement under this paragraph for such additional term as is provided by the rules ofthe Authority and consistent with this chapter; or
 
 &emsp;&emsp;&emsp;&emsp;(II) enter into an agreement meeting the requirements of this paragraph with an entity described by subparagraph (B) for such term as is provided by such rules and consistent with this chapter.
 
@@ -190,7 +190,7 @@ The Authority shall develop a list of civil penalties with respect to the enforc
 
 #### (1) Prospective application
 
-&emsp;The jurisdiction and authority of the Authority and the Commission with respect tothe horseracing anti-doping and medication control program and the racetrack safety program shall be prospective only.
+&emsp;The jurisdiction and authority of the Authority and the Commission with respect to the horseracing anti-doping and medication control program and the racetrack safety program shall be prospective only.
 
 #### (2) Previous matters
 
@@ -200,7 +200,7 @@ The Authority shall develop a list of civil penalties with respect to the enforc
 
 #### (B) State racing commission
 
-&emsp;&emsp;With respect to conduct described in subparagraph (A), the applicable State racing commission shall retain authority until the final resolution of the matter.
+&emsp;&emsp;With respect to conduct described in subparagraph (A), the applicable State racingcommission shall retain authority until the final resolution of the matter.
 
 #### (3) Other laws unaffected
 

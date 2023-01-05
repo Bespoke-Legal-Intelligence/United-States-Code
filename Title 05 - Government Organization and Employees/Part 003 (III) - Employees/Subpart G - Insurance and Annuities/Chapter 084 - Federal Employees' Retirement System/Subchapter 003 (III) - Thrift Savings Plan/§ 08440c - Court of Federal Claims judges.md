@@ -34,7 +34,7 @@ Another section 8440c was renumbered section 8440d of this title.
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–469 substituted "as" for "only during a period".
 
-<b>2000</b>—Subsec. (b)(2). Pub. L. 106–554 substituted "the maximum percentage of such judge's basic pay for suchpay period allowable under section 8440f." for "5 percent of basic pay for such pay period."
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–554 substituted "the maximum percentage of such judge's basic pay for such pay period allowable under section 8440f." for "5 percent of basic pay for such pay period."
 
 <b>1996</b>—Subsec. (b)(7). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §205(c)(1)\]\], inserted "of the distribution" after "equal to the amount".
 

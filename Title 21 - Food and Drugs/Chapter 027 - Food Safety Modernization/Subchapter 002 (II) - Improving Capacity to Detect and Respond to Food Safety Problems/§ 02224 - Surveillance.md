@@ -44,7 +44,7 @@ In this Act, the term "foodborne illness outbreak" means the occurrence of 2 or 
 
 &emsp;&emsp;(E) the capabilities needed for establishing automatic electronic searches of surveillance data; and
 
-&emsp;&emsp;(F) specific actions to reduce barriers to improvement, implement the working group's recommendations, and achieve the purposes of this section, with measurable objectives and timelines, and identification of resource and staffing needs.
+&emsp;&emsp;(F) specific actions to reduce barriers to improvement, implement the workinggroup's recommendations, and achieve the purposes of this section, with measurable objectives and timelines, and identification of resource and staffing needs.
 
 #### (3) Authorization of appropriations
 

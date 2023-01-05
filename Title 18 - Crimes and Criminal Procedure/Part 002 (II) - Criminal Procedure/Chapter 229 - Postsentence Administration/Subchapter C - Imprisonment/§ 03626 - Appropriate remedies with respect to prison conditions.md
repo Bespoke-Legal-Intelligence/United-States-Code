@@ -6,7 +6,7 @@ Requirements for Relief.—
 
 &emsp;(1)
 
-Prospective relief.—(A) Prospective relief in any civil action with respect to prison conditions shall extend no further than necessary to correct the violation of the Federal right of a particular plaintiff or plaintiffs. The court shall not grant or approve any prospective relief unless the court finds that such relief is narrowly drawn, extends no further than necessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the relief.
+Prospective relief.—(A) Prospective relief in any civil action with respect to prison conditions shall extend no further than necessary to correct the violation of the Federal right of a particular plaintiff or plaintiffs. The court shall not grant or approve any prospective relief unless the court finds that such relief is narrowly drawn, extends no further thannecessary to correct the violation of the Federal right, and is the least intrusive means necessary to correct the violation of the Federal right. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the relief.
 
 &emsp;(B) The court shall not order any prospective relief that requires or permits a government official to exceed his or her authority under State or local law or otherwise violates State or local law, unless—
 
@@ -164,7 +164,7 @@ Definitions.—As used in this section—
 
 &emsp;(1) the term "consent decree" means any relief entered by the court that is based in whole or in part upon the consent or acquiescence of the parties but does not include private settlements;
 
-&emsp;(2) the term "civil action with respect to prison conditions" means any civil proceeding arising under Federal law with respect to the conditions of confinement or the effects of actions by government officials on the lives of persons confined in prison, but does not include habeas corpus proceedings challenging the fact or duration of confinement in prison;
+&emsp;(2) the term "civil action with respect to prison conditions" means any civil proceeding arising under Federal law with respect to the conditions of confinement or the effects of actions by government officials on the lives ofpersons confined in prison, but does not include habeas corpus proceedings challenging the fact or duration of confinement in prison;
 
 &emsp;(3) the term "prisoner" means any person subject to incarceration, detention, or admission to any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program;
 
@@ -232,7 +232,7 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 199
 
 #### Payment of Damage Award in Satisfaction of Pending Restitution Orders
 
-Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §807\], Apr. 26, 1996, 110 Stat. 1321, 1321–75, provided that: "Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner."
+Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §807\], Apr. 26, 1996, 110 Stat. 1321, 1321–75, provided that: "Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctionalfacility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner."
 
 #### Notice to Crime Victims of Pending Damage Award
 

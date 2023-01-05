@@ -2,7 +2,7 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) Omitted
+&emsp;(1) Omitted.
 
 &emsp;(2) "advanced electric or hybrid vehicle" means a vehicle which—
 
@@ -22,7 +22,7 @@ As used in this chapter, the term—
 
 &emsp;(6) "project" means the Electric and Hybrid Vehicle Research, Development, and Demonstration Project established under section 2503(a) of this title;
 
-&emsp;(7) Omitted
+&emsp;(7) Omitted.
 
 &emsp;(8) "small business concern" shall have the meaning prescribed by the Secretary of Energy after consultation with the Small Business Administration.
 

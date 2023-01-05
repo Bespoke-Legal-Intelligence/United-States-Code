@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(F) The Under Secretary of Defense for Intelligence and Security.
 
-&emsp;(4) Other officers who are appointed by the President, by and with the advice and consentof the Senate, and who report directly to the Secretary and Deputy Secretary without intervening authority, as follows:
+&emsp;(4) Other officers who are appointed by the President, by and with the advice and consent of the Senate, and who report directly to the Secretary and Deputy Secretary without intervening authority, as follows:
 
 &emsp;&emsp;(A) The Director of Cost Assessment and Program Evaluation.
 
@@ -102,7 +102,7 @@ Pub. L. 115–91, §906(d)(1), amended par. (6) generally. Prior to amendment, p
 
 Subsec. (b)(7) to (10). Pub. L. 115–91, §910(c)(1)(A), redesignated pars. (6) to (9) as (7) to (10), respectively.
 
-<b>2016</b>—Subsec. (b)(2). Pub. L. 114–328, §901(f), added subpars. (A) and (B), redesignated former subpars. (B) to\(E) as (C) to (F), respectively, and struck out former subpar. (A), which read as follows: "The Under Secretary of Defense for Acquisition, Technology, and Logistics."
+<b>2016</b>—Subsec. (b)(2). Pub. L. 114–328, §901(f), added subpars. (A) and (B), redesignated former subpars. (B) to (E) as (C) to (F), respectively, and struck out former subpar. (A), which read as follows: "The Under Secretary of Defense for Acquisition, Technology, and Logistics."
 
 Pub. L. 114–328, §901(d), repealed Pub. L. 113–291, §901(a)(2). See 2014 Amendment note below.
 
@@ -206,7 +206,7 @@ In general.—Except as provided in paragraph (2), this section \[see Tables for
 
 "(2)
 
-Certain matters.—Subsection (i) \[enacting and amending provisions set out as notes under section 137a of this title\] and the amendments made by that subsection, and subsection (o) \[enacting provisions set outas a note under this section\], shall take effect on the date of the enactment of this Act \[Jan. 7, 2011\]."
+Certain matters.—Subsection (i) \[enacting and amending provisions set out as notes under section 137a of this title\] and the amendments made by that subsection, and subsection (o) \[enacting provisions set out as a note under this section\], shall take effect on the date of the enactment of this Act \[Jan. 7, 2011\]."
 
 #### Effective Date of 2008 Amendment
 
@@ -232,7 +232,7 @@ Executive Agent for National Mobilization.—The Secretary of Defense shall desi
 
 "(b)
 
-Report Required.—Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of Defense shall submit to Congress a plan for obtaining inductees as part of a mobilization timeline for the Selective Service System. The plan shall include a description of resources, locations, and capabilities of the Armed Forces required to train, equip, and integrate personnel inducted into the Armed Forces under the Military Selective Service Act into the total force, addressing scenarios that would include 300,000, 600,000, and 1,000,000 new volunteer and other personnel inducted into the Armed Forces under the Military Selective Service Act. The plan may be provided in classified form."
+Report Required.—Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of Defense shall submit to Congress a plan for obtaining inductees as part of a mobilization timeline for the Selective Service System. The plan shall include a description of resources, locations, and capabilities of the Armed Forces required to train,equip, and integrate personnel inducted into the Armed Forces under the Military Selective Service Act into the total force, addressing scenarios that would include 300,000, 600,000, and 1,000,000 new volunteer and other personnel inducted into the Armed Forces under the Military Selective Service Act. The plan may be provided in classified form."
 
 #### Oversight of Registered Sex Offender Management Program
 

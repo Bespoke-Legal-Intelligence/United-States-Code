@@ -14,7 +14,7 @@ Within the boundaries of the park, the Secretary may acquire lands and interests
 
 #### (d) Identification, etc., of other points relevant to park
 
-Other points on the island of Guam relevant to the park may be identified, established, and marked by the Secretary in agreement with the Governor of Guam.
+Other points on the island of Guam relevant to the park may be identified, established, andmarked by the Secretary in agreement with the Governor of Guam.
 
 #### (e) Administration of property
 

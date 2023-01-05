@@ -40,7 +40,7 @@ The Secretary shall periodically review all of the science and technology activi
 
 &emsp;&emsp;&emsp;&emsp;(II) prioritize research, development, and demonstration; and
 
-&emsp;&emsp;&emsp;(ii) an affirmation that any hubs, institutes, or research centers that are established or renewed within the Office ofScience are consistent with the mission of the Office of Science described in subsection (c) of section 7139 of this title.
+&emsp;&emsp;&emsp;(ii) an affirmation that any hubs, institutes, or research centers that are established or renewed within the Office of Science are consistent with the mission of the Office of Science described in subsection (c) of section 7139 of this title.
 
 #### (c) Submission to Congress
 

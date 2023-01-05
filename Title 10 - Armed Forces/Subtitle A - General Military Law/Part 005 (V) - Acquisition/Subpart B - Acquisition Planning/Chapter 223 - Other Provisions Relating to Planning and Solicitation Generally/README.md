@@ -29,6 +29,138 @@ A prior chapter 223 "PLANNING AND SOLICITATION RELATING TO PARTICULAR ITEMS OR S
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Quantifiable Assurance Capability for Security of Microelectronics
+
+Pub. L. 117–263, div. A, title II, §219, Dec. 23, 2022, 136 Stat. 2477, provided that:
+
+"(a)
+
+Development and Implementation of Capability.—The Secretary of Defense shall develop and implement a capability for quantifiable assurance to achieve practical, affordable, and risk-based objectives for security of microelectronics to enable the Department of Defense to access and apply state-of-the-art microelectronics for military purposes.
+
+"(b)
+
+Establishment of Requirements and Schedule of Support for Development, Test, and Assessment.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Deputy Secretary of Defense shall, in consultation with the Under Secretary of Defense for Research and Engineering, establish requirements and a schedule for support from the National Security Agency to develop, test, assess, implement, and improve the capability required by subsection (a).
+
+&emsp;"(2)
+
+National security agency.—The Director of the National Security Agency shall take such actions as may be necessary to satisfy the requirements established under paragraph (1).
+
+&emsp;"(3)
+
+Briefing.—Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense for Research and Engineering and the Director of the National Security Agency shall jointly provide the congressional defense committees a briefing on the requirements and the schedule for support established under paragraph (1).
+
+"(c)
+
+Assessment.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall assess whether the Department of Defense, to enable expanded use of unprogrammed application specific integrated circuits or other custom-designed integrated circuits manufactured by a supplier that is not using processes accredited by the Defense Microelectronics Activity for the purpose of enabling the Department to access commercial state-of-the-art microelectronics technology using risk-based quantifiable assurance security methodology, should—
+
+&emsp;&emsp;"(A) seek changes to the International Traffic in Arms Regulations under subchapter M of chapter I of title 22, Code of Federal Regulations, and Department of Defense Instruction 5200.44 (relating to protection of mission critical functions to achieve trusted systems and networks); and
+
+&emsp;&emsp;"(B) expand the use of unprogrammed custom-designed integrated circuits that are not controlled by such regulations.
+
+&emsp;"(2)
+
+Briefing.—Not later than April 1, 2023, the Secretary of Defense shall provide the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the findings of the Secretary with respect to the assessment conducted under paragraph (1)."
+
+#### Government-Industry-Academia Working Group on Microelectronics
+
+Pub. L. 117–263, div. A, title II, §220, Dec. 23, 2022, 136 Stat. 2478, provided that:
+
+"(a)
+
+Establishment and Designation.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall establish a working group to facilitate coordination among industry, academia, and the Department of Defense on issues of mutual interest relating to microelectronics as described in subsection (c).
+
+&emsp;"(2)
+
+Designation.—The working group established under paragraph (1) shall be known as the 'Government-Industry-Academia Working Group on Microelectronics' (referred to in this section as the 'Working Group').
+
+"(b)
+
+Composition.—The Working Group shall be composed of representatives of organizations and elements of the Department of Defense, industry, and academia.
+
+"(c)
+
+Scope.—The Secretary shall ensure that the Working Group supports dialogue and coordination among industry, academia, and the Department of Defense on the following issues relating to microelectronics:
+
+&emsp;"(1) Research needs.
+
+&emsp;"(2) Infrastructure needs and shortfalls.
+
+&emsp;"(3) Technical and process standards.
+
+&emsp;"(4) Training and certification needs for the workforce.
+
+&emsp;"(5) Supply chain issues.
+
+&emsp;"(6) Supply chain, manufacturing, and packaging security.
+
+&emsp;"(7) Technology transition issues and opportunities.
+
+"(d)
+
+Charter and Policies.—Not later than March 1, 2023, the Secretary of Defense shall develop a charter and issue policies for the functioning of the Working Group.
+
+"(e)
+
+Administrative Support.—The joint federation of capabilities established under section 937 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 2224 note) shall provide administrative support to the Working Group.
+
+"(f)
+
+Rule of Construction.—Nothing in this section shall be construed to allow the Department of Defense to provide any competitive advantage to any participant in the Working Group.
+
+"(g)
+
+Sunset.—The provisions of this section shall terminate on December 31, 2030."
+
+#### Risk Management for Department of Defense Pharmaceutical Supply Chains
+
+Pub. L. 117–263, div. A, title VIII, §860, Dec. 23, 2022, 136 Stat. 2734, provided that:
+
+"(a)
+
+Risk Management for All Department of Defense Pharmaceutical Supply Chains.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Under Secretary of Defense for Acquisition and Sustainment shall—
+
+&emsp;"(1) develop and issue implementing guidance for risk management for Department of Defense supply chains for pharmaceutical materiel for the Department;
+
+&emsp;"(2) identify, in coordination with the Secretary of Health and Human Services, supply chain information gaps regarding the Department's reliance on foreign suppliers of drugs, including active pharmaceutical ingredients and final drug products; and
+
+&emsp;"(3) submit to the Committees on Armed Services of the Senate and the House of Representatives a report regarding—
+
+&emsp;&emsp;"(A) existing information streams, if any, that may be used to assess the reliance by the Department of Defense on high-risk foreign suppliers of drugs;
+
+&emsp;&emsp;"(B) vulnerabilities in the drug supply chains of the Department of Defense; and
+
+&emsp;&emsp;"(C) any recommendations to address—
+
+&emsp;&emsp;&emsp;"(i) information gaps identified under paragraph (2); and
+
+&emsp;&emsp;&emsp;"(ii) any risks related to such reliance on foreign suppliers.
+
+"(b)
+
+Risk Management for Department of Defense Pharmaceutical Supply Chain.—The Director of the Defense Health Agency shall—
+
+&emsp;"(1) not later than one year after the issuance of the guidance required under subsection (a)(1), develop and publish implementing guidance for risk management for the Department of Defense supply chain for pharmaceuticals; and
+
+&emsp;"(2) establish a working group—
+
+&emsp;&emsp;"(A) to assess risks to the Department's pharmaceutical supply chain;
+
+&emsp;&emsp;"(B) to identify the pharmaceuticals most critical to beneficiary care at military treatment facilities; and
+
+&emsp;&emsp;"(C) to establish policies for allocating scarce pharmaceutical resources of the Department of Defense in case of a supply disruption."
+
 #### Authority for Explosive Ordnance Disposal Units To Acquire New or Emerging Technologies and Capabilities
 
 Pub. L. 115–91, div. A, title I, §142, Dec. 12, 2017, 131 Stat. 1320, provided that: "The Secretary of Defense, after consultation with the head of each military service, may provide to an explosive ordnance disposal unit the authority to acquire new or emerging technologies and capabilities that are not specifically provided for in the authorized equipment allowance for the unit, as such allowance is set forth in the table of equipment and table of allowance for the unit."
@@ -83,7 +215,7 @@ Annual Report.—Not later than 90 days after the date of the enactment of this 
 
 Military Working Dog Defined.—For purposes of this section, the term 'military working dog' means a dog used in any official military capacity, as defined by the Secretary of Defense."
 
-\[Similar provisions were contained in Pub. L. 110–417, \[div. A\], title III, §358, Oct. 14, 2008, 122 Stat. 4427, asamended by Pub. L. 111–84, div. A, title III, §341, Oct. 28, 2009, 123 Stat. 2260; Pub. L. 111–383, div. A, title X, §1075(e)(6), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 112–81, div. A, title III, §349, Dec. 31, 2011, 125 Stat. 1375; Pub. L. 114–92, div. A, title X, §1073(h), Nov. 25, 2015, 129 Stat. 996.\]
+\[Similar provisions were contained in Pub. L. 110–417, \[div. A\], title III, §358, Oct. 14, 2008, 122 Stat. 4427, as amended by Pub. L. 111–84, div. A, title III, §341, Oct. 28, 2009, 123 Stat. 2260; Pub. L. 111–383, div. A, title X, §1075(e)(6), Jan. 7, 2011, 124 Stat. 4374; Pub. L. 112–81, div. A, title III, §349, Dec. 31, 2011, 125 Stat. 1375; Pub. L. 114–92, div. A, title X, §1073(h), Nov. 25, 2015, 129 Stat. 996.\]
 
 #### Strategy for Assured Access to Trusted Microelectronics
 
@@ -277,7 +409,7 @@ Review of Anti-competitive Specifications in Information Technology Acquisitions
 
 &emsp;"(1)
 
-Review required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Under Secretary of Defense for Acquisition and Sustainment shall conduct a review of the policy, guidance, regulations, and training related to specifications included in information technology acquisitions to ensure current policies eliminate the unjustified use of potentially anti-competitive specifications. In conducting the review, the Under Secretary shall examine the use of brand names or proprietary specifications or standards in solicitations for procurements of goods and services, as well as the current acquisition training curriculum related to those areas.
+Review required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Under Secretary of Defense for Acquisition and Sustainment shall conduct a review of the policy,guidance, regulations, and training related to specifications included in information technology acquisitions to ensure current policies eliminate the unjustified use of potentially anti-competitive specifications. In conducting the review, the Under Secretary shall examine the use of brand names or proprietary specifications or standards in solicitations for procurements of goods and services, as well as the current acquisition training curriculum related to those areas.
 
 &emsp;"(2)
 
@@ -431,7 +563,7 @@ Elements.—The program implemented pursuant to paragraph (1) shall—
 
 &emsp;&emsp;&emsp;"(ix) the flow down of counterfeit avoidance and detection requirements to subcontractors; and
 
-&emsp;&emsp;"(B) establish processes for the review and approval of contractor systems for the detection and avoidance of counterfeit electronic parts and suspect counterfeit electronic parts, which processes shall be comparable to the processes established for contractor business systems under section 893 ofthe Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4311; 10 U.S.C. 2302 note \[now 10 U.S.C. 3841 note prec.\]).
+&emsp;&emsp;"(B) establish processes for the review and approval of contractor systems for the detection and avoidance of counterfeit electronic parts and suspect counterfeit electronic parts, which processes shall be comparable to the processes established for contractor business systems under section 893 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4311; 10 U.S.C. 2302 note \[now 10 U.S.C. 3841 note prec.\]).
 
 "(f)
 
@@ -551,7 +683,7 @@ Pub. L. 111–84, div. A, title VIII, §820, Oct. 28, 2009, 123 Stat. 2410, prov
 
 "(a)
 
-Requirement to Publish Notification for Bundling.—A contracting officer of the Department of Defense carrying out a covered acquisition shall publish a notification consistent with the requirements of paragraph (c)(2) of subpart 10.001 of the Federal Acquisition Regulation on the website known as FedBizOpps.gov (or any successor site) at least 30 days prior to the release of a solicitation for such acquisition and, if the agency has determined that measurably substantial benefits are expected to be derived as a result of bundling such acquisition, shall include in the notification a brief description of the benefits.
+Requirement to Publish Notification for Bundling.—A contracting officer of the Department of Defense carrying out a covered acquisition shall publish a notification consistent with the requirements of paragraph (c)(2) of subpart 10.001 of the Federal Acquisition Regulation on the website known as FedBizOpps.gov (or any successor site) at least 30 days prior to the release of a solicitation for such acquisition and, if the agency has determined that measurably substantialbenefits are expected to be derived as a result of bundling such acquisition, shall include in the notification a brief description of the benefits.
 
 "(b)
 
@@ -761,11 +893,11 @@ Exclusion of Items on the AbilityOne Procurement Catalog.—The authority under 
 
 #### Prevention of Export Control Violations
 
-Pub. L. 110–181, div. A, title VIII, §890, Jan. 28, 2008, 122 Stat. 269, as amended by Pub. L. 110–417, \[div. A\],title X, §1061(b)(6), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title X, §1075(f)(6), Jan. 7, 2011, 124 Stat. 4376, provided that:
+Pub. L. 110–181, div. A, title VIII, §890, Jan. 28, 2008, 122 Stat. 269, as amended by Pub. L. 110–417, \[div. A\], title X, §1061(b)(6), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111–383, div. A, title X, §1075(f)(6), Jan. 7, 2011, 124 Stat. 4376, provided that:
 
 "(a)
 
-Prevention of Export Control Violations.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall prescribe regulations requiring any contractor under a contract with the Department of Defense to provide goods or technology that is subject to export controls under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] or the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\] (as continued in effect under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\]) to comply with those Acts and applicable regulations with respect to such goods and technology, including the International Traffic in Arms Regulations and the Export Administration Regulations. Regulations prescribed under this subsection shall include a contract clause enforcing such requirement.
+Prevention of Export Control Violations.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall prescribe regulations requiring any contractor under a contract with the Department of Defense to provide goods or technology that is subject to export controls under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] or the Export Administration Act of 1979 \[50 U.S.C. 4601 et seq.\] (as continued in effect under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\]) to comply with those Acts and applicable regulations with respect to such goods andtechnology, including the International Traffic in Arms Regulations and the Export Administration Regulations. Regulations prescribed under this subsection shall include a contract clause enforcing such requirement.
 
 "(b)
 
@@ -857,7 +989,7 @@ Implementation of Demonstration Project.—The Secretary of Defense shall begin 
 
 "(e)
 
-Report on Demonstration Project.—Not later than six months after award of a contract under the demonstration project, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report setting forth a review of the demonstration project and recommendations on the actions, if any, that can be implemented to ensure compliance by the Department of Defense with Executive Order No. 12989.
+Report on Demonstration Project.—Not later than six months after award of a contract under thedemonstration project, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report setting forth a review of the demonstration project and recommendations on the actions, if any, that can be implemented to ensure compliance by the Department of Defense with Executive Order No. 12989.
 
 "(f)
 

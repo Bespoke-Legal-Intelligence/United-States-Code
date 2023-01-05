@@ -84,7 +84,7 @@ Each head of a Federal department or agency (including the Access Board, the Equ
 
 #### (A) Complaints
 
-&emsp;&emsp;Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2), any individual with a disability may file a complaintalleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology.
+&emsp;&emsp;Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2), any individual with a disability may file a complaint alleging that a Federal department or agency fails to comply with subsection (a)(1) in providing electronic and information technology.
 
 #### (B) Application
 

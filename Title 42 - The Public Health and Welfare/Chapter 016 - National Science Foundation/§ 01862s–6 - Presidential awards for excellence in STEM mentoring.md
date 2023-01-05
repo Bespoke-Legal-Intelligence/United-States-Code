@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of the Foundation shall continue to administer awards on behalf of the Office of Science and Technology Policy to recognize outstanding mentoring in STEM fields.
+The Director of the Foundation shall continue to administer awards on behalf of the Office ofScience and Technology Policy to recognize outstanding mentoring in STEM fields.
 
 #### (b) Annual award recipients
 

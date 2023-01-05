@@ -8,7 +8,7 @@ The President shall, to the extent he deems necessary and feasible—
 
 &emsp;(2) conduct such studies and surveys as may be necessary to prepare reports in a timely manner on specific aspects of international investment and trade in services which may have significant implications for the economic welfare and national security of the United States;
 
-&emsp;(3) study the adequacy of information, disclosure, and reporting requirements and procedures relating to international investment and trade in services; recommend necessary improvements in information recording, collection, and retrieval and in statistical analysis and presentation; and report periodically to the Committees on Finance <sup>1</sup> Foreign Relations <sup>1</sup> and Commerce of the Senate and the Committees on Ways and Means, Energy and Commerce, and Foreign Affairs of the House of Representatives on national and internationaldevelopments with respect to laws and regulations affecting international investment and trade in services;
+&emsp;(3) study the adequacy of information, disclosure, and reporting requirements and procedures relating to international investment and trade in services; recommend necessary improvements in information recording, collection, and retrieval and in statistical analysis and presentation; and report periodically to the Committees on Finance <sup>1</sup> Foreign Relations <sup>1</sup> and Commerce of the Senate and the Committees on Ways and Means, Energy and Commerce, and Foreign Affairs of the House of Representatives on national and international developments with respect to laws and regulations affecting international investment and trade in services;
 
 &emsp;(4) conduct (not more frequently than once every five years and in addition to any other surveys conducted pursuant to paragraphs (1) and (2)) benchmark surveys with respect to trade in services between unaffiliated United States persons and foreign persons; and
 
@@ -86,13 +86,13 @@ Subsecs. (e) to (g). Pub. L. 97–33, §3, added subsec. (e) and redesignated su
 
 <b>1979</b>—Subsec. (a)(3). H. Res. 89 changed name of Committee on International Relations of the House of Representatives to Committee on Foreign Affairs.
 
-<b>1978</b>—Subsec. (d). Pub. L. 95–381 substituted provisions setting forth requirements respecting interim and final reports to Congress, for provisions requiring submission of findings and conclusions to Congress not later than two years after Oct. 11, 1976.
+<b>1978</b>—Subsec. (d). Pub. L. 95–381 substituted provisions setting forth requirements respecting interim andfinal reports to Congress, for provisions requiring submission of findings and conclusions to Congress not later than two years after Oct. 11, 1976.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee onCommerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Termination of Reporting Requirements
 

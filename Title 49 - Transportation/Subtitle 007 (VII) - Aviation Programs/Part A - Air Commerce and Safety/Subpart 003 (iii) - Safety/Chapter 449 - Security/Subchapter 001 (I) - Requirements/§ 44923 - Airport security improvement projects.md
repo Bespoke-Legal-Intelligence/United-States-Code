@@ -90,7 +90,7 @@ Leveraged Funding.—For purposes of this section, a grant under subsection (a) 
 
 Subsec. (a). Pub. L. 115–254, §1991(d)(19)(A), in introductory provisions, substituted "Administrator of the Transportation Security Administration" for "Under Secretary for Border and Transportation Security of the Department of Homeland Security".
 
-Subsec. (e). Pub. L. 115–254, §1991(d)(19)(C), struck out par. (1) designation and heading before "The Government's share" and struck out par. (2). Prior to amendment, text of par. (2) read as follows: "The Under Secretary shall revise letters of intent issued before the date of enactment of this section to reflect the costshare established in this subsection with respect to grants made after September 30, 2003."
+Subsec. (e). Pub. L. 115–254, §1991(d)(19)(C), struck out par. (1) designation and heading before "The Government's share" and struck out par. (2). Prior to amendment, text of par. (2) read as follows: "The Under Secretary shall revise letters of intent issued before the date of enactment of this section to reflect the cost share established in this subsection with respect to grants made after September 30, 2003."
 
 Subsec. (j). Pub. L. 115–254, §1991(d)(19)(D), struck out subsec. (j) which authorized appropriations for fiscal years 2005 to 2011.
 

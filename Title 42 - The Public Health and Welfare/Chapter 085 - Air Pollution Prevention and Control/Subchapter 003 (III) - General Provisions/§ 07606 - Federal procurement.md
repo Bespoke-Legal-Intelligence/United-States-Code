@@ -40,13 +40,13 @@ Another prior section 306 of act July 14, 1955, ch. 360, title III, formerly §1
 
 #### Federal Acquisition Regulation: Contractor Certification or Contract Clause for Acquisition of Commercial Items
 
-Pub. L. 103–355, title VIII, §8301(g), Oct. 13, 1994, 108 Stat. 3397, as amended by Pub. L. 115–232, div. A, title VIII, §836(g)(8), Aug. 13, 2018, 132 Stat. 1874, providedthat: "The Federal Acquisition Regulation may not contain a requirement for a certification by a contractor under a contract for the acquisition of commercial products or commercial services, or a requirement that such a contract include a contract clause, in order to implement a prohibition or requirement of section 306 of the Clean Air Act (42 U.S.C. 7606) or a prohibition or requirement issued in the implementation of that section, since there is nothing in such section 306 that requires such a certification or contract clause."
+Pub. L. 103–355, title VIII, §8301(g), Oct. 13, 1994, 108 Stat. 3397, as amended by Pub. L. 115–232, div. A, title VIII, §836(g)(8), Aug. 13, 2018, 132 Stat. 1874, provided that: "The Federal Acquisition Regulation may not contain a requirement for a certification by a contractor under a contract for the acquisition of commercial products or commercial services, or a requirement that such a contract include a contract clause, in order to implement a prohibition or requirement of section 306 of the Clean Air Act (42 U.S.C. 7606) or a prohibition or requirement issued in the implementation of that section, since there is nothing in such section 306 that requires such a certification or contract clause."
 
 #### <b>Executive Documents</b>
 
 #### Executive Order No. 11602
 
-Ex. Ord. No. 11602, June 29, 1971, 36 F.R. 12475, which related to the administration of the Clean Air Act with respect to Federal contracts, grants, or loans, was superseded by Ex. Ord. No. 11738, Sept. 10, 1973, 38 F.R. 25161, set out below.
+Ex. Ord. No. 11602, June 29, 1971, 36 F.R. 12475, which related to the administration of the Clean Air Act withrespect to Federal contracts, grants, or loans, was superseded by Ex. Ord. No. 11738, Sept. 10, 1973, 38 F.R. 25161, set out below.
 
 #### Ex. Ord. No. 11738. Administration of the Clean Air Act and the Federal Water Pollution Control Act With Respect to Federal Contracts, Grants, or Loans
 

@@ -2,7 +2,7 @@
 
 #### (a) Law enforcement training program
 
-(1) In order to provide for and encourage training, research, and development for the purpose of improving fish and wildlife law enforcement and developing new methods for the prevention, detection, and reduction of violation of fish and wildlife laws, and the apprehension of violators of such laws, the Secretary of the Interior and the Secretary of Commerce may each—
+(1) In order to provide for and encourage training, research, and development for the purpose of improving fish and wildlife law enforcementand developing new methods for the prevention, detection, and reduction of violation of fish and wildlife laws, and the apprehension of violators of such laws, the Secretary of the Interior and the Secretary of Commerce may each—
 
 &emsp;(A) establish and conduct national training programs to provide, at the request of any State, training for State fish and wildlife law enforcement personnel;
 
@@ -52,7 +52,7 @@ Notwithstanding any other provision of law, the Secretary of the Interior and th
 
 &emsp;&emsp;&emsp;(iv) sale or other disposal of the items in accordance with applicable law, including auctioneer commissions and related expenses;
 
-&emsp;&emsp;&emsp;(v) payment of any valid liens or other encumbrances on the items and paymentfor other measures required to clear title to the items; and
+&emsp;&emsp;&emsp;(v) payment of any valid liens or other encumbrances on the items and payment for other measures required to clear title to the items; and
 
 &emsp;&emsp;&emsp;(vi) in the case of the Secretary of the Interior only, processing and shipping of eagles and other migratory birds, and parts of migratory birds, for Native American religious purposes.
 

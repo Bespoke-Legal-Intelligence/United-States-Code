@@ -42,7 +42,7 @@ Metrics to Measure Progress in Developing and Implementing Plan and Mentoring an
 
 (d)
 
-Definition of Diversity.—In developing and implementing the plan under subsection (a), the Secretary of Defense and the Secretary ofHomeland Security shall develop a uniform definition of diversity.
+Definition of Diversity.—In developing and implementing the plan under subsection (a), the Secretary of Defense and the Secretary of Homeland Security shall develop a uniform definition of diversity.
 
 (e)
 

@@ -10,7 +10,7 @@ The amount of $50,000,000 of fees accumulated under prior investment guaranty pr
 
 #### (c) Priorities of funds for guaranty payments
 
-Any payments made to discharge liabilities under guaranties issued under section 2182 ofthis title or heretofore under this subpart or under prior Latin American or other housing guaranty authorities repealed by the Foreign Assistance Act of 1969, shall be paid first out of fees referred to in subsection (b) (excluding amounts required for purposes other than the discharge of liabilities under guaranties) as long as such fees are available, and thereafter shall be paid out of funds, if any, realized from the sale of currencies or other assets acquired in connection with any payment made to discharge liabilities under such guaranties as long as funds are available, and finally out of funds hereafter made available pursuant to subsection (e).
+Any payments made to discharge liabilities under guaranties issued under section 2182 of this title or heretofore under this subpart or under prior Latin American or other housing guaranty authorities repealed by the Foreign Assistance Act of 1969, shall be paid first out of fees referred to in subsection (b) (excluding amounts required for purposes other than the discharge of liabilities under guaranties) as long as such fees are available, and thereafter shall be paid out of funds, if any, realized from the sale of currencies or other assets acquired in connection with any payment made to discharge liabilities under such guaranties as long as funds are available, and finally out of funds hereafter made available pursuant to subsection (e).
 
 #### (d) Guaranties as obligations backed by full faith and credit of United States
 
@@ -52,7 +52,7 @@ Guaranties shall be issued under section 2182 of this title only for housing pro
 
 #### References in Text
 
-The Foreign Assistance Act of 1969, referred to in subsecs. (b), (c), (d), and (g), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of this subpart by the 1969 Act.
+The Foreign Assistance Act of 1969, referred to in subsecs. (b), (c), (d), and (g), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of this subpart by the 1969 Act.
 
 Section 2200 of this title, referred to in subsec. (d), was in the original a reference to section 240 of this Act, meaning section 240 of Pub. L. 87–195, as added by section 105 of Pub. L. 91–175, which was repealed by section 8(b) of Pub. L. 93–559, and was replaced by section 2182a of this title. Another section 240 of Pub. L. 87–195, as added by section 9 of Pub. L. 95–268, was enacted Apr. 24, 1978, and was classified to section 2200 of this title, prior to repeal by Pub. L. 115–254, div. F, title VI, §1464(2), Oct. 5, 2018, 132 Stat. 3513.
 
@@ -74,7 +74,7 @@ A prior section 223 of Pub. L. 87–195, pt. I, Sept. 4, 1961, 75 Stat. 431, as 
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–113 provided for maintenance of a revolving fund account in the Treasury consisting of fees, earnings from fees, and income from guaranty operations and authorized investment of account funds in obligations of the United States and use of investment income.
 
-<b>1979</b>—Subsec. (f). Pub. L. 96–53, §112(c), substituted "the Department of Housing and Urban Development" for "such Department", and struck out provisions setting forth minimum rate of interest as not less than one-half of one per centum above the then current rate on mortgages insured by the Department of Housing and Urban Development.
+<b>1979</b>—Subsec. (f). Pub. L. 96–53, §112(c), substituted "the Department of Housing and Urban Development"for "such Department", and struck out provisions setting forth minimum rate of interest as not less than one-half of one per centum above the then current rate on mortgages insured by the Department of Housing and Urban Development.
 
 Subsec. (j). Pub. L. 96–53, §112(d), struck out requirement that except for regional projects, guarantees for housing projects be granted to countries receiving or which have received in the two previous years assistance under part I of this subchapter and substituted provisions authorizing face amounts of housing guarantees through September 30, 1982 of not less than $25,000,000 for Israel and Egypt for provisions authorizing face amounts of housing guarantees until September 30, 1978 of an amount not to exceed $75,000,000 in Israel and $30,000,000 in Portugal and Lebanon.
 

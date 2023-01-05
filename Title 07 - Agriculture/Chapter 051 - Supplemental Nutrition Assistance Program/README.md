@@ -10,6 +10,7 @@
 | [2014a.](%C2%A7%2002014a%20-%20Notice%20of%20change%20in%20State%20of%20residence%20of%20certified%20household.md) | Notice of change in State of residence of certified household. |
 | [2015\.](%C2%A7%2002015%20-%20Eligibility%20disqualifications.md) | Eligibility disqualifications. |
 | [2016\.](%C2%A7%2002016%20-%20Issuance%20and%20use%20of%20program%20benefits.md) | Issuance and use of program benefits. |
+| [2016a.](%C2%A7%2002016a%20-%20EBT%20benefit%20fraud%20prevention.md) | EBT benefit fraud prevention. |
 | [2017\.](%C2%A7%2002017%20-%20Value%20of%20allotment.md) | Value of allotment. |
 | [2018\.](%C2%A7%2002018%20-%20Approval%20of%20retail%20food%20stores%20and%20wholesale%20food%20concerns.md) | Approval of retail food stores and wholesale food concerns. |
 | [2019\.](%C2%A7%2002019%20-%20Redemption%20of%20program%20benefits.md) | Redemption of program benefits. |
@@ -51,6 +52,7 @@
 - [&sect; 02014a - Notice of change in State of residence of certified household](%C2%A7%2002014a%20-%20Notice%20of%20change%20in%20State%20of%20residence%20of%20certified%20household.md)
 - [&sect; 02015 - Eligibility disqualifications](%C2%A7%2002015%20-%20Eligibility%20disqualifications.md)
 - [&sect; 02016 - Issuance and use of program benefits](%C2%A7%2002016%20-%20Issuance%20and%20use%20of%20program%20benefits.md)
+- [&sect; 02016a - EBT benefit fraud prevention](%C2%A7%2002016a%20-%20EBT%20benefit%20fraud%20prevention.md)
 - [&sect; 02017 - Value of allotment](%C2%A7%2002017%20-%20Value%20of%20allotment.md)
 - [&sect; 02018 - Approval of retail food stores and wholesale food concerns](%C2%A7%2002018%20-%20Approval%20of%20retail%20food%20stores%20and%20wholesale%20food%20concerns.md)
 - [&sect; 02019 - Redemption of program benefits](%C2%A7%2002019%20-%20Redemption%20of%20program%20benefits.md)

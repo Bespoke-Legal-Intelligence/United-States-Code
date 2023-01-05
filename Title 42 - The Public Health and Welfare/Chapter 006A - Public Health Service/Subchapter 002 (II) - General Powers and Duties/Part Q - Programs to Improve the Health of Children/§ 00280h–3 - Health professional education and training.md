@@ -34,7 +34,7 @@ Development and Dissemination of an Evidence-based Strategies Guide.—The Secre
 
 &emsp;&emsp;&emsp;"(i) optimal resources, including staffing and infrastructure, for promoting nutrition and obesity prevention and reduction; and
 
-&emsp;&emsp;&emsp;"(ii) strategies for effective obesity prevention programs for State, territorial, and local healthdepartments, Indian Tribes, and Tribal organizations, including strategies related to—
+&emsp;&emsp;&emsp;"(ii) strategies for effective obesity prevention programs for State, territorial, and local health departments, Indian Tribes, and Tribal organizations, including strategies related to—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the application of evidence-based and evidence-informed practices to prevent and reduce obesity rates;
 

@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Director shall, using amounts of any grants received under this subchapter, reserve and use for operating under section 4229 of this title such amounts as may be necessary to provide for the continued maintenance and efficient operation of such housing.
+&emsp;The Director shall, using amounts of any grants received under this subchapter, reserve and use for operating under section 4229 of thistitle such amounts as may be necessary to provide for the continued maintenance and efficient operation of such housing.
 
 #### (2) Disposal of certain housing
 

@@ -92,7 +92,7 @@ A plan under this subsection for designating a project (or portion of a project)
 
 No tenant of a public housing project shall be considered to be displaced for purposes of the Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970 \[42 U.S.C. 4601 et seq.\] because of the designation of any existing project or building, or portion thereof, for occupancy as provided under subsection (a) of this section.
 
-(Sept. 1, 1937, ch. 896, title I, §7, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 662; amended Pub. L. 95–557, title IV, §412, Oct. 31, 1978, 92 Stat. 2110; Pub. L. 100–242, title I, §112(b)(3), Feb. 5, 1988, 101 Stat. 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 102–550, title VI, §622(a), Oct. 28, 1992, 106 Stat. 3813; Pub. L. 104–99, title IV, §402(d)(6)(A)(ii), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §10(a), Mar. 28, 1996, 110 Stat. 838; Pub. L. 104–330, title V, §501(b)(4), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §595(d), Oct. 21, 1998, 112 Stat. 2656.)
+(Sept. 1, 1937, ch. 896, title I, §7, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 662; amended Pub. L. 95–557, title IV, §412, Oct. 31, 1978, 92 Stat. 2110; Pub. L. 100–242, title I, §112(b)(3), Feb. 5, 1988, 101 Stat. 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 102–550, title VI, §622(a), Oct. 28, 1992, 106 Stat. 3813; Pub. L. 104–99, title IV, §402(d)(6)(A)(ii), Jan. 26, 1996, 110 Stat. 42;Pub. L. 104–120, §10(a), Mar. 28, 1996, 110 Stat. 838; Pub. L. 104–330, title V, §501(b)(4), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §595(d), Oct. 21, 1998, 112 Stat. 2656.)
 
 #### <b>Editorial Notes</b>
 
@@ -102,7 +102,7 @@ Section 1437n(e)(1)(B) of this title, referred to in subsec. (b), was repealed b
 
 Section 1701q of title 12, referred to in subsec. (d)(2)(D), was amended generally by Pub. L. 101–625, title VIII, §801(a), Nov. 28, 1990, 104 Stat. 4297, and, as so amended, does not contain a subsec. (d)(8) or a definition of the term "related facilities".
 
-The Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970, referred to in subsec. (g), probably means the Uniform Relocation Assistance and Real Property Acquisition Policy Act of 1970, Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+The Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970, referred to in subsec. (g), probably means the Uniform Relocation Assistance and Real Property Acquisition Policy Act of 1970, Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
 #### Prior Provisions
 

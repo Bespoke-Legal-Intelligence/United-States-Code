@@ -2,7 +2,7 @@
 
 #### (a) Appropriation
 
-In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $130,200,000,000, to remain available through December 31, 2024, for making payments under this section to metropolitan cities, nonentitlement units of local government, and counties to mitigate the fiscal effects stemming from the public health emergency with respect to the Coronavirus Disease (COVID–19).
+In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $130,200,000,000, to remain available through December 31, 2024 (except as provided in subsection (c)(6)), for making payments under this section to metropolitan cities, nonentitlement units of local government, and counties to mitigate the fiscal effects stemming from the public health emergency with respect to the Coronavirus Disease (COVID–19).
 
 #### (b) Authority to make payments
 
@@ -44,7 +44,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 &emsp;&emsp;&emsp;&emsp;&emsp;If a State has been granted an extension to the distribution period under subclause (I) but is unable to make all the distributions required under clause (i) before the end of such period as extended, an authorized officer of the State may request an additional extension of the distribution period of not more than 30 days. The Secretary may grant a request for an additional extension of such period only if—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the authorized officer making such request provides a written plan to the Secretary specifying, for each distribution for which an additional extension is requested, when the State expects to make such distribution and the actions the State has taken and will take in order to make all such distributions before the end of the distribution period (as extended under subclause (I) and this subclause); and
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the authorized officer making such request provides a written plan to the Secretary specifying, for eachdistribution for which an additional extension is requested, when the State expects to make such distribution and the actions the State has taken and will take in order to make all such distributions before the end of the distribution period (as extended under subclause (I) and this subclause); and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the Secretary determines that such plan is reasonably designed to distribute all such funds to nonentitlement units of local government by the end of the distribution period (as so extended).
 
@@ -100,7 +100,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 #### (A) First tranche amount
 
-&emsp;&emsp;To the extent practicable, with respect to each metropolitan city for which an amount is allocated under paragraph (1), each State for which an amount is allocated under paragraph (2) for distribution to nonentitlement units of local government, and each county for which an amount is allocated under paragraph (3), the Secretary shall pay from such allocation the First Tranche Amount for such city, State, or county not later than 60 days after March 11, 2021.
+&emsp;&emsp;To the extent practicable, with respect to each metropolitan city for which an amount is allocated under paragraph (1), each State for which an amount is allocated under paragraph (2) for distribution to nonentitlement units of local government, and each county for which an amount is allocated under paragraph (3), the Secretary shall pay from suchallocation the First Tranche Amount for such city, State, or county not later than 60 days after March 11, 2021.
 
 #### (B) Second tranche amount
 
@@ -110,15 +110,21 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 #### (1) Use of funds
 
-&emsp;Subject to paragraph (2), and except as provided in paragraphs (3) and (4), a metropolitan city, nonentitlement unit of local government, or county shall only use the funds provided under a payment made under this section to cover costs incurred by the metropolitan city, nonentitlement unit of local government, or county, by December 31, 2024—
+&emsp;Subject to paragraph (2), and except as provided in paragraphs (3), (4), (5), and (6), a metropolitan city, nonentitlement unit of local government, or county shall only use the funds provided under a payment made under this section to cover costs incurred by the metropolitan city, nonentitlement unit of local government, or county, by December 31, 2024—
 
 &emsp;&emsp;(A) to respond to the public health emergency with respect to the Coronavirus Disease 2019 (COVID–19) or its negative economic impacts, including assistance to households, small businesses, and nonprofits, or aid to impacted industries such as tourism, travel, and hospitality;
 
-&emsp;&emsp;(B) to respond to workers performing essential work during the COVID–19 public health emergency by providing premium pay to eligible workers of the metropolitan city,nonentitlement unit of local government, or county that are performing such essential work, or by providing grants to eligible employers that have eligible workers who perform essential work;
+&emsp;&emsp;(B) to respond to workers performing essential work during the COVID–19 public health emergency by providing premium pay to eligible workers of the metropolitan city, nonentitlement unit of local government, or county that are performing such essential work, or by providing grants to eligible employers that have eligible workers who perform essential work;
 
-&emsp;&emsp;(C) for the provision of government services to the extent of the reduction in revenue of such metropolitan city, nonentitlement unit of local government, or county due to the COVID–19 public health emergency relative to revenues collected in the most recent full fiscal year of the metropolitan city, nonentitlement unit of local government, or county prior to the emergency; or
+&emsp;&emsp;(C) for the provision of government services up to an amount equal to the greater of—
 
-&emsp;&emsp;(D) to make necessary investments in water, sewer, or broadband infrastructure.
+&emsp;&emsp;&emsp;(i) the amount of the reduction in revenue of such metropolitan city, nonentitlement unit of local government, or county due to the COVID–19 public health emergency relative to revenues collected in the most recent full fiscal year of the metropolitan city, nonentitlement unit of local government, or county to the emergency; or
+
+&emsp;&emsp;&emsp;(ii) $10,000,000;
+
+&emsp;&emsp;(D) to make necessary investments in water, sewer, or broadband infrastructure; or
+
+&emsp;&emsp;(E) to provide emergency relief from natural disasters or the negative economic impacts of natural disasters, including temporary emergency housing, food assistance, financial assistance for lost wages, or other immediate needs.
 
 #### (2) Pension funds
 
@@ -126,7 +132,7 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 
 #### (3) Transfer authority
 
-&emsp;A metropolitan city, nonentitlement unit of local government, or county receiving a payment from funds made available under this section may transfer funds to a private nonprofit organization (as that term is defined in section 11360(17) <sup>1</sup> of this title, a public benefit corporation involved in the transportation of passengers or cargo, or a special-purpose unit of State or local government.
+&emsp;A metropolitan city, nonentitlement unit of local government, or county receiving a payment from funds made available under this section may transfer funds to a private nonprofit organization (as that term is defined in section 11360 of this title, a public benefit corporation involved in the transportation of passengers or cargo, or a special-purpose unit of State or local government.
 
 #### (4) Transfers to States
 
@@ -135,6 +141,64 @@ In addition to amounts otherwise available, there is appropriated for fiscal yea
 #### (5) Use of funds to satisfy non-Federal matching, maintenance of effort, or other expenditure requirement
 
 &emsp;Funds provided under this section for an authorized Bureau of Reclamation project may be used for purposes of satisfying any non-Federal matching requirement required for the project.
+
+#### (6) Authority to use funds for certain infrastructure projects
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), notwithstanding any other provision of law, a metropolitan city, nonentitlement unit of local government, or county receiving a payment under this section may use funds provided under such payment for projects described in subparagraph (B) of section 802(c)(5) of this title, including, to the extent consistent with guidance or rules issued by the Secretary or the head of a Federal agency to which the Secretary has delegated authority pursuant to subparagraph (B)(iv)—
+
+&emsp;&emsp;&emsp;(i) in the case of a project eligible under section 117 of title 23 or section 5309 or 6701 of title 49 to satisfy a non-Federal share requirement applicable to such a project; and
+
+&emsp;&emsp;&emsp;(ii) in the case of a project eligible for credit assistance under the TIFIA program under chapter 6 of title 23—
+
+&emsp;&emsp;&emsp;&emsp;(I) to satisfy a non-Federal share requirement applicable to such a project; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to repay a loan provided under such program.
+
+#### (B) Limitations; application of requirements
+
+#### (i) Limitation on amounts to be used for infrastructure projects
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;The total amount that a metropolitan city, nonentitlement unit of local government, or county may use from a payment made under this section for uses described in subparagraph (A) shall not exceed the greater of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) $10,000,000; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) 30 percent of such payment.
+
+#### (II) Rule of application
+
+&emsp;&emsp;&emsp;&emsp;The spending limitation under subclause (I) shall not apply to any use offunds permitted under paragraph (1), and any such use of funds shall be disregarded for purposes of applying such spending limitation.
+
+#### (ii) Limitation on operating expenses
+
+&emsp;&emsp;&emsp;Funds provided under a payment made under this section shall not be used for operating expenses of a project described in clauses (xx) through (xxiv) of section 802(c)(5)(B) of this title.
+
+#### (iii) Application of requirements
+
+&emsp;&emsp;&emsp;Except as otherwise determined by the Secretary or the head of a Federal agency to which the Secretary has delegated authority pursuant to clause (iv) or provided in this section—
+
+&emsp;&emsp;&emsp;&emsp;(I) the requirements of section 1702 of title 47 shall apply to funds provided under a payment made under this section that are used pursuant to subparagraph (A) for a project described in clause (xxvi) of section 802(c)(5)(B) of this title that relates to broadband infrastructure; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the requirements of titles 23, 40, and 49, title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.), and the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et. seq) <sup>1</sup> shall apply to funds provided under a payment made under this section that are used for projects described in section 802(c)(5)(B) of this title.
+
+#### (iv) Oversight
+
+&emsp;&emsp;&emsp;The Secretary may delegate oversight and administration of the requirements described in clause (iii) to the appropriate Federal agency.
+
+#### (v) Supplement, not supplant
+
+&emsp;&emsp;&emsp;Amounts from a payment made under this section that are used by a metropolitan city, nonentitlement unit of local government, or county for uses described in subparagraph (A) shall supplement, and not supplant, other Federal, State, territorial, Tribal, and local government funds (as applicable) otherwise available for such uses.
+
+#### (C) Reports
+
+&emsp;&emsp;The Secretary, in consultation with the Secretary of Transportation, shall provide periodic reports on the use of funds by metropolitan cities, nonentitlement units of local government, or counties under subparagraph (A).
+
+#### (D) Availability
+
+&emsp;&emsp;Funds provided under a payment made under this section to a metropolitan city, nonentitlement unit of local government, or county shall remain available for obligation for a use described in subparagraph (A) through December 31, 2024, except that no amount of such funds may be expended after September 30, 2026.
 
 #### (d) Reporting
 
@@ -192,13 +256,15 @@ In this section:
 
 &emsp;The term "unit of general local government" has the meaning given that term in section 5302(a)(1) of this title.
 
-(Aug. 14, 1935, ch. 531, title VI, §603, as added Pub. L. 117–2, title IX, §9901(a), Mar. 11, 2021, 135 Stat. 228; amended Pub. L. 117–58, div. D, title IX, §40909(b), Nov. 15, 2021, 135 Stat. 1126.)
+(Aug. 14, 1935, ch. 531, title VI, §603, as added Pub. L. 117–2, title IX, §9901(a), Mar. 11, 2021, 135 Stat. 228; amended Pub. L. 117–58, div. D, title IX, §40909(b), Nov. 15, 2021, 135 Stat. 1126; Pub. L. 117–328, div. LL, §102(a)(2), (b), Dec. 29, 2022, 136 Stat. 6101, 6103.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 11360(17) of this title, referred to in subsec. (c)(3), no longer defines the term "private nonprofit organization". However, the term is defined elsewhere in that section.
+The Housing and Community Development Act of 1974, referred to in subsec. (c)(6)(B)(iii)(II), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(6)(B)(iii)(II), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### Prior Provisions
 
@@ -208,9 +274,25 @@ Another prior section 803, act Aug. 14, 1935, ch. 531, title VI, §603, 49 Stat.
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a). Pub. L. 117–328, §102(a)(2)(A), inserted "(except as provided in subsection (c)(6))" after "December 31, 2024".
+
+Subsec. (c)(1). Pub. L. 117–328, §102(a)(2)(B)(i)(I), substituted "paragraphs (3), (4), (5), and (6)" for "paragraphs (3) and (4)" in introductory provisions.
+
+Subsec. (c)(1)(C). Pub. L. 117–328, §102(a)(2)(B)(i)(II), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "for the provision of government services to the extent of the reduction in revenue of such metropolitan city, nonentitlement unit of local government, or county due to the COVID–19 public health emergency relative to revenues collected in the most recent full fiscal year of the metropolitan city, nonentitlement unit of local government, or county prior to the emergency; or".
+
+Subsec. (c)(1)(E). Pub. L. 117–328, §102(a)(2)(B)(i)(III), (IV), added subpar. (E).
+
+Subsec. (c)(3). Pub. L. 117–328, §102(b), substituted "section 11360" for "section 11360(17)".
+
+Subsec. (c)(6). Pub. L. 117–328, §102(a)(2)(B)(ii), added par. (6).
+
 <b>2021</b>—Subsec. (c)(5). Pub. L. 117–58 added par. (5).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 effective upon issuance of guidance or the promulgation of a rule by the Secretary of the Treasury, in consultation with the Secretary of Transportation, see section 102(c) of Pub. L. 117–328, set out as a note under secton 802 of this title.
 
 #### Effective Date of 2021 Amendment
 
@@ -220,5 +302,5 @@ Amendment by Pub. L. 117–58 effective as if included in the enactment of secti
 
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 

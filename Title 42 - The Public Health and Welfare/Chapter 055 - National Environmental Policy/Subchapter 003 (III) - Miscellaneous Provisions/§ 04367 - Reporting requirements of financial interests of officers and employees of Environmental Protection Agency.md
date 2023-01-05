@@ -28,7 +28,7 @@ In the rules prescribed under subsection (b) of this section, the Administrator 
 
 #### (d) Violations; penalties
 
-Any officer or employee who is subject to, and knowingly violates, this section, shall be fined not more than $2,500 or imprisoned not more than one year, or both.
+Any officer or employee who is subject to, and knowingly violates, this section, shall be finednot more than $2,500 or imprisoned not more than one year, or both.
 
 (Pub. L. 95–155, §12, Nov. 8, 1977, 91 Stat. 1263.)
 
@@ -36,7 +36,7 @@ Any officer or employee who is subject to, and knowingly violates, this section,
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1), (2), is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257, as amended, known as the Environmental Research, Development, and Demonstration Authorization Act of 1978, which to the extent classified to the Code enacted sections 300j–3a, 4361a, 4361b, and 4363 to 4367 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a)(1), (2), is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257, known as the Environmental Research, Development, and Demonstration Authorization Act of 1978, which to the extent classified to the Code enacted sections 300j–3a, 4361a, 4361b, and 4363 to 4367 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

@@ -92,7 +92,7 @@ In addition to amounts otherwise available under this section, there are authori
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Subsec. (m). Pub. L. 108–25, §203(c), added subsec. (m).
 
 Subsec. (a)(3). Pub. L. 97–113 struck out par. (3) which prohibited, for fiscal year 1979, funding of the United Nations Institute for Namibia unless the President found that the money would not be used for Southwest African Peoples Organization.
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–533 substituted appropriations authorization of $233,350,000 for fiscal year 1981 for prior authorization of $267,280,000 for fiscal year 1980, including $42,500,000 of this amount for voluntary contributions to the United Nations Relief and WorksAgency for Palestine Refugees, increasable to $52,000,000 upon certification of the President to Congress that members of Organization of Petroleum Exporting Countries have made equivalent matching contributions.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–533 substituted appropriations authorization of $233,350,000 for fiscal year 1981 for prior authorization of $267,280,000 for fiscal year 1980, including $42,500,000 of this amount for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees, increasable to $52,000,000 upon certification of the President to Congress that members of Organization of Petroleum Exporting Countries have made equivalent matching contributions.
 
 <b>1979</b>—Subsec. (a)(1). Pub. L. 96–53 substituted provisions authorizing appropriations of $267,280,000 for fiscal year 1980, for provisions authorizing appropriations of $285,450,000 for fiscal year 1979 and provisions respecting availability of funds for United Nations Trust Fund on South Africa, and the Namibia Institute, and availability of appropriations for fiscal year 1978.
 
@@ -140,7 +140,7 @@ Subsec. (g). Pub. L. 95–424, §604, struck out subsec. (g) which related to av
 
 Subsec. (h). Pub. L. 95–424, §604, struck out subsec. (h) which related to prohibition of expenditures for the United Nations Educational, Scientific, and Cultural Organization.
 
-<b>1977</b>—Subsec. (a)(1). Pub. L. 95–88 struck out provisions which authorized appropriations of $127,822,000 for fiscal year 1974, $165,000,000 for fiscal year 1975, and $194,500,000 for fiscal year 1976, inserted provisions authorizing an appropriation of $252,000,000 for fiscal year 1978, and inserted requirement that, of the funds authorized to be appropriated under subsec. (a) for fiscal year 1978, not to exceed $42,500,000 be available for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–88 struck out provisions which authorized appropriations of $127,822,000 forfiscal year 1974, $165,000,000 for fiscal year 1975, and $194,500,000 for fiscal year 1976, inserted provisions authorizing an appropriation of $252,000,000 for fiscal year 1978, and inserted requirement that, of the funds authorized to be appropriated under subsec. (a) for fiscal year 1978, not to exceed $42,500,000 be available for voluntary contributions to the United Nations Relief and Works Agency for Palestine Refugees.
 
 <b>1976</b>—Subsec. (i). Pub. L. 94–329 added subsec. (i).
 

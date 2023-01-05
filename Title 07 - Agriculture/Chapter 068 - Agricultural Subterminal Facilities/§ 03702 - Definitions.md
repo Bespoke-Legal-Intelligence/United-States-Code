@@ -12,7 +12,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(A) used for the transient storage of bulk agricultural commodities and may include equipment or structures necessary for the transportation, upgrading, receiving, drying, or loading out of such commodities; or
 
-&emsp;&emsp;(B) any rail siding, loading, or unloading facility that can accommodate unit railroadtrains or multiple car trains and other appropriate transportation modes designed for the transport of bulk agricultural commodities and production materials; and
+&emsp;&emsp;(B) any rail siding, loading, or unloading facility that can accommodate unit railroad trains or multiple car trains and other appropriate transportation modes designed for the transport of bulk agricultural commodities and production materials; and
 
 &emsp;(5) "region" means two or more States acting together to develop a coordinated regional subterminal facilities plan.
 

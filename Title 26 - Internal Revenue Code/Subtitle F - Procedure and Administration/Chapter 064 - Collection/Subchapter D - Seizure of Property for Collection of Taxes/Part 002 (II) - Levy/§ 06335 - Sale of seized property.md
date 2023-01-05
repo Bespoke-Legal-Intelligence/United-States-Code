@@ -14,7 +14,7 @@ If any property liable to levy is not divisible, so as to enable the Secretary b
 
 #### (d) Time and place of sale
 
-The time of sale shall not be less than 10 days nor more than 40 days from the time of giving public notice under subsection (b). The place of sale shall be within the county in which theproperty is seized, except by special order of the Secretary.
+The time of sale shall not be less than 10 days nor more than 40 days from the time of giving public notice under subsection (b). The place of sale shall be within the county in which the property is seized, except by special order of the Secretary.
 
 #### (e) Manner and conditions of sale
 

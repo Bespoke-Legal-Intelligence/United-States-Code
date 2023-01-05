@@ -2,7 +2,7 @@
 
 #### (a) Basis of assessment
 
-Except as otherwise provided in this section, the Secretary is authorized to assess fees, based on fair market value, for access to environmental data and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration.
+Except as otherwise provided in this section, the Secretary is authorized to assess fees, basedon fair market value, for access to environmental data and information and products derived therefrom collected and/or archived by the National Oceanic and Atmospheric Administration.
 
 #### (b) Eligible recipients; waiver of fees in cases of foreign governments and international organizations
 
@@ -42,7 +42,7 @@ The Secretary shall, not later than 90 days after November 17, 1988, submit to t
 
 #### (g) Other assessment authorities unaffected
 
-The authority of the Secretary to assess fees under this section shall be in addition to, and shall not be construed to limit, the authority under any other law to assess fees relating tothe environmental data activities of the National Oceanic and Atmospheric Administration, including the authority of the Secretary pursuant to section 1307 of title 44. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under section 1307 of title 44.
+The authority of the Secretary to assess fees under this section shall be in addition to, and shall not be construed to limit, the authority under any other law to assess fees relating to the environmental data activities of the National Oceanic and Atmospheric Administration, including the authority of the Secretary pursuant to section 1307 of title 44. Nothing in this section shall be construed to authorize the Secretary to assess fees for nautical and aeronautical products of the National Oceanic and Atmospheric Administration in addition to those fees authorized under section 1307 of title 44.
 
 (Pub. L. 100–685, title IV, §409, Nov. 17, 1988, 102 Stat. 4100; Pub. L. 101–508, title X, §10201(a), Nov. 5, 1990, 104 Stat. 1388–392.)
 

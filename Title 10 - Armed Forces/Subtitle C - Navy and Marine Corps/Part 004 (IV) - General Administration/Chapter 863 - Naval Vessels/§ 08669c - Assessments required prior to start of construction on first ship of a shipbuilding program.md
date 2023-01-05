@@ -32,7 +32,7 @@ Definitions.—For the purposes of subsection (a):
 
 &emsp;(1)
 
-Basic and functional design.—The term "basic and functional design", when used withrespect to a vessel, means design through computer aided models, that—
+Basic and functional design.—The term "basic and functional design", when used with respect to a vessel, means design through computer aided models, that—
 
 &emsp;&emsp;(A) fixes the major hull structure of the vessel;
 

@@ -16,7 +16,7 @@ Each eligible partnership desiring a grant under this section shall submit an ap
 
 &emsp;(4) a description of—
 
-&emsp;&emsp;(A) how the eligible partnership will coordinate strategies and activities assisted under the grant with other teacher preparation or professional development programs, including programs funded under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] and the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], and through the National Science Foundation; and
+&emsp;&emsp;(A) how the eligible partnership will coordinate strategies and activities assistedunder the grant with other teacher preparation or professional development programs, including programs funded under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] and the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], and through the National Science Foundation; and
 
 &emsp;&emsp;(B) how the activities of the partnership will be consistent with State, local, and other education reform activities that promote teacher quality and student academic achievement;
 
@@ -48,7 +48,7 @@ Each eligible partnership desiring a grant under this section shall submit an ap
 
 &emsp;&emsp;(G) how the partnership will prepare general education and special education teachers to teach students who are limited English proficient;
 
-&emsp;&emsp;(H) how faculty at the partner institution will work, during the term of the grant, with teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individualswith Disabilities Education Act \[20 U.S.C. 1412(a)(14)(C)\], in the classrooms of high-need schools served by the high-need local educational agency in the partnership to—
+&emsp;&emsp;(H) how faculty at the partner institution will work, during the term of the grant, with teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act \[20 U.S.C. 1412(a)(14)(C)\], in the classrooms of high-need schools served by the high-need local educational agency in the partnership to—
 
 &emsp;&emsp;&emsp;(i) provide high-quality professional development activities to strengthen the content knowledge and teaching skills of elementary school and secondary school teachers; and
 
@@ -196,7 +196,7 @@ An eligible partnership that receives a grant to carry out a program for the pre
 
 &emsp;An eligible partnership receiving a grant to carry out an effective teaching residency program shall carry out a program that includes all of the following activities:
 
-&emsp;&emsp;(A) Supporting a teaching residency program described in paragraph (2) for high-need subjects and areas, as determined by the needs of the high-need local educational agency in the partnership.
+&emsp;&emsp;(A) Supporting a teaching residency program described in paragraph (2) for high-need subjects and areas, as determined bythe needs of the high-need local educational agency in the partnership.
 
 &emsp;&emsp;(B) Placing graduates of the teaching residency program in cohorts that facilitate professional collaboration, both among graduates of the teaching residency program and between such graduates and mentor teachers in the receiving school.
 
@@ -436,7 +436,7 @@ Subsec. (b)(6)(H). Pub. L. 114–95, §9214(c)(3)(A), substituted "teachers who 
 
 Subsec. (d)(1)(A)(i)(I). Pub. L. 114–95, §9214(c)(3)(B)(i)(I), substituted "meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act (including teachers in rural school districts, special educators, and teachers of students who are limited English proficient)" for "be highly qualified (including teachers in rural school districts who may teach multiple subjects, special educators, and teachers of students who are limited English proficient who may teach multiple subjects)".
 
-Subsec. (d)(1)(B)(iii). Pub. L. 114–95, §9214(c)(3)(B)(i)(II), substituted "meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act, which may include training in multiple subjects to teach multiple grade levels asmay be needed for individuals preparing to teach in rural communities and for individuals preparing to teach students with disabilities" for "become highly qualified, which may include training in multiple subjects to teach multiple grade levels as may be needed for individuals preparing to teach in rural communities and for individuals preparing to teach students with disabilities as described in section 602(10)(D) of the Individuals with Disabilities Education Act".
+Subsec. (d)(1)(B)(iii). Pub. L. 114–95, §9214(c)(3)(B)(i)(II), substituted "meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act, which may include training in multiple subjects to teach multiple grade levels as may be needed for individuals preparing to teach in rural communities and for individuals preparing to teach students with disabilities" for "become highly qualified, which may include training in multiple subjects to teach multiple grade levels as may be needed for individuals preparing to teach in rural communities and for individuals preparing to teach students with disabilities as described in section 602(10)(D) of the Individuals with Disabilities Education Act".
 
 Subsec. (d)(5). Pub. L. 114–95, §9214(c)(3)(B)(ii), substituted "become teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 612(a)(14)(C) of the Individuals with Disabilities Education Act" for "become highly qualified teachers" in introductory provisions.
 

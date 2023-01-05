@@ -38,7 +38,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 &emsp;&emsp;The information referred to in subparagraph (A) is the following:
 
-&emsp;&emsp;&emsp;(i) An estimate (in ranges) of the maximum amount of hazardous chemicals in each category present at the facility at any time during the preceding calendar year.
+&emsp;&emsp;&emsp;(i) An estimate (in ranges) of the maximum amount of hazardous chemicals in each category present at the facility atany time during the preceding calendar year.
 
 &emsp;&emsp;&emsp;(ii) An estimate (in ranges) of the average daily amount of hazardous chemicals in each category present at the facility during the preceding calendar year.
 
@@ -72,7 +72,7 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (1) Availability to State commissions, local committees, and fire departments
 
-&emsp;Upon request by a State emergency response commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d), to the person makingthe request. Any such request shall be with respect to a specific facility.
+&emsp;Upon request by a State emergency response commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d), to the person making the request. Any such request shall be with respect to a specific facility.
 
 #### (2) Availability to other State and local officials
 
@@ -120,7 +120,7 @@ The Administrator shall publish a uniform format for inventory forms within thre
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1) and (d)(1)(A), (C)(i), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1) and (d)(1)(A), (C)(i), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Amendments
 

@@ -54,7 +54,7 @@ Former chapter 67 of title 39, referred to in subsec. (g), means chapter 67 (§4
 
 <b>2006</b>—Subsec. (d). Pub. L. 109–435, §1010(c)(2), inserted "(as last in effect before enactment of the Postal Accountability and Enhancement Act)" after "section 3626(a)" and after "section 3626(a)(3)(B)(ii)".
 
-Subsec. (e). Pub. L. 109–435, §1010(d)(1), substituted "Committee on Government Reform" for "Committee on Post Office and Civil Service" in introductory and concluding provisions and "Each year," for "Not later than March 15 of each year," in concluding provisions.
+Subsec. (e). Pub. L. 109–435, §1010(d)(1), substituted "Committee on Government Reform" for "Committeeon Post Office and Civil Service" in introductory and concluding provisions and "Each year," for "Not later than March 15 of each year," in concluding provisions.
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–437, in introductory provisions, substituted "Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives" for "Committees on Post Office and Civil Service", and, in concluding provisions, substituted "Committee on Governmental Affairs of the Senate and the Committee on Post Office and Civil Service of the House of Representatives" for "Committees on Post Office and Civil Service of the Senate and the House of Representatives".
 

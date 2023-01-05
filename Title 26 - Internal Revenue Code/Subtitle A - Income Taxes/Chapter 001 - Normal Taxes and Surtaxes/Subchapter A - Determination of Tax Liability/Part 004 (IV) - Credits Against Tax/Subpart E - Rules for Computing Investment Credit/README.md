@@ -8,7 +8,8 @@ Subpart E—Rules for Computing Investment Credit
 | [48A.](%C2%A7%2000048A%20-%20Qualifying%20advanced%20coal%20project%20credit.md) | Qualifying advanced coal project credit. |
 | [48B.](%C2%A7%2000048B%20-%20Qualifying%20gasification%20project%20credit.md) | Qualifying gasification project credit. |
 | [48C.](%C2%A7%2000048C%20-%20Qualifying%20advanced%20energy%20project%20credit.md) | Qualifying advanced energy project credit. |
-| \[48D. | Repealed.\] |
+| [48D.](%C2%A7%2000048D%20-%20Advanced%20manufacturing%20investment%20credit.md) | Advanced manufacturing investment credit. |
+| [48E.](%C2%A7%2000048E%20-%20Clean%20electricity%20investment%20credit.md) | Clean electricity investment credit. |
 | [49\.](%C2%A7%2000049%20-%20At-risk%20rules.md) | At-risk rules. |
 | [50\.](%C2%A7%2000050%20-%20Other%20special%20rules.md) | Other special rules. |
 | \[50A, 50B. | Repealed.\] |
@@ -18,6 +19,10 @@ Subpart E—Rules for Computing Investment Credit
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–169, title I, §13702(b)(5), Aug. 16, 2022, 136 Stat. 1997, added item 48E.
+
+Pub. L. 117–167, div. A, §107(d)(4), Aug. 9, 2022, 136 Stat. 1399, added item 48D.
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(d)(3)(A), Mar. 23, 2018, 132 Stat. 1209, struck out item 48D "Qualifying therapeutic discovery project credit".
 
@@ -54,7 +59,8 @@ Subpart E—Rules for Computing Investment Credit
 - [&sect; 00048A - Qualifying advanced coal project credit](%C2%A7%2000048A%20-%20Qualifying%20advanced%20coal%20project%20credit.md)
 - [&sect; 00048B - Qualifying gasification project credit](%C2%A7%2000048B%20-%20Qualifying%20gasification%20project%20credit.md)
 - [&sect; 00048C - Qualifying advanced energy project credit](%C2%A7%2000048C%20-%20Qualifying%20advanced%20energy%20project%20credit.md)
-- [&sect; 00048D - Repealed. Pub. L. 115&#8211;141, div. U, title IV, &sect;401(d)(3)(A), Mar. 23, 2018, 132 Stat. 1209](%C2%A7%2000048D%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93141%2C%20div.%20U%2C%20title%20IV%2C%20%C2%A7401%28d%29%283%29%28A%29%2C%20Mar.%2023%2C%202018%2C%20132%20Stat.%201209.md)
+- [&sect; 00048D - Advanced manufacturing investment credit](%C2%A7%2000048D%20-%20Advanced%20manufacturing%20investment%20credit.md)
+- [&sect; 00048E - Clean electricity investment credit](%C2%A7%2000048E%20-%20Clean%20electricity%20investment%20credit.md)
 - [&sect; 00049 - At-risk rules](%C2%A7%2000049%20-%20At-risk%20rules.md)
 - [&sect; 00050 - Other special rules](%C2%A7%2000050%20-%20Other%20special%20rules.md)
 - [&sect; 00050A, 50B - Repealed. Pub. L. 98&#8211;369, div. A, title IV, &sect;474(m)(2), July 18, 1984, 98 Stat. 833](%C2%A7%2000050A%2C%2050B%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93369%2C%20div.%20A%2C%20title%20IV%2C%20%C2%A7474%28m%29%282%29%2C%20July%2018%2C%201984%2C%2098%20Stat.%20833.md)

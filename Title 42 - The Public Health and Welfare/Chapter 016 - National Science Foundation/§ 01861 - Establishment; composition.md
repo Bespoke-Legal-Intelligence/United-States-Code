@@ -38,7 +38,7 @@ Pub. L. 114–124, §1, Feb. 18, 2016, 130 Stat. 120, provided that: "This Act \
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–59, §1, Oct. 7, 2015, 129 Stat. 540, provided that: "This Act \[enacting section 1862q of this title, amending sections 1862n–1 and 1862n–1a of this title, and enacting provisions set out as a note under section 6621of this title\] may be cited as the 'STEM Education Act of 2015'."
+Pub. L. 114–59, §1, Oct. 7, 2015, 129 Stat. 540, provided that: "This Act \[enacting section 1862q of this title,amending sections 1862n–1 and 1862n–1a of this title, and enacting provisions set out as a note under section 6621 of this title\] may be cited as the 'STEM Education Act of 2015'."
 
 #### Short Title of 2011 Amendment
 

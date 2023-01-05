@@ -48,7 +48,7 @@
 
 &emsp;&emsp;In the case of a group health plan (or health insurance coverage offered in connection with such a plan) that provides both medical and surgical benefits and mental health or substance use disorder benefits, such plan or coverage shall ensure that—
 
-&emsp;&emsp;&emsp;(i) the financial requirements applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant financial requirements applied to substantially all medical and surgical benefits covered by the plan\(or coverage), and there are no separate cost sharing requirements that are applicable only with respect to mental health or substance use disorder benefits; and
+&emsp;&emsp;&emsp;(i) the financial requirements applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant financial requirements applied to substantially all medical and surgical benefits covered by the plan (or coverage), and there are no separate cost sharing requirements that are applicable only with respect to mental health or substance use disorder benefits; and
 
 &emsp;&emsp;&emsp;(ii) the treatment limitations applicable to such mental health or substance use disorder benefits are no more restrictive than the predominant treatment limitations applied to substantially all medical and surgical benefits covered by the plan (or coverage) and there are no separate treatment limitations that are applicable only with respect to mental health or substance use disorder benefits.
 
@@ -74,7 +74,7 @@
 
 #### (5) Out-of-network providers
 
-&emsp;In the case of a plan or coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that is consistent with the requirements of this section.
+&emsp;In the case of a plan or coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits, if the plan or coverage provides coverage for medical or surgical benefits provided by out-of-network providers, the plan or coverage shall provide coverage for mental health or substance use disorder benefits provided by out-of-network providers in a manner that isconsistent with the requirements of this section.
 
 #### (6) Compliance program guidance document
 
@@ -174,7 +174,7 @@
 
 #### (A) Nonquantitative treatment limitation (NQTL) requirements
 
-&emsp;&emsp;In the case of a group health plan or a health insurance issuer offering group health insurance coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits and that imposes nonquantitative treatment limitations (referred to in this section as "NQTLs") on mental health or substance use disorder benefits, such plan or issuer shall perform and document comparative analyses of the design and application of NQTLs and, beginning 45 days after December 27, 2020, make available to the Secretary, upon request, the comparative analyses and the following information:
+&emsp;&emsp;In the case of a group health plan or a health insurance issuer offering group health insurance coverage that provides both medical and surgical benefits and mental health or substance use disorder benefits and that imposes nonquantitative treatment limitations (referred to in this section as "NQTLs") on mental health or substance usedisorder benefits, such plan or issuer shall perform and document comparative analyses of the design and application of NQTLs and, beginning 45 days after December 27, 2020, make available to the Secretary, upon request, the comparative analyses and the following information:
 
 &emsp;&emsp;&emsp;(i) The specific plan or coverage terms or other relevant terms regarding the NQTLs, that applies to such plan or coverage, and a description of all mental health or substance use disorder and medical or surgical benefits to which each such term applies in each respective benefits classification.
 
@@ -216,7 +216,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a summary of the comparative analyses requested under clause (i), including the identity of each group health plan or health insurance issuer, with respect to certain health insurance coverage that is determined to be not in compliance after the final determination by the Secretary described in clause (iii)(I)(bb);
 
-&emsp;&emsp;&emsp;&emsp;(II) the Secretary's conclusions as to whether each group health plan or health insurance issuer submitted sufficient information for the Secretary to review the comparative analyses requested under clause (i) for compliance with this section;
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary's conclusions as to whether each group health plan or health insurance issuer submitted sufficient information for the Secretary toreview the comparative analyses requested under clause (i) for compliance with this section;
 
 &emsp;&emsp;&emsp;&emsp;(III) for each group health plan or health insurance issuer that did submit sufficient information for the Secretary to review the comparative analyses requested under clause (i), the Secretary's conclusions as to whether and why the plan or issuer is in compliance with the disclosure requirements under this section;
 
@@ -236,7 +236,7 @@
 
 #### (iii) State
 
-&emsp;&emsp;&emsp;The Secretary shall share information on findings of compliance and noncompliance discovered upon reviewing the comparative analyses requested under subparagraph (B)(i) shall be shared with the State where the group health plan is located or the State where the health insurance issuer is licensed to do business for coverage offered by a health insuranceissuer in the group market, in accordance with paragraph (6)(B)(iii)(II).
+&emsp;&emsp;&emsp;The Secretary shall share information on findings of compliance and noncompliance discovered upon reviewing the comparative analyses requested under subparagraph (B)(i) shall be shared with the State where the group health plan is located or the State where the health insurance issuer is licensed to do business for coverage offered by a health insurance issuer in the group market, in accordance with paragraph (6)(B)(iii)(II).
 
 #### (b) Construction
 
@@ -306,7 +306,7 @@ Nothing in this section shall be construed—
 
 &emsp;&emsp;&emsp;A notification to the Secretary under clause (i) shall include—
 
-&emsp;&emsp;&emsp;&emsp;(I) a description of the number of covered lives under the plan (or coverage) involved at the time of the notification, and as applicable, at the time of anyprior election of the cost-exemption under this paragraph by such plan (or coverage);
+&emsp;&emsp;&emsp;&emsp;(I) a description of the number of covered lives under the plan (or coverage) involved at the time of the notification, and as applicable, at the time of any prior election of the cost-exemption under this paragraph by such plan (or coverage);
 
 &emsp;&emsp;&emsp;&emsp;(II) for both the plan year upon which a cost exemption is sought and the year prior, a description of the actual total costs of coverage with respect to medical and surgical benefits and mental health and substance use disorder benefits under the plan; and
 
@@ -368,7 +368,7 @@ The Secretary, in cooperation with the Secretaries of Health and Human Services 
 
 <b>2020</b>—Subsec. (a)(6) to (8). Pub. L. 116–260 added pars. (6) to (8).
 
-<b>2008</b>—Pub. L. 110–343, §512(g)(1)(A), amended section catchline generally. Prior to amendment, catchlineread as follows: "Parity in application of certain limits to mental health benefits".
+<b>2008</b>—Pub. L. 110–343, §512(g)(1)(A), amended section catchline generally. Prior to amendment, catchline read as follows: "Parity in application of certain limits to mental health benefits".
 
 Subsec. (a)(1), (2). Pub. L. 110–343, §512(a)(8), substituted "mental health or substance use disorder benefits" for "mental health benefits" wherever appearing in pars. (1)(introductory provisions), (A), and (B)(ii) and (2)(introductory provisions), (A), and (B)(ii).
 

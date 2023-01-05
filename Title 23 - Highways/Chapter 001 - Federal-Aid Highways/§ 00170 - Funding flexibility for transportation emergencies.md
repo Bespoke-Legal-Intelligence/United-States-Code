@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Notwithstanding any other provision of law, a State may use up to 100 percent of any covered funds of the State to repair or replace a transportation facility that has suffered serious damage as a result of a natural disaster or catastrophic failure from an external cause.
+In General.—Notwithstanding any other provision of law, a State may use up to 100 percent of any covered funds of the State to repairor replace a transportation facility that has suffered serious damage as a result of a natural disaster or catastrophic failure from an external cause.
 
 (b)
 

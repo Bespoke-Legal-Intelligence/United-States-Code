@@ -10,7 +10,7 @@ Any livestock or poultry contract that contains a provision requiring the use of
 
 #### (c) Dispute resolution
 
-Any contract producer or grower that declines a requirement of arbitration pursuant to subsection (b) has the right,<sup>2</sup> to nonetheless seek to resolve any controversy that may arise under the livestock or poultry contract, if, after thecontroversy arises, both parties consent in writing to use arbitration to settle the controversy.
+Any contract producer or grower that declines a requirement of arbitration pursuant to subsection (b) has the right,<sup>2</sup> to nonetheless seek to resolve any controversy that may arise under the livestock or poultry contract, if, after the controversy arises, both parties consent in writing to use arbitration to settle the controversy.
 
 #### (d) Application
 

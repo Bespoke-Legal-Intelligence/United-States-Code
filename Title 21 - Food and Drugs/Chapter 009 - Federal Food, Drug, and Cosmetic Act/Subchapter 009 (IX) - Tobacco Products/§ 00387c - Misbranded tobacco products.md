@@ -24,7 +24,7 @@ A tobacco product shall be deemed to be misbranded—
 
 &emsp;(5) if the Secretary has issued regulations requiring that its labeling bear adequate directions for use, or adequate warnings against use by children, that are necessary for the protection of users unless its labeling conforms in all respects to such regulations;
 
-&emsp;(6) if it was manufactured, prepared, propagated, compounded, or processed in an establishment not duly registered under section 387e(b), 387e(c), 387e(d), or 387e(h) of this title, if it was not included in a list required by section 387e(i) of this title, if a notice or other information respecting it was not provided as required by such section or section 387e(j) of this title, or if it does not bear such symbols fromthe uniform system for identification of tobacco products prescribed under section 387e(e) of this title as the Secretary by regulation requires;
+&emsp;(6) if it was manufactured, prepared, propagated, compounded, or processed in an establishment not duly registered under section 387e(b), 387e(c), 387e(d), or 387e(h) of this title, if it was not included in a list required by section 387e(i) of this title, if a notice or other information respecting it was not provided as required by such section or section 387e(j) of this title, or if it does not bear such symbols from the uniform system for identification of tobacco products prescribed under section 387e(e) of this title as the Secretary by regulation requires;
 
 &emsp;(7) if, in the case of any tobacco product distributed or offered for sale in any State—
 
@@ -40,7 +40,7 @@ A tobacco product shall be deemed to be misbranded—
 
 &emsp;&emsp;&emsp;(i) the uses of the tobacco product and relevant warnings, precautions, side effects, and contraindications; and
 
-&emsp;&emsp;&emsp;(ii) in the case of specific tobacco products made subject to a finding by the Secretary after notice and opportunity for comment that such action is appropriate to protect the public health, a full description of the components of such tobacco product or the formula showing quantitatively each ingredient of such tobacco product to the extent required in regulations which shall be issued by the Secretary after an opportunity for a hearing;
+&emsp;&emsp;&emsp;(ii) in the case of specific tobacco products made subject to a finding by the Secretary after notice and opportunity forcomment that such action is appropriate to protect the public health, a full description of the components of such tobacco product or the formula showing quantitatively each ingredient of such tobacco product to the extent required in regulations which shall be issued by the Secretary after an opportunity for a hearing;
 
 &emsp;(9) if it is a tobacco product subject to a tobacco product standard established under section 387g of this title, unless it bears such labeling as may be prescribed in such tobacco product standard; or
 

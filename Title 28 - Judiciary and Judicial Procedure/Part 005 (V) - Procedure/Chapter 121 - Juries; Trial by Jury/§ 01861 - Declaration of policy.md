@@ -26,7 +26,7 @@ Pub. L. 85–315 substituted "and who has resided for a period of one year withi
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–274, §104, Mar. 27, 1968, 82 Stat. 63, provided that: "This Act \[amending this section and sections 1821, 1862 to 1869, and 1871 of this title, repealing section 867 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section\] shall become effective two hundred and seventy days after the date of enactment \[Mar. 27, 1968\]: <i>Provided</i>, That this Act shall not apply in any case in which an indictment has been returned or petit jury empaneled prior to such effective date."
+Pub. L. 90–274, §104, Mar. 27, 1968, 82 Stat. 63, provided that: "This Act \[amending this section and sections 1821, 1862 to 1869, and 1871 of this title, repealing section 867 of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section\]shall become effective two hundred and seventy days after the date of enactment \[Mar. 27, 1968\]: <i>Provided</i>, That this Act shall not apply in any case in which an indictment has been returned or petit jury empaneled prior to such effective date."
 
 #### Short Title of 1978 Amendment
 

@@ -74,7 +74,7 @@ Mar. 23, 1966, Pub. L. 89–373, §1, 80 Stat. 78.
 
 In subsection (a), "Civil Service Commission" is substituted for "Commission" on authority of former 5 U.S.C. 2091(a).
 
-In subsection (c), "Commission" is substituted for "Civil Service Commission" for consistency of style.The full title of the Commission is set forth the first time it is used in a section.
+In subsection (c), "Commission" is substituted for "Civil Service Commission" for consistency of style. The full title of the Commission is set forth the first time it is used in a section.
 
 #### <b>Editorial Notes</b>
 

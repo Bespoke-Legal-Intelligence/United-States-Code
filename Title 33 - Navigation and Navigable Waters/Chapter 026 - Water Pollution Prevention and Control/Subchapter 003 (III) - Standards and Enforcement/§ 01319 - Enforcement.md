@@ -2,7 +2,7 @@
 
 #### (a) State enforcement; compliance orders
 
-(1) Whenever, on the basis of any information available to him, the Administrator finds that any person is in violation of any condition or limitation which implements section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title in a permit issued by a State under an approved permit program under section 1342 or 1344 of this title he shall proceed under his authority in paragraph (3) of this subsection or he shall notify the person in alleged violation and such State of such finding. If beyond the thirtieth day after the Administrator's notification the State has not commenced appropriate enforcement action, the Administrator shall issue an order requiring such person to comply with such condition or limitation or shall bring a civil action in accordance with subsection (b) of this section.
+(1) Whenever, on the basis of any information available to him, the Administrator finds that any person is in violation of any condition or limitation which implements section 1311, 1312, 1316, 1317, 1318, 1328, or 1345 of this title in a permit issued by a State under an approved permitprogram under section 1342 or 1344 of this title he shall proceed under his authority in paragraph (3) of this subsection or he shall notify the person in alleged violation and such State of such finding. If beyond the thirtieth day after the Administrator's notification the State has not commenced appropriate enforcement action, the Administrator shall issue an order requiring such person to comply with such condition or limitation or shall bring a civil action in accordance with subsection (b) of this section.
 
 (2) Whenever, on the basis of information available to him, the Administrator finds that violations of permit conditions or limitations as set forth in paragraph (1) of this subsection are so widespread that such violations appear to result from a failure of the State to enforce such permit conditions or limitations effectively, he shall so notify the State. If the Administrator finds such failure extends beyond the thirtieth day after such notice, he shall give public notice of such finding. During the period beginning with such public notice and ending when such State satisfies the Administrator that it will enforce such conditions and limitations (hereafter referred to in this section as the period of "federally assumed enforcement"), except where an extension has been granted under paragraph (5)(B) of this subsection, the Administrator shall enforce any permit condition or limitation with respect to any person—
 
@@ -72,13 +72,13 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 &emsp;&emsp;&nbsp;and such defense may be established under this subparagraph by a preponderance of the evidence;
 
-&emsp;&emsp;&emsp;(iii) the term "organization" means a legal entity, other than a government, established or organized for any purpose, and such term includes a corporation, company, association, firm, partnership, jointstock company, foundation, institution, trust, society, union, or any other association of persons; and
+&emsp;&emsp;&emsp;(iii) the term "organization" means a legal entity, other than a government, established or organized for any purpose, and such term includes a corporation, company, association, firm, partnership, joint stock company, foundation, institution, trust, society, union, or any other association of persons; and
 
 &emsp;&emsp;&emsp;(iv) the term "serious bodily injury" means bodily injury which involves a substantial risk of death, unconsciousness, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
 #### (4) False statements
 
-&emsp;Any person who knowingly makes any false material statement, representation, or certification in any application, record, report, plan, or other document filed or required to be maintained under this chapter or who knowingly falsifies, tampers with, or renders inaccurate any monitoring device or method required to be maintained under this chapter, shall upon conviction, be punished by a fine of not more than $10,000, or by imprisonment for not more than 2 years, or by both. If a conviction of a person is for a violation committed after a first conviction of such person under this paragraph, punishment shall be by a fine of not more than $20,000 per day of violation, or by imprisonment of not more than 4 years, or by both.
+&emsp;Any person who knowingly makes any false material statement, representation, or certification in any application, record, report, plan,or other document filed or required to be maintained under this chapter or who knowingly falsifies, tampers with, or renders inaccurate any monitoring device or method required to be maintained under this chapter, shall upon conviction, be punished by a fine of not more than $10,000, or by imprisonment for not more than 2 years, or by both. If a conviction of a person is for a violation committed after a first conviction of such person under this paragraph, punishment shall be by a fine of not more than $20,000 per day of violation, or by imprisonment of not more than 4 years, or by both.
 
 #### (5) Treatment of single operational upset
 
@@ -110,11 +110,11 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;Whenever on the basis of any information available—
 
-&emsp;&emsp;(A) the Administrator finds that any person has violated section 1311, 1312, 1316, 1317, 1318, 1322(p), 1328, or 1345 of this title, or hasviolated any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or in a permit issued under section 1344 of this title by a State, or
+&emsp;&emsp;(A) the Administrator finds that any person has violated section 1311, 1312, 1316, 1317, 1318, 1322(p), 1328, or 1345 of this title, or has violated any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or in a permit issued under section 1344 of this title by a State, or
 
 &emsp;&emsp;(B) the Secretary of the Army (hereinafter in this subsection referred to as the "Secretary") finds that any person has violated any permit condition or limitation in a permit issued under section 1344 of this title by the Secretary,
 
-> &emsp;the Administrator or Secretary, as the case may be, may, after consultation with the State in which the violation occurs, assess a class I civil penalty or a class II civil penalty under this subsection.
+> &emsp;the Administrator or Secretary, as the case may be, may, after consultation with theState in which the violation occurs, assess a class I civil penalty or a class II civil penalty under this subsection.
 
 #### (2) Classes of penalties
 
@@ -158,7 +158,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;&emsp;&emsp;(ii) with respect to which a State has commenced and is diligently prosecuting an action under a State law comparable to this subsection, or
 
-&emsp;&emsp;&emsp;(iii) for which the Administrator, the Secretary, or the State has issued a finalorder not subject to further judicial review and the violator has paid a penalty assessed under this subsection, or such comparable State law, as the case may be,
+&emsp;&emsp;&emsp;(iii) for which the Administrator, the Secretary, or the State has issued a final order not subject to further judicial review and the violator has paid a penalty assessed under this subsection, or such comparable State law, as the case may be,
 
 > &emsp;&emsp;shall not be the subject of a civil penalty action under subsection (d) of this section or section 1321(b) of this title or section 1365 of this title.
 
@@ -210,9 +210,9 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (2) Modification
 
-&emsp;Any municipality under an administrative order under subsection (a) or settlementagreement (including a judicial consent decree) under subsection (b) that has developed an integrated plan consistent with section 1342(s) of this title may request a modification of the administrative order or settlement agreement based on that integrated plan.
+&emsp;Any municipality under an administrative order under subsection (a) or settlement agreement (including a judicial consent decree) under subsection (b) that has developed an integrated plan consistent with section 1342(s) of this title may request a modification of the administrative order or settlement agreement based on that integrated plan.
 
-(June 30, 1948, ch. 758, title III, §309, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 859; amended Pub. L. 95–217, §§54(b), 55, 56, 67(c)(2), Dec. 27, 1977, 91 Stat. 1591, 1592, 1606; Pub. L. 100–4, title III, §§312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, 101 Stat. 42, 45, 46; Pub. L. 101–380, title IV, §4301(c), Aug. 18, 1990, 104 Stat. 537; Pub. L. 115–282, title IX, §903(c)(2), Dec. 4, 2018, 132 Stat. 4356; Pub. L. 115–436, §3(b), Jan. 14, 2019, 132 Stat. 5560.)
+(June 30, 1948, ch. 758, title III, §309, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 859; amended Pub. L. 95–217, §§54(b), 55, 56, 67(c)(2), Dec. 27, 1977, 91 Stat. 1591, 1592, 1606; Pub. L. 100–4, title III, §§312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, 101 Stat. 42, 45, 46; Pub. L. 101–380, title IV, §4301(c), Aug. 18, 1990, 104 Stat. 537; Pub.L. 115–282, title IX, §903(c)(2), Dec. 4, 2018, 132 Stat. 4356; Pub. L. 115–436, §3(b), Jan. 14, 2019, 132 Stat. 5560.)
 
 #### <b>Editorial Notes</b>
 
@@ -280,7 +280,7 @@ Pub. L. 100–4, title III, §313(b)(2), Feb. 4, 1987, 101 Stat. 45, provided th
 
 #### Actions by Surgeon General Relating to Interstate Pollution
 
-Act July 9, 1956, ch. 518, §5, 70 Stat. 507, provided that actions by the Surgeon General with respect to water pollutants under section 2(d) of act June 30, 1948, ch. 758, 62 Stat. 1155, as in effect prior to July 9, 1956, which had been completed prior to such date, would still be subject to the terms of section 2(d) of act June 30, 1948, in effect prior to the July 9, 1956 amendment, but that actions with respect to such pollutants would nevertheless subsequently be possible in accordance with theterms of act June 30, 1948, as amended by act July 9, 1956.
+Act July 9, 1956, ch. 518, §5, 70 Stat. 507, provided that actions by the Surgeon General with respect to water pollutants under section 2(d) of act June 30, 1948, ch. 758, 62 Stat. 1155, as in effect prior to July 9, 1956, which had been completed prior to such date, would still be subject to the terms of section 2(d) of act June 30, 1948, in effect prior to the July 9, 1956 amendment, but that actions with respect to such pollutants would nevertheless subsequently be possible in accordance with the terms of act June 30, 1948, as amended by act July 9, 1956.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

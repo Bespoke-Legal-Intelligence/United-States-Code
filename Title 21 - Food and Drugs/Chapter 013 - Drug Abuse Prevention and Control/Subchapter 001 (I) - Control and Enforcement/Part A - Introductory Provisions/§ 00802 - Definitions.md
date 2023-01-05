@@ -46,9 +46,9 @@ As used in this subchapter:
 
 (15) The term "manufacture" means the production, preparation, propagation, compounding, or processing of a drug or other substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of such substance or labeling or relabeling of its container; except that such term does not include the preparation, compounding, packaging, or labeling of a drug or other substance in conformity with applicable State or local law by a practitioner as an incident to his administration or dispensing of such drug or substance in the course of his professional practice. The term "manufacturer" means a person who manufactures a drug or other substance.
 
-(16)(A) Subject to subparagraph (B), the term "marihuana" means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin.
+(16)(A) Subject to subparagraph (B), the terms "marihuana" and "marijuana" mean all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin.
 
-(B) The term "marihuana" does not include—
+(B) The terms "marihuana" and "marijuana" do not include—
 
 &emsp;(i) hemp, as defined in section 1639o of title 7; or
 
@@ -68,7 +68,7 @@ As used in this subchapter:
 
 &emsp;(F) Any compound, mixture, or preparation which contains any quantity of any of the substances referred to in subparagraphs (A) through (E).
 
-(18) The term "opiate" or "opioid" means any drug or other substance having an addiction-forming or addiction-sustaining liability similar to morphine or being capable of conversion intoa drug having such addiction-forming or addiction-sustaining liability.
+(18) The term "opiate" or "opioid" means any drug or other substance having an addiction-forming or addiction-sustaining liability similarto morphine or being capable of conversion into a drug having such addiction-forming or addiction-sustaining liability.
 
 (19) The term "opium poppy" means the plant of the species Papaver somniferum L., except the seed thereof.
 
@@ -496,11 +496,11 @@ As used in this subchapter:
 
 &emsp;(B) does not include—
 
-&emsp;&emsp;(i) manufacturers or distributors registered under subsection (a), (b), (d), or (e) of section 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
+&emsp;&emsp;(i) manufacturers or distributors registered under subsection (a), (b), (e), or (f) of section 823 of this title who do not dispense controlled substances to an unregistered individual or entity;
 
-&emsp;&emsp;(ii) nonpharmacy practitioners who are registered under section 823(f) of this title and whose activities are authorized by that registration;
+&emsp;&emsp;(ii) nonpharmacy practitioners who are registered under section 823(g) of this title and whose activities are authorized by that registration;
 
-&emsp;&emsp;(iii) any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under section 823(f) of this title;
+&emsp;&emsp;(iii) any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under section 823(g) of this title;
 
 &emsp;&emsp;(iv) a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act \[25 U.S.C. 5301 et seq.\];
 
@@ -510,7 +510,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(vii) a person, entity, or Internet site that is not in the United States and does not facilitate the delivery, distribution, or dispensing of a controlled substance by means of the Internet to any person in the United States;
 
-&emsp;&emsp;(viii) a pharmacy registered under section 823(f) of this title whose dispensing of controlled substances via the Internet consists solely of—
+&emsp;&emsp;(viii) a pharmacy registered under section 823(g) of this title whose dispensing of controlled substances via the Internet consists solely of—
 
 &emsp;&emsp;&emsp;(I) refilling prescriptions for controlled substances in schedule III, IV, or V, as defined in paragraph (55); or
 
@@ -524,7 +524,7 @@ As used in this subchapter:
 
 &emsp;(A) is being conducted—
 
-&emsp;&emsp;(i) while the patient is being treated by, and physically located in, a hospital or clinic registered under section 823(f) of this title; and
+&emsp;&emsp;(i) while the patient is being treated by, and physically located in, a hospital or clinic registered under section 823(g) of this title; and
 
 &emsp;&emsp;(ii) by a practitioner—
 
@@ -532,7 +532,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(II) acting in accordance with applicable State law; and
 
-&emsp;&emsp;&emsp;(III) registered under section 823(f) of this title in the State in which the patient is located, unless the practitioner—
+&emsp;&emsp;&emsp;(III) registered under section 823(g) of this title in the State in which the patient is located, unless the practitioner—
 
 &emsp;&emsp;&emsp;&emsp;(aa) is exempted from such registration in all States under section 822(d) of this title; or
 
@@ -540,7 +540,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(AA) an employee or contractor of the Department of Veterans Affairswho is acting in the scope of such employment or contract; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(BB) registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title;
+&emsp;&emsp;&emsp;&emsp;&emsp;(BB) registered under section 823(g) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title;
 
 &emsp;(B) is being conducted while the patient is being treated by, and in the physical presence of, a practitioner—
 
@@ -548,7 +548,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(ii) acting in accordance with applicable State law; and
 
-&emsp;&emsp;(iii) registered under section 823(f) of this title in the State in which the patient is located, unless the practitioner—
+&emsp;&emsp;(iii) registered under section 823(g) of this title in the State in which the patient is located, unless the practitioner—
 
 &emsp;&emsp;&emsp;(I) is exempted from such registration in all States under section 822(d) of this title; or
 
@@ -556,7 +556,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(aa) an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) registered under section 823(f) of this title in any State or is using the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title;
+&emsp;&emsp;&emsp;&emsp;(bb) registered under section 823(g) of this title in any State or is using the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title;
 
 &emsp;(C) is being conducted by a practitioner—
 
@@ -576,9 +576,9 @@ As used in this subchapter:
 
 &emsp;&emsp;(i) in a medical emergency situation—
 
-&emsp;&emsp;&emsp;(I) that prevents the patient from being in the physical presence of a practitioner registered under section 823(f) of this title who is an employee or contractor of the Veterans Health Administration acting in the usual course of business and employment and within the scope of the official duties or contract of that employee or contractor;
+&emsp;&emsp;&emsp;(I) that prevents the patient from being in the physical presence of a practitioner registered under section 823(g) of this title who is an employee or contractor of the Veterans Health Administration acting in the usual course of business and employment and within the scope of the official duties or contract of that employee or contractor;
 
-&emsp;&emsp;&emsp;(II) that prevents the patient from being physically present at a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title;
+&emsp;&emsp;&emsp;(II) that prevents the patient from being physically present at a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title;
 
 &emsp;&emsp;&emsp;(III) during which the primary care practitioner of the patient or a practitioner otherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
 
@@ -588,7 +588,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;(I) is an employee or contractor of the Veterans Health Administration acting within the scope of that employment or contract;
 
-&emsp;&emsp;&emsp;(II) is registered under section 823(f) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(f) of this title; and
+&emsp;&emsp;&emsp;(II) is registered under section 823(g) of this title in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under section 823(g) of this title; and
 
 &emsp;&emsp;&emsp;(III) issues a controlled substance prescription in this emergency context that is limited to a maximum of a 5-day supply which may not be extended or refilled; or
 
@@ -628,7 +628,7 @@ As used in this subchapter:
 
 &emsp;(B) any offense that would be a felony violation of section 113 of title 18, if the offense were committed in the special maritime and territorial jurisdiction of the United States, for which the offender served a term of imprisonment of more than 12 months.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, §303(a)(2), July 22, 2016, 130 Stat. 722; Pub. L. 115–271, title III, §§3202(c), 3292(a), Oct. 24, 2018, 132 Stat. 3945, 3956; Pub. L. 115–334, title XII, §12619(a), Dec. 20, 2018, 132 Stat. 5018; Pub. L. 115–391, title IV, §401(a)(1), Dec. 21, 2018, 132 Stat. 5220.)
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808; Pub. L. 108–358, §2(a), Oct. 22, 2004, 118 Stat. 1661; Pub. L. 109–162, title XI, §1180, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 109–177, title VII, §§711(a)(1), (2)(A), 712(a)(1), Mar. 9, 2006, 120 Stat. 256, 257, 263; Pub. L. 110–425, §3(a), Oct. 15, 2008, 122 Stat. 4821; Pub. L. 113–260, §2(a), Dec. 18, 2014, 128 Stat. 2929; Pub. L. 114–198, title III, §303(a)(2), July 22, 2016, 130 Stat. 722; Pub. L. 115–271, title III, §§3202(c), 3292(a), Oct. 24, 2018, 132 Stat. 3945, 3956; Pub. L. 115–334, title XII, §12619(a), Dec. 20, 2018, 132 Stat. 5018; Pub. L. 115–391, title IV, §401(a)(1), Dec. 21, 2018, 132 Stat. 5220; Pub. L. 117–215, §2(b), title I, §103(b)(1)(A), Dec. 2, 2022, 136 Stat. 2258, 2262.)
 
 #### <b>Editorial Notes</b>
 
@@ -647,6 +647,16 @@ This chapter, referred to in par. (41)(C)(i), was in the original "this Act", me
 The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Par. (16)(A). Pub. L. 117–215, §2(b)(1), substituted "the terms 'marihuana' and 'marijuana' mean" for "the term 'marihuana' means".
+
+Par. (16)(B). Pub. L. 117–215, §2(b)(2), substituted "The terms 'marihuana' and 'marijuana' do not" for "The term 'marihuana' does not" in introductory provisions.
+
+Par. (52)(B). Pub. L. 117–215, §103(b)(1)(A)(i)(I), substituted "823(g)" for "823(f)" wherever appearing.
+
+Par. (52)(B)(i). Pub. L. 117–215, §103(b)(1)(A)(i)(II), substituted "(e), or (f)" for "(d), or (e)".
+
+Par. (54). Pub. L. 117–215, §103(b)(1)(A)(ii), substituted "823(g)" for "823(f)" wherever appearing.
 
 <b>2018</b>—Par. (16). Pub. L. 115–334 designated first sentence as subpar. (A), substituted "Subject to subparagraph (B), the" for "The", inserted subpar. (B) designation, introductory provisions, and cl. (i), designated second sentence as cl. (ii) of subpar. (B), and substituted "the" for "Such term does not include the" in cl. (ii).
 
@@ -748,7 +758,7 @@ Par. (35). Pub. L. 103–200, §2(a)(4)(A), (C), substituted "list II chemical" 
 
 Pub. L. 103–200, §2(a)(4)(B), as amended by Pub. L. 103–322, §330024(d)(1), inserted "(other than a list I chemical)" before "specified" the first time appearing.
 
-Par. (37). Pub. L. 103–200, §9(a), amended par. (37) generally. Prior to amendment, par. (37) read as follows: "The term 'regular supplier' means, with respect to a regulated person, a supplier with whom the regulated person has an established business relationship that is reported to the Attorney General."
+Par. (37). Pub. L. 103–200, §9(a), amended par. (37) generally. Prior to amendment, par. (37) read as follows: "The term 'regular supplier' means, with respect to a regulated person, a supplier with whom the regulatedperson has an established business relationship that is reported to the Attorney General."
 
 Par. (38). Pub. L. 103–200, §2(a)(5), inserted before period at end "or who acts as a broker or trader for an international transaction involving a listed chemical, a tableting machine, or an encapsulating machine".
 
@@ -850,7 +860,7 @@ Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808,
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–310, div. B, title XXXVI, §3622(b), Oct. 17, 2000, 114 Stat. 1231, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Oct. 17, 2000\]."
+Pub. L. 106–310, div. B, title XXXVI, §3622(b), Oct. 17, 2000, 114 Stat. 1231, provided that: "The amendmentsmade by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Oct. 17, 2000\]."
 
 #### Effective Date of 1997 Amendment
 
@@ -858,7 +868,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1996 Amendments
 
-Amendment by section 604(b)(4) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L.104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
+Amendment by section 604(b)(4) of Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
 
 Pub. L. 104–237, title IV, §401(g), Oct. 3, 1996, 110 Stat. 3110, provided that: "Notwithstanding any other provision of this Act \[see section 1(a) of Pub. L. 104–237, set out as a Short Title of 1996 Amendments note under section 801 of this title\], this section \[amending this section and section 814 of this title and enacting provisions set out as a note below\] shall not apply to the sale of any pseudoephedrine or phenylpropanolamine product prior to 12 months after the date of enactment of this Act \[Oct. 3, 1996\], except that, on application of a manufacturer of a particular pseudoephedrine or phenylpropanolamine drug product, the Attorney General may, in her sole discretion, extend such effective date up to an additional six months. Notwithstanding any other provision of law, the decision of the Attorney General on such an application shall not be subject to judicial review."
 
@@ -926,7 +936,7 @@ Elements.—The report shall include—
 
 &emsp;"(3)
 
-Matters considered.—In preparing the report, the Attorney General shall consider the comments and recommendations including the comments on theAttorney General's proposed findings and recommendations, of State and local law enforcement and regulatory officials and of representatives of the industry described in subsection (a)(2).
+Matters considered.—In preparing the report, the Attorney General shall consider the comments and recommendations including the comments on the Attorney General's proposed findings and recommendations, of State and local law enforcement and regulatory officials and of representatives of the industry described in subsection (a)(2).
 
 "(c)
 

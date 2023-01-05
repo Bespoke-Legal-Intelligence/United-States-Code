@@ -74,7 +74,7 @@ In this section:
 
 #### (1) Spallation Neutron Source Project
 
-&emsp;There is authorized to be appropriated to carry out the Spallation Neutron SourceProject for the lifetime of the Project $1,411,700,000 for total project costs, of which—
+&emsp;There is authorized to be appropriated to carry out the Spallation Neutron Source Project for the lifetime of the Project $1,411,700,000 for total project costs, of which—
 
 &emsp;&emsp;(A) $1,192,700,000 shall be used for the costs of construction; and
 

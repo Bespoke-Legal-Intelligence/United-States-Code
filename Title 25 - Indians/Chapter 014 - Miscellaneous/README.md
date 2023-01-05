@@ -102,7 +102,7 @@
 
 |  |  |
 | :--- | ---: |
-| 565 to 565g. | Omitted. |
+| 565 to 565g. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

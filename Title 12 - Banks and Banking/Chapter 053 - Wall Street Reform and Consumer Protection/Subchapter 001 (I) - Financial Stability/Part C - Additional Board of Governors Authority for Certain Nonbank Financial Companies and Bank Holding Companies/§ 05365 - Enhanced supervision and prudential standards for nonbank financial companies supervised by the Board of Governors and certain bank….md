@@ -18,7 +18,7 @@
 
 #### (B) Adjustment of threshold for application of certain standards
 
-&emsp;&emsp;The Board of Governors may, pursuant to a recommendation by the Council in accordance with section 5325 of this title, establish an asset threshold above the applicable threshold for the application of any standard established under subsections (c) through (g).
+&emsp;&emsp;The Board of Governors may, pursuant to a recommendation by the Council in accordance with section 5325 of this title, establish an asset threshold above the applicable threshold for the application of any standardestablished under subsections (c) through (g).
 
 #### (C) Risks to financial stability and safety and soundness
 
@@ -238,7 +238,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 #### (2) Basis of limit
 
-&emsp;Any limit prescribed under paragraph (1) shall be based on the short-term debt of the company described in paragraph (1) as a percentage of capital stock and surplus of the company or on such other measure as the Board of Governors considers appropriate.
+&emsp;Any limit prescribed under paragraph (1) shall be based on the short-term debt of thecompany described in paragraph (1) as a percentage of capital stock and surplus of the company or on such other measure as the Board of Governors considers appropriate.
 
 #### (3) Short-term debt defined
 
@@ -262,7 +262,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 #### (A) Mandatory regulations
 
-&emsp;&emsp;The Board of Governors shall issue regulations requiring each bank holding companythat is a publicly traded company and that has total consolidated assets of not less than $50,000,000,000 to establish a risk committee, as set forth in paragraph (3).
+&emsp;&emsp;The Board of Governors shall issue regulations requiring each bank holding company that is a publicly traded company and that has total consolidated assets of not less than $50,000,000,000 to establish a risk committee, as set forth in paragraph (3).
 
 #### (B) Permissive regulations
 
@@ -308,7 +308,7 @@ The Board of Governors may prescribe, by regulation, periodic public disclosures
 
 #### (A) Requirement
 
-&emsp;&emsp;A nonbank financial company supervised by the Board of Governors and a bank holding company described in subsection (a) shall conduct periodic stress tests. All other financial companies that have total consolidated assets of more than $250,000,000,000 and are regulated by a primary Federal financial regulatory agency shall conduct periodic stress tests. The tests required under this subparagraph shall be conducted in accordance with the regulations prescribed under subparagraph (C).
+&emsp;&emsp;A nonbank financial company supervised by the Board of Governors and a bank holding company described in subsection (a) shall conduct periodic stress tests. All otherfinancial companies that have total consolidated assets of more than $250,000,000,000 and are regulated by a primary Federal financial regulatory agency shall conduct periodic stress tests. The tests required under this subparagraph shall be conducted in accordance with the regulations prescribed under subparagraph (C).
 
 #### (B) Report
 

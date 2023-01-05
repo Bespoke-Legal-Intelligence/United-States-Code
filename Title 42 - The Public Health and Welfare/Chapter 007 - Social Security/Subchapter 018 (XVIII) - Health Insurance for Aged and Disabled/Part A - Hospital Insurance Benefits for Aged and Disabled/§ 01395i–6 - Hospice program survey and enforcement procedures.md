@@ -4,7 +4,7 @@
 
 #### (1) Frequency
 
-&emsp;Any entity that is certified as a hospice program (as defined in section 1395x(dd)(2)) of this title shall be subject to a standard survey by an appropriate State or local survey agency, or an approved accreditation agency, as determined by the Secretary, not less frequently than once every 36 months.
+&emsp;Any entity that is certified as a hospice program (as defined in section 1395x(dd)(2) of this title) shall be subject to a standard survey by an appropriate State or local survey agency, or an approved accreditation agency, as determined by the Secretary, not less frequently than once every 36 months.
 
 #### (2) Public transparency of survey and certification information
 
@@ -38,7 +38,7 @@
 
 #### (C) Training
 
-&emsp;&emsp;The Secretary shall provide, not later than October 1, 2021, for the comprehensive training of State and Federal surveyors, and any surveyor employed by a national accreditation body described in paragraph (2)(A)(i), in the conduct of surveys under this subsection, including training with respect to the review of written plans for providing hospice care (as described in section 1395f(a)(7)(B) of this title). No individual shall serve as a member of a survey teamwith respect to a survey conducted on or after such date unless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
+&emsp;&emsp;The Secretary shall provide, not later than October 1, 2021, for the comprehensive training of State and Federal surveyors, and any surveyor employed by a national accreditation body described in paragraph (2)(A)(i), in the conduct of surveys under this subsection, including training with respect to the review of written plans for providing hospice care (as described in section 1395f(a)(7)(B) of this title). No individual shall serve as a member of a survey team with respect to a survey conducted on or after such date unless the individual has successfully completed a training and testing program in survey and certification techniques that has been approved by the Secretary.
 
 #### (5) Funding
 
@@ -122,11 +122,11 @@
 
 #### (ii) Suspension of payment
 
-&emsp;&emsp;&emsp;&emsp;A finding to suspend payment under subparagraph (B)(ii) shall terminate when the Secretary finds that the program is in substantial compliance with all requirements of section 1395x(dd) of this title.
+&emsp;&emsp;&emsp;A finding to suspend payment under subparagraph (B)(ii) shall terminate when the Secretary finds that the program is in substantial compliance with all requirements of section 1395x(dd) of this title.
 
 #### (iii) Temporary management
 
-&emsp;&emsp;&emsp;&emsp;The temporary management under subparagraph (B)(iii) shall not be terminated until the Secretary has determined that the program has the management capability to ensure continued compliance with all the requirements referred to in such subparagraph.
+&emsp;&emsp;&emsp;The temporary management under subparagraph (B)(iii) shall not be terminated until the Secretary has determined that the program has the management capability to ensure continued compliance with all the requirements referred to in such subparagraph.
 
 #### (D) Relationship to other remedies
 

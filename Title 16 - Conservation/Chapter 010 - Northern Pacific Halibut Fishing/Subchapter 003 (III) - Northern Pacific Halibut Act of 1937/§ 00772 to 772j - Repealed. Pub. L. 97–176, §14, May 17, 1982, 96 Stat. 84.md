@@ -16,7 +16,7 @@ Section 772f, act June 28, 1937, ch. 392, §7, 50 Stat. 328; 1939 Reorg. Plan No
 
 Section 772g, act June 28, 1937, ch. 392, §8, 50 Stat. 328, exempted the Commission and its agents when engaged in scientific investigations from the prohibitions of the subchapter.
 
-Section 772h, act June 28, 1937, ch. 392, §9, 50 Stat. 328; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R.2731, 53 Stat. 1433; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, authorized promulgation of rules and regulations. See section 773c of this title.
+Section 772h, act June 28, 1937, ch. 392, §9, 50 Stat. 328; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, authorized promulgation of rules and regulations. See section 773c of this title.
 
 Section 772i, act June 28, 1937, ch. 392, §10, 50 Stat. 328, set the effective date for the Northern Pacific Halibut Act of 1937 as the date of exchange of ratifications of the Convention of January 29, 1937, signed by the United States and Canada \[July 28, 1937\].
 

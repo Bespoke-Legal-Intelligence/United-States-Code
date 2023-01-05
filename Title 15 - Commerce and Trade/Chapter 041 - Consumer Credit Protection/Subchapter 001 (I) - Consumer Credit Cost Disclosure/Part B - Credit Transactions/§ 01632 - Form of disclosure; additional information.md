@@ -6,7 +6,7 @@ Information required by this subchapter shall be disclosed clearly and conspicuo
 
 #### (b) Optional information by creditor or lessor
 
-Any creditor or lessor may supply additional information or explanation with any disclosures required under parts D and E and, except as provided in sections 1637a(b)(3) and 1638(b)(1) of this title, under this part.
+Any creditor or lessor may supply additional information or explanation with any disclosuresrequired under parts D and E and, except as provided in sections 1637a(b)(3) and 1638(b)(1) of this title, under this part.
 
 #### (c) Tabular format required for certain disclosures under section 1637(c)
 
@@ -62,7 +62,7 @@ Any creditor or lessor may supply additional information or explanation with any
 
 &emsp;The Bureau, in consultation with the other Federal banking agencies (as that term is defined in section 1681a of this title) and the Bureau,<sup>1</sup> may promulgate regulations to implement this subsection, including specifying the format for posting the agreements on the Internet sites of creditors and establishing exceptions to paragraphs (1) and (2), in any case in which the administrative burden outweighs the benefit of increased transparency, such as where a credit card plan has a de minimis number of consumer account holders.
 
-(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731; Pub. L. 111–24,title II, §204, May 22, 2009, 123 Stat. 1746; Pub. L. 111–203, title X, §1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, §122, May 29, 1968, 82 Stat. 152; Pub. L. 93–495, title III, §307(e), (f), Oct. 28, 1974, 88 Stat. 1516, 1517; Pub. L. 96–221, title VI, §611, Mar. 31, 1980, 94 Stat. 175; Pub. L. 100–583, §2(b), Nov. 3, 1988, 102 Stat. 2966; Pub. L. 100–709, §2(d), Nov. 23, 1988, 102 Stat. 4731; Pub. L. 111–24, title II, §204, May 22, 2009, 123 Stat. 1746; Pub. L. 111–203, title X, §1100A(2), (3), July 21, 2010, 124 Stat. 2107.)
 
 #### <b>Editorial Notes</b>
 

@@ -2,7 +2,7 @@
 
 #### (a) Compliance with NEPA
 
-The issuance of a certificate of public convenience and necessity authorizing the constructionand operation of any Alaska natural gas transportation project under section 720a of this title shall be treated as a major Federal action significantly affecting the quality of the human environment within the meaning of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)).
+The issuance of a certificate of public convenience and necessity authorizing the construction and operation of any Alaska natural gas transportation project under section 720a of this title shall be treated as a major Federal action significantly affecting the quality of the human environment within the meaning of section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)).
 
 #### (b) Designation of lead agency
 
@@ -46,7 +46,7 @@ The Commission shall—
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "102(2)(C)".</i>
 

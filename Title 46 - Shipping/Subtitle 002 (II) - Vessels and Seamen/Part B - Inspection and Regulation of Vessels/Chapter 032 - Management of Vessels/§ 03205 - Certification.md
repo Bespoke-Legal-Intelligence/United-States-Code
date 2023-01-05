@@ -12,7 +12,7 @@ Maintenance of Certificate and Document.—A Safety Management Certificate and a
 
 Verification of Compliance.—The Secretary shall—
 
-&emsp;(1) periodically review whether a responsible person having a safety management plan approved under section 3204(b) and each vessel to which the plan applies is complying with the plan; and
+&emsp;(1) periodically, or upon discovery from other sources of information acquired by the Coast Guard, including a discovery made during an audit or systematic review conducted under section 10104(e) of a failure of a responsible person or vessel to comply with a requirement of a safety management system for which a Safety Management Certificate and a Document of compliance <sup>1</sup> has been issued under this section, including a failure to comply with regulations prescribed under section 3203(a)(7) and (8), review whether a responsible person having a safety management plan approved under section 3204(b) and each vessel to which the plan applies is complying with the plan; and
 
 &emsp;(2) revoke the Secretary's approval of the plan and each Safety Management Certificate and Document of Compliance issued to the person for a vessel to which the plan applies, if the Secretary determines that the person or a vessel to which the plan applies has not complied with the plan.
 
@@ -20,19 +20,23 @@ Verification of Compliance.—The Secretary shall—
 
 Enforcement.—At the request of the Secretary, the Secretary of Homeland Security shall withhold or revoke the clearance required by section 60105 of this title of a vessel that is subject to this chapter under section 3202(a) of this title or to the International Safety Management Code, if the vessel does not have on board a Safety Management Certificate and a copy of a Document of Compliance for the vessel. Clearance may be granted on filing a bond or other surety satisfactory to the Secretary.
 
-(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3929; amended Pub. L. 109–304, §15(10), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 110–181, div. C, title XXXV, §3529(b)(1)(A), Jan. 28, 2008, 122 Stat. 603.)
+(Added Pub. L. 104–324, title VI, §602(a), Oct. 19, 1996, 110 Stat. 3929; amended Pub. L. 109–304, §15(10), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 110–181, div. C, title XXXV, §3529(b)(1)(A), Jan. 28, 2008, 122 Stat. 603; Pub. L. 117–263, div. K, title CXVI, §11610(b), Dec. 23, 2022, 136 Stat. 4155.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2022</b>—Subsec. (c)(1). Pub. L. 117–263 inserted ", or upon discovery from other sources of information acquired by the Coast Guard, including a discovery made during an audit or systematic review conducted under section 10104(e) of a failure of a responsible person or vessel to comply with a requirement of a safety management system for which a Safety Management Certificate and a Document of compliance has been issued under this section, including a failure to comply with regulations prescribed under section 3203(a)(7) and (8)," after "periodically".
+
 <b>2008</b>—Subsec. (d). Pub. L. 110–181 amended Pub. L. 109–304, §15(10). See 2006 Amendment note below.
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–304, §15(10), as amended by Pub. L. 110–181, substituted "Secretary of Homeland Security shall withhold or revoke the clearance required by section 60105 of this title" for "Secretary of the Treasury shall withhold or revoke the clearance required by section 4197 of the Revised Statutes (46 U.S.C. App. 91)".
+<b>2006</b>—Subsec. (d). Pub. L. 109–304, §15(10), as amended by Pub. L. 110–181, substituted "Secretary of HomelandSecurity shall withhold or revoke the clearance required by section 60105 of this title" for "Secretary of the Treasury shall withhold or revoke the clearance required by section 4197 of the Revised Statutes (46 U.S.C. App. 91)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–181, div. C, title XXXV, §3529(b)(2), Jan. 28, 2008, 122 Stat. 603, provided that: "The amendments made by paragraph (1) \[amending this section and section 31325 of this title\] shall be effective as if included in the enactment of Public Law 109–304."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "Compliance".</i>
 

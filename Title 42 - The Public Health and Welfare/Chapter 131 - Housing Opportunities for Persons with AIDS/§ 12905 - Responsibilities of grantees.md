@@ -32,27 +32,61 @@ The recipient shall agree to maintain and provide the grantee or the Secretary w
 
 #### (2) Project sponsors
 
-&emsp;Notwithstanding any other provision of this chapter, each project sponsor receiving amounts from grants made under this chapter <sup>1</sup> may use not more than 7 percent of the amounts received for administrative costs relating to carrying out eligible activities under section 12904 of this title, including the costs of staff necessary to carry out eligible activities.
+&emsp;Notwithstanding any other provision of this chapter, each project sponsor receiving amounts from grants made under this chapter <sup>1</sup> may use not more than 7 percent of the amounts received for administrative costs relating to carrying out eligible activities undersection 12904 of this title, including the costs of staff necessary to carry out eligible activities.
 
 #### (h) Environmental review
 
 For purposes of environmental review, a grant under this chapter shall be treated as assistance for a special project that is subject to section 3547 of this title, and shall be subject to the regulations issued by the Secretary to implement such section.
 
-(Pub. L. 101–625, title VIII, §856, Nov. 28, 1990, 104 Stat. 4378; Pub. L. 102–550, title VI, §606(f), (j)(4), (11)(A), Oct. 28, 1992, 106 Stat. 3809–3811; Pub. L. 106–377, §1(a)(1) \[title II, §203(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24; Pub. L. 116–260, div. Q, title I, §101(e), Dec. 27, 2020, 134 Stat. 2164.)
+#### (i) Carbon monoxide alarms
+
+Each dwelling unit assisted under this chapter shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+
+&emsp;(1) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+
+&emsp;(2) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+
+(Pub. L. 101–625, title VIII, §856, Nov. 28, 1990, 104 Stat. 4378; Pub. L. 102–550, title VI, §606(f), (j)(4), (11)(A), Oct. 28, 1992, 106 Stat. 3809–3811; Pub. L. 106–377, §1(a)(1) \[title II, §203(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–24; Pub. L. 116–260, div. Q, title I, §101(e), Dec. 27, 2020, 134 Stat. 2164; Pub. L. 117–328, div. AA, title VI, §601(d), Dec. 29, 2022, 136 Stat. 5545.)
 
 #### Amendment of Section
 
-<i>Pub. L. 116–260, div. Q, title I, §101(e), (h), Dec. 27, 2020, 134 Stat. 2164, 2165, provided that, effective 2 years after Dec. 27, 2020, this section is amended by adding at the end the following new subsection:</i>
+<i>Pub. L. 117–328, div. AA, title VI, §601(d), (h), Dec. 29, 2022, 136 Stat. 5545, 5548, provided that, effective two years after Dec. 29, 2022, this section is amended by adding at the end the following new subsection:</i>
 
-#### <i>"(i) Carbon monoxide alarms</i>
+#### <i>(j) Qualifying smoke alarms</i>
 
-<i>"Each dwelling unit assisted under this chapter shall contain installed carbon monoxide alarms or detectors that meet or exceed—</i>
+#### <i>(1) In general</i>
 
-&emsp;<i>"(1) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or</i>
+&emsp;<i>Each dwelling unit assisted under this chapter shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.</i>
 
-&emsp;<i>"(2) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register."</i>
+#### <i>(2) Definitions</i>
 
-<i>See 2020 Amendment note below.</i>
+&emsp;<i>For purposes of this subsection, the following definitions shall apply:</i>
+
+#### <i>(A) Smoke alarm defined</i>
+
+&emsp;&emsp;<i>The term "smoke alarm" has the meaning given the term "smoke detector" in section 2225(d) of title 15.</i>
+
+#### <i>(B) Qualifying smoke alarm defined</i>
+
+&emsp;&emsp;<i>The term "qualifying smoke alarm" means a smoke alarm that—</i>
+
+&emsp;&emsp;&emsp;<i>(i) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I)(aa) is hardwired; or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(bb) uses 10-year non rechargeable, nonreplaceable primary batteries and—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(AA) is sealed;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(BB) is tamper resistant; and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(CC) contains silencing means; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or</i>
+
+&emsp;&emsp;&emsp;<i>(ii) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -61,6 +95,8 @@ For purposes of environmental review, a grant under this chapter shall be treate
 Under this chapter, referred to in subsec. (g)(2), was in the original "under this title", and was translated as reading "under this subtitle", meaning under subtitle D (§§851–863) of title VIII of Pub. L. 101–625, to reflect the probable intent of Congress.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (j). Pub. L. 117–328 added subsec. (j).
 
 <b>2020</b>—Subsec. (i). Pub. L. 116–260 added subsec. (i).
 
@@ -76,9 +112,17 @@ Subsec. (g). Pub. L. 102–550, §606(f)(2), added subsec. (g).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 effective 2 years after Dec. 29, 2022, see section 601(h) of div. AA of Pub. L. 117–328, set out as a note under section 1701q of Title 12, Banks and Banking.
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective 2 years after Dec. 27, 2020, see section 101(h) of div. Q of Pub. L. 116–260, set out as a note under section 1701q of Title 12, Banks and Banking.
+
+#### Construction of 2022 Amendment
+
+Nothing in amendment made by Pub. L. 117–328 to be construed to preempt or limit applicability of certain State or local laws relating to smoke alarms, see section 601(i) of div. AA of Pub. L. 117–328, set out as a note under section 1701q of Title 12, Banks and Banking.
 
 #### Construction of 2020 Amendment
 

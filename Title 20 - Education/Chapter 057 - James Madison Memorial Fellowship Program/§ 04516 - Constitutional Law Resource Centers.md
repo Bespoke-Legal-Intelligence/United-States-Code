@@ -46,7 +46,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Temporary Authority To Receive, Review, and Certify for Payment Grant Applications
 
-Pub. L. 100–202, §101(a) \[title V, §501\], Dec. 22, 1987, 101 Stat. 1329, 1329–29, provided in part: "That until the Board of Trustees of the James Madison Memorial Fellowship Foundation is appointed, the Commission onthe Bicentennial of the United States Constitution is authorized to receive, review and certify for payment the applications for grants of endowment funds for the establishment of Constitutional Law Resource Centers as provided and appropriated under the James Madison Memorial Fellowship Act, title VIII, sections 817 and 818, Public Law 99–500 and Public Law 99–591 \[20 U.S.C. 4516, 4517\]".
+Pub. L. 100–202, §101(a) \[title V, §501\], Dec. 22, 1987, 101 Stat. 1329, 1329–29, provided in part: "That until the Board of Trustees of the James Madison Memorial Fellowship Foundation is appointed, the Commission on the Bicentennial of the United States Constitution is authorized to receive, review and certify for payment the applications for grants of endowment funds for the establishment of Constitutional Law Resource Centers as provided and appropriated under the James Madison Memorial Fellowship Act, title VIII, sections 817 and 818, Public Law 99–500 and Public Law 99–591 \[20 U.S.C. 4516, 4517\]".
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

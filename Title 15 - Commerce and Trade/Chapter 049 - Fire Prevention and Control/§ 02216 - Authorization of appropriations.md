@@ -22,7 +22,7 @@
 
 &emsp;(2) not less than $2,575,000 for rural fire prevention and control; and
 
-&emsp;(3) not less than $4,255,000 for research and development for the activities under section 278f of this title at the Fire Research Center ofthe National Institute of Standards and Technology, of which not less than $250,000 shall be available for adjustments required by law in salaries, pay, retirement, and employee benefits.
+&emsp;(3) not less than $4,255,000 for research and development for the activities under section 278f of this title at the Fire Research Center of the National Institute of Standards and Technology, of which not less than $250,000 shall be available for adjustments required by law in salaries, pay, retirement, and employee benefits.
 
 > The funds authorized in paragraph (3) shall be in addition to funds authorized in any other law for research and development at the Fire Research Center.
 
@@ -84,7 +84,7 @@
 
 &emsp;(2) $2,000,000 for fiscal year 1996 for the expansion of arson investigator training programs at the Academy under section 2220 of this title and at the Federal Law Enforcement Training Center, or through regional delivery sites;
 
-&emsp;(3) $4,000,000 for each of fiscal years 1995 and 1996 for carrying out section 2221 of this title,except for salaries and expenses for carrying out section 2221 of this title; and
+&emsp;(3) $4,000,000 for each of fiscal years 1995 and 1996 for carrying out section 2221 of this title, except for salaries and expenses for carrying out section 2221 of this title; and
 
 &emsp;(4) $250,000 for each of the fiscal years 1995 and 1996 for salaries and expenses for carrying out section 2221 of this title.
 
@@ -148,7 +148,7 @@ Subsec. (b). Pub. L. 96–121 added subsec. (b).
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 

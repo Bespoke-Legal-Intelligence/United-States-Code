@@ -16,7 +16,7 @@ Each cash relief payment made pursuant to this section shall be increased on the
 
 #### (d) Cash relief payments to widows
 
-The Commission may pay cash relief to the widow of any former employee of the Canal Zone Government or the Panama Canal Company who, until the time of his death, receives or has received cash relief under subsection (a) of this section, under section 181 of title 2 of the Canal Zone Code (as in effect on September 30, 1979), or under the Act of July 8, 1937, referred to in such subsection (a). The term "widow" as used in this subsection includes only the following:
+The Commission may pay cash relief to the widow of any former employee of the Canal Zone Government or the Panama Canal Company who, until the time of his death, receives or hasreceived cash relief under subsection (a) of this section, under section 181 of title 2 of the Canal Zone Code (as in effect on September 30, 1979), or under the Act of July 8, 1937, referred to in such subsection (a). The term "widow" as used in this subsection includes only the following:
 
 &emsp;(1) a woman legally married to such employee at the time of his termination for disability and at his death;
 
@@ -36,11 +36,11 @@ Subchapter III of chapter 83 of title 5 applies with respect to those individual
 
 #### References in Text
 
-The reference to the Act of July 8, 1937, in subsecs. (a)(1), (d), and (e), is act July 8, 1937, ch. 443, 50 Stat. 478, as amended, which was classified to section 1372 of Title 48, Territories and Insular Possessions, prior to repeal by Pub. L. 87–845, §26(b), Oct. 18, 1962, 76A Stat. 701.
+The reference to the Act of July 8, 1937, in subsecs. (a)(1), (d), and (e), is act July 8, 1937, ch. 443, 50 Stat. 478, which was classified to section 1372 of Title 48, Territories and Insular Possessions, prior to repeal by Pub. L. 87–845, §26(b), Oct. 18, 1962, 76A Stat. 701.
 
 The Canal Zone Code, referred to in subsec. (a)(2), was enacted by Pub. L. 87–845, §1, Oct. 18, 1962, 76A Stat. 1, redesignated the Panama Canal Code by Pub. L. 96–70, title III, §3303(b), Sept. 27, 1979, 93 Stat. 499, and repealed by Pub. L. 104–201, div. C, title XXXV, §3549, Sept. 23, 1996, 110 Stat. 2870.
 
-Section 13(a)(1) of Act July 25, 1958, referred to in subsec. (e), probably means section 13(a) of Pub. L. 85–550, July 25, 1958, 72 Stat. 405, as amended, which is set out as a note under section 8331 of Title 5, Government Organization and Employees.
+Section 13(a)(1) of Act July 25, 1958, referred to in subsec. (e), probably means section 13(a) of Pub. L. 85–550, July 25, 1958, 72 Stat. 405, which is set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
 #### Amendments
 

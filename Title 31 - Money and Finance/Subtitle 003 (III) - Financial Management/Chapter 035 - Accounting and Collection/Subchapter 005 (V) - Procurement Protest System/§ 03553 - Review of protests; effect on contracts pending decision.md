@@ -132,5 +132,5 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 
 #### Construction of 2004 Amendment
 
-Amendment by Pub. L. 108–375 not to be construed to authorize the use of a protest under this subchapter with regard to a decision made by an agency tender official, see section 326(e) of Pub. L. 108–375, set out as a note under section 3551 of this title.
+Amendment by Pub. L. 108–375 not to be construed to authorize the use of a protest under this subchapterwith regard to a decision made by an agency tender official, see section 326(e) of Pub. L. 108–375, set out as a note under section 3551 of this title.
 

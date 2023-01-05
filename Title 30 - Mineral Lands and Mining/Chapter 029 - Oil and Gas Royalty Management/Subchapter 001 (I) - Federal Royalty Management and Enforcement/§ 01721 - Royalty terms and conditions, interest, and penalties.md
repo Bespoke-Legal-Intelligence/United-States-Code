@@ -58,7 +58,7 @@ The Secretary shall issue all determinations of allocations of production for un
 
 #### References in Text
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (e), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (e), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to section 760g of Title 15, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
 #### Codification
 
@@ -114,5 +114,5 @@ Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or
 
 #### Payment of Interest Charges From Current Receipts
 
-Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3053, as amended by Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2109, provided in part: "That in fiscal year 2005 and thereafter, notwithstanding 30 U.S.C. 191(a) and 43 U.S.C. 1338, the Secretary shall pay amounts owed to States and Indian accounts under the provisions of 30 U.S.C. 1721(b) and (d) from amounts received as current receipts from bonuses, royalties, interest collected from lessees and designees, and rentals of the public lands and the outer continental shelf under provisions of the Mineral Leasing Act (30 U.S.C. 181 et seq.), and the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.), which are not payable to a State or the Reclamation Fund."
+Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3053, as amended by Pub. L. 110–161, div. F, title I, Dec.26, 2007, 121 Stat. 2109, provided in part: "That in fiscal year 2005 and thereafter, notwithstanding 30 U.S.C. 191(a) and 43 U.S.C. 1338, the Secretary shall pay amounts owed to States and Indian accounts under the provisions of 30 U.S.C. 1721(b) and (d) from amounts received as current receipts from bonuses, royalties, interest collected from lessees and designees, and rentals of the public lands and the outer continental shelf under provisions of the Mineral Leasing Act (30 U.S.C. 181 et seq.), and the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.), which are not payable to a State or the Reclamation Fund."
 

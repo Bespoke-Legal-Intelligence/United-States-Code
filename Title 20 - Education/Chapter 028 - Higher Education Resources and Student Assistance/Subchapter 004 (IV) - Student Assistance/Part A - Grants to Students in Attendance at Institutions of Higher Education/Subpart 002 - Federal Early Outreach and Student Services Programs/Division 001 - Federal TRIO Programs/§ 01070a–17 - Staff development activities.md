@@ -20,7 +20,7 @@ Such training shall include conferences, internships, seminars, workshops, and t
 
 #### (c) Consultation
 
-Grants for the purposes of this section shall be made only after consultation with regional andState professional associations of persons having special knowledge with respect to the needs and problems of such programs and projects.
+Grants for the purposes of this section shall be made only after consultation with regional and State professional associations of persons having special knowledge with respect to the needs and problems of such programs and projects.
 
 (Pub. L. 89–329, title IV, §402G, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 491; amended Pub. L. 105–244, title IV, §402(f), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 110–315, title IV, §403(g), Aug. 14, 2008, 122 Stat. 3204.)
 

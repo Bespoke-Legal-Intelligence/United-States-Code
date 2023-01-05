@@ -80,7 +80,7 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 (1)(A) Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of title 5 for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission.
 
-(B) All members of the Commission who are officers or employees of the United States shall serve without compensation by reason of their service on the Commission.
+(B) All members of the Commission who are officers or employees of the United States shallserve without compensation by reason of their service on the Commission.
 
 (2) The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission.
 
@@ -92,9 +92,9 @@ There is hereby established a commission to be known as the Commission on Safegu
 
 (5) The members and employees of the Commission shall hold security clearances appropriate for the matters considered by the Commission in the discharge of its duties under this section.
 
-#### (f) Applicability of FACA
+#### (f) Applicability of chapter 10 of title 5
 
-The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission.
+The provisions of chapter 10 of title 5 shall not apply to the activities of the Commission.
 
 #### (g) Funding
 
@@ -102,19 +102,21 @@ The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not a
 
 (2) Amounts made available to the Commission under this subsection shall remain available until expended.
 
-(Pub. L. 106–65, div. C, title XXXI, §3142, Oct. 5, 1999, 113 Stat. 931.)
+(Pub. L. 106–65, div. C, title XXXI, §3142, Oct. 5, 1999, 113 Stat. 931; Pub. L. 117–286, §4(a)(268), Dec. 27, 2022, 136 Stat. 4335.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Sections 3101 and 3103, referred to in subsec. (g), are sections 3101 and 3103 of Pub. L. 106–65, div. C, title XXXI, Oct. 5, 1999, 113 Stat. 915, 919, which are not classified to the Code.
 
 #### Codification
 
 Section is comprised of section 3142 of Pub. L. 106–65. Subsec. (h)(1) of section 3142 of Pub. L. 106–65 repealed section 3161 of Pub. L. 105–85, formerly set out as a note under section 7251 of this title. Subsec. (h)(2) of section 3142 of Pub. L. 106–65 amended section 2657 of Title 50, War and National Defense.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "chapter 10 of title 5" for "the Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

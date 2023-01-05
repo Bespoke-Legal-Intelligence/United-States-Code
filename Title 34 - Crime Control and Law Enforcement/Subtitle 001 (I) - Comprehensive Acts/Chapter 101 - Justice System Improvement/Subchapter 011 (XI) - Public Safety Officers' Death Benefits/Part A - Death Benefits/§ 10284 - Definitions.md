@@ -92,19 +92,19 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(ii) engages in rescue activities or provides emergency medical services as part of an official emergency response system;
 
-&emsp;(11) "neurocognitive disorder" means a disorder that is characterized by a clinically significant decline in cognitive functioning and may include symptoms and signs such as disturbances in memory, executive functioning (that is, higher-level cognitive processes, such as, regulating attention, planning, inhibiting responses, decision-making), visual-spatial functioning, language, speech, perception, insight, judgment, or an insensitivity to social standards; and
+&emsp;(11) "neurocognitive disorder" means a disorder that is characterized by a clinically significant decline in cognitive functioning and may include symptoms and signs such as disturbances in memory, executive functioning (that is, higher-level cognitive processes, such as, regulating attention, planning, inhibiting responses, decision-making), visual-spatial functioning, language, speech, perception, insight, judgment, or an insensitivity to social standards;
 
 &emsp;(12) "sedentary work" means work that—
 
 &emsp;&emsp;(A) involves lifting articles weighing no more than 10 pounds at a time or occasionally lifting or carrying articles such as docket files, ledgers, or small tools; and
 
-&emsp;&emsp;(B) despite involving sitting on a regular basis, may require walking or standing on an occasional basis.
+&emsp;&emsp;(B) despite involving sitting on a regular basis, may require walking or standing on an occasional basis;
 
 &emsp;(13) "public agency" means the United States, any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States, or any unit of local government, department, agency, or instrumentality of any of the foregoing, and includes (as may be prescribed by regulation hereunder) a legally organized volunteer fire department that is a nonprofit entity and provides services without regard to any particular relationship (such as a subscription) a member of the public may have with such a department; and
 
 &emsp;(14) "public safety officer" means—
 
-&emsp;&emsp;(A) an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain: Provided, That (notwithstanding section 10285(b)(2) or (3) of this title) the Bureau shall, absent clear and convincing evidence to the contrary as determined by the Bureau, deem the actions outside of jurisdiction taken by any such law enforcement officer or firefighter, to have been taken while serving such public agency in such capacity, in any case in which the principal legal officer of such public agency, and the head of such agency, together, certify that such actions—
+&emsp;&emsp;(A) an individual serving a public agency in an official capacity, with or without compensation, as a law enforcement officer, as a firefighter, or as a chaplain: Provided, That (notwithstanding section 10285(b)(2) or (3) of this title) the Bureau shall, absent clear and convincing evidence to the contrary as determined by the Bureau, deem the actionsoutside of jurisdiction taken by any such law enforcement officer or firefighter, to have been taken while serving such public agency in such capacity, in any case in which the principal legal officer of such public agency, and the head of such agency, together, certify that such actions—
 
 &emsp;&emsp;&emsp;(i) were not unreasonable;
 
@@ -134,9 +134,9 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;(iii) would have resulted in the payment of full line-of-duty death or disability benefits (as applicable), if any such benefits typically were payable by (or with respect to or on behalf of) such applicable agency or entity, as of the date the action was taken;
 
-&emsp;&emsp;(F) <sup>2</sup> omitted
+&emsp;&emsp;(F) omitted
 
-&emsp;&emsp;(F) <sup>2</sup> an employee or contractor of the Department of Energy who—
+&emsp;&emsp;(G) an employee or contractor of the Department of Energy who—
 
 &emsp;&emsp;&emsp;(i) is—
 
@@ -150,7 +150,7 @@ As used in this subchapter—
 
 &emsp;&emsp;&emsp;&emsp;(II) managing the immediate consequences of a radiological release or exposure.
 
-(Pub. L. 90–351, title I, §1204, formerly §1203, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 99–500, §101(b) \[title II, §207\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, §101(b) \[title II, §207\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; renumbered §1204 and amended Pub. L. 100–690, title VI, §§6105(d), 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §§1301(c), 1302, Nov. 29, 1990, 104 Stat. 4834; Pub. L. 103–322, title XXXIII, §330001(e)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 106–390, title III, §305(a), Oct. 30, 2000, 114 Stat. 1573; Pub. L. 107–196, §2(a), June 24, 2002, 116 Stat. 719; Pub. L. 109–162, title XI, §1164(a), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–239, div. A, title X, §1086(b)(1)(E), Jan. 2, 2013, 126 Stat. 1967; Pub. L. 116–22, title III, §301(d)(2), June 24, 2019, 133 Stat. 933; Pub. L. 116–283, div. C, title XXXI, §3142, Jan. 1, 2021, 134 Stat. 4386; Pub. L. 117–61, §3, Nov. 18, 2021, 135 Stat. 1475.)
+(Pub. L. 90–351, title I, §1204, formerly §1203, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2099; amended Pub. L. 99–500, §101(b) \[title II, §207\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–56, and Pub. L. 99–591, §101(b) \[title II, §207\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–56; renumbered §1204 and amended Pub. L. 100–690, title VI, §§6105(d), 6106(a)(1), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §§1301(c), 1302, Nov. 29, 1990, 104 Stat. 4834; Pub. L. 103–322, title XXXIII, §330001(e)(2), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 106–390, title III, §305(a), Oct. 30, 2000, 114 Stat. 1573; Pub. L. 107–196, §2(a), June 24, 2002, 116 Stat. 719; Pub. L. 109–162, title XI, §1164(a), Jan. 5, 2006, 119 Stat. 3120; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–239, div. A, title X, §1086(b)(1)(E), Jan. 2, 2013, 126 Stat. 1967; Pub. L. 116–22, title III, §301(d)(2), June 24, 2019, 133 Stat. 933; Pub. L. 116–283, div. C, title XXXI, §3142, Jan. 1, 2021, 134 Stat. 4386; Pub. L. 117–61, §3, Nov. 18, 2021, 135 Stat. 1475; Pub. L. 117–172, §4(b), Aug. 16, 2022, 136 Stat. 2101.)
 
 #### <b>Editorial Notes</b>
 
@@ -160,7 +160,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 #### Codification
 
-Par. (14)(F) of this section, which was originally enacted as par. (9)(E) by section 301(d)(2) of Pub. L. 116–22, ceased to have force or effect on Oct. 1, 2021. Prior to being omitted, par. (14)(F) included within the definition of public safety officer an individual appointed to the National Disaster Medical System under section 300hh–11 of Title 42, The Public Health and Welfare, performing official duties of the Department of Health and Human Services that were related to responding to a public health emergency, potential public health emergency, or other activities for which the National Disaster Medical System was activated and that were determined by the Secretary of Health and Human Services to be hazardous.
+Par. (14)(F) of this section, which was originally enacted as par. (9)(E) by section 301(d)(2) of Pub. L. 116–22,ceased to have force or effect on Oct. 1, 2021. Prior to being omitted, par. (14)(F) included within the definition of public safety officer an individual appointed to the National Disaster Medical System under section 300hh–11 of Title 42, The Public Health and Welfare, performing official duties of the Department of Health and Human Services that were related to responding to a public health emergency, potential public health emergency, or other activities for which the National Disaster Medical System was activated and that were determined by the Secretary of Health and Human Services to be hazardous.
 
 Section was formerly classified to section 3796b of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
@@ -171,6 +171,12 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is classified to section 10285 of this title.
 
 #### Amendments
+
+<b>2022</b>—Par. (11). Pub. L. 117–172, §4(b)(1), struck out "and" at end.
+
+Par. (12)(B). Pub. L. 117–172, §4(b)(2), substituted semicolon for period at end.
+
+Par. (14)(F), (G). Pub. L. 117–172, §4(b)(3), redesignated subpar. (F) relating to an employee or contractor of the Department of Energy as (G).
 
 <b>2021</b>—Pars. (1) to (3). Pub. L. 117–61, §3(8), added pars. (1) to (3). Former pars. (1) to (3) redesignated (4) to (6), respectively.
 
@@ -208,7 +214,7 @@ Par. (14)(E). Pub. L. 117–61, §3(7)(D), added subpar. (E) and struck out form
 
 Pub. L. 117–61, §3(7)(B), redesignated subpar. (D) as (E). Former subpar. (E), relating to an individual appointed to the National Disaster Medical System under section 300hh–11 of title 42 and whose effect ceased Oct. 1, 2021, redesignated (F).
 
-Par. (14)(F). Pub. L. 117–61, §3(7)(B), redesignated omitted subpar. (E), relating to an individual appointedto the National Disaster Medical System under section 300hh–11 of title 42 and whose effect ceased on Oct. 1, 2021, as (F). See Codification note above.
+Par. (14)(F). Pub. L. 117–61, §3(7)(B), redesignated omitted subpar. (E), relating to an individual appointed to the National Disaster Medical System under section 300hh–11 of title 42 and whose effect ceased on Oct. 1, 2021, as (F). See Codification note above.
 
 <b>2019</b>—Par. (9)(E). Pub. L. 116–22, §301(d)(2), (3), temporarily added subpar. (E) which related to an individual appointed to the National Disaster Medical System under section 300hh–11 of title 42. See Codification note above and Termination Date of 2019 Amendment note below.
 
@@ -288,7 +294,7 @@ Amendment by section 6105(d) of Pub. L. 100–690 effective June 1, 1988, see se
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
@@ -299,6 +305,4 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "paraplegic;".</i>
-
-<i><sup>2</sup></i><i> So in original. There are two subpars. designated (F).</i>
 

@@ -64,7 +64,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i)(I) previously or currently has been diagnosed by a qualified mental health professional as having a mental illness or co-occurring mental illness and substance abuse disorders;
 
-&emsp;&emsp;&emsp;(II) manifests obvious signs of mental illness or co-occurring mental illness andsubstance abuse disorders during arrest or confinement or before any court; or
+&emsp;&emsp;&emsp;(II) manifests obvious signs of mental illness or co-occurring mental illness and substance abuse disorders during arrest or confinement or before any court; or
 
 &emsp;&emsp;&emsp;(III) in the case of a veterans treatment court provided under subsection (i), has been diagnosed with, or manifests obvious signs of, mental illness or a substance abuse disorder or co-occurring mental illness and substance abuse disorder;
 
@@ -144,7 +144,7 @@ In this section, the following definitions shall apply:
 
 #### (B) Combined planning and implementation grant application
 
-&emsp;&emsp;The Attorney General and the Secretary shall develop a procedure under which applicants may apply at the same time and in asingle application for a planning grant and an implementation grant, with receipt of the implementation grant conditioned on successful completion of the activities funded by the planning grant.
+&emsp;&emsp;The Attorney General and the Secretary shall develop a procedure under which applicants may apply at the same time and in a single application for a planning grant and an implementation grant, with receipt of the implementation grant conditioned on successful completion of the activities funded by the planning grant.
 
 #### (4) Planning grants
 
@@ -174,7 +174,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;To receive an implementation grant, the joint applicants shall—
 
-&emsp;&emsp;&emsp;(i) document that at least 1 criminal or juvenile justice agency (which can include a mental health court) and 1 mental health agency will participate in the administration of the collaboration program;
+&emsp;&emsp;&emsp;(i) document that at least 1 criminal or juvenile justice agency (which can includea mental health court) and 1 mental health agency will participate in the administration of the collaboration program;
 
 &emsp;&emsp;&emsp;(ii) describe the responsibilities of each participating agency, including how each agency will use grant resources to provide supervision of offenders and jointly ensure that the provision of mental health treatment services and substance abuse services for individuals with co-occurring mental health and substance abuse disorders are coordinated, which may range from consultation or collaboration to integration in a single setting or treatment model;
 
@@ -216,7 +216,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(VI) make available, to the extent practicable, other support services that will ensure the preliminarily qualified offender's successful reintegration into the community (such as housing, education, job placement, mentoring, and health care and benefits, as well as the services of faith-based and community organizations for mentally ill individuals served by the collaboration program); and
 
-&emsp;&emsp;&emsp;&emsp;(VII) include strategies, to the extent practicable, to address developmentaland learning disabilities and problems arising from a documented history of physical or sexual abuse.
+&emsp;&emsp;&emsp;&emsp;(VII) include strategies, to the extent practicable, to address developmental and learning disabilities and problems arising from a documented history of physical or sexual abuse.
 
 #### (D) Housing and job placement
 
@@ -256,7 +256,7 @@ In this section, the following definitions shall apply:
 
 #### (i) Mental health courts and diversion/alternative prosecution and sentencing programs
 
-&emsp;&emsp;&emsp;Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams and treatment accountability services for communities) that meet requirements established by the Attorney General and the Secretary.
+&emsp;&emsp;&emsp;Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams, treatment accountability services for communities, and training for State and local prosecutors relating to diversion programming and implementation) that meet requirements established by the Attorney General and the Secretary.
 
 #### (ii) Training
 
@@ -282,13 +282,43 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(II) provide training on how to respond appropriately to the unique issues involving frequent users of crisis services for public service personnel, including criminal justice, mental health, substance abuse, emergency room, healthcare, law enforcement, corrections, and housing personnel;
 
-&emsp;&emsp;&emsp;&emsp;(III) develop or support alternatives to hospital and jail admissions for frequent users of crisis services that provide treatment, stabilization, and other appropriate supports in the least restrictive, yet appropriate, environment; and
+&emsp;&emsp;&emsp;&emsp;(III) develop or support alternatives to hospital and jail admissions for frequent users of crisis services that provide treatment, stabilization, and other appropriate supports in the least restrictive, yet appropriate, environment;
 
-&emsp;&emsp;&emsp;&emsp;(IV) develop protocols and systems among law enforcement, mental health, substance abuse, housing, corrections, and emergency medical service operations to provide coordinated assistance to frequent users of crisis services.
+&emsp;&emsp;&emsp;&emsp;(IV) develop protocols and systems among law enforcement, mental health, substance abuse, housing, corrections, and emergency medical service operations to provide coordinated assistance to frequent users of crisis services; and
+
+&emsp;&emsp;&emsp;&emsp;(V) coordinate, implement, and administer models to address mental health calls that include specially trained officers and mental health crisis workers responding to those calls together.
+
+#### (vi) Suicide prevention services
+
+&emsp;&emsp;&emsp;Funds may be used to develop, promote, and implement comprehensive suicide prevention programs and services for incarcerated individuals that include ongoing risk assessment.
+
+#### (vii) Case management services
+
+&emsp;&emsp;&emsp;Funds may be used for case management services for preliminary qualified offenders and individuals who are released from any penal or correctional institution to—
+
+&emsp;&emsp;&emsp;&emsp;(I) reduce recidivism; and
+
+&emsp;&emsp;&emsp;&emsp;(II) assist those individuals with reentry into the community.
+
+#### (viii) Enhancing community capacity and links to mental health care
+
+&emsp;&emsp;&emsp;Funds may be used to support, administer, or develop treatment capacity and increase access to mental health care and substance use disorder services for preliminary qualified offenders and individuals who are released from any penal or correctional institution.
+
+#### (ix) Implementing 988
+
+&emsp;&emsp;&emsp;Funds may be used to support the efforts of State and local governments to implement and expand the integration of the 988 universal telephone number designated for the purpose of the national suicide prevention and mental health crisis hotline system under section 251(e)(4) of title 47, including by hiring staff to support the implementation and expansion.
 
 #### (J) Geographic distribution of grants
 
 &emsp;&emsp;The Attorney General, in consultation with the Secretary, shall ensure that planning and implementation grants are equitably distributed among the geographical regions of the United States and between urban and rural populations.
+
+#### (K) Teams addressing mental health calls
+
+&emsp;&emsp;With respect to a multidisciplinary team described in subparagraph (I)(v) that receives funds from a grant under this section, the multidisciplinary team—
+
+&emsp;&emsp;&emsp;(i) shall, to the extent practicable, provide response capability 24 hours each day and 7 days each week to respond to crisis or mental health calls; and
+
+&emsp;&emsp;&emsp;(ii) may place a part of the team in a 911 call center to facilitate the timely response to mental health crises.
 
 #### (c) Priority
 
@@ -370,7 +400,7 @@ The Attorney General shall use not less than 8 percent of funds appropriated to 
 
 #### (A) Training programs
 
-&emsp;&emsp;To provide for programs that offer law enforcement personnel specialized and comprehensive training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.
+&emsp;&emsp;To provide for programs that offer law enforcement personnel specialized and comprehensive training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved, including the training developed under section 10653 of this title.
 
 #### (B) Receiving centers
 
@@ -378,7 +408,7 @@ The Attorney General shall use not less than 8 percent of funds appropriated to 
 
 #### (C) Improved technology
 
-&emsp;&emsp;To provide for computerized information systems (or to improve existing systems) to provide timely information to law enforcement personnel and criminal justice system personnel to improve the response of suchrespective personnel to mentally ill offenders.
+&emsp;&emsp;To provide for computerized information systems (or to improve existing systems) to provide timely information to law enforcement personnel and criminal justice system personnel to improve the response of such respective personnel to mentally ill offenders.
 
 #### (D) Cooperative programs
 
@@ -670,13 +700,7 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to the Department of Justice to carry out this section—
-
-&emsp;&emsp;(A) $50,000,000 for fiscal year 2005;
-
-&emsp;&emsp;(B) such sums as may be necessary for each of the fiscal years 2006 and 2007; and
-
-&emsp;&emsp;(C) $50,000,000 for each of the fiscal years 2017 through 2021.
+&emsp;There is authorized to be appropriated to the Department of Justice to carry out this section $54,000,000 for each of fiscal years 2023 through 2027.
 
 #### (2) Allocation of funding for administrative purposes
 
@@ -686,7 +710,7 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 &emsp;Not more than 20 percent of the funds authorized to be appropriated under this section may be used for purposes described in subsection (i) (relating to veterans).
 
-(Pub. L. 90–351, title I, §2991, as added Pub. L. 108–414, §4(a), Oct. 30, 2004, 118 Stat. 2328; amended Pub. L. 110–416, §§3, 4, Oct. 14, 2008, 122 Stat. 4352, 4353; Pub. L. 114–198, title V, §502, July 22, 2016, 130 Stat. 728; Pub. L. 114–255, div. B, title XIV, §§14005, 14018, 14021–14024, 14027, 14028(a), 14029, Dec. 13, 2016, 130 Stat. 1295, 1307–1311, 1313; Pub. L. 115–391, title VI, §612, Dec. 21, 2018, 132 Stat. 5247.)
+(Pub. L. 90–351, title I, §2991, as added Pub. L. 108–414, §4(a), Oct. 30, 2004, 118 Stat. 2328; amended Pub. L. 110–416, §§3, 4, Oct. 14, 2008, 122 Stat. 4352, 4353; Pub. L. 114–198, title V, §502, July 22, 2016, 130 Stat. 728; Pub. L. 114–255, div. B, title XIV, §§14005, 14018, 14021–14024, 14027, 14028(a), 14029, Dec. 13, 2016, 130 Stat. 1295, 1307–1311, 1313; Pub. L. 115–391, title VI, §612, Dec. 21, 2018, 132 Stat. 5247; Pub. L. 117–170, §3(1), Aug. 16, 2022, 136 Stat. 2092; Pub. L. 117–323, §2, Dec. 27, 2022, 136 Stat. 4437.)
 
 #### <b>Editorial Notes</b>
 
@@ -701,6 +725,18 @@ This Act, referred to in subsec. (n)(1), is Pub. L. 90–351, June 19, 1968, 82 
 Section was formerly classified to section 3797aa of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(5)(I)(i). Pub. L. 117–323, §2(1)(A), substituted "teams, treatment accountability services for communities, and training for State and local prosecutors relating to diversion programming and implementation" for "teams and treatment accountability services for communities".
+
+Subsec. (b)(5)(I)(v)(V). Pub. L. 117–323, §2(1)(B), added subcl. V.
+
+Subsec. (b)(5)(I)(vi) to (ix). Pub. L. 117–323, §2(1)(C), added cls. (vi) to (ix).
+
+Subsec. (b)(5)(K). Pub. L. 117–323, §2(2), added subpar. (K).
+
+Subsec. (h)(1)(A). Pub. L. 117–170, §3(1)(A), inserted before period at end ", including the training developed under section 10653 of this title".
+
+Subsec. (o)(1). Pub. L. 117–170, §3(1)(B), amended par. (1) generally. Prior to amendment, par. (1) authorized appropriations for fiscal years 2005 to 2007 and 2017 to 2021.
 
 <b>2018</b>—Subsec. (b)(4)(D), (E). Pub. L. 115–391, §612(1)(A), (B), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, text of subpar. (D) read as follows: "The amount of a planning grant may not exceed $75,000, except that the Attorney General may, for good cause, approve a grant in a higher amount."
 

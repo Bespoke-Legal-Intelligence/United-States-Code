@@ -16,7 +16,7 @@
 
 &emsp;(2) an interest penalty clause which obligates the prime contractor to pay to the subcontractor an interest penalty on amounts due in the case of each payment not made in accordance with the payment clause included in the subcontract pursuant to paragraph (1) of this subsection—
 
-&emsp;&emsp;(A) for the period beginning on the day after the required payment date and endingon the date on which payment of the amount due is made; and
+&emsp;&emsp;(A) for the period beginning on the day after the required payment date and ending on the date on which payment of the amount due is made; and
 
 &emsp;&emsp;(B) computed at the rate specified by section 3902(a) of this title.
 
@@ -40,7 +40,7 @@
 
 &emsp;(2) furnish to the Government, as soon as practicable, a copy of the notice furnished to the subcontractor pursuant to paragraph (1) of this subsection;
 
-&emsp;(3) reduce the subcontractor's progress payment by an amount not to exceed the amount specified in the notice of withholding furnished under paragraph (1) of this subsection;
+&emsp;(3) reduce the subcontractor's progress payment by an amount not to exceed the amountspecified in the notice of withholding furnished under paragraph (1) of this subsection;
 
 &emsp;(4) pay the subcontractor as soon as practicable after the correction of the identified subcontract performance deficiency, and—
 
@@ -74,7 +74,7 @@
 
 &emsp;(B) withhold from the first-tier subcontractor's next available progress payment or payments an amount not to exceed the amount specified in the notice of withholding furnished under subparagraph (A) of this paragraph.
 
-(2) As soon as practicable, but not later than 7 days after receipt of satisfactory written notification that the identified subcontract performance deficiency has been corrected, the prime contractor shall pay the amount withheld underparagraph (1)(B) of this subsection to such first-tier subcontractor, or shall incur an obligation to pay a late payment interest penalty to such first-tier subcontractor computed at the rate specified by section 3902(a) of this title.
+(2) As soon as practicable, but not later than 7 days after receipt of satisfactory written notification that the identified subcontract performance deficiency has been corrected, the prime contractor shall pay the amount withheld under paragraph (1)(B) of this subsection to such first-tier subcontractor, or shall incur an obligation to pay a late payment interest penalty to such first-tier subcontractor computed at the rate specified by section 3902(a) of this title.
 
 (g) A written notice of any withholding shall be issued to a subcontractor (with a copy to the Government of any such notice issued by a prime contractor), specifying—
 

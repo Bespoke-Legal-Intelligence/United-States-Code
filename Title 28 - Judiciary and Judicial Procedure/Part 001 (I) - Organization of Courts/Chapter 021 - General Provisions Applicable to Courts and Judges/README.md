@@ -19,7 +19,7 @@
 | [460\.](%C2%A7%2000460%20-%20Application%20to%20other%20courts.md) | Application to other courts. |
 | [461\.](%C2%A7%2000461%20-%20Adjustments%20in%20certain%20salaries.md) | Adjustments in certain salaries. |
 | [462\.](%C2%A7%2000462%20-%20Court%20accommodations.md) | Court accommodations. |
-| [463\.](%C2%A7%2000463%20-%20Expenses%20of%20litigation.md) | Expenses of litigation.<br> |
+| [463\.](%C2%A7%2000463%20-%20Expenses%20of%20litigation.md) | Expenses of litigation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -33,7 +33,7 @@
 
 <b>1975</b>—Pub. L. 94–82, title II, §205(a)(2), Aug. 9, 1975, 89 Stat. 422, added item 461.
 
-<b>1974</b>—Pub. L. 93–512, §2, Dec. 5, 1974, 88 Stat. 1610, substituted "Disqualification of justice, judge, magistrate, or referee in bankruptcy" for "Interest of justice or judge" in item 455.
+<b>1974</b>—Pub. L. 93–512, §2, Dec. 5, 1974, 88 Stat. 1610, substituted "Disqualification of justice, judge, magistrate,or referee in bankruptcy" for "Interest of justice or judge" in item 455.
 
 <b>1963</b>—Pub. L. 88–139, §3(b), Oct. 16, 1963, 77 Stat. 248, substituted "power unrestricted by expiration of sessions" for "powers unrestricted by terms" in item 452.
 

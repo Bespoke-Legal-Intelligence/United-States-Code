@@ -22,7 +22,7 @@ The Congress finds that—
 
 #### References in Text
 
-The Multiple-Use Sustained-Yield Act of 1960, referred to in par. (3), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in par. (3), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -44,11 +44,11 @@ Pub. L. 96–554, §1, Dec. 19, 1980, 94 Stat. 3257, provided: "That this Act \[
 
 Pub. L. 95–307, §1, June 30, 1978, 92 Stat. 353, provided: "That this Act \[enacting subchapter II of this chapter, repealing sections 581 to 581i of this title, and enacting provisions set out as a note under section 1641 of this title\] may be cited as the 'Forest and Rangeland Renewable Resources Research Act of 1978'."
 
-Pub. L. 95–306, §1, June 30, 1978, 92 Stat. 349, provided: "That this Act \[enacting subchapter III of this chapterand provision set out as a note under section 1671 of this title\] may be cited as the 'Renewable Resources Extension Act of 1978'."
+Pub. L. 95–306, §1, June 30, 1978, 92 Stat. 349, provided: "That this Act \[enacting subchapter III of this chapter and provision set out as a note under section 1671 of this title\] may be cited as the 'Renewable Resources Extension Act of 1978'."
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–588, §1, Oct. 22, 1976, 90 Stat. 2949, provided: "That this Act \[enacting this section and sections 472a, 521b, and 1611 to 1614 of this title, amending sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealing sections 476, 513 and 514 of this title, and enacting provisions set out as notes under this section and sections 476, 513, 528, and 594–2 of this title\] may be cited as the 'National Forest Management Act of 1976'."
+Pub. L. 94–588, §1, Oct. 22, 1976, 90 Stat. 2949, provided: "That this Act \[enacting this section and sections 472a, 521b, and 1611 to 1614 of this title, amending sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of this title, repealing sections 476, 513 and 514 of this title, and enacting provisions set out as notes under this sectionand sections 476, 513, 528, and 594–2 of this title\] may be cited as the 'National Forest Management Act of 1976'."
 
 #### Short Title
 

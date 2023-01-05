@@ -32,7 +32,7 @@ Consideration.—The transfer of a military animal under this section shall be w
 
 (e)
 
-Limitations on Liability for Transferred or Adopted Animals.—(1) Notwithstanding any other provision of law, the United States shall not be subject to any suit, claim,demand or action, liability, judgment, cost, or other fee arising out of any claim for personal injury or property damage (including death, illness, or loss of or damage to property or other economic loss) that results from, or is in any manner predicated upon, the act or omission of a former military animal transferred or adopted under this section, including any training provided to the animal while a military animal.
+Limitations on Liability for Transferred or Adopted Animals.—(1) Notwithstanding any other provision of law, the United States shall not be subject to any suit, claim, demand or action, liability, judgment, cost, or other fee arising out of any claim for personal injury or property damage (including death, illness, or loss of or damage to property or other economic loss) that results from, or is in any manner predicated upon, the act or omission of a former military animal transferred or adopted under this section, including any training provided to the animal while a military animal.
 
 (2) Notwithstanding any other provision of law, the United States shall not be liable for any veterinary expense associated with a military animal transferred or adopted under this section for a condition of the military animal before transfer or adoption under this section, whether or not such condition is known at the time of transfer or adoption under this section.
 
@@ -52,7 +52,7 @@ Veterinary Screening and Care for Military Working Dogs To Be Retired.—(1)(A) 
 
 Transportation of Retiring Military Working Dogs.—Upon completion of veterinary screening and care for a military working dog to be retired pursuant to subsection (f), the Secretary of the military department concerned shall—
 
-&emsp;(1) if the dog was at a location outside the United States immediately prior to transportation for such screening and care and a United States citizen or member of the armed forces living abroad agrees to adopt the dog, transport the dog to such location for adoption; or
+&emsp;(1) if the dog was at a location outside the United States immediately prior to transportation for such screening and care and a United States citizen or member of the armedforces living abroad agrees to adopt the dog, transport the dog to such location for adoption; or
 
 &emsp;(2) for any other dog, transport the dog—
 

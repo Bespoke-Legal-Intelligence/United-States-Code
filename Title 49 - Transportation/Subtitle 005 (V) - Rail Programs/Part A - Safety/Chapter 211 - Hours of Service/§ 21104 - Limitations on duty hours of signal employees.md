@@ -36,7 +36,7 @@ Communication During Time Off Duty.—During a signal employee's minimum off-dut
 
 (e)
 
-Exclusivity.—The hours of service, duty hours, and rest periods of signal employees shall be governed exclusively by this chapter. Signal employees operating motor vehicles shall not besubject to any hours of service rules, duty hours or rest period rules promulgated by any Federal authority, including the Federal Motor Carrier Safety Administration, other than the Federal Railroad Administration.
+Exclusivity.—The hours of service, duty hours, and rest periods of signal employees shall be governed exclusively by this chapter. Signal employees operating motor vehicles shall not be subject to any hours of service rules, duty hours or rest period rules promulgated by any Federal authority, including the Federal Motor Carrier Safety Administration, other than the Federal Railroad Administration.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 889; Pub. L. 110–432, div. A, title I, §108(c), Oct. 16, 2008, 122 Stat. 4862.)
 

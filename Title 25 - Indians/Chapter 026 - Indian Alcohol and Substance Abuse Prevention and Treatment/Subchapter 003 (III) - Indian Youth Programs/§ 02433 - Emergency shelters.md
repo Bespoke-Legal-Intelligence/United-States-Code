@@ -42,7 +42,7 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 &emsp;(B) to require a lease of tribal facilities to the United States to qualify for financial assistance for the facilities under this chapter or any other Act.
 
-(Pub. L. 99–570, title IV, §4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr.18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII, §703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(c), July 29, 2010, 124 Stat. 2290.)
+(Pub. L. 99–570, title IV, §4213, Oct. 27, 1986, 100 Stat. 3207–144; Pub. L. 100–690, title II, §2207, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 101–272, Apr. 18, 1990, 104 Stat. 137; Pub. L. 102–573, title VII, §703(5), Oct. 29, 1992, 106 Stat. 4583; Pub. L. 111–211, title II, §241(c), July 29, 2010, 124 Stat. 2290.)
 
 #### <b>Editorial Notes</b>
 
@@ -66,7 +66,7 @@ Subsec. (e)(4), (5). Pub. L. 111–211, §241(c)(3), realigned margins.
 
 "(1) For the planning and design, construction, and renovation of, or purchase or lease of land or facilities for, emergency shelters or half-way houses to provide emergency care for Indian youth, there is authorized to be appropriated $5,000,000 for the fiscal year 1989 and $3,000,000 for each of the fiscal years 1990, 1991, and 1992.
 
-"(2) For the staffing and operation of emergency shelters and half-way houses, there is authorized to be appropriated $3,000,000 for the fiscal year 1989 and $3,000,000 for fiscal year 1990. An amount equal to the amount of funds appropriated pursuant to this paragraph for fiscal year 1990 shall be included in the base budget of the Bureau of Indian Affairs and funding thereafter shall be pursuant to section 13 of this title."
+"(2) For the staffing and operation of emergency shelters and half-way houses, there is authorized to be appropriated $3,000,000 for the fiscal year 1989 and $3,000,000 for fiscal year 1990. An amount equal to theamount of funds appropriated pursuant to this paragraph for fiscal year 1990 shall be included in the base budget of the Bureau of Indian Affairs and funding thereafter shall be pursuant to section 13 of this title."
 
 <b>1990</b>—Subsec. (e)(1). Pub. L. 101–272, §1(1), inserted ", or purchase or lease of land or facilities for," after "renovation of".
 

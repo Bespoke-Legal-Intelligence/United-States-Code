@@ -44,7 +44,7 @@ Requirements for Designation.—(1) The Secretary may not designate a Department
 
 (d)
 
-Peer Review Panel.—(1) The Under Secretary for Health shall establish a panel to assess the scientific and clinical merit of proposalsthat are submitted to the Secretary for the establishment of centers under this section.
+Peer Review Panel.—(1) The Under Secretary for Health shall establish a panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the establishment of centers under this section.
 
 (2)(A) The membership of the panel shall consist of experts in autoimmune disease affecting the central nervous system.
 
@@ -54,7 +54,7 @@ Peer Review Panel.—(1) The Under Secretary for Health shall establish a panel 
 
 (3) The panel shall review each proposal submitted to the panel by the Under Secretary and shall submit its views on the relative scientific and clinical merit of each such proposal to the Under Secretary.
 
-(4) The panel shall not be subject to the Federal Advisory Committee Act.
+(4) The panel shall not be subject to chapter 10 of title 5.
 
 (e)
 
@@ -68,17 +68,17 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 Award Competitions.—Activities of clinical and scientific investigation at each center established under subsection (a) shall be eligible to compete for the award of funding from funds appropriated for the Department medical and prosthetics research account. Such activities shall receive priority in the award of funding from such account insofar as funds are awarded to projects for research in multiple sclerosis and other neurodegenerative disorders.
 
-(Added Pub. L. 109–461, title II, §209(a)(1), Dec. 22, 2006, 120 Stat. 3416.)
+(Added Pub. L. 109–461, title II, §209(a)(1), Dec. 22, 2006, 120 Stat. 3416; amended Pub. L. 117–286, §4(a)(224), Dec. 27, 2022, 136 Stat. 4330.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (d)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 A substantially identical section enacted by Pub. L. 109–444, §6(a)(1), Dec. 21, 2006, 120 Stat. 3310, was repealed by Pub. L. 109–461, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3468, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (d)(4). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

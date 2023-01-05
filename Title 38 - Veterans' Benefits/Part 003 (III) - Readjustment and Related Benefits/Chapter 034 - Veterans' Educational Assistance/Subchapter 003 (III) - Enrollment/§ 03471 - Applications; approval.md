@@ -32,7 +32,7 @@ Amendment by Pub. L. 108–183 applicable to courses approved by State approving
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(c) of Pub. L. 96–466, set out as a note under section 3452 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -8,7 +8,7 @@
 
 (d) A bankruptcy judge appointed under this chapter shall be exempt from the provisions of subchapter I of chapter 63 of title 5.
 
-(Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 338; amended Pub. L. 100–202,§101(a), \[title IV, §408(a)\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 100–702, title X, §1003(a)(1), Nov. 19, 1988, 102 Stat. 4665.)
+(Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 338; amended Pub. L. 100–202, §101(a), \[title IV, §408(a)\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 100–702, title X, §1003(a)(1), Nov. 19, 1988, 102 Stat. 4665.)
 
 #### <b>Editorial Notes</b>
 
@@ -64,5 +64,5 @@ Maximum rate payable to bankruptcy judges after Dec. 17, 1982, increased from $5
 
 For limitations on use of funds for period Oct. 1, 1980 through June 5, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–369 and section 101(c) of Pub. L. 96–536, set out as notes under section 5318 of Title 5.
 
-<b>1979</b>—Salaries of bankruptcy judges increased to $53,500 effective on first day of first pay period beginning on or after Oct. 1, 1979, by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443, formerly set out as a noteunder section 5332 of Title 5. Ex. Ord. No. 12165 further provided that pursuant to Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the applicable rate payable for such position or office in effect on Sept. 30, 1978, which was $51,167.50 for bankruptcy judges.
+<b>1979</b>—Salaries of bankruptcy judges increased to $53,500 effective on first day of first pay period beginning on or after Oct. 1, 1979, by Ex. Ord. No. 12165, Oct. 9, 1979, 44 F.R. 58671, as amended by Ex. Ord. No. 12200, Mar. 12, 1980, 45 F.R. 16443, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12165 further provided that pursuant to Pub. L. 96–86 funds appropriated for fiscal year 1980 may not be used to pay a salary at a rate which exceeds an increase of 5.5 percent over the applicable rate payable for such position or office in effect on Sept. 30, 1978, which was $51,167.50 for bankruptcy judges.
 

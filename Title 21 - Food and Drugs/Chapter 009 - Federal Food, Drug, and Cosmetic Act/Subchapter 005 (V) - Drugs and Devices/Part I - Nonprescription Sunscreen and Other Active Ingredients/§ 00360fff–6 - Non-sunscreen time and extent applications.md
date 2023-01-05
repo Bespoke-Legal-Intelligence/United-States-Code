@@ -36,7 +36,7 @@
 
 #### (A) Election
 
-&emsp;&emsp;Not later than 60 calendar days after the Secretary provides a framework to a sponsor under paragraph (2), such sponsor may provide an election to the Secretary regarding the processes and procedures for review under clause (i), (ii), (iii), or (iv) of paragraph (1)(B). If such sponsor makes such election, the Secretary shall review the application that is the subject of such election pursuant to the processes and procedures elected by such sponsor and the applicable timelines in calendar days set forth undersuch framework, which the Secretary shall confirm in writing to the sponsor not later than the date upon which the Secretary provides a report under paragraph (4). If such sponsor does not make such election, such application shall be reviewed by the Secretary in accordance with the timelines of the applicable regulations when such regulations are finalized under subsection (b).
+&emsp;&emsp;Not later than 60 calendar days after the Secretary provides a framework to a sponsor under paragraph (2), such sponsor may provide an election to the Secretary regarding the processes and procedures for review under clause (i), (ii), (iii), or (iv) of paragraph (1)(B). If such sponsor makes such election, the Secretary shall review the application that is the subject of such election pursuant to the processes and procedures elected by such sponsor and the applicable timelines in calendar days set forth under such framework, which the Secretary shall confirm in writing to the sponsor not later than the date upon which the Secretary provides a report under paragraph (4). If such sponsor does not make such election, such application shall be reviewed by the Secretary in accordance with the timelines of the applicable regulations when such regulations are finalized under subsection (b).
 
 #### (B) Different processes and procedures
 
@@ -44,7 +44,7 @@
 
 #### (C) Inclusion of ingredients in monographs
 
-&emsp;&emsp;If the sponsor elects to use the processes and procedures for review in accordance with clause (i) or (iii) of paragraph (1)(B), the Secretary may incorporate any resulting final order into a regulation addressing the conditions under which other drugs in the same therapeutic category are GRASE and not misbranded, including through direct final rulemaking, and the final order so incorporated shall cease to be effective on the effective date of the final regulation that addresses such drug.
+&emsp;&emsp;If the sponsor elects to use the processes and procedures for review in accordancewith clause (i) or (iii) of paragraph (1)(B), the Secretary may incorporate any resulting final order into a regulation addressing the conditions under which other drugs in the same therapeutic category are GRASE and not misbranded, including through direct final rulemaking, and the final order so incorporated shall cease to be effective on the effective date of the final regulation that addresses such drug.
 
 #### (4) Letter regarding pending applications
 
@@ -98,7 +98,7 @@
 
 #### (4) Restrictions
 
-&emsp;Notwithstanding any other provision of law, the Secretary shall promulgate regulationsimplementing this section only as described in paragraphs (1), (2), and (3).
+&emsp;Notwithstanding any other provision of law, the Secretary shall promulgate regulations implementing this section only as described in paragraphs (1), (2), and (3).
 
 #### (5) Final regulations
 
@@ -118,5 +118,5 @@ In general.—Any application described in section 586F of the Federal Food, Dru
 
 "(2)
 
-Order request.—Nothing in paragraph (1) precludes the submission of an order request under section 505G(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355h(b)\], as added by section 3851 of this subtitle, with respect to a drug that was the subject of an application extinguished under paragraph (1)."
+Order request.—Nothing in paragraph (1) precludes the submission of an order request under section505G(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355h(b)\], as added by section 3851 of this subtitle, with respect to a drug that was the subject of an application extinguished under paragraph (1)."
 

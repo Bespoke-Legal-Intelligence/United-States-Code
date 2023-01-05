@@ -2,7 +2,7 @@
 
 #### (a) Plan
 
-For a State to be eligible to receive allotments for the core programs, the Governor shall submit to the Secretary of Labor for the approval process described under subsection (c)(2), a unified State plan. The unified State plan shall outline a 4-year strategy for the core programs of the State and meet the requirements of this section.
+For a State to be eligible to receive allotments for the core programs, the Governor shall submit to the Secretary of Labor for the approval process described under subsection (c)(2),a unified State plan. The unified State plan shall outline a 4-year strategy for the core programs of the State and meet the requirements of this section.
 
 #### (b) Contents
 
@@ -118,7 +118,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 &emsp;&emsp;&emsp;(i) that the State has established a policy identifying circumstances that may present a conflict of interest for a State board or local board member, or the entity or class of officials that the member represents, and procedures to resolve such conflicts;
 
-&emsp;&emsp;&emsp;(ii) that the State has established a policy to provide to the public (including individuals with disabilities) access to meetings of State boards and local boards, and information regarding activities of State boards and local boards, such as data on board membership and minutes;
+&emsp;&emsp;&emsp;(ii) that the State has established a policy to provide to the public (including individuals with disabilities) access to meetings of State boards and local boards, and information regarding activities of Stateboards and local boards, such as data on board membership and minutes;
 
 &emsp;&emsp;&emsp;(iii)(I) that the lead State agencies with responsibility for the administration of core programs reviewed and commented on the appropriate operational planning elements of the unified State plan, and approved the elements as serving the needs of the populations served by such programs; and
 
@@ -162,7 +162,7 @@ For a State to be eligible to receive allotments for the core programs, the Gove
 
 #### (A) Submission
 
-&emsp;&emsp;In approving a unified State plan under this section, the Secretary shall submit theportion of the unified State plan covering a program or activity to the head of the Federal agency that administers the program or activity for the approval of such portion by such head.
+&emsp;&emsp;In approving a unified State plan under this section, the Secretary shall submit the portion of the unified State plan covering a program or activity to the head of the Federal agency that administers the program or activity for the approval of such portion by such head.
 
 #### (B) Approval
 

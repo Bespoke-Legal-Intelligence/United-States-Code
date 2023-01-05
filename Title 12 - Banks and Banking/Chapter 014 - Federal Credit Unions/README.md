@@ -44,6 +44,8 @@
 | [1772c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001772c%20-%20Trust%20fund.md) | Trust fund. |
 | 1772c–1. | Community development revolving loan fund for credit unions. |
 | [1772d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001772d%20-%20Forfeiture%20of%20organization%20certificate%20for%20money%20laundering%20or%20cash%20transaction%20reporting%20offenses.md) | Forfeiture of organization certificate for money laundering or cash transaction reporting offenses. |
+| [1772e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001772e%20-%20Data%20standards.md) | Data standards. |
+| [1772f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001772f%20-%20Open%20data%20publication.md) | Open data publication. |
 | [1773\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001773%20-%20District%20of%20Columbia%20credit%20unions%3B%20conversion%20to%20Federal%20status.md) | District of Columbia credit unions; conversion to Federal status. |
 | [1774\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001774%20-%20Approval%20of%20certificate%3B%20assets%20and%20obligations%20of%20applicant%20credit%20union.md) | Approval of certificate; assets and obligations of applicant credit union. |
 | [1775\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001775%20-%20Conditions%20upon%20conversion%20to%20Federal%20status.md) | Conditions upon conversion to Federal status. |

@@ -8,7 +8,7 @@ The Director of the National Science Foundation shall carry out a basic research
 
 #### (1) In general
 
-&emsp;In carrying out the program under subsection (a), the Director of the NationalScience Foundation shall carry out activities that—
+&emsp;In carrying out the program under subsection (a), the Director of the National Science Foundation shall carry out activities that—
 
 &emsp;&emsp;(A) support basic interdisciplinary quantum information science and engineering research; and
 
@@ -36,5 +36,41 @@ The Director of the National Science Foundation shall carry out a basic research
 
 The Director of the National Science Foundation may establish a program to provide traineeships to graduate students at institutions of higher education within the United States who are citizens of the United States and who choose to pursue masters or doctoral degrees in quantum information science.
 
-(Pub. L. 115–368, title III, §301, Dec. 21, 2018, 132 Stat. 5099.)
+#### (d) Incorporating QISE into STEM curriculum
+
+#### (1) In general
+
+&emsp;The Director of the National Science Foundation shall, through programs carried out or supported by the National Science Foundation, seek to increase the integration of quantum information science and engineering (referred to in this subsection as "QISE") into the STEM curriculum at all education levels, including community colleges, as considered appropriate by the Director.
+
+#### (2) Curriculum integration
+
+&emsp;The curriculum integration under paragraph (1) may include the following:
+
+&emsp;&emsp;(A) Methods to conceptualize QISE for elementary, middle, and high school curricula.
+
+&emsp;&emsp;(B) Methods for strengthening foundational mathematics and science curricula.
+
+&emsp;&emsp;(C) Methods for integrating students who are underserved or historically underrepresented groups in STEM.
+
+&emsp;&emsp;(D) Age-appropriate materials that apply the principles of quantum information science in STEM fields.
+
+&emsp;&emsp;(E) Recommendations for the standardization of key concepts, definitions, and curriculum criteria across government, academia, and industry.
+
+&emsp;&emsp;(F) Materials that specifically address the findings and outcomes of the study to evaluate and make recommendations for the quantum information science workforce pursuant to subsection (d) of section 19261 of title 42 and strategies to account for the skills and workforce needs identified through such study.
+
+#### (3) Coordination
+
+&emsp;In carrying out this subsection, the Director shall coordinate with relevant Federal agencies, and consult with nongovernmental entities with expertise in QISE, as appropriate, which may include institutions eligible to participate in the Established Program to Stimulate Competitive Research (EPSCoR).
+
+#### (4) Definition
+
+&emsp;In this subsection, the term "STEM" means the academic and professional disciplines of science, technology, engineering, and mathematics, including computer science.
+
+(Pub. L. 115–368, title III, §301, Dec. 21, 2018, 132 Stat. 5099; Pub. L. 117–167, div. B, title VI, §10661(e)(1), Aug. 9, 2022, 136 Stat. 1685.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–167 added subsec. (d).
 

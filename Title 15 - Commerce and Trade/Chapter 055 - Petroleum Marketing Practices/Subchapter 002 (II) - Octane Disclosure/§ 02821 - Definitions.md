@@ -4,7 +4,7 @@ As used in this subchapter:
 
 &emsp;(1) The term "octane rating" means the rating of the antiknock characteristics of a grade or type of automotive fuel as determined by dividing by 2 the sum of the research octane number plus the motor octane number, unless another procedure is prescribed under section 2823(c)(3) of this title, in which case such term means the rating of such characteristics as determined under the procedure so prescribed.
 
-&emsp;(2) The terms "research octane number" and "motor octane number" have the meanings given such terms in the specifications of the American Society for Testing and Materials (ASTM) entitled "Standard Specification for Automotive Spark-Ignition Engine Fuel" designated D4814 (as in effect on June 19, 1978) and, with respect to any grade or type of automotive gasoline, are determined in accordance with test methods set forth in ASTM standard test methods designated D 2699 and D 2700 (as in effect on such date).
+&emsp;(2) The terms "research octane number" and "motor octane number" have the meanings given such terms in the specifications of the American Society for Testing and Materials (ASTM) entitled "Standard Specification forAutomotive Spark-Ignition Engine Fuel" designated D4814 (as in effect on June 19, 1978) and, with respect to any grade or type of automotive gasoline, are determined in accordance with test methods set forth in ASTM standard test methods designated D 2699 and D 2700 (as in effect on such date).
 
 &emsp;(3) The term "knock" means the combustion of a fuel spontaneously in localized areas of a cylinder of a spark-ignition engine, instead of the combustion of such fuel progressing from the spark.
 
@@ -54,7 +54,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(ii) designated D613 in the case of cetane number,
 
-> &emsp;(as in effect on October 24, 1992) and shall apply to any grade or type of diesel fuel oils defined in the specification of the American Society for Testing and Materials entitled "Standard Specification for Diesel Fuel Oils"designated D975 (as in effect on October 24, 1992).
+> &emsp;(as in effect on October 24, 1992) and shall apply to any grade or type of diesel fuel oils defined in the specification of the American Society for Testing and Materials entitled "Standard Specification for Diesel Fuel Oils" designated D975 (as in effect on October 24, 1992).
 
 (Pub. L. 95–297, title II, §201, June 19, 1978, 92 Stat. 333; Pub. L. 102–486, title XV, §1501(a)–(c)(1), Oct. 24, 1992, 106 Stat. 2996.)
 
@@ -62,7 +62,7 @@ As used in this subchapter:
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Codification
 

@@ -14,7 +14,7 @@ Establishment and Adjustment of Fees.—
 
 &emsp;(1)
 
-In general.—In establishing and adjusting fees under this section, the Administratorshall ensure that the fees are reasonably related to the Administration's costs, as determined by the Administrator, of providing the services rendered.
+In general.—In establishing and adjusting fees under this section, the Administrator shall ensure that the fees are reasonably related to the Administration's costs, as determined by the Administrator, of providing the services rendered.
 
 &emsp;(2)
 
@@ -32,7 +32,7 @@ Limitations on judicial review.—Notwithstanding section 702 of title 5 or any 
 
 &emsp;(4)
 
-Aircraft altitude.—Nothing in this section shall require the Administrator to take into account aircraft altitude in establishing any fee for aircraft operations in en route or oceanic airspace.
+Aircraft altitude.—Nothing in this section shall require the Administrator to take into account aircraft altitude in establishingany fee for aircraft operations in en route or oceanic airspace.
 
 &emsp;(5)
 
@@ -98,7 +98,7 @@ Applicability and effect of certain law.—Notwithstanding section 141(d)(1) of 
 
 &emsp;"(2)
 
-Adoption and legalization.—The interim final rule and final rule referred to in subsection (a), including the fees issued pursuant to those rules, are adopted, legalized, and confirmed as fully to all intents and purposes as if the same had, by prior Act ofCongress, been specifically adopted, authorized, and directed as of the date those rules were originally issued.
+Adoption and legalization.—The interim final rule and final rule referred to in subsection (a), including the fees issued pursuant to those rules, are adopted, legalized, and confirmed as fully to all intents and purposes as if the same had, by prior Act of Congress, been specifically adopted, authorized, and directed as of the date those rules were originally issued.
 
 &emsp;"(3)
 

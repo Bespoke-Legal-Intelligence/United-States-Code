@@ -106,7 +106,7 @@ Decision.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Not later than 90 days after the receipt of the notification from arailroad carrier or other entity under subparagraph (A), the Secretary shall—
+In general.—Not later than 90 days after the receipt of the notification from a railroad carrier or other entity under subparagraph (A), the Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) approve an alternative schedule and sequence submitted pursuant to paragraph (2)(B) if the railroad carrier or other entity meets the criteria in subparagraph (B); and
 
@@ -238,7 +238,7 @@ Certification.—
 
 &emsp;(1)
 
-In general.—The Secretary shall not permit the installation of any positive train control system or component in revenue service unless the Secretary has certified that any such system or component has been approved through the approval process set forth in part 236 of title 49, Code of Federal Regulations, and complies with the requirements of that part.
+In general.—The Secretary shall not permit the installation of any positive traincontrol system or component in revenue service unless the Secretary has certified that any such system or component has been approved through the approval process set forth in part 236 of title 49, Code of Federal Regulations, and complies with the requirements of that part.
 
 &emsp;(2)
 
@@ -282,7 +282,7 @@ Early Adoption.—
 
 &emsp;(1)
 
-Operations.—From the date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015 throughthe 1-year period beginning on the date on which the last Class I railroad carrier's positive train control system subject to subsection (a) is certified by the Secretary under subsection (h)(1) of this section and is implemented on all of that railroad carrier's lines required to have operations governed by a positive train control system, any railroad carrier, including any railroad carrier that has its positive train control system certified by the Secretary, shall not be subject to the operational restrictions set forth in sections 236.567 and 236.1029 of title 49, Code of Federal Regulations, that would apply where a controlling locomotive that is operating in, or is to be operated in, a positive train control-equipped track segment experiences a positive train control system failure, a positive train control operated consist is not provided by another railroad carrier when provided in interchange, or a positive train control system otherwise fails to initialize, cuts out, or malfunctions, provided that such carrier operates at an equivalent or greater level of safety than the level achieved immediately prior to the use or implementation of its positive train control system.
+Operations.—From the date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015 through the 1-year period beginning on the date on which the last Class I railroad carrier's positive train control system subject to subsection (a) is certified by the Secretary under subsection (h)(1) of this section and is implemented on all of that railroad carrier's lines required to have operations governed by a positive train control system, any railroad carrier, including any railroad carrier that has its positive train control system certified by the Secretary, shall not be subject to the operational restrictions set forth in sections 236.567 and 236.1029 of title 49, Code of Federal Regulations, that would apply where a controlling locomotive that is operating in, or is to be operated in, a positive train control-equipped track segment experiences a positive train control system failure, a positive train control operated consist is not provided by another railroad carrier when provided in interchange, or a positive train control system otherwise fails to initialize, cuts out, or malfunctions, provided that such carrier operates at an equivalent or greater level of safety than the level achieved immediately prior to the use or implementation of its positive train control system.
 
 &emsp;(2)
 

@@ -6,7 +6,7 @@ The authority and responsibility for administering this chapter shall be in the 
 
 #### (b) Hearings
 
-All hearings shall be public and appropriate records thereof shall be kept, and any order issued after such hearing shall be based on the record made in such hearing which shall be conducted in accordance with the provisions of subchapter II of chapter 5, and chapter 7, of title 5.
+All hearings shall be public and appropriate records thereof shall be kept, and any order issued after such hearing shall be based on therecord made in such hearing which shall be conducted in accordance with the provisions of subchapter II of chapter 5, and chapter 7, of title 5.
 
 #### (c) Procedures applicable
 

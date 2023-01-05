@@ -8,7 +8,7 @@
 
 &emsp;(1) specifying the number of enlisted aides authorized and allocated for general officers and flag officers of the Army, Navy, Air Force, Marine Corps, and joint pool as of September 30 of the previous year; and
 
-&emsp;(2) justifying, on a billet-by-billet basis, the authorization and assignment of each enlisted aide to each general officer and flag officer position.
+&emsp;(2) justifying, on a billet-by-billet basis, the authorization and assignment of each enlistedaide to each general officer and flag officer position.
 
 (Added Pub. L. 98–525, title XIV, §1401(c)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 113–291, div. A, title V, §504(a), Dec. 19, 2014, 128 Stat. 3355.)
 

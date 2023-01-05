@@ -12,7 +12,7 @@
 
 #### References in Text
 
-Section 5(2)(f) of the Interstate Commerce Act, referred to in subsec. (a), was classified to section 5(2)(f)of former Title 49, Transportation, prior to repeal and reenactment as section 11347 of this title by Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1439. Section 11347 of this title was subsequently omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+Section 5(2)(f) of the Interstate Commerce Act, referred to in subsec. (a), was classified to section 5(2)(f) of former Title 49, Transportation, prior to repeal and reenactment as section 11347 of this title by Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1439. Section 11347 of this title was subsequently omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 Section 24706(c) of this title, referred to in subsec. (a), was repealed by Pub. L. 105–134, title I, §142(a), Dec. 2, 1997, 111 Stat. 2576.
 

@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 116–283, §1864(c)(2), substituted "section 3531(a), 3803
 
 <b>1994</b>—Pub. L. 103–355 amended section generally. Prior to amendment, section read as follows:
 
-"(a) Determinations and decisions required to be made under this chapter by the head of an agency may be made for an individual purchase or contract or, except for determinations and decisions under section 2304 or 2305 of this title, for a class of purchases or contracts. Such a determination or decision, including adetermination or decision under section 2304 or 2305 of this title, is final.
+"(a) Determinations and decisions required to be made under this chapter by the head of an agency may be made for an individual purchase or contract or, except for determinations and decisions under section 2304 or 2305 of this title, for a class of purchases or contracts. Such a determination or decision, including a determination or decision under section 2304 or 2305 of this title, is final.
 
 "(b) Each determination or decision under section 2306(c), 2306(g)(1), 2307(c), or 2313(c) of this title shall be based on a written finding by the person making the determination or decision, which finding shall set out facts and circumstances that—
 

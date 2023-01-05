@@ -106,7 +106,7 @@ The Council shall—
 
 #### (2) Responsibility of the Administrator
 
-&emsp;The Administrator, as part of the ongoing program to review and update National FloodInsurance Program rate maps under section 4101b of this title, shall incorporate any future risk assessment submitted under paragraph (1)(B) in any such revision or update.
+&emsp;The Administrator, as part of the ongoing program to review and update National Flood Insurance Program rate maps under section 4101b of this title, shall incorporate any future risk assessment submitted under paragraph (1)(B) in any such revision or update.
 
 #### (e) Chairperson
 

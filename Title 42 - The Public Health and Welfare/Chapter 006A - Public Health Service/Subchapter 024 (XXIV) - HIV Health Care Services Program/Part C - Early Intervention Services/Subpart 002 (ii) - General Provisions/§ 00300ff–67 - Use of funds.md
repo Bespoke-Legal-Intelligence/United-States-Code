@@ -10,7 +10,7 @@ Counseling programs carried out under this part—
 
 &emsp;(4) shall provide information on the transmission and prevention of hepatitis A, B, and C, including education about the availability of hepatitis A and B vaccines and assisting patients in identifying vaccination sites.
 
-(July 1, 1944, ch. 373, title XXVI, §2667, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 614; amended Pub. L. 109–415, title VII, §§701, 702(3), 703, Dec. 19, 2006, 120 Stat. 2819, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2667, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 614; amended Pub. L. 109–415, title VII, §§701, 702(3), 703, Dec. 19, 2006, 120 Stat. 2819, 2820;Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### <b>Editorial Notes</b>
 

@@ -50,7 +50,7 @@ Definitions.—In this section:
 
 Subsecs. (c) to (f). Pub. L. 116–92, §702(b)(1), redesignated subsecs. (d), (e), and (f) as (c), (d), and (e), respectively, and struck out former subsec. (c) which read as follows: "
 
-Payment Options for Retirees.—A member or former member of the uniformed services eligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by themember or former member for an enrollment in TRICARE Prime withheld from the member's retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis."
+Payment Options for Retirees.—A member or former member of the uniformed services eligible for medical care and dental care under section 1074(b) of this title may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member's retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis."
 
 <b>2016</b>—Subsec. (b). Pub. L. 114–328 struck out par. (1) designation before "An enrollment" and struck out par. (2) which read as follows: "Not later than 15 days before the expiration date for an enrollment of a covered beneficiary in TRICARE Prime, the Secretary concerned shall—
 
@@ -142,7 +142,7 @@ Access to TRICARE Prime.—
 
 &emsp;"(1)
 
-One-time election.—Subject to paragraph (3), the Secretary shall ensure that each affected eligiblebeneficiary who is enrolled in TRICARE Prime as of September 30, 2013, may make a one-time election to continue such enrollment in TRICARE Prime, notwithstanding that a contract described in subsection (a)(2)(A) does not allow for such enrollment based on the location in which such beneficiary resides. The beneficiary may continue such enrollment in TRICARE Prime so long as the beneficiary resides in the same ZIP code as the ZIP code in which the beneficiary resided at the time of such election.
+One-time election.—Subject to paragraph (3), the Secretary shall ensure that each affected eligible beneficiary who is enrolled in TRICARE Prime as of September 30, 2013, may make a one-time election to continue such enrollment in TRICARE Prime, notwithstanding that a contract described in subsection (a)(2)(A) does not allow for such enrollment based on the location in which such beneficiary resides. The beneficiary may continue such enrollment in TRICARE Prime so long as the beneficiary resides in the same ZIP code as the ZIP code in which the beneficiary resided at the time of such election.
 
 &emsp;"(2)
 

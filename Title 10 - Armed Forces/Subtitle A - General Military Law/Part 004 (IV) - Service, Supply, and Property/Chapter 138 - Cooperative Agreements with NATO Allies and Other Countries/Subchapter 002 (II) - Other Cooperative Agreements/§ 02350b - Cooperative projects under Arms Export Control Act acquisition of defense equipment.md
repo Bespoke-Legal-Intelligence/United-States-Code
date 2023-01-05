@@ -2,7 +2,7 @@
 
 (a)(1) If the President delegates to the Secretary of Defense the authority to carry out section 27(d) of the Arms Export Control Act (22 U.S.C. 2767(d)), relating to cooperative projects (as defined in such section), the Secretary may utilize his authority under this title in carrying out contracts or obligations incurred under such section.
 
-(2) Except as provided in subsection (c), chapter 137 <sup>1</sup> of this title shall apply to such contracts (referred to in paragraph (1)) entered into by the Secretary of Defense. Except to the extent waived under subsection (c) or some other provision of law, all other provisions of law relating to procurement, if otherwise applicable, shall apply to such contracts entered into by the Secretary of Defense.
+(2) Except as provided in subsection (c), chapter 137 <sup>1</sup> of this title shall apply to such contracts (referred to in paragraph (1)) entered into by the Secretary of Defense. Except to the extent waived under subsection (c) or some otherprovision of law, all other provisions of law relating to procurement, if otherwise applicable, shall apply to such contracts entered into by the Secretary of Defense.
 
 (b) When contracting or incurring obligations under section 27(d) of the Arms Export Control Act for cooperative projects, the Secretary of Defense may require subcontracts to be awarded to particular subcontractors in furtherance of the cooperative project.
 
@@ -20,7 +20,7 @@
 
 (3) The authority of the Secretary to make waivers under this subsection may be delegated only to the Deputy Secretary of Defense or the Acquisition Executive designated for the Office of the Secretary of Defense.
 
-(d)(1) The Secretary of Defense shall notify the Congress each time he requires that a primecontract be awarded to a particular prime contractor or that a subcontract be awarded to a particular subcontractor to comply with a cooperative agreement. The Secretary shall include in each such notice the reason for exercising his authority to designate a particular contractor or subcontractor, as the case may be.
+(d)(1) The Secretary of Defense shall notify the Congress each time he requires that a prime contract be awarded to a particular prime contractor or that a subcontract be awarded to a particular subcontractor to comply with a cooperative agreement. The Secretary shall include in each such notice the reason for exercising his authority to designate a particular contractor or subcontractor, as the case may be.
 
 (2) The Secretary shall also notify the Congress each time he exercises a waiver under subsection (c) and shall include in such notice the particular provision or provisions of law that were waived.
 

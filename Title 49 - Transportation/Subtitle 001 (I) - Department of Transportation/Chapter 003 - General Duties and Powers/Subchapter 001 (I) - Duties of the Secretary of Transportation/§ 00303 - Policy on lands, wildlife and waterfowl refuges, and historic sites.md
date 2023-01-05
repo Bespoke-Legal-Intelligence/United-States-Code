@@ -202,7 +202,7 @@ In subsection (c), before clause (1), the words "After August 23, 1968" after "S
 
 Section 204 of title 23, referred to in subsec. (c), was repealed and a new section 204 enacted by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473, 489.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (e)(1)(A), (2)(A), is Pub. L. 91–190,Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e)(1)(A), (2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (e)(1)(B), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 

@@ -24,7 +24,7 @@
 
 #### (3) Terms and conditions; repayment
 
-&emsp;Advances pursuant to this subsection shall be upon such terms and conditions (including conditions relating to the time or times of payment) consistent with the requirements of section 1078(b) of this title as the Secretarydetermines will best carry out the purpose of this section. Advances made by the Secretary under this subsection shall be repaid within such period as the Secretary may deem to be appropriate in each case in the light of the maturity and solvency of the reserve fund for which the advance was made.
+&emsp;Advances pursuant to this subsection shall be upon such terms and conditions (including conditions relating to the time or times of payment) consistent with the requirements of section 1078(b) of this title as the Secretary determines will best carry out the purpose of this section. Advances made by the Secretary under this subsection shall be repaid within such period as the Secretary may deem to be appropriate in each case in the light of the maturity and solvency of the reserve fund for which the advance was made.
 
 #### (b) Limitations on total advances
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(A) in the case of a State which is actively carrying on a program under an agreement pursuant to section 1078(b) of this title which was entered into before October 12, 1976, upon such date as such State may request, but not before October 1, 1977, and on the same day of each of the 2 succeeding calendar years after the date so requested; and
 
-&emsp;&emsp;(B) in the case of a State which enters into an agreement pursuant to section 1078(b) of this title on or after October 12, 1976, or which is not actively carrying on a program under an agreement pursuant to such section on such date, upon such date as such State may request, but not before October 1,1977, and on the same day of each of the 4 succeeding calendar years after the date so requested of the advance.
+&emsp;&emsp;(B) in the case of a State which enters into an agreement pursuant to section 1078(b) of this title on or after October 12, 1976, or which is not actively carrying on a program under an agreement pursuant to such section on such date, upon such date as such State may request, but not before October 1, 1977, and on the same day of each of the 4 succeeding calendar years after the date so requested of the advance.
 
 #### (6) Payment of advances where no State program
 
@@ -120,7 +120,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall pay any guaranty agency the amount of reimbursement of claims under section 1078(c)(1) of this title, filed between September 1, 1988, and December 31, 1989, which were previously withheld or canceled in order to be applied to satisfy such agency's obligation to eliminate excess cash reserves held by such agency, based on the maximum cash reserve (as described in subsection (e) of this section as in effect on September 1, 1988) permitted at the end of 1986, if such maximum cash reserve was miscalculated because of erroneous financial information provided by such agency to the Secretary and if (A) such erroneous information is verified by an audited financial statement of the reserve fund, signed by a certified public accountant, and (B) such audited financial statement is provided to the Secretary prior to January 1, 1993.
+&emsp;The Secretary shall pay any guaranty agency the amount of reimbursement of claimsunder section 1078(c)(1) of this title, filed between September 1, 1988, and December 31, 1989, which were previously withheld or canceled in order to be applied to satisfy such agency's obligation to eliminate excess cash reserves held by such agency, based on the maximum cash reserve (as described in subsection (e) of this section as in effect on September 1, 1988) permitted at the end of 1986, if such maximum cash reserve was miscalculated because of erroneous financial information provided by such agency to the Secretary and if (A) such erroneous information is verified by an audited financial statement of the reserve fund, signed by a certified public accountant, and (B) such audited financial statement is provided to the Secretary prior to January 1, 1993.
 
 #### (2) Amount
 
@@ -240,7 +240,7 @@ The Secretary shall, within 30 days after July 23, 1992, pay the full amount of 
 
 #### (B) Use of termination collections
 
-&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary undersubsection (g)(1)(B) during such period that do not exceed a guaranty agency's required share of recalled reserve funds under paragraph (3)—
+&emsp;&emsp;Any reserve funds directed by the Secretary to be returned to the Secretary under subsection (g)(1)(B) during such period that do not exceed a guaranty agency's required share of recalled reserve funds under paragraph (3)—
 
 &emsp;&emsp;&emsp;(i) shall be used to satisfy the agency's required share of recalled reserve funds; and
 

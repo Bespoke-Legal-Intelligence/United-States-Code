@@ -208,7 +208,7 @@ Consumer credit.—The term "consumer credit" has the meaning provided for such 
 
 #### References in Text
 
-The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 The Servicemembers Civil Relief Act, referred to in subsec. (e)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 3901 of Title 50 and Tables.
 
@@ -272,7 +272,7 @@ Publication of earlier effective date.—If the Secretary of Defense prescribes 
 
 #### Meetings With Private Sector Users of Systems
 
-Pub. L. 114–92, div. A, title V, §594(b)(3), Nov. 25, 2015, 129 Stat. 834, provided that: "The Director of the Defense Manpower Data Center shall meet regularly with private sector users of Defense Manpower Data Center systems used to identify covered borrowers and covered policyholders under military consumer protection laws to learn about issues facing such users and to develop ways of addressing such issues. The first meeting pursuant to this requirement shall take place with \[within\] three months after the date of the enactment of this Act \[Nov. 25, 2015\]."
+Pub. L. 114–92, div. A, title V, §594(b)(3), Nov. 25, 2015, 129 Stat. 834, provided that: "The Director of the Defense Manpower Data Center shall meet regularly with private sector users of Defense Manpower Data Centersystems used to identify covered borrowers and covered policyholders under military consumer protection laws to learn about issues facing such users and to develop ways of addressing such issues. The first meeting pursuant to this requirement shall take place with \[within\] three months after the date of the enactment of this Act \[Nov. 25, 2015\]."
 
 #### Interim Regulations
 

@@ -148,9 +148,9 @@ For purposes of this subchapter:
 
 (30) The term "unfunded accrued liability" means the excess of the accrued liability, under an actuarial cost method which so provides, over the present value of the assets of a pension plan. The Secretary of the Treasury may prescribe regulations to carry out this paragraph.
 
-(31) The term "advance funding actuarial cost method" or "actuarial cost method" means a recognized actuarial technique utilized for establishing the amount and incidence of the annual actuarial cost of pension plan benefits and expenses. Acceptable actuarial cost methods shall include the accrued benefit cost method (unit credit method), the entry age normal cost method, the individual level premium cost method, the aggregate cost method, the attained age normal cost method, and the frozen initial liability cost method. The terminal funding cost method and the current funding (pay-as-you-go) cost method are not acceptable actuarial cost methods. The Secretary of the Treasury shall issue regulations to further define acceptable actuarial cost methods.
+(31) The term "advance funding actuarial cost method" or "actuarial cost method" means a recognized actuarial technique utilized for establishing the amount and incidence of the annual actuarial cost of pension plan benefits and expenses. Acceptable actuarial cost methods shall include the accrued benefit cost method (unit credit method), the entry age normal cost method, the individual level premium costmethod, the aggregate cost method, the attained age normal cost method, and the frozen initial liability cost method. The terminal funding cost method and the current funding (pay-as-you-go) cost method are not acceptable actuarial cost methods. The Secretary of the Treasury shall issue regulations to further define acceptable actuarial cost methods.
 
-(32) The term "governmental plan" means a plan established or maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term "governmentalplan" also includes any plan to which the Railroad Retirement Act of 1935, or 1937 \[45 U.S.C. 231 et seq.\] applies, and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation under the provisions of the International Organizations Immunities Act \[22 U.S.C. 288 et seq.\]. The term "governmental plan" includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function) <sup>3</sup>
+(32) The term "governmental plan" means a plan established or maintained for its employees by the Government of the United States, by the government of any State or political subdivision thereof, or by any agency or instrumentality of any of the foregoing. The term "governmental plan" also includes any plan to which the Railroad Retirement Act of 1935, or 1937 \[45 U.S.C. 231 et seq.\] applies, and which is financed by contributions required under that Act and any plan of an international organization which is exempt from taxation under the provisions of the International Organizations Immunities Act \[22 U.S.C. 288 et seq.\]. The term "governmental plan" includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function) <sup>3</sup>
 
 (33)(A) The term "church plan" means a plan established and maintained (to the extent required in clause (ii) of subparagraph (B)) for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of title 26.
 
@@ -188,7 +188,7 @@ For purposes of this subchapter:
 
 (iii) For purposes of this subparagraph, the term "correction period" means—
 
-&emsp;(I) the period ending 270 days after the date of mailing by the Secretary of the Treasury of a notice of default with respect to the plan's failure to meet one or more of the requirements of this paragraph; or
+&emsp;(I) the period ending 270 days after the date of mailing by the Secretary of the Treasury ofa notice of default with respect to the plan's failure to meet one or more of the requirements of this paragraph; or
 
 &emsp;(II) any period set by a court of competent jurisdiction after a final determination that the plan fails to meet such requirements, or, if the court does not specify such period, any reasonable period determined by the Secretary of the Treasury on the basis of all the facts and circumstances, but in any event not less than 270 days after the determination has become final; or
 
@@ -246,13 +246,13 @@ For purposes of this subchapter:
 
 &emsp;(II) a plan that meets the criteria in clauses (i) and (ii) of subparagraph (A) of this paragraph or that is described in clause (vi) may, pursuant to procedures prescribed by the Pension Benefit Guaranty Corporation, elect to be a multiemployer plan, if—
 
-&emsp;&emsp;(aa) for each of the 3 plan years immediately preceding the first plan year for which the election under this paragraph is effective with respect to the plan, the plan has met those criteria or is so described,
+&emsp;&emsp;(aa) for each of the 3 plan years immediately preceding the first plan year forwhich the election under this paragraph is effective with respect to the plan, the plan has met those criteria or is so described,
 
 &emsp;&emsp;(bb) substantially all of the plan's employer contributions for each of those plan years were made or required to be made by organizations that were exempt from tax under section 501 of title 26, and
 
 &emsp;&emsp;(cc) the plan was established prior to September 2, 1974.
 
-(ii) An election under this subparagraph shall be effective for all purposes under this chapter and under title 26, starting with any plan yearbeginning on or after January 1, 1999, and ending before January 1, 2008, as designated by the plan in the election made under clause (i)(II).
+(ii) An election under this subparagraph shall be effective for all purposes under this chapter and under title 26, starting with any plan year beginning on or after January 1, 1999, and ending before January 1, 2008, as designated by the plan in the election made under clause (i)(II).
 
 (iii) Once made, an election under this subparagraph shall be irrevocable, except that a plan described in clause (i)(II) shall cease to be a multiemployer plan as of the plan year beginning immediately after the first plan year for which the majority of its employer contributions were made or required to be made by organizations that were not exempt from tax under section 501 of title 26.
 
@@ -300,7 +300,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(II) any organization described in paragraph (4) or (6) of section 501(c) of title 26 which is exempt from tax under section 501(a) of title 26 and at least 80 percent of the members of which are organizations described in subclause (I), and
 
-&emsp;(v) the term "rural telephone cooperative association" means an organization described inparagraph (4) or (6) of section 501(c) of title 26 which is exempt from tax under section 501(a) of title 26 and at least 80 percent of the members of which are organizations engaged primarily in providing telephone service to rural areas of the United States on a mutual, cooperative, or other basis.
+&emsp;(v) the term "rural telephone cooperative association" means an organization described in paragraph (4) or (6) of section 501(c) of title 26 which is exempt from tax under section 501(a) of title 26 and at least 80 percent of the members of which are organizations engaged primarily in providing telephone service to rural areas of the United States on a mutual, cooperative, or other basis.
 
 (41)
 
@@ -318,11 +318,11 @@ In general.—The term "pooled employer plan" means a plan—
 
 &emsp;&emsp;(i) which is an individual account plan established or maintained for the purpose of providing benefits to the employees of 2 or more employers;
 
-&emsp;&emsp;(ii) which is a plan described in section 401(a) of title 26 which includes a trust exempt from tax under section 501(a) of title 26 or a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof); and
+&emsp;&emsp;(ii) which is a plan described in section 401(a) of title 26 which includes a trust exempt from tax under section 501(a) of title 26, a plan that consists of annuity contracts described in section 403(b) of title 26, or a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof); and
 
 &emsp;&emsp;(iii) the terms of which meet the requirements of subparagraph (B).
 
-> &emsp;Such term shall not include a plan maintained by employers which have a common interest other than having adopted the plan.
+> &emsp;Such term shall not include a plan maintained by employers which have a common interest other than having adopted the plan, but such term shall include any plan (other than a plan excepted from the application of this title by section 1003(b)(2) of this title) maintained for the benefit of the employees of more than 1 employer that consists of annuity contracts described in section 403(b) of title 26 and that meets the requirements of subparagraph (B) of section 413(e)(1) of title 26.
 
 &emsp;(B)
 
@@ -330,7 +330,7 @@ Requirements for plan terms.—The requirements of this subparagraph are met wit
 
 &emsp;&emsp;(i) designate a pooled plan provider and provide that the pooled plan provider is a named fiduciary of the plan;
 
-&emsp;&emsp;(ii) designate one or more trustees meeting the requirements of section 408(a)(2) of title 26 (other than an employer in the plan) to be responsible for collecting contributions to, and holding the assets of, the plan and require such trustees to implement written contribution collection procedures that are reasonable, diligent, and systematic;
+&emsp;&emsp;(ii) designate a named fiduciary (other than an employer in the plan) to be responsible for collecting contributions to the plan and require such fiduciary to implement written contribution collection procedures that are reasonable, diligent, and systematic;
 
 &emsp;&emsp;(iii) provide that each employer in the plan retains fiduciary responsibility for—
 
@@ -344,7 +344,7 @@ Requirements for plan terms.—The requirements of this subparagraph are met wit
 
 &emsp;&emsp;&emsp;(I) the pooled plan provider to provide to employers in the plan any disclosures or other information which the Secretary may require, including any disclosures or other information to facilitate the selection or any monitoring of the pooled plan provider by employers in the plan; and
 
-&emsp;&emsp;&emsp;(II) each employer in the plan to take such actions as the Secretary or the pooled plan provider determines are necessary to administer the plan or for the plan to meet any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26 or to a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof), whichever is applicable, including providing any disclosures or other information which the Secretary may require or which the pooled plan provider otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements; and
+&emsp;&emsp;&emsp;(II) each employer in the plan to take such actions as the Secretary or the pooled plan provider determines are necessary to administer the plan or for the plan to meet any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26, a plan that consists of annuity contracts described in section 403(b) of title 26, or to a plan that consists of individual retirement accounts described in section 408 of title 26 (includingby reason of subsection (c) thereof), whichever is applicable, including providing any disclosures or other information which the Secretary may require or which the pooled plan provider otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements; and
 
 &emsp;&emsp;(vi) provide that any disclosure or other information required to be provided under clause (v) may be provided in electronic form and will be designed to ensure only reasonable costs are imposed on pooled plan providers and employers in the plan.
 
@@ -370,7 +370,7 @@ In general.—The term "pooled plan provider" means a person who—
 
 &emsp;&emsp;(i) is designated by the terms of a pooled employer plan as a named fiduciary, as the plan administrator, and as the person responsible for the performance of all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—
 
-&emsp;&emsp;&emsp;(I) the plan meets any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26 or to a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof), whichever is applicable; and
+&emsp;&emsp;&emsp;(I) the plan meets any requirement applicable under this chapter or title 26 to a plan described in section 401(a) of title 26, a plan that consists of annuity contracts described in section 403(b) of title 26, or to a plan that consists of individual retirement accounts described in section 408 of title 26 (including by reason of subsection (c) thereof), whichever is applicable; and
 
 &emsp;&emsp;&emsp;(II) each employer in the plan takes such actions as the Secretary or pooled plan provider determines are necessary for the plan to meet the requirements described in subclause (I), including providing the disclosures and information described in paragraph (43)(B)(v)(II);
 
@@ -406,7 +406,21 @@ Good faith compliance with law before guidance.—An employer or pooled plan pro
 
 Aggregation rules.—For purposes of this paragraph, in determining whether a person meets the requirements of this paragraph to be a pooled plan provider with respect to any plan, all persons who perform services for the plan and who are treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of title 26 shall be treated as one person.
 
-(Pub. L. 93–406, title I, §3, Sept. 2, 1974, 88 Stat. 833; Pub. L. 96–364, title III, §§302, 305, title IV, §§407(a), 409, Sept. 26, 1980, 94 Stat. 1291, 1294, 1303, 1307; Pub. L. 97–473, title III, §302(a), Jan. 14, 1983, 96 Stat. 2612; Pub. L. 99–272, title XI, §11016(c)(1), Apr. 7, 1986, 100 Stat. 273; Pub. L. 99–509, title IX, §9203(b)(1), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XVIII, §1879(u)(3), Oct. 22, 1986, 100 Stat. 2913; Pub. L. 100–202, §136(a), Dec. 22, 1987, 101 Stat. 1329–441; Pub. L. 101–239, title VII, §§7871(b)(2), 7881(m)(2)(D), 7891(a)(1), 7893(a), 7894(a)(1)(A), (2)(A), (3), (4), Dec. 19, 1989, 103 Stat. 2435, 2444, 2445, 2447, 2448; Pub. L. 101–508, title XII, §12002(b)(2)(C), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 102–89, §2, Aug. 14, 1991, 105 Stat. 446; Pub. L. 104–290, title III, §308(b)(1), Oct. 11, 1996, 110 Stat. 3440; Pub. L. 105–72, §1(a), Nov. 10, 1997, 111 Stat. 1457; Pub. L. 109–280, title VI,§611(f), title IX, §§905(a), 906(a)(2)(A), title XI, §§1104(c), 1106(a), Aug. 17, 2006, 120 Stat. 972, 1050, 1051, 1060; Pub. L. 110–28, title VI, §6611(a)(1), (b)(1), May 25, 2007, 121 Stat. 179, 180; Pub. L. 110–458, title I, §111(c), Dec. 23, 2008, 122 Stat. 5113; Pub. L. 116–94, div. O, title I, §101(b), (c)(1), (3), Dec. 20, 2019, 133 Stat. 3141, 3144.)
+(Pub. L. 93–406, title I, §3, Sept. 2, 1974, 88 Stat. 833; Pub. L. 96–364, title III, §§302, 305, title IV, §§407(a), 409, Sept. 26, 1980, 94 Stat. 1291, 1294, 1303, 1307; Pub. L. 97–473, title III, §302(a), Jan. 14, 1983, 96 Stat. 2612; Pub. L. 99–272, title XI, §11016(c)(1), Apr. 7, 1986, 100 Stat. 273; Pub. L. 99–509, title IX, §9203(b)(1), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XVIII, §1879(u)(3), Oct. 22, 1986, 100 Stat. 2913; Pub. L. 100–202, §136(a), Dec. 22, 1987, 101 Stat. 1329–441; Pub. L. 101–239, title VII, §§7871(b)(2), 7881(m)(2)(D), 7891(a)(1), 7893(a), 7894(a)(1)(A), (2)(A), (3), (4), Dec. 19, 1989, 103 Stat. 2435, 2444, 2445, 2447, 2448; Pub. L. 101–508, title XII, §12002(b)(2)(C), Nov. 5, 1990, 104 Stat. 1388–566; Pub. L. 102–89, §2, Aug. 14, 1991, 105 Stat. 446; Pub. L. 104–290, title III, §308(b)(1), Oct. 11, 1996, 110 Stat. 3440; Pub. L. 105–72, §1(a), Nov. 10, 1997, 111 Stat. 1457; Pub. L. 109–280, title VI, §611(f), title IX, §§905(a), 906(a)(2)(A), title XI, §§1104(c), 1106(a), Aug. 17, 2006, 120 Stat. 972, 1050, 1051, 1060; Pub. L. 110–28, title VI, §6611(a)(1), (b)(1), May 25, 2007, 121 Stat. 179, 180; Pub. L. 110–458, title I, §111(c), Dec. 23, 2008, 122 Stat. 5113; Pub. L. 116–94, div. O, title I, §101(b), (c)(1), (3), Dec. 20, 2019, 133 Stat. 3141, 3144; Pub. L. 117–328, div. T, title I, §§105(a), 106(d), 127(a), Dec. 29, 2022, 136 Stat. 5286, 5287, 5317.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–328, div. T, title I, §127(a), (g), Dec. 29, 2022, 136 Stat. 5317, 5330, provided that, applicable to plan years beginning after Dec. 31, 2023, this section is amended by adding at the end the following:</i>
+
+<i>"(45)</i>
+
+<i>Pension-linked emergency savings account.—The term 'pension-linked emergency savings account' means a short-term savings account established and maintained as part of an individual account plan, in accordance with section 1193 of this title, on behalf of an eligible participant (as such term is defined in section 1193(b) of this title) that—</i>
+
+&emsp;<i>"(A) is a designated Roth account (within the meaning of section 402A of title 26) and accepts only participant contributions, as described in section 1193(d)(1)(A) of this title, which are designated Roth contributions subject to the rules of section 402A(e) of title 26; and</i>
+
+&emsp;<i>"(B) meets the requirements of part 8 of subtitle B."</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -414,19 +428,19 @@ Aggregation rules.—For purposes of this paragraph, in determining whether a pe
 
 This chapter, referred to in pars. (2)(B), (37)(E), (G)(ii), (vii), (43)(B)(v)(II), and (44)(A)(i)(I), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Outer Continental Shelf Lands Act, referred to in par. (10), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in par. (10), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
-The Labor Management Relations Act, 1947, referred to in par. (12), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
+The Labor Management Relations Act, 1947, referred to in par. (12), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
-The Railway Labor Act, referred to in par. (12), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in par. (12), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 Section 77b(1) of title 15, referred to in par. (20), was redesignated section 77b(a)(1) of title 15 by Pub. L. 104–290, title I, §106(a)(1), Oct. 11, 1996, 110 Stat. 3424.
 
-The Investment Company Act of 1940, referred to in par. (21)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in par. (21)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Railroad Retirement Act of 1935 or 1937, referred to in par. (32), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, as amended, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Retirement Act of 1935 or 1937, referred to in par. (32), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
-The International Organizations Immunities Act, referred to in par. (32), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
+The International Organizations Immunities Act, referred to in par. (32), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
 
 Sections 1453(b) and (c) of this title, referred to in par. (37)(E), was in the original "sections 4403(b) and (c)", meaning sections 4403(b) and (c) of the Employee Retirement Income Security Act of 1974, which was translated as section 1453(b) and (c) of this title as the probable intent of Congress, in view of the Employee Retirement Income Security Act of 1974 not containing a section 4403 and the subject matter of section 4303 of the Act which is classified to section 1453(b) and (c) of this title.
 
@@ -434,9 +448,21 @@ The Internal Revenue Code of 1954, referred to in par. (37)(E), was redesignated
 
 For the effective date of the Multiemployer Pension Plan Amendments Act of 1980, referred to in par. (37)(E), see section 1461(e) of this title.
 
-The Investment Advisers Act of 1940, referred to in par. (38)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+The Investment Advisers Act of 1940, referred to in par. (38)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Par. (43)(A). Pub. L. 117–328, §106(d)(1)(B), substituted "the plan, but such term shall include any plan (other than a plan excepted from the application of this title by section 1003(b)(2) of this title) maintained for the benefit of the employees of more than 1 employer that consists of annuity contracts described in section 403(b) of title 26 and that meets the requirements of subparagraph (B) of section 413(e)(1) of title 26." for "the plan." in concluding provisions.
+
+Par. (43)(A)(ii). Pub. L. 117–328, §106(d)(1)(A), substituted "section 501(a) of title 26, a plan that consists of annuity contracts described in section 403(b) of title 26, or" for "section 501(a) of title 26 or".
+
+Par. (43)(B)(ii). Pub. L. 117–328, §105(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "designate one or more trustees meeting the requirements of section 408(a)(2) of title 26 (other than an employer in the plan) to be responsible for collecting contributions to, and holding the assets of, the plan and require such trustees to implement written contribution collection procedures that are reasonable, diligent, and systematic;".
+
+Par. (43)(B)(v)(II). Pub. L. 117–328, §106(d)(2), substituted "section 401(a) of title 26, a plan that consists of annuity contracts described in section 403(b) of title 26, or" for "section 401(a) of title 26 or".
+
+Par. (44)(A)(i)(I). Pub. L. 117–328, §106(d)(2), substituted "section 401(a) of title 26, a plan that consists of annuity contracts described in section 403(b) of title 26, or" for "section 401(a) of title 26 or".
+
+Par. (45). Pub. L. 117–328, §127(a), added par. (45).
 
 <b>2019</b>—Par. (2)(C). Pub. L. 116–94, §101(b), added subpar. (C).
 
@@ -464,7 +490,7 @@ Par. (37)(G)(vii). Pub. L. 110–28, §6611(a)(1)(C), added cl. (vii).
 
 Par. (2)(B). Pub. L. 109–280, §1104(c), inserted at end "An applicable voluntary early retirement incentive plan (as defined in section 457(e)(11)(D)(ii) of title 26) making payments or supplements described in section 457(e)(11)(D)(i) of title 26, and an applicable employment retention plan (as defined in section 457(f)(4)(C) of title 26) making payments of benefits described in section 457(f)(4)(A) of title 26, shall, for purposes of this subchapter, be treated as a welfare plan (and not a pension plan) with respect to such payments and supplements."
 
-Par. (32). Pub. L. 109–280, §906(a)(2)(A), inserted at end "The term 'governmental plan' includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined inaccordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function)".
+Par. (32). Pub. L. 109–280, §906(a)(2)(A), inserted at end "The term 'governmental plan' includes a plan which is established and maintained by an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of an Indian tribal government (determined in accordance with section 7871(d) of title 26), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function)".
 
 Par. (37)(G). Pub. L. 109–280, §1106(a), added subpar. (G).
 
@@ -526,6 +552,14 @@ Par. (37). Pub. L. 96–364, §302(a), substantially revised definition of term 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. T, title I, §105(b), Dec. 29, 2022, 136 Stat. 5286, provided that: "The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2022."
+
+Amendment by section 106(d) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 106(h)(1) of Pub. L. 117–328, set out as a note under section 403 of this title.
+
+Amendment by section 127(a) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as a note under section 72 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2019 Amendment
 
 Amendment by Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2020, see section 101(e) of Pub. L. 116–94, set out as a note under section 408 of Title 26, Internal Revenue Code.
@@ -550,7 +584,7 @@ Amendment by section 1104(c) of Pub. L. 109–280 effective Aug. 17, 2006, and a
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–72, §1(c), Nov. 10, 1997, 111 Stat. 1457, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on July 8, 1997, except that the requirement of section 3(38)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[section 1002(38)(B)(ii) of this title\] (as amended by thisAct) for filing with the Secretary of Labor of a copy of a registration form which has been filed with a State before the date of the enactment of this Act \[Nov. 10, 1997\], or is to be filed with a State during the 1-year period beginning with such date, shall be treated as satisfied upon the filing of such a copy with the Secretary at any time during such 1-year period. This section shall supersede section 308(b) of the National Securities Markets Improvement Act of 1996 \[Pub. L. 104–290, amending this section and enacting provisions set out as an Effective and Termination Dates of 1996 Amendment note below\] (and the amendment made thereby)."
+Pub. L. 105–72, §1(c), Nov. 10, 1997, 111 Stat. 1457, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on July 8, 1997, except that the requirement of section 3(38)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[section 1002(38)(B)(ii) of this title\] (as amended by this Act) for filing with the Secretary of Labor of a copy of a registration form which has been filed with a State before the date of the enactment of this Act \[Nov. 10, 1997\], or is to be filed with a State during the 1-year period beginning with such date, shall be treated as satisfied upon the filing of such a copy with the Secretary at any time during such 1-year period. This section shall supersede section 308(b) of the National Securities Markets Improvement Act of 1996 \[Pub. L. 104–290, amending this section and enacting provisions set out as an Effective and Termination Dates of 1996 Amendment note below\] (and the amendment made thereby)."
 
 #### Effective and Termination Dates of 1996 Amendment
 
@@ -610,7 +644,7 @@ Secretary of Labor, Secretary of the Treasury, and Equal Employment Opportunity 
 
 #### Availability of Documents Via Filing Depository
 
-Pub. L. 105–72, §1(b), Nov. 10, 1997, 111 Stat. 1457, provided that: "A fiduciary shall be treated as meeting therequirements of section 3(38)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(38)(B)(ii)\] (as amended by subsection (a)) relating to provision to the Secretary of Labor of a copy of the form referred to therein, if a copy of such form (or substantially similar information) is available to the Secretary of Labor from a centralized electronic or other record-keeping database."
+Pub. L. 105–72, §1(b), Nov. 10, 1997, 111 Stat. 1457, provided that: "A fiduciary shall be treated as meeting the requirements of section 3(38)(B)(ii) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(38)(B)(ii)\] (as amended by subsection (a)) relating to provision to the Secretary of Labor of a copy of the form referred to therein, if a copy of such form (or substantially similar information) is available to the Secretary of Labor from a centralized electronic or other record-keeping database."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

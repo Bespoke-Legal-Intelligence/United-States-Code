@@ -4,7 +4,7 @@
 
 The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1):
 
-&emsp;(1) The annual report of the Inspectors Generals <sup>1</sup> of the intelligence community on proposed resources and activities of their offices required by section 8H(g) of the Inspector General Act of 1978.
+&emsp;(1) The annual report of the Inspectors General of the intelligence community on proposed resources and activities of their offices required by section 416(h) of title 5.
 
 &emsp;(2) The annual report on certifications for immunity in interdiction of aircraft engaged in illicit drug trafficking required by section 2291–4(c)(2) of title 22.
 
@@ -22,7 +22,7 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 &emsp;(1) The semiannual reports on decisions not to prosecute certain violations of law under the Classified Information Procedures Act (18 U.S.C. App.) as required by section 13 of that Act.
 
-&emsp;(2) The semiannual reports on the disclosure of information and consumer reports to the Federal Bureau of Investigation for counterintelligence purposes required by section 1681u(h)(2) of title 15.<sup>2</sup>
+&emsp;(2) The semiannual reports on the disclosure of information and consumer reports to theFederal Bureau of Investigation for counterintelligence purposes required by section 1681u(h)(2) of title 15.<sup>1</sup>
 
 &emsp;(3) The semiannual provision of information on requests for financial information for foreign counterintelligence purposes required by section 3414(a)(5)(C) of title 12.
 
@@ -50,13 +50,11 @@ The dates for the submittal to the congressional intelligence committees of the 
 
 (B) A certification with respect to a report under subparagraph (A) shall include a proposed submittal date for such report, and such report shall be submitted not later than that date.
 
-(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(l), Dec. 13, 2003, 117 Stat. 2626; Pub. L. 111–259, title III, §349, title V, §501(b)(3), Oct. 7, 2010, 124 Stat. 2700, 2739; Pub. L. 112–277, title III, §§309(b)(2), 310(b)(1), Jan. 14, 2013, 126 Stat. 2474, 2475; Pub. L. 113–126, title III, §329(c)(3), July 7, 2014, 128 Stat. 1407; Pub. L. 114–113, div. M, title VII, §701(c)(2), (3), Dec. 18, 2015, 129 Stat. 2929; Pub. L. 116–92, div. E, title LIII, §5322(c), Dec. 20, 2019, 133 Stat. 2130.)
+(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418; amended Pub. L. 108–177, title III, §361(l), Dec. 13, 2003, 117 Stat. 2626; Pub. L. 111–259, title III, §349, title V, §501(b)(3), Oct. 7, 2010, 124 Stat. 2700, 2739; Pub. L. 112–277, title III, §§309(b)(2), 310(b)(1), Jan. 14, 2013, 126 Stat. 2474, 2475; Pub. L. 113–126, title III, §329(c)(3), July 7, 2014, 128 Stat. 1407; Pub. L. 114–113, div. M, title VII, §701(c)(2), (3), Dec. 18, 2015, 129 Stat. 2929; Pub. L. 116–92, div. E, title LIII, §5322(c), Dec. 20, 2019, 133 Stat. 2130; Pub. L. 117–263, div. F, title LXVIII, §6824(a)(6), Dec. 23, 2022, 136 Stat. 3615; Pub. L. 117–286, §4(b)(100), Dec. 27, 2022, 136 Stat. 4353.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-Section 8H(g) of the Inspector General Act of 1978, referred to in subsec. (a)(1), is section 8H(g) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The David L. Boren National Security Education Act of 1991, referred to in subsec. (a)(3), is title VIII of Pub. L. 102–183, Dec. 4, 1991, 105 Stat. 1271, which is classified generally to chapter 37 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see section 1901(a) of this title and Tables.
 
@@ -70,19 +68,23 @@ Section was formerly classified to section 415b of this title prior to editorial
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–286 substituted "section 416(h) of title 5." for "section 8H(g) of the Inspector General Act of 1978."
+
+Pub. L. 117–263 substituted "Inspectors General" for "Inspectors Generals".
+
 <b>2019</b>—Subsec. (a)(6). Pub. L. 116–92 added par. (6).
 
 <b>2015</b>—Subsec. (a)(5), (6). Pub. L. 114–113, §701(c)(2), redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "The annual report on outside employment of employees of elements of the intelligence community required by section 3024(u)(2) of this title."
 
 Subsec. (c)(1). Pub. L. 114–113, §701(c)(3), substituted "subsection (a)" for "subsection (a)(1)".
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–126, §329(c)(3)(A), in introductory provisions, struck out par. (1) designation before "The date" and substituted "subsection (c)(1)" for "subsection (c)(1)(A)", redesignated subpars. (A) to (F) of former par. (1) as pars. (1) to (6), respectively, and struck out former par. (2) which read as follows: "The date for the submittal to the congressional intelligencecommittees of the annual report on the threat of attack on the United States from weapons of mass destruction required by section 3050(b) of this title shall be the date each year provided in subsection (c)(1)(B)."
+<b>2014</b>—Subsec. (a). Pub. L. 113–126, §329(c)(3)(A), in introductory provisions, struck out par. (1) designation before "The date" and substituted "subsection (c)(1)" for "subsection (c)(1)(A)", redesignated subpars. (A) to (F) of former par. (1) as pars. (1) to (6), respectively, and struck out former par. (2) which read as follows: "The date for the submittal to the congressional intelligence committees of the annual report on the threat of attack on the United States from weapons of mass destruction required by section 3050(b) of this title shall be the date each year provided in subsection (c)(1)(B)."
 
 Subsec. (c)(1). Pub. L. 113–126, §329(c)(3)(B), struck out subpar. (A) designation before "Except" and struck out subpar. (B) which read as follows: "Except as provided in subsection (d), the annual report listed in subsection (a)(2) shall be submitted not later than December 1."
 
 Subsec. (d)(1). Pub. L. 113–126, §329(c)(3)(C), in subpar. (A), substituted "subsection (a)" for "subsection (a)(1)" and inserted "and" after "March 1;", redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "the annual report listed in subsection (a)(2) may be postponed until January 1; and".
 
-<b>2013</b>—Subsec. (a)(1). Pub. L. 112–277, §310(b)(1)(A)(i)(I), (II), redesignated subpars. (B), (E), (F), (G), (H), and (I) as (A), (B), (C), (D), (E), and (F), respectively, and struck out former subpars. (A), (C), and (D) which read as follows:
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–277, §310(b)(1)(A)(i)(I), (II), redesignated subpars. (B), (E), (F), (G), (H), and (I)as (A), (B), (C), (D), (E), and (F), respectively, and struck out former subpars. (A), (C), and (D) which read as follows:
 
 "(A) The annual report on the protection of the identities of covert agents required by section 423 of this title.
 
@@ -206,7 +208,5 @@ Pub. L. 107–108, title V, §505, Dec. 28, 2001, 115 Stat. 1406.
 
 Pub. L. 107–306, title VIII, §801, Nov. 27, 2002, 116 Stat. 2418, provided that certain overdue reports that the Director of Central Intelligence has sole or primary responsibility to present to Congress must be submitted to Congress no later than 180 days after Nov. 27, 2002, or amounts available to the Director to carry out the functions and duties of the Director's Office would be reduced by 1/3.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "General".</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

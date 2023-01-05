@@ -24,7 +24,7 @@
 
 #### legislative statements
 
-Section 549 of the House amendment has been redrafted in order to incorporate sections 342(b) and (c) ofthe Senate amendment. Those sections have been consolidated and redrafted in section 549(c) of the House amendment. Section 549(d) of the House amendment adopts a provision contained in section 549(c) of the Senate amendment.
+Section 549 of the House amendment has been redrafted in order to incorporate sections 342(b) and (c) of the Senate amendment. Those sections have been consolidated and redrafted in section 549(c) of the House amendment. Section 549(d) of the House amendment adopts a provision contained in section 549(c) of the Senate amendment.
 
 #### senate report no. 95–989
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) sell, transport, offer for sale or transportation, or receive for transportation, in commerce or from an official establishment, any slaughtered poultry from which the blood, feathers, feet, head, or viscera have not been removed in accordance with regulations promulgated by the Secretary, except as may be authorized by regulations of the Secretary;
 
-&emsp;(5) use to his own advantage, or reveal other than to the authorized representatives of the United States Government or any State orother government in their official capacity, or as ordered by a court in any judicial proceedings, any information acquired under the authority of this chapter concerning any matter which is entitled to protection as a trade secret.
+&emsp;(5) use to his own advantage, or reveal other than to the authorized representatives of the United States Government or any State or other government in their official capacity, or as ordered by a court in any judicial proceedings, any information acquired under the authority of this chapter concerning any matter which is entitled to protection as a trade secret.
 
 (b) No brand manufacturer, printer, or other person shall cast, print, lithograph, or otherwise make any device containing any official mark or simulation thereof, or any label bearing any such mark or simulation, or any form of official certificate or simulation thereof, except as authorized by the Secretary.
 

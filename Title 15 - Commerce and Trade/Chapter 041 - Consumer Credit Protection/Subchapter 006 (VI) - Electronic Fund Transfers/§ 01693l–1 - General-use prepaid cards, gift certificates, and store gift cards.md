@@ -80,7 +80,7 @@ In this section, the following definitions shall apply:
 
 #### (1) In general
 
-&emsp;Except as provided under paragraphs (2) through (4), it shall be unlawful for any person to impose a dormancy fee, an inactivity charge or fee, or a service fee with respect to a gift certificate, store gift card, or general-use prepaid card.
+&emsp;Except as provided under paragraphs (2) through (4), it shall be unlawful for any personto impose a dormancy fee, an inactivity charge or fee, or a service fee with respect to a gift certificate, store gift card, or general-use prepaid card.
 
 #### (2) Exceptions
 

@@ -70,7 +70,7 @@ For the purposes of this section, the following definitions apply:
 
 #### (e) Eligibility for funds
 
-Tribal health programs shall be eligible for funds appropriated under the authority of this section on an equal basis with programs that are administered directly by the Service.
+Tribal health programs shall be eligible for funds appropriated under the authority of thissection on an equal basis with programs that are administered directly by the Service.
 
 #### (f) Report
 
@@ -190,7 +190,7 @@ Subsec. (c)(4)(E). Pub. L. 96–537, §4(b)(5), inserted provisions authorizing 
 
 Subsec. (c)(5). Pub. L. 96–537, §4(c)(1), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984.
 
-Subsec. (c)(6). Pub. L. 96–537, §4(c)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30,1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
+Subsec. (c)(6). Pub. L. 96–537, §4(c)(2), inserted provisions authorizing appropriation of specific amounts for fiscal years ending Sept. 30, 1981, Sept. 30, 1982, Sept. 30, 1983, and Sept. 30, 1984, and further authorizing additional positions as may be necessary for each such fiscal year.
 
 Subsec. (c)(7). Pub. L. 96–537, §4(c)(3), struck out par. (7) which authorized appropriation for the items referred to in subsecs. (c)(1) to (c)(6) of such sums as may be specifically authorized by an act enacted after Sept. 30, 1976, for fiscal years 1981, 1982, 1983, and 1984, and which further authorized positions for items referred to in subsecs. (c)(1) to (c)(6) other than subsecs. (c)(4)(E) and (c)(5), as may be specified in an act enacted after Sept. 30, 1976.
 

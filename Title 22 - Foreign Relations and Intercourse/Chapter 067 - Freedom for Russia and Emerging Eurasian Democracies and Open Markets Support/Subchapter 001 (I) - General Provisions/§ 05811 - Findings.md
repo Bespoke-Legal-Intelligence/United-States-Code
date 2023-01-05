@@ -646,9 +646,9 @@ Election.—Notwithstanding any other provision of law, the President may exerci
 
 &emsp;"(4) is a member of the Central Election Commission of Belarus or assisted the Commission in manipulating the presidential election of August 9, 2020;
 
-&emsp;"(5) is a member of any branch of the security or law enforcement services of Belarus, including the KGB, Interior Ministry, and OMON special police unit, and is responsible for, or complicit in, ordering, controlling, materially assisting, sponsoring, or providing financial, material, or technological support for, or otherwise directing, the crackdown on opposition leaders, journalists, and peaceful protestors that occurred in connection with the presidential election of August 9, 2020; or
+&emsp;"(5) is a member of any branch of the security or law enforcement services of Belarus, including the KGB, Interior Ministry, and OMON special police unit, and is responsible for, or complicit in, ordering, controlling, materially assisting, sponsoring, or providing financial, material, or technological support for, or otherwise directing, the crackdown on opposition leaders, journalists, and peaceful protestors that occurred in connection with the presidential election of August 9, 2020; or \[sic\]
 
-&emsp;"(6) is a member of any branch of the security or law enforcement services of Belarus and has participated in the persecution or harassment of religious groups, human rights defenders, democratic opposition groups, or independent media or journalists.
+&emsp;"(6) is a member of any branch of the security or law enforcement services of Belarus and has participated in the persecution or harassment of religious groups, human rights defenders, democratic opposition groups, or independent media or journalists.\[;\]
 
 &emsp;"(7) is a government official, including at the Information Ministry, responsible for the crackdown on independent media, including revoking the accreditation of journalists, disrupting internet access, and restricting online content;
 

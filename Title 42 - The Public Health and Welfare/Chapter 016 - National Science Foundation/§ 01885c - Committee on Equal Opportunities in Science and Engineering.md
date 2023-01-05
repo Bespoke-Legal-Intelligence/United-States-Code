@@ -30,7 +30,7 @@ Every 2 years, the Committee shall prepare and submit to the Director a report o
 
 #### References in Text
 
-Sections 1885 to 1885d of this title, referred to in subsec. (a), was in the original "this Act", meaning sections 31 et seq. of Pub. L. 96–516, as amended, known as the Science and Engineering Equal Opportunities Act, which enacted sections 1885 to 1885d of this title and provisions set out as notes under sections 1861 and 1885 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1861 of this title and Tables.
+Sections 1885 to 1885d of this title, referred to in subsec. (a), was in the original "this Act", meaning sections 31 et seq. of Pub. L. 96–516, known as the Science and Engineering Equal Opportunities Act, which enacted sections 1885 to 1885d of this title and provisions set out as notes under sections 1861 and 1885 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 1861 of this title and Tables.
 
 #### Codification
 
@@ -44,7 +44,7 @@ Section was enacted as part of the Science and Engineering Equal Opportunities A
 
 Subsec. (b). Pub. L. 105–207, §202(d)(2)(B), struck out "with the concurrence of the National Science Board" after "the Director" and substituted "In addition, the Chairman of the National Science Board may designate a member of the Board as a member of the Committee." for "The Chairperson of the National Science Board Committee on Minorities and Women shall be an ex officio member of the Committee."
 
-Subsec. (c). Pub. L. 105–207, §202(d)(2)(C), (D), added subsec. (c) and struck out former subsec. (c) which readas follows: "There shall be a subcommittee of the Committee which shall be known as the Subcommittee on Women in Science and Engineering. The Subcommittee on Women in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for the education, training, and research of women in science and engineering and (2) the impact of science and engineering on women. The Subcommittee shall be composed of all the women members of the Committee and such other members of the Committee as the Committee may designate."
+Subsec. (c). Pub. L. 105–207, §202(d)(2)(C), (D), added subsec. (c) and struck out former subsec. (c) which read as follows: "There shall be a subcommittee of the Committee which shall be known as the Subcommittee on Women in Science and Engineering. The Subcommittee on Women in Science and Engineering shall have responsibility for all Committee matters relating to (1) the participation in and opportunities for the education, training, and research of women in science and engineering and (2) the impact of science and engineering on women. The Subcommittee shall be composed of all the women members of the Committee and such other members of the Committee as the Committee may designate."
 
 Subsec. (d). Pub. L. 105–207, §202(d)(2)(F), struck out "additional" after "organize such".
 
@@ -64,7 +64,7 @@ Subsecs. (c), (d). Pub. L. 99–159, §111(b)(8)(A), substituted "Engineering" f
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973 to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973 to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### Report by Committee on Equal Opportunities in Science and Engineering
 

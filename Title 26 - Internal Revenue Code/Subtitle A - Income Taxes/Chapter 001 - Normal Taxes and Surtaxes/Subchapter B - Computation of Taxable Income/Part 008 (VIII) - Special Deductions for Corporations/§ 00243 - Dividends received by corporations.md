@@ -40,7 +40,7 @@ In the case of a corporation, there shall be allowed as a deduction an amount eq
 
 #### (A) In general
 
-&emsp;&emsp;In the case of an affiliated group which includes 1 or more insurance companies under section 801, no dividend by any member of such group shall be treated as a qualifying dividend unless an election under this paragraph is in effect for the taxable year in which the dividend is received. The preceding sentence shall not apply in the caseof a dividend described in paragraph (1)(B)(ii).
+&emsp;&emsp;In the case of an affiliated group which includes 1 or more insurance companies under section 801, no dividend by any member of such group shall be treated as a qualifying dividend unless an election under this paragraph is in effect for the taxable year in which the dividend is received. The preceding sentence shall not apply in the case of a dividend described in paragraph (1)(B)(ii).
 
 #### (B) Effect of election
 
@@ -76,7 +76,7 @@ For purposes of subsection (a)—
 
 #### (e) Certain dividends from foreign corporations
 
-For purposes of subsection (a) and for purposes of section 245, any dividend from a foreign corporation from earnings and profits accumulated by a domestic corporation during a period with respect to which such domestic corporation was subject to taxation under this chapter (or corresponding provisions of prior law) shall be treated as a dividend from a domestic corporation which is subject to taxation under this chapter.
+For purposes of subsection (a) and for purposes of section 245, any dividend from a foreign corporation from earnings and profits accumulatedby a domestic corporation during a period with respect to which such domestic corporation was subject to taxation under this chapter (or corresponding provisions of prior law) shall be treated as a dividend from a domestic corporation which is subject to taxation under this chapter.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 73; Pub. L. 85–866, title I, §57(b), Sept. 2, 1958, 72 Stat. 1645; Pub. L. 86–779, §§3(a), 10(g), Sept. 14, 1960, 74 Stat. 998, 1009; Pub. L. 88–272, title II, §214(a), Feb. 26, 1964, 78 Stat. 52; Pub. L. 90–364, title I, §103(e)(2), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title V, §504(c)(1), Dec. 30, 1969, 83 Stat. 633; Pub. L. 94–12, title III, §304(b), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–455, title X, §§1031(b)(2), 1051(f)(1), (2), title XIX, §§1901(a)(34), (b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), (13)(A), Oct. 4, 1976, 90 Stat. 1622, 1646, 1769, 1791, 1797, 1833, 1834; Pub. L. 97–34, title II, §232(b)(2), Aug. 13, 1981, 95 Stat. 250; Pub. L. 98–369, div. A, title II, §211(b)(3), July 18, 1984, 98 Stat. 754; Pub. L. 99–514, title IV, §411(b)(2)(C)(iv), title VI, §611(a)(1), Oct. 22, 1986, 100 Stat. 2227, 2249; Pub. L. 100–203, title X, §10221(a)(1), (b), Dec. 22, 1987, 101 Stat. 1330–408; Pub. L. 100–647, title I, §1010(f)(4), Nov. 10, 1988, 102 Stat. 3454; Pub. L. 101–508, title XI, §11814(a), Nov. 5, 1990, 104 Stat. 1388–556; Pub. L. 104–188, title I, §1702(h)(4), (8), Aug. 20, 1996, 110 Stat. 1873, 1874; Pub. L. 113–295, div. A, title II, §221(a)(41)(C), (D), Dec. 19, 2014, 128 Stat. 4044; Pub. L. 115–97, title I, §13002(a), Dec. 22, 2017, 131 Stat. 2100; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(v), (xvii)(II), Mar. 23, 2018, 132 Stat. 1207, 1208.)
 
@@ -84,7 +84,7 @@ For purposes of subsection (a) and for purposes of section 245, any dividend fro
 
 #### References in Text
 
-The Small Business Investment Act of 1958, referred to in subsec. (a)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (a)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
 #### Amendments
 
@@ -142,7 +142,7 @@ Subsec. (b)(2), (3), (4). Pub. L. 94–455, title XIX, §1906(b)(13)(A), struck 
 
 Subsec. (b)(2)(A). Pub. L. 94–455, §1901(a)(34)(B), struck out "(except that in the case of a taxable year of a member beginning in 1963 and ending in 1964, if the election is effective for the taxable year of the common parent corporation which includes the last day of such taxable year of such member, such election shall be effective for such taxable year of such member, if such member consents to such election with respect to such taxable year)" after "with respect to which the election is made".
 
-Subsec. (b)(3)(B). Pub. L. 94–455, §1031(b)(2), substituted "election under section 901(a) (relating to allowance of foreign tax credit)" for "elections under section 901(a) (relating to allowance of foreign tax credit) and section 904(b)(1) (relating to election of overall limitation)".
+Subsec. (b)(3)(B). Pub. L. 94–455, §1031(b)(2), substituted "election under section 901(a) (relating to allowance of foreign tax credit)" for "elections under section 901(a) (relating to allowance of foreign tax credit)and section 904(b)(1) (relating to election of overall limitation)".
 
 Subsec. (b)(3)(C). Pub. L. 94–455, §§1901(b)(1)(J)(ii), (21)(A)(i), 1906(b)(3)(C)(ii), struck out cl. (ii) which set a $100,000 limitation for exploration expenditures under section 615 (a) and (b), redesignated former cls. (iii), (iv), and (v) as cls. (ii), (iii), and (iv), respectively, and substituted "certain exploration expenditures under section 617(h)(1)" for "exploration expenditures under sections 615(c)(1) and 617(h)(1)" in cl. (ii) as so redesignated, "804(a)(3)" for "804(a)(4)" in cl. (iii) as so redesignated, and "section 6154(c)(2) and section 6655(e)(2)" for "sections 6154(c)(2) and (3) and sections 6655(e)(2) and (3)" in cl. (iv) as so redesignated.
 
@@ -234,7 +234,7 @@ For effective date of amendment by section 1031(b)(2) of Pub. L. 94–455, see s
 
 For effective date of amendment by section 1051(f)(1), (2) of Pub. L. 94–455, see section 1051(i) of Pub. L. 94–455, set out as a note under section 27 of this title.
 
-Amendment by section 1901(a)(34), (b)(1), (21) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(34), (b)(1), (21) of Pub. L. 94–455 effective for taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 For effective date of amendment by section 1906(b)(3)(C)(ii) of Pub. L. 94–455, see section 1906(d) of Pub. L. 94–455, set out as a note under section 6013 of this title.
 
@@ -274,7 +274,7 @@ Pub. L. 85–866, §57(d), Sept. 2, 1958, 72 Stat. 1646, provided that: "The ame
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, seesection 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

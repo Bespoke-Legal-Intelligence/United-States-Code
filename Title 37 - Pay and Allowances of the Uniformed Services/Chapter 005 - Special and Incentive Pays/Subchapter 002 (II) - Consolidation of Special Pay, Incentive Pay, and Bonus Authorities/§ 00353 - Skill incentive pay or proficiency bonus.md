@@ -30,7 +30,7 @@ Maximum Amounts and Methods of Payment.—
 
 &emsp;(1)
 
-Skill incentive pay.—(A) Skill incentive pay under subsection (a) may not exceed $1,000 a month.
+Skill incentive pay.—(A) Skill incentive pay under subsection (a) may not exceed $1,750 a month.
 
 &emsp;(B) If a member does not satisfy the eligibility requirements specified in paragraphs (1) and (2) of subsection (a) for an entire month for receipt of skill incentive pay, the Secretary concerned may prorate the payment amount to reflect the duration of the member's actual qualifying service during the month. A member of a reserve component entitled to compensation under section 206 of this title who is authorized skill incentive pay under subsection (a) may be paid an amount of such pay that is proportionate to the compensation received by the member under section 206 of this title for inactive-duty training.
 
@@ -72,7 +72,7 @@ Foreign Language Studies in Officer Training Programs.—
 
 &emsp;(1)
 
-Availability of incentive pay.—The Secretary concerned may pay incentive pay toa person enrolled in an officer training program to also participate in an education or training program to acquire proficiency in a critical foreign language or expertise in foreign cultural studies or a related skill designated as critical by the Secretary concerned.
+Availability of incentive pay.—The Secretary concerned may pay incentive pay to a person enrolled in an officer training program to also participate in an education or training program to acquire proficiency in a critical foreign language or expertise in foreign cultural studies or a related skill designated as critical by the Secretary concerned.
 
 &emsp;(2)
 
@@ -92,9 +92,9 @@ Relationship to Other Pays and Allowances.—A member may not be paid more than 
 
 (i)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2022.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2023.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(8), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(8), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(9), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(9), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(9), Dec. 23, 2016, 130 Stat. 2159; Pub. L. 115–91, div. A, title VI, §614(9), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(8), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(d)(8), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, §611(d)(8), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, §611(d)(8), Dec. 27, 2021, 135 Stat. 1769.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 175; amended Pub. L. 110–417, \[div. A\], title VI, §619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111–84, div. A, title VI, §§614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354, 2356; Pub. L. 111–383, div. A, title VI, §614(8), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(8), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(8), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(8), Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §614(9), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §614(9), Nov. 25, 2015, 129 Stat. 839; Pub. L. 114–328, div. A, title VI, §614(9), Dec. 23, 2016, 130 Stat. 2159; Pub. L. 115–91, div. A, title VI, §614(9), Dec. 12, 2017, 131 Stat. 1422; Pub. L. 115–232, div. A, title VI, §611(d)(8), Aug. 13, 2018, 132 Stat. 1797; Pub. L. 116–92, div. A, title VI, §611(d)(8), Dec. 20, 2019, 133 Stat. 1426; Pub. L. 116–283, div. A, title VI, §611(d)(8), Jan. 1, 2021, 134 Stat. 3673; Pub. L. 117–81, div. A, title VI, §611(d)(8), Dec. 27, 2021, 135 Stat. 1769; Pub. L. 117–263, div. A, title VI, §§601(d)(8), 602(d), Dec. 23, 2022, 136 Stat. 2620.)
 
 #### <b>Editorial Notes</b>
 
@@ -103,6 +103,10 @@ Termination of Authority.—No agreement may be entered into under this section 
 Subsection (g)(2), referred to in subsec. (b)(2), was redesignated subsec. (f)(2) by Pub. L. 111–84, div. A, title VI, §618(d)(1), Oct. 28, 2009, 123 Stat. 2356.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(1)(A). Pub. L. 117–263, §602(d), substituted "$1,750" for "$1,000".
+
+Subsec. (i). Pub. L. 117–263, §601(d)(8), substituted "December 31, 2023" for "December 31, 2022".
 
 <b>2021</b>—Subsec. (i). Pub. L. 117–81 substituted "December 31, 2022" for "December 31, 2021".
 

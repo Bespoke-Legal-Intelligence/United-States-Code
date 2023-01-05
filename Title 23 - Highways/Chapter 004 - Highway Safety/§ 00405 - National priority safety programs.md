@@ -50,7 +50,7 @@ Waiver.—Upon the request of a State, the Secretary may waive or modify the req
 
 &emsp;(10)
 
-Political subdivisions.—A State may provide the funds awarded under this section to a political subdivision of the State or an Indian tribal government.
+Political subdivisions.—A State may provide the funds awarded under this sectionto a political subdivision of the State or an Indian tribal government.
 
 (b)
 
@@ -156,7 +156,7 @@ Child restraint.—The term "child restraint" means any device (including child 
 
 Seat belt.—The term "seat belt" means—
 
-&emsp;&emsp;&emsp;(i) with respect to open-body motor vehicles, including convertibles, an occupant restraint system consisting of a lap belt or a lap belt and a detachable shoulder belt; and
+&emsp;&emsp;&emsp;(i) with respect to open-body motor vehicles, including convertibles, an occupantrestraint system consisting of a lap belt or a lap belt and a detachable shoulder belt; and
 
 &emsp;&emsp;&emsp;(ii) with respect to other motor vehicles, an occupant restraint system consisting of integrated lap and shoulder belts.
 
@@ -304,7 +304,7 @@ Authorized programs.—Medium-range and low-range States may use grant funds for
 
 &emsp;&emsp;&emsp;(vii) training on the use of alcohol and drug screening and brief intervention;
 
-&emsp;&emsp;&emsp;(viii) training for and implementation of impaired driving assessment programs or other tools designed to increase the probability of identifying the recidivism risk of a person convicted of driving under the influence of alcohol, drugs, or a combinationof alcohol and drugs and to determine the most effective mental health or substance abuse treatment or sanction that will reduce such risk;
+&emsp;&emsp;&emsp;(viii) training for and implementation of impaired driving assessment programs or other tools designed to increase the probability of identifying the recidivism risk of a person convicted of driving under the influence of alcohol, drugs, or a combination of alcohol and drugs and to determine the most effective mental health or substance abuse treatment or sanction that will reduce such risk;
 
 &emsp;&emsp;&emsp;(ix) developing impaired driving information systems; and
 
@@ -476,7 +476,7 @@ Additional distracted driving grants.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding paragraph (1), for each of fiscal years 2017 and 2018, the Secretary shall use up to 25 percent of the amounts available for grants under this subsection to award grants to any State that—
+In general.—Notwithstanding paragraph (1), for each of fiscal years 2017 and2018, the Secretary shall use up to 25 percent of the amounts available for grants under this subsection to award grants to any State that—
 
 &emsp;&emsp;&emsp;(i) in fiscal year 2017—
 
@@ -632,7 +632,7 @@ Suballocations of funds.—An agency of a State that receives a grant under this
 
 &emsp;&emsp;(C)
 
-Flexibility.—Not more than 50 percent of grant funds received by a State under this subsection may be used for any eligibleproject or activity under section 402 if the State is in the lowest 25 percent of all States for motorcycle deaths per 10,000 motorcycle registrations based on the most recent data that conforms with criteria established by the Secretary.
+Flexibility.—Not more than 50 percent of grant funds received by a State under this subsection may be used for any eligible project or activity under section 402 if the State is in the lowest 25 percent of all States for motorcycle deaths per 10,000 motorcycle registrations based on the most recent data that conforms with criteria established by the Secretary.
 
 &emsp;(5)
 
@@ -796,7 +796,7 @@ Use of grant amounts.—Grant funds received by a State under this subsection ma
 
 &emsp;&emsp;(A) training of law enforcement officials on State laws applicable to pedestrian and bicycle safety;
 
-&emsp;&emsp;(B) enforcement mobilizations and campaigns designed to enforce State traffic laws applicable to pedestrian and bicycle safety; and
+&emsp;&emsp;(B) enforcement mobilizations and campaigns designed to enforce State traffic lawsapplicable to pedestrian and bicycle safety; and
 
 &emsp;&emsp;(C) public education and awareness programs designed to inform motorists, pedestrians, and bicyclists of State traffic laws applicable to pedestrian and bicycle safety.
 
@@ -830,7 +830,7 @@ Grant amount.—The allocation of grant funds to a State under this subsection f
 
 &emsp;<i>(3)</i>
 
-<i>State traffic safety information system improvements.—In each fiscal year, 14.5 percent of</i><i>the funds provided under this section shall be allocated among States that meet requirements with respect to State traffic safety information system improvements (as described in subsection (c)).</i>
+<i>State traffic safety information system improvements.—In each fiscal year, 14.5 percent of the funds provided under this section shall be allocated among States that meet requirements with respect to State traffic safety information system improvements (as described in subsection (c)).</i>
 
 &emsp;<i>(4)</i>
 
@@ -938,7 +938,7 @@ Grant amount.—The allocation of grant funds to a State under this subsection f
 
 &emsp;&emsp;&emsp;<i>(iii) carry out a program to educate the public concerning the proper use and installation of child restraints, including related equipment and information systems;</i>
 
-&emsp;&emsp;&emsp;<i>(iv) carry out a program to provide community child passenger safety services, including programs about proper seating positions for</i><i>children and how to reduce the improper use of child restraints;</i>
+&emsp;&emsp;&emsp;<i>(iv) carry out a program to provide community child passenger safety services, including programs about proper seating positions for children and how to reduce the improper use of child restraints;</i>
 
 &emsp;&emsp;&emsp;<i>(v) implement programs—</i>
 
@@ -1006,7 +1006,7 @@ Grant amount.—The allocation of grant funds to a State under this subsection f
 
 &emsp;<i>(2)</i>
 
-<i>Federal share.—The Federal share of the cost of adopting and implementing in a fiscal year a State program described in this subsection may not exceed 80 percent.</i>
+<i>Federal share.—The Federal share of the cost of adopting and implementing in a fiscal year</i><i>a State program described in this subsection may not exceed 80 percent.</i>
 
 &emsp;<i>(3)</i>
 
@@ -1158,7 +1158,7 @@ Grant amount.—The allocation of grant funds to a State under this subsection f
 
 &emsp;&emsp;&emsp;&emsp;<i>(I) hiring criminal justice professionals, including law enforcement officers, prosecutors, traffic safety resource prosecutors, judges, judicial outreach liaisons, and probation officers;</i>
 
-&emsp;&emsp;&emsp;&emsp;<i>(II) training and education of those professionals to assist the professionals in preventing impaired driving and handling impaired driving cases, including by providing compensation to a law enforcement officer to carry out safety grant activities to re</i><i>place a law enforcement officer who is receiving drug recognition expert training or participating as an instructor in that drug recognition expert training; and</i>
+&emsp;&emsp;&emsp;&emsp;<i>(II) training and education of those professionals to assist the professionals in preventing impaired driving and handling impaired driving cases, including by providing compensation to a law enforcement officer to carry out safety grant activities to replace a law enforcement officer who is receiving drug recognition expert training or participating as an instructor in that drug recognition expert training; and</i>
 
 &emsp;&emsp;&emsp;&emsp;<i>(III) establishing driving while intoxicated courts;</i>
 
@@ -1214,7 +1214,7 @@ Grant amount.—The allocation of grant funds to a State under this subsection f
 
 &emsp;<i>(5)</i>
 
-<i>Grant amount.—Subject to paragraph (6), the allocation of grant funds to a State under this section for a fiscal year shall be in proportion to the State's apportionment under section 402 for fiscal year 2009.</i>
+<i>Grant amount.—Subject to paragraph (6), the allocation of grant funds to a State under this</i><i>section for a fiscal year shall be in proportion to the State's apportionment under section 402 for fiscal year 2009.</i>
 
 &emsp;<i>(6)</i>
 
@@ -1242,7 +1242,7 @@ Grant amount.—The allocation of grant funds to a State under this subsection f
 
 <i>Grants to states with 24-7 sobriety programs.—The Secretary shall make a separate grant under this subsection to each State that—</i>
 
-&emsp;&emsp;&emsp;<i>(i) adopts and is enforcing a law that requires all individuals convicted of driving under the influence of alcohol or of driving</i><i>while intoxicated to receive a restriction on driving privileges; and</i>
+&emsp;&emsp;&emsp;<i>(i) adopts and is enforcing a law that requires all individuals convicted of driving under the influence of alcohol or of driving while intoxicated to receive a restriction on driving privileges; and</i>
 
 &emsp;&emsp;&emsp;<i>(ii) provides a 24-7 sobriety program.</i>
 
@@ -1672,7 +1672,7 @@ Secondary laws<i>.—Subject to clause (iv), in the case of a State that enacts 
 
 &emsp;<i>(6)</i>
 
-<i>Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal year shall be in proportion to the State's apportionment under section 402 for fiscal year 2009.</i>
+<i>Grant amount.—The allocation of grant funds to a State under this subsection for a fiscal</i><i>year shall be in proportion to the State's apportionment under section 402 for fiscal year 2009.</i>
 
 <i>(h)</i>
 
@@ -1840,7 +1840,7 @@ Certification.—As part of the grant application required in section 402(k)(3)(
 
 "(B)
 
-Waiver.—Upon the request of a State, the Secretary may waive or modify the requirements undersubparagraph (A) for not more than 1 fiscal year if the Secretary determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances."
+Waiver.—Upon the request of a State, the Secretary may waive or modify the requirements under subparagraph (A) for not more than 1 fiscal year if the Secretary determines that such a waiver would be equitable due to exceptional or uncontrollable circumstances."
 
 Subsec. (a)(10). Pub. L. 117–58, §24105(a)(1)(F), (H), redesignated par. (8) as (10) and substituted "paragraphs (2) through (9)" for "paragraphs (1) through (7)" and "subsections (b) through (i)" for "subsections (b) through (h)". Former par. (10) redesignated (11).
 
@@ -1884,7 +1884,7 @@ Subsec. (d)(4)(B)(vi). Pub. L. 117–58, §24105(a)(4)(A)(i)(III), substituted "
 
 Subsec. (d)(4)(B)(xi). Pub. L. 117–58, §24105(a)(4)(A)(i)(IV)–(VI), added cl. (xi).
 
-Subsec. (d)(4)(C). Pub. L. 117–58, §24105(a)(4)(A)(ii), designated first sentence as cl. (i), inserted heading, and substituted "Subject to clause (iii), low-range" for "Low-range"; designated second sentence as cl. (ii), inserted heading, and substituted "Subject to clause (iii), medium-range" for "Medium-range"; and added cl. (iii).
+Subsec. (d)(4)(C). Pub. L. 117–58, §24105(a)(4)(A)(ii), designated first sentence as cl. (i), inserted heading,and substituted "Subject to clause (iii), low-range" for "Low-range"; designated second sentence as cl. (ii), inserted heading, and substituted "Subject to clause (iii), medium-range" for "Medium-range"; and added cl. (iii).
 
 Subsec. (d)(6)(A). Pub. L. 117–58, §24105(a)(4)(B)(i), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "The Secretary shall make a separate grant under this subsection to each State that adopts and is enforcing a mandatory alcohol-ignition interlock law for all individuals convicted of driving under the influence of alcohol or of driving while intoxicated."
 

@@ -16,6 +16,56 @@ Section was formerly classified to section 596 of Title 5 prior to the general r
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Manufacturing.gov Hub
+
+Pub. L. 117–328, div. BB, title I, §101, Dec. 29, 2022, 136 Stat. 5551, provided that:
+
+"(a)
+
+Definition.—In this section, the term 'Secretary' means the Secretary of Commerce.
+
+"(b)
+
+Establishment.—Not later than 1 year after the date of enactment of this Act \[Dec. 29, 2022\], the Secretary, in coordination with the Chief Information Officer of the Department of Commerce, shall modify the manufacturing.gov website by establishing a section of the website to be known as the 'manufacturing.gov hub'.
+
+"(c)
+
+Functions.—The manufacturing.gov hub established under subsection (b) shall—
+
+&emsp;"(1) serve as the primary hub for information relating to every Federal manufacturing program, including the programs identified in the report of the Government Accountability Office entitled 'U.S. Manufacturing' (GAO 17–240), published on March 28, 2017;
+
+&emsp;"(2) provide the contact information of relevant program offices carrying out the Federal manufacturing programs described in paragraph (1);
+
+&emsp;"(3) provide an avenue for public input and feedback relating to—
+
+&emsp;&emsp;"(A) the functionality of the website of the Department of Commerce;
+
+&emsp;&emsp;"(B) the Federal manufacturing programs described in paragraph (1); and
+
+&emsp;&emsp;"(C) any other manufacturing-related challenges experienced by manufacturers in the United States;
+
+&emsp;"(4) establish web pages within the hub that shall focus on—
+
+&emsp;&emsp;"(A) technology and research and development;
+
+&emsp;&emsp;"(B) trade;
+
+&emsp;&emsp;"(C) workforce development and training;
+
+&emsp;&emsp;"(D) industrial commons and supply chains; and
+
+&emsp;&emsp;"(E) small and medium manufacturers; and
+
+&emsp;"(5) use machine learning to—
+
+&emsp;&emsp;"(A) identify frequently asked questions; and
+
+&emsp;&emsp;"(B) disseminate to the public answers to the questions identified under subparagraph (A).
+
+"(d)
+
+No Additional Funds.—No additional funds are authorized to be appropriated for the purpose of carrying out this section."
+
 #### Assistance to Fishery Participants
 
 Pub. L. 116–136, div. B, title II, §12005, Mar. 27, 2020, 134 Stat. 518, provided that:
@@ -50,11 +100,11 @@ Emergency Requirement.—The amount provided by this section is designated by th
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to the Secretary of Commerce, see Parts 1, 2, and 4 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to the Secretary of Commerce, see Parts 1, 2,and 4 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Executive Order No. 12864
 
-Ex. Ord. No. 12864, Sept. 15, 1993, 58 F.R. 48773, as amended by Ex. Ord. No. 12890, Dec. 30, 1993, 59 F.R. 499; Ex. Ord. No. 12921, June 13, 1994, 59 F.R. 30667; Ex. Ord. No. 12970, Sept. 14, 1995, 60 F.R. 48359, which established the United States Advisory Council on the National Information Infrastructure, was revoked by Ex. Ord. No. 13062, §3(d), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12864, Sept. 15, 1993, 58 F.R. 48773, as amended by Ex. Ord. No. 12890, Dec. 30, 1993, 59 F.R. 499; Ex. Ord. No. 12921, June 13, 1994, 59 F.R. 30667; Ex. Ord. No. 12970, Sept. 14, 1995, 60 F.R. 48359, which established the United States Advisory Council on the National Information Infrastructure, was revoked by Ex. Ord. No. 13062, §3(d), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13577. Establishment of the SelectUSA Initiative
 
@@ -138,7 +188,7 @@ Sec. 6. <i>Global Entrepreneurship Summit</i>. (a) The Secretary of State shall 
 
 (b) State shall coordinate with Commerce, USAID, and SBA to identify and carry out programs and activities that will further the goals of the GES to the extent permitted by law and within existing appropriations.
 
-Sec. 7. <i>Accelerating Entrepreneurship and Economic Opportunity by Expanding Internet Access Globally</i>. State, incoordination with other agencies, multilateral institutions, foreign countries, and stakeholders, shall work to actively promote global Internet connectivity. Specifically, the Global Connect Initiative shall focus on encouraging foreign countries to prioritize Internet connectivity in development plans, promoting the formation of region-specific multi-sector working groups to ensure technical and regulatory best practices, and encouraging the development of digital literacy programs in developing nations.
+Sec. 7. <i>Accelerating Entrepreneurship and Economic Opportunity by Expanding Internet Access Globally</i>. State, in coordination with other agencies, multilateral institutions, foreign countries, and stakeholders, shall work to actively promote global Internet connectivity. Specifically, the Global Connect Initiative shall focus on encouraging foreign countries to prioritize Internet connectivity in development plans, promoting the formation of region-specific multi-sector working groups to ensure technical and regulatory best practices, and encouraging the development of digital literacy programs in developing nations.
 
 Sec. 8. <i>Global Connect International Connectivity Steering Group</i>. (a) In order to ensure a coordinated and consistent approach in agency implementation of the goals set forth in section 7 of this order, there is hereby established a Global Connect International Connectivity Steering Group (Steering Group), chaired by State.
 

@@ -2,7 +2,7 @@
 
 #### (a) Effectiveness study
 
-Not later than 3 years after December 4, 2003, the Comptroller General of the United Statesshall submit a report to Congress assessing the effectiveness of the Commission in promoting financial literacy and education.
+Not later than 3 years after December 4, 2003, the Comptroller General of the United States shall submit a report to Congress assessing the effectiveness of the Commission in promoting financial literacy and education.
 
 #### (b) Study and report on the need and means for improving financial literacy among consumers
 

@@ -78,5 +78,5 @@ Adjusted partners statements.—In the case of a partnership electing the applic
 
 "(4)
 
-Election.—A partnership may elect (at such time and in such form and manner as the Secretary of the Treasury may prescribe) for the amendments made by this section (other than the election under section 6221(b) of such Code (as added by this Act)) to apply to any return of the partnership filed for partnership taxable years beginning after the date of the enactment of this Act \[Nov. 2, 2015\] and before January 1, 2018."
+Election.—A partnership may elect (at such time and in such form and manner as the Secretary ofthe Treasury may prescribe) for the amendments made by this section (other than the election under section 6221(b) of such Code (as added by this Act)) to apply to any return of the partnership filed for partnership taxable years beginning after the date of the enactment of this Act \[Nov. 2, 2015\] and before January 1, 2018."
 

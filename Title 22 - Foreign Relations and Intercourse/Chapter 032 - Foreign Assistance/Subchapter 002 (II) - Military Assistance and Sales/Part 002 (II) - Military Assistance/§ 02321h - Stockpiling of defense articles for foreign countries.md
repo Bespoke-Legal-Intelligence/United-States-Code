@@ -8,7 +8,7 @@ No defense article in the inventory of the Department of Defense which is set as
 
 (1) The value of defense articles to be set aside, earmarked, reserved, or intended for use as war reserve stocks for allied or other foreign countries (other than for purposes of the North Atlantic Treaty Organization or in the implementation of agreements with Israel) in stockpiles located in foreign countries may not exceed in any fiscal year an amount that is specified in security assistance authorizing legislation for that fiscal year.
 
-(2)(A) The value of such additions to stockpiles of defense articles in foreign countries shall not exceed $200,000,000 for each of fiscal years 2021, 2022, 2023, 2024, and 2025.
+(2)(A) The value of such additions to stockpiles of defense articles in foreign countries shall not exceed $500,000,000 for any of the fiscal years 2023, 2024, or 2025.
 
 (B) Of the amount specified in subparagraph (A) for a fiscal year, not more than $200,000,000 may be made available for stockpiles in the State of Israel.
 
@@ -20,21 +20,21 @@ No defense article in the inventory of the Department of Defense which is set as
 
 #### (2) Exceptions
 
-&emsp;Paragraph (1) shall not apply with respect to stockpiles of defense articles located in the Republic of Korea, Thailand, any country that is a member of the North Atlantic Treaty Organization, any country that is a major non-NATO ally, or any other country the President may designate. At least 15 days before designating a country pursuant to the last clause of the preceding sentence, the President shall notify the congressional committees specified in section 2394–1(a) of this title in accordance with the procedures applicable to reprogramming notifications under that section.
+&emsp;Paragraph (1) shall not apply with respect to stockpiles of defense articles located in the Republic of Korea, Thailand, Taiwan, any country that is a member of the North Atlantic Treaty Organization, any country that is a major non-NATO ally, or any other country the President may designate. At least 15 days before designating a country pursuant to the last clause of the preceding sentence, the President shall notify the congressional committees specified in section 2394–1(a) of this title in accordance with the procedures applicable to reprogramming notifications under that section.
 
 #### (d) Transferred articles not to be considered excess articles in determining value
 
 No defense article transferred from any stockpile which is made available to or for use by any foreign country may be considered an excess defense article for the purpose of determining the value thereof.
 
-(Pub. L. 87–195, pt. II, §514, as added Pub. L. 93–559, §15, Dec. 30, 1974, 88 Stat. 1799; amended Pub. L. 94–329, title I, §103, June 30, 1976, 90 Stat. 730; Pub. L. 95–92, §6, Aug. 4, 1977, 91 Stat. 615; Pub. L. 95–384, §8, Sept. 26, 1978, 92 Stat. 732; Pub. L. 96–92, §6(a), Oct. 29, 1979, 93 Stat. 703; Pub. L. 96–533, title I, §113, Dec. 16, 1980, 94 Stat. 3139; Pub. L. 97–113, title I, §111, Dec. 29, 1981, 95 Stat. 1527; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title I, §124, Aug. 8, 1985, 99 Stat. 205; Pub. L. 100–202, §101(e) \[title III, §301\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–147; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–167, title V, §587(b), Nov. 21, 1989, 103 Stat. 1253; Pub. L. 101–510, div. A, title XIII, §1303(b), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 101–513, title V, §573, Nov. 5, 1990, 104 Stat. 2042; Pub. L. 102–391, title V, §569, Oct. 6, 1992, 106 Stat. 1681; Pub. L. 103–87, title V, §535, Sept. 30, 1993, 107 Stat. 955; Pub. L. 103–306, title V, §535, Aug. 23, 1994, 108 Stat. 1637; Pub. L. 104–107, title V, §531B, Feb. 12, 1996, 110 Stat. 732; Pub. L. 105–118, title V, §575, Nov. 26, 1997, 111 Stat. 2433; Pub. L. 105–277, div. A, §101(d) \[title V, §571\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–198; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §584\], 1000(a)(7) \[div. B, title XII, §1231\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–117, 1501A–499; Pub. L. 106–280, title I, §111, Oct. 6, 2000, 114 Stat. 849; Pub. L. 107–228, div. B, title XII, §1261, Sept. 30, 2002, 116 Stat. 1434; Pub. L. 108–287, title X, §12002, Aug. 5, 2004, 118 Stat. 1011; Pub. L. 109–472, §13(a)(2), Jan. 11, 2007, 120 Stat. 3559; Pub. L. 111–266, title III, §302(b), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 112–150, §5(a)(2), July 27, 2012, 126 Stat. 1148; Pub. L. 113–296, §5(b), Dec. 19, 2014, 128 Stat. 4076; Pub. L. 114–113, div. K, title VII, §7034(k)(11)(B), Dec. 18, 2015, 129 Stat. 2765; Pub. L. 115–31, div. J, title VII, §7034(k)(7)(B), May 5, 2017, 131 Stat. 651; Pub. L. 115–141, div. K, title VII, §7034(l)(7)(B), Mar. 23, 2018, 132 Stat. 896; Pub. L. 116–6, div. F, title VII, §7049(b)(4)(B), Feb. 15, 2019, 133 Stat. 366; Pub. L. 116–94, div. G, title VII, §7035(b)(3)(B), Dec. 20, 2019, 133 Stat. 2878; Pub. L. 116–260, div. K, title VII, §7035(b)(3)(B), Dec. 27, 2020, 134 Stat. 1756; Pub. L. 116–283, div. A, title XII, §1274(b), Jan. 1, 2021, 134 Stat. 3979.)
+(Pub. L. 87–195, pt. II, §514, as added Pub. L. 93–559, §15, Dec. 30, 1974, 88 Stat. 1799; amended Pub. L. 94–329, title I, §103, June 30, 1976, 90 Stat. 730; Pub. L. 95–92, §6, Aug. 4, 1977, 91 Stat. 615; Pub. L. 95–384, §8, Sept. 26, 1978, 92 Stat. 732; Pub. L. 96–92, §6(a), Oct. 29, 1979, 93 Stat. 703; Pub. L. 96–533, title I, §113, Dec. 16, 1980, 94 Stat. 3139; Pub. L. 97–113, title I, §111, Dec. 29, 1981, 95 Stat. 1527; Pub. L. 98–473, title I, §101(1) \[title V, §541(a)\], Oct. 12, 1984, 98 Stat. 1884, 1903; Pub. L. 99–83, title I, §124, Aug. 8, 1985, 99 Stat. 205; Pub. L. 100–202, §101(e) \[title III, §301\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–147; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–167, title V, §587(b), Nov. 21, 1989, 103 Stat. 1253; Pub. L. 101–510, div. A, title XIII, §1303(b), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 101–513, title V, §573, Nov. 5, 1990, 104 Stat. 2042; Pub. L. 102–391, title V, §569, Oct. 6, 1992, 106 Stat. 1681; Pub. L. 103–87, title V, §535, Sept. 30, 1993, 107 Stat. 955; Pub. L. 103–306, title V, §535, Aug. 23, 1994, 108 Stat. 1637; Pub. L. 104–107, title V, §531B, Feb. 12, 1996, 110 Stat. 732; Pub. L. 105–118, title V, §575, Nov. 26, 1997, 111 Stat. 2433; Pub. L. 105–277, div. A, §101(d) \[title V, §571\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–198; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §584\], 1000(a)(7) \[div. B, title XII, §1231\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–117, 1501A–499; Pub. L. 106–280, title I, §111, Oct. 6, 2000, 114 Stat. 849; Pub. L. 107–228, div. B, title XII, §1261, Sept. 30, 2002, 116 Stat. 1434; Pub. L. 108–287, title X, §12002, Aug. 5, 2004, 118 Stat. 1011; Pub. L. 109–472, §13(a)(2), Jan. 11, 2007, 120 Stat. 3559; Pub. L. 111–266, title III, §302(b), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 112–150, §5(a)(2), July 27, 2012, 126 Stat. 1148; Pub. L. 113–296, §5(b), Dec. 19, 2014, 128 Stat. 4076; Pub. L. 114–113, div. K, title VII, §7034(k)(11)(B), Dec. 18, 2015, 129 Stat. 2765; Pub. L. 115–31, div. J, title VII, §7034(k)(7)(B), May 5, 2017, 131 Stat. 651; Pub. L. 115–141, div. K, title VII, §7034(l)(7)(B), Mar. 23, 2018, 132 Stat. 896; Pub. L. 116–6, div. F, title VII, §7049(b)(4)(B), Feb. 15, 2019, 133 Stat. 366; Pub. L. 116–94, div. G, title VII, §7035(b)(3)(B), Dec. 20, 2019, 133 Stat. 2878; Pub. L. 116–260, div. K, title VII, §7035(b)(3)(B), Dec. 27, 2020, 134 Stat. 1756; Pub. L. 116–283, div. A, title XII, §1274(b), Jan. 1, 2021, 134 Stat. 3979; Pub. L.117–103, div. K, title VII, §7035(b)(3)(B), Mar. 15, 2022, 136 Stat. 628; Pub. L. 117–263, div. E, title LV, §5503(a), (c)(1), Dec. 23, 2022, 136 Stat. 3298.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39\(§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Codification
 
@@ -42,7 +42,13 @@ Amendment by Pub. L. 98–473 is based on section 116(a) of H.R. 5119, Ninety-ei
 
 #### Amendments
 
-<b>2021</b>—Subsec. (b)(2)(A). Pub. L. 116–283, which directed substitution of "2021, 2022, 2023, 2024, and 2025" for "2013, 2014, 2015, 2016, 2017, 2018, 2019, and 2020", was executed by making the substitution for "2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, and 2023", to reflect the probable intent of Congress and the intervening amendments by Pub. L. 116–260 and Pub. L. 116–94. See 2020 and 2019 Amendment notes below.
+<b>2022</b>—Subsec. (b)(2)(A). Pub. L. 117–263, §5503(a), substituted "$500,000,000 for any of the fiscal years 2023, 2024, or 2025." for "$200,000,000 for each of fiscal years 2021, 2022, 2023, 2024, and 2025."
+
+Pub. L. 117–103 substituted "2023, 2024, and 2025" for "and 2023".
+
+Subsec. (c)(2). Pub. L. 117–263, §5503(c)(1), inserted "Taiwan," after "Thailand,".
+
+<b>2021</b>—Subsec. (b)(2)(A). Pub. L. 116–283, which directed substitution of "2021, 2022, 2023, 2024, and 2025" for "2013, 2014, 2015, 2016, 2017, 2018, 2019, and 2020", could not be executed because of the intervening amendments by Pub. L. 116–260 and Pub. L. 116–94. See 2020 and 2019 Amendment notes below.
 
 <b>2020</b>—Subsec. (b)(2)(A). Pub. L. 116–260 substituted "2021, 2022, and 2023" for "and 2021".
 
@@ -102,7 +108,7 @@ Subsec. (b)(2)(B). Pub. L. 105–118, §575(b), inserted at end "Of the amount s
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–107, §531B(a), inserted "or in the implementation of agreements with Israel" after "North Atlantic Treaty Organization".
 
-Subsec. (b)(2). Pub. L. 104–107, §531B(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The value of such additions to stockpiles in foreign countries shall not exceed a total of $200,000,000 for stockpiles in Israel for fiscal years 1994 and 1995, up to $40,000,000 may be made available for stockpiles in the Republic of Korea, and up to $10,000,000 may be made available for stockpiles in Thailand for fiscal year 1995, up to $72,000,000 may be made available for stockpiles in the Republic of Korea, and up to $20,000,000 may be made available for stockpiles in Thailand."
+Subsec. (b)(2). Pub. L. 104–107, §531B(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The value of such additions to stockpiles in foreign countries shall not exceed a total of $200,000,000 forstockpiles in Israel for fiscal years 1994 and 1995, up to $40,000,000 may be made available for stockpiles in the Republic of Korea, and up to $10,000,000 may be made available for stockpiles in Thailand for fiscal year 1995, up to $72,000,000 may be made available for stockpiles in the Republic of Korea, and up to $20,000,000 may be made available for stockpiles in Thailand."
 
 Subsec. (c). Pub. L. 104–107, §531B(c), inserted heading and amended text generally. Prior to amendment, text read as follows: "Except for stockpiles in existence on June 30, 1976 and for stockpiles located in the Republic of Korea, Thailand, or countries which are members of the North Atlantic Treaty Organization, or major non-NATO allies, no stockpile may be located outside the boundaries of a United States military base or a military base used primarily by the United States."
 
@@ -190,7 +196,7 @@ Certification.—
 
 &emsp;"(1)
 
-In general.—Except in the case of an emergency, as determined by the President, not later than 15 days before making a transfer under subsection (a)of this section, the Secretary of Defense, with the concurrence of the Secretary of State, shall certify to the appropriate congressional committees that the transfer meets the conditions specified in subsection (b) of this section.
+In general.—Except in the case of an emergency, as determined by the President, not later than 15 days before making a transfer under subsection (a) of this section, the Secretary of Defense, with the concurrence of the Secretary of State, shall certify to the appropriate congressional committees that the transfer meets the conditions specified in subsection (b) of this section.
 
 &emsp;"(2)
 

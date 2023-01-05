@@ -38,7 +38,7 @@ Each annual report required by subsection (a) shall contain—
 
 &emsp;&emsp;(B) the performance of the privately owned enterprises resulting from such transformation; and
 
-&emsp;&emsp;(C) the contributions of development finance companies toward strengthening theprivate sector in member borrowing countries.
+&emsp;&emsp;(C) the contributions of development finance companies toward strengthening the private sector in member borrowing countries.
 
 #### (c) Definitions
 
@@ -224,7 +224,7 @@ Reports by the Executive Branch.—
 
 #### Progress Reports to Congress on United States Initiatives To Update Architecture of International Monetary System
 
-Pub. L. 105–277, div. A, §101(d) \[title VI, §606\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–223, provided that: "Not later than July 15, 1999, and July 15, 2000, the Secretary of the Treasury shall report to the Chairmen and Ranking Members of the appropriate committees on the progress of efforts to reform the architecture of the international monetary system. The reports shall include a discussion of the substance of the United States position in consultations with other governments and the degree of progress in achieving international acceptance and implementation of such position with respect to the following issues:
+Pub. L. 105–277, div. A, §101(d) \[title VI, §606\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–223, provided that: "Not later than July 15, 1999, and July 15, 2000, the Secretary of the Treasury shall report to the Chairmen and Ranking Members of the appropriate committees on the progress of efforts to reform the architecture of the international monetary system. The reports shall include a discussion of the substance of the United Statesposition in consultations with other governments and the degree of progress in achieving international acceptance and implementation of such position with respect to the following issues:
 
 &emsp;"(1) Adapting the mission and capabilities of the International Monetary Fund to take better account of the increased importance of cross-border capital flows in the world economy and improving the coordination of its responsibilities and activities with those of the International Bank for Reconstruction and Development.
 

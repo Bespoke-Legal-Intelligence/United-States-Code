@@ -86,7 +86,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;&emsp;(ii) pending such verification or appeal, the applicable Secretary may not—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of any individual receiving assistance on September 30, 1996, delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigration status of that individual; and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of any individual receiving assistance on September 30, 1996,delay, deny, reduce, or terminate the eligibility of that individual for financial assistance on the basis of the immigration status of that individual; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of any individual applying for financial assistance on or after September 30, 1996, deny the application for such assistance on the basis of the immigration status of that individual; and
 
@@ -164,7 +164,7 @@ For purposes of this section, the term "applicable Secretary" means—
 
 The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to this chapter (§1437 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (b)(1) and (h)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended. Subtitle A of title III of the Act, known as the National Homeownership Trust Act, is classified generally to subchapter III (§12851 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsecs. (b)(1) and (h)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle A of title III of the Act, known as the National Homeownership Trust Act, is classified generally to subchapter III (§12851 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
 Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (b), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12, Banks and Banking, and amended sections 1451 and 1465 of this title.
 
@@ -296,7 +296,7 @@ Subsec. (g). Pub. L. 100–242, §164(f)(1), added subsec. (g).
 
 <b>1986</b>—Subsecs. (d), (e). Pub. L. 99–603 added subsecs. (d) and (e).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted provisions relating to restrictions on use of assisted housing by resident aliens meeting further conditions for provisions relating to prohibition on financial assistance to nonimmigrant student-aliens.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted provisions relating to restrictions on use of assisted housing byresident aliens meeting further conditions for provisions relating to prohibition on financial assistance to nonimmigrant student-aliens.
 
 Subsec. (b). Pub. L. 97–35 struck out "(1)" after "(b)" and par. (2) which defined "nonimmigrant student-alien".
 

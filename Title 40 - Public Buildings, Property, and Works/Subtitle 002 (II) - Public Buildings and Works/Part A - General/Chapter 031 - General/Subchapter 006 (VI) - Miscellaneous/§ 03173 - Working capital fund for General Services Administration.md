@@ -10,7 +10,7 @@ Composition.—
 
 &emsp;(1)
 
-In general.—Amounts received shall be credited to and merged with the Fund, to remain available until expended, for operating costs and capital outlays of the Fund: <i>Provided</i>, That entities for which such services are performed shall be charged at rates which will return in full all costs of providing such services.
+In general.—Amounts received, including advance payments, shall be credited to and merged with the Fund, to remain available until expended, for operating costs and capital outlays of the Fund: <i>Provided</i>, That entities for which such services are performed shall be charged at rates which will return in full all costs of providing such services.
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ Transfer and Use of Amounts for Major Equipment Acquisitions.—
 
 &emsp;(1)
 
-In general.—Subject to subparagraph (2), unobligated balances of amounts appropriated or otherwise made available to the General Services Administration for operating expenses and salaries and expenses may be transferred and merged into the "Major equipment acquisitions and development activity" of the working capital fund of the General Services Administration for agency-wide acquisition of capital equipment, automated data processing systems and financial management and management information systems: <i>Provided</i>, That acquisitions are limited to those needed to implement the Chief Financial Officers Act of 1990 (Public Law 101–576, 104 Stat. 2838) and related laws or regulations.
+In general.—Subject to subparagraph (2), unobligated balances of amounts appropriated or otherwise made available to the General Services Administration for operating expenses and salaries and expenses may be transferred and merged into the "Major equipment acquisitions and development activity" of the working capital fund of the General Services Administration for agency-wide acquisition of capital equipment, automated data processing systems and financial management and management information systems: <i>Provided</i>, That acquisitions are limited to those needed to implement the Chief Financial Officers Act of 1990 (Public Law 101–576, 104 Stat. 2838) and related laws or regulations or for agency-wide acquisition of equipment or systems or the acquisition of services in lieu thereof, as necessary to implement the Act.
 
 &emsp;(2)
 
@@ -44,7 +44,7 @@ Approval for use.—An amount transferred under this section may be used only wi
 
 Availability.—An amount transferred under this section remains available until expended.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1155; Pub. L. 111–8, div. D, title V, §518(a), (b), (c)(2), Mar. 11, 2009, 123 Stat. 664, 665.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1155; Pub. L. 111–8, div. D, title V, §518(a), (b), (c)(2), Mar. 11, 2009, 123 Stat. 664, 665; Pub. L. 117–103, div. E, title V, §§528, 529, Mar. 15, 2022, 136 Stat. 276.)
 
 Historical and Revision Notes
 
@@ -72,9 +72,13 @@ In subsection (b)(2), the words "Administrator of General Services" are substitu
 
 #### References in Text
 
-The Chief Financial Officers Act of 1990, referred to in subsec. (d)(1), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
+The Chief Financial Officers Act of 1990, referred to in subsec. (d)(1), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat.2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1). Pub. L. 117–103, §529, inserted ", including advance payments," after "Amounts received".
+
+Subsec. (d)(1). Pub. L. 117–103, §528, inserted "or for agency-wide acquisition of equipment or systems or the acquisition of services in lieu thereof, as necessary to implement the Act" before period at end.
 
 <b>2009</b>—Pub. L. 111–8, §518(c)(2), substituted "Working capital fund for General Services Administration" for "Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration" in section catchline.
 

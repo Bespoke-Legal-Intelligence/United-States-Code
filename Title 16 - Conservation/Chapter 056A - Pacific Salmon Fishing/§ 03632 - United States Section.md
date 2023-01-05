@@ -62,7 +62,7 @@ Panel members described in subsections (c)(2), (c)(3), (d)(2), and (e)(2) shall 
 
 (1) Except as provided in paragraph (2), the United States Section shall operate with the objective of attaining consensus decisions in the development and exercise of its single vote within the Commission. A decision of the United States Section shall be taken when there is no dissenting vote.
 
-(2) A decision of the United States Section with respect to any salmon fishery regime covered by chapter 1 or 2 (except paragraph 4 of chapter 2) of Annex IV to the Pacific Salmon Treaty of 1985 shall be taken upon the affirmative vote of the United States Commissioner appointed from the list submitted by the Governor of Alaska pursuant to subsection (a). A decision of the United States Section with respect to any salmon fishery regime covered by chapter 4, 5 (except paragraph 2(b) of chapter 5), or 6 of the Pacific Salmon Treaty of 1985 shall be taken upon the affirmative vote of both the United States Commissioner appointed from the list submitted by the Governors of Washington andOregon pursuant to subsection (a) and the United States Commissioner appointed from the list submitted by the treaty Indian tribes of the State of Idaho, Oregon, or Washington pursuant to subsection (a). Before a decision of the United States Section is made under this paragraph, the voting Commissioner or Commissioners shall consult with the Commissioner who is an official of the United States Government under subsection (a) <sup>3</sup>
+(2) A decision of the United States Section with respect to any salmon fishery regime covered by chapter 1 or 2 (except paragraph 4 of chapter 2) of Annex IV to the Pacific Salmon Treaty of 1985 shall be taken upon the affirmative vote of the United States Commissioner appointed from the list submitted by the Governor of Alaska pursuant to subsection (a). A decision of the United States Section with respect to any salmon fishery regime covered by chapter 4, 5 (except paragraph 2(b) of chapter 5), or 6 of the Pacific Salmon Treaty of 1985 shall be taken upon the affirmative vote of both the United States Commissioner appointed from the list submitted by the Governors of Washington and Oregon pursuant to subsection (a) and the United States Commissioner appointed from the list submitted by the treaty Indian tribes of the State of Idaho, Oregon, or Washington pursuant to subsection (a). Before a decision of the United States Section is made under this paragraph, the voting Commissioner or Commissioners shall consult with the Commissioner who is an official of the United States Government under subsection (a) <sup>3</sup>
 
 (3) All decisions and recommendations of the United States Section of the northern, southern, and transboundary Panels shall require the concurring vote of a majority of the United States Panel members present and voting, except that decisions and recommendations of the southern Panel shall require the concurring vote of the members designated in subsections (c)(2) and (c)(3) and one of those members designated in subsection (c)(4).
 
@@ -78,17 +78,15 @@ Panel members described in subsections (c)(2), (c)(3), (d)(2), and (e)(2) shall 
 
 #### (i) Consultation
 
-In carrying out their functions under the Treaty, the Commissioners and Panel members may consult with such other interested parties as they consider appropriate. The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply.
+In carrying out their functions under the Treaty, the Commissioners and Panel members may consult with such other interested parties as they consider appropriate. Chapter 10 of title 5 shall not apply.
 
-(Pub. L. 99–5, §3, Mar. 15, 1985, 99 Stat. 8; Pub. L. 99–5, §16(c), formerly Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623(c)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–59, renumbered Pub. L. 109–479, title III, §302(d)(1), Jan. 12, 2007, 120 Stat. 3623; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–239.)
+(Pub. L. 99–5, §3, Mar. 15, 1985, 99 Stat. 8; Pub. L. 99–5, §16(c), formerly Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623(c)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–59, renumbered Pub. L. 109–479, title III, §302(d)(1), Jan. 12, 2007, 120 Stat. 3623; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–239; Pub. L. 117–286, §4(a)(118), Dec. 27, 2022, 136 Stat. 4318.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (i). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act".
 
 <b>2000</b>—Subsec. (f). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(5)(A)\], added subsec. (f). Former subsec. (f) redesignated (g).
 

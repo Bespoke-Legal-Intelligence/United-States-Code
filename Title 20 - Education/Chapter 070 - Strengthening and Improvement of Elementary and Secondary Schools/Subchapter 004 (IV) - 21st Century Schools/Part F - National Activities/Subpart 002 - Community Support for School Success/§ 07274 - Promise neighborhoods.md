@@ -52,7 +52,7 @@ An eligible entity desiring a grant under this subpart for activities described 
 
 &emsp;&emsp;(D) Providing social, health, nutrition, and mental health services and supports, for children, family members, and community members, which may include services provided within the school building.
 
-&emsp;&emsp;(E) Supporting evidence-based programs that assist students through school transitions, which may include expanding accessto postsecondary education courses and postsecondary education enrollment aid or guidance, and other supports for at-risk youth.
+&emsp;&emsp;(E) Supporting evidence-based programs that assist students through school transitions, which may include expanding access to postsecondary education courses and postsecondary education enrollment aid or guidance, and other supports for at-risk youth.
 
 &emsp;(8) A description of the strategies that will be used to provide pipeline services (including a description of which programs and services will be provided to children, family members, community members, and children within the neighborhood) to support the purpose described in section 7271(1) of this title.
 

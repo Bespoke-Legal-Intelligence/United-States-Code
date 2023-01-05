@@ -6,7 +6,7 @@ The jurisdiction in civil and criminal matters conferred on the district courts 
 
 #### (b) Attorney's fees
 
-In any action or proceeding to enforce a provision of sections 1981, 1981a, 1982, 1983, 1985, and 1986 of this title, title IX of Public Law 92–318 \[20 U.S.C. 1681 et seq.\], the Religious Freedom Restoration Act of 1993 \[42 U.S.C. 2000bb et seq.\], the Religious Land Use and Institutionalized Persons Act of 2000 \[42 U.S.C. 2000cc et seq.\], title VIof the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], or section 12361 of title 34, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction.
+In any action or proceeding to enforce a provision of sections 1981, 1981a, 1982, 1983, 1985, and 1986 of this title, title IX of Public Law 92–318 \[20 U.S.C. 1681 et seq.\], the Religious Freedom Restoration Act of 1993 \[42 U.S.C. 2000bb et seq.\], the Religious Land Use and Institutionalized Persons Act of 2000 \[42 U.S.C. 2000cc et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], or section 12361 of title 34, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney's fee as part of the costs, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction.
 
 #### (c) Expert fees
 
@@ -28,19 +28,19 @@ Title 70 of the Revised Statutes, referred to in subsec. (a), was in the origina
 
 Crimes,' " meaning title 70 of the Revised Statutes, consisting of R.S. §§5323 to 5550. For complete classification of R.S. §§5323 to 5550, see Tables.
 
-Title IX of Public Law 92–318, referred to in subsec. (b), is title IX of Pub. L. 92–318, June 23, 1972, 86 Stat. 373, as amended, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, which is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+Title IX of Public Law 92–318, referred to in subsec. (b), is title IX of Pub. L. 92–318, June 23, 1972, 86 Stat. 373, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, which is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
 The Religious Freedom Restoration Act of 1993, referred to in subsec. (b), is Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to chapter 21B (§2000bb et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000bb of this title and Tables.
 
 The Religious Land Use and Institutionalized Persons Act of 2000, referred to in subsec. (b), is Pub. L. 106–274, Sept. 22, 2000, 114 Stat. 803, which is classified principally to chapter 21C (§2000cc et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000cc of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§2000d et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 #### Codification
 
 R.S. §722 derived from acts Apr. 9, 1866, ch. 31, §3, 14 Stat. 27; May 31, 1870, ch. 114, §18, 16 Stat. 144.
 
-Section was formerly classified to section 729 of Title 28 prior to the general revision and enactment of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, §1, 62 Stat. 869.
+Section was formerly classified to section 729 of Title 28 prior to the general revision and enactment of Title28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, §1, 62 Stat. 869.
 
 #### Amendments
 

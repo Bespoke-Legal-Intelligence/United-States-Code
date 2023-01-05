@@ -8,7 +8,7 @@ Subject to sections 8812 and 8817 of this title, the Secretary concerned may com
 
 (1) Any guarantee of a loan under this section may not exceed 90 per centum of the cost of the construction of the biomass energy project involved, as estimated by the Secretary on the date of the guarantee or commitment to guarantee.
 
-(2) In the event the construction costs of the project are thereafter estimated by the Secretary concerned to exceed the constructioncosts initially estimated by the Secretary, the Secretary may in addition, upon application therefor, guarantee, against loss of principal and interest, a loan for up to 60 per centum of the difference between the construction costs then estimated and the construction costs initially estimated.
+(2) In the event the construction costs of the project are thereafter estimated by the Secretary concerned to exceed the construction costs initially estimated by the Secretary, the Secretary may in addition, upon application therefor, guarantee, against loss of principal and interest, a loan for up to 60 per centum of the difference between the construction costs then estimated and the construction costs initially estimated.
 
 #### (c) Debt obligation; ineligibility for purchase, etc., by Federal Financing Bank or any Federal agency
 
@@ -46,7 +46,7 @@ If the Secretary concerned determines that—
 
 #### References in Text
 
-The Federal Financing Bank Act of 1973, referred to in subsec. (c), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, as amended, which is classified generally to chapter 24 (§2281 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of Title 12 and Tables.
+The Federal Financing Bank Act of 1973, referred to in subsec. (c), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, which is classified generally to chapter 24 (§2281 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of Title 12 and Tables.
 
 This chapter, referred to in subsec. (e), was in the original "this title", meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
 

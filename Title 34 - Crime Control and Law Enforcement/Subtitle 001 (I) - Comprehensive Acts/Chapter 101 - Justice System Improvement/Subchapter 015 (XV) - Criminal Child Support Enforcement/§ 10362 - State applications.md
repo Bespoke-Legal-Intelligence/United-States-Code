@@ -30,7 +30,7 @@ Section was formerly classified to section 3796cc–1 of Title 42, The Public He
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 10151 of this title.
+Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5,2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under section 10151 of this title.
 
 #### Transfer of Functions
 

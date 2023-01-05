@@ -16,7 +16,7 @@ Requests for information, disclosure of which is authorized by regulations presc
 
 #### (c) Cost reimbursement
 
-Notwithstanding sections 552 and 552a of title 5 or any other provision of law, whenever theCommissioner of Social Security or the Secretary determines that a request for information is made in order to assist a party in interest (as defined in section 1002 of title 29) with respect to the administration of an employee benefit plan (as so defined), or is made for any other purpose not directly related to the administration of the program or programs under this chapter to which such information relates, such Commissioner or Secretary may require the requester to pay the full cost, as determined by such Commissioner or Secretary, of providing such information.
+Notwithstanding sections 552 and 552a of title 5 or any other provision of law, whenever the Commissioner of Social Security or the Secretary determines that a request for information is made in order to assist a party in interest (as defined in section 1002 of title 29) with respect to the administration of an employee benefit plan (as so defined), or is made for any other purpose not directly related to the administration of the program or programs under this chapter to which such information relates, such Commissioner or Secretary may require the requester to pay the full cost, as determined by such Commissioner or Secretary, of providing such information.
 
 #### (d) Compliance with requests
 
@@ -32,7 +32,7 @@ Notwithstanding any other provision of this section, in any case in which—
 
 Notwithstanding any other provision of this section the Secretary shall make available to each State agency operating a program under subchapter XIX and shall, subject to the limitations contained in subsection (e),<sup>1</sup> make available for public inspection in readily accessible form and fashion, the following official reports (not including, however, references to any internal tolerance rules and practices that may be contained therein, internal working papers or other informal memoranda) dealing with the operation of the health programs established by subchapters XVIII and XIX—
 
-&emsp;(1) individual contractor performance reviews and other formal evaluations of the performance of carriers, intermediaries, and State agencies, including the reports of follow-up reviews;
+&emsp;(1) individual contractor performance reviews and other formal evaluations of the performance of carriers, intermediaries, andState agencies, including the reports of follow-up reviews;
 
 &emsp;(2) comparative evaluations of the performance of such contractors, including comparisons of either overall performance or of any particular aspect of contractor operation; and
 
@@ -46,9 +46,9 @@ No report described in subsection (e) shall be made public by the Secretary or t
 
 Notwithstanding any other provision of this section, the Commissioner of Social Security shall enter into an agreement with the Secretary of the Treasury under which—
 
-&emsp;(1) if the Secretary provides the Commissioner with the information described in section 6103(k)(15) of title 26 with respect to any individual, the Commissioner shall indicate to the Secretary as to whether such individual receives disability insurance benefits under section 423 of this title or supplemental security income benefits under subchapter XVI of this chapter (including State supplementary payments of the type referred to in section 1382e(a) of this title or payments of the type described in section 212(a) of Public Law 93–66 \[42 U.S.C. 1382 note\]);
+&emsp;(1) if the Secretary provides the Commissioner with the information described in section 6103(k)(15) of the Internal Revenue Code of 1986 with respect to any individual, the Commissioner shall indicate to the Secretary as to whether such individual receives disability insurance benefits under section 423 of this title or supplemental security income benefits under subchapter XVI of this chapter (including State supplementary payments of the type referred to in section 1382e(a) of this title or payments of the type described in section 212(a) of Public Law 93–66 \[42 U.S.C. 1382 note\]);
 
-&emsp;(2) appropriate safeguards are included to assure that the indication described in paragraph (1) will be used solely for the purpose of determining if tax receivables involving such individual are not eligible for collection pursuant to a qualified tax collection contract by reason of section 6306(d)(3)(E) of title 26; and
+&emsp;(2) appropriate safeguards are included to assure that the indication described in paragraph (1) will be used solely for the purpose of determining if tax receivables involving such individual are not eligible for collection pursuant to a qualified tax collection contract by reason of section 6306(d)(3)(E) of the Internal Revenue Code of 1986; and
 
 &emsp;(3) the Secretary shall pay the Commissioner of Social Security the full costs (including systems and administrative costs) of providing the indication described in paragraph (1).
 
@@ -58,11 +58,13 @@ Notwithstanding any other provision of this section, the Commissioner of Social 
 
 #### References in Text
 
-Title VIII of the Social Security Act, referred to in subsec. (a)(1), probably refers to former title VIII of theAct, which was classified to subchapter VIII (§1001 et seq.) of this chapter prior to its omission from the Code as superseded by the provisions of the Internal Revenue Code of 1939 and the Internal Revenue Code of 1986.
+Title VIII of the Social Security Act, referred to in subsec. (a)(1), probably refers to former title VIII of the Act, which was classified to subchapter VIII (§1001 et seq.) of this chapter prior to its omission from the Code as superseded by the provisions of the Internal Revenue Code of 1939 and the Internal Revenue Code of 1986.
 
 Subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a), were comprised of sections 480 to 482 and 1400 to 1432, respectively, and were repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26 for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
 
 For provision deeming a reference in other laws to a provision of the 1939 Code as a reference to the corresponding provisions of the 1986 Code, see section 7852(b) of the 1986 Code. For table of comparisons of the 1939 Code to the 1986 Code, see table preceding section 1 of Title 26, Internal Revenue Code. The Internal Revenue Code of 1986 is classified generally to Title 26.
+
+Sections 6103(k)(15) and 6306(d)(3)(E) of the Internal Revenue Code of 1986, referred to in subsec. (g)(1) and (2), are classified to sections 6103(k)(15) and 6306(d)(3)(E), respectively, of Title 26, Internal Revenue Code.
 
 #### Amendments
 
@@ -78,7 +80,7 @@ Subsec. (c). Pub. L. 103–296, §108(b)(4), substituted "the Commissioner of So
 
 Subsec. (d). Pub. L. 103–296, §311(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 103–296, §108(b)(5) in subsec. (d) as added by Pub. L. 103–296, §311(a)(3), in par. (1) substituted "Commissioner of Social Security" for "Secretary" after "records of the", "Commissioner" for "Secretary" after "from the", "Commissioner in consultation with the Secretary of Health and Human Services" for "Secretary" after "which the", and in par. (2) and closing provisions substituted "Commissioner" for "Secretary" wherever appearing.
+Pub. L. 103–296, §108(b)(5) in subsec. (d) as added by Pub. L. 103–296, §311(a)(3), in par. (1) substituted "Commissioner of Social Security" for "Secretary" after"records of the", "Commissioner" for "Secretary" after "from the", "Commissioner in consultation with the Secretary of Health and Human Services" for "Secretary" after "which the", and in par. (2) and closing provisions substituted "Commissioner" for "Secretary" wherever appearing.
 
 Subsec. (e). Pub. L. 103–296, §311(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
@@ -132,7 +134,7 @@ Pub. L. 103–296, title III, §313(c), Aug. 15, 1994, 108 Stat. 1530, provided 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed\(under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1975 Amendment
 

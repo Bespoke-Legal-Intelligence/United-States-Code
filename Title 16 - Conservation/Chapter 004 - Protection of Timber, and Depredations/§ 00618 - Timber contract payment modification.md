@@ -42,7 +42,7 @@
 
 (B) Timber sales in Forest Service region 6 shall not exceed four billion three hundred million board feet of net merchantable sawtimber in fiscal year 1984.
 
-(C) Beginning in fiscal year 1985 and continuing through fiscal year 1991 or the fiscal year in which timber contract extensions in region 6 granted under the President's program of July 28, 1983 (as constituted on October 16, 1984), are completed, whichever is later, the Secretary of Agriculture shall set, and periodically adjust as necessary, the maximum annual timber sale volume in region 6. Such maximum sale volumeshall be set so as to achieve a volume of region 6 net merchantable sawtimber under contract at the end of each fiscal year which does not exceed twelve billion three hundred million board feet: <i>Provided, however</i>, That such maximum annual sale volume shall not exceed five billion two hundred million board feet of net merchantable sawtimber. The sale of timber within region 6 shall be made in such a manner as not to result in discriminatory treatment as between different forests in the region.
+(C) Beginning in fiscal year 1985 and continuing through fiscal year 1991 or the fiscal year in which timber contract extensions in region 6 granted under the President's program of July 28, 1983 (as constituted on October 16, 1984), are completed, whichever is later, the Secretary of Agriculture shall set, and periodically adjust as necessary, the maximum annual timber sale volume in region 6. Such maximum sale volume shall be set so as to achieve a volume of region 6 net merchantable sawtimber under contract at the end of each fiscal year which does not exceed twelve billion three hundred million board feet: <i>Provided, however</i>, That such maximum annual sale volume shall not exceed five billion two hundred million board feet of net merchantable sawtimber. The sale of timber within region 6 shall be made in such a manner as not to result in discriminatory treatment as between different forests in the region.
 
 (6)(A) The Secretary of the Interior and the Secretary of Agriculture shall publish final rules for the implementation of this subsection in the Federal Register within ninety days after October 16, 1984.
 
@@ -62,7 +62,7 @@
 
 #### (c) Monitoring of bidding patterns on timber sale contracts; discouragement of bids; reporting requirements
 
-The Secretary of Agriculture and the Secretary of the Interior shall monitor bidding patterns on timber sale contracts and take action to discourage bidding at such a rate as would indicate that the bidder, if awarded the contract, would be unable to perform the obligations as required, or that the bid is otherwise for the purpose of speculation. Each Secretary shall include in the annual report to Congress information concerning actions taken under this subsection.
+The Secretary of Agriculture and the Secretary of the Interior shall monitor bidding patterns on timber sale contracts and take action to discourage bidding at such a rate as would indicate that the bidder, if awarded the contract, would be unable to perform the obligations asrequired, or that the bid is otherwise for the purpose of speculation. Each Secretary shall include in the annual report to Congress information concerning actions taken under this subsection.
 
 #### (d) Cash down-payment and periodic payments for contracts; effective date
 

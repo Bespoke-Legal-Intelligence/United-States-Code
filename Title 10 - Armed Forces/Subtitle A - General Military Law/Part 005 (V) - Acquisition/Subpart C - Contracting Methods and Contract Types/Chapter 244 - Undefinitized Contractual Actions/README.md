@@ -8,7 +8,7 @@
 | [3374\.](%C2%A7%2003374%20-%20Undefinitized%20contractual%20actions%20allowable%20profit.md) | Undefinitized contractual actions: allowable profit. |
 | [3375\.](%C2%A7%2003375%20-%20Undefinitized%20contractual%20actions%20time%20limit.md) | Undefinitized contractual actions: time limit. |
 | 3376\. | \[Reserved\]. |
-| [3377\.](%C2%A7%2003377%20-%20Inapplicability%20to%20Coast%20Guard%20and%20National%20Aeronautics%20and%20Space%20Administration%3B%20definitions.md) | Inapplicability to Coast Guard and National Aeronautics and Space Administration; definitions.<br> |
+| [3377\.](%C2%A7%2003377%20-%20Inapplicability%20to%20Coast%20Guard%20and%20National%20Aeronautics%20and%20Space%20Administration%3B%20definitions.md) | Inapplicability to Coast Guard and National Aeronautics and Space Administration; definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

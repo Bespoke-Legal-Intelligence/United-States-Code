@@ -268,7 +268,7 @@ Submission to congress.—The Director shall submit the reports under subparagra
 
 #### References in Text
 
-The Community Reinvestment Act of 1977, referred to in subsec. (g)(2), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The Community Reinvestment Act of 1977, referred to in subsec. (g)(2), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
 The Home Mortgage Disclosure Act of 1975, referred to in subsec. (k)(1)(B), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified generally to chapter 29 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
@@ -306,7 +306,7 @@ Subsec. (j)(9). Pub. L. 110–289, §1204(12), substituted "Director" for "Feder
 
 Subsec. (j)(11) to (12)(B). Pub. L. 110–289, §1204(8), (9), substituted "the Director" for "the Board" and "The Director" for "The Board" wherever appearing.
 
-Subsec. (j)(12)(C), (D). Pub. L. 110–289, §1212(1), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: "The Comptroller General of the United States shall audit and evaluate the Affordable Housing Program established by this subsection aftersuch program has been operating for 2 years. The Comptroller General shall report to Congress on the conclusions of the audit and recommend improvements or modifications to the program."
+Subsec. (j)(12)(C), (D). Pub. L. 110–289, §1212(1), added subpars. (C) and (D) and struck out former subpar. (C) which read as follows: "The Comptroller General of the United States shall audit and evaluate the Affordable Housing Program established by this subsection after such program has been operating for 2 years. TheComptroller General shall report to Congress on the conclusions of the audit and recommend improvements or modifications to the program."
 
 Subsec. (k). Pub. L. 110–289, §1212(2), added subsec. (k).
 

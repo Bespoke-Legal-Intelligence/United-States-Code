@@ -12,7 +12,7 @@ The Congress finds—
 
 &emsp;(5) that the net effect of Federal Government efforts to reduce unemployment through public service jobs is substantially limited if State and local governments use federally financed public service employees to replace regular employees that they have been forced to lay off;
 
-&emsp;(6) that efforts to stimulate the construction industry and reduce unemployment are substantially undermined when State and local governments are forced to cancel or delay the construction of essential capital projects; and
+&emsp;(6) that efforts to stimulate the construction industry and reduce unemployment are substantially undermined when State and localgovernments are forced to cancel or delay the construction of essential capital projects; and
 
 &emsp;(7) that efforts by the Federal Government to stimulate the economic recovery will be substantially enhanced by a program of emergency Federal Government assistance to State and local governments to help prevent those governments from taking budget-related actions which undermine the Federal Government efforts to stimulate economic recovery.
 

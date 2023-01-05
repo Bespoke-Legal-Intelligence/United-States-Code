@@ -16,7 +16,7 @@
 
 (2) Each plan under paragraph (1) shall make available clinically proven substance abuse treatment methods, including opioid substitution therapy, to veterans with respect to whom a qualified medical professional has determined such treatment methods to be appropriate.
 
-(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, §114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV,§404(a)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–95, §8(c), Dec. 21, 2001, 115 Stat. 920; Pub. L. 116–283, div. A, title IX, §926(a)(25), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 96–22, title I, §104(a), June 13, 1979, 93 Stat. 50, §620A; amended Pub. L. 96–128, title V, §501(c), Nov. 28, 1979, 93 Stat. 987; Pub. L. 97–251, §6, Sept. 8, 1982, 96 Stat. 716; Pub. L. 97–258, §3(k)(1), Sept. 13, 1982, 96 Stat. 1065; Pub.L. 99–108, §3, Sept. 30, 1985, 99 Stat. 481; Pub. L. 99–166, title I, §101(a), (b)(1), Dec. 3, 1985, 99 Stat. 942, 943; Pub. L. 100–687, div. B, title XV, §1509, Nov. 18, 1988, 102 Stat. 4137; Pub. L. 100–689, title V, §502(a)(1), (b), Nov. 18, 1988, 102 Stat. 4179; Pub. L. 102–54, §14(b)(13), June 13, 1991, 105 Stat. 284; renumbered §1720A and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title III, §303, Aug. 14, 1991, 105 Stat. 416; Pub. L. 103–452, title I, §103(b), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(b), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–114, title II, §202(b), Nov. 21, 1997, 111 Stat. 2287; Pub. L. 106–117, title I, §114, Nov. 30, 1999, 113 Stat. 1558; Pub. L. 106–419, title IV, §404(a)(4), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–95, §8(c), Dec. 21, 2001, 115 Stat. 920; Pub. L. 116–283, div. A, title IX, §926(a)(25), Jan. 1, 2021, 134 Stat. 3830.)
 
 #### <b>Editorial Notes</b>
 
@@ -167,6 +167,200 @@ Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub
 #### Effective Date
 
 Section effective Oct. 1, 1979, see section 107 of Pub. L. 96–22, set out as an Effective Date of 1979 Amendment note under section 1701 of this title.
+
+#### Pilot Program on Award of Grants for Substance Use Disorder Recovery for Homeless Veterans
+
+Pub. L. 117–328, div. U, title III, §311, Dec. 29, 2022, 136 Stat. 5475, provided that:
+
+"(a)
+
+Pilot Program Required.—Not later than 270 days after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs shall commence carrying out a pilot program under which the Secretary shall award grants to eligible entities for the provision or coordination of services for recovery from substance use disorder for veterans who are homeless, were previously homeless and are transitioning to permanent housing, or are at risk of becoming homeless.
+
+"(b)
+
+Duration.—The Secretary shall carry out the pilot program during the five-year period beginning on the date of the commencement of the pilot program.
+
+"(c)
+
+Locations.—The Secretary shall carry out the pilot program at not fewer than five locations selected by the Secretary for purposes of the pilot program.
+
+"(d)
+
+Award of Grants.—
+
+&emsp;"(1)
+
+In general.—In carrying out the pilot program, the Secretary shall award a grant to an eligible entity for each veteran with substance use disorder participating in the pilot program for which the eligible entity is providing or coordinating the provision of recovery services for substance use disorder under the pilot program.
+
+&emsp;"(2)
+
+Intervals of payment and maximum amounts.—The Secretary may establish intervals of payment for the administration of grants under this section and a maximum amount to be awarded, in accordance with the services being provided and the duration of such services.
+
+&emsp;"(3)
+
+Preference.—In awarding grants under paragraph (1), the Secretary shall give preference to eligible entities providing or coordinating the provision of recovery services for substance use disorder for veterans with substance-use dependency who face barriers in accessing substance-use recovery services from the Department of Veterans Affairs.
+
+&emsp;"(4)
+
+Equitable distribution.—The Secretary shall ensure that, to the extent practicable, grant amounts awarded under paragraph (1) are equitably distributed across geographic regions, including rural and Tribal communities.
+
+&emsp;"(5)
+
+Report on services provided.—The Secretary shall require each eligible entity awarded a grant under paragraph (1) to submit to the Secretary a report that describes the services provided or coordinated with amounts under such grant.
+
+"(e)
+
+Requirements for Receipt of Grants.—
+
+&emsp;"(1)
+
+Notification that services are from department.—Each entity receiving a grant under this section shall notify the recipients of services provided pursuant to grant amounts that such services are being paid for, in whole or in part, by the Department.
+
+&emsp;"(2)
+
+Coordination.—An entity receiving a grant under this section shall—
+
+&emsp;&emsp;"(A) coordinate with the Secretary with respect to the provision of clinical services to eligible individuals or any other provisions of law regarding the delivery of health care by the Secretary;
+
+&emsp;&emsp;"(B) inform each veteran who receives assistance under this section from the entity of the ability of the veteran to apply for enrollment in the patient enrollment system of the Department under section 1705(a) of title 38, United States Code; and
+
+&emsp;&emsp;"(C) if such a veteran wishes to so enroll, inform the veteran of a point of contact at the Department who can assist the veteran in such enrollment.
+
+"(f)
+
+Grant Application.—
+
+&emsp;"(1)
+
+In general.—An eligible entity seeking the award of a grant under this section shall submit to the Secretary an application therefor in such form, in such manner, and containing such commitments and information as the Secretary considers necessary to carry out this section.
+
+&emsp;"(2)
+
+Contents of application.—Each application submitted by an eligible entity under paragraph (1) shall contain the following:
+
+&emsp;&emsp;"(A) A description of the recovery services for substance use disorder proposed to be provided by the eligible entity under the pilot program and the identified need for those services.
+
+&emsp;&emsp;"(B) A description of the types of veterans with substance use disorder proposed to be provided such recovery services.
+
+&emsp;&emsp;"(C) An estimate of the number of veterans with substance use disorder proposed to be provided such recovery services.
+
+&emsp;&emsp;"(D) Evidence of the experience of the eligible entity in providing such recovery services to veterans with substance use disorder.
+
+&emsp;&emsp;"(E) A description of the managerial capacity of the eligible entity—
+
+&emsp;&emsp;&emsp;"(i) to assess continually the needs of veterans with substance use disorder for such recovery services;
+
+&emsp;&emsp;&emsp;"(ii) to coordinate the provision of such recovery services with services provided by the Department; and
+
+&emsp;&emsp;&emsp;"(iii) to tailor such recovery services to the needs of veterans with substance use disorder.
+
+&emsp;"(3)
+
+Criteria for selection.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall establish criteria for the selection of eligible entities to be awarded grants under this section.
+
+&emsp;&emsp;"(B)
+
+Elements.—Criteria established under subparagraph (A) with respect to an eligible entity shall include the following:
+
+&emsp;&emsp;&emsp;"(i) Relevant accreditation as may be required by each State in which the eligible entity operates.
+
+&emsp;&emsp;&emsp;"(ii) Experience coordinating care or providing treatment for veterans or members of the Armed Forces.
+
+"(g)
+
+Participation.—Participation by a veteran in the pilot program shall not affect any eligibility status or requirements for such veteran with respect to other benefits or services provided by the Department.
+
+"(h)
+
+Technical Assistance.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall provide training and technical assistance to eligible entities awarded grants under this section regarding the planning, development, and provision of recovery services for substance use disorder under this section.
+
+&emsp;"(2)
+
+Provision of training.—The Secretary may provide the training required under paragraph (1) directly or through grants or contracts with such public or nonprofit private entities as the Secretary considers appropriate for purposes of this section, including through grants awarded under section 2064 of title 38, United States Code.
+
+"(i)
+
+Collection of Information.—To the extent practicable, the Secretary may collect information from an eligible entity awarded a grant under this section relating to a substance use disorder of a veteran participating in the pilot program for inclusion in the electronic health record of the Department for such veteran for the sole purpose of improving care provided to such veteran.
+
+"(j)
+
+Study on Effectiveness of Pilot Program.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall conduct a study on the effectiveness of the pilot program in meeting the needs of veterans with substance use disorder.
+
+&emsp;"(2)
+
+Comparison.—In conducting the study required by paragraph (1), the Secretary shall compare the results of the pilot program with other programs of the Department dedicated to the delivery to veterans of recovery services for substance use disorder.
+
+&emsp;"(3)
+
+Criteria.—In making the comparison required by paragraph (2), to the extent data is available, the Secretary shall examine the following:
+
+&emsp;&emsp;"(A) The satisfaction of veterans targeted by the programs described in paragraph (2).
+
+&emsp;&emsp;"(B) The health status of such veterans, including mental health.
+
+&emsp;&emsp;"(C) The degree to which such programs encourage such veterans to engage in productive activity.
+
+&emsp;&emsp;"(D) The number of veterans using such programs, disaggregated by—
+
+&emsp;&emsp;&emsp;"(i) veterans who have received health care provided by the Department during the two-year period preceding the conduct of the study;
+
+&emsp;&emsp;&emsp;"(ii) veterans who have not received health care provided by the Department during such period;
+
+&emsp;&emsp;&emsp;"(iii) veterans eligible for health care provided by the Department, disaggregated by—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) veterans eligible for services from the Department similar to services provided under the pilot program; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) veterans not eligible for such services from the Department; and
+
+&emsp;&emsp;&emsp;"(iv) veterans ineligible for health care provided by the Department.
+
+&emsp;&emsp;"(E) The number of veterans who are still homeless or at risk of becoming homeless one year after completion of receipt of recovery services under such programs.
+
+&emsp;&emsp;"(F) The number of veterans who still have a substance use disorder that negatively impacts their daily living and ability to maintain independent housing 180 days after discharge from receipt of services provided under this section.
+
+&emsp;&emsp;"(G) The status of the discharge from the Armed Forces of veterans covered under this paragraph.
+
+&emsp;"(4)
+
+Reports.—Not later than one year after the date on which the first grant is awarded under this section, and annually thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the results of the study required by paragraph (1).
+
+"(k)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Eligible entity.—The term 'eligible entity' means any of the following:
+
+&emsp;&emsp;"(A) An incorporated private institution or foundation—
+
+&emsp;&emsp;&emsp;"(i) no part of the net earnings of which inures to the benefit of any member, founder, contributor, or individual;
+
+&emsp;&emsp;&emsp;"(ii) that has a governing board that is responsible for the operation of the recovery services for substance use disorder provided under this section; and
+
+&emsp;&emsp;&emsp;"(iii) that is approved by the Secretary with respect to financial responsibility.
+
+&emsp;&emsp;"(B) A for-profit limited partnership, the sole general partner of which is an organization meeting the requirements of subparagraph (A).
+
+&emsp;&emsp;"(C) A corporation wholly owned and controlled by an organization meeting the requirements of subparagraph (A).
+
+&emsp;&emsp;"(D) A tribally designated housing entity (as defined in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103)).
+
+&emsp;"(2)
+
+Substance use disorder.—The term 'substance use disorder', with respect to a veteran, means the veteran has been diagnosed with, or is seeking treatment for, substance use disorder, as determined by the Secretary."
 
 #### Substance Use Disorders and Mental Health Care
 
@@ -320,7 +514,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 #### Ratification of Actions During Period of Expired Authority
 
-Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during periodbeginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 
 #### Report on Consolidation of Certain Programs
 
@@ -362,7 +556,7 @@ Loan Recipients.—A loan under this section may only be made to a nonprofit org
 
 "(c)
 
-Funding.—Loans under this section shall be made from the special account of the General Post Fund of the Department of Veterans Affairs established for purposes of this section. The amount of such loans outstanding at any time may not exceed $100,000. Amounts received as payment of principal and interest on such loans shall be deposited in that account. The operation of the loan program under this section shall be separately accounted for, and shall be separately stated in the documents accompanying the President's budget for each fiscal year.
+Funding.—Loans under this section shall be made from the special account of the General Post Fund of the Department of Veterans Affairs established for purposes of this section. The amount of such loans outstanding at any time may not exceed $100,000. Amounts received as payment of principal and interest on such loans shall be deposited in that account. Theoperation of the loan program under this section shall be separately accounted for, and shall be separately stated in the documents accompanying the President's budget for each fiscal year.
 
 "(d)
 

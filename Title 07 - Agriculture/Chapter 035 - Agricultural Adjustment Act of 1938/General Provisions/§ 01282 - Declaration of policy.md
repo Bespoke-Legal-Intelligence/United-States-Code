@@ -8,7 +8,7 @@ It is declared to be the policy of Congress to continue the Soil Conservation an
 
 #### References in Text
 
-The Soil Conservation and Domestic Allotment Act, as amended, referred to in text, is act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
+The Soil Conservation and Domestic Allotment Act, as amended, referred to in text, is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 590q of Title 16 and Tables.
 
 #### Amendments
 
@@ -48,7 +48,7 @@ Pub. L. 87–128, §2, Aug. 8, 1961, 75 Stat. 294, provided that: "In order more
 
 #### Congressional Declaration of Policy for Year 1949
 
-Act July 3, 1948, ch. 827, title I, §1(d), 62 Stat. 1248, provided that: "It is hereby declared to be the policy of the Congress that the lending and purchase operations of the Department of Agriculture (other than those referred to in subsections (a), (b), and (c) hereof \[subsections (a) and (b) are set out as notes under this section and subsection (c) is set out as a note under section 713a–8 of Title 15, Commerce and Trade\]) shall be carried out until January 1, 1950, so as to bring the price and income of the producers of other agricultural commodities not covered by subsections (a), (b), and (c) to a fair parity relationship with the commodities included under subsections (a), (b), and (c), to the extentthat funds for such operations are available after taking into account the operations with respect to the commodities covered by subsections (a), (b), and (c). In carrying out the provisions of this subsection the Secretary of Agriculture shall have the authority to require compliance with production goals and marketing regulations as a condition to eligibility of producers for price support."
+Act July 3, 1948, ch. 827, title I, §1(d), 62 Stat. 1248, provided that: "It is hereby declared to be the policy of the Congress that the lending and purchase operations of the Department of Agriculture (other than those referred to in subsections (a), (b), and (c) hereof \[subsections (a) and (b) are set out as notes under this section and subsection (c) is set out as a note under section 713a–8 of Title 15, Commerce and Trade\]) shall be carried out until January 1, 1950, so as to bring the price and income of the producers of other agricultural commodities not covered by subsections (a), (b), and (c) to a fair parity relationship with the commodities included under subsections (a), (b), and (c), to the extent that funds for such operations are available after taking into account the operations with respect to the commodities covered by subsections (a), (b), and (c). In carrying out the provisions of this subsection the Secretary of Agriculture shall have the authority to require compliance with production goals and marketing regulations as a condition to eligibility of producers for price support."
 
 #### Study of Parity Income Position of Farmers; Report to Congress by June 30, 1966
 

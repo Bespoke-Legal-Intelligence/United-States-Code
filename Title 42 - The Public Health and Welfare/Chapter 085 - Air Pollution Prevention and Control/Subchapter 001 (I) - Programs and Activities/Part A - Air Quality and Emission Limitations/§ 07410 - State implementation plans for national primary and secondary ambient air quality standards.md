@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) insuring compliance with the applicable requirements of sections 7426 and 7415 of this title (relating to interstate and international pollution abatement);
 
-&emsp;(E) provide (i) necessary assurances that the State (or, except where the Administrator deems inappropriate, the general purpose local government or governments, or a regionalagency designated by the State or general purpose local governments for such purpose) will have adequate personnel, funding, and authority under State (and, as appropriate, local) law to carry out such implementation plan (and is not prohibited by any provision of Federal or State law from carrying out such implementation plan or portion thereof), (ii) requirements that the State comply with the requirements respecting State boards under section 7428 of this title, and (iii) necessary assurances that, where the State has relied on a local or regional government, agency, or instrumentality for the implementation of any plan provision, the State has responsibility for ensuring adequate implementation of such plan provision;
+&emsp;(E) provide (i) necessary assurances that the State (or, except where the Administrator deems inappropriate, the general purpose local government or governments, or a regional agency designated by the State or general purpose local governments for such purpose) willhave adequate personnel, funding, and authority under State (and, as appropriate, local) law to carry out such implementation plan (and is not prohibited by any provision of Federal or State law from carrying out such implementation plan or portion thereof), (ii) requirements that the State comply with the requirements respecting State boards under section 7428 of this title, and (iii) necessary assurances that, where the State has relied on a local or regional government, agency, or instrumentality for the implementation of any plan provision, the State has responsibility for ensuring adequate implementation of such plan provision;
 
 &emsp;(F) require, as may be prescribed by the Administrator—
 
@@ -72,7 +72,7 @@
 
 (4) Repealed. Pub. L. 101–549, title I, §101(d)(2), Nov. 15, 1990, 104 Stat. 2409.
 
-(5)(A)(i) Any State may include in a State implementation plan, but the Administrator may not require as a condition of approval of such plan under this section, any indirect source review program. The Administrator may approve and enforce, as part of an applicable implementation plan, an indirect source review program which the State chooses to adopt and submit as part of its plan.
+(5)(A)(i) Any State may include in a State implementation plan, but the Administrator maynot require as a condition of approval of such plan under this section, any indirect source review program. The Administrator may approve and enforce, as part of an applicable implementation plan, an indirect source review program which the State chooses to adopt and submit as part of its plan.
 
 (ii) Except as provided in subparagraph (B), no plan promulgated by the Administrator shall include any indirect source review program for any air quality control region, or portion thereof.
 
@@ -270,7 +270,7 @@ Any State shall submit, according to such schedule as the Administrator may pres
 
 #### References in Text
 
-The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (a)(3)(B), is Pub. L. 93–319, June 22, 1974, 88 Stat. 246, as amended, which is classified principally to chapter 16C (§791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
+The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (a)(3)(B), is Pub. L. 93–319, June 22, 1974, 88 Stat. 246, which is classified principally to chapter 16C (§791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
 
 Section 7413 of this title, referred to in subsecs. (a)(3)(C), (6), (f)(5), (g)(3), and (i), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsecs. (d) and (e) of section 7413 no longer relates to final compliance orders and steel industry compliance extension, respectively.
 

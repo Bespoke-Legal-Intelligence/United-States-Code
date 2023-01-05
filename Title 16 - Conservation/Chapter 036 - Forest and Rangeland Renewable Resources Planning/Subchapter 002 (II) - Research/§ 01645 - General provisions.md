@@ -6,7 +6,7 @@ The Secretary may make funds available to cooperators and grantees under this su
 
 #### (b) Coordination of cooperative aid and grants with other aid and grant authorities
 
-To avoid duplication, the Secretary shall coordinate cooperative aid and grants under this subchapter with cooperative aid and grants the Secretary makes under any other authority.
+To avoid duplication, the Secretary shall coordinate cooperative aid and grants under thissubchapter with cooperative aid and grants the Secretary makes under any other authority.
 
 #### (c) Dissemination of knowledge and technology developed from research activities; cooperation with specified entities
 

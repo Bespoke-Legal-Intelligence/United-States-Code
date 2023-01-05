@@ -24,7 +24,7 @@ Annual Report on Air Carrier Safety Recommendations.—
 
 &emsp;(1)
 
-In general.—The Secretary shall submit to Congress and the Board, on an annual basis,a report on the recommendations made by the Board to the Secretary regarding air carrier operations conducted under part 121 of title 14, Code of Federal Regulations.
+In general.—The Secretary shall submit to Congress and the Board, on an annual basis, a report on the recommendations made by the Board to the Secretary regarding air carrier operations conducted under part 121 of title 14, Code of Federal Regulations.
 
 &emsp;(2)
 

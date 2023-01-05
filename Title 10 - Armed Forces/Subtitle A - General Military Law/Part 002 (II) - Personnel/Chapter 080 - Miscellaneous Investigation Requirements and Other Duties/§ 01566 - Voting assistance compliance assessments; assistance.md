@@ -26,7 +26,7 @@ Annual Effectiveness and Compliance Reviews.—(1) The Inspector General of each
 
 &emsp;(A) the effectiveness during the preceding calendar year of voting assistance programs; and
 
-&emsp;(B) the level of compliance during the preceding calendar year with voting assistanceprograms of each of the Army, Navy, Air Force, Marine Corps, and Space Force.
+&emsp;(B) the level of compliance during the preceding calendar year with voting assistance programs of each of the Army, Navy, Air Force, Marine Corps, and Space Force.
 
 \[(d) Repealed. Pub. L. 109–364, div. A, title V, §596(a), Oct. 17, 2006, 120 Stat. 2235.\]
 
@@ -38,7 +38,7 @@ Regular Military Department Assessments.—The Secretary of each military depart
 
 Voting Assistance Officers.—(1) Voting assistance officers shall be appointed or assigned under Department of Defense regulations. Commanders at all levels are responsible for ensuring that unit voting officers are trained and equipped to provide information and assistance to members of the armed forces on voting matters. Performance evaluation reports pertaining to a member who has been assigned to serve as a voting assistance officer shall comment on the performance of the member as a voting assistance officer.
 
-(2) Under regulations and procedures (including directives) prescribed by the Secretary, a member of the armed forces appointed or assigned to duty as a voting assistance officer shall, to the maximum extent practicable, be given the time and resources needed to perform the member's duties as a voting assistance officer during the period in advance of a general election when members and their dependents are preparing and submitting absentee ballots.
+(2) Under regulations and procedures (including directives) prescribed by the Secretary, a member of the armed forces appointed or assigned to duty as a voting assistance officershall, to the maximum extent practicable, be given the time and resources needed to perform the member's duties as a voting assistance officer during the period in advance of a general election when members and their dependents are preparing and submitting absentee ballots.
 
 (g)
 
@@ -72,7 +72,7 @@ The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs.
 
 <b>2021</b>—Subsecs. (a), (c)(1), (3)(B). Pub. L. 116–283 substituted "Marine Corps, and Space Force" for "and Marine Corps".
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–364, §596(a), struck out subsec. (d), which required the Inspector General of theDepartment of Defense to periodically conduct unannounced assessments of compliance with requirements of law regarding voting by members of the armed forces at Department of Defense installations.
+<b>2006</b>—Subsec. (d). Pub. L. 109–364, §596(a), struck out subsec. (d), which required the Inspector General of the Department of Defense to periodically conduct unannounced assessments of compliance with requirements of law regarding voting by members of the armed forces at Department of Defense installations.
 
 Subsec. (g)(2). Pub. L. 109–364, §596(d), struck out at end "Not later than April 29, 2003, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures."
 
@@ -82,7 +82,7 @@ Subsecs. (h), (i)(1), (3). Pub. L. 108–375, §1084(d)(13)(B), substituted "arm
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–252, §701(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (g)(2). Pub. L. 107–252, §701(b), inserted at end "The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held. Not later than the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002, the Secretary shall submit to Congress a report describing the measures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures."
+Subsec. (g)(2). Pub. L. 107–252, §701(b), inserted at end "The Secretary shall, to the maximum extent practicable, implement measures to ensure that a postmark or other official proof of mailing date is provided on each absentee ballot collected at any overseas location or vessel at sea whenever the Department of Defense is responsible for collecting mail for return shipment to the United States. The Secretary shall ensure that the measures implemented under the preceding sentence do not result in the delivery of absentee ballots to the final destination of such ballots after the date on which the election for Federal office is held. Not later than the date that is 6 months after the date of the enactment of the Help America Vote Act of 2002, the Secretary shall submit to Congress a report describing themeasures to be implemented to ensure the timely transmittal and postmarking of voting materials and identifying the persons responsible for implementing such measures."
 
 Subsec. (h). Pub. L. 107–252, §701(c), added subsec. (h).
 

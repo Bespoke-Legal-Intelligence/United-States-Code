@@ -22,7 +22,7 @@ Distribution of Remainder; Distribution in Absence of Designated Recipient.—If
 
 (c)
 
-Treatment of Parents.—For purposes of subsection (b)(3), parents include fathers and mothers through adoption. However, only one father and one mother may be recognized in any case, and preference shall be given to those whoexercised a parental relationship on the date, or most nearly before the date, on which the decedent entered a status described in section 1475 or 1476 of this title.
+Treatment of Parents.—For purposes of subsection (b)(3), parents include fathers and mothers through adoption. However, only one father and one mother may be recognized in any case, and preference shall be given to those who exercised a parental relationship on the date, or most nearly before the date, on which the decedent entered a status described in section 1475 or 1476 of this title.
 
 (d)
 
@@ -138,5 +138,5 @@ Elements.—The regulations required by paragraph (1) shall include forms for th
 
 #### Existing Designation Authority
 
-Pub. L. 110–181, div. A, title VI, §645(c), Jan. 28, 2008, 122 Stat. 159, provided that: "The authority provided bysubsection (d) of section 1477 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act \[Jan. 28, 2008\], shall remain available to persons covered by section 1475 or 1476 of such title until July 1, 2008, or such earlier date as the Secretary of Defense may prescribe, and any designation under such subsection made before July 1, 2008, or the earlier date prescribed by the Secretary, shall continue in effect until such time as the person who made the designation makes a new designation under such section 1477, as amended by subsection (a) of this section."
+Pub. L. 110–181, div. A, title VI, §645(c), Jan. 28, 2008, 122 Stat. 159, provided that: "The authority provided by subsection (d) of section 1477 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act \[Jan. 28, 2008\], shall remain available to persons covered by section 1475 or 1476 of such title until July 1, 2008, or such earlier date as the Secretary of Defense may prescribe, and any designation under such subsection made before July 1, 2008, or the earlier date prescribed by the Secretary, shall continue in effect until such time as the person who made the designation makes a new designation under such section 1477, as amended by subsection (a) of this section."
 

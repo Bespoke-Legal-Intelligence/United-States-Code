@@ -66,15 +66,15 @@ The Secretary shall take such action as may be necessary to secure at reasonable
 
 &emsp;&emsp;The advisory panel shall transmit to the Secretary, the Director, the relevant committees of Congress, and the Library of Congress an independent analysis of the findings and recommendations resulting from the evaluation described in paragraph (2).
 
-#### (D) FACA
+#### (D) Chapter 10 of title 5
 
-&emsp;&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the panel established under this paragraph.
+&emsp;&emsp;Chapter 10 of title 5 shall not apply to the panel established under this paragraph.
 
 #### (2) Evaluation
 
 #### (A) In general
 
-&emsp;&emsp;From amounts made available under subsection (f), the Secretary, acting through the Director, shall provide for the conduct of a series of research and evaluation initiatives for each year for which funds are appropriated to carry out this chapter, which are aligned with the plan in subsection (c)(2), of career and technical education programs under this chapter, including the implementation of the Strengthening Career and Technical Education for the 21st Century Act, to the extent practicable, through studies and analyses conducted independently through grants, contracts, and cooperative agreements that are awarded on a competitive basis. Whenever possible, data used for the evaluation for a fiscal year shall be data from the most recent fiscal year for which such data are available, and from the 5-year period preceding that fiscal year.
+&emsp;&emsp;From amounts made available under subsection (f), the Secretary, acting throughthe Director, shall provide for the conduct of a series of research and evaluation initiatives for each year for which funds are appropriated to carry out this chapter, which are aligned with the plan in subsection (c)(2), of career and technical education programs under this chapter, including the implementation of the Strengthening Career and Technical Education for the 21st Century Act, to the extent practicable, through studies and analyses conducted independently through grants, contracts, and cooperative agreements that are awarded on a competitive basis. Whenever possible, data used for the evaluation for a fiscal year shall be data from the most recent fiscal year for which such data are available, and from the 5-year period preceding that fiscal year.
 
 #### (B) Contents
 
@@ -322,7 +322,7 @@ The Secretary shall take such action as may be necessary to secure at reasonable
 
 &emsp;&emsp;(I) Supporting the use of career and technical education programs and programs of study in a coordinated strategy to address identified employer needs and workforce shortages, such as shortages in the early childhood, elementary school, and secondary school education workforce.
 
-&emsp;&emsp;(J) Providing integrated student support that addresses the comprehensive needs of students, such as incorporating accelerated and differentiated learning opportunities supported by evidence-based strategies for special populations.
+&emsp;&emsp;(J) Providing integrated student support that addresses the comprehensive needs ofstudents, such as incorporating accelerated and differentiated learning opportunities supported by evidence-based strategies for special populations.
 
 &emsp;&emsp;(K) Establishing an online portal for career and technical education students, including special populations, preparing for postsecondary career and technical education, which may include opportunities for mentoring, gaining financial literacy skills, and identifying career opportunities and interests, and a platform to establish online savings accounts to be used exclusively for postsecondary career and technical education programs and programs of study.
 
@@ -360,13 +360,11 @@ There are authorized to be appropriated to carry out this section—
 
 &emsp;(6) $8,201,832 for fiscal year 2024.
 
-(Pub. L. 88–210, title I, §114, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 702; amended Pub. L. 113–76, div. H, title III, §307(d), Jan. 17, 2014, 128 Stat. 399; Pub. L. 114–95, title IX, §9215(n)(4), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, §113, July 31, 2018, 132 Stat. 1588.)
+(Pub. L. 88–210, title I, §114, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 702; amended Pub. L. 113–76, div. H, title III, §307(d), Jan. 17, 2014, 128 Stat. 399; Pub. L. 114–95, title IX, §9215(n)(4), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, §113, July 31, 2018, 132 Stat. 1588; Pub. L. 117–286, §4(a)(149), Dec. 27, 2022, 136 Stat. 4322.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (d)(1)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Strengthening Career and Technical Education for the 21st Century Act, referred to in subsec. (d)(2)(A), (B)(viii), (4)(B)(ii), is Pub. L. 115–224, July 31, 2018, 132 Stat. 1563. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 2301 of this title and Tables.
 
@@ -383,6 +381,8 @@ A prior section 2324, Pub. L. 88–210, title I, §114, as added Pub. L. 105–3
 Another prior section 2324, Pub. L. 88–210, title I, §114, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, §114, Sept. 25, 1990, 104 Stat. 769, related to development and approval of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(1)(D). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–224, §113(1), substituted "The Secretary shall, in consultation with the Director, collect" for "The Secretary shall collect" and inserted "from eligible agencies under section 2323(b)(3)(C) of this title" after "pursuant to this subchapter".
 

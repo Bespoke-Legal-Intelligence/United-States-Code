@@ -18,7 +18,7 @@ Tonnage.—The tonnage referred to in paragraph (1) is—
 
 &emsp;&emsp;(A) 500 gross tons as measured under section 14502 of this title; or
 
-&emsp;&emsp;(B) an alternate tonnage as measured under section 14302 of this title as prescribedby the Secretary under section 14104 of this title.
+&emsp;&emsp;(B) an alternate tonnage as measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title.
 
 &emsp;(3)
 

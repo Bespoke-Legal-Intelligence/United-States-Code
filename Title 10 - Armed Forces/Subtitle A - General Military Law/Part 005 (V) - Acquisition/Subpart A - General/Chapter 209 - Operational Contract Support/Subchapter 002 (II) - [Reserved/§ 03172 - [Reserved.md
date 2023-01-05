@@ -1,6 +1,6 @@
 ### §3172. \[Reserved\]
 
-(Added Pub. L. 116–283, div. A, title XVIII, §1810(d), Jan. 1, 2021, 134 Stat. 4164; amended Pub. L. 117–81, div. A, title XVII, §1701(i)(2)(B), Dec. 27, 2021, 135 Stat. 2141.)
+(Added Pub. L. 116–283, div. A, title XVIII, §1810(d), Jan. 1, 2021, 134 Stat. 4164; amendedPub. L. 117–81, div. A, title XVII, §1701(i)(2)(B), Dec. 27, 2021, 135 Stat. 2141.)
 
 #### <b>Editorial Notes</b>
 

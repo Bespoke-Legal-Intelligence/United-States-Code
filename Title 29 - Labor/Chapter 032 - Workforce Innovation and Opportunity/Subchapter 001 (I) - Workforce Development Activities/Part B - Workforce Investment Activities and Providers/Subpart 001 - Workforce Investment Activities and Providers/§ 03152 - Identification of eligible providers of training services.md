@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(E) The requirements for State licensing of providers of training services, and the licensing status of providers of training services if applicable.
 
-&emsp;&emsp;(F) Ways in which the criteria can encourage, to the extent practicable, the providersto use industry-recognized certificates or certifications.
+&emsp;&emsp;(F) Ways in which the criteria can encourage, to the extent practicable, the providers to use industry-recognized certificates or certifications.
 
 &emsp;&emsp;(G) The ability of the providers to offer programs that lead to recognized postsecondary credentials.
 
@@ -60,7 +60,7 @@
 
 #### (2) State information requirements
 
-&emsp;The information requirements established by the Governor shall require that a provider of training services submit appropriate, accurate, and timely information to the State, to enable the State to carry out subsection (d), with respect to participants receiving training services under this part in the applicable program, including—
+&emsp;The information requirements established by the Governor shall require that a providerof training services submit appropriate, accurate, and timely information to the State, to enable the State to carry out subsection (d), with respect to participants receiving training services under this part in the applicable program, including—
 
 &emsp;&emsp;(A) information on the performance of the provider with respect to the performance accountability measures described in section 3141 of this title for such participants (taking into consideration the characteristics of the population served and relevant economic conditions), and information specifying the percentage of such participants who entered unsubsidized employment in an occupation related to the program, to the extent practicable;
 
@@ -124,7 +124,7 @@
 
 #### (1) In general
 
-&emsp;In order to facilitate and assist participants in choosing employment and training activities and in choosing providers of training services, the Governor shall ensure that an appropriate list of providers determined to be eligible under this section to offer a program in the State (and, as appropriate, in a local area), accompanied by information identifying the recognized postsecondary credential offered by the provider and other appropriate information, is prepared. The list shall be provided to the local boards in the State, and made available to such participants and to members of the public through the one-stop delivery system in the State.
+&emsp;In order to facilitate and assist participants in choosing employment and training activities and in choosing providers of training services, the Governor shall ensure that an appropriate list of providers determined to be eligible under this section to offer a program in the State (and, as appropriate, in a local area), accompanied by information identifying therecognized postsecondary credential offered by the provider and other appropriate information, is prepared. The list shall be provided to the local boards in the State, and made available to such participants and to members of the public through the one-stop delivery system in the State.
 
 #### (2) Accompanying information
 
@@ -186,7 +186,7 @@ States may enter into agreements, on a reciprocal basis, to permit eligible prov
 
 #### (i) Transition period for implementation
 
-The Governor and local boards shall implement the requirements of this section not later than 12 months after July 22, 2014. In order to facilitate early implementation of this section, the Governor may establish transition procedures under which providers eligible to provide training services under chapter 5 of subtitle B of title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2861 et seq.\], as such chapter was in effect on the day before July 22, 2014, may continue to be eligible to provide such services until December 31, 2015, or until such earlier date as the Governor determines to be appropriate.
+The Governor and local boards shall implement the requirements of this section not later than 12 months after July 22, 2014. In order to facilitate early implementation of this section, the Governor may establish transition procedures under which providers eligible to provide training services under chapter 5 of subtitle B of title I of the Workforce Investment Act of 1998\[29 U.S.C. 2861 et seq.\], as such chapter was in effect on the day before July 22, 2014, may continue to be eligible to provide such services until December 31, 2015, or until such earlier date as the Governor determines to be appropriate.
 
 (Pub. L. 113–128, title I, §122, July 22, 2014, 128 Stat. 1492.)
 

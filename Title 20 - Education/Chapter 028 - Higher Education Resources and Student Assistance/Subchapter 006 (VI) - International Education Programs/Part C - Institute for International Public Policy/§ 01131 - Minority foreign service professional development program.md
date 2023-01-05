@@ -52,7 +52,7 @@ Another prior section 1131, Pub. L. 89–329, title VI, §621, Nov. 8, 1965, 79 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §612(1), substituted "The Institute shall conduct a program to enhance the international competitiveness of the United States by increasing the participation of underrepresented populations in the international service, including private international voluntary organizations and the foreignservice of the United States." for "The Institute shall conduct a program to significantly increase the numbers of African Americans and other underrepresented minorities in the international service, including private international voluntary organizations and the foreign service of the United States."
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §612(1), substituted "The Institute shall conduct a program to enhance theinternational competitiveness of the United States by increasing the participation of underrepresented populations in the international service, including private international voluntary organizations and the foreign service of the United States." for "The Institute shall conduct a program to significantly increase the numbers of African Americans and other underrepresented minorities in the international service, including private international voluntary organizations and the foreign service of the United States."
 
 Subsec. (b)(1)(B) to (D). Pub. L. 110–315, §612(2), added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: "An institution of higher education which serves substantial numbers of African American or other underrepresented minority students."
 

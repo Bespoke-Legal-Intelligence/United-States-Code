@@ -66,7 +66,7 @@ In General.—Except as otherwise provided in this section, this Act \[enacting 
 
 "(b)
 
-Authorization of Appropriations.—Section 3520 \[now 3521\] of title 44, United States Code, as amended by this Act, shall take effect on the date of enactment of this Act \[May 22, 1995\].
+Authorization of Appropriations.—Section 3520 \[now 3521\] of title 44, United States Code, as amendedby this Act, shall take effect on the date of enactment of this Act \[May 22, 1995\].
 
 "(c)
 
@@ -128,7 +128,7 @@ Requirements for New Websites and Digital Services.—Not later than 180 days af
 
 "(b)
 
-Requirements for Existing Executive Agency Websites and Digital Services.—Not later than 1 yearafter the date of enactment of this Act, the head of each executive agency that maintains a website or digital service that is made available to the public shall—
+Requirements for Existing Executive Agency Websites and Digital Services.—Not later than 1 year after the date of enactment of this Act, the head of each executive agency that maintains a website or digital service that is made available to the public shall—
 
 &emsp;"(1) review each website or digital service; and
 
@@ -288,7 +288,7 @@ Avoiding Diminished Access.—When promulgating policies and implementing progra
 
 "(d)
 
-Accessibility to People With Disabilities.—All actions taken by Federal departments and agencies under this Act \[see Tables for classification\] shall be in compliance with section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d).
+Accessibility to People With Disabilities.—All actions taken by Federal departments and agenciesunder this Act \[see Tables for classification\] shall be in compliance with section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d).
 
 "(e)
 
@@ -358,7 +358,7 @@ Authority for Electronic Signatures.—The Administrator of General Services sha
 
 "(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the General Services Administration, to ensure the development and operation of a Federal bridge certification authority for digital signature compatibility, and for other activitiesconsistent with this section, $8,000,000 or such sums as are necessary in fiscal year 2003, and such sums as are necessary for each fiscal year thereafter.
+Authorization of Appropriations.—There are authorized to be appropriated to the General Services Administration, to ensure the development and operation of a Federal bridge certification authority for digital signature compatibility, and for other activities consistent with this section, $8,000,000 or such sums as are necessary in fiscal year 2003, and such sums as are necessary for each fiscal year thereafter.
 
 #### "SEC. 204. FEDERAL INTERNET PORTAL.
 
@@ -424,7 +424,7 @@ Electronic Filings.—
 
 &emsp;"(1)
 
-In general.—Except as provided under paragraph (2) or in the rules prescribed under paragraph (3), each court shall make any document that is filed electronically publicly available online. A court may convert any document that is filed in paper form to electronic form. To the extent such conversions are made, all such electronic versions of the document shall be made available online.
+In general.—Except as provided under paragraph (2) or in the rules prescribed under paragraph\(3), each court shall make any document that is filed electronically publicly available online. A court may convert any document that is filed in paper form to electronic form. To the extent such conversions are made, all such electronic versions of the document shall be made available online.
 
 &emsp;"(2)
 
@@ -972,7 +972,7 @@ In general.—In consultation with the Director of the Office of Management and 
 
 &emsp;"(2)
 
-Information technology training programs.—The head of each Executive agency, after consultation with the Director of the Office of Personnel Management, the Chief Information Officers Council, and the Administrator of General Services, shall establish and operate information technology training programs consistent with the requirements of this subsection. Such programs shall—
+Information technology training programs.—The head of each Executive agency, afterconsultation with the Director of the Office of Personnel Management, the Chief Information Officers Council, and the Administrator of General Services, shall establish and operate information technology training programs consistent with the requirements of this subsection. Such programs shall—
 
 &emsp;&emsp;"(A) have curricula covering a broad range of information technology disciplines corresponding to the specific information technology and information resource management needs of the agency involved;
 
@@ -1238,7 +1238,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—Not later than 3 years after the date of enactment of this Act \[Dec. 17, 2002\], the Director shall oversee a study, in consultation with agencies, the regulated community, public interest organizations, and the public, and submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives on progress toward integrating Federal information systems across agencies.
+In general.—Not later than 3 years after the date of enactment of this Act \[Dec. 17, 2002\], the Director shall oversee a study, in consultation withagencies, the regulated community, public interest organizations, and the public, and submit a report to the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate and the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives on progress toward integrating Federal information systems across agencies.
 
 &emsp;"(2)
 
@@ -1656,7 +1656,7 @@ Accordingly, we must make it easier for businesses to access the full range of G
 
 Businesses looking for assistance from the Federal Government should feel like they are interacting with one entity, rather than a number of separate, albeit linked, components. This means adopting a "No Wrong Door" policy that uses technology to quickly connect businesses to the services and information relevant to them, regardless of which agency's website, call center, or office they go to for help.
 
-In addition, a business's interactions with the Federal Government should be individualized and efficient. If the private sector can allow consumers to customize interactions so that they receive only the information they want, in the form they want it, so can the Federal Government.
+In addition, a business's interactions with the Federal Government should be individualized and efficient.If the private sector can allow consumers to customize interactions so that they receive only the information they want, in the form they want it, so can the Federal Government.
 
 Today, I am directing a first wave of changes focused on both small businesses and businesses of all sizes that want to begin or increase exporting (exporters), because those businesses help drive economic growth and have the most to gain from Federal assistance. We plan to use the resulting improvements as a model for future reforms so that, in time, all businesses and all citizens receive the highest level of customer service when they interact with the Federal Government.
 
@@ -1670,7 +1670,7 @@ Accordingly, I direct the following:
 
 (4) Agencies shall also work with the Steering Committee to develop new content for BusinessUSA that synthesizes information available across agencies to better serve small businesses and exporters. Among other things, agencies shall work together to aggregate on the BusinessUSA platform statistical, demographic, and other raw Government datasets of particular interest to small businesses and exporters, making Government data more easily accessible and spurring innovative uses of the data through business-oriented web or mobile applications.
 
-(5) Agencies shall integrate BusinessUSA, including ready access to the BusinessUSA website, into their current websites, call centers, and field offices to ensure that small businesses and exporters have access to the wide range of Government programs and services at each entry point into the Federal Government. During the year following the date of this memorandum, agencies shall work with GSA and the Office of Management and Budget to enhance the centralized call center forresponding to public questions about Federal programs and services (1–800–FED–INFO) to add expertise with Government programs and services for small businesses and exporters.
+(5) Agencies shall integrate BusinessUSA, including ready access to the BusinessUSA website, into their current websites, call centers, and field offices to ensure that small businesses and exporters have access to the wide range of Government programs and services at each entry point into the Federal Government. During the year following the date of this memorandum, agencies shall work with GSA and the Office of Management and Budget to enhance the centralized call center for responding to public questions about Federal programs and services (1–800–FED–INFO) to add expertise with Government programs and services for small businesses and exporters.
 
 (6) (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
 

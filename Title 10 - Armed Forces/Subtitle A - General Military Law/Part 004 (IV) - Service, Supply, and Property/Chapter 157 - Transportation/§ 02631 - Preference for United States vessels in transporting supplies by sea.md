@@ -82,7 +82,7 @@ Historical and Revision Notes
 
 Apr. 28, 1904, ch. 1766, 33 Stat. 518.
 
-The word "supplies" is substituted for the words "coal, provisions, fodder, or supplies of any description", in 10:1365 and 34:528. The words "pursuant to law" and "the use of", in 10:1365 and 34:528, are omitted as surplusage. The words "as otherwise provided by law", in 10:1365 and 34:528, are used rather than the words "under the law as it now exists", in section 1 of the Act of April 28, 1904, ch. 1766, 33 Stat. 518. The word "may" is substituted for the word "shall". The words "However, if" are substituted for the words "unless \* \* \* in which case". The words "private persons" are substituted for the words "private parties or companies", in 10:1365 and 34:528. The last sentence is substituted for the proviso of 10:1365 and 34:528.
+The word "supplies" is substituted for the words "coal, provisions, fodder, or supplies of any description", in 10:1365 and 34:528. The words "pursuant to law" and "the use of", in 10:1365 and 34:528, are omittedas surplusage. The words "as otherwise provided by law", in 10:1365 and 34:528, are used rather than the words "under the law as it now exists", in section 1 of the Act of April 28, 1904, ch. 1766, 33 Stat. 518. The word "may" is substituted for the word "shall". The words "However, if" are substituted for the words "unless \* \* \* in which case". The words "private persons" are substituted for the words "private parties or companies", in 10:1365 and 34:528. The last sentence is substituted for the proviso of 10:1365 and 34:528.
 
 #### <b>Editorial Notes</b>
 
@@ -169,8 +169,6 @@ United states.—The term 'United States' means—
 &emsp;&emsp;"(B) Guam."
 
 \[Pub. L. 110–181, div. C, title XXXV, §3526(a), Jan. 28, 2008, 122 Stat. 601, which directed amendment of section 1017(b)(2) of Pub. L. 109–364, set out above, by substituting "sections 12112, 50501, and 55102 of title 46, United States Code" for "section 27 of the Merchant Marine Act, 1920 (46 U.S.C. 883), section 12106 of title 46, United States Code, and section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)", could not be executed because those words did not appear subsequent to amendment by section 1063(c)(9) of Pub. L. 110–181, which was effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted. See Effective Date of 2008 Amendment note under section 624 of this title.\]
-
-\[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1017(e) of Pub. L. 109–364, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.\]
 
 #### <b>Executive Documents</b>
 

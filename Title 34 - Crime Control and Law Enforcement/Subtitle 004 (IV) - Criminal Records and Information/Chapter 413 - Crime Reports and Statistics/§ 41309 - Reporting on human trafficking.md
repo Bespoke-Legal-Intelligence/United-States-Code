@@ -48,5 +48,23 @@ Section is comprised of subsecs. (a) and (b) of section 237 of Pub. L. 110–457
 
 <b>2018</b>—Subsec. (b)(4), (5). Pub. L. 115–392 added pars. (4) and (5).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Cumulative Biennial Report on Data Collection and Statistics
+
+Pub. L. 117–347, title IV, §405, Jan. 5, 2023, 136 Stat. 6209, provided that: "Not later than 280 days after the date of enactment of this Act \[Jan. 5, 2023\], and every 2 years thereafter, the Attorney General and the Secretary of Health and Human Services shall each submit to the Committee on the Judiciary and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on the Judiciary and the Committee on Energy and Commerce of the House of Representatives the status of the required data collection and reporting requirements of the Attorney General and the Secretary, respectively, related to trafficking, which shall include the status of—
+
+&emsp;"(1) the study required under section 201(a)(1)(B)(ii) of the Trafficking Victims Protection Reauthorization Act of 2005 (34 U.S.C. 20701(a)(1)(B)(ii));
+
+&emsp;"(2) the State reports required under section 237(b) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (34 U.S.C. 41309(b)) to be included in the Uniform Crime Reporting Program and the National Incident-Based Reporting System;
+
+&emsp;"(3) the report required under section 237(c)(1)(A) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (Public Law 110–457; 122 Stat. 5084 \[5083\]);
+
+&emsp;"(4) the report required under section 237(c)(1)(B) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (Public Law 110–457; 122 Stat. 5084 \[5083\]);
+
+&emsp;"(5) the report required under section 237(c)(1)(C) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (Public Law 110–457; 122 Stat. 5084 \[5083\]); and
+
+&emsp;"(6) the comprehensive study required under section 237(c)(2) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (Public Law 110–457; 122 Stat. 5085 \[5084\])."
+
 <i><sup>1</sup></i><i> So in original. Probably should be "Program".</i>
 

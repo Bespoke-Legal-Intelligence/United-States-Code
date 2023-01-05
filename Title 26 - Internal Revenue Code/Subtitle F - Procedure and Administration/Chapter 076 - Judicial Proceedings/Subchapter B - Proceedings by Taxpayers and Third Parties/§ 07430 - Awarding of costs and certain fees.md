@@ -12,7 +12,7 @@ In any administrative or court proceeding which is brought by or against the Uni
 
 #### (1) Requirement that administrative remedies be exhausted
 
-&emsp;A judgment for reasonable litigation costs shall not be awarded under subsection (a) in any court proceeding unless the court determines that the prevailing party has exhausted the administrative remedies available to such party within the Internal Revenue Service. Any failure to agree to an extension of the time for the assessment of any tax shall not be taken into account for purposes of determining whether the prevailing party meets the requirements of the preceding sentence.
+&emsp;A judgment for reasonable litigation costs shall not be awarded under subsection (a) in any court proceeding unless the court determines that the prevailing party has exhausted the administrative remedies available to such party within the Internal Revenue Service.Any failure to agree to an extension of the time for the assessment of any tax shall not be taken into account for purposes of determining whether the prevailing party meets the requirements of the preceding sentence.
 
 #### (2) Only costs allocable to the United States
 
@@ -196,7 +196,7 @@ For purposes of this section, in the case of—
 
 #### (2) Administrative proceedings
 
-&emsp;A decision granting or denying (in whole or in part) an award for reasonable administrative costs under subsection (a) by the Internal Revenue Service shall be subject to the filing of a petition for review with the Tax Courtunder rules similar to the rules under section 7463 (without regard to the amount in dispute). If the Secretary sends by certified or registered mail a notice of such decision to the petitioner, no proceeding in the Tax Court may be initiated under this paragraph unless such petition is filed before the 91st day after the date of such mailing.
+&emsp;A decision granting or denying (in whole or in part) an award for reasonable administrative costs under subsection (a) by the Internal Revenue Service shall be subject to the filing of a petition for review with the Tax Court under rules similar to the rules under section 7463 (without regard to the amount in dispute). If the Secretary sends by certified or registered mail a notice of such decision to the petitioner, no proceeding in the Tax Court may be initiated under this paragraph unless such petition is filed before the 91st day after the date of such mailing.
 
 #### (3) Appeal of Tax Court decision
 
@@ -254,7 +254,7 @@ Subsec. (c)(3)(B). Pub. L. 106–554, §1(a)(7) \[title III, §319(25)(B)\], sub
 
 Subsec. (c)(1)(B)(iii). Pub. L. 105–206, §3101(a), substituted "$125" for "$110" and inserted "the difficulty of the issues presented in the case, or the local availability of tax expertise," before "justifies a higher rate".
 
-Subsec. (c)(2). Pub. L. 105–206, §3101(b), added concluding provisions and struck out former concluding provisions which read as follows: "Such term shall only include costs incurred on or after the earlier of (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals, or (ii) the date of the notice of deficiency."
+Subsec. (c)(2). Pub. L. 105–206, §3101(b), added concluding provisions and struck out former concluding provisions which read as follows: "Such term shall onlyinclude costs incurred on or after the earlier of (i) the date of the receipt by the taxpayer of the notice of the decision of the Internal Revenue Service Office of Appeals, or (ii) the date of the notice of deficiency."
 
 Subsec. (c)(3). Pub. L. 105–206, §3101(c), substituted "attorneys" for "attorney's" in heading and amended text of par. (3) generally. Prior to amendment, text read as follows: "For purposes of paragraphs (1) and (2), fees for the services of an individual (whether or not an attorney) who is authorized to practice before the Tax Court or before the Internal Revenue Service shall be treated as fees for the services of an attorney."
 
@@ -372,7 +372,7 @@ Pub. L. 99–514, title XV, §1551(h), Oct. 22, 1986, 100 Stat. 2753, provided t
 
 "(1)
 
-General rule.—Except as provided in paragraph (2), the amendments made by this section \[amendingthis section\] shall apply to amounts paid after September 30, 1986, in civil actions or proceedings, commenced after December 31, 1985.
+General rule.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to amounts paid after September 30, 1986, in civil actions or proceedings, commenced after December 31, 1985.
 
 "(2)
 

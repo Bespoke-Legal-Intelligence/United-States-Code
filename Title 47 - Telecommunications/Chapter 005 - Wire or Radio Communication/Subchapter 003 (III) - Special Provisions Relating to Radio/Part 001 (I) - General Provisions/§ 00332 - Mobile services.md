@@ -20,7 +20,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 (3) Any person who provides assistance to the Commission under this subsection shall not be considered, by reason of having provided such assistance, a Federal employee.
 
-(4) Any advisory coordinating committee which furnishes assistance to the Commission under this subsection shall not be subject to the provisions of the Federal Advisory Committee Act.
+(4) Any advisory coordinating committee which furnishes assistance to the Commission under this subsection shall not be subject to the provisions of chapter 10 of title 5.
 
 #### (c) Regulatory treatment of mobile services
 
@@ -54,7 +54,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 > &emsp;The Commission shall provide reasonable opportunity for public comment in response to such petition, and shall, within 9 months after the date of its submission, grant or deny such petition. If the Commission grants such petition, the Commission shall authorize the State to exercise under State law such authority over rates, for such periods of time, as the Commission deems necessary to ensure that such rates are just and reasonable and not unjustly or unreasonably discriminatory.
 
-&emsp;(B) If a State has in effect on June 1, 1993, any regulation concerning the rates for any commercial mobile service offered in such State on such date, such State may, no later than 1 year after August 10, 1993, petition the Commission requesting that the State be authorized to continue exercising authority over such rates. If a State files such a petition, the State's existing regulation shall, notwithstanding subparagraph (A), remain in effect until the Commission completes all action (including any reconsideration) on such petition. The Commission shall review such petition in accordance with the procedures established in such subparagraph, shall complete all action (including any reconsideration) within 12 months after such petition is filed, and shall grant such petition if the State satisfies the showing required under subparagraph (A)(i) or (A)(ii). If the Commission grants such petition, the Commission shall authorize the State to exercise under State law such authority over rates, for such period of time, as the Commission deems necessary to ensure that such rates are just and reasonable and not unjustly or unreasonably discriminatory. After a reasonable period of time, as determined by the Commission, has elapsed from the issuance of an order under subparagraph (A) or this subparagraph, any interested party may petition the Commission for an order that the exercise of authority by a State pursuant to such subparagraph is no longer necessary to ensure that the rates for commercial mobile services are just and reasonable and not unjustly or unreasonably discriminatory. The Commission shall provide reasonable opportunity for public comment in response to such petition, and shall, within 9 months after the date of its submission, grant or deny such petition in whole or in part.
+&emsp;(B) If a State has in effect on June 1, 1993, any regulation concerning the rates for any commercial mobile service offered in such State on such date, such State may, no later than 1 year after August 10, 1993, petition the Commission requesting that the State be authorized to continue exercising authority over such rates. If a State files such a petition, the State's existing regulation shall, notwithstanding subparagraph (A), remain in effect until the Commission completes all action (including any reconsideration) on such petition. The Commission shall review such petition in accordance with the procedures established in such subparagraph, shall complete all action (including any reconsideration) within 12 months after such petition is filed, and shall grant such petition if the State satisfies the showing required under subparagraph (A)(i) or (A)(ii). If the Commission grants such petition, the Commission shall authorize the State to exercise under State law such authority over rates, for such period of time, as the Commission deems necessary to ensure that such rates are just and reasonable and not unjustly or unreasonably discriminatory. After a reasonable period of time, as determined by the Commission, has elapsed from the issuance of an order under subparagraph (A) or this subparagraph, any interested party may petition the Commission for an order that the exercise of authority by a State pursuant to such subparagraph is no longer necessary to ensure that the rates for commercial mobile services are just and reasonable and not unjustly orunreasonably discriminatory. The Commission shall provide reasonable opportunity for public comment in response to such petition, and shall, within 9 months after the date of its submission, grant or deny such petition in whole or in part.
 
 #### (4) Regulatory treatment of communications satellite corporation
 
@@ -86,7 +86,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 &emsp;&emsp;&emsp;(II) shall not prohibit or have the effect of prohibiting the provision of personal wireless services.
 
-&emsp;&emsp;(ii) A State or local government or instrumentality thereof shall act on any requestfor authorization to place, construct, or modify personal wireless service facilities within a reasonable period of time after the request is duly filed with such government or instrumentality, taking into account the nature and scope of such request.
+&emsp;&emsp;(ii) A State or local government or instrumentality thereof shall act on any request for authorization to place, construct, or modify personal wireless service facilities within a reasonable period of time after the request is duly filed with such government or instrumentality, taking into account the nature and scope of such request.
 
 &emsp;&emsp;(iii) Any decision by a State or local government or instrumentality thereof to deny a request to place, construct, or modify personal wireless service facilities shall be in writing and supported by substantial evidence contained in a written record.
 
@@ -112,13 +112,13 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 For purposes of this section—
 
-&emsp;(1) the term "commercial mobile service" means any mobile service (as defined in section 153 of this title) that is provided for profit and makes interconnected service available (A) to the public or (B) to such classes of eligible users as to be effectively available to a substantial portion of the public, as specified by regulation by the Commission;
+&emsp;(1) the term "commercial mobile service" means any mobile service (as defined in section 153 of this title) that is provided for profitand makes interconnected service available (A) to the public or (B) to such classes of eligible users as to be effectively available to a substantial portion of the public, as specified by regulation by the Commission;
 
 &emsp;(2) the term "interconnected service" means service that is interconnected with the public switched network (as such terms are defined by regulation by the Commission) or service for which a request for interconnection is pending pursuant to subsection (c)(1)(B); and
 
 &emsp;(3) the term "private mobile service" means any mobile service (as defined in section 153 of this title) that is not a commercial mobile service or the functional equivalent of a commercial mobile service, as specified by regulation by the Commission.
 
-(June 19, 1934, ch. 652, title III, §332, formerly §331, as added Pub. L. 97–259, title I, §120(a), Sept. 13, 1982, 96 Stat. 1096; renumbered §332, Pub. L. 102–385, §25(b), Oct. 5, 1992, 106 Stat. 1502; amended Pub. L. 103–66, title VI, §6002(b)(2)(A), Aug. 10, 1993, 107 Stat. 392; Pub. L. 104–104, §3(d)(2), title VII, §§704(a), 705, Feb. 8, 1996, 110 Stat. 61, 151, 153; Pub. L. 115–141, div. P, title IV, §402(g), Mar. 23, 2018, 132 Stat. 1089.)
+(June 19, 1934, ch. 652, title III, §332, formerly §331, as added Pub. L. 97–259, title I, §120(a), Sept. 13, 1982, 96 Stat. 1096; renumbered §332, Pub. L. 102–385, §25(b), Oct. 5, 1992, 106 Stat. 1502; amended Pub. L. 103–66, title VI, §6002(b)(2)(A), Aug. 10, 1993, 107 Stat. 392; Pub. L. 104–104, §3(d)(2), title VII, §§704(a), 705, Feb. 8, 1996, 110 Stat. 61, 151, 153; Pub. L. 115–141, div. P, title IV, §402(g), Mar. 23, 2018, 132 Stat. 1089; Pub. L. 117–286, §4(a)(296), Dec. 27, 2022, 136 Stat. 4338.)
 
 #### <b>Editorial Notes</b>
 
@@ -126,19 +126,19 @@ For purposes of this section—
 
 Provisions of part III of title 5, referred to in subsec. (b)(2), are classified to section 2101 et seq. of Title 5, Government Organization and Employees.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
-
 This chapter, referred to in subsec. (c), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
-The Communications Satellite Act of 1962, referred to in subsec. (c)(4), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Titles III and IV of the Act are classified generally to subchapters III (§731 et seq.) and IV (§741 et seq.), respectively, of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Communications Satellite Act of 1962, referred to in subsec. (c)(4), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419. Titles III and IV of the Act are classified generally to subchapters III (§731 et seq.) and IV (§741 et seq.), respectively, of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
-The Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (c)(6), is Pub. L. 103–66, Aug. 10, 1993, 107 Stat. 312, as amended. For complete classification of this Act to the Code, see Tables.
+The Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (c)(6), is Pub. L. 103–66, Aug. 10, 1993, 107 Stat. 312. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 In subsec. (b)(2), "section 1342 of title 31" substituted for "section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(4). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act."
 
 <b>2018</b>—Subsec. (c)(1)(C). Pub. L. 115–141 struck out first and second sentences which read as follows: "The Commission shall review competitive market conditions with respect to commercial mobile services and shall include in its annual report an analysis of those conditions. Such analysis shall include an identification of the number of competitors in various commercial mobile services, an analysis of whether or not there is effective competition, an analysis of whether any of such competitors have a dominant share of the market for such services, and a statement of whether additional providers or classes of providers in those services would be likely to enhance competition."
 

@@ -47,7 +47,13 @@
 | [143\.](%C2%A7%2000143%20-%20Wright%20Brothers%20Day.md) | Wright Brothers Day. |
 | [144\.](%C2%A7%2000144%20-%20Patriot%20Day.md) | Patriot Day. |
 | [145\.](%C2%A7%2000145%20-%20Veterans%20Day.md) | Veterans Day. |
-| [146\.](%C2%A7%2000146%20-%20National%20Atomic%20Veterans%20Day.md) | National Atomic Veterans Day. |
+| 146\. | National Atomic Veterans Day.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 146\.<sup>1</sup> | Choose Respect Day. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -55,7 +61,9 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–81, div. A, title X, §1084(b), Dec. 27, 2021, 135 Stat. 1924, added item 146.
+<b>2022</b>—Pub. L. 117–103, div. W, title XIII, §1310(b)(2), Mar. 15, 2022, 136 Stat. 931, added item 146 relating to Choose Respect Day.
+
+<b>2021</b>—Pub. L. 117–81, div. A, title X, §1084(b), Dec. 27, 2021, 135 Stat. 1924, added item 146 relating to National Atomic Veterans Day.
 
 <b>2016</b>—Pub. L. 114–240, §2(b), Oct. 7, 2016, 130 Stat. 975, added item 145.
 
@@ -193,7 +201,7 @@ Director.—The Director of the Commission shall—
 
 &emsp;&emsp;"(A) be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service; and
 
-&emsp;&emsp;"(B) be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title5, United States Code, relating to classification and General Schedule pay rates, except that the rate of pay for the Director may not exceed the rate payable for level IV of the Executive Schedule under section 5315 of that title.
+&emsp;&emsp;"(B) be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification and General Schedule pay rates, except that the rate of pay for the Director may not exceed the rate payable for level IV of the Executive Schedule under section 5315 of that title.
 
 &emsp;"(2)
 
@@ -467,7 +475,7 @@ Treatment of unobligated funds.—Unobligated amounts remaining in the Fund as o
 
 "(h)
 
-Limitation on Expenditures.—Total expenditures from the Fund, using amounts appropriated to the Department of Defense, may not exceed $5,000,000 for fiscal year 2019 or for any subsequent fiscal year to carry out the commemorative program.
+Limitation on Expenditures.—Total expenditures from the Fund, using amounts appropriated tothe Department of Defense, may not exceed $5,000,000 for fiscal year 2019 or for any subsequent fiscal year to carry out the commemorative program.
 
 "(i)
 
@@ -483,7 +491,7 @@ Fund.—The Fund shall terminate 60 days after the termination of the commemorat
 
 #### 400 Years of African-American History Commission
 
-Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, as amended by Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2692; Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1484, provided that:
+Pub. L. 115–102, Jan. 8, 2018, 131 Stat. 2248, as amended by Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2692; Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1484; Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 353; Pub. L. 117–328, div. G, title I, Dec. 29, 2022, 136 Stat. 4765, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -765,7 +773,7 @@ Strategic Plan.—The Commission shall prepare a strategic plan for the activiti
 
 "(b)
 
-Final Report.—Not later than July 1, 2022, the Commission shall complete and submit to Congress a final report that contains—
+Final Report.—Not later than July 1, 2024, the Commission shall complete and submit to Congress a final report that contains—
 
 &emsp;"(1) a summary of the activities of the Commission;
 
@@ -777,7 +785,7 @@ Final Report.—Not later than July 1, 2022, the Commission shall complete and s
 
 "(a)
 
-Date of Termination.—The Commission shall terminate on July 1, 2022.
+Date of Termination.—The Commission shall terminate on July 1, 2024.
 
 "(b)
 
@@ -917,7 +925,7 @@ Director.—The Director of the Commission may be appointed without regard to th
 
 &emsp;"(2)
 
-Staff.—The staff of the Commission shall be appointed subject to the provisions of title 5, UnitedStates Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
+Staff.—The staff of the Commission shall be appointed subject to the provisions of title 5, United States Code, governing appointments in the competitive service, and shall be paid in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of that title relating to classification and General Schedule pay rates.
 
 #### "SEC. 7. POWERS.
 
@@ -1041,7 +1049,7 @@ Persons eligible.—
 
 &emsp;&emsp;"(A)
 
-In general.—The members of the Commission shall be individuals who have knowledge or expertise, whether by experience or training, in matters to be studied by the Commission. The members may be from the public or private sector, and may include Federal, State, or local employees, former Members of Congress, members of academia, nonprofit organizations, or industry, or other interested individuals.
+In general.—The members of the Commission shall be individuals who have knowledge or expertise, whether by experience or training, in matters to be studied by the Commission. The membersmay be from the public or private sector, and may include Federal, State, or local employees, former Members of Congress, members of academia, nonprofit organizations, or industry, or other interested individuals.
 
 &emsp;&emsp;"(B)
 
@@ -1053,7 +1061,7 @@ Consultation and appointment.—
 
 &emsp;&emsp;"(A)
 
-In general.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall consult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitablerepresentation of various points of view with respect to the matters to be studied by the Commission.
+In general.—The President, Speaker of the House of Representatives, minority leader of the House of Representatives, majority leader of the Senate, and minority leader of the Senate shall consult among themselves before appointing the members of the Commission in order to achieve, to the maximum extent practicable, fair and equitable representation of various points of view with respect to the matters to be studied by the Commission.
 
 &emsp;&emsp;"(B)
 
@@ -1185,7 +1193,7 @@ Staff.—
 
 &emsp;"(1)
 
-In general.—The Chair of the Centennial Commission shall, in consultation with the members of the Centennial Commission, appoint an executive director and such other additional personnel as may be necessary to enable the Centennial Commission to perform its duties.
+In general.—The Chair of the Centennial Commission shall, in consultation with the members ofthe Centennial Commission, appoint an executive director and such other additional personnel as may be necessary to enable the Centennial Commission to perform its duties.
 
 &emsp;"(2)
 
@@ -1201,7 +1209,7 @@ Limitation.—The Chair of the Centennial Commission may not fix the compensatio
 
 "(d)
 
-Detail of Government Employees.—Upon request of the Centennial Commission, the head of anyFederal department or agency may detail, on a reimbursable basis, any employee of that department or agency to the Centennial Commission to assist it in carrying out its duties under this Act.
+Detail of Government Employees.—Upon request of the Centennial Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any employee of that department or agency to the Centennial Commission to assist it in carrying out its duties under this Act.
 
 "(e)
 
@@ -1227,11 +1235,11 @@ Application of Federal Advisory Committee Act.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Centennial Commission under this Act.
+In general.—Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall apply to the activities of the Centennial Commission under this Act.
 
 &emsp;"(2)
 
-Exception.—Section 14(a)(2) of such Act (5 U.S.C. App.) shall not apply to the Centennial Commission.
+Exception.—Section 14(a)(2) of such Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1013(a)\] shall not apply to the Centennial Commission.
 
 #### "SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
 
@@ -1333,7 +1341,7 @@ Reimbursement of incidental expenses.—The Secretary may provide for reimbursem
 
 "(g)
 
-Final Report.—Not later than 60 days after the end of the commemorative program, if established bythe Secretary of Defense under subsection (a), the Secretary shall submit to Congress a report containing an accounting of the following:
+Final Report.—Not later than 60 days after the end of the commemorative program, if established by the Secretary of Defense under subsection (a), the Secretary shall submit to Congress a report containing an accounting of the following:
 
 &emsp;"(1) All of the funds deposited into and expended from the Tomb of the Unknown Soldier Commemoration Fund.
 
@@ -1457,7 +1465,7 @@ Obtaining Official Data.—The Commission may secure directly from any departmen
 
 "(d)
 
-Gifts, Bequests, Devises.—The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of aiding or facilitating its work.
+Gifts, Bequests, Devises.—The Commission may solicit, accept, use, and dispose of gifts, bequests,or devises of money, services, or property, both real and personal, for the purpose of aiding or facilitating its work.
 
 "(e)
 
@@ -1773,7 +1781,7 @@ Arts and humanities.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Chairperson of the National Endowment for the Arts, the Chairperson of the National Endowment for the Humanities, and the Director of the Institute of Museum and Library Services shall cooperate with the Commission, especially in the encouragement and coordination of scholarly works and artistic expressions focusing on the history, culture, and political thought of the period predating the United States Semiquincentennial.
+In general.—The Chairperson of the National Endowment for the Arts, the Chairperson of the National Endowment for the Humanities, andthe Director of the Institute of Museum and Library Services shall cooperate with the Commission, especially in the encouragement and coordination of scholarly works and artistic expressions focusing on the history, culture, and political thought of the period predating the United States Semiquincentennial.
 
 &emsp;&emsp;"(B)
 
@@ -1923,7 +1931,7 @@ Advisory Committees.—The Commission may appoint such advisory committees as th
 
 "(a)
 
-In General.—All expenditures of the Commission shall be made from donations, earned income, and any funds made available to carry out this Act under subsection (f).
+In General.—All expenditures of the Commission shall be made from donations, earned income, andany funds made available to carry out this Act under subsection (f).
 
 "(b)
 
@@ -2057,7 +2065,7 @@ Authorization to complete construction after termination of commission.—\[Amen
 
 Additional Amendments to World War I Centennial Commission Act.—\[Pars. (1) to (3)(B) amended sections 4, 7, and 9 of Pub. L. 112–272, set out below. Par. (3)(C) amended table of contents of Pub. L. 112–272, which was omitted from the Code.\]"
 
-Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–291, div. B, title XXX, §3091(b)(7)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3859, 3860; Pub. L. 114–289, title VI, §601(l), Dec. 16, 2016, 130 Stat. 1492, provided that:
+Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–291, div. B, title XXX, §3091(b)(7)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3859, 3860;Pub. L. 114–289, title VI, §601(l), Dec. 16, 2016, 130 Stat. 1492; Pub. L. 117–286, §4(a)(216), Dec. 27, 2022, 136 Stat. 4329, provided that:
 
 #### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
@@ -2349,19 +2357,23 @@ In General.—Except as provided in subsection (c), the Centennial Commission sh
 
 "(b)
 
-Application of Federal Advisory Committee Act.—
+Application of Chapter 10
+
+of Title 5
+
+, United States Code.—
 
 &emsp;"(1)
 
-In general.—Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Centennial Commission under this Act.
+In general.—Except as provided in paragraph (2), the provisions of chapter 10 of title 5, United States Code, shall apply to the activities of the Centennial Commission under this Act.
 
 &emsp;"(2)
 
-Exception.—Section 14(a)(2) of such Act shall not apply to the Centennial Commission.
+Exception.—Section 1013(a) of title 5, United States Code, shall not apply to the Centennial Commission.
 
 "(c)
 
-Exception for Completion of World War I Memorial.—The Centennial Commission may perform such work as is necessary to complete the rededication of a World War I Memorial and enhancement of the General Pershing Commemorative Work under section 3091(b) of the National Defense Authorization Act for Fiscal Year 2015 \[Pub. L. 113–291, set out above\], subject to section 8903 of title 40, United States Code.
+Exception for Completion of World War I Memorial.—The Centennial Commission may perform such work as is necessary to complete the rededicationof a World War I Memorial and enhancement of the General Pershing Commemorative Work under section 3091(b) of the National Defense Authorization Act for Fiscal Year 2015 \[Pub. L. 113–291, set out above\], subject to section 8903 of title 40, United States Code.
 
 #### "SEC. 9. LIMITATION ON OBLIGATION OF FEDERAL FUNDS.
 
@@ -2497,7 +2509,7 @@ Contract Authority.—The Commission may enter into contracts with and compensat
 
 "(a)
 
-Annual Reports.—The Commission shall submit to the President and the Congress annual reports on the revenue and expenditures of the Commission, including a list of each gift, bequest, or devise to the Commission with a value of more than $250, together with the identity of the donor of each gift, bequest, or devise.
+Annual Reports.—The Commission shall submit to the President and the Congress annual reports onthe revenue and expenditures of the Commission, including a list of each gift, bequest, or devise to the Commission with a value of more than $250, together with the identity of the donor of each gift, bequest, or devise.
 
 "(b)
 
@@ -2519,7 +2531,7 @@ Final Report.—Not later than November 30, 2011, the Commission shall submit a 
 
 #### "SEC. 9. ANNUAL AUDIT.
 
-"The Inspector General of the Department of the Interior may perform an audit of the Commission, shallmake the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+"The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 #### "SEC. 10. PROHIBITION ON OBLIGATION OF FEDERAL FUNDS.
 
@@ -2611,41 +2623,45 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 #### Abraham Lincoln Bicentennial Commission
 
-Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat.185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
+Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
 #### <b>Executive Documents</b>
 
-#### Proc. No. 10210. Armed Forces Day
+#### Proc. No. 10400. Armed Forces Day
 
-Proc. No. 10210, May 14, 2021, 86 F.R. 27017, provided:
+Proc. No. 10400, May 20, 2022, 87 F.R. 31701, provided:
 
-On Armed Forces Day, we honor and offer our profound appreciation and gratitude to the patriots who are serving in our Nation's Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard. Their professionalism and unwavering dedication to supporting and defending our Constitution has been vital in allowing our democracy to flourish, safeguarding peace and growing prosperity for our citizens, and giving hope to oppressed peoples or those facing tyranny abroad. Less than one percent of Americans serve on active duty in the Armed Forces. Those who do volunteer to put their lives on the line to protect our country and democracy wherever they are called to serve. Whether they are Active Duty, National Guard, or in the Reserve, they are true American heroes, and we all owe them.
+On Armed Forces Day, we share our unending appreciation for the proud patriots who answer the call to serve, taking the sacred oath to defend our Constitution. The brave members of our Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, and National Guard and Reserve forces represent the best of our Nation. Today and every day, we honor their immeasurable service on behalf of our grateful Nation.
 
-Our military members do not swear allegiance to an individual, group, or political party. Their oath is to the United States Constitution. By bringing together people from different races, religions, and sexual orientations and melding them into a cohesive fighting force, our military embodies the promise of our democratic experiment. My Administration is determined to foster an environment that empowers our Armed Forces and improves retention and promotion of the best talent, to strengthen military readiness. Any ideology, actions, or influences that seek to undermine this solidarity must be exposed and eliminated.
+On this special day of tribute, we recognize the sacrifices that our service members and their families make on our behalf, and we recommit to our solemn duty to support them as they protect us. Our Nation has a sacred obligation to properly equip and prepare our troops when we send them in to harm's way and to support them—both while they are serving abroad and when they return home—as well as their families, caregivers, and survivors. We must meet this obligation.
 
-The unmatched strength of the United States Armed Forces reflects our greatest strength as a people, our diversity. Our military has proven—time and time again—that the insistent pursuit of greater inclusion and equality makes us a more robust, more resilient, and more powerful Nation. As we pay tribute to those who serve, we acknowledge our continuing obligation to ensure that all qualified and willing Americans who wish to serve in the United States Armed Forces are able to do so openly and free from discrimination.
+My Administration's unity agenda focuses on key issues that bring Americans together: supporting our veterans, beating the opioid epidemic, addressing our national mental health crisis, and ending cancer as we know it. Each of these issues impact our military community, and each is essential to meeting our obligation to our troops, their families, caregivers, and survivors. Mental health issues pose a real challenge to our service members and their families, and my Administration will continue to strengthen the tools, resources, and support for our military community so our brave service members, who have answered the call to serve, can thrive. This includes taking bold action to reduce suicide among service members, veterans, and their families.
 
-My Administration is committed to confronting and driving out sexual assault and harassment, so that all members of the Armed Services feel safe and welcome in the ranks. We will improve retention and promotion of our best talent by using a single standard, one based on excellence.
+The success of our Armed Forces also rests on every member of our military community feeling that their safety and ability to prosper is prioritized as they defend our Nation. That is why my Administration is so focused on addressing the potential adverse consequences related to toxic exposures or exposures to other environmental hazards during deployment or in garrison.
 
-The Biden family knows personally that the burden of service does not fall solely on those who wear a uniform. Our military family members also serve our country and make great sacrifices to support their loved ones. They give their best to their service members, and we must give our best to ensuring military families have what they need to thrive. This is a national security imperative that supports military retention and readiness, and my Administration is committed to supporting policies that promote the well-being of our war fighters and their families.
+Safety for our troops also means addressing the scourge of sexual harassment and sexual assault in our military. We have already taken important steps. In December, I was proud to sign into law historic military justice reforms as part of the 2022 National Defense Authorization Act \[Pub. L. 117–81\]. The Department of Defense is working to implement these critical changes, alongside recommendations from the Independent Review Commission on Sexual Assault in the Military for prevention, climate and culture, and victim care and support. Much work still lies ahead to deliver the progress that our troops deserve, and this will remain a top priority for my Administration.
 
-Through the First Lady's work with Joining Forces, the White House has committed to supporting military and veteran families, caregivers, and survivors through economic and entrepreneurship opportunities, support for military child education, and health and well-being resources. Joining Forces will continue to convene and collaborate with Federal agency partners, non-profit organizations, corporate stakeholders, and service providers to develop comprehensive, meaningful, and long-term solutions to address the holistic well-being of military and veteran families, caregivers, and survivors.
+Our diversity is one of our greatest strengths as a Nation, and we will continue to strive for our Armed Forces to reflect society at every level within its ranks. Ensuring equal opportunity and greater inclusivity will bolster the strength of our military and make sure every American knows they can succeed and thrive as a member of the United States Armed Forces. We are renewing our efforts to address the recruitment, retention, and well-being of women in the military as well as providing a path to service for other under-represented groups.
 
-The United States Armed Forces are the greatest fighting force in the history of the world. They defend universal values and advance the cause of freedom around the globe. On this day, we salute and show gratitude for all who serve and commit to ensuring our Armed Forces remain strong, united, and unmatched.
+As we look around the world today, we are reminded again that freedom comes at great cost. Throughout our history, brave Americans have always stepped forward to defend our liberties—willing to pay the price to keep our country safe. Our Nation's Armed Forces are the best in the world. And we know that it is not only the person who wears our Nation's uniform that serves. Their loved ones serve as well. Today, we also honor the families, caregivers, and survivors of our Armed Forces—all those who sacrifice on our behalf and who give their all to support the service members they stand behind.
+
+On Armed Forces Day, we salute our brave service members, whose dedication and sacrifice ensure that our Nation's Armed Forces are unmatched in strength, unity, and resilience. They are the greatest fighting force the world has ever known.
 
 NOW, THEREFORE, I, JOSEPH R. BIDEN JR., President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
-I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, Marine Corps, Space Force, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for soliciting the participation and cooperation of civil authorities and private citizens. I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and other organizations to join in the observance of Armed Forces Day each year.
+I direct the Secretary of Defense, on behalf of the Army, Navy, Air Force, Marine Corps, Space Force, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for soliciting the participation and cooperation of civil authorities and private citizens. I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States to provide for the observance of Armed Forces Day within their respective jurisdictions each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and other organizations to join in the observance of Armed Forces Day each year.
 
 Finally, I call upon all Americans to display the flag of the United States at their homes and businesses on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day.
 
-Proclamation 10034 of May 15, 2020, is hereby superseded.
+Proclamation 10210 of May 14, 2021, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of May, in the year of our Lord two thousand twenty-one, and of the Independence of the United States of America the two hundred and forty-fifth.
+IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of May, in the year of our Lord two thousand twenty-two, and of the Independence ofthe United States of America the two hundred and forty-sixth.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 10210, May 14, 2021, 86 F.R. 27017, superseded by Proc. No. 10400, May 20, 2022, 87 F.R. 31702.
 
 Proc. No. 10034, May 15, 2020, 85 F.R. 30585, superseded by Proc. No. 10210, May 14, 2021, 86 F.R. 27017.
 
@@ -2735,7 +2751,7 @@ With autism spectrum disorders (ASDs) affecting nearly one percent of children i
 
 Men and women on the autism spectrum have thrived and excelled in communities across America and around the world. Yet, despite great progress in understanding ASDs, challenges remain for these individuals and their loved ones. For too long, the needs of people living with autism and their families have gone without adequate support and understanding. While we continue to encourage the development of resources for children on the autism spectrum and provide necessary resources for their families, we must also remember that young people with ASDs become adults with ASDs who deserve our support, our respect, and the opportunity to realize their highest aspirations.
 
-As our understanding of the autism spectrum grows, my Administration remains dedicated to supporting children and adults impacted by autism. Led by the Department of Health and Human Services, we have expanded investments in autism research, public healthtracking, early detection, and services—from early intervention for children to improved long-term services and support programs for adults. My Administration maintains a firm commitment to advance autism research and treatment, as well as promote education, employment, and equality for all individuals with autism, from early childhood through employment and community life. We will continue to work with the Congress, experts, and families to improve Federal and State programs that assist individuals with ASDs and their families and to bolster the impact and reach of community support and services. I encourage all Americans to visit www.HHS.gov/autism for more information and resources on ASDs.
+As our understanding of the autism spectrum grows, my Administration remains dedicated to supporting children and adults impacted by autism. Led by the Department of Health and Human Services, we have expanded investments in autism research, public health tracking, early detection, and services—from early intervention for children to improved long-term services and support programs for adults. My Administration maintains a firm commitment to advance autism research and treatment, as well as promote education, employment, and equality for all individuals with autism, from early childhood through employment and community life. We will continue to work with the Congress, experts, and families to improve Federal and State programs that assist individuals with ASDs and their families and to bolster the impact and reach of community support and services. I encourage all Americans to visit www.HHS.gov/autism for more information and resources on ASDs.
 
 With each breakthrough in research and each innovative treatment, we open endless possibilities for the many American families who have been touched by autism. As we mark World Autism Awareness Day, let us recommit to improving the lives of individuals and families impacted by ASDs and creating a world free from discrimination where all can achieve their fullest potential.
 
@@ -2748,6 +2764,8 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Executive Order No. 13072
 
 Ex. Ord. No. 13072, Feb. 2, 1998, 63 F.R. 6041, provided for formation of the White House Millennium Council to lead the country in a celebration of the new millennium by initiating and recognizing national and local projects that contributed in educational, creative, and productive ways to America's commemoration of that historic time.
+
+<i><sup>1</sup></i><i> So in original. Two sections 146 have been enacted.</i>
 
 
 ---
@@ -2799,4 +2817,5 @@ Ex. Ord. No. 13072, Feb. 2, 1998, 63 F.R. 6041, provided for formation of the Wh
 - [&sect; 00143 - Wright Brothers Day](%C2%A7%2000143%20-%20Wright%20Brothers%20Day.md)
 - [&sect; 00144 - Patriot Day](%C2%A7%2000144%20-%20Patriot%20Day.md)
 - [&sect; 00145 - Veterans Day](%C2%A7%2000145%20-%20Veterans%20Day.md)
-- [&sect; 00146 - National Atomic Veterans Day](%C2%A7%2000146%20-%20National%20Atomic%20Veterans%20Day.md)
+- [&sect; 00146 - 1 National Atomic Veterans Day](%C2%A7%2000146%20-%201%20National%20Atomic%20Veterans%20Day.md)
+- [&sect; 00146 - 1 Choose Respect Day](%C2%A7%2000146%20-%201%20Choose%20Respect%20Day.md)

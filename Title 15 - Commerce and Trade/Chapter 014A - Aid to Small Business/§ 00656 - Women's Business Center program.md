@@ -8,7 +8,7 @@ In this section—
 
 &emsp;(2) the term "private nonprofit organization" means an entity that is described in section 501(c) of title 26 and exempt from taxation under section 501(a) of such title;
 
-&emsp;(3) the term "small business concern owned and controlled by women", either startup orexisting, includes any small business concern—
+&emsp;(3) the term "small business concern owned and controlled by women", either startup or existing, includes any small business concern—
 
 &emsp;&emsp;(A) that is not less than 51 percent owned by 1 or more women; and
 
@@ -82,7 +82,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 #### (1) Establishment
 
-&emsp;There is established within the Administration an Office of Women's Business Ownership, which shall be responsible for the administration of the Administration's programs for thedevelopment of women's business enterprises (as defined in section 7108 of this title). The Office of Women's Business Ownership shall be administered by an Assistant Administrator, who shall be appointed by the Administrator.
+&emsp;There is established within the Administration an Office of Women's Business Ownership, which shall be responsible for the administration of the Administration's programs for the development of women's business enterprises (as defined in section 7108 of this title). The Office of Women's Business Ownership shall be administered by an Assistant Administrator, who shall be appointed by the Administrator.
 
 #### (2) Assistant Administrator of the Office of Women's Business Ownership
 
@@ -268,7 +268,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the availability of appropriations, the Administrator shall make a grant for the Federal share of the cost of activities described in the application to each applicant approved under this subsection.
+&emsp;&emsp;Subject to the availability of appropriations, the Administrator shall make a grantfor the Federal share of the cost of activities described in the application to each applicant approved under this subsection.
 
 #### (B) Amount
 
@@ -280,7 +280,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (D) Priority
 
-&emsp;&emsp;In allocating funds made available for grants under this section, the Administratorshall give applications under this subsection or subsection (l) priority over first-time applications under subsection (b).
+&emsp;&emsp;In allocating funds made available for grants under this section, the Administrator shall give applications under this subsection or subsection (l) priority over first-time applications under subsection (b).
 
 #### (5) Renewal
 
@@ -374,7 +374,7 @@ In general.—Not later than 180 days after December 2, 1997, the Administrator 
 
 Extension of contracts.—In extending or renewing a contract with a women's business center, the Administrator shall consider the results of the examination conducted under paragraph (1)."
 
-Subsec. (j). Pub. L. 106–165, §3(2), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: "The Administrator shall prepare and submit an annual report to the Committees on SmallBusiness of the House of Representatives and the Senate on the effectiveness of all projects conducted under the authority of this section. Such report shall provide information concerning—
+Subsec. (j). Pub. L. 106–165, §3(2), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: "The Administrator shall prepare and submit an annual report to the Committees on Small Business of the House of Representatives and the Senate on the effectiveness of all projects conducted under the authority of this section. Such report shall provide information concerning—
 
 &emsp;"(1) the number of individuals receiving assistance;
 

@@ -12,7 +12,7 @@ For the purposes of this chapter—
 
 &emsp;(c) The term "antitrust investigation" means any inquiry conducted by any antitrust investigator for the purpose of ascertaining whether any person is or has been engaged in any antitrust violation or in any activities in preparation for a merger, acquisition, joint venture, or similar transaction, which, if consummated, may result in an antitrust violation;
 
-&emsp;(d) The term "antitrust violation" means any act or omission in violation of any antitrust law, any antitrust order or, with respect to the International Antitrust Enforcement Assistance Act of 1994 \[15 U.S.C. 6201 et seq.\], any of the foreign antitrust laws;
+&emsp;(d) The term "antitrust violation" means any act or omission in violation of any antitrust law, any antitrust order or, with respect to the International Antitrust EnforcementAssistance Act of 1994 \[15 U.S.C. 6201 et seq.\], any of the foreign antitrust laws;
 
 &emsp;(e) The term "antitrust investigator" means any attorney or investigator employed by the Department of Justice who is charged with the duty of enforcing or carrying into effect any antitrust law;
 

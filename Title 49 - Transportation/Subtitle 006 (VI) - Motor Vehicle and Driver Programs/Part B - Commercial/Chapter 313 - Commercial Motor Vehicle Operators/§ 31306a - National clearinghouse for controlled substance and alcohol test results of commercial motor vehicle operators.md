@@ -70,7 +70,7 @@ Employer alert of positive test result.—In establishing the clearinghouse, the
 
 &emsp;(4)
 
-Archive capability.—In establishing the clearinghouse, the Secretary shall develop a process for archiving all clearinghouse records for the purposes of auditing and evaluating the timeliness, accuracy, and completeness of data in the clearinghouse.
+Archive capability.—In establishing the clearinghouse, the Secretary shall develop a process for archiving all clearinghouse recordsfor the purposes of auditing and evaluating the timeliness, accuracy, and completeness of data in the clearinghouse.
 
 &emsp;(5)
 
@@ -96,7 +96,7 @@ Specific considerations.—In carrying out subparagraph (A), the Secretary shall
 
 &emsp;&emsp;&emsp;&emsp;(II) the Commercial Driver's License Information System established under section 31309;
 
-&emsp;&emsp;&emsp;&emsp;(III) the Motor Carrier Management Information System for preemploymentscreening services under section 31150; and
+&emsp;&emsp;&emsp;&emsp;(III) the Motor Carrier Management Information System for preemployment screening services under section 31150; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) other data systems, as appropriate; and
 
@@ -200,7 +200,7 @@ Notification.—The Secretary shall expeditiously notify an individual, unless s
 
 &emsp;&emsp;(A) a record relating to the individual is received by the clearinghouse;
 
-&emsp;&emsp;(B) a record in the clearinghouse relating to the individual is modified or deleted, andinclude in the notification the reason for the modification or deletion; or
+&emsp;&emsp;(B) a record in the clearinghouse relating to the individual is modified or deleted, and include in the notification the reason for the modification or deletion; or
 
 &emsp;&emsp;(C) a record in the clearinghouse relating to the individual is released to an employer and specify the reason for the release.
 
@@ -310,7 +310,7 @@ Penalties.—
 
 &emsp;(1)
 
-In general.—An employer, employee, medical review officer, or service agent who violates any provision of this section shall be subject to civil penalties under section521(b)(2)(C) and criminal penalties under section 521(b)(6)(B), and any other applicable civil and criminal penalties, as determined by the Secretary.
+In general.—An employer, employee, medical review officer, or service agent who violates any provision of this section shall be subject to civil penalties under section 521(b)(2)(C) and criminal penalties under section 521(b)(6)(B), and any other applicable civil and criminal penalties, as determined by the Secretary.
 
 &emsp;(2)
 

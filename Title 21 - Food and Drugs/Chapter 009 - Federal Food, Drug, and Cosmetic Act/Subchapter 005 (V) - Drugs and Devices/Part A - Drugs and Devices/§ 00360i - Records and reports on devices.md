@@ -188,7 +188,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 #### (3) Stakeholder input
 
-&emsp;To help ensure effective implementation of the system as described in paragraph (1) with respect to devices, the Secretary shall engage outside stakeholders in development of the system, and gather information from outsidestakeholders regarding the content of an effective sentinel program, through a public hearing, advisory committee meeting, maintenance of a public docket, or other similar public measures.
+&emsp;To help ensure effective implementation of the system as described in paragraph (1) with respect to devices, the Secretary shall engage outside stakeholders in development of the system, and gather information from outside stakeholders regarding the content of an effective sentinel program, through a public hearing, advisory committee meeting, maintenance of a public docket, or other similar public measures.
 
 #### (4) Voluntary surveys
 
@@ -280,7 +280,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 &emsp;&emsp;(A) individually identifiable health information so collected shall not be disclosed when presenting any information from such project; and
 
-&emsp;&emsp;(B) any such disclosure shall be made in compliance with regulations issued pursuant to section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) and sections 552 and 552a of title 5.
+&emsp;&emsp;(B) any such disclosure shall be made in compliance with regulations issued pursuantto section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) and sections 552 and 552a of title 5.
 
 #### (7) Limitations
 
@@ -310,7 +310,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 &emsp;The Secretary may not carry out a pilot project initiated by the Secretary under this subsection after October 1, 2022.
 
-(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a),227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061; Pub. L. 114–255, div. A, title III, §3101(a)(2)(L), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VII, §708(a), Aug. 18, 2017, 131 Stat. 1062.)
+(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061; Pub. L. 114–255, div. A, title III, §3101(a)(2)(L), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VII, §708(a), Aug. 18, 2017, 131 Stat. 1062.)
 
 #### <b>Editorial Notes</b>
 
@@ -450,7 +450,7 @@ Pub. L. 101–629, §3(c), Nov. 28, 1990, 104 Stat. 4514, as amended by Pub. L. 
 
 &emsp;"(iv) include such other requirements as the Secretary deems necessary for the adoption of an effective user tracking program under section 519(e) of such Act.
 
-"(2) Not later than 18 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement sections \[sic\] 519(a)(6) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations upon the expiration of such 18 months, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of sections \[sic\] 519(a)(6) of such Act is essential to protect the health of patients who use such devices. Consequently, in such event, the proposed regulations issued under paragraph (1) shall become final regulations as of the expiration of such 18 months. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations.
+"(2) Not later than 18 months after the date of the enactment of this Act, the Secretary shall issue final regulations to implement sections \[sic\] 519(a)(6) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations upon the expiration of such 18 months, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of sections \[sic\] 519(a)(6) of such Act is essential to protect the health of patients who use such devices. Consequently, in such event, the proposed regulations issued under paragraph (1) shall become final regulations as of the expirationof such 18 months. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations.
 
 "(3) Not later than November 28, 1992, the Secretary shall issue final regulations to implement section 519(e) of the Federal Food, Drug, and Cosmetic Act. If the Secretary does not promulgate such final regulations by November 28, 1992, the Congress finds that there is good cause for the proposed regulations to be considered as the final regulations without response to comment because the implementation of section 519(e) of such Act is essential to protect the health of patients who use devices. In such event, the proposed regulations issued under paragraph (1) shall become the issued final regulations on November 29, 1992. There shall be promptly published in the Federal Register notice of the new status of the proposed regulations."
 

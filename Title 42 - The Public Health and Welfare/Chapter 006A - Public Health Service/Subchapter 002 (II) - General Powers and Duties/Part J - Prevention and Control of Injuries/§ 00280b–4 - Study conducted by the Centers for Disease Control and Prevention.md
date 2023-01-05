@@ -2,17 +2,17 @@
 
 #### (a) Purposes
 
-The Secretary of Health and Human Services acting through the National Center for InjuryPrevention and Control at the Centers for Disease Control <sup>1</sup> Prevention shall make grants to entities, including domestic and sexual assault coalitions and programs, research organizations, tribal organizations, and academic institutions to support research to examine prevention and intervention programs to further the understanding of sexual and domestic violence by and against adults, youth, and children.
+The Secretary of Health and Human Services acting through the National Center for Injury Prevention and Control at the Centers for Disease Control <sup>1</sup> Prevention shall make grants to entities, including domestic and sexual assault coalitions and programs, research organizations, tribal organizations, and academic institutions to support research to examine prevention and intervention programs to further the understanding of sexual and domestic violence by and against adults, youth, and children.
 
 #### (b) Use of funds
 
-The research conducted under this section shall include evaluation and study of best practices for reducing and preventing violence against women and children addressed by the strategies included in Department of Health and Human Services-related provisions <sup>2</sup> this title,<sup>3</sup> including strategies addressing underserved communities.
+The research conducted under this section shall include evaluation and study of best practices for reducing and preventing violence against adults, youth, and children addressed by the strategies included in Department of Health and Human Services-related provisions <sup>2</sup> this title,<sup>3</sup> including strategies addressing underserved communities.
 
 #### (c) Authorization of appropriations
 
-There shall be authorized to be appropriated to carry out this title $1,000,000 for each of the fiscal years 2014 through 2018.
+There shall be authorized to be appropriated to carry out this title <sup>3</sup> $1,000,000 for each of fiscal years 2023 through 2027.
 
-(Pub. L. 109–162, title IV, §402, Jan. 5, 2006, 119 Stat. 3023; Pub. L. 113–4, title IV, §401, Mar. 7, 2013, 127 Stat. 92.)
+(Pub. L. 109–162, title IV, §402, Jan. 5, 2006, 119 Stat. 3023; Pub. L. 113–4, title IV, §401, Mar. 7, 2013, 127 Stat. 92; Pub. L. 117–103, div. W, title IV, §401, Mar. 15, 2022, 136 Stat. 869.)
 
 #### <b>Editorial Notes</b>
 
@@ -28,7 +28,7 @@ Section was enacted as part of the Violence Against Women and Department of Just
 
 Prior sections 280b–4 to 280b–11 were repealed by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
-Section 280b–4, act July 1, 1944, ch. 373, title III, §393, formerly §394, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1062; amended Mar. 13, 1970, Pub. L. 91–212, §§2(b), 10(d)(2)(A), 84 Stat. 63, 67; June 18, 1973, Pub. L. 93–45, title I, §107(a), 87 Stat. 92; renumbered §393 and amended July 23, 1974, Pub. L. 93–353, title II, §§203(a), 204, 88 Stat. 372, 373, related to grants for training in medical library sciences.
+Section 280b–4, act July 1, 1944, ch. 373, title III, §393, formerly §394, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1062; amended Mar. 13, 1970, Pub. L. 91–212,§§2(b), 10(d)(2)(A), 84 Stat. 63, 67; June 18, 1973, Pub. L. 93–45, title I, §107(a), 87 Stat. 92; renumbered §393 and amended July 23, 1974, Pub. L. 93–353, title II, §§203(a), 204, 88 Stat. 372, 373, related to grants for training in medical library sciences.
 
 Section 280b–5, act July 1, 1944, ch. 373, title III, §394, formerly §395, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1062; amended Mar. 13, 1970, Pub. L. 91–212, §§2(c), (d), 4(a), 5(a), 10(c)(1)(A), (B), (2)(A)–(C), (d)(2)(A), 84 Stat. 63, 64, 66, 67; June 18, 1973, Pub. L. 93–45, title I, §107(b), (c), 87 Stat. 92; renumbered §394 and amended July 23, 1974, Pub. L. 93–353, title II, §§203(b), 204, 88 Stat. 372, 373, related to assistance for special scientific projects; research and development in medical library science and related fields.
 
@@ -48,9 +48,17 @@ A prior section 280b–12, act July 1, 1944, ch. 373, title III, §399b, as adde
 
 #### Amendments
 
+<b>2022</b>—Subsec. (b). Pub. L. 117–103, §401(1), substituted "violence against adults, youth," for "violence against women".
+
+Subsec. (c). Pub. L. 117–103, §401(2), substituted "fiscal years 2023 through 2027" for "the fiscal years 2014 through 2018".
+
 <b>2013</b>—Subsec. (c). Pub. L. 113–4 substituted "$1,000,000 for each of the fiscal years 2014 through 2018" for "$2,000,000 for each of the fiscal years 2007 through 2011".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2013 Amendment
 

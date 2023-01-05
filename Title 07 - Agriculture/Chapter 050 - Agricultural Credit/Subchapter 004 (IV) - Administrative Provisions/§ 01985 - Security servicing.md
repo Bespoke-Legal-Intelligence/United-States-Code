@@ -68,7 +68,7 @@ Except as provided in subsections (c) and (e), real property administered under 
 
 #### (i) Beginning farmer or rancher; socially disadvantaged farmer or rancher
 
-&emsp;&emsp;&emsp;The Secretary may lease or contract to sell to a beginning farmer or rancher or asocially disadvantaged farmer or rancher a farm or ranch acquired by the Secretary under this chapter if the beginning farmer or rancher or the socially disadvantaged farmer or rancher qualifies for a credit sale or direct farm ownership loan under subchapter I but credit sale authority for loans or direct farm ownership loan funds, respectively, are not available.
+&emsp;&emsp;&emsp;The Secretary may lease or contract to sell to a beginning farmer or rancher or a socially disadvantaged farmer or rancher a farm or ranch acquired by the Secretary under this chapter if the beginning farmer or rancher or the socially disadvantaged farmer or rancher qualifies for a credit sale or direct farm ownership loan under subchapter I but credit sale authority for loans or direct farm ownership loan funds, respectively, are not available.
 
 #### (ii) Term
 
@@ -130,7 +130,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(III) to such Indian tribe.
 
-(iv) The governing body of any Indian tribe having jurisdiction over an Indian reservationmay revise the order of priority provided in clause (iii) under which lands located within such reservation shall be offered for purchase or lease by the Secretary under clause (iii) and may restrict the eligibility for such purchase or lease to—
+(iv) The governing body of any Indian tribe having jurisdiction over an Indian reservation may revise the order of priority provided in clause (iii) under which lands located within such reservation shall be offered for purchase or lease by the Secretary under clause (iii) and may restrict the eligibility for such purchase or lease to—
 
 &emsp;(I) persons who are members of such Indian tribe,
 
@@ -144,7 +144,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(II) such time as the lands are transferred into trust pursuant to clause (viii).
 
-(vi) At any time any real property is transferred to the Secretary of the Interior under clause (v), the Secretary of Agriculture shall be deemed to have no further responsibility under this Act for collection of any amounts with regard to the farm program loan which had been secured by such real property, nor with regard to any lien arising out of such loan transaction, nor for repayments of any amount with regard to such loan transactions or liens to the Treasury of the United States, and the Secretary of the Interior shall be deemed to have succeeded to all right, title and interest of the Secretary of Agriculture in such real estate arising from the farm program loan transaction, including the obligation to remit to the Treasury of the United States, in repayment of the original loan, those amounts provided in clause (vii).
+(vi) At any time any real property is transferred to the Secretary of the Interior under clause (v), the Secretary of Agriculture shall be deemed to have no further responsibility under this Act for collection of any amounts with regard to the farm program loan which had been secured by such real property, nor with regard to any lien arising out of such loan transaction, nor for repayments of any amount with regardto such loan transactions or liens to the Treasury of the United States, and the Secretary of the Interior shall be deemed to have succeeded to all right, title and interest of the Secretary of Agriculture in such real estate arising from the farm program loan transaction, including the obligation to remit to the Treasury of the United States, in repayment of the original loan, those amounts provided in clause (vii).
 
 (vii) After the payment of any taxes which are required to be paid under clause (v), all remaining rental income derived from the lease of the real property transferred to the Secretary of the Interior under clause (v), and all other income generated from the real property transferred to the Secretary of the Interior under clause (v), shall be deposited as miscellaneous receipts in the Treasury of the United States until the amount deposited is equal to the lesser of—
 
@@ -322,13 +322,13 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-This Act, referred to in subsec. (e)(1)(A)(vi), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be "this title" meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
+This Act, referred to in subsec. (e)(1)(A)(vi), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be "this title" meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 Subsection (g)(6) of this section, referred to in subsec. (e)(1)(D)(iii)(I), was redesignated subsection (g)(3) of this section by Pub. L. 104–127, title VI, §639(4), Apr. 4, 1996, 110 Stat. 1097.
 
 #### Codification
 
-In subsec. (c)(4), "Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(4), "Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for"The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
@@ -370,7 +370,7 @@ Subsec. (e)(1)(A). Pub. L. 104–127, §638(3)(A)(i)–(iii), redesignated subpa
 
 Subsec. (e)(1)(B). Pub. L. 104–127, §638(3)(A)(i), (ii), redesignated subpar. (E) as (B) and struck out former subpar. (B) which read as follows: "Any purchase or lease under subparagraph (A) shall be on such terms and conditions as are established in regulations promulgated by the Secretary."
 
-Subsec. (e)(1)(C). Pub. L. 104–127, §638(3)(A)(i), (ii), redesignated subpar. (F) as (C) and struck out former subpar. (C) which authorized Secretary to give preference in sale or lease, with option to purchase, of propertythat had been foreclosed, purchased, redeemed, or otherwise acquired by the Secretary to persons in specified order.
+Subsec. (e)(1)(C). Pub. L. 104–127, §638(3)(A)(i), (ii), redesignated subpar. (F) as (C) and struck out former subpar. (C) which authorized Secretary to give preference in sale or lease, with option to purchase, of property that had been foreclosed, purchased, redeemed, or otherwise acquired by the Secretary to persons in specified order.
 
 Subsec. (e)(1)(D). Pub. L. 104–127, §638(3)(A)(ii), (iv), redesignated subpar. (G) as (D), in cl. (i), substituted "(A)" for "(D)" in concluding provisions, in cl. (iii)(I), substituted "subparagraph (A)" for "subparagraphs (C)(i), (C)(ii), and (D)", and added cl. (v) and struck out former cl. (v) which read as follows: "If a borrower-owner does not voluntarily convey to the Secretary real property described in clause (i), at least 30 days before a foreclosure sale of the property, the Secretary shall provide written notice to the Indian tribe that has jurisdiction over the reservation in which the real property is located of—
 
@@ -390,7 +390,7 @@ Subsec. (e)(4). Pub. L. 104–127, §638(3)(E), redesignated par. (7) as (4). Fo
 
 Subsec. (e)(5). Pub. L. 104–127, §638(3)(D), (E), redesignated par. (8) as (5) and struck out former par. (5) which read as follows:
 
-"(5)(A) If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to persons eligible for a loan made or insured under subchapter I of this chapter because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for such eligible persons, the Secretary shall, to the greatest extent practicable, subdivide such land into tracts suitable for sale under subsection (c) of this section. Such land shall be subdivided into parcels of land the shape and size of which are suitable for farming, the value of which shall not exceed the individual loan limits as prescribed under section 1925 of this title.
+"(5)(A) If the Secretary determines that farmland administered under this chapter is not suitable for sale or lease to persons eligible for a loan made or insured under subchapter I of this chapter because such farmland is in a tract or tracts that the Secretary determines to be larger than that necessary for such eligible persons, the Secretary shall, to the greatest extent practicable, subdivide such land into tracts suitable for sale under subsection (c) of this section. Such landshall be subdivided into parcels of land the shape and size of which are suitable for farming, the value of which shall not exceed the individual loan limits as prescribed under section 1925 of this title.
 
 "(B) The Secretary shall dispose of such subdivided farmland in accordance with this subsection."
 
@@ -452,7 +452,7 @@ Subsec. (e)(1)(F). Pub. L. 102–237, §501(f)(2), added subpar. (F).
 
 Subsec. (c)(1). Pub. L. 101–624, §2303(c)(2), inserted "or the Rural Development Administration" after "Farmers Home Administration".
 
-Subsec. (c)(2)(A), (B). Pub. L. 101–624, §1813(e)(1), added subpar. (A) and subpar. (B) introductory provisions, redesignated former subpars. (A) through (D) as cls. (i) through (iv), respectively, of subpar. (B), and struck out former introductory provisions which read as follows: "Notwithstanding any other provision of law, the Secretary shall sell suitable farmland administered under this subchapter to operators (as of the time immediately after such contract for sale or lease is entered into) of not larger than family sized farms, as determined by the county committee. In selling such land, the county committee shall—".
+Subsec. (c)(2)(A), (B). Pub. L. 101–624, §1813(e)(1), added subpar. (A) and subpar. (B) introductory provisions, redesignated former subpars. (A) through (D) as cls. (i) through (iv), respectively, of subpar. (B), andstruck out former introductory provisions which read as follows: "Notwithstanding any other provision of law, the Secretary shall sell suitable farmland administered under this subchapter to operators (as of the time immediately after such contract for sale or lease is entered into) of not larger than family sized farms, as determined by the county committee. In selling such land, the county committee shall—".
 
 Subsec. (c)(2)(B)(ii). Pub. L. 101–624, §1813(g)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "offer suitable land at a price not greater than that which reflects the appraised market value of such land;".
 
@@ -522,7 +522,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 638 of Pub. L. 104–127 effective Apr. 4, 1996, but not applicable with respect to complete application to acquire inventory property submitted prior to Apr. 4, 1996, and amendment by section 639 of Pub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (c) of Pub. L. 104–127, set out as a note under section 1922 of this title.
+Amendment by section 638 of Pub. L. 104–127 effective Apr. 4, 1996, but not applicable with respect to complete application to acquire inventory property submitted prior to Apr. 4, 1996, and amendment by section 639 ofPub. L. 104–127 effective Apr. 4, 1996, see section 663(a), (c) of Pub. L. 104–127, set out as a note under section 1922 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -110,6 +110,16 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–328, div. Y, §101, Dec. 29, 2022, 136 Stat. 5523, provided that: "This division \[amending section 8421a of this title\] may be cited as the 'Continuity for Operators with Necessary Training Required for ATC Contract Towers Act of 2022' or the 'CONTRACT Act of 2022'."
+
+Pub. L. 117–263, div. E, title LIII, §5321, Dec. 23, 2022, 136 Stat. 3255, provided that: "This subtitle \[subtitle B (§§5321, 5322) of title LIII of div. E of Pub. L. 117–263, enacting section 3330f of this title and provisions set out as a note under section 3330f of this title\] may be cited as the 'Periodically Listing Updates to Management Act of 2022' or the 'PLUM Act of 2022'."
+
+Pub. L. 117–225, §1, Dec. 9, 2022, 136 Stat. 2293, provided that: "This Act \[amending sections 8336, 8412, 8414, 8415, 8421, 8421a, 8425, and 8462 of this title, sections 4045, 4046, and 4052 of Title 22, Foreign Relations and Intercourse, and section 2152 of Title 50, War and National Defense, and enacting provisions set out as notes under section 8336 of this title\] may be cited as the 'First Responder Fair Return for Employees on Their Initial Retirement Earned Act' or the 'First Responder Fair RETIRE Act'."
+
+Pub. L. 117–108, title I, §102(a), Apr. 6, 2022, 136 Stat. 1138, provided that: "This section \[enacting section 2903 of Title 39, Postal Service, amending section 8909a of this title, and enacting provisions set out as a note under section 8909a of this title\] may be cited as the 'USPS Fairness Act'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 117–81, div. F, title LXII, §6201, Dec. 27, 2021, 135 Stat. 2389, provided that: "This title \[enacting section 4087 of Title 22, Foreign Relations and Intercourse, amending section 6502 of this title, section 1015d of Title 20, Education, and sections 3951 and 4026 of Title 22, and enacting provisions set out as notes under section 6502 of this title and section 1015d of Title 20\] may be cited as the 'Foreign Service Families Act of 2021'."
@@ -154,7 +164,7 @@ Pub. L. 115–73, §1(a), Oct. 26, 2017, 131 Stat. 1235, provided that: "This Ac
 
 Pub. L. 115–40, §1, June 14, 2017, 131 Stat. 861, provided that: "This Act \[amending section 2302 of this title\] may be cited as the 'Follow the Rules Act'."
 
-Pub. L. 115–34, §1, May 16, 2017, 131 Stat. 846, provided that: "This Act \[amending section 5707 of this title and enacting provisions set out as a note under section 5707 of this title\] may be cited as the 'Modernizing Government Travel Act'."
+Pub. L. 115–34, §1, May 16, 2017, 131 Stat. 846, provided that: "This Act \[amending section 5707 of this title andenacting provisions set out as a note under section 5707 of this title\] may be cited as the 'Modernizing Government Travel Act'."
 
 Pub. L. 115–1, §1, Jan. 20, 2017, 131 Stat. 3, provided that: "This Act \[enacting sections 3171 and 3172 of this title and provisions set out as a note under section 3171 of this title\] may be cited as the 'Tested Ability to Leverage Exceptional National Talent Act of 2017' or the 'TALENT Act of 2017'."
 
@@ -192,7 +202,7 @@ Pub. L. 113–80, §1, Feb. 12, 2014, 128 Stat. 1006, provided that: "This Act \
 
 Pub. L. 112–230, §1, Dec. 28, 2012, 126 Stat. 1616, provided that: "This Act \[enacting section 7326 of this title, amending sections 1501, 1502, 1506, 7322, and 7325 of this title, repealing former section 7326 of this title, and enacting provisions set out as notes under sections 1501 and 7326 of this title\] may be cited as the 'Hatch Act Modernization Act of 2012'."
 
-Pub. L. 112–199, §1, Nov. 27, 2012, 126 Stat. 1465, provided that: "This Act \[enacting section 2304 of this title, amending sections 1204, 1212, 1214, 1215, 1221, 2302, and 7703 of this title, sections 3 and 8D of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to this title, and section 133 of Title 6, Domestic Security, renumbering sections 2304 and 2305 of this title as sections 2305 and 2306, respectively, of this title and enacting provisions set out as notes under sections 1204, 2302, and 2304 of this title, section 3 of the Inspector General Act of 1978, and section 1116 of Title 31, Money and Finance\] may be cited as the 'Whistleblower Protection Enhancement Act of 2012'."
+Pub. L. 112–199, §1, Nov. 27, 2012, 126 Stat. 1465, provided that: "This Act \[enacting section 2304 of this title, amending sections 1204, 1212, 1214, 1215, 1221, 2302, and 7703 of this title, sections 3 and 8D of the Inspector General Act of 1978, Pub. L. 95–452, formerly set out in the Appendix to this title, and section 133 of Title 6, Domestic Security, renumbering sections 2304 and 2305 of this title as sections 2305 and 2306, respectively, of this title and enacting provisions set out as notes under sections 1204, 2302, and 2304 of this title, section 3 of the Inspector General Act of 1978, and section 1116 of Title 31, Money and Finance\] may be cited as the 'Whistleblower Protection Enhancement Act of 2012'."
 
 Pub. L. 112–166, §1, Aug. 10, 2012, 126 Stat. 1283, provided that: "This Act \[see Tables for classification\] may be cited as the 'Presidential Appointment Efficiency and Streamlining Act of 2011'."
 
@@ -216,7 +226,7 @@ Pub. L. 111–31, div. B, title I, §101, June 22, 2009, 123 Stat. 1853, provide
 
 Pub. L. 110–372, §1, Oct. 8, 2008, 122 Stat. 4043, provided that: "This Act \[amending sections 3104, 3324, 3325, 5108, 5304, 5307 and 5376 of this title and enacting provisions set out as notes under sections 5307 and 5376 of this title\] may be cited as the 'Senior Professional Performance Act of 2008'."
 
-Pub. L. 110–290, §1, July 30, 2008, 122 Stat. 2914, provided that: "This Act \[amending section 596 of this title\] may be cited as the 'Regulatory Improvement Act of 2007'."
+Pub. L. 110–290, §1, July 30, 2008, 122 Stat. 2914, provided that: "This Act \[amending section 596 of thistitle\] may be cited as the 'Regulatory Improvement Act of 2007'."
 
 #### Short Title of 2007 Amendment
 

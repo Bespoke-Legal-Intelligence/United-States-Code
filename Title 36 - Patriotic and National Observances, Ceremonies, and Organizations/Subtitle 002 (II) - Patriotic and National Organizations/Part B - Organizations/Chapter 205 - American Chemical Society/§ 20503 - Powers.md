@@ -42,7 +42,7 @@ In clause (1), the word "adopt" is substituted for "make" for consistency in the
 
 In clause (2), the words "created by death, resignation, or otherwise" are omitted as unnecessary.
 
-In clause (4), the words "by devise, bequest, donation, or otherwise, either real or personal" and "reinvest"are omitted as unnecessary. The words "use . . . to carry out the purposes of the corporation" are substituted for "apply . . . to the objects of its creation" for clarity and consistency.
+In clause (4), the words "by devise, bequest, donation, or otherwise, either real or personal" and "reinvest" are omitted as unnecessary. The words "use . . . to carry out the purposes of the corporation" are substituted for "apply . . . to the objects of its creation" for clarity and consistency.
 
 Clause (5) is substituted for "all other matters needful and useful to promote the objects of the society" for consistency in the revised title.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Inspector General of the Department of State and the Foreign Service shall exercise thesame authorities with respect to the United States Agency for Global Media as the Inspector General exercises under the Inspector General Act of 1978 \[5 U.S.C. App.\] and section 3929 of this title with respect to the Department of State.
+The Inspector General of the Department of State and the Foreign Service shall exercise the same authorities with respect to the United States Agency for Global Media as the Inspector General exercises under the Inspector General Act of 1978 and section 3929 of this title with respect to the Department of State.
 
 #### (b) Respect for journalistic integrity of broadcasters
 
@@ -14,13 +14,13 @@ The Inspector General of the Department of State and the Foreign Service shall r
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (a), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (a), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§401 et seq.) of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 This chapter, referred to in subsec. (b), was in the original "this Act", and was translated as reading "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Codification
 
-Pub. L. 116–283, div. A, title XII, §1299Q(e)(6), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
+Pub. L. 116–283, div. A, title XII, §1299Q(e)(6), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
 

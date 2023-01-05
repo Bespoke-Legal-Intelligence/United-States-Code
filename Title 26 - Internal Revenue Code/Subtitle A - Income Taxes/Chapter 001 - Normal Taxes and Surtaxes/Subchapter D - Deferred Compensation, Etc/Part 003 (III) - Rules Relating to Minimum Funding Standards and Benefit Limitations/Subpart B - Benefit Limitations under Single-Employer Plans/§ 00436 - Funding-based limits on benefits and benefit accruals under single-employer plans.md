@@ -176,7 +176,7 @@ Subsections (b), (c), and (e) shall not apply to a plan for the first 5 plan yea
 
 &emsp;In any case in which—
 
-&emsp;&emsp;(A) a benefit limitation under subsection (b), (c), (d), or (e) did not apply to a plan with respect to the plan year preceding the current plan year, but the adjusted funding target attainment percentage of the plan for such preceding plan year was not more than 10 percentage points greater than the percentage which would have caused such subsection to apply to the plan with respect to such preceding plan year, and
+&emsp;&emsp;(A) a benefit limitation under subsection (b), (c), (d), or (e) did not apply to a plan with respect to the plan year preceding the current plan year, but the adjusted funding target attainment percentage of the plan for such preceding plan year was not more than10 percentage points greater than the percentage which would have caused such subsection to apply to the plan with respect to such preceding plan year, and
 
 &emsp;&emsp;(B) as of the first day of the 4th month of the current plan year, the enrolled actuary of the plan has not certified the actual adjusted funding target attainment percentage of the plan for the current plan year,
 
@@ -192,7 +192,7 @@ For purposes of applying this title—
 
 #### (2) Treatment of affected benefits
 
-&emsp;Nothing in this subsection shall be construed as affecting the plan's treatment ofbenefits which would have been paid or accrued but for this section.
+&emsp;Nothing in this subsection shall be construed as affecting the plan's treatment of benefits which would have been paid or accrued but for this section.
 
 #### (j) Terms relating to funding target attainment percentage
 
@@ -252,7 +252,7 @@ Subsec. (f)(1)(D). Pub. L. 110–458, §101(c)(2)(D)(i), inserted "adjusted" bef
 
 Subsec. (f)(2). Pub. L. 110–458, §101(c)(2)(D)(ii), substituted "prefunding balance or funding standard carryover balance under section 430(f)" for "prefunding balance under section 430(f) or funding standard carryover balance".
 
-Subsec. (j)(3)(A). Pub. L. 110–458, §101(c)(2)(E)(i), struck out "without regard to this paragraph and" before "without regard to the reduction" and substituted "section 430(f)(4)" for "section 430(f)(4)(A)" and "paragraphs (1) and (2)" for "paragraph (1)".
+Subsec. (j)(3)(A). Pub. L. 110–458, §101(c)(2)(E)(i), struck out "without regard to this paragraph and" before "without regard to the reduction" and substituted"section 430(f)(4)" for "section 430(f)(4)(A)" and "paragraphs (1) and (2)" for "paragraph (1)".
 
 Subsec. (j)(3)(C). Pub. L. 110–458, §101(c)(2)(E)(ii), substituted "without regard to the reduction in the value of assets under section 430(f)(4)" for "without regard to this paragraph" and inserted "beginning" before "after" in two places.
 
@@ -356,5 +356,5 @@ Pub. L. 110–458, title II, §203, Dec. 23, 2008, 122 Stat. 5118, provided that
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub.L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of this title.
 

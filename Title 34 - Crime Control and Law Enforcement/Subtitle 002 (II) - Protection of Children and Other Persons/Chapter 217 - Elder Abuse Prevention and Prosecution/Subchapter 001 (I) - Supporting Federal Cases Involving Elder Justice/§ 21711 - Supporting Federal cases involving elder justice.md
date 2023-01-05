@@ -4,7 +4,7 @@
 
 #### (1) Elder Justice Coordinators
 
-&emsp;The Attorney General shall designate in each Federal judicial district not less than oneAssistant United States Attorney to serve as the Elder Justice Coordinator for the district, who, in addition to any other responsibilities, shall be responsible for—
+&emsp;The Attorney General shall designate in each Federal judicial district not less than one Assistant United States Attorney to serve as the Elder Justice Coordinator for the district, who, in addition to any other responsibilities, shall be responsible for—
 
 &emsp;&emsp;(A) serving as the legal counsel for the Federal judicial district on matters relating to elder abuse;
 
@@ -28,7 +28,7 @@
 
 #### (4) Designated elder justice working group or subcommittee to the Attorney General's Advisory Committee of United States Attorneys
 
-&emsp;Not later than 60 days after October 18, 2017, the Attorney General, in consultation with the Director of the Executive Office for United States Attorneys, shall establish a subcommittee or working group to the Attorney General's Advisory Committee of United States Attorneys, as established under section 0.10 of title 28, Code of Federal Regulations, or any successor thereto, for the purposes of advising the Attorney General on policies of the Department of Justice relating to elder abuse.
+&emsp;Not later than 60 days after October 18, 2017, the Attorney General, in consultation with the Director of the Executive Office for United States Attorneys, shall establish a subcommittee or working group to the Attorney General's Advisory Committee of UnitedStates Attorneys, as established under section 0.10 of title 28, Code of Federal Regulations, or any successor thereto, for the purposes of advising the Attorney General on policies of the Department of Justice relating to elder abuse.
 
 #### (b) Department of Justice Elder Justice Coordinator
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(A) coordinating and supporting the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues; and
 
-&emsp;&emsp;(B) serving as, or ensuring the availability of, a central point of contact for individuals,units of local government, States, and other Federal agencies on matters relating to the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues.
+&emsp;&emsp;(B) serving as, or ensuring the availability of, a central point of contact for individuals, units of local government, States, and other Federal agencies on matters relating to the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues.
 
 #### (2) <sup>1</sup> Reports to Congress
 
@@ -86,17 +86,35 @@
 
 &emsp;&emsp;&emsp;(iv) the outcome of the case.<sup>2</sup>
 
-&emsp;&emsp;(B) with respect to the report by the Attorney General, including a link to the publicly available best practices identified under subsection (b)(1)(B) and the replication guides and training materials created or compiled under such subsection.
+&emsp;&emsp;(B) with respect to the report by the Attorney General, including a link to the publicly available best practices identified under subsection (b)(1)(B) and the replication guides and training materials created or compiled under such subsection; and
+
+&emsp;&emsp;(C) with respect to the report by the Federal Trade Commission, in relevant years, including information on—
+
+&emsp;&emsp;&emsp;(i) the newly created materials, guidance, or recommendations of the Senior Scams Prevention Advisory Group established under section 112 of the Stop Senior Scams Act and any relevant views or considerations made by members of the Advisory Group that were not included in the Advisory Group's model materials or considered an official recommendation by the Advisory Group;
+
+&emsp;&emsp;&emsp;(ii) the Senior Scams Prevention Advisory Group's findings about senior scams and industry educational materials and programs; and
+
+&emsp;&emsp;&emsp;(iii) any recommendations on ways stakeholders can continue to work together to reduce scams affecting seniors.
 
 #### (d) Use of appropriated funds
 
 No additional funds are authorized to be appropriated to carry out this section.
 
-(Pub. L. 115–70, title I, §101, Oct. 18, 2017, 131 Stat. 1209; Pub. L. 116–252, §§2(a), 3(a), Dec. 22, 2020, 134 Stat. 1133, 1134.)
+(Pub. L. 115–70, title I, §101, Oct. 18, 2017, 131 Stat. 1209; Pub. L. 116–252, §§2(a), 3(a), Dec. 22, 2020, 134 Stat. 1133, 1134; Pub. L. 117–103, div. Q, title I, §112(e), Mar. 15, 2022, 136 Stat. 811.)
+
+#### Amendment of Section
+
+<i>For repeal of amendment by Pub. L. 107–103, see Termination Date of 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 112 of the Stop Senior Scams Act, referred to in subsec. (c)(2)(C), is section 112 of Pub. L. 117–103, div. Q, title I, Mar. 15, 2022, 136 Stat. 809, which amended this section and enacted provisions set out as notes under this section and section 45e of Title 15, Commerce and Trade.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(2)(C). Pub. L. 117–103, §112(e), (f), temporarily added subpar. (C). See Termination Date of 2022 Amendment note below.
 
 <b>2020</b>—Subsec. (b). Pub. L. 116–252, §2(a)(1)–(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated former subpars. (A) to (C) of par. (2) as clauses (i) to (iii), respectively, of par. (1)(B), and realigned margins.
 
@@ -110,6 +128,10 @@ Subsec. (c)(2). Pub. L. 116–252, §3(a), substituted "a report—" for "a repo
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Termination of 2022 Amendment
+
+Pub. L. 117–103, div. Q, title I, §112(f), Mar. 15, 2022, 136 Stat. 811, provided that: "This subtitle \[subtitle A of title I of div. Q of Pub. L. 117–103, amending this section and enacting provisions set out as notes under this section and sections 45e and 58 of Title 15, Commerce and Trade\], and the amendments made by this subtitle, ceases to be effective on the date that is 5 years after the date of enactment of this Act \[Mar. 15, 2022\]."
+
 #### Effective Date and Applicability of 2020 Amendment
 
 Pub. L. 116–252, §2(b), Dec. 22, 2020, 134 Stat. 1134, provided that: "The amendments made by subsection (a) \[amending this section\] shall—
@@ -122,5 +144,5 @@ Pub. L. 116–252, §3(b), Dec. 22, 2020, 134 Stat. 1134, provided that: "The am
 
 <i><sup>1</sup></i><i> See Applicability of Amendment note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv).</i>
+<i><sup>2</sup></i><i> So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv);</i>
 

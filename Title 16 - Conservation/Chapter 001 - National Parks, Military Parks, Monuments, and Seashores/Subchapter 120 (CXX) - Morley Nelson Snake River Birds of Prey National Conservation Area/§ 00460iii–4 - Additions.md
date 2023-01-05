@@ -58,7 +58,7 @@ Areas To Be Added To and Removed From Morley Nelson Snake River Birds of Prey Na
 
 &emsp;"(1) to include—
 
-&emsp;&emsp;"(A) the approximately 4,726 acres of land generally depicted as 'BLM Administered Lands' on the map, to the extent such lands are part of the Lower Saylor Creek Allotment \[sic\] those lands would continue to be managed by the BLM Jarbidge Field Office until terms of the No. CV–04–181–S–BLW Stipulated Settlement Agreement are fully met, after which the lands would be managed by the Morley Nelson Snake River Birds of Prey National Conservation Area office; and
+&emsp;&emsp;"(A) the approximately 4,726 acres of land generally depicted as 'BLM Administered Lands' on themap, to the extent such lands are part of the Lower Saylor Creek Allotment \[sic\] those lands would continue to be managed by the BLM Jarbidge Field Office until terms of the No. CV–04–181–S–BLW Stipulated Settlement Agreement are fully met, after which the lands would be managed by the Morley Nelson Snake River Birds of Prey National Conservation Area office; and
 
 &emsp;&emsp;"(B) the approximately 86 acres of land generally depicted as 'BOR Administered Lands' on the map; and
 

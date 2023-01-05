@@ -26,7 +26,7 @@ Applicability.—
 
 &emsp;"(A)
 
-In general.—The amendments made by subsection (d) \[enacting this chapter\] shall take effectupon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and, except as provided in section 18 \[set out as a note below\] and in paragraph (3), shall apply only to patents described in section 3(n)(1) \[set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title\].
+In general.—The amendments made by subsection (d) \[enacting this chapter\] shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Sept. 16, 2011\] and, except as provided in section 18 \[set out as a note below\] and in paragraph (3), shall apply only to patents described in section 3(n)(1) \[set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title\].
 
 &emsp;"(B)
 
@@ -82,7 +82,7 @@ Establishment.—Not later than the date that is 1 year after the date of the en
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) would be described by section 102(a) of such title (as in effect on the day before the effective date set forth in section 3(n)(1)) if the disclosure had been made by another before the invention thereof by the applicant for patent.
 
-&emsp;&emsp;"(D) The petitioner in a transitional proceeding that results in a final written decision under section 328(a) of title 35, United States Code, with respect to a claim in a covered business method patent, or the petitioner's real party in interest, may not assert, either in a civil action arising in whole or in part under section 1338 of title 28, United States Code, or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 (19 U.S.C. 1337), that the claim is invalid on any ground that the petitioner raised during that transitional proceeding.
+&emsp;&emsp;"(D) The petitioner in a transitional proceeding that results in a final written decision under section 328(a) of title 35, United States Code, with respect to a claim in a covered business method patent, or the petitioner's real party in interest, maynot assert, either in a civil action arising in whole or in part under section 1338 of title 28, United States Code, or in a proceeding before the International Trade Commission under section 337 of the Tariff Act of 1930 (19 U.S.C. 1337), that the claim is invalid on any ground that the petitioner raised during that transitional proceeding.
 
 &emsp;&emsp;"(E) The Director may institute a transitional proceeding only for a patent that is a covered business method patent.
 

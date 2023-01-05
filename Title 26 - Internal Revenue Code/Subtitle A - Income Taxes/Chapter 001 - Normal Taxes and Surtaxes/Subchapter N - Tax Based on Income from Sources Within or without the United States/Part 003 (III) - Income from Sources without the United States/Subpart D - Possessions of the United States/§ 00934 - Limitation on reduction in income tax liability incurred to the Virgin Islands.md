@@ -106,7 +106,7 @@ Amendment by section 1901(a)(118) of Pub. L. 94–455 applicable with respect to
 
 #### Effective Date
 
-Pub. L. 86–779, §4(e)(1), Sept. 14, 1960, 74 Stat. 1000, provided that: "The amendments made by subsection\(a) \[enacting this section\] shall apply to tax liability incurred with respect to taxable years beginning on or after January 1, 1960."
+Pub. L. 86–779, §4(e)(1), Sept. 14, 1960, 74 Stat. 1000, provided that: "The amendments made by subsection (a) \[enacting this section\] shall apply to tax liability incurred with respect to taxable years beginning on or after January 1, 1960."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

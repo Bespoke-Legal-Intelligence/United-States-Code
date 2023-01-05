@@ -42,7 +42,7 @@ In subsection (a), the words "Director of the Office of Management and Budget" a
 
 In subsection (b)(1), the reference to "section 204(b)" in section 202(a)(1) (last sentence) of the Federal Property and Administrative Services Act of 1949 is translated as a reference to section 204(c) of the Act because subsection (b) was redesignated as (c) by the Act of August 31, 1954 (ch.1178, 68 Stat. 1051).
 
-In subsection (b)(2)(A), the words "chapter 91 of title 31" are substituted for "the Government Corporation Control Act (59 Stat. 597, 31 U.S.C. 841)" in section 202(a)(1) (last sentence) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
+In subsection (b)(2)(A), the words "chapter 91 of title 31" are substituted for "the Government Corporation Control Act (59 Stat. 597, 31 U.S.C. 841)" in section202(a)(1) (last sentence) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
 In subsection (c), the word "at" is substituted for "as" (in the phrase "as \[sic\] prices set by the Administrator") to reflect the probable intent of Congress. See Senate Report No. 2075, dated July 2, 1952 (United States Code Congressional and Administrative News, 82nd Congress, 2d Session, 1952, Volume 2, p. 2123).
 

@@ -4,6 +4,7 @@
 | :--- | ---: |
 | [44301\.](%C2%A7%2044301%20-%20Definitions.md) | Definitions. |
 | [44302\.](%C2%A7%2044302%20-%20General%20authority.md) | General authority. |
+| [44302a.](%C2%A7%2044302a%20-%20Temporary%20insurance.md) | Temporary insurance. |
 | [44303\.](%C2%A7%2044303%20-%20Coverage.md) | Coverage. |
 | [44304\.](%C2%A7%2044304%20-%20Reinsurance.md) | Reinsurance. |
 | [44305\.](%C2%A7%2044305%20-%20Insuring%20United%20States%20Government%20property.md) | Insuring United States Government property. |
@@ -15,6 +16,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. Q, §103(c), Dec. 29, 2022, 136 Stat. 5252, added item 44302a.
+
 
 ---
 
@@ -22,6 +29,7 @@
 
 - [&sect; 44301 - Definitions](%C2%A7%2044301%20-%20Definitions.md)
 - [&sect; 44302 - General authority](%C2%A7%2044302%20-%20General%20authority.md)
+- [&sect; 44302a - Temporary insurance](%C2%A7%2044302a%20-%20Temporary%20insurance.md)
 - [&sect; 44303 - Coverage](%C2%A7%2044303%20-%20Coverage.md)
 - [&sect; 44304 - Reinsurance](%C2%A7%2044304%20-%20Reinsurance.md)
 - [&sect; 44305 - Insuring United States Government property](%C2%A7%2044305%20-%20Insuring%20United%20States%20Government%20property.md)

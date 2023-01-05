@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any person who willfully fails to comply with any requirement imposed under this subchapter with respect to any consumer is liable to that consumer in an amount equal to the sum of—
+Any person who willfully fails to comply with any requirement imposed under this subchapterwith respect to any consumer is liable to that consumer in an amount equal to the sum of—
 
 &emsp;(1)(A) any actual damages sustained by the consumer as a result of the failure or damages of not less than $100 and not more than $1,000; or
 
@@ -66,7 +66,7 @@ Findings.—The Congress finds as follows:
 
 &emsp;"(2) As part of that law, the Congress enacted a requirement, through an amendment to the Fair Credit Reporting Act \[15 U.S.C. 1681 et seq.\], that no person that accepts credit cards or debit cards for the transaction of business shall print more than the last 5 digits of the card number or the expiration date upon any receipt provided to the card holder at the point of the sale or transaction.
 
-&emsp;"(3) Many merchants understood that this requirement would be satisfied by truncating the accountnumber down to the last 5 digits based in part on the language of the provision as well as the publicity in the aftermath of the passage of the law.
+&emsp;"(3) Many merchants understood that this requirement would be satisfied by truncating the account number down to the last 5 digits based in part on the language of the provision as well as the publicity in the aftermath of the passage of the law.
 
 &emsp;"(4) Almost immediately after the deadline for compliance passed, hundreds of lawsuits were filed alleging that the failure to remove the expiration date was a willful violation of the Fair Credit Reporting Act even where the account number was properly truncated.
 

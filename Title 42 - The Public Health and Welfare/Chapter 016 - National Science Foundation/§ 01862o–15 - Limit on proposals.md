@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-For programs supported by the Foundation that require as part of the selection process forawards the submission of preproposals and that also limit the number of preproposals that may be submitted by an institution, the Director shall allow the subsequent submission of a full proposal based on each preproposal that is determined to have merit following the Foundation's merit review process.
+For programs supported by the Foundation that require as part of the selection process for awards the submission of preproposals and that also limit the number of preproposals that may be submitted by an institution, the Director shall allow the subsequent submission of a full proposal based on each preproposal that is determined to have merit following the Foundation's merit review process.
 
 #### (b) Review and assessment of policies
 

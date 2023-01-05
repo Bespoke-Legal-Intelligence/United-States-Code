@@ -2,7 +2,7 @@
 
 #### (a) Eligibility for issuance or transfer of license or permit
 
-Before issuing or transferring a license for exploration or permit for commercial recovery, the Administrator must find in writing, after consultation with interested departments and agencies pursuant to section 1413(e) of this title, and upon considering public comments receivedwith respect to the license or permit, that the exploration or commercial recovery proposed in the application—
+Before issuing or transferring a license for exploration or permit for commercial recovery, the Administrator must find in writing, after consultation with interested departments and agencies pursuant to section 1413(e) of this title, and upon considering public comments received with respect to the license or permit, that the exploration or commercial recovery proposed in the application—
 
 &emsp;(1) will not unreasonably interfere with the exercise of the freedoms of the high seas by other states, as recognized under general principles of international law;
 
@@ -20,7 +20,7 @@ Before issuing or transferring a license for exploration or permit for commercia
 
 (2) After preparation and consideration of the final environmental impact statement pursuant to section 1419(d) of this title on the proposed issuance of a license or permit and subject to the other provisions of this chapter, the Administrator shall issue to the applicant the license or permit with the terms, conditions, and restrictions incorporated therein.
 
-(3) The licensee or permittee to whom a license or permit is issued or transferred shall be deemed to have accepted the terms, conditions, and restrictions in the license or permit if the licensee or permittee does not notify the Administrator within 60 days after receipt of the license or permit of each term, condition, or restriction with which the licensee or permittee takes exception. The licensee or permittee may, in addition to such objections as may be raised under applicable provisions of law, object to any term, condition, or restriction on the ground that the term, condition, or restriction is inconsistent with this chapter or the regulations promulgated thereunder. If, after the Administrator takes final action on these objections, the licensee or permittee demonstrates that a dispute remains on a material issue of fact, the licensee or permittee is entitled to a decision on the record after the opportunity for an agency hearing pursuant to sections 556 and 557 of title 5. Any such decision made by the Administrator shall be subject to judicial review as provided in chapter 7 of title 5.
+(3) The licensee or permittee to whom a license or permit is issued or transferred shall be deemed to have accepted the terms, conditions, and restrictions in the license or permit if the licensee or permittee does not notify the Administrator within 60 days after receipt of the license or permit of each term, condition, or restriction with which the licensee or permittee takes exception. The licensee or permittee may, in addition to such objections as may be raised under applicable provisions of law, object to any term, condition, or restriction on the ground that the term, condition, or restriction is inconsistent with this chapter or the regulations promulgated thereunder. If, after the Administrator takes final action on these objections, thelicensee or permittee demonstrates that a dispute remains on a material issue of fact, the licensee or permittee is entitled to a decision on the record after the opportunity for an agency hearing pursuant to sections 556 and 557 of title 5. Any such decision made by the Administrator shall be subject to judicial review as provided in chapter 7 of title 5.
 
 #### (c) Modification and revision of terms, conditions, and restrictions
 
@@ -38,7 +38,7 @@ Before issuing or transferring a license for exploration or permit for commercia
 
 (3) The Administrator shall establish, by regulation, guidelines for a determination of the scale or extent of a proposed modification or revision for which any or all license or permit application requirements and procedures, including a public hearing, shall apply. Any increase in the size of the area, or any change in the location of an area, to which an exploration plan or a recovery plan applies, except an incidental increase or change, must be made by application for another license or permit.
 
-(4) The procedures set forth in subsection (b)(3) of this section shall apply with respect toany modification under this subsection in the same manner, and to the same extent, as if such modification were an initial term, condition, or restriction proposed by the Administrator.
+(4) The procedures set forth in subsection (b)(3) of this section shall apply with respect to any modification under this subsection in the same manner, and to the same extent, as if such modification were an initial term, condition, or restriction proposed by the Administrator.
 
 #### (d) Prior consultations
 

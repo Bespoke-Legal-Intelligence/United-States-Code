@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 100–89, title I, §107, Aug. 18, 1987, 101 Stat. 668, which prohibited gaming activities prohibitedby the laws of the State of Texas on the reservation and on lands of the tribe, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 100–89, title I, §107, Aug. 18, 1987, 101 Stat. 668, which prohibited gaming activities prohibited by the laws of the State of Texas on the reservation and on lands of the tribe, was omitted from the Code as being of special and not general application.
 

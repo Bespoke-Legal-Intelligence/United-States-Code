@@ -40,7 +40,7 @@ If the State elects not to participate on the Council or elects to end its parti
 
 (2) The office of the Council shall be located in the State of Alaska.
 
-(3) Except as provided in subsection (d), within any one fiscal year, the Federal Government shall pay only 50 per centum of the costs and other expenses other than salaries, benefits, et cetera of members, incurred by the Council in carrying out its duties under this Act.
+(3) Except as provided in subsection (d), within any one fiscal year, the Federal Government shall pay only 50 per centum of the costs andother expenses other than salaries, benefits, et cetera of members, incurred by the Council in carrying out its duties under this Act.
 
 (4) The Council is authorized to use, with their consent, the services, equipment, personnel, and facilities of Federal and other agencies with or without reimbursement. Each department and agency of the Federal Government is authorized and directed to cooperate fully in making its services, equipment, personnel, and facilities available to the Council. Personnel detailed to the Council in accordance with the provisions of this subsection shall be under the direction of the Cochairman during any period such staff is so detailed.
 
@@ -86,7 +86,7 @@ The Council shall adopt such internal rules of procedure as it deems necessary. 
 
 #### (j) Cooperative planning
 
-(1) The Council shall recommend cooperative planning zones, consisting of areas of the State in which the management of lands or resources by one member materially affects the management of lands or resources of another member or members including, but not limited to, such areas as the Northwest Arctic, the North Slope, and Bristol Bay. Federal members of the Councilare authorized and encouraged to enter into cooperative agreements with Federal agencies, with State and local agencies, and with Native Corporations providing for mutual consultation, review, and coordination of resource management plans and programs within such zones.
+(1) The Council shall recommend cooperative planning zones, consisting of areas of the State in which the management of lands or resources by one member materially affects the management of lands or resources of another member or members including, but not limited to, such areas as the Northwest Arctic, the North Slope, and Bristol Bay. Federal members of the Council are authorized and encouraged to enter into cooperative agreements with Federal agencies, with State and local agencies, and with NativeCorporations providing for mutual consultation, review, and coordination of resource management plans and programs within such zones.
 
 (2) With respect to lands, waters, and interests therein which are subject to a cooperative agreement in accordance with this subsection, the Secretary, in addition to any requirement of applicable law, may provide technical and other assistance to the landowner with respect to fire control, trespass control, law enforcement, resource use, and planning. Such assistance may be provided without reimbursement if the Secretary determines that to do so would further the purposes of the cooperative agreement and would be in the public interest.
 
@@ -116,7 +116,7 @@ The Council shall establish and implement a public participation program to assi
 
 Section 5703 of title 5, referred to in subsec. (e)(3), was amended generally by Pub. L. 94–22, §4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

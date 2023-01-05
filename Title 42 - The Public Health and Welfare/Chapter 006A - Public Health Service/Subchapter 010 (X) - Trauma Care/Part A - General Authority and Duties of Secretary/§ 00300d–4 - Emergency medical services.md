@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary of Transportation, the Secretary of Health and Human Services, and the Secretary of Homeland Security, acting through the Under Secretary for Emergency Preparedness and Response, shall establish a Federal Interagency Committee on Emergency Medical Services.
+&emsp;The Secretary of Transportation, the Secretary of Health and Human Services, and theSecretary of Homeland Security, acting through the Under Secretary for Emergency Preparedness and Response, shall establish a Federal Interagency Committee on Emergency Medical Services.
 
 #### (2) Membership
 
@@ -112,7 +112,7 @@ Section was enacted as part of the Safe, Accountable, Flexible, Efficient Transp
 
 #### Prior Provisions
 
-A prior section 300d–4, act July 1, 1944, ch. 373, title XII, §1201, formerly §1205, as added Nov. 16, 1973, Pub.L. 93–154, §2(a), 87 Stat. 597; amended Oct. 21, 1976, Pub. L. 94–573, §6, 90 Stat. 2713, renumbered §1201 and amended Aug. 13, 1981, Pub. L. 97–35, title IX, §902(d)(1), (3), 95 Stat. 560, authorized Secretary to make grants and enter into contracts to support research in emergency medical techniques, methods, devices, and delivery, prior to repeal by Pub. L. 99–117, §12(e), Oct. 7, 1985, 99 Stat. 495.
+A prior section 300d–4, act July 1, 1944, ch. 373, title XII, §1201, formerly §1205, as added Nov. 16, 1973, Pub. L. 93–154, §2(a), 87 Stat. 597; amended Oct. 21, 1976, Pub. L. 94–573, §6, 90 Stat. 2713, renumbered §1201 and amended Aug. 13, 1981, Pub. L. 97–35, title IX, §902(d)(1), (3), 95 Stat. 560, authorized Secretary to make grants and enter into contracts to support research in emergency medical techniques, methods, devices, and delivery, prior to repeal by Pub. L. 99–117, §12(e), Oct. 7, 1985, 99 Stat. 495.
 
 #### Amendments
 

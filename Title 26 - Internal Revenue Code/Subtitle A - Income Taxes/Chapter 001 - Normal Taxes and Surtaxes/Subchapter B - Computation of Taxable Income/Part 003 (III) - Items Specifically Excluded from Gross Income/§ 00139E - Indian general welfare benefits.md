@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (1) Indian tribal government
 
-&emsp;For purposes of this section, the term "Indian tribal government" includes any agenciesor instrumentalities of an Indian tribal government and any Alaska Native regional or village corporation, as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
+&emsp;For purposes of this section, the term "Indian tribal government" includes any agencies or instrumentalities of an Indian tribal government and any Alaska Native regional or village corporation, as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
 
 #### (2) Dependent
 

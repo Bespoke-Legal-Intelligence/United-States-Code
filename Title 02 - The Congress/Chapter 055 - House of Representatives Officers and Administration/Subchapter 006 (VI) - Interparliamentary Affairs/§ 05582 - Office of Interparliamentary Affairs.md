@@ -26,7 +26,7 @@ The duties of the Office are as follows:
 
 #### (1) Appointment
 
-&emsp;The Office shall be headed by the Director of Interparliamentary Affairs of the House of Representatives (hereafter in this section referred to as the "Director"), who shall be appointed by the Speaker without regard to political affiliation and solely on the basis of fitness to perform the duties of the position. Any person so appointed shall serve at the pleasure of the Speaker.
+&emsp;The Office shall be headed by the Director of Interparliamentary Affairs of the House ofRepresentatives (hereafter in this section referred to as the "Director"), who shall be appointed by the Speaker without regard to political affiliation and solely on the basis of fitness to perform the duties of the position. Any person so appointed shall serve at the pleasure of the Speaker.
 
 #### (2) Compensation
 
@@ -40,7 +40,7 @@ The duties of the Office are as follows:
 
 #### (2) Compensation
 
-&emsp;Any employee of the Office appointed under this subsection shall be paid at an annual ratedetermined by the Director with the approval of the Speaker or in accordance with policies approved by the Speaker.
+&emsp;Any employee of the Office appointed under this subsection shall be paid at an annual rate determined by the Director with the approval of the Speaker or in accordance with policies approved by the Speaker.
 
 #### (e) Omitted
 

@@ -66,7 +66,7 @@ Primary System Defined.—For purposes of this section, the terms "primary syste
 
 #### References in Text
 
-This Act, referred to in subsec. (d), probably means Pub. L. 89–285, Oct. 22, 1965, 79 Stat. 1028, as amended, known as the Highway Beautification Act of 1965, which enacted section 136 of this title and provisions set out as notes under sections 131 and 135 of this title and amended sections 131 and 319 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
+This Act, referred to in subsec. (d), probably means Pub. L. 89–285, Oct. 22, 1965, 79 Stat. 1028, known as the Highway Beautification Act of 1965, which enacted section 136 of this title and provisions set out as notes under sections 131 and 135 of this title and amended sections 131 and 319 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (o), means May 5, 1976, the date of approval of Pub. L. 94–280.
 
@@ -114,7 +114,7 @@ Subsecs. (o) to (q). Pub. L. 94–280, §122(b), added subsecs. (o) to (q).
 
 <b>1975</b>—Subsec. (b). Pub. L. 93–643, §109(a), required reduction of Federal-aid highway funds apportioned on or after Jan. 1, 1975, or after the expiration of the next regular session of the State legislature, whichever is later, to any State which the Secretary determines has not made provision for effective control of the erection and maintenance along the Interstate System and the primary system of those additional outdoor advertising signs, displays, and devices which are more than 660 feet off the nearest edge of the right-of-way, located outside of urban areas, visible from the main traveled way of the system, and erected with the purpose of their message being read from such main traveled way.
 
-Subsec. (c). Pub. L. 93–643, §109(b), substituted "Effective control means that such signs, displays, or devices after January 1, 1968, if located within six hundred and sixty feet of the right-of-way and, on or after July 1, 1975, or after the expiration of the next regular session of the State legislature, whichever is later, if located beyond six hundred and sixty feet of the right-of-way, located outside of urban areas, visible from the main traveled way of the system, and erected with the purpose of their message being read from such main traveled way," for "Effective control means that after January 1, 1968, such signs, displays, and devices", deleted in cl. (1) "other" before "official signs", and added cl. (4).
+Subsec. (c). Pub. L. 93–643, §109(b), substituted "Effective control means that such signs, displays, or devicesafter January 1, 1968, if located within six hundred and sixty feet of the right-of-way and, on or after July 1, 1975, or after the expiration of the next regular session of the State legislature, whichever is later, if located beyond six hundred and sixty feet of the right-of-way, located outside of urban areas, visible from the main traveled way of the system, and erected with the purpose of their message being read from such main traveled way," for "Effective control means that after January 1, 1968, such signs, displays, and devices", deleted in cl. (1) "other" before "official signs", and added cl. (4).
 
 Subsec. (g). Pub. L. 93–643, §109(c), substituted first sentence reading "Just compensation shall be paid upon the removal of any outdoor advertising sign, display, or device lawfully erected under State law." for prior first sentence which provided for payment of just compensation for removal of outdoor advertising signs, displays, and devices (1) lawfully in existence on Oct. 22, 1965, (2) lawfully on any highway made a part of the interstate or primary system on or after Oct. 22, 1965, and before Jan. 1, 1968, and (3) lawfully erected on or after Jan. 1, 1968.
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L.
 
 #### Service Club, Charitable Association, or Religious Service Signs
 
-Pub. L. 114–94, div. A, title I, §1425, Dec. 4, 2015, 129 Stat. 1425, provided that: "Notwithstanding section 131 of title 23, United States Code, and part 750 of title 23,Code of Federal Regulations (or successor regulations), if a State notifies the Federal Highway Administration, the State may allow the maintenance of a sign of a service club, charitable association, or religious service organization—
+Pub. L. 114–94, div. A, title I, §1425, Dec. 4, 2015, 129 Stat. 1425, provided that: "Notwithstanding section 131 of title 23, United States Code, and part 750 of title 23, Code of Federal Regulations (or successor regulations), if a State notifies the Federal Highway Administration,the State may allow the maintenance of a sign of a service club, charitable association, or religious service organization—
 
 &emsp;"(1) that exists on the date of enactment of this Act \[Dec. 4, 2015\] (or was removed in the 3-year period ending on such date of enactment); and
 

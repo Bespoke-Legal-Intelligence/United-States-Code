@@ -22,7 +22,7 @@ Eligibility of Caregivers for Veterans.—A caregiver or family caregiver shall 
 
 (f)
 
-Eligibility of Foreign Service Officers on Mandatory Home Leave.—A Foreign Serviceofficer on mandatory home leave may be permitted to use military lodging referred to in subsection (h).
+Eligibility of Foreign Service Officers on Mandatory Home Leave.—A Foreign Service officer on mandatory home leave may be permitted to use military lodging referred to in subsection (h).
 
 (g)
 

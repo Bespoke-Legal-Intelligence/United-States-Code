@@ -68,7 +68,7 @@
 
 (e) Except as provided in subsections (c) and (f), the court, on request of the United States trustee, may convert a case under this chapter to a case under chapter 7 of this title or may dismiss a case under this chapter, whichever is in the best interest of creditors and the estate if the debtor in a voluntary case fails to file, within fifteen days after the filing of the petition commencing such case or such additional time as the court may allow, the information required by paragraph (1) of section 521(a), including a list containing the names and addresses of the holders of the twenty largest unsecured claims (or of all unsecured claims if there are fewer than twenty unsecured claims), and the approximate dollar amounts of each of such claims.
 
-(f) Notwithstanding any other provision of this section, a case may not be converted to a caseunder another chapter of this title unless the debtor may be a debtor under such chapter.
+(f) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2630; Pub. L. 98–353, title III, §505, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §§224, 256, Oct. 27, 1986, 100 Stat. 3102, 3114; Pub. L. 103–394, title II, §217(c), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §442(a), Apr. 20, 2005, 119 Stat. 115; Pub. L. 111–327, §2(a)(33), Dec. 22, 2010, 124 Stat. 3561.)
 
@@ -100,7 +100,7 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(4)(G), are
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(1). Pub. L. 111–327, §2(a)(33)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Except as provided in paragraph (2) of this subsection, subsection (c) of this section, and section 1104(a)(3), on request of a party in interest, and after notice and a hearing, absent unusual circumstances specifically identified by the court that establish that the requested conversion or dismissal is not in the best interests of creditors and the estate, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, if the movant establishes cause."
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–327, §2(a)(33)(A)(i), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: "Except as provided in paragraph (2) of this subsection, subsection (c) of this section, and section 1104(a)(3), on request of a party in interest, and after notice and a hearing, absent unusual circumstances specifically identified by the court that establish that the requested conversion or dismissal is not in the best interests of creditors and the estate, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, if the movant establishes cause."
 
 Subsec. (b)(2). Pub. L. 111–327, §2(a)(33)(A)(ii)(I), inserted introductory provisions and struck out former introductory provisions which read as follows: "The relief provided in paragraph (1) shall not be granted absent unusual circumstances specifically identified by the court that establish that such relief is not in the best interests of creditors and the estate, if the debtor or another party in interest objects and establishes that—".
 

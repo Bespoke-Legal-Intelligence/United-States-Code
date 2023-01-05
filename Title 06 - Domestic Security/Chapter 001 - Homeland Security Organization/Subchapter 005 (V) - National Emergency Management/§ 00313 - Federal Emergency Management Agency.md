@@ -26,9 +26,11 @@ There is in the Department the Federal Emergency Management Agency, headed by an
 
 &emsp;&emsp;(F) under the leadership of the Secretary, coordinate with the Commandant of the Coast Guard, the Director of Customs and Border Protection, the Director of Immigration and Customs Enforcement, the National Operations Center, and other agencies and offices in the Department to take full advantage of the substantial range of resources in the Department;
 
-&emsp;&emsp;(G) provide funding, training, exercises, technical assistance, planning, and other assistance to build tribal, local, State, regional, and national capabilities (including communications capabilities), necessary to respond to a natural disaster, act of terrorism, or other man-made disaster; and
+&emsp;&emsp;(G) provide funding, training, exercises, technical assistance, planning, and other assistance to build tribal, local, State, regional, and national capabilities (including communications capabilities), necessary to respond to a natural disaster, act of terrorism, or other man-made disaster;
 
-&emsp;&emsp;(H) develop and coordinate the implementation of a risk-based, all-hazards strategy for preparedness that builds those common capabilities necessary to respond to natural disasters, acts of terrorism, and other man-made disasters while also building the unique capabilities necessary to respond to specific types of incidents that pose the greatest risk to our Nation.
+&emsp;&emsp;(H) develop and coordinate the implementation of a risk-based, all-hazards strategy for preparedness that builds those common capabilities necessary to respond to natural disasters, acts of terrorism, and other man-made disasters while also building the unique capabilities necessary to respond to specific types of incidents that pose the greatest risk to our Nation; and
+
+&emsp;&emsp;(I) identify, integrate, and implement the needs of children, including children within under-served communities, into activities to prepare for, protect against, respond to, recover from, and mitigate against the risk of natural disasters, acts of terrorism, and other disasters, including catastrophic incidents, including by appointing a technical expert, who may consult with relevant outside organizations and experts, as necessary, to coordinate such integration, as necessary.
 
 #### (c) Administrator
 
@@ -78,17 +80,21 @@ There is in the Department the Federal Emergency Management Agency, headed by an
 
 &emsp;&emsp;Nothing in this paragraph shall be construed as affecting the authority of the Secretary under this chapter.
 
-(Pub. L. 107–296, title V, §503, as added Pub. L. 109–295, title VI, §611(11), Oct. 4, 2006, 120 Stat. 1396.)
+(Pub. L. 107–296, title V, §503, as added Pub. L. 109–295, title VI, §611(11), Oct. 4, 2006, 120 Stat. 1396; amended Pub. L. 117–130, §3, June 6, 2022, 136 Stat. 1229.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(5)(B), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
+This chapter, referred to in subsec. (c)(5)(B), was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland SecurityAct of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 101 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 313, Pub. L. 107–296, title V, §503, Nov. 25, 2002, 116 Stat. 2213; Pub. L. 108–276, §3(c)(3), July 21, 2004, 118 Stat. 853; Pub. L. 109–417, title III, §301(c)(2), Dec. 19, 2006, 120 Stat. 2854, related to the transfer of certain functions to the Secretary of Homeland Security, prior to repeal by Pub. L. 109–295, title VI, §611(3), Oct. 4, 2006, 120 Stat. 1395.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(2)(I). Pub. L. 117–130 added subpar. (I).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

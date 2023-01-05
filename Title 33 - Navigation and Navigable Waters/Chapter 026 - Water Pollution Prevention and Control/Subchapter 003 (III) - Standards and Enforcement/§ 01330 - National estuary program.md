@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In any case where the Administrator determines, on his own initiative or upon nomination of a State under paragraph (1), that the attainment or maintenance of that water quality in an estuary which assures protection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities, in and on the water, requires the control of point and nonpoint sources of pollution to supplement existing controls of pollution in more than one State, the Administrator shall select such estuary and convene a management conference.
+&emsp;&emsp;In any case where the Administrator determines, on his own initiative or upon nomination of a State under paragraph (1), that the attainment or maintenance of that water quality in an estuary which assuresprotection of public water supplies and the protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife, and allows recreational activities, in and on the water, requires the control of point and nonpoint sources of pollution to supplement existing controls of pollution in more than one State, the Administrator shall select such estuary and convene a management conference.
 
 #### (B) Priority consideration
 
@@ -42,7 +42,7 @@ The purposes of any management conference convened with respect to an estuary un
 
 &emsp;(6) monitor the effectiveness of actions taken pursuant to the plan; and
 
-&emsp;(7) review all Federal financial assistance programs and Federal development projects in accordance with the requirements of Executive Order 12372, as in effect on September 17, 1983, to determine whether such assistance program or project would be consistent withand further the purposes and objectives of the plan prepared under this section.
+&emsp;(7) review all Federal financial assistance programs and Federal development projects in accordance with the requirements of Executive Order 12372, as in effect on September 17, 1983, to determine whether such assistance program or project would be consistent with and further the purposes and objectives of the plan prepared under this section.
 
 > For purposes of paragraph (7), such programs and projects shall not be limited to the assistance programs and development projects subject to Executive Order 12372, but may include any programs listed in the most recent Catalog of Federal Domestic Assistance which may have an effect on the purposes and objectives of the plan developed under this section.
 
@@ -66,7 +66,7 @@ In developing a conservation and management plan under this section, the managem
 
 #### (e) Period of conference
 
-A management conference convened under this section shall be convened for a period not to exceed 5 years. Such conference may be extended by the Administrator, and if terminated after the initial period, may be reconvened by the Administrator at any time thereafter, as may be necessary to meet the requirements of this section.
+A management conference convened under this section shall be convened for a period not to exceed 5 years. Such conference may be extended by the Administrator, and if terminatedafter the initial period, may be reconvened by the Administrator at any time thereafter, as may be necessary to meet the requirements of this section.
 
 #### (f) Approval and implementation of plans
 
@@ -154,7 +154,7 @@ Any person (including a State, interstate, or regional agency or entity) that re
 
 #### (B) Competitive awards
 
-&emsp;&emsp;Not less than 15 percent of the amount made available under this subsection for a fiscal year shall be used by the Administrator for making competitive awards described in subsection (g)(4).
+&emsp;&emsp;Not less than 15 percent of the amount made available under this subsection for afiscal year shall be used by the Administrator for making competitive awards described in subsection (g)(4).
 
 #### (j) Research
 

@@ -12,7 +12,7 @@ To be eligible to receive a grant under section 300ff–11 of this title, an eli
 
 &emsp;(2) that the eligible area has an HIV health services planning council and has entered into intergovernmental agreements pursuant to section 300ff–12 of this title, and has developed or will develop the comprehensive plan in accordance with section 300ff–12(b)(3)(B) <sup>1</sup> of this title;
 
-&emsp;(3) that entities within the eligible area that receive funds under a grant under this subpart will maintain appropriate relationships with entities in the eligible area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>2</sup> 300ff–14(b)(3) <sup>1</sup> and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosedwith HIV/AIDS and individuals knowledgeable of their HIV status but not in care;
+&emsp;(3) that entities within the eligible area that receive funds under a grant under this subpart will maintain appropriate relationships with entities in the eligible area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>2</sup> 300ff–14(b)(3) <sup>1</sup> and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care;
 
 &emsp;(4) that the chief elected official of the eligible area will satisfy all requirements under section 300ff–14(c) of this title;
 
@@ -44,7 +44,7 @@ To be eligible to receive a grant under section 300ff–11 of this title, an eli
 
 #### (b) Application
 
-An eligible area that desires to receive a grant under section 300ff–13(b) of this title shall prepare and submit to the Secretary an application, in accordance with subsection (c) regarding a single application and grant award, at such time, in such form, and containing such information as the Secretary shall require, including the information required under such subsection and information concerning—
+An eligible area that desires to receive a grant under section 300ff–13(b) of this title shall prepare and submit to the Secretary an application, in accordance with subsection (c) regarding asingle application and grant award, at such time, in such form, and containing such information as the Secretary shall require, including the information required under such subsection and information concerning—
 
 &emsp;(1) the number of individuals to be served within the eligible area with assistance provided under the grant, including the identification of individuals with HIV/AIDS as described in clauses (i) through (iii) of section 300ff–13(b)(2)(A) of this title;
 
@@ -80,7 +80,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 #### (3) Distribution by Secretary
 
-&emsp;Not later than 45 days after receiving an application that meets the requirements of subsection (a) from an eligible area, the Secretary shall distribute to such eligible area theamounts awarded under the grant for which the application was submitted.
+&emsp;Not later than 45 days after receiving an application that meets the requirements of subsection (a) from an eligible area, the Secretary shall distribute to such eligible area the amounts awarded under the grant for which the application was submitted.
 
 #### (4) Redistribution
 
@@ -112,7 +112,7 @@ An eligible area that desires to receive a grant under section 300ff–13(b) of 
 
 &emsp;&emsp;(A) assess the amount of the charge in the discretion of the grantee, including imposing only a nominal charge for the provision of services, subject to the provisions of such paragraph regarding public schedules and regarding limitations on the maximum amount of charges; and
 
-&emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing the amount of the charge, subject to such provisions.
+&emsp;&emsp;(B) take into consideration the medical expenses of individuals in assessing theamount of the charge, subject to such provisions.
 
 #### (3) Applicability of limitation on amount of charge
 

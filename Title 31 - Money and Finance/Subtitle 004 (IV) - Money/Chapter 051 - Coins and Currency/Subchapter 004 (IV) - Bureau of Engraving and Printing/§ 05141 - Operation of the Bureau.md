@@ -1,6 +1,6 @@
 ### §5141. Operation of the Bureau
 
-(a) The Secretary of the Treasury shall prepare and submit to the President an annualbusiness-type budget for the Bureau of Engraving and Printing.
+(a) The Secretary of the Treasury shall prepare and submit to the President an annual business-type budget for the Bureau of Engraving and Printing.
 
 (b)(1) The Secretary shall maintain in the Bureau an integrated accounting system with internal controls that—
 

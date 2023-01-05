@@ -2,17 +2,17 @@
 
 (a)
 
-Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 4021 of this title, carry out prototype projects that are directly relevant to enhancing the mission effectiveness of military personnel and the supporting platforms, systems, components, or materials proposed to be acquired or developed by the Department of Defense, or to improvement of platforms, systems, components, or materials in use by the armed forces.
+Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense may, under the authority of section 4021 of this title, carry out prototype projects that are directly relevant to enhancing the mission effectiveness of personnel of the Department of Defense or improving platforms, systems, components, or materials proposed to be acquired or developed by the Department of Defense, or to improvement of platforms, systems, components, or materials in use by the armed forces.
 
 (2) The authority of this section—
 
-&emsp;(A) may be exercised for a transaction for a prototype project, and any follow-on production contract or transaction that is awarded pursuant to subsection (f), that is expected to cost the Department of Defense in excess of $100,000,000 but not in excess of $500,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41, or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
+&emsp;(A) may be exercised for a transaction for a prototype project that is expected to cost the Department of Defense in excess of $100,000,000 but not in excess of $500,000,000 (including all options) only upon a written determination by the senior procurement executive for the agency as designated for the purpose of section 1702(c) of title 41, or, for the Defense Advanced Research Projects Agency or the Missile Defense Agency, the director of the agency that—
 
 &emsp;&emsp;(i) the requirements of subsection (d) will be met; and
 
-&emsp;&emsp;(ii) the use of the authority of this section is essential to promoting the success of the prototype project; and
+&emsp;&emsp;(ii) the use of the authority of this section is essential to promoting the success of the prototype project;
 
-&emsp;(B) may be exercised for a transaction for a prototype project, and any follow-on production contract or transaction that is awarded pursuant to subsection (f), that is expected to cost the Department of Defense in excess of $500,000,000 (including all options) only if—
+&emsp;(B) may be exercised for a transaction for a prototype project that is expected to cost the Department of Defense in excess of $500,000,000 (including all options) only if—
 
 &emsp;&emsp;(i) the Under Secretary of Defense for Research and Engineering or the Under Secretary of Defense for Acquisition and Sustainment determines in writing that—
 
@@ -20,7 +20,17 @@ Authority.—(1) Subject to paragraph (2), the Director of the Defense Advanced 
 
 &emsp;&emsp;&emsp;(II) the use of the authority of this section is essential to meet critical national security objectives; and
 
-&emsp;&emsp;(ii) the congressional defense committees are notified in writing at least 30 days before such authority is exercised.
+&emsp;&emsp;(ii) the congressional defense committees are notified in writing at least 30 days before such authority is exercised; and
+
+&emsp;(C) may be exercised for a transaction for a follow-on production contract or transaction that is awarded pursuant to subsection (f) and expected to cost the Department of Defense in excess of $100,000,000 (including all options) only if a covered official—
+
+&emsp;&emsp;(i) determines in writing that—
+
+&emsp;&emsp;&emsp;(I) the requirements of subsection (d) will be met; and
+
+&emsp;&emsp;&emsp;(II) the use of the authority of this section is essential to meet critical national security objectives; and
+
+&emsp;&emsp;(ii) notifies the congressional defense committees in writing of the determinations required under clause (i) at the time such authority is exercised.
 
 (3) The authority of a senior procurement executive or director of the Defense Advanced Research Projects Agency or Missile Defense Agency under paragraph (2)(A), and the authority of the Under Secretaries of Defense under paragraph (2)(B), may not be delegated.
 
@@ -52,7 +62,7 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 
 &emsp;(A) There is at least one nontraditional defense contractor or nonprofit research institution participating to a significant extent in the prototype project.
 
-&emsp;(B) All significant participants in the transaction other than the Federal Government are small businesses (including small businesses participating in a program described under section 9 of the Small Business Act (15 U.S.C. 638)) or nontraditional defense contractors.
+&emsp;(B) All significant participants in the transaction other than the Federal Government are small businesses (including small businessesparticipating in a program described under section 9 of the Small Business Act (15 U.S.C. 638)) or nontraditional defense contractors.
 
 &emsp;(C) At least one third of the total cost of the prototype project is to be paid out of funds provided by sources other than the Federal Government.
 
@@ -70,15 +80,43 @@ Appropriate Use of Authority.—(1) The Secretary of Defense shall ensure that n
 
 Definitions.—In this section:
 
-&emsp;(1) The term "nontraditional defense contractor" has the meaning given the term under section 3014 of this title.
+&emsp;(1) The term "covered official" means—
 
-&emsp;(2) The term "small business" means a small business concern as defined under section 3 of the Small Business Act (15 U.S.C. 632).
+&emsp;&emsp;(A) a service acquisition executive;
+
+&emsp;&emsp;(B) the Director of the Defense Advanced Research Projects Agency;
+
+&emsp;&emsp;(C) the Director of the Missile Defense Agency;
+
+&emsp;&emsp;(D) the Undersecretary of Defense for Acquisition and Sustainment; or
+
+&emsp;&emsp;(E) the Undersecretary of Defense for Research and Engineering.
+
+&emsp;(2) The term "nontraditional defense contractor" has the meaning given the term under section 3014 of this title.
+
+&emsp;(3) The term "service acquisition executive" has the meaning given that term in section 101(a) of this title.
+
+&emsp;(4) The term "small business" means a small business concern as defined under section 3 of the Small Business Act (15 U.S.C. 632).
+
+&emsp;(5) The term "prototype project" includes a project that addresses—
+
+&emsp;&emsp;(A) a proof of concept, model, or process, including a business process;
+
+&emsp;&emsp;(B) reverse engineering to address obsolescence;
+
+&emsp;&emsp;(C) a pilot or novel application of commercial technologies for defense purposes;
+
+&emsp;&emsp;(D) agile development activity;
+
+&emsp;&emsp;(E) the creation, design, development, or demonstration of operational utility; or
+
+&emsp;&emsp;(F) any combination of subparagraphs (A) through (E).
 
 (f)
 
 Follow-on Production Contracts or Transactions.—(1) A transaction entered into under this section for a prototype project may provide for the award of a follow-on production contract or transaction to the participants in the transaction. A transaction includes all individual prototype subprojects awarded under the transaction to a consortium of United States industry and academic institutions.
 
-(2) A follow-on production contract or transaction provided for in a transaction under paragraph (1) may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of section 2304 <sup>1</sup> of this title, if—
+(2) A follow-on production contract or transaction provided for in a transaction under paragraph (1) may be awarded to the participants in the transaction without the use of competitive procedures, notwithstanding the requirements of chapter 221 of this title and even if explicit notification was not listed within the request for proposal for the transaction if—
 
 &emsp;(A) competitive procedures were used for the selection of parties for participation in the transaction; and
 
@@ -98,13 +136,39 @@ Authority To Provide Prototypes and Follow-on Production Items as Government-fur
 
 Applicability of Procurement Ethics Requirements.—An agreement entered into under the authority of this section shall be treated as a Federal agency procurement for the purposes of chapter 21 of title 41.
 
-(Added Pub. L. 114–92, div. A, title VIII, §815(a)(1), Nov. 25, 2015, 129 Stat. 893, §2371b; amended Pub. L. 115–91, div. A, title II, §216, title VIII, §864, Dec. 12, 2017, 131 Stat. 1328, 1494; Pub. L. 115–232, div. A, title II, §211, Aug. 13, 2018, 132 Stat. 1674; Pub. L. 116–92, div. A, title XVII, §1731(a)(46), Dec. 20, 2019, 133 Stat. 1814; renumbered §4022 and amended Pub. L. 116–283, div. A, title XVIII, §§1841(b)(1), (2)(C), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4243, 4294; Pub. L. 117–81, div. A, title VIII, §821(b), title XVII, §1701(u)(2)(B), (F)(i)(IV), Dec. 27, 2021, 135 Stat. 1825, 2151.)
+(i)
+
+Pilot Authority for Use of Other Transactions for Installation or Facility Prototyping.—
+
+&emsp;(1)
+
+In general.—The Secretary of Defense or the Secretary of a military department may establish a pilot program under which the Secretary may, under the authority of this section, carry out prototype projects that are directly relevant to enhancing the ability of the Department of Defense to prototype the design, development, or demonstration of new construction techniques or technologies to improve military installations or facilities (as such terms are defined in section 2801 of this title).
+
+&emsp;(2)
+
+Limits.—In carrying out prototype projects under the pilot program established under paragraph (1)—
+
+&emsp;&emsp;(A) not more than two prototype projects may begin to be carried out per fiscal year under such pilot program; and
+
+&emsp;&emsp;(B) the aggregate value of all transactions entered into under such pilot program may not exceed $200,000,000.
+
+&emsp;(3)
+
+Sunset.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), the authority to carry out prototype projects under the pilot program established under paragraph (1) shall terminate on September 30, 2025.
+
+&emsp;&emsp;(B)
+
+Ongoing project exception.—Subparagraph (A) shall not apply with respect to prototype projects being carried out under the pilot program established under paragraph (1) on the date described in subparagraph (A).
+
+(Added Pub. L. 114–92, div. A, title VIII, §815(a)(1), Nov. 25, 2015, 129 Stat. 893, §2371b; amended Pub. L. 115–91, div. A, title II, §216, title VIII, §864, Dec. 12, 2017, 131 Stat. 1328, 1494; Pub. L. 115–232, div. A, title II, §211, Aug. 13, 2018, 132 Stat. 1674; Pub. L. 116–92, div. A, title XVII, §1731(a)(46), Dec. 20, 2019, 133 Stat. 1814; renumbered §4022 and amended Pub. L. 116–283, div. A, title XVIII, §§1841(b)(1), (2)(C), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4243, 4294; Pub. L. 117–81, div. A, title VIII, §821(b), title XVII, §1701(u)(2)(B), (F)(i)(IV), Dec. 27, 2021, 135 Stat. 1825, 2151; Pub. L. 117–263, div. A, title VIII, §§842, 843, Dec. 23, 2022, 136 Stat. 2717, 2718.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-Section 2304 of this title, referred to in subsec. (f)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (l) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, §1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
 
 Chapter 137 of this title, referred to in subsec. (f)(5), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
 
@@ -113,6 +177,20 @@ Chapter 137 of this title, referred to in subsec. (f)(5), was repealed by Pub. L
 A prior section 4022, act Aug. 10, 1956, ch. 1041, 70A Stat. 233, related to employment of contract surgeons in an emergency, prior to repeal by Pub. L. 98–94, title IX, §932(b)(1), (f) Sept. 24, 1983, 97 Stat. 650, effective Oct. 1, 1983, with continuation provision for existing contracts.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–263, §843(1), substituted "personnel of the Department of Defense or improving" for "military personnel and the supporting".
+
+Subsec. (a)(2). Pub. L. 117–263, §842(1)(A), struck out ", and any follow-on production contract or transaction that is awarded pursuant to subsection (f)," after "a prototype project" in two places.
+
+Subsec. (a)(2)(C). Pub. L. 117–263, §842(1)(B)–(D), added subpar. (C).
+
+Subsec. (e)(1) to (4). Pub. L. 117–263, §842(2), added pars. (1) and (3) and redesignated former pars. (1) and (2) as (2) and (4), respectively.
+
+Subsec. (e)(5). Pub. L. 117–263, §843(2), added par. (5).
+
+Subsec. (f)(2). Pub. L. 117–263, §842(3), substituted "of chapter 221 of this title and even if explicit notification was not listed within the request for proposal for the transaction" for "of section 2304 of this title,".
+
+Subsec. (i). Pub. L. 117–263, §843(3), added subsec. (i).
 
 <b>2021</b>—Pub. L. 116–283, §1841(b)(1), as amended by Pub. L. 117–81, §1701(u)(2)(B), renumbered section 2371b of this title as this section.
 

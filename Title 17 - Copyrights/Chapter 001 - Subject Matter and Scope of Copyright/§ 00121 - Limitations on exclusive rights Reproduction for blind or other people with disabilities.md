@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) has a visual impairment or perceptual or reading disability that cannot be improved to give visual function substantially equivalent to that of a person who has no such impairment or disability and so is unable to read printed works to substantially the same degree as a person without an impairment or disability; or
 
-&emsp;&emsp;(C) is otherwise unable, through physical disability, to hold or manipulate a book or to focus or move the eyes to the extent that would be normally acceptable for reading; and
+&emsp;&emsp;(C) is otherwise unable, through physical disability, to hold or manipulate a book orto focus or move the eyes to the extent that would be normally acceptable for reading; and
 
 &emsp;(4) "print instructional materials" has the meaning given under section 674(e)(3)(C) of the Individuals with Disabilities Education Act.
 

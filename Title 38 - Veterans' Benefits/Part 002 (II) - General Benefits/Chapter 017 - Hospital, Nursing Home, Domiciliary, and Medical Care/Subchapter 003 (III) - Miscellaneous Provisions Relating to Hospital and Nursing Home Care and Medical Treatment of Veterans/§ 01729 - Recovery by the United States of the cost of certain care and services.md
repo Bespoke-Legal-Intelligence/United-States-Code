@@ -22,7 +22,7 @@
 
 &emsp;(A) the individual's not having paid such deductible or copayment with respect to care or services furnished under this chapter shall not preclude recovery or collection under this section; and
 
-&emsp;(B) the amount that the United States may collect or recover under this section shall bereduced by the appropriate deductible or copayment amount, or both.
+&emsp;(B) the amount that the United States may collect or recover under this section shall be reduced by the appropriate deductible or copayment amount, or both.
 
 (b)(1) As to the right provided in subsection (a) of this section, the United States shall be subrogated to any right or claim that the individual (or the individual's personal representative, successor, dependents, or survivors) may have against a third party.
 

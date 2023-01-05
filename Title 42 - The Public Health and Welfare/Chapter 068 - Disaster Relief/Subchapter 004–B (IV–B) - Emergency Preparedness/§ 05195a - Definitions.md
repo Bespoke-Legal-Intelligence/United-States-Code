@@ -64,7 +64,7 @@ The terms "national defense" and "defense," <sup>2</sup> as used in the Defense
 
 #### References in Text
 
-The Defense Production Act of 1950, referred to in subsec. (b), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+The Defense Production Act of 1950, referred to in subsec. (b), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering aschapter 55 (§4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -80,7 +80,7 @@ Subsec. (a)(7). Pub. L. 111–351, §3(c)(1), added par. (7) and struck out form
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

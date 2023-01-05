@@ -48,9 +48,9 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title XVIII, §§1807(b)(2)(B), (g)(2), 1809(f)(2), (g)(2), (i)(2), Jan. 1, 2021, 134 Stat. 4157, 4159, 4161, 4162, substituted "Regulations on production, warehousing, and supply distribution functions" for "Regulations on procurement, production, warehousing, and supply distribution functions" in item 2202 and struck out items 2212 "Obligations for contract services: reporting in budget object classes", 2213 "Limitation on acquisition of excess supplies", 2216 "Defense Modernization Account", 2217 "Comparable budgeting for common procurement weapon systems", and 2229b "Comptroller General assessment of acquisition programs and initiatives".
+<b>2021</b>—Pub. L. 116–283, div. A, title XVIII, §§1807(b)(2)(B), (g)(2), 1809(f)(2), (g)(2), (i)(2), Jan. 1, 2021,134 Stat. 4157, 4159, 4161, 4162, substituted "Regulations on production, warehousing, and supply distribution functions" for "Regulations on procurement, production, warehousing, and supply distribution functions" in item 2202 and struck out items 2212 "Obligations for contract services: reporting in budget object classes", 2213 "Limitation on acquisition of excess supplies", 2216 "Defense Modernization Account", 2217 "Comparable budgeting for common procurement weapon systems", and 2229b "Comptroller General assessment of acquisition programs and initiatives".
 
-<b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(a)(33), Dec. 20, 2019, 133 Stat. 1814, substituted "ComptrollerGeneral assessment of acquisition programs and initiatives" for "Comptroller General assessment of acquisition programs and related initiatives" in item 2229b.
+<b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(a)(33), Dec. 20, 2019, 133 Stat. 1814, substituted "Comptroller General assessment of acquisition programs and initiatives" for "Comptroller General assessment of acquisition programs and related initiatives" in item 2229b.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §833(b), Aug. 13, 2018, 132 Stat. 1859, added item 2229b.
 
@@ -142,7 +142,7 @@ Matters covered.—Such plan shall include, at a minimum, detailed descriptions 
 
 &emsp;&emsp;"(C) procedures to monitor the progress of the Department of Defense in meeting performance goals and measures under subparagraph (A);
 
-&emsp;&emsp;"(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibility of such plans and budgets with the strategic management plan of the Department of Defense; and
+&emsp;&emsp;"(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibilityof such plans and budgets with the strategic management plan of the Department of Defense; and
 
 &emsp;&emsp;"(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
 

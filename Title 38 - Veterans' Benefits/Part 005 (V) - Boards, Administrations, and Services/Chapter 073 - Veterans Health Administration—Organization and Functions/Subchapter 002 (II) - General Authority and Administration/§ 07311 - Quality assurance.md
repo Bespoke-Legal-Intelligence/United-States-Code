@@ -160,7 +160,7 @@ Pub. L. 102–139, title I, §101, Oct. 28, 1991, 105 Stat. 742, provided that:
 
 "(a)
 
-Regulations for Standards of Performance in Department of Veterans Affairs Laboratories.—(1) Within the 120-day period beginning on the date on which the Secretary of Health and Human Services promulgates final regulations to implement the standards required by section 353 of the Public Health Service Act (42 U.S.C. 263a), the Secretary of Veterans Affairs, in accordance with the Secretary's authority under title 38, United States Code, shall prescribe regulations to assure consistent performance by medical facility laboratories under the jurisdiction of the Secretary of valid and reliable laboratory examinations and other procedures. Such regulations shall be prescribed in consultation with the Secretary of Health and Human Services and shall establish standards equal to that applicable to other medical facility laboratories in accordance with the requirements of section 353(f) of the Public Health Service Act.
+Regulations for Standards of Performance in Department of Veterans Affairs Laboratories.—(1) Within the 120-day period beginning on the date on which the Secretary of Health and Human Services promulgates final regulations to implement the standards required by section 353 of the Public Health Service Act\(42 U.S.C. 263a), the Secretary of Veterans Affairs, in accordance with the Secretary's authority under title 38, United States Code, shall prescribe regulations to assure consistent performance by medical facility laboratories under the jurisdiction of the Secretary of valid and reliable laboratory examinations and other procedures. Such regulations shall be prescribed in consultation with the Secretary of Health and Human Services and shall establish standards equal to that applicable to other medical facility laboratories in accordance with the requirements of section 353(f) of the Public Health Service Act.
 
 "(2) Such regulations—
 
@@ -170,7 +170,7 @@ Regulations for Standards of Performance in Department of Veterans Affairs Labor
 
 "(b)
 
-Report.—Within the 180-day period beginning on the date on which the Secretary of Veterans Affairsprescribes regulations required by subsection (a), the Secretary shall submit to the appropriate committees of the Congress a report on those regulations.
+Report.—Within the 180-day period beginning on the date on which the Secretary of Veterans Affairs prescribes regulations required by subsection (a), the Secretary shall submit to the appropriate committees of the Congress a report on those regulations.
 
 "(c)
 

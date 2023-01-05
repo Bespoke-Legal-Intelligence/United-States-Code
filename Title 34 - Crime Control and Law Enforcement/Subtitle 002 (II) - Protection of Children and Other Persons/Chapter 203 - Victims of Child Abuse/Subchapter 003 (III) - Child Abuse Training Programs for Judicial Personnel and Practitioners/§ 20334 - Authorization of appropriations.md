@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-There is authorized to be appropriated to carry out this subchapter $2,300,000 for each of fiscal years 2014 through 2018.
+There is authorized to be appropriated to carry out this subchapter $2,300,000 for each of fiscal years 2023 through 2027 <sup>1</sup>
 
 #### (b) Use of funds
 
@@ -10,21 +10,23 @@ Of the amounts appropriated in subsection (a), not less than 80 percent shall be
 
 #### (c) Limitation
 
-No funds are authorized to be appropriated for a fiscal year to carry out this subchapter unless the aggregate amount appropriated to carry out title II of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5611 et seq.) <sup>1</sup> for such fiscal year is not less than the aggregate amount appropriated to carry out such title for the preceding fiscal year.
+No funds are authorized to be appropriated for a fiscal year to carry out this subchapter unless the aggregate amount appropriated to carry out title II of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5611 et seq.) <sup>2</sup> for such fiscal year is not less than the aggregate amount appropriated to carry out such title for the preceding fiscal year.
 
-(Pub. L. 101–647, title II, §224, Nov. 29, 1990, 104 Stat. 4798; Pub. L. 103–322, title IV, §40156(b)(1), Sept. 13, 1994, 108 Stat. 1923; Pub. L. 106–386, div. B, title III, §1302(b), Oct. 28, 2000, 114 Stat. 1511; Pub. L. 113–4, title XI, §1105, Mar. 7, 2013, 127 Stat. 135.)
+(Pub. L. 101–647, title II, §224, Nov. 29, 1990, 104 Stat. 4798; Pub. L. 103–322, title IV, §40156(b)(1), Sept. 13, 1994, 108 Stat. 1923; Pub. L. 106–386, div. B, title III, §1302(b), Oct. 28, 2000, 114 Stat. 1511; Pub. L. 113–4, title XI, §1105, Mar. 7, 2013, 127 Stat. 135; Pub. L. 117–103, div. W, title XIII, §1303, Mar. 15, 2022, 136 Stat. 927.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109. Title II of the Act was classified principally to subchapter II (§5611 et seq.) of chapter 72 of Title 42, The Public Health and Welfare, priorto editorial reclassification as subchapter II (§11111 et seq.) of chapter 111 of this title. For complete classification of this Act to the Code, see Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (c), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109. Title II of the Act was classified principally to subchapter II (§5611 et seq.) of chapter 72 of Title 42, The Public Health and Welfare, prior to editorial reclassification as subchapter II (§11111 et seq.) of chapter 111 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 Section was formerly classified to section 13024 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–103 substituted "subchapter $2,300,000 for each of fiscal years 2023 through 2027" for "subchapter $2,300,000 for each of fiscal years 2014 through 2018."
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–4 substituted "$2,300,000 for each of fiscal years 2014 through 2018." for "$2,300,000 for each of fiscal years 2001 through 2005."
 
@@ -46,5 +48,13 @@ Section was formerly classified to section 13024 of Title 42, The Public Health 
 
 &emsp;"(2) such sums as may be necessary to carry out this chapter in each of fiscal years 1992, 1993, and 1994."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

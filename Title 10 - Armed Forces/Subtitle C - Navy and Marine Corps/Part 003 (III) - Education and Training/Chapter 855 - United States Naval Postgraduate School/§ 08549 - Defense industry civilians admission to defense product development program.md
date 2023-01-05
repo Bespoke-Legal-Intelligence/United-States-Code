@@ -32,7 +32,7 @@ Tuition.—The President of the school shall charge tuition for students enrolle
 
 (f)
 
-Standards of Conduct.—While receiving instruction at the school, students enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
+Standards of Conduct.—While receiving instruction at the school, students enrolled under this section, to the extent practicable, aresubject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
 
 (g)
 
@@ -70,7 +70,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Request for Increase in Number of Defense Industry Civilians Authorized for Admission
 
-Pub. L. 112–239, div. A, title V, §589(c), Jan. 2, 2013, 126 Stat. 1769, as amended by Pub. L. 115–232, div. A, title VIII, §809(b)(10), Aug. 13, 2018, 132 Stat. 1841, provided that: "If the Secretary of Defense determines that it is in the best interest of the Department of Defense to increase the maximum number of defense industry employees authorized to be enrolled in the Naval Defense Development Program or the Air Force Institute of Technology at any one time, as specified in sections8549(a) and 9414a(a) of title 10, United States Code, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a request for such an increase, including draft legislation to effectuate the increase."
+Pub. L. 112–239, div. A, title V, §589(c), Jan. 2, 2013, 126 Stat. 1769, as amended by Pub. L. 115–232, div. A, title VIII, §809(b)(10), Aug. 13, 2018, 132 Stat. 1841, provided that: "If the Secretary of Defense determines that it is in the best interest of the Department of Defense to increase the maximum number of defense industry employees authorized to be enrolled in the Naval Defense Development Program or the Air Force Institute of Technology at any one time, as specified in sections 8549(a) and 9414a(a) of title 10, United States Code, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a request for such an increase, including draft legislation to effectuate the increase."
 
 #### Program Evaluation and Report
 

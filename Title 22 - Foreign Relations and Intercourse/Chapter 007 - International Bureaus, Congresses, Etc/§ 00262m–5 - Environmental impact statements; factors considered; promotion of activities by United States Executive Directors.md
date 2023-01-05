@@ -10,7 +10,7 @@
 
 &emsp;(3) increases in the proportion of staff with professional training and experience in ecology and related areas and in the areas of anthropological and sociological impact analysis to ensure systematic appraisal and monitoring of environmental and sociocultural impacts of projects and policies;
 
-&emsp;(4) active and systematic encouragement of participation by borrowing countries nongovernmental environmental, community and indigenous peoples' organizations at all stages of preparations for country lending strategies, policy based loans, and loans that may have adverse environmental or sociocultural impacts; and
+&emsp;(4) active and systematic encouragement of participation by borrowing countries nongovernmental environmental, community andindigenous peoples' organizations at all stages of preparations for country lending strategies, policy based loans, and loans that may have adverse environmental or sociocultural impacts; and
 
 &emsp;(5) full availability to concerned or affected nongovernmental and community organization, early in the preparation phase and at all subsequent stages of planning of full documentary information concerning details of design and potential environmental and sociocultural impacts of proposed loans.
 

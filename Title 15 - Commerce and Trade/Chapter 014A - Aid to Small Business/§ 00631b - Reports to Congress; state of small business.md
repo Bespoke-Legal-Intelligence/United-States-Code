@@ -2,7 +2,7 @@
 
 #### (a) Report on Small Business and Competition
 
-The President shall transmit to the Congress not later than January 20 of each year a Reporton Small Business and Competition which shall—
+The President shall transmit to the Congress not later than January 20 of each year a Report on Small Business and Competition which shall—
 
 &emsp;(1) examine the current role of small business in the economy on an industry-by-industry basis;
 
@@ -46,11 +46,11 @@ The information and data required to be reported pursuant to subsection (a) shal
 
 The Internal Revenue Code, referred to in subsec. (a)(4), is classified to Title 26, Internal Revenue Code.
 
-The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 Section 632(p) of this title, referred to in subsec. (e)(3), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, §1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
@@ -70,7 +70,7 @@ Subsec. (e)(3). Pub. L. 106–50, §602(3), added par. (3) relating to small bus
 
 Subsec. (e)(3). Pub. L. 105–135, §604(c), added par. (3).
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–574 added par. (2) and struck out former par. (2) which read as follows:"present current and historical data on production, employment, investment, and other economic variables for small business in the economy as a whole and for small business in each sector of the economy;".
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–574 added par. (2) and struck out former par. (2) which read as follows: "present current and historical data on production, employment, investment, and other economic variables for small business in the economy as a whole and for small business in each sector of the economy;".
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–533 and Pub. L. 100–590 added subsecs. (e) which were identical, except that the subsec. (e) added by Pub. L. 100–533, which is set out as text of this section, contained the phrase ", by gender," in par. (1).
 

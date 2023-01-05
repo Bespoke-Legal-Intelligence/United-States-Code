@@ -32,7 +32,7 @@ Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21,
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 13203(l) of Pub. L. 110–246 effective June 18, 2008, see section 13204(a) of Pub. L. 110–246, set out as a note under section 2 of this title.
 

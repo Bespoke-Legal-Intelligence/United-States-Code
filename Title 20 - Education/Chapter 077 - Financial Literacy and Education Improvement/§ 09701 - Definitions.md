@@ -92,7 +92,7 @@ Sec. 5. <i>Administration of the Council</i>. (a) To the extent permitted by law
 
 Sec. 6. <i>Termination of the Council</i>. Unless extended by the President, the Council shall terminate 2 years from the date of this order.
 
-Sec. 7. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the Council, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
+Sec. 7. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] (Act), may apply to the Council, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -190,7 +190,7 @@ Sec. 5. <i>Administration of the Council</i>. (a) To the extent permitted by law
 
 Sec. 6. \[<i>Termination of the Council</i>.\] Unless extended by the President, the Council shall terminate on January 29, 2013.
 
-Sec. 7. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the "Act"), may apply to the Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
+Sec. 7. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] (the "Act"), may apply to the Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -240,7 +240,7 @@ Sec. 4. <i>Functions of the Council</i>. To assist in implementing the policy se
 
 (a) collect information and views concerning financial capability from:
 
-(i) executive departments and agencies (agencies), including members of the Financial Literacy and Education Commission established under title V of the Fair and Accurate Credit Transactions Act of 2003 (20 U.S.C. 9702);
+(i) executive departments and agencies (agencies), including members of the Financial Literacy and Education Commission established under title V of theFair and Accurate Credit Transactions Act of 2003 (20 U.S.C. 9702);
 
 (ii) State, local, territorial, and tribal officials; and
 
@@ -282,7 +282,7 @@ Sec. 5. <i>Administration of the Council</i>. (a) To the extent permitted by law
 
 Sec. 6. <i>Termination of the Council</i>. Unless extended by the President, the Council shall terminate 2 years after the date of this order.
 
-Sec. 7. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the "Act"), may apply to the Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
+Sec. 7. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] (the "Act"), may apply to the Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 

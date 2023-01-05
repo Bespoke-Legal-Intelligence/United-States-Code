@@ -2,7 +2,7 @@
 
 For purposes of carrying out the activities under this subchapter, there are authorized to be appropriated such sums as are necessary for fiscal years 2011 through 2015.
 
-(Pub. L. 106–559, title I, §107, formerly §106, Dec. 21, 2000, 114 Stat. 2781; renumbered §107 andamended Pub. L. 111–211, title II, §§214(a)(2)(A), 242(b)(3)(A), July 29, 2010, 124 Stat. 2270, 2292.)
+(Pub. L. 106–559, title I, §107, formerly §106, Dec. 21, 2000, 114 Stat. 2781; renumbered §107 and amended Pub. L. 111–211, title II, §§214(a)(2)(A), 242(b)(3)(A), July 29, 2010, 124 Stat. 2270, 2292.)
 
 #### <b>Editorial Notes</b>
 

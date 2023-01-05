@@ -22,7 +22,7 @@
 
 (e) An appropriately rated member of the National Guard who performs an aerial flight under competent orders may receive credit for attending drill for the purposes of this section, if the flight prevented him from attending a regularly scheduled drill.
 
-(f)(1)Under regulations to be prescribed by the Secretary of the Army or Secretary of the AirForce, as the case may be, a member of the National Guard may—
+(f)(1)Under regulations to be prescribed by the Secretary of the Army or Secretary of the Air Force, as the case may be, a member of the National Guard may—
 
 &emsp;(A) without his consent, but with the pay and allowances provided by law; or
 
@@ -124,7 +124,7 @@ Memorandum for the Secretary of Defense \[and\] the Secretary of Homeland Securi
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Robert T. Stafford Disaster Relief and Emergency Assistance Act, 42 U.S.C. 5121–5207 (the "Stafford Act"), and section 502 of title 32, United States Code, I hereby order as follows:
 
-Section 1. <i>Policy</i>. Consistent with the nationwide emergency declaration concerning the coronavirus disease 2019 (COVID–19) pandemic on March 13, 2020, it is the policy of my Administration to combat and respond to COVID–19 with the full capacity and capability of the Federal Government to protect and support ourfamilies, schools, and businesses, and to assist State, local, Tribal, and territorial governments to do the same, to the extent authorized by law.
+Section 1. <i>Policy</i>. Consistent with the nationwide emergency declaration concerning the coronavirus disease 2019 (COVID–19) pandemic on March 13, 2020, it is the policy of my Administration to combat and respond to COVID–19 with the full capacity and capability of the Federal Government to protect and support our families, schools, and businesses, and to assist State, local, Tribal, and territorial governments to do the same, to the extent authorized by law.
 
 Sec. 2. <i>Support of Operations or Missions to Prevent and Respond to the Spread of COVID–19</i>. (a) The Secretary of Defense shall, to the maximum extent feasible and consistent with mission requirements (including geographic proximity), request pursuant to 32 U.S.C. 502(f) that all State and territorial governors order National Guard forces to perform duty to fulfill mission assignments, on a fully reimbursable basis, that the Federal Emergency Management Agency (FEMA) issues to the Department of Defense for the purpose of supporting State, local, Tribal, and territorial emergency assistance efforts under the Stafford Act.
 

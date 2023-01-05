@@ -78,7 +78,7 @@ In making grants under this section, the Secretary shall give priority to plans 
 
 #### (g) Collaboration and consultation
 
-The Chief of the Forest Service, the Chief of the Natural Resources Conservation Service,and relevant stakeholders shall collaborate and consult on an ongoing basis regarding—
+The Chief of the Forest Service, the Chief of the Natural Resources Conservation Service, and relevant stakeholders shall collaborate and consult on an ongoing basis regarding—
 
 &emsp;(1) administration of the program established under this section; and
 

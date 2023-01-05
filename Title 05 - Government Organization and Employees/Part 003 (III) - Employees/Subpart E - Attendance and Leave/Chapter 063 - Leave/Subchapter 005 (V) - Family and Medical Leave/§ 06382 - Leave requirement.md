@@ -52,9 +52,9 @@
 
 (F)(i) An employee may not take leave under this paragraph unless the employee agrees (in writing), before the commencement of such leave, to work for the applicable employing agency for not less than a period of 12 weeks beginning on the date such leave concludes.
 
-&emsp;(ii) The head of the agency shall waive the requirement in clause (i) in any instance where the employee is unable to return to work because of the continuation, recurrence, or onset of a serious health condition (including mental health), related to the applicable birth or placement of a child, of the employee or the child.
+(ii) The head of the agency shall waive the requirement in clause (i) in any instance where the employee is unable to return to work because of the continuation, recurrence, or onset of a serious health condition (including mental health), related to the applicable birth or placement of a child, of the employee or the child.
 
-&emsp;(iii) The head of the employing agency may require that an employee who claims to be unable to return to work because of a health condition described under clause (ii) provide certification supporting such claim by the health care provider of the employee or the child (as the case may be). The employee shall provide such certification to the head in a timely manner.
+(iii) The head of the employing agency may require that an employee who claims to be unable to return to work because of a health condition described under clause (ii) provide certification supporting such claim by the health care provider of the employee or the child (as the case may be). The employee shall provide such certification to the head in a timely manner.
 
 (G)(i) If an employee fails to return from paid leave provided under this paragraph after the date such leave concludes, the employing agency may recover, from such employee, an amount equal to the total amount of Government contributions paid by the agency under section 8906 on behalf of the employee for maintaining such employee's health coverage under chapter 89 during the period of such leave.
 
@@ -74,7 +74,7 @@
 
 (3) In any case in which the necessity for leave under subsection (a)(1)(E) is foreseeable, whether because the spouse, or a son, daughter, or parent, of the employee is on covered active duty, or because of notification of an impending call or order to covered active duty, the employee shall provide such notice to the employer as is reasonable and practicable.
 
-(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 20; amended Pub. L. 110–181, div.A, title V, §585(b)(2)–(3)(C), Jan. 28, 2008, 122 Stat. 132; Pub. L. 110–417, \[div. A\], title X, §1061(b)(2), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title V, §565(b)(1)(B), (4), Oct. 28, 2009, 123 Stat. 2311, 2312; Pub. L. 116–92, div. F, title LXXVI, §7602(a), (b), Dec. 20, 2019, 133 Stat. 2304, 2305; Pub. L. 116–283, div. A, title XI, §1103(f)(3), Jan. 1, 2021, 134 Stat. 3889.)
+(Added Pub. L. 103–3, title II, §201(a)(1), Feb. 5, 1993, 107 Stat. 20; amended Pub. L. 110–181, div. A, title V, §585(b)(2)–(3)(C), Jan. 28, 2008, 122 Stat. 132; Pub. L. 110–417, \[div. A\], title X, §1061(b)(2), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title V, §565(b)(1)(B), (4), Oct. 28,2009, 123 Stat. 2311, 2312; Pub. L. 116–92, div. F, title LXXVI, §7602(a), (b), Dec. 20, 2019, 133 Stat. 2304, 2305; Pub. L. 116–283, div. A, title XI, §1103(f)(3), Jan. 1, 2021, 134 Stat. 3889.)
 
 #### <b>Editorial Notes</b>
 

@@ -30,7 +30,7 @@ Any amounts received by the United States as repayment of debts incurred by an i
 
 (Oct. 17, 1940, ch. 888, title IV, §407, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2853.)
 
-#### <b>Editorial Notes</b>
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Codification
 

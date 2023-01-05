@@ -2,7 +2,7 @@
 
 #### (a) Authorization of Federal financial assistance
 
-(1) There are authorized to be appropriated $30,000,000 for fiscal year 1978, $40,000,000 for fiscal year 1979, $20,000,000 for fiscal year 1980, $15,000,000 for fiscal year 1981, $20,000,000 for the fiscal year 1982, and $10,000,000 for each of the fiscal years 1985 through 1988 for purposes of financial assistance to States and local, regional, and interstate authorities for the development and implementation of plans approved by the Administrator under this subchapter (other than the provisions of such plans referred to in section 6943(b) <sup>1</sup> of this title, relating to feasibility planning for municipal waste energy and materials conservation and recovery).
+(1) There are authorized to be appropriated $30,000,000 for fiscal year 1978, $40,000,000 for fiscal year 1979, $20,000,000 for fiscal year 1980, $15,000,000 for fiscal year 1981, $20,000,000 for the fiscal year 1982, and $10,000,000 for each of the fiscal years 1985 through 1988 for purposes of financial assistance to States and local, regional, and interstate authorities for the development and implementation of plans approved by the Administrator under this subchapter (other than the provisions of such plans referred to in section 6943(b) <sup>1</sup> of this title, relating to feasibilityplanning for municipal waste energy and materials conservation and recovery).
 
 (2)(A) The Administrator is authorized to provide financial assistance to States, counties, municipalities, and intermunicipal agencies and State and local public solid waste management authorities for implementation of programs to provide solid waste management, resource recovery, and resource conservation services and hazardous waste management. Such assistance shall include assistance for facility planning and feasibility studies; expert consultation; surveys and analyses of market needs; marketing of recovered resources; technology assessments; legal expenses; construction feasibility studies; source separation projects; and fiscal or economic investigations or studies; but such assistance shall not include any other element of construction, or any acquisition of land or interest in land, or any subsidy for the price of recovered resources. Agencies assisted under this subsection shall consider existing solid waste management and hazardous waste management services and facilities as well as facilities proposed for construction.
 
@@ -18,7 +18,7 @@
 
 > for grants to States (and where appropriate to regional, local, and interstate agencies) to implement programs requiring compliance by solid waste management facilities with the criteria promulgated under section 6944(a) of this title and section 6907(a)(3) of this title and with the provisions of section 6945 of this title. To the extent practicable, such programs shall require such compliance not later than thirty-six months after November 8, 1984.
 
-(3)(A) There is authorized to be appropriated for the fiscal year beginning October 1, 1981, andfor each fiscal year thereafter before October 1, 1986, $4,000,000 for purposes of making grants to States to carry out section 6943(b) <sup>1</sup> of this title. No amount may be appropriated for such purposes for the fiscal year beginning on October 1, 1986, or for any fiscal year thereafter.
+(3)(A) There is authorized to be appropriated for the fiscal year beginning October 1, 1981, and for each fiscal year thereafter before October 1, 1986, $4,000,000 for purposes of making grants to States to carry out section 6943(b) <sup>1</sup> of this title. No amount may be appropriated for such purposes for the fiscal year beginning on October 1, 1986, or for any fiscal year thereafter.
 
 (B) Assistance provided by the Administrator under this paragraph shall be used only for the purposes specified in section 6943(b) <sup>1</sup> of this title. Such assistance may not be used for purposes of land acquisition, final facility design, equipment purchase, construction, startup or operation activities.
 
@@ -36,7 +36,7 @@ The Federal assistance allotted to the States under subsection (b) shall be allo
 
 (1) The Administrator may provide technical assistance to State and local governments for purposes of developing and implementing State plans. Technical assistance respecting resource recovery and conservation may be provided through resource recovery and conservation panels, established in the Environmental Protection Agency under subchapter II, to assist the State and local governments with respect to particular resource recovery and conservation projects under consideration and to evaluate their effect on the State plan.
 
-(2) In carrying out this subsection, the Administrator may, upon request, provide technical assistance to States to assist in the removal or modification of legal, institutional, economic, and other impediments to the recycling of used oil. Such impediments may include laws, regulations, and policies, including State procurement policies, which are not favorable to the recycling of used oil.
+(2) In carrying out this subsection, the Administrator may, upon request, provide technicalassistance to States to assist in the removal or modification of legal, institutional, economic, and other impediments to the recycling of used oil. Such impediments may include laws, regulations, and policies, including State procurement policies, which are not favorable to the recycling of used oil.
 
 (3) In carrying out this subsection, the Administrator is authorized to provide technical assistance to States, municipalities, regional authorities, and intermunicipal agencies upon request, to assist in the removal or modification of legal, institutional, and economic impediments which have the effect of impeding the development of systems and facilities to recovery energy and materials from municipal waste or to conserve energy or materials which contribute to the waste stream. Such impediments may include—
 
@@ -54,7 +54,7 @@ The Federal assistance allotted to the States under subsection (b) shall be allo
 
 #### (f) Assistance to States for discretionary program for recycled oil
 
-(1) The Administrator may make grants to States, which have a State plan approved undersection 6947 of this title, or which have submitted a State plan for approval under such section, if such plan includes the discretionary provisions described in section 6943(b) of this title. Grants under this subsection shall be for purposes of assisting the State in carrying out such discretionary provisions. No grant under this subsection may be used for construction or for the acquisition of land or equipment.
+(1) The Administrator may make grants to States, which have a State plan approved under section 6947 of this title, or which have submitted a State plan for approval under such section, if such plan includes the discretionary provisions described in section 6943(b) of this title. Grants under this subsection shall be for purposes of assisting the State in carrying out such discretionary provisions. No grant under this subsection may be used for construction or for the acquisition of land or equipment.
 
 (2) Grants under this subsection shall be allotted among the States in the same manner as provided in the first sentence of subsection (b).
 
@@ -80,7 +80,7 @@ Section 6943(b) of this title, referred to in subsecs. (a)(1), (3) and (g)(1), w
 
 #### Codification
 
-Section 2(d)–(g) of Pub. L. 98–616, cited as a credit to this section, appears to contain typographical error in that the text of subsec. (f)(1) of section 2007 of the Solid Waste Disposal Act (as added by section 2(i) of Pub. L. 98–616) is also shown as the text of subsec. "(f)(1)" of such section 2. Subsec. (f) of section 2, as set out in the Conference Report (H. Rept. 98–1133) to accompany H.R. 2867 (which became Pub. L. 98–616) read:
+Section 2(d)–(g) of Pub. L. 98–616, cited as a credit to this section, appears to contain typographical error inthat the text of subsec. (f)(1) of section 2007 of the Solid Waste Disposal Act (as added by section 2(i) of Pub. L. 98–616) is also shown as the text of subsec. "(f)(1)" of such section 2. Subsec. (f) of section 2, as set out in the Conference Report (H. Rept. 98–1133) to accompany H.R. 2867 (which became Pub. L. 98–616) read:
 
 "(f) Section 4008(e)(2) of the Solid Waste Disposal Act (relating to special communities) is amended by striking out 'and $1,500,000 for each of the fiscal years 1981 and 1982' and substituting ', $1,500,000 for each of the fiscal years 1981 and 1982, and $500,000 for each of the fiscal years 1985 through 1988'."
 

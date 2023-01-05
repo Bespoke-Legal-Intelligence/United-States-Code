@@ -122,7 +122,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(C) to assist the Government of Nepal in maintaining publication on the Internet of all trade regulations, forms for exporters and importers, tax and tariff rates, and other documentation relating to exporting goods and developing a robust public-private dialogue, through its National Trade Facilitation Committee, for Nepal to identify timelines for implementation of key reforms and solutions, as provided for under the Agreement on Trade Facilitation of the World Trade Organization; and
 
-&emsp;&emsp;(D) to increase access to guides for importers and exporters, through publication of such guides on the Internet, including rules and documentation for United States tariff preference programs.
+&emsp;&emsp;(D) to increase access to guides for importers and exporters, through publication of such guides on the Internet, including rulesand documentation for United States tariff preference programs.
 
 #### (e) Reporting requirement
 

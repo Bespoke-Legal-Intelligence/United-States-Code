@@ -22,9 +22,9 @@ Regulations necessary or appropriate to carry out actions proposed in any statem
 
 &emsp;&emsp;(B) the President transmits a document to the House of Representatives and to the Senate containing a copy of the text of such requirement, amendment, or recommendation, together with—
 
-&emsp;&emsp;&emsp;(i) a draft of a bill to amend or repeal provisions of existing statutes or to createstatutory authority and an explanation as to how the bill and any proposed administrative action affect existing law, and
+&emsp;&emsp;&emsp;(i) a draft of a bill to amend or repeal provisions of existing statutes or to create statutory authority and an explanation as to how the bill and any proposed administrative action affect existing law, and
 
-&emsp;&emsp;&emsp;(ii) a statement of how the requirement, amendment, or recommendation serves the interests of United States commerce and why the legislative and administrative action is necessary or appropriate to carry out the requirement, amendment, or recommendation, and
+&emsp;&emsp;&emsp;(ii) a statement of how the requirement, amendment, or recommendation serves theinterests of United States commerce and why the legislative and administrative action is necessary or appropriate to carry out the requirement, amendment, or recommendation, and
 
 &emsp;&emsp;(C) the bill submitted by the President is enacted into law.
 

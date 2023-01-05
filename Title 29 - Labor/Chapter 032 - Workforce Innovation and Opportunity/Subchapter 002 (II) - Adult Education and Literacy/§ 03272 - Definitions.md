@@ -18,7 +18,7 @@ In this subchapter:
 
 #### (3) Eligible agency
 
-&emsp;The term "eligible agency" means the sole entity or agency in a State or an outlying arearesponsible for administering or supervising policy for adult education and literacy activities in the State or outlying area, respectively, consistent with the law of the State or outlying area, respectively.
+&emsp;The term "eligible agency" means the sole entity or agency in a State or an outlying area responsible for administering or supervising policy for adult education and literacy activities in the State or outlying area, respectively, consistent with the law of the State or outlying area, respectively.
 
 #### (4) Eligible individual
 

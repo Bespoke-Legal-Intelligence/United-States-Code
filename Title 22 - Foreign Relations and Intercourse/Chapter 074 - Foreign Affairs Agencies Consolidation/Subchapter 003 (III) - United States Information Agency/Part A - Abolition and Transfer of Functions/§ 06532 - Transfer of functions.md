@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are transferred to the Secretary of State all functions of the Director of the United States Information Agency and all functions ofthe United States Information Agency and any office or component of such agency, under any statute, reorganization plan, Executive order, or other provision of law, as of the day before the effective date of this subchapter.
+There are transferred to the Secretary of State all functions of the Director of the United States Information Agency and all functions of the United States Information Agency and any office or component of such agency, under any statute, reorganization plan, Executive order, or other provision of law, as of the day before the effective date of this subchapter.
 
 #### (b) Exception
 
@@ -20,5 +20,5 @@ For the effective date of this subchapter, referred to in subsec. (a), meaning t
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 

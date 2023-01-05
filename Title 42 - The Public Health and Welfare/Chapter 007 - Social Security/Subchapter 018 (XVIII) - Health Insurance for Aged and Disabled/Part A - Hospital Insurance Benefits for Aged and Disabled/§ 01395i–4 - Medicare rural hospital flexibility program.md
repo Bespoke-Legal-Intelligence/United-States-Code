@@ -188,7 +188,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (A) Grants to hospitals
 
-&emsp;&emsp;The Secretary may award grants to hospitals that have submitted applications in accordance with subparagraph (C) to assist eligible small rural hospitals in meeting the costs of implementing data systems required to meet requirements established under the medicare program pursuant to amendments made by the Balanced Budget Act of 1997 and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
+&emsp;&emsp;The Secretary may award grants to hospitals that have submitted applications in accordance with subparagraph (C) to assist eligible small rural hospitals in meeting the costs of implementing data systems required to meet requirements established under the medicare program pursuant to amendmentsmade by the Balanced Budget Act of 1997 and to assist such hospitals in participating in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
 
 #### (B) Eligible small rural hospital defined
 
@@ -208,7 +208,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (E) Use of funds
 
-&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staffon computer information systems, to offset costs related to the implementation of prospective payment systems and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
+&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staff on computer information systems, to offset costs related to the implementation of prospective payment systems and to participate in delivery system reforms under the provisions of and amendments made by the Patient Protection and Affordable Care Act, such as value-based purchasing programs, accountable care organizations under section 1395jjj of this title, the National pilot program on payment bundling under section 1395cc–4 of this title, and other delivery system reform programs determined appropriate by the Secretary.
 
 #### (F) Reports
 
@@ -314,7 +314,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (F) Eligible critical access hospital defined
 
-&emsp;&emsp;For purposes of this paragraph, the term "eligible critical access hospital" means a critical access hospital that has an average daily acute census of less than 0.5 and an average daily swing bed census of greater than 10.0.
+&emsp;&emsp;For purposes of this paragraph, the term "eligible critical access hospital" means acritical access hospital that has an average daily acute census of less than 0.5 and an average daily swing bed census of greater than 10.0.
 
 #### (h) Grandfathering provisions
 
@@ -328,7 +328,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (3) State authority to waive 35-mile rule
 
-&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection (c)(2)(B)(i)(II), as in effect before such date,the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
+&emsp;In the case of a facility that was designated as a critical access hospital before January 1, 2006, and was certified by the State as being a necessary provider of health care services to residents in the area under subsection (c)(2)(B)(i)(II), as in effect before such date, the authority under such subsection with respect to any redesignation of such facility shall continue to apply notwithstanding the amendment made by section 405(h)(1) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
 
 #### (i) Waiver of conflicting part A provisions
 
@@ -440,7 +440,7 @@ Pub. L. 103–432, §102(b)(2)(A)(i), redesignated subsec. (k) as (l).
 
 Subsec. (f)(1)(A). Pub. L. 101–508, §4008(d)(3), inserted before semicolon at end ", or is located in a county whose geographic area is substantially larger than the average geographic area for urban counties in the United States and whose hospital service area is characteristic of service areas of hospitals located in rural areas".
 
-Subsec. (f)(1)(B). Pub. L. 101–508, §4008(d)(2), which directed the substitution of "is a hospital (or, in the case of a facility that closed during the 12-month period that ends on the date the facility applies for such designation, at the time the facility closed)," for "is a hospital," was executed by making the substitution for "is a hospital" to reflect the probable intent of Congress.
+Subsec. (f)(1)(B). Pub. L. 101–508, §4008(d)(2), which directed the substitution of "is a hospital (or, in the caseof a facility that closed during the 12-month period that ends on the date the facility applies for such designation, at the time the facility closed)," for "is a hospital," was executed by making the substitution for "is a hospital" to reflect the probable intent of Congress.
 
 Subsec. (g)(1)(A)(ii). Pub. L. 101–508, §4008(m)(2)(B)(ii), substituted "regional referral center" for "rural referral center".
 

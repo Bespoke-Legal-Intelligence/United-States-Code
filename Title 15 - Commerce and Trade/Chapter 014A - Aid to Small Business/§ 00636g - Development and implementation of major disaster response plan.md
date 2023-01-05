@@ -24,7 +24,7 @@ The report required under subsection (a)(2) shall include—
 
 &emsp;(6) recommendations, if any, on how the Administration can better coordinate its disaster response operations with the operations of other Federal, State, and local entities;
 
-&emsp;(7) any surge plan for the disaster loan program of the Administration in effect on orafter August 29, 2005 (including surge plans for loss verification, loan processing, mailroom, customer service or call center operations, and a continuity of operations plan);
+&emsp;(7) any surge plan for the disaster loan program of the Administration in effect on or after August 29, 2005 (including surge plans for loss verification, loan processing, mailroom, customer service or call center operations, and a continuity of operations plan);
 
 &emsp;(8) the number of full-time equivalent employees and job descriptions for the planning and disaster response staff of the Administration;
 

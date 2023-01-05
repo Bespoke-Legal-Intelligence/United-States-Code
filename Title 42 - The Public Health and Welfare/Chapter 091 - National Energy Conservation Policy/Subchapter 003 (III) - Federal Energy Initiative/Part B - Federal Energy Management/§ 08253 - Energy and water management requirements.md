@@ -129,7 +129,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (3) Plan
 
-&emsp;Not later than 180 days after the date on which guidelines are updated under paragraph (2)(C), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing the manner in which the agency will implement the requirements of paragraph (1), including—
+&emsp;Not later than 180 days after the date on which guidelines are updated under paragraph\(2)(C), in a report submitted by the agency under section 8258(a) of this title, each agency shall submit to the Secretary a plan describing the manner in which the agency will implement the requirements of paragraph (1), including—
 
 &emsp;&emsp;(A) how the agency will designate personnel primarily responsible for achieving the requirements; and
 
@@ -343,7 +343,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (B) Relationship to funding source
 
-&emsp;&emsp;The guidelines issued by the Secretary under subparagraph (A) shall be appropriateand uniform for measures funded with each type of funding made available under paragraph (10), but may distinguish between different types of measures <sup>1</sup> project size, and other criteria the Secretary determines are relevant.
+&emsp;&emsp;The guidelines issued by the Secretary under subparagraph (A) shall be appropriate and uniform for measures funded with each type of funding made available under paragraph (10), but may distinguish between different types of measures <sup>1</sup> project size, and other criteria the Secretary determines are relevant.
 
 #### (7) Web-based certification
 
@@ -515,7 +515,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (B) Best practices
 
-&emsp;&emsp;The Chief Information Officers Council established under section 3603 of title 44, shall recommend best practices for the attainment of the performance goals established under subparagraph (A), which shall include, to the extent applicable by law, consideration by a Federal agency of the use of—
+&emsp;&emsp;The Chief Information Officers Council established under section 3603 of title 44, shall recommend best practices for the attainment of the performance goals established under subparagraph (A), which shall include,to the extent applicable by law, consideration by a Federal agency of the use of—
 
 &emsp;&emsp;&emsp;(i) energy savings performance contracting; and
 
@@ -539,7 +539,7 @@ The Secretary shall consult with the Secretary of Defense and the Administrator 
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out a program, to be known as the "Federal Energy Management Program" (referred to in this subsection as the"Program"), to facilitate the implementation by the Federal Government of cost-effective energy and water management and energy-related investment practices—
+&emsp;The Secretary shall carry out a program, to be known as the "Federal Energy Management Program" (referred to in this subsection as the "Program"), to facilitate the implementation by the Federal Government of cost-effective energy and water management and energy-related investment practices—
 
 &emsp;&emsp;(A) to coordinate and strengthen Federal energy and water resilience;
 

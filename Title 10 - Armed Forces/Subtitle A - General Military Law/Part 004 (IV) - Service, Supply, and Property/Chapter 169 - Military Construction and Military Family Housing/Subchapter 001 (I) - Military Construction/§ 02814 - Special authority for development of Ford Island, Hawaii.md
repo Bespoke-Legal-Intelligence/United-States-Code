@@ -34,7 +34,7 @@ Lease Authority.—(1) The Secretary of the Navy may lease to any public or priv
 
 (4)(A) The Secretary may provide property support services to or for real property leased under this subsection.
 
-(B) To the extent provided in appropriations Acts, any payment made to the Secretary for services provided under this paragraph shall becredited to the appropriation, account, or fund from which the cost of providing the services was paid.
+(B) To the extent provided in appropriations Acts, any payment made to the Secretary for services provided under this paragraph shall be credited to the appropriation, account, or fund from which the cost of providing the services was paid.
 
 (d)
 
@@ -106,7 +106,7 @@ Inapplicability of Certain Property Management Laws.—Except as otherwise provi
 
 (k)
 
-Scoring.—Nothing in this section shall be construed to waive the applicability to any lease entered into under this section of the budget scorekeeping guidelines used to measure compliance with the Balanced Budget and Emergency Deficit Control Act of 1985.
+Scoring.—Nothing in this section shall be construed to waive the applicability to any leaseentered into under this section of the budget scorekeeping guidelines used to measure compliance with the Balanced Budget and Emergency Deficit Control Act of 1985.
 
 (l)
 
@@ -122,7 +122,7 @@ Property Support Service Defined.—In this section, the term "property support 
 
 #### References in Text
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (k), is title II of Pub.L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (k), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 #### Amendments
 

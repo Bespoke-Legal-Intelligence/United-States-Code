@@ -1,6 +1,6 @@
 ### §285c. Purpose of Institute
 
-The general purpose of the National Institute of Diabetes and Digestive and Kidney Diseases (hereafter in this subpart referred to as the "Institute") is the conduct and support of research, training, health information dissemination, and other programs with respect to diabetes mellitus and endocrine and metabolic diseases, digestive diseases and nutritional disorders, and kidney, urologic, and hematologic diseases.
+The general purpose of the National Institute of Diabetes and Digestive and Kidney Diseases\(hereafter in this subpart referred to as the "Institute") is the conduct and support of research, training, health information dissemination, and other programs with respect to diabetes mellitus and endocrine and metabolic diseases, digestive diseases and nutritional disorders, and kidney, urologic, and hematologic diseases.
 
 (July 1, 1944, ch. 373, title IV, §426, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 841.)
 

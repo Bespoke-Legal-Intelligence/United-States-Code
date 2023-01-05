@@ -8,7 +8,7 @@
 
 &emsp;(ii) waived entirely, if the President finds that such waiver is necessary to act expeditiously during an emergency affecting the national security of the United States.
 
-(B) Public notice of any rule, regulation, or order which is substantive and of general applicability which is promulgated by officers of a State or political subdivision thereof or to State or local boards which have been delegated authority pursuant to title I or II of this Act or this title (other than any provision of such title) <sup>2</sup> which amend <sup>3</sup> another law shall, to the maximum extent practicable, be achieved by publication of such rules, regulations, or orders in a sufficient number of newspapers of generalcirculation calculated to receive widest practicable notice.
+(B) Public notice of any rule, regulation, or order which is substantive and of general applicability which is promulgated by officers of a State or political subdivision thereof or to State or local boards which have been delegated authority pursuant to title I or II of this Act or this title (other than any provision of such title) <sup>2</sup> which amend <sup>3</sup> another law shall, to the maximum extent practicable, be achieved by publication of such rules, regulations, or orders in a sufficient number of newspapers of general circulation calculated to receive widest practicable notice.
 
 (3) In addition to the requirements of paragraph (2) and to the maximum extent practicable, an opportunity for oral presentation of data, views, and arguments shall be afforded and such opportunity shall be afforded prior to the effective date of such rule, regulation, or order, but in all cases such opportunity shall be afforded no later than 45 days, and no later than 10 days (in the case of a waiver of the entire comment period under paragraph (2) (ii)), after such date. A transcript shall be made of any oral presentation.
 
@@ -26,7 +26,7 @@
 
 This Act, referred to in subsec. (a)(1), (2)(B), (4), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. Title I of the Act is classified principally to subchapter I (§6211 et seq.) of this chapter. Section 103 of the Act was classified to section 6212 of this title, prior to repeal by Pub. L. 114–113, div. O, title I, §101(a), Dec. 18, 2015, 129 Stat. 2987. Title II of the Act is classified generally to subchapter II (§6271 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-This title, referred to in subsec. (a)(1), (2)(B), is title V of Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 956, which is classified principally to this subchapter. For complete classification of title V to the Code, see Tables.
+This title, referred to in subsec. (a)(1), (2)(B), is title V of Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 956, which isclassified principally to this subchapter. For complete classification of title V to the Code, see Tables.
 
 The Economic Stabilization Act of 1970, referred to in subsec. (b), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
 

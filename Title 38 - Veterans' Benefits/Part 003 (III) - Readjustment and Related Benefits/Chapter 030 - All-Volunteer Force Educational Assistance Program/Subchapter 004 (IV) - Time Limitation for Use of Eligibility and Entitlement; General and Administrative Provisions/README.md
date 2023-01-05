@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03031 - Time limitation for use of eligibility and entitlement 1](%C2%A7%2003031%20-%20Time%20limitation%20for%20use%20of%20eligibility%20and%20entitlement%201.md)
+- [&sect; 03031 - Time limitation for use of eligibility and entitlement](%C2%A7%2003031%20-%20Time%20limitation%20for%20use%20of%20eligibility%20and%20entitlement.md)
 - [&sect; 03032 - Limitations on educational assistance for certain individuals](%C2%A7%2003032%20-%20Limitations%20on%20educational%20assistance%20for%20certain%20individuals.md)
 - [&sect; 03033 - Bar to duplication of educational assistance benefits](%C2%A7%2003033%20-%20Bar%20to%20duplication%20of%20educational%20assistance%20benefits.md)
 - [&sect; 03034 - Program administration](%C2%A7%2003034%20-%20Program%20administration.md)

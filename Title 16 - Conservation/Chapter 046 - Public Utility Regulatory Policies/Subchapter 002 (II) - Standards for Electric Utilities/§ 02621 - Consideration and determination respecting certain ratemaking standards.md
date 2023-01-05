@@ -68,11 +68,11 @@ The following Federal standards are hereby established:
 
 #### (7) Integrated resource planning
 
-&emsp;Each electric utility shall employ integrated resource planning. All plans or filings before a State regulatory authority to meet the requirements of this paragraph must be updated on a regular basis, must provide the opportunity for public participation and comment,and contain a requirement that the plan be implemented.
+&emsp;Each electric utility shall employ integrated resource planning. All plans or filings before a State regulatory authority to meet the requirements of this paragraph must be updated on a regular basis, must provide the opportunity for public participation and comment, and contain a requirement that the plan be implemented.
 
 #### (8) Investments in conservation and demand management
 
-&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost from reduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for the construction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.
+&emsp;The rates allowed to be charged by a State regulated electric utility shall be such that the utility's investment in and expenditures for energy conservation, energy efficiency resources, and other demand side management measures are at least as profitable, giving appropriate consideration to income lost fromreduced sales due to investments in and expenditures for conservation and efficiency, as its investments in and expenditures for the construction of new generation, transmission, and distribution equipment. Such energy conservation, energy efficiency resources and other demand side management measures shall be appropriately monitored and evaluated.
 
 #### (9) Energy efficiency investments in power generation and supply
 
@@ -112,7 +112,7 @@ The following Federal standards are hereby established:
 
 #### (14) Time-based metering and communications
 
-&emsp;(A) Not later than 18 months after August 8, 2005, each electric utility shall offer each of its customer classes, and provide individual customers upon customer request, a time-based rate schedule under which the rate charged by the electric utility varies during differenttime periods and reflects the variance, if any, in the utility's costs of generating and purchasing electricity at the wholesale level. The time-based rate schedule shall enable the electric consumer to manage energy use and cost through advanced metering and communications technology.
+&emsp;(A) Not later than 18 months after August 8, 2005, each electric utility shall offer each of its customer classes, and provide individual customers upon customer request, a time-based rate schedule under which the rate charged by the electric utility varies during different time periods and reflects the variance, if any, in the utility's costs of generating and purchasing electricity at the wholesale level. The time-based rate schedule shall enable the electric consumer to manage energy use and cost through advanced metering and communications technology.
 
 &emsp;(B) The types of time-based rate schedules that may be offered under the schedule referred to in subparagraph (A) include, among others—
 
@@ -264,7 +264,7 @@ The following Federal standards are hereby established:
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (c), was in the original "this title", meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original "this title", meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, andamended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
 Section 79z–5a of title 15, referred to in subsec. (d)(10)(A)(ii), was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
 

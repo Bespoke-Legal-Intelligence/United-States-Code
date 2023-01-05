@@ -16,7 +16,7 @@ In order to coordinate the policies and operations of the representatives of the
 
 (5) The Council shall make such reports and recommendations to the President as he may from time to time request, or as the Council may consider necessary to more effectively or efficiently accomplish the purposes of this subchapter or the purposes for which the Council is created.
 
-(6) The general policy objectives for the guidance of the United States Executive Director ofthe Bank shall take into account the effect that development assistance loans have upon individual industry sectors and international commodity markets—
+(6) The general policy objectives for the guidance of the United States Executive Director of the Bank shall take into account the effect that development assistance loans have upon individual industry sectors and international commodity markets—
 
 &emsp;(A) to minimize projected adverse impacts; and
 
@@ -84,7 +84,7 @@ By virtue of the authority vested in me by Reorganization Plan No. 4 of 1965 (30
 
 Section 1. <i>Establishment of Council</i>. (a) There is hereby established the National Advisory Council on International Monetary and Financial Policies, hereinafter referred to as the Council.
 
-(b) The Council shall be composed of the following members: the Secretary of the Treasury, who shall bethe chairman of the Council, the Assistant to the President for Economic Affairs, who shall be Deputy Chairman of the Council, the Secretary of State, the United States Trade Representative, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the Administrator of the United States Agency for International Development, and the President of the Export-Import Bank of Washington \[now the Export-Import Bank of the United States\].
+(b) The Council shall be composed of the following members: the Secretary of the Treasury, who shall be the chairman of the Council, the Assistant to the President for Economic Affairs, who shall be Deputy Chairman of the Council, the Secretary of State, the United States Trade Representative, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the Administrator of the United States Agency for International Development, and the President of the Export-Import Bank of Washington \[now the Export-Import Bank of the United States\].
 
 (c) Whenever matters within the jurisdiction of the Council may be of interest to Federal agencies not represented on the Council under Section 1(b) of this order, the Chairman of the Council may consult with such agencies and may invite them to designate representatives to participate in meetings and deliberations of the Council.
 

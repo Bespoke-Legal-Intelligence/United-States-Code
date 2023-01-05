@@ -8,7 +8,7 @@ For purposes of this Act, the term "good subject to USMCA drawback" means any im
 
 &emsp;(2) A good exported to a USMCA country in the same condition as when imported into the United States. For purposes of this paragraph—
 
-&emsp;&emsp;(A) processes such as testing, cleaning, repacking, sorting, marking, or inspecting agood, or preserving it in its same condition, shall not be considered to change the condition of the good, and
+&emsp;&emsp;(A) processes such as testing, cleaning, repacking, sorting, marking, or inspecting a good, or preserving it in its same condition, shall not be considered to change the condition of the good, and
 
 &emsp;&emsp;(B) except for a good referred to in paragraph 11 of Annex 3–B of the USMCA that is exported to Mexico, if a good described in the first sentence of this paragraph is commingled with fungible goods and exported in the same condition, the origin of the good may be determined on the basis of the inventory methods provided for in the regulations implementing this title.<sup>1</sup>
 
@@ -88,7 +88,7 @@ Nothing in this section or the amendments made by it shall be considered to auth
 
 #### (1) In general
 
-&emsp;If the Commissioner of U.S. Customs and Border Protection determines that a claim of preferential tariff treatment has been made with respect to an article for which a claim described in paragraph (2) has been made, the Commissioner may make such adjustments regarding the previous customs treatment of the article as may be warranted.
+&emsp;If the Commissioner of U.S. Customs and Border Protection determines that a claim ofpreferential tariff treatment has been made with respect to an article for which a claim described in paragraph (2) has been made, the Commissioner may make such adjustments regarding the previous customs treatment of the article as may be warranted.
 
 #### (2) Claims described
 
@@ -98,7 +98,7 @@ Nothing in this section or the amendments made by it shall be considered to auth
 
 &emsp;&emsp;(B) a credit against a bond under section 1312(d)(1) of this title.
 
-(Pub. L. 116–113, title II, §208, title V, §501(a)–(d), Jan. 29, 2020, 134 Stat. 52, 67, 68; Pub. L. 116–260,div. O, title VI, §601(c)(1), Dec. 27, 2020, 134 Stat. 2150.)
+(Pub. L. 116–113, title II, §208, title V, §501(a)–(d), Jan. 29, 2020, 134 Stat. 52, 67, 68; Pub. L. 116–260, div. O, title VI, §601(c)(1), Dec. 27, 2020, 134 Stat. 2150.)
 
 #### <b>Editorial Notes</b>
 

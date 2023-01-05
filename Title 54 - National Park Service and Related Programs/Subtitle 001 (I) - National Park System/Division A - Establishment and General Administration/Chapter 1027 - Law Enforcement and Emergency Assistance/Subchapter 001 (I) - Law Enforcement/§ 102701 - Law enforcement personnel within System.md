@@ -6,7 +6,7 @@ Officers and Employees of the Department of the Interior.—
 
 &emsp;(1)
 
-Designation authority of secretary.—The Secretary, pursuant to standards prescribed in regulations by the Secretary, may designate certain officers or employees of the Department of the Interior who shall maintain law and order and protect individuals and property within System units.
+Designation authority of secretary.—The Secretary, pursuant to standards prescribed in regulations by the Secretary, may designate certain officers or employees of the Department of the Interior who shall maintainlaw and order and protect individuals and property within System units.
 
 &emsp;(2)
 

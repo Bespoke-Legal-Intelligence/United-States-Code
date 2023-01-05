@@ -40,7 +40,7 @@ Every person deposing as herein provided shall be cautioned and sworn (or affirm
 
 #### (j) Foreign depositions
 
-If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken before an officer or person designated by the Commission, oragreed upon by the parties by stipulation in writing to be filed with the Commission. All depositions must be promptly filed with the Commission.
+If a witness whose testimony may be desired to be taken by deposition be in a foreign country, the deposition may be taken before an officer or person designated by the Commission, or agreed upon by the parties by stipulation in writing to be filed with the Commission. All depositions must be promptly filed with the Commission.
 
 #### (k) Deposition fees
 
@@ -64,7 +64,7 @@ This chapter, referred to in subsecs. (e) and (k), was in the original "this Act
 
 #### Codification
 
-In subsecs. (a), (b), and (c)(1), "adjudication (as defined in section 551 of title 5)" substituted for "adjudication (as defined in the Administrative Procedure Act)", in subsec. (c)(2) "section 554(d) of title 5" substituted for "subsection (c) of section 5 of the Administrative Procedure Act", and in subsec. (d) "subchapter II of chapter 5, and chapter 7, of title 5" substituted for "the Administrative Procedure Act" and "that Act", respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsecs. (a), (b), and (c)(1), "adjudication (as defined in section 551 of title 5)" substituted for "adjudication (as defined in the Administrative Procedure Act)", in subsec. (c)(2) "section 554(d) of title 5" substituted for "subsection (c) of section 5 of the Administrative Procedure Act", and in subsec. (d) "subchapter II of chapter 5, and chapter 7, of title 5" substituted for"the Administrative Procedure Act" and "that Act", respectively, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

@@ -46,7 +46,7 @@
 
 #### (2) Use
 
-&emsp;Donations accepted pursuant to this subsection may be used for activities of the Office of Field Operations set forth in section 211(g) of this title, which are related to the construction, alteration, operation, or maintenance of a new or existing sea or air port of entry or a new or existing a <sup>1</sup> Federal Government-ownedland port of entry described in paragraph (1), including expenses related to—
+&emsp;Donations accepted pursuant to this subsection may be used for activities of the Office of Field Operations set forth in section 211(g) of this title, which are related to the construction, alteration, operation, or maintenance of a new or existing sea or air port of entry or a new or existing a <sup>1</sup> Federal Government-owned land port of entry described in paragraph (1), including expenses related to—
 
 &emsp;&emsp;(A) land acquisition, design, construction, repair, or alteration; and
 
@@ -54,7 +54,7 @@
 
 #### (3) Limitation on real property donations
 
-&emsp;A donation of real property under this subsection at an existing land port of entry owned by the General Services Administration may only be accepted by the Administrator of General Services.
+&emsp;A donation of real property under this subsection at an existing land port of entry ownedby the General Services Administration may only be accepted by the Administrator of General Services.
 
 #### (4) Sunset
 
@@ -148,7 +148,7 @@
 
 #### (4) Supplemental funding
 
-&emsp;Except as required under section 3307 of title 40, real property donations to the Administrator of General Services made pursuant to subsection <sup>1</sup> (a) and <sup>1</sup> (b) at a GSA-owned land port of entry may be used in addition to any other funding for such purpose, including appropriated funds, property, or services.
+&emsp;Except as required under section 3307 of title 40, real property donations to the Administrator of General Services made pursuant to subsection <sup>1</sup> (a) and <sup>1</sup> (b) at a GSA-owned land port of entry may be used in addition to anyother funding for such purpose, including appropriated funds, property, or services.
 
 #### (5) Return of donations
 
@@ -162,7 +162,7 @@
 
 #### (B) Certification requirement
 
-&emsp;&emsp;Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that <sup>1</sup>
+&emsp;&emsp;Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that <sup>2</sup>
 
 &emsp;&emsp;&emsp;(i) the donation will not be used for the construction of a detention facility or a border fence or wall; and
 
@@ -194,7 +194,7 @@
 
 #### (d) GAO report
 
-The Comptroller General of the United States shall submit an biennial report to the congressional committees referred to in subsection (c)(7) that evaluates—
+The Comptroller General of the United States shall submit an <sup>3</sup> biennial report to the congressional committees referred to in subsection (c)(7) that evaluates—
 
 &emsp;(1) fee agreements entered into pursuant to section 301 of this title;
 
@@ -224,17 +224,17 @@ Subsec. (a)(1)(C)(ii). Pub. L. 117–81, §6410(1)(A)(ii)(III), amended cl. (ii)
 
 Subsec. (a)(3). Pub. L. 117–81, §6410(1)(B), inserted "or -leased" before "land" in introductory provisions.
 
-Subsec. (b). Pub. L. 117–81, §6410(2)(A), which directed substitution of "Administrator of General Services" for "Administrator of the General Services Administration" in the matter preceding par. (1), was executed in par. (1) to reflect the probable intent of Congress.
+Subsec. (b)(1). Pub. L. 117–81, §6410(2)(A), which directed substitution of "Administrator of General Services" for "Administrator of the General Services Administration" in the matter preceding par. (1), was executed in par. (1) to reflect the probable intent of Congress.
 
 Subsec. (b)(1)(C)(i). Pub. L. 117–81, §6410(2)(B)(i), substituted "$75,000,000" for "$50,000,000".
 
-Subsec. (b)(1)(C)(ii). Pub. L. 117–81, §6410(2)(b)(ii), amended cl. (ii) genrally. Prior to amendment, text read as follows: "the fair market value, including anypersonal and real property donations in total, of such port of entry when completed, is $50,000,000 or less.".
+Subsec. (b)(1)(C)(ii). Pub. L. 117–81, §6410(2)(b)(ii), amended cl. (ii) genrally. Prior to amendment, text read as follows: "the fair market value, including any personal and real property donations in total, of such port of entry when completed, is $50,000,000 or less.".
 
 Subsec. (b)(4)(A). Pub. L. 117–81, §6410(2)(C)(i), substituted "terminate on December 31, 2026." for "terminate on the date that is December 16, 2021.".
 
-Subsec. (b)(4)(B). Pub. L. 117–81, §6410(2)(C)(ii), substituted "a proposal accepted for consideration by U.S. Customs and Border Protection or the General Services Administration pursuant to this section or a prior pilot program prior to such termination date" for "carrying out the terms of an agreement under this subsection if such agreement is entered into before such termination date".
+Subsec. (b)(4)(B). Pub. L. 117–81, §6410(2)(C)(ii), substituted "a proposal accepted for consideration by U.S.Customs and Border Protection or the General Services Administration pursuant to this section or a prior pilot program prior to such termination date" for "carrying out the terms of an agreement under this subsection if such agreement is entered into before such termination date".
 
-Subsec. (c)(6)(B). Pub. L. 117–81, §6410(3), substituted cls. (i) and (ii) for "the donation will not be used for the construction of a detention facility or a border fence or wall.".
+Subsec. (c)(6)(B). Pub. L. 117–81, §6410(3), substituted cls. (i) and (ii) for "the donation will not be used for the construction of a detention facility or a border fence or wall."
 
 Subsec. (d). Pub. L. 117–81, §6401(4), substituted "biennial" for "annual" in introductory provisions.
 
@@ -243,4 +243,8 @@ Subsec. (e). Pub. L. 117–81, §6410(d), substituted "Administrator of General 
 <b>2020</b>—Subsec. (b)(4)(A). Pub. L. 116–260, which directed substitution of "December 16, 2021" for "4 years after December 16, 2016", was executed by making the substitution for original text reading "4 years after the date of the enactment of this section", which had been translated as "4 years after December 16, 2016", to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a dash.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "a".</i>
 

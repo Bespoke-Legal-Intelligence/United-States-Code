@@ -40,7 +40,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;&emsp;&emsp;(ii) to assess and report on the cost and program effectiveness of newborn, infant, and young child hearing screening, evaluation, and intervention programs and systems;
 
-&emsp;&emsp;&emsp;(iii) to collect data and report on newborn, infant, and young child hearing screening, evaluation, diagnosis, and intervention programs and systems for applied research, program evaluation, and policy improvement;
+&emsp;&emsp;&emsp;(iii) to collect data and report on newborn, infant, and young child hearingscreening, evaluation, diagnosis, and intervention programs and systems for applied research, program evaluation, and policy improvement;
 
 &emsp;&emsp;&emsp;(iv) to identify the causes and risk factors for congenital hearing loss;
 
@@ -122,7 +122,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) given the opportunity to consider and obtain the full range of such appropriate services, educational and program placements, and other options for the child from highly qualified providers.
 
-&emsp;The <sup>1</sup> term "medical evaluation" means key components performed by a physician including history, examination, and medical decisionmaking focused on symptomatic and related body systems for the purpose of diagnosing the etiology of hearing loss and related physical conditions, and for identifying appropriate treatment and referral options.
+&emsp;(3) The term "medical evaluation" means key components performed by a physician including history, examination, and medical decisionmaking focused on symptomatic and related body systems for the purpose of diagnosing the etiology of hearing loss and related physical conditions, and for identifying appropriate treatment and referral options.
 
 &emsp;(4) The term "medical intervention" means the process by which a physician provides medical diagnosis and direction for medical or surgical treatment options for hearing loss or other medical disorders associated with hearing loss.
 
@@ -132,17 +132,17 @@ For purposes of this section:
 
 #### (1) Statewide newborn and infant hearing screening, evaluation and intervention programs and systems
 
-&emsp;For the purpose of carrying out subsection (a), there are authorized to be appropriated to the Health Resources and Services Administration $17,818,000 for fiscal year 2018, $18,173,800 for fiscal year 2019, $18,628,145 for fiscal year 2020, $19,056,592 for fiscal year 2021, and $19,522,758 for fiscal year 2022.
+&emsp;For the purpose of carrying out subsection (a), there are authorized to be appropriated to the Health Resources and Services Administration $17,818,000 for each of fiscal years 2023 through 2027.
 
 #### (2) Technical assistance, data management, and applied research; Centers for Disease Control and Prevention
 
-&emsp;For the purpose of carrying out subsection (b)(1), there are authorized to be appropriated to the Centers for Disease Control and Prevention $10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022.
+&emsp;For the purpose of carrying out subsection (b)(1), there are authorized to be appropriated to the Centers for Disease Control and Prevention $10,760,000 for each of fiscal years 2023 through 2027.
 
 #### (3) Technical assistance, data management, and applied research; National Institute on Deafness and Other Communication Disorders
 
 &emsp;For the purpose of carrying out subsection (b)(2), there are authorized to be appropriated to the National Institute on Deafness and Other Communication Disorders such sums as may be necessary for fiscal years 2011 through 2015.
 
-(July 1, 1944, ch. 373, title III, §399M, as added Pub. L. 106–310, div. A, title VII, §702, Oct. 17, 2000, 114 Stat. 1121; amended Pub. L. 111–337, §2, Dec. 22, 2010, 124 Stat. 3588; Pub. L. 115–71, §2, Oct. 18, 2017, 131 Stat. 1218.)
+(July 1, 1944, ch. 373, title III, §399M, as added Pub. L. 106–310, div. A, title VII, §702, Oct. 17, 2000, 114 Stat. 1121; amended Pub. L. 111–337, §2, Dec. 22, 2010, 124 Stat. 3588; Pub. L. 115–71, §2, Oct. 18, 2017, 131 Stat. 1218; Pub. L. 117–241, §2, Dec. 20, 2022, 136 Stat. 2332.)
 
 #### <b>Editorial Notes</b>
 
@@ -150,9 +150,15 @@ For purposes of this section:
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1)(A), (3), (c)(1)(B), and (e)(1)(C)(i), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XIX, and XXI of the Act are classified generally tosubchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(3). Pub. L. 117–241, §2(1), inserted par. (3) designation before "The term 'medical evaluation' ".
+
+Subsec. (f)(1). Pub. L. 117–241, §2(2)(A), substituted "$17,818,000 for each of fiscal years 2023 through 2027" for "$17,818,000 for fiscal year 2018, $18,173,800 for fiscal year 2019, $18,628,145 for fiscal year 2020, $19,056,592 for fiscal year 2021, and $19,522,758 for fiscal year 2022".
+
+Subsec. (f)(2). Pub. L. 117–241, §2(2)(B), substituted "$10,760,000 for each of fiscal years 2023 through 2027" for "$10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022".
 
 <b>2017</b>—Pub. L. 115–71, §2(a), substituted "Early detection, diagnosis, and treatment regarding deaf and hard-of-hearing newborns, infants, and young children" for "Early detection, diagnosis, and treatment regarding hearing loss in newborns and infants" in section catchline.
 
@@ -247,6 +253,4 @@ Pub. L. 106–310, div. A, title VII, §701, Oct. 17, 2000, 114 Stat. 1120, prov
 &emsp;"(4) All newborn and infant hearing screening programs and systems should include a component for audiologic rehabilitation, medical and early intervention options that ensures linkage to any new and existing state-wide systems of intervention and rehabilitative services for newborns and infants with hearing loss.
 
 &emsp;"(5) Public policy in regard to newborn and infant hearing screening and intervention should be based on applied research and the recognition that newborns, infants, toddlers, and children who are deaf or hard-of-hearing have unique language, learning, and communication needs, and should be the result of consultation with pertinent public and private sectors."
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "(3)".</i>
 

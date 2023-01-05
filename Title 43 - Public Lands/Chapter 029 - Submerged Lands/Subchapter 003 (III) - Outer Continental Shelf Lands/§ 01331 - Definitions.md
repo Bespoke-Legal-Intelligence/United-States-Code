@@ -4,7 +4,11 @@ In this subchapter:
 
 (a)
 
-Outer Continental Shelf.—The term "outer Continental Shelf" means all submerged lands lying seaward and outside of the area of lands beneath navigable waters as defined in section 1301 of this title, and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control.
+Outer Continental Shelf.—The term "outer Continental Shelf" means—
+
+&emsp;(1) all submerged lands lying seaward and outside of the area of lands beneath navigable waters as defined in section 1301 of this title, and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control or within the exclusive economic zone of the United States and adjacent to any territory of the United States; and
+
+&emsp;(2) does not include any area conveyed by Congress to a territorial government for administration;
 
 (b)
 
@@ -26,7 +30,7 @@ Coastal zone.—The term "coastal zone" means the coastal waters (including the 
 
 Affected State.—The term "affected State" means, with respect to any program, plan, lease sale, or other activity, proposed, conducted, or approved pursuant to the provisions of this subchapter, any State—
 
-&emsp;(1) the laws of which are declared, pursuant to section 1333(a)(2) of this title, to be the lawof the United States for the portion of the outer Continental Shelf on which such activity is, or is proposed to be, conducted;
+&emsp;(1) the laws of which are declared, pursuant to section 1333(a)(2) of this title, to be the law of the United States for the portion of the outer Continental Shelf on which such activity is, or is proposed to be, conducted;
 
 &emsp;(2) which is, or is proposed to be, directly connected by transportation facilities to any artificial island or structure referred to in section 1333(a)(1) of this title;
 
@@ -88,9 +92,9 @@ Major Federal action.—The term "major Federal action" means any action or prop
 
 (q)
 
-Minerals.—The term "minerals" includes oil, gas, sulphur, geopressured-geothermal and associated resources, and all other minerals which are authorized by an Act of Congress to be produced from "public lands" as defined in section 1702 of this title.
+Minerals.—The term "minerals" includes oil, gas, sulphur, geopressured-geothermal and associated resources, and all other minerals which are authorized by an Act of Congress to be produced from "public lands" as defined in section 1702 of this title; and <sup>3</sup>
 
-(r)
+(r) <sup>4</sup>
 
 Carbon dioxide stream.—
 
@@ -114,33 +118,61 @@ Exclusions.—The term "carbon dioxide stream" does not include additional waste
 
 Carbon sequestration.—The term "carbon sequestration" means the act of storing carbon dioxide that has been removed from the atmosphere or captured through physical, chemical, or biological processes that can prevent the carbon dioxide from reaching the atmosphere.
 
-(Aug. 7, 1953, ch. 345, §2, 67 Stat. 462; Pub. L. 95–372, title II, §201, Sept. 18, 1978, 92 Stat. 632; Pub. L. 117–58, div. D, title III, §40307(a), Nov. 15, 2021, 135 Stat. 1002.)
+(r) <sup>5</sup> The term "State" means—
+
+&emsp;(1) each of the several States;
+
+&emsp;(2) the Commonwealth of Puerto Rico;
+
+&emsp;(3) Guam;
+
+&emsp;(4) American Samoa;
+
+&emsp;(5) the United States Virgin Islands; and
+
+&emsp;(6) the Commonwealth of the Northern Mariana Islands.
+
+(Aug. 7, 1953, ch. 345, §2, 67 Stat. 462; Pub. L. 95–372, title II, §201, Sept. 18, 1978, 92 Stat. 632; Pub. L. 117–58, div. D, title III, §40307(a), Nov. 15, 2021, 135 Stat. 1002; Pub. L. 117–169, title V, §50251(b)(1)(A), Aug. 16, 2022, 136 Stat. 2054.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Department of Energy Organization Act, referred to in subsec. (b), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
+The Department of Energy Organization Act, referred to in subsec. (b), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of Title 42 and Tables.
 
 Section 1454(b) of title 16, referred to in subsec. (e), was amended generally by Pub. L. 101–508, title VI, §6205, Nov. 5, 1990, 104 Stat. 1388–302, and, as so amended, does not contain a par. (1).
 
-The Sherman Act, referred to in subsec. (n)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which enacted sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
+The Sherman Act, referred to in subsec. (n)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, which enacted sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
-The Clayton Act, referred to in subsec. (n)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
+The Clayton Act, referred to in subsec. (n)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (n)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
+The Federal Trade Commission Act, referred to in subsec. (n)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
-The Wilson Tariff Act, referred to in subsec. (n)(4), is act Aug. 27, 1894, ch. 349, §§73 to 77, 28 Stat. 570, as amended. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8 of Title 15 and Tables.
+The Wilson Tariff Act, referred to in subsec. (n)(4), is act Aug. 27, 1894, ch. 349, §§73 to 77, 28 Stat. 570. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8 of Title 15 and Tables.
 
 Act of June 19, 1936, referred to in subsec. (n)(5), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Act, the Robinson-Patman Antidiscrimination Act, and the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended section 13 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 13 of Title 15 and Tables.
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a). Pub. L. 117–169, §50251(b)(1)(A)(i)(I), (III), substituted "means—
+
+&emsp;"(1) all"
+
+> for "means all" and added par. (2).
+
+Subsec. (a)(1). Pub. L. 117–169, §50251(b)(1)(A)(i)(II), which directed substitution of "control or within the exclusive economic zone of the United States and adjacent to any territory of the United States; and" for "control;", was executed by making the substitution for "control." to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–58, §40307(a)(3).
+
+Subsec. (p). Pub. L. 117–169, §50251(b)(1)(A)(ii), which directed striking "and" after the semicolon at the end, could not be executed due to the intervening amendment by Pub. L. 117–58, §40307(a)(3). See 2021 Amendment note below.
+
+Subsec. (q). Pub. L. 117–169, §50251(b)(1)(A)(iii), substituted "title; and" for "title."
+
+Subsec. (r). Pub. L. 117–169, §50251(b)(1)(A)(iv), added at end subsec. (r) defining "State".
+
 <b>2021</b>—Pub. L. 117–58, §40307(a)(1), substituted "In this subchapter:" for "When used in this subchapter—" in introductory provisions.
 
 Subsecs. (a) to (q). Pub. L. 117–58, §40307(a)(2), (3), inserted headings in subsecs. (a) to (q) comprised of the term defined in the subsec., substituted a period for semicolon at end of subsecs. (a) to (o) and a period for "; and" at end of subsec. (p).
 
-Subsecs. (r), (s). Pub. L. 117–58, §40307(a)(4), added subsecs. (r) and (s).
+Subsecs. (r), (s). Pub. L. 117–58, §40307(a)(4), added subsec. (r) defining "carbon dioxide stream" and subsec. (s).
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–372, §201(a), inserted provision that, with respect to functions under this subchapter transferred to, or vested in, the Secretary of Energy or the Federal Energy Regulatory Commission by or pursuant to the Department of Energy Organization Act, "Secretary" means the Secretary of Energy or the Federal Energy Regulatory Commission, as the case may be.
 
@@ -174,7 +206,7 @@ Pub. L. 117–58, div. D, title III, §40307(d), Nov. 15, 2021, 135 Stat. 1003, 
 
 #### Wage Rate Requirements
 
-For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction,alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
 #### Gulf of Mexico Energy Security
 
@@ -234,7 +266,7 @@ planning area.—The term '2002–2007 planning area' means any area—
 
 &emsp;&emsp;&emsp;"(ii) the Central Planning Area, as designated in the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program 2002–2007, dated April 2002, of the Minerals Management Service; or
 
-&emsp;&emsp;&emsp;"(iii) the Western Planning Area, as designated in the Proposed Final Outer Continental Shelf Oil and Gas Leasing Program 2002–2007, dated April 2002, of the Minerals Management Service; and
+&emsp;&emsp;&emsp;"(iii) the Western Planning Area, as designated in the Proposed Final Outer Continental Shelf Oiland Gas Leasing Program 2002–2007, dated April 2002, of the Minerals Management Service; and
 
 &emsp;&emsp;"(B) not located in—
 
@@ -444,7 +476,7 @@ Allocation.—The amount paid by the Secretary to coastal political subdivisions
 
 "(c)
 
-Timing.—The amounts required to be deposited under paragraph (2) of subsection (a) for the applicablefiscal year shall be made available in accordance with that paragraph during the fiscal year immediately following the applicable fiscal year.
+Timing.—The amounts required to be deposited under paragraph (2) of subsection (a) for the applicable fiscal year shall be made available in accordance with that paragraph during the fiscal year immediately following the applicable fiscal year.
 
 "(d)
 
@@ -510,7 +542,7 @@ Pro rata reductions.—If paragraph (1) limits the amount of qualified outer Con
 
 &emsp;&emsp;"(B) any remainder of the qualified outer Continental Shelf revenues shall revert to the general fund of the Treasury."
 
-\[Pub. L. 113–287, §5(l)(2)(A)(i), Dec. 19, 2014, 128 Stat. 3270, which directed substitution of "section 200305 of title 54, United States Code" for "section 6 of the Land And Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8)" in subsec. (a)(2)(B) of section 105 of the Gulf of Mexico Energy Security Act of 2006 (Public Law 109–432, div. C, title I), set out above, was executed by making the substitution for "section 6 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8)" to reflect the probable intent of Congress.\]
+\[Pub. L. 113–287, §5(l)(2)(A)(i), Dec. 19, 2014, 128 Stat. 3270, which directed substitution of "section 200305 of title 54, United States Code" for "section 6 of the Land And Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8)" in subsec. (a)(2)(B) of section 105 of the Gulf of Mexico Energy Security Act of 2006 (Public Law 109–432, div. C, title I), set out above, was executed by makingthe substitution for "section 6 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–8)" to reflect the probable intent of Congress.\]
 
 \[The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.\]
 
@@ -586,9 +618,15 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 13795
 
-Ex. Ord. No. 13795, Apr. 28, 2017, 82 F.R. 20815, which related to an America-first offshore energy strategy and encouraged energy exploration and production, including on the Outer Continental Shelf, was revoked by Ex. Ord. No. 13990, §7(a), Jan. 20, 2021, 86 F.R. 7041, set out in a note under section 4321 of Title 42, The Public Health and Welfare.
+Ex. Ord. No. 13795, Apr. 28, 2017, 82 F.R. 20815, which related to an America-first offshore energy strategyand encouraged energy exploration and production, including on the Outer Continental Shelf, was revoked by Ex. Ord. No. 13990, §7(a), Jan. 20, 2021, 86 F.R. 7041, set out in a note under section 4321 of Title 42, The Public Health and Welfare.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be "accordance".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be "title."</i>
+
+<i><sup>4</sup></i><i> So in original. Another subsec. (r) is set out following subsec. (s).</i>
+
+<i><sup>5</sup></i><i> So in original. Another subsec. (r) is set out following subsec. (q).</i>
 

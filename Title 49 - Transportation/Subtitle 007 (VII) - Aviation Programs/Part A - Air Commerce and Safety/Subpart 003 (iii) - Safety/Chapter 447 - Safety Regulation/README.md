@@ -45,12 +45,15 @@
 | [44741\.](%C2%A7%2044741%20-%20Approval%20of%20organization%20designation%20authorization%20unit%20members.md) | Approval of organization designation authorization unit members. |
 | [44742\.](%C2%A7%2044742%20-%20Interference%20with%20the%20duties%20of%20organization%20designation%20authorization%20unit%20members.md) | Interference with the duties of organization designation authorization unit members. |
 | [44743\.](%C2%A7%2044743%20-%20Pilot%20training%20requirements.md) | Pilot training requirements. |
+| [44744\.](%C2%A7%2044744%20-%20Flight%20crew%20alerting.md) | Flight Crew Alerting.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. O, title V, §501(e), Dec. 29, 2022, 136 Stat. 5231, added item 44744.
 
 <b>2020</b>—Pub. L. 116–260, div. V, title I, §§107(d)(2), 119(b), Dec. 27, 2020, 134 Stat. 2326, 2339, added items 44740 to 44743 and struck out second item 44737 "Special rule for certain aircraft operations".
 
@@ -67,6 +70,8 @@
 <b>2000</b>—Pub. L. 106–181, title V, §§504(c), 505(a)(2), title VI, §603(b), Apr. 5, 2000, 114 Stat. 134, 136, 152, substituted "Aeronautical charts and related products and services" for "Aeronautical maps and charts" in item 44721 and added items 44725 and 44726.
 
 <b>1996</b>—Pub. L. 104–264, title VI, §602(a)(2), Oct. 9, 1996, 110 Stat. 3264, added item 44724.
+
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -116,3 +121,4 @@
 - [&sect; 44741 - Approval of organization designation authorization unit members](%C2%A7%2044741%20-%20Approval%20of%20organization%20designation%20authorization%20unit%20members.md)
 - [&sect; 44742 - Interference with the duties of organization designation authorization unit members](%C2%A7%2044742%20-%20Interference%20with%20the%20duties%20of%20organization%20designation%20authorization%20unit%20members.md)
 - [&sect; 44743 - Pilot training requirements](%C2%A7%2044743%20-%20Pilot%20training%20requirements.md)
+- [&sect; 44744 - Flight crew alerting](%C2%A7%2044744%20-%20Flight%20crew%20alerting.md)

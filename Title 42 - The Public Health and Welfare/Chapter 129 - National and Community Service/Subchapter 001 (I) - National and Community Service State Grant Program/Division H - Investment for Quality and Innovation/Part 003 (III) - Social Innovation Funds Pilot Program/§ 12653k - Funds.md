@@ -106,7 +106,7 @@ To be eligible to receive a grant under subsection (d), an entity shall—
 
 #### (g) Application
 
-To be eligible to receive a grant under subsection (d) for national leveraging capital, an eligible entity shall submit an application to the Corporation at such time, in such manner, and containing such information as the Corporation may specify, including, at a minimum—
+To be eligible to receive a grant under subsection (d) for national leveraging capital, an eligible entity shall submit an application to the Corporation at such time, in such manner, andcontaining such information as the Corporation may specify, including, at a minimum—
 
 &emsp;(1) an assurance that the eligible entity will—
 
@@ -148,7 +148,7 @@ To be eligible to receive a grant under subsection (d) for national leveraging c
 
 &emsp;&emsp;(D) provide a well-defined plan for replicating, expanding, or supporting the initiatives funded;
 
-&emsp;&emsp;(E) can sustain the initiatives after the subgrant period concludes through reliablepublic revenues, earned income, or private sector funding;
+&emsp;&emsp;(E) can sustain the initiatives after the subgrant period concludes through reliable public revenues, earned income, or private sector funding;
 
 &emsp;&emsp;(F) have strong leadership and financial and management systems;
 
@@ -228,7 +228,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (2) Periods; amounts
 
-&emsp;The eligible entity shall make such subgrants for periods of not less than 3 and notmore than 5 years, and may renew the subgrants for such periods, in amounts of not less than $100,000 per year.
+&emsp;The eligible entity shall make such subgrants for periods of not less than 3 and not more than 5 years, and may renew the subgrants for such periods, in amounts of not less than $100,000 per year.
 
 #### (3) Applications
 
@@ -250,7 +250,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 &emsp;&emsp;(F) specific evidence of how the community organization will meet the requirements for providing matching funds specified in subsection (k);
 
-&emsp;&emsp;(G) a description of how the community organization will sustain the replicated or expanded initiative after the conclusion of the subgrant period; and
+&emsp;&emsp;(G) a description of how the community organization will sustain the replicated orexpanded initiative after the conclusion of the subgrant period; and
 
 &emsp;&emsp;(H) any other information the eligible entity may require, including information necessary for the eligible entity to fulfill the requirements of subsection (g)(5).
 
@@ -290,7 +290,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The entity carrying out this subsection shall collect data and conduct or supportresearch with respect to the eligible entities and community organizations receiving grants under subsections (d) and (l), and the initiatives supported by such eligible entities and community organizations, to determine the success of the program carried out under this section in replicating, expanding, and supporting initiatives, including—
+&emsp;&emsp;&emsp;The entity carrying out this subsection shall collect data and conduct or support research with respect to the eligible entities and community organizations receiving grants under subsections (d) and (l), and the initiatives supported by such eligible entities and community organizations, to determine the success of the program carried out under this section in replicating, expanding, and supporting initiatives, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) the success of the initiatives in improving measurable outcomes; and
 

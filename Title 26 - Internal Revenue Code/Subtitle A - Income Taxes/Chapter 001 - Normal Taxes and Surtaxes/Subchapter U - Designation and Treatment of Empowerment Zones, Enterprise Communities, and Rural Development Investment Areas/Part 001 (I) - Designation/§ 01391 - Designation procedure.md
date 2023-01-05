@@ -78,7 +78,7 @@ No area may be designated under this section unless the application for such des
 
 &emsp;&emsp;(F) does not include any action to assist any establishment in relocating from one area outside the nominated area to the nominated area, except that assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary is permitted if—
 
-&emsp;&emsp;&emsp;(i) the establishment of the new branch, affiliate, or subsidiary will not result in a decrease in employment in the area of original location or in any other area where the existing business entity conducts business operations, and
+&emsp;&emsp;&emsp;(i) the establishment of the new branch, affiliate, or subsidiary will not result in a decrease in employment in the area of original location or in any other areawhere the existing business entity conducts business operations, and
 
 &emsp;&emsp;&emsp;(ii) there is no reason to believe that the new branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where the existing business entity conducts business operation, and
 
@@ -154,7 +154,7 @@ No area may be designated under this section unless the application for such des
 
 #### (1) In general
 
-&emsp;In addition to the areas designated under subsections (a) and (g), the appropriate Secretaries may designate in the aggregate an additional 9 nominated areas as empowermentzones under this section, subject to the availability of eligible nominated areas. Of that number, not more than seven may be designated in urban areas and not more than 2 may be designated in rural areas.
+&emsp;In addition to the areas designated under subsections (a) and (g), the appropriate Secretaries may designate in the aggregate an additional 9 nominated areas as empowerment zones under this section, subject to the availability of eligible nominated areas. Of that number, not more than seven may be designated in urban areas and not more than 2 may be designated in rural areas.
 
 #### (2) Period designations may be made and take effect
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 111–312 applicable to periods after Dec. 31, 2009, see se
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title IX, §951(c), Aug. 5, 1997, 111 Stat. 885, provided that: "The amendments made by this section \[amending this section and section 1396 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\], except that designations of new empowerment zones made pursuant to such amendments shall be made during the 180-day period beginning on the date of the enactment of this Act. No designation pursuant to such amendments shall take effect before January 1, 2000."
+Pub. L. 105–34, title IX, §951(c), Aug. 5, 1997, 111 Stat. 885, provided that: "The amendments made by this section \[amending this section and section 1396 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\], except that designations of newempowerment zones made pursuant to such amendments shall be made during the 180-day period beginning on the date of the enactment of this Act. No designation pursuant to such amendments shall take effect before January 1, 2000."
 
 #### Treatment of Certain Termination Dates Specified in Nominations
 

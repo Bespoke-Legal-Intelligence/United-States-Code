@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 &emsp;(5) the term "Administrator" means the agency head designated by section 11111(b) of this title;
 
-&emsp;(6) the term "law enforcement and criminal justice" means any activity pertaining to crime prevention, control, or reduction or the enforcement of the criminal law, including, but not limited to police efforts to prevent, control, or reduce crime or to apprehend criminals, activities of courts having criminal jurisdiction and related agencies (including prosecutorial and defender services), activities of corrections, probation, or parole authorities, and programs relating to the prevention, control, or reduction of juvenile delinquency or narcotic addiction;
+&emsp;(6) the term "law enforcement and criminal justice" means any activity pertaining to crime prevention, control, or reduction or the enforcement of the criminal law, including, but not limited to police efforts to prevent, control, or reduce crime or to apprehend criminals, activities of courts having criminal jurisdiction and related agencies (including prosecutorial and defender services), activitiesof corrections, probation, or parole authorities, and programs relating to the prevention, control, or reduction of juvenile delinquency or narcotic addiction;
 
 &emsp;(7) the term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands;
 
@@ -284,7 +284,7 @@ Pars. (17), (18). Pub. L. 100–690, §7251(a), added pars. (17) and (18).
 
 Par. (4)(A). Pub. L. 98–473, §613(2), substituted " 'Bureau of Justice Assistance' means the bureau established by section 3741 of this title" for " 'Office of Justice Assistance, Research, and Statistics' means the office established by section 3781(a) of this title".
 
-Par. (4)(B). Pub. L. 98–473, §613(2), substituted " 'Office of Justice Programs' means the office establishedby section 3711 of this title" for " 'Law Enforcement Assistance Administration' means the administration established by section 3711 of this title".
+Par. (4)(B). Pub. L. 98–473, §613(2), substituted " 'Office of Justice Programs' means the office established by section 3711 of this title" for " 'Law Enforcement Assistance Administration' means the administration established by section 3711 of this title".
 
 Par. (6). Pub. L. 98–473, §613(3), substituted "services)," for "services," before "activities of".
 

@@ -46,7 +46,7 @@ Section was formerly classified to section 595 of the former Appendix to this ti
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–407, title III, §303(b), Dec. 31, 2018, 132 Stat. 5374, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 90 days after the date of the enactment of this Act \[Dec. 31, 2018\]."
+Pub. L. 115–407, title III, §303(b), Dec. 31, 2018, 132 Stat. 5374, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effecton the date that is 90 days after the date of the enactment of this Act \[Dec. 31, 2018\]."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

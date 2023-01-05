@@ -26,7 +26,7 @@ Secretary of defense guidance.—The Secretary shall issue guidance to provide f
 
 &emsp;(2)
 
-Supporting guidance.—The Secretary shall direct the Chief Management Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Chief Information Officer, and the Chief Management Officer of each of the military departments to issue and maintain supporting guidance, as appropriate and within their respective areas of responsibility, for the guidance of the Secretary issued under paragraph (1).
+Supporting guidance.—The Secretary shall direct the Chief Information Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, and the Chief Information Officer of each of the military departments to issue and maintain supporting guidance, as appropriate and within their respective areas of responsibility, for the guidance of the Secretary issued under paragraph (1).
 
 (d)
 
@@ -42,7 +42,7 @@ Guidance Elements.—The guidance issued under subsection (c) shall include the 
 
 &emsp;(3) Mechanisms for the planning and control of investments in covered defense business systems, including a process for the collection and review of programming and budgeting information for covered defense business systems.
 
-&emsp;(4) Policy requiring the periodic review of covered defense business systems that have been fully deployed, by portfolio, to ensure that investments in such portfolios are appropriate.
+&emsp;(4) Policy requiring the periodic review of covered defense business systems that have been fully deployed, by portfolio, to ensurethat investments in such portfolios are appropriate.
 
 &emsp;(5) Policy to ensure full consideration of sustainability and technological refreshment requirements, and the appropriate use of open architectures.
 
@@ -58,7 +58,7 @@ Defense Business Enterprise Architecture.—
 
 &emsp;(1)
 
-Blueprint.—The Secretary, working through the Chief Management Officer of the Department of Defense, shall develop and maintain a blueprint to guide the development of integrated business processes within the Department of Defense. Such blueprint shall be known as the "defense business enterprise architecture".
+Blueprint.—The Secretary, working through the Chief Information Officer of the Department of Defense, shall develop and maintain a blueprint to guide the development of integrated business processes within the Department of Defense. Such blueprint shall be known as the "defense business enterprise architecture".
 
 &emsp;(2)
 
@@ -68,7 +68,7 @@ Purpose.—The defense business enterprise architecture shall be sufficiently de
 
 Elements.—The defense business enterprise architecture shall—
 
-&emsp;&emsp;(A) include policies, procedures, business data standards, business performance measures, and business information requirementsthat apply uniformly throughout the Department of Defense; and
+&emsp;&emsp;(A) include policies, procedures, business data standards, business performance measures, and business information requirements that apply uniformly throughout the Department of Defense; and
 
 &emsp;&emsp;(B) enable the Department of Defense to—
 
@@ -94,13 +94,13 @@ Common enterprise data.—The defense business enterprise shall include enterpri
 
 Roles and responsibilities.—
 
-&emsp;&emsp;(A) The Chief Management Officer of the Department of Defense shall have primary decision-making authority with respect to the development of common enterprise data. In consultation with the Defense Business Council, the Chief Management Officer shall—
+&emsp;&emsp;(A) The Chief Information Officer of the Department of Defense, in coordination with the Chief Data and Artificial Intelligence Officer, shall have primary decision-making authority with respect to the development of common enterprise data. In consultation with the Defense Business Council, the Chief Information Officer shall—
 
 &emsp;&emsp;&emsp;(i) develop an associated data governance process; and
 
 &emsp;&emsp;&emsp;(ii) oversee the preparation, extraction, and provision of data across the defense business enterprise.
 
-&emsp;&emsp;(B) The Chief Management Officer and the Under Secretary of Defense (Comptroller) shall—
+&emsp;&emsp;(B) The Chief Information Officer and the Under Secretary of Defense (Comptroller) shall—
 
 &emsp;&emsp;&emsp;(i) in consultation with the Defense Business Council, document and maintain any common enterprise data for their respective areas of authority;
 
@@ -116,7 +116,7 @@ Roles and responsibilities.—
 
 &emsp;&emsp;(C) The Director of Cost Assessment and Program Evaluation shall have access to data for the purpose of executing missions as designated by the Secretary of Defense.
 
-&emsp;&emsp;(D) The Secretary of Defense, the Chairman of the Joint Chiefs of Staff, the Secretaries of the military departments, commanders of combatant commands, the heads of the Defense Agencies, the heads of the Department of Defense Field Activities, and the heads of all other offices, agencies, activities, and commands of the Department of Defense shall provide access to the relevant system of such department, combatant command, Defense Agency, Defense Field Activity, or office, agency, activity, and command organization, as applicable, and data extracted from such system, for purposes of automatically populating data sets coded with common enterprise data.
+&emsp;&emsp;(D) The Secretary of Defense, the Chairman of the Joint Chiefs of Staff, the Secretaries of the military departments, commanders of combatant commands, the heads of the Defense Agencies, the heads of the Department of Defense Field Activities, and the heads of all other offices, agencies, activities, and commands of the Department of Defense shall provide access to the relevant system of such department, combatant command, Defense Agency, Defense Field Activity, or office, agency, activity, and command organization, as applicable, and data extracted from such system, for purposes ofautomatically populating data sets coded with common enterprise data.
 
 (f)
 
@@ -124,21 +124,25 @@ Defense Business Council.—
 
 &emsp;(1)
 
-Requirement for council.—The Secretary shall establish a Defense Business Council to provide advice to the Secretary on developing the defense business enterprise architecture, reengineering the Department's business processes, developing and deploying defense business systems, and developing requirements for defense business systems. The Council shall be chaired by the Chief Management Officer and the Chief Information Officer of the Department of Defense.
+Requirement for council.—The Secretary shall establish a Defense Business Council to provide advice to the Secretary on developing the defense business enterprise architecture, reengineering the Department's business processes, developing and deploying defense business systems, and developing requirements for defense business systems. The Council shall be chaired by the Chief Information Officer of the Department of Defense.
 
 &emsp;(2)
 
 Membership.—The membership of the Council shall include the following:
 
-&emsp;&emsp;(A) The Chief Management Officers of the military departments, or their designees.
+&emsp;&emsp;(A) The Chief Information Officers of the military departments, or their designees.
 
-&emsp;&emsp;(B) The following officials of the Department of Defense, or their designees:
+&emsp;&emsp;(B) The Chief Management Officers of the military departments, or their designees.
+
+&emsp;&emsp;(C) The following officials of the Department of Defense, or their designees:
 
 &emsp;&emsp;&emsp;(i) The Under Secretary of Defense for Acquisition and Sustainment with respect to acquisition, logistics, and installations management processes.
 
 &emsp;&emsp;&emsp;(ii) The Under Secretary of Defense (Comptroller) with respect to financial management and planning and budgeting processes.
 
 &emsp;&emsp;&emsp;(iii) The Under Secretary of Defense for Personnel and Readiness with respect to human resources management processes.
+
+&emsp;&emsp;&emsp;(iv) The Chief Data and Artificial Intelligence Officer of the Department of Defense.
 
 (g)
 
@@ -148,7 +152,7 @@ Approvals Required for Development.—
 
 Initial approval required.—The Secretary shall ensure that a covered defense business system program cannot proceed into development (or, if no development is required, into production or fielding) unless the appropriate approval official (as specified in paragraph (2)) determines that—
 
-&emsp;&emsp;(A) the system has been, or is being, reengineered to be as streamlined and efficientas practicable, and the implementation of the system will maximize the elimination of unique software requirements and unique interfaces;
+&emsp;&emsp;(A) the system has been, or is being, reengineered to be as streamlined and efficient as practicable, and the implementation of the system will maximize the elimination of unique software requirements and unique interfaces;
 
 &emsp;&emsp;(B) the system and business system portfolio are or will be in compliance with the defense business enterprise architecture developed pursuant to subsection (e) or will be in compliance as a result of modifications planned;
 
@@ -162,13 +166,13 @@ Initial approval required.—The Secretary shall ensure that a covered defense b
 
 Appropriate official.—For purposes of paragraph (1), the appropriate approval official with respect to a covered defense business system is the following:
 
-&emsp;&emsp;(A) Except as may be provided in subparagraph (C), in the case of a priority defense business system, the Chief Management Officer of the Department of Defense.
+&emsp;&emsp;(A) Except as may be provided in subparagraph (C), in the case of a priority defense business system, the Chief Information Officer of the Department of Defense.
 
 &emsp;&emsp;(B) Except as may be provided in subparagraph (C), for any defense business system other than a priority defense business system—
 
-&emsp;&emsp;&emsp;(i) in the case of a system of a military department, the Chief Management Officer of that military department; and
+&emsp;&emsp;&emsp;(i) in the case of a system of a military department, the Chief Information Officer of that military department; and
 
-&emsp;&emsp;&emsp;(ii) in the case of a system of a Defense Agency or Department of Defense Field Activity, or a system that will support the business process of more than one military department or Defense Agency or Department of Defense Field Activity, the Chief Management Officer of the Department of Defense.
+&emsp;&emsp;&emsp;(ii) in the case of a system of a Defense Agency or Department of Defense Field Activity, or a system that will support the business process of more than one military department or Defense Agency or Department of Defense Field Activity, the Chief Information Officer of the Department of Defense.
 
 &emsp;&emsp;(C) In the case of any defense business system, such official other than the applicable official under subparagraph (A) or (B) as the Secretary designates for such purpose.
 
@@ -232,7 +236,7 @@ Priority defense business system.—The term "priority defense business system" 
 
 &emsp;&emsp;(A) expected to have a total amount of budget authority over the period of the current future-years defense program submitted to Congress under section 221 of this title in excess of $250,000,000; or
 
-&emsp;&emsp;(B) designated by the Chief Management Officer of the Department of Defense as a priority defense business system, based on specific program analyses of factors including complexity, scope, and technical risk, and after notification to Congress of such designation.
+&emsp;&emsp;(B) designated by the Chief Information Officer of the Department of Defense as a priority defense business system, based on specific program analyses of factors including complexity, scope, and technical risk, and after notification to Congress of such designation.
 
 &emsp;(6)
 
@@ -240,7 +244,7 @@ Enterprise architecture.—The term "enterprise architecture" has the meaning gi
 
 &emsp;(7)
 
-Information system.—The term "information system" has the meaning given thatterm in section 11101 of title 40, United States Code.
+Information system.—The term "information system" has the meaning given that term in section 11101 of title 40, United States Code.
 
 &emsp;(8)
 
@@ -258,7 +262,7 @@ Common enterprise data.—The term "common enterprise data" means business opera
 
 Data governance process.—The term "data governance process" means a system to manage the timely Department of Defense-wide sharing of data described under subsection (e)(6)(A).
 
-(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, §906, Jan. 2, 2013, 126 Stat. 1869; Pub. L. 113–66, div. A, title IX, §901, Dec. 26, 2013, 127 Stat. 815; Pub. L. 113–283, §2(e)(5)(A), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 113–291, div. A, title VIII, §803, title IX, §901(d), (k)(3), title X, §1071(f)(16), Dec. 19, 2014, 128 Stat. 3427, 3463, 3468, 3511; Pub. L. 114–92, div. A, title VIII, §883(a)(1), (f), title X, §1081(a)(7), Nov. 25, 2015, 129 Stat. 942, 1001; Pub. L. 114–328, div. A, title X, §1081(a)(6), (c)(5), Dec. 23, 2016, 130 Stat. 2417, 2419; Pub. L. 115–91, div. A, title IX, §912(a), title X, §1081(b)(2), Dec. 12, 2017, 131 Stat. 1519, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(A)(ii), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title VIII, §839(a), title IX, §902(25), title XVII, §1731(a)(31), Dec. 20, 2019, 133 Stat. 1498, 1545, 1814.)
+(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, §906, Jan. 2, 2013, 126 Stat. 1869; Pub. L. 113–66, div. A, title IX, §901, Dec. 26, 2013, 127 Stat. 815; Pub. L. 113–283, §2(e)(5)(A), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 113–291, div. A, title VIII, §803, title IX, §901(d), (k)(3), title X, §1071(f)(16), Dec. 19, 2014, 128 Stat. 3427, 3463, 3468, 3511; Pub. L. 114–92, div. A, title VIII, §883(a)(1), (f), title X, §1081(a)(7), Nov. 25, 2015, 129 Stat. 942, 1001; Pub. L. 114–328, div. A, title X, §1081(a)(6), (c)(5), Dec. 23, 2016, 130 Stat. 2417, 2419; Pub. L. 115–91, div. A, title IX, §912(a), title X, §1081(b)(2), Dec. 12, 2017, 131 Stat. 1519, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(A)(ii), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title VIII, §839(a), title IX, §902(25), title XVII, §1731(a)(31), Dec. 20, 2019, 133 Stat. 1498, 1545, 1814; Pub. L. 117–263, div. A, title IX, §902, Dec. 23, 2022, 136 Stat. 2748.)
 
 #### <b>Editorial Notes</b>
 
@@ -267,6 +271,24 @@ Data governance process.—The term "data governance process" means a system to 
 A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov. 18, 1997, 111 Stat. 1870; amended Pub. L. 107–107, div. A, title X, §1009(b)(1)–(3)(A), Dec. 28, 2001, 115 Stat. 1208, 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by Pub. L. 107–314, div. A, title X, §1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(2). Pub. L. 117–263, §902(1), substituted "the Chief Information Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, and the Chief Information Officer" for "the Chief Management Officer of the Department of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Chief Information Officer, and the Chief Management Officer".
+
+Subsec. (e)(1). Pub. L. 117–263, §902(2)(A), substituted "the Chief Information Officer" for "the Chief Management Officer".
+
+Subsec. (e)(6)(A). Pub. L. 117–263, §902(2)(B)(i), in introductory provisions, substituted "The Chief Information Officer of the Department of Defense, in coordination with the Chief Data and Artificial Intelligence Officer," for "The Chief Management Officer of the Department of Defense" and "the Chief Information Officer shall—" for "the Chief Management Officer shall—".
+
+Subsec. (e)(6)(B). Pub. L. 117–263, §902(2)(B)(ii), substituted "The Chief Information Officer" for " The Chief Management Officer" in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 117–263, §902(3)(A), struck out "the Chief Management Officer and" before "the Chief Information Officer".
+
+Subsec. (f)(2). Pub. L. 117–263, §902(3)(B)(i), (ii), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+
+Subsec. (f)(2)(C)(iv). Pub. L. 117–263, §902(3)(B)(iii), added cl. (iv).
+
+Subsec. (g)(2). Pub. L. 117–263, §902(4), substituted "the Chief Information Officer" for "the Chief Management Officer" wherever appearing.
+
+Subsec. (i)(5)(B). Pub. L. 117–263, §902(5), substituted "the Chief Information Officer" for "the Chief Management Officer".
 
 <b>2019</b>—Subsec. (c)(2). Pub. L. 116–92, §902(25)(A), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
@@ -378,6 +400,10 @@ Pub. L. 114–92, div. A, title VIII, §883(f)(1), as added by Pub. L. 114–328
 
 Pub. L. 113–291, div. A, title IX, §901(k)(3), Dec. 19, 2014, 128 Stat. 3468, which provided that the amendment made by section 901(k)(3) was effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291 (Feb. 1, 2017), was repealed by Pub. L. 114–92, div. A, title VIII, §883(f)(2), as added by Pub. L. 114–328, div. A, title X, §1081(c)(5), Dec. 23, 2016, 130 Stat. 2420.
 
+#### Transfer of Functions
+
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
+
 #### Improved Recording and Maintaining of Department of Defense Real Property Data
 
 Pub. L. 116–92, div. B, title XXVIII, §2823, Dec. 20, 2019, 133 Stat. 1889, provided that:
@@ -452,6 +478,8 @@ Comptroller general reports.—The Comptroller General of the United States shal
 
 &emsp;&emsp;"(ii) whether any cost savings estimated in the report are accurate."
 
+\[For abolition and transfer of functions of Chief Management Officer of the Department of Defense, see Transfer of Functions note above.\]
+
 #### Analysis of Department of Defense Business Management and Operations Datasets To Promote Savings and Efficiencies
 
 Pub. L. 115–232, div. A, title IX, §922, Aug. 13, 2018, 132 Stat. 1929, provided that:
@@ -483,6 +511,8 @@ In general.—The Chief Management Officer shall commence the discharge of the p
 &emsp;"(2)
 
 Protection of security and confidentiality.—In providing for the evaluation of datasets pursuant to this subsection, the Chief Management Officer shall take appropriate actions to protect the security and confidentiality of any information contained in the datasets, including through special precautions to ensure that any personally identifiable information is not included and no release of information will adversely affect national security missions."
+
+\[For abolition and transfer of functions of Chief Management Officer of the Department of Defense, see Transfer of Functions note above.\]
 
 #### Audit of Financial Systems of the Department of Defense by Professional Accountants
 
@@ -530,7 +560,7 @@ Establishment of Policy.—Not later than one year after the date of the enactme
 
 "(b)
 
-Availability.—As part of the policy required by subsection (a), the Secretary of Defense shall ensure that, except as otherwise provided by law or regulation, data described in such subsection shall be made readily available to members of the Office of the Secretary of Defense, the Joint Staff, the military departments, the combatant commands, the Defense Agencies, the Department of Defense Field Activities, and all other offices, agencies, activities, and commands of the Department of Defense, as applicable."
+Availability.—As part of the policy required by subsection (a), the Secretary of Defense shall ensure that, except as otherwise provided by law or regulation, data described in such subsection shall be made readily available to members of the Office of the Secretary of Defense, the Joint Staff, the military departments, thecombatant commands, the Defense Agencies, the Department of Defense Field Activities, and all other offices, agencies, activities, and commands of the Department of Defense, as applicable."
 
 #### Establishment of Data Analytics Capability
 
@@ -700,7 +730,7 @@ Goals.—The Secretary of Defense shall identify savings goals to be achieved th
 
 Budget Adjustment.—The Secretary shall establish policies to adjust organizational budget allocations, at the Secretary's discretion, for purposes of—
 
-&emsp;"(1) using savings derived from implementation of best commercial and business management practicesfor high priority military missions of the Department of Defense;
+&emsp;"(1) using savings derived from implementation of best commercial and business management practices for high priority military missions of the Department of Defense;
 
 &emsp;"(2) creating incentives for the most efficient and effective development and adoption of new commercial and business management practices by organizations; and
 
@@ -728,7 +758,7 @@ In General.—The Secretary of Defense, acting through the Under Secretary of De
 
 "(b)
 
-Execution of Activities.—The activities established under subsection (a) shall be carried out by such military departments and Defense Agencies as the Under Secretary and the Chief Management Officer consider appropriate.
+Execution of Activities.—The activities established under subsection (a) shall be carried out by suchmilitary departments and Defense Agencies as the Under Secretary and the Chief Management Officer consider appropriate.
 
 "(c)
 
@@ -836,6 +866,8 @@ Projects and programs identified.—The projects and programs identified in this
 
 &emsp;&emsp;"(E) Military and civilian personnel policy development for information technology workforce."
 
+\[For abolition and transfer of functions of Chief Management Officer of the Department of Defense, see Transfer of Functions note above.\]
+
 #### Deadline for Guidance on Covered Defense Business Systems
 
 Pub. L. 114–92, div. A, title VIII, §883(b), Nov. 25, 2015, 129 Stat. 947, provided that: "The guidance required by subsection (c)(1) of section 2222 of title 10, United States Code, as amended by subsection (a)(1), shall be issued not later than December 31, 2016."
@@ -854,7 +886,7 @@ Requirement for Certain Accounting Standards.—The Secretary of Defense shall w
 
 "(b)
 
-Deadline.—The accounting standards required by subsection (a) shall be established by not later than September 30, 2017, and be available for use for the full audit on the financial statements of the Department of Defense for fiscal year 2018, as required by section 1003(a) of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 842; 10 U.S.C. 2222 note)."
+Deadline.—The accounting standards required by subsection (a) shall be established by not later than September 30, 2017, and be available for use for the full audit on the financial statements of the Department of Defense for fiscal year 2018, as required by section 1003(a) of the National Defense Authorization Act forFiscal Year 2014 (Public Law 113–66; 127 Stat. 842; 10 U.S.C. 2222 note)."
 
 #### Annual Audit of Financial Statements of Department of Defense Components by Independent External Auditors
 
@@ -928,7 +960,7 @@ In general.—The report to be issued pursuant to section 1003(b) of the Nationa
 
 &emsp;"(2)
 
-Semiannual updates.—The reports to be issued pursuant to such section after the report described in paragraph (1) shall update the plan required by such paragraph and explain how the Department has progressed toward meeting the milestones established in the plan.
+Semiannual updates.—The reports to be issued pursuant to such section after the report described in paragraph (1) shall update the plan required by suchparagraph and explain how the Department has progressed toward meeting the milestones established in the plan.
 
 "(b)
 
@@ -1118,7 +1150,7 @@ Head.—The Office of Business Transformation of a military department under thi
 
 &emsp;"(3)
 
-Supervision.—The Director of Business Transformation of a military department under paragraph (2) shall report directly to the Chief Management Officer of the military department, subject to policy guidance from the Director of the Business Transformation Agency of the Department of Defense.
+Supervision.—The Director of Business Transformation of a military department under paragraph (2) shall report directly to the Chief Management Officer of the military department, subject to policyguidance from the Director of the Business Transformation Agency of the Department of Defense.
 
 &emsp;"(4)
 
@@ -1202,7 +1234,7 @@ Standards.—In carrying out the Initiative, the Director of the Business Transf
 
 &emsp;"(2) the Standard Financial Information Structure of the Department of Defense;
 
-&emsp;"(3) the Federal Financial Management Improvement Act of 1996 \[section 101(f) \[title VIII\] of title Iof div. A of Pub. L. 104–208, 31 U.S.C. 3512 note\] (and the amendments made by that Act); and
+&emsp;"(3) the Federal Financial Management Improvement Act of 1996 \[section 101(f) \[title VIII\] of title I of div. A of Pub. L. 104–208, 31 U.S.C. 3512 note\] (and the amendments made by that Act); and
 
 &emsp;"(4) other applicable requirements of law and regulation.
 
@@ -1240,7 +1272,7 @@ Program Control.—In carrying out the Initiative, the Director of the Business 
 
 "(h)
 
-Plan on Development and Implementation of Initiative.—Not later than six months after the date of the enactment of this Act \[Jan. 28, 2008\], the Director of the Business Transformation Agency shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for the development and implementation of the Initiative. The plan shall provide for the implementation of an initial capability under the Initiative as follows:
+Plan on Development and Implementation of Initiative.—Not later than six months after the date of the enactment of this Act \[Jan. 28, 2008\], the Director of the Business Transformation Agency shall submit to the congressional defense committees \[Committees onArmed Services and Appropriations of the Senate and the House of Representatives\] a plan for the development and implementation of the Initiative. The plan shall provide for the implementation of an initial capability under the Initiative as follows:
 
 &emsp;"(1) In at least one Defense Agency by not later than eight months after the date of the enactment of this Act.
 

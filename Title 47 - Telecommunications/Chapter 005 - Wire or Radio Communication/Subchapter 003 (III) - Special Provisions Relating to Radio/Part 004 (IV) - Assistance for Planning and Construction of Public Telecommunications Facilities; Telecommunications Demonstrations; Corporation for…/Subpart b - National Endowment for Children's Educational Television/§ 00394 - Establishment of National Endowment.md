@@ -20,7 +20,7 @@ It is the purpose of this section to enhance the education of children through t
 
 &emsp;(B) thereafter be made available to any commercial television licensee or permittee or cable television system operator, at a charge established by the Secretary that will assure the maximum practicable distribution of such programming, so long as such licensee, permittee, or operator does not interrupt the programming with commercial advertisements.
 
-> The Secretary may, consistent with the purpose and provisions of this section, permit the programming to be distributed to persons using other media, establish conditions relating tosuch distribution, and apply those conditions to any contract or grant made under this section. The Secretary may waive the requirements of subparagraph (A) if the Secretary finds that neither public television licensees and permittees nor noncommercial television licensees and permittees will have an opportunity to air such programming in the first two years after its production.
+> The Secretary may, consistent with the purpose and provisions of this section, permit the programming to be distributed to persons using other media, establish conditions relating to such distribution, and apply those conditions to any contract or grant made under this section. The Secretary may waive the requirements of subparagraph (A) if the Secretary finds that neither public television licensees and permittees nor noncommercial television licensees and permittees will have an opportunity to air such programming in the first two years after its production.
 
 #### (c) Criteria for contracts and grants; applications for contracts and grants
 
@@ -46,7 +46,7 @@ Upon approving any application for a grant under subsection (b)(1)(B), the Secre
 
 #### (e) Advisory Council on Children's Educational Television
 
-(1) The Secretary shall establish an Advisory Council on Children's Educational Television. The Secretary shall appoint ten individuals as members of the Council and designate one of such members to serve as Chairman.
+(1) The Secretary shall establish an Advisory Council on Children's Educational Television.The Secretary shall appoint ten individuals as members of the Council and designate one of such members to serve as Chairman.
 
 (2) Members of the Council shall have terms of two years, and no member shall serve for more than three consecutive terms. The members shall have expertise in the fields of education, psychology, child development, or television programming, or related disciplines. Officers and employees of the United States shall not be appointed as members.
 
@@ -94,7 +94,7 @@ Another prior section 394, act June 19, 1934, §394, was renumbered section 397 
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Congressional Findings
 

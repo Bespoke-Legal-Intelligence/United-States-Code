@@ -8,7 +8,7 @@
 
 #### (b) National Flood Insurance Act and National Flood Insurance Program; continuation
 
-Except as otherwise specifically provided in this chapter, all provisions of the National Flood Insurance Act of 1968, as amended \[42 U.S.C. 4001 et seq.\], and requirements of the National Flood Insurance Program ("NFIP") shall continue in full force and effect within areas wholly or partially within the Colorado River Floodway. Any maps or other information required to be prepared by this chapter shall be used to the maximum extent practicable to support implementation of the NFIP.
+Except as otherwise specifically provided in this chapter, all provisions of the NationalFlood Insurance Act of 1968, as amended \[42 U.S.C. 4001 et seq.\], and requirements of the National Flood Insurance Program ("NFIP") shall continue in full force and effect within areas wholly or partially within the Colorado River Floodway. Any maps or other information required to be prepared by this chapter shall be used to the maximum extent practicable to support implementation of the NFIP.
 
 #### (c) National Flood Insurance Act provisions relating directly to Floodway; notice to communities affected
 
@@ -20,5 +20,5 @@ The Secretary shall publish notice on three successive occasions in newspapers o
 
 #### References in Text
 
-The National Flood Insurance Act of 1968, referred to in subsec. (b), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
+The National Flood Insurance Act of 1968, referred to in subsec. (b), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 

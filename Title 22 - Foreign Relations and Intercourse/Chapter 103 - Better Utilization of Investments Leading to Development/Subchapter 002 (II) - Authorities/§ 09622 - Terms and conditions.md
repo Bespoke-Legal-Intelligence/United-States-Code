@@ -42,7 +42,7 @@ The following requirements apply to support provided by the Corporation under th
 
 &emsp;(9) The Corporation shall prescribe explicit standards for use in periodically assessing the credit risk of new and existing direct loans or guaranteed loans.
 
-&emsp;(10) The Corporation may not make loans or loan guaranties except to the extent thatbudget authority to cover the costs of the loans or guaranties is provided in advance in an appropriations Act, as required by section 661c of title 2.
+&emsp;(10) The Corporation may not make loans or loan guaranties except to the extent that budget authority to cover the costs of the loans or guaranties is provided in advance in an appropriations Act, as required by section 661c of title 2.
 
 &emsp;(11) The Corporation shall rely upon specific standards to assess the developmental and strategic value of projects for which it provides support and should only provide the minimum level of support necessary in order to support such projects.
 

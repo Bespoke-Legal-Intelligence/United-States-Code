@@ -84,7 +84,7 @@ Case Manager.—(1) The Secretary shall designate a case manager for each indivi
 
 (e)
 
-Participation and Collaboration in Development of Plans.—(1) The Secretary shall involve each individual described in subsection (a), and the family or legal guardian of such individual, in the development of the plan for such individual under that subsection to the maximum extent practicable.
+Participation and Collaboration in Development of Plans.—(1) The Secretary shall involve each individual described in subsection\(a), and the family or legal guardian of such individual, in the development of the plan for such individual under that subsection to the maximum extent practicable.
 
 (2) The Secretary shall collaborate in the development of a plan for an individual under subsection (a) with a State protection and advocacy system if—
 

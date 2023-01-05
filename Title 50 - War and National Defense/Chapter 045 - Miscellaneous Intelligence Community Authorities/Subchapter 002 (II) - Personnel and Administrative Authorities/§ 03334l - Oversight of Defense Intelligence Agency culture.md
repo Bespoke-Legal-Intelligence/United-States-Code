@@ -1,0 +1,90 @@
+### §3334<i>l</i>. Oversight of Defense Intelligence Agency culture
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Appropriate committees of Congress
+
+&emsp;The term "appropriate committees of Congress" means—
+
+&emsp;&emsp;(A) the congressional intelligence committees;
+
+&emsp;&emsp;(B) the Committee on Armed Services of the Senate;
+
+&emsp;&emsp;(C) the Subcommittee on Defense of the Committee on Appropriations of the Senate;
+
+&emsp;&emsp;(D) the Committee on Armed Services of the House of Representatives; and
+
+&emsp;&emsp;(E) the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives.
+
+#### (2) Workforce climate survey
+
+&emsp;The term "workforce climate survey"—
+
+&emsp;&emsp;(A) means a workforce engagement or climate survey conducted at the agency, directorate, career field, or integrated intelligence center level, without regard to whether the survey is conducted on an annual or ad-hoc basis; and
+
+&emsp;&emsp;(B) does not include an exit survey specified in subsection (c).
+
+#### (b) Findings
+
+Congress finds that the Defense Intelligence Agency has committed to improving Agency culture and leadership; however, actions taken by the Agency as of December 23, 2022, have not enabled a full assessment of the extent of workforce culture issues and potential management abuses, and require additional Congressional <sup>1</sup>oversight to ensure concerns are both understood and addressed.
+
+#### (c) Mandatory provision of exit survey or interview
+
+#### (1) In general
+
+&emsp;The Director of the Defense Intelligence Agency shall ensure that each employee of such Agency who leaves employment with such Agency (but not including any detail assignment) completes an exit survey or exit interview prior to such departure, to the extent practicable.
+
+#### (2) Annual submissions to Congress
+
+&emsp;On an annual basis during the 3-year period beginning on December 23, 2022, the Director of the Defense Intelligence Agency shall submit to the appropriate committees of Congress a written analysis of the results of the exit surveys or exit interviews completed pursuant to paragraph (1) during the year covered by the report together with a plan of the Director to address any issues identified pursuant to such results to improve retention and culture.
+
+#### (d) Congressional oversight relating to workforce climate surveys
+
+#### (1) Notifications of ad-hoc workforce climate surveys
+
+&emsp;Not later than 14 days after the date on which the Director of the Defense Intelligence Agency conducts an ad-hoc workforce climate survey (including in response to a specific incident or concern), the Director shall notify the appropriate committees of Congress.
+
+#### (2) Reports on final results
+
+&emsp;Not later than 90 days after the date on which the Director of the Defense Intelligence Agency concludes the conduct of any workforce climate survey, the Director shall submit to the appropriate committees of Congress a report containing the final results of such workforce climate survey. Such report shall include the following:
+
+&emsp;&emsp;(A) The topic of the workforce climate survey, and the workforce level surveyed.
+
+&emsp;&emsp;(B) The rationale for conducting the workforce climate survey.
+
+&emsp;&emsp;(C) The measures in place to ensure the accessibility of the workforce climate survey.
+
+&emsp;&emsp;(D) The lead official or entity conducting the workforce climate survey.
+
+&emsp;&emsp;(E) Any actions the Director intends to take, or is considering, in response to the results of the workforce climate survey.
+
+#### (3) Accessibility of workforce climate surveys
+
+&emsp;The Director of the Defense Intelligence Agency shall ensure that, to the extent practicable, and consistent with the protection of intelligence sources and methods, workforce climate surveys are accessible to employees of such Agency on classified and unclassified systems.
+
+#### (e) Feasibility report
+
+Not later than 270 days after December 23, 2022, the Director of the Defense Intelligence Agency shall submit to the appropriate committees of Congress a report containing an analysis of the feasibility (including the anticipated cost, personnel requirements, necessary authorities, and such other matters as may be determined appropriate by the Director for purposes of analyzing feasibility) of—
+
+&emsp;(1) conducting 360-degree performance reviews among employees of the Defense Intelligence Agency; and
+
+&emsp;(2) including leadership suitability assessments (including personality evaluations, communication style assessments, and emotional intelligence aptitude assessments) for promotions of such employees to a position within grade GS–14 or above of the General Schedule.
+
+(Pub. L. 117–263, div. F, title LXIV, §6422, Dec. 23, 2022, 136 Stat. 3530.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The General Schedule, referred to in subsec. (e)(2), is set out under section 5332 of Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Definitions
+
+For definition of "congressional intelligence committees" as used in this section, see section 6002 of Pub. L. 117–263, set out as a note under section 3003 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
+

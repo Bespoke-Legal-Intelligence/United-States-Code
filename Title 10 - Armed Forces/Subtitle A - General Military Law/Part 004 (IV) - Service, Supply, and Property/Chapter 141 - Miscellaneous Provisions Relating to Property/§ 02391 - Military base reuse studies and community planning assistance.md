@@ -62,21 +62,25 @@ Defense Community Infrastructure Pilot Program.—(1)(A) The Secretary of Defens
 
 &emsp;(i) Projects that will enhance military value at a military installation, taking into consideration the military value criteria originally developed by the Secretary in compliance with the amendment made by section 3002 of the Military Construction Authorization Act for Fiscal Year 2002 (division B of Public Law 107–107; 115 Stat. 1344).
 
-&emsp;(ii) Projects that will enhance military installation resilience, as defined in section 101(e)(8) of this title.
+&emsp;(ii) Projects that will contribute to the training of cadets enrolled in an independent Reserve Officer Training Corps program at a covered educational institution.
 
-&emsp;(iii) Projects that will enhance military family quality of life at a military installation, taking into consideration subsection (e)(4)(C).
+&emsp;(iii) Projects that will enhance military installation resilience, as defined in section 101(e)(8) of this title.
+
+&emsp;(iv) Projects that will enhance military family quality of life at a military installation, taking into consideration subsection (e)(4)(C).
 
 (2)(A) The criteria established for the selection of community infrastructure projects to receive assistance under this subsection shall include a requirement that, except as provided in subparagraph (B), the State or local government agree to contribute not less than 30 percent of the funding for the community infrastructure project.
 
-(B) If a proposed community infrastructure project will be carried out in a rural area or theSecretary of Defense determines that a proposed community infrastructure project is advantageous for reasons related to national security, the Secretary—
+(B) If a proposed community infrastructure project will be carried out in a rural area or the Secretary of Defense determines that a proposed community infrastructure project is advantageous for reasons related to national security, the Secretary—
 
 &emsp;(i) shall not penalize a State or local government for offering to make a contribution of 30 percent or less of the funding for the community infrastructure project; and
 
 &emsp;(ii) may reduce the requirement for a State or local government contribution to 30 percent or less or waive the cost-sharing requirement entirely.
 
-(3) Amounts appropriated or otherwise made available for assistance under paragraph (1) may remain available until expended.
+(3) In selecting community infrastructure projects to receive assistance under this subsection, the Secretary shall consider infrastructure improvements identified in the report on strategic seaports required by section 3515 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1985).
 
-(4) The authority under this subsection shall expire on September 30, 2028.
+(4) Amounts appropriated or otherwise made available for assistance under paragraph (1) may remain available until expended.
+
+(5) The authority under this subsection shall expire on September 30, 2028.
 
 (e)
 
@@ -90,7 +94,7 @@ Definitions.—In this section:
 
 &emsp;(4)(A) The term "community infrastructure" means a project or facility described in subparagraph (B) that—
 
-&emsp;&emsp;(i) is located off of a military installation; and
+&emsp;&emsp;(i) is located off of a military installation or on property under the jurisdiction of a Secretary of a military department that is subject to a real estate agreement (including a lease or easement); and
 
 &emsp;&emsp;(ii) is—
 
@@ -110,11 +114,21 @@ Definitions.—In this section:
 
 &emsp;(5) The term "rural area" means a city, town, or unincorporated area that has a population of not more than 100,000 inhabitants.
 
+&emsp;(6) The term "covered educational institution" means a college or university that is—
+
+&emsp;&emsp;(A) a part B institution, as defined in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061);
+
+&emsp;&emsp;(B) an 1890 Institution, as defined in section 2 of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 7601);
+
+&emsp;&emsp;(C) not affiliated with a consortium; and
+
+&emsp;&emsp;(D) located at least 40 miles from a major military installation.
+
 (f)
 
 Assistance Subject to Appropriations.—The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
-(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(13), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 109–163, div. B, title XXVIII, §2832, Jan. 6, 2006, 119 Stat. 3520; Pub. L. 109–364, div. B, title XXVIII, §§2861, 2862, Oct. 17, 2006, 120 Stat. 2498; Pub. L. 110–417, div. B, title XXVIII, §2823(b), Oct. 14, 2008, 122 Stat. 4730; Pub. L. 112–239, div. B, title XXVII, §2712(c)(1), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 115–232, div. B, title XXVIII, §§2805(f), 2861, Aug. 13, 2018, 132 Stat. 2263, 2282; Pub. L. 116–92, div. B, title XXVIII, §2862, Dec. 20, 2019, 133 Stat. 1899; Pub. L. 116–283, div. B, title XXVIII, §2882, Jan. 1, 2021, 134 Stat. 4369; Pub. L. 117–81, div. A, title III, §313, Dec. 27, 2021, 135 Stat. 1629.)
+(Added Pub. L. 97–86, title IX, §912(a)(1), Dec. 1, 1981, 95 Stat. 1122; amended Pub. L. 98–115, title VIII, §808, Oct. 11, 1983, 97 Stat. 789; Pub. L. 100–26, §7(k)(3), Apr. 21, 1987, 101 Stat. 284; Pub. L. 100–456, div. B, title XXVIII, §2805, Sept. 29, 1988, 102 Stat. 2116; Pub. L. 101–510, div. D, title XLI, §4102(b), Nov. 5, 1990, 104 Stat. 1851; Pub. L. 102–25, title VII, §701(j)(3), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(28), div. D, title XLIII, §4301(a)–(c), Oct. 23, 1992, 106 Stat. 2500, 2696, 2697; Pub. L. 103–35, title II, §202(a)(15), May 31, 1993, 107 Stat. 101; Pub. L. 103–160, div. B, title XXIX, §2913, Nov. 30, 1993, 107 Stat. 1925; Pub. L. 103–337, div. A, title XI, §§1122(a), 1123(a), (b), Oct. 5, 1994, 108 Stat. 2870, 2871; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. B, title XXVIII, §2814, Sept. 23, 1996, 110 Stat. 2790; Pub. L. 105–85, div. B, title XXVIII, §2822, Nov. 18, 1997, 111 Stat. 1997; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–314, div. A, title X, §1041(a)(13), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 109–163, div. B, title XXVIII, §2832, Jan. 6, 2006, 119 Stat. 3520; Pub. L. 109–364, div. B, title XXVIII, §§2861, 2862, Oct. 17, 2006, 120 Stat. 2498; Pub. L. 110–417, div. B, title XXVIII, §2823(b), Oct. 14, 2008, 122 Stat. 4730; Pub. L. 112–239, div. B, title XXVII, §2712(c)(1), Jan. 2, 2013, 126 Stat. 2145; Pub. L. 115–232, div. B, title XXVIII, §§2805(f), 2861, Aug. 13, 2018, 132 Stat. 2263, 2282; Pub. L. 116–92, div. B, title XXVIII, §2862, Dec. 20, 2019, 133 Stat. 1899; Pub. L. 116–283, div. B, title XXVIII, §2882, Jan. 1, 2021, 134 Stat. 4369; Pub. L. 117–81, div. A, title III, §313, Dec. 27, 2021, 135 Stat. 1629; Pub. L. 117–263, div. B, title XXVIII, §§2862–2864, Dec. 23, 2022, 136 Stat. 3010, 3011.)
 
 #### <b>Editorial Notes</b>
 
@@ -127,6 +141,14 @@ Executive Order 12788, referred to in subsec. (c), is set out below.
 The amendment made by section 3002 of the Military Construction Authorization Act for Fiscal Year 2002, referred to in subsec. (d)(1)(B)(i), is the amendment made by section 3002 of title XXX of div. B of Pub. L. 107–107, Dec. 28, 2001, 115 Stat. 1344, which amended the Defense Base Closure and Realignment Act of 1990 (Pub. L. 101–510, div. B, title XXIX, part A \[§2901 et seq.\], Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under section 2687 of this title) by adding section 2912 of such Act.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(1)(B)(ii) to (iv). Pub. L. 117–263, §2862(1), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+
+Subsec. (d)(3) to (5). Pub. L. 117–263, §2863, added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+Subsec. (e)(4)(A)(i). Pub. L. 117–263, §2864, inserted "or on property under the jurisdiction of a Secretary of a military department that is subject to a real estate agreement (including a lease or easement)" after "installation".
+
+Subsec. (e)(6). Pub. L. 117–263, §2862(2), added par. (6).
 
 <b>2021</b>—Subsec. (b)(5)(D). Pub. L. 117–81, §313(1), added subpar. (D).
 
@@ -204,7 +226,7 @@ Subsec. (b)(4), (5). Pub. L. 102–484, §4301(a)(1), (2), added par. (4) and re
 
 Subsec. (c). Pub. L. 102–484, §4301(c)(3), inserted heading.
 
-Subsec. (d). Pub. L. 102–484, §4301(b)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In this section, the term 'military installation' means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any of the severalStates, the District of Columbia, the Commonwealth of Puerto Rico, or Guam."
+Subsec. (d). Pub. L. 102–484, §4301(b)(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In this section, the term 'military installation' means any camp, post, station, base, yard, or other installation under the jurisdiction of a military department that is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, or Guam."
 
 Subsec. (e). Pub. L. 102–484, §4301(c)(4), inserted heading.
 
@@ -218,7 +240,7 @@ Subsec. (e). Pub. L. 102–484, §4301(c)(4), inserted heading.
 
 "(6) Not more than $2,000,000 in assistance may be provided under this subsection in any fiscal year."
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–456, §2805(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds made available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments, and regional organizations composed of State and local governments, in planning community adjustments required (A) by the proposed or actual establishment, realignment, or closure of a military installation, or (B) by the cancellation or termination of a Department of Defense contract or the failure to proceed with an approved major weapon system program, if the Secretary of Defense determines that the action is likely to impose a significant impact on the affected community."
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–456, §2805(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary of Defense may make grants, conclude cooperative agreements, and supplement funds made available under Federal programs administered by agencies other than the Department of Defense in order to assist State and local governments, and regional organizations composed of State and local governments, in planning community adjustments required (A) by the proposed or actual establishment, realignment, or closure of a military installation, or (B) by the cancellation or termination of a Department ofDefense contract or the failure to proceed with an approved major weapon system program, if the Secretary of Defense determines that the action is likely to impose a significant impact on the affected community."
 
 Subsec. (b)(4) to (6). Pub. L. 100–456, §2805(b), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
@@ -282,7 +304,7 @@ Pub. L. 102–484, div. D, title XLIII, §4301(f), Oct. 23, 1992, 106 Stat. 2698
 
 #### Pilot Project To Improve Economic Adjustment Planning
 
-Pub. L. 102–484, div. D, title XLIII, §4302, Oct. 23, 1992, 106 Stat. 2698, as amended by Pub. L. 103–160, div. A,title XIII, §1323(a), Nov. 30, 1993, 107 Stat. 1790, authorized Secretary of Defense, during fiscal years 1993 and 1994, to conduct a pilot project to examine methods to improve the provision of economic adjustment and diversification assistance under 10 U.S.C. 2391(b)(1) to State and local governments adversely affected by the closure of military installations, the cancellation or completion of defense contracts, or reductions in defense spending.
+Pub. L. 102–484, div. D, title XLIII, §4302, Oct. 23, 1992, 106 Stat. 2698, as amended by Pub. L. 103–160, div. A, title XIII, §1323(a), Nov. 30, 1993, 107 Stat. 1790, authorized Secretary of Defense, during fiscal years 1993 and 1994, to conduct a pilot project to examine methods to improve the provision of economic adjustment and diversification assistance under 10 U.S.C. 2391(b)(1) to State and local governments adversely affected by the closure of military installations, the cancellation or completion of defense contracts, or reductions in defense spending.
 
 #### Donation of Real Property to Nonprofit Entities Providing Support to Children With Life-Threatening Diseases
 
@@ -294,7 +316,7 @@ Pub. L. 102–172, title VIII, §8149, Nov. 26, 1991, 105 Stat. 1214, provided t
 
 #### Defense Economic Adjustment, Diversification, Conversion, and Stabilization
 
-Pub. L. 101–510, div. D, Nov. 5, 1990, 104 Stat. 1848, as amended by Pub. L. 102–190, div. A, title X, §1062(c), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 102–484, div. D, title XLII, §4212(b), Oct. 23, 1992, 106 Stat. 2664; Pub. L. 104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419; Pub. L. 108–136, div. A, title IX, §932, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 113–66, div. B, title XXVIII, §2841, Dec. 26, 2013, 127 Stat. 1024, provided that:
+Pub. L. 101–510, div. D, Nov. 5, 1990, 104 Stat. 1848, as amended by Pub. L. 102–190, div. A, title X, §1062(c), Dec. 5, 1991, 105 Stat. 1475; Pub. L. 102–484, div. D, title XLII, §4212(b), Oct. 23, 1992, 106 Stat. 2664; Pub. L. 104–201, div. A, title VIII, §825, Sept. 23, 1996, 110 Stat. 2611; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(6)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419; Pub.L. 108–136, div. A, title IX, §932, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 113–66, div. B, title XXVIII, §2841, Dec. 26, 2013, 127 Stat. 1024, provided that:
 
 #### "SEC. 4001. SHORT TITLE
 
@@ -486,7 +508,7 @@ Coordination and Integration of Activities and Assistance with Other Agencies.�
 
 "(d)
 
-Reporting.—The annual reports made by the Export-Import Bank of the United States and the Administrator of the Small Business Administration and the annual economic stabilization and adjustment report under section 4004(c)(3) of this division shall include a description of the extent to which the bank and the Administrator are—
+Reporting.—The annual reports made by the Export-Import Bank of the United States and the Administrator of the Small Business Administration and the annual economic stabilization and adjustment reportunder section 4004(c)(3) of this division shall include a description of the extent to which the bank and the Administrator are—
 
 &emsp;"(1) providing financing described in subsections (a)(2) and (b), respectively, to businesses or groups of workers which were substantially and seriously affected by defense budget reductions; and
 
@@ -544,7 +566,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12788, Jan. 15, 1992, 57 F.R. 2213, as amended by Ex. Ord. No. 13286, §33, Feb. 28, 2003, 68 F.R. 10625; Ex. Ord. No. 13378, May 12, 2005, 70 F.R. 28413, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including 10 U.S.C. 2391 and the Defense Economic Adjustment, Diversification, Conversion, and Stabilization Act of 1990, enacted as Division D, section4001 <i>et seq</i>., of the National Defense Authorization Act for Fiscal Year 1991, Public Law 101–510 \[set out above\], and to provide coordinated Federal economic adjustment assistance necessitated by changes in Department of Defense activities, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including 10 U.S.C. 2391 and the Defense Economic Adjustment, Diversification, Conversion, and Stabilization Act of 1990, enacted as Division D, section 4001 <i>et seq</i>., of the National Defense Authorization Act for Fiscal Year 1991, Public Law 101–510 \[set out above\], and to provide coordinated Federal economic adjustment assistance necessitated by changes in Department of Defense activities, it is hereby ordered as follows:
 
 Section 1. <i>Function of the Secretary of Defense</i>. The Secretary of Defense shall, through the Economic Adjustment Committee, design and establish a Defense Economic Adjustment Program.
 

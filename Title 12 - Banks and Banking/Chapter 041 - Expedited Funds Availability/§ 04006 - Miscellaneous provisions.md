@@ -38,7 +38,7 @@ Each depository institution shall—
 
 #### (f) Adjustments to dollar amounts for inflation
 
-The dollar amounts under this chapter shall be adjusted every 5 years after December 31, 2011,by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $25.
+The dollar amounts under this chapter shall be adjusted every 5 years after December 31, 2011, by the annual percentage increase in the Consumer Price Index for Urban Wage Earners and Clerical Workers, as published by the Bureau of Labor Statistics, rounded to the nearest multiple of $25.
 
 (Pub. L. 100–86, title VI, §607, Aug. 10, 1987, 101 Stat. 646; Pub. L. 111–203, title X, §1086(f), July 21, 2010, 124 Stat. 2086.)
 

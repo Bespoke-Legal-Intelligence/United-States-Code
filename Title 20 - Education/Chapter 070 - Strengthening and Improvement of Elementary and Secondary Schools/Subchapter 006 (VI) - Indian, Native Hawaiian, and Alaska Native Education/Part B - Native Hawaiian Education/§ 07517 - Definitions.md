@@ -16,7 +16,7 @@ In this part:
 
 &emsp;&emsp;(A) a citizen of the United States; and
 
-&emsp;&emsp;(B) a descendant of the aboriginal people who, prior to 1778, occupied and exercised sovereignty in the area that now comprises the State of Hawaii, as evidenced by—
+&emsp;&emsp;(B) a descendant of the aboriginal people who, prior to 1778, occupied and exercisedsovereignty in the area that now comprises the State of Hawaii, as evidenced by—
 
 &emsp;&emsp;&emsp;(i) genealogical records;
 

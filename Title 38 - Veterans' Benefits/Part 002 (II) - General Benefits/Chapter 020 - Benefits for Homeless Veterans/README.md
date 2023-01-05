@@ -17,7 +17,9 @@
 | [2011\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Service%20Programs/%C2%A7%2002011%20-%20Grants.md) | Grants. |
 | [2012\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Service%20Programs/%C2%A7%2002012%20-%20Per%20diem%20payments.md) | Per diem payments. |
 | [2013\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Service%20Programs/%C2%A7%2002013%20-%20Program%20to%20improve%20retention%20of%20housing%20by%20formerly%20homeless%20veterans%20and%20veterans%20at%20risk%20of%20becoming%20homeless.md) | Program to improve retention of housing by formerly homeless veterans and veterans at risk of becoming homeless. |
-| [2014\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Service%20Programs/%C2%A7%2002014%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [2014\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Service%20Programs/%C2%A7%2002014%20-%20Training%20and%20technical%20assistance%20for%20recipients%20of%20certain%20financial%20assistance.md) | Training and technical assistance for recipients of certain financial assistance. |
+| [2015\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Service%20Programs/%C2%A7%2002015%20-%20Training%20and%20technical%20assistance%20for%20entities%20regarding%20services%20provided%20to%20veterans%20at%20risk%20of%2C%20experiencing%2C%20or%20transitioning%20out%20of%E2%80%A6.md) | Training and technical assistance for entities regarding services provided to veterans at risk of, experiencing, or transitioning out of homelessness. |
+| [2016\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Service%20Programs/%C2%A7%2002016%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -77,12 +79,15 @@
 | [2065\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002065%20-%20Annual%20report%20on%20assistance%20to%20homeless%20veterans.md) | Annual report on assistance to homeless veterans. |
 | [2066\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002066%20-%20Advisory%20Committee%20on%20Homeless%20Veterans.md) | Advisory Committee on Homeless Veterans. |
 | [2067\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002067%20-%20National%20Center%20on%20Homelessness%20Among%20Veterans.md) | National Center on Homelessness Among Veterans. |
+| [2068\.](Subchapter%20007%20%28VII%29%20-%20Other%20Provisions/%C2%A7%2002068%20-%20Mental%20health%20consultations.md) | Mental health consultations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. U, title III, §305(b)(4), div. V, title IV, §404(b)(2), Dec. 29, 2022, 136 Stat. 5472, 5513, added items 2014 to 2016 and 2068 and struck out former item 2014 "Authorization of appropriations".
 
 <b>2021</b>—Pub. L. 116–315, title IV, §4202(b), Jan. 5, 2021, 134 Stat. 5012, added item 2022A.
 

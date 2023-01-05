@@ -80,7 +80,7 @@ Subsecs. (g), (h). Pub. L. 110–417, §735(a)(2), (3), added subsecs. (g) and (
 
 <b>2003</b>—Subsec. (f). Pub. L. 108–136 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
-"(1) At any time after the Secretary concerned notifies members of the Ready Reserve that the members are to be called or ordered to active duty, the administering Secretaries may provide to each such member any medical and dental screening and care that is necessary to ensure that the member meets the applicable medical and dental standards for deployment.
+"(1) At any time after the Secretary concerned notifies members of the Ready Reserve that the membersare to be called or ordered to active duty, the administering Secretaries may provide to each such member any medical and dental screening and care that is necessary to ensure that the member meets the applicable medical and dental standards for deployment.
 
 "(2) The Secretary concerned shall promptly transmit to each member of the Ready Reserve eligible for screening and care under this subsection a notification of eligibility for such screening and care.
 

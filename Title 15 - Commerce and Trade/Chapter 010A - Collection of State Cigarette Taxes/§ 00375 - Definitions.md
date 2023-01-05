@@ -168,7 +168,7 @@ Act Oct. 19, 1949, ch. 699, 63 Stat. 884, which is classified generally to this 
 
 #### Severability
 
-Pub. L. 111–154, §7, Mar. 31, 2010, 124 Stat. 1111, provided that: "If any provision of this Act \[see ShortTitle of 2010 Amendment note above\], or any amendment made by this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of the Act to any other person or circumstance shall not be affected thereby."
+Pub. L. 111–154, §7, Mar. 31, 2010, 124 Stat. 1111, provided that: "If any provision of this Act \[see Short Title of 2010 Amendment note above\], or any amendment made by this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of the Act to any other person or circumstance shall not be affected thereby."
 
 #### Rule of Construction
 
@@ -252,7 +252,7 @@ Treatment of State and Local Governments.—Nothing in this Act or the amendment
 
 "(d)
 
-Enforcement Within Indian Country.—Nothing in this Act or the amendments made by this Act shall prohibit, limit, or restrict enforcement by the Attorney General of the United States of this Act or an amendment made by this Act within Indian country.
+Enforcement Within Indian Country.—Nothing in this Act or the amendments made by this Act shallprohibit, limit, or restrict enforcement by the Attorney General of the United States of this Act or an amendment made by this Act within Indian country.
 
 "(e)
 

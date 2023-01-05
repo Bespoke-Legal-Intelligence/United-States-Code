@@ -1,6 +1,6 @@
 ### §132. Deputy Secretary of Defense
 
-(a) There is a Deputy Secretary of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate managementexperience. A person may not be appointed as Deputy Secretary of Defense within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
+(a) There is a Deputy Secretary of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate. The Deputy Secretary shall be appointed from among persons most highly qualified for the position by reason of background and experience, including persons with appropriate management experience. A person may not be appointed as Deputy Secretary of Defense within seven years after relief from active duty as a commissioned officer of a regular component of an armed force.
 
 (b) The Deputy Secretary shall perform such duties and exercise such powers as the Secretary of Defense may prescribe. The Deputy Secretary shall act for, and exercise the powers of, the Secretary when the Secretary dies, resigns, or is otherwise unable to perform the functions and duties of the office.
 
@@ -122,6 +122,106 @@ Amendment by section 901(c)(2), (m)(2) of Pub. L. 111–383 effective Jan. 1, 20
 
 For order of succession during any period when the Secretary has died, resigned, or is otherwise unable to perform the functions and duties of the office of Secretary, see Ex. Ord. No. 13533, Mar. 1, 2010, 75 F.R. 10163, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 
+#### Joint All Domain Command and Control
+
+Pub. L. 117–263, div. A, title IX, §915, Dec. 23, 2022, 136 Stat. 2752, provided that:
+
+"(a)
+
+Direction and Control of Joint All Domain Command and Control.—The Deputy Secretary of Defense, in coordination with the Vice Chairman of the Joint Chiefs of Staff, shall oversee joint all domain command and control (commonly known as 'JADC2') to ensure—
+
+&emsp;"(1) close collaboration with the Joint Requirements Oversight Council, the combatant commands, and the military services regarding operational requirements and requirements satisfaction relating to joint all domain command and control; and
+
+&emsp;"(2) objective assessments to the Deputy Secretary and Vice Chairman about the progress of the Department of Defense in achieving the objectives of joint all domain command and control.
+
+"(b)
+
+Demonstrations and Fielding of Mission Threads.—
+
+&emsp;"(1)
+
+In general.—The Deputy Secretary and Vice Chairman shall take the following actions in support of the objectives described in paragraph (2):
+
+&emsp;&emsp;"(A) In consultation with the Commander of the United States Indo-Pacific Command and the commanders of such other combatant commands as may be designated by the Deputy Secretary—
+
+&emsp;&emsp;&emsp;"(i) identify a prioritized list of difficult mission-critical operational challenges specific to the area of operations of the designated commands;
+
+&emsp;&emsp;&emsp;"(ii) design and recommend resourcing options, through the Office of Cost Analysis and Program Evaluation and the Management Action Group of the Deputy Secretary, a series of multi-domain, multi-service and multi-agency, multi-platform, and multisystem end-to-end integrated kinetic and non-kinetic mission threads, including necessary battle management functions, to solve the operational challenges identified in clause (i);
+
+&emsp;&emsp;&emsp;"(iii) demonstrate the ability to execute the integrated mission threads identified in clause (ii) in realistic conditions on a repeatable basis, including the ability to achieve, through mission integration software, interoperability among effects chain components that do not conform to common interface standards, including the use of the System of Systems Technology Integration Tool Chain for Heterogeneous Electronic Systems (commonly known as 'STITCHES') managed by the 350th Spectrum Warfare Wing of the Department of the Air Force; and
+
+&emsp;&emsp;&emsp;"(iv) create a plan to deploy the mission threads to the area of operations of the United States Indo-Pacific Command and such other combatant commands as may be designated by Deputy Secretary, and execute the mission threads at the scale and pace required to solve the identified operational challenges, including necessary logistics and sustainment capabilities.
+
+&emsp;&emsp;"(B) Designate organizations to serve as transition partners for integrated mission threads and ensure such integrated mission threads are maintained and exercised as operational capabilities in the United States Indo-Pacific Command and such other combatant commands as may be designated by Deputy Secretary.
+
+&emsp;&emsp;"(C) Designate organizations and elements of the Department of Defense as the Deputy Secretary determines appropriate to be responsible for—
+
+&emsp;&emsp;&emsp;"(i) serving as mission managers for composing and demonstrating the integrated mission threads under the mission management pilot program established by section 871 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 191 note);
+
+&emsp;&emsp;&emsp;"(ii) providing continuing support and sustainment for, and training and exercising of, the integrated mission threads under the operational command of the Commander of United States Indo-Pacific Command and such other combatant commands as may be designated by Deputy Secretary;
+
+&emsp;&emsp;&emsp;"(iii) planning and executing experimentation and demonstrations with—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) Joint data integration approaches;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) mission integration capabilities, especially software; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) Joint tactics, techniques, and procedures;
+
+&emsp;&emsp;&emsp;"(iv) assisting in fielding mission integration software to encourage the development and employment of such software on a larger scale, especially at the designated combatant commands;
+
+&emsp;&emsp;&emsp;"(v) assessing and integrating, as appropriate, the capabilities of Assault Breaker II, developed by the Defense Advanced Research Projects Agency, and related developmental efforts as those efforts transition to operational deployment; and
+
+&emsp;&emsp;&emsp;"(vi) integrating joint all domain command and control mission threads and mission command and control, including in conflicts that arise with minimal warning, and exercising other joint all domain command and control capabilities and functions.
+
+&emsp;&emsp;"(D) Integrate the planning and demonstrations of the mission threads with—
+
+&emsp;&emsp;&emsp;"(i) the Production, Exploitation, and Dissemination Center in the United States Indo-Pacific Command;
+
+&emsp;&emsp;&emsp;"(ii) the Family of Integrated Targeting Cells; and
+
+&emsp;&emsp;&emsp;"(iii) the tactical dissemination and information sharing systems for the Armed Forces and allies of the United States, including the Mission Partner Environment and the Maven Smart System.
+
+&emsp;"(2)
+
+Objectives described.—The objectives described in this paragraph are the following—
+
+&emsp;&emsp;"(A) to support the emphasis of the National Defense Strategy on adversary-specific deterrence postures;
+
+&emsp;&emsp;"(B) to support actions that can be taken within the period covered by the future-years defense program focused on—
+
+&emsp;&emsp;&emsp;"(i) critical mission threads, such as kinetic kill chains and non-kinetic effects chains; and
+
+&emsp;&emsp;&emsp;"(ii) integrated concepts of operation;
+
+&emsp;&emsp;"(C) to support demonstrations and experimentation; and
+
+&emsp;&emsp;"(D) to achieve the objectives of the Joint All Domain Command and Control Strategy and Implementation Plan approved by the Deputy Secretary of Defense.
+
+"(c)
+
+Performance Goals.—The Deputy Secretary, the Vice Chairman, and the commanders of such other combatant commands as may be designated by the Deputy Secretary shall seek to—
+
+&emsp;"(1) beginning in the third quarter of fiscal year 2023, demonstrate new integrated mission threads on a regularly recurring basis multiple times each year; and
+
+&emsp;"(2) include such demonstrations, as feasible, in the Rapid Defense Experimentation Reserve campaign of experimentation, Valiant Shield, Northern Edge, the Large Scale Global Exercise, the quarterly Scarlet Dragon exercises, the Global Information Dominance Experiments, and annual force exercises in the area of responsibility of the United States Indo-Pacific Command.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'Deputy Secretary' means the Deputy Secretary of Defense.
+
+&emsp;"(2) The term 'Family of Integrated Targeting Cells' means the Maritime Targeting Cell-Afloat, the Maritime Targeting Cell-Expeditionary, the Tactical Intelligence Targeting Access Node, Tactical Operations Center Medium/Light, and other interoperable command and control nodes that are able to task the collection of, receive, process, and disseminate track and targeting information from many sensing systems in disconnected, denied, intermittent or limited bandwidth conditions.
+
+&emsp;"(3) The term 'joint all domain command and control' refers to the warfighting capabilities that support commander decision making at all echelons from campaigning to conflict, across all domains, and with partners, to deliver information advantage.
+
+&emsp;"(4) The term 'mission command' is the employment of military operations through decentralized execution based upon mission-type orders and the intent of commanders.
+
+&emsp;"(5) The terms 'mission thread', 'kill chain', and 'effects chain' have the meanings given those terms in the publication of the Office of the Under Secretary of Defense for Research and Engineering titled 'Mission Engineering Guide' and dated November 2020.
+
+&emsp;"(6) The term 'Vice Chairman' means the Vice Chairman of the Joint Chiefs of Staff."
+
 #### Improvement of the Strategic Capabilities Office of the Department of Defense
 
 Pub. L. 116–92, div. A, title II, §233, Dec. 20, 2019, 133 Stat. 1277, provided that:
@@ -174,6 +274,8 @@ Pub. L. 110–181, div. A, title IX, §904(a)(2), Jan. 28, 2008, 122 Stat. 273, 
 
 "(D) The Deputy Chief Management Officer shall perform the duties and have the authorities assigned by the Secretary under subparagraph (C) and perform such duties and have such authorities as are delegated by the Chief Management Officer."
 
+\[Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.\]
+
 #### Assignment of Management Duties and Designation of the Chief Management Officers of the Military Departments
 
 Pub. L. 110–181, div. A, title IX, §904(b), Jan. 28, 2008, 122 Stat. 274, as amended by Pub. L. 113–291, div. A, title IX, §901(n)(1), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 115–91, div. A, title X, §1081(b)(1)(D), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(E), Aug. 13, 2018, 132 Stat. 1987, provided that:
@@ -185,4 +287,6 @@ Pub. L. 110–181, div. A, title IX, §904(b), Jan. 28, 2008, 122 Stat. 274, as 
 "(3) The Secretary shall assign such duties and authorities to the Chief Management Officer as are necessary for that official to effectively and efficiently organize the business operations of the military department concerned.
 
 "(4) The Chief Management Officer of each military department shall promptly provide such information relating to the business operations of such department to the Chief Management Officer of the Department of Defense as is necessary to assist the Chief Management Officer in the performance of the duties assigned to such official."
+
+\[Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.\]
 

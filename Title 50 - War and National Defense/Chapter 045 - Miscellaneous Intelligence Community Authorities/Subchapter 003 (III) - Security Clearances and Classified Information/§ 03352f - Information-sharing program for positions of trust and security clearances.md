@@ -82,6 +82,74 @@ Not later than 1 year after December 20, 2019, the Security Executive Agent and 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Federal Policy on Sharing of Covered Insider Threat Information Pertaining to Contractor Employees in the Trusted Workforce
+
+Pub. L. 117–103, div. X, title VIII, §806, Mar. 15, 2022, 136 Stat. 1014, as amended by Pub. L. 117–263, div. F, title LXVI, §6606, Dec. 23, 2022, 136 Stat. 3559, provided that:
+
+"(a)
+
+Policy Required.—Not later than 2 years after the date of the enactment of this Act \[Mar. 15, 2022\], the Director of National Intelligence, in coordination with the Secretary of Defense, the Director of the Office of Management and Budget, and the Attorney General, shall issue a policy for the Federal Government on sharing covered insider threat information pertaining to contractor employees.
+
+"(b)
+
+Consent Requirement.—The Director shall ensure that the policy issued under subsection (a) requires, as a condition of obtaining and maintaining a security clearance with the Federal Government, that a contractor employee provide prior written consent for the Federal Government to share covered insider threat information with the senior official responsible for the insider threat program of the contractor that employs the contractor employee. The Director may include in such policy restrictions on the further disclosure of such information.
+
+"(c)
+
+Consultation.—On a quarterly basis during the period in which the Director is developing the policy under subsection (a), the Director shall consult with Congress and industry partners with respect to such development.
+
+"(d)
+
+Review.—
+
+&emsp;"(1)
+
+Submission.—Not later than 1 year after the date of the issuance of the policy under subsection (a), the Director of National Intelligence and the Secretary of Defense shall jointly submit to Congress and make available to such industry partners as the Director and the Secretary consider appropriate a review of the policy.
+
+&emsp;"(2)
+
+Contents.—The review under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An assessment of the utility and effectiveness of the policy issued under subsection (a).
+
+&emsp;&emsp;"(B) Such recommendations as the Director and the Secretary determine appropriate with respect to legislative or administrative action relevant to such policy.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered insider threat information.—The term 'covered insider threat information'—
+
+&emsp;&emsp;"(A) means information that—
+
+&emsp;&emsp;&emsp;"(i) is relevant with respect to adjudications relating to determinations of eligibility for access to classified information;
+
+&emsp;&emsp;&emsp;"(ii) an agency or department of the Federal Government has vetted and verified; and
+
+&emsp;&emsp;&emsp;"(iii) according to Director of National Intelligence policy, is considered relevant to the ability of a contractor employee to protect against insider threats as required by section 117.7(d) of title 32, Code of Federal Regulations, or successor regulation; and
+
+&emsp;&emsp;"(B) includes pertinent information considered in the counter-threat assessment, as authorized by a provision of Federal law or Executive Order.
+
+&emsp;"(2)
+
+Contractor employee.—The term 'contractor employee' means an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of a department or agency of the Federal Government."
+
+#### Governance of Trusted Workforce 2.0 Initiative
+
+Pub. L. 117–103, div. X, title VIII, §807(a), Mar. 15, 2022, 136 Stat. 1015, provided that:
+
+"(a)
+
+Governance.—The Director of National Intelligence, acting as the Security Executive Agent, and the Director of the Office of Personnel Management, acting as the Suitability and Credentialing Executive Agent, in coordination with the Deputy Director for Management in the Office of Management and Budget, acting as the chairman of the Performance Accountability Council, and the Under Secretary of Defense for Intelligence and Security shall jointly—
+
+&emsp;"(1) not later than 180 days after the date of the enactment of this Act \[Mar. 15, 2022\], publish, in the Federal Register as appropriate, a policy with guidelines and standards for Federal Government agencies and industry partners to implement the Trusted Workforce 2.0 initiative;
+
+&emsp;"(2) not later than 2 years after the date of the enactment of this Act and not less frequently than once every 6 months thereafter, submit to Congress a report on the timing, delivery, and adoption of Federal Government agencies' policies, products, and services to implement the Trusted Workforce 2.0 initiative, including those associated with the National Background Investigation Service; and
+
+&emsp;"(3) not later than 90 days after the date of the enactment of this Act, submit to Congress performance management metrics for the implementation of the Trusted Workforce 2.0 initiative, including performance metrics regarding timeliness, cost, and measures of effectiveness."
+
 #### Trusted Information Provider Program for National Security Positions and Positions of Trust
 
 Pub. L. 115–232, div. A, title IX, §941, Aug. 13, 2018, 132 Stat. 1941, provided that:
@@ -96,7 +164,7 @@ Privacy Safeguards.—The Security Executive Agent and the Suitability/Credentia
 
 "(c)
 
-Provision of Information to the Federal Government.—The program required by subsection (a)shall include requirements that enable Investigative Service Providers and agencies of the Federal Government to leverage certain pre-employment information gathered during the employment or military recruiting process, and other relevant security or human resources information obtained during employment with or for the Federal Government, that satisfy Federal investigative standards, while safeguarding personnel privacy.
+Provision of Information to the Federal Government.—The program required by subsection (a) shall include requirements that enable Investigative Service Providers and agencies of the Federal Government to leverage certain pre-employment information gathered during the employment or military recruiting process, and other relevant security or human resources information obtained during employment with or for the Federal Government, that satisfy Federal investigative standards, while safeguarding personnel privacy.
 
 "(d)
 
@@ -132,7 +200,7 @@ Implementation Plan.—
 
 &emsp;"(1)
 
-In general.—Not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Security Executive Agent and the Suitability/Credentialing Executive Agent shall jointly submit to Congress a plan for the implementation of the program required by subsection (a).
+In general.—Not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\], theSecurity Executive Agent and the Suitability/Credentialing Executive Agent shall jointly submit to Congress a plan for the implementation of the program required by subsection (a).
 
 &emsp;"(2)
 

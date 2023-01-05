@@ -8,7 +8,7 @@ Designation.—The Secretary of Defense shall design and designate a flag as the
 
 Presentation.—The Medal of Honor Flag shall be presented as specified in sections 7285, 8307, and 9285 of title 10 and section 505 <sup>1</sup> of title 14.
 
-(Added Pub. L. 107–248, title VIII, §8143(b)(1), Oct. 23, 2002, 116 Stat. 1570; amended Pub. L. 115–232, div. A, title VIII, §809(l)(1), Aug. 13, 2018, 132 Stat. 1843.)
+(Added Pub. L. 107–248, title VIII, §8143(b)(1), Oct. 23, 2002, 116 Stat. 1570; amended Pub. L.115–232, div. A, title VIII, §809(l)(1), Aug. 13, 2018, 132 Stat. 1843.)
 
 #### <b>Editorial Notes</b>
 

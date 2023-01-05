@@ -16,7 +16,7 @@ In General.—The Center shall—
 
 &emsp;&emsp;(B) a requirement that the Center shall immediately report to law enforcement consistent with section 226 of the Victims of Child Abuse Act of 1990 (34 U.S.C. 20341) any allegation of child abuse of an amateur athlete who is a minor, including any report of such abuse submitted to the Center by a minor or by any person who is not otherwise required to report such abuse;
 
-&emsp;&emsp;(C) 1 or more policies that prohibit any individual who is an employee, contractor, or agent of the Center from assisting a member or former member in obtaining a new job\(except for the routine transmission of administrative and personnel files) if the individual knows that such member or former member violated the policies or procedures of the Center related to sexual misconduct or was convicted of a crime involving sexual misconduct with a minor in violation of applicable law;
+&emsp;&emsp;(C) 1 or more policies that prohibit any individual who is an employee, contractor, or agent of the Center from assisting a member or former member in obtaining a new job (except for the routine transmission of administrative and personnel files) if the individual knows that such member or former member violated the policies or procedures of the Center related to sexual misconduct or was convicted of a crime involving sexual misconduct with a minor in violation of applicable law;
 
 &emsp;&emsp;(D) a requirement that the Center, including any officer, agent, attorney, or staff member of the Center, shall not take any action to notify an alleged perpetrator of abuse of an amateur athlete of any ongoing investigation or accusation unless—
 
@@ -98,7 +98,7 @@ Pub. L. 116–189, §7(a)(2)(A)(viii)(I), struck out "or paralympic sports organ
 
 Subsec. (a)(2)(F)(i). Pub. L. 116–189, §7(a)(2)(A)(viii)(I), (II)(cc), substituted "a national governing body or an adult" for "a national governing body or paralympic sports organization, or an adult" and struck out ", paralympic sports organization," after "by a national governing body" and ", paralympic sports organizations," after "national governing bodies".
 
-Subsec. (a)(2)(G). Pub. L. 116–189, §8(b)(2)(B)(ii), (v), redesignated subpar. (D) as (G) and amended it generally. Prior to amendment, subpar. read as follows: "procedures to prohibit retaliation, by any national governing body or paralympic sports organization, against any individual who makes a report under subparagraph (A) or subparagraph (B);".
+Subsec. (a)(2)(G). Pub. L. 116–189, §8(b)(2)(B)(ii), (v), redesignated subpar. (D) as (G) and amended it generally. Prior to amendment, subpar. read as follows: "procedures to prohibit retaliation, by any national governing body or paralympic sports organization,against any individual who makes a report under subparagraph (A) or subparagraph (B);".
 
 Subsec. (a)(2)(H), (I). Pub. L. 116–189, §8(b)(2)(B)(ii), redesignated subpars. (E) and (F) as (H) and (I), respectively.
 

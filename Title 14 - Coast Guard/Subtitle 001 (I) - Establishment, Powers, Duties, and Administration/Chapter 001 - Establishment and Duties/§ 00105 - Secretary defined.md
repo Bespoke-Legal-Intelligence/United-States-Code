@@ -20,7 +20,7 @@ Said sections authorized medals for presentation ". . . to any person who, whi
 
 Subsection (e) is based on title 34, U.S.C., 1946 ed., §228 (R.S. 1442; Feb. 28, 1942, ch. 11, 59 Stat. 9).
 
-Inasmuch as R.S. 1442 cited above applies to the Navy and Marine Corps as well as the Coast Guard it is not scheduled for repeal but is being amended by section 6 of this act to eliminate reference to the Coast Guard.
+Inasmuch as R.S. 1442 cited above applies to the Navy and Marine Corps as well as the Coast Guard it is notscheduled for repeal but is being amended by section 6 of this act to eliminate reference to the Coast Guard.
 
 Subsection (f) is based on title 14, U.S.C., 1946 ed., §3 (Aug. 29, 1916, ch. 417, 39 Stat. 600).
 

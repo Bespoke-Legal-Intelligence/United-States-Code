@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b), no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $5,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President's annual fiscal year budget request and is specifically authorized by the Congress.
+&emsp;Except as provided in subsection (b), no project for the construction of any facility tobe used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $6,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President's annual fiscal year budget request and is specifically authorized by the Congress.
 
 #### (2) Notification
 
-&emsp;In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $2,000,000 but less than $5,000,000, or where any project for the improvement, repair, or modification of such a facility has an estimated Federal cost greater than $2,000,000, the head of such component, in coordination with and subject to the approval of the Director of National Intelligence, shall submit a notification to the intelligence committees specifically identifying such project.
+&emsp;In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $2,000,000 but less than $6,000,000, or where any project for the improvement, repair, or modification of such a facility has an estimated Federal cost greater than $2,000,000, the head of such component, in coordination with and subject to the approval of the Director of National Intelligence, shall submit a notification to the intelligence committees specifically identifying such project.
 
 #### (b) Exception
 
@@ -24,7 +24,7 @@
 
 &emsp;(A) When a decision is made to carry out a construction project under this subsection, the Secretary of Defense and the Director of National Intelligence jointly shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include (i) the justification for the project and the current estimate of the cost of the project, (ii) the justification for carrying out the project under this subsection, and (iii) a statement of the source of the funds to be used to carry out the project. The project may then be carried out only after the end of the 7-day period beginning on the date the notification is received by such committees.
 
-&emsp;(B) Notwithstanding subparagraph (A), a project referred to in paragraph (1) may begin on the date the notification is received by the appropriate committees of Congress underthat paragraph if the Director of National Intelligence and the Secretary of Defense jointly determine that—
+&emsp;(B) Notwithstanding subparagraph (A), a project referred to in paragraph (1) may begin on the date the notification is received by the appropriate committees of Congress under that paragraph if the Director of National Intelligence and the Secretary of Defense jointly determine that—
 
 &emsp;&emsp;(i) an emergency exists with respect to the national security or the protection of health, safety, or environmental quality; and
 
@@ -42,7 +42,7 @@
 
 This section shall not apply to any project which is subject to subsection (a)(1)(A) or (c) of section 601.
 
-(Pub. L. 103–359, title VI, §602, Oct. 14, 1994, 108 Stat. 3432; Pub. L. 108–177, title III, §314, Dec. 13, 2003, 117 Stat. 2610; Pub. L. 111–259, title VIII, §809, Oct. 7, 2010, 124 Stat. 2749; Pub. L. 115–31, div. N, title III, §307, May 5, 2017, 131 Stat. 813; Pub. L. 116–260, div. W, title III, §309, Dec. 27, 2020, 134 Stat. 2369.)
+(Pub. L. 103–359, title VI, §602, Oct. 14, 1994, 108 Stat. 3432; Pub. L. 108–177, title III, §314, Dec. 13, 2003, 117 Stat. 2610; Pub. L. 111–259, title VIII, §809, Oct. 7, 2010, 124 Stat. 2749; Pub. L. 115–31, div. N, title III, §307, May 5, 2017, 131 Stat. 813; Pub. L. 116–260, div. W, title III, §309, Dec. 27, 2020, 134 Stat. 2369; Pub. L. 117–103, div. X, title III, §305, Mar. 15, 2022, 136 Stat. 966.)
 
 #### <b>Editorial Notes</b>
 
@@ -55,6 +55,8 @@ Section 601, referred to in subsec. (c), means section 601 of Pub. L. 103–359,
 Section was formerly classified to section 403–2b of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–103 substituted "$6,000,000" for "$5,000,000" in pars. (1) and (2).
 
 <b>2020</b>—Subsec. (a)(2). Pub. L. 116–260 substituted "$2,000,000" for "$1,000,000" in two places and substituted "the head of such component, in coordination with and subject to the approval of the Director of National Intelligence, shall submit a notification" for "the Director of National Intelligence shall submit a notification".
 

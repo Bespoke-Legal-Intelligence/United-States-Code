@@ -4,7 +4,7 @@ This chapter does not—
 
 &emsp;(1) authorize the Secretary of Transportation to prescribe regulations and issue orders related to qualifications of employees, except qualifications specifically related to safety; or
 
-&emsp;(2) prohibit the bargaining representatives of railroad carriers and their employees from making collective bargaining agreements under the Railway Labor Act (45 U.S.C. 151 et seq.), including agreements related to qualifications of employees, that are not inconsistent with regulations prescribed and orders issued under this chapter.
+&emsp;(2) prohibit the bargaining representatives of railroad carriers and their employees from making collective bargaining agreementsunder the Railway Labor Act (45 U.S.C. 151 et seq.), including agreements related to qualifications of employees, that are not inconsistent with regulations prescribed and orders issued under this chapter.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 868.)
 
@@ -30,5 +30,5 @@ In clause (2), the words "railroad carriers" are substituted for "common carrier
 
 #### References in Text
 
-The Railway Labor Act, referred to in par. (2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in par. (2), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 

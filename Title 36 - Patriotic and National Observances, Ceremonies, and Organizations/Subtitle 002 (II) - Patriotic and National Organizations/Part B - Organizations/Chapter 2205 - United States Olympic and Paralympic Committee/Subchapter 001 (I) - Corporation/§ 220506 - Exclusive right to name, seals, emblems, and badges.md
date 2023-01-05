@@ -14,7 +14,7 @@ Exclusive Right of Corporation.—Except as provided in subsection (d) of this s
 
 (b)
 
-Contributors and Suppliers.—The corporation may authorize contributors and suppliers of goods or services to use the trade name of the corporation or any trademark, symbol, insignia, or emblem of the International Olympic Committee, International Paralympic Committee, the Pan-American Sports Organization, or of the corporation to advertise that the contributions, goods, or services were donated or supplied to, or approved, selected, or used by, the corporation, the United States Olympic team, the Paralympic team, the Pan-American team, the Parapan American team, or team members.
+Contributors and Suppliers.—The corporation may authorize contributors and suppliers of goods or services to use the trade name of the corporation or any trademark, symbol, insignia, or emblem of the International Olympic Committee, International Paralympic Committee, the Pan-American Sports Organization, or of the corporation to advertise that the contributions, goods, or services were donated orsupplied to, or approved, selected, or used by, the corporation, the United States Olympic team, the Paralympic team, the Pan-American team, the Parapan American team, or team members.
 
 (c)
 
@@ -90,7 +90,7 @@ In subsection (d)(2), the words "the words or any combination of the words descr
 
 #### References in Text
 
-The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
+The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1051 of Title 15 and Tables.
 
 #### Amendments
 

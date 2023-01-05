@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(A) public notice has been given; and
 
-&emsp;&emsp;(B) the Office of Personnel Management has determined that there exists a severe shortage of candidates (or, with respect tothe Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates) or that there is a critical hiring need.
+&emsp;&emsp;(B) the Office of Personnel Management has determined that there exists a severe shortage of candidates (or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates) or that there is a critical hiring need.
 
 > The Office shall prescribe, by regulation, criteria for identifying such positions and may delegate authority to make determinations under such criteria.
 
@@ -40,7 +40,49 @@
 
 (5) The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI, §1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450; Pub. L. 111–84, div. A, title XI, §1102(d)(2), Oct. 28, 2009, 123 Stat. 2485; Pub. L. 115–46, title II, §213, Aug. 12, 2017, 131 Stat. 967.)
+(g)
+
+Eligibility of Department of Defense Employees in Time-limited Appointments to Compete for Permanent Appointments.—
+
+&emsp;(1)
+
+Definitions.—In this subsection—
+
+&emsp;&emsp;(A) the term "Department" means the Department of Defense; and
+
+&emsp;&emsp;(B) the term "time-limited appointment" means a temporary or term appointment in the competitive service.
+
+&emsp;(2)
+
+Eligibility.—Notwithstanding any other provision of this chapter or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, an employee of the Department serving under a time-limited appointment is eligible to compete for a permanent appointment in the competitive service when the Department is accepting applications from individuals within its own workforce, or from individuals outside its own workforce, under merit promotion procedures, if—
+
+&emsp;&emsp;(A) the employee was appointed initially under open, competitive examination under subchapter I of this chapter to the time-limited appointment;
+
+&emsp;&emsp;(B) the employee has served under 1 or more time-limited appointments within the Department for a period or periods totaling more than 2 years without a break of 2 or more years; and
+
+&emsp;&emsp;(C) the employee's performance has been at an acceptable level of performance throughout the period or periods referred to in subparagraph (B).
+
+&emsp;(3)
+
+Career-conditional status; competitive status.—An individual appointed to a permanent position under this section—
+
+&emsp;&emsp;(A) becomes a career-conditional employee, unless the employee has otherwise completed the service requirements for career tenure; and
+
+&emsp;&emsp;(B) acquires competitive status upon appointment.
+
+&emsp;(4)
+
+Former employees.—If the Department is accepting applications as described in paragraph (2), a former employee of the Department who served under a time-limited appointment and who otherwise meets the requirements of this section shall be eligible to compete for a permanent position in the competitive service under this section if—
+
+&emsp;&emsp;(A) the employee applies for a position covered by this section not later than 2 years after the most recent date of separation; and
+
+&emsp;&emsp;(B) the employee's most recent separation was for reasons other than misconduct or performance.
+
+&emsp;(5)
+
+Regulations.—The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290; Pub. L. 108–375, div. A, title XI, §1105(g), Oct. 28, 2004, 118 Stat. 2075; Pub. L. 109–163, div. A, title XI, §1104(e)(2), Jan. 6, 2006, 119 Stat. 3450; Pub. L. 111–84, div. A, title XI, §1102(d)(2), Oct. 28, 2009, 123 Stat. 2485; Pub. L. 115–46, title II, §213, Aug. 12, 2017, 131 Stat. 967; Pub. L. 117–263, div. A, title XI, §1108, Dec. 23, 2022, 136 Stat. 2818.)
 
 Historical and Revision Notes
 
@@ -96,7 +138,7 @@ In subsection (a), the authority of the President to prescribe rules is added on
 
 In subsection (b), the words "That after the expiration of six months from the passage of this act" are omitted as executed. The words "in the competitive service" are substituted for "in either of the said classes now existing, or that may be arranged hereunder pursuant to said rules" because of the definition of "competitive service" in section 2102. In the second sentence, the words "the provisions of this title governing the competitive service" are substituted for "this act".
 
-In subsection (c), the provisions of former section 631b(b) and (c) are combined and restated for clarity. The words "From and after the effective date of thisAct" and "From and after the date of approval of this Act" are omitted as executed. The words "competitive service" are substituted for "classified civil service" in view of the definition of "competitive service" in section 2102. The words "or as a clerical employee of the Senate or House of Representatives" are omitted as included in the reference to "an individual . . . in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives". The words "and nothing in this Act shall be construed to impair any right of retransfer provided for under civil service laws or regulations made thereunder" are omitted as unnecessary.
+In subsection (c), the provisions of former section 631b(b) and (c) are combined and restated for clarity. The words "From and after the effective date of this Act" and "From and after the date of approval of this Act" are omitted as executed. The words "competitive service" are substituted for "classified civil service" in view of the definition of "competitive service" in section 2102. The words "or as a clerical employee of the Senate or House of Representatives" are omitted as included in the reference to "an individual . . . in the legislative branch in a position in which he was paid by the Secretary of the Senate or the Clerk of the House of Representatives". The words "and nothing in this Act shall be construed to impair any right of retransfer provided for under civil service laws or regulations made thereunder" are omitted as unnecessary.
 
 In subsection (d), the word "Employees" is substituted for "collector, postmaster, and other officers of the United States".
 
@@ -105,6 +147,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g). Pub. L. 117–263 added subsec. (g).
 
 <b>2017</b>—Subsec. (a)(3)(B). Pub. L. 115–46 inserted "(or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates)" after "severe shortage of candidates".
 

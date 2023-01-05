@@ -4,7 +4,7 @@ For purposes of this subtitle—
 
 &emsp;(1) a nonresident alien individual or foreign corporation shall be considered as being engaged in a trade or business within the United States if the partnership of which such individual or corporation is a member is so engaged, and
 
-&emsp;(2) a nonresident alien individual or foreign corporation which is a beneficiary of an estate or trust which is engaged in any trade or business within the United States shall be treated as being engaged in such trade or business within the United States.
+&emsp;(2) a nonresident alien individual or foreign corporation which is a beneficiary of an estateor trust which is engaged in any trade or business within the United States shall be treated as being engaged in such trade or business within the United States.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 281; Pub. L. 89–809, title I, §103(e)(1), Nov. 13, 1966, 80 Stat. 1551.)
 

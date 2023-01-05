@@ -16,7 +16,7 @@ The Congress declares that the achievement of a just and lasting Cyprus settleme
 
 #### (b) Governing principles
 
-United States policy regarding Cyprus, Greece, and Turkey shall be directed toward the restoration of a stable and peaceful atmospherein the Eastern Mediterranean region and shall therefore be governed by the following principles:
+United States policy regarding Cyprus, Greece, and Turkey shall be directed toward the restoration of a stable and peaceful atmosphere in the Eastern Mediterranean region and shall therefore be governed by the following principles:
 
 &emsp;(1) The United States shall actively support the resolution of differences through negotiations and internationally established peaceful procedures, shall encourage all parties to avoid provocative actions, and shall strongly oppose any attempt to resolve disputes through force or threat of force.
 
@@ -36,7 +36,7 @@ Because progress toward a Cyprus settlement is a high priority of United States 
 
 #### (d) Certification by President to Congress of assistance to Greece and Turkey
 
-In order to ensure that United States assistance is furnished consistent with the policies established in this section, the President shall, whenever requesting any funds for security assistance under this chapter or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] for Greece and Turkey, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate his certification, with a full explanation thereof, that the furnishing of such assistance will be consistent with the principles set forth in subsection (b). The President shall also submit such a certification with any notification to the Congress, pursuant to section 36(b) of the Arms Export Control Act \[22 U.S.C. 2776(b)\], of a proposed sale of defense articles or services to Greece or Turkey.
+In order to ensure that United States assistance is furnished consistent with the policies established in this section, the President shall, whenever requesting any funds for security assistance under this chapter or the Arms ExportControl Act \[22 U.S.C. 2751 et seq.\] for Greece and Turkey, transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate his certification, with a full explanation thereof, that the furnishing of such assistance will be consistent with the principles set forth in subsection (b). The President shall also submit such a certification with any notification to the Congress, pursuant to section 36(b) of the Arms Export Control Act \[22 U.S.C. 2776(b)\], of a proposed sale of defense articles or services to Greece or Turkey.
 
 #### (e) Arms sales agreements to prohibit transfer to Cyprus
 
@@ -54,9 +54,9 @@ In order to ensure that United States assistance is furnished consistent with th
 
 Section 2370(x) of this title, referred to in subsec. (a), was omitted. See Codification note set out under section 2370 of this title.
 
-This chapter, referred to in subsecs. (b)(3) and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (b)(3) and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsecs. (b)(3) and (d), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsecs. (b)(3) and (d), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Prior Provisions
 
@@ -124,7 +124,7 @@ Pub. L. 116–94, div. J, title II, Dec. 20, 2019, 133 Stat. 3048, provided that
 
 &emsp;"(7) The United States, Israel, Greece, and Cyprus oppose any action in the Eastern Mediterranean and the Aegean Sea that could challenge stability, violate international law, or undermine good neighborly relations, and in a joint declaration on March 21, 2019, agreed to 'defend against external malign influences in the Eastern Mediterranean and the broader Middle East'.
 
-&emsp;"(8) The recent discovery of what may be the region's largest natural gas field off the Egyptian coast and the newest discoveries of natural gas off the coast of Cyprus could represent a significant and positive development for the Eastern Mediterranean and the Middle East, enhancing the region's strategic energy significance.
+&emsp;"(8) The recent discovery of what may be the region's largest natural gas field off the Egyptian coastand the newest discoveries of natural gas off the coast of Cyprus could represent a significant and positive development for the Eastern Mediterranean and the Middle East, enhancing the region's strategic energy significance.
 
 &emsp;"(9) It is in the national security interest of the United States to promote, achieve, and maintain energy security among, and through cooperation with, allies.
 
@@ -162,7 +162,7 @@ Pub. L. 116–94, div. J, title II, Dec. 20, 2019, 133 Stat. 3048, provided that
 
 &emsp;"(24) At least 40,000 Turkish troops are stationed in the occupied part of Cyprus with some weapons procured from the United States through mainland Turkey.
 
-&emsp;"(25) While the United States has, as a matter of policy, avoided the provision of defense articles and services to the Republic of Cyprus, the Government of Cyprus has, in the past, sought to obtain defense articles from other countries, including countries,such as Russia, that pose challenges to United States interests around the world.
+&emsp;"(25) While the United States has, as a matter of policy, avoided the provision of defense articles and services to the Republic of Cyprus, the Government of Cyprus has, in the past, sought to obtain defense articles from other countries, including countries, such as Russia, that pose challenges to United States interests around the world.
 
 #### "SEC. 203. STATEMENT OF POLICY.
 
@@ -264,7 +264,7 @@ In general.—The policy of denial for exports, re-exports, or transfers of defe
 
 &emsp;"(2)
 
-Waiver.—The President may waive the limitations contained in this subsection for one fiscal yearif the President determines that it is essential to the national security interests of the United States to do so.
+Waiver.—The President may waive the limitations contained in this subsection for one fiscal year if the President determines that it is essential to the national security interests of the United States to do so.
 
 &emsp;"(3)
 

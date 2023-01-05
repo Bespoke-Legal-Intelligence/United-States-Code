@@ -32,7 +32,7 @@ This section \[section 3\] corrects a typographical error in section 114 of titl
 
 <b>1990</b>—Pub. L. 101–647 substituted "or imprisoned" for "and imprisoned".
 
-<b>1984</b>—Pub. L. 98–473 substituted "and imprisoned" for "or imprisoned" and provisions raising maximum finefrom $1,000 to $25,000 and raising maximum term of imprisonment from seven years to twenty years.
+<b>1984</b>—Pub. L. 98–473 substituted "and imprisoned" for "or imprisoned" and provisions raising maximum fine from $1,000 to $25,000 and raising maximum term of imprisonment from seven years to twenty years.
 
 <b>1949</b>—Act May 24, 1949, corrected spelling of "maim".
 

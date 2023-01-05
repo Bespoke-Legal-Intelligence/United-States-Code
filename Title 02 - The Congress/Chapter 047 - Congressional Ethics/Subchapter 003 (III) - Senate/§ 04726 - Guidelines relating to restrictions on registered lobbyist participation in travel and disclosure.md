@@ -4,7 +4,7 @@
 
 Except as provided in paragraph (4) and not later than 60 days after September 14, 2007, and at annual intervals thereafter, the Select Committee on Ethics shall develop and revise, as necessary—
 
-&emsp;(A) guidelines, for purposes of implementing the amendments made by subsection (a),<sup>1</sup> on evaluating a trip proposal and judging the reasonableness of an expense or expenditure, including guidelines related to evaluating—
+&emsp;(A) guidelines, for purposes of implementing the amendments made by subsection (a),<sup>1</sup> onevaluating a trip proposal and judging the reasonableness of an expense or expenditure, including guidelines related to evaluating—
 
 &emsp;&emsp;(i) the stated mission of the organization sponsoring the trip;
 

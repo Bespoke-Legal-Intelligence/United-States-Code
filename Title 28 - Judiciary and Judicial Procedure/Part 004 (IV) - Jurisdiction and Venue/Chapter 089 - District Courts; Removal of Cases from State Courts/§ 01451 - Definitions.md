@@ -12,5 +12,5 @@ For purposes of this chapter—
 
 #### Effective Date
 
-Section effective first day of seventh calendar month which begins after July 29, 1970, see section 199(a) of Pub. L. 91–358, set out as an Effective Date of 1970 Amendment note under section 1257 of this title.
+Section effective first day of seventh calendar month which begins after July 29, 1970, see section 199(a) ofPub. L. 91–358, set out as an Effective Date of 1970 Amendment note under section 1257 of this title.
 

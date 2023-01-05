@@ -12,7 +12,7 @@ The Council shall advise the Secretary with respect to preparation and implement
 
 The Council shall be subject to—
 
-&emsp;(1) the Federal Advisory Committee Act (5 U.S.C. App.); and
+&emsp;(1) chapter 10 of title 5; and
 
 &emsp;(2) the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.).
 
@@ -32,17 +32,17 @@ The Council shall consist of 10 members to be appointed by the Secretary includi
 
 &emsp;&emsp;(B) the interests of the stakeholders that are affected by the planning and management of the Conservation Area and the Wilderness.
 
-(Pub. L. 106–353, §8, Oct. 24, 2000, 114 Stat. 1379; Pub. L. 108–400, §1(d), Oct. 30, 2004, 118 Stat. 2254.)
+(Pub. L. 106–353, §8, Oct. 24, 2000, 114 Stat. 1379; Pub. L. 108–400, §1(d), Oct. 30, 2004, 118 Stat. 2254; Pub. L. 117–286, §4(a)(95), Dec. 27, 2022, 136 Stat. 4316.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(1). Pub. L. 117–286 substituted "chapter 10 of title 5;" for "the Federal Advisory Committee Act (5 U.S.C. App.);".
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–400 substituted "McInnis Canyons" for "Colorado Canyons".
 
@@ -54,5 +54,5 @@ Amendment by Pub. L. 108–400 effective Jan. 1, 2005, see section 1(g) of Pub. 
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

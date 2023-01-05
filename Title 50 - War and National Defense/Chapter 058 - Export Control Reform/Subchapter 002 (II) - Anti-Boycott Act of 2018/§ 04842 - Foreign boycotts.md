@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(D) complying or agreeing to comply with export requirements of the boycotting country relating to shipments or transshipments of exports to the boycotted country, to any business concern of or organized under the laws of the boycotted country, or to any national or resident of the boycotted country;
 
-&emsp;&emsp;(E) compliance by an individual or agreement by an individual to comply with the immigration or passport requirements of any country with respect to such individual or any member of such individual's family or with requests for information regarding requirements of employment of such individual within the boycotting country; and
+&emsp;&emsp;(E) compliance by an individual or agreement by an individual to comply with theimmigration or passport requirements of any country with respect to such individual or any member of such individual's family or with requests for information regarding requirements of employment of such individual within the boycotting country; and
 
 &emsp;&emsp;(F) compliance by a United States person resident in a foreign country or agreement by such person to comply with the laws of that country with respect to his activities exclusively therein, and such regulations may contain exceptions for such resident complying with the laws or regulations of that foreign country governing imports into such country of trademarked, trade named, or similarly specifically identifiable products, or components of products for his own use, including the performance of contractual services within that country, as may be defined by such regulations.
 

@@ -24,7 +24,7 @@
 
 (d) In a case under chapter 7 of this title in which the debtor is an individual and in which the presumption of abuse arises under section 707(b), the clerk shall give written notice to all creditors not later than 10 days after the date of the filing of the petition that the presumption of abuse has arisen.
 
-(e)(1) In a case under chapter 7 or 13 of this title of a debtor who is an individual, a creditor at any time may both file with the court and serve on the debtor a notice of address to be used to provide notice in such case to such creditor.
+(e)(1) In a case under chapter 7 or 13 of this title of a debtor who is an individual, a creditor at any time may both file with the court andserve on the debtor a notice of address to be used to provide notice in such case to such creditor.
 
 (2) Any notice in such case required to be provided to such creditor by the debtor or the court later than 7 days after the court and the debtor receive such creditor's notice of address, shall be provided to such address.
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 

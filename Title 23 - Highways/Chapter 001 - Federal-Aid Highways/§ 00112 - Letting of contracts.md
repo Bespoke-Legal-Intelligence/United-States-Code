@@ -1,6 +1,6 @@
 ### §112. Letting of contracts
 
-(a) In all cases where the construction is to be performed by the State transportation department or under its supervision, a request for submission of bids shall be made by advertisement unless some other method is approved by the Secretary. The Secretary shall require such plans and specifications and such methods of bidding as shall be effective in securing competition.
+(a) In all cases where the construction is to be performed by the State transportation department or under its supervision, a request for submission of bids shall be made by advertisement unless some other method is approved by the Secretary. The Secretary shall require suchplans and specifications and such methods of bidding as shall be effective in securing competition.
 
 (b)
 
@@ -8,7 +8,7 @@ Bidding Requirements.—
 
 &emsp;(1)
 
-In general.—Subject to paragraphs (2) and (3), construction of each project, subjectto the provisions of subsection (a) of this section, shall be performed by contract awarded by competitive bidding, unless the State transportation department demonstrates, to the satisfaction of the Secretary, that some other method is more cost effective or that an emergency exists. Contracts for the construction of each project shall be awarded only on the basis of the lowest responsive bid submitted by a bidder meeting established criteria of responsibility. No requirement or obligation shall be imposed as a condition precedent to the award of a contract to such bidder for a project, or to the Secretary's concurrence in the award of a contract to such bidder, unless such requirement or obligation is otherwise lawful and is specifically set forth in the advertised specifications.
+In general.—Subject to paragraphs (2) and (3), construction of each project, subject to the provisions of subsection (a) of this section, shall be performed by contract awarded by competitive bidding, unless the State transportation department demonstrates, to the satisfaction of the Secretary, that some other method is more cost effective or that an emergency exists. Contracts for the construction of each project shall be awarded only on the basis of the lowest responsive bid submitted by a bidder meeting established criteria of responsibility. No requirement or obligation shall be imposed as a condition precedent to the award of a contract to such bidder for a project, or to the Secretary's concurrence in the award of a contract to such bidder, unless such requirement or obligation is otherwise lawful and is specifically set forth in the advertised specifications.
 
 &emsp;(2)
 
@@ -178,7 +178,7 @@ Design-build contracts.—Paragraph (1) shall not apply to any design-build cont
 
 (f)
 
-Selection Process.—A State may procure, under a single contract, the services of a consultant to prepare any environmental impact assessments or analyses required for a project, including environmental impact statements, as well as subsequent engineering and design workon the project if the State conducts a review that assesses the objectivity of the environmental assessment, environmental analysis, or environmental impact statement prior to its submission to the Secretary.
+Selection Process.—A State may procure, under a single contract, the services of a consultant to prepare any environmental impact assessments or analyses required for a project, including environmental impact statements, as well as subsequent engineering and design work on the project if the State conducts a review that assesses the objectivity of the environmental assessment, environmental analysis, or environmental impact statement prior to its submission to the Secretary.
 
 (g)
 
@@ -348,7 +348,7 @@ Pub. L. 105–178, title I, §1307(d), June 9, 1998, 112 Stat. 231, provided tha
 
 #### Report to Congress
 
-Pub. L. 105–178, title I, §1307(f), June 9, 1998, 112 Stat. 231, provided that, not later than 5 years after June 9,1998, the Secretary was to submit to Congress a report on the effectiveness of design-build contracting procedures.
+Pub. L. 105–178, title I, §1307(f), June 9, 1998, 112 Stat. 231, provided that, not later than 5 years after June 9, 1998, the Secretary was to submit to Congress a report on the effectiveness of design-build contracting procedures.
 
 #### Private Sector Involvement Program
 

@@ -14,7 +14,7 @@ In preparing those portions of the annual Human Rights Report that relate to chi
 
 #### (c) Annual report to Congress
 
-If a country is notified pursuant to section 2370c–1(b)(2) of this title, or a waiver is granted pursuant to section 2370c–1(c)(1) of this title, the President shall submit a report to the appropriate congressional committees not later than June 15 of the following year. The report shall include—
+If a country is notified pursuant to section 2370c–1(b)(2) of this title, or a waiver is granted pursuant to section 2370c–1(c)(1) of this title, the President shall submit a report to the appropriate congressional committees not later thanJune 15 of the following year. The report shall include—
 
 &emsp;(1) a list of the countries receiving notification that they are in violation of the standards under sections 2370c to 2370c–2 of this title;
 

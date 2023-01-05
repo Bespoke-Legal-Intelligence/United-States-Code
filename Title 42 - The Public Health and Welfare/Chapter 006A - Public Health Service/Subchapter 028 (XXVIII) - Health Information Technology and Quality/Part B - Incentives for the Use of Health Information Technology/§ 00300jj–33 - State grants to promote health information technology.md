@@ -114,7 +114,7 @@ The Secretary shall annually evaluate the activities conducted under this sectio
 
 #### (2) Authority to require State match for fiscal years before fiscal year 2011
 
-&emsp;For any fiscal year during the grant program under this section before fiscal year 2011,the Secretary may determine the extent to which there shall be required a non-Federal contribution from a State receiving a grant under this section.
+&emsp;For any fiscal year during the grant program under this section before fiscal year 2011, the Secretary may determine the extent to which there shall be required a non-Federal contribution from a State receiving a grant under this section.
 
 (July 1, 1944, ch. 373, title XXX, §3013, as added Pub. L. 111–5, div. A, title XIII, §13301, Feb. 17, 2009, 123 Stat. 250.)
 

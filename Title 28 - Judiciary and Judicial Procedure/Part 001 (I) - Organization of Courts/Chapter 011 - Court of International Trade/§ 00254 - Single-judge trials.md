@@ -1,6 +1,6 @@
 ### §254. Single-judge trials
 
-Except as otherwise provided in section 255 of this title, the judicial power of the Court of International Trade with respect to any action, suit or proceeding shall be exercised by a single judge, who may preside alone and hold a regular or special session of court at the same time other sessions are held by other judges.
+Except as otherwise provided in section 255 of this title, the judicial power of the Court of International Trade with respect to any action,suit or proceeding shall be exercised by a single judge, who may preside alone and hold a regular or special session of court at the same time other sessions are held by other judges.
 
 (June 25, 1948, ch. 646, 62 Stat. 900; May 24, 1949, ch. 139, §66, 63 Stat. 99; Pub. L. 91–271, title I, §106, June 2, 1970, 84 Stat. 277; Pub. L. 96–417, title V, §501(4), Oct. 10, 1980, 94 Stat. 1742.)
 

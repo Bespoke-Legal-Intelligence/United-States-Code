@@ -24,7 +24,7 @@ Township 3 south, range 2 west, section 12, southeast quarter southeast quarter;
 
 Township 3 south, range 1 west, section 9, southwest quarter southwest quarter; section 12, south half southeast quarter and south half southwest quarter; sections 13 through 36.
 
-Township 3 south, range 1 east, section 18, lots 1 through 4; section 19, lots 1 and 2, southwest quarter and west half southeast quarter; section 29, southwest quarter northwest quarter and west half southwest quarter; sections 30 and 31; section 32, west half.
+Township 3 south, range 1 east, section 18, lots 1 through 4; section 19, lots 1 and 2, southwestquarter and west half southeast quarter; section 29, southwest quarter northwest quarter and west half southwest quarter; sections 30 and 31; section 32, west half.
 
 Township 2 south, range 2 west, section 31, north half of lot 2 of the southwest quarter (43.40 acres of public land withdrawn by Executive Order 5237 of December 10, 1929); and 22.8 acres of acquired fee lands described by metes and bounds in section 31, township 2 south, range 2 west, and section 36, township 2 south, range 3 west; and 31.27 acres of acquired easements described by metes and bounds across certain sections in township 2 south, ranges 2 and 3 west.
 

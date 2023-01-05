@@ -42,7 +42,7 @@ All funds provided under compacts, funding agreements, or grants made pursuant t
 
 #### (e) State facilitation
 
-States are hereby authorized and encouraged to enact legislation, and to enter into agreements with Indian tribes to facilitate and supplement the initiatives, programs, and policies authorized by this subchapter and other Federal laws benefiting Indians and Indian tribes.
+States are hereby authorized and encouraged to enact legislation, and to enter into agreements with Indian tribes to facilitate and supplement the initiatives, programs, and policiesauthorized by this subchapter and other Federal laws benefiting Indians and Indian tribes.
 
 #### (f) Rules of construction
 

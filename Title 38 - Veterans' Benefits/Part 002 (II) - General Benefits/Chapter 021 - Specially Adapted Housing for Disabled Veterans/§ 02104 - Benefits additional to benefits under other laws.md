@@ -4,7 +4,7 @@
 
 (b) An individual eligible for assistance under section 2101(b) of this title shall not by reason of such eligibility be denied benefits for which such individual becomes eligible under section 2101(a) of this title or benefits relating to home health services under section 1717(a)(2) of this title.
 
-(c) The Secretary may not provide assistance to a veteran under this chapter if the Secretary determines such assistance would result in a duplication of benefits under this title to the veteran.
+(c) The Secretary may not provide assistance to a veteran under this chapter if the Secretarydetermines such assistance would result in a duplication of benefits under this title to the veteran.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1169, §804; Pub. L. 96–385, title III, §301(c), Oct. 7, 1980, 94 Stat. 1531; renumbered §2104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–262, title I, §101(e)(2), Oct. 9, 1996, 110 Stat. 3180; Pub. L. 110–289, div. B, title VI, §2602(b)(5), July 30, 2008, 122 Stat. 2859; Pub. L. 115–177, §1(c)(3), June 1, 2018, 132 Stat. 1377.)
 

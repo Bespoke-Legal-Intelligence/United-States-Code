@@ -14,7 +14,7 @@ The Board of Governors of the Federal Reserve System, the Comptroller of the Cur
 
 #### (b) Relation to State law
 
-Nothing in this section shall be construed to prevent States from establishing requirements in addition to any rules promulgated under subsection (a).
+Nothing in this section shall be construed to prevent States from establishing requirementsin addition to any rules promulgated under subsection (a).
 
 #### (c) Federally regulated financial institutions
 

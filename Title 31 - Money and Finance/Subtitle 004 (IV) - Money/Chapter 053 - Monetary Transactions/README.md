@@ -97,7 +97,7 @@
 
 <b>2006</b>—Pub. L. 109–347, title VIII, §802(b), Oct. 13, 2006, 120 Stat. 1961, added subchapter IV heading and items 5361 to 5367.
 
-<b>2004</b>—Pub. L. 108–458, title VI, §6203(i), Dec. 17, 2004, 118 Stat. 3747, substituted item 5318A for former item 5318A "Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern".
+<b>2004</b>—Pub. L. 108–458, title VI, §6203(i), Dec. 17, 2004, 118 Stat. 3747, substituted item 5318A for former item5318A "Special measures for jurisdictions, financial institutions, or international transactions of primary money laundering concern".
 
 Pub. L. 108–458, title VI, §6202(n)(1), (o), Dec. 17, 2004, 118 Stat. 3746, amended Pub. L. 107–56, §365. See 2001 Amendment note below.
 

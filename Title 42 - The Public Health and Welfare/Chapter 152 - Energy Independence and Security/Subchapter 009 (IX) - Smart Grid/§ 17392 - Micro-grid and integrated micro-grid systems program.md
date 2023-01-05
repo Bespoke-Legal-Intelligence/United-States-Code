@@ -62,7 +62,7 @@ In this section:
 
 &emsp;&emsp;(B) the capacity of the local workforce to operate, maintain, and repair a integrated micro-grid system as well as opportunities to improve that capacity;
 
-&emsp;&emsp;(C) leveraging existing capacity within local or regional research organizations, such as organizations based at institutions of higher education, to support development of integrated micro-grid systems, includingby testing novel components and systems prior to field deployment;
+&emsp;&emsp;(C) leveraging existing capacity within local or regional research organizations, such as organizations based at institutions of higher education, to support development of integrated micro-grid systems, including by testing novel components and systems prior to field deployment;
 
 &emsp;&emsp;(D) the need for basic infrastructure to develop, deploy, and sustain a integrated micro-grid system;
 

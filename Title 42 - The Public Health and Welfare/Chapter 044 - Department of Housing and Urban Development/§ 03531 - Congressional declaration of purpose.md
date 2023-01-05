@@ -28,7 +28,7 @@ Pub. L. 101–235, §1(a), Dec. 15, 1989, 103 Stat. 1987, provided that: "This A
 
 #### Short Title
 
-Pub. L. 89–174, §1, Sept. 9, 1965, 79 Stat. 667, provided: "That this Act \[enacting this chapter, amending section 1451 of this title, sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees (see sections 101 and 5312 of Title 5, Government Organization and Employees), section 19 of Title 3, The President, and section 1723 of Title 12, Banks and Banking, and enacting provisions set out as notesunder this section\] may be cited as the 'Department of Housing and Urban Development Act'."
+Pub. L. 89–174, §1, Sept. 9, 1965, 79 Stat. 667, provided: "That this Act \[enacting this chapter, amending section 1451 of this title, sections 1 and 2211 of former Title 5, Executive Departments and Government Officers and Employees (see sections 101 and 5312 of Title 5, Government Organization and Employees), section 19 of Title 3, The President, and section 1723 of Title 12, Banks and Banking, and enacting provisions set out as notes under this section\] may be cited as the 'Department of Housing and Urban Development Act'."
 
 #### Savings Provision: Abatement of Actions; Continuation of Rules, Regulations, Etc.; References in Other Laws to Housing and Home Finance Agency; Lapse of Agencies
 

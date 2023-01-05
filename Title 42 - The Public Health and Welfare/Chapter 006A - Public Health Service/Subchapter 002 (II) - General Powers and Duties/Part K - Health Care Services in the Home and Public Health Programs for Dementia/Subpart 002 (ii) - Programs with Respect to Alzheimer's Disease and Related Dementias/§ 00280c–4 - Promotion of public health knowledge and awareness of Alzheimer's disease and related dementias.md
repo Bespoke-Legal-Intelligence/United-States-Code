@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(ii) supporting early detection and diagnosis of Alzheimer's disease and related dementias;
 
-&emsp;&emsp;&emsp;(iii) reducing the risk of potentially avoidable hospitalizations of individualswith Alzheimer's disease and related dementias;
+&emsp;&emsp;&emsp;(iii) reducing the risk of potentially avoidable hospitalizations of individuals with Alzheimer's disease and related dementias;
 
 &emsp;&emsp;&emsp;(iv) reducing the risk of cognitive decline and cognitive impairment associated with Alzheimer's disease and related dementias;
 
@@ -54,7 +54,7 @@
 
 #### (5) Data reporting and program oversight
 
-&emsp;With respect to a grant, contract, or cooperative agreement awarded under this subsection, not later than 90 days after the end of the first year of the period of assistance, and annually thereafter for the duration of the grant, contract, or agreement (including the duration of any renewal period as provided for under paragraph (5)), the entity shall submit data, as appropriate, to the Secretary regarding—
+&emsp;With respect to a grant, contract, or cooperative agreement awarded under this subsection, not later than 90 days after the end of the first year of the period of assistance, and annually thereafter for the duration of the grant, contract, or agreement (including the duration of any renewal period as provided for under paragraph (5)), the entity shall submitdata, as appropriate, to the Secretary regarding—
 
 &emsp;&emsp;(A) the programs and activities funded under the grant, contract, or agreement; and
 

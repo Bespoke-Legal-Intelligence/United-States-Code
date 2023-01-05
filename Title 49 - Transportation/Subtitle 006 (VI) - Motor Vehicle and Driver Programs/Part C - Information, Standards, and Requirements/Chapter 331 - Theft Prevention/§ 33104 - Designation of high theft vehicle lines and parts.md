@@ -84,7 +84,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §§602(g), 603(a)(5); added Oct.
 
 15:2023(d).
 
-In subsection (a)(1)(A), the words "the 2-year period covering calendar years 1990 and 1991" are substituted for "the 2 calendar years immediately preceding the year in which the Anti Car Theft Act of 1992 is enacted"because that Act was enacted on October 25, 1992. The substitution also makes it clear that the 2-year period is to be treated as a single period.
+In subsection (a)(1)(A), the words "the 2-year period covering calendar years 1990 and 1991" are substituted for "the 2 calendar years immediately preceding the year in which the Anti Car Theft Act of 1992 is enacted" because that Act was enacted on October 25, 1992. The substitution also makes it clear that the 2-year period is to be treated as a single period.
 
 In subsection (a)(1)(B), the words "after December 31, 1989," are substituted for "after the beginning of the 2-year period specified in subparagraph (A)" for consistency with clause (A).
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorized activities
 
-Each eligible entity that receives an award under section 7174 of this title may use theaward funds to carry out a broad array of activities that advance student academic achievement and support student success, including—
+Each eligible entity that receives an award under section 7174 of this title may use the award funds to carry out a broad array of activities that advance student academic achievement and support student success, including—
 
 &emsp;(1) academic enrichment learning programs, mentoring programs, remedial education activities, and tutoring services, that are aligned with—
 

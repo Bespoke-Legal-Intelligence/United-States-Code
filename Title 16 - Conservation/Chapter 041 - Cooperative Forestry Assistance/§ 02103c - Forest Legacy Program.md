@@ -10,7 +10,7 @@ The Secretary shall exercise the authority under subsection (a) in conjunction w
 
 #### (c) Interests in land
 
-In addition to the authorities granted under section 515 of this title and section 2268a(a) of title 7, the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservationeasements with title held in common ownership with any other entity.
+In addition to the authorities granted under section 515 of this title and section 2268a(a) of title 7, the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservation easements with title held in common ownership with any other entity.
 
 #### (d) Implementation
 
@@ -66,7 +66,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 #### (2) Prohibitions on limitations
 
-&emsp;Notwithstanding any provision of State law, no conservation easement held by the UnitedStates or its successors or assigns under this section shall be limited in duration or scope or be defeasible by—
+&emsp;Notwithstanding any provision of State law, no conservation easement held by the United States or its successors or assigns under this section shall be limited in duration or scope or be defeasible by—
 
 &emsp;&emsp;(A) the conservation easement being in gross or appurtenant;
 

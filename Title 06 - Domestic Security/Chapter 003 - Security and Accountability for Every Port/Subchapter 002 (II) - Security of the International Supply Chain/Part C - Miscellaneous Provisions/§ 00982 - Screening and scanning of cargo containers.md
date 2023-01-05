@@ -8,7 +8,7 @@
 
 #### (2) Scanning of high-risk containers
 
-&emsp;The Secretary shall ensure that 100 percent of the containers that have been identified as high-risk under paragraph (1), or through other means, are scanned or searched before such containers leave a United States seaport facility.
+&emsp;The Secretary shall ensure that 100 percent of the containers that have been identified ashigh-risk under paragraph (1), or through other means, are scanned or searched before such containers leave a United States seaport facility.
 
 #### (b) Full-scale implementation
 

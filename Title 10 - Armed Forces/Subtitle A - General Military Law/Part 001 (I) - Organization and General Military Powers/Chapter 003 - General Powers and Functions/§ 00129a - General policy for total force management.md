@@ -220,7 +220,7 @@ Pub. L. 112–239, div. A, title IX, §955, Jan. 2, 2013, 126 Stat. 1896, which 
 
 #### Conversion of Military Positions to Civilian Positions
 
-Pub. L. 104–106, div. A, title X, §1032, Feb. 10, 1996, 110 Stat. 429, as amended by Pub. L. 104–201, div. A, title XVI, §1601, Sept. 23, 1996, 110 Stat. 2734, directed Secretary of Defense, by Sept. 30, 1996, to convert at least 3,000 military positions to civilian positions and, not later than Mar. 31, 1996, submit to Congress a plan for the implementation of conversion.
+Pub. L. 104–106, div. A, title X, §1032, Feb. 10, 1996, 110 Stat. 429, as amended by Pub. L. 104–201, div. A, title XVI, §1601, Sept. 23, 1996, 110 Stat. 2734, directed Secretary of Defense, by Sept. 30, 1996, to convert at least 3,000 military positions to civilian positions and, notlater than Mar. 31, 1996, submit to Congress a plan for the implementation of conversion.
 
 #### Prohibition on Use of Funds To Assign Supervisor's Title or Grade Based Upon Number of People Supervised
 

@@ -14,7 +14,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 &emsp;(6) sue and be sued in its corporate name and complain and defend, in any court of competent jurisdiction, State or Federal;
 
-&emsp;(7) acquire, hold, lease, mortgage, or dispose of, at public or private sale, real and personal property and sell or exchange any securities or obligations, and otherwise exercise all the usual incidents of ownership of property necessary or convenient to its business: <i>Provided</i>, That any such acquisition or ownership of real property shall not deprive a State or political subdivision thereof of its civil or criminal jurisdiction in and over such property or impairthe civil rights of the inhabitants of such property under Federal, State, or local laws;
+&emsp;(7) acquire, hold, lease, mortgage, or dispose of, at public or private sale, real and personal property and sell or exchange any securities or obligations, and otherwise exercise all the usual incidents of ownership of property necessary or convenient to its business: <i>Provided</i>, That any such acquisition or ownership of real property shall not deprive a State or political subdivision thereof of its civil or criminal jurisdiction in and over such property or impair the civil rights of the inhabitants of such property under Federal, State, or local laws;
 
 &emsp;(8) obtain insurance against loss in connection with property and other assets;
 
@@ -46,7 +46,7 @@ The Bank shall have the power to make and service loans, commitments for credit,
 
 #### References in Text
 
-The Securities Act of 1933, referred to in text, is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in text, is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 #### Codification
 

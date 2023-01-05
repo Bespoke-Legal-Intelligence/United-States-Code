@@ -6,7 +6,7 @@ The Secretary may make awards of grants, cooperative agreements, and contracts t
 
 #### (b) Certain topics
 
-An entity receiving an award under this section shall develop a comprehensive educationand training plan that includes information and education on—
+An entity receiving an award under this section shall develop a comprehensive education and training plan that includes information and education on—
 
 &emsp;(1) recognized means for assessing, diagnosing, preventing, treating, and managing pain and related signs and symptoms, including non-addictive medical products and non-pharmacologic treatments and the medically appropriate use of controlled substances;
 
@@ -38,7 +38,7 @@ There is authorized to be appropriated to carry out this section, such sums as m
 
 #### Prior Provisions
 
-A prior section 294i, act July 1, 1944, ch. 373, title VII, §771, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2049, authorized grants to educational entities offering programs in health administration, hospital administration, or health policy analysis and planning, prior to the general amendment of this part by Pub. L. 105–392.
+A prior section 294i, act July 1, 1944, ch. 373, title VII, §771, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992,106 Stat. 2049, authorized grants to educational entities offering programs in health administration, hospital administration, or health policy analysis and planning, prior to the general amendment of this part by Pub. L. 105–392.
 
 Another prior section 294i, act July 1, 1944, ch. 373, title VII, §736, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2265; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(d), 91 Stat. 390, related to participation by Federal credit unions in Federal, State, and private student loan insurance programs, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292k of this title.
 
@@ -66,81 +66,5 @@ Subsec. (e). Pub. L. 115–271, §7073(a)(4), substituted "2019 through 2023" fo
 
 #### Emergency Department Alternatives to Opioids Demonstration Program
 
-Pub. L. 115–271, title VII, §7091, Oct. 24, 2018, 132 Stat. 4035, provided that:
-
-"(a)
-
-Demonstration Program Grants.—
-
-&emsp;"(1)
-
-In general.—The Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall carry out a demonstration program for purposes of awarding grants to hospitals and emergency departments, including freestanding emergency departments, to develop, implement, enhance, or study alternatives to opioids for pain management in such settings.
-
-&emsp;"(2)
-
-Eligibility.—To be eligible to receive a grant under paragraph (1), a hospital or emergency department shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
-
-&emsp;"(3)
-
-Geographic distribution.—In awarding grants under this section, the Secretary shall seek to ensure geographical distribution among grant recipients.
-
-&emsp;"(4)
-
-Use of funds.—Grants under paragraph (1) shall be used to—
-
-&emsp;&emsp;"(A) target treatment approaches for painful conditions frequently treated in such settings;
-
-&emsp;&emsp;"(B) train providers and other hospital personnel on protocols or best practices related to the use and prescription of opioids and alternatives to opioids for pain management in the emergency department; and
-
-&emsp;&emsp;"(C) develop or continue strategies to provide alternatives to opioids, as appropriate.
-
-"(b)
-
-Additional Demonstration Program.—The Secretary may carry out a demonstration program similar to the program under subsection (a) for other acute care settings.
-
-"(c)
-
-Consultation.—The Secretary shall implement a process for recipients of grants under subsection (a) or (b) to share evidence-based and best practices and promote consultation with persons having robust knowledge, including emergency departments and physicians that have successfully implemented programs that use alternatives to opioids for pain management, as appropriate, such as approaches studied through the National Center for Complimentary and Integrative Health or other institutes and centers at the National Institutes of Health, as appropriate. The Secretary shall offer to each recipient of a grant under subsection (a) or (b) technical assistance as necessary.
-
-"(d)
-
-Technical Assistance.—The Secretary shall identify or facilitate the development of best practices on alternatives to opioids for pain management and provide technical assistance to hospitals and other acute care settings on alternatives to opioids for pain management. The technical assistance provided shall be for the purpose of—
-
-&emsp;"(1) utilizing information from recipients of a grant under subsection (a) or (b) that have successfully implemented alternatives to opioids programs;
-
-&emsp;"(2) identifying or facilitating the development of best practices on the use of alternatives to opioids, which may include pain-management strategies that involve non-addictive medical products, non-pharmacologic treatments, and technologies or techniques to identify patients at risk for opioid use disorder;
-
-&emsp;"(3) identifying or facilitating the development of best practices on the use of alternatives to opioids that target common painful conditions and include certain patient populations, such as geriatric patients, pregnant women, and children; and
-
-&emsp;"(4) disseminating information on the use of alternatives to opioids to providers in acute care settings, which may include emergency departments, outpatient clinics, critical access hospitals, Federally qualified health centers, Indian Health Service health facilities, and tribal hospitals.
-
-"(e)
-
-Report to the Secretary.—Each recipient of a grant under this section shall submit to the Secretary (during the period of such grant) annual reports on the progress of the program funded through the grant. These reports shall include, in accordance with all applicable State and Federal privacy laws—
-
-&emsp;"(1) a description of and specific information about the opioid alternative pain management programs, including the demographic characteristics of patients who were treated with an alternative pain management protocol, implemented in hospitals, emergency departments, and other acute care settings;
-
-&emsp;"(2) data on the opioid alternative pain management strategies used, including the number of opioid prescriptions written—
-
-&emsp;&emsp;"(A) during a baseline period before the program began; or
-
-&emsp;&emsp;"(B) at various stages of the program; and
-
-&emsp;"(3) data on patients who were eventually prescribed opioids after alternative pain management protocols and treatments were utilized; and
-
-&emsp;"(4) any other information the Secretary determines appropriate.
-
-"(f)
-
-Report to Congress.—Not later than 1 year after completion of the demonstration program under this section, the Secretary shall submit a report to the Congress on the results of the demonstration program and include in the report—
-
-&emsp;"(1) the number of applications received and the number funded;
-
-&emsp;"(2) a summary of the reports described in subsection (e), including data that allows for comparison of programs; and
-
-&emsp;"(3) recommendations for broader implementation of pain management strategies that encourage the use of alternatives to opioids in hospitals, emergency departments, or other acute care settings.
-
-"(g)
-
-Authorization of Appropriations.—To carry out this section, there is authorized to be appropriated $10,000,000 for each of fiscal years 2019 through 2021."
+Pub. L. 115–271, title VII, §7091, Oct. 24, 2018, 132 Stat. 4035, which related to emergency department alternatives to opioids demonstration program, was editorially reclassified as section 294i–1 of this title.
 

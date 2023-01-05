@@ -46,7 +46,7 @@ In this section:
 
 &emsp;The President shall—
 
-&emsp;&emsp;(A) create an information sharing environment for the sharing of terrorism information in a manner consistent with national security and with applicable legal standards relating to privacy and civil liberties;
+&emsp;&emsp;(A) create an information sharing environment for the sharing of terrorism information in a manner consistent with nationalsecurity and with applicable legal standards relating to privacy and civil liberties;
 
 &emsp;&emsp;(B) designate the organizational and management structures that will be used to operate and manage the ISE; and
 
@@ -228,45 +228,15 @@ Not later than one year after December 17, 2004, the President shall, with the a
 
 &emsp;In performing its duties, the Information Sharing Council shall consider input from persons and entities outside the Federal Government having significant experience and expertise in policy, technical matters, and operational matters relating to the ISE.
 
-#### (4) Inapplicability of Federal Advisory Committee Act
+#### (4) Inapplicability of chapter 10 of title 5
 
-&emsp;The Information Sharing Council (including any subsidiary group of the Information Sharing Council) shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;The Information Sharing Council (including any subsidiary group of the Information Sharing Council) shall not be subject to the requirements of chapter 10 of title 5.
 
 #### (5) Detailees
 
 &emsp;Upon a request by the Director of National Intelligence, the departments and agencies represented on the Information Sharing Council shall detail to the program manager, on a reimbursable basis, appropriate personnel identified under paragraph (2)(H).
 
-#### (h) Performance management reports
-
-#### (1) In general
-
-&emsp;Not later than two years after December 17, 2004, and not later than June 30 of each year thereafter, the President shall submit to Congress a report on the state of the ISE and of information sharing across the Federal Government.
-
-#### (2) Content
-
-&emsp;Each report under this subsection shall include—
-
-&emsp;&emsp;(A) a progress report on the extent to which the ISE has been implemented, including how the ISE has fared on the performance measures and whether the performance goals set in the preceding year have been met;
-
-&emsp;&emsp;(B) objective system-wide performance goals for the following year;
-
-&emsp;&emsp;(C) an accounting of how much was spent on the ISE in the preceding year;
-
-&emsp;&emsp;(D) actions taken to ensure that procurement of and investments in systems and technology are consistent with the implementation plan for the ISE;
-
-&emsp;&emsp;(E) the extent to which all terrorism watch lists are available for combined searching in real time through the ISE and whether there are consistent standards for placing individuals on, and removing individuals from, the watch lists, including the availability of processes for correcting errors;
-
-&emsp;&emsp;(F) the extent to which State, tribal, and local officials are participating in the ISE;
-
-&emsp;&emsp;(G) the extent to which private sector data, including information from owners and operators of critical infrastructure, is incorporated in the ISE, and the extent to which individuals and entities outside the government are receiving information through the ISE;
-
-&emsp;&emsp;(H) the measures taken by the Federal government to ensure the accuracy of information in the ISE, in particular the accuracy of information about individuals;
-
-&emsp;&emsp;(I) an assessment of the privacy and civil liberties protections of the ISE, including actions taken in the preceding year to implement or enforce privacy and civil liberties protections; and
-
-&emsp;&emsp;(J) an assessment of the security protections used in the ISE.
-
-#### (i) Agency responsibilities
+#### (h) Agency responsibilities
 
 The head of each department or agency that possesses or uses intelligence or terrorism information, operates a system in the ISE, or otherwise participates (or expects to participate) in the ISE shall—
 
@@ -278,7 +248,7 @@ The head of each department or agency that possesses or uses intelligence or ter
 
 &emsp;(4) submit, at the request of the President or the program manager, any reports on the implementation of the requirements of the ISE within such department or agency.
 
-#### (j) Report on the information sharing environment
+#### (i) Report on the information sharing environment
 
 #### (1) In general
 
@@ -290,7 +260,7 @@ The head of each department or agency that possesses or uses intelligence or ter
 
 &emsp;&emsp;&emsp;(ii) reported that exemption to the committees of Congress described in the matter preceding this subparagraph; and
 
-&emsp;&emsp;(B) continuing to use Federal agency standards in effect on August 3, 2007, for the collection, sharing, and access to information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, relating to citizens and lawful permanent residents;
+&emsp;&emsp;(B) continuing to use Federal agency standards in effect on August 3, 2007, for the collection, sharing, and access to information within the scope of the informationsharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, relating to citizens and lawful permanent residents;
 
 &emsp;&emsp;(C) replacing the standards described in subparagraph (B) with a standard that would allow mission-based or threat-based permission to access or share information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, for a particular purpose that the Federal Government, through an appropriate process established in consultation with the Privacy and Civil Liberties Oversight Board established under section 2000ee of title 42, has determined to be lawfully permissible for a particular agency, component, or employee (commonly known as an "authorized use" standard); and
 
@@ -304,7 +274,7 @@ The head of each department or agency that possesses or uses intelligence or ter
 
 &emsp;In this subsection, the term "anonymized data" means data in which the individual to whom the data pertains is not identifiable with reasonable efforts, including information that has been encrypted or hidden through the use of other technology.
 
-#### (k) Additional positions
+#### (j) Additional positions
 
 The program manager is authorized to hire not more than 40 full-time employees to assist the program manager in—
 
@@ -316,27 +286,29 @@ The program manager is authorized to hire not more than 40 full-time employees t
 
 &emsp;(2) identifying and resolving information sharing disputes between Federal departments, agencies, and components under subsection (f)(2)(A)(iv).
 
-#### (l) Authorization of appropriations
+#### (k) Authorization of appropriations
 
 There is authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2008 and 2009.
 
-(Pub. L. 108–458, title I, §1016, Dec. 17, 2004, 118 Stat. 3664; Pub. L. 110–53, title V, §504, Aug. 3, 2007, 121 Stat. 313; Pub. L. 111–259, title VIII, §806(a)(1), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 116–92, div. E, title LXIV, §6402, Dec. 20, 2019, 133 Stat. 2196; Pub. L. 116–260, div. W, title III, §307, Dec. 27, 2020, 134 Stat. 2368.)
+(Pub. L. 108–458, title I, §1016, Dec. 17, 2004, 118 Stat. 3664; Pub. L. 110–53, title V, §504, Aug. 3, 2007, 121 Stat. 313; Pub. L. 111–259, title VIII, §806(a)(1), Oct. 7, 2010, 124 Stat. 2748; Pub. L. 116–92, div. E, title LXIV, §6402, Dec. 20, 2019, 133 Stat. 2196; Pub. L. 116–260, div. W, title III, §307, Dec. 27, 2020, 134 Stat. 2368; Pub. L. 117–263, div. F, title LXVIII, §6811(c)(1), Dec. 23, 2022, 136 Stat. 3600; Pub. L. 117–286, §4(a)(17), Dec. 27, 2022, 136 Stat. 4307.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Executive Order 13356, referred to in subsec. (a)(2), which was formerly set out as a note below, was revoked by Ex. Ord. No. 13388, set out as a note below,which established an Information Sharing Council consistent with subsec. (g) of this section.
+Executive Order 13356, referred to in subsec. (a)(2), which was formerly set out as a note below, was revoked by Ex. Ord. No. 13388, set out as a note below, which established an Information Sharing Council consistent with subsec. (g) of this section.
 
 This title, referred to in subsec. (e)(10)(A), is title I of Pub. L. 108–458, Dec. 17, 2004, 118 Stat. 3643, known as the National Security Intelligence Reform Act of 2004. For complete classification of title I to the Code, see Tables.
-
-The Federal Advisory Committee Act, referred to in subsec. (g)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the National Security Intelligence Reform Act of 2004, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g)(4). Pub. L. 117–286 substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)." in text.
+
+Subsecs. (h) to (l). Pub. L. 117–263 redesignated subsecs. (i) to (l) as (h) to (k), respectively, and struck out former subsec. (h) which related to performance management reports.
 
 <b>2020</b>—Subsec. (b)(1). Pub. L. 116–260, §307(1), substituted "President" for "Director of National Intelligence" in introductory provisions.
 
@@ -396,7 +368,7 @@ Subsecs. (j) to (l). Pub. L. 110–53, §504(6), added subsecs. (j) to (l) and s
 
 #### Effective Date
 
-For Determination by President that section takes effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
+For determination by President that section takes effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
 
 Section effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of Title 50, War and National Defense.
 
@@ -424,7 +396,7 @@ Section 1. <i>Policy</i>. To the maximum extent consistent with applicable law, 
 
 Sec. 2. <i>Duties of Heads of Agencies Possessing or Acquiring Terrorism Information</i>. To implement the policy set forth in section 1 of this order, the head of each agency that possesses or acquires terrorism information:
 
-(a) shall promptly give access to the terrorism information to the head of each other agency that has counterterrorism functions, and provide the terrorism information to each such agency, unless otherwise directed by the President, and consistent with (i) the statutory responsibilities of the agencies providing and receiving the information; (ii) any guidance issued by the Attorney General to fulfill the policy set forth in subsection 1(b) of this order; and (iii) other applicable law, including sections 102A(g) and (i) of the National Security Act of 1947 \[50 U.S.C. 3024(g), (i)\], section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 \[6 U.S.C. 485\] (including any policies, procedures, guidelines, rules, and standards issued pursuant thereto), sections 202 and 892 of the Homeland Security Act of 2002 \[6 U.S.C. 122, 482\], \[former\] Executive Order 12958 of April 17, 1995, as amended, and Executive Order 13311 of July 29, 2003 \[6 U.S.C. 482 note\]; and
+(a) shall promptly give access to the terrorism information to the head of each other agency that has counterterrorism functions, and provide the terrorism information to each such agency, unless otherwise directed by the President, and consistent with (i) the statutory responsibilities of the agencies providing and receiving the information; (ii) any guidance issued by the Attorney General to fulfill the policy set forth in subsection 1(b) of this order; and (iii) other applicable law, including sections 102A(g) and (i) of the National Security Act of 1947 \[50 U.S.C. 3024(g), (i)\], section 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 \[6 U.S.C. 485\] (including any policies, procedures, guidelines, rules, and standards issued pursuant thereto), sections 202 and 892 of the Homeland Security Act of 2002 \[6 U.S.C. 122, 482\], \[former\] Executive Order12958 of April 17, 1995, as amended, and Executive Order 13311 of July 29, 2003 \[6 U.S.C. 482 note\]; and
 
 (b) shall cooperate in and facilitate production of reports based on terrorism information with contents and formats that permit dissemination that maximizes the utility of the information in protecting the territory, people, and interests of the United States.
 
@@ -456,7 +428,7 @@ Sec. 7. <i>General Provisions</i>. (a) This order:
 
 (v) shall be implemented in a manner consistent with section 102A of the National Security Act of 1947 \[50 U.S.C. 3024\].
 
-(b) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any rights or benefits,substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
+(b) This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any rights or benefits, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, instrumentalities, or entities, its officers, employees, or agents, or any other person.
 
 Sec. 8. <i>Amendments and Revocation</i>. (a) \[Amended Ex. Ord. No. 13311, set out as a note under section 482 of this title.\]
 
@@ -486,7 +458,7 @@ Memorandum for the Director of National Intelligence
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including section 301 of title 3, United States Code, the functions of the President under section 1016(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) (the "Act") are hereby assigned to the Director of National Intelligence (Director).
 
-The Director shall perform such functions in a manner consistent with direction and guidance issued by the President, including (1) the Memorandum for the Heads of Executive Departments and Agencies of June 2, 2005, entitled "Strengthening Information Sharing, Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment," and (2) the Memorandum for the Heads of Executive Departments and Agencies of December 16, 2005, entitled "Guidelines and Requirements in Support of the Information Sharing Environment;" provided that the Director shall ensure that the official within the Office of the Director of National Intelligence previously designated as the program manager responsible for information sharing across the Federal Government pursuant to the Act shall be the assistant to the Director in carrying out the functions delegated by this memorandum.
+The Director shall perform such functions in a manner consistent with direction and guidance issued by the President, including (1) the Memorandum for the Heads of Executive Departments and Agencies of June 2, 2005, entitled "Strengthening Information Sharing,Access, and Integration—Organizational, Management, and Policy Development Structures for Creating the Terrorism Information Sharing Environment," and (2) the Memorandum for the Heads of Executive Departments and Agencies of December 16, 2005, entitled "Guidelines and Requirements in Support of the Information Sharing Environment;" provided that the Director shall ensure that the official within the Office of the Director of National Intelligence previously designated as the program manager responsible for information sharing across the Federal Government pursuant to the Act shall be the assistant to the Director in carrying out the functions delegated by this memorandum.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 

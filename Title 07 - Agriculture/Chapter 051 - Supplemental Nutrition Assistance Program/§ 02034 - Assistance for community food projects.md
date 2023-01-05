@@ -68,7 +68,7 @@ To be eligible for a grant under subsection (b), a public food program service p
 
 &emsp;&emsp;(C) efforts to reduce food insecurity in the community, including food distribution, improving access to services, or coordinating services and programs;
 
-&emsp;(2) demonstrate competency to implement a project, provide fiscal accountability, collectdata, and prepare reports and other necessary documentation;
+&emsp;(2) demonstrate competency to implement a project, provide fiscal accountability, collect data, and prepare reports and other necessary documentation;
 
 &emsp;(3) demonstrate a willingness to share information with researchers, practitioners, and other interested parties; and
 
@@ -202,7 +202,7 @@ Subsec. (i)(4). Pub. L. 110–246, §4406(a)(7)(B), as amended by Pub. L. 110–
 
 Subsec. (b)(2)(B). Pub. L. 107–171, §4125(a)(2), substituted "$5,000,000" for "$2,500,000" and "2007" for "2002".
 
-Subsec. (d)(4). Pub. L. 107–171, §4125(a)(3), added par. (4) and struck out former par. (4) which read as follows: "encourage long-term planning activities and multi-system, interagency approaches."
+Subsec. (d)(4). Pub. L. 107–171, §4125(a)(3), added par. (4) and struck out former par. (4) which read as follows:"encourage long-term planning activities and multi-system, interagency approaches."
 
 Subsec. (h). Pub. L. 107–171, §4125(a)(4), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows:
 

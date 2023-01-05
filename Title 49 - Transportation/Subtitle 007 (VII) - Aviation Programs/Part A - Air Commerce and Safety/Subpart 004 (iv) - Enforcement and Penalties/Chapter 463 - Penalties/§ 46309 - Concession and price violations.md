@@ -2,7 +2,7 @@
 
 (a)
 
-Criminal Penalty for Offering, Granting, Giving, or Helping To Obtain Concessions and Lower Prices.—An air carrier, foreign air carrier, ticket agent, or officer, agent, or employee of an air carrier, foreign air carrier, or ticket agent shall be fined under title 18 if the air carrier, foreign air carrier, ticket agent, officer, agent, or employee—
+Criminal Penalty for Offering, Granting, Giving, or Helping To Obtain Concessionsand Lower Prices.—An air carrier, foreign air carrier, ticket agent, or officer, agent, or employee of an air carrier, foreign air carrier, or ticket agent shall be fined under title 18 if the air carrier, foreign air carrier, ticket agent, officer, agent, or employee—
 
 &emsp;(1) knowingly and willfully offers, grants, or gives, or causes to be offered, granted, or given, a rebate or other concession in violation of this part; or
 

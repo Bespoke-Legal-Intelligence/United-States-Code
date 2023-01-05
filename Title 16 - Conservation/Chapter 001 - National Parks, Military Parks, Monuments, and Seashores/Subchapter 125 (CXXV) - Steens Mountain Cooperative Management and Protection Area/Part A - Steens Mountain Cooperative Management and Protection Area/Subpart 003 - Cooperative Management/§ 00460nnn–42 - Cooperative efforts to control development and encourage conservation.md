@@ -10,7 +10,7 @@ The Secretary may enter into a nondevelopment easement or conservation easement 
 
 #### (c) Conservation incentive payments
 
-The Secretary may provide technical assistance, cost-share payments, incentive payments, and education to a private landowner in the Cooperative Management and Protection Area who enters into a contract with the Secretary to protect or enhance ecological resources on the private land covered by the contract if those protections or enhancements benefit public lands.
+The Secretary may provide technical assistance, cost-share payments, incentive payments,and education to a private landowner in the Cooperative Management and Protection Area who enters into a contract with the Secretary to protect or enhance ecological resources on the private land covered by the contract if those protections or enhancements benefit public lands.
 
 #### (d) Relation to property rights and State and local law
 

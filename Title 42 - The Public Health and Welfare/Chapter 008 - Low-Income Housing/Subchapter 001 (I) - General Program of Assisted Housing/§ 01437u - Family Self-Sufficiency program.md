@@ -2,27 +2,23 @@
 
 #### (a) Purpose
 
-The purpose of the Family Self-Sufficiency program established under this section is to promote the development of local strategies to coordinate use of public housing and assistance under the certificate and voucher programs under section 1437f of this title with public and private resources, to enable eligible families to achieve economic independence and self-sufficiency.
+The purpose of the Family Self-Sufficiency program established under this section is to promote the development of local strategies to coordinate use of assistance under sections 1437f and 1437g of this title with public and private resources, to enable eligible families to achieve economic independence and self-sufficiency.
 
-#### (b) Establishment of program
+#### (b) Continuation of prior required programs
 
-#### (1) Required programs
+#### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Secretary shall carry out a program under which each public housing agency that administers assistance under subsection (b) or (o) of section 1437f of this title or makes available new public housing dwelling units—
+&emsp;Each public housing agency that was required to administer a local Family Self-Sufficiency program on May 24, 2018, shall operate such local program for, at a minimum, the number of families the agency was required to serve on May 24, 2018, subject only to the availability under appropriations Acts of sufficient amounts for housing assistance and the requirements of paragraph (2).
 
-&emsp;&emsp;(A) may, during fiscal years 1991 and 1992, carry out a local Family Self-Sufficiency program under this section;
+#### (2) Reduction
 
-&emsp;&emsp;(B) effective on October 1, 1992, the Secretary shall require each such agency to carry out a local Family Self-Sufficiency program under this section, subject to the limitations in paragraph (4); and
+&emsp;The number of families for which a public housing agency is required to operate such local program under paragraph (1) shall be decreased by 1 for each family from any supported rental housing program administered by such agency that, after October 21, 1998, fulfills its obligations under the contract of participation.
 
-&emsp;&emsp;(C) effective on October 21, 1998, to the extent an agency is not required to carry out a program pursuant to subparagraph (B) of this paragraph and paragraph (4), may carry out a local Family Self-Sufficiency program under this section.
+#### (3) Exception
 
-> &emsp;Each local program shall, subject to availability of supportive services, include an action plan under subsection (g) and shall provide comprehensive supportive services for families electing to participate in the program. In carrying out the self-sufficiency program under this section, the Secretary shall consult with the heads of other appropriate Federal agencies and provide for cooperative actions and funding agreements with such agencies. Each public housing agency administering an approved local program may employ a service coordinator to administer the local program.
+&emsp;The Secretary shall not require a public housing agency to carry out a mandatory program for a period of time upon the request of the public housing agency and upon a determination by the Secretary that implementation is not feasible because of local circumstances, which may include—
 
-#### (2) Exception
-
-&emsp;The Secretary shall not require a public housing agency to carry out a local program under subsection (a) if the public housing agency provides certification (as such term is defined under title I of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12701 et seq.\]) to the Secretary, that the establishment and operation of the program is not feasible because of local circumstances, which may include—
-
-&emsp;&emsp;(A) lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act;
+&emsp;&emsp;(A) lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.);
 
 &emsp;&emsp;(B) lack of funding for reasonable administrative costs;
 
@@ -30,47 +26,33 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 &emsp;&emsp;(D) any other circumstances that the Secretary may consider appropriate.
 
-> &emsp;In allocating assistance available for reservation under this chapter, the Secretary may not refuse to provide assistance or decrease the amount of assistance that would otherwise be provided to any public housing agency because the agency has provided a certification under this paragraph or because, pursuant to a certification, the agency has failed to carry out a self-sufficiency program.
+#### (c) Eligibility
 
-#### (3) Scope
+#### (1) Eligible families
 
-&emsp;Subject to paragraph (4), each public housing agency required to carry out a local program under this section shall make the following housing assistance available under the program in each fiscal year:
+&emsp;A family is eligible to participate in a local Family Self-Sufficiency program under this section if—
 
-&emsp;&emsp;(A) Certificate and voucher assistance under section 1437f(b) and (o) of this title, in an amount equivalent to the increase for such year in the number of families so assisted by the agency (as compared to the preceding year).
+&emsp;&emsp;(A) at least 1 household member seeks to become and remain employed in suitable employment or to increase earnings; and
 
-&emsp;&emsp;(B) Public housing dwelling units, in the number equal to the increase for such year in units made available by the agency (as compared to the preceding year).
+&emsp;&emsp;(B) the household member receives direct assistance under section 1437f of this title or resides in a unit assisted under section 1437f or 1437g of this title.
 
-> &emsp;Each such public housing agency shall continue to operate a local program for the number of families determined under this paragraph subject only to the availability under appropriations Acts of sufficient amounts for assistance.
+#### (2) Eligible entities
 
-#### (4) Termination of requirement to expand program
+&emsp;The following entities are eligible to administer a local Family Self-Sufficiency program under this section:
 
-#### (A) In general
+&emsp;&emsp;(A) A public housing agency administering housing assistance to or on behalf of an eligible family under section 1437f or 1437g of this title.
 
-&emsp;&emsp;Notwithstanding any other provision of law, a public housing agency that receives incremental assistance under subsection (b) or (o) of section 1437f of this title or that makes available new public housing dwelling units shall not be required, after October 21, 1998, to provide assistance under a local Family Self-Sufficiency program under this section to any families not required to be assisted under subparagraph (B) of this paragraph.
+&emsp;&emsp;(B) The owner or sponsor of a multifamily property receiving project-based rental assistance under section 1437f of this title, in accordance with the requirements under subsection (l).
 
-#### (B) Continuation of existing obligations
-
-#### (i) In general
-
-&emsp;&emsp;&emsp;Each public housing agency that, before October 21, 1998, was required under this section to carry out a local Family Self-Sufficiency program shall continue to operate such local program for the number of families determined under paragraph (3), subject only to the availability under appropriations Acts of sufficient amounts for housing assistance.
-
-#### (ii) Reduction
-
-&emsp;&emsp;&emsp;The number of families for which an agency is required under clause (i) to operate such local program shall be decreased by one for each family that, after October 21, 1998, fulfills its obligations under the contract of participation.
-
-#### (5) Nonparticipation
-
-&emsp;Assistance under the certificate or voucher programs under section 1437f of this title for a family that elects not to participate in a local program shall not be delayed by reason of such election.
-
-#### (c) Contract of participation
+#### (d) Contract of participation
 
 #### (1) In general
 
-&emsp;Each public housing agency carrying out a local program under this section shall enter into a contract with each leaseholder receiving assistance under the certificate and voucher programs of the public housing agency under section 1437f of this title or residing in public housing administered by the agency, that elects to participate in the self-sufficiency program under this section. The contract shall set forth the provisions of the local program, shall establish specific interim and final goals by which compliance with and performance of the contract may be measured, and shall specify the resources and supportive services to be made available to the participating family pursuant to paragraph (2) and the responsibilities of the participating family. The contract shall provide that the public housing agency may terminate or withhold assistance under section 1437f of this title and services under paragraph (2) of this subsection if the public housing agency determines, through an administrative grievance procedure in accordance with the requirements of section 1437d(k) of this title, that the family has failed to comply with the requirements of the contract without good cause (which mayinclude a loss or reduction in access to supportive services, or a change in circumstances that makes the family or individual unsuitable for participation).
+&emsp;Each eligible entity carrying out a local program under this section shall enter into a contract with a household member of an eligible family, that elects to participate in the self-sufficiency program under this section. The contract shall set forth the provisions of the local program, shall establish specific interim and final goals by which compliance with and performance of the contract may be measured, and shall specify the resources and supportive services to be made available to the participating family pursuant to paragraph (2) and the responsibilities of the participating family. Housing assistance may not be terminated as a consequence of either successful completion of the contract of participation or failure to complete such contract. A contract of participation shall remain in effect until the participating family exits the Family Self-Sufficiency program upon successful graduation or expiration of the contract of participation, or for other good cause.
 
 #### (2) Supportive services
 
-&emsp;A local program under this section shall provide appropriate supportive services under this paragraph to each participating family entering into a contract of participation under paragraph (1). The supportive services shall be provided during the period the family is receiving assistance under section 1437f of this title or residing in public housing, and may include—
+&emsp;An eligible entity shall coordinate appropriate supportive services under this paragraph for each participating family entering into a contract of participation under paragraph (1). The supportive services shall be coordinated for the period the family is receiving assistance pursuant to section 1437f or 1437g of this title and for the duration of the contract of participation, and may include, but are not limited to—
 
 &emsp;&emsp;(A) child care;
 
@@ -78,65 +60,71 @@ The purpose of the Family Self-Sufficiency program established under this sectio
 
 &emsp;&emsp;(C) remedial education;
 
-&emsp;&emsp;(D) education for completion of high school;
+&emsp;&emsp;(D) education for completion of high school or attainment of a high school equivalency certificate;
 
-&emsp;&emsp;(E) job training and preparation;
+&emsp;&emsp;(E) education in pursuit of a post-secondary degree or certification;
 
-&emsp;&emsp;(F) substance abuse treatment and counseling;
+&emsp;&emsp;(F) job training and preparation;
 
-&emsp;&emsp;(G) training in homemaking and parenting skills;
+&emsp;&emsp;(G) substance abuse treatment and counseling;
 
-&emsp;&emsp;(H) training in money management;
+&emsp;&emsp;(H) training in financial literacy, such as training in financial management, financial coaching, and asset building, and money management;
 
-&emsp;&emsp;(I) training in household management; and
+&emsp;&emsp;(I) training in household management;
 
-&emsp;&emsp;(J) any other services and resources appropriate to assist eligible families to achieve economic independence and self-sufficiency.
+&emsp;&emsp;(J) homeownership education and assistance; and
+
+&emsp;&emsp;(K) any other services and resources appropriate to assist eligible families to achieve economic independence and self-sufficiency.
 
 #### (3) Term and extension
 
-&emsp;Each family participating in a local program shall be required to fulfill its obligations under the contract of participation not later than 5 years after entering into the contract. The public housing agency shall extend the term of the contract for any family that requests an extension, upon a finding of the agency of good cause.
+&emsp;Each family participating in a local program shall be required to fulfill its obligations under the contract of participation not later than 5 years after the first recertification of income after entering into the contract. The eligible entity shall extend the term of the contract for any family that requests an extension, upon a finding of good cause.
 
-#### (4) Employment and counseling
+#### (4) Employment
 
-&emsp;The contract of participation shall require the head of the participating family to seek suitable employment during the term of the contract. The public housing agency may, during such period, provide counseling for the family with respect to affordable rental and homeownership opportunities in the private housing market and money management counseling.
+&emsp;The contract of participation shall require 1 household member of the participating family to seek and maintain suitable employment.
 
-#### (d) Incentives for participation
+#### (5) Nonparticipation
+
+&emsp;Assistance under section 1437f or 1437g of this title for a family that elects not to participate in a Family Self-Sufficiency program shall not be delayed by reason of such election.
+
+#### (e) Incentives for participation
 
 #### (1) Maximum rents
 
-&emsp;During the term of the contract of participation, the amount of rent paid by any participating family whose monthly adjusted income does not exceed 50 percent of the area median income for occupancy in the public housing unit or dwelling unit assisted under section 1437f of this title may not be increased on the basis of any increase in the earned income of the family, unless the increase results in an income exceeding 50 percent of the area median income. The Secretary shall provide for increased rents for participating families whose incomes are between 50 and 80 percent of the area median income, so that any family whose income increases to 80 percent or more of the area median income pays 30 percent of the family's monthly adjusted income for rent. Upon completion of the contract of participation, if the participating family continues to qualify for and reside in a dwelling unit in public housing or housing assisted under section 1437f of this title, the rent charged the participating family shall be increased (if applicable) to 30 percent of the monthly adjusted income of the family.
+&emsp;During the term of the contract of participation, the amount of rent paid by any participating family shall be calculated under the rental provisions of section 1437a of this title or section 1437f(o) of this title, as applicable.
 
 #### (2) Escrow savings accounts
 
-&emsp;For each participating family whose monthly adjusted income is less than 50 percent of the area median income, the difference between 30 percent of the adjusted income of the participating family and the amount of rent paid by a participating family shall be placed in an interest-bearing escrow account established by the public housing agency on behalf of the participating family. For families with incomes between 50 and 80 percent of the area median income, the Secretary shall provide for escrow of the difference between 30 percent of the family income and the amount paid by the family for rent as determined by the Secretary under paragraph (1). The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (c), as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. A public housing agency establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by the public housing agency.
+&emsp;For each participating family, an amount equal to any increase in the amount of rent paid by the family in accordance with the provisions of section 1437a or 1437f(o) of this title, as applicable, that is attributable to increases in earned income by the participating family, shall be placed in an interest-bearing escrow account established by the eligible entity on behalf of the participating family. Notwithstanding any other provision of law, an eligible entity may use funds it controls under section 1437f or 1437g of this title for purposes of making the escrow deposit for participating families assisted under, or residing in units assisted under, section 1437f or 1437g of this title, respectively, provided such funds are offset by the increase in the amount of rent paid by the participating family. All Family Self-Sufficiency programs administered under this section shall include an escrow account. The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (d), as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. An eligible entity establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by such eligible entity.
 
-#### (3) Plan
+#### (3) Forfeited escrow
 
-&emsp;Each public housing agency carrying out a local program under this section shall establish a plan to offer incentives to families to encourage families to participate in the program. The plan shall require the establishment of escrow savings accounts under paragraph (2) and may include any other incentives designed by the public housing agency.
+&emsp;Any amount placed in an escrow account established by an eligible entity for a participating family as required under paragraph (2), that exists after the end of a contract of participation by a household member of a participating family that does not qualify to receive the escrow, shall be used by the eligible entity for the benefit of participating families in good standing.
 
-#### (e) Effect of increases in family income
+#### (f) Effect of increases in family income
 
-Any increase in the earned income of a family during the participation of the family in a local program established under this section may not be considered as income or a resource for purposes of eligibility of the family for other benefits, or amount of benefits payable to the family, under any program administered by the Secretary, unless the income of the family equals or exceeds 80 percent of the median income of the area (as determined by the Secretary with adjustments for smaller and larger families).
+Any increase in the earned income of a family during the participation of the family in a local program established under this section may not be considered as income or a resource for purposes of eligibility of the family for other benefits, or amount of benefits payable to the family, under any program administered by the Secretary.
 
-#### (f) Program coordinating committee
+#### (g) Program coordinating committee
 
 #### (1) Functions
 
-&emsp;Each public housing agency carrying out a local program under this section shall, in consultation with the chief executive officer of the unit of general local government, develop an action plan under subsection (g), carry out activities under the local program, and secure commitments of public and private resources through a program coordinating committee established by the public housing agency under this subsection.
+&emsp;Each eligible entity carrying out a local program under this section shall, in consultation with the chief executive officer of the unit of general local government, develop an action plan under subsection (h), carry out activities under the local program, and secure commitments of public and private resources through a program coordinating committee established by such eligible entity under this subsection.
 
 #### (2) Membership
 
-&emsp;The program coordinating committee may consist of representatives of the public housing agency, the unit of general local government, the local agencies (if any) responsible for carrying out programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act, and other organizations, such as other State and local welfare and employment agencies, public and private education or training institutions, nonprofit service providers, and private businesses. The public housing agency may, in consultation with the chief executive officer of the unit of general local government, utilize an existing entity as the program coordinating committee if it meets the requirements of this subsection.
+&emsp;The program coordinating committee may consist of representatives of the eligible entity, the unit of general local government, the local agencies (if any) responsible for carrying out programs under title I of the WorkforceInnovation and Opportunity Act \[29 U.S.C. 3111 et seq.\], and other organizations, such as other State and local welfare and employment agencies, public and private primary, secondary, and post-secondary education or training institutions, nonprofit service providers, and private businesses. The eligible entity may, in consultation with the chief executive officer of the unit of general local government and tenants served by the program, utilize an existing entity as the program coordinating committee if it meets the requirements of this subsection.
 
-#### (g) Action plan
+#### (h) Action plan
 
 #### (1) Required submission
 
-&emsp;The Secretary shall require each public housing agency participating in the self-sufficiency program under this section to submit to the Secretary, for approval by the Secretary, an action plan under this subsection in such form and in accordance with such procedures as the Secretary shall require.
+&emsp;The Secretary shall require each eligible entity carrying out a self-sufficiency program under this section to submit, for approval by the Secretary, an action plan under this subsection in such form and in accordance with such procedures as the Secretary shall require.
 
 #### (2) Development of plan
 
-&emsp;In developing the plan, the public housing agency shall consult with the chief executive officer of the applicable unit of general local government, the program coordinating committee established under subsection (f), representatives of residents of the public housing, any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] or the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act, other appropriate organizations (such as other State and local welfare and employment or training institutions, child care providers, nonprofit service providers, and private businesses), and any other public and private service providers affected by the operation of the local program.
+&emsp;In developing the plan, the eligible entity shall consult with the chief executive officer of the applicable unit of general local government, the program coordinating committee established under subsection (g), representatives of the current and prospective participants of the program, any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\], other appropriate organizations (such as other State and local welfare and employment or training institutions, child care providers, nonprofit service providers, and private businesses), and any other public and private service providers affected by the operation of the local program.
 
 #### (3) Contents of plan
 
@@ -146,61 +134,129 @@ Any increase in the earned income of a family during the participation of the fa
 
 &emsp;&emsp;(B) a description of the number of eligible participating families who can reasonably be expected to receive supportive services under the program, based on available and anticipated Federal, State, local, and private resources;
 
-&emsp;&emsp;(C) a description of the services and activities under subsection (c)(2) to be provided to families receiving assistance under this section through the section 8 \[42 U.S.C. 1437f\] and public housing programs, which shall be provided by both public and private resources;
+&emsp;&emsp;(C) a description of the services and activities under subsection (d)(2) to be coordinated on behalf of participating families receiving direct assistance under this section through sections 1437f and 1437g of this title, which shall be provided by both public and private resources;
 
-&emsp;&emsp;(D) a description of the incentives pursuant to subsection (d) offered by the public housing agency to families to encourage participation in the program;
+&emsp;&emsp;(D) a description of the incentives pursuant to subsection (e) offered by the eligible entity to families to encourage participation in the program;
 
-&emsp;&emsp;(E) a description of how the local program will deliver services and activities according to the needs of the families participating in the program;
+&emsp;&emsp;(E) a description of how the local program will coordinate services and activities according to the needs of the families participating in the program;
 
 &emsp;&emsp;(F) a description of both the public and private resources that are expected to be made available to provide the activities and services under the local program;
 
 &emsp;&emsp;(G) a timetable for implementation of the local program;
 
-&emsp;&emsp;(H) assurances satisfactory to the Secretary that development of the services and activities under the local program has been coordinated with the Job Opportunities and Basic Skills Training Program under part F <sup>1</sup> of title IV of the Social Security Act and programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] and any other relevant employment, child care, transportation, training, and education programs in the applicable area, and that implementation will continue to be coordinated, in order to avoid duplication of services and activities; and
+&emsp;&emsp;(H) assurances satisfactory to the Secretary that development of the services and activities under the local program has been coordinated with programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] and any other relevant employment, child care, transportation, training, and education programs in the applicable area, and that implementation will continue to be coordinated, in order to avoid duplication of services and activities; and
 
-&emsp;&emsp;(I) assurances satisfactory to the Secretary that nonparticipating families will retain their rights to public housing or section 8 \[42 U.S.C. 1437f\] assistance notwithstanding the provisions of this section.
+&emsp;&emsp;(I) assurances satisfactory to the Secretary that nonparticipating families will retain their rights to assistance under section 1437f or 1437g of this title notwithstanding the provisions of this section.
 
-#### (h) Allowable public housing agency administrative fees and costs
-
-#### (1) Fees under section 1437f
-
-&emsp;The Secretary shall establish a fee under section 1437f(q) of this title for the costs incurred in administering the provision of certificate and voucher assistance under section 1437f of this title through the self-sufficiency program under this section. The fee shall be the fee in effect under such section on June 1, 1990, except that for purposes of the fee under this paragraph the applicable dollar amount for preliminary expenses under section 1437f(q)(2)(A)(i) <sup>1</sup> of this title shall, subject to approval in appropriations Acts, be $300. Upon the submission by the Comptroller General of the United States of the report required under section 554(b) of the Cranston-Gonzalez National Affordable Housing Act, the Secretary shall revise the fee under this paragraph, taking into consideration the report of the Comptroller General.
-
-#### (2) Performance funding system
-
-&emsp;Notwithstanding any provision of section 1437g of this title, the Secretary shall providefor inclusion under the performance funding system under section 1437g of this title of reasonable and eligible administrative costs (including the costs of employing a full-time service coordinator) incurred by public housing agencies carrying out local programs under this section. The Secretary shall include an estimate of the administrative costs likely to be incurred by participating public housing agencies in the annual budget request for the Department of Housing and Urban Development for public housing operating assistance under section 1437g of this title and shall include a request for such amounts in the budget request. Of any amounts appropriated under section 1437g(c) of this title for fiscal year 1993, $25,000,000 is authorized to be used for costs under this paragraph, and of any amounts appropriated under such section for fiscal year 1994, $25,900,000 is authorized to be used for costs under this paragraph.
-
-#### (i) Public housing agency incentive award allocation
+#### (i) Family Self-Sufficiency awards
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out a competition for budget authority for certificate and voucher assistance under section 1437f of this title and public housing development assistance under section 1437c(a)(2) of this title reserved under paragraph (4) and shall allocate such budget authority to public housing agencies pursuant to the competition.
+&emsp;Subject to appropriations, the Secretary shall establish a formula by which annual funds shall be awarded or as otherwise determined by the Secretary for the costs incurred by an eligible entity in administering the Family Self-Sufficiency program under this section.
 
-#### (2) Criteria
+#### (2) Eligibility for awards
 
-&emsp;The competition shall be based on successful and outstanding implementation by public housing agencies of a local self-sufficiency program under this section. The Secretary shall establish perfomance <sup>2</sup> criteria for public housing agencies carrying out such local programs and the Secretary shall cause such criteria to be published in the Federal Register.
+&emsp;The award established under paragraph (1) shall provide funding for family self-sufficiency coordinators as follows:
 
-#### (3) Use
+#### (A) Base award
 
-&emsp;Each public housing agency that receives an allocation of budget authority under this subsection shall use such authority to provide assistance under the local self-sufficiency program established by the public housing agency under this section.
+&emsp;&emsp;An eligible entity serving 25 or more participants in the Family Self-Sufficiency program under this section is eligible to receive an award equal to the costs, as determined by the Secretary, of 1 full-time family self-sufficiency coordinator position. The Secretary may, by regulation or notice, determine the policy concerning the award for an eligible entity serving fewer than 25 such participants, including providing prorated awards or allowing such entities to combine their programs under this section for purposes of employing a coordinator.
 
-#### (4) Reservation of budget authority
+#### (B) Additional award
 
-&emsp;Notwithstanding section 1439(d) of this title, the Secretary shall reserve for allocation under this subsection not less than 10 percent of the portion of budget authority appropriated in each of fiscal years 1991 and 1992 for section 1437f of this title that is available for purposes of providing assistance under the existing housing certificate and housing voucher programs for families not currently receiving assistance, and not less than 10 percent of the public housing development assistance available in such fiscal years for the purpose under section 1437c(a)(2) of this title (excluding amounts for major reconstruction of obsolete projects).
+&emsp;&emsp;An eligible entity that meets performance standards set by the Secretary is eligible to receive an additional award sufficient to cover the costs of filling an additional family self-sufficiency coordinator position if such entity has 75 or more participating families, and an additional coordinator for each additional 50 participating families, or such other ratio as may be established by the Secretary based on the award allocation evaluation under subparagraph (E).
+
+#### (C) State and regional agencies
+
+&emsp;&emsp;For purposes of calculating the award under this paragraph, each administratively distinct part of a State or regional eligible entity may be treated as a separate agency.
+
+#### (D) Determination of number of coordinators
+
+&emsp;&emsp;In determining whether an eligible entity meets a specific threshold for funding pursuant to this paragraph, the Secretary shallconsider the number of participants enrolled by the eligible entity in its Family Self-Sufficiency program as well as other criteria determined by the Secretary.
+
+#### (E) Award allocation evaluation
+
+&emsp;&emsp;The Secretary shall submit to Congress a report evaluating the award allocation under this subsection, and make recommendations based on this evaluation and other related findings to modify such allocation, within 4 years after May 24, 2018, and not less frequently than every 4 years thereafter. The report requirement under this subparagraph shall terminate after the Secretary has submitted 2 such reports to Congress.
+
+#### (3) Renewals and allocation
+
+#### (A) In general
+
+&emsp;&emsp;Funds allocated by the Secretary under this subsection shall be allocated in the following order of priority:
+
+#### (i) First priority
+
+&emsp;&emsp;&emsp;Renewal of the full cost of all coordinators in the previous year at each eligible entity with an existing Family Self-Sufficiency program that meets applicable performance standards set by the Secretary.
+
+#### (ii) Second priority
+
+&emsp;&emsp;&emsp;New or incremental coordinator funding authorized under this section.
+
+#### (B) Guidance
+
+&emsp;&emsp;If the first priority, as described in subparagraph (A)(i), cannot be fully satisfied, the Secretary may prorate the funding for each eligible entity, as long as—
+
+&emsp;&emsp;&emsp;(i) each eligible entity that has received funding for at least 1 part-time coordinator in the prior fiscal year is provided sufficient funding for at least 1 part-time coordinator as part of any such proration; and
+
+&emsp;&emsp;&emsp;(ii) each eligible entity that has received funding for at least 1 full-time coordinator in the prior fiscal year is provided sufficient funding for at least 1 full-time coordinator as part of any such proration.
+
+#### (4) Recapture or offset
+
+&emsp;Any awards allocated under this subsection by the Secretary in a fiscal year that have not been spent by the end of the subsequent fiscal year or such other time period as determined by the Secretary may be recaptured by the Secretary and shall be available for providing additional awards pursuant to paragraph (2)(B), or may be offset as determined by the Secretary. Funds appropriated pursuant to this section shall remain available for 3 years in order to facilitate the re-use of any recaptured funds for this purpose.
+
+#### (5) Performance reporting
+
+&emsp;Programs under this section shall be required to report the number of families enrolled and graduated, the number of established escrow accounts and positive escrow balances, and any other information that the Secretary may require. Program performance shall be reviewed periodically as determined by the Secretary.
+
+#### (6) Incentives for innovation and high performance
+
+&emsp;The Secretary may reserve up to 5 percent of the amounts made available under this subsection to provide support to or reward Family Self-Sufficiency programs based on the rate of successful completion, increased earned income, or other factors as may be established by the Secretary.
 
 #### (j) On-site facilities
 
-Each public housing agency carrying out a local program may, subject to the approval of the Secretary, make available and utilize common areas or unoccupied public housing units in public housing projects administered by the agency for the provision of supportive services under the local program. The use of the facilities of a public housing agency under this subsection shall not affect the amount of assistance provided to the agency under section 1437g of this title.
+Each eligible entity carrying out a local program may, subject to the approval of the Secretary, make available and utilize common areas or unoccupied units for the provision or coordination of supportive services under the local program.
 
 #### (k) Flexibility
 
-In establishing and carrying out the self-sufficiency program under this section, the Secretary shall allow public housing agencies, units of general local government, and other organizations discretion and flexibility, to the extent practicable, in developing and carrying out local programs.
+In establishing and carrying out the self-sufficiency program under this section, the Secretary shall allow eligible entities, units of general local government, and other organizations discretion and flexibility, to the extent practicable, in developing and carrying out local programs.
 
-#### (l) Reports
+#### (l) Programs for tenants in privately owned properties with project-based assistance
+
+#### (1) Voluntary availability of FSS program
+
+&emsp;The owner of a privately owned property may voluntarily make a Family Self-Sufficiency program available to the tenants of such property in accordance with procedures established by the Secretary. Such procedures shall permit the owner to enter into a cooperative agreement with a local public housing agency that administers a Family Self-Sufficiency program or, at the owner's option, operate a Family Self-Sufficiency program on its own or in partnership with another owner. An owner, who voluntarily makes a Family Self-Sufficiency program available pursuant to this subsection, may access funding from any residual receipt accounts for the property to hire a family self-sufficiency coordinator or coordinators for their program.
+
+#### (2) Cooperative agreement
+
+&emsp;Any cooperative agreement entered into pursuant to paragraph (1) shall require the public housing agency to open its Family Self-Sufficiency program waiting list to any eligible family residing in the owner's property who resides in a unit assisted under project-based rental assistance.
+
+#### (3) Treatment of families assisted under this subsection
+
+&emsp;A public housing agency that enters into a cooperative agreement pursuant to paragraph (1) may count any family participating in its Family Self-Sufficiency program as a result of such agreement as part of the calculation of the award under subsection (i).
+
+#### (4) Escrow
+
+#### (A) Cooperative agreement
+
+&emsp;&emsp;A cooperative agreement entered into pursuant to paragraph (1) shall provide for thecalculation and tracking of the escrow for participating residents and for the owner to make available, upon request of the public housing agency, escrow for participating residents, in accordance with paragraphs (2) and (3) of subsection (e), residing in units assisted under section 1437f of this title.
+
+#### (B) Calculation and tracking by owner
+
+&emsp;&emsp;The owner of a privately owned property who voluntarily makes a Family Self-Sufficiency program available pursuant to paragraph (1) shall calculate and track the escrow for participating residents and make escrow for participating residents available in accordance with paragraphs (2) and (3) of subsection (e).
+
+#### (5) Exception
+
+&emsp;This subsection shall not apply to properties assisted under section 1437f(o)(13) of this title.
+
+#### (6) Suspension of enrollment
+
+&emsp;In any year, the Secretary may suspend the enrollment of new families in Family Self-Sufficiency programs under this subsection based on a determination that insufficient funding is available for this purpose.
+
+#### (m) Reports
 
 #### (1) To Secretary
 
-&emsp;Each public housing agency that carries out a local self-sufficiency program approved by the Secretary under this section shall submit to the Secretary, not less than annually a report regarding the program. The report shall include—
+&emsp;Each eligible entity that carries out a local self-sufficiency program approved by the Secretary under this section shall submit to the Secretary, not less than annually a report regarding the program. The contents of the report shall include—
 
 &emsp;&emsp;(A) a description of the activities carried out under the program;
 
@@ -208,353 +264,41 @@ In establishing and carrying out the self-sufficiency program under this section
 
 &emsp;&emsp;(C) a description of the effectiveness of the program in coordinating resources of communities to assist families to achieve economic independence and self-sufficiency; and
 
-&emsp;&emsp;(D) any recommendations of the public housing agency or the appropriate local program coordinating committee for legislative or administrative action that would improve the self-sufficiency program carried out by the Secretary and ensure the effectiveness of the program.
+&emsp;&emsp;(D) any recommendations of the eligible entity or the appropriate program coordinating committee for legislative or administrative action that would improve the self-sufficiency program carried out by the Secretary and ensure the effectiveness of the program.
 
 #### (2) HUD annual report
 
-&emsp;The Secretary shall submit to the Congress annually, as a part of the report of the Secretary under section 3536 of this title, a report summarizing the information submitted by public housing agencies under paragraph (1). The report under this paragraph shall also include any recommendations of the Secretary for improving the effectiveness of the self-sufficiency program under this section.
+&emsp;The Secretary shall submit to the Congress annually, as a part of the report of the Secretary under section 3536 of this title, a report summarizing the information submitted by public housing agencies under paragraph (1) and describing any additional research needs of the Secretary to evaluate the effectiveness of the program. The report under this paragraph shall also include any recommendations of the Secretary for improving the effectiveness of the self-sufficiency program under this section.
 
-#### (m) GAO report
+#### (n) GAO report
 
-&emsp;The Comptroller General of the United States may submit to the Congress reports under this subsection evaluating and describing the Family Self-Sufficiency program carried out by the Secretary under this section.
+The Comptroller General of the United States shall submit to the Congress reports under this subsection evaluating and describing the Family Self-Sufficiency program carried out by the Secretary under this section.
 
-#### (n) Definitions
+#### (o) Definitions
 
-As used in this section:
+In this section:
 
-&emsp;(1) The term "contract of participation" means a contract under subsection (c) entered into by a public housing agency carrying out a local program under this section and a participating family.
+#### (1) Eligible entity
 
-&emsp;(2) The term "earned income" means income from wages, tips, salaries, and other employee compensation, and any earnings from self-employment. The term does not include any pension or annuity, transfer payments, or any cash or in-kind benefits.
+&emsp;The term "eligible entity" means an entity that meets the requirements under subsection (c)(2) to administer a Family Self-Sufficiency program under this section.
 
-&emsp;(3) The term "eligible family" means a family whose head of household is not elderly, disabled, pregnant, a primary caregiver for children under the age of 3, or for whom the family self-sufficiency program would otherwise be unsuitable. Notwithstanding the preceding sentence, a public housing agency may enroll such families if they choose to participate in the program.
+#### (2) Eligible family
 
-&emsp;(4) The term "local program" means a program for providing supportive services to participating families carried out by a public housing agency within the jurisdiction of the public housing agency.
+&emsp;The term "eligible family" means a family that meets the requirements under subsection (c)(1) to participate in the Family Self-Sufficiency program under this section.
 
-&emsp;(5) The term "participating family" means a family that resides in public housing or housing assisted under section 1437f of this title and elects to participate in a local self-sufficiency program under this section.
+#### (3) Participating family
 
-&emsp;(6) The term "vacant unit" means a dwelling unit that has been vacant for not less than 9 consecutive months.
-
-#### (o) Effective date and regulations
-
-#### (1) Regulations
-
-&emsp;Not later than the expiration of the 180-day period beginning on November 28, 1990, the Secretary shall by notice establish any requirements necessary to carry out this section. Such requirements shall be subject to section 553 of title 5. The Secretary shall issue final regulations based on the notice not later than the expiration of the 8-month period beginning on the date of the notice. Such regulations shall become effective upon the expiration of the 1-year period beginning on the date of the publication of the final regulations.
-
-#### (2) Repealed. Pub. L. 104–330, title V, §501(b)(8), Oct. 26, 1996, 110 Stat. 4042
+&emsp;The term "participating family" means an eligible family that is participating in the Family Self-Sufficiency program under this section.
 
 (Sept. 1, 1937, ch. 896, title I, §23, as added Pub. L. 101–625, title V, §554(a), Nov. 28, 1990, 104 Stat. 4225; amended Pub. L. 102–550, title I, §§106, 185(b), Oct. 28, 1992, 106 Stat. 3684, 3747; Pub. L. 104–316, title I, §122(l), Oct. 19, 1996, 110 Stat. 3837; Pub. L. 104–330, title V, §501(b)(8), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §509(a), Oct. 21, 1998, 112 Stat. 2530; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(31), (f)(23)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 113–128, title V, §512(ii), July 22, 2014, 128 Stat. 1721; Pub. L. 115–174, title III, §306(a), May 24, 2018, 132 Stat. 1339.)
-
-#### Amendment of Section
-
-<i>Pub. L. 115–174, title III, §306, May 24, 2018, 132 Stat. 1339, made numerous amendments to this section, effective upon issuance of implementing regulations prescribed under section 306(b) of Pub. L. 115–174 (set out as an Effective Date of 2018 Amendment; Regulations note below), to be issued by the Secretary of Housing and Urban Development not later than 360 days after May 24, 2018. After such effective date, this section will read as follows:</i>
-
-#### §1437u. Family Self-Sufficiency program
-
-#### <i>(a) Purpose</i>
-
-<i>The purpose of the Family Self-Sufficiency program established under this section is to promote the development of local strategies to coordinate use of assistance under sections 1437f and 1437g of this title with public and private resources, to enable eligible families to achieve economic independence and self-sufficiency.</i>
-
-#### <i>(b) Continuation of prior required programs</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>Each public housing agency that was required to administer a local Family Self-Sufficiency program on May 24, 2018, shall operate such local program for, at a minimum, the number of families the agency was required to serve on May 24, 2018, subject only to the availability under appropriations Acts of sufficient amounts for housing assistance and the requirements of paragraph (2).</i>
-
-#### <i>(2) Reduction</i>
-
-&emsp;<i>The number of families for which a public housing agency is required to operate such local program under paragraph (1) shall be decreased by 1 for each family from any supported rental housing program administered by such agency that, after October 21, 1998, fulfills its obligations under the contract of participation.</i>
-
-#### <i>(3) Exception</i>
-
-&emsp;<i>The Secretary shall not require a public housing agency to carry out a mandatory program for a period of time upon the request of the public housing agency and upon a determination by the Secretary that implementation is not feasible because of local circumstances, which may include—</i>
-
-&emsp;&emsp;<i>(A) lack of supportive services accessible to eligible families, which shall include insufficient availability of resources for programs under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.);</i>
-
-&emsp;&emsp;<i>(B) lack of funding for reasonable administrative costs;</i>
-
-&emsp;&emsp;<i>(C) lack of cooperation by other units of State or local government; or</i>
-
-&emsp;&emsp;<i>(D) any other circumstances that the Secretary may consider appropriate.</i>
-
-#### <i>(c) Eligibility</i>
-
-#### <i>(1) Eligible families</i>
-
-&emsp;<i>A family is eligible to participate in a local Family Self-Sufficiency program under this section if—</i>
-
-&emsp;&emsp;<i>(A) at least 1 household member seeks to become and remain employed in suitable employment or to increase earnings; and</i>
-
-&emsp;&emsp;<i>(B) the household member receives direct assistance under section 1437f of this title or resides in a unit assisted under section 1437f or 1437g of this title.</i>
-
-#### <i>(2) Eligible entities</i>
-
-&emsp;<i>The following entities are eligible to administer a local Family Self-Sufficiency program under this section:</i>
-
-&emsp;&emsp;<i>(A) A public housing agency administering housing assistance to or on behalf of an eligible family under section 1437f or 1437g of this title.</i>
-
-&emsp;&emsp;<i>(B) The owner or sponsor of a multifamily property receiving project-based rental assistance under section 1437f of this title, in accordance with the requirements under subsection (l).</i>
-
-#### <i>(d) Contract of participation</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>Each eligible entity carrying out a local program under this section shall enter into a contract</i><i>with a household member of an eligible family, that elects to participate in the self-sufficiency program under this section. The contract shall set forth the provisions of the local program, shall establish specific interim and final goals by which compliance with and performance of the contract may be measured, and shall specify the resources and supportive services to be made available to the participating family pursuant to paragraph (2) and the responsibilities of the participating family. Housing assistance may not be terminated as a consequence of either successful completion of the contract of participation or failure to complete such contract. A contract of participation shall remain in effect until the participating family exits the Family Self-Sufficiency program upon successful graduation or expiration of the contract of participation, or for other good cause.</i>
-
-#### <i>(2) Supportive services</i>
-
-&emsp;<i>An eligible entity shall coordinate appropriate supportive services under this paragraph for each participating family entering into a contract of participation under paragraph (1). The supportive services shall be coordinated for the period the family is receiving assistance pursuant to section 1437f or 1437g of this title and for the duration of the contract of participation, and may include, but are not limited to—</i>
-
-&emsp;&emsp;<i>(A) child care;</i>
-
-&emsp;&emsp;<i>(B) transportation necessary to receive services;</i>
-
-&emsp;&emsp;<i>(C) remedial education;</i>
-
-&emsp;&emsp;<i>(D) education for completion of high school or attainment of a high school equivalency certificate;</i>
-
-&emsp;&emsp;<i>(E) education in pursuit of a post-secondary degree or certification;</i>
-
-&emsp;&emsp;<i>(F) job training and preparation;</i>
-
-&emsp;&emsp;<i>(G) substance abuse treatment and counseling;</i>
-
-&emsp;&emsp;<i>(H) training in financial literacy, such as training in financial management, financial coaching, and asset building, and money management;</i>
-
-&emsp;&emsp;<i>(I) training in household management;</i>
-
-&emsp;&emsp;<i>(J) homeownership education and assistance; and</i>
-
-&emsp;&emsp;<i>(K) any other services and resources appropriate to assist eligible families to achieve economic independence and self-sufficiency.</i>
-
-#### <i>(3) Term and extension</i>
-
-&emsp;<i>Each family participating in a local program shall be required to fulfill its obligations under the contract of participation not later than 5 years after the first recertification of income after entering into the contract. The eligible entity shall extend the term of the contract for any family that requests an extension, upon a finding of good cause.</i>
-
-#### <i>(4) Employment</i>
-
-&emsp;<i>The contract of participation shall require 1 household member of the participating family to seek and maintain suitable employment.</i>
-
-#### <i>(5) Nonparticipation</i>
-
-&emsp;<i>Assistance under section 1437f or 1437g of this title for a family that elects not to participate in a Family Self-Sufficiency program shall not be delayed by reason of such election.</i>
-
-#### <i>(e) Incentives for participation</i>
-
-#### <i>(1) Maximum rents</i>
-
-&emsp;<i>During the term of the contract of participation, the amount of rent paid by any participating family shall be calculated under the rental provisions of section 1437a of this title or section 1437f(o) of this title, as applicable.</i>
-
-#### <i>(2) Escrow savings accounts</i>
-
-&emsp;<i>For each participating family, an amount equal to any increase in the amount of rent paid by the family in accordance with the provisions of section 1437a or 1437f(o) of this title, as applicable, that is attributable to increases in earned income by the participating family, shall be placed in an interest-bearing escrow account established by the eligible entity on behalf of the participating family. Notwithstanding any other provision of law, an eligible entity may use funds it controls under section 1437f or 1437g of this title for purposes of making the escrow deposit for participating families assisted under, or residing in units assisted under, section 1437f or 1437g of this title, respectively, provided such funds are offset by the increase in the amount of rent paid by the participating family. All Family Self-Sufficiency programs administered under this section shall include an escrow account. The Secretary shall not escrow any amounts for any family whose adjusted income exceeds 80 percent of the area median income. Amounts in the escrow account may be withdrawn by the participating family after the family ceases to receive income assistance under Federal or State welfare programs, upon successful performance of the obligations of the family under the contract of participation entered into by the family under subsection (d), as determined according to the specific goals and terms included in the contract, and under other circumstances in which the Secretary determines an exception for good cause is warranted. An eligible entity establishing such escrow accounts may make certain amounts in the accounts available to the participating families before full performance of the contract obligations based on compliance with, and completion of, specific interim goals included in the contract; except that any such amounts shall be used by the participating families for purposes consistent with the contracts of participation, as determined by such eligible entity.</i>
-
-#### <i>(3) Forfeited escrow</i>
-
-&emsp;<i>Any amount placed in an escrow account established by an eligible entity for a participating family as required under paragraph (2), that exists after the end of a contract of participation by a household member of a participating family that does not qualify to receive the escrow, shall be used by the eligible entity for the benefit of participating families in good standing.</i>
-
-#### <i>(f) Effect of increases in family income</i>
-
-<i>Any increase in the earned income of a family during the participation of the family in a local program established under this section may not be considered as income or a resource for purposes of eligibility of the family for other benefits, or amount of benefits payable to the family, under any program administered by the Secretary.</i>
-
-#### <i>(g) Program coordinating committee</i>
-
-#### <i>(1) Functions</i>
-
-&emsp;<i>Each eligible entity carrying out a local program under this section shall, in consultation with the chief executive officer of the unit of general local government, develop an action plan under subsection (h), carry out activities under the local program, and secure commitments of public and private resources through a program coordinating committee established by such eligible entity under this subsection.</i>
-
-#### <i>(2) Membership</i>
-
-&emsp;<i>The program coordinating committee may consist of representatives of the eligible entity, the unit of general local government, the local agencies (if any) responsible for carrying out programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\], and other organizations, such as other State and local welfare and employment agencies, public and private primary, secondary, and post-secondary education or training institutions, nonprofit service providers, and private businesses. The eligible entity may, in consultation with the chief executive officer of the unit of general local government and tenants served by the program, utilize an existing entity as the program coordinating committee if it meets the requirements of this subsection.</i>
-
-#### <i>(h) Action plan</i>
-
-#### <i>(1) Required submission</i>
-
-&emsp;<i>The Secretary shall require each eligible entity carrying out a self-sufficiency program under this section to submit, for approval by the Secretary, an action plan under this subsection in such form and in accordance with such procedures as the Secretary shall require.</i>
-
-#### <i>(2) Development of plan</i>
-
-&emsp;<i>In developing the plan, the eligible entity shall consult with the chief executive officer of the applicable unit of general local government, the program coordinating committee established under subsection (g), representatives of the current and prospective participants of the program, any local agencies responsible for programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\], other appropriate organizations (such as other State and local welfare and employment or training institutions, child care providers, nonprofit service providers, and private businesses), and any other public and private service providers affected by the operation of the local program.</i>
-
-#### <i>(3) Contents of plan</i>
-
-&emsp;<i>The Secretary shall require that the action plan contain at a minimum—</i>
-
-&emsp;&emsp;<i>(A) a description of the size, characteristics, and needs of the population of the families expected to participate in the local self-sufficiency program;</i>
-
-&emsp;&emsp;<i>(B) a description of the number of eligible participating families who can reasonably be expected to receive supportive services under the program, based on available and anticipated Federal, State, local, and private resources;</i>
-
-&emsp;&emsp;<i>(C) a description of the services and activities under subsection (d)(2) to be coordinated on behalf of participating families receiving direct assistance under this section through sections 1437f and 1437g of this title, which shall be provided by both public and private resources;</i>
-
-&emsp;&emsp;<i>(D) a description of the incentives pursuant to subsection (e) offered by the eligible entity to families to encourage participation in the program;</i>
-
-&emsp;&emsp;<i>(E) a description of how the local program will coordinate services and activities according to the needs of the families participating in the program;</i>
-
-&emsp;&emsp;<i>(F) a description of both the public and private resources that are expected to be made available to provide the activities and services under the local program;</i>
-
-&emsp;&emsp;<i>(G) a timetable for implementation of the local program;</i>
-
-&emsp;&emsp;<i>(H) assurances satisfactory to the Secretary that development of the services and activities under the local program has been coordinated with programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] and any other relevant employment, child care, transportation, training, and education programs in the applicable area, and that implementation will continue to be coordinated, in order to avoid duplication of services and activities; and</i>
-
-&emsp;&emsp;<i>(I) assurances satisfactory to the Secretary that nonparticipating families will retain their rights to assistance under section 1437f or 1437g of this title notwithstanding the provisions of this section.</i>
-
-#### <i>(i) Family Self-Sufficiency awards</i>
-
-#### <i>(1) In general</i>
-
-&emsp;<i>Subject to appropriations, the Secretary shall establish a formula by which annual funds shall be awarded or as otherwise determined by the Secretary for the costs incurred by an eligible entity in administering the Family Self-Sufficiency program under this section.</i>
-
-#### <i>(2) Eligibility for awards</i>
-
-&emsp;<i>The award established under paragraph (1) shall provide funding for family self-sufficiency coordinators as follows:</i>
-
-#### <i>(A) Base award</i>
-
-&emsp;&emsp;<i>An eligible entity serving 25 or more participants in the Family Self-Sufficiency program under this section is eligible to receive an award equal to the costs, as determined by the Secretary, of 1 full-time family self-sufficiency coordinator position. The Secretary may, by regulation or notice, determine the policy concerning the award for an eligible entity serving fewer than 25 such participants, including providing prorated awards or allowing such entities to combine their programs under this section for purposes of employing a coordinator.</i>
-
-#### <i>(B) Additional award</i>
-
-&emsp;&emsp;<i>An eligible entity that meets performance standards set by the Secretary is eligible to receive an additional award sufficient to cover the costs of filling an additional family self-sufficiency coordinator position if such entity has 75 or more participating families, and an additional coordinator for each additional 50 participating families, or such other ratio as may</i><i>be established by the Secretary based on the award allocation evaluation under subparagraph (E).</i>
-
-#### <i>(C) State and regional agencies</i>
-
-&emsp;&emsp;<i>For purposes of calculating the award under this paragraph, each administratively distinct part of a State or regional eligible entity may be treated as a separate agency.</i>
-
-#### <i>(D) Determination of number of coordinators</i>
-
-&emsp;&emsp;<i>In determining whether an eligible entity meets a specific threshold for funding pursuant to this paragraph, the Secretary shall consider the number of participants enrolled by the eligible entity in its Family Self-Sufficiency program as well as other criteria determined by the Secretary.</i>
-
-#### <i>(E) Award allocation evaluation</i>
-
-&emsp;&emsp;<i>The Secretary shall submit to Congress a report evaluating the award allocation under this subsection, and make recommendations based on this evaluation and other related findings to modify such allocation, within 4 years after May 24, 2018, and not less frequently than every 4 years thereafter. The report requirement under this subparagraph shall terminate after the Secretary has submitted 2 such reports to Congress.</i>
-
-#### <i>(3) Renewals and allocation</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>Funds allocated by the Secretary under this subsection shall be allocated in the following order of priority:</i>
-
-#### <i>(i) First priority</i>
-
-&emsp;&emsp;&emsp;<i>Renewal of the full cost of all coordinators in the previous year at each eligible entity with an existing Family Self-Sufficiency program that meets applicable performance standards set by the Secretary.</i>
-
-#### <i>(ii) Second priority</i>
-
-&emsp;&emsp;&emsp;<i>New or incremental coordinator funding authorized under this section.</i>
-
-#### <i>(B) Guidance</i>
-
-&emsp;&emsp;<i>If the first priority, as described in subparagraph (A)(i), cannot be fully satisfied, the Secretary may prorate the funding for each eligible entity, as long as—</i>
-
-&emsp;&emsp;&emsp;<i>(i) each eligible entity that has received funding for at least 1 part-time coordinator in the prior fiscal year is provided sufficient funding for at least 1 part-time coordinator as part of any such proration; and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) each eligible entity that has received funding for at least 1 full-time coordinator in the prior fiscal year is provided sufficient funding for at least 1 full-time coordinator as part of any such proration.</i>
-
-#### <i>(4) Recapture or offset</i>
-
-&emsp;<i>Any awards allocated under this subsection by the Secretary in a fiscal year that have not been spent by the end of the subsequent fiscal year or such other time period as determined by the Secretary may be recaptured by the Secretary and shall be available for providing additional awards pursuant to paragraph (2)(B), or may be offset as determined by the Secretary. Funds appropriated pursuant to this section shall remain available for 3 years in order to facilitate the re-use of any recaptured funds for this purpose.</i>
-
-#### <i>(5) Performance reporting</i>
-
-&emsp;<i>Programs under this section shall be required to report the number of families enrolled and graduated, the number of established escrow accounts and positive escrow balances, and any other information that the Secretary may require. Program performance shall be reviewed periodically as determined by the Secretary.</i>
-
-#### <i>(6) Incentives for innovation and high performance</i>
-
-&emsp;<i>The Secretary may reserve up to 5 percent of the amounts made available under this subsection to provide support to or reward Family Self-Sufficiency programs based on the rate of successful completion, increased earned income, or other factors as may be established by the Secretary.</i>
-
-#### <i>(j) On-site facilities</i>
-
-<i>Each eligible entity carrying out a local program may, subject to the approval of the Secretary, make available and utilize common areas or unoccupied units for the provision or coordination of supportive services under the local program.</i>
-
-#### <i>(k) Flexibility</i>
-
-<i>In establishing and carrying out the self-sufficiency program under this section, the Secretary shall allow eligible entities, units of general local government, and other organizations discretion and flexibility, to the extent practicable, in developing and carrying out local programs.</i>
-
-#### <i>(l) Programs for tenants in privately owned properties with project-based assistance</i>
-
-#### <i>(1) Voluntary availability of FSS program</i>
-
-&emsp;<i>The owner of a privately owned property may voluntarily make a Family Self-Sufficiency program available to the tenants of such property in accordance with procedures established by the Secretary. Such procedures shall permit the owner to enter into a cooperative agreement with a local public housing agency that administers a Family Self-Sufficiency program or, at the owner's option, operate a Family Self-Sufficiency program on its own or in partnership with another owner. An owner, who voluntarily makes a Family Self-Sufficiency program available pursuant to this subsection, may access funding from any residual receipt accounts for the property to hire a family self-sufficiency coordinator or coordinators for their program.</i>
-
-#### <i>(2) Cooperative agreement</i>
-
-&emsp;<i>Any cooperative agreement entered into pursuant to paragraph (1) shall require the public housing agency to open its Family Self-Sufficiency program waiting list to any eligible family residing in the owner's property who resides in a unit assisted under project-based rental assistance.</i>
-
-#### <i>(3) Treatment of families assisted under this subsection</i>
-
-&emsp;<i>A public housing agency that enters into a cooperative agreement pursuant to paragraph (1) may count any family participating in its Family Self-Sufficiency program as a result of such agreement as part of the calculation of the award under subsection (i).</i>
-
-#### <i>(4) Escrow</i>
-
-#### <i>(A) Cooperative agreement</i>
-
-&emsp;&emsp;<i>A cooperative agreement entered into pursuant to paragraph (1) shall provide for the calculation and tracking of the escrow for participating residents and for the owner to make available, upon request of the public housing agency, escrow for participating residents, in accordance with paragraphs (2) and (3) of subsection (e), residing in units assisted under section 1437f of this title.</i>
-
-#### <i>(B) Calculation and tracking by owner</i>
-
-&emsp;&emsp;<i>The owner of a privately owned property who voluntarily makes a Family Self-Sufficiency program available pursuant to paragraph (1) shall calculate and track the escrow for participating residents and make escrow for participating residents available in accordance with paragraphs (2) and (3) of subsection (e).</i>
-
-#### <i>(5) Exception</i>
-
-&emsp;<i>This subsection shall not apply to properties assisted under section 1437f(o)(13) of this title.</i>
-
-#### <i>(6) Suspension of enrollment</i>
-
-&emsp;<i>In any year, the Secretary may suspend the enrollment of new families in Family Self-Sufficiency programs under this subsection based on a determination that insufficient funding is available for this purpose.</i>
-
-#### <i>(m) Reports</i>
-
-#### <i>(1) To Secretary</i>
-
-&emsp;<i>Each eligible entity that carries out a local self-sufficiency program approved by the Secretary under this section shall submit to the Secretary, not less than annually a report regarding the program. The contents of the report shall include—</i>
-
-&emsp;&emsp;<i>(A) a description of the activities carried out under the program;</i>
-
-&emsp;&emsp;<i>(B) a description of the effectiveness of the program in assisting families to achieve economic independence and self-sufficiency;</i>
-
-&emsp;&emsp;<i>(C) a description of the effectiveness of the program in coordinating resources of communities to assist families to achieve economic independence and self-sufficiency; and</i>
-
-&emsp;&emsp;<i>(D) any recommendations of the eligible entity or the appropriate program coordinating committee for legislative or administrative action that would improve the self-sufficiency program carried out by the Secretary and ensure the effectiveness of the program.</i>
-
-#### <i>(2) HUD annual report</i>
-
-&emsp;<i>The Secretary shall submit to the Congress annually, as a part of the report of the Secretary under section 3536 of this title, a report summarizing the information submitted by public housing agencies under paragraph (1) and describing any additional research needs of the Secretary to evaluate the effectiveness of the program. The report under this paragraph shall also include any recommendations of the Secretary for improving the effectiveness of the self-sufficiency program under this section.</i>
-
-#### <i>(n) GAO report</i>
-
-<i>The Comptroller General of the United States shall submit to the Congress reports under this subsection evaluating and describing the Family Self-Sufficiency program carried out by the Secretary under this section.</i>
-
-#### <i>(o) Definitions</i>
-
-<i>In this section:</i>
-
-#### <i>(1) Eligible entity</i>
-
-&emsp;<i>The term "eligible entity" means an entity that meets the requirements under subsection (c)(2) to administer a Family Self-Sufficiency program under this section.</i>
-
-#### <i>(2) Eligible family</i>
-
-&emsp;<i>The term "eligible family" means a family that meets the requirements under subsection (c)(1) to participate in the Family Self-Sufficiency program under this section.</i>
-
-#### <i>(3) Participating family</i>
-
-&emsp;<i>The term "participating family" means an eligible family that is participating in the Family Self-Sufficiency program under this section.</i>
-
-<i>See 2018 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (b)(2), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title I of the Act is classified generally to subchapter I (§12701 et seq.) of chapter 130 of this title. Section 554(b) of the Act is set out below. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (b)(3)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former §2801 et seq.) of Title 29, Labor. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
-
-The Social Security Act, referred to in subsecs. (b)(2)(A), (f)(2), and (g)(2), (3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part F of title IV of the Act was classified generally to part F (§681 et seq.) of subchapter IV of chapter 7 of this title, prior to repeal by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
-
-Section 1437f(q)(2)(A) of this title, referred to in subsec. (h)(1), was amended generally by Pub. L. 105–276, title V, §547, Oct. 21, 1998, 112 Stat. 2605, and, as so amended, does not contain a cl. (i).
-
-Section 1437g(c) of this title, referred to in subsec. (h)(2), was amended generally by Pub. L. 105–276, title V, §519(a), Oct. 21, 1998, 112 Stat. 2551, and, as so amended, does not relate to appropriations for fiscal years 1993 and 1994.
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (g)(2) and (h)(2), (3)(H), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Amendments
 
@@ -730,7 +474,7 @@ Applicability to indian public housing.—In accordance with section 1437aa(b)(2
 
 #### Effective Date of 2018 Amendment; Regulations
 
-Pub. L. 115–174, title III, §306(b), May 24, 2018, 132 Stat. 1347, provided that: "Not later than 360 days after the date of enactment of this Act \[May 24, 2018\], the Secretary of Housing and Urban Development shall issue regulations to implement this section \[amending this section\] and any amendments made by this section, and this section and any amendments made by this section shall take effect upon such issuance."
+Pub. L. 115–174, title III, §306(b), May 24, 2018, 132 Stat. 1347, provided that: "Not later than 360 days after the date of enactment of this Act \[May 24, 2018\], the Secretary of Housing and Urban Development shall issue regulations to implement this section \[amending this section\] and any amendments made by this section, and this section and any amendments made by this section shall take effect upon such issuance." \[Final rule implementing section 306 of Pub. L. 115–174 effective June 16, 2022, see 87 F.R. 30020.\]
 
 #### Effective Date of 2014 Amendment
 
@@ -749,8 +493,4 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 #### GAO Study on Linking Federal Housing Assistance to Economic Self-Sufficiency Programs
 
 Pub. L. 101–625, title V, §554(b), Nov. 28, 1990, 104 Stat. 4231, directed Comptroller General to submit to Congress, not later than 18 months after Nov. 28, 1990, a report (1) evaluating the policy and administrative implications of requiring State and local governments to require participation in an economic self-sufficiency program as a condition of the receipt of rental assistance under 42 U.S.C. 1437f and public housing assistance, (2) determining the additional costs to public housing agencies under such programs and recommending a change in the amount of the administrative fee under 42 U.S.C. 1437f(q) to cover the additional costs of carrying out the Family Self-Sufficiency Program under this section, and (3) examining how housing and social service policies affect beneficiaries, particularly persons receiving public assistance, when such beneficiaries gain employment and experience a rise in income.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "performance".</i>
 

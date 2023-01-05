@@ -14,7 +14,7 @@
 
 &emsp;(1) buy, lease, or charter motor vehicles or water carriers having a seating capacity of 12 or more passengers;
 
-&emsp;(2) maintain and operate that equipment by enlisted members or employees of the Coast Guard, or by private individuals under contract; and
+&emsp;(2) maintain and operate that equipment by enlisted members or employees of the CoastGuard, or by private individuals under contract; and
 
 &emsp;(3) lease or charter the equipment to private or public carriers for operation under terms that are considered necessary by the Secretary or by an officer designated by the Secretary, and that may provide for the pooling of government-owned and privately owned equipment and facilities and for the reciprocal use of that equipment.
 

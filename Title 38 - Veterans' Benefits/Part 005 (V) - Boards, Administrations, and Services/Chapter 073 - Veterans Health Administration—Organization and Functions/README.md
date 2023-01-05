@@ -48,6 +48,7 @@
 | [7330A.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330A%20-%20Epilepsy%20centers%20of%20excellence.md) | Epilepsy centers of excellence. |
 | [7330B.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330B%20-%20Annual%20report%20on%20Veterans%20Health%20Administration%20and%20furnishing%20of%20hospital%20care%2C%20medical%20services%2C%20and%20nursing%20home%20care.md) | Annual report on Veterans Health Administration and furnishing of hospital care, medical services, and nursing home care. |
 | [7330C.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330C%20-%20Quadrennial%20Veterans%20Health%20Administration%20review.md) | Quadrennial Veterans Health Administration review. |
+| [7330D.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007330D%20-%20Inapplicability%20of%20Paperwork%20Reduction%20Act%20to%20research%20activities.md) | Inapplicability of Paperwork Reduction Act to research activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -77,9 +78,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER V—RESEARCH AND DEVELOPMENT
+
+|  |  |
+| :--- | ---: |
+| [7381\.](Subchapter%20005%20%28V%29%20-%20Research%20and%20Development/%C2%A7%2007381%20-%20Office%20of%20Research%20and%20Development.md) | Office of Research and Development. |
+| [7382\.](Subchapter%20005%20%28V%29%20-%20Research%20and%20Development/%C2%A7%2007382%20-%20Research%20personnel.md) | Research personnel. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. U, title I, §182(b), Dec. 29, 2022, 136 Stat. 5436, added item for subchapter V and items 7381 and 7382.
+
+Pub. L. 117–328, div. U, title I, §181(b), Dec. 29, 2022, 136 Stat. 5435, which directed amendment of subchapter analysis for this chapter by adding item 7330D, was executed by making the amendment to the analysis for this chapter, to reflect the probable intent of Congress. Item was editorially conformed to the style used in this title.
 
 <b>2021</b>—Pub. L. 116–315, title V, §5101(b)(3), Jan. 5, 2021, 134 Stat. 5026, added items 7310 and 7310A.
 
@@ -164,3 +178,4 @@ Pub. L. 87–574, §4(3), Aug. 6, 1962, 76 Stat. 309, inserted "; residencies a
 - [Subchapter 002 (II) - General Authority and Administration](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/README.md)
 - [Subchapter 003 (III) - Protection of Patient Rights](Subchapter%20003%20%28III%29%20-%20Protection%20of%20Patient%20Rights/README.md)
 - [Subchapter 004 (IV) - Research Corporations](Subchapter%20004%20%28IV%29%20-%20Research%20Corporations/README.md)
+- [Subchapter 005 (V) - Research and Development](Subchapter%20005%20%28V%29%20-%20Research%20and%20Development/README.md)

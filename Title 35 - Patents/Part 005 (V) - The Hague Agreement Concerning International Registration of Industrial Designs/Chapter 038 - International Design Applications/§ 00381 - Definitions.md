@@ -16,7 +16,7 @@ In General.—When used in this part, unless the context otherwise indicates—
 
 &emsp;(4) the term "International Bureau" means the international intergovernmental organization that is recognized as the coordinating body under the treaty and the Regulations;
 
-&emsp;(5) the term "effective registration date" means the date of international registration determined by the International Bureau under the treaty;
+&emsp;(5) the term "effective registration date" means the date of international registrationdetermined by the International Bureau under the treaty;
 
 &emsp;(6) the term "international design application" means an application for international registration; and
 

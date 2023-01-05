@@ -154,7 +154,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), a qualified alien or victim of trafficking described in this subclause is an alien or victim who—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act \[8 U.S.C.1256\], or terminated through removal proceedings under section 240 of the Immigration and Nationality Act \[8 U.S.C. 1229a\], and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act \[8 U.S.C. 1256\], or terminated through removal proceedings under section 240 of the Immigration and Nationality Act \[8 U.S.C. 1229a\], and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) has filed an application, within 4 years from the date the alien or victim began receiving supplemental security income benefits, to become a lawful permanent resident with the Secretary of Homeland Security, and the Commissioner of Social Security has verified, through procedures established in consultation with such Secretary, that such application is pending;
 
@@ -190,7 +190,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (A) SSI
 
-&emsp;&emsp;The supplemental security income program under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], including supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[42 U.S.C. 1382e(a)\] and payments pursuant to an agreement entered into under section 212(b) of Public Law 93–66.
+&emsp;&emsp;The supplemental security income program under title XVI of the Social SecurityAct \[42 U.S.C. 1381 et seq.\], including supplementary payments pursuant to an agreement for Federal administration under section 1616(a) of the Social Security Act \[42 U.S.C. 1382e(a)\] and payments pursuant to an agreement entered into under section 212(b) of Public Law 93–66.
 
 #### (B) Food stamps
 
@@ -414,7 +414,7 @@ Subsec. (b)(2)(C)(i). Pub. L. 105–33, §5563(c), inserted ", 1101, or 1301, o
 
 Pub. L. 105–33, §5563(a), inserted "and who fulfills the minimum active-duty service requirements of section 5303A(d) of title 38" after "alienage".
 
-Subsec. (b)(2)(C)(iii). Pub. L. 105–33, §5563(b), inserted before period at end "or the unremarried surviving spouse of an individual described in clause (i) or (ii) who is deceased if the marriage fulfills the requirements of section 1304 of title 38".
+Subsec. (b)(2)(C)(iii). Pub. L. 105–33, §5563(b), inserted before period at end "or the unremarried surviving spouse of an individual described in clause (i) or (ii)who is deceased if the marriage fulfills the requirements of section 1304 of title 38".
 
 Subsec. (b)(2)(E). Pub. L. 105–33, §5303(b), added subpar. (E).
 
@@ -426,7 +426,7 @@ Subsec. (b)(2)(F). Pub. L. 105–33, §5305(b), added subpar. (F).
 
 #### Change of Name
 
-References to the food stamp program established under the Food and Nutrition Act of 2008, formerlyknown as the Food Stamp Act of 1977, considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
+References to the food stamp program established under the Food and Nutrition Act of 2008, formerly known as the Food Stamp Act of 1977, considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
 
 #### Effective Date of 2020 Amendment
 

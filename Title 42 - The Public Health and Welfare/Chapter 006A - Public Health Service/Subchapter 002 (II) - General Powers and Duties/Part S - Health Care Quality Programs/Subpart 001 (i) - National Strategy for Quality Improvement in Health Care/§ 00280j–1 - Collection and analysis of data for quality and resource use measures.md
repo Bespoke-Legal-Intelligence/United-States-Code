@@ -4,7 +4,7 @@
 
 #### (1) Establishment of strategic framework
 
-&emsp;The Secretary shall establish and implement an overall strategic framework to carry outthe public reporting of performance information, as described in section 280j–2 of this title. Such strategic framework may include methods and related timelines for implementing nationally consistent data collection, data aggregation, and analysis methods.
+&emsp;The Secretary shall establish and implement an overall strategic framework to carry out the public reporting of performance information, as described in section 280j–2 of this title. Such strategic framework may include methods and related timelines for implementing nationally consistent data collection, data aggregation, and analysis methods.
 
 #### (2) Collection and aggregation of data
 
@@ -40,7 +40,7 @@
 
 #### (c) Consistent data aggregation
 
-The Secretary may award grants or contracts under this section only to entities that enable summary data that can be integrated and compared across multiple sources. The Secretary shall provide standards for the protection of the security and privacy of patient data.
+The Secretary may award grants or contracts under this section only to entities that enablesummary data that can be integrated and compared across multiple sources. The Secretary shall provide standards for the protection of the security and privacy of patient data.
 
 #### (d) Matching funds
 

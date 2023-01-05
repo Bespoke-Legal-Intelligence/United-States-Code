@@ -42,7 +42,7 @@
 
 (f) The Secretary of Labor shall prescribe such regulations as may be necessary to carry out the provisions of this section, including exempting a person or class of persons from the requirements of this section.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 586; amended Pub. L. 99–556, titleI, §§108, 115, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 102–378, §2(72), Oct. 2, 1992, 106 Stat. 1355.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 586; amended Pub. L. 99–556, title I, §§108, 115, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 102–378, §2(72), Oct. 2, 1992, 106 Stat. 1355.)
 
 #### <b>Editorial Notes</b>
 

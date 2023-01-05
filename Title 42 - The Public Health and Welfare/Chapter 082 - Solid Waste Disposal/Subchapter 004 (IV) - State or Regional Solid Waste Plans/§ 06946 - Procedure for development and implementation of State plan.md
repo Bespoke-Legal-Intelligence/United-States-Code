@@ -18,7 +18,7 @@ Within one hundred and eighty days after publication of guidelines under section
 
 (3) Implementation of interstate regional solid waste management plans shall be conducted by units of local government for any portion of a region within their jurisdiction, or by multijurisdictional agencies or authorities designated in accordance with State law, including those designated by agreement by such units of local government for such purpose. If no such unit, agency, or authority is so designated, the respective Governors shall designate or establish a single interstate agency to implement such plan.
 
-(4) For purposes of this subchapter, so much of an interstate regional plan as is carried out within a particular State shall be deemed part of the State plan for such State.
+(4) For purposes of this subchapter, so much of an interstate regional plan as is carried outwithin a particular State shall be deemed part of the State plan for such State.
 
 (Pub. L. 89–272, title II, §4006, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2816; amended Pub. L. 96–482, §19(b), Oct. 21, 1980, 94 Stat. 2345.)
 

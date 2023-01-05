@@ -26,9 +26,9 @@
 
 &emsp;&emsp;&emsp;(ii) the attempted discrediting of political opponents or disfavored populations; and
 
-&emsp;&emsp;&emsp;(iii) intelligence or influence operations directed against the United States, allies or partners of the United States, or other jurisdictions believed to be subject to Chinese or Russian interference.
+&emsp;&emsp;&emsp;(iii) intelligence or influence operations directed against the United States, alliesor partners of the United States, or other jurisdictions believed to be subject to Chinese or Russian interference.
 
-&emsp;&emsp;(C) An updated identification of the countertechnologies that have been or couldbe developed and deployed by the United States Government, or by the private sector with Government support, to deter, detect, and attribute the use of machine-manipulated media and machine-generated text by foreign governments, foreign-government affiliates, or foreign individuals, along with an analysis of the benefits, limitations and drawbacks of such identified counter-technologies, including any emerging concerns related to privacy.
+&emsp;&emsp;(C) An updated identification of the countertechnologies that have been or could be developed and deployed by the United States Government, or by the private sector with Government support, to deter, detect, and attribute the use of machine-manipulated media and machine-generated text by foreign governments, foreign-government affiliates, or foreign individuals, along with an analysis of the benefits, limitations and drawbacks of such identified counter-technologies, including any emerging concerns related to privacy.
 
 &emsp;&emsp;(D) An identification of the offices within the elements of the intelligence community that have, or should have, lead responsibility for monitoring the development of, use of, and response to machine-manipulated media and machine-generated text, including—
 
@@ -56,11 +56,7 @@ The Director of National Intelligence, in cooperation with the heads of any othe
 
 &emsp;(2) that such intrusion or campaign can be attributed to a foreign government, a foreign government-affiliated entity, or a foreign individual.
 
-#### (d) Annual update
-
-Upon submission of the report in subsection (a), on an annual basis, the Director of National Intelligence, in consultation with the heads of the elements of the intelligence community determined appropriate by the Director, shall submit to the congressional intelligence committees any significant updates with respect to the matters described in subsection (a).
-
-#### (e) Definitions
+#### (d) Definitions
 
 #### (1) Machine-generated text
 
@@ -68,19 +64,25 @@ Upon submission of the report in subsection (a), on an annual basis, the Directo
 
 #### (2) Machine-manipulated media
 
-&emsp;The term "machine-manipulated media" has the meaning given that term in section 5724.
+&emsp;The term "machine-manipulated media" has the meaning given that term in section 5724.<sup>1</sup>
 
-(Pub. L. 116–92, div. E, title LVII, §5709, Dec. 20, 2019, 133 Stat. 2168.)
+(Pub. L. 116–92, div. E, title LVII, §5709, Dec. 20, 2019, 133 Stat. 2168; Pub. L. 117–263, div. F, title LXVIII, §6811(b), Dec. 23, 2022, 136 Stat. 3600.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 5724, referred to in subsec. (e)(2), is section 5724 of Pub. L. 116–92, which is set out as a note under section 3024 of this title.
+Section 5724, referred to in subsec. (d)(2), means section 5724 of Pub. L. 116–92, which is set out as a note under section 3024 of this title.
+
+#### Amendments
+
+<b>2022</b>—Subsecs. (d), (e). Pub. L. 117–263 redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: "Upon submission of the report in subsection (a), on an annual basis, the Director of National Intelligence, in consultation with the heads of the elements of the intelligence community determined appropriate by the Director, shall submit to the congressional intelligence committees any significant updates with respect to the matters described in subsection (a)."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 
 For definitions of "intelligence community" and "congressional intelligence committees", referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

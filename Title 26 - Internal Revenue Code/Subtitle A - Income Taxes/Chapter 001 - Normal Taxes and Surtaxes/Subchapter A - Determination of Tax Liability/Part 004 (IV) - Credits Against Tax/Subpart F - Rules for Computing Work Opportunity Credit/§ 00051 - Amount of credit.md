@@ -270,7 +270,7 @@ For purposes of this subpart—
 
 #### (C) Explanation of denial of request
 
-&emsp;&emsp;If a designated local agency denies a request for certification of membership in a targeted group, such agency shall provide to the person making such request a written explanation of the reasons for such denial.
+&emsp;&emsp;If a designated local agency denies a request for certification of membership in atargeted group, such agency shall provide to the person making such request a written explanation of the reasons for such denial.
 
 #### (D) Credit for unemployed veterans
 
@@ -358,11 +358,11 @@ For purposes of this subpart—
 
 #### (2) Special rule for certain determination
 
-&emsp;Any determination as to whether paragraph (1), or subparagraph (A) or (B) of subsection (h)(1), applies with respect to any employee for any taxable year shall be made without regard to subsections (a) and (b) of section 52.
+&emsp;Any determination as to whether paragraph (1), or subparagraph (A) or (B) of subsection\(h)(1), applies with respect to any employee for any taxable year shall be made without regard to subsections (a) and (b) of section 52.
 
 #### (g) United States Employment Service to notify employers of availability of credit
 
-The United States Employment Service, in consultation with the Internal Revenue Service,shall take such steps as may be necessary or appropriate to keep employers apprised of the availability of the work opportunity credit determined under this subpart.
+The United States Employment Service, in consultation with the Internal Revenue Service, shall take such steps as may be necessary or appropriate to keep employers apprised of the availability of the work opportunity credit determined under this subpart.
 
 #### (h) Special rules for agricultural labor and railway labor
 
@@ -438,13 +438,13 @@ For purposes of this subpart—
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c)(2)(B) and (d)(2)(B), (6)(B)(iii), (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. Section 482 of the Act, which was classified to section 682 of Title 42, was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. Sections 1148(g) and 1616 of the Act are classified to sections 1320b–19(g) and 1382e, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(2)(B) and (d)(2)(B), (6)(B)(iii), (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. Section 482 of the Act, which was classified to section 682 of Title 42, was repealed by Pub. L. 104–193, title I, §108(e), Aug. 22, 1996, 110 Stat. 2167. Sections 1148(g) and 1616 of the Act are classified to sections 1320b–19(g) and 1382e, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 3111(d), referred to in subsec. (c)(5), was repealed by Pub. L. 115–141, div. U, title IV, §401(b)(34), Mar. 23, 2018, 132 Stat. 1204.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (d)(3)(A)(i), (8)(A)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 6(o) of the Act is classified to section 2015(o) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(B)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(B)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 Section 212 of Public Law 93–66, referred to in subsec. (d)(9), is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
 
@@ -786,7 +786,7 @@ Pub. L. 116–260, div. EE, title I, §113(b), Dec. 27, 2020, 134 Stat. 3050, pr
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–94, div. Q, title I, §143(b), Dec. 20, 2019, 133 Stat. 3234, provided that: "The amendment made by this section \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 2019."
+Pub. L. 116–94, div. Q, title I, §143(b), Dec. 20, 2019, 133 Stat. 3234, provided that: "The amendment made bythis section \[amending this section\] shall apply to individuals who begin work for the employer after December 31, 2019."
 
 #### Effective Date of 2015 Amendment
 
@@ -966,7 +966,7 @@ Pub. L. 97–248, title II, §233(g), Sept. 3, 1982, 96 Stat. 503, provided that
 
 "(1)
 
-Subsection (b).—The amendments made by subsection (b) \[amending this section\] shall apply to amounts paid or incurred after April 30, 1983, to individuals beginning work for the employer after such date.
+Subsection (b).—The amendments made by subsection (b) \[amending this section\] shall apply toamounts paid or incurred after April 30, 1983, to individuals beginning work for the employer after such date.
 
 "(2)
 
@@ -974,7 +974,7 @@ Subsection (d).—The amendments made by subsection (d) \[amending this section\
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–34, title II, §261(g), Aug. 13, 1981, 95 Stat. 263, as amended by Pub. L. 97–448, title I, §102(l)(2), Jan.12, 1983, 96 Stat. 2374; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 97–34, title II, §261(g), Aug. 13, 1981, 95 Stat. 263, as amended by Pub. L. 97–448, title I, §102(l)(2), Jan. 12, 1983, 96 Stat. 2374; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(1)
 
@@ -1060,7 +1060,7 @@ Possession of the united states.—For purposes of this subsection, the term 'po
 
 &emsp;"(B)
 
-Mirror code tax system.—For purposes of this subsection, the term 'mirror code tax system' means, with respect to any possession of the United States, the income tax system of such possession ifthe income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
+Mirror code tax system.—For purposes of this subsection, the term 'mirror code tax system' means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
 
 &emsp;"(C)
 

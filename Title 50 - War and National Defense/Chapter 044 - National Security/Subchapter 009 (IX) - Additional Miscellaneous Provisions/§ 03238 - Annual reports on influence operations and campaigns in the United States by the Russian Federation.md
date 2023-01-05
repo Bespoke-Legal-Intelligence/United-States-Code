@@ -20,7 +20,7 @@ Each report under subsection (a) shall include the following:
 
 #### (c) Coordination
 
-In carrying out subsection (a), the Director shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of the National Security Agency, and any other relevant head of an element of the intelligence community.
+In carrying out subsection (a), the Director shall coordinate with the Director of the Federal Bureau of Investigation, the Director of the Central Intelligence Agency, the Director of theNational Security Agency, and any other relevant head of an element of the intelligence community.
 
 #### (d) Form
 
@@ -32,7 +32,7 @@ Each report submitted under subsection (a) shall be submitted in unclassified fo
 
 #### Initial Report
 
-Pub. L. 116–92, div. E, title LV, §5501(c), Dec. 20, 2019, 133 Stat. 2144, provided that: "The Director of the National Counterintelligence and Security Center shallsubmit to the congressional intelligence committees the first report under section 1108 of the National Security Act of 1947 \[50 U.S.C. 3238\], as added by subsection (a), by not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
+Pub. L. 116–92, div. E, title LV, §5501(c), Dec. 20, 2019, 133 Stat. 2144, provided that: "The Director of the National Counterintelligence and Security Center shall submit to the congressional intelligence committees the first report under section 1108 of the National Security Act of 1947 \[50 U.S.C. 3238\], as added by subsection (a), by not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 \[For definition of "congressional intelligence committees" as used in section 5501(c) of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.\]
 

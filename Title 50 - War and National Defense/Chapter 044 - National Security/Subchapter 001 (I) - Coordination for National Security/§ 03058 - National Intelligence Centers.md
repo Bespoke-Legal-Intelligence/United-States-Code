@@ -38,7 +38,7 @@ The Director of National Intelligence may terminate any national intelligence ce
 
 #### (g) Separate budget account
 
-The Director of National Intelligence shall, as appropriate, include in the National IntelligenceProgram budget a separate line item for each national intelligence center under subsection (a).
+The Director of National Intelligence shall, as appropriate, include in the National Intelligence Program budget a separate line item for each national intelligence center under subsection (a).
 
 (July 26, 1947, ch. 343, title I, §119B, as added Pub. L. 108–458, title I, §1023, Dec. 17, 2004, 118 Stat. 3676.)
 

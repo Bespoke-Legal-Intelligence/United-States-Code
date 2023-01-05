@@ -8,7 +8,7 @@ Every common carrier, except connecting carriers, shall, within such reasonable 
 
 (1) No change shall be made in the charges, classifications, regulations, or practices which have been so filed and published except after one hundred and twenty days notice to the Commission and to the public, which shall be published in such form and contain such information as the Commission may by regulations prescribe.
 
-(2) The Commission may, in its discretion and for good cause shown, modify any requirement made by or under the authority of this section either in particular instances or by general order applicable to special circumstances or conditions except that the Commission may not require the notice period specified in paragraph (1) to be more than one hundred and twenty days.
+(2) The Commission may, in its discretion and for good cause shown, modify any requirement made by or under the authority of this section either in particular instances or by general order applicable to special circumstances or conditions except that the Commission may notrequire the notice period specified in paragraph (1) to be more than one hundred and twenty days.
 
 #### (c) Overcharges and rebates
 
@@ -20,7 +20,7 @@ The Commission may reject and refuse to file any schedule entered for filing whi
 
 #### (e) Penalty for violations
 
-In case of failure or refusal on the part of any carrier to comply with the provisions of thissection or of any regulation or order made by the Commission thereunder, such carrier shall forfeit to the United States the sum of $6,000 for each such offense, and $300 for each and every day of the continuance of such offense.
+In case of failure or refusal on the part of any carrier to comply with the provisions of this section or of any regulation or order made by the Commission thereunder, such carrier shall forfeit to the United States the sum of $6,000 for each such offense, and $300 for each and every day of the continuance of such offense.
 
 (June 19, 1934, ch. 652, title II, §203, 48 Stat. 1070; Pub. L. 94–376, §1, Aug. 4, 1976, 90 Stat. 1080; Pub. L. 101–239, title III, §3002(b), Dec. 19, 1989, 103 Stat. 2131; Pub. L. 101–396, §7, Sept. 28, 1990, 104 Stat. 850.)
 

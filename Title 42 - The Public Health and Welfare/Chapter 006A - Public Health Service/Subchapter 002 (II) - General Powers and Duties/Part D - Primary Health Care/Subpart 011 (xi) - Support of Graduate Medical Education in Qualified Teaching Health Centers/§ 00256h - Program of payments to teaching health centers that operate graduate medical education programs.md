@@ -172,7 +172,7 @@ The Secretary shall determine any changes to the number of residents reported by
 
 #### (B) Notice and opportunity to provide accurate and missing information
 
-&emsp;&emsp;Before imposing a reduction under subparagraph (A) on the basis of a qualified teaching health center's failure to providecomplete and accurate information described in subparagraph (A)(ii), the Secretary shall provide notice to the teaching health center of such failure and the Secretary's intention to impose such reduction and shall provide the teaching health center with the opportunity to provide the required information within the period of 30 days beginning on the date of such notice. If the teaching health center provides such information within such period, no reduction shall be made under subparagraph (A) on the basis of the previous failure to provide such information.
+&emsp;&emsp;Before imposing a reduction under subparagraph (A) on the basis of a qualified teaching health center's failure to provide complete and accurate information described in subparagraph (A)(ii), the Secretary shall provide notice to the teaching health center of such failure and the Secretary's intention to impose such reduction and shall provide the teaching health center with the opportunity to provide the required information within the period of 30 days beginning on the date of such notice. If the teaching health center provides such information within such period, no reduction shall be made under subparagraph (A) on the basis of the previous failure to provide such information.
 
 #### (4) Residents
 

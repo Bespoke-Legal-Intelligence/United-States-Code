@@ -2,7 +2,7 @@
 
 #### (a) Producer approval of order
 
-The Secretary shall conduct a referendum among egg producers not exempt hereunder who,during a representative period determined by the Secretary, have been engaged in the production of commercial eggs, for the purpose of ascertaining whether the issuance of an order is approved or favored by such producers. No order issued pursuant to this chapter shall be effective unless the Secretary determines that the issuance of such order is approved or favored by not less than two-thirds of the producers voting in such referendum, or by a majority of the producers voting in such referendum if such majority produced not less than two-thirds of the commercial eggs produced during a representative period defined by the Secretary.
+The Secretary shall conduct a referendum among egg producers not exempt hereunder who, during a representative period determined by the Secretary, have been engaged in the production of commercial eggs, for the purpose of ascertaining whether the issuance of an order is approved or favored by such producers. No order issued pursuant to this chapter shall be effective unless the Secretary determines that the issuance of such order is approved or favored by not less than two-thirds of the producers voting in such referendum, or by a majority of the producers voting in such referendum if such majority produced not less than two-thirds of the commercial eggs produced during a representative period defined by the Secretary.
 
 #### (b) Request by Egg Board for referendum
 
@@ -38,5 +38,5 @@ The failure of egg producers to approve an amendment to any Egg Research and Pro
 
 <b>1993</b>—Pub. L. 103–188 designated first and second sentences of existing provisions as subsec. (a), added subsec. (b), and designated last sentence of existing provisions as subsec. (c).
 
-<b>1980</b>—Pub. L. 96–276 provided that failure of egg producers to approve an amendment to any Egg Research and Promotion Order shall not be deemed to invalidate the order.
+<b>1980</b>—Pub. L. 96–276 provided that failure of egg producers to approve an amendment to any Egg Researchand Promotion Order shall not be deemed to invalidate the order.
 

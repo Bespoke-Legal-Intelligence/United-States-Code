@@ -212,7 +212,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) provide educational opportunities relating to nutrition to members participating in a produce prescription project; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ee) inform members of the availability of the produce prescription project, including locations at which produce prescriptions may be redeemed;
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) inform members of the availability of the produce prescriptionproject, including locations at which produce prescriptions may be redeemed;
 
 &emsp;&emsp;&emsp;&emsp;(II) a description of any additional nonprofit or emergency feeding organizations that shall be involved in the project and the role of each additional nonprofit or emergency feeding organization in implementing and evaluating an effective produce prescription project;
 
@@ -230,7 +230,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out the grant program under paragraph (1), the Secretary may enter into1 or more memoranda of understanding with a Federal agency, a State, or a private entity to ensure the effective implementation and evaluation of each project.
+&emsp;&emsp;In carrying out the grant program under paragraph (1), the Secretary may enter into 1 or more memoranda of understanding with a Federal agency, a State, or a private entity to ensure the effective implementation and evaluation of each project.
 
 #### (B) Memorandum of understanding
 

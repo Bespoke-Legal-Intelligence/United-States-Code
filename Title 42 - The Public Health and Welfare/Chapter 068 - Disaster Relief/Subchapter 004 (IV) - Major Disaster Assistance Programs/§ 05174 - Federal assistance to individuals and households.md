@@ -20,7 +20,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The President shall determine appropriate types of housing assistance to be provided under this section to individuals and households described in subsection (a)(1) based on considerations of cost effectiveness, convenience to the individuals and households, and such other factors as the President may consider appropriate.
+&emsp;&emsp;The President shall determine appropriate types of housing assistance to be providedunder this section to individuals and households described in subsection (a)(1) based on considerations of cost effectiveness, convenience to the individuals and households, and such other factors as the President may consider appropriate.
 
 #### (B) Multiple types of assistance
 
@@ -38,7 +38,7 @@
 
 #### (ii) Amount
 
-&emsp;&emsp;&emsp;The amount of assistance under clause (i) shall be based on the fair market rentfor the accommodation provided plus the cost of any transportation, utility hookups, security deposits, or unit installation not provided directly by the President.
+&emsp;&emsp;&emsp;The amount of assistance under clause (i) shall be based on the fair market rent for the accommodation provided plus the cost of any transportation, utility hookups, security deposits, or unit installation not provided directly by the President.
 
 #### (B) Direct assistance
 
@@ -210,7 +210,7 @@
 
 &emsp;&emsp;&emsp;The housing strategy required under clause (i) shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) outline the approach of the State in working with Federal partners, Indiantribal governments, local communities, nongovernmental organizations, and individual disaster survivors to meet disaster-related sheltering and housing needs; and
+&emsp;&emsp;&emsp;&emsp;(I) outline the approach of the State in working with Federal partners, Indian tribal governments, local communities, nongovernmental organizations, and individual disaster survivors to meet disaster-related sheltering and housing needs; and
 
 &emsp;&emsp;&emsp;&emsp;(II) include the establishment of an activation plan for a State Disaster Housing Task Force, as outlined in the National Disaster Housing Strategy, to bring together State, tribal, local, Federal, nongovernmental, and private sector expertise to evaluate housing requirements, consider potential solutions, recognize special needs populations, and propose recommendations.
 

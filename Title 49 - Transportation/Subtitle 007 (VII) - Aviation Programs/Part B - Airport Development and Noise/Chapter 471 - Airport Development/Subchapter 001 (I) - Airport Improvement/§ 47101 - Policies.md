@@ -14,7 +14,7 @@ General.—It is the policy of the United States—
 
 &emsp;(5) to encourage the development of intermodal connections on airport property between aeronautical and other transportation modes and systems to serve air transportation passengers and cargo efficiently and effectively and promote economic development;
 
-&emsp;(6) that airport development projects under this subchapter provide for the protection and enhancement of natural resources and thequality of the environment of the United States;
+&emsp;(6) that airport development projects under this subchapter provide for the protection and enhancement of natural resources and the quality of the environment of the United States;
 
 &emsp;(7) that airport construction and improvement projects that increase the capacity of facilities to accommodate passenger and cargo traffic be undertaken to the maximum feasible extent so that safety and efficiency increase and delays decrease;
 
@@ -34,7 +34,7 @@ General.—It is the policy of the United States—
 
 &emsp;(12) that airport fees, rates, and charges must be reasonable and may only be used for purposes not prohibited by this subchapter; and
 
-&emsp;(13) that airports should be as self-sustaining as possible under the circumstances existing at each particular airport and in establishing new fees, rates, and charges, and generating revenues from all sources, airport owners and operators should not seek to create revenue surpluses that exceed the amounts to be used for airport system purposes and for other purposes for which airport revenues may be spent under section 47107(b)(1) of this title, including reasonable reserves and other funds to facilitate financing and cover contingencies.
+&emsp;(13) that airports should be as self-sustaining as possible under the circumstances existing at each particular airport and in establishing new fees, rates, and charges, and generating revenues from all sources, airport owners andoperators should not seek to create revenue surpluses that exceed the amounts to be used for airport system purposes and for other purposes for which airport revenues may be spent under section 47107(b)(1) of this title, including reasonable reserves and other funds to facilitate financing and cover contingencies.
 
 (b)
 
@@ -60,7 +60,7 @@ Capacity Expansion and Noise Abatement.—It is in the public interest to recogn
 
 (d)
 
-Consistency With Air Commerce and Safety Policies.—Each airport and airway program should be carried out consistently with section 40101(a), (b), (d), and (f) of this title to foster competition, prevent unfair methods of competition in air transportation, maintain essential air transportation, and prevent unjustand discriminatory practices, including as the practices may be applied between categories and classes of aircraft.
+Consistency With Air Commerce and Safety Policies.—Each airport and airway program should be carried out consistently with section 40101(a), (b), (d), and (f) of this title to foster competition, prevent unfair methods of competition in air transportation, maintain essential air transportation, and prevent unjust and discriminatory practices, including as the practices may be applied between categories and classes of aircraft.
 
 (e)
 
@@ -102,7 +102,7 @@ Intermodal Planning.—To carry out the policy of subsection (a)(5) of this sect
 
 &emsp;(1)
 
-Coordination in development of airport plans and programs.—Cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, and comprehensive to the degree appropriate to the complexity of the transportation problems.
+Coordination in development of airport plans and programs.—Cooperate withState and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, and comprehensive to the degree appropriate to the complexity of the transportation problems.
 
 &emsp;(2)
 
@@ -252,7 +252,7 @@ Sept. 3, 1982, Pub. L. 97–248, §502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pub. 
 
 49 App.:2208(b)(5) (last sentence words before 11th comma).
 
-In subsection (a), before clause (1), the text of 49 App.:2201(a)(2), (9), and (10) is omitted as executed. The words "It is the policy of the United States" are substituted for "The Congress hereby . . . declares" in 49 App.:2201(a) (words before cl. (1)), "it is in the national interest" in 49 App.:2201(a)(12), "are not in the public interest and" in 49 App.:2201(a)(13), "It is declared to be in the national interest to" in 49 App.:2201(b), and "It is declared to be national policy that" in 49 App.:2208(b)(5) for consistency in the revised title and with other titles of the United States Code. In clause (1), the word "is" is substituted for "will continue to be" to eliminate unnecessary words. In clause (2), the words "with due regard" are omitted as surplus. In clause (3), the words "reliever airports make an important contribution to the efficient operation of the airport and airway system" are omitted as executed. In clause (4), the words "cargo hub airports play a critical role in the movement of commerce through the airport and airway system" are omitted as executed. In clause (5), the words "and promote" are omitted as surplus.
+In subsection (a), before clause (1), the text of 49 App.:2201(a)(2), (9), and (10) is omitted as executed. The words "It is the policy of the United States" are substituted for "The Congress hereby . . . declares" in 49 App.:2201(a) (words before cl. (1)), "it is in the national interest" in 49 App.:2201(a)(12), "are not in the public interest and" in 49 App.:2201(a)(13), "It is declared to be in the national interest to" in 49 App.:2201(b), and "It is declared to be national policy that" in 49 App.:2208(b)(5) for consistency in the revised title and with other titles of the United States Code. In clause (1), the word "is" is substituted for "will continue to be" to eliminate unnecessary words. In clause (2), the words "with due regard" are omitted as surplus. In clause (3), the words "reliever airports make an important contribution to the efficient operation of the airport and airway system" are omitted as executed. In clause (4), the words "cargo hub airports play a critical role in the movement of commerce through the airportand airway system" are omitted as executed. In clause (5), the words "and promote" are omitted as surplus.
 
 In subsection (d), the word "to" is substituted for "with due regard for the goals expressed therein of" to eliminate unnecessary words.
 

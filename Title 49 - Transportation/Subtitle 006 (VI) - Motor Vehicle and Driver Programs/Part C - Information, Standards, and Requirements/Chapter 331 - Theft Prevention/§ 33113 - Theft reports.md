@@ -74,7 +74,7 @@ Motor Vehicle Report.—Not later than October 25, 1997, the Secretary shall sub
 
 &emsp;&emsp;(E) to have benefits greater than the costs of the identification; and
 
-&emsp;(10) other relevant and reliable information available to the Secretary about the impact, including the beneficial impact, of the laws set forth in titles II and III of the Motor VehicleTheft Law Enforcement Act of 1984 on law enforcement, consumers, and manufacturers; and
+&emsp;(10) other relevant and reliable information available to the Secretary about the impact, including the beneficial impact, of the laws set forth in titles II and III of the Motor Vehicle Theft Law Enforcement Act of 1984 on law enforcement, consumers, and manufacturers; and
 
 &emsp;(11) recommendations (including, as appropriate, legislative and administrative recommendations) for—
 

@@ -46,7 +46,7 @@ Beginning in fiscal year 2008, the Secretary shall assess and collect fees in ac
 
 #### (i) Submissions
 
-&emsp;&emsp;&emsp;For each advisory review fee paid by a person for a fiscal year, the person is entitled to acceptance for advisory review by the Secretary of one DTC advertisement and acceptance of one resubmission for advisory review of the same advertisement. The advertisement shall be submitted for review in the fiscal year for which the fee was assessed, except that a person may carry over not more than one paid advisory review submission to the next fiscal year. Resubmissions may be submitted without regard to the fiscal year of the initial advisory review submission.
+&emsp;&emsp;&emsp;For each advisory review fee paid by a person for a fiscal year, the person is entitled to acceptance for advisory review by the Secretary of one DTC advertisementand acceptance of one resubmission for advisory review of the same advertisement. The advertisement shall be submitted for review in the fiscal year for which the fee was assessed, except that a person may carry over not more than one paid advisory review submission to the next fiscal year. Resubmissions may be submitted without regard to the fiscal year of the initial advisory review submission.
 
 #### (ii) No refunds
 
@@ -170,7 +170,7 @@ Notwithstanding any other requirement, a submission for advisory review of a DTC
 
 #### (2) Later fiscal years
 
-&emsp;Beginning in fiscal year 2009, if, on November 1 of the fiscal year, the combination of theoperating reserves, annual fee revenues from that fiscal year, and unobligated fee revenues from prior fiscal years falls below $9,000,000, adjusted for inflation (as described in subsection (c)(1)), the program under this section shall terminate, and the Secretary shall notify all participants, retain any money from the unused advisory review fees and the operating reserves needed to terminate the program, and refund the remainder of the unused fees and operating reserves. To the extent required to terminate the program, the Secretary shall first use unobligated advisory review fee revenues from prior fiscal years, then the operating reserves, and finally, unused advisory review fees from the relevant fiscal year.
+&emsp;Beginning in fiscal year 2009, if, on November 1 of the fiscal year, the combination of the operating reserves, annual fee revenues from that fiscal year, and unobligated fee revenues from prior fiscal years falls below $9,000,000, adjusted for inflation (as described in subsection (c)(1)), the program under this section shall terminate, and the Secretary shall notify all participants, retain any money from the unused advisory review fees and the operating reserves needed to terminate the program, and refund the remainder of the unused fees and operating reserves. To the extent required to terminate the program, the Secretary shall first use unobligated advisory review fee revenues from prior fiscal years, then the operating reserves, and finally, unused advisory review fees from the relevant fiscal year.
 
 #### (g) Crediting and availability of fees
 

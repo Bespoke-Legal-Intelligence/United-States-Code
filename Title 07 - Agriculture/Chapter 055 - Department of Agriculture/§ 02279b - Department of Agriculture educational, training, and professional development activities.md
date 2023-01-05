@@ -62,7 +62,7 @@ Under the general supervision of the Secretary, the Graduate School shall develo
 
 #### (3) Not Federal funds
 
-&emsp;Fees collected under paragraph (1) and amounts received under paragraph (2) shall not be considered to be Federal funds and shallnot be required to be deposited in the Treasury of the United States.
+&emsp;Fees collected under paragraph (1) and amounts received under paragraph (2) shall not be considered to be Federal funds and shall not be required to be deposited in the Treasury of the United States.
 
 #### (e) General Administration Board and Director
 
@@ -110,7 +110,7 @@ Employees of the Graduate School are employees of a nonappropriated fund instrum
 
 The Graduate School shall not be considered to be a Federal agency for purposes of—
 
-&emsp;(1) the Federal Advisory Committee Act (5 U.S.C. App.);
+&emsp;(1) chapter 10 of title 5;
 
 &emsp;(2) section 552 or 552a of title 5; or
 
@@ -140,13 +140,9 @@ The Graduate School may use the facilities and resources of the Department of Ag
 
 The financial records of the Graduate School (including records relating to contracts or agreements entered into under subsection (c)) shall be made available to the Comptroller General for purposes of conducting an audit.
 
-(Pub. L. 104–127, title IX, §921, Apr. 4, 1996, 110 Stat. 1191; Pub. L. 107–171, title X, §10705(a), May 13, 2002, 116 Stat. 518; Pub. L. 110–234, title XIV, §14213(a), May 22, 2008, 122 Stat. 1465; Pub. L. 110–246, §4(a), title XIV, §14213(a), June 18, 2008, 122 Stat. 1664, 2227.)
+(Pub. L. 104–127, title IX, §921, Apr. 4, 1996, 110 Stat. 1191; Pub. L. 107–171, title X, §10705(a), May 13, 2002, 116 Stat. 518; Pub. L. 110–234, title XIV, §14213(a), May 22, 2008, 122 Stat. 1465; Pub. L. 110–246, §4(a), title XIV, §14213(a), June 18, 2008, 122 Stat. 1664, 2227; Pub. L. 117–286, §4(a)(29), Dec. 27, 2022, 136 Stat. 4308.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (g)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -156,7 +152,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §14213(a)(1), substituted "Department of Agriculture educational, training, and professional development activities" for "Operation ofGraduate School of Department of Agriculture as nonappropriated fund instrumentality" in section catchline.
+<b>2022</b>—Subsec. (g)(1). Pub. L. 117–286 substituted "chapter 10 of title 5;" for "the Federal Advisory Committee Act (5 U.S.C. App.);".
+
+<b>2008</b>—Pub. L. 110–246, §14213(a)(1), substituted "Department of Agriculture educational, training, and professional development activities" for "Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality" in section catchline.
 
 Subsec. (b). Pub. L. 110–246, §14213(a)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "On and after April 4, 1996, the Graduate School of the Department of Agriculture shall continue to operate as a nonappropriated fund instrumentality of the United States under the jurisdiction of the Department of Agriculture."
 

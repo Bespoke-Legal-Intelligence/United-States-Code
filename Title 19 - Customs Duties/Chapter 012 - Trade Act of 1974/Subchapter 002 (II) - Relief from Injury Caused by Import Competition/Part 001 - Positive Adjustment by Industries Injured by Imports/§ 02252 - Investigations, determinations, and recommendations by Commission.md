@@ -44,7 +44,7 @@
 
 #### (b) Investigations and determinations by Commission
 
-(1)(A) Upon the filing of a petition under subsection (a), the request of the President or the Trade Representative, the resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, or on its own motion, the Commission shall promptly make an investigationto determine whether an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article.
+(1)(A) Upon the filing of a petition under subsection (a), the request of the President or the Trade Representative, the resolution of either the Committee on Ways and Means of the House of Representatives or the Committee on Finance of the Senate, or on its own motion, the Commission shall promptly make an investigation to determine whether an article is being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article.
 
 (B) For purposes of this section, the term "substantial cause" means a cause which is important and not less than any other cause.
 
@@ -94,11 +94,11 @@
 
 &emsp;(C) may, in the case of one or more domestic producers which produce a like or directly competitive article in a major geographic area of the United States and whose production facilities in such area for such article constitute a substantial portion of the domestic industry in the United States and primarily serve the market in such area, and where the imports are concentrated in such area, treat as such domestic industry only that segment of the production located in such area.
 
-(5) In the course of any proceeding under this subsection, the Commission shall investigate any factor which in its judgment may be contributing to increased imports of the article under investigation. Whenever in the course of its investigation the Commission has reason to believe that the increased imports are attributable in part to circumstances which come within the purview of subtitles A and B of title VII \[19 U.S.C. 1671 et seq., 1673 et seq.\] or section 337 \[19 U.S.C. 1337\] of the Tariff Act of 1930, or other remedial provisions of law, the Commission shall promptly notify the appropriate agency so that such action may be taken as is otherwise authorized by such provisions of law.
+(5) In the course of any proceeding under this subsection, the Commission shall investigate any factor which in its judgment may be contributing to increased imports of the article under investigation. Whenever in the course of its investigation the Commission has reason to believe that the increased imports are attributable in part to circumstances which comewithin the purview of subtitles A and B of title VII \[19 U.S.C. 1671 et seq., 1673 et seq.\] or section 337 \[19 U.S.C. 1337\] of the Tariff Act of 1930, or other remedial provisions of law, the Commission shall promptly notify the appropriate agency so that such action may be taken as is otherwise authorized by such provisions of law.
 
 (6) For purposes of this section:
 
-&emsp;(A)(i) The term "domestic industry" means, with respect to an article, the producers as awhole of the like or directly competitive article or those producers whose collective production of the like or directly competitive article constitutes a major proportion of the total domestic production of such article.
+&emsp;(A)(i) The term "domestic industry" means, with respect to an article, the producers as a whole of the like or directly competitive article or those producers whose collective production of the like or directly competitive article constitutes a major proportion of the total domestic production of such article.
 
 &emsp;(ii) The term "domestic industry" includes producers located in the United States insular possessions.
 
@@ -148,7 +148,7 @@
 
 (C) The Commission shall immediately report to the President its determinations under subparagraph (A)(i) and (ii) and, if the determinations are affirmative, the finding under subparagraph (B).
 
-(D) Within 30 days after receiving a report from the Commission under subparagraph (C) containing an affirmative determination under subparagraph (A)(i) and (ii), the President, if he considers provisional relief to be warranted andafter taking into account the finding of the Commission under subparagraph (B), shall proclaim, for a period not to exceed 200 days, such provisional relief that the President considers necessary to prevent or remedy the serious injury. Such relief shall take the form of an increase in, or the imposition of, a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
+(D) Within 30 days after receiving a report from the Commission under subparagraph (C) containing an affirmative determination under subparagraph (A)(i) and (ii), the President, if he considers provisional relief to be warranted and after taking into account the finding of the Commission under subparagraph (B), shall proclaim, for a period not to exceed 200 days, such provisional relief that the President considers necessary to prevent or remedy the serious injury. Such relief shall take the form of an increase in, or the imposition of, a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
 
 (3) If provisional relief is proclaimed under paragraph (1)(G) or (2)(D) in the form of an increase, or the imposition of, a duty, the President shall order the suspension of liquidation of all imported articles subject to the affirmative determination under paragraph (1)(C) or paragraph (2)(A), as the case may be, that are entered, or withdrawn from warehouse for consumption, on or after the date of the determination.
 
@@ -226,7 +226,7 @@
 
 &emsp;(B) take into account—
 
-&emsp;&emsp;(i) the form and amount of action described in paragraph (2)(A), (B), and (C) thatwould prevent or remedy the injury or threat thereof,
+&emsp;&emsp;(i) the form and amount of action described in paragraph (2)(A), (B), and (C) that would prevent or remedy the injury or threat thereof,
 
 &emsp;&emsp;(ii) the objectives and actions specified in the adjustment plan, if any, submitted under subsection (a)(4),
 
@@ -334,7 +334,7 @@ Title III of the United States-Australia Free Trade Agreement Implementation Act
 
 Title III of the United States-Morocco Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 108–302, Aug. 17, 2004, 118 Stat. 1116, which is set out in a note under section 3805 of this title.
 
-The Dominican Republic-Central America-United States Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, as amended. Title III of the Act is classified generally to subchapter III (§4051 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+The Dominican Republic-Central America-United States Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462. Title III of the Act is classified generally to subchapter III (§4051 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 Title III of the United States-Bahrain Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 109–169, Jan. 11, 2006, 119 Stat. 3593, which is set out in a note under section 3805 of this title.
 
@@ -348,9 +348,9 @@ Title III of the United States–Colombia Trade Promotion Agreement Implementati
 
 Title III of the United States–Panama Trade Promotion Agreement Implementation Act, referred to in subsec. (a)(8), is title III of Pub. L. 112–43, Oct. 21, 2011, 125 Stat. 523, which is set out in a note under section 3805 of this title.
 
-Subtitle C of title III of the United States-Mexico-Canada Agreement Implementation Act, referred to insubsec. (a)(8), is subtitle C (§§321–327) of title III of Pub. L. 116–113, which enacted part C (§4571 et seq.) of subchapter III of chapter 29 of this title and amended this section and sections 13902 and 13905 of Title 49, Transportation. For complete classification of subtitle C to the Code, see Tables.
+Subtitle C of title III of the United States-Mexico-Canada Agreement Implementation Act, referred to in subsec. (a)(8), is subtitle C (§§321–327) of title III of Pub. L. 116–113, which enacted part C (§4571 et seq.) of subchapter III of chapter 29 of this title and amended this section and sections 13902 and 13905 of Title 49, Transportation. For complete classification of subtitle C to the Code, see Tables.
 
-The Tariff Act of 1930, referred to in subsec. (c)(5), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Subtitles A and B of title VII of the Tariff Act of 1930 are classified generally to parts I and II (§1671 et seq. and 1673 et seq., respectively) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsec. (c)(5), is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitles A and B of title VII of the Tariff Act of 1930 are classified generally to parts I and II (§1671 et seq. and 1673 et seq., respectively) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 #### Amendments
 
@@ -474,7 +474,7 @@ Amendment by Pub. L. 108–77 effective on the date the United States-Chile Free
 
 #### Effective and Termination Dates of 2001 Amendment
 
-Amendment by Pub. L. 107–43 effective on the date the Agreement between the United States of America and the Hashemite Kingdom of Jordan on the Establishment of a Free Trade Area enters into force (Dec. 17, 2001), and ceases to be effective on the date theAgreement ceases to be in force, see section 404(a), (c), of Pub. L. 107–43, set out in a note under section 2112 of this title.
+Amendment by Pub. L. 107–43 effective on the date the Agreement between the United States of Americaand the Hashemite Kingdom of Jordan on the Establishment of a Free Trade Area enters into force (Dec. 17, 2001), and ceases to be effective on the date the Agreement ceases to be in force, see section 404(a), (c), of Pub. L. 107–43, set out in a note under section 2112 of this title.
 
 #### Effective Date of 1994 Amendment
 

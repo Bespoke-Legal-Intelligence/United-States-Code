@@ -6,7 +6,7 @@
 
 &emsp;(A) interpretive rules and general statements of policy with respect to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), and
 
-&emsp;(B) rules which define with specificity acts or practices which are unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section. Rules under this subparagraph may include requirements prescribed for the purpose of preventing such acts or practices.
+&emsp;(B) rules which define with specificity acts or practices which are unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section.Rules under this subparagraph may include requirements prescribed for the purpose of preventing such acts or practices.
 
 (2) The Commission shall have no authority under this subchapter, other than its authority under this section, to prescribe any rule with respect to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title). The preceding sentence shall not affect any authority of the Commission to prescribe rules (including interpretive rules), and general statements of policy, with respect to unfair methods of competition in or affecting commerce.
 
@@ -48,7 +48,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 &emsp;(3) The Commission may prescribe such rules and make such rulings concerning proceedings in such hearings as may tend to avoid unnecessary costs or delay. Such rules or rulings may include (A) imposition of reasonable time limits on each interested person's oral presentations, and (B) requirements that any cross-examination to which a person may be entitled under paragraph (2) be conducted by the Commission on behalf of that person in such manner as the Commission determines (i) to be appropriate, and (ii) to be required for a full and true disclosure with respect to disputed issues of material fact.
 
-&emsp;(4)(A) Except as provided in subparagraph (B), if a group of persons each of whom under paragraphs (2) and (3) would be entitled to conduct (or have conducted) cross-examination and who are determined by the Commission to have the same or similar interests in the proceeding cannot agree upon a single representative of such interests for purposes of cross-examination, the Commission may make rules and rulings (i) limiting the representation of such interest, for such purposes, and (ii) governing the manner in which such cross-examination shall be limited.
+&emsp;(4)(A) Except as provided in subparagraph (B), if a group of persons each of whom under paragraphs (2) and (3) would be entitled to conduct (or have conducted) cross-examination and who are determined by the Commission tohave the same or similar interests in the proceeding cannot agree upon a single representative of such interests for purposes of cross-examination, the Commission may make rules and rulings (i) limiting the representation of such interest, for such purposes, and (ii) governing the manner in which such cross-examination shall be limited.
 
 &emsp;(B) When any person who is a member of a group with respect to which the Commission has made a determination under subparagraph (A) is unable to agree upon group representation with the other members of the group, then such person shall not be denied under the authority of subparagraph (A) the opportunity to conduct (or have conducted) cross-examination as to issues affecting his particular interests if (i) he satisfies the Commission that he has made a reasonable and good faith effort to reach agreement upon group representation with the other members of the group and (ii) the Commission determines that there are substantial and relevant issues which are not adequately presented by the group representative.
 
@@ -86,7 +86,7 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 > The term "evidence", as used in this paragraph, means any matter in the rulemaking record.
 
-(4) The judgment of the court affirming or setting aside, in whole or in part, any such rule shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
+(4) The judgment of the court affirming or setting aside, in whole or in part, any such ruleshall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
 (5)(A) Remedies under the preceding paragraphs of this subsection are in addition to and not in lieu of any other remedies provided by law.
 
@@ -200,7 +200,7 @@ Subsec. (f)(2). Pub. L. 102–242, §212(g)(2)(A), added par. (2) and struck out
 
 Subsec. (f)(4) to (7). Pub. L. 100–86, §715(c)(3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–252, §§7, 11(a)(2), in provisions preceding subpar. (A) substituted "Except as provided in subsection (i), the" for "The" and in subpar. (B) inserted ", except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section" after "section 45(a)(1) of this title)".
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–252, §§7, 11(a)(2), in provisions preceding subpar. (A) substituted "Except as provided in subsection (i), the" for "The" and in subpar. (B) inserted ", except that the Commission shallnot develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section" after "section 45(a)(1) of this title)".
 
 Subsec. (b). Pub. L. 96–252, §§8(a), 11(a)(3), designated existing provisions as par. (1) and cls. (1) to (4) thereof as subpars. (A) to (D) and, subpar. (A) thereof, inserted "the text of the rule, including any alternatives, which the Commission proposes to promulgate, and" after "particularity", and added par. (2).
 
@@ -274,7 +274,7 @@ Pub. L. 96–252, §19, May 28, 1980, 94 Stat. 391, prohibited the Federal Trade
 
 #### Oversight Hearings With Respect to Federal Trade Commission
 
-Pub. L. 96–252, §22, May 28, 1980, 94 Stat. 396, required the Consumer Subcommittee of the Committee on Commerce, Science, and Transportation of the Senate to conduct an oversight hearing with respect to the Federal Trade Commission at least once during the first 6 calendar months, and at least once during thelast 6 calendar months, of each of the fiscal years 1980, 1981, and 1982.
+Pub. L. 96–252, §22, May 28, 1980, 94 Stat. 396, required the Consumer Subcommittee of the Committee on Commerce, Science, and Transportation of the Senate to conduct an oversight hearing with respect to the Federal Trade Commission at least once during the first 6 calendar months, and at least once during the last 6 calendar months, of each of the fiscal years 1980, 1981, and 1982.
 
 #### Applicability of Unfair or Deceptive Acts or Practices Rulemaking Procedures to Rules Classifying Corporations Promulgated Prior to January 4, 1975
 

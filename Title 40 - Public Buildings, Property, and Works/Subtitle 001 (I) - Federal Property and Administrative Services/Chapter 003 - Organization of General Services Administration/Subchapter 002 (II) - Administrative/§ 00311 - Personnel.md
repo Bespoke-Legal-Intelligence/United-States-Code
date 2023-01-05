@@ -6,7 +6,7 @@ Appointment and Compensation.—The Administrator of General Services, subject t
 
 (b)
 
-Temporary Employment.—The Administrator may procure the temporary or intermittent services of experts or consultants under section 3109 of title 5 to the extent the Administrator finds necessary to carry out chapters 1, 3, and 5 of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
+Temporary Employment.—The Administrator may procure the temporary or intermittent services of experts or consultants under section 3109 of title 5 to the extent the Administrator finds necessary to carry out chapters 1, 3,and 5 of this title and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
 (c)
 
@@ -14,7 +14,7 @@ Personnel From Other Agencies.—Notwithstanding section 973 of title 10 or any 
 
 (d)
 
-Detail of Field Personnel to District of Columbia.—The Administrator, in the Administrator's discretion, may detail field personnel of the Administration to the District of Columbiafor temporary duty for a period of not more than 30 days in any one case. Subsistence or similar expenses may not be allowed for an employee on temporary duty in the District of Columbia under this paragraph.
+Detail of Field Personnel to District of Columbia.—The Administrator, in the Administrator's discretion, may detail field personnel of the Administration to the District of Columbia for temporary duty for a period of not more than 30 days in any one case. Subsistence or similar expenses may not be allowed for an employee on temporary duty in the District of Columbia under this paragraph.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1072; Pub. L. 111–350, §5(l)(5), Jan. 4, 2011, 124 Stat. 3851.)
 

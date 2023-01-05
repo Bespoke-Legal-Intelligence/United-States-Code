@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (2) Large group health plan
 
-&emsp;The term "large group health plan" means a plan of, or contributed to by, an employer or employee organization (including a self-insured plan) to provide health care (directly or otherwise) to the employees, former employees, the employer, others associated or formerly associated with the employer in a business relationship, or their families, that covers employees of at least one employer that normally employed at least 100 employees on a typical business day during the previous calendar year. For purposes of the preceding sentence—
+&emsp;The term "large group health plan" means a plan of, or contributed to by, an employer or employee organization (including a self-insured plan) to provide health care (directly or otherwise) to the employees, former employees, the employer, others associated or formerly associated with the employer in a business relationship, or their families, that covers employees of at least one employer thatnormally employed at least 100 employees on a typical business day during the previous calendar year. For purposes of the preceding sentence—
 
 &emsp;&emsp;(A) all employers treated as a single employer under subsection (a) or (b) of section 52 shall be treated as a single employer,
 
@@ -30,7 +30,7 @@ For purposes of this section, the term "nonconforming group health plan" means a
 
 For purposes of this section, the term "employer" does not include a Federal or other governmental entity.
 
-(Added Pub. L. 99–509, title IX, §9319(d)(1), Oct. 21, 1986, 100 Stat. 2012; amended Pub. L. 101–239,title VI, §6202(b)(2), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–66, title XIII, §13561(d)(2), (e)(2)(A), Aug. 10, 1993, 107 Stat. 594, 595.)
+(Added Pub. L. 99–509, title IX, §9319(d)(1), Oct. 21, 1986, 100 Stat. 2012; amended Pub. L. 101–239, title VI, §6202(b)(2), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–66, title XIII, §13561(d)(2), (e)(2)(A), Aug. 10, 1993, 107 Stat. 594, 595.)
 
 #### <b>Editorial Notes</b>
 

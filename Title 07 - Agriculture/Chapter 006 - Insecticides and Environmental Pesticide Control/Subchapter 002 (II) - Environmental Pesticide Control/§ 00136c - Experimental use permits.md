@@ -38,9 +38,9 @@ A prior section 5 of act June 25, 1947, was classified to section 135c of this t
 
 #### Amendments
 
-<b>2019</b>—Subsec. (a). Pub. L. 116–8 substituted "permit for a pesticide. An application for an experimental use permit for a covered application under section 136w–8(b) of this title shall conform with the requirements of that section." for "permit for a pesticide." and inserted "(or in the case of an application for an experimental use permit for a covered application under section 136w–8(b) of this title, not later than the last day of the applicable timeframe for such application specified in such section)" after "all required supporting data".
+<b>2019</b>—Subsec. (a). Pub. L. 116–8 substituted "permit for a pesticide. An application for an experimental usepermit for a covered application under section 136w–8(b) of this title shall conform with the requirements of that section." for "permit for a pesticide." and inserted "(or in the case of an application for an experimental use permit for a covered application under section 136w–8(b) of this title, not later than the last day of the applicable timeframe for such application specified in such section)" after "all required supporting data".
 
-<b>1991</b>—Subsecs. (b), (e), (f). Pub. L. 102–237 substituted "the Administrator" for "he" before "may" in subsec.\(b), before "finds" in subsec. (e), and before "may" in subsec. (f).
+<b>1991</b>—Subsecs. (b), (e), (f). Pub. L. 102–237 substituted "the Administrator" for "he" before "may" in subsec. (b), before "finds" in subsec. (e), and before "may" in subsec. (f).
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–532, §801(q)(1)(D), substituted "136i" for "136b".
 

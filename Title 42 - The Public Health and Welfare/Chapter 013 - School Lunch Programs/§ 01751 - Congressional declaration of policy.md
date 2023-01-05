@@ -20,6 +20,10 @@ Pub. L. 111–296, title IV, §445, Dec. 13, 2010, 124 Stat. 3266, provided that
 
 Pub. L. 101–147, §2, Nov. 10, 1989, 103 Stat. 878, provided that: "Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1989 Amendment note below\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1989\]."
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–158, §1, June 25, 2022, 136 Stat. 1309, provided that: "This Act \[amending section 2254c of Title 7, Agriculture, enacting provisions set out as notes under sections 1753, 1760, and 1766 of this title, and amending provisions set out as a note under section 1760 of this title\] may be cited as the 'Keep Kids Fed Act of 2022'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–127, div. B, title I, §2101, Mar. 18, 2020, 134 Stat. 184, provided that: "This title \[enacting provisions set out as a note under section 1760 of this title\] may be cited as the 'Maintaining Essential Access to Lunch for Students Act' or the 'MEALS Act'."
@@ -40,7 +44,7 @@ Pub. L. 105–336, §1(a), Oct. 31, 1998, 112 Stat. 3143, provided that: "This A
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–149, §1, May 29, 1996, 110 Stat. 1379, provided that: "This Act \[amending section 1758 of this title\] may be cited as the 'Healthy Meals for Children Act'."
+Pub. L. 104–149, §1, May 29, 1996, 110 Stat. 1379, provided that: "This Act \[amending section 1758 of thistitle\] may be cited as the 'Healthy Meals for Children Act'."
 
 #### Short Title of 1994 Amendment
 
@@ -58,7 +62,7 @@ Pub. L. 101–147, §1(a), Nov. 10, 1989, 103 Stat. 877, provided that: "This Ac
 
 Pub. L. 99–661, §4001(a), Nov. 14, 1986, 100 Stat. 4070, provided that: "This division \[div. D (§§4001–4503) of Pub. L. 99–661, amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and section 1431e of Title 7, Agriculture\] may be cited as the 'Child Nutrition Amendments of 1986'."
 
-Pub. L. 99–500, title III, §301(a), Oct. 18, 1986, 100 Stat. 1783–359, and Pub. L. 99–591, title III, §301(a), Oct. 30,1986, 100 Stat. 3341–362, provided that: "This title \[amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title and section 1929a of Title 7, Agriculture, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and sections 1431e and 1929a of Title 7\] may be cited as the 'School Lunch and Child Nutrition Amendments of 1986'."
+Pub. L. 99–500, title III, §301(a), Oct. 18, 1986, 100 Stat. 1783–359, and Pub. L. 99–591, title III, §301(a), Oct. 30, 1986, 100 Stat. 3341–362, provided that: "This title \[amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title and section 1929a of Title 7, Agriculture, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and sections 1431e and 1929a of Title 7\] may be cited as the 'School Lunch and Child Nutrition Amendments of 1986'."
 
 #### Short Title of 1978 Amendment
 
@@ -156,7 +160,7 @@ Unexpended balance.—On March 31, 2022, any amounts allocated to a State under 
 
 Limitation on use of funds.—Funds allocated to a State under paragraph (1)(A) may only be made available to a school food authority or new school food authority that—
 
-&emsp;&emsp;&emsp;"(i) submits a claim to such State for meals, supplements, or administrative costs with respectto a month occurring during the period beginning September 1, 2020 and ending December 31, 2020; or
+&emsp;&emsp;&emsp;"(i) submits a claim to such State for meals, supplements, or administrative costs with respect to a month occurring during the period beginning September 1, 2020 and ending December 31, 2020; or
 
 &emsp;&emsp;&emsp;"(ii) provides an assurance to such State that the school food authority or new school food authority will submit a claim to such State for meals, supplements, or administrative costs with respect to a month occurring during the first full semester (or equivalent term) after the conclusion of the public health emergency, as determined by such State.
 
@@ -252,7 +256,7 @@ Limitation on use of funds.—Funds allocated to a State under paragraph (1)(A) 
 
 &emsp;&emsp;&emsp;"(i) submits a claim to such State for meals, supplements, or administrative costs with respect to a month occurring during the period beginning September 1, 2020 and ending December 31, 2020; or
 
-&emsp;&emsp;&emsp;"(ii) provides an assurance to such State that the new covered institution, covered institution,new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home will submit a claim to such State for meals, supplements, or administrative costs with respect to a month occurring within 90 days after the conclusion of the public health emergency.
+&emsp;&emsp;&emsp;"(ii) provides an assurance to such State that the new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home will submit a claim to such State for meals, supplements, or administrative costs with respect to a month occurring within 90 days after the conclusion of the public health emergency.
 
 &emsp;"(6)
 
@@ -366,7 +370,7 @@ Indirect Cost Study.—The Secretary shall—
 
 "(c)
 
-Regulations.—After conducting the study under subsection (b)(1) and identifying costs under subsection\(b)(2), the Secretary may promulgate regulations to address—
+Regulations.—After conducting the study under subsection (b)(1) and identifying costs under subsection (b)(2), the Secretary may promulgate regulations to address—
 
 &emsp;"(1) any identified deficiencies in the allocation of indirect costs; and
 
@@ -434,7 +438,7 @@ Pub. L. 103–448, title III, §301, Nov. 2, 1994, 108 Stat. 4749, as amended by
 
 "(a)
 
-In General.—Notwithstanding any provision of \[the\] Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), except as otherwise provided in this section, the Secretary of Agriculture shall, not later than 18 months after the date of enactment of this Act \[Nov. 2, 1994\], develop and implement regulations to consolidate the school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) into a comprehensive meal program.
+In General.—Notwithstanding any provision of \[the\] Richard B. Russell National School Lunch Act (42U.S.C. 1751 et seq.) or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), except as otherwise provided in this section, the Secretary of Agriculture shall, not later than 18 months after the date of enactment of this Act \[Nov. 2, 1994\], develop and implement regulations to consolidate the school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) into a comprehensive meal program.
 
 "(b)
 

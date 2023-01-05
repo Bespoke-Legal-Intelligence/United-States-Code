@@ -30,7 +30,7 @@
 
 #### legislative statements
 
-The House amendment moves section 345(c) of the House bill to chapter 15 as part of the pilot program for the U.S. trustees. The bond required by section 345(b)may be a blanket bond posted by the financial depository sufficient to cover deposits by trustees in several cases, as is done under current law.
+The House amendment moves section 345(c) of the House bill to chapter 15 as part of the pilot program for the U.S. trustees. The bond required by section 345(b) may be a blanket bond posted by the financial depository sufficient to cover deposits by trustees in several cases, as is done under current law.
 
 #### senate report no. 95–989
 

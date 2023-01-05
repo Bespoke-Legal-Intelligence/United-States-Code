@@ -184,7 +184,7 @@ Pub. L. 109–163, div. A, title VI, §685(a), Jan. 6, 2006, 119 Stat. 3325, as 
 
 "(1)
 
-Equal treatment.—The rate of basic pay for an enlisted member in the grade E–9 while serving as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff or as Senior Enlisted Advisor to the Chief of the National Guard Bureau shall be the same as the rate of basic pay for an enlisted member in that grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard, regardless of cumulative years of service computed under section 205 of title 37, United States Code.
+Equal treatment.—The rate of basic pay for an enlisted member in the grade E–⁠9 while serving as Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff or as Senior Enlisted Advisor to the Chief of the National Guard Bureau shall be the same as the rate of basic pay for an enlisted member in that grade while serving as Sergeant Major of the Army, Master Chief Petty Officer of the Navy, Chief Master Sergeant of the Air Force, Sergeant Major of the Marine Corps, or Master Chief Petty Officer of the Coast Guard, regardless of cumulative years of service computed under section 205 of title 37, United States Code.
 
 "(2)
 

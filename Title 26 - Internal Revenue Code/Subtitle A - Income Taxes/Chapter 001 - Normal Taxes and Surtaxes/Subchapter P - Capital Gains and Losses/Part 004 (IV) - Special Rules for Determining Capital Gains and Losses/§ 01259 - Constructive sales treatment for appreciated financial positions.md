@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (1) Forward contract
 
-&emsp;The term "forward contract" means a contract to deliver a substantially fixed amountof property (including cash) for a substantially fixed price.
+&emsp;The term "forward contract" means a contract to deliver a substantially fixed amount of property (including cash) for a substantially fixed price.
 
 #### (2) Offsetting notional principal contract
 

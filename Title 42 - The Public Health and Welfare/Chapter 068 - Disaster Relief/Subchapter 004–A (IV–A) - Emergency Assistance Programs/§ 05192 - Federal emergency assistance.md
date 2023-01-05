@@ -24,13 +24,13 @@ In any emergency, the President may—
 
 &emsp;(5) remove debris in accordance with the terms and conditions of section 5173 of this title;
 
-&emsp;(6) provide assistance in accordance with section 5174 of this title;
+&emsp;(6) provide assistance in accordance with section 5174 of this title and section 5183 of this title;
 
 &emsp;(7) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance; and
 
 &emsp;(8) provide accelerated Federal assistance and Federal support where necessary to save lives, prevent human suffering, or mitigate severe damage, which may be provided in the absence of a specific request and in which case the President—
 
-&emsp;&emsp;(A) shall, to the fullest extent practicable, promptly notify and coordinate with a State in which such assistance or support is provided; and
+&emsp;&emsp;(A) shall, to the fullest extent practicable, promptly notify and coordinate with a Statein which such assistance or support is provided; and
 
 &emsp;&emsp;(B) shall not, in notifying and coordinating with a State under subparagraph (A), delay or impede the rapid deployment, use, and distribution of critical resources to victims of an emergency.
 
@@ -42,11 +42,13 @@ Whenever the Federal assistance provided under subsection (a) with respect to an
 
 The President shall promulgate and maintain guidelines to assist Governors in requesting the declaration of an emergency in advance of a natural or man-made disaster (including for the purpose of seeking assistance with special needs and other evacuation efforts) under this section by defining the types of assistance available to affected States and the circumstances under which such requests are likely to be approved.
 
-(Pub. L. 93–288, title V, §502, as added Pub. L. 100–707, title I, §107(a), Nov. 23, 1988, 102 Stat. 4706; amended Pub. L. 106–390, title II, §206(b), Oct. 30, 2000, 114 Stat. 1570; Pub. L. 109–295, title VI, §681(b), Oct. 4, 2006, 120 Stat. 1444.)
+(Pub. L. 93–288, title V, §502, as added Pub. L. 100–707, title I, §107(a), Nov. 23, 1988, 102 Stat. 4706; amended Pub. L. 106–390, title II, §206(b), Oct. 30, 2000, 114 Stat. 1570; Pub. L. 109–295, title VI, §681(b), Oct. 4, 2006, 120 Stat. 1444; Pub. L. 117–263, div. G, title LXXIII, §7321(a), Dec. 23, 2022, 136 Stat. 3691.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(6). Pub. L. 117–263 inserted "and section 5183 of this title" after "section 5174 of this title".
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–295, §681(b)(1)(A), inserted ", including precautionary evacuations" before semicolon at end.
 
@@ -59,6 +61,10 @@ Subsec. (c). Pub. L. 109–295, §681(b)(3), added subsec. (c).
 <b>2000</b>—Subsec. (a)(6). Pub. L. 106–390 struck out "temporary housing" after "provide".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–263, div. G, title LXXIII, §7321(b), Dec. 23, 2022, 136 Stat. 3691, provided that: "The amendment made by subsection (a) \[amending this section\] shall only apply to amounts appropriated on or after the date of enactment of this Act \[Dec. 23, 2022\]."
 
 #### Effective Date of 2000 Amendment
 

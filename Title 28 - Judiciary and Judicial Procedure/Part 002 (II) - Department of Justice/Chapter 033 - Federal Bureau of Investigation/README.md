@@ -15,12 +15,15 @@
 | [540A.](%C2%A7%2000540A%20-%20Investigation%20of%20violent%20crimes%20against%20travelers.md) | Investigation of violent crimes against travelers. |
 | [540B.](%C2%A7%2000540B%20-%20Investigation%20of%20serial%20killings.md) | Investigation of serial killings. |
 | [540C.](%C2%A7%2000540C%20-%20FBI%20police.md) | FBI police. |
+| [540D.](%C2%A7%2000540D%20-%20Multidisciplinary%20teams.md) | Multidisciplinary teams. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 117–354, §2(b), Jan. 5, 2023, 136 Stat. 6274, added item 540D.
 
 <b>2003</b>—Pub. L. 108–177, title III, §361(m)(2), Dec. 13, 2003, 117 Stat. 2626, which directed amendment of table of sections by striking the item relating to section 540C, was executed by striking out item 540C relating to annual report on activities of Federal Bureau of Investigation personnel outside the United States to reflect the probable intent of Congress, because corresponding section was repealed.
 
@@ -40,7 +43,7 @@ Pub. L. 103–272, §4(e)(2), July 5, 1994, 108 Stat. 1361, added item 538.
 
 <b>1982</b>—Pub. L. 97–292, §3(b), Oct. 12, 1982, 96 Stat. 1260, inserted "and information" after "identification records" in item 534.
 
-<b>1966</b>—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616, substituted "FEDERAL BUREAU OF INVESTIGATION" for "UNITED STATES MARSHALS" in chapter heading, added items 531 to 537, and struck out items 541 to 556.
+<b>1966</b>—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616, substituted "FEDERAL BUREAU OF INVESTIGATION" for "UNITED STATES MARSHALS" in chapterheading, added items 531 to 537, and struck out items 541 to 556.
 
 
 ---
@@ -60,3 +63,4 @@ Pub. L. 103–272, §4(e)(2), July 5, 1994, 108 Stat. 1361, added item 538.
 - [&sect; 00540A - Investigation of violent crimes against travelers](%C2%A7%2000540A%20-%20Investigation%20of%20violent%20crimes%20against%20travelers.md)
 - [&sect; 00540B - Investigation of serial killings](%C2%A7%2000540B%20-%20Investigation%20of%20serial%20killings.md)
 - [&sect; 00540C - FBI police](%C2%A7%2000540C%20-%20FBI%20police.md)
+- [&sect; 00540D - Multidisciplinary teams](%C2%A7%2000540D%20-%20Multidisciplinary%20teams.md)

@@ -36,7 +36,7 @@ Par. (7). Pub. L. 110–246, §3007(2)(B)–(4), added par. (7).
 
 <b>1985</b>—Subsec. (b). Pub. L. 99–198, §1102, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The minimum quantity of agricultural commodities distributed under this subchapter—
 
-&emsp;"(1) for fiscal years 1978 through 1980 shall be 1,600,000 metric tons, of which not less than 1,300,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program;
+&emsp;"(1) for fiscal years 1978 through 1980 shall be 1,600,000 metric tons, of which not less than 1,300,000metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program;
 
 &emsp;"(2) for fiscal year 1981 shall be 1,650,000 metric tons, of which not less than 1,350,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program; and
 
@@ -100,7 +100,7 @@ In General.—In providing nonemergency assistance under title II of the Food fo
 
 Other Requirements.—In providing assistance under the Food for Peace Act \[7 U.S.C. 1691 et seq.\], the Secretary of Agriculture and the Administrator of United States Agency for International Development shall ensure that commodities are provided in a manner that is consistent with sections 403(a) and (b) of such Act (7 U.S.C. 1733(a) and (b))."
 
-\[Section 3001(b)(1)(A), (2)(D) of Pub. L. 110–246, which directed amendment of section 201 of Pub. L. 105–385, set out above, by substituting "Food for Peace Act" for"Agricultural Trade Development and Assistance Act of 1954", was executed in subsec. (b) by making the substitution for "Agriculture Trade Development and Assistance Act of 1954", to reflect the probable intent of Congress.\]
+\[Section 3001(b)(1)(A), (2)(D) of Pub. L. 110–246, which directed amendment of section 201 of Pub. L. 105–385, set out above, by substituting "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954", was executed in subsec. (b) by making the substitution for "Agriculture Trade Development and Assistance Act of 1954", to reflect the probable intent of Congress.\]
 
 #### Authorization for Commodity Credit Corporation To Purchase and Donate Flour and Cornmeal
 

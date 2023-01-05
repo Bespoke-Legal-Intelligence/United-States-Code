@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The United States shall cooperate directly or through appropriate international organizationswith those nations involved in fisheries for highly migratory species with a view to ensuring conservation and shall promote the achievement of optimum yield of such species throughout their range, both within and beyond the exclusive economic zone.
+The United States shall cooperate directly or through appropriate international organizations with those nations involved in fisheries for highly migratory species with a view to ensuring conservation and shall promote the achievement of optimum yield of such species throughout their range, both within and beyond the exclusive economic zone.
 
 #### (b) Traditional participation
 
@@ -18,7 +18,7 @@ If a relevant international fisheries organization does not have a process for d
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 

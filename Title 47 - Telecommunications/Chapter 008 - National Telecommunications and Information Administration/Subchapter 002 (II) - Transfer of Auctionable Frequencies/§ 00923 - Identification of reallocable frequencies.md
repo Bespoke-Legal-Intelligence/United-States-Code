@@ -26,7 +26,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 &emsp;&emsp;(A) the bands of frequencies counted under this paragraph may not count toward more than one-half of the minimums required by paragraph (1) or (3) of this subsection;
 
-&emsp;&emsp;(B) a band of frequencies may not be counted under this paragraph unless the assignments of the band to Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305) are limited by geographic area, by time, or by other means so as to guarantee that the potential use to be made by such Federal Government stations is substantially less (as measured by geographic area, time, or otherwise) than the potential use to be made by non-Federal stations; and
+&emsp;&emsp;(B) a band of frequencies may not be counted under this paragraph unless the assignments of the band to Federal Government stations under section 305 of the 1934 Act (47 U.S.C. 305) are limited by geographic area, by time, or by other means so as to guarantee that the potential use to be made by such Federal Government stations is substantially less (as measured by geographicarea, time, or otherwise) than the potential use to be made by non-Federal stations; and
 
 &emsp;&emsp;(C) the operational sharing permitted under this paragraph shall be subject to the interference regulations prescribed by the Commission pursuant to section 305(a) of the 1934 Act \[47 U.S.C. 305(a)\] and to coordination procedures that the Commission and the Secretary shall jointly establish and implement to ensure against harmful interference.
 
@@ -116,7 +116,7 @@ The Secretary shall, within 18 months after August 10, 1993, and within 6 months
 
 #### (2) Public comment
 
-&emsp;The Secretary shall provide interested persons with the opportunity to submit, within 90 days after the date of its publication, written comment on the preliminary report required by paragraph (1). The Secretary shall immediately transmit a copy of any such comment to the Commission.
+&emsp;The Secretary shall provide interested persons with the opportunity to submit, within 90days after the date of its publication, written comment on the preliminary report required by paragraph (1). The Secretary shall immediately transmit a copy of any such comment to the Commission.
 
 #### (3) Comment and recommendations from Commission
 
@@ -162,7 +162,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (1) Eligible Federal entities
 
-&emsp;Any Federal entity that operates a Federal Government station that incurs relocation or sharing costs because of planning for an auction of eligible spectrum frequencies or the reallocation of eligible spectrum frequencies from Federal use to exclusive non-Federal use or to shared use shall receive payment for such relocation or sharing costs from the Spectrum Relocation Fund, in accordance with this section and section 928 of this title. For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) thatchoose to relocate from the frequencies identified for reallocation pursuant to subsection (a) are eligible to receive payment under this paragraph.
+&emsp;Any Federal entity that operates a Federal Government station that incurs relocation or sharing costs because of planning for an auction of eligible spectrum frequencies or the reallocation of eligible spectrum frequencies from Federal use to exclusive non-Federal use or to shared use shall receive payment for such relocation or sharing costs from the Spectrum Relocation Fund, in accordance with this section and section 928 of this title. For purposes of this paragraph, Federal power agencies exempted under subsection (c)(4) that choose to relocate from the frequencies identified for reallocation pursuant to subsection (a) are eligible to receive payment under this paragraph.
 
 #### (2) Eligible frequencies
 
@@ -176,7 +176,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section and section 928 of this title, the term "relocation or sharing costs" means the costs incurred by a Federal entity in connection with the auction of spectrum frequencies or the sharing of spectrum frequencies (including the auction or a planned auction of the rights to use spectrum frequencies on a shared basis with such entity) in order to achieve comparable capability of systems as before the relocation or sharing arrangement. Such term includes, with respect to relocation or sharing, as the case may be—
+&emsp;&emsp;For purposes of this section and section 928 of this title, the term "relocation or sharingcosts" means the costs incurred by a Federal entity in connection with the auction of spectrum frequencies or the sharing of spectrum frequencies (including the auction or a planned auction of the rights to use spectrum frequencies on a shared basis with such entity) in order to achieve comparable capability of systems as before the relocation or sharing arrangement. Such term includes, with respect to relocation or sharing, as the case may be—
 
 &emsp;&emsp;&emsp;(i) the costs of any modification or replacement of equipment, spares, associated ancillary equipment, software, facilities, operating manuals, training, or compliance with regulations that are attributable to relocation or sharing;
 
@@ -220,7 +220,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (6) Implementation of procedures
 
-&emsp;The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities' spectrum-related operations from frequencies described in paragraph (2) to frequencies or facilities of comparable capability and to ensure the timely implementation of arrangements for the sharing of frequencies described in such paragraph. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems, the NTIA shall terminate or limit the entity's authorization and notify the Commission that the entity's relocation has been completed or sharing arrangement has been implemented. The NTIA shall also terminate such entity's authorization if the NTIA determines that the entity has unreasonably failed to comply with the timeline for relocation or sharing submitted by the Director of the Office of Management and Budget under section 928(d)(2)(C) of this title.
+&emsp;The NTIA shall take such actions as necessary to ensure the timely relocation of Federal entities' spectrum-related operations from frequencies described in paragraph (2) tofrequencies or facilities of comparable capability and to ensure the timely implementation of arrangements for the sharing of frequencies described in such paragraph. Upon a finding by the NTIA that a Federal entity has achieved comparable capability of systems, the NTIA shall terminate or limit the entity's authorization and notify the Commission that the entity's relocation has been completed or sharing arrangement has been implemented. The NTIA shall also terminate such entity's authorization if the NTIA determines that the entity has unreasonably failed to comply with the timeline for relocation or sharing submitted by the Director of the Office of Management and Budget under section 928(d)(2)(C) of this title.
 
 #### (h) Development and publication of relocation or sharing transition plans
 
@@ -288,7 +288,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (v) Vacancies
 
-&emsp;&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for theremainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy shall be filled in the manner in which the original appointment was made.
+&emsp;&emsp;&emsp;Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office. A vacancy shall be filled in the manner in which the original appointment was made.
 
 #### (vi) No compensation
 
@@ -300,11 +300,11 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (D) Regulations
 
-&emsp;&emsp;Not later than 180 days after February 22, 2012, the NTIA shall, after public notice and comment and subject to approval by the Director of OMB, adopt regulations to govern the workings of the Technical Panel.
+&emsp;&emsp;Not later than 180 days after February 22, 2012, the NTIA shall, after public notice andcomment and subject to approval by the Director of OMB, adopt regulations to govern the workings of the Technical Panel.
 
 #### (E) Certain requirements inapplicable
 
-&emsp;&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) and sections 552 and 552b of title 5 shall not apply to the Technical Panel.
+&emsp;&emsp;Chapter 10 of title 5 and sections 552 and 552b of title 5 shall not apply to the Technical Panel.
 
 #### (4) Review of plan by Technical Panel
 
@@ -374,7 +374,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (E) No compensation
 
-&emsp;&emsp;The members of the dispute resolution board shall not receive any compensation forservice on the board. If any such member is an employee of the agency of the official that appointed such member to the board, compensation in the member's capacity as such an employee shall not be considered compensation under this subparagraph.
+&emsp;&emsp;The members of the dispute resolution board shall not receive any compensation for service on the board. If any such member is an employee of the agency of the official that appointed such member to the board, compensation in the member's capacity as such an employee shall not be considered compensation under this subparagraph.
 
 #### (F) Termination of board
 
@@ -406,7 +406,7 @@ If the Secretary receives a notice from the Commission pursuant to section 3002(
 
 #### (9) Certain requirements inapplicable
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) and sections 552 and 552b of title 5 shall not apply to a dispute resolution board established under paragraph (2)(A).
+&emsp;Chapter 10 of title 5 and sections 552 and 552b of title 5 shall not apply to a dispute resolution board established under paragraph (2)(A).
 
 #### (j) Relocation prioritized over sharing
 
@@ -426,7 +426,7 @@ Any Federal Government station which operates on electromagnetic spectrum that h
 
 For purposes of this section, the term "Federal entity" means any department, agency, or other instrumentality of the Federal Government that utilizes a Government station license obtained under section 305 of the 1934 Act (47 U.S.C. 305).
 
-(Pub. L. 102–538, title I, §113, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380; amended Pub. L. 105–33, title III, §3002(d)(1), (e)(1)–(3), Aug. 5, 1997, 111 Stat. 262, 264, 265; Pub. L. 105–261, div. A, title X, §1064(c), Oct. 17, 1998, 112 Stat. 2132; Pub. L. 106–65, div. A, title X, §1062(c)(2), Oct. 5, 1999, 113 Stat. 768; Pub. L. 108–494, title II, §202, Dec. 23, 2004, 118 Stat. 3991; Pub. L. 112–96, title VI, §6701(a), Feb. 22, 2012, 126 Stat. 245; Pub. L. 114–74, title X, §1005(b), (c), Nov. 2, 2015, 129 Stat. 623, 624.)
+(Pub. L. 102–538, title I, §113, as added Pub. L. 103–66, title VI, §6001(a)(3), Aug. 10, 1993, 107 Stat. 380; amended Pub. L. 105–33, title III, §3002(d)(1), (e)(1)–(3), Aug. 5, 1997, 111 Stat. 262, 264, 265; Pub. L. 105–261, div. A, title X, §1064(c), Oct. 17, 1998, 112 Stat. 2132; Pub. L. 106–65, div. A, title X, §1062(c)(2), Oct. 5, 1999, 113 Stat. 768; Pub. L. 108–494, title II, §202, Dec. 23, 2004, 118 Stat. 3991; Pub. L. 112–96, title VI, §6701(a), Feb. 22, 2012, 126 Stat. 245; Pub. L. 114–74, title X, §1005(b), (c), Nov. 2, 2015, 129 Stat. 623, 624; Pub. L. 117–286, §4(a)(299), Dec. 27, 2022, 136 Stat. 4338.)
 
 #### <b>Editorial Notes</b>
 
@@ -436,11 +436,13 @@ For definition of the 1934 Act, referred to in subsecs. (a)(3), (5), (b)(2), and
 
 Section 3002(c)(5) of the Balanced Budget Act of 1997, referred to in subsec. (f), is section 3002(c)(5) of Pub. L. 105–33, which is set out as a note under section 925 of this title.
 
-The Federal Advisory Committee Act, referred to in subsecs. (h)(3)(E) and (i)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
 
-<b>2015</b>—Subsec. (g)(1). Pub. L. 114–74, §1005(c)(1)(A), struck out "authorized to use a band of eligible frequencies described in paragraph (2) and" after "FederalGovernment station" and inserted "eligible" after "auction of" and after "reallocation of".
+<b>2022</b>—Subsec. (h)(3)(E). Pub. L. 117–286, §4(a)(299)(A), substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)".
+
+Subsec. (i)(9). Pub. L. 117–286, §4(a)(299)(B), substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)".
+
+<b>2015</b>—Subsec. (g)(1). Pub. L. 114–74, §1005(c)(1)(A), struck out "authorized to use a band of eligible frequencies described in paragraph (2) and" after "Federal Government station" and inserted "eligible" after "auction of" and after "reallocation of".
 
 Subsec. (g)(3)(A). Pub. L. 114–74, §1005(c)(1)(B), substituted "or the sharing of spectrum frequencies" for "previously assigned to such entity or the sharing of spectrum frequencies assigned to such entity".
 

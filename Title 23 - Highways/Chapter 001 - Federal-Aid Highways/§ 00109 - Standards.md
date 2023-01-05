@@ -72,7 +72,7 @@ Temporary traffic control devices.—No funds shall be approved for expenditure 
 
 (g) Not later than January 30, 1971, the Secretary shall issue guidelines for minimizing possible soil erosion from highway construction. Such guidelines shall apply to all proposed projects with respect to which plans, specifications, and estimates are approved by the Secretary after the issuance of such guidelines.
 
-(h) Not later than July 1, 1972, the Secretary, after consultation with appropriate Federal and State officials, shall submit to Congress, and not later than 90 days after such submission, promulgate guidelines designed to assure that possible adverse economic, social, and environmental effects relating to any proposed project on any Federal-aid system have been fully considered in developing such project, and that the final decisions on the project are made in the best overall public interest, taking into consideration the need for fast, safe and efficient transportation, public services, and the costs ofeliminating or minimizing such adverse effects and the following:
+(h) Not later than July 1, 1972, the Secretary, after consultation with appropriate Federal and State officials, shall submit to Congress, and not later than 90 days after such submission,promulgate guidelines designed to assure that possible adverse economic, social, and environmental effects relating to any proposed project on any Federal-aid system have been fully considered in developing such project, and that the final decisions on the project are made in the best overall public interest, taking into consideration the need for fast, safe and efficient transportation, public services, and the costs of eliminating or minimizing such adverse effects and the following:
 
 &emsp;(1) air, noise, and water pollution;
 
@@ -126,7 +126,7 @@ In general.—Projects (other than highway projects on the National Highway Syst
 
 &emsp;(B) <sup>1</sup>
 
-Local jurisdictions.—Notwithstanding subparagraph (A), a local jurisdiction may usea roadway design guide recognized by the Federal Highway Administration and adopted by the local jurisdiction that is different from the roadway design guide used by the State in which the local jurisdiction is located for the design of projects on all roadways under the ownership of the local jurisdiction (other than a highway on the National Highway System) for which the local jurisdiction is the project sponsor, provided that the design complies with all other applicable Federal laws.
+Local jurisdictions.—Notwithstanding subparagraph (A), a local jurisdiction may use a roadway design guide recognized by the Federal Highway Administration and adopted by the local jurisdiction that is different from the roadway design guide used by the State in which the local jurisdiction is located for the design of projects on all roadways under the ownership of the local jurisdiction (other than a highway on the National Highway System) for which the local jurisdiction is the project sponsor, provided that the design complies with all other applicable Federal laws.
 
 (p)
 
@@ -204,11 +204,11 @@ Subsec. (g). Pub. L. 109–59, §1110(c), substituted "Not later than January 30
 
 Subsec. (d). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted "State transportation department" for "State highway department".
 
-Subsec. (m). Pub. L. 105–178, §1306(a), redesignated subsec. (n) as (m) and struck out former subsec. (m) which read as follows: "The Secretary shall issue guidelines describing the criteria applicable to the Interstate System in order to insure that the condition of these routes is maintained at the level required by the purposes for which they were designed. The initial guidelines shall be issued no later than October 1, 1979."
+Subsec. (m). Pub. L. 105–178, §1306(a), redesignated subsec. (n) as (m) and struck out former subsec. (m)which read as follows: "The Secretary shall issue guidelines describing the criteria applicable to the Interstate System in order to insure that the condition of these routes is maintained at the level required by the purposes for which they were designed. The initial guidelines shall be issued no later than October 1, 1979."
 
 Subsec. (n). Pub. L. 105–178, §1306(a)(2), redesignated subsec. (o) as (n). Former subsec. (n) redesignated (m).
 
-Pub. L. 105–178, §1202(c), inserted heading and amended text of subsec. (n) generally. Prior to amendment,text read as follows: "The Secretary shall not approve any project under this title that will result in the severance or destruction of an existing major route for nonmotorized transportation traffic and light motorcycles, unless such project provides a reasonably alternate route or such a route exists."
+Pub. L. 105–178, §1202(c), inserted heading and amended text of subsec. (n) generally. Prior to amendment, text read as follows: "The Secretary shall not approve any project under this title that will result in the severance or destruction of an existing major route for nonmotorized transportation traffic and light motorcycles, unless such project provides a reasonably alternate route or such a route exists."
 
 Subsecs. (o) to (q). Pub. L. 105–178, §1306(a)(2), (b), added subsec. (q) and redesignated former subsecs. (p) and (q) as (o) and (p), respectively. Former subsec. (o) redesignated (n).
 
@@ -390,7 +390,7 @@ Pub. L. 114–94, div. A, title I, §1432, Dec. 4, 2015, 129 Stat. 1429, provide
 
 "(a)
 
-In General.—Any road, highway, railway, bridge, or transit facility that is damaged by an emergency that is declared by the Governor of the State, with the concurrence of the Secretary of Homeland Security, or declared as an emergency by the President pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), and that is in operation or under construction on the date on which the emergency occurs may be reconstructed in the same location with the same capacity, dimensions, and design as before the emergency subject to the exemptions and expedited procedures under subsection (b).
+In General.—Any road, highway, railway, bridge, or transit facility that is damaged by an emergency that is declared by the Governor of the State, with the concurrence of the Secretary of Homeland Security, or declared as an emergency by the President pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), and that is in operation or under construction on the dateon which the emergency occurs may be reconstructed in the same location with the same capacity, dimensions, and design as before the emergency subject to the exemptions and expedited procedures under subsection (b).
 
 "(b)
 
@@ -398,7 +398,7 @@ Exemptions and Expedited Procedures.—
 
 &emsp;"(1)
 
-Alternative arrangements.—Alternative arrangements for an emergency under section 1506.11 of title 40, Code of Federal Regulations (as in effect onthe date of enactment of this Act \[Dec. 4, 2015\]) shall apply to reconstruction under subsection (a), and the reconstruction shall be considered necessary to control the immediate impacts of the emergency.
+Alternative arrangements.—Alternative arrangements for an emergency under section 1506.11 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Dec. 4, 2015\]) shall apply to reconstruction under subsection (a), and the reconstruction shall be considered necessary to control the immediate impacts of the emergency.
 
 &emsp;"(2)
 
@@ -484,11 +484,11 @@ In General.—The Secretary \[of Transportation\] shall—
 
 "(b)
 
-Definition of an Operational Right-of-way.—In this section, the term 'operational right-of-way' means all real property interests acquired for the construction, operation, or mitigation of a project (as defined in section 101(a) of title 23, United States Code), including the locations of the roadway, bridges, interchanges, culverts, drainage, clear zone, traffic control signage, landscaping, and any rest areas with direct access to a controlled access highway."
+Definition of an Operational Right-of-way.—In this section, the term 'operational right-of-way' means all real property interests acquired for the construction, operation, or mitigation of a project (as defined in section 101(a) of title 23, United States Code),including the locations of the roadway, bridges, interchanges, culverts, drainage, clear zone, traffic control signage, landscaping, and any rest areas with direct access to a controlled access highway."
 
 #### Categorical Exclusion for Projects of Limited Federal Assistance
 
-Pub. L. 112–141, div. A, title I, §1317, July 6, 2012, 126 Stat. 550, as amended by Pub. L. 114–94, div. A, title I,§1314(a), Dec. 4, 2015, 129 Stat. 1402; Pub. L. 117–58, div. A, title I, §11317, Nov. 15, 2021, 135 Stat. 543, provided that: "Not later than 180 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall—
+Pub. L. 112–141, div. A, title I, §1317, July 6, 2012, 126 Stat. 550, as amended by Pub. L. 114–94, div. A, title I, §1314(a), Dec. 4, 2015, 129 Stat. 1402; Pub. L. 117–58, div. A, title I, §11317, Nov. 15, 2021, 135 Stat. 543, provided that: "Not later than 180 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall—
 
 &emsp;"(1) designate as an action categorically excluded from the requirements relating to environmental assessments or environmental impact statements under section 1508.4 of title 40, Code of Federal Regulations, and section 771.117(c) of title 23, Code of Federal Regulations, any project—
 
@@ -588,7 +588,7 @@ Pub. L. 105–178, title I, §1213(b), June 9, 1998, 112 Stat. 200, provided tha
 
 "(1)
 
-Study.—The Comptroller General of the United States shall conduct a study on the internationalroughness index that is used as an indicator of pavement quality on the Federal-aid highway system.
+Study.—The Comptroller General of the United States shall conduct a study on the international roughness index that is used as an indicator of pavement quality on the Federal-aid highway system.
 
 "(2)
 
@@ -702,7 +702,7 @@ Pub. L. 102–240, title I, §1038, Dec. 18, 1991, 105 Stat. 1987, as amended by
 
 "(a)
 
-Asphalt Pavement Containing Recycled Rubber Demonstration Program.—Notwithstanding any other provision of title 23, United States Code, or regulation or policy of the Department of Transportation, the Secretary (or a State acting as the Department's agent) may not disapprove a highway project under chapter 1 of title 23, United States Code, on the ground that the project includes the use of asphalt pavement containing recycled rubber. Under this subsection, apatented application process for recycled rubber shall be eligible for approval under the same conditions that an unpatented process is eligible for approval.
+Asphalt Pavement Containing Recycled Rubber Demonstration Program.—Notwithstanding any other provision of title 23, United States Code, or regulation or policy of the Department of Transportation, the Secretary (or a State acting as the Department's agent) may not disapprove a highway project under chapter 1 of title 23, United States Code, on the ground that the project includes the use of asphalt pavement containing recycled rubber. Under this subsection, a patented application process for recycled rubber shall be eligible for approval under the same conditions that an unpatented process is eligible for approval.
 
 "(b)
 

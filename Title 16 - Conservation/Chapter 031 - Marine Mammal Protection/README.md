@@ -35,6 +35,10 @@
 | [1387\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001387%20-%20Taking%20of%20marine%20mammals%20incidental%20to%20commercial%20fishing%20operations.md) | Taking of marine mammals incidental to commercial fishing operations. |
 | [1388\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001388%20-%20Marine%20mammal%20cooperative%20agreements%20in%20Alaska.md) | Marine mammal cooperative agreements in Alaska. |
 | [1389\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001389%20-%20Pacific%20Coast%20Task%20Force%3B%20Gulf%20of%20Maine.md) | Pacific Coast Task Force; Gulf of Maine. |
+| [1390\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001390%20-%20Assistance%20to%20ports%20to%20reduce%20impacts%20of%20vessel%20traffic%20and%20port%20operations%20on%20marine%20mammals.md) | Assistance to ports to reduce impacts of vessel traffic and port operations on marine mammals. |
+| [1391\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001391%20-%20Near%20real-time%20monitoring%20and%20mitigation%20program%20for%20large%20cetaceans.md) | Near real-time monitoring and mitigation program for large cetaceans. |
+| [1392\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001392%20-%20Monitoring%20ocean%20soundscapes.md) | Monitoring ocean soundscapes. |
+| [1393\.](Subchapter%20002%20%28II%29%20-%20Conservation%20and%20Protection%20of%20Marine%20Mammals/%C2%A7%2001393%20-%20Conservation%20and%20mitigation%20assistance.md) | Conservation and mitigation assistance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -74,12 +78,14 @@
 | :--- | ---: |
 | [1421\.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421%20-%20Establishment%20of%20Program.md) | Establishment of Program. |
 | [1421a.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421a%20-%20Determination%3B%20data%20collection%20and%20dissemination.md) | Determination; data collection and dissemination. |
-| [1421b.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421b%20-%20Stranding%20response%20agreements.md) | Stranding response agreements. |
+| [1421b.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421b%20-%20Stranding%20or%20entanglement%20response%20agreements.md) | Stranding or entanglement response agreements. |
 | [1421c.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421c%20-%20Unusual%20mortality%20event%20response.md) | Unusual mortality event response. |
 | [1421d.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421d%20-%20Unusual%20mortality%20event%20activity%20funding.md) | Unusual mortality event activity funding. |
 | [1421e.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421e%20-%20Liability.md) | Liability. |
 | [1421f.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421f%20-%20National%20Marine%20Mammal%20Tissue%20Bank%20and%20tissue%20analysis.md) | National Marine Mammal Tissue Bank and tissue analysis. |
-| 1421f–1. | John H. Prescott Marine Mammal Rescue Assistance Grant Program. |
+| 1421f–1. | Marine Mammal Rescue and Response Grant Program and Rapid Response Fund. |
+| 1421f–2. | Marine Mammal Health Monitoring and Analysis Platform (Health MAP). |
+| 1421f–3. | Reports to Congress. |
 | [1421g.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1421h.](Subchapter%20005%20%28V%29%20-%20Marine%20Mammal%20Health%20and%20Stranding%20Response/%C2%A7%2001421h%20-%20Definitions.md) | Definitions. |
 

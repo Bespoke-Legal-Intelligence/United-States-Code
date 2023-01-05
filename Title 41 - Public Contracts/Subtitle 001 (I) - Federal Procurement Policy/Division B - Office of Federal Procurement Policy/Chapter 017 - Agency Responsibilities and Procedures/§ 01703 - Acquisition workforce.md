@@ -192,7 +192,7 @@ Shortage category positions.—For purposes of sections 3304, 5333, and 5753 of 
 
 &emsp;(2)
 
-Termination of authority.—The head of a department or agency may not appoint anindividual to a position of employment under this subsection after September 30, 2017.
+Termination of authority.—The head of a department or agency may not appoint an individual to a position of employment under this subsection after September 30, 2017.
 
 (k)
 
@@ -336,7 +336,7 @@ Subsec. (j)(2). Pub. L. 112–239, §1103, substituted "September 30, 2017" for 
 
 Subsec. (i)(2). Pub. L. 112–81, §864(d)(1), substituted "to support the activities set forth in section 1201(a) of this title" for "to support the training of the acquisition workforce of the executive agencies".
 
-Subsec. (i)(6). Pub. L. 112–81, §864(d)(2), as amended by Pub. L. 112–239, §1076(a)(15), substituted "ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title." for "ensure that amounts collected under this subsection are not used for a purposeother than the purpose specified in subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title."
+Subsec. (i)(6). Pub. L. 112–81, §864(d)(2), as amended by Pub. L. 112–239, §1076(a)(15), substituted "ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title." for "ensure that amounts collected under this subsection are not used for a purpose other than the purpose specified in subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title."
 
 Pub. L. 112–74 struck out "for training" after "amounts collected" and substituted "subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title" for "paragraph (2)".
 
@@ -352,13 +352,205 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(15) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
+#### Artificial Intelligence Training for the Acquisition Workforce
+
+Pub. L. 117–207, Oct. 17, 2022, 136 Stat. 2238, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Artificial Intelligence Training for the Acquisition Workforce Act' or the 'AI Training Act'.
+
+#### "SEC. 2. ARTIFICIAL INTELLIGENCE TRAINING PROGRAMS.
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+AI.—The term 'AI' has the meaning given the term 'artificial intelligence' in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 \[Pub. L. 115–232\] (10 U.S.C. 2358 note \[now 10 U.S.C. 4061 note prec.\]).
+
+&emsp;"(2)
+
+AI training program.—The term 'AI training program' means the training program established under subsection (b)(1).
+
+&emsp;"(3)
+
+Covered workforce.—The term 'covered workforce' means—
+
+&emsp;&emsp;"(A) employees of an executive agency who are responsible for—
+
+&emsp;&emsp;&emsp;"(i) program management;
+
+&emsp;&emsp;&emsp;"(ii) the planning, research, development, engineering, testing, and evaluation of systems, including quality control and assurance;
+
+&emsp;&emsp;&emsp;"(iii) procurement and contracting;
+
+&emsp;&emsp;&emsp;"(iv) logistics; or
+
+&emsp;&emsp;&emsp;"(v) cost estimating; and
+
+&emsp;&emsp;"(B) other personnel of an executive agency designated by the head of the executive agency to participate in the AI training program.
+
+&emsp;"(4)
+
+Director.—The term 'Director' means the Director of the Office of Management and Budget.
+
+&emsp;"(5)
+
+Executive agency.—The term 'executive agency'—
+
+&emsp;&emsp;"(A) has the meaning given the term in section 133 of title 41, United States Code; and
+
+&emsp;&emsp;"(B) does not include—
+
+&emsp;&emsp;&emsp;"(i) the Department of Defense or a component of the Department of Defense; or
+
+&emsp;&emsp;&emsp;"(ii) the National Nuclear Security Administration or a component of the National Nuclear Security Administration.
+
+"(b)
+
+Requirement.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Oct. 17, 2022\], and not less frequently than annually thereafter, the Director, in coordination with the Administrator of General Services and any other person determined relevant by the Director, shall develop and implement or otherwise provide an AI training program for the covered workforce.
+
+&emsp;"(2)
+
+Purpose.—The purpose of the AI training program shall be to ensure that the covered workforce has knowledge of the capabilities and risks associated with AI.
+
+&emsp;"(3)
+
+Topics.—The AI training program shall include information relating to—
+
+&emsp;&emsp;"(A) the science underlying AI, including how AI works;
+
+&emsp;&emsp;"(B) introductory concepts relating to the technological features of artificial intelligence systems;
+
+&emsp;&emsp;"(C) the ways in which AI can benefit the Federal Government;
+
+&emsp;&emsp;"(D) the risks posed by AI, including discrimination and risks to privacy;
+
+&emsp;&emsp;"(E) ways to mitigate the risks described in subparagraph (D), including efforts to create and identify AI that is reliable, safe, and trustworthy; and
+
+&emsp;&emsp;"(F) future trends in AI, including trends for homeland and national security and innovation.
+
+&emsp;"(4)
+
+Updates.—Not less frequently than once every 2 years, the Director shall update the AI training program to—
+
+&emsp;&emsp;"(A) incorporate new information relating to AI; and
+
+&emsp;&emsp;"(B) ensure that the AI training program continues to satisfy the requirements under paragraph (3).
+
+&emsp;"(5)
+
+Format.—The Director is encouraged to develop and implement or otherwise include under the AI training program interactive learning with—
+
+&emsp;&emsp;"(A) technologists;
+
+&emsp;&emsp;"(B) scholars; and
+
+&emsp;&emsp;"(C) other experts from the private, public, and nonprofit sectors.
+
+&emsp;"(6)
+
+Metrics.—The Director shall ensure the existence of a means by which to—
+
+&emsp;&emsp;"(A) understand and measure the participation of the covered workforce; and
+
+&emsp;&emsp;"(B) receive and consider feedback from participants in the AI training program to improve the AI training program.
+
+&emsp;"(7)
+
+Sunset.—Effective 10 years after the date of enactment of this Act, this section shall have no force or effect."
+
+#### Supply Chain Security Training
+
+Pub. L. 117–145, June 16, 2022, 136 Stat. 1269, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Supply Chain Security Training Act of 2021'.
+
+#### "SEC. 2. TRAINING PROGRAM TO MANAGE SUPPLY CHAIN RISK.
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[June 16, 2022\], the Administrator of General Services, through the Federal Acquisition Institute, shall develop a training program for officials with supply chain risk management responsibilities at Federal agencies.
+
+"(b)
+
+Content.—The training program shall be designed to prepare such personnel to perform supply chain risk management activities and identify and mitigate supply chain security risks that arise throughout the acquisition lifecycle, including for the acquisition of information and communications technology. The training program shall—
+
+&emsp;"(1) include, considering the protection of classified and other sensitive information, information on current, specific supply chain security threats and vulnerabilities; and
+
+&emsp;"(2) be updated as determined to be necessary by the Administrator.
+
+"(c)
+
+Coordination and Consultation.—In developing and determining updates to the training program, the Administrator shall—
+
+&emsp;"(1) coordinate with the Federal Acquisition Security Council, the Secretary of Homeland Security, and the Director of the Office of Personnel Management; and
+
+&emsp;"(2) consult with the Director of the Department of Defense's Defense Acquisition University, the Director of National Intelligence, and the Director of the National Institute of Standards and Technology.
+
+"(d)
+
+Guidance.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the training program is developed under subsection (a), the Director of the Office of Management and Budget shall promulgate guidance to Federal agencies requiring executive agency adoption and use of the training program. Such guidance shall—
+
+&emsp;&emsp;"(A) allow executive agencies to incorporate the training program into existing agency training programs; and
+
+&emsp;&emsp;"(B) provide guidance on how to identify executive agency officials with supply chain risk management responsibilities.
+
+&emsp;"(2)
+
+Availability.—The Director of the Office of Management and Budget shall make the guidance promulgated under paragraph (1) available to Federal agencies of the legislative and judicial branches.
+
+#### "SEC. 3. REPORTS ON IMPLEMENTATION OF PROGRAM.
+
+"Not later than 180 days after the completion of the first course, and annually thereafter for the next three years, the Administrator of General Services shall submit to the appropriate congressional committees and leadership a report on implementation of the training program required under section 2.
+
+#### "SEC. 4. DEFINITIONS.
+
+"In this Act:
+
+&emsp;"(1)
+
+Appropriate congressional committees and leadership.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Oversight and Reform and the Committee on Armed Services of the House of Representatives.
+
+&emsp;"(2)
+
+Information and communications technology.—The term 'information and communications technology' has the meaning given the term in section 4713(k) of title 41, United States Code.
+
+&emsp;"(3)
+
+Executive agency.—The term 'executive agency' has the meaning given the term in section 133 of title 41, United States Code.
+
+&emsp;"(4)
+
+Federal agency.—The term 'Federal agency' means any agency, committee, commission, office, or other establishment in the executive, legislative, or judicial branch of the Federal Government.
+
+&emsp;"(5)
+
+Training program.—The term 'training program' means the training program developed pursuant to section 2(a)."
+
 #### Effective Communication Between Government and Industry
 
 Pub. L. 114–92, div. A, title VIII, §887, Nov. 25, 2015, 129 Stat. 949, provided that: "Not later than 180 days after the date of the enactment of this Act \[Nov. 25, 2015\], the Federal Acquisition Regulatory Council shall prescribe a regulation making clear that agency acquisition personnel are permitted and encouraged to engage in responsible and constructive exchanges with industry, so long as those exchanges are consistent with existing law and regulation and do not promote an unfair competitive advantage to particular firms."
 
 #### Training for Contracting and Enforcement Personnel
 
-Pub. L. 111–240, title I, §1343(a), Sept. 27, 2010, 124 Stat. 2545, provided that: "Not later than 1 year after the date of enactment of this Act \[Sept. 27, 2010\], the Federal Acquisition Institute, in consultation with the Administrator for Federal Procurement Policy, the Defense Acquisition University, and the Administrator \[of the Small Business Administration\], shall develop courses for acquisition personnel concerning proper classification of business concerns and small business size and status for purposes of Federal contracts, subcontracts, grants, cooperative agreements, and cooperative research and development agreements."
+Pub. L. 111–240, title I, §1343(a), Sept. 27, 2010, 124 Stat. 2545, provided that: "Not later than 1 year afterthe date of enactment of this Act \[Sept. 27, 2010\], the Federal Acquisition Institute, in consultation with the Administrator for Federal Procurement Policy, the Defense Acquisition University, and the Administrator \[of the Small Business Administration\], shall develop courses for acquisition personnel concerning proper classification of business concerns and small business size and status for purposes of Federal contracts, subcontracts, grants, cooperative agreements, and cooperative research and development agreements."
 
 #### Defense Acquisition University Funding
 

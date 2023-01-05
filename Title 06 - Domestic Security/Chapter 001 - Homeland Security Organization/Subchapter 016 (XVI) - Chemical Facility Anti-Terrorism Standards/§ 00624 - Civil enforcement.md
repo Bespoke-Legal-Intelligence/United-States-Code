@@ -44,7 +44,7 @@
 
 #### (2) Limitation on delegation
 
-&emsp;The Secretary may not delegate the authority under paragraph (1) to any official other than the Director of Cybersecurity and Infrastructure Security.
+&emsp;The Secretary may not delegate the authority under paragraph (1) to any official other than the Director of the Cybersecurity and Infrastructure Security Agency.
 
 #### (3) Limitation on authority
 
@@ -74,7 +74,7 @@
 
 Nothing in this subchapter confers upon any person except the Secretary or his or her designee a right of action against an owner or operator of a covered chemical facility to enforce any provision of this subchapter.
 
-(Pub. L. 107–296, title XXI, §2104, as added Pub. L. 113–254, §2(a), Dec. 18, 2014, 128 Stat. 2912; amended Pub. L. 115–278, §2(g)(8)(B), Nov. 16, 2018, 132 Stat. 4180.)
+(Pub. L. 107–296, title XXI, §2104, as added Pub. L. 113–254, §2(a), Dec. 18, 2014, 128 Stat. 2912; amended Pub. L. 115–278, §2(g)(8)(B), Nov. 16, 2018, 132 Stat. 4180; Pub. L. 117–263, div. G, title LXXI, §7143(c)(4), Dec. 23, 2022, 136 Stat. 3663.)
 
 #### Termination of Section
 
@@ -84,6 +84,8 @@ Nothing in this subchapter confers upon any person except the Secretary or his o
 
 #### Amendments
 
+<b>2022</b>—Subsec. (c)(2). Pub. L. 117–263 substituted "Director of the Cybersecurity and Infrastructure Security Agency" for "Director of Cybersecurity and Infrastructure Security".
+
 <b>2018</b>—Subsec. (c)(2). Pub. L. 115–278 substituted "Director of Cybersecurity and Infrastructure Security" for "Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department appointed under section 113(a)(1)(H) of this title".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
@@ -91,6 +93,10 @@ Nothing in this subchapter confers upon any person except the Secretary or his o
 #### Effective and Termination Dates
 
 Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
+
+#### Rule of Construction
+
+Nothing in amendment made by Pub. L. 117–263 to be construed to alter the authorities, responsibilities, functions, or activities of any agency (as such term is defined in 44 U.S.C. 3502) or officer or employee of the United States on or before Dec. 23, 2022, see section 7143(f)(1) of Pub. L. 117–263, set out in a note under section 650 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

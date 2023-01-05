@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(ii) the agency (or in the case of a local educational agency that does not have the authority to tax or issue bonds, the agency's fiscal agent) meets the requirements of subclause (I), (II), or (III) of subparagraph (A)(i); and
 
-&emsp;&emsp;&emsp;(iii) the agency has facility needs resulting from the presence of the Federal Government, such as the enrollment of federally connected children, the presence oftax-exempt Federal property, or an increase in enrollment due to the expansion of Federal activities, housing privatization, or the acquisition of Federal property.
+&emsp;&emsp;&emsp;(iii) the agency has facility needs resulting from the presence of the Federal Government, such as the enrollment of federally connected children, the presence of tax-exempt Federal property, or an increase in enrollment due to the expansion of Federal activities, housing privatization, or the acquisition of Federal property.
 
 #### (C) Additional eligibility for emergency and modernization grants
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(I) The agency receives a basic support payment under section 7703(b) of this title for the fiscal year and the agency meets at least one of the following requirements:
 
-&emsp;&emsp;&emsp;&emsp;(aa) The number of children determined under section 7703(a)(1)(C) of this title for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
+&emsp;&emsp;&emsp;&emsp;(aa) The number of children determined under section 7703(a)(1)(C) of thistitle for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
 
 &emsp;&emsp;&emsp;&emsp;(bb) The number of children determined under subparagraphs (B) and (D)(i) of section 7703(a)(1) of this title for the agency for the preceding school year constituted at least 40 percent of the total student enrollment in the schools of the agency during the preceding school year.
 

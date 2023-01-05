@@ -36,7 +36,7 @@ The Secretary shall formulate and administer a farmer owned reserve program unde
 
 #### (2) 90-day period
 
-&emsp;If interest is levied on the loans under paragraph (1), the interest may be charged for a period of 90 days after the last day on which theprice of wheat or feed grains was equal to or in excess of 105 percent of the established price for the commodities.
+&emsp;If interest is levied on the loans under paragraph (1), the interest may be charged for a period of 90 days after the last day on which the price of wheat or feed grains was equal to or in excess of 105 percent of the established price for the commodities.
 
 #### (3) Rate of interest
 
@@ -108,7 +108,7 @@ The Secretary may, with the concurrence of the owner of grain stored under this 
 
 #### (j) Management of grain
 
-Whenever grain is stored under this section, the Secretary may buy and sell at an equivalent price, allowing for the customary location and grade differentials, substantially equivalent quantities of grain in different locations or warehouses to the extent needed to properly handle, rotate, distribute, and locate the commodities that the Commodity Credit Corporation owns or controls. The purchases to offset sales shall be made within 2 market days following the sales. The Secretary shall make adaily list available showing the price, location, and quantity of the transactions.
+Whenever grain is stored under this section, the Secretary may buy and sell at an equivalent price, allowing for the customary location and grade differentials, substantially equivalent quantities of grain in different locations or warehouses to the extent needed to properly handle, rotate, distribute, and locate the commodities that the Commodity Credit Corporation owns or controls. The purchases to offset sales shall be made within 2 market days following the sales. The Secretary shall make a daily list available showing the price, location, and quantity of the transactions.
 
 #### (k) Use of Commodity Credit Corporation
 
@@ -254,7 +254,7 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 #### Comparability of Storage Payments
 
-Pub. L. 101–624, title XI, §1124, Nov. 28, 1990, 104 Stat. 3506, as amended by Pub. L. 102–237, title I, §114(a)(1), Dec. 13, 1991, 105 Stat. 1838, provided that: "In making storage payments to producers under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) and to commercial warehousemen in accordance with the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), the Commodity Credit Corporation and the Secretary of Agriculture shall, to the extent practicable, ensure that the rates of the storage payments made to producers are equivalent to average rates paid for commercial storage, taking into account the current demand for storage for commodities, efficiency, location, regulatory compliance costs, bonding requirements, and impact of user fees as determined by the Secretary, except that the rates paid to producers and commercial warehousemen shall be established at rates that will result in no increase in current or projected combined outlays of the Commodity Credit Corporation for the storage payments made to producers and commercial warehousemen as a result of the adjustment of storage rates under this section."
+Pub. L. 101–624, title XI, §1124, Nov. 28, 1990, 104 Stat. 3506, as amended by Pub. L. 102–237, title I, §114(a)(1),Dec. 13, 1991, 105 Stat. 1838, provided that: "In making storage payments to producers under section 110 of the Agricultural Act of 1949 (7 U.S.C. 1445e) and to commercial warehousemen in accordance with the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), the Commodity Credit Corporation and the Secretary of Agriculture shall, to the extent practicable, ensure that the rates of the storage payments made to producers are equivalent to average rates paid for commercial storage, taking into account the current demand for storage for commodities, efficiency, location, regulatory compliance costs, bonding requirements, and impact of user fees as determined by the Secretary, except that the rates paid to producers and commercial warehousemen shall be established at rates that will result in no increase in current or projected combined outlays of the Commodity Credit Corporation for the storage payments made to producers and commercial warehousemen as a result of the adjustment of storage rates under this section."
 
 #### Repayment of Loans Without Penalty
 

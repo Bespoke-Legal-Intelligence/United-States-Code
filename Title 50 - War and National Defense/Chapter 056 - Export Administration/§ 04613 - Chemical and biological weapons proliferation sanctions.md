@@ -150,7 +150,7 @@ Department of Defense Review.—Any application to the Secretary of Commerce for
 
 "(b)
 
-Denial of License if Contrary to National Security Interest.—A license described in subsection (a) shall be denied by the Secretary of Commerce if it is determined that the export of such biological pathogen to that country would be contrary to the national security interests of the United States.
+Denial of License if Contrary to National Security Interest.—A license described in subsection (a) shall be denied by the Secretary of Commerce if it isdetermined that the export of such biological pathogen to that country would be contrary to the national security interests of the United States.
 
 "(c)
 

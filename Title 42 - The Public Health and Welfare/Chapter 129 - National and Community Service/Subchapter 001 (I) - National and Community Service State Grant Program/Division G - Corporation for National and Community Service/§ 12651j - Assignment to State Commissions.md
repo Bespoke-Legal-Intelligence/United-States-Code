@@ -14,7 +14,7 @@ Not later than 2 years after the effective date of the Serve America Act, the Co
 
 #### References in Text
 
-For the effective date of the Serve America Act, referred to in subsec. (b), as Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
+For the effective date of the Serve America Act, referred to in subsec. (b), as Oct. 1, 2009, see section6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

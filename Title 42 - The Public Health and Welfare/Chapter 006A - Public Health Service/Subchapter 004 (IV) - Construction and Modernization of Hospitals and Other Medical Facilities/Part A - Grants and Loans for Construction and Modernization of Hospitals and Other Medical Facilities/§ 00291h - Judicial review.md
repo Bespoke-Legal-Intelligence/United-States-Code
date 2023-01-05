@@ -6,7 +6,7 @@ If the Surgeon General refuses to approve any application for a project submitte
 
 #### (b) Conclusiveness of Surgeon General's findings; remand; new or modified findings
 
-The findings of the Surgeon General as to the facts, if supported by substantial evidence, shallbe conclusive, but the court, for good cause shown, may remand the case to the Surgeon General to take further evidence, and the Surgeon General may thereupon make new or modified findings of fact and may modify his previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
+The findings of the Surgeon General as to the facts, if supported by substantial evidence, shall be conclusive, but the court, for good cause shown, may remand the case to the Surgeon General to take further evidence, and the Surgeon General may thereupon make new or modified findings of fact and may modify his previous action, and shall file in the court the record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
 #### (c) Review by Supreme Court; stay of Surgeon General's action
 
@@ -20,7 +20,7 @@ The judgment of the court affirming or setting aside, in whole or in part, any a
 
 A prior section 291h, act July 1, 1944, ch. 373, title VI, §625, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §§3(b–d), 8, 63 Stat. 899, 901; July 12, 1954, ch. 471, §4(b), 68 Stat. 464, related to projects for construction, the application required and its contents and approval by the Surgeon General, and provided for a hearing prior to disapproval of the application, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291e of this title.
 
-Provisions similar to those comprising this section were contained in former section 291j(b), act July 1, 1944, ch. 373, title VI, §632, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 28, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; July 12, 1954, ch. 471, §4(g), 68 Stat. 466; Aug. 28, 1958, Pub. L. 85–791, §27, 72 Stat. 950, prior to the general amendment of this subchapter by Pub. L. 88–443.
+Provisions similar to those comprising this section were contained in former section 291j(b), act July 1, 1944, ch. 373, title VI, §632, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended June 28, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat.107; July 12, 1954, ch. 471, §4(g), 68 Stat. 466; Aug. 28, 1958, Pub. L. 85–791, §27, 72 Stat. 950, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

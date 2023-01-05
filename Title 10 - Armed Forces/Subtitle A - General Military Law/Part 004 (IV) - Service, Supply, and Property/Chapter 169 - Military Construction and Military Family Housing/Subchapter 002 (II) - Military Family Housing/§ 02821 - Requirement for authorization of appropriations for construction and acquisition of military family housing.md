@@ -1,6 +1,6 @@
 ### §2821. Requirement for authorization of appropriations for construction and acquisition of military family housing
 
-(a) Except as provided in subsection (b), funds may not be appropriated for the construction, acquisition, leasing, addition, extension, expansion, alteration, relocation, or operation and maintenance of family housing under the jurisdiction of the Department of Defense unless the appropriation of such funds has been authorized by law.
+(a) Except as provided in subsection (b), funds may not be appropriated for the construction,acquisition, leasing, addition, extension, expansion, alteration, relocation, or operation and maintenance of family housing under the jurisdiction of the Department of Defense unless the appropriation of such funds has been authorized by law.
 
 (b) In addition to the funds authorized to be appropriated by law in any fiscal year for the purposes described in subsection (a), there are authorized to be appropriated such additional sums as may be necessary for increases in salary, pay, retirement, and other employee benefits authorized by law for civilian employees of the Department of Defense whose compensation is provided for by funds appropriated for the purposes described in such subsection.
 
@@ -94,7 +94,7 @@ Pub. L. 116–92, div. B, title XXX, §3053, Dec. 20, 2019, 133 Stat. 1943, prov
 
 "(a)
 
-Process Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop a process to identify, record, and resolve environmental health hazards in housing under the jurisdiction of the Department of Defense (including privatized housing) in a timely manner.
+Process Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense, in coordination withthe Secretaries of the military departments, shall develop a process to identify, record, and resolve environmental health hazards in housing under the jurisdiction of the Department of Defense (including privatized housing) in a timely manner.
 
 "(b)
 
@@ -116,7 +116,7 @@ Elements of Process.—The process developed under subsection (a) shall provide 
 
 "(c)
 
-Coordination.—The Secretary of Defense shall ensure coordination between military treatment facilities, appropriate public health officials, and housingmanagers at military installations with respect to the development and implementation of the process required by subsection (a).
+Coordination.—The Secretary of Defense shall ensure coordination between military treatment facilities, appropriate public health officials, and housing managers at military installations with respect to the development and implementation of the process required by subsection (a).
 
 "(d)
 
@@ -206,9 +206,13 @@ Disqualified Window Covering Defined.—In this section, the term 'disqualified 
 
 #### Repair and Maintenance of Family Housing Units
 
-Pub. L. 116–260, div. J, title I, §119, Dec. 27, 2020, 134 Stat. 1661, provided that: "Notwithstanding any other provision of law, funds made available in this title \[see Tables for classification\] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: <i>Provided</i>, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: <i>Provided further</i>, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year."
+Pub. L. 117–328, div. J, title I, §119, Dec. 29, 2022, 136 Stat. 4945, provided that: "Notwithstanding any other provision of law, funds made available in this title \[see Tables for classification\] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: <i>Provided</i>, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any generalor flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: <i>Provided further</i>, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–103, div. J, title I, §119, Mar. 15, 2022, 136 Stat. 535.
+
+Pub. L. 116–260, div. J, title I, §119, Dec. 27, 2020, 134 Stat. 1661.
 
 Pub. L. 116–94, div. F, title I, §119, Dec. 20, 2019, 133 Stat. 2785.
 

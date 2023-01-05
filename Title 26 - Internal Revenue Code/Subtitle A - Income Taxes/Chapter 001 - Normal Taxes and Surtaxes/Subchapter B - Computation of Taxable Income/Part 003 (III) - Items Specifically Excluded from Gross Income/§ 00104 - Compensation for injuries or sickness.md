@@ -22,7 +22,7 @@ Except in the case of amounts attributable to (and not in excess of) deductions 
 
 > &emsp;except that subparagraph (B) shall not apply to any amounts that would have been payable if death of the public safety officer had occurred other than as the direct and proximate result of a personal injury sustained in the line of duty.
 
-> For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in the gross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
+> For purposes of paragraph (3), in the case of an individual who is, or has been, an employee within the meaning of section 401(c)(1) (relating to self-employed individuals), contributions made on behalf of such individual while he was such an employee to a trust described in section 401(a) which is exempt from tax under section 501(a), or under a plan described in section 403(a), shall, to the extent allowed as deductions under section 404, be treated as contributions by the employer which were not includible in the gross income of the employee. For purposes of paragraph (2), emotional distress shall not be treated as a physical injury or physical sickness. The preceding sentence shall not apply to an amount of damages not in excess of the amount paid for medical care (described in subparagraph (A) or (B) of section 213(d)(1)) attributable to emotional distress.
 
 #### (b) Termination of application of subsection (a)(4) in certain cases
 
@@ -144,7 +144,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Exception.—The amendments made by this section shall not apply to any amount received under a written binding agreement, court decree, or mediation award in effect on (or issued on or before) September 13, 1995."
+Exception.—The amendments made by this section shall not apply to any amount received under awritten binding agreement, court decree, or mediation award in effect on (or issued on or before) September 13, 1995."
 
 #### Effective Date of 1989 Amendment
 

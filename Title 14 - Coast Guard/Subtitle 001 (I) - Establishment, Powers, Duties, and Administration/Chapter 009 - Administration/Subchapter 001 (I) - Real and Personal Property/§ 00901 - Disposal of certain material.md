@@ -14,7 +14,7 @@
 
 (2) Recyclable materials shall be sold in accordance with sections 541–555 of title 40, except that the Commandant may conduct sales of materials for which the proceeds of sale will not exceed $5,000 under regulations prescribed by the Commandant.
 
-(d)(1) Proceeds from the sale of recyclable materials at a Coast Guard installation shall becredited to funds available for operations and maintenance at that installation in amounts sufficient to cover operations, maintenance, recycling equipment, and overhead costs for processing recyclable materials at the installation.
+(d)(1) Proceeds from the sale of recyclable materials at a Coast Guard installation shall be credited to funds available for operations and maintenance at that installation in amounts sufficient to cover operations, maintenance, recycling equipment, and overhead costs for processing recyclable materials at the installation.
 
 (2) If, after funds are credited, a balance remains available to a Coast Guard installation and the installation has a qualified recycling program, not more than 50 percent of that balance may be used at the installation for projects for pollution abatement, energy conservation, and occupational safety and health activities. The cost of the project may not be greater than 50 percent of the amount permissible for a minor construction project.
 
@@ -46,7 +46,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Subsec. (c)(2). Pub. L. 107–217, §3(c)(3)(B), substituted "sections 541–555 of title 40" for "section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–324, §408, inserted "to the Coast Guard Auxiliary, including any incorporated unit thereof," after "with or without charge," and struck out "to any incorporated unit of the Coast Guard Auxiliary," after "Boy Scouts of America,".
+<b>1996</b>—Subsec. (a). Pub. L. 104–324, §408, inserted "to the Coast Guard Auxiliary, including any incorporatedunit thereof," after "with or without charge," and struck out "to any incorporated unit of the Coast Guard Auxiliary," after "Boy Scouts of America,".
 
 Subsec. (c)(2). Pub. L. 104–324, §1119, inserted ", except that the Commandant may conduct sales of materials for which the proceeds of sale will not exceed $5,000 under regulations prescribed by the Commandant" before period at end.
 

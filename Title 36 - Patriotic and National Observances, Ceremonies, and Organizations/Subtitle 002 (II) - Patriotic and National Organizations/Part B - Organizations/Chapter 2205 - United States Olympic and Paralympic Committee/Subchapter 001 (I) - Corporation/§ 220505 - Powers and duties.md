@@ -2,7 +2,7 @@
 
 (a)
 
-Constitution and Bylaws.—The corporation shall adopt a constitution and bylaws. Thecorporation may amend its constitution only if the corporation—
+Constitution and Bylaws.—The corporation shall adopt a constitution and bylaws. The corporation may amend its constitution only if the corporation—
 
 &emsp;(1) publishes, in its principal publication, a notice of the proposed amendment, including—
 
@@ -44,7 +44,7 @@ Powers Related to Amateur Athletics and the Olympic Games.—The corporation may
 
 &emsp;(1) serve as the coordinating body for amateur athletic activity in the United States directly related to international amateur athletic competition;
 
-&emsp;(2) represent the United States as its national Olympic committee in relations with the International Olympic Committee and the Pan-American Sports Organization and as its national Paralympic committee in relations with the International Paralympic Committee;
+&emsp;(2) represent the United States as its national Olympic committee in relations with the International Olympic Committee and thePan-American Sports Organization and as its national Paralympic committee in relations with the International Paralympic Committee;
 
 &emsp;(3) organize, finance, and control the representation of the United States in the competitions and events of the Olympic Games, the Paralympic Games, the Pan-American Games, and the Parapan American Games, and obtain, directly or by delegation to the appropriate national governing body, amateur representation for those games;
 
@@ -68,15 +68,25 @@ In general.—The duty of the corporation to amateur athletes includes the adopt
 
 &emsp;&emsp;&emsp;(i) the policies and procedures developed under subparagraph (C) of section 220541(a)(1); and
 
-&emsp;&emsp;&emsp;(ii) the requirement described in paragraph (2)(A) of section 220542(a); and
+&emsp;&emsp;&emsp;(ii) the requirement described in paragraph (2)(A) of section 220542(a);
 
-&emsp;&emsp;(C) to ensure that each national governing body and the corporation enforces temporary measures and sanctions issued pursuant to the authority of the Center.
+&emsp;&emsp;(C) to ensure that each national governing body and the corporation enforces temporary measures and sanctions issued pursuant to the authority of the Center; and
+
+&emsp;&emsp;(D) with respect to a sport for which the corporation conducts separate programs for female and male athletes, to ensure that female and male athletes who represent the United States in international amateur athletic events receive, from funds directly provided by the corporation to the athlete (excluding any prize or award based on the athlete's performance in an international amateur athletic competition), equivalent and nondiscriminatory compensation, wages, benefits, medical care, travel arrangements, and payment or reimbursement for expenses, all insofar as these are implemented in connection with such amateur athletic events, where "equivalent" means "equal" except that it shall be permissible—
+
+&emsp;&emsp;&emsp;(i) to consider merit, performance, seniority, or quantity of play in determining contract or other terms of participation; and
+
+&emsp;&emsp;&emsp;(ii) to provide more beneficial terms of participation to athletes representing the United States in international events to address disparities in outside income, including in compensation made available by international sports federations and other event organizers, or the need to foster underdeveloped programs or address documented and justifiable personal need on the part of specific athletes or teams.
 
 &emsp;(2)
 
+Advocacy.—The corporation shall take all reasonable steps, in collaboration with affected athletes, to advocate to international sports federations and other event organizers to equalize prizes, compensation, funding, and other support provided to athletes by such federations and organizers.
+
+&emsp;(3)
+
 Rule of construction.—Nothing in this subsection shall be construed to preempt or otherwise abrogate the duty of care of the corporation under State law or the common law.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1468; Pub. L. 105–277, div. C, title I, §142(f), Oct. 21, 1998, 112 Stat. 2681–604; Pub. L. 109–284, §5(15), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, §§4(a)(5), 6(c)(1), Oct. 30, 2020, 134 Stat. 945, 948.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1468; Pub. L. 105–277, div. C, title I, §142(f), Oct. 21, 1998, 112 Stat. 2681–604; Pub. L. 109–284, §5(15), Sept. 27, 2006, 120 Stat. 1212; Pub. L. 116–189, §§4(a)(5), 6(c)(1), Oct. 30, 2020, 134 Stat. 945, 948; Pub. L. 117–340, §2(a)(1), Jan. 5, 2023, 136 Stat. 6175.)
 
 Historical and Revision Notes
 
@@ -108,11 +118,15 @@ Sept. 21, 1950, ch. 975, title I, §§105 (less (a) (words before cl. (1) relate
 
 In subsection (a), before clause (1), the words "not inconsistent with the laws of the United States or of any State" are omitted as unnecessary. In clause (1), the word "amendment" is substituted for "alteration" for consistency. Before subclause (A), the word "general" is omitted as unnecessary. In subclause (B), the words "adoption of the amendment" are substituted for "the alteration" for clarity. In clause (2), the word "comments" is substituted for "views, or arguments" to omit unnecessary words. The words "a period of" are omitted as unnecessary.
 
-In subsection (b), the text of 36:379 is omitted as executed and obsolete. In clause (4), the word "devises" is substituted for "devices" to use standard contemporary spelling. In clause (5), the words "acquire, own, lease, encumber, and transfer" are substituted for "acquire, hold, and dispose of" for consistency in the revised title. The words "real and personal" and "may be" are omitted as unnecessary. The words "to carry out the purposes of the corporation" are substituted for "for its corporate purposes" for consistency in the revised title. In clause (6), the words "to carry out its corporate purposes" are omitted as unnecessary and for consistency in the revised title. The words "issue instruments of indebtedness, and secure its obligations by granting security interests in its property" are substituted for "issue notes, bonds, or other evidences of indebtedness therefor, and secure the same by mortgage" for consistency in the revised title. The words "subject in each case to the laws of the United States or of any State" are omitted as unnecessary.
+In subsection (b), the text of 36:379 is omitted as executed and obsolete. In clause (4), the word "devises" is substituted for "devices" to use standard contemporary spelling. In clause (5), the words "acquire, own, lease, encumber, and transfer" are substituted for "acquire, hold, and dispose of" for consistency in the revisedtitle. The words "real and personal" and "may be" are omitted as unnecessary. The words "to carry out the purposes of the corporation" are substituted for "for its corporate purposes" for consistency in the revised title. In clause (6), the words "to carry out its corporate purposes" are omitted as unnecessary and for consistency in the revised title. The words "issue instruments of indebtedness, and secure its obligations by granting security interests in its property" are substituted for "issue notes, bonds, or other evidences of indebtedness therefor, and secure the same by mortgage" for consistency in the revised title. The words "subject in each case to the laws of the United States or of any State" are omitted as unnecessary.
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d)(1)(D). Pub. L. 117–340, §2(a)(1)(A), added subpar. (D).
+
+Subsec. (d)(2), (3). Pub. L. 117–340, §2(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
 <b>2020</b>—Pub. L. 116–189, §6(c)(1)(A), substituted "Powers and duties" for "Powers" in section catchline.
 
@@ -135,4 +149,32 @@ Subsec. (c)(3). Pub. L. 105–277, §142(f)(2)(B), substituted "Games, the Paral
 Subsec. (c)(4). Pub. L. 105–277, §142(f)(2)(C), substituted "Games, or as paralympic sports organizations for any sport that is included on the program of the Paralympic Games;" for "Games;".
 
 Subsec. (c)(5). Pub. L. 105–277, §142(f)(2)(D), substituted "Games, the Paralympic Games, the Pan-American Games, world championship competition," for "Games,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Rule of Construction
+
+Pub. L. 117–340, §2(d), Jan. 5, 2023, 136 Stat. 6177, provided that: "Nothing in this Act \[see Short Title of 2023 Amendment note set out under section 101 of this title\] shall be construed—
+
+&emsp;"(1) to supersede, nullify, or diminish the rights of any individual under any Federal law or the law of any State or political subdivision of any State or jurisdiction;
+
+&emsp;"(2) to prohibit an individual athlete or a group of athletes from receiving compensation from an individual or entity other than a national governing body or the corporation for the use of, as applicable, the name, image, or likeness of the individual athlete or the names, images, or likenesses of the group of athletes; or
+
+&emsp;"(3) to prohibit a team or group of athletes from accepting outside sponsorships or endorsements, or from participating in outside promotional events or marketing campaigns, even if a team or group of athletes of another gender are not offered equivalent sponsorships, endorsements, or participation in outside promotional events or marketing campaigns."
+
+#### Implementation Period and Reports to Congress
+
+Pub. L. 117–340, §2(c), Jan. 5, 2023, 136 Stat. 6177, provided that: "Not later than 1 year after the date of the enactment of this Act \[Jan. 5, 2023\]—
+
+&emsp;"(1) the corporation shall—
+
+&emsp;&emsp;"(A) attain full compliance, and require as a condition of continued certification that each national governing body attains and maintains full compliance, with the applicable amendments made by this Act \[see Short Title of 2023 Amendment note set out under section 101 of this title\]; and
+
+&emsp;&emsp;"(B) submit to Congress a report describing such compliance of the corporation and each national governing body; and
+
+&emsp;"(2) each national governing body shall—
+
+&emsp;&emsp;"(A) attain full compliance with the applicable amendments made by this Act; and
+
+&emsp;&emsp;"(B) submit to Congress a report describing such compliance."
 

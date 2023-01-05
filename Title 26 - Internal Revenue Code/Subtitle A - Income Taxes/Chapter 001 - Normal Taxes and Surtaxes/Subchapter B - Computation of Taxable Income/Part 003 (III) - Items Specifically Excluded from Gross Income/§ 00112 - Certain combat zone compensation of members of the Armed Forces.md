@@ -172,7 +172,7 @@ Withholding.—Subsection (a)(5) shall apply to remuneration paid after the date
 
 #### Sense of Congress Regarding Tax Treatment of Members Receiving Special Pay for Duty Subject to Hostile Fire or Imminent Danger
 
-Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: "It is the sense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37, United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
+Pub. L. 106–398, §1 \[\[div. A\], title X, §1089\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294, provided that: "It is thesense of Congress that members of the Armed Forces who receive special pay under section 310 of title 37, United States Code, for duty subject to hostile fire or imminent danger should receive the same treatment under Federal income tax laws as members serving in combat zones."
 
 #### Sense of Congress Regarding Treatment Under Internal Revenue Code of Members Receiving Hostile Fire or Imminent Danger Special Pay During Contingency Operations
 
@@ -282,7 +282,7 @@ Withholding.—Subsection (a)(5) and the amendment made by subsection (c) shall 
 
 Pub. L. 92–279, §3(a)(2), (3), Apr. 26, 1972, 86 Stat. 125, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(2) If refund or credit of any overpayment for any taxable year resulting from the application of the amendment made by the first section of this Act \[amending this section\] (including interest, additions to the tax, and additional amounts) is prevented at any time before the expiration of the applicable period specified in paragraph (3) by the operation of any law or rule of law, such refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the expiration of such applicable period.
+"(2) If refund or credit of any overpayment for any taxable year resulting from the application of the amendment made by the first section of this Act \[amending this section\] (including interest, additionsto the tax, and additional amounts) is prevented at any time before the expiration of the applicable period specified in paragraph (3) by the operation of any law or rule of law, such refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the expiration of such applicable period.
 
 "(3) For purposes of paragraph (2), the applicable period for any individual with respect to any compensation is the period ending on whichever of the following days is the later:
 

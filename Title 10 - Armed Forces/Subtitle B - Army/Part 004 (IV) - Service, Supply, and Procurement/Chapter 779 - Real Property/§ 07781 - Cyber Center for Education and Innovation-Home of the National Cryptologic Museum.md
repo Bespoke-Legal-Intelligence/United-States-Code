@@ -18,7 +18,7 @@ Acceptance of facility.—If the Foundation constructs the Center pursuant to an
 
 &emsp;(2)
 
-Acceptance of services.—Notwithstanding section 1342 of title 31, the Secretary may accept services from the Foundation in connection with the design, construction, and operation of the Center. For purposes of thissection and any other provision of law, employees or personnel of the Foundation shall not be considered to be employees of the United States.
+Acceptance of services.—Notwithstanding section 1342 of title 31, the Secretary may accept services from the Foundation in connection with the design, construction, and operation of the Center. For purposes of this section and any other provision of law, employees or personnel of the Foundation shall not be considered to be employees of the United States.
 
 (d)
 

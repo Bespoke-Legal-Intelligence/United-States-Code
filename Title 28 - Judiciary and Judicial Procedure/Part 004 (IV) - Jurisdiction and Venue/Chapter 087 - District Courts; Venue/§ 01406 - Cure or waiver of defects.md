@@ -1,6 +1,6 @@
 ### §1406. Cure or waiver of defects
 
-(a) The district court of a district in which is filed a case laying venue in the wrong divisionor district shall dismiss, or if it be in the interest of justice, transfer such case to any district or division in which it could have been brought.
+(a) The district court of a district in which is filed a case laying venue in the wrong division or district shall dismiss, or if it be in the interest of justice, transfer such case to any district or division in which it could have been brought.
 
 (b) Nothing in this chapter shall impair the jurisdiction of a district court of any matter involving a party who does not interpose timely and sufficient objection to the venue.
 
@@ -38,7 +38,7 @@ This section removes an ambiguity in section 1406(a) of title 28, U.S.C., by sub
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–317 applicable to cases pending on Oct. 19, 1996, and to cases commenced on or after such date, see section 610(c) of Pub. L. 104–317, set out as a note under section 1404 of this title.
+Amendment by Pub. L. 104–317 applicable to cases pending on Oct. 19, 1996, and to cases commenced on orafter such date, see section 610(c) of Pub. L. 104–317, set out as a note under section 1404 of this title.
 
 #### Effective Date of 1982 Amendment
 

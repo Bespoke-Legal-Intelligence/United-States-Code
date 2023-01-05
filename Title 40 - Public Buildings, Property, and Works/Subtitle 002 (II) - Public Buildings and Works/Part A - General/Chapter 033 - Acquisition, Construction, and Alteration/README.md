@@ -14,7 +14,7 @@
 | [3310\.](%C2%A7%2003310%20-%20Special%20rules%20for%20leased%20buildings.md) | Special rules for leased buildings. |
 | [3311\.](%C2%A7%2003311%20-%20State%20administration%20of%20criminal%20and%20health%20and%20safety%20laws.md) | State administration of criminal and health and safety laws. |
 | [3312\.](%C2%A7%2003312%20-%20Compliance%20with%20nationally%20recognized%20codes.md) | Compliance with nationally recognized codes. |
-| [3313\.](%C2%A7%2003313%20-%20Use%20of%20energy%20efficient%20lighting%20fixtures%20and%20bulbs.md) | Use of energy efficient lighting fixtures and bulbs. |
+| [3313\.](%C2%A7%2003313%20-%20Procurement%20of%20life-cycle%20cost%20effective%20and%20energy%20efficient%20lighting%20systems.md) | Procurement of life-cycle cost effective and energy efficient lighting systems. |
 | [3314\.](%C2%A7%2003314%20-%20Baby%20changing%20facilities%20in%20restrooms.md) | Baby changing facilities in restrooms. |
 | [3315\.](%C2%A7%2003315%20-%20Delegation.md) | Delegation. |
 | [3316\.](%C2%A7%2003316%20-%20Report%20to%20Congress.md) | Report to Congress. |
@@ -32,6 +32,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–202, §3(b), Oct. 17, 2022, 136 Stat. 2226, added item 3313 and struck out former item 3313 "Use of energy efficient lighting fixtures and bulbs".
 
 <b>2021</b>—Pub. L. 116–333, §2(b), Jan. 13, 2021, 134 Stat. 5114, which directed adding item 3318, relating to availability of Federal building project information, to the table of chapters for chapter 33, was executed by adding it to the table of sections for chapter 33, to reflect the probable intent of Congress.
 
@@ -60,7 +62,7 @@
 - [&sect; 03310 - Special rules for leased buildings](%C2%A7%2003310%20-%20Special%20rules%20for%20leased%20buildings.md)
 - [&sect; 03311 - State administration of criminal and health and safety laws](%C2%A7%2003311%20-%20State%20administration%20of%20criminal%20and%20health%20and%20safety%20laws.md)
 - [&sect; 03312 - Compliance with nationally recognized codes](%C2%A7%2003312%20-%20Compliance%20with%20nationally%20recognized%20codes.md)
-- [&sect; 03313 - Use of energy efficient lighting fixtures and bulbs](%C2%A7%2003313%20-%20Use%20of%20energy%20efficient%20lighting%20fixtures%20and%20bulbs.md)
+- [&sect; 03313 - Procurement of life-cycle cost effective and energy efficient lighting systems](%C2%A7%2003313%20-%20Procurement%20of%20life-cycle%20cost%20effective%20and%20energy%20efficient%20lighting%20systems.md)
 - [&sect; 03314 - Baby changing facilities in restrooms](%C2%A7%2003314%20-%20Baby%20changing%20facilities%20in%20restrooms.md)
 - [&sect; 03315 - Delegation](%C2%A7%2003315%20-%20Delegation.md)
 - [&sect; 03316 - Report to Congress](%C2%A7%2003316%20-%20Report%20to%20Congress.md)

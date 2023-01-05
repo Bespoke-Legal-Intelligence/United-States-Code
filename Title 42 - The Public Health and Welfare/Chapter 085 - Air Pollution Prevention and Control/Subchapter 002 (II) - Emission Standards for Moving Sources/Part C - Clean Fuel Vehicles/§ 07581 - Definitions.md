@@ -12,7 +12,7 @@ For purposes of this part—
 
 #### (3) NMOG
 
-&emsp;The term nonmethane organic gas ("NMOG") means the sum of nonoxygenated and oxygenated hydrocarbons contained in a gas sample, including, at a minimum, all oxygenated organic gases containing 5 or fewer carbon atoms (i.e., aldehydes, ketones, alcohols, ethers, etc.), and all known alkanes, alkenes, alkynes, and aromatics containing 12 or fewer carbon atoms. To demonstrate compliance with a NMOG standard, NMOG emissions shall be measured in accordance with the "California Non-Methane Organic Gas Test Procedures". In the case of vehicles using fuels other than base gasoline, the level of NMOG emissions shall be adjusted based on the reactivity of the emissions relative to vehicles using base gasoline.
+&emsp;The term nonmethane organic gas ("NMOG") means the sum of nonoxygenated and oxygenated hydrocarbons contained in a gas sample, including, at a minimum, all oxygenated organic gases containing 5 or fewer carbon atoms (i.e., aldehydes, ketones, alcohols, ethers, etc.), and all known alkanes, alkenes, alkynes, and aromatics containing 12 or fewer carbon atoms. To demonstrate compliance with a NMOG standard, NMOG emissions shall be measured in accordance with the "California Non-Methane Organic Gas Test Procedures". In the case of vehicles using fuels other than base gasoline, the level ofNMOG emissions shall be adjusted based on the reactivity of the emissions relative to vehicles using base gasoline.
 
 #### (4) Base gasoline
 

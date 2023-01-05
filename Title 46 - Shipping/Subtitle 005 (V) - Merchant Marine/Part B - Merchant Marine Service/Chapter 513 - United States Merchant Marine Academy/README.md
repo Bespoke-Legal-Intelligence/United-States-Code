@@ -26,12 +26,18 @@
 | [51322\.](%C2%A7%2051322%20-%20Protection%20of%20cadets%20from%20sexual%20assault%20onboard%20vessels.md) | Protection of cadets from sexual assault onboard vessels. |
 | [51323\.](%C2%A7%2051323%20-%20United%20States%20Merchant%20Marine%20Academy%20Advisory%20Council.md) | United States Merchant Marine Academy Advisory Council. |
 | [51324\.](%C2%A7%2051324%20-%20Unfilled%20vacancies.md) | Unfilled vacancies. |
+| [51325\.](%C2%A7%2051325%20-%20Sexual%20assault%20and%20sexual%20harassment%20prevention%20information%20management%20system.md) | Sexual assault and sexual harassment prevention information management system. |
+| [51326\.](%C2%A7%2051326%20-%20Student%20advisory%20board%20at%20the%20United%20States%20Merchant%20Marine%20Academy.md) | Student advisory board at the United States Merchant Marine Academy. |
+| [51327\.](%C2%A7%2051327%20-%20Sexual%20Assault%20Advisory%20Council.md) | Sexual Assault Advisory Council. |
+| [51328\.](%C2%A7%2051328%20-%20Student%20support.md) | Student support. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. C, title XXXV, §3531(c), Dec. 23, 2022, 136 Stat. 3087, added items 51325 to 51328.
 
 <b>2021</b>—Pub. L. 117–81, div. C, title XXXV, §3501(c)(2), Dec. 27, 2021, 135 Stat. 2238, added items 51323 and 51324.
 
@@ -76,3 +82,7 @@ Pub. L. 110–181, div. C, title XXXV, §3523(a)(1), Jan. 28, 2008, 122 Stat. 59
 - [&sect; 51322 - Protection of cadets from sexual assault onboard vessels](%C2%A7%2051322%20-%20Protection%20of%20cadets%20from%20sexual%20assault%20onboard%20vessels.md)
 - [&sect; 51323 - United States Merchant Marine Academy Advisory Council](%C2%A7%2051323%20-%20United%20States%20Merchant%20Marine%20Academy%20Advisory%20Council.md)
 - [&sect; 51324 - Unfilled vacancies](%C2%A7%2051324%20-%20Unfilled%20vacancies.md)
+- [&sect; 51325 - Sexual assault and sexual harassment prevention information management system](%C2%A7%2051325%20-%20Sexual%20assault%20and%20sexual%20harassment%20prevention%20information%20management%20system.md)
+- [&sect; 51326 - Student advisory board at the United States Merchant Marine Academy](%C2%A7%2051326%20-%20Student%20advisory%20board%20at%20the%20United%20States%20Merchant%20Marine%20Academy.md)
+- [&sect; 51327 - Sexual Assault Advisory Council](%C2%A7%2051327%20-%20Sexual%20Assault%20Advisory%20Council.md)
+- [&sect; 51328 - Student support](%C2%A7%2051328%20-%20Student%20support.md)

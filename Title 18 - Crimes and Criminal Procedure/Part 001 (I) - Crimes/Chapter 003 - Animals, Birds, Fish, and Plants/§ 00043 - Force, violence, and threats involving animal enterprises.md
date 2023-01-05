@@ -106,7 +106,7 @@ Definitions.—As used in this section—
 
 Rules of Construction.—Nothing in this section shall be construed—
 
-&emsp;(1) to prohibit any expressive conduct (including peaceful picketing or other peaceful demonstration) protected from legal prohibition by the First Amendment to the Constitution;
+&emsp;(1) to prohibit any expressive conduct (including peaceful picketing or other peacefuldemonstration) protected from legal prohibition by the First Amendment to the Constitution;
 
 &emsp;(2) to create new remedies for interference with activities protected by the free speech or free exercise clauses of the First Amendment to the Constitution, regardless of the point of view expressed, or to limit any existing legal remedies for such interference; or
 
@@ -140,7 +140,7 @@ Pub. L. 102–346, §1, Aug. 26, 1992, 106 Stat. 928, provided that: "This Act \
 
 #### Study of Effect of Terrorism on Certain Animal Enterprises
 
-Pub. L. 102–346, §3, Aug. 26, 1992, 106 Stat. 929, directed Attorney General and Secretary of Agriculture tojointly conduct a study on extent and effects of domestic and international terrorism on enterprises using animals for food or fiber production, agriculture, research, or testing, and, not later than 1 year after Aug. 26, 1992, submit a report that describes the results of the study together with any appropriate recommendations and legislation to Congress.
+Pub. L. 102–346, §3, Aug. 26, 1992, 106 Stat. 929, directed Attorney General and Secretary of Agriculture to jointly conduct a study on extent and effects of domestic and international terrorism on enterprises using animals for food or fiber production, agriculture, research, or testing, and, not later than 1 year after Aug. 26, 1992, submit a report that describes the results of the study together with any appropriate recommendations and legislation to Congress.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

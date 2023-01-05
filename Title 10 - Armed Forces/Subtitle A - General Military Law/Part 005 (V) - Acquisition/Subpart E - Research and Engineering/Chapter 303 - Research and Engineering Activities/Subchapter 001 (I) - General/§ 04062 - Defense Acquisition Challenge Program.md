@@ -26,7 +26,7 @@ Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under
 
 &emsp;(iii) any functional challenges of importance to Department of Defense missions.
 
-(B) A solicitation under this paragraph may be included in a broad agency announcement issuedpursuant to paragraph (3) as long as the broad agency announcement is released in an expeditious manner following the determination of the Secretary concerned that a critical cost growth threshold breach has occurred with respect to a major defense acquisition program.
+(B) A solicitation under this paragraph may be included in a broad agency announcement issued pursuant to paragraph (3) as long as the broad agency announcement is released in an expeditious manner following the determination of the Secretary concerned that a critical cost growth threshold breach has occurred with respect to a major defense acquisition program.
 
 (5) Under procedures established by the Under Secretary, a Panel shall carry out a preliminary evaluation of each challenge proposal submitted in response to a broad agency announcement, or submitted through the unsolicited proposal process and identified as a challenge proposal in accordance with paragraph (2), to determine each of the following:
 
@@ -62,7 +62,7 @@ Action Upon Favorable Full Review and Evaluation.—(1) Under procedures prescri
 
 (2) The Under Secretary shall encourage the adoption of each challenge proposal referred to in paragraph (1) by providing suitable incentives to the office carrying out the acquisition program and the prime system contractor carrying out such program.
 
-(3) In the case of a challenge proposal submitted in response to a solicitation issued as a result of a critical cost growth threshold breach that is determined under full review and evaluation to satisfy each of the criteria specified in subsection (c)(5), the Under Secretary shall establish guidelines for covering the costs of the challenge proposal. If appropriate, such guidelines shall not be restricted to funding provided by the Defense Acquisition Challenge Program, but shall also consider alternative funding sources, such as the acquisition program with respect to which the breach occurred.
+(3) In the case of a challenge proposal submitted in response to a solicitation issued as a result of a critical cost growth threshold breach that is determined under full review and evaluation to satisfy each of the criteria specified in subsection (c)(5), the Under Secretary shall establish guidelines for covering the costs of the challenge proposal. If appropriate, such guidelines shall not be restricted to funding providedby the Defense Acquisition Challenge Program, but shall also consider alternative funding sources, such as the acquisition program with respect to which the breach occurred.
 
 (f)
 
@@ -80,7 +80,7 @@ Access to Technical Resources.—(1) Under procedures established by the Under S
 
 (h)
 
-Conflicts of Interest and Confidentiality.—In carrying out each preliminary evaluation under subsection (c) and full review under subsection (d), the Under Secretary shall ensure the elimination of conflicts of interest and that the identity of any person or activitysubmitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity. For purposes of the proceeding sentence, the term "Federal Government" includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.
+Conflicts of Interest and Confidentiality.—In carrying out each preliminary evaluation under subsection (c) and full review under subsection (d), the Under Secretary shall ensure the elimination of conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity. For purposes of the proceeding sentence, the term "Federal Government" includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.
 
 (i)
 
@@ -142,7 +142,7 @@ Level of performance.—The term "level of performance", with respect to a nonde
 
 Sunset.—The authority to carry out the pilot program under this subsection shall terminate on January 7, 2021.
 
-(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495, §2359b; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876; Pub. L. 113–291, div. A, title X, §1071(a)(6), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–328, div. A, title VIII, §828, Dec. 23, 2016, 130 Stat. 2281; Pub. L. 116–92, div. A, title IX, §902(56), Dec. 20, 2019, 133 Stat. 1549; renumbered §4062 and amended Pub. L. 116–283, div. A, title XVIII, §§1842(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4244, 4294; Pub. L. 117–81, div. A, title XVII, §1701(d)(9), (q)(1), (u)(3)(B), Dec. 27, 2021, 135 Stat. 2137, 2148, 2152.)
+(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495, §2359b; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\],title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876; Pub. L. 113–291, div. A, title X, §1071(a)(6), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–328, div. A, title VIII, §828, Dec. 23, 2016, 130 Stat. 2281; Pub. L. 116–92, div. A, title IX, §902(56), Dec. 20, 2019, 133 Stat. 1549; renumbered §4062 and amended Pub. L. 116–283, div. A, title XVIII, §§1842(b), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4244, 4294; Pub. L. 117–81, div. A, title XVII, §1701(d)(9), (q)(1), (u)(3)(B), Dec. 27, 2021, 135 Stat. 2137, 2148, 2152.)
 
 #### <b>Editorial Notes</b>
 

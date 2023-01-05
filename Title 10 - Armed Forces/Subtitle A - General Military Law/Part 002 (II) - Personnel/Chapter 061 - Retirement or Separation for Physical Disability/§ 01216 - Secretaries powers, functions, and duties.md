@@ -8,7 +8,7 @@
 
 &emsp;(2) the percentage of disability of any such member at the time of his separation from active duty;
 
-&emsp;(3) the suitability of any member for reappointment, reenlistment, or reentry uponactive duty in an armed force under his jurisdiction; and
+&emsp;(3) the suitability of any member for reappointment, reenlistment, or reentry upon active duty in an armed force under his jurisdiction; and
 
 &emsp;(4) the entitlement to, and payment of, disability severance pay to any member of an armed force under his jurisdiction.
 

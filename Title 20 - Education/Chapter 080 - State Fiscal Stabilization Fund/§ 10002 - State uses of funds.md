@@ -36,7 +36,7 @@
 
 #### (1) In general
 
-&emsp;The Governor shall use 18.2 percent of the State's allocation under section 10001(d) of this title for public safety and other government services, which may include assistance for elementary and secondary education and public institutions of higher education, and for modernization, renovation, or repair of public school facilities and institutions of higher education facilities, including modernization, renovation, and repairs that are consistent with a recognized green building rating system.
+&emsp;The Governor shall use 18.2 percent of the State's allocation under section 10001(d) of this title for public safety and other government services, which may include assistance for elementary and secondary education and public institutions of higher education, and for modernization, renovation, or repair ofpublic school facilities and institutions of higher education facilities, including modernization, renovation, and repairs that are consistent with a recognized green building rating system.
 
 #### (2) Availability to all institutions of higher education
 

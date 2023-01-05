@@ -2,7 +2,7 @@
 
 #### (a) Determination by Secretary of necessity; interest subsidy payments; effective date
 
-Whenever he determines such action to be necessary in furtherance of the purposes set forth in section 501 of the Emergency Home Finance Act of 1970, the Secretary is authorized to make, and to contract to make, periodic assistance payments on behalf of families of middle income. The assistance shall be accomplished through interest subsidy payments to the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation (hereinafter referred to as "the investor") with respect to mortgages meeting the special requirements specified in this section and made after July 24, 1970.
+Whenever he determines such action to be necessary in furtherance of the purposes set forth in section 501 of the Emergency Home Finance Act of 1970, the Secretary is authorized to make, and to contract to make, periodic assistance payments on behalf of families of middle income. The assistance shall be accomplished through interest subsidy payments to the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation (hereinafter referred to as "the investor") with respect to mortgages meeting the special requirementsspecified in this section and made after July 24, 1970.
 
 #### (b) Qualifications of mortgagor for assistance payments
 
@@ -38,7 +38,7 @@ The Secretary shall prescribe such regulations as he deems necessary to assure t
 
 #### (h) Authorization of appropriations; aggregate amount of assistance payment contracts; termination date
 
-(1) There are authorized to be appropriated such sums as may be necessary to enable theSecretary to make interest subsidy payments under contracts entered into under this section. The aggregate amount of contracts to make such payments shall not exceed amounts approved in appropriation Acts, and payments pursuant to such contracts shall not exceed $105,000,000 during the first year of such contracts prior to July 1, 1971, which amount shall be increased by an additional $105,000,000 during the first year of an additional number of such contracts on July 1 of each of the years 1971 and 1972.
+(1) There are authorized to be appropriated such sums as may be necessary to enable the Secretary to make interest subsidy payments under contracts entered into under this section. The aggregate amount of contracts to make such payments shall not exceed amounts approved in appropriation Acts, and payments pursuant to such contracts shall not exceed $105,000,000 during the first year of such contracts prior to July 1, 1971, which amount shall be increased by an additional $105,000,000 during the first year of an additional number of such contracts on July 1 of each of the years 1971 and 1972.
 
 (2) No interest subsidy payments under this section shall be made after June 30, 1973, except pursuant to contracts entered into on or before such date.
 

@@ -52,7 +52,7 @@ The Secretary shall award grants under this section on the basis of the followin
 
 &emsp;(1) The ability of the applicant to carry out the proposed activities.
 
-&emsp;(2) The extent to which the applicant will coordinate the activities of the Center with other entities as appropriate, such as State and local governments, utilities, institutions of higher education, and National Laboratories.
+&emsp;(2) The extent to which the applicant will coordinate the activities of the Center with other entities as appropriate, such as Stateand local governments, utilities, institutions of higher education, and National Laboratories.
 
 &emsp;(3) The appropriateness of the applicant's outreach program for carrying out the program described in this section.
 
@@ -74,7 +74,7 @@ In carrying out this section, the Secretary shall require cost-sharing in accord
 
 #### (3) Additional extension
 
-&emsp;If a grantee receives an extension under paragraph (2), the grantee shall be evaluated again during the second year of the extension. The Secretary shall terminate any grant that does not receive a positive evaluation. If anevaluation is positive, the Secretary may extend the grant for a final additional period of 3 additional years beyond the original extension.
+&emsp;If a grantee receives an extension under paragraph (2), the grantee shall be evaluated again during the second year of the extension. The Secretary shall terminate any grant that does not receive a positive evaluation. If an evaluation is positive, the Secretary may extend the grant for a final additional period of 3 additional years beyond the original extension.
 
 #### (4) Limitation
 

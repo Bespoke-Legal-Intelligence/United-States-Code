@@ -12,7 +12,7 @@
 
 (d) Section 972(b) of this title excludes from computation of an officer's years of service for purposes of this section any time identified with respect to that officer under that section.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 552, §8926; Pub. L. 86–197, §1(8), Aug. 25, 1959, 73 Stat. 426; Pub. L.101–189, div. A, title VI, §652(a)(7), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 104–106, div. A, title V, §561(d)(4)(B), Feb. 10, 1996, 110 Stat. 323; renumbered §9326 and amended Pub. L. 115–232, div. A, title VIII, §§806(b)(13), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840; Pub. L. 116–283, div. A, title IX, §923(c)(19), Jan. 1, 2021, 134 Stat. 3812.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 552, §8926; Pub. L. 86–197, §1(8), Aug. 25, 1959, 73 Stat. 426; Pub. L. 101–189, div. A, title VI, §652(a)(7), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 104–106, div. A, title V, §561(d)(4)(B), Feb. 10, 1996, 110 Stat. 323; renumbered §9326 and amended Pub. L. 115–232, div. A, title VIII, §§806(b)(13), 809(a), Aug. 13, 2018, 132 Stat. 1833, 1840; Pub. L. 116–283, div. A, title IX, §923(c)(19), Jan. 1, 2021, 134 Stat. 3812.)
 
 Historical and Revision Notes
 

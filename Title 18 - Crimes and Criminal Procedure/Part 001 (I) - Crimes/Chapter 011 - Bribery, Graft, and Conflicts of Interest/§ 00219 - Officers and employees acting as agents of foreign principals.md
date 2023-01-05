@@ -12,7 +12,7 @@
 
 #### References in Text
 
-The Foreign Agents Registration Act of 1938, as amended, referred to in subsec. (a), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. Section 6 of the Foreign Agents Registration Act of 1938 is classified to section 616 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
+The Foreign Agents Registration Act of 1938, as amended, referred to in subsec. (a), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. Section 6 of the Foreign Agents Registration Act of 1938 is classified to section 616 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 611 of Title 22 and Tables.
 
 The Lobbying Disclosure Act of 1995, referred to in subsec. (a), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§1601 et seq.) of Title 2, The Congress. Section 3(6) of the Act is classified to section 1602(6) of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 2 and Tables.
 
@@ -26,7 +26,7 @@ A prior section 219 was renumbered section 214.
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–647 substituted "Government" for "Governments" before "thereof".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–646, §30(1), designated first par. as subsec. (a) and amended it generally, which prior to amendment read as follows: "Whoever, being a public official of the United States in the executive, legislative, or judicial branch of the Government or inany agency of the United States, including the District of Columbia, is or acts as an agent of a foreign principal required to register under the Foreign Agents Registration Act of 1938, as amended, shall be fined not more than $10,000 or imprisoned for not more than two years, or both."
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §30(1), designated first par. as subsec. (a) and amended it generally, which prior to amendment read as follows: "Whoever, being a public official of the United States in the executive, legislative, or judicial branch of the Government or in any agency of the United States, including the District of Columbia, is or acts as an agent of a foreign principal required to register under the Foreign Agents Registration Act of 1938, as amended, shall be fined not more than $10,000 or imprisoned for not more than two years, or both."
 
 Subsec. (b). Pub. L. 99–646, §30(2), designated second par. as subsec. (b).
 

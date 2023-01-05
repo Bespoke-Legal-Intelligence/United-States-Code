@@ -34,7 +34,7 @@ An alien over 18 years of age who is residing in the United States pursuant to a
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original a reference to this Act, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original a reference to this Act, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 

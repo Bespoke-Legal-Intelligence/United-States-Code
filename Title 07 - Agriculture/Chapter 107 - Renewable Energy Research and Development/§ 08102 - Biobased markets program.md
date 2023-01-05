@@ -106,7 +106,7 @@
 
 #### (C) Information provided
 
-&emsp;&emsp;Information provided pursuant to subparagraph (B)(v) <sup>1</sup> with respect to a material or item shall be considered to be provided for another item made with the same material or item.
+&emsp;&emsp;Information provided pursuant to subparagraph (B)(v) <sup>1</sup> with respect to a material or item shall be considered to be provided foranother item made with the same material or item.
 
 #### (D) Prohibition
 
@@ -320,7 +320,7 @@ A procuring agency (as defined in subsection (a)(1)) shall not establish regulat
 
 #### (l) Biobased product inclusion
 
-In this section, the term "biobased product" (as defined in section 8101 of this title) includes, with respect to forestry materials, forest products that meet biobased content requirements,notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.
+In this section, the term "biobased product" (as defined in section 8101 of this title) includes, with respect to forestry materials, forest products that meet biobased content requirements, notwithstanding the market share the product holds, the age of the product, or whether the market for the product is new or emerging.
 
 #### (m) Rural development mission area
 
@@ -416,7 +416,7 @@ The BioPreferred program—established by the Farm Security and Rural Investment
 
 The Federal Government, with leadership from the Department of Agriculture (USDA), has made significant strides in implementing the BioPreferred program. It is one of the key elements in my efforts to promote sustainable acquisition throughout the Government under \[former\] Executive Order 13514 of October 5, 2009 (Federal Leadership in Environmental, Energy, and Economic Performance). Further efforts will drive innovation and economic growth and create jobs at marginal cost to the American public.
 
-The goal of this memorandum is to ensure that executive departments and agencies (agencies) effectivelyexecute Federal procurement requirements for biobased products, including those requirements identified in \[former\] Executive Order 13514 and prescribed in the 2002 Farm Bill, as amended by the 2008 Farm Bill. It is vital that these efforts are in accord and carefully coordinated with other Federal procurement requirements.
+The goal of this memorandum is to ensure that executive departments and agencies (agencies) effectively execute Federal procurement requirements for biobased products, including those requirements identified in \[former\] Executive Order 13514 and prescribed in the 2002 Farm Bill, as amended by the 2008 Farm Bill. It is vital that these efforts are in accord and carefully coordinated with other Federal procurement requirements.
 
 Therefore, I direct that agencies take the following steps to significantly increase Federal procurement of biobased and other sustainable products.
 

@@ -476,7 +476,7 @@ Report on Accountability for War Crimes, Crimes Against Humanity, and Genocide i
 
 &emsp;"(1)
 
-In general.—The Secretary of State shall submit a report on war crimes, crimes against humanity, and genocide in Syria to the appropriate congressional committees not later than 90 days after the date of the enactment of this Act \[Aug. 13, 2018\] and another such report not later than 180 days after the Secretary of State determines that the violence in Syria has ceased.
+In general.—The Secretary of State shall submit a report on war crimes, crimes against humanity, and genocide in Syria to the appropriate congressional committees not later than 90 days after thedate of the enactment of this Act \[Aug. 13, 2018\] and another such report not later than 180 days after the Secretary of State determines that the violence in Syria has ceased.
 
 &emsp;"(2)
 

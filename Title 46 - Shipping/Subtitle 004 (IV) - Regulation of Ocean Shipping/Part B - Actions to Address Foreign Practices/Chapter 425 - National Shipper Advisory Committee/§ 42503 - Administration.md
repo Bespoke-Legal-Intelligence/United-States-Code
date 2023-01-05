@@ -122,7 +122,7 @@ Consultation, Advice, Reports, and Recommendations.—
 
 &emsp;(1)
 
-Consultation.—Before taking any significant action, the Commission shall consult with, and consider the information, advice, and recommendations of, the Committee if the function of the Committee is to advise theCommission on matters related to the significant action.
+Consultation.—Before taking any significant action, the Commission shall consult with, and consider the information, advice, and recommendations of, the Committee if the function of the Committee is to advise the Commission on matters related to the significant action.
 
 &emsp;(2)
 

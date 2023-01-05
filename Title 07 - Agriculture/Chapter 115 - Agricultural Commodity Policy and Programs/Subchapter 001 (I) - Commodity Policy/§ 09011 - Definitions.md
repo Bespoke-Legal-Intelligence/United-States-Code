@@ -12,7 +12,7 @@ In this subchapter and subchapter II:
 
 #### (3) Agriculture risk coverage guarantee
 
-&emsp;The term "agriculture risk coverage guarantee", with respect to a covered commodity for a crop year, means the amount determined by the Secretary under section 9017(c) of this title.
+&emsp;The term "agriculture risk coverage guarantee", with respect to a covered commodityfor a crop year, means the amount determined by the Secretary under section 9017(c) of this title.
 
 #### (4) Base acres
 
@@ -58,7 +58,7 @@ In this subchapter and subchapter II:
 
 &emsp;The term "extra long staple cotton" means cotton that—
 
-&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid of the species, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed forvarious end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
+&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid of the species, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
 
 &emsp;&emsp;(B) is ginned on a roller-type gin or, if authorized by the Secretary, ginned on another type gin for experimental purposes.
 
@@ -226,5 +226,5 @@ Pub. L. 115–123, div. F, §60101(a)(12), Feb. 9, 2018, 132 Stat. 311, provided
 
 #### Popcorn Acreage
 
-Pub. L. 108–7, div. A, title VII, §767, Feb. 20, 2003, 117 Stat. 48, as amended by Pub. L. 113–79, title I, §1609(c), Feb. 7, 2014, 128 Stat. 709, provided that: "Notwithstanding any other provision of law, for purposes of administering subtitle A of title I of the Agricultural Act of 2014 \[7 U.S.C. 9011 et seq.\], acreage planted to, or prevented from being planted to, popcorn shall be considered as acreage planted to, or prevented from being planted to, corn: <i>Provided</i>, That if a farm program payment yield for corn is otherwise established for a farm under such subtitle, the same yield shall be used for the acreage on the farm planted to, or prevented from being planted to, popcorn: <i>Provided further</i>, That with respect to all other farms, the farm program payment yield for such popcorn acreage shall be established by the Secretary on a fair and equitable basis to reflect the farm program payment yields for corn on similar farms in the area."
+Pub. L. 108–7, div. A, title VII, §767, Feb. 20, 2003, 117 Stat. 48, as amended by Pub. L. 113–79, title I, §1609(c), Feb. 7, 2014, 128 Stat. 709, provided that: "Notwithstanding any other provision of law, for purposes of administering subtitle A of title I of the Agricultural Act of 2014 \[7 U.S.C. 9011 et seq.\], acreage planted to, or prevented from being planted to, popcorn shall be considered as acreage planted to, or prevented from being planted to, corn: <i>Provided</i>, That if a farm program payment yield for corn is otherwise established for a farm under such subtitle, the same yield shall be used for the acreage on the farm planted to, or prevented from being planted to, popcorn: <i>Provided further</i>, That with respect to all other farms, the farm program payment yield for such popcorn acreage shall be established bythe Secretary on a fair and equitable basis to reflect the farm program payment yields for corn on similar farms in the area."
 

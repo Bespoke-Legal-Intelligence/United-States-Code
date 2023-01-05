@@ -101,6 +101,7 @@ Format.—The report under paragraph (1) shall be formatted by each rank, type o
 - [&sect; 02118 - Selection boards; submission of reports](%C2%A7%2002118%20-%20Selection%20boards%3B%20submission%20of%20reports.md)
 - [&sect; 02119 - Failure of selection for promotion](%C2%A7%2002119%20-%20Failure%20of%20selection%20for%20promotion.md)
 - [&sect; 02120 - Special selection boards; correction of errors](%C2%A7%2002120%20-%20Special%20selection%20boards%3B%20correction%20of%20errors.md)
+- [&sect; 02120a - Special selection review boards](%C2%A7%2002120a%20-%20Special%20selection%20review%20boards.md)
 - [&sect; 02121 - Promotions; appointments](%C2%A7%2002121%20-%20Promotions%3B%20appointments.md)
 - [&sect; 02122 - Removal of officer from list of selectees for promotion](%C2%A7%2002122%20-%20Removal%20of%20officer%20from%20list%20of%20selectees%20for%20promotion.md)
 - [&sect; 02123 - Promotions; acceptance; oath of office](%C2%A7%2002123%20-%20Promotions%3B%20acceptance%3B%20oath%20of%20office.md)

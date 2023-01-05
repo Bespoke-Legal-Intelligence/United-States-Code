@@ -26,7 +26,7 @@ Section 905 of this title, referred to in pars. (1) and (2), was repealed by Pub
 
 Par. (6). Pub. L. 115–334, §6602(b)(7)(B)–(D), struck out par. (6) which read as follows: "shares of the capital stock of the Rural Telephone Bank purchased by the United States pursuant to section 946(a) of this title and moneys received from said bank upon retirement of said shares of stock in accordance with the provisions of subchapter IV of this chapter, which said shares and moneys shall be assets of the fund."
 
-<b>1996</b>—Pub. L. 104–127 struck out "(a)" before "There is hereby" in introductory provisions and struck out "notwithstanding section 903(a) of this title," before "all collections" in par. (3).
+<b>1996</b>—Pub. L. 104–127 struck out "(a)" before "There is hereby" in introductory provisions and struck out"notwithstanding section 903(a) of this title," before "all collections" in par. (3).
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–354 substituted "Secretary" for "Administrator".
 

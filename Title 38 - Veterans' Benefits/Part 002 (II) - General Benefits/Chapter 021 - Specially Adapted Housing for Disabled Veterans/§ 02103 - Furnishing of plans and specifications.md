@@ -2,7 +2,7 @@
 
 (a)
 
-Plans and Specifications.—The Secretary is authorized to furnish to individuals eligiblefor assistance under this chapter, without cost to the individuals, model plans and specifications of suitable housing units.
+Plans and Specifications.—The Secretary is authorized to furnish to individuals eligible for assistance under this chapter, without cost to the individuals, model plans and specifications of suitable housing units.
 
 (b)
 

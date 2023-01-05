@@ -202,7 +202,7 @@ Ineligible prisoners.—A prisoner is ineligible to receive time credits under t
 
 &emsp;&emsp;&emsp;(l) Section 2442, relating to the recruitment or use of child soldiers.
 
-&emsp;&emsp;&emsp;(li) An offense described in section 3559(c)(2)(F), for which the offender was sentenced to a term of imprisonment of more than 1 year, if the offender has a previous conviction, for which the offender served a term of imprisonment of more than 1 year, for a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111), voluntary manslaughter (as described in section 1112), assault with intent to commit murder (as described in section 113(a)), aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242), abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)), kidnapping (as described in chapter 55), carjacking (as described in section 2119), arson (as described in section 844(f)(3), (h), or (i)), or terrorism (as described in chapter 113B).
+&emsp;&emsp;&emsp;(li) An offense described in section 3559(c)(2)(F), for which the offender was sentenced to a term of imprisonment of more than 1 year, if the offender has a previous conviction, for which the offender served a term of imprisonment of more than 1 year, for a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111), voluntary manslaughter (as described in section 1112), assault with intent to commit murder (as described in section 113(a)), aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242), abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)), kidnapping (as described in chapter 55), carjacking (as described in section 2119), arson (as described in section844(f)(3), (h), or (i)), or terrorism (as described in chapter 113B).
 
 &emsp;&emsp;&emsp;(lii) Section 57(b) of the Atomic Energy Act of 1954 (42 U.S.C. 2077(b)), relating to the engagement or participation in the development or production of special nuclear material.
 
@@ -216,7 +216,7 @@ Ineligible prisoners.—A prisoner is ineligible to receive time credits under t
 
 &emsp;&emsp;&emsp;(lvii) Section 60123(b) of title 49, relating to damaging or destroying a pipeline facility, but only if the conduct which led to the conviction involved a substantial risk of death or serious bodily injury.
 
-&emsp;&emsp;&emsp;(lviii) Section 401(a) of the Controlled Substances Act (21 U.S.C. 841), relating to manufacturing or distributing a controlledsubstance in the case of a conviction for an offense described in subparagraph (A), (B), or (C) of subsection (b)(1) of that section for which death or serious bodily injury resulted from the use of such substance.
+&emsp;&emsp;&emsp;(lviii) Section 401(a) of the Controlled Substances Act (21 U.S.C. 841), relating to manufacturing or distributing a controlled substance in the case of a conviction for an offense described in subparagraph (A), (B), or (C) of subsection (b)(1) of that section for which death or serious bodily injury resulted from the use of such substance.
 
 &emsp;&emsp;&emsp;(lix) Section 276(a) of the Immigration and Nationality Act (8 U.S.C. 1326), relating to the reentry of a removed alien, but only if the alien is described in paragraph (1) or (2) of subsection (b) of that section.
 
@@ -252,7 +252,7 @@ In general.—A prisoner is ineligible to apply time credits under subparagraph 
 
 &emsp;&emsp;&emsp;(ii)
 
-Proceedings.—The Attorney General, in consultation with the Secretary of Homeland Security, shall ensure that any alien described in section 212 or 237 of the Immigration and Nationality Act (8 U.S.C. 1182, 1227) who seeks to earn time credits are subject to proceedings described in section 238(a) of that Act (8 U.S.C. 1228(a)) at a date as early as practicable during the prisoner's incarceration.
+Proceedings.—The Attorney General, in consultation with the Secretary of Homeland Security, shall ensure that any alien described in section 212 or 237 of theImmigration and Nationality Act (8 U.S.C. 1182, 1227) who seeks to earn time credits are subject to proceedings described in section 238(a) of that Act (8 U.S.C. 1228(a)) at a date as early as practicable during the prisoner's incarceration.
 
 &emsp;(5)
 

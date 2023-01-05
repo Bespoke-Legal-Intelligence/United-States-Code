@@ -28,7 +28,7 @@ Special Consideration for Certain Functions.—The guidelines and procedures req
 
 &emsp;&emsp;(F) has been performed poorly, as determined by a contracting officer during the 5-year period preceding the date of such determination, because of excessive costs or inferior quality; or
 
-&emsp;(2) is a new requirement, with particular emphasis given to a new requirement that is similar to a function previously performed byDepartment of Defense civilian employees or is a function closely associated with the performance of an inherently governmental function.
+&emsp;(2) is a new requirement, with particular emphasis given to a new requirement that issimilar to a function previously performed by Department of Defense civilian employees or is a function closely associated with the performance of an inherently governmental function.
 
 (c)
 
@@ -106,7 +106,7 @@ Pub. L. 112–81, §938(2), redesignated subsec. (e) as (g).
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) ofPub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Prohibition on Establishing Goals or Quotas for Conversion of Functions To Performance by Department of Defense Civilian Employees
 

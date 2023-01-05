@@ -4,7 +4,7 @@
 
 In General.—Each State rail plan shall, at a minimum, contain the following:
 
-&emsp;(1) An inventory of the existing overall rail transportation system and rail services and facilities within the State and an analysis of therole of rail transportation within the State's surface transportation system.
+&emsp;(1) An inventory of the existing overall rail transportation system and rail services and facilities within the State and an analysis of the role of rail transportation within the State's surface transportation system.
 
 &emsp;(2) A review of all rail lines within the State, including proposed high-speed rail corridors and significant rail line segments not currently in service.
 
@@ -18,7 +18,7 @@ In General.—Each State rail plan shall, at a minimum, contain the following:
 
 &emsp;(7) An identification of rail infrastructure issues within the State that reflects consultation with all relevant stakeholders.
 
-&emsp;(8) A review of major passenger and freight intermodal rail connections and facilities within the State, including seaports, and prioritized options to maximize service integration and efficiency between rail and other modes of transportation within the State.
+&emsp;(8) A review of major passenger and freight intermodal rail connections and facilities within the State, including seaports, andprioritized options to maximize service integration and efficiency between rail and other modes of transportation within the State.
 
 &emsp;(9) A review of publicly funded projects within the State to improve rail transportation safety and security, including all major projects funded under section 130 of title 23.
 

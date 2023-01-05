@@ -70,7 +70,7 @@ For purposes of this section—
 
 &emsp;(6) Any biomass energy produced by a municipal waste energy project which may be retained for use by the owner or operator of such project shall be considered to be sold at such price as the Secretary of Energy determines.
 
-&emsp;(7) Not later than 90 days after June 30, 1980, the Secretary of Energy shall prescribe, byrule, the manner of determining the fuel displaced by the sale of any biomass energy, and the price of the fuel displaced.
+&emsp;(7) Not later than 90 days after June 30, 1980, the Secretary of Energy shall prescribe, by rule, the manner of determining the fuel displaced by the sale of any biomass energy, and the price of the fuel displaced.
 
 (Pub. L. 96–294, title II, §234, June 30, 1980, 94 Stat. 699.)
 

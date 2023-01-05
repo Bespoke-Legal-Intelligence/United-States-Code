@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Treasury may pay to the Foundation from the interest and earnings ofthe fund such sums as the Board determines are necessary and appropriate to enable the Foundation to carry out the purposes of this chapter.
+The Secretary of the Treasury may pay to the Foundation from the interest and earnings of the fund such sums as the Board determines are necessary and appropriate to enable the Foundation to carry out the purposes of this chapter.
 
 #### (b) Audits by GAO
 

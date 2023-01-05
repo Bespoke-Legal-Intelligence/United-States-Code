@@ -36,7 +36,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;(A) accept, retain, and use funds, personnel, services, and property from a collaborating party and provide personnel, services, and property to a collaborating party;
 
-&emsp;(B) use funds received from a collaborating party in accordance with subparagraph (A) to hire personnel to carry out the agreement who will not be subject to full-time-equivalent restrictions of the agency;
+&emsp;(B) use funds received from a collaborating party in accordance with subparagraph (A) tohire personnel to carry out the agreement who will not be subject to full-time-equivalent restrictions of the agency;
 
 &emsp;(C) to the extent consistent with any applicable agency requirements or standards of conduct, permit an employee or former employee of the laboratory to participate in an effort to commercialize an invention made by the employee or former employee while in the employment or service of the Government; and
 
@@ -74,7 +74,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;(B) give preference to business units located in the United States which agree that products embodying inventions made under the cooperative research and development agreement or produced through the use of such inventions will be manufactured substantially in the United States and, in the case of any industrial organization or other person subject to the control of a foreign company or government, as appropriate, take into consideration whether or not such foreign government permits United States agencies, organizations, or other persons to enter into cooperative research and development agreements and licensing agreements.
 
-(5)(A) If the head of the agency or his designee desires an opportunity to disapprove or require the modification of any such agreement presented by the director of a Government-operatedlaboratory, the agreement shall provide a 30-day period within which such action must be taken beginning on the date the agreement is presented to him or her by the head of the laboratory concerned.
+(5)(A) If the head of the agency or his designee desires an opportunity to disapprove or require the modification of any such agreement presented by the director of a Government-operated laboratory, the agreement shall provide a 30-day period within which such action must be taken beginning on the date the agreement is presented to him or her by the head of the laboratory concerned.
 
 (B) In any case in which the head of an agency or his designee disapproves or requires the modification of an agreement presented by the director of a Government-operated laboratory under this section, the head of the agency or such designee shall transmit a written explanation of such disapproval or modification to the head of the laboratory concerned.
 
@@ -112,7 +112,7 @@ As used in this section—
 
 > &emsp;but such term does not include any facility covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
 
-&emsp;(3) the term "joint work statement" means a proposal prepared for a Federal agency by the director of a Government-owned, contractor-operated laboratory describing the purpose and scope of a proposed cooperativeresearch and development agreement, and assigning rights and responsibilities among the agency, the laboratory, and any other party or parties to the proposed agreement; and
+&emsp;(3) the term "joint work statement" means a proposal prepared for a Federal agency by the director of a Government-owned, contractor-operated laboratory describing the purpose and scope of a proposed cooperative research and development agreement, and assigning rights and responsibilities among the agency, the laboratory, and any other party or parties to the proposed agreement; and
 
 &emsp;(4) the term "weapon production facility of the Department of Energy" means a facility under the control or jurisdiction of the Secretary of Energy that is operated for national security purposes and is engaged in the production, maintenance, testing, or dismantlement of a nuclear weapon or its components.
 
@@ -174,7 +174,7 @@ Subsec. (d)(1). Pub. L. 102–245 inserted "intellectual property," after "equip
 
 Subsec. (a)(2). Pub. L. 101–189, §3133(a)(1)(B), (C), substituted "(in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for" for "for Government-owned" and struck out "of Federal employees" before "that may be voluntarily".
 
-Subsec. (b). Pub. L. 101–189, §3133(a)(2)(A), (C), inserted ", and, to the extent provided in an agency-approved joint work statement, a Government-owned, contractor-operated laboratory," after "Government-operated Federal laboratory" in introductory provisions and inserted concluding provisions "A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement under subsection (a)(1) of this section mayuse or obligate royalties or other income accruing to such laboratory under such agreement with respect to any invention only (i) for payments to inventors; (ii) for the purposes described in section 3710c(a)(1)(B)(i), (ii), and (iv) of this title; and (iii) for scientific research and development consistent with the research and development mission and objectives of the laboratory."
+Subsec. (b). Pub. L. 101–189, §3133(a)(2)(A), (C), inserted ", and, to the extent provided in an agency-approved joint work statement, a Government-owned, contractor-operated laboratory," after "Government-operated Federal laboratory" in introductory provisions and inserted concluding provisions "A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement under subsection (a)(1) of this section may use or obligate royalties or other income accruing to such laboratory under such agreement with respect to any invention only (i) for payments to inventors; (ii) for the purposes described in section 3710c(a)(1)(B)(i), (ii), and (iv) of this title; and (iii) for scientific research and development consistent with the research and development mission and objectives of the laboratory."
 
 Subsec. (b)(2). Pub. L. 101–189, §3133(a)(2)(B), substituted "a laboratory employee" for "a Federal employee".
 
@@ -188,7 +188,7 @@ Subsec. (c)(5)(C). Pub. L. 101–189, §3133(a)(6), added subpar. (C).
 
 Subsec. (c)(7). Pub. L. 101–189, §3133(a)(7), added par. (7).
 
-Subsec. (d)(2). Pub. L. 101–189, §3133(a)(8)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the term 'laboratory' means a facility or group of facilities owned, leased, or otherwise used by a Federal agency, a substantial purpose of which is the performance of research, development, or engineering by employees of the Federal Government."
+Subsec. (d)(2). Pub. L. 101–189, §3133(a)(8)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the term 'laboratory' means a facility or group of facilities owned, leased, or otherwise used by a Federal agency, a substantial purpose of which is theperformance of research, development, or engineering by employees of the Federal Government."
 
 Subsec. (d)(3). Pub. L. 101–189, §3133(a)(8)(A), (C), added par. (3).
 
@@ -211,6 +211,10 @@ Definition.—In this subsection, the term 'cooperative research and development
 "(B)
 
 Retroactive effect.—Clause (ii) \[sic\] of section 12(c)(7)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(c)(7)(B)), as added by subsection (a) of this section, shall apply with respect to any cooperative research and development agreement that is in effect as of the day before the date of enactment of this Act \[Nov. 15, 2021\]."
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
 #### Review of Cooperative Research and Development Agreement Procedures
 

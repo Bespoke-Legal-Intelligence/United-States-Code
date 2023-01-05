@@ -178,7 +178,7 @@ Transition Rule.—
 
 &emsp;(1)
 
-In general.—Pending the implementation of the rulemaking required by section13908, the Secretary may register a person under this section—
+In general.—Pending the implementation of the rulemaking required by section 13908, the Secretary may register a person under this section—
 
 &emsp;&emsp;(A) as a motor common carrier if such person would have been issued a certificate to provide transportation as a motor common carrier under this subtitle on December 31, 1995; and
 
@@ -216,7 +216,7 @@ In general.—On and after the transition termination date, the Secretary—
 
 &emsp;&emsp;(B) shall register applicants under this section as motor carriers; and
 
-&emsp;&emsp;(C) shall issue any motor carrier registered under this section after that date a motor carrier certificate of registration that specifies whether the holder of the certificate may provide transportation of persons, household goods, other property, or any combination thereof.
+&emsp;&emsp;(C) shall issue any motor carrier registered under this section after that date a motorcarrier certificate of registration that specifies whether the holder of the certificate may provide transportation of persons, household goods, other property, or any combination thereof.
 
 &emsp;(2)
 
@@ -264,7 +264,7 @@ Registration as Freight Forwarder or Broker Required.—A motor carrier register
 
 (j)
 
-Mexico-Domiciled Motor Carriers.—Notwithstanding any other provision of this section,upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by denying or imposing limitations on a request for registration or capping the number of requests for registration by Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.
+Mexico-Domiciled Motor Carriers.—Notwithstanding any other provision of this section, upon an order in accordance with section 324(a) of the United States-Mexico-Canada Agreement Implementation Act, the Secretary shall carry out the relief specified by denying or imposing limitations on a request for registration or capping the number of requests for registration by Mexico-domiciled motor carriers of cargo to operate beyond the municipalities along the United States-Mexico international border and the commercial zones of those municipalities as directed.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119 Stat. 1725, 1753, 1762; Pub. L. 110–291, §2, July 30, 2008, 122 Stat. 2915; Pub. L. 112–141, div. C, title II, §§32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, 126 Stat. 777, 781, 783, 820, 827; Pub. L. 114–94, div. A, title V, §5508(a)(1), Dec. 4, 2015, 129 Stat. 1554; Pub. L. 116–113, title III, §326(a), Jan. 29, 2020, 134 Stat. 60.)
 
@@ -392,7 +392,7 @@ Pub. L. 109–59, title IV, §4308, Aug. 10, 2005, 119 Stat. 1774, provided that
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub.L. 111–314, set out as a note under section 101 of this title.
 
 #### Written Proficiency Examination
 
@@ -486,7 +486,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, as amended by 
 
 &emsp;&emsp;"(ii) such on-site inspections shall cover at least 50 percent of estimated truck traffic in any year.
 
-&emsp;"(2) requires a full safety compliance review of the carrier consistent with the safety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, and gives the motor carrier a satisfactory rating, before the carrier is granted permanent operating authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border, and requires that any such safety compliance review take placewithin 18 months of that motor carrier being granted conditional operating authority, provided that—
+&emsp;"(2) requires a full safety compliance review of the carrier consistent with the safety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, and gives the motor carrier a satisfactory rating, before the carrier is granted permanent operating authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border, and requires that any such safety compliance review take place within 18 months of that motor carrier being granted conditional operating authority, provided that—
 
 &emsp;&emsp;"(A) Mexican motor carriers with three or fewer commercial vehicles need not undergo onsite compliance review; however 50 percent of all compliance reviews of all Mexican motor carriers shall be conducted on-site; and
 
@@ -544,7 +544,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, as amended by 
 
 &emsp;&emsp;"(C) the requirement of subparagraph (a)(2) has not been met by transferring experienced inspectors from other parts of the United States to the United States-Mexico border, undermining the level of inspection coverage and safety elsewhere in the United States;
 
-&emsp;&emsp;"(D) the Federal Motor Carrier Safety Administration has implemented a policy to ensure compliance with hours-of-service rules under part 395 of title 49, Code of Federal Regulations, by Mexicanmotor carriers seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border;
+&emsp;&emsp;"(D) the Federal Motor Carrier Safety Administration has implemented a policy to ensure compliance with hours-of-service rules under part 395 of title 49, Code of Federal Regulations, by Mexican motor carriers seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border;
 
 &emsp;&emsp;"(E) the information infrastructure of the Mexican government is sufficiently accurate, accessible, and integrated with that of United States enforcement authorities to allow United States authorities to verify the status and validity of licenses, vehicle registrations, operating authority and insurance of Mexican motor carriers while operating in the United States, and that adequate telecommunications links exist at all United States-Mexico border crossings used by Mexican motor carrier commercial vehicles, and in all mobile enforcement units operating adjacent to the border, to ensure that licenses, vehicle registrations, operating authority and insurance information can be easily and quickly verified at border crossings or by mobile enforcement units;
 
@@ -598,7 +598,7 @@ Memorandum for the Secretary of Transportation
 
 Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium in whole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days' advance notice to the Congress is required whenever the removal or modification applies to a foreign contiguous country or political subdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
 
-As set forth in the Statement of Administrative Action regarding the North American Free Trade Agreement (NAFTA) that I submitted to the Congress on November 3, 1993, the moratorium with respect to Mexico will be lifted in phases to coincide with the schedule ofliberalization in the relevant provisions of the NAFTA. The NAFTA specifically states that the moratorium will not apply to the provision of cross-border charter or tour bus services as of the date of entry into force of the Agreement.
+As set forth in the Statement of Administrative Action regarding the North American Free Trade Agreement (NAFTA) that I submitted to the Congress on November 3, 1993, the moratorium with respect to Mexico will be lifted in phases to coincide with the schedule of liberalization in the relevant provisions of the NAFTA. The NAFTA specifically states that the moratorium will not apply to the provision of cross-border charter or tour bus services as of the date of entry into force of the Agreement.
 
 This is to give public notice that, pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. section 10922(l)(2)(A) \[see former 49 U.S.C. 10922(m)(2)(A)\], on November 3, 1993, I gave the Congress notice of my intention to make a limited modification to the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of Mexico. This modification will take effect on January 1, 1994, the 60th day after my notice to the Congress.
 

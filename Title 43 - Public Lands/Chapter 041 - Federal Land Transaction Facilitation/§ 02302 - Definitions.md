@@ -10,7 +10,7 @@ In this chapter:
 
 &emsp;The term "federally designated area" means land in Alaska and the eleven contiguous Western States (as defined in section 1702(o) of this title) that is within the boundary of—
 
-&emsp;&emsp;(A) a national monument, area of critical environmental concern, national conservation area, national riparian conservation area, national recreation area, national scenic area, research natural area, nationaloutstanding natural area, priority species and habitats designated in a land use plan in accordance with subpart E (entitled "Fish and Wildlife") of part I of Appendix C of Bureau of Land Management Land Use Planning Handbook H-1601-1 (Rel 1-1693), a special recreation management area, or a national natural landmark managed by the Bureau of Land Management;
+&emsp;&emsp;(A) a national monument, area of critical environmental concern, national conservation area, national riparian conservation area, national recreation area, national scenic area, research natural area, national outstanding natural area, priority species and habitats designated in a land use plan in accordance with subpart E (entitled "Fish and Wildlife") of part I of Appendix C of Bureau of Land Management Land Use Planning Handbook H-1601-1 (Rel 1-1693), a special recreation management area, or a national natural landmark managed by the Bureau of Land Management;
 
 &emsp;&emsp;(B) a unit of the National Park System;
 
@@ -54,11 +54,11 @@ In this chapter:
 
 #### References in Text
 
-The Wilderness Act, referred to in par. (2)(E)(i), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of Title 16 and Tables.
+The Wilderness Act, referred to in par. (2)(E)(i), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of Title 16 and Tables.
 
-The Wild and Scenic Rivers Act, referred to in par. (2)(E)(iii), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§1271 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of Title 16 and Tables.
+The Wild and Scenic Rivers Act, referred to in par. (2)(E)(iii), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, which is classified generally to chapter 28 (§1271 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of Title 16 and Tables.
 
-The National Trails System Act, referred to in par. (2)(E)(iv), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, as amended, which is classified generally to chapter 27 (§1241 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of Title 16 and Tables.
+The National Trails System Act, referred to in par. (2)(E)(iv), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, which is classified generally to chapter 27 (§1241 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1241 of Title 16 and Tables.
 
 #### Amendments
 

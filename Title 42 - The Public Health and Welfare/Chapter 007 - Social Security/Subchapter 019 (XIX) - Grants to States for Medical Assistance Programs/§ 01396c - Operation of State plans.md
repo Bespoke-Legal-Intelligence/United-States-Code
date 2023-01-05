@@ -14,5 +14,5 @@ If the Secretary, after reasonable notice and opportunity for hearing to the Sta
 
 #### Constitutionality
 
-For constitutionality of section 121(a) of Pub. L. 89–97, amending this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of section 121(a) of Pub. L. 89–97, enacting this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 

@@ -18,7 +18,7 @@ In general.—The President shall transmit the notification required by subsecti
 
 &emsp;(2)
 
-Exception.—The limitation in paragraph (1) shall not apply to a reduction, consolidation, or withdrawal of nuclear weapons of theUnited States that are based in Europe made to ensure the safety, security, reliability, and credibility of such weapons.
+Exception.—The limitation in paragraph (1) shall not apply to a reduction, consolidation, or withdrawal of nuclear weapons of the United States that are based in Europe made to ensure the safety, security, reliability, and credibility of such weapons.
 
 (c)
 

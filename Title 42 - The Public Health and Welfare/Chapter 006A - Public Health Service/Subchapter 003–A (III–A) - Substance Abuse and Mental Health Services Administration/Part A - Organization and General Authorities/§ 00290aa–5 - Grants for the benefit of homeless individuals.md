@@ -36,9 +36,9 @@ No entity may receive a grant, contract, or cooperative agreement under subsecti
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $41,304,000 for each of fiscal years 2018 through 2022.
+There is authorized to be appropriated to carry out this section $41,304,000 for each of fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title V, §506, formerly §512, as added Pub. L. 98–509, title II, §206(a), Oct. 19, 1984, 98 Stat. 2361; amended Pub. L. 100–77, title VI, §613(a), (b), July 22, 1987, 101 Stat. 524; renumbered §506 and amended Pub. L. 102–321, title I, §106, July 10, 1992, 106 Stat. 334; Pub. L. 106–310, div. B, title XXXII, §3202, Oct. 17, 2000, 114 Stat. 1190; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 114–255, div. B, title IX, §9001, Dec. 13, 2016, 130 Stat. 1234.)
+(July 1, 1944, ch. 373, title V, §506, formerly §512, as added Pub. L. 98–509, title II, §206(a), Oct. 19, 1984, 98 Stat. 2361; amended Pub. L. 100–77, title VI, §613(a), (b), July 22, 1987, 101 Stat. 524; renumbered §506 and amended Pub. L. 102–321, title I, §106, July 10, 1992, 106 Stat. 334; Pub. L. 106–310, div. B, title XXXII, §3202, Oct. 17, 2000, 114 Stat. 1190; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 114–255, div. B, title IX, §9001, Dec. 13, 2016, 130 Stat. 1234; Pub. L. 117–328, div. FF, title I, §1211, Dec. 29, 2022, 136 Stat. 5661.)
 
 #### <b>Editorial Notes</b>
 
@@ -53,6 +53,8 @@ A prior section 290aa–5, act July 1, 1944, ch. 373, title V, §507, formerly �
 A prior section 506 of act July 1, 1944, which was classified to section 224 of this title, was successively renumbered by subsequent acts, and transferred, see section 238c of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–328 substituted "2023 through 2027" for "2018 through 2022".
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–255, §9001(1), substituted "substance use disorder" for "substance abuse".
 

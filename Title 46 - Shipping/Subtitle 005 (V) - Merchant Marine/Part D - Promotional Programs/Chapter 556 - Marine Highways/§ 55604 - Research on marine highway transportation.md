@@ -2,17 +2,23 @@
 
 The Secretary of Transportation, in consultation with the Administrator of the Environmental Protection Agency, may conduct research on marine highway transportation, regarding—
 
-&emsp;(1) the environmental and transportation benefits to be derived from marine highway transportation alternatives for other forms of transportation;
+&emsp;(1) the economic effects of marine highway transportation on the United States economy;
 
-&emsp;(2) technology, vessel design, and other improvements that would reduce emissions, increase fuel economy, and lower costs of marine highway transportation and increase the efficiency of intermodal transfers; and
+&emsp;(2) the effects of marine highway transportation, including with respect to the provision of additional transportation options, on rural areas;
 
-&emsp;(3) solutions to impediments to marine highway transportation projects designated under section 55601.
+&emsp;(3) the environmental and transportation benefits to be derived from marine highway transportation alternatives for other forms of transportation;
 
-(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1761; amended Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8332(d)(4), (5), Jan. 1, 2021, 134 Stat. 4705.)
+&emsp;(4) technology, vessel design, and other improvements that would reduce emissions, increase fuel economy, and lower costs of marine highway transportation and increase the efficiency of intermodal transfers; and
+
+&emsp;(5) solutions to impediments to marine highway transportation projects designated under section 55601.
+
+(Added Pub. L. 110–140, title XI, §1121(a), Dec. 19, 2007, 121 Stat. 1761; amended Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8332(d)(4), (5), Jan. 1, 2021, 134 Stat. 4705; Pub. L. 117–263, div. C, title XXXV, §3521(c), Dec. 23, 2022, 136 Stat. 3078.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pars. (1) to (5). Pub. L. 117–263 added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
 
 <b>2021</b>—Pub. L. 116–283 substituted "marine highway" for "short sea" in section catchline and wherever appearing in text.
 

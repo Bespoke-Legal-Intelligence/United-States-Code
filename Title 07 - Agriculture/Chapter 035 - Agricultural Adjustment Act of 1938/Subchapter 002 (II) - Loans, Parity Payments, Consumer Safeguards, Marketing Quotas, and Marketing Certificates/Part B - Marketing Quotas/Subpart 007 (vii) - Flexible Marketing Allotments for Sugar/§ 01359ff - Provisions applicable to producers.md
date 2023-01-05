@@ -58,7 +58,7 @@
 
 #### (B) Determination
 
-&emsp;&emsp;The Secretary shall determine, for each State allotment described in subparagraph\(A), whether the production of sugarcane, in the absence of proportionate shares, will be greater than the quantity needed to enable processors to fill the allotment and provide a normal carryover inventory of sugar.
+&emsp;&emsp;The Secretary shall determine, for each State allotment described in subparagraph (A), whether the production of sugarcane, in the absence of proportionate shares, will be greater than the quantity needed to enable processors to fill the allotment and provide a normal carryover inventory of sugar.
 
 #### (3) Establishment of proportionate shares
 
@@ -82,7 +82,7 @@
 
 &emsp;For purposes of this subsection, the acreage base for each sugarcane-producing farm shall be determined by the Secretary, as follows:
 
-&emsp;&emsp;(A) The acreage base for any farm shall be the number of acres that is equal to the average of the acreage planted and considered planted for harvest for sugar or seed on the farm in the 2 highest of the 1999, 2000, and 2001 crop years.
+&emsp;&emsp;(A) The acreage base for any farm shall be the number of acres that is equal to the average of the acreage planted and considered planted for harvest for sugar or seed on thefarm in the 2 highest of the 1999, 2000, and 2001 crop years.
 
 &emsp;&emsp;(B) Acreage planted to sugarcane that producers on a farm were unable to harvest to sugarcane for sugar or seed because of drought, flood, other natural disaster, or other condition beyond the control of the producers may be considered as harvested for the production of sugar or seed for purposes of this paragraph.
 

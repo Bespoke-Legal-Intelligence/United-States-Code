@@ -6,7 +6,7 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 #### (b) Tier 2 tax
 
-In addition to other taxes, there is hereby imposed on the income of each employee a tax equal to the percentage determined under section 3241 for any calendar year of the compensation received during such calendar year by such employee for services rendered by such employee.
+In addition to other taxes, there is hereby imposed on the income of each employee a taxequal to the percentage determined under section 3241 for any calendar year of the compensation received during such calendar year by such employee for services rendered by such employee.
 
 #### (c) Cross reference
 
@@ -73,7 +73,7 @@ Amendment by Pub. L. 107–90 applicable to calendar years beginning after Dec. 
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IX, §9031(b), Dec. 22, 1987, 101 Stat. 1330–296, provided that: "The amendment made bythis section \[amending this section\] shall apply with respect to compensation received after December 31, 1987."
+Pub. L. 100–203, title IX, §9031(b), Dec. 22, 1987, 101 Stat. 1330–296, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to compensation received after December 31, 1987."
 
 #### Effective and Termination Dates of 1983 Amendment
 
@@ -115,7 +115,7 @@ Act Aug. 31, 1954, ch. 1164, pt. IV, §407, 68 Stat. 1042, as amended by act Oct
 
 #### Separability
 
-Pub. L. 93–69, title III, §301, July 10, 1973, 87 Stat. 168, provided that: "If any provision of this Act \[amending this section, sections 3202, 3211, and 3221 of this title, sections 228b, 228c, and 228e of Title 45, Railroads, and section 15a of former Title 49, and enacting provisions set out as notes under this section, and sections 228b, 228c, 228f, and 228o of Title 45\] or the application thereof to any person or circumstances should be held invalid, the remainder of such Act or the application of suchprovision to other persons or circumstances shall not be affected thereby."
+Pub. L. 93–69, title III, §301, July 10, 1973, 87 Stat. 168, provided that: "If any provision of this Act \[amending this section, sections 3202, 3211, and 3221 of this title, sections 228b, 228c, and 228e of Title 45, Railroads, and section 15a of former Title 49, and enacting provisions set out as notes under this section, and sections 228b, 228c, 228f, and 228o of Title 45\] or the application thereof to any person or circumstances should be held invalid, the remainder of such Act or the application of such provision to other persons or circumstances shall not be affected thereby."
 
 #### Penalties and Interest Not Assessed for Failure To Make Timely Payment During Period January 1, 1982, to June 30, 1982, of Taxes Attributable to Amendments by Pub. L. 97–123
 

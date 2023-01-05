@@ -8,15 +8,15 @@ States, State educational agencies, and schools participating in the school lunc
 
 #### (1) In general
 
-&emsp;The Secretary shall incorporate, in the agreement of the Secretary with the State agencies administering programs authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), the express requirements with respect to the operation of the programs to the extent applicable and such other provisions as in the opinion of the Secretary are reasonably necessary or appropriate to effectuate the purposes of this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
+&emsp;The Secretary shall incorporate, in the agreement of the Secretary with the State agencies and Indian Tribal organizations administering programs authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), the express requirements with respect to the operation of the programs to the extent applicable and such other provisions as in the opinion of the Secretary are reasonably necessary or appropriate to effectuate the purposes of this chapter and the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
 
 #### (2) Expectations for use of funds
 
 &emsp;Agreements described in paragraph (1) shall include a provision that—
 
-&emsp;&emsp;(A) supports full use of Federal funds provided to State agencies for the administration of programs authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.); and
+&emsp;&emsp;(A) supports full use of Federal funds provided to State agencies and Indian Tribal organizations for the administration of programs authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.); and
 
-&emsp;&emsp;(B) excludes the Federal funds from State budget restrictions or limitations including, at a minimum—
+&emsp;&emsp;(B) excludes the Federal funds from State and Indian Tribal organization budget restrictions or limitations including, at a minimum—
 
 &emsp;&emsp;&emsp;(i) hiring freezes;
 
@@ -82,7 +82,7 @@ The value of assistance to children under this chapter shall not be considered t
 
 #### (f) Adjustment of national average payment rate for Alaska, Hawaii, territories and possessions, etc.
 
-In providing assistance for breakfasts, lunches, suppers, and supplements served in Alaska, Hawaii, Guam, American Samoa, Puerto Rico, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, the Secretary may establish appropriate adjustments for each such State to the national average payment rates prescribed under sections 1753, 1759a, 1761, and 1766 of this title and section 4 of the Child Nutrition Act of 1966 \[42 U.S.C. 1773\], to reflect the differences between the costs of providing meals and supplements in those States and the costs of providing meals and supplements in all other States.
+In providing assistance for breakfasts, lunches, suppers, and supplements served in Alaska, Hawaii, Guam, American Samoa, Puerto Rico, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands, the Secretary may establish appropriate adjustments for each such State to the national average payment rates prescribed under sections 1753, 1759a, 1761, and 1766 of this title and section 4 of the Child Nutrition Act of 1966 \[42 U.S.C.1773\], to reflect the differences between the costs of providing meals and supplements in those States and the costs of providing meals and supplements in all other States.
 
 #### (g) Criminal penalties
 
@@ -246,7 +246,7 @@ Facilities, equipment, and personnel provided to a school food authority for a p
 
 #### (o) Procurement contracts
 
-In acquiring a good or service for programs under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)), a State, State agency, school, or school food authority may enter into a contract with a person that has provided specification information to the State, State agency, school, or school food authority for use in developing contract specifications for acquiring such good or service.
+In acquiring a good or service for programs under this chapter or the Child Nutrition Act of1966 (42 U.S.C. 1771 et seq.) (other than section 17 of that Act (42 U.S.C. 1786)), a State, State agency, school, or school food authority may enter into a contract with a person that has provided specification information to the State, State agency, school, or school food authority for use in developing contract specifications for acquiring such good or service.
 
 #### (p) Price for a paid lunch
 
@@ -288,7 +288,7 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a school food authority that established an average price for a paid lunch in the previous school year that was equal to or greater than the difference between the total Federal reimbursement for a free lunch and the total Federal reimbursement for a paid lunch, the school food authority shall establish an average price for a paid lunch that is not less than the difference between the total Federal reimbursement for a free lunch and thetotal Federal reimbursement for a paid lunch.
+&emsp;&emsp;&emsp;In the case of a school food authority that established an average price for a paid lunch in the previous school year that was equal to or greater than the difference between the total Federal reimbursement for a free lunch and the total Federal reimbursement for a paid lunch, the school food authority shall establish an average price for a paid lunch that is not less than the difference between the total Federal reimbursement for a free lunch and the total Federal reimbursement for a paid lunch.
 
 #### (ii) Rounding
 
@@ -332,7 +332,7 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 #### (B) Inclusion
 
-&emsp;&emsp;The term "nonprogram food" includes food that is sold in competition with a program established under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
+&emsp;&emsp;The term "nonprogram food" includes food that is sold in competition with a programestablished under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
 
 #### (2) Revenues
 
@@ -352,33 +352,37 @@ In acquiring a good or service for programs under this chapter or the Child Nutr
 
 Any school, institution, service institution, facility, or individual that has been terminated from any program authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.) and is on a list of disqualified institutions and individuals under section 1761 of this title or section 1766(d)(5)(E) of this title may not be approved to participate in or administer any program authorized under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
 
-(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996, 110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412; Pub. L. 107–171, title IV, §4304, May 13, 2002, 116 Stat. 331; Pub. L. 108–265, title I, §§108(b), 114, 115, title II, §203(i)(2), June 30, 2004, 118 Stat. 746, 748, 780; Pub. L. 111–296, title II, §§205, 206, title III, §§361, 362, title IV, §§403, 441(a)(4), Dec. 13, 2010, 124 Stat. 3218, 3220, 3258, 3259, 3261; Pub. L. 114–95, title IX, §9215(nnn), Dec. 10, 2015, 129 Stat. 2188.)
+(June 4, 1946, ch. 281, §12, formerly §11, 60 Stat. 233; July 12, 1952, ch. 699, §1(c), 66 Stat. 591; Pub. L. 87–688, §3(a), Sept. 25, 1962, 76 Stat. 587; renumbered §12 and amended Pub. L. 87–823, §5, Oct. 15, 1962, 76 Stat. 945; Pub. L. 91–248, §1(b), May 14, 1970, 84 Stat. 208; Pub. L. 94–105, §9, Oct. 7, 1975, 89 Stat. 514; Pub. L. 95–166, §§3, 19(c), Nov. 10, 1977, 91 Stat. 1332, 1345; Pub. L. 95–627, §§6(a), 10(a), (b), Nov. 10, 1978, 92 Stat. 3620, 3623; Pub. L. 96–499, title II, §205, Dec. 5, 1980, 94 Stat. 2601; Pub. L. 97–35, title VIII, §§808(a), 813(d), 819(c), Aug. 13, 1981, 95 Stat. 527, 530, 533; Pub. L. 99–500, title III, §§325(a), 326, 373(a), Oct. 18, 1986, 100 Stat. 1783–361, 1783–369, and Pub. L. 99–591, title III, §§325(a), 326, 373(a), Oct. 30, 1986, 100 Stat. 3341–364, 3341–365, 3341–372; Pub. L. 99–661, div. D, title II, §§4205(a), 4206, title V, §4503(a), Nov. 14, 1986, 100 Stat. 4072, 4073, 4081; Pub. L. 100–71, title I, §101(a), July 11, 1987, 101 Stat. 429; Pub. L. 101–147, title III, §§306, 312(1), Nov. 10, 1989, 103 Stat. 914, 916; Pub. L. 103–448, title I, §§112(a)(1), (b)–(d), 113, Nov. 2, 1994, 108 Stat. 4708–4712; Pub. L. 104–193, title VII, §§701(b), 705, Aug. 22, 1996, 110 Stat. 2288, 2290; Pub. L. 105–336, title I, §§104, 107(j)(3)(A), Oct. 31, 1998, 112 Stat. 3147, 3153; Pub. L. 106–224, title II, §242(b)(3), June 20, 2000, 114 Stat. 412; Pub. L. 107–171, title IV, §4304, May 13, 2002, 116 Stat. 331; Pub. L. 108–265, title I, §§108(b), 114, 115, title II, §203(i)(2), June 30, 2004, 118 Stat. 746, 748, 780; Pub. L. 111–296, title II, §§205, 206, title III, §§361, 362, title IV, §§403, 441(a)(4), Dec. 13, 2010, 124 Stat. 3218, 3220, 3258, 3259, 3261; Pub. L. 114–95, title IX, §9215(nnn), Dec. 10, 2015, 129 Stat. 2188; Pub. L. 117–328, div. HH, title IV, §502(a), Dec. 29, 2022, 136 Stat. 5988.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in text, is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title.For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in text, is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (d)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (i), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsec. (i), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (l)(4)(M)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (l)(4)(M)(i), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (l)(4)(M)(iii), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (l)(4)(M)(iii), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (l)(4)(M)(iv), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (l)(4)(M)(iv), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (l)(4)(M)(v), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (l)(4)(M)(vi), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (l)(4)(M)(vi), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–328, §502(a)(1), inserted "and Indian Tribal organizations" after "State agencies" in pars. (1) and (2)(A).
+
+Subsec. (b)(2)(B). Pub. L. 117–328, §502(a)(2), inserted "and Indian Tribal organization" before "budget" in introductory provisions.
 
 <b>2015</b>—Subsec. (d)(4)(A). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7801 of title 20.
 
@@ -436,7 +440,7 @@ Subsec. (d)(4). Pub. L. 104–193, §705(c)(2), (3), redesignated par. (6) as (4
 
 Subsec. (d)(5). Pub. L. 104–193, §705(c)(3), redesignated par. (8) as (5). Former par. (5) redesignated (3).
 
-Subsec. (d)(6), (7). Pub. L. 104–193, §705(c)(3), redesignated pars. (1) and (2) as (6) and (7), respectively.Former pars. (6) and (7) redesignated (4) and (2), respectively.
+Subsec. (d)(6), (7). Pub. L. 104–193, §705(c)(3), redesignated pars. (1) and (2) as (6) and (7), respectively. Former pars. (6) and (7) redesignated (4) and (2), respectively.
 
 Subsec. (d)(8). Pub. L. 104–193, §705(c)(3), redesignated par. (8) as (5).
 
@@ -518,7 +522,7 @@ Subsec. (i). Pub. L. 101–147, §306(b)(4), struck out "(42 U.S.C. 1771 et seq.
 
 Pub. L. 101–147, §306(a)(2), amended subsec. (i), as amended identically by Pub. L. 99–500 and 99–591, §326, and Pub. L. 99–661, §4206, to read as if only the amendment by Pub. L. 99–661 was enacted, resulting in no change in text, see 1986 Amendment note below.
 
-<b>1987</b>—Subsec. (d)(5). Pub. L. 100–71 amended par. (5) generally. Prior to amendment, par. (5) read as follows: " 'School' means (A) any public or nonprofit private school of high school grade or under, (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor), and (C) with respect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico. For purposes of clauses (A) and (B) of this paragraph, the term 'nonprofit', whenapplied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26. On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available."
+<b>1987</b>—Subsec. (d)(5). Pub. L. 100–71 amended par. (5) generally. Prior to amendment, par. (5) read as follows: " 'School' means (A) any public or nonprofit private school of high school grade or under, (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor), and (C) with respect to the Commonwealth of Puerto Rico, nonprofit child care centers certified as such by the Governor of Puerto Rico. For purposes of clauses (A) and (B) of this paragraph, the term 'nonprofit', when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26. On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available."
 
 <b>1986</b>—Subsec. (d)(5). Pub. L. 99–661, §4205(a)(2), inserted "On July 1, 1988, and each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available."
 
@@ -610,7 +614,7 @@ Pub. L. 99–500, title III, §325(c), Oct. 18, 1986, 100 Stat. 1783–361, and 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by sections 808 and 819 of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by section 813 ofPub. L. 97–35 effective 90 days after Aug. 13, 1981, see section 820(a)(3)–(5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
+Amendment by sections 808 and 819 of Pub. L. 97–35 effective Oct. 1, 1981, and amendment by section 813 of Pub. L. 97–35 effective 90 days after Aug. 13, 1981, see section 820(a)(3)–(5) of Pub. L. 97–35, set out as a note under section 1753 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -627,6 +631,26 @@ Amendment by Pub. L. 87–688 applicable only with respect to funds appropriated
 #### Effective Date of 1952 Amendment
 
 Amendment by act July 12, 1952, effective only with respect to funds appropriated after July 12, 1952, see section 1(d) of act July 12, 1952, set out as a note under section 1753 of this title.
+
+#### Nationwide Waiver for School Year 2022–2023
+
+Pub. L. 117–158, §2(d), June 25, 2022, 136 Stat. 1310, provided that:
+
+"(1)
+
+In general.—For purposes of school year 2022-2023, the Secretary of Agriculture may establish waivers under section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l))—
+
+&emsp;"(A) on a nationwide basis; and
+
+&emsp;"(B) without regard to the requirements under paragraphs (1), (2), and (3) of such section that a State or eligible service provider shall submit an application for a waiver request.
+
+"(2)
+
+Sunset.—A nationwide waiver established by the Secretary of Agriculture under section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)) pursuant to paragraph (1) shall not be in effect after June 30, 2023."
+
+#### Operationally Ready
+
+Pub. L. 117–158, §5, June 25, 2022, 136 Stat. 1312, provided that: "The Secretary of Agriculture shall ensure that technical assistance is made available to States and school food authorities for purposes of assisting parents and school leaders with respect to the transition of operating school meal programs not pursuant to a waiver under section 2(d) \[of Pub. L. 117–158, set out as a note above\] or section 2202 of the Families First Coronavirus Response Act (42 U.S.C. 1760 note; Public Law 116–127)."
 
 #### Waiver Exception for School Closures Due to COVID–19
 
@@ -656,7 +680,7 @@ Waiver.—In this section, the term 'qualified COVID–19 waiver' means a waiver
 
 #### National School Lunch Program Requirement Waivers Addressing COVID–19
 
-Pub. L. 116–127, div. B, title II, §2202, Mar. 18, 2020, 134 Stat. 185, as amended by Pub. L. 116–159, div. D, title VI, §4602(a), Oct. 1, 2020, 134 Stat. 745; Pub. L. 117–43, div. D, title I, §3102(a), Sept. 30, 2021, 135 Stat. 380, provided that:
+Pub. L. 116–127, div. B, title II, §2202, Mar. 18, 2020, 134 Stat. 185, as amended by Pub. L. 116–159, div. D, title VI, §4602(a), Oct. 1, 2020, 134 Stat. 745; Pub. L. 117–43, div. D, title I, §3102(a), Sept. 30, 2021, 135 Stat. 380; Pub. L. 117–158, §2(b), June 25, 2022, 136 Stat. 1309, provided that:
 
 "(a)
 
@@ -664,11 +688,11 @@ Nationwide Waiver.—
 
 &emsp;"(1)
 
-In general.—Notwithstanding any other provision of law, the Secretary may establish a waiver for all States under section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)), for purposes of—
+In general.—Notwithstanding any other provision of law, the Secretary may establish a waiver for all States under section 12(l) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(l)) due to the COVID–19 pandemic, for purposes of—
 
-&emsp;&emsp;"(A) providing meals and meal supplements under a qualified program; and
+&emsp;&emsp;"(A) providing meals and meal supplements under a qualified program; or
 
-&emsp;&emsp;"(B) carrying out subparagraph (A) with appropriate safety measures with respect to COVID–19, as determined by the Secretary.
+&emsp;&emsp;"(B) ensuring continuity of program operation under a qualified program.
 
 &emsp;"(2)
 
@@ -696,15 +720,43 @@ Meal Pattern Waiver.—Notwithstanding paragraph (4)(A) of section 12(l) of the 
 
 "(d)
 
-Reports.—Each State that receives a waiver under subsection (a), (b), or (c), shall, not later than 1 year after the date such State received such waiver, submit a report to the Secretary that includes the following:
-
-&emsp;"(1) A summary of the use of such waiver by the State and eligible service providers.
-
-&emsp;"(2) A description of whether such waiver resulted in improved services to children.
+Reports.—Each State that receives a waiver under subsection (a), (b), or (c), shall, not later than 1 year after the date such State received such waiver, submit a report to the Secretary that includes a summary of the use of such waiver by the State and eligible service providers.
 
 "(e)
 
-Sunset.—The authority of the Secretary to establish or grant a waiver under this section shall expire on June 30, 2022: <i>Provided</i>, That such waivers shall only apply to school year 2021–2022.
+Sunset.—
+
+&emsp;"(1)
+
+Nationwide waivers.—The authority of the Secretary to establish or grant a waiver under subsection (a) shall expire on September 30, 2022.
+
+&emsp;"(2)
+
+Waiver restriction.—After June 30, 2022, a waiver established or granted under subsection (a) shall only apply to schools or summer food service program food service sites—
+
+&emsp;&emsp;"(A) operating—
+
+&emsp;&emsp;&emsp;"(i) the qualified program described in subsection (f)(1)(D); or
+
+&emsp;&emsp;&emsp;"(ii) the option described in section 13(a)(8) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(a)(8)); and
+
+&emsp;&emsp;"(B) not operating the qualified program described in subsection (f)(1)(A).
+
+&emsp;"(3)
+
+Other waivers.—
+
+&emsp;&emsp;"(A)
+
+Child and adult care food program waiver.—The authority of the Secretary to establish or grant a waiver under subsection (b) shall expire on June 30, 2022.
+
+&emsp;&emsp;"(B)
+
+Meal pattern waiver.—The authority of the Secretary to establish or grant a waiver under subsection (c) shall expire on June 30, 2023.
+
+&emsp;"(4)
+
+Limitations.—A waiver authorized by the Secretary under this section shall not be in effect after the date on which the authority of the Secretary to establish or grant that waiver under this subsection expires.
 
 "(f)
 
@@ -768,5 +820,5 @@ Report.—Not later than 180 days after the date of the enactment of this Act, t
 
 #### Study of Cost Accounting Requirements
 
-Pub. L. 94–105, §21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from delaying or withholding or causing any State to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
+Pub. L. 94–105, §21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from delaying or withholding or causing anyState to delay or withhold payments for reimbursement of per-meal costs on basis of noncompliance with cost accounting procedures until requirements of subsec. (b) of this section have been met, and called for a study by Secretary of additional personnel and training needs of States, school districts, and schools resulting from requirement of full cost accounting procedures, such report with recommendations to be submitted to appropriate committees of Congress within one year after Oct. 7, 1975.
 

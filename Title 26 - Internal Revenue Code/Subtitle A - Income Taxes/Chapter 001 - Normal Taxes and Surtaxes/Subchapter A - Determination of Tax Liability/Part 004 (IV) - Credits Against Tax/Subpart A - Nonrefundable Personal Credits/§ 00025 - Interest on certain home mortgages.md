@@ -158,7 +158,7 @@ For purposes of this section—
 
 #### (C) Applicable tax limit
 
-&emsp;&emsp;For purposes of this paragraph, the term "applicable tax limit" means the limitationimposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23 and 25D).
+&emsp;&emsp;For purposes of this paragraph, the term "applicable tax limit" means the limitation imposed by section 26(a) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23 and 25D).
 
 #### (2) Indebtedness not treated as certified where certain requirements not in fact met
 
@@ -230,13 +230,13 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;If for any calendar year any mortgage credit certificate program which satisfies procedural requirements with respect to volume limitations prescribed by the Secretary fails to meet the requirements of paragraph (2) of subsection (d), such requirements shall be treated as satisfied with respect to any certified indebtedness of such program, but the applicable State ceiling under subsection (d) of section 146 for the State in which such program operates shall be reduced by 1.25 times the correction amount with respect to such failure. Such reduction shall be applied to such State ceiling for the calendar year following the calendar year in which the Secretary determines the correction amount with respect to such failure.
+&emsp;If for any calendar year any mortgage credit certificate program which satisfies procedural requirements with respect to volume limitations prescribed by the Secretary fails to meetthe requirements of paragraph (2) of subsection (d), such requirements shall be treated as satisfied with respect to any certified indebtedness of such program, but the applicable State ceiling under subsection (d) of section 146 for the State in which such program operates shall be reduced by 1.25 times the correction amount with respect to such failure. Such reduction shall be applied to such State ceiling for the calendar year following the calendar year in which the Secretary determines the correction amount with respect to such failure.
 
 #### (2) Correction amount
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term "correction amount" means an amountequal to the excess credit amount divided by 0.25.
+&emsp;&emsp;For purposes of paragraph (1), the term "correction amount" means an amount equal to the excess credit amount divided by 0.25.
 
 #### (B) Excess credit amount
 
@@ -308,7 +308,7 @@ A prior section 25 was renumbered section 26 of this title.
 
 &emsp;"(ii) in the case of a taxable year to which section 26(a)(2) does not apply, the limitation imposed by section 26(a)(1) for the taxable year reduced by the sum of the credits allowable under this subpart (other than this section and sections 23, 24, 25A(i), 25B, 25D, 30, 30B, 30D, and 1400C)."
 
-<b>2010</b>—Subsec. (e)(1)(C). Pub. L. 111–148, §10909(b)(2)(B), (c), as amended by Pub. L. 111–312, temporarily struckout "23," after "and sections" in cls. (i) and (ii). See Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Subsec. (e)(1)(C). Pub. L. 111–148, §10909(b)(2)(B), (c), as amended by Pub. L. 111–312, temporarily struck out "23," after "and sections" in cls. (i) and (ii). See Effective and Termination Dates of 2010 Amendment note below.
 
 <b>2009</b>—Subsec. (e)(1)(C)(ii). Pub. L. 111–5, §1144(b)(1)(B), inserted "30B," after "30,".
 
@@ -494,7 +494,7 @@ Amendment by section 4005(g)(7) of Pub. L. 100–647 applicable to financing pro
 
 Amendment by section 1301(f)(1) of Pub. L. 99–514 applicable to nonissued bond amounts elected after Aug. 15, 1986, and amendment by section 1301(f)(2) of Pub. L. 99–514 applicable to certificates issued with respect to nonissued bond amounts elected after Aug. 15, 1986, see section 1311(b) of Pub. L. 99–514, as amended, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
-Amendment by section 1862(a)–(d)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1862(a)–(d)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 

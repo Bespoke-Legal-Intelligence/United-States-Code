@@ -24,7 +24,7 @@ Powers.—While engaged in the performance of official duties, an officer or age
 
 &emsp;&emsp;(D) serve warrants and subpoenas issued under the authority of the United States;
 
-&emsp;&emsp;(E) conduct investigations, on and off the property in question, of offenses that mayhave been committed against property owned or occupied by the Federal Government or persons on the property; and
+&emsp;&emsp;(E) conduct investigations, on and off the property in question, of offenses that may have been committed against property owned or occupied by the Federal Government or persons on the property; and
 
 &emsp;&emsp;(F) carry out such other activities for the promotion of homeland security as the Secretary may prescribe.
 
@@ -138,7 +138,7 @@ In subsection (g)(2)(B), the words "similar offense" are substituted for "like o
 
 #### References in Text
 
-The Homeland Security Act of 2002, referred to in subsecs. (a) and (b)(1), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
+The Homeland Security Act of 2002, referred to in subsecs. (a) and (b)(1), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter1 (§101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
 #### Amendments
 
@@ -154,7 +154,7 @@ Powers.—Special police appointed under this section have the same powers as sh
 
 "(c)
 
-Detail.—On the application of the head of a department or agency of the Government having property of the Government under its administration and control, the Administrator or an official of the Administration authorized by the Administrator may detail special police for the protection of the property and, if the Administrator considers it desirable, may extend tothe property the applicability of regulations and enforce them as provided in this section.
+Detail.—On the application of the head of a department or agency of the Government having property of the Government under its administration and control, the Administrator or an official of the Administration authorized by the Administrator may detail special police for the protection of the property and, if the Administrator considers it desirable, may extend to the property the applicability of regulations and enforce them as provided in this section.
 
 "(d)
 
@@ -234,7 +234,7 @@ Contents.—The regulations under this subsection shall—
 
 &emsp;&emsp;"(B) require contractors to provide information regarding any relevant felony convictions when submitting bids or proposals; and
 
-&emsp;&emsp;"(C) provide guidelines for the contracting officer to assess present responsibility, mitigating factors, and the risk associated with the previous conviction, and allow the contracting officer to award a contract under certain circumstances.
+&emsp;&emsp;"(C) provide guidelines for the contracting officer to assess present responsibility, mitigating factors,and the risk associated with the previous conviction, and allow the contracting officer to award a contract under certain circumstances.
 
 "(b)
 

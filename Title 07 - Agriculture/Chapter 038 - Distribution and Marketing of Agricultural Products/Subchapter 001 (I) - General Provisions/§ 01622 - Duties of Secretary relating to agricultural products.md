@@ -122,7 +122,7 @@ This Act, referred to in subsecs. (f) and (h)(6), is act Aug. 14, 1946, ch. 966,
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -172,7 +172,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Transfer of Functions
 
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwiseprovided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
+Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.
 
 #### Regional Cattle and Carcass Grading Correlation and Training Centers
 
@@ -214,7 +214,7 @@ Pub. L. 106–387, §1(a) \[title VII, §729\], Oct. 28, 2000, 114 Stat. 1549, 1
 
 &emsp;"(1) carry out the proviso under 7 U.S.C. 1622(f); or
 
-&emsp;"(2) carry out 7 U.S.C. 1622(h) unless the Secretary of Agriculture inspects and certifies agricultural processing equipment, and imposes a fee for the inspection and certification, in a manner that is similar to the inspection and certification of agricultural products under that section, as determined by the Secretary: <i>Provided</i>, That this provision shall not affect the authority of the Secretary to carry out the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), or the Egg Products Inspection Act (21 U.S.C. 1031 et seq.)."
+&emsp;"(2) carry out 7 U.S.C. 1622(h) unless the Secretary of Agriculture inspects and certifies agricultural processing equipment, and imposes a fee for the inspection and certification, in a manner that is similar to the inspection and certification of agriculturalproducts under that section, as determined by the Secretary: <i>Provided</i>, That this provision shall not affect the authority of the Secretary to carry out the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), or the Egg Products Inspection Act (21 U.S.C. 1031 et seq.)."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -376,7 +376,7 @@ Report.—The Secretary of Agriculture shall report to Congress on the research 
 
 Section 304 of 1961 Reorg. Plan No. 7, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, Government Organization and Employees, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission or to Secretary of Commerce by sections 103 and 202 of 1961 Reorg. Plan No. 7.
 
-United States Maritime Commission abolished by 1950 Reorg. Plan No. 21, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix of Title 5, Government Organization and Employees, which transferred part of its functions and part of functions of its Chairman to Federal Maritime Board and Chairman thereof, such Board having created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder ofsuch Commission's functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator, head of Maritime Administration, which likewise was established by Plan in Department of Commerce with provision that chairman of said Federal Maritime Board should, ex officio, be such Administrator.
+United States Maritime Commission abolished by 1950 Reorg. Plan No. 21, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix of Title 5, Government Organization and Employees, which transferred part of its functions and part of functions of its Chairman to Federal Maritime Board and Chairman thereof, such Board having created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of such Commission's functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator, head of Maritime Administration, which likewise was established by Plan in Department of Commerce with provision that chairman of said Federal Maritime Board should, ex officio, be such Administrator.
 
 Executive and administrative functions of Maritime Commission transferred to Chairman of Maritime Commission by 1949 Reorg. Plan No. 6, eff. Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1069, set out in the Appendix to Title 5.
 

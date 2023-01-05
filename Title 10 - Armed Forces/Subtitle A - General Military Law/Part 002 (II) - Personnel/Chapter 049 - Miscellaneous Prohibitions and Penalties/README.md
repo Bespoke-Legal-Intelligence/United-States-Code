@@ -126,7 +126,7 @@ Covered individuals.—An individual described in this paragraph is the followin
 
 &emsp;&emsp;"(A) An officer of the Armed Forces in grade O–9 or higher at the time of retirement or separation from the Armed Forces.
 
-&emsp;&emsp;"(B) A civilian employee of the Department of Defense who had a civilian grade equivalent to amilitary grade specified in subparagraph (A) at the time of the employee's retirement or separation from service with the Department.
+&emsp;&emsp;"(B) A civilian employee of the Department of Defense who had a civilian grade equivalent to a military grade specified in subparagraph (A) at the time of the employee's retirement or separation from service with the Department.
 
 "(b)
 

@@ -22,7 +22,7 @@ As used in this chapter—
 
 (10) The term "research" means any type of research to advance the image, desirability, or marketability of cut flowers, potted flowering plants, and foliage plants.
 
-(11) The term "consumer education" means any action to provide information on the careand handling of cut flowers, potted flowering plants, and foliage plants.
+(11) The term "consumer education" means any action to provide information on the care and handling of cut flowers, potted flowering plants, and foliage plants.
 
 (12) The term "marketing" means the sale or other disposition in commerce of cut flowers, potted flowering plants, and foliage plants.
 

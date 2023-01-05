@@ -38,7 +38,7 @@ Limit on extinguishing or taking interest.—A leasehold surrender interest shal
 
 &emsp;(5)
 
-Value of interest.—The value of a leasehold surrender interest in a capital improvement shall be an amount equal to the initial value (construction cost of the capital improvement), increased (or decreased) by the same percentage increase (or decrease) as the percentage increase (or decrease) in the Consumer Price Index, from the date of making the investment in the capital improvement by the concessioner to the date of payment of the value of the leasehold surrender interest, lessdepreciation of the capital improvement as evidenced by the condition and prospective serviceability in comparison with a new unit of like kind.
+Value of interest.—The value of a leasehold surrender interest in a capital improvement shall be an amount equal to the initial value (construction cost of the capital improvement), increased (or decreased) by the same percentage increase (or decrease) as the percentage increase (or decrease) in the Consumer Price Index, from the date of making the investment in the capital improvement by the concessioner to the date of payment of the value of the leasehold surrender interest, less depreciation of the capital improvement as evidenced by the condition and prospective serviceability in comparison with a new unit of like kind.
 
 &emsp;(6)
 
@@ -78,7 +78,7 @@ New concessioner awarded a contract.—A new concessioner awarded a concession c
 
 &emsp;(4)
 
-De novo review of value determination.—If the Secretary, or either party to a value determination proceeding conducted under a Service concession contract issued before November 13, 1998, considers that the value determination decision issued pursuant to the proceeding misinterprets or misapplies relevant contractual requirements or their underlying legal authority, the Secretary or either party may seek, within 180 days after the date of the decision, de novo review of the value determination decision by the United States Court of Federal Claims. The Court of Federal Claims may make an order affirming, vacating, modifying or correcting the determination decision.
+De novo review of value determination.—If the Secretary, or either party to a value determination proceeding conducted under a Service concession contract issued before November 13, 1998, considers that the value determination decision issued pursuant to the proceeding misinterprets or misapplies relevant contractual requirements or their underlying legal authority, the Secretary or either party may seek, within 180 days after thedate of the decision, de novo review of the value determination decision by the United States Court of Federal Claims. The Court of Federal Claims may make an order affirming, vacating, modifying or correcting the determination decision.
 
 (d)
 

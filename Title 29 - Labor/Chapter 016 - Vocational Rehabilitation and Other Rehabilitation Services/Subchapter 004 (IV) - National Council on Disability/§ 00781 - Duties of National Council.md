@@ -14,7 +14,7 @@ The National Council shall—
 
 &emsp;(5) review and evaluate on a continuing basis—
 
-&emsp;&emsp;(A) policies, programs, practices, and procedures concerning individuals with disabilities conducted or assisted by Federal departments and agencies, including programs established or assisted under this chapter or under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\]; and
+&emsp;&emsp;(A) policies, programs, practices, and procedures concerning individuals with disabilities conducted or assisted by Federal departments and agencies, including programs established or assisted under this chapter orunder the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\]; and
 
 &emsp;&emsp;(B) all statutes and regulations pertaining to Federal programs which assist such individuals with disabilities;
 
@@ -46,7 +46,7 @@ The National Council shall—
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(5)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(7), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(7), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 

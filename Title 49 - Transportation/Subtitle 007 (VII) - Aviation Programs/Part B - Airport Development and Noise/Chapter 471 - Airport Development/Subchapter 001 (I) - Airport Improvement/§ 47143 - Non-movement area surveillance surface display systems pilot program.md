@@ -38,7 +38,7 @@ Non-movement area surveillance surface display systems and sensors.—The term "
 
 &emsp;(3)
 
-Qualifying non-movement area surveillance surface display system and sensors.—The term "qualifying non-movement area surveillance surface display system and sensors" means a non-movement area surveillance surface display system that—
+Qualifying non-movement area surveillance surface display system and sensors.—The term "qualifying non-movement area surveillance surface display system andsensors" means a non-movement area surveillance surface display system that—
 
 &emsp;&emsp;(A) provides the required transmit and receive data formats consistent with the National Airspace System architecture at the appropriate service delivery point;
 

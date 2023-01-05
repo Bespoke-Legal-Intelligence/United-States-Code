@@ -72,7 +72,7 @@
 
 #### (2) Rights of Federal regulators
 
-&emsp;The State shall serve prior written notice of any action under paragraph (1) upon the Bureau and the Federal Trade Commission or the appropriate Federal regulator determined under subsection (b) and provide the Bureau and the Federal Trade Commission or appropriate Federal regulator with a copy of itscomplaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Bureau and the Federal Trade Commission or appropriate Federal regulator shall have the right—
+&emsp;The State shall serve prior written notice of any action under paragraph (1) upon the Bureau and the Federal Trade Commission or the appropriate Federal regulator determined under subsection (b) and provide the Bureau and the Federal Trade Commission or appropriate Federal regulator with a copy of its complaint, except in any case in which such prior notice is not feasible, in which case the State shall serve such notice immediately upon instituting such action. The Bureau and the Federal Trade Commission or appropriate Federal regulator shall have the right—
 
 &emsp;&emsp;(A) to intervene in the action;
 
@@ -130,13 +130,13 @@ For the purpose of the exercise by any agency referred to in subsection (b) of i
 
 #### (3) Annual summary reports
 
-&emsp;Each consumer reporting agency described in section 1681a(p) of this title shall submit anannual summary report to the Bureau on consumer complaints received by the agency on identity theft or fraud alerts.
+&emsp;Each consumer reporting agency described in section 1681a(p) of this title shall submit an annual summary report to the Bureau on consumer complaints received by the agency on identity theft or fraud alerts.
 
 #### (g) Bureau regulation of coding of trade names
 
 If the Bureau determines that a person described in paragraph (9) of section 1681s–2(a) of this title has not met the requirements of such paragraph, the Bureau shall take action to ensure the person's compliance with such paragraph, which may include issuing model guidance or prescribing reasonable policies and procedures, as necessary to ensure that such person complies with such paragraph.
 
-(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(l), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112 Stat. 3211; Pub. L. 106–102, title V, §506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442; Pub. L. 108–159, title I, §153, title III, §312(e)(2), title IV, §412(e), title VIII, §811(f), Dec. 4, 2003, 117 Stat. 1966, 1993, 2003, 2012; Pub. L. 111–203, title X, §1088(a)(2)(A)–(C), (10), July 21, 2010, 124 Stat. 2087, 2088.)
+(Pub. L. 90–321, title VI, §621, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1134; amended Pub. L. 98–443, §9(n), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 101–73, title VII, §744(l), Aug. 9, 1989, 103 Stat. 439; Pub. L. 102–242, title II, §212(c), Dec. 19, 1991, 105 Stat. 2300; Pub. L. 102–550, title XVI, §1604(a)(6), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 104–88, title III, §314, Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–208, div. A, title II, §§2416–2418, Sept. 30, 1996, 110 Stat. 3009–450 to 3009–452; Pub. L. 105–347, §6(6), Nov. 2, 1998, 112Stat. 3211; Pub. L. 106–102, title V, §506(a), (b), Nov. 12, 1999, 113 Stat. 1441, 1442; Pub. L. 108–159, title I, §153, title III, §312(e)(2), title IV, §412(e), title VIII, §811(f), Dec. 4, 2003, 117 Stat. 1966, 1993, 2003, 2012; Pub. L. 111–203, title X, §1088(a)(2)(A)–(C), (10), July 21, 2010, 124 Stat. 2087, 2088.)
 
 #### <b>Editorial Notes</b>
 
@@ -210,7 +210,7 @@ Subsec. (e). Pub. L. 106–102, §506(a)(2), added subsec. (e) and struck out he
 
 Pub. L. 104–208, §2416(a), inserted "(1)" after "(a)" and added pars. (2) to (4).
 
-Subsec. (b). Pub. L. 104–208, §2416(b)(2), inserted heading and in introductory provisions substituted "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies, persons who furnish information to such agencies, and users of information that are subject to subsection (d) or (e) of section 1681m of this title shall be enforced under—" for "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies and persons who use consumer reports from such agencies shall be enforced under—".
+Subsec. (b). Pub. L. 104–208, §2416(b)(2), inserted heading and in introductory provisions substituted "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies, persons who use consumer reports from such agencies,persons who furnish information to such agencies, and users of information that are subject to subsection (d) or (e) of section 1681m of this title shall be enforced under—" for "Compliance with the requirements imposed under this subchapter with respect to consumer reporting agencies and persons who use consumer reports from such agencies shall be enforced under—".
 
 Subsec. (c). Pub. L. 104–208, §2417(2), added subsec. (c). Former subsec. (c) redesignated (d).
 

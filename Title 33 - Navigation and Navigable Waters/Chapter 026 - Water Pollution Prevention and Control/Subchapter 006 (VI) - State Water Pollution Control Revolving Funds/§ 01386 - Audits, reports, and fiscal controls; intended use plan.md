@@ -16,7 +16,7 @@ The Administrator shall, at least on an annual basis, conduct or require each St
 
 #### (c) Intended use plan
 
-After providing for public comment and review, each State shall annually prepare a plan identifying the intended uses of the amountsavailable to its water pollution control revolving fund. Such intended use plan shall include, but not be limited to—
+After providing for public comment and review, each State shall annually prepare a plan identifying the intended uses of the amounts available to its water pollution control revolving fund. Such intended use plan shall include, but not be limited to—
 
 &emsp;(1) a list of those projects for construction of publicly owned treatment works on the State's priority list developed pursuant to section 1296 of this title and a list of activities eligible for assistance under sections 1329 and 1330 of this title;
 
@@ -34,7 +34,7 @@ Beginning the first fiscal year after the receipt of payments under this subchap
 
 #### (e) Annual Federal oversight review
 
-The Administrator shall conduct an annual oversight review of each State plan prepared under subsection (c), each State report prepared under subsection (d), and other such materials as are considered necessary and appropriate in carrying out the purposes of this subchapter. After reasonable notice by the Administrator to the State or the recipient of a loan from a water pollution control revolving fund, the State or loan recipient shall make available to the Administrator such records as the Administrator reasonably requires to review and determine compliance with this subchapter.
+The Administrator shall conduct an annual oversight review of each State plan preparedunder subsection (c), each State report prepared under subsection (d), and other such materials as are considered necessary and appropriate in carrying out the purposes of this subchapter. After reasonable notice by the Administrator to the State or the recipient of a loan from a water pollution control revolving fund, the State or loan recipient shall make available to the Administrator such records as the Administrator reasonably requires to review and determine compliance with this subchapter.
 
 #### (f) Applicability of subchapter II provisions
 

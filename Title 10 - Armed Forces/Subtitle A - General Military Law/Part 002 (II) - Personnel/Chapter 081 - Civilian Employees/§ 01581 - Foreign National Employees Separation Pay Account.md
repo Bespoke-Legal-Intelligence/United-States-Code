@@ -14,7 +14,7 @@ Payments From Account.—Amounts in the account shall remain available for expen
 
 (d)
 
-Deobligated Funds.—Any amount in the account that is deobligated shall be available for a period of two years from the date ofdeobligation for recording, adjusting, and liquidating amounts properly chargeable to the liability of the United States for which the obligation was made. Any such deobligated amount remaining at the end of such two-year period shall be canceled.
+Deobligated Funds.—Any amount in the account that is deobligated shall be available for a period of two years from the date of deobligation for recording, adjusting, and liquidating amounts properly chargeable to the liability of the United States for which the obligation was made. Any such deobligated amount remaining at the end of such two-year period shall be canceled.
 
 (e)
 
@@ -32,7 +32,7 @@ Employees Covered.—This section applies only with respect to separation pay of
 
 #### Prior Provisions
 
-A prior section 1581, acts Aug. 10, 1956, ch. 1041, 70A Stat. 118; Sept. 2, 1958, Pub. L. 85–861, §1(34), 72 Stat. 1456; May 29, 1959, Pub. L. 86–36, §3, 73 Stat. 63; Sept. 23, 1959, Pub. L. 86–377, §2, 73 Stat. 701; Oct. 4, 1961, Pub. L. 87–367, title II, §203, 75 Stat. 790; Oct. 11, 1962, Pub. L. 87–793, §1001(b), 76 Stat. 863, provided for appointment of a limited number of civilian research and development personnel and prescribed their relationship to civil service provisions, prior to repeal by Pub. L. 97–295, §1(19)(A), Oct. 12, 1982, 96 Stat. 1290.
+A prior section 1581, acts Aug. 10, 1956, ch. 1041, 70A Stat. 118; Sept. 2, 1958, Pub. L. 85–861, §1(34), 72 Stat. 1456; May 29, 1959, Pub. L. 86–36, §3, 73 Stat. 63; Sept. 23, 1959, Pub. L. 86–377, §2, 73 Stat. 701; Oct. 4, 1961, Pub. L. 87–367, title II, §203, 75 Stat. 790; Oct. 11, 1962, Pub. L. 87–793, §1001(b), 76 Stat. 863, provided for appointment of a limited number of civilian research and development personnel and prescribed their relationship tocivil service provisions, prior to repeal by Pub. L. 97–295, §1(19)(A), Oct. 12, 1982, 96 Stat. 1290.
 
 #### Amendments
 

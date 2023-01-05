@@ -258,5 +258,5 @@ Pub. L. 98–473, title II, §237, Oct. 12, 1984, 98 Stat. 2033, provided that:
 
 "(b) The Attorney General shall, within one hundred and eighty days after the effective date of this Act, declare all fines for which this obligation is unfulfilled to be in criminal default, subject to the civil and criminal remedies established by amendments made by this Act \[see Short Title note set out under section 3551 of this title\]. No interest or monetary penalties shall be charged on any fines subject to this section.
 
-"(c) Not later than one year following the effective date of this Act, the Attorney General shall include in the annual crime report steps taken to implement this Act and the progress achieved in criminal fine collection, including collection data for each judicial district."
+"(c) Not later than one year following the effective date of this Act, the Attorney General shall include inthe annual crime report steps taken to implement this Act and the progress achieved in criminal fine collection, including collection data for each judicial district."
 

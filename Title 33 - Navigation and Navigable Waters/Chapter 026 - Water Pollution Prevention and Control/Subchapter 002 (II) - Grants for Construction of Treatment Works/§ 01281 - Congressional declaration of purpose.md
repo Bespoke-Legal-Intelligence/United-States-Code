@@ -42,11 +42,11 @@ The Administrator shall encourage waste treatment management which combines "ope
 
 &emsp;(B) as appropriate, the works proposed for grant assistance will take into account and allow to the extent practicable the application of technology at a later date which will provide for the reclaiming or recycling of water or otherwise eliminate the discharge of pollutants.
 
-(3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows to the satisfaction of the Administrator that eachsewer collection system discharging into such treatment works is not subject to excessive infiltration.
+(3) The Administrator shall not approve any grant after July 1, 1973, for treatment works under this section unless the applicant shows to the satisfaction of the Administrator that each sewer collection system discharging into such treatment works is not subject to excessive infiltration.
 
 (4) The Administrator is authorized to make grants to applicants for treatment works grants under this section for such sewer system evaluation studies as may be necessary to carry out the requirements of paragraph (3) of this subsection. Such grants shall be made in accordance with rules and regulations promulgated by the Administrator. Initial rules and regulations shall be promulgated under this paragraph not later than 120 days after October 18, 1972.
 
-(5) The Administrator shall not make grants from funds authorized for any fiscal year beginning after September 30, 1978, to any State, municipality, or intermunicipal or interstate agency for the erection, building, acquisition, alteration, remodeling, improvement, or extension of treatment works unless the grant applicant has satisfactorily demonstrated to the Administrator that innovative and alternative wastewater treatment processes and techniques which provide for the reclaiming and reuse of water, otherwise eliminate the discharge of pollutants, and utilize recycling techniques, land treatment, new or improved methods of waste treatment management for municipal and industrial waste (discharged into municipal systems) and the confined disposal of pollutants, so that pollutants will not migrate to cause water or other environmental pollution, have been fully studied and evaluated by the applicant taking into account subsection (d) of this section and taking into account and allowing to the extent practicable the more efficient use of energy and resources.
+(5) The Administrator shall not make grants from funds authorized for any fiscal year beginning after September 30, 1978, to any State, municipality, or intermunicipal or interstate agency for the erection, building, acquisition, alteration, remodeling, improvement, or extension of treatment works unless the grant applicant has satisfactorily demonstrated to the Administrator that innovative and alternative wastewater treatment processes and techniques whichprovide for the reclaiming and reuse of water, otherwise eliminate the discharge of pollutants, and utilize recycling techniques, land treatment, new or improved methods of waste treatment management for municipal and industrial waste (discharged into municipal systems) and the confined disposal of pollutants, so that pollutants will not migrate to cause water or other environmental pollution, have been fully studied and evaluated by the applicant taking into account subsection (d) of this section and taking into account and allowing to the extent practicable the more efficient use of energy and resources.
 
 (6) The Administrator shall not make grants from funds authorized for any fiscal year beginning after September 30, 1978, to any State, municipality, or intermunicipal or interstate agency for the erection, building, acquisition, alteration, remodeling, improvement, or extension of treatment works unless the grant applicant has satisfactorily demonstrated to the Administrator that the applicant has analyzed the potential recreation and open space opportunities in the planning of the proposed treatment works.
 
@@ -76,7 +76,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (1) After December 29, 1981, Federal grants shall not be made for the purpose of providing assistance solely for facility plans, or plans, specifications, and estimates for any proposed project for the construction of treatment works. In the event that the proposed project receives a grant under this section for construction, the Administrator shall make an allowance in such grant for non-Federal funds expended during the facility planning and advanced engineering and design phase at the prevailing Federal share under section 1282(a) of this title, based on the percentage of total project costs which the Administrator determines is the general experience for such projects.
 
-(2)(A) Each State shall use a portion of the funds allotted to such State each fiscal year, butnot to exceed 10 per centum of such funds, to advance to potential grant applicants under this subchapter the costs of facility planning or the preparation of plans, specifications, and estimates.
+(2)(A) Each State shall use a portion of the funds allotted to such State each fiscal year, but not to exceed 10 per centum of such funds, to advance to potential grant applicants under this subchapter the costs of facility planning or the preparation of plans, specifications, and estimates.
 
 (B) Such an advance shall be limited to the allowance for such costs which the Administrator establishes under paragraph (1) of this subsection, and shall be provided only to a potential grant applicant which is a small community and which in the judgment of the State would otherwise be unable to prepare a request for a grant for construction costs under this section.
 
@@ -132,7 +132,7 @@ Subsec. (n). Pub. L. 97–117, §5, added subsec. (n).
 
 Subsec. (o). Pub. L. 97–117, §6, added subsec. (o).
 
-<b>1980</b>—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercialwastes to the extent attributable to the Federal share of the cost of construction.
+<b>1980</b>—Subsec. (h). Pub. L. 96–483, §2(d), struck out text following par. (3), relating to payment to the United States by commercial users of that portion of the cost of construction applicable to treatment of commercial wastes to the extent attributable to the Federal share of the cost of construction.
 
 Subsec. (k). Pub. L. 96–483, §3, added subsec. (k).
 
@@ -154,7 +154,7 @@ Pub. L. 96–483, §2(g), Oct. 21, 1980, 94 Stat. 2361, provided that: "The amen
 
 #### Environmental Protection Agency State and Tribal Assistance Grants
 
-Pub. L. 105–174, title III, May 1, 1998, 112 Stat. 92, provided that: "Notwithstanding any other provision of law, eligible recipients of the funds appropriated to the Environmental Protection Agency in the State and Tribal Assistance Grants account since fiscal year 1997 and hereafter for multi-media or single media grants, other than Performance Partnership Grants authorized pursuant to Public Law 104–134 and Public Law 105–65 \[see Grants to Indian Tribes for Pollution Prevention, Control, and Abatement notes set out below\], for pollution prevention, control, and abatement and related activities have been and shall be those entities eligible for grants under the Agency's organic statutes."
+Pub. L. 105–174, title III, May 1, 1998, 112 Stat. 92, provided that: "Notwithstanding any other provision oflaw, eligible recipients of the funds appropriated to the Environmental Protection Agency in the State and Tribal Assistance Grants account since fiscal year 1997 and hereafter for multi-media or single media grants, other than Performance Partnership Grants authorized pursuant to Public Law 104–134 and Public Law 105–65 \[see Grants to Indian Tribes for Pollution Prevention, Control, and Abatement notes set out below\], for pollution prevention, control, and abatement and related activities have been and shall be those entities eligible for grants under the Agency's organic statutes."
 
 #### Privatization of Infrastructure Assets
 
@@ -178,7 +178,7 @@ Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2912, provided in part: 
 
 #### Wastewater Assistance to Colonias
 
-Pub. L. 104–182, title III, §307, Aug. 6, 1996, 110 Stat. 1688, provided that:
+Pub. L. 104–182, title III, §307, Aug. 6, 1996, 110 Stat. 1688, as amended by Pub. L. 117–263, div. H, title LXXXV, §8503, Dec. 23, 2022, 136 Stat. 3856, provided that:
 
 "(a)
 
@@ -190,6 +190,14 @@ Border state.—The term 'border State' means Arizona, California, New Mexico, a
 
 &emsp;"(2)
 
+Covered entity.—The term 'covered entity' means each of the following:
+
+&emsp;&emsp;"(A) A border State.
+
+&emsp;&emsp;"(B) A local government with jurisdiction over an eligible community.
+
+&emsp;"(3)
+
 Eligible community.—The term 'eligible community' means a low-income community with economic hardship that—
 
 &emsp;&emsp;"(A) is commonly referred to as a colonia;
@@ -198,13 +206,13 @@ Eligible community.—The term 'eligible community' means a low-income community
 
 &emsp;&emsp;"(C) lacks basic sanitation facilities such as household plumbing or a proper sewage disposal system.
 
-&emsp;"(3)
+&emsp;"(4)
 
 Treatment works.—The term 'treatment works' has the meaning provided in section 212(2) of the Federal Water Pollution Control Act (33 U.S.C. 1292(2)).
 
 "(b)
 
-Grants for Wastewater Assistance.—The Administrator of the Environmental Protection Agency and the heads of other appropriate Federal agencies are authorized to award grants to a border State to provide assistance to eligible communities for the planning, design, and construction or improvement of sewers, treatment works, and appropriate connections for wastewater treatment.
+Grants for Wastewater Assistance.—The Administrator of the Environmental Protection Agency and the heads of other appropriate Federal agencies are authorized to award grants to a covered entity to provide assistance to eligible communities for the planning, design, and construction or improvement of sewers, treatment works, and appropriate connections for wastewater treatment.
 
 "(c)
 
@@ -212,11 +220,11 @@ Use of Funds.—Each grant awarded pursuant to subsection (b) shall be used to p
 
 "(d)
 
-Cost Sharing.—The amount of a grant awarded pursuant to this section shall not exceed 50 percent of the costs of carrying out the project that is the subject of the grant.
+Cost Sharing.—The amount of a grant awarded pursuant to this section may not be less than 80 percent of the costs of carrying out the project that is the subject of the grant.
 
 "(e)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $25,000,000 for each of the fiscal years 1997 through 1999."
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $100,000,000 for each of the fiscal years 2023 through 2027."
 
 #### Grants to Indian Tribes for Pollution Prevention, Control and Abatement
 
@@ -244,7 +252,7 @@ Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 762.
 
 Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1372.
 
-Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L.104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \["
+Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That beginning in fiscal year 1996 and each fiscal year thereafter, and notwithstanding any other provision of law, the Administrator is authorized to make grants annually from funds appropriated under this heading \["
 
 Environmental Protection Agency" and "
 
@@ -252,7 +260,7 @@ state and tribal assistance grants"\], subject to such terms and conditions as t
 
 #### State Management of Construction Grant Activities
 
-Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That of the funds appropriated in the Construction Grants and Water Infrastructure/State Revolving Funds accounts since the appropriation for the fiscal year ending September 30, 1992, and hereafter, for making grants for wastewater treatment works construction projects, portions may be provided by the recipients to States for managing construction grant activities, on condition that the States agree to reimburse the recipients from State funding sources".
+Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–299; renumbered title I, Pub. L.104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That of the funds appropriated in the Construction Grants and Water Infrastructure/State Revolving Funds accounts since the appropriation for the fiscal year ending September 30, 1992, and hereafter, for making grants for wastewater treatment works construction projects, portions may be provided by the recipients to States for managing construction grant activities, on condition that the States agree to reimburse the recipients from State funding sources".
 
 #### Grants to Trust Territory of the Pacific Islands, American Samoa, Guam, Northern Mariana Islands, and Virgin Islands; Waiver of Collector Sewers Limitation
 

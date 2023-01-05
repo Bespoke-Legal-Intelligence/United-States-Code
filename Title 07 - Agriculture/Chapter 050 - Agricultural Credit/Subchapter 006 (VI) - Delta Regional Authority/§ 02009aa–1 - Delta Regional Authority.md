@@ -92,7 +92,7 @@ The Authority shall—
 
 &emsp;(2) not later than 220 days after December 21, 2000, establish priorities in a development plan for the region (including 5-year regional outcome targets);
 
-&emsp;(3) assess the needs and assets of the region based on available research, demonstrations, investigations, assessments, and evaluations of the region prepared by Federal, State, and local agencies, universities, local development districts, and other nonprofit groups;
+&emsp;(3) assess the needs and assets of the region based on available research, demonstrations, investigations, assessments, and evaluationsof the region prepared by Federal, State, and local agencies, universities, local development districts, and other nonprofit groups;
 
 &emsp;(4) formulate and recommend to the Governors and legislatures of States that participate in the Authority forms of interstate cooperation;
 
@@ -172,7 +172,7 @@ A Federal agency shall—
 
 &emsp;&emsp;If a State is delinquent in payment of the State's share of administrative expenses of the Authority under this subsection—
 
-&emsp;&emsp;&emsp;(i) no assistance under this subchapter shall be furnished to the State (includingassistance to a political subdivision or a resident of the State); and
+&emsp;&emsp;&emsp;(i) no assistance under this subchapter shall be furnished to the State (including assistance to a political subdivision or a resident of the State); and
 
 &emsp;&emsp;&emsp;(ii) no member of the Authority from the State shall participate or vote in any action by the Authority.
 
@@ -274,7 +274,7 @@ A Federal agency shall—
 
 #### (j) Validity of contracts, loans, and grants
 
-The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4), subsection (i), or sections 202 through 209 of title 18.
+The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that therehas been a violation of any provision under subsection (h)(4), subsection (i), or sections 202 through 209 of title 18.
 
 (Pub. L. 87–128, title III, §382B, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–269; amended Pub. L. 107–171, title VI, §6027(a), (b), May 13, 2002, 116 Stat. 373; Pub. L. 108–447, div. C, title V, §506, Dec. 8, 2004, 118 Stat. 2963; Pub. L. 111–85, title IV, §402, Oct. 28, 2009, 123 Stat. 2878.)
 

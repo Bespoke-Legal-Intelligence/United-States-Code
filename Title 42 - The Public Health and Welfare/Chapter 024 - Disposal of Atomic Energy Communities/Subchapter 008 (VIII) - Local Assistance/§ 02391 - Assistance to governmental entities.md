@@ -24,7 +24,7 @@ Special interim payments may be made under the provisions of this section to any
 
 #### (c) Payments for special burdens
 
-Payments made under this section shall be payments made for special burdens imposed onthe local governmental entities in accordance with the second sentence of section 2208 of this title. Payments may be made under this section notwithstanding the provisions of the Act of September 30, 1950 <sup>1</sup> (Public Law 874, Eighty-first Congress), as amended.
+Payments made under this section shall be payments made for special burdens imposed on the local governmental entities in accordance with the second sentence of section 2208 of this title. Payments may be made under this section notwithstanding the provisions of the Act of September 30, 1950 <sup>1</sup> (Public Law 874, Eighty-first Congress), as amended.
 
 #### (d) Recommendation for further assistance payments
 
@@ -40,7 +40,7 @@ In exercising the authority of subsection (a) the Administrator shall assure tha
 
 #### References in Text
 
-Act of September 30, 1950, referred to in subsec. (c), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§236 et seq.) of Title 20, Education, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950, referred to in subsec. (c), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§236 et seq.) of Title 20, Education, prior to repeal by Pub. L. 103–382, title III, §331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -72,15 +72,15 @@ Energy Research and Development Administration terminated and functions vested b
 
 #### Conveyance to Los Alamos, New Mexico
 
-Pub. L. 111–383, div. C, title XXXI, §3120, Jan. 7, 2011, 124 Stat. 4514, provided that:
+Pub. L. 111–383, div. C, title XXXI, §3120, Jan. 7, 2011, 124 Stat. 4514, as amended by Pub. L. 117–263, div. E, title LIX, §5942, Dec. 23, 2022, 136 Stat. 3470, provided that:
 
 "(a)
 
-Environmental Restoration.—If the Secretary of Energy determines under any authority previously established by law that a parcel of land described in subsection (c) requires environmental restoration or remediation, the Secretary shall, to the maximum extent practicable, complete the environmental restoration or remediation of the parcel not later than September 30, 2022, and otherwise in compliance with such law.
+Environmental Restoration.—If the Secretary of Energy determines under any authority previously established by law that a parcel of land described in subsection (c) requires environmental restoration or remediation, the Secretary shall, to the maximum extent practicable, complete the environmental restoration or remediation of the parcel not later than September 30, 2032, and otherwise in compliance with such law.
 
 "(b)
 
-Conveyance or Transfer.—If the Secretary determines under any authority previously established by law that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel of land described in subsection (c) by September 30, 2022, the Secretary shall not convey or transfer the parcel of land.
+Conveyance or Transfer.—If the Secretary determines under any authority previously established by law that environmental restoration or remediation cannot reasonably be expected to be completed with respect to a parcel of land described in subsection (c) by September 30, 2032, the Secretary shall not convey or transfer the parcel of land.
 
 "(c)
 
@@ -96,7 +96,7 @@ In General.—The Secretary of Energy shall—
 
 &emsp;"(2) notwithstanding paragraph (1) and the agreement under subsection (e), convey, without consideration, to the Board of Education of the Los Alamos Public Schools, New Mexico, within the County, fee title to the parcels of land identified by the Department of Energy as Parcel A–8 and Parcel A–15–1 that are currently located in Technical Area–21 of Los Alamos National Laboratory upon the entry of Los Alamos Public Schools and the County into an agreement for the use of the parcel of land identified as Parcel A–8; and
 
-&emsp;"(3) transfer to the Secretary of the Interior, in trust for the Pueblo of San Ildefonso (in this section referred to as the 'Pueblo'), administrative jurisdiction over the parcels that are allocated for transfer to the Secretary of the Interior in such agreement.
+&emsp;"(3) transfer to the Secretary of the Interior, in trust for the Pueblo of San Ildefonso (in this sectionreferred to as the 'Pueblo'), administrative jurisdiction over the parcels that are allocated for transfer to the Secretary of the Interior in such agreement.
 
 "(b)
 
@@ -154,7 +154,7 @@ Use of Conveyed or Transferred Land.—The parcels of land conveyed or transferr
 
 "(i)
 
-Treatment of Conveyances and Transfers.—(1) The purpose of the conveyances and transfers under this section is to fulfill the obligations of the UnitedStates with respect to Los Alamos National Laboratory, New Mexico, under sections 91 and 94 of the Atomic Energy Community Act of 1955 (42 U.S.C. 2391, 2394).
+Treatment of Conveyances and Transfers.—(1) The purpose of the conveyances and transfers under this section is to fulfill the obligations of the United States with respect to Los Alamos National Laboratory, New Mexico, under sections 91 and 94 of the Atomic Energy Community Act of 1955 (42 U.S.C. 2391, 2394).
 
 "(2) Upon the completion of the conveyance or transfer of the parcels of land available for conveyance or transfer under this section, the Secretary shall make no further payments with respect to Los Alamos National Laboratory under section 91 or section 94 of the Atomic Energy Community Act of 1955.
 
@@ -170,7 +170,7 @@ Pub. L. 99–145, title XV, §1532, Nov. 8, 1985, 99 Stat. 773, as amended by Pu
 
 #### Nonapplicability of Title II of Pub. L. 95–238 to Any Authorization or Appropriation for Military Application of Nuclear Energy, Etc.; Definitions
 
-Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy, etc., see section 209 of Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 76, set out as a note under section 5821 of this title.
+Nonapplicability of provisions of title II of Pub. L. 95–238 with respect to any authorization or appropriation for any military application of nuclear energy,etc., see section 209 of Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 76, set out as a note under section 5821 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

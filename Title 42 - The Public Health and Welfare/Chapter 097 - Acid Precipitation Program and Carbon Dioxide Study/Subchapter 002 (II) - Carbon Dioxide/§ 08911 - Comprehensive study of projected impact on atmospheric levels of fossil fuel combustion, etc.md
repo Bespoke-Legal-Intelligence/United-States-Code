@@ -26,7 +26,7 @@ The Secretary of Energy, the Secretary of Commerce, the Administrator of the Env
 
 #### (d) Separate assessment by Office of interagency implementation requirements
 
-The Office shall provide a separate assessment of the interagency requirements to implement a comprehensive program of the type described in the third sentence of subsection (b).
+The Office shall provide a separate assessment of the interagency requirements to implement acomprehensive program of the type described in the third sentence of subsection (b).
 
 (Pub. L. 96–294, title VII, §711, June 30, 1980, 94 Stat. 774.)
 
@@ -34,5 +34,5 @@ The Office shall provide a separate assessment of the interagency requirements t
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, as amended, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under section 8801 of this title and Tables.
 

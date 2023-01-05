@@ -34,7 +34,7 @@ A State shall be eligible for a grant under this subchapter for a fiscal year if
 
 #### Prior Provisions
 
-A prior section 5116a, Pub. L. 93–247, title II, §202, formerly Pub. L. 98–473, title IV, §403, Oct. 12, 1984, 98 Stat.2197; renumbered §202 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(b), Oct. 25, 1989, 103 Stat. 764, 766, defined "Secretary" and "State" as used in this subchapter, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
+A prior section 5116a, Pub. L. 93–247, title II, §202, formerly Pub. L. 98–473, title IV, §403, Oct. 12, 1984, 98 Stat. 2197; renumbered §202 of Pub. L. 93–247, and amended Pub. L. 101–126, §§2(a), 3(a)(3), (c)(1), 4(b), Oct. 25, 1989, 103 Stat. 764, 766, defined "Secretary" and "State" as used in this subchapter, prior to the general amendment of this subchapter by Pub. L. 103–252, §401(a).
 
 #### Amendments
 

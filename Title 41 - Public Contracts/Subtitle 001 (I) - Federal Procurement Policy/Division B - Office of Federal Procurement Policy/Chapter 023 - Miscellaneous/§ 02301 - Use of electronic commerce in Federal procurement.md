@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—For the purposes of this section, the term "electronic commerce" means electronic techniques for accomplishing business transactions, including electronic mail or messaging, World Wide Web technology, electronic bulletin boards, purchase cards, electronic funds transfers, and electronic data interchange.
+Definition.—For the purposes of this section, the term "electronic commerce" means electronic techniques for accomplishing business transactions, including electronic mail ormessaging, World Wide Web technology, electronic bulletin boards, purchase cards, electronic funds transfers, and electronic data interchange.
 
 (b)
 

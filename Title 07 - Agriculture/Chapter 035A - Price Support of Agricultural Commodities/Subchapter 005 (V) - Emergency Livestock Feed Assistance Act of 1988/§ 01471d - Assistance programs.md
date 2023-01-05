@@ -8,7 +8,7 @@ In accordance with section 1471c(a) of this title, the Secretary shall make one 
 
 &emsp;(2) The sale of feed grain owned by the Commodity Credit Corporation to producers for livestock feed at a price, established by the Secretary, that does not exceed—
 
-&emsp;&emsp;(A) with respect to such assistance provided for any livestock emergency determined to exist prior to January 1, 1989, 75percent of the current basic county loan rate for such feed grain in effect under this Act (or at a comparable price if there is no such current basic county loan rate), or
+&emsp;&emsp;(A) with respect to such assistance provided for any livestock emergency determined to exist prior to January 1, 1989, 75 percent of the current basic county loan rate for such feed grain in effect under this Act (or at a comparable price if there is no such current basic county loan rate), or
 
 &emsp;&emsp;(B) with respect to such assistance provided for any other livestock emergency, 50 percent of the average market price in the county or area involved, as determined by the Secretary.
 
@@ -62,7 +62,7 @@ The Secretary may make available at least $25,000,000 to provide livestock trans
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(2)(A) and (b)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsecs. (a)(2)(A) and (b)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
 

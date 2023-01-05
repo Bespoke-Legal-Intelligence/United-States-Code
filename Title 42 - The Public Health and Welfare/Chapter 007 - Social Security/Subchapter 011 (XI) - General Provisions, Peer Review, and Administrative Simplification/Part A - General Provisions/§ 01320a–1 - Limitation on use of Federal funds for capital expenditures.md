@@ -6,7 +6,7 @@ The purpose of this section is to assure that Federal funds appropriated under s
 
 #### (b) Agreement between Secretary and State for submission of proposed capital expenditures related to health care facilities and procedures for appeal from recommendations
 
-The Secretary, after consultation with the Governor (or other chief executive officer) andwith appropriate local public officials, shall make an agreement with any State which is able and willing to do so under which a designated planning agency (which shall be an agency described in clause (ii) of subsection (d)(1)(B) that has a governing body or advisory board at least half of whose members represent consumer interests) will—
+The Secretary, after consultation with the Governor (or other chief executive officer) and with appropriate local public officials, shall make an agreement with any State which is able and willing to do so under which a designated planning agency (which shall be an agency described in clause (ii) of subsection (d)(1)(B) that has a governing body or advisory board at least half of whose members represent consumer interests) will—
 
 &emsp;(1) make, and submit to the Secretary together with such supporting materials as he may find necessary, findings and recommendations with respect to capital expenditures proposed by or on behalf of any health care facility in such State within the field of its responsibilities,
 
@@ -76,7 +76,7 @@ A capital expenditure made by or on behalf of a health care facility shall not b
 
 &emsp;(5) the purchase of such services is more costly than if the organization provided the services directly.
 
-(Aug. 14, 1935, ch. 531, title XI, §1122, as added Pub. L. 92–603, title II, §221(a), Oct. 30, 1972, 86 Stat. 1386; amended Pub. L. 93–233, §18(z), (z–1),Dec. 31, 1973, 87 Stat. 973; Pub. L. 95–559, §14(b), Nov. 1, 1978, 92 Stat. 2141; Pub. L. 96–32, §2(c), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title XXI, §2193(c)(3), Aug. 13, 1981, 95 Stat. 827; Pub. L. 97–248, title I, §137(a)(5), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–21, title VI, §607(a), (b)(1), (c), Apr. 20, 1983, 97 Stat. 171, 172; Pub. L. 98–369, div. B, title III, §2354(a)(1), (2), July 18, 1984, 98 Stat. 1100; Pub. L. 105–33, title IV, §4454(c)(1), Aug. 5, 1997, 111 Stat. 431.)
+(Aug. 14, 1935, ch. 531, title XI, §1122, as added Pub. L. 92–603, title II, §221(a), Oct. 30, 1972, 86 Stat. 1386; amended Pub. L. 93–233, §18(z), (z–1), Dec. 31, 1973, 87 Stat. 973; Pub. L. 95–559, §14(b), Nov. 1, 1978, 92 Stat. 2141; Pub. L. 96–32, §2(c), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title XXI, §2193(c)(3), Aug. 13, 1981, 95 Stat. 827; Pub. L. 97–248, title I, §137(a)(5), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–21, title VI, §607(a), (b)(1), (c), Apr. 20, 1983, 97 Stat. 171, 172; Pub. L. 98–369, div. B, title III, §2354(a)(1), (2), July 18, 1984, 98 Stat. 1100; Pub. L. 105–33, title IV, §4454(c)(1), Aug. 5, 1997, 111 Stat. 431.)
 
 #### <b>Editorial Notes</b>
 
@@ -146,11 +146,11 @@ Pub. L. 92–603, title II, §221(b), Oct. 30, 1972, 86 Stat. 1389, provided tha
 
 #### Termination of Advisory Councils
 
-Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Expenditures or Obligations of Health Care Facilities Providing Health Care Services Prior to December 18, 1970;
 

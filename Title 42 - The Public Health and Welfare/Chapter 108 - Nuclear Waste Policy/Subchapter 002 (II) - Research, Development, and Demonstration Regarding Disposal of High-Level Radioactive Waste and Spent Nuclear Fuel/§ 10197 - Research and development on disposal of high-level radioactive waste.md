@@ -40,7 +40,7 @@ The Secretary shall design each test and evaluation facility—
 
 &emsp;(C) conducting in situ tests to evaluate and improve models for ground water or brine flow through fractured geologic media;
 
-&emsp;(D) conducting in situ tests under conditions representing the real time and the accelerated time behavior of the engineered barriers within the geologic environment involved;
+&emsp;(D) conducting in situ tests under conditions representing the real time and the acceleratedtime behavior of the engineered barriers within the geologic environment involved;
 
 &emsp;(E) conducting in situ tests to evaluate the effects of heat and pressure on the geologic media involved, on the hydrology of the surrounding area, and on the integrity of the disposal packages;
 

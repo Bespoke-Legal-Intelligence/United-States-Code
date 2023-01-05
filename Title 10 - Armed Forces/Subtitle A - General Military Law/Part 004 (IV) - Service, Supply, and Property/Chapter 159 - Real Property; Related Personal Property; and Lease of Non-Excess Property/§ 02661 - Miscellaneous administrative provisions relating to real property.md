@@ -22,7 +22,7 @@ Leasing and Road Maintenance Authority.—The Secretary of Defense and the Secre
 
 (c)
 
-Prohibition on Naming Department of Defense Real Property After Member of Congress.—(1) Real property under the jurisdiction of the Secretary of Defense or the Secretary of a military department may not be named after, or otherwise officially identified by the name of, any individual who is a Member of Congress at the time the property is so named or identified.
+Prohibition on Naming Department of Defense Real Property After Member of Congress.—(1) Real property under the jurisdiction of the Secretary of Defense or the Secretary ofa military department may not be named after, or otherwise officially identified by the name of, any individual who is a Member of Congress at the time the property is so named or identified.
 
 (2) In this subsection:
 
@@ -65,6 +65,40 @@ Subsec. (c). Pub. L. 108–375, §2821(a)(1), added subsec. (c).
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–81, div. B, title XXVIII, §2863(b), Dec. 31, 2011, 125 Stat. 1702, provided that: "The prohibition in subsection (c) of section 2661 of title 10, United States Code, as added by subsection (a), shall apply only with respect to real property of the Department of Defense named after the date of the enactment of this Act \[Dec. 31, 2011\]."
+
+#### National Standards for Federal Fire Protection at Military Installations
+
+Pub. L. 117–263, div. A, title III, §388, Dec. 23, 2022, 136 Stat. 2546, provided that:
+
+"(a)
+
+Standards Required.—Beginning not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall ensure that—
+
+&emsp;"(1) members of the Armed Forces and employees of Defense Agencies who provide fire protection services to military installations comply with the national consensus standards developed by the National Fire Protection Association;
+
+&emsp;"(2) the minimum staffing requirement for any firefighting vehicle responding to a structural building emergency at a military installation is not less than four firefighters per vehicle; and
+
+&emsp;"(3) the minimum staffing requirement for any firefighting vehicle responding to an aircraft or airfield incident at a military installation is not less than three firefighters per vehicle.
+
+"(b)
+
+Reports Required.—Not later than 180 days after the date of the enactment of this Act, each Secretary of a military department shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report that—
+
+&emsp;"(1) details each instance in which the standards of that military department deviate from the national consensus standards specified in subsection (a)(1), and at what military installation;
+
+&emsp;"(2) includes, for each military installation under the jurisdiction of that Secretary, a detailed description of response times for emergency services and firefighting vehicle staffing levels; and
+
+&emsp;"(3) includes an assessment of the feasibility of requiring compliance with the national consensus standards specified in subsection (a)(1) in accordance with such subsection at each military installation under the jurisdiction of that Secretary (without exception), the cost of requiring such compliance, and the estimated timeline for that Secretary to implement such requirement.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The terms 'Armed Forces' and 'Defense Agency' have the meanings given such terms in section 101 of title 10, United States Code.
+
+&emsp;"(2) The term 'firefighter' has the meaning given that term in section 707(b) of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116–92; 10 U.S.C. 1074m note).
+
+&emsp;"(3) The term 'military installation' has the meaning given that term in section 2801 of title 10, United States Code."
 
 #### Department of Defense Policy on Lead-Based Paint Testing on Military Installations
 
@@ -114,19 +148,7 @@ Pub. L. 115–232, div. A, title III, §359, Aug. 13, 2018, 132 Stat. 1733, prov
 
 #### Increased Percentage of Sustainment Funds Authorized for Realignment to Restoration and Modernization at Each Installation
 
-Pub. L. 115–91, div. A, title III, §322, Dec. 12, 2017, 131 Stat. 1353, provided that:
-
-"(a)
-
-In General.—The Secretary of Defense may authorize an installation commander to realign up to 7.5 percent of an installation's sustainment funds to restoration and modernization.
-
-"(b)
-
-Sunset.—The authority under subsection (a) shall expire at the close of September 30, 2022.
-
-"(c)
-
-Definitions.—The terms 'sustainment', 'restoration', and 'modernization' have the meanings given the terms in the Department of Defense Financial Management Regulation."
+Pub. L. 115–91, div. A, title III, §322, Dec. 12, 2017, 131 Stat. 1353, provided that the Secretary of Defense could authorize an installation commander to realign up to 7.5 percent of an installation's sustainment funds to restoration and modernization, and such authority would expire at the close of Sept. 30, 2022.
 
 #### Disclosure of Beneficial Ownership by Foreign Persons of High Security Space Leased by the Department of Defense
 

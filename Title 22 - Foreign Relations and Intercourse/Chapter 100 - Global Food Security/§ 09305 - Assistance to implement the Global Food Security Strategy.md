@@ -6,13 +6,13 @@ The President is authorized to carry out activities pursuant to section 103, sec
 
 #### (b) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary of State and the Administrator of the United States Agency for International Development $1,000,600,000 for each of fiscal years 2017 through 2023 to carry out those portions of the Global Food Security Strategy that relate to the Department of State and the United States Agency for International Development, respectively.
+There is authorized to be appropriated to the Secretary of State and the Administrator of the United States Agency for International Development $1,200,000,000 for each of the fiscal years 2024 through 2028 to carry out those portions of the Global Food Security Strategy that relate to the Department of State and the United States Agency for International Development, respectively. Amounts authorized to appropriated under this subsection should be prioritized to carry out programs and activities in target countries.
 
 #### (c) Monitoring and evaluation
 
 The President shall seek to ensure that assistance to implement the Global Food Security Strategy is provided under established parameters for a rigorous accountability system to monitor and evaluate progress and impact of the strategy, including by reporting to the appropriate congressional committees and the public on an annual basis.
 
-(Pub. L. 114–195, §6, July 20, 2016, 130 Stat. 680; Pub. L. 115–266, §2(a), Oct. 11, 2018, 132 Stat. 3755.)
+(Pub. L. 114–195, §6, July 20, 2016, 130 Stat. 680; Pub. L. 115–266, §2(a), Oct. 11, 2018, 132 Stat. 3755; Pub. L. 117–263, div. E, title LV, §5588(f), Dec. 23, 2022, 136 Stat. 3378.)
 
 #### <b>Editorial Notes</b>
 
@@ -22,11 +22,13 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 
 #### Amendments
 
+<b>2022</b>—Subsec. (b). Pub. L. 117–263 substituted "$1,200,000,000 for each of the fiscal years 2024 through 2028" for "$1,000,600,000 for each of fiscal years 2017 through 2023" and inserted at end "Amounts authorized to appropriated under this subsection should be prioritized to carry out programs and activities in target countries."
+
 <b>2018</b>—Subsec. (b). Pub. L. 115–266 substituted "fiscal years 2017 through 2023" for "fiscal years 2017 and 2018".
 
 #### <b>Executive Documents</b>
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) of this section delegated to the Secretary of State and the Administrator of the United States Agency for International Development, and under subsec. (c) of this section to the Administrator of the United States Agency for International Development, by Memorandum of President of the United States, Sept. 30, 2016, 81 F.R. 76483, set out as a note under section 9304 of this title.
+Functions of President under subsec. (a) of this section delegated to the Secretary of State and the Administrator of the United States Agency for International Development, and under subsec. (c) of this section to the Administrator of the United States Agency for International Development, by Memorandum ofPresident of the United States, Sept. 30, 2016, 81 F.R. 76483, set out as a note under section 9304 of this title.
 

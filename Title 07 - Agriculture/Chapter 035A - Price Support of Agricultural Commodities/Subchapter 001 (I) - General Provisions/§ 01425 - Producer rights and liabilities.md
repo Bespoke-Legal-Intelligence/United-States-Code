@@ -38,7 +38,7 @@ This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 10
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–460, title VI, §634(a), Oct. 1, 1988, 102 Stat. 2263, provided that the amendment made by section 634(a) is effective beginning with 1989 crop year for honey.
+Pub. L. 100–460, title VI, §634(a), Oct. 1, 1988, 102 Stat. 2263, provided that the amendment made by section634(a) is effective beginning with 1989 crop year for honey.
 
 #### Effective and Termination Dates of 1985 Amendment
 

@@ -56,7 +56,7 @@ The Board shall adopt the regulations referred to in subsection (a)(1) in accord
 
 #### (4) One-House resolution or concurrent resolution
 
-&emsp;In the case of a resolution of the House of Representatives or the Senate or a concurrent resolution referred to in paragraph (1), the matter after the resolving clause shall be the following: "The following regulations issued by the Office of Congressional Workplace Rights on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ are hereby approved:" (the blank space being appropriately filled in, and the text of the regulations being set forth).
+&emsp;In the case of a resolution of the House of Representatives or the Senate or a concurrent resolution referred to in paragraph (1), thematter after the resolving clause shall be the following: "The following regulations issued by the Office of Congressional Workplace Rights on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ are hereby approved:" (the blank space being appropriately filled in, and the text of the regulations being set forth).
 
 #### (5) Joint resolution
 
@@ -118,5 +118,5 @@ Subchapter II, referred to in subsec. (a)(1), was in the original "title II", me
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in anylaw, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under section 1381 of this title.
+Amendment by Pub. L. 115–397 effective Dec. 21, 2018, and any reference to the Office of Compliance in any law, rule, regulation, or other official paper in effect as of such date to be considered to refer and apply to the Office of Congressional Workplace Rights, see section 308(d) of Pub. L. 115–397, set out as a note under section 1381 of this title.
 

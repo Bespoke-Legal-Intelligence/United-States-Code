@@ -42,13 +42,13 @@ Each State agency that receives food assistance payments under this section for 
 
 #### (f) Commodity only schools
 
-Commodity only schools shall be eligible to receive donated commodities equal in value to the sum of the national average value of donated foods established under section 1755(c) of this title and the national average payment established under section 1753 of this title. Such schools shall be eligible to receive up to 5 cents per meal of such value in cash for processing and handling expenses related to the use of such commodities. Lunches served in such schools shall consist of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary under section 1758(a) of this title, and shall represent the four basic food groups, including a serving of fluid milk.
+Commodity only schools shall be eligible to receive donated commodities equal in value tothe sum of the national average value of donated foods established under section 1755(c) of this title and the national average payment established under section 1753 of this title. Such schools shall be eligible to receive up to 5 cents per meal of such value in cash for processing and handling expenses related to the use of such commodities. Lunches served in such schools shall consist of a combination of foods which meet the minimum nutritional requirements prescribed by the Secretary under section 1758(a) of this title, and shall represent the four basic food groups, including a serving of fluid milk.
 
 #### (g) Extension of alternative means of assistance
 
 (1) As used in this subsection, the term "eligible school district" has the same meaning given such term in section 1581(a) of the Food Security Act of 1985.
 
-(2) In accordance with the terms and conditions of section 1581 of such Act, the Secretaryshall permit an eligible school district to continue to receive assistance in the form of cash or commodity letters of credit assistance, in lieu of commodities, to carry out the school lunch program operated in the district.
+(2) In accordance with the terms and conditions of section 1581 of such Act, the Secretary shall permit an eligible school district to continue to receive assistance in the form of cash or commodity letters of credit assistance, in lieu of commodities, to carry out the school lunch program operated in the district.
 
 #### (h) Notice of irradiated food products
 
@@ -92,9 +92,9 @@ Commodity only schools shall be eligible to receive donated commodities equal in
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsecs. (a)(1), (d), and (h)(1), (2)(E), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsecs. (a)(1), (d), and (h)(1), (2)(E), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
-The Older Americans Act of 1965, referred to in subsecs. (a)(1) and (c), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title III of the Older Americans Act of 1965 is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. Section 311 of the Act, which is classified to section 3030a of this title, was amended by Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246, and, as so amended, new subsecs. (a) and (b) were added, former subsec. (a)(4) was redesignated (c)(4) and repealed, and former subsec. (b)(1) was redesignated (d)(1). For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (a)(1) and (c), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Title III of the Older Americans Act of 1965 is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. Section 311 of the Act, which is classified to section 3030a of this title, was amended by Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246, and, as so amended, new subsecs. (a) and (b) were added, former subsec. (a)(4) was redesignated (c)(4) and repealed, and former subsec. (b)(1) was redesignated (d)(1). For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 Section 1581 of the Food Security Act, referred to in subsec. (g), is section 1581 of Pub. L. 99–198, title XV, Dec. 23, 1985, 99 Stat. 1594, which is not classified to the Code.
 

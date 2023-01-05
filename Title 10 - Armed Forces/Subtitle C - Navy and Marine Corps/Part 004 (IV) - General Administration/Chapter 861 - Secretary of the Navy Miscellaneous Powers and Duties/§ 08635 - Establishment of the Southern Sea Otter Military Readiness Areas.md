@@ -44,7 +44,7 @@ Treatment as species proposed to be listed.—For purposes of conducting a milit
 
 (c)
 
-Removal.—Nothing in this section or any other Federal law shall be construed to require that any southern sea otter located within the Southern Sea Otter Military Readiness Areas be removed from the Areas.
+Removal.—Nothing in this section or any other Federal law shall be construed to requirethat any southern sea otter located within the Southern Sea Otter Military Readiness Areas be removed from the Areas.
 
 (d)
 
@@ -90,7 +90,7 @@ Military readiness activity.—The term "military readiness activity" has the me
 
 Optimum sustainable population.—The term "optimum sustainable population" means, with respect to any population stock, the number of animals that will result in the maximum productivity of the population or the species, keeping in mind the carrying capacity of the habitat and the health of the ecosystem of which they form a constituent element.
 
-(Added Pub. L. 114–92, div. A, title III, §312(a), Nov. 25, 2015, 129 Stat. 787, §7235; amended Pub.L. 115–91, div. A, title X, §1081(a)(50), Dec. 12, 2017, 131 Stat. 1597; renumbered §8635, Pub. L. 115–232, div. A, title VIII, §807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 114–92, div. A, title III, §312(a), Nov. 25, 2015, 129 Stat. 787, §7235; amended Pub. L. 115–91, div. A, title X, §1081(a)(50), Dec. 12, 2017, 131 Stat. 1597; renumbered §8635, Pub. L. 115–232, div. A, title VIII, §807(d)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
 #### <b>Editorial Notes</b>
 

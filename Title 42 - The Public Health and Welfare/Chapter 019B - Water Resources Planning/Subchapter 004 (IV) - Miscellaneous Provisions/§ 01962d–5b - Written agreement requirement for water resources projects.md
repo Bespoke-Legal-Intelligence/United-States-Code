@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) shall not exceed the non-Federal share of the cost of the project;
 
-&emsp;&emsp;&emsp;(ii) shall not alter any other requirement that a non-Federal interest provide lands, easements, relocations, rights-of-way, or areas for disposal of dredged material for the project;
+&emsp;&emsp;&emsp;(ii) shall not alter any other requirement that a non-Federal interest provide lands,easements, relocations, rights-of-way, or areas for disposal of dredged material for the project;
 
 &emsp;&emsp;&emsp;(iii) shall not alter any requirement that a non-Federal interest pay a portion of the costs of construction of the project under sections 2211(a)(2) and 2213(a)(1)(A) of title 33; and
 
@@ -203,6 +203,62 @@ Pub. L. 110–114, title II, §2003(e), Nov. 8, 2007, 121 Stat. 1070, as amended
 #### Local Government Water Management Plans
 
 Pub. L. 115–270, title I, §1164, Oct. 23, 2018, 132 Stat. 3797, provided that: "With the consent of the non-Federal interest for a feasibility study for a water resources development project, the Secretary \[of the Army\] may enter into a written agreement under section 221(a) of the Flood Control Act of 1970 \[42 U.S.C. 1962d–5b(a)\], with a unit of local government in the watershed that has adopted a local or regional water management plan, to allow the unit of local government to participate in the feasibility study to determine if there is an opportunity to include additional feasible elements in the project in order to help achieve the purposes identified in the local or regional water management plan."
+
+#### Water Supply Conservation
+
+Pub. L. 114–322, title I, §1116, Dec. 16, 2016, 130 Stat. 1639, as amended by Pub. L. 117–263, div. H, title LXXXI, §8107, Dec. 23, 2022, 136 Stat. 3700, provided that:
+
+"(a)
+
+In General.—In a State in which a drought emergency has been declared or was in effect for any portion of any 2 consecutive or nonconsecutive years during the 10-year period preceding a request from a non-Federal interest for assistance under this section, the Secretary \[of the Army\] is authorized—
+
+&emsp;"(1) to conduct an evaluation for purposes of approving water supply conservation measures that are consistent with the authorized purposes of water resources development projects under the jurisdiction of the Secretary; and
+
+&emsp;"(2) to enter into written agreements pursuant to section 221 of the Flood Control Act of 1970 (42 U.S.C. 1962d–5b) with non-Federal interests to carry out the conservation measures approved by such evaluations.
+
+"(b)
+
+Eligibility.—Water supply conservation measures evaluated under subsection (a) may include the following:
+
+&emsp;"(1) Stormwater capture.
+
+&emsp;"(2) Releases for ground water replenishment or aquifer storage and recovery.
+
+&emsp;"(3) Releases to augment water supply at another Federal or non-Federal storage facility.
+
+&emsp;"(4) Other conservation measures that enhance usage of a Corps of Engineers project for water supply, including measures utilizing a natural feature or nature-based feature (as those terms are defined in section 1184(a) \[33 U.S.C. 2289a(a)\]) to reduce drought risk.
+
+"(c)
+
+Costs.—A non-Federal interest shall pay only the separable costs associated with the evaluation, implementation, operation, and maintenance of an approved water supply conservation measure, which payments may be accepted and expended by the Corps of Engineers to cover such costs.
+
+"(d)
+
+Statutory Construction.—Nothing in this section may be construed to modify or alter the obligations of a non-Federal interest under existing or future agreements for—
+
+&emsp;"(1) water supply storage pursuant to section 301 of the Water Supply Act of 1958 (43 U.S.C. 390b); or
+
+&emsp;"(2) surplus water use pursuant to section 6 of the Act of December 22, 1944 (58 Stat. 890, chapter 665; 33 U.S.C. 708).
+
+"(e)
+
+Limitations.—Nothing in this section—
+
+&emsp;"(1) affects, modifies, or changes the authorized purposes of a Corps of Engineers project;
+
+&emsp;"(2) affects existing Corps of Engineers authorities, including its authorities with respect to navigation, flood damage reduction, and environmental protection and restoration;
+
+&emsp;"(3) affects the Corps of Engineers ability to provide for temporary deviations;
+
+&emsp;"(4) affects the application of a cost-sharing requirement under section 101, 102, or 103 of the Water Resources Development Act of 1986 (33 U.S.C. 2211, 2212, and 2213);
+
+&emsp;"(5) supersedes or modifies any written agreement between the Federal Government and a non-Federal interest that is in effect on the date of enactment of this Act \[Dec. 16, 2016\];
+
+&emsp;"(6) supersedes or modifies any amendment to an existing multistate water control plan, including those water control plans along the Missouri River and those water control plans in the Apalachicola-Chattahoochee-Flint and Alabama-Coosa-Tallapoosa basins;
+
+&emsp;"(7) affects any water right in existence on the date of enactment of this Act; or
+
+&emsp;"(8) preempts or affects any State water law ot interstate compact governing water."
 
 #### Guidelines
 

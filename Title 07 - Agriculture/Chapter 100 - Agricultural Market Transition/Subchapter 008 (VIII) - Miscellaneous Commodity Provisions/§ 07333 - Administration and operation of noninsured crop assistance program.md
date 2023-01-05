@@ -100,7 +100,7 @@
 
 #### (1) Timely application
 
-&emsp;To be eligible for assistance under this section, a producer shall submit an applicationfor noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted by an appropriate deadline before the beginning of the coverage period, as determined by the Secretary.
+&emsp;To be eligible for assistance under this section, a producer shall submit an application for noninsured crop disaster assistance at a local office of the Department. The application shall be in such form, contain such information, and be submitted by an appropriate deadline before the beginning of the coverage period, as determined by the Secretary.
 
 #### (2) Records
 
@@ -172,7 +172,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall determine an approved yield using the actual production history of the producer over a period of not less than the 4 previous consecutive crop years and not more than 10 consecutive crop years.
+&emsp;&emsp;The Secretary shall determine an approved yield using the actual production history ofthe producer over a period of not less than the 4 previous consecutive crop years and not more than 10 consecutive crop years.
 
 #### (B) Calculation
 
@@ -188,7 +188,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (i) Documentation
 
-&emsp;&emsp;&emsp;If sufficient data are available to demonstrate that the acreage of a crop in acounty for the crop year has increased by more than 100 percent over any year in the preceding 7 crop years or, if data are not available, if the acreage of the crop in the county has increased significantly from the previous crop years, a producer must provide such detailed documentation of production costs, acres planted, and yield for the crop year for which benefits are being claimed as is required by the Secretary. If the Secretary determines that the documentation provided is not sufficient, the Secretary may require documenting proof that the crop, had the crop been harvested, could have been marketed at a reasonable price.
+&emsp;&emsp;&emsp;If sufficient data are available to demonstrate that the acreage of a crop in a county for the crop year has increased by more than 100 percent over any year in the preceding 7 crop years or, if data are not available, if the acreage of the crop in the county has increased significantly from the previous crop years, a producer must provide such detailed documentation of production costs, acres planted, and yield for the crop year for which benefits are being claimed as is required by the Secretary. If the Secretary determines that the documentation provided is not sufficient, the Secretary may require documenting proof that the crop, had the crop been harvested, could have been marketed at a reasonable price.
 
 #### (ii) Prohibition
 
@@ -272,7 +272,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 #### (1) In general
 
-&emsp;To be eligible to receive assistance for an eligible crop for a crop year under this section,a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1)) a service fee for the eligible crop in an amount that is equal to the lesser of—
+&emsp;To be eligible to receive assistance for an eligible crop for a crop year under this section, a producer shall pay to the Secretary (at the time at which the producer submits the application under subsection (b)(1)) a service fee for the eligible crop in an amount that is equal to the lesser of—
 
 &emsp;&emsp;(A) $325 per crop per county; or
 
@@ -350,7 +350,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;The coverage made available under this subsection shall be available to limited resource, beginning, and socially disadvantaged farmers, as determined by the Secretary, and veteran farmers or ranchers (as defined in section 2279(a) of this title) in exchange for a premium that is 50 percent of the premium determined under paragraph (2).
 
-(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub. L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152; Pub. L. 113–79, title XI, §11014(b), title XII, §12305(a), Feb. 7, 2014, 128 Stat. 962, 986; Pub. L. 115–334, title I, §1601, title XII, §12306(f), Dec. 20, 2018, 132 Stat. 4523, 4970.)
+(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488; Pub. L. 110–234, title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, May 22, 2008, 122 Stat. 1010, 1381, 1390; Pub. L. 110–246, §4(a), title I, §1603(f)(1), title XII, §§12020(b), 12025(b), 12027, 12028, June 18, 2008, 122 Stat. 1664, 1739, 2143, 2152; Pub. L. 113–79, title XI, §11014(b), title XII, §12305(a), Feb. 7, 2014, 128 Stat. 962, 986; Pub. L. 115–334, title I, §1601, title XII, §12306(f), Dec. 20, 2018, 132 Stat. 4523, 4970.)
 
 #### <b>Editorial Notes</b>
 
@@ -360,13 +360,13 @@ The Federal Crop Insurance Act, referred to in subsec. (a)(1)(C)(i), is subtitle
 
 The date of enactment of this paragraph, referred to in subsec. (a)(4)(A)(ii), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (i)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle C of the Act is classified generally to subchapter III (§1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (i)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitle C of the Act is classified generally to subchapter III (§1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 Section 1308–3a of this title, referred to in subsec. (i)(4), was amended by Pub. L. 113–79, title I, §1605(a)–(e), Feb. 7, 2014, 128 Stat. 707, 708, and, as so amended, provisions which formerly appeared in subsec. (b)(1)(A) of section 1308–3a were struck out. See subsec. (b)(1) of section 1308–3a of this title.
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section is comprised of section 196 of Pub. L. 104–127. Subsec. (j) of section 196 of Pub. L. 104–127 repealed section 1519 of this title.
 
@@ -434,7 +434,7 @@ Subsec. (a)(4)(A)(ii). Pub. L. 113–79, §11014(b)(2), inserted " ,or the prod
 
 Subsec. (a)(4)(B). Pub. L. 113–79, §11014(b)(3)(A), substituted "Reduction in" for "Ineligibility for" in heading.
 
-Subsec. (a)(4)(B)(i). Pub. L. 113–79, §11014(b)(3)(B), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
+Subsec. (a)(4)(B)(i). Pub. L. 113–79, §11014(b)(3)(B), added cl. (i) and struck out former cl. (i). Prior toamendment, text read as follows: "Subject to clause (ii) and subparagraph (C), native sod acreage that has been tilled for the production of an annual crop after the date of enactment of this paragraph shall be ineligible during the first 5 crop years of planting, as determined by the Secretary, for benefits under—
 
 &emsp;"(I) this section; and
 

@@ -10,7 +10,7 @@ In this subchapter—
 
 &emsp;(2) the term "chemical facility of interest" means a facility that—
 
-&emsp;&emsp;(A) holds, or that the Secretary has a reasonable basis to believe holds, a chemical of interest, as designated under Appendix A to part 27 of title 6, Code of Federal Regulations, or any successor thereto, at a threshold quantity set pursuant to relevant risk-related security principles; and
+&emsp;&emsp;(A) holds, or that the Secretary has a reasonable basis to believe holds, a chemical of interest, as designated under Appendix A topart 27 of title 6, Code of Federal Regulations, or any successor thereto, at a threshold quantity set pursuant to relevant risk-related security principles; and
 
 &emsp;&emsp;(B) is not an excluded facility;
 

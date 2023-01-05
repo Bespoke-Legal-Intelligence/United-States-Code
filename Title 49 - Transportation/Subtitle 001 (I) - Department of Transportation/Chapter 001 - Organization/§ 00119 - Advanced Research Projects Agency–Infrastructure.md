@@ -114,7 +114,7 @@ Director.—
 
 &emsp;(1)
 
-Appointment.—ARPA–I shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate.
+Appointment.—ARPA–I shall be headed by a Director, who shall be appointed by thePresident, by and with the advice and consent of the Senate.
 
 &emsp;(2)
 
@@ -140,7 +140,7 @@ Responsibilities.—The responsibilities of the Director shall include—
 
 &emsp;&emsp;(B) developing funding criteria, and assessing the success of programs, to achieve the goals described in subsection (c)(1) through the establishment of technical milestones;
 
-&emsp;&emsp;(C) administering available funding by providing to eligible entities assistance toachieve the goals described in subsection (c)(1);
+&emsp;&emsp;(C) administering available funding by providing to eligible entities assistance to achieve the goals described in subsection (c)(1);
 
 &emsp;&emsp;(D) terminating programs carried out under this section that are not achieving the goals of the programs; and
 
@@ -352,7 +352,7 @@ University Transportation Centers.—The Director may—
 
 &emsp;(1) partner with university transportation centers under section 5505 to accomplish the goals, and address the needs, of ARPA–I; and
 
-&emsp;(2) sponsor and select for funding, in accordance with section 5505, competitively selected university transportation center grants, in addition to the assistance provided under section 5505, to address targeted technology and material goals of ARPA–I.
+&emsp;(2) sponsor and select for funding, in accordance with section 5505, competitively selecteduniversity transportation center grants, in addition to the assistance provided under section 5505, to address targeted technology and material goals of ARPA–I.
 
 (m)
 

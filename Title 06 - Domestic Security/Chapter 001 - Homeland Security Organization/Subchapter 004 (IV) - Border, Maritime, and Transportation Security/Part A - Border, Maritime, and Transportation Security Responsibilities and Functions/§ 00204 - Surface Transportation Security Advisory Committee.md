@@ -120,7 +120,7 @@ The Administrator of the Transportation Security Administration (referred to in 
 
 #### (ii) Classified information
 
-&emsp;&emsp;&emsp;Access to classified materials shall be managed in accordance with Executive Order 13526 of December 29, 2009 (75 Fed. Reg. 707), or any subsequent corresponding Executive order.
+&emsp;&emsp;&emsp;Access to classified materials shall be managed in accordance with ExecutiveOrder 13526 of December 29, 2009 (75 Fed. Reg. 707), or any subsequent corresponding Executive order.
 
 #### (C) Protections
 
@@ -186,7 +186,7 @@ The Administrator of the Transportation Security Administration (referred to in 
 
 #### (4) Updates
 
-&emsp;Not later than 90 days after the date the Administrator receives a recommendation from the Advisory Committee under subsection (d)(2) that the Administrator agrees with, and quarterly thereafter until the recommendation is fully implemented, the Administrator shall submit a report to the appropriate congressional committees or post on the publicwebsite under paragraph (5) an update on the status of the recommendation.
+&emsp;Not later than 90 days after the date the Administrator receives a recommendation from the Advisory Committee under subsection (d)(2) that the Administrator agrees with, and quarterly thereafter until the recommendation is fully implemented, the Administrator shall submit a report to the appropriate congressional committees or post on the public website under paragraph (5) an update on the status of the recommendation.
 
 #### (5) Website
 
@@ -198,7 +198,7 @@ The Administrator of the Transportation Security Administration (referred to in 
 
 #### (f) Nonapplicability of FACA
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee or any subcommittee established under this section.
+The Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply to the Advisory Committee or any subcommittee established under this section.
 
 (Pub. L. 107–296, title IV, §404, as added Pub. L. 115–254, div. K, title I, §1969(a), Oct. 5, 2018, 132 Stat. 3609.)
 
@@ -208,7 +208,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Adviso
 
 Executive Order 13526, referred to in subsec. (c)(7)(B)(ii), is set out as a note under section 3161 of Title 50, War and National Defense.
 
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -223,4 +223,6 @@ Voting members.—Not later than 180 days after the date of enactment of this Ac
 "(2)
 
 Nonvoting members.—Not later than 90 days after the date of enactment of this Act, each Federal Government department and agency with regulatory authority over a mode of surface or maritime transportation, as the Administrator considers appropriate, shall designate an appropriate representative to serve as a nonvoting member of the Surface Transportation Security Advisory Committee."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

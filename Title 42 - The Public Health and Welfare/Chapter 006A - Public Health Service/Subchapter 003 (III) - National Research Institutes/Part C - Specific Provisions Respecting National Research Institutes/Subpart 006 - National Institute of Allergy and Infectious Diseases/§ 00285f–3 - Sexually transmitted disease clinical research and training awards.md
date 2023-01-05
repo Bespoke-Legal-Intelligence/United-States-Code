@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director of the Institute is authorized to establish and maintain a program to enhance and promote the translation of new scientific knowledge into clinical practice related to the diagnosis, care and treatment of individuals with sexually transmitted diseases.
+The Director of the Institute is authorized to establish and maintain a program to enhance and promote the translation of new scientific knowledge into clinical practice related to thediagnosis, care and treatment of individuals with sexually transmitted diseases.
 
 #### (b) Support of promising clinicians
 

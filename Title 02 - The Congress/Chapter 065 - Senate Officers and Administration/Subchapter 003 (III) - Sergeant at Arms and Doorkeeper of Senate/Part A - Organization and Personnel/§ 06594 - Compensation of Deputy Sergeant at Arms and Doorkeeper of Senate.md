@@ -22,7 +22,7 @@ Pub. L. 94–226, §1(c), Mar. 9, 1976, 90 Stat. 203, provided that: "Effective 
 
 #### Effective Date
 
-Pub. L. 94–226, §1(b), Mar. 9, 1976, 90 Stat. 203, provided that: "Subsection (a) \[enacting this section\] shall take effect on January 1, 1976, and, notwithstanding any other provision of law, any increase in compensation made under authority of such subsection may take effect on that date or any date thereafter as prescribed by the Sergeant at Arms and Doorkeeper at the time of making such increase."
+Pub. L. 94–226, §1(b), Mar. 9, 1976, 90 Stat. 203, provided that: "Subsection (a) \[enacting this section\] shalltake effect on January 1, 1976, and, notwithstanding any other provision of law, any increase in compensation made under authority of such subsection may take effect on that date or any date thereafter as prescribed by the Sergeant at Arms and Doorkeeper at the time of making such increase."
 
 #### Authority of President Pro Tempore of the Senate To Raise or Adjust Rate of Compensation
 

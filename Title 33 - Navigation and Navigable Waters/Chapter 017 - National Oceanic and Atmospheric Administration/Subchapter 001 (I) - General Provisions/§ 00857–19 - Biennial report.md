@@ -8,7 +8,7 @@ Beginning in September, 2001, the President shall transmit to the Congress bienn
 
 #### National Ocean Policy
 
-Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206, title I, §206, Aug. 2, 2002, 116 Stat. 833; Pub. L. 107–372, title III, §306, Dec. 19, 2002, 116 Stat. 3096, provided that:
+Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206, title I, §206, Aug. 2, 2002, 116 Stat. 833; Pub. L. 107–372, title III, §306, Dec. 19, 2002, 116 Stat. 3096; Pub. L. 117–286, §4(a)(200), Dec. 27, 2022, 136 Stat. 4328, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -46,7 +46,7 @@ Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206,
 
 "(a)
 
-Establishment.—There is hereby established the Commission on Ocean Policy. The Federal Advisory Committee Act (5 U.S.C. App.), except for sections 3, 7, and 12, does not apply to the Commission.
+Establishment.—There is hereby established the Commission on Ocean Policy. Chapter 10 of title 5, United States Code, except for sections 1001, 1006, and 1011, does not apply to the Commission.
 
 "(b)
 
@@ -54,7 +54,7 @@ Membership.—
 
 &emsp;"(1)
 
-Appointment.—The Commission shall be composed of 16 members appointed by the President fromamong individuals described in paragraph (2) who are knowledgeable in ocean and coastal activities, including individuals representing State and local governments, ocean-related industries, academic and technical institutions, and public interest organizations involved with scientific, regulatory, economic, and environmental ocean and coastal activities. The membership of the Commission shall be balanced by area of expertise and balanced geographically to the extent consistent with maintaining the highest level of expertise on the Commission.
+Appointment.—The Commission shall be composed of 16 members appointed by the President from among individuals described in paragraph (2) who are knowledgeable in ocean and coastal activities, including individuals representing State and local governments, ocean-related industries, academic and technical institutions, and public interest organizations involved with scientific, regulatory, economic, and environmental ocean and coastal activities. The membership of the Commission shall be balanced by area of expertise and balanced geographically to the extent consistent with maintaining the highest level of expertise on the Commission.
 
 &emsp;"(2)
 
@@ -86,7 +86,7 @@ Resources.—In carrying out its functions under this section, the Commission—
 
 &emsp;"(1) is authorized to secure directly from any Federal agency or department any information it deems necessary to carry out its functions under this Act, and each such agency or department is authorized to cooperate with the Commission and, to the extent permitted by law, to furnish such information (other than information described in section 552(b)(1)(A) of title 5, United States Code) to the Commission, upon the request of the Commission;
 
-&emsp;"(2) may enter into contracts, subject to the availability of appropriations for contracting, and employ such staff experts and consultants as may be necessary to carry out the duties of the Commission, as provided by section 3109 of title 5, United States Code; and
+&emsp;"(2) may enter into contracts, subject to the availability of appropriations for contracting, and employ such staff experts and consultants as may be necessary to carry out the duties of the Commission, asprovided by section 3109 of title 5, United States Code; and
 
 &emsp;"(3) in consultation with the Ocean Studies Board of the National Research Council of the National Academy of Sciences, shall establish a multidisciplinary science advisory panel of experts in the sciences of living and non-living marine resources to assist the Commission in preparing its report, including ensuring that the scientific information considered by the Commission is based on the best scientific information available.
 
@@ -148,7 +148,7 @@ Required matter.—The final report of the Commission shall include the followin
 
 &emsp;&emsp;"(D) A review of the known and anticipated supply of, and demand for, ocean and coastal resources of the United States.
 
-&emsp;&emsp;"(E) A review of and recommendations concerning the relationship between Federal, State, and local governments and the private sector inplanning and carrying out ocean and coastal activities.
+&emsp;&emsp;"(E) A review of and recommendations concerning the relationship between Federal, State, and local governments and the private sector in planning and carrying out ocean and coastal activities.
 
 &emsp;&emsp;"(F) A review of opportunities for the development of or investment in new products, technologies, or markets related to ocean and coastal activities.
 
@@ -198,7 +198,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to ca
 
 "(a)
 
-National Ocean Policy.—Within 90 days after receiving and considering the report and recommendations of the Commission under section 3, the President shall submit to Congress a statement of proposals to implement or respond to the Commission's recommendations for a coordinated, comprehensive, and long-range national policy for the responsible use and stewardship of ocean and coastal resources for the benefit of the United States. Nothing in this Act authorizes the President to take any administrative or regulatory action regarding ocean or coastal policy, or to implement a reorganization plan, not otherwise authorized by law in effect at the time of such action.
+National Ocean Policy.—Within 90 days after receiving and considering the report and recommendations of the Commission under section 3, the President shall submit to Congress a statement of proposals to implement or respond to the Commission's recommendations for a coordinated, comprehensive, andlong-range national policy for the responsible use and stewardship of ocean and coastal resources for the benefit of the United States. Nothing in this Act authorizes the President to take any administrative or regulatory action regarding ocean or coastal policy, or to implement a reorganization plan, not otherwise authorized by law in effect at the time of such action.
 
 "(b)
 
@@ -288,7 +288,7 @@ Sec. 4. <i>Interagency Coordination</i>. (a) To ensure appropriate coordination 
 
 (i) The Committee shall consist of the following:
 
-&emsp;(1) The Chairman of the Council on Environmental Quality (CEQ) and the Director of the Office of Science and Technology Policy (OSTP), who shall serve as Co-Chairs;
+&emsp;(1) The Chairman of the Council on Environmental Quality (CEQ) and the Director of the Office ofScience and Technology Policy (OSTP), who shall serve as Co-Chairs;
 
 &emsp;(2) The Secretary of State, Secretary of Defense, Attorney General, Secretary of the Interior, Secretary of Agriculture, Secretary of Commerce, Secretary of Transportation, Secretary of Energy, Secretary of Homeland Security, Administrator of the Environmental Protection Agency, Director of the Office of Management and Budget, Administrator of the National Aeronautics and Space Administration, Director of the National Science Foundation, Director of National Intelligence, Chairman of the Joint Chiefs of Staff, Under Secretary of Commerce for Oceans and Atmosphere, Assistant Secretary of the Army (Civil Works), and Commandant of the Coast Guard;
 

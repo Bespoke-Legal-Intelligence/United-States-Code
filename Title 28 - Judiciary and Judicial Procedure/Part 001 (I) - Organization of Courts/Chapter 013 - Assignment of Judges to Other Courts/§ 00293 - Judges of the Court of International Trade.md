@@ -26,7 +26,7 @@ Changes were made in phraseology.
 
 <b>1982</b>—Pub. L. 97–164, §110(b), substituted "the Court of International Trade" for "other courts" in section catchline.
 
-Subsec. (a). Pub. L. 97–164, §110(a)(1), (2), redesignated subsec. (b) as (a). Former subsec. (a), which authorized the Chief Justice to designate and assign judges of the Court of Claims or the Court of Customs and PatentAppeals to serve temporarily on the other of these two courts or in a court of appeals or district court of any circuit in times of necessity, was struck out.
+Subsec. (a). Pub. L. 97–164, §110(a)(1), (2), redesignated subsec. (b) as (a). Former subsec. (a), which authorized the Chief Justice to designate and assign judges of the Court of Claims or the Court of Customs and Patent Appeals to serve temporarily on the other of these two courts or in a court of appeals or district court of any circuit in times of necessity, was struck out.
 
 Subsec. (b). Pub. L. 97–164, §110(a)(2), (3), redesignated subsec. (e), as that subsec. was to have become effective pursuant to Pub. L. 95–598, as subsec. (b). Former subsec. (b) redesignated (a). See 1978 Amendment note below.
 

@@ -2,21 +2,27 @@
 
 #### (a) Regulations
 
-In accordance with regulations of the President, commissioned officers of the Regular Corps and officers of the Ready Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances: <i>Provided</i>, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days.
+In accordance with regulations of the President, commissioned officers of the Regular Corps and officers of the Ready Ready <sup>1</sup> Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances.
 
-#### (b) Repealed. Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499
+#### (b) Limitation
 
-#### (c) Repealed. Pub. L. 96–76, title III, §311, Sept. 29, 1979, 93 Stat. 586
+The regulations described in subsection (a) may authorize accumulated annual leave of not more than 120 days for any commissioned officer of the Regular Corps or officer of the Ready Reserve Corps on active duty.
 
-#### (d) <sup>1</sup> Definitions
+#### (c) <sup>2</sup> Definitions
 
 For purposes of this section the term "accumulated annual leave" means unused accrued annual leave carried forward from one leave year into a succeeding leave year, and the term "accrued annual leave" means the annual leave accruing to an officer during one leave year.
 
-(July 1, 1944, ch. 373, title II, §219, as added Aug. 9, 1950, ch. 654, §2, 64 Stat. 426; amended Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499; Pub. L. 96–76, title III, §311, Sept. 29, 1979, 93 Stat. 586; Pub. L. 116–136, div. A, title III, §3214(e)(3), Mar. 27, 2020, 134 Stat. 373.)
+(July 1, 1944, ch. 373, title II, §219, as added Aug. 9, 1950, ch. 654, §2, 64 Stat. 426; amended Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499; Pub. L. 96–76, title III, §311, Sept. 29, 1979, 93 Stat. 586; Pub. L. 116–136, div. A, title III, §3214(e)(3), Mar. 27, 2020, 134 Stat. 373; Pub. L. 117–328, div. FF, title II, §2225(a), Dec. 29, 2022, 136 Stat. 5750.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–328, §2225(a)(1), substituted "Ready Reserve Corps" for "Reserve Corps" and struck out ": <i>Provided</i>, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days" after "allowances".
+
+Subsec. (b). Pub. L. 117–328, §2225(a)(2), added subsec. (b).
+
+Subsecs. (c), (d). Pub. L. 117–328, §2225(a)(3), redesignated subsec. (d) as (c).
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–136 substituted "Ready Reserve Corps" for "Reserve Corps".
 
@@ -30,9 +36,9 @@ Subsec. (d). Pub. L. 87–649 repealed subsec. (d) insofar as it was applicable 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Change of Name
+#### Effective Date of 2022 Amendment
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+Pub. L. 117–328, div. FF, title II, §2225(b), Dec. 29, 2022, 136 Stat. 5750, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to accumulated annual leave (as defined in section 219 of the Public Health Service Act (42 U.S.C. 210–1)) that a commissioned officer of the Regular Corps or officer of the Ready Reserve Corps on active duty would, but for the regulations described in such section, lose at the end of fiscal year 2022 or a subsequent fiscal year."
 
 #### Effective Date of 1962 Amendment
 
@@ -43,6 +49,8 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 Section effective July 1, 1950, see section 3(a) of act Aug. 9, 1950, set out as an Effective Date of 1950 Amendment note under section 210 of this title.
 
 #### Authorization To Accumulate Excess Annual Leave
+
+Pub. L. 117–180, div. D, title III, §302, Sept. 30, 2022, 136 Stat. 2136, provided that: "For purposes of annual leave accumulated in fiscal year 2022, the authority provided in section 2106 of division C of Public Law 116–159 (42 U.S.C. 210–1 note) shall apply to such leave by substituting '2022' for '2020' in subsections (a) and (d)(2)."
 
 Pub. L. 116–159, div. C, title I, §2106, Oct. 1, 2020, 134 Stat. 729, provided that:
 
@@ -68,7 +76,7 @@ Effective Date.—This section shall become effective on the earlier of—
 
 #### Compensation for Prior Accumulated and Accrued Leave; Limitation; Inapplicable to Officers on Terminal Leave Prior to July 1, 1950
 
-Act Aug. 9, 1950, ch. 654, §3(b), (c), 64 Stat. 426, 427, provided that any officer credited with more than sixtydays of accumulated and accrued leave on June 30, 1949, be compensated for so much of such leave as exceeds sixty days, that such compensation be due and payable on July 1, 1950, and that the provisions of this Act not apply to any officer on terminal leave preceding separation, retirement, or release from active duty.
+Act Aug. 9, 1950, ch. 654, §3(b), (c), 64 Stat. 426, 427, provided that any officer credited with more than sixty days of accumulated and accrued leave on June 30, 1949, be compensated for so much of such leave as exceeds sixty days, that such compensation be due and payable on July 1, 1950, and that the provisions of this Act not apply to any officer on terminal leave preceding separation, retirement, or release from active duty.
 
 #### Availability of Funds
 
@@ -88,5 +96,7 @@ Functions of Public Health Service, of Surgeon General of Public Health Service,
 
 Functions of President delegated to Secretary of Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
 
-<i><sup>1</sup></i><i> See 1962 Amendment note below.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See 1962 Amendment note for subsec. (d) below.</i>
 

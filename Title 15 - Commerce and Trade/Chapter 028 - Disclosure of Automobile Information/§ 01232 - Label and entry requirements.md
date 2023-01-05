@@ -26,7 +26,7 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 
 &emsp;&emsp;(1) includes a graphic depiction of the number of stars, or other applicable rating, that corresponds to each such assigned safety rating displayed in a clearly differentiated fashion indicating the maximum possible safety rating;
 
-&emsp;&emsp;(2) refers to safety rating categories that may include frontal impact crash tests, side impact crash tests, and rollover resistance tests (whether or not such automobile has been assigned a safety rating for such tests);
+&emsp;&emsp;(2) refers to safety rating categories that may include frontal impact crash tests, side impact crash tests, and rollover resistancetests (whether or not such automobile has been assigned a safety rating for such tests);
 
 &emsp;&emsp;(3) contains information describing the nature and meaning of the crash test data presented and a reference to additional vehicle safety resources, including http://www.safecar.gov; <sup>1</sup> and
 

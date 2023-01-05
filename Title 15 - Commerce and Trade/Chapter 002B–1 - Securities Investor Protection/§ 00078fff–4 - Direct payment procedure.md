@@ -32,7 +32,7 @@ Except as otherwise provided in this section, nothing in this section shall limi
 
 #### (e) Jurisdiction of Bankruptcy Courts
 
-After SIPC has published notice of the institution of a direct payment procedure under this section, any person aggrieved by any determination of SIPC with respect to his claim under subsection (c) may, within six months following mailing by SIPC of its determination with respect to such claim, seek a final adjudication of such claim. The courts of the United States having jurisdiction over cases under title 11 shall have original and exclusive jurisdiction of any civil action for the adjudication of such claim. Any such action shall be brought in the judicial district where the head office of the debtor is located. Any determination of the rights of a customer under subsection (c) shall not prejudice any other right or remedy of the customer against the member.
+After SIPC has published notice of the institution of a direct payment procedure under this section, any person aggrieved by any determination of SIPC with respect to his claim under subsection (c) may, within six months following mailing by SIPC of its determination with respect to such claim, seek a final adjudication of such claim. The courts of the United States having jurisdiction over cases under title 11 shallhave original and exclusive jurisdiction of any civil action for the adjudication of such claim. Any such action shall be brought in the judicial district where the head office of the debtor is located. Any determination of the rights of a customer under subsection (c) shall not prejudice any other right or remedy of the customer against the member.
 
 #### (f) Discontinuance of direct payment procedures
 
@@ -40,7 +40,7 @@ If, at any time after the institution of a direct payment procedure with respect
 
 #### (g) References
 
-For purposes of this section, any reference to the trustee in sections 78fff–1(b)(1), 78fff–2(d), 78fff–2(f), 78fff–3(a), 78lll(5) and 78lll(12) of thistitle shall be deemed a reference to SIPC, and any reference to the date of publication of notice under section 78fff–2(a) of this title shall be deemed a reference to the publication of notice under this section.
+For purposes of this section, any reference to the trustee in sections 78fff–1(b)(1), 78fff–2(d), 78fff–2(f), 78fff–3(a), 78lll(5) and 78lll(12) of this title shall be deemed a reference to SIPC, and any reference to the date of publication of notice under section 78fff–2(a) of this title shall be deemed a reference to the publication of notice under this section.
 
 (Pub. L. 91–598, §10, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 266; amended Pub. L. 95–598, title III, §308(n), Nov. 6, 1978, 92 Stat. 2675.)
 

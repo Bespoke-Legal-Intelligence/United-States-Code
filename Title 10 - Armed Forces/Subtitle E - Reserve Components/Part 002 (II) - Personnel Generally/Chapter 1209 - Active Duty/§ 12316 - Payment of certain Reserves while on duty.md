@@ -66,7 +66,7 @@ Subsec. (a)(1), (2). Pub. L. 116–283, §621(a)(2), added pars. (1) and (2) and
 
 Subsec. (b). Pub. L. 116–283, §621(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 116–283, §621(b)(1), (c), redesignated subsec. (b) as (c) and substituted "(a)(1) or (b)(2), as applicable," for "(a)(2)" in two places, "a Reserve's earlier military service are greater" for "his earlier military service are greater", "the Reserve's earlier military service" for "his earlier military service" in two places, "the Reserve is entitled" for "he is entitled", and "the Reserve or the Reserve's dependents" for "the member or his dependents".
+Subsec. (c). Pub. L. 116–283, §621(b)(1), (c), redesignated subsec. (b) as (c) and substituted "(a)(1) or (b)(2),as applicable," for "(a)(2)" in two places, "a Reserve's earlier military service are greater" for "his earlier military service are greater", "the Reserve's earlier military service" for "his earlier military service" in two places, "the Reserve is entitled" for "he is entitled", and "the Reserve or the Reserve's dependents" for "the member or his dependents".
 
 Subsec. (d). Pub. L. 116–283, §621(d), added subsec. (d).
 

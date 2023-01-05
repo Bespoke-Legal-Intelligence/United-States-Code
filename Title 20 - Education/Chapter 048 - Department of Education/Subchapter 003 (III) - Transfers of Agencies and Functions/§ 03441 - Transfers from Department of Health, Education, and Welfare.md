@@ -82,7 +82,7 @@ There are transferred to the Secretary all functions of the Secretary of Health,
 
 #### (d) Reservation of functions relating to Project Head Start
 
-Nothing in the provisions of this section or in the provisions of this chapter shall authorize the transfer of functions under part A of title V of the Economic Opportunity Act of 1964 \[42 U.S.C. 2928 et seq.\], relating to Project HeadStart, from the Secretary of Health, Education, and Welfare to the Secretary.
+Nothing in the provisions of this section or in the provisions of this chapter shall authorize the transfer of functions under part A of title V of the Economic Opportunity Act of 1964 \[42 U.S.C. 2928 et seq.\], relating to Project Head Start, from the Secretary of Health, Education, and Welfare to the Secretary.
 
 (Pub. L. 96–88, title III, §301, Oct. 17, 1979, 93 Stat. 677; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(2)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
 
@@ -98,7 +98,7 @@ The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 8
 
 The Education Amendments of 1978, referred to in subsec. (a)(2)(D), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of this title and Tables.
 
-Act of August 30, 1890 (7 U.S.C. 321–328), referred to in subsec. (a)(2)(E), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
+Act of August 30, 1890 (7 U.S.C. 321–328), referred to in subsec. (a)(2)(E), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classifiedgenerally to subchapter II (§321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
 
 The National Defense Education Act of 1958, referred to in subsec. (a)(2)(F), is Pub. L. 85–864, Sept. 2, 1958, 72 Stat. 1580, which was classified principally to chapter 17 (§401 et seq.) of this title prior to omission from the Code. For complete classification of this Act to the Code, see Tables.
 
@@ -132,7 +132,7 @@ Act of June 20, 1936, referred to in subsec. (a)(4)(B), is act June 20, 1936, ch
 
 <b>1996</b>—Subsec. (a)(5) to (7). Pub. L. 104–208, §101(e) \[title VII, §709(b)(2)(A)\], redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which transferred all functions of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Secretary of Education.
 
-Subsec. (b)(4) to (7). Pub. L. 104–208, §101(e) \[title VII, §709(b)(2)(B)\], redesignated pars. (5) to (7) as (4) to (6),respectively, and struck out former par. (4) which transferred the offices, etc., of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Department of Education.
+Subsec. (b)(4) to (7). Pub. L. 104–208, §101(e) \[title VII, §709(b)(2)(B)\], redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which transferred the offices, etc., of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Department of Education.
 
 <b>1990</b>—Subsec. (a)(2)(H). Pub. L. 101–476 substituted "Individuals with Disabilities Education Act" for "Education of the Handicapped Act".
 

@@ -12,7 +12,7 @@ Certificate of Recordation.—The Register of Copyrights shall, upon receipt of 
 
 Recordation as Constructive Notice.—Recordation of a document in the Copyright Office gives all persons constructive notice of the facts stated in the recorded document, but only if—
 
-&emsp;(1) the document, or material attached to it, specifically identifies the work to which it pertains so that, after the document is indexed by the Register of Copyrights, it would be revealed by a reasonable search under the title or registration number of the work; and
+&emsp;(1) the document, or material attached to it, specifically identifies the work to which itpertains so that, after the document is indexed by the Register of Copyrights, it would be revealed by a reasonable search under the title or registration number of the work; and
 
 &emsp;(2) registration has been made for the work.
 
@@ -38,7 +38,7 @@ The recording and priority provisions of section 205 are intended to clear up a 
 
 The provisions of subsection (d), requiring recordation of transfers as a prerequisite to the institution of an infringement suit, represent a desirable change in the law. The one- and three-month grace periods provided in subsection (e) are a reasonable compromise between those who want a longer hiatus and those who argue that any grace period makes it impossible for a bona fide transferee to rely on the record at any particular time.
 
-Under subsection (f) of section 205, a nonexclusive license in writing and signed, whether recorded or not, would be valid against a later transfer, and would also prevail as against a prior unrecorded transfer if takenin good faith and without notice. Objections were raised by motion picture producers, particularly to the provision allowing unrecorded nonexclusive licenses to prevail over subsequent transfers, on the ground that a nonexclusive license can have drastic effects on the value of a copyright. On the other hand, the impracticalities and burdens that would accompany any requirement of recordation of nonexclusive licenses outweigh the limited advantages of a statutory recordation system for them.
+Under subsection (f) of section 205, a nonexclusive license in writing and signed, whether recorded or not, would be valid against a later transfer, and would also prevail as against a prior unrecorded transfer if taken in good faith and without notice. Objections were raised by motion picture producers, particularly to the provision allowing unrecorded nonexclusive licenses to prevail over subsequent transfers, on the ground that a nonexclusive license can have drastic effects on the value of a copyright. On the other hand, the impracticalities and burdens that would accompany any requirement of recordation of nonexclusive licenses outweigh the limited advantages of a statutory recordation system for them.
 
 #### <b>Editorial Notes</b>
 
@@ -76,5 +76,5 @@ Regulations.—The Register of Copyrights is authorized to establish regulations
 
 #### Registration of Claims to Copyrights and Recordation of Assignments of Copyrights and Other Instruments Under Predecessor Provisions
 
-Recordation of assignments of copyrights or other instruments received in the Copyright Office before Jan. 1, 1978, to be made in accordance with this title as it existed on Dec. 31, 1977, see section 109 of Pub. L. 94–553, set out as a note under section 410 of this title.
+Recordation of assignments of copyrights or other instruments received in the Copyright Office before Jan.1, 1978, to be made in accordance with this title as it existed on Dec. 31, 1977, see section 109 of Pub. L. 94–553, set out as a note under section 410 of this title.
 

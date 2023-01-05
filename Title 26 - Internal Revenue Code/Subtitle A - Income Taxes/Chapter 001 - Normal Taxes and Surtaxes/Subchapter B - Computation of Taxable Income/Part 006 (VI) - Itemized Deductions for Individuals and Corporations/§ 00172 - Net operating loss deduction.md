@@ -106,7 +106,7 @@ There shall be allowed as a deduction for the taxable year an amount equal to—
 
 #### (I) Special election to exclude section 965 years
 
-&emsp;&emsp;&emsp;&emsp;If the 5-year carryback period under clause (i)(I) with respect to any net operating loss of a taxpayer includes 1 or more taxable years in which an amount is includible in gross income by reason of section 965(a), the taxpayer may, in lieu of the election otherwise available underparagraph (3), elect under such paragraph to exclude all such taxable years from such carryback period.
+&emsp;&emsp;&emsp;&emsp;If the 5-year carryback period under clause (i)(I) with respect to any net operating loss of a taxpayer includes 1 or more taxable years in which an amount is includible in gross income by reason of section 965(a), the taxpayer may, in lieu of the election otherwise available under paragraph (3), elect under such paragraph to exclude all such taxable years from such carryback period.
 
 #### (II) Time of elections
 
@@ -314,7 +314,7 @@ Subsec. (d)(5). Pub. L. 113–295, §221(a)(41)(B), amended par. (5) generally. 
 
 Subsec. (g). Pub. L. 113–295, §221(a)(30)(A)(ii), redesignated subsec. (h) as (g) and struck out former subsec. (g) which related to rules relating to bad debt losses of commercial banks.
 
-Subsec. (g)(2)(F). Pub. L. 113–295, §221(a)(30)(B)(vi), struck out subpar. (F). Text read as follows: "If any of the 3 taxable years described in subparagraph (C)(ii) end on or before August 2, 1989, the taxpayer may substitute for the amount determined under such subparagraph an amount equal to the interest paid or accrued (determined on an annualized basis) during the taxpayer's taxable year which includes August 3, 1989, on indebtedness of the taxpayer outstanding on August 2, 1989."
+Subsec. (g)(2)(F). Pub. L. 113–295, §221(a)(30)(B)(vi), struck out subpar. (F). Text read as follows: "If any of the 3 taxable years described in subparagraph (C)(ii)end on or before August 2, 1989, the taxpayer may substitute for the amount determined under such subparagraph an amount equal to the interest paid or accrued (determined on an annualized basis) during the taxpayer's taxable year which includes August 3, 1989, on indebtedness of the taxpayer outstanding on August 2, 1989."
 
 Subsec. (g)(4)(B)(ii), (C). Pub. L. 113–295, §221(a)(30)(B)(vii), substituted "subsection (b)(1)(D)" for "subsection (b)(1)(E)".
 
@@ -568,7 +568,7 @@ Subsecs. (i), (j). Pub. L. 95–600, §371(b), added subsec. (i) and redesignate
 
 Subsec. (b)(1)(C). Pub. L. 94–455, §§806(b)(1), 1901(a)(29)(C)(ii), inserted "For any taxable year ending after December 31, 1975, the preceding sentence shall be applied by substituting '9 taxable years' for '7 taxable years' " after "year of such loss", substituted "subsection (g)(1)" for "subsection (j)(1)" after "as defined in" and "subsection (g)" for "subsection (j)" after "as provided in".
 
-Subsec. (b)(1)(D). Pub. L. 94–455, §§1901(a)(29)(C)(iii), 2126, substituted "subsection (h)" for "subsection (k)" after "as defined in" and "20" for "15" after "expropriation loss, to each of the".
+Subsec. (b)(1)(D). Pub. L. 94–455, §§1901(a)(29)(C)(iii), 2126, substituted "subsection (h)" for "subsection (k)"after "as defined in" and "20" for "15" after "expropriation loss, to each of the".
 
 Subsec. (b)(1)(E). Pub. L. 94–455, §1606(b), added subpar. (E).
 
@@ -762,7 +762,7 @@ Amendment by Pub. L. 108–311 effective as if included in the provisions of the
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title I, §102(d), Mar. 9, 2002, 116 Stat. 26, provided that: "Except as provided in subsection (c) \[amending section 56 of this title and enacting provisions set out as a note under section 56 of this title\], the amendments made by this section \[amending this section and section 56 of this title\] shall apply to netoperating losses for taxable years ending after December 31, 2000."
+Pub. L. 107–147, title I, §102(d), Mar. 9, 2002, 116 Stat. 26, provided that: "Except as provided in subsection (c)\[amending section 56 of this title and enacting provisions set out as a note under section 56 of this title\], the amendments made by this section \[amending this section and section 56 of this title\] shall apply to net operating losses for taxable years ending after December 31, 2000."
 
 #### Effective Date of 1998 Amendment
 
@@ -866,7 +866,7 @@ In general.—Except as otherwise provided in subparagraph (B), the adjusted bas
 
 &emsp;&emsp;"(i) for purposes of determining any loss, be equal to the lesser of the adjusted basis of such asset or the fair market value of such asset as of such date, and
 
-&emsp;&emsp;"(ii) for purposes of determining any gain, be equal to the higher of the adjusted basis of suchasset or the fair market value of such asset as of such date.
+&emsp;&emsp;"(ii) for purposes of determining any gain, be equal to the higher of the adjusted basis of such asset or the fair market value of such asset as of such date.
 
 &emsp;"(B)
 
@@ -1024,7 +1024,7 @@ Election to disregard application of amendments made by subsections (a
 
 In general.—If a taxpayer who has a farming loss (within the meaning of section 172(b)(1)(B)(ii) of the Internal Revenue Code of 1986) for any taxable year beginning in 2018, 2019, or 2020 makes an election under this paragraph, then—
 
-&emsp;&emsp;"(i) the amendments made by subsection (a) \[amending this section and section 860E of this title\] shall not apply to any taxable year beginning in 2018, 2019, or 2020, and
+&emsp;&emsp;"(i) the amendments made by subsection (a) \[amending this section and section 860E of thistitle\] shall not apply to any taxable year beginning in 2018, 2019, or 2020, and
 
 &emsp;&emsp;"(ii) the amendments made by subsection (b) \[amending this section\] shall not apply to any net operating loss arising in any taxable year beginning in 2018, 2019, or 2020.
 
@@ -1296,7 +1296,7 @@ In general.—The Secretary of the Treasury shall not make payment of any refund
 
 &emsp;"(2)
 
-No interest.—Notwithstanding any other provision of law, if the payment of any refund is delayed by reason of paragraph (1), no interest shall accrue with respect to such payment prior to the 45th dayfollowing the date of the enactment of Federal legislation described in paragraph (1).
+No interest.—Notwithstanding any other provision of law, if the payment of any refund is delayed by reason of paragraph (1), no interest shall accrue with respect to such payment prior to the 45th day following the date of the enactment of Federal legislation described in paragraph (1).
 
 &emsp;"(3)
 

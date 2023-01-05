@@ -26,7 +26,7 @@
 
 (2)(A) There is established in the Employees Health Benefits Fund a Vision Benefits Administrative Account, which shall be available to the Office, without fiscal year limitation, to defray reasonable expenses incurred by the Office in administering this chapter after the start of the first contract year.
 
-&emsp;(B) A contract under this chapter shall include appropriate provisions under which the qualified company involved shall, during each year, make such periodic contributions to the Vision Benefits Administrative Account as necessary to ensure that the reasonable anticipated expenses of the Office in administering this chapter during such year are defrayed.
+(B) A contract under this chapter shall include appropriate provisions under which the qualified company involved shall, during each year, make such periodic contributions to the Vision Benefits Administrative Account as necessary to ensure that the reasonable anticipated expenses of the Office in administering this chapter during such year are defrayed.
 
 (Added Pub. L. 108–496, §3, Dec. 23, 2004, 118 Stat. 4009; amended Pub. L. 114–328, div. A, title VII, §715(b)(2), Dec. 23, 2016, 130 Stat. 2222.)
 

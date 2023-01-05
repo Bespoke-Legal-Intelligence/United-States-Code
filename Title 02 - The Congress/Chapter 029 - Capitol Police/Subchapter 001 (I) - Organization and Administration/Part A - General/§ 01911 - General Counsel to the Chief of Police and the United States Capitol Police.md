@@ -22,7 +22,7 @@ The General Counsel shall be appointed by the Chief of the Capitol Police in acc
 
 #### (5) No effect on current General Counsel
 
-Nothing in this section or the amendments made by this section may be construed to affect the status of the individual serving as the General Counsel to the Chief of Police and the United States Capitol Police as of March 4, 2010.
+Nothing in this section or the amendments made by this section may be construed to affectthe status of the individual serving as the General Counsel to the Chief of Police and the United States Capitol Police as of March 4, 2010.
 
 (Pub. L. 111–145, §3(a), Mar. 4, 2010, 124 Stat. 51.)
 

@@ -14,7 +14,7 @@ For purposes of this chapter, the following terms have the following meanings:
 
 &emsp;(2) The term "contractor" means—
 
-&emsp;&emsp;(A) an individual employed by personal services contract pursuant to section 2669(c) of this title, section 2396(a)(3) of this title, or pursuant to other similar authority, including, in the case of an organization performing services under such authority, an individual involved in the performance of such services; and
+&emsp;&emsp;(A) an individual employed by personal services contract pursuant to section 2669(c) of this title, section 2396(a)(3) of this title, or pursuant to other similar authority, including, in the case of an organization performing services under such authority, anindividual involved in the performance of such services; and
 
 &emsp;&emsp;(B) such other individuals or firms providing goods or services by contract as are designated by regulations issued pursuant to section 4343 of this title;
 
@@ -26,7 +26,7 @@ For purposes of this chapter, the following terms have the following meanings:
 
 &emsp;(5) The term "foreign country" means any country or territory, excluding the United States, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, American Samoa, Guam, the Virgin Islands, and other territories or possessions of the United States.
 
-&emsp;(6) The term "personal property" means any item of personal property, including automobiles, computers, boats, audio and videoequipment, and any other items acquired for personal use, but excluding items of minimal value as determined by regulation or policy issued pursuant to section 4343 of this title.
+&emsp;(6) The term "personal property" means any item of personal property, including automobiles, computers, boats, audio and video equipment, and any other items acquired for personal use, but excluding items of minimal value as determined by regulation or policy issued pursuant to section 4343 of this title.
 
 &emsp;(7) The term "profit" means any proceeds (including cash and other valuable consideration but not including amounts of such proceeds given as charitable contributions) for the sale, disposition, or assignment of personal property in excess of the basis for such property. For purposes of this chapter, basis shall include initial price, inland and overseas transportation costs (if not reimbursed by the United States Government), shipping insurance, taxes, customs fees, duties or other charges, and capital improvements, but shall not include insurance on an item while in use, or maintenance and related costs. For purposes of computing profit, proceeds and costs shall be valued in United States dollars at the time of receipt or payment, at a rate of exchange as determined by regulation or policy issued pursuant to section 4343 of this title.
 

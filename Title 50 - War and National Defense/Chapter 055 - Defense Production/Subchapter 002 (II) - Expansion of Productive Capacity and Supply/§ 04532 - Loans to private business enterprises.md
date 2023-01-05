@@ -2,7 +2,7 @@
 
 #### (a) Loan authority
 
-To reduce current or projected shortfalls of industrial resources, critical technology items, or materials essential for the national defense, the President may make provision for loans to private business enterprises (including nonprofit research corporations and providers of critical infrastructure) for the creation, maintenance, expansion, protection, or restoration of capacity, the development of technological processes, or the production of essential materials, including the exploration, development, and mining of strategic and critical metals and minerals.
+To reduce current or projected shortfalls of industrial resources, critical technology items, ormaterials essential for the national defense, the President may make provision for loans to private business enterprises (including nonprofit research corporations and providers of critical infrastructure) for the creation, maintenance, expansion, protection, or restoration of capacity, the development of technological processes, or the production of essential materials, including the exploration, development, and mining of strategic and critical metals and minerals.
 
 #### (b) Conditions of loans
 
@@ -76,7 +76,7 @@ Pub. L. 116–136, div. A, title IV, §4017, Mar. 27, 2020, 134 Stat. 482, provi
 
 &emsp;"(1) during the 2-year period beginning on the date of enactment of this Act \[Mar. 27, 2020\], the requirements described in sections 303(a)(6)(C) and 304(e) of the Defense Production Act of 1950 (50 U.S.C. 4533(a)(6)(C), 4534(e)) shall not apply; and
 
-&emsp;"(2) during the 1-year period beginning on the date of enactment of this Act, the requirements described in sections 302(d)(1) and 303(a)(6)(B) of the DefenseProduction Act of 1950 (50 U.S.C. 4532(d)(1), 4533(a)(6)(B)) shall not apply."
+&emsp;"(2) during the 1-year period beginning on the date of enactment of this Act, the requirements described in sections 302(d)(1) and 303(a)(6)(B) of the Defense Production Act of 1950 (50 U.S.C. 4532(d)(1), 4533(a)(6)(B)) shall not apply."
 
 #### Legislative Waiver of Loan Limitations
 
@@ -86,7 +86,7 @@ Requirement described in subsec. (c)(1) of this section waived for the two-year 
 
 #### Delegation of Functions
 
-Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under section 4511 of this title.
+Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85F.R. 18403, set out as a note under section 4511 of this title.
 
 Functions of President under this chapter relating to production, conservation, use, control, distribution, and allocation of energy, delegated to Secretary of Energy, see section 4 of Ex. Ord. No. 11790, June 25, 1974, 39 F.R. 23185, set out as a note under section 761 of Title 15, Commerce and Trade.
 

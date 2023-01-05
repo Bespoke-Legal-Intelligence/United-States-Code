@@ -98,7 +98,7 @@ Sec. 5. <i>Foreign Ownership, Control, or Influence (FOCI)</i>. The EOC shall co
 
 (d) ensure coordination with the Committee on Foreign Investment in the United States.
 
-Sec. 6. <i>Domestic Enrichment Services</i>. The EOC shall collect and analyze information related to the maintenance of domestic uranium mining, enrichment, and conversion industries, provided that such activities shall be undertaken in a manner that provides appropriate protection for such information. In particular, the EOC shall:
+Sec. 6. <i>Domestic Enrichment Services</i>. The EOC shall collect and analyze information related to the maintenance of domestic uranium mining, enrichment, and conversion industries, provided that such activitiesshall be undertaken in a manner that provides appropriate protection for such information. In particular, the EOC shall:
 
 (a) collect and review all public filings made by or with respect to the USEC or any successor entities with the Securities and Exchange Commission;
 

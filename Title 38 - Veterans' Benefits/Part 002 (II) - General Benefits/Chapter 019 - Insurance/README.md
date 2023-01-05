@@ -51,7 +51,7 @@
 | [1946\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Government%20Life%20Insurance/%C2%A7%2001946%20-%20Dividends%20to%20pay%20premiums.md) | Dividends to pay premiums. |
 | [1947\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Government%20Life%20Insurance/%C2%A7%2001947%20-%20Incontestability.md) | Incontestability. |
 | [1948\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Government%20Life%20Insurance/%C2%A7%2001948%20-%20Total%20disability%20provision.md) | Total disability provision. |
-| [1949\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Government%20Life%20Insurance/%C2%A7%2001949%20-%20Change%20of%20beneficiary.md) | Change of beneficiary. |
+| [1949\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Government%20Life%20Insurance/%C2%A7%2001949%20-%20Beneficiaries.md) | Beneficiaries. |
 | [1950\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Government%20Life%20Insurance/%C2%A7%2001950%20-%20Payment%20to%20estates.md) | Payment to estates. |
 | [1951\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Government%20Life%20Insurance/%C2%A7%2001951%20-%20Payment%20of%20insurance.md) | Payment of insurance. |
 | [1952\.](Subchapter%20002%20%28II%29%20-%20United%20States%20Government%20Life%20Insurance/%C2%A7%2001952%20-%20Optional%20settlement.md) | Optional settlement. |
@@ -111,6 +111,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–313, §3(b)(2), Dec. 27, 2022, 136 Stat. 4400, substituted "Beneficiaries" for "Change of beneficiary" in item 1949.
 
 <b>2021</b>—Pub. L. 116–315, title II, §2004(a)(2), (c)(3), Jan. 5, 2021, 134 Stat. 4974, added item 1922B and substituted "Legacy service" for "Service" in item 1922 and "Legacy supplemental" for "Supplemental" in item 1922A.
 

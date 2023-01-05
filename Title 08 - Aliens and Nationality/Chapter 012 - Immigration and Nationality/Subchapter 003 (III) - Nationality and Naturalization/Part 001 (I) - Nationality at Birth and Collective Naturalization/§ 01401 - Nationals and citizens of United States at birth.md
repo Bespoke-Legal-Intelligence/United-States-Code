@@ -24,7 +24,7 @@ The following shall be nationals and citizens of the United States at birth:
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 
@@ -70,7 +70,7 @@ Pub. L. 103–416, title I, §101(c), Oct. 25, 1994, 108 Stat. 4306, provided th
 
 "(1) Except as provided in paragraph (2), the immigration and nationality laws of the United States shall be applied (to persons born before, on, or after the date of the enactment of this Act \[Oct. 25, 1994\]) as though the amendment made by subsection (a) \[amending this section\], and subsection (b) \[enacting provisions set out above\], had been in effect as of the date of their birth, except that the retroactive application of the amendment and that subsection shall not affect the validity of citizenship of anyone who has obtained citizenship under section 1993 of the Revised Statutes \[former 8 U.S.C. 6\] (as in effect before the enactment of the Act of May 24, 1934 (48 Stat. 797)).
 
-"(2) The retroactive application of the amendment made by subsection (a), and subsection (b), shall not confer citizenship on, or affect the validity of any denaturalization, deportation, or exclusion action against, any person who is or was excludable from the United States under section 212(a)(3)(E) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(E)) (or predecessor provision) or who was excluded from, or who would not have been eligible for admission to, the United States under the Displaced Persons Act of 1948 \[former 50 U.S.C. App. 1951 et seq.\] or under section 14 of the Refugee Relief Act of 1953 \[former 50 U.S.C. App. 1971l\]."
+"(2) The retroactive application of the amendment made by subsection (a), and subsection (b), shall not confer citizenship on, or affect the validity of any denaturalization, deportation, or exclusion action against, any person who is or was excludable from the United States under section 212(a)(3)(E) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(E)) (or predecessor provision) or who was excluded from, orwho would not have been eligible for admission to, the United States under the Displaced Persons Act of 1948 \[former 50 U.S.C. App. 1951 et seq.\] or under section 14 of the Refugee Relief Act of 1953 \[former 50 U.S.C. App. 1971l\]."
 
 #### Applicability of Transmission Requirements
 

@@ -68,7 +68,7 @@ Congress—
 
 #### (3) Penalties
 
-&emsp;The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations prescribed under paragraph (1) of this subsection to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
+&emsp;The penalties provided for in subsections (b) and (c) of section 206 of the InternationalEmergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations prescribed under paragraph (1) of this subsection to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
 
 #### (4) Determinations regarding NIOC and NITC
 
@@ -88,7 +88,7 @@ Congress—
 
 #### (i) Application of sanctions
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Secretary of the Treasury determines that the NIOC or the NITC is a person described in clause (i) or (ii) of paragraph (2)(E), the regulations prescribed under paragraph (1) shall apply with respect to a significant transaction or transactions or significant financial services knowingly facilitated or provided by a foreign financial institution for the NIOC or the NITC, as applicable, for the purchase of petroleum or petroleum products from Iran, only if a determination of the President under section 8513a(d)(4)(B) of this title that there is asufficient supply of petroleum and petroleum products produced in countries other than Iran to permit purchasers of petroleum and petroleum products from Iran to reduce significantly their purchases from Iran is in effect at the time of the transaction or the provision of the service.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Secretary of the Treasury determines that the NIOC or the NITC is a person described in clause (i) or (ii) of paragraph (2)(E), the regulations prescribed under paragraph (1) shall apply with respect to a significant transaction or transactions or significant financial services knowingly facilitated or provided by a foreign financial institution for the NIOC or the NITC, as applicable, for the purchase of petroleum or petroleum products from Iran, only if a determination of the President under section 8513a(d)(4)(B) of this title that there is a sufficient supply of petroleum and petroleum products produced in countries other than Iran to permit purchasers of petroleum and petroleum products from Iran to reduce significantly their purchases from Iran is in effect at the time of the transaction or the provision of the service.
 
 #### (ii) Exception for certain countries
 
@@ -154,7 +154,7 @@ The Secretary of the Treasury may waive the application of a prohibition or cond
 
 #### (1) In general
 
-&emsp;If a finding under paragraph (1) or (4) of subsection (c) or section 8513b of this title, a prohibition, condition, or penalty imposed as aresult of any such finding, or a penalty imposed under subsection (d), is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)) and a court reviews the finding or the imposition of the prohibition, condition, or penalty, the Secretary of the Treasury may submit such information to the court ex parte and in camera.
+&emsp;If a finding under paragraph (1) or (4) of subsection (c) or section 8513b of this title, a prohibition, condition, or penalty imposed as a result of any such finding, or a penalty imposed under subsection (d), is based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)) and a court reviews the finding or the imposition of the prohibition, condition, or penalty, the Secretary of the Treasury may submit such information to the court ex parte and in camera.
 
 #### (2) Rule of construction
 

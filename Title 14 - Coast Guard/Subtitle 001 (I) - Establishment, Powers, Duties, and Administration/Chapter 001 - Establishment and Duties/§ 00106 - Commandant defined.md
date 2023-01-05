@@ -86,7 +86,7 @@ Section 248, added act Aug. 9, 1955, ch. 684, §1(2), 69 Stat. 620, related to i
 
 A prior section 277, added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 183, provided that warrant officers could be temporarily promoted to higher warrant officer grades under regulations prescribed by Secretary, prior to repeal by Pub. L. 104–324, title II, §210(a), Oct. 19, 1996, 110 Stat. 3915, with such repeal not to be construed to affect the status of any warrant officer then serving under a temporary promotion.
 
-A prior section 293, added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 187; amended Pub. L. 99–348, title II, §205(b)(5), July 1, 1986, 100 Stat. 700, mandated retirement of any regular commissioned officer, except acommissioned warrant officer, at age 62, prior to repeal by Pub. L. 111–281, title II, §215(a), Oct. 15, 2010, 124 Stat. 2916.
+A prior section 293, added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 187; amended Pub. L. 99–348, title II, §205(b)(5), July 1, 1986, 100 Stat. 700, mandated retirement of any regular commissioned officer, except a commissioned warrant officer, at age 62, prior to repeal by Pub. L. 111–281, title II, §215(a), Oct. 15, 2010, 124 Stat. 2916.
 
 #### Amendments
 
@@ -94,7 +94,17 @@ A prior section 293, added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Definition of Commandant
+#### Definitions
 
-Pub. L. 116–283, div. G, §8002, Jan. 1, 2021, 134 Stat. 4633, provided that: "In this division \[div. G of Pub. L. 116–283, see Tables for classification\], the term 'Commandant' means the Commandant of the Coast Guard."
+Pub. L. 117–263, div. K, §11002, Dec. 23, 2022, 136 Stat. 4003, provided that: "In this division \[div. K (§§11001–11808) of Pub. L. 117–263, see Tables for classification\]:
+
+&emsp;"(1)
+
+Commandant.—The term 'Commandant' means the Commandant of the Coast Guard.
+
+&emsp;"(2)
+
+Secretary.—Except as otherwise provided, the term 'Secretary' means the Secretary of the department in which the Coast Guard is operating."
+
+Pub. L. 116–283, div. G, §8002, Jan. 1, 2021, 134 Stat. 4633, provided that: "In this division \[div. G (§§8001–8605) of Pub. L. 116–283, see Tables for classification\], the term 'Commandant' means the Commandant of the Coast Guard."
 

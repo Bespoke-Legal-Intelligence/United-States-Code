@@ -166,7 +166,7 @@ In this section:
 
 &emsp;&emsp;(D) the aggregate amount of direct funds from non-Federal public sector and private sources that are formally committed to the demonstration program as matching contributions;
 
-&emsp;&emsp;(E) the adequacy of the plan of the qualified entity to provide information relevant to an evaluation of the demonstration program; and
+&emsp;&emsp;(E) the adequacy of the plan of the qualified entity to provide information relevantto an evaluation of the demonstration program; and
 
 &emsp;&emsp;(F) such other factors as the Secretary considers to be appropriate.
 

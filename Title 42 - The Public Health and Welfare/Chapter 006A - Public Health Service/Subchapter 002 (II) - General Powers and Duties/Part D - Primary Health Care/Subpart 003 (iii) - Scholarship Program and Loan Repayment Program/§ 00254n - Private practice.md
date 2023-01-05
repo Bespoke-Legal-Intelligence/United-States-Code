@@ -28,7 +28,7 @@ The Secretary may pay an individual who has entered into an agreement with the S
 
 #### (e) Sale of equipment and supplies
 
-Upon the expiration of the written agreement under subsection (a), the Secretary may (notwithstanding any other provision of law) sell tothe individual who has entered into an agreement with the Secretary under subsection (a), equipment and other property of the United States utilized by such individual in providing health services. Sales made under this subsection shall be made at the fair market value (as determined by the Secretary) of the equipment or such other property, except that the Secretary may make such sales for a lesser value to the individual if he determines that the individual is financially unable to pay the full market value.
+Upon the expiration of the written agreement under subsection (a), the Secretary may (notwithstanding any other provision of law) sell to the individual who has entered into an agreement with the Secretary under subsection (a), equipment and other property of the United States utilized by such individual in providing health services. Sales made under this subsection shall be made at the fair market value (as determined by the Secretary) of the equipment or such other property, except that the Secretary may make such sales for a lesser value to the individual if he determines that the individual is financially unable to pay the full market value.
 
 #### (f) Malpractice insurance
 
@@ -42,7 +42,7 @@ The Secretary may, out of appropriations authorized under section 254k of this t
 
 &emsp;(D) $2,500 in the fourth year of obligated service; or
 
-&emsp;(2) an amount determined by subtracting such individual's net income before taxes from the income the individual would have received as a member of the Corps for each such year of obligated service.
+&emsp;(2) an amount determined by subtracting such individual's net income before taxes fromthe income the individual would have received as a member of the Corps for each such year of obligated service.
 
 #### (g) Technical assistance
 

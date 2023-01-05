@@ -60,7 +60,7 @@ Pub. L. 106–579, Dec. 28, 2000, 114 Stat. 3078, as amended by Pub. L. 110–16
 
 &emsp;"(4) the relevance of Memorial Day must be made more apparent to present and future generations of people of the United States through local and national observances and ongoing activities;
 
-&emsp;"(5) in House Concurrent Resolution 302, agreed to May 25, 2000, Congress called on the people of the United States, in a symbolic act of unity, to observe a National Moment of Remembrance to honor the men and women of the United States who died in the pursuit of freedom and peace;
+&emsp;"(5) in House Concurrent Resolution 302, agreed to May 25, 2000, Congress called on the people of the United States, in a symbolic act of unity, to observe a National Moment of Remembrance to honor themen and women of the United States who died in the pursuit of freedom and peace;
 
 &emsp;"(6) in Presidential Proclamation No. 7315 of May 26, 2000 (65 Fed. Reg. 34907), the President proclaimed Memorial Day, May 29, 2000, as a day of prayer for permanent peace, and designated 3:00 p.m. local time on that day as the time to join in prayer and to observe the National Moment of Remembrance; and
 
@@ -234,7 +234,7 @@ Contents.—A report under paragraph (1) may include—
 
 &emsp;&emsp;&emsp;"(v) ceremonies and celebrations commemorating specific events that relate to the history of wars of the United States; and
 
-&emsp;&emsp;&emsp;"(vi) competitions, commissions, and awards regarding historical, scholarly, artistic, literary, musical, and other works, programs, and projects related to commemoration of Memorial Day and the National Moment of Remembrance;
+&emsp;&emsp;&emsp;"(vi) competitions, commissions, and awards regarding historical, scholarly, artistic, literary,musical, and other works, programs, and projects related to commemoration of Memorial Day and the National Moment of Remembrance;
 
 &emsp;&emsp;"(B) recommendations to appropriate agencies or advisory bodies regarding the issuance by the United States of commemorative coins, medals, and stamps relating to Memorial Day and the National Moment of Remembrance;
 
@@ -382,7 +382,7 @@ In general.—Except as provided in subparagraph (B), the Chairperson of the Com
 
 &emsp;&emsp;"(B)
 
-Maximum rate of pay.—The rate of pay for the Executive Director and White House Liaison and other personnel shall not exceed the rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission.
+Maximum rate of pay.—The rate of pay for the Executive Director and White House Liaison and other personnel shall not exceed the rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code,for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission.
 
 "(d)
 

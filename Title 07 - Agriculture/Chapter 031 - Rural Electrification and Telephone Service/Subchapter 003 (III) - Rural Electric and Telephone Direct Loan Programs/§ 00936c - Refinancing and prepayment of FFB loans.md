@@ -30,7 +30,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the penalty provided by paragraph (1)(A)shall be required for refinancing or prepayment under this section.
+&emsp;&emsp;Except as provided in subparagraph (B), the penalty provided by paragraph (1)(A) shall be required for refinancing or prepayment under this section.
 
 #### (B) Exception
 
@@ -104,7 +104,7 @@ A borrower of a loan made by the Federal Financing Bank and guaranteed under sec
 
 &emsp;The option provided under paragraph (1) shall not be available in the case of any loan or loan advance, or portion thereof, unless a written request to exercise such option is sent to the Secretary not later than 1 year after the effective date of regulations issued to carry out the Rural Electrification Loan Restructuring Act of 1993.
 
-(May 20, 1936, ch. 432, title III, §306C, as added Pub. L. 103–66, title I, §1201(a), Aug. 10, 1993, 107 Stat. 327; amended Pub. L. 103–129, §2(c)(10), Nov.1, 1993, 107 Stat. 1365; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
+(May 20, 1936, ch. 432, title III, §306C, as added Pub. L. 103–66, title I, §1201(a), Aug. 10, 1993, 107 Stat. 327; amended Pub. L. 103–129, §2(c)(10), Nov. 1, 1993, 107 Stat. 1365; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221.)
 
 #### <b>Editorial Notes</b>
 

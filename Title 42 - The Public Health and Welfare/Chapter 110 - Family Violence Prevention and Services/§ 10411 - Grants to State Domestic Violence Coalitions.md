@@ -8,7 +8,7 @@ The Secretary shall award grants for the funding of State Domestic Violence Coal
 
 #### (1) In general
 
-&emsp;From the amount appropriated under section 10403(a)(2)(D) of this title for each fiscal year, the Secretary shall allot to each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each of the covered territories an amount equal to 1/56 of the amount so appropriated for such fiscal year.
+&emsp;From the amount appropriated under section 10403(a)(2)(D) of this title for each fiscal year, the Secretary shall allot to each of the50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each of the covered territories an amount equal to 1/56 of the amount so appropriated for such fiscal year.
 
 #### (2) Definition
 
@@ -30,7 +30,7 @@ Each State Domestic Violence Coalition desiring a grant under this section shall
 
 A coalition that receives a grant under this section shall use the grant funds for administration and operations to further the purposes of family violence, domestic violence, and dating violence intervention and prevention, through activities that shall include—
 
-&emsp;(1) working with local family violence, domestic violence, and dating violence serviceprograms and providers of direct services to encourage appropriate and comprehensive responses to family violence, domestic violence, and dating violence against adults or youth within the State involved, including providing training and technical assistance and conducting State needs assessments;
+&emsp;(1) working with local family violence, domestic violence, and dating violence service programs and providers of direct services to encourage appropriate and comprehensive responses to family violence, domestic violence, and dating violence against adults or youth within the State involved, including providing training and technical assistance and conducting State needs assessments;
 
 &emsp;(2) participating in planning and monitoring the distribution of subgrants and subgrant funds within the State under section 10408(a) of this title;
 
@@ -68,7 +68,7 @@ No funds made available to entities under this section shall be used, directly o
 
 #### (g) Reports and evaluation
 
-Each entity receiving a grant under this section shall submit a performance report to the Secretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
+Each entity receiving a grant under this section shall submit a performance report to theSecretary at such time as shall be reasonably required by the Secretary. Such performance report shall describe the activities that have been carried out with such grant funds, contain an evaluation of the effectiveness of such activities, and provide such additional information as the Secretary may reasonably require.
 
 #### (h) Indian representatives
 

@@ -34,13 +34,13 @@ During a moratorium period, it is unlawful for any person—
 
 #### (d) Enforcement
 
-A person authorized by the Secretaries or the Secretary of the department in which the Coast Guard is operating may take any action to enforce a moratorium declared under subsection (a) that an officer authorized by the Secretary under section 311(b) of the Magnuson Act (16 U.S.C. 1861(b)) may take to enforce that Act (16 U.S.C. 1801 et seq.). The Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a State in carrying out that enforcement.
+A person authorized by the Secretaries or the Secretary of the department in which the CoastGuard is operating may take any action to enforce a moratorium declared under subsection (a) that an officer authorized by the Secretary under section 311(b) of the Magnuson Act (16 U.S.C. 1861(b)) may take to enforce that Act (16 U.S.C. 1801 et seq.). The Secretaries may, by agreement, on a reimbursable basis or otherwise, utilize the personnel, services, equipment (including aircraft and vessels), and facilities of any other Federal department or agency and of any agency of a State in carrying out that enforcement.
 
 #### (e) Regulations
 
 The Secretaries may issue regulations to implement this section.
 
-(Pub. L. 98–613, §5, Oct. 31, 1984, 98 Stat. 3189; Pub. L. 99–432, §3, Oct. 1, 1986, 100 Stat. 990; Pub. L. 100–589, §6(g)(2), Nov. 3, 1988, 102 Stat. 2988; Pub. L. 102–130, §2(a), Oct. 17, 1991, 105 Stat. 626; Pub. L. 104–208, div. A, title I, §101(a) \[title II,§211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–146, §2, Dec. 16, 1997, 111 Stat. 2674.)
+(Pub. L. 98–613, §5, Oct. 31, 1984, 98 Stat. 3189; Pub. L. 99–432, §3, Oct. 1, 1986, 100 Stat. 990; Pub. L. 100–589, §6(g)(2), Nov. 3, 1988, 102 Stat. 2988; Pub. L. 102–130, §2(a), Oct. 17, 1991, 105 Stat. 626; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–146, §2, Dec. 16, 1997, 111 Stat. 2674.)
 
 #### <b>Editorial Notes</b>
 

@@ -16,7 +16,7 @@ Within 1 year after December 27, 2020, the President shall submit to the Congres
 
 &emsp;(2) recommendations for the collection, analysis, and dissemination of information concerning domestic and international long-range materials demand, supply and needs, including consideration of the establishment of a separate materials information agency patterned after the Bureau of Labor Statistics; and
 
-&emsp;(3) recommendations for legislation and administrative initiatives necessary to reconcilepolicy conflicts and to establish programs and institutional structures necessary to achieve the goals of a national materials policy.
+&emsp;(3) recommendations for legislation and administrative initiatives necessary to reconcile policy conflicts and to establish programs and institutional structures necessary to achieve the goals of a national materials policy.
 
 #### (b) Director of Office of Science and Technology Policy; coordination, etc., activities
 
@@ -62,7 +62,7 @@ In furtherance of the policies of this chapter, the Secretary of the Interior sh
 
 #### References in Text
 
-The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec. (b), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, as amended, which is classified principally to chapter 79 (§6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6601 of Title 42 and Tables.
+The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec. (b), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, which is classified principally to chapter 79 (§6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6601 of Title 42 and Tables.
 
 The Defense Production Act of 1950, referred to in subsec. (d), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -72,7 +72,7 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d
 
 <b>2020</b>—Pub. L. 116–260, §7002(m)(1)(A), which directed substitution of "date of enactment of the Energy Act of 2020" for "date of enactment of this Act" wherever appearing, was executed by substituting "December 27, 2020" for "October 21, 1980" in subsecs. (a), (d), and (e). Substitutions in subsecs. (d) and (e) were made for original text reading "enactment of this Act" and "the enactment of this Act", to reflect the probable intent of Congress.
 
-Subsec. (b)(1). Pub. L. 116–260, §7002(m)(1)(B), substituted "National Science and Technology Council"for "Federal Coordinating Council for Science, Engineering, and Technology".
+Subsec. (b)(1). Pub. L. 116–260, §7002(m)(1)(B), substituted "National Science and Technology Council" for "Federal Coordinating Council for Science, Engineering, and Technology".
 
 Subsec. (c). Pub. L. 116–260, §7002(m)(1)(C)(i), in introductory provisions, struck out "the Federal Emergency Management Administration, the Secretary of the Interior, the Secretary of Defense, the Director of the Central Intelligence Agency, and" before "such" and substituted "appropriate, shall—" for "appropriate shall—".
 

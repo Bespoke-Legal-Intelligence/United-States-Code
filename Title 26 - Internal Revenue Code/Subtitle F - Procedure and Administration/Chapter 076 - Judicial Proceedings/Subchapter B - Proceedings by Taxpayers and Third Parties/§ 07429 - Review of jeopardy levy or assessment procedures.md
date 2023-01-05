@@ -10,7 +10,7 @@
 
 #### (B) Information to taxpayer
 
-&emsp;&emsp;Within 5 days after the day on which such an assessment or levy is made, the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relied in making such assessment or levy.
+&emsp;&emsp;Within 5 days after the day on which such an assessment or levy is made, the Secretaryshall provide the taxpayer with a written statement of the information upon which the Secretary relied in making such assessment or levy.
 
 #### (2) Request for review
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(B) the 16th day after the request described in subsection (a)(2) was made,
 
-> &emsp;the taxpayer may bring a civil action against the United States for a determination underthis subsection in the court with jurisdiction determined under paragraph (2).
+> &emsp;the taxpayer may bring a civil action against the United States for a determination under this subsection in the court with jurisdiction determined under paragraph (2).
 
 #### (2) Jurisdiction for determination
 
@@ -106,7 +106,7 @@ Any determination made by a court under this section shall be final and conclusi
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 substituted "Administrative review" for "Information to taxpayer" in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: "Within 5 days afterthe day on which an assessment is made under section 6851(a), 6852(a), 6861(a), or 6862, or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a), the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relies in making such assessment or levy."
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 substituted "Administrative review" for "Information to taxpayer" in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: "Within 5 days after the day on which an assessment is made under section 6851(a), 6852(a), 6861(a), or 6862, or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a), the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relies in making such assessment or levy."
 
 <b>1988</b>—Pub. L. 100–647, §6237(e)(3), inserted "levy or" after "jeopardy" in section catchline.
 

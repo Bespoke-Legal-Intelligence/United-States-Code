@@ -20,7 +20,7 @@
 
 &emsp;(1) 75 percent of the crew in each department on board is able to understand any order spoken by the officers, and
 
-&emsp;(2) 65 percent of the deck crew (excluding licensed individuals) have merchant mariners'documents endorsed for a rating of at least able seaman, except that this percentage may be reduced to 50 percent—
+&emsp;(2) 65 percent of the deck crew (excluding licensed individuals) have merchant mariners' documents endorsed for a rating of at least able seaman, except that this percentage may be reduced to 50 percent—
 
 &emsp;&emsp;(i) on a vessel permitted under section 8104 of this title to maintain a 2-watch system; or
 

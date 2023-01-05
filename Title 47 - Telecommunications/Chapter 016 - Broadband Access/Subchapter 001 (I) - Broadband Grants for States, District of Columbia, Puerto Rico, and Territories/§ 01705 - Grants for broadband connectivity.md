@@ -74,7 +74,7 @@ In this section:
 
 #### (12) Tribal Government
 
-&emsp;The term "Tribal Government" means the governing body of any Indian or Alaska NativeTribe, band, nation, pueblo, village, community, component band, or component reservation, individually recognized (including parenthetically) in the list published most recently as of December 27, 2020, pursuant to section 5131 of title 25.
+&emsp;The term "Tribal Government" means the governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, individually recognized (including parenthetically) in the list published most recently as of December 27, 2020, pursuant to section 5131 of title 25.
 
 #### (13) Tribal land
 
@@ -170,7 +170,7 @@ There is appropriated to the Assistant Secretary, out of amounts in the Treasury
 
 #### (iii) Extensions for other projects
 
-&emsp;&emsp;&emsp;The Assistant Secretary may, for good cause shown, extend the period underclause (i) for an eligible entity that proposes to use the grant funds for an eligible use other than construction of broadband infrastructure, based on a detailed showing by the eligible entity of the need for an extension.
+&emsp;&emsp;&emsp;The Assistant Secretary may, for good cause shown, extend the period under clause (i) for an eligible entity that proposes to use the grant funds for an eligible use other than construction of broadband infrastructure, based on a detailed showing by the eligible entity of the need for an extension.
 
 #### (iv) Reversion of funds
 
@@ -358,7 +358,7 @@ There is appropriated to the Assistant Secretary, out of amounts in the Treasury
 
 #### (A) Submission
 
-&emsp;&emsp;During the 90-day period beginning on the date on which the Assistant Secretary issuesthe notice under paragraph (1), an eligible entity or covered partnership may submit an application for a grant under this section.
+&emsp;&emsp;During the 90-day period beginning on the date on which the Assistant Secretary issues the notice under paragraph (1), an eligible entity or covered partnership may submit an application for a grant under this section.
 
 #### (B) Processing
 

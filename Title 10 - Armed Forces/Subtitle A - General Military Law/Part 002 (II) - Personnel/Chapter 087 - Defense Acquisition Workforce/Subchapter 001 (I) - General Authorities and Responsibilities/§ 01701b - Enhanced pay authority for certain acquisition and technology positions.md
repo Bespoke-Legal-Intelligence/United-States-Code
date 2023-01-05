@@ -34,21 +34,31 @@ Limitations.—
 
 &emsp;(1)
 
-In general.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
+In general.—The authority in subsection (a) may be used only to the extent necessaryto competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
 
 &emsp;(2)
 
-Number of positions.—The authority in subsection (a) may not be used with respect to more than five positions in the Office of the Secretary of Defense and more than five positions in each military department at any one time.
+Number of positions.—The authority in subsection (a) may not be used at any one time with respect to—
+
+&emsp;&emsp;(A) more than five positions, in total, in Department of Defense Field Activities and Defense Agencies;
+
+&emsp;&emsp;(B) more than five positions in the Office of the Secretary of Defense; and
+
+&emsp;&emsp;(C) more than five positions in each military department.
 
 &emsp;(3)
 
 Term of positions.—The authority in subsection (a) may be used only for positions having terms less than five years.
 
-(Added Pub. L. 116–283, div. A, title XI, §1114(a), Jan. 1, 2021, 134 Stat. 3894.)
+(Added Pub. L. 116–283, div. A, title XI, §1114(a), Jan. 1, 2021, 134 Stat. 3894; amended Pub. L. 117–263, div. A, title VIII, §831(b), Dec. 23, 2022, 136 Stat. 2711.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 Level I of the Executive Schedule, referred to in subsec. (d), is set out in section 5312 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (e)(2). Pub. L. 117–263 amended par. (2) generally. Prior to amendment, text read as follows: "The authority in subsection (a) may not be used with respect to more than five positions in the Office of the Secretary of Defense and more than five positions in each military department at any one time."
 

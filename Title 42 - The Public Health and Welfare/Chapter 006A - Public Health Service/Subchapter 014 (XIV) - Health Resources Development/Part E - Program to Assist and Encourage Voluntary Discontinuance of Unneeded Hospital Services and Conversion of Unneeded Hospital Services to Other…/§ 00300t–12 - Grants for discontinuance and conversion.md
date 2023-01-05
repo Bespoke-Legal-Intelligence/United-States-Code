@@ -8,9 +8,9 @@
 
 &emsp;(A) in the case of a grantee which discontinues the provision of all hospital services or all inpatient hospital services or an identifiable part of a hospital facility which provides inpatient hospital services, for the liquidation of the outstanding debt on the facilities of the grantee used for the provision of the services or for the liquidation of the outstanding debt of the grantee on such identifiable part;
 
-&emsp;(B) in the case of a grantee which in discontinuing the provision of an inpatient hospital service converts or proposes to convert an identifiable part of a hospital facility used in the provision of the discontinued service to the delivery of other health services, for the planning, development (including construction and acquisition of equipment), and delivery of the health service;
+&emsp;(B) in the case of a grantee which in discontinuing the provision of an inpatient hospital service converts or proposes to convert an identifiable part of a hospital facility used in the provision of the discontinued service tothe delivery of other health services, for the planning, development (including construction and acquisition of equipment), and delivery of the health service;
 
-&emsp;(C) to provide reasonable termination pay for personnel of the grantee who will lose employment because of the discontinuance ofhospital services made by the grantee, retraining of such personnel, assisting such personnel in securing employment, and other costs of implementing arrangements described in subsection (c); and
+&emsp;(C) to provide reasonable termination pay for personnel of the grantee who will lose employment because of the discontinuance of hospital services made by the grantee, retraining of such personnel, assisting such personnel in securing employment, and other costs of implementing arrangements described in subsection (c); and
 
 &emsp;(D) for such other costs which the Secretary determines may need to be incurred by the grantee in discontinuing hospital services.
 
@@ -46,7 +46,7 @@
 
 (1) Except as provided in paragraph (3), the Secretary may not approve an application submitted under subsection (b) unless the Secretary of Labor has certified that fair and equitable arrangements have been made to protect the interests of employees affected by the discontinuance of services against a worsening of their positions with respect to their employment, including arrangements to preserve the rights of employees under collective-bargaining agreements, continuation of collective-bargaining rights consistent with the provisions of the National Labor Relations Act \[29 U.S.C. 151 et seq.\], reassignment of affected employees to other jobs, retraining programs, protecting pension, health benefits, and other fringe benefits of affected employees, and arranging adequate severance pay, if necessary.
 
-(2) The Secretary of Labor shall by regulation prescribe guidelines for arrangements for the protection of the interests of employees affected by the discontinuance of hospital services. The Secretary of Labor shall consult with the Secretary of Health and Human Services in the promulgation of such guidelines. Such guidelines shall first be promulgated not later than the promulgation of regulations by the Secretaryfor the administration of the grants authorized by section 300t–11 of this title.
+(2) The Secretary of Labor shall by regulation prescribe guidelines for arrangements for the protection of the interests of employees affected by the discontinuance of hospital services. The Secretary of Labor shall consult with the Secretary of Health and Human Services in the promulgation of such guidelines. Such guidelines shall first be promulgated not later than the promulgation of regulations by the Secretary for the administration of the grants authorized by section 300t–11 of this title.
 
 (3) The Secretary of Labor shall review each application submitted under subsection (b) to determine if the arrangements described in paragraph (1) have been made and if they are satisfactory and shall notify the Secretary respecting his determination. Such review shall be completed within—
 
@@ -80,11 +80,11 @@ For purposes of this part, the term "hospital" means, with respect to any fiscal
 
 Section 300l–2 of this title, referred to in subsec. (b)(2)(A), was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799.
 
-The National Labor Relations Act, referred to in subsec. (c)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
+The National Labor Relations Act, referred to in subsec. (c)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
 
 Section 292e of this title, referred to in subsec. (d), was in the original a reference to section 705 of act July 1, 1944. Section 705 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 705 of act July 1, 1944, relating to eligibility of borrowers and terms of insured loans, and a new section 706, relating to certificates of loan insurance, which are classified to sections 292d and 292e, respectively, of this title.
 
-The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 

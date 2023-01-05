@@ -12,7 +12,7 @@ The Commission shall be composed of 8 members. Not more than 4 of the members sh
 
 &emsp;(2) 2 members of the Commission shall be appointed by the President pro tempore of the Senate, upon the recommendations of the majority leader and the minority leader, and of the members appointed not more than one shall be appointed from the same political party.
 
-&emsp;(3) 2 members of the Commission shall be appointed by the Speaker of the House of Representatives upon the recommendations of the majority leader and the minority leader, and of the members appointed not more than one shall be appointed from the same political party.
+&emsp;(3) 2 members of the Commission shall be appointed by the Speaker of the House of Representatives upon the recommendations of the majority leader and the minority leader, andof the members appointed not more than one shall be appointed from the same political party.
 
 #### (c) Terms
 
@@ -150,7 +150,7 @@ Vacancies.—The appointing authority of a member of the Commission shall either
 
 #### "SEC. 4. LEADERSHIP ELECTION.
 
-"At the first meeting of the Commission each year, the members shall elect a Chair and a Secretary. A vacancy in the Chair or Secretary shall be filled by voteof the remaining members. The Chair and Secretary are eligible for consecutive reappointment.
+"At the first meeting of the Commission each year, the members shall elect a Chair and a Secretary. A vacancy in the Chair or Secretary shall be filled by vote of the remaining members. The Chair and Secretary are eligible for consecutive reappointment.
 
 #### "SEC. 5. COMMISSION DUTIES AND POWERS.
 

@@ -70,7 +70,7 @@ In this section:
 
 &emsp;&emsp;(E) Executive Order No. 13694 (80 Fed. Reg. 18077; relating to blocking the property of certain persons engaging in significant malicious cyber-enabled activities), relating to the Russian Federation.
 
-&emsp;&emsp;(F) Executive Order No. 13757 (82 Fed. Reg. 1; relating to taking additional steps to address the national emergency with respectto significant malicious cyber-enabled activities), relating to the Russian Federation.
+&emsp;&emsp;(F) Executive Order No. 13757 (82 Fed. Reg. 1; relating to taking additional steps to address the national emergency with respect to significant malicious cyber-enabled activities), relating to the Russian Federation.
 
 #### (2) Foreign person
 
@@ -86,7 +86,7 @@ In this section:
 
 #### References in Text
 
-The Ukraine Freedom Support Act of 2014, referred to in subsec. (a)(1), is Pub. L. 113–272, Dec. 18, 2014, 128 Stat. 2952, which is classified generally to chapter 96A (§8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
+The Ukraine Freedom Support Act of 2014, referred to in subsec. (a)(1), is Pub. L. 113–272, Dec. 18, 2014, 128Stat. 2952, which is classified generally to chapter 96A (§8921 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8921 of this title and Tables.
 
 The International Emergency Economic Powers Act, referred to in subsec. (b), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 

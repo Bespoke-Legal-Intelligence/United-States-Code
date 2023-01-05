@@ -87,7 +87,7 @@
 |  |  |
 | :--- | ---: |
 | [791\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20D%20-%20Prevention%20of%20Fraud%2C%20Waste%2C%20and%20Abuse/%C2%A7%2000791%20-%20Advance%20contracting.md) | Advance contracting. |
-| [792\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20D%20-%20Prevention%20of%20Fraud%2C%20Waste%2C%20and%20Abuse/%C2%A7%2000792%20-%20Limitations%20on%20tiering%20of%20subcontractors.md) | Limitations on tiering of subcontractors. |
+| [792\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20D%20-%20Prevention%20of%20Fraud%2C%20Waste%2C%20and%20Abuse/%C2%A7%2000792%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93253%2C%20%C2%A71%2C%20Dec.%2020%2C%202022%2C%20136%20Stat.%202360.md) | Repealed. |
 | [793\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20D%20-%20Prevention%20of%20Fraud%2C%20Waste%2C%20and%20Abuse/%C2%A7%2000793%20-%20Oversight%20and%20accountability%20of%20Federal%20disaster%20expenditures.md) | Oversight and accountability of Federal disaster expenditures. |
 | [794\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20D%20-%20Prevention%20of%20Fraud%2C%20Waste%2C%20and%20Abuse/%C2%A7%2000794%20-%20Limitation%20on%20length%20of%20certain%20noncompetitive%20contracts.md) | Limitation on length of certain noncompetitive contracts. |
 | [795\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20D%20-%20Prevention%20of%20Fraud%2C%20Waste%2C%20and%20Abuse/%C2%A7%2000795%20-%20Fraud%2C%20waste%2C%20and%20abuse%20controls.md) | Fraud, waste, and abuse controls. |
@@ -101,6 +101,18 @@
 |  |  |
 | :--- | ---: |
 | [811\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20E%20-%20Authorization%20of%20Appropriations/%C2%A7%2000811%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part F—Global Catastrophic Risk Management
+
+|  |  |
+| :--- | ---: |
+| [821\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20F%20-%20Global%20Catastrophic%20Risk%20Management/%C2%A7%2000821%20-%20Definitions.md) | Definitions. |
+| [822\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20F%20-%20Global%20Catastrophic%20Risk%20Management/%C2%A7%2000822%20-%20Assessment%20of%20global%20catastrophic%20risk.md) | Assessment of global catastrophic risk. |
+| [823\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20F%20-%20Global%20Catastrophic%20Risk%20Management/%C2%A7%2000823%20-%20Report%20required.md) | Report required. |
+| [824\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20F%20-%20Global%20Catastrophic%20Risk%20Management/%C2%A7%2000824%20-%20Enhanced%20catastrophic%20incident%20annex.md) | Enhanced catastrophic incident annex. |
+| [825\.](Subchapter%20002%20%28II%29%20-%20Comprehensive%20Preparedness%20System/Part%20F%20-%20Global%20Catastrophic%20Risk%20Management/%C2%A7%2000825%20-%20Rules%20of%20construction.md) | Rules of construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

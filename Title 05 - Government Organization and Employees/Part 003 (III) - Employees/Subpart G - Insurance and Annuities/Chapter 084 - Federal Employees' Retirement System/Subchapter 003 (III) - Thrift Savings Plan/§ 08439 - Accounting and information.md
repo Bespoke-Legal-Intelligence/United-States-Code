@@ -1,6 +1,6 @@
 ### §8439. Accounting and information
 
-(a)(1) The Executive Director shall establish and maintain an account for each individualwho makes contributions or for whom contributions are made under section 8432 of this title or who makes contributions to the Thrift Savings Fund.
+(a)(1) The Executive Director shall establish and maintain an account for each individual who makes contributions or for whom contributions are made under section 8432 of this title or who makes contributions to the Thrift Savings Fund.
 
 (2) The balance in an individual's account at any time is the excess of—
 
@@ -18,7 +18,7 @@
 
 (b)(1) For the purposes of this subsection, the term "qualified public accountant" shall have the same meaning as provided in section 103(a)(3)(D) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1023(a)(3)(D)).
 
-(2) The Executive Director shall annually engage, on behalf of all individuals for whom an account is maintained, an independent qualified public accountant, who shall conduct an examination of all accounts and other books and records maintained in the administration of this subchapter and subchapter VII as the public accountant considers necessary to enable the public accountant to make the determination required by paragraph (3). The examination shall be conducted in accordance with generally accepted auditing standards and shall involve such tests of the accounts, books, and records as the public accountant considers necessary.
+(2) The Executive Director shall annually engage, on behalf of all individuals for whom an account is maintained, an independent qualifiedpublic accountant, who shall conduct an examination of all accounts and other books and records maintained in the administration of this subchapter and subchapter VII as the public accountant considers necessary to enable the public accountant to make the determination required by paragraph (3). The examination shall be conducted in accordance with generally accepted auditing standards and shall involve such tests of the accounts, books, and records as the public accountant considers necessary.
 
 (3) The public accountant conducting an examination under paragraph (2) shall determine whether the accounts, books, and records referred to in such paragraph have been maintained in conformity with generally accepted accounting principles applied on a basis consistent with the manner in which such principles were applied during the examination conducted under such paragraph during the preceding year. The public accountant shall transmit to the Board a report on his examination, including his determination under this paragraph.
 

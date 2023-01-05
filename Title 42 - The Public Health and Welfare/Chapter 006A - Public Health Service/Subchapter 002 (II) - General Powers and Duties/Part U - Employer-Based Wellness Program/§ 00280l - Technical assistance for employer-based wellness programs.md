@@ -10,7 +10,7 @@ In order to expand the utilization of evidence-based prevention and health promo
 
 &emsp;&emsp;(C) evaluating such programs as they relate to changes in the health status of employees, the absenteeism of employees, the productivity of employees, the rate of workplace injury, and the medical costs incurred by employees; and
 
-&emsp;(2) build evaluation capacity among workplace staff by training employers on how to evaluate employer-based wellness programs and ensuring evaluation resources, technical assistance, and consultation are available to workplace staff as needed through such mechanisms as web portals, call centers, or other means.
+&emsp;(2) build evaluation capacity among workplace staff by training employers on how toevaluate employer-based wellness programs and ensuring evaluation resources, technical assistance, and consultation are available to workplace staff as needed through such mechanisms as web portals, call centers, or other means.
 
 (July 1, 1944, ch. 373, title III, §399MM, as added and amended Pub. L. 111–148, title IV, §4303, title X, §10404, Mar. 23, 2010, 124 Stat. 583, 975.)
 
@@ -72,5 +72,5 @@ Application.—An eligible employer desiring to participate in the grant program
 
 "(e)
 
-Authorization of Appropriation.—For purposes of carrying out the grant program under this section, there is authorized to be appropriated $200,000,000 for the period of fiscal years 2011 through 2015. Amountsappropriated pursuant to this subsection shall remain available until expended."
+Authorization of Appropriation.—For purposes of carrying out the grant program under this section, there is authorized to be appropriated $200,000,000 for the period of fiscal years 2011 through 2015. Amounts appropriated pursuant to this subsection shall remain available until expended."
 

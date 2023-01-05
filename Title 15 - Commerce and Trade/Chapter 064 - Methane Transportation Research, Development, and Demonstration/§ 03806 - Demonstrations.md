@@ -24,7 +24,7 @@ Not later than April 1, 1982, the Secretary shall have promulgated necessary and
 
 &emsp;(C) The terms and conditions of loans issued under this section shall take into account the scope of the particular demonstration and any particular conditions which might reasonably be expected to result in additional costs to the recipient, and shall reflect the relative costs of gasoline and diesel fuel and methane and the projected savings in fuel costs to the recipient as a result of participating in the demonstration. In no instance shall a loan issued under this section be for a period in excess of five years.
 
-&emsp;(3) The Secretary shall provide for appropriate assistance to defray costs associatedwith complying with data acquisition and reporting requirements under this chapter.
+&emsp;(3) The Secretary shall provide for appropriate assistance to defray costs associated with complying with data acquisition and reporting requirements under this chapter.
 
 &emsp;(4) In the case of an organization comprised of both public and private entities, a package of technical and financial assistance shall be designed to the maximum extent feasible, in such a manner as to assist its public components as provided for in paragraph (1) and to assist its private components as provided for in paragraph (2) of this section.
 

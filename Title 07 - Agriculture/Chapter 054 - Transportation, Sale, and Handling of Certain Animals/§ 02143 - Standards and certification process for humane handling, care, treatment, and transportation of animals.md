@@ -126,7 +126,7 @@ Each research facility shall provide for the training of scientists, animal tech
 
 #### (e) Establishment of information service at National Agricultural Library; service functions
 
-The Secretary shall establish an information service at the National Agricultural Library. Such service shall, in cooperation with the National Library of Medicine, provide information—
+The Secretary shall establish an information service at the National Agricultural Library.Such service shall, in cooperation with the National Library of Medicine, provide information—
 
 &emsp;(1) pertinent to employee training;
 

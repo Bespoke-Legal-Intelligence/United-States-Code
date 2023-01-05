@@ -46,7 +46,7 @@
 
 #### (b) Offers by individuals
 
-In exercising the authority to acquire property under this section, the Secretary shall giveimmediate and careful consideration to any offer made by any individual owning property within the park area to sell such property to the Secretary. In considering such offer, the Secretary shall take into consideration any hardship to the owner which might result from any undue delay in acquiring his property.
+In exercising the authority to acquire property under this section, the Secretary shall give immediate and careful consideration to any offer made by any individual owning property within the park area to sell such property to the Secretary. In considering such offer, the Secretary shall take into consideration any hardship to the owner which might result from any undue delay in acquiring his property.
 
 (Pub. L. 91–661, §201, Jan. 8, 1971, 84 Stat. 1970; Pub. L. 116–9, title II, §2107(b), Mar. 12, 2019, 133 Stat. 727.)
 

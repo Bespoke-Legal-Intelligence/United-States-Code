@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;A facility, in developing a site security plan as required under subsection (a), shall include security measures that, in combination, appropriately address the security vulnerability assessment and the risk-based performance standards for security for the facility.
+&emsp;A facility, in developing a site security plan as required under subsection (a), shall includesecurity measures that, in combination, appropriately address the security vulnerability assessment and the risk-based performance standards for security for the facility.
 
 #### (2) Employee input
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;(ii) the site security plan includes the security measures required by subsection (b);
 
-&emsp;&emsp;&emsp;(iii)(I) the security measures in the site security plan do not materially deviate from the guidance for expedited approval facilities except where indicated in the site security plan;
+&emsp;&emsp;&emsp;(iii)(I) the security measures in the site security plan do not materially deviate from the guidance for expedited approvalfacilities except where indicated in the site security plan;
 
 &emsp;&emsp;&emsp;(II) any deviations from the guidance for expedited approval facilities in the site security plan meet the risk-based performance standards for the tier to which the facility is assigned; and
 
@@ -202,7 +202,7 @@
 
 &emsp;&emsp;&emsp;An amended site security plan and certification shall be submitted under clause (i)—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a change in design, construction, operation, or maintenance of the expedited approval facility that affects the security plan, not later than 120 days after the date on which the change in design, construction, operation, or maintenance occurred;
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a change in design, construction, operation, or maintenance of the expedited approval facility that affects the security plan, not later than 120 days after the date on which thechange in design, construction, operation, or maintenance occurred;
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of the Secretary requiring additional security measures or suspending a certification and recommending additional security measures under subparagraph (G), not later than 120 days after the date on which the owner or operator receives notice of the requirement for additional security measures or suspension of the certification and recommendation of additional security measures; and
 
@@ -252,7 +252,7 @@
 
 #### (bb) Effect of revocation
 
-&emsp;&emsp;&emsp;&emsp;&emsp;If the Secretary revokes the certification of an expedited approval facilityunder item (aa) by issuing an order under section 624(a)(1)(B) of this title—
+&emsp;&emsp;&emsp;&emsp;&emsp;If the Secretary revokes the certification of an expedited approval facility under item (aa) by issuing an order under section 624(a)(1)(B) of this title—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the order shall require the owner or operator of the facility to submit a site security plan or alternative security program for review by the Secretary review <sup>1</sup> under subsection (c)(1); and
 
@@ -342,7 +342,7 @@
 
 #### (C) Support personnel
 
-&emsp;&emsp;The Secretary may use nongovernmental personnel to provide administrative andlogistical services in support of audits and inspections under this subchapter.
+&emsp;&emsp;The Secretary may use nongovernmental personnel to provide administrative and logistical services in support of audits and inspections under this subchapter.
 
 #### (D) Reporting structure
 
@@ -416,7 +416,7 @@
 
 &emsp;&emsp;&emsp;(ii) visual inspection shall be sufficient to meet the requirement under clause (i)(II)(bb), but the facility should consider other means of verification, consistent with the facility's assessment of the threat posed by acceptance of such credentials; and
 
-&emsp;&emsp;&emsp;(iii) the Secretary may not require a covered chemical facility to submit anyinformation about an individual unless the individual—
+&emsp;&emsp;&emsp;(iii) the Secretary may not require a covered chemical facility to submit any information about an individual unless the individual—
 
 &emsp;&emsp;&emsp;&emsp;(I) is to be vetted under the Personnel Surety Program; or
 
@@ -444,7 +444,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subchapter, the Secretary shall develop a security risk assessment approach and corresponding tiering methodology for covered chemical facilities that incorporates the relevant elements of risk, including threat, vulnerability, and consequence.
+&emsp;&emsp;For purposes of this subchapter, the Secretary shall develop a security risk assessment approach and corresponding tieringmethodology for covered chemical facilities that incorporates the relevant elements of risk, including threat, vulnerability, and consequence.
 
 #### (B) Criteria for determining security risk
 
@@ -514,7 +514,7 @@
 
 #### Effective and Termination Dates
 
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this sectionto terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
+Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -12,7 +12,7 @@ In General.—To the extent that funds are otherwise available for obligation, t
 
 &emsp;(4) That there is a stable design for the property to be acquired and that the technical risks associated with such property are not excessive.
 
-&emsp;(5) That the estimates of both the cost of the contract and the anticipated cost avoidance through the use of a multiyear contract are realistic.
+&emsp;(5) That the estimates of both the cost of the contract and the anticipated cost avoidancethrough the use of a multiyear contract are realistic.
 
 &emsp;(6) In the case of a purchase by the Department of Defense, that the use of such a contract will promote the national security of the United States.
 
@@ -64,7 +64,7 @@ Contract Cancellation Ceilings Exceeding $100,000,000.—(1) Before any contract
 
 (2) In the case of a contract described in subsection (a) with a cancellation ceiling described in paragraph (1), if the budget for the contract does not include proposed funding for the costs of contract cancellation up to the cancellation ceiling established in the contract, the head of the agency concerned shall, as part of the certification required by subsection (i)(1)(A),<sup>1</sup> give written notification to the congressional defense committees of—
 
-&emsp;(A) the cancellation ceiling amounts planned for each program year in the proposedmultiyear procurement contract, together with the reasons for the amounts planned;
+&emsp;(A) the cancellation ceiling amounts planned for each program year in the proposed multiyear procurement contract, together with the reasons for the amounts planned;
 
 &emsp;(B) the extent to which costs of contract cancellation are not included in the budget for the contract; and
 
@@ -82,11 +82,7 @@ Defense Acquisitions of Weapon Systems.—In the case of the Department of Defen
 
 Defense Acquisitions Specifically Authorized by Law.—(1) In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
 
-(2) In submitting a request for a specific authorization by law to carry out a defense acquisition program using multiyear contract authority under this section, the Secretary of Defense shall include in the request the following:
-
-&emsp;(A) A report containing preliminary findings of the agency head required in paragraphs (1) through (6) of subsection (a), together with the basis for such findings.
-
-&emsp;(B) Confirmation that the preliminary findings of the agency head under subparagraph (A) were supported by a preliminary cost analysis performed by the Director of Cost Assessment and Program Evaluation.
+(2) In submitting a request for a specific authorization by law to carry out a defense acquisition program using multiyear contract authority under this section, the Secretary of Defense shall include in the request a report containing preliminary findings of the agency head required in paragraphs (1) through (6) of subsection (a), together with the basis for such findings.
 
 (3) A multiyear contract may not be entered into under this section for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority unless the Secretary of Defense certifies in writing, not later than 30 days before entry into the contract, that each of the following conditions is satisfied:
 
@@ -112,7 +108,7 @@ Defense Acquisitions Specifically Authorized by Law.—(1) In the case of the De
 
 (6) The Secretary may make the certification under paragraph (3) notwithstanding the fact that one or more of the conditions of such certification are not met, if the Secretary determines that, due to exceptional circumstances, proceeding with a multiyear contract under this section is in the best interest of the Department of Defense and the Secretary provides the basis for such determination with the certification.
 
-(7) The Secretary may not delegate the authority to make the certification under paragraph (3) or the determination under paragraph\(6) to an official below the level of Under Secretary of Defense for Acquisition and Sustainment.
+(7) The Secretary may not delegate the authority to make the certification under paragraph (3) or the determination under paragraph (6) to an official below the level of Under Secretary of Defense for Acquisition and Sustainment.
 
 (j)
 
@@ -180,7 +176,7 @@ Various Additional Requirements With Respect to Multiyear Defense Contracts.—(
 
 Increased Funding and Reprogramming Requests.—Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §§1822(a), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4197, 4294; Pub. L. 116–283, div. A, title XVIII, §1822(b), as added Pub. L. 117–81, div. A, title XVII, §1701(k)(2)(B), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–81, div. A, title XVII, §1701(k)(1)(B), (2)(A), Dec. 27, 2021, 135 Stat. 2143.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §§1822(a), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4197, 4294; Pub. L. 116–283, div. A, title XVIII, §1822(b), as added Pub. L. 117–81, div. A, title XVII, §1701(k)(2)(B), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–81, div. A, title XVII, §1701(k)(1)(B), (2)(A), Dec. 27, 2021, 135 Stat. 2143; Pub. L. 117–263, div. A, title VIII, §815, Dec. 23, 2022, 136 Stat. 2707.)
 
 #### <b>Editorial Notes</b>
 
@@ -192,7 +188,7 @@ Subsection (i)(1)(A), referred to in subsec. (g)(2), related to certification of
 
 Pub. L. 116–283, §1822(b)–(l), which had initially directed the transfers of various subsections of section 2306b of this title to sections 3501 to 3511, was amended by Pub. L. 117–81, §1701(k)(2), by striking out subsecs. (b) to (l) and adding a new subsec. (b). After that amendment, such transfers were no longer directed. Instead, Pub. L. 116–283, §1822(b), as added by Pub. L. 117–81, directed the transfer of section 2306b of this title in its entirety to this section, thereby omitting what would have been sections 3502 to 3511 of this title. The transfer of section 2306b to this section was executed by transferring the text only of section 2306b, as the section designation and catchline had already been enacted by Pub. L. 116–283, §1822(a), as amended by Pub. L. 117–81, §1701(k)(1)(B).
 
-The text of section 2306b of this title, which was transferred to this section by Pub. L. 116–283, §1822(b), as amended by Pub. L. 117–81, §1701(k)(2)(B), was based on Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, §101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII, §816(a), (b), Dec. 19, 2014, 128 Stat. 3430, 3432; Pub. L. 114–92, div. A, title VIII, §811, Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–91, div. A, title X, §1051(a)(14), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 115–232, div. A, title VIII, §817, Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title IX, §902(48), Dec. 20, 2019, 133 Stat. 1548.
+The text of section 2306b of this title, which was transferred to this section by Pub. L. 116–283, §1822(b), as amended by Pub. L. 117–81, §1701(k)(2)(B), was based on Pub. L. 103–355, title I, §1022(a)(1), Oct. 13, 1994, 108 Stat. 3257; Pub. L. 104–106, div. A, title XV, §1502(a)(10), div. E, title LVI, §5601(b), Feb. 10, 1996, 110 Stat. 503, 699; Pub. L. 105–85, div. A, title VIII, §806(a)(1), (b)(1), (c), title X, §1073(a)(47), (48)(A), Nov. 18, 1997, 111 Stat. 1834, 1835, 1903; Pub. L. 106–65, div. A, title VIII, §809, title X, §1067(1), Oct. 5, 1999, 113 Stat. 705, 774; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §§802(c), 806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–205, 1654A–207; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VIII, §820(a), Dec. 2, 2002, 116 Stat. 2613; Pub. L. 108–136, div. A, title X, §1043(b)(10), Nov. 24, 2003, 117 Stat. 1611; Pub. L. 108–375, div. A, title VIII, §814(a), title X, §1084(b)(2), Oct. 28, 2004, 118 Stat. 2014, 2060; Pub. L. 110–181, div. A, title VIII, §811(a), Jan. 28, 2008, 122 Stat. 217; Pub. L. 111–23, title I, §101(d)(2), May 22, 2009, 123 Stat. 1709; Pub. L. 113–291, div. A, title VIII,§816(a), (b), Dec. 19, 2014, 128 Stat. 3430, 3432; Pub. L. 114–92, div. A, title VIII, §811, Nov. 25, 2015, 129 Stat. 891; Pub. L. 115–91, div. A, title X, §1051(a)(14), Dec. 12, 2017, 131 Stat. 1561; Pub. L. 115–232, div. A, title VIII, §817, Aug. 13, 2018, 132 Stat. 1852; Pub. L. 116–92, div. A, title IX, §902(48), Dec. 20, 2019, 133 Stat. 1548.
 
 #### Prior Provisions
 
@@ -209,6 +205,10 @@ Prior sections 3504, 3531, and 3532 were repealed by Pub. L. 96–513, title II,
 Section 3504, acts Aug. 10, 1956, ch. 1041, 70A Stat. 200; Sept. 2, 1958, Pub. L. 85–861, §1(83), 72 Stat. 1481, authorized the President to order any retired member of the Regular Army to active duty.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (i)(2). Pub. L. 117–263 substituted "shall include in the request a report" for "shall include in the request the following:
+
+&emsp;"(A) A report" and struck out subpar. (B) which read as follows: "Confirmation that the preliminary findings of the agency head under subparagraph (A) were supported by a preliminary cost analysis performed by the Director of Cost Assessment and Program Evaluation."
 
 <b>2021</b>—Pub. L. 117–81, §1701(k)(1)(B), amended Pub. L. 116–283, §1822(a), which enacted this section, by substituting "Multiyear contracts: acquisition of property" for "Multiyear contracts for acquisition of property: authority; definitions" in section catchline.
 
@@ -279,6 +279,10 @@ Pub. L. 105–56, title VIII, §8008, Oct. 8, 1997, 111 Stat. 1221, provided tha
 &emsp;"(3) the Secretary of Defense makes such request in writing to the congressional defense committees."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. C, title VIII, §8010, Dec. 29, 2022, 136 Stat. 4587.
+
+Pub. L. 117–103, div. C, title VIII, §8010, Mar. 15, 2022, 136 Stat. 175.
 
 Pub. L. 116–260, div. C, title VIII, §8010, Dec. 27, 2020, 134 Stat. 1304.
 

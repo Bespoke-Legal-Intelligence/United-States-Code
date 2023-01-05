@@ -42,7 +42,7 @@ For purposes of this part—
 
 #### (4) Group health insurance coverage
 
-&emsp;The term "group health insurance coverage" means, in connection with a group health plan, health insurance coverage offered in connection with such plan.
+&emsp;The term "group health insurance coverage" means, in connection with a group healthplan, health insurance coverage offered in connection with such plan.
 
 #### (c) Excepted benefits
 
@@ -104,7 +104,7 @@ For purposes of this part—
 
 #### (3) Network plan
 
-&emsp;The term "network plan" means health insurance coverage offered by a health insurance issuer under which the financing and deliveryof medical care (including items and services paid for as medical care) are provided, in whole or in part, through a defined set of providers under contract with the issuer.
+&emsp;The term "network plan" means health insurance coverage offered by a health insurance issuer under which the financing and delivery of medical care (including items and services paid for as medical care) are provided, in whole or in part, through a defined set of providers under contract with the issuer.
 
 #### (4) Placed for adoption
 
@@ -180,7 +180,7 @@ For purposes of this part—
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXII of the Act is classified generally to subchapter XX (§300bb–1 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXII of the Act is classified generally to subchapter XX (§300bb–1 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
 

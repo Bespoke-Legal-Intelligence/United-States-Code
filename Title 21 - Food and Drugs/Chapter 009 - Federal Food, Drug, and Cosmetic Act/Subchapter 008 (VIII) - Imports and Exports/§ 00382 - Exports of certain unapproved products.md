@@ -92,7 +92,7 @@ A drug or device intended for formulation, filling, packaging, labeling, or furt
 
 #### (e) Diagnosis, prevention, or treatment of tropical disease
 
-(1) A drug or device which is used in the diagnosis, prevention, or treatment of a tropical disease or another disease not of significant prevalence in the United States and which does not otherwise qualify for export under this section shall, upon approval of an application, be permitted to be exported if the Secretary finds that the drug or device will not expose patients in such country to an unreasonable risk of illness or injury and the probable benefit to health from the use of the drug or device (under conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling of the drug or device) outweighs the risk of injury or illness from its use, taking into account theprobable risks and benefits of currently available drug or device treatment.
+(1) A drug or device which is used in the diagnosis, prevention, or treatment of a tropical disease or another disease not of significant prevalence in the United States and which does not otherwise qualify for export under this section shall, upon approval of an application, be permitted to be exported if the Secretary finds that the drug or device will not expose patients in such country to an unreasonable risk of illness or injury and the probable benefit to health from the use of the drug or device (under conditions of use prescribed, recommended, or suggested in the labeling or proposed labeling of the drug or device) outweighs the risk of injury or illness from its use, taking into account the probable risks and benefits of currently available drug or device treatment.
 
 (2) The holder of an approved application for the export of a drug or device under this subsection shall report to the Secretary—
 
@@ -160,7 +160,7 @@ Insulin and antibiotic drugs may be exported without regard to the requirements 
 
 #### References in Text
 
-Act of March 4, 1913 (known as the Virus-Serum Toxin Act), referred to in subsecs. (a)(1)(A)(ii), (C),\(2)(C) and (h), is the eighth paragraph under the heading "Bureau of Animal Industry" of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 151 of this title and Tables.
+Act of March 4, 1913 (known as the Virus-Serum Toxin Act), referred to in subsecs. (a)(1)(A)(ii), (C), (2)(C) and (h), is the eighth paragraph under the heading "Bureau of Animal Industry" of act Mar. 4, 1913, ch. 145, 37 Stat. 832, which is classified generally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 151 of this title and Tables.
 
 #### Amendments
 

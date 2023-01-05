@@ -88,13 +88,13 @@
 
 #### (d) Notice of the need for supplemental funds
 
-On the same date that the Administrator notifies any committee of the Senate or the House of Representatives that supplemental funding is necessary for the disaster loan program of the Administration in any fiscal year, the Administrator shall notify in writing the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives regarding the need for supplemental funds for that loan program.
+On the same date that the Administrator notifies any committee of the Senate or the House of Representatives that supplemental funding is necessary for the disaster loan program of theAdministration in any fiscal year, the Administrator shall notify in writing the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives regarding the need for supplemental funds for that loan program.
 
 #### (e) Report on contracting
 
 #### (1) In general
 
-&emsp;Not later than 6 months after the date on which the President declares a major disaster, and every 6 months thereafter until the date that is 18 months after the date on which the major disaster was declared, the Administrator shall submit a report to the Committee on Small Business and Entrepreneurship of theSenate and to the Committee on Small Business of the House of Representatives regarding Federal contracts awarded as a result of that major disaster.
+&emsp;Not later than 6 months after the date on which the President declares a major disaster, and every 6 months thereafter until the date that is 18 months after the date on which the major disaster was declared, the Administrator shall submit a report to the Committee on Small Business and Entrepreneurship of the Senate and to the Committee on Small Business of the House of Representatives regarding Federal contracts awarded as a result of that major disaster.
 
 #### (2) Contents
 

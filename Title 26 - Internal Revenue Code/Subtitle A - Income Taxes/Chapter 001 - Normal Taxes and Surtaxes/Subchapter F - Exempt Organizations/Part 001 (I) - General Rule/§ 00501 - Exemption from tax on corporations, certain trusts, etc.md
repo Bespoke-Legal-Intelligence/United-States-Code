@@ -270,7 +270,7 @@ The following organizations are referred to in subsection (a):
 
 &emsp;(D) For purposes of this paragraph:
 
-&emsp;&emsp;(i) The term "Black Lung Acts" means part C of title IV of the Federal Mine Safety and Health Act of 1977, and any State lawproviding compensation for disability or death due to that pneumoconiosis.
+&emsp;&emsp;(i) The term "Black Lung Acts" means part C of title IV of the Federal Mine Safety and Health Act of 1977, and any State law providing compensation for disability or death due to that pneumoconiosis.
 
 &emsp;&emsp;(ii) The term "qualified investments" means—
 
@@ -420,7 +420,7 @@ health insurance issuers.—
 
 &emsp;&emsp;(A)
 
-In general.—A qualified nonprofit health insurance issuer (within the meaningof section 1322 of the Patient Protection and Affordable Care Act) which has received a loan or grant under the CO–OP program under such section, but only with respect to periods for which the issuer is in compliance with the requirements of such section and any agreement with respect to the loan or grant.
+In general.—A qualified nonprofit health insurance issuer (within the meaning of section 1322 of the Patient Protection and Affordable Care Act) which has received a loan or grant under the CO–OP program under such section, but only with respect to periods for which the issuer is in compliance with the requirements of such section and any agreement with respect to the loan or grant.
 
 &emsp;&emsp;(B)
 
@@ -464,7 +464,7 @@ For purposes of this title, an organization shall be treated as an organization 
 
 For purposes of this title, if an organization is—
 
-&emsp;(1) organized and operated solely to hold, commingle, and collectively invest and reinvest (including arranging for and supervising the performance by independent contractors of investment services related thereto) in stocks and securities, the moneys contributed thereto by each of the members of such organization, and to collect income therefrom and turn over the entire amount thereof, less expenses, to such members,
+&emsp;(1) organized and operated solely to hold, commingle, and collectively invest and reinvest (including arranging for and supervisingthe performance by independent contractors of investment services related thereto) in stocks and securities, the moneys contributed thereto by each of the members of such organization, and to collect income therefrom and turn over the entire amount thereof, less expenses, to such members,
 
 &emsp;(2) organized and controlled by one or more such members, and
 
@@ -484,7 +484,7 @@ For purposes of subsection (c)(5), the term "agricultural" includes the art or s
 
 #### (1) General rule
 
-&emsp;In the case of an organization to which this subsection applies, exemption from taxation under subsection (a) shall be denied because asubstantial part of the activities of such organization consists of carrying on propaganda, or otherwise attempting, to influence legislation, but only if such organization normally—
+&emsp;In the case of an organization to which this subsection applies, exemption from taxation under subsection (a) shall be denied because a substantial part of the activities of such organization consists of carrying on propaganda, or otherwise attempting, to influence legislation, but only if such organization normally—
 
 &emsp;&emsp;(A) makes lobbying expenditures in excess of the lobbying ceiling amount for such organization for each taxable year, or
 
@@ -724,7 +724,7 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 &emsp;&emsp;(A) under section 212(a)(3)(B)(vi)(II) or 219 of the Immigration and Nationality Act as a terrorist organization or foreign terrorist organization,
 
-&emsp;&emsp;(B) in or pursuant to an Executive order which is related to terrorism and issued under the authority of the International Emergency Economic Powers Act or section 5 of the United Nations Participation Act of 1945 for the purpose of imposing on such organization an economic or other sanction, or
+&emsp;&emsp;(B) in or pursuant to an Executive order which is related to terrorism and issued under the authority of the International Emergency Economic Powers Act or section5 of the United Nations Participation Act of 1945 for the purpose of imposing on such organization an economic or other sanction, or
 
 &emsp;&emsp;(C) in or pursuant to an Executive order issued under the authority of any Federal law if—
 
@@ -954,7 +954,7 @@ An organization shall not fail to be treated as organized and operated exclusive
 
 &emsp;The Secretary shall issue such regulations and guidance as may be necessary to carry out the provisions of this subsection, including guidance relating to what constitutes reasonable efforts to determine the eligibility of a patient under a financial assistance policy for purposes of paragraph (6).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 163; Mar. 13, 1956, ch. 83, §5(2), 70 Stat. 49; Pub. L. 86–428, §1, Apr. 22, 1960, 74 Stat. 54; Pub. L. 86–667, §1, July 14, 1960, 74 Stat. 534; Pub. L. 87–834, §8(d), Oct. 16, 1962, 76 Stat. 997; Pub. L. 89–352, §1, Feb. 2, 1966, 80 Stat. 4; Pub. L. 89–800, §6(a), Nov. 8, 1966, 80 Stat. 1515; Pub. L. 90–364, title I, §109(a), June 28, 1968, 82 Stat. 269; Pub. L. 91–172, title I, §§101(j)(3)–(6), 121(b)(5)(A), (6)(A), Dec. 30, 1969, 83 Stat. 526, 527, 541; Pub. L. 91–618, §1, Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–418, §1(a), Aug. 29, 1972, 86 Stat. 656; Pub. L. 93–310, §3(a), June 8, 1974, 88 Stat. 235; Pub. L. 93–625, §10(c), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–455, title XIII, §§1307(a)(1), (d)(1)(A), 1312(a), 1313(a), title XIX, §1906(b)(13)(A), title XXI, §§2113(a), 2134(b), Oct. 4, 1976, 90 Stat. 1720, 1727, 1730, 1834, 1907, 1927; Pub. L. 94–568, §§1(a), 2(a), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–227, §4(a), Feb. 10, 1978, 92 Stat. 15; Pub. L. 95–345, §1(a), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §703(b)(2), (g)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2939, 2940; Pub. L. 96–222, title I, §108(b)(2)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–364, title II, §209(a), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 96–601, §3(a), Dec. 24, 1980, 94 Stat. 3496; Pub. L. 96–605, title I, §106(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 97–119, title I, §103(c)(1), Dec. 29, 1981, 95 Stat. 1638; Pub. L. 97–248, title II, §286(a), title III, §354(a), (b), Sept. 3, 1982, 96 Stat. 569, 640, 641; Pub. L. 97–448, title III, §306(b)(5), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title X, §§1032(a), 1079, div. B, title VIII, §2813(b), July 18, 1984, 98 Stat. 1033, 1056, 1206; Pub. L. 99–272, title XI, §11012(b), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title X, §§1012(a), 1024(b), title XI, §§1109(a), 1114(b)(14),title XVI, §1603(a), title XVIII, §§1879(k)(1), 1899A(15), Oct. 22, 1986, 100 Stat. 2390, 2406, 2435, 2451, 2768, 2909, 2959; Pub. L. 100–203, title X, §10711(a)(2), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title I, §§1010(b)(4), 1011(c)(7)(D), 1016(a)(1)(A), (2)–(4), 1018(u)(14), (15), (34), title II, §2003(a)(1), (2), title VI, §6202(a), Nov. 10, 1988, 102 Stat. 3451, 3458, 3573, 3574, 3590, 3592, 3597, 3598, 3730; Pub. L. 101–73, title XIV, §1402(a), Aug. 9, 1989, 103 Stat. 550; Pub. L. 102–486, title XIX, §1940(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 103–66, title XIII, §13146(a), (b), Aug. 10, 1993, 107 Stat. 443; Pub. L. 104–168, title XIII, §1311(b)(1), July 30, 1996, 110 Stat. 1477; Pub. L. 104–188, title I, §§1114(a), 1704(j)(5), Aug. 20, 1996, 110 Stat. 1759, 1882; Pub. L. 104–191, title III, §§341(a), 342(a), Aug. 21, 1996, 110 Stat. 2070; Pub. L. 105–33, title IV, §4041(a), Aug. 5, 1997, 111 Stat. 360; Pub. L. 105–34, title I, §101(c), title IX, §§963(a), (b), 974(a), Aug. 5, 1997, 111 Stat. 799, 892, 898; Pub. L. 105–206, title VI, §6023(6), (7), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §611(d)(3)(C), June 7, 2001, 115 Stat. 98; Pub. L. 107–90, title II, §202, Dec. 21, 2001, 115 Stat. 890; Pub. L. 108–121, title I, §§105(a), 108(a), Nov. 11, 2003, 117 Stat. 1338, 1339; Pub. L. 108–218, title II, §206(a), (b), Apr. 10, 2004, 118 Stat. 610, 611; Pub. L. 108–357, title III, §319(a), (b), Oct. 22, 2004, 118 Stat. 1470, 1471; Pub. L. 109–58, title XIII, §1304(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–135, title IV, §412(bb), (cc), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §862(a), title XII, §1220(a), Aug. 17, 2006, 120 Stat. 1021, 1086; Pub. L. 111–148, title I, §1322(h)(1), title VI, §6301(f), title IX, §9007(a), title X, §10903(a), Mar. 23, 2010, 124 Stat. 191, 747, 855, 1016; Pub. L. 111–152, title I, §1004(d)(4), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(iii), (62), Dec. 19, 2014, 128 Stat. 4040, 4048; Pub. L. 114–113, div. Q, title III, §331(b), Dec. 18, 2015, 129 Stat. 3104; Pub. L. 115–123, div. D, title I, §40501(b)(2), Feb. 9, 2018, 132 Stat. 154; Pub. L. 115–141, div. U, title I, §109(b), title IV, §401(a)(122)–(124), (b)(22), Mar. 23, 2018, 132 Stat. 1171, 1190, 1203; Pub. L. 116–94, div. Q, title III, §301(a), Dec. 20, 2019, 133 Stat. 3247.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 163; Mar. 13, 1956, ch. 83, §5(2), 70 Stat. 49; Pub. L. 86–428, §1, Apr. 22, 1960, 74 Stat. 54; Pub. L. 86–667, §1, July 14,1960, 74 Stat. 534; Pub. L. 87–834, §8(d), Oct. 16, 1962, 76 Stat. 997; Pub. L. 89–352, §1, Feb. 2, 1966, 80 Stat. 4; Pub. L. 89–800, §6(a), Nov. 8, 1966, 80 Stat. 1515; Pub. L. 90–364, title I, §109(a), June 28, 1968, 82 Stat. 269; Pub. L. 91–172, title I, §§101(j)(3)–(6), 121(b)(5)(A), (6)(A), Dec. 30, 1969, 83 Stat. 526, 527, 541; Pub. L. 91–618, §1, Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–418, §1(a), Aug. 29, 1972, 86 Stat. 656; Pub. L. 93–310, §3(a), June 8, 1974, 88 Stat. 235; Pub. L. 93–625, §10(c), Jan. 3, 1975, 88 Stat. 2119; Pub. L. 94–455, title XIII, §§1307(a)(1), (d)(1)(A), 1312(a), 1313(a), title XIX, §1906(b)(13)(A), title XXI, §§2113(a), 2134(b), Oct. 4, 1976, 90 Stat. 1720, 1727, 1730, 1834, 1907, 1927; Pub. L. 94–568, §§1(a), 2(a), Oct. 20, 1976, 90 Stat. 2697; Pub. L. 95–227, §4(a), Feb. 10, 1978, 92 Stat. 15; Pub. L. 95–345, §1(a), Aug. 15, 1978, 92 Stat. 481; Pub. L. 95–600, title VII, §703(b)(2), (g)(2)(A), (B), Nov. 6, 1978, 92 Stat. 2939, 2940; Pub. L. 96–222, title I, §108(b)(2)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–364, title II, §209(a), Sept. 26, 1980, 94 Stat. 1290; Pub. L. 96–601, §3(a), Dec. 24, 1980, 94 Stat. 3496; Pub. L. 96–605, title I, §106(a), Dec. 28, 1980, 94 Stat. 3523; Pub. L. 97–119, title I, §103(c)(1), Dec. 29, 1981, 95 Stat. 1638; Pub. L. 97–248, title II, §286(a), title III, §354(a), (b), Sept. 3, 1982, 96 Stat. 569, 640, 641; Pub. L. 97–448, title III, §306(b)(5), Jan. 12, 1983, 96 Stat. 2406; Pub. L. 98–369, div. A, title X, §§1032(a), 1079, div. B, title VIII, §2813(b), July 18, 1984, 98 Stat. 1033, 1056, 1206; Pub. L. 99–272, title XI, §11012(b), Apr. 7, 1986, 100 Stat. 260; Pub. L. 99–514, title X, §§1012(a), 1024(b), title XI, §§1109(a), 1114(b)(14), title XVI, §1603(a), title XVIII, §§1879(k)(1), 1899A(15), Oct. 22, 1986, 100 Stat. 2390, 2406, 2435, 2451, 2768, 2909, 2959; Pub. L. 100–203, title X, §10711(a)(2), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title I, §§1010(b)(4), 1011(c)(7)(D), 1016(a)(1)(A), (2)–(4), 1018(u)(14), (15), (34), title II, §2003(a)(1), (2), title VI, §6202(a), Nov. 10, 1988, 102 Stat. 3451, 3458, 3573, 3574, 3590, 3592, 3597, 3598, 3730; Pub. L. 101–73, title XIV, §1402(a), Aug. 9, 1989, 103 Stat. 550; Pub. L. 102–486, title XIX, §1940(a), Oct. 24, 1992, 106 Stat. 3034; Pub. L. 103–66, title XIII, §13146(a), (b), Aug. 10, 1993, 107 Stat. 443; Pub. L. 104–168, title XIII, §1311(b)(1), July 30, 1996, 110 Stat. 1477; Pub. L. 104–188, title I, §§1114(a), 1704(j)(5), Aug. 20, 1996, 110 Stat. 1759, 1882; Pub. L. 104–191, title III, §§341(a), 342(a), Aug. 21, 1996, 110 Stat. 2070; Pub. L. 105–33, title IV, §4041(a), Aug. 5, 1997, 111 Stat. 360; Pub. L. 105–34, title I, §101(c), title IX, §§963(a), (b), 974(a), Aug. 5, 1997, 111 Stat. 799, 892, 898; Pub. L. 105–206, title VI, §6023(6), (7), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §611(d)(3)(C), June 7, 2001, 115 Stat. 98; Pub. L. 107–90, title II, §202, Dec. 21, 2001, 115 Stat. 890; Pub. L. 108–121, title I, §§105(a), 108(a), Nov. 11, 2003, 117 Stat. 1338, 1339; Pub. L. 108–218, title II, §206(a), (b), Apr. 10, 2004, 118 Stat. 610, 611; Pub. L. 108–357, title III, §319(a), (b), Oct. 22, 2004, 118 Stat. 1470, 1471; Pub. L. 109–58, title XIII, §1304(a), (b), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–135, title IV, §412(bb), (cc), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 109–280, title VIII, §862(a), title XII, §1220(a), Aug. 17, 2006, 120 Stat. 1021, 1086; Pub. L. 111–148, title I, §1322(h)(1), title VI, §6301(f), title IX, §9007(a), title X, §10903(a), Mar. 23, 2010, 124 Stat. 191, 747, 855, 1016; Pub. L. 111–152, title I, §1004(d)(4), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(iii), (62), Dec. 19, 2014, 128 Stat. 4040, 4048; Pub. L. 114–113, div. Q, title III, §331(b), Dec. 18, 2015, 129 Stat. 3104; Pub. L. 115–123, div. D, title I, §40501(b)(2), Feb. 9, 2018, 132 Stat. 154; Pub. L. 115–141, div. U, title I, §109(b), title IV, §401(a)(122)–(124), (b)(22), Mar. 23, 2018, 132 Stat. 1171, 1190, 1203; Pub. L. 116–94, div. Q, title III, §301(a), Dec. 20, 2019, 133 Stat. 3247.)
 
 #### <b>Editorial Notes</b>
 
@@ -986,11 +986,11 @@ The Federal Credit Union Act, referred to in subsec. (l)(1), is act June 26, 193
 
 Sections 21A and 21B of the Federal Home Loan Bank Act, referred to in subsec. (l)(2), (3), are classified to former section 1441a and section 1441b, respectively, of Title 12, Banks and Banking. Section 21A of the Act was repealed by Pub. L. 111–203, title III, §364(b), July 21, 2010, 124 Stat. 1555.
 
-Sections 1181(b) and 1855(d) of the Social Security Act, referred to in subsecs. (l)(4) and (o), are classified to sections 1320e(b) and 1395w–25(d), respectively, of Title 42, The Public Health and Welfare.
+Sections 1181(b) and 1855(d) of the Social Security Act, referred to in subsecs. (l)(4) and (o), are classifiedto sections 1320e(b) and 1395w–25(d), respectively, of Title 42, The Public Health and Welfare.
 
 Sections 212(a)(3)(B) and 219 of the Immigration and Nationality Act, referred to in subsec. (p)(2)(A), (C)(i), are classified to sections 1182(a)(3)(B) and 1189, respectively, of Title 8, Aliens and Nationality.
 
-The International Emergency Economic Powers Act, referred to in subsec. (p)(2)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (p)(2)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 Section 5 of the United Nations Participation Act of 1945, referred to in subsec. (p)(2)(B), is classified to section 287c of Title 22, Foreign Relations and Intercourse.
 
@@ -1100,7 +1100,7 @@ Subsec. (c)(27). Pub. L. 104–191, §342(a), added par. (27).
 
 Subsecs. (n), (o). Pub. L. 104–188, §1114(a), added subsec. (n) and redesignated former subsec. (n) as (o).
 
-<b>1993</b>—Subsec. (c)(2). Pub. L. 103–66, §13146(b), inserted at end "Rules similar to the rules of subparagraph (G)of paragraph (25) shall apply for purposes of this paragraph."
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–66, §13146(b), inserted at end "Rules similar to the rules of subparagraph (G) of paragraph (25) shall apply for purposes of this paragraph."
 
 Subsec. (c)(25)(G). Pub. L. 103–66, §13146(a), added subpar. (G).
 
@@ -1176,7 +1176,7 @@ Subsecs. (j), (k). Pub. L. 97–248, §286(a), added subsec. (j) and redesignate
 
 <b>1981</b>—Subsec. (c)(21)(B)(iii). Pub. L. 97–119 substituted "established under section 9501" for "established under section 3 of the Black Lung Benefits Revenue Act of 1977".
 
-<b>1980</b>—Subsec. (c)(12). Pub. L. 96–605 designated existing provision as subpar. (A), struck out provision that, in the case of any mutual or cooperative telephone company, the 85 per cent or more income requirement be applied without taking into account any income received or accrued from a nonmember telephone company for the performance of communication services which involve members of such mutual or cooperative telephone company, and added subpars. (B) to (D).
+<b>1980</b>—Subsec. (c)(12). Pub. L. 96–605 designated existing provision as subpar. (A), struck out provision that,in the case of any mutual or cooperative telephone company, the 85 per cent or more income requirement be applied without taking into account any income received or accrued from a nonmember telephone company for the performance of communication services which involve members of such mutual or cooperative telephone company, and added subpars. (B) to (D).
 
 Subsec. (c)(21). Pub. L. 96–222 substituted "Federal Mine Safety and Health Act of 1977" for "Federal Coal Mine Health and Safety Act of 1969".
 
@@ -1298,7 +1298,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 "(2)
 
-Transition rule for existing organizations.—In the case of any organization described in paragraph (3) or (4) of section 501(c) of the Internal Revenue Code of 1986 and with respect to which the provision of credit counseling services is a substantial purpose on the date of the enactment of this Act, the amendments made bythis section shall apply to taxable years beginning after the date which is 1 year after the date of the enactment of this Act."
+Transition rule for existing organizations.—In the case of any organization described in paragraph (3) or (4) of section 501(c) of the Internal Revenue Code of 1986 and with respect to which the provision of credit counseling services is a substantial purpose on the date of the enactment of this Act, the amendments made by this section shall apply to taxable years beginning after the date which is 1 year after the date of the enactment of this Act."
 
 #### Effective Date of 2005 Amendment
 
@@ -1376,7 +1376,7 @@ Pub. L. 101–73, title XIV, §1402(b), Aug. 9, 1989, 103 Stat. 551, provided th
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1011(c)(7)(D) of Pub. L. 100–647 applicable to plan years beginning after Dec. 31, 1987, with exception in case of a plan described in section 1105(c)(2) of Pub. L. 99–514, see section 1011(c)(7)(E) of Pub. L. 100–647, set out as a note under section 401 of this title.
+Amendment by section 1011(c)(7)(D) of Pub. L. 100–647 applicable to plan years beginning after Dec. 31, 1987, with exception in case of a plan described in section1105(c)(2) of Pub. L. 99–514, see section 1011(c)(7)(E) of Pub. L. 100–647, set out as a note under section 401 of this title.
 
 Pub. L. 100–647, title I, §1016(a)(1)(B), Nov. 10, 1988, 102 Stat. 3573, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply with respect to property acquired by the organization after June 10, 1987, except that such amendment shall not apply to any property acquired after June 10, 1987, pursuant to a binding written contract in effect on June 10, 1987, and at all times thereafter before such acquisition."
 
@@ -1476,7 +1476,7 @@ Pub. L. 94–455, title XXI, §2134(e), Oct. 4, 1976, 90 Stat. 1928, as amended 
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section120 of this title and amending this section\] shall apply to taxable years beginning after December 31, 1976.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 120 of this title and amending this section\] shall apply to taxable years beginning after December 31, 1976.
 
 "(2)
 
@@ -1564,7 +1564,7 @@ Pub. L. 111–148, title IX, §9007(e), Mar. 23, 2010, 124 Stat. 858, provided t
 
 "(1)
 
-Report on levels of charity care.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit to the Committees on Ways and Means, Education and Labor, and Energy and Commerce of the House of Representatives and to the Committees on Finance andHealth, Education, Labor, and Pensions of the Senate an annual report on the following:
+Report on levels of charity care.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit to the Committees on Ways and Means, Education and Labor, and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate an annual report on the following:
 
 &emsp;"(A) Information with respect to private tax-exempt, taxable, and government-owned hospitals regarding—
 
@@ -1624,7 +1624,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Section 501(c)(3) Bonds
 
-Pub. L. 99–514, title XIII, §1302, Oct. 22, 1986, 100 Stat. 2658, provided that: "Nothing in the treatment of section 501(c)(3) bonds as private activity bonds under the amendments made by this title \[enacting sections 141 to 150 and 7703 of this title, amending sections 2, 22, 25, 32, 86, 103, 105, 152, 153, 163, 172, 194, 269A, 414, 879, 1016, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing sections 103A, 1391 to 1397, and 6039B of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall be construed as indicating how section 501(c)(3) bonds will be treated in future legislation, and any change in future legislation applicable to private activity bonds shall apply to section 501(c)(3) bonds only if expressly provided in such legislation."
+Pub. L. 99–514, title XIII, §1302, Oct. 22, 1986, 100 Stat. 2658, provided that: "Nothing in the treatment of section 501(c)(3) bonds as private activity bonds under the amendments made by this title \[enacting sections 141 to 150 and 7703 of this title, amending sections 2, 22, 25, 32, 86, 103, 105, 152, 153, 163, 172, 194, 269A, 414, 879, 1016, 1398, 3402, 4701, 4940, 4942, 4988, 6362, 6652, and 7871 of this title, repealing sections 103A, 1391 to 1397, and 6039B of this title, enacting provisions set out as notes under sections 141 and 148 of this title, and amending provisions set out as a note under section 103A of this title\] shall be construed as indicating how section 501(c)(3)bonds will be treated in future legislation, and any change in future legislation applicable to private activity bonds shall apply to section 501(c)(3) bonds only if expressly provided in such legislation."
 
 #### Tax-Exempt Status for Organization Introducing Into Public Use Technology Developed by Qualified Organizations
 
@@ -1740,7 +1740,7 @@ Election to have provisions of, and amendments made by, title ii of this act app
 
 &emsp;"(C) This paragraph applies to plan years beginning after the date of enactment of this Act \[Sept. 2, 1974\]
 
-&emsp;"(D) The source of any distributions made under a plan which makes an election under this paragraph to participants and beneficiaries residing outside of the United States shall be determined, for purposes of subchapter N of chapter 1 of the Internal Revenue Code of 1986 by the Secretary of the Treasury in accordance with regulations prescribed by him. For purposes of this subparagraph the United States means the United States as defined in section 7701(a)(9) of the Internal Revenue Code of 1986."
+&emsp;"(D) The source of any distributions made under a plan which makes an election under this paragraph toparticipants and beneficiaries residing outside of the United States shall be determined, for purposes of subchapter N of chapter 1 of the Internal Revenue Code of 1986 by the Secretary of the Treasury in accordance with regulations prescribed by him. For purposes of this subparagraph the United States means the United States as defined in section 7701(a)(9) of the Internal Revenue Code of 1986."
 
 #### Exchanges for Sale of Poultry
 

@@ -1,6 +1,6 @@
 ### §278. Nonpreemption of other law
 
-Nothing in this chapter shall be construed to limit the authority of the executive branch in the use of military personnel or equipment for civilian law enforcement purposes beyond that provided by law before December 1, 1981.
+Nothing in this chapter shall be construed to limit the authority of the executive branch inthe use of military personnel or equipment for civilian law enforcement purposes beyond that provided by law before December 1, 1981.
 
 (Added Pub. L. 97–86, title IX, §905(a)(1), Dec. 1, 1981, 95 Stat. 1116, §378; amended Pub. L. 98–525, title XIV, §1405(10), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 100–456, div. A, title XI, §1104(a), Sept. 29, 1988, 102 Stat. 2045; renumbered §278, Pub. L. 114–328, div. A, title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2497.)
 

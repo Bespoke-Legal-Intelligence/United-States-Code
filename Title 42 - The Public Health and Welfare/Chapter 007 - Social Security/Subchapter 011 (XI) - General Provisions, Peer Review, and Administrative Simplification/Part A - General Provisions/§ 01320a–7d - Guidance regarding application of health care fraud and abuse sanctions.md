@@ -18,11 +18,11 @@
 
 #### (B) Publication of proposed modifications and proposed additional safe harbors
 
-&emsp;&emsp;After considering the proposals described in clauses (i) and (ii) of subparagraph (A),the Secretary, in consultation with the Attorney General, shall publish in the Federal Register proposed modifications to existing safe harbors and proposed additional safe harbors, if appropriate, with a 60-day comment period. After considering any public comments received during this period, the Secretary shall issue final rules modifying the existing safe harbors and establishing new safe harbors, as appropriate.
+&emsp;&emsp;After considering the proposals described in clauses (i) and (ii) of subparagraph (A), the Secretary, in consultation with the Attorney General, shall publish in the Federal Register proposed modifications to existing safe harbors and proposed additional safe harbors, if appropriate, with a 60-day comment period. After considering any public comments received during this period, the Secretary shall issue final rules modifying the existing safe harbors and establishing new safe harbors, as appropriate.
 
 #### (C) Report
 
-&emsp;&emsp;The Inspector General of the Department of Health and Human Services (in this section referred to as the "Inspector General") shall, in an annual report to Congress or as part of the year-end semiannual report required by section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), describe the proposals received under clauses (i) and (ii) of subparagraph (A) and explain which proposals were included in the publication described in subparagraph (B), which proposals were not included in that publication, and the reasons for the rejection of the proposals that were not included.
+&emsp;&emsp;The Inspector General of the Department of Health and Human Services (in this section referred to as the "Inspector General") shall, in an annual report to Congress or as part of the year-end semiannual report required by section 405 of title 5, describe the proposals received under clauses (i) and (ii) of subparagraph (A) and explain which proposals were included in the publication described in subparagraph (B), which proposals were not included in that publication, and the reasons for the rejection of the proposals that were not included.
 
 #### (2) Criteria for modifying and establishing safe harbors
 
@@ -49,6 +49,16 @@
 &emsp;&emsp;&emsp;(ii) whether to arrange for a referral of health care items or services to a particular practitioner or provider.
 
 &emsp;&emsp;(I) Any other factors the Secretary deems appropriate in the interest of preventing fraud and abuse in Federal health care programs (as so defined).
+
+#### (3) Consideration of safe harbor for certain contingency management interventions
+
+#### (A) In general
+
+&emsp;&emsp;Not later than one year after December 29, 2022, the Inspector General shall conduct a review on whether to establish a safe harbor described in paragraph (1)(A)(ii) for evidence-based contingency management incentives and the parameters for such a safe harbor. In conducting the review under the previous sentence, the Inspector General shall consider the extent to which providing such a safe harbor for evidence-based contingency management incentives may result in any of the factors described in paragraph (2).
+
+#### (B) Report
+
+&emsp;&emsp;Not later than two years after December 29, 2022, the Secretary and the Inspector General shall submit to Congress recommendations, including based on the review conducted under subparagraph (A), for improving access to evidence-based contingency management interventions while ensuring quality of care, ensuring fidelity to evidence-based practices, and including strong program integrity safeguards that prevent increased waste, fraud, and abuse and prevent medically unnecessary or inappropriate items or services reimbursed in whole or in part by a Federal health care program.
 
 #### (b) Advisory opinions
 
@@ -136,7 +146,7 @@
 
 &emsp;&emsp;(B) the volume and frequency of the conduct that would be identified in the special fraud alert.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128D, as added Pub. L. 104–191, title II, §205, Aug. 21, 1996, 110 Stat. 2000; amended Pub. L. 105–33, title IV, §4331(a)(1), Aug. 5, 1997, 111 Stat. 395; Pub. L. 105–277, div. J, title V, §5201(c), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–554, §1(a)(6) \[title V, §543\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551.)
+(Aug. 14, 1935, ch. 531, title XI, §1128D, as added Pub. L. 104–191, title II, §205, Aug. 21, 1996, 110 Stat. 2000; amended Pub. L. 105–33, title IV, §4331(a)(1), Aug. 5, 1997, 111 Stat. 395; Pub. L. 105–277, div. J, title V, §5201(c), Oct. 21, 1998, 112 Stat. 2681–917; Pub. L. 106–554, §1(a)(6) \[title V, §543\], Dec. 21, 2000, 114 Stat. 2763, 2763A–551; Pub. L. 117–286, §4(b)(79), Dec. 27, 2022, 136 Stat. 4351; Pub. L. 117–328, div. FF, title IV, §4127, Dec. 29, 2022, 136 Stat. 5915.)
 
 #### <b>Editorial Notes</b>
 
@@ -144,11 +154,13 @@
 
 Section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987, referred to in subsec. (a)(1)(A)(i), is section 14(a) of Pub. L. 100–93, which is set out as a note under section 1320a–7b of this title.
 
-Section 5 of the Inspector General Act of 1978, referred to in subsec. (a)(1)(C), is section 5 of Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1103, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Internal Revenue Code of 1986, referred to in subsec. (b)(3)(B), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(C). Pub. L. 117–286 substituted "section 405 of title 5," for "section 5 of the Inspector General Act of 1978 (5 U.S.C. App.),".
+
+Subsec. (a)(3). Pub. L. 117–328 added par. (3).
 
 <b>2000</b>—Subsec. (b)(6). Pub. L. 106–554 struck out ", and before the date which is 4 years after August 21, 1996" before period at end.
 

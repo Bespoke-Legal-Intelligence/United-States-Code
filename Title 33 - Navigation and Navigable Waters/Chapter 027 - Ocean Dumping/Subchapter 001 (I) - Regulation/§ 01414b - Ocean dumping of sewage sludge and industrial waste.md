@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) shall pay into a trust account established by the person in accordance with subsection (e) a sum equal to 85 percent of such amount;
 
-&emsp;&emsp;(B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) ofsewage sludge and industrial waste transported or dumped by such person, for use for agency activities as provided in subsection (f)(1);
+&emsp;&emsp;(B) shall pay to the Administrator a sum equal to $15 per dry ton (or equivalent) of sewage sludge and industrial waste transported or dumped by such person, for use for agency activities as provided in subsection (f)(1);
 
 &emsp;&emsp;(C) subject to paragraph (5), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount after application of subparagraphs (A) and (B); and
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(ii) such failure is likely to result in the person not being able to terminate by December 31, 1991, dumping of sewage sludge or industrial waste into ocean waters.
 
-&emsp;(C) The Administrator may waive fees reimposed for a person under subparagraph (B) if the Administrator determines that the person has returned to compliance with a compliance agreement which the person entered into under subsection (c)(2).
+&emsp;(C) The Administrator may waive fees reimposed for a person under subparagraph (B) ifthe Administrator determines that the person has returned to compliance with a compliance agreement which the person entered into under subsection (c)(2).
 
 #### (5) Payments prior to establishment of account
 
@@ -102,7 +102,7 @@
 
 &emsp;An agreement shall be an enforcement agreement for purposes of this section only if—
 
-&emsp;&emsp;(A) it includes a plan negotiated by the person, the State in which the person is located, and the Administrator that will, inthe opinion of the Administrator, if adhered to by the person in good faith, result in the phasing out and termination of ocean dumping, and transportation for the purpose of ocean dumping, of sewage sludge and industrial waste by such person through the design, construction, and full implementation of an alternative system for the management of sewage sludge and industrial waste transported or dumped by the person;
+&emsp;&emsp;(A) it includes a plan negotiated by the person, the State in which the person is located, and the Administrator that will, in the opinion of the Administrator, if adhered to by the person in good faith, result in the phasing out and termination of ocean dumping, and transportation for the purpose of ocean dumping, of sewage sludge and industrial waste by such person through the design, construction, and full implementation of an alternative system for the management of sewage sludge and industrial waste transported or dumped by the person;
 
 &emsp;&emsp;(B) it includes a schedule which—
 
@@ -204,7 +204,7 @@
 
 #### (1) In general
 
-&emsp;A person who enters into a compliance agreement or an enforcement agreement under subsection (c) shall establish a trust account for the payment and use of fees and penalties under this section.
+&emsp;A person who enters into a compliance agreement or an enforcement agreement undersubsection (c) shall establish a trust account for the payment and use of fees and penalties under this section.
 
 #### (2) Trust account requirements
 
@@ -324,7 +324,7 @@
 
 #### (3) Actions
 
-&emsp;The Administrator may request the Attorney General to commence a civil action for appropriate relief, including a temporary or permanent injunction and the imposition of civilpenalties authorized by subsection (d)(1), for any violation of subsection (a)(1) or of an order issued by the Administrator under this section. Such an action may be brought in the district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation and require compliance with subsection (a)(1) and any such order.
+&emsp;The Administrator may request the Attorney General to commence a civil action for appropriate relief, including a temporary or permanent injunction and the imposition of civil penalties authorized by subsection (d)(1), for any violation of subsection (a)(1) or of an order issued by the Administrator under this section. Such an action may be brought in the district court of the United States for the district in which the defendant is located, resides, or is doing business, and such court shall have jurisdiction to restrain such violation and require compliance with subsection (a)(1) and any such order.
 
 #### (h) State progress reports
 
@@ -346,7 +346,7 @@
 
 #### (1) In general
 
-&emsp;Not later than December 31 of 1989 and of each year thereafter until the Administrator determines that ocean dumping of sewage sludge and industrial waste has terminated, the Administrator shall prepare and submit to the Congress a report on—
+&emsp;Not later than December 31 of 1989 and of each year thereafter until the Administratordetermines that ocean dumping of sewage sludge and industrial waste has terminated, the Administrator shall prepare and submit to the Congress a report on—
 
 &emsp;&emsp;(A) progress being made by persons issued permits under section 1412 of this title for transportation or dumping of sewage sludge or industrial waste in developing alternative systems for managing sewage sludge and industrial waste;
 
@@ -402,7 +402,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) any waste from a tuna cannery operation located in American Samoa or Puerto Rico discharged pursuant to a permit issued by the Administrator under section 1412 of this title;
 
-&emsp;(4) the term "industrial waste" means any solid, semisolid, or liquid waste generated by amanufacturing or processing plant, other than an excluded material;
+&emsp;(4) the term "industrial waste" means any solid, semisolid, or liquid waste generated by a manufacturing or processing plant, other than an excluded material;
 
 &emsp;(5) the term "interim measure" means any short-term method for the management of sewage sludge or industrial waste, which—
 

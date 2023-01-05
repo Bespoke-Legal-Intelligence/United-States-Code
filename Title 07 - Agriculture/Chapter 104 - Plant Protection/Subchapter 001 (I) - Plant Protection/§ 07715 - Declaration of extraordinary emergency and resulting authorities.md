@@ -40,7 +40,7 @@ No plant, biological control organism, plant product, plant pest, noxious weed, 
 
 #### (e) Payment of compensation
 
-The Secretary may pay compensation to any person for economic losses incurred by the person as a result of action taken by the Secretary under this section. The determination by the Secretary of the amount of any compensation to be paid under this subsection shall be final and shall not be subject to judicial review or a review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
+The Secretary may pay compensation to any person for economic losses incurred by the person as a result of action taken by the Secretary under this section. The determination by the Secretary of the amount of any compensation to be paid under this subsection shall be final and shall not be subject to judicial review or a review by any officer or employee of the FederalGovernment other than the Secretary or the designee of the Secretary.
 
 (Pub. L. 106–224, title IV, §415, June 20, 2000, 114 Stat. 445; Pub. L. 107–171, title VII, §7504(a), May 13, 2002, 116 Stat. 465; Pub. L. 110–234, title X, §10203(a), May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, §4(a), title X, §10203(a), June 18, 2008, 122 Stat. 1664, 2104.)
 

@@ -22,7 +22,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 #### (e) Release and quitclaim; conditions; sale; proceeds
 
-(1) The Secretary of the Interior is authorized where appropriate to release and quitclaim to a unit of government or to another entity meeting the requirements of this subsection any and all right, title, and interest in the surface estate of any portion of any right-of-way to the extent any such right, title, and interest was retained by the United States pursuant to subsection (c), if such portion is not located within the boundaries of any conservation system unit or National Forest. Such release and quitclaim shall be made only in response to an application therefor by a unit of State or local government or another entity which the Secretary of the Interior determines to be legally and financially qualified to manage the relevant portion forpublic recreational purposes. Upon receipt of such an application, the Secretary shall publish a notice concerning such application in a newspaper of general circulation in the area where the relevant portion is located. Such release and quitclaim shall be on the following conditions:
+(1) The Secretary of the Interior is authorized where appropriate to release and quitclaim to a unit of government or to another entity meeting the requirements of this subsection any and all right, title, and interest in the surface estate of any portion of any right-of-way to the extent any such right, title, and interest was retained by the United States pursuant to subsection (c), if such portion is not located within the boundaries of any conservation system unit or National Forest. Such release and quitclaim shall be made only in response to an application therefor by a unit of State or local government or another entity which the Secretary of the Interior determines to be legally and financially qualified to manage the relevant portion for public recreational purposes. Upon receipt of such an application, the Secretary shall publish a notice concerning such application in a newspaper of general circulation in the area where the relevant portion is located. Such release and quitclaim shall be on the following conditions:
 
 &emsp;(A) If such unit or entity attempts to sell, convey, or otherwise transfer such right, title, or interest or attempts to permit the use of any part of such portion for any purpose incompatible with its use for public recreation, then any and all right, title, and interest released and quitclaimed by the Secretary pursuant to this subsection shall revert to the United States.
 
@@ -56,9 +56,9 @@ As used in this section—
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsecs. (d)(2) and (f)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsecs. (d)(2) and (f)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (f)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (f)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Amendments
 

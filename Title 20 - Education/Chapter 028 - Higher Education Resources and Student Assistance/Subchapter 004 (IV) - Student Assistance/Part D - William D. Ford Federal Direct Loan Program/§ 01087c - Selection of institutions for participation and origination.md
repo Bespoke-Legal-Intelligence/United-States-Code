@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Secretary shall enter into agreements pursuant to section 1087d(a) of this title with institutions of higher education to participate in the direct student loan program under this part, and agreements pursuant to section 1087d(b) of this title with institutions of higher education, or consortia thereof, to originate loans in such program, for academic years beginning on or after July 1, 1994. Alternative origination services, through which an entity other than the participating institution at which the student is in attendance originates the loan, shall be provided by the Secretary, through 1 or more contracts under section 1087f(b) of this title or such other means as the Secretary may provide, for students attending participating institutions that do not originate direct student loans under this part. Such agreements for the academic year 1994–1995 shall, to the extent feasible, be entered into not later than January 1, 1994.
+The Secretary shall enter into agreements pursuant to section 1087d(a) of this title with institutions of higher education to participate in the direct student loan program under this part, and agreements pursuant to section 1087d(b) of this title with institutions of higher education, or consortia thereof, to originate loans in such program, for academic years beginning on or after July 1, 1994. Alternative origination services, through which an entity other than theparticipating institution at which the student is in attendance originates the loan, shall be provided by the Secretary, through 1 or more contracts under section 1087f(b) of this title or such other means as the Secretary may provide, for students attending participating institutions that do not originate direct student loans under this part. Such agreements for the academic year 1994–1995 shall, to the extent feasible, be entered into not later than January 1, 1994.
 
 #### (b) Selection criteria
 
@@ -38,7 +38,7 @@ The Secretary shall enter into agreements pursuant to section 1087d(a) of this t
 
 &emsp;&emsp;(D) in the opinion of the Secretary, has not had severe performance deficiencies for any of the programs under this subchapter, including such deficiencies demonstrated by audits or program reviews submitted or conducted during the 5 calendar years immediately preceding the date of application;
 
-&emsp;&emsp;(E) provides an assurance that such institution has no delinquent outstanding debts to the Federal Government, unless such debts are being repaid under or in accordance with a repayment arrangement satisfactory to the Federal Government, or theSecretary in the Secretary's discretion determines that the existence or amount of such debts has not been finally determined by the cognizant Federal agency; and
+&emsp;&emsp;(E) provides an assurance that such institution has no delinquent outstanding debts to the Federal Government, unless such debts are being repaid under or in accordance with a repayment arrangement satisfactory to the Federal Government, or the Secretary in the Secretary's discretion determines that the existence or amount of such debts has not been finally determined by the cognizant Federal agency; and
 
 &emsp;&emsp;(F) meets such other criteria as the Secretary may establish to protect the financial interest of the United States and to promote the purposes of this part.
 
@@ -72,7 +72,7 @@ Subsec. (b)(2). Pub. L. 105–244, §451(b), substituted "prescribe." for "presc
 
 &emsp;"(A)(i) categorizing such institutions according to anticipated loan volume, length of academic program, control of the institution, highest degree offered, size of student enrollment, geographic location, annual loan volume, and default experience; and
 
-&emsp;"(ii) beginning in academic year 1995–1996 selecting institutions that are reasonably representative of each of the categories described pursuant to clause (i); and
+&emsp;"(ii) beginning in academic year 1995–1996 selecting institutions that are reasonably representative ofeach of the categories described pursuant to clause (i); and
 
 &emsp;"(B) if the Secretary determines it necessary in order to carry out the purposes of subparagraph (A) and attain such reasonable representation (as required by subparagraph (A)), selecting additional institutions."
 

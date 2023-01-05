@@ -283,11 +283,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part G—Enhanced Training and Services To End Abuse Later in Life
+#### Part G—Training and Services To End Abuse Later in Life
 
 |  |  |
 | :--- | ---: |
-| [12421\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Enhanced%20Training%20and%20Services%20to%20End%20Abuse%20Later%20in%20Life/%C2%A7%2012421%20-%20Enhanced%20training%20and%20services%20to%20end%20abuse%20in%20later%20life.md) | Enhanced training and services to end abuse in later life. |
+| [12421\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20G%20-%20Training%20and%20Services%20to%20End%20Abuse%20Later%20in%20Life/%C2%A7%2012421%20-%20Training%20and%20services%20to%20end%20abuse%20in%20later%20life.md) | Training and services to end abuse in later life. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -348,6 +348,11 @@
 |  |  |
 | :--- | ---: |
 | [12491\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20L%20-%20Addressing%20the%20Housing%20Needs%20of%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/Subpart%20002%20-%20Housing%20Rights/%C2%A7%2012491%20-%20Housing%20protections%20for%20victims%20of%20domestic%20violence%2C%20dating%20violence%2C%20sexual%20assault%2C%20and%20stalking.md) | Housing protections for victims of domestic violence, dating violence, sexual assault, and stalking. |
+| [12492\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20L%20-%20Addressing%20the%20Housing%20Needs%20of%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/Subpart%20002%20-%20Housing%20Rights/%C2%A7%2012492%20-%20Compliance%20reviews.md) | Compliance reviews. |
+| [12493\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20L%20-%20Addressing%20the%20Housing%20Needs%20of%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/Subpart%20002%20-%20Housing%20Rights/%C2%A7%2012493%20-%20Department%20of%20Housing%20and%20Urban%20Development%20Gender-based%20Violence%20Prevention%20Office%20and%20Violence%20Against%20Women%20Act%20Director.md) | Department of Housing and Urban Development Gender-based Violence Prevention Office and Violence Against Women Act Director. |
+| [12494\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20L%20-%20Addressing%20the%20Housing%20Needs%20of%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/Subpart%20002%20-%20Housing%20Rights/%C2%A7%2012494%20-%20Prohibition%20on%20retaliation.md) | Prohibition on retaliation. |
+| [12495\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20L%20-%20Addressing%20the%20Housing%20Needs%20of%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/Subpart%20002%20-%20Housing%20Rights/%C2%A7%2012495%20-%20Right%20to%20report%20crime%20and%20emergencies%20from%20one%27s%20home.md) | Right to report crime and emergencies from one's home. |
+| [12496\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20L%20-%20Addressing%20the%20Housing%20Needs%20of%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/Subpart%20002%20-%20Housing%20Rights/%C2%A7%2012496%20-%20Training%20and%20technical%20assistance%20grants.md) | Training and technical assistance grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -365,6 +370,22 @@
 | :--- | ---: |
 | [12511\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20N%20-%20Sexual%20Assault%20Services/%C2%A7%2012511%20-%20Sexual%20assault%20services%20program.md) | Sexual assault services program. |
 | [12512\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20N%20-%20Sexual%20Assault%20Services/%C2%A7%2012512%20-%20Working%20Group.md) | Working Group. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part O—Trauma-Informed, Victim-Centered Training for Law Enforcement
+
+|  |  |
+| :--- | ---: |
+| [12513\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20O%20-%20Trauma-Informed%2C%20Victim-Centered%20Training%20for%20Law%20Enforcement/%C2%A7%2012513%20-%20Demonstration%20program%20on%20trauma-informed%2C%20victim-centered%20training%20for%20law%20enforcement.md) | Demonstration program on trauma-informed, victim-centered training for law enforcement. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part P—Restorative Practices
+
+|  |  |
+| :--- | ---: |
+| [12514\.](Subchapter%20003%20%28III%29%20-%20Violence%20Against%20Women/Part%20P%20-%20Restorative%20Practices/%C2%A7%2012514%20-%20Pilot%20program%20on%20restorative%20practices.md) | Pilot program on restorative practices. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

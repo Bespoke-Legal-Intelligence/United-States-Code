@@ -12,7 +12,7 @@
 
 (f) The Administrative Committee shall prescribe, with the approval of the President, regulations for carrying out this section.
 
-(g) This section does not require codification of the text of Presidential documents publishedand periodically compiled in supplements to Title 3 of the Code of Federal Regulations.
+(g) This section does not require codification of the text of Presidential documents published and periodically compiled in supplements to Title 3 of the Code of Federal Regulations.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1277.)
 

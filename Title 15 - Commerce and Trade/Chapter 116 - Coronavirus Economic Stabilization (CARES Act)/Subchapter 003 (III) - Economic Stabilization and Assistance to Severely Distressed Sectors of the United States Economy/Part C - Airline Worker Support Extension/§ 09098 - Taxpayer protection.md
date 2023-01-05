@@ -20,5 +20,5 @@ This part, referred to in text, was in the original "this subtitle", meaning sub
 
 #### Codification
 
-Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and VenuesAct, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
+Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and also as part of the Consolidated Appropriations Act, 2021, and not as part of the CARES Act which in part comprises this chapter.
 

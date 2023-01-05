@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense,the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Subject to subsection (f)(2), such services shall be provided to a member within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
+In General.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Subject to subsection (f)(2), such services shall be provided to a member within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
 
 (2) The Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs shall cooperate with the Secretary of Labor in establishing and maintaining the program under this section.
 
@@ -12,7 +12,7 @@ In General.—(1) The Secretary of Labor, in conjunction with the Secretary of D
 
 Elements of Program.—In establishing and carrying out a program under this section, the Secretary of Labor shall do the following:
 
-&emsp;(1) Provide information concerning employment and training assistance, including (A) labor market information, (B) civilian work place requirements and employment opportunities, (C) instruction in resumé preparation, and (D) job analysis techniques, job search techniques, and job interview techniques.
+&emsp;(1) Provide information concerning employment and training assistance, including (A) labor market information, (B) civilian work place requirements and employment opportunities (including apprenticeship programs approved under chapters 30 through 36 of title 38), (C) instruction in resumé preparation, and (D) job analysis techniques, job search techniques, and job interview techniques.
 
 &emsp;(2) In providing information under paragraph (1), use experience obtained from implementation of the pilot program established under section 408 of Public Law 101–237.
 
@@ -56,7 +56,7 @@ Use of Personnel and Organizations.—In carrying out the program established un
 
 &emsp;(5) enter into contracts with public entities;
 
-&emsp;(6) enter into contracts with private entities, particularly with qualified private entities that have experience with instructingmembers of the armed forces eligible for assistance under the program carried out under this section on—
+&emsp;(6) enter into contracts with private entities, particularly with qualified private entities that have experience with instructing members of the armed forces eligible for assistance under the program carried out under this section on—
 
 &emsp;&emsp;(A) private sector culture, resume writing, career networking, and training on job search technologies;
 
@@ -102,7 +102,7 @@ Program Contents.—(1) The program carried out under this section shall consist
 
 &emsp;(B) in addition to such training and instruction required during such time periods.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§563, 564(a), Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–232, div. A, title V, §§552(b)(1), 553(b)(1), Aug. 13, 2018, 132 Stat. 1770, 1772.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§563, 564(a), Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–232, div. A, title V, §§552(b)(1), 553(b)(1), Aug. 13, 2018, 132 Stat. 1770, 1772; Pub. L. 117–328, div. U, title II, §212, Dec. 29, 2022, 136 Stat. 5453.)
 
 #### <b>Editorial Notes</b>
 
@@ -113,6 +113,8 @@ Section 408 of Public Law 101–237, referred to in subsec. (b)(2), is set out a
 The National Apprenticeship Act, referred to in subsec. (e), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1)(B). Pub. L. 117–328 inserted "(including apprenticeship programs approved under chapters 30 through 36 of title 38)" after "employment opportunities".
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–232, §552(b)(1)(A), substituted "Subject to subsection (f)(2), such services" for "Such services".
 
@@ -260,7 +262,7 @@ Elements.—The additional information required by paragraph (1) shall include t
 
 &emsp;&emsp;&emsp;"(i) to the extent practicable, differences between types of institutions of higher learning in such matters as tuition and fees, admission requirements, accreditation, transferability of credits, credit for qualifying military training, time required to complete a degree, and retention and job placement rates; and
 
-&emsp;&emsp;&emsp;"(ii) how Federal educational assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) may be used in conjunction with educational assistance provided under chapters 30 and 33 of title 38, United States Code.
+&emsp;&emsp;&emsp;"(ii) how Federal educational assistance provided under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) may be used in conjunction with educational assistance providedunder chapters 30 and 33 of title 38, United States Code.
 
 &emsp;&emsp;"(B) Information about the Postsecondary Education Complaint System of the Department of Defense, the Department of Veterans Affairs, the Department of Education, and the Consumer Financial Protection Bureau.
 

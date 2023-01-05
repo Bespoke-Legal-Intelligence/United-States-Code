@@ -18,7 +18,7 @@
 
 > shall insure compliance with such guidelines and the purposes of this chapter in conducting such activity.
 
-(3) Each Executive agency which permits the use of Federal property for purposes of disposalof solid waste shall insure compliance with such guidelines and the purposes of this chapter in the disposal of such waste.
+(3) Each Executive agency which permits the use of Federal property for purposes of disposal of solid waste shall insure compliance with such guidelines and the purposes of this chapter in the disposal of such waste.
 
 (4) The President or the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate with regard to any unit of the legislative branch of the Federal Government shall prescribe regulations to carry out this subsection.
 

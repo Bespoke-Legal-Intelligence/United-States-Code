@@ -24,7 +24,7 @@
 
 #### (B) Additional requirements
 
-&emsp;In addition to the requirements of subparagraph (A), each application submitted by an eligible entity under that subparagraph shall—
+&emsp;In addition to the requirements of subparagraph (A), each application submitted by aneligible entity under that subparagraph shall—
 
 &emsp;&emsp;(i) not include proposals for any activities that may compromise the safety of a domestic violence victim, including—
 
@@ -98,7 +98,7 @@ An eligible entity that receives a grant under this section shall, as a conditio
 
 #### (6) Report to the Secretary
 
-Not later than 1 year after the date on which an eligible entity receives a grant under thissection and each year thereafter in which the grant funds are used, the entity shall submit to the Secretary a report that contains, with respect to assistance provided by the entity to domestic violence victims with pets, service animals, emotional support animals, or horses using grant funds received under this section, information on—
+Not later than 1 year after the date on which an eligible entity receives a grant under this section and each year thereafter in which the grant funds are used, the entity shall submit to the Secretary a report that contains, with respect to assistance provided by the entity to domestic violence victims with pets, service animals, emotional support animals, or horses using grant funds received under this section, information on—
 
 &emsp;(A) the number of domestic violence victims with pets, service animals, emotional support animals, or horses provided such assistance; and
 

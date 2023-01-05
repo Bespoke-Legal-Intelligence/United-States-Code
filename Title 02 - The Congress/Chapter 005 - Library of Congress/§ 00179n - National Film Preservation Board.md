@@ -68,7 +68,7 @@ The Librarian shall appoint one member of the Board to serve as Chair.
 
 #### (e) Reimbursement of expenses
 
-Members of the Board shall serve without pay, but may receive travel expenses, including perdiem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
+Members of the Board shall serve without pay, but may receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5.
 
 #### (f) Meetings
 

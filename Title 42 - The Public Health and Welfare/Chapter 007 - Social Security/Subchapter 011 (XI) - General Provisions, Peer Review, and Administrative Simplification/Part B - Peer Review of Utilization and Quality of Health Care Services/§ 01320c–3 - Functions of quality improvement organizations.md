@@ -4,7 +4,7 @@
 
 Subject to subsection (b), any quality improvement organization entering into a contract with the Secretary under this part must perform one or more of the following functions:
 
-&emsp;(1) The organization shall review some or all of the professional activities in the area, subject to the terms of the contract and subject to the requirements of subsection (d), of physicians and other health care practitioners and institutional and noninstitutional providers of health care services in the provision of health care services and items for which payment may be made (in whole or in part) under subchapter XVIII (including where payment ismade for such services to eligible organizations pursuant to contracts under section 1395mm of this title, to Medicare Advantage organizations pursuant to contracts under part C, and to prescription drug sponsors pursuant to contracts under part D) for the purpose of determining whether—
+&emsp;(1) The organization shall review some or all of the professional activities in the area, subject to the terms of the contract and subject to the requirements of subsection (d), of physicians and other health care practitioners and institutional and noninstitutional providers of health care services in the provision of health care services and items for which payment may be made (in whole or in part) under subchapter XVIII (including where payment is made for such services to eligible organizations pursuant to contracts under section 1395mm of this title, to Medicare Advantage organizations pursuant to contracts under part C, and to prescription drug sponsors pursuant to contracts under part D) for the purpose of determining whether—
 
 &emsp;&emsp;(A) such services and items are or were reasonable and medically necessary and whether such services and items are not allowable under subsection (a)(1) or (a)(9) of section 1395y of this title;
 
@@ -26,7 +26,7 @@ Subject to subsection (b), any quality improvement organization entering into a 
 
 > &emsp;The organization shall identify cases for which payment should not be made by reason of paragraph (1)(B) only through the use of criteria developed pursuant to guidelines established by the Secretary.
 
-&emsp;(3)(A) Subject to subparagraphs (B) and (D), whenever the organization makes a determination that any health care services or items furnished or to be furnished to a patient by any practitioner or provider are disapproved, the organization shall promptly notify such patient and the agency or organization responsible for the payment of claims under subchapter XVIII of this chapter of such determination.
+&emsp;(3)(A) Subject to subparagraphs (B) and (D), whenever the organization makes a determination that any health care services or items furnished or to be furnished to a patientby any practitioner or provider are disapproved, the organization shall promptly notify such patient and the agency or organization responsible for the payment of claims under subchapter XVIII of this chapter of such determination.
 
 &emsp;(B) The notification under subparagraph (A) with respect to services or items disapproved by reason of subparagraph (A) or (C) of paragraph (1) shall not occur until 20 days after the date that the organization has—
 
@@ -70,7 +70,7 @@ Subject to subsection (b), any quality improvement organization entering into a 
 
 &emsp;(7) The organization, to the extent necessary and appropriate to the performance of the contract, shall—
 
-&emsp;&emsp;(A)(i) make arrangements to utilize the services of persons who are practitioners of, or specialists in, the various areas of medicine (including dentistry, optometry, and podiatry), or other types of health care, which persons shall, to the maximum extentpracticable, be individuals engaged in the practice of their profession within the area served by such organization; and
+&emsp;&emsp;(A)(i) make arrangements to utilize the services of persons who are practitioners of, or specialists in, the various areas of medicine (including dentistry, optometry, and podiatry), or other types of health care, which persons shall, to the maximum extent practicable, be individuals engaged in the practice of their profession within the area served by such organization; and
 
 &emsp;&emsp;(ii) in the case of psychiatric and physical rehabilitation services, make arrangements to ensure that (to the extent possible) initial review of such services be made by a physician who is trained in psychiatry or physical rehabilitation (as appropriate).<sup>1</sup>
 
@@ -370,7 +370,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 Pub. L. 100–203, title IV, §4093(b), Dec. 22, 1987, 101 Stat. 1330–136, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations made on or after April 1, 1988."
 
-Pub. L. 100–203, title IV, §4094(c)(1)(B), Dec. 22, 1987, 101 Stat. 1330–137, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall apply to contracts under part B of title XI of the SocialSecurity Act \[42 U.S.C. 1320c et seq.\] entered into or renewed more than 6 months after the date of the enactment of this Act \[Dec. 22, 1987\]."
+Pub. L. 100–203, title IV, §4094(c)(1)(B), Dec. 22, 1987, 101 Stat. 1330–137, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[42 U.S.C. 1320c et seq.\] entered into or renewed more than 6 months after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 Pub. L. 100–203, title IV, §4094(c)(2)(C), Dec. 22, 1987, 101 Stat. 1330–137, provided that: "The amendments made by this paragraph \[amending this section\] shall apply with respect to contracts entered into or renewed on or after the date of enactment of this Act \[Dec. 22, 1987\]."
 
@@ -404,7 +404,7 @@ Pub. L. 99–509, title IX, §9353(c)(2), Oct. 21, 1986, 100 Stat. 2047, provide
 
 Pub. L. 99–272, title IX, §9307(e), Apr. 7, 1986, 100 Stat. 194, provided that: "The amendments made by this section \[amending this section and sections 1395u and 1395y of this title\] shall apply to services performed on or after April 1, 1986."
 
-Pub. L. 99–272, title IX, §9401(d), Apr. 7, 1986, 100 Stat. 200, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to items and services furnished on or after January 1, 1987. The Secretary of Health and Human Services shall provide for such modification of contracts under part B of title XI of the Social Security Act \[42 U.S.C. 1320c et seq.\] that are in effect on that date as may be necessary to effect these amendments on a timely basis."
+Pub. L. 99–272, title IX, §9401(d), Apr. 7, 1986, 100 Stat. 200, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to items and services furnished on or after January 1, 1987. The Secretary of Health and Human Services shall provide for such modification of contracts under part B of titleXI of the Social Security Act \[42 U.S.C. 1320c et seq.\] that are in effect on that date as may be necessary to effect these amendments on a timely basis."
 
 Pub. L. 99–272, title IX, §9403(c), Apr. 7, 1986, 100 Stat. 200, provided that: "The amendments made by this section \[amending this section and section 1395cc of this title\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\]."
 

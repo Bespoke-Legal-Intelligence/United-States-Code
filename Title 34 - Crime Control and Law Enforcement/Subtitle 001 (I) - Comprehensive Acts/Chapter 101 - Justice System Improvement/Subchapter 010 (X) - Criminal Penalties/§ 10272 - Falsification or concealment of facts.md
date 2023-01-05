@@ -12,5 +12,5 @@ Section was formerly classified to section 3795a of Title 42, The Public Health 
 
 #### Prior Provisions
 
-Provisions similar to this section were contained in former section 3792 of Title 42, The Public Health andWelfare, prior to the general amendment of this chapter by Pub. L. 96–157.
+Provisions similar to this section were contained in former section 3792 of Title 42, The Public Health and Welfare, prior to the general amendment of this chapter by Pub. L. 96–157.
 

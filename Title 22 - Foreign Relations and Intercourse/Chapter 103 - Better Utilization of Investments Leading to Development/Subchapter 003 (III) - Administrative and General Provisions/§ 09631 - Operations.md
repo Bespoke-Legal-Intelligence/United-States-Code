@@ -8,7 +8,7 @@ The Corporation may provide support under subchapter II of this chapter in conne
 
 #### (1) In general
 
-&emsp;Claims arising as a result of support provided under subchapter II of this chapter orunder predecessor authority may be settled, and disputes arising as a result thereof may be arbitrated with the consent of the parties, on such terms and conditions as the Corporation may determine.
+&emsp;Claims arising as a result of support provided under subchapter II of this chapter or under predecessor authority may be settled, and disputes arising as a result thereof may be arbitrated with the consent of the parties, on such terms and conditions as the Corporation may determine.
 
 #### (2) Settlements conclusive
 

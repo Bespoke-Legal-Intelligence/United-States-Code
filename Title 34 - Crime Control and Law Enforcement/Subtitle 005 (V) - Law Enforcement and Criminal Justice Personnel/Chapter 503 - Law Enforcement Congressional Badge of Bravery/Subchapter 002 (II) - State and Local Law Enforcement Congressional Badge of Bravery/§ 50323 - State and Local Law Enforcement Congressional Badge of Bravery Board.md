@@ -86,7 +86,7 @@ The State and Local Board shall do the following:
 
 #### (B) Witness expenses
 
-&emsp;&emsp;Witnesses requested to appear before the State and Local Board may be paid the same fees as are paid to witnesses under section 1821 of title 28. The per diem and mileage allowances for witnesses shall be paid from funds appropriated to the State and Local Board.
+&emsp;&emsp;Witnesses requested to appear before the State and Local Board may be paid the samefees as are paid to witnesses under section 1821 of title 28. The per diem and mileage allowances for witnesses shall be paid from funds appropriated to the State and Local Board.
 
 #### (2) Information from Federal agencies
 

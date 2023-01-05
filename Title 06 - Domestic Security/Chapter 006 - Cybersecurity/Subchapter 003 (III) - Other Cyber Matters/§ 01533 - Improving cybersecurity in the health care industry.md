@@ -78,7 +78,7 @@ In this section:
 
 &emsp;&emsp;(D) provide the Secretary with information to disseminate to health care industry stakeholders of all sizes for purposes of improving their preparedness for, and response to, cybersecurity threats affecting the health care industry;
 
-&emsp;&emsp;(E) establish a plan for implementing subchapter I of this chapter, so that the Federal Government and health care industry stakeholders may in real time, share actionable cyber threat indicators and defensive measures; and
+&emsp;&emsp;(E) establish a plan for implementing subchapter I of this chapter, so that the FederalGovernment and health care industry stakeholders may in real time, share actionable cyber threat indicators and defensive measures; and
 
 &emsp;&emsp;(F) report to the appropriate congressional committees on the findings and recommendations of the task force regarding carrying out subparagraphs (A) through (E).
 

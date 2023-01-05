@@ -70,7 +70,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) any option entered into on a national securities exchange relating to foreign currencies;
 
-&emsp;&emsp;&emsp;(iii) the guarantee (including by novation) by or to any securities clearing agency of a settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or option on any of the foregoing, including an option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group orindex, or option (whether or not such settlement is in connection with any agreement or transaction referred to in clauses (i) through (xi));
+&emsp;&emsp;&emsp;(iii) the guarantee (including by novation) by or to any securities clearing agency of a settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or option on any of the foregoing, including an option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such settlement is in connection with any agreement or transaction referred to in clauses (i) through (xi));
 
 &emsp;&emsp;&emsp;(iv) any margin loan;
 
@@ -126,7 +126,7 @@ Paragraph (7) \[enacted as (9)\] defines "SIPC" to mean the Securities Investor 
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in par. (4)(A)(iii), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in par. (4)(A)(iii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments
 
@@ -174,7 +174,7 @@ Par. (9). Pub. L. 97–222, §8(2), (6), redesignated former par. (6) as (9) and
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–390 not applicable to any cases commenced under this title or to appointments made under any Federal or State law, before Dec. 12, 2006, see section 7 of Pub. L. 109–390, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–390 not applicable to any cases commenced under this title or to appointmentsmade under any Federal or State law, before Dec. 12, 2006, see section 7 of Pub. L. 109–390, set out as a note under section 101 of this title.
 
 #### Effective Date of 2005 Amendment
 

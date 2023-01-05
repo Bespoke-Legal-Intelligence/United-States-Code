@@ -98,7 +98,7 @@ Termination.—The Council shall terminate on the date that is 10 years after th
 
 #### References in Text
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (h), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, referred to insubsec. (h), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
 
 #### Amendments
 

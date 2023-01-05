@@ -64,7 +64,7 @@ Not later than 18 months after June 30, 2014, the Task Force, in accordance with
 
 &emsp;&emsp;(I) after submitting the completed plan to Congress, provide biennial progress reports on the activities toward achieving the objectives of the plan.
 
-(Pub. L. 105–383, title VI, §605, Nov. 13, 1998, 112 Stat. 3449; Pub. L. 108–456, title I, §105, Dec. 10, 2004, 118 Stat. 3633; Pub. L. 110–161, div. B, title V, §528, Dec. 26, 2007, 121 Stat. 1930; Pub. L. 113–124, §8, June 30, 2014, 128 Stat. 1384.)
+(Pub. L. 105–383, title VI, §606, formerly §605, Nov. 13, 1998, 112 Stat. 3449; Pub. L. 108–456, title I, §105, Dec. 10, 2004, 118 Stat. 3633; Pub. L. 110–161, div. B, title V, §528, Dec. 26, 2007, 121 Stat. 1930; Pub. L. 113–124, §8, June 30, 2014, 128 Stat. 1384; renumbered §606, Pub. L. 117–144, §2(a)(1), June 16, 2022, 136 Stat. 1266.)
 
 #### <b>Editorial Notes</b>
 
@@ -72,9 +72,13 @@ Not later than 18 months after June 30, 2014, the Task Force, in accordance with
 
 Section was formerly set out in a note under section 1451 of Title 16, Conservation.
 
+#### Prior Provisions
+
+A prior section 606 of Pub. L. 105–383 was renumbered section 607 and is classified to section 4006 of this title.
+
 #### Amendments
 
-<b>2014</b>—Pub. L. 113–124 amended section generally. Prior to amendment, section authorized appropriations for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia for fiscal years 1999 to 2010.
+<b>2014</b>—Pub. L. 113–124 amended section generally. Prior to amendment, section authorized appropriations for research, education, and monitoring activities relatedto the prevention, reduction, and control of harmful algal blooms and hypoxia for fiscal years 1999 to 2010.
 
 <b>2007</b>—Pub. L. 110–161, §528(1), substituted "$30,000,000 for each of fiscal years 2008 through 2010" for "$25,500,000 for fiscal year 2008" in introductory provisions.
 

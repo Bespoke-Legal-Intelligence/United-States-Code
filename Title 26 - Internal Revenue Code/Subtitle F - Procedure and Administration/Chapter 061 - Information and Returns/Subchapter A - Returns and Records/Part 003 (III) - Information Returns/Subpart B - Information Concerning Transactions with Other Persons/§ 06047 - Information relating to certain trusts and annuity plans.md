@@ -16,7 +16,7 @@ Every individual on whose behalf contributions have been paid as an owner-employ
 
 #### (c) Other programs
 
-To the extent provided by regulations prescribed by the Secretary, the provisions of thissection apply with respect to any payment described in section 219 and to transactions of any trust described in section 408(a) or under an individual retirement annuity described in section 408(b).
+To the extent provided by regulations prescribed by the Secretary, the provisions of this section apply with respect to any payment described in section 219 and to transactions of any trust described in section 408(a) or under an individual retirement annuity described in section 408(b).
 
 #### (d) Reports by employers, plan administrators, etc.
 
@@ -46,7 +46,7 @@ The Secretary shall require—
 
 #### (f) Designated Roth contributions
 
-The Secretary shall require the plan administrator of each applicable retirement plan (as defined in section 402A) to make such returns and reports regarding designated Roth contributions (as defined in section 402A) to the Secretary, participants and beneficiaries of the plan, and such other persons as the Secretary may prescribe.
+The Secretary shall require the plan administrator of each applicable retirement plan (as defined in section 402A) to make such returns andreports regarding designated Roth contributions (as defined in section 402A) to the Secretary, participants and beneficiaries of the plan, and such other persons as the Secretary may prescribe.
 
 #### (g) Information relating to life insurance contract transactions
 
@@ -194,5 +194,5 @@ For provisions directing that if any amendments made by subtitle B \[§§521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

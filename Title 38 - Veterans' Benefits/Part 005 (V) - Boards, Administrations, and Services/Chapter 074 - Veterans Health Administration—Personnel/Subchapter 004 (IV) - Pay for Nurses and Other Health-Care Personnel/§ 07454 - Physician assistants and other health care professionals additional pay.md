@@ -6,7 +6,7 @@
 
 (2) Health care professionals employed in positions referred to in paragraph (1) shall be entitled to additional pay on the same basis as provided for nurses in section 7453(c) of this title.
 
-(3) Employees appointed under section 7408 of this title performing service on a tour of duty,any part of which is within the period commencing at midnight Friday and ending at midnight Sunday, shall receive additional pay in addition to the rate of basic pay provided such employees for each hour of service on such tour at a rate equal to 25 percent of such employee's hourly rate of basic pay.
+(3) Employees appointed under section 7408 of this title performing service on a tour of duty, any part of which is within the period commencing at midnight Friday and ending at midnight Sunday, shall receive additional pay in addition to the rate of basic pay provided such employees for each hour of service on such tour at a rate equal to 25 percent of such employee's hourly rate of basic pay.
 
 (c) The Secretary shall prescribe by regulation standards for compensation and payment under this section.
 

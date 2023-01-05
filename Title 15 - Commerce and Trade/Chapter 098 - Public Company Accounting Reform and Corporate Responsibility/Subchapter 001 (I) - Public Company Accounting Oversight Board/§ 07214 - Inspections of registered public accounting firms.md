@@ -106,15 +106,15 @@ A written report of the findings of the Board for each inspection under this sec
 
 &emsp;&emsp;&emsp;(i) is located in a foreign jurisdiction; and
 
-&emsp;&emsp;&emsp;(ii) the Board is unable to inspect or investigate completely because of a position taken by an authority in the foreign jurisdiction described in clause (i), as determined by the Board; and
+&emsp;&emsp;&emsp;(ii) the Board is unable to inspect or investigate completely because of a position taken by an authority in a foreign jurisdiction, as determined by the Board; and
 
 &emsp;&emsp;(B) require each covered issuer identified under subparagraph (A) to, in accordance with the rules issued by the Commission under paragraph (4), submit to the Commission documentation that establishes that the covered issuer is not owned or controlled by a governmental entity in the foreign jurisdiction described in subparagraph (A)(i).
 
-#### (3) Trading prohibition after 3 years of non-inspections
+#### (3) Trading prohibition after 2 years of non-inspections
 
 #### (A) In general
 
-&emsp;&emsp;If the Commission determines that a covered issuer has 3 consecutive non-inspection years, the Commission shall prohibit the securities of the covered issuer from being traded—
+&emsp;&emsp;If the Commission determines that a covered issuer has 2 consecutive non-inspection years, the Commission shall prohibit the securities of the covered issuer from being traded—
 
 &emsp;&emsp;&emsp;(i) on a national securities exchange; or
 
@@ -140,15 +140,21 @@ A written report of the findings of the Board for each inspection under this sec
 
 &emsp;Not later than 90 days after December 18, 2020, the Commission shall issue rules that establish the manner and form in which a covered issuer shall make a submission required under paragraph (2)(B).
 
-(Pub. L. 107–204, title I, §104, July 30, 2002, 116 Stat. 757; Pub. L. 111–203, title IX, §982(e)(1), July 21, 2010, 124 Stat. 1929; Pub. L. 116–222, §2, Dec. 18, 2020, 134 Stat. 1063.)
+(Pub. L. 107–204, title I, §104, July 30, 2002, 116 Stat. 757; Pub. L. 111–203, title IX, §982(e)(1), July 21, 2010, 124 Stat. 1929; Pub. L. 116–222, §2, Dec. 18, 2020, 134 Stat. 1063; Pub. L. 117–328, div. AA, title III, §301, Dec. 29, 2022, 136 Stat. 5536.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This Act, referred to in subsecs. (a)(1), (b), and (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a)(1), (b), and (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as theSarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (i)(2)(A)(ii). Pub. L. 117–328, §301(1), substituted "a foreign jurisdiction" for "the foreign jurisdiction described in clause (i)".
+
+Subsec. (i)(3). Pub. L. 117–328, §301(2)(A), substituted "2" for "3" in heading.
+
+Subsec. (i)(3)(A). Pub. L. 117–328, §301(2)(B), substituted "2" for "3".
 
 <b>2020</b>—Subsec. (i). Pub. L. 116–222 added subsec. (i).
 

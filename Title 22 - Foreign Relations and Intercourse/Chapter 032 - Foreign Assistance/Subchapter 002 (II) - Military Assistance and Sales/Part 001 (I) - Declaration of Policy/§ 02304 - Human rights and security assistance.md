@@ -120,7 +120,7 @@ The report required by subsection (b) shall include, wherever applicable—
 
 &emsp;(1) a description of the status of freedom of the press, including initiatives in favor of freedom of the press and efforts to improve or preserve, as appropriate, the independence of the media, together with an assessment of progress made as a result of those efforts;
 
-&emsp;(2) an identification of countries in which there were violations of freedom of the press, including direct physical attacks, imprisonment, indirect sources of pressure, and censorship by governments, military, intelligence, or police forces, criminal groups, or armed extremist or rebel groups; and
+&emsp;(2) an identification of countries in which there were violations of freedom of the press,including direct physical attacks, imprisonment, indirect sources of pressure, and censorship by governments, military, intelligence, or police forces, criminal groups, or armed extremist or rebel groups; and
 
 &emsp;(3) in countries where there are particularly severe violations of freedom of the press—
 
@@ -154,9 +154,9 @@ Section 2(a) of the Genocide Convention Implementation Act of 1987, referred to 
 
 Section 601 of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (c)(2)(A), (4)(B), is section 601 of Pub. L. 94–329, which was not classified to the Code.
 
-The Arms Export Control Act, referred to in subsecs. (d)(2)(B) and (f), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsecs. (d)(2)(B) and (f), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
@@ -184,7 +184,7 @@ Pub. L. 107–228, §665(b), in introductory provisions, inserted after fourth s
 
 <b>2000</b>—Subsec. (h). Pub. L. 106–386 added subsec. (h).
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–113, in introductory provisions, inserted after first sentence "Wherever applicable, such report shall include consolidated information regarding the commission of war crimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) ofthe Genocide Convention Implementation Act of 1987)." and inserted after fourth sentence "Each report under this section shall describe the extent to which each country has extended protection to refugees, including the provision of first asylum and resettlement."
+<b>1999</b>—Subsec. (b). Pub. L. 106–113, in introductory provisions, inserted after first sentence "Wherever applicable, such report shall include consolidated information regarding the commission of war crimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987)." and inserted after fourth sentence "Each report under this section shall describe the extent to which each country has extended protection to refugees, including the provision of first asylum and resettlement."
 
 <b>1998</b>—Subsec. (a)(4). Pub. L. 105–292, §421(b), added par. (4).
 

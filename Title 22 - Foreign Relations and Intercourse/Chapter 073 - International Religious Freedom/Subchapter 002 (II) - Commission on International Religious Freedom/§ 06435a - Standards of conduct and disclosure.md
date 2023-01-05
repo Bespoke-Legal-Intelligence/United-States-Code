@@ -68,7 +68,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (e) Annual financial report
 
-In addition to providing the reports required under section 6432 of this title, the Commissionshall provide, each year no later than January 1, to the Committees on Foreign Affairs and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
+In addition to providing the reports required under section 6432 of this title, the Commission shall provide, each year no later than January 1, to the Committees on Foreign Affairs and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
 
 #### (f) Commission records
 
@@ -86,7 +86,7 @@ When conducting any Commission business on electronic accounts, Commission Membe
 
 Section 6474 of this title, referred to in subsec. (c)(2), was in the original a reference to section 605 of Pub. L. 105–292, which was renumbered section 606 by Pub. L. 114–281, title V, §501(1), Dec. 16, 2016, 130 Stat. 1437.
 
-The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is Pub. L. 89–673, Oct. 15, 1966, 80 Stat. 952, as amended, which was classified principally to chapter 37 (§2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to section 2625 of this title, and with limited applicability, to section 2621 of this title, and was restated in section 7342 of Title 5, Government Organization and Employees, by Pub. L. 90–83, §10(b), Sept. 11, 1967, 91 Stat. 224. For complete classification of this Act to the Code, see Tables.
+The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is Pub. L. 89–673, Oct. 15, 1966, 80 Stat. 952, which was classified principally to chapter 37 (§2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to section 2625 of this title, and with limited applicability, to section 2621 of this title, and was restated in section 7342 of Title 5, Government Organization and Employees, by Pub. L. 90–83, §10(b), Sept. 11, 1967, 91 Stat. 224. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

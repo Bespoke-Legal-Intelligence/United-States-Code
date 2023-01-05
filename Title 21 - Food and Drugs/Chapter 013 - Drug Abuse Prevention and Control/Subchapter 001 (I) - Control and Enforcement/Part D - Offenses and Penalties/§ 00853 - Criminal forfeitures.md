@@ -26,7 +26,7 @@ All right, title, and interest in property described in subsection (a) vests in 
 
 #### (d) Rebuttable presumption
 
-There is a rebuttable presumption at trial that any property of a person convicted of a felonyunder this subchapter or subchapter II is subject to forfeiture under this section if the United States establishes by a preponderance of the evidence that—
+There is a rebuttable presumption at trial that any property of a person convicted of a felony under this subchapter or subchapter II is subject to forfeiture under this section if the United States establishes by a preponderance of the evidence that—
 
 &emsp;(1) such property was acquired by such person during the period of the violation of this subchapter or subchapter II or within a reasonable time after such period; and
 
@@ -72,13 +72,13 @@ Upon entry of an order of forfeiture under this section, the court shall authori
 
 #### (h) Disposition of property
 
-Following the seizure of property ordered forfeited under this section, the Attorney General shall direct the disposition of the property by sale or any other commercially feasible means, making due provision for the rights of any innocent persons. Any property right or interest not exercisable by, or transferable for value to, the United States shall expire and shall not revert to the defendant, nor shall the defendant or any person acting in concert with him or on his behalf be eligible to purchase forfeited property at any sale held by the United States. Upon application of a person, other than the defendant or a person acting in concert with him or on his behalf, the court may restrain or stay the sale ordisposition of the property pending the conclusion of any appeal of the criminal case giving rise to the forfeiture, if the applicant demonstrates that proceeding with the sale or disposition of the property will result in irreparable injury, harm, or loss to him.
+Following the seizure of property ordered forfeited under this section, the Attorney General shall direct the disposition of the property by sale or any other commercially feasible means, making due provision for the rights of any innocent persons. Any property right or interest not exercisable by, or transferable for value to, the United States shall expire and shall not revert to the defendant, nor shall the defendant or any person acting in concert with him or on his behalf be eligible to purchase forfeited property at any sale held by the United States. Upon application of a person, other than the defendant or a person acting in concert with him or on his behalf, the court may restrain or stay the sale or disposition of the property pending the conclusion of any appeal of the criminal case giving rise to the forfeiture, if the applicant demonstrates that proceeding with the sale or disposition of the property will result in irreparable injury, harm, or loss to him.
 
 #### (i) Authority of the Attorney General
 
 With respect to property ordered forfeited under this section, the Attorney General is authorized to—
 
-&emsp;(1) grant petitions for mitigation or remission of forfeiture, restore forfeited property to victims of a violation of this subchapter, or take any other action to protect the rights of innocent persons which is in the interest of justice and which is not inconsistent with the provisions of this section;
+&emsp;(1) grant petitions for mitigation or remission of forfeiture, restore forfeited property to victims of a violation of this subchapter, ortake any other action to protect the rights of innocent persons which is in the interest of justice and which is not inconsistent with the provisions of this section;
 
 &emsp;(2) compromise claims arising under this section;
 
@@ -124,7 +124,7 @@ In order to facilitate the identification and location of property declared forf
 
 &emsp;(A) the petitioner has a legal right, title, or interest in the property, and such right, title, or interest renders the order of forfeiture invalid in whole or in part because the right, title, or interest was vested in the petitioner rather than the defendant or was superior to any right, title, or interest of the defendant at the time of the commission of the acts which gave rise to the forfeiture of the property under this section; or
 
-&emsp;(B) the petitioner is a bona fide purchaser for value of the right, title, or interest in the property and was at the time of purchase reasonably without cause to believe that theproperty was subject to forfeiture under this section;
+&emsp;(B) the petitioner is a bona fide purchaser for value of the right, title, or interest in the property and was at the time of purchase reasonably without cause to believe that the property was subject to forfeiture under this section;
 
 > the court shall amend the order of forfeiture in accordance with its determination.
 

@@ -16,11 +16,11 @@ In a Y2K action other than a claim for breach or repudiation of contract, and in
 
 &emsp;&emsp;(C) the defendant's actual or constructive awareness of an actual or potential Y2K failure is an element of the claim under applicable law,
 
-> &emsp;the defendant shall not be liable unless the plaintiff, in addition to establishing all otherrequisite elements of the claim, proves, by the standard of evidence under applicable State law in effect on the day before January 1, 1999, that the defendant actually knew, or recklessly disregarded a known and substantial risk, that such failure would occur.
+> &emsp;the defendant shall not be liable unless the plaintiff, in addition to establishing all other requisite elements of the claim, proves, by the standard of evidence under applicable State law in effect on the day before January 1, 1999, that the defendant actually knew, or recklessly disregarded a known and substantial risk, that such failure would occur.
 
 #### (2) Substantial privity
 
-&emsp;For purposes of paragraph (1)(B), a plaintiff and a defendant are in substantial privity when, in a Y2K action arising out of the performance of professional services, the plaintiff and the defendant either have contractual relations with one another or the plaintiff is a person who, prior to the defendant's performance of such services, was specifically identified to and acknowledged by the defendant as a person for whose special benefit the services were being performed.
+&emsp;For purposes of paragraph (1)(B), a plaintiff and a defendant are in substantial privitywhen, in a Y2K action arising out of the performance of professional services, the plaintiff and the defendant either have contractual relations with one another or the plaintiff is a person who, prior to the defendant's performance of such services, was specifically identified to and acknowledged by the defendant as a person for whose special benefit the services were being performed.
 
 #### (3) Certain claims excluded
 

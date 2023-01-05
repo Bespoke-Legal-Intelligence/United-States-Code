@@ -10,7 +10,7 @@ In carrying out its duties under section 211(g)(4) of title 6, the National Targ
 
 &emsp;&emsp;(B) for issuing, as appropriate, Trade Alerts described in subsection (b);
 
-&emsp;(2) to the extent practicable and otherwise authorized by law, use, to administer the methodologies and standards established under paragraph (1)—
+&emsp;(2) to the extent practicable and otherwise authorized by law, use, to administer themethodologies and standards established under paragraph (1)—
 
 &emsp;&emsp;(A) publicly available information;
 

@@ -8,7 +8,7 @@
 
 (4) There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out subchapter XI of this chapter.
 
-(5) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1994 and 1995 to carry out the programs under subchapters IV and V (other than subpart 2 of part B) <sup>3</sup> (other than subpart 1 of part B of subchapter V) of this chapter.
+(5) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1994 and 1995 to carry out the programs under subchapters IV and V (other than subpart 2 ofpart B) <sup>3</sup> (other than subpart 1 of part B of subchapter V) of this chapter.
 
 (6) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $245,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year <sup>4</sup> 1994 and 1995 to carry out subpart 1 of part B of subchapter V of this chapter.
 
@@ -58,9 +58,9 @@
 
 &emsp;(E) $72,000,000 for fiscal year 2000.
 
-(18) There is authorized to be appropriated to carry out subchapter XIX $222,000,000 for each of fiscal years 2014 through 2018.
+(18) There is authorized to be appropriated to carry out subchapter XIX $222,000,000 for each of fiscal years 2023 through 2027.
 
-(19) There is authorized to be appropriated to carry out subchapter XX $73,000,000 for each of fiscal years 2014 through 2018. Funds appropriated under this paragraph shall remain available until expended.
+(19) There is authorized to be appropriated to carry out subchapter XX $73,000,000 for each of fiscal years 2023 through 2027. Funds appropriated under this paragraph shall remain available until expended.
 
 (20) There are authorized to be appropriated to carry out part V,<sup>1</sup> $10,000,000 for each of fiscal years 2001 through 2004.
 
@@ -120,13 +120,13 @@
 
 (27) There are authorized to be appropriated to carry out subchapter XXXVIII $103,000,000 for each of fiscal years 2017 and 2018, and $330,000,000 for each of fiscal years 2019 through 2023.
 
-(28) There are authorized to be appropriated to carry out section 10741(a)(4) <sup>1</sup> of subchapter XL $5,000,000 for each of fiscal years 2019, 2020, 2021, 2022, and 2023.
+(28) There are authorized to be appropriated to carry out section 10741(a)(4) <sup>1</sup> of subchapter XL$5,000,000 for each of fiscal years 2019, 2020, 2021, 2022, and 2023.
 
 (b) Funds appropriated for any fiscal year may remain available for obligation until expended.
 
 (c) Notwithstanding any other provision of law, no funds appropriated under this section for subchapter V of this chapter may be transferred or reprogrammed for carrying out any activity which is not authorized under such subchapter.
 
-(Pub. L. 90–351, title I, §1001, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1218; amended Pub. L. 98–473, title II, §609D(a), Oct. 12, 1984, 98 Stat. 2097; Pub. L. 99–570, title I, §1552(c), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 100–690, title VI, §6093, Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–647, title II, §241(c), title VIII, §801(b), title XVIII, §1801(e), title XXVIII, §2801, Nov. 29, 1990, 104 Stat. 4814, 4826, 4849, 4912; Pub. L. 102–521, §4(c), Oct. 25, 1992, 106 Stat. 3406; Pub. L. 102–534, §1, Oct. 27, 1992, 106 Stat. 3524; Pub. L. 103–322, title I, §10003(c), title II, §20201(d), title III, §32101(d), title IV, §§40121(c), 40156(c)(1), 40231(c), title V,§50001(c), title XVIII, §180101(a), title XXI, §§210201(c), 210302(c)(3), 210601, title XXXIII, §330001(b)(3), (h)(14), Sept. 13, 1994, 108 Stat. 1814, 1823, 1901, 1916, 1923, 1934, 1958, 2045, 2064, 2068, 2073, 2138, 2140; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(B)(i)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–181, §3(b), June 16, 1998, 112 Stat. 515; Pub. L. 106–386, div. B, title I, §§1103(a), 1104, title III, §1302(c), Oct. 28, 2000, 114 Stat. 1495, 1497, 1511; Pub. L. 106–515, §3(c), Nov. 13, 2000, 114 Stat. 2403; Pub. L. 106–517, §3(f), Nov. 13, 2000, 114 Stat. 2409; Pub. L. 106–561, §2(c)(2)(A), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–273, div. B, title II, §2302, Nov. 2, 2002, 116 Stat. 1798; Pub. L. 108–372, §4, Oct. 25, 2004, 118 Stat. 1755; Pub. L. 108–405, title III, §311(c), (d), Oct. 30, 2004, 118 Stat. 2277; Pub. L. 109–162, title I, §§101(a), 102(a), title XI, §§1116, 1142(b), 1163(c), Jan. 5, 2006, 119 Stat. 2972, 2975, 3104, 3110, 3120; Pub. L. 109–177, title VII, §752, Mar. 9, 2006, 120 Stat. 273; Pub. L. 110–199, title I, §112(b), Apr. 9, 2008, 122 Stat. 674; Pub. L. 110–421, §2, Oct. 15, 2008, 122 Stat. 4778; Pub. L. 113–4, title I, §§101(1), 102(b), Mar. 7, 2013, 127 Stat. 64, 73; Pub. L. 114–155, §2, May 16, 2016, 130 Stat. 389; Pub. L. 114–198, title II, §201(a)(2), July 22, 2016, 130 Stat. 714; Pub. L. 114–324, §9(b), Dec. 16, 2016, 130 Stat. 1955; Pub. L. 115–271, title VIII, §§8092, 8206, Oct. 24, 2018, 132 Stat. 4103, 4113; Pub. L. 115–391, title V, §502(c)(3), Dec. 21, 2018, 132 Stat. 5229; Pub. L. 116–18, §1(a), May 23, 2019, 133 Stat. 869; Pub. L. 116–32, §3, July 25, 2019, 133 Stat. 1037.)
+(Pub. L. 90–351, title I, §1001, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1218; amended Pub. L. 98–473, title II, §609D(a), Oct. 12, 1984, 98 Stat. 2097; Pub. L. 99–570, title I, §1552(c), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 100–690, title VI, §6093, Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–647, title II, §241(c), title VIII, §801(b), title XVIII, §1801(e), title XXVIII, §2801, Nov. 29, 1990, 104 Stat. 4814, 4826, 4849, 4912; Pub. L. 102–521, §4(c), Oct. 25, 1992, 106 Stat. 3406; Pub. L. 102–534, §1, Oct. 27, 1992, 106 Stat. 3524; Pub. L. 103–322, title I, §10003(c), title II, §20201(d), title III, §32101(d), title IV, §§40121(c), 40156(c)(1), 40231(c), title V, §50001(c), title XVIII, §180101(a), title XXI, §§210201(c), 210302(c)(3), 210601, title XXXIII, §330001(b)(3), (h)(14), Sept. 13, 1994, 108 Stat. 1814, 1823, 1901, 1916, 1923, 1934, 1958, 2045, 2064, 2068, 2073, 2138, 2140; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(B)(i)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–181, §3(b), June 16, 1998, 112 Stat. 515; Pub. L. 106–386, div. B, title I, §§1103(a), 1104, title III, §1302(c), Oct. 28, 2000, 114 Stat. 1495, 1497, 1511; Pub. L. 106–515, §3(c), Nov. 13, 2000, 114 Stat. 2403; Pub. L. 106–517, §3(f), Nov. 13, 2000, 114 Stat. 2409; Pub. L. 106–561, §2(c)(2)(A), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–273, div. B, title II, §2302, Nov. 2, 2002, 116 Stat. 1798; Pub. L. 108–372, §4, Oct. 25, 2004, 118 Stat. 1755; Pub. L. 108–405, title III, §311(c), (d), Oct. 30, 2004, 118 Stat. 2277; Pub. L. 109–162, title I, §§101(a), 102(a), title XI, §§1116, 1142(b), 1163(c), Jan. 5, 2006, 119 Stat. 2972, 2975, 3104, 3110, 3120; Pub. L. 109–177, title VII, §752, Mar. 9, 2006, 120 Stat. 273; Pub. L. 110–199, title I, §112(b), Apr. 9, 2008, 122 Stat. 674; Pub. L. 110–421, §2, Oct. 15, 2008, 122 Stat. 4778; Pub. L. 113–4, title I, §§101(1), 102(b), Mar. 7, 2013, 127 Stat. 64, 73; Pub. L. 114–155, §2, May 16, 2016, 130 Stat. 389; Pub. L. 114–198, title II, §201(a)(2), July 22, 2016, 130 Stat. 714; Pub. L. 114–324, §9(b), Dec. 16, 2016, 130 Stat. 1955; Pub. L. 115–271, title VIII, §§8092, 8206, Oct. 24, 2018, 132 Stat. 4103, 4113; Pub. L. 115–391, title V, §502(c)(3), Dec. 21, 2018, 132 Stat. 5229; Pub. L. 116–18, §1(a), May 23, 2019, 133 Stat. 869; Pub. L. 116–32, §3, July 25, 2019, 133 Stat. 1037; Pub. L. 117–103, div. W, title I, §§101(b), 102(c), Mar. 15, 2022, 136 Stat. 848, 850.)
 
 #### <b>Editorial Notes</b>
 
@@ -147,6 +147,10 @@ Section was formerly classified to section 3793 of Title 42, The Public Health a
 Another section 1001 of Pub. L. 90–351 enacted section 7313 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(18). Pub. L. 117–103, §101(b), substituted "2023 through 2027" for "2014 through 2018".
+
+Subsec. (a)(19). Pub. L. 117–103, §102(c), substituted "2023 through 2027" for "2014 through 2018".
 
 <b>2019</b>—Subsec. (a)(21). Pub. L. 116–32 amended par. (21) generally. Prior to amendment, par. (21) authorized appropriations for fiscal years 1996 to 2000 to carry out subchapter XXII.
 
@@ -196,7 +200,7 @@ Subsec. (a)(23). Pub. L. 109–162, §1116, substituted "2009" for "2007".
 
 Subsec. (a)(25)(A)(v). Pub. L. 109–177, which directed amendment of par. (25)(A) of this section by adding cl. (v), relating to fiscal year 2006, at end, was executed by adding that cl. (v) at end of subsec. (a)(25)(A) of this section, to reflect the probable intent of Congress.
 
-Pub. L. 109–162, §1142(b), which directed amendment of par. (25)(A) of this section by adding cl. (v), relating to fiscal years 2007 and 2008, at end, was executed byadding cl. (v) at end of subsec. (a)(25)(A) of this section, to reflect the probable intent of Congress.
+Pub. L. 109–162, §1142(b), which directed amendment of par. (25)(A) of this section by adding cl. (v), relating to fiscal years 2007 and 2008, at end, was executed by adding cl. (v) at end of subsec. (a)(25)(A) of this section, to reflect the probable intent of Congress.
 
 <b>2004</b>—Subsec. (a)(23). Pub. L. 108–372 substituted "2007" for "2004".
 
@@ -316,7 +320,7 @@ Subsec. (a)(20). Pub. L. 103–322, §50001(c)(2), added par. (20).
 
 Subsec. (a)(21). Pub. L. 103–322, §210201(c)(2), added par. (21).
 
-Subsec. (a)(22). Pub. L. 103–322, §210302(c)(3)(B), which directed amendment of this section by adding at the end a new par. (22), was executed by adding par. (22) at the end of subsec. (a) to reflect the probable intent of Congress.
+Subsec. (a)(22). Pub. L. 103–322, §210302(c)(3)(B), which directed amendment of this section by adding at theend a new par. (22), was executed by adding par. (22) at the end of subsec. (a) to reflect the probable intent of Congress.
 
 Subsec. (c). Pub. L. 103–322, §330001(h)(14), substituted "such subchapter" for "such subchapters".
 
@@ -371,6 +375,10 @@ Subsec. (b). Pub. L. 99–570, §1552(c)(2), inserted reference to subchapter XI
 <b>1984</b>—Pub. L. 98–473, in amending section generally, designated existing provisions as subsec. (a), substituted appropriations authorization of necessary sums for fiscal years 1984 through 1988 for authorizations for fiscal years ending Sept. 30, 1980, through 1983, struck out provisions authorizing appropriations for subchapter VIII and for carrying out remaining functions of the Law Enforcement Assistance Administration, and added subsec. (b).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2013 Amendment
 

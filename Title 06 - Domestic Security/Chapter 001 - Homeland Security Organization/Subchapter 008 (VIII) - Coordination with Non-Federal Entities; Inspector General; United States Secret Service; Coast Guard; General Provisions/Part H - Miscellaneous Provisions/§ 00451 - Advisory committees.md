@@ -2,17 +2,85 @@
 
 #### (a) In general
 
-The Secretary may establish, appoint members of, and use the services of, advisory committees, as the Secretary may deem necessary. An advisory committee established under this section may be exempted by the Secretary from Public Law 92–463, but the Secretary shall publish notice in the Federal Register announcing the establishment of such a committee and identifying its purpose and membership. Notwithstanding the preceding sentence, members of an advisory committee that is exempted by the Secretary under the preceding sentence who are special Government employees (as that term is defined in section 202 of title 18) shall be eligible for certifications under subsection (b)(3) of section 208 of title 18 for official actions taken as a member of such advisory committee.
+The Secretary may establish, appoint members of, and use the services of, advisory committees, as the Secretary may deem necessary. An advisory committee established under this section may be exempted by the Secretary from chapter 10 of title 5, but the Secretary shall publish notice in the Federal Register announcing the establishment of such a committee and identifying its purpose and membership. Notwithstanding the preceding sentence, members of an advisory committee that is exempted by the Secretary under the preceding sentence who are special Government employees (as that term is defined in section 202 of title 18) shall be eligible for certifications under subsection (b)(3) of section 208 of title 18 for official actions taken as a member of such advisory committee.
 
 #### (b) Termination
 
-Any advisory committee established by the Secretary shall terminate 2 years after the date of its establishment, unless the Secretary makesa written determination to extend the advisory committee to a specified date, which shall not be more than 2 years after the date on which such determination is made. The Secretary may make any number of subsequent extensions consistent with this subsection.
+Any advisory committee established by the Secretary shall terminate 2 years after the dateof its establishment, unless the Secretary makes a written determination to extend the advisory committee to a specified date, which shall not be more than 2 years after the date on which such determination is made. The Secretary may make any number of subsequent extensions consistent with this subsection.
 
-(Pub. L. 107–296, title VIII, §871, Nov. 25, 2002, 116 Stat. 2243.)
+(Pub. L. 107–296, title VIII, §871, Nov. 25, 2002, 116 Stat. 2243; Pub. L. 117–286, §4(a)(16), Dec. 27, 2022, 136 Stat. 4307.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Public Law 92–463, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, known as the Federal Advisory Committee Act, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (a). Pub. L. 117–286 substituted "chapter 10 of title 5," for "Public Law 92–463,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Establishment of the Department of Homeland Security Economic Security Council
+
+Pub. L. 117–263, div. G, title LXXI, §7116(a), Dec. 23, 2022, 136 Stat. 3636, provided that:
+
+"(1)
+
+Definitions.—In this subsection:
+
+&emsp;"(A)
+
+Council.—The term 'Council' means the council established under paragraph (2).
+
+&emsp;"(B)
+
+Department.—The term 'Department' means the Department of Homeland Security.
+
+&emsp;"(C)
+
+Economic security.—The term 'economic security' has the meaning given such term in section 890B(c)(2) of the Homeland Security Act of 2002 (6 U.S.C. 474(c)(2)).
+
+&emsp;"(D)
+
+Secretary.—The term 'Secretary' means the Secretary of Homeland Security.
+
+"(2)
+
+Establishment.—In accordance with the mission of the Department under section 101(b) of the Homeland Security Act of 2002 (6 U.S.C. 111(b)), and in particular paragraph (1)(F) of such section, the Secretary shall establish a standing council of Department component heads or their designees, to carry out the duties described in paragraph (3).
+
+"(3)
+
+Duties of the council.—Pursuant to the scope of the mission of the Department as described in paragraph (2), the Council shall provide to the Secretary advice and recommendations on matters of economic security, including relating to the following:
+
+&emsp;"(A) Identifying concentrated risks for trade and economic security.
+
+&emsp;"(B) Setting priorities for securing the trade and economic security of the United States.
+
+&emsp;"(C) Coordinating Department-wide activity on trade and economic security matters.
+
+&emsp;"(D) With respect to the development of the continuity of the economy plan of the President under section 9603 of the William M. (Mac) Thornberry National Defense Authorization Act of \[for\] Fiscal Year 2021 (6 U.S.C. 322).
+
+&emsp;"(E) Proposing statutory and regulatory changes impacting trade and economic security.
+
+&emsp;"(F) Any other matters the Secretary considers appropriate.
+
+"(4)
+
+Chair and vice chair.—The Under Secretary for Strategy, Policy, and Plans of the Department—
+
+&emsp;"(A) shall serve as Chair of the Council; and
+
+&emsp;"(B) may designate a Council member as a Vice Chair.
+
+"(5)
+
+Meetings.—The Council shall meet not less frequently than quarterly, as well as—
+
+&emsp;"(A) at the call of the Chair; or
+
+&emsp;"(B) at the direction of the Secretary.
+
+"(6)
+
+Briefings.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\] and every 180 days thereafter for four years, the Council shall brief the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Homeland Security of the House of Representatives, the Committee on Finance of the Senate, the Committee on Ways and Means of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and Committee on Energy and Commerce of the House of Representatives on the actions and activities of the Council."
+
+\[Nothing in section 7116(a) of Pub. L. 117–263, set out above, to be construed to affect or diminish the authority otherwise granted to any other officer of the Department of Homeland Security, see section 7116(c) of Pub. L. 117–263, set out as a note under section 349 of this title.\]
 

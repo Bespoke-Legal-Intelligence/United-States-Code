@@ -8,7 +8,7 @@ The Board shall submit annual reports to the Congress and such other reports to 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 #### Codification
 
@@ -22,5 +22,5 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 #### Termination of Advisory Commissions and Committees
 
-Advisory commissions or committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission or committee established by the President or an officer of the Federal Government, such commission or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission or committee established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions or committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission or committee established by the President or an officer of the Federal Government, such commission or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission or committee established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

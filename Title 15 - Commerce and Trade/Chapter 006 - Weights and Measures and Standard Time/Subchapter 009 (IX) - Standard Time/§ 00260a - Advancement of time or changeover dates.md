@@ -58,7 +58,7 @@ Pub. L. 99–359, §2(a), July 8, 1986, 100 Stat. 764, provided that: "The Congr
 
 &emsp;"(3) that daylight saving time over an expanded period could serve as an incentive for further energy conservation by individuals, companies, and the various governmental entities at all levels of government, and that such energy conservation efforts could lead to greatly expanded energy savings; and
 
-&emsp;"(4) that the use of daylight saving time over an expanded period could have other beneficial effects onthe public interest, including the reduction of crime, improved traffic safety, more daylight outdoor playtime for the children and youth of our Nation, greater utilization of parks and recreation areas, expanded economic opportunity through extension of daylight hours to peak shopping hours and through extension of domestic office hours to periods of greater overlap with the European Economic Community."
+&emsp;"(4) that the use of daylight saving time over an expanded period could have other beneficial effects on the public interest, including the reduction of crime, improved traffic safety, more daylight outdoor playtime for the children and youth of our Nation, greater utilization of parks and recreation areas, expanded economic opportunity through extension of daylight hours to peak shopping hours and through extension of domestic office hours to periods of greater overlap with the European Economic Community."
 
 #### Effectiveness of State Exemption in Effect on July 8, 1986
 

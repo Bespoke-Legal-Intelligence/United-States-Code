@@ -1,6 +1,6 @@
 ### §2112. Reemployment
 
-A participant retired under this subchapter shall not, by reason of that retired status, be barred from employment in Federal Government service in any appointive position for which the participant is qualified.
+A participant retired under this subchapter shall not, by reason of that retired status, be barred from employment in Federal Governmentservice in any appointive position for which the participant is qualified.
 
 (Pub. L. 88–643, title II, §272, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3238.)
 

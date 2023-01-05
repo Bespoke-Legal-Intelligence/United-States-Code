@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each State receiving assistance under this subchapter shall include information in the report required under paragraph (1) that demonstrates the compliance of the State with the provisions of this chapter, including section 12637 of this title.
+&emsp;&emsp;Each State receiving assistance under this subchapter shall include information in thereport required under paragraph (1) that demonstrates the compliance of the State with the provisions of this chapter, including section 12637 of this title.
 
 #### (B) Local grantees
 

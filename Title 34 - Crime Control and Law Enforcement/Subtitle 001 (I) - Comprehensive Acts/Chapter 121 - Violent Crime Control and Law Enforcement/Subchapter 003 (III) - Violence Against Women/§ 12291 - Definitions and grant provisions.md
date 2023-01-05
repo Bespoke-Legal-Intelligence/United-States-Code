@@ -2,23 +2,35 @@
 
 #### (a) Definitions
 
-In this subchapter:
+In this subchapter, for the purpose of grants authorized under this subchapter:
 
-#### (1) Alaska Native village
+#### (1) Abuse in later life
+
+&emsp;The term "abuse in later life"—
+
+&emsp;&emsp;(A) means—
+
+&emsp;&emsp;&emsp;(i) neglect, abandonment, economic abuse, or willful harm of an adult aged 50 or older by an individual in an ongoing relationship of trust with the victim; or
+
+&emsp;&emsp;&emsp;(ii) domestic violence, dating violence, sexual assault, or stalking of an adult aged 50 or older by any individual; and
+
+&emsp;&emsp;(B) does not include self-neglect.
+
+#### (2) Alaska Native village
 
 &emsp;The term "Alaska Native village" has the same meaning given such term in the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
-
-#### (2) Courts
-
-&emsp;The term "courts" means any civil or criminal, tribal, and Alaska Native Village, Federal, State, local or territorial court havingjurisdiction to address domestic violence, dating violence, sexual assault or stalking, including immigration, family, juvenile, and dependency courts, and the judicial officers serving in those courts, including judges, magistrate judges, commissioners, justices of the peace, or any other person with decisionmaking authority.
 
 #### (3) Child abuse and neglect
 
 &emsp;The term "child abuse and neglect" means any recent act or failure to act on the part of a parent or caregiver with intent to cause death, serious physical or emotional harm, sexual abuse, or exploitation, or an act or failure to act which presents an imminent risk of serious harm to an unemancipated minor. This definition shall not be construed to mean that failure to leave an abusive relationship, in the absence of other action constituting abuse or neglect, is itself abuse or neglect.
 
-#### (4) Community-based organization
+#### (4) Child maltreatment
 
-&emsp;The term "community-based organization" means a nonprofit, nongovernmental, or tribal organization that serves a specific geographic community that—
+&emsp;The term "child maltreatment" means the physical or psychological abuse or neglect of a child or youth, including sexual assault and abuse.
+
+#### (5) Community-based organization
+
+&emsp;The term "community-based organization" means a nonprofit, nongovernmental, or tribalorganization that serves a specific geographic community that—
 
 &emsp;&emsp;(A) focuses primarily on domestic violence, dating violence, sexual assault, or stalking;
 
@@ -28,23 +40,31 @@ In this subchapter:
 
 &emsp;&emsp;(D) obtains expertise, or shows demonstrated capacity to work effectively, on domestic violence, dating violence, sexual assault, and stalking through collaboration.
 
-#### (5) Child maltreatment
+#### (6) Court-based personnel; court-related personnel
 
-&emsp;The term "child maltreatment" means the physical or psychological abuse or neglect of a child or youth, including sexual assault and abuse.
+&emsp;The terms "court-based personnel" and "court-related personnel" mean individuals working in the court, whether paid or volunteer, including—
 
-#### (6) Culturally specific
+&emsp;&emsp;(A) clerks, special masters, domestic relations officers, administrators, mediators, custody evaluators, guardians ad litem, lawyers, negotiators, probation, parole, interpreters, victim assistants, victim advocates, and judicial, administrative, or any other professionals or personnel similarly involved in the legal process;
+
+&emsp;&emsp;(B) court security personnel;
+
+&emsp;&emsp;(C) personnel working in related supplementary offices or programs (such as child support enforcement); and
+
+&emsp;&emsp;(D) any other court-based or community-based personnel having responsibilities or authority to address domestic violence, dating violence, sexual assault, or stalking in the court system.
+
+#### (7) Courts
+
+&emsp;The term "courts" means any civil or criminal, tribal, and Alaska Native Village, Federal, State, local or territorial court having jurisdiction to address domestic violence, dating violence, sexual assault or stalking, including immigration, family, juvenile, and dependency courts, and the judicial officers serving in those courts, including judges, magistrate judges, commissioners, justices of the peace, or any other person with decisionmaking authority.
+
+#### (8) Culturally specific
 
 &emsp;The term "culturally specific" means primarily directed toward racial and ethnic minority groups (as defined in section 1707(g) of the Public Health Service Act (42 U.S.C. 300u–6(g)).<sup>1</sup>
 
-#### (7) Culturally specific services
+#### (9) Culturally specific services
 
 &emsp;The term "culturally specific services" means community-based services that include culturally relevant and linguistically specific services and resources to culturally specific communities.
 
-#### (8) Domestic violence
-
-&emsp;The term "domestic violence" includes felony or misdemeanor crimes of violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, by a person similarly situated to a spouse of the victim under the domestic or family violence laws of the jurisdiction receiving grant monies, or by any other person against an adult or youth victim who is protected from that person's acts under the domestic or family violence laws of the jurisdiction.
-
-#### (9) Dating partner
+#### (10) Dating partner
 
 &emsp;The term "dating partner" refers to a person who is or has been in a social relationship of a romantic or intimate nature with the abuser, and where the existence of such a relationship shall be determined based on a consideration of—
 
@@ -54,7 +74,7 @@ In this subchapter:
 
 &emsp;&emsp;(C) the frequency of interaction between the persons involved in the relationship.
 
-#### (10) Dating violence
+#### (11) Dating violence
 
 &emsp;The term "dating violence" means violence committed by a person—
 
@@ -68,7 +88,29 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iii) The frequency of interaction between the persons involved in the relationship.
 
-#### (11) Elder abuse
+#### (12) Domestic violence
+
+&emsp;The term "domestic violence" includes felony or misdemeanor crimes committed by a current or former spouse or intimate partner of the victim under the family or domestic violence laws of the jurisdiction receiving grant funding and, in the case of victim services, includes the use or attempted use of physical abuse or sexual abuse, or a pattern of any other coercive behavior committed, enabled, or solicited to gain or maintain power and control over a victim, including verbal, psychological, economic, or technological abuse that may or may not constitute criminal behavior, by a person who—
+
+&emsp;&emsp;(A) is a current or former spouse or intimate partner of the victim, or person similarly situated to a spouse of the victim;
+
+&emsp;&emsp;(B) is cohabitating, or has cohabitated, with the victim as a spouse or intimate partner;
+
+&emsp;&emsp;(C) shares a child in common with the victim; or
+
+&emsp;&emsp;(D) commits acts against a youth or adult victim who is protected from those acts under the family or domestic violence laws of the jurisdiction.
+
+#### (13) Economic abuse
+
+&emsp;The term "economic abuse", in the context of domestic violence, dating violence, and abuse in later life, means behavior that is coercive, deceptive, or unreasonably controls or restrains a person's ability to acquire, use, or maintain economic resources to which they are entitled, including using coercion, fraud, or manipulation to—
+
+&emsp;&emsp;(A) restrict a person's access to money, assets, credit, or financial information;
+
+&emsp;&emsp;(B) unfairly use a person's personal economic resources, including money, assets, and credit, for one's own advantage; or
+
+&emsp;&emsp;(C) exert undue influence over a person's financial and economic behavior or decisions, including forcing default on joint orother financial obligations, exploiting powers of attorney, guardianship, or conservatorship, or failing or neglecting to act in the best interests of a person to whom one has a fiduciary duty.
+
+#### (14) Elder abuse
 
 &emsp;The term "elder abuse" means any action against a person who is 50 years of age or older that constitutes the willful—
 
@@ -76,45 +118,77 @@ In this subchapter:
 
 &emsp;&emsp;(B) deprivation by a person, including a caregiver, of goods or services with intent to cause physical harm, mental anguish, or mental illness.
 
-#### (12) Homeless
+#### (15) Female genital mutilation or cutting
 
-&emsp;The term "homeless" has the meaning provided in section 12473(6) of this title.
+&emsp;The term "female genital mutilation or cutting" has the meaning given such term in section 116 of title 18.
 
-#### (13) Indian
+#### (16) Forced marriage
+
+&emsp;The term "forced marriage" means a marriage to which 1 or both parties do not or cannot consent, and in which 1 or more elements of force, fraud, or coercion is present. Forced marriage can be both a cause and a consequence of domestic violence, dating violence, sexual assault or stalking.
+
+#### (17) Homeless
+
+&emsp;The term "homeless" has the meaning given such term in section 12473 of this title.
+
+#### (18) Indian
 
 &emsp;The term "Indian" means a member of an Indian tribe.
 
-#### (14) Indian country
+#### (19) Indian country
 
 &emsp;The term "Indian country" has the same meaning given such term in section 1151 of title 18.
 
-#### (15) Indian housing
+#### (20) Indian housing
 
 &emsp;The term "Indian housing" means housing assistance described in the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4101 et seq., as amended).
 
-#### (16) Indian tribe
-
-&emsp;The term "Indian tribe" means a tribe, band, pueblo, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
-
-#### (17) Indian law enforcement
+#### (21) Indian law enforcement
 
 &emsp;The term "Indian law enforcement" means the departments or individuals under the direction of the Indian tribe that maintain public order.
 
-#### (18) Law enforcement
+#### (22) Indian tribe; Indian Tribe
+
+&emsp;The terms "Indian tribe" and "Indian Tribe" mean a tribe, band, pueblo, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+
+#### (23) Law enforcement
 
 &emsp;The term "law enforcement" means a public agency charged with policing functions, including any of its component bureaus (such as governmental victim services programs or Village Public Safety Officers), including those referred to in section 2802 of title 25.
 
-#### (19) Legal assistance
+#### (24) Legal assistance
 
-&emsp;The term "legal assistance" includes assistance to adult and youth victims of domestic violence, dating violence, sexual assault, and stalking in—
+#### (A) Definition
 
-&emsp;&emsp;(A) family, tribal, territorial, immigration, employment, administrative agency, housing matters, campus administrative or protection or stay away order proceedings, and other similar matters; and
+&emsp;&emsp;The term "legal assistance" means assistance provided by or under the direct supervision of a person described in subparagraph (B) to an adult, youth, or child victim of domestic violence, dating violence, sexual assault, or stalking relating to a matter described in subparagraph (C).
 
-&emsp;&emsp;(B) criminal justice investigations, prosecutions and post-trial matters (including sentencing, parole, and probation) that impact the victim's safety and privacy.
+#### (B) Person described
 
-> &emsp;Intake or referral, by itself, does not constitute legal assistance.
+&emsp;&emsp;A person described in this subparagraph is—
 
-#### (20) Personally identifying information or personal information
+&emsp;&emsp;&emsp;(i) a licensed attorney;
+
+&emsp;&emsp;&emsp;(ii) in immigration proceedings, a Board of Immigration Appeals accredited representative;
+
+&emsp;&emsp;&emsp;(iii) in claims of the Department of Veterans Affairs, a representative authorized by the Secretary of Veterans Affairs; or
+
+&emsp;&emsp;&emsp;(iv) any person who functions as an attorney or lay advocate in tribal court.
+
+#### (C) Matter described
+
+&emsp;&emsp;A matter described in this subparagraph is a matter relating to—
+
+&emsp;&emsp;&emsp;(i) divorce, parental rights, child support, Tribal, territorial, immigration, employment, administrative agency, housing, campus, education, healthcare, privacy, contract, consumer, civil rights, protection or other injunctive proceedings, related enforcement proceedings, and other similar matters;
+
+&emsp;&emsp;&emsp;(ii) criminal justice investigations, prosecutions, and post-conviction matters (including sentencing, parole, and probation) that impact the victim's safety, privacy, or other interests as a victim;
+
+&emsp;&emsp;&emsp;(iii) alternative dispute resolution, restorative practices, or other processes intended to promote victim safety, privacy, and autonomy, and offender accountability, regardless of court involvement; or
+
+&emsp;&emsp;&emsp;(iv) with respect to a conviction of a victim relating to or arising from domestic violence, dating violence, sexual assault, stalking, or sex trafficking victimization of the victim, post-conviction relief proceedings in State, local, Tribal, or territorial court.
+
+#### (D) Intake or referral
+
+&emsp;&emsp;For purposes of this paragraph, intake or referral, by itself, does not constitute legal assistance.
+
+#### (25) Personally identifying information or personal information
 
 &emsp;The term "personally identifying information" or "personal information" means individually identifying information for or about an individual including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, regardless of whether the information is encoded, encrypted, hashed, or otherwise protected, including—
 
@@ -128,19 +202,19 @@ In this subchapter:
 
 &emsp;&emsp;(E) any other information, including date of birth, racial or ethnic background, or religious affiliation, that would serve to identify any individual.
 
-#### (21) Population specific organization
+#### (26) Population specific organization
 
 &emsp;The term "population specific organization" means a nonprofit, nongovernmental organization that primarily serves members of a specific underserved population and has demonstrated experience and expertise providing targeted services to members of that specific underserved population.
 
-#### (22) Population specific services
+#### (27) Population specific services
 
 &emsp;The term "population specific services" means victim-centered services that address the safety, health, economic, legal, housing, workplace, immigration, confidentiality, or other needs of victims of domestic violence, dating violence, sexual assault, or stalking, and that are designed primarily for and are targeted to a specific underserved population.
 
-#### (23) Prosecution
+#### (28) Prosecution
 
 &emsp;The term "prosecution" means any public agency charged with direct responsibility for prosecuting criminal offenders, including such agency's component bureaus (such as governmental victim assistance programs).
 
-#### (24) Protection order or restraining order
+#### (29) Protection order or restraining order
 
 &emsp;The term "protection order" or "restraining order" includes—
 
@@ -148,11 +222,41 @@ In this subchapter:
 
 &emsp;&emsp;(B) any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
 
-#### (25) Rape crisis center
+#### (30) Rape crisis center
 
 &emsp;The term "rape crisis center" means a nonprofit, nongovernmental, or tribal organization, or governmental entity in a State other than a Territory that provides intervention and related assistance, as specified in section 12511(b)(2)(C) of this title, to victims of sexual assault without regard to their age. In the case of a governmental entity, the entity may not be part of the criminal justice system (such as a law enforcement agency) and must be able to offer a comparable level of confidentiality as a nonprofit entity that provides similar victim services.
 
-#### (26) Rural area and rural community
+#### (31) Restorative practice
+
+&emsp;The term "restorative practice" means a practice relating to a specific harm that—
+
+&emsp;&emsp;(A) is community-based and unaffiliated with any civil or criminal legal process;
+
+&emsp;&emsp;(B) is initiated by a victim of the harm;
+
+&emsp;&emsp;(C) involves, on a voluntary basis and without any evidence of coercion or intimidation of any victim of the harm by any individual who committed the harm or anyone associated with any such individual—
+
+&emsp;&emsp;&emsp;(i) 1 or more individuals who committed the harm;
+
+&emsp;&emsp;&emsp;(ii) 1 or more victims of the harm; and
+
+&emsp;&emsp;&emsp;(iii) the community affected by the harm through 1 or more representatives of the community;
+
+&emsp;&emsp;(D) shall include and has the goal of—
+
+&emsp;&emsp;&emsp;(i) collectively seeking accountability from 1 or more individuals who committed the harm;
+
+&emsp;&emsp;&emsp;(ii) developing a written process whereby 1 or more individuals who committed the harm will take responsibility for the actions that caused harm to 1 or more victims of the harm; and
+
+&emsp;&emsp;&emsp;(iii) developing a written course of action plan—
+
+&emsp;&emsp;&emsp;&emsp;(I) that is responsive to the needs of 1 or more victims of the harm; and
+
+&emsp;&emsp;&emsp;&emsp;(II) upon which 1 or more victims, 1 or more individuals who committed the harm, and the community can agree; and
+
+&emsp;&emsp;(E) is conducted in a victim services framework that protects the safety and supports the autonomy of 1 or more victims of the harm and the community.
+
+#### (32) Rural area and rural community
 
 &emsp;The term "rural area" and "rural community" mean—
 
@@ -166,19 +270,19 @@ In this subchapter:
 
 &emsp;&emsp;(C) any federally recognized Indian tribe.
 
-#### (27) Rural State
+#### (33) Rural State
 
-&emsp;The term "rural State" means a State that has a population density of 57 or fewer personsper square mile or a State in which the largest county has fewer than 250,000 people, based on the most recent decennial census.
+&emsp;The term "rural State" means a State that has a population density of 57 or fewer persons per square mile or a State in which the largest county has fewer than 250,000 people, based on the most recent decennial census.
 
-#### (28) Sex trafficking
+#### (34) Sex trafficking
 
-&emsp;The term "sex trafficking" means any conduct proscribed by section 1591 of title 18, whether or not the conduct occurs in interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States.
+&emsp;The term "sex trafficking" means any conduct proscribed by section 1591 of title 18,whether or not the conduct occurs in interstate or foreign commerce or within the special maritime and territorial jurisdiction of the United States.
 
-#### (29) Sexual assault
+#### (35) Sexual assault
 
 &emsp;The term "sexual assault" means any nonconsensual sexual act proscribed by Federal, tribal, or State law, including when the victim lacks capacity to consent.
 
-#### (30) Stalking
+#### (36) Stalking
 
 &emsp;The term "stalking" means engaging in a course of conduct directed at a specific person that would cause a reasonable person to—
 
@@ -186,19 +290,23 @@ In this subchapter:
 
 &emsp;&emsp;(B) suffer substantial emotional distress.
 
-#### (31) State
+#### (37) State
 
 &emsp;The term "State" means each of the several States and the District of Columbia, and except as otherwise provided, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
 
-#### (32) State domestic violence coalition
+#### (38) State domestic violence coalition
 
 &emsp;The term "State domestic violence coalition" means a program determined by the Administration for Children and Families under sections 10402 and 10411 of title 42.
 
-#### (33) State sexual assault coalition
+#### (39) State sexual assault coalition
 
 &emsp;The term "State sexual assault coalition" means a program determined by the Center for Injury Prevention and Control of the Centers for Disease Control and Prevention under the Public Health Service Act (42 U.S.C. 280b et seq.).
 
-#### (34) Territorial domestic violence or sexual assault coalition
+#### (40) Technological abuse
+
+&emsp;The term "technological abuse" means an act or pattern of behavior that occurs within domestic violence, sexual assault, dating violence or stalking and is intended to harm, threaten, intimidate, control, stalk, harass, impersonate, exploit, extort, or monitor, except as otherwise permitted by law, another person, that occurs using any form of technology, including but not limited to: internet enabled devices, online spaces and platforms, computers, mobile devices, cameras and imaging programs, apps, location tracking devices, or communication technologies, or any other emerging technologies.
+
+#### (41) Territorial domestic violence or sexual assault coalition
 
 &emsp;The term "territorial domestic violence or sexual assault coalition" means a program addressing domestic or sexual violence that is—
 
@@ -206,19 +314,19 @@ In this subchapter:
 
 &emsp;&emsp;(B) a nongovernmental organization with a demonstrated history of addressing domestic violence or sexual assault within the territory that proposes to incorporate as a nonprofit, nongovernmental territorial coalition.
 
-#### (35) Tribal coalition
+#### (42) Tribal coalition
 
 &emsp;The term "tribal coalition" means an established nonprofit, nongovernmental Indian organization, Alaska Native organization, or a Native Hawaiian organization that—
 
-&emsp;&emsp;(A) provides education, support, and technical assistance to member Indian service providers in a manner that enables those member providers to establish and maintain culturally appropriate services, including shelter and rape crisis services, designed to assist Indian women and the dependents of those women who are victims of domestic violence, dating violence, sexual assault, and stalking; and
+&emsp;&emsp;(A) provides education, support, and technical assistance to member Indian service providers, Native Hawaiian organizations, or the Native Hawaiian community in a manner that enables those member providers, organizations, or communities to establish and maintain culturally appropriate services, including shelter and rape crisis services, designed to assist Indian or Native Hawaiian women and the dependents of those women who are victims of domestic violence, dating violence, sexual assault, and stalking; and
 
 &emsp;&emsp;(B) is comprised of board and general members that are representative of—
 
-&emsp;&emsp;&emsp;(i) the member service providers described in subparagraph (A); and
+&emsp;&emsp;&emsp;(i) the member service providers, organizations, or communities described in subparagraph (A); and
 
-&emsp;&emsp;&emsp;(ii) the tribal communities in which the services are being provided.
+&emsp;&emsp;&emsp;(ii) the tribal communities or Native Hawaiian communities in which the services are being provided.
 
-#### (36) Tribal government
+#### (43) Tribal government
 
 &emsp;The term "tribal government" means—
 
@@ -226,7 +334,7 @@ In this subchapter:
 
 &emsp;&emsp;(B) a tribe, band, pueblo, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation (as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-#### (37) Tribal nonprofit organization
+#### (44) Tribal nonprofit organization
 
 &emsp;The term "tribal nonprofit organization" means—
 
@@ -234,7 +342,7 @@ In this subchapter:
 
 &emsp;&emsp;(B) staff and leadership of the organization must include persons with a demonstrated history of assisting American Indian or Alaska Native victims of domestic violence, dating violence, sexual assault, or stalking.
 
-#### (38) Tribal organization
+#### (45) Tribal organization
 
 &emsp;The term "tribal organization" means—
 
@@ -244,31 +352,31 @@ In this subchapter:
 
 &emsp;&emsp;(C) any tribal nonprofit organization.
 
-#### (39) Underserved populations
+#### (46) Underserved populations
 
 &emsp;The term "underserved populations" means populations who face barriers in accessing and using victim services, and includes populations underserved because of geographic location, religion, sexual orientation, gender identity, underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the Attorney General or by the Secretary of Health and Human Services, as appropriate.
 
-#### (40) Unit of local government
+#### (47) Unit of local government
 
 &emsp;The term "unit of local government" means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State.
 
-#### (41) Victim advocate
+#### (48) Victim advocate
 
 &emsp;The term "victim advocate" means a person, whether paid or serving as a volunteer, who provides services to victims of domestic violence, sexual assault, stalking, or dating violence under the auspices or supervision of a victim services program.
 
-#### (42) Victim assistant
+#### (49) Victim assistant
 
 &emsp;The term "victim assistant" means a person, whether paid or serving as a volunteer, who provides services to victims of domestic violence, sexual assault, stalking, or dating violence under the auspices or supervision of a court or a law enforcement or prosecution agency.
 
-#### (43) Victim service provider
+#### (50) Victim service provider
 
 &emsp;The term "victim service provider" means a nonprofit, nongovernmental or tribal organization or rape crisis center, including a State or tribal coalition, that assists or advocates for domestic violence, dating violence, sexual assault, or stalking victims, including domestic violence shelters, faith-based organizations, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
 
-#### (44) Victim services or services
+#### (51) Victim services or services
 
-&emsp;The terms "victim services" and "services" mean services provided to victims of domestic violence, dating violence, sexual assault, or stalking, including telephonic or web-based hotlines, legal advocacy, economic advocacy, emergency and transitional shelter, accompaniment and advocacy through medical, civil or criminal justice, immigration, and social support systems, crisis intervention, short-term individual and group support services, information and referrals, culturally specific services, population specific services, and other related supportive services.
+&emsp;The terms "victim services" and "services" mean services provided to victims of domestic violence, dating violence, sexual assault, or stalking, including telephonic or web-based hotlines, legal assistance and legal advocacy, economic advocacy, emergency and transitional shelter, accompaniment and advocacy through medical, civil or criminal justice, immigration, and social support systems, crisis intervention, short-term individual and group support services, information and referrals, culturally specific services, population specific services, and other related supportive services.
 
-#### (45) Youth
+#### (52) Youth
 
 &emsp;The term "youth" means a person who is 11 to 24 years old.
 
@@ -314,7 +422,7 @@ In this subchapter:
 
 &emsp;&emsp;(i) Grantees and subgrantees may share—
 
-&emsp;&emsp;&emsp;(I) nonpersonally identifying data in the aggregate regarding services to their clients and nonpersonally identifying demographic information in order to comply with Federal, State, tribal, or territorial reporting, evaluation, or data collection requirements;
+&emsp;&emsp;&emsp;(I) nonpersonally identifying data in the aggregate regarding services to their clients and nonpersonally identifying demographic information in order to complywith Federal, State, tribal, or territorial reporting, evaluation, or data collection requirements;
 
 &emsp;&emsp;&emsp;(II) court-generated information and law enforcement-generated information contained in secure, governmental registries for protection order enforcement purposes; and
 
@@ -338,9 +446,25 @@ In this subchapter:
 
 &emsp;&emsp;Grantees and subgrantees must document their compliance with the confidentiality and privacy provisions required under this section.
 
+#### (H) Death of the party whose privacy had been protected
+
+&emsp;&emsp;In the event of the death of any victim whose confidentiality and privacy is required to be protected under this subsection, grantees and subgrantees may share personally identifying information or individual information that is collected about deceased victims being sought for a fatality review to the extent permitted by their jurisdiction's law and only if the following conditions are met:
+
+&emsp;&emsp;&emsp;(i) The underlying objectives of the fatality review are to prevent future deaths, enhance victim safety, and increase offender accountability.
+
+&emsp;&emsp;&emsp;(ii) The fatality review includes policies and protocols to protect identifying information, including identifying information about the victim's children, from further release outside the fatality review team.
+
+&emsp;&emsp;&emsp;(iii) The grantee or subgrantee makes a reasonable effort to get a release from the victim's personal representative (if one has been appointed) and from any surviving minor children or the guardian of such children (but not if the guardian is the abuser of the deceased parent), if the children are not capable of knowingly consenting.
+
+&emsp;&emsp;&emsp;(iv) The information released is limited to that which is necessary for the purposes of the fatality review.
+
 #### (3) Approved activities
 
-&emsp;In carrying out the activities under this subchapter, grantees and subgrantees may collaborate with or provide information to Federal, State, local, tribal, and territorial public officials and agencies to develop and implement policies and develop and promote State, local, or tribal legislation or model codes designed to reduce or eliminate domestic violence, dating violence, sexual assault, and stalking.
+&emsp;In carrying out the activities under this subchapter, grantees and subgrantees may collaborate with or provide information to Federal, State, local, tribal, and territorial public officials and agencies to develop and implement policies and develop and promote State, local, or tribal legislation or model codes designed to reduce or eliminate domestic violence, dating violence, sexual assault, and stalking if—
+
+&emsp;&emsp;(A) the confidentiality and privacy requirements of this subchapter are maintained; and
+
+&emsp;&emsp;(B) personally identifying information about adult, youth, and child victims of domestic violence, dating violence, sexual assault, and stalking is not requested or included in any such collaboration or information-sharing.
 
 #### (4) Non-supplantation
 
@@ -378,7 +502,13 @@ In this subchapter:
 
 #### (11) Technical assistance
 
-&emsp;Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities. If there is a demonstrated history that the Office on Violence Against Women has previously set aside amounts greater than 8 percent for technical assistance and training relating to grant programs authorized under this subchapter, the Office has the authority to continue setting aside amounts greater than 8 percent.
+#### (A) In general
+
+&emsp;&emsp;Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities. If there is a demonstrated history that the Office on Violence Against Women has previously set aside amounts greater than 8 percent for technical assistance and training relating to grant programs authorized under this subchapter, the Office has the authority to continue setting aside amounts greater than 8 percent.
+
+#### (B) Requirement
+
+&emsp;&emsp;The Office on Violence Against Women shall make all technical assistance available as broadly as possible to any appropriate grantees, subgrantees, potential grantees, or other entities without regard to whether the entity has received funding from the Office on Violence Against Women for a particular program or project, with priority given to recipients awarded a grant before March 15, 2022.
 
 #### (12) Delivery of legal assistance
 
@@ -388,7 +518,7 @@ In this subchapter:
 
 #### (A) Nondiscrimination
 
-&emsp;&emsp;No person in the United States shall, on the basis of actual or perceived race, color, religion, national origin, sex, gender identity (as defined in paragraph 249(c)(4) of title 18), sexual orientation, or disability, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made availableunder the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080),<sup>2</sup> the Violence Against Women Reauthorization Act of 2013, and any other program or activity funded in whole or in part with funds appropriated for grants, cooperative agreements, and other assistance administered by the Office on Violence Against Women.
+&emsp;&emsp;No person in the United States shall, on the basis of actual or perceived race, color, religion, national origin, sex, gender identity (as defined in paragraph 249(c)(4) of title 18), sexual orientation, or disability, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made available under the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080),<sup>2</sup> the Violence Against Women Reauthorization Act of 2013, and any other program or activity funded in whole or in part with funds appropriated for grants, cooperative agreements, and other assistance administered by the Office on Violence Against Women.
 
 #### (B) Exception
 
@@ -404,39 +534,15 @@ In this subchapter:
 
 #### (14) Clarification of victim services and legal assistance
 
-&emsp;Victim services and legal assistance under this subchapter also include services and assistance to victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of severe forms of trafficking in persons as defined by section 7102 of title 22.
+&emsp;Victim services and legal assistance under this subchapter also include services and assistance to—
 
-#### (15) Conferral
+&emsp;&emsp;(A) victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of severe forms of trafficking in persons as defined by section 7102 of title 22;
 
-#### (A) In general
+&emsp;&emsp;(B) adult survivors of child sexual abuse; and
 
-&emsp;&emsp;The Office on Violence Against Women shall establish a biennial conferral process with State and tribal coalitions and technical assistance providers who receive funding through grants administered by the Office on Violence Against Women and authorized by this Act, and other key stakeholders.
+&emsp;&emsp;(C) victims of domestic violence, dating violence, sexual assault, or stalking who are also victims of female genital mutilation or cutting, or forced marriage.
 
-#### (B) Areas covered
-
-&emsp;&emsp;The areas of conferral under this paragraph shall include—
-
-&emsp;&emsp;&emsp;(i) the administration of grants;
-
-&emsp;&emsp;&emsp;(ii) unmet needs;
-
-&emsp;&emsp;&emsp;(iii) promising practices in the field; and
-
-&emsp;&emsp;&emsp;(iv) emerging trends.
-
-#### (C) Initial conferral
-
-&emsp;&emsp;The first conferral shall be initiated not later than 6 months after March 7, 2013.
-
-#### (D) Report
-
-&emsp;&emsp;Not later than 90 days after the conclusion of each conferral period, the Office on Violence Against Women shall publish a comprehensive report that—
-
-&emsp;&emsp;&emsp;(i) summarizes the issues presented during conferral and what, if any, policies it intends to implement to address those issues;
-
-&emsp;&emsp;&emsp;(ii) is made available to the public on the Office on Violence Against Women's website and submitted to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
-
-#### (16) Accountability
+#### (15) Accountability
 
 &emsp;All grants awarded by the Attorney General under this Act shall be subject to the following accountability provisions:
 
@@ -450,9 +556,9 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;In this paragraph, the term "unresolved audit finding" means a finding in the final audit report of the Inspector General of the Department of Justice that the audited grantee has utilized grant funds for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved within 12 months from the date when the final audit report is issued.
 
-#### (iii) Mandatory exclusion
+#### (iii) Technical assistance
 
-&emsp;&emsp;&emsp;A recipient of grant funds under this Act that is found to have an unresolved audit finding shall not be eligible to receive grant funds under this Act during the following 2 fiscal years.
+&emsp;&emsp;&emsp;A recipient of grant funds under this Act that is found to have an unresolved audit finding shall be eligible to receive prompt, individualized technical assistance to resolve the audit finding and to prevent future findings, for a period not to exceed the following 2 fiscal years.
 
 #### (iv) Priority
 
@@ -484,7 +590,7 @@ In this subchapter:
 
 #### (i) Limitation
 
-&emsp;&emsp;&emsp;No amounts authorized to be appropriated to the Department of Justice under this Act may be used by the Attorney General, or by any individual or organization awarded discretionary funds through a cooperative agreement under this Act, to host or support any expenditure for conferences that uses more than $20,000 in Department funds, unless the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
+&emsp;&emsp;&emsp;No amounts authorized to be appropriated to the Department of Justice under this Act may be used by the Attorney General, or by any individual or organization awarded discretionary funds through a cooperative agreement under this Act, to host or support any expenditure for conferences that uses more than $100,000 in Department funds, unless the Director or Principal Deputy Director of the Office on Violence Against Women or the Deputy Attorney General or such Assistant Attorney Generals, Directors, or principal deputies as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
 
 #### (ii) Written approval
 
@@ -506,7 +612,11 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iv) includes a list of any grant recipients excluded under subparagraph (A) from the previous year.
 
-(Pub. L. 103–322, title IV, §40002, as added Pub. L. 109–162, §3(a), Jan. 5, 2006, 119 Stat. 2964; amended Pub. L. 109–271, §§1(d)–(f), 2(e), Aug. 12, 2006, 120 Stat. 751, 752; Pub. L. 111–320, title II, §202(d), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, §3, Mar. 7, 2013, 127 Stat. 56.)
+#### (16) Innovation fund
+
+&emsp;Of the amounts appropriated to carry out this subchapter, not more than 1 percent shallbe made available for pilot projects, demonstration projects, and special initiatives designed to improve Federal, State, local, Tribal, and other community responses to gender-based violence.
+
+(Pub. L. 103–322, title IV, §40002, as added Pub. L. 109–162, §3(a), Jan. 5, 2006, 119 Stat. 2964; amended Pub. L. 109–271, §§1(d)–(f), 2(e), Aug. 12, 2006, 120 Stat. 751, 752; Pub. L. 111–320, title II, §202(d), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, §3, Mar. 7, 2013, 127 Stat. 56; Pub. L. 117–103, div. W, §2(a), Mar. 15, 2022, 136 Stat. 840; Pub. L. 117–315, §2(b), Dec. 27, 2022, 136 Stat. 4404.)
 
 #### <b>Editorial Notes</b>
 
@@ -514,17 +624,17 @@ In this subchapter:
 
 This subchapter, referred to in text, was in the original "this title", meaning title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902, known as the Violence Against Women Act of 1994. For complete classification of title IV to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (a)(1), (16), (36)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (a)(2), (22), (43)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a)(15), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a)(20), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(33), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(39), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
-This Act, referred to in subsec. (b)(1), (2)(F), (15)(A), (16), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the Violent Crime Control and Law Enforcement Act of 1994. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
+This Act, referred to in subsec. (b)(1), (2)(F), (15), is Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1796, known as the Violent Crime Control and Law Enforcement Act of 1994. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
 
 The Violence Against Women Act of 1994, referred to in subsec. (b)(13)(A), is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
 
-The Violence Against Women Act of 2000, referred to in subsec. (b)(13)(A), is div. B of Pub. L. 106–386, Oct. 28,2000, 114 Stat. 1491. For complete classification of this Act to the Code, see Short Title of 2000 Act note set out under section 10101 of this title and Tables.
+The Violence Against Women Act of 2000, referred to in subsec. (b)(13)(A), is div. B of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1491. For complete classification of this Act to the Code, see Short Title of 2000 Act note set out under section 10101 of this title and Tables.
 
 The Violence Against Women and Department of Justice Reauthorization Act of 2005, referred to in subsec. (b)(13)(A), is Pub. L. 109–162, Jan. 5, 2006, 119 Stat. 2960. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
@@ -532,13 +642,97 @@ The Violence Against Women Reauthorization Act of 2013, referred to in subsec. (
 
 Section 10228 of this title, referred to in subsec. (b)(13)(C), was in the original a reference to "section 3789d of title 42, United States Code" but probably should have been a reference to section 809 of Pub. L. 90–351, which was formerly classified to section 3789d of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 10228 of this title.
 
-The date of the enactment of this Act, referred to in subsec. (b)(16)(A)(i), (D), probably means the date of enactment of Pub. L. 113–4, which enacted subsec. (b)(16) of this section and was approved Mar. 7, 2013.
+The date of the enactment of this Act, referred to in subsec. (b)(15)(A)(i), (D), probably means the date of enactment of Pub. L. 113–4, which enacted subsec. (b)(16) \[now (b)(15)\] of this section and was approved Mar. 7, 2013.
 
 #### Codification
 
 Section was formerly classified to section 13925 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–103, §2(a)(1)(A), substituted "In this subchapter, for the purpose of grants authorized under this subchapter" for "In this subchapter" in introductory provisions.
+
+Subsec. (a)(1), (2). Pub. L. 117–103, §2(a)(1)(N), (O), added par. (1) and redesignated former par. (1) as (2). Former par. (2) redesignated (7).
+
+Subsec. (a)(4), (5). Pub. L. 117–103, §2(a)(1)(M), redesignated pars. (4) and (5) as (5) and (4), respectively, and transferred par. (4) to appear after par. (3).
+
+Subsec. (a)(6). Pub. L. 117–103, §2(a)(1)(P), added par. (6). Former par. (6) redesignated (8).
+
+Subsec. (a)(7). Pub. L. 117–103, §2(a)(1)(L), redesignated par. (2) as (7) and transferred it to appear before par. (8). Former par. (7) redesignated (9).
+
+Subsec. (a)(8), (9). Pub. L. 117–103, §2(a)(1)(K), redesignated pars. (6) and (7) as (8) and (9), respectively. Former pars. (8) and (9) redesignated (12) and (10), respectively.
+
+Subsec. (a)(10), (11). Pub. L. 117–103, §2(a)(1)(I), redesignated pars. (9) and (10) as (10) and (11), respectively. Former par. (11) redesignated (14).
+
+Subsec. (a)(12). Pub. L. 117–103, §2(a)(1)(Q), substituted "includes felony or misdemeanor crimes committed by a current or former spouse or intimate partner of the victim under the family or domestic violence laws of the jurisdiction receiving grant funding and, in the case of victim services, includes the use or attempted use of physical abuse or sexual abuse, or a pattern of any other coercive behavior committed, enabled, or solicited to gain or maintain power and control over a victim, including verbal, psychological, economic, or technological abuse that may or may not constitute criminal behavior, by a person who—" and subpars. (A) to (D) for "includes felony or misdemeanor crimes of violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, by a person similarly situated to a spouse of the victim under the domestic or family violence laws of the jurisdiction receiving grant monies, or by any other person against an adult or youth victim who is protected from that person's acts under the domestic or family violence laws of the jurisdiction."
+
+Pub. L. 117–103, §2(a)(1)(J), redesignated par. (8) as (12) and transferred it to appear after par. (11). Former par. (12) redesignated (17).
+
+Subsec. (a)(13) to (16). Pub. L. 117–103, §2(a)(1)(H), (R), (S), added pars. (13), (15) and (16) and redesignated par. (11) as (14). Former pars. (13) to (16) redesignated (18) to (20) and (22), respectively.
+
+Subsec. (a)(17). Pub. L. 117–103, §2(a)(1)(T), added par. (17) and struck out former par. (17). Prior to amendment, text read as follows: "The term 'homeless' has the meaning provided in section 12473(6) of this title."
+
+Pub. L. 117–103, §2(a)(1)(G), redesignated par. (12) as (17). Former par. (17) redesignated (21).
+
+Subsec. (a)(18) to (21). Pub. L. 117–103, §2(a)(1)(F), (G), redesignated pars. (13) to (15) and (17) as (18) to (21), respectively. Former pars. (18) to (21) redesignated (23) to (26), respectively.
+
+Subsec. (a)(22). Pub. L. 117–103, §2(a)(1)(U), inserted "; Indian Tribe" after "tribe" in heading and substituted "terms 'Indian tribe' and 'Indian Tribe' mean" for "term 'Indian tribe' means" in text.
+
+Pub. L. 117–103, §2(a)(1)(F), redesignated par. (16) as (22) and transferred it to appear before par. (23). Former par. (22) redesignated (27).
+
+Subsec. (a)(23). Pub. L. 117–103, §2(a)(1)(E), redesignated par. (18) as (23). Former par. (23) redesignated (28).
+
+Subsec. (a)(24). Pub. L. 117–103, §2(a)(1)(V), added par. (24) and struck out former par. (24). Prior to amendment, text read as follows: "The term 'legal assistance' includes assistance to adult and youth victims of domestic violence, dating violence, sexual assault, and stalking in—
+
+&emsp;"(A) family, tribal, territorial, immigration, employment, administrative agency, housing matters, campus administrative or protection or stay away order proceedings, and other similar matters; and
+
+&emsp;"(B) criminal justice investigations, prosecutions and post-trial matters (including sentencing, parole, and probation) that impact the victim's safety and privacy.
+
+> "Intake or referral, by itself, does not constitute legal assistance."
+
+Pub. L. 117–103, §2(a)(1)(E), redesignated par. (19) as (24). Former par. (24) redesignated (29).
+
+Subsec. (a)(25) to (30). Pub. L. 117–103, §2(a)(1)(E), redesignated pars. (20) to (25) as (25) to (30), respectively. Former pars. (26) to (30) redesignated (32) to (36), respectively.
+
+Subsec. (a)(31). Pub. L. 117–103, §2(a)(1)(W), added par. (31). Former par. (31) redesignated (37).
+
+Subsec. (a)(32) to (39). Pub. L. 117–103, §2(a)(1)(D), redesignated pars. (26) to (33) as (32) to (39), respectively. Former pars. (34) to (39) redesignated (41) to (46), respectively.
+
+Subsec. (a)(40). Pub. L. 117–103, §2(a)(1)(X), added par. (40). Former par. (40) redesignated (47).
+
+Subsec. (a)(41), (42). Pub. L. 117–103, §2(a)(1)(C), redesignated pars. (34) and (35) as (41) and (42). Former pars. (43) to (45) redesignated (50) to (52), respectively.
+
+Subsec. (a)(42)(A). Pub. L. 117–315, §2(b)(1), inserted ", Native Hawaiian organizations, or the Native Hawaiian community" after "Indian service providers", ", organizations, or communities" after "member providers", and "or Native Hawaiian" after "designed to assist Indian".
+
+Subsec. (a)(42)(B)(i). Pub. L. 117–315, §2(b)(2)(A), inserted ", organizations, or communities" after "member service providers".
+
+Subsec. (a)(42)(B)(ii). Pub. L. 117–315, §2(b)(2)(B), inserted "or Native Hawaiian communities" after "tribal communities".
+
+Subsec. (a)(43) to (49). Pub. L. 117–103, §2(a)(1)(C), redesignated pars. (36) to (42) as (43) to (49), respectively. Former pars. (43) to (45) redesignated (50) to (52), respectively.
+
+Subsec. (a)(50). Pub. L. 117–103, §2(a)(1)(B), redesignated par. (43) as (50).
+
+Subsec. (a)(51). Pub. L. 117–103, §2(a)(1)(Y), inserted "legal assistance and" before "legal advocacy".
+
+Pub. L. 117–103, §2(a)(1)(B), redesignated par. (44) as (51).
+
+Subsec. (a)(52). Pub. L. 117–103, §2(a)(1)(B), redesignated par. (45) as (52).
+
+Subsec. (b)(2)(H). Pub. L. 117–103, §2(a)(2)(A), added subpar. (H).
+
+Subsec. (b)(3). Pub. L. 117–103, §2(a)(2)(B), substituted "if—" and subpars. (A) and (B) for period at end.
+
+Subsec. (b)(11). Pub. L. 117–103, §2(a)(2)(C), designated existing provisions as subpar. (A), inserted heading and added subpar. (B).
+
+Subsec. (b)(14). Pub. L. 117–103, §2(a)(2)(D), substituted "to—" for "to", inserted subpar. (A) designation before "victims of domestic violence", and added subpars. (B) and (C).
+
+Subsec. (b)(15). Pub. L. 117–103, §2(a)(2)(E), (F), redesignated par. (16) as (15) and struck out former par. (15) which related to establishment of biennial conferral process.
+
+Subsec. (b)(15)(A)(iii). Pub. L. 117–103, §2(a)(2)(G)(i), added cl. (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: "A recipient of grant funds under this Act that is found to have an unresolved audit finding shall not be eligible to receive grant funds under this Act during the following 2 fiscal years."
+
+Subsec. (b)(15)(C)(i). Pub. L. 117–103, §2(a)(2)(G)(ii), substituted "$100,000" for "$20,000" and, which directed the insertion of "the Director or Principal Deputy Director of the Office on Violence Against Women or" before "the Deputy Attorney General", was executed by making the insertion before "the Deputy Attorney General or", to reflect the probable intent of Congress.
+
+Subsec. (b)(16). Pub. L. 117–103, §2(a)(2)(H), added par. (16). Former par. (16) redesignated (15).
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 113–4, §3(a)(3), added par. (1). Former par. (1) redesignated (2).
 
@@ -638,7 +832,7 @@ Subsec. (b)(2)(B). Pub. L. 113–4, §3(b)(1)(A), added cls. (i) and (ii) and co
 
 Subsec. (b)(2)(D). Pub. L. 113–4, §3(b)(1)(B), amended subpar. (D) generally. Prior to amendment, text read as follows:"Grantees and subgrantees may share—
 
-&emsp;"(i) nonpersonally identifying data in the aggregate regarding services to their clients and nonpersonallyidentifying demographic information in order to comply with Federal, State, tribal, or territorial reporting, evaluation, or data collection requirements;
+&emsp;"(i) nonpersonally identifying data in the aggregate regarding services to their clients and nonpersonally identifying demographic information in order to comply with Federal, State, tribal, or territorial reporting, evaluation, or data collection requirements;
 
 &emsp;"(ii) court-generated information and law-enforcement generated information contained in secure, governmental registries for protection order enforcement purposes; and
 
@@ -665,6 +859,12 @@ Subsec. (b)(1). Pub. L. 109–271, §1(f), added par. (1) and struck out former 
 Subsec. (b)(11). Pub. L. 109–271, §2(e), inserted "Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities." before "If there is a demonstrated history".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–315 effective one day after Dec. 27, 2022, see section 3 of Pub. L. 117–315, set out as a note under section 10441 of this title.
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2013 Amendment
 
@@ -696,7 +896,7 @@ Pub. L. 109–162, title II, §201, Jan. 5, 2006, 119 Stat. 2993, provided that:
 
 &emsp;"(5) Geographic isolation often compounds the problems facing sexual assault victims. The lack of anonymity and accessible support services can limit opportunities for justice for victims.
 
-&emsp;"(6) Domestic elder abuse is primarily family abuse. The National Elder Abuse Incidence Study found that the perpetrator was a family member in 90 percent of cases.
+&emsp;"(6) Domestic elder abuse is primarily family abuse. The National Elder Abuse Incidence Studyfound that the perpetrator was a family member in 90 percent of cases.
 
 &emsp;"(7) Barriers for older victims leaving abusive relationships include—
 
@@ -755,6 +955,106 @@ Pub. L. 109–162, title III, §301, Jan. 5, 2006, 119 Stat. 3003, provided that
 &emsp;"(9) Of college women who said they had been the victims of rape or attempted rape, 12.8 percent of completed rapes, 35 percent of attempted rapes, and 22.9 percent of threatened rapes took place on a date. Almost 60 percent of the completed rapes that occurred on campus took place in the victim's residence.
 
 &emsp;"(10) According to a 3-year study of student-athletes at 10 Division I universities, male athletes made up only 3.3 percent of the general male university population, but they accounted for 19 percent of the students reported for sexual assault and 35 percent of domestic violence perpetrators."
+
+#### Definitions and Grant Conditions
+
+Pub. L. 117–103, div. W, §2(b), Mar. 15, 2022, 136 Stat. 846, provided that: "Section 40002 of the Violence Against Women Act of 1994 (34 U.S.C. 12291) shall apply to this Act \[div. W of Pub. L. 107–103, see Tables for classification\] and any grant program authorized under this Act."
+
+#### <b>Executive Documents</b>
+
+#### Establishment of the White House Task Force To Address Online Harassment and Abuse
+
+Memorandum of President of the United States, June 16, 2022, 87 F.R. 37431, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to improve efforts to prevent and address online harassment and abuse, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Technology platforms and social media can be vital tools for expression, civic participation, and building a sense of community. But the scale, reach, and amplification effects of technology platforms have also exacerbated gender-based violence, particularly through online harassment and abuse. Online harassment and abuse include a broad array of harmful and sometimes illegal behaviors that are perpetrated through the use of technology. Women, adolescent girls, and LGBTQI+ individuals, who may be additionally targeted because of their race, ethnicity, religion, and other factors, can experience more severe harms from online harassment and abuse. Online harassment and abuse take many forms, including the non-consensual distribution of intimate digital images; cyberstalking; sextortion; doxing; malicious deep fakes; gendered disinformation; rape and death threats; the online recruitment and exploitation of victims of sex trafficking; and various forms of technology-facilitated intimate partner abuse. In the United States, 1 in3 women under the age of 35 reports having been sexually harassed online, and over half of LGBTQI+ individuals report having been the target of severe online abuse, including sustained harassment, physical threats, and stalking in addition to sexual harassment. Globally, half of girls report that they are more likely to be harassed through social media than on the street.
+
+In the United States and around the world, women and LGBTQI+ political leaders, public figures, activists, and journalists are especially targeted by sexualized forms of online harassment and abuse, undermining their ability to exercise their human rights and participate in democracy, governance, and civic life. Online abuse and harassment, which aim to preclude women from political decision-making about their own lives and communities, undermine the functioning of democracy. Growing evidence also demonstrates that online radicalization can be linked to gender-based violence, which, along with other forms of abuse and harassment, spans the digital and physical realms. Online harassment and abuse can result in a range of dire consequences for victims, from psychological distress and self-censorship to economic losses, disruptions to education, increased self-harm, suicide, homicide, and other forms of physical and sexual violence. Further, digital technologies are often used in concert with other forms of abuse and harassment, underscoring the urgency of addressing the interplay of in-person and online harms. More research is needed to fully understand the nature, magnitude, and costs of these harms and ways to address them in the United States and globally.
+
+Therefore, I am directing the Director of the White House Gender Policy Council and the Assistant to the President for National Security Affairs to lead an interagency effort to address online harassment and abuse, specifically focused on technology-facilitated gender-based violence, and to develop concrete recommendations to improve prevention, response, and protection efforts through programs and policies in the United States and globally.
+
+Sec. 2. <i>Establishment</i>. There is established within the Executive Office of the President the White House Task Force to Address Online Harassment and Abuse (Task Force).
+
+Sec. 3. <i>Membership</i>. (a) The Director of the White House Gender Policy Council and the Assistant to the President for National Security Affairs, or their designees, shall serve as Co-Chairs of the Task Force.
+
+(b) In addition to the Co-Chairs, the Task Force shall consist of the following members:
+
+(i) the Secretary of State;
+
+(ii) the Secretary of Defense;
+
+(iii) the Attorney General;
+
+(iv) the Secretary of Commerce;
+
+(v) the Secretary of Health and Human Services;
+
+(vi) the Secretary of Education;
+
+(vii) the Secretary of Veterans Affairs;
+
+(viii) the Secretary of Homeland Security;
+
+(ix) the Director of the Office of Science and Technology Policy;
+
+(x) the Assistant to the President and Director of the Domestic Policy Council;
+
+(xi) the Assistant to the President for Economic Policy and Director of the National Economic Council;
+
+(xii) the Administrator of the United States Agency for International Development;
+
+(xiii) the Counsel to the President;
+
+(xiv) the Counsel to the Vice President; and
+
+(xv) the heads of such other executive departments, agencies, and offices as the Co-Chairs may, from time to time, designate.
+
+(c) A member of the Task Force may designate, to perform the Task Force functions of the member, senior officials within the member's executive department, agency, or office who are full-time officers or employees of the Federal Government.
+
+Sec. 4. <i>Mission and Function</i>. (a) The Task Force shall work across executive departments, agencies, and offices to assess and address online harassment and abuse that constitute technology-facilitated gender-based violence, including by:
+
+(i) improving coordination among executive departments, agencies, and offices to maximize the Federal Government's effectiveness in preventing and addressing technology-facilitated gender-based violence in the United States and globally, including by developing policy solutions to enhance accountability for those who perpetrate online harms;
+
+(ii) enhancing and expanding data collection and research across the Federal Government to measure the costs, prevalence, exposure to, and impact of technology-facilitated gender-based violence, including by studying the mental health effects of abuse on social media, particularly affecting adolescents;
+
+(iii) increasing access to survivor-centered services, information, and support for victims, and increasing training and technical assistance for Federal, State, local, Tribal, and territorial governments as well as for global organizations and entities in the fields of criminal justice, health and mental health services, education, and victim services;
+
+(iv) developing programs and policies to address online harassment, abuse, and disinformation campaigns targeting women and LGBTQI+ individuals who are public and political figures, government and civic leaders, activists, and journalists in the United States and globally;
+
+(v) examining existing Federal laws, regulations, and policies to evaluate the adequacy of the current legal framework to address technology-facilitated gender-based violence; and
+
+(vi) identifying additional opportunities to improve efforts to prevent and address technology-facilitated gender-based violence in United States foreign policy and foreign assistance, including through the Global Partnership for Action on Gender-Based Online Harassment and Abuse.
+
+(b) Consistent with the objectives of this memorandum and applicable law, the Task Force may consult with and gather relevant information from external stakeholders, including Federal, State, local, Tribal, and territorial government officials, as well as victim advocates, survivors, law enforcement personnel, researchers and academics, civil and human rights groups, philanthropic leaders, technology experts, legal and international policy experts, industry stakeholders, and other entities and persons the Task Force identifies that will assist the Task Force in accomplishing the objectives of this memorandum.
+
+Sec. 5. <i>Reporting on the Work and Recommendations of the Task Force</i>. (a) Within 180 days of the date of this memorandum \[June 16, 2022\], the Co-Chairs of the Task Force shall submit to the President a blueprint (Initial Blueprint) outlining a whole-of-government approach to preventing and addressing technology-facilitated gender-based violence, including concrete actions that executive departments, agencies, and offices have committed to take to implement the Task Force's recommendations. The Initial Blueprint shall include a synopsis of key lessons from stakeholder consultations and preliminary recommendations for advancing strategies to improve efforts to prevent and address technology-facilitated gender-based violence. Following submission of the Initial Blueprint to the President, the Co-Chairs of the Task Force shall make an executive summary of the Initial Blueprint publicly available.
+
+(b) Within 1 year of the date that the Initial Blueprint is submitted to the President, the Co-Chairs of the Task Force shall submit to the President and make publicly available an update and report (1-Year Report) with additional recommendations and actions that executive departments, agencies, and offices can take to advance how Federal, State, local, Tribal, and territorial governments; service providers; international organizations; technology platforms; schools; and other public and private entities can improve efforts to prevent and address technology-facilitated gender-based violence.
+
+(c) Prior to issuing its Initial Blueprint and 1-Year Report, the Co-Chairs of the Task Force shall consolidate any input received and submit periodic recommendations to the President on policies, regulatory actions, and legislation on technology sector accountability to address systemic harms to people affected by online harassment and abuse.
+
+(d) Following the submission of the 1-Year Report to the President, the Co-Chairs of the Task Force shall, on an annual basis, submit a follow-up report to the President on implementation of this memorandum.
+
+Sec. 6. <i>Definition</i>. For the purposes of this memorandum, the term "technology-facilitated gender-based violence" shall refer to any form of gender-based violence, including harassment and abuse, which takes place through, or is aided by, the use of digital technologies and devices.
+
+Sec. 7. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall not apply to independent regulatory agencies as described in section 3502(5) of title 44, United States Code. Independent regulatory agencies are nevertheless strongly encouraged to participate in the work of the Task Force.
+
+(c) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(e) The Attorney General is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. The period probably should be preceded by another closing parenthesis.</i>
 

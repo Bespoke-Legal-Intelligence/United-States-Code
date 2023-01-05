@@ -20,7 +20,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (4) Termination
 
-&emsp;Nothing in this section prohibits a Bell operating company or any of its affiliates from providing termination for interLATA services, subject to subsection (j).
+&emsp;Nothing in this section prohibits a Bell operating company or any of its affiliates fromproviding termination for interLATA services, subject to subsection (j).
 
 #### (c) Requirements for providing certain in-region interLATA services
 
@@ -30,7 +30,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (A) Presence of a facilities-based competitor
 
-&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if it has entered into one or more binding agreements that have been approved under section 252 of this title specifying the terms and conditions under which the Bell operating company is providing access and interconnection to its network facilities for the network facilities of one or more unaffiliated competing providers of telephone exchange service (as defined in section 153(47)(A) <sup>1</sup> of this title, but excluding exchange access) to residential and business subscribers. For the purpose of this subparagraph, such telephone exchange service may be offered by such competing providers either exclusively over their own telephone exchange service facilities or predominantly over their own telephone exchange service facilities in combination with the resale of the telecommunications services of another carrier. For the purpose of this subparagraph, services provided pursuant to subpart K of part 22 of the Commission's regulations (47 C.F.R. 22.901 etseq.) shall not be considered to be telephone exchange services.
+&emsp;&emsp;A Bell operating company meets the requirements of this subparagraph if it has entered into one or more binding agreements that have been approved under section 252 of this title specifying the terms and conditions under which the Bell operating company is providing access and interconnection to its network facilities for the network facilities of one or more unaffiliated competing providers of telephone exchange service (as defined in section 153(47)(A) <sup>1</sup> of this title, but excluding exchange access) to residential and business subscribers. For the purpose of this subparagraph, such telephone exchange service may be offered by such competing providers either exclusively over their own telephone exchange service facilities or predominantly over their own telephone exchange service facilities in combination with the resale of the telecommunications services of another carrier. For the purpose of this subparagraph, services provided pursuant to subpart K of part 22 of the Commission's regulations (47 C.F.R. 22.901 et seq.) shall not be considered to be telephone exchange services.
 
 #### (B) Failure to request access
 
@@ -78,7 +78,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 &emsp;&emsp;&emsp;(x) Nondiscriminatory access to databases and associated signaling necessary for call routing and completion.
 
-&emsp;&emsp;&emsp;(xi) Until the date by which the Commission issues regulations pursuant to section 251 of this title to require number portability, interim telecommunications number portability through remote call forwarding, direct inward dialing trunks, or other comparable arrangements, with as little impairment of functioning, quality, reliability, and convenience as possible. After that date, full compliance with such regulations.
+&emsp;&emsp;&emsp;(xi) Until the date by which the Commission issues regulations pursuant to section251 of this title to require number portability, interim telecommunications number portability through remote call forwarding, direct inward dialing trunks, or other comparable arrangements, with as little impairment of functioning, quality, reliability, and convenience as possible. After that date, full compliance with such regulations.
 
 &emsp;&emsp;&emsp;(xii) Nondiscriminatory access to such services or information as are necessary to allow the requesting carrier to implement local dialing parity in accordance with the requirements of section 251(b)(3) of this title.
 
@@ -96,7 +96,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (A) Consultation with the Attorney General
 
-&emsp;&emsp;The Commission shall notify the Attorney General promptly of any application under paragraph (1). Before making any determination under this subsection, the Commission shall consult with the Attorney General, and if the Attorney General submits any comments in writing, such comments shall be included in the record of the Commission'sdecision. In consulting with and submitting comments to the Commission under this paragraph, the Attorney General shall provide to the Commission an evaluation of the application using any standard the Attorney General considers appropriate. The Commission shall give substantial weight to the Attorney General's evaluation, but such evaluation shall not have any preclusive effect on any Commission decision under paragraph (3).
+&emsp;&emsp;The Commission shall notify the Attorney General promptly of any application under paragraph (1). Before making any determination under this subsection, the Commission shall consult with the Attorney General, and if the Attorney General submits any comments in writing, such comments shall be included in the record of the Commission's decision. In consulting with and submitting comments to the Commission under this paragraph, the Attorney General shall provide to the Commission an evaluation of the application using any standard the Attorney General considers appropriate. The Commission shall give substantial weight to the Attorney General's evaluation, but such evaluation shall not have any preclusive effect on any Commission decision under paragraph (3).
 
 #### (B) Consultation with State commissions
 
@@ -146,7 +146,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (1) Joint marketing of local and long distance services
 
-&emsp;Until a Bell operating company is authorized pursuant to subsection (d) to provide interLATA services in an in-region State, or until 36 months have passed since February 8, 1996, whichever is earlier, a telecommunications carrier that serves greater than 5 percent of the Nation's presubscribed access lines may not jointly market in such State telephone exchange service obtained from such company pursuant to section 251(c)(4) of this title with interLATA services offered by that telecommunications carrier.
+&emsp;Until a Bell operating company is authorized pursuant to subsection (d) to provide interLATA services in an in-region State, or until 36 months have passed since February 8, 1996, whichever is earlier, a telecommunications carrier that serves greater than 5 percent of the Nation's presubscribed access lines may not jointly market in such State telephone exchange service obtained from suchcompany pursuant to section 251(c)(4) of this title with interLATA services offered by that telecommunications carrier.
 
 #### (2) IntraLATA toll dialing parity
 
@@ -160,7 +160,7 @@ Neither a Bell operating company, nor any affiliate of a Bell operating company,
 
 #### (f) Exception for previously authorized activities
 
-Neither subsection (a) nor section 273 of this title shall prohibit a Bell operating company or affiliate from engaging, at any time after February 8, 1996, in any activity to the extent authorized by, and subject to the terms and conditions contained in, an order entered by the United States District Court for the District of Columbia pursuant to section VII or VIII(C) of the AT\&T Consent Decree if such order was entered on or before February 8, 1996, to the extentsuch order is not reversed or vacated on appeal. Nothing in this subsection shall be construed to limit, or to impose terms or conditions on, an activity in which a Bell operating company is otherwise authorized to engage under any other provision of this section.
+Neither subsection (a) nor section 273 of this title shall prohibit a Bell operating company or affiliate from engaging, at any time after February 8, 1996, in any activity to the extent authorized by, and subject to the terms and conditions contained in, an order entered by the United States District Court for the District of Columbia pursuant to section VII or VIII(C) of the AT\&T Consent Decree if such order was entered on or before February 8, 1996, to the extent such order is not reversed or vacated on appeal. Nothing in this subsection shall be construed to limit, or to impose terms or conditions on, an activity in which a Bell operating company is otherwise authorized to engage under any other provision of this section.
 
 #### (g) "Incidental interLATA services" defined
 

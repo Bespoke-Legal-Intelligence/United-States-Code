@@ -204,7 +204,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of determining the depreciation deduction allowable with respect to a property under this subsection, the taxpayer may include participations and residuals with respect to such property in the adjusted basis of such property for the taxable year in which the property is placed in service, but only to the extent that such participationsand residuals relate to income estimated (for purposes of this subsection) to be earned in connection with the property before the close of the 10th taxable year referred to in paragraph (1)(A).
+&emsp;&emsp;For purposes of determining the depreciation deduction allowable with respect to a property under this subsection, the taxpayer may include participations and residuals with respect to such property in the adjusted basis of such property for the taxable year in which the property is placed in service, but only to the extent that such participations and residuals relate to income estimated (for purposes of this subsection) to be earned in connection with the property before the close of the 10th taxable year referred to in paragraph (1)(A).
 
 #### (B) Participations and residuals
 
@@ -274,7 +274,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (1) In general
 
-&emsp;Any geological and geophysical expenses paid or incurred in connection with the exploration for, or development of, oil or gas within the United States (as defined in section 638) shall be allowed as a deduction ratably over the 24-month period beginning on the date that such expense was paid or incurred.
+&emsp;Any geological and geophysical expenses paid or incurred in connection with the exploration for, or development of, oil or gas withinthe United States (as defined in section 638) shall be allowed as a deduction ratably over the 24-month period beginning on the date that such expense was paid or incurred.
 
 #### (2) Half-year convention
 
@@ -296,7 +296,7 @@ In the case of property held by one person for life with remainder to another pe
 
 #### (B) Major integrated oil company
 
-&emsp;&emsp;For purposes of this paragraph, the term "major integrated oil company" means,with respect to any taxable year, a producer of crude oil—
+&emsp;&emsp;For purposes of this paragraph, the term "major integrated oil company" means, with respect to any taxable year, a producer of crude oil—
 
 &emsp;&emsp;&emsp;(i) which has an average daily worldwide production of crude oil of at least 500,000 barrels for the taxable year,
 
@@ -444,7 +444,7 @@ Subsec. (l)(3)(C). Pub. L. 97–34, §209(d)(3), inserted "and which is placed i
 
 Subsec. (m)(4). Pub. L. 97–34, §203(b), added par. (4).
 
-Subsecs. (n), (o). Pub. L. 97–34, §212(d)(1), struck out subsec. (n) which dealt with the use of the straight line method of depreciation in certain cases, and subsec. (o) which dealt with the method of depreciation to be usedin the case of substantially rehabilitated historic property.
+Subsecs. (n), (o). Pub. L. 97–34, §212(d)(1), struck out subsec. (n) which dealt with the use of the straight line method of depreciation in certain cases, and subsec. (o) which dealt with the method of depreciation to be used in the case of substantially rehabilitated historic property.
 
 Subsec. (r). Pub. L. 97–34, §203(c)(1), redesignated subsec. (s) as (r). Former subsec. (r), relating to the retirement-replacement-betterment method of calculating depreciation, was struck out.
 
@@ -524,7 +524,7 @@ Subsec. (l). Pub. L. 91–172, §441(a), added subsec. (l).
 
 Subsec. (m). Pub. L. 91–172, §521(a), redesignated former subsec. (j) as (m).
 
-<b>1967</b>—Subsec. (i)(1). Pub. L. 90–26, §2(b), provided that accelerated depreciation was not to apply if the physical construction, reconstruction or erection by any person was begun during the suspension period or begun, pursuant to an order placed during such period, before May 24, 1967, subject to the proviso that only that portion of the basis which was properly attributable to construction, reconstruction or erection before May 24, 1967, shall be affected by the applicability of the suspension period.
+<b>1967</b>—Subsec. (i)(1). Pub. L. 90–26, §2(b), provided that accelerated depreciation was not to apply if the physical construction, reconstruction or erection by any person was begun during the suspension period orbegun, pursuant to an order placed during such period, before May 24, 1967, subject to the proviso that only that portion of the basis which was properly attributable to construction, reconstruction or erection before May 24, 1967, shall be affected by the applicability of the suspension period.
 
 Subsec. (i)(3). Pub. L. 90–26, §1, substituted "March 9, 1967" for "December 31, 1967".
 
@@ -614,7 +614,7 @@ Amendment by section 201(d)(1) of Pub. L. 99–514 applicable to property placed
 
 Amendment by section 201(d)(1) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
-Amendment by section 1511(c)(4) of Pub. L. 99–514 applicable for purposes of determining interest for periods after Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
+Amendment by section 1511(c)(4) of Pub. L. 99–514 applicable for purposes of determining interest for periodsafter Dec. 31, 1986, see section 1511(d) of Pub. L. 99–514, set out as a note under section 47 of this title.
 
 Pub. L. 99–514, title XVIII, §1809(d)(1), Oct. 22, 1986, 100 Stat. 2821, provided that subsec. (c) is amended except with respect to property placed in service by the taxpayer on or before Mar. 28, 1985.
 
@@ -636,7 +636,7 @@ Pub. L. 96–613, §2(b), Dec. 28, 1980, 94 Stat. 3579, provided that: "The amen
 
 #### Effective and Termination Dates of 1978 Amendment
 
-Amendment by section 312(c)(4) of Pub. L. 95–600 applicable to taxable years ending after Dec. 31, 1978, seesection 312(d) of Pub. L. 95–600, set out as an Effective Date of 1978 Amendment note under section 46 of this title.
+Amendment by section 312(c)(4) of Pub. L. 95–600 applicable to taxable years ending after Dec. 31, 1978, see section 312(d) of Pub. L. 95–600, set out as an Effective Date of 1978 Amendment note under section 46 of this title.
 
 Pub. L. 95–600, title VII, §701(f)(8), Nov. 6, 1978, 92 Stat. 2903, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this subsection \[amending this section and sections 57, 191, 280B, 1245, and 1250 of this title\] shall take effect as if included in the respective provisions of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to which such amendments relate, as such provision\[s\] were added to such Code, or amended, by section 2124 of the Tax Reform Act of 1976 \[Pub. L. 94–455, title XXI, §2124, Oct. 4, 1976, 90 Stat. 1916\]."
 
@@ -686,7 +686,7 @@ Amendment by section 13(b) of Pub. L. 87–834 applicable to taxable years begin
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable only if mailing occurs after Sept. 2, 1958, see section 89(d) of Pub. L. 85–866, set out as a note under section 7502 of this title.
+Amendment by Pub. L. 85–866 applicable only if mailing occurs after Sept. 2, 1958, see section 89(d) of Pub.L. 85–866, set out as a note under section 7502 of this title.
 
 #### Savings Provision
 
@@ -706,7 +706,7 @@ Change in method of accounting.—Sections 446 and 481 of the Internal Revenue C
 
 "(3)
 
-Transitional rule.—The adjusted basis of RRB property (as defined in section 168(g)(6) of such Code) as of December 31, 1980, shall be depreciated using a useful life of no less than 5 years and no more than 50 years and a method described in section 167(b) of such Code, including the method described in section 167(b)(2) ofsuch Code, switching to the method described in section 167(b)(3) of such Code at a time to maximize the deduction."
+Transitional rule.—The adjusted basis of RRB property (as defined in section 168(g)(6) of such Code) as of December 31, 1980, shall be depreciated using a useful life of no less than 5 years and no more than 50 years and a method described in section 167(b) of such Code, including the method described in section 167(b)(2) of such Code, switching to the method described in section 167(b)(3) of such Code at a time to maximize the deduction."
 
 #### Internal Revenue Code Provisions Relating to Depreciation as Not Applicable to Calculations of Secretary of Health and Human Services in Determining Costs of Programs
 

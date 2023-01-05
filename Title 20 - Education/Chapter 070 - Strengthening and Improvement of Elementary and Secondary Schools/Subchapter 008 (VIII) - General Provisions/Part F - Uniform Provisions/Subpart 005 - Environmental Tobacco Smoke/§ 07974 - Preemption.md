@@ -8,7 +8,7 @@ Nothing in this subpart <sup>1</sup> is intended to preempt any provision of la
 
 #### References in Text
 
-This subpart, referred to in text, was in the original "this part", and was translated as reading "this subpart", to reflect the probable intent of Congress. Pub.L. 114–95 redesignated part C of title IV of Pub. L. 89–10 as subpart 5 of part F of title VIII of Pub. L. 89–10, which is classified to this subpart.
+This subpart, referred to in text, was in the original "this part", and was translated as reading "this subpart", to reflect the probable intent of Congress. Pub. L. 114–95 redesignated part C of title IV of Pub. L. 89–10 as subpart 5 of part F of title VIII of Pub. L. 89–10, which is classified to this subpart.
 
 #### Codification
 

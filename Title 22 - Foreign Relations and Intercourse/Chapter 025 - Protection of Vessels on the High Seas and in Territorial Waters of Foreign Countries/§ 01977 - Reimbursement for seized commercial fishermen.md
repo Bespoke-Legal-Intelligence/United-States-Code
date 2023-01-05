@@ -2,7 +2,7 @@
 
 #### (a) Agreement to reimburse for actual costs, confiscation or spoilage of fish, and loss of income
 
-The Secretary, upon receipt of an application filed with him at any time after the effectivedate of this section by the owner of any vessel of the United States which is documented or certificated as a commercial fishing vessel, shall enter into an agreement with such owner subject to the provision of this section and such other terms and conditions as the Secretary deems appropriate. Such agreement shall provide that, if said vessel is seized by a foreign country and detained under the conditions of section 1972 of this title, the Secretary shall guarantee—
+The Secretary, upon receipt of an application filed with him at any time after the effective date of this section by the owner of any vessel of the United States which is documented or certificated as a commercial fishing vessel, shall enter into an agreement with such owner subject to the provision of this section and such other terms and conditions as the Secretary deems appropriate. Such agreement shall provide that, if said vessel is seized by a foreign country and detained under the conditions of section 1972 of this title, the Secretary shall guarantee—
 
 &emsp;(1) the owner of such vessel for all actual costs, except those covered by section 1973 of this title, incurred by the owner during the seizure and detention period and as a direct result thereof, as determined by the Secretary, resulting (A) from any damage to, or destruction of, such vessel, or its fishing gear or other equipment, (B) from the loss or confiscation of such vessel, gear, or equipment, or (C) from dockage fees or utilities;
 
@@ -12,7 +12,7 @@ The Secretary, upon receipt of an application filed with him at any time after t
 
 #### (b) Distribution of payments according to commercial fishing practices and procedures
 
-Payments made by the Secretary under paragraphs (2) and (3) of subsection (a) of this section shall be distributed by the Secretary in accordance with the usual practices and procedures of the particular segment of the United States commercial fishing industry to which the seized vessel belongs relative to the sale of fish caught and the distribution of the proceeds of such sale.
+Payments made by the Secretary under paragraphs (2) and (3) of subsection (a) of this sectionshall be distributed by the Secretary in accordance with the usual practices and procedures of the particular segment of the United States commercial fishing industry to which the seized vessel belongs relative to the sale of fish caught and the distribution of the proceeds of such sale.
 
 #### (c) Establishment of fees; amount of fees; credit of fees to separate Treasury account; payment from collected fees; authorization of appropriations
 

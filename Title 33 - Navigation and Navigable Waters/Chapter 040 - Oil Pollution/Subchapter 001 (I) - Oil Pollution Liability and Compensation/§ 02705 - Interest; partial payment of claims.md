@@ -12,7 +12,7 @@ The responsible party or the responsible party's guarantor is liable to a claima
 
 #### (2) Exclusion of period due to offer by guarantor
 
-&emsp;If the guarantor offers to the claimant an amount equal to or greater than that finally paid in satisfaction of the claim, the period described in paragraph (1) does not include the period beginning on the date the offer is made and ending on the date the offer is accepted. If the offer is made within 60 days after the date on which the claim is presented under section 2713(a) of this title, the period described in paragraph (1) does not include any period before the offer is accepted.
+&emsp;If the guarantor offers to the claimant an amount equal to or greater than that finally paid in satisfaction of the claim, the period described in paragraph (1) does not include theperiod beginning on the date the offer is made and ending on the date the offer is accepted. If the offer is made within 60 days after the date on which the claim is presented under section 2713(a) of this title, the period described in paragraph (1) does not include any period before the offer is accepted.
 
 #### (3) Exclusion of periods in interests of justice
 
@@ -20,7 +20,13 @@ The responsible party or the responsible party's guarantor is liable to a claima
 
 #### (4) Calculation of interest
 
-&emsp;The interest paid under this section shall be calculated at the average of the highest rate for commercial and finance company paper of maturities of 180 days or less obtaining on each of the days included within the period for which interest must be paid to the claimant, as published in the Federal Reserve Bulletin.
+#### (A) In general
+
+&emsp;&emsp;The interest paid for claims, other than Federal Government cost recovery claims, under this section shall be calculated at the average of the highest rate for commercial and finance company paper of maturities of 180 days or less obtaining on each of the days included within the period for which interest must be paid to the claimant, as published in the Federal Reserve Bulletin.
+
+#### (B) Federal cost recovery claims
+
+&emsp;&emsp;The interest paid for Federal Government cost recovery claims under this section shall be calculated in accordance with section 3717 of title 31.
 
 #### (5) Interest not subject to liability limits
 
@@ -32,7 +38,7 @@ The responsible party or the responsible party's guarantor is liable to a claima
 
 &emsp;&emsp;The payment of interest under this subsection by a guarantor is subject to section 2716(g) of this title.
 
-(Pub. L. 101–380, title I, §1005, Aug. 18, 1990, 104 Stat. 493; Pub. L. 104–324, title XI, §1142(a), Oct. 19, 1996, 110 Stat. 3991.)
+(Pub. L. 101–380, title I, §1005, Aug. 18, 1990, 104 Stat. 493; Pub. L. 104–324, title XI, §1142(a), Oct. 19, 1996, 110 Stat. 3991; Pub. L. 117–263, div. K, title CXIII, §11311, Dec. 23, 2022, 136 Stat. 4086.)
 
 #### <b>Editorial Notes</b>
 
@@ -41,6 +47,8 @@ The responsible party or the responsible party's guarantor is liable to a claima
 This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(4). Pub. L. 117–263 designated existing provisions as subpar. (A) and inserted heading, substituted "The interest paid for claims, other than Federal Government cost recovery claims," for "The interest paid", and added subpar. (B).
 
 <b>1996</b>—Pub. L. 104–324, §1142(a)(1), inserted "; partial payment of claims" after "Interest" in section catchline.
 

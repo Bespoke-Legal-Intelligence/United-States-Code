@@ -94,7 +94,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;&emsp;(i) offering to substitute the local network signal for the duplicating distant network signal; and
 
-&emsp;&emsp;&emsp;(ii) informing the subscriber that, if the subscriber fails to respond in 60 days, thesubscriber will lose the distant network signal but will be permitted to subscribe to the local network signal; and
+&emsp;&emsp;&emsp;(ii) informing the subscriber that, if the subscriber fails to respond in 60 days, the subscriber will lose the distant network signal but will be permitted to subscribe to the local network signal; and
 
 &emsp;&emsp;(B) if the subscriber—
 
@@ -174,7 +174,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 #### (A) Consent to disclosure
 
-&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concernedand shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
+&emsp;&emsp;Except as provided in subparagraph (B), a satellite carrier shall not disclose personally identifiable information concerning any subscriber without the prior written or electronic consent of the subscriber concerned and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or satellite carrier.
 
 #### (B) Exceptions
 
@@ -336,7 +336,7 @@ As used in this section:
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(2), was in the original "this Act", meaning act June 19, 1934, ch. 652,48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (a)(2), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 Section 119(a)(14) of title 17, referred to in subsec. (a)(3), was redesignated as section 119(a)(13) of title 17 by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224. However, provision relating to signals of low power television station was section 119(a)(15) of title 17, which was repealed by section 102(h)(1)(C) of Pub. L. 111–175.
 
@@ -446,7 +446,7 @@ Termination.—The requirement under paragraph (1) shall cease after each satell
 
 Definitions.—In this section—
 
-&emsp;"(1) the terms 'local market' and 'satellite carrier' have the meaning given such terms in section 339(d) of the Communications Act of 1934 (47 U.S.C. 339(d)); and
+&emsp;"(1) the terms 'local market' and 'satellite carrier' have the meaning given such terms in section 339(d)of the Communications Act of 1934 (47 U.S.C. 339(d)); and
 
 &emsp;"(2) the term 'television broadcast station' has the meaning given such term in section 325(b)(7) of the Communications Act of 1934 (47 U.S.C. 325(b)(7))."
 
@@ -562,7 +562,7 @@ Limitation on commission.—Except as provided in paragraphs (1) and (2), the Co
 
 "(c)
 
-Report.—Not later than January 1, 2001, the Commission shall report to the Agriculture, Appropriations, and the Judiciary Committees of the Senate and the House of Representatives, the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\], on the extent to which licenses and other authorizations under subsection (a) have facilitated the delivery of local signals to satellite television subscribers in unserved and underserved local television markets. The report shall include—
+Report.—Not later than January 1, 2001, the Commission shall report to the Agriculture, Appropriations, and the Judiciary Committees of the Senate and the House of Representatives, the Senate Committee onCommerce, Science, and Transportation, and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\], on the extent to which licenses and other authorizations under subsection (a) have facilitated the delivery of local signals to satellite television subscribers in unserved and underserved local television markets. The report shall include—
 
 &emsp;"(1) an analysis of the extent to which local signals are being provided by direct-to-home satellite television providers and by other multichannel video program distributors;
 

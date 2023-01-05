@@ -36,7 +36,7 @@ June 30, 1949, ch. 288, title IX, §903, as added Pub. L. 92–582, Oct. 27, 197
 
 In subsection (b), the words "engaged in the lawful practice of their profession" are omitted as unnecessary because of the definition of "firm" in section 1102 of the revised title.
 
-In subsection (c), the words "compare alternative methods for furnishing services" are substituted for "the relative utility of alternative methods of approach for furnishing the required services" to eliminate unnecessary words.
+In subsection (c), the words "compare alternative methods for furnishing services" are substituted for"the relative utility of alternative methods of approach for furnishing the required services" to eliminate unnecessary words.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

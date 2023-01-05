@@ -58,7 +58,7 @@ Whenever any State or region has submitted a State or regional plan under this s
 
 #### (f) Authorization of appropriations
 
-To carry out the purposes of this section, there are authorized to be appropriated not to exceed $3,300,000 for each of the fiscal years ending September 30, 1981, September 30, 1982, and September 30, 1983.
+To carry out the purposes of this section, there are authorized to be appropriated not toexceed $3,300,000 for each of the fiscal years ending September 30, 1981, September 30, 1982, and September 30, 1983.
 
 (Pub. L. 96–358, §4, Sept. 25, 1980, 94 Stat. 1185.)
 
@@ -68,7 +68,7 @@ To carry out the purposes of this section, there are authorized to be appropriat
 
 Act of July 2, 1862 (7 U.S.C. 301–305, 307, and 308), referred to in subsec. (a)(1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under 301 of this title and Tables.
 
-Act of August 30, 1890 (7 U.S.C. 321–326 and 328), referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890 (7 U.S.C. 321–326 and 328), referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 #### Codification
 

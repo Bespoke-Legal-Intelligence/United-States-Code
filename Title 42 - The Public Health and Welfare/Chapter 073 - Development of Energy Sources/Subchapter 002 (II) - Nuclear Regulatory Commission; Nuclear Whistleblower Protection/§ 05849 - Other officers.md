@@ -42,7 +42,7 @@ Subsec. (e). Pub. L. 95–601, §4(b), redesignated former subsec. (c) as (e).
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to forwarding of annual report to Congress, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31,Money and Finance, and the 10th item on page 186 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (d) of this section relating to forwarding of annual report to Congress, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and the 10th item on page 186 of House Document No. 103–7.
 
 #### <b>Executive Documents</b>
 

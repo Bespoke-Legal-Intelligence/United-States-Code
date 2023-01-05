@@ -40,7 +40,7 @@ The Secretary shall ensure that all the geospatial data of the agencies of the D
 
 &emsp;&emsp;&emsp;(ii) specific data gathering site; or
 
-&emsp;&emsp;(C) the disclosure of information described in paragraph (2) pursuant to the consent ofthe agricultural producer or owner of agricultural land.
+&emsp;&emsp;(C) the disclosure of information described in paragraph (2) pursuant to the consent of the agricultural producer or owner of agricultural land.
 
 #### (5) Condition of other programs
 

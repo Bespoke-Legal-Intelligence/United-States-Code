@@ -70,7 +70,7 @@ Administrative requirements.—The Secretary may not approve a State highway saf
 
 &emsp;&emsp;(E) beginning on the first day of the first fiscal year after the date of enactment of the Motor Vehicle and Highway Safety Improvement Act of 2012 for which a State submits its highway safety plan under subsection (k), provide for a data-driven traffic safety enforcement program to prevent traffic violations, crashes, and crash fatalities and injuries in areas most at risk for such incidents, to the satisfaction of the Secretary;
 
-&emsp;&emsp;(F) provide satisfactory assurances that the State will implement activities in support of national highway safety goals to reduce motor vehicle related fatalities that also reflect the primary data-related crash factors within a State as identified by the State highway safety planning process, including—
+&emsp;&emsp;(F) provide satisfactory assurances that the State will implement activities in support of national highway safety goals to reduce motor vehicle related fatalities thatalso reflect the primary data-related crash factors within a State as identified by the State highway safety planning process, including—
 
 &emsp;&emsp;&emsp;(i) national law enforcement mobilizations and high-visibility law enforcement mobilizations coordinated by the Secretary;
 
@@ -296,7 +296,7 @@ Use of funds.—Statewide efforts under paragraph (1)—
 
 &emsp;&emsp;&emsp;(v) conducting outreach and providing educational resources for parents;
 
-&emsp;&emsp;&emsp;(vi) establishing State or regional advisory councils comprised of teen drivers to provide input and recommendations to the governor and the governor's safety representative on issues related to the safety of teen drivers;
+&emsp;&emsp;&emsp;(vi) establishing State or regional advisory councils comprised of teen drivers toprovide input and recommendations to the governor and the governor's safety representative on issues related to the safety of teen drivers;
 
 &emsp;&emsp;&emsp;(vii) collaborating with law enforcement;
 
@@ -388,7 +388,7 @@ Program placement.—Nothing in this subsection requires a State to carry out a 
 
 &emsp;&emsp;&emsp;<i>(xii) to provide to the public information relating to the risks of child heatstroke death when left unattended in a motor vehicle after the motor is deactivated by the operator;</i>
 
-&emsp;&emsp;&emsp;<i>(xiii) to reduce injuries and deaths resulting from the failure by drivers of motor vehicles to move to another traffic lane or reduce the speed of the vehicle when law enforcement, fire service, emergency medical services, or other emergency or first responder vehicles are stopped or parked on or next to a roadway with emergency lights activated; and</i>
+&emsp;&emsp;&emsp;<i>(xiii) to reduce injuries and deaths resulting from the failure by drivers of motor vehicles to move to another traffic lane or reduce the speed of the vehicle when law enforcement, fire service, emergency medical services, or other emergency or first responder vehicles</i><i>are stopped or parked on or next to a roadway with emergency lights activated; and</i>
 
 &emsp;&emsp;&emsp;<i>(xiv) to prevent crashes, injuries, and deaths caused by unsecured vehicle loads;</i>
 
@@ -552,7 +552,7 @@ Program placement.—Nothing in this subsection requires a State to carry out a 
 
 &emsp;&emsp;&emsp;<i>(i)</i>
 
-<i>In general.—A highway safety program approved by the Secretary shall not include any requirement that a State shall implement such a program by adopting or enforcing any</i><i>law, rule, or regulation based on a guideline promulgated by the Secretary under this section requiring any motorcycle operator aged 18 years or older, or a motorcycle passenger aged 18 years or older, to wear a safety helmet when operating or riding a motorcycle on the streets and highways of that State.</i>
+<i>In general.—A highway safety program approved by the Secretary shall not include any requirement that a State shall implement such a program by adopting or enforcing any law, rule, or regulation based on a guideline promulgated by the Secretary under this section requiring any motorcycle operator aged 18 years or older, or a motorcycle passenger aged 18 years or older, to wear a safety helmet when operating or riding a motorcycle on the streets and highways of that State.</i>
 
 &emsp;&emsp;&emsp;<i>(ii)</i>
 
@@ -590,7 +590,7 @@ Program placement.—Nothing in this subsection requires a State to carry out a 
 
 <i>Automated traffic enforcement system guidelines.—An automated traffic enforcement system installed pursuant to subparagraph (C) shall comply with such guidelines applicable to speed enforcement camera systems and red light camera systems as are established by the Secretary.</i>
 
-<i>(d) All provisions of chapter 1 of this title that are applicable to National Highway System highway funds other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the highway safety funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section, and except that the aggregate of all expenditures made during any fiscal year by a State and its political subdivisions (exclusive of Federal funds) for carrying out the State highway safety program (other than planning and administration) shall be available for the purpose of crediting such State during such fiscal year for the non-Federal share of the cost of any project under this section (other than one for planning or administration) without regard to whether such expenditures were actually made in connection with such project and except that, in the case of a local highway safety program carried out by an Indian tribe, if the Secretary is satisfied that an Indian tribe does not have sufficient funds available to meet the non-Federal share of the cost of such program, he may increase the Federal share of the cost thereof payable under this Act to the extent necessary. In applying such provisions of chapter 1 in carrying out this section the term "State transportation department" as used in such provisions shall mean the Governor of a State for the purposes of this section.</i>
+<i>(d) All provisions of chapter 1 of this title that are applicable to National Highway System highway funds other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the highway safety funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section, and except that the aggregate of all expenditures made during any fiscal year by a State and its political subdivisions (exclusive of Federal funds) for carrying out the State highway safety program (other than planning and administration) shall be available for the purpose of cred</i><i>iting such State during such fiscal year for the non-Federal share of the cost of any project under this section (other than one for planning or administration) without regard to whether such expenditures were actually made in connection with such project and except that, in the case of a local highway safety program carried out by an Indian tribe, if the Secretary is satisfied that an Indian tribe does not have sufficient funds available to meet the non-Federal share of the cost of such program, he may increase the Federal share of the cost thereof payable under this Act to the extent necessary. In applying such provisions of chapter 1 in carrying out this section the term "State transportation department" as used in such provisions shall mean the Governor of a State for the purposes of this section.</i>
 
 <i>(e) Uniform guidelines promulgated by the Secretary to carry out this section shall be developed in cooperation with the States, their political subdivisions, appropriate Federal departments and agencies, and such other public and private organizations as the Secretary deems appropriate.</i>
 
@@ -732,7 +732,7 @@ Program placement.—Nothing in this subsection requires a State to carry out a 
 
 &emsp;&emsp;<i>(E)</i>
 
-<i>Review of resubmitted plans.—If the Secretary requires a State to resubmit a triennial</i><i>highway safety plan, with modifications, the Secretary shall review and approve or disapprove the modified plan not later than 30 days after the date on which the Secretary receives such plan.</i>
+<i>Review of resubmitted plans.—If the Secretary requires a State to resubmit a triennial highway safety plan, with modifications, the Secretary shall review and approve or disapprove the modified plan not later than 30 days after the date on which the Secretary receives such plan.</i>
 
 &emsp;&emsp;<i>(F)</i>
 
@@ -790,7 +790,7 @@ Program placement.—Nothing in this subsection requires a State to carry out a 
 
 &emsp;<i>(1)</i>
 
-<i>In general.—Subject to the requirements of the applicable triennial highway safety plan of the State, as approved by the Secretary under subsection (k), a State may use a portion of the amounts received under this section to implement statewide efforts to improve traffic safety for teen drivers.</i>
+<i>In general.—Subject to the requirements of the applicable triennial highway safety plan of</i><i>the State, as approved by the Secretary under subsection (k), a State may use a portion of the amounts received under this section to implement statewide efforts to improve traffic safety for teen drivers.</i>
 
 &emsp;<i>(2)</i>
 
@@ -1086,7 +1086,7 @@ Subsec. (d). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted "State transport
 
 Subsec. (i). Pub. L. 105–178, §2001(d), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: "For the purpose of the application of this section on Indian reservations, 'State' and 'Governor of a State' includes the Secretary of the Interior and 'political subdivision of a State' includes an Indian tribe: <i>Provided</i>, That, notwithstanding the provisions of subparagraph (C) of subsection (b)(1) hereof, 95 per centum of the funds apportioned to the Secretary of the Interior after date of enactment, shall be expended by Indian tribes to carry out highway safety programs within their jurisdictions: <i>And provided further</i>, That the provisions of subparagraph (E) of subsection (b)(1) hereof shall be applicable except in those tribal jurisdictions in which the Secretary determines such programs would not be practicable."
 
-Subsec. (j). Pub. L. 105–178, §2001(e), amended heading and text of subsec. (j) generally. Prior to amendment, text read as follows: "The Secretary shall, not later than September 1, 1987, begin a rulemaking process to determine those programs most effective in reducing accidents, injuries, and deaths. Not later than April 1,1988, the Secretary shall promulgate a final rule establishing those programs determined to be most effective in reducing accidents, injuries, and deaths. If such rule is promulgated by April 1, 1988, then it shall take effect October 1, 1988. If such rule is not promulgated by April 1, 1988, it shall take effect October 1, 1989. After a rule is promulgated in accordance with this subsection, the Secretary may from time to time thereafter revise such rule under a rulemaking process described in the first sentence of this subsection. Any rule under this subsection shall be promulgated taking into account consideration of the States having a major role in establishing programs described in the first sentence of this subsection. When a rule promulgated in accordance with this subsection takes effect, only those programs established by such rule as most effective in reducing accidents, injuries, and deaths shall be eligible to receive Federal financial assistance under this section."
+Subsec. (j). Pub. L. 105–178, §2001(e), amended heading and text of subsec. (j) generally. Prior to amendment, text read as follows: "The Secretary shall, not later than September 1, 1987, begin a rulemaking process to determine those programs most effective in reducing accidents, injuries, and deaths. Not later than April 1, 1988, the Secretary shall promulgate a final rule establishing those programs determined to be most effective in reducing accidents, injuries, and deaths. If such rule is promulgated by April 1, 1988, then it shall take effect October 1, 1988. If such rule is not promulgated by April 1, 1988, it shall take effect October 1, 1989. After a rule is promulgated in accordance with this subsection, the Secretary may from time to time thereafter revise such rule under a rulemaking process described in the first sentence of this subsection. Any rule under this subsection shall be promulgated taking into account consideration of the States having a major role in establishing programs described in the first sentence of this subsection. When a rule promulgated in accordance with this subsection takes effect, only those programs established by such rule as most effective in reducing accidents, injuries, and deaths shall be eligible to receive Federal financial assistance under this section."
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–66 struck out after fourth sentence "If the Secretary does not designate as priority programs those programs described in the preceding sentence, the Secretary shall submit to Congress a report describing the reasons for not prioritizing such programs."
 
@@ -1114,7 +1114,7 @@ Subsec. (k). Pub. L. 98–363, §5, added subsec. (k).
 
 <b>1983</b>—Subsec. (c). Pub. L. 97–424 struck out provision that apportionments to Virgin Islands, Guam, and American Samoa were not to be less than one third of 1 per centum of total apportionment from provision relating to the minimum apportionment for each State.
 
-<b>1981</b>—Subsec. (b)(1). Pub. L. 97–35, §1107(e), struck out subpar. (D) which related to aggregate expenditure offunds, and redesignated subpars. (E) to (G) as (D) to (F), respectively.
+<b>1981</b>—Subsec. (b)(1). Pub. L. 97–35, §1107(e), struck out subpar. (D) which related to aggregate expenditure of funds, and redesignated subpars. (E) to (G) as (D) to (F), respectively.
 
 Subsec. (h). Pub. L. 97–35, §1107(c), struck out subsec. (h) which related to continuation in effect of uniform safety standards promulgated on or before July 1, 1973.
 
@@ -1426,7 +1426,7 @@ Pub. L. 117–58, div. B, title IV, §24113(b), Nov. 15, 2021, 135 Stat. 818, pr
 
 "(1)
 
-In general.—Not later than 2 years after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary \[of Transportation\] shall implement the recommendations of the Comptroller General of theUnited States contained in the report entitled 'Pedestrians and Cyclists: Better Information to States and Enhanced Performance Management Could Help DOT Improve Safety', numbered GAO–21–405, and dated May 20, 2021, by—
+In general.—Not later than 2 years after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary \[of Transportation\] shall implement the recommendations of the Comptroller General of the United States contained in the report entitled 'Pedestrians and Cyclists: Better Information to States and Enhanced Performance Management Could Help DOT Improve Safety', numbered GAO–21–405, and dated May 20, 2021, by—
 
 &emsp;"(A) carrying out measures to collect information relating to the range of countermeasures implemented by States;
 
@@ -1476,7 +1476,7 @@ Pub. L. 112–141, div. C, title I, §31101(d)–(f), July 6, 2012, 126 Stat. 73
 
 #### Safe Routes to School Program
 
-Pub. L. 109–59, title I, §1404, Aug. 10, 2005, 119 Stat. 1228, as amended by Pub. L. 110–244, §101(s)(2), June 6, 2008, 122 Stat. 1577, which required the Secretary of Transportation to establish and carry out a safe routes to school program for the benefit of children in primary and middle schools and apportioned funds to carry out such program to States, was repealed by Pub. L. 117–58, div. A, title I, §11119(b)(2), Nov. 15, 2021, 135 Stat. 497, effective Oct. 1, 2021. See section 208 of this title.
+Pub. L. 109–59, title I, §1404, Aug. 10, 2005, 119 Stat. 1228, as amended by Pub. L. 110–244, §101(s)(2), June 6,2008, 122 Stat. 1577, which required the Secretary of Transportation to establish and carry out a safe routes to school program for the benefit of children in primary and middle schools and apportioned funds to carry out such program to States, was repealed by Pub. L. 117–58, div. A, title I, §11119(b)(2), Nov. 15, 2021, 135 Stat. 497, effective Oct. 1, 2021. See section 208 of this title.
 
 #### Roadway Safety
 
@@ -1534,7 +1534,7 @@ Pub. L. 109–59, title I, §1906, Aug. 10, 2005, 119 Stat. 1468, as amended by 
 
 Grants.—Subject to the requirements of this section, the Secretary \[of Transportation\] shall make grants to a State that—
 
-&emsp;"(1) is maintaining and allows public inspection of statistical information for each motor vehicle stopmade by a law enforcement officer on a Federal-aid highway in the State regarding the race and ethnicity of the driver; or
+&emsp;"(1) is maintaining and allows public inspection of statistical information for each motor vehicle stop made by a law enforcement officer on a Federal-aid highway in the State regarding the race and ethnicity of the driver; or
 
 &emsp;"(2) provides assurances satisfactory to the Secretary that the State is undertaking activities to comply with the requirements of paragraph (1).
 
@@ -1642,7 +1642,7 @@ Funding.—From amounts made available under section 210 \[probably should be se
 
 #### Bicycle and Pedestrian Safety Grants
 
-Pub. L. 105–178, title I, §1212(i), formerly §1212(o), June 9, 1998, 112 Stat. 196; renumbered §1212(i), Pub. L. 105–206, title IX, §9003(e)(5), July 22, 1998, 112 Stat. 840, and amended by Pub. L. 108–88, §5(a)(8), Sept. 30, 2003, 117 Stat. 1114; Pub. L. 108–202, §5(a)(8), Feb. 29, 2004, 118 Stat. 481; Pub. L. 108–224, §4(a)(8), Apr. 30, 2004, 118 Stat. 629; Pub. L. 108–263, §4(a)(8), June 30, 2004, 118 Stat. 700; Pub. L. 108–280, §4(a)(8), July 30, 2004, 118 Stat. 879; Pub.L. 108–310, §5(a)(8), Sept. 30, 2004, 118 Stat. 1149; Pub. L. 109–14, §4(a)(8), May 31, 2005, 119 Stat. 326; Pub. L. 109–20, §4(a)(8), July 1, 2005, 119 Stat. 348; Pub. L. 109–35, §4(a)(8), July 20, 2005, 119 Stat. 381; Pub. L. 109–37, §4(a)(8), July 22, 2005, 119 Stat. 396; Pub. L. 109–40, §4(a)(8), July 28, 2005, 119 Stat. 412; Pub. L. 109–59, title I, §1111(b)(4), Aug. 10, 2005, 119 Stat. 1171, provided that:
+Pub. L. 105–178, title I, §1212(i), formerly §1212(o), June 9, 1998, 112 Stat. 196; renumbered §1212(i), Pub. L. 105–206, title IX, §9003(e)(5), July 22, 1998, 112 Stat. 840, and amended by Pub. L. 108–88, §5(a)(8), Sept. 30, 2003, 117 Stat. 1114; Pub. L. 108–202, §5(a)(8), Feb. 29, 2004, 118 Stat. 481; Pub. L. 108–224, §4(a)(8), Apr. 30, 2004, 118 Stat. 629; Pub. L. 108–263, §4(a)(8), June 30, 2004, 118 Stat. 700; Pub. L. 108–280, §4(a)(8), July 30, 2004, 118 Stat. 879; Pub. L. 108–310, §5(a)(8), Sept. 30, 2004, 118 Stat. 1149; Pub. L. 109–14, §4(a)(8), May 31, 2005, 119 Stat. 326; Pub. L. 109–20, §4(a)(8), July 1, 2005, 119 Stat. 348; Pub. L. 109–35, §4(a)(8), July 20, 2005, 119 Stat. 381; Pub. L. 109–37, §4(a)(8), July 22, 2005, 119 Stat. 396; Pub. L. 109–40, §4(a)(8), July 28, 2005, 119 Stat. 412; Pub. L. 109–59, title I, §1111(b)(4), Aug. 10, 2005, 119 Stat. 1171, provided that:
 
 "(1)
 
@@ -1706,7 +1706,7 @@ Definitions.—For purposes of this section—
 
 &emsp;"(1)
 
-Uniform system for handicapped parking.—A uniform system for handicapped parking designed to enhance the safety of handicapped individuals is a system which—
+Uniform system for handicapped parking.—A uniform system for handicapped parking designed toenhance the safety of handicapped individuals is a system which—
 
 &emsp;&emsp;"(A) adopts the International Symbol of Access (as adopted by Rehabilitation International in 1969 at its 11th World Congress on Rehabilitation of the Disabled) as the only recognized symbol for the identification of vehicles used for transporting individuals with handicaps which limit or impair the ability to walk;
 
@@ -1798,7 +1798,7 @@ Set-aside.—Before apportioning any funds made available to carry out section 4
 
 &emsp;"(2)
 
-Application.—Any State interested in receiving under this subsection a grant to implement schoolbus safety measures in fiscal year 1989, 1990, or 1991 shall submit to the Secretary an application for such grant. Applications under this subsection shall be submitted at such time and in such form and contain such information as the Secretary may require by regulation.
+Application.—Any State interested in receiving under this subsection a grant to implement schoolbus safety measures in fiscal year 1989, 1990, or1991 shall submit to the Secretary an application for such grant. Applications under this subsection shall be submitted at such time and in such form and contain such information as the Secretary may require by regulation.
 
 &emsp;"(3)
 
@@ -1886,7 +1886,7 @@ Section 1. <i>Policies</i>. (a) <i>Seat Belt Use by Federal Employees</i>. Each 
 
 Sec. 2. <i>Scope of Order</i>. All agencies of the executive branch are directed to promulgate rules and take other appropriate measures within their existing programs to further the policies of this order. This includes, but is not limited to, conducting education, awareness, and other appropriate programs for Federal employees about the importance of wearing seat belts and the consequences of not wearing them. It also includes encouraging Federal contractors, subcontractors, and grantees to conduct such programs. In addition, the National Park Service and the Department of Defense are directed to initiate rulemaking to consider regulatory changes with respect to enhanced seat belt use requirements and standard (primary) enforcement of such requirements in national park areas and on Defense installations, consistent with the policies outlined in this order, and to widely publicize and actively enforce such regulations. The term "agency" as used in this order means an Executive department, as defined in 5 U.S.C. 101, or any employing unit or authority of the Federal Government, other than those of the legislative and judicial branches.
 
-Sec. 3. <i>Coordination</i>. The Secretary of Transportation shall provide leadership and guidance to the heads ofexecutive branch agencies to assist them with the employee seat belt programs established pursuant to this order. The Secretary of Transportation shall also cooperate and consult with the legislative and judicial branches of the Government to encourage and help them to adopt seat belt use programs.
+Sec. 3. <i>Coordination</i>. The Secretary of Transportation shall provide leadership and guidance to the heads of executive branch agencies to assist them with the employee seat belt programs established pursuant to this order. The Secretary of Transportation shall also cooperate and consult with the legislative and judicial branches of the Government to encourage and help them to adopt seat belt use programs.
 
 Sec. 4. <i>Other Powers and Duties</i>. Nothing in this order shall be construed to impair or alter the powers and duties of the heads of the various Federal agencies pursuant to the Highway Safety Act of 1966, 23 U.S.C. 402 and 403, as amended, section 19 of the Occupational Safety and Health Act of 1970, 29 U.S.C. 668, as amended, or sections 7901, 7902, and 7903 of title 5, United States Code, nor shall it be construed to affect any right, duty, or procedure under the National Labor Relations Act, 29 U.S.C. 151 <i>et seq</i>.
 
@@ -1932,7 +1932,7 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 &emsp;(i) Authority granted by law or Executive Order to an agency, or the head thereof;
 
-&emsp;(ii) Powers and duties of the heads of the various departments and agencies pursuant to the Highway Safety Act of 1966, as amended, 23 U.S.C. 402 and 403, section 19 of the Occupational Safety and Health Actof 1970, as amended, 29 U.S.C. 668, sections 7901 and 7902 of title 5, United States Code, or the Federal Property and Administrative Services Act of 1949, as amended, 40 U.S.C. 101 <i>et seq</i>.;
+&emsp;(ii) Powers and duties of the heads of the various departments and agencies pursuant to the Highway Safety Act of 1966, as amended, 23 U.S.C. 402 and 403, section 19 of the Occupational Safety and Health Act of 1970, as amended, 29 U.S.C. 668, sections 7901 and 7902 of title 5, United States Code, or the Federal Property and Administrative Services Act of 1949, as amended, 40 U.S.C. 101 <i>et seq</i>.;
 
 &emsp;(iii) Rights, duties, or procedures under the National Labor Relations Act, 29 U.S.C. 151 <i>et seq</i>.; or
 

@@ -12,7 +12,7 @@ The text of subsec. (d) of section 2320 of this title, which was transferred to 
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1833(d), transferred subsec. (d) of section 2320 of this title to this section, struck out subsec. (d) designation at beginning, and substituted "this section" for "this subsection".
+<b>2021</b>—Pub. L. 116–283, §1833(d), transferred subsec. (d) of section 2320 of this title to this section, struck outsubsec. (d) designation at beginning, and substituted "this section" for "this subsection".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

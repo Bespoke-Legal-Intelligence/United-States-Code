@@ -6,7 +6,7 @@ Any lot or parcel which is part of a tract of real property in the hands of a ta
 
 &emsp;(1) such tract, or any lot or parcel thereof, had not previously been held by such taxpayer primarily for sale to customers in the ordinary course of trade or business (unless such tract at such previous time would have been covered by this section) and, in the same taxable year in which the sale occurs, such taxpayer does not so hold any other real property; and
 
-&emsp;(2) no substantial improvement that substantially enhances the value of the lot or parcel sold is made by the taxpayer on such tractwhile held by the taxpayer or is made pursuant to a contract of sale entered into between the taxpayer and the buyer. For purposes of this paragraph, an improvement shall be deemed to be made by the taxpayer if such improvement was made by—
+&emsp;(2) no substantial improvement that substantially enhances the value of the lot or parcel sold is made by the taxpayer on such tract while held by the taxpayer or is made pursuant to a contract of sale entered into between the taxpayer and the buyer. For purposes of this paragraph, an improvement shall be deemed to be made by the taxpayer if such improvement was made by—
 
 &emsp;&emsp;(A) the taxpayer or members of his family (as defined in section 267(c)(4)), by a corporation controlled by the taxpayer, an S corporation which included the taxpayer as a shareholder, or by a partnership which included the taxpayer as a partner; or
 
@@ -20,7 +20,7 @@ Any lot or parcel which is part of a tract of real property in the hands of a ta
 
 #### (1) Gains
 
-&emsp;If more than 5 lots or parcels contained in the same tract of real property are sold or exchanged, gain from any sale or exchange (which occurs in or after the taxable year in which the sixth lot or parcel is sold or exchanged) of any lot or parcel which comes within the provisions of paragraphs (1), (2) and (3) of subsection (a) of this section shall be deemed to be gain from the sale of property held primarily for sale to customers in the ordinary course of the trade or business to the extent of 5 percent of the selling price.
+&emsp;If more than 5 lots or parcels contained in the same tract of real property are sold or exchanged, gain from any sale or exchange (which occurs in or after the taxable year in which the sixth lot or parcel is sold or exchanged) of any lot or parcel which comes within the provisions of paragraphs (1), (2) and (3) of subsection (a) of this section shall be deemed to be gain from the sale of propertyheld primarily for sale to customers in the ordinary course of the trade or business to the extent of 5 percent of the selling price.
 
 #### (2) Expenditures of sale
 
@@ -60,7 +60,7 @@ Subsec. (b). Pub. L. 91–686, §2(a)(2), struck out sentence which made subpars
 
 <b>1958</b>—Subsec. (a)(1). Pub. L. 85–866 substituted "and, in the same taxable year" for "or, in the same taxable year".
 
-<b>1956</b>—Subsec. (a). Act Apr. 27, 1956, §1, substituted "(including corporations only if no shareholder directlyor indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))" for "other than a corporation".
+<b>1956</b>—Subsec. (a). Act Apr. 27, 1956, §1, substituted "(including corporations only if no shareholder directly or indirectly holds real property for sale to customers in the ordinary course of trade or business and only in the case of property described in the last sentence of subsection (b)(3))" for "other than a corporation".
 
 Subsec. (b)(3). Act Apr. 27, 1956, §2, substituted "water, sewer, or drainage facilities" for "water or sewer facilities" in subpar. (A), and inserted provision at end that requirements of subpars. (B) and (C) do not apply to certain specified property.
 
@@ -80,7 +80,7 @@ Pub. L. 91–686, §2(b), Jan. 12, 1971, 84 Stat. 2071, provided that: "The amen
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
+Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 31, 1953, and ending afterAug. 16, 1954, see section 1(c)(1) of Pub. L. 85–866, set out as a note under section 165 of this title.
 
 #### Effective Date of 1956 Amendment
 

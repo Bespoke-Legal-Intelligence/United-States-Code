@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—The Secretary of Transportation shall require each air carrierand foreign air carrier providing foreign air transportation to comply with noise standards—
+General Requirements.—The Secretary of Transportation shall require each air carrier and foreign air carrier providing foreign air transportation to comply with noise standards—
 
 &emsp;(1) the Secretary prescribed for new subsonic aircraft in regulations of the Secretary in effect on January 1, 1977; or
 

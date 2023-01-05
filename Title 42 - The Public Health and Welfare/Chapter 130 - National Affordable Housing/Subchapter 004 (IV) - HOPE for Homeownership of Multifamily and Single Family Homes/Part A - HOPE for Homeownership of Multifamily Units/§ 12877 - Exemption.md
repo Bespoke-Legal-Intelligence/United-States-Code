@@ -4,7 +4,7 @@ Eligible property covered by a homeownership program approved under this part sh
 
 &emsp;(1) the Low-Income Housing Preservation and Resident Homeownership Act of 1990 \[12 U.S.C. 4101 et seq.\], or
 
-&emsp;(2) the requirements of section 1701z–11 of title 12 applicable to the sale of projects either at foreclosure or after acquisition by the Secretary.
+&emsp;(2) the requirements of section 1701z–11 of title 12 applicable to the sale of projects eitherat foreclosure or after acquisition by the Secretary.
 
 (Pub. L. 101–625, title IV, §427, Nov. 28, 1990, 104 Stat. 4171.)
 

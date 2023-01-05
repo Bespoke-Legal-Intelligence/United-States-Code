@@ -8,7 +8,7 @@ The Director may designate a central collection agency to obtain information for
 
 #### Prior Provisions
 
-A prior section 3509, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2821, related to designation of central collection agency prior to the general amendment of this chapter by Pub. L. 104–13.
+A prior section 3509, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2821, related to designation of centralcollection agency prior to the general amendment of this chapter by Pub. L. 104–13.
 
 Another prior section 3509, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, related to plans or forms for collecting information, submission to Director, and his approval, prior to the general amendment of this chapter by Pub. L. 96–511.
 

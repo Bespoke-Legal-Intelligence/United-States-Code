@@ -4,7 +4,7 @@ Any lease under section 1441 of this title shall be for a period not to exceed t
 
 (a) That an annual rental of such sum as the Secretary of the Interior may fix for the use of the lands shall be paid to the United States.
 
-(b) That the lessee shall maintain the lands in such condition, and provide for the furnishing ofsuch facilities, service, fuel, and other supplies, as are necessary to make the lands available for public use as an airport of a rating which may be prescribed by the Administrator of the Federal Aviation Agency.
+(b) That the lessee shall maintain the lands in such condition, and provide for the furnishing of such facilities, service, fuel, and other supplies, as are necessary to make the lands available for public use as an airport of a rating which may be prescribed by the Administrator of the Federal Aviation Agency.
 
 (c) That the lessee shall make reasonable regulations to govern the use of the airport, but such regulations shall take effect only upon approval by the Administrator of the Federal Aviation Agency.
 

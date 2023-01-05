@@ -24,7 +24,7 @@ In this part:
 
 #### (5) Recoverable waste energy
 
-&emsp;The term "recoverable waste energy" means waste energy from which electricity or usefulthermal energy may be recovered through modification of an existing facility or addition of a new facility.
+&emsp;The term "recoverable waste energy" means waste energy from which electricity or useful thermal energy may be recovered through modification of an existing facility or addition of a new facility.
 
 #### (6) Registry
 
@@ -92,7 +92,7 @@ Sec. 2. <i>Encouraging Investment in Industrial Efficiency</i>. The Departments 
 
 (a) coordinate and strongly encourage efforts to achieve a national goal of deploying 40 gigawatts of new, cost-effective industrial CHP in the United States by the end of 2020;
 
-(b) convene stakeholders, through a series of public workshops, to develop and encourage the use of bestpractice State policies and investment models that address the multiple barriers to investment in industrial energy efficiency and CHP;
+(b) convene stakeholders, through a series of public workshops, to develop and encourage the use of best practice State policies and investment models that address the multiple barriers to investment in industrial energy efficiency and CHP;
 
 (c) utilize their respective relevant authorities and resources to encourage investment in industrial energy efficiency and CHP, such as by:
 

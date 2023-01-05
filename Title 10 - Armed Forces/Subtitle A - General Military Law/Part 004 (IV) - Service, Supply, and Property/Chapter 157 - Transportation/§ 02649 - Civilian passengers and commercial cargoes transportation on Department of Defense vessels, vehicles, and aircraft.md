@@ -24,7 +24,7 @@ Commercial Insurance.—The Secretary may enter into a contract or other arrange
 
 &emsp;(4) the contract between the commercial provider and the insured shall contain a provision whereby the insured waives any claim against the United States for loss or damage that is within the scope of enumerated risks covered by the insurance product.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 267, §4745; Pub. L. 96–513, title V, §512(22), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 97–31, §12(3)(C), Aug. 6, 1981, 95 Stat. 154; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; renumbered §2649 and amended Pub. L. 108–375, div. A, title X, §1072(a), (b)(2), Oct. 28, 2004, 118 Stat. 2057; Pub. L. 111–383, div. A, title III, §352(a)–(c), (e)(2), Jan. 7, 2011, 124Stat. 4193, 4194; Pub. L. 112–239, div. A, title X, §1076(e)(4), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 114–328, div. A, title X, §1041, Dec. 23, 2016, 130 Stat. 2392.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 267, §4745; Pub. L. 96–513, title V, §512(22), Dec. 12, 1980, 94 Stat. 2930; Pub. L. 97–31, §12(3)(C), Aug. 6, 1981, 95 Stat. 154; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; renumbered §2649 and amended Pub. L. 108–375, div. A, title X, §1072(a), (b)(2), Oct. 28, 2004, 118 Stat. 2057; Pub. L. 111–383, div. A, title III, §352(a)–(c), (e)(2), Jan. 7, 2011, 124 Stat. 4193, 4194; Pub. L. 112–239, div. A, title X, §1076(e)(4), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 114–328, div. A, title X, §1041, Dec. 23, 2016, 130 Stat. 2392.)
 
 Historical and Revision Notes
 

@@ -16,7 +16,7 @@ The Administrator shall submit to the Congress by October 1, 1978, a report on t
 
 #### (d) Legislative recommendations on program requiring coordination between water supply and wastewater control plans as condition for construction grants; public hearing
 
-The Administrator, in cooperation with the States, including water pollution control agencies, and other water pollution control planning agencies, and water supply and water resources agencies of the States and the United States shall submit to Congress, within two years of December 27, 1977, a report with recommendations for legislation on a program to require coordination between water supply and wastewater control plans as a condition to grants for construction of treatment works under this chapter. No such report shall be submitted except after opportunity for public hearings on such proposed report.
+The Administrator, in cooperation with the States, including water pollution control agencies, and other water pollution control planning agencies, and water supply and water resources agencies of the States and the United States shall submit to Congress, within two years of December 27, 1977, a report with recommendations for legislation on a program to require coordination between water supply and wastewater control plans as a condition to grants forconstruction of treatment works under this chapter. No such report shall be submitted except after opportunity for public hearings on such proposed report.
 
 #### (e) State revolving fund report
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollut
 
 Pub. L. 100–4, title III, §308(g), Feb. 4, 1987, 101 Stat. 40, directed Administrator to conduct a water quality improvement study and report results of such study to specified Congressional committees not later than 2 years after Feb. 4, 1987.
 
-Pub. L. 100–4, title III, §314(b), Feb. 4, 1987, 101 Stat. 49, directed Secretary of the Army and Administratorto each prepare a report on enforcement mechanisms and to submit the reports to Congress not later than Dec. 1, 1988.
+Pub. L. 100–4, title III, §314(b), Feb. 4, 1987, 101 Stat. 49, directed Secretary of the Army and Administrator to each prepare a report on enforcement mechanisms and to submit the reports to Congress not later than Dec. 1, 1988.
 
 Pub. L. 100–4, title IV, §404(c), Feb. 4, 1987, 101 Stat. 69, directed Administrator to study extent to which States have adopted water quality standards in accordance with section 1313a of this title and extent to which modifications of permits issued under section 1342(a)(1)(B) of this title for the purpose of reflecting revisions of water quality standards be encouraged and to submit a report on such study to Congress not later than 2 years after Feb. 4, 1987, prior to repeal by Pub. L. 104–66, title II, §2021(e)(1), Dec. 21, 1995, 109 Stat. 727.
 
@@ -104,5 +104,5 @@ Pub. L. 91–224, title I, §109, Apr. 3, 1970, 34 Stat. 113, directed the Secre
 
 #### Termination of Advisory Boards
 
-Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

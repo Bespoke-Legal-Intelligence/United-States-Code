@@ -46,7 +46,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (A) In general
 
-&emsp;&emsp;The National Coordinator shall coordinate health information technology policy and programs of the Department with those of other relevant executive branch agencies with a goal of avoiding duplication of effortsand of helping to ensure that each agency undertakes health information technology activities primarily within the areas of its greatest expertise and technical capability and in a manner towards a coordinated national goal.
+&emsp;&emsp;The National Coordinator shall coordinate health information technology policy and programs of the Department with those of other relevant executive branch agencies with a goal of avoiding duplication of efforts and of helping to ensure that each agency undertakes health information technology activities primarily within the areas of its greatest expertise and technical capability and in a manner towards a coordinated national goal.
 
 #### (B) HIT Advisory Committee
 
@@ -176,11 +176,11 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (D) Evaluation of benefits and costs of the electronic use and exchange of health information
 
-&emsp;&emsp;The National Coordinator shall evaluate and publish evidence on the benefits and costs of the electronic use and exchange of health information and assess to whom these benefits and costs accrue.
+&emsp;&emsp;The National Coordinator shall evaluate and publish evidence on the benefits andcosts of the electronic use and exchange of health information and assess to whom these benefits and costs accrue.
 
 #### (E) Resource requirements
 
-&emsp;&emsp;The National Coordinator shall estimate and publish resources required annually toreach the goal of utilization of an electronic health record for each person in the United States by 2014, including—
+&emsp;&emsp;The National Coordinator shall estimate and publish resources required annually to reach the goal of utilization of an electronic health record for each person in the United States by 2014, including—
 
 &emsp;&emsp;&emsp;(i) the required level of Federal funding;
 
@@ -238,11 +238,11 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (ii) Process
 
-&emsp;&emsp;&emsp;The Secretary shall, through notice and comment rulemaking, establish a process for health information networks that voluntarily elect to adopt the trusted exchange framework and common agreement to attest to such adoption of the framework and agreement.
+&emsp;&emsp;&emsp;The Secretary shall, through notice and comment rulemaking, establish a process for health information networks that voluntarily elect to adopt the trusted exchange framework and common agreementto attest to such adoption of the framework and agreement.
 
 #### (E) Application of the trusted exchange framework and common agreement
 
-&emsp;&emsp;As appropriate, Federal agencies contracting or entering into agreements with health information exchange networks mayrequire that as each such network upgrades health information technology or trust and operational practices, such network may adopt, where available, the trusted exchange framework and common agreement published under subparagraph (C).
+&emsp;&emsp;As appropriate, Federal agencies contracting or entering into agreements with health information exchange networks may require that as each such network upgrades health information technology or trust and operational practices, such network may adopt, where available, the trusted exchange framework and common agreement published under subparagraph (C).
 
 #### (F) Rule of construction
 

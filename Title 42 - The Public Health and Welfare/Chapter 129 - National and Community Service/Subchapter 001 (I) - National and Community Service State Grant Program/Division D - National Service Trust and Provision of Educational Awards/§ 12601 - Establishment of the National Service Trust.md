@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Treasury of the United States an account to be known as the National Service Trust. The Trust shall consist of—
+There is established in the Treasury of the United States an account to be known as theNational Service Trust. The Trust shall consist of—
 
 &emsp;(1) from the amounts appropriated to the Corporation and made available to carry out this division, such amounts as the Corporation may designate to be available for the payment of—
 
@@ -70,7 +70,7 @@ Subsec. (d). Pub. L. 111–13, §1401(b)(3)(A), (B), substituted "the authorizin
 
 Subsec. (d)(2), (3). Pub. L. 111–13, §1401(b)(3)(C), inserted ", summer of service educational awards, or silver scholar awards" after "national service educational awards".
 
-Subsec. (d)(4). Pub. L. 111–13, §1401(b)(3)(C), (D), inserted ", additional approved summer of service positions, and additional approved silver scholar positions" after "additional approved national service positions", struck out "under division C of this subchapter" after "make available", and inserted ", summer of service educational awards, or silver scholar awards" after "national service educational awards".
+Subsec. (d)(4). Pub. L. 111–13, §1401(b)(3)(C), (D), inserted ", additional approved summer of service positions, and additional approved silver scholar positions" after "additional approved national service positions", struck out "under division C of this subchapter" after "make available", and inserted ", summer of serviceeducational awards, or silver scholar awards" after "national service educational awards".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -16,7 +16,7 @@ There is established in the Department an Office of Counternarcotics Enforcement
 
 #### (c) Limitation on concurrent employment
 
-The Director of the Office of Counternarcotics Enforcement shall not be employed by, assigned to, or serve as the head of, any other branch of the Federal Government, any State or local government, or any subdivision of the Department other than the Office of Counternarcotics Enforcement.
+The Director of the Office of Counternarcotics Enforcement shall not be employed by, assignedto, or serve as the head of, any other branch of the Federal Government, any State or local government, or any subdivision of the Department other than the Office of Counternarcotics Enforcement.
 
 #### (d) Responsibilities
 
@@ -78,7 +78,7 @@ The Directorate of Border and Transportation Security, referred to in subsection
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–469, §103(f)(2)(A), substituted "The" for "Except as provided in subsection (d) of this section, the".
 
-Subsecs. (d) to (g). Pub. L. 109–469, §103(f)(2)(B), redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows: "The Director of the Office of Counternarcotics Enforcement may be appointed as the United States Interdiction Coordinator by the Director of the Office of National Drug Control Policy, and shall be the only person at the Department eligible to be so appointed."
+Subsecs. (d) to (g). Pub. L. 109–469, §103(f)(2)(B), redesignated subsecs. (e) to (g) as (d) to (f), respectively, andstruck out heading and text of former subsec. (d). Text read as follows: "The Director of the Office of Counternarcotics Enforcement may be appointed as the United States Interdiction Coordinator by the Director of the Office of National Drug Control Policy, and shall be the only person at the Department eligible to be so appointed."
 
 <b>2004</b>—Pub. L. 108–458 amended section catchline and text generally. Prior to amendment, text read as follows: "The Secretary shall appoint a senior official in the Department to assume primary responsibility for coordinating policy and operations within the Department and between the Department and other Federal departments and agencies with respect to interdicting the entry of illegal drugs into the United States, and tracking and severing connections between illegal drug trafficking and terrorism. Such official shall—
 

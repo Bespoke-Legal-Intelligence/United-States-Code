@@ -2,7 +2,7 @@
 
 #### (a) State inventory programs
 
-Each State shall, as expeditiously as practicable, undertake a continuing program tocompile, publish, and submit to the Administrator an inventory describing the location of each site within such State at which hazardous waste has at any time been stored or disposed of. Such inventory shall contain—
+Each State shall, as expeditiously as practicable, undertake a continuing program to compile, publish, and submit to the Administrator an inventory describing the location of each site within such State at which hazardous waste has at any time been stored or disposed of. Such inventory shall contain—
 
 &emsp;(1) a description of the location of the sites at which any such storage or disposal has taken place before the date on which permits are required under section 6925 of this title for such storage or disposal;
 

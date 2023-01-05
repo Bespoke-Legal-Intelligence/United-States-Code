@@ -6,7 +6,7 @@ Cost Variations Authorized; Limitation.—Except as provided in subsection (c), 
 
 (b)
 
-Scope of Work Variations Authorized; Limitation.—(1) Except as provided in subsection (c), the scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be reduced by not more than 25 percent from the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorizationof the project, construction, improvement, or acquisition. Any reduction in scope of work for a military construction project shall not result in a facility or item of infrastructure that is not complete and useable or does not fully meet the mission requirement contained in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
+Scope of Work Variations Authorized; Limitation.—(1) Except as provided in subsection (c), the scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may be reduced by not more than 25 percent from the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition. Any reduction in scope of work for a military construction project shall not result in a facility or item of infrastructure that is not complete and useable or does not fully meet the mission requirement contained in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
 
 (2) Except as provided in subsection (d), the scope of work for a military construction project or for the construction, improvement, and acquisition of a military family housing project may not be increased above the amount specified for that project, construction, improvement, or acquisition in the justification data provided to Congress as part of the request for authorization of the project, construction, improvement, or acquisition.
 
@@ -26,11 +26,7 @@ Exceptions to Limitation on Cost Variations and Scope of Work Reductions.—(1)(
 
 (C) A waiver and approval by the Secretary concerned under subparagraph (A) shall take effect only after the end of the 14-day period beginning on the date on which the notification required by such subparagraph is received by the appropriate committees of Congress in an electronic medium pursuant to section 480 of this title.
 
-(D) The Secretary concerned may not use the authority provided by subparagraph (A)—
-
-&emsp;(i) to waive the cost limitation applicable to a military construction project with a total authorized cost greater than $500,000,000 or a military family housing project with a total authorized cost greater than $500,000,000; and
-
-&emsp;(ii) to approve an increase in the cost authorized for the project that would increase the project cost by more than 50 percent of the total authorized cost of the project.
+(D) The Secretary concerned may not use the authority provided by subparagraph (A) to waive the cost limitation applicable to a military construction project with a total authorized cost greater than $500,000,000 or a military family housing project with a total authorized cost greater than $500,000,000 if that waiver would increase the project cost by more than 50 percent of the total authorized cost of the project.
 
 (E) In addition to the notification required by this paragraph, subsection (f) applies whenever a military construction project or military family housing project with a total authorized cost greater than $40,000,000 will have a cost increase of 25 percent or more. Subsection (f) may not be construed to authorize a cost increase in excess of the limitation imposed by subparagraph (D).
 
@@ -56,7 +52,7 @@ Exceptions to Limitation on Scope of Work Increases.—(1) Except as provided in
 
 (3) A waiver and approval by the Secretary concerned under paragraph (1) shall take effect only after the end of the 14-day period beginning on the date on which the notification required by such paragraph is received by the appropriate committees of Congress in an electronic medium pursuant to section 480 of this title.
 
-(4) The Secretary concerned may not use the authority provided by paragraph (1) to waive the limitation on an increase in the scope of work applicable to a military construction project or a military family housing project and approvean increase in the scope of work for the project that would increase the scope of work by more than 10 percent of the amount specified for the project in the justification data provided to Congress as part of the request for authorization of the project.
+(4) The Secretary concerned may not use the authority provided by paragraph (1) to waive the limitation on an increase in the scope of work applicable to a military construction project or a military family housing project and approve an increase in the scope of work for the project that would increase the scope of work by more than 10 percent of the amount specified for the project in the justification data provided to Congress as part of the request for authorization of the project.
 
 (e)
 
@@ -94,11 +90,17 @@ Additional Reporting Requirement for Certain Cost Increases.—(1) In addition t
 
 Relation to Other Law.—Notwithstanding the authority under subsections (a) through (f), the Secretary concerned shall ensure compliance of contracts for military construction projects and for the construction, improvement, and acquisition of military family housing projects with section 1341 of title 31 (commonly referred to as the "Anti-Deficiency Act").
 
-(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, §2817, Feb. 10, 1996, 110 Stat. 553; Pub. L. 107–107, div. B, title XXVIII, §2802, Dec. 28, 2001, 115 Stat. 1305; Pub. L. 108–375, div. B, title XXVIII, §2803, Oct. 28, 2004, 118 Stat. 2121; Pub. L. 109–163, div. B, title XXVIII, §2804(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3506; Pub. L. 109–364, div. B, title XXVIII, §2806, Oct. 17, 2006, 120 Stat. 2468; Pub. L. 111–84, div. B, title XXVIII, §2803, Oct. 28, 2009, 123 Stat. 2661; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(2), Dec. 31, 2011, 125 Stat. 1685; Pub. L. 112–239, div. B, title XXVIII, §2801, Jan. 2, 2013, 126 Stat. 2146; Pub. L. 113–291, div. A, title X, §1071(f)(24), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–328, div. B, title XXVIII, §2803, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. B, title XXVIII, §§2801(c)(1), 2821, Dec. 12, 2017, 131 Stat. 1843, 1853; Pub. L. 116–283, div. B, title XXVIII, §2803(a), (b), Jan. 1, 2021, 134 Stat. 4319, 4320; Pub. L. 117–81, div. B, title XXVIII, §2802, Dec. 27, 2021, 135 Stat. 2184.)
+(Added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 164; amended Pub. L. 98–407, title VIII, §807, Aug. 28, 1984, 98 Stat. 1521; Pub. L. 100–26, §7(f)(2), Apr. 21, 1987, 101 Stat. 281; Pub. L. 100–180, div. B, subdiv. 3, title I, §§2312, 2313, Dec. 4, 1987, 101 Stat. 1217, 1218; Pub. L. 101–189, div. B, title XXVIII, §2808, Nov. 29, 1989, 103 Stat. 1648; Pub. L. 104–106, div. B, title XXVIII, §2817, Feb. 10, 1996, 110 Stat. 553; Pub. L. 107–107, div. B, title XXVIII, §2802, Dec. 28, 2001, 115 Stat. 1305; Pub.L. 108–375, div. B, title XXVIII, §2803, Oct. 28, 2004, 118 Stat. 2121; Pub. L. 109–163, div. B, title XXVIII, §2804(a)–(c)(1), Jan. 6, 2006, 119 Stat. 3506; Pub. L. 109–364, div. B, title XXVIII, §2806, Oct. 17, 2006, 120 Stat. 2468; Pub. L. 111–84, div. B, title XXVIII, §2803, Oct. 28, 2009, 123 Stat. 2661; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(2), Dec. 31, 2011, 125 Stat. 1685; Pub. L. 112–239, div. B, title XXVIII, §2801, Jan. 2, 2013, 126 Stat. 2146; Pub. L. 113–291, div. A, title X, §1071(f)(24), Dec. 19, 2014, 128 Stat. 3511; Pub. L. 114–328, div. B, title XXVIII, §2803, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. B, title XXVIII, §§2801(c)(1), 2821, Dec. 12, 2017, 131 Stat. 1843, 1853; Pub. L. 116–283, div. B, title XXVIII, §2803(a), (b), Jan. 1, 2021, 134 Stat. 4319, 4320; Pub. L. 117–81, div. B, title XXVIII, §2802, Dec. 27, 2021, 135 Stat. 2184; Pub. L. 117–263, div. B, title XXVIII, §2808, Dec. 23, 2022, 136 Stat. 2996.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(1)(D). Pub. L. 117–263 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "The Secretary concerned may not use the authority provided by subparagraph (A)—
+
+&emsp;"(i) to waive the cost limitation applicable to a military construction project with a total authorized cost greater than $500,000,000 or a military family housing project with a total authorized cost greater than $500,000,000; and
+
+&emsp;"(ii) to approve an increase in the cost authorized for the project that would increase the project cost by more than 50 percent of the total authorized cost of the project."
 
 <b>2021</b>—Subsec. (a). Pub. L. 117–81, §2802(b), (c)(1), inserted heading and substituted "the total authorized cost of the project" for "the amount appropriated for such project" in text.
 
@@ -184,7 +186,7 @@ Subsec. (d). Pub. L. 109–163, §2804(a)(3), substituted "limitation on cost va
 
 <b>1989</b>—Pub. L. 101–189 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (f).
 
-<b>1987</b>—Subsec. (a)(1). Pub. L. 100–180, §2312, substituted "Except as provided in paragraph (2), the total cost authorized for military construction projects at an installation (including each project the cost of which is included in such total authorized cost and is less than the minor project ceiling) may be increased by not more than 25 percent of the total amount appropriated for such projects" for "Except as provided in paragraph (2),the cost authorized for a military construction project (other than a project for which the approved amount is less than the minor project ceiling (as defined in subsection (f))) may be increased by not more than 25 percent of the amount appropriated for the project".
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–180, §2312, substituted "Except as provided in paragraph (2), the total cost authorized for military construction projects at an installation (including each project the cost of which is included in such total authorized cost and is less than the minor project ceiling) may be increased by not more than 25 percent of the total amount appropriated for such projects" for "Except as provided in paragraph (2), the cost authorized for a military construction project (other than a project for which the approved amount is less than the minor project ceiling (as defined in subsection (f))) may be increased by not more than 25 percent of the amount appropriated for the project".
 
 Pub. L. 100–26, §7(f)(2)(A), substituted "the minor project ceiling (as defined in subsection (f))" for "the amount specified by law as the maximum amount for a minor military construction project".
 

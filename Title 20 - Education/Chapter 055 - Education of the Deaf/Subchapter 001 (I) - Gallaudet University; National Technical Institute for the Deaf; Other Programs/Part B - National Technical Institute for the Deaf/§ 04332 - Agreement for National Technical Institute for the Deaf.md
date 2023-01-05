@@ -30,7 +30,7 @@ The agreement shall—
 
 If, within twenty years after the completion of any construction (except minor remodeling or alteration) for which such funds have been paid—
 
-&emsp;(1) the facility ceases to be used for the purposes for which it was constructed or theagreement is terminated, unless the Secretary determines that there is good cause for releasing the institution from its obligation, or
+&emsp;(1) the facility ceases to be used for the purposes for which it was constructed or the agreement is terminated, unless the Secretary determines that there is good cause for releasing the institution from its obligation, or
 
 &emsp;(2) the institution ceases to be the owner of the facility,
 

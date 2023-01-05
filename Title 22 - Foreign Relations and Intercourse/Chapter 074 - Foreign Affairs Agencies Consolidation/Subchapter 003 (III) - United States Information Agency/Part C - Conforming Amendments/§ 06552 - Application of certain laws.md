@@ -18,7 +18,7 @@ Construction.—Nothing in paragraph (1) may be construed (A) to interfere with 
 
 #### (d) Reporting requirements
 
-The report submitted pursuant to section 6601(f) of this title shall include a detailed statement of the manner in which the special mission of public diplomacy carried out by USIA prior to the transfer of functions under this chapter shall be preserved within the Department of State, including the planned duties and responsibilities of any new bureaus that will perform such public diplomacy functions. Such report shall also include the best available estimates of—
+The report submitted pursuant to section 6601(f) of this title shall include a detailed statement of the manner in which the special mission of public diplomacy carried out by USIA prior tothe transfer of functions under this chapter shall be preserved within the Department of State, including the planned duties and responsibilities of any new bureaus that will perform such public diplomacy functions. Such report shall also include the best available estimates of—
 
 &emsp;(1) the amounts expended by the Department of State for public affairs programs during fiscal year 1998, and on the personnel and support costs for such programs;
 

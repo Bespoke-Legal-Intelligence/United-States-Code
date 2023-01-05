@@ -50,9 +50,9 @@
 
 #### (3) Replenishment of surplus fund prohibited
 
-&emsp;During fiscal year 2000, no Federal reserve bank may replenish such bank's surplus fund by the amount of any transfer by such bank under paragraph (1).
+&emsp;During fiscal year 2000, no Federal reserve bank may replenish such bank's surplus fundby the amount of any transfer by such bank under paragraph (1).
 
-(Dec. 23, 1913, ch. 6, §7(a), (b), 38 Stat. 258; Mar. 3, 1919, ch. 101, §1, 40 Stat. 1314; June 16, 1933, ch. 89, §4, 48 Stat. 163; Pub. L. 103–66, title III, §3002(a), Aug. 10, 1993, 107 Stat. 337; Pub. L. 103–325, title VI, §602(d), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §302\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304; Pub. L. 114–94, div. C, title XXXII, §§32202, 32203(a), Dec. 4, 2015, 129 Stat. 1739; Pub. L. 115–123, div. C,title II, §30205, Feb. 9, 2018, 132 Stat. 127; Pub. L. 115–174, title II, §217, May 24, 2018, 132 Stat. 1326.)
+(Dec. 23, 1913, ch. 6, §7(a), (b), 38 Stat. 258; Mar. 3, 1919, ch. 101, §1, 40 Stat. 1314; June 16, 1933, ch. 89, §4, 48 Stat. 163; Pub. L. 103–66, title III, §3002(a), Aug. 10, 1993, 107 Stat. 337; Pub. L. 103–325, title VI, §602(d), Sept. 23, 1994, 108 Stat. 2291; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §302\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304; Pub. L. 114–94, div. C, title XXXII, §§32202, 32203(a), Dec. 4, 2015, 129 Stat. 1739; Pub. L. 115–123, div. C, title II, §30205, Feb. 9, 2018, 132 Stat. 127; Pub. L. 115–174, title II, §217, May 24, 2018, 132 Stat. 1326.)
 
 #### <b>Editorial Notes</b>
 

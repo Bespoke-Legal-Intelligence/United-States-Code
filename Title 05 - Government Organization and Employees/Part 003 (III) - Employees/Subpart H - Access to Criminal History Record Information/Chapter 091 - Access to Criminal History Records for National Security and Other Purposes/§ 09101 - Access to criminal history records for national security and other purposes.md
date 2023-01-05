@@ -92,7 +92,7 @@
 
 (f) The authority provided under this section with respect to the Department of State may be exercised only so long as the Department of State continues to extend to its employees and applicants for employment, at a minimum, those procedural safeguards provided for as part of the security clearance process that were made available, as of May 1, 1987, pursuant to section 163.4 of volume 3 of the Foreign Affairs Manual.
 
-(g) Upon request by a covered agency and in accordance with the applicable provisions of this section, the Deputy Assistant Secretary of State for Overseas Citizens Services shall make available criminal history record information collected by the Deputy Assistant Secretary with respect to an individual who is under investigation by the covered agency regarding any interaction of the individual with a law enforcement agency or intelligence agency of a foreign country.
+(g) Upon request by a covered agency and in accordance with the applicable provisions of thissection, the Deputy Assistant Secretary of State for Overseas Citizens Services shall make available criminal history record information collected by the Deputy Assistant Secretary with respect to an individual who is under investigation by the covered agency regarding any interaction of the individual with a law enforcement agency or intelligence agency of a foreign country.
 
 (h) If a contractor described in subsection (a)(6)(J) uses an automated information delivery system to request criminal history record information, the contractor shall comply with any necessary security requirements for access to that system.
 
@@ -190,5 +190,5 @@ Pub. L. 99–169, title VIII, §803(b), Dec. 4, 1985, 99 Stat. 1011, provided th
 
 #### Report to Congressional Committees on Effect of Provisions for Indemnification Agreements
 
-Pub. L. 99–169, title VIII, §803(a), Dec. 4, 1985, 99 Stat. 1010, as amended by Pub. L. 99–569, title IV, §402(b), Oct. 27, 1986, 100 Stat. 3196, directed Department of Justice, within two years after Dec. 4, 1985, and after consultation with Department of Defense, Office of Personnel Management, Central Intelligence Agency, and Federal Bureau of Investigation, to report to appropriate committees of Congress concerning the effect of 5 U.S.C. 9101(b)(3), as added by this Act, including the effect of the absence of indemnification agreements upon Statesand localities not eligible under 5 U.S.C. 9101(b)(3) for such agreements.
+Pub. L. 99–169, title VIII, §803(a), Dec. 4, 1985, 99 Stat. 1010, as amended by Pub. L. 99–569, title IV, §402(b), Oct. 27, 1986, 100 Stat. 3196, directed Department of Justice, within two years after Dec. 4, 1985, and after consultation with Department of Defense, Office of Personnel Management, Central Intelligence Agency, and Federal Bureau of Investigation, to report to appropriate committees of Congress concerning the effect of 5 U.S.C. 9101(b)(3), as added by this Act, including the effect of the absence of indemnification agreements upon States and localities not eligible under 5 U.S.C. 9101(b)(3) for such agreements.
 

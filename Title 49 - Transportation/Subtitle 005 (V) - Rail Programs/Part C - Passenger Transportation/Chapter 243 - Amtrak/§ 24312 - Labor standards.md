@@ -60,7 +60,7 @@ In subsection (b)(1), the words "Except as provided in paragraph (2) of this sub
 
 #### References in Text
 
-The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 The date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsec. (c)(1), is the date of enactment of title II of div. B of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
@@ -98,7 +98,7 @@ Amendment of Existing Collective Bargaining Agreement.—
 
 &emsp;"(1)
 
-Contracting out.—Any collective bargaining agreement entered into between Amtrak and an organization representing Amtrak employees before the date of enactment of this Act \[Dec. 2, 1997\] is deemed amended to include the language of section 24312(b) of title 49, United States Code, as that section existed on the day before the effective date \[Dec. 2, 1997\] of the amendments made by subsection (a) \[amending this section\].
+Contracting out.—Any collective bargaining agreement entered into between Amtrak and an organization representing Amtrak employees before the date of enactment of this Act \[Dec. 2, 1997\] is deemed amended to include the language of section 24312(b) of title 49, United States Code, as that section existed on the day before the effective date \[Dec. 2, 1997\] ofthe amendments made by subsection (a) \[amending this section\].
 
 &emsp;"(2)
 

@@ -62,7 +62,7 @@ Subsec. (a)(2). Pub. L. 104–208, §371(b)(2), substituted "an immigration judg
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–649, §104(a)(1), substituted "10,000" for "five thousand".
 
-Subsec. (c). Pub. L. 101–649, §603(a)(4), substituted "(4), (5), and (7)(A)" for "(14), (15), (20), (21), (25), and (32)" and "(other than paragraph (2)(C) or subparagraphs (A), (B), (C), or (E) of paragraph (3))" for "(other than paragraph (27), (29), or (33) and other than so much of paragraph (23) as relates to trafficking in narcotics)".
+Subsec. (c). Pub. L. 101–649, §603(a)(4), substituted "(4), (5), and (7)(A)" for "(14), (15), (20), (21), (25), and (32)" and "(other than paragraph (2)(C) or subparagraphs (A), (B), (C), or (E) of paragraph (3))" for "(other than paragraph (27), (29), or (33) and other than so muchof paragraph (23) as relates to trafficking in narcotics)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -92,7 +92,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Waiver of Numerical Limitation for Certain Current Asylees; Adjustment of Certain Former Asylees
 
-Pub. L. 101–649, title I, §104(c), (d), Nov. 29, 1990, 104 Stat. 4985, as amended by Pub. L. 104–208, div. C, titleVI, §604(b)(2), Sept. 30, 1996, 110 Stat. 3009–694, provided that:
+Pub. L. 101–649, title I, §104(c), (d), Nov. 29, 1990, 104 Stat. 4985, as amended by Pub. L. 104–208, div. C, title VI, §604(b)(2), Sept. 30, 1996, 110 Stat. 3009–694, provided that:
 
 "(c)
 

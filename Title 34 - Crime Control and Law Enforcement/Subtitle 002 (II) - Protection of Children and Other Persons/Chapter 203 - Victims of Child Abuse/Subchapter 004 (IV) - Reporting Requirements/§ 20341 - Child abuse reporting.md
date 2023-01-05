@@ -62,7 +62,7 @@ For the purposes of this section—
 
 &emsp;(9) the term "covered individual" means an adult who—
 
-&emsp;&emsp;(A) is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, tointeract with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization; or
+&emsp;&emsp;(A) is authorized, by a national governing body, a member of a national governing body, or an amateur sports organization that participates in interstate or international amateur athletic competition, to interact with a minor or amateur athlete at an amateur sports organization facility or at any event sanctioned by a national governing body, a member of a national governing body, or such an amateur sports organization; or
 
 &emsp;&emsp;(B) is an employee or representative of the United States Center for SafeSport;
 
@@ -80,7 +80,7 @@ For all Federal lands and all federally operated (or contracted) facilities in w
 
 #### (1) Recipients of reports
 
-&emsp;In the case of an incident described in subsection (a) involving a child in the family or home of member of the Armed Forces (regardless of whether the incident occurred on or off a military installation), the report required by subsection (a) shall be made to the appropriate child welfare services agency or agencies of the State in which the child resides. The Attorney General, the Secretary of Defense, and the Secretary of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy) shall jointly, in consultation with the chief executive officers of the States, designate the child welfare service agencies of the States that are appropriate recipients of reports pursuant to this subsection. Any report on an incident pursuant to this subsection is in addition to any other report on the incident pursuant to this section.
+&emsp;In the case of an incident described in subsection (a) involving a child in the family or home of member of the Armed Forces (regardless of whether the incident occurred on or off a military installation), the report required by subsection (a) shall be made to the appropriate child welfare services agency or agencies of the State in which the child resides. The Attorney General, the Secretary of Defense, and the Secretary of Homeland Security (with respect to the Coast Guard when it is not operating as a service in the Navy) shall jointly, inconsultation with the chief executive officers of the States, designate the child welfare service agencies of the States that are appropriate recipients of reports pursuant to this subsection. Any report on an incident pursuant to this subsection is in addition to any other report on the incident pursuant to this section.
 
 #### (2) Makers of reports
 

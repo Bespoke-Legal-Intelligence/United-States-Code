@@ -6,7 +6,7 @@ The Assistant Attorney General in charge of the Antitrust Division of the Depart
 
 #### (b) Production of materials
 
-Any person, upon whom any demand under section 1312 of this title for the production of documentary material has been duly served, shall make such material available for inspection and copying or reproduction to the custodian designated therein at the principal place of business of such person (or at such other place as such custodian and such person thereafter may agree and prescribe in writing or as the court may direct, pursuant to section 1314(d) <sup>1</sup> of this title) on the return date specified in such demand (or on such later date as such custodian may prescribe in writing). Such person may upon written agreement between such person and the custodian substitute copies for originals of all or any part of such material.
+Any person, upon whom any demand under section 1312 of this title for the production of documentary material has been duly served, shall make such material available for inspection and copying or reproduction to the custodian designated therein at the principal place of business of such person (or at such other place as such custodian and such person thereafter may agree and prescribe in writing or as the court may direct, pursuant to section 1314(d) <sup>1</sup> of this title) on the return date specified in such demand (or on such later date as such custodian may prescribe in writing). Such person may upon written agreement between such personand the custodian substitute copies for originals of all or any part of such material.
 
 #### (c) Responsibility for materials; disclosure
 
@@ -22,7 +22,7 @@ Any person, upon whom any demand under section 1312 of this title for the produc
 
 (1) Whenever any attorney of the Department of Justice has been designated to appear before any court, grand jury, or Federal administrative or regulatory agency in any case or proceeding, the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony may deliver to such attorney such material, answers, or transcripts for official use in connection with any such case, grand jury, or proceeding as such attorney determines to be required. Upon the completion of any such case, grand jury, or proceeding, such attorney shall return to the custodian any such material, answers, or transcripts so delivered which have not passed into the control of such court, grand jury, or agency through the introduction thereof into the record of such case or proceeding.
 
-(2) The custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony may deliver to the Federal Trade Commission, in response to a written request,copies of such material, answers, or transcripts for use in connection with an investigation or proceeding under the Commission's jurisdiction. Such material, answers, or transcripts may only be used by the Commission in such manner and subject to such conditions as apply to the Department of Justice under this chapter.
+(2) The custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony may deliver to the Federal Trade Commission, in response to a written request, copies of such material, answers, or transcripts for use in connection with an investigation or proceeding under the Commission's jurisdiction. Such material, answers, or transcripts may only be used by the Commission in such manner and subject to such conditions as apply to the Department of Justice under this chapter.
 
 #### (e) Return of material to producer
 
@@ -46,7 +46,7 @@ In the event of the death, disability, or separation from service in the Departm
 
 Section 1314(d) of this title, referred to in subsec. (b), was redesignated section 1314(e) of this title by Pub. L. 96–349.
 
-This chapter, referred to in subsecs. (c), (e), and (f), was in the original "this Act", meaning Pub. L. 87–664, known as the Antitrust Civil Process Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
+This chapter, referred to in subsecs. (c), (e), and (f), was in the original "this Act", meaning Pub. L. 87–664,known as the Antitrust Civil Process Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
 
 #### Amendments
 

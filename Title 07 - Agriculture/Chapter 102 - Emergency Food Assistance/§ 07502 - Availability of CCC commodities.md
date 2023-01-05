@@ -18,7 +18,7 @@ Notwithstanding any other provision of law, in order to complement the domestic 
 
 #### (c) Additional commodities
 
-In addition to any commodities described in subsection (a), in carrying out this chapter, the Secretary may use agricultural commodities and the products thereof made available under clause (2) of the second sentence of section 612c of this title.
+In addition to any commodities described in subsection (a), in carrying out this chapter, theSecretary may use agricultural commodities and the products thereof made available under clause (2) of the second sentence of section 612c of this title.
 
 #### (d) Varieties of commodities
 
@@ -52,11 +52,11 @@ As soon as practicable after February 7, 2014, the Secretary shall finalize and 
 
 #### References in Text
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(4), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(4), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(4), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(4), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
 Section 713a–14 of title 15, referred to in subsec. (f), was repealed by Pub. L. 113–79, title I, §1423(a), Feb. 7, 2014, 128 Stat. 695.
 
@@ -80,7 +80,7 @@ Subsecs. (c) to (e). Pub. L. 99–198, §1564(a), added subsecs. (c) to (e).
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–92, §2(3), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Notwithstanding any other provision of law, commodities acquired by the Commodity Credit Corporation that are in excess of quantities needed for the fiscal year to carry out a payment-in-kind acreage diversion program, maintain U.S. share of world markets, and meet international market development and food aid commitments, shall be made available by the Secretary of Agriculture (hereinafter in this chapter referred to as the 'Secretary') without charge or credit in such fiscal year for use by eligible recipient agencies. Upon request, commodities provided by the CCC shall be provided in a form suitable for individual household or institutional use."
 
-Subsec. (b). Pub. L. 98–92, §2(4), substituted "may be used" for "shall be used" and directed the substitution of "October 1, 1985" for "December 1, 1983", which was executed by making the substitution for "December 31, 1983" to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 98–92, §2(4), substituted "may be used" for "shall be used" and directed the substitutionof "October 1, 1985" for "December 1, 1983", which was executed by making the substitution for "December 31, 1983" to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

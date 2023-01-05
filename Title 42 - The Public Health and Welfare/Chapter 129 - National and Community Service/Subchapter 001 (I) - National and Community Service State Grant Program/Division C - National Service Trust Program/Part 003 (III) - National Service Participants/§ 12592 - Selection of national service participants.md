@@ -6,7 +6,7 @@ Subject to subsections (b) and (c) and section 12583(f) of this title, the actua
 
 #### (b) Nondiscrimination and nonpolitical selection of participants
 
-The recruitment and selection of individuals to serve in national service programs receiving assistance under section 12571 of this title or to fill approved national service positions shall be consistent with the requirements of section 12635 of this title.
+The recruitment and selection of individuals to serve in national service programs receivingassistance under section 12571 of this title or to fill approved national service positions shall be consistent with the requirements of section 12635 of this title.
 
 #### (c) Second term
 
@@ -58,7 +58,7 @@ Part D of this subchapter, as in effect on the day before September 21, 1993, re
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1313(1), substituted "conducted by the entity" for "conducted by the State,subdivision of a State, Indian tribe, public or private nonprofit organization, institution of higher education, Federal agency, or other entity".
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1313(1), substituted "conducted by the entity" for "conducted by the State, subdivision of a State, Indian tribe, public or private nonprofit organization, institution of higher education, Federal agency, or other entity".
 
 Subsec. (e)(2)(C). Pub. L. 111–13, §1313(2), inserted ", particularly those who were considered, at the time of their service, disadvantaged youth" before semicolon at end.
 

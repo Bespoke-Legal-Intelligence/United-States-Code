@@ -10,7 +10,7 @@
 
 (3) In no case may dependency and indemnity compensation be paid under paragraph (1) of this subsection to any parent if the annual income of such parent exceeds $13,456, as increased from time to time under section 5312 of this title.
 
-(4) If there is only one parent and such parent has remarried and is living with such parent's spouse, dependency and indemnity compensation shall be paid to such parent under either paragraph (1) of this subsection or under subsection (d) of this section, whichever will resultin the greater amount of such compensation being paid to such parent. In such a case of remarriage the total combined annual income of the parent and such parent's spouse shall be counted in determining the monthly rate of dependency and indemnity compensation under the appropriate formula.
+(4) If there is only one parent and such parent has remarried and is living with such parent's spouse, dependency and indemnity compensation shall be paid to such parent under either paragraph (1) of this subsection or under subsection (d) of this section, whichever will result in the greater amount of such compensation being paid to such parent. In such a case of remarriage the total combined annual income of the parent and such parent's spouse shall be counted in determining the monthly rate of dependency and indemnity compensation under the appropriate formula.
 
 (c)(1) Except as provided in subsection (d) of this section, if there are two parents, but they are not living together, the monthly rate of dependency and indemnity compensation paid to each such parent shall be $412, as increased from time to time under section 5312(b)(1) of this title and reduced by an amount, based upon the amount of such parent's annual income, determined in accordance with regulations which the Secretary shall prescribe under section 5312(b)(2) of this title.
 
@@ -70,7 +70,7 @@
 
 (g) The monthly rate of dependency and indemnity compensation payable to a parent shall be increased by $308, as increased from time to time under section 5312 of this title, if such parent is (1) a patient in a nursing home or (2) blind, or so nearly blind or significantly disabled as to need or require the regular aid and attendance of another person.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1129, §415; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–21, §4, May 15, 1963, 77 Stat. 17; Pub. L. 89–730, §§1, 2, Nov. 2, 1966, 80 Stat. 1157, 1158; Pub. L. 90–275, §2, Mar. 28, 1968, 82 Stat. 66; Pub.L. 91–588, §§2, 8(a), Dec. 24, 1970, 84 Stat. 1582, 1584; Pub. L. 92–197, §4, Dec. 15, 1971, 85 Stat. 661; Pub. L. 92–425, §6(1), Sept. 21, 1972, 86 Stat. 713; Pub. L. 93–177, §4, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, §7, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title II, §201, Dec. 23, 1975, 89 Stat. 1019; Pub. L. 94–432, title III, §301, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title II, §201, Dec. 2, 1977, 91 Stat. 1457; Pub. L. 95–588, title II, §201, Nov. 4, 1978, 92 Stat. 2505; Pub. L. 96–466, title VI, §605(c)(1), Oct. 17, 1980, 94 Stat. 2211; Pub. L. 97–295, §4(10), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(a), Nov. 18, 1988, 102 Stat. 4129; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1315 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–86, title I, §102, Aug. 14, 1991, 105 Stat. 414; Pub. L. 103–271, §9(a), July 1, 1994, 108 Stat. 743; Pub. L. 104–275, title IV, §405(c)(1), Oct. 9, 1996, 110 Stat. 3340; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415; Pub. L. 111–37, §3(f), June 30, 2009, 123 Stat. 1930.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1129, §415; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 88–21, §4, May 15, 1963, 77 Stat. 17; Pub. L. 89–730, §§1, 2, Nov. 2, 1966, 80 Stat. 1157, 1158; Pub. L. 90–275, §2, Mar. 28, 1968, 82 Stat. 66; Pub. L. 91–588, §§2, 8(a), Dec. 24, 1970, 84 Stat. 1582, 1584; Pub. L. 92–197, §4, Dec. 15, 1971, 85 Stat. 661; Pub. L. 92–425, §6(1), Sept. 21, 1972, 86 Stat. 713; Pub. L. 93–177, §4, Dec. 6, 1973, 87 Stat. 695; Pub. L. 93–527, §7, Dec. 21, 1974, 88 Stat. 1704; Pub. L. 94–169, title II, §201, Dec. 23, 1975, 89 Stat. 1019; Pub. L. 94–432, title III, §301, Sept. 30, 1976, 90 Stat. 1371; Pub. L. 95–204, title II, §201, Dec. 2, 1977, 91 Stat. 1457; Pub. L. 95–588, title II, §201, Nov. 4, 1978, 92 Stat. 2505; Pub. L. 96–466, title VI, §605(c)(1), Oct. 17, 1980, 94 Stat. 2211; Pub. L. 97–295, §4(10), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 100–687, div. B, title XIV, §1402(a), Nov. 18, 1988, 102 Stat. 4129; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1315 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L.102–86, title I, §102, Aug. 14, 1991, 105 Stat. 414; Pub. L. 103–271, §9(a), July 1, 1994, 108 Stat. 743; Pub. L. 104–275, title IV, §405(c)(1), Oct. 9, 1996, 110 Stat. 3340; Pub. L. 109–233, title V, §502(3), June 15, 2006, 120 Stat. 415; Pub. L. 111–37, §3(f), June 30, 2009, 123 Stat. 1930.)
 
 #### <b>Editorial Notes</b>
 
@@ -78,7 +78,7 @@
 
 Section 9(b) of the Veterans' Pension Act of 1959, referred to in subsec. (f)(1)(C), is section 9(b) of Pub. L. 86–211, Aug. 29, 1959, 73 Stat. 432, which was set out as a Savings Provisions note under section 1521 of this title, and was repealed, effective Jan. 1, 1979, by section 306(b)(1) of Pub. L. 95–588, which is set out as a Savings Provisions for Persons Entitled to Pension as of December 31, 1978: Other Provisions note under section 1521 of this title.
 
-The Social Security Act, referred to in subsec. (f)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -274,7 +274,7 @@ Amendment by Pub. L. 111–37 effective Dec. 1, 2008, see section 3(g) of Pub. L
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as an Effective Date note under section 5314 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -290,7 +290,7 @@ Amendment by Pub. L. 94–432 effective Jan. 1, 1977, see section 405(b) of Pub.
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 94–169, title II, §201, Dec. 23, 1975, 89 Stat. 1019, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30, 1976, provided that the amendment made by that section is effective Jan. 1, 1976.
+Pub. L. 94–169, title II, §201, Dec. 23, 1975, 89 Stat. 1019, as amended by section 101 of Pub. L. 94–432, eff. Sept. 30,1976, provided that the amendment made by that section is effective Jan. 1, 1976.
 
 #### Effective Date of 1974 Amendment
 

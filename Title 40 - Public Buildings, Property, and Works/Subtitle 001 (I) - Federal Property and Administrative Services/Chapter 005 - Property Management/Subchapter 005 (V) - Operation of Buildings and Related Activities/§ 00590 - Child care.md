@@ -48,7 +48,7 @@ No charge.—Space allotted under subsection (b) may be provided without charge 
 
 &emsp;(3)
 
-Reimbursement for costs.—For space allotted under subsection (b), if there is an agreement for the payment of costs associated with providing space or services, neither title 31, nor any other law, prohibits or restricts payment by reimbursement to the miscellaneous receipts or other appropriate account of the Treasury.
+Reimbursement for costs.—For space allotted under subsection (b), if there is an agreement for the payment of costs associated with providing space or services, neither title31, nor any other law, prohibits or restricts payment by reimbursement to the miscellaneous receipts or other appropriate account of the Treasury.
 
 (d)
 
@@ -90,7 +90,7 @@ Definition.—For purposes of this subsection, the term "Executive agency" has t
 
 &emsp;(2)
 
-In general.—In accordance with regulations the Office of Personnel Management prescribes, an Executive agency that provides or proposes to provide child care services for federal employees may use appropriated amounts that are otherwise available for salaries and expenses to provide child care in a federal orleased facility, or through contract, for civilian employees of the agency.
+In general.—In accordance with regulations the Office of Personnel Management prescribes, an Executive agency that provides or proposes to provide child care services for federal employees may use appropriated amounts that are otherwise available for salaries and expenses to provide child care in a federal or leased facility, or through contract, for civilian employees of the agency.
 
 &emsp;(3)
 
@@ -104,7 +104,15 @@ Advances.—Notwithstanding section 3324 of title 31, amounts may be paid in adv
 
 Notification.—No amounts made available by law may be used to implement this subsection without advance notice to the Committees on Appropriations of the House of Representatives and the Senate.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1116; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+&emsp;(6)
+
+Application to house of representatives.—This subsection shall apply with respect to the House of Representatives in the same manner as it applies to an Executive agency, except that—
+
+&emsp;&emsp;(A) the authority granted to the Office of Personnel Management shall be exercised with respect to the House of Representatives by the Speaker of the House of Representatives in accordance with regulations promulgated by the Committee on House Administration; and
+
+&emsp;&emsp;(B) amounts may be made available to implement this subsection with respect to the House of Representatives without advance notice to the Committee on Appropriations of the Senate.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1116; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 117–328, div. I, title I, §117(a), Dec. 29, 2022, 136 Stat. 4924.)
 
 Historical and Revision Notes
 
@@ -174,7 +182,15 @@ Section 231 of the Crime Control Act of 1990, referred to in subsec. (f)(2), is 
 
 #### Amendments
 
+<b>2022</b>—Subsec. (g)(6). Pub. L. 117–328 added par. (6).
+
 <b>2004</b>—Subsec. (g)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. I, title I, §117(b), Dec. 29, 2022, 136 Stat. 4924, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2023 and each succeeding fiscal year."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

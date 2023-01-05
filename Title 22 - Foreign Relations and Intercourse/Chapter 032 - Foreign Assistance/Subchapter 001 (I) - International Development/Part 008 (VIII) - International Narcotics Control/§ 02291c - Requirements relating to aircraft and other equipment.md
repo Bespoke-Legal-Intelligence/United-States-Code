@@ -44,11 +44,11 @@ In the reports submitted pursuant to section 2291h(a) of this title, the Preside
 
 #### References in Text
 
-The Arms Export Control Act, referred to in subsec. (a)(3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended. Chapters 5 and 6 of the Act are classified generally to subchapters V (§2795 et seq.) and VI (§2796 et seq.), respectively, of chapter 39 of this title. Section 61(a)(3) of the Act was redesignated section 61(a)(4), and a new section 61(a)(3) was added, by Pub. L. 103–236, title VII, §731(e)(2), (3), Apr. 30, 1994, 108 Stat. 503. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320. Chapters 5 and 6 of the Act are classified generally to subchapters V (§2795 et seq.) and VI (§2796 et seq.), respectively, of chapter 39 of this title. Section 61(a)(3) of the Act was redesignated section 61(a)(4), and a new section 61(a)(3) was added, by Pub. L. 103–236, title VII, §731(e)(2), (3), Apr. 30, 1994, 108 Stat. 503. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Codification
 
-The text of subsecs. (a) and (b) of section 2291h of this title, which were redesignated as subsecs. (b) and (c) of this section by Pub. L. 102–583, §4(f)(2)(D), was based on section 489(a) and (b) of Pub. L. 87–195, pt. I, as added Pub. L. 100–690, title IV, §4507, Nov. 18, 1988, 102 Stat. 4286; amended Pub. L. 102–583, §4(f)(2)(B), (C), Nov. 2, 1992, 106 Stat. 4917.
+The text of subsecs. (a) and (b) of section 2291h of this title, which were redesignated as subsecs. (b) and (c) ofthis section by Pub. L. 102–583, §4(f)(2)(D), was based on section 489(a) and (b) of Pub. L. 87–195, pt. I, as added Pub. L. 100–690, title IV, §4507, Nov. 18, 1988, 102 Stat. 4286; amended Pub. L. 102–583, §4(f)(2)(B), (C), Nov. 2, 1992, 106 Stat. 4917.
 
 #### Amendments
 

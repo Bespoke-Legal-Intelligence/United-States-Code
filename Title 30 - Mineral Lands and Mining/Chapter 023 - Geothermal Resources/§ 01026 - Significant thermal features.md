@@ -88,7 +88,7 @@ Nothing in this chapter shall affect the ban on leasing under this chapter with 
 
 #### References in Text
 
-Public Law 98–473, referred to in subsec. (f), is Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1837, as amended. For complete classification of this Act to the Code, see Tables.
+Public Law 98–473, referred to in subsec. (f), is Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1837. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -110,7 +110,7 @@ Pub. L. 100–443, §8, Sept. 22, 1988, 102 Stat. 1771, provided that:
 
 "(b) Any production from existing geothermal wells or any development of new geothermal wells or other facilities related to geothermal production is prohibited in the Corwin Springs Known Geothermal Resource Area until 180 days after the receipt by Congress of the study provided for in subsection (a) of this section.
 
-"(c) The Secretary may not issue, extend, renew or modify any geothermal lease or drilling permit pursuant to the Geothermal Steam Act of 1970 (30 U.S.C. 1001–1025) in the Corwin Springs Known Geothermal Resource Area until 180 days after the receipt by Congress of the study provided for in section 8(a) of this Act. This section shall not be construed as requiring suchleasing activities subsequent to the 180 days after study submittal.
+"(c) The Secretary may not issue, extend, renew or modify any geothermal lease or drilling permit pursuant to the Geothermal Steam Act of 1970 (30 U.S.C. 1001–1025) in the Corwin Springs Known Geothermal Resource Area until 180 days after the receipt by Congress of the study provided for in section 8(a) of this Act. This section shall not be construed as requiring such leasing activities subsequent to the 180 days after study submittal.
 
 "(d) If the Secretary determines that geothermal drilling and related activities within the area studied pursuant to subsection (a) of this section may adversely affect the thermal features of Yellowstone National Park, the Secretary shall include in the study required under subsection (a) of this section recommendations regarding the acquisition of the geothermal rights necessary to protect such thermal resources and features."
 

@@ -18,7 +18,7 @@ A manufacturer of telecommunications equipment or customer premises equipment sh
 
 #### (c) Telecommunications services
 
-A provider of telecommunications service shall ensure that the service is accessible to andusable by individuals with disabilities, if readily achievable.
+A provider of telecommunications service shall ensure that the service is accessible to and usable by individuals with disabilities, if readily achievable.
 
 #### (d) Compatibility
 

@@ -12,7 +12,7 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter661 of this title as this chapter and items 7861 to 7863 as 8911 to 8913, respectively.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 661 of this title as this chapter and items 7861 to 7863 as 8911 to 8913, respectively.
 
 <b>1996</b>—Pub. L. 104–106, div. A, title IX, §913(c)(3)(B)(ii), Feb. 10, 1996, 110 Stat. 411, substituted "Disposal of public stores" for "Disbursements" in item 7863.
 

@@ -28,9 +28,9 @@ Nothing in the Compact shall interfere in any manner with—
 
 Nothing in the Compact shall be construed to affect the authority of the FBI under the Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973 (Public Law 92–544 (86 Stat. 1115)).
 
-#### (d) Federal Advisory Committee Act
+#### (d) Chapter 10 of title 5
 
-The Council shall not be considered to be a Federal advisory committee for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
+The Council shall not be considered to be a Federal advisory committee for purposes of chapter 10 of title 5.
 
 #### (e) Members of Council not Federal officers or employees
 
@@ -40,7 +40,7 @@ Members of the Council (other than a member from the FBI or any at-large member 
 
 &emsp;(2) to become entitled by reason of Council membership to any compensation or benefit payable or made available by the Federal Government to its officers or employees.
 
-(Pub. L. 105–251, title II, §215, Oct. 9, 1998, 112 Stat. 1875.)
+(Pub. L. 105–251, title II, §215, Oct. 9, 1998, 112 Stat. 1875; Pub. L. 117–286, §4(a)(213), Dec. 27, 2022, 136 Stat. 4329.)
 
 #### <b>Editorial Notes</b>
 
@@ -56,15 +56,17 @@ The Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec
 
 The United States Housing Act of 1937, referred to in subsec. (b)(1)(E), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(1)(F), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016,which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(1)(F), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
 The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in subsec. (c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. For complete classification of this Act to the Code, see Tables.
-
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Section was formerly classified to section 14614 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)." in text.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -56,7 +56,7 @@
 
 #### (d) Deadline
 
-A covered employee may not file a claim under this section with respect to an allegation of a violation of law after the expiration of the 180-day period which begins on the date of the alleged violation.
+A covered employee may not file a claim under this section with respect to an allegationof a violation of law after the expiration of the 180-day period which begins on the date of the alleged violation.
 
 (Pub. L. 104–1, title IV, §402, Jan. 23, 1995, 109 Stat. 32; Pub. L. 115–397, title I, §102(a), Dec. 21, 2018, 132 Stat. 5301.)
 

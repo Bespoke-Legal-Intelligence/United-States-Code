@@ -63,6 +63,8 @@
 | [1831z.](%C2%A7%2001831z%20-%20Bi-annual%20FDIC%20survey%20and%20report%20on%20encouraging%20use%20of%20depository%20institutions%20by%20the%20unbanked.md) | Bi-annual FDIC survey and report on encouraging use of depository institutions by the unbanked. |
 | [1831aa.](%C2%A7%2001831aa%20-%20Enforcement%20of%20agreements.md) | Enforcement of agreements. |
 | [1831bb.](%C2%A7%2001831bb%20-%20Capital%20requirements%20for%20certain%20acquisition%2C%20development%2C%20or%20construction%20loans.md) | Capital requirements for certain acquisition, development, or construction loans. |
+| [1831cc.](%C2%A7%2001831cc%20-%20Data%20standards.md) | Data standards. |
+| [1831dd.](%C2%A7%2001831dd%20-%20Open%20data%20publication.md) | Open data publication. |
 | [1832\.](%C2%A7%2001832%20-%20Withdrawals%20by%20negotiable%20or%20transferable%20instruments%20for%20transfers%20to%20third%20parties.md) | Withdrawals by negotiable or transferable instruments for transfers to third parties. |
 | [1833\.](%C2%A7%2001833%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20II%2C%20%C2%A72224%28b%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93415.md) | Repealed. |
 | [1833a.](%C2%A7%2001833a%20-%20Civil%20penalties.md) | Civil penalties. |
@@ -144,6 +146,8 @@
 - [&sect; 01831z - Bi-annual FDIC survey and report on encouraging use of depository institutions by the unbanked](%C2%A7%2001831z%20-%20Bi-annual%20FDIC%20survey%20and%20report%20on%20encouraging%20use%20of%20depository%20institutions%20by%20the%20unbanked.md)
 - [&sect; 01831aa - Enforcement of agreements](%C2%A7%2001831aa%20-%20Enforcement%20of%20agreements.md)
 - [&sect; 01831bb - Capital requirements for certain acquisition, development, or construction loans](%C2%A7%2001831bb%20-%20Capital%20requirements%20for%20certain%20acquisition%2C%20development%2C%20or%20construction%20loans.md)
+- [&sect; 01831cc - Data standards](%C2%A7%2001831cc%20-%20Data%20standards.md)
+- [&sect; 01831dd - Open data publication](%C2%A7%2001831dd%20-%20Open%20data%20publication.md)
 - [&sect; 01832 - Withdrawals by negotiable or transferable instruments for transfers to third parties](%C2%A7%2001832%20-%20Withdrawals%20by%20negotiable%20or%20transferable%20instruments%20for%20transfers%20to%20third%20parties.md)
 - [&sect; 01833 - Repealed. Pub. L. 104&#8211;208, div. A, title II, &sect;2224(b), Sept. 30, 1996, 110 Stat. 3009&#8211;415](%C2%A7%2001833%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20A%2C%20title%20II%2C%20%C2%A72224%28b%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93415.md)
 - [&sect; 01833a - Civil penalties](%C2%A7%2001833a%20-%20Civil%20penalties.md)

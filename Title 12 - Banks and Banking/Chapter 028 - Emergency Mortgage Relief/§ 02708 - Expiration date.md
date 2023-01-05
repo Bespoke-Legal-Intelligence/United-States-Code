@@ -8,7 +8,7 @@ No loans or advance of credit shall be insured and no emergency mortgage relief 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 struck out "Authorization and" before "expiration date" in section catchline, struck out subsec. (a), struck out subsec. (b) designation before "No loans", and substituted "2011" for "1977". Prior to amendment, subsec. (a) read as follows: "There are authorized to be appropriated for purposes of this chapter such sums as may be necessary, except that the funds authorized to be appropriated for section 2705 ofthis title shall not exceed $500,000,000. Any amounts so appropriated shall remain available until expended."
+<b>2010</b>—Pub. L. 111–203 struck out "Authorization and" before "expiration date" in section catchline, struck out subsec. (a), struck out subsec. (b) designation before "No loans", and substituted "2011" for "1977". Prior to amendment, subsec. (a) read as follows: "There are authorized to be appropriated for purposes of this chapter such sums as may be necessary, except that the funds authorized to be appropriated for section 2705 of this title shall not exceed $500,000,000. Any amounts so appropriated shall remain available until expended."
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–375 substituted "September 30, 1977" for "June 30, 1976".
 

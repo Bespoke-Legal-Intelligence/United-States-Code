@@ -6,7 +6,7 @@ Any agency action by the Commission made under the provisions of this chapter sh
 
 #### (b) Review procedures
 
-The provisions of chapter 7 of title 5, United States Code, apply to judicial review of any agency action, as defined in section 551(13) of title 5, United States Code, by the Commission.
+The provisions of chapter 7 of title 5, United States Code, apply to judicial review of anyagency action, as defined in section 551(13) of title 5, United States Code, by the Commission.
 
 (Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1302.)
 

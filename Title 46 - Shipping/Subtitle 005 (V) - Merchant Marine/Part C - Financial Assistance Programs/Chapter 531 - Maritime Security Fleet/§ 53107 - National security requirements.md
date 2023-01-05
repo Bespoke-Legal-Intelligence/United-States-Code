@@ -38,7 +38,7 @@ Compensation.—
 
 &emsp;(1)
 
-In general.—The Secretary shall include in each Emergency Preparedness Agreement provisions approved by the Secretary of Defense under which the Secretary of Defense shall pay fair and reasonable compensation for all commercial transportation resources provided pursuant to this section.
+In general.—The Secretary shall include in each Emergency Preparedness Agreement provisions approved by the Secretary of Defense under which the Secretary of Defenseshall pay fair and reasonable compensation for all commercial transportation resources provided pursuant to this section.
 
 &emsp;(2)
 

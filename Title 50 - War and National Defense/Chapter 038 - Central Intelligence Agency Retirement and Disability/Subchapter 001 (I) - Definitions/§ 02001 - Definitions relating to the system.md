@@ -178,7 +178,7 @@ Pub. L. 103–36, §1, June 8, 1993, 107 Stat. 104, provided that: "This Act \[a
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–496, title VIII, §801, Oct. 24, 1992, 106 Stat. 3196, provided that: "This title \[enacting this chapter, amending sections 403n, 403r, 403r–1, and 403s of this title, sections 8347 and 8423 of Title 5, Government Organization and Employees, section 1605 of Title 10, Armed Forces and sections 4071b to 4071d of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 402 of this title\] may be cited as the 'CIARDS Technical Corrections Act of 1992'."
+Pub. L. 102–496, title VIII, §801, Oct. 24, 1992, 106 Stat. 3196, provided that: "This title \[enacting this chapter,amending sections 403n, 403r, 403r–1, and 403s of this title, sections 8347 and 8423 of Title 5, Government Organization and Employees, section 1605 of Title 10, Armed Forces and sections 4071b to 4071d of Title 22, Foreign Relations and Intercourse, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 402 of this title\] may be cited as the 'CIARDS Technical Corrections Act of 1992'."
 
 #### Short Title of 1982 Amendment
 
@@ -244,7 +244,7 @@ Ex. Ord. No. 12253, Nov. 25, 1980, 45 F.R. 78995, conformed Central Intelligence
 
 #### Executive Order No. 12273
 
-Ex. Ord. No. 12273, Jan. 16, 1981, 46 F.R. 5854, conformed Central Intelligence Agency and Civil Service Retirement and Disability Systems with regard to cost-of-living increases to annuities.
+Ex. Ord. No. 12273, Jan. 16, 1981, 46 F.R. 5854, conformed Central Intelligence Agency and Civil ServiceRetirement and Disability Systems with regard to cost-of-living increases to annuities.
 
 #### Executive Order No. 12326
 
@@ -256,7 +256,7 @@ Ex. Ord. No. 12443, Sept. 27, 1983, 48 F.R. 44751, conformed Central Intelligenc
 
 #### Executive Order No. 12485
 
-Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827, conformed Central Intelligence Agency Retirement andDisability System and Civil Service Retirement and Disability System with regard to prior service credit.
+Ex. Ord. No. 12485, July 13, 1984, 49 F.R. 28827, conformed Central Intelligence Agency Retirement and Disability System and Civil Service Retirement and Disability System with regard to prior service credit.
 
 #### Executive Order No. 12684
 

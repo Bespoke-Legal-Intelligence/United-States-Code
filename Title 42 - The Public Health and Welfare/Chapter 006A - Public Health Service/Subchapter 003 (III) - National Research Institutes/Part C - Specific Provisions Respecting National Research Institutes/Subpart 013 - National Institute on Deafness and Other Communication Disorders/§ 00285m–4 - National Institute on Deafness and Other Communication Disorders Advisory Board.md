@@ -10,7 +10,7 @@ The Advisory Board shall be composed of eighteen appointed members and nonvoting
 
 &emsp;(1) The Secretary shall appoint—
 
-&emsp;&emsp;(A) twelve members from individuals who are scientists, physicians, and other health and rehabilitation professionals, who are not officers or employees of the United States,and who represent the specialties and disciplines relevant to deafness and other communication disorders, including not less than two persons with a communication disorder; and
+&emsp;&emsp;(A) twelve members from individuals who are scientists, physicians, and other health and rehabilitation professionals, who are not officers or employees of the United States, and who represent the specialties and disciplines relevant to deafness and other communication disorders, including not less than two persons with a communication disorder; and
 
 &emsp;&emsp;(B) six members from the general public who are knowledgeable with respect to such disorders, including not less than one person with a communication disorder and not less than one person who is a parent of an individual with such a disorder.
 
@@ -104,7 +104,7 @@ For effective date of amendment by section 2613(b)(2) of Pub. L. 100–690, see 
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

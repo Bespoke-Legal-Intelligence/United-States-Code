@@ -100,7 +100,7 @@ Functions terminated.—In any case in which a provision of law authorizing the 
 
 &emsp;"(3)
 
-Delegation of functions.—The Director of the Office of Management and Budget may delegate, in whole or in part, to any other agency or agencies any function transferred to or vested in the Director under section 103(d), 105(b), 116, or 202(n) of this Act \[amending section 3702 of this title, section 5584 of Title 5, Government Organization and Employees, section 2774 of Title 10, Armed Forces, and section 716of Title 32, National Guard\], and may transfer to such agency or agencies any personnel, budget authority, records, and property received by the Director pursuant to subsection (b) of this section that relate to the delegated functions.
+Delegation of functions.—The Director of the Office of Management and Budget may delegate, in whole or in part, to any other agency or agencies any function transferred to or vested in the Director under section 103(d), 105(b), 116, or 202(n) of this Act \[amending section 3702 of this title, section 5584 of Title 5, Government Organization and Employees, section 2774 of Title 10, Armed Forces, and section 716 of Title 32, National Guard\], and may transfer to such agency or agencies any personnel, budget authority, records, and property received by the Director pursuant to subsection (b) of this section that relate to the delegated functions.
 
 "(b)
 

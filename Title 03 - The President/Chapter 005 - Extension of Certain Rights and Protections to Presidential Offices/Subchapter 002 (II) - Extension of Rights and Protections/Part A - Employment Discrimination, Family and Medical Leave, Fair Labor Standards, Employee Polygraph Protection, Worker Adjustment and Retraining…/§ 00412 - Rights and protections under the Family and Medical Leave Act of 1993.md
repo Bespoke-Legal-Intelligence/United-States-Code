@@ -54,7 +54,7 @@ Agency regulations.—The regulations issued under paragraph (1) shall be the sa
 
 &emsp;&emsp;(A) except to the extent that the President or designee may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section;
 
-&emsp;&emsp;(B) except that the President or designee may, at the discretion of the President or designee, issue regulations to implement a provision of subchapter V of chapter 63 of title 5, United States Code, that applies to employees in the executive branch of the Federal Government in lieu of an analogous statutory provision referred to in subsection (a) or (b), if the issuance of such regulations—
+&emsp;&emsp;(B) except that the President or designee may, at the discretion of the President or designee, issue regulations to implement aprovision of subchapter V of chapter 63 of title 5, United States Code, that applies to employees in the executive branch of the Federal Government in lieu of an analogous statutory provision referred to in subsection (a) or (b), if the issuance of such regulations—
 
 &emsp;&emsp;&emsp;(i) would be equally effective for the implementation of the rights and protections under this section; and
 

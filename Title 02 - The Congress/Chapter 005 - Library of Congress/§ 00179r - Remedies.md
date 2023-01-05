@@ -8,7 +8,7 @@ The several district courts of the United States shall have jurisdiction, for ca
 
 #### (1) Removal of seal
 
-&emsp;Except as provided in paragraph (2), relief for violation of section 179q(a) of this title shall be limited to the removal of the seal of the National Film Registry from the film involved in the violation.
+&emsp;Except as provided in paragraph (2), relief for violation of section 179q(a) of this titleshall be limited to the removal of the seal of the National Film Registry from the film involved in the violation.
 
 #### (2) Fine and injunctive relief
 

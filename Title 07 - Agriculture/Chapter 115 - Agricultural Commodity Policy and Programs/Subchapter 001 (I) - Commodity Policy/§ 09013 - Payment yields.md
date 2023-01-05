@@ -26,7 +26,7 @@ For the purpose of making price loss coverage payments under section 9016 of thi
 
 #### (3) Use of county average yield
 
-&emsp;If the yield per planted acre for a crop of an oilseed designated before December 20, 2018,for a farm for any of the 1998 through 2001 crop years was less than 75 percent of the county yield for that designated oilseed, the Secretary shall assign a yield for that crop year equal to 75 percent of the county yield for the purpose of determining the average under paragraph (1).
+&emsp;If the yield per planted acre for a crop of an oilseed designated before December 20, 2018, for a farm for any of the 1998 through 2001 crop years was less than 75 percent of the county yield for that designated oilseed, the Secretary shall assign a yield for that crop year equal to 75 percent of the county yield for the purpose of determining the average under paragraph (1).
 
 #### (4) Treatment of oilseeds designated after certain date
 
@@ -100,7 +100,7 @@ Subsec. (b)(2), (3). Pub. L. 115–334, §1103(a)(2), substituted "an oilseed de
 
 Subsec. (b)(4). Pub. L. 115–334, §1103(a)(3), added par. (4).
 
-Subsec. (d). Pub. L. 115–334, §1103(b), added subsec. (d) and struck out former subsec. (d) which consisted of pars. (1) to (4) relating to election to update paymentyield, time for election, method of updating yields, and use of county average yield, respectively.
+Subsec. (d). Pub. L. 115–334, §1103(b), added subsec. (d) and struck out former subsec. (d) which consisted of pars. (1) to (4) relating to election to update payment yield, time for election, method of updating yields, and use of county average yield, respectively.
 
 Subsec. (e). Pub. L. 115–123 added subsec. (e).
 

@@ -22,7 +22,7 @@ Production Contract.—
 
 &emsp;(1)
 
-Determining whether proposals are necessary.—In preparing a solicitation for the award of a production contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in paragraph (2). In determining whether to require the proposals, the head of the agency shall consider the purposes for which the system is being procured and the technology necessary to meet the system's required capabilities. If the proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
+Determining whether proposals are necessary.—In preparing a solicitation for the award of a production contract for a major system, the head of an agency shall consider requiring in the solicitation that an offeror include in its offer proposals described in paragraph (2). In determining whether to require the proposals, the head of the agency shall consider the purposes for which the system isbeing procured and the technology necessary to meet the system's required capabilities. If the proposals are required, the head of the agency shall consider them in evaluating the offeror's price.
 
 &emsp;(2)
 

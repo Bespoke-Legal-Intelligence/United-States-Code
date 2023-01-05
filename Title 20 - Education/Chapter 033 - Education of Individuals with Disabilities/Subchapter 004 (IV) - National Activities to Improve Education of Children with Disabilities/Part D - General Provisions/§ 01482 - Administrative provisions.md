@@ -28,7 +28,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish and use a standing panel of experts who are qualified, by virtue of their training, expertise, or experience, to evaluate each application under part B or C that requests more than $75,000 per year in Federal financial assistance.
+&emsp;&emsp;The Secretary shall establish and use a standing panel of experts who are qualified,by virtue of their training, expertise, or experience, to evaluate each application under part B or C that requests more than $75,000 per year in Federal financial assistance.
 
 #### (B) Membership
 
@@ -88,7 +88,7 @@ The Secretary may use funds made available to carry out part B or C to evaluate 
 
 &emsp;Subject to paragraph (2), the Secretary shall ensure that, for each fiscal year, not less than the following amounts are provided under parts B and C to address the following needs:
 
-&emsp;&emsp;(A) $12,832,000 to address the educational, related services, transitional, and earlyintervention needs of children with deaf-blindness.
+&emsp;&emsp;(A) $12,832,000 to address the educational, related services, transitional, and early intervention needs of children with deaf-blindness.
 
 &emsp;&emsp;(B) $4,000,000 to address the postsecondary, vocational, technical, continuing, and adult education needs of individuals with deafness.
 
@@ -104,7 +104,7 @@ The Secretary may use funds made available to carry out part B or C to evaluate 
 
 #### References in Text
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (d)(2), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part E of the Act is classified generally to part E (§9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (d)(2), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part E of the Act is classified generally to part E (§9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 #### Prior Provisions
 

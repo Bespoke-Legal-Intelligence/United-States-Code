@@ -1,6 +1,6 @@
 ### §521. Authority to prescribe total strengths of officers on active duty and officer strengths in various categories
 
-(a) Whenever the needs of the services require, but at least once each fiscal year, the Secretary of Defense shall prescribe the total authorized active-duty strength as of the end of the fiscal year for officers in grades above chief warrant officer, W–5, for each of the armed forces under the jurisdiction of the Secretary of a military department.
+(a) Whenever the needs of the services require, but at least once each fiscal year, the Secretary of Defense shall prescribe the total authorized active-duty strength as of the end of the fiscal year for officers in grades above chief warrant officer, W–⁠5, for each of the armed forces under the jurisdiction of the Secretary of a military department.
 
 (b) Under regulations prescribed by the Secretary of Defense, the Secretary of each military department may, for an armed force under his jurisdiction, prescribe the strength of any category of officers that may serve on active duty.
 
@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted "chief warrant officer, W–5," for "warrant officer (W–4)".
+<b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted "chief warrant officer, W–⁠5," for "warrant officer (W–4)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -28,7 +28,7 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 #### Evaluation of Effects of Officer Strength Reductions on Officer Personnel Management Systems
 
-Pub. L. 102–484, div. A, title V, §502, Oct. 23, 1992, 106 Stat. 2402, directed the Secretary of Defense to providefor an independent, federally funded research and development center to review the officer personnel management system of each of the military departments and to determine and evaluate the effects of post-Cold War officer strength reductions on that officer personnel management system, required the center to submit to the Secretary of Defense a report on the results of the review and evaluation not later than Dec. 31, 1993, and directed the Secretary to transmit the report to committees of Congress within 60 days after receipt.
+Pub. L. 102–484, div. A, title V, §502, Oct. 23, 1992, 106 Stat. 2402, directed the Secretary of Defense to provide for an independent, federally funded research and development center to review the officer personnel management system of each of the military departments and to determine and evaluate the effects of post-Cold War officer strength reductions on that officer personnel management system, required the center to submit to the Secretary of Defense a report on the results of the review and evaluation not later than Dec. 31, 1993, and directed the Secretary to transmit the report to committees of Congress within 60 days after receipt.
 
 #### Strength of Active Duty Officer Corps
 
@@ -54,7 +54,7 @@ Certification and Report.—The Secretary may exercise the authority under subse
 
 &emsp;"(1) the Secretary makes a determination that such increase is necessary in order to avoid severe personnel management problems in the Army, Navy, Air Force, and Marine Corps during fiscal year 1988 and certifies such determination to the Committees on Armed Services of the Senate and the House of Representatives; and
 
-&emsp;"(2) the Secretary submits to those Committees with such certification a report providing legislative recommendations for temporary changes in chapter 36 of title 10, United States Code, and other provisions of law enacted by the Defense Officer Personnel Management Act (Public Law 96–513) \[see Tables for classification\] that the Secretary considers necessary in order to implement the required officer reductions under such section 403 \[set out below\] with the least possible adverse effect on the Armed Forces."
+&emsp;"(2) the Secretary submits to those Committees with such certification a report providing legislative recommendations for temporary changes in chapter 36 of title 10, United States Code, and other provisions of law enacted by the Defense Officer Personnel Management Act (Public Law 96–513) \[see Tables forclassification\] that the Secretary considers necessary in order to implement the required officer reductions under such section 403 \[set out below\] with the least possible adverse effect on the Armed Forces."
 
 Pub. L. 99–661, div. A, title IV, §403, Nov. 14, 1986, 100 Stat. 3859, as amended by Pub. L. 100–456, div. A, title IV, §402(a), Sept. 29, 1988, 102 Stat. 1963; Pub. L. 101–189, div. A, title VI, §653(e)(2), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 103–337, div. A, title XVI, §1677(e), Oct. 5, 1994, 108 Stat. 3020, provided that:
 

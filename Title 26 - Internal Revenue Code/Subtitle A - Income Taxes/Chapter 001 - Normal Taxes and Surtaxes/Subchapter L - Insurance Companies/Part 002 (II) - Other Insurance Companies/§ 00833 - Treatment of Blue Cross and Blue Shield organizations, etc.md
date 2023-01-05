@@ -96,7 +96,7 @@ In the case of any organization to which this section applies—
 
 &emsp;&emsp;(B) such organization is determined to be exempt from tax for its last taxable year beginning before January 1, 1987, and
 
-&emsp;&emsp;(C) no material change has occurred in the operations of such organization or in its structure after August 16, 1986, and before the close of the taxable year.
+&emsp;&emsp;(C) no material change has occurred in the operations of such organization or in itsstructure after August 16, 1986, and before the close of the taxable year.
 
 > &emsp;To the extent permitted by the Secretary, any successor to an organization meeting the requirements of the preceding sentence, and any organization resulting from the merger or consolidation of organizations each of which met such requirements, shall be treated as an existing Blue Cross or Blue Shield organization.
 
@@ -182,7 +182,7 @@ Pub. L. 113–235, div. N, §102(b), Dec. 16, 2014, 128 Stat. 2773, provided tha
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title IX, §9016(b), Mar. 23, 2010, 124 Stat. 872, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
+Pub. L. 111–148, title IX, §9016(b), Mar. 23, 2010, 124 Stat. 872, provided that: "The amendment made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
 
 #### Effective Date of 1997 Amendment
 

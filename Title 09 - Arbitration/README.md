@@ -8,12 +8,15 @@
 | [<b>1.</b>](Chapter%20001%20-%20General%20Provisions/README.md) | <b>General provisions</b> | <b>1</b> |
 | [<b>2.</b>](Chapter%20002%20-%20Convention%20on%20the%20Recognition%20and%20Enforcement%20of%20Foreign%20Arbitral%20Awards/README.md) | <b>Convention on the Recognition and Enforcement of Foreign Arbitral Awards</b> | <b>201</b> |
 | [<b>3.</b>](Chapter%20003%20-%20Inter-American%20Convention%20on%20International%20Commercial%20Arbitration/README.md) | <b>Inter-American Convention on International Commercial Arbitration</b> | <b>301</b> |
+| [<b>4.</b>](Chapter%20004%20-%20Arbitration%20of%20Disputes%20Involving%20Sexual%20Assault%20and%20Sexual%20Harassment/README.md) | <b>Arbitration of disputes involving sexual assault and sexual harassment</b> | <b>401</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–90, §2(b)(3), Mar. 3, 2022, 136 Stat. 27, added item for chapter 4.
 
 <b>1990</b>—Pub. L. 101–369, §2, Aug. 15, 1990, 104 Stat. 450, added item for chapter 3.
 
@@ -61,3 +64,4 @@ Act July 30, 1947, ch. 392, §2, 61 Stat. 674, provided that the sections or par
 - [Chapter 001 - General Provisions](Chapter%20001%20-%20General%20Provisions/README.md)
 - [Chapter 002 - Convention on the Recognition and Enforcement of Foreign Arbitral Awards](Chapter%20002%20-%20Convention%20on%20the%20Recognition%20and%20Enforcement%20of%20Foreign%20Arbitral%20Awards/README.md)
 - [Chapter 003 - Inter-American Convention on International Commercial Arbitration](Chapter%20003%20-%20Inter-American%20Convention%20on%20International%20Commercial%20Arbitration/README.md)
+- [Chapter 004 - Arbitration of Disputes Involving Sexual Assault and Sexual Harassment](Chapter%20004%20-%20Arbitration%20of%20Disputes%20Involving%20Sexual%20Assault%20and%20Sexual%20Harassment/README.md)

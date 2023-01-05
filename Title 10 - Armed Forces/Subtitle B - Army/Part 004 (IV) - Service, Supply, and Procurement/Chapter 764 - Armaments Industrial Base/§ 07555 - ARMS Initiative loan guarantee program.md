@@ -10,7 +10,7 @@ Advanced Budget Authority.—Loan guarantees under this section may not be commi
 
 (c)
 
-Program Administration.—(1) The Secretary may enter into an agreement with any ofthe officials named in paragraph (2) under which that official may, for the purposes of this section—
+Program Administration.—(1) The Secretary may enter into an agreement with any of the officials named in paragraph (2) under which that official may, for the purposes of this section—
 
 &emsp;(A) process applications for loan guarantees;
 

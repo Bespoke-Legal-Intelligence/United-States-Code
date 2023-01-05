@@ -46,7 +46,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 #### (i) Post-accident communications
 
-&emsp;&emsp;&emsp;The plan shall provide for a redundant means of communication with the surfacefor persons underground, such as secondary telephone or equivalent two-way communication.
+&emsp;&emsp;&emsp;The plan shall provide for a redundant means of communication with the surface for persons underground, such as secondary telephone or equivalent two-way communication.
 
 #### (ii) Post-accident tracking
 
@@ -58,7 +58,7 @@ Telephone service or equivalent two-way communication facilities, approved by th
 
 &emsp;&emsp;&emsp;&emsp;(I) emergency supplies of breathable air for individuals trapped underground sufficient to maintain such individuals for a sustained period of time;
 
-&emsp;&emsp;&emsp;&emsp;(II) in addition to the 2 hours of breathable air per miner required by law under the emergency temporary standard as of the day before June 15, 2006, caches of self-rescuers providing in the aggregate not less than 2 hours per miner to be kept in escapeways from the deepest work area to the surface at a distance of no further than an average miner could walk in 30 minutes;
+&emsp;&emsp;&emsp;&emsp;(II) in addition to the 2 hours of breathable air per miner required by lawunder the emergency temporary standard as of the day before June 15, 2006, caches of self-rescuers providing in the aggregate not less than 2 hours per miner to be kept in escapeways from the deepest work area to the surface at a distance of no further than an average miner could walk in 30 minutes;
 
 &emsp;&emsp;&emsp;&emsp;(III) a maintenance schedule for checking the reliability of self rescuers, retiring older self-rescuers first, and introducing new self-rescuer technology, such as units with interchangeable air or oxygen cylinders not requiring doffing to replenish airflow and units with supplies of greater than 60 minutes, as they are approved by the Administration and become available on the market; and
 

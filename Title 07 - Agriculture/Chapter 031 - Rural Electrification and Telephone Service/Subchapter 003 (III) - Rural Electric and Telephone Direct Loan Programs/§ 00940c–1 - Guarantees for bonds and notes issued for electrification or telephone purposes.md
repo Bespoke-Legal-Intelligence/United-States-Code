@@ -24,7 +24,7 @@
 
 #### (1) Outstanding loans
 
-&emsp;A lender shall not receive a guarantee under this section for a bond or note if, at the time of the guarantee, the total principal amountof such guaranteed bonds or notes outstanding of the lender would exceed the principal amount of outstanding loans of the lender for eligible purposes described in subsection (a)(1).
+&emsp;A lender shall not receive a guarantee under this section for a bond or note if, at the time of the guarantee, the total principal amount of such guaranteed bonds or notes outstanding of the lender would exceed the principal amount of outstanding loans of the lender for eligible purposes described in subsection (a)(1).
 
 #### (2) Qualifications
 

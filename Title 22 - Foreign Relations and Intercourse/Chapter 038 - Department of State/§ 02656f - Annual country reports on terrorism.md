@@ -16,7 +16,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 4605(j) <sup>1</sup> of title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
 
-&emsp;(3) with respect to each foreign country from which the United States Government hassought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
+&emsp;(3) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
 
 &emsp;&emsp;(A) the extent to which the government of the foreign country is cooperating with the United States Government in apprehending, convicting, and punishing the individual or individuals responsible for the act; and
 
@@ -90,7 +90,7 @@ The report required under subsection (a) should to the extent feasible include (
 
 #### (c) Classification of report
 
-(1) Except as provided in paragraph (2), the report required under subsection (a) shall, to theextent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
+(1) Except as provided in paragraph (2), the report required under subsection (a) shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
 
 (2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
 

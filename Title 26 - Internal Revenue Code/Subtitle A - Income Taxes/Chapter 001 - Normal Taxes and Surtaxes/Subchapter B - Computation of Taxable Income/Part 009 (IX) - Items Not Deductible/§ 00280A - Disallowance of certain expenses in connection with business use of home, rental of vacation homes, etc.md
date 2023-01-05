@@ -24,7 +24,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (2) Certain storage use
 
-&emsp;Subsection (a) shall not apply to any item to the extent such item is allocable to space within the dwelling unit which is used on a regular basis as a storage unit for the inventory or product samples of the taxpayer held for use in the taxpayer's trade or business of selling products at retail or wholesale, but only if the dwelling unit is the sole fixed location of such trade or business.
+&emsp;Subsection (a) shall not apply to any item to the extent such item is allocable to space within the dwelling unit which is used on a regular basis as a storage unit for the inventory or product samples of the taxpayer heldfor use in the taxpayer's trade or business of selling products at retail or wholesale, but only if the dwelling unit is the sole fixed location of such trade or business.
 
 #### (3) Rental use
 
@@ -68,7 +68,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (6) Treatment of rental to employer
 
-&emsp;Paragraphs (1) and (3) shall not apply to any item which is attributable to the rental of thedwelling unit (or any portion thereof) by the taxpayer to his employer during any period in which the taxpayer uses the dwelling unit (or portion) in performing services as an employee of the employer.
+&emsp;Paragraphs (1) and (3) shall not apply to any item which is attributable to the rental of the dwelling unit (or any portion thereof) by the taxpayer to his employer during any period in which the taxpayer uses the dwelling unit (or portion) in performing services as an employee of the employer.
 
 #### (d) Use as residence
 
@@ -146,7 +146,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (1) In general
 
-&emsp;In any case where a taxpayer who is an individual or an S corporation uses a dwelling unit for personal purposes on any day during the taxable year (whether or not he is treated under this section as using such unit as a residence), the amount deductible under this chapter with respect to expenses attributableto the rental of the unit (or portion thereof) for the taxable year shall not exceed an amount which bears the same relationship to such expenses as the number of days during each year that the unit (or portion thereof) is rented at a fair rental bears to the total number of days during such year that the unit (or portion thereof) is used.
+&emsp;In any case where a taxpayer who is an individual or an S corporation uses a dwelling unit for personal purposes on any day during the taxable year (whether or not he is treated under this section as using such unit as a residence), the amount deductible under this chapter with respect to expenses attributable to the rental of the unit (or portion thereof) for the taxable year shall not exceed an amount which bears the same relationship to such expenses as the number of days during each year that the unit (or portion thereof) is rented at a fair rental bears to the total number of days during such year that the unit (or portion thereof) is used.
 
 #### (2) Exception for deductions otherwise allowable
 
@@ -180,7 +180,7 @@ Subsection (a) shall not apply to any deduction allowable to the taxpayer withou
 
 #### (4) Coordination with section 162(a)(2)
 
-&emsp;Nothing in this section shall be construed to disallow any deduction allowable under section 162(a)(2) (or any deduction which meets the tests of section 162(a)(2) but is allowable under another provision of this title) by reason of the taxpayer's being away from home in the pursuit of a trade or business (other than the trade or business of renting dwelling units).
+&emsp;Nothing in this section shall be construed to disallow any deduction allowable under section 162(a)(2) (or any deduction which meetsthe tests of section 162(a)(2) but is allowable under another provision of this title) by reason of the taxpayer's being away from home in the pursuit of a trade or business (other than the trade or business of renting dwelling units).
 
 #### (g) Special rule for certain rental use
 
@@ -218,7 +218,7 @@ Subsec. (c)(6). Pub. L. 99–514, §143(b), added par. (6).
 
 Subsec. (f)(2). Pub. L. 97–354, §5(a)(26)(C), substituted "shareholders of S corporation" for "electing small business corporation" in subsec. heading, substituted "an S corporation" for "an electing small business corporation" and "any shareholder of the S corporation" for "any shareholder of the electing small business corporation".
 
-Subsec. (f)(4). Pub. L. 97–216 struck out ", etc." after "section 162(a)(2)" in heading, struck out "(A) In general.—" before "Nothing in this section", and struck out subpar. (B) which directed the Secretary to prescribe amounts deductible (without substantiation) pursuant to last sentence of section 162(a) and that no other provisions of this title could permit such a deduction for any taxable year of amounts in excess of theamounts determined to be appropriate under the circumstances.
+Subsec. (f)(4). Pub. L. 97–216 struck out ", etc." after "section 162(a)(2)" in heading, struck out "(A) In general.—" before "Nothing in this section", and struck out subpar. (B) which directed the Secretary to prescribe amounts deductible (without substantiation) pursuant to last sentence of section 162(a) and that no other provisions of this title could permit such a deduction for any taxable year of amounts in excess of the amounts determined to be appropriate under the circumstances.
 
 <b>1981</b>—Subsec. (c)(1)(A). Pub. L. 97–119, §113(c), substituted "the principal place of business for any trade or business of the taxpayer" for "as the taxpayer's principal place of business".
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 #### Effective Dates of 1982 Amendment
 
-Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
+Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) ofPub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
 Amendment by Pub. L. 97–216 applicable to taxable years beginning after Dec. 31, 1981, see section 215(d) of Pub. L. 97–216, set out as a note under section 162 of this title.
 

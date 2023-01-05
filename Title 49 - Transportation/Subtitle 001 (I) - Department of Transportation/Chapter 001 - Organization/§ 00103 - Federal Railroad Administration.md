@@ -144,7 +144,7 @@ The date of enactment of the Passenger Rail Investment and Improvement Act of 20
 
 #### Amendments
 
-<b>2011</b>—Subsec. (i). Pub. L. 111–350, which directed substitution of "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)" in subsec. (e), was executed to subsec. (i), to reflect the probable intent of Congress.
+<b>2011</b>—Subsec. (i). Pub. L. 111–350, which directed substitution of "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and AdministrativeServices Act of 1949 (41 U.S.C. 251 et seq.)" in subsec. (e), was executed to subsec. (i), to reflect the probable intent of Congress.
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–432, §307(1), (2), inserted heading and struck out at end "To carry out all railroad safety laws of the United States, the Administration is divided on a geographical basis into at least 8 safety offices. The Secretary of Transportation is responsible for all acts taken under those laws and for ensuring that the laws are uniformly administered and enforced among the safety offices."
 

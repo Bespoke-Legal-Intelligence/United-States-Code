@@ -24,7 +24,7 @@ Except as provided in subsection (c), any organization (including an organizatio
 
 #### (2) Exceptions by regulations
 
-&emsp;The Secretary may by regulations exempt (to the extent and subject to such conditions as may be prescribed in such regulations) from the provisions of subsection (a) or (b) or both—
+&emsp;The Secretary may by regulations exempt (to the extent and subject to such conditionsas may be prescribed in such regulations) from the provisions of subsection (a) or (b) or both—
 
 &emsp;&emsp;(A) educational organizations described in section 170(b)(1)(A)(ii), and
 
@@ -38,7 +38,7 @@ Except as provided in subsection (c), any organization (including an organizatio
 
 &emsp;&emsp;(A) by any person after notification is made under section 507(a), or
 
-&emsp;&emsp;(B) by a substantial contributor (as defined in section 507(d)(2)) in his taxable yearwhich includes the first day on which action is taken by such organization which culminates in the imposition of tax under section 507(c) and any subsequent taxable year.
+&emsp;&emsp;(B) by a substantial contributor (as defined in section 507(d)(2)) in his taxable year which includes the first day on which action is taken by such organization which culminates in the imposition of tax under section 507(c) and any subsequent taxable year.
 
 #### (2) Gift or bequest to taxable private foundation, section 4947 trust, etc.
 
@@ -114,7 +114,7 @@ Pub. L. 109–280, title XII, §1235(b)(2), Aug. 17, 2006, 120 Stat. 1102, provi
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 

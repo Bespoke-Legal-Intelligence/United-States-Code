@@ -18,7 +18,7 @@ Pub. L. 111–177, §1, June 8, 2010, 124 Stat. 1260, provided that: "This Act \
 
 #### Short Title
 
-Act Dec. 29, 1945, ch. 652, title I, §10, 59 Stat. 673, provided that: "This title \[enacting this subchapter andamending section 215 of Title 8, Aliens and Nationality, sections 116, 1607, 1621, 3466, 3469, 3475, and 3797 of Internal Revenue Code, 1939, and section 409 of Title 42, The Public Health and Welfare\] may be cited as the 'International Organizations Immunities Act'."
+Act Dec. 29, 1945, ch. 652, title I, §10, 59 Stat. 673, provided that: "This title \[enacting this subchapter and amending section 215 of Title 8, Aliens and Nationality, sections 116, 1607, 1621, 3466, 3469, 3475, and 3797 of Internal Revenue Code, 1939, and section 409 of Title 42, The Public Health and Welfare\] may be cited as the 'International Organizations Immunities Act'."
 
 #### International Cotton Advisory Committee
 

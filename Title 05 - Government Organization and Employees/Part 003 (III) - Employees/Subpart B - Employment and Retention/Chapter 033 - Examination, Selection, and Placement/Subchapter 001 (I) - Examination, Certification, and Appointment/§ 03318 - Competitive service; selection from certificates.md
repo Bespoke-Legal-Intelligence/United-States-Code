@@ -64,7 +64,7 @@ Collective bargaining obligations.—Nothing in this subsection limits any colle
 
 (a)
 
-In General.—An appointing authority shall select for appointment from the eligibles certified for appointment on a certificate furnished under section 3317(a), unless objection toone or more of the individuals certified is made to, and sustained by, the Director of the Office of Personnel Management or the head of an agency to which the Director has delegated examining authority under section 1104(a)(2), for proper and adequate reason under regulations prescribed by the Director.
+In General.—An appointing authority shall select for appointment from the eligibles certified for appointment on a certificate furnished under section 3317(a), unless objection to one or more of the individuals certified is made to, and sustained by, the Director of the Office of Personnel Management or the head of an agency to which the Director has delegated examining authority under section 1104(a)(2), for proper and adequate reason under regulations prescribed by the Director.
 
 (b)
 
@@ -168,7 +168,7 @@ June 27, 1944, ch. 287, §15 (less 1st sentence), 58 Stat. 391.
 
 The word "authority" is substituted for "officer" in recognition of the several appointing authorities named in section 2105(a)(1).
 
-In subsection (a), the provisions of former section 633(2)2 are merged in the requirement of former section 857, since the certificate must be of the three highest on the register and the nominating or appointing employee may select one of the three.
+In subsection (a), the provisions of former section 633(2)2 are merged in the requirement of former section857, since the certificate must be of the three highest on the register and the nominating or appointing employee may select one of the three.
 
 In subsection (c), the prohibition in former section 864 is restated in positive form. The words "an individual who qualifies as a preference eligible under section 2108(3)(B)–(F)" are substituted for "ten-point preference eligibles".
 

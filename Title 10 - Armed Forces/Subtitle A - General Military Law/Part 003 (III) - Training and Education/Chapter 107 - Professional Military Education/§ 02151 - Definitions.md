@@ -64,7 +64,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—Not later than July 1, 2022, the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the results of a review and assessment of the definition ofprofessional military education in the Department of Defense and the military departments as specified in subsection (c).
+In general.—Not later than July 1, 2022, the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the results of a review and assessment of the definition of professional military education in the Department of Defense and the military departments as specified in subsection (c).
 
 &emsp;"(2)
 

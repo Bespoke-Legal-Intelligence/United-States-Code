@@ -200,7 +200,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ix) Reducing market barriers, including non-hardware and information-based barriers, to the adoption of wind energy technologies, such as impacts on, or challenges relating to—
 
-&emsp;&emsp;&emsp;&emsp;(I) distributed wind technologies, including the development of best practices, models, and voluntary streamlined processes for local siting and permitting of distributed wind energy systems to reduce costs;
+&emsp;&emsp;&emsp;&emsp;(I) distributed wind technologies, including the development of best practices, models, and voluntary streamlined processes for local siting and permittingof distributed wind energy systems to reduce costs;
 
 &emsp;&emsp;&emsp;&emsp;(II) airspace;
 

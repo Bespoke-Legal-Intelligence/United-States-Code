@@ -1,6 +1,6 @@
 ### §8101. Complement of inspected vessels
 
-(a) The certificate of inspection issued to a vessel under part B of this subtitle shall state the complement of licensed individuals and crew (including lifeboatmen) considered by the Secretary to be necessary for safe operation. A manning requirement imposed on—
+(a) The certificate of inspection issued to a vessel under part B of this subtitle shall statethe complement of licensed individuals and crew (including lifeboatmen) considered by the Secretary to be necessary for safe operation. A manning requirement imposed on—
 
 &emsp;(1) a sailing school vessel shall consider the participation of sailing school instructors and sailing school students in the operation of that vessel;
 
@@ -14,7 +14,7 @@
 
 (d) A vessel to which this section applies may not be operated without having in its service the complement required in the certificate of inspection.
 
-(e) When a vessel is deprived of the service of a member of its complement without the consent, fault, or collusion of the owner, charterer, managing operator, agent, master, or individualin charge of the vessel, the master shall engage, if obtainable, a number of members equal to the number of those of whose services the master has been deprived. The replacements must be of the same or a higher grade or rating than those whose places they fill. If the master finds the vessel is sufficiently manned for the voyage, and replacements are not available to fill all the vacancies, the vessel may proceed on its voyage. Within 12 hours after the vessel arrives at its destination, the master shall report in writing to the Secretary the cause of each deficiency in the complement. A master failing to make the report is liable to the United States Government for a civil penalty of $1,000 for each deficiency.
+(e) When a vessel is deprived of the service of a member of its complement without the consent, fault, or collusion of the owner, charterer, managing operator, agent, master, or individual in charge of the vessel, the master shall engage, if obtainable, a number of members equal to the number of those of whose services the master has been deprived. The replacements must be of the same or a higher grade or rating than those whose places they fill. If the master finds the vessel is sufficiently manned for the voyage, and replacements are not available to fill all the vacancies, the vessel may proceed on its voyage. Within 12 hours after the vessel arrives at its destination, the master shall report in writing to the Secretary the cause of each deficiency in the complement. A master failing to make the report is liable to the United States Government for a civil penalty of $1,000 for each deficiency.
 
 (f) The owner, charterer, or managing operator of a vessel not manned as required by this section is liable to the Government for a civil penalty of $10,000.
 
@@ -70,7 +70,7 @@ Subsections (f), (g) and (h) prescribe civil penalties for noncompliance with ma
 
 #### Amendments
 
-<b>1996</b>—Subsec. (h). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title" after "100 gross tons".
+<b>1996</b>—Subsec. (h). Pub. L. 104–324 inserted "as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title asprescribed by the Secretary under section 14104 of this title" after "100 gross tons".
 
 <b>1990</b>—Subsec. (a)(3). Pub. L. 101–380, §4114(c), added par. (3).
 

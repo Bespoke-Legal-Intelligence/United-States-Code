@@ -20,7 +20,7 @@ Whenever a final determination is made that the amount of payment made under thi
 
 (1) The Secretary shall provide payment under this part for inpatient hospital services furnished by a subsection (d) hospital (as defined in section 1395ww(d)(1)(B) of this title, and including a distinct psychiatric or rehabilitation unit of such a hospital) and a subsection (d) Puerto Rico hospital (as defined in section 1395ww(d)(9)(A) of this title) on a periodic interim payment basis (rather than on the basis of bills actually submitted) in the following cases:
 
-&emsp;(A) Upon the request of a hospital which is paid through an agency or organization with an agreement with the Secretary under section 1395h of this title, if the agency or organization, for three consecutive calendar months, fails to meet the requirements of subsection (c)(2) of such section and if the hospital meets the requirements (in effect as of October 1, 1986) applicable to payment on such a basis, until such time as the agency or organization meets such requirements for three consecutive calendar months.
+&emsp;(A) Upon the request of a hospital which is paid through an agency or organization with an agreement with the Secretary under section 1395h of this title, if the agency or organization, for three consecutive calendar months, fails to meet the requirements of subsection (c)(2) of such section and if the hospital meetsthe requirements (in effect as of October 1, 1986) applicable to payment on such a basis, until such time as the agency or organization meets such requirements for three consecutive calendar months.
 
 &emsp;(B) In the case of a hospital that—
 
@@ -98,7 +98,7 @@ Whenever a final determination is made that the amount of payment made under thi
 
 &emsp;&emsp;(iii) allow 29 months from the date of the first payment under such program to such provider before requiring that the outstanding balance be paid in full.
 
-(3) Nothing in this subsection shall preclude the Secretary from carrying out the provisions described in clauses (i), (ii), and (iii) of paragraph (2)(B) and clauses (i) and (ii) of paragraph (2)(C) under the program under subsection (e)(3) after the period for which this subsection applies.
+(3) Nothing in this subsection shall preclude the Secretary from carrying out the provisionsdescribed in clauses (i), (ii), and (iii) of paragraph (2)(B) and clauses (i) and (ii) of paragraph (2)(C) under the program under subsection (e)(3) after the period for which this subsection applies.
 
 (4) Notwithstanding any other provision of law, the Secretary may implement the provisions of this subsection by program instruction or otherwise.
 
@@ -294,5 +294,5 @@ Pub. L. 97–248, title I, §120, Sept. 3, 1982, 96 Stat. 355, provided that: "N
 
 &emsp;"(2) with respect to the last 21 days for which such payments would otherwise be made during fiscal year 1984, such payments shall be deferred until fiscal year 1985."
 
-Pub. L. 96–499, title IX, §959, Dec. 5, 1980, 94 Stat. 2650, provided for deferral of interim payments to be madeduring last twenty-one days of fiscal year 1981 until fiscal year 1982, prior to repeal by Pub. L. 97–35, title XXI, §2155, Aug. 13, 1981, 95 Stat. 802.
+Pub. L. 96–499, title IX, §959, Dec. 5, 1980, 94 Stat. 2650, provided for deferral of interim payments to be made during last twenty-one days of fiscal year 1981 until fiscal year 1982, prior to repeal by Pub. L. 97–35, title XXI, §2155, Aug. 13, 1981, 95 Stat. 802.
 

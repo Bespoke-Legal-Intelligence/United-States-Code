@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) There is established within the Department a Center for Innovation for Care and Payment (in this section referred to as the "Center").
+In General.—(1) There is established within the Department a Center for Innovation forCare and Payment (in this section referred to as the "Center").
 
 (2) The Secretary, acting through the Center, may carry out such pilot programs the Secretary determines to be appropriate to develop innovative approaches to testing payment and service delivery models in order to reduce expenditures while preserving or enhancing the quality of care furnished by the Department.
 
@@ -104,7 +104,7 @@ Waiver of Authorities.—(1) Subject to reporting under paragraph (2) and approv
 
 (ii) Any committee of the Senate to which a joint resolution is referred shall report it to the Senate without amendment not later than 15 session days after the date of introduction of a joint resolution described in paragraph (C). If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be placed on the calendar.
 
-(iii)(I) Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the third session day on which the Committee on Veterans' Affairs has reported or has been discharged from consideration of a joint resolution described in paragraph (C) (eventhough a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
+(iii)(I) Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the third session day on which the Committee on Veterans' Affairs has reported or has been discharged from consideration of a joint resolution described in paragraph (C) (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
 
 (II) Consideration of the joint resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than two hours, which shall be divided equally between the majority and minority leaders or their designees. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the joint resolution is not in order.
 
@@ -124,7 +124,7 @@ Waiver of Authorities.—(1) Subject to reporting under paragraph (2) and approv
 
 &emsp;&emsp;(bb) the vote on passage shall be on the joint resolution of the other House.
 
-(ii) If the Senate fails to introduce or consider a joint resolution under this paragraph, the joint resolution of the House shall be entitled to expedited floor procedures under this subparagraph.
+(ii) If the Senate fails to introduce or consider a joint resolution under this paragraph, the joint resolution of the House shall be entitled toexpedited floor procedures under this subparagraph.
 
 (iii) If, following passage of the joint resolution in the Senate, the Senate then receives the companion measure from the House of Representatives, the companion measure shall not be debatable.
 
@@ -196,7 +196,7 @@ Expansion of Successful Pilot Programs.—Taking into account the evaluation und
 
 The Social Security Act, referred to in subsec. (a)(6)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsec. (g)(3), is the date of enactment of Pub. L. 115–182, which was approved June 6, 2018.
+The date of the enactment of the Caring for Our Veterans Act of 2018, referred to in subsec. (g)(3), is thedate of enactment of Pub. L. 115–182, which was approved June 6, 2018.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

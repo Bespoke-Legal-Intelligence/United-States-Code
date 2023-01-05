@@ -24,7 +24,7 @@ Any order issued under this chapter shall contain the terms and provisions speci
 
 #### (iii) Composition
 
-&emsp;&emsp;&emsp;The Board shall consist of manufacturers. No employee of an industry trade organization exempt from tax under paragraph (3) or (6) of section 501(c) of title 26 representing the concrete masonry industry or related industries shall serve as a member of the Board and no member of the Board may serve concurrently as an officer of the board of directors of a national concrete masonry products industry trade association. Only 2 individuals from any single company or its affiliates may serve on the Board at any one time.
+&emsp;&emsp;&emsp;The Board shall consist of manufacturers. No employee of an industry trade organization exempt from tax under paragraph (3) or (6) of section 501(c) of title 26 representing the concrete masonry industry or related industries shall serve as a member of the Board and no member of the Board may serve concurrently as an officer of the board of directors of a national concrete masonry products industry tradeassociation. Only 2 individuals from any single company or its affiliates may serve on the Board at any one time.
 
 #### (2) Distribution of appointments
 
@@ -104,7 +104,7 @@ The order shall specify the powers and duties of the Board, including the power 
 
 &emsp;(10) subject to subsection (e), to enter into contracts or agreements to develop and carry out programs or projects of research, education, and promotion relating to concrete masonry products;
 
-&emsp;(11) to keep minutes, books, and records that reflect the actions and transactions of the Board, and promptly report minutes of each Board meeting to the Secretary;
+&emsp;(11) to keep minutes, books, and records that reflect the actions and transactions of theBoard, and promptly report minutes of each Board meeting to the Secretary;
 
 &emsp;(12) to receive, investigate, and report to the Secretary complaints of violations of the order;
 
@@ -152,7 +152,7 @@ The order shall specify the powers and duties of the Board, including the power 
 
 #### (C) Limitation on spending
 
-&emsp;&emsp;For fiscal years beginning 3 or more years after the date of the establishment of the Board, the Board may not expend for administration (except for reimbursement to the Secretary required under subparagraph (D)), maintenance, and functioning of the Board in a fiscal year an amount that exceeds 10percent of the assessment and other income received by the Board for the fiscal year.
+&emsp;&emsp;For fiscal years beginning 3 or more years after the date of the establishment of the Board, the Board may not expend for administration (except for reimbursement to the Secretary required under subparagraph (D)), maintenance, and functioning of the Board in a fiscal year an amount that exceeds 10 percent of the assessment and other income received by the Board for the fiscal year.
 
 #### (D) Reimbursement of Secretary
 

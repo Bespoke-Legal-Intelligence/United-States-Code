@@ -4,51 +4,49 @@
 
 #### (1) Conditional basis for status
 
-&emsp;Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1)), alien spouse, and alien child (as defined in subsection (f)(2)) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
+&emsp;An alien investor, alien spouse, and alien child shall be considered, at the time of obtaining status as an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
 
 #### (2) Notice of requirements
 
 #### (A) At time of obtaining permanent residence
 
-&emsp;&emsp;At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) to have the conditional basis of such status removed.
+&emsp;&emsp;At the time an alien investor, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Secretary of Homeland Security shall provide for notice to such an investor, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) to have the conditional basis of such status removed.
 
 #### (B) At time of required petition
 
-&emsp;&emsp;In addition, the Attorney General shall attempt to provide notice to such an entrepreneur, spouse, or child, at or about the beginning of the 90-day period described in subsection (d)(2)(A), of the requirements of subsection (c)(1).
+&emsp;&emsp;In addition, the Secretary of Homeland Security shall attempt to provide notice to such an investor, spouse, or child, at or about the beginning of the 90-day period described in subsection (d)(2)(A), of the requirements of subsection (c)(1).
 
 #### (C) Effect of failure to provide notice
 
-&emsp;&emsp;The failure of the Attorney General to provide a notice under this paragraph shall notaffect the enforcement of the provisions of this section with respect to such an entrepreneur, spouse, or child.
+&emsp;&emsp;The failure of the Secretary of Homeland Security to provide a notice under this paragraph shall not affect the enforcement of the provisions of this section with respect to such an investor, spouse, or child.
 
-#### (b) Termination of status if finding that qualifying entrepreneurship improper
+#### (b) Termination of status if finding that qualifying investment improper
 
 #### (1) In general
 
-&emsp;In the case of an alien entrepreneur with permanent resident status on a conditional basis under subsection (a), if the Attorney General determines, before the second anniversary of the alien's obtaining the status of lawful admission for permanent residence, that—
+&emsp;In the case of an alien investor with permanent resident status on a conditional basis under subsection (a), if the Secretary of Homeland Security determines, before the second anniversary of the alien's obtaining the status of lawful admission for permanent residence, that—
 
 &emsp;&emsp;(A) the investment in the commercial enterprise was intended solely as a means of evading the immigration laws of the United States,
 
-&emsp;&emsp;(B)(i) the alien did not invest, or was not actively in the process of investing, the requisite capital; or
-
-&emsp;&emsp;(ii) the alien was not sustaining the actions described in clause (i) throughout the period of the alien's residence in the United States; or
+&emsp;&emsp;(B) the alien did not invest the requisite capital; or
 
 &emsp;&emsp;(C) the alien was otherwise not conforming to the requirements of section 1153(b)(5) of this title,
 
-> &emsp;then the Attorney General shall so notify the alien involved and, subject to paragraph (2), shall terminate the permanent resident status of the alien (and the alien spouse and alien child) involved as of the date of the determination.
+> &emsp;then the Secretary of Homeland Security shall so notify the alien involved and, subject to paragraph (2), shall terminate the permanent resident status of the alien (and the alien spouse and alien child) involved as of the date of the determination.
 
 #### (2) Hearing in removal proceeding
 
-&emsp;Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
+&emsp;Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Secretary of Homeland Security to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
 
-#### (c) Requirements of timely petition and interview for removal of condition
+#### (c) Requirements for removal of condition
 
 #### (1) In general
 
-&emsp;In order for the conditional basis established under subsection (a) for an alien entrepreneur, alien spouse, or alien child to be removed—
+&emsp;Except as provided in paragraph (3)(D), in order for the conditional basis established under subsection (a) for an alien investor, alien spouse, or alien child to be removed—
 
-&emsp;&emsp;(A) the alien entrepreneur must submit to the Attorney General, during the period described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1), and
+&emsp;&emsp;(A) the alien investor shall submit to the Secretary of Homeland Security, during theperiod described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1);
 
-&emsp;&emsp;(B) in accordance with subsection (d)(3), the alien entrepreneur must appear for a personal interview before an officer or employee of the Service respecting the facts and information described in subsection (d)(1).
+&emsp;&emsp;(B) in accordance with subsection (d)(3), the alien investor shall appear for a personal interview before an officer or employee of the Department of Homeland Security respecting the facts and information described in subsection (d)(1); and <sup>1</sup>
 
 #### (2) Termination of permanent resident status for failure to file petition or have personal interview
 
@@ -58,9 +56,9 @@
 
 &emsp;&emsp;&emsp;(i) no petition is filed with respect to the alien in accordance with the provisions of paragraph (1)(A), or
 
-&emsp;&emsp;&emsp;(ii) unless there is good cause shown, the alien entrepreneur fails to appear at the interview described in paragraph (1)(B) (if required under subsection (d)(3)),
+&emsp;&emsp;&emsp;(ii) unless there is good cause shown, the alien investor fails to appear at the interview described in paragraph (1)(B) (if required under subsection (d)(3)),
 
-> &emsp;&emsp;the Attorney General shall terminate the permanent resident status of the alien (and the alien's spouse and children if it was obtained on a conditional basis under this section or section 1186a of this title) as of the second anniversary of the alien's lawful admission for permanent residence.
+> &emsp;&emsp;the Secretary of Homeland Security shall terminate the permanent resident status of the alien (and the alien's spouse and children if it was obtained on a conditional basis under this section or section 1186a of this title) as of the second anniversary of the alien's lawful admission for permanent residence.
 
 #### (B) Hearing in removal proceeding
 
@@ -74,21 +72,37 @@
 
 &emsp;&emsp;&emsp;(i) a petition is filed in accordance with the provisions of paragraph (1)(A), and
 
-&emsp;&emsp;&emsp;(ii) the alien entrepreneur appears at any interview described in paragraph (1)(B),
+&emsp;&emsp;&emsp;(ii) the alien investor appears at any interview described in paragraph (1)(B),
 
-> &emsp;&emsp;the Attorney General shall make a determination, within 90 days of the date of the such filing <sup>1</sup> or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) and alleged in the petition are true with respect to the qualifying commercial enterprise.
+> &emsp;&emsp;the Secretary of Homeland Security shall make a determination, within 90 days of the date of such filing or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) and alleged in the petition are true with respect to the qualifying commercial enterprise.
 
-#### (B) Removal of conditional basis if favorable determination
+#### (B) Removal or extension of conditional basis
 
-&emsp;&emsp;If the Attorney General determines that such facts and information are true, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status effective as of the second anniversary of the alien's lawful admission for permanent residence.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Secretary determines that the facts and information contained in a petition submitted under paragraph (1)(A) are true, including demonstrating that the alien complied with subsection (d)(1)(B)(i), the Secretary shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) notify the alien involved of such determination; and
+
+&emsp;&emsp;&emsp;&emsp;(II) remove the conditional basis of the alien's status effective as of the second anniversary of the alien's lawful admission for permanent residence.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;If the petition demonstrates that the facts and information are true and that the alien is in compliance with subsection (d)(1)(B)(ii)—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Secretary, in the Secretary's discretion, may provide a 1-year extension of the alien's conditional status; and
+
+&emsp;&emsp;&emsp;&emsp;(II)(aa) if the alien files a petition not later than 30 days after the third anniversary of the alien's lawful admission for permanent residence demonstrating that the alien complied with subsection (d)(1)(B)(i), the Secretary shall remove the conditional basis of the alien's status effective as of such third anniversary; or
+
+&emsp;&emsp;&emsp;&emsp;(bb) if the alien does not file the petition described in item (aa), the conditional status shall terminate at the end of such additional year.
 
 #### (C) Termination if adverse determination
 
-&emsp;&emsp;If the Attorney General determines that such facts and information are not true, the Attorney General shall so notify the alien involved and, subject to subparagraph (D), shall terminate the permanent resident status of an alien entrepreneur, alien spouse, or alien child as of the date of the determination.
+&emsp;&emsp;If the Secretary of Homeland Security determines that such facts and information are not true, the Secretary of Homeland Security shall so notify the alien involved and, subject to subparagraph (D), shall terminate the permanent resident status of an alien investor, alien spouse, or alien child as of the date of the determination.
 
 #### (D) Hearing in removal proceeding
 
-&emsp;&emsp;Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) and alleged in the petition are not truewith respect to the qualifying commercial enterprise.
+&emsp;&emsp;Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Secretary of Homeland Security to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) and alleged in the petition are not true with respect to the qualifying commercial enterprise.
 
 #### (d) Details of petition and interview
 
@@ -96,21 +110,29 @@
 
 &emsp;Each petition under subsection (c)(1)(A) shall contain facts and information demonstrating that the alien—
 
-&emsp;&emsp;(A)(i) invested, or is actively in the process of investing, the requisite capital; and
+&emsp;&emsp;(A) invested the requisite capital;
 
-&emsp;&emsp;(ii) sustained the actions described in clause (i) throughout the period of the alien's residence in the United States; and
+&emsp;&emsp;(B)(i) created the employment required under section 1153(b)(5)(A)(ii) of this title; or
 
-&emsp;&emsp;(B) is otherwise conforming to the requirements of section 1153(b)(5) of this title.
+&emsp;&emsp;(ii) is actively in the process of creating the employment required under section 1153(b)(5)(A)(ii) of this title and will create such employment before the third anniversary of the alien's lawful admission for permanent residence, provided that such alien's capital will remain invested during such time; and
+
+&emsp;&emsp;(C) is otherwise conforming to the requirements of section 1153(b)(5) of this title.
 
 #### (2) Period for filing petition
 
-#### (A) 90-day period before second anniversary
+#### (A) Ninety-day period before second anniversary
 
-&emsp;&emsp;Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) must be filed during the 90-day period before the second anniversary of the alien's lawful admission for permanent residence.
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii) and subparagraph (B), a petition under subsection (c)(1)(A) shall be filed during the 90-day period immediately preceding the second anniversary of the alien investor's lawful admission for permanent residence.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;Aliens described in subclauses (I)(bb) and (II) of section 1153(b)(5)(M)(ii) of this title shall file a petition under subsection (c)(1)(A) during the 90-day period before the second anniversary of the subsequent investment.
 
 #### (B) Date petitions for good cause
 
-&emsp;&emsp;Such a petition may be considered if filed after such date, but only if the alien establishes to the satisfaction of the Attorney General good cause and extenuating circumstances for failure to file the petition during the period described in subparagraph (A).
+&emsp;&emsp;Such a petition may be considered if filed after such date, but only if the alien establishes to the satisfaction of the Secretary of Homeland Security good cause and extenuating circumstances for failure to file the petition during the period described in subparagraph (A).
 
 #### (C) Filing of petitions during removal
 
@@ -118,7 +140,17 @@
 
 #### (3) Personal interview
 
-&emsp;The interview under subsection (c)(1)(B) shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General's discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
+#### (A) In general
+
+&emsp;&emsp;The interview under subsection (c)(1)(B) shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) and at a local office of the Department of Homeland Security, designated by the Secretary of Homeland Security, which is convenient to the parties involved.
+
+#### (B) Waiver
+
+&emsp;&emsp;The Secretary of Homeland Security, in the Secretary's discretion, may waive the deadline for an interview under subsection (c)(1)(B) or the requirement for such an interview according to criteria developed by U.S. Citizenship and Immigration Services, in consultation with its Fraud Detection and National Security Directorate and U.S. Immigration and Customs Enforcement, provided that such criteria do not include a reduction of case processing times or the allocation of adjudicatory resources. A waiver may not be granted under this subparagraph if the alien to be interviewed—
+
+&emsp;&emsp;&emsp;(i) invested in a regional center, new commercial enterprise, or job-creating entity that was sanctioned under section 1153(b)(5) of this title; or
+
+&emsp;&emsp;&emsp;(ii) is in a class of aliens determined by the Secretary to be threats to public safety or national security.
 
 #### (e) Treatment of period for purposes of naturalization
 
@@ -128,21 +160,67 @@ For purposes of subchapter III, in the case of an alien who is in the United Sta
 
 In this section:
 
-&emsp;(1) The term "alien entrepreneur" means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) under section 1153(b)(5) of this title.
+&emsp;(1) The term "alien investor" means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) under section 1153(b)(5) of this title.
 
-&emsp;(2) The term "alien spouse" and the term "alien child" mean an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the spouse or child, respectively, of an alien entrepreneur.
+&emsp;(2) The term "alien spouse" and the term "alien child" mean an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the spouse or child, respectively, of an alien investor.
 
-&emsp;(3) The term "commercial enterprise" includes a limited partnership.
+&emsp;(3) The term "commercial enterprise" includes any entity formed for the purpose of doing for-profit business.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §216A, as added Pub. L. 101–649, title I, §121(b)(1), Nov. 29, 1990, 104 Stat. 4990; amended Pub. L. 102–232, title III, §302(b)(3), Dec. 12, 1991, 105 Stat. 1743; Pub. L. 104–208, div. C, title III, §308(e)(8), Sept. 30, 1996, 110 Stat. 3009–620; Pub. L. 107–273, div. C, title I, §11036(b), Nov. 2, 2002, 116 Stat. 1847.)
+(June 27, 1952, ch. 477, title II, ch. 2, §216A, as added Pub. L. 101–649, title I, §121(b)(1), Nov. 29, 1990, 104 Stat. 4990; amended Pub. L. 102–232, title III, §302(b)(3), Dec. 12, 1991, 105 Stat. 1743; Pub. L. 104–208, div. C, title III, §308(e)(8), Sept. 30, 1996, 110 Stat. 3009–620; Pub. L. 107–273, div. C, title I, §11036(b), Nov. 2, 2002, 116 Stat. 1847; Pub. L. 117–103, div. BB, §104(a), Mar. 15, 2022, 136 Stat. 1100.)
+
+#### Enactment of Subsection (c)(1)(C)
+
+<i>Pub. L. 117–103, div. BB, §104(a)(5)(B)(iv), (b), provided that, effective 2 years after March 15, 2022, subsection (c)(1) of this section is amended by adding at the end the following:</i>
+
+&emsp;&emsp;<i>"(C) the Secretary shall have performed a site visit to the relevant corporate office or business location described in section 1153(b)(5)(F)(iv) of this title."</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-This chapter, referred to in subsec. (a)(1), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
-
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–103, §104(a)(2), substituted "investor" for "entrepreneur" wherever appearing.
+
+Pub. L. 117–103, §104(a)(1), substituted "Secretary of Homeland Security" for "Attorney General" wherever appearing, except in subsec. (d)(2)(C).
+
+Subsec. (a)(1). Pub. L. 117–103, §104(a)(3), amended par. (1) generally. Prior to amendment, text read as follows: "Notwithstanding any other provision of this chapter, an alien investor (as defined in subsection (f)(1)), alien spouse, and alien child (as defined in subsection (f)(2)) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section."
+
+Subsec. (b). Pub. L. 117–103, §104(a)(4)(A), substituted "investment" for "entrepreneurship" in heading.
+
+Subsec. (b)(1)(B). Pub. L. 117–103, §104(a)(4)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+
+"(B)(i) the alien did not invest, or was not actively in the process of investing, the requisite capital; or
+
+"(ii) the alien was not sustaining the actions described in clause (i) throughout the period of the alien's residence in the United States; or".
+
+Subsec. (c). Pub. L. 117–103, §104(a)(5)(A), struck out "of timely petition and interview" after "Requirements" in heading.
+
+Subsec. (c)(1). Pub. L. 117–103, §104(a)(5)(B)(i), substituted "Except as provided in paragraph (3)(D), in order" for "In order" in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 117–103, §104(a)(5)(B)(ii), substituted "shall submit" for "must submit" and semicolon at end for ", and".
+
+Subsec. (c)(1)(B). Pub. L. 117–103, §104(a)(5)(B)(iii), substituted "shall appear" for "must appear", "Department of Homeland Security" for "Service", and "; and" for period at end.
+
+Subsec. (c)(1)(C). Pub. L. 117–103, §104(a)(5)(B)(iv), added subpar. (C).
+
+Subsec. (c)(3)(A). Pub. L. 117–103, §104(a)(5)(C)(i), struck out "the" before "such filing" in concluding provisions.
+
+Subsec. (c)(3)(B). Pub. L. 117–103, §104(a)(5)(C)(ii), amended subpar. (B) generally. Prior to amendment, text read as follows: "If the Secretary of Homeland Security determines that such facts and information are true, the Secretary of Homeland Security shall so notify the alien involved and shall remove the conditional basis of the alien's status effective as of the second anniversary of the alien's lawful admission for permanent residence."
+
+Subsec. (d)(1)(A). Pub. L. 117–103, §104(a)(6)(A)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
+
+"(A)(i) invested, or is actively in the process of investing, the requisite capital; and
+
+"(ii) sustained the actions described in clause (i) throughout the period of the alien's residence in the United States; and".
+
+Subsec. (d)(1)(B), (C). Pub. L. 117–103, §104(a)(6)(A)(ii), (iii), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (d)(2)(A). Pub. L. 117–103, §104(a)(6)(B), amended subpar. (A) generally. Prior to amendment, text read as follows: "Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) must be filed during the 90-day period before the second anniversary of the alien's lawful admission for permanent residence."
+
+Subsec. (d)(3). Pub. L. 117–103, §104(a)(6)(C), designated existing provisions as subpar. (A), inserted heading, substituted "Department of Homeland Security" for "Service", struck out "The Secretary of Homeland Security, in the Secretary of Homeland Security's discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate." after "parties involved.", and added subpar. (B).
+
+Subsec. (f)(3). Pub. L. 117–103, §104(a)(7), substituted "any entity formed for the purpose of doing for-profit business" for "a limited partnership".
 
 <b>2002</b>—Subsec. (b)(1)(A). Pub. L. 107–273, §11036(b)(1)(A), substituted "investment in" for "establishment of".
 
@@ -177,6 +255,26 @@ Subsec. (d)(2)(C). Pub. L. 104–208 substituted "removal" for "deportation" whe
 Subsecs. (c)(3)(B), (d)(2)(A). Pub. L. 102–232, §302(b)(3)(B), struck out "obtaining the status of" before "lawful admission".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–103, div. BB, §104(b), Mar. 15, 2022, 136 Stat. 1102, provided that:
+
+"(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 15, 2022\].
+
+"(2)
+
+Exceptions.—
+
+&emsp;"(A)
+
+Site visits.—The amendment made by subsection (a)(5)(B)(iv) shall take effect on the date that is 2 years after the date of the enactment of this Act.
+
+&emsp;"(B)
+
+Petition beneficiaries.—The amendments made by subsection (a) shall not apply to the beneficiary of a petition that is filed under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b) if the underlying petition was filed under section 203(b)(5) of such Act (8 U.S.C. 1153(b)(5)) before the date of the enactment of this Act."
 
 #### Effective Date of 2002 Amendment
 
@@ -288,7 +386,7 @@ Requirements relating to adverse determinations.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Notice.—If the Attorney General renders an adverse determination with respect to clause (i), (ii), or (iii) of subparagraph (A), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide the alien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act (8 U.S.C. 1186b)) effective as of the second anniversary of the alien's lawful admission for permanent residence.
+Notice.—If the Attorney General renders an adverse determination with respect to clause (i), (ii), or (iii) of subparagraph (A), the Attorney General shall so notify the alien involved. The notice shall be in writing and shall state the factual basis for any adverse determination. The Attorney General shall provide the alien with an opportunity to submit evidence to rebut any adverse determination. If the Attorney General reverses all adverse determinations pursuant to such rebuttal, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien's status (and that of the alien's spouse and children if it was obtained under section 216A of the Immigration and Nationality Act\(8 U.S.C. 1186b)) effective as of the second anniversary of the alien's lawful admission for permanent residence.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -436,7 +534,7 @@ Removal of Conditional Basis.—
 
 &emsp;"(1)
 
-Petition.—In order for a conditional basis established under this section for an alien (and the alien's spouse and children) to be removed, the alien must satisfy the requirements of section 216A(c)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)), including the submission of a petition in accordance with subparagraph (A) of such section. Such petition may include the facts and information described in subparagraphs (A) and (B) of section 216A(d)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)) with respect to any commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation) in the United States in which the alien has made a capital investment at any time.
+Petition.—In order for a conditional basis established under this section for an alien (and the alien's spouse and children) to be removed, the alien must satisfy the requirements of section 216A(c)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(c)(1)), including the submission of a petition in accordance with subparagraph (A) of such section. Such petition may include the facts and information described in subparagraphs (A) and (B) of section 216A(d)(1) of the Immigration and Nationality Act (8 U.S.C. 1186b(d)(1)) with respect to any commercial enterprise (regardless of whether such enterprise is a limited partnership and regardless of whether the alien entered the enterprise after its formation) inthe United States in which the alien has made a capital investment at any time.
 
 &emsp;"(2)
 
@@ -468,5 +566,5 @@ Clarification With Respect to Children.—In the case of an alien who was a chil
 
 "Except as otherwise provided, the terms used in this chapter shall have the meaning given such terms in section 101(b) of the Immigration and Nationality Act (8 U.S.C. 1101(b))."
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See Enactment of Subsection (c)(1)(C) note below.</i>
 

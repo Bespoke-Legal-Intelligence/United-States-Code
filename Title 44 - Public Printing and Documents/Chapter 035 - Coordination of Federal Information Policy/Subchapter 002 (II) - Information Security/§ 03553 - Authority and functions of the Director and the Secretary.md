@@ -26,7 +26,7 @@ Secretary.—The Secretary, in consultation with the Director, shall administer 
 
 &emsp;(1) assisting the Director in carrying out the authorities and functions under paragraphs (1), (2), (3), (5), and (6) of subsection (a);
 
-&emsp;(2) developing and overseeing the implementation of binding operational directives to agencies to implement the policies, principles, standards, and guidelines developed by the Director under subsection (a)(1) and the requirements of this subchapter, which may be revised or repealed by the Director if the operational directives issued on behalf of the Director are not in accordance with policies, principles, standards, and guidelines developed by the Director, including—
+&emsp;(2) developing and overseeing the implementation of binding operational directives toagencies to implement the policies, principles, standards, and guidelines developed by the Director under subsection (a)(1) and the requirements of this subchapter, which may be revised or repealed by the Director if the operational directives issued on behalf of the Director are not in accordance with policies, principles, standards, and guidelines developed by the Director, including—
 
 &emsp;&emsp;(A) requirements for reporting security incidents to the Federal information security incident center established under section 3556;
 
@@ -94,7 +94,7 @@ Consideration.—
 
 &emsp;(1)
 
-In general.—In carrying out the responsibilities under subsection (b), the Secretary shall consider any applicable standards or guidelines developed by the National Institute of Standards and Technology and issued by the Secretary of Commerce under section 11331 of title 40.<sup>1</sup>
+In general.—In carrying out the responsibilities under subsection (b), the Secretary shall consider any applicable standards or guidelines developed by the National Institute of Standards and Technology and issued by the Secretary of Commerce under section 11331 of title 40.
 
 &emsp;(2)
 
@@ -102,11 +102,11 @@ Directives.—The Secretary shall—
 
 &emsp;&emsp;(A) consult with the Director of the National Institute of Standards and Technology regarding any binding operational directive that implements standards and guidelines developed by the National Institute of Standards and Technology; and
 
-&emsp;&emsp;(B) ensure that binding operational directives issued under subsection (b)(2) do not conflict with the standards and guidelines issued under section 11331 of title 40.<sup>1</sup>
+&emsp;&emsp;(B) ensure that binding operational directives issued under subsection (b)(2) do not conflict with the standards and guidelines issued under section 11331 of title 40.
 
 &emsp;(3)
 
-Rule of construction.—Nothing in this subchapter shall be construed as authorizing the Secretary to direct the Secretary of Commerce in the development and promulgation of standards and guidelines under section 11331 of title 40.<sup>1</sup>
+Rule of construction.—Nothing in this subchapter shall be construed as authorizing the Secretary to direct the Secretary of Commerce in the development and promulgation of standards and guidelines under section 11331 of title 40.
 
 (g)
 
@@ -164,7 +164,7 @@ Imminent threats.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) <sup>1</sup> of the Homeland Security Act of 2002 for the purpose of ensuringthe security of agency information systems, if—
+In general.—Notwithstanding section 3554, the Secretary may authorize the use under this subsection of the intrusion detection and prevention capabilities established under section 230(b)(1) <sup>1</sup> of the Homeland Security Act of 2002 for the purpose of ensuring the security of agency information systems, if—
 
 &emsp;&emsp;&emsp;(i) the Secretary determines there is an imminent threat to agency information systems;
 
@@ -188,7 +188,7 @@ Limitation on delegation.—The authority under this paragraph may not be delega
 
 &emsp;&emsp;(C)
 
-Advance procedures.—The Secretary shall, in coordination with the Director, and in consultation with the heads of Federal agencies, establish procedures governing the circumstances under which the Secretary may authorize the use of the intrusion detection and prevention capabilities under subparagraph (A). The Secretary shall submit the procedures to Congress.
+Advance procedures.—The Secretary shall, in coordination with the Director, and in consultation with the heads of Federalagencies, establish procedures governing the circumstances under which the Secretary may authorize the use of the intrusion detection and prevention capabilities under subparagraph (A). The Secretary shall submit the procedures to Congress.
 
 &emsp;(4)
 
@@ -236,8 +236,6 @@ Exception.—Paragraph (1) shall not apply to national security systems or to in
 
 #### References in Text
 
-Section 11331 of title 40, referred to in subsec. (f), was generally amended by both Pub. L. 107–347 and Pub. L. 107–296. As amended by Pub. L. 107–347, effective Dec. 17, 2002, section 11331 of title 40 provided for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems. See 2002 Amendment note under that section. As amended by Pub. L. 107–296, effective 60 days after Nov. 25, 2002, section 11331 of title 40 provided for the promulgation by the Director of the Office of Management and Budget of information security standards pertaining to Federal information systems.
-
 Section 230(b)(1) of the Homeland Security Act of 2002, referred to in subsec. (h)(3)(A), is section 230(b)(1) of title II of Pub. L. 107–296, as added by Pub. L. 114–113, div. N, title II, §223(a)(6), Dec. 18, 2015, 129 Stat. 2964, which was redesignated section 2213(b)(1) of Pub. L. 107–296 by section 2(g)(2)(I) of Pub. L. 115–278, Nov. 16, 2018, 132 Stat. 4178, and is classified to section 663(b)(1) of Title 6, Domestic Security.
 
 The Homeland Security Act of 2002, referred to in subsec. (l)(1), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified generally to subchapter XVIII (§651 et seq.) of chapter 1 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
@@ -273,6 +271,42 @@ Amendment by Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see sectio
 #### Construction
 
 Pub. L. 115–390, title II, §204(b), Dec. 21, 2018, 132 Stat. 5193, provided that: "Nothing in this title \[see section 201 of Pub. L. 115–390, set out as a Short Title of 2018 note under section 101 of Title 41, Public Contracts\] shall be construed to alter or impede any authority or responsibility under section 3553 of title 44, United States Code."
+
+#### No TikTok on Government Devices
+
+Pub. L. 117–328, div. R, Dec. 29, 2022, 136 Stat. 5258, provided that:
+
+#### "SEC. 101. SHORT TITLE.
+
+"This division may be cited as the 'No TikTok on Government Devices Act'.
+
+#### "SEC. 102. PROHIBITION ON THE USE OF TIKTOK.
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'covered application' means the social networking service TikTok or any successor application or service developed or provided by ByteDance Limited or an entity owned by ByteDance Limited;
+
+&emsp;"(2) the term 'executive agency' has the meaning given that term in section 133 of title 41, United States Code; and
+
+&emsp;"(3) the term 'information technology' has the meaning given that term in section 11101 of title 40, United States Code.
+
+"(b)
+
+Prohibition on the Use of TikTok.—
+
+&emsp;"(1)
+
+In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 29, 2022\], the Director of the Office of Management and Budget, in consultation with the Administrator of General Services, the Director of the Cybersecurity and Infrastructure Security Agency, the Director of National Intelligence, and the Secretary of Defense, and consistent with the information security requirements under subchapter II of chapter 35 of title 44, United States Code, shall develop standards and guidelines for executive agencies requiring the removal of any covered application from information technology.
+
+&emsp;"(2)
+
+National security and research exceptions.—The standards and guidelines developed under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) exceptions for law enforcement activities, national security interests and activities, and security researchers; and
+
+&emsp;&emsp;"(B) for any authorized use of a covered application under an exception, requirements for executive agencies to develop and document risk mitigation actions for such use."
 
 #### Breaches
 

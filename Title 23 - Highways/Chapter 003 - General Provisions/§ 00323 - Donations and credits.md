@@ -2,7 +2,7 @@
 
 (a)
 
-Donations of Property Being Acquired.—Nothing in this title, or in any other provision of law, shall be construed to prevent a person whose real property is being acquired in connection with a project under this title, after he has been fully informed of his right to receive just compensation for the acquisition of his property, from making a gift or donation of such property, or any part thereof, or of any of thecompensation paid therefor, to a Federal agency, a State or a State agency, or a political subdivision of a State, as said person shall determine.
+Donations of Property Being Acquired.—Nothing in this title, or in any other provision of law, shall be construed to prevent a person whose real property is being acquired in connection with a project under this title, after he has been fully informed of his right to receive just compensation for the acquisition of his property, from making a gift or donation of such property, or any part thereof, or of any of the compensation paid therefor, to a Federal agency, a State or a State agency, or a political subdivision of a State, as said person shall determine.
 
 (b)
 
@@ -58,7 +58,7 @@ Procedures.—A gift or donation in accordance with subsection (a) may be made a
 
 &emsp;(2) acquisition of property under this section shall not influence the environmental assessment of a project including the decision relative to the need to construct the project or the selection of a specific location; and
 
-&emsp;(3) any property acquired by gift or donation shall be revested in the grantor or successors in interest if such property is not required for the alignment chosen after public hearings, if required, and completion of the environmental document.
+&emsp;(3) any property acquired by gift or donation shall be revested in the grantor or successors in interest if such property is not required for the alignment chosen after public hearings, ifrequired, and completion of the environmental document.
 
 (Added Pub. L. 93–87, title I, §145(a), Aug. 13, 1973, 87 Stat. 273; amended Pub. L. 93–643, §112, Jan. 4, 1975, 88 Stat. 2285; Pub. L. 100–17, title I, §146(a), Apr. 2, 1987, 101 Stat. 179; Pub. L. 104–59, title III, §322, Nov. 28, 1995, 109 Stat. 591; Pub. L. 105–178, title I, §§1212(a)(2)(A)(i), 1301(b)–(d)(1), June 9, 1998, 112 Stat. 193, 225, 226; Pub. L. 109–59, title I, §1902, Aug. 10, 2005, 119 Stat. 1464; Pub. L. 117–58, div. A, title I, §11525(q), Nov. 15, 2021, 135 Stat. 608.)
 
@@ -66,7 +66,7 @@ Procedures.—A gift or donation in accordance with subsection (a) may be made a
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 

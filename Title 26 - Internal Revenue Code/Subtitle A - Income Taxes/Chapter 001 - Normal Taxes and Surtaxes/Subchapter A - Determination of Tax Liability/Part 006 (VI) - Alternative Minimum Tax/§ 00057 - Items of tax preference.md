@@ -12,13 +12,13 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (A) In general
 
-&emsp;&emsp;With respect to all oil, gas, and geothermal properties of the taxpayer, the amount (if any) by which the amount of the excess intangible drilling costs arising in thetaxable year is greater than 65 percent of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year.
+&emsp;&emsp;With respect to all oil, gas, and geothermal properties of the taxpayer, the amount (if any) by which the amount of the excess intangible drilling costs arising in the taxable year is greater than 65 percent of the net income of the taxpayer from oil, gas, and geothermal properties for the taxable year.
 
 #### (B) Excess intangible drilling costs
 
 &emsp;&emsp;For purposes of subparagraph (A), the amount of the excess intangible drilling costs arising in the taxable year is the excess of—
 
-&emsp;&emsp;&emsp;(i) the intangible drilling and development costs paid or incurred in connection with oil, gas, and geothermal wells (other than costs incurred in drilling a nonproductive well) allowable under section 263(c) or 291(b) for the taxable year, over
+&emsp;&emsp;&emsp;(i) the intangible drilling and development costs paid or incurred in connection with oil, gas, and geothermal wells (otherthan costs incurred in drilling a nonproductive well) allowable under section 263(c) or 291(b) for the taxable year, over
 
 &emsp;&emsp;&emsp;(ii) the amount which would have been allowable for the taxable year if such costs had been capitalized and straight line recovery of intangibles (as defined in subsection (b)) had been used with respect to such costs.
 
@@ -92,7 +92,7 @@ For purposes of this part, the items of tax preference determined under this sec
 
 #### (v) Certain bonds issued before September 1, 1986
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, a bond issued before September 1, 1986, shallbe treated as issued before August 8, 1986, unless such bond would be a private activity bond if—
+&emsp;&emsp;&emsp;For purposes of this subparagraph, a bond issued before September 1, 1986, shall be treated as issued before August 8, 1986, unless such bond would be a private activity bond if—
 
 &emsp;&emsp;&emsp;&emsp;(I) paragraphs (1) and (2) of section 141(b) were applied by substituting "25 percent" for "10 percent" each place it appears,
 

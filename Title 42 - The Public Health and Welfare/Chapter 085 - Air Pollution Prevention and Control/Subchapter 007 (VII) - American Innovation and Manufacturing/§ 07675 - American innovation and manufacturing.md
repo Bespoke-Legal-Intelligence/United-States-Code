@@ -235,7 +235,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of establishing the baselines pursuant to subparagraphs (B) and (C), the Administrator shall use the exchange values listed in the table contained in subsection (c)(1) for regulated substances and the following exchange values for hydrochlorofluorocarbons and chlorofluorocarbons:
+&emsp;&emsp;&emsp;For purposes of establishing the baselines pursuant to subparagraphs (B) and (C), the Administrator shall use the exchange values listed in the table contained in subsection (c)(1) for regulated substances and the following exchange valuesfor hydrochlorofluorocarbons and chlorofluorocarbons:
 
 &nbsp;
 
@@ -350,7 +350,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Beginning on December 27, 2020, and subject to paragraphs (2) and (3) and clauses (ii) and (iii), the Administrator may, by rule, after considering technical achievability, commercial demands, affordability for residential and small business consumers, safety, and other relevant factors, including overall economic costs and environmental impacts compared to historical trends, allocate a quantity of allowances for a period of not more than 5 years for the production and consumption of a regulated substance exclusively for the use of the regulated substance in an application, if—
+&emsp;&emsp;&emsp;Beginning on December 27, 2020, and subject to paragraphs (2) and (3) and clauses\(ii) and (iii), the Administrator may, by rule, after considering technical achievability, commercial demands, affordability for residential and small business consumers, safety, and other relevant factors, including overall economic costs and environmental impacts compared to historical trends, allocate a quantity of allowances for a period of not more than 5 years for the production and consumption of a regulated substance exclusively for the use of the regulated substance in an application, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) no safe or technically achievable substitute will be available during the applicable period for that application; and
 
@@ -402,7 +402,7 @@ In this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;For each essential use application receiving an allocation of allowancesunder clause (i) or (iv), the Administrator shall review the availability of substitutes, including any quantities of the regulated substance available from reclaiming or prior production, not less frequently than once every 5 years.
+&emsp;&emsp;&emsp;&emsp;For each essential use application receiving an allocation of allowances under clause (i) or (iv), the Administrator shall review the availability of substitutes, including any quantities of the regulated substance available from reclaiming or prior production, not less frequently than once every 5 years.
 
 #### (II) Extension
 
@@ -488,7 +488,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(III) overall economic costs and environmental impacts, as compared to historical trends; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) the remaining phase-down period for regulated substances under the finalrule issued under subsection (e)(3), if applicable.
+&emsp;&emsp;&emsp;&emsp;(IV) the remaining phase-down period for regulated substances under the final rule issued under subsection (e)(3), if applicable.
 
 #### (iii) Regulations
 
@@ -568,7 +568,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In carrying out this section, the Administrator shall consider the use of authorityavailable to the Administrator under this section to increase opportunities for the reclaiming of regulated substances used as refrigerants.
+&emsp;&emsp;In carrying out this section, the Administrator shall consider the use of authority available to the Administrator under this section to increase opportunities for the reclaiming of regulated substances used as refrigerants.
 
 #### (B) Recovery
 
@@ -594,7 +594,7 @@ In this section:
 
 #### (B) Establishment
 
-&emsp;&emsp;Subject to the availability of appropriations, the Administrator shall establish a grant program to award grants to small business concerns for the purchase of new specialized equipment for the recycling, recovery, or reclamation of a substitute for a regulated substance, including the purchase of approved refrigerant recycling equipment (as defined in section 609(b) of the Clean Air Act (42 U.S.C. 7671h(b))) for recycling, recovery, or reclamation in the service or repair of motor vehicle air conditioning systems.
+&emsp;&emsp;Subject to the availability of appropriations, the Administrator shall establish agrant program to award grants to small business concerns for the purchase of new specialized equipment for the recycling, recovery, or reclamation of a substitute for a regulated substance, including the purchase of approved refrigerant recycling equipment (as defined in section 609(b) of the Clean Air Act (42 U.S.C. 7671h(b))) for recycling, recovery, or reclamation in the service or repair of motor vehicle air conditioning systems.
 
 #### (C) Matching funds
 
@@ -752,7 +752,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), if, pursuant to subclause (I) of subsection (e)(4)(B)(v), the Administrator authorizes an additional period under subclause (II) of that subsection for the production or consumption of a regulated substance for an exclusive use described in subparagraph (A), no State or political subdivision of a State may enforce a statute or administrative action restricting the management or use of the regulated substance within that exclusive use for the duration of that additional period.
+&emsp;&emsp;&emsp;Subject to clause (ii), if, pursuant to subclause (I) of subsection (e)(4)(B)(v), the Administrator authorizes an additional period under subclause (II) of that subsection for the production or consumption of a regulated substance for an exclusive usedescribed in subparagraph (A), no State or political subdivision of a State may enforce a statute or administrative action restricting the management or use of the regulated substance within that exclusive use for the duration of that additional period.
 
 #### (ii) Limitation
 

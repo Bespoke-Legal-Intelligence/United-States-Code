@@ -4,7 +4,7 @@
 
 &emsp;(1) provides for the collection of a tax by imposing on employers generally the duty of withholding sums from the pay of employees and making returns of the sums to a designated city or county officer, department, or instrumentality; and
 
-&emsp;(2) imposes the duty to withhold generally on the payment of compensation earned within the jurisdiction of the city or county in the case of employees whose regular place of employment is within such jurisdiction;
+&emsp;(2) imposes the duty to withhold generally on the payment of compensation earned within the jurisdiction of the city or county in thecase of employees whose regular place of employment is within such jurisdiction;
 
 > the Secretary of the Treasury, under regulations prescribed by the President, shall enter into an agreement with the city or county within 120 days of a request for agreement by the proper city or county official. The agreement shall provide that the head of each agency of the United States shall comply with the requirements of the city or county ordinance in the case of any employee of the agency who is subject to the tax and (i) whose regular place of Federal employment is within the jurisdiction of the city or county with which the agreement is made or (ii) is a resident of such city or county. The agreement may not apply to pay for service as a member of the Armed Forces (other than service described in section 5517(d) of this title). The agreement may not permit withholding of a city or county tax from the pay of an employee who is not a resident of, or whose regular place of Federal employment is not within, the State in which that city or county is located unless the employee consents to the withholding.
 

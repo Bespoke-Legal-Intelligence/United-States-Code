@@ -4,7 +4,7 @@ All costs or expenses incurred in any extradition proceeding in apprehending, se
 
 All witness fees and costs of every nature in cases of international extradition, including the fees of the magistrate judge, shall be certified by the judge or magistrate judge before whom the hearing shall take place to the Secretary of State of the United States, and the same shall be paid out of appropriations to defray the expenses of the judiciary or the Department of Justice as the case may be.
 
-The Attorney General shall certify to the Secretary of State the amounts to be paid to the United States on account of said fees and costs in extradition cases by the foreign government requesting the extradition, and the Secretary of State shall cause said amounts to be collected and transmitted to the Attorney General for deposit in the Treasury of the United States.
+The Attorney General shall certify to the Secretary of State the amounts to be paid to the United States on account of said fees and costs in extradition cases by the foreign government requesting the extradition, and the Secretary ofState shall cause said amounts to be collected and transmitted to the Attorney General for deposit in the Treasury of the United States.
 
 (June 25, 1948, ch. 645, 62 Stat. 825; Pub. L. 90–578, title III, §301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

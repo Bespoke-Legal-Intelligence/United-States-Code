@@ -10,7 +10,7 @@ Instruments To Be Given Legal Effect Without Regard to State Law.—A military p
 
 (b)
 
-Military Power of Attorney.—For purposes of this section, a military power of attorney is any general or special power of attorney that is notarized in accordance with section1044a of this title or other applicable State or Federal law.
+Military Power of Attorney.—For purposes of this section, a military power of attorney is any general or special power of attorney that is notarized in accordance with section 1044a of this title or other applicable State or Federal law.
 
 (c)
 

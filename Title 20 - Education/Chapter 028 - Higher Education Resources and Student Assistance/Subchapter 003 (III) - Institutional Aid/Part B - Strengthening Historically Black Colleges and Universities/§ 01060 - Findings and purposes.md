@@ -58,7 +58,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. HBCUs have a proud history and legacy of achievement. In the face of discrimination against Black Americans by many institutions of higher education, HBCUs created pathways to opportunity and educational excellence for Black students throughout our Nation. That legacy continues. Today, more than 100 HBCUs, located in 19 States, the District of Columbia, and the U.S. Virgin Islands, serve nearly 300,000 students annually. HBCUs vary in size and academic focus and serve a range of diverse students and communities in urban, rural, and suburban settings.
 
-HBCUs play a vital role in providing educational opportunities, scholarly growth, and a sense of community for students. HBCU graduates are barrier-breaking public servants, scientists, artists, lawyers, engineers, educators, business owners, and leaders. For generations, HBCUs have been advancing intergenerational economic mobility for Black families and communities, developing vital academic research, and making our country more prosperous and equitable. HBCUs are proven means of advancement for people of all ethnic, racial, and economic backgrounds, especially Black Americans. HBCUs produce nearly 20 percent of all Black college graduates and 25 percent of Black graduates who earn degrees in the disciplines of science, technology, engineering, and math.
+HBCUs play a vital role in providing educational opportunities, scholarly growth, and a sense of community for students. HBCU graduates are barrier-breaking public servants, scientists, artists, lawyers, engineers, educators, business owners, and leaders. For generations, HBCUs have been advancing intergenerational economic mobility for Black families and communities, developing vital academic research, and making our country more prosperous and equitable. HBCUs are proven means of advancement for people of all ethnic, racial, and economic backgrounds, especially BlackAmericans. HBCUs produce nearly 20 percent of all Black college graduates and 25 percent of Black graduates who earn degrees in the disciplines of science, technology, engineering, and math.
 
 HBCUs' successes have come despite many systemic barriers to accessing resources and opportunities. For example, compared to other higher education institutions, on average HBCUs educate a greater percentage of lower-income, Pell-grant eligible students, while receiving less revenue from tuition and possessing much smaller endowments. Disparities in resources and opportunities for HBCUs and their students remain, and the COVID–19 pandemic has highlighted continuing and new challenges. These challenges include addressing the need for enhanced physical and digital infrastructure in HBCU communities and ensuring equitable funding for HBCUs as compared to other institutions of higher education. The Federal Government must promote a variety of modern solutions for HBCUs, recognizing that HBCUs are not a monolith, and that the opportunities and challenges relevant to HBCUs are as diverse as the institutions themselves and the communities they serve.
 
@@ -76,7 +76,7 @@ Sec. 2. <i>White House Initiative on Advancing Educational Equity, Excellence, a
 
 &emsp;(B) working closely with the Executive Office of the President on key Administration priorities related to advancing educational equity, excellence, and economic opportunity through HBCUs, in partnership with HBCU leaders, representatives, students, and alumni;
 
-&emsp;(C) working to break down barriers and expand pathways for HBCUs to access Federal funding andprograms, particularly in areas of research and development, innovation, and financial and other support to students;
+&emsp;(C) working to break down barriers and expand pathways for HBCUs to access Federal funding and programs, particularly in areas of research and development, innovation, and financial and other support to students;
 
 &emsp;(D) strengthening the capacity of HBCUs to participate in Federal programs, access Federal resources, including grants and procurement opportunities, and partner with Federal agencies;
 
@@ -120,7 +120,7 @@ Sec. 3. <i>President's Board of Advisors on Historically Black Colleges and Univ
 
 (c) The Board shall be composed of not more than 21 members appointed by the President. The Secretary of Education and Executive Director of the Initiative or their designees shall serve as ex officio members.
 
-(d) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Board, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Chair, in accordance with guidelines issued by the Administrator of General Services.
+(d) Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], may apply to the Board, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Chair, in accordance with guidelines issued by the Administrator of General Services.
 
 (e) Members of the Board shall serve without compensation, but may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
 
@@ -146,7 +146,7 @@ J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Board of Advisors on Historically Black Colleges and Universities
 
-Term of President's Board of Advisors on Historically Black Colleges and Universities (established by Ex. Ord. No. 14041) extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Board of Advisors on Historically Black Colleges and Universities (established by Ex. Ord. No. 14041) extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Board of Advisors on Historically Black Colleges and Universities as established by various Executive Orders were contained in the following prior Executive Orders:
 

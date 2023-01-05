@@ -164,7 +164,7 @@ In carrying out this section, a local school board may request technical assista
 
 #### (2) Coordination provisions
 
-&emsp;An agreement under paragraph (1) may, with respect to the Bureau school and schools inthe school district involved, encompass coordination of all or any part of the following:
+&emsp;An agreement under paragraph (1) may, with respect to the Bureau school and schools in the school district involved, encompass coordination of all or any part of the following:
 
 &emsp;&emsp;(A) The academic program and curriculum, unless the Bureau school is accredited by a State or regional accrediting entity and would not continue to be so accredited if the agreement encompassed the program and curriculum.
 
@@ -206,7 +206,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 Act of April 16, 1934, referred to in subsec. (e)(2), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O'Malley Act, which is classified generally to section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-This Act, referred to in subsec. (e)(2), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
+This Act, referred to in subsec. (e)(2), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
 This chapter, referred to in subsec. (h)(1), was in the original "this title", meaning title XI (§1101 et seq.) of Pub. L. 95–561, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
 

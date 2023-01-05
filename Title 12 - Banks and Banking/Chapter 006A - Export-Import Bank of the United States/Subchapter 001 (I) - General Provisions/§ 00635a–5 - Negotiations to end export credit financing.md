@@ -32,7 +32,7 @@ The President shall initiate and pursue negotiations with countries that are not
 
 #### (e) Annual reports on progress of negotiations
 
-Not later than 180 days after December 4, 2015, and annually thereafter through calendar year2019, the President shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the progress of any negotiations described in subsection (d).
+Not later than 180 days after December 4, 2015, and annually thereafter through calendar year 2019, the President shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the progress of any negotiations described in subsection (d).
 
 (Pub. L. 112–122, §11, May 30, 2012, 126 Stat. 356; Pub. L. 114–94, div. E, title LV, §55002(a), Dec. 4, 2015, 129 Stat. 1769.)
 

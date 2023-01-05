@@ -2,7 +2,7 @@
 
 #### (a) Amount of credit
 
-For purposes of section 38, the amount of the Indian employment credit determined under this section with respect to any employer for any taxable year is an amount equal to 20 percent of the excess (if any) of—
+For purposes of section 38, the amount of the Indian employment credit determined under thissection with respect to any employer for any taxable year is an amount equal to 20 percent of the excess (if any) of—
 
 &emsp;(1) the sum of—
 
@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (3) Limitation
 
-&emsp;The aggregate amount of qualified wages and qualified employee health insurance coststaken into account with respect to any employee for any taxable year (and for the base period under subsection (a)(2)) shall not exceed $20,000.
+&emsp;The aggregate amount of qualified wages and qualified employee health insurance costs taken into account with respect to any employee for any taxable year (and for the base period under subsection (a)(2)) shall not exceed $20,000.
 
 #### (c) Qualified employee
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) by a transaction to which section 381(a) applies if the employee continues to be employed by the acquiring corporation, or
 
-&emsp;&emsp;&emsp;(ii) by reason of a mere change in the form of conducting the trade or business of the taxpayer if the employee continues tobe employed in such trade or business and the taxpayer retains a substantial interest in such trade or business.
+&emsp;&emsp;&emsp;(ii) by reason of a mere change in the form of conducting the trade or business of the taxpayer if the employee continues to be employed in such trade or business and the taxpayer retains a substantial interest in such trade or business.
 
 #### (4) Special rule
 
@@ -166,7 +166,7 @@ This section shall not apply to taxable years beginning after December 31, 2021.
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33\(§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The date of the enactment of this paragraph, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
 
@@ -214,7 +214,7 @@ Pub. L. 116–94, div. Q, title I, §111(b), Dec. 20, 2019, 133 Stat. 3228, prov
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–123, div. D, title I, §40301(b), Feb. 9, 2018, 132 Stat. 145, provided that: "The amendment made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 2016."
+Pub. L. 115–123, div. D, title I, §40301(b), Feb. 9, 2018, 132 Stat. 145, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2016."
 
 #### Effective Date of 2015 Amendment
 

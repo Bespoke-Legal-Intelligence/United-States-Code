@@ -14,7 +14,7 @@ All dairy operations in the United States shall be eligible to participate in da
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall extend the election period for the 2018 calendar year by not lessthan 90 days after February 9, 2018, or such additional period as the Secretary determines is necessary for dairy operations to make new elections to participate for that calendar year, including dairy operations that elected to so participate before February 9, 2018.
+&emsp;&emsp;The Secretary shall extend the election period for the 2018 calendar year by not less than 90 days after February 9, 2018, or such additional period as the Secretary determines is necessary for dairy operations to make new elections to participate for that calendar year, including dairy operations that elected to so participate before February 9, 2018.
 
 #### (B) Retroactive program option
 
@@ -104,7 +104,7 @@ Subsec. (c)(1), (3). Pub. L. 115–334, §1401(k)(5)(C), substituted "dairy marg
 
 Subsec. (c)(4). Pub. L. 115–123, §60101(b)(2)(B), added par. (4).
 
-Subsec. (d). Pub. L. 115–334, §1401(e)(1), struck out subsec. (d). Text read as follows: "A dairy operation may participate in the margin protection program orthe livestock gross margin for dairy program under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.), but not both."
+Subsec. (d). Pub. L. 115–334, §1401(e)(1), struck out subsec. (d). Text read as follows: "A dairy operation may participate in the margin protection program or the livestock gross margin for dairy program under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.), but not both."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

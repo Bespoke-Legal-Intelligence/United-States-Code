@@ -6,6 +6,7 @@ Subpart D—Business Related Credits
 | [39\.](%C2%A7%2000039%20-%20Carryback%20and%20carryforward%20of%20unused%20credits.md) | Carryback and carryforward of unused credits. |
 | [40\.](%C2%A7%2000040%20-%20Alcohol%2C%20etc.%2C%20used%20as%20fuel.md) | Alcohol, etc., used as fuel. |
 | [40A.](%C2%A7%2000040A%20-%20Biodiesel%20and%20renewable%20diesel%20used%20as%20fuel.md) | Biodiesel and renewable diesel used as fuel. |
+| [40B.](%C2%A7%2000040B%20-%20Sustainable%20aviation%20fuel%20credit.md) | Sustainable aviation fuel credit. |
 | [41\.](%C2%A7%2000041%20-%20Credit%20for%20increasing%20research%20activities.md) | Credit for increasing research activities. |
 | [42\.](%C2%A7%2000042%20-%20Low-income%20housing%20credit.md) | Low-income housing credit. |
 | [43\.](%C2%A7%2000043%20-%20Enhanced%20oil%20recovery%20credit.md) | Enhanced oil recovery credit. |
@@ -32,12 +33,30 @@ Subpart D—Business Related Credits
 | [45R.](%C2%A7%2000045R%20-%20Employee%20health%20insurance%20expenses%20of%20small%20employers.md) | Employee health insurance expenses of small employers. |
 | [45S.](%C2%A7%2000045S%20-%20Employer%20credit%20for%20paid%20family%20and%20medical%20leave.md) | Employer credit for paid family and medical leave. |
 | [45T.](%C2%A7%2000045T%20-%20Auto-enrollment%20option%20for%20retirement%20savings%20options%20provided%20by%20small%20employers.md) | Auto-enrollment option for retirement savings options provided by small employers. |
+| [45U.](%C2%A7%2000045U%20-%20Zero-emission%20nuclear%20power%20production%20credit.md) | Zero-emission nuclear power production credit. |
+| [45V.](%C2%A7%2000045V%20-%20Credit%20for%20production%20of%20clean%20hydrogen.md) | Credit for production of clean hydrogen. |
+| [45W.](%C2%A7%2000045W%20-%20Credit%20for%20qualified%20commercial%20clean%20vehicles.md) | Qualified commercial clean vehicle credit.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [45X.](%C2%A7%2000045X%20-%20Advanced%20manufacturing%20production%20credit.md) | Advanced manufacturing production credit. |
+| [45Y.](%C2%A7%2000045Y%20-%20Clean%20electricity%20production%20credit.md) | Clean electricity production credit. |
+| [45Z.](%C2%A7%2000045Z%20-%20Clean%20fuel%20production%20credit.md) | Clean fuel production credit. |
+| [45AA.](%C2%A7%2000045AA%20-%20Military%20spouse%20retirement%20plan%20eligibility%20credit%20for%20small%20employers.md) | Military spouse retirement plan eligibility credit for small employers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. T, title I, §112(d), Dec. 29, 2022, 136 Stat. 5295, added item 45AA.
+
+Pub. L. 117–169, title I, §§13105(b)(2), 13204(a)(4)(B), 13403(b)(3), 13502(b)(2), 13701(b)(2), 13704(b)(4), Aug. 16, 2022, 136 Stat. 1931, 1939, 1966, 1981, 1990, 2002, added items 45U to 45Z.
+
+Pub. L. 117–169, title I, §13203(d)(2)(D), Aug. 16, 2022, 136 Stat. 1935, which directed amendment of the analysis for "subpart D of subchapter A of chapter 1" by adding item 40B, was executed to this analysis, which is for subpart D of part IV of subchapter A of chapter 1, to reflect the probable intent of Congress.
 
 <b>2019</b>—Pub. L. 116–94, div. O, title I, §105(c), Dec. 20, 2019, 133 Stat. 3148, added item 45T.
 
@@ -79,6 +98,8 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 
 <b>1984</b>—Pub. L. 98–369, div. A, title IV, §471(b), July 18, 1984, 98 Stat. 826, added subpart D heading and analysis of sections for subpart D, consisting of items 38 (new), 39 (new), 40 (formerly 44E), and 41 (formerly 44G). Former subpart D was redesignated F.
 
+<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+
 
 ---
 
@@ -88,6 +109,7 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 - [&sect; 00039 - Carryback and carryforward of unused credits](%C2%A7%2000039%20-%20Carryback%20and%20carryforward%20of%20unused%20credits.md)
 - [&sect; 00040 - Alcohol, etc., used as fuel](%C2%A7%2000040%20-%20Alcohol%2C%20etc.%2C%20used%20as%20fuel.md)
 - [&sect; 00040A - Biodiesel and renewable diesel used as fuel](%C2%A7%2000040A%20-%20Biodiesel%20and%20renewable%20diesel%20used%20as%20fuel.md)
+- [&sect; 00040B - Sustainable aviation fuel credit](%C2%A7%2000040B%20-%20Sustainable%20aviation%20fuel%20credit.md)
 - [&sect; 00041 - Credit for increasing research activities](%C2%A7%2000041%20-%20Credit%20for%20increasing%20research%20activities.md)
 - [&sect; 00042 - Low-income housing credit](%C2%A7%2000042%20-%20Low-income%20housing%20credit.md)
 - [&sect; 00043 - Enhanced oil recovery credit](%C2%A7%2000043%20-%20Enhanced%20oil%20recovery%20credit.md)
@@ -121,3 +143,10 @@ Pub. L. 107–16, title II, §205(b)(2), June 7, 2001, 115 Stat. 53, added item 
 - [&sect; 00045R - Employee health insurance expenses of small employers](%C2%A7%2000045R%20-%20Employee%20health%20insurance%20expenses%20of%20small%20employers.md)
 - [&sect; 00045S - Employer credit for paid family and medical leave](%C2%A7%2000045S%20-%20Employer%20credit%20for%20paid%20family%20and%20medical%20leave.md)
 - [&sect; 00045T - Auto-enrollment option for retirement savings options provided by small employers](%C2%A7%2000045T%20-%20Auto-enrollment%20option%20for%20retirement%20savings%20options%20provided%20by%20small%20employers.md)
+- [&sect; 00045U - Zero-emission nuclear power production credit](%C2%A7%2000045U%20-%20Zero-emission%20nuclear%20power%20production%20credit.md)
+- [&sect; 00045V - Credit for production of clean hydrogen](%C2%A7%2000045V%20-%20Credit%20for%20production%20of%20clean%20hydrogen.md)
+- [&sect; 00045W - Credit for qualified commercial clean vehicles](%C2%A7%2000045W%20-%20Credit%20for%20qualified%20commercial%20clean%20vehicles.md)
+- [&sect; 00045X - Advanced manufacturing production credit](%C2%A7%2000045X%20-%20Advanced%20manufacturing%20production%20credit.md)
+- [&sect; 00045Y - Clean electricity production credit](%C2%A7%2000045Y%20-%20Clean%20electricity%20production%20credit.md)
+- [&sect; 00045Z - Clean fuel production credit](%C2%A7%2000045Z%20-%20Clean%20fuel%20production%20credit.md)
+- [&sect; 00045AA - Military spouse retirement plan eligibility credit for small employers](%C2%A7%2000045AA%20-%20Military%20spouse%20retirement%20plan%20eligibility%20credit%20for%20small%20employers.md)

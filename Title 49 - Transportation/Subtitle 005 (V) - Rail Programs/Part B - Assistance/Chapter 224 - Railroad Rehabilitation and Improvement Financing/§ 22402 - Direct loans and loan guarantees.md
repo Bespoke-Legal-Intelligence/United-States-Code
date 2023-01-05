@@ -516,7 +516,7 @@ Subsec. (h)(3)(B). Pub. L. 117–58, §21301(d)(7)(A)(ii), substituted "section 
 
 Subsec. (h)(4). Pub. L. 117–58, §21301(d)(7)(B), substituted "(b)(1)(F)" for "(b)(1)(E)".
 
-Subsec. (i)(4). Pub. L. 117–58, §21301(d)(8)(A), amended par. (4) generally. Prior to amendment, text read as follows: "The Secretary shall implement procedures and measures to economize the time and cost involved in obtaining an approval or a disapproval of an application for a direct loan or loan guarantee under this title."
+Subsec. (i)(4). Pub. L. 117–58, §21301(d)(8)(A), amended par. (4) generally. Prior to amendment, text read as follows: "The Secretary shall implement procedures and measures to economize the time and cost involved inobtaining an approval or a disapproval of an application for a direct loan or loan guarantee under this title."
 
 Subsec. (i)(5)(G). Pub. L. 117–58, §21301(d)(8)(B), added subpar. (G).
 

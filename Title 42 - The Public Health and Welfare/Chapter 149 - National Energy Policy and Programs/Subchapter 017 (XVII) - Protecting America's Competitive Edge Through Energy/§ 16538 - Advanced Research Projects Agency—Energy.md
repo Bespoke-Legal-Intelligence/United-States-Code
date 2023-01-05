@@ -116,7 +116,7 @@ In carrying out this section, the Director may provide awards in the form of gra
 
 &emsp;&emsp;A program director of a program shall be responsible for—
 
-&emsp;&emsp;&emsp;(i) establishing research and development goals for the program, including through the convening of workshops and conferring with outside experts, and publicizing the goals of the program to the public and private sectors;
+&emsp;&emsp;&emsp;(i) establishing research and development goals for the program, includingthrough the convening of workshops and conferring with outside experts, and publicizing the goals of the program to the public and private sectors;
 
 &emsp;&emsp;&emsp;(ii) soliciting applications for specific areas of particular promise, especially areas that the private sector or the Federal Government are not likely to undertake alone;
 

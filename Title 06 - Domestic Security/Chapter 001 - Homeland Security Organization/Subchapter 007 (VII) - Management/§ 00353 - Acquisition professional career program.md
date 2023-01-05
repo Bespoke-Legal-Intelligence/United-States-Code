@@ -10,7 +10,7 @@ The Under Secretary for Management shall administer the acquisition professional
 
 #### (c) Program requirements
 
-The Under Secretary for Management shall carry out the following with respect to the acquisition professional career program.
+The Under Secretary for Management shall carry out the following with respect to the acquisition professional career program.<sup>1</sup>
 
 &emsp;(1) Designate the occupational series, grades, and number of acquisition positions throughout the Department to be included in the program and manage centrally such positions.
 
@@ -65,4 +65,6 @@ In this section:
 &emsp;The term "institution of higher education" has the meaning given such term in section 1001 of title 20.
 
 (Pub. L. 107–296, title VII, §713, as added Pub. L. 117–81, div. F, title LXIV, §6405(a), Dec. 27, 2021, 135 Stat. 2401.)
+
+<i><sup>1</sup></i><i> So in original. Probably should be a colon.</i>
 

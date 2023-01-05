@@ -12,7 +12,7 @@ The Service shall provide funds for health care programs and facilities operated
 
 > on the same basis as such funds are provided to programs and facilities operated directly by the Service.
 
-(Pub. L. 94–437, title VIII, §811, formerly title VII, §711, as added Pub. L. 100–713, title VII, §705, Nov. 23, 1988, 102 Stat. 4828; renumbered title VIII, §811, Pub. L. 102–573, title VII, §701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
+(Pub. L. 94–437, title VIII, §811, formerly title VII, §711, as added Pub. L. 100–713, title VII, §705,Nov. 23, 1988, 102 Stat. 4828; renumbered title VIII, §811, Pub. L. 102–573, title VII, §701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
 
 #### <b>Editorial Notes</b>
 

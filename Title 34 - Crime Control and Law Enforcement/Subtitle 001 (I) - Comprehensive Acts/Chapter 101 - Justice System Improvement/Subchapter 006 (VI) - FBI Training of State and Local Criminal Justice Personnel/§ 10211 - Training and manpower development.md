@@ -20,7 +20,7 @@ Notwithstanding the provisions of subsection (a), the Secretary of the Treasury 
 
 #### (d) Rail carrier costs
 
-No Federal funds may be used for any travel, transportation, or subsistence expenses incurredin connection with the participation of a railroad police officer in a training program conducted under subsection (a).
+No Federal funds may be used for any travel, transportation, or subsistence expenses incurred in connection with the participation of a railroad police officer in a training program conducted under subsection (a).
 
 #### (e) Definitions
 

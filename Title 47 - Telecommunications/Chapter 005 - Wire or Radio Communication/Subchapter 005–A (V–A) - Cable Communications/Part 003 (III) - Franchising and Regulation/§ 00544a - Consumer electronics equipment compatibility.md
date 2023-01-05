@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(1) new and recent models of television receivers and video cassette recorders often contain premium features and functions that are disabled or inhibited because of cable scrambling, encoding, or encryption technologies and devices, including converter boxes and remote control devices required by cable operators to receive programming;
 
-&emsp;(2) if these problems are allowed to persist, consumers will be less likely to purchase, and electronics equipment manufacturers will beless likely to develop, manufacture, or offer for sale, television receivers and video cassette recorders with new and innovative features and functions;
+&emsp;(2) if these problems are allowed to persist, consumers will be less likely to purchase, and electronics equipment manufacturers will be less likely to develop, manufacture, or offer for sale, television receivers and video cassette recorders with new and innovative features and functions;
 
 &emsp;(3) cable operators should use technologies that will prevent signal thefts while permitting consumers to benefit from such features and functions in such receivers and recorders; and
 
@@ -68,7 +68,7 @@ The Congress finds that—
 
 &emsp;&emsp;&emsp;(ii) to specify the types of remote control units that are compatible with the converter box supplied by the cable operator; and
 
-&emsp;&emsp;(F) to prohibit a cable operator from taking any action that prevents or in any waydisables the converter box supplied by the cable operator from operating compatibly with commercially available remote control units.
+&emsp;&emsp;(F) to prohibit a cable operator from taking any action that prevents or in any way disables the converter box supplied by the cable operator from operating compatibly with commercially available remote control units.
 
 #### (d) Review of regulations
 

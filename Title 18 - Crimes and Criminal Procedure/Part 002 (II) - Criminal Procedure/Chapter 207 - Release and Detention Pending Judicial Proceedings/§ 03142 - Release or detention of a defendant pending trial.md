@@ -116,7 +116,7 @@ Detention Hearing.—The judicial officer shall hold a hearing to determine whet
 
 &emsp;&emsp;(D) any felony if such person has been convicted of two or more offenses described in subparagraphs (A) through (C) of this paragraph, or two or more State or local offenses that would have been offenses described in subparagraphs (A) through (C) of this paragraph if a circumstance giving rise to Federal jurisdiction had existed, or a combination of such offenses; or
 
-&emsp;&emsp;(E) any felony that is not otherwise a crime of violence that involves a minor victim or that involves the possession or use of a firearm or destructive device (as those terms are defined in section 921), or anyother dangerous weapon, or involves a failure to register under section 2250 of title 18, United States Code; or
+&emsp;&emsp;(E) any felony that is not otherwise a crime of violence that involves a minor victim or that involves the possession or use of a firearm or destructive device (as those terms are defined in section 921), or any other dangerous weapon, or involves a failure to register under section 2250 of title 18, United States Code; or
 
 &emsp;(2) upon motion of the attorney for the Government or upon the judicial officer's own motion in a case, that involves—
 
@@ -182,9 +182,9 @@ Presumption of Innocence.—Nothing in this section shall be construed as modify
 
 Section 3 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsecs. (b) and (c)(1)(A), is section 3 of Pub. L. 106–546, which was classified to section 14135a of Title 42, The Public Health and Welfare, prior to editorial reclassification as section 40702 of Title 34, Crime Control and Law Enforcement.
 
-The Controlled Substances Act, referred to in subsecs. (e) and (f)(1)(C), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsecs. (e) and (f)(1)(C), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsecs. (e) and (f)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsecs. (e) and (f)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 #### Prior Provisions
 
@@ -230,7 +230,7 @@ Subsec. (g)(4). Pub. L. 101–647, §3624, substituted "subsection (c)(1)(B)(xi)
 
 <b>1988</b>—Subsec. (c)(3). Pub. L. 100–690 substituted "the order" for "order".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(a), (c)(1), in par. (1) struck out "his" after "released on" and substituted "under subsection (b) of this section" for "pursuant to the provisions of subsection (b)", in par. (2) substituted "under subsection (c) of this section" for "pursuant tothe provisions of subsection (c)", in par. (3) substituted "under subsection (d) of this section" for "pursuant to provisions of subsection (d)", and in par. (4) substituted "under subsection (e) of this section" for "pursuant to provisions of subsection (e)".
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §55(a), (c)(1), in par. (1) struck out "his" after "released on" and substituted "under subsection (b) of this section" for "pursuant to the provisions of subsection (b)", in par. (2) substituted "under subsection (c) of this section" for "pursuant to the provisions of subsection (c)", in par. (3) substituted "under subsection (d) of this section" for "pursuant to provisions of subsection (d)", and in par. (4) substituted "under subsection (e) of this section" for "pursuant to provisions of subsection (e)".
 
 Subsec. (b). Pub. L. 99–646, §55(c)(2), struck out "his" after "person on" and "period of".
 

@@ -2,7 +2,7 @@
 
 #### (a) Proceedings by Commission for determination
 
-Whenever the Commission finds on the basis of the investigations or research conducted pursuant to section 1201 of this title that a new or amended flammability standard or other regulation, including labeling, for a fabric, related material, or product may be needed to protect the public against unreasonable risk of the occurrence of fire leading to death or personal injury,or significant property damage, it shall institute proceedings for the determination of an appropriate flammability standard (including conditions and manner of testing) or other regulation or amendment thereto for such fabric, related material, or product.
+Whenever the Commission finds on the basis of the investigations or research conducted pursuant to section 1201 of this title that a new or amended flammability standard or other regulation, including labeling, for a fabric, related material, or product may be needed to protect the public against unreasonable risk of the occurrence of fire leading to death or personal injury, or significant property damage, it shall institute proceedings for the determination of an appropriate flammability standard (including conditions and manner of testing) or other regulation or amendment thereto for such fabric, related material, or product.
 
 #### (b) Necessary findings; effective date; exemptions
 
@@ -14,7 +14,7 @@ The Commission may obtain from any person by regulation or subpena issued pursua
 
 #### (d) Applicability of section 553 of title 5; oral presentation
 
-Standards, regulations, and amendments to standards and regulations under this section shall be made in accordance with section 553 of title 5, except that interested persons shall be given an opportunity for the oral presentation of data, views, or arguments in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
+Standards, regulations, and amendments to standards and regulations under this section shall be made in accordance with section 553 oftitle 5, except that interested persons shall be given an opportunity for the oral presentation of data, views, or arguments in addition to an opportunity to make written submissions. A transcript shall be kept of any oral presentation.
 
 #### (e) Judicial review; additional information before Commission; applicability of sections 701 to 706 of title 5; finality of judgment; survival of action
 
@@ -48,7 +48,7 @@ A proceeding for the promulgation of a regulation under this section for a fabri
 
 &emsp;(6) invite any person (other than the Commission) to submit to the Commission, within such period as the Commission shall specify in the notice (which period shall not be less than 30 days after the date of publication of the notice), a statement of intention to modify or develop a voluntary standard to address the risk of injury identified in paragraph (1) together with a description of a plan to modify or develop the standard.
 
-> The Commission shall transmit such notice within 10 calendar days to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+> The Commission shall transmit such notice within 10 calendar days to the Committee onCommerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
 #### (h) Voluntary standard; publication as proposed regulation; prerequisites for reliance by Commission
 
@@ -72,7 +72,7 @@ A proceeding for the promulgation of a regulation under this section for a fabri
 
 #### (i) Publication of proposed rule by Commission; preliminary regulatory analysis; contents; transmission of notice by Commission to Committees
 
-No regulation may be proposed by the Commission under this section unless the Commission publishes in the Federal Register the text of the proposed rule, including any alternatives,which the Commission proposes to promulgate, together with a preliminary regulatory analysis containing—
+No regulation may be proposed by the Commission under this section unless the Commission publishes in the Federal Register the text of the proposed rule, including any alternatives, which the Commission proposes to promulgate, together with a preliminary regulatory analysis containing—
 
 &emsp;(1) a preliminary description of the potential benefits and potential costs of the proposed regulation, including any benefits or costs that cannot be quantified in monetary terms, and an identification of those likely to receive the benefits and bear the costs;
 

@@ -206,7 +206,7 @@ In carrying out any conservation program administered by the Secretary, the Secr
 
 #### (3) Implementation and notification
 
-&emsp;Not later than 1 year after the date of enactment of the Food, Conservation, and EnergyAct of 2008, the Secretary shall submit to Congress a written notification of completion of the requirements of this subsection.
+&emsp;Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a written notification of completion of the requirements of this subsection.
 
 #### (j) Review and guidance for practice costs and payment rates
 
@@ -262,7 +262,7 @@ In carrying out the conservation stewardship program under subpart B of part IV 
 
 &emsp;(1) the goals and objectives of the programs will be met by such arrangements;
 
-&emsp;(2) a sufficient number of eligible participants will be aggregated under the alternative funding arrangement to accomplish the underlying purposes and objectives of the applicable program; and
+&emsp;(2) a sufficient number of eligible participants will be aggregated under the alternativefunding arrangement to accomplish the underlying purposes and objectives of the applicable program; and
 
 &emsp;(3) statutory limitations regarding contracts with individual producers will not be exceeded by any tribal member, except that the Secretary may approve a waiver if the Secretary is authorized to approve a waiver under the statutory authority of the applicable program.
 
@@ -290,7 +290,7 @@ In carrying out the conservation stewardship program under subpart B of part IV 
 
 #### (A) In general
 
-&emsp;&emsp;In each of fiscal years 2019 through 2023, the Secretary shall use to carry out this subsection not less than 10 percent of any funds available for conservation programs administered by the Secretary under this chapter (other than the conservation reserve program established under subpart B of part I of subchapter IV).
+&emsp;&emsp;In each of fiscal years 2019 through 2031, the Secretary shall use to carry out this subsection not less than 10 percent of any funds available for conservation programs administered by the Secretary under this chapter (other than the conservation reserve program established under subpart B of part I of subchapter IV).
 
 #### (B) Limitation
 
@@ -330,7 +330,7 @@ The Secretary may not prohibit, through a contract, easement, or agreement under
 
 &emsp;The Secretary shall—
 
-&emsp;&emsp;(A) continue collaboration with Federal agencies, States, Indian tribes, or local units of government on existing regulatory certainty, regulatory predictability, safe harbor protection, or other similar regulatory assurances in accordance with paragraph (2); and
+&emsp;&emsp;(A) continue collaboration with Federal agencies, States, Indian tribes, or local unitsof government on existing regulatory certainty, regulatory predictability, safe harbor protection, or other similar regulatory assurances in accordance with paragraph (2); and
 
 &emsp;&emsp;(B) continue collaboration with the Secretary of the Interior on consultation under section 1536(a)(2) of this title or conference under section 1536(a)(4) of this title, as applicable, for wildlife conservation efforts, including the Working Lands for Wildlife model of conservation on working landscapes, as implemented on the day before December 20, 2018, in accordance with—
 
@@ -352,7 +352,7 @@ The Secretary may not prohibit, through a contract, easement, or agreement under
 
 &emsp;&emsp;(C) applies to a case in which the Department of Agriculture is the originating agency requesting a consultation or other technical and programmatic information or assistance from another Federal agency in assisting farmers, ranchers, or nonindustrial private forest landowners participating in a conservation program administered by the Secretary.
 
-(Pub. L. 99–198, title XII, §1244, as added Pub. L. 107–171, title II, §2004(a), May 13, 2002, 116 Stat. 235; amended Pub. L. 110–234, title II, §§2707(a), 2708, May 22, 2008, 122 Stat. 1077, 1079; Pub. L. 110–246, §4(a), title II, §§2707(a), 2708, June 18, 2008, 122 Stat. 1664, 1805, 1807; Pub. L. 113–79, title II, §§2301(b), 2606, Feb. 7, 2014, 128 Stat. 743, 760; Pub. L. 115–141, div. A, title VII, §766, Mar. 23, 2018, 132 Stat. 397; Pub. L. 115–334, title II, §§2202(b)(2), 2301(d)(1)(K), (L), 2503, 2821(f), Dec. 20, 2018, 132 Stat. 4538, 4554, 4580, 4603.)
+(Pub. L. 99–198, title XII, §1244, as added Pub. L. 107–171, title II, §2004(a), May 13, 2002, 116 Stat. 235; amended Pub. L. 110–234, title II, §§2707(a), 2708, May 22, 2008, 122 Stat. 1077, 1079; Pub. L. 110–246, §4(a), title II, §§2707(a), 2708, June 18, 2008, 122 Stat. 1664, 1805, 1807; Pub. L. 113–79, title II, §§2301(b), 2606, Feb. 7, 2014, 128 Stat. 743, 760; Pub. L. 115–141, div. A, title VII, §766, Mar. 23, 2018, 132 Stat. 397; Pub. L. 115–334, title II, §§2202(b)(2), 2301(d)(1)(K), (L), 2503, 2821(f), Dec. 20, 2018, 132 Stat. 4538, 4554, 4580, 4603; Pub. L. 117–169, title II, §21001(c)(6), Aug. 16, 2022, 136 Stat. 2017.)
 
 #### <b>Editorial Notes</b>
 
@@ -382,6 +382,8 @@ A prior section 3844, Pub. L. 99–198, title XII, §1244, Dec. 23, 1985, 99 Sta
 
 #### Amendments
 
+<b>2022</b>—Subsec. (n)(3)(A). Pub. L. 117–169 substituted "2031" for "2023".
+
 <b>2018</b>—Subsec. (b)(4)(B). Pub. L. 115–334, §2821(f), substituted "Government Accountability Office" for "General Accounting Office".
 
 Subsec. (c)(3). Pub. L. 115–334, §2301(d)(1)(K), inserted "subpart A of" before "part IV".
@@ -398,7 +400,7 @@ Subsec. (l). Pub. L. 115–334, §2503(b)(2), redesignated subsec. (k) as (l). F
 
 Pub. L. 115–334, §2301(d)(1)(L), substituted "subpart B of part IV of subchapter IV" for "subpart B of part II of subchapter IV" and "subpart A of part IV of subchapter IV" for "part IV of subchapter IV".
 
-Subsec. (m). Pub. L. 115–334, §2503(c), designated existing provisions as introductory provisions and pars. (1) and (3) and added par. (2), substituted "shall" for "may" in introductory provisions and "arrangements;" for "arrangements, and that" in par. (1), and inserted ", except that the Secretary may approve a waiver if the Secretary is authorized to approve a waiver under the statutory authority of the applicable program" before period at end of par. (3).
+Subsec. (m). Pub. L. 115–334, §2503(c), designated existing provisions as introductory provisions and pars. (1) and (3) and added par. (2), substituted "shall" for "may" in introductory provisions and "arrangements;" for "arrangements, and that" in par. (1), and inserted ", except that the Secretary may approve a waiver if the Secretary is authorized to approve a waiver underthe statutory authority of the applicable program" before period at end of par. (3).
 
 Pub. L. 115–334, §2503(b)(2), redesignated subsec. (l) as (m).
 
@@ -450,7 +452,7 @@ Subsecs. (f) to (i). Pub. L. 110–246, §2708(2), added subsecs. (f) to (i).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

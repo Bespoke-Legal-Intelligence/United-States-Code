@@ -94,7 +94,7 @@ Report to congress.—At the same time that the President submits the budget for
 
 (d)
 
-Information Technology Standards.—The Director shall oversee the development and implementation of standards and guidelines pertaining to federal computer systems by the Secretary of Commerce through the National Institute of Standards and Technology under section 11331 of this title and section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3).
+Information Technology Standards.—The Director shall oversee the development and implementation of standards and guidelines pertaining to federal computer systems by the Secretary of Commerce through the National Institute of Standards and Technology under section 11331 of this title <sup>1</sup> and section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3).
 
 (e)
 
@@ -149,6 +149,8 @@ Pub. L. 104–106, div. E, title LI, §5112, Feb. 10, 1996, 110 Stat. 680.
 Section 3542 of title 44, referred to in subsec. (c)(1)(C), was repealed by Pub. L. 113–283, §2(a), Dec. 18, 2014, 128 Stat. 3073. See section 3552 of Title 44, Public Printing and Documents.
 
 Section 2445c of title 10, referred to in subsec. (c)(4)(C), was repealed by Pub. L. 114–328, div. A, title VIII, §846(1), Dec. 23, 2016, 130 Stat. 2292.
+
+The text of section 11331 of this title, referred to in subsec. (d), was generally amended by Pub. L. 117–167, div. B, title II, §10246(f), Aug. 9, 2022, 136 Stat. 1492, so as to provide for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems.
 
 #### Amendments
 

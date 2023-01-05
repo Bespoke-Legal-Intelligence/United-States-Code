@@ -14,3 +14,5 @@ Part A—Bureau of Consumer Financial Protection
 - [&sect; 05496a - Annual audits](%C2%A7%2005496a%20-%20Annual%20audits.md)
 - [&sect; 05496b - GAO study of financial regulations](%C2%A7%2005496b%20-%20GAO%20study%20of%20financial%20regulations.md)
 - [&sect; 05497 - Funding; penalties and fines](%C2%A7%2005497%20-%20Funding%3B%20penalties%20and%20fines.md)
+- [&sect; 05498 - Data standards](%C2%A7%2005498%20-%20Data%20standards.md)
+- [&sect; 05499 - Open data publication](%C2%A7%2005499%20-%20Open%20data%20publication.md)

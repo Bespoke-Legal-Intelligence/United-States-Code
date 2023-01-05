@@ -48,7 +48,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For the purpose of qualifying as an institution under paragraph (1)(C) of this subsection, the Secretary shall establish anadvisory panel of medical experts that shall—
+&emsp;&emsp;&emsp;For the purpose of qualifying as an institution under paragraph (1)(C) of this subsection, the Secretary shall establish an advisory panel of medical experts that shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) evaluate the standards of accreditation applied to applicant foreign medical schools; and
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) not earlier than 180 days after the submission of the report described in subclause (I), issue proposed regulations establishing criteria for the eligibility of graduate medical schools described in such subclause to participate in the loan programs under part D of subchapter IV based on the recommendations of such report; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) not earlier than one year after the issuance of proposed regulations under item (aa), issue final regulations establishing such criteria for eligibility.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) not earlier than one year after the issuance of proposed regulationsunder item (aa), issue final regulations establishing such criteria for eligibility.
 
 #### (C) Failure to release information
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(B) enrolls 50 percent or more of the institution's students in correspondence courses (excluding courses offered by telecommunications as defined in section 1091(l)(4) <sup>1</sup> of this title), unless the institution is an institution that meets the definition in such section, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2- or 4-year program of instruction (or both) for which the institution awards an associate or baccalaureate degree, respectively;
 
-&emsp;&emsp;(C) has a student enrollment in which more than 25 percent of the students are incarcerated, except that the Secretary maywaive the limitation contained in this subparagraph for a nonprofit institution that provides a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree, or an associate's degree or a postsecondary diploma, respectively; or
+&emsp;&emsp;(C) has a student enrollment in which more than 25 percent of the students are incarcerated, except that the Secretary may waive the limitation contained in this subparagraph for a nonprofit institution that provides a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree, or an associate's degree or a postsecondary diploma, respectively; or
 
 &emsp;&emsp;(D) has a student enrollment in which more than 50 percent of the students do not have a secondary school diploma or its recognized equivalent, and does not provide a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree or an associate's degree, respectively, except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that the institution exceeds such limitation because the institution serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a secondary school diploma or its recognized equivalent.
 
@@ -262,7 +262,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–315, title I, §102(e), Aug. 14, 2008, 122 Stat. 3086, as amended by Pub. L. 111–39, title I, §101(a)(2),July 1, 2009, 123 Stat. 1935, provided that: "The amendments made by subsections (a)(1), (b), and (d) \[amending this section\] shall take effect on July 1, 2010, except that, with respect to foreign nursing schools that were eligible to participate in part B of title IV \[20 U.S.C. 1071 et seq.\] as of the day before the date of enactment of this Act \[Aug. 14, 2008\], the amendments made by subsection (a)(1)(D) \[amending this section\] shall take effect on July 1, 2012."
+Pub. L. 110–315, title I, §102(e), Aug. 14, 2008, 122 Stat. 3086, as amended by Pub. L. 111–39, title I, §101(a)(2), July 1, 2009, 123 Stat. 1935, provided that: "The amendments made by subsections (a)(1), (b), and (d) \[amending this section\] shall take effect on July 1, 2010, except that, with respect to foreign nursing schools that were eligible to participate in part B of title IV \[20 U.S.C. 1071 et seq.\] as of the day before the date of enactment of this Act \[Aug. 14, 2008\], the amendments made by subsection (a)(1)(D) \[amending this section\] shall take effect on July 1, 2012."
 
 #### Effective Date of 2006 Amendment
 

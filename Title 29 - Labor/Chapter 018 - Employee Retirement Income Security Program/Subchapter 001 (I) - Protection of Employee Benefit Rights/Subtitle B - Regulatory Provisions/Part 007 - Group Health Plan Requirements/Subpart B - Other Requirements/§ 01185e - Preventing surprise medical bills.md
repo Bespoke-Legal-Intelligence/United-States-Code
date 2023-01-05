@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) such services will be provided without imposing any requirement under the plan for prior authorization of services or any limitation on coverage that is more restrictive than the requirements or limitations that apply to emergency services received from participating providers and participating emergency facilities with respect to such plan or coverage, respectively;
 
-&emsp;&emsp;&emsp;(ii) the cost-sharing requirement is not greater than the requirement that would apply if such services were provided by aparticipating provider or a participating emergency facility;
+&emsp;&emsp;&emsp;(ii) the cost-sharing requirement is not greater than the requirement that would apply if such services were provided by a participating provider or a participating emergency facility;
 
 &emsp;&emsp;&emsp;(iii) such cost-sharing requirement is calculated as if the total amount that would have been charged for such services by such participating provider or participating emergency facility were equal to the recognized amount (as defined in paragraph (3)(H)) for such services, plan or coverage, and year;
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a medical screening examination (as required under section 1867 of the Social Security Act \[42 U.S.C. 1395dd\], or as would be required under such section if such section applied to an independent freestanding emergency department) that is within the capability of the emergency department of a hospital or of an independent freestanding emergency department, as applicable, including ancillary services routinely available to the emergency department to evaluate such emergency medical condition; and
 
-&emsp;&emsp;&emsp;&emsp;(II) within the capabilities of the staff and facilities available at the hospital orthe independent freestanding emergency department, as applicable, such further medical examination and treatment as are required under section 1867 of such Act \[42 U.S.C. 1395dd\], or as would be required under such section if such section applied to an independent freestanding emergency department, to stabilize the patient (regardless of the department of the hospital in which such further examination or treatment is furnished).
+&emsp;&emsp;&emsp;&emsp;(II) within the capabilities of the staff and facilities available at the hospital or the independent freestanding emergency department, as applicable, such further medical examination and treatment as are required under section 1867 of such Act \[42 U.S.C. 1395dd\], or as would be required under such section if such section applied to an independent freestanding emergency department, to stabilize the patient (regardless of the department of the hospital in which such further examination or treatment is furnished).
 
 #### (ii) Inclusion of additional services
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;The term "qualifying payment amount" means, with respect to a sponsor of a group health plan or health insurance issuer offering group health insurance coverage in a geographic region in which such sponsor or issuer, respectively, did not offer any group health plan or health insurance coverage during 2019—
 
-&emsp;&emsp;&emsp;&emsp;(I) for the first year in which such group health plan or health insurancecoverage, respectively, is offered in such region, a rate (determined in accordance with a methodology established by the Secretary) for items and services that are covered by such plan and furnished during such first year; and
+&emsp;&emsp;&emsp;&emsp;(I) for the first year in which such group health plan or health insurance coverage, respectively, is offered in such region, a rate (determined in accordance with a methodology established by the Secretary) for items and services that are covered by such plan and furnished during such first year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for each subsequent year such group health plan or health insurance coverage, respectively, is offered in such region, the qualifying payment amount determined under this clause for such items and services furnished in the previous year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year.
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) for an item or service furnished in a subsequent year (before the first sufficient information year (as defined in clause (v)(II)) for such item or service with respect to such plan or coverage), means the rate determined under subclause (I) or this subclause, as applicable, for such item or service for the year previous to such subsequent year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year;
 
-&emsp;&emsp;&emsp;&emsp;(III) for an item or service furnished in the first sufficient information year for such item or service with respect to such plan or coverage, has the meaning given the term qualifying payment amount in clause (i)(I), except that in applying such clause to such item or service, the reference to "furnished during 2022" shall be treated as a reference to furnished during such first sufficient information year, the reference to "in 2019" <sup>1</sup> shall be treated as a reference to such sufficient information year, and the increase described in such clause shall not be applied; and
+&emsp;&emsp;&emsp;&emsp;(III) for an item or service furnished in the first sufficient information year for such item or service with respect to such plan or coverage, has the meaning giventhe term qualifying payment amount in clause (i)(I), except that in applying such clause to such item or service, the reference to "furnished during 2022" shall be treated as a reference to furnished during such first sufficient information year, the reference to "in 2019" <sup>1</sup> shall be treated as a reference to such sufficient information year, and the increase described in such clause shall not be applied; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) for an item or service furnished in any year subsequent to the first sufficient information year for such item or service with respect to such plan or coverage, has the meaning given such term in clause (i)(II), except that in applying such clause to such item or service, the reference to "furnished during 2023 or a subsequent year" shall be treated as a reference to furnished during the year after such first sufficient information year or a subsequent year.
 
@@ -148,7 +148,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of an item or service for which the plan or coverage does not have sufficient information to calculate the median of the contracted rates described in clause (i)(I) in 2019, the first year subsequent to 2022 for which such sponsor or issuer has such sufficient information to calculate the median of such contracted rates in the year previous to such first subsequent year; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a newly covered item or service, the first year subsequent to the first coverage year for such item or service with respect tosuch plan or coverage for which the sponsor or issuer has sufficient information to calculate the median of the contracted rates described in clause (i)(I) in the year previous to such first subsequent year.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a newly covered item or service, the first year subsequent to the first coverage year for such item or service with respect to such plan or coverage for which the sponsor or issuer has sufficient information to calculate the median of the contracted rates described in clause (i)(I) in the year previous to such first subsequent year.
 
 #### (III) Newly covered item or service
 
@@ -172,7 +172,7 @@
 
 #### (ii) Participating provider
 
-&emsp;&emsp;&emsp;The term "participating provider" means, with respect to an item or service and a group health plan or group health insurance coverage offered by a health insurance issuer, a physician or other health care provider who is acting within the scope of practice of that provider's license or certification under applicable State law and who has a contractual relationship with the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
+&emsp;&emsp;&emsp;The term "participating provider" means, with respect to an item or service and a group health plan or group health insurance coverage offered by a health insurance issuer, a physician or other health care provider who is acting within the scope of practice of that provider's license or certification under applicable State law and who has a contractual relationshipwith the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
 
 #### (H) Recognized amount
 
@@ -194,7 +194,7 @@
 
 #### (K) Out-of-network rate
 
-&emsp;&emsp;The term "out-of-network rate" means, with respect to an item or service furnishedin a State during a year to a participant or beneficiary of a group health plan or group health insurance coverage offered by a health insurance issuer receiving such item or service from a nonparticipating provider or nonparticipating emergency facility—
+&emsp;&emsp;The term "out-of-network rate" means, with respect to an item or service furnished in a State during a year to a participant or beneficiary of a group health plan or group health insurance coverage offered by a health insurance issuer receiving such item or service from a nonparticipating provider or nonparticipating emergency facility—
 
 &emsp;&emsp;&emsp;(i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
 
@@ -214,7 +214,7 @@
 
 #### (1) In general
 
-&emsp;In the case of items or services (other than emergency services to which subsection (a) applies) for which any benefits are provided or covered by a group health plan or health insurance issuer offering group health insurance coverage furnished to a participant or beneficiary of such plan or coverage by a nonparticipating provider (as defined in subsection (a)(3)(G)(i)) (and who, with respect to such items and services, has not satisfied the notice and consent criteria of section 300gg–132(d) of title 42) with respect to a visit (as defined by the Secretary in accordance with paragraph (2)(B)) at a participating health care facility (as defined in paragraph (2)(A)), with respect to such plan or coverage, respectively, the plan or coverage, respectively—
+&emsp;In the case of items or services (other than emergency services to which subsection (a) applies) for which any benefits are provided or covered by a group health plan or health insurance issuer offering group health insurance coverage furnished to a participant or beneficiary of such plan or coverage by a nonparticipating provider (as defined in subsection (a)(3)(G)(i)) (and who, with respect to such items and services, has not satisfied the notice and consent criteria of section 300gg–132(d) of title 42) with respect to a visit (as defined by the Secretary in accordance with paragraph (2)(B)) at a participating health care facility (as defined in paragraph\(2)(A)), with respect to such plan or coverage, respectively, the plan or coverage, respectively—
 
 &emsp;&emsp;(A) shall not impose on such participant or beneficiary a cost-sharing requirement for such items and services so furnished that is greater than the cost-sharing requirement that would apply under such plan or coverage, respectively, had such items or services been furnished by a participating provider (as defined in subsection (a)(3)(G)(ii));
 
@@ -278,7 +278,7 @@
 
 #### (C) Clarification
 
-&emsp;&emsp;A nonparticipating provider may not, with respect to an item or service furnished bysuch provider, submit a notification under paragraph (1)(B) if such provider is exempt from the requirement under subsection (a) of section 300gg–132 of title 42 with respect to such item or service pursuant to subsection (b) of such section.
+&emsp;&emsp;A nonparticipating provider may not, with respect to an item or service furnished by such provider, submit a notification under paragraph (1)(B) if such provider is exempt from the requirement under subsection (a) of section 300gg–132 of title 42 with respect to such item or service pursuant to subsection (b) of such section.
 
 #### (3) Treatment of batching of items and services
 
@@ -312,7 +312,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) an affiliate or a subsidiary of such a group health plan or health insurance issuer, provider, or facility; or
 
-&emsp;&emsp;&emsp;&emsp;(III) an affiliate or subsidiary of a professional or trade association of such group health plans or health insurance issuers or of providers or facilities;
+&emsp;&emsp;&emsp;&emsp;(III) an affiliate or subsidiary of a professional or trade association of suchgroup health plans or health insurance issuers or of providers or facilities;
 
 &emsp;&emsp;&emsp;(iii) carries out the responsibilities of such an entity in accordance with this subsection;
 
@@ -408,7 +408,7 @@
 
 #### (D) Prohibition on consideration of certain factors
 
-&emsp;&emsp;In determining which offer is the payment to be applied with respect to qualified IDR items and services furnished by a provider or facility, the certified IDR entity with respect to a determination shall not consider usual and customary charges, the amount that would have been billed by such provider or facility with respect to such items and services had the provisions of section 300gg–131 of title 42 or section 300gg–132 of such title (as applicable) not applied, or the payment or reimbursement rate for suchitems and services furnished by such provider or facility payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], under the Medicaid program under title XIX of such Act \[42 U.S.C. 1396 et seq.\], under the Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], under the TRICARE program under chapter 55 of title 10, or under chapter 17 of title 38.
+&emsp;&emsp;In determining which offer is the payment to be applied with respect to qualified IDR items and services furnished by a provider or facility, the certified IDR entity with respect to a determination shall not consider usual and customary charges, the amount that would have been billed by such provider or facility with respect to such items and services had the provisions of section 300gg–131 of title 42 or section 300gg–132 of such title (as applicable) not applied, or the payment or reimbursement rate for such items and services furnished by such provider or facility payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], under the Medicaid program under title XIX of such Act \[42 U.S.C. 1396 et seq.\], under the Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], under the TRICARE program under chapter 55 of title 10, or under chapter 17 of title 38.
 
 #### (E) Effects of determination
 
@@ -500,7 +500,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each party to a determination under paragraph (5) to which an entity is selected under paragraph (3) <sup>5</sup> in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
+&emsp;&emsp;Each party to a determination under paragraph (5) to which an entity is selectedunder paragraph (3) <sup>5</sup> in a year shall pay to the Secretary, at such time and in such manner as specified by the Secretary, a fee for participating in the IDR process with respect to such determination in an amount described in subparagraph (B) for such year.
 
 #### (B) Amount of fee
 
@@ -544,7 +544,7 @@ A group health plan or a health insurance issuer offering group health insurance
 
 &emsp;&emsp;(E) A good faith estimate of the amount that the participant or beneficiary has incurred toward meeting the limit of the financial responsibility (including with respect to deductibles and out-of-pocket maximums) under the plan or coverage (as of the date of such notification).
 
-&emsp;&emsp;(F) In the case such item or service is subject to a medical management technique (including concurrent review, prior authorization, and step-therapy or fail-first protocols) for coverage under the plan or coverage, a disclaimer that coverage for such item or service is subject to such medical management technique.
+&emsp;&emsp;(F) In the case such item or service is subject to a medical management technique (including concurrent review, prior authorization, and step-therapy or fail-first protocols)for coverage under the plan or coverage, a disclaimer that coverage for such item or service is subject to such medical management technique.
 
 &emsp;&emsp;(G) A disclaimer that the information provided in the notification is only an estimate based on the items and services reasonably expected, at the time of scheduling (or requesting) the item or service, to be furnished and is subject to change.
 

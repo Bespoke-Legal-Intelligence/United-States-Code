@@ -14,7 +14,7 @@
 
 #### (1) General exemption
 
-&emsp;Any security or obligation that has been provided a guarantee by the Corporation shall be exempt from any law of any State with respect to or requiring registration or qualification of securities or real estate to the same extent as any obligation issued by, or guaranteed as to principal and interest by, the UnitedStates or any agency or instrumentality of the United States.
+&emsp;Any security or obligation that has been provided a guarantee by the Corporation shall be exempt from any law of any State with respect to or requiring registration or qualification of securities or real estate to the same extent as any obligation issued by, or guaranteed as to principal and interest by, the United States or any agency or instrumentality of the United States.
 
 #### (2) State override
 
@@ -50,7 +50,7 @@ A provision of the Constitution or law of any State shall not apply to an agricu
 
 &emsp;(1) limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by an agricultural lender or a certified facility; or
 
-&emsp;(2) limits or prohibits a prepayment penalty (either fixed or declining), yield maintenance, or make-whole payment that may be charged, taken, or received by an agricultural lender or a certified facility in connection with the full or partial payment of the principal amount due on a loan by a borrower in advance of the scheduled date for the payment under the terms of the loan, otherwise known as a prepayment of the loan principal.
+&emsp;(2) limits or prohibits a prepayment penalty (either fixed or declining), yield maintenance,or make-whole payment that may be charged, taken, or received by an agricultural lender or a certified facility in connection with the full or partial payment of the principal amount due on a loan by a borrower in advance of the scheduled date for the payment under the terms of the loan, otherwise known as a prepayment of the loan principal.
 
 (Pub. L. 92–181, title VIII, §8.12, as added Pub. L. 100–233, title VII, §702, Jan. 6, 1988, 101 Stat. 1703; amended Pub. L. 100–399, title VI, §601(k), (l), Aug. 17, 1988, 102 Stat. 1006; Pub. L. 104–105, title I, §112, Feb. 10, 1996, 110 Stat. 165.)
 
@@ -58,9 +58,9 @@ A provision of the Constitution or law of any State shall not apply to an agricu
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
 
@@ -74,5 +74,5 @@ Subsec. (b)(2). Pub. L. 100–399, §601(l), substituted "date of the enactment"
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 

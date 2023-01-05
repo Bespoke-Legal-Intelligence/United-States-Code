@@ -80,7 +80,7 @@ Appropriate Secretary Defined.—In this section, the term "appropriate Secretar
 
 Duration of Authority.—A bonus may not be paid under subsection (a) with respect to any referral that occurs after December 31, 2011.
 
-(Added Pub. L. 110–181, div. A, title VI, §671(b)(1), Jan. 28, 2008, 122 Stat. 182; amended Pub. L. 110–417, \[div. A\], title VI, §615(a), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI,§616(1), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §616(1), title X, §1075(b)(15), Jan. 7, 2011, 124 Stat. 4238, 4369; Pub. L. 116–283, div. A, title IX, §924(b)(23), Jan. 1, 2021, 134 Stat. 3824.)
+(Added Pub. L. 110–181, div. A, title VI, §671(b)(1), Jan. 28, 2008, 122 Stat. 182; amended Pub. L. 110–417, \[div. A\], title VI, §615(a), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §616(1), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §616(1), title X, §1075(b)(15), Jan. 7, 2011, 124 Stat. 4238, 4369; Pub. L. 116–283, div. A, title IX, §924(b)(23), Jan. 1, 2021, 134 Stat. 3824.)
 
 #### <b>Editorial Notes</b>
 

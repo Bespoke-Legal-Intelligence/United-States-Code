@@ -332,7 +332,7 @@ In carrying out subsection (a), the Administrator, in cooperation, where appropr
 
 #### (vi) Termination of authority
 
-&emsp;&emsp;&emsp;Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), the Board and all authority provided under this subparagraph shall terminate not later than 12 years after December 27, 2020.
+&emsp;&emsp;&emsp;Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.),<sup>1</sup> the Board and all authority provided under this subparagraph shall terminate not later than 12 years after December 27, 2020.
 
 #### (C) Deep saline formation report
 
@@ -388,7 +388,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 #### (j) Continuation of national acid precipitation assessment program
 
-(1) The acid precipitation research program set forth in the Acid Precipitation Act of 1980 \[42U.S.C. 8901 et seq.\] shall be continued with modifications pursuant to this subsection.
+(1) The acid precipitation research program set forth in the Acid Precipitation Act of 1980 \[42 U.S.C. 8901 et seq.\] shall be continued with modifications pursuant to this subsection.
 
 (2) The Acid Precipitation Task Force shall consist of the Administrator of the Environmental Protection Agency, the Secretary of Energy, the Secretary of the Interior, the Secretary of Agriculture, the Administrator of the National Oceanic and Atmospheric Administration, the Administrator of the National Aeronautics and Space Administration, and such additional members as the President may select. The President shall appoint a chairman for the Task Force from among its members within 30 days after November 15, 1990.
 
@@ -412,7 +412,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;&emsp;(i) actual and projected emissions and acid deposition trends;
 
-&emsp;&emsp;(ii) average ambient concentrations of acid deposition percursors <sup>1</sup> and their transformation products;
+&emsp;&emsp;(ii) average ambient concentrations of acid deposition percursors <sup>2</sup> and their transformation products;
 
 &emsp;&emsp;(iii) the status of ecosystems (including forests and surface waters), materials, and visibility affected by acid deposition;
 
@@ -432,13 +432,13 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 If, in the judgment of the Administrator, an air pollution problem of substantial significance may result from discharge or discharges into the atmosphere, the Administrator may call a conference concerning this potential air pollution problem to be held in or near one or more of the places where such discharge or discharges are occurring or will occur. All interested persons shall be given an opportunity to be heard at such conference, either orally or in writing, and shall be permitted to appear in person or by representative in accordance with procedures prescribed by the Administrator. If the Administrator finds, on the basis of the evidence presented at such conference, that the discharge or discharges if permitted to take place or continue are likely to cause or contribute to air pollution subject to abatement under this part, the Administrator shall send such findings, together with recommendations concerning the measures which the Administrator finds reasonable and suitable to prevent such pollution, to the person or persons whose actions will result in the discharge or discharges involved; to air pollution agencies of the State or States and of the municipality or municipalities where such discharge or discharges will originate; and to the interstate air pollution control agency, if any, in the jurisdictional area of which any such municipality is located. Such findings and recommendations shall be advisory only, but shall be admitted together with the record of the conference, as part of the proceedings under subsections (b), (c), (d), (e), and (f) of section 7408 of this title.
 
-(July 14, 1955, ch. 360, title I, §103, formerly §3, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 394; renumbered §103 and amended Pub. L. 89–272, title I, §§101(3), 103, Oct. 20, 1965, 79 Stat. 992, 996; Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat.486; Pub. L. 91–604, §§2(a), 4(2), 15(a)(2), (c)(2), Dec. 31, 1970, 84 Stat. 1676, 1689, 1710, 1713; Pub. L. 95–95, title I, §101(a), (b), Aug. 7, 1977, 91 Stat. 686, 687; Pub. L. 101–549, title IX, §901(a)–(c), Nov. 15, 1990, 104 Stat. 2700–2703; Pub. L. 116–260, div. S, §102(b), Dec. 27, 2020, 134 Stat. 2243.)
+(July 14, 1955, ch. 360, title I, §103, formerly §3, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 394; renumbered §103 and amended Pub. L. 89–272, title I, §§101(3), 103, Oct. 20, 1965, 79 Stat. 992, 996; Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 486; Pub. L. 91–604, §§2(a), 4(2), 15(a)(2), (c)(2), Dec. 31, 1970, 84 Stat. 1676, 1689, 1710, 1713; Pub. L.95–95, title I, §101(a), (b), Aug. 7, 1977, 91 Stat. 686, 687; Pub. L. 101–549, title IX, §901(a)–(c), Nov. 15, 1990, 104 Stat. 2700–2703; Pub. L. 116–260, div. S, §102(b), Dec. 27, 2020, 134 Stat. 2243.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(6)(B)(vi), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(6)(B)(vi), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 The Acid Precipitation Act of 1980, referred to in subsec. (j)(1), (3)(A), is title VII of Pub. L. 96–294, June 30, 1980, 94 Stat. 770, which is classified generally to chapter 97 (§8901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8901 of this title and Tables.
 
@@ -520,7 +520,7 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### Pilot Design Programs
 
@@ -556,5 +556,7 @@ Pub. L. 95–95, title I, §101(c), Aug. 7, 1977, 91 Stat. 687, provided that: "
 
 Pub. L. 86–493, June 8, 1960, 74 Stat. 162, directed Surgeon General of Public Health Service to conduct a thorough study for purposes of determining, with respect to the various substances discharged from exhausts of motor vehicles, the amounts and kinds of such substances which, from the standpoint of human health, it is safe for motor vehicles to discharge into the atmosphere under the various conditions under which such vehicles may operate, and, not later than two years after June 8, 1960, submit to Congress a report on results of the study, together with such recommendations, if any, based upon the findings made in such study, as he deemed necessary for the protection of the public health.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "precursors".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "precursors".</i>
 

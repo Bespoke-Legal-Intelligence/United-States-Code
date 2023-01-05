@@ -22,7 +22,7 @@
 
 (2) In the case of a project of clinical research in which women or members of minority groups will under paragraph (1) be included as subjects of the research, the Secretary shall ensure that the project is designed and carried out so as to provide for a valid analysis of whether the variables being tested in the research affect women or members of minority groups, as the case may be, differently than other persons who are subjects of the research.
 
-(d)(1) The Secretary, in carrying out the Secretary's responsibilities under this section, shall foster and encourage the initiation and expansion of research relating to the health of veterans who are women.
+(d)(1) The Secretary, in carrying out the Secretary's responsibilities under this section, shallfoster and encourage the initiation and expansion of research relating to the health of veterans who are women.
 
 (2) In carrying out this subsection, the Secretary shall consult with the following to assist the Secretary in setting research priorities:
 
@@ -30,7 +30,7 @@
 
 &emsp;(B) The members of the Advisory Committee on Women Veterans.
 
-&emsp;(C) Members of appropriate task forces and working groups within the Department (including the Women Veterans Working Groupand the Task Force on Treatment of Women Who Suffer Sexual Abuse).
+&emsp;(C) Members of appropriate task forces and working groups within the Department (including the Women Veterans Working Group and the Task Force on Treatment of Women Who Suffer Sexual Abuse).
 
 (Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 211; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–452, title I, §102(a), (b)(1), Nov. 2, 1994, 108 Stat. 4785, 4786; Pub. L. 105–220, title IV, §414(c), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 107–135, title II, §205(a), Jan. 23, 2002, 115 Stat. 2460; Pub. L. 108–170, title IV, §401(b), Dec. 6, 2003, 117 Stat. 2061.)
 
@@ -53,6 +53,18 @@ Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b),
 <b>1992</b>—Subsec. (b). Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Expansion of Suicide Prevention and Mental Health Research
+
+Pub. L. 117–328, div. V, title V, §506, Dec. 29, 2022, 136 Stat. 5516, provided that:
+
+"(a)
+
+Research on Moral Injury.—The Secretary of Veterans Affairs, acting through the Office of Research and Development of the Department of Veterans Affairs, shall conduct suicide prevention and mental health care improvement research on how moral injury relates to the mental health needs of veterans who served in the Armed Forces after September 11, 2001, and best practices for mental health treatment for such veterans.
+
+"(b)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Department of Veterans Affairs an additional $10,000,000 to be used by the Center of Excellence for Suicide Prevention of the Department and the Rocky Mountain Mental Illness Research Education and Clinical Center for purposes of conducting research on the factors impacting veteran suicide and best practices for early intervention and support."
 
 #### Use by Department of Veterans Affairs of Commercial Institutional Review Boards in Sponsored Research Trials
 

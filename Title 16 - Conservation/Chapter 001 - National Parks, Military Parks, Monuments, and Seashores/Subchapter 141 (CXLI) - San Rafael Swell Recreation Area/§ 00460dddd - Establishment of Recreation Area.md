@@ -38,7 +38,7 @@ Pub. L. 116–9, title I, §§1211–1214, Mar. 12, 2019, 133 Stat. 667, provide
 
 #### "SEC. 1211. DEFINITIONS.
 
-"In this part \[part II (§§1211–1255) of subtitle C of title I of Pub. L. 116–9, enacting this subchapter, amendingsection 1274 of this title, enacting provisions set out as a note under section 1274 of this title, and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title and in a table of National Monuments set out under section 320301 of Title 54, National Parks Service and Related Programs\]:
+"In this part \[part II (§§1211–1255) of subtitle C of title I of Pub. L. 116–9, enacting this subchapter, amending section 1274 of this title, enacting provisions set out as a note under section 1274 of this title, and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title and in a table of National Monuments set out under section 320301 of Title 54, National Parks Service and Related Programs\]:
 
 &emsp;"(1)
 
@@ -100,5 +100,5 @@ Wilderness area.—The term 'wilderness area' means a wilderness area designated
 
 #### "SEC. 1214. SAVINGS CLAUSE.
 
-"Nothing in this part diminishes the authority of the Secretary under Public Law 92–195 (commonly known as the 'Wild Free-Roaming Horses and Burros Act') (16 U.S.C. 1331 et seq.)."
+"Nothing in this part diminishes the authority of the Secretary under Public Law 92–195 (commonly knownas the 'Wild Free-Roaming Horses and Burros Act') (16 U.S.C. 1331 et seq.)."
 

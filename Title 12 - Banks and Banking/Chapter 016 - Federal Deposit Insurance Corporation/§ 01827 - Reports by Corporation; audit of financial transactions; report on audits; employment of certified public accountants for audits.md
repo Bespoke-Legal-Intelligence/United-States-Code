@@ -30,7 +30,7 @@
 
 #### (1) Financial operating plans and forecasts
 
-&emsp;Before the beginning of each fiscal quarter, the Corporation shall provide to the Secretary of the Treasury a copy of the Corporation's financial operating plans and forecasts.
+&emsp;Before the beginning of each fiscal quarter, the Corporation shall provide to the Secretaryof the Treasury a copy of the Corporation's financial operating plans and forecasts.
 
 #### (2) Financial condition and reports of operations
 
@@ -48,7 +48,7 @@
 
 #### (1) Financial information
 
-&emsp;The Corporation shall continue to provide to the Director of the Office of Management andBudget financial information consistent with that contained in the reports that were being provided to the Director immediately prior to the effective date of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
+&emsp;The Corporation shall continue to provide to the Director of the Office of Management and Budget financial information consistent with that contained in the reports that were being provided to the Director immediately prior to the effective date of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989.
 
 #### (2) Financial operating plans and forecasts
 

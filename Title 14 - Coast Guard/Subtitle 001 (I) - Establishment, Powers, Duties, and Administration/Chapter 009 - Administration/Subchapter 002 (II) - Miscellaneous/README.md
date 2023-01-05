@@ -33,3 +33,5 @@
 - [&sect; 00950 - Designation, powers, and accountability of deputy disbursing officials](%C2%A7%2000950%20-%20Designation%2C%20powers%2C%20and%20accountability%20of%20deputy%20disbursing%20officials.md)
 - [&sect; 00951 - Aircraft accident investigations](%C2%A7%2000951%20-%20Aircraft%20accident%20investigations.md)
 - [&sect; 00952 - Construction of Coast Guard vessels and assignment of vessel projects](%C2%A7%2000952%20-%20Construction%20of%20Coast%20Guard%20vessels%20and%20assignment%20of%20vessel%20projects.md)
+- [&sect; 00953 - Support for Coast Guard Academy](%C2%A7%2000953%20-%20Support%20for%20Coast%20Guard%20Academy.md)
+- [&sect; 00954 - Mixed-funded athletic and recreational extracurricular programs](%C2%A7%2000954%20-%20Mixed-funded%20athletic%20and%20recreational%20extracurricular%20programs.md)

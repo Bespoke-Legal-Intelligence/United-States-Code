@@ -14,7 +14,7 @@ The congressional committees referred to in subsection (a) are the following com
 
 (Pub. L. 107–296, title VIII, §893, Nov. 25, 2002, 116 Stat. 2255.)
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

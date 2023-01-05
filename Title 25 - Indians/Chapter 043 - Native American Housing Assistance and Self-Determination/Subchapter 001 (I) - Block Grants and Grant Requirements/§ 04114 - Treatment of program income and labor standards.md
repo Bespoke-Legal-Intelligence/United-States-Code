@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;Any contract or agreement for assistance, sale, or lease pursuant to this chapter shall contain a provision requiring that not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State, tribal, or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, and technicians employed in the development, and all maintenance laborers and mechanics employed in the operation, of the affordable housing project involved; and shall also contain a provision that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shall be paid to all laborers and mechanics employed in thedevelopment of the affordable housing involved, and the Secretary shall require certification as to compliance with the provisions of this paragraph before making any payment under such contract or agreement.
+&emsp;Any contract or agreement for assistance, sale, or lease pursuant to this chapter shall contain a provision requiring that not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State, tribal, or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, and technicians employed in the development, and all maintenance laborers and mechanics employed in the operation, of the affordable housing project involved; and shall also contain a provision that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shall be paid to all laborers and mechanics employed in the development of the affordable housing involved, and the Secretary shall require certification as to compliance with the provisions of this paragraph before making any payment under such contract or agreement.
 
 #### (2) Exceptions
 
@@ -70,7 +70,7 @@ Subsec. (a)(2). Pub. L. 107–292, §5(2)(A), inserted "restricted access or" be
 
 Subsec. (a)(2)(D). Pub. L. 107–292, §5(2)(B)–(D), added subpar. (D).
 
-<b>2000</b>—Subsec. (b)(1). Pub. L. 106–568, §1003(j)(1), and Pub. L. 106–569, §503(i)(1), amended par. (1) identically, substituting "Act of March 3, 1931 (commonly known as the Davis-Bacon Act; chapter 411; 46 Stat. 1494; 40 U.S.C. 276a et seq.)" for "Davis-Bacon Act (40 U.S.C. 276a–276a–5)".
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–568, §1003(j)(1), and Pub. L. 106–569, §503(i)(1), amended par. (1) identically, substituting "Act of March 3, 1931 (commonly known asthe Davis-Bacon Act; chapter 411; 46 Stat. 1494; 40 U.S.C. 276a et seq.)" for "Davis-Bacon Act (40 U.S.C. 276a–276a–5)".
 
 Subsec. (b)(3). Pub. L. 106–568, §1003(j)(2), and Pub. L. 106–569, §503(i)(2), amended subsec. (b) identically, adding par. (3).
 

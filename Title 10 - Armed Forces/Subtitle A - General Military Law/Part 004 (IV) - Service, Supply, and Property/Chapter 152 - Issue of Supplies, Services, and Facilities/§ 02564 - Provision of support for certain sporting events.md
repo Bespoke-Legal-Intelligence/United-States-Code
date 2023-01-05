@@ -38,7 +38,7 @@ Inapplicability to Certain Events.—Subsections (a) and (b) do not apply to the
 
 &emsp;&emsp;(B) for which participation exceeds 100 amateur athletes; and
 
-&emsp;&emsp;(C) in which at least 10 percent of the athletes participating in the sporting event are members or former members of the armed forces who are participating in the sporting event based upon an injury or wound incurred in the line of duty in the armed force and veterans who are participating in the sporting event based upon a service-connected disability.
+&emsp;&emsp;(C) in which at least 10 percent of the athletes participating in the sporting event are members or former members of the armed forces who are participating in the sportingevent based upon an injury or wound incurred in the line of duty in the armed force and veterans who are participating in the sporting event based upon a service-connected disability.
 
 (d)
 

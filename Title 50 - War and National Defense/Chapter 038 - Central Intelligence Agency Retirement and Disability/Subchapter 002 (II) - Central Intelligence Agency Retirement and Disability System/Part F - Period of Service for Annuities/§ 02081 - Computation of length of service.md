@@ -22,7 +22,7 @@
 
 #### (2) Extra credit
 
-&emsp;Each year of duty at a post on the list established under paragraph (1), inclusive of regular leaves of absence, shall be counted as one and a half years in computing the length of service of a participant under this subchapter for the purpose of retirement. In computing such service, any fractional month shall be treated as a full month.
+&emsp;Each year of duty at a post on the list established under paragraph (1), inclusive of regular leaves of absence, shall be counted as one and a half years in computing the length of service of a participant under this subchapter for thepurpose of retirement. In computing such service, any fractional month shall be treated as a full month.
 
 #### (3) Coordination with benefits under title 5
 

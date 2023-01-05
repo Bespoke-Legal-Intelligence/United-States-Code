@@ -2,7 +2,7 @@
 
 (a) The Secretary of Transportation may develop and make available to interested persons any plans, proposals, and recommendations for mergers, consolidations, reorganizations, and other unification or coordination projects for rail transportation (including arrangements for joint use of tracks and other facilities and acquisition or sale of assets) that the Secretary believes will result in a rail system that is more efficient and consistent with the public interest.
 
-(b) To achieve a more efficient, economical, and viable rail system in the private sector, the Secretary, when requested by a rail carrier and under this section, may assist in planning, negotiating, and carrying out a unification or coordination of operations and facilities of at least 2 rail carriers.
+(b) To achieve a more efficient, economical, and viable rail system in the private sector, theSecretary, when requested by a rail carrier and under this section, may assist in planning, negotiating, and carrying out a unification or coordination of operations and facilities of at least 2 rail carriers.
 
 (c)(1) The Secretary may conduct studies to determine the potential cost savings and possible improvements in the quality of rail transportation that are likely to result from unification or coordination of at least 2 rail carriers, through—
 

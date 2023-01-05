@@ -16,7 +16,7 @@
 
 &emsp;(iii) payment for the costs of onsite monitoring by an agency responsible for conducting surveys, and
 
-&emsp;(iv) suspension of all or part of the payments to which a provider or clinical laboratory would otherwise be entitled under this subchapter with respect to clinical diagnostic laboratory tests furnished on or after the date on which the Secretary determines that intermediate sanctions should be imposed pursuant to subsection (a).
+&emsp;(iv) suspension of all or part of the payments to which a provider or clinical laboratorywould otherwise be entitled under this subchapter with respect to clinical diagnostic laboratory tests furnished on or after the date on which the Secretary determines that intermediate sanctions should be imposed pursuant to subsection (a).
 
 > The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (ii) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
@@ -32,7 +32,7 @@
 
 <b>1990</b>—Pub. L. 101–508 substituted "providers or suppliers of" for "providers of" in section catchline.
 
-<b>1989</b>—Pub. L. 101–234 repealed Pub. L. 100–360, §203(e)(4), and provided that the provisions of lawamended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
+<b>1989</b>—Pub. L. 101–234 repealed Pub. L. 100–360, §203(e)(4), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
 
 <b>1988</b>—Pub. L. 100–360, §203(e)(4)(A), inserted "and for qualified home intravenous drug therapy providers" at end of section catchline.
 

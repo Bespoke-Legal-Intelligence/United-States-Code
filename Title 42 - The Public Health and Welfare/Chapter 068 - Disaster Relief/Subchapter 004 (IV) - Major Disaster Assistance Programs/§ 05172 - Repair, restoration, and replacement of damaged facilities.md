@@ -82,7 +82,7 @@
 
 &emsp;&emsp;&emsp;(ii) investments in disaster relief, insurance, and emergency management programs;
 
-&emsp;&emsp;&emsp;(iii) encouraging the adoption and enforcement of the latest published editionsof relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters;
+&emsp;&emsp;&emsp;(iii) encouraging the adoption and enforcement of the latest published editions of relevant consensus-based codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish minimum acceptable criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under this chapter for the purpose of protecting the health, safety, and general welfare of the buildings' users against disasters;
 
 &emsp;&emsp;&emsp;(iv) facilitating participation in the community rating system; and
 
@@ -154,7 +154,7 @@
 
 #### (1) Reduction of Federal assistance
 
-&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Administrator pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in amajor disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2). This section shall not apply to more than one building of a multi-structure educational, law enforcement, correctional, fire, or medical campus, for any major disaster or emergency declared by the President under section 5170 or 5191, respectively, of this title on or after January 1, 2016, through December 31, 2018.
+&emsp;If a public facility or private nonprofit facility located in a special flood hazard area identified for more than 1 year by the Administrator pursuant to the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.) is damaged or destroyed, after the 180th day following November 23, 1988, by flooding in a major disaster and such facility is not covered on the date of such flooding by flood insurance, the Federal assistance which would otherwise be available under this section with respect to repair, restoration, reconstruction, and replacement of such facility and associated expenses shall be reduced in accordance with paragraph (2). This section shall not apply to more than one building of a multi-structure educational, law enforcement, correctional, fire, or medical campus, for any major disaster or emergency declared by the President under section 5170 or 5191, respectively, of this title on or after January 1, 2016, through December 31, 2018.
 
 #### (2) Amount of reduction
 
@@ -280,11 +280,11 @@
 
 This chapter, referred to in subsecs. (b)(3)(A)(iii) and (e)(1)(A)(ii), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
-The National Flood Insurance Act of 1968, referred to in subsecs. (c)(1)(C)(ii), (2)(C)(ii) and (d)(1), (2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+The National Flood Insurance Act of 1968, referred to in subsecs. (c)(1)(C)(ii), (2)(C)(ii) and (d)(1), (2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 The National Flood Insurance Act, referred to in subsec. (d)(3), probably means the National Flood Insurance Act of 1968. See above.
 
-The Coastal Barrier Resources Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 97–348, Oct. 18, 1982, 96 Stat. 1653, as amended, which is classified principally to chapter 55 (§3501 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 16 and Tables.
+The Coastal Barrier Resources Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 97–348, Oct. 18, 1982, 96 Stat. 1653, which is classified principally to chapter 55 (§3501 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 3501 of Title 16 and Tables.
 
 #### Prior Provisions
 
@@ -366,7 +366,7 @@ Amendment by section 20604(b) of Pub. L. 115–123 applicable to provision of as
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, as amended by Pub. L. 115–254, div. D,§1235(e), Oct. 5, 2018, 132 Stat. 3464, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1)(B) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect."
+Pub. L. 106–390, title II, §205(d)(2), Oct. 30, 2000, 114 Stat. 1566, as amended by Pub. L. 115–254, div. D, §1235(e), Oct. 5, 2018, 132 Stat. 3464, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Oct. 30, 2000\] and applies to funds appropriated after the date of the enactment of this Act, except that paragraph (1)(B) of section 406(e) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[subsec. (e)(1) of this section\] (as amended by paragraph (1)) takes effect on the date on which the cost estimation procedures established under paragraph (3) of that section take effect."
 
 #### Transfer of Functions
 
@@ -434,7 +434,7 @@ Definition of Public Assistance Grant Program.—The term 'public assistance gra
 
 Review and Briefing.—Not later than 60 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Emergency Management Agency\] shall—
 
-&emsp;"(1) conduct a review of the assessment and eligibility process under the public assistance grant program with respect to assistance provided for damaged underground water infrastructure as a result of a major disaster declared under section 401 of such Act (42 U.S.C. 5170), including wildfires, and shall include the extent to which local technical memoranda, prepared by a local unit of government in consultation with the relevant State or Federal agencies, identified damaged underground water infrastructure that should be eligible for the public assistance grant program; and
+&emsp;"(1) conduct a review of the assessment and eligibility process under the public assistance grant program with respect to assistance provided for damaged underground water infrastructure as a result of a major disaster declared under section 401 of such Act\(42 U.S.C. 5170), including wildfires, and shall include the extent to which local technical memoranda, prepared by a local unit of government in consultation with the relevant State or Federal agencies, identified damaged underground water infrastructure that should be eligible for the public assistance grant program; and
 
 &emsp;"(2) provide to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the review conducted under paragraph (1).
 

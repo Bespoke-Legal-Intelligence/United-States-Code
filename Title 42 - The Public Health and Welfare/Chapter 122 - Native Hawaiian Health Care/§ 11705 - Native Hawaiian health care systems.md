@@ -36,13 +36,13 @@ An entity is a qualified entity for purposes of subsection (a)(1) if the entity 
 
 &emsp;(B) collection of data related to the prevention of diseases and illnesses among Native Hawaiians; and
 
-&emsp;(C) services within the meaning of the terms "health promotion", "disease prevention",and "primary health services", as such terms are defined in section 11711 of this title, which are not specifically referred to in paragraph (1) of this subsection.
+&emsp;(C) services within the meaning of the terms "health promotion", "disease prevention", and "primary health services", as such terms are defined in section 11711 of this title, which are not specifically referred to in paragraph (1) of this subsection.
 
 (3) The health care services referred to in paragraphs (1) and (2) which are provided under grants or contracts under subsection (a)(1) may be provided by traditional Native Hawaiian healers.
 
 (4)
 
-Health and education.—In order to enable privately funded organizations to continue to supplement public efforts to provide educational programs designed to improve the health, capability, and well-being of Native Hawaiians and to continue to provide health services to Native Hawaiians, notwithstanding any other provision of Federal or State law, it shall be lawful for the private educational organization identified in section 7512(16) of title 20 (as such section was in effect on the day before December 10, 2015) to continue to offer its educational programs and services to Native Hawaiians (as defined in section 7517 of title 20) first and to others only after the need for such programs and services by Native Hawaiians has been met.
+Health and education.—In order to enable privately funded organizations to continue to supplement public efforts to provide educational programs designed to improve the health, capability, and well-being of Native Hawaiians and to continue to provide health services to Native Hawaiians, notwithstanding any other provision of Federal or State law, it shall be lawful for theprivate educational organization identified in section 7512(16) of title 20 (as such section was in effect on the day before December 10, 2015) to continue to offer its educational programs and services to Native Hawaiians (as defined in section 7517 of title 20) first and to others only after the need for such programs and services by Native Hawaiians has been met.
 
 #### (d) Limitation of number of entities
 
@@ -112,11 +112,11 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections. The text of 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (c)(4). Pub. L. 114–95 substituted "private educational organization identified in section7512(16) of title 20 (as such section was in effect on the day before December 10, 2015) to continue to offer its educational programs and services to Native Hawaiians (as defined in section 7517 of title 20) first and to others" for "private educational organization identified in section 7512(16) of title 20 to continue to offer its educational programs and services to Native Hawaiians (as defined in section 7517 of title 20) first and to others".
+<b>2015</b>—Subsec. (c)(4). Pub. L. 114–95 substituted "private educational organization identified in section 7512(16) of title 20 (as such section was in effect on the day before December 10, 2015) to continue to offer its educational programs and services to Native Hawaiians (as defined in section 7517 of title 20) first and to others" for "private educational organization identified in section 7512(16) of title 20 to continue to offer its educational programs and services to Native Hawaiians (as defined in section 7517 of title 20) first and to others".
 
 <b>2010</b>—Subsec. (c)(4). Pub. L. 111–148, which directed the amendment of section 6(c) of the Native Hawaiian Health Care Act of 1988 by adding par. (4), was executed by making the amendment to this section, which is section 6 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
 
-Subsec. (h)(1). Pub. L. 111–148, which directed the amendment of section 6(h)(1) of the Native Hawaiian Health Care Act of 1988 by substituting "2019" for "2001", was executed by making the amendment to this section, which is section 6 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
+Subsec. (h)(1). Pub. L. 111–148, which directed the amendment of section 6(h)(1) of the Native Hawaiian Health Care Act of 1988 by substituting "2019" for"2001", was executed by making the amendment to this section, which is section 6 of the Native Hawaiian Health Care Improvement Act, to reflect the probable intent of Congress.
 
 <b>1992</b>—Pub. L. 102–396 amended section generally. Prior to amendment, section related to administration of grants and contracts.
 

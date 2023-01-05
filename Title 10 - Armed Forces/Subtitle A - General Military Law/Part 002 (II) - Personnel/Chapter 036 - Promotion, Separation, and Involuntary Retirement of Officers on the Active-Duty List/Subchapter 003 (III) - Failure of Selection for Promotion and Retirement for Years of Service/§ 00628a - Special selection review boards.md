@@ -2,7 +2,9 @@
 
 (a)
 
-In General.—(1) If the Secretary of the military department concerned determines that a person recommended by a promotion board for promotion to a grade at or below the grade of major general, rear admiral in the Navy, or an equivalent grade in the Space Force is the subject of credible information of an adverse nature, including any substantiated adverse finding or conclusion described in section 615(a)(3)(A) of this title, that was not furnished to the promotion board during its consideration of the person for promotion as otherwise required by such section, the Secretary shall convene a special selection review board under this section to review the person and recommend whether the recommendation for promotion of the person should be sustained.
+In General.—(1)(A) If the Secretary of the military department concerned determines that a person recommended by a promotion board for promotion to a grade at or below the grade of major general, rear admiral in the Navy, or an equivalent grade in the Space Force is the subject of credible information of an adverse nature, including any substantiated adverse finding or conclusion described in section 615(a)(3)(A) of this title, that was not furnished to the promotion board during its consideration of the person for promotion as otherwise required by such section, the Secretary shall convene a special selection review board under this section to review the person and recommend whether the recommendation for promotion of the person should be sustained.
+
+(B) Nothing in this section shall be construed to prevent a Secretary concerned from deferring consideration of adverse information concerning an officer subject to this section until the next regularly scheduled promotion board applicable to such officer, in lieu of furnishing such adverse information to a special selection review board under this section.
 
 (2) If a person and the recommendation for promotion of the person is subject to review under this section by a special selection review board convened under this section, the name of the person—
 
@@ -50,7 +52,7 @@ Information Considered.—(1) In reviewing a person and recommending whether the
 
 (d)
 
-Consideration.—(1) In considering the record and information on a person under this section, the special selection review board shall compare such record and information with anappropriate sampling of the records of those officers of the same competitive category who were recommended for promotion by the promotion board that recommended the person for promotion, and an appropriate sampling of the records of those officers who were considered by and not recommended for promotion by that promotion board.
+Consideration.—(1) In considering the record and information on a person under this section, the special selection review board shall compare such record and information with an appropriate sampling of the records of those officers of the same competitive category who were recommended for promotion by the promotion board that recommended the person for promotion, and an appropriate sampling of the records of those officers who were considered by and not recommended for promotion by that promotion board.
 
 (2) Records and information shall be presented to a special selection review board for purposes of paragraph (1) in a manner that does not indicate or disclose the person or persons for whom the special selection review board was convened.
 
@@ -88,5 +90,13 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 Promotion Board Defined.—In this section, the term "promotion board" means a selection board convened by the Secretary of a military department under section 611(a) of this title.
 
-(Added Pub. L. 116–283, div. A, title V, §505(a)(1), Jan. 1, 2021, 134 Stat. 3565.)
+(Added Pub. L. 116–283, div. A, title V, §505(a)(1), Jan. 1, 2021, 134 Stat. 3565; amended Pub. L. 117–263, div. A, title V, §521, Dec. 23, 2022, 136 Stat. 2570.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–263, §521(1), which directed amendment of par. (1) by inserting subpar. (A) designation before "If the Secretary concerned", was executed by inserting the designation before "If the Secretary of the military department concerned", to reflect the probable intent of Congress.
+
+Subsec. (a)(1)(B). Pub. L. 117–263, §521(2), added subpar. (B).
 

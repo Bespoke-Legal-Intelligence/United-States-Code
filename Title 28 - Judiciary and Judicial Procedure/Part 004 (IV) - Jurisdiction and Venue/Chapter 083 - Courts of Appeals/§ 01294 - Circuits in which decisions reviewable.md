@@ -14,7 +14,7 @@ Except as provided in sections 1292(c), 1292(d), and 1295 of this title, appeals
 
 #### Historical and Revision Notes
 
-Based on section 1141(b)(1)(2)(3) of title 26, U.S.C., 1940 ed., Internal Revenue Code, title 28, U.S.C., 1940 ed., §225(d) and sections 645, 864, 865, 1356, and 1392 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 61 of title 7 of the Canal Zone Code (Apr. 12, 1900, ch. 191, §35, 31 Stat. 85; Mar. 3, 1911, ch. 231, §128, 36 Stat. 1133; Aug. 24, 1912, ch. 390, §9, 37 Stat. 566; Mar. 2, 1917, ch. 145, §§42, 43, 39 Stat. 966; Mar. 3, 1917, ch. 171, §2, 39 Stat. 1132; Sept. 21, 1922, ch. 370, §3, 42 Stat. 1006; Feb. 13, 1925, ch. 229, §§1, 13, 43 Stat. 936, 942; Feb. 26, 1926, ch. 27, §1002, 44 Stat. 110; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; May 17, 1932, ch. 190, 47 Stat. 158; Feb. 16,1933, ch. 91, §3, 47 Stat. 817; May 10, 1934, ch. 277, §519, 48 Stat. 760; Feb. 10, 1939, ch. 2, §1141(b)(1)(2)(3), 53 Stat. 164).
+Based on section 1141(b)(1)(2)(3) of title 26, U.S.C., 1940 ed., Internal Revenue Code, title 28, U.S.C., 1940 ed., §225(d) and sections 645, 864, 865, 1356, and 1392 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, and section 61 of title 7 of the Canal Zone Code (Apr. 12, 1900, ch. 191, §35, 31 Stat. 85; Mar. 3, 1911, ch. 231, §128, 36 Stat. 1133; Aug. 24, 1912, ch. 390, §9, 37 Stat. 566; Mar. 2, 1917, ch. 145, §§42, 43, 39 Stat. 966; Mar. 3, 1917, ch. 171, §2, 39 Stat. 1132; Sept. 21, 1922, ch. 370, §3, 42 Stat. 1006; Feb. 13, 1925, ch. 229, §§1, 13, 43 Stat. 936, 942; Feb. 26, 1926, ch. 27, §1002, 44 Stat. 110; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; May 17, 1932, ch. 190, 47 Stat. 158; Feb. 16, 1933, ch. 91, §3, 47 Stat. 817; May 10, 1934, ch. 277, §519, 48 Stat. 760; Feb. 10, 1939, ch. 2, §1141(b)(1)(2)(3), 53 Stat. 164).
 
 Section consolidates the venue provisions of sections 645, 864, 1356, and 1392 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions with sections 1141(b)(1)(2)(3) to title 26, U.S.C., 1940 ed., Internal Revenue and sections 225(d) and 865 of said title 48. Other provisions of said section 864, not incorporated in this section and sections 41 and 119 of this title, were retained in title 48. Other provisions of said section 1356 are incorporated in section 1291 of this title. Other provisions of said section 1392 were also retained in title 48.
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 86–3 effective on admission of State of Hawaii into the U
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc.No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Termination of United States District Court for the District of the Canal Zone
 

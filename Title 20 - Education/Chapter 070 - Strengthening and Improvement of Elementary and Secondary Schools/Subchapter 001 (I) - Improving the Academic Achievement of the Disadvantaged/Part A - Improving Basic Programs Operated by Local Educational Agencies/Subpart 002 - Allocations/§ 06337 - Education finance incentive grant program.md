@@ -34,7 +34,7 @@ From funds made available under section 6332(a) of this title the Secretary is a
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the effort factor for a State shall be determined in accordance with the succeeding sentence, except that such factor shall not be less than 0.95 nor greater than 1.05. The effort factor determined under this sentence shall be a fraction the numerator of which is the product of the 3-year average per-pupilexpenditure in the State multiplied by the 3-year average per capita income in the United States and the denominator of which is the product of the 3-year average per capita income in such State multiplied by the 3-year average per-pupil expenditure in the United States.
+&emsp;&emsp;Except as provided in subparagraph (B), the effort factor for a State shall be determined in accordance with the succeeding sentence, except that such factor shall not be less than 0.95 nor greater than 1.05. The effort factor determined under this sentence shall be a fraction the numerator of which is the product of the 3-year average per-pupil expenditure in the State multiplied by the 3-year average per capita income in the United States and the denominator of which is the product of the 3-year average per capita income in such State multiplied by the 3-year average per-pupil expenditure in the United States.
 
 #### (B) Commonwealth of Puerto Rico
 
@@ -60,7 +60,7 @@ From funds made available under section 6332(a) of this title the Secretary is a
 
 #### (III) Number of pupils
 
-&emsp;&emsp;&emsp;&emsp;In determining the number of pupils under this paragraph served by each local educational agency and in each State, the Secretary shall multiply the number of children counted under section 6333(c) of this title by a factor of 1.4.
+&emsp;&emsp;&emsp;&emsp;In determining the number of pupils under this paragraph served by each local educational agency and in each State, the Secretary shall multiply thenumber of children counted under section 6333(c) of this title by a factor of 1.4.
 
 #### (IV) Enrollment requirement
 
@@ -134,7 +134,7 @@ Funds received by States under this section shall be allocated within States to 
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of children determined under section 6333(c) of this title for that local educational agency who constitute not more than 15.58 percent, inclusive, of the agency's total population aged 5 to 17, inclusive, multiplied by 1.0;
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of such children who constitute more than 15.58 percent, but not more than 22.11 percent, of such population, multiplied by 1.75;
+&emsp;&emsp;&emsp;&emsp;(II) the number of such children who constitute more than 15.58 percent, butnot more than 22.11 percent, of such population, multiplied by 1.75;
 
 &emsp;&emsp;&emsp;&emsp;(III) the number of such children who constitute more than 22.11 percent, but not more than 30.16 percent, of such population, multiplied by 2.5;
 
@@ -198,7 +198,7 @@ Funds received by States under this section shall be allocated within States to 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each fiscal year for which the Secretary uses local educational agency data,the weighted child count used to determine a local educational agency's grant under this section is the larger of the two amounts determined under clauses (ii) and (iii).
+&emsp;&emsp;&emsp;For each fiscal year for which the Secretary uses local educational agency data, the weighted child count used to determine a local educational agency's grant under this section is the larger of the two amounts determined under clauses (ii) and (iii).
 
 #### (ii) By percentage of children
 
@@ -282,7 +282,7 @@ Funds received by States under this section shall be allocated within States to 
 
 &emsp;&emsp;&emsp;&emsp;(III) the number of such children who constitute more than 22.11 percent, but not more than 30.16 percent, of such population, multiplied by 4.0;
 
-&emsp;&emsp;&emsp;&emsp;(IV) the number of such children who constitute more than 30.16 percent, butnot more than 38.24 percent, of such population, multiplied by 6.0; and
+&emsp;&emsp;&emsp;&emsp;(IV) the number of such children who constitute more than 30.16 percent, but not more than 38.24 percent, of such population, multiplied by 6.0; and
 
 &emsp;&emsp;&emsp;&emsp;(V) the number of such children who constitute more than 38.24 percent of such population, multiplied by 8.0.
 
@@ -362,7 +362,7 @@ A prior section 1125A of Pub. L. 89–10 was classified to section 6336 of this 
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–95, §1017(1), substituted "funds made available under section 6332(a) of this title" for "funds appropriated under subsection (f) of this section".
 
-Subsec. (b)(1)(A). Pub. L. 114–95, §1017(2)(A), substituted "funds made available for any fiscal year tocarry out this section" for "funds appropriated pursuant to subsection (f) of this section" in introductory provisions.
+Subsec. (b)(1)(A). Pub. L. 114–95, §1017(2)(A), substituted "funds made available for any fiscal year to carry out this section" for "funds appropriated pursuant to subsection (f) of this section" in introductory provisions.
 
 Subsec. (b)(1)(B)(i). Pub. L. 114–95, §1017(2)(B), substituted "the total amount reserved under section 6332(a) of this title to carry out this section" for "total appropriations".
 

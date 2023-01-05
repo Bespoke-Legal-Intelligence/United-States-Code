@@ -176,7 +176,7 @@ Report on Frequency of Use of Administrative Subpoenas.—
 
 &emsp;"(1)
 
-In general.—The Attorney General and the Secretary of the Treasury shall report in January of each year to the Committees on the Judiciary of the Senate and the House of Representatives on the number of administrative subpoenas issued by them under this section and the identity of the agency or component of the Department of Justice or the Department of the Treasury issuing the subpoena and imposing the charges.
+In general.—The Attorney General and the Secretary of the Treasury shall report in January of each year to the Committees on the Judiciary of the Senate and the House of Representatives on the number of administrative subpoenas issued by them under this section and the identity of the agency or component of the Department of Justice or the Departmentof the Treasury issuing the subpoena and imposing the charges.
 
 &emsp;"(2)
 

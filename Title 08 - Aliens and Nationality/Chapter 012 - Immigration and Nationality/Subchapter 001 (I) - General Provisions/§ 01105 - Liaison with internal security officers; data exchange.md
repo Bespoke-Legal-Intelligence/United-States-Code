@@ -12,7 +12,7 @@ The Commissioner and the Administrator shall have authority to maintain direct a
 
 (3) The Federal Bureau of Investigation shall provide periodic updates of the extracts at intervals mutually agreed upon with the agency receiving the access. Upon receipt of such updated extracts, the receiving agency shall make corresponding updates to its database and destroy previously provided extracts.
 
-(4) Access to an extract does not entitle the Department of State to obtain the full content of the corresponding automated criminal history record. To obtain the full content of a criminal history record, the Department of State shall submit the applicant's fingerprints and any appropriate fingerprint processing fee authorized by law to the Criminal Justice Information Services Division of the Federal Bureau of Investigation.
+(4) Access to an extract does not entitle the Department of State to obtain the full content of the corresponding automated criminal history record. To obtain the full content of acriminal history record, the Department of State shall submit the applicant's fingerprints and any appropriate fingerprint processing fee authorized by law to the Criminal Justice Information Services Division of the Federal Bureau of Investigation.
 
 #### (c) Reconsideration upon development of more cost effective means of sharing information
 
@@ -20,7 +20,7 @@ The provision of the extracts described in subsection (b) may be reconsidered by
 
 #### (d) Regulations
 
-For purposes of administering this section, the Department of State shall, prior to receiving access to NCIC data but not later than 4 monthsafter October 26, 2001, promulgate final regulations—
+For purposes of administering this section, the Department of State shall, prior to receiving access to NCIC data but not later than 4 months after October 26, 2001, promulgate final regulations—
 
 &emsp;(1) to implement procedures for the taking of fingerprints; and
 

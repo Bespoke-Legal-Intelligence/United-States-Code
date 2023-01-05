@@ -8,7 +8,7 @@ The Secretary, the Secretary of the Department in which the Coast Guard is opera
 
 It shall be the duty of any holder of a lease or permit under this subchapter to—
 
-&emsp;(1) maintain all places of employment within the lease area or within the area covered by such permit in compliance with occupationalsafety and health standards and, in addition, free from recognized hazards to employees of the lease holder or permit holder or of any contractor or subcontractor operating within such lease area or within the area covered by such permit on the outer Continental Shelf;
+&emsp;(1) maintain all places of employment within the lease area or within the area covered by such permit in compliance with occupational safety and health standards and, in addition, free from recognized hazards to employees of the lease holder or permit holder or of any contractor or subcontractor operating within such lease area or within the area covered by such permit on the outer Continental Shelf;
 
 &emsp;(2) maintain all operations within such lease area or within the area covered by such permit in compliance with regulations intended to protect persons, property, and the environment on the outer Continental Shelf; and
 
@@ -20,7 +20,7 @@ The Secretary and the Secretary of the Department in which the Coast Guard is op
 
 &emsp;(1) scheduled onsite inspection, at least once a year, of each facility on the outer Continental Shelf which is subject to any environmental or safety regulation promulgated pursuant to this subchapter, which inspection shall include all safety equipment designed to prevent or ameliorate blowouts, fires, spillages, or other major accidents; and
 
-&emsp;(2) periodic onsite inspection without advance notice to the operator of such facility to assure compliance with such environmental or safety regulations.
+&emsp;(2) periodic onsite inspection without advance notice to the operator of such facility toassure compliance with such environmental or safety regulations.
 
 #### (d) Investigation and report on major fires, oil spills, death, or serious injury
 

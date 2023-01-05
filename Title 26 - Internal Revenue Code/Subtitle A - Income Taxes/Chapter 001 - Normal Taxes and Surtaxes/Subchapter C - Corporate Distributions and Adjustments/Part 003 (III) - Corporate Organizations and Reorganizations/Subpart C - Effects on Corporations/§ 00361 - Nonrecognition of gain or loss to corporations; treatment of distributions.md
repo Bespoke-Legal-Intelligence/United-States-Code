@@ -16,7 +16,7 @@ No gain or loss shall be recognized to a corporation if such corporation is a pa
 
 #### (B) Property not distributed
 
-&emsp;&emsp;If the corporation receiving such other property or money does not distribute it in pursuance of the plan of reorganization, the gain, if any, to the corporation shall be recognized.
+&emsp;&emsp;If the corporation receiving such other property or money does not distribute it in pursuance of the plan of reorganization, thegain, if any, to the corporation shall be recognized.
 
 > &emsp;The amount of gain recognized under subparagraph (B) shall not exceed the sum of the money and the fair market value of the other property so received which is not so distributed.
 
@@ -90,7 +90,7 @@ No gain or loss shall be recognized to a corporation if such corporation is a pa
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates,see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 

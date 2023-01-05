@@ -2,7 +2,7 @@
 
 #### (a) Choice of health care professional
 
-If a group health plan, or a health insurance issuer offering group or individual health insurance coverage, requires or provides for designation by a participant, beneficiary, or enrollee ofa participating primary care provider, then the plan or issuer shall permit each participant, beneficiary, and enrollee to designate any participating primary care provider who is available to accept such individual.
+If a group health plan, or a health insurance issuer offering group or individual health insurance coverage, requires or provides for designation by a participant, beneficiary, or enrollee of a participating primary care provider, then the plan or issuer shall permit each participant, beneficiary, and enrollee to designate any participating primary care provider who is available to accept such individual.
 
 #### (b) Coverage of emergency services
 
@@ -64,7 +64,7 @@ If a group health plan, or a health insurance issuer offering group or individua
 
 #### (B) Obstetrical and gynecological care
 
-&emsp;&emsp;A group health plan or health insurance issuer described in paragraph (2) shall treatthe provision of obstetrical and gynecological care, and the ordering of related obstetrical and gynecological items and services, pursuant to the direct access described under subparagraph (A), by a participating health care professional who specializes in obstetrics or gynecology as the authorization of the primary care provider.
+&emsp;&emsp;A group health plan or health insurance issuer described in paragraph (2) shall treat the provision of obstetrical and gynecological care, and the ordering of related obstetrical and gynecological items and services, pursuant to the direct access described under subparagraph (A), by a participating health care professional who specializes in obstetrics or gynecology as the authorization of the primary care provider.
 
 #### (2) Application of paragraph
 
@@ -87,10 +87,6 @@ If a group health plan, or a health insurance issuer offering group or individua
 The provisions of this section shall not apply with respect to a group health plan, health insurance issuers, or group or individual health insurance coverage with respect to plan years beginning on or on <sup>5</sup> January 1, 2022.
 
 (July 1, 1944, ch. 373, title XXVII, §2719A, as added Pub. L. 111–148, title X, §10101(h), Mar. 23, 2010, 124 Stat. 888; amended Pub. L. 116–260, div. BB, title I, §102(a)(3)(A), Dec. 27, 2020, 134 Stat. 2771.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 102(a)(3)(A) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 

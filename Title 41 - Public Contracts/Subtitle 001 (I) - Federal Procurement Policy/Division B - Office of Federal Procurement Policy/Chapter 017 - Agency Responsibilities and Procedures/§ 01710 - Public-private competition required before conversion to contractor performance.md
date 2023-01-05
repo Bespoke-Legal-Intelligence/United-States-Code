@@ -16,7 +16,7 @@ When conversion to contractor performance is allowed.—A function of an executi
 
 &emsp;&emsp;(D) determines whether the submitted offers meet the needs of the executive agency with respect to factors other than cost, including quality, reliability, and timeliness;
 
-&emsp;&emsp;(E) examines the cost of performance of the function by agency civilian employees and the cost of performance of the function by one or more contractors to demonstrate whether converting to performance by a contractor will result in savings to the FederalGovernment over the life of the contract, including—
+&emsp;&emsp;(E) examines the cost of performance of the function by agency civilian employees and the cost of performance of the function by one or more contractors to demonstrate whether converting to performance by a contractor will result in savings to the Federal Government over the life of the contract, including—
 
 &emsp;&emsp;&emsp;(i) the estimated cost to the Federal Government (based on offers received) for performance of the function by a contractor;
 
@@ -50,7 +50,7 @@ Consulting With Affected Employees or Their Representatives.—
 
 &emsp;(1)
 
-Consulting with affected employees.—Each civilian employee of an executive agency responsible for determining under Office of Management and Budget Circular A76 whether to convert to contractor performance any function of the executive agency—
+Consulting with affected employees.—Each civilian employee of an executive agencyresponsible for determining under Office of Management and Budget Circular A76 whether to convert to contractor performance any function of the executive agency—
 
 &emsp;&emsp;(A) shall, at least monthly during the development and preparation of the performance work statement and the management efficiency study used in making that determination, consult with civilian employees who will be affected by that determination and consider the views of the employees on the development and preparation of that statement and that study; and
 

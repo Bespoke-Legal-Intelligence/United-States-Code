@@ -54,7 +54,7 @@ The list established under subsection (a) shall contain an itemization, by speci
 
 #### (3) Prohibited substances
 
-&emsp;In no instance shall the National List include any substance, the presence of which in food has been prohibited by Federal regulatory action.
+&emsp;In no instance shall the National List include any substance, the presence of which infood has been prohibited by Federal regulatory action.
 
 #### (4) Notice and comment
 

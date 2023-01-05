@@ -24,7 +24,7 @@ The national flood insurance program established pursuant to subsection (a) shal
 
 &emsp;&emsp;(D) any programs authorized or for which funds are appropriated to address any unmet needs or for which supplemental funds are made available.
 
-> The Administrator shall impose a surcharge on each insured of not more than $75 per policy to provide cost of compliance coverage in accordance with the provisions of this subsection.
+> The Administrator shall impose a surcharge on each insured of not more than $75 per policy toprovide cost of compliance coverage in accordance with the provisions of this subsection.
 
 #### (c) Participation and risk sharing by insurers
 
@@ -130,7 +130,7 @@ Effective dates.—Notwithstanding section 1306(c) of the National Flood Insuran
 
 &emsp;&emsp;"(A) be deemed to take effect on the date that is 30 days after the date on which all obligations for the eligible coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed; and
 
-&emsp;&emsp;"(B) cover damage to property occurring after the effective date described in subparagraph (A) that resulted from the flooding of the Missouri Riverthat commenced on June 1, 2011, if the property did not suffer damage or loss as a result of such flooding before the effective date described in subparagraph (A).
+&emsp;&emsp;"(B) cover damage to property occurring after the effective date described in subparagraph (A) that resulted from the flooding of the Missouri River that commenced on June 1, 2011, if the property did not suffer damage or loss as a result of such flooding before the effective date described in subparagraph (A).
 
 "(c)
 
@@ -352,7 +352,7 @@ Duties.—The Task Force shall carry out the following duties:
 
 &emsp;"(1)
 
-Recommendations of standardized enforcement procedures.—Make recommendations to the head of each Federal agency and enterprise referred to under subsection (b)(1) regarding establishment or adoption of standardized enforcement procedures among such agencies and corporations responsible for enforcing compliance with the requirements under the national flood insurance program to ensure fullest possible compliance with such requirements.
+Recommendations of standardized enforcement procedures.—Make recommendations to the head of each Federal agency and enterprise referred to under subsection (b)(1) regarding establishment or adoption of standardized enforcement procedures among such agencies and corporations responsible for enforcing compliance with the requirements underthe national flood insurance program to ensure fullest possible compliance with such requirements.
 
 &emsp;"(2)
 

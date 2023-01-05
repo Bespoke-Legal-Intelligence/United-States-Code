@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(ii) the warranty claim;
 
-&emsp;&emsp;(B) a statement that the claimant bank has suffered a loss or is obligated to recreditthe consumer's account under section 5006 of this title, together with an estimate of the amount of the loss or recredit;
+&emsp;&emsp;(B) a statement that the claimant bank has suffered a loss or is obligated to recredit the consumer's account under section 5006 of this title, together with an estimate of the amount of the loss or recredit;
 
 &emsp;&emsp;(C) the reason why production of the original check, another substitute check, or a better copy of the original check is necessary to determine the validity of the charge to the consumer account or the warranty claim; and
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(B) recredit the claimant bank for the amount of the claim up to the amount of the substitute check, plus interest if applicable; or
 
-&emsp;&emsp;(C) provide information to the claimant bank as to why the indemnifying bank is not obligated to comply with subparagraph (A) or (B).
+&emsp;&emsp;(C) provide information to the claimant bank as to why the indemnifying bank is notobligated to comply with subparagraph (A) or (B).
 
 #### (2) Recredit does not abrogate other liabilities
 

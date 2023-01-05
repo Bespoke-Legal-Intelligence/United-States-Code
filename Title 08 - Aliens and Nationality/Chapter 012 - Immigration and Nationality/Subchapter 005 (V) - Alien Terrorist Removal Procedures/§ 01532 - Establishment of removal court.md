@@ -2,7 +2,7 @@
 
 #### (a) Designation of judges
 
-The Chief Justice of the United States shall publicly designate 5 district court judges from 5 of the United States judicial circuits who shall constitute a court that shall have jurisdiction to conduct all removal proceedings. The Chief Justice may, in the Chief Justice's discretion, designate the same judges under this section as are designated pursuant to section 103(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803(a)).
+The Chief Justice of the United States shall publicly designate 5 district court judges from 5 of the United States judicial circuits who shallconstitute a court that shall have jurisdiction to conduct all removal proceedings. The Chief Justice may, in the Chief Justice's discretion, designate the same judges under this section as are designated pursuant to section 103(a) of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1803(a)).
 
 #### (b) Terms
 
@@ -48,7 +48,7 @@ The removal court shall provide for the designation of a panel of attorneys each
 
 #### References in Text
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (d), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (d), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 #### Amendments
 

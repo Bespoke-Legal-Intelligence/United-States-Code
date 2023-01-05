@@ -1,16 +1,12 @@
 ### §141. Inspector General
 
-(a) There is an Inspector General of the Department of Defense, who is appointed as provided in section 3 of the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App. 3).
+(a) There is an Inspector General of the Department of Defense, who is appointed as provided in section 403 of title 5.
 
-(b) The Inspector General performs the duties, has the responsibilities, and exercises the powers specified in the Inspector General Act of 1978.
+(b) The Inspector General performs the duties, has the responsibilities, and exercises the powers specified in chapter 4 of title 5.
 
-(Added Pub. L. 99–433, title I, §108, Oct. 1, 1986, 100 Stat. 998, §140; renumbered §141, Pub. L. 103–160, div. A, title IX, §901(a)(1), Nov. 30, 1993, 107 Stat. 1726.)
+(Added Pub. L. 99–433, title I, §108, Oct. 1, 1986, 100 Stat. 998, §140; renumbered §141, Pub. L. 103–160, div. A, title IX, §901(a)(1), Nov. 30, 1993, 107 Stat. 1726; amended Pub. L. 117–286, §4(b)(26), Dec. 27, 2022, 136 Stat. 4346.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
@@ -19,6 +15,10 @@ A prior section 141 was renumbered section 138d of this title.
 Another prior section 141 of this title was contained in chapter 5 of this title, prior to amendment by Pub. L. 99–433. See note preceding section 151 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–286, §4(b)(26)(A), substituted "section 403 of title 5." for "section 3 of the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App. 3)."
+
+Subsec. (b). Pub. L. 117–286, §4(b)(26)(B), substituted "chapter 4 of title 5." for "the Inspector General Act of 1978."
 
 <b>1993</b>—Pub. L. 103–160 renumbered section 140 of this title as this section.
 
@@ -42,7 +42,7 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 
 &emsp;"(2)
 
-Duties.—Subject to the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App.), the Deputy Inspector General shall have the following duties:
+Duties.—Subject to the Inspector General Act of 1978 (Public Law 95–452; \[former\] 5 U.S.C. App.) \[see 5 U.S.C. 401 et seq.\], the Deputy Inspector General shall have the following duties:
 
 &emsp;&emsp;"(A) Developing and carrying out a plan for the conduct of comprehensive oversight, including through the conduct and supervision of audits, investigations, and inspections, of policies, programs, systems, and processes of the Department—
 
@@ -82,7 +82,7 @@ One-time report.—Not later than 180 days after the date of the enactment of th
 
 &emsp;&emsp;"(B)
 
-Semiannual reports.—Not later than 30 days after the end of the second and fourth quarters of each fiscal year beginning in fiscal year 2022, the Inspector General shall submit to the Secretary a report including a summary of the activities of the Assistant Inspector General during the two fiscal quarters preceding the date of the report, for inclusion in the next semiannual report of the Inspector General under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.)..\[sic\]
+Semiannual reports.—Not later than 30 days after the end of the second and fourth quarters of each fiscal year beginning in fiscal year 2022, the Inspector General shall submit to the Secretary a report including a summary of the activities of the Assistant Inspector General during the two fiscal quarters preceding the date of the report, for inclusion in the next semiannual report of the Inspector General under section 5 of the Inspector General Act of 1978 (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 405\]..\[sic\]
 
 &emsp;&emsp;"(C)
 
@@ -98,7 +98,7 @@ Occasional reports.—The Inspector General shall, from time to time, submit to 
 
 &emsp;&emsp;"(E)
 
-Online publication.—The Inspector General shall publish each report under this paragraph on a publicly accessible website consistent with the requirements of the Inspector General Act of 1978 (5 U.S.C. App.)..\[sic\]
+Online publication.—The Inspector General shall publish each report under this paragraph on a publicly accessible website consistent with the requirements of the Inspector General Act of 1978 (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 401 et seq.\]..\[sic\]
 
 "(b)
 
@@ -172,5 +172,9 @@ Definitions.—In this subsection:
 
 assistant" for "
 
-deputy" in section heading, was executed by substituting "Assistant" for "Deputy" in subsec. heading, to reflect the probable intent of Congress.\]
+deputy" in section heading, was executed by substituting "
+
+Assistant" for "
+
+Deputy" in subsec. heading, to reflect the probable intent of Congress.\]
 

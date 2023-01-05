@@ -6,7 +6,7 @@ There is hereby established the Hydrogen Technical Advisory Panel (the "technica
 
 #### (b) Membership
 
-The technical panel shall be appointed by the Secretary and shall be comprised of such representatives from domestic industry, universities, professional societies, Government laboratories, financial, environmental, and otherorganizations as the Secretary deems appropriate based on his assessment of the technical and other qualifications of such representatives. Appointments to the technical panel shall be made within 90 days after November 15, 1990. The technical panel shall have a chairman, who shall be elected by the members from among their number.
+The technical panel shall be appointed by the Secretary and shall be comprised of such representatives from domestic industry, universities, professional societies, Government laboratories, financial, environmental, and other organizations as the Secretary deems appropriate based on his assessment of the technical and other qualifications of such representatives. Appointments to the technical panel shall be made within 90 days after November 15, 1990. The technical panel shall have a chairman, who shall be elected by the members from among their number.
 
 #### (c) Cooperation
 
@@ -36,5 +36,5 @@ The Secretary shall provide such staff, funds and other support as may be necess
 
 #### Termination of Advisory Panels
 
-Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

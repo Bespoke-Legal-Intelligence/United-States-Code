@@ -24,7 +24,7 @@ Advisory and training assistance conducted by military personnel assigned under 
 
 #### (c) Number of personnel assigned; waiver; procedures applicable
 
-(1) The number of members of the Armed Forces assigned to a foreign country under this section may not exceed six unless specificallyauthorized by the Congress. The president may waive this limitation if he determines and reports to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, 30 days prior to the introduction of the additional military personnel, that United States national interests require that more than six members of the Armed Forces be assigned under this section to carry out international security assistance programs in a country not specified in this paragraph. Pakistan, Tunisia, El Salvador, Honduras, Colombia, Indonesia, the Republic of Korea, the Philippines, Thailand, Egypt, Jordan, Morocco, Saudi Arabia, Greece, Portugal, Spain, and Turkey are authorized to have military personnel strengths larger than six under this section to carry out international security assistance programs.
+(1) The number of members of the Armed Forces assigned to a foreign country under this section may not exceed six unless specifically authorized by the Congress. The president may waive this limitation if he determines and reports to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, 30 days prior to the introduction of the additional military personnel, that United States national interests require that more than six members of the Armed Forces be assigned under this section to carry out international security assistance programs in a country not specified in this paragraph. Pakistan, Tunisia, El Salvador, Honduras, Colombia, Indonesia, the Republic of Korea, the Philippines, Thailand, Egypt, Jordan, Morocco, Saudi Arabia, Greece, Portugal, Spain, and Turkey are authorized to have military personnel strengths larger than six under this section to carry out international security assistance programs.
 
 (2) The total number of members of the Armed Forces assigned under this section to a foreign country in a fiscal year may not exceed the number justified to the Congress for that country in the congressional presentation materials for that fiscal year, unless the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives are notified 30 days in advance of the introduction of the additional military personnel.
 
@@ -46,7 +46,7 @@ The President shall continue to instruct United States diplomatic and military p
 
 #### References in Text
 
-The Arms Export Control Act, referred to in subsecs. (a) and (d), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsecs. (a) and (d), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### <b>Executive Documents</b>
 

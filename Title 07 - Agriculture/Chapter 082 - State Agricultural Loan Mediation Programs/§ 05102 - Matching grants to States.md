@@ -8,7 +8,7 @@ Within 60 days after the Secretary certifies the State as a qualifying State und
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary shall pay to a State under subsection (a) not more than 70 percent of the cost of the operationand administration of the mediation program within the State.
+&emsp;Subject to paragraph (2), the Secretary shall pay to a State under subsection (a) not more than 70 percent of the cost of the operation and administration of the mediation program within the State.
 
 #### (2) Maximum amount
 

@@ -14,7 +14,7 @@ For purposes of this part:
 
 &emsp;&emsp;(B) utilities, fuels, furnishings, and equipment for such housing.
 
-&emsp;(5) The term "private nonprofit organization" means a secular or religious organization described in section 501(c) of title 26 thatis exempt from taxation under subtitle A of title 26, has an accounting system and a voluntary board, and practices nondiscrimination in the provision of assistance.
+&emsp;(5) The term "private nonprofit organization" means a secular or religious organization described in section 501(c) of title 26 that is exempt from taxation under subtitle A of title 26, has an accounting system and a voluntary board, and practices nondiscrimination in the provision of assistance.
 
 &emsp;(6) The term "recipient" means any governmental or private nonprofit entity that is approved by the Secretary as to financial responsibility.
 

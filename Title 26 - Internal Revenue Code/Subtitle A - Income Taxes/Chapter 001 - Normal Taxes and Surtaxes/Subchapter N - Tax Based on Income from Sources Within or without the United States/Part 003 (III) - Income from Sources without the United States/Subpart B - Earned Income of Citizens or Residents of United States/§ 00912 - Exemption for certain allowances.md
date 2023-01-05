@@ -36,13 +36,13 @@ The following items shall not be included in gross income, and shall be exempt f
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in par. (1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in par. (1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 Title II of the Overseas Differentials and Allowances Act, referred to in pars. (1)(C) and (2), was title II of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 793, which was repealed and reenacted as sections 5922 to 5925 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 Sections 1(e) and (f) and 22 of the Administrative Expenses Act of 1946, referred to in par. (1)(D), were repealed and the provisions thereof reenacted as sections 5726(b), 5727(b) to (e), and 5913 of Title 5, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-The Peace Corps Act, referred to in par. (3), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5 and 6 of that act are classified to sections 2504 and 2505 of Title 22. For complete classification of this act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in par. (3), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5 and 6 of that act are classified to sections 2504 and 2505 of Title 22. For complete classification of this act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 #### Amendments
 
@@ -82,7 +82,7 @@ Section 201(a) of Pub. L. 87–293, cited as a credit to this section, was repea
 
 #### Treatment of Employees of Panama Canal Commission and Department of Defense
 
-Pub. L. 99–514, title XII, §1232(b), Oct. 22, 1986, 100 Stat. 2564, provided that: "Employees of the Panama Canal Commission and civilian employees of the Defense Department of the United States stationed in Panama may exclude from gross income allowances which are comparable to the allowances excludable under section 912(1) of the Internal Revenue Code of 1986 by employees of the State Department of the United States stationed in Panama. The preceding sentence shall apply to taxable years beginning after December 31, 1986."
+Pub. L. 99–514, title XII, §1232(b), Oct. 22, 1986, 100 Stat. 2564, provided that: "Employees of the Panama Canal Commission and civilian employees of the Defense Department of the United States stationed in Panama may exclude from gross income allowances which are comparable to the allowances excludable under section 912(1) of the Internal Revenue Code of1986 by employees of the State Department of the United States stationed in Panama. The preceding sentence shall apply to taxable years beginning after December 31, 1986."
 
 #### <b>Executive Documents</b>
 

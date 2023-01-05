@@ -42,13 +42,13 @@ Pub. L. 102–54, §13(h)(2), June 13, 1991, 105 Stat. 275, provided that: "Any 
 
 #### Construction of Section With Civil Service Retirement Spouse Equity Act of 1984
 
-This section not applicable with respect to either the amendments made by section 2 of Pub. L. 98–615 or theprovisions of section 4 of Pub. L. 98–615 relating to equitable treatment under the Civil Service Retirement System for former spouses, except that, notwithstanding section 4(h) of Pub. L. 98–615, this section applicable with respect to sections 8339(j) and 8341(e) and (h) of Title 5, Government Organization and Employees, and section 4 (except subsec. (b)) of Pub. L. 98–615 to the extent that those sections apply to a qualified former wife or husband, see section 4069–1 of this title and section 4(h) of Pub. L. 98–615, set out as an Effective Date of 1984 Amendment note under section 8341 of Title 5.
+This section not applicable with respect to either the amendments made by section 2 of Pub. L. 98–615 or the provisions of section 4 of Pub. L. 98–615 relating to equitable treatment under the Civil Service Retirement System for former spouses, except that, notwithstanding section 4(h) of Pub. L. 98–615, this section applicable with respect to sections 8339(j) and 8341(e) and (h) of Title 5, Government Organization and Employees, and section 4 (except subsec. (b)) of Pub. L. 98–615 to the extent that those sections apply to a qualified former wife or husband, see section 4069–1 of this title and section 4(h) of Pub. L. 98–615, set out as an Effective Date of 1984 Amendment note under section 8341 of Title 5.
+
+#### <b>Executive Documents</b>
 
 #### Recommendations by Secretary of State to President
 
 For authority for the Secretary of State to make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under this section to maintain existing conformity between the Civil Service Retirement and Disability System and the Foreign Service Retirement and Disability System, see section 3 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
-
-#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12289. Conforming the Foreign Service and Civil Service Retirement and Disability Systems
 
@@ -166,7 +166,7 @@ Sec. 5. <i>Recomputation at Age 62 of Credit for Military Service of Current Ann
 
 (b) Subject to subsection (c), in any case in which an individual described in subsection (a) is also entitled to old-age or survivors insurance benefits under section 202 of the Social Security Act \[42 U.S.C. 402\] (or would be entitled to such benefits upon filing application therefor), the amount of the annuity to which such individual is entitled under chapter 8 of the Act \[this subchapter\] (after taking into account subsection (a)) which is payable for any month shall be reduced by an amount determined by multiplying the amount of such old-age or survivors insurance benefit for the determination month by a fraction—
 
-(1) the numerator of which is the total of the wages (within the meaning of section 209 of the Social Security Act \[42 U.S.C. 409\]) for service referred to in section 210(1) of such Act \[42 U.S.C. 410\] (relating to service in the uniformed services) and deemed additional wages (within the meaning of section 229 of such Act \[42 U.S.C. 429\]) of such individual credited for years after 1956 and before the calendar year in which the determination month occurs, up to the contribution and benefit base determined under section 230 of the SocialSecurity Act \[42 U.S.C. 415(e)(1)\]) (or other applicable maximum annual amount referred to in section 215(e)(1) of such Act \[42 U.S.C. 409\]) for each such year, and
+(1) the numerator of which is the total of the wages (within the meaning of section 209 of the Social Security Act \[42 U.S.C. 409\]) for service referred to in section 210(1) of such Act \[42 U.S.C. 410\] (relating to service in the uniformed services) and deemed additional wages (within the meaning of section 229 of such Act \[42 U.S.C. 429\]) of such individual credited for years after 1956 and before the calendar year in which the determination month occurs, up to the contribution and benefit base determined under section 230 of the Social Security Act \[42 U.S.C. 415(e)(1)\]) (or other applicable maximum annual amount referred to in section 215(e)(1) of such Act \[42 U.S.C. 409\]) for each such year, and
 
 (2) the denominator of which is the total of all wages deemed additional wages described in paragraph (1) of this subsection plus all other wages (within the meaning of section 209 of the Social Security Act \[42 U.S.C. 409\]) and all self-employment income (within the meaning of section 211(b) of such Act \[42 U.S.C. 411(b)\]) of such individual credited for years after 1936 and before the calendar year in which the determination month occurs, up to the contribution and benefit base (or such other amount referred to in such section 215(e)(1) of such Act \[42 U.S.C. 415(e)(1)\]) for each such year.
 
@@ -220,7 +220,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Foreign Service Retirement and Disability System</i>. (a) The following provisions of the Federal Physicians Comparability Allowance Amendments of 2000 (Public Law 106–571) \[see Tables for classification\] shall apply to the Foreign Service Retirement and Disability System, subchapter I of chapter 8 of the Foreign Service Act of 1980 \[22 U.S.C. 4041 et seq.\], as amended:
 
-(i) Section 3(a) of Public Law 106–571 \[amending section 8331 of Title 5, Government Organization and Employees\] to provide that any amount received under section 5948 of title 5, United States Code (physicians comparability allowance), be included in the definition of basic pay; and
+(i) Section 3(a) of Public Law 106–571 \[amending section 8331 of Title 5, Government Organization and Employees\] to provide that any amount received undersection 5948 of title 5, United States Code (physicians comparability allowance), be included in the definition of basic pay; and
 
 (ii) Section 3(b) of Public Law 106–571 \[amending sections 8331 and 8339 of Title 5\] to provide for the inclusion of the physicians comparability allowance in the computation of an annuity under the same rules that apply with respect to the Civil Service Retirement System.
 

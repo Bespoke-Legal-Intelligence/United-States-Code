@@ -56,13 +56,13 @@ In this section, the term "representative of the President" means the following:
 
 &emsp;(4) Any official of the Office of Management and Budget.
 
-(Pub. L. 107–314, div. D, title XLII, §4218, formerly Pub. L. 105–85, div. A, title XIII, §1305, Nov. 18, 1997, 111 Stat. 1952, renumbered Pub. L. 107–314, div. D, title XLII, §4218, and amended Pub. L. 112–239, div. C, title XXXI, §3164(a), (b), Jan. 2, 2013, 126 Stat. 2206; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(D), (c)(10), Dec. 26, 2013, 127 Stat. 1072, 1075; Pub. L. 113–291, div. C, title XXXI, §3142(e), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 116–92, div. C, title XXXI, §3139(b)(5), Dec. 20, 2019, 133 Stat. 1963.)
+(Pub. L. 107–314, div. D, title XLII, §4218, formerly Pub. L. 105–85, div. A, title XIII, §1305,Nov. 18, 1997, 111 Stat. 1952, renumbered Pub. L. 107–314, div. D, title XLII, §4218, and amended Pub. L. 112–239, div. C, title XXXI, §3164(a), (b), Jan. 2, 2013, 126 Stat. 2206; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(D), (c)(10), Dec. 26, 2013, 127 Stat. 1072, 1075; Pub. L. 113–291, div. C, title XXXI, §3142(e), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 116–92, div. C, title XXXI, §3139(b)(5), Dec. 20, 2019, 133 Stat. 1963.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 2533 of this title, referred to in subsec. (d), was in the original "section 4213", meaning section 4213of Pub. L. 107–314, which is classified principally to section 2533 of this title.
+Section 2533 of this title, referred to in subsec. (d), was in the original "section 4213", meaning section 4213 of Pub. L. 107–314, which is classified principally to section 2533 of this title.
 
 #### Codification
 

@@ -98,7 +98,7 @@ Applicability.—This subsection applies with respect to candidates for scientif
 
 &emsp;(3)
 
-Limitation.—(A) Authority under this subsection may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within such laboratory that are filledas of the close of the fiscal year last ending before the start of such calendar year.
+Limitation.—(A) Authority under this subsection may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 &emsp;(B) For purposes of this paragraph, positions and candidates shall be counted on a full-time equivalent basis.
 

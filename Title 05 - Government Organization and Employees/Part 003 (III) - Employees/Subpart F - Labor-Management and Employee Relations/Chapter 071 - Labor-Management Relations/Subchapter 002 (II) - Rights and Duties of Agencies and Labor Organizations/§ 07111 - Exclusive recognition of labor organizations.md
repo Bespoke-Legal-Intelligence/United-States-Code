@@ -22,7 +22,7 @@
 
 &emsp;(3) has submitted other evidence that it is the exclusive representative of the employees involved;
 
-> may intervene with respect to a petition filed pursuant to subsection (b) of this section and shall be placed on the ballot of any election under such subsection (b) with respect to the petition.
+> may intervene with respect to a petition filed pursuant to subsection (b) of this section andshall be placed on the ballot of any election under such subsection (b) with respect to the petition.
 
 (d) The Authority shall determine who is eligible to vote in any election under this section and shall establish rules governing any such election, which shall include rules allowing employees eligible to vote the opportunity to choose—
 

@@ -60,7 +60,7 @@ Each briefing required by subsection (a) and report required by subsection (b) s
 
 #### (C) Elements
 
-&emsp;&emsp;A comprehensive review conducted under subparagraph (A) of a report required by subsection (b) shall include an assessment, based on the most current information available, of the following:
+&emsp;&emsp;A comprehensive review conducted under subparagraph (A) of a report required by subsection (b) shall include an assessment,based on the most current information available, of the following:
 
 &emsp;&emsp;&emsp;(i) The actual cost savings achieved compared to cost savings estimated under subsection (c)(1), and any increased costs incurred under the contract that were unexpected or uncertain at the time the contract was awarded.
 

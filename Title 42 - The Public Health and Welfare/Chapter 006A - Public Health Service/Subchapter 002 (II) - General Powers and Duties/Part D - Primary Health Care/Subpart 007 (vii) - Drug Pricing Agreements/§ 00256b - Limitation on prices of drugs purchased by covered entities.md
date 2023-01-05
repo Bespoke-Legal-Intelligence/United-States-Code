@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(L) A subsection (d) hospital (as defined in section 1886(d)(1)(B) of the Social Security Act \[42 U.S.C. 1395ww(d)(1)(B)\]) that—
 
-&emsp;&emsp;&emsp;(i) is owned or operated by a unit of State or local government, is a public or private non-profit corporation which is formally granted governmental powers by a unit of State or local government, or is a private non-profit hospital which has a contract with a State or local government to provide health care services to low income individuals who are not entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or eligible for assistance under the State plan under this subchapter;
+&emsp;&emsp;&emsp;(i) is owned or operated by a unit of State or local government, is a public orprivate non-profit corporation which is formally granted governmental powers by a unit of State or local government, or is a private non-profit hospital which has a contract with a State or local government to provide health care services to low income individuals who are not entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or eligible for assistance under the State plan under this subchapter;
 
 &emsp;&emsp;&emsp;(ii) for the most recent cost reporting period that ended before the calendar quarter involved, had a disproportionate share adjustment percentage (as determined under section 1886(d)(5)(F) of the Social Security Act \[42 U.S.C. 1395ww(d)(5)(F)\]) greater than 11.75 percent or was described in section 1886(d)(5)(F)(i)(II) of such Act \[42 U.S.C. 1395ww(d)(5)(F)(i)(II)\]; and
 
@@ -96,7 +96,7 @@
 
 #### (6) Treatment of distinct units of hospitals
 
-&emsp;In the case of a covered entity that is a distinct part of a hospital, the hospital shall notbe considered a covered entity under this paragraph unless the hospital is otherwise a covered entity under this subsection.
+&emsp;In the case of a covered entity that is a distinct part of a hospital, the hospital shall not be considered a covered entity under this paragraph unless the hospital is otherwise a covered entity under this subsection.
 
 #### (7) Certification of certain covered entities
 
@@ -110,7 +110,7 @@
 
 #### (C) Criteria
 
-&emsp;&emsp;The Secretary shall make available to all manufacturers of covered outpatient drugs a description of the criteria for certification under this paragraph.
+&emsp;&emsp;The Secretary shall make available to all manufacturers of covered outpatient drugs adescription of the criteria for certification under this paragraph.
 
 #### (D) List of purchasers and dispensers
 
@@ -230,7 +230,7 @@
 
 &emsp;&emsp;Regulations promulgated by the Secretary under subparagraph (A) shall—
 
-&emsp;&emsp;&emsp;(i) designate or establish a decision-making official or decision-making body within the Department of Health and Human Services to be responsible for reviewing and finally resolving claims by covered entities that they have been charged prices for covered outpatient drugs in excess of the ceiling price described in subsection (a)(1), and claims by manufacturers that violations of subsection (a)(5)(A) or (a)(5)(B) have occurred;
+&emsp;&emsp;&emsp;(i) designate or establish a decision-making official or decision-making body within the Department of Health and Human Services to be responsible for reviewing and finally resolving claims by covered entities that they have been charged pricesfor covered outpatient drugs in excess of the ceiling price described in subsection (a)(1), and claims by manufacturers that violations of subsection (a)(5)(A) or (a)(5)(B) have occurred;
 
 &emsp;&emsp;&emsp;(ii) establish such deadlines and procedures as may be necessary to ensure that claims shall be resolved fairly, efficiently, and expeditiously;
 
@@ -268,11 +268,11 @@ Subpart II of part C of subchapter XXIV, referred to in subsec. (a)(4)(D), was r
 
 The Native Hawaiian Health Care Act of 1988, referred to in subsec. (a)(4)(H), was Pub. L. 100–579, Oct. 31, 1988, 102 Stat. 2916, and subtitle D of title II of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4222, which were classified generally to chapter 122 (§11701 et seq.) of this title prior to being amended generally and renamed the Native Hawaiian Health Care Improvement Act by Pub. L. 102–396. For complete classification of this Act to the Code, see Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (a)(4)(I), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (a)(4)(I), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 Section 247b(j)(2) of this title, referred to in subsec. (a)(4)(K), was repealed and section 247b(j)(1)(B) was redesignated section 247b(j)(2) by Pub. L. 103–183, title III, §301(b)(1)(A), (C), Dec. 14, 1993, 107 Stat. 2235.
 
-The Prescription Drug Marketing Act, referred to in subsec. (d)(2)(B)(v)(III), probably means the Prescription Drug Marketing Act of 1987, Pub. L. 100–293, Apr.22, 1988, 102 Stat. 95, which amended sections 331, 333, 353, and 381 of Title 21, Food and Drugs, and enacted provisions set out as notes under sections 301 and 353 of Title 21. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 301 of Title 21 and Tables.
+The Prescription Drug Marketing Act, referred to in subsec. (d)(2)(B)(v)(III), probably means the Prescription Drug Marketing Act of 1987, Pub. L. 100–293, Apr. 22, 1988, 102 Stat. 95, which amended sections 331, 333, 353, and 381 of Title 21, Food and Drugs, and enacted provisions set out as notes under sections 301 and 353 of Title 21. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 301 of Title 21 and Tables.
 
 #### Codification
 
@@ -282,7 +282,7 @@ Another section 340B of act July 1, 1944, was renumbered section 340C and is cla
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–152, §2302(1)(A), substituted "covered outpatient drug" for "covered drug" and "covered outpatient drugs" for "covered drugs" wherever appearing.
 
-Pub. L. 111–148, §7102(b)(1), inserted at end "Each such agreement shall require that the manufacturer furnish the Secretary with reports, on a quarterly basis, of the price for each covered drug subject to the agreement that, according to the manufacturer, represents the maximum price that covered entities may permissibly be required to pay for the drug (referred to in this section as the 'ceiling price'), and shall require that the manufacturer offer each covered entity covered drugs for purchase at or below the applicable ceiling price if such drug is made available to any other purchaser at any price."
+Pub. L. 111–148, §7102(b)(1), inserted at end "Each such agreement shall require that the manufacturer furnish the Secretary with reports, on a quarterly basis, of the price for each covered drug subject to the agreement that, according to the manufacturer, represents the maximum price that covered entities may permissibly be required to pay for the drug (referred to in this section as the 'ceiling price'), and shall require that the manufacturer offer each covered entity covered drugsfor purchase at or below the applicable ceiling price if such drug is made available to any other purchaser at any price."
 
 Subsec. (a)(2)(A). Pub. L. 111–152, §2302(1)(A), substituted "covered outpatient drug" for "covered drug" in introductory provisions.
 
@@ -392,6 +392,54 @@ In general.—The amendments made by this section \[amending this section\] and 
 
 Effectiveness.—The amendments made by this section and section 7102 shall be effective and shall be taken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act (42 U.S.C. 256b(a)), notwithstanding any other provision of law."
 
+#### Eligibility Exception for the Drug Discount Program Due to the COVID–19 Public Health Emergency
+
+Pub. L. 117–103, div. P, title I, §121, Mar. 15, 2022, 136 Stat. 792, provided that:
+
+"(a)
+
+In General.—Notwithstanding any other provision of law, in the case of a hospital described in subsection (b) that, with respect to cost reporting periods that begin during fiscal year 2020 or a subsequent fiscal year, but do not end after December 31, 2022, does not meet the applicable requirement for the disproportionate share adjustment percentage described in subsection (c) by reason of the COVID–19 public health emergency, but otherwise meets the requirements for being a covered entity under subparagraph (L), (M), or (O) of subsection (a)(4) of section 340B of the Public Health Service Act (42 U.S.C. 256b) and is in compliance with all other requirements of the program under such section, shall be deemed a covered entity for purposes of such section for the period—
+
+&emsp;"(1) beginning on the date of the enactment of this Act \[Mar. 15, 2022\] (or, if later, with the first of such cost reporting periods for which the hospital does not so meet such applicable requirement for the disproportionate share adjustment percentage, but otherwise meets all other such requirements for being such a covered entity and of such program); and
+
+&emsp;"(2) ending with the last of such cost reporting periods (ending not later than December 31, 2022) for which the hospital does not so meet such applicable requirement for the disproportionate share adjustment percentage, but otherwise meets all other such requirements for being such a covered entity and of such program.
+
+"(b)
+
+Hospitals.—A hospital described in this subsection is an entity that, on the day before the first day of the COVID–19 public health emergency, was a covered entity described in subparagraph (L), (M), or (O) of subsection (a)(4) of section 340B of the Public Health Service Act participating in the drug discount program under such section.
+
+"(c)
+
+Applicable Requirement for Disproportionate Share Adjustment Percentage.—The applicable requirement for the disproportionate share adjustment percentage described in this subsection is—
+
+&emsp;"(1) in the case of a hospital described in subsection (a) that otherwise meets the requirements under subparagraph (L) or (M) of section 340B(a)(4) of the Public Health Service Act, the requirement under subparagraph (L)(ii) of such section; and
+
+&emsp;"(2) in the case of a hospital described in subsection (a) that otherwise meets the requirements under subparagraph (O) of such section 340B(a)(4), the requirement with respect to the disproportionate share adjustment percentage described in such subparagraph (O).
+
+"(d)
+
+Self-attestation.—
+
+&emsp;"(1)
+
+In general.—A hospital described in subsection (a) that fails to meet the applicable requirement for the disproportionate share adjustment percentage described in subsection (c) shall, within 30 days of such failure, or in the case of a hospital where such failure occurred prior to the date of enactment of this Act but after the start of the COVID-19 public health emergency, within 30 days of the date of enactment, provide to the Secretary of Health and Human Services an attestation that contains information on any actions taken by or other impact on such hospital in response to or as a result of the COVID-19 public health emergency that may have impacted the ability to meet the applicable requirement for the disproportionate share adjustment percentage described in subsection (c).
+
+&emsp;"(2)
+
+Paperwork reduction act.—Chapter 35 of title 44, United States Code, shall not apply to the collection of information provided pursuant to this subsection.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered entity.—The term 'covered entity' has the meaning given such term in section 340B(a)(4) of the Public Health Service Act (42 U.S.C. 256b(a)(4)).
+
+&emsp;"(2)
+
+Covid–19 public health emergency.—The term 'COVID–19 public health emergency' means the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to COVID–19 (or any renewal of such declaration)."
+
 #### Pricing of Diagnostic Testing
 
 Pub. L. 116–136, div. A, title III, §3202, Mar. 27, 2020, 134 Stat. 367, provided that:
@@ -418,7 +466,7 @@ Civil monetary penalties.—The Secretary of Health and Human Services may impos
 
 #### Study of Treatment of Certain Clinics as Covered Entities Eligible for Prescription Drug Discounts
 
-Pub. L. 102–585, title VI, §602(b), Nov. 4, 1992, 106 Stat. 4970, directed Secretary of Health and Human Services to conduct a study of feasibility and desirability of including specified entities receiving funds from a State as covered entities eligible for limitations on prices of covered outpatient drugs under 42 U.S.C. 256b(a) and, not later than 1 year after Nov. 4, 1992, to submit a report to Congress on the study, including in the report a description of the entities that were the subject of the study, an analysis of the extent to which such entities procured prescription drugs, and an analysis of the impact of the inclusion of such entities as covered entities on the quality of care provided to and the health status of the patients of such entities.
+Pub. L. 102–585, title VI, §602(b), Nov. 4, 1992, 106 Stat. 4970, directed Secretary of Health and Human Servicesto conduct a study of feasibility and desirability of including specified entities receiving funds from a State as covered entities eligible for limitations on prices of covered outpatient drugs under 42 U.S.C. 256b(a) and, not later than 1 year after Nov. 4, 1992, to submit a report to Congress on the study, including in the report a description of the entities that were the subject of the study, an analysis of the extent to which such entities procured prescription drugs, and an analysis of the impact of the inclusion of such entities as covered entities on the quality of care provided to and the health status of the patients of such entities.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

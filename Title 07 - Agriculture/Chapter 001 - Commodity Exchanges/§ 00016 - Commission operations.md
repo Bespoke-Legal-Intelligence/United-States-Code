@@ -38,7 +38,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 &emsp;(C) the application of any Federal or State statute, including any rule or regulation thereunder, to any person required to be registered or designated under this chapter who shall fail or refuse to obtain such registration or designation.
 
-(2) This chapter shall supersede and preempt the application of any State or local law that prohibits or regulates gaming or the operation of bucket shops (other than antifraud provisions of general applicability) in the case of—
+(2) This chapter shall supersede and preempt the application of any State or local law that prohibits or regulates gaming or the operationof bucket shops (other than antifraud provisions of general applicability) in the case of—
 
 &emsp;(A) an electronic trading facility excluded under section 2(e) <sup>1</sup> of this title; and
 
@@ -104,7 +104,7 @@ Subsec. (b). Pub. L. 102–546, §216, designated first through third sentences 
 
 Subsec. (d). Pub. L. 102–546, §401, amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are authorized to be appropriated to carry out this chapter such sums as may be necessary for each of the fiscal years during the period beginning October 1, 1986, and ending September 30, 1989."
 
-Subsec. (e)(2)(A). Pub. L. 102–546, §502(c), inserted "or, in the case of any State or local law that prohibits or regulates gaming or the operation of 'bucket shops' (other than antifraud provisions of general applicability), that is not a transaction or class of transactions that has received or is covered by the terms of any exemption previously granted by the Commission under subsection (c) of section 6 of this title," after "market,".
+Subsec. (e)(2)(A). Pub. L. 102–546, §502(c), inserted "or, in the case of any State or local law that prohibits or regulates gaming or the operation of 'bucket shops'\(other than antifraud provisions of general applicability), that is not a transaction or class of transactions that has received or is covered by the terms of any exemption previously granted by the Commission under subsection (c) of section 6 of this title," after "market,".
 
 Subsec. (f). Pub. L. 102–546, §303, added subsec. (f).
 

@@ -22,7 +22,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Short Title
 
-Pub. L. 113–274, §1(a), Dec. 18, 2014, 128 Stat. 2971, provided that: "This Act \[enacting this chapter and amending sections 272, 278g–3, 7403, and 7406 of this title\] may be cited as the 'Cybersecurity Enhancement Act of 2014'."
+Pub. L. 113–274, §1(a), Dec. 18, 2014, 128 Stat. 2971, provided that: "This Act \[enacting this chapter andamending sections 272, 278g–3, 7403, and 7406 of this title\] may be cited as the 'Cybersecurity Enhancement Act of 2014'."
 
 #### <b>Executive Documents</b>
 
@@ -100,7 +100,7 @@ Sec. 2. <i>Special Measures for Certain Foreign Jurisdictions or Foreign Persons
 
 (e) The Secretary shall not impose requirements for United States IaaS providers to take any of the special measures described in subsection (d) of this section earlier than 180 days following the issuance of final regulations described in section 1 of this order.
 
-Sec. 3. <i>Recommendations for Cooperative Efforts to Deter the Abuse of United States IaaS Products</i>. (a) Within 120 days of the date of this order, the Attorney General and the Secretary of Homeland Security, in coordination with the Secretary and, as the Attorney General and the Secretary of Homeland Security deem appropriate, the heads of other agencies, shall engage and solicit feedback from industry on how to increase informationsharing and collaboration among IaaS providers and between IaaS providers and the agencies to inform recommendations under subsection (b) of this section.
+Sec. 3. <i>Recommendations for Cooperative Efforts to Deter the Abuse of United States IaaS Products</i>. (a) Within 120 days of the date of this order, the Attorney General and the Secretary of Homeland Security, in coordination with the Secretary and, as the Attorney General and the Secretary of Homeland Security deem appropriate, the heads of other agencies, shall engage and solicit feedback from industry on how to increase information sharing and collaboration among IaaS providers and between IaaS providers and the agencies to inform recommendations under subsection (b) of this section.
 
 (b) Within 240 days of the date of this order, the Attorney General and the Secretary of Homeland Security, in coordination with the Secretary, and, as the Attorney General and Secretary of Homeland Security deem appropriate, the heads of other agencies, shall develop and submit to the President a report containing recommendations to encourage:
 

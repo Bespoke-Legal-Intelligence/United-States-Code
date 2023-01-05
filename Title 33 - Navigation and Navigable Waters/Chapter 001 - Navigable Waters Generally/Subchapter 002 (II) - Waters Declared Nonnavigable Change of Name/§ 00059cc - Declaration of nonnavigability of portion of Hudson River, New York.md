@@ -50,7 +50,7 @@ The area described in this subsection is the portion of the Hudson River, New Yo
 
 &emsp;Thence north 61°–08′–00″ west, still along the United States Pierhead Line approved by the Secretary of War, 1936, 202.53 feet;
 
-&emsp;The following three courses being along the lines of George Soilan Park as shown on mapprepared by The City of New York, adopted by the Board of Estimate, November 13, 1981, Acc. N° 30071 and lines of property leased to Battery Park City Authority and B. P. C. Development Corp;
+&emsp;The following three courses being along the lines of George Soilan Park as shown on map prepared by The City of New York, adopted by the Board of Estimate, November 13, 1981, Acc. N° 30071 and lines of property leased to Battery Park City Authority and B. P. C. Development Corp;
 
 &emsp;Thence north 77°–35′–20″ east, 231.35 feet;
 
@@ -106,7 +106,7 @@ For the purposes of this section, the term "proposed project" means any project 
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

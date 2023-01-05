@@ -64,11 +64,11 @@ A local educational agency that desires to receive a subgrant under this section
 
 #### (2) Need
 
-&emsp;In determining need under paragraph (1), the State educational agency may consider the number of homeless children and youths enrolled in early childhood education and other preschool programs, elementary schools, andsecondary schools, within the area served by the local educational agency, and shall consider the needs of such children and youths and the ability of the local educational agency to meet such needs. The State educational agency may also consider the following:
+&emsp;In determining need under paragraph (1), the State educational agency may consider the number of homeless children and youths enrolled in early childhood education and other preschool programs, elementary schools, and secondary schools, within the area served by the local educational agency, and shall consider the needs of such children and youths and the ability of the local educational agency to meet such needs. The State educational agency may also consider the following:
 
 &emsp;&emsp;(A) The extent to which the proposed use of funds will facilitate the identification, enrollment, retention, and educational success of homeless children and youths.
 
-&emsp;&emsp;(B) The extent to which the application reflects coordination with other local and State agencies that serve homeless children and youths.
+&emsp;&emsp;(B) The extent to which the application reflects coordination with other local andState agencies that serve homeless children and youths.
 
 &emsp;&emsp;(C) The extent to which the applicant exhibits in the application and in current practice (as of the date of submission of the application) a commitment to education for all homeless children and youths.
 

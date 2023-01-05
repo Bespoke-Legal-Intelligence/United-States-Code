@@ -114,7 +114,7 @@ Subsec. (d)(3)(A), (B). Pub. L. 104–208, §212(c), substituted "each document 
 
 Subsec. (d)(4). Pub. L. 104–208, §379(a)(2), substituted "the final agency decision and order under this subsection" for "a final order under this subsection".
 
-Pub. L. 104–208, §379(a)(1), substituted "unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B)within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations" for "unless, within 30 days, the Attorney General modifies or vacates the decision and order".
+Pub. L. 104–208, §379(a)(1), substituted "unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations" for "unless, within 30 days, the Attorney General modifies or vacates the decision and order".
 
 Subsec. (d)(7). Pub. L. 104–208, §308(g)(10)(D), substituted "withholding of removal under section 1231(b)(3) of this title" for "withholding of deportation under section 1253(h) of this title".
 

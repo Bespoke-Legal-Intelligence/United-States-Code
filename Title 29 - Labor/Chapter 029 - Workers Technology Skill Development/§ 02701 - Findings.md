@@ -4,7 +4,7 @@ The Congress finds and declares the following:
 
 &emsp;(1) In an increasingly competitive world economy, the companies and nations that lead in the rapid development, commercialization, and application of new and advanced technologies, and in the high-quality, competitively priced production of goods and services, will lead in economic growth, employment, and high living standards.
 
-&emsp;(2) While the United States remains the world leader in science and invention, it has not done well in rapidly making the transitionfrom achievement in its research laboratories to high-quality, competitively priced production of goods and services. This lag and the unprecedented competitive challenge that the United States has faced from abroad have contributed to a drop in real wages and living standards.
+&emsp;(2) While the United States remains the world leader in science and invention, it has not done well in rapidly making the transition from achievement in its research laboratories to high-quality, competitively priced production of goods and services. This lag and the unprecedented competitive challenge that the United States has faced from abroad have contributed to a drop in real wages and living standards.
 
 &emsp;(3) Companies that are successfully competitive in the rapid development, commercialization, application, and implementation of advanced technologies, and in the successful delivery of goods and services, recognize that worker participation and labor-management cooperation in the deployment, application, and implementation of advanced workplace technologies make an important contribution to high-quality, competitively priced production of goods and services and in maintaining and improving real wages for workers.
 
@@ -36,7 +36,7 @@ Study.—The Secretary of Commerce shall conduct a review of existing public and
 
 "(b)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 17, 2000\], the Secretary of Commerce shall submit a report to Congress setting forth the findings of the study conducted under subsection (a)."
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 17, 2000\], the Secretary of Commerce shall submit a report to Congress settingforth the findings of the study conducted under subsection (a)."
 
 #### Report on Older Workers in Information Technology Field
 

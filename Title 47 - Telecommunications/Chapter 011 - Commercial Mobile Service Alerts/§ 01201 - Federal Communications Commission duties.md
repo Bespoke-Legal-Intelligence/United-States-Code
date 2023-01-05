@@ -40,7 +40,7 @@ Within 180 days after the date on which the Commercial Mobile Service Alert Advi
 
 &emsp;&emsp;&emsp;(i) for a commercial mobile service licensee that has elected to transmit emergency alerts to withdraw its election without regulatory penalty or forfeiture upon advance written notification of the withdrawal to its affected subscribers;
 
-&emsp;&emsp;&emsp;(ii) for a commercial mobile service licensee to elect to transmit emergency alerts at a date later than provided in subparagraph (A); and
+&emsp;&emsp;&emsp;(ii) for a commercial mobile service licensee to elect to transmit emergencyalerts at a date later than provided in subparagraph (A); and
 
 &emsp;&emsp;&emsp;(iii) under which a subscriber may terminate a subscription to service provided by a commercial mobile service licensee that withdraws its election without penalty or early termination fee.
 

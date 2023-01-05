@@ -8,7 +8,7 @@
 
 &emsp;(3) A fixed appropriation account is an appropriation account available for obligation for a definite period.
 
-(b) The limitations on the availability for expenditure prescribed in this subchapter apply to all appropriations unless specifically otherwise authorized by a law that specifically—
+(b) The limitations on the availability for expenditure prescribed in this subchapter apply toall appropriations unless specifically otherwise authorized by a law that specifically—
 
 &emsp;(1) identifies the appropriate account for which the availability for expenditure is to be extended;
 
@@ -100,7 +100,7 @@ Obligations and adjustment of obligations.—(A) After cancellation of unobligat
 
 "(8)
 
-Obligations and adjustments of obligations for expired but not closed accounts.—(A) Subject to subparagraphs (B), (C), and (D), in the case of an appropriation account for a fiscal year before fiscal year 1992 for which the period of availability for obligation has expired but which has not been closed under the provisions of section 1552(a) of title 31, United States Code,or paragraph (4) of this section, an obligation and an adjustment of an obligation may be charged to any current appropriation account of the Department of Defense that is available for the same purpose as the expired account if—
+Obligations and adjustments of obligations for expired but not closed accounts.—(A) Subject to subparagraphs (B), (C), and (D), in the case of an appropriation account for a fiscal year before fiscal year 1992 for which the period of availability for obligation has expired but which has not been closed under the provisions of section 1552(a) of title 31, United States Code, or paragraph (4) of this section, an obligation and an adjustment of an obligation may be charged to any current appropriation account of the Department of Defense that is available for the same purpose as the expired account if—
 
 &emsp;"(i) the obligation would have been properly chargeable (except as to amount) to the expired account before the end of the period of availability of that account; and
 

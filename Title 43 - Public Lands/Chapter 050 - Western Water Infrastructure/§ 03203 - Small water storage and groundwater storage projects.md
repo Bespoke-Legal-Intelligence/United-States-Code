@@ -2,7 +2,7 @@
 
 #### (a) Establishment of a competitive grant program for small water storage and groundwater storage projects
 
-The Secretary shall establish a competitive grant program, under which the non-Federal project sponsor of any project in a Reclamation State, including the State of Alaska or Hawaii, determined by the Secretary to be feasible under subsection (b)(2)(B) shall be eligible to apply for funding for the planning, design, and construction of the project.
+The Secretary shall establish a competitive grant program, under which the non-Federalproject sponsor of any project in a Reclamation State, including the State of Alaska or Hawaii, determined by the Secretary to be feasible under subsection (b)(2)(B) shall be eligible to apply for funding for the planning, design, and construction of the project.
 
 #### (b) Eligibility and selection
 
@@ -16,7 +16,7 @@ The Secretary shall establish a competitive grant program, under which the non-F
 
 &emsp;&emsp;A project shall be considered eligible for consideration for a grant under this section if the project—
 
-&emsp;&emsp;&emsp;(i) has water storage capacity of not less than 2,000 acre-feet and not more than 30,000 acre-feet; and
+&emsp;&emsp;&emsp;(i) has water storage capacity of not less than 200 acre-feet and not more than 30,000 acre-feet; and
 
 &emsp;&emsp;&emsp;(ii)(I) increases surface water or groundwater storage; or
 
@@ -24,7 +24,7 @@ The Secretary shall establish a competitive grant program, under which the non-F
 
 #### (C) Guidelines
 
-&emsp;&emsp;Not later than 60 days after November 15, 2021, the Secretary shall issue guidelines forfeasibility studies for small storage projects to provide sufficient information for the formulation of the studies.
+&emsp;&emsp;Not later than 60 days after November 15, 2021, the Secretary shall issue guidelines for feasibility studies for small storage projects to provide sufficient information for the formulation of the studies.
 
 #### (2) Review by the Secretary
 
@@ -90,13 +90,17 @@ In providing funding for a grant for a project under this section, the Secretary
 
 The authority to carry out this section terminates on the date that is 5 years after November 15, 2021.
 
-(Pub. L. 117–58, div. D, title IX, §40903, Nov. 15, 2021, 135 Stat. 1119.)
+(Pub. L. 117–58, div. D, title IX, §40903, Nov. 15, 2021, 135 Stat. 1119; Pub. L. 117–328, div. CC, §105, Dec. 29, 2022, 136 Stat. 5574.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(1)(B)(i). Pub. L. 117–328 substituted "200" for "2,000".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

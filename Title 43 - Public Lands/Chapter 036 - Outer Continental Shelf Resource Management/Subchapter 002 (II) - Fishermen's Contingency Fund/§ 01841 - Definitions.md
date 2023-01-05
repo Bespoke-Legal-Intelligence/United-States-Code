@@ -40,7 +40,7 @@ As used in this subchapter, the term—
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–212 added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, and struck out "at sea" after "the aiding or assisting" in par. (4)(B) as redesignated.
+<b>1982</b>—Pub. L. 97–212 added par. (1), redesignated former pars. (1) to (7) as (2) to (8), respectively, andstruck out "at sea" after "the aiding or assisting" in par. (4)(B) as redesignated.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -4,6 +4,8 @@ The President is hereby authorized to accept membership for the United States in
 
 (July 30, 1946, ch. 700, §1, 60 Stat. 712.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Constitution of the United Nations Educational, Scientific, and Cultural Organization
 
 #### the governments of the states parties to this constitution on behalf of their peoples declare
@@ -48,7 +50,7 @@ The President is hereby authorized to accept membership for the United States in
 
 &emsp;&emsp;&nbsp;by encouraging cooperation among the nations in all branches of intellectual activity, including the international exchange of persons active in the fields of education, science and culture and the exchange of publications, objects of artistic and scientific interest and other materials of information;
 
-&emsp;&emsp;&nbsp;by initiating methods of international cooperation calculated to give the people of all countriesaccess to the printed and published materials produced by any of them.
+&emsp;&emsp;&nbsp;by initiating methods of international cooperation calculated to give the people of all countries access to the printed and published materials produced by any of them.
 
 3\. With a view to preserving the independence, integrity and fruitful diversity of the cultures and educational systems of the States Members of this Organisation, the Organisation is prohibited from intervening in matters which are essentially within their domestic jurisdiction.
 
@@ -76,7 +78,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 #### <i>A. Composition.</i>
 
-1\. The General Conference shall consist of the representatives of the States Members of the Organisation. The Government of each Member State shall appoint not more than five delegates, who shall be selected after consultation with the National Commission, if established, or with educational, scientific and cultural bodies.
+1\. The General Conference shall consist of the representatives of the States Members of theOrganisation. The Government of each Member State shall appoint not more than five delegates, who shall be selected after consultation with the National Commission, if established, or with educational, scientific and cultural bodies.
 
 #### <i>B. Functions</i>
 
@@ -132,7 +134,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 7\. Subject to decisions of the General Conference, the Executive Board shall adopt its own rules of procedure. It shall elect its officers from among its members.
 
-8\. The Executive Board shall meet in regular session at least twice a year and may meet in special sessionif convoked by the Chairman on his own initiative or upon the request of six members of the Board.
+8\. The Executive Board shall meet in regular session at least twice a year and may meet in special session if convoked by the Chairman on his own initiative or upon the request of six members of the Board.
 
 9\. The Chairman of the Executive Board shall present to the General Conference, with or without comment, the annual report of the Director-General on the activities of the Organisation, which shall have been previously submitted to the Board.
 

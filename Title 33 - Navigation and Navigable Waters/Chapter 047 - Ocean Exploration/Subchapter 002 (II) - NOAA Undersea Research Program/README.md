@@ -5,9 +5,4 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 03421 - Program established](%C2%A7%2003421%20-%20Program%20established.md)
-- [&sect; 03422 - Powers of program Director](%C2%A7%2003422%20-%20Powers%20of%20program%20Director.md)
-- [&sect; 03423 - Administrative structure](%C2%A7%2003423%20-%20Administrative%20structure.md)
-- [&sect; 03424 - Research, exploration, education, and technology programs](%C2%A7%2003424%20-%20Research%2C%20exploration%2C%20education%2C%20and%20technology%20programs.md)
-- [&sect; 03425 - Competitiveness](%C2%A7%2003425%20-%20Competitiveness.md)
-- [&sect; 03426 - Authorization of appropriations](%C2%A7%2003426%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 03421 to 3426 - Repealed. Pub. L. 117&#8211;263, div. J, title CIII, &sect;10306(a), Dec. 23, 2022, 136 Stat. 3974](%C2%A7%2003421%20to%203426%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93263%2C%20div.%20J%2C%20title%20CIII%2C%20%C2%A710306%28a%29%2C%20Dec.%2023%2C%202022%2C%20136%20Stat.%203974.md)

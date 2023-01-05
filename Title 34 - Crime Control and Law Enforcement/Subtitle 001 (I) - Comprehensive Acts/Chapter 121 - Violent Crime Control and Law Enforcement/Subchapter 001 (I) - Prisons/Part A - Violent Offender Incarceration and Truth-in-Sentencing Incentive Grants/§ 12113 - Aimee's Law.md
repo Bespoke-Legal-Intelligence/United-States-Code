@@ -28,7 +28,7 @@ Pursuant to regulations promulgated by the Attorney General hereunder, in this s
 
 #### (2) Multiple States
 
-&emsp;Pursuant to regulations promulgated by the Attorney General hereunder, in any case in which a criminal-records-reporting State convicts an individual of murder, rape, or a dangerous sexual offense, who has a prior conviction for any one or more of those offenses in more than one other State described in paragraph (3), it may, under subsection (d), apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation.
+&emsp;Pursuant to regulations promulgated by the Attorney General hereunder, in any case inwhich a criminal-records-reporting State convicts an individual of murder, rape, or a dangerous sexual offense, who has a prior conviction for any one or more of those offenses in more than one other State described in paragraph (3), it may, under subsection (d), apply to the Attorney General for $10,000, for its related apprehension and prosecution costs, and $22,500 per year (up to a maximum of 5 years), for its related incarceration costs with both amounts for costs adjusted annually for the rate of inflation.
 
 #### (3) State described
 
@@ -108,7 +108,7 @@ This section shall take effect on January 1, 2002.
 
 Section was formerly classified to section 13713 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
-January 5, 2006, referred to in subsec. (i)(2)(A), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 109–162, which enacted subsec. (i)(2) of this section, to reflect the probable intent of Congress.
+January 5, 2006, referred to in subsec. (i)(2)(A), was in the original "the date of enactment of this Act", whichwas translated as meaning the date of enactment of Pub. L. 109–162, which enacted subsec. (i)(2) of this section, to reflect the probable intent of Congress.
 
 Section was enacted as Aimee's Law and also as part of the Victims of Trafficking and Violence Protection Act of 2000, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 

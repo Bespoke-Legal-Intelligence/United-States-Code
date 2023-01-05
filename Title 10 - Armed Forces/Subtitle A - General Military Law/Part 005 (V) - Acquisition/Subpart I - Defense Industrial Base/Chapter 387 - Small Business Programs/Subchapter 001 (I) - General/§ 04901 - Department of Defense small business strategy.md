@@ -50,6 +50,112 @@ Section 801 of the National Defense Authorization Act for Fiscal Year 2018, refe
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
+#### Small Business Integration Working Group
+
+Pub. L. 117–263, div. A, title VIII, §874, Dec. 23, 2022, 136 Stat. 2741, provided that:
+
+"(a)
+
+In General.—Not later than 60 days after the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall issue a charter to establish a small business integration working group that—
+
+&emsp;"(1) ensures the integration and synchronization of the activities of the military departments and other components of the Department of Defense with respect to small business concerns; and
+
+&emsp;"(2) convenes not fewer than four times per year.
+
+"(b)
+
+Membership.—The small business integration working group chartered under subsection (a) shall be comprised of representatives from each of the following organizations:
+
+&emsp;"(1) The small business office of each military department.
+
+&emsp;"(2) The Small Business Innovation Research Program and the Small Business Technology Transfer Program (as such terms are defined in section 9(e) of the Small Business Act (15 U.S.C. 638(e))) of each military department.
+
+&emsp;"(3) The office of the Under Secretary of Defense for Acquisition and Sustainment.
+
+&emsp;"(4) The office of the Under Secretary of Defense for Research and Engineering.
+
+&emsp;"(5) Any other office the Secretary of Defense determines appropriate.
+
+"(c)
+
+Briefing Required.—Not later than March 1, 2023, the Secretary of Defense shall brief the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives on the establishment and activities of the small business integration working group chartered under subsection (a), the policies enacted by the small business integration working group to allow for the sharing of best practices for maximizing the contributions of small business concerns in the defense industrial base and in acquisitions by the Department of Defense, and practices for conducting oversight of the activities of the military departments and other components of the Department of Defense with respect to small business concerns.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Military department.—The term 'military department' has the meaning given such term in section 101(a) of title 10, United States Code.
+
+&emsp;"(2)
+
+Small business concern.—The term 'small business concern' has the meaning given such term under section 3 of the Small Business Act (15 U.S.C. 632)."
+
+#### Demonstration of Commercial Due Diligence for Small Business Programs
+
+Pub. L. 117–263, div. A, title VIII, §875, Dec. 23, 2022, 136 Stat. 2742, provided that:
+
+"(a)
+
+Demonstration Required.—Not later than December 31, 2027, the Secretary of Defense shall establish a program to carry out a demonstration of commercial due diligence tools, techniques, and processes in order to support small businesses in identifying attempts by malicious foreign actors to gain undue access to, or foreign ownership, control, or influence over—
+
+&emsp;"(1) the small business; or
+
+&emsp;"(2) any technology a small business is developing pursuant to a contract or other agreement with the Department of Defense.
+
+"(b)
+
+Elements.—The program required under subsection (a) shall include the following:
+
+&emsp;"(1) The identification of one or more entities to be responsible for the commercial due diligence tools, techniques, and processes that are part of a demonstration under the program and a description of the interactions required between such entity, small businesses, and the government agencies that enforce such tools, techniques, and processes.
+
+&emsp;"(2) An assessment of commercial due diligence tools, techniques, and processes already in use by each Office of Small Business Programs.
+
+&emsp;"(3) The development of methods to analyze the commercial due diligence tools, techniques, and processes that are part of a demonstration under the program to—
+
+&emsp;&emsp;"(A) monitor and assess attempts described in subsection (a);
+
+&emsp;&emsp;"(B) provide information on such attempts to applicable small businesses; and
+
+&emsp;&emsp;"(C) allow small businesses that are subject to such attempts to provide information about such attempts to the Secretary of Defense.
+
+&emsp;"(4) The development of training and resources for small businesses that can be shared directly with such businesses or through a procurement technical assistance program established under chapter 388 of title 10, United States Code.
+
+&emsp;"(5) The implementation of performance measures to assess the effectiveness of such program.
+
+"(c)
+
+Briefing Required.—Not later than April 1, 2023, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an interim briefing on the program required under subsection (a) that includes the following:
+
+&emsp;"(1) An identification of any entity described in subsection (b)(1).
+
+&emsp;"(2) A description of the methodology for executing any demonstrations under the program, including any analytical tools or metrics identified to support such a demonstration.
+
+&emsp;"(3) A description of any identified instances of attempts described in subsection (a).
+
+&emsp;"(4) An identification of improvements or gaps in resources, capabilities, or authorities, and other lessons learned from any demonstrations under the program.
+
+"(d)
+
+Assessment.—Not later than March 1, 2028, the Secretary shall submit to the congressional defense committees a report on the program required under subsection (a), including any identified instances of attempts described in such subsection, any lessons learned, and any recommendations for legislative action related to such program.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'foreign ownership, control, or influence' has the meaning given in section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505; 10 U.S.C. 4819 note).
+
+&emsp;"(2) The term 'Office of Small Business Programs' means—
+
+&emsp;&emsp;"(A) the Office of Small Business Programs of the Department of Defense established under section 144 of title 10, United States Code;
+
+&emsp;&emsp;"(B) the Office of Small Business Programs of the Department of the Army established under section 7024 of such title;
+
+&emsp;&emsp;"(C) the Office of Small Business Programs of the Department of the Navy established under section 8028 of such title; and
+
+&emsp;&emsp;"(D) the Office of Small Business Programs of the Department of the Air Force established under section 9024 of such title."
+
 #### Report on Unfunded Priorities of the Small Business Innovation Research and Small Business Technology Transfer Program
 
 Pub. L. 117–81, div. A, title VIII, §865, Dec. 27, 2021, 135 Stat. 1853, provided that:

@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 115–232, §501(b), struck out subsec. (d) which read as f
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–375, §501(a)(2), substituted "sixty-second birthday" for "fifty-fifth birthday".
 
-Subsec. (e). Pub. L. 108–375, §501(a)(1), struck out subsec. (e) which read as follows: "After September 30, 1996, no person may receive an original appointment as a commissioned officer in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corpsuntil that person has completed one year of service on active duty as a commissioned officer (other than a warrant officer) of a reserve component."
+Subsec. (e). Pub. L. 108–375, §501(a)(1), struck out subsec. (e) which read as follows: "After September 30, 1996, no person may receive an original appointment as a commissioned officer in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps until that person has completed one year of service on active duty as a commissioned officer (other than a warrant officer) of a reserve component."
 
 Subsec. (f). Pub. L. 108–375, §501(a)(3)(A), added subsec. (f).
 

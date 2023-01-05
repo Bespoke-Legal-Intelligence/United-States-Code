@@ -22,7 +22,7 @@ Not more than eight voting members of the Board (including members described in 
 
 #### (d) Qualifications
 
-(1) Each individual appointed to the Board under subsection (b)(4) shall have appropriatepractical or academic experience in peace and conflict resolution efforts of the United States.
+(1) Each individual appointed to the Board under subsection (b)(4) shall have appropriate practical or academic experience in peace and conflict resolution efforts of the United States.
 
 (2) Officers and employees of the United States Government may not be appointed to the Board under subsection (b)(4).
 

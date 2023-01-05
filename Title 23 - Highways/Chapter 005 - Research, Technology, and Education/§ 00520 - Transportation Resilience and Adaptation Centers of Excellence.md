@@ -26,7 +26,7 @@ Selection.—
 
 &emsp;(1)
 
-Regional centers of excellence.—The Secretary shall designate 1 regional Center of Excellence in each of the 10 Federal regions that comprise the Standard Federal Regionsestablished by the Office of Management and Budget in the document entitled "Standard Federal Regions" and dated April 1974 (circular A–105).
+Regional centers of excellence.—The Secretary shall designate 1 regional Center of Excellence in each of the 10 Federal regions that comprise the Standard Federal Regions established by the Office of Management and Budget in the document entitled "Standard Federal Regions" and dated April 1974 (circular A–105).
 
 &emsp;(2)
 

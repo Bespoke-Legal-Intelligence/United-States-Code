@@ -6,7 +6,7 @@ To alleviate, to the maximum extent possible, the adverse impact on farmers, ele
 
 &emsp;&emsp;(A) an assessment of existing farm programs with a view to determining whether such programs are sufficiently flexible to enable the Secretary to efficiently and effectively offset the adverse impact of such a suspension or restriction on farmers, elevator operators, common carriers, and exporters of commodities provided for under such programs;
 
-&emsp;&emsp;(B) an evaluation of the kinds and availability of information needed to determine,on an emergency basis, the extent and severity of the impact of such a suspension or restriction on producers, elevator operators, common carriers, and exporters; and
+&emsp;&emsp;(B) an evaluation of the kinds and availability of information needed to determine, on an emergency basis, the extent and severity of the impact of such a suspension or restriction on producers, elevator operators, common carriers, and exporters; and
 
 &emsp;&emsp;(C) the development of criteria for determining the extent, if any, to which the impact of such a suspension or restriction should be offset in the case of each of the sectors referred to in paragraph (1)(B);
 

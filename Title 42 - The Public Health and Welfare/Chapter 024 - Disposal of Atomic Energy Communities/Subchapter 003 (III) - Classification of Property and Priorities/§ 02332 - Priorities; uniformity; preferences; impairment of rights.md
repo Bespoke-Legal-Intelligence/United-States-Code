@@ -4,7 +4,7 @@ The Commission shall establish, by rule or regulation, a detailed system of reas
 
 &emsp;(a) be uniform in each class or subclass of property;
 
-&emsp;(b) give such preference to occupants and project-connected persons and to incomingemployees of the Commission, of a contractor, or of a licensee as the Commission finds necessary or desirable, giving due consideration to the following factors:
+&emsp;(b) give such preference to occupants and project-connected persons and to incoming employees of the Commission, of a contractor, or of a licensee as the Commission finds necessary or desirable, giving due consideration to the following factors:
 
 &emsp;&emsp;(1) The retention and recruitment of personnel essential to the atomic energy program;
 

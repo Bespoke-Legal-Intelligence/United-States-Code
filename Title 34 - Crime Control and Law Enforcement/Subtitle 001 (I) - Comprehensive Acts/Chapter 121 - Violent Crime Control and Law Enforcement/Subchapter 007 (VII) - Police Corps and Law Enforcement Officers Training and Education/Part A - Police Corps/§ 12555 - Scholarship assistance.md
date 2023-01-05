@@ -18,7 +18,7 @@
 
 (4)(A) The Director shall make scholarship payments under this section directly to the institution of higher education that the student is attending.
 
-(B) Each institution of higher education receiving a payment on behalf of a participant pursuant to subparagraph (A) shall remit to such student any funds in excess of the costs of tuition, fees, and room and board payable to the institution.
+(B) Each institution of higher education receiving a payment on behalf of a participant pursuant to subparagraph (A) shall remit to such student any funds in excess of the costs oftuition, fees, and room and board payable to the institution.
 
 #### (b) Reimbursement authorized
 

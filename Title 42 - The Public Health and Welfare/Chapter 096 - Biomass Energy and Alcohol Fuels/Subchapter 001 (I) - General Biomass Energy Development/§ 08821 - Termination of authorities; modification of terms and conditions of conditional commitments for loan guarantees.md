@@ -8,7 +8,7 @@ No insured loan, loan guarantee, price guarantee, or purchase agreement may be c
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, as amended, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This Act, referred to in text, is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under section 8801 of this title and Tables.
 
 #### Codification
 
@@ -24,7 +24,7 @@ Amendment of section by Pub. L. 99–190 is based on section 630 of title VI of 
 
 Pub. L. 99–272 made amendment substantially identical to that by Pub. L. 99–190, substituting "through June 30, 1986" for "through September 30, 1985" and inserting provisions authorizing the Secretary of Energy to modify the terms and conditions of any conditional commitment for a loan guarantee under this subchapter made before Oct. 1, 1984, including the amount of the guarantee, and further providing that nothing in this section shall be interpreted as indicating Congressional approval with respect to any pending conditional commitments.
 
-<b>1985</b>—Pub. L. 99–190, §101(a), as enacted by Pub. L. 100–202, substituted "through June 30, 1986" for "through September 30, 1985" and inserted provisions authorizing the Secretary of Energy to modify the terms and conditions of any conditional commitment for a loan guarantee under this subchapter made before Oct. 1, 1984, including the amount of the guarantee, and further providing that nothing in this section shall be interpreted as indicating Congressional approval with respect to any pending conditional commitments. See Codification note above.
+<b>1985</b>—Pub. L. 99–190, §101(a), as enacted by Pub. L. 100–202, substituted "through June 30, 1986" for "through September 30, 1985" and inserted provisions authorizing the Secretary of Energy to modify the terms and conditions of any conditional commitment for a loan guarantee under this subchapter made beforeOct. 1, 1984, including the amount of the guarantee, and further providing that nothing in this section shall be interpreted as indicating Congressional approval with respect to any pending conditional commitments. See Codification note above.
 
 Pub. L. 99–24 inserted ", except that all conditional commitments for loan guarantees under this subchapter which were in existence on September 30, 1984, are hereby extended through September 30, 1985".
 
@@ -32,7 +32,7 @@ Pub. L. 99–24 inserted ", except that all conditional commitments for loan gu
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–434, provided that the amendment made by that section iseffective on date of enactment \[Dec. 19, 1985\] of the "pertinent joint resolution" making continuing appropriations for fiscal year 1986 \[Pub. L. 99–190\].
+Pub. L. 100–202, §106, Dec. 22, 1987, 101 Stat. 1329–434, provided that the amendment made by that section is effective on date of enactment \[Dec. 19, 1985\] of the "pertinent joint resolution" making continuing appropriations for fiscal year 1986 \[Pub. L. 99–190\].
 
 #### Pending Conditional Commitments
 

@@ -2,11 +2,11 @@
 
 (a)
 
-In General.—The Secretary of Defense shall take such action as is necessary to reformthe Department of Defense to improve the efficacy and efficiency of the Department, and to improve the ability of the Department to prioritize among and assess the costs and benefits of covered elements of reform.
+In General.—The Secretary of Defense shall take such action as is necessary to reform the Department of Defense to improve the efficacy and efficiency of the Department, and to improve the ability of the Department to prioritize among and assess the costs and benefits of covered elements of reform.
 
 (b)
 
-Policy.—The Secretary shall develop a policy and issue guidance to implement reform within the Department and to improve the ability of the Department to prioritize among and assess the costs and benefits of covered elements of reform.
+Policy.—The Secretary shall develop a policy and issue guidance to implement reformwithin the Department and to improve the ability of the Department to prioritize among and assess the costs and benefits of covered elements of reform.
 
 (c)
 
@@ -14,7 +14,7 @@ Framework for Reform.—
 
 &emsp;(1)
 
-In general.—Not later than February 1, 2022, the Secretary shall establish policies, guidance, and a consistent reporting framework to measure the progress of the Department toward covered elements of reform, including by establishing categories of reform, consistent metrics, and a process for prioritization of reform activities.
+In general.—Not later than February 1, 2023, the Secretary shall establish policies, guidance, and a consistent reporting framework to measure the progress of the Department toward covered elements of reform, including by establishing categories of reform, consistent metrics, and a process for prioritization of reform activities.
 
 &emsp;(2)
 
@@ -32,7 +32,7 @@ Scope.—The framework required by paragraph (1) may address duties under the fo
 
 &emsp;(3)
 
-Consultation.—The Secretary shall consult with the Deputy Secretary of Defense, the Performance Improvement Officer of the Department of Defense, the Chief Data Officer of the Department of Defense, the Chief Information Officer of the Department of Defense, and the financial managers of the military departments in carrying out activities under this subsection.
+Consultation.—The Secretary shall consult with the Deputy Secretary of Defense, the Performance Improvement Officer of the Department of Defense, the Chief Data Officer of the Department of Defense, the Chief Information Officer of the Department of Defense, the Director for Administration and Management of the Department of Defense, and the financial managers of the military departments in carrying out activities under this subsection.
 
 (d)
 
@@ -48,7 +48,13 @@ Covered Elements of Reform.—For purposes of this section and the policies, gui
 
 &emsp;(5) Improvements to decision-making processes to enable cost savings, cost avoidance, or investments to develop process improvements.
 
-&emsp;(6) Such other elements as the Secretary considers appropriate.
+&emsp;(6) Development and implementation of a uniform methodology for tracking and assessing cost savings and cost avoidance from reform initiatives.
+
+&emsp;(7) Implementation of reform-focused research to improve management and administrative science.
+
+&emsp;(8) Tracking and implementation of technological approaches to improve management decision-making, such as artificial intelligence tools.
+
+&emsp;(9) Such other elements as the Secretary considers appropriate.
 
 (e)
 
@@ -58,7 +64,75 @@ Annual Report.—At the same time the budget of the President for a fiscal year 
 
 &emsp;(2) The proposed activities, expenditures, and accomplishments to effect reform under this section, and consistent with priorities established by the Secretary, during the fiscal year covered by such budget and each of the four succeeding fiscal years.
 
-(Added Pub. L. 116–283, div. A, title IX, §911(a)(1), Jan. 1, 2021, 134 Stat. 3800.)
+(Added Pub. L. 116–283, div. A, title IX, §911(a)(1), Jan. 1, 2021, 134 Stat. 3800; amended Pub. L. 117–263, div. A, title IX, §911, Dec. 23, 2022, 136 Stat. 2750.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c)(1). Pub. L. 117–263, §911(1)(A), substituted "2023" for "2022".
+
+Subsec. (c)(3). Pub. L. 117–263, §911(1)(B), inserted "the Director for Administration and Management of the Department of Defense," after "the Chief Information Officer of the Department of Defense,".
+
+Subsec. (d)(6) to (9). Pub. L. 117–263, §911(2), added pars. (6) to (8) and redesignated former par. (6) as (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Strategic Management Dashboard Demonstration
+
+Pub. L. 117–263, div. A, title IX, §916, Dec. 23, 2022, 136 Stat. 2755, provided that:
+
+"(a)
+
+In General.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall conduct a demonstration of a strategic management dashboard to automate the data collection and data visualization of the primary management goals of the Department of Defense.
+
+"(b)
+
+Elements.—The Secretary of Defense shall ensure that the strategic management dashboard demonstrated under subsection (a) includes the following:
+
+&emsp;"(1) The capability for real-time monitoring of the performance of the Department of Defense in meeting the management goals of the Department.
+
+&emsp;"(2) An integrated analytics capability, including the ability to dynamically add or upgrade new capabilities when needed.
+
+&emsp;"(3) Integration with the framework required by subsection (c) of section 125a of title 10, United States Code, for measuring the progress of the Department toward covered elements of reform (as defined in subsection (d) of that section).
+
+&emsp;"(4) Incorporation of the elements of the strategic management plan required by section 904(d) of the National Defense Authorization Act of Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. note prec. 2201), as derived from automated data feeds from existing information systems and databases.
+
+&emsp;"(5) Incorporation of the elements of the most recent annual performance plan of the Department required by section 1115(b) of title 31, United States Code, and the most recent update on performance of the Department required by section 1116 of that title.
+
+&emsp;"(6) Use of artificial intelligence and machine learning tools to improve decision making and assessment relating to data analytics.
+
+&emsp;"(7) Adoption of leading and lagging indicators for key strategic management goals.
+
+"(c)
+
+Authorities.—
+
+&emsp;"(1)
+
+In general.—In conducting the demonstration required by subsection (a), the Secretary of Defense may use the authorities described in paragraph (2), and such other authorities as the Secretary considers appropriate—
+
+&emsp;&emsp;"(A) to help accelerate the development of innovative technological or process approaches; and
+
+&emsp;&emsp;"(B) to attract new entrants to solve the data management and visualization challenges of the Department.
+
+&emsp;"(2)
+
+Authorities described.—The authorities described in this paragraph are the authorities provided under the following provisions of law:
+
+&emsp;&emsp;"(A) Section 4025 of title 10, United States Code (relating to prizes for advanced technology achievements).
+
+&emsp;&emsp;"(B) Section 217 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2222 note) (relating to science and technology activities to support business systems information technology acquisition programs).
+
+&emsp;&emsp;"(C) Section 908 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 129a note) (relating to management innovation activities).
+
+"(d)
+
+Use of Best Practices.—In conducting the demonstration required by subsection (a), the Secretary of Defense shall leverage commercial best practices in management and leading research in management and data science.
+
+"(e)
+
+Strategic Management Dashboard Defined.—In this section, the term 'strategic management dashboard' means a system for dynamically displaying management metrics, performance goals, and other information necessary for Department of Defense leadership to make strategic decisions related to the management of the Department using modern, commercial practices for data visualization and drawn from existing automated information systems available to the Department."
 
 #### Implementing Policies, Guidance, and Reporting Framework
 

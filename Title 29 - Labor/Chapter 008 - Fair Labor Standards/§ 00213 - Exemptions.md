@@ -12,7 +12,7 @@ The provisions of sections 206 (except subsection (d) in the case of paragraph (
 
 &emsp;(4) Repealed. Pub. L. 101–157, §3(c)(1), Nov. 17, 1989, 103 Stat. 939.
 
-&emsp;(5) any employee employed in the catching, taking, propagating, harvesting, cultivating, or farming of any kind of fish, shellfish, crustacea, sponges, seaweeds, or other aquatic forms of animal and vegetable life, or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations, including the going to and returning from work and loading and unloading when performed by any such employee; or
+&emsp;(5) any employee employed in the catching, taking, propagating, harvesting, cultivating, or farming of any kind of fish, shellfish, crustacea, sponges, seaweeds, or other aquatic forms of animal and vegetable life, or in thefirst processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations, including the going to and returning from work and loading and unloading when performed by any such employee; or
 
 &emsp;(6) any employee employed in agriculture (A) if such employee is employed by an employer who did not, during any calendar quarter during the preceding calendar year, use more than five hundred man-days of agricultural labor, (B) if such employee is the parent, spouse, child, or other member of his employer's immediate family, (C) if such employee (i) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) commutes daily from his permanent residence to the farm on which he is so employed, and (iii) has been employed in agriculture less than thirteen weeks during the preceding calendar year, (D) if such employee (other than an employee described in clause (C) of this subsection) (i) is sixteen years of age or under and is employed as a hand harvest laborer, is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (ii) is employed on the same farm as his parent or person standing in the place of his parent, and (iii) is paid at the same piece rate as employees over age sixteen are paid on the same farm, or (E) if such employee is principally engaged in the range production of livestock; or
 
@@ -70,7 +70,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 &emsp;(8) Repealed. Pub. L. 95–151, §14(b), Nov. 1, 1977, 91 Stat. 1252.
 
-&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management and Budget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
+&emsp;(9) any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census, except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Office of Management andBudget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area; or
 
 &emsp;(10)(A) any salesman, partsman, or mechanic primarily engaged in selling or servicing automobiles, trucks, or farm implements, if he is employed by a nonmanufacturing establishment primarily engaged in the business of selling such vehicles or implements to ultimate purchasers; or
 
@@ -122,7 +122,7 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 (1) Except as provided in paragraph (2) or (4), the provisions of section 212 of this title relating to child labor shall not apply to any employee employed in agriculture outside of school hours for the school district where such employee is living while he is so employed, if such employee—
 
-&emsp;(A) is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are\(because of subsection (a)(6)(A)) required to be paid at the wage rate prescribed by section 206(a)(5) <sup>1</sup> of this title,
+&emsp;(A) is less than twelve years of age and (i) is employed by his parent, or by a person standing in the place of his parent, on a farm owned or operated by such parent or person, or (ii) is employed, with the consent of his parent or person standing in the place of his parent, on a farm, none of the employees of which are (because of subsection (a)(6)(A)) required to be paid at the wage rate prescribed by section 206(a)(5) <sup>1</sup> of this title,
 
 &emsp;(B) is twelve years or thirteen years of age and (i) such employment is with the consent of his parent or person standing in the place of his parent, or (ii) his parent or such person is employed on the same farm as such employee, or
 
@@ -258,11 +258,11 @@ The provisions of section 207 of this title shall not apply with respect to—
 
 #### (d) Delivery of newspapers and wreathmaking
 
-The provisions of sections 206, 207, and 212 of this title shall not apply with respect to any employee engaged in the delivery of newspapers to the consumer or to any homeworker engaged in the making of wreaths composed principally of natural holly, pine, cedar, or other evergreens (including the harvesting of the evergreens or other forest products used in making such wreaths).
+The provisions of sections 206, 207, and 212 of this title shall not apply with respect to any employee engaged in the delivery of newspapers to the consumer or to any homeworker engaged in the making of wreaths composed principally ofnatural holly, pine, cedar, or other evergreens (including the harvesting of the evergreens or other forest products used in making such wreaths).
 
 #### (e) Maximum hour requirements and minimum wage employees
 
-The provisions of section 207 of this title shall not apply with respect to employees for whomthe Secretary of Labor is authorized to establish minimum wage rates as provided in section 206(a)(3) <sup>1</sup> of this title, except with respect to employees for whom such rates are in effect; and with respect to such employees the Secretary may make rules and regulations providing reasonable limitations and allowing reasonable variations, tolerances, and exemptions to and from any or all of the provisions of section 207 of this title if he shall find, after a public hearing on the matter, and taking into account the factors set forth in section 206(a)(3) <sup>1</sup> of this title, that economic conditions warrant such action.
+The provisions of section 207 of this title shall not apply with respect to employees for whom the Secretary of Labor is authorized to establish minimum wage rates as provided in section 206(a)(3) <sup>1</sup> of this title, except with respect to employees for whom such rates are in effect; and with respect to such employees the Secretary may make rules and regulations providing reasonable limitations and allowing reasonable variations, tolerances, and exemptions to and from any or all of the provisions of section 207 of this title if he shall find, after a public hearing on the matter, and taking into account the factors set forth in section 206(a)(3) <sup>1</sup> of this title, that economic conditions warrant such action.
 
 #### (f) Employment in foreign countries and certain United States territories
 
@@ -330,13 +330,13 @@ The provisions of section 207 of this title shall not apply for a period or peri
 
 #### References in Text
 
-The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended. Title II of the Railway Labor Act was added by act Apr. 10, 1936, ch. 166, 49 Stat. 1189, and is classified generally to subchapter II (§181 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 347, 44 Stat. 577. Title II of the Railway Labor Act was added by act Apr. 10, 1936, ch. 166, 49 Stat. 1189, and is classified generally to subchapter II (§181 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code see section 151 of Title 45 and Tables.
 
 Section 206(a)(5) of this title, referred to in subsec. (c)(1)(A), was redesignated section 206(a)(4) of this title by Pub. L. 110–28, title VIII, §8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
 Section 206(a)(3) of this title, referred to in subsec. (e), was repealed and section 206(a)(4) of this title was redesignated section 206(a)(3) by Pub. L. 110–28, title VIII, §8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Codification
 
@@ -396,7 +396,7 @@ Subsec. (i). Pub. L. 95–151, §6(b), added subsec. (i).
 
 Subsec. (j). Pub. L. 95–151, §7(b), added subsec. (j).
 
-<b>1974</b>—Subsec. (a)(2). Pub. L. 93–259, §8(a), substituted "$225,000" for "$250,000" effective Jan. 1, 1975, Pub. L. 93–259, §8(b), substituted "$200,000" for "$225,000" effective Jan. 1, 1976. Pub. L. 93–259, §8(c), struck out "or such establishment has an annual dollar volume of sales which is less than $200,000 (exclusive of excise taxes at the retail level which are separately stated)" after "section 203(s) of this title" effective Jan. 1, 1977.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–259, §8(a), substituted "$225,000" for "$250,000" effective Jan. 1, 1975, Pub. L.93–259, §8(b), substituted "$200,000" for "$225,000" effective Jan. 1, 1976. Pub. L. 93–259, §8(c), struck out "or such establishment has an annual dollar volume of sales which is less than $200,000 (exclusive of excise taxes at the retail level which are separately stated)" after "section 203(s) of this title" effective Jan. 1, 1977.
 
 Subsec. (a)(9). Pub. L. 93–259, §23(a)(1), repealed exemption provision respecting any employee employed by an establishment which is a motion picture theater. See subsec. (b)(27) of this section.
 
@@ -508,7 +508,7 @@ Subsec. (f). Pub. L. 89–601, §213, inserted reference to Eniwetok Atoll, Kwaj
 
 Subsec. (a)(2). Pub. L. 87–30, §9, inserted conditional provision, including subclauses (i) to (iv).
 
-Subsec. (a)(5). Pub. L. 87–30, §9, inserted "propagating" and "or in the first processing, canning orpacking such marine products at sea as an incident to, or in conjunction with, such fishing operations" after "taking" and "life", respectively, and substituted "loading and unloading when performed by any such employee" for "including employment in the loading, unloading, or packing of such products for shipment or in propagating, processing (other than canning), marketing, freezing, curing, storing, or distributing the above products or byproducts thereof". See subsec. (b)(4) of this section.
+Subsec. (a)(5). Pub. L. 87–30, §9, inserted "propagating" and "or in the first processing, canning or packing such marine products at sea as an incident to, or in conjunction with, such fishing operations" after "taking" and "life", respectively, and substituted "loading and unloading when performed by any such employee" for "including employment in the loading, unloading, or packing of such products for shipment or in propagating, processing (other than canning), marketing, freezing, curing, storing, or distributing the above products or byproducts thereof". See subsec. (b)(4) of this section.
 
 Subsec. (a)(7). Pub. L. 87–30, §9, substituted "Secretary" for "Administrator".
 
@@ -686,9 +686,9 @@ Act Aug. 3, 1956, ch. 905, §3, 70 Stat. 958, provided that: "Section 13(b)(1) o
 
 #### Transfer of Functions
 
-Functions vested by law (including reorganization plans) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
+Functions vested by law (including reorganization plans) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff.July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970 redesignated Bureau of the Budget as Office of Management and Budget.
 
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate,see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Actual stamp
 
-&emsp;The term "actual stamp" means a Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 (16 U.S.C. 718a et seq.) (popularly known as the "Duck Stamp Act"), that is printed on paper and sold through the means established by the authority of the Secretary immediately before December 18, 2014.
+&emsp;The term "actual stamp" means a Federal migratory-bird hunting and conservationstamp required under the Act of March 16, 1934 (16 U.S.C. 718a et seq.) (popularly known as the "Duck Stamp Act"), that is printed on paper and sold through the means established by the authority of the Secretary immediately before December 18, 2014.
 
 #### (2) Automated licensing system
 

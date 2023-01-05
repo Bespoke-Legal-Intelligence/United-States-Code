@@ -6,7 +6,7 @@ Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to
 
 #### (b) Regulations
 
-Not later than 60 days after January 8, 2002, the Secretary shall prescribe regulations to carry out this section. Such regulations shall provide for—
+Not later than 60 days after January 8, 2002, the Secretary shall prescribe regulations tocarry out this section. Such regulations shall provide for—
 
 &emsp;(1) the establishment of education positions;
 
@@ -58,7 +58,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;In prescribing regulations to govern the appointment of educators, the Secretary shall require—
 
-&emsp;&emsp;(A)(i)(I) that educators employed in a Bureau school (other than the supervisor of theschool) shall be hired by the supervisor of the school; and
+&emsp;&emsp;(A)(i)(I) that educators employed in a Bureau school (other than the supervisor of the school) shall be hired by the supervisor of the school; and
 
 &emsp;&emsp;(II) in a case in which there are no qualified applicants available to fill a vacancy at a Bureau school, the supervisor may consult a list maintained pursuant to subsection (c)(1)(A);
 
@@ -128,7 +128,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (ii) Action by board
 
-&emsp;&emsp;&emsp;A copy of such statement shall be submitted to the local school board and suchboard shall be afforded an opportunity to respond, in writing, to such appeal.
+&emsp;&emsp;&emsp;A copy of such statement shall be submitted to the local school board and such board shall be afforded an opportunity to respond, in writing, to such appeal.
 
 #### (iii) Overturning of determination
 
@@ -220,7 +220,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (B) No effect on responsibility of Bureau
 
-&emsp;&emsp;This paragraph shall not be construed to relieve the responsibility of the Bureau toissue timely and adequate announcements and advertisements concerning any such personnel action if such action is intended to fill a vacancy (no matter how such vacancy is created).
+&emsp;&emsp;This paragraph shall not be construed to relieve the responsibility of the Bureau to issue timely and adequate announcements and advertisements concerning any such personnel action if such action is intended to fill a vacancy (no matter how such vacancy is created).
 
 #### (2) Definitions
 
@@ -260,7 +260,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall establish the rate of compensation, or annual salary rate, for the positions of teachers and counselors (including dormitory counselors and home-living counselors) at the rate of compensation applicable (on January 8, 2002, and thereafter) for comparable positions in the overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\].
+&emsp;&emsp;&emsp;The Secretary shall establish the rate of compensation, or annual salary rate, for the positions of teachers and counselors (including dormitory counselors and home-living counselors) at the rate of compensation applicable (on January 8, 2002, and thereafter) for comparable positions in theoverseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\].
 
 #### (ii) Essential provisions
 
@@ -294,7 +294,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;&emsp;(i) preclude the use of regulations and procedures used by the Bureau prior to April 28, 1988, in making determinations regarding promotions and advancements through levels of pay that are based on the merit, education, experience, or tenure of the educator; or
 
-&emsp;&emsp;&emsp;(ii) affect the continued employment or compensation of an educator who was employed in an education position on October 31, 1979, and who did not make an electionunder subsection (p) <sup>3</sup> as in effect on January 1, 1990.
+&emsp;&emsp;&emsp;(ii) affect the continued employment or compensation of an educator who was employed in an education position on October 31, 1979, and who did not make an election under subsection (p) <sup>3</sup> as in effect on January 1, 1990.
 
 #### (2) Post differential rates
 
@@ -328,7 +328,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 &emsp;&emsp;&emsp;&emsp;(I) the local school board requests that such differential be discontinued or decreased; or
 
-&emsp;&emsp;&emsp;&emsp;(II) the Secretary or the supervisor, respectively, determines for clear and convincing reasons (and advises the board in writing of those reasons) that there is no disparity of compensation that would affect the recruitment or retention of employees at the school after the differential is discontinued or decreased.
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary or the supervisor, respectively, determines for clear and convincing reasons (and advises the board in writing of those reasons) that there is nodisparity of compensation that would affect the recruitment or retention of employees at the school after the differential is discontinued or decreased.
 
 #### (v) Reports
 
@@ -464,7 +464,7 @@ This section shall apply with respect to any educator hired after November 1, 19
 
 &emsp;An educator who was employed in an education position on October 31, 1979, who was eligible to make an election under subsection (p) <sup>3</sup> at that time, and who did not make the election under such subsection, may not be placed on furlough (within the meaning of section 7511(a)(5) of title 5,<sup>5</sup> without the consent of such educator for an aggregate of more than 4 weeks within the same calendar year, unless—
 
-&emsp;&emsp;(A) the supervisor, with the approval of the local school board (or of the educationline officer upon appeal under paragraph (2)), of the Bureau school at which such educator provides services determines that a longer period of furlough is necessary due to an insufficient amount of funds available for personnel compensation at such school, as determined under the financial plan process as determined under section 2009(b) <sup>6</sup> of this title; and
+&emsp;&emsp;(A) the supervisor, with the approval of the local school board (or of the education line officer upon appeal under paragraph (2)), of the Bureau school at which such educator provides services determines that a longer period of furlough is necessary due to an insufficient amount of funds available for personnel compensation at such school, as determined under the financial plan process as determined under section 2009(b) <sup>6</sup> of this title; and
 
 &emsp;&emsp;(B) all educators (other than principals and clerical employees) providing services at such Bureau school are placed on furloughs of equal length, except that the supervisor, with the approval of the local school board (or of the agency education line officer upon appeal under paragraph (2)), may continue one or more educators in pay status if—
 
@@ -488,7 +488,7 @@ The Secretary is authorized to provide annual stipends to teachers who become ce
 
 The General Schedule, referred to in subsec. (g)(1)(A)(i), is set out under section 5332 of Title 5, Government Organization and Employees.
 
-The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (g)(1)(B), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, as amended, which is classified generally to chapter 25 (§901 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 901 of Title 20 and Tables.
+The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (g)(1)(B), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, which is classified generally to chapter 25 (§901 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 901 of Title 20 and Tables.
 
 Subsection (p), referred to in subsecs. (g)(1)(D)(ii) and (q)(1), probably should be a reference to subsec. (o) of prior section 1131 of Pub. L. 95–561 which was classified to section 2011 of this title prior to the general amendment of this chapter by Pub. L. 103–382. See Prior Provisions note set out under section 2011 of this title.
 
@@ -512,7 +512,7 @@ Similar provisions were contained in the following prior appropriation act:
 
 Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–171; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
-Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1555, provided in part: "That beginning in fiscal year 1998 and thereafter and notwithstanding \[former\] 25 U.S.C. 2012(h)(1)(B) \[see now 25 U.S.C. 2012(g)(1)(B)\], when the rates of basic compensation for teachers and counselors at Bureau-operated schools are established at the rates of basic compensation applicable to comparable positions in overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20U.S.C. 901 et seq.\], such rates shall become effective with the start of the next academic year following the issuance of the Department of Defense salary schedule and shall not be effected retroactively".
+Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1555, provided in part: "That beginning in fiscal year 1998 and thereafter and notwithstanding \[former\] 25 U.S.C. 2012(h)(1)(B) \[see now 25 U.S.C. 2012(g)(1)(B)\], when the rates of basic compensation for teachers and counselors at Bureau-operated schools are established at the rates of basic compensation applicable to comparable positions in overseas schools under the Defense Department Overseas Teachers Pay and Personnel Practices Act \[20 U.S.C. 901 et seq.\], such rates shall become effective with the start of the next academic year following the issuance of the Department of Defense salary schedule and shall not be effected retroactively".
 
 Similar provisions were contained in the following prior appropriation act:
 

@@ -56,7 +56,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;On October 1, 2012, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection $10,000,000, to remain available until expended.
+&emsp;&emsp;On October 1, 2012, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer tothe Secretary to carry out this subsection $10,000,000, to remain available until expended.
 
 #### (B) Receipt and acceptance
 
@@ -96,7 +96,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In carrying out this subsection, the Secretary may enter into competitivelyawarded contracts or cooperative agreements with, or provide grants to, public or private organizations or agencies (as determined by the Secretary), for use in accordance with demonstration projects that meet the purposes of this subsection.
+&emsp;&emsp;&emsp;In carrying out this subsection, the Secretary may enter into competitively awarded contracts or cooperative agreements with, or provide grants to, public or private organizations or agencies (as determined by the Secretary), for use in accordance with demonstration projects that meet the purposes of this subsection.
 
 #### (ii) Requirement
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) describes the manner in which Federal nutrition programs can help to overcome child hunger nutrition problems on Indian reservations; and
 
-&emsp;&emsp;&emsp;&emsp;(II) contains proposed administrative and legislative recommendations tostrengthen and streamline all relevant Department of Agriculture nutrition programs to reduce childhood hunger, obesity, and type 2 diabetes on Indian reservations.
+&emsp;&emsp;&emsp;&emsp;(II) contains proposed administrative and legislative recommendations to strengthen and streamline all relevant Department of Agriculture nutrition programs to reduce childhood hunger, obesity, and type 2 diabetes on Indian reservations.
 
 #### (D) Limitations
 
@@ -226,7 +226,7 @@ A prior section 1769d, act June 4, 1946, ch. 281, §23, as added Nov. 10, 1989, 
 
 #### Effective Date
 
-Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as an Effective Date of 2010 Amendment note under section 1751 of this title.
+Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, setout as an Effective Date of 2010 Amendment note under section 1751 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) The expected or actual duration of treatment with the drug.
 
-&emsp;&emsp;(E) The seriousness of any known or potential adverse events that may be related tothe drug and the background incidence of such events in the population likely to use the drug.
+&emsp;&emsp;(E) The seriousness of any known or potential adverse events that may be related to the drug and the background incidence of such events in the population likely to use the drug.
 
 &emsp;&emsp;(F) Whether the drug is a new molecular entity.
 
@@ -148,7 +148,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;The risk evaluation and mitigation strategy for a drug may require that, as applicable, the responsible person develop for distribution to each patient when the drug is dispensed—
 
-&emsp;&emsp;(A) a Medication Guide, as provided for under part 208 of title 21, Code of Federal Regulations (or any successor regulations); and
+&emsp;&emsp;(A) a Medication Guide, as provided for under part 208 of title 21, Code of FederalRegulations (or any successor regulations); and
 
 &emsp;&emsp;(B) a patient package insert, if the Secretary determines that such insert may help mitigate a serious risk of the drug.
 
@@ -170,7 +170,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;(A) the drug be made available for dispensing to certain patients in unit dose packaging, packaging that provides a set duration, or another packaging system that the Secretary determines may mitigate such serious risk; or
 
-&emsp;&emsp;(B) the drug be dispensed to certain patients with a safe disposal packaging or safe disposal system for purposes of rendering drugs nonretrievable (as defined in section 1300.05 of title 21, Code of Federal Regulations (or any successor regulation)) if the Secretary determines that such safe disposal packaging or system may mitigate such serious risk and is sufficiently available.
+&emsp;&emsp;(B) the drug be dispensed to certain patients with a safe disposal packaging or safe disposal system if the Secretary determines that such safe disposal packaging or system may mitigate such serious risk and is sufficiently available.
 
 #### (f) Providing safe access for patients to drugs with known serious risks that would otherwise be unavailable
 
@@ -236,7 +236,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;&emsp;(i) unduly burdensome on patient access to the drug; and
 
-&emsp;&emsp;&emsp;(ii) to the extent practicable, minimize the burden on the health care delivery system;
+&emsp;&emsp;&emsp;(ii) to the extent practicable, minimize <sup>2</sup> the burden on the health care delivery system;
 
 &emsp;&emsp;(B) periodically evaluate, for 1 or more drugs, the elements to assure safe use of such drug to assess whether the elements—
 
@@ -254,7 +254,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (6) Additional mechanisms to assure access
 
-&emsp;The mechanisms under section 360bbb of this title to provide for expanded access for patients with serious or life-threatening diseases or conditions may be used to provide access for patients with a serious or life-threatening disease or condition, the treatment of which is not an approved use for the drug, to a drugthat is subject to elements to assure safe use under this subsection. The Secretary shall promulgate regulations for how a physician may provide the drug under the mechanisms of section 360bbb of this title.
+&emsp;The mechanisms under section 360bbb of this title to provide for expanded access for patients with serious or life-threatening diseases or conditions may be used to provide access for patients with a serious or life-threatening disease or condition, the treatment of which is not an approved use for the drug, to a drug that is subject to elements to assure safe use under this subsection. The Secretary shall promulgate regulations for how a physician may provide the drug under the mechanisms of section 360bbb of this title.
 
 #### (7) Repealed. Pub. L. 113–5, title III, §302(c)(1), Mar. 13, 2013, 127 Stat. 185
 
@@ -322,7 +322,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (iii) REMS modification due to safety labeling changes
 
-&emsp;&emsp;&emsp;Not later than 60 days after the Secretary receives a proposed modification toan approved risk evaluation and mitigation strategy to conform the strategy to approved safety labeling changes, including safety labeling changes initiated by the responsible person in accordance with FDA regulatory requirements, or to a safety labeling change that the Secretary has directed the holder of the application to make pursuant to section 355(o)(4) of this title, the Secretary shall review and act on such proposed modification to the approved strategy.
+&emsp;&emsp;&emsp;Not later than 60 days after the Secretary receives a proposed modification to an approved risk evaluation and mitigation strategy to conform the strategy to approved safety labeling changes, including safety labeling changes initiated by the responsible person in accordance with FDA regulatory requirements, or to a safety labeling change that the Secretary has directed the holder of the application to make pursuant to section 355(o)(4) of this title, the Secretary shall review and act on such proposed modification to the approved strategy.
 
 #### (iv) Guidance
 
@@ -350,7 +350,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (ii) Scheduling
 
-&emsp;&emsp;&emsp;Upon receipt of a request under clause (i), the Secretary shall schedule the dispute involved for review under subparagraph (B) and, not later than 5 business days of scheduling the dispute for review, shall publish by posting on the Internet or otherwise a notice that the dispute will be reviewed by the Drug Safety Oversight Board.
+&emsp;&emsp;&emsp;Upon receipt of a request under clause (i), the Secretary shall schedule the dispute involved for review under subparagraph (B) and, not later than 5 business days of <sup>3</sup> scheduling the dispute for review, shall publish by posting on the Internet or otherwise a notice that the dispute will be reviewed by the Drug Safety Oversight Board.
 
 #### (B) Scheduling review
 
@@ -384,7 +384,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (F) Recommendation of the Board
 
-&emsp;&emsp;Not later than 5 days after any such meeting, the Drug Safety Oversight Board shallprovide a written recommendation on resolving the dispute to the Secretary. Not later than 5 days after the Board provides such written recommendation to the Secretary, the Secretary shall make the recommendation available to the public.
+&emsp;&emsp;Not later than 5 days after any such meeting, the Drug Safety Oversight Board shall provide a written recommendation on resolving the dispute to the Secretary. Not later than 5 days after the Board provides such written recommendation to the Secretary, the Secretary shall make the recommendation available to the public.
 
 #### (G) Action by the Secretary
 
@@ -448,7 +448,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 &emsp;&emsp;&emsp;(i) 1 or more meetings of the responsible person for such drugs;
 
-&emsp;&emsp;&emsp;(ii) 1 or more meetings of 1 or more advisory committees of the Food and Drug Administration, as provided for under paragraph (6); or
+&emsp;&emsp;&emsp;(ii) 1 or more meetings of 1 or more advisory committees of the Food and Drug Administration, as provided for under paragraph (6); <sup>4</sup> or
 
 &emsp;&emsp;&emsp;(iii) 1 or more workshops of scientific experts and other stakeholders.
 
@@ -500,7 +500,7 @@ For purposes of subsection (c)(1), the risk evaluation and mitigation strategy f
 
 #### (3) Shared REMS
 
-&emsp;If the Secretary approves, in accordance with paragraph (1)(C)(i)(II), a different, comparable aspect of the elements to assure safe use under subsection (f) for a drug that is the subject of an abbreviated new drug application under section 355(j) of this title, the Secretary may require that such different comparable aspect of the elements to assure safe use can be used with respect to any other drug that is the subject of an application under section 355(j) or 355(b) of this title that references the same listed drug.
+&emsp;If the Secretary approves, in accordance with paragraph (1)(C)(i)(II), a different, comparable aspect of the elements to assure safe use under subsection (f) for a drug that is thesubject of an abbreviated new drug application under section 355(j) of this title, the Secretary may require that such different comparable aspect of the elements to assure safe use can be used with respect to any other drug that is the subject of an application under section 355(j) or 355(b) of this title that references the same listed drug.
 
 #### (j) Drug Safety Oversight Board
 
@@ -536,9 +536,9 @@ The provision of samples of a covered product to an eligible product developer (
 
 #### (m) Separate REMS
 
-When used in this section, the term "different, comparable aspect of the elements to assure safeuse" means a risk evaluation and mitigation strategy for a drug that is the subject of an application under section 355(j) of this title that uses different methods or operational means than the strategy required under subsection (a) for the applicable listed drug, or other application under section 355(j) of this title with the same such listed drug, but achieves the same level of safety as such strategy.
+When used in this section, the term "different, comparable aspect of the elements to assure safe use" means a risk evaluation and mitigation strategy for a drug that is the subject of an application under section 355(j) of this title that uses different methods or operational means than the strategy required under subsection (a) for the applicable listed drug, or other application under section 355(j) of this title with the same such listed drug, but achieves the same level of safety as such strategy.
 
-(June 25, 1938, ch. 675, §505–1, as added Pub. L. 110–85, title IX, §901(b), Sept. 27, 2007, 121 Stat. 926; amended Pub. L. 112–144, title XI, §1132(a), (b), July 9, 2012, 126 Stat. 1119, 1120; Pub. L. 113–5, title III, §302(c), Mar. 13, 2013, 127 Stat. 185; Pub. L. 114–255, div. A, title III, §§3075(c), 3101(a)(2)(C), Dec. 13, 2016, 130 Stat. 1139, 1153; Pub. L. 115–52, title VI, §606, Aug. 18, 2017, 131 Stat. 1049; Pub. L. 115–271, title III, §§3032(a)–(c), 3041(a), Oct. 24, 2018, 132 Stat. 3940–3942; Pub. L. 116–94, div. N, title I, §610(d), (f), Dec. 20, 2019, 133 Stat. 3135, 3136.)
+(June 25, 1938, ch. 675, §505–1, as added Pub. L. 110–85, title IX, §901(b), Sept. 27, 2007, 121 Stat. 926; amended Pub. L. 112–144, title XI, §1132(a), (b), July 9, 2012, 126 Stat. 1119, 1120; Pub. L. 113–5, title III, §302(c), Mar. 13, 2013, 127 Stat. 185; Pub. L. 114–255, div. A, title III, §§3075(c), 3101(a)(2)(C), Dec. 13, 2016, 130 Stat. 1139, 1153; Pub. L. 115–52, title VI, §606, Aug. 18, 2017, 131 Stat. 1049; Pub. L. 115–271, title III, §§3032(a)–(c), 3041(a), Oct. 24, 2018, 132 Stat. 3940–3942; Pub. L. 116–94, div. N, title I, §610(d), (f), Dec. 20, 2019, 133 Stat. 3135, 3136; Pub. L. 117–328, div. FF, title III, §3221, Dec. 29, 2022, 136 Stat. 5829.)
 
 #### <b>Editorial Notes</b>
 
@@ -548,7 +548,11 @@ For the effective date of this section, referred to in subsec. (a)(2)(A), see Ef
 
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (h)(3), (4)(C)(i), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
 
+Paragraph (6), referred to in subsec. (h)(6)(C)(ii), was redesignated par. (5) of subsec. (h) of this section by Pub. L. 112–144, title XI, §1132(b)(4), July 9, 2012, 126 Stat. 1120.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(4)(B). Pub. L. 117–328 struck out "for purposes of rendering drugs nonretrievable (as defined in section 1300.05 of title 21, Code of Federal Regulations (or any successor regulation))" before "if the Secretary determines".
 
 <b>2019</b>—Subsec. (g)(4)(B)(iii). Pub. L. 116–94, §610(f)(1), added cl. (iii).
 
@@ -558,7 +562,7 @@ Subsec. (i)(1)(C). Pub. L. 116–94, §610(f)(2), added subpar. (C) and struck o
 
 &emsp;"(ii) an aspect of the elements to assure safe use for the applicable listed drug is claimed by a patent that has not expired or is a method or process that, as a trade secret, is entitled to protection, and the applicant for the abbreviated new drug application certifies that it has sought a license for use of an aspect of the elements to assure safe use for the applicable listed drug and that it was unable to obtain a license.
 
-> A certification under clause (ii) shall include a description of the efforts made by the applicant for the abbreviated new drug application to obtain a license. In a case described in clause (ii), the Secretary may seek to negotiate a voluntary agreement with the owner of the patent, method, or process for a license under which the applicant for such abbreviated new drug application may use an aspect of the elements to assure safe use, if required under subsection (f) for the applicable listed drug, that is claimed by a patent that has not expired or is a method or process that as a trade secret is entitled to protection."
+> A certification under clause (ii) shall include a description of the efforts made by the applicant for the abbreviated new drug application to obtain a license. In a case described in clause (ii), the Secretary may seek to negotiate a voluntary agreement with the owner of the patent, method, or process for a license under which the applicant for such abbreviated new drug applicationmay use an aspect of the elements to assure safe use, if required under subsection (f) for the applicable listed drug, that is claimed by a patent that has not expired or is a method or process that as a trade secret is entitled to protection."
 
 Subsec. (i)(3). Pub. L. 116–94, §610(f)(3), added par. (3).
 
@@ -692,7 +696,13 @@ Pub. L. 114–198, title I, §106(b), July 22, 2016, 130 Stat. 703, provided tha
 
 #### Guidance
 
-Pub. L. 112–144, title XI, §1132(c), July 9, 2012, 126 Stat. 1122, provided that: "Not later than 1 year afterthe date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall issue guidance that, for purposes of section 505–1(h)(2)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1(h)(2)(A)), describes the types of modifications to approved risk evaluation and mitigation strategies that shall be considered to be minor modifications of such strategies."
+Pub. L. 112–144, title XI, §1132(c), July 9, 2012, 126 Stat. 1122, provided that: "Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services shall issue guidance that, for purposes of section 505–1(h)(2)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355–1(h)(2)(A)), describes the types of modifications to approved risk evaluation and mitigation strategies that shall be considered to be minor modifications of such strategies."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. Does not follow from introductory provisions.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
+
+<i><sup>4</sup></i><i> See References in Text note below.</i>
 

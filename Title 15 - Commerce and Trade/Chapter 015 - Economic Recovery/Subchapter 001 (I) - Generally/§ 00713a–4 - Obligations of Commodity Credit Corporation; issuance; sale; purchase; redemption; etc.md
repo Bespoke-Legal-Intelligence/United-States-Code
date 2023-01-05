@@ -8,7 +8,7 @@ With the approval of the Secretary of the Treasury, the Commodity Credit Corpora
 
 #### Codification
 
-"Chapter 31 of title 31" and "such chapter" substituted in text for "the Second Liberty Bond Act, as amended" and "such Act, as amended,", and "chapter91 of title 31" substituted for "the Government Corporation Control Act (31 U.S.C., 1946 edition, sec. 841)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+"Chapter 31 of title 31" and "such chapter" substituted in text for "the Second Liberty Bond Act, as amended" and "such Act, as amended,", and "chapter 91 of title 31" substituted for "the Government Corporation Control Act (31 U.S.C., 1946 edition, sec. 841)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 

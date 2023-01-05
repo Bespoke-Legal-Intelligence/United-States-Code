@@ -10,7 +10,7 @@ As soon as practicable after the date of enactment of this Act, the Secretary ma
 
 The date of enactment of this Act, referred to in text, is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-Titles I and II, referred to in text, are titles I and II of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, 1753,which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of titles I and II to the Code, see Tables.
+Titles I and II, referred to in text, are titles I and II of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, 1753, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of titles I and II to the Code, see Tables.
 
 #### Codification
 

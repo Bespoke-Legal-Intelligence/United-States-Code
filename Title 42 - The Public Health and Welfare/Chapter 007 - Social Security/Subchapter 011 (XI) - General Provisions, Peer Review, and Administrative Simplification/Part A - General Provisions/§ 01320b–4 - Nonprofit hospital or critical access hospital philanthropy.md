@@ -2,7 +2,7 @@
 
 For purposes of determining, under subchapters XVIII and XIX of this chapter, the reasonable costs of services provided by nonprofit hospitals or critical access hospitals, the following items shall not be deducted from the operating costs of such hospitals or critical access hospitals:
 
-&emsp;(1) A grant, gift, or endowment, or income therefrom, which is to or for such a hospitaland which has not been designated by the donor for paying any specific operating costs.
+&emsp;(1) A grant, gift, or endowment, or income therefrom, which is to or for such a hospital and which has not been designated by the donor for paying any specific operating costs.
 
 &emsp;(2) A grant or similar payment which is to such a hospital, which was made by a governmental entity, and which is not available under the terms of the grant or payment for use as operating funds.
 

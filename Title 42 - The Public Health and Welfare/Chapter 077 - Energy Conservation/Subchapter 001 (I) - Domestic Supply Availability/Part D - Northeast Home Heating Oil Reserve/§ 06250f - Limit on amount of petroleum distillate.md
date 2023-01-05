@@ -8,5 +8,5 @@ Notwithstanding section 6250 of this title, for fiscal year 2012 and hereafter, 
 
 #### Codification
 
-Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act,2012, and also as part of the Consolidated Appropriations Act, 2012, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
+Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2012, and also as part of the Consolidated Appropriations Act, 2012, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
 

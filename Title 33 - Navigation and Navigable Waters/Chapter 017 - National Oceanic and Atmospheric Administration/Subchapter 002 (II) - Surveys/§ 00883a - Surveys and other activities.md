@@ -22,6 +22,30 @@ To provide charts and related information for the safe navigation of marine and 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Continuous Plankton Recorder Survey
+
+Pub. L. 117–328, div. JJ, title III, §301, Dec. 29, 2022, 136 Stat. 6092, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Dec. 29, 2022\], and on an ongoing basis thereafter, the Secretary of Commerce shall conduct a Continuous Plankton Recorder survey.
+
+"(b)
+
+Required Elements.—For the purpose of conducting the survey required under subsection (a), the Northeast Fisheries Science Center shall—
+
+&emsp;"(1) to the extent possible, utilize the resources of and partner with, on a volunteer basis, research institutions, nonprofit organizations, commercial vessels, and other Federal agencies;
+
+&emsp;"(2) in as short a time as possible, ensure relevant survey samples and results are analyzed, stored, archived, and made publicly available;
+
+&emsp;"(3) prioritize the collection of plankton samples and data that inform the conservation of North Atlantic right whales; and
+
+&emsp;"(4) to the extent practicable, coordinate with the Government of Canada to develop a transboundary understanding of plankton abundance and distribution.
+
+"(c)
+
+Authorization of Appropriations.—To carry out this section there is authorized to be appropriated to the Secretary of Commerce $300,000 for each of fiscal years 2023 through 2032, which shall be derived from existing funds otherwise appropriated to the Secretary."
+
 #### Great Lakes Environmental Sensitivity Index
 
 Pub. L. 116–274, Dec. 31, 2020, 134 Stat. 3356, provided that:
@@ -82,7 +106,7 @@ Preparation of Plan.—Not later than nine months after the date of the enactmen
 
 Content of Plan.—A plan prepared under paragraph (1) shall include—
 
-&emsp;"(1) a work proposal and a division of responsibilities between the National Oceanic and Atmospheric Administration and the United States Geological Survey;
+&emsp;"(1) a work proposal and a division of responsibilities between the National Oceanic and AtmosphericAdministration and the United States Geological Survey;
 
 &emsp;"(2) a time schedule for completion of maps;
 
@@ -180,5 +204,5 @@ Functions of Secretary and other officers of Department of Commerce under sectio
 
 #### Transfer of Functions
 
-Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated withWeather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. For further details, see note set out under section 851 of this title.
+Office of Director of Coast and Geodetic Survey abolished and Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency in Department of Commerce to be known as Environmental Science Services Administration, by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out as a note under section 851 of this title. The Reorg. Plan also transferred to Secretary of Commerce all functions of Coast and Geodetic Survey and Director. For further details, see note set out under section 851 of this title.
 

@@ -62,7 +62,7 @@ If it appears to the Commissioner of Social Security that an individual may be e
 
 #### (g) Proportionate reduction; application of excess
 
-Whenever a reduction in the total of benefits for any month based on an individual's wagesand self-employment income is made under this section, each benefit, except the disability insurance benefit, shall first be proportionately decreased, and any excess of such reduction over the sum of all such benefits other than the disability insurance benefits shall then be applied to such disability insurance benefit.
+Whenever a reduction in the total of benefits for any month based on an individual's wages and self-employment income is made under this section, each benefit, except the disability insurance benefit, shall first be proportionately decreased, and any excess of such reduction over the sum of all such benefits other than the disability insurance benefits shall then be applied to such disability insurance benefit.
 
 #### (h) Furnishing of information
 
@@ -116,7 +116,7 @@ Subsec. (a)(2)(B). Pub. L. 99–509 substituted "section 418(g)" for "section 41
 
 Pub. L. 99–272, §12109(a)(2), substituted "all or substantially all of which" for "all or part of which" in cl. (iv).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2208(a)(2)–(4), in provision preceding par. (1) substituted "age of 65" for "age of 62", in par. (2) inserted provisions includingperiodic benefits under any other law or plan of the United States, a State, a political subdivision, or an instrumentality of two or more States and excluding specified benefits and struck out provision requiring that the Secretary receive notice, in a prior month, of the entitlement for such month, and in par. (4) substituted "such laws or plans" for "the workmen's compensation law or plan".
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §2208(a)(2)–(4), in provision preceding par. (1) substituted "age of 65" for "age of 62", in par. (2) inserted provisions including periodic benefits under any other law or plan of the United States, a State, a political subdivision, or an instrumentality of two or more States and excluding specified benefits and struck out provision requiring that the Secretary receive notice, in a prior month, of the entitlement for such month, and in par. (4) substituted "such laws or plans" for "the workmen's compensation law or plan".
 
 Subsec. (b). Pub. L. 97–35, §2208(a)(5), substituted "for a total or partial disability under a law or plan described in subsection (a)(2)" for "under a workmen's compensation law or plan".
 

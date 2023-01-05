@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Sell Outside DOD.—Regulations under section 2208(h) of this title shall authorize a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof to sell manufactured articles or services to a person outside the Department of Defense if—
+Authority To Sell Outside DOD.—Regulations under section 2208(h) of this title shallauthorize a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof to sell manufactured articles or services to a person outside the Department of Defense if—
 
 &emsp;(1) in the case of an article, the article is sold to a United States manufacturer, assembler, developer, or other concern—
 

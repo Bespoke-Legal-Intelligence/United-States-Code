@@ -130,7 +130,7 @@ For the purpose of subsections (a) and (c), the principal outstanding on all loa
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (D), pay to each insured System bank, in a manner determined by the Corporation, an amount equal to the balance in the Allocated Insurance Reserves Account of the System bank; and
 
-&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determined by dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporation stock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).
+&emsp;&emsp;&emsp;(ii) subject to subparagraphs (C) and (E), pay to each System bank and association holding Financial Assistance Corporation stock a proportionate share, determined by dividing the number of shares of Financial Assistance Corporation stock held by the institution by the total number of shares of Financial Assistance Corporationstock outstanding at the time of the termination of the Financial Assistance Corporation, of the balance in the Allocated Insurance Reserves Account established under paragraph (1)(B).
 
 #### (B) Authority to eliminate or reduce payments
 
@@ -152,7 +152,7 @@ For the purpose of subsections (a) and (c), the principal outstanding on all loa
 
 #### (D) Distribution of payments received
 
-&emsp;&emsp;Not later than 60 days after receipt of a payment made under subparagraph (A)(i), each insured System bank, in consultation with affiliated associations of the insured System bank, and taking into account thedirect or indirect payment of insurance premiums by the associations, shall develop and implement an equitable plan to distribute payments received under subparagraph (A)(i) among the bank and associations of the bank.
+&emsp;&emsp;Not later than 60 days after receipt of a payment made under subparagraph (A)(i), each insured System bank, in consultation with affiliated associations of the insured System bank, and taking into account the direct or indirect payment of insurance premiums by the associations, shall develop and implement an equitable plan to distribute payments received under subparagraph (A)(i) among the bank and associations of the bank.
 
 #### (E) Exception for previously reimbursed associations
 
@@ -254,7 +254,7 @@ Amendment by Pub. L. 107–171 applicable with respect to determinations of prem
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm Credit System Insurance Corporation under this chapter on or after Jan. 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and effective for the calculation of the initial premium payment required under section 2277a–5(c) of this title, see section 6(c) of Pub. L. 101–220, set out as a note under section 2020 of this title.
+Amendment by Pub. L. 101–220 effective for insurance premiums due to the Farm Credit System InsuranceCorporation under this chapter on or after Jan. 1, 1990, based on the loan volume of each bank for each calendar year beginning with calendar year 1989, and effective for the calculation of the initial premium payment required under section 2277a–5(c) of this title, see section 6(c) of Pub. L. 101–220, set out as a note under section 2020 of this title.
 
 #### Effective Date of 1988 Amendment
 

@@ -138,7 +138,7 @@ Out of amounts appropriated to carry out this subsection for a fiscal year, the 
 
 #### (A) In general
 
-&emsp;&emsp;Not later than July 1, 2019, and annually thereafter, the Secretary shall prepare andsubmit a report in accordance with this paragraph.
+&emsp;&emsp;Not later than July 1, 2019, and annually thereafter, the Secretary shall prepare and submit a report in accordance with this paragraph.
 
 #### (B) Contents
 

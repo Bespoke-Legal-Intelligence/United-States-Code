@@ -60,7 +60,7 @@ Pub. L. 103–345, §1, Oct. 6, 1994, 108 Stat. 3128, provided that: "This Act \
 
 #### Civil Rights Cold Case Records Collection
 
-Pub. L. 115–426, Jan. 8, 2019, 132 Stat. 5489, provided that:
+Pub. L. 115–426, Jan. 8, 2019, 132 Stat. 5489; as amended by Pub. L. 117–222, §2, Dec. 5, 2022, 136 Stat. 2279, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -222,7 +222,7 @@ Transmission to the National Archives.—
 
 In general.—Subject to paragraph (2), each Government office shall, in accordance with the criteria established by the Archivist under subsection (a)(1)(C)—
 
-&emsp;&emsp;"(A) as soon as is reasonably practicable, and in any event not later than 2 years after the date of the enactment of this Act, transmit to the Archivist, for the Archivist to make available to the public in accordance with subsection (b), a copy of each civil rights cold case record that can be publicly disclosed, including any such record that is publicly available on the date of enactment of this Act, without any redaction, adjustment, or withholding under the standards of this Act; and
+&emsp;&emsp;"(A) as soon as is reasonably practicable, and in any event not later than 2 years after the date of the enactment of this Act, transmit to the Archivist, for the Archivist to make available to the public in accordance with subsection (b), a copy of eachcivil rights cold case record that can be publicly disclosed, including any such record that is publicly available on the date of enactment of this Act, without any redaction, adjustment, or withholding under the standards of this Act; and
 
 &emsp;&emsp;"(B) transmit to the Archivist upon approval for postponement by the Review Board or upon completion of other action authorized by this Act, a copy of each civil rights cold case record for which public disclosure has been postponed, in whole or in part, under the standards of this Act, to become part of the protected Collection.
 
@@ -252,7 +252,7 @@ Requirements of periodic review.—The periodic review under paragraph (1) shall
 
 &emsp;"(3)
 
-Unclassified written description.—Any civil rights cold case record for which postponement of public disclosure is continued shall include an unclassified written description of the reason for such continued postponement, which shall be provided to the Archivist and made available on a publicly accessiblewebsite upon the determination to continue the postponement.
+Unclassified written description.—Any civil rights cold case record for which postponement of public disclosure is continued shall include an unclassified written description of the reason for such continued postponement, which shall be provided to the Archivist and made available on a publicly accessible website upon the determination to continue the postponement.
 
 &emsp;"(4)
 
@@ -334,7 +334,7 @@ Appointment.—
 
 &emsp;"(1)
 
-In general.—The President shall appoint, by and with the advice and consent of the Senate, 5 individuals to serve as members of the Review Board, to ensure and facilitate the review, transmission to the Archivist, and public disclosure of civil rights cold case records.
+In general.—The President shall appoint, by and with the advice and consent of the Senate, 5 individuals to serve as members of the Review Board, to ensure and facilitate the review, transmission to theArchivist, and public disclosure of civil rights cold case records.
 
 &emsp;"(2)
 
@@ -496,7 +496,7 @@ Termination.—
 
 &emsp;"(1)
 
-In general.—The Review Board shall terminate not later than 4 years after the date of enactment of this Act, except that the Review Board may, by majority vote, extend its term for an additional 1-year period if the Review Board has not completed its work within that 4-year period.
+In general.—The Review Board shall terminate not later than 7 years after the date of enactment of this Act, except that the Review Board may, by majority vote, extend its term for an additional 1-year period if the Review Board has not completed its work within that 7-year period.
 
 &emsp;"(2)
 
@@ -788,7 +788,7 @@ Maintenance.—Any database established under this section shall be maintained b
 
 #### President John F. Kennedy Assassination Records Collection
 
-Pub. L. 102–526, Oct. 26, 1992, 106 Stat. 3443, as amended by Pub. L. 103–345, §§2–5, Oct. 6, 1994, 108 Stat. 3128–3130; Pub. L. 105–25, §1, July 3, 1997, 111 Stat. 240; Pub. L. 109–313, §2(c)(1), Oct. 6, 2006, 120 Stat. 1735, provided that:
+Pub. L. 102–526, Oct. 26, 1992, 106 Stat. 3443, as amended by Pub. L. 103–345, §§2–5, Oct. 6, 1994, 108 Stat. 3128–3130; Pub. L. 105–25, §1, July 3, 1997, 111 Stat. 240; Pub. L. 109–313, §2(c)(1), Oct. 6, 2006, 120 Stat. 1735; Pub. L. 117–286, §4(a)(286), Dec. 27, 2022, 136 Stat. 4337, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -852,7 +852,7 @@ Purposes.—The purposes of this Act are—
 
 &emsp;&emsp;"(K) any other office of the Federal Government; and
 
-&emsp;&emsp;"(L) any State or local law enforcement office that provided support or assistance or performed work in connection with a Federal inquiry into the assassination of President John F. Kennedy,
+&emsp;&emsp;"(L) any State or local law enforcement office that provided support or assistance or performedwork in connection with a Federal inquiry into the assassination of President John F. Kennedy,
 
 > &emsp;but does not include the autopsy records donated by the Kennedy family to the National Archives pursuant to a deed of gift regulating access to those records, or copies and reproductions made from such records.
 
@@ -978,7 +978,7 @@ Review.—(1) Not later than 300 days after the date of enactment of this Act \[
 
 &emsp;&emsp;"(i) the identification, review, and transmission of all assassination records publicly available or disclosed as of the date of enactment of this Act in a redacted or edited form; and
 
-&emsp;&emsp;"(ii) the identification, review, and transmission, under the standards for postponement set forth inthis Act, of assassination records that on the date of enactment of this Act are the subject of litigation under section 552 of title 5, United States Code; and
+&emsp;&emsp;"(ii) the identification, review, and transmission, under the standards for postponement set forth in this Act, of assassination records that on the date of enactment of this Act are the subject of litigation under section 552 of title 5, United States Code; and
 
 &emsp;"(H) make available to the Review Board any additional information and records that the Review Board has reason to believe it requires for conducting a review under this Act.
 
@@ -1064,7 +1064,7 @@ Establishment.—There is established as an independent agency a board to be kno
 
 "(b)
 
-Appointment.—(1) The President, by and with the advice and consent of the Senate, shall appoint,without regard to political affiliation, 5 citizens to serve as members of the Review Board to ensure and facilitate the review, transmission to the Archivist, and public disclosure of Government records related to the assassination of President John F. Kennedy.
+Appointment.—(1) The President, by and with the advice and consent of the Senate, shall appoint, without regard to political affiliation, 5 citizens to serve as members of the Review Board to ensure and facilitate the review, transmission to the Archivist, and public disclosure of Government records related to the assassination of President John F. Kennedy.
 
 "(2) The President shall make nominations to the Review Board not later than 90 calendar days after the date of enactment of this Act \[Oct. 26, 1992\].
 
@@ -1240,7 +1240,7 @@ Compensation.—Subject to such rules as may be adopted by the Review Board, the
 
 Advisory Committees.—(1) The Review Board shall have the authority to create advisory committees to assist in fulfilling the responsibilities of the Review Board under this Act.
 
-"(2) Any advisory committee created by the Review Board shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+"(2) Any advisory committee created by the Review Board shall be subject to chapter 10 of title 5, United States Code.
 
 "(e)
 
@@ -1312,7 +1312,7 @@ Record of presidential postponement.—The Review Board shall, upon its receipt,
 
 "(e)
 
-Notice to Public.—Every 30 calendar days, beginning on the date that is 60 calendar days after the date on which the Review Board first approves the postponement of disclosure of an assassination record, the Review Board shall publish in the Federal Register a notice that summarizes the postponements approved by the Review Board or initiated by the President, the House of Representatives, or the Senate, including a description of the subject, originating agency, length or other physical description, and each ground for postponement that is relied upon.
+Notice to Public.—Every 30 calendar days, beginning on the date that is 60 calendar days after the date on which the Review Board first approves the postponement of disclosure of an assassination record, the Review Board shall publish in the Federal Registera notice that summarizes the postponements approved by the Review Board or initiated by the President, the House of Representatives, or the Senate, including a description of the subject, originating agency, length or other physical description, and each ground for postponement that is relied upon.
 
 "(f)
 
@@ -1408,7 +1408,7 @@ Interim Funding.—Until such time as funds are appropriated pursuant to subsect
 
 #### "SEC. 14. SEVERABILITY.
 
-"If any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of this Act and the application of that provision to other persons not similarly situated or to other circumstances shall not be affected by the invalidation."
+"If any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of this Act and the application of that provision to other persons not similarly situated or to othercircumstances shall not be affected by the invalidation."
 
 \[Postponement of records from full public disclosure under section 5(g)(2)(D) of Pub. L. 102–526, set out above, continued until Oct. 26, 2021, by Memorandum of President of the United States, Oct. 26, 2017, 82 F.R. 50307; Memorandum of President of the United States, Apr. 26, 2018, 83 F.R. 19157.\]
 
@@ -1448,7 +1448,7 @@ Sec. 5. <i>Intensive 1-Year Review</i>. (a) Over the next year, agencies proposi
 
 (ii) an unclassified index identifying for each such record the reasons for which the agency is proposing continued postponement of information in such record; and
 
-(iii) a specific proposed date identifying for each such record when the agency reasonably anticipates that continued postponement of information in such record no longer would be necessary or, if that is not possible, a specific proposed date for each such record identifying when the agency would propose to next review again after December 15, 2022, whether the information proposed for continued postponement in such record still satisfies the statutory standard for postponement.
+(iii) a specific proposed date identifying for each such record when the agency reasonably anticipates thatcontinued postponement of information in such record no longer would be necessary or, if that is not possible, a specific proposed date for each such record identifying when the agency would propose to next review again after December 15, 2022, whether the information proposed for continued postponement in such record still satisfies the statutory standard for postponement.
 
 (d) NARA shall review each proposed redaction, no later than September 1, 2022, in consultation with:
 
@@ -1470,7 +1470,7 @@ Sec. 5. <i>Intensive 1-Year Review</i>. (a) Over the next year, agencies proposi
 
 (g) If NARA agrees that a proposed redaction meets the asserted statutory standard for continued postponement, the Archivist shall recommend to the President, no later than October 1, 2022, that continued postponement from public disclosure of the information is warranted after December 15, 2022.
 
-(h) At the conclusion of the 1-year review, any information still withheld from public disclosure that agencies do not propose for continued postponement beyondDecember 15, 2022, shall be released to the public on that date.
+(h) At the conclusion of the 1-year review, any information still withheld from public disclosure that agencies do not propose for continued postponement beyond December 15, 2022, shall be released to the public on that date.
 
 (i) At the conclusion of the 1-year review, each unclassified letter described in subsection (c)(i) of this section and each unclassified index described in subsection (c)(ii) of this section shall be disclosed to the public on December 15, 2022, with any updates made to account for any information initially proposed for continued postponement that is not postponed from public disclosure beyond December 15, 2022.
 
@@ -1481,6 +1481,52 @@ Sec. 6. <i>Digitization and Democratization of Records</i>. (a) Since the 1990s,
 (c) The Archivist shall provide additional context online about the records that have been withheld in full under sections 10 and 11 of the Act—primarily documents containing tax-related information of the Internal Revenue Service or the Social Security Administration—that are not subject to the Presidential certification requirement under section 5 of the Act.
 
 Sec. 7. <i>Publication</i>. The Archivist is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Certifications Regarding Disclosure of Information in Certain Records Related to the Assassination of President John F. Kennedy
+
+Memorandum of President of the United States, Dec. 15, 2022, 87 F.R. 77967, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Section 1. <i>Policy</i>. As set forth in the Presidential Memorandum of October 22, 2021 (Temporary Certification Regarding Disclosure of Information in Certain Records Related to the Assassination of President John F. Kennedy) (2021 Memorandum) \[set out above\], in the President John F. Kennedy Assassination Records Collection Act of 1992 \[Pub. L. 102–526\] (44 U.S.C. 2107 note) (the "Act"), the Congress declared that "all Government records concerning the assassination of President John F. Kennedy . . . should be eventually disclosed to enable the public to become fully informed about the history surrounding the assassination." The Congress also found that "most of the records related to the assassination of President John F. Kennedy are almost 30 years old, and only in the rarest cases is there any legitimate need for continued protection of such records." In the 30 years since the Act became law, the profound national tragedy of President Kennedy's assassination continues to resonate in American history and in the memories of so many Americans who were alive on that terrible day; meanwhile, the need to protect records concerning the assassination has weakened with the passage of time. It is therefore critical to ensure that the United States Government maximizes transparency by disclosing all information in records concerning the assassination, except when the strongest possible reasons counsel otherwise.
+
+Sec. 2. <i>Background</i>. (a) The Act permits the continued postponement of disclosure of information in records concerning President Kennedy's assassination only when postponement remains necessary to protect against an identifiable harm to the military defense, intelligence operations, law enforcement, or the conduct of foreign relations that is of such gravity that it outweighs the public interest in disclosure. Since 2018, executive departments and agencies (agencies) have been reviewing under this statutory standard each redaction they have proposed that would result in the continued postponement of full public disclosure, with the National Archives and Records Administration (NARA) reviewing whether it agrees that each redaction continues to meet the statutory standard. In my 2021 Memorandum, the Archivist of the United States (Archivist) explained that the COVID-19 pandemic had a significant impact on the ability of agencies, including NARA, to conduct this review and comprehensive engagement, and the Archivist recommended that I temporarily certify the records for continued postponement for a limited period. In the 2021 Memorandum, I directed the completion of an intensive 1-year review of each remaining proposed redaction to ensure that the United States Government maximizes transparency by disclosing all information in records related to the assassination, except in cases when the strongest possible reasons counsel otherwise.
+
+(b) Pursuant to my direction, agencies have undertaken a comprehensive effort to review the full set of almost 16,000 records that had previously been released in redacted form and determined that more than 70 percent of those records may now be released in full. This significant disclosure reflects my Administration's commitment to transparency and will provide the American public with greater insight and understanding of the Government's investigation into this tragic event in American history.
+
+(c) In the course of their review, agencies have identified a limited number of records containing information for continued postponement of public disclosure. NARA has reviewed these proposed redactions and has coordinated with relevant consulting agencies, where appropriate, to ensure that the proposed redactions meet the statutory standard for continued postponement. The Acting Archivist has recommended certifying a small subset of the reviewed records for continued postponement of public disclosure.
+
+(d) The Acting Archivist has further indicated that additional work remains to be done with respect to a limited number of other reviewed records that were the subject of agency proposals for continued postponement of public disclosure. The Acting Archivist believes such additional work could further reduce the amount of redacted information. The Acting Archivist therefore recommends that I temporarily certify the continued postponement of public disclosure of the redacted information in these records to provide additional time for review and to ensure that information from these records is disclosed to the maximum extent possible, consistent with the standards of the Act.
+
+Sec. 3. <i>Certification</i>. In light of the proposals from agencies for continued postponement of public disclosure of information in the records identified in section 2(c) of this memorandum under the statutory standard, and the Acting Archivist's recommendation, I agree that continued postponement of public disclosure of such information is warranted to protect against an identifiable harm to the military defense, intelligence operations, law enforcement, or the conduct of foreign relations that is of such gravity that it outweighs the public interest in disclosure. Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5(g)(2)(D) of the Act, I hereby certify that continued postponement of public disclosure of these records is necessary to protect against an identifiable harm to the military defense, intelligence operations, law enforcement, or the conduct of foreign relations that is of such gravity that it outweighs the public interest in disclosure. All information within these records that agencies have proposed for continued postponement under section 5(g)(2)(D) of the Act shall accordingly be withheld from public disclosure. Further release of the information in these records shall occur in a manner consistent with the Transparency Plans described in section 7 of this memorandum.
+
+Sec. 4. <i>Temporary Certification</i>. In light of the proposals from agencies for continued postponement of public disclosure of information in the records identified in section 2(d) of this memorandum under the statutory standard, the Acting Archivist's request for an extension of time to continue review of those records, and the need for an appropriately thorough review process, I agree with the Acting Archivist's recommendation regarding temporary postponement. Temporary continued postponement of public disclosure of such information is necessary to protect against an identifiable harm to the military defense, intelligence operations, law enforcement, or the conduct of foreign relations that is of such gravity that it outweighs the public interest in disclosure. Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5(g)(2)(D) of the Act, I hereby certify that all information within these records that agencies have proposed for continued postponement under section 5(g)(2)(D) of the Act shall be withheld from public disclosure until June 30, 2023.
+
+Sec. 5. <i>Release</i>. Any information currently withheld from public disclosure that agencies have not proposed for continued postponement shall be released to the public by December 15, 2022.
+
+Sec. 6. <i>Review</i>. (a) From the date of this memorandum \[Dec. 15, 2022\] until May 1, 2023, relevant agencies and NARA shall jointly review the remaining redactions in the records addressed in sections 2(d) and 4 of this memorandum with a view to maximizing transparency and disclosing all information in records concerning the assassination, except when the strongest possible reasons counsel otherwise. Any information that agencies propose for continued postponement of public release beyond June 30, 2023, shall be limited to the absolute minimum under the statutory standard. Agencies shall not propose to continue redacting information unless the redaction is necessary to protect against an identifiable harm to the military defense, intelligence operations, law enforcement, or the conduct of foreign relations that is of such gravity that it outweighs the public interest in disclosure. In applying the statutory standard, agencies shall:
+
+(i) accord substantial weight to the public interest in transparency and full disclosure of any record that falls within the scope of the Act; and
+
+(ii) give due consideration that some degree of harm is not grounds for continued postponement unless the degree of harm is of such gravity that it outweighs the public interest in disclosure.
+
+(b) If, by no later than May 1, 2023, NARA agrees that a proposed redaction meets the statutory standard for continued postponement, the Archivist shall recommend to the President, no later than May 1, 2023, that continued postponement of public disclosure of the information is warranted after June 30, 2023.
+
+(c) If, by no later than May 1, 2023, NARA does not recommend that a proposed redaction meets the statutory standard for continued postponement, agencies shall, no later than May 15, 2023:
+
+(i) withdraw the proposed redaction; or
+
+(ii) recommend to the President, through the Counsel to the President, on a document-by-document basis, that release of the information continue to be postponed, providing an explanation for each proposed redaction of why continued postponement remains necessary to protect against an identifiable harm to the military defense, intelligence operations, law enforcement, or the conduct of foreign relations that is of such gravity that it outweighs the public interest in disclosure.
+
+(d) In the development of the recommendations described in this section, as questions arise about particular proposed redactions, NARA shall consult, as appropriate, with relevant agencies as described in section 5(d) of my 2021 Memorandum.
+
+(e) At the conclusion of the review described in this section, any information withheld from public disclosure that agencies do not propose for continued postponement beyond June 30, 2023, shall be released to the public by that date.
+
+Sec. 7. <i>Transparency Plans</i>. As part of their review, each agency prepared a plan for the eventual release of information (Transparency Plan) to ensure that information would continue to be disclosed over time as the identified harm associated with release of the information dissipates. Each Transparency Plan details the event-based or circumstance-based conditions that will trigger the public disclosure of currently postponed information by the National Declassification Center (NDC) at NARA. These Transparency Plans have been reviewed by NARA, and the Acting Archivist has advised that use of the Transparency Plans by the NDC will ensure appropriate continued release of information covered by the Act. Accordingly, I direct that the Transparency Plans submitted by agencies be used by the NDC to conduct future reviews of any information that has been postponed from public disclosure, including information in the records described in sections 2(c) and 3 of this memorandum.
+
+Sec. 8. <i>Publication</i>. The Acting Archivist is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

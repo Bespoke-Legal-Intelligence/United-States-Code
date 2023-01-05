@@ -20,9 +20,9 @@ If for any taxable year beginning in the recognition period an S corporation has
 
 &emsp;&emsp;Except as provided in subparagraph (B), no credit shall be allowable under part IV of subchapter A of this chapter (other than under section 34) against the tax imposed by subsection (a).
 
-#### (B) <sup>1</sup> Business credit carryforwards from C years allowed
+#### (B) Business credit carryforwards from C years allowed
 
-&emsp;&emsp;Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11. A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.
+&emsp;&emsp;Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11.
 
 #### (c) Limitations
 
@@ -154,16 +154,6 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1683; amended Pub. L. 97–448, title III, §305(d)(3), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title I, §102(d)(1), title IV, §474(r)(27), title VII, §721(u), July 18, 1984, 98 Stat. 623, 844, 971; Pub. L. 99–514, title VI, §632(a), Oct. 22, 1986, 100 Stat. 2275; Pub. L. 100–647, title I, §1006(f)(1)–(5)(A), Nov. 10, 1988, 102 Stat. 3403, 3404; Pub. L. 101–239, title VII, §7811(c)(4), (5)(B), (8), Dec. 19, 1989, 103 Stat. 2407, 2408; Pub. L. 105–34, title XVI, §1601(f)(5)(B), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 111–5, div. B, title I, §1251(a), Feb. 17, 2009, 123 Stat. 342; Pub. L. 111–240, title II, §2014(a), Sept. 27, 2010, 124 Stat. 2556; Pub. L. 112–240, title III, §326(a), (b), Jan. 2, 2013, 126 Stat. 2334; Pub. L. 113–295, div. A, title I, §138(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, §127(a), Dec. 18, 2015, 129 Stat. 3054; Pub. L. 115–97, title I, §§12002(c), 13001(b)(2)(N), Dec. 22, 2017, 131 Stat. 2095, 2097; Pub. L. 115–141, div. U, title IV, §401(b)(33), Mar. 23, 2018, 132 Stat. 1204.)
 
-#### Amendment of Subsection (b)(3)(B)
-
-<i>Pub. L. 115–97, title I, §12002(c), (d), Dec. 22, 2017, 131 Stat. 2095, amended subsection (b)(3)(B) of this section, applicable to taxable years beginning after Dec. 31, 2021. After amendment, subsection (b)(3)(B) reads as follows:</i>
-
-#### <i>(B) Business credit carryforwards from C years allowed</i>
-
-&emsp;&emsp;<i>Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11.</i>
-
-<i>See 2017 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### Prior Provisions
@@ -214,7 +204,7 @@ Subsec. (b)(1). Pub. L. 100–647, §1006(f)(2), added par. (1) and struck out f
 
 &emsp;"(B) the amount which would be the taxable income of the corporation for such taxable year if such corporation were not an S corporation."
 
-Subsec. (b)(2). Pub. L. 100–647, §1006(f)(2), added par. (2) and struck out former par. (2) which read as follows: "Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed as a deduction against the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1). For purposes of determining the amount of any such loss which may be carried to subsequent taxable years, the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1) shall be treated as taxable income."
+Subsec. (b)(2). Pub. L. 100–647, §1006(f)(2), added par. (2) and struck out former par. (2) which read as follows: "Notwithstanding section 1371(b)(1), any net operating loss carryforward arising in a taxable year for which the corporation was a C corporation shall be allowed as a deduction against the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1). For purposes of determining the amount of any such loss whichmay be carried to subsequent taxable years, the lesser of the amounts referred to in subparagraph (A) or (B) of paragraph (1) shall be treated as taxable income."
 
 Subsec. (b)(4)(B). Pub. L. 100–647, §1006(f)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the lower of the amounts specified in subparagraphs (A) and (B) of paragraph (1) shall be treated as the taxable income."
 
@@ -284,7 +274,7 @@ Amendment by section 102(d)(1) of Pub. L. 98–369 applicable to positions estab
 
 Amendment by section 474(r)(27) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Amendment by section 721(u) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
+Amendment by section 721(u) of Pub. L. 98–369 effective as if included in the Subchapter S Revision Act of 1982, Pub. L. 97–354, see section 721(y)(1) of Pub. L. 98–369, set out as a note under section 1361 of this title.
 
 #### Effective Date of 1983 Amendment
 
@@ -297,6 +287,4 @@ Section applicable to taxable years beginning after Dec. 31, 1982, see section 6
 #### Savings Provision
 
 For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
-
-<i><sup>1</sup></i><i> See Amendment of Subsection (b)(3)(B) note below.</i>
 

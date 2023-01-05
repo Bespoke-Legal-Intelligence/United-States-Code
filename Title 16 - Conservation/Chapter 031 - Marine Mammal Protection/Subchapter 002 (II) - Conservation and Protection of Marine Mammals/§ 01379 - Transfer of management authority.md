@@ -76,7 +76,7 @@ The State process required under subsection (b)(1)(C) must comply with the follo
 
 #### (e) Revocation of transfer of management authority
 
-(1) Subject to paragraph (2), the Secretary shall revoke, after opportunity for a hearing, any transfer of management authority made to a State under subsection (b)(1) if the Secretary finds that the State program for the conservation and management of the species concerned is not being implemented, or is being implemented in a manner inconsistent with the provisions ofthis section or the provisions of the program. The Secretary shall also establish a procedure for the voluntary return by a State to the Secretary of species management authority that was previously transferred to the State under subsection (b)(1).
+(1) Subject to paragraph (2), the Secretary shall revoke, after opportunity for a hearing, any transfer of management authority made to a State under subsection (b)(1) if the Secretary finds that the State program for the conservation and management of the species concerned is not being implemented, or is being implemented in a manner inconsistent with the provisions of this section or the provisions of the program. The Secretary shall also establish a procedure for the voluntary return by a State to the Secretary of species management authority that was previously transferred to the State under subsection (b)(1).
 
 (2)(A) The Secretary may not revoke a transfer of management authority under paragraph (1) unless—
 
@@ -88,7 +88,7 @@ The State process required under subsection (b)(1)(C) must comply with the follo
 
 &emsp;&emsp;(II) the State does not take such remedial measures as are necessary, in the judgment of the Secretary, to bring its conservation and management program, or the administration or enforcement of the program, into compliance with the provisions of this section.
 
-(B) When a revocation by the Secretary of a transfer of management authority to a State becomes final, or the State voluntarily returns management authority to the Secretary, the Secretary shall regulate the taking, and provide for the conservation and management, of the species within the State in accordance with the provisions of this chapter (and in the case of Alaskan Natives, section 1371(b) of this title and subsection (i) of this section shall apply upon such revocation or return of management authority).
+(B) When a revocation by the Secretary of a transfer of management authority to a State becomes final, or the State voluntarily returns management authority to the Secretary, the Secretary shall regulate the taking, and provide for the conservation and management, of the species within the State in accordance with the provisions of this chapter (and in the case of Alaskan Natives, section 1371(b) of this title andsubsection (i) of this section shall apply upon such revocation or return of management authority).
 
 #### (f) Transfer of management authority to State of Alaska
 
@@ -220,7 +220,7 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 
 #### Enforcement by Hawaii of Laws Relating to Conservation and Management of Humpback Whales With Respect to Recreational and Commercial Vessels
 
-Pub. L. 108–447, div. B, title II, §213, Dec. 8, 2004, 118 Stat. 2884, provided that: "Hereafter, notwithstandingany other Federal law related to the conservation and management of marine mammals, the State of Hawaii may enforce any State law or regulation with respect to the operation in State waters of recreational and commercial vessels, for the purpose of conservation and management of humpback whales, to the extent that such law or regulation is no less restrictive than Federal law."
+Pub. L. 108–447, div. B, title II, §213, Dec. 8, 2004, 118 Stat. 2884, provided that: "Hereafter, notwithstanding any other Federal law related to the conservation and management of marine mammals, the State of Hawaii may enforce any State law or regulation with respect to the operation in State waters of recreational and commercial vessels, for the purpose of conservation and management of humpback whales, to the extent that such law or regulation is no less restrictive than Federal law."
 
 #### Cooperative Agreements Under Endangered Species Act
 

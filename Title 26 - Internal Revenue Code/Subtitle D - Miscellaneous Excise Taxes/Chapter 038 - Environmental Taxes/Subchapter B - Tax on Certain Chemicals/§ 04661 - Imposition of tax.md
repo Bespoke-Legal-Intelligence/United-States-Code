@@ -4,125 +4,62 @@
 
 There is hereby imposed a tax on any taxable chemical sold by the manufacturer, producer, or importer thereof.
 
-#### (b) Amount of tax
+#### (b) Amount of Tax
 
-The amount of the tax imposed by subsection (a) shall be determined in accordance with the following table:
+The amount of tax imposed by subsection (a) shall be determined in accordance with the following table:
 
 &nbsp;
 
-| In the case of: | <b>The tax is the following amount per ton</b> |
+| In the case of: | <b>The tax is the following amount per ton:</b> |
 | :--- | ---: |
-| Acetylene | $4.87 |
-| Benzene | 4\.87 |
-| Butane | 4\.87 |
-| Butylene | 4\.87 |
-| Butadiene | 4\.87 |
-| Ethylene | 4\.87 |
-| Methane | 3\.44 |
-| Naphthalene | 4\.87 |
-| Propylene | 4\.87 |
-| Toluene | 4\.87 |
-| Xylene | 4\.87 |
-| Ammonia | 2\.64 |
-| Antimony | 4\.45 |
-| Antimony trioxide | 3\.75 |
-| Arsenic | 4\.45 |
-| Arsenic trioxide | 3\.41 |
-| Barium sulfide | 2\.30 |
-| Bromine | 4\.45 |
-| Cadmium | 4\.45 |
-| Chlorine | 2\.70 |
-| Chromium | 4\.45 |
-| Chromite | 1\.52 |
-| Potassium dichromate | 1\.69 |
-| Sodium dichromate | 1\.87 |
-| Cobalt | 4\.45 |
-| Cupric sulfate | 1\.87 |
-| Cupric oxide | 3\.59 |
-| Cuprous oxide | 3\.97 |
-| Hydrochloric acid | 0\.29 |
-| Hydrogen fluoride | 4\.23 |
-| Lead oxide | 4\.14 |
-| Mercury | 4\.45 |
-| Nickel | 4\.45 |
-| Phosphorus | 4\.45 |
-| Stannous chloride | 2\.85 |
-| Stannic chloride | 2\.12 |
-| Zinc chloride | 2\.22 |
-| Zinc sulfate | 1\.90 |
-| Potassium hydroxide | 0\.22 |
-| Sodium hydroxide | 0\.28 |
-| Sulfuric acid | 0\.26 |
-| Nitric acid | 0\.24 |
-
-> For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting "10.13" for "4.87".
+| Acetylene | $9.74 |
+| Benzene | 9\.74 |
+| Butane | 9\.74 |
+| Butylene | 9\.74 |
+| Butadiene | 9\.74 |
+| Ethylene | 9\.74 |
+| Methane | 6\.88 |
+| Napthalene | 9\.74 |
+| Propylene | 9\.74 |
+| Toluene | 9\.74 |
+| Xylene | 9\.74 |
+| Ammonia | 5\.28 |
+| Antimony | 8\.90 |
+| Antimony trioxide | 7\.50 |
+| Arsenic | 8\.90 |
+| Arsenic trioxide | 6\.82 |
+| Barium sulfide | 4\.60 |
+| Bromine | 8\.90 |
+| Cadmium | 8\.90 |
+| Chlorine | 5\.40 |
+| Chromium | 8\.90 |
+| Chromite | 3\.04 |
+| Potassium dichromate | 3\.38 |
+| Sodium dichromate | 3\.74 |
+| Cobalt | 8\.90 |
+| Cupric sulfate | 3\.74 |
+| Cupric oxide | 7\.18 |
+| Cuprous oxide | 7\.94 |
+| Hydrochloric acid | 0\.58 |
+| Hydrogen fluoride | 8\.46 |
+| Lead oxide | 8\.28 |
+| Mercury | 8\.90 |
+| Nickel | 8\.90 |
+| Phosphorus | 8\.90 |
+| Stannous chloride | 5\.70 |
+| Stannic chloride | 4\.24 |
+| Zinc chloride | 4\.44 |
+| Zinc sulfate | 3\.80 |
+| Potassium hydroxide | 0\.44 |
+| Sodium hydroxide | 0\.56 |
+| Sulfuric acid | 0\.52 |
+| Nitric acid | 0\.48. |
 
 #### (c) Termination
 
-No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.
+No tax shall be imposed by this section after December 31, 2031.
 
 (Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, title V, §513(a), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, §8032(c)(3), Oct. 21, 1986, 100 Stat. 1958; Pub. L. 117–58, div. H, title II, §80201(a)(1), (b)(1), Nov. 15, 2021, 135 Stat. 1328, 1329.)
-
-#### Amendment of Subsections (b) and (c)
-
-<i>Pub. L. 117–58, div. H, title II, §80201(a)(1), (b)(1), (d), Nov. 15, 2021, 135 Stat. 1328–1330, provided that, effective July 1, 2022, subsections (b) and (c) of this section are amended to read as follows:</i>
-
-#### <i>"(b) Amount of Tax</i>
-
-<i>"The amount of tax imposed by subsection (a) shall be determined in accordance with the following table:</i>
-
-&nbsp;
-
-| "In the case of: | <i>The tax is the following amount per ton:</i> |
-| :--- | ---: |
-| <i>Acetylene</i> | <i>$9.74</i> |
-| <i>Benzene</i> | <i>9.74</i> |
-| <i>Butane</i> | <i>9.74</i> |
-| <i>Butylene</i> | <i>9.74</i> |
-| <i>Butadiene</i> | <i>9.74</i> |
-| <i>Ethylene</i> | <i>9.74</i> |
-| <i>Methane</i> | <i>6.88</i> |
-| <i>Napthalene</i> | <i>9.74</i> |
-| <i>Propylene</i> | <i>9.74</i> |
-| <i>Toluene</i> | <i>9.74</i> |
-| <i>Xylene</i> | <i>9.74</i> |
-| <i>Ammonia</i> | <i>5.28</i> |
-| <i>Antimony</i> | <i>8.90</i> |
-| <i>Antimony trioxide</i> | <i>7.50</i> |
-| <i>Arsenic</i> | <i>8.90</i> |
-| <i>Arsenic trioxide</i> | <i>6.82</i> |
-| <i>Barium sulfide</i> | <i>4.60</i> |
-| <i>Bromine</i> | <i>8.90</i> |
-| <i>Cadmium</i> | <i>8.90</i> |
-| <i>Chlorine</i> | <i>5.40</i> |
-| <i>Chromium</i> | <i>8.90</i> |
-| <i>Chromite</i> | <i>3.04</i> |
-| <i>Potassium dichromate</i> | <i>3.38</i> |
-| <i>Sodium dichromate</i> | <i>3.74</i> |
-| <i>Cobalt</i> | <i>8.90</i> |
-| <i>Cupric sulfate</i> | <i>3.74</i> |
-| <i>Cupric oxide</i> | <i>7.18</i> |
-| <i>Cuprous oxide</i> | <i>7.94</i> |
-| <i>Hydrochloric acid</i> | <i>0.58</i> |
-| <i>Hydrogen fluoride</i> | <i>8.46</i> |
-| <i>Lead oxide</i> | <i>8.28</i> |
-| <i>Mercury</i> | <i>8.90</i> |
-| <i>Nickel</i> | <i>8.90</i> |
-| <i>Phosphorus</i> | <i>8.90</i> |
-| <i>Stannous chloride</i> | <i>5.70</i> |
-| <i>Stannic chloride</i> | <i>4.24</i> |
-| <i>Zinc chloride</i> | <i>4.44</i> |
-| <i>Zinc sulfate</i> | <i>3.80</i> |
-| <i>Potassium hydroxide</i> | <i>0.44</i> |
-| <i>Sodium hydroxide</i> | <i>0.56</i> |
-| <i>Sulfuric acid</i> | <i>0.52</i> |
-| <i>Nitric acid</i> | <i>0.48."</i> |
-
-#### <i>"(c) Termination</i>
-
-<i>"No tax shall be imposed by this section after December 31, 2031."</i>
-
-<i>See 2021 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -166,7 +103,7 @@ Refund of tax previously imposed.—
 
 &emsp;&emsp;"(i)
 
-In general.—In the case of any tax imposed by section 4661 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the sale or use of xylene before October 1, 1985, such tax (including interest, additions to tax, and additional amounts) shall not be assessed, and if assessed, the assessment shall be abated, and if collected shall be credited or refunded (with interest) as an overpayment.
+In general.—In the case of any tax imposed by section 4661 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the sale or use of xylene before October 1, 1985, such tax (including interest,additions to tax, and additional amounts) shall not be assessed, and if assessed, the assessment shall be abated, and if collected shall be credited or refunded (with interest) as an overpayment.
 
 &emsp;&emsp;"(ii)
 

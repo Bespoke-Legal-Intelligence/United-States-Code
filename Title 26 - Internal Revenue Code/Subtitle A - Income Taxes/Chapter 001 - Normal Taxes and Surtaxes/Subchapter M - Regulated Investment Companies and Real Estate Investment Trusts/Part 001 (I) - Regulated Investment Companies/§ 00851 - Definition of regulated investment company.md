@@ -6,7 +6,7 @@ For purposes of this subtitle, the term "regulated investment company" means any
 
 &emsp;(1) which, at all times during the taxable year—
 
-&emsp;&emsp;(A) is registered under the Investment Company Act of 1940, as amended (15 U.S.C.80a–1 to 80b–2) as a management company or unit investment trust, or
+&emsp;&emsp;(A) is registered under the Investment Company Act of 1940, as amended (15 U.S.C. 80a–1 to 80b–2) as a management company or unit investment trust, or
 
 &emsp;&emsp;(B) has in effect an election under such Act to be treated as a business development company, or
 
@@ -120,7 +120,7 @@ For purposes of subsection (b)(3) and this subsection—
 
 #### (1) General rule
 
-&emsp;If the Securities and Exchange Commission determines, in accordance with regulations issued by it, and certifies to the Secretary not earlier than 60 days prior to the close of the taxable year of a management company or a business development company described in subsection (a)(1), that such investment company is principally engaged in the furnishing of capital to other corporations which are principally engaged in the development or exploitation of inventions, technological improvements, new processes, or products notpreviously generally available, such investment company may, in the computation of 50 percent of the value of its assets under subparagraph (A) of subsection (b)(3) for any quarter of such taxable year, include the value of any securities of an issuer, whether or not the investment company owns more than 10 percent of the outstanding voting securities of such issuer, the basis of which, when added to the basis of the investment company for securities of such issuer previously acquired, did not exceed 5 percent of the value of the total assets of the investment company at the time of the subsequent acquisition of securities. The preceding sentence shall not apply to the securities of an issuer if the investment company has continuously held any security of such issuer (or of any predecessor company of such issuer as determined under regulations prescribed by the Secretary) for 10 or more years preceding such quarter of such taxable year.
+&emsp;If the Securities and Exchange Commission determines, in accordance with regulations issued by it, and certifies to the Secretary not earlier than 60 days prior to the close of the taxable year of a management company or a business development company described in subsection (a)(1), that such investment company is principally engaged in the furnishing of capital to other corporations which are principally engaged in the development or exploitation of inventions, technological improvements, new processes, or products not previously generally available, such investment company may, in the computation of 50 percent of the value of its assets under subparagraph (A) of subsection (b)(3) for any quarter of such taxable year, include the value of any securities of an issuer, whether or not the investment company owns more than 10 percent of the outstanding voting securities of such issuer, the basis of which, when added to the basis of the investment company for securities of such issuer previously acquired, did not exceed 5 percent of the value of the total assets of the investment company at the time of the subsequent acquisition of securities. The preceding sentence shall not apply to the securities of an issuer if the investment company has continuously held any security of such issuer (or of any predecessor company of such issuer as determined under regulations prescribed by the Secretary) for 10 or more years preceding such quarter of such taxable year.
 
 #### (2) Limitation
 
@@ -176,7 +176,7 @@ For purposes of this section, the term "qualified publicly traded partnership" m
 
 #### (1) Disclosure requirement
 
-&emsp;A corporation that fails to meet the requirement of paragraph (2) of subsection (b) for anytaxable year shall nevertheless be considered to have satisfied the requirement of such paragraph for such taxable year if—
+&emsp;A corporation that fails to meet the requirement of paragraph (2) of subsection (b) for any taxable year shall nevertheless be considered to have satisfied the requirement of such paragraph for such taxable year if—
 
 &emsp;&emsp;(A) following the corporation's identification of the failure to meet such requirement for such taxable year, a description of each item of its gross income described in such paragraph is set forth in a schedule for such taxable year filed in the manner provided by the Secretary, and
 
@@ -196,7 +196,7 @@ For purposes of this section, the term "qualified publicly traded partnership" m
 
 #### References in Text
 
-The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), (b)(2)(A), (c)(6), and (f)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of the Act is classified to section 80a–2(a)(36) of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), (b)(2)(A), (c)(6), and (f)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of the Act is classified to section 80a–2(a)(36) of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 #### Amendments
 
@@ -212,7 +212,7 @@ Subsec. (i). Pub. L. 111–325, §201(b), added subsec. (i).
 
 Subsec. (b)(2). Pub. L. 108–357, §331(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "at least 90 percent of its gross income is derived from dividends, interest, payments with respect to securities loans (as defined in section 512(a)(5)), and gains from the sale or other disposition of stock or securities (as defined in section 2(a)(36) of the Investment Company Act of 1940, as amended) or foreign currencies, or other income (including but not limited to gains from options, futures, or forward contracts) derived with respect to its business of investing in such stock, securities, or currencies; and".
 
-Subsec. (b)(3)(B). Pub. L. 108–357, §331(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "not more than 25 percent of the value of its total assets is invested in the securities (other than Government securities or the securities of other regulated investment companies) of any one issuer, or of two or more issuers which the taxpayer controls and which are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses."
+Subsec. (b)(3)(B). Pub. L. 108–357, §331(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "not more than 25 percent of the value of its total assets is invested in the securities (other than Government securities or the securities of otherregulated investment companies) of any one issuer, or of two or more issuers which the taxpayer controls and which are determined, under regulations prescribed by the Secretary, to be engaged in the same or similar trades or businesses or related trades or businesses."
 
 Subsec. (c)(5), (6). Pub. L. 108–357, §331(c), added par. (5) and redesignated former par. (5) as (6).
 
@@ -328,7 +328,7 @@ Amendment by section 1006(m), (n)(1), (2)(A), (4), (5), (o) of Pub. L. 100–647
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title VI, §652(c), Oct. 22, 1986, 100 Stat. 2297, provided that: "The amendments made by thissection \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
+Pub. L. 99–514, title VI, §652(c), Oct. 22, 1986, 100 Stat. 2297, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1986."
 
 Pub. L. 99–514, title VI, §653(d), Oct. 22, 1986, 100 Stat. 2298, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Oct. 22, 1986\]."
 

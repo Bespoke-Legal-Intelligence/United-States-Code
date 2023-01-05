@@ -130,7 +130,7 @@ Section 6506(a) of the Omnibus Budget Reconciliation Act of 1989, referred to in
 
 Sections 247a, 300b, 300c–11, and 300c–21 of this title, referred to in subsec. (b)(1)(C), were repealed by Pub. L. 97–35, §2193(b)(1), Aug. 13, 1981, 95 Stat. 827. See Effective Date, Savings, and Transitional Provisions note set out below.
 
-The Health Services and Centers Amendments of 1978, referred to in subsec. (b)(1)(D), is Pub. L. 95–626, Nov. 10, 1978, 92 Stat. 3551. Title VI of the Health Services and Centers Amendments of 1978 was classified generally to part A (§300a–21 et seq.) of subchapter VIII–A of this chapter prior to its repeal by Pub. L. 97–35, title IX, §955(b), title XXI, §2193(f), Aug. 13, 1981, 95 Stat. 592, 828. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 201 of this title and Tables.
+The Health Services and Centers Amendments of 1978, referred to in subsec. (b)(1)(D), is Pub. L. 95–626, Nov. 10, 1978, 92 Stat. 3551. Title VI of the Health Services and Centers Amendments of 1978 was classified generally topart A (§300a–21 et seq.) of subchapter VIII–A of this chapter prior to its repeal by Pub. L. 97–35, title IX, §955(b), title XXI, §2193(f), Aug. 13, 1981, 95 Stat. 592, 828. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 201 of this title and Tables.
 
 #### Prior Provisions
 

@@ -6,7 +6,7 @@ Not later than 90 days after the date of transfer pursuant to section 460lll–4
 
 #### (b) Membership
 
-The Advisory Board shall be composed of 17 members, of whom—
+The Advisory Board shall be composed of 13 members, of whom—
 
 &emsp;(1) 4 individuals shall be appointed by the Secretary, including—
 
@@ -16,13 +16,9 @@ The Advisory Board shall be composed of 17 members, of whom—
 
 &emsp;(2) 2 individuals shall be appointed by the Kentucky Fish and Wildlife Commissioner or designee;
 
-&emsp;(3) 1 individual shall be appointed by the Tennessee Fish and Wildlife Commission or designee;
+&emsp;(3) 1 individual shall be appointed by the Tennessee Fish and Wildlife Commission or designee; and
 
-&emsp;(4) 2 individuals shall be appointed by the Governor of the State of Tennessee;
-
-&emsp;(5) 2 individuals shall be appointed by the Governor of the State of Kentucky; and
-
-&emsp;(6) 2 individuals shall be appointed by appropriate officials of each of the 3 counties containing the Recreation Area.
+&emsp;(4) 2 individuals shall be appointed by appropriate officials of each of the 3 counties containing the Recreation Area.
 
 #### (c) Term
 
@@ -30,9 +26,9 @@ The Advisory Board shall be composed of 17 members, of whom—
 
 &emsp;The term of a member of the Advisory Board shall be 5 years.
 
-#### (2) Succession
+#### (2) Nonconsecutive terms
 
-&emsp;Members of the Advisory Board may not succeed themselves.
+&emsp;Members of the Advisory Board may serve multiple terms, but may not serve consecutive terms.
 
 #### (d) Chairperson
 
@@ -44,17 +40,23 @@ The Secretary shall prescribe the rules of procedure for the Advisory Board.
 
 #### (f) Functions
 
-The Advisory Board may advise the Secretary on—
+The Advisory Board shall advise the Secretary on—
 
-&emsp;(1) means of promoting public participation for the land and resource management plan for the Recreation Area; and
+&emsp;(1) means of promoting public participation for the land and resource management plan for the Recreation Area;
 
-&emsp;(2) environmental education.
+&emsp;(2) environmental education;
+
+&emsp;(3) an annual work plan for recreation and environment education areas in the Recreation Area, including the heritage program, with the nonappropriated amounts in the Land Between the Lakes Management Fund;
+
+&emsp;(4) an annual forest management and harvest plan for the Recreation Area; and
+
+&emsp;(5) the Land Between the Lakes Management Fund.
 
 #### (g) Meetings
 
 #### (1) Frequency
 
-&emsp;The Advisory Board shall meet at least biannually.
+&emsp;The Advisory Board shall meet at least twice each year.
 
 #### (2) Public meeting
 
@@ -62,17 +64,41 @@ The Advisory Board may advise the Secretary on—
 
 #### (3) Notice of meetings
 
-&emsp;The chairperson, through the placement of notices in local news media and by other appropriate means shall give 2 weeks' public notice of each meeting of the Advisory Board.
+&emsp;The chairperson, through the placement of notices in local news media, on a public website of the Department of Agriculture, and by other appropriate means shall give 2 weeks' public notice of each meeting of the Advisory Board.
+
+#### (4) Minutes
+
+&emsp;The Secretary shall publish the minutes of each meeting of the Advisory Board on a public website of the Department of Agriculture.
 
 #### (h) No termination
 
-Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Board.
+Section 1013(a) of title 5 shall not apply to the Advisory Board.
 
-(Pub. L. 105–277, div. A, §101(e) \[title V, §522\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–314.)
+(Pub. L. 105–277, div. A, §101(e) \[title V, §522\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–314; Pub. L. 117–286, §4(a)(94), Dec. 27, 2022, 136 Stat. 4316; Pub. L. 117–328, div. DD, title II, §201(c), Dec. 29, 2022, 136 Stat. 5582.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Section 14(a)(2) of the Federal Advisory Committee Act, referred to in subsec. (h), is section 14(a)(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (b). Pub. L. 117–328, §201(c)(1)(A), substituted "13" for "17" in introductory provisions.
+
+Subsec. (b)(4). Pub. L. 117–328, §201(c)(1)(B)–(D), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: "2 individuals shall be appointed by the Governor of the State of Tennessee;".
+
+Subsec. (b)(5). Pub. L. 117–328, §201(c)(1)(B), struck out par. (5) which read as follows: "2 individuals shall be appointed by the Governor of the State of Kentucky; and".
+
+Subsec. (b)(6). Pub. L. 117–328, §201(c)(1)(D), redesignated par. (6) as (4).
+
+Subsec. (c)(2). Pub. L. 117–328, §201(c)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Members of the Advisory Board may not succeed themselves."
+
+Subsec. (f). Pub. L. 117–328, §201(c)(3)(A), substituted "shall advise" for "may advise" in introductory provisions.
+
+Subsec. (f)(3) to (5). Pub. L. 117–328, §201(c)(3)(B)–(D), added pars. (3) to (5).
+
+Subsec. (g)(1). Pub. L. 117–328, §201(c)(4)(A), substituted "twice each year" for "biannually".
+
+Subsec. (g)(3). Pub. L. 117–328, §201(c)(4)(B), inserted ", on a public website of the Department of Agriculture," before "and by".
+
+Subsec. (g)(4). Pub. L. 117–328, §201(c)(4)(C), added par. (4).
+
+Subsec. (h). Pub. L. 117–286 substituted "Section 1013(a) of title 5" for "Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.)".
 

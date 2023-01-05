@@ -6,7 +6,7 @@
 
 (3) Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5511 et seq.\], the Federal Trade Commission shall enforce the rules issued under paragraph (1), in the same manner, by the same means, and with the same jurisdiction, as though all applicable terms and provisions of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] were incorporated into and made part of this section.
 
-(b)(1) Except as provided in paragraph (6), in any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of any person subject to a rule prescribed under subsection (a) in practices that violate such rule, the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States or other court of competent jurisdiction—
+(b)(1) Except as provided in paragraph (6), in any case in which the attorney general of a State has reason to believe that an interest of the residents of the State has been or is threatened or adversely affected by the engagement of any person subject to a rule prescribed under subsection (a) in practices that violate suchrule, the State, as parens patriae, may bring a civil action on behalf of its residents in an appropriate district court of the United States or other court of competent jurisdiction—
 
 &emsp;(A) to enjoin that practice;
 

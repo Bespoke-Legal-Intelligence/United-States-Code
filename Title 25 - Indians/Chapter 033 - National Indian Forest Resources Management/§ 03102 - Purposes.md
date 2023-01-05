@@ -4,7 +4,7 @@ The purposes of this chapter are to—
 
 &emsp;(1) allow the Secretary of the Interior to take part in the management of Indian forest lands, with the participation of the lands' beneficial owners, in a manner consistent with the Secretary's trust responsibility and with the objectives of the beneficial owners;
 
-&emsp;(2) clarify the authority of the Secretary to make deductions from the proceeds of sale of Indian forest products, assure the use of such deductions on the reservation from which they are derived solely for use in forest land management activities, and assure that no other deductions shall be collected;
+&emsp;(2) clarify the authority of the Secretary to make deductions from the proceeds of sale of Indian forest products, assure the use of such deductions on the reservation from which theyare derived solely for use in forest land management activities, and assure that no other deductions shall be collected;
 
 &emsp;(3) increase the number of professional Indian foresters and related staff in forestry programs on Indian forest land; and
 

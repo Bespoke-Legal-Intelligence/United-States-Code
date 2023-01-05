@@ -10,7 +10,7 @@ General Requirements.—(1) The Administrator of the Federal Aviation Administra
 
 (2) The Administrator may make contracts to carry out this subsection without regard to section 3324(a) and (b) of title 31.
 
-(3) When a substantial question exists under paragraph (1) of this subsection about whether a matter is of primary concern to the armed forces, the Administrator shall decide whetherthe Administrator or the Secretary of the appropriate military department has responsibility. The Administrator shall be given technical information related to each research and development project of the armed forces that potentially applies to, or potentially conflicts with, the common system to ensure that potential application to the common system is considered properly and that potential conflicts with the system are eliminated.
+(3) When a substantial question exists under paragraph (1) of this subsection about whether a matter is of primary concern to the armed forces, the Administrator shall decide whether the Administrator or the Secretary of the appropriate military department has responsibility. The Administrator shall be given technical information related to each research and development project of the armed forces that potentially applies to, or potentially conflicts with, the common system to ensure that potential application to the common system is considered properly and that potential conflicts with the system are eliminated.
 
 (b)
 
@@ -66,7 +66,7 @@ Research plan.—Not later than 6 months after the date of enactment of the FAA 
 
 &emsp;(3)
 
-Review.—The Administrator shall enter into an arrangement with the National Research Council to conduct an independent review of the plan developed under paragraph (2) and shall provide the results of that review to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 18 months after the date of enactment of the FAA Modernization and Reform Act of 2012.
+Review.—The Administrator shall enter into an arrangement with the National Research Council to conduct an independent review of the plan developed under paragraph (2)and shall provide the results of that review to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate not later than 18 months after the date of enactment of the FAA Modernization and Reform Act of 2012.
 
 (e)
 
@@ -226,7 +226,7 @@ Study.—The Administrator \[of the Federal Aviation Administration\] shall cond
 
 "(b)
 
-Contracting.—The Administrator may carry out the study by entering into a contract with a universityof higher education with expertise necessary to carry out the study.
+Contracting.—The Administrator may carry out the study by entering into a contract with a university of higher education with expertise necessary to carry out the study.
 
 "(c)
 
@@ -290,7 +290,7 @@ Eligible project.—The term 'eligible project' means a project relating to the 
 
 &emsp;&emsp;"(B) automation tools to effect improvements in airport capacity, including passive final approach spacing tools and traffic management advisory equipment; and
 
-&emsp;&emsp;"(C) facilities and equipment that enhance airspace control procedures, including consolidation of terminal radar control facilities and equipment, or assist in en route surveillance, including oceanic and offshore flight tracking.
+&emsp;&emsp;"(C) facilities and equipment that enhance airspace control procedures, including consolidation of terminal radar control facilities and equipment, orassist in en route surveillance, including oceanic and offshore flight tracking.
 
 &emsp;"(2)
 
@@ -342,7 +342,7 @@ In General.—The Administrator \[of the Federal Aviation Administration\] may c
 
 "(b)
 
-Authority To Make Grants.—The Administrator may carry out the study by making a grant to,or entering into a cooperative agreement with, a nonprofit organization for the conduct of all or a part of the study.
+Authority To Make Grants.—The Administrator may carry out the study by making a grant to, or entering into a cooperative agreement with, a nonprofit organization for the conduct of all or a part of the study.
 
 "(c)
 

@@ -78,7 +78,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(B) any oration, speech, use of sound amplification equipment or device, or similar conduct that is not part of a funeral, memorial service, or ceremony;
 
-&emsp;&emsp;(C) the display of any placard, banner, flag, or similar device, unless such a displayis part of a funeral, memorial service, or ceremony; and
+&emsp;&emsp;(C) the display of any placard, banner, flag, or similar device, unless such a display is part of a funeral, memorial service, or ceremony; and
 
 &emsp;&emsp;(D) the distribution of any handbill, pamphlet, leaflet, or other written or printed matter other than a program distributed as part of a funeral, memorial service, or ceremony; and
 

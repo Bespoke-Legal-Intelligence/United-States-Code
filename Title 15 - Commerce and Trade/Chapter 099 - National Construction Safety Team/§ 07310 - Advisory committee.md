@@ -14,17 +14,19 @@ On January 1 of each year, the advisory committee shall transmit to the Committe
 
 #### (c) Duration of advisory committee
 
-Section 14 of the Federal Advisory Committee Act shall not apply to the advisory committee established under this section.
+Section 1013 of title 5 shall not apply to the advisory committee established under this section.
 
-(Pub. L. 107–231, §11, Oct. 1, 2002, 116 Stat. 1476.)
+(Pub. L. 107–231, §11, Oct. 1, 2002, 116 Stat. 1476; Pub. L. 117–286, §4(a)(77), Dec. 27, 2022, 136 Stat. 4314.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 107–231, Oct. 1,2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–286 substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

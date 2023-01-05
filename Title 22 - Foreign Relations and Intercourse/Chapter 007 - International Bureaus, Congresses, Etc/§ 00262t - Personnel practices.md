@@ -6,7 +6,7 @@ It shall be the policy of the United States that no initiatives, discussions, or
 
 #### (b) Consultation
 
-The Secretary of the Treasury shall consult with the Chairman and the ranking minority member of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate before any discussion or recommendations by any official of the United States Government concerning the placement or removal of any principal officer of any international financial institutions.
+The Secretary of the Treasury shall consult with the Chairman and the ranking minority member of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate before any discussion or recommendations by any official of the UnitedStates Government concerning the placement or removal of any principal officer of any international financial institutions.
 
 (Pub. L. 95–118, title XIX, §1901, as added Pub. L. 101–240, title V, §541(a), Dec. 19, 1989, 103 Stat. 2517.)
 

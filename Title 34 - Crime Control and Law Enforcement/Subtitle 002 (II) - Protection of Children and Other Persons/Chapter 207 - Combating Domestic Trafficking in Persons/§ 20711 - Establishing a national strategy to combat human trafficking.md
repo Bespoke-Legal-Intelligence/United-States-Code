@@ -10,7 +10,7 @@ The National Strategy shall include the following:
 
 &emsp;(1) Integrated Federal, State, local, and tribal efforts to investigate and prosecute human trafficking cases, including—
 
-&emsp;&emsp;(A) the development by each United States attorney, in consultation with State, local, and tribal government agencies, of a district-specific strategic plan to coordinatethe identification of victims and the investigation and prosecution of human trafficking crimes;
+&emsp;&emsp;(A) the development by each United States attorney, in consultation with State, local, and tribal government agencies, of a district-specific strategic plan to coordinate the identification of victims and the investigation and prosecution of human trafficking crimes;
 
 &emsp;&emsp;(B) the participation in any Federal, State, local, or tribal human trafficking task force operating in the district of the United States attorney; and
 
@@ -48,7 +48,7 @@ Not later than 60 days after December 21, 2018, the Attorney General shall desig
 
 &emsp;(1) coordinating, promoting, and supporting the work of the Department of Justice relating to human trafficking, including investigation, prosecution, training, outreach, victim support, grant-making, and policy activities;
 
-&emsp;(2) in consultation with survivors of human trafficking, or anti-human trafficking organizations, producing and disseminating, including making publicly available when appropriate, replication guides and training materials for law enforcement officers, prosecutors, judges, emergency responders, individuals working in victim services, adult and child protective services, social services, and public safety, medical personnel, mental health personnel, financial services personnel, and any other individuals whose work may bring them in contact with human trafficking regarding how to—
+&emsp;(2) in consultation with survivors of human trafficking, or anti-human trafficking organizations, producing and disseminating, including making publicly available when appropriate, replication guides and training materials for law enforcement officers, prosecutors, judges, emergency responders, individualsworking in victim services, adult and child protective services, social services, and public safety, medical personnel, mental health personnel, financial services personnel, and any other individuals whose work may bring them in contact with human trafficking regarding how to—
 
 &emsp;&emsp;(A) identify signs of human trafficking;
 
@@ -60,7 +60,7 @@ Not later than 60 days after December 21, 2018, the Attorney General shall desig
 
 &emsp;(3) carrying out such other duties as the Attorney General determines necessary in connection with enhancing the understanding, prevention, and detection of, and response to, human trafficking.
 
-(Pub. L. 114–22, title VI, §606, May 29, 2015, 129 Stat. 260; Pub. L. 115–392, §§9, 15, Dec. 21, 2018, 132 Stat. 5254, 5256.)
+(Pub. L. 109–164, title II, §211, formerly Pub. L. 114–22, title VI, §606, May 29, 2015, 129 Stat. 260; Pub. L. 115–392, §§9, 15, Dec. 21, 2018, 132 Stat. 5254, 5256; renumbered §211 of Pub. L. 109–164, Pub. L. 117–347, title I, §106(b)(1), Jan. 5, 2023, 136 Stat. 6204.)
 
 #### <b>Editorial Notes</b>
 

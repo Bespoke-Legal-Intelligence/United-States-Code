@@ -9,13 +9,15 @@
 | [205\.](%C2%A7%2000205%20-%20Removal%20of%20cases%20from%20State%20courts.md) | Removal of cases from State courts. |
 | [206\.](%C2%A7%2000206%20-%20Order%20to%20compel%20arbitration%3B%20appointment%20of%20arbitrators.md) | Order to compel arbitration; appointment of arbitrators. |
 | [207\.](%C2%A7%2000207%20-%20Award%20of%20arbitrators%3B%20confirmation%3B%20jurisdiction%3B%20proceeding.md) | Award of arbitrators; confirmation; jurisdiction; proceeding. |
-| [208\.](%C2%A7%2000208%20-%20Chapter%201%3B%20residual%20application.md) | Chapter 1; residual application. |
+| [208\.](%C2%A7%2000208%20-%20Application.md) | Application. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–90, §2(b)(2)(A), Mar. 3, 2022, 136 Stat. 27, substituted "Application" for "Chapter 1; residual application" in item 208.
 
 <b>1970</b>—Pub. L. 91–368, §1, July 31, 1970, 84 Stat. 692, added heading for chapter 2 and analysis of sections for such chapter.
 
@@ -31,4 +33,4 @@
 - [&sect; 00205 - Removal of cases from State courts](%C2%A7%2000205%20-%20Removal%20of%20cases%20from%20State%20courts.md)
 - [&sect; 00206 - Order to compel arbitration; appointment of arbitrators](%C2%A7%2000206%20-%20Order%20to%20compel%20arbitration%3B%20appointment%20of%20arbitrators.md)
 - [&sect; 00207 - Award of arbitrators; confirmation; jurisdiction; proceeding](%C2%A7%2000207%20-%20Award%20of%20arbitrators%3B%20confirmation%3B%20jurisdiction%3B%20proceeding.md)
-- [&sect; 00208 - Chapter 1; residual application](%C2%A7%2000208%20-%20Chapter%201%3B%20residual%20application.md)
+- [&sect; 00208 - Application](%C2%A7%2000208%20-%20Application.md)

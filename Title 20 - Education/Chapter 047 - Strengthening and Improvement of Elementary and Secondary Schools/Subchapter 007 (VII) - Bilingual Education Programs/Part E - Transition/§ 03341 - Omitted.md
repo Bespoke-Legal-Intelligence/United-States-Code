@@ -4,7 +4,7 @@
 
 #### Codification
 
-Section, Pub. L. 89–10, title VII, §7063, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 293,which related to application of this subchapter to grants and contracts entered into before Oct. 1, 1988, was omitted in the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Section, Pub. L. 89–10, title VII, §7063, as added Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 293, which related to application of this subchapter to grants and contracts entered into before Oct. 1, 1988, was omitted in the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 Prior sections 3341 to 3348 were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 100–297.
 

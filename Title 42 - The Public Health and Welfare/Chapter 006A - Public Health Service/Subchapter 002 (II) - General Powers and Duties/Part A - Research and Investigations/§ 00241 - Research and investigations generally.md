@@ -28,7 +28,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 (B) The Secretary shall conduct a comprehensive review of Federal programs of research on the biological effects of ionizing radiation.
 
-(3) The Secretary shall conduct and may support through grants and contracts research and studies on human nutrition, with particular emphasis on the role of nutrition in the prevention and treatment of disease and on the maintenance and promotion of health, and programs for the dissemination of information respecting human nutrition to health professionals and the public. In carrying out activities under this paragraph, the Secretary shall provide for the coordination of such of these activities as are performed by the different divisions within the Department of Health and Human Services and shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct and support such activities for such entity.
+(3) The Secretary shall conduct and may support through grants and contracts research and studies on human nutrition, with particular emphasis on the role of nutrition in the prevention and treatment of disease and on the maintenance and promotion of health, and programsfor the dissemination of information respecting human nutrition to health professionals and the public. In carrying out activities under this paragraph, the Secretary shall provide for the coordination of such of these activities as are performed by the different divisions within the Department of Health and Human Services and shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct and support such activities for such entity.
 
 (4) The Secretary shall publish a biennial report which contains—
 
@@ -74,7 +74,7 @@ The Secretary may conduct biomedical research, directly or through grants or con
 
 (D) Any person to whom a certificate is issued under subparagraph (A) to protect the privacy of an individual described in such subparagraph shall not, in any Federal, State, or local civil, criminal, administrative, legislative, or other proceeding, disclose or provide the name of such individual or any such information, document, or biospecimen that contains identifiable, sensitive information about the individual and that was created or compiled for purposes of the research, except in the circumstance described in subparagraph (C)(iii).
 
-(E) Identifiable, sensitive information protected under subparagraph (A), and all copies thereof, shall be immune from the legal process,and shall not, without the consent of the individual to whom the information pertains, be admissible as evidence or used for any purpose in any action, suit, or other judicial, legislative, or administrative proceeding.
+(E) Identifiable, sensitive information protected under subparagraph (A), and all copies thereof, shall be immune from the legal process, and shall not, without the consent of the individual to whom the information pertains, be admissible as evidence or used for any purpose in any action, suit, or other judicial, legislative, or administrative proceeding.
 
 (F) Identifiable, sensitive information collected by a person to whom a certificate has been issued under subparagraph (A), and all copies thereof, shall be subject to the protections afforded by this section for perpetuity.
 
@@ -92,7 +92,7 @@ The Secretary may conduct biomedical research, directly or through grants or con
 
 #### (e) Preterm labor and delivery and infant mortality
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand, intensify, and coordinate the activities of the Centers for Disease Control and Prevention with respect to preterm labor and delivery and infant mortality.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand, intensify, and coordinate the activities of the Centers for Disease Control and Prevention with respect to preterm labor and delivery, preventable maternal mortality and severe maternal morbidity, and infant mortality.
 
 #### (f) Exemption of certain biomedical information from disclosure
 
@@ -120,11 +120,13 @@ Subchapter I of chapter 35 of title 44 shall not apply to the voluntary collecti
 
 (3) Amounts collected under paragraph (2) shall be credited to the appropriations accounts that incurred the costs to make available the research substances and living organisms involved, and shall remain available until expended for carrying out activities under such accounts.
 
-(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Pub. L. 86–798, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 87–838, §2, Oct. 17, 1962, 76 Stat. 1073; Pub. L. 89–115, §3, Aug. 9, 1965, 79 Stat. 448; Pub. L. 90–174, §9, Dec. 5, 1967, 81 Stat. 540; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §292, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 92–218, §6(a)(2), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–423, §7(b), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(1), July 12, 1974, 88 Stat. 346; Pub. L. 93–352, title I, §111, July 23, 1974, 88 Stat. 360; Pub. L. 94–278, title I, §111, Apr. 22, 1976, 90 Stat. 405; Pub. L. 95–622, title II, §§261, 262, Nov. 9, 1978, 92 Stat. 3434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–158, §3(a)(5), Nov. 20, 1985, 99 Stat. 879; Pub. L. 99–570, title IV, §4021(b)(2), Oct. 27, 1986, 100 Stat. 3207–124; Pub. L. 99–660, title I, §104, Nov. 14, 1986, 100 Stat. 3751; Pub. L. 100–607, title I, §163(1), (2), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 103–43, title XX, §2009, June 10, 1993, 107 Stat. 213; Pub. L. 109–450, §3(a), Dec. 22, 2006, 120 Stat. 3341; Pub. L. 114–255, div. A, title II, §§2012(a), 2013, 2035, 2043, Dec. 13, 2016, 130 Stat. 1049, 1050, 1062, 1074; Pub. L. 117–81, div. A, title XVII, §1702(j)(1)(A), Dec. 27, 2021, 135 Stat. 2159.)
+(July 1, 1944, ch. 373, title III, §301, 58 Stat. 691; July 3, 1946, ch. 538, §7(a), (b), 60 Stat. 423; June 16, 1948, ch. 481, §4(e), (f), 62 Stat. 467; June 24, 1948, ch. 621, §4(e), (f), 62 Stat. 601; June 25, 1948, ch. 654, §1, 62 Stat. 1017; July 3, 1956, ch. 510, §4, 70 Stat. 490; Pub. L. 86–798, Sept. 15, 1960, 74 Stat. 1053; Pub. L. 87–838, §2, Oct. 17, 1962, 76 Stat. 1073; Pub. L. 89–115, §3, Aug. 9, 1965, 79 Stat. 448; Pub. L. 90–174, §9, Dec. 5, 1967, 81 Stat. 540; Pub. L. 91–513, title I, §3(a), Oct. 27, 1970, 84 Stat. 1241; Pub. L. 91–515, title II, §292, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 92–218, §6(a)(2), Dec. 23, 1971, 85 Stat. 785; Pub. L. 92–423, §7(b), Sept. 19, 1972, 86 Stat. 687; Pub. L. 93–282, title I, §122(b), May 14, 1974, 88 Stat. 132; Pub. L. 93–348, title I, §104(a)(1), July 12, 1974, 88 Stat. 346; Pub. L. 93–352, title I, §111, July 23, 1974, 88 Stat. 360; Pub. L. 94–278, title I, §111, Apr. 22, 1976, 90 Stat. 405; Pub. L. 95–622, title II, §§261, 262, Nov. 9, 1978, 92 Stat. 3434; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 99–158, §3(a)(5), Nov. 20, 1985, 99 Stat. 879; Pub. L. 99–570, title IV, §4021(b)(2), Oct. 27, 1986, 100 Stat. 3207–124; Pub. L. 99–660, title I, §104, Nov. 14, 1986, 100 Stat. 3751; Pub. L. 100–607, title I, §163(1), (2), Nov. 4, 1988, 102 Stat. 3062; Pub. L. 103–43, title XX, §2009, June 10, 1993, 107 Stat. 213; Pub. L. 109–450, §3(a), Dec. 22, 2006, 120 Stat. 3341; Pub. L. 114–255, div. A, title II, §§2012(a), 2013, 2035, 2043, Dec. 13, 2016, 130 Stat. 1049, 1050, 1062, 1074; Pub. L. 117–81, div. A, title XVII, §1702(j)(1)(A), Dec. 27, 2021, 135 Stat. 2159; Pub. L. 117–103, div. P, title I, §141(a), Mar. 15, 2022, 136 Stat. 797.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–103 inserted ", preventable maternal mortality and severe maternal morbidity," after "delivery".
 
 <b>2021</b>—Subsec. (a)(7). Pub. L. 117–81 substituted "sections 3861 and 4141" for "sections 2353 and 2354".
 
@@ -184,7 +186,7 @@ Subsec. (h). Pub. L. 91–515 substituted "eight" for "five" succeeding fiscal y
 
 <b>1962</b>—Subsec. (d). Pub. L. 87–838 inserted "or research training" in two places.
 
-<b>1960</b>—Subsec. (d). Pub. L. 86–798 authorized the Surgeon General, upon recommendation of the National Advisory Health Council, to make grants to public or non-profit universities, hospitals, laboratories, and other institutions to support research and research training programs, and to make available for such research and research training programs, up to 15 per centum of amounts provided for research grants through the appropriations for the National Institutes of Health.
+<b>1960</b>—Subsec. (d). Pub. L. 86–798 authorized the Surgeon General, upon recommendation of the National Advisory Health Council, to make grants to public or non-profit universities, hospitals, laboratories, and other institutions to support research and research training programs, and to make available for such research and research training programs, up to 15 per centum of amounts provided for research grantsthrough the appropriations for the National Institutes of Health.
 
 <b>1956</b>—Subsecs. (g), (h). Act July 3, 1956, added subsec. (g) and redesignated former subsec. (g) as (h).
 
@@ -224,6 +226,26 @@ Amendment by Pub. L. 92–218 effective 60 days after Dec. 23, 1971, or on such 
 
 Pub. L. 114–255, div. A, title II, §2012(b), Dec. 13, 2016, 130 Stat. 1050, provided that: "Beginning 180 days after the date of enactment of this Act \[Dec. 13, 2016\], all persons engaged in research and authorized by the Secretary of Health and Human Services to protect information under section 301(d) of the Public Health Service Act (42 U.S.C. 241(d)) prior to the date of enactment of this Act shall be subject to the requirements of such section (as amended by this Act)."
 
+#### Prohibition Against Reinstating Interdisciplinary Review Process for Non-NIH-Funded Researchers
+
+Pub. L. 117–215, title I, §106, Dec. 2, 2022, 136 Stat. 2264, provided that: "The Secretary of Health and Human Services may not—
+
+&emsp;"(1) reinstate the Public Health Service interdisciplinary review process described in the guidance entitled 'Guidance on Procedures for the Provision of Marijuana for Medical Research' (issued on May 21, 1999); or
+
+&emsp;"(2) require another review of scientific protocols that is applicable only to research on marijuana or its components."
+
+\[For definition of "marijuana" as used in section 106 of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out as a note under section 801 of Title 21, Food and Drugs.\]
+
+#### Director of Advanced Research Projects for Health
+
+Pub. L. 117–328, div. H, title II, Dec. 29, 2022, 136 Stat. 4878, provided in part: "That the President shall appoint in the Department of Health and Human Services a director of advanced research projects for health (Director): <i>Provided further</i>, That funds may be used to make or rescind appointments of scientific, medical, and professional personnel without regard to any provision in title 5 governing appointments under the civil service laws: <i>Provided further</i>, That funds may be used to fix the compensation of such personnel at a rate to be determined by the Director, up to the amount of annual compensation (excluding expenses) specified in section 102 of title 3, United States Code: <i>Provided further</i>, That the Director may use funds made available under this heading to make awards in the form of grants, contracts, cooperative agreements, and cash prizes, and enter into other transactions (as defined in section 319L(a)(3) \[42 U.S.C. 247d–7e(a)(3)\] of the PHS \[Public Health Service\] Act): <i>Provided further</i>, That activities supported with funds provided under this heading shall not be subject to the requirements of sections 406(a)(3)(A)(ii) or 492 \[42 U.S.C. 284a(a)(3)(A)(ii), 289a\] of the PHS \[Public Health Service\] Act: <i>Provided further</i>, That the Secretary \[of Health and Human Services\] may transfer the Advanced Research Projects Agency for Health, including the functions, personnel, missions, activities, authorities, and funds, within 30 days of enactment of this Act \[Dec. 29, 2022\] to any agency or office of the Department of Health and Human Services, including the National Institutes of Health: <i>Provided further</i>, That the Committees on Appropriations of the House of Representatives and the Senate shall be notified at least 15 days in advance of any transfer pursuant to the preceding proviso."
+
+\[For transfer of all functions, personnel, missions, activities, authorities, and funds of the Advanced Research Projects Agency for Health to the Advanced Research Projects Agency–Health within the National Institutes of Health, see section 290c of this title.\]
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–103, div. H, title II, Mar. 15, 2022, 136 Stat. 465.
+
 #### Coordination of Data Surveys and Reports
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: "The Secretary of Health and Human Services, through the Assistant Secretary for Planning and Evaluation, shall establish a clearinghouse for the consolidation and coordination of all Federal databases and reports regarding children's health."
@@ -256,7 +278,7 @@ Pub. L. 103–43, title XIX, §1910, June 10, 1993, 107 Stat. 205, directed Secr
 
 #### Study of Thyroid Morbidity for Hanford, Washington
 
-Pub. L. 100–607, title I, §161, Nov. 4, 1988, 102 Stat. 3059, as amended by Pub. L. 102–531, title III, §312(e)(1),Oct. 27, 1992, 106 Stat. 3506, directed Secretary of Health and Human Services, acting through Director of Centers for Disease Control and Prevention, to conduct a study of thyroid morbidity of the population, including Indian tribes and tribal organizations, in vicinity of Hanford, in State of Washington, authorized Director to contract out portions of study, and required Director, not later than 42 months after Nov. 4, 1988, to transmit a report, including such study, to Congress, chief executive officers of States of Oregon and Washington, and governing officials of Indian tribes in vicinity of Hanford, Washington.
+Pub. L. 100–607, title I, §161, Nov. 4, 1988, 102 Stat. 3059, as amended by Pub. L. 102–531, title III, §312(e)(1), Oct. 27, 1992, 106 Stat. 3506, directed Secretary of Health and Human Services, acting through Director of Centers for Disease Control and Prevention, to conduct a study of thyroid morbidity of the population, including Indian tribes and tribal organizations, in vicinity of Hanford, in State of Washington, authorized Director to contract out portions of study, and required Director, not later than 42 months after Nov. 4, 1988, to transmit a report, including such study, to Congress, chief executive officers of States of Oregon and Washington, and governing officials of Indian tribes in vicinity of Hanford, Washington.
 
 #### National Commission on Sleep Disorders Research
 
@@ -310,7 +332,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. Research involving human embryonic stem cells and human non-embryonic stem cells has the potential to lead to better understanding and treatment of many disabling diseases and conditions. Advances over the past decade in this promising scientific field have been encouraging, leading to broad agreement in the scientific community that the research should be supported by Federal funds.
 
-For the past 8 years, the authority of the Department of Health and Human Services, including the National Institutes of Health (NIH), to fund and conduct human embryonic stem cell research has been limited by Presidential actions. The purpose of this order is to remove these limitations on scientific inquiry, to expand NIH support for the exploration of human stem cell research, and in so doing to enhance the contribution ofAmerica's scientists to important new discoveries and new therapies for the benefit of humankind.
+For the past 8 years, the authority of the Department of Health and Human Services, including the National Institutes of Health (NIH), to fund and conduct human embryonic stem cell research has been limited by Presidential actions. The purpose of this order is to remove these limitations on scientific inquiry, to expand NIH support for the exploration of human stem cell research, and in so doing to enhance the contribution of America's scientists to important new discoveries and new therapies for the benefit of humankind.
 
 Sec. 2. <i>Research</i>. The Secretary of Health and Human Services (Secretary), through the Director of NIH, may support and conduct responsible, scientifically worthy human stem cell research, including human embryonic stem cell research, to the extent permitted by law.
 

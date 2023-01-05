@@ -14,9 +14,9 @@
 
 &emsp;&emsp;(D) shall not direct such advertisement at children under the age of 12, unless such service is a bona fide educational service;
 
-&emsp;&emsp;(E) in the case of advertising directed primarily to individuals under the age of 18, clearly and conspicuously state in such advertising that such individual must have theconsent of such individual's parent or legal guardian for the use of such services;
+&emsp;&emsp;(E) in the case of advertising directed primarily to individuals under the age of 18, clearly and conspicuously state in such advertising that such individual must have the consent of such individual's parent or legal guardian for the use of such services;
 
-&emsp;&emsp;(F) be prohibited from using advertisements that emit electronic tones which can automatically dial a pay-per-call telephone number;
+&emsp;&emsp;(F) be prohibited from using advertisements that emit electronic tones which canautomatically dial a pay-per-call telephone number;
 
 &emsp;&emsp;(G) ensure that, whenever the number to be called is shown in television and print media advertisements, the charges for the call are clear and conspicuous and (when shown in television advertisements) displayed for the same duration as that number is displayed;
 
@@ -88,7 +88,7 @@
 
 #### (7) Special rule for infrequent publications
 
-&emsp;The rules prescribed by the Commission under subparagraphs (A) and (G) of paragraph (1) may permit, in the case of publications that are widely distributed, that are printed annually or less frequently, and that have an established policy of not publishing specific prices, advertising that in lieu of the cost disclosures required by such subparagraphs, clearly and conspicuously disclose that use of the telephone number may result in a substantial charge.
+&emsp;The rules prescribed by the Commission under subparagraphs (A) and (G) of paragraph\(1) may permit, in the case of publications that are widely distributed, that are printed annually or less frequently, and that have an established policy of not publishing specific prices, advertising that in lieu of the cost disclosures required by such subparagraphs, clearly and conspicuously disclose that use of the telephone number may result in a substantial charge.
 
 #### (8) Treatment of rules
 

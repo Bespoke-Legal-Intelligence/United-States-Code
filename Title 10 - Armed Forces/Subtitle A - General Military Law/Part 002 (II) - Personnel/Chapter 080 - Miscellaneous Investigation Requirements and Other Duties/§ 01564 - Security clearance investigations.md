@@ -104,6 +104,134 @@ Subsec. (f). Pub. L. 111–383, §351(a)(2), added subsec. (f).
 
 Pub. L. 111–383, div. A, title III, §351(b), Jan. 7, 2011, 124 Stat. 4193, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to a background investigation conducted after the date of the enactment of this Act \[Jan. 7, 2011\]."
 
+#### Security Clearance Bridge Pilot Program
+
+Pub. L. 117–263, div. A, title VIII, §882, Dec. 23, 2022, 136 Stat. 2744, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, in consultation with the Director of National Intelligence, shall conduct a pilot program to allow the Defense Counterintelligence and Security Agency to sponsor the personal security clearances of the employees of innovative technology companies that are performing a contract of the Department of Defense while the Government completes the adjudication of the facility clearance application of such a \[sic\] innovative technology company.
+
+"(b)
+
+Additional Requirements.—
+
+&emsp;"(1)
+
+Personal security clearance authority.—
+
+&emsp;&emsp;"(A)
+
+In general.—Under the pilot program, the Defense Counterintelligence and Security Agency may nominate and sponsor the personal security clearances of the employees of an innovative technology company.
+
+&emsp;&emsp;"(B)
+
+Limitation.—Under the pilot program, the Defense Counterintelligence and Security Agency may sponsor the personal security clearances of employees of not more than 75 innovative technology companies.
+
+&emsp;"(2)
+
+Adjudication of the facility clearance application.—Any adjudication of a facility clearance application of an innovative technology company described in subsection (a) shall include an assessment and mitigation of foreign ownership, control, or influence of the innovative technology company, as applicable.
+
+"(c)
+
+Clearance Transfer.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days after an innovative technology company is granted facility clearance, the Defense Counterintelligence and Security Agency shall transfer any personal clearances of employees of the innovative technology company held by the Defense Counterintelligence and Security Agency under the pilot program back to the innovative technology company.
+
+&emsp;"(2)
+
+Denial of facility clearance.—Not later than 10 days after an innovative technology company is denied facility clearance, the Defense Counterintelligence and Security Agency shall release any personal clearances of employees of the innovative technology company held by the Defense Counterintelligence and Security Agency under the pilot program.
+
+"(d)
+
+Participant Selection.—The Under Secretary of Defense for Research and Engineering, in consultation with the Under Secretary of Defense for Acquisition and Sustainment and the service acquisition executive of the military department concerned (as such terms are defined, respectively, in section 101 of title 10, United States Code), shall select innovative technology companies to participate in the pilot program.
+
+"(e)
+
+Sunset.—The pilot program shall terminate on December 31, 2028.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Facility clearance.—The term 'facility clearance' has the meaning given the term 'Facility Clearance' in section 95.5 of title 10, Code of Federal Regulations, or any successor regulation.
+
+&emsp;"(2)
+
+Foreign ownership, control, or influence.—The term 'foreign ownership, control, or influence' has the meaning given in section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505; 10 U.S.C. 4819 note).
+
+&emsp;"(3)
+
+Innovative technology company.—The term 'innovative technology company' means a nontraditional defense contractor (as defined in section 3014 of title 10, United States Code) that—
+
+&emsp;&emsp;"(A) provides goods or services related to—
+
+&emsp;&emsp;&emsp;"(i) one or more of the 14 critical technology areas described in the memorandum by the Under Secretary of Defense for Research and Engineering issued on February 1, 2022, entitled 'USD(R\&E) Technology Vision for an Era of Competition'; or
+
+&emsp;&emsp;&emsp;"(ii) information technology, software, or hardware that is unavailable from any other entity that possesses a facility clearance; and
+
+&emsp;&emsp;"(B) is selected by the Under Secretary of Defense for Research and Engineering under subsection (d) to participate in the pilot program.
+
+&emsp;"(4)
+
+Personal security clearance.—The term 'personal security clearance' means the security clearance of an individual who has received approval from the Department of Defense to access classified information.
+
+&emsp;"(5)
+
+Pilot program.—The term 'pilot program' means the pilot program established under subsection (a)."
+
+#### Security Clearances for Recently Separated Members of the Armed Forces and Civilian Employees of the Department of Defense
+
+Pub. L. 117–263, div. A, title X, §1045, Dec. 23, 2022, 136 Stat. 2772, provided that:
+
+"(a)
+
+Improvements.—
+
+&emsp;"(1)
+
+In general.—No later than September 30, 2023, the Secretary of Defense, in coordination with the Director of National Intelligence when acting as the Security Executive Agent, shall establish a process to—
+
+&emsp;&emsp;"(A) determine, on the date on which a covered individual separates from the Armed Forces or the Department of Defense (as the case may be), whether the covered individual held an eligibility to access classified information or to occupy a sensitive position immediately prior to such separation and requires an eligibility of an equal or lower level for employment as a covered contractor, except as provided in subsection (b);
+
+&emsp;&emsp;"(B) ensure that the re-establishment of trust of a covered individual's eligibility to occupy a sensitive position takes place expeditiously, in accordance with applicable laws, Executive Orders, or Security Executive Agent policy; and
+
+&emsp;&emsp;"(C) ensure that any additional security processing required to re-establish trust to reinstate a covered individual's eligibility to access classified information or occupy a sensitive position takes place expeditiously.
+
+&emsp;"(2)
+
+Coast Guard.—In the case of a member of the Armed Forces who is a member of the Coast Guard, the Secretary of Defense shall carry out paragraph (1) in consultation with the Secretary of the Department in which the Coast Guard is operating.
+
+"(b)
+
+Exceptions.—
+
+&emsp;"(1)
+
+In general.—Subsection (a) shall not apply with respect to a covered individual—
+
+&emsp;&emsp;"(A) whose previously held security clearance is, or was as of the date of separation of the covered individual, under review as a result of one or more potentially disqualifying factors or conditions that have not been fully investigated or mitigated; or
+
+&emsp;&emsp;"(B) in the case of a member of the Armed Forces, who separated from the Armed Forces under other than honorable conditions.
+
+&emsp;"(2)
+
+Clarification of review exception.—The exception specified in paragraph (1)(A) shall not apply with respect to a routine periodic reinvestigation or a continuous vetting investigation in which no potentially disqualifying factors or conditions have been found.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered contractor' means an individual who is employed by an entity that carries out work under a contract with the Department of Defense or an element of the intelligence community.
+
+&emsp;"(2) The term 'covered individual' means a former member of the Armed Forces or a former civilian employee of the Department of Defense.
+
+&emsp;"(3) The term 'intelligence community' has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)."
+
 #### Department of Defense Policy on Unclassified Workspaces and Job Functions of Personnel With Pending Security Clearances
 
 Pub. L. 116–283, div. A, title XI, §1101, Jan. 1, 2021, 134 Stat. 3884, provided that:
@@ -158,7 +286,7 @@ Commencement of activities.—The Director may not commence carrying out any act
 
 &emsp;"(2)
 
-Legal and reporting obligations.—The Director shall ensure that no activity carried out under subsection (a) obligates a State, local, or tribal entity to any additional legal or reporting obligation tothe Defense Counterintelligence and Security Agency.
+Legal and reporting obligations.—The Director shall ensure that no activity carried out under subsection (a) obligates a State, local, or tribal entity to any additional legal or reporting obligation to the Defense Counterintelligence and Security Agency.
 
 &emsp;"(3)
 
@@ -186,7 +314,7 @@ Pub. L. 116–92, div. A, title XVI, §1627, Dec. 20, 2019, 133 Stat. 1740, prov
 
 "(a)
 
-Reports.—On a semiannual basis during the period beginning on the date of the enactment of this Act \[Dec. 20, 2019\] and ending on the date specified in subsection (b), and annually thereafter, the Director of the Defense Counterintelligence and Security Agency shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the processes in place for adjudicating security clearances and the progress made to address the backlog of security clearance applications, including—
+Reports.—On a semiannual basis during the period beginning on the date of the enactment of this Act\[Dec. 20, 2019\] and ending on the date specified in subsection (b), and annually thereafter, the Director of the Defense Counterintelligence and Security Agency shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the processes in place for adjudicating security clearances and the progress made to address the backlog of security clearance applications, including—
 
 &emsp;"(1) metrics used by the Director to evaluate the inventory and timeliness of adjudicating security clearance cases; and
 
@@ -386,7 +514,7 @@ Quarterly and Annual Briefings and Reports.—
 
 &emsp;"(1)
 
-Annual assessment of timeliness.—Not later than December 31, 2018, and each December 31 thereafter through the date specified in paragraph (4), the Security Executive Agent, in coordination with the Chair and other Principals of the Security, Suitability, and Credentialing Performance Accountability Council, shall submit to the appropriate committees of Congress a report on the timeliness of personnel security clearance initiations, investigations, and adjudications, by clearance level, for both initial investigations and periodic reinvestigations during the prior fiscal year for Government and contractor employees, including the following:
+Annual assessment of timeliness.—Not later than December 31, 2018, and each December 31 thereafter through the date specified in paragraph (4), the Security Executive Agent, in coordination with the Chair and other Principals of the Security, Suitability, and Credentialing Performance Accountability Council, shall submit to the appropriate committees of Congress a report on the timeliness of personnel security clearance initiations, investigations, and adjudications, by clearance level, for both initial investigations and periodic reinvestigations duringthe prior fiscal year for Government and contractor employees, including the following:
 
 &emsp;&emsp;"(A) The average periods of time taken by each authorized investigative agency and authorized adjudicative agency to initiate cases, conduct investigations, and adjudicate cases as compared with established timeliness objectives, from the date a completed security clearance application is received to the date of adjudication and notification to the subject and the subject's employer.
 
@@ -558,7 +686,7 @@ Reciprocity directive.—Not later than 180 days after the date of the enactment
 
 &emsp;"(3)
 
-Implementation directives.—The Secretary, working with the Security Executive Agent and theSuitability Executive Agent, shall jointly develop and issue directives on—
+Implementation directives.—The Secretary, working with the Security Executive Agent and the Suitability Executive Agent, shall jointly develop and issue directives on—
 
 &emsp;&emsp;"(A) completing the implementation of the National Security Sensitive Position designations required by section 1400 of title 5, Code of Federal Regulations; and
 
@@ -648,7 +776,7 @@ Security Enterprise Management.—Not later than 180 days after the date of enac
 
 &emsp;&emsp;"(C) to define and implement data standards to support common electronic access to critical Government records; and
 
-&emsp;&emsp;"(D) to reduce the burden placed on Government data providers by centralizing requests for recordsaccess and ensuring proper sharing of the data with appropriate investigative and adjudicative elements.
+&emsp;&emsp;"(D) to reduce the burden placed on Government data providers by centralizing requests for records access and ensuring proper sharing of the data with appropriate investigative and adjudicative elements.
 
 "(d)
 
@@ -804,7 +932,7 @@ In general.—Not later than 90 days after the date of the enactment of this Act
 
 Elements of analysis.—The analysis under paragraph (1) shall do the following:
 
-&emsp;&emsp;"(A) Determine and compare, for each of the Office of Personnel Management and the components of the Department that conduct personnel security investigations as of the date of the analysis, the quality, cost, and timeliness associated with personnel security investigations and reinvestigations of each type and level of clearance, and identify the elements that contribute to such cost, schedule, and performance.
+&emsp;&emsp;"(A) Determine and compare, for each of the Office of Personnel Management and the components of the Department that conduct personnel security investigations as of the date of the analysis, thequality, cost, and timeliness associated with personnel security investigations and reinvestigations of each type and level of clearance, and identify the elements that contribute to such cost, schedule, and performance.
 
 &emsp;&emsp;"(B) Identify mechanisms for permanently improving the transparency of the cost structure of personnel security investigations and reinvestigations.
 
@@ -962,7 +1090,7 @@ Pub. L. 113–66, div. A, title XVII, §1747, Dec. 26, 2013, 127 Stat. 983, prov
 
 "(a)
 
-Notification of Policy.—Whenever a member of the Armed Forces is required to complete StandardForm 86 of the Questionnaire for National Security Positions in connection with an application, investigation, or reinvestigation for a security clearance, the member shall be notified of the policy described in subsection (b) regarding question 21 of such form.
+Notification of Policy.—Whenever a member of the Armed Forces is required to complete Standard Form 86 of the Questionnaire for National Security Positions in connection with an application, investigation, or reinvestigation for a security clearance, the member shall be notified of the policy described in subsection (b) regarding question 21 of such form.
 
 "(b)
 
@@ -984,7 +1112,7 @@ Ex. Ord. No. 13869, Apr. 24, 2019, 84 F.R. 18125, provided:
 
 By the power vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Findings and Purpose</i>. Section 925 of the National Defense Authorization Act for Fiscal Year 2018 (10 U.S.C. 1564 note) provides that the Secretary of Defense has the authority to conduct security, suitability, and credentialing background investigations for Department of Defense personnel and requires the Secretary, in consultation with the Director of the Office of Personnel Management, to provide for a phased transition to the Department of Defense of the conduct of such investigations conducted by the National Background Investigations Bureau (NBIB). Implementing that legislative mandate while retaining the benefit of economies of scale in addressing the Federal Government's background investigations workload, avoiding unnecessary risk, promoting the ongoing alignment of efforts with respect to vetting Federal employees and contractors, and facilitating needed reforms in this critical area requires that the primary responsibility for conducting background investigations Government-wide be transferred from the Office of Personnel Management to the Department of Defense.
+Section 1. <i>Findings and Purpose</i>. Section 925 of the National Defense Authorization Act for Fiscal Year2018 (10 U.S.C. 1564 note) provides that the Secretary of Defense has the authority to conduct security, suitability, and credentialing background investigations for Department of Defense personnel and requires the Secretary, in consultation with the Director of the Office of Personnel Management, to provide for a phased transition to the Department of Defense of the conduct of such investigations conducted by the National Background Investigations Bureau (NBIB). Implementing that legislative mandate while retaining the benefit of economies of scale in addressing the Federal Government's background investigations workload, avoiding unnecessary risk, promoting the ongoing alignment of efforts with respect to vetting Federal employees and contractors, and facilitating needed reforms in this critical area requires that the primary responsibility for conducting background investigations Government-wide be transferred from the Office of Personnel Management to the Department of Defense.
 
 Sec. 2. <i>Transfer or Delegation of Background Investigation Functions; Further Amendments to Executive Order 13467 of June 30, 2008, as amended</i>. \[Amended Ex. Ord. No. 13467, set out as a note under section 3161 of Title 50, War and National Defense.\]
 

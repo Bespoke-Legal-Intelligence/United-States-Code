@@ -134,7 +134,7 @@ A resource advisory committee shall—
 
 #### (4) Geographic distribution
 
-&emsp;The members of a resource advisory committee shall reside within the State in which the committee has jurisdiction and, to extent <sup>2</sup> practicable, the Secretary concerned shall ensure local representation in each category in paragraph (2).
+&emsp;The members of a resource advisory committee shall reside within the State in whichthe committee has jurisdiction and, to extent <sup>2</sup> practicable, the Secretary concerned shall ensure local representation in each category in paragraph (2).
 
 #### (5) Chairperson
 
@@ -180,7 +180,7 @@ A resource advisory committee shall—
 
 #### (2) Meetings
 
-&emsp;All meetings of a resource advisory committee shall be announced at least 1 week inadvance in a local newspaper of record and shall be open to the public.
+&emsp;All meetings of a resource advisory committee shall be announced at least 1 week in advance in a local newspaper of record and shall be open to the public.
 
 #### (3) Records
 
@@ -236,7 +236,7 @@ A resource advisory committee shall—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary concerned shall carry out a national pilot program to allow the Chief of the Forest Service or the Director of the Bureau of Land Management, as applicable, to submit to the Secretary concerned nominations of individuals for appointment as members of resource advisory committees.
+&emsp;&emsp;The Secretary concerned shall carry out a national pilot program to allow the Chief ofthe Forest Service or the Director of the Bureau of Land Management, as applicable, to submit to the Secretary concerned nominations of individuals for appointment as members of resource advisory committees.
 
 #### (B) Appointment
 

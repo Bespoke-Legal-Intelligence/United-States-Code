@@ -14,7 +14,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) the Committee on the Judiciary, the Committee on Appropriations, and the Committee on Health, Education, Labor, and Pensions of the Senate; and
 
-&emsp;&emsp;&emsp;(ii) the Committee on Oversight and Government Reform, the Committee on the Judiciary, the Committee on Energyand Commerce, and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;&emsp;(ii) the Committee on Oversight and Government Reform, the Committee on the Judiciary, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives.
 
 #### (B) Submission to Congress
 
@@ -80,7 +80,7 @@ In this chapter:
 
 #### (11) National Drug Control Program agency
 
-&emsp;The term "National Drug Control Program agency" means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementing any aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
+&emsp;The term "National Drug Control Program agency" means any agency (or bureau, office, independent agency, board, division, commission, subdivision, unit, or other component thereof) that is responsible for implementingany aspect of the National Drug Control Strategy, including any agency that receives Federal funds to implement any aspect of the National Drug Control Strategy, but does not include any agency that receives funds for drug control activity solely under the National Intelligence Program or the Joint Military Intelligence Program.
 
 #### (12) National Drug Control Strategy
 
@@ -96,7 +96,7 @@ In this chapter:
 
 #### (15) State, local, and Tribal affairs
 
-&emsp;The term "State, local, and Tribal affairs" means domestic activities conducted by a National Drug Control Program agency that areintended to reduce the availability and use of illegal drugs, including—
+&emsp;The term "State, local, and Tribal affairs" means domestic activities conducted by a National Drug Control Program agency that are intended to reduce the availability and use of illegal drugs, including—
 
 &emsp;&emsp;(A) coordination and enhancement of Federal, State, local, and Tribal law enforcement drug control efforts;
 

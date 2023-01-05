@@ -14,7 +14,7 @@ The Architect of the Capitol, subject to the direction of the Joint Committee on
 
 (2) The Secretary of the Treasury shall invest any portion of the account designated in paragraph (1) that, as determined by the Architect, is not required to meet current expenses. Each investment shall be made in an interest-bearing obligation of the United States or an obligation guaranteed both as to principal and interest by the United States that, as determined by the Architect, has a maturity date suitable for the purposes of the account. The Secretary of the Treasury shall credit interest earned on the obligations to the account.
 
-(3) Receipts, obligations, and expenditures of funds under this section shall be included in annual estimates submitted by the Architect for the operation and maintenance of the Botanic Garden and such funds shall be expended by the Architect, without regard to section 6101 of title 41, for the purposes of this section after approval in appropriation Acts. All such sums shall remain available until expended, without fiscal year limitation.
+(3) Receipts, obligations, and expenditures of funds under this section shall be included in annual estimates submitted by the Architect for the operation and maintenance of the Botanic Garden and such funds shall be expended by theArchitect, without regard to section 6101 of title 41, for the purposes of this section after approval in appropriation Acts. All such sums shall remain available until expended, without fiscal year limitation.
 
 #### (c) Donations of personal services
 

@@ -338,7 +338,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (C) Designated agency ethics official
 
-&emsp;&emsp;The Chief Ethics Officer shall serve as the designated agency ethics official for the Bank pursuant to the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).
+&emsp;&emsp;The Chief Ethics Officer shall serve as the designated agency ethics official for the Bank pursuant to chapter 131 of title 5.
 
 #### (3) Duties
 
@@ -418,11 +418,11 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 &emsp;&emsp;(B) to review all required reports on the default rate of the Bank before submission to Congress under section 635g(g) of this title.
 
-(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I \[title VI, §§613, 614(a), 620(b)\], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362; Pub. L. 114–94, div. E, title LI, §§51004–51006(a), title LIII, §53002, title LIV, §54002(c), Dec. 4, 2015, 129 Stat. 1764–1766, 1768, 1769; Pub. L. 116–94, div. I, title IV, §409(a), Dec. 20, 2019, 133 Stat. 3025.)
+(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I \[title VI, §§613, 614(a), 620(b)\], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362; Pub. L. 114–94, div. E, title LI, §§51004–51006(a), title LIII, §53002, title LIV, §54002(c), Dec. 4, 2015, 129 Stat. 1764–1766, 1768, 1769; Pub. L. 116–94, div. I, title IV, §409(a), Dec. 20, 2019, 133 Stat. 3025; Pub. L. 117–286, §4(c)(22), Dec. 27, 2022, 136 Stat. 4357.)
 
 #### Termination of Amendment
 
-<i>For termination of amendment by Pub. L. 116–94, see section 409(b) of Pub. L. 116–94, set out as a Termination Date of 2019 Amendment note below.</i>
+<i>For termination of amendment by Pub. L. 116–94, see Termination Date of 2019 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -430,13 +430,13 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 The Trade Secrets Act, referred to in subsec. (c)(10)(C)(ii)(III), is probably a reference to section 1905 of Title 18, Crimes and Criminal Procedure.
 
-The Ethics in Government Act of 1978, referred to in subsec. (k)(2)(C), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
-
 #### Codification
 
 Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members of the Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (k)(2)(C). Pub. L. 117–286 substituted "chapter 131 of title 5." for "the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.)."
 
 <b>2019</b>—Subsec. (c)(6). Pub. L. 116–94 designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -476,7 +476,7 @@ Subsec. (i). Pub. L. 109–438, §14(a), added subsec. (i).
 
 <b>2002</b>—Subsec. (d)(2)(B). Pub. L. 107–189 realigned margins.
 
-<b>1999</b>—Subsec. (c)(6). Pub. L. 106–46 amended par. (6) generally. Prior to amendment, par. (6) read as follows:"A majority of the Board of Directors shall constitute a quorum."
+<b>1999</b>—Subsec. (c)(6). Pub. L. 106–46 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "A majority of the Board of Directors shall constitute a quorum."
 
 <b>1997</b>—Subsec. (d)(2). Pub. L. 105–121, §8, designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -564,9 +564,17 @@ Report.—Not later than 1 year after the date of enactment of this Act, the Exp
 
 &emsp;&emsp;"(B) whether or not the authority of subsection (a) should be extended."
 
-\[Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) of such section shall remain in effect until September 30, 2021".\]
+\[Pub. L. 117–328, div. K, title VI, Dec. 29, 2022, 136 Stat. 4997, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) of such section shall remain in effect until September 30, 2023".\]
+
+\[Prior to repeal, section 117(a) of Pub. L. 102–429 read as follows: "
+
+In General.—The Board of Directors of the Export-Import Bank of the United States may compensate not more than 35 employees of the Bank without regard to the provisions of chapter 51 or subchapter III or VIII of chapter 53 of title 5, United States Code."\]
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+Pub. L. 117–103, div. K, title VI, Mar. 15, 2022, 136 Stat. 588.
+
+Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716.
 
 \[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598.
 
@@ -618,7 +626,7 @@ A Board of Directors and an Advisory Committee reestablished for the Export-Impo
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### <b>Executive Documents</b>
 

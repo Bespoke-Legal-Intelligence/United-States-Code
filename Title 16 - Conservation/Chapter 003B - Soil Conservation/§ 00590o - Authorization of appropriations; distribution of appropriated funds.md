@@ -1,6 +1,6 @@
 ### §590<i>o</i>. Authorization of appropriations; distribution of appropriated funds
 
-To enable the Secretary of Agriculture to carry out the purposes of section 590g of this title there is authorized to be appropriated for any fiscal year not exceeding $500,000,000. The amount appropriated shall be available until expended. The Secretary shall distribute the funds available for financial assistance among the several States in accordance with their conservation needs, as determined by the Secretary.
+To enable the Secretary of Agriculture to carry out the purposes of section 590g of this title there is authorized to be appropriated for any fiscal year not exceeding $500,000,000. Theamount appropriated shall be available until expended. The Secretary shall distribute the funds available for financial assistance among the several States in accordance with their conservation needs, as determined by the Secretary.
 
 (Apr. 27, 1935, ch. 85, §15, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1151; amended Feb. 16, 1938, ch. 30, title I, §104, 52 Stat. 35; Aug. 28, 1954, ch. 1041, title V, §502, 68 Stat. 908; Pub. L. 92–419, title VI, §606(6), Aug. 30, 1972, 86 Stat. 677; Pub. L. 95–113, title XV, §1501(b), Sept. 29, 1977, 91 Stat. 1020; Pub. L. 104–127, title III, §336(a)(1)(D), Apr. 4, 1996, 110 Stat. 1005.)
 
@@ -26,7 +26,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date of 1938 Amendment
 
-Act Feb. 16, 1938, ch. 30, title I, §105, 52 Stat. 36, as amended by section 1 of act Apr. 7, 1938, provided that the amendment made by that act, amending this section, "shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938."
+Act Feb. 16, 1938, ch. 30, title I, §105, 52 Stat. 36, as amended by section 1 of act Apr. 7, 1938, provided that the amendment made by that act, amending this section, "shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938."
 
 #### <b>Executive Documents</b>
 

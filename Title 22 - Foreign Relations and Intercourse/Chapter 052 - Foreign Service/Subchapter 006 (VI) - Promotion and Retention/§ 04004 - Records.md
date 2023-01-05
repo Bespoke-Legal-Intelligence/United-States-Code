@@ -16,5 +16,5 @@
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §327(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438, providedthat: "The amendments made by this section \[amending this section\] apply to all disciplinary actions initiated on or after the date of enactment of this Act \[Nov. 29, 1999\]."
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §327(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438, provided that: "The amendments made by this section \[amending this section\] apply to all disciplinary actions initiated on or after the date of enactment of this Act \[Nov. 29, 1999\]."
 

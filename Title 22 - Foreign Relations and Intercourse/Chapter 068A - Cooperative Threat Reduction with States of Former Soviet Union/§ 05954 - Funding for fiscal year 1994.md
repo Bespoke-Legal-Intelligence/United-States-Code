@@ -28,7 +28,7 @@ Sections 5952 and 5953 of this title, referred to in subsec. (b), were repealed 
 
 Section 9110(a) of the Department of Defense Appropriations Act, 1993, referred to in subsec. (c), is section 9110(a) of Pub. L. 102–396, title IX, Oct. 6, 1992, 106 Stat. 1928, which is not classified to the Code.
 
-Section 108 of Public Law 102–229, referred to in subsec. (c), is section 108 of Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1708, as amended, which is not classified to the Code.
+Section 108 of Public Law 102–229, referred to in subsec. (c), is section 108 of Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1708, which is not classified to the Code.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@ As used in this chapter:
 
 #### (1) Agricultural product
 
-&emsp;The term "agricultural product" means any fresh fruit or vegetable or any commodity or product derived from livestock or fowl, that is marketed in the United States for human consumption.
+&emsp;The term "agricultural product" means any fresh fruit or vegetable or any commodity orproduct derived from livestock or fowl, that is marketed in the United States for human consumption.
 
 #### (2) Certificate
 

@@ -86,7 +86,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2018</b>—Subsec. (d)(3). Pub. L. 115–334 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struckout former subpar. (A) which read as follows: "rural business opportunity grants under section 1926(a)(11)(A) of this title;".
+<b>2018</b>—Subsec. (d)(3). Pub. L. 115–334 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "rural business opportunity grants under section 1926(a)(11)(A) of this title;".
 
 <b>2008</b>—Subsec. (d)(3)(B). Pub. L. 110–246, §6012(b)(4), substituted "1932(a)(2)(A)" for "1932(a)(1)".
 

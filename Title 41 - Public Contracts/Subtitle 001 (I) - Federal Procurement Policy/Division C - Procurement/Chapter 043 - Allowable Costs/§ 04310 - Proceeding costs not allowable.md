@@ -14,7 +14,7 @@ Costs.—The term "costs", with respect to a proceeding, means all costs incurre
 
 &emsp;&emsp;(C) the cost of the services of accountants and consultants retained by the contractor, subcontractor, or personal services contractor; and
 
-&emsp;&emsp;(D) the pay of directors, officers, and employees of the contractor, subcontractor, or personal services contractor for time devoted by those directors, officers, and employees to the proceeding.
+&emsp;&emsp;(D) the pay of directors, officers, and employees of the contractor, subcontractor, orpersonal services contractor for time devoted by those directors, officers, and employees to the proceeding.
 
 &emsp;(2)
 
@@ -54,7 +54,7 @@ Covered Dispositions.—A disposition referred to in subsection (b)(2) is any of
 
 (d)
 
-Costs Allowed by Settlement Agreement in Proceeding Commenced by Federal Government.—In the case of a proceeding referred to in subsection (b) that is commenced by the Federal Government and is resolved by consent or compromise pursuant to an agreement entered into by a contractor, subcontractor, or personal services contractor and the Federal Government, the costs incurred by the contractor, subcontractor, or personal services contractor in connection with the proceeding that are otherwise not allowable as reimbursablecosts under subsection (b) may be allowed to the extent specifically provided in that agreement.
+Costs Allowed by Settlement Agreement in Proceeding Commenced by Federal Government.—In the case of a proceeding referred to in subsection (b) that is commenced by the Federal Government and is resolved by consent or compromise pursuant to an agreement entered into by a contractor, subcontractor, or personal services contractor and the Federal Government, the costs incurred by the contractor, subcontractor, or personal services contractor in connection with the proceeding that are otherwise not allowable as reimbursable costs under subsection (b) may be allowed to the extent specifically provided in that agreement.
 
 (e)
 

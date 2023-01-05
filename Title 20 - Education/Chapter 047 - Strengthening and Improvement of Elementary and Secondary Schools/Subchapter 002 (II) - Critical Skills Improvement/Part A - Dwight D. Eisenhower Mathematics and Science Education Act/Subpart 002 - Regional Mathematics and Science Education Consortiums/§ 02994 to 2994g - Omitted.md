@@ -4,7 +4,7 @@
 
 #### Codification
 
-Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965,Pub. L. 89–10, by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
+Sections were omitted in the general amendment of the Elementary and Secondary Education Act of 1965, Pub. L. 89–10, by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519.
 
 Section 2994, Pub. L. 89–10, title II, §2016, as added Pub. L. 101–589, title II, §205(a)(2), Nov. 16, 1990, 104 Stat. 2886, authorized award of grants and contracts for establishment and operation of regional mathematics and science education consortia.
 

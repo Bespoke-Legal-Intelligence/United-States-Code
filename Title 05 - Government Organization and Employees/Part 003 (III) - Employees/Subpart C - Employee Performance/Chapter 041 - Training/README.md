@@ -22,7 +22,7 @@
 | [4118\.](%C2%A7%2004118%20-%20Regulations.md) | Regulations. |
 | [4119\.](%C2%A7%2004119%20-%20Training%20for%20employees%20under%20the%20Office%20of%20the%20Architect%20of%20the%20Capitol%20and%20the%20Botanic%20Garden.md) | Training for employees under the Office of the Architect of the Capitol and the Botanic Garden. |
 | [4120\.](%C2%A7%2004120%20-%20Training%20for%20employees%20of%20the%20Capitol%20Police.md) | Training for employees of the Capitol Police. |
-| [4121\.](%C2%A7%2004121%20-%20Specific%20training%20programs.md) | Specific training programs.<br> |
+| [4121\.](%C2%A7%2004121%20-%20Specific%20training%20programs.md) | Specific training programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

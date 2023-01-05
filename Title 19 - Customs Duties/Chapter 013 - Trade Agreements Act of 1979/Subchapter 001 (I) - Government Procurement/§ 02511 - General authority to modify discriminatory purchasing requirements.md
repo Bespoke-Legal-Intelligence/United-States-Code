@@ -266,7 +266,7 @@ Sec. 3. This order shall apply only to solicitations, issued by agencies listed 
 
 Sec. 4. This order shall apply to solicitations outstanding on the date of this order, except for those for which the initial deadline for receipt of bids or proposals has passed, and to all solicitations issued after the date of this order.
 
-Sec. 5. Except for procurements by the Department of Defense, the United States Trade Representative (USTR) shall be responsible for interpretation of the Agreement. The USTR shall seek the advice of the interagency organization established under section 242(a) of the Trade Expansion Act of 1962 (19 U.S.C.1872(a)) and consult with affected agencies, including the Office of Federal Procurement Policy.
+Sec. 5. Except for procurements by the Department of Defense, the United States Trade Representative (USTR) shall be responsible for interpretation of the Agreement. The USTR shall seek the advice of the interagency organization established under section 242(a) of the Trade Expansion Act of 1962 (19 U.S.C. 1872(a)) and consult with affected agencies, including the Office of Federal Procurement Policy.
 
 Sec. 6. This Executive order is effective immediately. Although regulatory implementation of this order must await revisions to the Federal Acquisition Regulation (FAR), it is expected that agencies listed in Annex 1, Parts A and B, of this order will take all appropriate actions in the interim to implement those aspects of the order that are not dependent upon regulatory revision.
 

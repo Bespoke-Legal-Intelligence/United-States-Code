@@ -250,7 +250,7 @@ Subsec. (d)(4)(B)(iii). Pub. L. 108–311, §406(b), substituted "designated ben
 
 Subsec. (a). Pub. L. 107–22, §1(a)(2), substituted "A Coverdell education savings account" for "An education individual retirement account" and "the Coverdell education savings account" for "the education individual retirement account".
 
-Subsec. (b)(1). Pub. L. 107–22, §1(a)(1), (3), in heading, substituted "Coverdell education savings account" for"Education individual retirement account" and, in introductory provisions, substituted " 'Coverdell education savings account' " for " 'education individual retirement account' " and "designated as a Coverdell education savings account" for "designated as an education individual retirement account".
+Subsec. (b)(1). Pub. L. 107–22, §1(a)(1), (3), in heading, substituted "Coverdell education savings account" for "Education individual retirement account" and, in introductory provisions, substituted " 'Coverdell education savings account' " for " 'education individual retirement account' " and "designated as a Coverdell education savings account" for "designated as an education individual retirement account".
 
 Pub. L. 107–16, §401(d), inserted concluding provisions.
 
@@ -348,7 +348,7 @@ Amendment by Pub. L. 107–22 effective July 26, 2001, see section 1(c) of Pub. 
 
 Amendment by section 401(a)(1), (b)–(g)(1), (2)(C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 401(h) of Pub. L. 107–16, set out as a note under section 25A of this title.
 
-Amendment by section 402(a)(4)(A), (C) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
+Amendment by section 402(a)(4)(A), (C) of Pub. L. 107–16 applicable to taxable years beginning after Dec.31, 2001, see section 402(h) of Pub. L. 107–16, set out as a note under section 72 of this title.
 
 #### Effective Date of 1998 Amendment
 

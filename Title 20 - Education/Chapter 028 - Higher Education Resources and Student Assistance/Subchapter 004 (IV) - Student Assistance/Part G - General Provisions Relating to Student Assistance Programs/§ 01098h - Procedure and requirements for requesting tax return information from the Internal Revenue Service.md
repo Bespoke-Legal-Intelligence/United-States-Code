@@ -108,7 +108,7 @@ The Secretary shall only have authority to request that the Secretary of the Tre
 
 #### Amendment of Subsection (a)(1)
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(p), Dec. 27, 2020, 134 Stat. 3137, 3191, pro</i><i>vided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, subsection (a)(1) of this section is amended as follows:</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(p), Dec. 27, 2020, 134 Stat. 3137, 3191; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, subsection (a)(1) of this section is amended as follows:</i>
 
 <i>(1) in subparagraph (A)(ii), by striking "and" after the semicolon;</i>
 
@@ -144,5 +144,5 @@ Subsec. (c). Pub. L. 116–260, div. N, §284(b)(1)(C), and div. FF, §103(b)(1)
 
 #### Effective Date of 2020 Amendment
 
-Amendment by section 702(p) of Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by section 702(p) of Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 

@@ -5,6 +5,7 @@
 | [5301\.](%C2%A7%2005301%20-%20Nonassignability%20and%20exempt%20status%20of%20benefits.md) | Nonassignability and exempt status of benefits. |
 | [5302\.](%C2%A7%2005302%20-%20Waiver%20of%20recovery%20of%20claims%20by%20the%20United%20States.md) | Waiver of recovery of claims by the United States. |
 | [5302A.](%C2%A7%2005302A%20-%20Collection%20of%20indebtedness%20certain%20debts%20of%20members%20of%20the%20Armed%20Forces%20and%20veterans%20who%20die%20of%20injury%20incurred%20or%20aggravated%20in%20the%20line%E2%80%A6.md) | Collection of indebtedness: certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line of duty in a combat zone. |
+| [5302B.](%C2%A7%2005302B%20-%20Prohibition%20of%20debt%20arising%20from%20overpayment%20due%20to%20delay%20in%20processing.md) | Prohibition of debt arising from overpayment due to delay in processing. |
 | [5303\.](%C2%A7%2005303%20-%20Certain%20bars%20to%20benefits.md) | Certain bars to benefits. |
 | [5303A.](%C2%A7%2005303A%20-%20Minimum%20active-duty%20service%20requirement.md) | Minimum active-duty service requirement. |
 | [5303B.](%C2%A7%2005303B%20-%20Character%20of%20service%20determinations.md) | Character of service determinations. |
@@ -21,6 +22,7 @@
 | [5313A.](%C2%A7%2005313A%20-%20Limitation%20on%20payment%20of%20clothing%20allowance%20to%20incarcerated%20veterans.md) | Limitation on payment of clothing allowance to incarcerated veterans. |
 | [5313B.](%C2%A7%2005313B%20-%20Prohibition%20on%20providing%20certain%20benefits%20with%20respect%20to%20persons%20who%20are%20fugitive%20felons.md) | Prohibition on providing certain benefits with respect to persons who are fugitive felons. |
 | [5314\.](%C2%A7%2005314%20-%20Indebtedness%20offsets.md) | Indebtedness offsets. |
+| [5314A.](%C2%A7%2005314A%20-%20Dispute%20of%20indebtedness.md) | Dispute of indebtedness. |
 | [5315\.](%C2%A7%2005315%20-%20Interest%20and%20administrative%20cost%20charges%20on%20delinquent%20payments%20of%20certain%20amounts%20due%20the%20United%20States.md) | Interest and administrative cost charges on delinquent payments of certain amounts due the United States. |
 | [5316\.](%C2%A7%2005316%20-%20Authority%20to%20sue%20to%20collect%20certain%20debts.md) | Authority to sue to collect certain debts. |
 | [5317\.](%C2%A7%2005317%20-%20Use%20of%20income%20information%20from%20other%20agencies%20notice%20and%20verification.md) | Use of income information from other agencies: notice and verification. |
@@ -34,6 +36,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. U, title II, §§252(a)(2), 255(b)(4), Dec. 29, 2022, 136 Stat. 5463, 5465, added items 5302B and 5314A.
 
 <b>2021</b>—Pub. L. 116–315, title II, §2007(b), Jan. 5, 2021, 134 Stat. 4977, added item 5320.
 
@@ -115,6 +119,7 @@ Progress reports.—If the Secretary has not submitted each notice required by p
 - [&sect; 05301 - Nonassignability and exempt status of benefits](%C2%A7%2005301%20-%20Nonassignability%20and%20exempt%20status%20of%20benefits.md)
 - [&sect; 05302 - Waiver of recovery of claims by the United States](%C2%A7%2005302%20-%20Waiver%20of%20recovery%20of%20claims%20by%20the%20United%20States.md)
 - [&sect; 05302A - Collection of indebtedness certain debts of members of the Armed Forces and veterans who die of injury incurred or aggravated in the line&#8230;](%C2%A7%2005302A%20-%20Collection%20of%20indebtedness%20certain%20debts%20of%20members%20of%20the%20Armed%20Forces%20and%20veterans%20who%20die%20of%20injury%20incurred%20or%20aggravated%20in%20the%20line%E2%80%A6.md)
+- [&sect; 05302B - Prohibition of debt arising from overpayment due to delay in processing](%C2%A7%2005302B%20-%20Prohibition%20of%20debt%20arising%20from%20overpayment%20due%20to%20delay%20in%20processing.md)
 - [&sect; 05303 - Certain bars to benefits](%C2%A7%2005303%20-%20Certain%20bars%20to%20benefits.md)
 - [&sect; 05303A - Minimum active-duty service requirement](%C2%A7%2005303A%20-%20Minimum%20active-duty%20service%20requirement.md)
 - [&sect; 05303B - Character of service determinations](%C2%A7%2005303B%20-%20Character%20of%20service%20determinations.md)
@@ -131,6 +136,7 @@ Progress reports.—If the Secretary has not submitted each notice required by p
 - [&sect; 05313A - Limitation on payment of clothing allowance to incarcerated veterans](%C2%A7%2005313A%20-%20Limitation%20on%20payment%20of%20clothing%20allowance%20to%20incarcerated%20veterans.md)
 - [&sect; 05313B - Prohibition on providing certain benefits with respect to persons who are fugitive felons](%C2%A7%2005313B%20-%20Prohibition%20on%20providing%20certain%20benefits%20with%20respect%20to%20persons%20who%20are%20fugitive%20felons.md)
 - [&sect; 05314 - Indebtedness offsets](%C2%A7%2005314%20-%20Indebtedness%20offsets.md)
+- [&sect; 05314A - Dispute of indebtedness](%C2%A7%2005314A%20-%20Dispute%20of%20indebtedness.md)
 - [&sect; 05315 - Interest and administrative cost charges on delinquent payments of certain amounts due the United States](%C2%A7%2005315%20-%20Interest%20and%20administrative%20cost%20charges%20on%20delinquent%20payments%20of%20certain%20amounts%20due%20the%20United%20States.md)
 - [&sect; 05316 - Authority to sue to collect certain debts](%C2%A7%2005316%20-%20Authority%20to%20sue%20to%20collect%20certain%20debts.md)
 - [&sect; 05317 - Use of income information from other agencies notice and verification](%C2%A7%2005317%20-%20Use%20of%20income%20information%20from%20other%20agencies%20notice%20and%20verification.md)

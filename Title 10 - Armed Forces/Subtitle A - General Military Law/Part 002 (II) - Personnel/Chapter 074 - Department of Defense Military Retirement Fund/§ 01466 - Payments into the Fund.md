@@ -40,7 +40,7 @@
 
 (3) The Department of Defense Board of Actuaries shall determine, for each armed force, the amount required under paragraph (1) to be deposited in the Fund each fiscal year.
 
-(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 647; amended Pub. L. 99–500, §101(c) \[title IX, §§9103(3), 9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §§9103(3), 9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, 3341–128; Pub. L. 99–661, div. A, title VI, §661(b), Nov. 14, 1986, 100 Stat. 3892; Pub. L. 100–26, §§4(a)(1), 7(a)(3), Apr. 21, 1987, 101 Stat. 274, 275; Pub. L. 106–65, div. A, title VI, §651(b), Oct. 5, 1999, 113 Stat. 664; Pub. L. 108–136, div. A, title VI, §641(c)(5), Nov. 24, 2003, 117 Stat. 1516; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §591(b), Oct. 17, 2006, 120 Stat. 2233; Pub. L. 110–181, div. A, title IX, §906(c)(3), title X, §1063(c)(4), Jan. 28, 2008, 122 Stat. 277, 322; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8225, Jan. 1, 2021, 134 Stat. 4659; Pub. L. 117–81, div. A, title X, §1081(a)(19), Dec. 27, 2021, 135 Stat. 1920.)
+(Added Pub. L. 98–94, title IX, §925(a)(1), Sept. 24, 1983, 97 Stat. 647; amended Pub. L. 99–500, §101(c) \[title IX, §§9103(3), 9131\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–118, 1783–128, and Pub. L. 99–591, §101(c) \[title IX, §§9103(3), 9131\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–118, 3341–128; Pub. L. 99–661, div. A, title VI, §661(b), Nov. 14, 1986, 100 Stat. 3892; Pub. L. 100–26, §§4(a)(1), 7(a)(3), Apr. 21, 1987, 101 Stat. 274, 275; Pub. L. 106–65, div. A, title VI, §651(b), Oct. 5, 1999, 113 Stat. 664; Pub. L. 108–136, div. A, title VI, §641(c)(5), Nov. 24, 2003, 117 Stat. 1516; Pub. L. 108–375, div. A, title X, §1084(d)(11), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–364, div. A, title V, §591(b), Oct. 17, 2006, 120 Stat. 2233; Pub. L. 110–181, div. A, title IX, §906(c)(3), title X, §1063(c)(4), Jan. 28, 2008, 122 Stat. 277, 322; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8225, Jan. 1, 2021, 134 Stat.4659; Pub. L. 117–81, div. A, title X, §1081(a)(19), Dec. 27, 2021, 135 Stat. 1920.)
 
 #### <b>Editorial Notes</b>
 
@@ -124,7 +124,7 @@ Pub. L. 106–65, div. A, title VI, §651(c), Oct. 5, 1999, 113 Stat. 664, provi
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–26, §12(b), Apr. 21, 1987, 101 Stat. 289, provided that: "The amendments made by section 4 \[amending this section and provisions set out as a note under section 1014 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in Public Laws 99–500 and 99–591 when enacted on October 18, 1986, and October 30, 1986, respectively."
+Pub. L. 100–26, §12(b), Apr. 21, 1987, 101 Stat. 289, provided that: "The amendments made by section 4\[amending this section and provisions set out as a note under section 1014 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply as if included in Public Laws 99–500 and 99–591 when enacted on October 18, 1986, and October 30, 1986, respectively."
 
 #### Effective Date of 1986 Amendments
 

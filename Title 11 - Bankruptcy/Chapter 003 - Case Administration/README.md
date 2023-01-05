@@ -62,7 +62,7 @@
 | [363\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000363%20-%20Use%2C%20sale%2C%20or%20lease%20of%20property.md) | Use, sale, or lease of property. |
 | [364\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000364%20-%20Obtaining%20credit.md) | Obtaining credit. |
 | [365\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000365%20-%20Executory%20contracts%20and%20unexpired%20leases.md) | Executory contracts and unexpired leases. |
-| [366\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000366%20-%20Utility%20service.md) | Utility service.<br> |
+| [366\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Powers/%C2%A7%2000366%20-%20Utility%20service.md) | Utility service. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

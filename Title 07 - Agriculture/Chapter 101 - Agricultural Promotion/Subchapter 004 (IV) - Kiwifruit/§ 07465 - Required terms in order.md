@@ -8,7 +8,7 @@
 
 #### (2) Budgets
 
-&emsp;The Board shall prepare and submit to the Secretary a budget prior to the beginning of the fiscal year of the anticipated expenses and disbursements of the Board in the administration of the order, including probable costs of research, promotion, and consumer information. A budget shall become effective on a 2/3-vote of a quorum of the Board and approval by the Secretary.
+&emsp;The Board shall prepare and submit to the Secretary a budget prior to the beginning ofthe fiscal year of the anticipated expenses and disbursements of the Board in the administration of the order, including probable costs of research, promotion, and consumer information. A budget shall become effective on a 2/3-vote of a quorum of the Board and approval by the Secretary.
 
 #### (3) Plans
 
@@ -32,7 +32,7 @@
 
 &emsp;Except as provided in paragraph (5), the first handler of kiwifruit shall—
 
-&emsp;&emsp;(A) be responsible for the collection from the producer, and payment to the Board, ofassessments required under this subsection; and
+&emsp;&emsp;(A) be responsible for the collection from the producer, and payment to the Board, of assessments required under this subsection; and
 
 &emsp;&emsp;(B) maintain a separate record of the kiwifruit of each producer whose kiwifruit are so handled, including the kiwifruit owned by the handler.
 

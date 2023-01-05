@@ -12,7 +12,7 @@ Establishment and operation.—The Secretary of Transportation, acting through t
 
 Role of centers.—The role of each university transportation center referred to in paragraph (1) shall be—
 
-&emsp;&emsp;(A) to advance transportation expertise and technology in the varied disciplines that comprise the field of transportation through education, research, and technology transfer activities;
+&emsp;&emsp;(A) to advance transportation expertise and technology in the varied disciplines thatcomprise the field of transportation through education, research, and technology transfer activities;
 
 &emsp;&emsp;(B) to provide for a critical multimodal transportation knowledge base outside of the Department of Transportation; and
 
@@ -62,7 +62,7 @@ Criteria.—The Secretary, in consultation with the heads of the modal administr
 
 &emsp;&emsp;&emsp;(iv) the ability of the recipient to carry out research, education, and technology transfer activities that are multimodal and multidisciplinary in scope;
 
-&emsp;&emsp;&emsp;(v) the demonstrated commitment of the recipient to carry out transportationworkforce development programs through—
+&emsp;&emsp;&emsp;(v) the demonstrated commitment of the recipient to carry out transportation workforce development programs through—
 
 &emsp;&emsp;&emsp;&emsp;(I) degree-granting programs or programs that provide other industry-recognized credentials; and
 
@@ -248,7 +248,7 @@ Review and evaluation.—Not less frequently than biennially, and consistent wit
 
 &emsp;(3)
 
-Program evaluation and oversight.—For each of fiscal years 2022 through 2026, the Secretary shall expend not more than 1 and a half percent of the amounts made available to the Secretary to carry out this section for any coordination, evaluation, and oversight activities of the Secretary under this section.
+Program evaluation and oversight.—For each of fiscal years 2022 through 2026, the Secretary shall expend not more than 1 and a half percent of the amounts made available to the Secretary to carry out this section for anycoordination, evaluation, and oversight activities of the Secretary under this section.
 
 (e)
 

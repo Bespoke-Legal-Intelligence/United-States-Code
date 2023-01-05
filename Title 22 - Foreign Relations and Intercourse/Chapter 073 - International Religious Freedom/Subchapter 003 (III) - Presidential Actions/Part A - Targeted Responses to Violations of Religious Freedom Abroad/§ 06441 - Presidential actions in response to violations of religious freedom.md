@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3), the President, in consultation with the Secretary ofState, the Ambassador at Large, the Special Adviser, and the Commission, shall, as expeditiously as practicable in response to the violations described in subsection (a) by the government of a foreign country—
+&emsp;Subject to paragraphs (2) and (3), the President, in consultation with the Secretary of State, the Ambassador at Large, the Special Adviser, and the Commission, shall, as expeditiously as practicable in response to the violations described in subsection (a) by the government of a foreign country—
 
 &emsp;&emsp;(A) take one or more of the actions described in paragraphs (1) through (15) of section 6445(a) of this title (or commensurate action in substitution thereto) with respect to such country; or
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(B) seek to the fullest extent possible to target action as narrowly as practicable with respect to the agency or instrumentality of the foreign government, or specific officials thereof, that are responsible for such violations; and
 
-&emsp;&emsp;(C) when appropriate, make every reasonable effort to conclude a binding agreement concerning the cessation of such violations in countries with which the United States has diplomatic relations.
+&emsp;&emsp;(C) when appropriate, make every reasonable effort to conclude a binding agreementconcerning the cessation of such violations in countries with which the United States has diplomatic relations.
 
 #### (2) Guidelines for Presidential actions
 

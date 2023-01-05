@@ -4,7 +4,7 @@
 
 No grant may be made under this part unless the eligible tribal organization submits an application to the Assistant Secretary which meets such criteria as the Assistant Secretary may by regulation prescribe. Each such application shall—
 
-&emsp;(1) provide that the eligible tribal organization will evaluate the need for supportive and nutrition services among older individualswho are Indians to be represented by the tribal organization;
+&emsp;(1) provide that the eligible tribal organization will evaluate the need for supportive and nutrition services among older individuals who are Indians to be represented by the tribal organization;
 
 &emsp;(2) provide for the use of such methods of administration as are necessary for the proper and efficient administration of the program to be assisted;
 
@@ -20,7 +20,7 @@ No grant may be made under this part unless the eligible tribal organization sub
 
 &emsp;(8) provide assurances that either directly or by way of grant or contract with appropriate entities nutrition services will be delivered to older individuals who are Indians represented by the tribal organization substantially in compliance with the provisions of part C of subchapter III, except that in any case in which the need for nutritional services for older individuals who are Indians represented by the tribal organization is already met from other sources, the tribal organization may use the funds otherwise required to be expended under this paragraph for supportive services;
 
-&emsp;(9) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliance with the provisions of subchapter III relating to the furnishing of similar services;
+&emsp;(9) provide that any legal or ombudsman services made available to older individuals who are Indians represented by the tribal organization will be substantially in compliancewith the provisions of subchapter III relating to the furnishing of similar services;
 
 &emsp;(10) provide satisfactory assurance that fiscal control and fund accounting procedures will be adopted as may be necessary to assure proper disbursement of, and accounting for, Federal funds paid under this part to the tribal organization, including any funds paid by the tribal organization to a recipient of a grant or contract; and
 
@@ -60,7 +60,7 @@ Whenever the Assistant Secretary approves an application of a tribal organizatio
 
 #### Prior Provisions
 
-A prior section 3057e, Pub. L. 89–73, title VI, §606, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat. 1551; amended Pub. L. 97–115, §3(d), Dec. 29, 1981, 95Stat. 1597, related to surplus educational facilities, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057f of this title.
+A prior section 3057e, Pub. L. 89–73, title VI, §606, as added Pub. L. 95–478, title I, §106, Oct. 18, 1978, 92 Stat. 1551; amended Pub. L. 97–115, §3(d), Dec. 29, 1981, 95 Stat. 1597, related to surplus educational facilities, prior to the general amendment of this subchapter by Pub. L. 100–175. See section 3057f of this title.
 
 #### Amendments
 

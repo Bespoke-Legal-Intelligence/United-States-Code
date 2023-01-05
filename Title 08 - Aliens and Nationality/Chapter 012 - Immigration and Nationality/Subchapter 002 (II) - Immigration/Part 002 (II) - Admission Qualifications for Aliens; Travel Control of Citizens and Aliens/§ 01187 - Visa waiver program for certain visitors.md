@@ -80,7 +80,7 @@ The Secretary of Homeland Security and the Secretary of State are authorized to 
 
 &emsp;&emsp;&emsp;&emsp;(II) a country that is designated, at the time the alien applies for admission, by the Secretary of State under section 4605(j) <sup>2</sup> of title 50 (as continued in effect under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)), section 2780 of title 22, section 2371 of title 22, or any other provision of law, as a country, the government of which has repeatedly provided support of acts of international terrorism; or
 
-&emsp;&emsp;&emsp;&emsp;(III) any other country that is designated, at the time the alien applies foradmission, by the Secretary of Homeland Security under subparagraph (D).
+&emsp;&emsp;&emsp;&emsp;(III) any other country that is designated, at the time the alien applies for admission, by the Secretary of Homeland Security under subparagraph (D).
 
 #### (B) Certain military personnel and government employees
 
@@ -98,7 +98,7 @@ The Secretary of Homeland Security and the Secretary of State are authorized to 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 60 days after December 18, 2015, the Secretary of Homeland Security, in consultation with the Secretary of State and the Director of National Intelligence, shall determine whether the requirement under subparagraph (A) shall apply to any other country or area.
+&emsp;&emsp;&emsp;Not later than 60 days after December 18, 2015, the Secretary of Homeland Security, in consultation with the Secretary ofState and the Director of National Intelligence, shall determine whether the requirement under subparagraph (A) shall apply to any other country or area.
 
 #### (ii) Criteria
 
@@ -162,7 +162,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State—
 
-&emsp;&emsp;&emsp;(i) evaluates the effect that the country's designation would have on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals,who commit crimes that violate United States law);
+&emsp;&emsp;&emsp;(i) evaluates the effect that the country's designation would have on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
 
 &emsp;&emsp;&emsp;(ii) determines that such interests would not be compromised by the designation of the country; and
 
@@ -222,7 +222,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;The Secretary of Homeland Security, in consultation with the Secretary of State, periodically (but not less than once every 2 years)—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall evaluate the effect of each program country's continued designation on the law enforcement and security interests of the United States (includingthe interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
+&emsp;&emsp;&emsp;&emsp;(I) shall evaluate the effect of each program country's continued designation on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
 
 &emsp;&emsp;&emsp;&emsp;(II) shall determine, based upon the evaluation in subclause (I), whether any such designation ought to be continued or terminated under subsection (d);
 
@@ -278,7 +278,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;&emsp;(II) shall notify any country suspended under subclause (I) and, to the extent practicable without disclosing sensitive intelligence sources and methods, provide justification for the suspension; and
 
-&emsp;&emsp;&emsp;&emsp;(III) shall restore the suspended country's participation in the visa waiver program upon a determination that thethreat no longer poses an imminent danger to the United States or its citizens.
+&emsp;&emsp;&emsp;&emsp;(III) shall restore the suspended country's participation in the visa waiver program upon a determination that the threat no longer poses an imminent danger to the United States or its citizens.
 
 #### (C) Treatment of nationals after termination
 
@@ -290,7 +290,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (6) Computation of visa refusal rates
 
-&emsp;For purposes of determining the eligibility of a country to be designated as a program country, the calculation of visa refusal rates shall not include any visa refusals which incorporate any procedures based on, or are otherwise based on, race, sex, or disability, unless otherwise specifically authorized by law or regulation. No court shall have jurisdiction under this paragraph to review any visa refusal, the denial of admission to the United States of any alien by the Secretary of Homeland Security, the Secretary's computation of the visa refusal rate, or the designation or nondesignation of any country.
+&emsp;For purposes of determining the eligibility of a country to be designated as a program country, the calculation of visa refusal rates shall not include any visa refusals which incorporate any procedures based on, or are otherwise based on, race, sex, or disability, unless otherwise specifically authorized by law or regulation. No court shall have jurisdiction under this paragraph to review any visa refusal, the denial of admission to the UnitedStates of any alien by the Secretary of Homeland Security, the Secretary's computation of the visa refusal rate, or the designation or nondesignation of any country.
 
 #### (7) Visa waiver information
 
@@ -412,7 +412,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;(ii) an evaluation of the subject country's counterterrorism efforts;
 
-&emsp;&emsp;&emsp;(iii) an evaluation as to the extent of the country's sharing of information beneficialto suppressing terrorist movements, financing, or actions;
+&emsp;&emsp;&emsp;(iii) an evaluation as to the extent of the country's sharing of information beneficial to suppressing terrorist movements, financing, or actions;
 
 &emsp;&emsp;&emsp;(iv) an assessment of the risks associated with including the subject country in the program; and
 
@@ -542,7 +542,7 @@ Notwithstanding any other provision of this section, the Secretary of Homeland S
 
 #### (A) In general
 
-&emsp;&emsp;Beginning on the date that is 270 days after December 18, 2015, if the Secretary of Homeland Security and the Secretary of State jointly determine that the program country is not conducting the screening required by subsection (c)(2)(G), the Secretary of Homeland Security shall terminate the designation of the country as a program country.
+&emsp;&emsp;Beginning on the date that is 270 days after December 18, 2015, if the Secretary ofHomeland Security and the Secretary of State jointly determine that the program country is not conducting the screening required by subsection (c)(2)(G), the Secretary of Homeland Security shall terminate the designation of the country as a program country.
 
 #### (B) Redesignation
 
@@ -604,7 +604,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (i) Supplying information to immigration officers conducting inspections at ports of entry
 
-&emsp;&emsp;&emsp;Not later than October 1, 2002, the system shall enable immigration officers conducting inspections at ports of entry under section 1225 of this title to obtain from the system, with respect to aliens seeking a waiver under the program—
+&emsp;&emsp;&emsp;Not later than October 1, 2002, the system shall enable immigration officers conducting inspections at ports of entry under section 1225 of this title to obtain from thesystem, with respect to aliens seeking a waiver under the program—
 
 &emsp;&emsp;&emsp;&emsp;(I) any photograph of the alien that may be contained in the records of the Department of State or the Service; and
 
@@ -646,7 +646,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 #### (iii) Sunset of Travel Promotion Fund fee
 
-&emsp;&emsp;&emsp;The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2027.
+&emsp;&emsp;&emsp;The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after October 31, 2028.
 
 #### (C) Validity
 
@@ -700,7 +700,7 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 &emsp;&emsp;(B) the procedures by which the Secretary shall improve the method of calculating the rates of nonimmigrants who overstay their authorized period of stay in the United States.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(l)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(h), formerly §9(e), Mar. 4, 2010, 124 Stat. 62, renumbered Pub. L. 113–235, div. B, title VI, §606(1), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §605(b), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 114–113, div. O, title II, §§202(a), (b), 203–205(a), 206, 207(a), 209, Dec. 18, 2015, 129 Stat. 2989–2995; Pub. L. 115–123, div. C, title II, §30203(a), Feb. 9, 2018, 132 Stat. 126; Pub. L. 116–94, div. I, title VIII, §806, Dec. 20, 2019, 133 Stat. 3029.)
+(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(l)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110–53, title VII, §711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111–145, §9(h), formerly §9(e), Mar. 4, 2010, 124 Stat. 62, renumbered Pub. L. 113–235, div. B, title VI, §606(1), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 111–198, §5(a), July 2, 2010, 124 Stat. 1357; Pub. L. 113–235, div. B, title VI, §605(b), Dec. 16, 2014, 128 Stat. 2219; Pub. L. 114–113, div. O, title II, §§202(a), (b), 203–205(a), 206, 207(a), 209, Dec. 18, 2015, 129 Stat. 2989–2995; Pub. L. 115–123, div. C, title II, §30203(a), Feb. 9, 2018, 132 Stat. 126; Pub. L. 116–94, div. I, title VIII, §806, Dec. 20, 2019, 133 Stat. 3029; Pub. L. 117–103, div. EE, §101, Mar. 15, 2022, 136 Stat. 1111.)
 
 #### <b>Editorial Notes</b>
 
@@ -713,6 +713,8 @@ The International Emergency Economic Powers Act, referred to in subsec. (a)(12)(
 This chapter, referred to in subsecs. (b)(1) and (c)(7)(B)(iv), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h)(3)(B)(iii). Pub. L. 117–103 substituted "October 31, 2028" for "September 30, 2027".
 
 <b>2019</b>—Subsec. (h)(3)(B)(i)(I). Pub. L. 116–94 substituted "$17" for "$10".
 
@@ -738,7 +740,7 @@ Subsec. (c)(2)(F). Pub. L. 114–113, §204(c), inserted before period at end ",
 
 Subsec. (c)(2)(G). Pub. L. 114–113, §204(b), added subpar. (G).
 
-Subsec. (c)(5)(A)(i)(III). Pub. L. 114–113, §205(a)(2)(A)(i), (ii), inserted "the Permanent Select Committee on Intelligence," after "the Committee on Foreign Affairs," and "the Select Committee on Intelligence" after "the Committee on Foreign Relations,".
+Subsec. (c)(5)(A)(i)(III). Pub. L. 114–113, §205(a)(2)(A)(i), (ii), inserted "the Permanent Select Committee on Intelligence," after "the Committee onForeign Affairs," and "the Select Committee on Intelligence" after "the Committee on Foreign Relations,".
 
 Subsec. (c)(5)(A)(i)(V). Pub. L. 114–113, §205(a)(2)(A)(iii)–(C), added subcl. (V).
 
@@ -818,7 +820,7 @@ Subsec. (a)(2)(A). Pub. L. 106–396, §201, inserted ", either on its own or i
 
 Subsec. (a)(3), (4). Pub. L. 106–396, §202(a), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 106–396, §403(a), substituted ", including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations which has entered into an agreement with the Attorney General pursuant to subsection (e). The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations underpart 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement" for "which has entered into an agreement with the Service to guarantee transport of the alien out of the United States if the alien is found inadmissible or deportable by an immigration officer".
+Subsec. (a)(5). Pub. L. 106–396, §403(a), substituted ", including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a noncommercial aircraft that is owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations which has entered into an agreement with the Attorney General pursuant to subsection (e). The Attorney General is authorized to require a carrier conducting operations under part 135 of title 14, Code of Federal Regulations, or a domestic corporation conducting operations under part 91 of that title, to give suitable and proper bond, in such reasonable amount and containing such conditions as the Attorney General may deem sufficient to ensure compliance with the indemnification requirements of this section, as a term of such an agreement" for "which has entered into an agreement with the Service to guarantee transport of the alien out of the United States if the alien is found inadmissible or deportable by an immigration officer".
 
 Pub. L. 106–396, §202(a)(1), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
@@ -928,7 +930,7 @@ Subsec. (a)(4). Pub. L. 101–649, §201(a)(3), added par. (4) and struck out fo
 
 Subsec. (a)(7). Pub. L. 101–649, §201(a)(4), added par. (7).
 
-Subsec. (b). Pub. L. 101–649, §201(a)(5), redesignated subsec. (b)(4) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out subsec. (b) heading "Conditions before pilot program can be put into operation" and pars. (1) to (3) which related to prior notice to Congress, automated data arrival and departure system, and visa waiver information form, respectively.
+Subsec. (b). Pub. L. 101–649, §201(a)(5), redesignated subsec. (b)(4) as subsec. (b) and subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out subsec. (b)heading "Conditions before pilot program can be put into operation" and pars. (1) to (3) which related to prior notice to Congress, automated data arrival and departure system, and visa waiver information form, respectively.
 
 Subsec. (c)(1). Pub. L. 101–649, §201(a)(6)(A), substituted in heading, "In general" for "Up to 8 countries" and in text substituted "any country as a pilot program country if it meets the requirements of paragraph (2)" for "up to eight countries as pilot program countries for purposes of the pilot program".
 
@@ -1008,11 +1010,11 @@ Pub. L. 107–56, title IV, §417(a), (b), Oct. 26, 2001, 115 Stat. 355, require
 
 #### Report Required
 
-Pub. L. 106–396, title IV, §403(e), Oct. 30, 2000, 114 Stat. 1649, provided that: "Not later than two years after thedate of the enactment of this Act \[Oct. 30, 2000\], the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate assessing the effectiveness of the program implemented under the amendments made by this section \[amending this section\] for simplifying the admission of business travelers from visa waiver program countries and compliance with the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] by such travelers under that program."
+Pub. L. 106–396, title IV, §403(e), Oct. 30, 2000, 114 Stat. 1649, provided that: "Not later than two years after the date of the enactment of this Act \[Oct. 30, 2000\], the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate assessing the effectiveness of the program implemented under the amendments made by this section \[amending this section\] for simplifying the admission of business travelers from visa waiver program countries and compliance with the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] by such travelers under that program."
 
 #### Transition Provisions
 
-Pub. L. 104–208, div. C, title VI, §635(c)(2), Sept. 30, 1996, 110 Stat. 3009–703, provided that: "A country designated as a pilot program country with probationary status under section 217(g) of the Immigration and Nationality Act \[8 U.S.C. 1187(g)\] (as in effect on the day before the date of the enactment of this Act \[Sept. 30, 1996\]) shall be considered to be designated as a pilot program country on and after such date, subject to placement in probationary status or termination of such designation under such section (as amended by paragraph (1))."
+Pub. L. 104–208, div. C, title VI, §635(c)(2), Sept. 30, 1996, 110 Stat. 3009–703, provided that: "A country designated as a pilot program country with probationary status under section 217(g) of the Immigration and Nationality Act \[8 U.S.C. 1187(g)\] (as in effect on the daybefore the date of the enactment of this Act \[Sept. 30, 1996\]) shall be considered to be designated as a pilot program country on and after such date, subject to placement in probationary status or termination of such designation under such section (as amended by paragraph (1))."
 
 #### Operation of Automated Data Arrival and Departure Control System; Report to Congress
 

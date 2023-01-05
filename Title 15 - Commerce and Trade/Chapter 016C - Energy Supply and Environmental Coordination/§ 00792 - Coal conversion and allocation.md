@@ -22,7 +22,7 @@ The requirements referred to in subsection (a) are as follows:
 
 &emsp;(3)(A) Before issuing an order under subsection (a) which is applicable to a powerplant or installation after June 30, 1975 (or modifying an order to which paragraph (2) applies, so as to apply such order to a powerplant or installation after such date), the Federal Energy Administrator shall give notice to the public and afford interested persons an opportunity for oral and written presentations of data, views, and arguments.
 
-&emsp;(B) An order (or modification thereof) described in subparagraph (A) of this paragraph shall not become effective until (i) the Administrator of the Environmental Protection Agency notifies the Federal Energy Administrator under section 1857c–10(d)(1)(B) <sup>1</sup> of title 42 that such plant or installation will be able on and after July 1, 1975, to burn coal and to comply with all applicable air pollution requirements without a compliance date extension under section 1857c–10(c) <sup>1</sup> of title 42, or (ii) if such notification is not given, the date which the Administrator of the Environmental Protection Agency certifies pursuant to section 1857c–10(d)(1)(B) <sup>1</sup> of title 42 is the earliest date that such plant or installation will be able to comply with all applicable requirements of such 1857c–10 <sup>1</sup> of title 42. Suchorder (or modification) shall not be effective during any period certified by the Administrator of the Environmental Protection Agency under section 1857c–10(d)(3)(B) <sup>1</sup> of title 42.
+&emsp;(B) An order (or modification thereof) described in subparagraph (A) of this paragraph shall not become effective until (i) the Administrator of the Environmental Protection Agency notifies the Federal Energy Administrator under section 1857c–10(d)(1)(B) <sup>1</sup> of title 42 that such plant or installation will be able on and after July 1, 1975, to burn coal and to comply with all applicable air pollution requirements without a compliance date extension under section 1857c–10(c) <sup>1</sup> of title 42, or (ii) if such notification is not given, the date which the Administrator of the Environmental Protection Agency certifies pursuant to section 1857c–10(d)(1)(B) <sup>1</sup> of title 42 is the earliest date that such plant or installation will be able to comply with all applicable requirements of such 1857c–10 <sup>1</sup> of title 42. Such order (or modification) shall not be effective during any period certified by the Administrator of the Environmental Protection Agency under section 1857c–10(d)(3)(B) <sup>1</sup> of title 42.
 
 #### (c) Construction and design of powerplants or other major fuel burning installations
 
@@ -42,7 +42,7 @@ For purposes of this section:
 
 #### (f) Expiration of authority; effective dates
 
-(1) Authority to issue orders or rules under subsections (a) through (d) of this section shall expire at midnight, December 31, 1978. Such a rule or order may take effect at any time before January 1, 1985.
+(1) Authority to issue orders or rules under subsections (a) through (d) of this section shallexpire at midnight, December 31, 1978. Such a rule or order may take effect at any time before January 1, 1985.
 
 (2) Authority to amend, repeal, rescind, modify, or enforce such rules or orders shall expire at midnight, December 31, 1984; but the expiration of such authority shall not affect any administrative or judicial proceeding which relates to any act or omission which occurred prior to January 1, 1985.
 

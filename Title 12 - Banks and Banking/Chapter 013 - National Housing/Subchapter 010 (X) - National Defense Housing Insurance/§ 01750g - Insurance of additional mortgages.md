@@ -8,7 +8,7 @@ In addition to mortgages insured under section 1750b of this title, the Secretar
 
 To be eligible for insurance under this section a mortgage shall meet the following conditions:
 
-&emsp;(1) The mortgaged property shall be held by a mortgagor approved by the Secretary. The Secretary may, in his discretion, require such mortgagor to be regulated or restricted as to rents or sales, charges, capital structure, rate of return, and methods of operation. The Secretary may make such contracts with, and acquire for not to exceed $100 stock or interest in any such mortgagor, as the Secretary may deem necessary to render effective such restriction or regulation. Such stock or interest shall be paid for out of the General InsuranceFund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
+&emsp;(1) The mortgaged property shall be held by a mortgagor approved by the Secretary. The Secretary may, in his discretion, require such mortgagor to be regulated or restricted as to rents or sales, charges, capital structure, rate of return, and methods of operation. The Secretary may make such contracts with, and acquire for not to exceed $100 stock or interest in any such mortgagor, as the Secretary may deem necessary to render effective such restriction or regulation. Such stock or interest shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
 
 &emsp;(2) The mortgage shall involve a principal obligation in an amount—
 
@@ -16,7 +16,7 @@ To be eligible for insurance under this section a mortgage shall meet the follow
 
 &emsp;&emsp;(B) not to exceed 90 per centum of the amount which the Secretary estimates will be the value of the property or project when the proposed improvements are completed: <i>Provided</i>, That such mortgage shall not in any event exceed the amount which the Secretary estimates will be the cost of the completed physical improvements on the property or project exclusive of off-site public utilities and streets and organization and legal expenses; and
 
-&emsp;&emsp;(C) not to exceed $8,100 per family unit (or $7,200 per family unit if the number of rooms in such property or project does not equal or exceed four per family unit) for such part of such property or project as may be attributable to dwelling use: <i>Provided</i>, That the Secretary may by regulation increase such dollar amount limitations by not exceeding $900 in any geographical area where he finds that cost levels so require.
+&emsp;&emsp;(C) not to exceed $8,100 per family unit (or $7,200 per family unit if the number of rooms in such property or project does not equal orexceed four per family unit) for such part of such property or project as may be attributable to dwelling use: <i>Provided</i>, That the Secretary may by regulation increase such dollar amount limitations by not exceeding $900 in any geographical area where he finds that cost levels so require.
 
 &emsp;(3) The mortgagor shall enter into the agreement required by section 1715r of this title.
 

@@ -66,7 +66,7 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 &emsp;&emsp;&emsp;(i) senior;
 
-&emsp;&emsp;&emsp;(ii) individual who, because of illness, injury, age, congenital malfunction, or other incapacity or temporary or permanent disability (including an individual who is a wheelchair user or has semiambulatory capability), cannot use a public transportation service or a public transportation facility effectively without special facilities, planning, or design; and
+&emsp;&emsp;&emsp;(ii) individual who, because of illness, injury, age, congenital malfunction, or other incapacity or temporary or permanent disability (including an individual who is a wheelchair user or has semiambulatory capability), cannot use a public transportation service or a public transportationfacility effectively without special facilities, planning, or design; and
 
 &emsp;&emsp;&emsp;(iii) individual presenting a Medicare card issued to that individual under title II or XVIII of the Social Security Act (42 U.S.C. 401 et seq. and 1395 et seq.);
 
@@ -112,7 +112,7 @@ Remaining costs.—Subject to paragraph (4), the remainder of the net project co
 
 &emsp;&emsp;(C) from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital;
 
-&emsp;&emsp;(D) from amounts appropriated or otherwise made available to a department oragency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation; and
+&emsp;&emsp;(D) from amounts appropriated or otherwise made available to a department or agency of the Government (other than the Department of Transportation) that are eligible to be expended for transportation; and
 
 &emsp;&emsp;(E) from amounts received under a service agreement with a State or local social service agency or private social service organization.
 
@@ -168,7 +168,7 @@ Annual review.—
 
 &emsp;&emsp;(A)
 
-In general.—At least annually, the Secretary shall carry out, or require a recipient to have carried out independently, reviews and audits the Secretary considers appropriate to establish whether the recipient has carried out—
+In general.—At least annually, the Secretary shall carry out, or require a recipient to have carried out independently,reviews and audits the Secretary considers appropriate to establish whether the recipient has carried out—
 
 &emsp;&emsp;&emsp;(i) the activities proposed under subsection (c) of this section in a timely and effective way and can continue to do so; and
 
@@ -206,7 +206,7 @@ Grant requirements.—Except as otherwise provided in this subsection, a grant u
 
 Competitive process.—The Secretary shall solicit grant applications and make grants for eligible projects on a competitive basis.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub.L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571; Pub. L. 110–244, title II, §201(c), June 6, 2008, 122 Stat. 1609; Pub. L. 111–147, title IV, §432, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2302, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §302, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §132, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §302, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §302, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20007, div. G, title III, §113002, July 6, 2012, 126 Stat. 652, 983; Pub. L. 114–94, div. A, title III, §3004, Dec. 4, 2015, 129 Stat. 1450; Pub. L. 115–31, div. K, title I, §165, May 5, 2017, 131 Stat. 749.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478; Pub. L. 108–88, §8(n), Sept. 30, 2003, 117 Stat. 1125; Pub. L. 108–202, §9(n), Feb. 29, 2004, 118 Stat. 488; Pub. L. 108–224, §7(n), Apr. 30, 2004, 118 Stat. 636; Pub. L. 108–263, §7(n), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(n), July 30, 2004, 118 Stat. 885; Pub. L. 108–310, §8(n), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(m), May 31, 2005, 119 Stat. 333; Pub. L. 109–20, §7(m), July 1, 2005, 119 Stat. 355; Pub. L. 109–35, §7(m), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(m), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(m), July 28, 2005, 119 Stat. 420; Pub. L. 109–59, title III, §§3002(b)(4), 3009(a)–(h), Aug. 10, 2005, 119 Stat. 1545, 1568–1571; Pub. L. 110–244, title II, §201(c), June 6, 2008, 122 Stat. 1609; Pub. L. 111–147, title IV, §432, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2302, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §302, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §132, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §302, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §302, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20007, div. G, title III, §113002, July 6, 2012, 126 Stat. 652, 983; Pub. L. 114–94, div. A, title III, §3004, Dec. 4, 2015, 129 Stat. 1450; Pub. L. 115–31, div. K, title I, §165, May 5, 2017, 131 Stat. 749.)
 
 Historical and Revision Notes
 
@@ -452,7 +452,7 @@ Pub. L. 112–140, §§1(c), 302(1), temporarily substituted "
 
 ending on july 6, 2012" for "
 
-ending on june 30, 2012" inheading. See Effective and Termination Dates of 2012 Amendment note below.
+ending on june 30, 2012" in heading. See Effective and Termination Dates of 2012 Amendment note below.
 
 Pub. L. 112–102, §302(1), substituted "
 
@@ -630,7 +630,7 @@ Subsec. (j). Pub. L. 109–59, §3009(a), redesignated subsec. (m) as (j) and st
 
 Subsec. (k). Pub. L. 109–59, §3009(g), reenacted heading without change and amended text of subsec. (k) generally. Prior to amendment, text read as follows:
 
-"(1) Section 1001 of title 18 applies to a certificate or submission under this section. The Secretary may end a grant under this section and seek reimbursement, directly or by offsetting amounts available under section 5336 of this title, when a false or fraudulent statement or related act within the meaning of section 1001 is made in connection with a certification or submission.
+"(1) Section 1001 of title 18 applies to a certificate or submission under this section. The Secretary may end a grant under this section and seek reimbursement, directly or by offsetting amounts available under section 5336 of this title, when a false or fraudulent statementor related act within the meaning of section 1001 is made in connection with a certification or submission.
 
 "(2) Sections 5302, 5318, 5319, 5323(a)(1), (d), and (f), 5332, and 5333 of this title apply to this section and to a grant made under this section. Except as provided in this section, no other provision of this chapter applies to this section or to a grant made under this section."
 
@@ -768,7 +768,7 @@ Pub. L. 108–199, div. F, title I, §166, Jan. 23, 2004, 118 Stat. 309, require
 
 #### Local Share
 
-Pub. L. 105–178, title III, §3011, June 9, 1998, 112 Stat. 357, as amended by Pub. L. 108–202, §9(u), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(u), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(u), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(u), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §8(u), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(t), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(s), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(s), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(s), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(s), July 28, 2005, 119 Stat. 421, allowed recipients of assistance under section 5307 or 5309 of this title to use proceeds from the issuance of revenue bonds as part of the localmatching funds for a capital project for fiscal years 1999 to 2004 and from Oct. 1, 2004, to July 30, 2005.
+Pub. L. 105–178, title III, §3011, June 9, 1998, 112 Stat. 357, as amended by Pub. L. 108–202, §9(u), Feb. 29, 2004, 118 Stat. 489; Pub. L. 108–224, §7(u), Apr. 30, 2004, 118 Stat. 637; Pub. L. 108–263, §7(u), June 30, 2004, 118 Stat. 708; Pub. L. 108–280, §7(u), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §8(u), Sept. 30, 2004, 118 Stat. 1158; Pub. L. 109–14, §7(t), May 31, 2005, 119 Stat. 334; Pub. L. 109–20, §7(s), July 1, 2005, 119 Stat. 356; Pub. L. 109–35, §7(s), July 20, 2005, 119 Stat. 389; Pub. L. 109–37, §7(s), July 22, 2005, 119 Stat. 404; Pub. L. 109–40, §7(s), July 28, 2005, 119 Stat. 421, allowed recipients of assistance under section 5307 or 5309 of this title to use proceeds from the issuance of revenue bonds as part of the local matching funds for a capital project for fiscal years 1999 to 2004 and from Oct. 1, 2004, to July 30, 2005.
 
 #### Pilot Program for Intercity Rail Infrastructure Investment From Mass Transit Account of Highway Trust Fund
 

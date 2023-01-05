@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—In order to meet the national security objectives in section 4811(a) of this title, the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring lenders against losses of principal or interest, or both principal and interest, for loans made to qualified commercial firms to fund, in whole or in part, any of the following activities:
+Establishment.—In order to meet the national security objectives in section 4811(a) of this title, the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring lenders against losses of principal or interest, or both principal and interest, for loans made to qualified commercialfirms to fund, in whole or in part, any of the following activities:
 
 &emsp;(1) The improvement of the protection of the critical infrastructure of the commercial firms.
 

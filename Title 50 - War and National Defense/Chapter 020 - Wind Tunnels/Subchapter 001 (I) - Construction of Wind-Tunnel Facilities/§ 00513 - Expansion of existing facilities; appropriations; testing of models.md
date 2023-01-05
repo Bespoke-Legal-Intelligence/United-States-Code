@@ -26,5 +26,5 @@ Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any e
 
 #### Additional Appropriations
 
-Act June 29, 1950, ch. 405, §801, 64 Stat. 286, provided in part for an additional appropriation of $75,000,000, toremain available until expended; for the construction and completion and equipment of facilities at the Langley Aeronautical Laboratory, Langley Air Force Base, Virginia.
+Act June 29, 1950, ch. 405, §801, 64 Stat. 286, provided in part for an additional appropriation of $75,000,000, to remain available until expended; for the construction and completion and equipment of facilities at the Langley Aeronautical Laboratory, Langley Air Force Base, Virginia.
 

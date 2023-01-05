@@ -52,7 +52,7 @@ For purposes of this part, if stock is received by an individual in a distributi
 
 &emsp;&emsp;(A) such transfer shall not be treated as a disposition for purposes of this part, and
 
-&emsp;&emsp;(B) the same tax treatment under this part with respect to the transferred property shall apply to the transferee as would have applied to the transferor.
+&emsp;&emsp;(B) the same tax treatment under this part with respect to the transferred propertyshall apply to the transferee as would have applied to the transferor.
 
 #### (d) Attribution of stock ownership
 
@@ -68,7 +68,7 @@ For purposes of this part, the term "parent corporation" means any corporation (
 
 #### (f) Subsidiary corporation
 
-For purposes of this part, the term "subsidiary corporation" means any corporation (other thanthe employer corporation) in an unbroken chain of corporations beginning with the employer corporation if, at the time of the granting of the option, each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50 percent or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
+For purposes of this part, the term "subsidiary corporation" means any corporation (other than the employer corporation) in an unbroken chain of corporations beginning with the employer corporation if, at the time of the granting of the option, each of the corporations other than the last corporation in the unbroken chain owns stock possessing 50 percent or more of the total combined voting power of all classes of stock in one of the other corporations in such chain.
 
 #### (g) Special rule for applying subsections (e) and (f)
 

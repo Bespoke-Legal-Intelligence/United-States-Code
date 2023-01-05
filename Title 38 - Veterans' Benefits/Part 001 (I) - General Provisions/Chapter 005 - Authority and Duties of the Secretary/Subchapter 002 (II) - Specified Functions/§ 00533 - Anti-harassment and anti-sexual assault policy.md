@@ -12,7 +12,7 @@ Establishment.—(1) The Secretary, acting through the Office of Assault and Pre
 
 &emsp;(C) A process for any non-Department individual to report harassment and sexual assault described in subparagraph (A), including an option for confidential reporting, and for the Secretary to respond to and address such reports.
 
-&emsp;(D) Clear mechanisms for non-Department individuals to readily identify to whom andhow to report incidents of harassment and sexual assault committed by another non-Department individual.
+&emsp;(D) Clear mechanisms for non-Department individuals to readily identify to whom and how to report incidents of harassment and sexual assault committed by another non-Department individual.
 
 &emsp;(E) Clear mechanisms for employees and contractors of the Department to readily identify to whom and how to report incidents of harassment and sexual assault and how to refer non-Department individuals with respect to reporting an incident of harassment or sexual assault.
 
@@ -80,7 +80,7 @@ Working Group.—(1) The Secretary shall establish a working group to assist the
 
 &emsp;(C) bystander intervention training for veterans.
 
-(4) The working group established under paragraph (1) shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).
+(4) The working group established under paragraph (1) shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).<sup>1</sup>
 
 (f)
 
@@ -90,7 +90,7 @@ Annual Reports.—(1) The Secretary shall submit to the Committee on Veterans' A
 
 &emsp;(A) Results of harassment and sexual assault programming, including the End Harassment program.
 
-&emsp;(B) Results of studies from the Women's Health Practice-Based Research Network ofthe Department relating to harassment and sexual assault.
+&emsp;(B) Results of studies from the Women's Health Practice-Based Research Network of the Department relating to harassment and sexual assault.
 
 &emsp;(C) Data collected on incidents of sexual harassment and sexual assault.
 
@@ -114,11 +114,13 @@ Definitions.—In this section:
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline
 
 Pub. L. 116–315, title V, §5303(d), Jan. 5, 2021, 134 Stat. 5041, provided that: "The Secretary shall commence carrying out section 533 of such title \[title 38\], as added by subsection (a), not later than 180 days after the date of enactment of this Act \[Jan. 5, 2021\]."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

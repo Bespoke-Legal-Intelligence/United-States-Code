@@ -50,7 +50,7 @@ In this section:
 
 &emsp;&emsp;(D) geothermal heat pump efficiency improvements;
 
-&emsp;&emsp;(E) the use of alternative fluids as a heat exchange medium, such as hot water foundin mines and mine shafts, graywater, or other fluids that may improve the economics of geothermal heat pumps;
+&emsp;&emsp;(E) the use of alternative fluids as a heat exchange medium, such as hot water found in mines and mine shafts, graywater, or other fluids that may improve the economics of geothermal heat pumps;
 
 &emsp;&emsp;(F) heating of districts, neighborhoods, communities, large commercial or public buildings, and industrial and manufacturing facilities;
 

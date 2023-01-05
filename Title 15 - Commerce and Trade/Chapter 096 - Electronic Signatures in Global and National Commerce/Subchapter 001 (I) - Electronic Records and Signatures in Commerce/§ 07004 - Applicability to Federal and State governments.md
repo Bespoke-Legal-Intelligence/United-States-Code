@@ -14,7 +14,7 @@ Subject to subsection (c)(2), nothing in this subchapter limits or supersedes an
 
 &emsp;&emsp;(B) to the extent such agency is authorized by statute to issue orders or guidance, the issuance of orders or guidance of general applicability that are publicly available and published (in the Federal Register in the case of an order or guidance issued by a Federal regulatory agency).
 
-> &emsp;This paragraph does not grant any Federal regulatory agency or State regulatory agency authority to issue regulations, orders, or guidance pursuant to any statute that does not authorize such issuance.
+> &emsp;This paragraph does not grant any Federal regulatory agency or State regulatory agencyauthority to issue regulations, orders, or guidance pursuant to any statute that does not authorize such issuance.
 
 #### (2) Limitations on interpretation authority
 
@@ -84,9 +84,9 @@ The Federal Communications Commission shall not hold any contract for telecommun
 
 #### References in Text
 
-The Government Paperwork Elimination Act, referred to in subsec. (c)(2), is title XVII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–749, which amended section 3504 of Title 44, Public Printing and Documents, and enacted provisions set out as a note under section 3504 of Title 44. For complete classification of this Act to the Code, see Tables.
+The Government Paperwork Elimination Act, referred to in subsec. (c)(2), is title XVII of Pub. L.105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–749, which amended section 3504 of Title 44, Public Printing and Documents, and enacted provisions set out as a note under section 3504 of Title 44. For complete classification of this Act to the Code, see Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

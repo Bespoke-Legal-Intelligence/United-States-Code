@@ -20,7 +20,7 @@ Notwithstanding any other law, any person at least 21 years of age who knowingly
 
 #### (d) Suspension of sentence; probation; parole
 
-In the case of any mandatory minimum sentence imposed under this section, imposition or execution of such sentence shall not be suspended and probation shall not be granted. An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section.
+In the case of any mandatory minimum sentence imposed under this section, imposition orexecution of such sentence shall not be suspended and probation shall not be granted. An individual convicted under this section shall not be eligible for parole until the individual has served the mandatory minimum term of imprisonment as provided by this section.
 
 #### (e) Definitions
 
@@ -74,11 +74,11 @@ Subsec. (c). Pub. L. 101–647, §1214(3), inserted "mandatory minimum" after "I
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690, §§6457, 6458(a), inserted ", possessing with intent to distribute," after "distributing" and ", or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility," after "university".
 
-Subsec. (b). Pub. L. 100–690, §§6452(b)(1), 6457, 6458(a), inserted ", possessing with intent to distribute," after"distributing", and ", or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility," after "university", substituted "a prior conviction" for "a prior conviction or convictions", and inserted at end "Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title."
+Subsec. (b). Pub. L. 100–690, §§6452(b)(1), 6457, 6458(a), inserted ", possessing with intent to distribute," after "distributing", and ", or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility," after "university", substituted "a prior conviction" for "a prior conviction or convictions", and inserted at end "Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title."
 
 Subsec. (d). Pub. L. 100–690, §6458(b), added subsec. (d).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–570, §§1104(a), (b), 1105(c), 1841(b)(1), inserted "or section 856 of this title" and "or manufacturing", substituted "a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university" for "a public or private elementary or secondary school", struck out "involving the same controlled substance and schedule" after "for a first offense", and inserted "Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana."
+<b>1986</b>—Subsec. (a). Pub. L. 99–570, §§1104(a), (b), 1105(c), 1841(b)(1), inserted "or section 856 of this title" and "or manufacturing", substituted "a public or private elementary, vocational, or secondary school or a public or private college, junior college, or university" for "a public or private elementary or secondary school", struck out "involving the same controlled substanceand schedule" after "for a first offense", and inserted "Except to the extent a greater minimum sentence is otherwise provided by section 841(b) of this title, a term of imprisonment under this subsection shall be not less than one year. The mandatory minimum sentencing provisions of this paragraph shall not apply to offenses involving 5 grams or less of marihuana."
 
 Pub. L. 99–570, §1004(a), substituted "term of supervised release" for "special parole term".
 

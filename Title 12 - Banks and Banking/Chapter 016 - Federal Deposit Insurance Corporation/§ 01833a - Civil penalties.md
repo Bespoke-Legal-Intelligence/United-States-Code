@@ -112,7 +112,7 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–322, title XXXIII, §330003(g), Sept. 13, 1994, 108 Stat. 2141, provided that the amendment made by that section is effective retroactively to the date of enactment of Pub. L. 101–647, which was approved Nov. 29, 1990.
+Pub. L. 103–322, title XXXIII, §330003(g), Sept. 13, 1994, 108 Stat. 2141, provided that the amendment made bythat section is effective retroactively to the date of enactment of Pub. L. 101–647, which was approved Nov. 29, 1990.
 
 <i><sup>1</sup></i><i> See 1990 Amendment note below.</i>
 

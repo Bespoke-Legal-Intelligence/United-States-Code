@@ -30,7 +30,7 @@ Reports of Boards.—(1) Each special selection board convened under this sectio
 
 Appointment of Persons Selected by Boards.—(1) If the report of a special selection board convened under this section, as approved by the President, recommends for promotion to the next higher grade a person whose name was referred to it for consideration, that person shall, as soon as practicable, be appointed to that grade in accordance with subsections (b), (c), and (d) of section 624 of this title. However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, if the report of that board, as approved by the Secretary concerned, recommends that warrant officer or former warrant officer for promotion to the next higher grade, that person shall, as soon as practicable, be appointed to the next higher grade in accordance with provisions of section 578(c) of this title (rather than subsections (b), (c), and (d) of section 624 of this title).
 
-(2) A person who is appointed to the next higher grade as the result of the recommendation of a special selection board convened under this section shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as he would have had if he had been recommended for promotion to that grade by the board which should have considered, or which did consider, him. In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.
+(2) A person who is appointed to the next higher grade as the result of the recommendation of a special selection board convened under this section shall, upon that appointment, have thesame date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as he would have had if he had been recommended for promotion to that grade by the board which should have considered, or which did consider, him. In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.
 
 (e)
 
@@ -42,7 +42,7 @@ Convening of Boards.—A board convened under this section—
 
 &emsp;(1) shall be convened under regulations prescribed by the Secretary of Defense;
 
-&emsp;(2) shall be composed in accordance with section 612 of this title or, in the case of board toconsider a warrant officer or former warrant officer, in accordance with section 573 of this title and regulations prescribed by the Secretary of the military department concerned; and
+&emsp;(2) shall be composed in accordance with section 612 of this title or, in the case of board to consider a warrant officer or former warrant officer, in accordance with section 573 of this title and regulations prescribed by the Secretary of the military department concerned; and
 
 &emsp;(3) shall be subject to the provisions of section 613 of this title.
 
@@ -106,7 +106,7 @@ Regulations.—(1) The Secretary of each military department shall prescribe reg
 
 (k)
 
-Promotion Board Defined.—In this section, the term "promotion board" means a selection board convened by the Secretary of a military department under section 573(a) or 611(a) of this title.
+Promotion Board Defined.—In this section, the term "promotion board" means a selection board convened by the Secretary of amilitary department under section 573(a) or 611(a) of this title.
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2859; amended Pub. L. 98–525, title V, §527(a), Oct. 19, 1984, 98 Stat. 2525; Pub. L. 102–190, div. A, title XI, §1131(4), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 102–484, div. A, title X, §1052(10), Oct. 23, 1992, 106 Stat. 2499; Pub. L. 105–261, div. A, title V, §501(a)–(e), Oct. 17, 1998, 112 Stat. 2000–2002; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–107, div. A, title V, §§503(b), 505(c)(3)(A), Dec. 28, 2001, 115 Stat. 1083, 1088; Pub. L. 109–364, div. A, title V, §514(a), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 111–383, div. A, title V, §503(b), Jan. 7, 2011, 124 Stat. 4208; Pub. L. 114–92, div. A, title V, §502(c)(1), Nov. 25, 2015, 129 Stat. 807.)
 

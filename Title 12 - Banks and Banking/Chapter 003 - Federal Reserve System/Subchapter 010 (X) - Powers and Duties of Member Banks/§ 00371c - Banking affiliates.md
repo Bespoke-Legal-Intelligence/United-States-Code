@@ -232,7 +232,7 @@ The effective date of this Act, referred to in subsec. (b)(2)(E), probably means
 
 The Gramm-Leach-Bliley Act, referred to in subsecs. (b)(11) and (e)(4)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under section 1843 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 
-This chapter, referred to in subsec. (e)(4)(B), was in the original "this Act", meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This chapter, referred to in subsec. (e)(4)(B), was in the original "this Act", meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 #### Amendments
 
@@ -345,6 +345,8 @@ Amendment by Pub. L. 106–102 effective 120 days after Nov. 12, 1999, see secti
 #### Effective Date of 1982 Amendment
 
 Pub. L. 97–320, title IV, §410(c), Oct. 15, 1982, 96 Stat. 1520, provided that: "Section 23A of the Federal Reserve Act, as amended by this section \[this section\], shall apply to any transaction entered into after the date of enactment of this Act \[Oct. 15, 1982\], except for transactions which are the subject of a binding written contract or commitment entered into on or before July 28, 1982, and except that any renewal of a participation in a loan outstanding on July 28, 1982, to a company that becomes an affiliate as a result of the enactment of this Act \[see section 1 of Pub. L. 97–320, set out as a Short Title of 1982 Amendments note under section 226 of this title\], or any participation in a loan to such anaffiliate emanating from the renewal of a binding written contract or commitment outstanding on July 28, 1982, shall not be subject to the collateral requirements of this Act."
+
+\+
 
 <i><sup>1</sup></i><i> So in original. Probably should read "subsection (a)(4),".</i>
 

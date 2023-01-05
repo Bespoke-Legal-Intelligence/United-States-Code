@@ -22,7 +22,7 @@ In order to assist in meeting natural gas requirements for high-priority uses of
 
 &emsp;The President shall not allocate supplies of natural gas under this subsection unless he finds that—
 
-&emsp;&emsp;(A) to the maximum extent practicable, emergency purchase authority under section3362 of this title has been utilized to assist in meeting natural gas requirements for high-priority uses of natural gas;
+&emsp;&emsp;(A) to the maximum extent practicable, emergency purchase authority under section 3362 of this title has been utilized to assist in meeting natural gas requirements for high-priority uses of natural gas;
 
 &emsp;&emsp;(B) emergency purchases of natural gas supplies under section 3362 of this title are not likely to satisfy the natural gas requirements for such high-priority uses;
 
@@ -152,7 +152,7 @@ In order to effect the purposes of this part, the President shall monitor the op
 
 #### (j) Commission study
 
-Not later than June 1, 1979, the Commission shall prepare and submit to the Congress a report regarding whether authority to allocatenatural gas, which is not otherwise subject to allocation under this part, is likely to be necessary to meet high-priority uses.
+Not later than June 1, 1979, the Commission shall prepare and submit to the Congress a report regarding whether authority to allocate natural gas, which is not otherwise subject to allocation under this part, is likely to be necessary to meet high-priority uses.
 
 #### (k) "High-priority use" defined
 

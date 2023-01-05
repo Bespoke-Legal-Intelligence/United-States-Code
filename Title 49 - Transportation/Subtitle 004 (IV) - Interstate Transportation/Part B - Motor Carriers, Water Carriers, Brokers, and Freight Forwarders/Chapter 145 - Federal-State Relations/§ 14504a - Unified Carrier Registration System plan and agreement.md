@@ -88,7 +88,7 @@ Participating state.—The term "participating State" means a State that has com
 
 &emsp;(8)
 
-Unified carrier registration agreement.—The terms "unified carrier registration agreement" and "UCR agreement" mean the interstate agreement developed under the unified carrier registration plan governing the collection and distribution of registration and financial responsibility information provided and fees paid by motor carriers, motor private carriers, brokers, freight forwarders, and leasing companies pursuant to this section.
+Unified carrier registration agreement.—The terms "unified carrier registration agreement" and "UCR agreement" mean theinterstate agreement developed under the unified carrier registration plan governing the collection and distribution of registration and financial responsibility information provided and fees paid by motor carriers, motor private carriers, brokers, freight forwarders, and leasing companies pursuant to this section.
 
 &emsp;(9)
 
@@ -292,7 +292,9 @@ Liability protections for directors.—No individual appointed to serve on the b
 
 &emsp;(9)
 
-Inapplicability of federal advisory committee act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the unified carrier registration plan, the board, or its committees.
+Inapplicability of chapter 10
+
+of title 5.—Chapter 10 of title 5 shall not apply to the unified carrier registration plan, the board, or its committees.
 
 &emsp;(10)
 
@@ -356,7 +358,7 @@ Determination of ownership or operation.—For purposes of this subsection, a co
 
 &emsp;(3)
 
-Calculation of number of commercial motor vehicles owned or operated.—The number of commercial motor vehicles owned or operated by a motor carrier, motor private carrier, or freight forwarder for purposes of paragraph (1) shall be based either on the number of commercial motor vehicles the motor carrier, motor private carrier, or freight forwarder has indicated it operates on its most recently filed MCS–150 or the total number of such vehicles it owned or operated for the 12-month period ending on June 30 of the year immediately prior to the registration year of the Unified Carrier Registration System. A motor carrier may include in the calculation of its fleet size for purposes of paragraph (1) any commercial motor vehicle. Motor carriers and motor private carriers in the calculation of their fleet size for purposes of paragraph (1) may elect not to include commercial motor vehicles used exclusively in the intrastate transportation of property, waste, or recyclable material.
+Calculation of number of commercial motor vehicles owned or operated.—The number of commercial motor vehicles owned or operated by a motor carrier, motor private carrier, or freight forwarder for purposes of paragraph (1) shall be based either on the number of commercial motor vehicles the motor carrier, motor private carrier, or freight forwarder has indicated it operates on its most recently filed MCS–150 or the totalnumber of such vehicles it owned or operated for the 12-month period ending on June 30 of the year immediately prior to the registration year of the Unified Carrier Registration System. A motor carrier may include in the calculation of its fleet size for purposes of paragraph (1) any commercial motor vehicle. Motor carriers and motor private carriers in the calculation of their fleet size for purposes of paragraph (1) may elect not to include commercial motor vehicles used exclusively in the intrastate transportation of property, waste, or recyclable material.
 
 &emsp;(4)
 
@@ -430,7 +432,7 @@ Enforcement by states.—Nothing in this section—
 
 Application to Intrastate Carriers.—Notwithstanding any other provision of this section, a State may elect to apply the provisions of the UCR agreement to motor carriers and motor private carriers and freight forwarders subject to its jurisdiction that operate solely in intrastate commerce within the borders of the State.
 
-(Added Pub. L. 109–59, title IV, §4305(b), Aug. 10, 2005, 119 Stat. 1764; amended Pub. L. 110–244, title III, §301(m)–(p), June 6, 2008, 122 Stat. 1617; Pub. L. 110–432, div. A, title VII, §701(d), Oct. 16, 2008, 122 Stat. 4906; Pub. L. 112–141, div. C, title II, §32933(b), July 6, 2012, 126 Stat. 830.)
+(Added Pub. L. 109–59, title IV, §4305(b), Aug. 10, 2005, 119 Stat. 1764; amended Pub. L. 110–244, title III, §301(m)–(p), June 6, 2008, 122 Stat. 1617; Pub. L. 110–432, div. A, title VII, §701(d), Oct. 16, 2008, 122 Stat. 4906; Pub. L. 112–141, div. C, title II, §32933(b), July 6, 2012, 126 Stat. 830; Pub. L. 117–286, §4(a)(305), Dec. 27, 2022, 136 Stat. 4339.)
 
 #### <b>Editorial Notes</b>
 
@@ -440,11 +442,11 @@ The date of enactment of this section, referred to in subsec. (a)(7), is the dat
 
 Section 13903(b), referred to in subsec. (b), was redesignated section 13903(d) by Pub. L. 112–141, div. C, title II, §32916(a)(2), July 6, 2012, 126 Stat. 820.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsecs. (e)(1) and (g)(1), (2), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(9). Pub. L. 117–286 substituted "chapter 10 of title 5" for "federal advisory committee act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2012</b>—Subsec. (c)(1)(C). Pub. L. 112–141, §32933(b)(1), substituted "section" for "sections".
 

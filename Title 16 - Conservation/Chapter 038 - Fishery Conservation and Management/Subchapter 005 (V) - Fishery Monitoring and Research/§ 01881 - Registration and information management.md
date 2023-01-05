@@ -66,7 +66,7 @@ Within one year after October 11, 1996, the Secretary shall publish in the Feder
 
 #### (f) Congressional transmittal
 
-Within 60 days after the end of the comment period and after consideration of comments received under subsection (e), the Secretary shall transmit to the Committee on Commerce,Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a recommended proposal for implementation of a national fishing vessel registration system that includes—
+Within 60 days after the end of the comment period and after consideration of comments received under subsection (e), the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a recommended proposal for implementation of a national fishing vessel registration system that includes—
 
 &emsp;(1) any modifications made after comment and consultation;
 
@@ -104,7 +104,7 @@ Within 60 days after the end of the comment period and after consideration of co
 
 &emsp;&emsp;The program shall take into consideration and, to the extent feasible, implement the recommendations of the National Research Council in its report Review of Recreational Fisheries Survey Methods (2006), including—
 
-&emsp;&emsp;&emsp;(i) redesigning the Survey to improve the effectiveness and appropriateness of sampling and estimation procedures, its applicability to various kinds of management decisions, and its usefulness for social and economic analyses; and
+&emsp;&emsp;&emsp;(i) redesigning the Survey to improve the effectiveness and appropriateness ofsampling and estimation procedures, its applicability to various kinds of management decisions, and its usefulness for social and economic analyses; and
 
 &emsp;&emsp;&emsp;(ii) providing for ongoing technical evaluation and modification as needed to meet emerging management needs.
 
@@ -184,15 +184,15 @@ The Secretary shall—
 
 &emsp;&emsp;(B) alternative management approaches that could be applied to recreational fisheries for which the Marine Recreational Information Program is not meeting the needs of in-season management of annual catch limits, consistent with other requirements of this chapter, until such time as the changes in subparagraph (A) are implemented.
 
-(Pub. L. 94–265, title IV, §401, as added Pub. L. 104–297, title II, §202, Oct. 11, 1996, 110 Stat. 3605; amended Pub. L. 109–479, title II, §201, Jan. 12, 2007, 120 Stat. 3611; Pub. L. 115–405, §202, Dec. 31, 2018, 132 Stat. 5359.)
+(Pub. L. 94–265, title IV, §401, as added Pub. L. 104–297, title II, §202, Oct. 11, 1996, 110 Stat. 3605;amended Pub. L. 109–479, title II, §201, Jan. 12, 2007, 120 Stat. 3611; Pub. L. 115–405, §202, Dec. 31, 2018, 132 Stat. 5359.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (d) and (h)(2)(B), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (d) and (h)(2)(B), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Marine Mammal Protection Act, referred to in subsec. (a)(1), probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
+The Marine Mammal Protection Act, referred to in subsec. (a)(1), probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1361 of this title and Tables.
 
 #### Prior Provisions
 

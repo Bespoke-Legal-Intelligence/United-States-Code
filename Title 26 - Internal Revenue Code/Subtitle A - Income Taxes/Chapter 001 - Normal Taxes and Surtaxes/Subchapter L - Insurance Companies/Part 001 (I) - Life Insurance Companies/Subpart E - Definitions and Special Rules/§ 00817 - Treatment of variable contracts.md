@@ -4,7 +4,7 @@
 
 For purposes of subsections (a) and (b) of section 807, the sum of the items described in section 807(c) taken into account as of the close of the taxable year with respect to any variable contract shall, under regulations prescribed by the Secretary, be adjusted—
 
-&emsp;(1) by subtracting therefrom an amount equal to the sum of the amounts added from time to time (for the taxable year) to the reserves separately accounted for in accordance with subsection (c) by reason of appreciation in value of assets (whether or not the assets have been disposed of), and
+&emsp;(1) by subtracting therefrom an amount equal to the sum of the amounts added fromtime to time (for the taxable year) to the reserves separately accounted for in accordance with subsection (c) by reason of appreciation in value of assets (whether or not the assets have been disposed of), and
 
 &emsp;(2) by adding thereto an amount equal to the sum of the amounts subtracted from time to time (for the taxable year) from such reserves by reason of depreciation in value of assets (whether or not the assets have been disposed of).
 
@@ -68,7 +68,7 @@ A pension plan contract which is not a life, accident, or health, property, casu
 
 #### (g) Variable annuity contracts treated as annuity contracts
 
-For purposes of this part, the term "annuity contract" includes a contract which provides forthe payment of a variable annuity computed on the basis of—
+For purposes of this part, the term "annuity contract" includes a contract which provides for the payment of a variable annuity computed on the basis of—
 
 &emsp;(1) recognized mortality tables, and
 
@@ -82,7 +82,7 @@ For purposes of this part, the term "annuity contract" includes a contract which
 
 #### (1) In general
 
-&emsp;For purposes of subchapter L, section 72 (relating to annuities), and section 7702(a) (relating to definition of life insurance contract), a variable contract (other than a pension plan contract) which is otherwise described in this section and which is based on a segregated asset account shall not be treated as an annuity, endowment, or life insurance contract for any period (and any subsequent period) for which the investments made by such account are not, in accordance with regulations prescribed by the Secretary, adequately diversified.
+&emsp;For purposes of subchapter L, section 72 (relating to annuities), and section 7702(a) (relating to definition of life insurance contract), a variable contract (other than a pension plan contract) which is otherwise described in this section and which is based on a segregated asset account shall not be treated as an annuity, endowment, or life insurance contract for any period (and any subsequent period) forwhich the investments made by such account are not, in accordance with regulations prescribed by the Secretary, adequately diversified.
 
 #### (2) Safe harbor for diversification
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 108–218 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XII, §1271(c), Aug. 5, 1997, 111 Stat. 1037, provided that: "The amendments made bythis section \[amending this section and sections 851 and 1092 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–34, title XII, §1271(c), Aug. 5, 1997, 111 Stat. 1037, provided that: "The amendments made by this section \[amending this section and sections 851 and 1092 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -185,6 +185,48 @@ Pub. L. 100–647, title I, §1010(i), Nov. 10, 1988, 102 Stat. 3455, provided t
 &emsp;"(2) such contract was outstanding on September 12, 1986, and
 
 &emsp;"(3) the segregated asset account on which such contract is based was, on September 12, 1986, wholly invested in deposits insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation."
+
+#### Insurance-Dedicated Exchange-Traded Funds
+
+Pub. L. 117–328, div. T, title II, §203, Dec. 29, 2022, 136 Stat. 5333, provided that:
+
+"(a)
+
+In General.—Not later than the date which is 7 years after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of the Treasury (or the Secretary's delegate) shall amend the regulation issued by the Department of the Treasury relating to 'Income Tax; Diversification Requirements for Variable Annuity, Endowment, and Life Insurance Contracts', 54 Fed. Reg. 8728 (March 2, 1989), and make any necessary corresponding amendments to other regulations, in order to facilitate the use of exchange-traded funds as investment options under variable contracts within the meaning of section 817(d) of the Internal Revenue Code of 1986, in accordance with subsections (b) and (c) of this section.
+
+"(b)
+
+Designate Certain Authorized Participants and Market Makers as Eligible Investors.—The Secretary of the Treasury (or the Secretary's delegate) shall amend Treas. Reg. section 1.817–5(f)(3) to provide that satisfaction of the requirements in Treas. Reg. section 1.817–5(f)(2)(i) with respect to an exchange-traded fund shall not be prevented by reason of beneficial interests in such a fund being held by 1 or more authorized participants or market makers.
+
+"(c)
+
+Define Relevant Terms.—In amending Treas. Reg. section 1.817–5(f)(3) in accordance with subsection (b), the Secretary of the Treasury (or the Secretary's delegate) shall provide definitions consistent with the following:
+
+&emsp;"(1)
+
+Exchange-traded fund.—The term 'exchange-traded fund' means a regulated investment company, partnership, or trust—
+
+&emsp;&emsp;"(A) that is registered with the Securities and Exchange Commission as an open-end investment company or a unit investment trust;
+
+&emsp;&emsp;"(B) the shares of which can be purchased or redeemed directly from the fund only by an authorized participant; and
+
+&emsp;&emsp;"(C) the shares of which are traded throughout the day on a national stock exchange at market prices that may or may not be the same as the net asset value of the shares.
+
+&emsp;"(2)
+
+Authorized participant.—The term 'authorized participant' means a financial institution that is a member or participant of a clearing agency registered under section 17A(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78q–1(b)\] that enters into a contractual relationship with an exchange-traded fund pursuant to which the financial institution is permitted to purchase and redeem shares directly from the fund and to sell such shares to third parties, but only if the contractual arrangement or applicable law precludes the financial institution from—
+
+&emsp;&emsp;"(A) purchasing the shares for its own investment purposes rather than for the exclusive purpose of creating and redeeming such shares on behalf of third parties; and
+
+&emsp;&emsp;"(B) selling the shares to third parties who are not market makers or otherwise described in Treas. Reg. section 1.817–5(f) (1) and (3).
+
+&emsp;"(3)
+
+Market maker.—The term 'market maker' means a financial institution that is a registered broker or dealer under section 15(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78o(b)\] that maintains liquidity for an exchange-traded fund on a national stock exchange by being always ready to buy and sell shares of such fund on the market, but only if the financial institution is contractually or legally precluded from selling or buying such shares to or from persons who are not authorized participants or otherwise described in Treas. Reg. section 1.817–5(f) (2) and (3).
+
+"(d)
+
+Effective Date.—This section shall apply to segregated asset account investments made on or after the date which is 7 years after the date of the enactment of this Act."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -51,6 +51,7 @@
 | 2238b–1. | Budgetary treatment expansion and adjustment for the Harbor Maintenance Trust Fund. |
 | [2238c.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002238c%20-%20Additional%20measures%20at%20donor%20ports%20and%20energy%20transfer%20ports.md) | Additional measures at donor ports and energy transfer ports. |
 | [2238d.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002238d%20-%20Maintenance%20of%20harbors%20of%20refuge.md) | Maintenance of harbors of refuge. |
+| [2238e.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002238e%20-%20Additional%20projects%20for%20underserved%20community%20harbors.md) | Additional projects for underserved community harbors. |
 | [2239\.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002239%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93640%2C%20title%20IV%2C%20%C2%A7412%28f%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%204650.md) | Repealed. |
 | [2240\.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002240%20-%20Emergency%20response%20services.md) | Emergency response services. |
 | [2241\.](Subchapter%20002%20%28II%29%20-%20Harbor%20Development/%C2%A7%2002241%20-%20Definitions.md) | Definitions. |
@@ -98,6 +99,8 @@
 | :--- | ---: |
 | [2280\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002280%20-%20Maximum%20cost%20of%20projects.md) | Maximum cost of projects. |
 | [2281\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002281%20-%20Matters%20to%20be%20addressed%20in%20planning.md) | Matters to be addressed in planning. |
+| [2281a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002281a%20-%20Tribal%20Liaison.md) | Tribal Liaison. |
+| [2281b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002281b%20-%20Corps%20of%20Engineers%20support%20for%20underserved%20communities%3B%20outreach.md) | Corps of Engineers support for underserved communities; outreach. |
 | [2282\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282%20-%20Feasibility%20reports.md) | Feasibility reports. |
 | [2282a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282a%20-%20Planning.md) | Planning. |
 | [2282b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282b%20-%20Submission%20of%20reports%20to%20Congress.md) | Submission of reports to Congress. |
@@ -106,6 +109,7 @@
 | 2282d–1. | Report to Congress on authorized studies and projects. |
 | [2282e.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282e%20-%20Post-authorization%20change%20reports.md) | Post-authorization change reports. |
 | [2282f.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282f%20-%20Review%20of%20resiliency%20assessments.md) | Review of resiliency assessments. |
+| [2282g.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002282g%20-%20Scope%20of%20feasibility%20studies.md) | Scope of feasibility studies. |
 | [2283\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002283%20-%20Fish%20and%20wildlife%20mitigation.md) | Fish and wildlife mitigation. |
 | [2283a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002283a%20-%20Status%20report.md) | Status report. |
 | [2283b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002283b%20-%20Clarification%20of%20mitigation%20authority.md) | Clarification of mitigation authority. |
@@ -126,6 +130,7 @@
 | [2293a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002293a%20-%20Reprogramming%20of%20funds%20for%20projects%20by%20Corps%20of%20Engineers.md) | Reprogramming of funds for projects by Corps of Engineers. |
 | [2294\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002294%20-%20Office%20of%20Environmental%20Policy.md) | Office of Environmental Policy. |
 | [2295\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002295%20-%20Compilation%20of%20laws%3B%20annual%20reports.md) | Compilation of laws; annual reports. |
+| [2295a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002295a%20-%20Policy%20and%20technical%20standards.md) | Policy and technical standards. |
 | [2296\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002296%20-%20Acquisition%20of%20recreation%20lands.md) | Acquisition of recreation lands. |
 | [2297\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002297%20-%20Operation%20and%20maintenance%20on%20recreation%20lands.md) | Operation and maintenance on recreation lands. |
 | [2298\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002298%20-%20Impact%20of%20proposed%20projects%20on%20existing%20recreation%20facilities.md) | Impact of proposed projects on existing recreation facilities. |
@@ -143,7 +148,7 @@
 | [2310\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002310%20-%20Cost%20sharing%20for%20Territories%20and%20Indian%20tribes.md) | Cost sharing for Territories and Indian tribes. |
 | [2311\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002311%20-%20Report%20to%20Congress%20covering%20proposals%20for%20water%20impoundment%20facilities.md) | Report to Congress covering proposals for water impoundment facilities. |
 | [2312\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002312%20-%20Comments%20on%20certain%20changes%20in%20operations%20of%20reservoirs.md) | Comments on certain changes in operations of reservoirs. |
-| [2313\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002313%20-%20Collaborative%20research%20and%20development.md) | Collaborative research and development. |
+| [2313\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002313%20-%20Research%20and%20development.md) | Research and development. |
 | [2313a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002313a%20-%20Engineering%20and%20environmental%20innovations%20of%20national%20significance.md) | Engineering and environmental innovations of national significance. |
 | [2313b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002313b%20-%20Support%20of%20Army%20civil%20works%20program.md) | Support of Army civil works program. |
 | [2314\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002314%20-%20Innovative%20technology.md) | Innovative technology. |
@@ -187,9 +192,10 @@
 | [2330a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002330a%20-%20Monitoring%20ecosystem%20restoration.md) | Monitoring ecosystem restoration. |
 | [2330b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002330b%20-%20Fish%20hatcheries.md) | Fish hatcheries. |
 | [2330c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002330c%20-%20Aquatic%20ecosystem%20restoration.md) | Aquatic ecosystem restoration. |
+| [2330d.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002330d%20-%20Public%20recreational%20amenities%20in%20ecosystem%20restoration%20projects.md) | Public recreational amenities in ecosystem restoration projects. |
 | [2331\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002331%20-%20Use%20of%20continuing%20contracts%20for%20construction%20of%20certain%20projects.md) | Use of continuing contracts for construction of certain projects. |
 | [2331a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002331a%20-%20Initiating%20work%20on%20separable%20elements.md) | Initiating work on separable elements. |
-| [2332\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002332%20-%20Flood%20mitigation%20and%20riverine%20restoration%20program.md) | Flood mitigation and riverine restoration program. |
+| [2332\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002332%20-%20Shoreline%20and%20riverine%20protection%20and%20restoration.md) | Shoreline and riverine protection and restoration. |
 | [2333\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002333%20-%20Irrigation%20diversion%20protection%20and%20fisheries%20enhancement%20assistance.md) | Irrigation diversion protection and fisheries enhancement assistance. |
 | [2334\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002334%20-%20Innovative%20technologies%20for%20watershed%20restoration.md) | Innovative technologies for watershed restoration. |
 | [2335\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002335%20-%20Coastal%20aquatic%20habitat%20management.md) | Coastal aquatic habitat management. |
@@ -213,16 +219,19 @@
 | [2347b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002347b%20-%20Purpose%20and%20need.md) | Purpose and need. |
 | [2347c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002347c%20-%20Small%20water%20storage%20projects.md) | Small water storage projects. |
 | [2348\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002348%20-%20Project%20acceleration.md) | Project acceleration. |
+| [2348a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002348a%20-%20NEPA%20reporting.md) | NEPA reporting. |
 | [2349\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002349%20-%20Categorical%20exclusions%20in%20emergencies.md) | Categorical exclusions in emergencies. |
 | [2350\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002350%20-%20Corrosion%20prevention.md) | Corrosion prevention. |
 | [2351\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002351%20-%20Durability%2C%20sustainability%2C%20and%20resilience.md) | Durability, sustainability, and resilience. |
 | [2351a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002351a%20-%20Operation%20and%20maintenance%20of%20existing%20infrastructure.md) | Operation and maintenance of existing infrastructure. |
+| [2351b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002351b%20-%20Federal%20breakwaters%20and%20jetties.md) | Federal breakwaters and jetties. |
 | [2352\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002352%20-%20Funding%20to%20process%20permits.md) | Funding to process permits. |
 | [2353\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002353%20-%20Structural%20health%20monitoring.md) | Structural health monitoring. |
 | [2353a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002353a%20-%20Aging%20infrastructure.md) | Aging infrastructure. |
 | [2354\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002354%20-%20Easements%20for%20electric%2C%20telephone%2C%20or%20broadband%20service%20facilities.md) | Easements for electric, telephone, or broadband service facilities. |
 | [2355\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002355%20-%20Prior%20project%20authorization.md) | Prior project authorization. |
 | [2356\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002356%20-%20Project%20consultation.md) | Project consultation. |
+| [2357\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2002357%20-%20Managed%20aquifer%20recharge%20study%20and%20working%20group.md) | Managed aquifer recharge study and working group. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

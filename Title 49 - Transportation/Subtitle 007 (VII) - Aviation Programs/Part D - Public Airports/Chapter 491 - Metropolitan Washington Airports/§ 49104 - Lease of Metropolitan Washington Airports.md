@@ -4,7 +4,7 @@
 
 General.—The lease between the Secretary of Transportation and the Metropolitan Washington Airports Authority under section 6005(a) of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500; 100 Stat. 1783–375; Public Law 99–591; 100 Stat. 3341–378), for the Metropolitan Washington Airports must provide during its 50-year term at least the following:
 
-&emsp;(1) The Airports Authority shall operate, maintain, protect, promote, and develop the Metropolitan Washington Airports as a unitand as primary airports serving the Metropolitan Washington area.
+&emsp;(1) The Airports Authority shall operate, maintain, protect, promote, and develop the Metropolitan Washington Airports as a unit and as primary airports serving the Metropolitan Washington area.
 
 &emsp;(2)(A) In this paragraph, "airport purposes" means a use of property interests (except a sale) for—
 
@@ -152,7 +152,7 @@ In subsection (b), the text of section 6005(b)(2) of the Metropolitan Washington
 
 Section 6005(a) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (a), is section 6005(a) of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–375, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–378, which was classified to section 2454(a) of former Title 49, Transportation, and was repealed and reenacted as subsec. (a) of this section by Pub. L. 105–102, §§2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217.
 
-The Airport and Airway Improvement Act of 1982, referred to in subsec. (a)(3), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, as amended, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as subchapter I of chapter 471 of Title 49, Transportation.
+The Airport and Airway Improvement Act of 1982, referred to in subsec. (a)(3), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, which was classified principally to chapter 31 (§2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub.L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as subchapter I of chapter 471 of Title 49, Transportation.
 
 #### Prior Provisions
 

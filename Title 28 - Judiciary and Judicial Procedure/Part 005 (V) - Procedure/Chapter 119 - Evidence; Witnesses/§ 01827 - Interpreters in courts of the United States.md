@@ -58,7 +58,7 @@
 
 #### References in Text
 
-The date of the enactment of the Judicial Improvements and Access to Justice Act, referred to in subsec.\(b)(1), is the date of enactment of Pub. L. 100–702, which was approved Nov. 19, 1988.
+The date of the enactment of the Judicial Improvements and Access to Justice Act, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 100–702, which was approved Nov. 19, 1988.
 
 The Judicial Improvements and Access to Justice Act, referred to in subsec. (g)(1), is Pub. L. 100–702, Nov. 19, 1988, 102 Stat. 4642. For complete classification of this Act to the Code, see Short Title note set out under section 1 of this title and Tables.
 
@@ -118,7 +118,7 @@ For short title of Pub. L. 95–539 as "Court Interpreters Act", see Short Title
 
 #### Payment for Contractual Services
 
-Pub. L. 104–317, title IV, §402(b), Oct. 19, 1996, 110 Stat. 3854, provided that: "Notwithstanding sections 3302(b), 1341, and 1517 of title 31, United States Code, the Director of the Administrative Office of the United States Courts may include in any contract for the development or administration of examinations for interpreters (including such a contract entered into before the date of the enactment of this Act \[Oct. 19, 1996\]) aprovision which permits the contractor to collect and retain fees in payment for contractual services in accordance with section 1827(g)(5) of title 28, United States Code."
+Pub. L. 104–317, title IV, §402(b), Oct. 19, 1996, 110 Stat. 3854, provided that: "Notwithstanding sections 3302(b), 1341, and 1517 of title 31, United States Code, the Director of the Administrative Office of the United States Courts may include in any contract for the development or administration of examinations for interpreters (including such a contract entered into before the date of the enactment of this Act \[Oct. 19, 1996\]) a provision which permits the contractor to collect and retain fees in payment for contractual services in accordance with section 1827(g)(5) of title 28, United States Code."
 
 #### Impact on Existing Programs
 

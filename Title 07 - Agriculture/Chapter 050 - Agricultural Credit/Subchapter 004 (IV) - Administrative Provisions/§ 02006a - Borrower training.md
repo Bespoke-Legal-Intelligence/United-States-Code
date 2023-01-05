@@ -42,7 +42,7 @@ A borrower shall pay for training received under this section, and may use funds
 
 &emsp;The Secretary shall establish criteria providing for the application of paragraph (1) consistently in all counties nationwide.
 
-(Pub. L. 87–128, title III, §359, as added Pub. L. 101–624, title XVIII, §1818(a), Nov. 28, 1990, 104 Stat. 3829; amended Pub. L. 105–277, div. A, §101(a) \[title VIII, §805(3)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§5316, 5501(c), May 13, 2002, 116 Stat. 348, 351; Pub. L. 113–79, title V, §5306, Feb. 7, 2014, 128 Stat. 840.)
+(Pub. L. 87–128, title III, §359, as added Pub. L. 101–624, title XVIII, §1818(a), Nov. 28, 1990, 104 Stat. 3829; amended Pub. L. 105–277, div. A, §101(a) \[title VIII, §805(3)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§5316,5501(c), May 13, 2002, 116 Stat. 348, 351; Pub. L. 113–79, title V, §5306, Feb. 7, 2014, 128 Stat. 840.)
 
 #### <b>Editorial Notes</b>
 

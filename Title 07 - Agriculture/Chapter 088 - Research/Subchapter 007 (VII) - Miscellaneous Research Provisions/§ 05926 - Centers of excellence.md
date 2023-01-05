@@ -64,7 +64,7 @@ A center of excellence is composed of 1 or more of the eligible entities specifi
 
 #### (4) Report
 
-&emsp;Not later than 1 year after December 20, 2018, and every year thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
+&emsp;Not later than 1 year after December 20, 2018, and every year thereafter, the Secretary shall submit to the Committee on Agricultureof the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing—
 
 &emsp;&emsp;(A) the resources invested in the centers of excellence established under paragraph (1); and
 

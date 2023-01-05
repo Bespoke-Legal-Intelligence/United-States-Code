@@ -46,7 +46,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;(B) The plan shall provide assurances that—
 
-&emsp;&emsp;(i) no individual (appointed or otherwise) involved in the designation of the State agency or an area agency on aging, or in the designation of the head of any subdivision of the State agency or of an area agency on aging, is subject to a conflict of interest prohibited under this chapter;
+&emsp;&emsp;(i) no individual (appointed or otherwise) involved in the designation of the State agency or an area agency on aging, or in the designation of the head of any subdivision ofthe State agency or of an area agency on aging, is subject to a conflict of interest prohibited under this chapter;
 
 &emsp;&emsp;(ii) no officer, employee, or other representative of the State agency or an area agency on aging is subject to a conflict of interest prohibited under this chapter; and
 
@@ -92,7 +92,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;&emsp;(ii) receipt of reports of abuse of older individuals;
 
-&emsp;&emsp;&emsp;(iii) active participation of older individuals participating in programs under this chapter through outreach, conferences, and referral of such individuals to other social service agencies or sources of assistance where appropriate and consented to by the parties to be referred; and
+&emsp;&emsp;&emsp;(iii) active participation of older individuals participating in programs under thischapter through outreach, conferences, and referral of such individuals to other social service agencies or sources of assistance where appropriate and consented to by the parties to be referred; and
 
 &emsp;&emsp;&emsp;(iv) referral of complaints to law enforcement or public protective service agencies where appropriate;
 
@@ -126,7 +126,7 @@ Except as provided in the succeeding sentence and section 3029(a) of this title,
 
 &emsp;&emsp;&emsp;(ii) older individuals with greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas);
 
-&emsp;&emsp;&emsp;(iii) older individuals with greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals,older individuals with limited English proficiency, and older individuals residing in rural areas);
+&emsp;&emsp;&emsp;(iii) older individuals with greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas);
 
 &emsp;&emsp;&emsp;(iv) older individuals with severe disabilities;
 
@@ -242,7 +242,7 @@ The Legal Services Corporation Act, referred to in subsec. (a)(11)(A), is title 
 
 #### Prior Provisions
 
-A prior section 3027, Pub. L. 89–73, title III, §307, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44, related to payment of grants or contracts, prior to the general amendment of this subchapter by Pub. L. 95–478. See section 3029 of this title.
+A prior section 3027, Pub. L. 89–73, title III, §307, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44, related to payment of grants or contracts, prior tothe general amendment of this subchapter by Pub. L. 95–478. See section 3029 of this title.
 
 Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §305, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 41; Pub. L. 94–135, title I, §§106(a), (b), 114(e), Nov. 28, 1975, 89 Stat. 715, 725, which was classified to section 3025 of this title prior to repeal by Pub. L. 95–478.
 
@@ -294,7 +294,7 @@ Subsec. (a)(11). Pub. L. 106–501, §306(5), (6), redesignated par. (15) as (11
 
 > for any staff positions (full time or part time) in State and area agencies for which such individuals qualify."
 
-Subsec. (a)(12). Pub. L. 106–501, §306(5), (6), redesignated par. (16) as (12) and struck out former par. (12) which read as follows: "The plan shall provide assurances that the State agency will carry out, through the Office of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with section 3058g of this title and this subchapter."
+Subsec. (a)(12). Pub. L. 106–501, §306(5), (6), redesignated par. (16) as (12) and struck out former par. (12) which read as follows: "The plan shall provide assurances that the State agency will carry out, through theOffice of the State Long-Term Care Ombudsman, a State Long-Term Care Ombudsman program in accordance with section 3058g of this title and this subchapter."
 
 Subsec. (a)(13). Pub. L. 106–501, §306(5), (8), redesignated par. (18) as (13) and struck out former par. (13) which related to a list of requirements that the plan was to provide with respect to nutrition services.
 
@@ -520,7 +520,7 @@ Subsec. (a)(15). Pub. L. 100–175, §182(k)(15), inserted "The plan shall", and
 
 Subsec. (a)(16). Pub. L. 100–175, §182(k)(16), inserted "The plan shall", and in subpar. (C) substituted a period for semicolon.
 
-Pub. L. 100–175, §144(d)(1), substituted ", if funds are not appropriated under section 3023(g) of this title fora fiscal year, provide that for such fiscal year" for second reference to "provide".
+Pub. L. 100–175, §144(d)(1), substituted ", if funds are not appropriated under section 3023(g) of this title for a fiscal year, provide that for such fiscal year" for second reference to "provide".
 
 Subsec. (a)(17) to (19). Pub. L. 100–175, §182(k)(17)–(19), inserted "The plan shall" and substituted a period for semicolon.
 
@@ -554,7 +554,7 @@ Subsec. (g). Pub. L. 100–175, §137(b), added subsec. (g).
 
 <b>1984</b>—Subsec. (a)(3)(A). Pub. L. 98–459, §307(a)(1), substituted "legal assistance" for "legal services".
 
-Subsec. (a)(10). Pub. L. 98–459, §307(a)(2), substituted "supportive services or nutrition services" for "supportive services, including nutrition services", and inserted ", or where such services are directly related to such State or area agency on aging's administrative functions, or where such services of comparable quality can be provided more economically by such State or area agency on aging".
+Subsec. (a)(10). Pub. L. 98–459, §307(a)(2), substituted "supportive services or nutrition services" for "supportive services, including nutrition services", and inserted ", or where such services are directly related to such State or area agency on aging's administrative functions, or where such services of comparable qualitycan be provided more economically by such State or area agency on aging".
 
 Subsec. (a)(12)(A). Pub. L. 98–459, §307(a)(3)(A)–(C), substituted ", other than an agency or organization which is responsible" for "which is not responsible", "which is an association" for "which is not an association", and "which provides an individual who will, on a full-time basis—" for "which will—", in provision preceding cl. (i).
 

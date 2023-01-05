@@ -10,7 +10,7 @@ In general.—The Secretary of Transportation may make grants for technical assi
 
 &emsp;(2)
 
-Demonstration grants.—At least the first 3 grants awarded under this section shall be demonstration grants for the purpose of demonstrating and evaluating the utility of grants under this section. Each such demonstration grant shall not exceed $25,000.
+Demonstration grants.—At least the first 3 grants awarded under this section shallbe demonstration grants for the purpose of demonstrating and evaluating the utility of grants under this section. Each such demonstration grant shall not exceed $25,000.
 
 &emsp;(3)
 
@@ -66,7 +66,7 @@ Eligible applicant.—The term "eligible applicant" means a nonprofit entity tha
 
 #### References in Text
 
-Public Law 93–153, referred to in subsec. (a)(1), is Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 576, as amended. Title II of the Act, known as the Trans-Alaska Pipeline Authorization Act, is classified generally to chapter 34 (§1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
+Public Law 93–153, referred to in subsec. (a)(1), is Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 576. Title II of the Act, known as the Trans-Alaska Pipeline Authorization Act, is classified generally to chapter 34 (§1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 43 and Tables.
 
 Section 2(b) of the PIPES Act of 2016, referred to in subsec. (c)(1), is section 2(b) of Pub. L. 114–183, June 22, 2016, 130 Stat. 515, which is not classified to the Code.
 

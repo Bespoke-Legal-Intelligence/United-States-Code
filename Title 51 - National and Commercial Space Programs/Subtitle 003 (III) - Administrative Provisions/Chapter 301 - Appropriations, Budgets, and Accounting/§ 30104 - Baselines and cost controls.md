@@ -40,7 +40,7 @@ Report.—The Administrator shall transmit a report describing the basis for the
 
 &emsp;(3)
 
-Nondelegation.—The Administrator may not delegate the determination requirementunder this subsection, except in cases in which the Administrator has a conflict of interest.
+Nondelegation.—The Administrator may not delegate the determination requirement under this subsection, except in cases in which the Administrator has a conflict of interest.
 
 (c)
 
@@ -118,7 +118,7 @@ Completion of analysis and transmittal to committees.—The Administration shall
 
 (f)
 
-Thirty Percent Threshold.—If the Administrator determines under subsection (e) that the development cost of a program will exceed the estimate provided in the Baseline Report of the program by more than 30 percent, then, beginning 18 months after the date the Administrator transmits a report under subsection (e)(1)(A), the Administrator shall not expend any additional funds on the program, other thantermination costs, unless Congress has subsequently authorized continuation of the program by law. An appropriation for the specific program enacted subsequent to a report being transmitted shall be considered an authorization for purposes of this subsection. If the program is continued, the Administrator shall submit a new Baseline Report for the program no later than 90 days after the date of enactment of the Act under which Congress has authorized continuation of the program.
+Thirty Percent Threshold.—If the Administrator determines under subsection (e) that the development cost of a program will exceed the estimate provided in the Baseline Report of the program by more than 30 percent, then, beginning 18 months after the date the Administrator transmits a report under subsection (e)(1)(A), the Administrator shall not expend any additional funds on the program, other than termination costs, unless Congress has subsequently authorized continuation of the program by law. An appropriation for the specific program enacted subsequent to a report being transmitted shall be considered an authorization for purposes of this subsection. If the program is continued, the Administrator shall submit a new Baseline Report for the program no later than 90 days after the date of enactment of the Act under which Congress has authorized continuation of the program.
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3360; Pub. L. 115–10, title VIII, §828, Mar. 21, 2017, 131 Stat. 66.)
 

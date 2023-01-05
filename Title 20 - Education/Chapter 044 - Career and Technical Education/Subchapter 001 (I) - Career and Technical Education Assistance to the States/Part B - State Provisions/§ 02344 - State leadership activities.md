@@ -44,7 +44,7 @@ The State leadership activities described in subsection (a) may include—
 
 &emsp;&emsp;(B) prepares career and technical education teachers, faculty, specialized instructional support personnel, and paraprofessionals to provide appropriate accommodations for students who are members of special populations, including through the use of principles of universal design for learning, multi-tier systems of supports, and positive behavioral interventions and support; and
 
-&emsp;&emsp;(C) increases the ability of teachers, faculty, specialized instructional support personnel, and paraprofessionals providing career and technical education instruction to stay current with industry standards andearn an industry-recognized credential or license, as appropriate, including by assisting those with relevant industry experience in obtaining State teacher licensure or credential requirements;
+&emsp;&emsp;(C) increases the ability of teachers, faculty, specialized instructional support personnel, and paraprofessionals providing career and technical education instruction to stay current with industry standards and earn an industry-recognized credential or license, as appropriate, including by assisting those with relevant industry experience in obtaining State teacher licensure or credential requirements;
 
 &emsp;(6) supporting eligible recipients in eliminating inequities in student access to—
 

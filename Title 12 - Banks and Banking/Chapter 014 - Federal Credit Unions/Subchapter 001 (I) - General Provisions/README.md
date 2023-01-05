@@ -38,6 +38,8 @@
 - [&sect; 01772c - Trust fund](%C2%A7%2001772c%20-%20Trust%20fund.md)
 - [&sect; 01772c&#8211;1 - Community development revolving loan fund for credit unions](%C2%A7%2001772c%E2%80%931%20-%20Community%20development%20revolving%20loan%20fund%20for%20credit%20unions.md)
 - [&sect; 01772d - Forfeiture of organization certificate for money laundering or cash transaction reporting offenses](%C2%A7%2001772d%20-%20Forfeiture%20of%20organization%20certificate%20for%20money%20laundering%20or%20cash%20transaction%20reporting%20offenses.md)
+- [&sect; 01772e - Data standards](%C2%A7%2001772e%20-%20Data%20standards.md)
+- [&sect; 01772f - Open data publication](%C2%A7%2001772f%20-%20Open%20data%20publication.md)
 - [&sect; 01773 - District of Columbia credit unions; conversion to Federal status](%C2%A7%2001773%20-%20District%20of%20Columbia%20credit%20unions%3B%20conversion%20to%20Federal%20status.md)
 - [&sect; 01774 - Approval of certificate; assets and obligations of applicant credit union](%C2%A7%2001774%20-%20Approval%20of%20certificate%3B%20assets%20and%20obligations%20of%20applicant%20credit%20union.md)
 - [&sect; 01775 - Conditions upon conversion to Federal status](%C2%A7%2001775%20-%20Conditions%20upon%20conversion%20to%20Federal%20status.md)

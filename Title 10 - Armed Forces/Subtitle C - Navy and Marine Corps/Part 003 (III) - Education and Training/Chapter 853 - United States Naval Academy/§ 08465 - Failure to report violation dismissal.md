@@ -1,6 +1,6 @@
 ### §8465. Failure to report violation: dismissal
 
-(a) Each officer stationed at the Naval Academy, each midshipman officer, each midshipman petty officer, and each civilian member of the teaching staff of the Academy shall report promptly to the Superintendent of the Naval Academy any fact that tends to show the commission of hazing or any violation of an Academy regulation by a midshipman.
+(a) Each officer stationed at the Naval Academy, each midshipman officer, each midshipmanpetty officer, and each civilian member of the teaching staff of the Academy shall report promptly to the Superintendent of the Naval Academy any fact that tends to show the commission of hazing or any violation of an Academy regulation by a midshipman.
 
 (b) An officer of the naval service who fails to make a report required by subsection (a) shall be tried by court-martial and if convicted shall be dismissed from the naval service.
 
@@ -22,7 +22,7 @@ Historical and Revision Notes
 
 Apr. 9, 1906, ch. 1370, §5, 34 Stat. 105.
 
-In subsection (a) the words "each officer stationed at the Naval Academy, each midshipman officer, each midshipman petty officer, and each civilian member of the teaching staff of the Academy shall" are substituted for the words "it shall be the duty of every professor, assistant professor, academic officer, or any cadet officer or cadet petty officer, or instructor, as well as every other officer stationed at the UnitedStates Naval Academy to" to state the current applicability of the provision. The words "commission of hazing" are substituted for the words "violation \* \* \* of any of the provisions of this Act".
+In subsection (a) the words "each officer stationed at the Naval Academy, each midshipman officer, each midshipman petty officer, and each civilian member of the teaching staff of the Academy shall" are substituted for the words "it shall be the duty of every professor, assistant professor, academic officer, or any cadet officer or cadet petty officer, or instructor, as well as every other officer stationed at the United States Naval Academy to" to state the current applicability of the provision. The words "commission of hazing" are substituted for the words "violation \* \* \* of any of the provisions of this Act".
 
 In subsection (b) the words "for neglect of duty" are omitted inasmuch as the Uniform Code of Military Justice sets out the offenses for which persons subject to the Code may be tried.
 

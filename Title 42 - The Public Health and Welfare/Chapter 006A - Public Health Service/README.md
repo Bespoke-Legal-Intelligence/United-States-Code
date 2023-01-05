@@ -118,7 +118,9 @@
 | [242\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242%20-%20Studies%20and%20investigations%20on%20use%20and%20misuse%20of%20narcotic%20drugs%20and%20other%20drugs%3B%20annual%20report%20to%20Attorney%20General%3B%20cooperation%20with%20States.md) | Studies and investigations on use and misuse of narcotic drugs and other drugs; annual report to Attorney General; cooperation with States. |
 | [242a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93310%2C%20div.%20B%2C%20title%20XXXII%2C%20%C2%A73201%28b%29%281%29%2C%20Oct.%2017%2C%202000%2C%20114%20Stat.%201190.md) | Repealed. |
 | [242b.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242b%20-%20General%20authority%20respecting%20research%2C%20evaluations%2C%20and%20demonstrations%20in%20health%20statistics%2C%20health%20services%2C%20and%20health%20care%20technology.md) | General authority respecting research, evaluations, and demonstrations in health statistics, health services, and health care technology. |
-| 242c to 242j. | Repealed or Transferred. |
+| [242c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242c%20-%20Appointment%20and%20authority%20of%20the%20Director%20of%20the%20Centers%20for%20Disease%20Control%20and%20Prevention.md) | Appointment and authority of the Director of the Centers for Disease Control and Prevention. |
+| 242c–1. | Advisory committee to the Director. |
+| 242d to 242j. | Repealed or Transferred. |
 | [242k.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242k%20-%20National%20Center%20for%20Health%20Statistics.md) | National Center for Health Statistics. |
 | 242<i>l.</i> | International cooperation. |
 | [242m.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242m%20-%20General%20provisions%20respecting%20effectiveness%2C%20efficiency%2C%20and%20quality%20of%20health%20services.md) | General provisions respecting effectiveness, efficiency, and quality of health services. |
@@ -134,6 +136,11 @@
 | [242r.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242r%20-%20Improvement%20and%20publication%20of%20data%20on%20food-related%20allergic%20responses.md) | Improvement and publication of data on food-related allergic responses. |
 | [242s.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242s%20-%20Centers%20for%20Disease%20Control%20and%20Prevention%20Office%20of%20Women%27s%20Health.md) | Centers for Disease Control and Prevention Office of Women's Health. |
 | [242t.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242t%20-%20CDC%20surveillance%20and%20data%20collection%20for%20child%2C%20youth%2C%20and%20adult%20trauma.md) | CDC surveillance and data collection for child, youth, and adult trauma. |
+| [242u.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242u%20-%20Improving%20State%2C%20local%2C%20and%20Tribal%20information%20sharing.md) | Improving State, local, and Tribal information sharing. |
+| [242v.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20A%20-%20Research%20and%20Investigations/%C2%A7%2000242v%20-%20Foreign%20talent%20recruitment%20programs.md) | Foreign talent recruitment programs. |
+| 242v–1. | Securing identifiable, sensitive information and addressing other national security risks related to research. |
+| 242v–2. | Protecting America's biomedical research enterprise. |
+| 242v–3. | Report on progress to address undue foreign influence. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -170,7 +177,7 @@
 | 247b–11. | Effects of folic acid in prevention of birth defects. |
 | 247b–12. | Safe motherhood. |
 | 247b–13. | Prenatal and postnatal health. |
-| 247b–13a. | Screening and treatment for maternal depression. |
+| 247b–13a. | Screening and treatment for maternal mental health and substance use disorders. |
 | 247b–14. | Oral health promotion and disease prevention. |
 | 247b–14a. | Identification of interventions that reduce the burden and transmission of oral, dental, and craniofacial diseases in high risk populations; development of approaches for pediatric oral and craniofacial assessment. |
 | 247b–15. | Surveillance and education regarding infections associated with illicit drug use and other risk factors. |
@@ -182,12 +189,14 @@
 | 247b–21. | Mosquito-borne diseases; coordination grants to States; assessment and control grants to political subdivisions. |
 | 247b–22. | Microbicide research. |
 | 247b–23. | National strategy and regional centers of excellence in vector-borne diseases. |
+| 247b–24. | Addressing factors related to improving health outcomes. |
 | [247c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000247c%20-%20Sexually%20transmitted%20diseases%3B%20prevention%20and%20control%20projects%20and%20programs.md) | Sexually transmitted diseases; prevention and control projects and programs. |
 | 247c–1. | Infertility and sexually transmitted diseases. |
 | 247c–2. | Data collection regarding programs under subchapter XXIV. |
 | [247d.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000247d%20-%20Public%20health%20emergencies.md) | Public health emergencies. |
 | 247d–1. | Vaccine tracking and distribution. |
-| 247d–2, 247d–3. | Repealed. |
+| 247d–2. | Earlier development of diagnostic tests. |
+| 247d–3. | Repealed. |
 | 247d–3a. | Improving State and local public health security. |
 | 247d–3b. | Partnerships for State and regional hospital preparedness to improve surge capacity. |
 | 247d–3c. | Guidelines for regional health care emergency preparedness and response systems. |
@@ -202,7 +211,8 @@
 | 247d–6c. | Repealed. |
 | 247d–6d. | Targeted liability protections for pandemic and epidemic products and security countermeasures. |
 | 247d–6e. | Covered countermeasure process. |
-| 247d–7. | Demonstration program to enhance bioterrorism training, coordination, and readiness. |
+| 247d–6f. | Provision of medical countermeasures to Indian programs and facilities. |
+| 247d–7. | Repealed. |
 | 247d–7a. | Grants regarding training and education of certain health professionals. |
 | 247d–7b. | Emergency system for advance registration of volunteer health professional. |
 | 247d–7c. | Supplies and services in lieu of award funds. |
@@ -214,6 +224,7 @@
 | 247d–9. | Dental education for parents of newborns. |
 | 247d–10. | Pilot program for public health laboratories to detect fentanyl and other synthetic opioids. |
 | 247d–11. | State All Payer Claims Databases. |
+| 247d–12. | Coordination and collaboration regarding blood supply. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -251,9 +262,10 @@
 | [254c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20001%20%28i%29%20-%20Health%20Centers/%C2%A7%2000254c%20-%20Rural%20health%20care%20services%20outreach%2C%20rural%20health%20network%20development%2C%20and%20small%20health%20care%20provider%20quality%20improvement%20grant%20programs.md) | Rural health care services outreach, rural health network development, and small health care provider quality improvement grant programs. |
 | 254c–1. | Grants for health services for Pacific Islanders. |
 | 254c–1a. | Grants to nurse-managed health clinics. |
+| 254c–1b. | Rural obstetric network grants. |
 | 254c–2. | Special diabetes programs for type I diabetes. |
 | 254c–3. | Special diabetes programs for Indians. |
-| 254c–4. | Centers for strategies on facilitating utilization of preventive health services among various populations. |
+| 254c–4. | Repealed. |
 | 254c–5. | Epilepsy; seizure disorder. |
 | 254c–6. | Certain services for pregnant women. |
 | 254c–7. | Special needs adoption programs; public awareness campaign and other activities. |
@@ -270,6 +282,8 @@
 | 254c–18. | Telemedicine; incentive grants regarding coordination among States. |
 | 254c–19. | Pediatric mental health care access grants. |
 | 254c–20. | Expanding capacity for health outcomes. |
+| 254c–21. | Innovation for maternal health. |
+| 254c–22. | Integrated services for pregnant and postpartum women. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -584,6 +598,9 @@
 | 280g–2. | Childhood malignancies. |
 | 280g–3. | Prescription drug monitoring program. |
 | 280g–4. | Grants to strengthen the healthcare system's response to domestic violence, dating violence, sexual assault, and stalking. |
+| 280g–4a. | Understanding sexual assault care in health systems. |
+| 280g–4b. | Expanding access to unified care. |
+| 280g–4c. | Expanding access to forensics for victims of interpersonal violence. |
 | 280g–5. | Public and health care provider education and support services. |
 | 280g–6. | Chronic kidney disease initiatives. |
 | 280g–7. | Amyotrophic lateral sclerosis registry. |
@@ -592,13 +609,14 @@
 | 280g–8. | Support for patients receiving a positive diagnosis of Down syndrome or other prenatally or postnatally diagnosed conditions. |
 | 280g–9. | Programs to improve quality of life for persons with paralysis and other physical disabilities. |
 | 280g–10. | Community Preventive Services Task Force. |
-| 280g–11. | Grants to promote positive health behaviors and outcomes. |
+| 280g–11. | Awards to support community health workers and community health. |
 | 280g–12. | Primary Care Extension Program. |
 | 280g–13. | National congenital heart disease research, surveillance, and awareness. |
 | 280g–14. | National diabetes prevention program. |
 | 280g–15. | State demonstration programs to evaluate alternatives to current medical tort litigation. |
 | 280g–16. | Food Safety Integrated Centers of Excellence. |
 | 280g–17. | Designation and investigation of potential cancer clusters. |
+| 280g–18. | Maternal mental health hotline. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -690,6 +708,7 @@
 | 283a–1. | Annual reporting to prevent fraud and abuse. |
 | 283a–2. | Annual reporting regarding training of graduate students for doctoral degrees. |
 | 283a–3. | Establishment of program regarding DES. |
+| 283a–4. | Notification to Director of personnel removed or disciplined for harassment, bullying, retaliation, or hostile working conditions. |
 | [283b.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283b%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93525%2C%20title%20I%2C%20%C2%A7101%28b%29%282%29%2C%20Nov.%2022%2C%202000%2C%20114%20Stat.%202501.md) | Repealed. |
 | [283c.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283c%20-%20Office%20of%20Behavioral%20and%20Social%20Sciences%20Research.md) | Office of Behavioral and Social Sciences Research. |
 | [283d.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283d%20-%20Children%27s%20Vaccine%20Initiative.md) | Children's Vaccine Initiative. |
@@ -705,6 +724,7 @@
 | [283o.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283o%20-%20Next%20generation%20of%20researchers.md) | Next generation of researchers. |
 | [283p.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283p%20-%20Population%20focused%20research.md) | Population focused research. |
 | [283q.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283q%20-%20Eureka%20prize%20competitions.md) | Eureka prize competitions. |
+| [283r.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283r%20-%20National%20Science%20Advisory%20Board%20for%20Biosecurity.md) | National Science Advisory Board for Biosecurity. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -779,6 +799,7 @@
 | 285b–7b. | Coordination of Federal asthma activities. |
 | 285b–7c. | Tuberculosis. |
 | 285b–8. | Congenital heart disease. |
+| 285b–9. | HHS valvular heart disease activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -845,6 +866,7 @@
 | 285f–2. | Research and research training regarding tuberculosis. |
 | 285f–3. | Sexually transmitted disease clinical research and training awards. |
 | 285f–4. | Microbicide research and development. |
+| 285f–5. | Research centers for pathogens of pandemic concern. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -863,6 +885,7 @@
 | 285g–8. | Prospective longitudinal study on adolescent health. |
 | 285g–9. | Fragile X. |
 | 285g–10. | Investment in tomorrow's pediatric researchers. |
+| 285g–11. | Research on the health and development effects of media and related technology on infants, children, and adolescents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1161,6 +1184,14 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part J—Advanced Research Projects Agency–Health
+
+|  |  |
+| :--- | ---: |
+| [290c.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20J%20-%20Advanced%20Research%20Projects%20Agency%E2%80%93Health/%C2%A7%2000290c%20-%20Advanced%20Research%20Projects%20Agency%E2%80%93Health.md) | Advanced Research Projects Agency–Health. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER III–A—SUBSTANCE ABUSE AND MENTAL HEALTH SERVICES ADMINISTRATION
 
 #### Part A—Organization and General Authorities
@@ -1169,6 +1200,8 @@
 | :--- | ---: |
 | [290aa.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20A%20-%20Organization%20and%20General%20Authorities/%C2%A7%2000290aa%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration.md) | Substance Abuse and Mental Health Services Administration. |
 | 290aa–0. | National Mental Health and Substance Use Policy Laboratory. |
+| 290aa–0a. | Behavioral health crisis coordinating office. |
+| 290aa–0b. | Interdepartmental Serious Mental Illness Coordinating Committee. |
 | 290aa–1. | Advisory councils. |
 | 290aa–2. | Omitted. |
 | 290aa–2a. | Report on individuals with co-occurring mental illness and substance abuse disorders. |
@@ -1176,10 +1209,12 @@
 | 290aa–3a. | Transferred. |
 | 290aa–4. | Center for behavioral health statistics and quality. |
 | 290aa–5. | Grants for the benefit of homeless individuals. |
-| 290aa–5a. | Alcohol and drug prevention or treatment services for Indians and Native Alaskans. |
+| 290aa–5a. | Behavioral health and substance use disorder resources for Native Americans. |
 | 290aa–5b to 290aa–14. Transferred or Repealed. |  |
 | 290aa–15. | Department of Health and Human Services grant accountability. |
 | 290aa–16. | Evaluation of performance of Department of Health and Human Services programs. |
+| 290aa–17. | Assisted outpatient treatment grant program for individuals with serious mental illness. |
+| 290aa–18. | Limitations on authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1192,7 +1227,7 @@
 | [290bb.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20B%20-%20Centers%20and%20Programs/Subpart%20001%20-%20Center%20for%20Substance%20Abuse%20Treatment/%C2%A7%2000290bb%20-%20Center%20for%20Substance%20Abuse%20Treatment.md) | Center for Substance Abuse Treatment. |
 | 290bb–1. | Residential treatment programs for pregnant and postpartum women. |
 | 290bb–1a. | Transferred. |
-| 290bb–2. | Priority substance abuse treatment needs of regional and national significance. |
+| 290bb–2. | Priority substance use disorder treatment needs of regional and national significance. |
 | 290bb–2a. | Medical treatment of narcotics addiction; report to Congress. |
 | 290bb–3 to 290bb–5. Repealed. |  |
 | 290bb–6. | Action by Center for Substance Abuse Treatment and States concerning military facilities. |
@@ -1228,22 +1263,24 @@
 | :--- | ---: |
 | 290bb–31. | Center for Mental Health Services. |
 | 290bb–32. | Priority mental health needs of regional and national significance. |
-| 290bb–33. | Repealed. |
+| 290bb–33. | Student suicide awareness and prevention training. |
 | 290bb–34. | Suicide prevention technical assistance center. |
 | 290bb–35. | Repealed. |
 | 290bb–36. | Youth suicide early intervention and prevention strategies. |
 | 290bb–36a. | Suicide prevention for youth. |
-| 290bb–36b. | Mental health and substance use disorder services on campus. |
+| 290bb–36b. | Mental health and substance use disorder services for students in higher education. |
 | 290bb–36c. | National Suicide Prevention Lifeline program. |
 | 290bb–36d. | Treatment Referral Routing Service. |
-| 290bb–37. | Strengthening community crisis response systems. |
+| 290bb–37. | Mental health crisis response partnership pilot program. |
 | 290bb–38. | Grants for jail diversion programs. |
-| 290bb–39. | Repealed. |
+| 290bb–39. | Peer-supported mental health services. |
+| 290bb–39a. | Best practices for behavioral and mental health intervention teams. |
 | 290bb–40. | Grants for the integrated treatment of serious mental illness and co-occurring substance abuse. |
 | 290bb–41. | Mental health awareness training grants. |
-| 290bb–42. | Integration incentive grants and cooperative agreements. |
+| 290bb–42. | Improving uptake and patient access to integrated care services. |
 | 290bb–43. | Adult suicide prevention. |
 | 290bb–44. | Assertive community treatment grant program. |
+| 290bb–45. | Center of Excellence for Eating Disorders for education and training on eating disorders. |
 | 290cc to 290cc–13. Repealed or Transferred. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1280,18 +1317,20 @@
 | 290dd–2a. | Promoting access to information on evidence-based programs and practices. |
 | 290dd–3. | Grants for reducing overdose deaths. |
 | 290dd–4. | Program to support coordination and continuation of care for drug overdose patients. |
-| [290ee.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20D%20-%20Miscellaneous%20Provisions%20Relating%20to%20Substance%20Abuse%20and%20Mental%20Health/%C2%A7%2000290ee%20-%20Opioid%20overdose%20reversal%20medication%20access%20and%20education%20grant%20programs.md) | Opioid overdose reversal medication access and education grant programs. |
+| [290ee.](Subchapter%20003%E2%80%93A%20%28III%E2%80%93A%29%20-%20Substance%20Abuse%20and%20Mental%20Health%20Services%20Administration/Part%20D%20-%20Miscellaneous%20Provisions%20Relating%20to%20Substance%20Abuse%20and%20Mental%20Health/%C2%A7%2000290ee%20-%20Opioid%20overdose%20reversal%20medication%20access%2C%20education%2C%20and%20co-prescribing%20grant%20programs.md) | Opioid overdose reversal medication access, education, and co-prescribing grant programs. |
 | 290ee–1. | First responder training. |
 | 290ee–2. | Building communities of recovery. |
 | 290ee–2a. | Peer support technical assistance center. |
 | 290ee–3. | State demonstration grants for comprehensive opioid abuse response. |
-| 290ee–4. | Mental and behavioral health outreach and education on college campuses. |
+| 290ee–3a. | Grant program for State and Tribal response to opioid use disorders. |
+| 290ee–4. | Mental and behavioral health outreach and education at institutions of higher education. |
 | 290ee–5. | National recovery housing best practices. |
+| 290ee–5a. | Sobriety treatment and recovery teams. |
 | 290ee–6. | Regional Centers of Excellence in Substance Use Disorder Education. |
 | 290ee–7. | Comprehensive opioid recovery centers. |
 | 290ee–8. | Career Act. |
 | 290ee–9. | Services for families and patients in crisis. |
-| 290ee–10. | Sobriety treatment and recovery teams. |
+| 290ee–10. | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1513,7 +1552,7 @@
 | :--- | ---: |
 | [294\.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294%20-%20General%20provisions.md) | General provisions. |
 | [294a.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294a%20-%20Area%20health%20education%20centers.md) | Area health education centers. |
-| [294b.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294b%20-%20Continuing%20educational%20support%20for%20health%20professionals%20serving%20in%20underserved%20communities.md) | Continuing educational support for health professionals serving in underserved communities. |
+| [294b.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294b%20-%20Continuing%20educational%20support%20for%20health%20professionals%20serving%20in%20rural%20and%20underserved%20communities.md) | Continuing educational support for health professionals serving in rural and underserved communities. |
 | [294c.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294c%20-%20Education%20and%20training%20relating%20to%20geriatrics.md) | Education and training relating to geriatrics. |
 | [294d.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294d%20-%20Quentin%20N.%20Burdick%20program%20for%20rural%20interdisciplinary%20training.md) | Quentin N. Burdick program for rural interdisciplinary training. |
 | [294e.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294e%20-%20Allied%20health%20and%20other%20disciplines.md) | Allied health and other disciplines. |
@@ -1521,6 +1560,7 @@
 | [294f.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294f%20-%20Advisory%20Committee%20on%20Interdisciplinary%2C%20Community-Based%20Linkages.md) | Advisory Committee on Interdisciplinary, Community-Based Linkages. |
 | 294g, 294h. | Repealed. |
 | [294i.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294i%20-%20Program%20for%20education%20and%20training%20in%20pain%20care.md) | Program for education and training in pain care. |
+| 294i–1. | Emergency department alternatives to opioids program. |
 | [294j.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294j%20-%20Demonstration%20program%20to%20integrate%20quality%20improvement%20and%20patient%20safety%20training%20into%20clinical%20education%20of%20health%20professionals.md) | Demonstration program to integrate quality improvement and patient safety training into clinical education of health professionals. |
 | [294k.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20D%20-%20Interdisciplinary%2C%20Community-Based%20Linkages/%C2%A7%2000294k%20-%20Training%20demonstration%20program.md) | Training demonstration program. |
 
@@ -1534,9 +1574,11 @@
 | :--- | ---: |
 | [294n.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294n%20-%20Health%20professions%20workforce%20information%20and%20analysis.md) | Health professions workforce information and analysis. |
 | [294o.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294o%20-%20Advisory%20Council%20on%20Graduate%20Medical%20Education.md) | Advisory Council on Graduate Medical Education. |
-| [294p.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294p%20-%20Pediatric%20rheumatology.md) | Pediatric rheumatology. |
+| [294p.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294p%20-%20Training%20for%20health%20care%20providers.md) | Training for health care providers. |
 | [294q.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294q%20-%20National%20Health%20Care%20Workforce%20Commission.md) | National Health Care Workforce Commission. |
 | [294r.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294r%20-%20State%20health%20care%20workforce%20development%20grants.md) | State health care workforce development grants. |
+| [294s.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294s%20-%20Rural%20maternal%20and%20obstetric%20care%20training%20demonstration.md) | Rural maternal and obstetric care training demonstration. |
+| [294t.](Subchapter%20005%20%28V%29%20-%20Health%20Professions%20Education/Part%20E%20-%20Health%20Professions%20and%20Public%20Health%20Workforce/Subpart%20001%20-%20Health%20Professions%20Workforce%20Information%20and%20Analysis/%C2%A7%2000294t%20-%20Programs%20to%20promote%20mental%20health%20among%20the%20health%20professional%20workforce.md) | Programs to promote mental health among the health professional workforce. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1856,10 +1898,10 @@
 | :--- | ---: |
 | [300d.](Subchapter%20010%20%28X%29%20-%20Trauma%20Care/Part%20A%20-%20General%20Authority%20and%20Duties%20of%20Secretary/%C2%A7%2000300d%20-%20Establishment.md) | Establishment. |
 | 300d–1, 300d–2. | Repealed. |
-| 300d–3. | Establishment of programs for improving trauma care in rural areas. |
+| 300d–3. | Grants to improve trauma care in rural areas. |
 | 300d–4. | Emergency medical services. |
 | 300d–5. | Competitive grants for trauma systems for the improvement of trauma care. |
-| 300d–6. | Competitive grants for regionalized systems for emergency care response. |
+| 300d–6. | Competitive grants for trauma centers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2221,13 +2263,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—Block Grants Regarding Mental Health and Substance Abuse
+#### Part B—Block Grants Regarding Mental Health and Substance Use
 
 #### subpart i—block grants for community mental health services
 
 |  |  |
 | :--- | ---: |
-| [300x.](Subchapter%20017%20%28XVII%29%20-%20Block%20Grants/Part%20B%20-%20Block%20Grants%20Regarding%20Mental%20Health%20and%20Substance%20Abuse/Subpart%20001%20%28i%29%20-%20Block%20Grants%20for%20Community%20Mental%20Health%20Services/%C2%A7%2000300x%20-%20Formula%20grants%20to%20States.md) | Formula grants to States. |
+| [300x.](Subchapter%20017%20%28XVII%29%20-%20Block%20Grants/Part%20B%20-%20Block%20Grants%20Regarding%20Mental%20Health%20and%20Substance%20Use/Subpart%20001%20%28i%29%20-%20Block%20Grants%20for%20Community%20Mental%20Health%20Services/%C2%A7%2000300x%20-%20Formula%20grants%20to%20States.md) | Formula grants to States. |
 | 300x–1. | State plan for comprehensive community mental health services for certain individuals. |
 | 300x–2. | Certain agreements. |
 | 300x–3. | State mental health planning council. |
@@ -2240,13 +2282,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart ii—block grants for prevention and treatment of substance abuse
+#### subpart ii—block grants for substance use prevention, treatment, and recovery services
 
 |  |  |
 | :--- | ---: |
 | 300x–21. | Formula grants to States. |
 | 300x–22. | Certain allocations. |
-| 300x–23. | Intravenous substance abuse. |
+| 300x–23. | Intravenous substance use. |
 | 300x–24. | Requirements regarding tuberculosis and human immunodeficiency virus. |
 | 300x–25. | Group homes for persons in recovery from substance use disorders. |
 | 300x–26. | Sale of tobacco products to individuals under age of 21. |
@@ -2288,13 +2330,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part C—Certain Programs Regarding Mental Health and Substance Abuse
+#### Part C—Certain Programs Regarding Mental Health and Substance Use
 
 #### subpart i—data infrastructure development
 
 |  |  |
 | :--- | ---: |
-| [300y.](Subchapter%20017%20%28XVII%29%20-%20Block%20Grants/Part%20C%20-%20Certain%20Programs%20Regarding%20Mental%20Health%20and%20Substance%20Abuse/Subpart%20001%20%28i%29%20-%20Data%20Infrastructure%20Development/%C2%A7%2000300y%20-%20Data%20infrastructure%20development.md) | Data infrastructure development. |
+| [300y.](Subchapter%20017%20%28XVII%29%20-%20Block%20Grants/Part%20C%20-%20Certain%20Programs%20Regarding%20Mental%20Health%20and%20Substance%20Use/Subpart%20001%20%28i%29%20-%20Data%20Infrastructure%20Development/%C2%A7%2000300y%20-%20Data%20infrastructure%20development.md) | Data infrastructure development. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2886,6 +2928,7 @@
 | [300hh.](Subchapter%20026%20%28XXVI%29%20-%20National%20All-Hazards%20Preparedness%20for%20Public%20Health%20Emergencies/Part%20A%20-%20National%20All-Hazards%20Preparedness%20and%20Response%20Planning%2C%20Coordinating%2C%20and%20Reporting/%C2%A7%2000300hh%20-%20Public%20health%20and%20medical%20preparedness%20and%20response%20functions.md) | Public health and medical preparedness and response functions. |
 | 300hh–1. | National Health Security Strategy. |
 | 300hh–2. | Enhancing medical surge capacity. |
+| 300hh–3. | Office of Pandemic Preparedness and Response Policy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2916,6 +2959,10 @@
 | 300hh–31. | Epidemiology-laboratory capacity grants. |
 | 300hh–32. | Enhanced support to assist health departments in addressing vector-borne diseases. |
 | 300hh–33. | Public health data system modernization. |
+| 300hh–34. | Genomic sequencing, analytics, and public health surveillance of pathogens program. |
+| 300hh–35. | Epidemic forecasting and outbreak analytics. |
+| 300hh–36. | Leadership exchange pilot for public health and medical preparedness and response positions at the Department of Health and Human Services. |
+| 300hh–37. | One Health framework. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3056,6 +3103,7 @@
 |  |  |
 | :--- | ---: |
 | 300mm–61. | World Trade Center Health Program Fund. |
+| 300mm–62. | Supplemental Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

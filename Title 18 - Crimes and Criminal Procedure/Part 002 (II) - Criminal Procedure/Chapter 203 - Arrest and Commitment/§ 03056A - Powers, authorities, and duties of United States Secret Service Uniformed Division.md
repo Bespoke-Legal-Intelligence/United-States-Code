@@ -14,7 +14,7 @@
 
 &emsp;(6) The temporary official residence of the Vice President and grounds in the District of Columbia.
 
-&emsp;(7) Foreign diplomatic missions located in metropolitan areas (other than the District ofColumbia) in the United States where there are located twenty or more such missions headed by full-time officers, except that such protection shall be provided only—
+&emsp;(7) Foreign diplomatic missions located in metropolitan areas (other than the District of Columbia) in the United States where there are located twenty or more such missions headed by full-time officers, except that such protection shall be provided only—
 
 &emsp;&emsp;(A) on the basis of extraordinary protective need;
 
@@ -76,7 +76,7 @@ Pub. L. 109–177, title VI, §606, Mar. 9, 2006, 120 Stat. 256, provided that:
 
 "(a) This title \[see Tables for classification\] does not affect the retirement benefits of current employees or annuitants that existed on the day before the effective date of this Act \[probably means Mar. 9, 2006, the date of enactment of Pub. L. 109–177\].
 
-"(b) This title does not affect any Executive order transferring to the Secretary of State the authority of section 208 of title 3 (now section 3056A(d) of title 18) in effect on the day before the effective date of this Act."
+"(b) This title does not affect any Executive order transferring to the Secretary of State the authority ofsection 208 of title 3 (now section 3056A(d) of title 18) in effect on the day before the effective date of this Act."
 
 #### Conversion to New Salary Schedule
 
@@ -150,7 +150,7 @@ Limitation on Pay Period Earnings.—\[Amended act Aug. 15, 1950, ch. 715, 64 St
 
 "(d)
 
-Savings Provision.—On the effective date of this section, any existing special salary rates authorized for members of the United States Secret Service Uniformed Division under section 5305 of title 5, United States Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[Pub. L. 101–509, §529 \[title IV, §§403–405\], 5 U.S.C. 5305 note\] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
+Savings Provision.—On the effective date of this section, any existing special salary rates authorized for members of the United States Secret Service Uniformed Division under section 5305 of title 5, UnitedStates Code (or any previous similar provision of law) and any special rates of pay or special pay adjustments under section 403, 404, or 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[Pub. L. 101–509, §529 \[title IV, §§403–405\], 5 U.S.C. 5305 note\] applicable to members of the United States Secret Service Uniformed Division shall be rendered inapplicable.
 
 "(e)
 

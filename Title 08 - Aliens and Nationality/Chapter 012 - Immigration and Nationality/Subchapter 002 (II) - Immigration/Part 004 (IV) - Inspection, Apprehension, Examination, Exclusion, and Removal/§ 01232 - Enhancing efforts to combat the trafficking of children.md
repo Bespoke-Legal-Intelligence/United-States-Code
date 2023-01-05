@@ -22,7 +22,7 @@
 
 &emsp;&emsp;An immigration officer who finds an unaccompanied alien child described in subparagraph (A) at a land border or port of entry of the United States and determines that such child is inadmissible under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.) may—
 
-&emsp;&emsp;&emsp;(i) permit such child to withdraw the child's application for admission pursuant to section 235(a)(4) of the Immigration and Nationality Act (8 U.S.C. 1225(a)(4)); and
+&emsp;&emsp;&emsp;(i) permit such child to withdraw the child's application for admission pursuantto section 235(a)(4) of the Immigration and Nationality Act (8 U.S.C. 1225(a)(4)); and
 
 &emsp;&emsp;&emsp;(ii) return such child to the child's country of nationality or country of last habitual residence.
 
@@ -88,7 +88,7 @@
 
 #### (2) Notification
 
-&emsp;Each department or agency of the Federal Government shall notify the Department of Health and Human services <sup>1</sup> within 48 hours upon—
+&emsp;Each department or agency of the Federal Government shall notify the Department ofHealth and Human services <sup>1</sup> within 48 hours upon—
 
 &emsp;&emsp;(A) the apprehension or discovery of an unaccompanied alien child; or
 
@@ -126,7 +126,7 @@
 
 #### (B) Home studies
 
-&emsp;&emsp;Before placing the child with an individual, the Secretary of Health and HumanServices shall determine whether a home study is first necessary. A home study shall be conducted for a child who is a victim of a severe form of trafficking in persons, a special needs child with a disability (as defined in section 12102 of title 42), a child who has been a victim of physical or sexual abuse under circumstances that indicate that the child's health or welfare has been significantly harmed or threatened, or a child whose proposed sponsor clearly presents a risk of abuse, maltreatment, exploitation, or trafficking to the child based on all available objective evidence. The Secretary of Health and Human Services shall conduct follow-up services, during the pendency of removal proceedings, on children for whom a home study was conducted and is authorized to conduct follow-up services in cases involving children with mental health or other needs who could benefit from ongoing assistance from a social welfare agency.
+&emsp;&emsp;Before placing the child with an individual, the Secretary of Health and Human Services shall determine whether a home study is first necessary. A home study shall be conducted for a child who is a victim of a severe form of trafficking in persons, a special needs child with a disability (as defined in section 12102 of title 42), a child who has been a victim of physical or sexual abuse under circumstances that indicate that the child's health or welfare has been significantly harmed or threatened, or a child whose proposed sponsor clearly presents a risk of abuse, maltreatment, exploitation, or trafficking to the child based on all available objective evidence. The Secretary of Health and Human Services shall conduct follow-up services, during the pendency of removal proceedings, on children for whom a home study was conducted and is authorized to conduct follow-up services in cases involving children with mental health or other needs who could benefit from ongoing assistance from a social welfare agency.
 
 #### (C) Access to information
 
@@ -180,7 +180,7 @@
 
 #### (D) Annual report to Congress
 
-&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary of Health and Human Services shall submit a report describing the activities undertakenby the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary of Health and Human Services shall submit a report describing the activities undertaken by the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
 
 #### (E) Assessment of Child Advocate Program
 

@@ -18,7 +18,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (1) Requirement of consistency with approved mitigation plan
 
-&emsp;Amounts provided under this section may be used only for mitigation activities that are consistent with mitigation plans that are approved by the Administrator and identified under paragraph (4). The Administrator shall provide assistance under this section to theextent amounts are available in the National Flood Mitigation Fund pursuant to appropriation Acts, subject only to the absence of approvable mitigation plans.
+&emsp;Amounts provided under this section may be used only for mitigation activities that are consistent with mitigation plans that are approved by the Administrator and identified under paragraph (4). The Administrator shall provide assistance under this section to the extent amounts are available in the National Flood Mitigation Fund pursuant to appropriation Acts, subject only to the absence of approvable mitigation plans.
 
 #### (2) Requirements of technical feasibility, cost effectiveness, and interest of National Flood Insurance Fund
 

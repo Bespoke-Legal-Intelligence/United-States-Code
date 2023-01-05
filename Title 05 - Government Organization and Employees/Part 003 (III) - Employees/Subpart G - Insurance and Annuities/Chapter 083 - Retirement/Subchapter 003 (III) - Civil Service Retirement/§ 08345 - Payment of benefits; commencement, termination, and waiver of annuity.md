@@ -26,7 +26,7 @@
 
 (e)(1) Payment due a minor, or an individual mentally incompetent or under other legal disability, may be made to the person (including an organization) who is constituted guardian or other fiduciary by the law of the State of residence of the claimant or is otherwise legally vested with the care of the claimant or his estate. If a guardian or other fiduciary of the individual under legal disability has not been appointed under the law of the State of residence of the claimant, payment may be made to any person (including an organization) who, in the judgment of the Office, is responsible for the care of the claimant and may appropriately receive such payments on behalf of the claimant, and the payment bars recovery by any other person.
 
-(2) If the Office determines that direct payment of a benefit to an individual mentally incompetent or under other legal disability wouldcause substantial harm to the individual, the Office may defer or suspend direct payment of the benefit until such time as the appointment of a representative payee is made. The Office shall resume payment as soon as practicable, including all amounts due.
+(2) If the Office determines that direct payment of a benefit to an individual mentally incompetent or under other legal disability would cause substantial harm to the individual, the Office may defer or suspend direct payment of the benefit until such time as the appointment of a representative payee is made. The Office shall resume payment as soon as practicable, including all amounts due.
 
 (f) The Office may not authorize a person to receive payments on behalf of a minor or individual of legal disability under subsection (e) if that person has been convicted of a violation of—
 
@@ -162,7 +162,7 @@ Subsec. (h). Pub. L. 94–183 added subsec. (h).
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–126 effective on Mar. 18, 2020, and applicable on and after the effective date of regulations promulgated under section 3(b)(1) of Pub. L. 116–126, see sections 4 and 3(b) of Pub. L. 116–126, set outrespectively as an Effective Date of 2020 Amendment note and a Regulations note under section 8331 of this title.
+Amendment by Pub. L. 116–126 effective on Mar. 18, 2020, and applicable on and after the effective date of regulations promulgated under section 3(b)(1) of Pub. L. 116–126, see sections 4 and 3(b) of Pub. L. 116–126, set out respectively as an Effective Date of 2020 Amendment note and a Regulations note under section 8331 of this title.
 
 #### Effective Date of 1994 Amendment
 

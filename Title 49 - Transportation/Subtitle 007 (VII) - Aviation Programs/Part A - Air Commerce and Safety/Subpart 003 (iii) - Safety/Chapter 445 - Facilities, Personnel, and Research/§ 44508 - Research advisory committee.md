@@ -4,7 +4,7 @@
 
 Establishment and Duties.—(1) There is a research advisory committee in the Federal Aviation Administration. The committee shall—
 
-&emsp;(A) provide advice and recommendations to the Administrator of the Federal Aviation Administration and Congress about needs, objectives, plans, approaches, content, and accomplishments of all aviation research and development activities and programs carried out, including those under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44511–44513, and 44912 of this title;
+&emsp;(A) provide advice and recommendations to the Administrator of the Federal Aviation Administration and Congress about needs, objectives, plans, approaches, content, and accomplishments of all aviation research and development activities and programs carried out,including those under sections 40119,<sup>1</sup> 44504, 44505, 44507, 44511–44513, and 44912 of this title;
 
 &emsp;(B) assist in ensuring that the research is coordinated with similar research being conducted outside the Administration;
 
@@ -28,7 +28,7 @@ Support Staff, Information, and Services.—The Administrator shall provide supp
 
 (d)
 
-Nonapplication.—Section 14 of the Federal Advisory Committee Act (5 App. U.S.C.) does not apply to the committee.
+Nonapplication.—Section 1013 of title 5 does not apply to the committee.
 
 (e)
 
@@ -64,7 +64,7 @@ Transparency.—The written reply to the research advisory committee, when trans
 
 National aviation research plan.—The national aviation research plan required under section 44501(c) shall include a summary of all research advisory committee recommendations and a description of the status of their implementation.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1180; Pub. L. 104–264, title XI, §1104, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 115–254, div. B, title VII, §712, Oct. 5, 2018, 132 Stat. 3410.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1180; Pub. L. 104–264, title XI, §1104, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 115–254, div. B, title VII, §712, Oct. 5, 2018, 132 Stat. 3410; Pub. L. 117–286, §4(a)(313), Dec. 27, 2022, 136 Stat. 4340.)
 
 Historical and Revision Notes
 
@@ -118,9 +118,9 @@ In subsection (e), the words "for fiscal years beginning after September 30, 198
 
 Section 40119 of this title, referred to in subsecs. (a)(1)(A), (2) and (e)(1), was repealed by Pub. L. 115–254, div. K, title I, §1991(c)(3), Oct. 5, 2018, 132 Stat. 3627.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–286 substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act (5 App. U.S.C.)".
 
 <b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–254, §712(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "provide advice and recommendations to the Administrator of the Federal Aviation Administration about needs, objectives, plans, approaches, content, and accomplishments of the aviation research program carried out under sections 40119, 44504, 44505, 44507, 44511–44513, and 44912 of this title;".
 

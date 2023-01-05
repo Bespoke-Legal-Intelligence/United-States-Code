@@ -36,7 +36,7 @@ The Advisory Committee shall select a chairperson from among its members.
 
 #### (f) Coordination
 
-The Advisory Committee shall coordinate with other Federal advisory committees that advise Federal agencies that engage in related research activities.
+The Advisory Committee shall coordinate with other Federal advisory committees thatadvise Federal agencies that engage in related research activities.
 
 #### (g) Compensation
 
@@ -52,21 +52,19 @@ A majority of the members serving on the Advisory Committee shall constitute a q
 
 #### (j) Duration
 
-Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Committee.
+Section 1013 of title 5 shall not apply to the Advisory Committee.
 
-(Pub. L. 107–368, §23, Dec. 19, 2002, 116 Stat. 3065; Pub. L. 108–423, §5(a), Nov. 30, 2004, 118 Stat. 2402.)
+(Pub. L. 107–368, §23, Dec. 19, 2002, 116 Stat. 3065; Pub. L. 108–423, §5(a), Nov. 30, 2004, 118 Stat. 2402; Pub. L. 117–286, §4(a)(258), Dec. 27, 2022, 136 Stat. 4334.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (j), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (j). Pub. L. 117–286 substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act".
 
 <b>2004</b>—Subsecs. (a), (b)(1), (2). Pub. L. 108–423, §5(a)(1), substituted ", the National Aeronautics and Space Administration, and the Department of Energy" for "and the National Aeronautics and Space Administration".
 

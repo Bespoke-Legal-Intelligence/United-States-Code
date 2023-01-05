@@ -14,7 +14,7 @@ Application to Certain Faculty Members.—(1) Except as provided in paragraph (2
 
 (2) This section shall not apply with respect to professors, instructors, and lecturers employed at a school of the Air University if the duration of the principal course of instruction offered at that school is less than 10 months.
 
-(Added Pub. L. 101–189, div. A, title XI, §1124(d)(1), Nov. 29, 1989, 103 Stat. 1559, §9021; amended Pub. L. 103–337, div. A, title X,§1070(a)(17), Oct. 5, 1994, 108 Stat. 2856; renumbered §9371, Pub. L. 115–232, div. A, title VIII, §806(b)(16), Aug. 13, 2018, 132 Stat. 1833.)
+(Added Pub. L. 101–189, div. A, title XI, §1124(d)(1), Nov. 29, 1989, 103 Stat. 1559, §9021; amended Pub. L. 103–337, div. A, title X, §1070(a)(17), Oct. 5, 1994, 108 Stat. 2856; renumbered §9371, Pub. L. 115–232, div. A, title VIII, §806(b)(16), Aug. 13, 2018, 132 Stat. 1833.)
 
 #### <b>Editorial Notes</b>
 

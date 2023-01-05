@@ -26,7 +26,7 @@ Each department, agency, and instrumentality of the executive, legislative, and 
 
 #### (3) Procedure
 
-&emsp;Before an administrative penalty order issued under this subsection becomes final, the Administrator shall provide the agency an opportunity to confer with the Administratorand shall provide the agency notice and an opportunity for a hearing on the record in accordance with chapters 5 and 7 of title 5.
+&emsp;Before an administrative penalty order issued under this subsection becomes final, the Administrator shall provide the agency an opportunity to confer with the Administrator and shall provide the agency notice and an opportunity for a hearing on the record in accordance with chapters 5 and 7 of title 5.
 
 #### (4) Public review
 

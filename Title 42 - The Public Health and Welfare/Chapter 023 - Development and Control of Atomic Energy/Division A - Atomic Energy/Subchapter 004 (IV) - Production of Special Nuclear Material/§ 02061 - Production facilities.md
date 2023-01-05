@@ -30,7 +30,7 @@ Provisions similar to those comprising this section were contained in section 4 
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–575 substituted "under this chapter" for "section 2133 or 2134 of this title".
 
-<b>1967</b>—Subsec. (b). Pub. L. 90–190 struck out provision requiring the President to determine in writing at leastonce each year the quantities of special nuclear material to be produced under this section, and to specify in such determination the quantities of special nuclear material to be available for distribution by the Commission pursuant to sections 2073 and 2074 of this title.
+<b>1967</b>—Subsec. (b). Pub. L. 90–190 struck out provision requiring the President to determine in writing at least once each year the quantities of special nuclear material to be produced under this section, and to specify in such determination the quantities of special nuclear material to be available for distribution by the Commission pursuant to sections 2073 and 2074 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

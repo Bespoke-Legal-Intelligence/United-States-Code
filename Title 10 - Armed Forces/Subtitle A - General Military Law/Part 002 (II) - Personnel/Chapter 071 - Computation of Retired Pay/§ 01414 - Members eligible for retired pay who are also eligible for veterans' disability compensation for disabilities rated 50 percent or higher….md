@@ -218,5 +218,5 @@ Pub. L. 108–136, div. A, title VI, §641(e), Nov. 24, 2003, 117 Stat. 1516, pr
 
 #### Prohibition of Retroactive Benefits
 
-Pub. L. 107–107, div. A, title VI, §641(d), Dec. 28, 2001, 115 Stat. 1150, provided that: "If the provisions of subsection (a) of section 1414 of title 10, United StatesCode, becomes \[sic\] effective in accordance with subsection (f) of that section, no benefit may be paid to any person by reason of those provisions for any period before the effective date specified in subsection (e) of that section."
+Pub. L. 107–107, div. A, title VI, §641(d), Dec. 28, 2001, 115 Stat. 1150, provided that: "If the provisions of subsection (a) of section 1414 of title 10, United States Code, becomes \[sic\] effective in accordance with subsection (f) of that section, no benefit may be paid to any person by reason of those provisions for any period before the effective date specified in subsection (e) of that section."
 

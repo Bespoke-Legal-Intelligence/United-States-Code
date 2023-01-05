@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) would cause the level of total new budget authority or total outlays set forth for the first fiscal year in the applicable resolution to be exceeded; or
 
-&emsp;&emsp;(B) would cause revenues to be less than the level of total revenues set forth for that first fiscal year or for the total of that first fiscal year and the ensuing fiscal years in the applicable resolution for which allocations are provided under section 633(a) of this title.
+&emsp;&emsp;(B) would cause revenues to be less than the level of total revenues set forth for thatfirst fiscal year or for the total of that first fiscal year and the ensuing fiscal years in the applicable resolution for which allocations are provided under section 633(a) of this title.
 
 #### (3) Enforcement of social security levels in Senate
 
@@ -64,7 +64,7 @@ Section was formerly classified to section 1332 of Title 31 prior to the general
 
 <b>1997</b>—Pub. L. 105–33 amended section catchline and text generally. Prior to amendment, section provided that new budget authority, new spending authority, and revenue legislation had to be within appropriate levels.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13303(d), designated existing provisions as par. (1), redesignated formerpars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §13303(d), designated existing provisions as par. (1), redesignated former pars. (1) to (3) thereof as subpars. (A) to (C), respectively, and added par. (2).
 
 Pub. L. 101–508, §13207(a)(1)(E), substituted "bill, joint resolution, amendment, motion, or conference report" for "bill, resolution, or amendment" and struck out "or any conference report on any such bill or resolution" after "reducing revenues for such fiscal year,".
 

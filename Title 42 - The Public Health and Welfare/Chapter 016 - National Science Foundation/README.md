@@ -12,7 +12,7 @@
 | [1862f.](%C2%A7%2001862f%20-%20Research%20center%20consortia.md) | Research center consortia. |
 | [1862g.](%C2%A7%2001862g%20-%20Established%20Program%20to%20Stimulate%20Competitive%20Research.md) | Established Program to Stimulate Competitive Research. |
 | [1862h.](%C2%A7%2001862h%20-%20Congressional%20statement%20of%20findings%20and%20declaration%20of%20purposes%20respecting%20scientific%20and%20technical%20education%20and%20training.md) | Congressional statement of findings and declaration of purposes respecting scientific and technical education and training. |
-| [1862i.](%C2%A7%2001862i%20-%20Scientific%20and%20technical%20education.md) | Scientific and technical education. |
+| [1862i.](%C2%A7%2001862i%20-%20STEM%20education.md) | STEM education. |
 | [1862j.](%C2%A7%2001862j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1862k.](%C2%A7%2001862k%20-%20Findings%3B%20core%20strategies.md) | Findings; core strategies. |
 | 1862<i>l.</i> | National research facilities. |
@@ -77,6 +77,7 @@
 | [1862t.](%C2%A7%2001862t%20-%20Supporting%20veterans%20in%20STEM%20education%20and%20computer%20science.md) | Supporting veterans in STEM education and computer science. |
 | [1862u.](%C2%A7%2001862u%20-%20NSF%20support%20of%20research%20on%20opioid%20addiction.md) | NSF support of research on opioid addiction. |
 | [1862v.](%C2%A7%2001862v%20-%20National%20Science%20Foundation%20research.md) | National Science Foundation research. |
+| [1862w.](%C2%A7%2001862w%20-%20NSF%20support%20of%20research%20on%20impacts%20of%20social%20media%20on%20human%20trafficking.md) | NSF support of research on impacts of social media on human trafficking. |
 | [1863\.](%C2%A7%2001863%20-%20National%20Science%20Board.md) | National Science Board. |
 | [1864\.](%C2%A7%2001864%20-%20Director%20of%20Foundation.md) | Director of Foundation. |
 | [1864a.](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md) | Deputy Director of the Foundation. |
@@ -97,6 +98,7 @@
 | [1873a.](%C2%A7%2001873a%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93159%2C%20title%20I%2C%20%C2%A7109%28f%29%2C%20Nov.%2022%2C%201985%2C%2099%20Stat.%20890.md) | Repealed. |
 | [1874\.](%C2%A7%2001874%20-%20Security%20provisions.md) | Security provisions. |
 | [1875\.](%C2%A7%2001875%20-%20Appropriations.md) | Appropriations. |
+| [1875a.](%C2%A7%2001875a%20-%20National%20Science%20Foundation%20Nonrecurring%20Expenses%20Fund.md) | National Science Foundation Nonrecurring Expenses Fund. |
 | 1876 to 1879. Repealed. |  |
 | [1880\.](%C2%A7%2001880%20-%20National%20Medal%20of%20Science.md) | National Medal of Science. |
 | [1881\.](%C2%A7%2001881%20-%20Award%20of%20National%20Medal%20of%20Science.md) | Award of National Medal of Science. |
@@ -131,7 +133,7 @@
 - [&sect; 01862f - Research center consortia](%C2%A7%2001862f%20-%20Research%20center%20consortia.md)
 - [&sect; 01862g - Established Program to Stimulate Competitive Research](%C2%A7%2001862g%20-%20Established%20Program%20to%20Stimulate%20Competitive%20Research.md)
 - [&sect; 01862h - Congressional statement of findings and declaration of purposes respecting scientific and technical education and training](%C2%A7%2001862h%20-%20Congressional%20statement%20of%20findings%20and%20declaration%20of%20purposes%20respecting%20scientific%20and%20technical%20education%20and%20training.md)
-- [&sect; 01862i - Scientific and technical education](%C2%A7%2001862i%20-%20Scientific%20and%20technical%20education.md)
+- [&sect; 01862i - STEM education](%C2%A7%2001862i%20-%20STEM%20education.md)
 - [&sect; 01862j - Authorization of appropriations](%C2%A7%2001862j%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 01862k - Findings; core strategies](%C2%A7%2001862k%20-%20Findings%3B%20core%20strategies.md)
 - [&sect; 01862l - National research facilities](%C2%A7%2001862l%20-%20National%20research%20facilities.md)
@@ -196,6 +198,7 @@
 - [&sect; 01862t - Supporting veterans in STEM education and computer science](%C2%A7%2001862t%20-%20Supporting%20veterans%20in%20STEM%20education%20and%20computer%20science.md)
 - [&sect; 01862u - NSF support of research on opioid addiction](%C2%A7%2001862u%20-%20NSF%20support%20of%20research%20on%20opioid%20addiction.md)
 - [&sect; 01862v - National Science Foundation research](%C2%A7%2001862v%20-%20National%20Science%20Foundation%20research.md)
+- [&sect; 01862w - NSF support of research on impacts of social media on human trafficking](%C2%A7%2001862w%20-%20NSF%20support%20of%20research%20on%20impacts%20of%20social%20media%20on%20human%20trafficking.md)
 - [&sect; 01863 - National Science Board](%C2%A7%2001863%20-%20National%20Science%20Board.md)
 - [&sect; 01864 - Director of Foundation](%C2%A7%2001864%20-%20Director%20of%20Foundation.md)
 - [&sect; 01864a - Deputy Director of the Foundation](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md)
@@ -216,6 +219,7 @@
 - [&sect; 01873a - Repealed. Pub. L. 99&#8211;159, title I, &sect;109(f), Nov. 22, 1985, 99 Stat. 890](%C2%A7%2001873a%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93159%2C%20title%20I%2C%20%C2%A7109%28f%29%2C%20Nov.%2022%2C%201985%2C%2099%20Stat.%20890.md)
 - [&sect; 01874 - Security provisions](%C2%A7%2001874%20-%20Security%20provisions.md)
 - [&sect; 01875 - Appropriations](%C2%A7%2001875%20-%20Appropriations.md)
+- [&sect; 01875a - National Science Foundation Nonrecurring Expenses Fund](%C2%A7%2001875a%20-%20National%20Science%20Foundation%20Nonrecurring%20Expenses%20Fund.md)
 - [&sect; 01876 to 1879 - Repealed. Pub. L. 99&#8211;383, &sect;11, Aug. 21, 1986, 100 Stat. 817](%C2%A7%2001876%20to%201879%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93383%2C%20%C2%A711%2C%20Aug.%2021%2C%201986%2C%20100%20Stat.%20817.md)
 - [&sect; 01880 - National Medal of Science](%C2%A7%2001880%20-%20National%20Medal%20of%20Science.md)
 - [&sect; 01881 - Award of National Medal of Science](%C2%A7%2001881%20-%20Award%20of%20National%20Medal%20of%20Science.md)

@@ -100,7 +100,7 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 &emsp;(2) may obtain insurance or make other arrangements for the cost of such services provided to its enrolled members other than through the organization because medical necessity required their provision before they could be secured through the organization,
 
-&emsp;(3) may obtain insurance or make other arrangements for not more than 90 percent ofthe amount by which its costs for any of its fiscal years exceed 115 percent of its income for such fiscal year, and
+&emsp;(3) may obtain insurance or make other arrangements for not more than 90 percent of the amount by which its costs for any of its fiscal years exceed 115 percent of its income for such fiscal year, and
 
 &emsp;(4) may make arrangements with physicians or other health care professionals, health care institutions, or any combination of such individuals or institutions to assume all or part of the financial risk on a prospective basis for the provision of basic health services by the physicians or other health professionals or through the institutions.
 

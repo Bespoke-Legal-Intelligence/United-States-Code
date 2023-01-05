@@ -8,7 +8,7 @@ The continuity of an officer's precedence on the active duty promotion list, dat
 
 #### Prior Provisions
 
-A prior section 307, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for compulsory retirement of warrant officers after thirty years' service, upon recommendation of a personnel board, prior to repeal by act May 29, 1954,ch. 249, §20(o), 68 Stat. 167, and by Pub. L. 88–130, §1(10)(A), Sept. 24, 1963, 77 Stat. 177.
+A prior section 307, act Aug. 4, 1949, ch. 393, 63 Stat. 519, provided for compulsory retirement of warrant officers after thirty years' service, upon recommendation of a personnel board, prior to repeal by act May 29, 1954, ch. 249, §20(o), 68 Stat. 167, and by Pub. L. 88–130, §1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 #### Amendments
 

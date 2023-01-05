@@ -16,7 +16,7 @@ The Secretary may not make payments under section 300ee–11(a) of this title fo
 
 &emsp;(6) with respect to such agreements, the application provides assurances of compliance satisfactory to the Secretary; and
 
-&emsp;(7) the application otherwise is in such form, is made in such manner, and contains such agreements, assurances, and information as the Secretary determines to be necessary to carry out this part.
+&emsp;(7) the application otherwise is in such form, is made in such manner, and contains suchagreements, assurances, and information as the Secretary determines to be necessary to carry out this part.
 
 #### (b) Opportunity for public comment
 

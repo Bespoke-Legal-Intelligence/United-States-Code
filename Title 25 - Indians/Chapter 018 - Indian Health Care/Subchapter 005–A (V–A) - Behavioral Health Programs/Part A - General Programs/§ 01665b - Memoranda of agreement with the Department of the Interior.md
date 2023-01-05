@@ -2,7 +2,7 @@
 
 #### (a) Contents
 
-Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, and the Secretary of the Interior shall develop and enter into a memoranda <sup>1</sup> of agreement, or review and update any existing memoranda of agreement, as required by section 4205 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2411) under which the Secretaries address the following:
+Not later than 1 year after March 23, 2010, the Secretary, acting through the Service, and the Secretary of the Interior shall develop and enter into a memoranda <sup>1</sup> of agreement, or review andupdate any existing memoranda of agreement, as required by section 4205 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986 (25 U.S.C. 2411) under which the Secretaries address the following:
 
 &emsp;(1) The scope and nature of mental illness and dysfunctional and self-destructive behavior, including child abuse and family violence, among Indians.
 
@@ -48,7 +48,7 @@ Each memorandum of agreement entered into or renewed (and amendments or modifica
 
 #### References in Text
 
-The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec.\(a)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
+The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (a)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
 This chapter, referred to in subsec. (a)(6)(A), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 

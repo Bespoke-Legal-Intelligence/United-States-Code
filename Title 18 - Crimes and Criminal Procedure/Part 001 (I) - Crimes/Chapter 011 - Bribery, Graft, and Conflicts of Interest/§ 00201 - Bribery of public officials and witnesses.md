@@ -4,7 +4,7 @@
 
 &emsp;(1) the term "public official" means Member of Congress, Delegate, or Resident Commissioner, either before or after such official has qualified, or an officer or employee or person acting for or on behalf of the United States, or any department, agency or branch of Government thereof, including the District of Columbia, in any official function, under or by authority of any such department, agency, or branch of Government, or a juror;
 
-&emsp;(2) the term "person who has been selected to be a public official" means any person who has been nominated or appointed to be a public official, or has been officially informed that such person will be so nominated or appointed; and
+&emsp;(2) the term "person who has been selected to be a public official" means any person who has been nominated or appointed to be a public official, or has been officially informedthat such person will be so nominated or appointed; and
 
 &emsp;(3) the term "official act" means any decision or action on any question, matter, cause, suit, proceeding or controversy, which may at any time be pending, or which may by law be brought before any public official, in such official's official capacity, or in such official's place of trust or profit.
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) being influenced in the performance of any official act;
 
-&emsp;&emsp;(B) being influenced to commit or aid in committing, or to collude in, or allow, anyfraud, or make opportunity for the commission of any fraud, on the United States; or
+&emsp;&emsp;(B) being influenced to commit or aid in committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or
 
 &emsp;&emsp;(C) being induced to do or omit to do any act in violation of the official duty of such official or person;
 
@@ -118,7 +118,7 @@ Pub. L. 87–849, §4, Oct. 23, 1962, 76 Stat. 1126, provided that: "This Act \[
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–198, §1, Dec. 19, 2003, 117 Stat. 2899, provided that: "This Act \[enacting sections 212 and 213 of this title and repealing former sections 212 and 213 of this title\] may be cited as the 'Preserving Independence of Financial Institution Examinations Act of 2003'."
+Pub. L. 108–198, §1, Dec. 19, 2003, 117 Stat. 2899, provided that: "This Act \[enacting sections 212 and 213 ofthis title and repealing former sections 212 and 213 of this title\] may be cited as the 'Preserving Independence of Financial Institution Examinations Act of 2003'."
 
 #### Short Title of 1996 Amendment
 
@@ -172,7 +172,7 @@ A regular officer or employee of the Government—that is, one appointed or empl
 
 1\. He may not, except in the discharge of his official duties, represent anyone else before a court or Government agency in a matter in which the United States is a party or has an interest. This prohibition applies both to paid and unpaid representation of another (18 U.S.C. 203 and 205).
 
-2\. He may not participate in his governmental capacity in any matter in which he, his spouse, minor child, outside business associate or person with whom he is negotiating for employment has a financial interest (18 U.S.C. 208).
+2\. He may not participate in his governmental capacity in any matter in which he, his spouse, minor child,outside business associate or person with whom he is negotiating for employment has a financial interest (18 U.S.C. 208).
 
 3\. He may not, after his Government employment has ended, represent anyone other than the United States in connection with a matter in which the United States is a party or has an interest and in which he participated personally and substantially for the Government (18 U.S.C. 207(a)).
 
@@ -252,7 +252,7 @@ It will be seen that subsections (a) and (b) in combination are less restrictive
 
 Subsection (c) of section 207 pertains to an individual outside the Government who is in a business or professional partnership with someone serving in the executive branch, an independent agency or the District of Columbia. The subsection prevents such individual from acting as attorney or agent for anyone other than the United States in any matter, including those in court, in which his partner in the Government is participating or has participated or which are the subject of his partner's official responsibility. Although included in a section dealing largely with post-employment activities, this provision is not directed to the postemployment situation.
 
-The paragraph at the end of section 207 also pertains to individuals in a partnership but sets forth no prohibition. This paragraph, which is of importance mainly to lawyers in private practice, rules out the possibility that an individual will be deemed subject to section 203, 205, 207(a) or 207(b) solely because he has a partner who serves or has served in the Government either as a regular or a special Government employee.
+The paragraph at the end of section 207 also pertains to individuals in a partnership but sets forth no prohibition. This paragraph, which is of importance mainlyto lawyers in private practice, rules out the possibility that an individual will be deemed subject to section 203, 205, 207(a) or 207(b) solely because he has a partner who serves or has served in the Government either as a regular or a special Government employee.
 
 <i>New 18 U.S.C. 208</i>. This section forbids certain actions by an officer or employee of the Government in his role as a servant or representative of the Government. Its thrust is therefore to be distinguished from that of sections 203 and 205 which forbid certain actions in his capacity as a representative of persons outside the Government.
 
@@ -316,7 +316,7 @@ Set forth below are the citations to the legislative history of Public Law 87–
 
 3\. 42 Op. A.G. No. 6, January 31, 1962.
 
-4\. Memorandum of December 10, 1956 for the Attorney General from the Office of Legal Counsel re conflict of interest statutes, Hearings before the Antitrust Subcommittee (Subcommittee No. 5) of House Judiciary Committee, 86th Cong., 2d sess., ser. 17, pt. 2, p. 619.
+4\. Memorandum of December 10, 1956 for the Attorney General from the Office of Legal Counsel re conflict ofinterest statutes, Hearings before the Antitrust Subcommittee (Subcommittee No. 5) of House Judiciary Committee, 86th Cong., 2d sess., ser. 17, pt. 2, p. 619.
 
 5\. Staff report of Antitrust Subcommittee (Subcommittee No. 5) of House Judiciary Committee, 85th Cong., 2d sess., <i>Federal Conflict of Interest Legislation</i> (Comm. Print 1958).
 

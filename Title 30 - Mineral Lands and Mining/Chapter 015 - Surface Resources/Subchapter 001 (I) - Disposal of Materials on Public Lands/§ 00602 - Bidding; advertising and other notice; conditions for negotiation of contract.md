@@ -4,7 +4,7 @@
 
 &emsp;(1) the contract is for the sale of less than two hundred fifty thousand board-feet of timber; or, if
 
-&emsp;(2) the contract is for the disposal of materials to be used in connection with a public works improvement program on behalf of a Federal, State or local governmental agency and the public exigency will not permit the delay incident to advertising; or, if
+&emsp;(2) the contract is for the disposal of materials to be used in connection with a publicworks improvement program on behalf of a Federal, State or local governmental agency and the public exigency will not permit the delay incident to advertising; or, if
 
 &emsp;(3) the contract is for the disposal of property for which it is impracticable to obtain competition.
 

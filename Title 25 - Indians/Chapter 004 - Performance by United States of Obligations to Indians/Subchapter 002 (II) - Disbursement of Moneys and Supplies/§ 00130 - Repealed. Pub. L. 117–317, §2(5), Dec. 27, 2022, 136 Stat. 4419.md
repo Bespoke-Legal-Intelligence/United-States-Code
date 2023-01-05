@@ -1,0 +1,4 @@
+### §130. Repealed. Pub. L. 117–317, §2(5), Dec. 27, 2022, 136 Stat. 4419
+
+Section, R.S. §2087, withheld annuities, money, and goods from Indians based on being under the influence of or having access to intoxicating liquor.
+

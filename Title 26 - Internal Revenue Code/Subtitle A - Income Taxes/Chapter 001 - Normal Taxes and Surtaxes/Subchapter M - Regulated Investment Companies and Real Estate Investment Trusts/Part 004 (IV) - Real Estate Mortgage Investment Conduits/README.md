@@ -8,7 +8,7 @@
 | [860D.](%C2%A7%2000860D%20-%20REMIC%20defined.md) | REMIC defined. |
 | [860E.](%C2%A7%2000860E%20-%20Treatment%20of%20income%20in%20excess%20of%20daily%20accruals%20on%20residual%20interests.md) | Treatment of income in excess of daily accruals on residual interests. |
 | [860F.](%C2%A7%2000860F%20-%20Other%20rules.md) | Other rules. |
-| [860G.](%C2%A7%2000860G%20-%20Other%20definitions%20and%20special%20rules.md) | Other definitions and special rules. |
+| [860G.](%C2%A7%2000860G%20-%20Other%20definitions%20and%20special%20rules.md) | Other definitions and special rules. . |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

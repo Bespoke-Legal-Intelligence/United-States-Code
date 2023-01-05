@@ -1,0 +1,18 @@
+### §548.<sup>1</sup> Marking anchorage grounds by Commandant of the Coast Guard
+
+The Commandant of the Coast Guard shall provide, establish, and maintain, out of the annual appropriations for the Coast Guard, buoys or other suitable marks for marking anchorage grounds for vessels in waters of the United States, when such anchorage grounds have beendefined and established by proper authority in accordance with the laws of the United States.
+
+(Added and amended Pub. L. 117–263, div. K, title CXVIII, §11808(c), Dec. 23, 2022, 136 Stat. 4166.)
+
+#### <b>Editorial Notes</b>
+
+#### Codification
+
+The text of section 472 of Title 33, Navigation and Navigable Waters, which was transferred to appear at the end of this subchapter, redesignated as section 548 of this title, and amended by Pub. L. 117–263, §11808(c), was based on act Sept. 15, 1922, ch. 313, 42 Stat. 844.
+
+#### Amendments
+
+<b>2022</b>—Pub. L. 117–263 substituted "The Commandant of the Coast Guard" for "That hereafter the Commissioner of Lighthouses" and "for the Coast Guard" for "for the Lighthouse Service".
+
+<i><sup>1</sup></i><i> Another section 548 is set out after section 547 of this title.</i>
+

@@ -34,7 +34,7 @@ As used in this subchapter:
 
 #### (6) International Telecommunication Union
 
-&emsp;The term "International Telecommunication Union" means the intergovernmental organization that is a specialized agency of the United Nations in which member countries cooperate for the development of telecommunications, including adoption of international regulations governing terrestrial and space uses of the frequency spectrum as well as use of the geostationary satellite orbit.
+&emsp;The term "International Telecommunication Union" means the intergovernmentalorganization that is a specialized agency of the United Nations in which member countries cooperate for the development of telecommunications, including adoption of international regulations governing terrestrial and space uses of the frequency spectrum as well as use of the geostationary satellite orbit.
 
 #### (7) Successor entity
 
@@ -118,7 +118,7 @@ Except as otherwise provided in subsection (a), terms used in this subchapter th
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Transfer of Functions
 

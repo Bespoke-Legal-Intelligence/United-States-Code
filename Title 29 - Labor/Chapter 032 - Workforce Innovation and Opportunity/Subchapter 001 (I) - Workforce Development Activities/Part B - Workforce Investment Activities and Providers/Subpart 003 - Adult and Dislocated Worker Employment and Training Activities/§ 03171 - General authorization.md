@@ -16,7 +16,7 @@ Pub. L. 111–275, title I, §106, Oct. 13, 2010, 124 Stat. 2870, provided that:
 
 "(a)
 
-Establishment of Pilot Program.—To encourage the employment of eligible veterans in the energy industry, the Secretary of Labor, as part of the Veterans Workforce Investment Program, shall carry out a pilot program to be known as the 'Veterans Energy-Related Employment Program'. Under the pilot program,the Secretary shall award competitive grants to not more than three States for the establishment and administration of a State program to make grants to energy employers that provide covered training, on-job training, apprenticeships, and certification classes to eligible veterans. Such a program shall be known as a 'State Energy-Related Employment Program'.
+Establishment of Pilot Program.—To encourage the employment of eligible veterans in the energy industry, the Secretary of Labor, as part of the Veterans Workforce Investment Program, shall carry out a pilot program to be known as the 'Veterans Energy-Related Employment Program'. Under the pilot program, the Secretary shall award competitive grants to not more than three States for the establishment and administration of a State program to make grants to energy employers that provide covered training, on-job training, apprenticeships, and certification classes to eligible veterans. Such a program shall be known as a 'State Energy-Related Employment Program'.
 
 "(b)
 
@@ -40,7 +40,7 @@ Use of Funds.—A State that is the recipient of a grant under this section shal
 
 &emsp;"(1) Making grants to energy employers to reimburse such employers for the cost of providing covered training, on-job training, apprenticeships, and certification classes to eligible veterans who are first hired by the employer on or after November 1, 2010.
 
-&emsp;"(2) Conducting outreach to inform energy employers and veterans, including veterans in rural areas, of their eligibility or potential eligibility for participation in the State program.
+&emsp;"(2) Conducting outreach to inform energy employers and veterans, including veterans in rural areas, oftheir eligibility or potential eligibility for participation in the State program.
 
 "(d)
 
@@ -128,7 +128,7 @@ Purpose.—It is the purpose of this section to ensure that veterans who are dis
 
 "(b)
 
-Memorandum of Understanding.—(1) Not later than one year after the date of the enactment of this Act \[Nov. 18, 1988\], the Secretary of Labor and the Administrator of Veterans' Affairs shall enter into a memorandum of understanding to carry out the purpose of this section. The memorandum shall includeprovisions that define the relationships and responsibilities of the Veterans' Administration, the Department of Labor, and State and local agencies with respect to the provision of the following information, forms, and assistance:
+Memorandum of Understanding.—(1) Not later than one year after the date of the enactment of this Act \[Nov. 18, 1988\], the Secretary of Labor and the Administrator of Veterans' Affairs shall enter into a memorandum of understanding to carry out the purpose of this section. The memorandum shall include provisions that define the relationships and responsibilities of the Veterans' Administration, the Department of Labor, and State and local agencies with respect to the provision of the following information, forms, and assistance:
 
 &emsp;"(A) Information on services and benefits referred to in subsection (d).
 
@@ -410,7 +410,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 &emsp;"(B) in the case of the employees of an employer, if the Secretary determines that—
 
-&emsp;&emsp;"(i) the employer has an appropriate and effective employee assistance program that is available toall veterans participating in the employer's programs of job training under this Act; or
+&emsp;&emsp;"(i) the employer has an appropriate and effective employee assistance program that is available to all veterans participating in the employer's programs of job training under this Act; or
 
 &emsp;&emsp;"(ii) the rate of veterans' successful completion of the employer's programs of job training under this Act, either cumulatively or during the previous program year, is 60 percent or higher.
 
@@ -426,7 +426,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 "(c) Before a veteran who voluntarily terminates from a program of job training under this Act or is involuntarily terminated from such program by the employer may be eligible to be provided with a further certificate, or renewal of certification, of eligibility for participation under this Act, such veteran must be provided by the Secretary, after consultation with the Administrator, with a case manager.
 
-"(d) Payments made under this Act pursuant to contracts entered into for the provision of job-readiness skills development and counseling services under subsection (a)(2) may only be paid out of the same account used to make payments under section 3104(a)(7) of title 38, United States Code, and the amount paid out of such account in any fiscal year for such services shall not exceed an amount equal to 5 percent of the amount obligated to carry out this Act for such fiscal year, except that for fiscal year 1988 the amount shall not exceed 5 percent of the amount available to carry out this Act on October 1, 1987.
+"(d) Payments made under this Act pursuant to contracts entered into for the provision of job-readinessskills development and counseling services under subsection (a)(2) may only be paid out of the same account used to make payments under section 3104(a)(7) of title 38, United States Code, and the amount paid out of such account in any fiscal year for such services shall not exceed an amount equal to 5 percent of the amount obligated to carry out this Act for such fiscal year, except that for fiscal year 1988 the amount shall not exceed 5 percent of the amount available to carry out this Act on October 1, 1987.
 
 #### "information and outreach; use of agency resources
 

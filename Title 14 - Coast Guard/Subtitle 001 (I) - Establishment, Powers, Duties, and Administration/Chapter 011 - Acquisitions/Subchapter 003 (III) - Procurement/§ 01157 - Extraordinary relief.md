@@ -10,7 +10,7 @@ Inapplicability to Subcontractors.—The limitation under subsection (a) shall n
 
 (c)
 
-Quarterly Report.—Not less frequently than quarterly during each fiscal year in which extraordinary relief is approved or provided to an entity under the Act referred to in subsection (a) for the acquisition of Offshore Patrol Cutters, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee onTransportation and Infrastructure of the House of Representatives a report that describes in detail such relief and the compliance of the entity with the oversight measures required as a condition of receiving such relief.
+Quarterly Report.—Not less frequently than quarterly during each fiscal year in which extraordinary relief is approved or provided to an entity under the Act referred to in subsection (a) for the acquisition of Offshore Patrol Cutters, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that describes in detail such relief and the compliance of the entity with the oversight measures required as a condition of receiving such relief.
 
 (Added Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8221(a)(1), Jan. 1, 2021, 134 Stat. 4657.)
 

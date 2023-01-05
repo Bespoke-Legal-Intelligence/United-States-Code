@@ -10,7 +10,7 @@
 
 &emsp;(4) grant a within-class salary increase under section 3966 of this title to a member of the Service who is assigned to a salary class in the Foreign Service Schedule.
 
-(b) In implementing subsection (a) of this section and in cases in which the Secretary has exercised the authority of section 4005(b) of this title, the Secretary may, in special circumstances set forth by regulation, make retroactive promotions, grant performance pay, make retroactive within-class salary increases, and recommend retroactive promotions by the President.
+(b) In implementing subsection (a) of this section and in cases in which the Secretary has exercised the authority of section 4005(b) of this title, the Secretary may, in special circumstances set forth by regulation, make retroactive promotions, grant performance pay,make retroactive within-class salary increases, and recommend retroactive promotions by the President.
 
 (Pub. L. 96–465, title I, §606, Oct. 17, 1980, 94 Stat. 2096.)
 

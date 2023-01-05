@@ -56,7 +56,7 @@ Notwithstanding any other provision of this chapter, the Secretary shall carry o
 
 &emsp;(6) if the borrower no longer has a partial financial hardship or no longer wishes to continue the election under this subsection, then—
 
-&emsp;&emsp;(A) the maximum monthly payment required to be paid for all loans made to theborrower under part B or D (other than an excepted PLUS loan or excepted consolidation loan) shall not exceed the monthly amount calculated under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection; and
+&emsp;&emsp;(A) the maximum monthly payment required to be paid for all loans made to the borrower under part B or D (other than an excepted PLUS loan or excepted consolidation loan) shall not exceed the monthly amount calculated under section 1078(b)(9)(A)(i) or 1087e(d)(1)(A) of this title, based on a 10-year repayment period, when the borrower first made the election described in this subsection; and
 
 &emsp;&emsp;(B) the amount of time the borrower is permitted to repay such loans may exceed 10 years;
 

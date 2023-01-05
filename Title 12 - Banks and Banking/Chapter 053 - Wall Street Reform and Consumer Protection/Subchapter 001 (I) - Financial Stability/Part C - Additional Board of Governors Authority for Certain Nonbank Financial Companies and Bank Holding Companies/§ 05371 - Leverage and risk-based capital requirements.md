@@ -60,7 +60,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Investments in financial subsidiaries
 
-&emsp;For purposes of this section, investments in financial subsidiaries that insured depository institutions are required to deduct from regulatory capital under section 24a of this title or section 1831w(a)(2) of this title need not be deducted from regulatory capital by depository institution holding companies or nonbank financial companies supervised by the Board ofGovernors, unless such capital deduction is required by the Board of Governors or the primary financial regulatory agency in the case of nonbank financial companies supervised by the Board of Governors.
+&emsp;For purposes of this section, investments in financial subsidiaries that insured depository institutions are required to deduct from regulatory capital under section 24a of this title or section 1831w(a)(2) of this title need not be deducted from regulatory capital by depository institution holding companies or nonbank financial companies supervised by the Board of Governors, unless such capital deduction is required by the Board of Governors or the primary financial regulatory agency in the case of nonbank financial companies supervised by the Board of Governors.
 
 #### (4) Effective dates and phase-in periods
 
@@ -152,7 +152,7 @@ For purposes of this section, the following definitions shall apply:
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (b)(5)(A), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of this title and Tables.
 
-The Home Owners' Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Home Owners' Loan Act, referred to in subsec. (c)(3)(A), is act June 13, 1933, ch. 64, 48 Stat. 128, whichis classified generally to chapter 12 (§1461 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -194,7 +194,7 @@ Asset threshold.—The term 'qualifying community bank' means a depository insti
 
 &emsp;&emsp;"(B)
 
-Risk profile.—The appropriate Federal banking agencies may determine that a depositoryinstitution or depository institution holding company (or a class of depository institutions or depository institution holding companies) described in subparagraph (A) is not a qualifying community bank based on the depository institution's or depository institution holding company's risk profile, which shall be based on consideration of—
+Risk profile.—The appropriate Federal banking agencies may determine that a depository institution or depository institution holding company (or a class of depository institutions or depository institution holding companies) described in subparagraph (A) is not a qualifying community bank based on the depository institution's or depository institution holding company's risk profile, which shall be based on consideration of—
 
 &emsp;&emsp;&emsp;"(i) off-balance sheet exposures;
 
@@ -270,7 +270,7 @@ Changes Required to Small Bank Holding Company Policy Statement on Assessment of
 
 Exclusions.—The Board may exclude any bank holding company or savings and loan holding company, regardless of asset size, from the revision under subsection (b) if the Board determines that such action is warranted for supervisory purposes."
 
-\[For definition of "bank holding company" as used in section 207(a)–(c) of Pub. L. 115–174, set out above, see section 2 of Pub. L. 115–174, set out as a note under section 5365 of this title.\]
+\[For definition of "bank holding company" as used in section 207(a)–(c) of Pub. L. 115–174, set out above, seesection 2 of Pub. L. 115–174, set out as a note under section 5365 of this title.\]
 
 #### Changes Required to Small Bank Holding Company Policy Statement on Assessment of Financial and Managerial Factors
 

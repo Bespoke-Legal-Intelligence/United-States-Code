@@ -78,7 +78,7 @@ Conversion Procedures.—The Secretary of Defense shall implement procedures to 
 
 (d)
 
-Limitation.—The science and technology reinvention laboratories, as so designated bysubsection (a), may not implement any personnel system, other than a personnel system under an appropriate demonstration project (as referred to subsection (a)), without prior congressional authorization.
+Limitation.—The science and technology reinvention laboratories, as so designated by subsection (a), may not implement any personnel system, other than a personnel system under an appropriate demonstration project (as referred to subsection (a)), without prior congressional authorization.
 
 (Added Pub. L. 117–81, div. A, title II, §215(a), Dec. 27, 2021, 135 Stat. 1591.)
 

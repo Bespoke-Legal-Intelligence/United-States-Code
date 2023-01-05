@@ -76,7 +76,7 @@ Nothing in this section shall be construed to require the Commission, in determi
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b) and (c)(2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b) and (c)(2), is not set out inthe Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 #### Amendments
 

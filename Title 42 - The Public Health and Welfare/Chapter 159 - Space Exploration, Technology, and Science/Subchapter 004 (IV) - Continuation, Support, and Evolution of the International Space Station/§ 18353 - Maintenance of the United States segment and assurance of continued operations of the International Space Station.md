@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator shall take all actions necessary to ensure the safe and effective operation, maintenance, and maximum utilization of the United States segment of the ISS through at least September 30, 2024.
+The Administrator shall take all actions necessary to ensure the safe and effective operation, maintenance, and maximum utilization of the United States segment of the ISS through at least September 30, 2030.
 
 #### (b) Vehicle and component review
 
@@ -68,7 +68,7 @@ Utilization of research facilities and capabilities aboard the ISS (other than e
 
 #### (1) Space Shuttle mission
 
-&emsp;The Administrator shall fly the Launch-On-Need Shuttle mission currently designated inthe Shuttle Flight Manifest dated February 28, 2010, to the ISS in fiscal year 2011, but no earlier than June 1, 2011, unless required earlier by an operations contingency, and pending the results of the assessment required by paragraph (2) and the determination under paragraph (3)(A).
+&emsp;The Administrator shall fly the Launch-On-Need Shuttle mission currently designated in the Shuttle Flight Manifest dated February 28, 2010, to the ISS in fiscal year 2011, but no earlier than June 1, 2011, unless required earlier by an operations contingency, and pending the results of the assessment required by paragraph (2) and the determination under paragraph (3)(A).
 
 #### (2) Assessment of safe means of return
 
@@ -96,7 +96,7 @@ Utilization of research facilities and capabilities aboard the ISS (other than e
 
 &emsp;The Administrator may not terminate any contract that provides the system transitions necessary for shuttle-derived hardware to be used on either the multi-purpose crew vehicle described in section 18323 of this title or the Space Launch System described in section 18322 of this title.
 
-(Pub. L. 111–267, title V, §503, Oct. 11, 2010, 124 Stat. 2823; Pub. L. 114–90, title I, §114(b)(2), Nov. 25, 2015, 129 Stat. 716.)
+(Pub. L. 111–267, title V, §503, Oct. 11, 2010, 124 Stat. 2823; Pub. L. 114–90, title I, §114(b)(2), Nov. 25, 2015, 129 Stat. 716; Pub. L. 117–167, div. B, title VII, §10815(b), Aug. 9, 2022, 136 Stat. 1737.)
 
 #### <b>Editorial Notes</b>
 
@@ -107,6 +107,8 @@ Reference to September 30, 2020, referred to in subsec. (b)(1), was not amended 
 Section 101(2)(B), referred to in subsec. (e)(4), is Pub. L. 111–267, title I, §101(2)(B), Oct. 11, 2010, 124 Stat. 2809, which is not classified to the Code.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–167 substituted "September 30, 2030" for "September 30, 2024".
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–90, §114(b)(2)(A), substituted "through at least September 30, 2024" for "through at least September 30, 2020".
 

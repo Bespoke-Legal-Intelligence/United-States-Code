@@ -27,5 +27,5 @@
 - [&sect; 00163 - Roll of membership of Indian tribes](%C2%A7%2000163%20-%20Roll%20of%20membership%20of%20Indian%20tribes.md)
 - [&sect; 00164 - Restoration to tribal ownership of unclaimed per capita and other individual payments of tribal trust funds; deposit in general fund of&#8230;](%C2%A7%2000164%20-%20Restoration%20to%20tribal%20ownership%20of%20unclaimed%20per%20capita%20and%20other%20individual%20payments%20of%20tribal%20trust%20funds%3B%20deposit%20in%20general%20fund%20of%E2%80%A6.md)
 - [&sect; 00165 - Notice to Congressional committees](%C2%A7%2000165%20-%20Notice%20to%20Congressional%20committees.md)
-- [&sect; 00166 - Applicability of Federal Advisory Committee Act](%C2%A7%2000166%20-%20Applicability%20of%20Federal%20Advisory%20Committee%20Act.md)
+- [&sect; 00166 - Applicability of chapter 10 of title 5](%C2%A7%2000166%20-%20Applicability%20of%20chapter%2010%20of%20title%205.md)
 - [&sect; 00167 - Trust status of lease payments](%C2%A7%2000167%20-%20Trust%20status%20of%20lease%20payments.md)

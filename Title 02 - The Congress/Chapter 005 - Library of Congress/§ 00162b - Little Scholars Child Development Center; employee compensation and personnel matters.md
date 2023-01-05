@@ -48,7 +48,7 @@ The Library of Congress, directly or by agreement with its designated representa
 
 The Center shall—
 
-&emsp;(1) pay to the Library of Congress funds sufficient to cover the gross salary and the employer's share of taxes under section 3111 of title 26 for Center employees, in amounts computed by the Library of Congress;
+&emsp;(1) except as provided in subsection (g), pay to the Library of Congress funds sufficient to cover the gross salary and the employer's share of taxes under section 3111 of title 26 for Center employees, in amounts computed by the Library of Congress;
 
 &emsp;(2) as required by the Library of Congress, reimburse the Library of Congress for reasonable administrative costs incurred under subsection (e)(1);
 
@@ -58,11 +58,15 @@ The Center shall—
 
 &emsp;(5) consult with the Librarian of Congress on the administration and implementation of this section.
 
-#### (g) Regulations
+#### (g) Reimbursement for certain compensation
+
+Notwithstanding paragraph (1) of subsection (f), in the case of expenses described in such paragraph which are attributable to the compensation of the Executive Director and Deputy Executive Director of the Center, the Librarian of Congress may reimburse the Center for such expenses from amounts appropriated or otherwise made available for salaries and expenses of the Library of Congress.
+
+#### (h) Regulations
 
 The Librarian of Congress may prescribe regulations to carry out this section.
 
-(Pub. L. 106–554, §1(a)(2) \[title II, §210\], Dec. 21, 2000, 114 Stat. 2763, 2763A–114.)
+(Pub. L. 106–554, §1(a)(2) \[title II, §210\], Dec. 21, 2000, 114 Stat. 2763, 2763A–114; Pub. L. 117–328, div. I, title I, §141(a), Dec. 29, 2022, 136 Stat. 4932.)
 
 #### <b>Editorial Notes</b>
 
@@ -70,11 +74,21 @@ The Librarian of Congress may prescribe regulations to carry out this section.
 
 Section 205(g)(1) of the Legislative Branch Appropriations Act, 1991, referred to in subsec. (a)(1)(A), is section 205(g)(1) of Pub. L. 101–520, which is set out as a note under section 141 of this title.
 
+#### Amendments
+
+<b>2022</b>—Subsec. (f)(1). Pub. L. 117–328, §141(a)(1), substituted "except as provided in subsection (g), pay to the Library of Congress" for "pay to the Library of Congress".
+
+Subsecs. (g), (h). Pub. L. 117–328, §141(a)(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. I, title I, §141(b), Dec. 29, 2022, 136 Stat. 4932, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to fiscal year 2023 and each succeeding fiscal year."
 
 #### Funding for Little Scholars Child Development Center and Tiny Findings Child Development Center
 
-Pub. L. 116–159, div. A, §159, Oct. 1, 2020, 134 Stat. 721, provided that: "Notwithstanding any other provision of this Act \[div. A of Pub. L. 116–159, see Tables for classification\]—
+Pub. L. 116–159, div. A, §159, Oct. 1, 2020, 134 Stat. 721, provided that: "Notwithstanding any other provision ofthis Act \[div. A of Pub. L. 116–159, see Tables for classification\]—
 
 &emsp;"(1) the authority of the Library of Congress to reimburse the Little Scholars Child Development Center at the Library of Congress under section 19004 of the CARES Act (2 U.S.C. 162b note; 134 Stat. 578) shall remain in effect with respect to salaries incurred until the termination of the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) resulting from the COVID–19 pandemic; and
 
@@ -106,7 +120,7 @@ Amount.—The amount of the reimbursement under this section for each month of t
 
 #### Definition
 
-Pub. L. 116–136, div. B, title XIII, §23005, Mar. 27, 2020, 134 Stat. 614, provided that: "In this Act \[div. B of Pub.L. 116–136, see Tables for classification\], the term 'coronavirus' means SARS–CoV–2 or another coronavirus with pandemic potential."
+Pub. L. 116–136, div. B, title XIII, §23005, Mar. 27, 2020, 134 Stat. 614, provided that: "In this Act \[div. B of Pub. L. 116–136, see Tables for classification\], the term 'coronavirus' means SARS–CoV–2 or another coronavirus with pandemic potential."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "chapter,".</i>
 

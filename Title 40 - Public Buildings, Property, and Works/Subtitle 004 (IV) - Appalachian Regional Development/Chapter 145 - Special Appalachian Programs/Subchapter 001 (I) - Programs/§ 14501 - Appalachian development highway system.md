@@ -68,7 +68,7 @@ and 118.—Sections 106(a) and 118 of title 23 apply to the development highway 
 
 &emsp;(2)
 
-Construction and maintenance.—States are required to maintain each development highway and local access road as provided for Federal-aid highways in title 23. All other provisions of title 23 that are applicable to the construction and maintenance of Federal-aid primary and secondary highways and which the Secretary decides are not inconsistent with this subtitle shall apply to the system and roads, respectively.
+Construction and maintenance.—States are required to maintain each development highway and local access road as provided for Federal-aid highways in title 23. All other provisions of title 23 that are applicable to theconstruction and maintenance of Federal-aid primary and secondary highways and which the Secretary decides are not inconsistent with this subtitle shall apply to the system and roads, respectively.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1265; Pub. L. 108–199, div. F, title I, §123(a), Jan. 23, 2004, 118 Stat. 296.)
 
@@ -142,7 +142,7 @@ Sense of the Senate.—It is the Sense of the Senate that the timely completion 
 
 "(b)
 
-Modified Federal Share for Projects on ADHS.—For fiscal years 2012 through 2050, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under section 14501 of title 40, UnitedStates Code, with funds made available to a State for fiscal year 2012 or a previous fiscal year for the Appalachian development highway system program, or with funds made available for fiscal year 2012 or a previous fiscal year for a specific project, route, or corridor on that system, shall be up to 100 percent, as determined by the State.
+Modified Federal Share for Projects on ADHS.—For fiscal years 2012 through 2050, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under section 14501 of title 40, United States Code, with funds made available to a State for fiscal year 2012 or a previous fiscal year for the Appalachian development highway system program, or with funds made available for fiscal year 2012 or a previous fiscal year for a specific project, route, or corridor on that system, shall be up to 100 percent, as determined by the State.
 
 "(c)
 

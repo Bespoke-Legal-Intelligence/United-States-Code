@@ -1,6 +1,6 @@
 ### §363. Use, sale, or lease of property
 
-(a) In this section, "cash collateral" means cash, negotiable instruments, documents of title, securities, deposit accounts, or other cash equivalents whenever acquired in which the estate and an entity other than the estate have an interest and includes the proceeds, products, offspring, rents, or profits of property and the fees, charges, accounts or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties subject to a security interest as provided in section 552(b) of this title, whether existing before or after the commencement of a case under this title.
+(a) In this section, "cash collateral" means cash, negotiable instruments, documents of title, securities, deposit accounts, or other cash equivalents whenever acquired in which the estate and an entity other than the estate have an interest and includes the proceeds, products, offspring, rents, or profits of property and the fees, charges, accounts or other payments for the use or occupancy of rooms and other public facilities in hotels, motels, or other lodging properties subject to a security interest as providedin section 552(b) of this title, whether existing before or after the commencement of a case under this title.
 
 (b)(1) The trustee, after notice and a hearing, may use, sell, or lease, other than in the ordinary course of business, property of the estate, except that if the debtor in connection with offering a product or a service discloses to an individual a policy prohibiting the transfer of personally identifiable information about individuals to persons that are not affiliated with the debtor and if such policy is in effect on the date of the commencement of the case, then the trustee may not sell or lease personally identifiable information to any person unless—
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(iii) by the court after notice and a hearing.
 
-(c)(1) If the business of the debtor is authorized to be operated under section 721, 1108, 1183,1184, 1203, 1204, or 1304 of this title and unless the court orders otherwise, the trustee may enter into transactions, including the sale or lease of property of the estate, in the ordinary course of business, without notice or a hearing, and may use property of the estate in the ordinary course of business without notice or a hearing.
+(c)(1) If the business of the debtor is authorized to be operated under section 721, 1108, 1183, 1184, 1203, 1204, or 1304 of this title and unless the court orders otherwise, the trustee may enter into transactions, including the sale or lease of property of the estate, in the ordinary course of business, without notice or a hearing, and may use property of the estate in the ordinary course of business without notice or a hearing.
 
 (2) The trustee may not use, sell, or lease cash collateral under paragraph (1) of this subsection unless—
 
@@ -62,7 +62,7 @@
 
 &emsp;(1) partition in kind of such property among the estate and such co-owners is impracticable;
 
-&emsp;(2) sale of the estate's undivided interest in such property would realize significantly less for the estate than sale of such property free of the interests of such co-owners;
+&emsp;(2) sale of the estate's undivided interest in such property would realize significantly lessfor the estate than sale of such property free of the interests of such co-owners;
 
 &emsp;(3) the benefit to the estate of a sale of such property free of the interests of co-owners outweighs the detriment, if any, to such co-owners; and
 
@@ -76,7 +76,7 @@
 
 (l) Subject to the provisions of section 365, the trustee may use, sell, or lease property under subsection (b) or (c) of this section, or a plan under chapter 11, 12, or 13 of this title may provide for the use, sale, or lease of property, notwithstanding any provision in a contract, a lease, or applicable law that is conditioned on the insolvency or financial condition of the debtor, on the commencement of a case under this title concerning the debtor, or on the appointment of or the taking possession by a trustee in a case under this title or a custodian, and that effects, or gives an option to effect, a forfeiture, modification, or termination of the debtor's interest in such property.
 
-(m) The reversal or modification on appeal of an authorization under subsection (b) or (c) ofthis section of a sale or lease of property does not affect the validity of a sale or lease under such authorization to an entity that purchased or leased such property in good faith, whether or not such entity knew of the pendency of the appeal, unless such authorization and such sale or lease were stayed pending appeal.
+(m) The reversal or modification on appeal of an authorization under subsection (b) or (c) of this section of a sale or lease of property does not affect the validity of a sale or lease under such authorization to an entity that purchased or leased such property in good faith, whether or not such entity knew of the pendency of the appeal, unless such authorization and such sale or lease were stayed pending appeal.
 
 (n) The trustee may avoid a sale under this section if the sale price was controlled by an agreement among potential bidders at such sale, or may recover from a party to such agreement any amount by which the value of the property sold exceeds the price at which such sale was consummated, and may recover any costs, attorneys' fees, or expenses incurred in avoiding such sale or recovering such amount. In addition to any recovery under the preceding sentence, the court may grant judgment for punitive damages in favor of the estate and against any such party that entered into such an agreement in willful disregard of this subsection.
 
@@ -102,7 +102,7 @@ Section 363(f) of the House amendment adopts an identical provision contained in
 
 Section 363(h) of the House amendment adopts a new paragraph (4) representing a compromise between the House bill and Senate amendment. The provision adds a limitation indicating that a trustee or debtor in possession sell jointly owned property only if the property is not used in the production, transmission, or distribution for sale, of electric energy or of natural or synthetic gas for heat, light, or power. This limitation is intended to protect public utilities from being deprived of power sources because of the bankruptcy of a joint owner.
 
-Section 363(k) of the House amendment is derived from the third sentence of section 363(e) of the Senate amendment. The provision indicates that a secured creditor may bid in the full amount of the creditor's allowed claim, including the secured portion and any unsecured portion thereof in the event the creditor is undersecured, with respect to property that is subject to a lien that secures the allowed claim of the sale of the property.
+Section 363(k) of the House amendment is derived from the third sentence of section 363(e) of the Senateamendment. The provision indicates that a secured creditor may bid in the full amount of the creditor's allowed claim, including the secured portion and any unsecured portion thereof in the event the creditor is undersecured, with respect to property that is subject to a lien that secures the allowed claim of the sale of the property.
 
 #### senate report no. 95–989
 
@@ -140,7 +140,7 @@ Subsection (m) \[enacted as (n)\] is directed at collusive bidding on property s
 
 Section 7A of the Clayton Act, referred to in subsec. (b)(2), is classified to section 18a of Title 15, Commerce and Trade.
 
-The Truth in Lending Act, referred to in subsec. (o), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Truth in Lending Act, referred to in subsec. (o), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Amendments
 

@@ -11,3 +11,4 @@ Part L—Student Safety and Campus Emergency Management
 - [&sect; 01161l&#8211;3 - Education Disaster and Emergency Relief Loan Program](%C2%A7%2001161l%E2%80%933%20-%20Education%20Disaster%20and%20Emergency%20Relief%20Loan%20Program.md)
 - [&sect; 01161l&#8211;4 - Guidance on mental health disclosures for student safety](%C2%A7%2001161l%E2%80%934%20-%20Guidance%20on%20mental%20health%20disclosures%20for%20student%20safety.md)
 - [&sect; 01161l&#8211;5 - Rule of construction](%C2%A7%2001161l%E2%80%935%20-%20Rule%20of%20construction.md)
+- [&sect; 01161l&#8211;6 - Online survey tool for campus safety](%C2%A7%2001161l%E2%80%936%20-%20Online%20survey%20tool%20for%20campus%20safety.md)

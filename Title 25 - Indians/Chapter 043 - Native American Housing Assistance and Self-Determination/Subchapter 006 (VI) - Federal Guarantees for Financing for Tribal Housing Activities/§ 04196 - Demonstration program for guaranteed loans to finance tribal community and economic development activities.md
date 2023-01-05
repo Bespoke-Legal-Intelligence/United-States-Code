@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), to the extent and in such amounts as are provided in appropriation Acts, subject to the requirements of this section, and in accordance with such terms and conditions as the Secretary may prescribe, the Secretary may guarantee and make commitments to guarantee the notes and obligations issued by Indian tribes or tribally designated housing entities with tribal approval, for the purposes of financing activities carried out on Indian reservations and in other Indian areas that, under the first sentence of section 5308(a) of title 42, are eligible for financing with notes and other obligations guaranteed pursuant to that section.
+&emsp;Subject to paragraph (2), to the extent and in such amounts as are provided in appropriation Acts, subject to the requirements of this section, and in accordance with such terms and conditions as the Secretary may prescribe, the Secretary may guarantee and make commitments to guarantee the notes and obligations issued by Indian tribes or tribally designated housing entities with tribal approval, for the purposes of financing activities carried out on Indian reservations and in other Indian areas that, under the first sentence of section 5308(a) of title 42, are eligible for financingwith notes and other obligations guaranteed pursuant to that section.
 
 #### (2) Limitation
 
@@ -48,7 +48,7 @@ A guarantee made under this section shall guarantee repayment of 95 percent of t
 
 &emsp;To ensure the repayment of notes and other obligations and charges incurred under this section and as a condition for receiving the guarantees, the Secretary shall require the Indian tribe or housing entity issuing the notes or obligations—
 
-&emsp;&emsp;(A) to enter into a contract, in a form acceptable to the Secretary, for repayment ofnotes or other obligations guaranteed under this section;
+&emsp;&emsp;(A) to enter into a contract, in a form acceptable to the Secretary, for repayment of notes or other obligations guaranteed under this section;
 
 &emsp;&emsp;(B) to demonstrate that the extent of each issuance and guarantee under this section is within the financial capacity of the Indian tribe; and
 

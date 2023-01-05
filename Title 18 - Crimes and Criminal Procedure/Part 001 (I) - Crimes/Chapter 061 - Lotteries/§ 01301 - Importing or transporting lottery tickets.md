@@ -20,7 +20,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" and inserted "or,being engaged in the business of procuring for a person in 1 State such a ticket, chance, share, or interest in a lottery, gift, enterprise or similar scheme conducted by another State (unless that business is permitted under an agreement between the States in question or appropriate authorities of those States), knowingly transmits in interstate or foreign commerce information to be used for the purpose of procuring such a ticket, chance, share, or interest;" after "scheme;".
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" and inserted "or, being engaged in the business of procuring for a person in 1 State such a ticket, chance, share, or interest in a lottery, gift, enterprise or similar scheme conducted by another State (unless that business is permitted under an agreement between the States in question or appropriate authorities of those States), knowingly transmits in interstate or foreign commerce information to be used for the purpose of procuring such a ticket, chance, share, or interest;" after "scheme;".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

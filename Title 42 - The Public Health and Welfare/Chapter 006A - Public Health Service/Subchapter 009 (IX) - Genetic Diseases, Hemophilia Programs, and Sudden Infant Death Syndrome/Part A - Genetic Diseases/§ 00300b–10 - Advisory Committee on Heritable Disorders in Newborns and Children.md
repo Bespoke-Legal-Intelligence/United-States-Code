@@ -16,7 +16,7 @@ The Advisory Committee shall—
 
 &emsp;(4) provide technical assistance, as appropriate, to individuals and organizations regarding the submission of nominations to the uniform screening panel, including prior to the submission of such nominations;
 
-&emsp;(5) take appropriate steps, at its discretion, to prepare for the review of nominations prior to their submission, including for conditions for which a screening method has been validated but other nomination criteria are notyet met, in order to facilitate timely action by the Advisory Committee once such submission has been received by the Committee;
+&emsp;(5) take appropriate steps, at its discretion, to prepare for the review of nominations prior to their submission, including for conditions for which a screening method has been validated but other nomination criteria are not yet met, in order to facilitate timely action by the Advisory Committee once such submission has been received by the Committee;
 
 &emsp;(6) develop a model decision-matrix for newborn screening expansion, including an evaluation of the potential public health impact, including the cost of such expansion, and periodically update the recommended uniform screening panel, as appropriate, based on such decision-matrix;
 
@@ -108,21 +108,21 @@ The Advisory Committee shall meet at least 4 times each calendar year, or at the
 
 #### (1) In general
 
-&emsp;Notwithstanding section 14 of the Federal Advisory Committee Act, the Advisory Committee shall continue to operate through the end of fiscal year 2019.
+&emsp;Notwithstanding section 1013 of title 5, the Advisory Committee shall continue to operate through the end of fiscal year 2019.
 
 #### (2) Continuation if not reauthorized
 
-&emsp;If at the end of fiscal year 2019 the duration of the Advisory Committee has not been extended by statute, the Advisory Committee may be deemed, for purposes of the Federal Advisory Committee Act, an advisory committee established by the President or an officer of the Federal Government under section 9(a) of such Act.
+&emsp;If at the end of fiscal year 2019 the duration of the Advisory Committee has not been extended by statute, the Advisory Committee may be deemed, for purposes of chapter 10 of title 5, an advisory committed <sup>1</sup> established by the President or an officer of the Federal Government under section 1008(a) of title 5.
 
-(July 1, 1944, ch. 373, title XI, §1111, as added Pub. L. 106–310, div. A, title XXVI, §2601, Oct. 17, 2000, 114 Stat. 1166; amended Pub. L. 110–204, §4, Apr. 24, 2008, 122 Stat. 706; Pub. L. 110–237, §1(a)(3), (b)(2), May 27, 2008, 122 Stat. 1556, 1557; Pub. L. 113–240, §4, Dec. 18, 2014, 128 Stat. 2853.)
+(July 1, 1944, ch. 373, title XI, §1111, as added Pub. L. 106–310, div. A, title XXVI, §2601, Oct. 17, 2000, 114 Stat. 1166; amended Pub. L. 110–204, §4, Apr. 24, 2008, 122 Stat. 706; Pub. L. 110–237, §1(a)(3), (b)(2), May 27, 2008, 122 Stat. 1556, 1557; Pub. L. 113–240, §4, Dec. 18, 2014, 128 Stat. 2853; Pub. L. 117–286, §4(a)(244), Dec. 27, 2022, 136 Stat. 4332.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (g)(1). Pub. L. 117–286, §4(a)(244)(A), substituted "section 1013 of title 5," for "section 14 of the Federal Advisory Committee Act,".
+
+Subsec. (g)(2). Pub. L. 117–286, §4(a)(244)(B), substituted "chapter 10 of title 5, an advisory committed established by the President or an officer of the Federal Government under section 1008(a) of title 5." for "the Federal Advisory Committee Act, an advisory committee established by the President or an officer of the Federal Government under section 9(a) of such Act."
 
 <b>2014</b>—Subsec. (b)(4), (5). Pub. L. 113–240, §4(1)(B), added pars. (4) and (5). Former pars. (4) and (5) redesignated (6) and (7), respectively.
 
@@ -172,7 +172,9 @@ Pub. L. 110–204, §4(3), added subsec. (g).
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment,unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the PublicHealth Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "committee".</i>
 

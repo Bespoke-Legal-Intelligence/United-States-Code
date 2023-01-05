@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the provisions of subsections (c) and (d) ofsection 727 of this title shall apply to any State plan submitted to the Administrator under section 796c of this title.
+&emsp;&emsp;Except as provided in subparagraph (B), the provisions of subsections (c) and (d) of section 727 of this title shall apply to any State plan submitted to the Administrator under section 796c of this title.
 
 #### (B) Application
 

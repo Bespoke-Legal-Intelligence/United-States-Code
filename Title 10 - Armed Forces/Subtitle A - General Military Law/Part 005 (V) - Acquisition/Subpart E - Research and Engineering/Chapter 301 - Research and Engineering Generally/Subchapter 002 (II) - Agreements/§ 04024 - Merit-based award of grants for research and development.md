@@ -32,7 +32,7 @@ A prior section 4024 was renumbered section 7374 of this title.
 
 Pub. L. 116–283, §1841(b)(1), as amended by Pub. L. 117–81, §1701(u)(2)(B), renumbered section 2374 of this title as this section.
 
-Subsecs. (a), (d). Pub. L. 116–283, §1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L.116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to "section 2303(a)", which was redesignated as multiple sections.
+Subsecs. (a), (d). Pub. L. 116–283, §1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to "section 2303(a)", which was redesignated as multiple sections.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

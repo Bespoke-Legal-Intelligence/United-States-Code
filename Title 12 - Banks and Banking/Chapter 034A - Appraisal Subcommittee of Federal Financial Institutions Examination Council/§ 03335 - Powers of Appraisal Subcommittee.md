@@ -18,7 +18,7 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub.L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by a comma.</i>
 

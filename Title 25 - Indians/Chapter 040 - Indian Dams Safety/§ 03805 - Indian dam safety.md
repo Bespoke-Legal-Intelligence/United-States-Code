@@ -126,7 +126,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), for each of fiscal years 2017 through 2030, the Secretarymay, to the extent provided in advance in appropriations Acts, expend from the Fund, in accordance with this section, not more than the sum of—
+&emsp;&emsp;&emsp;Subject to clause (ii), for each of fiscal years 2017 through 2030, the Secretary may, to the extent provided in advance in appropriations Acts, expend from the Fund, in accordance with this section, not more than the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) $10,000,000; and
 
@@ -180,7 +180,7 @@ In this section:
 
 #### (i) High-Hazard Fund
 
-&emsp;&emsp;&emsp;Consistent with subsection (b)(1)(B), the Secretary shall use or transfer to the Bureau of Indian Affairs not less than $22,750,000 of amounts in the High-Hazard Indian Dam Safety Deferred Maintenance Fund, plus accrued interest, for each of fiscal years 2017 through 2030 to carry out maintenance, repair, and replacement activities for 1 or more of the Indian dams described in paragraph (2)(A).
+&emsp;&emsp;&emsp;Consistent with subsection (b)(1)(B), the Secretary shall use or transfer to the Bureau of Indian Affairs not less than $22,750,000 of amounts in the High-Hazard Indian Dam Safety Deferred Maintenance Fund, plus accrued interest, for each of fiscal years 2017 through 2030 to carry outmaintenance, repair, and replacement activities for 1 or more of the Indian dams described in paragraph (2)(A).
 
 #### (ii) Low-Hazard Fund
 
@@ -218,7 +218,7 @@ In this section:
 
 #### (3) Requirements and conditions
 
-&emsp;Not later than 120 days after December 16, 2016, and as a precondition to amounts beingexpended from the Fund to carry out this subsection, the Secretary, in consultation with representatives of affected Indian tribes, shall develop and submit to Congress—
+&emsp;Not later than 120 days after December 16, 2016, and as a precondition to amounts being expended from the Fund to carry out this subsection, the Secretary, in consultation with representatives of affected Indian tribes, shall develop and submit to Congress—
 
 &emsp;&emsp;(A) programmatic goals to carry out this subsection that—
 
@@ -360,7 +360,7 @@ In this section:
 
 #### (D) Vacancies
 
-&emsp;&emsp;Any vacancy in the Committee shall not affect the powers of the Committee, but shall be filled in the same manner as the original appointment.
+&emsp;&emsp;Any vacancy in the Committee shall not affect the powers of the Committee, butshall be filled in the same manner as the original appointment.
 
 #### (E) Initial meeting
 
@@ -414,7 +414,7 @@ In this section:
 
 #### (C) Postal services
 
-&emsp;&emsp;The Committee may use the United States mails in the same manner and under thesame conditions as other departments and agencies of the Federal Government.
+&emsp;&emsp;The Committee may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 
 #### (D) Gifts
 
@@ -454,7 +454,7 @@ In this section:
 
 #### (D) Detail of Government employees
 
-&emsp;&emsp;Any Federal Government employee may be detailed to the Committee without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+&emsp;&emsp;Any Federal Government employee may be detailed to the Committee without reimbursement, and such detail shall be withoutinterruption or loss of civil service status or privilege.
 
 #### (E) Procurement of temporary and intermittent services
 
@@ -502,7 +502,7 @@ In this section:
 
 #### References in Text
 
-The Indian Dams Safety Act of 1994, referred to in subsecs. (c)(1)(C), (2)(A)(i), (B)(i), (3)(A)(i), (B)(vi) and (d)(2)(A), (B), is Pub. L. 103–302, Aug. 23, 1994, 108 Stat.1560, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of this title and Tables.
+The Indian Dams Safety Act of 1994, referred to in subsecs. (c)(1)(C), (2)(A)(i), (B)(i), (3)(A)(i), (B)(vi) and (d)(2)(A), (B), is Pub. L. 103–302, Aug. 23, 1994, 108 Stat. 1560, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A)(iii)(I)(bb), (B)(ii)(I)(bb), (5)(E), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 

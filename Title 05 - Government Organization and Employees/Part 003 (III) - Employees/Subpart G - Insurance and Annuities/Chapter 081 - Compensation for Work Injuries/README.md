@@ -54,6 +54,7 @@
 | [8142\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008142%20-%20Peace%20Corps%20volunteers.md) | Peace Corps volunteers. |
 | [8143\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008143%20-%20Job%20Corps%20enrollees%3B%20volunteers%20in%20service%20to%20America.md) | Job Corps enrollees; volunteers in service to America. |
 | [8143a.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008143a%20-%20Members%20of%20the%20National%20Teacher%20Corps.md) | Members of the National Teacher Corps. |
+| [8143b.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008143b%20-%20Employees%20in%20fire%20protection%20activities.md) | Employees in fire protection activities. |
 | [8144\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008144%20-%20Student-employees.md) | Student-employees. |
 | [8145\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008145%20-%20Administration.md) | Administration. |
 | [8146\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2008146%20-%20Administration%20for%20the%20Panama%20Canal%20Commission%20and%20The%20Alaska%20Railroad.md) | Administration for the Panama Canal Commission and The Alaska Railroad. |
@@ -90,6 +91,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. E, title LIII, §5305(a)(1)(B), Dec. 23, 2022, 136 Stat. 3253, which directed amendment of the analysis for subchapter I of this chapter by adding item 8143b, was executed by adding item 8143b to the analysis for this chapter to reflect the probable intent of Congress.
 
 <b>2008</b>—Pub. L. 110–181, div. A, title XI, §1105(b), Jan. 28, 2008, 122 Stat. 349, added item 8102a.
 

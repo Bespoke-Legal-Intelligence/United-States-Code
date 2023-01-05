@@ -16,7 +16,7 @@ The Secretary is authorized and required to make the inquiries, determinations, 
 
 #### (B) Check or money order not duly paid
 
-&emsp;&emsp;In any case in which a check or money order received under authority of section 6311 as payment for stamps is not duly paid, the unpaid amount may be immediately assessed as if it were a tax imposed by this title, due at the time of such receipt, from the person who tendered such check or money order.
+&emsp;&emsp;In any case in which a check or money order received under authority of section 6311 as payment for stamps is not duly paid,the unpaid amount may be immediately assessed as if it were a tax imposed by this title, due at the time of such receipt, from the person who tendered such check or money order.
 
 #### (3) Erroneous income tax prepayment credits
 
@@ -114,7 +114,7 @@ Pub. L. 111–237, §3(c), Aug. 16, 2010, 124 Stat. 2498, provided that: "The am
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–168, title VI, §602(b), July 30, 1996, 110 Stat. 1463, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effecton the date of the enactment of this Act \[July 30, 1996\]."
+Pub. L. 104–168, title VI, §602(b), July 30, 1996, 110 Stat. 1463, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 30, 1996\]."
 
 #### Effective Date of 1988 Amendment
 

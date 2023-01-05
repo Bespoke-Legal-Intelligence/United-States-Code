@@ -2,13 +2,13 @@
 
 (a)
 
-In General.—A citizen of the United States owning or leasing an eligible vessel maymake an agreement with the Secretary under this chapter to establish a capital construction fund for the vessel.
+In General.—A citizen of the United States owning or leasing an eligible vessel may make an agreement with the Secretary under this chapter to establish a capital construction fund for the vessel.
 
 (b)
 
-Allowable Purpose.—The purpose of the agreement shall be to provide replacement vessels, additional vessels, or reconstructed vessels, built in the United States and documented under the laws of the United States, for operation in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade or in the fisheries of the United States.
+Allowable Purpose.—The purpose of the agreement shall be to provide replacement vessels, additional vessels, or reconstructed vessels, built in the United States and documented under the laws of the United States, for operation in the foreign or domestic trade of the United States or in the fisheries of the United States.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1593; Pub. L. 110–140, title XI, §1122(b), Dec. 19, 2007, 121 Stat. 1762.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1593; Pub. L. 110–140, title XI, §1122(b), Dec. 19, 2007, 121 Stat. 1762; Pub. L. 117–263, div. C, title XXXV, §3545, Dec. 23, 2022, 136 Stat. 3100.)
 
 Historical and Revision Notes
 
@@ -33,6 +33,8 @@ June 29, 1936, ch. 858, title VI, §607(a) (1st sentence), (2d sentence related 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–263 substituted "foreign or domestic trade of the United States" for "United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade".
 
 <b>2007</b>—Subsec. (b). Pub. L. 110–140 substituted "noncontiguous domestic, or short sea transportation trade" for "or noncontiguous domestic trade".
 

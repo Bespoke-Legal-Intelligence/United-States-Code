@@ -34,7 +34,7 @@ Penalty.—Whoever is fined or imprisoned under subsection (a) as a result of an
 
 (d)
 
-Penalty When Death Results.—Whoever is convicted of any crime prohibited by subsection (a) and intended to cause death by theprohibited conduct, if the conduct resulted in the death of any person, shall be subject also to the death penalty or to a term of imprisonment for a period up to life.
+Penalty When Death Results.—Whoever is convicted of any crime prohibited by subsection (a) and intended to cause death by the prohibited conduct, if the conduct resulted in the death of any person, shall be subject also to the death penalty or to a term of imprisonment for a period up to life.
 
 (e)
 

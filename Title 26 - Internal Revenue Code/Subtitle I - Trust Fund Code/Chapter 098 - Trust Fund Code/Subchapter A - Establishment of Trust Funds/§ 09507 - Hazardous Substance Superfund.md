@@ -70,7 +70,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 #### (B) Final repayment
 
-&emsp;&emsp;No advance shall be made to the Superfund after December 31, 1995, and all advances to such Fund shall be repaid on or before such date.
+&emsp;&emsp;No advance shall be made to the Superfund after December 31, 2032, and all advances tosuch Fund shall be repaid on or before such date.
 
 #### (C) Rate of interest
 
@@ -90,7 +90,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 &emsp;If at any time the Superfund has insufficient funds to pay all of the claims payable out of the Superfund at such time, such claims shall, to the extent permitted under paragraph (1), be paid in full in the order in which they were finally determined.
 
-(Added Pub. L. 99–499, title V, §517(a), Oct. 17, 1986, 100 Stat. 1772; amended Pub. L. 99–509, title VIII, §8032(c)(4), Oct. 21, 1986, 100 Stat. 1959; Pub. L. 101–508, title XI, §11231(c), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 113–295, div. A, title II, §221(a)(12)(L), Dec. 19, 2014, 128 Stat. 4039.)
+(Added Pub. L. 99–499, title V, §517(a), Oct. 17, 1986, 100 Stat. 1772; amended Pub. L. 99–509, title VIII, §8032(c)(4), Oct. 21, 1986, 100 Stat. 1959; Pub. L. 101–508, title XI, §11231(c), Nov. 5, 1990, 104 Stat. 1388–445; Pub. L. 113–295, div. A, title II, §221(a)(12)(L), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 117–169, title I, §13601(b), Aug. 16, 2022, 136 Stat. 1982.)
 
 #### <b>Editorial Notes</b>
 
@@ -98,7 +98,7 @@ There are hereby appropriated to the Superfund amounts equivalent to—
 
 Section 517(b) of the Superfund Revenue Act of 1986, referred to in subsec. (a)(2), is section 517(b) of Pub. L. 99–499, which is set out as a note under this section.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980 and CERCLA, referred to in subsecs. (b)(2), (4), (5), (c)(1)(A), and (e)(2), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. Title I of CERCLA is classified to subchapter I (§9601 et seq.) of chapter 103 of Title 42. Sections 107(c)(3) and 111(a)(1), (2), (5), and (6), (c), and (m) of CERCLA are classified to sections 9607(c)(3) and 9611(a)(1), (2), (5), and (6), (c), and (m) of Title 42, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980 and CERCLA, referred to in subsecs. (b)(2), (4), (5), (c)(1)(A), and (e)(2), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. Title I of CERCLA is classified to subchapter I (§9601 et seq.) of chapter 103 of Title 42. Sections 107(c)(3) and 111(a)(1), (2), (5), and (6), (c), and (m) of CERCLA are classified to sections 9607(c)(3) and 9611(a)(1), (2), (5), and (6), (c), and (m) of Title 42, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 Section 311(b)(6)(B) of the Clean Water Act, referred to in subsec. (b)(3), which was classified to section 1321(b)(6)(B) of Title 33, Navigation and Navigable Waters, and which related to civil actions by the Administrator to impose penalties for prohibited discharges was struck out by Pub. L. 101–380, title IV, §4301(b), Aug. 18, 1990, 104 Stat. 533, which added a new section 311(b)(6)(B) relating to classes of civil penalties imposed by the Secretary of the department in which the Coast Guard is operating or the Administrator for prohibited discharges or violations of regulations.
 
@@ -110,6 +110,8 @@ The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec.
 
 #### Amendments
 
+<b>2022</b>—Subsec. (d)(3)(B). Pub. L. 117–169 substituted "December 31, 2032" for "December 31, 1995".
+
 <b>2014</b>—Subsec. (b)(1). Pub. L. 113–295 struck out "59A," before "4611,".
 
 <b>1990</b>—Subsec. (d)(3)(B). Pub. L. 101–508 substituted "December 31, 1995" for "December 31, 1991".
@@ -117,6 +119,10 @@ The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec.
 <b>1986</b>—Subsec. (b). Pub. L. 99–509 inserted at end "In the case of the tax imposed by section 4611, paragraph (1) shall apply only to so much of such tax as is attributable to the Hazardous Substance Superfund financing rate under section 4611(c)."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–169 effective Jan. 1, 2023, see section 13601(c) of Pub. L. 117–169, set out as a note under section 4611 of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -140,7 +146,13 @@ Superfund treated as continuation of old trust fund.—The Hazardous Substance S
 
 #### Availability of Funds
 
-Pub. L. 117–58, div. J, title VI, §613, Nov. 15, 2021, 135 Stat. 1406, provided that: "For this fiscal year \[Fiscal Year 2022\] and each fiscal year thereafter, such sums as are available in the Hazardous Substance Superfund established under section 9507 of the Internal Revenue Code of 1986 at the end of the preceding fiscal year from taxes received in the Treasury under subsection (b)(1) of such section shall be available, without further appropriation, to be used to carry out the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.)."
+Pub. L. 117–328, div. G, title IV, §443(b), (c), Dec. 29, 2022, 136 Stat. 4833, provided that:
+
+"(b) For this fiscal year \[Fiscal Year 2023\] and each fiscal year thereafter, such sums as are available in the Hazardous Substance Superfund established under section 9507 of the Internal Revenue Code of 1986 at the end of the preceding fiscal year from taxes received in theTreasury under subsection (b)(1) of such section shall be available, without further appropriation, to remain available until expended, to be used to carry out the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.): <i>Provided</i>, That the amount provided by this subsection is designated by the Congress as being for an emergency requirement pursuant to section 4001(a)(1) of S. Con. Res. 14 (117th Congress), the concurrent resolution on the budget for fiscal year 2022, and section 1(e) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022.
+
+"(c) Expenditures made pursuant to section 613 of title VI of division J of Public Law 117–58 \[see below\] shall be charged to the appropriation in subsection (b)."
+
+Pub. L. 117–58, div. J, title VI, §613, Nov. 15, 2021, 135 Stat. 1406, which provided that in fiscal year 2022 and thereafter, sums available in the Hazardous Substance Superfund under section 9507 at the end of the preceding fiscal year from taxes received in the Treasury under subsection (b)(1) of such section would be available without further appropriation to carry out the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, was repealed by Pub. L. 117–328, div. G, title IV, §443(a), Dec. 29, 2022, 136 Stat. 4833.
 
 #### Authorization of Appropriations
 
@@ -166,7 +178,7 @@ Pub. L. 99–499, title V, §517(b), Oct. 17, 1986, 100 Stat. 1773, as amended b
 
 > plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 \[probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to 42 U.S.C. 9631(b)(2) before its repeal by section 517(c)(1) of Pub. L. 99–499\], as in effect before its repeal) as has not been appropriated before the beginning of the fiscal year involved."
 
-\[Pub. L. 101–508, title XI, §11231(d), Nov. 5, 1990, 104 Stat. 1388–445, directed that section 517(b) of Pub. L.99–499, set out above, be "amended by striking 'and' at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ', and', and by adding at the end thereof" new pars. (6) to (9), with par. (9) ending in a period. Pub. L. 104–188, title I, §1704(t)(44), Aug. 20, 1996, 110 Stat. 1889, provided that section 11231(d) of Pub. L. 101–508 "shall be applied as if 'comma' appeared instead of 'period' \[in the directory language amending section 517(b)(5) of Pub. L. 99–499\] and as if the paragraph (9) proposed to be added ended with a comma".\]
+\[Pub. L. 101–508, title XI, §11231(d), Nov. 5, 1990, 104 Stat. 1388–445, directed that section 517(b) of Pub. L. 99–499, set out above, be "amended by striking 'and' at the end of paragraph (4), by striking the period at the end of paragraph (5) and inserting ', and', and by adding at the end thereof" new pars. (6) to (9), with par. (9) ending in a period. Pub. L. 104–188, title I, §1704(t)(44), Aug. 20, 1996, 110 Stat. 1889, provided that section 11231(d) of Pub. L. 101–508 "shall be applied as if 'comma' appeared instead of 'period' \[in the directory language amending section 517(b)(5) of Pub. L. 99–499\] and as if the paragraph (9) proposed to be added ended with a comma".\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -112,7 +112,7 @@ Definition of inherently governmental function.—In this paragraph, the term "i
 
 &emsp;(4)
 
-Disclosure.—The Commandant of the Coast Guard shall de-identify information prior to release to the public, including near miss incidents.
+Disclosure.—The Commandant of the Coast Guard shall de-identify informationprior to release to the public, including near miss incidents.
 
 (e)
 
@@ -428,7 +428,7 @@ Considerations.—In identifying measures under subsection (a) with respect to a
 
 &emsp;"(2) the Secretary has made a determination that safety concerns exist in the channel and that the proposed measures will remedy those concerns without significant impacts to the navigable capacity of the channel; and
 
-&emsp;"(3) the measures are consistent with any recommendations made by the Commandant of the Coast Guard to ensure the safety of vessels operating in the channel and the safety of the passengers and crew aboard such vessels.
+&emsp;"(3) the measures are consistent with any recommendations made by the Commandant of the Coast Guard to ensure the safety of vessels operatingin the channel and the safety of the passengers and crew aboard such vessels.
 
 "(c)
 

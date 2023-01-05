@@ -90,7 +90,7 @@
 
 (4) A designated Coast Guard official who has reason to believe that a vessel issued a permit is in a condition or is operated in a manner that creates an immediate threat to the safety of life or the environment or is operated in a manner that is inconsistent with the terms of the permit, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge.
 
-(5) If a vessel issued a permit creates an immediate threat to the safety of life or the environment, or is operated in a manner inconsistent with the terms of the permit or the requirements of paragraph (2) of this subsection, the permit may be revoked. The owner, charterer,managing operator, agent, master, or individual in charge of a vessel issued a permit, that willfully permits the vessel to be operated, or operates, the vessel in a manner inconsistent with the terms of the permit, is liable to the United States Government for a civil penalty of not more than $1,000.
+(5) If a vessel issued a permit creates an immediate threat to the safety of life or the environment, or is operated in a manner inconsistent with the terms of the permit or the requirements of paragraph (2) of this subsection, the permit may be revoked. The owner, charterer, managing operator, agent, master, or individual in charge of a vessel issued a permit, that willfully permits the vessel to be operated, or operates, the vessel in a manner inconsistent with the terms of the permit, is liable to the United States Government for a civil penalty of not more than $1,000.
 
 (j) Notwithstanding another provision of this chapter, the Secretary is not required to inspect or prescribe regulations for a nautical school vessel of not more than 15 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
@@ -122,7 +122,7 @@
 
 (3) A designated Coast Guard official who has reason to believe that a vessel operating under this subsection is in a condition or is operated in a manner that creates an immediate threat to life or the environment or is operated in a manner that is inconsistent with this section, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge.
 
-(m) A seagoing barge is not subject to inspection under section 3301(6) of this title if the vessel is unmanned and does not carry—
+(m) A seagoing barge or a Great Lakes barge is not subject to inspection under paragraph (6) or (13) of section 3301 of this title if the vessel is unmanned and does not carry—
 
 &emsp;(1) a hazardous material as cargo; or
 
@@ -138,7 +138,7 @@
 
 (2) This subsection shall apply only on and after the effective date of regulations referred to in paragraph (1)(C).
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098; Pub. L. 109–241, title III, §311, July 11, 2006, 120 Stat. 530; Pub. L. 109–304, §15(11), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 115–232, div. C, title XXXV, §§3529(b), 3546(c), Aug. 13, 2018, 132 Stat. 2319, 2326.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098; Pub. L. 109–241, titleIII, §311, July 11, 2006, 120 Stat. 530; Pub. L. 109–304, §15(11), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 115–232, div. C, title XXXV, §§3529(b), 3546(c), Aug. 13, 2018, 132 Stat. 2319, 2326; Pub. L. 117–263, div. K, title CXII, §11216, Dec. 23, 2022, 136 Stat. 4017.)
 
 Historical and Revision Notes
 
@@ -165,6 +165,8 @@ Section 3302 does three things. It makes clear that a vessel included in one of 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (m). Pub. L. 117–263, in introductory provisions, inserted "or a Great Lakes barge" after "seagoing barge" and substituted "paragraph (6) or (13) of section 3301 of this title" for "section 3301(6) of this title".
 
 <b>2018</b>—Subsec. (g)(2). Pub. L. 115–232, §3546(c), substituted "This" for "After December 31, 1988, this".
 

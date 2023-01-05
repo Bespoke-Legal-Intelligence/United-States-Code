@@ -14,13 +14,13 @@ In carrying out its mission, the Office shall have the following duties:
 
 &emsp;(1) To provide recommendations and advice to the Attorney General.
 
-&emsp;(2) To establish and maintain advisory groups (which shall be exempt from the provisions of the Federal Advisory Committee Act (5 U.S.C. App.)) to assess the law enforcement technology needs of Federal, State, and local law enforcement agencies.
+&emsp;(2) To establish and maintain advisory groups (which shall be exempt from the provisions of chapter 10 of title 5) to assess the law enforcement technology needs of Federal, State, and local law enforcement agencies.
 
 &emsp;(3) To establish and maintain performance standards in accordance with the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113) for, and test and evaluate law enforcement technologies that may be used by, Federal, State, and local law enforcement agencies.
 
 &emsp;(4) To establish and maintain a program to certify, validate, and mark or otherwise recognize law enforcement technology products that conform to standards established and maintained by the Office in accordance with the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113). The program may, at the discretion of the Office, allow for supplier's declaration of conformity with such standards.
 
-&emsp;(5) To work with other entities within the Department of Justice, other Federal agencies, and the executive office of the Presidentto establish a coordinated Federal approach on issues related to law enforcement technology.
+&emsp;(5) To work with other entities within the Department of Justice, other Federal agencies, and the executive office of the President to establish a coordinated Federal approach on issues related to law enforcement technology.
 
 &emsp;(6) To carry out research, development, testing, evaluation, and cost-benefit analyses in fields that would improve the safety, effectiveness, and efficiency of law enforcement technologies used by Federal, State, and local law enforcement agencies, including, but not limited to—
 
@@ -92,13 +92,11 @@ The Director of the Office shall include with the budget justification materials
 
 &emsp;(2) For the fiscal year preceding the fiscal year for which such budget is submitted, a description of the activities carried out by the Office and an evaluation of the extent to which those activities successfully meet the needs assessed under paragraph (1)(A) in previous reports.
 
-(Pub. L. 107–296, title II, §232, Nov. 25, 2002, 116 Stat. 2159; Pub. L. 108–7, div. L, §103(1), Feb. 20, 2003, 117 Stat. 529.)
+(Pub. L. 107–296, title II, §232, Nov. 25, 2002, 116 Stat. 2159; Pub. L. 108–7, div. L, §103(1), Feb. 20, 2003, 117 Stat. 529; Pub. L. 117–286, §4(a)(13), Dec. 27, 2022, 136 Stat. 4306.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (b)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The National Technology Transfer and Advancement Act of 1995, referred to in subsec. (b)(3), (4), is Pub. L. 104–113, Mar. 7, 1996, 110 Stat. 775, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 3701 of Title 15, Commerce and Trade, and Tables.
 
@@ -106,5 +104,7 @@ Section 605 of Public Law 107–77, referred to in subsec. (f), is section 605 o
 
 #### Amendments
 
-<b>2003</b>—Subsec. (f). Pub. L. 108–7 inserted before period at end ": <i>Provided</i>, That any such transfer or provisionof funding shall be carried out in accordance with section 605 of Public Law 107–77".
+<b>2022</b>—Subsec. (b)(2). Pub. L. 117–286 substituted "chapter 10 of title 5)" for "the Federal Advisory Committee Act (5 U.S.C. App.))".
+
+<b>2003</b>—Subsec. (f). Pub. L. 108–7 inserted before period at end ": <i>Provided</i>, That any such transfer or provision of funding shall be carried out in accordance with section 605 of Public Law 107–77".
 

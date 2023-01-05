@@ -14,7 +14,7 @@ The Secretary shall not issue any lease under this chapter or under the Geotherm
 
 #### (b) Exploration
 
-In the case of any area of National Forest or public lands subject to this section, nothing in this section shall affect any authority of theSecretary of the Interior (or for National Forest Lands reserved from the public domain, the Secretary of Agriculture) to issue permits for exploration for oil and gas, coal, oil shale, phosphate, potassium, sulphur, gilsonite or geothermal resources by means not requiring construction of roads or improvement of existing roads if such activity is conducted in a manner compatible with the preservation of the wilderness environment.
+In the case of any area of National Forest or public lands subject to this section, nothing in this section shall affect any authority of the Secretary of the Interior (or for National Forest Lands reserved from the public domain, the Secretary of Agriculture) to issue permits for exploration for oil and gas, coal, oil shale, phosphate, potassium, sulphur, gilsonite or geothermal resources by means not requiring construction of roads or improvement of existing roads if such activity is conducted in a manner compatible with the preservation of the wilderness environment.
 
 (Feb. 25, 1920, ch. 85, §43, as added Pub. L. 100–203, title V, §5112, Dec. 22, 1987, 101 Stat. 1330–262; amended Pub. L. 100–443, §5(c), Sept. 22, 1988, 102 Stat. 1768.)
 
@@ -22,7 +22,7 @@ In the case of any area of National Forest or public lands subject to this secti
 
 #### References in Text
 
-The Geothermal Steam Act of 1970, referred to in subsec. (a), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (a), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 etseq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 

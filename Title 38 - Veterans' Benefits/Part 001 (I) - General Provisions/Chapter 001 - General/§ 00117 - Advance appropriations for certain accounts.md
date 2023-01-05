@@ -82,7 +82,7 @@ Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than 120 days after the date of each year in 2011, 2012, and 2013, on which the President submits the budget request for the next fiscal year under section 1105 of title 31, United States Code, the Comptroller General shall submit to the Committees on Veterans' Affairs, Appropriations, and the Budget of the Senate and the Committees on Veterans' Affairs, Appropriations, and the Budget of the House of Representatives and to the Secretary a report on the review conducted under subsection (a).
+In general.—Not later than 120 days after the date of each year in 2011, 2012, and 2013, on which the President submits the budget request for the next fiscal year under section 1105 of title 31, United States Code, the Comptroller General shall submit to the Committees on Veterans' Affairs, Appropriations, andthe Budget of the Senate and the Committees on Veterans' Affairs, Appropriations, and the Budget of the House of Representatives and to the Secretary a report on the review conducted under subsection (a).
 
 &emsp;"(2)
 

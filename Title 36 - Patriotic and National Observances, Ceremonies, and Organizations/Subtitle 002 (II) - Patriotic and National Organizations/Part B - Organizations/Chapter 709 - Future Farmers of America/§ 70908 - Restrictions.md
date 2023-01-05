@@ -6,7 +6,7 @@ Stock and Dividends.—The FFA may not issue stock or declare or pay a dividend.
 
 (b)
 
-Political Activities.—The FFA or a director, officer, or member acting on behalf of theFFA may not contribute to, support, or assist a political party or candidate for elective public office.
+Political Activities.—The FFA or a director, officer, or member acting on behalf of the FFA may not contribute to, support, or assist a political party or candidate for elective public office.
 
 (c)
 

@@ -36,7 +36,7 @@ The Secretary may make grants or contracts under this section to help entities f
 
 #### (A) In general
 
-&emsp;&emsp;An applicant shall not use more than 10 percent of the funds made available to suchapplicant under subsection (a) for administrative expenses.
+&emsp;&emsp;An applicant shall not use more than 10 percent of the funds made available to such applicant under subsection (a) for administrative expenses.
 
 #### (B) Training
 

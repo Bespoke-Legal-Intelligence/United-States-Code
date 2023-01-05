@@ -174,7 +174,7 @@ Subsec. (g)(2)(B)(ii). Pub. L. 108–311 substituted "1276" for "1278".
 
 <b>1997</b>—Subsec. (a)(1)(H). Pub. L. 105–34 added subpar. (H).
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11801(a)(16), struck out subsec. (b) "Expenditures for advertising and good will" which read as follows: "If a corporation has, for the purpose of computing its excess profits tax credit under chapter 2E or subchapter D of chapter 1 of the Internal Revenue Code of 1939 claimed the benefits of the election provided in section 733 or section 451 of such code, as the case may be, no deduction shall be allowable under section 162 to such corporation for expenditures for advertising or the promotion of good will which, under the rules and regulations prescribed under section 733 or section 451 of such code, as the case may be, may be regarded as capital investments."
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, §11801(a)(16), struck out subsec. (b) "Expenditures for advertising and good will" which read as follows: "If a corporation has, forthe purpose of computing its excess profits tax credit under chapter 2E or subchapter D of chapter 1 of the Internal Revenue Code of 1939 claimed the benefits of the election provided in section 733 or section 451 of such code, as the case may be, no deduction shall be allowable under section 162 to such corporation for expenditures for advertising or the promotion of good will which, under the rules and regulations prescribed under section 733 or section 451 of such code, as the case may be, may be regarded as capital investments."
 
 Subsec. (c). Pub. L. 101–508, §11815(b)(3), substituted "section 613(e)(2)" for "section 613(e)(3)".
 
@@ -216,7 +216,7 @@ Subsec. (g). Pub. L. 97–34, §502, added subsec. (g).
 
 Subsec. (a)(3). Pub. L. 94–455, §1904(b)(10)(A)(i)(I), struck out par. (3) which provided that no deduction be allowed for amounts paid as tax under section 4911 (relating to imposition of interest equalization tax) except as provided in subsec. (d).
 
-Subsec. (d). Pub. L. 94–455, §§1904(b)(10)(A)(i)(I), (II), 1906(b)(13)(A), redesignated subsec. (e) as (d) and struck out "or his delegate" after "Secretary" and substituted"subsection (e)" for "subsection (f)". Former subsec. (d) was struck out.
+Subsec. (d). Pub. L. 94–455, §§1904(b)(10)(A)(i)(I), (II), 1906(b)(13)(A), redesignated subsec. (e) as (d) and struck out "or his delegate" after "Secretary" and substituted "subsection (e)" for "subsection (f)". Former subsec. (d) was struck out.
 
 Subsec. (e). Pub. L. 94–455, §§1904(b)(10)(A)(i)(I), 1906(b)(13)(A), redesignated subsec. (f) as (e) and struck out "or his delegate" after "Secretary". Former subsec. (e) redesignated (d).
 
@@ -266,7 +266,7 @@ Pub. L. 105–34, title XVI, §1604(a)(4), Aug. 5, 1997, 111 Stat. 1097, provide
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -346,7 +346,7 @@ Pub. L. 91–172, title VII, §706(b), Dec. 30, 1969, 83 Stat. 674, provided tha
 
 Pub. L. 89–243, §4(p)(3), Oct. 9, 1965, 79 Stat. 965, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after September 2, 1964."
 
-Pub. L. 89–243, §4(q), Oct. 9, 1965, 79 Stat. 965, provided in part that: "Except as otherwise specifically provided in this section and in the amendments made by this section \[amending this section and sections 4912, 4914, 4916, 4917, 4919, 4920, and 4931 of this title\], such amendments shall apply with respect to acquisitions of stock and debt obligations made after February 10, 1965."
+Pub. L. 89–243, §4(q), Oct. 9, 1965, 79 Stat. 965, provided in part that: "Except as otherwise specifically provided in this section and in the amendments made by this section \[amending this section and sections 4912, 4914,4916, 4917, 4919, 4920, and 4931 of this title\], such amendments shall apply with respect to acquisitions of stock and debt obligations made after February 10, 1965."
 
 #### Effective Date of 1962 Amendment
 

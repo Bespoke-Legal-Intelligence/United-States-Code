@@ -70,7 +70,7 @@ Subsec. (e). Pub. L. 94–482, §405(e), substituted "regulation" for "standard,
 
 Subsec. (g). Pub. L. 94–482, §405(f), substituted "final regulations" for "rules, regulations, and guidelines" wherever appearing.
 
-<b>1975</b>—Subsec. (d)(1). Pub. L. 94–142, §7(a)(1), (b), inserted "final" before "standard" wherever appearing in existing provisions and inserted provisions covering the effect of the failure of Congress to adopt the concurrent resolution with respect to any final standard, rule, regulation, or requirement.
+<b>1975</b>—Subsec. (d)(1). Pub. L. 94–142, §7(a)(1), (b), inserted "final" before "standard" wherever appearing in existing provisions and inserted provisions covering the effect of the failure of Congress to adopt the concurrentresolution with respect to any final standard, rule, regulation, or requirement.
 
 Subsec. (d)(2). Pub. L. 94–142, §7(a)(2), (3), substituted "objection to the final standard" for "objection to the proposed standard", "effective date of the final standard" for "effective date of the standard", and "In no event shall the final standard" for "In no event shall the standard".
 

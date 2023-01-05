@@ -2,7 +2,7 @@
 
 The Chief of the Veterinary Corps of the Army shall be appointed from among officers of the Veterinary Corps.
 
-(Added Pub. L. 107–314, div. A, title V, §504(b)(1), Dec. 2, 2002, 116 Stat. 2531, §3084; amended Pub. L. 108–136, div. A, title V, §502(a), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title X, §1056(c)(11), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 114–328, div. A, title V, §502(r)(1), (2), Dec. 23, 2016, 130 Stat. 2104; Pub. L. 115–91, div. A, title V,§506(b), Dec. 12, 2017, 131 Stat. 1374; renumbered §7084, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838.)
+(Added Pub. L. 107–314, div. A, title V, §504(b)(1), Dec. 2, 2002, 116 Stat. 2531, §3084; amended Pub. L. 108–136, div. A, title V, §502(a), Nov. 24, 2003, 117 Stat. 1456; Pub. L. 109–163, div. A, title X, §1056(c)(11), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 114–328, div. A, title V, §502(r)(1), (2), Dec. 23, 2016, 130 Stat. 2104; Pub. L. 115–91, div. A, title V, §506(b), Dec. 12, 2017, 131 Stat. 1374; renumbered §7084, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838.)
 
 #### <b>Editorial Notes</b>
 

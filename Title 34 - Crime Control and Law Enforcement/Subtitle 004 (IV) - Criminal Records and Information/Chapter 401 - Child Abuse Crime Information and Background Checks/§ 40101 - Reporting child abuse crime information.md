@@ -24,7 +24,7 @@ In each State, an authorized criminal justice agency of the State shall report c
 
 #### (c) Liaison
 
-An authorized agency of a State shall maintain close liaison with the National Center on Child Abuse and Neglect, the National Center for Missing and Exploited Children, and the National Center for the Prosecution of Child Abuse for the exchange of technical assistance in cases of child abuse.
+An authorized agency of a State shall maintain close liaison with the National Center on Child Abuse and Neglect, the National Center for Missing and Exploited Children, and the National Center for the Prosecution of Child Abusefor the exchange of technical assistance in cases of child abuse.
 
 #### (d) Annual summary
 
@@ -38,7 +38,7 @@ The Attorney General shall, subject to the availability of appropriations, publi
 
 #### (f) Study of child abuse offenders
 
-(1) Not later than 180 days after December 20, 1993, the Administrator of the Office of JuvenileJustice and Delinquency Prevention shall begin a study based on a statistically significant sample of convicted child abuse offenders and other relevant information to determine—
+(1) Not later than 180 days after December 20, 1993, the Administrator of the Office of Juvenile Justice and Delinquency Prevention shall begin a study based on a statistically significant sample of convicted child abuse offenders and other relevant information to determine—
 
 &emsp;(A) the percentage of convicted child abuse offenders who have more than 1 conviction for an offense involving child abuse;
 

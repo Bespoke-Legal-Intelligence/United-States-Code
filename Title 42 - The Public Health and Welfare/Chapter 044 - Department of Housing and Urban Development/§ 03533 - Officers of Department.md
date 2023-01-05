@@ -8,7 +8,7 @@
 
 #### (b) Federal Housing Commissioner
 
-There shall be in the Department a Federal Housing Commissioner, who shall be one of the Assistant Secretaries, who shall head a FederalHousing Administration within the Department, who shall have such duties and powers as may be prescribed by the Secretary, and who shall administer, under the supervision and direction of the Secretary, departmental programs relating to the private mortgage market. The Secretary shall ensure, to the extent practicable, that managers of Federal Housing Administration programs, at each level of the Department, shall be accountable for program operation, risk management, management of cash and other Federal assets, and program financing related to activities over which such managers have responsibility.
+There shall be in the Department a Federal Housing Commissioner, who shall be one of the Assistant Secretaries, who shall head a Federal Housing Administration within the Department, who shall have such duties and powers as may be prescribed by the Secretary, and who shall administer, under the supervision and direction of the Secretary, departmental programs relating to the private mortgage market. The Secretary shall ensure, to the extent practicable, that managers of Federal Housing Administration programs, at each level of the Department, shall be accountable for program operation, risk management, management of cash and other Federal assets, and program financing related to activities over which such managers have responsibility.
 
 #### (c) Director of Urban Program Coordination; designation; powers and duties; studies of urban and community problems and recommendations for administration of Federal programs affecting such problems
 
@@ -72,7 +72,7 @@ There shall be in the Department a Federal Housing Administration Comptroller, d
 
 #### (B) Specific functions
 
-&emsp;&emsp;The Director shall carry out the functions assigned to the Director and the Office under this section and any other provisions of law. Such functions shall include establishing rules necessary for—
+&emsp;&emsp;The Director shall carry out the functions assigned to the Director and the Office underthis section and any other provisions of law. Such functions shall include establishing rules necessary for—
 
 &emsp;&emsp;&emsp;(i) the counseling procedures under section 1701x(g)(1) of title 12;
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months afterthe designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
 #### Effective Date of 1990 Amendment; Continued Service by Incumbents
 
@@ -232,7 +232,7 @@ Amendment by Pub. L. 101–509 effective on first day of first pay period that b
 
 #### Effective Date; Interim Appointments
 
-Nomination and appointment of Under Secretary, Assistant Secretaries, General Counsel, Federal Housing Commissioner, and Assistant Secretary for Administration of Department of Housing and Urban Development any time after Sept. 9, 1965, and interim designation and compensation of officers of Housing and Home Finance Agency for those offices upon non-entry upon the offices upon expiration of first period of sixty calendar days following Sept. 9, 1965 or on earlier date specified by Executive order, see section 11 of Pub. L. 89–174, set out as a note under section 3531 of this title.
+Nomination and appointment of Under Secretary, Assistant Secretaries, General Counsel, Federal Housing Commissioner, and Assistant Secretary for Administration of Department of Housing and Urban Development any time after Sept. 9, 1965, and interim designationand compensation of officers of Housing and Home Finance Agency for those offices upon non-entry upon the offices upon expiration of first period of sixty calendar days following Sept. 9, 1965 or on earlier date specified by Executive order, see section 11 of Pub. L. 89–174, set out as a note under section 3531 of this title.
 
 #### Transfer of Position in Office of Deputy Assistant Secretary for Special Needs
 

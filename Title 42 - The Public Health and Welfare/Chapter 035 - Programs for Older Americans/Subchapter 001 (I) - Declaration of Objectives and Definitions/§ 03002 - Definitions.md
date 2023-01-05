@@ -18,7 +18,7 @@ For the purposes of this chapter—
 
 &emsp;(4) The term "Aging and Disability Resource Center" means an entity, network, or consortium established by a State as part of the State system of long-term care, to provide a coordinated and integrated system for older individuals and individuals with disabilities (as defined in section 12102 of this title), and the caregivers of older individuals and individuals with disabilities, that provides, in collaboration with (as appropriate) area agencies on aging, centers for independent living (as described in part C of chapter 1 of title VII of the Rehabilitation Act of 1973 (29 U.S.C. 796f et seq.)), and other aging or disability entities—
 
-&emsp;&emsp;(A) comprehensive information on the full range of available public and private long-term care programs, options, service providers, and resources within a community, including information on the availability of integrated long-term care services, and Federal or State programs that provide long-term care services and supports through home and community-based service programs;
+&emsp;&emsp;(A) comprehensive information on the full range of available public and private long-term care programs, options, service providers, and resources within a community,including information on the availability of integrated long-term care services, and Federal or State programs that provide long-term care services and supports through home and community-based service programs;
 
 &emsp;&emsp;(B) person-centered counseling to assist individuals in assessing their existing or anticipated long-term care needs and goals, and developing and implementing a person-centered plan for long-term services, supports, and care that is consistent with the desires and choices of such an individual and designed to meet the individual's specific needs, goals, and circumstances;
 
@@ -62,7 +62,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(B) includes services and coordination such as—
 
-&emsp;&emsp;&emsp;(i) comprehensive assessment of the older individual (including the physical,psychological, and social needs of the individual);
+&emsp;&emsp;&emsp;(i) comprehensive assessment of the older individual (including the physical, psychological, and social needs of the individual);
 
 &emsp;&emsp;&emsp;(ii) development and implementation of a service plan with the older individual to mobilize the formal and informal resources and services identified in the assessment to meet the needs of the older individual, including coordination of the resources and services—
 
@@ -82,7 +82,7 @@ For the purposes of this chapter—
 
 &emsp;(12) The term "civic engagement" means an individual or collective action designed to address a public concern or an unmet human, educational, health care, environmental, or public safety need.
 
-&emsp;(13) The term "disability" means (except when such term is used in the phrase "severe disability", "developmental disabilities", "physical or mental disability", "physical and mental disabilities", or "physical disabilities") a disability attributable to mental or physical impairment, or a combination of mental and physical impairments, that results in substantial functional limitations in 1 or more of the following areas of major life activity: (A) self-care, (B) receptive and expressive language, (C) learning, (D) mobility, (E) self-direction, (F) capacity for independent living, (G) economic self-sufficiency, (H) cognitive functioning, and (I) emotional adjustment.
+&emsp;(13) The term "disability" means (except when such term is used in the phrase "severe disability", "developmental disabilities", "physical or mental disability", "physical and mental disabilities", or "physical disabilities") a disability attributable to mental or physical impairment, or a combination of mental and physical impairments, that results in substantial functional limitations in 1 or more of the following areas of major life activity: (A) self-care, (B) receptive and expressive language, (C) learning, (D) mobility, (E) self-direction, (F) capacity for independent living,\(G) economic self-sufficiency, (H) cognitive functioning, and (I) emotional adjustment.
 
 &emsp;(14) The term "disease prevention and health promotion services" means—
 
@@ -214,7 +214,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(D) in-home respite care for families, and adult day care as a respite service for families;
 
-&emsp;&emsp;(E) minor modification of homes that is necessary to facilitate the ability of olderindividuals to remain at home and that is not available under another program (other than a program carried out under this chapter);
+&emsp;&emsp;(E) minor modification of homes that is necessary to facilitate the ability of older individuals to remain at home and that is not available under another program (other than a program carried out under this chapter);
 
 &emsp;&emsp;(F) personal care services; and
 
@@ -304,7 +304,7 @@ For the purposes of this chapter—
 
 &emsp;(43) The term "planning and service area" means an area designated by a State agency under section 3025(a)(1)(E) of this title, including a single planning and service area described in section 3025(b)(5)(A) of this title.
 
-&emsp;(44) The term "poverty line" means the official poverty line (as defined by the Office of Management and Budget, and adjusted by theSecretary in accordance with section 9902(2) of this title.<sup>2</sup>
+&emsp;(44) The term "poverty line" means the official poverty line (as defined by the Office of Management and Budget, and adjusted by the Secretary in accordance with section 9902(2) of this title.<sup>2</sup>
 
 &emsp;(45) The term "representative payee" means a person who is appointed by a governmental entity to receive, on behalf of an older individual who is unable to manage funds by reason of a physical or mental incapacity, any funds owed to such individual by such entity.
 

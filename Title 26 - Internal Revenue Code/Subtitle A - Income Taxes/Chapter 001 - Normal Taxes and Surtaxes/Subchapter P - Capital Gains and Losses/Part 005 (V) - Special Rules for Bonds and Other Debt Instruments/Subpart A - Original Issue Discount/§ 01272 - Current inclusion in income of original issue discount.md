@@ -158,7 +158,7 @@ Subsecs. (b) to (d). Pub. L. 115–141, §401(c)(1)(B), redesignated subsecs. (c
 
 #### Effective Date of 2018 Amendment
 
-Amendment by section 401(c)(1)(B), (F) of Pub. L. 115–141 applicable to debt instruments issued on orafter July 2, 1982, see section 401(c)(1)(H) of Pub. L. 115–141, set out as a note under section 163 of this title.
+Amendment by section 401(c)(1)(B), (F) of Pub. L. 115–141 applicable to debt instruments issued on or after July 2, 1982, see section 401(c)(1)(H) of Pub. L. 115–141, set out as a note under section 163 of this title.
 
 Amendment by section 401(c)(3)(A) of Pub. L. 115–141 applicable to obligations issued on or after Mar. 2, 1984, see section 401(c)(3)(C) of Pub. L. 115–141, set out as a note under section 163 of this title.
 

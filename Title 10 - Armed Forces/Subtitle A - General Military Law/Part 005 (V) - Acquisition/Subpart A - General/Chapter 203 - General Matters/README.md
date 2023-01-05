@@ -13,7 +13,7 @@
 | [3069\.](%C2%A7%2003069%20-%20Buy-to-budget%20acquisition%20end%20items.md) | Buy-to-budget acquisition: end items. |
 | [3070\.](%C2%A7%2003070%20-%20Limitation%20on%20acquisition%20of%20excess%20supplies.md) | Limitation on acquisition of excess supplies. |
 | 3071\. | \[Reserved\]. |
-| [3072\.](%C2%A7%2003072%20-%20Comptroller%20General%20assessment%20of%20acquisition%20programs%20and%20initiatives.md) | Comptroller General assessment of acquisition programs and initiatives. |
+| [3072\.](%C2%A7%2003072%20-%20Comptroller%20General%20assessment%20of%20acquisition%20programs%20and%20efforts.md) | Comptroller General assessment of acquisition programs and efforts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -24,6 +24,8 @@
 A prior chapter 203 "GENERAL MATTERS", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3021, was repealed by Pub. L. 116–283, div. A, title XVIII, §1807(a), Jan. 1, 2021, 134 Stat. 4156.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title VIII, §812(b), Dec. 23, 2022, 136 Stat. 2706, substituted "efforts" for "initiatives" in item 3072.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title XVII, §1701(f)(3), Dec. 27, 2021, 135 Stat. 2139, inserted "of" after "Applicability" in item 3064.
 
@@ -75,7 +77,7 @@ Exception From Applicability of Limitations.—(1) No limitation applies under s
 
 "(e)
 
-Termination of Applicability of Limitations.—Subsection (c) shall cease to apply to a GSA Client Support Center on the date on which the Inspector General of the Department of Defense and the Inspector General of the General Services Administration jointly determine that such Center is compliant with defense procurement requirements and notify the Secretary of Defense of that determination.
+Termination of Applicability of Limitations.—Subsection (c) shall cease to apply to a GSA Client Support Center on the date on which the Inspector General of the Department of Defense and the InspectorGeneral of the General Services Administration jointly determine that such Center is compliant with defense procurement requirements and notify the Secretary of Defense of that determination.
 
 "(f)
 
@@ -95,4 +97,4 @@ GSA Client Support Center Defined.—In this section, the term 'GSA Client Suppo
 - [&sect; 03068 - Inapplicability of certain laws](%C2%A7%2003068%20-%20Inapplicability%20of%20certain%20laws.md)
 - [&sect; 03069 - Buy-to-budget acquisition end items](%C2%A7%2003069%20-%20Buy-to-budget%20acquisition%20end%20items.md)
 - [&sect; 03070 - Limitation on acquisition of excess supplies](%C2%A7%2003070%20-%20Limitation%20on%20acquisition%20of%20excess%20supplies.md)
-- [&sect; 03072 - Comptroller General assessment of acquisition programs and initiatives](%C2%A7%2003072%20-%20Comptroller%20General%20assessment%20of%20acquisition%20programs%20and%20initiatives.md)
+- [&sect; 03072 - Comptroller General assessment of acquisition programs and efforts](%C2%A7%2003072%20-%20Comptroller%20General%20assessment%20of%20acquisition%20programs%20and%20efforts.md)

@@ -30,7 +30,7 @@ The date of the enactment of the first Act providing for appropriations for fisc
 
 #### Effective Date
 
-Pub. L. 97–35, title III, §391(a)(2), Aug. 13, 1981, 95 Stat. 434, provided that: "The amendment made by paragraph (1) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\]."
+Pub. L. 97–35, title III, §391(a)(2), Aug. 13, 1981, 95 Stat. 434, provided that: "The amendment made byparagraph (1) \[enacting this section\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\]."
 
 #### Final Government Equity Redemption Date Established
 

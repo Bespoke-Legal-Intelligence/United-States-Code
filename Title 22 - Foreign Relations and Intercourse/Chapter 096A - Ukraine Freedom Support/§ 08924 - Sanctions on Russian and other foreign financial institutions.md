@@ -16,7 +16,7 @@ The President shall impose, unless the President determines that it is not in th
 
 #### (c) Sanction described
 
-The sanction described in this subsection is, with respect to a foreign financial institution, a prohibition on the opening, and a prohibition or the imposition of strict conditions on the maintaining, in the United States of a correspondent account or a payable-through account by the foreign financial institution.
+The sanction described in this subsection is, with respect to a foreign financial institution, aprohibition on the opening, and a prohibition or the imposition of strict conditions on the maintaining, in the United States of a correspondent account or a payable-through account by the foreign financial institution.
 
 #### (d) National security waiver
 

@@ -14,7 +14,7 @@ The Congress finds that—
 
 &emsp;(6) the support of university-based research in metal casting is important in promoting technology development and providing industry with qualified engineers; and
 
-&emsp;(7) by combining the resources of the Federal Government, universities, industry, and private organizations, to conduct research and development activities, substantial technological benefits will result to the metal casting industry.
+&emsp;(7) by combining the resources of the Federal Government, universities, industry, andprivate organizations, to conduct research and development activities, substantial technological benefits will result to the metal casting industry.
 
 (Pub. L. 101–425, §2, Oct. 15, 1990, 104 Stat. 915.)
 

@@ -14,6 +14,7 @@
 - [&sect; 00547 - Agricultural commodities, foods, and cotton or woolen goods](%C2%A7%2000547%20-%20Agricultural%20commodities%2C%20foods%2C%20and%20cotton%20or%20woolen%20goods.md)
 - [&sect; 00548 - Surplus vessels](%C2%A7%2000548%20-%20Surplus%20vessels.md)
 - [&sect; 00549 - Donation of personal property through state agencies](%C2%A7%2000549%20-%20Donation%20of%20personal%20property%20through%20state%20agencies.md)
+- [&sect; 00549a - Donation of personal property through nonprofit refurbishers](%C2%A7%2000549a%20-%20Donation%20of%20personal%20property%20through%20nonprofit%20refurbishers.md)
 - [&sect; 00550 - Disposal of real property for certain purposes](%C2%A7%2000550%20-%20Disposal%20of%20real%20property%20for%20certain%20purposes.md)
 - [&sect; 00551 - Donations to American Red Cross](%C2%A7%2000551%20-%20Donations%20to%20American%20Red%20Cross.md)
 - [&sect; 00552 - Abandoned or unclaimed property on Government premises](%C2%A7%2000552%20-%20Abandoned%20or%20unclaimed%20property%20on%20Government%20premises.md)

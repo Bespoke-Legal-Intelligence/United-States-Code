@@ -58,6 +58,10 @@ In subsection (b)(1)(D), the words "this division" are substituted for "this Act
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 117–339, §1, Jan. 5, 2023, 136 Stat. 6158, provided that: "This Act \[enacting chapter 1201 of this title and provisions set out as notes under sections 120101 and 320101 of this title, amending provisions listed in tables and set out as a note under section 320101 of this title, and repealing provisions set out as a note under section 320101 of this title\] may be cited as the 'National Heritage Area Act'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–152, §1, Aug. 4, 2020, 134 Stat. 682, provided that: "This Act \[enacting chapter 2004 of this title and amending sections 200302, 200303, and 200306 of this title\] may be cited as the 'Great American Outdoors Act'."
@@ -118,7 +122,7 @@ Pub. L. 104–333, §1, Nov. 12, 1996, 110 Stat. 4093, provided that: "This Act 
 
 #### Short Title of 1994 Act
 
-Pub. L. 103–451, §1, Nov. 2, 1994, 108 Stat. 4769, provided that: "This Act \[see Tables for classification\]may be cited as the 'National Maritime Heritage Act of 1994'."
+Pub. L. 103–451, §1, Nov. 2, 1994, 108 Stat. 4769, provided that: "This Act \[see Tables for classification\] may be cited as the 'National Maritime Heritage Act of 1994'."
 
 #### Short Title of 1992 Act
 

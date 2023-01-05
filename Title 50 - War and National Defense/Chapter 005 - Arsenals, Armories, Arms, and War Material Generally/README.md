@@ -32,8 +32,8 @@
 | [98f.](Subchapter%20003%20%28III%29%20-%20Acquisition%20and%20Development%20of%20Strategic%20Raw%20Materials/%C2%A7%2000098f%20-%20Special%20Presidential%20disposal%20authority.md) | Special Presidential disposal authority. |
 | [98g.](Subchapter%20003%20%28III%29%20-%20Acquisition%20and%20Development%20of%20Strategic%20Raw%20Materials/%C2%A7%2000098g%20-%20Materials%20development%20and%20research.md) | Materials development and research. |
 | [98h.](Subchapter%20003%20%28III%29%20-%20Acquisition%20and%20Development%20of%20Strategic%20Raw%20Materials/%C2%A7%2000098h%20-%20National%20Defense%20Stockpile%20Transaction%20Fund.md) | National Defense Stockpile Transaction Fund. |
-| 98h–1. | Advisory committees. |
-| 98h–2. | Reports to Congress. |
+| 98h–1. | Strategic and Critical Materials Board of Directors. |
+| 98h–2. | Reports. |
 | 98h–3. | Definitions. |
 | 98h–4. | Importation of strategic and critical materials. |
 | 98h–5. | Biennial report on stockpile requirements. |

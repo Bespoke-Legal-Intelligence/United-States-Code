@@ -6,7 +6,7 @@ Authority to Elect to Receive Reserve Retired Pay.—(1) Notwithstanding the req
 
 &emsp;(A) satisfies the requirements specified in paragraphs (1) and (2) of such section for entitlement to retired pay under this chapter;
 
-&emsp;(B) served in an active status in the Selected Reserve of the Ready Reserve after becoming eligible for retirement under chapter 65, 741, 841, or 941 of this title (without regard to whether the person actually retired or received retired or retainer pay under one of those chapters); and
+&emsp;(B) served in an active status in the Selected Reserve of the Ready Reserve after becoming eligible for retirement under chapter 65, 741, 841, or 941 of this title (without regard towhether the person actually retired or received retired or retainer pay under one of those chapters); and
 
 &emsp;(C) completed not less than two years of satisfactory service (as determined by the Secretary concerned) in such active status (excluding any period of active service).
 

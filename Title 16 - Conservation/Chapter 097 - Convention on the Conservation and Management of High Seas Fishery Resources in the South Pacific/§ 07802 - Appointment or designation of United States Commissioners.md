@@ -84,7 +84,7 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 #### (iv) Public meetings
 
-&emsp;&emsp;&emsp;Meetings of the Advisory Committee, except when in executive session, shall beopen to the public. Prior notice of each non-executive meeting shall be made public in a timely fashion. The Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;&emsp;&emsp;Meetings of the Advisory Committee, except when in executive session, shall be open to the public. Prior notice of each non-executive meeting shall be made public in a timely fashion. The Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).<sup>1</sup>
 
 #### (v) Cost savings
 
@@ -116,5 +116,7 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1)(C)(i), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

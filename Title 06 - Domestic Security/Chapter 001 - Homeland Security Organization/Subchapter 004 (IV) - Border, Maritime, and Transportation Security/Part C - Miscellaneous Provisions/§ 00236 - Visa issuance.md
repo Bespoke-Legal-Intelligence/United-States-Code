@@ -118,7 +118,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 &emsp;This subsection shall take effect on the earlier of—
 
-&emsp;&emsp;(A) the date on which the President publishes notice in the Federal Register that the President has submitted a report to Congress setting forth a memorandum of understanding between the Secretary and the Secretary of State governing the implementation of this section; or
+&emsp;&emsp;(A) the date on which the President publishes notice in the Federal Register thatthe President has submitted a report to Congress setting forth a memorandum of understanding between the Secretary and the Secretary of State governing the implementation of this section; or
 
 &emsp;&emsp;(B) the date occurring 1 year after November 25, 2002.
 
@@ -156,9 +156,9 @@ Notwithstanding any other provision of law, after November 25, 2002, all third p
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-Section 613 of the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1999, referred to in subsec. (c)(2)(L), probably means section 101(b) \[title VI, §616\] of Pub. L. 105–277, div. A, Oct. 21, 1998, 112 Stat. 2681–50, 2681–114, as amended, which prohibits use of funds for issuance of visas to persons alleged to have ordered, carried out, or materially assisted in extrajudicial and political killings in Haiti and to certain others and is not classified to the Code.
+Section 613 of the Departments of Commerce, Justice, and State, the Judiciary and Related Agencies Appropriations Act, 1999, referred to in subsec. (c)(2)(L), probably means section 101(b) \[title VI, §616\] of Pub. L. 105–277, div. A, Oct. 21, 1998, 112 Stat. 2681–50, 2681–114, which prohibits use of funds for issuance of visas to persons alleged to have ordered, carried out, or materially assisted in extrajudicial and political killings in Haiti and to certain others and is not classified to the Code.
 
 Section 103(f) of the Chemical Weapon Convention Implementation Act of 1998, referred to in subsec. (c)(2)(M), probably means section 103(f) of the Chemical Weapons Convention Implementation Act of 1998, which is classified to section 6713(f) of Title 22, Foreign Relations and Intercourse.
 

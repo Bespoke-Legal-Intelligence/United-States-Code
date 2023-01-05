@@ -14,7 +14,7 @@ The Congress further finds that (1) a program of flood insurance can promote the
 
 #### (d) Authorization of flood insurance program; flexibility in program
 
-It is therefore the purpose of this chapter to (1) authorize a flood insurance program bymeans of which flood insurance, over a period of time, can be made available on a nationwide basis through the cooperative efforts of the Federal Government and the private insurance industry, and (2) provide flexibility in the program so that such flood insurance may be based on workable methods of pooling risks, minimizing costs, and distributing burdens equitably among those who will be protected by flood insurance and the general public.
+It is therefore the purpose of this chapter to (1) authorize a flood insurance program by means of which flood insurance, over a period of time, can be made available on a nationwide basis through the cooperative efforts of the Federal Government and the private insurance industry, and (2) provide flexibility in the program so that such flood insurance may be based on workable methods of pooling risks, minimizing costs, and distributing burdens equitably among those who will be protected by flood insurance and the general public.
 
 #### (e) Land use adjustments by State and local governments; development of proposed future construction; assistance of lending and credit institutions; relation of Federal assistance to all flood-related programs; continuing studies
 
@@ -54,7 +54,7 @@ Pub. L. 116–19, §1, May 31, 2019, 133 Stat. 870, provided that: "This Act \[a
 
 #### Short Title of 2018 Amendment
 
-Pub. L. 115–396, §1, Dec. 21, 2018, 132 Stat. 5296, provided that: "This Act \[amending sections 4016 and 4026 of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the 'National Flood Insurance Program Extension Act'."
+Pub. L. 115–396, §1, Dec. 21, 2018, 132 Stat. 5296, provided that: "This Act \[amending sections 4016 and 4026of this title and enacting provisions set out as a note under section 4016 of this title\] may be cited as the 'National Flood Insurance Program Extension Act'."
 
 Pub. L. 115–281, §1, Dec. 1, 2018, 132 Stat. 4191, provided that: "This Act \[amending sections 4016 and 4026 of this title\] may be cited as the 'National Flood Insurance Program Further Extension Act of 2018'."
 
@@ -62,7 +62,7 @@ Pub. L. 115–225, §1, July 31, 2018, 132 Stat. 1624, provided that: "This Act 
 
 #### Short Title of 2014 Amendment
 
-Pub. L. 113–89, §1(a), Mar. 21, 2014, 128 Stat. 1020, provided that: "This Act \[enacting sections 4005, 4015a, 4033, 4101d, and 4101e of this title, amending sections 4012a, 4013, 4014, 4015, 4017, 4017a, 4081, 4101b, 4102, and 4104 of this title and section 2604 of Title 12, Banks and Banking, enacting provisions set out as notes undersections 4012a, 4014, 4015, and 4102 of this title, and repealing provisions set out as a note under section 4012a of this title\] may be cited as the 'Homeowner Flood Insurance Affordability Act of 2014'."
+Pub. L. 113–89, §1(a), Mar. 21, 2014, 128 Stat. 1020, provided that: "This Act \[enacting sections 4005, 4015a, 4033, 4101d, and 4101e of this title, amending sections 4012a, 4013, 4014, 4015, 4017, 4017a, 4081, 4101b, 4102, and 4104 of this title and section 2604 of Title 12, Banks and Banking, enacting provisions set out as notes under sections 4012a, 4014, 4015, and 4102 of this title, and repealing provisions set out as a note under section 4012a of this title\] may be cited as the 'Homeowner Flood Insurance Affordability Act of 2014'."
 
 #### Short Title of 2012 Amendment
 
@@ -128,5 +128,5 @@ Pub. L. 103–325, title V, §584, Sept. 23, 1994, 108 Stat. 2287, provided that
 
 #### Floodplain Management
 
-For provisions relating to the reduction of the risk of flood loss, the minimization of the impact of floods onhuman safety, health and welfare, and the management of floodplains, see Ex. Ord. No. 11988, May 24, 1977, 42 F.R. 26951, set out as a note under section 4321 of this title.
+For provisions relating to the reduction of the risk of flood loss, the minimization of the impact of floods on human safety, health and welfare, and the management of floodplains, see Ex. Ord. No. 11988, May 24, 1977, 42 F.R. 26951, set out as a note under section 4321 of this title.
 

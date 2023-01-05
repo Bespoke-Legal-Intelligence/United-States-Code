@@ -54,7 +54,7 @@ The Secretary shall establish criteria for determining whether a facility is eli
 
 &emsp;&emsp;(B) land withdrawn by the Secretary, only if—
 
-&emsp;&emsp;&emsp;(i) the Secretary determines in writing that the withdrawn land is encumbered by facilities to the extent that the withdrawnland is unsuitable for return to the public domain; and
+&emsp;&emsp;&emsp;(i) the Secretary determines in writing that the withdrawn land is encumbered by facilities to the extent that the withdrawn land is unsuitable for return to the public domain; and
 
 &emsp;&emsp;&emsp;(ii) the qualifying entity agrees to pay fair market value based on historical or existing uses for the withdrawn land to be conveyed.
 

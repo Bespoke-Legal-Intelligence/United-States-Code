@@ -132,7 +132,7 @@ Report.—Not later than 30 days after the date on which the Secretary enters in
 
 "(d)
 
-Briefing.—Not later than March 15, 2021, and quarterly thereafter through September 30, 2023, the Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the progress made by the Secretary in ensuring that full and open competition exists for phase three contracts, including—
+Briefing.—Not later than March 15, 2021, and quarterly thereafter through September 30, 2023, theSecretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the progress made by the Secretary in ensuring that full and open competition exists for phase three contracts, including—
 
 &emsp;"(1) a description of progress made to establish the requirements for phase three contracts, including such requirements that the Secretary determines cannot be met by the commercial market;
 
@@ -252,7 +252,7 @@ Requirement.—In carrying out the National Security Space Launch program, the S
 
 &emsp;"(3)
 
-Notification of solicitations for non-reusable launch vehicles.—Beginning March 1, 2019, if the Secretary proposes to issue a solicitation for a contract for space launch services for which the use of reusable launch vehicles is not eligible for the award of the contract, the Secretary shall notify in writing the appropriate congressional committees of such proposed solicitation, including justifications for such ineligibility, by not later than 10 days after issuing such solicitation.
+Notification of solicitations for non-reusable launch vehicles.—Beginning March 1, 2019, if the Secretary proposes to issue a solicitation for a contract for space launch services for which the use of reusable launch vehicles is not eligible for the award of the contract, the Secretary shall notify in writing the appropriate congressional committees ofsuch proposed solicitation, including justifications for such ineligibility, by not later than 10 days after issuing such solicitation.
 
 "(c)
 

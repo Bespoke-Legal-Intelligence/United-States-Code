@@ -54,7 +54,7 @@ Subsec. (a). Pub. L. 90–77, §§107, 202(g), substituted "$40" and "$16" for "
 
 <b>1959</b>—Pub. L. 86–211 included children of World War II and Korean conflict veterans in section catchline.
 
-Subsec. (a). Pub. L. 86–211 included children of World War II and Korean conflict veterans, and substituted provisions authorizing the payment of a monthly pension of $35 for one child with $15 for each additional child for provisions which authorized the payment of$27.30 for one child, $40.95 for two children, $54.60 for three children and $7.56 for each additional child.
+Subsec. (a). Pub. L. 86–211 included children of World War II and Korean conflict veterans, and substituted provisions authorizing the payment of a monthly pension of $35 for one child with $15 for each additional child for provisions which authorized the payment of $27.30 for one child, $40.95 for two children, $54.60 for three children and $7.56 for each additional child.
 
 Subsec. (c). Pub. L. 86–211 added subsec. (c).
 

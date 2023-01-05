@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) identify, investigate, and resolve complaints that—
 
-&emsp;&emsp;&emsp;(i) are made by, or on behalf of, residents, including residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
+&emsp;&emsp;&emsp;(i) are made by, or on behalf of, residents, including residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence ofevidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
 
 &emsp;&emsp;&emsp;(ii) relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of the residents (including the welfare and rights of the residents with respect to the appointment and activities of guardians and representative payees), of—
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(i) an agency or organization that is responsible for licensing or certifying long-term care services in the State; or
 
-&emsp;&emsp;&emsp;(ii) an association (or an affiliate of such an association) of long-term care facilities,or of any other residential facilities for older individuals.
+&emsp;&emsp;&emsp;(ii) an association (or an affiliate of such an association) of long-term care facilities, or of any other residential facilities for older individuals.
 
 #### (5) Designation of local Ombudsman entities and representatives
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(vi) support, actively encourage, and assist in the development of resident and family councils;
 
-&emsp;&emsp;&emsp;(vii) identify, investigate, and resolve complaints described in clause (iii) that are made by or on behalf of residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidence to indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
+&emsp;&emsp;&emsp;(vii) identify, investigate, and resolve complaints described in clause (iii) that are made by or on behalf of residents with limited or no decisionmaking capacity and who have no known legal representative, and if such a resident is unable to communicate consent for an Ombudsman to work on a complaint directly involving the resident, the Ombudsman shall seek evidenceto indicate what outcome the resident would have communicated (and, in the absence of evidence to the contrary, shall assume that the resident wishes to have the resident's health, safety, welfare, and rights protected) and shall work to accomplish that outcome; and
 
 &emsp;&emsp;&emsp;(viii) carry out other activities that the Ombudsman determines to be appropriate.
 
@@ -228,7 +228,7 @@ In planning and operating the program, the State agency shall consider the views
 
 &emsp;&emsp;&emsp;(v) does not have management responsibility for, or operate under the supervision of an individual with management responsibility for, adult protective services; and
 
-&emsp;&emsp;&emsp;(vi) does not serve as a guardian or in another fiduciary capacity for residents oflong-term care facilities in an official capacity (as opposed to serving as a guardian or fiduciary for a family member, in a personal capacity).
+&emsp;&emsp;&emsp;(vi) does not serve as a guardian or in another fiduciary capacity for residents of long-term care facilities in an official capacity (as opposed to serving as a guardian or fiduciary for a family member, in a personal capacity).
 
 #### (2) Organizational conflict of interest
 

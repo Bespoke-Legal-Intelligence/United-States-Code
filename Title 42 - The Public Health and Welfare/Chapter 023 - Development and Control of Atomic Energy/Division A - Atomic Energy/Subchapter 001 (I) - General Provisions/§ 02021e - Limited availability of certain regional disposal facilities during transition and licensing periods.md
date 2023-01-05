@@ -58,7 +58,7 @@ The availability of disposal capacity for low-level radioactive waste from any s
 
 #### (3) Unused allocations
 
-&emsp;Any unused allocation under paragraph (1) received by a reactor during the transition period or the licensing period may be used at any time after such reactor receives its fullpower license or after the beginning of the pertinent period, whichever is later, but not in any event after December 31, 1992, or after commencement of operation of a regional disposal facility in the compact region or State in which such reactor is located, whichever occurs first.
+&emsp;Any unused allocation under paragraph (1) received by a reactor during the transition period or the licensing period may be used at any time after such reactor receives its full power license or after the beginning of the pertinent period, whichever is later, but not in any event after December 31, 1992, or after commencement of operation of a regional disposal facility in the compact region or State in which such reactor is located, whichever occurs first.
 
 #### (4) Transferability
 
@@ -110,7 +110,7 @@ January 1, 1988.—The twenty-five per centum of any amount collected by a State
 
 January 1, 1990.—The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1988 and ending December 31, 1989, and transferred to the Secretary under subparagraph (A), shall be paid by the Secretary in accordance with subparagraph (D) if the milestone described in subsection (e)(1)(C) is met by the State in which such waste originated (or its compact region, where applicable).
 
-&emsp;&emsp;&emsp;(iv) The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1990 and ending December 31, 1992, and transferred to the Secretary under subparagrah <sup>1</sup> (A), shall be paid by the Secretary in accordance with subparagraph (D) if, by January1, 1993, the State in which such waste originated (or its compact region, where applicable) is able to provide for the disposal of all low-level radioactive waste generated within such State or compact region.
+&emsp;&emsp;&emsp;(iv) The twenty-five per centum of any amount collected by a State under paragraph (1) for low-level radioactive waste disposed of under this section during the period beginning January 1, 1990 and ending December 31, 1992, and transferred to the Secretary under subparagrah <sup>1</sup> (A), shall be paid by the Secretary in accordance with subparagraph (D) if, by January 1, 1993, the State in which such waste originated (or its compact region, where applicable) is able to provide for the disposal of all low-level radioactive waste generated within such State or compact region.
 
 #### (C) Failure to meet January 1, 1993 deadline
 
@@ -156,7 +156,7 @@ January 1, 1990.—The twenty-five per centum of any amount collected by a State
 
 #### (F) Payment to States
 
-&emsp;&emsp;Any amount collected by a State under paragraph (1) that is placed in escrow under subparagraph (A) and not paid to a State or compact commission under subparagraphs (B) and (C) or not repaid to a generator under subparagraph (C) shall be paid from such escrow account to such State collecting such payment under paragraph (1). Suchpayment shall be made not later than 30 days after a determination of ineligibility for a refund is made.
+&emsp;&emsp;Any amount collected by a State under paragraph (1) that is placed in escrow under subparagraph (A) and not paid to a State or compact commission under subparagraphs (B) and (C) or not repaid to a generator under subparagraph (C) shall be paid from such escrow account to such State collecting such payment under paragraph (1). Such payment shall be made not later than 30 days after a determination of ineligibility for a refund is made.
 
 #### (G) Penalty surcharges
 
@@ -262,7 +262,7 @@ Proprietary information.—
 
 &emsp;&emsp;(ii) The United States shall not be liable for the wrongful disclosure by any individual or State of any information provided to such individual or State under this subsection.
 
-&emsp;&emsp;(iii) Whenever any individual or State has obtained possession of information under this subsection, the individual shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to an officer or employee of the United States or of any department or agency thereof and the State shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to the United States or any department or agency thereof. No State or State officer or employee who receives trade secrets, proprietary information, or other confidential information under sections 2021b to 2021j of this title may be required to disclose such information under State law.
+&emsp;&emsp;(iii) Whenever any individual or State has obtained possession of information underthis subsection, the individual shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to an officer or employee of the United States or of any department or agency thereof and the State shall be subject to the same provisions of law with respect to the disclosure of such information as would apply to the United States or any department or agency thereof. No State or State officer or employee who receives trade secrets, proprietary information, or other confidential information under sections 2021b to 2021j of this title may be required to disclose such information under State law.
 
 #### (g) Nondiscrimination
 
@@ -278,7 +278,7 @@ Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and n
 
 #### Constitutionality
 
-For constitutionality of section 102 of Pub. L. 99–240, see note under section 2021b.
+For constitutionality of section 102 of Pub. L. 99–240, see note under section 2021b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

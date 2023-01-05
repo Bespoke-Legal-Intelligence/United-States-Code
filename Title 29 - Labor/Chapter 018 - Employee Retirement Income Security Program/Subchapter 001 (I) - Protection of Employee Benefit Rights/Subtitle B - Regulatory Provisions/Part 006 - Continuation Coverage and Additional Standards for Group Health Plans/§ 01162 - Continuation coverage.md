@@ -1,6 +1,6 @@
 ### §1162. Continuation coverage
 
-For purposes of section 1161 of this title, the term "continuation coverage" means coverageunder the plan which meets the following requirements:
+For purposes of section 1161 of this title, the term "continuation coverage" means coverage under the plan which meets the following requirements:
 
 #### (1) Type of benefit coverage
 
@@ -30,7 +30,7 @@ For purposes of section 1161 of this title, the term "continuation coverage" mea
 
 #### (v) Special rule for PBGC recipients
 
-&emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title with respect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under subchapter III, notwithstanding clause (i) or (ii), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
+&emsp;&emsp;&emsp;In the case of a qualifying event described in section 1163(2) of this title withrespect to a covered employee who (as of such qualifying event) has a nonforfeitable right to a benefit any portion of which is to be paid by the Pension Benefit Guaranty Corporation under subchapter III, notwithstanding clause (i) or (ii), the date of the death of the covered employee, or in the case of the surviving spouse or dependent children of the covered employee, 24 months after the date of the death of the covered employee. The preceding sentence shall not require any period of coverage to extend beyond January 1, 2014.
 
 #### (vi) Special rule for TAA-eligible individuals
 
@@ -80,7 +80,7 @@ For purposes of section 1161 of this title, the term "continuation coverage" mea
 
 #### (5) Conversion option
 
-&emsp;In the case of a qualified beneficiary whose period of continuation coverage expires under paragraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
+&emsp;In the case of a qualified beneficiary whose period of continuation coverage expires underparagraph (2)(A), the plan must, during the 180-day period ending on such expiration date, provide to the qualified beneficiary the option of enrollment under a conversion health plan otherwise generally available under the plan.
 
 (Pub. L. 93–406, title I, §602, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 228; amended Pub. L. 99–509, title IX, §9501(b)(1)(B), (2)(B), Oct. 21, 1986, 100 Stat. 2076, 2077; Pub. L. 99–514, title XVIII, §1895(d)(1)(B), (2)(B), (3)(B), (4)(B), Oct. 22, 1986, 100 Stat. 2936–2938; Pub. L. 101–239, title VI, §6703(a), (b), title VII, §§7862(c)(3)(B), (4)(A), (5)(B), 7871(c), Dec. 19, 1989, 103 Stat. 2296, 2432, 2433, 2435; Pub. L. 104–188, title I, §1704(g)(1)(B), Aug. 20, 1996, 110 Stat. 1880; Pub. L. 104–191, title IV, §421(b)(1), Aug. 21, 1996, 110 Stat. 2088; Pub. L. 111–5, div. B, title I, §1899F(a), Feb. 17, 2009, 123 Stat. 428; Pub. L. 111–344, title I, §116(a), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §243(a)(1), (2), Oct. 21, 2011, 125 Stat. 420.)
 
@@ -118,7 +118,7 @@ Par. (2)(A)(v). Pub. L. 104–188 amended cl. (v) generally. Prior to amendment,
 
 "(v)
 
-Qualifying event involving medicare entitlement.—In the case of an event described in section 1163(4) of this title (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employeefor such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act."
+Qualifying event involving medicare entitlement.—In the case of an event described in section 1163(4) of this title (without regard to whether such event is a qualifying event), the period of coverage for qualified beneficiaries other than the covered employee for such event or any subsequent qualifying event shall not terminate before the close of the 36-month period beginning on the date the covered employee becomes entitled to benefits under title XVIII of the Social Security Act."
 
 Par. (2)(D)(i). Pub. L. 104–191, §421(b)(1)(B), inserted "(other than such an exclusion or limitation which does not apply to (or is satisfied by) such beneficiary by reason of chapter 100 of title 26, part 7 of this subtitle, or title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\])" before ", or" at end.
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 104–188 applicable to plan years beginning after Dec. 31,
 
 Pub. L. 101–239, title VI, §6703(d), Dec. 19, 1989, 103 Stat. 2296, provided that: "The amendments made by this section \[amending this section and section 1166 of this title\] shall apply to plan years beginning on or after the date of the enactment of this Act \[Dec. 19, 1989\], regardless of whether the qualifying event occurred before, on, or after such date."
 
-Amendment by section 7862(c)(3)(B) of Pub. L. 101–239 applicable to (i) qualifying events occurring after Dec. 31, 1989, and (ii) in the case of qualified beneficiaries who elected continuation coverage after Dec. 31, 1988,the period for which the required premium was paid (or was attempted to be paid but was rejected as such), see section 7862(c)(3)(D) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
+Amendment by section 7862(c)(3)(B) of Pub. L. 101–239 applicable to (i) qualifying events occurring after Dec. 31, 1989, and (ii) in the case of qualified beneficiaries who elected continuation coverage after Dec. 31, 1988, the period for which the required premium was paid (or was attempted to be paid but was rejected as such), see section 7862(c)(3)(D) of Pub. L. 101–239, set out as a note under section 162 of Title 26, Internal Revenue Code.
 
 Amendment by section 7862(c)(4)(A) of Pub. L. 101–239 applicable to plan years beginning after Dec. 31, 1989, see section 7862(c)(4)(C) of Pub. L. 101–239, set out as a note under section 4980B of Title 26.
 

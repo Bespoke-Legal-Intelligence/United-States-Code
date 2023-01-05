@@ -58,7 +58,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 #### Intelligent Transportation System Program
 
-Pub. L. 109–59, title V, §§5303–5310, Aug. 10, 2005, 119 Stat. 1806–1813, as amended by Pub. L. 114–94, div. A, title VI, §6019(d)(3), Dec. 4, 2015, 129 Stat. 1582, provided that:
+Pub. L. 109–59, title V, §§5303–5310, Aug. 10, 2005, 119 Stat. 1806–1813, as amended by Pub. L. 114–94, div. A, title VI, §6019(d)(3), Dec. 4, 2015, 129 Stat. 1582; Pub. L. 117–286, §4(a)(176), (177), Dec. 27, 2022, 136 Stat. 4325, provided that:
 
 #### "SEC. 5303. GOALS AND PURPOSES.
 
@@ -116,7 +116,7 @@ Policy.—Intelligent transportation system research projects and operational te
 
 "(c)
 
-Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and otherpublic entities, the private sector firms of the United States, the Federal laboratories, and colleges and universities, including historically Black colleges and universities and other minority institutions of higher education.
+Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and other public entities, the private sector firms of the United States, the Federal laboratories, and colleges and universities, including historically Black colleges and universities and other minority institutions of higher education.
 
 "(d)
 
@@ -220,7 +220,11 @@ Report.—Not later than February 1 of each year after the date of enactment of 
 
 &emsp;"(5)
 
-Applicability of federal advisory committee act.—The Advisory Committee shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+Applicability of chapter 10
+
+of title 5
+
+, united states code.—The Advisory Committee shall be subject to chapter 10 of title 5, United States Code.
 
 "(i)
 
@@ -310,7 +314,11 @@ Designation.—The Secretary shall designate a panel of experts to recommend way
 
 &emsp;&emsp;"(B)
 
-Nonapplicability of advisory committee act.—The expert panel shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+Nonapplicability of chapter 10
+
+of title 5
+
+, united states code.—The expert panel shall not be subject to chapter 10 of title 5, United States Code.
 
 &emsp;&emsp;"(C)
 
@@ -524,7 +532,7 @@ State.—The term 'State' has the meaning given the term under section 101 of ti
 
 &emsp;"(8)
 
-Transportation systems management and operations.—The term 'transportation systems management and operations' has the meaning given the term under section 101(a) of title 23, United StatesCode \[section 101(a) of this title does not define the term\]."
+Transportation systems management and operations.—The term 'transportation systems management and operations' has the meaning given the term under section 101(a) of title 23, United States Code \[section 101(a) of this title does not define the term\]."
 
 #### Environmental Review of Activities That Support Deployment of Intelligent Transportation Systems
 

@@ -30,7 +30,7 @@ In adopting the acquisition strategy pursuant to subsection (a), the Secretary s
 
 #### (e) Review of acquisition strategy
 
-As considered appropriate by the Secretary, but not less often than once every 3 years, the Secretary shall review and, as necessary, update the acquisition strategy adopted pursuant to subsection (a) to ensure that it best addresses the criteria identified under subsection (b).
+As considered appropriate by the Secretary, but not less often than once every 3 years, theSecretary shall review and, as necessary, update the acquisition strategy adopted pursuant to subsection (a) to ensure that it best addresses the criteria identified under subsection (b).
 
 (Pub. L. 110–417, \[div. A\], title VIII, §843, Oct. 14, 2008, 122 Stat. 4540.)
 

@@ -16,7 +16,7 @@
 
 #### (b) Withdrawal from customs bonded warehouses
 
-Notwithstanding any other provisions of law, distilled spirits entered into customs bonded warehouses under the provisions of subsection (a) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported distilled spirits from such warehouses free of tax. Distilled spirits transferred to customs bonded warehouses under the provisions of this section shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported distilled spirits.
+Notwithstanding any other provisions of law, distilled spirits entered into customs bonded warehouses under the provisions of subsection (a) may, under such regulations as the Secretary may prescribe, be withdrawn from such warehouses for consumption in the United States by and for the official or family use of such foreign governments, organizations, and individuals who are entitled to withdraw imported distilledspirits from such warehouses free of tax. Distilled spirits transferred to customs bonded warehouses under the provisions of this section shall be entered, stored, and accounted for in such warehouses under such regulations and bonds as the Secretary may prescribe, and may be withdrawn therefrom by such governments, organizations, and individuals free of tax under the same conditions and procedures as imported distilled spirits.
 
 #### (c) Withdrawal for domestic use
 
@@ -64,5 +64,5 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 #### Effective Date
 
-Pub. L. 91–659, §6, Jan. 8, 1971, 84 Stat. 1966, provided that: "This Act \[enacting this section and amending sections 5008, 5173, 5178, 5215, and 5232 of this title\] shall take effect on the first day of the first calendar monthwhich begins more than 90 days after the date of the enactment of this Act \[Jan. 8, 1971\]."
+Pub. L. 91–659, §6, Jan. 8, 1971, 84 Stat. 1966, provided that: "This Act \[enacting this section and amending sections 5008, 5173, 5178, 5215, and 5232 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Jan. 8, 1971\]."
 

@@ -90,7 +90,7 @@ Any person who is authorized to enforce this chapter may—
 
 &emsp;&emsp;(i) manage and improve the national marine sanctuary with respect to which the violation occurred that resulted in the penalty or forfeiture;
 
-&emsp;&emsp;(ii) pay a reward to any person who furnishes information leading to an assessment of a civil penalty, or to a forfeiture of property, for a violation of this chapter or anyregulation or permit issued under this chapter; and
+&emsp;&emsp;(ii) pay a reward to any person who furnishes information leading to an assessment of a civil penalty, or to a forfeiture of property, for a violation of this chapter or any regulation or permit issued under this chapter; and
 
 &emsp;&emsp;(iii) manage and improve any other national marine sanctuary.
 

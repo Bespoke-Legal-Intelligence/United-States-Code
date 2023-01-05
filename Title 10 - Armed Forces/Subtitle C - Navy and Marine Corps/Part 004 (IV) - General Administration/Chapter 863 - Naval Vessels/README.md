@@ -42,12 +42,21 @@
 | [8693\.](%C2%A7%2008693%20-%20Biennial%20report%20on%20shipbuilder%20training%20and%20the%20defense%20industrial%20base.md) | Biennial report on shipbuilder training and the defense industrial base. |
 | [8694\.](%C2%A7%2008694%20-%20Annual%20report%20on%20ship%20maintenance.md) | Annual report on ship maintenance. |
 | [8695\.](%C2%A7%2008695%20-%20Navy%20battle%20force%20ship%20assessment%20and%20requirement%20reporting.md) | Navy battle force ship assessment and requirement reporting. |
+| 8696\.<sup>1</sup> | Navy shipbuilding workforce development special incentive. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 8696\.<sup>1</sup> | Battle force ship employment, maintenance, and manning baseline plans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title I, §122(b), title X, §1026(b), Dec. 23, 2022, 136 Stat. 2443, 2767, added two items 8696.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title X, §§1013(b), 1014(b), 1015(a), 1016(b), 1017(b), Dec. 27, 2021, 135 Stat. 1893–1895, 1897, added items 8669c, 8678a, 8694, and 8695, and redesignated item 8692 "Biennial report on shipbuilder training and the defense industrial base" as 8693.
 
@@ -59,7 +68,7 @@ Pub. L. 116–283, div. A, title X, §1026(b), Jan. 1, 2021, 134 Stat. 3844, add
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 633 of this title as this chapter and items 7291 to 7294, 7297, 7299 to 7301, and 7303 to 7321 as 8661 to 8664, 8667, 8669 to 8671, and 8673 to 8691, respectively.
 
-Pub. L. 115–232, div. A, title III, §323(a)(2), title X, §§1015(b)(2), 1016(b), Aug. 13, 2018, 132 Stat. 1720, 1949,1951, added items 7320 and 7321 and struck out item 7295 "Vessels: under-age".
+Pub. L. 115–232, div. A, title III, §323(a)(2), title X, §§1015(b)(2), 1016(b), Aug. 13, 2018, 132 Stat. 1720, 1949, 1951, added items 7320 and 7321 and struck out item 7295 "Vessels: under-age".
 
 Pub. L. 115–91, div. C, title XXXI, §3115(b)(2), Dec. 12, 2017, 131 Stat. 1887, added item 7319.
 
@@ -113,6 +122,8 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 
 <b>1981</b>—Pub. L. 97–86, title IX, §911(b)(2), Dec. 1, 1981, 95 Stat. 1122, struck out item 7300 "Contracts for construction: profit limitation".
 
+<i><sup>1</sup></i><i> So in original. Two items 8696 have been enacted.</i>
+
 
 ---
 
@@ -158,3 +169,5 @@ Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7
 - [&sect; 08693 - Biennial report on shipbuilder training and the defense industrial base](%C2%A7%2008693%20-%20Biennial%20report%20on%20shipbuilder%20training%20and%20the%20defense%20industrial%20base.md)
 - [&sect; 08694 - Annual report on ship maintenance](%C2%A7%2008694%20-%20Annual%20report%20on%20ship%20maintenance.md)
 - [&sect; 08695 - Navy battle force ship assessment and requirement reporting](%C2%A7%2008695%20-%20Navy%20battle%20force%20ship%20assessment%20and%20requirement%20reporting.md)
+- [&sect; 08696 - 1 Navy shipbuilding workforce development special incentive](%C2%A7%2008696%20-%201%20Navy%20shipbuilding%20workforce%20development%20special%20incentive.md)
+- [&sect; 08696 - 1 Battle force ship employment, maintenance, and manning baseline plans](%C2%A7%2008696%20-%201%20Battle%20force%20ship%20employment%2C%20maintenance%2C%20and%20manning%20baseline%20plans.md)

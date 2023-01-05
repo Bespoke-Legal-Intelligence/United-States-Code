@@ -44,7 +44,7 @@
 
 &emsp;(4) the nature and condition of the property is such as to be suitable for dwelling purposes;
 
-&emsp;(5) except in the case of a loan described in clause (7) or (8) of this subsection, the loan to be paid by the veteran for such property or for the cost of construction, repairs, or alterations, does not exceed the reasonable value thereof as determined pursuant to section 3731 of this title;
+&emsp;(5) except in the case of a loan described in clause (7) or (8) of this subsection, the loan to be paid by the veteran for such property or for the cost of construction, repairs, or alterations, does not exceed the reasonable valuethereof as determined pursuant to section 3731 of this title;
 
 &emsp;(6) if the loan is for repair, alteration, or improvement of property, such repair, alteration, or improvement substantially protects or improves the basic livability or utility of such property;
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;(iii) in any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy such residence or dwelling as a home because of such status, the spouse of the veteran must occupy, or must have previously occupied, such dwelling or residence as such spouse's home and must certify such occupancy in such form as the Secretary shall require.
 
-(2) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purposespecified in clause (8) of subsection (a) of this section without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such purpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
+(2) A loan to a veteran may be guaranteed by the Secretary under this chapter for the purpose specified in clause (8) of subsection (a) of this section without regard to the amount of outstanding guaranty entitlement available for use by such veteran, and the amount of such veteran's guaranty entitlement shall not be charged as a result of any guaranty provided for such purpose. For purposes of section 3702(b) of this title, such loan shall be deemed to have been obtained with the guaranty entitlement used to obtain the loan being refinanced.
 
 (3) If a veteran is deceased and if such veteran's surviving spouse was a co-obligor under an existing loan guaranteed, insured, or made under this chapter, such surviving spouse shall, only for the purpose specified in subsection (a)(8) of this section, be deemed to be a veteran eligible for benefits under this chapter.
 
@@ -170,7 +170,7 @@
 
 (4)(A) Any lender making a loan under this chapter shall certify, in such form as the Secretary shall prescribe, that the lender has complied with the credit information and loan processing standards established under paragraph (2)(B) of this subsection, and that, to the best of the lender's knowledge and belief, the loan meets the underwriting standards established under paragraph (2)(A) of this subsection.
 
-(B) Any lender who knowingly and willfully makes a false certification under subparagraph (A) of this paragraph shall be liable to the United States Government for a civil penalty equal to two times the amount of the Secretary's loss on the loan involved or to another appropriate amount, not to exceed $10,000, whichever is greater. All determinations necessary to carry out this subparagraph shall be made by the Secretary.
+(B) Any lender who knowingly and willfully makes a false certification under subparagraph (A) of this paragraph shall be liable to the United States Government for a civil penalty equal to two times the amount of the Secretary's loss on the loan involved or to anotherappropriate amount, not to exceed $10,000, whichever is greater. All determinations necessary to carry out this subparagraph shall be made by the Secretary.
 
 (5) Pursuant to regulations prescribed to carry out this paragraph, the Secretary may, in extraordinary situations, waive the application of the credit underwriting standards established under paragraph (2) of this subsection when the Secretary determines, considering the totality of circumstances, that the veteran is a satisfactory credit risk.
 
@@ -184,7 +184,57 @@
 
 (3) When applying the term "value of the property" to a loan guaranteed under subsection (a)(12), such term means the appraised value of the stock or membership entitling the purchaser to the permanent occupancy of the dwelling unit in the development, project, or structure of the cooperative housing corporation.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2), 7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768; Pub. L. 109–461, title V, §501, Dec. 22, 2006, 120 Stat. 3431;Pub. L. 110–389, title V, §504(b), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 116–23, §6(a)(3), June 25, 2019, 133 Stat. 973.)
+(i)(1) The Secretary, in consultation with the advisory group established under paragraph (3)(A), shall prescribe regulations and issue guidance to assist lenders in evaluating the sufficiency of the residual income of a veteran pursuant to paragraph (2).
+
+(2)(A) Pursuant to the regulations and guidance prescribed under paragraph (1), in the case of a loan to a veteran to be guaranteed under this chapter, if the veteran provides to the lender an energy efficiency report described in subparagraph (B)—
+
+&emsp;(i) the evaluation by the lender of the sufficiency of the residual income of the veteran shall include a consideration of the estimate of the expected energy cost savings contained in the report; and
+
+&emsp;(ii) the lender may apply the underwriting expertise of the lender in adjusting the residual income of the veteran in accordance with the information in the report.
+
+(B) An energy efficiency report described in this subparagraph is a report made with respect to a home for which a loan is to be guaranteed under this chapter that includes each of the following:
+
+&emsp;(i) An estimate of the expected energy cost savings specific to the home, based on specific information about the home, including savings relating to electricity or natural gas, oil, and any other fuel regularly used to supply energy to the home.
+
+&emsp;(ii) Any information required to be included pursuant to the regulations and guidance and regulations prescribed by the Secretary under paragraph (1).
+
+&emsp;(iii) Information with respect to the energy efficiency of the home as determined pursuant to—
+
+&emsp;&emsp;(I) the Residential Energy Service Network's Home Energy Rating System (commonly know as 'HERS') by an individual certified by such Network; or
+
+&emsp;&emsp;(II) an other method determined appropriate by the Secretary, in consultation with the advisory group under paragraph (3), including with respect to third-party quality assurance procedures.
+
+(3)(A) To assist the Secretary in carrying out this subsection, the Secretary shall establish an advisory group consisting of individuals representing the interests of—
+
+&emsp;(i) mortgage lenders;
+
+&emsp;(ii) appraisers;
+
+&emsp;(iii) energy raters and residential energy consumption experts;
+
+&emsp;(iv) energy efficiency organizations;
+
+&emsp;(v) real estate agents;
+
+&emsp;(vi) home builders and remodelers;
+
+&emsp;(vii) consumer advocates;
+
+&emsp;(viii) veterans' service organizations; and
+
+&emsp;(ix) other persons determined appropriate by the Secretary.
+
+(B) The advisory group established under subparagraph (A) shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).<sup>1</sup>
+
+(4) The Secretary shall ensure that marketing materials that the Secretary provides to veterans with respect to loans guaranteed under this chapter include information regarding the use of energy efficiency reports under this subsection.
+
+(5) Not later than one year after the date on which the Secretary issues the regulations and guidance pursuant to paragraph (2), and every year thereafter, the Secretary shall submit to Congress and make publicly available a report that includes the following information for the year covered by the report:
+
+&emsp;(A) An enumeration of the number of loans guaranteed under this chapter for which a veteran provided to the Secretary an energy efficiency report under this subsection, including the number of such loans for which cost savings were taken into account pursuant to paragraph (1).
+
+&emsp;(B) Of the number of loans enumerated under subparagraph (A), an enumeration of the default rates and rates of foreclosure, including how such enumeration compares with the default rates and rates of foreclosure for guaranteed loans for which no energy efficiency report is provided.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1207, §1810; Pub. L. 90–301, §§1(a), 2(a), May 7, 1968, 82 Stat. 113; Pub. L. 91–506, §3, Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–569, §3, Dec. 31, 1974, 88 Stat. 1864; Pub. L. 94–324, §7(11), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §§104, 105(a), Oct. 18, 1978, 92 Stat. 1498, 1499; Pub. L. 96–385, title IV, §§401(a), 402(a), Oct. 7, 1980, 94 Stat. 1532, 1533; Pub. L. 98–223, title II, §205(a), Mar. 2, 1984, 98 Stat. 42; Pub. L. 99–576, title IV, §402(a), (b), Oct. 28, 1986, 100 Stat. 3280; Pub. L. 100–198, §§3(a)(2),7(a), (c), 8(a)(2), 11(b), 13, Dec. 21, 1987, 101 Stat. 1315, 1318–1320, 1325; Pub. L. 100–322, title IV, §415(c)(4), May 20, 1988, 102 Stat. 551; Pub. L. 101–237, title III, §§309, 313(b)(1), Dec. 18, 1989, 103 Stat. 2075, 2077; renumbered §3710 and amended Pub. L. 102–83, §§4(a)(2)(A)(iv), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–547, §§6(1), 9(a), (b), Oct. 28, 1992, 106 Stat. 3636, 3641, 3642; Pub. L. 103–446, title IX, §§904(a), (b), 905, Nov. 2, 1994, 108 Stat. 4676, 4677; Pub. L. 104–110, title I, §101(e), Feb. 13, 1996, 110 Stat. 768; Pub. L. 109–461, title V, §501, Dec. 22, 2006, 120 Stat. 3431; Pub. L. 110–389, title V, §504(b), Oct. 10, 2008, 122 Stat. 4176; Pub. L. 116–23, §6(a)(3), June 25, 2019, 133 Stat. 973; Pub. L. 117–328, div. U, title II, §203(a), Dec. 29, 2022, 136 Stat. 5449.)
 
 #### <b>Editorial Notes</b>
 
@@ -194,11 +244,15 @@ The date of the enactment of this paragraph, referred to in subsec. (a)(12), is 
 
 Section 216(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), is classified to section 216(b)(1) of Title 26, Internal Revenue Code.
 
+The Federal Advisory Committee Act, referred to in subsec. (i)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+
 #### Codification
 
 Another section 11(b) of Pub. L. 100–198 amended section 1831 \[now 3731\] of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (i). Pub. L. 117–328 added subsec. (i).
 
 <b>2019</b>—Subsec. (d)(4). Pub. L. 116–23 substituted "subparagraph (B) or (C) of section 3703(a)(1) of this title" for "section 3703(a)(1)(B) of this title".
 
@@ -351,4 +405,6 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 #### Reports on Energy Efficient Mortgages Guaranteed Under This Section
 
 Pub. L. 102–547, §9(c), Oct. 28, 1992, 106 Stat. 3642, directed Secretary of Veterans Affairs to transmit report on energy efficient mortgages to Committees on Veterans' Affairs of Senate and House of Representatives not later than 1 year after date on which Secretary first exercises authority to guarantee loans under section 3710(d) of this title and for each of the 3 years thereafter, prior to repeal by Pub. L. 104–110, title II, §201(b), Feb. 13, 1996, 110 Stat. 770.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

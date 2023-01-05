@@ -34,7 +34,7 @@ The President shall ensure that transfers by the United States under subsection 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the authority of subsection (a) expires at the end ofthe 40-month period beginning on the date on which the CFE Treaty enters into force.
+&emsp;Except as provided in paragraph (2), the authority of subsection (a) expires at the end of the 40-month period beginning on the date on which the CFE Treaty enters into force.
 
 #### (2) Transition rule
 

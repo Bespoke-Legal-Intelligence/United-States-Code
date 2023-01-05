@@ -10,7 +10,7 @@ The order may provide for the establishment, issuance, effectuation, and adminis
 
 #### (c) Research and development
 
-The order may provide for establishing and carrying out research projects and studies tosupport the advertising efforts for fluid milk products, and the use of funds collected under the order for such projects and studies.
+The order may provide for establishing and carrying out research projects and studies to support the advertising efforts for fluid milk products, and the use of funds collected under the order for such projects and studies.
 
 #### (d) Reserve funds
 

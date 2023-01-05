@@ -20,11 +20,11 @@ In furtherance of the mission set forth in subsection (a), the Open Technology F
 
 &emsp;&emsp;(B) secure communication tools and other forms of privacy and security technology that facilitate the creation and distribution of news and enable audiences to access media content on censored websites;
 
-&emsp;(2) advance internet freedom by supporting private and public sector research, development, implementation, and maintenance of technologies that provide secure and uncensored access to the internet to counter attempts by authoritarian governments, nonstate actors, and others to improperly restrict freedom online;
+&emsp;(2) advance internet freedom by supporting private and public sector research, development, implementation, and maintenance of technologies that provide secure and uncensored access to the internet to counter attempts by authoritarian governments,nonstate actors, and others to improperly restrict freedom online;
 
 &emsp;(3) research and analyze emerging technical threats and develop innovative solutions through collaboration with the private and public sectors to maintain the technological advantage of the United States Government over authoritarian governments, nonstate actors, and others;
 
-&emsp;(4) develop, acquire, and distribute requisite internet freedom technologies and techniques for the United States Agency for Global Media, including as set forth in paragraph (1),and digital security interventions, to fully enable the creation and distribution of digital content between and to all users and regional audiences;
+&emsp;(4) develop, acquire, and distribute requisite internet freedom technologies and techniques for the United States Agency for Global Media, including as set forth in paragraph (1), and digital security interventions, to fully enable the creation and distribution of digital content between and to all users and regional audiences;
 
 &emsp;(5) prioritize programs for countries the governments of which restrict freedom of expression on the internet, and that are important to the national interest of the United States, and are consistent with section 7050(b)(2)(C) of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94); and
 
@@ -84,7 +84,7 @@ Any grant agreement with or grants made to the Open Technology Fund under this s
 
 #### (4) Detailees
 
-&emsp;Under the Intergovernmental Personnel Act \[42 U.S.C. 4701 et seq.\], employees of a grantee of the United States Agency for Global Media may be detailed to the Agency, and Federal employees may be detailed to a grantee of the United States Agency for Global Media.
+&emsp;Under the Intergovernmental Personnel Act \[42 U.S.C. 4701 et seq.\], employees of a grantee of the United States Agency for Global Media may be detailed to the Agency, and Federalemployees may be detailed to a grantee of the United States Agency for Global Media.
 
 #### (f) Relationship to other United States Government-funded Internet freedom programs
 
@@ -122,7 +122,7 @@ The United States Agency for Global Media shall ensure that internet freedom res
 
 #### (3) Exercise of authorities
 
-&emsp;Notwithstanding any other provision of law, the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 \[5 U.S.C. App.\] with respect to the Open Technology Fund.
+&emsp;Notwithstanding any other provision of law, the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to the Open Technology Fund.
 
 (Pub. L. 103–236, title III, §309A, as added Pub. L. 116–283, div. A, title XII, §1299P(b), Jan. 1, 2021, 134 Stat. 4016.)
 
@@ -136,7 +136,7 @@ This chapter, referred to in subsecs. (b)(6) and (e)(2), was in the original "th
 
 The Intergovernmental Personnel Act, referred to in subsec. (e)(4), probably means the Intergovernmental Personnel Act of 1970, Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which is classified principally to chapter 62 (§4701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 42 and Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (h)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (h)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§401 et seq.) of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

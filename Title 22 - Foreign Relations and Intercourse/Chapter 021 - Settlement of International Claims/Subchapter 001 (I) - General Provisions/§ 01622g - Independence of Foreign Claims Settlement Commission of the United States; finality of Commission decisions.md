@@ -14,7 +14,7 @@ The War Claims Act of 1948, as amended, referred to in text, is act July 3, 1948
 
 The International Claims Settlement Act of 1949, as amended, referred to in text, is act Mar. 10, 1950, ch. 54, 64 Stat. 12, as amended, which is classified generally to this chapter (§1621 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
-Reorganization Plan Numbered 1 of 1954, referred to in text, is Reorg. Plan No. 1 of 1954, July 1, 1954, 19 F.R.3985, 68 Stat. 1279, which is set out as a note under section 1622 of this title.
+Reorganization Plan Numbered 1 of 1954, referred to in text, is Reorg. Plan No. 1 of 1954, July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, which is set out as a note under section 1622 of this title.
 
 #### Codification
 

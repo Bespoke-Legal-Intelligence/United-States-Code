@@ -156,7 +156,7 @@ Content.—The report shall—
 
 &emsp;(C)
 
-Public availability.—The Secretary shall make the report available to the publicthrough Internet sites or other electronic means.
+Public availability.—The Secretary shall make the report available to the public through Internet sites or other electronic means.
 
 (3) Not later than one year after October 20, 1986, the Secretary shall submit to the President and the Congress a report regarding—
 
@@ -232,7 +232,7 @@ Subsec. (e)(8). Pub. L. 102–245, §301(d), struck out former par. (8) which re
 
 Subsec. (i). Pub. L. 102–245, §303, added subsec. (i).
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–189 struck out "after September 30, 1981," after "(2)", substituted "sufficient funding, either as a separate line item or from the agency's research and development budget," for "not less than 0.5 percent of the agency's research and development budget", struck out "agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the" after "transfer process. The", and substituted "agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry" for "reasons for the waiver and alternate plans for conducting the technology transfer function at the agency".
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 struck out "after September 30, 1981," after "(2)", substituted "sufficient funding, either as a separate line item or from the agency's research and development budget," for "notless than 0.5 percent of the agency's research and development budget", struck out "agency head may waive the requirement set forth in clause (2) of the preceding sentence. If the agency head waives such requirement, the" after "transfer process. The", and substituted "agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry" for "reasons for the waiver and alternate plans for conducting the technology transfer function at the agency".
 
 <b>1988</b>—Subsec. (d)(6). Pub. L. 100–418, §5163(c)(3), added par. (6).
 
@@ -286,7 +286,7 @@ Functions which the Director of the National Institute on Disability and Rehabil
 
 Ex. Ord. No. 12591, Apr. 10, 1987, 52 F.R. 13414, as amended by Ex. Ord. No. 12618, Dec. 22, 1987, 52 F.R. 48661, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including the Federal Technology Transfer Act of 1986 (Public Law 99–502) \[see Short Title of 1986 Amendments note set out under section 3701 of this title\], the Trademark Clarification Act of 1984 (Public Law 98–620) \[see Short Title of 1984 Amendment note set out under section 1051 of this title\], and the University and Small Business Patent Procedure Act of 1980 (Public Law 96–517) \[see Tables for classification\], and in order to ensure that Federal agencies and laboratories assist universities and the private sector in broadening our technology base by moving new knowledge from the research laboratory into the development of new products and processes, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Technology Transfer Act of 1986 (Public Law 99–502) \[see Short Title of 1986 Amendments note set out under section 3701 of this title\], the Trademark Clarification Act of 1984 (Public Law 98–620) \[see Short Title of 1984 Amendment note set out under section 1051 of this title\], and the University and Small Business Patent Procedure Act of 1980 (Public Law 96–517) \[see Tables for classification\], and in order to ensure that Federal agencies and laboratories assist universities and the private sector in broadening our technology base by moving new knowledge from the research laboratory into the development of new products and processes, it is hereby ordered as follows:
 
 Section 1. <i>Transfer of Federally Funded Technology.</i>
 
@@ -336,7 +336,7 @@ Sec. 4. <i>International Science and Technology</i>. In order to ensure that the
 
 (c) The Secretaries of State and Commerce and the Director of the National Science Foundation shall develop a central mechanism for the prompt and efficient dissemination of science and technology information developed abroad to users in Federal laboratories, academic institutions, and the private sector on a fee-for-service basis.
 
-Sec. 5. <i>Technology Transfer from the Department of Defense</i>. Within 6 months of the date of this Order \[Apr. 10, 1987\], the Secretary of Defense shall identify a list of funded technologies that would be potentially usefulto United States industries and universities. The Secretary shall then accelerate efforts to make these technologies more readily available to United States industries and universities.
+Sec. 5. <i>Technology Transfer from the Department of Defense</i>. Within 6 months of the date of this Order \[Apr. 10, 1987\], the Secretary of Defense shall identify a list of funded technologies that would be potentially useful to United States industries and universities. The Secretary shall then accelerate efforts to make these technologies more readily available to United States industries and universities.
 
 Sec. 6. <i>Basic Science and Technology Centers</i>. The head of each Executive department and agency shall examine the potential for including the establishment of university research centers in engineering, science, or technology in the strategy and planning for any future research and development programs. Such university centers shall be jointly funded by the Federal Government, the private sector, and, where appropriate, the States and shall focus on areas of fundamental research and technology that are both scientifically promising and have the potential to contribute to the Nation's long-term economic competitiveness.
 

@@ -124,7 +124,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 &emsp;(vii) require, after an opportunity for public comment, reevaluation of each existing use, other than those uses specified in clause (viii), if conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than once every 10 years, to ensure that the use remains a compatible use, except that, in the case of any use authorized for a period longer than 10 years (such as an electric utility right-of-way), the reevaluation required by this clause shall examine compliance with the terms and conditions of the authorization, not examine the authorization itself;
 
-&emsp;(viii) require, after an opportunity for public comment, reevaluation of each compatible wildlife-dependent recreational use when conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than in conjunction with each preparation or revision of a conservation plan under subsection (e) or at least every 15 years, whichever is earlier; and
+&emsp;(viii) require, after an opportunity for public comment, reevaluation of each compatible wildlife-dependent recreational use when conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than in conjunction with each preparation or revision of aconservation plan under subsection (e) or at least every 15 years, whichever is earlier; and
 
 &emsp;(ix) provide an opportunity for public review and comment on each evaluation of a use, unless an opportunity for public review and comment on the evaluation of the use has already been provided during the development or revision of a conservation plan for the refuge under subsection (e) or has otherwise been provided during routine, periodic determinations of compatibility for wildlife-dependent recreational uses.
 
@@ -186,7 +186,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 #### (2) Other violations
 
-&emsp;Any person who otherwise violates or fails to comply with any of the provisions of this Act (including a regulation issued under this Act) shall be fined under title 18 or imprisoned not more than 180 days, or both.
+&emsp;Any person who otherwise violates or fails to comply with any of the provisions of thisAct (including a regulation issued under this Act) shall be fined under title 18 or imprisoned not more than 180 days, or both.
 
 #### (g) Enforcement provision; arrests, searches, and seizures; custody of property; forfeitures; disposition
 
@@ -230,9 +230,9 @@ Nothing in this Act shall be construed as affecting the authority, jurisdiction,
 
 #### (o) Coordination with State agencies
 
-Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to chapter 10 of title 5.
 
-(Pub. L. 89–669, §4, Oct. 15, 1966, 80 Stat. 927; Pub. L. 90–404, §1, July 18, 1968, 82 Stat. 359; Pub. L. 93–205, §13(a), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, §2, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 94–215, §5, Feb. 17, 1976, 90 Stat. 190; Pub. L. 94–223, Feb. 27, 1976, 90 Stat. 199; Pub. L. 95–616, §§3(f), 6, Nov. 8, 1978, 92 Stat. 3111, 3114; Pub. L. 100–226, §4, Dec. 31, 1987, 101 Stat. 1551; Pub. L. 100–653, title IX, §904, Nov. 14, 1988, 102 Stat. 3834; Pub. L. 105–57, §§3(b)–8, Oct. 9, 1997, 111 Stat. 1254–1259; Pub. L. 105–312, title II, §206, Oct. 30, 1998, 112 Stat. 2958.)
+(Pub. L. 89–669, §4, Oct. 15, 1966, 80 Stat. 927; Pub. L. 90–404, §1, July 18, 1968, 82 Stat. 359; Pub. L. 93–205, §13(a), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, §2, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 94–215, §5, Feb. 17, 1976, 90 Stat. 190; Pub. L. 94–223, Feb. 27, 1976, 90 Stat. 199; Pub. L. 95–616, §§3(f), 6, Nov. 8, 1978, 92 Stat. 3111, 3114; Pub. L. 100–226, §4, Dec. 31, 1987, 101 Stat. 1551; Pub. L. 100–653, title IX, §904, Nov. 14, 1988, 102 Stat. 3834; Pub. L. 105–57, §§3(b)–8, Oct. 9, 1997, 111 Stat. 1254–1259; Pub. L. 105–312, title II, §206, Oct. 30, 1998, 112 Stat. 2958; Pub. L. 117–286, §4(a)(99), Dec. 27, 2022, 136 Stat. 4316.)
 
 #### <b>Editorial Notes</b>
 
@@ -248,9 +248,9 @@ The Refuge Recreation Act and the Act of September 28, 1962, referred to in subs
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (e)(1)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (o), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is classified to the Appendix of Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (o). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–312, §206(1), struck out "knowingly" after "No person shall" in first sentence.
 
@@ -334,7 +334,11 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–404, §2, July 18, 1968, 82 Stat. 359, provided that: "The amendments made by the first section of this Act \[amending subsec. (a) of this section\] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment \[July 18, 1968\]."
+Pub. L. 90–404, §2, July 18, 1968, 82 Stat. 359, provided that: "The amendments made by the first section ofthis Act \[amending subsec. (a) of this section\] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment \[July 18, 1968\]."
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–296, §1, Dec. 27, 2022, 136 Stat. 4374, provided that: "This Act \[amending provisions listed in a table of National Wildlife Refuges set out under this section\] may be cited as the 'Red River National Wildlife Refuge Boundary Modification Act'."
 
 #### Short Title of 2015 Amendment
 
@@ -646,7 +650,7 @@ In General.—Nothing in this Act \[see Short Title of 1997 Amendment note above
 
 "(b)
 
-Conflicts of Laws.—If any conflict arises between any provision of this Act and any provision ofthe Alaska National Interest Lands Conservation Act, then the provision in the Alaska National Interest Lands Conservation Act shall prevail."
+Conflicts of Laws.—If any conflict arises between any provision of this Act and any provision of the Alaska National Interest Lands Conservation Act, then the provision in the Alaska National Interest Lands Conservation Act shall prevail."
 
 #### Land Transfer and Conveyance, Pease Air Force Base, New Hampshire
 
@@ -840,7 +844,7 @@ Protection Island National Wildlife Refuge, Washington.—Pub. L. 97–333, Oct.
 
 Quillayute Needles National Wildlife Refuge, Washington.—Ex. Ord. No. 705, Oct. 23, 1907; Proc. No. 2416, July 25, 1940, 54 Stat. 2717; Pub. L. 100–226, §3, Dec. 31, 1987, 101 Stat. 1550.
 
-Red River National Wildlife Refuge, Louisiana.—Pub. L. 106–300, Oct. 13, 2000, 114 Stat. 1055; Pub. L. 106–369, §9(c), Oct. 27, 2000, 114 Stat. 1419.
+Red River National Wildlife Refuge, Louisiana.—Pub. L. 106–300, Oct. 13, 2000, 114 Stat. 1055; Pub. L. 106–369, §9(c), Oct. 27, 2000, 114 Stat. 1419; Pub. L. 117–296, §2, Dec. 27, 2022, 136 Stat. 4374.
 
 Rhode Island National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, §1214(j), June 9, 1998, 112 Stat. 207.
 
@@ -952,7 +956,7 @@ Sec. 3. <i>Directives to the Secretary of the Interior</i>. To the extent consis
 
 (g) plan and direct the continued growth of the Refuge System in a manner that is best designed to accomplish the mission of the Refuge System, to contribute to the conservation of the ecosystems of the United States, and to increase support for the Refuge System and participation from conservation partners and the public;
 
-(h) ensure timely and effective cooperation and collaboration with Federal agencies and State fish and wildlife agencies during the course of acquiring and managing National Wildlife Refuges;
+(h) ensure timely and effective cooperation and collaboration with Federal agencies and State fish andwildlife agencies during the course of acquiring and managing National Wildlife Refuges;
 
 (i) ensure appropriate public involvement opportunities will be provided in conjunction with refuge planning and management activities; and
 

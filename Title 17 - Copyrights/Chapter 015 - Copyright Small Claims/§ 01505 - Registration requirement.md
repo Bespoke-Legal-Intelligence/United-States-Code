@@ -20,7 +20,7 @@ Certificate of Registration.—Notwithstanding any other provision of law, a cla
 
 &emsp;(2) if the proceeding may not proceed further because a registration certificate for the work is pending, the proceeding shall be held in abeyance pending submission of the certificate to the Copyright Claims Board, except that, if the proceeding is held in abeyance for more than 1 year, the Copyright Claims Board may, upon providing written notice to the parties to the proceeding, and 30 days to the parties to respond to the notice, dismiss the proceeding without prejudice; and
 
-&emsp;(3) if the Copyright Claims Board receives notice that registration with respect to the work has been refused, the proceeding shall be dismissed without prejudice.
+&emsp;(3) if the Copyright Claims Board receives notice that registration with respect to thework has been refused, the proceeding shall be dismissed without prejudice.
 
 (c)
 

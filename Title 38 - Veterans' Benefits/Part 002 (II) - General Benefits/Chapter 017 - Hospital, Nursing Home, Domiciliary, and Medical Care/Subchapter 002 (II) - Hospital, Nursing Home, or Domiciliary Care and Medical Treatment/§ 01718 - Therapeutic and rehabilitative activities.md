@@ -1,6 +1,6 @@
 ### §1718. Therapeutic and rehabilitative activities
 
-(a) In providing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may use the services of patients and members in Department health care facilities for therapeutic and rehabilitative purposes. Such patients and members shall not under these circumstances be held or considered as employees of the United States for any purpose. The Secretary shall prescribe the conditions for the use of such services.
+(a) In providing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may use the services of patients and members inDepartment health care facilities for therapeutic and rehabilitative purposes. Such patients and members shall not under these circumstances be held or considered as employees of the United States for any purpose. The Secretary shall prescribe the conditions for the use of such services.
 
 (b)(1) In furnishing rehabilitative services under this chapter, the Secretary, upon the recommendation of the Under Secretary for Health, may enter into a contract or other arrangement with any appropriate source (whether or not an element of the Department of Veterans Affairs or of any other Federal entity) to provide for therapeutic work for patients and members in Department health care facilities.
 
@@ -20,7 +20,7 @@
 
 &emsp;(3) Job development and placement services.
 
-(e) In providing rehabilitative services under this chapter, the Secretary shall take appropriate action to make it possible for the patientto take maximum advantage of any benefits to which such patient is entitled under chapter 31, 34, or 35 of this title, and, if the patient is still receiving treatment of a prolonged nature under this chapter, the provision of rehabilitative services under this chapter shall be continued during, and coordinated with, the pursuit of education and training under such chapter 31, 34, or 35.
+(e) In providing rehabilitative services under this chapter, the Secretary shall take appropriate action to make it possible for the patient to take maximum advantage of any benefits to which such patient is entitled under chapter 31, 34, or 35 of this title, and, if the patient is still receiving treatment of a prolonged nature under this chapter, the provision of rehabilitative services under this chapter shall be continued during, and coordinated with, the pursuit of education and training under such chapter 31, 34, or 35.
 
 (f) The Secretary shall prescribe regulations to ensure that the priorities set forth in section 1705 of this title shall be applied, insofar as practicable, to participation in therapeutic and rehabilitation activities carried out under this section.
 
@@ -44,7 +44,7 @@
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (c)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (c)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060,which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Amendments
 

@@ -34,7 +34,7 @@ Report.—The Secretary shall include the following information in reports submi
 
 &emsp;(4) areas where improvements are needed in one-call notification systems in operation in each State.
 
-> The report shall also include any recommendations the Secretary determines appropriate. If the Secretary determines that the purposes of this chapter have been substantially achieved,no further report under this section shall be required.
+> The report shall also include any recommendations the Secretary determines appropriate. If the Secretary determines that the purposes of this chapter have been substantially achieved, no further report under this section shall be required.
 
 (Added Pub. L. 105–178, title VII, §7302(a), June 9, 1998, 112 Stat. 479; amended Pub. L. 107–355, §2(b), Dec. 17, 2002, 116 Stat. 2985.)
 

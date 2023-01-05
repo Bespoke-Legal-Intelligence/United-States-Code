@@ -82,9 +82,9 @@ In this chapter:
 
 #### (12) Private labeler
 
-&emsp;(A) The term "private labeler" means an owner of a brand or trademark on the label ofa consumer product which bears a private label.
+&emsp;(A) The term "private labeler" means an owner of a brand or trademark on the label of a consumer product which bears a private label.
 
-&emsp;(B) A consumer product bears a private label if (i) the product (or its container) is labeled with the brand or trademark of a person other than a manufacturer of the product, (ii) the person with whose brand or trademark the product (or container) is labeled has authorized or caused the product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
+&emsp;(B) A consumer product bears a private label if (i) the product (or its container) is labeledwith the brand or trademark of a person other than a manufacturer of the product, (ii) the person with whose brand or trademark the product (or container) is labeled has authorized or caused the product to be so labeled, and (iii) the brand or trademark of a manufacturer of such product does not appear on such label.
 
 #### (13) Retailer
 

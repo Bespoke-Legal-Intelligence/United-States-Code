@@ -4,7 +4,7 @@
 
 The Secretary shall, by rule, within 60 days after December 22, 1975, prescribe guidelines for the preparation of a State energy conservation feasibility report. The Secretary shall invite the Governor of each State to submit, within 3 months after the effective date of such guidelines, such a report. Such report shall include—
 
-&emsp;(1) an assessment of the feasibility of establishing a State energy conservation goal,which goal shall consist of a reduction, as a result of the implementation of the State energy conservation plan described in this section, of 5 percent or more in the total amount of energy consumed in such State in the year 1980 from the projected energy consumption for such State in the year 1980, and
+&emsp;(1) an assessment of the feasibility of establishing a State energy conservation goal, which goal shall consist of a reduction, as a result of the implementation of the State energy conservation plan described in this section, of 5 percent or more in the total amount of energy consumed in such State in the year 1980 from the projected energy consumption for such State in the year 1980, and
 
 &emsp;(2) a proposal by such State for the development of a State energy conservation plan to achieve such goal.
 
@@ -180,7 +180,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title I, §141(c)(2), Oct. 24, 1992, 106 Stat. 2841, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect January 1, 1995."
+Pub. L. 102–486, title I, §141(c)(2), Oct. 24, 1992, 106 Stat. 2841, provided that: "The amendment made byparagraph (1) \[amending this section\] shall take effect January 1, 1995."
 
 #### Wage Rate Requirements
 

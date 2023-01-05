@@ -78,7 +78,7 @@ In the case of an installment obligation to which this section applies—
 
 #### (6) Regulations
 
-&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this subsection including regulations providing for the application of this subsection in the case of contingent payments, short taxable years, and pass-thru entities.
+&emsp;The Secretary shall prescribe such regulations as may be necessary to carry out theprovisions of this subsection including regulations providing for the application of this subsection in the case of contingent payments, short taxable years, and pass-thru entities.
 
 #### (d) Pledges, etc., of installment obligations
 
@@ -100,7 +100,7 @@ In the case of an installment obligation to which this section applies—
 
 #### (3) Later payments treated as receipt of tax paid amounts
 
-&emsp;If any amount is treated as received under paragraph (1) with respect to any installmentobligation, subsequent payments received on such obligation shall not be taken into account for purposes of section 453 to the extent that the aggregate of such subsequent payments does not exceed the aggregate amount treated as received under paragraph (1).
+&emsp;If any amount is treated as received under paragraph (1) with respect to any installment obligation, subsequent payments received on such obligation shall not be taken into account for purposes of section 453 to the extent that the aggregate of such subsequent payments does not exceed the aggregate amount treated as received under paragraph (1).
 
 #### (4) Secured indebtedness
 
@@ -148,7 +148,7 @@ Subsec. (b)(1). Pub. L. 100–647, §5076(a), amended par. (1) generally. Prior 
 
 Subsec. (b)(2). Pub. L. 100–647, §2004(d)(7), inserted "and subsection (c)(4)" after "of this paragraph" in last sentence.
 
-Subsec. (b)(3). Pub. L. 100–647, §2004(d)(8), substituted "farm property" for "personal use and farm property" in heading and amended text generally. Prior to amendment, text read as follows: "An installment obligation shall not be treated as described in paragraph (1) if it arises from the disposition—
+Subsec. (b)(3). Pub. L. 100–647, §2004(d)(8), substituted "farm property" for "personal use and farm property"in heading and amended text generally. Prior to amendment, text read as follows: "An installment obligation shall not be treated as described in paragraph (1) if it arises from the disposition—
 
 &emsp;"(A) by an individual of personal use property (within the meaning of section 1275(b)(3)), or
 

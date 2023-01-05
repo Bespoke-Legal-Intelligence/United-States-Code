@@ -32,15 +32,15 @@
 
 (2)(A) An amount payable under paragraph (1)(A)(i) of this subsection shall be payable with interest.
 
-&emsp;(B) Such interest—
+(B) Such interest—
 
-&emsp;&emsp;(i) shall be computed for the period beginning on the effective date of the withdrawal or reduction involved and ending on a date not more than 30 days before the date on which payment is made;
+&emsp;(i) shall be computed for the period beginning on the effective date of the withdrawal or reduction involved and ending on a date not more than 30 days before the date on which payment is made;
 
-&emsp;&emsp;(ii) shall be computed at the rate or rates in effect under section 6621(a)(1) of the Internal Revenue Code of 1986 during the period described in clause (i); and
+&emsp;(ii) shall be computed at the rate or rates in effect under section 6621(a)(1) of the Internal Revenue Code of 1986 during the period described in clause (i); and
 
-&emsp;&emsp;(iii) shall be compounded daily.
+&emsp;(iii) shall be compounded daily.
 
-&emsp;(C) Interest under this paragraph shall be paid out of amounts available for payments under paragraph (1) of this subsection.
+(C) Interest under this paragraph shall be paid out of amounts available for payments under paragraph (1) of this subsection.
 
 (3) This subsection does not apply to any reclassification action nor authorize the setting aside of an otherwise proper promotion by a selecting official from a group of properly ranked and certified candidates.
 

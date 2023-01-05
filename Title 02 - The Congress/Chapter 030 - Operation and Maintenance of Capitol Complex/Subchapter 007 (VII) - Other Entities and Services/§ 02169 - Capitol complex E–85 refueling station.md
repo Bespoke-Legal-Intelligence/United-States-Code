@@ -6,7 +6,7 @@ The Architect of the Capitol may construct a fuel tank and pumping system for E�
 
 #### (b) Use
 
-The E–85 fuel tank and pumping system shall be available for use by all legislative branch vehicles capable of operating with E–85 fuel, subject to such other legislative branch agencies reimbursing the Architect of the Capitol for thecosts of E–85 fuel used by such other legislative branch vehicles.
+The E–85 fuel tank and pumping system shall be available for use by all legislative branch vehicles capable of operating with E–85 fuel, subject to such other legislative branch agencies reimbursing the Architect of the Capitol for the costs of E–85 fuel used by such other legislative branch vehicles.
 
 #### (c) Authorization of appropriations
 

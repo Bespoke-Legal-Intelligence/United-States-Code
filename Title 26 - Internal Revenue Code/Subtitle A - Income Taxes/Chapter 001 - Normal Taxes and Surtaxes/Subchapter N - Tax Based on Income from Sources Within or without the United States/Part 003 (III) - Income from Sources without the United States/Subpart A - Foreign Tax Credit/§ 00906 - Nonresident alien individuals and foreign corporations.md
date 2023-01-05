@@ -32,7 +32,7 @@ Subsec. (b)(4), (5). Pub. L. 115–97, §14301(c)(23), struck out pars. (4) and 
 
 "(4) For purposes of sections 902(a) and 78, a foreign corporation choosing the benefits of this subpart which receives dividends shall, with respect to such dividends, be treated as a domestic corporation.
 
-"(5) For purposes of section 902, any income, war profits, and excess profits taxes paid or accrued (or deemed paid or accrued) to any foreign country or possession of the United States with respect to income effectively connected with the conduct of a trade or business within the United States shall not be taken intoaccount, and any accumulated profits attributable to such income shall not be taken into account."
+"(5) For purposes of section 902, any income, war profits, and excess profits taxes paid or accrued (or deemed paid or accrued) to any foreign country or possession of the United States with respect to income effectively connected with the conduct of a trade or business within the United States shall not be taken into account, and any accumulated profits attributable to such income shall not be taken into account."
 
 <b>2007</b>—Subsec. (b)(5) to (7). Pub. L. 110–172 redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which read as follows: "No credit shall be allowed under this section for any income, war profits, and excess profits taxes paid or accrued with respect to the foreign trade income (within the meaning of section 923(b)) of a FSC."
 
@@ -58,7 +58,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 1241(c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1241(e) of Pub. L. 99–514, set out as an Effective Date note under section 884 of this title.
 
-Amendment by section 1876(d)(3) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1876(d)(3) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

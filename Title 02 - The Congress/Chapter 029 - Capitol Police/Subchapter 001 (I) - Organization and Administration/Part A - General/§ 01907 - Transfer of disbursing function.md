@@ -12,7 +12,7 @@
 
 #### (3) Continuity of function during transition
 
-&emsp;Until such time as the Chief notifies the Chief Administrative Officer of the House ofRepresentatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under this subsection, the House of Representatives and the Senate shall continue to serve as the disbursing authority on behalf of the Capitol Police.
+&emsp;Until such time as the Chief notifies the Chief Administrative Officer of the House of Representatives and the Secretary of the Senate that systems are in place for discharging the disbursing functions under this subsection, the House of Representatives and the Senate shall continue to serve as the disbursing authority on behalf of the Capitol Police.
 
 #### (b) Treasury accounts
 
@@ -54,7 +54,7 @@ Except as may otherwise be provided in law, the unexpended balances of appropria
 
 #### (B) Special rule for terminations
 
-&emsp;&emsp;The Chief may terminate an officer, member, or employee only after the Chief has provided notice of the termination to the Capitol Police Board (in such manner as the Board may from time to time require) and the Board has approved the termination, except that if the Board has not disapproved the termination prior to the expiration of the 30-day period which begins on the date the Board receives the notice, the Board shall be deemed to have approved the termination.
+&emsp;&emsp;The Chief may terminate an officer, member, or employee only after the Chief has provided notice of the termination to the Capitol Police Board (in such manner as the Board may from time to time require) and the Board has approved the termination, except that if the Board has not disapproved the termination prior to the expiration of the 30-day period which begins on the date the Board receives the notice, the Boardshall be deemed to have approved the termination.
 
 #### (C) Notice or approval
 

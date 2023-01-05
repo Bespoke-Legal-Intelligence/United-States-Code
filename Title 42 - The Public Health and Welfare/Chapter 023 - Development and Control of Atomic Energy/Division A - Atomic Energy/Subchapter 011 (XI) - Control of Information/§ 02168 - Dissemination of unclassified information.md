@@ -36,7 +36,7 @@ For the purposes of section 2273 of this title, any regulation prescribed or ord
 
 Any determination by the Secretary concerning the applicability of this section shall be subject to judicial review pursuant to section 552(a)(4)(B) of title 5.
 
-(Aug. 1, 1946, ch. 724, title I, §148, as added Pub. L. 97–90, title II, §210(a)(1), Dec. 4, 1981, 95 Stat. 1169; amended Pub. L. 97–415, §17, Jan. 4, 1983, 96 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 112–239, div. C, title XXXI, §3134(c), Jan. 2, 2013, 126 Stat. 2193.)
+(Aug. 1, 1946, ch. 724, title I, §148, as added Pub. L. 97–90, title II, §210(a)(1), Dec. 4, 1981, 95 Stat.1169; amended Pub. L. 97–415, §17, Jan. 4, 1983, 96 Stat. 2076; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 112–239, div. C, title XXXI, §3134(c), Jan. 2, 2013, 126 Stat. 2193.)
 
 #### <b>Editorial Notes</b>
 

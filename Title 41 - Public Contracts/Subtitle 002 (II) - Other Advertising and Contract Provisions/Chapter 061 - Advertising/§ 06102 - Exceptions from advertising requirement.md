@@ -14,7 +14,7 @@ Department of State.—Section 6101 of this title does not apply to the Departme
 
 (d)
 
-International Committee of Aerial Legal Experts.—Section 6101 of this title does not apply to the International Committee ofAerial Legal Experts with respect to necessary stenographic and other services by contract.
+International Committee of Aerial Legal Experts.—Section 6101 of this title does not apply to the International Committee of Aerial Legal Experts with respect to necessary stenographic and other services by contract.
 
 (e)
 
@@ -36,7 +36,11 @@ Congressional Budget Office.—The Director of the Congressional Budget Office m
 
 Senate.—Section 6101 of this title does not apply to agreements, contracts or purchases by any office of the Senate.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3802; Pub. L. 115–141, div. I, title I, §102, Mar. 23, 2018, 132 Stat. 772.)
+(j)
+
+Librarian of Congress.—Section 6101 of this title does not apply to a procurement made against an order placed under a task order contract or a delivery order contract (as such terms are defined in section 4101 of this title) entered into by the Librarian of Congress.
+
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3802; Pub. L. 115–141, div. I, title I, §102, Mar. 23, 2018, 132 Stat. 772; Pub. L. 117–103, div. I, title I, §142(b), Mar. 15, 2022, 136 Stat. 519.)
 
 Historical and Revision Notes
 
@@ -104,5 +108,13 @@ In subsection (h), the text of 41:6a–4(b) is omitted as unnecessary.
 
 #### Amendments
 
+<b>2022</b>—Subsec. (j). Pub. L. 117–103 added subsec. (j).
+
 <b>2018</b>—Subsec. (i). Pub. L. 115–141 added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 applicable with respect to fiscal year 2022 and each succeeding fiscal year, see section 186(d) of Title 2, The Congress.
 

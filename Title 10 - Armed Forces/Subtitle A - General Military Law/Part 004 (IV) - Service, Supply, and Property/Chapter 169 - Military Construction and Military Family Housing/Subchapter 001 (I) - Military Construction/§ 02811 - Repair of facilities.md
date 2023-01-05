@@ -14,7 +14,7 @@ Prohibition on New Construction or Additions.—Construction of new facilities o
 
 (d)
 
-Congressional Notification.—When a decision is made to carry out a repair project under this section with an estimated cost in excess of $7,500,000, the Secretary concerned shall submit, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a report containing—
+Congressional Notification.—When a decision is made to carry out a repair project under this section with an estimated cost in excess of $7,500,000, the Secretary concerned shallsubmit, in an electronic medium pursuant to section 480 of this title, to the appropriate committees of Congress a report containing—
 
 &emsp;(1) the justification for the repair project and the current estimate of the cost of the project, including, in the case of a multi-year repair project to a single facility, the total cost of all phases of the project;
 
@@ -30,7 +30,7 @@ Repair Project Defined.—In this section, the term "repair project" means a pro
 
 &emsp;(2) to convert a real property facility, system, or component to a new functional purpose without increasing its external dimensions.
 
-(Added Pub. L. 99–661, div. A, title III, §315(a), Nov. 14, 1986, 100 Stat. 3854, §2810; renumbered§2811, Pub. L. 100–26, §7(e)(3), Apr. 21, 1987, 101 Stat. 281; amended Pub. L. 103–337, div. B, title XXVIII, §2801(a), Oct. 5, 1994, 108 Stat. 3050; Pub. L. 105–85, div. B, title XXVIII, §2802, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 108–375, div. B, title XXVIII, §2801, Oct. 28, 2004, 118 Stat. 2119; Pub. L. 111–84, div. B, title XXVIII, §2802, Oct. 28, 2009, 123 Stat. 2661; Pub. L. 114–328, div. B, title XXVIII, §2802, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. B, title XXVIII, §2801(a)(8), Dec. 12, 2017, 131 Stat. 1841.)
+(Added Pub. L. 99–661, div. A, title III, §315(a), Nov. 14, 1986, 100 Stat. 3854, §2810; renumbered §2811, Pub. L. 100–26, §7(e)(3), Apr. 21, 1987, 101 Stat. 281; amended Pub. L. 103–337, div. B, title XXVIII, §2801(a), Oct. 5, 1994, 108 Stat. 3050; Pub. L. 105–85, div. B, title XXVIII, §2802, Nov. 18, 1997, 111 Stat. 1990; Pub. L. 108–375, div. B, title XXVIII, §2801, Oct. 28, 2004, 118 Stat. 2119; Pub. L. 111–84, div. B, title XXVIII, §2802, Oct. 28, 2009, 123 Stat. 2661; Pub. L. 114–328, div. B, title XXVIII, §2802, Dec. 23, 2016, 130 Stat. 2712; Pub. L. 115–91, div. B, title XXVIII, §2801(a)(8), Dec. 12, 2017, 131 Stat. 1841.)
 
 #### <b>Editorial Notes</b>
 

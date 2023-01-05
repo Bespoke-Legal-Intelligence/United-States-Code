@@ -60,7 +60,7 @@
 
 #### (3) Requirement
 
-&emsp;The Director shall carry out laboratory-directed research and development activities at the National Energy Technology Laboratory consistent with Department of Energy Order 413.2C, dated August 2, 2018 (or a successor order).
+&emsp;The Director shall carry out laboratory-directed research and development activities atthe National Energy Technology Laboratory consistent with Department of Energy Order 413.2C, dated August 2, 2018 (or a successor order).
 
 #### (4) Annual report on use of authority
 

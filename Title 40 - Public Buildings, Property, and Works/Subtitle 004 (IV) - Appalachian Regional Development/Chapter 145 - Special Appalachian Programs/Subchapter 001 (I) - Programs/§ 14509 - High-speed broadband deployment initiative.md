@@ -38,7 +38,7 @@ Federal Share.—Notwithstanding any provision of law limiting the Federal share
 
 (f)
 
-Request for Data.—Before making a grant for a project or activity described in subsection (b)(2), the Appalachian Regional Commissionshall request from the Federal Communications Commission, the National Telecommunications and Information Administration, the Economic Development Administration, and the Department of Agriculture data on—
+Request for Data.—Before making a grant for a project or activity described in subsection (b)(2), the Appalachian Regional Commission shall request from the Federal Communications Commission, the National Telecommunications and Information Administration, the Economic Development Administration, and the Department of Agriculture data on—
 
 &emsp;(1) the level and extent of broadband service that exists in the area proposed to be served by the broadband service-related infrastructure; and
 

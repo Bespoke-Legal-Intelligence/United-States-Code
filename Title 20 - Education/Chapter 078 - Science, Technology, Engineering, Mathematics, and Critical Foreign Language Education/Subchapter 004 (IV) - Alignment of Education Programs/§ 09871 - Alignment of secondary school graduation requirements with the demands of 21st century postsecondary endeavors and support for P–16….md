@@ -64,13 +64,13 @@ In this section:
 
 &emsp;&emsp;&emsp;(xiii) not less than 1 member of the Armed Forces; and
 
-&emsp;&emsp;(B) may include other individuals or representatives of other organizations, such as a school administrator, a faculty member at an institution of higher education, a member of a civic or community organization, a representative from a private institution of higher education, a dean or similar representative of a school of education at an institution of higher education or a similar teacher certification or licensure program, or the State official responsible for economic development.
+&emsp;&emsp;(B) may include other individuals or representatives of other organizations, such asa school administrator, a faculty member at an institution of higher education, a member of a civic or community organization, a representative from a private institution of higher education, a dean or similar representative of a school of education at an institution of higher education or a similar teacher certification or licensure program, or the State official responsible for economic development.
 
 #### (c) Grants authorized
 
 The Secretary is authorized to award grants, on a competitive basis, to States to enable each such State to work with a statewide partnership—
 
-&emsp;(1) to promote better alignment of content knowledge requirements for secondary schoolgraduation with the knowledge and skills needed to succeed in postsecondary education, the 21st century workforce, or the Armed Forces; or
+&emsp;(1) to promote better alignment of content knowledge requirements for secondary school graduation with the knowledge and skills needed to succeed in postsecondary education, the 21st century workforce, or the Armed Forces; or
 
 &emsp;(2) to establish or improve a statewide P–16 education data system.
 
@@ -276,7 +276,7 @@ There are authorized to be appropriated to carry out this section $120,000,000 f
 
 #### References in Text
 
-This Act, referred to in subsecs. (e)(2)(C)(ii)(II) and (i)(2), is Pub. L. 110–69, Aug. 9, 2007, 121 Stat. 572, known as the America COMPETES Act, and also as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+This Act, referred to in subsecs. (e)(2)(C)(ii)(II) and (i)(2), is Pub. L. 110–69, Aug. 9, 2007, 121 Stat. 572, knownas the America COMPETES Act, and also as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 #### Prior Provisions
 
@@ -284,7 +284,7 @@ A prior section 6201 of Pub. L. 110–69 was classified to section 9851 of this 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (e)(2)(D)(ii)(I). Pub. L. 114–95, which directed amendment of section 6401(e)(2)(D)(ii)(I) of Pub. L. 110–69 by substituting "yearly test records of individual students with respect to assessments under section 6311(b)(2) of this title" for "yearly test records of individual students with respect to assessments undersection 6311(b) of this title", was executed to this section to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as this section.
+<b>2015</b>—Subsec. (e)(2)(D)(ii)(I). Pub. L. 114–95, which directed amendment of section 6401(e)(2)(D)(ii)(I) of Pub. L. 110–69 by substituting "yearly test records of individual students with respect to assessments under section 6311(b)(2) of this title" for "yearly test records of individual students with respect to assessments under section 6311(b) of this title", was executed to this section to reflect the probable intent of Congress and the renumbering of section 6401 of Pub. L. 110–69 as this section.
 
 <b>2011</b>—Subsec. (j). Pub. L. 111–358, §1003(c), amended subsec. (j) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section $120,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal year 2009."
 

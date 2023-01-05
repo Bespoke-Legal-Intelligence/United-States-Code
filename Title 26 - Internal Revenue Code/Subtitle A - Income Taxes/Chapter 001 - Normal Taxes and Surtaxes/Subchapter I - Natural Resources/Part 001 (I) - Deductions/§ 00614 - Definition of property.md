@@ -18,7 +18,7 @@ In the case of oil and gas wells or geothermal deposits—
 
 #### (2) Election to treat operating mineral interests as separate properties
 
-&emsp;If the taxpayer has more than one operating mineral interest in a single tract or parcel of land, he may elect to treat one or more of such operating mineral interests as separate properties. The taxpayer may not have more than one combination of operating mineral interests in a single tract or parcel of land. If the taxpayer makes the election provided in this paragraph with respect to any interest in a tract or parcel of land, each operating mineralinterest which is discovered or acquired by the taxpayer in such tract or parcel of land after the taxable year for which the election is made shall be treated—
+&emsp;If the taxpayer has more than one operating mineral interest in a single tract or parcel of land, he may elect to treat one or more of such operating mineral interests as separate properties. The taxpayer may not have more than one combination of operating mineral interests in a single tract or parcel of land. If the taxpayer makes the election provided in this paragraph with respect to any interest in a tract or parcel of land, each operating mineral interest which is discovered or acquired by the taxpayer in such tract or parcel of land after the taxable year for which the election is made shall be treated—
 
 &emsp;&emsp;(A) if there is no combination of interests in such tract or parcel, as a separate property unless the taxpayer elects to combine it with another interest, or
 
@@ -36,7 +36,7 @@ In the case of oil and gas wells or geothermal deposits—
 
 #### (B) Limitation
 
-&emsp;&emsp;Subparagraph (A) shall apply to a voluntary agreement only if all the operating mineral interests covered by such agreement—
+&emsp;&emsp;Subparagraph (A) shall apply to a voluntary agreement only if all the operatingmineral interests covered by such agreement—
 
 &emsp;&emsp;&emsp;(i) are in the same deposit, or are in 2 or more deposits the joint development or production of which is logical from the standpoint of geology, convenience, economy, or conservation, and
 
@@ -86,7 +86,7 @@ For purposes of this section, the term "operating mineral interest" includes onl
 
 #### (1) Aggregation of separate interests
 
-&emsp;If a taxpayer owns two or more separate nonoperating mineral interests in a single tract or parcel of land or in two or more adjacent tracts or parcels of land, the Secretary shall, on showing by the taxpayer that a principal purpose is not the avoidance of tax, permit the taxpayer to treat (for all purposes of this subtitle) all such mineral interests in each separate kind of mineral deposit as one property. If such permission is granted for any taxable year, the taxpayer shall treat such interests as one property for all subsequent taxable years unless the Secretary consents to a different treatment.
+&emsp;If a taxpayer owns two or more separate nonoperating mineral interests in a single tract or parcel of land or in two or more adjacent tracts or parcels of land, the Secretary shall, on showing by the taxpayer that a principal purpose is not the avoidance of tax, permit the taxpayer to treat (for all purposes of this subtitle) all such mineral interests ineach separate kind of mineral deposit as one property. If such permission is granted for any taxable year, the taxpayer shall treat such interests as one property for all subsequent taxable years unless the Secretary consents to a different treatment.
 
 #### (2) Nonoperating mineral interests defined
 
@@ -122,7 +122,7 @@ Subsec. (c)(4). Pub. L. 94–455, §1901(a)(87)(A)(i), struck out par. (4) which
 
 Subsec. (c). Pub. L. 88–272, §226(b)(1), (2), struck out par. (5) which defined operating mineral interests, and "1958" before "Special rules" in heading.
 
-Subsec. (d). Pub. L. 88–272, §226(b)(3), amended subsec. (d) generally, substituting the definition of operating mineral interests, for provisions relating to the 1939Code treatment respecting operating mineral interest in case of oil and gas wells.
+Subsec. (d). Pub. L. 88–272, §226(b)(3), amended subsec. (d) generally, substituting the definition of operating mineral interests, for provisions relating to the 1939 Code treatment respecting operating mineral interest in case of oil and gas wells.
 
 Subsec. (e)(2). Pub. L. 88–272, §226(b)(4), struck out "within the meaning of subsection (b)(3)" at end.
 

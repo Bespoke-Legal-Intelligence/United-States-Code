@@ -4,7 +4,7 @@ Each State reporting under the provisions of this section and section 41307 of t
 
 &emsp;(1) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the observance of any waiting period before accepting a missing child or unidentified person report;
 
-&emsp;(2) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the removal of a missing person entry from its State law enforcement system or the National Crime Information Center computer database based solely on the age of the person;
+&emsp;(2) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the removal of a missing person entry from its State law enforcement system, the National Crime Information Center computer database, or the NamUs databases based solely on the age of the person;
 
 &emsp;(3) provide that each such report and all necessary and available information, which, with respect to each missing child report, shall include—
 
@@ -16,11 +16,11 @@ Each State reporting under the provisions of this section and section 41307 of t
 
 &emsp;&emsp;(D) the category under which the child is reported missing;
 
-> &emsp;is entered within 2 hours of receipt into the State law enforcement system and the National Crime Information Center computer networks and made available to the Missing Children Information Clearinghouse within the State or other agency designated within the State to receive such reports; and
+> &emsp;is entered within 2 hours of receipt into the State law enforcement system, the National Crime Information Center computer networks, and the NamUs databases and made available to the Missing Children Information Clearinghouse within the State or other agency designated within the State to receive such reports; and
 
-&emsp;(4) provide that after receiving reports as provided in paragraph (3), the law enforcement agency that entered the report into the National Crime Information Center shall—
+&emsp;(4) provide that after receiving reports as provided in paragraph (3), the law enforcement agency that entered the report into the National Crime Information Center or the NamUs databases shall—
 
-&emsp;&emsp;(A) no later than 30 days after the original entry of the record into the State law enforcement system and National Crime Information Center computer networks, verify and update such record with any additional information, including, where available, medical and dental records and a photograph taken during the previous 180 days;
+&emsp;&emsp;(A) no later than 30 days after the original entry of the record into the State law enforcement system, National Crime Information Center computer networks, and the NamUs databases, verify and update such record with any additional information, including, where available, medical and dental records and a photograph taken during the previous 180 days;
 
 &emsp;&emsp;(B) institute or assist with appropriate search and investigative procedures;
 
@@ -30,7 +30,7 @@ Each State reporting under the provisions of this section and section 41307 of t
 
 &emsp;&emsp;(E) grant permission to the National Crime Information Center Terminal Contractor for the State to update the missing person record in the National Crime Information Center computer networks with additional information learned during the investigation relating to the missing person.
 
-(Pub. L. 101–647, title XXXVII, §3702, Nov. 29, 1990, 104 Stat. 4967; Pub. L. 109–248, title I, §154(a), July 27, 2006, 120 Stat. 611; Pub. L. 114–22, title I, §116(b), May 29, 2015, 129 Stat. 244.)
+(Pub. L. 101–647, title XXXVII, §3702, Nov. 29, 1990, 104 Stat. 4967; Pub. L. 109–248, title I, §154(a), July 27, 2006, 120 Stat. 611; Pub. L. 114–22, title I, §116(b), May 29, 2015, 129 Stat. 244; Pub. L. 117–327, §2(c)(2), Dec. 27, 2022, 136 Stat. 4455.)
 
 #### <b>Editorial Notes</b>
 
@@ -40,13 +40,21 @@ Section was formerly classified to section 5780 of Title 42, The Public Health a
 
 #### Amendments
 
+<b>2022</b>—Par. (2). Pub. L. 117–327, §2(c)(2)(A), substituted ", the National Crime Information Center computer database, or the NamUs databases" for "or the National Crime Information Center computer database".
+
+Par. (3). Pub. L. 117–327, §2(c)(2)(B), substituted ", the National Crime Information Center computer networks, and the NamUs databases" for "and the National Crime Information Center computer networks" in concluding provisions.
+
+<b>2022</b>—Par. (4). Pub. L. 117–327, §2(c)(2)(C)(i), inserted "or the NamUs databases" after "National Crime Information Center" in introductory provisions.
+
+Par. (4)(A). Pub. L. 117–327, §2(c)(2)(C)(ii), substituted ", National Crime Information Center computer networks, and the NamUs databases" for "and National Crime Information Center computer networks".
+
 <b>2015</b>—Par. (2). Pub. L. 114–22, §116(b)(1), struck out "and" at end.
 
 Par. (3)(B) to (D). Pub. L. 114–22, §116(b)(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
 Par. (4). Pub. L. 114–22, §116(b)(3)(A), substituted "paragraph (3)" for "paragraph (2)" in introductory provisions.
 
-Par. (4)(A). Pub. L. 114–22, §116(b)(3)(B), substituted "30 days" for "60 days" and inserted "and a photograph taken during the previous 180 days" after "dental records".
+Par. (4)(A). Pub. L. 114–22, §116(b)(3)(B), substituted "30 days" for "60 days" and inserted "and a photographtaken during the previous 180 days" after "dental records".
 
 Par. (4)(B), (C). Pub. L. 114–22, §116(b)(3)(C), (E), struck out "and" at end of subpar. (B) and added subpar. (C). Former subpar. (C) redesignated (D).
 
@@ -57,4 +65,10 @@ Pub. L. 114–22, §116(b)(3)(D), redesignated subpar. (C) as (D).
 Par. (4)(E). Pub. L. 114–22, §116(b)(3)(G), added subpar. (E).
 
 <b>2006</b>—Pub. L. 109–248 added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted "within 2 hours of receipt" for "immediately" in concluding provisions of par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–327 applicable with respect to reports made before, on, or after Dec. 27, 2022, see section 40506(c)(3) of this title.
 

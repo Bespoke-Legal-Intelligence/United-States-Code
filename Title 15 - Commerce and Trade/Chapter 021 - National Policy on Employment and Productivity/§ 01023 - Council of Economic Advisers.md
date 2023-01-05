@@ -64,11 +64,11 @@ To enable the Council to exercise its powers, functions, and duties under this c
 
 #### References in Text
 
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Codification
 
-In subsec. (a), provisions that fixed the compensation of members of the Council have been omitted as obsolete. The positions of chairman and members of the Council are under the Executive Schedule, see sections5313 and 5315 of Title 5, Government Organization and Employees.
+In subsec. (a), provisions that fixed the compensation of members of the Council have been omitted as obsolete. The positions of chairman and members of the Council are under the Executive Schedule, see sections 5313 and 5315 of Title 5, Government Organization and Employees.
 
 In subsec. (b), provisions that authorized the Council to fix the compensation of such specialists and other experts as may be necessary for the carrying out of its functions under this chapter, without regard to "the Classification Act of 1923, as amended", were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this subsection because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
@@ -82,7 +82,7 @@ In subsec. (b), provisions that authorized the Council to fix the compensation o
 
 Subsec. (c)(4). Pub. L. 95–523, §110(a)(2), inserted "including small and larger business" after "free competitive enterprise" and inserted "full" after "and to maintain".
 
-Subsec. (e). Pub. L. 95–523, §110(a)(3), (4), inserted in par. (1) ", and shall consult with the board or boards established under section 1022f of this title" after "as it deems advisable" and after par. (2) inserted provisions authorizing and directing the Council to seek and obtain the cooperation of executive and independent agencies in the development of specialized studies essential to its responsibilities.
+Subsec. (e). Pub. L. 95–523, §110(a)(3), (4), inserted in par. (1) ", and shall consult with the board or boardsestablished under section 1022f of this title" after "as it deems advisable" and after par. (2) inserted provisions authorizing and directing the Council to seek and obtain the cooperation of executive and independent agencies in the development of specialized studies essential to its responsibilities.
 
 <b>1961</b>—Subsec. (f). Pub. L. 87–49 struck out provisions which limited the appropriations for salaries of the members and officers and employees of the Council to not more than $345,000 for each fiscal year.
 
@@ -100,7 +100,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### <b>Executive Documents</b>
 
@@ -128,11 +128,11 @@ Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet C
 
 #### Executive Order No. 12296
 
-Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President's Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President's Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Extension of Term of President's Economic Policy Advisory Board
 
-Term of President's Economic Policy Advisory Board extended until Sept. 30, 1989, by Ex. Ord. No. 12610,Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President's Economic Policy Advisory Board extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Economic Policy Advisory Board were contained in the following prior Executive Orders:
 

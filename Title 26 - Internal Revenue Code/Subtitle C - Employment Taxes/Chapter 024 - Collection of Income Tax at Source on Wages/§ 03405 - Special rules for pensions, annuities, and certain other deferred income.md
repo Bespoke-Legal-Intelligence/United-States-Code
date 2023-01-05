@@ -4,7 +4,7 @@
 
 #### (1) Withholding as if payment were wages
 
-&emsp;The payor of any periodic payment (as defined in subsection (e)(2)) shall withhold from such payment the amount which would be required to be withheld from such payment if such payment were a payment of wages by an employer to an employee for the appropriate payroll period.
+&emsp;The payor of any periodic payment (as defined in subsection (e)(2)) shall withhold fromsuch payment the amount which would be required to be withheld from such payment if such payment were a payment of wages by an employer to an employee for the appropriate payroll period.
 
 #### (2) Election of no withholding
 
@@ -206,13 +206,13 @@ For purposes of this chapter (and so much of subtitle F as relates to this chapt
 
 &emsp;(2) in the case of any designated distribution not subject to withholding under this section by reason of an election under this section, the amount withheld shall be treated as zero.
 
-(Added Pub. L. 97–248, title III, §334(a), Sept. 3, 1982, 96 Stat. 623; amended Pub. L. 98–369, div. A, title V, §542(c), title VII, §§714(j)(1), (4), (5), 722(h)(4)(A), July 18, 1984, 98 Stat. 891, 962, 963, 976; Pub. L. 99–514, title XI, §1102(e)(1), title XII, §1234(b)(1), title XVIII, §1875(c)(10), Oct. 22, 1986, 100 Stat. 2416, 2566, 2895; Pub. L. 100–647, title I, §1012(bb)(2)(A)–(C), Nov. 10, 1988, 102 Stat. 3534; Pub. L. 102–318, title V, §§521(b)(36)–(40), 522(b)(1)–(2)(C), July 3, 1992, 106 Stat. 312–314; Pub. L. 104–188, title I, §1704(t)(71), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 106–554, §1(a)(7) \[title III, §314(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §641(a)(1)(D)(ii), (iii), June 7, 2001, 115 Stat. 119; Pub. L. 115–97, title I, §11041(c)(2)(F), (G), Dec. 22, 2017, 131 Stat. 2084.)
+(Added Pub. L. 97–248, title III, §334(a), Sept. 3, 1982, 96 Stat. 623; amended Pub. L. 98–369, div. A, title V, §542(c), title VII, §§714(j)(1), (4), (5), 722(h)(4)(A), July 18, 1984, 98 Stat. 891, 962, 963, 976; Pub. L. 99–514, title XI, §1102(e)(1), title XII, §1234(b)(1), title XVIII, §1875(c)(10), Oct. 22, 1986, 100 Stat. 2416, 2566, 2895; Pub. L. 100–647, title I,§1012(bb)(2)(A)–(C), Nov. 10, 1988, 102 Stat. 3534; Pub. L. 102–318, title V, §§521(b)(36)–(40), 522(b)(1)–(2)(C), July 3, 1992, 106 Stat. 312–314; Pub. L. 104–188, title I, §1704(t)(71), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 106–554, §1(a)(7) \[title III, §314(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643; Pub. L. 107–16, title VI, §641(a)(1)(D)(ii), (iii), June 7, 2001, 115 Stat. 119; Pub. L. 115–97, title I, §11041(c)(2)(F), (G), Dec. 22, 2017, 131 Stat. 2084.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 301(d) of the Tax Reduction Act of 1975, referred to in subsec. (d)(2)(B)(iii), is section 301(d) ofPub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, relating to plan requirements for taxpayers electing additional credits, which was set out as a note under section 46 of this title and was repealed by Pub. L. 95–600, title I, §141(f)(1), Nov. 6, 1978, 92 Stat. 2795.
+Section 301(d) of the Tax Reduction Act of 1975, referred to in subsec. (d)(2)(B)(iii), is section 301(d) of Pub. L. 94–12, Mar. 29, 1975, 89 Stat. 26, relating to plan requirements for taxpayers electing additional credits, which was set out as a note under section 46 of this title and was repealed by Pub. L. 95–600, title I, §141(f)(1), Nov. 6, 1978, 92 Stat. 2795.
 
 #### Amendments
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 106–554 effective as if included in the provisions of the
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 521(b)(36)–(40) of Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
+Amendment by section 521(b)(36)–(40) of Pub. L. 102–318 applicable to distributions after Dec. 31, 1992,see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
 
 Amendment by section 522(b)(1)–(2)(C) of Pub. L. 102–318 applicable, except as otherwise provided, to distributions after Dec. 31, 1992, see section 522(d) of Pub. L. 102–318, set out as a note under section 401 of this title.
 
@@ -296,7 +296,7 @@ Pub. L. 100–647, title I, §1012(bb)(2)(D), Nov. 10, 1988, 102 Stat. 3534, pro
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1102(e)(1) of Pub. L. 99–514 applicable to contributions and distributions for taxableyears beginning after Dec. 31, 1986, see section 1102(g) of Pub. L. 99–514, set out as a note under section 219 of this title.
+Amendment by section 1102(e)(1) of Pub. L. 99–514 applicable to contributions and distributions for taxable years beginning after Dec. 31, 1986, see section 1102(g) of Pub. L. 99–514, set out as a note under section 219 of this title.
 
 Pub. L. 99–514, title XII, §1234(b)(2), Oct. 22, 1986, 100 Stat. 2566, provided that: "The amendment made by this subsection \[amending this section\] shall apply to payments after December 31, 1986."
 

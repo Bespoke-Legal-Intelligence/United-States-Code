@@ -22,7 +22,7 @@ In exercising the authority provided by section 8242 of this title, the Secretar
 
 #### (b) Contents of proposals
 
-Proposals under paragraph (1)(A) of subsection (a) shall include a list of the specific Federal buildings proposed to be provided with solar energy equipment, the funds necessary for the acquisition and installation of such equipment, the proposed implementation schedule, maintenance costs, the estimated savings in fossil fuelsand electricity, the estimated payback time, and such other information as may be required by the Secretary.
+Proposals under paragraph (1)(A) of subsection (a) shall include a list of the specific Federal buildings proposed to be provided with solar energy equipment, the funds necessary for the acquisition and installation of such equipment, the proposed implementation schedule, maintenance costs, the estimated savings in fossil fuels and electricity, the estimated payback time, and such other information as may be required by the Secretary.
 
 #### (c) Initial submission of proposals
 

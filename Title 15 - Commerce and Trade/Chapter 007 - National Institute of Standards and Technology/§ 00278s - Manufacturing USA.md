@@ -28,7 +28,7 @@ In this section:
 
 &emsp;&emsp;(C) to facilitate the transition of innovative technologies into scalable, cost-effective, and high-performing manufacturing capabilities;
 
-&emsp;&emsp;(D) to facilitate access by manufacturing enterprises to capital-intensive infrastructure, including high-performance electronicsand computing, and the supply chains that enable these technologies;
+&emsp;&emsp;(D) to facilitate access by manufacturing enterprises to capital-intensive infrastructure, including high-performance electronics and computing, and the supply chains that enable these technologies;
 
 &emsp;&emsp;(E) to accelerate the development of an advanced manufacturing workforce;
 
@@ -100,7 +100,7 @@ In this section:
 
 #### (B) Permissible activities
 
-&emsp;&emsp;In addition to the activities set forth under subparagraph (A), a ManufacturingUSA institute may carry out such other activities as may be consistent with the purposes set forth under subsection (b)(2).
+&emsp;&emsp;In addition to the activities set forth under subparagraph (A), a Manufacturing USA institute may carry out such other activities as may be consistent with the purposes set forth under subsection (b)(2).
 
 #### (3) Additional Manufacturing USA institutes
 
@@ -118,7 +118,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i)(I) is, as of December 20, 2019, considered a Manufacturing USA institute under subparagraph (A) or recognized as a Manufacturing USA institute under subparagraph (B); and
 
-&emsp;&emsp;&emsp;(II) as of December 20, 2019, receives Federal financial assistance under subsection (e) or otherwise consistent with the purposes of this section;
+&emsp;&emsp;&emsp;(II) as of December 20, 2019, receives Federal financial assistance under subsection\(e) or otherwise consistent with the purposes of this section;
 
 &emsp;&emsp;&emsp;(ii) is under pending agency review for such recognition as of December 20, 2019; or
 
@@ -248,7 +248,7 @@ In this section:
 
 #### (6) Collaboration
 
-&emsp;In awarding financial assistance under paragraph (1), an agency head, in coordinationwith the National Program Office, as the agency head considers appropriate, may collaborate with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, including, as the agency head considers appropriate, the Department of Agriculture, the Department of Defense, the Department of Education, the Department of Energy, the Department of Labor, the Food and Drug Administration, the National Aeronautics and Space Administration, the National Institutes of Health, and the National Science Foundation.
+&emsp;In awarding financial assistance under paragraph (1), an agency head, in coordination with the National Program Office, as the agency head considers appropriate, may collaborate with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, including, as the agency head considers appropriate, the Department of Agriculture, the Department of Defense, the Department of Education, the Department of Energy, the Department of Labor, the Food and Drug Administration, the National Aeronautics and Space Administration, the National Institutes of Health, and the National Science Foundation.
 
 #### (7) Matching funds and preferences
 
@@ -260,7 +260,33 @@ In this section:
 
 &emsp;&emsp;An agency head awarding financial assistance under paragraph (1) with respect to a Manufacturing USA institute may waive the requirements of subparagraph (A) in the case of satellite centers, large capital facilities, equipment purchases, workforce development, or general operations.
 
-#### (f) Grant program for public service activities for Manufacturing USA institutes without Federal funding
+#### (8) Diversity preferences
+
+&emsp;In awarding financial assistance under paragraph (1) for planning or establishing a Manufacturing USA institute, an agency head shall give special consideration to Manufacturing USA institutes that—
+
+&emsp;&emsp;(A) contribute to the geographic diversity of the Manufacturing USA Program;
+
+&emsp;&emsp;(B) are located in an area with a low per capita income;
+
+&emsp;&emsp;(C) are located in an area with a high proportion of socially disadvantaged residents; or
+
+&emsp;&emsp;(D) are located in small and rural communities.
+
+#### (f) Authority to award financial assistance for construction of test beds and specialized facilities
+
+#### (1) In general
+
+&emsp;The Secretary may, acting through the Director, award financial assistance for the construction of test beds and specialized facilities by Manufacturing USA institutes established or supported under subsection (e) as the Secretary considers appropriate to carry out the purposes of the Program.
+
+#### (2) Requirements
+
+&emsp;The Secretary shall exercise authority under paragraph (1) in a manner and with requirements consistent with paragraphs (3) through (8) of subsection (e).
+
+#### (3) Priority
+
+&emsp;The Secretary shall establish preferences in selection criteria for proposals for financial assistance under this subsection from Manufacturing USA institutes that integrate as active members one or more covered entities as described in section 18971 of title 42.
+
+#### (g) Grant program for public service activities for Manufacturing USA institutes without Federal funding
 
 The Secretary may award a grant on a competitive basis to a Manufacturing USA institute that is not receiving financial assistance under subsection (e) to carry out workforce development, outreach to small- and medium-sized manufacturers, and other activities that—
 
@@ -268,7 +294,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 &emsp;(2) are unlikely to receive private sector financial support.
 
-#### (g) Authorization of appropriations
+#### (h) Authorization of appropriations
 
 #### (1) NIST Industrial Technical Services account
 
@@ -286,7 +312,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 &emsp;&emsp;(B) $84,000,000 for each of fiscal years 2023 and 2024.
 
-#### (h) National Program Office
+#### (i) National Program Office
 
 #### (1) Establishment
 
@@ -300,7 +326,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 &emsp;&emsp;(B) to coordinate with and, as appropriate, enter into memorandums of understanding with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, including the Department of Agriculture, the Department of Defense, the Department of Education, the Department of Energy, the Department of Labor, the Food and Drug Administration, the National Aeronautics and Space Administration, the National Institutes of Health, and the National Science Foundation, to carry out the purposes set forth under subsection (b)(2);
 
-&emsp;&emsp;(C) to develop, not later than December 16, 2015, and update not less frequently than once every 3 years thereafter, a strategic plan to guide the Program;
+&emsp;&emsp;(C) to develop, not later than December 16, 2015, and update not less frequently than once every 3 years thereafter, a strategic plan to guide the Program, including a strategy for retaining domestic public benefits from Manufacturing USA institutes once Federal funding has been discontinued;
 
 &emsp;&emsp;(D) to establish such procedures, processes, and criteria as may be necessary and appropriate to maximize cooperation and coordinate the activities of the Program with programs and activities of other Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing;
 
@@ -314,11 +340,11 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 &emsp;&emsp;(I) to help develop pilot programs that may be implemented by the Manufacturing USA institutes to address specific purposes of the Program, including to accelerate technology transfer to the private sector and to develop entrepreneurship programs;
 
-&emsp;&emsp;(J) to provide support services to promote workforce development activities;
+&emsp;&emsp;(J) to provide support services to promote workforce development activities, including the development of industry credentials;
 
 &emsp;&emsp;(K) to identify and disseminate best practices for workforce education and training across the Network and further enhance collaboration among Manufacturing USA institutes in developing and implementing such practices;
 
-&emsp;&emsp;(L) to collaborate with the Department of Labor, the Department of Education, industry, career and technical education schools, local community colleges, universities, andlabor organizations to provide input, as appropriate, for the development of national certifications for advanced manufacturing workforce skills in the technology areas of the Manufacturing USA institutes; and
+&emsp;&emsp;(L) to collaborate with the Department of Labor, the Department of Education, industry, career and technical education schools, local community colleges, universities, and labor organizations to provide input, as appropriate, for the development of national certifications for advanced manufacturing workforce skills in the technology areas of the Manufacturing USA institutes; and
 
 &emsp;&emsp;(M) to coordinate with Manufacturing USA institutes to develop best practices for the membership agreements and coordination of similar project solicitations.
 
@@ -356,7 +382,21 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 &emsp;Any Federal Government employee may be detailed to the National Program Office without reimbursement. Such detail shall be without interruption or loss of civil service status or privilege.
 
-#### (i) Reporting and auditing
+#### (7) Council for coordination of institutes
+
+#### (A) Council
+
+&emsp;&emsp;The National Program Office shall establish or designate a council of heads of any Manufacturing USA institute receiving Federal funding at any time to foster collaboration between Manufacturing USA institutes.
+
+#### (B) Meetings
+
+&emsp;&emsp;The council established or designated pursuant to subparagraph (A) shall meet not less frequently than twice each year.
+
+#### (C) Duties of the council
+
+&emsp;&emsp;The council established pursuant to subparagraph (A) shall assist the National Program Office in carrying out the functions of the National Program Office under paragraph (2).
+
+#### (j) Reporting and auditing
 
 #### (1) Annual reports to the Secretary
 
@@ -402,7 +442,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 #### (A) Assessments
 
-&emsp;&emsp;Not less frequently than once every 3 years, the Comptroller General of the United States shall submit to Congress an assessment of the operation of the Program duringthe most recent 3-year period, including an assessment of the progress made towards achieving the goals specified in the national strategic plan for advanced manufacturing required under section 6622(b)(7) of title 42.
+&emsp;&emsp;Not less frequently than once every 3 years, the Comptroller General of the United States shall submit to Congress an assessment of the operation of the Program during the most recent 3-year period, including an assessment of the progress made towards achieving the goals specified in the national strategic plan for advanced manufacturing required under section 6622(b)(7) of title 42.
 
 #### (B) Elements
 
@@ -420,7 +460,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 &emsp;&emsp;No later than December 31, 2030, the Comptroller General shall submit to Congress a final report regarding the overall success of the Program.
 
-#### (j) Additional authorities
+#### (k) Additional authorities
 
 #### (1) Appointment of personnel and contracts
 
@@ -468,19 +508,19 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 &emsp;&emsp;(I) at the Department of Agriculture relating to outreach to rural communities;
 
-&emsp;&emsp;(J) additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes; and <sup>2</sup>
+&emsp;&emsp;(J) additional programs that the Secretary determines are appropriate to support theactivities of existing Manufacturing USA institutes; and <sup>2</sup>
 
 &emsp;&emsp;(K) additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes.<sup>2</sup>
 
-#### (k) Patents
+#### (l) Patents
 
 Chapter 18 of title 35 shall apply to any funding agreement (as defined in section 201 of that title) awarded to new or existing Manufacturing USA institutes with respect to which financial assistance is awarded under subsection (e).
 
-#### (l) References to prior names and terminology
+#### (m) References to prior names and terminology
 
 Any reference in law, regulation, map, document, paper, or other record of the United States to the "Network for Manufacturing Innovation Program", the "Network for Manufacturing Innovation", "National Office of the Network for Manufacturing Innovation Program", or a "center for manufacturing innovation" shall be considered to be a reference to the Manufacturing USA Program, the Manufacturing USA Network, the National Office of the Manufacturing USA Network, or a Manufacturing USA institute, respectively.
 
-(Mar. 3, 1901, ch. 872, §34, as added Pub. L. 113–235, div. B, title VII, §703(2), Dec. 16, 2014, 128 Stat. 2221; amended Pub. L. 116–92, div. A, title XVII, §1741(a), Dec. 20, 2019, 133 Stat. 1826.)
+(Mar. 3, 1901, ch. 872, §34, as added Pub. L. 113–235, div. B, title VII, §703(2), Dec. 16, 2014, 128 Stat. 2221; amended Pub. L. 116–92, div. A, title XVII, §1741(a), Dec. 20, 2019, 133 Stat. 1826; Pub. L. 117–167, div. B, title II, §§10261, 10263(b)–(d), Aug. 9, 2022, 136 Stat. 1503, 1505, 1506; Pub. L. 117–263, div. E, title LIX, §5911, Dec. 23, 2022, 136 Stat. 3442.)
 
 #### <b>Editorial Notes</b>
 
@@ -489,6 +529,18 @@ Any reference in law, regulation, map, document, paper, or other record of the U
 A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and is set out as a Short Title note under section 271 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(8). Pub. L. 117–167, §10261, added par. (8).
+
+Subsecs. (f) to (h). Pub. L. 117–263, §5911, added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
+
+Subsec. (h)(2)(C). Pub. L. 117–167, §10263(c), inserted ", including a strategy for retaining domestic public benefits from Manufacturing USA institutes once Federal funding has been discontinued" after "Program".
+
+Subsec. (h)(2)(J). Pub. L. 117–167, §10263(d), inserted ", including the development of industry credentials" after "activities".
+
+Subsec. (h)(7). Pub. L. 117–167, §10263(b), added par. (7).
+
+Subsecs. (i) to (m). Pub. L. 117–263, §5911(1), redesignated subsecs. (h) to (l) as (i) to (m), respectively.
 
 <b>2019</b>—Pub. L. 116–92 amended section generally. Prior to amendment, section related to Network for Manufacturing Innovation.
 

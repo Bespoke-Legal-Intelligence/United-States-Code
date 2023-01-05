@@ -1,6 +1,6 @@
 ### §794b. Removal of architectural, transportation, or communication barriers; technical and financial assistance; compensation of experts or consultants; authorization of appropriations
 
-(a) The Secretary may provide directly or by contract with State vocational rehabilitationagencies or experts or consultants or groups thereof, technical assistance—
+(a) The Secretary may provide directly or by contract with State vocational rehabilitation agencies or experts or consultants or groups thereof, technical assistance—
 
 &emsp;(1) to persons operating community rehabilitation programs; and
 

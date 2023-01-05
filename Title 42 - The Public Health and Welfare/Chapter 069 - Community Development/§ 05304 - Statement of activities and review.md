@@ -72,7 +72,7 @@ A grant may be made under section 5306(b) of this title only if the unit of gene
 
 &emsp;&emsp;(iii) relocation benefits shall be provided for all low or moderate income persons who occupied housing demolished or converted to a use other than for low or moderate income housing, including reimbursement for actual and reasonable moving expenses, security deposits, credit checks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low and moderate income, provide either—
 
-&emsp;&emsp;&emsp;(I) compensation sufficient to ensure that, for a 5-year period, the displaced families shall not bear, after relocation, a ratio of shelter costs to income that exceeds 30 percent; or
+&emsp;&emsp;&emsp;(I) compensation sufficient to ensure that, for a 5-year period, the displacedfamilies shall not bear, after relocation, a ratio of shelter costs to income that exceeds 30 percent; or
 
 &emsp;&emsp;&emsp;(II) if elected by a family, a lump-sum payment equal to the capitalized value of the benefits available under subclause (I) to permit the household to secure participation in a housing cooperative or mutual housing association; and
 
@@ -98,13 +98,13 @@ Each grantee shall submit to the Secretary, at a time determined by the Secretar
 
 &emsp;(1) in the case of grants made under subsection (a)(3), (b), or (d)(2)(B) of section 5306 of this title, whether the grantee has carried out its activities and, where applicable, its housing assistance plan in a timely manner, whether the grantee has carried out those activities and its certifications in accordance with the requirements and the primary objectives of this chapter and with other applicable laws, and whether the grantee has a continuing capacity to carry out those activities in a timely manner; and
 
-&emsp;(2) in the case of grants to States made under section 5306(d) of this title, whether the State has distributed funds to units of generallocal government in a timely manner and in conformance to the method of distribution described in its statement, whether the State has carried out its certifications in compliance with the requirements of this chapter and other applicable laws, and whether the State has made such reviews and audits of the units of general local government as may be necessary or appropriate to determine whether they have satisfied the applicable performance criteria described in paragraph (1) of this subsection.
+&emsp;(2) in the case of grants to States made under section 5306(d) of this title, whether the State has distributed funds to units of general local government in a timely manner and in conformance to the method of distribution described in its statement, whether the State has carried out its certifications in compliance with the requirements of this chapter and other applicable laws, and whether the State has made such reviews and audits of the units of general local government as may be necessary or appropriate to determine whether they have satisfied the applicable performance criteria described in paragraph (1) of this subsection.
 
 > The Secretary may make appropriate adjustments in the amount of the annual grants in accordance with the Secretary's findings under this subsection. With respect to assistance made available to units of general local government under section 5306(d) of this title, the Secretary may adjust, reduce, or withdraw such assistance, or take other action as appropriate in accordance with the Secretary's reviews and audits under this subsection, except that funds already expended on eligible activities under this chapter shall not be recaptured or deducted from future assistance to such units of general local government.
 
 #### (f) Audit of grantees by Government Accountability Office; access to books, accounts, records, etc., by representatives of Government Accountability Office
 
-Insofar as they relate to funds provided under this chapter, the financial transactions of recipients of such funds may be audited by the Government Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, and other papers, things, or property belonging to or in use by such recipients pertaining to such financial transactions and necessary to facilitate the audit.
+Insofar as they relate to funds provided under this chapter, the financial transactions of recipients of such funds may be audited by theGovernment Accountability Office under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, and other papers, things, or property belonging to or in use by such recipients pertaining to such financial transactions and necessary to facilitate the audit.
 
 #### (g) Environmental protection measures applicable for release of funds to applicants for projects; issuance of regulations by Secretary subsequent to consultation with Council on Environmental Quality; request and certification to Secretary for approval of release of funds; form, contents and effect of certification
 
@@ -126,7 +126,7 @@ Insofar as they relate to funds provided under this chapter, the financial trans
 
 #### (h) Payments; revolving loan fund: establishment in private financial institution for rehabilitation activities; standards for payments: criteria
 
-(1) Units of general local government receiving assistance under this chapter may receive funds, in one payment, in an amount not to exceed the total amount designated in the grant (or, in the case of a unit of general local government receiving a distribution from a State pursuant to section 5306(d) of this title, not to exceed the total amount of such distribution) for use in establishing a revolving loan fund which is to beestablished in a private financial institution and which is to be used to finance rehabilitation activities assisted under this chapter. Rehabilitation activities authorized under this section shall begin within 45 days after receipt of such payment and substantial disbursements from such fund must begin within 180 days after receipt of such payment.
+(1) Units of general local government receiving assistance under this chapter may receive funds, in one payment, in an amount not to exceed the total amount designated in the grant (or, in the case of a unit of general local government receiving a distribution from a State pursuant to section 5306(d) of this title, not to exceed the total amount of such distribution) for use in establishing a revolving loan fund which is to be established in a private financial institution and which is to be used to finance rehabilitation activities assisted under this chapter. Rehabilitation activities authorized under this section shall begin within 45 days after receipt of such payment and substantial disbursements from such fund must begin within 180 days after receipt of such payment.
 
 (2) The Secretary shall establish standards for such cash payments which will insure that the deposits result in appropriate benefits in support of the recipient's rehabilitation program. These standards shall be designed to assure that the benefits to be derived from the local program include, at a minimum, one or more of the following elements, or such other criteria as determined by the Secretary—
 
@@ -366,7 +366,7 @@ Pub. L. 100–242, title V, §509(b), Feb. 5, 1988, 101 Stat. 1929, provided tha
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year 1984 and thereafter, see section110(b) of Pub. L. 98–181, as amended, set out as a note under section 5316 of this title.
+Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year 1984 and thereafter, see section 110(b) of Pub. L. 98–181, as amended, set out as a note under section 5316 of this title.
 
 #### Effective Date of 1981 Amendment
 

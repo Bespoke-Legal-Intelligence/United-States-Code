@@ -48,7 +48,7 @@ Subsec. (a)(2)(A). Pub. L. 108–422, §503(2), substituted "or in health-care" 
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–446, §1201(c)(1)(A), substituted "an Under Secretary" for "a Under Secretary".
 
-Subsec. (d)(2)(F). Pub. L. 103–446, §1201(c)(1)(B), (e)(2), substituted "Chief Medical Director of the Veterans'Administration)" for "Under Secretary for Health of the Department)" and "commission" for "Commission".
+Subsec. (d)(2)(F). Pub. L. 103–446, §1201(c)(1)(B), (e)(2), substituted "Chief Medical Director of the Veterans' Administration)" for "Under Secretary for Health of the Department)" and "commission" for "Commission".
 
 <b>1992</b>—Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director" wherever appearing.
 

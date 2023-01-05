@@ -34,7 +34,7 @@ Permissible Claims, Counterclaims, and Defenses.—The Copyright Claims Board ma
 
 &emsp;&emsp;&emsp;(i) arises under section 106 or section 512(f) and out of the same transaction or occurrence that is the subject of a claim of infringement brought under paragraph (1), a claim of noninfringement brought under paragraph (2), or a claim of misrepresentation brought under paragraph (3); or
 
-&emsp;&emsp;&emsp;(ii) arises under an agreement pertaining to the same transaction or occurrence thatis the subject of a claim of infringement brought under paragraph (1), if the agreement could affect the relief awarded to the claimant.
+&emsp;&emsp;&emsp;(ii) arises under an agreement pertaining to the same transaction or occurrence that is the subject of a claim of infringement brought under paragraph (1), if the agreement could affect the relief awarded to the claimant.
 
 &emsp;(5) A legal or equitable defense under this title or otherwise available under law, in response to a claim or counterclaim asserted under this subsection.
 
@@ -64,7 +64,7 @@ Monetary recovery.—
 
 Actual damages, profits, and statutory damages for infringement.—With respect to a claim or counterclaim for infringement of copyright, and subject to the limitation on total monetary recovery under subparagraph (D), the Copyright Claims Board may award either of the following:
 
-&emsp;&emsp;&emsp;(i) Actual damages and profits determined in accordance with section 504(b), with that award taking into consideration, in appropriate cases, whether the infringing party has agreed to cease or mitigate the infringing activity under paragraph (2).
+&emsp;&emsp;&emsp;(i) Actual damages and profits determined in accordance with section 504(b), with that award taking into consideration, in appropriate cases, whether the infringing party has agreed to cease or mitigatethe infringing activity under paragraph (2).
 
 &emsp;&emsp;&emsp;(ii) Statutory damages, which shall be determined in accordance with section 504(c), subject to the following conditions:
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Pentagon Reservation.—The Secretary of Defense has jurisdiction, custody, and controlover, and responsibility for, the operation, maintenance, and management of the Pentagon Reservation.
+Pentagon Reservation.—The Secretary of Defense has jurisdiction, custody, and control over, and responsibility for, the operation, maintenance, and management of the Pentagon Reservation.
 
 (b)
 
@@ -10,7 +10,7 @@ Law Enforcement Authorities and Personnel.—(1) The Secretary shall protect the
 
 (2) The Secretary may designate military or civilian personnel to perform law enforcement functions and military, civilian, or contract personnel to perform security functions for such buildings, grounds, property, and persons, including, with regard to civilian personnel designated under this section, duty in areas outside the property referred to in paragraph (1) to the extent necessary to protect that property and persons on that property. Subject to the authorization of the Secretary, any such military or civilian personnel so designated may exercise the authorities listed in paragraphs (1) through (5) of section 2672(c) of this title.
 
-(3) The powers granted under paragraph (2) to military and civilian personnel designated under that paragraph shall be exercised in accordance with guidelines prescribed by the Secretary and approved by the Attorney General.
+(3) The powers granted under paragraph (2) to military and civilian personnel designated underthat paragraph shall be exercised in accordance with guidelines prescribed by the Secretary and approved by the Attorney General.
 
 (4) Nothing in this subsection shall be construed to—
 
@@ -60,13 +60,13 @@ Definitions.— In this section:
 
 &emsp;(2) The term "National Capital Region" means the geographic area located within the boundaries of (A) the District of Columbia, (B) Montgomery and Prince Georges Counties in the State of Maryland, (C) Arlington, Fairfax, Loudoun, and Prince William Counties and the City of Alexandria in the Commonwealth of Virginia, and (D) all cities and other units of government within the geographic areas of such District, Counties, and City.
 
-&emsp;(3) The term "Pentagon" means that area of land (consisting of approximately 227 acres)and improvements thereon, including parking areas, located in Arlington County, Virginia, containing the Pentagon Office Building and its supporting facilities.
+&emsp;(3) The term "Pentagon" means that area of land (consisting of approximately 227 acres) and improvements thereon, including parking areas, located in Arlington County, Virginia, containing the Pentagon Office Building and its supporting facilities.
 
 &emsp;(4) The term "Mark Center Campus" means that area of land (consisting of approximately 16 acres) and improvements thereon, including parking areas, located in Alexandria, Virginia, and known on the day before the date of the enactment of this paragraph as the Fort Belvoir Mark Center Campus.
 
 &emsp;(5) The term "Raven Rock Mountain Complex" means that area of land (consisting of approximately 720 acres) and improvements thereon, including parking areas, at the Raven Rock Mountain Complex and its supporting facilities located in Maryland and Pennsylvania.
 
-(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title XI, §1101, Dec. 28, 2001, 115 Stat. 1234; Pub. L. 108–136, div. A, title IX, §933, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 111–383, div. B, title XXVIII, §2802, Jan. 7, 2011, 124 Stat. 4458; Pub. L. 112–81, div. B, title XXVIII, §2811, Dec. 31, 2011, 125 Stat. 1686; Pub. L. 114–328, div. A, title IX, §952(a), (b), div. B, title XXVIII, §2829E, Dec. 23, 2016, 130 Stat. 2374, 2375, 2733; Pub. L. 115–91, div. A, title X, §1081(d)(16), Dec. 12, 2017, 131 Stat. 1600.)
+(Added Pub. L. 101–510, div. B, title XXVIII, §2804(a)(1), Nov. 5, 1990, 104 Stat. 1784; amended Pub. L. 102–190, div. A, title X, §1061(a)(18), div. B, title XXVIII, §2864, Dec. 5, 1991, 105 Stat. 1473, 1561; Pub. L. 104–106, div. A, title XV, §1502(a)(24), Feb. 10, 1996, 110 Stat. 505; Pub. L. 104–201, div. A, title III, §369(a), (b)(1), Sept. 23, 1996, 110 Stat. 2498; Pub. L. 106–65, div. A, title X,§1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title XI, §1101, Dec. 28, 2001, 115 Stat. 1234; Pub. L. 108–136, div. A, title IX, §933, Nov. 24, 2003, 117 Stat. 1581; Pub. L. 111–383, div. B, title XXVIII, §2802, Jan. 7, 2011, 124 Stat. 4458; Pub. L. 112–81, div. B, title XXVIII, §2811, Dec. 31, 2011, 125 Stat. 1686; Pub. L. 114–328, div. A, title IX, §952(a), (b), div. B, title XXVIII, §2829E, Dec. 23, 2016, 130 Stat. 2374, 2375, 2733; Pub. L. 115–91, div. A, title X, §1081(d)(16), Dec. 12, 2017, 131 Stat. 1600.)
 
 #### <b>Editorial Notes</b>
 

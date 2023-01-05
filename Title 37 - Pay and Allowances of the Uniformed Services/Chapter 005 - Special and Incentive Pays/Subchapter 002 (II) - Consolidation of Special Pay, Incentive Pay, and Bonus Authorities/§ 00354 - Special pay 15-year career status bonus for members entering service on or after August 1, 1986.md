@@ -52,7 +52,7 @@ Notification of Eligibility.—(1) The Secretary concerned shall transmit to eac
 
 &emsp;(A) The procedures for electing to receive the bonus.
 
-&emsp;(B) An explanation of the effects under sections 1401a, 1409, and 1410 of title 10 that such an election has on the computation of any retired or retainer pay that the member may become eligible to receive.
+&emsp;(B) An explanation of the effects under sections 1401a, 1409, and 1410 of title 10 that suchan election has on the computation of any retired or retainer pay that the member may become eligible to receive.
 
 (f)
 

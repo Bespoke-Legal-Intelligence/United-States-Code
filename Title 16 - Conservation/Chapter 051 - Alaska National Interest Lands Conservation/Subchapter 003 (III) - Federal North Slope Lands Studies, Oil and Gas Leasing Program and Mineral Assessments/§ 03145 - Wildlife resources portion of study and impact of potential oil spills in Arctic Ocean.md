@@ -2,7 +2,7 @@
 
 #### (a) Wildlife resources
 
-The Secretary shall work closely with the State of Alaska and Native Village and Regional Corporations in evaluating the impact of oil and gas exploration, development, production, and transportation and other human activities on the wildlife resources of these lands, including impacts on the Arctic and Porcupine caribou herds, polar bear, muskox, grizzly bear, wolf, wolverine, seabirds, shore birds, and migratory waterfowl. In addition the Secretary shall consult with the appropriate agencies of the Government of Canada in evaluating such impactsparticularly with respect to the Porcupine caribou herd.
+The Secretary shall work closely with the State of Alaska and Native Village and Regional Corporations in evaluating the impact of oil and gas exploration, development, production, and transportation and other human activities on the wildlife resources of these lands, including impacts on the Arctic and Porcupine caribou herds, polar bear, muskox, grizzly bear, wolf, wolverine, seabirds, shore birds, and migratory waterfowl. In addition the Secretary shall consult with the appropriate agencies of the Government of Canada in evaluating such impacts particularly with respect to the Porcupine caribou herd.
 
 #### (b) Oil spills
 
@@ -12,7 +12,7 @@ The Secretary shall work closely with the State of Alaska and Native Village and
 
 &emsp;(B) Canada is exploring alternatives for transporting the oil from the Amalagak field to markets in Asia and the Far East;
 
-&emsp;(C) one of the options the Canadian Government is exploring involves transshipment of oil from the Amalagak field across the Beaufort Sea to tankers which would transport the oil overseas;
+&emsp;(C) one of the options the Canadian Government is exploring involves transshipment ofoil from the Amalagak field across the Beaufort Sea to tankers which would transport the oil overseas;
 
 &emsp;(D) the tankers would traverse the American Exclusive Economic Zone through the Beaufort Sea into the Chuckchi Sea and then through the Bering Straits;
 

@@ -28,7 +28,7 @@
 
 (c) Notwithstanding subsections (a) and (b) of this section, an employee who enters on approved leave without pay to serve as a full-time officer or employee of an organization composed primarily of employees as defined by section 8701(a) of this title, within 60 days after entering on that leave without pay, may elect to continue his insurance and arrange to pay currently into the Employees' Life Insurance Fund, through his employing agency, both employee and agency contributions from the beginning of leave without pay. The employing agency shall forward the premium payments to the Fund. If the employee does not so elect, his insurance will continue during nonpay status and stop as provided by subsection (a) of this section.
 
-(d)(1) An employee who enters on approved leave without pay in the circumstances described in paragraph (2) may elect to have such employee's life insurance continue (beyond the end of the 12 months of coverage provided for under subsection (a)) for an additional 12 months and arrange to pay currently into the Employees' Life Insurance Fund, through such employee's employing agency, both employee and agency contributions, from the beginning of that additional 12 months of coverage. The employing agency shall forward the premium payments to the Fund. If the employee does not so elect, such employee's insurance will continue during nonpay status and stop as provided bysubsection (a). An individual making an election under this subsection may cancel that election at any time, in which case such employee's insurance will stop as provided by subsection (a) or upon receipt of notice of cancellation, whichever is later.
+(d)(1) An employee who enters on approved leave without pay in the circumstances described in paragraph (2) may elect to have such employee's life insurance continue (beyond the end of the 12 months of coverage provided for under subsection (a)) for an additional 12 months and arrange to pay currently into the Employees' Life Insurance Fund, through such employee's employing agency, both employee and agency contributions, from the beginning of that additional 12 months of coverage. The employing agency shall forward the premium payments to the Fund. If the employee does not so elect, such employee's insurance will continue during nonpay status and stop as provided by subsection (a). An individual making an election under this subsection may cancel that election at any time, in which case such employee's insurance will stop as provided by subsection (a) or upon receipt of notice of cancellation, whichever is later.
 
 (2) This subsection applies in the case of any employee who—
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 96–427 applicable only in case of an employee who retires
 
 #### Effective Date of 1978 Amendments
 
-Pub. L. 95–583, §3, Nov. 2, 1978, 92 Stat. 2482, provided that: "The amendments made by this Act \[amendingthis section and sections 8705, 8714a, and 8901 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\]."
+Pub. L. 95–583, §3, Nov. 2, 1978, 92 Stat. 2482, provided that: "The amendments made by this Act \[amending this section and sections 8705, 8714a, and 8901 of thistitle\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1978\]."
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 

@@ -32,7 +32,7 @@ The Administrator may study and develop emergency preparedness measures designed
 
 (1) The Administrator may—
 
-&emsp;(A) conduct or arrange, by contract or otherwise, for training programs for the instruction of emergency preparedness officials and other persons in the organization, operation, and techniques of emergency preparedness;
+&emsp;(A) conduct or arrange, by contract or otherwise, for training programs for the instructionof emergency preparedness officials and other persons in the organization, operation, and techniques of emergency preparedness;
 
 &emsp;(B) conduct or operate schools or including the payment of travel expenses, in accordance with subchapter I of chapter 57 of title 5 and the Standardized Government Travel Regulations, and per diem allowances, in lieu of subsistence for trainees in attendance or the furnishing of subsistence and quarters for trainees and instructors on terms prescribed by the Administrator; and
 
@@ -92,7 +92,7 @@ The Administrator may publicly disseminate appropriate emergency preparedness in
 
 (5) Financial contributions to the States for shelters and other protective facilities shall be determined by taking the amount of funds appropriated or available to the Administrator for such facilities in each fiscal year and apportioning such funds among the States in the ratio which the urban population of the critical target areas (as determined by the Administrator) in each State, at the time of the determination, bears to the total urban population of the critical target areas of all of the States.
 
-(6) The amounts authorized to be contributed by the Administrator to each State for such shelters and protective facilities shall be equally matched by such State from any source it determines is consistent with its laws and, if not matched within a reasonable time, the Administrator may reallocate such amounts to other States under the formula described in paragraph\(4).<sup>1</sup> The value of any land contributed by any State or political subdivision thereof shall be excluded from the computation of the State share under this subsection.
+(6) The amounts authorized to be contributed by the Administrator to each State for such shelters and protective facilities shall be equally matched by such State from any source it determines is consistent with its laws and, if not matched within a reasonable time, the Administrator may reallocate such amounts to other States under the formula described in paragraph (4).<sup>1</sup> The value of any land contributed by any State or political subdivision thereof shall be excluded from the computation of the State share under this subsection.
 
 (7) The amounts paid to any State under this subsection shall be expended solely in carrying out the purposes set forth herein and in accordance with State emergency preparedness programs or projects approved by the Administrator. The Administrator shall make no contribution toward the cost of any program or project for the procurement, construction, or leasing of any facility which (A) is intended for use, in whole or in part, for any purpose other than emergency preparedness, and (B) is of such kind that upon completion it will, in the judgment of the Administrator, be capable of producing sufficient revenue to provide reasonable assurance of the retirement or repayment of such cost; except that (subject to the preceding provisions of this subsection) the Administrator may make a contribution to any State toward that portion of the cost of the construction, reconstruction, or enlargement of any facility which the Administrator determines to be directly attributable to the incorporation in such facility of any feature of construction or design not necessary for the principal intended purpose thereof but which is, in the judgment of the Administrator necessary for the use of such facility for emergency preparedness purposes.
 
@@ -122,7 +122,7 @@ In subsec. (k), "chapters 1 to 11 of title 40 and division C (except sections 33
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 2281 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+Provisions similar to those in this section were contained in section 2281 of the former Appendix to Title50, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
 
 #### Amendments
 
@@ -140,9 +140,85 @@ Subsec. (j)(2) to (9). Pub. L. 109–308, §3(2), added par. (2) and redesignate
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Planning for Animal Wellness
+
+Pub. L. 117–212, Oct. 17, 2022, 136 Stat. 2249, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Planning for Animal Wellness Act' or the 'PAW Act'.
+
+#### "SEC. 2. WORKING GROUP GUIDELINES.
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator' means the Administrator of the Federal Emergency Management Agency.
+
+&emsp;"(2)
+
+Working group.—The term 'working group' means the advisory working group established under subsection (b).
+
+"(b)
+
+Working Group.—Not later than 180 days after the date of enactment of this Act \[Oct. 17, 2022\], the Administrator shall establish an advisory working group.
+
+"(c)
+
+Membership.—The working group shall consist of—
+
+&emsp;"(1) not less than 2 representatives of State governments with experience in animal emergency management;
+
+&emsp;"(2) not less than 2 representatives of local governments with experience in animal emergency management;
+
+&emsp;"(3) not less than 2 representatives from academia;
+
+&emsp;"(4) not less than 2 veterinary experts;
+
+&emsp;"(5) not less than 2 representatives from nonprofit organizations working to address the needs of households \[sic\] pets and service animals in emergencies or disasters;
+
+&emsp;"(6) representatives from the Federal Animal Emergency Management Working Group; and
+
+&emsp;"(7) any other members determined necessary by the Administrator.
+
+"(d)
+
+Duties.—The working group shall—
+
+&emsp;"(1) encourage and foster collaborative efforts among individuals and entities working to address the needs of household pets, service and assistance animals, and captive animals, as appropriate, in emergency and disaster preparedness, response, and recovery; and
+
+&emsp;"(2) review best practices and Federal guidance, as of the date of enactment of this Act, on congregate and noncongregate sheltering and evacuation planning relating to the needs of household pets, service and assistance animals, and captive animals, as appropriate, in emergency and disaster preparedness, response, and recovery.
+
+"(e)
+
+No Compensation.—The members of the working group shall serve on the working group on a voluntary basis.
+
+"(f)
+
+Guidance Determination.—Not later than 1 year after the date of enactment of this Act, the working group shall determine whether the best practices and Federal guidance described in subsection (d)(2) are sufficient.
+
+"(g)
+
+New Guidance.—Not later than 540 days after the date of enactment of this Act, if the Administrator, in consultation with the working group, determines that the best practices and Federal guidance described in subsection (d)(2) are insufficient, the Administrator, in consultation with the working group, shall publish updated Federal guidance.
+
+"(h)
+
+Sunset.—
+
+&emsp;"(1)
+
+In general.—Subject to paragraph (2), the working group shall terminate on the date that is 4 years after the date of enactment of this Act.
+
+&emsp;"(2)
+
+Extension.—The Administrator may extend the date described in paragraph (1) if the Administrator determines an extension is appropriate."
 
 #### National Capital Region Mutual Aid
 
@@ -278,7 +354,7 @@ Other state law.—No party shall be liable under the law of any State other tha
 
 "(f)
 
-Licenses and Permits.—If any person holds a license, certificate, or other permit issued by any responding party evidencing the meeting of qualifications for professional, mechanical, or other skills and assistance is requested by a receiving jurisdiction, such person will be deemed licensed, certified, or permitted by the receiving jurisdiction to render aid involving such skill to meet a public service event, emergency or training for any such events."
+Licenses and Permits.—If any person holds a license, certificate, or other permit issued by any responding party evidencing the meeting of qualifications for professional, mechanical, or other skills and assistance is requested by a receiving jurisdiction, such person will be deemed licensed, certified, or permitted by the receiving jurisdiction to render aid involvingsuch skill to meet a public service event, emergency or training for any such events."
 
 #### Pilot Program To Study Design and Construction of Buildings To Minimize Effects of Nuclear Explosions
 

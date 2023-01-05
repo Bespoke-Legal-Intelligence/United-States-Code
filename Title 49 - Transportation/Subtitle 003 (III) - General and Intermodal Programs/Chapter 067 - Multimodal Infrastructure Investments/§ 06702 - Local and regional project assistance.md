@@ -62,7 +62,7 @@ Eligible project.—The term "eligible project" means—
 
 &emsp;&emsp;(F) a project for investment in a surface transportation facility located on Tribal land, the title or maintenance responsibility of which is vested in the Federal Government;
 
-&emsp;&emsp;(G) a project to replace or rehabilitate a culvert or prevent stormwater runoff for thepurpose of improving habitat for aquatic species that will advance the goal of the program described in subsection (b)(2); and
+&emsp;&emsp;(G) a project to replace or rehabilitate a culvert or prevent stormwater runoff for the purpose of improving habitat for aquatic species that will advance the goal of the program described in subsection (b)(2); and
 
 &emsp;&emsp;(H) any other surface transportation infrastructure project that the Secretary considers to be necessary to advance the goal of the program.
 
@@ -240,7 +240,15 @@ Multimodal and geographical considerations.—In selecting projects to receive g
 
 (g)
 
-Project Planning.—Of the amounts made available to carry out the program for each fiscal year, not less than 5 percent shall be made available for the planning, preparation, or design of eligible projects.
+Project Planning.—
+
+&emsp;(1)
+
+In general.—Of the amounts made available to carry out the program for each fiscal year, not less than 5 percent shall be made available for the planning, preparation, or design of eligible projects.
+
+&emsp;(2)
+
+Nonapplicability of certain limitations.—Subparagraphs (A) and (B) of subsection (c)(2) shall not apply with respect to amounts made available for planning, preparation, or design under paragraph (1).
 
 (h)
 
@@ -290,11 +298,15 @@ Comptroller general.—Not later than 1 year after the date on which the initial
 
 &emsp;&emsp;(B) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the findings of the review under subparagraph (A), including recommendations for improving the administration of the program, if any.
 
-(Added Pub. L. 117–58, div. B, title I, §21202(a), Nov. 15, 2021, 135 Stat. 671.)
+(Added Pub. L. 117–58, div. B, title I, §21202(a), Nov. 15, 2021, 135 Stat. 671; amended Pub. L. 117–146, §21(a), June 16, 2022, 136 Stat. 1284.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of enactment of this chapter, referred to in subsec. (a)(1)(A), is the date of enactment of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (g). Pub. L. 117–146 designated existing provisions as par. (1), inserted heading, and added par. (2).
 

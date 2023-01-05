@@ -46,7 +46,7 @@ Applicability.—Subsection (a) shall not apply to—
 
 (c)
 
-Regulations.—The Attorney General, in consultation with the Secretary of Health and Human Services, may promulgate regulations to clarify the exceptions described in subsection (b).
+Regulations.—The Attorney General, in consultation with the Secretary of Health andHuman Services, may promulgate regulations to clarify the exceptions described in subsection (b).
 
 (d)
 

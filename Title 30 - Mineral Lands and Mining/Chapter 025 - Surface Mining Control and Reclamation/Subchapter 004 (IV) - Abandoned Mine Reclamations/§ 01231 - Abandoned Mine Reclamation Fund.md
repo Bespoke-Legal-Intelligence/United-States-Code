@@ -128,7 +128,7 @@ The Secretary of the Interior shall notify the Secretary of the Treasury as to w
 
 Subsec. (f)(2)(B). Pub. L. 117–58, §40703(2), substituted "2036" for "2023" in heading and "2036" for "2023" and "2035" for "2022" in text.
 
-<b>2006</b>—Subsec. (c)(2) to (13). Pub. L. 109–432, §201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4)and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
+<b>2006</b>—Subsec. (c)(2) to (13). Pub. L. 109–432, §201(a)(1), redesignated pars. (3) to (5) and (7) to (13) as (2) to (4) and (5) to (11), respectively, and struck out former pars. (2) and (6) which read as follows:
 
 "(2) for transfer on an annual basis to the Secretary of Agriculture for use under section 1236 of this title;" and
 
@@ -140,7 +140,7 @@ Subsec. (e). Pub. L. 109–432, §201(a)(3), in second sentence, substituted "ac
 
 Subsec. (f). Pub. L. 109–432, §201(a)(4), added subsec. (f).
 
-<b>1992</b>—Subsec. (c)(6). Pub. L. 102–486, §2504(c)(1), substituted "studies, research, and demonstration projects" for "studies" and struck out "to provide information, advice, and technical assistance, including research and demonstration projects" after "private organizations".
+<b>1992</b>—Subsec. (c)(6). Pub. L. 102–486, §2504(c)(1), substituted "studies, research, and demonstration projects" for "studies" and struck out "to provide information, advice, and technical assistance, includingresearch and demonstration projects" after "private organizations".
 
 Subsec. (c)(12), (13). Pub. L. 102–486, §19143(b)(3)(A), added par. (12) and redesignated former par. (12) as (13).
 

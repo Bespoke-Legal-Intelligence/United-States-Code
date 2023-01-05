@@ -10,11 +10,11 @@
 
 #### (2) Assessment
 
-&emsp;Not later 1 year after the date on which the criteria and guidance described in paragraph (1) is implemented, the Comptroller General ofthe United States shall begin an assessment of such criteria and guidance. Not later than 6 months after beginning such an assessment, the Comptroller General shall submit a report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives that includes—
+&emsp;Not later 1 year after the date on which the criteria and guidance described in paragraph (1) is implemented, the Comptroller General of the United States shall begin an assessment of such criteria and guidance. Not later than 6 months after beginning such an assessment, the Comptroller General shall submit a report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives that includes—
 
 &emsp;&emsp;(A) an assessment of the criteria and guidance issued by the Administrator of the Small Business Administration in accordance with paragraph (1);
 
-&emsp;&emsp;(B) an assessment of the implementation of the criteria and guidance issued by issued by <sup>1</sup> the Administrator of the Small Business Administration in accordance with paragraph (1);
+&emsp;&emsp;(B) an assessment of the implementation of the criteria and guidance issued by issuedby <sup>1</sup> the Administrator of the Small Business Administration in accordance with paragraph (1);
 
 &emsp;&emsp;(C) an assessment as to whether these measures have successfully ensured that only qualified HUBZone small business concerns are participating in the HUBZone program under section 657a of title 15;
 

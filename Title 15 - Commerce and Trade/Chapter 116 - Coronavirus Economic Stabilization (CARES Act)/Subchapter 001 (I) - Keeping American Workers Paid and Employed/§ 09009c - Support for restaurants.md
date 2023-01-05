@@ -176,7 +176,7 @@ In this section:
 
 #### (ii) Return to Treasury
 
-&emsp;&emsp;&emsp;Any amount of a grant made under this subsection to an eligible entity based on estimated receipts that is greater than the actual gross receipts of the eligible entity in 2020 shall be returned to the Treasury.
+&emsp;&emsp;&emsp;Any amount of a grant made under this subsection to an eligible entity based on estimated receipts that is greater than theactual gross receipts of the eligible entity in 2020 shall be returned to the Treasury.
 
 #### (5) Use of funds
 

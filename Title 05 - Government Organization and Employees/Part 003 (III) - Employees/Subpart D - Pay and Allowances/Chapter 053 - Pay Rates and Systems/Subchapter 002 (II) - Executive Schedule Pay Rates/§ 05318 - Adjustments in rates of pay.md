@@ -1,6 +1,6 @@
 ### §5318. Adjustments in rates of pay
 
-(a) Subject to subsection (b), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of this title in the rates of pay under the General Schedule, the annual rate of pay forpositions at each level of the Executive Schedule shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the percentage of such annual rate of pay which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
+(a) Subject to subsection (b), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 of this title in the rates of pay under the General Schedule, the annual rate of pay for positions at each level of the Executive Schedule shall be adjusted by an amount, rounded to the nearest multiple of $100 (or if midway between multiples of $100, to the next higher multiple of $100), equal to the percentage of such annual rate of pay which corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.
 
 (b) In no event shall the percentage adjustment taking effect under subsection (a) in any calendar year (before rounding), in any rate of pay, exceed the percentage adjustment taking effect in such calendar year under section 5303 in the rates of pay under the General Schedule.
 
@@ -92,7 +92,7 @@ Definitions.—For purposes of this paragraph—
 
 &emsp;&emsp;"(B)
 
-Method.—For purposes of the provisions of law amended by paragraph (2), the 'most recent percentage change in the ECI', as of any date, shall beone-half of 1 percent less than the percentage (rounded to the nearest one-tenth of 1 percent) derived by—
+Method.—For purposes of the provisions of law amended by paragraph (2), the 'most recent percentage change in the ECI', as of any date, shall be one-half of 1 percent less than the percentage (rounded to the nearest one-tenth of 1 percent) derived by—
 
 &emsp;&emsp;&emsp;"(i) reducing—
 
@@ -152,7 +152,7 @@ Similar provisions were contained in Pub. L. 96–369, §101(c), Oct. 1, 1980, 9
 
 #### Fiscal Year 1980 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 96–86, §101(c), Oct. 12, 1979, 93 Stat. 657, for the fiscal year 1980, prohibited the use of funds availablefor payment to executive employees, including Members of Congress, entitled under existing law to approximately 12.9 percent increase in pay, to pay any such employee or official any sum in excess of 5.5 percent increase in existing pay, and such sum, if accepted, would be in lieu of the 12.9 percent due for such fiscal year. \[For information regarding constitutionality of certain provisions of section 101(c) of Pub. L. 96–86 as applied to Federal judges, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.\]
+Pub. L. 96–86, §101(c), Oct. 12, 1979, 93 Stat. 657, for the fiscal year 1980, prohibited the use of funds available for payment to executive employees, including Members of Congress, entitled under existing law to approximately 12.9 percent increase in pay, to pay any such employee or official any sum in excess of 5.5 percent increase in existing pay, and such sum, if accepted, would be in lieu of the 12.9 percent due for such fiscal year.
 
 #### Fiscal Year 1979 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 

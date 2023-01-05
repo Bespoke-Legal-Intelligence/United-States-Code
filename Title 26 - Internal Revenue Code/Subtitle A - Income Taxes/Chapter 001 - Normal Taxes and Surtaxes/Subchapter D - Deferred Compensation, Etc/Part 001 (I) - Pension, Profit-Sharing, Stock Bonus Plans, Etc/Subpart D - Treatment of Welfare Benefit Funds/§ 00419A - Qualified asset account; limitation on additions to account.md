@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (iii) SUB or severance pay benefits
 
-&emsp;&emsp;&emsp;In the case of SUB or severance pay benefits, the safe harbor limit for any taxableyear is the amount determined under paragraph (3).
+&emsp;&emsp;&emsp;In the case of SUB or severance pay benefits, the safe harbor limit for any taxable year is the amount determined under paragraph (3).
 
 #### (iv) Long-term disability or life insurance benefits
 
@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;An applicable account limit for any taxable year may include a reserve in an amount not to exceed 35 percent of the sum of—
+&emsp;&emsp;An applicable account limit for any taxable year may include a reserve in anamount not to exceed 35 percent of the sum of—
 
 &emsp;&emsp;&emsp;(i) the qualified direct costs, and
 

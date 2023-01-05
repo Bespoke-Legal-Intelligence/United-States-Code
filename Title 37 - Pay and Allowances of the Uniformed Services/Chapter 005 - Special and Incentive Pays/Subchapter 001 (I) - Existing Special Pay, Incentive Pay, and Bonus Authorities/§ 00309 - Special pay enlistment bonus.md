@@ -10,7 +10,7 @@ Repayment.—A member who does not complete the term of enlistment for which a b
 
 (c)
 
-Relation to Prohibition on Bounties.—The enlistment bonus authorized by this section is not a bounty for purposes of section 514(a) of title 10.
+Relation to Prohibition on Bounties.—The enlistment bonus authorized by this sectionis not a bounty for purposes of section 514(a) of title 10.
 
 (d)
 
@@ -26,7 +26,7 @@ Duration of Authority.—No bonus shall be paid under this section with respect 
 
 #### Prior Provisions
 
-A prior section 309, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 468, related to authority of Secretary concerned to provide for additional pay for performance of administrative functions by officers of the National Guardand reserve components, prior to repeal by Pub. L. 96–107, title IV, §404(a)(1), (b), Nov. 9, 1979, 93 Stat. 808, 809, applicable only with respect to administrative functions performed after Sept. 30, 1980.
+A prior section 309, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 468, related to authority of Secretary concerned to provide for additional pay for performance of administrative functions by officers of the National Guard and reserve components, prior to repeal by Pub. L. 96–107, title IV, §404(a)(1), (b), Nov. 9, 1979, 93 Stat. 808, 809, applicable only with respect to administrative functions performed after Sept. 30, 1980.
 
 #### Amendments
 

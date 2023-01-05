@@ -1,6 +1,6 @@
 ### §10121. Statement of purpose
 
-It is the purpose of this subchapter to establish a National Institute of Justice, which shallprovide for and encourage research and demonstration efforts for the purpose of—
+It is the purpose of this subchapter to establish a National Institute of Justice, which shall provide for and encourage research and demonstration efforts for the purpose of—
 
 &emsp;(1) improving Federal, State, and local criminal justice systems and related aspects of the civil justice system;
 

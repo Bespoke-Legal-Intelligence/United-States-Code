@@ -200,7 +200,7 @@ Silver coins.—Notwithstanding subsection (b), the Secretary may mint and issue
 
 &emsp;&emsp;(C)
 
-Sources of bullion.—The Secretary shall obtain silver for minting coins under subparagraph (B) from available resources, including stockpiles established under theStrategic and Critical Materials Stock Piling Act.
+Sources of bullion.—The Secretary shall obtain silver for minting coins under subparagraph (B) from available resources, including stockpiles established under the Strategic and Critical Materials Stock Piling Act.
 
 &emsp;(7)
 
@@ -318,7 +318,7 @@ In general.—Subject to clause (ii), only 1 coin design shall be issued for a p
 
 &emsp;&emsp;&emsp;(ii)
 
-Nonconsecutive terms.—If a President has served during 2 or more nonconsecutive periods of service, a coin shallbe issued under this subsection for each such nonconsecutive period of service.
+Nonconsecutive terms.—If a President has served during 2 or more nonconsecutive periods of service, a coin shall be issued under this subsection for each such nonconsecutive period of service.
 
 &emsp;(4)
 
@@ -534,7 +534,7 @@ Coordination.—The Board of Governors of the Federal Reserve System and the Sec
 
 &emsp;&emsp;(D) ensuring that—
 
-&emsp;&emsp;&emsp;(i) during an introductory period, all institutions that want unmixed supplies ofeach newly-issued design of $1 coins minted under subsections (n) and (o) are able to obtain such unmixed supplies; and
+&emsp;&emsp;&emsp;(i) during an introductory period, all institutions that want unmixed supplies of each newly-issued design of $1 coins minted under subsections (n) and (o) are able to obtain such unmixed supplies; and
 
 &emsp;&emsp;&emsp;(ii) circulating coins will be available for ordinary commerce in packaging of sizes and types appropriate for and useful to ordinary commerce, including rolled coins;
 
@@ -818,7 +818,7 @@ Redesign beginning upon completion of prior program.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2), quarter dollars issued beginning in 2010 shall have designs on the reverse selected in accordance with this subsection which are emblematic of the national sites in the States, the District of Columbia and the territories of the United States.
+In general.—Notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2), quarter dollars issued beginning in 2010 shall have designs on the reverseselected in accordance with this subsection which are emblematic of the national sites in the States, the District of Columbia and the territories of the United States.
 
 &emsp;&emsp;(B)
 
@@ -954,7 +954,7 @@ National site.—For purposes of this subsection, the term "national site" means
 
 &emsp;(10)
 
-Application in event of independence.—If any territory becomes independentor otherwise ceases to be a territory or possession of the United States before quarter dollars bearing designs which are emblematic of such territory are minted pursuant to this subsection, this subsection shall cease to apply with respect to such territory.
+Application in event of independence.—If any territory becomes independent or otherwise ceases to be a territory or possession of the United States before quarter dollars bearing designs which are emblematic of such territory are minted pursuant to this subsection, this subsection shall cease to apply with respect to such territory.
 
 (u)
 
@@ -1128,7 +1128,7 @@ Order of issuance.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The coins issued under this subsection commemorating either an innovation, an individual innovator, or a group of innovators, from each State, the District of Columbia, or a territory shall be issued in the following order:
+In general.—The coins issued under this subsection commemorating either an innovation, an individual innovator, or a group of innovators, from each State, theDistrict of Columbia, or a territory shall be issued in the following order:
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
@@ -1160,7 +1160,7 @@ In general.—Four $1 coin designs as described in this subsection shall be issu
 
 &emsp;&emsp;&emsp;(ii)
 
-Number of coins of each design.—The Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of $1coins that shall be issued with each of the designs selected for each year of the period referred to in paragraph (1).
+Number of coins of each design.—The Secretary shall prescribe, on the basis of such factors as the Secretary determines to be appropriate, the number of $1 coins that shall be issued with each of the designs selected for each year of the period referred to in paragraph (1).
 
 &emsp;(4)
 
@@ -1224,7 +1224,7 @@ In general.—Effective beginning January 1, 2022, notwithstanding the fourth se
 
 Flexibility with regard to placement of inscriptions.—Notwithstanding subsection (d)(1), the Secretary may select a design for quarter dollars referred to in subparagraph (A) in which—
 
-&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appears on the reverse side of any such quarter dollar; and
+&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appearson the reverse side of any such quarter dollar; and
 
 &emsp;&emsp;&emsp;(ii) any of the inscriptions described in the third sentence of subsection (d)(1) or the designation of the value of the coin appear on the obverse side of any such quarter dollar.
 
@@ -1328,7 +1328,7 @@ Redesign of quarter dollars beginning in 2027.—
 
 &emsp;&emsp;(A)
 
-In general.—Effective beginning January 1, 2027, notwithstanding the fourth sentence of subsection (d)(1) and subsection (d)(2), the Secretary shall issue quarter dollars that have designs on the reverse selected in accordance with this subsection which are emblematic of sports played by American youth.
+In general.—Effective beginning January 1, 2027, notwithstanding the fourth sentence of subsection (d)(1) and subsection\(d)(2), the Secretary shall issue quarter dollars that have designs on the reverse selected in accordance with this subsection which are emblematic of sports played by American youth.
 
 &emsp;&emsp;(B)
 
@@ -1362,7 +1362,7 @@ In general.—Effective January 1, 2027, notwithstanding the fourth sentence of 
 
 Flexibility with regard to placement of inscriptions.—Notwithstanding subsection (d)(1), the Secretary may select a design for half dollars referred to in subparagraph (A) in which—
 
-&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appearson the reverse side of any such half dollars; and
+&emsp;&emsp;&emsp;(i) the inscription described in the second sentence of subsection (d)(1) appears on the reverse side of any such half dollars; and
 
 &emsp;&emsp;&emsp;(ii) any of the inscriptions described in the third sentence of subsection (d)(1) or the designation of the value of the coin appear on the obverse side of any such half dollars.
 
@@ -1488,7 +1488,7 @@ Quality of coins.—The Secretary may mint and issue such number of coins of eac
 
 &emsp;&emsp;(B)
 
-Coordination.—The Board of Governors of the Federal Reserve System and the Secretary shall take steps to ensure that an adequate supply of coins produced under subsections (x), (y), and (z) are available forcommerce and collectors at such places and in such quantities as are appropriate.
+Coordination.—The Board of Governors of the Federal Reserve System and the Secretary shall take steps to ensure that an adequate supply of coins produced under subsections (x), (y), and (z) are available for commerce and collectors at such places and in such quantities as are appropriate.
 
 &emsp;&emsp;(C)
 
@@ -1730,7 +1730,7 @@ Subsec. (p). Pub. L. 109–145, §104, added subsec. (p).
 
 Subsec. (q). Pub. L. 109–145, §201(2), added subsec. (q).
 
-<b>2003</b>—Subsec. (d)(1). Pub. L. 108–15, §102(a), inserted after fourth sentence "Subject to other provisions of this subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello."
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–15, §102(a), inserted after fourth sentence "Subject to other provisions ofthis subsection, the obverse of any 5-cent coin issued after December 31, 2005, shall bear the likeness of Thomas Jefferson and the reverse of any such 5-cent coin shall bear an image of the home of Thomas Jefferson at Monticello."
 
 Subsec. (d)(2). Pub. L. 108–15, §102(b), inserted ", after consulting with the Citizens Coinage Advisory Committee and the Commission of Fine Arts," after "The Secretary may" in second sentence.
 
@@ -1770,7 +1770,7 @@ Subsec. (f). Pub. L. 100–274, §6, inserted heading and amended subsec. (f) ge
 
 Subsec. (e). Pub. L. 99–61 added subsec. (e). Former subsec. (e), providing for the minting of 150,000,000 silver and copper alloy dollar coins bearing the likeness of Dwight David Eisenhower, was struck out.
 
-Subsec. (f). Pub. L. 99–61 added subsec. (f). Former subsec. (f), providing for the minting of up to 10,000,000silver and copper alloy half-dollar coins symbolizing the 250th anniversary of the birth of George Washington, was struck out.
+Subsec. (f). Pub. L. 99–61 added subsec. (f). Former subsec. (f), providing for the minting of up to 10,000,000 silver and copper alloy half-dollar coins symbolizing the 250th anniversary of the birth of George Washington, was struck out.
 
 Subsecs. (g), (h). Pub. L. 99–61 added subsecs. (g) and (h).
 
@@ -1812,7 +1812,7 @@ Pub. L. 105–124, §5, Dec. 1, 1997, 111 Stat. 2537, provided that: "Nothing in
 
 #### Cost specification under Circulating Collectible Coin Redesign Act of 2020
 
-Pub. L. 116–330, §8, Jan. 13, 2021, 134 Stat. 5108, provided that: "No coin or medal minted and issued under this Act \[amending this section and enacting provisions set out as a note under section 5101 of this title\], or an amendment made by this Act, may be sold at a price such that would result in a net cost to the Federal Government."
+Pub. L. 116–330, §8, Jan. 13, 2021, 134 Stat. 5108, provided that: "No coin or medal minted and issued underthis Act \[amending this section and enacting provisions set out as a note under section 5101 of this title\], or an amendment made by this Act, may be sold at a price such that would result in a net cost to the Federal Government."
 
 #### 1921 Silver Dollar Coins
 
@@ -1942,7 +1942,7 @@ Circulating $1 Coins Honoring President George H.W. Bush.—Notwithstanding subs
 
 "(b)
 
-Bullion Coins Honoring First Spouse Barbara Bush.—Notwithstanding paragraphs (1) and (5)(C) of section 5112(o) of title 31, United States Code, and in accordance with the other provisions of such section 5112(o), the Secretary of the Treasury, beginning on January 1, 2020, shall mint and issue bullion coins that bear—
+Bullion Coins Honoring First Spouse Barbara Bush.—Notwithstanding paragraphs (1) and (5)(C) of section 5112(o) of title 31, United States Code, and in accordance with the other provisions of such section5112(o), the Secretary of the Treasury, beginning on January 1, 2020, shall mint and issue bullion coins that bear—
 
 &emsp;"(1) the image of First Spouse Barbara Bush; and
 
@@ -2068,7 +2068,7 @@ Pub. L. 109–145, title I, §101, Dec. 22, 2005, 119 Stat. 2664, provided that:
 
 &emsp;"(2) For a variety of reasons, the new $1 coin introduced in 2000 has not been widely sought-after by the public, leading to higher costs for merchants and thus higher prices for consumers.
 
-&emsp;"(3) The success of the 50 States Commemorative Coin Program (31 U.S.C. 5112(l)) for circulating quarter dollars shows that a design on a United States circulating coin that is regularly changed in a manner similar to the systematic change in designs in suchProgram radically increases demand for the coin, rapidly pulling it through the economy.
+&emsp;"(3) The success of the 50 States Commemorative Coin Program (31 U.S.C. 5112(l)) for circulating quarter dollars shows that a design on a United States circulating coin that is regularly changed in a manner similar to the systematic change in designs in such Program radically increases demand for the coin, rapidly pulling it through the economy.
 
 &emsp;"(4) The 50 States Commemorative Coin Program also has been an educational tool, teaching both Americans and visitors something about each State for which a quarter has been issued.
 
@@ -2242,7 +2242,7 @@ Production of New Dollar Coins.—
 
 &emsp;"(1)
 
-In general.—Upon the depletion of the Government's supply (as of the date of enactment of this Act \[Dec. 1, 1997\]) of $1 coins bearing the likeness of Susan B. Anthony, the Secretary of the Treasury shall place into circulation $1 coins that comply with the requirements of subsections (b) and (d)(1) of section 5112 of title 31, United States Code, as amended by this section.
+In general.—Upon the depletion of the Government's supply (as of the date of enactment of this Act\[Dec. 1, 1997\]) of $1 coins bearing the likeness of Susan B. Anthony, the Secretary of the Treasury shall place into circulation $1 coins that comply with the requirements of subsections (b) and (d)(1) of section 5112 of title 31, United States Code, as amended by this section.
 
 &emsp;"(2)
 
@@ -2278,7 +2278,7 @@ Study.—The Secretary of the Treasury shall by June 1, 1997 complete a study of
 
 "(b)
 
-Report.—The Secretary shall submit the study required in subsection (a) above, to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housingand Urban Affairs of the Senate, simultaneously on its receipt by the Secretary.
+Report.—The Secretary shall submit the study required in subsection (a) above, to the Committee on Banking and Financial Services of the House of Representatives and the Committee on Banking, Housing and Urban Affairs of the Senate, simultaneously on its receipt by the Secretary.
 
 "(c) 50-
 
@@ -2391,6 +2391,10 @@ Pub. L. 99–185, §2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: "The Secr
 #### Commemorative Coins
 
 Provisions authorizing commemorative coins were contained in the following acts:
+
+Pub. L. 117–163, Aug. 3, 2022, 136 Stat. 1353.—Harriet Tubman Bicentennial.
+
+Pub. L. 117–162, Aug. 3, 2022, 136 Stat. 1349.—National World War II Memorial.
 
 Pub. L. 116–247, Dec. 22, 2020, 134 Stat. 1120.—National Purple Heart Hall of Honor.
 

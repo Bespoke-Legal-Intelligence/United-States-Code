@@ -16,7 +16,7 @@ No requirement or prohibition may be imposed under the laws of any State—
 
 &emsp;&emsp;(C) subsections (a) and (b) of section 1681m of this title, relating to the duties of a person who takes any adverse action with respect to a consumer;
 
-&emsp;&emsp;(D) section 1681m(d) of this title, relating to the duties of persons who use a consumerreport of a consumer in connection with any credit or insurance transaction that is not initiated by the consumer and that consists of a firm offer of credit or insurance;
+&emsp;&emsp;(D) section 1681m(d) of this title, relating to the duties of persons who use a consumer report of a consumer in connection with any credit or insurance transaction that is not initiated by the consumer and that consists of a firm offer of credit or insurance;
 
 &emsp;&emsp;(E) section 1681c of this title, relating to information contained in consumer reports, except that this subparagraph shall not apply to any State law in effect on September 30, 1996;
 
@@ -128,7 +128,7 @@ Subsec. (d). Pub. L. 108–159, §711(3), substituted "(b) and (c)" for "(b) and
 
 &emsp;"(C) gives greater protection to consumers than is provided under this subchapter."
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted "Except as provided in subsections (b) and (c), this subchapter" for "This subchapter".
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, andsubstituted "Except as provided in subsections (b) and (c), this subchapter" for "This subchapter".
 
 Subsecs. (b) to (d). Pub. L. 104–208, §2419(2), added subsecs. (b) to (d).
 

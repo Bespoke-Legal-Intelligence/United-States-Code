@@ -106,7 +106,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;&emsp;(iii) provide—
 
-&emsp;&emsp;&emsp;&emsp;(I) high-quality mentoring and induction opportunities with ongoing support for beginning special education teachers; or
+&emsp;&emsp;&emsp;&emsp;(I) high-quality mentoring and induction opportunities with ongoing supportfor beginning special education teachers; or
 
 &emsp;&emsp;&emsp;&emsp;(II) inservice professional development to beginning and veteran special education teachers through the ongoing exchange of information and instructional strategies with faculty.
 
@@ -158,7 +158,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 &emsp;&emsp;(A) A proposal to prepare personnel in more than 1 low incidence disability, such as deafness and blindness.
 
-&emsp;&emsp;(B) A demonstration of an effective collaboration between an eligible entity and alocal educational agency that promotes recruitment and subsequent retention of personnel who meet the applicable requirements described in section 1412(a)(14) of this title to serve children with low incidence disabilities.
+&emsp;&emsp;(B) A demonstration of an effective collaboration between an eligible entity and a local educational agency that promotes recruitment and subsequent retention of personnel who meet the applicable requirements described in section 1412(a)(14) of this title to serve children with low incidence disabilities.
 
 #### (5) Preparation in use of braille
 
@@ -182,7 +182,7 @@ The Secretary, on a competitive basis, shall award grants to, or enter into cont
 
 #### (1) In general
 
-&emsp;An eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
+&emsp;An eligible entity that wishes to receive a grant, or enter into a contract or cooperative agreement, under this section shall submit anapplication to the Secretary at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Identified State needs
 
@@ -250,13 +250,13 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(vii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(vii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
 A prior section 1462, Pub. L. 91–230, title VI, §662, as added Pub. L. 99–457, title III, §317, Oct. 8, 1986, 100 Stat. 1172; amended Pub. L. 101–476, title VII, §702, Oct. 30, 1990, 104 Stat. 1141, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, §203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
 
-A prior section 662 of Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 188, eff. July 1, 1971, repealed sections 611 to 618, 621 to 624, and 871 to 880a of this title, and sections 2491 to 2494 and 2698 to 2698b of Title 42, The Public Health and Welfare, and amended section 676 of this title, prior to repeal by Pub. L. 98–199, §14, Dec. 2, 1983, 97 Stat. 1374.
+A prior section 662 of Pub. L. 91–230, title VI, Apr. 13, 1970, 84 Stat. 188, eff. July 1, 1971, repealed sections 611 to 618, 621 to 624, and 871 to 880a of this title, and sections 2491 to 2494 and 2698 to 2698b of Title 42, The Public Health and Welfare, and amended section 676 of thistitle, prior to repeal by Pub. L. 98–199, §14, Dec. 2, 1983, 97 Stat. 1374.
 
 #### Amendments
 

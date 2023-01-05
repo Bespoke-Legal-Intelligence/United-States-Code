@@ -22,7 +22,7 @@
 
 &emsp;(8) the term "Federal agency lender" means a Federal agency that makes direct loans secured by improved real estate or a mobile home, to the extent such agency acts in such capacity;
 
-&emsp;(9) the term "Federal entity for lending regulation" means the Board of Governors of the Federal Reserve System, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the National Credit Union Administration, and the Farm Credit Administration, and with respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;
+&emsp;(9) the term "Federal entity for lending regulation" means the Board of Governors of the Federal Reserve System, the Federal DepositInsurance Corporation, the Comptroller of the Currency, the National Credit Union Administration, and the Farm Credit Administration, and with respect to a particular regulated lending institution means the entity primarily responsible for the supervision of the institution;
 
 &emsp;(10) the term "improved real estate" means real estate upon which a building is located;
 

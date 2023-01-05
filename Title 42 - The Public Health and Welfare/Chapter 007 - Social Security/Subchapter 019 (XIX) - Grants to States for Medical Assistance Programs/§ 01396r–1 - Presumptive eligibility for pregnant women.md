@@ -2,7 +2,7 @@
 
 #### (a) Ambulatory prenatal care
 
-A State plan approved under section 1396a of this title may provide for making ambulatoryprenatal care available to a pregnant woman during a presumptive eligibility period.
+A State plan approved under section 1396a of this title may provide for making ambulatory prenatal care available to a pregnant woman during a presumptive eligibility period.
 
 #### (b) Definitions
 
@@ -86,7 +86,7 @@ If the State has elected the option to provide a presumptive eligibility period 
 
 #### References in Text
 
-The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D)(i)(III), is Pub. L. 94–437, Sept. 30,1976, 90 Stat. 1400. Title V of the Indian Health Care Improvement Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D)(i)(III), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Indian Health Care Improvement Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 Section 4(a) of the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (b)(2)(D)(ii)(II), is section 4(a) of Pub. L. 93–86, Aug. 10, 1973, 87 Stat. 249, which is set out as a note under section 612c of Title 7, Agriculture.
 

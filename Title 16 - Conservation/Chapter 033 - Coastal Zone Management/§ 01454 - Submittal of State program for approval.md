@@ -24,7 +24,7 @@ Subsec. (c). Pub. L. 94–370 substituted provision that grant should not exceed
 
 Subsec. (d). Pub. L. 94–370 substituted provisions authorizing Secretary to make grants annually to any coastal state for purposes described in subsection (a)(2) and setting forth eligibility prerequisites for initial implementation grants for provisions, which were incorporated into subsec. (h), authorizing Secretary to review and approve the state's submitted management program which on final approval terminates state's eligibility under this section, but commences state's eligibility under section 1455 of this title.
 
-Subsec. (e). Pub. L. 94–370 restructured existing provisions into pars. (1) and (2), and as so restructured, substituted in provisions preceding par. (1) reference to shall be made to, and allocated among, the coastal states for reference to shall be allocated to the states,and in par. (1) inserted proviso relating to the waiver at the option of the Secretary of the 10 per centum maximum requirement.
+Subsec. (e). Pub. L. 94–370 restructured existing provisions into pars. (1) and (2), and as so restructured, substituted in provisions preceding par. (1) reference to shall be made to, and allocated among, the coastal states for reference to shall be allocated to the states, and in par. (1) inserted proviso relating to the waiver at the option of the Secretary of the 10 per centum maximum requirement.
 
 Subsec. (f). Pub. L. 94–370 substituted "The amount of any grant" for "Grant" and "the coastal state" for "a state".
 

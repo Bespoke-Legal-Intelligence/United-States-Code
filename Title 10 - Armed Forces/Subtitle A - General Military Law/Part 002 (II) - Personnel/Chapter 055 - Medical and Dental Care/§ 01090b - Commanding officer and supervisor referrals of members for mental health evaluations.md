@@ -1,0 +1,156 @@
+### §1090b. Commanding officer and supervisor referrals of members for mental health evaluations
+
+(a)
+
+Regulations.—The Secretary of Defense shall prescribe and maintain regulations relating to commanding officer and supervisor referrals of members of the armed forces for mental health evaluations. The regulations shall incorporate the requirements set forth in subsections (b), (c), and (d) and such other matters as the Secretary considers appropriate.
+
+(b)
+
+Reduction of Perceived Stigma.—The regulations required by subsection (a) shall, to the greatest extent possible—
+
+&emsp;(1) seek to eliminate perceived stigma associated with seeking and receiving mental health services, promoting the use of mental health services on a basis comparable to the use of other medical and health services; and
+
+&emsp;(2) clarify the appropriate action to be taken by commanders or supervisory personnel who, in good faith, believe that a subordinate may require a mental health evaluation.
+
+(c)
+
+Procedures for Inpatient Evaluations.—The regulations required by subsection (a) shall provide that, when a commander or supervisor determines that it is necessary to refer a member of the armed forces for a mental health evaluation or is required to make such a referral pursuant to the process described in subsection (e)(1)(A)—
+
+&emsp;(1) the health evaluation shall only be conducted in the most appropriate clinical setting, in accordance with the least restrictive alternative principle; and
+
+&emsp;(2) only a psychiatrist, or, in cases in which a psychiatrist is not available, another mental health professional or a physician, may admit the member pursuant to the referral for a mental health evaluation to be conducted on an inpatient basis.
+
+(d)
+
+Prohibition on Use of Referrals for Mental Health Evaluations to Retaliate Against Whistleblowers.—The regulations required by subsection (a) shall provide that no person may refer a member of the armed forces for a mental health evaluation as a reprisal for making or preparing a lawful communication of the type described in section 1034(c)(2) of this title, and applicable regulations. For purposes of this subsection, such communication shall also include a communication to any appropriate authority in the chain of command of the member.
+
+(e)
+
+Self-initiated Referral Process.—(1) The regulations required by subsection (a) shall, with respect to a member of the armed forces—
+
+&emsp;(A) provide for a self-initiated process that enables the member to trigger a referral for a mental health evaluation by requesting such a referral from a commanding officer or supervisor who is in a grade above E-5;
+
+&emsp;(B) ensure the function of the process described in subparagraph (A) by—
+
+&emsp;&emsp;(i) requiring the commanding officer or supervisor of the member to refer the member to a mental health provider for a mental health evaluation as soon as practicable following the request of the member (including by providing to the mental health provider the name and contact information of the member and providing to the member the date, time, and place of the scheduled mental health evaluation); and
+
+&emsp;&emsp;(ii) ensure <sup>1</sup> the member may request a referral pursuant to subparagraph (A) on any basis (including on the basis of a concern relating to fitness for duty, occupational requirements, safety issues, significant changes in performance, or behavioral changes that may be attributable to possible changes in mental status); and
+
+&emsp;(C) ensure that the process described in subparagraph (A)—
+
+&emsp;&emsp;(i) reduces stigma in accordance with subsection (b), including by treating referrals for mental health evaluations made pursuant to such process in a manner similar to referrals for other medical services, to the maximum extent practicable; and
+
+&emsp;&emsp;(ii) protects the confidentiality of the member to the maximum extent practicable, in accordance with requirements for the confidentiality of health information under the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) and applicable privacy laws.
+
+(2) In making a referral for an evaluation of a member of the armed forces triggered by a request made pursuant to the process described in paragraph (1)(A), if the member has made such a request on the basis of a concern that the member is a potential or imminent danger to self or others, the commanding officer or supervisor of the member shall observe the following principles:
+
+&emsp;(A) With respect to safety, if the commander or supervisor determines the member is exhibiting dangerous behavior, the first priority of the commander or supervisor shall be to ensure that precautions are taken to protect the safety of the member, and others, prior to the arrival of the member at the location of the evaluation.
+
+&emsp;(B) With respect to communication, prior to such arrival, the commander or supervisor shall communicate to the provider to which the member is being referred (in a manner and to an extent consistent with paragraph (1)(C)(ii)), information on the circumstances and observations that led to—
+
+&emsp;&emsp;(i) the member requesting the referral; and
+
+&emsp;&emsp;(ii) the commander or supervisor making such referral based on the request.
+
+(f)
+
+Annual Training Requirement.—On an annual basis, each Secretary concerned shall provide to the members of the Armed Forces under the jurisdiction of such Secretary a training on how to recognize personnel who may require mental health evaluations on the basis of the individual being an imminent danger to self or others, as demonstrated by the behavior or apparent mental state of the individual.
+
+(g)
+
+Definitions.—In this section:
+
+&emsp;(1) The term "mental health professional" means a psychiatrist or clinical psychologist, a person with a doctorate in clinical social work, or a psychiatric clinical nurse specialist.
+
+&emsp;(2) The term "mental health evaluation" means a psychiatric examination or evaluation, a psychological examination or evaluation, an examination for psychiatric or psychological fitness for duty, or any other means of assessing the state of mental health of a member of the armed forces.
+
+&emsp;(3) The term "least restrictive alternative principle" means a principle under which a member of the armed forces committed for hospitalization and treatment shall be placed in the most appropriate and therapeutic available setting—
+
+&emsp;&emsp;(A) that is no more restrictive than is conducive to the most effective form of treatment; and
+
+&emsp;&emsp;(B) in which treatment is available and the risks of physical injury or property damage posed by such placement are warranted by the proposed plan of treatment.
+
+(Added Pub. L. 112–81, div. A, title VII, §711(a)(1), Dec. 31, 2011, 125 Stat. 1475, §1090a; renumbered §1090b and amended Pub. L. 117–81, div. A, title VII, §§701(c)(1)(A), 704, Dec. 27, 2021, 135 Stat. 1778, 1780.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of Title 42, The Public Health and Welfare, and Tables.
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 117–81, §701(c)(1)(A), renumbered section 1090a of this title as this section.
+
+Subsec. (c). Pub. L. 117–81, §704(1), inserted "or is required to make such a referral pursuant to the process described in subsection (e)(1)(A)" after "mental health evaluation" in introductory provisions.
+
+Subsecs. (e) to (g). Pub. L. 117–81, §704(2), (3), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Transfer of section by section 701(c)(1)(A) of Pub. L. 117–81 effective Oct. 1, 2022, see section 701(d) of Pub. L. 117–81, set out as a note under section 1079 of this title.
+
+#### Confidentiality Requirements for Mental Health Care Services for Members of the Armed Forces
+
+Pub. L. 117–263, div. A, title VII, §704, Dec. 23, 2022, 136 Stat. 2648, provided that:
+
+"(a)
+
+In General.—In order to reinforce the policies of eliminating stigma in obtaining mental health care services and further encouraging help-seeking behavior by members of the Armed Forces, not later than July 1, 2023, the Secretary of Defense shall—
+
+&emsp;"(1) update and reissue Department of Defense Instruction 6490.08, titled 'Command Notification Requirements to Dispel Stigma in Providing Mental Health Care to Service Members' and issued on August 17, 2011, taking into account—
+
+&emsp;&emsp;"(A) experience implementing the Instruction; and
+
+&emsp;&emsp;"(B) opportunities to more effectively dispel stigma in obtaining mental health care services and encourage help-seeking behavior; and
+
+&emsp;"(2) develop standards within the Department of Defense that—
+
+&emsp;&emsp;"(A) ensure, except in a case in which there is an exigent circumstance, the confidentiality of mental health care services provided to members who voluntarily seek such services;
+
+&emsp;&emsp;"(B) include a model for making determinations with respect to exigent circumstances that clarifies the responsibilities regarding the determination of the effect on military function and the prevention of self-harm by the individual; and
+
+&emsp;&emsp;"(C) in a case in which there is an exigent circumstance, prevent health care providers from disclosing more than the minimum amount of information necessary to address the exigent circumstance.
+
+"(b)
+
+Elements.—The standards required by subsection (a)(2) shall include the following elements:
+
+&emsp;"(1) Requirements for confidentiality regarding the request and receipt by a member of the Armed Forces of mental health care services under the self-initiated referral process under section 1090a(e) \[sic; probably should be "section 1090b(e)"\] of title 10, United States Code.
+
+&emsp;"(2) Requirements for confidentiality regarding the results of any drug testing incident to such mental health care services.
+
+&emsp;"(3) Procedures that reflect best practices of the mental health profession with respect to suicide prevention.
+
+&emsp;"(4) A prohibition against retaliating against a member of the Armed Forces who requests mental health care services.
+
+&emsp;"(5) Such other elements as the Secretary determines will most effectively support the policies of—
+
+&emsp;&emsp;"(A) eliminating stigma in obtaining mental health care services; and
+
+&emsp;&emsp;"(B) encouraging help-seeking behavior by members of the Armed Forces.
+
+"(c)
+
+Joint Policy With the Secretary of Veterans Affairs.—
+
+&emsp;"(1)
+
+In general.—Not later than July 1, 2023, the Secretary of Defense and the Secretary of Veterans Affairs shall issue a joint policy that provides, except in a case in which there is an exigent circumstance, for the confidentiality of mental health care services provided by the Secretary of Veterans Affairs to members of the Armed Forces, including the reserve components, under section 1712A, 1720F, 1720H, or 1789 of title 38, United States Code, or other applicable law.
+
+&emsp;"(2)
+
+Elements.—The joint policy issued under paragraph (1) shall, to the extent practicable, include standards comparable to the standards developed under subsection (a)(2).
+
+"(d)
+
+Report.—Not later than July 1, 2023, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a copy of the standards developed under subsection (a)(2) and the joint policy issued under subsection (c).
+
+"(e)
+
+Exigent Circumstance Defined.—In this section, the term 'exigent circumstance' means a circumstance in which the Secretary of Defense determines the need to prevent serious harm to an individual or essential military function clearly outweighs the need for confidentiality of information obtained by a health care provider incident to mental health care services voluntarily sought by a member of the Armed Forces."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "ensuring".</i>
+

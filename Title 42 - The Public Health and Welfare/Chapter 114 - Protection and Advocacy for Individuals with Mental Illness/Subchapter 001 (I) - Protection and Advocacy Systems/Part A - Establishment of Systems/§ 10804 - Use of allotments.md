@@ -2,7 +2,7 @@
 
 #### (a) Contracts
 
-(1) An eligible system may use its allotment under this subchapter to enter into contracts with State agencies and nonprofit organizations which operate throughout the State. In order to be eligible for a contract under this paragraph—
+(1) An eligible system may use its allotment under this subchapter to enter into contractswith State agencies and nonprofit organizations which operate throughout the State. In order to be eligible for a contract under this paragraph—
 
 &emsp;(A) such an agency shall be independent of any agency which provides treatment or services (other than advocacy services) to individuals with mental illness; and
 

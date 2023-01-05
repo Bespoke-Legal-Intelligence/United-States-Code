@@ -124,7 +124,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (D) State, local, or tribal additions
 
-&emsp;&emsp;The Attorney General of the United States shall include in the list described in subparagraph (A) any noncomplying delivery sellers identified by any State, local, or tribal government under paragraph (6), and shall distribute the list to the attorney general or chief law enforcement official and the tax administrator of any government submitting any such information, and to any common carriers or other persons who deliver small packages to consumers identified by any government pursuant to paragraph (6).
+&emsp;&emsp;The Attorney General of the United States shall include in the list described in subparagraph (A) any noncomplying delivery sellers identified by any State, local, or tribal government under paragraph (6), and shall distribute the list to the attorney general or chief law enforcement official and the taxadministrator of any government submitting any such information, and to any common carriers or other persons who deliver small packages to consumers identified by any government pursuant to paragraph (6).
 
 #### (E) Accuracy and completeness of list of noncomplying delivery sellers
 
@@ -260,7 +260,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (B) Updates
 
-&emsp;&emsp;Any government providing a list to the Attorney General of the United States undersubparagraph (A) shall also provide updates and corrections every 4 months until such time as the government notifies the Attorney General of the United States in writing that the government no longer desires to submit information to supplement the list described in paragraph (1)(A).
+&emsp;&emsp;Any government providing a list to the Attorney General of the United States under subparagraph (A) shall also provide updates and corrections every 4 months until such time as the government notifies the Attorney General of the United States in writing that the government no longer desires to submit information to supplement the list described in paragraph (1)(A).
 
 #### (C) Removal after withdrawal
 
@@ -314,7 +314,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (f) Presumption
 
-For purposes of this chapter, a delivery sale shall be deemed to have occurred in the State and place where the buyer obtains personal possession of the cigarettes or smokeless tobacco, and a delivery pursuant to a delivery sale is deemed to have been initiated or ordered by the delivery seller.
+For purposes of this chapter, a delivery sale shall be deemed to have occurred in the Stateand place where the buyer obtains personal possession of the cigarettes or smokeless tobacco, and a delivery pursuant to a delivery sale is deemed to have been initiated or ordered by the delivery seller.
 
 (Oct. 19, 1949, ch. 699, §2A, as added Pub. L. 111–154, §2(c), Mar. 31, 2010, 124 Stat. 1091; amended Pub. L. 116–260, div. FF, title VI, §602(a)(2), Dec. 27, 2020, 134 Stat. 3137.)
 

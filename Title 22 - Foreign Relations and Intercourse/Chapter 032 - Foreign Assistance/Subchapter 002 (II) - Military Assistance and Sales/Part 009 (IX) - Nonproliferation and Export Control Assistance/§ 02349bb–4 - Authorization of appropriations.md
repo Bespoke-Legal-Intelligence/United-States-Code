@@ -24,7 +24,7 @@ The activities referred to in subsection (c) are—
 
 &emsp;(4) export control and border assistance under part XI of subchapter I of this chapter or the FREEDOM Support Act (22 U.S.C. 5801 et seq.).
 
-(Pub. L. 87–195, pt. II, §586, formerly §585, as added Pub. L. 106–280, title III, §301, Oct. 6, 2000, 114 Stat. 852; renumbered §586 and amended Pub. L. 107–228, div. B, title XIII, §§1301(a), 1303(1), Sept. 30, 2002, 116 Stat. 1435, 1436.)
+(Pub. L. 87–195, pt. II, §586, formerly §585, as added Pub. L. 106–280, title III, §301, Oct. 6, 2000,114 Stat. 852; renumbered §586 and amended Pub. L. 107–228, div. B, title XIII, §§1301(a), 1303(1), Sept. 30, 2002, 116 Stat. 1435, 1436.)
 
 #### <b>Editorial Notes</b>
 
@@ -32,7 +32,7 @@ The activities referred to in subsection (c) are—
 
 The Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002, referred to in subsec. (c), is Pub. L. 107–115, Jan. 10, 2002, 115 Stat. 2118, also known as the Kenneth M. Ludden Foreign Operations, Export Financing, and Related Programs Appropriations Act, Fiscal Year 2002. For complete classification of this Act to the Code, see Tables.
 
-The FREEDOM Support Act, referred to in subsec. (d)(4), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The FREEDOM Support Act, referred to in subsec. (d)(4), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Amendments
 

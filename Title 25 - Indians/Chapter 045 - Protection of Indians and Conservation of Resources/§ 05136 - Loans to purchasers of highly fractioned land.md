@@ -28,7 +28,7 @@ The Indian Reorganization Act, referred to in subsec. (a), is act June 18, 1934,
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section was formerly classified to section 488 of this title prior to editorial reclassification and renumbering as this section.
 

@@ -98,7 +98,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;&emsp;(L) fees and other income from such other categories of the securities business as SIPC shall provide by bylaw.
 
-> &emsp;Such term includes revenues earned by a broker or dealer in connection with a transaction in the portfolio margining account of a customer carried as securities accounts pursuant to a portfolio margining program approved by the Commission. Such term does not include revenues received by a broker or dealer in connection with the distribution of shares of a registered open end investment company or unit investment trust or revenues derivedby a broker or dealer from the sale of variable annuities or from the conduct of the business of insurance.
+> &emsp;Such term includes revenues earned by a broker or dealer in connection with a transaction in the portfolio margining account of a customer carried as securities accounts pursuant to a portfolio margining program approved by the Commission. Such term does not include revenues received by a broker or dealer in connection with the distribution of shares of a registered open end investment company or unit investment trust or revenues derived by a broker or dealer from the sale of variable annuities or from the conduct of the business of insurance.
 
 #### (10) Liquidation proceeding
 

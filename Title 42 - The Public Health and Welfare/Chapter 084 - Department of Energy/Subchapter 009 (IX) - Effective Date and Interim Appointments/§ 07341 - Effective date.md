@@ -8,13 +8,13 @@ The provisions of this chapter shall take effect one hundred and twenty days aft
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### <b>Executive Documents</b>
 
 #### Executive Order No. 12009
 
-Ex. Ord. No. 12009, Sept. 13, 1977, 42 F.R. 46267, which prescribed Oct. 1, 1977, as the effective date of thischapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 12009, Sept. 13, 1977, 42 F.R. 46267, which prescribed Oct. 1, 1977, as the effective date of this chapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

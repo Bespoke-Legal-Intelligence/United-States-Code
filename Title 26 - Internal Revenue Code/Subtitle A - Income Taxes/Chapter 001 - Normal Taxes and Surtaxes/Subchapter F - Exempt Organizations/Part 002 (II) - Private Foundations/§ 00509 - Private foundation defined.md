@@ -134,7 +134,7 @@ Sections 1221(a)(2) and 1241(a), (b) of Pub. L. 109–280, which directed the am
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(3)(B). Pub. L. 109–280, §1241(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "is operated, supervised, or controlled by or in connection with one or more organizations described in paragraph (1) or (2), and". See Codification note above.
+<b>2006</b>—Subsec. (a)(3)(B). Pub. L. 109–280, §1241(a), amended subpar. (B) generally. Prior to amendment,subpar. (B) read as follows: "is operated, supervised, or controlled by or in connection with one or more organizations described in paragraph (1) or (2), and". See Codification note above.
 
 Subsec. (e). Pub. L. 109–280, §1221(a)(2), inserted at end "Such term shall also include income from sources similar to those in the preceding sentence." See Codification note above.
 

@@ -8,7 +8,7 @@ There shall be allowed as a deduction all the ordinary and necessary expenses pa
 
 &emsp;(2) traveling expenses (including amounts expended for meals and lodging other than amounts which are lavish or extravagant under the circumstances) while away from home in the pursuit of a trade or business; and
 
-&emsp;(3) rentals or other payments required to be made as a condition to the continued use or possession, for purposes of the trade or business, of property to which the taxpayer has not taken or is not taking title or in which he has no equity.
+&emsp;(3) rentals or other payments required to be made as a condition to the continued use or possession, for purposes of the trade or business, of property to which the taxpayer hasnot taken or is not taking title or in which he has no equity.
 
 > For purposes of the preceding sentence, the place of residence of a Member of Congress (including any Delegate and Resident Commissioner) within the State, congressional district, or possession which he represents in Congress shall be considered his home, but amounts expended by such Members within each taxable year for living expenses shall not be deductible for income tax purposes. For purposes of paragraph (2), the taxpayer shall not be treated as being temporarily away from home during any period of employment if such period exceeds 1 year. The preceding sentence shall not apply to any Federal employee during any period for which such employee is certified by the Attorney General (or the designee thereof) as traveling on behalf of the United States in temporary duty status to investigate or prosecute, or provide support services for the investigation or prosecution of, a Federal crime.
 
@@ -58,7 +58,7 @@ For purposes of this subtitle, whenever the amount of capital contributions evid
 
 #### (A) In general
 
-&emsp;&emsp;The term "influencing legislation" means any attempt to influence any legislation through communication with any member or employee of a legislative body, or with any government official or employee who may participate in the formulation of legislation.
+&emsp;&emsp;The term "influencing legislation" means any attempt to influence any legislationthrough communication with any member or employee of a legislative body, or with any government official or employee who may participate in the formulation of legislation.
 
 #### (B) Legislation
 
@@ -74,7 +74,7 @@ For purposes of this subtitle, whenever the amount of capital contributions evid
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Paragraph (1) shall not apply to any in-house expenditures for any taxable year ifsuch expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in paragraphs (1)(A) and (D).
+&emsp;&emsp;&emsp;Paragraph (1) shall not apply to any in-house expenditures for any taxable year if such expenditures do not exceed $2,000. In determining whether a taxpayer exceeds the $2,000 limit under this clause, there shall not be taken into account overhead costs otherwise allocable to activities described in paragraphs (1)(A) and (D).
 
 #### (ii) In-house expenditures
 
@@ -242,7 +242,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (A) Dollar amount
 
-&emsp;&emsp;No deduction shall be allowed under paragraph (1) to the extent that the amount ofsuch deduction exceeds the taxpayer's earned income (within the meaning of section 401(c)) derived by the taxpayer from the trade or business with respect to which the plan providing the medical care coverage is established.
+&emsp;&emsp;No deduction shall be allowed under paragraph (1) to the extent that the amount of such deduction exceeds the taxpayer's earned income (within the meaning of section 401(c)) derived by the taxpayer from the trade or business with respect to which the plan providing the medical care coverage is established.
 
 #### (B) Other coverage
 
@@ -306,7 +306,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, the term "applicable employee remuneration" means, with respect to any covered employee for any taxable year, the aggregate amount allowable as a deduction under this chapter for such taxable year (determined without regard to this subsection) for remuneration for services performed by such employee (whether or not during the taxable year).
+&emsp;&emsp;Except as otherwise provided in this paragraph, the term "applicable employee remuneration" means, with respect to any covered employee for any taxable year, the aggregate amount allowable as a deductionunder this chapter for such taxable year (determined without regard to this subsection) for remuneration for services performed by such employee (whether or not during the taxable year).
 
 #### (B) Exception for existing binding contracts
 
@@ -372,7 +372,7 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;&emsp;&emsp;(I) which includes any portion of the period during which the authorities under section 101(a) of the Emergency Economic Stabilization Act of 2008 are in effect (determined under section 120 thereof), and
 
-&emsp;&emsp;&emsp;&emsp;(II) in which the aggregate amount of troubled assets acquired from the employer during the taxable year pursuant to such authorities (other than assets to which subparagraph (B)(ii) applies), when added to the aggregate amount so acquired for all preceding taxable years, exceeds $300,000,000, and
+&emsp;&emsp;&emsp;&emsp;(II) in which the aggregate amount of troubled assets acquired from the employer during the taxable year pursuantto such authorities (other than assets to which subparagraph (B)(ii) applies), when added to the aggregate amount so acquired for all preceding taxable years, exceeds $300,000,000, and
 
 &emsp;&emsp;&emsp;(ii) any subsequent taxable year which includes any portion of such period.
 
@@ -442,13 +442,13 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 &emsp;&emsp;&emsp;The term "covered health insurance provider" means—
 
-&emsp;&emsp;&emsp;&emsp;(I) with respect to taxable years beginning after December 31, 2009, and before January 1, 2013, any employer which is a health insurance issuer (as defined in section 9832(b)(2)) and which receives premiums from providing health insurance coverage (as defined in section 9832(b)(1)), and
+&emsp;&emsp;&emsp;&emsp;(I) with respect to taxable years beginning after December 31, 2009, and beforeJanuary 1, 2013, any employer which is a health insurance issuer (as defined in section 9832(b)(2)) and which receives premiums from providing health insurance coverage (as defined in section 9832(b)(1)), and
 
 &emsp;&emsp;&emsp;&emsp;(II) with respect to taxable years beginning after December 31, 2012, any employer which is a health insurance issuer (as defined in section 9832(b)(2)) and with respect to which not less than 25 percent of the gross premiums received from providing health insurance coverage (as defined in section 9832(b)(1)) is from minimum essential coverage (as defined in section 5000A(f)).
 
 #### (ii) Aggregation rules
 
-&emsp;&emsp;&emsp;Two or more persons who are treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated asa single employer, except that in applying section 1563(a) for purposes of any such subsection, paragraphs (2) and (3) thereof shall be disregarded.
+&emsp;&emsp;&emsp;Two or more persons who are treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer, except that in applying section 1563(a) for purposes of any such subsection, paragraphs (2) and (3) thereof shall be disregarded.
 
 #### (D) Applicable individual remuneration
 
@@ -506,11 +506,11 @@ If in a criminal proceeding a taxpayer is convicted of a violation of the antitr
 
 #### (2) Special rule where expenses exceed reimbursements
 
-&emsp;Notwithstanding paragraph (1)(A), if the expenses incurred by an employee for the use of a vehicle in performing services described in paragraph (1) exceed the qualified reimbursements for such expenses, such excess shall be taken into account in computing the miscellaneous itemized deductions of the employee under section 67.
+&emsp;Notwithstanding paragraph (1)(A), if the expenses incurred by an employee for the use ofa vehicle in performing services described in paragraph (1) exceed the qualified reimbursements for such expenses, such excess shall be taken into account in computing the miscellaneous itemized deductions of the employee under section 67.
 
 #### (3) Definition of qualified reimbursements
 
-&emsp;For purposes of this subsection, the term "qualified reimbursements" means the amounts paid by the United States Postal Service to employees as an equipment maintenance allowance under the 1991 collective bargaining agreement between the United States Postal Service and the National Rural Letter Carriers' Association. Amounts paid as anequipment maintenance allowance by such Postal Service under later collective bargaining agreements that supersede the 1991 agreement shall be considered qualified reimbursements if such amounts do not exceed the amounts that would have been paid under the 1991 agreement, adjusted by increasing any such amount under the 1991 agreement by an amount equal to—
+&emsp;For purposes of this subsection, the term "qualified reimbursements" means the amounts paid by the United States Postal Service to employees as an equipment maintenance allowance under the 1991 collective bargaining agreement between the United States Postal Service and the National Rural Letter Carriers' Association. Amounts paid as an equipment maintenance allowance by such Postal Service under later collective bargaining agreements that supersede the 1991 agreement shall be considered qualified reimbursements if such amounts do not exceed the amounts that would have been paid under the 1991 agreement, adjusted by increasing any such amount under the 1991 agreement by an amount equal to—
 
 &emsp;&emsp;(A) such amount, multiplied by
 
@@ -590,7 +590,7 @@ No deduction shall be allowed under this chapter for—
 
 &emsp;&emsp;&emsp;<b>(B) deferred compensation and other deferred benefits, see section 404.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 45; Pub. L. 85–866, title I, §5(a), Sept. 2, 1958, 72 Stat. 1608; Pub. L. 86–779, §§7(b), 8(a), Sept. 14, 1960, 74 Stat. 1002, 1003; Pub. L. 87–834, §§3(a), 4(b), Oct. 16, 1962, 76 Stat. 973, 976; Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), Dec. 30, 1969, 83 Stat. 648, 710; Pub. L. 92–178, title III, §310(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–34, title I, §127(a), Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–35, title XXI, §2146(b), Aug. 13, 1981, 95 Stat. 801; Pub. L. 97–51, §139(b)(1), Oct. 1, 1981, 95 Stat. 967; Pub. L. 97–216, title II, §215(a), July 18, 1982, 96 Stat. 194; Pub. L. 97–248, title I, §128(b), title II, §288(a), Sept. 3, 1982, 96 Stat. 366, 571; Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), July 18, 1984, 98 Stat. 863, 1102; Pub. L. 98–573, title II, §232(a), Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–272, title X, §10001(a), (c), (d), Apr. 7, 1986, 100 Stat. 222, 223, 227; Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), Oct. 21, 1986, 100 Stat. 1995, 2075–2077; Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A),\(6)(A), (7), Oct. 22, 1986, 100 Stat. 2251, 2509, 2936–2940; Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), Nov. 10, 1988, 102 Stat. 3488, 3589, 3624, 3625; Pub. L. 101–140, title II, §203(a)(4), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), Dec. 19, 1989, 103 Stat. 2233, 2306, 2432; Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), Nov. 5, 1990, 104 Stat. 1388–413, 1388–479; Pub. L. 102–227, title I, §110(a)(1), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 102–486, title XIX, §1938(a), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), Aug. 10, 1993, 107 Stat. 435, 457, 469, 477, 568; Pub. L. 104–7, §1(a), (b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1704(p)(1)–(3), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 104–191, title III, §§311(a), 322(b)(2)(B), Aug. 21, 1996, 110 Stat. 2053, 2060; Pub. L. 105–34, title IX, §934(a), title XII, §§1203(a), 1204(a), title XVI, §1602(c), Aug. 5, 1997, 111 Stat. 882, 994, 995, 1094; Pub. L. 105–206, title VI, §6012(a), July 22, 1998, 112 Stat. 818; Pub. L. 105–277, div. J, title II, §2002(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 108–121, title I, §109(a), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–357, title III, §318(a), (b), title VIII, §802(b)(2), Oct. 22, 2004, 118 Stat. 1470, 1568; Pub. L. 110–343, div. A, title III, §302(a), Oct. 3, 2008, 122 Stat. 3803; Pub. L. 111–148, title IX, §9014(a), title X, §10108(g)(1), Mar. 23, 2010, 124 Stat. 868, 913; Pub. L. 111–152, title I, §1004(d)(2), (3), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 111–240, title II, §2042(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 112–10, div. B, title VIII, §1858(b)(3), Apr. 15, 2011, 125 Stat. 169; Pub. L. 113–295, div. A, title II, §221(a)(23), (24), Dec. 19, 2014, 128 Stat. 4040; Pub. L. 115–97, title I, §§11002(d)(6), 13306(a)(1), 13307(a), 13308(a), 13311(a), 13531(a), 13601(a)–(d), Dec. 22, 2017, 131 Stat. 2061, 2126, 2129, 2132, 2153, 2155, 2156; Pub. L. 117–2, title IX, §9708, Mar. 11, 2021, 135 Stat. 206.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 45; Pub. L. 85–866, title I, §5(a), Sept. 2, 1958, 72 Stat. 1608; Pub. L. 86–779, §§7(b), 8(a), Sept. 14, 1960, 74 Stat. 1002, 1003; Pub. L. 87–834, §§3(a), 4(b), Oct. 16, 1962, 76 Stat. 973, 976; Pub. L. 91–172, title V, §516(c)(2)(A), title IX, §902(a), (b), Dec. 30, 1969, 83 Stat. 648, 710; Pub. L. 92–178, title III, §310(a), Dec. 10, 1971, 85 Stat. 525; Pub. L. 94–455, title XIX, §§1901(c)(4), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–34, title I, §127(a),Aug. 13, 1981, 95 Stat. 202; Pub. L. 97–35, title XXI, §2146(b), Aug. 13, 1981, 95 Stat. 801; Pub. L. 97–51, §139(b)(1), Oct. 1, 1981, 95 Stat. 967; Pub. L. 97–216, title II, §215(a), July 18, 1982, 96 Stat. 194; Pub. L. 97–248, title I, §128(b), title II, §288(a), Sept. 3, 1982, 96 Stat. 366, 571; Pub. L. 98–369, div. A, title V, §512(b), div. B, title III, §2354(d), July 18, 1984, 98 Stat. 863, 1102; Pub. L. 98–573, title II, §232(a), Oct. 30, 1984, 98 Stat. 2991; Pub. L. 99–272, title X, §10001(a), (c), (d), Apr. 7, 1986, 100 Stat. 222, 223, 227; Pub. L. 99–509, title IX, §§9307(c)(2)(B), 9501(a)(1), (b)(1)(A), (2)(A), (c)(1), (d)(1), Oct. 21, 1986, 100 Stat. 1995, 2075–2077; Pub. L. 99–514, title VI, §613(a), title XI, §1161(a), title XVIII, §1895(d)(1)(A), (2)(A), (3)(A), (4)(A), (5)(A), (6)(A), (7), Oct. 22, 1986, 100 Stat. 2251, 2509, 2936–2940; Pub. L. 100–647, title I, §§1011B(b)(1)–(3), 1018(t)(7)(B), title III, §3011(b)(2), (3), Nov. 10, 1988, 102 Stat. 3488, 3589, 3624, 3625; Pub. L. 101–140, title II, §203(a)(4), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VI, §6202(b)(3)(A), title VII, §§7107(a)(1), (b), 7862(c)(3)(A), Dec. 19, 1989, 103 Stat. 2233, 2306, 2432; Pub. L. 101–508, title XI, §§11111(d)(2), 11410(a), Nov. 5, 1990, 104 Stat. 1388–413, 1388–479; Pub. L. 102–227, title I, §110(a)(1), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 102–486, title XIX, §1938(a), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 103–66, title XIII, §§13131(d)(2), 13174(a)(1), (b)(1), 13211(a), 13222(a), 13442(a), Aug. 10, 1993, 107 Stat. 435, 457, 469, 477, 568; Pub. L. 104–7, §1(a), (b), Apr. 11, 1995, 109 Stat. 93; Pub. L. 104–188, title I, §1704(p)(1)–(3), Aug. 20, 1996, 110 Stat. 1886; Pub. L. 104–191, title III, §§311(a), 322(b)(2)(B), Aug. 21, 1996, 110 Stat. 2053, 2060; Pub. L. 105–34, title IX, §934(a), title XII, §§1203(a), 1204(a), title XVI, §1602(c), Aug. 5, 1997, 111 Stat. 882, 994, 995, 1094; Pub. L. 105–206, title VI, §6012(a), July 22, 1998, 112 Stat. 818; Pub. L. 105–277, div. J, title II, §2002(a), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 108–121, title I, §109(a), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–357, title III, §318(a), (b), title VIII, §802(b)(2), Oct. 22, 2004, 118 Stat. 1470, 1568; Pub. L. 110–343, div. A, title III, §302(a), Oct. 3, 2008, 122 Stat. 3803; Pub. L. 111–148, title IX, §9014(a), title X, §10108(g)(1), Mar. 23, 2010, 124 Stat. 868, 913; Pub. L. 111–152, title I, §1004(d)(2), (3), Mar. 30, 2010, 124 Stat. 1035; Pub. L. 111–240, title II, §2042(a), Sept. 27, 2010, 124 Stat. 2560; Pub. L. 112–10, div. B, title VIII, §1858(b)(3), Apr. 15, 2011, 125 Stat. 169; Pub. L. 113–295, div. A, title II, §221(a)(23), (24), Dec. 19, 2014, 128 Stat. 4040; Pub. L. 115–97, title I, §§11002(d)(6), 13306(a)(1), 13307(a), 13308(a), 13311(a), 13531(a), 13601(a)–(d), Dec. 22, 2017, 131 Stat. 2061, 2126, 2129, 2132, 2153, 2155, 2156; Pub. L. 117–2, title IX, §9708, Mar. 11, 2021, 135 Stat. 206.)
 
 #### <b>Editorial Notes</b>
 
@@ -648,7 +648,7 @@ Subsec. (r). Pub. L. 115–97, §13531(a), added subsec. (r).
 
 Subsec. (s). Pub. L. 115–97, §§13307(a), 13531(a), redesignated subsec. (q) as (r), then (s).
 
-<b>2014</b>—Subsec. (g). Pub. L. 113–295, §221(a)(23), struck out concluding provisions which read as follows: "Thepreceding sentence shall not apply with respect to any conviction or plea before January 1, 1970, or to any conviction or plea on or after such date in a new trial following an appeal of a conviction before such date."
+<b>2014</b>—Subsec. (g). Pub. L. 113–295, §221(a)(23), struck out concluding provisions which read as follows: "The preceding sentence shall not apply with respect to any conviction or plea before January 1, 1970, or to any conviction or plea on or after such date in a new trial following an appeal of a conviction before such date."
 
 Subsec. (h)(4). Pub. L. 113–295, §221(a)(24), substituted "This subsection" for "For taxable years beginning after December 31, 1980, this subsection".
 
@@ -925,7 +925,7 @@ Pub. L. 115–97, title I, §13601(e), Dec. 22, 2017, 131 Stat. 2156, provided t
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection\] shall apply to taxable years beginning after December 31, 2017.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017.
 
 "(2)
 
@@ -1015,13 +1015,13 @@ Pub. L. 103–66, title XIII, §13174(b)(2), Aug. 10, 1993, 107 Stat. 457, provi
 
 Pub. L. 103–66, title XIII, §13211(b), Aug. 10, 1993, 107 Stat. 471, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to amounts which would otherwise be deductible for taxable years beginning on or after January 1, 1994."
 
-Pub. L. 103–66, title XIII, §13222(e), Aug. 10, 1993, 107 Stat. 481, provided that: "The amendments made by this section \[amending this section and sections 170, 6033, and 7871 of this title\] shall apply to amounts paid or incurred after December 31, 1993."
+Pub. L. 103–66, title XIII, §13222(e), Aug. 10, 1993, 107 Stat. 481, provided that: "The amendments made bythis section \[amending this section and sections 170, 6033, and 7871 of this title\] shall apply to amounts paid or incurred after December 31, 1993."
 
 Pub. L. 103–66, title XIII, §13442(b), Aug. 10, 1993, 107 Stat. 568, as amended by Pub. L. 104–7, §5, Apr. 11, 1995, 109 Stat. 96, provided that: "The provisions of this section \[amending this section\] shall apply to services provided after February 2, 1993, and on or before December 31, 1995."
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1938(b), Oct. 24, 1992, 106 Stat. 3033, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to costs paid or incurred after December 31, 1992."
+Pub. L. 102–486, title XIX, §1938(b), Oct. 24, 1992, 106 Stat. 3033, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to costs paid or incurred after December 31, 1992."
 
 #### Effective Date of 1991 Amendment
 
@@ -1093,7 +1093,7 @@ Treatment of certain bankruptcy proceedings.—Notwithstanding paragraph (1), se
 
 "(3)
 
-Treatment of current retirees.—Section 162(k)(3)(F) of the Internal Revenue Code of 1986 and section 603(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1163(6)\] apply to coveredemployees who retired before, on, or after the date of the enactment of this Act \[Oct. 21, 1986\].
+Treatment of current retirees.—Section 162(k)(3)(F) of the Internal Revenue Code of 1986 and section 603(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1163(6)\] apply to covered employees who retired before, on, or after the date of the enactment of this Act \[Oct. 21, 1986\].
 
 "(4)
 
@@ -1157,7 +1157,7 @@ Pub. L. 85–866, title I, §5(b), Sept. 2, 1958, 72 Stat. 1608, provided that: 
 
 #### Deduction for Special Assessments
 
-Pub. L. 104–208, div. A, title II, §2711, Sept. 30, 1996, 110 Stat. 3009–498, provided that, for purposes of subtitle A of this title, the amount allowed as a deduction under this section for a taxable year would include any amount paid during that year by reason of an assessment under section 2702 of Pub. L. 104–208, formerly setout as a note under section 1817 of Title 12, Banks and Banking, and that former section 172(f) of this title would not apply to that deduction.
+Pub. L. 104–208, div. A, title II, §2711, Sept. 30, 1996, 110 Stat. 3009–498, provided that, for purposes of subtitle A of this title, the amount allowed as a deduction under this section for a taxable year would include any amount paid during that year by reason of an assessment under section 2702 of Pub. L. 104–208, formerly set out as a note under section 1817 of Title 12, Banks and Banking, and that former section 172(f) of this title would not apply to that deduction.
 
 #### Special Rule for Deductions Under Subsection (l) for Certain Taxable Years
 
@@ -1209,7 +1209,7 @@ No deductions to be allowed in computing taxable income for two-thirds of any am
 
 #### Deductibility of Accrued Vacation Pay
 
-Pub. L. 85–866, title I, §97, Sept. 2, 1958, 72 Stat. 1672, as amended by Pub. L. 86–496, §2, June 8, 1960, 74 Stat. 164; Pub. L. 88–153, Oct. 17, 1963, 77 Stat. 272; Pub. L. 88–554, §1, Aug. 31, 1964, 78 Stat. 761; Pub. L. 89–692, Oct. 15, 1966, 80 Stat. 1025; Pub. L. 91–172, title IX, §903, Dec. 30, 1969, 83 Stat. 711; Pub. L. 92–580, §3, Oct. 27, 1972, 86 Stat. 1276, provided that deductions for accrued vacation pay under this section would not be denied for any taxable year ending before Jan. 1, 1973, so long as the employee at the time of accrual of pay has performed the necessary qualifying service under an appropriate plan.
+Pub. L. 85–866, title I, §97, Sept. 2, 1958, 72 Stat. 1672, as amended by Pub. L. 86–496, §2, June 8, 1960, 74 Stat.164; Pub. L. 88–153, Oct. 17, 1963, 77 Stat. 272; Pub. L. 88–554, §1, Aug. 31, 1964, 78 Stat. 761; Pub. L. 89–692, Oct. 15, 1966, 80 Stat. 1025; Pub. L. 91–172, title IX, §903, Dec. 30, 1969, 83 Stat. 711; Pub. L. 92–580, §3, Oct. 27, 1972, 86 Stat. 1276, provided that deductions for accrued vacation pay under this section would not be denied for any taxable year ending before Jan. 1, 1973, so long as the employee at the time of accrual of pay has performed the necessary qualifying service under an appropriate plan.
 
 #### Investigation of, and Reports on, Treatment of Entertainment and Certain Other Expenses
 

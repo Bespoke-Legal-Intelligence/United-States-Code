@@ -24,7 +24,7 @@ For the purposes of this subchapter—
 
 &emsp;&emsp;(D) a Pacific Islander, within the meaning of the Native American Programs Act of 1974 (42 U.S.C. 2991 et seq.).
 
-&emsp;(4) The term "tribal organization" shall have the meaning given such term in section4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)) <sup>1</sup> and shall include the Department of Hawaiian Homelands, in the case of native Hawaiians, and such other organizations as the Secretary may prescribe.
+&emsp;(4) The term "tribal organization" shall have the meaning given such term in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)) <sup>1</sup> and shall include the Department of Hawaiian Homelands, in the case of native Hawaiians, and such other organizations as the Secretary may prescribe.
 
 &emsp;(5) The term "qualified non-Native American veteran" means a veteran who—
 

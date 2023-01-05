@@ -8,7 +8,7 @@
 
 > only after the Secretary of Defense has been consulted on whether the physical protection of that material during the export or transfer will be adequate to deter theft, sabotage, and other acts of international terrorism which would result in the diversion of that material. If, in the view of the Secretary of Defense based on all available intelligence information, the export or transfer might be subject to a genuine terrorist threat, the Secretary shall provide to the Nuclear Regulatory Commission or the Secretary of Energy, as appropriate, his written assessment of the risk and a description of the actions the Secretary of Defense considers necessary to upgrade physical protection measures.
 
-(b) Subsection (a) applies to the export or transfer of more than 2 kilograms of plutonium or more than 5 kilograms of uranium enrichedto more than 20 percent in the isotope 233 or the isotope 235.
+(b) Subsection (a) applies to the export or transfer of more than 2 kilograms of plutonium or more than 5 kilograms of uranium enriched to more than 20 percent in the isotope 233 or the isotope 235.
 
 (Aug. 1, 1946, ch. 724, title I, §133, as added Pub. L. 99–399, title VI, §603, Aug. 27, 1986, 100 Stat. 875; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 103–236, title VIII, §829, Apr. 30, 1994, 108 Stat. 521.)
 

@@ -268,7 +268,7 @@ Schedule I
 
 &emsp;&emsp;(iv) 1-(1-naphthylmethylene)indene by substitution of the 3-position of the indene ring, whether or not further substituted in the indene ring to any extent, whether or not substituted on the naphthyl ring to any extent.
 
-&emsp;&emsp;(v) 3-phenylacetylindole or 3-benzoylindole by substitution at the nitrogen atom of the indole ring, whether or not further substituted in the indole ring to any extent, whether or not substituted on the phenyl ring to any extent.
+&emsp;&emsp;(v) 3-phenylacetylindole or 3-benzoylindole by substitution at the nitrogen atom of theindole ring, whether or not further substituted in the indole ring to any extent, whether or not substituted on the phenyl ring to any extent.
 
 &emsp;(B) Such term includes—
 

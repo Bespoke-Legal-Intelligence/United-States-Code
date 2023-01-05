@@ -28,7 +28,7 @@ No person shall engage in the business of insurance in a State as principal or a
 
 &emsp;&emsp;(B) any State from requiring any person that is acquiring control of an insurer domiciled in that State to maintain or restore the capital requirements of that insurer to the level required under the capital regulations of general applicability in that State to avoid the requirement of preparing and filing with the insurance regulatory authority of that State a plan to increase the capital of the insurer, except that any determination by the State insurance regulatory authority with respect to such requirement shall be made not later than 60 days after the date of notification under subparagraph (A); or
 
-&emsp;&emsp;(C) any State from restricting a change in the ownership of stock in an insurer, or a company formed for the purpose of controlling such insurer, after the conversion of the insurer from mutual to stock form so long as such restriction does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any otherperson based upon an association of such person with a depository institution.
+&emsp;&emsp;(C) any State from restricting a change in the ownership of stock in an insurer, or a company formed for the purpose of controlling such insurer, after the conversion of the insurer from mutual to stock form so long as such restriction does not have the effect of discriminating, intentionally or unintentionally, against a depository institution or an affiliate thereof, or against any other person based upon an association of such person with a depository institution.
 
 #### (d) Activities
 
@@ -192,7 +192,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (5) State
 
-&emsp;The term "State" means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
+&emsp;The term "State" means any State of the United States, the District of Columbia, anyterritory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
 (Pub. L. 106–102, title I, §104, Nov. 12, 1999, 113 Stat. 1352.)
 
@@ -204,7 +204,7 @@ The McCarran-Ferguson Act, referred to in subsecs. (a) and (d)(3)(A), is act Mar
 
 This Act, referred to in subsecs. (c)(1), (d)(1), (4)(D)(iii), (iv), (e), and (f)(2), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
-Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is Pub. L. 91–607, title I, §106, Dec. 31, 1970, 84 Stat. 1766, as amended, which is classified generally to chapter 22 (§1971 et seq.) of Title 12, Banks and Banking.
+Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsec. (d)(2)(B)(viii)(I), is Pub. L. 91–607, title I, §106, Dec. 31, 1970, 84 Stat. 1766, which is classified generally to chapter 22 (§1971 et seq.) of Title 12, Banks and Banking.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -280,7 +280,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(4) widespread financial market uncertainties have arisen following the terrorist attacks of September 11, 2001, including the absence of information from which financial institutions can make statistically valid estimates of the probability and cost of future terrorist events, and therefore the size, funding, and allocation of the risk of loss caused by such acts of terrorism;
 
-&emsp;"(5) a decision by property and casualty insurers to deal with such uncertainties, either by terminating property and casualty coverage for losses arising from terrorist events, or by radically escalating premium coverage to compensate for risks of loss that are not readily predictable, could seriously hamper ongoing and planned construction, property acquisition, and other business projects, generate a dramatic increase in rents, and otherwise suppress economic activity; and
+&emsp;"(5) a decision by property and casualty insurers to deal with such uncertainties, either by terminatingproperty and casualty coverage for losses arising from terrorist events, or by radically escalating premium coverage to compensate for risks of loss that are not readily predictable, could seriously hamper ongoing and planned construction, property acquisition, and other business projects, generate a dramatic increase in rents, and otherwise suppress economic activity; and
 
 &emsp;"(6) the United States Government should provide temporary financial compensation to insured parties, contributing to the stabilization of the United States economy in a time of national crisis, while the financial services industry develops the systems, mechanisms, products, and programs necessary to create a viable financial services market for private terrorism risk insurance.
 
@@ -766,7 +766,7 @@ Group Life Insurance Study.—
 
 &emsp;"(1)
 
-Study.—The Secretary shall study, on an expedited basis, whether adequate and affordable catastrophe reinsurance for acts of terrorism is available to life insurers in the United States that issue group life insurance, and the extent to which the threat ofterrorism is reducing the availability of group life insurance coverage for consumers in the United States.
+Study.—The Secretary shall study, on an expedited basis, whether adequate and affordable catastrophe reinsurance for acts of terrorism is available to life insurers in the United States that issue group life insurance, and the extent to which the threat of terrorism is reducing the availability of group life insurance coverage for consumers in the United States.
 
 &emsp;"(2)
 
@@ -1004,7 +1004,7 @@ Preemption of state actions.—All State causes of action of any kind for proper
 
 &emsp;"(3)
 
-Substantive law.—The substantive law for decision in any such action described in paragraph (1) shall be derived from the law, including choice of law principles, of the State in which such act of terrorism occurred, unless such law is otherwise inconsistent with or preempted by Federal law.
+Substantive law.—The substantive law for decision in any such action described in paragraph (1) shall be derived from the law, including choice of law principles, of the State in which such act of terrorismoccurred, unless such law is otherwise inconsistent with or preempted by Federal law.
 
 &emsp;"(4)
 
@@ -1118,7 +1118,7 @@ Elements of study.—The study required by paragraph (1) shall contain—
 
 &emsp;"(3)
 
-Report.—Not later than 180 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit a report on the study required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
+Report.—Not later than 180 days after the date of enactment of the Terrorism Risk Insurance Program Reauthorization Act of 2007 \[Dec. 26, 2007\], the Comptroller General shall submit a report on thestudy required by paragraph (1) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
 "(h)
 

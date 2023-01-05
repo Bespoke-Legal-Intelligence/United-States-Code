@@ -22,7 +22,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the sum of the amounts determined under paragraph (2) for each qualified trade or business carried on by the taxpayer, plus
 
-&emsp;&emsp;(B) 20 percent of the aggregate amount of the qualified REIT dividends and qualified publicly traded partnership income of the taxpayer for the taxable year.
+&emsp;&emsp;(B) 20 percent of the aggregate amount of the qualified REIT dividends and qualifiedpublicly traded partnership income of the taxpayer for the taxable year.
 
 #### (2) Determination of deductible amount for each trade or business
 
@@ -262,7 +262,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) each partner or shareholder shall be treated for purposes of subsection (b) as having W–2 wages and unadjusted basis immediately after acquisition of qualified property for the taxable year in an amount equal to such person's allocable share of the W–2 wages and the unadjusted basis immediately after acquisition of qualified property of the partnership or S corporation for the taxable year (as determined under regulations prescribed by the Secretary).
 
-> &emsp;&emsp;For purposes of clause (iii), a partner's or shareholder's allocable share of W–2 wagesshall be determined in the same manner as the partner's or shareholder's allocable share of wage expenses. For purposes of such clause, partner's or shareholder's allocable share of the unadjusted basis immediately after acquisition of qualified property shall be determined in the same manner as the partner's or shareholder's allocable share of depreciation. For purposes of this subparagraph, in the case of an S corporation, an allocable share shall be the shareholder's pro rata share of an item.
+> &emsp;&emsp;For purposes of clause (iii), a partner's or shareholder's allocable share of W–2 wages shall be determined in the same manner as the partner's or shareholder's allocable share of wage expenses. For purposes of such clause, partner's or shareholder's allocable share of the unadjusted basis immediately after acquisition of qualified property shall be determined in the same manner as the partner's or shareholder's allocable share of depreciation. For purposes of this subparagraph, in the case of an S corporation, an allocable share shall be the shareholder's pro rata share of an item.
 
 #### (B) Application to trusts and estates
 
@@ -272,7 +272,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of any taxpayer with qualified business income from sources within the commonwealth of Puerto Rico, if all such income is taxable under section 1 for such taxable year, then for purposes of determining the qualified business income of such taxpayer for such taxable year, the term "United States" shall include the Commonwealth of Puerto Rico.
+&emsp;&emsp;&emsp;In the case of any taxpayer with qualified business income from sources within the commonwealth of Puerto Rico, if all such income is taxable under section 1 for such taxable year, then for purposes of determining the qualified business income of such taxpayer for such taxable year, theterm "United States" shall include the Commonwealth of Puerto Rico.
 
 #### (ii) Special rule for applying limit
 
@@ -336,7 +336,7 @@ For purposes of this section—
 
 #### (C) Cooperative denied deduction for portion of qualified payments
 
-&emsp;&emsp;The taxable income of a specified agricultural or horticultural cooperative shall not be reduced under section 1382 by reason ofthat portion of any qualified payment as does not exceed the deduction allowable under subparagraph (A) with respect to such payment.
+&emsp;&emsp;The taxable income of a specified agricultural or horticultural cooperative shall not be reduced under section 1382 by reason of that portion of any qualified payment as does not exceed the deduction allowable under subparagraph (A) with respect to such payment.
 
 #### (D) Eligible taxpayer
 
@@ -444,7 +444,7 @@ For purposes of this section—
 
 #### (B) Special rule for cooperative partners
 
-&emsp;&emsp;In the case of a specified agricultural or horticultural cooperative which is a partner in a partnership, rules similar to the rules of subsection (f)(1) shall apply for purposes of this subsection.
+&emsp;&emsp;In the case of a specified agricultural or horticultural cooperative which is a partnerin a partnership, rules similar to the rules of subsection (f)(1) shall apply for purposes of this subsection.
 
 #### (C) Trade or business requirement
 

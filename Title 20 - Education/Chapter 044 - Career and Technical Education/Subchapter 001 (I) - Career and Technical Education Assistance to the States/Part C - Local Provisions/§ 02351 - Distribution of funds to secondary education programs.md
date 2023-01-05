@@ -94,7 +94,7 @@ The Secretary may waive the application of subsection (a) in the case of any eli
 
 #### (2) Funds to consortium
 
-&emsp;Funds allocated to a consortium formed to meet the requirements of this subsection shall be used only for purposes and programs that are mutually beneficial to all members of the consortium and can be used only for programs authorized under this subchapter. Such fundsmay not be reallocated to individual members of the consortium for purposes or programs benefitting only 1 member of the consortium.
+&emsp;Funds allocated to a consortium formed to meet the requirements of this subsection shall be used only for purposes and programs that are mutually beneficial to all members of the consortium and can be used only for programs authorized under this subchapter. Such funds may not be reallocated to individual members of the consortium for purposes or programs benefitting only 1 member of the consortium.
 
 #### (g) Data
 
@@ -110,7 +110,7 @@ Each eligible agency distributing funds under this section shall treat a seconda
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classifiedgenerally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 

@@ -2,11 +2,11 @@
 
 #### (a) Investigation of violations
 
-Whenever it shall appear to the Commission, either upon complaint or otherwise, that the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof, have been or are about to be violated, it may, in its discretion, either require or permit such person to file with it a statement in writing, under oath, or otherwise, as to all the facts and circumstances concerning the subject matter which it believes to be in the public interest to investigate, and may investigate such facts.
+Whenever it shall appear to the Commission, either upon complaint or otherwise, that the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof,have been or are about to be violated, it may, in its discretion, either require or permit such person to file with it a statement in writing, under oath, or otherwise, as to all the facts and circumstances concerning the subject matter which it believes to be in the public interest to investigate, and may investigate such facts.
 
 #### (b) Action for injunction or criminal prosecution in district court
 
-Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof, the Commission may, in its discretion, bring an action in any district court of the United States, or United States court of any Territory, to enjoin suchacts or practices, and upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General who may, in his discretion, institute the necessary criminal proceedings under this subchapter. Any such criminal proceeding may be brought either in the district wherein the transmittal of the prospectus or security complained of begins, or in the district wherein such prospectus or security is received.
+Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof, the Commission may, in its discretion, bring an action in any district court of the United States, or United States court of any Territory, to enjoin such acts or practices, and upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General who may, in his discretion, institute the necessary criminal proceedings under this subchapter. Any such criminal proceeding may be brought either in the district wherein the transmittal of the prospectus or security complained of begins, or in the district wherein such prospectus or security is received.
 
 #### (c) Writ of mandamus
 
@@ -60,7 +60,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (e) Authority of court to prohibit persons from serving as officers and directors
 
-In any proceeding under subsection (b), the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
+In any proceeding under subsection (b), the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting asan officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title or that is required to file reports pursuant to section 78o(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
 
 #### (f) Prohibition of attorneys' fees paid from Commission disgorgement funds
 

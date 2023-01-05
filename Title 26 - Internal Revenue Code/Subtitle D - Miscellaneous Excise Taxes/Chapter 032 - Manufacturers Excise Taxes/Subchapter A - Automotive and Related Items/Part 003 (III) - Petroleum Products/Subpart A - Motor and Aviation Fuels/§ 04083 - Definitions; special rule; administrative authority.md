@@ -42,7 +42,7 @@ For purposes of this subpart—
 
 #### (B) Transmix
 
-&emsp;&emsp;For purposes of subparagraph (A), the term "transmix" means a byproduct of refined products pipeline operations created by the mixing of different specification products during pipeline transportation.
+&emsp;&emsp;For purposes of subparagraph (A), the term "transmix" means a byproduct of refinedproducts pipeline operations created by the mixing of different specification products during pipeline transportation.
 
 #### (b) Commercial aviation
 
@@ -76,7 +76,7 @@ If any person uses taxable fuel (other than in the production of taxable fuels o
 
 #### (A) Forfeiture
 
-&emsp;&emsp;The penalty provided by section 7342 shall apply to any refusal to admit entry or otherrefusal to permit an action by the Secretary authorized by paragraph (1), except that section 7342 shall be applied by substituting "$1,000" for "$500" for each such refusal.
+&emsp;&emsp;The penalty provided by section 7342 shall apply to any refusal to admit entry or other refusal to permit an action by the Secretary authorized by paragraph (1), except that section 7342 shall be applied by substituting "$1,000" for "$500" for each such refusal.
 
 #### (B) Assessable penalty
 
@@ -160,7 +160,7 @@ Pub. L. 108–357, title VIII, §870(c), Oct. 22, 2004, 118 Stat. 1624, provided
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

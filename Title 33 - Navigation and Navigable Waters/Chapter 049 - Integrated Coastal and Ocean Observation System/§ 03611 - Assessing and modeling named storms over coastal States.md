@@ -62,7 +62,7 @@ In this section:
 
 #### (C) Public review
 
-&emsp;&emsp;The Administrator shall seek input and suggestions from the public before theNamed Storm Event Model, or any modification to the Named Storm Event Model, takes effect.
+&emsp;&emsp;The Administrator shall seek input and suggestions from the public before the Named Storm Event Model, or any modification to the Named Storm Event Model, takes effect.
 
 #### (2) Post-storm assessment
 
@@ -126,7 +126,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;Not later than December 31, 2020, the Administrator shall establish a protocol, based on the plan submitted under subsection (d)(3), to collect and assemble all covered data required by the Administrator to produce post-storm assessments required by subsection (b), including assembling data collected by participants and stored in the database established under subsection (f) and from such other sources as the Administrator considers appropriate.
+&emsp;Not later than December 31, 2020, the Administrator shall establish a protocol, based on the plan submitted under subsection (d)(3), to collect and assemble all covered data requiredby the Administrator to produce post-storm assessments required by subsection (b), including assembling data collected by participants and stored in the database established under subsection (f) and from such other sources as the Administrator considers appropriate.
 
 #### (2) Acquisition of sensors and structures
 
@@ -140,7 +140,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;If the Administrator acquires a structure for the placement of a sensor for purposes ofsuch protocol, the Administrator shall to the extent practical permit other public and private entities to place sensors on such structure to collect—
+&emsp;&emsp;If the Administrator acquires a structure for the placement of a sensor for purposes of such protocol, the Administrator shall to the extent practical permit other public and private entities to place sensors on such structure to collect—
 
 &emsp;&emsp;&emsp;(i) meteorological data;
 

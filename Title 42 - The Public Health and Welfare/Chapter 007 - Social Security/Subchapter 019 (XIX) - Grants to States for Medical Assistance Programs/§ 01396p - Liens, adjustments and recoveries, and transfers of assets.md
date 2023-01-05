@@ -68,11 +68,11 @@
 
 &emsp;&emsp;(VII) The State does not impose any requirement affecting the terms or benefits of such a policy unless the State imposes such requirement on long-term care insurance policies without regard to whether the policy is covered under the partnership or is offered in connection with such a partnership.
 
-> &emsp;In the case of a long-term care insurance policy which is exchanged for another such policy, subclause (I) shall be applied based on the coverage of the first such policy that was exchanged. For purposes of this clause and paragraph (5), the term "long-term care insurance policy" includes a certificate issued under a group insurance contract.
+> &emsp;In the case of a long-term care insurance policy which is exchanged for another such policy, subclause (I) shall be applied based on thecoverage of the first such policy that was exchanged. For purposes of this clause and paragraph (5), the term "long-term care insurance policy" includes a certificate issued under a group insurance contract.
 
 &emsp;(iv) With respect to a State which had a State plan amendment approved as of May 14, 1993, such a State satisfies this clause for purposes of clause (ii) if the Secretary determines that the State plan amendment provides for consumer protection standards which are no less stringent than the consumer protection standards which applied under such State plan amendment as of December 31, 2005.
 
-&emsp;(v) The regulations of the Secretary required under clause (iii)(VI) shall be promulgated after consultation with the National Association of Insurance Commissioners, issuers oflong-term care insurance policies, States with experience with long-term care insurance partnership plans, other States, and representatives of consumers of long-term care insurance policies, and shall specify the type and format of the data and information to be reported and the frequency with which such reports are to be made. The Secretary, as appropriate, shall provide copies of the reports provided in accordance with that clause to the State involved.
+&emsp;(v) The regulations of the Secretary required under clause (iii)(VI) shall be promulgated after consultation with the National Association of Insurance Commissioners, issuers of long-term care insurance policies, States with experience with long-term care insurance partnership plans, other States, and representatives of consumers of long-term care insurance policies, and shall specify the type and format of the data and information to be reported and the frequency with which such reports are to be made. The Secretary, as appropriate, shall provide copies of the reports provided in accordance with that clause to the State involved.
 
 &emsp;(vi) The Secretary, in consultation with other appropriate Federal agencies, issuers of long-term care insurance, the National Association of Insurance Commissioners, State insurance commissioners, States with experience with long-term care insurance partnership plans, other States, and representatives of consumers of long-term care insurance policies, shall develop recommendations for Congress to authorize and fund a uniform minimum data set to be reported electronically by all issuers of long-term care insurance policies under qualified State long-term care insurance partnerships to a secure, centralized electronic query and report-generating mechanism that the State, the Secretary, and other Federal agencies can access.
 
@@ -190,7 +190,7 @@
 
 &emsp;(III) Home or community-based services furnished under a waiver granted under subsection (c) or (d) of section 1396n of this title.
 
-(ii) The services described in this subparagraph with respect to a noninstitutionalized individual are services (not including any services described in clause (i)) that are described in paragraph (7), (22), or (24) of section 1396d(a) of this title, and, at the option of a State, other long-term care services for which medical assistance is otherwise available under the State plan to individuals requiring long-term care.
+(ii) The services described in this subparagraph with respect to a noninstitutionalized individual are services (not including any services described in clause (i)) that are described in paragraph (7), (22), or (24) of section 1396d(a) of this title, and, at the option of a State, otherlong-term care services for which medical assistance is otherwise available under the State plan to individuals requiring long-term care.
 
 (D)(i) In the case of a transfer of asset made before February 8, 2006, the date specified in this subparagraph is the first day of the first month during or after which assets have been transferred for less than fair market value and which does not occur in any other periods of ineligibility under this subsection.
 
@@ -260,7 +260,7 @@
 
 > In the case of a promissory note, loan, or mortgage that does not satisfy the requirements of clauses (i) through (iii), the value of such note, loan, or mortgage shall be the outstanding balance due as of the date of the individual's application for medical assistance for services described in subparagraph (C).
 
-(J) For purposes of this paragraph with respect to a transfer of assets, the term "assets" includes the purchase of a life estate interest inanother individual's home unless the purchaser resides in the home for a period of at least 1 year after the date of the purchase.
+(J) For purposes of this paragraph with respect to a transfer of assets, the term "assets" includes the purchase of a life estate interest in another individual's home unless the purchaser resides in the home for a period of at least 1 year after the date of the purchase.
 
 (2) An individual shall not be ineligible for medical assistance by reason of paragraph (1) to the extent that—
 
@@ -368,9 +368,9 @@
 
 #### (e) Disclosure and treatment of annuities
 
-(1) In order to meet the requirements of this section for purposes of section 1396a(a)(18) of this title, a State shall require, as a condition for the provision of medical assistance for services described in subsection (c)(1)(C)(i) (relating to long-term care services) for an individual, the application of the individual for such assistance (including any recertification of eligibility for such assistance) shall disclose a description of any interest the individual or community spouse has in an annuity (or similar financial instrument, as may be specified by the Secretary), regardless of whether the annuity is irrevocable or is treated as an asset. Such application or recertification form shall include a statement that under paragraph (2) the State becomes a remainder beneficiary under such an annuity or similar financial instrument by virtue of the provision of such medical assistance.
+(1) In order to meet the requirements of this section for purposes of section 1396a(a)(18) of this title, a State shall require, as a condition for the provision of medical assistance for services described in subsection (c)(1)(C)(i) (relating to long-term care services) for an individual, theapplication of the individual for such assistance (including any recertification of eligibility for such assistance) shall disclose a description of any interest the individual or community spouse has in an annuity (or similar financial instrument, as may be specified by the Secretary), regardless of whether the annuity is irrevocable or is treated as an asset. Such application or recertification form shall include a statement that under paragraph (2) the State becomes a remainder beneficiary under such an annuity or similar financial instrument by virtue of the provision of such medical assistance.
 
-(2)(A) In the case of disclosure concerning an annuity under subsection (c)(1)(F), the State shall notify the issuer of the annuity of theright of the State under such subsection as a preferred remainder beneficiary in the annuity for medical assistance furnished to the individual. Nothing in this paragraph shall be construed as preventing such an issuer from notifying persons with any other remainder interest of the State's remainder interest under such subsection.
+(2)(A) In the case of disclosure concerning an annuity under subsection (c)(1)(F), the State shall notify the issuer of the annuity of the right of the State under such subsection as a preferred remainder beneficiary in the annuity for medical assistance furnished to the individual. Nothing in this paragraph shall be construed as preventing such an issuer from notifying persons with any other remainder interest of the State's remainder interest under such subsection.
 
 (B) In the case of such an issuer receiving notice under subparagraph (A), the State may require the issuer to notify the State when there is a change in the amount of income or principal being withdrawn from the amount that was being withdrawn at the time of the most recent disclosure described in paragraph (1). A State shall take such information into account in determining the amount of the State's obligations for medical assistance or in the individual's eligibility for such assistance.
 
@@ -430,7 +430,7 @@ In this section, the following definitions shall apply:
 
 &emsp;(3) The term "institutionalized individual" means an individual who is an inpatient in a nursing facility, who is an inpatient in a medical institution and with respect to whom payment is made based on a level of care provided in a nursing facility, or who is described in section 1396a(a)(10)(A)(ii)(VI) of this title.
 
-&emsp;(4) The term "noninstitutionalized individual" means an individual receiving any ofthe services specified in subsection (c)(1)(C)(ii).
+&emsp;(4) The term "noninstitutionalized individual" means an individual receiving any of the services specified in subsection (c)(1)(C)(ii).
 
 &emsp;(5) The term "resources" has the meaning given such term in section 1382b of this title, without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
 
@@ -648,7 +648,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of thistitle, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
 #### Effective Date of 1983 Amendment
 

@@ -46,7 +46,7 @@ The issuance of regulations by the Secretary shall be governed by the provisions
 
 The Secretary shall appoint a Special Assistant to the Secretary who shall be responsible for—
 
-&emsp;(1) creating and fostering strategic communications with the private sector to enhance the primary mission of the Department to protect the American homeland;
+&emsp;(1) creating and fostering strategic communications with the private sector to enhancethe primary mission of the Department to protect the American homeland;
 
 &emsp;(2) advising the Secretary on the impact of the Department's policies, regulations, processes, and actions on the private sector;
 
@@ -82,7 +82,11 @@ The Secretary shall appoint a Special Assistant to the Secretary who shall be re
 
 All standards activities of the Department shall be conducted in accordance with section 12(d) of the National Technology Transfer Advancement Act of 1995 (15 U.S.C. 272 note) and Office of Management and Budget Circular A–119.
 
-(Pub. L. 107–296, title I, §102, Nov. 25, 2002, 116 Stat. 2142; Pub. L. 108–458, title VII, §7402, Dec. 17, 2004, 118 Stat. 3850; Pub. L. 110–53, title IX, §902, Aug. 3, 2007, 121 Stat. 371; Pub. L. 114–125, title VIII, §802(g)(1)(A)(i), Feb. 24, 2016, 130 Stat. 210.)
+#### (h) Planning requirements
+
+The Secretary shall ensure the head of each office and component of the Department takes into account the needs of children, including children within under-served communities, in mission planning and mission execution. In furtherance of this subsection, the Secretary shall require each such head to seek, to the extent practicable, advice and feedback from organizations representing the needs of children. The Federal Advisory Committee Act (5 U.S.C. App.) <sup>2</sup> shall not apply whenever such advice or feedback is sought in accordance with this subsection.
+
+(Pub. L. 107–296, title I, §102, Nov. 25, 2002, 116 Stat. 2142; Pub. L. 108–458, title VII, §7402, Dec. 17, 2004, 118 Stat. 3850; Pub. L. 110–53, title IX, §902, Aug. 3, 2007, 121 Stat. 371; Pub. L. 114–125, title VIII, §802(g)(1)(A)(i), Feb. 24, 2016, 130 Stat. 210; Pub. L. 117–130, §2, June 6, 2022, 136 Stat. 1229.)
 
 #### <b>Editorial Notes</b>
 
@@ -92,7 +96,11 @@ This chapter, referred to in subsecs. (b)(1), (2), and (e), was in the original 
 
 Section 12(d) of the National Technology Transfer Advancement Act of 1995, referred to in subsec. (g), probably means section 12(d) of the National Technology Transfer and Advancement Act of 1995, which is section 12(d) of Pub. L. 104–113, and which is set out as a note under section 272 of Title 15, Commerce and Trade.
 
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–130 added subsec. (h).
 
 <b>2016</b>—Subsec. (f)(10). Pub. L. 114–125 substituted "the Commissioner of U.S. Customs and Border Protection" for "the Directorate of Border and Transportation Security".
 
@@ -104,6 +112,116 @@ Subsec. (f)(8) to (11). Pub. L. 110–53, §902(a), added par. (8) and redesigna
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Daily Public Report of Covered Contract Awards
+
+Pub. L. 117–263, div. G, title LXXI, §7113, Dec. 23, 2022, 136 Stat. 3631, provided that:
+
+"(a)
+
+Daily Contract Reporting Requirements.—
+
+&emsp;"(1)
+
+Report.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall post, maintain, and update in accordance with paragraph (2), on a publicly available website of the Department, a daily report of all covered contract awards.
+
+&emsp;&emsp;"(B)
+
+Contents.—Each report under this paragraph shall include, for each covered contract award, information relating to the following:
+
+&emsp;&emsp;&emsp;"(i) The contract number, modification number, or delivery order number.
+
+&emsp;&emsp;&emsp;"(ii) The contract type.
+
+&emsp;&emsp;&emsp;"(iii) The amount obligated for the award.
+
+&emsp;&emsp;&emsp;"(iv) The total contract value for the award, including all options.
+
+&emsp;&emsp;&emsp;"(v) The description of the purpose for the award.
+
+&emsp;&emsp;&emsp;"(vi) The number of proposals or bids received.
+
+&emsp;&emsp;&emsp;"(vii) The name and address of the vendor, and whether the vendor is a small business.
+
+&emsp;&emsp;&emsp;"(viii) The period and primary place of performance for the award.
+
+&emsp;&emsp;&emsp;"(ix) Whether the award is multiyear.
+
+&emsp;&emsp;&emsp;"(x) The contracting office.
+
+&emsp;"(2)
+
+Update.—The Secretary shall make updates referred to in paragraph (1) not later than five business days after the date on which a covered contract is authorized or modified.
+
+&emsp;"(3)
+
+Effective date.—Paragraph (1) shall take effect on the date that is 180 days after the date of the enactment of this Act \[Dec. 23, 2022\].
+
+"(b)
+
+Undefinitized Contract Action or Definitized Amount.—If a covered contract award reported under subsection (a) includes an undefinitized contract action, the Secretary shall—
+
+&emsp;"(1) report the estimated total contract value for the award and the amount obligated upon award; and
+
+&emsp;"(2) once there is a definitized amount for the award, update the total contract value and amount obligated.
+
+"(c)
+
+Exemption.—Each report required under subsection (a) shall not include covered contract awards for which synopsis was exempted under section 5.202(a)(1) of the Federal Acquisition Regulation, or any successor thereto.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered contract award.—The term 'covered contract award'—
+
+&emsp;&emsp;"(A) means a contract action of the Department with a total contract value of not less than $4,000,000, including unexercised options; and
+
+&emsp;&emsp;"(B) includes—
+
+&emsp;&emsp;&emsp;"(i) contract awards governed by the Federal Acquisition Regulation;
+
+&emsp;&emsp;&emsp;"(ii) modifications to a contract award that increase the total value, expand the scope of work, or extend the period of performance;
+
+&emsp;&emsp;&emsp;"(iii) orders placed on a multiple-award or multiple-agency contract that includes delivery or quantity terms that are indefinite;
+
+&emsp;&emsp;&emsp;"(iv) other transaction authority agreements; and
+
+&emsp;&emsp;&emsp;"(v) contract awards made with other than full and open competition.
+
+&emsp;"(2)
+
+Definitized amount.—The term 'definitized amount' means the final amount of a covered contract award after agreement between the Department and the contractor at issue.
+
+&emsp;"(3)
+
+Department.—The term 'Department' means the Department of Homeland Security.
+
+&emsp;"(4)
+
+Secretary.—The term 'Secretary' means the Secretary of Homeland Security.
+
+&emsp;"(5)
+
+Small business.—The term 'small business' means an entity that qualifies as a small business concern, as defined under section 3 of the Small Business Act (15 U.S.C. 632).
+
+&emsp;"(6)
+
+Total contract value.—The term 'total contract value' means the total amount of funds expected to be provided to the contractor at issue under the terms of the contract through the full period of performance.
+
+&emsp;"(7)
+
+Undefinitized contract action.—The term 'undefinitized contract action' means any contract action for which the contract terms, specifications, or price is not established prior to the start of the performance of the covered contract award.
+
+"(e)
+
+Sunset.—This section shall cease to have force or effect on the date that is five years after the date of the enactment of this Act \[Dec. 23, 2022\]."
+
 #### Required Coordination
 
 Pub. L. 108–458, title VII, §7405, Dec. 17, 2004, 118 Stat. 3851, provided that: "The Secretary of Homeland Security shall ensure that there is effective and ongoing coordination of Federal efforts to prevent, prepare for, and respond to acts of terrorism and other major disasters and emergencies among the divisions of the Department of Homeland Security, including the Directorate of Emergency Preparedness and Response and the Office for State and Local Government Coordination and Preparedness."
@@ -113,4 +231,6 @@ Pub. L. 108–458, title VII, §7405, Dec. 17, 2004, 118 Stat. 3851, provided th
 Pub. L. 108–458, title VIII, §8306, Dec. 17, 2004, 118 Stat. 3869, provided that: "The Secretary of Homeland Security shall ensure that the Department of Homeland Security complies with the protections for human research subjects, as described in part 46 of title 45, Code of Federal Regulations, or in equivalent regulations as promulgated by such Secretary, with respect to research that is conducted or supported by the Department."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Office for State and Local Government Coordination".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

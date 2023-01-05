@@ -14,7 +14,7 @@ Not less than 30 percent of the amount appropriated under subsection (a) shall b
 
 #### (d) State and local support
 
-Not less than 25 per centum of the total amount appropriated under this chapter, up to the amount authorized in section 6948(a)(1) of this title, shall be used only for purposes of support to State, regional, local, and interstate agencies in accordance with subchapter IV of this chapter other than section 6948(a)(2) or 6949 of this title.
+Not less than 25 per centum of the total amount appropriated under this chapter, up tothe amount authorized in section 6948(a)(1) of this title, shall be used only for purposes of support to State, regional, local, and interstate agencies in accordance with subchapter IV of this chapter other than section 6948(a)(2) or 6949 of this title.
 
 #### (e) Criminal investigators
 
@@ -50,5 +50,5 @@ Subsec. (d). Pub. L. 96–482, §6(b), added subsec. (d).
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural GasTransportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

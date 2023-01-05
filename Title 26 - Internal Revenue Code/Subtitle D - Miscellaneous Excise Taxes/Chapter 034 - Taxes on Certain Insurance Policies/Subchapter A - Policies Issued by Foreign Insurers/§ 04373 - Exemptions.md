@@ -4,7 +4,7 @@ The tax imposed by section 4371 shall not apply to—
 
 #### (1) Effectively connected items
 
-&emsp;Any amount which is effectively connected with the conduct of a trade or business within the United States unless such amount is exempt from the application of section 882(a)pursuant to a treaty obligation of the United States.
+&emsp;Any amount which is effectively connected with the conduct of a trade or business within the United States unless such amount is exempt from the application of section 882(a) pursuant to a treaty obligation of the United States.
 
 #### (2) Indemnity bond
 

@@ -4,7 +4,7 @@
 
 (1) The Secretary shall by regulation determine criteria for distinguishing those services (including inpatient and outpatient services) rendered in hospitals or skilled nursing facilities—
 
-&emsp;(A) which constitute professional medical services, which are personally rendered for an individual patient by a physician and which contribute to the diagnosis or treatment of an individual patient, and which may be reimbursed as physicians' services under part B, and
+&emsp;(A) which constitute professional medical services, which are personally rendered for an individual patient by a physician and whichcontribute to the diagnosis or treatment of an individual patient, and which may be reimbursed as physicians' services under part B, and
 
 &emsp;(B) which constitute professional services which are rendered for the general benefit to patients in a hospital or skilled nursing facility and which may be reimbursed only on a reasonable cost basis or on the bases described in section 1395ww of this title.
 

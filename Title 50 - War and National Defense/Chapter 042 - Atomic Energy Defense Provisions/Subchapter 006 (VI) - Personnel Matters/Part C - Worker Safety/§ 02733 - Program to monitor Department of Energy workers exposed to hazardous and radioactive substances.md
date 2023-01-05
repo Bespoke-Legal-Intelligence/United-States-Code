@@ -32,7 +32,7 @@ The Secretary of Energy shall establish and carry out a program for the identifi
 
 &emsp;(C) The National Council on Radiation Protection and Measurements.
 
-&emsp;(D) Any labor organization or other collective bargaining agent authorized to act on thebehalf of employees of a Department of Energy defense nuclear facility.
+&emsp;(D) Any labor organization or other collective bargaining agent authorized to act on the behalf of employees of a Department of Energy defense nuclear facility.
 
 (4) The Secretary shall provide for each employee identified under paragraph (1)(B) and provided with any medical examination or test under paragraph (1) to be notified by the appropriate medical personnel of the identification and the results of any such examination or test. Each notification under this paragraph shall be provided in a form that is readily understandable by the employee.
 

@@ -126,7 +126,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The priority review user fee required by this subsection shall be due upon the notification by a sponsor of the intent of such sponsor to use the voucher, as specified in subsection (b)(4)(A). All other user fees associated with the human drug application shall be due as required by the Secretary or under applicable law.
+&emsp;&emsp;The priority review user fee required by this subsection shall be due upon the notification by a sponsor of the intent of such sponsor to use the voucher, as specified in subsection (b)(4)(A).<sup>2</sup> All other user fees associated with the human drug application shall be due as required by the Secretary or under applicable law.
 
 #### (B) Complete application
 
@@ -170,7 +170,7 @@ In this section:
 
 #### (1) Revocation
 
-&emsp;The Secretary may revoke any priority review voucher awarded under subsection (b) ifthe rare pediatric disease product for which such voucher was awarded is not marketed in the United States within the 365-day period beginning on the date of the approval of such drug under section 355 of this title or section 351 of the Public Health Service Act \[42 U.S.C. 262\].
+&emsp;The Secretary may revoke any priority review voucher awarded under subsection (b) if the rare pediatric disease product for which such voucher was awarded is not marketed in the United States within the 365-day period beginning on the date of the approval of such drug under section 355 of this title or section 351 of the Public Health Service Act \[42 U.S.C. 262\].
 
 #### (2) Postapproval production report
 
@@ -194,7 +194,7 @@ In this section:
 
 #### (2) Notification
 
-&emsp;If, after the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section, a sponsor of an application submitted under section 355(b) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] for a drug uses a priority review voucher under this section for such application, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a document—
+&emsp;If, after the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section, a sponsor of an application submitted under section 355(b) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] for a drug uses a priority review voucher under this section for such application, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives and theCommittee on Health, Education, Labor, and Pensions of the Senate a document—
 
 &emsp;&emsp;(A) notifying such Committees of the use of such voucher; and
 
@@ -202,7 +202,7 @@ In this section:
 
 #### (g) Eligibility for other programs
 
-Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter, except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made..<sup>2</sup>
+Nothing in this section precludes a sponsor who seeks a priority review voucher under this section from participating in any other incentive program, including under this chapter, except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made..<sup>3</sup>
 
 #### (h) Relation to other provisions
 
@@ -241,6 +241,8 @@ The provisions of this section shall supplement, not supplant, any other provisi
 #### References in Text
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(1), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
+
+Subsection (b)(4)(A), referred to in subsec. (c)(4)(A), was part of subsec. (b)(4) of this section that was struck out by Pub. L. 114–229, §2(a)(2)(A), Sept. 30, 2016, 130 Stat. 943, which provision also added a new subsec. (b)(4) in which former subsec. (b)(4)(A) was restated as subsec. (b)(4)(B)(i).
 
 The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
@@ -292,5 +294,7 @@ Pub. L. 114–229, §2(b), Sept. 30, 2016, 130 Stat. 944, provided that: "Nothin
 
 <i><sup>1</sup></i><i> So in original. The word "that" probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

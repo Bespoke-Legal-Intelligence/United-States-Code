@@ -38,7 +38,7 @@ No work shall be deemed suitable for the purposes of subsection (a–2)(ii) of t
 
 &emsp;(iii) as a condition of being employed he would be required to join a company union or to resign from or refrain from joining any bona fide labor organization;
 
-&emsp;(iv) acceptance of the work would require him to engage in activities in violation of lawor which, by reason of their being in violation of reasonable requirements of the constitution, bylaws, or similar regulations of a bona fide labor organization of which he is a member, would subject him to expulsion from such labor organization; or
+&emsp;(iv) acceptance of the work would require him to engage in activities in violation of law or which, by reason of their being in violation of reasonable requirements of the constitution, bylaws, or similar regulations of a bona fide labor organization of which he is a member, would subject him to expulsion from such labor organization; or
 
 &emsp;(v) acceptance of the work would subject him to loss of substantial seniority rights under any collective bargaining agreement between a railway labor organization, organized in accordance with the provisions of the Railway Labor Act \[45 U.S.C. 151 et seq.\], and any other employer.
 
@@ -58,11 +58,11 @@ For the purposes of subsection (a–2)(i) of this section, no voluntary leaving 
 
 The Railroad Retirement Act of 1974, referred to in subsec. (a–1)(ii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of this title. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of this title, section 231t of this title, and Tables.
 
-The Social Security Act, referred to in subsec. (a–1)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a–1)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 This chapter, referred to in subsecs. (a–1)(ii), (a–2)(i)(B), and (c), was in the original "this Act", meaning act June 25, 1938, ch. 680, 52 Stat. 1094, which enacted this chapter and amended sections 503 and 1104 and former section 1107 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 367 of this title and Tables.
 
-The Railway Labor Act, referred to in subsecs. (a–2)(iii) and (c)(v), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 151 of this title and Tables.
+The Railway Labor Act, referred to in subsecs. (a–2)(iii) and (c)(v), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 151 of this title and Tables.
 
 #### Amendments
 

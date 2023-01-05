@@ -150,7 +150,7 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 #### (2) Research grants
 
-&emsp;The Secretary may award research grants on a competitive basis to support and further the goals of the program established under this section.
+&emsp;The Secretary may award research grants on a competitive basis to support and further thegoals of the program established under this section.
 
 #### (3) Dissemination of information
 
@@ -158,7 +158,7 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 #### (4) Regional innovation grant program
 
-&emsp;The Secretary shall incorporate data and analysis relating to any grant awarded undersubsection (c) into the program established under this subsection.
+&emsp;The Secretary shall incorporate data and analysis relating to any grant awarded under subsection (c) into the program established under this subsection.
 
 #### (e) Interagency coordination
 

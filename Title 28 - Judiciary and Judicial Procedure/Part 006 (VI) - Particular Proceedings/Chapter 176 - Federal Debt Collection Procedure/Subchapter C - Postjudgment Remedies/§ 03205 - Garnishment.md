@@ -72,7 +72,7 @@ Answer of the garnishee.—In its written answer to the writ of garnishment, the
 
 &emsp;&emsp;(B) a description of such property and the value of such interest;
 
-&emsp;&emsp;(C) a description of any previous garnishments to which such property is subject and the extent to which any remaining property is not exempt; and
+&emsp;&emsp;(C) a description of any previous garnishments to which such property is subject andthe extent to which any remaining property is not exempt; and
 
 &emsp;&emsp;(D) the amount of the debt the garnishee anticipates owing to the judgment debtor in the future and whether the period for payment will be weekly or another specified period.
 
@@ -98,7 +98,7 @@ Priorities.—Judicial orders and garnishments for the support of a person shall
 
 Accounting.—(A) While a writ of garnishment is in effect under this section, the United States shall give an annual accounting on the garnishment to the judgment debtor and the garnishee.
 
-&emsp;(B) Within 10 days after the garnishment terminates, the United States shall give a cumulative written accounting to the judgment debtor and garnishee of all property it receives under a writ of garnishment. Within 10 daysafter such accounting is received, the judgment debtor or garnishee may file a written objection to the accounting and a request for hearing. The party objecting shall state grounds for the objection. The court shall hold a hearing on the objection within 10 days after the court receives the request for a hearing, or as soon thereafter as is practicable.
+&emsp;(B) Within 10 days after the garnishment terminates, the United States shall give a cumulative written accounting to the judgment debtor and garnishee of all property it receives under a writ of garnishment. Within 10 days after such accounting is received, the judgment debtor or garnishee may file a written objection to the accounting and a request for hearing. The party objecting shall state grounds for the objection. The court shall hold a hearing on the objection within 10 days after the court receives the request for a hearing, or as soon thereafter as is practicable.
 
 &emsp;(10)
 

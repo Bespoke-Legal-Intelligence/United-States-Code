@@ -30,7 +30,7 @@ The plan required by subsection (a) shall include, with respect to each defense 
 
 &emsp;(5) A description of any gaps that remain that were not or could not be addressed by the program during that year.
 
-&emsp;(6) An identification and explanation of uncommitted or uncosted balances for the program, as of the date of the submission of the summary required by paragraph (1) of subsection (b) or the report required by paragraph (2) of that subsection, as the case may be, that are greater than the acceptable carryover thresholds, as determined by the Secretary of Energy.
+&emsp;(6) An identification and explanation of uncommitted or uncosted balances for the program, as of the date of the submission of the summary required by paragraph (1) of subsection (b) or the report required by paragraph\(2) of that subsection, as the case may be, that are greater than the acceptable carryover thresholds, as determined by the Secretary of Energy.
 
 &emsp;(7) An identification of funds for the program received through contributions from or cost-sharing agreements with foreign governments consistent <sup>1</sup> section 2569(f) of this title during the year preceding the submission of the summary required by paragraph (1) of subsection (b) or the report required by paragraph (2) of that subsection, as the case may be, and an explanation of such contributions and agreements.
 

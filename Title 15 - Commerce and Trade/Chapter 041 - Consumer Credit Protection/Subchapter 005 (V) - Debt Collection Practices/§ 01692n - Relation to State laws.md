@@ -8,5 +8,5 @@ This subchapter does not annul, alter, or affect, or exempt any person subject t
 
 #### Effective Date
 
-Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, asadded by Pub. L. 95–109, set out as a note under section 1692 of this title.
+Section effective upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 

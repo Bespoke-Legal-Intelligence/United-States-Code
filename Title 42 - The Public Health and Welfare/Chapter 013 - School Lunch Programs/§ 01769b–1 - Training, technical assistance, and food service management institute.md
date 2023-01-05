@@ -134,7 +134,7 @@ In collaboration with State educational agencies, local educational agencies, an
 
 #### (A) In general
 
-&emsp;&emsp;Out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary of Agriculture to carry out this subsection—
+&emsp;&emsp;Out of any funds in the Treasury not otherwise appropriated, the Secretary of theTreasury shall transfer to the Secretary of Agriculture to carry out this subsection—
 
 &emsp;&emsp;&emsp;(i) on October 1, 2004, and October 1, 2005, $3,000,000;
 
@@ -164,7 +164,7 @@ In collaboration with State educational agencies, local educational agencies, an
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e). Pub. L. 111–296, §406, substituted "Food service management institute" for "Authorization of appropriations" in heading, added par. (1), redesignated former subpars. (B) and (C) of former par. (2) as pars. (2) and (3), respectively, and realigned margins, substituted "paragraph (1)" for "subparagraph (A)" in two places in par. (2) and "paragraphs (1) and (2)" for "subparagraphs (A) and (B)" in par. (3), and struck outformer pars. (1) and (2)(A) which related to authorization of appropriations for training activities and technical assistance and funding for the food service management institute, respectively.
+<b>2010</b>—Subsec. (e). Pub. L. 111–296, §406, substituted "Food service management institute" for "Authorization of appropriations" in heading, added par. (1), redesignated former subpars. (B) and (C) of former par. (2) as pars. (2) and (3), respectively, and realigned margins, substituted "paragraph (1)" for "subparagraph (A)" in two places in par. (2) and "paragraphs (1) and (2)" for "subparagraphs (A) and (B)" in par. (3), and struck out former pars. (1) and (2)(A) which related to authorization of appropriations for training activities and technical assistance and funding for the food service management institute, respectively.
 
 Subsec. (g)(1)(A)(iii). Pub. L. 111–296, §407, added cl. (iii).
 

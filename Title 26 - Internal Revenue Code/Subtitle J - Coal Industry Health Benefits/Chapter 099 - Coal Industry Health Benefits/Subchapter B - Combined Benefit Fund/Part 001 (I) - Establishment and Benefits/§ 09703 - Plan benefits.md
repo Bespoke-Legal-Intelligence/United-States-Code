@@ -12,7 +12,7 @@ Each eligible beneficiary of the Combined Fund shall receive—
 
 #### (1) In general
 
-&emsp;The trustees of the Combined Fund shall provide health care benefits to each eligible beneficiary by enrolling the beneficiary in a health care services plan which undertakes to provide such benefits on a prepaid risk basis. The trustees shall utilize all available plan resources to ensure that, consistent with paragraph (2), coverage under the managed care system shall to the maximum extent feasible be substantially the same as (and subject to the same limitations of) coverage provided under the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan as of January 1, 1992.
+&emsp;The trustees of the Combined Fund shall provide health care benefits to each eligiblebeneficiary by enrolling the beneficiary in a health care services plan which undertakes to provide such benefits on a prepaid risk basis. The trustees shall utilize all available plan resources to ensure that, consistent with paragraph (2), coverage under the managed care system shall to the maximum extent feasible be substantially the same as (and subject to the same limitations of) coverage provided under the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan as of January 1, 1992.
 
 #### (2) Plan payment rates
 
@@ -86,5 +86,5 @@ For purposes of this subchapter, the term "eligible beneficiary" means an indivi
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

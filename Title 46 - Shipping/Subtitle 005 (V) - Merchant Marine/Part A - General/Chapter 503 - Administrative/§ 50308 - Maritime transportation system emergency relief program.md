@@ -86,7 +86,7 @@ Eligible state or tribal entity.—The term "eligible State or Tribal entity" me
 
 &emsp;(2)
 
-Eligible entity.—The term "eligible entity" means a public or private entity that is created or organized in the United States or under the laws of the United States, with significant operations in and a majority of its employees based in the United States, that is engaged in—
+Eligible entity.—The term "eligible entity" means a public or private entity that is created or organized in the United States or under the laws of the United States, with significant operations in and a majority of itsemployees based in the United States, that is engaged in—
 
 &emsp;&emsp;(A) vessel construction, transportation by water, or support activities for transportation by water with an assigned North American Industry Classification System code beginning with 3366, 483, 4883, or 6113, or in the case of such construction, transportation, or support activities conducted by a fish processing vessel, such an assigned code beginning with 3117; or
 

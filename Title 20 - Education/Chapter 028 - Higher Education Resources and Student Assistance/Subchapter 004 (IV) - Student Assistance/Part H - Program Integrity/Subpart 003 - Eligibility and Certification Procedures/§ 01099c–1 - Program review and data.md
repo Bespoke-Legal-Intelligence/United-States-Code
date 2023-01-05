@@ -38,7 +38,7 @@ In carrying out paragraphs (1) and (2) of subsection (a) and any other relevant 
 
 &emsp;(1) establish guidelines designed to ensure uniformity of practice in the conduct of program reviews of institutions of higher education;
 
-&emsp;(2) make available to each institution participating in programs authorized under this subchapter complete copies of all reviewguidelines and procedures used in program reviews;
+&emsp;(2) make available to each institution participating in programs authorized under this subchapter complete copies of all review guidelines and procedures used in program reviews;
 
 &emsp;(3) permit the institution to correct or cure an administrative, accounting, or recordkeeping error if the error is not part of a pattern of error and there is no evidence of fraud or misconduct related to the error;
 

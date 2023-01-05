@@ -56,7 +56,7 @@ There is authorized to be appropriated to carry out the feasibility study and de
 
 #### References in Text
 
-Act approved April 28, 1904, referred to in subsec. (a), is act Apr. 28, 1904, ch. 1762, 33 Stat. 452, which provided, at 33 Stat. 479, an appropriation for the construction of a heating, lighting and power plant in connection with the office building for the House of Representatives to furnish the necessary heat, light, and power for the office building for the House of Representatives, the Capitol building, the Congressional Library building, and for such other public buildings erected after Apr. 28, 1904, on grounds adjacent to the Capitol grounds at the east of the Capitol building and facing the same.
+Act approved April 28, 1904, referred to in subsec. (a), is act Apr. 28, 1904, ch. 1762, 33 Stat. 452, which provided,at 33 Stat. 479, an appropriation for the construction of a heating, lighting and power plant in connection with the office building for the House of Representatives to furnish the necessary heat, light, and power for the office building for the House of Representatives, the Capitol building, the Congressional Library building, and for such other public buildings erected after Apr. 28, 1904, on grounds adjacent to the Capitol grounds at the east of the Capitol building and facing the same.
 
 #### Codification
 
@@ -76,7 +76,7 @@ Change of name of Architect of the Capitol, functions abolished, transferred, et
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of this title.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of this title.
 
 #### Management and Operation of the Capitol Power Plant
 

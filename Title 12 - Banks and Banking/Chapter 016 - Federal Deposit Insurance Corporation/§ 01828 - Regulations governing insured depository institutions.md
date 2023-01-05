@@ -136,11 +136,11 @@ Exceptions.—A responsible agency may not be required to request a report under
 
 &emsp;(A) any proposed merger transaction which would result in a monopoly, or which would be in furtherance of any combination or conspiracy to monopolize or to attempt to monopolize the business of banking in any part of the United States, or
 
-&emsp;(B) any other proposed merger transaction whose effect in any section of the country may be substantially to lessen competition, or to tend to create a monopoly, or which in any other manner would be in restraint of trade, unless it finds that the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meeting the convenience and needs of the community to be served.
+&emsp;(B) any other proposed merger transaction whose effect in any section of the country may be substantially to lessen competition, or to tend to create a monopoly, or which in anyother manner would be in restraint of trade, unless it finds that the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meeting the convenience and needs of the community to be served.
 
 > In every case, the responsible agency shall take into consideration the financial and managerial resources and future prospects of the existing and proposed institutions, the convenience and needs of the community to be served, and the risk to the stability of the United States banking or financial system.
 
-(6) The responsible agency shall immediately notify the Attorney General of any approval by it pursuant to this subsection of a proposed merger transaction. If the agency has found that it must act immediately to prevent the probable failure of one of the insured depository institutions involved, or if the proposed merger transaction is solely between an insured depository institution and 1 or more of its affiliates, and the report on the competitive factors has been dispensed with, the transaction may be consummated immediately upon approval by the agency. If the agency has advised the AttorneyGeneral under paragraph (4)(B)(ii) of the existence of an emergency requiring expeditious action and has requested a report on the competitive factors within 10 days, the transaction may not be consummated before the fifth calendar day after the date of approval by the agency. In all other cases, the transaction may not be consummated before the thirtieth calendar day after the date of approval by the agency or, if the agency has not received any adverse comment from the Attorney General of the United States relating to competitive factors, such shorter period of time as may be prescribed by the agency with the concurrence of the Attorney General, but in no event less than 15 calendar days after the date of approval.
+(6) The responsible agency shall immediately notify the Attorney General of any approval by it pursuant to this subsection of a proposed merger transaction. If the agency has found that it must act immediately to prevent the probable failure of one of the insured depository institutions involved, or if the proposed merger transaction is solely between an insured depository institution and 1 or more of its affiliates, and the report on the competitive factors has been dispensed with, the transaction may be consummated immediately upon approval by the agency. If the agency has advised the Attorney General under paragraph (4)(B)(ii) of the existence of an emergency requiring expeditious action and has requested a report on the competitive factors within 10 days, the transaction may not be consummated before the fifth calendar day after the date of approval by the agency. In all other cases, the transaction may not be consummated before the thirtieth calendar day after the date of approval by the agency or, if the agency has not received any adverse comment from the Attorney General of the United States relating to competitive factors, such shorter period of time as may be prescribed by the agency with the concurrence of the Attorney General, but in no event less than 15 calendar days after the date of approval.
 
 (7)(A) Any action brought under the antitrust laws arising out of a merger transaction shall be commenced prior to the earliest time under paragraph (6) at which a merger transaction approved under paragraph (5) might be consummated. The commencement of such an action shall stay the effectiveness of the agency's approval unless the court shall otherwise specifically order. In any such action, the court shall review de novo the issues presented.
 
@@ -170,7 +170,7 @@ Money laundering.—In every case, the responsible agency, shall take into consi
 
 (13)(A) Except as provided in subparagraph (B), the responsible agency may not approve an application for an interstate merger transaction if the resulting insured depository institution (including all insured depository institutions which are affiliates of the resulting insured depository institution), upon consummation of the transaction, would control more than 10 percent of the total amount of deposits of insured depository institutions in the United States.
 
-(B) Subparagraph (A) shall not apply to an interstate merger transaction that involves 1 or more insured depository institutions in default or in danger of default, or with respect to which the Corporation provides assistance under section 1823 of this title.
+(B) Subparagraph (A) shall not apply to an interstate merger transaction that involves 1 ormore insured depository institutions in default or in danger of default, or with respect to which the Corporation provides assistance under section 1823 of this title.
 
 (C) In this paragraph—
 
@@ -182,7 +182,7 @@ Money laundering.—In every case, the responsible agency, shall take into consi
 
 &emsp;&emsp;(II) with respect to a State bank or State savings association, the State by which the State bank or State savings association is chartered; and
 
-&emsp;&emsp;(III) with respect to a Federal savings association, the State in which the home office (as defined by the regulations of the Director of the Office of Thrift Supervision, or, on and after the transfer date,<sup>1</sup> the Comptrollerof the Currency) of the Federal savings association is located.
+&emsp;&emsp;(III) with respect to a Federal savings association, the State in which the home office (as defined by the regulations of the Director of the Office of Thrift Supervision, or, on and after the transfer date,<sup>1</sup> the Comptroller of the Currency) of the Federal savings association is located.
 
 #### (d) Branch banks
 
@@ -260,7 +260,7 @@ The Corporation may require any insured depository institution to provide protec
 
 #### (f) Publication of reports
 
-Whenever any insured depository institution (except a national bank), after written notice of the recommendations of the Corporation based on a report of examination of such insured depository institution by an examiner of the Corporation, shall fail to comply with such recommendations within one hundred and twenty days after such notice, the Corporation shall have the power, and is authorized, to publishonly such part of such report of examination as relates to any recommendation not complied with: <i>Provided</i>, That notice of intention to make such publication shall be given to the insured depository institution at least ninety days before such publication is made.
+Whenever any insured depository institution (except a national bank), after written notice of the recommendations of the Corporation based on a report of examination of such insured depository institution by an examiner of the Corporation, shall fail to comply with such recommendations within one hundred and twenty days after such notice, the Corporation shall have the power, and is authorized, to publish only such part of such report of examination as relates to any recommendation not complied with: <i>Provided</i>, That notice of intention to make such publication shall be given to the insured depository institution at least ninety days before such publication is made.
 
 #### (g) \[Repealed\]
 
@@ -416,7 +416,7 @@ Whenever any insured depository institution (except a national bank), after writ
 
 #### (B) Certain payments in contemplation of an event
 
-&emsp;&emsp;Any payment which would be a golden parachute payment but for the fact that such payment was made before the date referred to in subparagraph (A)(ii) shall be treated as a golden parachute payment if the payment was made in contemplation of the occurrence of an event described in any subclause of such subparagraph.
+&emsp;&emsp;Any payment which would be a golden parachute payment but for the fact that such payment was made before the date referred to in subparagraph (A)(ii) shall be treated as a golden parachute payment if thepayment was made in contemplation of the occurrence of an event described in any subclause of such subparagraph.
 
 #### (C) Certain payments not included
 
@@ -498,7 +498,7 @@ When authorized by State law, a State nonmember insured bank may, but only with 
 
 &emsp;&emsp;&emsp;(ii) is inconsistent with sound banking principles or with the purposes of this chapter.
 
-> &emsp;&emsp;Upon making any such determination, the Corporation or the Office of the Comptroller of the Currency, as appropriate, shall have authority to order the insured savings association to divest itself of control of the subsidiary. The Corporation or the Comptroller of the Currency, as appropriate, may take any other corrective measures with respectto the subsidiary, including the authority to require the subsidiary to terminate the activities or operations posing such risks, as the Corporation or the Comptroller of the Currency, respectively, may deem appropriate.
+> &emsp;&emsp;Upon making any such determination, the Corporation or the Office of the Comptroller of the Currency, as appropriate, shall have authority to order the insured savings association to divest itself of control of the subsidiary. The Corporation or the Comptroller of the Currency, as appropriate, may take any other corrective measures with respect to the subsidiary, including the authority to require the subsidiary to terminate the activities or operations posing such risks, as the Corporation or the Comptroller of the Currency, respectively, may deem appropriate.
 
 #### (3) Activities incompatible with deposit insurance
 
@@ -646,7 +646,7 @@ Section 633 of this title shall apply to every nonmember insured bank in the sam
 
 &emsp;&emsp;&emsp;(i) the reorganization of such Association in accordance with section 1087–3 of title 20 will not be adversely affected by the arrangement;
 
-&emsp;&emsp;&emsp;(ii) the dissolution of the Association pursuant to such reorganization will occur before the end of the 2-year period beginning on the date on which such arrangement is consummated or on such earlier date as the Secretary deems appropriate: <i>Provided</i>, That the Secretary may extend this period for not more than 1 year at a time if the Secretary determines that such extension is in the public interest and is appropriate to achieve an orderly reorganization of the Association or to prevent market disruptions in connection with such reorganization, but no such extensions shall in the aggregate exceed 2 years;
+&emsp;&emsp;&emsp;(ii) the dissolution of the Association pursuant to such reorganization will occur before the end of the 2-year period beginning on the date on which such arrangement is consummated or on such earlier date as the Secretary deems appropriate: <i>Provided</i>, That the Secretary may extend this period for not more than 1 year at a time if the Secretary determines that such extension is in the public interest and isappropriate to achieve an orderly reorganization of the Association or to prevent market disruptions in connection with such reorganization, but no such extensions shall in the aggregate exceed 2 years;
 
 &emsp;&emsp;&emsp;(iii) the Association will not purchase or extend credit to, or guarantee or provide credit enhancement to, any obligation of the depository institution;
 
@@ -794,7 +794,7 @@ An insured State bank may engage in a derivative transaction, as defined in sect
 
 #### (2) Rulemaking
 
-&emsp;The Board of Governors of the Federal Reserve System may issue such rules as may be necessary to define terms and to carry out the purposes this subsection. Before proposing or adopting a rule under this paragraph, the Board of Governors of the Federal Reserve System shall consult with the Comptroller of the Currency and the Corporation as to the terms of the rule.
+&emsp;The Board of Governors of the Federal Reserve System may issue such rules as may be necessary to define terms and to carry out thepurposes this subsection. Before proposing or adopting a rule under this paragraph, the Board of Governors of the Federal Reserve System shall consult with the Comptroller of the Currency and the Corporation as to the terms of the rule.
 
 #### (aa) Treatment of certain municipal obligations
 
@@ -814,7 +814,7 @@ An insured State bank may engage in a derivative transaction, as defined in sect
 
 #### (2) Municipal obligations
 
-&emsp;For purposes of the final rule entitled "Liquidity Coverage Ratio: Liquidity Risk Measurement Standards" (79 Fed. Reg. 61439 (October 10, 2014)), the final rule entitled "Liquidity Coverage Ratio: Treatment of U.S. Municipal Securities as High-Quality Liquid Assets" (81 Fed. Reg. 21223 (April 11, 2016)), and any otherregulation that incorporates a definition of the term "high-quality liquid asset" or another substantially similar term, the appropriate Federal banking agencies shall treat a municipal obligation as a high-quality liquid asset that is a level 2B liquid asset if that obligation is, as of the date of calculation—
+&emsp;For purposes of the final rule entitled "Liquidity Coverage Ratio: Liquidity Risk Measurement Standards" (79 Fed. Reg. 61439 (October 10, 2014)), the final rule entitled "Liquidity Coverage Ratio: Treatment of U.S. Municipal Securities as High-Quality Liquid Assets" (81 Fed. Reg. 21223 (April 11, 2016)), and any other regulation that incorporates a definition of the term "high-quality liquid asset" or another substantially similar term, the appropriate Federal banking agencies shall treat a municipal obligation as a high-quality liquid asset that is a level 2B liquid asset if that obligation is, as of the date of calculation—
 
 &emsp;&emsp;(A) liquid and readily-marketable; and
 
@@ -914,7 +914,7 @@ Subsec. (s)(4)(C)(ii)(I). Pub. L. 110–315 inserted ", as such section existed
 
 Subsec. (c)(4). Pub. L. 109–351, §606(a), inserted heading and amended text generally. Prior to amendment, text read as follows: "In the interests of uniform standards, before acting on any application for approval of a merger transaction, the responsible agency, unless it finds that it must act immediately in order to prevent the probable failure of one of the banks or savings associations involved, shall request reports on the competitive factors involved from the Attorney General and the other Federal banking agencies referred to in this subsection. The reports shall be furnished within thirty calendar days of the date on which they are requested, or within ten calendar days of such date if the requesting agency advises the Attorney General and the other Federal banking agencies that an emergency exists requiring expeditious action. Notwithstanding the preceding sentence, a banking agency shall not be required to file a report requested by the responsible agency under this paragraph if such banking agency advises the responsible agency by the applicable date under the preceding sentence that the report is not necessary because none of the effects described in paragraph (5) are likely to occur as a result of the transaction."
 
-Subsec. (c)(6). Pub. L. 109–351, §606(b)(2), substituted, in penultimate sentence, "If the agency has advised the Attorney General under paragraph (4)(B)(ii) of the existence of an emergency requiring expeditious action and has requested a report on the competitive factors within 10 days, the transaction may not be consummated before the fifth calendar day after the date of approval by the agency." for "If the agency has advised the Attorney General and the other Federal banking agencies of the existence of an emergency requiring expeditious actions and has requested reports on the competitive factors within ten days, the transaction may not be consummated before the fifth calendar day after the date of approval by the agency."
+Subsec. (c)(6). Pub. L. 109–351, §606(b)(2), substituted, in penultimate sentence, "If the agency has advised theAttorney General under paragraph (4)(B)(ii) of the existence of an emergency requiring expeditious action and has requested a report on the competitive factors within 10 days, the transaction may not be consummated before the fifth calendar day after the date of approval by the agency." for "If the agency has advised the Attorney General and the other Federal banking agencies of the existence of an emergency requiring expeditious actions and has requested reports on the competitive factors within ten days, the transaction may not be consummated before the fifth calendar day after the date of approval by the agency."
 
 Pub. L. 109–351, §606(b)(1), substituted, in second sentence, "insured depository institutions involved, or if the proposed merger transaction is solely between an insured depository institution and 1 or more of its affiliates, and the report on the competitive factors has" for "banks or savings associations involved and reports on the competitive factors have".
 
@@ -922,7 +922,7 @@ Subsec. (h). Pub. L. 109–171, §2104(c), amended subsec. (h) generally. Prior 
 
 Subsec. (k)(2)(A). Pub. L. 109–351, §704(1), substituted "or covered company" for "or depository institution holding company".
 
-Subsec. (k)(2)(B). Pub. L. 109–351, §704(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "Whether there is a reasonable basis to believe that the institution-affiliated party is substantially responsible for the insolvency of the depositoryinstitution or depository institution holding company, the appointment of a conservator or receiver for the depository institution, or the depository institution's troubled condition (as defined in the regulations prescribed pursuant to section 1831i(f) of this title)."
+Subsec. (k)(2)(B). Pub. L. 109–351, §704(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "Whether there is a reasonable basis to believe that the institution-affiliated party is substantially responsible for the insolvency of the depository institution or depository institution holding company, the appointment of a conservator or receiver for the depository institution, or the depository institution's troubled condition (as defined in the regulations prescribed pursuant to section 1831i(f) of this title)."
 
 Subsec. (k)(2)(F). Pub. L. 109–351, §704(3), substituted "covered company," for "depository institution holding company" in introductory provisions.
 
@@ -992,7 +992,7 @@ Subsec. (s). Pub. L. 104–208, §2615(b), added subsec. (s).
 
 Subsec. (c)(1)(B). Pub. L. 103–325, §602(a)(45), inserted "or" at end.
 
-Subsec. (c)(4). Pub. L. 103–325, §§324, 602(a)(46), substituted "other Federal banking agencies" for "other two banking agencies" in two places and inserted at end "Notwithstanding the preceding sentence, a banking agency shall not be required to file a report requested by the responsible agency under this paragraph if such banking agency advises the responsible agency by the applicable date under the preceding sentence that the report is not necessary because none of the effects described in paragraph (5) are likely to occur as a result of the transaction."
+Subsec. (c)(4). Pub. L. 103–325, §§324, 602(a)(46), substituted "other Federal banking agencies" for "other two banking agencies" in two places and inserted at end "Notwithstanding the preceding sentence, a banking agency shall not be required to file a report requested by the responsible agency under this paragraph if such banking agency advises the responsible agency by the applicable date under the preceding sentencethat the report is not necessary because none of the effects described in paragraph (5) are likely to occur as a result of the transaction."
 
 Subsec. (c)(6). Pub. L. 103–325, §§321(b), 602(a)(47), substituted "other Federal banking agencies" for "other two banking agencies" and inserted before period at end "or, if the agency has not received any adverse comment from the Attorney General of the United States relating to competitive factors, such shorter period of time as may be prescribed by the agency with the concurrence of the Attorney General, but in no event less than 15 calendar days after the date of approval".
 
@@ -1020,7 +1020,7 @@ Pub. L. 102–242, §304(a), added subsec. (o) relating to real estate lending.
 
 <b>1990</b>—Subsec. (k). Pub. L. 101–647 added subsec. (k).
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–73, §221(1), substituted heading and pars. (1) to (3) for first two sentences whichread as follows: "Every insured bank shall display at each place of business maintained by it a sign or signs, and shall include a statement to the effect that its deposits are insured by the Corporation in all of its advertisements: <i>Provided</i>, That the Board of Directors may exempt from this requirement advertisements which do not relate to deposits or when it is impractical to include such statement therein. The Board of Directors shall prescribe by regulation the forms of such signs and the manner of display and the substance of such statements and the manner of use."
+<b>1989</b>—Subsec. (a). Pub. L. 101–73, §221(1), substituted heading and pars. (1) to (3) for first two sentences which read as follows: "Every insured bank shall display at each place of business maintained by it a sign or signs, and shall include a statement to the effect that its deposits are insured by the Corporation in all of its advertisements: <i>Provided</i>, That the Board of Directors may exempt from this requirement advertisements which do not relate to deposits or when it is impractical to include such statement therein. The Board of Directors shall prescribe by regulation the forms of such signs and the manner of display and the substance of such statements and the manner of use."
 
 Pub. L. 101–73, §201(a), substituted "insured depository institution" for "insured bank".
 
@@ -1064,7 +1064,7 @@ Subsec. (j)(4), (5). Pub. L. 101–73, §907(c), amended pars. (4) and (5) gener
 
 "(C) The nonmember insured bank or person charged shall be afforded an opportunity for agency hearing, upon request made within ten days after issuance of the notice of assessment. In such hearing all issues shall be determined on the record pursuant to section 554 of title 5. The agency determination shall be made by final order which may be reviewed only as provided in subparagraph (D). If no hearing is requested as herein provided the assessment shall constitute a final and unappealable order.
 
-"(D) Any nonmember insured bank or person against whom an order imposing a civil money penalty has been entered after agency hearing under this section may obtain review by the United States court of appeals for the circuit in which the home office of the member bank is located, or the United States Court of Appeals for the District of Columbia Circuit, by filing a notice of appeal in such court within twenty days from the service of such order, and simultaneously sending a copy of such notice by registered or certified mail to the Corporation. The Corporation shall promptly certify and file in such court the record upon which the penalty was imposed, as provided in section 2112 of title 28. The findings of the Corporation shall be set aside if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5.
+"(D) Any nonmember insured bank or person against whom an order imposing a civil money penalty has been entered after agency hearing under this section may obtain review by the United States court of appeals for the circuit in which the home office of the member bank is located, or the United States Court ofAppeals for the District of Columbia Circuit, by filing a notice of appeal in such court within twenty days from the service of such order, and simultaneously sending a copy of such notice by registered or certified mail to the Corporation. The Corporation shall promptly certify and file in such court the record upon which the penalty was imposed, as provided in section 2112 of title 28. The findings of the Corporation shall be set aside if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5.
 
 "(E) If any nonmember insured bank or person fails to pay an assessment after it has become a final and unappealable order, or after the court of appeals has entered final judgment in favor of the agency, the Corporation shall refer the matter to the Attorney General, who shall recover the amount assessed by action in the appropriate United States district court. In such action the validity and appropriateness of the final order imposing the penalty shall not be subject to review.
 
@@ -1142,7 +1142,7 @@ Subsec. (k). Pub. L. 93–501, §302, added subsec. (k).
 
 <b>1968</b>—Subsec. (g). Pub. L. 90–505 gave the Board power to prescribe rules governing the payment and advertisement of interest on deposits.
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–356, §1(a), laid down more definite guidelines for dealing with the antitrust aspects of bank mergers by prohibiting monopoly bank mergers in all cases, forbidding anticompetitive mergers except in cases where a clear showing is made that a given merger is so beneficial that its allowance is in the public interest, and requiring the uniform application of the law by both judicial and administrative bodies, inserted provisions to delay the effectiveness of agency approval of merger transactions except in emergency situations, imposed a special statute of limitations for antitrust actions arising out of agency-approved merger transactions thereby precluding antitrust actions when the agency has acted immediately to prevent probable failure of a bank, provided for the automatic staying of the effectiveness of agency action by the commencement of an antitrust action unless thecourt orders otherwise, called for de novo court review, permitted federal bank agencies which approved a subsequently challenged merger to appear in the suit by its own counsel, allowed state banking agencies to present their views, and inserted a definition of "antitrust laws" which would include the Sherman Act, the Clayton Act, and any other Acts in pari materia.
+<b>1966</b>—Subsec. (c). Pub. L. 89–356, §1(a), laid down more definite guidelines for dealing with the antitrust aspects of bank mergers by prohibiting monopoly bank mergers in all cases, forbidding anticompetitive mergers except in cases where a clear showing is made that a given merger is so beneficial that its allowance is in the public interest, and requiring the uniform application of the law by both judicial and administrative bodies, inserted provisions to delay the effectiveness of agency approval of merger transactions except in emergency situations, imposed a special statute of limitations for antitrust actions arising out of agency-approved merger transactions thereby precluding antitrust actions when the agency has acted immediately to prevent probable failure of a bank, provided for the automatic staying of the effectiveness of agency action by the commencement of an antitrust action unless the court orders otherwise, called for de novo court review, permitted federal bank agencies which approved a subsequently challenged merger to appear in the suit by its own counsel, allowed state banking agencies to present their views, and inserted a definition of "antitrust laws" which would include the Sherman Act, the Clayton Act, and any other Acts in pari materia.
 
 Subsec. (g). Pub. L. 89–597 made the authority of the FDIC Board to prescribe maximum permissible rates of interest that may be paid by member banks on time and savings deposits discretionary rather than mandatory, included such payments by insured mutual savings banks, required prior consultations with the Board of Governors of the FRS and the FHLB Board, authorized different rate limitations for different classes of deposits, for deposits of different amounts, or according to such other reasonable bases as the Board may deem desirable in the public interest, and eliminate provision for rate limitation according to the varying discount rates of member banks in the several Federal Reserve districts.
 
@@ -1206,7 +1206,7 @@ Amendment by section 2704(d)(14)(U), (V) of Pub. L. 104–208 effective Jan. 1, 
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–328, title I, §101(e), Sept. 29, 1994, 108 Stat. 2343, provided that: "The amendments made by thissection \[amending this section and sections 1841, 1842, and 1846 of this title\] shall take effect at the end of the 1-year period beginning on the date of the enactment of this Act \[Sept. 29, 1994\]."
+Pub. L. 103–328, title I, §101(e), Sept. 29, 1994, 108 Stat. 2343, provided that: "The amendments made by this section \[amending this section and sections 1841, 1842, and 1846 of this title\] shall take effect at the end of the 1-year period beginning on the date of the enactment of this Act \[Sept. 29, 1994\]."
 
 #### Effective Date of 1992 Amendment
 
@@ -1250,7 +1250,7 @@ Amendment by section 302 of Pub. L. 93–501 applicable to deposits made or obli
 
 #### Effective Date of 1973 Amendment
 
-Amendment by Pub. L. 93–100 effective on thirtieth day after Aug. 16, 1973, see section 8 of Pub. L. 93–100, set out as an Effective Date note under section 1469 of this title.
+Amendment by Pub. L. 93–100 effective on thirtieth day after Aug. 16, 1973, see section 8 of Pub. L. 93–100,set out as an Effective Date note under section 1469 of this title.
 
 #### Effective and Termination Dates of 1969 Amendment
 
@@ -1266,7 +1266,7 @@ Amendment by section 101 of Pub. L. 96–161, cited as a credit to this section,
 
 #### Savings Provision
 
-Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, provided in part that, notwithstanding the repeal ofPub. L. 96–104 and title II of Pub. L. 96–161, the provisions of subsec. (k) of this section \[which had been added to this section by those repealed laws\] shall continue to apply to any loan made, any deposit made, or any obligation issued to any State during any period when those provisions were in effect in such State.
+Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, provided in part that, notwithstanding the repeal of Pub. L. 96–104 and title II of Pub. L. 96–161, the provisions of subsec. (k) of this section \[which had been added to this section by those repealed laws\] shall continue to apply to any loan made, any deposit made, or any obligation issued to any State during any period when those provisions were in effect in such State.
 
 #### Termination of Reporting Requirements
 
@@ -1428,7 +1428,7 @@ Pub. L. 89–356, §2, Feb. 21, 1966, 80 Stat. 10, provided that:
 
 "(a) Any merger, consolidation, acquisition of assets, or assumption of liabilities involving an insured bank which was consummated prior to June 17, 1963, the bank resulting from which has not been dissolved or divided and has not effected a sale or distribution of assets and has not taken any other similar action pursuant to a final judgment under the antitrust laws prior to the enactment of this Act \[Feb. 21, 1966\], shall be conclusively presumed to have not been in violation of any antitrust laws other than section 2 of the Act of July 2, 1890 (section 2 of the Sherman Antitrust Act, 15 U.S.C. 2).
 
-"(b) No merger, consolidation, acquisition of assets, or assumption of liabilities involving an insured bank which was consummated after June 16, 1963, and prior to the date of enactment of this Act \[Feb. 21, 1966\] and as to which no litigation was initiated by the Attorney General prior to the date of enactment of this Act \[Feb. 21, 1966\] may be attacked after such date in any judicial proceeding on the ground that it alone and of itself constituted a violation of any antitrust laws other than section 2 of the Act of July 2, 1890 (section 2 of the Sherman Antitrust Act, 15 U.S.C. 2).
+"(b) No merger, consolidation, acquisition of assets, or assumption of liabilities involving an insured bank which was consummated after June 16, 1963, and prior to the date of enactment of this Act \[Feb. 21, 1966\] and as to which no litigation was initiated by the Attorney General prior to the date of enactment of this Act \[Feb. 21, 1966\] may be attacked after such date in any judicial proceeding on the ground that it alone and of itselfconstituted a violation of any antitrust laws other than section 2 of the Act of July 2, 1890 (section 2 of the Sherman Antitrust Act, 15 U.S.C. 2).
 
 "(c) Any court having pending before it on or after the date of enactment of this Act \[Feb. 21, 1966\] any litigation initiated under the antitrust laws by the Attorney General after June 16, 1963 with respect to the merger, consolidation, acquisition of assets, or assumption of liabilities of an insured bank consummated after June 16, 1963, shall apply the substantive rule of law set forth in section 18(c)(5) of the Federal Deposit Insurance Act \[subsec. (c)(5) of this section\], as amended by this Act.
 

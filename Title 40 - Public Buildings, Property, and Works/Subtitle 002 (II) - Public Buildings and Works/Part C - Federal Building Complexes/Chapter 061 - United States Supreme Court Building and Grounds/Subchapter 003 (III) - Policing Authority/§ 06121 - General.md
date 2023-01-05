@@ -8,9 +8,11 @@ Authority of Marshal of the Supreme Court and Supreme Court Police.—In accorda
 
 &emsp;(2) in any location, to protect—
 
-&emsp;&emsp;(A) the Chief Justice, any Associate Justice of the Supreme Court, and any official guest of the Supreme Court; and
+&emsp;&emsp;(A) the Chief Justice, any Associate Justice of the Supreme Court, and any official guest of the Supreme Court;
 
-&emsp;&emsp;(B) any officer or employee of the Supreme Court while that officer or employee is performing official duties;
+&emsp;&emsp;(B) any officer or employee of the Supreme Court while that officer or employee is performing official duties; and
+
+&emsp;&emsp;(C) any member of the immediate family of the Chief Justice, any Associate Justice, or any officer of the Supreme Court if the Marshal determines such protection is necessary.<sup>1</sup>
 
 &emsp;(3) while performing duties necessary to carry out paragraph (1) or (2), to make arrests for any violation of Federal or State law and any regulation under Federal or State law; and
 
@@ -18,9 +20,9 @@ Authority of Marshal of the Supreme Court and Supreme Court Police.—In accorda
 
 (b)
 
-Authorization To Carry Firearms— <sup>1</sup> Duties under subsection (a)(2)(A) with respect to an official guest of the Supreme Court in any location (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice or an Associate Justice, if those duties require the carrying of firearms under subsection (a)(4).
+Authorization To Carry Firearms— <sup>2</sup> Duties under subsection (a)(2)(A) with respect to an official guest of the Supreme Court in any location (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice or an Associate Justice, if those duties require the carrying of firearms under subsection (a)(4).
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1182; Pub. L. 108–356, §1, Oct. 21, 2004, 118 Stat. 1416; Pub. L. 110–402, §1(a), Oct. 13, 2008, 122 Stat. 4254; Pub. L. 113–62, §1, Dec. 20, 2013, 127 Stat. 666; Pub. L. 116–75, §2, Nov. 27, 2019, 133 Stat. 1160.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1182; Pub. L. 108–356, §1, Oct. 21, 2004, 118 Stat. 1416; Pub. L. 110–402, §1(a), Oct. 13, 2008, 122 Stat. 4254; Pub. L. 113–62, §1, Dec. 20, 2013, 127 Stat. 666; Pub. L. 116–75, §2, Nov. 27, 2019, 133 Stat. 1160; Pub. L. 117–148, §2, June 16, 2022, 136 Stat. 1288.)
 
 Historical and Revision Notes
 
@@ -54,6 +56,8 @@ In subsection (b), the words "The Marshal of the Supreme Court shall report annu
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(2)(C). Pub. L. 117–148 added subpar. (C).
+
 <b>2019</b>—Subsec. (a)(2). Pub. L. 116–75, §2(1)(A), substituted "any location" for "any State" in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 116–75, §2(1)(B), substituted "Federal or State law" for "federal or state law" in two places.
@@ -66,5 +70,7 @@ Subsec. (b). Pub. L. 116–75, §2(2), substituted "Authorization To Carry Firea
 
 <b>2004</b>—Subsec. (b)(2). Pub. L. 108–356 substituted "2008" for "2004".
 
-<i><sup>1</sup></i><i> So in original. The dash probably should be preceded by a period.</i>
+<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+
+<i><sup>2</sup></i><i> So in original. The dash probably should be preceded by a period.</i>
 

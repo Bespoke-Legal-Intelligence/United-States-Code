@@ -6,7 +6,7 @@ The President is authorized to award up to twenty fellowships annually for perio
 
 #### (b) Activities of Institute Fellows
 
-The President may assign Institute Fellows to undertake such activities, in the United Statesor abroad, as will further the purposes of the Institute.
+The President may assign Institute Fellows to undertake such activities, in the United States or abroad, as will further the purposes of the Institute.
 
 #### (c) Amount of awards; transportation, housing, etc., benefits
 
@@ -36,7 +36,7 @@ Section effective Oct. 1, 1979, see section 512(a) of Pub. L. 96–53, set out a
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

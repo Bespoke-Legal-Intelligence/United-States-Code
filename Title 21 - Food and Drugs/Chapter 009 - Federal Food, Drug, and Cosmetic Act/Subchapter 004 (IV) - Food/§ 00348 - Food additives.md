@@ -18,7 +18,7 @@ A food additive shall, with respect to any particular use or intended use of suc
 
 #### (b) Petition for regulation prescribing conditions of safe use; contents; description of production methods and controls; samples; notice of regulation
 
-(1) Any person may, with respect to any intended use of a food additive, file with the Secretary a petition proposing the issuance of aregulation prescribing the conditions under which such additive may be safely used.
+(1) Any person may, with respect to any intended use of a food additive, file with the Secretary a petition proposing the issuance of a regulation prescribing the conditions under which such additive may be safely used.
 
 (2) Such petition shall, in addition to any explanatory or supporting data, contain—
 
@@ -104,9 +104,9 @@ Any order, including any regulation established by such order, issued under subs
 
 (B) A decision by the Secretary to object to a notification shall constitute final agency action subject to judicial review.
 
-(C) In this paragraph, the term "food contact substance" means the substance that is the subject of a notification submitted under paragraph\(1), and does not include a similar or identical substance manufactured or prepared by a person other than the manufacturer identified in the notification.
+(C) In this paragraph, the term "food contact substance" means the substance that is the subject of a notification submitted under paragraph (1), and does not include a similar or identical substance manufactured or prepared by a person other than the manufacturer identified in the notification.
 
-(3)(A) The process in this subsection shall be utilized for authorizing the marketing of a food contact substance except where the Secretary determines that submission and review of a petition under subsection (b) is necessary to provide adequate assurance of safety, or where the Secretary and any manufacturer or supplier agree that such manufacturer or supplier may submit a petition under subsection (b).
+(3)(A) The process in this subsection shall be utilized for authorizing the marketing of a food contact substance except where the Secretary determines that submission and review of a petition under subsection (b) is necessary to provide adequate assurance of safety, or where the Secretary and any manufacturer or supplier agreethat such manufacturer or supplier may submit a petition under subsection (b).
 
 (B) The Secretary is authorized to promulgate regulations to identify the circumstances in which a petition shall be filed under subsection (b), and shall consider criteria such as the probable consumption of such food contact substance and potential toxicity of the food contact substance in determining the circumstances in which a petition shall be filed under subsection (b).
 
@@ -230,7 +230,7 @@ Contents.—The guidance under paragraph (1) shall include—
 
 "(3)
 
-Final guidance.—The guidance under paragraph (1) shall be finalized, withdrawn, or reissued not laterthan 1 year after the close of the comment period on the draft guidance."
+Final guidance.—The guidance under paragraph (1) shall be finalized, withdrawn, or reissued not later than 1 year after the close of the comment period on the draft guidance."
 
 #### Glass and Ceramic Ware
 
@@ -242,7 +242,7 @@ In General.—The Secretary may not implement any requirement which would ban, a
 
 "(b)
 
-Lead and Cadmium Based Enamel.—Unless the Secretary determines, based on available data, that lead and cadmium based enamel on glass and ceramic ware—
+Lead and Cadmium Based Enamel.—Unless the Secretary determines, based on available data, thatlead and cadmium based enamel on glass and ceramic ware—
 
 &emsp;"(1) which has less than 60 millimeters of decorating area below the external rim, and
 

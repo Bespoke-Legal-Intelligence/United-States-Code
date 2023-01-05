@@ -42,11 +42,11 @@ In general.—The Administrator, in coordination with the ISS management entity 
 
 &emsp;(2)
 
-Reports.—Not later than December 1, 2017, and biennially thereafter until 2023, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes—
+Reports.—Not later than December 1, 2017, and biennially thereafter until 2028, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes—
 
 &emsp;&emsp;(A) a description of the progress in achieving the Administration's deep space human exploration objectives on ISS and prospects for accomplishing future mission requirements, space exploration objectives, and other research objectives on future commercially supplied low-Earth orbit platforms or migration of those objectives to cis-lunar space;
 
-&emsp;&emsp;(B) the steps NASA is taking and will take, including demonstrations that couldbe conducted on the ISS, to stimulate and facilitate commercial demand and supply of products and services in low-Earth orbit;
+&emsp;&emsp;(B) the steps NASA is taking and will take, including demonstrations that could be conducted on the ISS, to stimulate and facilitate commercial demand and supply of products and services in low-Earth orbit;
 
 &emsp;&emsp;(C) an identification of barriers preventing the commercialization of low-Earth orbit, including issues relating to policy, regulations, commercial intellectual property, data, and confidentiality, that could inhibit the use of the ISS as a commercial incubator;
 
@@ -62,7 +62,7 @@ Reports.—Not later than December 1, 2017, and biennially thereafter until 2023
 
 &emsp;&emsp;(I) the cost estimates for extending operations of the ISS to 2024, 2028, and 2030;
 
-&emsp;&emsp;(J) an evaluation of the feasible and preferred service life of the ISS beyond the period described in section 503 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18353), through at least 2028, as a unique scientific, commercial, and space exploration-related facility, including—
+&emsp;&emsp;(J) an evaluation of the feasible and preferred service life of the ISS beyond the period described in section 503 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18353), through at least 2030, as a unique scientific, commercial, and space exploration-related facility, including—
 
 &emsp;&emsp;&emsp;(i) a general discussion of international partner capabilities and prospects for extending the partnership;
 
@@ -94,7 +94,7 @@ Demonstrations.—If additional Government crew, power, and transportation resou
 
 &emsp;&emsp;(B) demonstrate or test capabilities, including commercial modules or deep space habitats, Environmental Control and Life Support Systems, orbital satellite assembly, exploration space suits, a node that enables a wide variety of activity, including multiple commercial modules and airlocks, additional docking or berthing ports for commercial crew and cargo, opportunities for the commercial space sector to cost share for transportation and other services on the ISS, other commercial activities, or services obtained through alternate acquisition approaches.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3396; Pub. L. 115–10, title III, §303(c), Mar. 21, 2017, 131 Stat. 27.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3396; Pub. L. 115–10, title III, §303(c), Mar. 21, 2017, 131 Stat. 27; Pub. L. 117–167, div. B, title VII, §10815(e), Aug. 9, 2022, 136 Stat. 1738.)
 
 Historical and Revision Notes
 
@@ -126,9 +126,13 @@ In subsection (b)(1)(D), the date "October 15, 2008" is substituted for "the dat
 
 Section 101(3)(A) of the National Aeronautics and Space Administration Authorization Act of 2008, referred to in subsec. (b)(2), is section 101(3)(A) of Pub. L. 110–422, Oct. 15, 2008, 122 Stat. 4783, which was not classified to the Code.
 
-The National Aeronautics and Space Administration Transition Authorization Act of 2017, referred to in subsec. (c)(1), (2)(E), (G), is Pub. L. 115–10, Mar. 21, 2017, 131Stat. 18. Section 2 of the Act is set out as a note under section 10101 of this title, section 301(b)(2) of the Act is set out in a note under this section, and section 432 of the Act is set out in a note under section 20302 of this title.
+The National Aeronautics and Space Administration Transition Authorization Act of 2017, referred to in subsec. (c)(1), (2)(E), (G), is Pub. L. 115–10, Mar. 21, 2017, 131 Stat. 18. Section 2 of the Act is set out as a note under section 10101 of this title, section 301(b)(2) of the Act is set out in a note under this section, and section 432 of the Act is set out in a note under section 20302 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(2). Pub. L. 117–167, §10815(e)(1), substituted "2028" for "2023" in introductory provisions.
+
+Subsec. (c)(2)(J). Pub. L. 117–167, §10815(e)(2), substituted "2030" for "2028" in introductory provisions.
 
 <b>2017</b>—Subsec. (c). Pub. L. 115–10 added subsec. (c).
 

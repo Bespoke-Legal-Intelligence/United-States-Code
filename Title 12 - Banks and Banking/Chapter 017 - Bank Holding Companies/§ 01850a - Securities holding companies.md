@@ -78,7 +78,7 @@ In this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) an assessment of the consolidated capital and liquidity of the supervised securities holding company;
 
-&emsp;&emsp;&emsp;&emsp;(III) a report by an independent auditor attesting to the compliance of the supervised securities holding company with the internal risk management and internal control objectives of the supervised securities holding company; and
+&emsp;&emsp;&emsp;&emsp;(III) a report by an independent auditor attesting to the compliance of thesupervised securities holding company with the internal risk management and internal control objectives of the supervised securities holding company; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) a report concerning the extent to which the supervised securities holding company or affiliate has complied with the provisions of this section and any regulations prescribed and orders issued under this section.
 
@@ -154,7 +154,7 @@ Title I, referred to in subsec. (a)(4)(B)(i), is title I of Pub. L. 111–203, J
 
 Section 25A of the Federal Reserve Act, referred to in subsec. (a)(4)(B)(v), popularly known as the Edge Act, is classified to subchapter II (§611 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 611 of this title and Tables.
 
-The Bank Holding Company Act of 1956, referred to in subsec. (e)(2), is act May 9, 1956, ch. 240, 70 Stat. 133,which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (e)(2), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 #### Codification
 

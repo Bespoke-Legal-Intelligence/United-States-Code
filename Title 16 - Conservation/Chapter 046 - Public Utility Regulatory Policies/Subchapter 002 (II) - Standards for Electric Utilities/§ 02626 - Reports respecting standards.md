@@ -6,7 +6,7 @@ Not later than one year after November 9, 1978, and annually thereafter for ten 
 
 #### (b) Secretary
 
-Not later than eighteen months after November 9, 1978, and annually thereafter for ten years,the Secretary shall submit a report to the President and the Congress containing—
+Not later than eighteen months after November 9, 1978, and annually thereafter for ten years, the Secretary shall submit a report to the President and the Congress containing—
 
 &emsp;(1) a summary of the reports submitted under subsection (a),
 

@@ -86,7 +86,7 @@ Subsection (a) shall not apply—
 
 &emsp;&emsp;&emsp;(i) which was received, by the shareholder selling or otherwise disposing of such stock, in pursuance of a plan of reorganization (within the meaning of section 368(a)), or in a distribution or exchange to which section 355 (or so much of section 356 as relates to section 355) applied, and
 
-&emsp;&emsp;&emsp;(ii) with respect to the receipt of which gain or loss to the shareholder was to any extent not recognized by reason of part III,but only to the extent that either the effect of the transaction was substantially the same as the receipt of a stock dividend, or the stock was received in exchange for section 306 stock.
+&emsp;&emsp;&emsp;(ii) with respect to the receipt of which gain or loss to the shareholder was to any extent not recognized by reason of part III, but only to the extent that either the effect of the transaction was substantially the same as the receipt of a stock dividend, or the stock was received in exchange for section 306 stock.
 
 > &emsp;&emsp;For purposes of this section, a receipt of stock to which the foregoing provisions of this subparagraph apply shall be treated as a distribution of stock.
 
@@ -140,7 +140,7 @@ If a substantial change is made in the terms and conditions of any stock, then, 
 
 &emsp;(3) subsection (c)(2) shall not apply unless the stock meets the requirements of such subsection both at the time of such distribution and at the time of such change.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 94–455, title XIX, §§1901(b)(3)(J), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–600, title VII, §702(a)(1), (2), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–248, title II, §§222(e)(1)(A), (2), 226(b), 227(a), Sept. 3, 1982, 96 Stat. 480, 492; Pub. L. 98–369, div. A, title VII, §712(i)(2), (l)(5)(B), (6), July 18, 1984, 98 Stat. 948, 954; Pub. L. 101–508, title XI, §11801(a)(18), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 108–27, title III, §302(e)(3), May 28, 2003, 117 Stat. 763.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 90; Pub. L. 94–455, title XIX, §§1901(b)(3)(J), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 95–600, title VII,§702(a)(1), (2), Nov. 6, 1978, 92 Stat. 2925; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–248, title II, §§222(e)(1)(A), (2), 226(b), 227(a), Sept. 3, 1982, 96 Stat. 480, 492; Pub. L. 98–369, div. A, title VII, §712(i)(2), (l)(5)(B), (6), July 18, 1984, 98 Stat. 948, 954; Pub. L. 101–508, title XI, §11801(a)(18), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 108–27, title III, §302(e)(3), May 28, 2003, 117 Stat. 763.)
 
 #### <b>Editorial Notes</b>
 

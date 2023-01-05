@@ -16,7 +16,7 @@ Not more than 25 percent of the funds made available pursuant to subsection (a) 
 
 An entity eligible to receive funds under this subchapter may receive funds for only one project at a time.
 
-(Pub. L. 88–74, §6, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, §301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7135, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, §7405, May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, §4(a), title VII, §7405, June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 113–79, title VII, §7403, Feb. 7, 2014, 128 Stat. 895; Pub. L. 115–334, title VII, §7503(d), Dec. 20, 2018, 132 Stat. 4821.)
+(Pub. L. 88–74, §6, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, §301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7135, May 13, 2002, 116 Stat. 436; Pub. L. 110–234, title VII, §7405, May 22, 2008, 122 Stat. 1247; Pub. L. 110–246, §4(a), title VII, §7405, June 18, 2008, 122 Stat. 1664, 2008; Pub. L. 113–79, title VII, §7403,Feb. 7, 2014, 128 Stat. 895; Pub. L. 115–334, title VII, §7503(d), Dec. 20, 2018, 132 Stat. 4821.)
 
 #### <b>Editorial Notes</b>
 

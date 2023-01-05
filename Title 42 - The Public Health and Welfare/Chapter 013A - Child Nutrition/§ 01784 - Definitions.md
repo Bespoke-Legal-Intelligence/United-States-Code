@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 &emsp;(1) "State" means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
 
-&emsp;(2) "State educational agency" means, as the State legislature may determine, (A) the chief State school officer (such as the State superintendent of public instruction, commissioner of education, or similar officer), or (B)a board of education controlling the State department of education.
+&emsp;(2) "State educational agency" means, as the State legislature may determine, (A) the chief State school officer (such as the State superintendent of public instruction, commissioner of education, or similar officer), or (B) a board of education controlling the State department of education.
 
 &emsp;(3) "School" means (A) any public or nonprofit private school of high school grade or under, including kindergarten and preschool programs operated by such school, and (B) any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded, but excluding Job Corps Centers funded by the Department of Labor). For purposes of clauses (A) and (B) of this paragraph, the term "nonprofit", when applied to any such private school or institution, means any such school or institution which is exempt from tax under section 501(c)(3) of title 26.
 
@@ -24,7 +24,7 @@ Disability.—The term "disability" has the meaning given the term in the Rehabi
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in par. (7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in par. (7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Codification
 
@@ -62,7 +62,7 @@ Subsec. (f). Pub. L. 95–627, §10(d)(3), added subsec. (f).
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–105, §15(c), included Trust Territory of Pacific Islands in definition of "State".
 
-Subsecs. (c) to (e). Pub. L. 94–105, §17(b), struck out subsec. (c) which defined "Nonprofit private school" as any private school exempt from income tax under section 501(c)(3) of title 26, redesignated subsecs. (d) and\(e) as (c) and (d) respectively, and in subsec. (c) as so redesignated, inserted definition of "School" any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded), and provision defining "nonprofit" as an exemption under section 501(c)(3) of title 26.
+Subsecs. (c) to (e). Pub. L. 94–105, §17(b), struck out subsec. (c) which defined "Nonprofit private school" as any private school exempt from income tax under section 501(c)(3) of title 26, redesignated subsecs. (d) and (e) as (c) and (d) respectively, and in subsec. (c) as so redesignated, inserted definition of "School" any public or licensed nonprofit private residential child care institution (including, but not limited to, orphanages and homes for the mentally retarded), and provision defining "nonprofit" as an exemption under section 501(c)(3) of title 26.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

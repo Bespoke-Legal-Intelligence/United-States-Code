@@ -58,7 +58,7 @@ The purpose of the off-highway vehicle recreation areas designated or expanded u
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall continue to authorize, maintain, and enhance the recreational usesof the off-highway vehicle recreation areas designated or expanded by subsection (a), as long as the recreational use is consistent with this section and any other applicable law.
+&emsp;&emsp;The Secretary shall continue to authorize, maintain, and enhance the recreational uses of the off-highway vehicle recreation areas designated or expanded by subsection (a), as long as the recreational use is consistent with this section and any other applicable law.
 
 #### (B) Off-highway vehicle and off-highway recreation
 
@@ -102,7 +102,7 @@ The purpose of the off-highway vehicle recreation areas designated or expanded u
 
 &emsp;&emsp;&emsp;(i) amend existing resource management plans applicable to the off-highway vehicle recreation areas designated or expanded by subsection (a); or
 
-&emsp;&emsp;&emsp;(ii) develop new management plans for each off-highway vehicle recreation area designated or expanded under that subsection.
+&emsp;&emsp;&emsp;(ii) develop new management plans for each off-highway vehicle recreation areadesignated or expanded under that subsection.
 
 #### (B) Requirements
 

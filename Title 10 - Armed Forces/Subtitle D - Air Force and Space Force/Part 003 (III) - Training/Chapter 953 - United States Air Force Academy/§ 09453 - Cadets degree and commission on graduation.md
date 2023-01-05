@@ -4,7 +4,7 @@
 
 (b) Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Air Force or in the equivalent grade in the Regular Space Force under section 531 of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 567, §9353; Pub. L. 85–861, §§1(201), 33(a)(43), Sept. 2, 1958, 72 Stat. 1541, 1567; Pub. L. 96–513, title V, §504(25), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 105–85, div. A, title V, §542(d), Nov. 18, 1997, 111 Stat. 1743; renumbered §9453, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, §923(d)(14), Jan. 1, 2021, 134 Stat. 3815.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 567, §9353; Pub. L. 85–861, §§1(201), 33(a)(43), Sept. 2, 1958, 72 Stat.1541, 1567; Pub. L. 96–513, title V, §504(25), Dec. 12, 1980, 94 Stat. 2917; Pub. L. 105–85, div. A, title V, §542(d), Nov. 18, 1997, 111 Stat. 1743; renumbered §9453, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832; Pub. L. 116–283, div. A, title IX, §923(d)(14), Jan. 1, 2021, 134 Stat. 3815.)
 
 Historical and Revision Notes<br>1956
 

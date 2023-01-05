@@ -14,7 +14,7 @@ The Secretary may, through grants to public and private, nonprofit agencies, pro
 
 #### (1) Not to exceed $6,000,000 in appropriations
 
-&emsp;Of the amount appropriated for a fiscal year to carry out this section (but not to exceed$6,000,000), the Secretary shall distribute funds for grants under subsection (a) as follows:
+&emsp;Of the amount appropriated for a fiscal year to carry out this section (but not to exceed $6,000,000), the Secretary shall distribute funds for grants under subsection (a) as follows:
 
 #### (A) Allotments
 

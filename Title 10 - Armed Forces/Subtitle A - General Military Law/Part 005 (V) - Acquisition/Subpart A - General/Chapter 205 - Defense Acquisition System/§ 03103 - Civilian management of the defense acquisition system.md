@@ -6,7 +6,7 @@ Responsibility of the Under Secretary of Defense for Acquisition and Sustainment
 
 (b)
 
-Responsibility of the Service Acquisition Executives.—Subject to the direction of the Under Secretary of Defense for Acquisition and Sustainment on matters pertaining to acquisition, and subject to the authority, direction, and control of the Secretary of the military department concerned, a service acquisition executive of a military department shall beresponsible for the management of elements of the defense acquisition system in that military department and shall exercise such control of the system and perform such duties as are necessary to ensure the successful and efficient operation of such elements of the defense acquisition system.
+Responsibility of the Service Acquisition Executives.—Subject to the direction of the Under Secretary of Defense for Acquisition and Sustainment on matters pertaining to acquisition, and subject to the authority, direction, and control of the Secretary of the military department concerned, a service acquisition executive of a military department shall be responsible for the management of elements of the defense acquisition system in that military department and shall exercise such control of the system and perform such duties as are necessary to ensure the successful and efficient operation of such elements of the defense acquisition system.
 
 (Added Pub. L. 111–383, div. A, title VIII, §861(a), Jan. 7, 2011, 124 Stat. 4288, §2546; amended Pub. L. 116–92, div. A, title IX, §902(78), Dec. 20, 2019, 133 Stat. 1552; renumbered §3103, Pub. L. 116–283, div. A, title XVIII, §1808(a)(2), Jan. 1, 2021, 134 Stat. 4159.)
 

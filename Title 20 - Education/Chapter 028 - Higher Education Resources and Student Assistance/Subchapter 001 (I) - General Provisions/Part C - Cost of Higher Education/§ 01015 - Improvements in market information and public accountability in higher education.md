@@ -198,7 +198,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 &emsp;&emsp;&emsp;&emsp;(I) a recommendation that students and families should carefully review all of the application requirements prior to applying for any aid or program of student financial assistance; and
 
-&emsp;&emsp;&emsp;&emsp;(II) a disclaimer that the non-Federal programs of student financial assistancepresented in the STEM Database are not provided or endorsed by the Department or the Federal Government.
+&emsp;&emsp;&emsp;&emsp;(II) a disclaimer that the non-Federal programs of student financial assistance presented in the STEM Database are not provided or endorsed by the Department or the Federal Government.
 
 #### (C) Compilation of financial assistance information
 

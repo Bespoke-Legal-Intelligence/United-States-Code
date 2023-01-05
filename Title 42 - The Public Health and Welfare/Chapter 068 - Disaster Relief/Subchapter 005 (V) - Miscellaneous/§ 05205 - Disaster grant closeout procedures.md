@@ -58,7 +58,7 @@ This chapter, referred to in subsecs. (a)(1) and (c), was in the original "this 
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1216(c)(1)(A), substituted "Notwithstanding section 3716(e) of title 31and except" for "Except" and "report for project completion as certified by the grantee" for "report for the disaster or emergency".
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1216(c)(1)(A), substituted "Notwithstanding section 3716(e) of title 31 and except" for "Except" and "report for project completion as certified by the grantee" for "report for the disaster or emergency".
 
 Subsec. (b)(1). Pub. L. 115–254, §1216(c)(1)(B)(i), substituted "report for project completion as certified by the grantee" for "report for the disaster or emergency".
 

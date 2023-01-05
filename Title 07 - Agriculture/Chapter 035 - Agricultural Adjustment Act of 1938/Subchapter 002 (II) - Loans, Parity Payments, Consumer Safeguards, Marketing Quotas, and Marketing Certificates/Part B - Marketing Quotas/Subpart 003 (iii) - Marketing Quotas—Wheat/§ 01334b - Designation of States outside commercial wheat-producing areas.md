@@ -8,13 +8,13 @@ If the acreage allotment for any State for any crop of wheat is twenty-five thou
 
 #### References in Text
 
-The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
-Section effective only with respect to programs applicable to crops planted for harvest in calendar year 1964 or any subsequent year and marketing years beginning in calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as an Effective Date of 1962 Amendment note under section 1301 of this title.
+Section effective only with respect to programs applicable to crops planted for harvest in calendar year 1964 or any subsequent year and marketing years beginningin calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as an Effective Date of 1962 Amendment note under section 1301 of this title.
 
 #### Inapplicability of Section
 

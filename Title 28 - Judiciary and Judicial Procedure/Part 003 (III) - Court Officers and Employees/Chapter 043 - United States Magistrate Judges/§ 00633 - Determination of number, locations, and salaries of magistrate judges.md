@@ -18,7 +18,7 @@ Determination by the Conference.—Upon the completion of the initial surveys re
 
 Changes in Number, Locations, and Salaries.—Except as otherwise provided in this chapter, the conference may, from time to time, in the light of the recommendations of the Director, the district courts, and the councils, change the number, locations, and salaries of full-time and part-time magistrate judges, as the expeditious administration of justice may require.
 
-(June 25, 1948, ch. 646, 62 Stat. 916; Aug. 13, 1954, ch. 728, §1(a), (b), 68 Stat. 704; Pub. L. 85–276, §§1,2, Sept. 2, 1957, 71 Stat. 600; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1111; Pub. L. 96–82, §4, Oct. 10, 1979, 93 Stat. 645; Pub. L. 99–651, title II, §202(d), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 646, 62 Stat. 916; Aug. 13, 1954, ch. 728, §1(a), (b), 68 Stat. 704; Pub. L. 85–276, §§1, 2, Sept. 2, 1957, 71 Stat. 600; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1111; Pub. L. 96–82, §4, Oct. 10, 1979, 93 Stat. 645; Pub. L. 99–651, title II, §202(d), Nov. 14, 1986, 100 Stat. 3648; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### <b>Editorial Notes</b>
 

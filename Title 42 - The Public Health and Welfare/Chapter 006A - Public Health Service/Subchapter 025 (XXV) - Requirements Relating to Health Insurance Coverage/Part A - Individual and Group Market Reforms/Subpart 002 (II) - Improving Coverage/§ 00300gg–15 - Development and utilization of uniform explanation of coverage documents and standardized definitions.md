@@ -34,7 +34,7 @@ The standards for the summary of benefits and coverage developed under subsectio
 
 &emsp;&emsp;(E) the renewability and continuation of coverage provisions;
 
-&emsp;&emsp;(F) a coverage facts label that includes examples to illustrate common benefits scenarios, including pregnancy and serious or chronic medical conditions and related costsharing, such scenarios to be based on recognized clinical practice guidelines;
+&emsp;&emsp;(F) a coverage facts label that includes examples to illustrate common benefits scenarios, including pregnancy and serious or chronic medical conditions and related cost sharing, such scenarios to be based on recognized clinical practice guidelines;
 
 &emsp;&emsp;(G) a statement of whether the plan or coverage—
 

@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [1651\.](%C2%A7%2001651%20-%20Prohibition%20against%20assignment%20or%20transportation%20of%20students%20to%20overcome%20racial%20imbalance.md) | Prohibition against assignment or transportation of students to overcome racial imbalance. |
-| [1652\.](%C2%A7%2001652%20-%20Prohibition%20against%20busing.md) | Prohibition against busing. |
+| [1652\.](%C2%A7%2001652%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93328%2C%20div.%20H%2C%20title%20III%2C%20%C2%A7313%2C%20Dec.%2029%2C%202022%2C%20136%20Stat.%204898.md) | Repealed. |
 | [1653\.](%C2%A7%2001653%20-%20Omitted.md) | Omitted. |
 | [1654\.](%C2%A7%2001654%20-%20Intervention%20authorization%20in%20implementation%20of%20court%20orders.md) | Intervention authorization in implementation of court orders. |
 | [1655\.](%C2%A7%2001655%20-%20Uniform%20rules%20of%20evidence%20of%20racial%20discrimination.md) | Uniform rules of evidence of racial discrimination. |
@@ -17,7 +17,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01651 - Prohibition against assignment or transportation of students to overcome racial imbalance](%C2%A7%2001651%20-%20Prohibition%20against%20assignment%20or%20transportation%20of%20students%20to%20overcome%20racial%20imbalance.md)
-- [&sect; 01652 - Prohibition against busing](%C2%A7%2001652%20-%20Prohibition%20against%20busing.md)
+- [&sect; 01652 - Repealed. Pub. L. 117&#8211;328, div. H, title III, &sect;313, Dec. 29, 2022, 136 Stat. 4898](%C2%A7%2001652%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93328%2C%20div.%20H%2C%20title%20III%2C%20%C2%A7313%2C%20Dec.%2029%2C%202022%2C%20136%20Stat.%204898.md)
 - [&sect; 01653 - Omitted](%C2%A7%2001653%20-%20Omitted.md)
 - [&sect; 01654 - Intervention authorization in implementation of court orders](%C2%A7%2001654%20-%20Intervention%20authorization%20in%20implementation%20of%20court%20orders.md)
 - [&sect; 01655 - Uniform rules of evidence of racial discrimination](%C2%A7%2001655%20-%20Uniform%20rules%20of%20evidence%20of%20racial%20discrimination.md)

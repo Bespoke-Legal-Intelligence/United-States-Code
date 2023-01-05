@@ -52,7 +52,7 @@ Information clearinghouse.—The Secretary shall include, as part of the motor c
 
 &emsp;(2)
 
-Design.—The program shall link Federal motor carrier safety information systems withState commercial vehicle registration and licensing systems and shall be designed to enable a State to—
+Design.—The program shall link Federal motor carrier safety information systems with State commercial vehicle registration and licensing systems and shall be designed to enable a State to—
 
 &emsp;&emsp;(A) determine the safety fitness of a motor carrier or registrant when licensing or registering the registrant or motor carrier or while the license or registration is in effect; and
 
@@ -158,7 +158,7 @@ Subsec. (b)(3)(C). Pub. L. 112–141, §32602, amended subpar. (C) generally. Pr
 
 Subsec. (c). Pub. L. 112–141, §32306, struck out subsec. heading "
 
-Commercial Motor Vehicle Driver SafetyProgram", designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
+Commercial Motor Vehicle Driver Safety Program", designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
 
 Subsec. (e). Pub. L. 112–141, §32508, designated existing provisions as par. (1) and added par. (2).
 

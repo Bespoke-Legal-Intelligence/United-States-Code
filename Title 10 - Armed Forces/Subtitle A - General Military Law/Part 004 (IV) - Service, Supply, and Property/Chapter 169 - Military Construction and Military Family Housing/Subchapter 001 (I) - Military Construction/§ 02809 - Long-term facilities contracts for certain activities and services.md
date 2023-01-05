@@ -34,7 +34,7 @@ Conditions on Obligation of Funds.—A contract entered into for a project pursu
 
 &emsp;(1) A statement that the obligation of the United States to make payments under the contract in any fiscal year is subject to appropriations being provided specifically for that fiscal year and specifically for that project.
 
-&emsp;(2) A commitment to obligate the necessary amount for each fiscal year covered by the contract when and to the extent that funds are appropriated for that project for that fiscal year.
+&emsp;(2) A commitment to obligate the necessary amount for each fiscal year covered by thecontract when and to the extent that funds are appropriated for that project for that fiscal year.
 
 &emsp;(3) A statement that such a commitment given under the authority of this section does not constitute an obligation of the United States.
 

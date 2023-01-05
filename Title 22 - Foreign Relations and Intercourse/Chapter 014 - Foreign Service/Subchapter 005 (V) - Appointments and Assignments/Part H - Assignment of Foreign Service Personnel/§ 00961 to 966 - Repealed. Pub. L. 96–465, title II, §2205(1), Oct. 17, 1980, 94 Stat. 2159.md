@@ -10,7 +10,7 @@ Section 964, act Aug. 13, 1946, ch. 957, title V, §574, 60 Stat. 1012, related 
 
 Section 965, acts Aug. 13, 1946, ch. 957, title V, §575, 60 Stat. 1013; Sept. 8, 1960, Pub. L. 86–723, §15, 74 Stat. 834, related to assignments to foreign governments of officers and employees.
 
-Section 966, act Aug. 13, 1946, ch. 957, title V, §576, as added Oct. 26, 1974, Pub. L. 93–475, §9(a), 88 Stat. 1440;amended Nov. 29, 1975, Pub. L. 94–141, title IV, §401(a), 89 Stat. 763; Oct. 7, 1978, Pub. L. 95–426, title IV, §403(a)(2)–(4), 92 Stat. 978, related to assignments to public or private nonprofit organizations and Members and officers of Congress.
+Section 966, act Aug. 13, 1946, ch. 957, title V, §576, as added Oct. 26, 1974, Pub. L. 93–475, §9(a), 88 Stat. 1440; amended Nov. 29, 1975, Pub. L. 94–141, title IV, §401(a), 89 Stat. 763; Oct. 7, 1978, Pub. L. 95–426, title IV, §403(a)(2)–(4), 92 Stat. 978, related to assignments to public or private nonprofit organizations and Members and officers of Congress.
 
 A prior section 576 of act Aug. 13, 1946, ch. 957, title V, 60 Stat. 1013, which provided for assignments to international organizations, was repealed by Pub. L. 86–723, §52(3), Sept. 8, 1960, 74 Stat. 847.
 

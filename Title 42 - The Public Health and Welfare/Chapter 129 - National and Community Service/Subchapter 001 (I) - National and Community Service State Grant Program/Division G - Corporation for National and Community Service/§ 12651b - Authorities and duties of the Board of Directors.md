@@ -40,7 +40,7 @@ For purposes of the provisions of chapter 11 of part I of title 18, and any othe
 
 &emsp;This subsection shall not be construed—
 
-&emsp;&emsp;(A) to affect any other immunities and protections that may be available to suchmember under applicable law with respect to such transactions;
+&emsp;&emsp;(A) to affect any other immunities and protections that may be available to such member under applicable law with respect to such transactions;
 
 &emsp;&emsp;(B) to affect any other right or remedy against the Corporation, against the United States under applicable law, or against any person other than a member of the Board participating in such transactions; or
 
@@ -60,11 +60,11 @@ The Board shall have responsibility for setting overall policy for the Corporati
 
 &emsp;(5)(A) review, and advise the Chief Executive Officer regarding, the actions of the Chief Executive Officer with respect to the personnel of the Corporation, and with respect to such standards, policies, procedures, programs, and initiatives as are necessary or appropriate to carry out the national service laws;
 
-&emsp;(B) inform the Chief Executive Officer of any aspects of the actions of the Chief Executive Officer that are not in compliance with the annual strategic plan referred to in paragraph (1), the proposals referred to in paragraphs (2) and (3), or the plan referred to in paragraph (4), or are not consistent with the objectives of the national service laws; and
+&emsp;(B) inform the Chief Executive Officer of any aspects of the actions of the Chief Executive Officer that are not in compliance with the annual strategic plan referred to in paragraph\(1), the proposals referred to in paragraphs (2) and (3), or the plan referred to in paragraph (4), or are not consistent with the objectives of the national service laws; and
 
 &emsp;(C) review the performance of the Chief Executive Officer annually and forward a report on that review to the President;
 
-&emsp;(6) receive any report as provided under subsection (b), (c), or (d) of section 8E <sup>1</sup> of the Inspector General Act of 1978;
+&emsp;(6) receive any report as provided under subsection (b), (c), or (d) of section 414 of title 5;
 
 &emsp;(7) make recommendations relating to a program of research for the Corporation with respect to national and community service programs, including service-learning programs;
 
@@ -86,7 +86,7 @@ The Board shall have responsibility for setting overall policy for the Corporati
 
 #### (h) Administration
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Board.
+Chapter 10 of title 5 shall not apply with respect to the Board.
 
 #### (i) Limitation on participation
 
@@ -96,19 +96,19 @@ All employees and officers of the Corporation shall recuse themselves from decis
 
 As part of the agenda of meetings of the Board under subsection (a), the Board shall review projects and programs conducted or funded by the Corporation under the national service laws to improve the coordination between such projects and programs, and the activities of other Federal agencies that deal with the individuals and communities participating in or benefiting from such projects and programs. The ex officio members of the Board specified in section 12651a(a)(3) of this title shall jointly plan, implement, and fund activities in connection with projects and programs conducted under the national service laws to ensure that Federal efforts attempt to address the total needs of participants in such programs and projects, their communities, and the persons and communities the participants serve.
 
-(Pub. L. 101–610, title I, §192A, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), (2), Sept. 21, 1993, 107 Stat. 875, 891; Pub. L. 111–13, title I, §1702, Apr. 21, 2009, 123 Stat. 1544.)
+(Pub. L. 101–610, title I, §192A, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), (2), Sept. 21, 1993, 107 Stat. 875, 891; Pub. L. 111–13, title I, §1702, Apr. 21, 2009, 123 Stat. 1544; Pub. L. 117–286, §4(a)(275), (b)(85), Dec. 27, 2022, 136 Stat. 4336, 4352.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 8E of the Inspector General Act of 1978, referred to in subsec. (g)(6), is section 8E of Pub. L. 95–452,as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(10)(A), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (g)(6). Pub. L. 117–286, §4(b)(85), substituted "section 414 of title 5;" for "section 8E of the Inspector General Act of 1978;".
+
+Subsec. (h). Pub. L. 117–286, §4(a)(275), substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)".
 
 <b>2009</b>—Subsec. (g). Pub. L. 111–13, §1702(1), substituted "shall have responsibility for setting overall policy for the Corporation and shall—" for "shall—" in introductory provisions.
 
@@ -145,6 +145,4 @@ Amendment by section 203(a)(1)(B), (2) of Pub. L. 103–82 effective Apr. 4, 199
 #### Effective Date
 
 Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as a note under section 12651 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

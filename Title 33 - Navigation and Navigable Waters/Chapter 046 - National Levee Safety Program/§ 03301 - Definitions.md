@@ -74,7 +74,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;&emsp;(i) a roadway or railroad embankment that is not integral to the performance of a flood damage reduction system;
 
-&emsp;&emsp;&emsp;(ii) a canal constructed completely within natural ground without any manmade structure (such as an embankment or retaining wall to retain water or a case in which water is retained only by natural ground);
+&emsp;&emsp;&emsp;(ii) a canal constructed completely within natural ground without any manmadestructure (such as an embankment or retaining wall to retain water or a case in which water is retained only by natural ground);
 
 &emsp;&emsp;&emsp;(iii) a canal regulated by a Federal or State agency in a manner that ensures that applicable Federal safety criteria are met;
 
@@ -130,7 +130,13 @@ In this chapter, the following definitions apply:
 
 #### (13) Rehabilitation
 
-&emsp;The term "rehabilitation" means the repair, replacement, reconstruction, removal of a levee, or reconfiguration of a levee system, including a setback levee, that is carried out to reduce flood risk or meet national levee safety guidelines.
+#### (A) In general
+
+&emsp;&emsp;The term "rehabilitation" means the repair, replacement, reconstruction, removal of a levee, or reconfiguration of a levee system, including a setback levee, that is carried out to reduce flood risk, increase resiliency to extreme weather events, or meet national levee safety guidelines.
+
+#### (B) Inclusions
+
+&emsp;&emsp;The term "rehabilitation" includes improvements to a levee in conjunction with any repair, replacement, reconstruction, or reconfiguration.
 
 #### (14) Risk
 
@@ -156,11 +162,13 @@ In this chapter, the following definitions apply:
 
 &emsp;The term "United States", when used in a geographical sense, means all of the States.
 
-(Pub. L. 110–114, title IX, §9002, Nov. 8, 2007, 121 Stat. 1288; Pub. L. 113–121, title III, §3016(b), June 10, 2014, 128 Stat. 1289; Pub. L. 114–322, title I, §1130(a), Dec. 16, 2016, 130 Stat. 1650.)
+(Pub. L. 110–114, title IX, §9002, Nov. 8, 2007, 121 Stat. 1288; Pub. L. 113–121, title III, §3016(b), June 10, 2014, 128 Stat. 1289; Pub. L. 114–322, title I, §1130(a), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 117–263, div. H, title LXXXI, §8387(a), Dec. 23, 2022, 136 Stat. 3830.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Par. (13). Pub. L. 117–263 designated existing provisions as subpar. (A) and inserted heading, inserted ", increase resiliency to extreme weather events," after "flood risk", and added subpar. (B).
 
 <b>2016</b>—Par. (11). Pub. L. 114–322, §1130(a)(1), substituted "State, regional district, or Indian tribe" for "State or Indian tribe".
 
@@ -182,7 +190,7 @@ Pub. L. 110–114, title IX, §9001(a), formerly §9001, Nov. 8, 2007, 121 Stat.
 
 #### Purposes of the Safety Program
 
-Pub. L. 110–114, title IX, §9001(b), as added Pub. L. 113–121, title III, §3016(a)(3), June 10, 2014, 128 Stat. 1289, provided that: "The purposes of this title \[enacting this chapter\] are—
+Pub. L. 110–114, title IX, §9001(b), as added Pub. L. 113–121, title III, §3016(a)(3), June 10, 2014, 128 Stat. 1289,provided that: "The purposes of this title \[enacting this chapter\] are—
 
 &emsp;"(1) to ensure that human lives and property that are protected by new and existing levees are safe;
 

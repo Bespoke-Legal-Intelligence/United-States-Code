@@ -82,7 +82,7 @@ Not later than 2 years after January 1, 2021, the Director shall work to develop
 
 #### (e) Data sharing best practices
 
-Not later than 1 year after January 1, 2021, the Director shall, in collaboration with other public and private sector organizations, develop guidance to facilitate the creation of voluntarydata sharing arrangements between industry, federally funded research centers, and Federal agencies for the purpose of advancing artificial intelligence research and technologies, including options for partnership models between government entities, industry, universities, and nonprofits that incentivize each party to share the data they collected.
+Not later than 1 year after January 1, 2021, the Director shall, in collaboration with other public and private sector organizations, develop guidance to facilitate the creation of voluntary data sharing arrangements between industry, federally funded research centers, and Federal agencies for the purpose of advancing artificial intelligence research and technologies, including options for partnership models between government entities, industry, universities, and nonprofits that incentivize each party to share the data they collected.
 
 #### (f) Best practices for documentation of data sets
 
@@ -102,7 +102,11 @@ Not later than 1 year after January 1, 2021, the Director shall, in collaboratio
 
 &emsp;(2) standards for privacy and security of datasets with human characteristics.
 
-#### (g) Authorization of appropriations
+#### (g) Testbeds
+
+In coordination with other Federal agencies as appropriate, the private sector, and institutions of higher education (as such term is defined in section 1001 of title 20), the Director may establish testbeds, including in virtual environments, to support the development of robust and trustworthy artificial intelligence and machine learning systems, including testbeds that examine the vulnerabilities and conditions that may lead to failure in, malfunction of, or attacks on such systems.
+
+#### (h) Authorization of appropriations
 
 There are authorized to be appropriated to the National Institute of Standards and Technology to carry out this section—
 
@@ -116,13 +120,17 @@ There are authorized to be appropriated to the National Institute of Standards a
 
 &emsp;(5) $93,700,000 for fiscal year 2025.
 
-(Mar. 3, 1901, ch. 872, §22A, as added Pub. L. 116–283, div. E, title LIII, §5301, Jan. 1, 2021, 134 Stat. 4536.)
+(Mar. 3, 1901, ch. 872, §22A, as added Pub. L. 116–283, div. E, title LIII, §5301, Jan. 1, 2021, 134 Stat. 4536; amended Pub. L. 117–167, div. B, title II, §10232(b), Aug. 9, 2022, 136 Stat. 1484.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 This division, referred to in subsec. (b)(5), probably means div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to chapter 119 of this title.
+
+#### Amendments
+
+<b>2022</b>—Subsecs. (g), (h). Pub. L. 117–167 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

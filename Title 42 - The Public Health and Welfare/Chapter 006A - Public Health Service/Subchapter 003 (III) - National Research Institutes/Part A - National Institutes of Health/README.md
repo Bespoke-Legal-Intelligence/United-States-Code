@@ -16,6 +16,7 @@ Part A—National Institutes of Health
 - [&sect; 00283a&#8211;1 - Annual reporting to prevent fraud and abuse](%C2%A7%2000283a%E2%80%931%20-%20Annual%20reporting%20to%20prevent%20fraud%20and%20abuse.md)
 - [&sect; 00283a&#8211;2 - Annual reporting regarding training of graduate students for doctoral degrees](%C2%A7%2000283a%E2%80%932%20-%20Annual%20reporting%20regarding%20training%20of%20graduate%20students%20for%20doctoral%20degrees.md)
 - [&sect; 00283a&#8211;3 - Establishment of program regarding DES](%C2%A7%2000283a%E2%80%933%20-%20Establishment%20of%20program%20regarding%20DES.md)
+- [&sect; 00283a&#8211;4 - Notification to Director of personnel removed or disciplined for harassment, bullying, retaliation, or hostile working conditions](%C2%A7%2000283a%E2%80%934%20-%20Notification%20to%20Director%20of%20personnel%20removed%20or%20disciplined%20for%20harassment%2C%20bullying%2C%20retaliation%2C%20or%20hostile%20working%20conditions.md)
 - [&sect; 00283b - Repealed. Pub. L. 106&#8211;525, title I, &sect;101(b)(2), Nov. 22, 2000, 114 Stat. 2501](%C2%A7%2000283b%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93525%2C%20title%20I%2C%20%C2%A7101%28b%29%282%29%2C%20Nov.%2022%2C%202000%2C%20114%20Stat.%202501.md)
 - [&sect; 00283c - Office of Behavioral and Social Sciences Research](%C2%A7%2000283c%20-%20Office%20of%20Behavioral%20and%20Social%20Sciences%20Research.md)
 - [&sect; 00283d - Children's Vaccine Initiative](%C2%A7%2000283d%20-%20Children%27s%20Vaccine%20Initiative.md)
@@ -31,3 +32,4 @@ Part A—National Institutes of Health
 - [&sect; 00283o - Next generation of researchers](%C2%A7%2000283o%20-%20Next%20generation%20of%20researchers.md)
 - [&sect; 00283p - Population focused research](%C2%A7%2000283p%20-%20Population%20focused%20research.md)
 - [&sect; 00283q - Eureka prize competitions](%C2%A7%2000283q%20-%20Eureka%20prize%20competitions.md)
+- [&sect; 00283r - National Science Advisory Board for Biosecurity](%C2%A7%2000283r%20-%20National%20Science%20Advisory%20Board%20for%20Biosecurity.md)

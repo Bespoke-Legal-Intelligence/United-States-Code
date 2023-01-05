@@ -8,7 +8,7 @@ The Secretary of each military department shall establish a system for tracking,
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383 struck out subsec. (a) designation and heading before "The Secretary" and struckout subsec. (b). Text of subsec. (b) read as follows: "The Secretary of Defense shall consolidate the information recorded under the system described in subsection (a) and shall submit to the Committees on Armed Services of the Senate and the House of Representatives not later than April 1 of each year a report on such information. Each such report shall include a description of—
+<b>2011</b>—Pub. L. 111–383 struck out subsec. (a) designation and heading before "The Secretary" and struck out subsec. (b). Text of subsec. (b) read as follows: "The Secretary of Defense shall consolidate the information recorded under the system described in subsection (a) and shall submit to the Committees on Armed Services of the Senate and the House of Representatives not later than April 1 of each year a report on such information. Each such report shall include a description of—
 
 &emsp;"(1) the number of members separated, categorized by military department, grade, and active-duty or reserve status; and
 

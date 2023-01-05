@@ -18,7 +18,7 @@
 
 &emsp;(7) the plan is in the best interests of creditors and is feasible.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2624; Pub. L. 98–353, title III, §497, July 10, 1984, 98 Stat. 384;Pub. L. 100–597, §10, Nov. 3, 1988, 102 Stat. 3030; Pub. L. 109–8, title XV, §1502(a)(6), Apr. 20, 2005, 119 Stat. 216.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2624; Pub. L. 98–353, title III, §497, July 10, 1984, 98 Stat. 384; Pub. L. 100–597, §10, Nov. 3, 1988, 102 Stat. 3030; Pub. L. 109–8, title XV, §1502(a)(6), Apr. 20, 2005, 119 Stat. 216.)
 
 #### Historical and Revision Notes
 

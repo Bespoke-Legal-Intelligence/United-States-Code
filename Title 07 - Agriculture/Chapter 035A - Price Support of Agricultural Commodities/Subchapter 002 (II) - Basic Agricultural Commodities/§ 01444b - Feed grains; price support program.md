@@ -82,7 +82,7 @@ Subsec. (d). Pub. L. 91–524 redesignated ninth sentence of former subsec. (e) 
 
 Subsec. (e). Pub. L. 91–524 added subsec. (e).
 
-Subsec. (f). Pub. L. 91–524 redesignated last sentence of former subsec. (e) as (f) and substituted "under this section precludes the making of loans, purchases, and payments" and "make such loans, purchases, and payments" for "under this subsection (e) and subsection (e)of this section preclude the making of payments-in-kind" and "make such payments-in-kind".
+Subsec. (f). Pub. L. 91–524 redesignated last sentence of former subsec. (e) as (f) and substituted "under this section precludes the making of loans, purchases, and payments" and "make such loans, purchases, and payments" for "under this subsection (e) and subsection (e) of this section preclude the making of payments-in-kind" and "make such payments-in-kind".
 
 Subsecs. (g) to (i). Pub. L. 91–524 added subsecs. (g) to (i).
 
@@ -108,7 +108,7 @@ Subsec. (e) second sentence. Pub. L. 89–321 incorporated third sentence of for
 
 Subsec. (e) third sentence. Pub. L. 89–321 made payments-in-kind available on maximum permitted acreage and authorized the Secretary to make available the same total amount on a smaller acreage or acreages at a higher rate or rates.
 
-Subsec. (e) fourth sentence. Pub. L. 89–321 incorporated fourth sentence of former subsec. (d) as fourth sentence of subsec. (e), substituted bushel determination provision calling for multiplication of that part of the actual acreage of such feed grain planted on the farm for harvest on which the Secretary made such payments available by the farm projected yield per acre for prior provision calling for such multiplication of actual acreage of such feed grain planted on the farm for harvest by the adjusted average yield per acre, and inserted proviso respecting consideration of soybean as feed grain acreage to such extent and subject to such terms and conditions as Secretary determined would not impair effective operation of price support program and proviso deeming entire feed grains acreage as so planted when 90 per centum of feed grains acreage permitted to be planted has been so planted.
+Subsec. (e) fourth sentence. Pub. L. 89–321 incorporated fourth sentence of former subsec. (d) as fourth sentence of subsec. (e), substituted bushel determination provision calling for multiplication of that part of the actual acreage of such feed grain planted on the farm for harvest on which the Secretary made such payments available by the farm projected yield per acre for prior provision calling for such multiplication of actual acreage of such feed grain planted on the farm for harvest by the adjusted average yield per acre, and inserted proviso respecting consideration of soybean as feed grain acreage to such extent and subject to suchterms and conditions as Secretary determined would not impair effective operation of price support program and proviso deeming entire feed grains acreage as so planted when 90 per centum of feed grains acreage permitted to be planted has been so planted.
 
 Subsec. (e) fifth sentence. Pub. L. 89–321 authorized reduction of that portion of the support price which was made available through loans and purchases for the 1966 through 1969 crops below the loan level for the 1965 crop by such amounts and in such stages as might be necessary to promote increased participation in the feed grain program, taking into account increases in yields, but so as not to disrupt the feed grain and livestock economy, without modifying or affecting Secretary's discretion to maintain or increase total price support levels to cooperators.
 
@@ -172,7 +172,7 @@ Subsec. (c). Pub. L. 87–128, in adding pars. (3) and (4), enacted feed grains 
 
 Pub. L. 87–5, in adding pars. (1) and (2), enacted special feed grains price support program for 1961.
 
-Subsec. (c)(1). Pub. L. 87–5 required establishment of 1961 corn crop price support at such level not less than65 per centum of parity price as Secretary might determine and made corn and grain sorghums price support available on not to exceed the normal production of 1961 acreage of corn and grain sorghums of each eligible farm based on average yield per acre for 1959 and 1960 crop acreage.
+Subsec. (c)(1). Pub. L. 87–5 required establishment of 1961 corn crop price support at such level not less than 65 per centum of parity price as Secretary might determine and made corn and grain sorghums price support available on not to exceed the normal production of 1961 acreage of corn and grain sorghums of each eligible farm based on average yield per acre for 1959 and 1960 crop acreage.
 
 Subsec. (c)(2). Pub. L. 87–5 required as a condition of eligibility for price support on 1961 crop of corn, grain sorghums, and any other feed grain designated by the Secretary, participation of producer in special agricultural conservation program for 1961 for corn and grain sorghums to the extent prescribed by the Secretary.
 
@@ -194,7 +194,7 @@ Pub. L. 91–524, title V, §501, as amended by Pub. L. 93–86, §1(18), Aug. 1
 
 Pub. L. 91–524, title V, §501(a), formerly §501, as renumbered and amended by Pub. L. 93–86, §1(18)(A), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by section 501(a) is effective only with respect to the 1971 through 1977 crops of feed grains.
 
-Pub. L. 91–524, title V, §501(b), as added by Pub. L. 93–86, §1(18)(B), Aug. 10, 1973, 87 Stat. 230, provided that the amendment made by section 501(b) is effective only with respect to the 1974 through 1977 crops of feed grains.
+Pub. L. 91–524, title V, §501(b), as added by Pub. L. 93–86, §1(18)(B), Aug. 10, 1973, 87 Stat. 230, provided thatthe amendment made by section 501(b) is effective only with respect to the 1974 through 1977 crops of feed grains.
 
 #### Effective and Termination Dates of 1970 Amendment
 

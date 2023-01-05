@@ -34,7 +34,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 &emsp;&emsp;(B) is a blind or disabled individual, as defined under section 216(i)(1) or 1614 of the Social Security Act (42 U.S.C. 416(i)(1); 1382c), and who is unable to comply with this section, or is a primary caretaker of such individual;
 
-&emsp;&emsp;(C) is engaged in a work activity (as such term is defined in section 407(d) of the SocialSecurity Act (42 U.S.C. 607(d)), as in effect on and after July 1, 1997)); <sup>1</sup>
+&emsp;&emsp;(C) is engaged in a work activity (as such term is defined in section 407(d) of the Social Security Act (42 U.S.C. 607(d)), as in effect on and after July 1, 1997)); <sup>1</sup>
 
 &emsp;&emsp;(D) meets the requirements for being exempted from having to engage in a work activity under the State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) or under any other welfare program of the State in which the public housing agency is located, including a State-administered welfare-to-work program; or
 
@@ -62,7 +62,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 &emsp;&emsp;&emsp;&emsp;(III) that, unless the resident enters into an agreement under clause (ii) of this subparagraph, the resident's lease will not be renewed; and
 
-&emsp;&emsp;&emsp;(ii) may not renew or extend the resident's lease upon expiration of the lease term and shall take such action as is necessary to terminate the tenancy of the household, unless the agency enters into an agreement, before the expiration of the lease term, with the resident providing for the resident to cure any noncompliance with the requirement under paragraph (1), by participating in an economic self-sufficiency program for or contributing to community service as many additional hours as the resident needs to comply in the aggregate with such requirement over the 12-month term of the lease.
+&emsp;&emsp;&emsp;(ii) may not renew or extend the resident's lease upon expiration of the lease term and shall take such action as is necessary to terminate the tenancy of the household, unless the agency enters into an agreement, before the expiration of thelease term, with the resident providing for the resident to cure any noncompliance with the requirement under paragraph (1), by participating in an economic self-sufficiency program for or contributing to community service as many additional hours as the resident needs to comply in the aggregate with such requirement over the 12-month term of the lease.
 
 #### (4) Ineligibility for occupancy for noncompliance
 
@@ -98,7 +98,7 @@ Subsection (a) and the provisions relating to wages (pursuant to subsection (a))
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding the provisions of section 1437a(a) of this title (relating to family rental contributions) or paragraph (4) or (5) of section 1437a(b) of this title (relating to definition of income and adjusted income), if the welfare or public assistance benefits of a covered family are reduced under a Federal,State, or local law regarding such an assistance program because of any failure of any member of the family to comply with the conditions under the assistance program requiring participation in an economic self-sufficiency program or imposing a work activities requirement, the amount required to be paid by the family as a monthly contribution toward rent may not be decreased, during the period of the reduction, as a result of any decrease in the income of the family (to the extent that the decrease in income is a result of the benefits reduction).
+&emsp;&emsp;Notwithstanding the provisions of section 1437a(a) of this title (relating to family rental contributions) or paragraph (4) or (5) of section 1437a(b) of this title (relating to definition of income and adjusted income), if the welfare or public assistance benefits of a covered family are reduced under a Federal, State, or local law regarding such an assistance program because of any failure of any member of the family to comply with the conditions under the assistance program requiring participation in an economic self-sufficiency program or imposing a work activities requirement, the amount required to be paid by the family as a monthly contribution toward rent may not be decreased, during the period of the reduction, as a result of any decrease in the income of the family (to the extent that the decrease in income is a result of the benefits reduction).
 
 #### (B) No reduction based on time limit for assistance
 
@@ -152,7 +152,7 @@ For purposes of this section, the term "economic self-sufficiency program" means
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(2)(D), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(D), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Subsection (k), referred to in subsec. (c)(3)(C)(i)(II), probably means section 1437d(k) of this title, which relates to administrative grievance procedures. This section does not contain a subsec. (k).
 

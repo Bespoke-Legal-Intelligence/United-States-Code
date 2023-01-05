@@ -7,12 +7,15 @@
 | [3103\.](%C2%A7%2003103%20-%20Use%20of%20reports%2C%20documents%2C%20and%20records.md) | Use of reports, documents, and records. |
 | [3104\.](%C2%A7%2003104%20-%20Survival%20craft.md) | Survival craft. |
 | [3105\.](%C2%A7%2003105%20-%20Electronic%20charts.md) | Electronic charts. |
+| [3106\.](%C2%A7%2003106%20-%20Master%20key%20control%20system.md) | Master key control system. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. K, title CXVI, §11608(b), Dec. 23, 2022, 136 Stat. 4152, added item 3106.
 
 <b>2018</b>—Pub. L. 115–282, title IV, §402(a)(2), Dec. 4, 2018, 132 Stat. 4264, added item 3105.
 
@@ -22,7 +25,7 @@
 
 <b>1988</b>—Pub. L. 100–424, §8(a)(3), Sept. 9, 1988, 102 Stat. 1593, substituted "Immersion" for "Exposure" in item 3102.
 
-<b>1985</b>—Pub. L. 99–36, §2, May 15, 1985, 99 Stat. 68, repealed section 22 of Pub. L. 98–557 and the amendmentsmade by that section, which added first identical item 3102, effective Nov. 8, 1984, thereby leaving Pub. L. 98–623 as the sole authority for the addition of item 3102. See 1984 Amendment note below.
+<b>1985</b>—Pub. L. 99–36, §2, May 15, 1985, 99 Stat. 68, repealed section 22 of Pub. L. 98–557 and the amendments made by that section, which added first identical item 3102, effective Nov. 8, 1984, thereby leaving Pub. L. 98–623 as the sole authority for the addition of item 3102. See 1984 Amendment note below.
 
 <b>1984</b>—Pub. L. 98–557, §22(a)(2), Oct. 30, 1984, 98 Stat. 2871, and Pub. L. 98–623, title VII, §701(a)(2), Nov. 8, 1984, 98 Stat. 3413, added identical item 3102. See 1985 Amendment note above.
 
@@ -36,3 +39,4 @@
 - [&sect; 03103 - Use of reports, documents, and records](%C2%A7%2003103%20-%20Use%20of%20reports%2C%20documents%2C%20and%20records.md)
 - [&sect; 03104 - Survival craft](%C2%A7%2003104%20-%20Survival%20craft.md)
 - [&sect; 03105 - Electronic charts](%C2%A7%2003105%20-%20Electronic%20charts.md)
+- [&sect; 03106 - Master key control system](%C2%A7%2003106%20-%20Master%20key%20control%20system.md)

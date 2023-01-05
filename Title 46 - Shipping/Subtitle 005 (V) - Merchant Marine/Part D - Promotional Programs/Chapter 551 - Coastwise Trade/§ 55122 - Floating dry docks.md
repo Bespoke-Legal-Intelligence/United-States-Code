@@ -14,9 +14,11 @@ In General.—Section 55102 of this title does not apply to the movement of a fl
 
 &emsp;&emsp;&emsp;(ii) an affiliate of such a shipyard; and
 
-&emsp;&emsp;(C) was owned or contracted for purchase by such shipyard or affiliate prior to the date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015; and
+&emsp;&emsp;(C)(i) was owned or contracted for purchase by such shipyard or affiliate prior to the date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015; or
 
-&emsp;(2) the movement occurs within 5 nautical miles of the shipyard or affiliate that owns and operates such floating dry dock.
+&emsp;&emsp;(ii) had a letter of intent for purchase by such shipyard or affiliate signed prior to such date of enactment; and
+
+&emsp;(2) the movement occurs within 5 nautical miles of the shipyard or affiliate that owns and operates such floating dry dock or, in the case of a dry dock described in paragraph (1)(C)(ii), occurs between Honolulu, Hawaii, and Pearl Harbor, Hawaii.
 
 (b)
 
@@ -50,7 +52,7 @@ Notice to congress.—Not later than 30 days after making a determination under 
 
 Definition.—In this section, the term "floating dry dock" means equipment with wing walls and a fully submersible deck.
 
-(Added Pub. L. 113–291, div. C, title XXXV, §3502(a), Dec. 19, 2014, 128 Stat. 3904; amended Pub. L. 114–328, div. C, title XXXV, §3508, Dec. 23, 2016, 130 Stat. 2780.)
+(Added Pub. L. 113–291, div. C, title XXXV, §3502(a), Dec. 19, 2014, 128 Stat. 3904; amended Pub. L. 114–328, div. C, title XXXV, §3508, Dec. 23, 2016, 130 Stat. 2780; Pub. L. 117–263, div. K, title CXV, §11525, Dec. 23, 2022, 136 Stat. 4145.)
 
 #### <b>Editorial Notes</b>
 
@@ -59,6 +61,10 @@ Definition.—In this section, the term "floating dry dock" means equipment with
 The date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015, referred to in subsec. (a)(1)(C), is the date of enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(C). Pub. L. 117–263, §11525(1), designated existing provisions as cl. (i), substituted "2015; or" for "2015; and", and added cl. (ii).
+
+Subsec. (a)(2). Pub. L. 117–263, §11525(2), inserted "or, in the case of a dry dock described in paragraph (1)(C)(ii), occurs between Honolulu, Hawaii, and Pearl Harbor, Hawaii" before period at end.
 
 <b>2016</b>—Subsecs. (b), (c). Pub. L. 114–328 added subsec. (b) and redesignated former subsec. (b) as (c).
 

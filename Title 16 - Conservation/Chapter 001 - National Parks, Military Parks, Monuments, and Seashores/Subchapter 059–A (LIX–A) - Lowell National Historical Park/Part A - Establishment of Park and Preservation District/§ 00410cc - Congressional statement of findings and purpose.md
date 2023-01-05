@@ -4,7 +4,7 @@
 
 &emsp;(1) certain sites and structures in Lowell, Massachusetts, historically and culturally the most significant planned industrial city in the United States, symbolize in physical form the Industrial Revolution;
 
-&emsp;(2) the cultural heritage of many of the ethnic groups that immigrated to the United States during the late nineteenth and early twentieth centuries is still preserved in Lowell's neighborhoods;
+&emsp;(2) the cultural heritage of many of the ethnic groups that immigrated to the United States during the late nineteenth and earlytwentieth centuries is still preserved in Lowell's neighborhoods;
 
 &emsp;(3) a very large proportion of the buildings, other structures, and districts in Lowell date to the period of the Industrial Revolution and are nationally significant historical resources, including the five-and-six-tenths-mile power canal system, seven original mill complexes, and significant examples of early housing, commercial structures, transportation facilities, and buildings associated with labor and social institutions; and
 

@@ -8,11 +8,11 @@ In this chapter:
 
 #### (2) Council
 
-&emsp;The term "Council" means the National Ocean Research Leadership Council established by section 8932 of title 10.
+&emsp;The term "Council" means the National Ocean Research Leadership Council established by section 8932 of title 10.<sup>1</sup>
 
 #### (3) Federal assets
 
-&emsp;The term "Federal assets" means all relevant non-classified civilian coastal and oceanobservations, technologies, and related modeling, research, data management, basic and applied technology research and development, and public education and outreach programs, that are managed by member agencies of the Council.
+&emsp;The term "Federal assets" means all relevant non-classified civilian coastal and ocean observations, technologies, and related modeling, research, data management, basic and applied technology research and development, and public education and outreach programs, that are managed by member agencies of the Council.
 
 #### (4) Interagency Ocean Observation Committee
 
@@ -42,6 +42,10 @@ In this chapter:
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The reference to the National Ocean Research Leadership Council established by section 8932 of title 10, referred to in par. (2), is no longer accurate insofar as section 8932 of title 10 was amended by Pub. L. 116–283 so as to instead refer to the Ocean Policy Committee.
+
 #### Amendments
 
 <b>2020</b>—Par. (2). Pub. L. 116–271, §102(1), substituted "section 8932" for "section 7902".
@@ -51,4 +55,6 @@ Par. (5). Pub. L. 116–271, §102(2), substituted "managed through States, regi
 Par. (6). Pub. L. 116–271, §102(3), amended par. (6) generally. Prior to amendment, par. (6) related to regional information coordination entities.
 
 Par. (7). Pub. L. 116–271, §102(4), substituted "Administrator" for "National Oceanic and Atmospheric Administration".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

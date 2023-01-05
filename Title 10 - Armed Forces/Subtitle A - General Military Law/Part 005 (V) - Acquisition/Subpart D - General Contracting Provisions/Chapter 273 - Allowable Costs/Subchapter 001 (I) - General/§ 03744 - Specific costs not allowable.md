@@ -10,7 +10,7 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(3) Costs incurred in defense of any civil or criminal fraud proceeding or similar proceeding (including filing of any false certification) brought by the United States where the contractor is found liable or has pleaded nolo contendere to a charge of fraud or similar proceeding (including filing of a false certification).
 
-&emsp;(4) Payments of fines and penalties resulting from violations of, or failure to comply with,Federal, State, local, or foreign laws and regulations, except when incurred as a result of compliance with specific terms and conditions of the contract or specific written instructions from the contracting officer authorizing in advance such payments in accordance with applicable provisions of the Federal Acquisition Regulation.
+&emsp;(4) Payments of fines and penalties resulting from violations of, or failure to comply with, Federal, State, local, or foreign laws and regulations, except when incurred as a result of compliance with specific terms and conditions of the contract or specific written instructions from the contracting officer authorizing in advance such payments in accordance with applicable provisions of the Federal Acquisition Regulation.
 
 &emsp;(5) Costs of membership in any social, dining, or country club or organization.
 
@@ -52,7 +52,7 @@ Waiver of Severance Pay Restrictions for Foreign Nationals.—
 
 Head of an agency determination.—Pursuant to the Federal Acquisition Regulation and subject to the availability of appropriations, the head of an agency awarding a covered contract (other than a contract to which subsection (d) applies) may waive the application of the provisions of subsections (a)(13) and (a)(14) to that contract if the head of the agency determines that—
 
-&emsp;&emsp;(A) the application of such provisions to the contract would adversely affect the continuation of a program, project, or activity that provides significant support services for members of the armed forces stationed or deployed outside the United States;
+&emsp;&emsp;(A) the application of such provisions to the contract would adversely affect the continuation of a program, project, or activitythat provides significant support services for members of the armed forces stationed or deployed outside the United States;
 
 &emsp;&emsp;(B) the contractor has taken (or has established plans to take) appropriate actions within the contractor's control to minimize the amount and number of incidents of the payment of severance pay by the contractor to employees under the contract who are foreign nationals; and
 
@@ -64,7 +64,7 @@ Solicitation to include statement about waiver.—The head of an agency shall in
 
 &emsp;&emsp;(A) that a waiver has been granted under paragraph (1) for the contract; or
 
-&emsp;&emsp;(B) whether the head of the agency will consider granting such a waiver, and, if the agency head will consider granting a waiver,the criteria to be used in granting the waiver.
+&emsp;&emsp;(B) whether the head of the agency will consider granting such a waiver, and, if the agency head will consider granting a waiver, the criteria to be used in granting the waiver.
 
 &emsp;(3)
 
@@ -116,7 +116,7 @@ A prior section 3744 was renumbered section 7274 of this title.
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1832(d)(1), transferred subsec. (e) of section 2324 of this title to this section, struck out subsec. (e) designation and heading "Specific Costs Not Allowable" at beginning, and redesignated pars. (1), (3), (4), and (2) as subsecs. (a) to (d), respectively.
+<b>2021</b>—Pub. L. 116–283, §1832(d)(1), transferred subsec. (e) of section 2324 of this title to this section, struckout subsec. (e) designation and heading "Specific Costs Not Allowable" at beginning, and redesignated pars. (1), (3), (4), and (2) as subsecs. (a) to (d), respectively.
 
 Subsec. (a). Pub. L. 116–283, §1832(d)(2)(A), (B), after redesignation of par. (1) of section 2324(e) of this title as subsec. (a) of this section, inserted heading and redesignated subpars. (A) to (Q) as pars. (1) to (17), respectively, including two subpars. (P) both redesignated par. (16).
 
@@ -128,7 +128,7 @@ Subsec. (b). Pub. L. 116–283, §1832(d)(3)(A), (B), after redesignation of par
 
 Subsec. (b)(1). Pub. L. 116–283, §1832(d)(3)(A), (C), inserted heading, substituted "subsection (d)" for "paragraph (2)" and "subsections (a)(13) and (a)(14)" for "paragraphs (1)(M) and (1)(N)" in introductory provisions, and redesignated cls. (i) to (iii) of former section 2324(e)(3)(A) as subpars. (A) to (C), respectively.
 
-Subsec. (b)(2). Pub. L. 116–283, §1832(d)(3)(D), inserted heading, realigned margin, redesignated cls. (i) and (ii)of former section 2324(e)(3)(B) as subpars. (A) and (B), respectively, and, in subpar. (A), substituted "paragraph (1)" for "subparagraph (A)".
+Subsec. (b)(2). Pub. L. 116–283, §1832(d)(3)(D), inserted heading, realigned margin, redesignated cls. (i) and (ii) of former section 2324(e)(3)(B) as subpars. (A) and (B), respectively, and, in subpar. (A), substituted "paragraph (1)" for "subparagraph (A)".
 
 Subsec. (b)(3). Pub. L. 116–283, §1832(d)(3)(E), inserted heading, realigned margin, and substituted "paragraph (1)" for "subparagraph (A)".
 

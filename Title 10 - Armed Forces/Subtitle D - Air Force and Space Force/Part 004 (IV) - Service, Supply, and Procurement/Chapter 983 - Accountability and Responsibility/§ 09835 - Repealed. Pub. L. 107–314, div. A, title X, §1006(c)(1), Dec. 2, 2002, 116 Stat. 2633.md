@@ -1,6 +1,6 @@
 ### \[§9835. Repealed. Pub. L. 107–314, div. A, title X, §1006(c)(1), Dec. 2, 2002, 116 Stat. 2633\]
 
-Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 593, related to action upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability,unsuitability, or destruction of or damage to property of the United States under the control of the Department of the Air Force.
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 593, related to action upon reports of surveys and vouchers pertaining to the loss, spoilage, unserviceability, unsuitability, or destruction of or damage to property of the United States under the control of the Department of the Air Force.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

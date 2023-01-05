@@ -56,11 +56,11 @@ For purposes of this section—
 
 #### (ii) Investment asset
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term "investment asset" means any single asset (other than an investment fund or similar entity)—
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "investment asset" means any single asset\(other than an investment fund or similar entity)—
 
 &emsp;&emsp;&emsp;&emsp;(I) acquired directly by an investment fund or similar entity,
 
-&emsp;&emsp;&emsp;&emsp;(II) with respect to which such entity does not (nor does any person related to such entity) participate in the active management of such asset (or if such asset is an interest in an entity, in theactive management of the activities of such entity), and
+&emsp;&emsp;&emsp;&emsp;(II) with respect to which such entity does not (nor does any person related to such entity) participate in the active management of such asset (or if such asset is an interest in an entity, in the active management of the activities of such entity), and
 
 &emsp;&emsp;&emsp;&emsp;(III) substantially all of any gain on the disposition of which (other than such deferred compensation) is allocated to investors in such entity.
 

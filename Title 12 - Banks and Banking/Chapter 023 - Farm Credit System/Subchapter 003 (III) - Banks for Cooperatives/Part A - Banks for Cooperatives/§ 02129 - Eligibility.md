@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) Any cooperative or other entity described in subsection (b) or (f) of section 2128 of this title.
 
-&emsp;&emsp;(D) Any creditworthy private entity that satisfies the requirements for a service cooperative under paragraphs (1), (2), and (4), or under the last sentence, of subsection (a) and subsidiaries of the entity, if the entity is organized to benefit agriculture in furtherance of the welfare of its farmer-members and is operated on a not-for-profit basis.
+&emsp;&emsp;(D) Any creditworthy private entity that satisfies the requirements for a service cooperative under paragraphs (1), (2), and (4), or under the last sentence, of subsection (a) andsubsidiaries of the entity, if the entity is organized to benefit agriculture in furtherance of the welfare of its farmer-members and is operated on a not-for-profit basis.
 
 &emsp;(2) Notwithstanding the provisions of section 2130 of this title, the board of directors of a bank for cooperatives may determine that, with respect to a loan to any borrower eligible to borrow from a bank under paragraph (1)(A) that is fully guaranteed by the United States, no stock purchase requirement shall apply, other than the requirement that a borrower eligible to own voting stock shall purchase one share of such stock.
 
@@ -36,7 +36,7 @@
 
 #### References in Text
 
-The Rural Electrification Act of 1936, referred to in subsec. (b)(1)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (b)(1)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
 
 #### Amendments
 

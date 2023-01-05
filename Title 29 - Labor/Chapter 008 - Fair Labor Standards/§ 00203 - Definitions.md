@@ -54,11 +54,11 @@ As used in this chapter—
 
 &emsp;(ii) such services are not the same type of services which the individual is employed to perform for such public agency.
 
-(B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteer to perform services for any other State, political subdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
+(B) An employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency may volunteerto perform services for any other State, political subdivision, or interstate governmental agency, including a State, political subdivision or agency with which the employing State, political subdivision, or agency has a mutual aid agreement.
 
 (5) The term "employee" does not include individuals who volunteer their services solely for humanitarian purposes to private non-profit food banks and who receive from the food banks groceries.
 
-(f) "Agriculture" includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvesting of any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 1141j(g) <sup>2</sup> of title12), the raising of livestock, bees, fur-bearing animals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
+(f) "Agriculture" includes farming in all its branches and among other things includes the cultivation and tillage of the soil, dairying, the production, cultivation, growing, and harvesting of any agricultural or horticultural commodities (including commodities defined as agricultural commodities in section 1141j(g) <sup>2</sup> of title 12), the raising of livestock, bees, fur-bearing animals, or poultry, and any practices (including any forestry or lumbering operations) performed by a farmer or on a farm as an incident to or in conjunction with such farming operations, including preparation for market, delivery to storage or to market or to carriers for transportation to market.
 
 (g) "Employ" includes to suffer or permit to work.
 
@@ -82,7 +82,7 @@ As used in this chapter—
 
 > The additional amount on account of tips may not exceed the value of the tips actually received by an employee. The preceding 2 sentences shall not apply with respect to any tipped employee unless such employee has been informed by the employer of the provisions of this subsection, and all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips.
 
-(B) An employer may not keep tips received by its employees for any purposes, including allowing managers or supervisors to keep any portion of employees' tips, regardless of whether or not the employer takes a tip credit.
+(B) An employer may not keep tips received by its employees for any purposes, including allowing managers or supervisors to keep any portionof employees' tips, regardless of whether or not the employer takes a tip credit.
 
 (n) "Resale" shall not include the sale of goods to be used in residential or farm building construction, repair, or maintenance: <i>Provided</i>, That the sale is recognized as a bona fide retail sale in the industry.
 
@@ -132,7 +132,7 @@ As used in this chapter—
 
 &emsp;(2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
 
-(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L.109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. S, title XII, §1201(a), Mar. 23, 2018, 132 Stat. 1148.)
+(June 25, 1938, ch. 676, §3, 52 Stat. 1060; 1946 Reorg. Plan No. 2, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Oct. 26, 1949, ch. 736, §3, 63 Stat. 911; Pub. L. 87–30, §2, May 5, 1961, 75 Stat. 65; Pub. L. 89–601, title I, §§101–103, title II, §215(a), Sept. 23, 1966, 80 Stat. 830–832, 837; Pub. L. 92–318, title IX, §906(b)(2), (3), June 23, 1972, 86 Stat. 375; Pub. L. 93–259, §§6(a), 13(e), Apr. 8, 1974, 88 Stat. 58, 64; Pub. L. 95–151, §§3(a), (b), 9(a)–(c), Nov. 1, 1977, 91 Stat. 1249, 1251; Pub. L. 99–150, §§4(a), 5, Nov. 13, 1985, 99 Stat. 790; Pub. L. 101–157, §§3(a), (d), 5, Nov. 17, 1989, 103 Stat. 938, 939, 941; Pub. L. 104–1, title II, §203(d), Jan. 23, 1995, 109 Stat. 10; Pub. L. 104–188, \[title II\], §2105(b), Aug. 20, 1996, 110 Stat. 1929; Pub. L. 105–221, §2, Aug. 7, 1998, 112 Stat. 1248; Pub. L. 106–151, §1, Dec. 9, 1999, 113 Stat. 1731; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. S, title XII, §1201(a), Mar. 23, 2018, 132 Stat. 1148.)
 
 #### <b>Editorial Notes</b>
 
@@ -190,7 +190,7 @@ Subsec. (m). Pub. L. 93–259, §13(e), substituted in provision respecting wage
 
 Subsec. (r)(3). Pub. L. 93–259, §6(a)(4), added par. (3).
 
-Subsec. (s). Pub. L. 93–259, §6(a)(5), in first sentence substituted preceding par. (1) "or employees handling, selling, or otherwise working on goods or materials" for "including employees handling, selling, or otherwise working on goods" and added par. (5), and inserted third sentence deeming employees of an enterprise which is a public agency to be employees engaged in commerce, or in production of goods for commerce, or employees handling, selling, or otherwise working ongoods or materials that have been moved in or produced for commerce.
+Subsec. (s). Pub. L. 93–259, §6(a)(5), in first sentence substituted preceding par. (1) "or employees handling, selling, or otherwise working on goods or materials" for "including employees handling, selling, or otherwise working on goods" and added par. (5), and inserted third sentence deeming employees of an enterprise which is a public agency to be employees engaged in commerce, or in production of goods for commerce, or employees handling, selling, or otherwise working on goods or materials that have been moved in or produced for commerce.
 
 Subsec. (x). Pub. L. 93–259, §6(a)(6), added subsec. (x).
 
@@ -254,7 +254,7 @@ Pub. L. 95–151, §3(b)(2), Nov. 1, 1977, 91 Stat. 1249, provided that the amen
 
 Pub. L. 95–151, §15(a), (b), Nov. 1, 1977, 91 Stat. 1253, provided that:
 
-"(a) Except as provided in sections 3, 14, and subsection (b) of this section, the amendments made by this Act \[amending sections 206, 208, 213, and 216 of this title and enacting provisions set out as a note under section 204 of this title\] shall take effect January 1, 1978.
+"(a) Except as provided in sections 3, 14, and subsection (b) of this section, the amendments made bythis Act \[amending sections 206, 208, 213, and 216 of this title and enacting provisions set out as a note under section 204 of this title\] shall take effect January 1, 1978.
 
 "(b) The amendments made by sections 8, 9, 11, 12, and 13 \[amending this section and sections 213 and 214 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 1, 1977\]."
 
@@ -268,7 +268,7 @@ Pub. L. 89–601, title VI, §602, Sept. 23, 1966, 80 Stat. 844, provided in par
 
 #### Effective Date of 1961 Amendment
 
-Pub. L. 87–30, §14, May 5, 1961, 75 Stat. 75, provided that: "The amendments made by this Act \[amendingthis section and sections 204 to 208, 212 to 214, 216, and 217 of this title\] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment \[May 5, 1961\], except as otherwise provided in such amendments and except that the authority to promulgate necessary rules, regulations, or orders with regard to amendments made by this Act, under the Fair Labor Standards Act of 1938 and amendments thereto \[this chapter\], including amendments made by this Act, may be exercised by the Secretary on and after the date of enactment of this Act \[May 5, 1961\]."
+Pub. L. 87–30, §14, May 5, 1961, 75 Stat. 75, provided that: "The amendments made by this Act \[amending this section and sections 204 to 208, 212 to 214, 216, and 217 of this title\] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment \[May 5, 1961\], except as otherwise provided in such amendments and except that the authority to promulgate necessary rules, regulations, or orders with regard to amendments made by this Act, under the Fair Labor Standards Act of 1938 and amendments thereto \[this chapter\], including amendments made by this Act, may be exercised by the Secretary on and after the date of enactment of this Act \[May 5, 1961\]."
 
 #### Effective Date of 1949 Amendment
 
@@ -324,7 +324,7 @@ Pub. L. 89–601, title VI, §602, Sept. 23, 1966, 80 Stat. 844, provided in par
 
 #### Transfer of Functions
 
-In subsec. (l), "Secretary of Labor" substituted for "Chief of the Children's Bureau in the Department of Labor" and for "Chief of the Children's Bureau" pursuant to Reorg. Plan No. 2 of 1946, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix to Title 5, Government Organization and Employees, which transferred functions of Children's Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
+In subsec. (l), "Secretary of Labor" substituted for "Chief of the Children's Bureau in the Department of Labor" and for "Chief of the Children's Bureau" pursuant to Reorg. Plan No. 2 of 1946, §1(b), eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, set out in the Appendix to Title 5, Government Organization and Employees,which transferred functions of Children's Bureau and its Chief under sections 201 to 216 and 217 to 219 of this title to Secretary of Labor to be performed under his direction and control by such officers and employees of Department of Labor as he designates.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "in".</i>
 

@@ -68,7 +68,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 #### (6) Detail of Federal employees
 
-&emsp;The Secretary shall detail, without reimbursement, any of the personnel of the Department of Health and Human Services to the Board to assist the Board in carrying out its duties. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
+&emsp;The Secretary shall detail, without reimbursement, any of the personnel of the Department of Health and Human Services to theBoard to assist the Board in carrying out its duties. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
 
 #### (7) Voluntary service
 

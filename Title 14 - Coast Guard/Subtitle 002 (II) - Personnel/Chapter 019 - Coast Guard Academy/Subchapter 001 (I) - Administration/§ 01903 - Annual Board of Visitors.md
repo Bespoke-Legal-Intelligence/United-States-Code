@@ -78,9 +78,9 @@ Advisors.—If approved by the Secretary, the Board may consult with advisors in
 
 (g)
 
-Reimbursement.—Each member of the Board and each adviser consulted by the Board under subsection (f) shall be reimbursed, to theextent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a member or adviser.
+Reimbursement.—Each member of the Board and each adviser consulted by the Board under subsection (f) shall be reimbursed, to the extent permitted by law, by the Coast Guard for actual expenses incurred while engaged in duties as a member or adviser.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 510, §194; Pub. L. 101–595, title III, §304, Nov. 16, 1990, 104 Stat. 2984; Pub. L. 107–295, title IV, §408(a)(1), Nov. 25, 2002, 116 Stat. 2117; Pub. L. 113–281, title II, §211, Dec. 18, 2014, 128 Stat. 3027; renumbered §1903, Pub. L. 115–282, title I, §110(b), Dec. 4, 2018, 132 Stat. 4212; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8277, Jan. 1, 2021, 134 Stat. 4687; Pub. L. 117–81, div. A, title V, §554(d), Dec. 27, 2021, 135 Stat. 1738.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 510, §194; Pub. L. 101–595, title III, §304, Nov. 16, 1990, 104 Stat. 2984; Pub. L. 107–295, title IV, §408(a)(1), Nov. 25, 2002, 116 Stat. 2117; Pub. L. 113–281, title II, §211, Dec. 18, 2014, 128 Stat. 3027; renumbered §1903, Pub. L.115–282, title I, §110(b), Dec. 4, 2018, 132 Stat. 4212; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8277, Jan. 1, 2021, 134 Stat. 4687; Pub. L. 117–81, div. A, title V, §554(d), Dec. 27, 2021, 135 Stat. 1738.)
 
 #### Historical and Revision Notes
 

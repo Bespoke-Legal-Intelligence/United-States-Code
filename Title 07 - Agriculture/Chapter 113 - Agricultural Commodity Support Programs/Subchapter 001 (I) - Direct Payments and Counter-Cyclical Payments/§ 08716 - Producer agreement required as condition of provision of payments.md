@@ -4,7 +4,7 @@
 
 #### (1) Requirements
 
-&emsp;Before the producers on a farm may receive direct payments, counter-cyclical payments, or average crop revenue election payments with respect to the farm, the producers shallagree, during the crop year for which the payments are made and in exchange for the payments—
+&emsp;Before the producers on a farm may receive direct payments, counter-cyclical payments, or average crop revenue election payments with respect to the farm, the producers shall agree, during the crop year for which the payments are made and in exchange for the payments—
 
 &emsp;&emsp;(A) to comply with applicable conservation requirements under subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.);
 
@@ -44,7 +44,7 @@
 
 #### (1) Acreage reports
 
-&emsp;As a condition on the receipt of any benefits under this subchapter or subchapter II, the Secretary shall require producers on a farm to submit to the Secretary annual acreage reports with respect to all cropland on the farm.
+&emsp;As a condition on the receipt of any benefits under this subchapter or subchapter II, theSecretary shall require producers on a farm to submit to the Secretary annual acreage reports with respect to all cropland on the farm.
 
 #### (2) Production reports
 

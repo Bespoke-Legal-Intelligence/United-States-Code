@@ -26,9 +26,11 @@
 
 &emsp;&emsp;&emsp;(iii) the basis of any property which is part of a qualifying advanced coal project under section 48A,
 
-&emsp;&emsp;&emsp;(iv) the basis of any property which is part of a qualifying gasification project under section 48B, and
+&emsp;&emsp;&emsp;(iv) the basis of any property which is part of a qualifying gasification project under section 48B,
 
-&emsp;&emsp;&emsp;(v) the basis of any property which is part of a qualifying advanced energy project under section 48C.
+&emsp;&emsp;&emsp;(v) the basis of any property which is part of a qualifying advanced energy project under section 48C, and
+
+&emsp;&emsp;&emsp;(vi) the basis of any qualified property (as defined in subsection (b)(2) of section 48D) which is part of an advanced manufacturing facility (as defined in subsection (b)(3) of such section).
 
 #### (D) Nonqualified nonrecourse financing
 
@@ -110,7 +112,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, at the close of a taxable year following the taxable year in which the property was placed in service, there is a net decrease in the amount of nonqualified nonrecourse financing with respect to such property, such net decrease shall be taken into account as an increase in the credit base for such property in accordance with subparagraph (C).
+&emsp;&emsp;If, at the close of a taxable year following the taxable year in which the property wasplaced in service, there is a net decrease in the amount of nonqualified nonrecourse financing with respect to such property, such net decrease shall be taken into account as an increase in the credit base for such property in accordance with subparagraph (C).
 
 #### (B) Certain transactions not taken into account
 
@@ -130,7 +132,7 @@
 
 #### (1) In general
 
-&emsp;If, as of the close of the taxable year, there is a net increase with respect to the taxpayer in the amount of nonqualified nonrecourse financing (within the meaning of subsection (a)(1)) with respect to any property to which subsection (a)(1) applied, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in credits allowed under section 38 for all prior taxable years which would have resulted from reducing the credit base (as defined in subsection (a)(1)(C)) taken into account with respect to such property by the amount of such net increase. For purposes of determining the amount of credit subject to the early disposition or cessation rules of section 50(a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base in the yearin which the property was first placed in service.
+&emsp;If, as of the close of the taxable year, there is a net increase with respect to the taxpayer in the amount of nonqualified nonrecourse financing (within the meaning of subsection (a)(1)) with respect to any property to which subsection (a)(1) applied, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in credits allowed under section 38 for all prior taxable years which would have resulted from reducing the credit base (as defined in subsection (a)(1)(C)) taken into account with respect to such property by the amount of such net increase. For purposes of determining the amount of credit subject to the early disposition or cessation rules of section 50(a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base in the year in which the property was first placed in service.
 
 #### (2) Transfers of debt more than 1 year after initial borrowing not treated as increasing nonqualified nonrecourse financing
 
@@ -144,7 +146,23 @@
 
 &emsp;Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
 
-(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796; Pub. L. 109–58, title XIII, §1307(c)(1), Aug. 8, 2005, 119 Stat. 1006; Pub. L. 111–5, div. B, title I, §1302(c)(1), Feb. 17, 2009, 123 Stat. 347; Pub. L. 111–148, title IX, §9023(c)(1), Mar. 23, 2010, 124 Stat. 880; Pub. L. 115–141, div. U, title IV, §401(a)(24), (d)(3)(B)(i), Mar. 23, 2018, 132 Stat. 1185, 1209.)
+(Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796; Pub. L. 109–58, title XIII, §1307(c)(1), Aug. 8, 2005, 119 Stat. 1006; Pub. L. 111–5, div. B, title I, §1302(c)(1), Feb. 17, 2009, 123 Stat. 347; Pub. L. 111–148, title IX, §9023(c)(1), Mar. 23, 2010, 124 Stat. 880; Pub. L. 115–141, div. U, title IV, §401(a)(24), (d)(3)(B)(i), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 117–167, div. A, §107(d)(2), Aug. 9, 2022, 136 Stat. 1398; Pub. L. 117–169, title I, §13702(b)(2), Aug. 16, 2022, 136 Stat. 1997.)
+
+#### Amendment of Subsection (a)(1)(C)
+
+<i>Pub. L. 117–169, title I, §13702(b)(2), (c), Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to property placed in service after Dec. 31, 2024, subsection (a)(1)(C) of this section is amended:</i>
+
+<i>(1) by striking "and" at the end of clause (v),</i>
+
+<i>(2) by striking the period at the end of clause (vi) and inserting a comma, and</i>
+
+<i>(3) by adding at the end the following new clauses:</i>
+
+&emsp;&emsp;&emsp;<i>(vii) the basis of any qualified property which is part of a qualified facility under section 48E, and</i>
+
+&emsp;&emsp;&emsp;<i>(viii) the basis of any energy storage technology under section 48E.</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -157,6 +175,10 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Stat. 660; Pub. L. 92–178, title I, §101(b)(1)–(4), Dec. 10, 1971, 85 Stat. 498, 499, related to termination of rules for computing credit for investment in certain depreciable property for period beginning Apr. 19, 1969, and ending during 1971, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(C)(vi). Pub. L. 117–167 added cl. (vi).
+
+Subsec. (a)(1)(C)(vii), (viii). Pub. L. 117–169 added cls. (vii) and (viii).
 
 <b>2018</b>—Subsec. (a)(1)(C)(vi). Pub. L. 115–141, §401(d)(3)(B)(i), struck out cl. (vi) which read as follows: "the basis of any property to which paragraph (1) of section 48D(e) applies which is part of a qualifying therapeutic discovery project under such section 48D."
 
@@ -190,6 +212,12 @@ Subsec. (d)(1). Pub. L. 100–647, §1002(e)(1), amended par. (1) generally. Pri
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2024, see section 13702(c) of Pub. L. 117–169, set out as an Effective Date note under section 48E of this title.
+
+Amendment by Pub. L. 117–167 applicable to property placed in service after Dec. 31, 2022, and, for any property the construction of which begins prior to Jan. 1, 2023, only to the extent of the basis thereof attributable to the construction, reconstruction, or erection after Aug. 9, 2022, see section 107(f) of Pub. L. 117–167, set out as a note under section 905 of Title 2, The Congress.
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–148 applicable to amounts paid or incurred after Dec. 31, 2008, in taxable years beginning after such date, see section 9023(f) of Pub. L. 111–148, set out as a note under section 46 of this title.
@@ -208,7 +236,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualifiedprogress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -266,7 +294,7 @@ Additional exceptions.—
 
 #### Savings Provision
 
-For provisions that amendment made by section 401(d)(3)(B)(i) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of section 48D(e)(1) of this title, see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under section 48D of this title.
+Pub. L. 115–141, div. U, title IV, §401(d)(3)(C), Mar. 23, 2018, 132 Stat. 1209, provided that: "In the case of the repeal of section 48D(e)(1) of the Internal Revenue Code of 1986, the amendments made by this paragraph \[amending this section and sections 50 and 280C of this title and repealing former section 48D of this title\] shall not apply to expenditures made in taxable years beginning before January 1, 2011."
 
 For provisions that nothing in amendment by section 401(d)(3)(B)(i) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

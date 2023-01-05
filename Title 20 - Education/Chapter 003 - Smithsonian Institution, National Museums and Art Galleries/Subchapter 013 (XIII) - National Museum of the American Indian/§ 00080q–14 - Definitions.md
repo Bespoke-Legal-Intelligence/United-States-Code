@@ -6,7 +6,7 @@ As used in this subchapter—
 
 &emsp;(2) the term "Board of Trustees" means the Board of Trustees of the National Museum of the American Indian;
 
-&emsp;(3) the term "burial site" means a natural or prepared physical location, whether below, on, or above the surface of the earth, into which,as a part of a death rite or ceremony of a culture, individual human remains are deposited;
+&emsp;(3) the term "burial site" means a natural or prepared physical location, whether below, on, or above the surface of the earth, into which, as a part of a death rite or ceremony of a culture, individual human remains are deposited;
 
 &emsp;(4) the term "funerary object" means an object that, as part of a death rite or ceremony of a culture, is intentionally placed with individual human remains, either at the time of burial or later;
 

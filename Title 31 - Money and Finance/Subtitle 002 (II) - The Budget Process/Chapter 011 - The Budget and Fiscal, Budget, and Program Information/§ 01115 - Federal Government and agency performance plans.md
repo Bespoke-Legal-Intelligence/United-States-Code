@@ -38,21 +38,23 @@ Agency Performance Plans.—Not later than the first Monday in February of each 
 
 &emsp;(5) provide a description of how the performance goals are to be achieved, including—
 
-&emsp;&emsp;(A) the operation processes, training, skills and technology, and the human, capital, information, and other resources and strategies required to meet those performance goals;
+&emsp;&emsp;(A) the human capital, training, data and evidence, information technology, and skill sets required to meet the performance goals;
 
-&emsp;&emsp;(B) clearly defined milestones;
+&emsp;&emsp;(B) the technology modernization investments, system upgrades, staff technology skills and expertise, stakeholder input and feedback, and other resources and strategies needed and required to meet the performance goals;
 
-&emsp;&emsp;(C) an identification of the organizations, program activities, regulations, policies, and other activities that contribute to each performance goal, both within and external to the agency;
+&emsp;&emsp;(C) clearly defined milestones;
 
-&emsp;&emsp;(D) a description of how the agency is working with other agencies to achieve its performance goals as well as relevant Federal Government performance goals; and
+&emsp;&emsp;(D) an identification of the organizations, program activities, regulations, policies, operational processes, and other activities that contribute to each performance goal, both within and external to the agency;
 
-&emsp;&emsp;(E) an identification of the agency officials responsible for the achievement of each performance goal, who shall be known as goal leaders;
+&emsp;&emsp;(E) a description of how the agency is working with other agencies and the organizations identified in subparagraph (D) to measure and achieve its performance goals as well as relevant Federal Government performance goals; and
+
+&emsp;&emsp;(F) an identification of the agency officials responsible for the achievement of each performance goal, who shall be known as goal leaders;
 
 &emsp;(6) establish a balanced set of performance indicators to be used in measuring or assessing progress toward each performance goal, including, as appropriate, customer service, efficiency, output, and outcome indicators;
 
 &emsp;(7) provide a basis for comparing actual program results with the established performance goals;
 
-&emsp;(8) a description of how the agency will ensure the accuracy and reliability of the dataused to measure progress towards its performance goals, including an identification of—
+&emsp;(8) a description of how the agency will ensure the accuracy and reliability of the data used to measure progress towards its performance goals, including an identification of—
 
 &emsp;&emsp;(A) the means to be used to verify and validate measured values;
 
@@ -106,7 +108,7 @@ Inherently Governmental Functions.—The functions and activities of this sectio
 
 (g)
 
-Chief Human Capital Officers.—With respect to each agency with a Chief Human Capital Officer, the Chief Human Capital Officer shall prepare that portion of the annual performance plan described under subsection (b)(5)(A).
+Preparation of Performance Plan.—The Performance Improvement Officer of each agency (or the functional equivalent) shall collaborate with the Chief Human Capital Officer (or the functional equivalent), the Chief Information Officer (or the functional equivalent), the Chief Data Officer (or the functional equivalent), and the Chief Financial Officer (or the functional equivalent) of that agency to prepare that portion of the annual performance plan described under subsection (b)(5) for that agency.
 
 (h)
 
@@ -128,7 +130,7 @@ Definitions.—For purposes of this section and sections 1116 through 1125, and 
 
 &emsp;(8) "output measure" means the tabulation, calculation, or recording of activity or effort that can be expressed in a quantitative or qualitative manner;
 
-&emsp;(9) "performance goal" means a target level of performance expressed as a tangible, measurable objective, against which actual achievement can be compared, including a goal expressed as a quantitative standard, value, or rate;
+&emsp;(9) "performance goal" means a target level of performance expressed as a tangible, measurable objective, against which actual achievement can be compared, including agoal expressed as a quantitative standard, value, or rate;
 
 &emsp;(10) "performance indicator" means a particular value or characteristic used to measure output or outcome;
 
@@ -136,7 +138,7 @@ Definitions.—For purposes of this section and sections 1116 through 1125, and 
 
 &emsp;(12) "program evaluation" means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
 
-(Added Pub. L. 111–352, §3, Jan. 4, 2011, 124 Stat. 3867; amended Pub. L. 116–283, div. H, title XCVI, §9601(c)(2)(A), Jan. 1, 2021, 134 Stat. 4827.)
+(Added Pub. L. 111–352, §3, Jan. 4, 2011, 124 Stat. 3867; amended Pub. L. 116–283, div. H, title XCVI, §9601(c)(2)(A), Jan. 1, 2021, 134 Stat. 4827; Pub. L. 117–263, div. E, title LIII, §5303(b), Dec. 23, 2022, 136 Stat. 3250.)
 
 #### <b>Editorial Notes</b>
 
@@ -145,6 +147,10 @@ Definitions.—For purposes of this section and sections 1116 through 1125, and 
 A prior section 1115, added Pub. L. 103–62, §4(b), Aug. 3, 1993, 107 Stat. 287; amended Pub. L. 107–296, title XIII, §1311(a), Nov. 25, 2002, 116 Stat. 2289; Pub. L. 108–136, div. A, title XIV, §1421(b), Nov. 24, 2003, 117 Stat. 1667, related to performance plans, prior to repeal by Pub. L. 111–352, §3, Jan. 4, 2011, 124 Stat. 3867.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(5). Pub. L. 117–263, §5303(b)(1), amended par. (5) generally. Prior to amendment, par. (5) provided standards for a description of how the performance goals were to be achieved.
+
+Subsec. (g). Pub. L. 117–263, §5303(b)(2), amended subsec. (g) generally. Prior to amendment, subsec. (g) required the Chief Human Capital Officer to prepare the portion of the annual performance plan described under subsec. (b)(5)(A).
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "a website described in" for "the website provided under" in introductory provisions.
 
@@ -276,7 +282,7 @@ Reports.—The Comptroller General shall submit to Congress—
 
 &emsp;&emsp;"(D)
 
-Recommendations.—The Comptroller General shall include in the reports required by subparagraphs (B) and (C) any recommendations forimproving implementation of this Act and for streamlining the planning and reporting requirements of the Government Performance and Results Act of 1993 \[Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285; see Short Title of 1993 Amendment note set out under section 1101 of this title\]."
+Recommendations.—The Comptroller General shall include in the reports required by subparagraphs (B) and (C) any recommendations for improving implementation of this Act and for streamlining the planning and reporting requirements of the Government Performance and Results Act of 1993 \[Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285; see Short Title of 1993 Amendment note set out under section 1101 of this title\]."
 
 #### Strategic Planning and Performance Measurement Training
 
@@ -350,7 +356,7 @@ Sec. 5. <i>Duties of Agency Performance Improvement Officers</i>. Subject to the
 
 (A) sufficiently aggressive toward full achievement of the purposes of the program; and
 
-(B) realistic in light of authority and resources assigned to the specified agency personnel referred to in section 3(a)(ii)(A) of this order with respect to that program; and
+(B) realistic in light of authority and resources assigned to the specified agency personnel referred to insection 3(a)(ii)(A) of this order with respect to that program; and
 
 (ii) means for measurement of progress toward achievement of the goals are sufficiently rigorous and accurate;
 
@@ -374,7 +380,7 @@ Sec. 6. <i>Establishment and Operation of Performance Improvement Council</i>. (
 
 (iii) such other full-time or permanent part-time employees of an agency, as determined by the Chair with the concurrence of the head of the agency concerned.
 
-(c) The Chair or the Chair's designee, in implementing subsection (d) of this section, shall conveneand preside at the meetings of the Council, determine its agenda, direct its work, and establish and direct subgroups of the Council, as appropriate to deal with particular subject matters, that shall consist exclusively of members of the Council.
+(c) The Chair or the Chair's designee, in implementing subsection (d) of this section, shall convene and preside at the meetings of the Council, determine its agenda, direct its work, and establish and direct subgroups of the Council, as appropriate to deal with particular subject matters, that shall consist exclusively of members of the Council.
 
 (d) To assist in implementing the policy set forth in section 1 of this order, the Council shall:
 

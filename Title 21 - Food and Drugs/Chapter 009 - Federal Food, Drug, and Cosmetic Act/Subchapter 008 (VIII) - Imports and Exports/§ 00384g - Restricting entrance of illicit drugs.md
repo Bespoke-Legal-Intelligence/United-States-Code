@@ -26,5 +26,5 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1), is act 
 
 #### Codification
 
-Section was enacted as part of the Stop Counterfeit Drugs by Regulating and Enhancing Enforcement NowAct, also known as the SCREEN Act, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+Section was enacted as part of the Stop Counterfeit Drugs by Regulating and Enhancing Enforcement Now Act, also known as the SCREEN Act, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 

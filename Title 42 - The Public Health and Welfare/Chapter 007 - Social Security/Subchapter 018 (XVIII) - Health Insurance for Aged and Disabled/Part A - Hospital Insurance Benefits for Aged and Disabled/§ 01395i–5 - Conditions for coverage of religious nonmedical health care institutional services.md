@@ -46,9 +46,11 @@ Subject to subsections (c) and (d), payment under this part may be made for inpa
 
 &emsp;&emsp;The term "excepted medical treatment" means medical care or treatment (including medical and other health services)—
 
-&emsp;&emsp;&emsp;(i) received involuntarily, or
+&emsp;&emsp;&emsp;(i) received involuntarily,
 
-&emsp;&emsp;&emsp;(ii) required under Federal or State law or law of a political subdivision of a State.
+&emsp;&emsp;&emsp;(ii) required under Federal or State law or law of a political subdivision of a State, or
+
+&emsp;&emsp;&emsp;(iii) effective beginning on December 29, 2022, that is a COVID–19 vaccine and its administration described in section 1395x(s)(10)(A) of this title.
 
 #### (B) Nonexcepted medical treatment
 
@@ -104,7 +106,7 @@ Subject to subsections (c) and (d), payment under this part may be made for inpa
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the Secretary determines that such level for a fiscal year exceeded, or was less than, the trigger level for that fiscal year, then, subject to clause (ii), the trigger level for the succeeding fiscal year shall be reduced, or increased, respectively, by the amount of such excess or deficit.
+&emsp;&emsp;&emsp;If the Secretary determines that such level for a fiscal year exceeded, or was lessthan, the trigger level for that fiscal year, then, subject to clause (ii), the trigger level for the succeeding fiscal year shall be reduced, or increased, respectively, by the amount of such excess or deficit.
 
 #### (ii) Limitation on carryforward
 
@@ -116,7 +118,7 @@ If the Secretary determines that the level of expenditures described in subsecti
 
 #### (e) Annual report
 
-At the beginning of each fiscal year (beginning with fiscal year 1999), the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on coverage and expenditures for services described in subsection (a) under this part and under Stateplans under subchapter XIX. Such report shall include—
+At the beginning of each fiscal year (beginning with fiscal year 1999), the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate an annual report on coverage and expenditures for services described in subsection (a) under this part and under State plans under subchapter XIX. Such report shall include—
 
 &emsp;(1) level of expenditures described in subsection (c)(1) for the previous fiscal year and estimated for the fiscal year involved;
 
@@ -124,11 +126,13 @@ At the beginning of each fiscal year (beginning with fiscal year 1999), the Secr
 
 &emsp;(3) facts and circumstances of any significant change in such level from the level in previous fiscal years.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1821, as added Pub. L. 105–33, title IV, §4454(a)(2), Aug. 5, 1997, 111 Stat. 428; amended Pub. L. 108–173, title VII, §706(a), Dec. 8, 2003, 117 Stat. 2339.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1821, as added Pub. L. 105–33, title IV, §4454(a)(2), Aug. 5, 1997, 111 Stat. 428; amended Pub. L. 108–173, title VII, §706(a), Dec. 8, 2003, 117 Stat. 2339; Pub. L. 117–328, div. FF, title IV, §4138(a), Dec. 29, 2022, 136 Stat. 5925.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(5)(A)(iii). Pub. L. 117–328 added cl. (iii).
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–173, §706(a)(1), inserted "and for home health services furnished an individual by a religious nonmedical health care institution" after "religious nonmedical health care institution" in introductory provisions.
 
@@ -139,4 +143,12 @@ Subsec. (a)(2). Pub. L. 108–173, §706(a)(2), substituted ", extended care se
 #### Effective Date
 
 Pub. L. 105–33, title IV, §4454(d), Aug. 5, 1997, 111 Stat. 431, provided that: "The amendments made by this section \[enacting this section and amending sections 1320a–1, 1320c–11, 1395x, 1396a, and 1396g of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\] and shall apply to items and services furnished on or after such date. By not later than July 1, 1998, the Secretary of Health and Human Services shall first issue regulations to carry out such amendments. Such regulations may be issued so they are effective on an interim basis pending notice and opportunity for public comment. For periods before the effective date of such regulations, such regulations shall recognize elections entered into in good faith in order to comply with the requirements of section 1821(b) of the Social Security Act \[42 U.S.C. 1395i–5(b)\]."
+
+#### Special Rules for COVID–19 Vaccines Relating to Revocation of Election
+
+Pub. L. 117–328, div. FF, title IV, §4138(b), Dec. 29, 2022, 136 Stat. 5925, provided that: "Notwithstanding paragraphs (3) and (4) of section 1821(b) of the Social Security Act (42 U.S.C. 1395i–5(b)), in the case of an individual with a revocation of an election under such section prior to the date of enactment of this Act \[Dec. 29, 2022\] by reason of receiving a COVID–19 vaccine and its administration described in section 1861(s)(10)(A) of such Act (42 U.S.C. 1395x(s)(10)(A)), the following rules shall apply:
+
+&emsp;"(1) Beginning on such date of enactment, such individual may make an election under such section, which shall take effect immediately upon its execution, if such individual would be eligible to make such an election if they had not received such COVID–19 vaccine and its administration.
+
+&emsp;"(2) Such revoked election shall not be taken into account for purposes of determining the effective date for an election described in subparagraph (A) or (B) of such paragraph (4)."
 

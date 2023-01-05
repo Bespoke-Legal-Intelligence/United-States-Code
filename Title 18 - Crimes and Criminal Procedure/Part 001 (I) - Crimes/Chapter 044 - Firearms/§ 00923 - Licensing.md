@@ -40,7 +40,7 @@
 
 &emsp;(F) the applicant certifies that—
 
-&emsp;&emsp;(i) the business to be conducted under the license is not prohibited by State or locallaw in the place where the licensed premise is located;
+&emsp;&emsp;(i) the business to be conducted under the license is not prohibited by State or local law in the place where the licensed premise is located;
 
 &emsp;&emsp;(ii)(I) within 30 days after the application is approved the business will comply with the requirements of State and local law applicable to the conduct of the business; and
 
@@ -50,7 +50,7 @@
 
 &emsp;(G) in the case of an application to be licensed as a dealer, the applicant certifies that secure gun storage or safety devices will be available at any place in which firearms are sold under the license to persons who are not licensees (subject to the exception that in any case in which a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered to be in violation of the requirement under this subparagraph to make available such a device).
 
-(2) The Attorney General must approve or deny an application for a license within the 60-day period beginning on the date it is received. If the Attorney General fails to act within such period, the applicant may file an action under section 1361 of title 28 to compel the Attorney General to act. If the Attorney General approves an applicant's application, such applicant shall be issued a license upon the payment of the prescribed fee.
+(2) The Attorney General must approve or deny an application for a license within the 60-day period beginning on the date it is received. If the Attorney General fails to act within suchperiod, the applicant may file an action under section 1361 of title 28 to compel the Attorney General to act. If the Attorney General approves an applicant's application, such applicant shall be issued a license upon the payment of the prescribed fee.
 
 (e) The Attorney General may, after notice and opportunity for hearing, revoke any license issued under this section if the holder of such license has willfully violated any provision of this chapter or any rule or regulation prescribed by the Attorney General under this chapter or fails to have secure gun storage or safety devices available at any place in which firearms are sold under the license to persons who are not licensees (except that in any case in which a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered to be in violation of the requirement to make available such a device). The Attorney General may, after notice and opportunity for hearing, revoke the license of a dealer who willfully transfers armor piercing ammunition. The Secretary's <sup>1</sup> action under this subsection may be reviewed only as provided in subsection (f) of this section.
 
@@ -62,7 +62,7 @@
 
 (4) If criminal proceedings are instituted against a licensee alleging any violation of this chapter or of rules or regulations prescribed under this chapter, and the licensee is acquitted of such charges, or such proceedings are terminated, other than upon motion of the Government before trial upon such charges, the Attorney General shall be absolutely barred from denying or revoking any license granted under this chapter where such denial or revocation is based in whole or in part on the facts which form the basis of such criminal charges. No proceedings for the revocation of a license shall be instituted by the Attorney General more than one year after the filing of the indictment or information.
 
-(g)(1)(A) Each licensed importer, licensed manufacturer, and licensed dealer shall maintain such records of importation, production, shipment, receipt, sale, or other disposition of firearms at his place of business for such period, and in such form, as the Attorney General may by regulations prescribe. Such importers, manufacturers, and dealers shall not be required to submit to the Attorney General reports and information with respect to such records and the contents thereof, except as expressly required by this section. The Attorney General, when he has reasonable cause to believe a violation of this chapter has occurred and that evidence thereof may be found on such premises, may, upon demonstrating such cause before a Federal magistrate judge and securing from such magistrate judge a warrant authorizing entry, enter during business hours the premises (including places ofstorage) of any licensed firearms importer, licensed manufacturer, licensed dealer, licensed collector, or any licensed importer or manufacturer of ammunition, for the purpose of inspecting or examining—
+(g)(1)(A) Each licensed importer, licensed manufacturer, and licensed dealer shall maintain such records of importation, production, shipment, receipt, sale, or other disposition of firearms at his place of business for such period, and in such form, as the Attorney General may by regulations prescribe. Such importers, manufacturers, and dealers shall not be required to submit to the Attorney General reports and information with respect to such records and the contents thereof, except as expressly required by this section. The Attorney General, when he has reasonable cause to believe a violation of this chapter has occurred and that evidence thereof may be found on such premises, may, upon demonstrating such cause before a Federal magistrate judge and securing from such magistrate judge a warrant authorizing entry, enter during business hours the premises (including places of storage) of any licensed firearms importer, licensed manufacturer, licensed dealer, licensed collector, or any licensed importer or manufacturer of ammunition, for the purpose of inspecting or examining—
 
 &emsp;(i) any records or documents required to be kept by such licensed importer, licensed manufacturer, licensed dealer, or licensed collector under this chapter or rules or regulations under this chapter, and
 
@@ -96,7 +96,7 @@
 
 (4) Where a firearms or ammunition business is discontinued and succeeded by a new licensee, the records required to be kept by this chapter shall appropriately reflect such facts and shall be delivered to the successor. Where discontinuance of the business is absolute, such records shall be delivered within thirty days after the business discontinuance to the Attorney General. However, where State law or local ordinance requires the delivery of records to other responsible authority, the Attorney General may arrange for the delivery of such records to such other responsible authority.
 
-(5)(A) Each licensee shall, when required by letter issued by the Attorney General, and until notified to the contrary in writing by the Attorney General, submit on a form specified by the Attorney General, for periods and at the times specified in such letter, all record informationrequired to be kept by this chapter or such lesser record information as the Attorney General in such letter may specify.
+(5)(A) Each licensee shall, when required by letter issued by the Attorney General, and until notified to the contrary in writing by the Attorney General, submit on a form specified by the Attorney General, for periods and at the times specified in such letter, all record information required to be kept by this chapter or such lesser record information as the Attorney General in such letter may specify.
 
 (B) The Attorney General may authorize such record information to be submitted in a manner other than that prescribed in subparagraph (A) of this paragraph when it is shown by a licensee that an alternate method of reporting is reasonably necessary and will not unduly hinder the effective administration of this chapter. A licensee may use an alternate method of reporting if the licensee describes the proposed alternate method of reporting and the need therefor in a letter application submitted to the Attorney General, and the Attorney General approves such alternate method of reporting.
 
@@ -202,7 +202,7 @@ Subsec. (e). Pub. L. 99–408, §6, inserted provisions relating to licenses of 
 
 Pub. L. 99–308, §103(5), inserted "willfully" before "violated".
 
-Subsec. (f)(3). Pub. L. 99–308, §103(6)(A), inserted "de novo" before "judicial review" in second sentence and "whether or not such evidence was considered at thehearing held under paragraph (2)." after "to the proceeding" in third sentence.
+Subsec. (f)(3). Pub. L. 99–308, §103(6)(A), inserted "de novo" before "judicial review" in second sentence and "whether or not such evidence was considered at the hearing held under paragraph (2)." after "to the proceeding" in third sentence.
 
 Subsec. (f)(4). Pub. L. 99–308, §103(6)(B), added par. (4).
 
@@ -212,7 +212,7 @@ Subsec. (j). Pub. L. 99–308, §103(8), amended subsec. (j) generally. Prior to
 
 Subsec. (k). Pub. L. 99–408, §7, added subsec. (k).
 
-<b>1982</b>—Subsec. (g). Pub. L. 97–377 inserted "except .22 caliber rimfire ammunition" after "and ammunition". The amendment by Pub. L. 97–377, which purported to amend subsec. (9), was executed instead to subsec. (g) as the probable intent of Congress because this section does not contain a subsec. (9).
+<b>1982</b>—Subsec. (g). Pub. L. 97–377 inserted "except .22 caliber rimfire ammunition" after "and ammunition". The amendment by Pub. L. 97–377, which purported toamend subsec. (9), was executed instead to subsec. (g) as the probable intent of Congress because this section does not contain a subsec. (9).
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–618 struck out "be required to" after "Each applicant shall".
 
@@ -298,7 +298,7 @@ Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in par
 
 #### Funding for Bureau Not Authorized To Deny License Applications or Renewals Due to Lack of Business Activity
 
-Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in part: "That, in the current fiscal year and any fiscal year thereafter, no funds authorized or made available under this or any other Act may be used to deny any application for a license under section 923 of title 18, United States Code, or renewal of such a license due to a lack of business activity, provided that the applicant is otherwise eligible to receive such a license, and is eligible to report business income or to claim an income tax deduction for business expenses under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]."
+Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in part: "That, in the current fiscal year and any fiscal year thereafter, no funds authorized or made available under this or any other Act may be used to deny any application for a license under section 923 of title 18, United States Code, or renewal of sucha license due to a lack of business activity, provided that the applicant is otherwise eligible to receive such a license, and is eligible to report business income or to claim an income tax deduction for business expenses under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]."
 
 #### Tracing Studies Disclaimer
 

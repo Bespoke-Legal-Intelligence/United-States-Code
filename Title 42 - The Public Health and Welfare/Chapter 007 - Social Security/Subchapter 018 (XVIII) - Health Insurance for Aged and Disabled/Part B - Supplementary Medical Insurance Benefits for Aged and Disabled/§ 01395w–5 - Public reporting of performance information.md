@@ -8,7 +8,7 @@
 
 #### (2) Plan
 
-&emsp;Not later than January 1, 2013, and with respect to reporting periods that begin no earlier than January 1, 2012, the Secretary shall also implement a plan for making publicly available through Physician Compare, consistent with subsection (c), information on physician performance that provides comparable information for the public on quality and patient experience measures with respect to physicians enrolled in the Medicare program under such section 1866(j). To the extent scientifically sound measures that are developed consistent with the requirements of this section are available, such information, to the extent practicable, shall include—
+&emsp;Not later than January 1, 2013, and with respect to reporting periods that begin no earlier than January 1, 2012, the Secretary shall also implement a plan for making publicly available through Physician Compare, consistent with subsection (c), information on physician performance that provides comparable information for the public on qualityand patient experience measures with respect to physicians enrolled in the Medicare program under such section 1866(j). To the extent scientifically sound measures that are developed consistent with the requirements of this section are available, such information, to the extent practicable, shall include—
 
 &emsp;&emsp;(A) measures collected under the Physician Quality Reporting Initiative;
 
@@ -72,7 +72,7 @@ In this section:
 
 #### (1) Eligible professional
 
-&emsp;The term "eligible professional" has the meaning given that term for purposes of the Physician Quality Reporting Initiative under section 1848 of the Social Security Act (42 U.S.C. 1395w–4).
+&emsp;The term "eligible professional" has the meaning given that term for purposes of thePhysician Quality Reporting Initiative under section 1848 of the Social Security Act (42 U.S.C. 1395w–4).
 
 #### (2) Physician
 

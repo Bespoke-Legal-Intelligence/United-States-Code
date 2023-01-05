@@ -64,7 +64,7 @@ The Metropolitan Washington Airports Amendments Act of 1996, referred to in subs
 
 Section 49108 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 112–95, title I, §150, Feb. 14, 2012, 126 Stat. 32.
 
-Section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (b)(2), is section 6007(f)(4) of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–379, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–382, which related to a Board of Review and was classified to section 2456(f)(4) of former Title 49, Transportation. Subsec. (f) of section 6007 was repealed and subsec. (g) redesignated (f) by Pub. L. 104–264, title IX, §904(a), Oct. 9, 1996, 110 Stat. 3276. Section 6007 was subsequently repealed and reenacted as section 49106 of Title 49, Transportation, by Pub. L. 105–102, §§2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217, and does not contain provisions relating to a Board of Review.
+Section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (b)(2), is section 6007(f)(4) of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–379, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–382, which related to a Board of Review and was classified to section 2456(f)(4) of former Title 49, Transportation. Subsec. (f) of section 6007 was repealed and subsec. (g) redesignated (f) by Pub. L.104–264, title IX, §904(a), Oct. 9, 1996, 110 Stat. 3276. Section 6007 was subsequently repealed and reenacted as section 49106 of Title 49, Transportation, by Pub. L. 105–102, §§2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217, and does not contain provisions relating to a Board of Review.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

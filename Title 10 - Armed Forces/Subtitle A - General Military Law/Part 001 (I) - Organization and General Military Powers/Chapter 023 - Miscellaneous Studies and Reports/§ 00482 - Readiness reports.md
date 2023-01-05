@@ -32,7 +32,9 @@ Required Elements.—The elements described in this subsection are each of the f
 
 &emsp;(10) Information regarding the extent to which any member of the armed forces is assigned or detailed outside the member's unit or away from training in order to perform any function that had previously been performed by civilian employees of the Federal Government.
 
-&emsp;(11) Such other information as determined necessary or appropriate by the Secretary of Defense.
+&emsp;(11) A summary of the joint medical estimate under section 732(b)(1) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1817) prepared by the Joint Staff Surgeon, with a mitigation plan to correct any readiness problem or deficiency and the timeline, cost, and any legislative action required to correct any such problem or deficiency.
+
+&emsp;(12) Such other information as determined necessary or appropriate by the Secretary of Defense.
 
 (c)
 
@@ -62,11 +64,17 @@ Semi-Annual Joint Force Readiness Review.—(1) Not later than 30 days after the
 
 Classification of Reports.—A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
 
-(Added Pub. L. 104–106, div. A, title III, §361(a)(1), Feb. 10, 1996, 110 Stat. 272, §452; renumbered §482, Pub. L. 104–201, div. A, title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2687; amended Pub. L. 105–85, div. A, title III, §322(a)(1), Nov. 18,1997, 111 Stat. 1673; Pub. L. 106–65, div. A, title III, §361(d)(3), (e), Oct. 5, 1999, 113 Stat. 575; Pub. L. 110–181, div. A, title III, §351(b), Jan. 28, 2008, 122 Stat. 70; Pub. L. 113–66, div. A, title III, §331(a), Dec. 26, 2013, 127 Stat. 737; Pub. L. 113–291, div. A, title III, §321, Dec. 19, 2014, 128 Stat. 3342; Pub. L. 114–328, div. A, title III, §331, Dec. 23, 2016, 130 Stat. 2078; Pub. L. 115–91, div. A, title III, §331(a), Dec. 12, 2017, 131 Stat. 1353; Pub. L. 115–232, div. A, title III, §332, Aug. 13, 2018, 132 Stat. 1725; Pub. L. 116–92, div. A, title III, §361(b), Dec. 20, 2019, 133 Stat. 1325; Pub. L. 117–81, div. A, title III, §361, Dec. 27, 2021, 135 Stat. 1660.)
+(Added Pub. L. 104–106, div. A, title III, §361(a)(1), Feb. 10, 1996, 110 Stat. 272, §452; renumbered §482, Pub. L. 104–201, div. A, title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2687; amended Pub. L. 105–85, div. A, title III, §322(a)(1), Nov. 18, 1997, 111 Stat. 1673; Pub. L. 106–65, div. A, title III, §361(d)(3), (e), Oct. 5, 1999, 113 Stat. 575; Pub. L. 110–181, div. A, title III, §351(b), Jan. 28, 2008, 122 Stat. 70; Pub. L. 113–66, div. A, title III, §331(a), Dec. 26, 2013, 127 Stat. 737; Pub. L. 113–291, div. A, title III, §321, Dec. 19, 2014, 128 Stat. 3342; Pub. L. 114–328, div. A, title III, §331, Dec. 23, 2016, 130 Stat. 2078; Pub. L. 115–91, div. A, title III, §331(a), Dec. 12, 2017, 131 Stat. 1353; Pub. L. 115–232, div. A, title III, §332, Aug. 13, 2018, 132 Stat. 1725; Pub. L. 116–92, div. A, title III, §361(b), Dec. 20, 2019, 133 Stat. 1325; Pub. L. 117–81, div. A, title III, §361, Dec. 27, 2021, 135 Stat. 1660; Pub. L. 117–263, div. A, title III, §353, Dec. 23, 2022, 136 Stat. 2534.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 732(b)(1) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, referred to subsec. (b)(11), is section 732(b)(1) of Pub. L. 115–232, div. A, title VII, Aug. 13, 2018, 132 Stat. 1817, which is not classified to the Code.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(11), (12). Pub. L. 117–263 added par. (11) and redesignated former par. (11) as (12).
 
 <b>2021</b>—Subsec. (b)(10), (11). Pub. L. 117–81 added par. (10) and redesignated former par. (10) as (11).
 
@@ -76,7 +84,7 @@ Subsec. (a). Pub. L. 116–92, §361(b)(2), in heading substituted "Reports and 
 
 Subsec. (b). Pub. L. 116–92, §361(b)(3), added subsec. (b) and struck out former subsec. (b) which related to specific descriptions of readiness problems in second and fourth quarter reports.
 
-Subsecs. (d) to (j). Pub. L. 116–92, §361(b)(4)–(6), added subsec. (d), redesignated subsec. (i) as (e), and struck out former subsecs. (d) to (h) and (j) which related to combatant command assessments, risk assessment of dependence on contractor support, military readiness of combat support and related agencies, major exercise assessments, information collected pursuant to section 117(c)(7) of this title, and mitigation plans to address readiness shortfalls and operational deficiencies, respectively.
+Subsecs. (d) to (j). Pub. L. 116–92, §361(b)(4)–(6), added subsec. (d), redesignated subsec. (i) as (e), and struck out former subsecs. (d) to (h) and (j) which related tocombatant command assessments, risk assessment of dependence on contractor support, military readiness of combat support and related agencies, major exercise assessments, information collected pursuant to section 117(c)(7) of this title, and mitigation plans to address readiness shortfalls and operational deficiencies, respectively.
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–232, §332(1), inserted "in the ground, sea, air, space, and cyber forces, and in such other such areas as determined by the Secretary of Defense," after "deficiency".
 

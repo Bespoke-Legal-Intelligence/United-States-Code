@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) benefits provided under such plan with respect to such provider or facility are terminated because of a change in the terms of the participation of such provider or facility in such plan; or
 
-&emsp;&emsp;(C) a contract between such group health plan and a health insurance issuer offering health insurance coverage in connection with such plan is terminated, resulting in a loss of benefits provided under such plan with respect to such provider or facility;
+&emsp;&emsp;(C) a contract between such group health plan and a health insurance issuer offering health insurance coverage in connectionwith such plan is terminated, resulting in a loss of benefits provided under such plan with respect to such provider or facility;
 
 > &emsp;the plan shall meet the requirements of paragraph (2) with respect to such individual.
 
@@ -40,7 +40,7 @@ In this section:
 
 &emsp;&emsp;(B) is undergoing a course of institutional or inpatient care from the provider or facility;
 
-&emsp;&emsp;(C) is scheduled to undergo nonelective surgery from the provider or facility, including receipt of postoperative care from suchprovider or facility with respect to such a surgery;
+&emsp;&emsp;(C) is scheduled to undergo nonelective surgery from the provider or facility, including receipt of postoperative care from such provider or facility with respect to such a surgery;
 
 &emsp;&emsp;(D) is pregnant and undergoing a course of treatment for the pregnancy from the provider or facility; or
 

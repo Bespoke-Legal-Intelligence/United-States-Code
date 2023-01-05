@@ -46,7 +46,7 @@ Capabilities.—The readiness reporting system shall measure such factors relati
 
 Regulations.—The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the established information technology system for Department of Defense reporting, specifically authorize exceptions to a single-system architecture, and identify the organizations, units, and entities that are subject to reporting in the readiness reporting system, what organization resources are subject to such reporting, and the elements of the training establishment and of defense infrastructure that are subject to such reporting.
 
-(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80; Pub. L. 108–136, div. A, title X, §1031(a)(1), Nov. 24, 2003, 117 Stat. 1595; Pub. L. 112–239, div. A, title VIII, §845(a), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 113–291, div. A, titleX, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–91, div. A, title III, §331(b), Dec. 12, 2017, 131 Stat. 1354; Pub. L. 115–232, div. A, title III, §331(a)–(g)(1), Aug. 13, 2018, 132 Stat. 1723, 1724; Pub. L. 116–92, div. A, title III, §361(a), Dec. 20, 2019, 133 Stat. 1325.)
+(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80; Pub. L. 108–136, div. A, title X, §1031(a)(1), Nov. 24, 2003, 117 Stat. 1595; Pub. L. 112–239, div. A, title VIII, §845(a), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–91, div. A, title III, §331(b), Dec. 12, 2017, 131 Stat. 1354; Pub. L. 115–232, div. A, title III, §331(a)–(g)(1), Aug. 13, 2018, 132 Stat. 1723, 1724; Pub. L. 116–92, div. A, title III, §361(a), Dec. 20, 2019, 133 Stat. 1325.)
 
 #### <b>Editorial Notes</b>
 
@@ -102,7 +102,7 @@ Subsec. (e). Pub. L. 115–91, §331(b)(2), substituted "semi-annually" for "eac
 
 <b>2013</b>—Subsec. (c)(8). Pub. L. 112–239 added par. (8).
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–136 substituted "each quarter submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A)" for "each month submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d)".
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 substituted "each quarter submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A)" for "each month submit to the Committee on Armed Services and the Committee on Appropriationsof the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d)".
 
 <b>2000</b>—Subsec. (c)(7). Pub. L. 106–398 added par. (7).
 
@@ -132,7 +132,7 @@ Establishment required.—The Secretary of Defense shall establish metrics for t
 
 &emsp;"(2)
 
-Briefings required.—Not later than 90 days after the date of the enactment of this Act \[Dec. 20,2019\] and quarterly thereafter until completion of the establishment of the metrics under paragraph (1), the Secretary shall provide a briefing to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on such metrics, including progress as required pursuant to subsection (c).
+Briefings required.—Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\] and quarterly thereafter until completion of the establishment of the metrics under paragraph (1), the Secretary shall provide a briefing to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on such metrics, including progress as required pursuant to subsection (c).
 
 "(c)
 
@@ -188,7 +188,7 @@ Pub. L. 112–239, div. A, title XVI, §1601(a), Jan. 2, 2013, 126 Stat. 2062, p
 
 Pub. L. 112–239, div. A, title XVI, §1601(b), Jan. 2, 2013, 126 Stat. 2062, provided that: "The Department of Defense Strategic Readiness Fund established by section 872(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 117 note) \[formerly set out below\] is hereby closed."
 
-Pub. L. 110–181, div. A, title VIII, subtitle G, Jan. 28, 2008, 122 Stat. 260, which required Secretary of Defense to establish Defense Materiel Readiness Board to provide independent assessments of materiel readiness, materiel readiness shortfalls, and materiel readiness plans to Secretary of Defense and Congress; provided for designation of critical materiel readiness shortfalls; established Department of Defense Strategic Readiness Fund; and required Secretary of military department to notify Congress with respect to determination that use of a multiyear procurement contract would address a critical material readiness shortfall, was repealed by Pub. L. 112–239, div. A, title XVI, §1601(c), Jan. 2, 2013, 126 Stat. 2062.
+Pub. L. 110–181, div. A, title VIII, subtitle G, Jan. 28, 2008, 122 Stat. 260, which required Secretary of Defense to establish Defense Materiel Readiness Board to provide independent assessments of materiel readiness, materiel readiness shortfalls, and materiel readiness plans to Secretary of Defense and Congress; provided for designation of critical materiel readiness shortfalls; established Department of Defense Strategic Readiness Fund; and required Secretary of military departmentto notify Congress with respect to determination that use of a multiyear procurement contract would address a critical material readiness shortfall, was repealed by Pub. L. 112–239, div. A, title XVI, §1601(c), Jan. 2, 2013, 126 Stat. 2062.
 
 #### Implementation
 

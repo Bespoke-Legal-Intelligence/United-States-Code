@@ -66,7 +66,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (7) Coordination with section 168(k)(5)
 
-&emsp;This section shall not apply to any amount allowed as a deduction by reason of section 168(k)(5) (relating to special rules for certain plants bearing fruits and nuts).
+&emsp;This section shall not apply to any amount allowed as a deduction by reason of section168(k)(5) (relating to special rules for certain plants bearing fruits and nuts).
 
 #### (d) Exception for farming businesses
 
@@ -106,7 +106,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 &emsp;&emsp;&emsp;In the case of the replanting of citrus plants, subparagraph (A) shall apply to amounts paid or incurred by a person (other than the taxpayer described in subparagraph (A)) if—
 
-&emsp;&emsp;&emsp;&emsp;(I) the taxpayer described in subparagraph (A) has an equity interest of not less than 50 percent in the replanted citrus plants at all times during the taxableyear in which such amounts were paid or incurred and such other person holds any part of the remaining equity interest, or
+&emsp;&emsp;&emsp;&emsp;(I) the taxpayer described in subparagraph (A) has an equity interest of not less than 50 percent in the replanted citrus plants at all times during the taxable year in which such amounts were paid or incurred and such other person holds any part of the remaining equity interest, or
 
 &emsp;&emsp;&emsp;&emsp;(II) such other person acquired the entirety of such taxpayer's equity interest in the land on which the lost or damaged citrus plants were located at the time of such loss or damage, and the replanting is on such land.
 
@@ -244,7 +244,7 @@ Except as otherwise provided in this section, this section shall apply to—
 
 #### (3) Interest relating to property used to produce property
 
-&emsp;This subsection shall apply to any interest on indebtedness allocable (as determined under paragraph (2)) to property used to produce property to which this subsection applies to the extent such interest is allocable (as so determined) to the produced property.
+&emsp;This subsection shall apply to any interest on indebtedness allocable (as determinedunder paragraph (2)) to property used to produce property to which this subsection applies to the extent such interest is allocable (as so determined) to the produced property.
 
 #### (4) Exemption for aging process of beer, wine, and distilled spirits
 
@@ -434,7 +434,7 @@ Subsec. (d)(2)(B)(ii). Pub. L. 100–647, §1008(b)(3)(B), substituted "the plan
 
 Subsec. (d)(3)(A). Pub. L. 100–647, §6026(b)(2)(B), struck out "or animal" after "plant".
 
-Subsec. (d)(3)(B). Pub. L. 100–647, §6026(c), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "No election may be made under this paragraph—
+Subsec. (d)(3)(B). Pub. L. 100–647, §6026(c), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: "No election may be made under this paragraph—
 
 &emsp;"(i) by a corporation, partnership, or tax shelter, if such corporation, partnership, or tax shelter is required to use an accrual method of accounting under section 447 or 448(a)(3), or
 
@@ -486,7 +486,7 @@ Amendment by Pub. L. 109–58 applicable to amounts paid or incurred in taxable 
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable yearsending after such date, see section 338(c) of Pub. L. 108–357, set out as an Effective Date note under section 179B of this title.
+Amendment by Pub. L. 108–357 applicable to expenses paid or incurred after Dec. 31, 2002, in taxable years ending after such date, see section 338(c) of Pub. L. 108–357, set out as an Effective Date note under section 179B of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -584,7 +584,7 @@ Treatment of certain rehabilitation project.—The amendments made by this secti
 
 "(7)
 
-Special rule for casualty losses.—Section 263A(d)(2) of the Internal Revenue Code of 1986 (asadded by this section) shall apply to expenses incurred on or after the date of the enactment of this Act \[Oct. 22, 1986\]."
+Special rule for casualty losses.—Section 263A(d)(2) of the Internal Revenue Code of 1986 (as added by this section) shall apply to expenses incurred on or after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 #### Construction
 

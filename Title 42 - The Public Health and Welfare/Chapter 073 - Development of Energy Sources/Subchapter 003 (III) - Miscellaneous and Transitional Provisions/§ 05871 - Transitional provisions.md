@@ -2,7 +2,7 @@
 
 #### (a) Lapse of agency or other body from which functions or programs have been transferred and positions or offices therein
 
-Except as otherwise provided in this chapter, whenever all of the functions or programs of an agency, or other body, or any component thereof, affected by this chapter, have been transferred from that agency, or other body, or any component thereof by this chapter, the agency, or other body, or component thereof shall lapse. If an agency, or other body, or any component thereof, lapses pursuant to the preceding sentence, each position and office therein whichwas expressly authorized by law, or the incumbent of which was authorized to receive compensation at the rate prescribed for an office or position at level II, III, IV, or V of the Executive Schedule (5 U.S.C. 5313–5316), shall lapse.
+Except as otherwise provided in this chapter, whenever all of the functions or programs of an agency, or other body, or any component thereof, affected by this chapter, have been transferred from that agency, or other body, or any component thereof by this chapter, the agency, or other body, or component thereof shall lapse. If an agency, or other body, or any component thereof, lapses pursuant to the preceding sentence, each position and office therein which was expressly authorized by law, or the incumbent of which was authorized to receive compensation at the rate prescribed for an office or position at level II, III, IV, or V of the Executive Schedule (5 U.S.C. 5313–5316), shall lapse.
 
 #### (b) Continuation of orders, determinations, rules, etc.
 
@@ -60,7 +60,7 @@ Except as may be otherwise expressly provided in this chapter, all functions exp
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under section 5801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under section 5801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 References to "at the time this chapter takes effect" in subsec. (b)(2), "the date this chapter takes effect" in subsec. (d)(1), "date on which this chapter takes effect" in subsec. (f), and "the effective date of this chapter" in subsecs. (g), (h), (i), and (k), refer to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
 

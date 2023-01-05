@@ -8,7 +8,7 @@
 
 #### (2) Other 11002(a) substance
 
-&emsp;If a release of an extremely hazardous substance referred to in section 11002(a) of this title occurs from a facility at which a hazardous chemical is produced, used, or stored, and such release is not subject to the notification requirements under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\], the owner or operator of the facility shall immediately provide notice as described in subsection (b), but only if the release—
+&emsp;If a release of an extremely hazardous substance referred to in section 11002(a) of this title occurs from a facility at which a hazardous chemical is produced, used, or stored, and such release is not subject to the notification requirements under section 103(a) of CERCLA \[42 U.S.C. 9603(a)\], the owner or operator of the facility shall immediately providenotice as described in subsection (b), but only if the release—
 
 &emsp;&emsp;(A) is not a federally permitted release as defined in section 101(10) of CERCLA \[42 U.S.C. 9601(10)\],
 
@@ -38,7 +38,7 @@
 
 #### (1) Recipients of notice
 
-&emsp;Notice required under subsection (a) shall be given immediately after the release by theowner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to section 11001(c) of this title, for any area likely to be affected by the release and to the State emergency response commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
+&emsp;Notice required under subsection (a) shall be given immediately after the release by the owner or operator of a facility (by such means as telephone, radio, or in person) to the community emergency coordinator for the local emergency planning committees, if established pursuant to section 11001(c) of this title, for any area likely to be affected by the release and to the State emergency response commission of any State likely to be affected by the release. With respect to transportation of a substance subject to the requirements of this section, or storage incident to such transportation, the notice requirements of this section with respect to a release shall be satisfied by dialing 911 or, in the absence of a 911 emergency telephone number, calling the operator.
 
 #### (2) Contents
 
@@ -120,7 +120,7 @@ The exemption provided in section 11047 of this title (relating to transportatio
 
 #### References in Text
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and CERCLA, referred to in subsec. (a)(1), (3), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and CERCLA, referred to in subsec. (a)(1), (3), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 The Safe Drinking Water Act, referred to in subsec. (e)(3)(B), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 

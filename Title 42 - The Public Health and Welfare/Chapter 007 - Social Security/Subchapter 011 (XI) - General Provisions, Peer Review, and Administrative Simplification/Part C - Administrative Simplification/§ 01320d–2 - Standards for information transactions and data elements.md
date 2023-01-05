@@ -206,7 +206,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (C) Expedited rulemaking
 
-&emsp;&emsp;The Secretary shall promulgate an interim final rule applying any standard or operating rule recommended by the National Committee on Vital and Health Statistics pursuant to paragraph (3). The Secretary shall accept and consider public comments on any interim final rule published under this subparagraph for 60 days after the date of such publication.
+&emsp;&emsp;The Secretary shall promulgate an interim final rule applying any standard or operating rule recommended by the NationalCommittee on Vital and Health Statistics pursuant to paragraph (3). The Secretary shall accept and consider public comments on any interim final rule published under this subparagraph for 60 days after the date of such publication.
 
 #### (h) Compliance
 
@@ -268,7 +268,7 @@ The Secretary shall adopt standards for transferring among health plans appropri
 
 #### (B) Report
 
-&emsp;&emsp;Not later than July 1, 2014, and not less than biennially thereafter, the review committee shall provide recommendations for updating and improving such standards and operating rules. The review committee shall recommend a single set of operating rules per transaction standard and maintain the goal of creating as much uniformity as possible in the implementation of the electronic standards.
+&emsp;&emsp;Not later than July 1, 2014, and not less than biennially thereafter, the review committee shall provide recommendations for updating and improving such standards and operating rules. The review committee shallrecommend a single set of operating rules per transaction standard and maintain the goal of creating as much uniformity as possible in the implementation of the electronic standards.
 
 #### (3) Interim final rulemaking
 
@@ -386,7 +386,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (j)(4)(D)(i), (ii), is
 
 #### Prior Provisions
 
-A prior section 1173 of act Aug. 14, 1935, was classified to section 1320c–22 of this title prior to the generalamendment of part B of this subchapter by Pub. L. 97–248.
+A prior section 1173 of act Aug. 14, 1935, was classified to section 1320c–22 of this title prior to the general amendment of part B of this subchapter by Pub. L. 97–248.
 
 #### Amendments
 
@@ -428,7 +428,7 @@ Pub. L. 114–255, div. A, title II, §2063, Dec. 13, 2016, 130 Stat. 1080, prov
 
 "(a)
 
-Guidance Related to Remote Access.—Not later than 1 year after the date of enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue guidance clarifying that subparagraph (B) of section 164.512(i)(1)(ii) of part 164 of the Rule (prohibiting the removal of protected health information by a researcher) does not prohibit remote access to health information by a researcher for such purposes as described in section 164.512(i)(1)(ii) of part 164 of the Rule so long as—
+Guidance Related to Remote Access.—Not later than 1 year after the date of enactment of thisAct \[Dec. 13, 2016\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue guidance clarifying that subparagraph (B) of section 164.512(i)(1)(ii) of part 164 of the Rule (prohibiting the removal of protected health information by a researcher) does not prohibit remote access to health information by a researcher for such purposes as described in section 164.512(i)(1)(ii) of part 164 of the Rule so long as—
 
 &emsp;"(1) at a minimum, security and privacy safeguards, consistent with the requirements of the Rule, are maintained by the covered entity and the researcher; and
 
@@ -492,7 +492,7 @@ Members.—The working group shall include representatives of—
 
 &emsp;"(3)
 
-Report.—Not later than 1 year after the date on which the working group is convened under paragraph (1), the working group shall conduct a review and submit a report to the Secretary containing recommendations on whether the uses and disclosures of protected health information for research purposesshould be modified to allow protected health information to be available, as appropriate, for research purposes, including studies to obtain generalizable knowledge, while protecting individuals' privacy rights. In conducting the review and making recommendations, the working group shall—
+Report.—Not later than 1 year after the date on which the working group is convened under paragraph (1), the working group shall conduct a review and submit a report to the Secretary containing recommendations on whether the uses and disclosures of protected health information for research purposes should be modified to allow protected health information to be available, as appropriate, for research purposes, including studies to obtain generalizable knowledge, while protecting individuals' privacy rights. In conducting the review and making recommendations, the working group shall—
 
 &emsp;&emsp;"(A) address, at a minimum—
 
@@ -596,7 +596,7 @@ Pub. L. 114–255, div. B, title XI, §11004, Dec. 13, 2016, 130 Stat. 1271, pro
 
 Initial Programs and Materials.—Not later than 1 year after the date of the enactment of this Act \[Dec. 13, 2016\], the Secretary \[of Health and Human Services\], in consultation with appropriate experts, shall identify the following model programs and materials, or (in the case that no such programs or materials exist) recognize private or public entities to develop and disseminate each of the following:
 
-&emsp;"(1) Model programs and materials for training health care providers (including physicians, emergency medical personnel, psychiatrists, including child and adolescent psychiatrists, psychologists, counselors, therapists, nurse practitioners, physician assistants, behavioral health facilities and clinics, care managers, and hospitals, including individuals such as general counsels or regulatory compliance staff who are responsible for establishing provider privacy policies) regarding the permitted uses and disclosures, consistent with the standards governingthe privacy and security of individually identifiable health information promulgated by the Secretary under part C of title XI of the Social Security Act (42 U.S.C. 1320d et seq.) and regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\] (42 U.S.C. 1320d–2 note) and such part C, of the protected health information of patients seeking or undergoing mental or substance use disorder treatment.
+&emsp;"(1) Model programs and materials for training health care providers (including physicians, emergency medical personnel, psychiatrists, including child and adolescent psychiatrists, psychologists, counselors, therapists, nurse practitioners, physician assistants, behavioral health facilities and clinics, care managers, and hospitals, including individuals such as general counsels or regulatory compliance staff who are responsible for establishing provider privacy policies) regarding the permitted uses and disclosures, consistent with the standards governing the privacy and security of individually identifiable health information promulgated by the Secretary under part C of title XI of the Social Security Act (42 U.S.C. 1320d et seq.) and regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191\] (42 U.S.C. 1320d–2 note) and such part C, of the protected health information of patients seeking or undergoing mental or substance use disorder treatment.
 
 &emsp;"(2) A model program and materials for training patients and their families regarding their rights to protect and obtain information under the standards and regulations specified in paragraph (1).
 
@@ -644,7 +644,7 @@ Electronic funds transfer.—The Secretary shall promulgate a final rule to esta
 
 "(3)
 
-Health claims attachments.—The Secretary shall promulgate a final rule to establish a transaction standard and a single set of associated operating rules for health claims attachments (as described in section 1173(a)(2)(B) of the Social Security Act (42 U.S.C. 1320d–2(a)(2)(B))) that is consistent with the X12 Version 5010 transaction standards. The Secretary may do so on an interim final basis and shall adopt a transaction standard and a single set of associated operating rules not later than January 1, 2014, in a manner ensuring that such standard is effective not later than January 1, 2016."
+Health claims attachments.—The Secretary shall promulgate a final rule to establish a transaction standard and a single set of associated operating rulesfor health claims attachments (as described in section 1173(a)(2)(B) of the Social Security Act (42 U.S.C. 1320d–2(a)(2)(B))) that is consistent with the X12 Version 5010 transaction standards. The Secretary may do so on an interim final basis and shall adopt a transaction standard and a single set of associated operating rules not later than January 1, 2014, in a manner ensuring that such standard is effective not later than January 1, 2016."
 
 #### Activities and Items for Initial Consideration; ICD Coding Crosswalks
 
@@ -732,7 +732,7 @@ By the authority vested in me as President of the United States by the Constitut
 
 Section 1. <i>Policy.</i>
 
-It shall be the policy of the Government of the United States that law enforcement may not use protected health information concerning an individual that is discovered during the course of health oversight activities for unrelated civil, administrative, or criminal investigations of a non-health oversight matter, except when the balance of relevant factors weighs clearly in favor of its use. That is, protected health information may not be so used unless the public interest and the need for disclosure clearly outweigh the potential for injury to the patient, to the physician-patient relationship, and to the treatment services. Protecting the privacy of patients' protected health information promotes trust in the health care system. It improves the quality of health care by fostering an environment in which patients can feel more comfortable in providing health care professionals with accurate and detailed information about their personal health. In order to provide greater protections to patients' privacy, the Department of Health and Human Services is issuing final regulations concerning the confidentiality of individually identifiable health information under the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, see Tables for classification\] (HIPAA). HIPAA applies only to "covered entities," such as health care plans, providers, and clearinghouses. HIPAA regulations therefore do not apply to other organizations and individuals that gain access to protected health information, including Federal officials who gain access to health records during health oversight activities.
+It shall be the policy of the Government of the United States that law enforcement may not use protected health information concerning an individual that is discovered during the course of health oversight activities for unrelated civil, administrative, or criminal investigations of a non-health oversight matter, except when the balance of relevant factors weighs clearly in favor of its use. That is, protected health information may not be so used unless the public interest and the need for disclosure clearly outweigh the potential for injury to the patient, to the physician-patient relationship, and to the treatment services. Protecting the privacy of patients' protected health information promotes trust in the health care system. It improves the quality of health care by fostering an environment inwhich patients can feel more comfortable in providing health care professionals with accurate and detailed information about their personal health. In order to provide greater protections to patients' privacy, the Department of Health and Human Services is issuing final regulations concerning the confidentiality of individually identifiable health information under the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, see Tables for classification\] (HIPAA). HIPAA applies only to "covered entities," such as health care plans, providers, and clearinghouses. HIPAA regulations therefore do not apply to other organizations and individuals that gain access to protected health information, including Federal officials who gain access to health records during health oversight activities.
 
 Under the new HIPAA regulations, health oversight investigators will appropriately have ready access to medical records for oversight purposes. Health oversight investigators generally do not seek access to the medical records of a particular patient, but instead review large numbers of records to determine whether a health care provider or organization is violating the law, such as through fraud against the Medicare system. Access to many health records is often necessary in order to gain enough evidence to detect and bring enforcement actions against fraud in the health care system. Stricter rules apply under the HIPAA regulations, however, when law enforcement officials seek protected health information in order to investigate criminal activity outside of the health oversight realm.
 
@@ -744,7 +744,7 @@ Sec. 2. <i>Definitions.</i>
 
 (a) "Health oversight activities" shall include the oversight activities enumerated in the regulations concerning the confidentiality of individually identifiable health information promulgated by the Secretary of Health and Human Services pursuant to the "Health Insurance Portability and Accountability Act of 1996," as amended \[Pub. L. 104–191, see Tables for classification\].
 
-(b) "Protected health information" shall have the meaning ascribed to it in the regulations concerningthe confidentiality of individually identifiable health information promulgated by the Secretary of Health and Human Services pursuant to the "Health Insurance Portability and Accountability Act of 1996," as amended.
+(b) "Protected health information" shall have the meaning ascribed to it in the regulations concerning the confidentiality of individually identifiable health information promulgated by the Secretary of Health and Human Services pursuant to the "Health Insurance Portability and Accountability Act of 1996," as amended.
 
 (c) "Injury to the patient" includes injury to the privacy interests of the patient.
 

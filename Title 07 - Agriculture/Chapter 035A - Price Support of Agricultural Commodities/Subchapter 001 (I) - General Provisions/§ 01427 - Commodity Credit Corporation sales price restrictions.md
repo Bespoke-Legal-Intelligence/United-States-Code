@@ -74,7 +74,7 @@ The foregoing restrictions of this section shall not apply to—
 
 #### (2) Costs
 
-&emsp;Except on a reimbursable basis, the Corporation shall not bear any costs in connection with making the commodity available under this subsection beyond the cost of the commodities to the Corporation in—
+&emsp;Except on a reimbursable basis, the Corporation shall not bear any costs in connection with making the commodity available underthis subsection beyond the cost of the commodities to the Corporation in—
 
 &emsp;&emsp;(A) the storage of the commodity; and
 
@@ -102,13 +102,13 @@ For the purposes of this section, sales for export shall include—
 
 &emsp;(2) sales made on condition that commodities of the same kind and of comparable value or quantity be exported, either in raw or processed form.
 
-(Oct. 31, 1949, ch. 792, title IV, §407, 63 Stat. 1055; July 10, 1954, ch. 469, title III, §308, formerly §301, 68 Stat. 458, renumbered §308, Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548; amended July 29, 1954, ch. 643, 68 Stat. 583; Jan. 28, 1956, ch. 14, 70 Stat. 6; Pub. L. 85–835, title I, §109, Aug. 28, 1958, 72 Stat. 993; Pub. L. 87–127, Aug. 7, 1961, 75 Stat. 293; Pub. L. 87–703, title III, §325(2), title IV, §404, Sept. 27, 1962, 76 Stat. 631, 632; Pub. L. 88–297, title I, §104, title II, §204, Apr. 11, 1964, 78 Stat. 175, 183; Pub. L. 88–585, §1, Sept. 11, 1964, 78 Stat. 927; Pub. L. 89–321, title IV, §404, Nov. 3, 1965, 79 Stat. 1197; Pub. L. 89–808, §3(e), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 90–475, §7, Aug. 11, 1968, 82 Stat. 703; Pub. L. 90–559, §1(5), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §409, title VI, §603, Nov. 30, 1970, 84 Stat. 1367, 1377; Pub. L. 95–113, title IV, §408, title VI, §603, Sept. 29, 1977, 91 Stat. 927, 939; Pub. L. 97–98, title V, §503, title XI, §§1103, 1111(a), Dec. 22, 1981, 95 Stat. 1240, 1264, 1267; Pub. L. 98–88, §5, Aug. 26, 1983, 97 Stat. 499; Pub. L. 99–198, title V, §503, title X, §1007, title XVII, §1763(b), Dec. 23, 1985, 99 Stat. 1418, 1451, 1651; Pub. L. 100–387, title I, §101(b)(2), Aug. 11, 1988, 102 Stat. 931; Pub. L. 100–707, title I, §109(a)(2), Nov. 23, 1988, 102 Stat.4708; Pub. L. 101–624, title XI, §1130, Nov. 28, 1990, 104 Stat. 3509.)
+(Oct. 31, 1949, ch. 792, title IV, §407, 63 Stat. 1055; July 10, 1954, ch. 469, title III, §308, formerly §301, 68 Stat. 458, renumbered §308, Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548; amended July 29, 1954, ch. 643, 68 Stat. 583; Jan. 28, 1956, ch. 14, 70 Stat. 6; Pub. L. 85–835, title I, §109, Aug. 28, 1958, 72 Stat. 993; Pub. L. 87–127, Aug. 7, 1961, 75 Stat. 293; Pub. L. 87–703, title III, §325(2), title IV, §404, Sept. 27, 1962, 76 Stat. 631, 632; Pub. L. 88–297, title I, §104, title II, §204, Apr. 11, 1964, 78 Stat. 175, 183; Pub. L. 88–585, §1, Sept. 11, 1964, 78 Stat. 927; Pub. L. 89–321, title IV, §404, Nov. 3, 1965, 79 Stat. 1197; Pub. L. 89–808, §3(e), Nov. 11, 1966, 80 Stat. 1538; Pub. L. 90–475, §7, Aug. 11, 1968, 82 Stat. 703; Pub. L. 90–559, §1(5), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title IV, §409, title VI, §603, Nov. 30, 1970, 84 Stat. 1367, 1377; Pub. L. 95–113, title IV, §408, title VI, §603, Sept. 29, 1977, 91 Stat. 927, 939; Pub. L. 97–98, title V, §503, title XI, §§1103, 1111(a), Dec. 22, 1981, 95 Stat. 1240, 1264, 1267; Pub. L. 98–88, §5, Aug. 26, 1983, 97 Stat. 499; Pub. L. 99–198, title V, §503, title X, §1007, title XVII, §1763(b), Dec. 23, 1985, 99 Stat. 1418, 1451, 1651; Pub. L. 100–387, title I, §101(b)(2), Aug. 11, 1988, 102 Stat. 931; Pub. L. 100–707, title I, §109(a)(2), Nov. 23, 1988, 102 Stat. 4708; Pub. L. 101–624, title XI, §1130, Nov. 28, 1990, 104 Stat. 3509.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -124,7 +124,7 @@ Pub. L. 100–387 substituted provision authorizing the Commodity Credit Corpora
 
 <b>1985</b>—Pub. L. 99–198, §1007, temporarily reenacted substantially without change the amendments made in 1981 by section 1103 of Pub. L. 97–98, which had established a floor for sales of wheat and feed grains in inventory for unrestricted use at 115 per centum of the current national average loan rate for the commodity adjusted for current market differentials reflecting grade, quality, location, and other value factors, plus reasonable carrying charges; designated such provisions as thus reenacted as cl. (A) of the proviso involved and added cl. (B) relating to the Secretary's permitting the repayment of loans at a loan rate less than the loan level determined for such crop; and reenacted, also without change, the amendments by Pub. L. 97–98 which had the price at which purchases had to be made to offset sales in the interest of the efficient conduct of the Corporation's operations to an amount not exceeding the minimum sales price for the commodity for unrestricted use. See Effective and Termination Dates of 1985 Amendment note below.
 
-Pub. L. 99–198, §1763(b), inserted provision giving the Commodity Credit Corporation authority to (1) make available feed for livestock to certain persons during emergencies in areas in which feed grains are normally produced and normally available for feed purposes, but in which they are unavailable because of a catastrophe described in the fourth sentence of this section, (2) make such feed available to such persons through feed dealers in the areas, (3) make such feed available at a price not less than the price prescribed in the fourth sentence of this section, and (4) bear any expenses incurred in connection with making such feed available to such persons under this sentence, including transportation and handling costs.
+Pub. L. 99–198, §1763(b), inserted provision giving the Commodity Credit Corporation authority to (1) make available feed for livestock to certain persons during emergencies in areas in which feed grains are normally produced and normally available for feed purposes, but in which they are unavailable because of a catastrophe described in the fourth sentence of this section, (2) make such feed available to such persons through feed dealers in the areas, (3) make such feed available at a price not less than the price prescribed in the fourthsentence of this section, and (4) bear any expenses incurred in connection with making such feed available to such persons under this sentence, including transportation and handling costs.
 
 Pub. L. 99–198, §503, temporarily reenacted substantially without change the amendments made in 1981 by section 503 of Pub. L. 97–98, which provided that the Commodity Credit Corporation sell upland cotton for unrestricted use at the same prices as it sells cotton for export, but in no event at less than 115 per centum of the loan rate for Strict Low Middling one and one-sixteenth inch upland cotton, micronaire 3.5 through 4.9, adjusted for such current market differentials reflecting grade, quality, location, and other value factors as the Secretary determines appropriate plus reasonable carrying charges, and substituted "as it sells upland cotton" for "as it sells cotton" and "percent" for "per centum"; designated such provisions as thus reenacted as cl. (A), and added cl. (B) relating to the Secretary's permitting the repayment of loans at a loan rate less than the loan level determined for such crop. See Effective and Termination Dates of 1985 Amendment note below.
 
@@ -146,7 +146,7 @@ Pub. L. 90–475 required that notwithstanding any other provision of this secti
 
 <b>1964</b>—Pub. L. 88–585 provided that the Corporation, in providing feed to distressed areas, may charge not less than 75 percent of the current basic county support rate including the value of any applicable price support payment in kind, included the Virgin Islands within those areas where such feed can be made obtainable, authorized the Secretary to provide feed by feed dealers under such arrangement that the feed so furnished would be replaced with feed owned or controlled by the Corporation and sold to such persons, and inserted "or other area" after "one or more central locations in each State".
 
-Pub. L. 88–297, §104, inserted proviso that beginning Aug. 1, 1964, the Corporation may sell upland cotton for unrestricted use at not less than 105 per centum of the current loan rate for such cotton under section 1444(a) of this title plus reasonable carrying charges.
+Pub. L. 88–297, §104, inserted proviso that beginning Aug. 1, 1964, the Corporation may sell upland cotton forunrestricted use at not less than 105 per centum of the current loan rate for such cotton under section 1444(a) of this title plus reasonable carrying charges.
 
 Pub. L. 88–297, §204, temporarily substituted proviso that if wheat marketing allocation program is in effect, the current price for wheat shall be the support price for wheat not accompanied by marketing certificates for proviso prescribing support price for wheat accompanied by marketing certificate and sale of wheat to be accompanied by marketing certificate, respectively. See Effective and Termination Dates of 1964 Amendment note below.
 
@@ -180,7 +180,7 @@ Pub. L. 100–387, title I, §101(c), Aug. 11, 1988, 102 Stat. 932, provided tha
 
 Pub. L. 99–198, title V, §503, Dec. 23, 1985, 99 Stat. 1418, provided that the amendment made by section 503 is effective only with respect to the period beginning Aug. 1, 1978, and ending July 31, 1991.
 
-Pub. L. 99–198, title X, §1007, Dec. 23, 1985, 99 Stat. 1451, provided that the amendment made by section1007 is effective only for the marketing years for the 1986 through 1990 crops.
+Pub. L. 99–198, title X, §1007, Dec. 23, 1985, 99 Stat. 1451, provided that the amendment made by section 1007 is effective only for the marketing years for the 1986 through 1990 crops.
 
 #### Effective and Termination Dates of 1981 Amendment
 
@@ -216,7 +216,7 @@ Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, 
 
 Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(b)(10) of this title.
 
-Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicableto milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
@@ -260,7 +260,7 @@ Other Commodities.—The Secretary may, at the request of a domestic producer of
 
 #### Emergency Feed Assistance
 
-Pub. L. 98–180, title III, §303, Nov. 29, 1983, 97 Stat. 1151, which authorized Secretary of Agriculture to make damaged corn available to assist eligible farmers and ranchers in areas adversely affected by drought, hot weather, or related disaster to preserve and maintain foundation herds of livestock and poultry, which corn was to be available until Sept. 30, 1984, or date, as determined by the Secretary, on which emergency nolonger exists, was repealed by Pub. L. 100–387, title I, §101(b)(5), Aug. 11, 1988, 102 Stat. 932, eff. 15 days after Aug. 11, 1988.
+Pub. L. 98–180, title III, §303, Nov. 29, 1983, 97 Stat. 1151, which authorized Secretary of Agriculture to make damaged corn available to assist eligible farmers and ranchers in areas adversely affected by drought, hot weather, or related disaster to preserve and maintain foundation herds of livestock and poultry, which corn was to be available until Sept. 30, 1984, or date, as determined by the Secretary, on which emergency no longer exists, was repealed by Pub. L. 100–387, title I, §101(b)(5), Aug. 11, 1988, 102 Stat. 932, eff. 15 days after Aug. 11, 1988.
 
 #### Sale of Feed for Livestock in Emergency Areas; Designation of Emergency Area; Conditions; Penalty
 

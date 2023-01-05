@@ -1,6 +1,6 @@
 ### §2101. Original appointment of permanent commissioned officers
 
-(a)(1) The President may appoint permanent commissioned officers in the Regular Coast Guard in grades appropriate to their qualification, experience, and length of service, as the needs of the Coast Guard may require, from among the following categories:
+(a)(1) The President may appoint permanent commissioned officers in the Regular CoastGuard in grades appropriate to their qualification, experience, and length of service, as the needs of the Coast Guard may require, from among the following categories:
 
 &emsp;(A) Graduates of the Coast Guard Academy.
 
@@ -54,7 +54,7 @@ Pub. L. 88–130, §5, Sept. 24, 1963, 77 Stat. 193, as amended by Pub. L. 89–
 
 "(e) An officer of the Regular Coast Guard who was appointed as a temporary commissioned officer under any provision of law in effect prior to the effective date of this Act and who is serving on active duty shall be considered to have been appointed under section 214 \[now 2104\] of title 14, United States Code, and subject to the provisions thereof. An officer of the Regular Coast Guard who was appointed as a permanent commissioned officer under any provision of law in effect prior to the effective date of this Act \[Sept. 24, 1963\], and who is serving on active duty shall be considered to have been appointed under section 211 \[now 2101\] of title 14, United States Code, and subject to the provisions thereof.
 
-"(f) Each officer who would have been required to retire on June 30, 1962, under the provisions of section 288 \[now 2149\] of title 14, United States Code, had that section been in effect on that date, shall be retired on the last day of the sixth month following the month in which this Act becomes effective. If, under section 288 \[now 2149\] of title 14, United States Code, the retirement of any other officer would be required after June 30, 1962, but less than six months following the effectivedate of this Act, his retirement shall be deferred until the last day of the twelfth month following the month in which this Act becomes effective, or June 30, 1964, whichever is earlier.
+"(f) Each officer who would have been required to retire on June 30, 1962, under the provisions of section 288 \[now 2149\] of title 14, United States Code, had that section been in effect on that date, shall be retired on the last day of the sixth month following the month in which this Act becomes effective. If, under section 288 \[now 2149\] of title 14, United States Code, the retirement of any other officer would be required after June 30, 1962, but less than six months following the effective date of this Act, his retirement shall be deferred until the last day of the twelfth month following the month in which this Act becomes effective, or June 30, 1964, whichever is earlier.
 
 "(g) The enactment of this Act does not increase or decrease the retired pay of any person retired on or prior to the effective date of this Act.
 

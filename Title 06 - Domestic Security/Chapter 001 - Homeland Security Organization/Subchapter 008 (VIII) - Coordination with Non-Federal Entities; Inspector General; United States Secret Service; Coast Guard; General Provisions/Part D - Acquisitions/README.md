@@ -11,3 +11,4 @@ Part D—Acquisitions
 - [&sect; 00394 - Unsolicited proposals](%C2%A7%2000394%20-%20Unsolicited%20proposals.md)
 - [&sect; 00395 - Prohibition on contracts with corporate expatriates](%C2%A7%2000395%20-%20Prohibition%20on%20contracts%20with%20corporate%20expatriates.md)
 - [&sect; 00396 - Lead system integrator; financial interests](%C2%A7%2000396%20-%20Lead%20system%20integrator%3B%20financial%20interests.md)
+- [&sect; 00397 - Requirements to buy certain items related to national security interests](%C2%A7%2000397%20-%20Requirements%20to%20buy%20certain%20items%20related%20to%20national%20security%20interests.md)

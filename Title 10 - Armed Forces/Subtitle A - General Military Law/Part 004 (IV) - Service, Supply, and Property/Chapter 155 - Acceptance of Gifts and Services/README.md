@@ -27,7 +27,7 @@
 
 <b>2013</b>—Pub. L. 112–239, div. B, title XXVIII, §2852(b)(2), Jan. 2, 2013, 126 Stat. 2161, added item 2615.
 
-<b>2011</b>—Pub. L. 112–81, div. A, title V, §576(d)(2), Dec. 31, 2011, 125 Stat. 1429, substituted "Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families" for "Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families" in item 2613.
+<b>2011</b>—Pub. L. 112–81, div. A, title V, §576(d)(2), Dec. 31, 2011, 125 Stat. 1429, substituted "Acceptance of frequenttraveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families" for "Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families" in item 2613.
 
 Pub. L. 111–383, div. A, title V, §591(b), Jan. 7, 2011, 124 Stat. 4232, added item 2601a.
 

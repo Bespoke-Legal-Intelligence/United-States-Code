@@ -12,7 +12,7 @@ For purposes of this chapter, an individual shall be considered to have engaged 
 
 &emsp;&emsp;(D) serving the Armed Forces; and
 
-&emsp;(2) while so serving, was licensed or otherwise documented for service as a crewmember of such a vessel by an officer or employee of the United States authorized to license or document the individual for such service.
+&emsp;(2) while so serving, was licensed or otherwise documented for service as a crewmemberof such a vessel by an officer or employee of the United States authorized to license or document the individual for such service.
 
 (Added Pub. L. 105–368, title IV, §402(a), Nov. 11, 1998, 112 Stat. 3336; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(b)(12), Jan. 1, 2021, 134 Stat. 4752.)
 

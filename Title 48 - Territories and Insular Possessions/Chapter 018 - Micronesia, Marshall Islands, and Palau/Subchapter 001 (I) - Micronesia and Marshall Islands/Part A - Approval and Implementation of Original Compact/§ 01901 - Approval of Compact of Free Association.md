@@ -76,7 +76,7 @@ For purposes of implementation of the Compact and this joint resolution, each of
 
 The Compact, referred to in text, is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, as amended, set out below.
 
-This joint resolution, referred to in subsecs. (a), (b), (c), and (e), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to this part and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note below.
+This joint resolution, referred to in subsecs. (a), (b), (c), and (e), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, known as the Compact of Free Association Act of 1985, which is classified principally to this part and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note below.
 
 For Oct. 21, 1986, as the effective date of the Compact of Free Association with the Marshall Islands, and Nov. 3, 1986, as the effective date of the Compact of Free Association with the Federated States of Micronesia, referred to in subsecs. (a), (b), and (f), see Proc. No. 5564, Nov. 3, 1986, 51 F.R. 40399, set out as a note under section 1801 of this title.
 
@@ -326,7 +326,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 "(d) In the event that an Environmental Impact Statement is no longer required under the laws of the United States for major federal actions significantly affecting the quality of the human environment, the regulatory regime established under Sections 161(a)(3) and 161(a)(4) shall continue to apply to such activities of the Government of the United States until amended by mutual agreement.
 
-"(e) The President of the United States may exempt any of the activities of the Government of the United States under this Compact and its related agreements from any environmental standard or procedure which may be applicable under Sections 161(a)(3) and 161(a)(4) if the President determines it to be in the paramount interest of the Government of the United States to do so, consistent with Title Three of this Compact and theobligations of the Government of the United States under international law. Prior to any decision pursuant to this subsection, the views of the affected Government of the Marshall Islands or the Federated States of Micronesia shall be sought and considered to the extent practicable. If the President grants such an exemption, to the extent practicable, a report with his reasons for granting such exemption shall be given promptly to the affected Government.
+"(e) The President of the United States may exempt any of the activities of the Government of the United States under this Compact and its related agreements from any environmental standard or procedure which may be applicable under Sections 161(a)(3) and 161(a)(4) if the President determines it to be in the paramountinterest of the Government of the United States to do so, consistent with Title Three of this Compact and the obligations of the Government of the United States under international law. Prior to any decision pursuant to this subsection, the views of the affected Government of the Marshall Islands or the Federated States of Micronesia shall be sought and considered to the extent practicable. If the President grants such an exemption, to the extent practicable, a report with his reasons for granting such exemption shall be given promptly to the affected Government.
 
 "(f) The laws of the United States referred to in Section 161(a)(3) shall apply to the activities of the Government of the United States under this Compact and its related agreements only to the extent provided for in this Section.
 
@@ -382,7 +382,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 &emsp;"(1) any unpaid money judgment rendered by the High Court of the Trust Territory of the Pacific Islands against the Government of the Trust Territory of the Pacific Islands or the Government of the United States with regard to any cause of action arising as a result of acts or omissions of the Government of the Trust Territory of the Pacific Islands or the Government of the United States prior to the effective date of this Compact;
 
-&emsp;"(2) any claim settled by the claimant and the Government of the Trust Territory of the Pacific Islands but not paid as of the effective date of this Compact; and
+&emsp;"(2) any claim settled by the claimant and the Government of the Trust Territory of the Pacific Islandsbut not paid as of the effective date of this Compact; and
 
 &emsp;"(3) settlement of any administrative claim or of any action before a court of the Trust Territory of the Pacific Islands, pending as of the effective date of this Compact, against the Government of the Trust Territory of the Pacific Islands or the Government of the United States, arising as a result of acts or omissions of the Government of the Trust Territory of the Pacific Islands or the Government of the United States.
 
@@ -430,7 +430,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 #### "Section 211
 
-"(a) In order to assist the Governments of the Marshall Islands and the Federated States of Micronesia in their efforts to advance the economic self-sufficiency of their peoples and in recognition of the special relationship that exists between them and the United States, the Government of the United States shall provide on a grant basis the following amounts:
+"(a) In order to assist the Governments of the Marshall Islands and the Federated States of Micronesia intheir efforts to advance the economic self-sufficiency of their peoples and in recognition of the special relationship that exists between them and the United States, the Government of the United States shall provide on a grant basis the following amounts:
 
 &emsp;"(1) to the Government of the Marshall Islands, $26.1 million annually for five years commencing on the effective date of this Compact, $22.1 million annually for five years commencing on the fifth anniversary of the effective date of this Compact, and $19.1 million annually for five years commencing on the tenth anniversary of this Compact. Over this fifteen-year period, the Government of the Marshall Islands shall dedicate an average of no less than 40 percent of these amounts to the capital account subject to provision for revision of this percentage incorporated into the plan referred to in Section 211(b); and
 
@@ -480,7 +480,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 &emsp;"(2) $1.791 million annually for health and medical programs, including referrals to hospital and treatment centers; and
 
-&emsp;"(3) $2.687 million annually for a scholarship fund or funds to support the post-secondary education of citizens of the Marshall Islands and the Federated States of Micronesia attending United States accredited, post-secondary institutions in the United States, its territories and possessions, the Marshall Islands or the Federated States of Micronesia. The curricula criteria for the award of scholarships shallbe designed to advance the purposes of the plans referred to in Section 211(b).
+&emsp;"(3) $2.687 million annually for a scholarship fund or funds to support the post-secondary education of citizens of the Marshall Islands and the Federated States of Micronesia attending United States accredited, post-secondary institutions in the United States, its territories and possessions, the MarshallIslands or the Federated States of Micronesia. The curricula criteria for the award of scholarships shall be designed to advance the purposes of the plans referred to in Section 211(b).
 
 "(b) The Government of the United States shall provide the sum of $1.333 million as a contribution to the commencement of activities pursuant to Section 216(a)(1).
 

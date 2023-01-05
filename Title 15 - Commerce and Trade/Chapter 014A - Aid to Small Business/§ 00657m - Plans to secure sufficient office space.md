@@ -6,7 +6,7 @@ The Administrator shall develop long-term plans to secure sufficient office spac
 
 #### (b) Report
 
-The Administrator shall include a report on the plans developed under subsection (a) each time the Administration submits a report required under section 657o of this title.
+The Administrator shall include a report on the plans developed under subsection (a) eachtime the Administration submits a report required under section 657o of this title.
 
 (Pub. L. 85–536, §2\[41\], as added Pub. L. 110–234, title XII, §12076, May 22, 2008, 122 Stat. 1415, and Pub. L. 110–246, §4(a), title XII, §12076, June 18, 2008, 122 Stat. 1664, 2177.)
 

@@ -24,7 +24,7 @@ The Secretary shall require each application to include—
 
 #### References in Text
 
-Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1279, asamended, which was classified to section 3969 of this title prior to repeal by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
+Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1279, which was classified to section 3969 of this title prior to repeal by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

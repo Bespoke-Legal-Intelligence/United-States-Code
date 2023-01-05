@@ -22,7 +22,7 @@ Payments under this subchapter that would otherwise be made to a participant, fo
 
 #### (d) Prospective payments; bar to recovery
 
-(1) Subsections (b) and (c) apply only to payments made under this subchapter for periods beginning after the date of receipt by the Director of written notice of such decree, order, or agreement and such additional information and documentation as the Director may require.
+(1) Subsections (b) and (c) apply only to payments made under this subchapter for periods beginning after the date of receipt by the Director of written notice of such decree, order, oragreement and such additional information and documentation as the Director may require.
 
 (2) Any payment under subsection (b) or (c) to an individual bars recovery by any other individual.
 
@@ -36,7 +36,7 @@ An individual entitled to an annuity from the fund may make allotments or assign
 
 #### Prior Provisions
 
-A prior section 264 of Pub. L. 88–643, as added Pub. L. 94–522, title II, §212, Oct. 17, 1976, 90 Stat. 2471, related to recovery of payments and was set out as a noteunder section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496. See section 2095 of this title.
+A prior section 264 of Pub. L. 88–643, as added Pub. L. 94–522, title II, §212, Oct. 17, 1976, 90 Stat. 2471, related to recovery of payments and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496. See section 2095 of this title.
 
 #### Amendments
 

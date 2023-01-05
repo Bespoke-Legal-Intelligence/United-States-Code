@@ -73,6 +73,7 @@
 | [<b>603.</b>](Subtitle%20006%20%28VI%29%20-%20Other%20Crime%20Control%20and%20Law%20Enforcement%20Matters/Chapter%20603%20-%20Improving%20the%20Quality%20of%20Representation%20in%20State%20Capital%20Cases/README.md) | <b>Improving the Quality of Representation in State Capital Cases</b> | <b>60301</b> |
 | [<b>605.</b>](Subtitle%20006%20%28VI%29%20-%20Other%20Crime%20Control%20and%20Law%20Enforcement%20Matters/Chapter%20605%20-%20Recidivism%20Prevention/README.md) | <b>Recidivism Prevention</b> | <b>60501</b> |
 | [<b>607.</b>](Subtitle%20006%20%28VI%29%20-%20Other%20Crime%20Control%20and%20Law%20Enforcement%20Matters/Chapter%20607%20-%20Project%20Safe%20Neighborhoods%20Block%20Grant%20Program/README.md) | <b>Project Safe Neighborhoods Block Grant Program</b> | <b>60701</b> |
+| [<b>609.</b>](Subtitle%20006%20%28VI%29%20-%20Other%20Crime%20Control%20and%20Law%20Enforcement%20Matters/Chapter%20609%20-%20Homicide%20Victims%27%20Families%27%20Rights/README.md) | <b>Homicide Victims' Families' Rights</b> | <b>60901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

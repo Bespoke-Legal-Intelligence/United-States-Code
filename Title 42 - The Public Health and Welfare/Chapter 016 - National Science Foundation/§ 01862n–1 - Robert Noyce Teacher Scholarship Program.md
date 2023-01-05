@@ -144,7 +144,7 @@
 
 #### (e) Conditions of support
 
-As a condition of acceptance of a scholarship or stipend under this section, a recipient of a scholarship or stipend shall enter into an agreement with the eligible entity—
+As a condition of acceptance of a scholarship or stipend under this section, a recipient of ascholarship or stipend shall enter into an agreement with the eligible entity—
 
 &emsp;(1) accepting the terms of the scholarship or stipend pursuant to subsection (c) or subsection (d);
 
@@ -174,7 +174,7 @@ As a condition of acceptance of a scholarship or stipend under this section, a r
 
 #### (C) Retain percentage
 
-&emsp;&emsp;An eligible entity may retain a percentage of any repayment the eligible entity collectsto defray administrative costs associated with the collection. The Director shall establish a single, fixed percentage that will apply to all eligible entities.
+&emsp;&emsp;An eligible entity may retain a percentage of any repayment the eligible entity collects to defray administrative costs associated with the collection. The Director shall establish a single, fixed percentage that will apply to all eligible entities.
 
 #### (g) Failure to complete service obligation
 
@@ -302,7 +302,7 @@ Subsec. (i)(7). Pub. L. 115–91, §1649C(2), amended par. (7) generally. Prior 
 
 #### Change of Name
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science and Technology of House of Representatives changed to Committee on Science,Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2018 Amendment
 

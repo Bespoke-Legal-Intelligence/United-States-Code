@@ -76,7 +76,7 @@ The Office, in consultation with the Chesapeake Executive Council, shall—
 
 #### (A) Support
 
-&emsp;&emsp;The Director shall make grants under this subsection to pay the Federal share of thecost of projects that are carried out by entities eligible under paragraph (3) for the restoration of fisheries and habitats in the Chesapeake Bay.
+&emsp;&emsp;The Director shall make grants under this subsection to pay the Federal share of the cost of projects that are carried out by entities eligible under paragraph (3) for the restoration of fisheries and habitats in the Chesapeake Bay.
 
 #### (B) Federal share
 

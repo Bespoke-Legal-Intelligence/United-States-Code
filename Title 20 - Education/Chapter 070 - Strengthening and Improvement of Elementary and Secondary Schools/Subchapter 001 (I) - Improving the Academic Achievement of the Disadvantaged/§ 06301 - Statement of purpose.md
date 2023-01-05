@@ -96,6 +96,10 @@ Competitive Programs.—With respect to programs that are conducted by the Secre
 
 Impact Aid.—With respect to title VIII (Impact Aid) \[probably meant title VIII (now VII) of Pub. L. 89–10, 20 U.S.C. 7701 et seq.\], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002."
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 117–335, §1, Jan. 5, 2023, 136 Stat. 6143, provided that: "This Act \[enacting section 7457 of this title\] may be cited as the 'Native American Language Resource Center Act of 2022'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–211, §1, Dec. 4, 2020, 134 Stat. 1017, provided that: "This Act \[enacting provisions set out as notes under sections 6393 and 7705 of this title\] may be cited as the 'Impact Aid Coronavirus Relief Act'."
@@ -248,7 +252,7 @@ Authorized programs.—Except as otherwise provided in this Act, or the amendmen
 
 &emsp;"(2)
 
-Planning and transition.—Notwithstanding any other provision of law, a recipient of funds under a program described in paragraph (1)(A)(ii) or (1)(B) may use funds awarded to the recipient under such program, to carry out necessary and reasonable planning and transition activities in order to ensure the recipient's compliance with the amendments to such program made by this Act.
+Planning and transition.—Notwithstanding any other provision of law, a recipient of funds under a program described in paragraph (1)(A)(ii) or (1)(B) may use funds awarded to the recipient under such program, to carry out necessary and reasonable planning and transition activities in order to ensure therecipient's compliance with the amendments to such program made by this Act.
 
 "(b)
 

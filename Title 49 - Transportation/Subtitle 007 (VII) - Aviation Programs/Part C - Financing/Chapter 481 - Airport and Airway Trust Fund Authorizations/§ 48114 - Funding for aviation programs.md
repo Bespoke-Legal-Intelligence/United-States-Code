@@ -36,7 +36,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Total budget resources.—The term "total budget resources" means the total amount made available from the Airport and Airway Trust Fund for the sum of obligation limitations and budget authority made available for a fiscal year for the following budget accounts that are subject to the obligation limitation on contract authority provided in this title and for which appropriations are provided pursuant to authorizations contained in this title:
+Total budget resources.—The term "total budget resources" means the total amount made available from the Airport and Airway Trust Fund for the sum of obligation limitations and budget authority made available for a fiscal year for the following budget accounts that are subject to the obligation limitation on contract authority provided inthis title and for which appropriations are provided pursuant to authorizations contained in this title:
 
 &emsp;&emsp;(A) 69–8106–0–7–402 (Grants in Aid for Airports).
 
@@ -48,7 +48,7 @@ Total budget resources.—The term "total budget resources" means the total amou
 
 &emsp;(2)
 
-Estimated level of receipts plus interest.—The term "estimated level of receipts plus interest" means the level of excise taxes and interest credited to the Airport and Airway Trust Fund under section 9502 of the Internal Revenue Code of 1986 for a fiscal year as set forth in the President's budget baselineprojection as defined in section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) (Treasury identification code 20–8103–0–7–402) for that fiscal year submitted pursuant to section 1105 of title 31, United States Code.
+Estimated level of receipts plus interest.—The term "estimated level of receipts plus interest" means the level of excise taxes and interest credited to the Airport and Airway Trust Fund under section 9502 of the Internal Revenue Code of 1986 for a fiscal year as set forth in the President's budget baseline projection as defined in section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 (Public Law 99–177) (Treasury identification code 20–8103–0–7–402) for that fiscal year submitted pursuant to section 1105 of title 31, United States Code.
 
 (c)
 

@@ -6,7 +6,7 @@ The purpose of this section is to establish a demonstration program to test the 
 
 #### (b) Housing assistance
 
-In connection with this demonstration, the Secretary of Housing and Urban Development may enter into contracts with public housing agencies to provide not more than 1,500 incremental vouchers and certificates under sections 1437f(b) and 1437f(o) of this title. A public housing agency may not require that a frail elderly person live in a particular structure or unit, but the agency may restrict the program under this section to a geographic area, where necessary to ensure that the provision of supportive services is feasible. At the end of the demonstration period, the public housing agency shall give each frail elderly person the option to continue to receive assistance under the housing certificate or voucher program of the agency. In the demonstration, the Secretary may also provide for supportive services in connection with existing contracts for housing assistance under sections 1437f(b) and 1437f(o) of this title.
+In connection with this demonstration, the Secretary of Housing and Urban Development may enter into contracts with public housing agencies to provide not more than 1,500 incremental vouchers and certificates under sections 1437f(b) and 1437f(o) of this title. A public housing agency may not require that a frail elderly person live in a particular structure or unit, but the agency may restrict the program under this section to a geographic area, where necessary to ensure that the provision of supportive services is feasible. At the end of the demonstration period, the public housing agency shall give eachfrail elderly person the option to continue to receive assistance under the housing certificate or voucher program of the agency. In the demonstration, the Secretary may also provide for supportive services in connection with existing contracts for housing assistance under sections 1437f(b) and 1437f(o) of this title.
 
 #### (c) Supportive services requirements and matching funding
 
@@ -38,7 +38,7 @@ An application under this section shall be submitted by a public housing agency 
 
 &emsp;(2) a description of the size and characteristics of the population of frail elderly persons and of their housing and supportive services needs;
 
-&emsp;(3) a description of the proposed method of determining whether a person qualifies as a frail elderly person (specifying any additionaleligibility requirements proposed by the agency), and of selecting frail elderly persons to participate;
+&emsp;(3) a description of the proposed method of determining whether a person qualifies as a frail elderly person (specifying any additional eligibility requirements proposed by the agency), and of selecting frail elderly persons to participate;
 
 &emsp;(4) a statement that the public housing agency will create a professional assessment committee or will work with another entity which will assist the public housing agency in identifying and providing only services that each frail elderly person needs to remain living independently;
 
@@ -180,7 +180,7 @@ Not later than the expiration of the 180-day period beginning on the date that f
 
 #### References in Text
 
-The Older Americans Act of 1965, referred to in subsec. (d)(12), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title III of the Act is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act of 1965, referred to in subsec. (d)(12), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Title III of the Act is classified generally to subchapter III (§3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 Section 1437a(b)(11) of this title, referred to in subsec. (g)(5), was repealed by Pub. L. 104–330, title V, §501(b)(1)(D), Oct. 26, 1996, 110 Stat. 4041, and a new section 1437a(b)(11), defining "public housing agency plan", was enacted by Pub. L. 105–276, title V, §506(4), Oct. 21, 1998, 112 Stat. 2524.
 

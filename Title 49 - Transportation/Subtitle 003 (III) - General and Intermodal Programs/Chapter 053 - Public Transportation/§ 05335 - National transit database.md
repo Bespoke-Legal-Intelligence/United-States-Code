@@ -18,7 +18,7 @@ Data Required to Be Reported.—Each recipient of a grant under this chapter sha
 
 &emsp;(3) any data on fatalities that result from an impact with a bus.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 838; Pub. L. 104–287, §5(9), (18), Oct. 11, 1996, 110 Stat. 3389, 3390; Pub. L. 104–316, title I, §127(b), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §3026, June 9, 1998, 112 Stat. 365; Pub. L. 109–59,title III, §§3002(b)(4), 3033(a), Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 112–141, div. B, §§20025(a), 20030(j), July 6, 2012, 126 Stat. 718, 731; Pub. L. 117–58, div. C, §30014, Nov. 15, 2021, 135 Stat. 910.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 838; Pub. L. 104–287, §5(9), (18), Oct. 11, 1996, 110 Stat. 3389, 3390; Pub. L. 104–316, title I, §127(b), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–178, title III, §3026, June 9, 1998, 112 Stat. 365; Pub. L. 109–59, title III, §§3002(b)(4), 3033(a), Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 112–141, div. B, §§20025(a), 20030(j), July 6, 2012, 126 Stat. 718, 731; Pub. L. 117–58, div. C, §30014, Nov. 15, 2021, 135 Stat. 910.)
 
 Historical and Revision Notes
 
@@ -136,5 +136,5 @@ Pub. L. 112–141, div. B, §20025(b), July 6, 2012, 126 Stat. 718, provided tha
 
 &emsp;"(1) develop and implement appropriate internal control activities to ensure that public transportation safety incident data is reported accurately and reliably by public transportation systems and State safety oversight agencies to the State Safety Oversight Rail Accident Database; and
 
-&emsp;"(2) report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committeeon Transportation and Infrastructure of the House of Representatives within 1 year of enactment of the Federal Public Transportation Act of 2012 \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\] on the steps taken to improve the accuracy and reliability of public transportation safety incident data reported to the State Safety Oversight Rail Accident Database."
+&emsp;"(2) report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives within 1 year of enactment of the Federal Public Transportation Act of 2012 \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\] on the steps taken to improve the accuracy and reliability of public transportation safety incident data reported to the State Safety Oversight Rail Accident Database."
 

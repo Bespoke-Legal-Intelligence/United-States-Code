@@ -34,7 +34,7 @@ Other functions.—The functions of each Chief Acquisition Officer include—
 
 &emsp;&emsp;(G) developing and maintaining an acquisition career management program in the executive agency to ensure that there is an adequate professional workforce; and
 
-&emsp;&emsp;(H) as part of the strategic planning and performance evaluation process required under section 306 of title 5 and sections 1105(a)(28), 1115, 1116, and 9703 (added by section 5(a) of Public Law 103–62 (107 Stat. 289)) of title 31—
+&emsp;&emsp;(H) as part of the strategic planning and performance evaluation process required under section 306 of title 5 and sections1105(a)(28), 1115, 1116, and 9703 (added by section 5(a) of Public Law 103–62 (107 Stat. 289)) of title 31—
 
 &emsp;&emsp;&emsp;(i) assessing the requirements established for agency personnel regarding knowledge and skill in acquisition resources management and the adequacy of those requirements for facilitating the achievement of the performance goals established for acquisition management;
 

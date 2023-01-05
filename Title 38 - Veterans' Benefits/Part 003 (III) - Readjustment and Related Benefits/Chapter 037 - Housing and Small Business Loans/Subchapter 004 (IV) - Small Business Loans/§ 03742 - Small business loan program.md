@@ -32,7 +32,7 @@
 
 &emsp;(A) such undertaking or suspension of the obligation is, in the judgment of the Secretary, necessary to protect the interest of the United States;
 
-&emsp;(B) with the undertaking or suspension of the obligation, the small business concernwould, in the judgment of the Secretary, become or remain a viable small business entity; and
+&emsp;(B) with the undertaking or suspension of the obligation, the small business concern would, in the judgment of the Secretary, become or remain a viable small business entity; and
 
 &emsp;(C) the small business concern executes an agreement in writing satisfactory to the Secretary as provided by paragraph (4) of this subsection.
 

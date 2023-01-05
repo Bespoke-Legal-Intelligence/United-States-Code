@@ -8,7 +8,7 @@ The authority of the Secretary to carry out this chapter shall terminate Septemb
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", and was translated as reading "this title", meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", and was translated as reading "this title",meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 #### Amendments
 
@@ -24,9 +24,13 @@ This chapter, referred to in text, was in the original "this Act", and was trans
 
 #### Recreation Fees
 
-Pub. L. 116–260, div. G, title IV, §423, Dec. 27, 2020, 134 Stat. 1541, provided that: "Section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809) shall be applied by substituting 'October 1, 2022' for 'September 30, 2019'."
+Pub. L. 117–328, div. G, title IV, §421, Dec. 29, 2022, 136 Stat. 4826, provided that: "Section 810 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6809) shall be applied by substituting 'October 1, 2024' for 'September 30, 2019'."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–103, div. G, title IV, §421, Mar. 15, 2022, 136 Stat. 415.
+
+Pub. L. 116–260, div. G, title IV, §423, Dec. 27, 2020, 134 Stat. 1541.
 
 Pub. L. 116–94, div. D, title IV, §425, Dec. 20, 2019, 133 Stat. 2748.
 

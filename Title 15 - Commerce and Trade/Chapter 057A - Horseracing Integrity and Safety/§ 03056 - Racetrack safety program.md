@@ -82,7 +82,7 @@ The following activities shall be carried out under the racetrack safety program
 
 #### (B) Collection of information
 
-&emsp;&emsp;In accordance with the registration of covered persons under section 3054(d) of thistitle, the Authority may require covered persons to collect and submit to the database described in subparagraph (A) such information as the Authority may require to further the goal of increased racehorse welfare.
+&emsp;&emsp;In accordance with the registration of covered persons under section 3054(d) of this title, the Authority may require covered persons to collect and submit to the database described in subparagraph (A) such information as the Authority may require to further the goal of increased racehorse welfare.
 
 (Pub. L. 116–260, div. FF, title XII, §1207, Dec. 27, 2020, 134 Stat. 3267.)
 

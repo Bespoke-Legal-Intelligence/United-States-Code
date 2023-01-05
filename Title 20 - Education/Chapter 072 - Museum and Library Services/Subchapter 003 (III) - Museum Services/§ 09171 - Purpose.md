@@ -6,7 +6,7 @@ It is the purpose of this subchapter—
 
 &emsp;(2) to encourage and support museums in carrying out their public service role of connecting the whole of society to the cultural, artistic, historical, natural, and scientific understandings that constitute our diverse heritage;
 
-&emsp;(3) to encourage leadership, innovation, and applications of the most current technologiesand practices to enhance museum services through international, national, regional, State, and local networks and partnerships;
+&emsp;(3) to encourage leadership, innovation, and applications of the most current technologies and practices to enhance museum services through international, national, regional, State, and local networks and partnerships;
 
 &emsp;(4) to assist, encourage, and support museums in carrying out their stewardship responsibilities to achieve the highest standards in conservation and care of the diverse cultural, historic, natural, and scientific heritage of the United States to benefit future generations;
 

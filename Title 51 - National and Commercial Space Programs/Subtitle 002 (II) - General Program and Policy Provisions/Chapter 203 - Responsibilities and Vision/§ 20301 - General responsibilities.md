@@ -56,13 +56,299 @@ Pub. L. 109–155, title I, §101(a), Dec. 30, 2005, 119 Stat. 2897.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Space Launch System Configurations
+
+Pub. L. 117–167, div. B, title VII, §10812, Aug. 9, 2022, 136 Stat. 1735, provided that:
+
+"(a)
+
+Exploration Ground Systems Infrastructure.—The Administrator shall ensure that—
+
+&emsp;"(1) the necessary elements of a ground system infrastructure are in place to enable the preparation and use of the Space Launch System, specifically the Block 1 (at least 70 mt), Block 1B (at least 105 mt), and Block 2 (at least 130 mt) variants of the Space Launch System; and
+
+&emsp;"(2) not fewer than 2 bays of the vehicle assembly building of such ground system infrastructure are outfitted and dedicated to support Space Launch System stacking and preparations.
+
+"(b)
+
+Flight Rate and Safety.—After the first crewed lunar landing of the Administration's Moon to Mars activities, the Administrator shall, to the extent practicable, seek to carry out a flight rate of 2 integrated Space Launch System and Orion crew vehicle missions annually until the lunar activities needed to enable a human mission to Mars are completed so as to maintain the critical human spaceflight production and operations skills necessary for the safety of human spaceflight activities in deep space.
+
+"(c)
+
+Mobile Launch Platform.—
+
+&emsp;"(1)
+
+In general.—The Administrator is authorized to maintain 2 operational mobile launch platforms to enable the launch of multiple configurations of the Space Launch System.
+
+&emsp;"(2)
+
+Second mobile launch platform.—
+
+&emsp;&emsp;"(A)
+
+In general.—In implementing paragraph (1), the Administrator shall take all necessary steps to develop and complete a second mobile launch platform, to be in place by 2026, to support the first launch of the Block 1B variant of the Space Launch System.
+
+&emsp;&emsp;"(B)
+
+Requirement.—Such second mobile launch platform shall be sized and constructed to accommodate the Block 2 variant of the Space Launch System.
+
+"(d)
+
+Reports.—The Administrator shall submit to Congress—
+
+&emsp;"(1) not later than 45 days after the date of the enactment of this Act \[Aug. 9, 2022\], a report on the steps the Administrator and industry partners are taking—
+
+&emsp;&emsp;"(A) to address the cost, schedule, and performance challenges in the development of the Mobile Launch–2 platform; and
+
+&emsp;&emsp;"(B) to ensure that such platform is ready for operational use on a schedule that aligns with the current plans for an Artemis IV launch, which is currently anticipated in 2027; and
+
+&emsp;"(2) not later than 90 days after such date of enactment, a report that contains a list of the key milestones required for completing each of the Space Launch System variants, and an estimated date on which such milestones will be completed.
+
+"(e)
+
+Exploration Upper Stage.—
+
+&emsp;"(1)
+
+In general.—To meet the capability requirements under section 302(c)(2) of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18322(c)(2)), the Administrator shall continue development of the Exploration Upper Stage for the Space Launch System on a schedule consistent with the Artemis IV lunar mission.
+
+&emsp;"(2)
+
+Briefing.—Not later than 90 days after the date of the enactment of this Act, the Administrator shall brief the appropriate committees of Congress on the development and scheduled availability of the Exploration Upper Stage for the Artemis IV lunar mission.
+
+"(f)
+
+Main Propulsion Test Article.—To meet the requirements under section 302(c)(3) of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18322(c)(3)), the Administrator may initiate development of a main propulsion test article for the integrated Exploration Upper Stage element of the Space Launch System, consistent with cost and schedule constraints, particularly for long-lead propulsion hardware needed for flight."
+
+\[For definitions of terms used in section 10812 of Pub. L. 116–167, set out above, see section 10802 of Pub. L. 117–167, set out as a Definitions note under section 10101 of this title.\]
+
+#### Rocket Engine Test Infrastructure
+
+Pub. L. 117–167, div. B, title VII, §10813, Aug. 9, 2022, 136 Stat. 1736, provided that:
+
+"(a)
+
+In General.—The Administrator shall, to the extent practicable, continue to carry out a program to modernize rocket propulsion test infrastructure at NASA facilities—
+
+&emsp;"(1) to increase capabilities;
+
+&emsp;"(2) to enhance safety;
+
+&emsp;"(3) to support propulsion development and testing; and
+
+&emsp;"(4) to foster the improvement of Government and commercial space transportation and exploration.
+
+"(b)
+
+Projects.—Projects funded under the program described in subsection (a) may include—
+
+&emsp;"(1) infrastructure and other facilities and systems relating to rocket propulsion test stands and rocket propulsion testing;
+
+&emsp;"(2) enhancements to test facility capacity and flexibility; and
+
+&emsp;"(3) such other projects as the Administrator considers appropriate to meet the goals described in that subsection.
+
+"(c)
+
+Requirements.—In carrying out the program under subsection (a), the Administrator shall—
+
+&emsp;"(1) to the extent practicable and appropriate, prioritize investments in projects that enhance test and flight certification capabilities, including for large thrust-level atmospheric and altitude engines and engine systems, and multi-engine integrated test capabilities;
+
+&emsp;"(2) continue to make underutilized test facilities available for commercial use on a reimbursable basis; and
+
+&emsp;"(3) ensure that no project carried out under this program adversely impacts, delays, or defers testing or other activities associated with facilities used for Government programs, including—
+
+&emsp;&emsp;"(A) the Space Launch System and the Exploration Upper Stage of the Space Launch System;
+
+&emsp;&emsp;"(B) in-space propulsion to support exploration missions; or
+
+&emsp;&emsp;"(C) nuclear propulsion testing.
+
+"(d)
+
+Rule of Construction.—Nothing in this section shall preclude a NASA program, including the Space Launch System and the Exploration Upper Stage of the Space Launch System, from using the modernized test infrastructure developed under this section.
+
+"(e)
+
+Working Capital Fund Study.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of the enactment of this division \[Aug. 9, 2022\], the Administrator shall submit to the appropriate committees of Congress a report on the use of the authority under section 30102 of title 51, United States Code, to promote increased use of NASA rocket propulsion test infrastructure for research, development, testing, and evaluation activities by other Federal agencies, firms, associations, corporations, and educational institutions.
+
+&emsp;"(2)
+
+Matters to be included.—The report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An assessment of prior use, if any, of the authority under section 30102 of title 51, United States Code, to improve testing infrastructure.
+
+&emsp;&emsp;"(B) An analysis of any barrier to implementation of such authority for the purpose of promoting increased use of NASA rocket propulsion test infrastructure."
+
+\[For definitions of terms used in section 10813 of Pub. L. 116–167, set out above, see section 10802 of Pub. L. 117–167, set out as a Definitions note under section 10101 of this title.\]
+
+#### Search for Life
+
+Pub. L. 117–167, div. B, title VII, §10822, Aug. 9, 2022, 136 Stat. 1740, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) the report entitled 'An Astrobiology Strategy for the Search for Life in the Universe' published by the National Academies of Sciences, Engineering, and Medicine outlines key scientific questions and methods on the search for the origin, evolution, distribution, and future of life in the universe; and
+
+&emsp;"(2) the interaction of lifeforms with their environment, a central focus of astrobiology research, is a topic of broad significance to life sciences research in space and on Earth.
+
+"(b)
+
+Program Continuation.—
+
+&emsp;"(1)
+
+In general.—The Administrator \[of the National Aeronautics and Space Administration\] shall continue to implement a collaborative, multidisciplinary science and technology development program to search for evidence of the existence or historical existence of life beyond Earth in support of—
+
+&emsp;&emsp;"(A) the scientific priorities of the most recent decadal surveys on planetary science and astrobiology and astronomy and astrophysics of the National Academies of Sciences, Engineering, and Medicine; and
+
+&emsp;&emsp;"(B) the objective described in section 20102(d)(10) of title 51, United States Code.
+
+&emsp;"(2)
+
+Element.—The program under paragraph (1) shall include activities relating to astronomy, biology, geology, and planetary science.
+
+&emsp;"(3)
+
+Coordination with life sciences program.—In carrying out the program under paragraph (1), the Administrator shall coordinate efforts with the life sciences program of the \[National Aeronautics and Space\] Administration.
+
+&emsp;"(4)
+
+Instrumentation and sensor technology.—In carrying out the program under paragraph (1), the Administrator may invest in the development of new instrumentation and sensor technology.
+
+&emsp;"(5)
+
+Technosignatures.—In carrying out the program under paragraph (1), the Administrator may support, as appropriate, merit-reviewed, competitively selected research on technosignatures."
+
+#### Space Nuclear Capabilities
+
+Pub. L. 117–167, div. B, title VII, §10841, Aug. 9, 2022, 136 Stat. 1751, provided that:
+
+"(a)
+
+Nuclear Propulsion.—
+
+&emsp;"(1)
+
+Use in robotic and human exploration activities.—The Administrator, in collaboration with other relevant Federal agencies and with industry, shall take all necessary steps to carry out research and development, ground-based testing and in-space testing, and other associated activities to enable the use of space nuclear propulsion in Administration robotic and human exploration activities, including in cargo missions to Mars in the late 2020's and crewed missions to Mars in the 2030's.
+
+&emsp;"(2)
+
+Space nuclear propulsion program.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Administrator shall establish a space nuclear propulsion program to carry out the activities described in paragraph (1).
+
+&emsp;&emsp;"(B)
+
+Elements.—The program established under subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) Research and development in both nuclear electric and nuclear thermal propulsion technology maturation efforts, to the extent practicable, and the development of consistent figures of merit across both nuclear electric and nuclear thermal systems, as recommended by the National Academies of Sciences, Engineering, and Medicine in the report entitled 'Space Nuclear Propulsion for Human Mars Exploration', so as to inform a down-selection of a nuclear electric or nuclear thermal propulsion system by 2026, or as early as practicable.
+
+&emsp;&emsp;&emsp;"(ii) Ground-based testing, to the extent practicable, including not less than 1 ground-based test of a full-scale, integrated nuclear propulsion system before any in-space test or demonstration of such system.
+
+&emsp;&emsp;&emsp;"(iii) In-space demonstration of a nuclear propulsion system in the late 2020's, which may be carried out as a cargo mission to Mars.
+
+&emsp;"(3)
+
+Plan.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Aug. 9, 2022\], the Administrator shall submit to the appropriate committees of Congress a plan to achieve an in-space flight test of a nuclear propulsion system that could support the first crewed mission to Mars in the 2030's.
+
+&emsp;&emsp;"(B)
+
+Elements.—The plan required by subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) A timeline to mature enabling technologies and an outline of major milestones for integration of such technologies into the larger nuclear propulsion system.
+
+&emsp;&emsp;&emsp;"(ii) A cost estimate for maturing such technologies.
+
+&emsp;&emsp;&emsp;"(iii) A description of facility requirements for the program under paragraph (2) associated with such technologies.
+
+&emsp;&emsp;&emsp;"(iv) A description of the manner in which the Administrator will use the efforts described in paragraph (2)(B) to determine whether the in-space flight test should demonstrate a nuclear electric propulsion system or a nuclear thermal propulsion system.
+
+&emsp;&emsp;"(C) An identification of any policy or regulatory challenges or barriers to conducting such in-space test or any precursor ground-based testing, and a description of options for addressing such challenges or barriers.
+
+"(b)
+
+Nuclear Surface Power Program.—
+
+&emsp;"(1)
+
+Establishment.—The Administrator shall establish a program for research, testing, and development of a space nuclear surface power reactor design.
+
+&emsp;"(2)
+
+Plan.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Administrator shall—
+
+&emsp;&emsp;&emsp;"(i) develop a plan and timeline for the program established under paragraph (1), taking into consideration mission needs; and
+
+&emsp;&emsp;&emsp;"(ii) include in such plan opportunities for participation by United States commercial entities.
+
+&emsp;&emsp;"(B)
+
+Submission.—Not later than 1 year after the date of the enactment of this Act, the Administrator shall submit to the appropriate committees of Congress the plan developed under subparagraph (A).
+
+"(c)
+
+Assessment of In-space Propulsion Testing Facilities.—
+
+&emsp;"(1)
+
+In general.—The Administrator shall carry out a needs assessment for facilities and technical capabilities required to support ground-based testing of a full-scale, full-power integrated nuclear propulsion system.
+
+&emsp;"(2)
+
+Element.—The assessment required by paragraph (1) shall consider the potential development of facilities that will support long-term research and development of space nuclear propulsion systems.
+
+&emsp;"(3)
+
+Report.—Not later than 270 days after the date of the enactment of this Act, the Administrator shall submit to the appropriate committees of Congress a report on the results of the assessment carried out under paragraph (1)."
+
+\[For definitions of terms used in section 10841 of Pub. L. 116–167, set out above, see section 10802 of Pub. L. 117–167, set out as a Definitions note under section 10101 of this title.\]
+
+#### Prioritization of Low-Enriched Uranium Technology
+
+Pub. L. 117–167, div. B, title VII, §10842, Aug. 9, 2022, 136 Stat. 1753, provided that:
+
+"(a)
+
+In General.—The Administrator shall prioritize the use of low-enriched uranium, including high-assay low-enriched uranium, for space nuclear research and development, including ground and in-space testing and other related demonstration activities carried out under this title \[see Short Title of 2022 Amendment note set out under section 10101 of this title\].
+
+"(b)
+
+Interagency Collaboration.—The Administrator shall, to the extent practicable, collaborate and coordinate with the Secretary of Defense, the Secretary of Energy, and the heads of other relevant Federal agencies on technology development, knowledge exchange, lessons learned regarding nuclear power and propulsion technologies, common fuels, flight demonstrations, and operational systems production for space applications.
+
+"(c)
+
+Report on Nuclear Technology Prioritization.—Not later than 120 days after the date of the enactment of this Act \[Aug. 9, 2022\], the Administrator shall submit to the appropriate committees of Congress a report that details the actions taken and planned, including a timeline for such actions, to implement subsection (a)."
+
+\[For definitions of terms used in section 10842 of Pub. L. 116–167, set out above, see section 10802 of Pub. L. 117–167, set out as a Definitions note under section 10101 of this title.\]
+
+#### Funding for Certain Lunar Transportation and Habitation Capabilities, Lunar Terrain Mobility Capabilities, Exploration Mission Rated Suits, Lunar Communications and Navigation Capabilities
+
+Pub. L. 117–103, div. B, title III, Mar. 15, 2022, 136 Stat. 136, provided in part: "That acquisition of human-rated deep space exploration lunar and cislunar transportation and habitation capabilities, human-rated lunar terrain mobility capabilities, exploration mission rated suits, lunar communications and navigation capabilities, and their associated components, may be funded incrementally in fiscal year 2022 and thereafter."
+
 #### Funding for Orion, Space Launch System, Exploration Ground Systems, and Mobile Launch Platforms
 
-Pub. L. 115–141, div. B, title III, Mar. 23, 2018, 132 Stat. 430, provided: "That acquisition of Orion crew vehicles, SLS launch vehicles, Exploration Ground Systems, mobile launch platforms, and their associated components may be funded incrementally in fiscal year 2018 and thereafter".
+Pub. L. 115–141, div. B, title III, Mar. 23, 2018, 132 Stat. 430, provided in part: "That acquisition of Orion crew vehicles, SLS launch vehicles, Exploration Ground Systems, mobile launch platforms, and their associated components may be funded incrementally in fiscal year 2018 and thereafter".
 
 #### Space Launch System, Orion, and Exploration Ground Systems
 
-Pub. L. 115–10, title IV, §421, Mar. 21, 2017, 131 Stat. 35, provided that:
+Pub. L. 115–10, title IV, §421, Mar. 21, 2017, 131 Stat. 35, as amended by Pub. L. 117–167, div. B, title VII, §10817(a), Aug. 9, 2022, 136 Stat. 1740, provided that:
 
 "(a)
 
@@ -92,7 +378,7 @@ Sense of Congress on Space Launch System, Orion, and Exploration Ground Systems.
 
 &emsp;"(2) using the Space Launch System and Orion for a wide range of contemplated missions will facilitate the national defense, science, and exploration objectives of the United States;
 
-&emsp;"(3) the United States should have continuity of purpose for the Space Launch System and Orion in deep space exploration missions, using them beginning with the uncrewed mission, EM–1, planned for 2018, followed by the crewed mission, EM–2, in cis-lunar space planned for 2021, and for subsequent missions beginning with EM–3 extending into cis-lunar space and eventually to Mars;
+&emsp;"(3) the United States should have continuity of purpose for the Space Launch System and Orion in deep space exploration missions, using them beginning with the uncrewed mission, Artemis I, planned for 2018, followed by the crewed mission, Artemis II, in cis-lunar space planned for 2021, and for subsequent missions beginning with Artemis III extending into cis-lunar space and eventually to Mars;
 
 &emsp;"(4) the President's annual budget requests for the Space Launch System and Orion development, test, and operational phases should strive to accurately reflect the resource requirements of each of those phases;
 
@@ -132,7 +418,7 @@ Exploration Missions.—The Administrator shall continue development of—
 
 &emsp;"(2) subject to applicable human rating processes and requirements, a crewed exploration mission to demonstrate the Space Launch System, including the Core Stage and Exploration Upper Stages, by 2021;
 
-&emsp;"(3) subsequent missions beginning with EM–3 at operational flight rate sufficient to maintain safety and operational readiness using the Space LaunchSystem and Orion to extend into cis-lunar space and eventually to Mars; and
+&emsp;"(3) subsequent missions beginning with Artemis III at operational flight rate sufficient to maintain safety and operational readiness using the Space Launch System and Orion to extend into cis-lunar space and eventually to Mars; and
 
 &emsp;"(4) a deep space habitat as a key element in a deep space exploration architecture along with the Space Launch System and Orion.
 
@@ -159,6 +445,8 @@ Contents.—In preparing the report, the Administrator shall—
 &emsp;"(3)
 
 Submission to congress.—Not later than 180 days after the date of enactment of this Act \[Mar. 21, 2017\], the Administrator shall submit the report to the appropriate committees of Congress."
+
+\[Pub. L. 117–167, div. B, title VII, §10817(a), Aug. 9, 2022, 136 Stat. 1740, which directed amendment of section 421 of the National Aeronautics and Space Administration Authorization Act of 2017, was executed by amending section 421 of Pub. L. 115–10, set out above, which is section 421 of the National Aeronautics and Space Administration Transition Authorization Act of 2017, to reflect the probable intent of Congress.\]
 
 \[For definitions of terms used in section 421 of Pub. L. 115–10, set out above, see section 2 of Pub. L. 115–10, set out as a note under section 10101 of this title.\]
 
@@ -262,7 +550,7 @@ Recommendations.—The strategy shall include recommendations for coordination w
 
 "(b)
 
-Use of Strategy.—The Administrator shall use the strategy developed under subsection (a) in planningand funding research and other activities and initiatives in the field of astrobiology.
+Use of Strategy.—The Administrator shall use the strategy developed under subsection (a) in planning and funding research and other activities and initiatives in the field of astrobiology.
 
 "(c)
 
@@ -286,7 +574,7 @@ Sense of Congress on Space Technology.—It is the sense of Congress that space 
 
 "(b)
 
-Sense of Congress on Propulsion Technology.—It is the sense of Congress that advancing propulsion technology would improve the efficiency of trips to Mars and could shorten travel time to Mars, reduce astronaut health risks, and reduce radiation exposure, consumables, and mass of materials required for the journey.
+Sense of Congress on Propulsion Technology.—It is the sense of Congress that advancingpropulsion technology would improve the efficiency of trips to Mars and could shorten travel time to Mars, reduce astronaut health risks, and reduce radiation exposure, consumables, and mass of materials required for the journey.
 
 "(c)
 
@@ -376,7 +664,7 @@ National Security Presidential Memorandum–20 (NSPM–20) of August 20, 2019 (L
 
 Cooperation with commercial and international partners is critical to achieving America's objectives for space exploration. Presidential Policy Directive 4 of June 28, 2010 (National Space Policy), as amended by the Presidential Memorandum of December 11, 2017 (Reinvigorating America's Human Space Exploration Program) \[82 F.R. 58501\], established it as the policy of the United States to "\[l\]ead an innovative and sustainable program of exploration with commercial and international partners to enable human expansion across the solar system and to bring back to Earth new knowledge and opportunities."
 
-This memorandum establishes a national strategy to ensure the development and use of SNPP systems when appropriate to enable and achieve the scientific, exploration, national security, and commercial objectives of the United States. In the context of this strategy only, the term "development" includes the full development process from design through testing and production, and the term "use" includes launch, operation, and disposition. This memorandum outlines high-level policy goals and a supporting roadmap that will advance the ability of the United States to use SNPP systems safely, securely, and sustainably. The execution of this strategy will be subject to relevant budgetary and regulatory processes and to the availability of appropriations.
+This memorandum establishes a national strategy to ensure the development and use of SNPP systems whenappropriate to enable and achieve the scientific, exploration, national security, and commercial objectives of the United States. In the context of this strategy only, the term "development" includes the full development process from design through testing and production, and the term "use" includes launch, operation, and disposition. This memorandum outlines high-level policy goals and a supporting roadmap that will advance the ability of the United States to use SNPP systems safely, securely, and sustainably. The execution of this strategy will be subject to relevant budgetary and regulatory processes and to the availability of appropriations.
 
 Sec. 2. <i>Goals</i>. The United States will pursue goals for SNPP development and use that are both mission-enabling and ambitious in their substance and their timeline. These goals will enable a range of existing and future space missions, with the aim of accelerating achievement of key milestones, including in-space demonstration and use of new SNPP capabilities. This memorandum establishes the following such goals for the Nation:
 
@@ -398,7 +686,7 @@ Sec. 3. <i>Principles</i>. The United States will adhere to principles of safety
 
 (iii) Operation and disposition. The operation and disposition of SNPP systems shall be planned and conducted in a manner that protect human and environmental safety and national security assets. Fission reactor SNPP systems may be operated on interplanetary missions, in sufficiently high orbits, and in low-Earth orbits if they are stored in sufficiently high orbits after the operational part of their mission. In this context, a sufficiently high orbit is one in which the orbital lifetime of the spacecraft is long enough for the fission products to decay to a level of radioactivity comparable to that of uranium–235 by the time it reenters the Earth's atmosphere, and the risks to existing and future space missions and of collision with objects in space are minimized. Spacecraft operating fission reactors in low-Earth orbits shall incorporate a highly reliable operational system to ensure effective and controlled disposition of the reactor.
 
-(b) <i>Security</i>. All agencies involved in the development and use of SNPP systems shall take appropriate measures to protect nuclear and radiological materials and sensitive information, consistent with sound nuclear nonproliferation principles. For United States Government SNPP programs, the sponsoring agency holds primary responsibility for security. For programs involving multiple agencies, the terms of cooperation shall designate a lead agency with primary responsibility for security in each stage of development and use. The use of highly enriched uranium (HEU) in SNPP systems should be limited to applications for which the mission would not be viable with other nuclear fuels or non-nuclear power sources. Before selecting HEU or, for fission reactor systems, any nuclear fuel other than low-enriched uranium (LEU), for any given SNPP design or mission, the sponsoring agency shall conduct a thorough technical review to assess the viability of alternative nuclear fuels. The sponsoring agency shall provide to the respective staffs of the National SecurityCouncil, the National Space Council, the Office of Science and Technology Policy, and the Office of Management and Budget a briefing that provides justification for why the use of HEU or other non-LEU fuel is required, and any steps the agency has taken to address nuclear safety, security, and proliferation-related risks. The Director of the Office of Science and Technology Policy shall ensure, through the National Science and Technology Council, that other relevant agencies are invited to participate in these briefings.
+(b) <i>Security</i>. All agencies involved in the development and use of SNPP systems shall take appropriate measures to protect nuclear and radiological materials and sensitive information, consistent with sound nuclear nonproliferation principles. For United States Government SNPP programs, the sponsoring agency holds primary responsibility for security. For programs involving multiple agencies, the terms of cooperation shall designate a lead agency with primary responsibility for security in each stage of development and use. The use of highly enriched uranium (HEU) in SNPP systems should be limited to applications for which the mission would not be viable with other nuclear fuels or non-nuclear power sources. Before selecting HEU or, for fission reactor systems, any nuclear fuel other than low-enriched uranium (LEU), for any given SNPP design or mission, the sponsoring agency shall conduct a thorough technical review to assess the viability of alternative nuclear fuels. The sponsoring agency shall provide to the respective staffs of the National Security Council, the National Space Council, the Office of Science and Technology Policy, and the Office of Management and Budget a briefing that provides justification for why the use of HEU or other non-LEU fuel is required, and any steps the agency has taken to address nuclear safety, security, and proliferation-related risks. The Director of the Office of Science and Technology Policy shall ensure, through the National Science and Technology Council, that other relevant agencies are invited to participate in these briefings.
 
 (c) <i>Sustainability</i>. All agencies involved in the development and use of SNPP systems shall take appropriate measures to conduct these activities in a manner that is suitable for the long-term sustainment of United States space capabilities and leadership in SNPP.
 
@@ -430,7 +718,7 @@ Sec. 5. <i>Roadmap</i>. The United States will pursue a coordinated roadmap for 
 
 (a) By the mid-2020s, develop uranium fuel processing capabilities that enable production of fuel that is suitable for lunar and planetary surface and in-space power, NEP, and NTP applications, as needed.
 
-(i) Identify relevant mission needs. DoD and NASA should provide to DOE any mission needs (e.g., power density, environment, and timelines) relevant to theidentification of fuels suitable for planetary surface and in-space power, NEP, and NTP applications.
+(i) Identify relevant mission needs. DoD and NASA should provide to DOE any mission needs (e.g., power density, environment, and timelines) relevant to the identification of fuels suitable for planetary surface and in-space power, NEP, and NTP applications.
 
 (ii) Identify candidate fuel or fuels. DoD and NASA, in cooperation with DOE and private-sector partners, as appropriate, should identify candidate fuel or fuels to meet the identified mission requirements. This review and assessment should account for current and expected United States capabilities to produce and qualify for use candidate fuels, and for potential commonality of fuels or fuel variants across multiple planetary surface and in-space power, in-space propulsion, and terrestrial applications.
 

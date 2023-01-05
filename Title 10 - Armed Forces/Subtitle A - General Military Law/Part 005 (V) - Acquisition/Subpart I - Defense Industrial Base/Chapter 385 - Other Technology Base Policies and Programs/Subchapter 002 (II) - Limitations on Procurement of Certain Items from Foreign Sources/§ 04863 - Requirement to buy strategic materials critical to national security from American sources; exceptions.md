@@ -4,7 +4,7 @@
 
 Requirement.—Except as provided in subsections (b) through (m), the acquisition by the Department of Defense of the following items is prohibited:
 
-&emsp;(1) The following types of end items, or components thereof, containing a specialty metal not melted or produced in the United States: aircraft, missile and space systems, ships, tank and automotive items, weapon systems, or ammunition.
+&emsp;(1) The following types of end items, or components thereof, containing a specialty metalnot melted or produced in the United States: aircraft, missile and space systems, ships, tank and automotive items, weapon systems, or ammunition.
 
 &emsp;(2) A specialty metal that is not melted or produced in the United States and that is to be purchased directly by the Department of Defense or a prime contractor of the Department.
 
@@ -44,7 +44,7 @@ Exception for Small Purchases.—Subsection (a) does not apply to acquisitions i
 
 (g)
 
-Exception for Purchases of Electronic Components.—Subsection (a) does not apply to acquisitions of electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic component is critical to national security.
+Exception for Purchases of Electronic Components.—Subsection (a) does not apply to acquisitions of electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–1), determines that the domestic availability of a particular electronic component is critical to national security.
 
 (h)
 
@@ -152,11 +152,13 @@ Additional Definitions.—In this section:
 
 &emsp;(10) The term "subcontract" includes a subcontract at any tier.
 
-(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335, §2533b; amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–291, div. A, title X, §1071(a)(10), Dec. 19, 2014, 128 Stat. 3505; Pub. L. 115–232, div. A, title VIII, §837(c), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 116–92, div. A, title IX, §902(77), Dec. 20, 2019, 133 Stat. 1552; renumbered §4863 and amended Pub. L. 116–283, div. A, title XVIII, §§1870(c)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4285, 4294; Pub. L. 117–81, div. A, title XVII, §1701(d)(18), Dec. 27, 2021, 135 Stat. 2138.)
+(Added Pub. L. 109–364, div. A, title VIII, §842(a)(1), Oct. 17, 2006, 120 Stat. 2335, §2533b;amended Pub. L. 110–181, div. A, title VIII, §804(a)–(f), Jan. 28, 2008, 122 Stat. 208–211; Pub. L. 111–350, §5(b)(39), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title X, §1075(f)(2), Jan. 7, 2011, 124 Stat. 4376; Pub. L. 113–291, div. A, title X, §1071(a)(10), Dec. 19, 2014, 128 Stat. 3505; Pub. L. 115–232, div. A, title VIII, §837(c), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 116–92, div. A, title IX, §902(77), Dec. 20, 2019, 133 Stat. 1552; renumbered §4863 and amended Pub. L. 116–283, div. A, title XVIII, §§1870(c)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4285, 4294; Pub. L. 117–81, div. A, title XVII, §1701(d)(18), Dec. 27, 2021, 135 Stat. 2138; Pub. L. 117–263, div. A, title XIV, §1411(d)(2)(A), Dec. 23, 2022, 136 Stat. 2871.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g). Pub. L. 117–263 substituted "Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–1)" for "Strategic Materials Protection Board pursuant to section 187 of this title".
 
 <b>2021</b>—Pub. L. 116–283, §1870(c)(2), renumbered section 2533b of this title as this section.
 

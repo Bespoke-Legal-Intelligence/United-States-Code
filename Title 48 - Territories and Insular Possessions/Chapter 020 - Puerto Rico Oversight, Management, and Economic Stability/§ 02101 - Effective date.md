@@ -20,6 +20,10 @@ This chapter, referred to in subsec. (a), was in the original "this Act", meanin
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–82, §1, Jan. 20, 2022, 136 Stat. 3, provided that: "This Act \[enacting section 2178 of this title\] may be cited as the 'Puerto Rico Recovery Accuracy in Disclosures Act of 2021' or 'PRRADA'."
+
 #### Short Title
 
 Pub. L. 114–187, §1(a), June 30, 2016, 130 Stat. 549, provided that: "This Act \[enacting this chapter, amending sections 1469e and 1492a of this title, sections 632 and 644 of Title 15, Commerce and Trade, and section 206 of Title 29, Labor, and enacting provisions set out as a note under section 632 of Title 15\] may be cited as the 'Puerto Rico Oversight, Management, and Economic Stability Act' or 'PROMESA'."

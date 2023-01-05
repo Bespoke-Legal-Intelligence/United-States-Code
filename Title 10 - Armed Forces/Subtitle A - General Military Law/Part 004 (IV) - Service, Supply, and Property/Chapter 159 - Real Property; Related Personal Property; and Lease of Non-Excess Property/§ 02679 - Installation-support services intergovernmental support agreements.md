@@ -56,7 +56,7 @@ Definitions.—In this section:
 
 &emsp;(4) The term "intergovernmental support agreement" means a legal instrument reflecting a relationship between the Secretary concerned and a State or local government that contains such terms and conditions as the Secretary concerned considers appropriate for the purposes of this section and necessary to protect the interests of the United States.
 
-(Added Pub. L. 112–239, div. A, title III, §331(a), Jan. 2, 2013, 126 Stat. 1696, §2336; renumbered §2679 and amended Pub. L. 113–291, div. A, title III, §351(a), (b), Dec. 19, 2014, 128 Stat. 3346; Pub. L. 114–92, div. A, title X, §1081(a)(9), (b)(1), Nov. 25, 2015, 129 Stat. 1001; Pub. L. 115–91, div. B, title XXVIII, §2813, Dec. 12, 2017, 131 Stat. 1849; Pub. L. 115–232, div. A, title X, §1081(a)(26), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 116–283, div. B, title XXVIII, §2861(a), Jan. 1, 2021, 134 Stat. 4356.)
+(Added Pub. L. 112–239, div. A, title III, §331(a), Jan. 2, 2013, 126 Stat. 1696, §2336; renumbered §2679 and amended Pub. L. 113–291, div. A, title III, §351(a), (b), Dec. 19, 2014, 128 Stat. 3346; Pub. L. 114–92, div. A, title X, §1081(a)(9), (b)(1), Nov. 25, 2015, 129 Stat. 1001; Pub. L. 115–91, div. B, title XXVIII, §2813, Dec. 12, 2017, 131 Stat. 1849; Pub. L. 115–232, div. A, title X, §1081(a)(26), Aug. 13,2018, 132 Stat. 1985; Pub. L. 116–283, div. B, title XXVIII, §2861(a), Jan. 1, 2021, 134 Stat. 4356.)
 
 #### <b>Editorial Notes</b>
 
@@ -130,7 +130,7 @@ Pub. L. 117–81, div. A, title VIII, §876, Dec. 27, 2021, 135 Stat. 1865, prov
 
 "(a)
 
-Notification Required.—During fiscal years 2022 and 2023, not less than 60 days before entering into anintergovernmental support agreement under section 2679 of title 10, United States Code, that is an exception to the requirements of chapter 85 of title 41, United States Code, the Secretary concerned shall submit, in writing, to the congressional defense committees \[Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives\] a report including the following relating to such agreement:
+Notification Required.—During fiscal years 2022 and 2023, not less than 60 days before entering into an intergovernmental support agreement under section 2679 of title 10, United States Code, that is an exception to the requirements of chapter 85 of title 41, United States Code, the Secretary concerned shall submit, in writing, to the congressional defense committees \[Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives\] a report including the following relating to such agreement:
 
 &emsp;"(1) The circumstances that resulted in the need to enter into an intergovernmental support agreement that included such exception.
 
@@ -146,7 +146,7 @@ Recommendations.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall submit to the congressional defense committees, along with the budget request materials for fiscal year 2023, specific recommendations for modifications to the legislative text of subsection (a)(1) of section 2679 of title 10, United States Code, along with a rationale for any such modifications, to identify specific provisions of Federal contracting law appropriate for waiver or exemption to ensure effective use of intergovernmental support agreements under such section.
+In general.—The Secretary of Defense shall submit to the congressional defense committees, along with the budget request materials for fiscal year 2023, specific recommendations for modifications to the legislative text of subsection (a)(1) of section 2679 of title 10, United States Code, along with a rationale for any such modifications, to identify specific provisions of Federal contracting law appropriate for waiver or exemption to ensure effective useof intergovernmental support agreements under such section.
 
 &emsp;"(2)
 

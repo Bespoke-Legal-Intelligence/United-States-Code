@@ -132,7 +132,7 @@ The term "personal holding company" as defined in subsection (a) does not includ
 
 #### References in Text
 
-The Small Business Investment Act of 1958, referred to in subsec. (c)(7), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to this Code, see Short Title note set out under section 661 of Title 15 and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (c)(7), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to this Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
 #### Amendments
 
@@ -170,7 +170,7 @@ Subsec. (c)(8). Pub. L. 94–455, §1901(a)(76)(D), inserted "(15 U.S.C. 661 and
 
 <b>1969</b>—Subsec. (a)(2). Pub. L. 91–172 substituted "section 401(a), 501(c)(17), or 509(a)" for "section 503(b)" in the list of sections that contain the description of organizations that may be considered as individuals for the purpose of establishing stock ownership, and struck out provisions which would have kept an organization or trust created before July 1, 1950, from being so designated if it had been denied exemption under section 504 or an unlimited charitable deduction under section 681(c) of this title.
 
-<b>1966</b>—Subsec. (c)(7). Pub. L. 89–809 substituted requirement that the foreign corporation be other than a corporation which has income to which section 543(a)(7) applies for the taxable year for requirement that the foreign corporation's gross income from sources within the United States for the period specified in section 861(a)(2)(B) be less than 50 percent of its total gross income from all sources, and expanded the devices included in methods of indirect ownership to encompass foreign estates, foreign trusts, and foreign partnerships.
+<b>1966</b>—Subsec. (c)(7). Pub. L. 89–809 substituted requirement that the foreign corporation be other than a corporation which has income to which section 543(a)(7)applies for the taxable year for requirement that the foreign corporation's gross income from sources within the United States for the period specified in section 861(a)(2)(B) be less than 50 percent of its total gross income from all sources, and expanded the devices included in methods of indirect ownership to encompass foreign estates, foreign trusts, and foreign partnerships.
 
 <b>1964</b>—Subsec. (a)(1). Pub. L. 88–272, §225(b), substituted "60 percent of its adjusted ordinary gross income (as defined in section 543(b)(2)) for the taxable year is personal holding company income (as defined in section 543(a))" for "80 percent of its gross income for the taxable year is personal holding company income as defined in section 543".
 

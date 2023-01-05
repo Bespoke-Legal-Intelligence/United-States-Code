@@ -30,7 +30,7 @@
 
 (2) The number of months of entitlement charged in the case of any individual for such licensing or certification test is equal to the number (including any fraction) determined by dividing the total amount paid to such individual for such test by the full-time monthly institutional rate of the educational assistance allowance which, except for paragraph (1), such individual would otherwise be paid under this chapter.
 
-(3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
+(3) In no event shall payment of educational assistance under this subsection for such a testexceed the amount of the individual's available entitlement under this chapter.
 
 (g)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a national test for admission or national test providing an opportunity for course credit at institutions of higher learning described in section 3501(a)(5) of this title or a covered preparatory course (as that term is defined in section 3315B(a) of this title) is the amount of the fee charged for the test.
 
@@ -188,7 +188,7 @@ Amendment by section 122(b)(4) of Pub. L. 106–419 effective Mar. 1, 2001, and 
 
 Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
-Pub. L. 105–178, title VIII, §8210(e), as added by Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866, provided that: "The amendments made by this section \[amending this section and sections 3534, 3542, and 3687 of this title\] shall take effect on October 1, 1998, and shall apply with respect to educational assistance allowances paid for months after September 1998."
+Pub. L. 105–178, title VIII, §8210(e), as added by Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866,provided that: "The amendments made by this section \[amending this section and sections 3534, 3542, and 3687 of this title\] shall take effect on October 1, 1998, and shall apply with respect to educational assistance allowances paid for months after September 1998."
 
 #### Effective Date of 1994 Amendment
 
@@ -200,7 +200,7 @@ Pub. L. 102–568, title III, §316(c), Oct. 29, 1992, 106 Stat. 4334, provided 
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–237, title IV, §403(c), Dec. 18, 1989, 103 Stat. 2080, provided that: "The amendments made by thissection \[amending this section and sections 1733, 1734, 1742, and 1787 \[now 3533, 3534, 3542, and 3687\] of this title\] shall take effect on January 1, 1990."
+Pub. L. 101–237, title IV, §403(c), Dec. 18, 1989, 103 Stat. 2080, provided that: "The amendments made by this section \[amending this section and sections 1733, 1734, 1742, and 1787 \[now 3533, 3534, 3542, and 3687\] of this title\] shall take effect on January 1, 1990."
 
 #### Effective Date of 1984 Amendment
 

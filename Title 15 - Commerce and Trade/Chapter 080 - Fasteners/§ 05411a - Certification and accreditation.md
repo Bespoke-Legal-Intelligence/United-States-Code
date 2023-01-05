@@ -18,7 +18,7 @@ A person publishing a document setting forth guidance or requirements for the ap
 
 #### (e) Affirmation
 
-(1) An accreditation body accrediting third parties who certify manufacturing systems asfastener quality assurance systems as described in section 5402(7)(B)(iii)(I) of this title shall affirm to the Director that it meets the requirements of ISO/IEC Guide 61 (or another document approved by the Director under subsection (b)), including revisions from time-to-time.
+(1) An accreditation body accrediting third parties who certify manufacturing systems as fastener quality assurance systems as described in section 5402(7)(B)(iii)(I) of this title shall affirm to the Director that it meets the requirements of ISO/IEC Guide 61 (or another document approved by the Director under subsection (b)), including revisions from time-to-time.
 
 (2) An accreditation body accrediting laboratories as described in section 5402(1)(B) of this title shall affirm to the Director that it meets the requirements of ISO/IEC Guide 58 (or another document approved by the Director under subsection (d)), including revisions from time-to-time.
 

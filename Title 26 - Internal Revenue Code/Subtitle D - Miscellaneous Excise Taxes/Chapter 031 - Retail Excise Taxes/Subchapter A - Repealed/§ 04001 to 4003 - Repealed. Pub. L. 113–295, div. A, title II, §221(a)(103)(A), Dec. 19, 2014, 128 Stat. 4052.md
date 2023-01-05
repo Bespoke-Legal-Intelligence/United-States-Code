@@ -1,6 +1,6 @@
 ### \[§§4001 to 4003. Repealed. Pub. L. 113–295, div. A, title II, §221(a)(103)(A), Dec. 19, 2014, 128 Stat. 4052\]
 
-Section 4001, added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 449; Pub. L. 104–188, title I, §§1607(a), (b), 1703(c)(1), Aug. 20, 1996, 110 Stat. 1839, 1875; Pub. L. 105–34, title IX, §906(a)–(b)(2), title XVI, §1601(f)(3)(A), (B), Aug. 5, 1997, 111 Stat. 874, 875, 1090, provided for imposition of tax on luxury passenger vehicles.
+Section 4001, added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 449; Pub. L. 104–188, title I, §§1607(a), (b), 1703(c)(1), Aug. 20, 1996, 110 Stat. 1839, 1875; Pub. L. 105–34, title IX, §906(a)–(b)(2),title XVI, §1601(f)(3)(A), (B), Aug. 5, 1997, 111 Stat. 874, 875, 1090, provided for imposition of tax on luxury passenger vehicles.
 
 Section 4002, added Pub. L. 101–508, title XI, §11221(a), Nov. 5, 1990, 104 Stat. 1388–439; amended Pub. L. 103–66, title XIII, §13161(a), Aug. 10, 1993, 107 Stat. 450, related to 1st retail sale, uses treated as sales, and determination of price.
 

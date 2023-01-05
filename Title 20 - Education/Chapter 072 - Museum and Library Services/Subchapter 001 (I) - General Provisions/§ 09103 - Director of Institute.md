@@ -12,7 +12,7 @@
 
 #### (3) Qualifications
 
-&emsp;Beginning with the first individual appointed to the position of Director after September 30, 1996, every second individual so appointed shall be appointed from among individuals who have special competence with regard to library and information services. Beginning with the second individual appointed to the position of Director after September 30, 1996, every second individual so appointed shall be appointed from among individuals who have special competence with regard to museum services.
+&emsp;Beginning with the first individual appointed to the position of Director after September 30, 1996, every second individual so appointed shall be appointed from among individuals who have special competence with regard to library and information services. Beginning with the second individual appointedto the position of Director after September 30, 1996, every second individual so appointed shall be appointed from among individuals who have special competence with regard to museum services.
 
 #### (b) Compensation
 
@@ -96,7 +96,7 @@ The Director may promulgate such rules and regulations as are necessary and appr
 
 #### (C) Treatment of application disapproval
 
-&emsp;&emsp;The disapproval of an application by the Director shall not be construed to mean, and shall not be considered as evidence that, theproject for which the applicant requested financial assistance is or is not obscene.
+&emsp;&emsp;The disapproval of an application by the Director shall not be construed to mean, and shall not be considered as evidence that, the project for which the applicant requested financial assistance is or is not obscene.
 
 (Pub. L. 94–462, title II, §204, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–294; amended Pub. L. 108–81, title I, §103, Sept. 25, 2003, 117 Stat. 992; Pub. L. 111–340, title I, §102, Dec. 22, 2010, 124 Stat. 3595; Pub. L. 113–128, title V, §512(t)(1), July 22, 2014, 128 Stat. 1712; Pub. L. 114–95, title IX, §9215(aaa)(1), Dec. 10, 2015, 129 Stat. 2184; Pub. L. 115–410, §3, Dec. 31, 2018, 132 Stat. 5412.)
 
@@ -132,7 +132,7 @@ Subsec. (g)(3). Pub. L. 115–410, §3(3)(C), substituted "technology, or resear
 
 <b>2015</b>—Subsec. (f)(1). Pub. L. 114–95 added par. (1) and struck out former par. (1) which read as follows: "activities under section 6383 of this title;".
 
-<b>2014</b>—Subsec. (f)(3). Pub. L. 113–128 substituted "activities under the Workforce Innovation and Opportunity Act (including activities under section 121(e) of such Act))" for "activities under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.) (including activities under section 134(c) of such Act) (29 U.S.C. 2864(c))".
+<b>2014</b>—Subsec. (f)(3). Pub. L. 113–128 substituted "activities under the Workforce Innovation and Opportunity Act (including activities under section 121(e) ofsuch Act))" for "activities under the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.) (including activities under section 134(c) of such Act) (29 U.S.C. 2864(c))".
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–340, §102(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The Director shall perform such duties and exercise such powers as may be prescribed by law, including awarding financial assistance for activities described in this chapter."
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 
 #### Service of Individuals Serving on September 30, 1996
 
-Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §705\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, which providedthat the individual who was appointed to the position of Director of the Institute of Museum Services and was serving in such position on the day before Sept. 30, 1996, would serve, at the pleasure of the President, as the first Director of the Institute of Museum and Library Services, was repealed by Pub. L. 108–81, title V, §505(b), Sept. 25, 2003, 117 Stat. 1004.
+Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §705\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–311, which provided that the individual who was appointed to the position of Director of the Institute of Museum Services and was serving in such position on the day before Sept. 30, 1996, would serve, at the pleasure of the President, as the first Director of the Institute of Museum and Library Services, was repealed by Pub. L. 108–81, title V, §505(b), Sept. 25, 2003, 117 Stat. 1004.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

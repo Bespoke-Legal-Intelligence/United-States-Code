@@ -46,7 +46,7 @@ The Secretary may—
 
 The Secretary may carry out the following:
 
-&emsp;(1) Oversee and support demonstration and research projects to be carried out by qualifiedorganizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, in the following areas:
+&emsp;(1) Oversee and support demonstration and research projects to be carried out by qualified organizations, institutions, or consortia of qualified organizations and institutions, specializing, or demonstrating expertise, in falls or fall prevention, in the following areas:
 
 &emsp;&emsp;(A) A multistate demonstration project assessing the utility of targeted fall risk screening and referral programs.
 

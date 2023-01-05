@@ -124,7 +124,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–107, title VIII, §805(c), Nov. 9, 1979, 93 Stat. 813, provided that: "The amendments made by this section \[amending this section and section 651 of this title\] shall apply only to individuals who become members of an Armed Force after the date of the enactment of this Act \[Nov. 9, 1979\]."
+Pub. L. 96–107, title VIII, §805(c), Nov. 9, 1979, 93 Stat. 813, provided that: "The amendments made by this section \[amending this section and section 651 of this title\] shall apply only to individuals who become members ofan Armed Force after the date of the enactment of this Act \[Nov. 9, 1979\]."
 
 #### Effective Date of 1978 Amendment
 

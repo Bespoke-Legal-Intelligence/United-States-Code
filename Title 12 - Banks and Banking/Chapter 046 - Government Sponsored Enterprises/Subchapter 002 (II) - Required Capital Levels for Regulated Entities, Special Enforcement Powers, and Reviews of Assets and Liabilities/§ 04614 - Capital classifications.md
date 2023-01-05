@@ -108,7 +108,7 @@ The Director shall determine the capital classification of the regulated entitie
 
 #### (2) Exception
 
-&emsp;Notwithstanding paragraph (1), the Director may permit a regulated entity, to the extentappropriate or applicable, to repurchase, redeem, retire, or otherwise acquire shares or ownership interests if the repurchase, redemption, retirement, or other acquisition—
+&emsp;Notwithstanding paragraph (1), the Director may permit a regulated entity, to the extent appropriate or applicable, to repurchase, redeem, retire, or otherwise acquire shares or ownership interests if the repurchase, redemption, retirement, or other acquisition—
 
 &emsp;&emsp;(A) is made in connection with the issuance of additional shares or obligations of the regulated entity in at least an equivalent amount; and
 

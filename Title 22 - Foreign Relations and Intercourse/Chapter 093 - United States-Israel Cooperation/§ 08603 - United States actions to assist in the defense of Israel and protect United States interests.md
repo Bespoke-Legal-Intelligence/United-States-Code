@@ -46,5 +46,5 @@ Findings.—Congress finds that Israel—
 
 "(b)
 
-Eligibility for Strategic Trade Authorization Exception.—The President, consistent with thecommitments of the United States under international arrangements, shall take steps so that Israel may be included in the list of countries eligible for the strategic trade authorization exception under section 740.20(c)(1) of title 15, Code of Federal Regulations, to the requirement for a license for the export, reexport, or in-country transfer of an item subject to controls under the Export Administration Regulations."
+Eligibility for Strategic Trade Authorization Exception.—The President, consistent with the commitments of the United States under international arrangements, shall take steps so that Israel may be included in the list of countries eligible for the strategic trade authorization exception under section 740.20(c)(1) of title 15, Code of Federal Regulations, to the requirement for a license for the export, reexport, or in-country transfer of an item subject to controls under the Export Administration Regulations."
 

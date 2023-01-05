@@ -8,7 +8,7 @@
 
 (3) Fellowships shall be awarded to outstanding graduate students who intend to pursue advanced degrees in the natural sciences, engineering, and mathematics.
 
-(4) Research internships shall be awarded to outstanding undergraduate students who intend to pursue careers in the natural sciences, engineering, and mathematics, which shall be prioritized for students attending communitycolleges and minority-serving institutions specified in section 1067q(a) of this title.
+(4) Research internships shall be awarded to outstanding undergraduate students who intend to pursue careers in the natural sciences, engineering, and mathematics, which shall be prioritized for students attending community colleges and minority-serving institutions specified in section 1067q(a) of this title.
 
 (5) The Foundation may provide, directly or by contract, for the conduct of nationwide competition for the purpose of selecting recipients of scholarships, fellowships, and research internships awarded under this chapter.
 

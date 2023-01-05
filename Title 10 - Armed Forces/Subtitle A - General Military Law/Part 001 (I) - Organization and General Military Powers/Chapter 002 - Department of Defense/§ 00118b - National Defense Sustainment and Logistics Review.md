@@ -20,7 +20,7 @@ Report to Congress.—(1) Not later than the first Monday in February of the yea
 
 &emsp;(F) An assessment of the production capability, capacity, and infrastructure, of the Department of Defense organic industrial base and private sector industrial base required to meet steady-state and surge production requirements for ammunition and other military munitions.
 
-&emsp;(G) An assessment of the condition, capacity, location, and survivability under likely threats of military infrastructure located both inside the continental United States and outside the continental United States, including agreements with and infrastructure provided by international partners, required to generate, project, and sustain military forces to meet steady-state and contingency requirements.
+&emsp;(G) An assessment of the condition, capacity, location, and survivability under likely threats of military infrastructure located both inside the continental United States and outside the continental United States, including agreements with and infrastructure providedby international partners, required to generate, project, and sustain military forces to meet steady-state and contingency requirements.
 
 &emsp;(H) An assessment of the cybersecurity risks to military and commercial logistics networks and information technology systems.
 
@@ -72,5 +72,5 @@ Subsec. (a). Pub. L. 117–81, §311(b)(1)(A), substituted "capabilities, respon
 
 Pub. L. 116–283, div. A, title III, §341(c), Jan. 1, 2021, 134 Stat. 3537, as amended by Pub. L. 117–81, div. A, title III, §311(b)(2)(B), Dec. 27, 2021, 135 Stat. 1625, provided that: "Notwithstanding the deadline in subsection (b)(1) of section 118b of title 10, United States Code, as added by subsection (a), the Secretary of Defense shall submit the first report under such section not later than the date that is 18 months after the date of the enactment of this Act \[Jan. 1, 2021\], unless a new National Defense Strategy is released prior to such date."
 
-\[Pub. L. 117–81, div. A, title III, §311(b)(2)(B), which directed amendment of section "314(c)" of Pub. L.116–283 by substituting "section 118b" for "section 118a", was executed by making the amendment to section 341(c) of Pub. L. 116–283, set out above, to reflect the probable intent of Congress.\]
+\[Pub. L. 117–81, div. A, title III, §311(b)(2)(B), which directed amendment of section "314(c)" of Pub. L. 116–283 by substituting "section 118b" for "section 118a", was executed by making the amendment to section 341(c) of Pub. L. 116–283, set out above, to reflect the probable intent of Congress.\]
 

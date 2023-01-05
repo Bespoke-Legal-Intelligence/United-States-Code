@@ -30,7 +30,7 @@ Before January 1, 1981 the authority provided by this section shall be available
 
 (3) The Administrator shall designate at least one center at high-altitude conditions to provide research on after-market emission components, dual-fueled vehicles and conversion kits, the effects of tampering on emissions equipment, testing of alternate fuels and conversion kits, and the development of curricula, training courses, and materials to maximize the effectiveness of inspection and maintenance programs as they relate to promoting effective control of vehicle emissions at high-altitude elevations. Preference shall be given to existing vehicle emissions testing and research centers that have established reputations for vehicle emissions research and development and training, and that possess in-house Federal Test Procedure capacity.
 
-(July 14, 1955, ch. 360, title II, §215, as added Pub. L. 95–95, title II, §211(b), Aug. 7, 1977, 91 Stat. 757; amended Pub. L. 95–190, §14(a)(75), Nov. 16, 1977, 91 Stat. 1404; Pub. L. 101–549, title II, §224, Nov.15, 1990, 104 Stat. 2503; Pub. L. 102–240, title III, §3004(b), Dec. 18, 1991, 105 Stat. 2088.)
+(July 14, 1955, ch. 360, title II, §215, as added Pub. L. 95–95, title II, §211(b), Aug. 7, 1977, 91 Stat. 757; amended Pub. L. 95–190, §14(a)(75), Nov. 16, 1977, 91 Stat. 1404; Pub. L. 101–549, title II, §224, Nov. 15, 1990, 104 Stat. 2503; Pub. L. 102–240, title III, §3004(b), Dec. 18, 1991, 105 Stat. 2088.)
 
 #### <b>Editorial Notes</b>
 

@@ -18,7 +18,7 @@ For purposes of this part:
 
 &emsp;&emsp;&emsp;(ii) contaminated with residual byproduct material;
 
-&emsp;(2) The term "byproduct material" has the meaning given such term in section 11 e. (2) of the Atomic Energy Act of 1954,<sup>1</sup> (42 U.S.C. 2014(e)(2)); and
+&emsp;(2) The term "byproduct material" has the meaning given such term in section 11 e. (2) ofthe Atomic Energy Act of 1954,<sup>1</sup> (42 U.S.C. 2014(e)(2)); and
 
 &emsp;(3) The term "decontamination, decommissioning, reclamation, and other remedial action" means work performed prior to or subsequent to October 24, 1992, which is necessary to comply with all applicable requirements of the Uranium Mill Tailings Radiation Control Act of 1978 (42 U.S.C. 7901 et seq.), or where appropriate, with requirements established by a State that is a party to a discontinuance agreement under section 274 of the Atomic Energy Act of 1954 (42 U.S.C. 2021).
 
@@ -30,7 +30,7 @@ For purposes of this part:
 
 The Atomic Energy Act of 1954, referred to in par. (1)(A), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to this chapter (§2011 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-The Uranium Mill Tailings Radiation Control Act of 1978, referred to in par. (3), is Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, as amended, which is classified principally to chapter 88 (§7901 et seq.) of this title. For complete classification of this act to the Code, see Short Title note set out under section 7901 of this title and Tables.
+The Uranium Mill Tailings Radiation Control Act of 1978, referred to in par. (3), is Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, which is classified principally to chapter 88 (§7901 et seq.) of this title. For complete classification of this act to the Code, see Short Title note set out under section 7901 of this title and Tables.
 
 #### Codification
 

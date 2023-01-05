@@ -62,7 +62,7 @@ Annual Reports.—(1) Not later than July 1 each year, the Council shall submit 
 
 <b>2021</b>—Subsec. (b)(1). Pub. L. 116–283 substituted "Air Force, Marine Corps, and Space Force" for "Marine Corps, and Air Force" wherever appearing.
 
-<b>2018</b>—Subsec. (b)(1)(B)(i). Pub. L. 115–232, §571(a)(1)(A), substituted "a member or civilian employee of thearmed force to be represented" for "a member of the armed force to be represented".
+<b>2018</b>—Subsec. (b)(1)(B)(i). Pub. L. 115–232, §571(a)(1)(A), substituted "a member or civilian employee of the armed force to be represented" for "a member of the armed force to be represented".
 
 Subsec. (b)(1)(B)(ii). Pub. L. 115–232, §571(a)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: "One representative of the Army National Guard or the Air National Guard, who may be a member of the National Guard."
 

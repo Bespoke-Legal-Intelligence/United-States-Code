@@ -32,7 +32,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(1) a definition of the term 'Procurement Administrative Lead Time' or 'PALT', to be applied Department of Defense-wide, that describes the amount of time from the date on which a solicitation is issued to the date of an initial award of a contract or task order of the Department of Defense; and
 
-&emsp;"(2) a plan for measuring and publicly reporting data on PALT for Department of Defense contractsand task orders above the simplified acquisition threshold.
+&emsp;"(2) a plan for measuring and publicly reporting data on PALT for Department of Defense contracts and task orders above the simplified acquisition threshold.
 
 "(b)
 

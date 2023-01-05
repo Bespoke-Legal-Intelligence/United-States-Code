@@ -8,9 +8,9 @@ All appointments to advisory committees established to assist in implementing th
 
 #### References in Text
 
-The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, which is classifiedgenerally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970, referred to in text, is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, as amended, which is classified principally to chapter 60 (§4541 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4541 of this title and Tables.
+The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970, referred to in text, is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, which is classified principally to chapter 60 (§4541 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4541 of this title and Tables.
 
 #### Codification
 
@@ -18,7 +18,7 @@ Section was not enacted as a part of the Public Health Service Act which compris
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–256 struck out "the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963," after "Public Health Service Act,".
+<b>2010</b>—Pub. L. 111–256 struck out "the Mental Retardation Facilities and Community Mental Health CentersConstruction Act of 1963," after "Public Health Service Act,".
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

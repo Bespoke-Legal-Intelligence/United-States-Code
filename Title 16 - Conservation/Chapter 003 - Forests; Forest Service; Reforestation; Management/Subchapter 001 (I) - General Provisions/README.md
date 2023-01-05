@@ -109,6 +109,7 @@
 - [&sect; 00579a - Operation of aerial facilities and services](%C2%A7%2000579a%20-%20Operation%20of%20aerial%20facilities%20and%20services.md)
 - [&sect; 00579b - Working capital fund; establishment; availability; transfer; capitalization; advance payments credited](%C2%A7%2000579b%20-%20Working%20capital%20fund%3B%20establishment%3B%20availability%3B%20transfer%3B%20capitalization%3B%20advance%20payments%20credited.md)
 - [&sect; 00579c - Availability of funds received from forfeitures, judgments, compromises, or settlements](%C2%A7%2000579c%20-%20Availability%20of%20funds%20received%20from%20forfeitures%2C%20judgments%2C%20compromises%2C%20or%20settlements.md)
+- [&sect; 00579c&#8211;1 - Forest Service interest bearing account](%C2%A7%2000579c%E2%80%931%20-%20Forest%20Service%20interest%20bearing%20account.md)
 - [&sect; 00579d - Indirect expenditures; future budget justifications](%C2%A7%2000579d%20-%20Indirect%20expenditures%3B%20future%20budget%20justifications.md)
 - [&sect; 00579e - Forest service budget restructure](%C2%A7%2000579e%20-%20Forest%20service%20budget%20restructure.md)
 - [&sect; 00580 - Use of Forest Service appropriations for repair, etc. of equipment; rental of fire control equipment to non-Federal agencies](%C2%A7%2000580%20-%20Use%20of%20Forest%20Service%20appropriations%20for%20repair%2C%20etc.%20of%20equipment%3B%20rental%20of%20fire%20control%20equipment%20to%20non-Federal%20agencies.md)

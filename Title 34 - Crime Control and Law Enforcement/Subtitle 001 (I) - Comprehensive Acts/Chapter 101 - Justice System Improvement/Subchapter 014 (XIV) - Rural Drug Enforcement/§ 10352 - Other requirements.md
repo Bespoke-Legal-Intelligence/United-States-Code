@@ -4,7 +4,7 @@ Parts A and C of subchapter V of this chapter shall apply with respect to funds 
 
 &emsp;(1) section 10156(a) of this title shall not apply with respect to this subchapter; and
 
-&emsp;(2) in addition to satisfying the requirements of section 10153 of this title, each application for a grant under this subchapter shall include in its application a statement specifying how such grant will be coordinated with a grant received under section 10156 of this title for the same fiscal year.
+&emsp;(2) in addition to satisfying the requirements of section 10153 of this title, each application for a grant under this subchapter shallinclude in its application a statement specifying how such grant will be coordinated with a grant received under section 10156 of this title for the same fiscal year.
 
 (Pub. L. 90–351, title I, §1502, as added Pub. L. 101–647, title VIII, §801(a)(3), Nov. 29, 1990, 104 Stat. 4825; amended Pub. L. 109–162, title XI, §1111(c)(2)(G), Jan. 5, 2006, 119 Stat. 3102.)
 

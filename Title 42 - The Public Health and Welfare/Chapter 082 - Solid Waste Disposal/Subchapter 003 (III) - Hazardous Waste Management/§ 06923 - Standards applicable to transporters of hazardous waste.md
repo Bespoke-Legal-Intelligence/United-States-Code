@@ -18,7 +18,7 @@ In case of any hazardous waste identified or listed under this subchapter which 
 
 #### (c) Fuel from hazardous waste
 
-Not later than two years after November 8, 1984, and after opportunity for public hearing, the Administrator shall promulgate regulations establishing standards, applicable to transporters of fuel produced (1) from any hazardous waste identified or listed under section 6921 ofthis title, or (2) from any hazardous waste identified or listed under section 6921 of this title and any other material, as may be necessary to protect human health and the environment. Such standards may include any of the requirements set forth in paragraphs (1) through (4) of subsection (a) as may be appropriate.
+Not later than two years after November 8, 1984, and after opportunity for public hearing, the Administrator shall promulgate regulations establishing standards, applicable to transporters of fuel produced (1) from any hazardous waste identified or listed under section 6921 of this title, or (2) from any hazardous waste identified or listed under section 6921 of this title and any other material, as may be necessary to protect human health and the environment. Such standards may include any of the requirements set forth in paragraphs (1) through (4) of subsection (a) as may be appropriate.
 
 (Pub. L. 89–272, title II, §3003, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2807; amended Pub. L. 95–609, §7(g), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 98–616, title II, §204(b)(2), Nov. 8, 1984, 98 Stat. 3238.)
 
@@ -28,7 +28,7 @@ Not later than two years after November 8, 1984, and after opportunity for publi
 
 Section 6922(5) of this title, referred to in subsec. (a)(3), was redesignated section 6922(a)(5) of this title, by Pub. L. 98–616, title II, §224(a)(1), Nov. 8, 1984, 98 Stat. 3253.
 
-The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)(4), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
+The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)(4), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
 
 #### Codification
 

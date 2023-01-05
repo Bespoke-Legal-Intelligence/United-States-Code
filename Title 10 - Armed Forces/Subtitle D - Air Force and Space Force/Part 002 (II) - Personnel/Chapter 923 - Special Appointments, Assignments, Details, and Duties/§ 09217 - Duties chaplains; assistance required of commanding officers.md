@@ -4,7 +4,7 @@
 
 (b) Each commanding officer shall furnish facilities, including necessary transportation, to any chaplain assigned to his command, to assist the chaplain in performing his duties.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 528, §8547; renumbered §9217, Pub. L. 115–232, div. A, titleVIII, §806(b)(6), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 116–283, div. A, title IX, §923(c)(5), Jan. 1, 2021, 134 Stat. 3811.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 528, §8547; renumbered §9217, Pub. L. 115–232, div. A, title VIII, §806(b)(6), Aug. 13, 2018, 132 Stat. 1832; amended Pub. L. 116–283, div. A, title IX, §923(c)(5), Jan. 1, 2021, 134 Stat. 3811.)
 
 Historical and Revision Notes
 

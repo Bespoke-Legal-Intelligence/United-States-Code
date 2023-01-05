@@ -68,7 +68,7 @@
 
 #### (C) Public service announcements
 
-&emsp;&emsp;Activities under the national campaign under subparagraph (A) shall, in accordancewith applicable law and regulations, include developing and placing, in telecommunications media, public service announcements intended to encourage women to discuss with their physicians their risks of gynecologic cancers. Such announcements shall inform the public on the manner in which the written materials referred to in subparagraph (B) can be obtained upon request, and shall call attention to early warning signs and risk factors based on the best available medical information.
+&emsp;&emsp;Activities under the national campaign under subparagraph (A) shall, in accordance with applicable law and regulations, include developing and placing, in telecommunications media, public service announcements intended to encourage women to discuss with their physicians their risks of gynecologic cancers. Such announcements shall inform the public on the manner in which the written materials referred to in subparagraph (B) can be obtained upon request, and shall call attention to early warning signs and risk factors based on the best available medical information.
 
 #### (2) Report and strategy
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;Not later than 6 months after January 12, 2007, the Secretary shall submit to the Congress a report including the following:
 
-&emsp;&emsp;&emsp;(i) A description of the past and present activities of the Department of Health and Human Services to increase awareness and knowledge of the public with respect to different types of cancer, including gynecologic cancers.
+&emsp;&emsp;&emsp;(i) A description of the past and present activities of the Department of Health andHuman Services to increase awareness and knowledge of the public with respect to different types of cancer, including gynecologic cancers.
 
 &emsp;&emsp;&emsp;(ii) A description of the past and present activities of the Department of Health and Human Services to increase awareness and knowledge of health care providers with respect to different types of cancer, including gynecologic cancers.
 

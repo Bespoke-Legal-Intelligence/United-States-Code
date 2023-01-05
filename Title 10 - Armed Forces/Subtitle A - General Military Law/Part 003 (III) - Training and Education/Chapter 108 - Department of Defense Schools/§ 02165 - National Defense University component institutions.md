@@ -62,7 +62,7 @@ Subsec. (f). Pub. L. 114–328, §214(a), added subsec. (f).
 
 <b>2006</b>—Subsec. (b)(6), (7). Pub. L. 109–364, §904(b)(2)(A), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "The Center for Hemispheric Defense Studies."
 
-Subsec. (c). Pub. L. 109–364, §904(b)(2)(B), struck out heading and text of subsec. (c). Text read as follows: "Funds available for the payment of personnel expenses under the Latin American cooperation authority set forth in section 1050 of this title are also available for the costs of the operation of the Center for Hemispheric Defense Studies."
+Subsec. (c). Pub. L. 109–364, §904(b)(2)(B), struck out heading and text of subsec. (c). Text read as follows: "Funds available for the payment of personnel expenses under the Latin American cooperation authority setforth in section 1050 of this title are also available for the costs of the operation of the Center for Hemispheric Defense Studies."
 
 Subsec. (e). Pub. L. 109–163 added subsec. (e).
 

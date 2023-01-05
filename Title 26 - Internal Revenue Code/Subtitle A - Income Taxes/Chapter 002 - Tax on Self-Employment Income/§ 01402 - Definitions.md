@@ -282,7 +282,7 @@ The Social Security Act, referred to in subsecs. (a)(1), (b), (c)(1), (2)(E), (e
 
 Section 199, referred to in subsec. (a)(16), was repealed by Pub. L. 115–97, title I, §13305(a), Dec. 22, 2017, 131 Stat. 2126.
 
-The Federal Insurance Contributions Act, referred to in subsec. (d), is act Aug. 16, 1954, ch. 736, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
+The Federal Insurance Contributions Act, referred to in subsec. (d), is act Aug. 16, 1954, ch. 736, 68A Stat. 415, which is classified generally to chapter 21 (§3101 et seq.) of this title. For complete classification of this Act to the Code, see section 3128 of this title and Tables.
 
 #### Codification
 
@@ -568,7 +568,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title IX, §922(c), Aug. 5, 1997, 111 Stat. 880, provided that: "The amendments made by this section \[amending this section and section 411 of Title 42, The Public Health and Welfare\] shall apply to payments after December 31, 1997."
+Pub. L. 105–34, title IX, §922(c), Aug. 5, 1997, 111 Stat. 880, provided that: "The amendments made by this section \[amending this section and section 411 of Title 42,The Public Health and Welfare\] shall apply to payments after December 31, 1997."
 
 #### Effective Date of 1996 Amendment
 

@@ -42,7 +42,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, through contracts and grants, shall provide technical and financial assistance to Bureau-funded schools, to the extent that necessary amounts are made available, to enable such schools to obtain the accreditation required under this subsection, if the school boards request that such assistance, in part or in whole, be provided.
+&emsp;&emsp;The Secretary, through contracts and grants, shall provide technical and financialassistance to Bureau-funded schools, to the extent that necessary amounts are made available, to enable such schools to obtain the accreditation required under this subsection, if the school boards request that such assistance, in part or in whole, be provided.
 
 #### (B) Entities through which assistance may be provided
 
@@ -190,7 +190,7 @@
 
 #### (iv) Accreditation
 
-&emsp;&emsp;&emsp;Upon accreditation of the school, the tribe shall have the option to assume theoperation and administration of the school as a contract school after complying with the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\], or as a grant school, after complying with the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\], at the beginning of the school year following the year in which the school obtains accreditation.
+&emsp;&emsp;&emsp;Upon accreditation of the school, the tribe shall have the option to assume the operation and administration of the school as a contract school after complying with the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\], or as a grant school, after complying with the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\], at the beginning of the school year following the year in which the school obtains accreditation.
 
 #### (v) Retrocede
 
@@ -292,7 +292,7 @@
 
 &emsp;&emsp;&emsp;The Secretary shall consider only the factors described in subparagraph (B) in reviewing—
 
-&emsp;&emsp;&emsp;&emsp;(I) applications from any tribe for the awarding of a contract or grant for a school that is not a Bureau-funded school; and
+&emsp;&emsp;&emsp;&emsp;(I) applications from any tribe for the awarding of a contract or grant for aschool that is not a Bureau-funded school; and
 
 &emsp;&emsp;&emsp;&emsp;(II) applications from any tribe or school board of any Bureau-funded school for—
 
@@ -346,7 +346,7 @@
 
 #### (B) Included information
 
-&emsp;&emsp;Each application described in paragraph (1)(A) shall include information concerningeach of the factors described in paragraph (1)(B).
+&emsp;&emsp;Each application described in paragraph (1)(A) shall include information concerning each of the factors described in paragraph (1)(B).
 
 #### (4) Denial of applications
 
@@ -384,7 +384,7 @@
 
 #### (f) Joint administration
 
-Administrative, transportation, and program cost funds received by Bureau-funded schools, and any program from the Department of Education or any other Federal agency for the purpose of providing education or related services, and other funds received for such education and related services from nonfederally funded programs, shall be apportioned and the funds shall be retained at the school.
+Administrative, transportation, and program cost funds received by Bureau-funded schools,and any program from the Department of Education or any other Federal agency for the purpose of providing education or related services, and other funds received for such education and related services from nonfederally funded programs, shall be apportioned and the funds shall be retained at the school.
 
 #### (g) General use of funds
 
@@ -410,13 +410,13 @@ This section, referred to in subsec. (b)(4) and the second place appearing in su
 
 The Indian Self-Determination Act, referred to in subsec. (b)(8)(D) to (F), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Tribally Controlled Schools Act of 1988, referred to in subsec. (b)(8)(D) to (F), is part B (§§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of this title. Sections 5204 and 5207 of the Act were classified to sections 2503 and 2506, respectively, of this title, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. Pub. L. 107–110 enacted new sections 5204 and 5207 which are classified to sections 2503 and 2506, respectively, of this title. Pub. L. 107–110 enacted new sections 5203 and 5206 of Pub. L. 100–297, relating to subject matter similar to that of former sections 5204 and 5207, respectively, which are classified to sections 2502 and 2505, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in subsec. (b)(8)(D) to (F), is part B (§§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§2501 et seq.) of this title. Sections 5204 and 5207 of the Act were classified to sections 2503 and 2506, respectively, of this title, prior to repeal by Pub. L. 107–110, title X, §1043, Jan. 8, 2002, 115 Stat. 2063. Pub. L. 107–110 enacted new sections 5204 and 5207 which are classified to sections 2503 and 2506, respectively, of this title. Pub. L. 107–110 enacted new sections 5203 and 5206 of Pub. L. 100–297, relating to subject matter similar to that of former sections 5204 and 5207, respectively, which are classified to sections 2502 and 2505, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(4)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 2001, Pub. L. 95–561, title XI, §1121, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 3979; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(d)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–362, title VIII, §801(c)(1), Nov. 10, 1998, 112 Stat. 3287, related to standards for basic education of Indian children in Bureau of Indian Affairs schools, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2001, Pub. L. 95–561, title XI, §1121, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3979; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(d)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–362, title VIII, §801(c)(1), Nov. 10, 1998, 112 Stat. 3287, related to standards for basic education of Indian children in Bureau of Indian Affairs schools, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2001, Pub. L. 95–561, title XI, §1121, Nov. 1, 1978, 92 Stat. 2316; Pub. L. 96–46, §2(b)(2)–(4), Aug. 6, 1979, 93 Stat. 341; Pub. L. 96–88, title III, §301(a)(1), title V, §507, Oct. 17, 1979, 93 Stat. 677, 692; Pub. L. 98–511, title V, §502, Oct. 19, 1984, 98 Stat. 2391; Pub. L. 99–89, §2, Aug. 15, 1985, 99 Stat. 379; Pub. L. 99–570, title IV, §4133(b)(3), Oct. 27, 1986, 100 Stat. 3207–134; Pub. L. 100–297, title V, §§5102, 5104, Apr. 28, 1988, 102 Stat. 363, 365; Pub. L. 100–427, §1(a), (b), Sept. 9, 1988, 102 Stat. 1603; Pub. L. 102–531, title III, §312(b), Oct. 27, 1992, 106 Stat. 3504, related to standards for basic education of Indian children in Bureau or contract schools, prior to the general amendment of this chapter by Pub. L. 103–382.
 

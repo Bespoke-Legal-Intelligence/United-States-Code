@@ -28,7 +28,7 @@ A corporation, trust, or association shall not be considered a real estate inves
 
 &emsp;(1) it files with its return for the taxable year an election to be a real estate investment trust or has made such election for a previous taxable year, and such election has not been terminated or revoked under subsection (g);
 
-&emsp;(2) at least 95 percent (90 percent for taxable years beginning before January 1, 1980) of itsgross income (excluding gross income from prohibited transactions) is derived from—
+&emsp;(2) at least 95 percent (90 percent for taxable years beginning before January 1, 1980) of its gross income (excluding gross income from prohibited transactions) is derived from—
 
 &emsp;&emsp;(A) dividends;
 
@@ -126,7 +126,7 @@ New capital.—The term "new capital" means any amount received by the real esta
 
 Treatment of certain hedging instruments.—Except to the extent as determined by the Secretary—
 
-&emsp;&emsp;&emsp;(i) any income of a real estate investment trust from a hedging transaction (as defined in clause (ii) or (iii) of section 1221(b)(2)(A)), including gain from the sale or disposition of such a transaction, shall not constitute gross income under paragraphs (2) and (3) to the extent that the transaction hedges any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets,
+&emsp;&emsp;&emsp;(i) any income of a real estate investment trust from a hedging transaction (asdefined in clause (ii) or (iii) of section 1221(b)(2)(A)), including gain from the sale or disposition of such a transaction, shall not constitute gross income under paragraphs (2) and (3) to the extent that the transaction hedges any indebtedness incurred or to be incurred by the trust to acquire or carry real estate assets,
 
 &emsp;&emsp;&emsp;(ii) any income of a real estate investment trust from a transaction entered into by the trust primarily to manage risk of currency fluctuations with respect to any item of income or gain described in paragraph (2) or (3) (or any property which generates such income or gain), including gain from the termination of such a transaction, shall not constitute gross income under paragraphs (2) and (3),
 
@@ -348,7 +348,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 &emsp;&emsp;(A) who does not own, directly or indirectly, more than 35 percent of the shares, or certificates of beneficial interest, in the real estate investment trust; and
 
-&emsp;&emsp;(B) if such person is a corporation, not more than 35 percent of the total combined voting power of whose stock (or 35 percent of the total shares of all classes of whose stock), or, if such person is not a corporation, not more than 35 percent of the interest in whose assets or net profits is owned, directly or indirectly, by one or more persons owning 35 percent or more of the shares or certificates of beneficial interest in the trust.
+&emsp;&emsp;(B) if such person is a corporation, not more than 35 percent of the total combined voting power of whose stock (or 35 percent of the total shares of all classes of whose stock), or, if such person is not a corporation, not more than 35 percent of the interest in whose assets or net profits is owned,directly or indirectly, by one or more persons owning 35 percent or more of the shares or certificates of beneficial interest in the trust.
 
 > &emsp;In the event that any class of stock of either the real estate investment trust or such person is regularly traded on an established securities market, only persons who own, directly or indirectly, more than 5 percent of such class of stock shall be taken into account as owning any of the stock of such class for purposes of applying the 35 percent limitation set forth in subparagraph (B) (but all of the outstanding stock of such class shall be considered outstanding in order to compute the denominator for purpose of determining the applicable percentage of ownership).
 
@@ -414,7 +414,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 #### (8) Special rule for taxable REIT subsidiaries
 
-&emsp;For purposes of this subsection, amounts paid to a real estate investment trust by a taxable REIT subsidiary of such trust shall not be excluded from rents from real property by reason of paragraph (2)(B) if the requirements of either of the following subparagraphs are met:
+&emsp;For purposes of this subsection, amounts paid to a real estate investment trust by a taxable REIT subsidiary of such trust shallnot be excluded from rents from real property by reason of paragraph (2)(B) if the requirements of either of the following subparagraphs are met:
 
 #### (A) Limited rental exception
 
@@ -672,7 +672,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 #### (2) Subsections (a)(5) and (6) not to apply to 1st year
 
-&emsp;Paragraphs (5) and (6) of subsection (a) shall not apply to the 1st taxable year for which an election is made under subsection (c)(1) by any corporation, trust, or association.
+&emsp;Paragraphs (5) and (6) of subsection (a) shall not apply to the 1st taxable year for which anelection is made under subsection (c)(1) by any corporation, trust, or association.
 
 #### (3) Treatment of trusts described in section 401(a)
 
@@ -694,7 +694,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 &emsp;&emsp;If any qualified trust holds more than 10 percent (by value) of the interests in any pension-held REIT at any time during a taxable year, the trust shall be treated as having for such taxable year gross income from an unrelated trade or business in an amount which bears the same ratio to the aggregate dividends paid (or treated as paid) by the REIT to the trust for the taxable year of the REIT with or within which the taxable year of the trust ends (the "REIT year") as—
 
-&emsp;&emsp;&emsp;(i) the gross income (less direct expenses related thereto) of the REIT for the REIT year from unrelated trades or businesses\(determined as if the REIT were a qualified trust), bears to
+&emsp;&emsp;&emsp;(i) the gross income (less direct expenses related thereto) of the REIT for the REIT year from unrelated trades or businesses (determined as if the REIT were a qualified trust), bears to
 
 &emsp;&emsp;&emsp;(ii) the gross income (less direct expenses related thereto) of the REIT for the REIT year.
 
@@ -748,7 +748,7 @@ Termination date.—For purposes of this subsection, the term "termination date"
 
 &emsp;For purposes of applying subsection (c) of this section and section 857(b)(6) to any income described in paragraph (1)—
 
-&emsp;&emsp;(A) the real estate investment trust shall be treated as holding the secured property for the period during which it held the shared appreciation provision (or, if shorter, for the period during which the secured property was held by the person holding such property), and
+&emsp;&emsp;(A) the real estate investment trust shall be treated as holding the secured property for the period during which it held theshared appreciation provision (or, if shorter, for the period during which the secured property was held by the person holding such property), and
 
 &emsp;&emsp;(B) the secured property shall be treated as property described in section 1221(a)(1) if it is so described in the hands of the person holding the secured property (or it would be so described if held by the real estate investment trust).
 
@@ -986,7 +986,7 @@ For purposes of this part—
 
 The date of the enactment of this subparagraph, referred to in subsec. (c)(2)(I), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Investment Company Act of 1940, referred to in subsec. (c)(5)(F), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (c)(5)(F), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
 The date of the enactment of this paragraph and such date of enactment, referred to in subsec. (c)(10), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -1160,7 +1160,7 @@ Pub. L. 105–34, §1255(b)(1), struck out "and such agreement shall be treated 
 
 Subsec. (c)(6), (7). Pub. L. 105–34, §1255(a)(3), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
-Subsec. (c)(8). Pub. L. 105–34, §1255(a)(2), struck out heading and text of par. (8). Text read as follows: "In the case of the taxable year in which a real estate investment trust is completely liquidated, there shall not be taken into account under paragraph (4) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation."
+Subsec. (c)(8). Pub. L. 105–34, §1255(a)(2), struck out heading and text of par. (8). Text read as follows: "In the case of the taxable year in which a real estate investment trust is completely liquidated, there shall notbe taken into account under paragraph (4) any gain from the sale, exchange, or distribution of any property after the adoption of the plan of complete liquidation."
 
 Subsec. (d)(2). Pub. L. 105–34, §1252(a), added subpar. (C) and struck out former subpar. (C) and concluding provisions which read as follows:
 
@@ -1236,7 +1236,7 @@ Subsec. (d)(2). Pub. L. 99–514, §663(a), (b)(3), inserted reference to par. (
 
 Subsec. (d)(6). Pub. L. 99–514, §663(b)(1), added par. (6).
 
-Subsec. (f). Pub. L. 99–514, §663(b)(2), amended subsec. (f) generally, restating former introductory provisions and par. (1) as introductory provisions of par. (1) and as subpar. (A), restating provisions of par. (2), adding subpar. (1)(B), and striking out former concluding provisions which read as follows: "The provisions of this subsection shall apply only with respect to amounts received or accrued pursuant to loans made after May 27, 1976. For purposes of the preceding sentence, a loan is considered to be made before May 28, 1976, if such loan is made pursuant to a binding commitment entered into before May 28, 1976."
+Subsec. (f). Pub. L. 99–514, §663(b)(2), amended subsec. (f) generally, restating former introductory provisions and par. (1) as introductory provisions of par. (1) and assubpar. (A), restating provisions of par. (2), adding subpar. (1)(B), and striking out former concluding provisions which read as follows: "The provisions of this subsection shall apply only with respect to amounts received or accrued pursuant to loans made after May 27, 1976. For purposes of the preceding sentence, a loan is considered to be made before May 28, 1976, if such loan is made pursuant to a binding commitment entered into before May 28, 1976."
 
 Subsec. (h). Pub. L. 99–514, §661(a)(2), added subsec. (h).
 
@@ -1314,7 +1314,7 @@ Pub. L. 114–113, div. Q, title III, §318(b), Dec. 18, 2015, 129 Stat. 3095, p
 
 Pub. L. 114–113, div. Q, title III, §319(c), Dec. 18, 2015, 129 Stat. 3096, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2015."
 
-Pub. L. 114–113, div. Q, title III, §321(c), Dec. 18, 2015, 129 Stat. 3098, provided that: "The amendments made by this section \[amending this section and section 857 of this title\] shall apply to taxable years beginning after December 31, 2015."
+Pub. L. 114–113, div. Q, title III, §321(c), Dec. 18, 2015, 129 Stat. 3098, provided that: "The amendments made by this section \[amending this section and section 857of this title\] shall apply to taxable years beginning after December 31, 2015."
 
 #### Effective Dates of 2008 Amendment
 
@@ -1414,7 +1414,7 @@ Pub. L. 106–170, title V, §546, Dec. 17, 1999, 113 Stat. 1946, provided that:
 
 "(a)
 
-In General.—The amendments made by this subpart \[subpart A (§§541–547) of part II of subtitle C of title V of Pub. L. 106–170, amending this section and sections 163 and 857 of this title\] shall apply to taxable years beginning after December 31, 2000.
+In General.—The amendments made by this subpart \[subpart A (§§541–547) of part II of subtitle C of title V of Pub. L. 106–170, amending this section andsections 163 and 857 of this title\] shall apply to taxable years beginning after December 31, 2000.
 
 "(b)
 
@@ -1520,7 +1520,7 @@ Amendment by section 701(t)(2) of Pub. L. 95–600 effective Oct. 4, 1976, see s
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by that section is effective with respect to taxable years beginning in 1977.
+Pub. L. 94–455, title XIV, §1402(b)(1), Oct. 4, 1976, 90 Stat. 1731, provided that the amendment made by thatsection is effective with respect to taxable years beginning in 1977.
 
 Pub. L. 94–455, title XIV, §1402(b)(2), Oct. 4, 1976, 90 Stat. 1732, provided that the amendment made by that section is effective with respect to taxable years beginning after Dec. 31, 1977.
 
@@ -1538,7 +1538,7 @@ Pub. L. 94–455, title XVI, §1608(d), Oct. 4, 1976, 90 Stat. 1758, as amended 
 
 > No distraint or proceeding in court shall be begun for the collection of an amount the collection of which is stayed under subparagraph (C) during the period for which the collection of such amount is stayed.
 
-"(3) Section 856(g)(3) of the Internal Revenue Code of 1986, as added by section 1604 of this Act, shall notapply with respect to a termination of an election, filed by a taxpayer under section 856(c)(1) of such Code on or before the date of the enactment of this Act \[Oct. 4, 1976\], unless the provisions of part II of subchapter M of chapter 1 of subtitle A of such Code apply to such taxpayer for a taxable year ending after the date of the enactment of this Act for which such election is in effect."
+"(3) Section 856(g)(3) of the Internal Revenue Code of 1986, as added by section 1604 of this Act, shall not apply with respect to a termination of an election, filed by a taxpayer under section 856(c)(1) of such Code on or before the date of the enactment of this Act \[Oct. 4, 1976\], unless the provisions of part II of subchapter M of chapter 1 of subtitle A of such Code apply to such taxpayer for a taxable year ending after the date of the enactment of this Act for which such election is in effect."
 
 #### Effective Date of 1975 Amendment
 
@@ -1564,5 +1564,5 @@ Pub. L. 106–170, title V, §547, Dec. 17, 1999, 113 Stat. 1947, provided that:
 
 #### Trust Not Disqualified in Certain Cases Where Income Tests Not Met
 
-Pub. L. 94–455, title XVI, §1608(b), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by section 1602 \[amending this section and section 857 of this title\] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act \[Oct. 4, 1976\]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, as amended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act."
+Pub. L. 94–455, title XVI, §1608(b), Oct. 4, 1976, 90 Stat. 1757, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by section 1602 \[amending this section and section 857 of this title\] shall apply to taxable years of real estate investment trusts beginning after the date of the enactment of this Act \[Oct. 4, 1976\]. In addition, the amendments made by section 1602 shall apply to a taxable year of a real estate investment trust beginning before the date of the enactment of this Act if, as the result of a determination (as defined in section 859(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) with respect to such trust occurring after the date of the enactment of this Act, such trust for such taxable years does not meet the requirements of section 856(c)(2) or section 856(c)(3), or of both such sections, of such Code as in effect for such taxable year. In any case, the amendment made by section 1602(a) requiring a schedule to be attached to the income tax return of certain real estate investment trusts shall apply only to taxable years of such trusts beginning after the date of the enactment of this Act. If the amendments made by section 1602 apply to a taxable year ending on or before the date of enactment of this Act, the reference to paragraph (2)(B) in section 857(b)(5) of such Code, asamended, shall be considered to be a reference to paragraph (2)(C) of section 857(b) of such Code, as in effect immediately before the enactment of this Act."
 

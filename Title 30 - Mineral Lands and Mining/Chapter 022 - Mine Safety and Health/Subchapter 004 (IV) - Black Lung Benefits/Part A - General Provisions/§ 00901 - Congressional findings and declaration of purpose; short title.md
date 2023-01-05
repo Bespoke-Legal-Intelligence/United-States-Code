@@ -20,7 +20,7 @@
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–119, title II, §206(a), Dec. 29, 1981, 95 Stat. 1645, provided that: "Except as otherwise provided, the provisions of this title \[see Short Title of 1981 Amendment note set out under section 801 of this title\] shall take effect on January 1, 1982."
+Pub. L. 97–119, title II, §206(a), Dec. 29, 1981, 95 Stat. 1645, provided that: "Except as otherwise provided, theprovisions of this title \[see Short Title of 1981 Amendment note set out under section 801 of this title\] shall take effect on January 1, 1982."
 
 #### Effective Date of 1978 Amendment
 

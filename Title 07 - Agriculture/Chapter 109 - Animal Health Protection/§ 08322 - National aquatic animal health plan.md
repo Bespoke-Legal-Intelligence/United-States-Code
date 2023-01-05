@@ -42,7 +42,7 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 #### Amendments
 
-<b>2018</b>—Subsecs. (d), (e). Pub. L. 115–334 redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: "There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2008 through 2018."
+<b>2018</b>—Subsecs. (d), (e). Pub. L. 115–334 redesignated subsec. (e) as (d) and struck out former subsec. (d).Prior to amendment, text of subsec. (d) read as follows: "There is authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2008 through 2018."
 
 <b>2014</b>—Subsec. (d). Pub. L. 113–79 substituted "2018" for "2012".
 

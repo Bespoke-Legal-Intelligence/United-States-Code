@@ -2,7 +2,7 @@
 
 #### (a) Conduct of overall management responsibilities
 
-The Secretary of Energy shall have overall management responsibility for carrying out the program under section 2703 of this title. In carrying out such program, the Secretary of Energy, consistent with such overall management responsibility—
+The Secretary of Energy shall have overall management responsibility for carrying out theprogram under section 2703 of this title. In carrying out such program, the Secretary of Energy, consistent with such overall management responsibility—
 
 &emsp;(1) shall utilize the expertise of the Department of Transportation to the extent deemed appropriate by the Secretary of Energy; and
 
@@ -30,7 +30,7 @@ Nothing contained in this chapter shall be construed to reduce in any way the re
 
 #### References in Text
 
-The Energy Reorganization Act of 1974 (42 U.S.C. 5801 et seq.), referred to in subsec. (e), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
+The Energy Reorganization Act of 1974 (42 U.S.C. 5801 et seq.), referred to in subsec. (e), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of Title 42 and Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901 et seq.), referred to in subsec. (e), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901 et seq.), referred to in subsec. (e), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 

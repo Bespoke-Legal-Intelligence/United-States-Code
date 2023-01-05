@@ -16,7 +16,7 @@ Section 1109 of the House amendment represents a compromise between comparable p
 
 Subsection (a) provides, in unqualified terms, that any creditor, equity security holder, or an indenture trustee shall have the right to be heard as a party in interest under this chapter in person, by an attorney, or by a committee. It is derived from section 206 of chapter X (\[former\] 11 U.S.C. 606).
 
-Subsection (b) provides that the Securities and Exchange Commission may appear by filing an appearance in a case of a public company and may appear in other cases if authorized or requested by the court. As a party in interest in either case, the Commission may raise and be heard on any issue. The Commission may not appeal from a judgment, order, or decree in a case, but may participate in any appeal by any other party in interest. This is the present law under section 208 of chapter X (\[former\] 11 U.S.C. 608).
+Subsection (b) provides that the Securities and Exchange Commission may appear by filing an appearance in a case of a public company and may appear in other cases if authorized or requested by the court. Asa party in interest in either case, the Commission may raise and be heard on any issue. The Commission may not appeal from a judgment, order, or decree in a case, but may participate in any appeal by any other party in interest. This is the present law under section 208 of chapter X (\[former\] 11 U.S.C. 608).
 
 #### house report no. 95–595
 

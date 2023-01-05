@@ -42,7 +42,7 @@ Consultation.—Prior to the selection of fellows, the Director shall consult wi
 
 &emsp;(3)
 
-Time limitation.—Fellows selected for the Program shall serve under short-term, time-limited appointments. Such fellows shall be appointed for no less than 6 months and no longer than 2 years in the Program. The Director shall facilitate the process of placing fellows at requesting executive agencies.
+Time limitation.—Fellows selected for the Program shall serve under short-term, time-limited appointments. Such fellows shall be appointed for no less than 6 months and nolonger than 2 years in the Program. The Director shall facilitate the process of placing fellows at requesting executive agencies.
 
 (g)
 
@@ -68,7 +68,7 @@ Section 1. <i>Policy</i>. It is in the national interest for the Federal Governm
 
 Sec. 2. <i>Establishment and Administration</i>. (a) The Administrator of General Services (Administrator) shall establish the Presidential Innovation Fellows Program (Program) to enable exceptional individuals with proven track records to serve time-limited appointments in executive branch departments and agencies (agencies) to address some of the Nation's most significant challenges and improve existing Government efforts that would particularly benefit from expertise using innovative techniques and technology. Individuals selected for the Program shall be known as Presidential Innovation Fellows (Fellows).
 
-(b) The Program shall be administered by a Director, appointed by the Administrator under authorities ofthe General Services Administration (GSA). GSA shall provide necessary staff, resources and administrative support for the Program to the extent permitted by law and within existing appropriations.
+(b) The Program shall be administered by a Director, appointed by the Administrator under authorities of the General Services Administration (GSA). GSA shall provide necessary staff, resources and administrative support for the Program to the extent permitted by law and within existing appropriations.
 
 (c) GSA shall appoint the Fellows and, in cooperation with agencies, shall facilitate placement of the Fellows to participate in projects that have the potential for significant positive effects and are consistent with the President's goals.
 

@@ -2,7 +2,7 @@
 
 #### (a) Reports
 
-The Secretary may require that an entity receiving assistance under this part shall submit to the Secretary, not later than the date that is1 year after the date of receipt of such assistance, a report that includes—
+The Secretary may require that an entity receiving assistance under this part shall submit to the Secretary, not later than the date that is 1 year after the date of receipt of such assistance, a report that includes—
 
 &emsp;(1) an analysis of the effectiveness of the activities for which the entity receives such assistance, as compared to the goals for such activities; and
 

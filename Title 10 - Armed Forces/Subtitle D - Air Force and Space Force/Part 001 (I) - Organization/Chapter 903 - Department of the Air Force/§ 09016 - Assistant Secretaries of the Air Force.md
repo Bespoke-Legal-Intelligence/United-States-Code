@@ -42,7 +42,7 @@
 
 &emsp;(vi) Effective as of the date specified in section 957(d) of such Act, and in accordance with such section 957, serve as the Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs and discharge any senior procurement executive duties and authorities assigned by the Secretary of the Air Force pursuant to section 9014(c)(6) of this title.
 
-(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1058, §8016; amended Pub. L. 100–456, div. A, title VII, §702(c)\[(1)\], (d), Sept. 29, 1988, 102 Stat. 1995, 1996; Pub. L. 110–181, div. A, title IX, §908(c), Jan. 28, 2008, 122 Stat. 278; Pub. L. 114–328, div. A, title V, §502(ii), title VIII, §802(c), title IX, §934(a), Dec. 23, 2016, 130 Stat. 2105, 2249, 2365; Pub. L. 115–91, div. A, title IX, §921(c), Dec. 12, 2017, 131 Stat. 1524; renumbered §9016, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–92, div. A, title VIII, §861(j)(16), title IX, §§911(c), 956(b)(1), Dec. 20, 2019, 133 Stat. 1520, 1559, 1565; Pub. L. 116–283, div. A, title XVI, §1601(c), Jan. 1, 2021, 134 Stat. 4042; Pub. L. 117–81, div. A, title IX, §905(a)(2)(B), (b)(2), title XVI, §1602(a)(2), (b)(2), Dec. 27, 2021, 135 Stat. 1872, 2076, 2077.)
+(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1058, §8016; amended Pub. L. 100–456, div. A, title VII, §702(c)\[(1)\], (d), Sept. 29, 1988, 102 Stat. 1995, 1996; Pub. L. 110–181, div. A, title IX, §908(c), Jan. 28, 2008, 122 Stat. 278; Pub. L. 114–328, div. A, title V, §502(ii), title VIII,§802(c), title IX, §934(a), Dec. 23, 2016, 130 Stat. 2105, 2249, 2365; Pub. L. 115–91, div. A, title IX, §921(c), Dec. 12, 2017, 131 Stat. 1524; renumbered §9016, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–92, div. A, title VIII, §861(j)(16), title IX, §§911(c), 956(b)(1), Dec. 20, 2019, 133 Stat. 1520, 1559, 1565; Pub. L. 116–283, div. A, title XVI, §1601(c), Jan. 1, 2021, 134 Stat. 4042; Pub. L. 117–81, div. A, title IX, §905(a)(2)(B), (b)(2), title XVI, §1602(a)(2), (b)(2), Dec. 27, 2021, 135 Stat. 1872, 2076, 2077.)
 
 #### <b>Editorial Notes</b>
 
@@ -126,7 +126,7 @@ References.—Any reference to the Principal Assistant to the Secretary of the A
 
 #### Transfer of Acquisition Projects for Space Systems and Programs
 
-Pub. L. 116–92, div. A, title IX, §956(b)(3), Dec. 20, 2019, 133 Stat. 1566, as amended by Pub. L. 117–81, div. A, title IX, §905(a)(2)(A), title XVI, §1602(b)(3), Dec. 27, 2021, 135 Stat. 1871, 2077, provided that: "Effective on the date specified in section 957(d), the Secretary of the Air Force shall transfer to the Assistant Secretary of the Air Force for Space Acquisition and Integration under paragraph (6) of section 9016(b) of title 10, United States Code (as added by this subsection), responsibility for architecture and integration of any acquisition projects for space systems and programs of the Armed Forces that are under the oversight or direction of the Assistant Secretary of the Air Force for Acquisition as of the day before the date specified in section 957(d)."
+Pub. L. 116–92, div. A, title IX, §956(b)(3), Dec. 20, 2019, 133 Stat. 1566, as amended by Pub. L. 117–81, div. A, title IX, §905(a)(2)(A), title XVI, §1602(b)(3), Dec. 27, 2021, 135 Stat. 1871, 2077, provided that: "Effective on the date specified in section 957(d), the Secretary of the Air Force shall transfer to the Assistant Secretary of the Air Force for Space Acquisition and Integration under paragraph (6) of section 9016(b) of title 10, United States Code (as added by this subsection), responsibility for architecture and integration of any acquisitionprojects for space systems and programs of the Armed Forces that are under the oversight or direction of the Assistant Secretary of the Air Force for Acquisition as of the day before the date specified in section 957(d)."
 
 \[Pub. L. 117–81, div. A, title XVI, §1602(b)(3), Dec. 27, 2021, 135 Stat. 2077, which directed substitution of "of the Armed Forces" for "of the Air Force", was executed by making the substitution after "space systems and programs" to reflect the probable intent of Congress.\]
 
@@ -136,7 +136,7 @@ Pub. L. 116–92, div. A, title IX, §957, Dec. 20, 2019, 133 Stat. 1566, as ame
 
 "(a)
 
-In General.—Effective on the date specified in subsection (d), there shall be within the Department ofthe Air Force a Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs.
+In General.—Effective on the date specified in subsection (d), there shall be within the Department of the Air Force a Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs.
 
 "(b)
 

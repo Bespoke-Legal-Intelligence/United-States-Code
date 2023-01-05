@@ -32,9 +32,9 @@ As used in this subchapter:
 
 &emsp;(10) The term "new unit" means a unit that commences commercial operation on or after November 15, 1990.
 
-&emsp;(11) The term "permitting authority" means the Administrator, or the State or local airpollution control agency, with an approved permitting program under part B <sup>3</sup> of title III of the Act.
+&emsp;(11) The term "permitting authority" means the Administrator, or the State or local air pollution control agency, with an approved permitting program under part B <sup>3</sup> of title III of the Act.
 
-&emsp;(12) The term "repowering" means replacement of an existing coal-fired boiler with one of the following clean coal technologies: atmospheric or pressurized fluidized bed combustion, integrated gasification combined cycle, magnetohydrodynamics, direct and indirect coal-fired turbines, integrated gasification fuel cells, or as determined by the Administrator, in consultation with the Secretary of Energy, a derivative of one or more of these technologies, and any other technology capable of controlling multiple combustion emissions simultaneously with improved boiler or generation efficiency and with significantly greater waste reduction relative to the performance of technology in widespread commercial use as of November 15, 1990. Notwithstanding the provisions of section 7651h(a) of this title, for the purpose of this subchapter, the term "repowering" shall also include any oil and/or gas-fired unit which has been awarded clean coal technology demonstration funding as of January 1, 1991, by the Department of Energy.
+&emsp;(12) The term "repowering" means replacement of an existing coal-fired boiler with one of the following clean coal technologies: atmospheric or pressurized fluidized bed combustion, integrated gasification combined cycle, magnetohydrodynamics, direct and indirect coal-fired turbines, integrated gasification fuel cells, or as determined by the Administrator, in consultation with the Secretary of Energy, a derivative of one or more of these technologies, and any other technology capable of controlling multiple combustion emissions simultaneously with improved boiler or generation efficiency and with significantly greater waste reduction relative to the performance of technology in widespread commercial use as of November 15, 1990. Notwithstanding the provisions of section 7651h(a) of this title, for the purpose of this subchapter, the term "repowering" shall also include anyoil and/or gas-fired unit which has been awarded clean coal technology demonstration funding as of January 1, 1991, by the Department of Energy.
 
 &emsp;(13) The term "reserve" means any bank of allowances established by the Administrator under this subchapter.
 
@@ -92,7 +92,7 @@ As used in this subchapter:
 
 &emsp;(28) The term "basic Phase II allowance allocations" means:
 
-&emsp;&emsp;(A) For calendar years 2000 through 2009 inclusive, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and (4); (c)(1), (2), (3), and (5); (d)(1), (2), (4), and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1); (i) and (j) of section 7651d of this title.
+&emsp;&emsp;(A) For calendar years 2000 through 2009 inclusive, allocations of allowances made bythe Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and (4); (c)(1), (2), (3), and (5); (d)(1), (2), (4), and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1); (i) and (j) of section 7651d of this title.
 
 &emsp;&emsp;(B) For each calendar year beginning in 2010, allocations of allowances made by the Administrator pursuant to section 7651b of this title and subsections (b)(1), (3), and (4); (c)(1), (2), (3), and (5); (d)(1), (2), (4) and (5); (e); (f); (g)(1), (2), (3), (4), and (5); (h)(1) and (3); (i) and (j) of section 7651d of this title.
 

@@ -44,7 +44,7 @@ Findings.—Congress finds that—
 
 &emsp;"(6) since establishment of the Chattahoochee River National Recreation Area, visitor use of the recreation area has shifted dramatically from waterborne to water-related and land-based activities;
 
-&emsp;"(7) the State of Georgia and political subdivisions of the State along the Chattahoochee River have indicated willingness to join in a cooperative effort with the United States to link existing units of the recreation area through a series of linear corridors to be established within the area of national concern and elsewhere on the river; and
+&emsp;"(7) the State of Georgia and political subdivisions of the State along the Chattahoochee River have indicated willingness to join in a cooperative effortwith the United States to link existing units of the recreation area through a series of linear corridors to be established within the area of national concern and elsewhere on the river; and
 
 &emsp;"(8) if Congress appropriates funds in support of the cooperative effort described in paragraph (7), funding from the State, political subdivisions of the State, private foundations, corporate entities, private individuals, and other sources will be available to fund more than half the estimated cost of the cooperative effort.
 

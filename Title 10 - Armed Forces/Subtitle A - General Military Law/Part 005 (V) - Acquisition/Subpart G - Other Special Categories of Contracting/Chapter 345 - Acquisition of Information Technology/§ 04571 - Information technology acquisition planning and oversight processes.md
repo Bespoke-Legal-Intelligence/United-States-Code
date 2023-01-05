@@ -42,6 +42,30 @@ Pub. L. 116–283, §1857(b)(1), renumbered section 2223a of this title as this 
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
+#### Target Date for Deployment of 5G Wireless Broadband Infrastructure at All Military Installations
+
+Pub. L. 117–263, div. A, title II, §221, Dec. 23, 2022, 136 Stat. 2478, provided that:
+
+"(a)
+
+Target Required.—Not later than July 30, 2023, the Secretary of Defense shall—
+
+&emsp;"(1) establish a target date by which the Secretary plans to deploy 5G wireless broadband infrastructure at all military installations; and
+
+&emsp;"(2) establish metrics, which shall be identical for each of the military departments, to measure progress toward reaching the target required by paragraph (1).
+
+"(b)
+
+Annual Report.—Not later than December 31, 2023, and on an annual basis thereafter until the date specified in subsection (c), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
+
+&emsp;"(1) the metrics in use pursuant to subsection (a)(2); and
+
+&emsp;"(2) the progress of the Secretary in reaching the target required by subsection (a)(1).
+
+"(c)
+
+Termination.—The requirement to submit annual reports under subsection (b) shall terminate on the date that is five years after the date of the enactment of this Act \[Dec. 23, 2022\]."
+
 #### Pilot Programs for Deployment of Telecommunications Infrastructure To Facilitate 5G Deployment on Military Installations
 
 Pub. L. 117–81, div. A, title II, §233, Dec. 27, 2021, 135 Stat. 1614, provided that:
@@ -194,7 +218,7 @@ Establishment.—Using the authority provided under section 911(c) of the Nation
 
 Duties.—The duties of the cross-functional team established under paragraph (1) shall be—
 
-&emsp;&emsp;"(A) to assist the Secretary of Defense in determining the roles and responsibilities of the organizations and elements of the Department of Defense with respect to the acquisition, sustainment, and operation of 5G wireless networking, as required under subsection (d);
+&emsp;&emsp;"(A) to assist the Secretary of Defense in determining the roles and responsibilities of the organizations and elements of the Department of Defense with respect to the acquisition, sustainment, andoperation of 5G wireless networking, as required under subsection (d);
 
 &emsp;&emsp;"(B) to assist the senior official responsible for 5G wireless networking in carrying out the responsibilities assigned to such official under subsection (b);
 
@@ -278,7 +302,7 @@ In general.—Nothing in this section shall be construed as providing the Chief 
 
 &emsp;"(2)
 
-Purview of experimentation and science and technology development.—The activities described in paragraph (1) shall remain within the purview of the Under Secretary of Defense for Research and Engineering, but shall inform and be informed by theactivities of the cross-functional team established pursuant to subsection (c)."
+Purview of experimentation and science and technology development.—The activities described in paragraph (1) shall remain within the purview of the Under Secretary of Defense for Research and Engineering, but shall inform and be informed by the activities of the cross-functional team established pursuant to subsection (c)."
 
 #### Demonstration Project on Use of Certain Technologies for Fifth-Generation Wireless Networking Services
 
@@ -514,7 +538,7 @@ Program selection.—Not later than 180 days after the date of the enactment of 
 
 Additional requirements.—As part of the demonstration activities under paragraph (1), the Secretary shall—
 
-&emsp;&emsp;"(A) conduct a comparative analysis that assesses the risks and benefits of the digital engineeringsupported automated testing approaches of the programs participating in the demonstration activities relative to traditional testing approaches that are not supported by digital engineering;
+&emsp;&emsp;"(A) conduct a comparative analysis that assesses the risks and benefits of the digital engineering supported automated testing approaches of the programs participating in the demonstration activities relative to traditional testing approaches that are not supported by digital engineering;
 
 &emsp;&emsp;"(B) ensure that the intellectual property strategy for each of the programs participating in the demonstration activities is best aligned to meet the goals of the program; and
 
@@ -586,7 +610,7 @@ Information to congress.—Not later than 30 days after the date on which the as
 
 #### Strategy and Implementation Plan for Fifth Generation Information and Communications Technologies
 
-Pub. L. 116–92, div. A, title II, §254, Dec. 20, 2019, 133 Stat. 1287, provided that:
+Pub. L. 116–92, div. A, title II, §254, Dec. 20, 2019, 133 Stat. 1287, as amended by Pub. L. 117–263, div. A, title II, §232, Dec. 23, 2022, 136 Stat. 2486, provided that:
 
 "(a)
 
@@ -642,7 +666,7 @@ Periodic Briefings.—
 
 &emsp;"(1)
 
-In general.—Not later than March 15, 2020, and not less frequently than once every three months thereafter through March 15, 2022, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the development and implementation of the strategy required under subsection (a), including an explanation of how the Department of Defense—
+In general.—Not later than March 15, 2020, and not less frequently than once every three months thereafter through December 1, 2026, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the development and implementation of the strategy required under subsection (a), including an explanation of how the Department of Defense—
 
 &emsp;&emsp;"(A) is using secure 5G wireless network technology;
 
@@ -742,7 +766,7 @@ Use of authority.—In using the authority under this section, the Secretary sha
 
 &emsp;"(3)
 
-Treatment not as major defense acquisition program.—Software acquired or developed using the authority under this section shall not be treated as a major defense acquisition program for purposes ofsection 2430 of title 10, United States Code \[now 10 U.S.C. 4201\], or Department of Defense Directive 5000.01 without the specific direction of the Under Secretary of Defense for Acquisition and Sustainment or a Senior Acquisition Executive.
+Treatment not as major defense acquisition program.—Software acquired or developed using the authority under this section shall not be treated as a major defense acquisition program for purposes of section 2430 of title 10, United States Code \[now 10 U.S.C. 4201\], or Department of Defense Directive 5000.01 without the specific direction of the Under Secretary of Defense for Acquisition and Sustainment or a Senior Acquisition Executive.
 
 &emsp;"(4)
 
@@ -836,7 +860,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—Not later than October 15, 2020, the Under Secretary of Defense for Acquisition andSustainment, in consultation with the secretaries of the military departments and other appropriate officials, shall report on the use of the authority under this section using the initial guidance issued under subsection (d).
+In general.—Not later than October 15, 2020, the Under Secretary of Defense for Acquisition and Sustainment, in consultation with the secretaries of the military departments and other appropriate officials, shall report on the use of the authority under this section using the initial guidance issued under subsection (d).
 
 &emsp;"(2)
 
@@ -931,6 +955,8 @@ Briefing Required.—Not later than 180 days after the date of the enactment of 
 "(f)
 
 Applicability.—The requirements of this section shall apply in full to the Department of the Navy, including the Sharkcage and associated programs."
+
+\[Reference to Joint Artificial Intelligence Center, referred to in subsec. (b)(2)(K) of section 1651 of Pub. L. 116–92, set out above, deemed to refer to the office of the official designated under section 238(b) of Pub. L. 115–232, see section 212(m) of Pub. L. 117–263, set out as a note preceding section 4061 of this title (in a bracketed note following section 238 of Pub. L. 115–232).\]
 
 #### Policy Regarding the Transition of Data and Applications to the Cloud
 
@@ -1028,11 +1054,11 @@ Report Required.—The Chief Information Officer shall submit to the congression
 
 &emsp;"(4) Information relating to acquisition strategies and timeline for efforts associated with the Department of Defense's Cloud Initiative, including the Joint Enterprise Defense Infrastructure.
 
-&emsp;"(5) A description of how the acquisition strategies referred to in paragraph (4) provides \[sic\] for a fulland open competition, enable the Department of Defense to continuously leverage and acquire new cloud computing capabilities, maintain the ability of the Department to leverage other cloud computing vendor products and services, incorporate elements to maintain security, and provide for the best performance, cost, and schedule to meet the cloud architecture and services requirements of the Department for the duration of such contract.
+&emsp;"(5) A description of how the acquisition strategies referred to in paragraph (4) provides \[sic\] for a full and open competition, enable the Department of Defense to continuously leverage and acquire new cloud computing capabilities, maintain the ability of the Department to leverage other cloud computing vendor products and services, incorporate elements to maintain security, and provide for the best performance, cost, and schedule to meet the cloud architecture and services requirements of the Department for the duration of such contract.
 
 &emsp;"(6) A detailed description of existing workloads that will be migrated to enterprise-wide cloud infrastructure or platforms as a result of the Department of Defense's Cloud Initiative, including estimated migration costs and timelines, based on the analysis required under subsection (a)(2).
 
-&emsp;"(7) A description of the program management and program office of the Department of Defense's Cloud Initiative, including the number of personnel, overhead costs, and organizational structure.
+&emsp;"(7) A description of the program management and program office of the Department of Defense's CloudInitiative, including the number of personnel, overhead costs, and organizational structure.
 
 &emsp;"(8) A description of the effect of the Joint Enterprise Defense Infrastructure on and the relationship of such Infrastructure to existing cloud computing infrastructure, platform, and service contracts across the Department of Defense, specifically the effect and relationship to the private cloud infrastructure of the Department, MilCloud 2.0 run by the Defense Information Systems Agency based on the analysis required under subsection (a)(2).
 
@@ -1134,7 +1160,7 @@ Selection of systems for pilot program.—
 
 &emsp;&emsp;"(A) The implementation plan shall require that systems be selected as follows:
 
-&emsp;&emsp;&emsp;"(i) For major software-intensive warfighting systems, one system per armed force and one defense-wide system, including at least one major defense acquisition program or major automated information system.
+&emsp;&emsp;&emsp;"(i) For major software-intensive warfighting systems, one system per armed force and one defense-wide system, including at least one majordefense acquisition program or major automated information system.
 
 &emsp;&emsp;&emsp;"(ii) For defense business systems, not fewer than two systems and not greater than eight systems.
 
@@ -1366,7 +1392,7 @@ Defense-wide plan.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than April 1, 2012, the Chief Information Officer of the Department shall submit to the congressional defense committees\[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a performance plan for a reduction in the resources required for data centers and information systems technologies Department-wide. The plan shall be based upon and incorporate appropriate elements of the plans submitted under paragraph (1).
+In general.—Not later than April 1, 2012, the Chief Information Officer of the Department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a performance plan for a reduction in the resources required for data centers and information systems technologies Department-wide. The plan shall be based upon and incorporate appropriate elements of the plans submitted under paragraph (1).
 
 &emsp;&emsp;"(B)
 
@@ -1462,7 +1488,7 @@ Elements.—Each report under this subsection shall include the following:
 
 &emsp;&emsp;"(D) For the pilot projects supported or conducted under subsection (b)(4)—
 
-&emsp;&emsp;&emsp;"(i) a framework and taxonomy for evaluating practices that secure the global supply chain, aswell as practices for securely operating in an uncertain or compromised supply chain;
+&emsp;&emsp;&emsp;"(i) a framework and taxonomy for evaluating practices that secure the global supply chain, as well as practices for securely operating in an uncertain or compromised supply chain;
 
 &emsp;&emsp;&emsp;"(ii) an assessment of the viability of applying commercial practices for securing the global supply chain; and
 

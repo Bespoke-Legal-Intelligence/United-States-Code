@@ -118,7 +118,7 @@ Effective Date.—Except as provided in subsection (b), this subtitle \[subtitle
 
 "(b)
 
-Application of Amendments.—(1) The amendments made by section 7258(a) \[amending section 11133 of this title\] shall not apply to a State with respect to a fiscal year beginning before the date of the enactment of this Act \[Nov. 18, 1988\] if the State plan is approved before such date by the Administrator for such fiscal year.
+Application of Amendments.—(1) The amendments made by section 7258(a) \[amending section 11133of this title\] shall not apply to a State with respect to a fiscal year beginning before the date of the enactment of this Act \[Nov. 18, 1988\] if the State plan is approved before such date by the Administrator for such fiscal year.
 
 "(2) The amendments made by section 7253(b)(1) \[amending section 11114 of this title\] and section 7278 \[enacting section 11277 of this title\] shall not apply with respect to fiscal year 1989.
 

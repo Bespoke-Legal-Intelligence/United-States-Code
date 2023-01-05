@@ -8,7 +8,7 @@
 
 #### (2) Merger of retiree benefit plans
 
-&emsp;As of February 1, 1993, the settlors of the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall cause such plans to bemerged into the Combined Fund, and such merger shall not be treated as an employer withdrawal for purposes of any 1988 coal wage agreement.
+&emsp;As of February 1, 1993, the settlors of the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall cause such plans to be merged into the Combined Fund, and such merger shall not be treated as an employer withdrawal for purposes of any 1988 coal wage agreement.
 
 #### (3) Treatment of plan
 

@@ -44,13 +44,27 @@ Under regulations prescribed by the Secretary—
 
 #### (E) Special rules
 
-&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualifiedprogress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), or 48C(b)(2).
+&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(5).
 
-#### (3) Carrybacks and carryovers adjusted
+#### (3) Certain expansions in connection with advanced manufacturing facilities
 
-&emsp;In the case of any cessation described in paragraph (1) or (2), the carrybacks and carryovers under section 39 shall be adjusted by reason of such cessation.
+#### (A) In general
 
-#### (4) Subsection not to apply in certain cases
+&emsp;&emsp;If there is a an applicable transaction by an applicable taxpayer before the close of the 10-year period beginning on the date such taxpayer placed in service investment credit property which is eligible for the advanced manufacturing investment credit under section 48D(a), then the tax under this chapter for the taxable year in which such transaction occurs shall be increased by 100 percent of the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero any credit determined under section 46 which is attributable to the advanced manufacturing investment credit under section 48D(a) with respect to such property.
+
+#### (B) Exception
+
+&emsp;&emsp;Subparagraph (A) shall not apply if the applicable taxpayer demonstrates to the satisfaction of the Secretary that the applicable transaction has been ceased or abandoned within 45 days of a determination and notice by the Secretary.
+
+#### (C) Regulations and guidance
+
+&emsp;&emsp;The Secretary shall issue such regulations or other guidance as the Secretary determines necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance which provide for requirements for recordkeeping or information reporting for purposes of administering the requirements of this paragraph.
+
+#### (4) Carrybacks and carryovers adjusted
+
+&emsp;In the case of any cessation described in paragraph (1) or (2), or any applicable transaction to which paragraph (3)(A) applies, the carrybacks and carryovers under section 39 shall be adjusted by reason of such cessation or applicable transaction.
+
+#### (5) Subsection not to apply in certain cases
 
 &emsp;Paragraphs (1) and (2) shall not apply to—
 
@@ -60,7 +74,7 @@ Under regulations prescribed by the Secretary—
 
 > &emsp;For purposes of this subsection, property shall not be treated as ceasing to be investment credit property with respect to the taxpayer by reason of a mere change in the form of conducting the trade or business so long as the property is retained in such trade or business as investment credit property and the taxpayer retains a substantial interest in such trade or business.
 
-#### (5) Definitions and special rules
+#### (6) Definitions and special rules
 
 #### (A) Investment credit property
 
@@ -76,7 +90,23 @@ Under regulations prescribed by the Secretary—
 
 #### (C) Special rule
 
-&emsp;&emsp;Any increase in tax under paragraph (1) or (2) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
+&emsp;&emsp;Any increase in tax under paragraph (1), (2), or (3) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
+
+#### (D) Applicable transaction
+
+&emsp;&emsp;For purposes of this subsection—
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term "applicable transaction" means, with respect to any applicable taxpayer, any significant transaction (as determined by the Secretary, in coordination with the Secretary of Commerce and the Secretary of Defense) involving the material expansion of semiconductor manufacturing capacity of such applicable taxpayer in the People's Republic of China or a foreign country of concern (as defined in section 9901(7) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021).
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;Such term shall not include a transaction which primarily involves the expansion of manufacturing capacity for legacy semiconductors (as defined in section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021).
+
+#### (E) Applicable taxpayer
+
+&emsp;&emsp;For purposes of this subsection, the term "applicable taxpayer" means any taxpayer who has been allowed a credit under section 48D(a) for any prior taxable year.
 
 #### (b) Certain property not eligible
 
@@ -106,7 +136,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (3) Property used by certain tax-exempt organization
 
-&emsp;No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter unless such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section 511. If the property is debt-financed property (as defined in section 514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section 514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property. If any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, this paragraph shall not apply for purposes of determining the amount of the rehabilitation credit.
+&emsp;No credit shall be determined under this subpart with respect to any property used by an organization (other than a cooperative described in section 521) which is exempt from the tax imposed by this chapter unless such property is used predominantly in an unrelated trade or business the income of which is subject to tax under section 511. If the property is debt-financed property (as defined in section 514(b)), the amount taken into account for purposes of determining the amount of the credit under this subpart with respect to such property shall be that percentage of the amount (which but for this paragraph would be so taken into account) which is the same percentage as is used under section 514(a), for the year the property is placed in service, in computing the amount of gross income to be taken into account during such taxable year with respect to such property. If any qualified rehabilitated building is used by the tax-exempt organization pursuant to a lease, thisparagraph shall not apply for purposes of determining the amount of the rehabilitation credit.
 
 #### (4) Property used by governmental units or foreign persons or entities
 
@@ -148,9 +178,11 @@ No credit shall be determined under this subpart with respect to—
 
 &emsp;In the case of any energy credit—
 
-&emsp;&emsp;(A) only 50 percent of such credit shall be taken into account under paragraph (1), and
+&emsp;&emsp;(A) only 50 percent of such credit shall be taken into account under paragraph (1),
 
-&emsp;&emsp;(B) only 50 percent of any recapture amount attributable to such credit shall be taken into account under paragraph (2).
+&emsp;&emsp;(B) only 50 percent of any recapture amount attributable to such credit shall be taken into account under paragraph (2), and
+
+&emsp;&emsp;(C) paragraph (1) shall not apply for purposes of determining eligible basis under section 42.
 
 #### (4) Recapture of reductions
 
@@ -178,7 +210,13 @@ For purposes of this subpart, rules similar to the rules of the following provis
 
 &emsp;(1) Section 46(e) (relating to limitations with respect to certain persons).
 
-&emsp;(2) Section 46(f) (relating to limitation in case of certain regulated companies).
+&emsp;(2) Section 46(f) (relating to limitation in case of certain regulated companies). At the election of a taxpayer, this paragraph shall not apply to any energy storage technology (as defined in section 48(c)(6)), provided—
+
+&emsp;&emsp;(A) no election under this paragraph shall be permitted if the making of such election is prohibited by a State or political subdivision thereof, by any agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision that regulates public utilities as described in section 7701(a)(33)(A),
+
+&emsp;&emsp;(B) an election under this paragraph shall be made separately with respect to each energy storage technology by the due date (including extensions) of the Federal tax return for the taxable year in which the energy storage technology is placed in service by the taxpayer, and once made, may be revoked only with the consent of the Secretary, and
+
+&emsp;&emsp;(C) an election shall not apply with respect to any energy storage technology if such energy storage technology has a maximum capacity equal to or less than 500 kilowatt hours.
 
 &emsp;(3) Section 46(h) (relating to special rules for cooperatives).
 
@@ -190,13 +228,27 @@ For purposes of this subpart, rules similar to the rules of the following provis
 
 &emsp;(7) Section 48(r) (relating to certain 501(d) organizations).
 
-> Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995.
+> Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995. In the case of a real estate investment trust making an election under section 6418, paragraphs (1)(B) and (2)(B) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any investment credit property of such real estate investment trust to which such election applies.
 
-(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, §220(d), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title IV, §401(a)(25), (d)(3)(B)(ii), Mar. 23, 2018, 132 Stat. 1185, 1209.)
+(Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, §220(d), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title IV, §401(a)(25), (d)(3)(B)(ii), Mar. 23, 2018, 132 Stat. 1185, 1209; Pub. L. 117–167, div. A, §107(b)(1)–(3)(B), (d)(3), Aug. 9, 2022, 136 Stat. 1397–1399; Pub. L. 117–169, title I, §§13102(f)(5), (i), 13702(b)(3), (4), 13801(c), Aug. 16, 2022, 136 Stat. 1917, 1997, 2012.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–169, title I, §13702(b)(3), (4), (c), Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to property placed in service after Dec. 31, 2024, this section is amended:</i>
+
+<i>(1) in subsection (a)(2)(E), by striking "or 48D(b)(5)" and inserting "48D(b)(5), or 48E(e)"; and</i>
+
+<i>(2) in subsection (c)(3), by inserting "or clean electricity investment credit" after "In the case of any energy credit".</i>
+
+<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
+
+Section 9901(7) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (a)(6)(D)(i), is section 9901(7) of Pub. L. 116–283, which is classified to section 4651(7) of Title 15, Commerce and Trade.
+
+Section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (a)(6)(D)(ii), is section 9902(a)(6) of Pub. L. 116–283, which is classified to section 4652(a)(6) of Title 15, Commerce and Trade.
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (d), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
@@ -205,6 +257,32 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 A prior section 50, Pub. L. 92–178, title I, §101(a), Dec. 10, 1971, 85 Stat. 498, related to restoration of credit for investment in certain depreciable property, prior to repeal by Pub. L. 95–600, title III, §312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2)(E). Pub. L. 117–169, §13702(b)(3), substituted "48D(b)(5), or 48E(e)" for "or 48D(b)(5)".
+
+Pub. L. 117–167, §107(d)(3), substituted "48C(b)(2), or 48D(b)(5)" for "or 48C(b)(2)".
+
+Subsec. (a)(3). Pub. L. 117–167, §107(b)(1), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (a)(4). Pub. L. 117–167, §107(b)(3)(A)(ii), inserted "or applicable transaction" before period at end.
+
+Pub. L. 117–167, §107(b)(3)(A)(i), which directed the insertion of ", or any applicable transaction to which paragraph (3)(A) applies" after "paragraphs (1) and (2)", was executed by making the insertion after "paragraph (1) or (2)" to reflect the probable intent of Congress.
+
+Pub. L. 117–167, §107(b)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(5), (6). Pub. L. 117–167, §107(b)(1), redesignated pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (a)(6)(C). Pub. L. 117–167, §107(b)(3)(B), substituted "paragraph (1), (2), or (3)" for "paragraph (1) or (2)".
+
+Subsec. (a)(6)(D), (E). Pub. L. 117–167, §107(b)(2), added subpars. (D) and (E).
+
+Subsec. (c)(3). Pub. L. 117–169, §13702(b)(4), inserted "or clean electricity investment credit" after "In the case of any energy credit" in introductory provisions.
+
+Subsec. (c)(3)(C). Pub. L. 117–169, §13102(i), added subpar. (C).
+
+Subsec. (d). Pub. L. 117–169, §13801(c), inserted "In the case of a real estate investment trust making an election under section 6418, paragraphs (1)(B) and (2)(B) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any investment credit property of such real estate investment trust to which such election applies." at end of concluding provisions.
+
+Subsec. (d)(2). Pub. L. 117–169, §13102(f)(5), inserted "At the election of a taxpayer, this paragraph shall not apply to any energy storage technology (as defined in section 48(c)(6)), provided—" after "companies)." and added subpars. (A) to (C).
 
 <b>2018</b>—Subsec. (a)(2)(E). Pub. L. 115–141, §401(d)(3)(B)(ii), substituted "or 48C(b)(2)" for "48C(b)(2), or 48D(b)(4)".
 
@@ -226,13 +304,23 @@ Subsec. (d). Pub. L. 104–188, §1616(b)(1), inserted closing provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by section 13102(f)(5), (i) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2022, see section 13102(q)(2) of Pub. L. 117–169, set out in a note under section 45 of this title.
+
+Amendment by section 13702(b)(3), (4) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2024, see section 13702(c) of Pub. L. 117–169, set out as an Effective Date note under section 48E of this title.
+
+Amendment by section 13801(c) of Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 13801(g) of Pub. L. 117–169, set out as an Effective Date note under section 6417 of this title.
+
+Amendment by Pub. L. 117–167 applicable to property placed in service after Dec. 31, 2022, and, for any property the construction of which begins prior to Jan. 1, 2023, only to the extent of the basis thereof attributableto the construction, reconstruction, or erection after Aug. 9, 2022, see section 107(f) of Pub. L. 117–167, set out as a note under section 905 of Title 2, The Congress.
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 applicable with respect to expenditures paid or incurred after Oct. 22, 2004, see section 322(e) of Pub. L. 108–357, set out as a note under section 46 of this title.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -246,7 +334,7 @@ Section applicable to property placed in service after Dec. 31, 1990, but not ap
 
 #### Savings Provision
 
-For provisions that amendment made by section 401(d)(3)(B)(ii) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of section 48D(e)(1) of this title, see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under section 48D of this title.
+For provisions that amendment made by section 401(d)(3)(B)(ii) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of section 48D(e)(1) of this title, see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under section 49 of this title.
 
 For provisions that nothing in amendment by section 401(d)(3)(B)(ii) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

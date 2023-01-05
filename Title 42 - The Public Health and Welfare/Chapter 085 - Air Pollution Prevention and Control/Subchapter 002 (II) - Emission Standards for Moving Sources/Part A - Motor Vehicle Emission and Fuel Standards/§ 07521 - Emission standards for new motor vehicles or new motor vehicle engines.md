@@ -18,7 +18,7 @@ In general.—(i) Unless the standard is changed as provided in subparagraph (B)
 
 Revised standards for heavy duty trucks.—(i) On the basis of information available to the Administrator concerning the effects of air pollutants emitted from heavy-duty vehicles or engines and from other sources of mobile source related pollutants on the public health and welfare, and taking costs into account, the Administrator may promulgate regulations under paragraph (1) of this subsection revising any standard promulgated under, or before the date of, the enactment of the Clean Air Act Amendments of 1990 (or previously revised under this subparagraph) and applicable to classes or categories of heavy-duty vehicles or engines.
 
-(ii) Effective for the model year 1998 and thereafter, the regulations under paragraph (1) of thissubsection applicable to emissions of oxides of nitrogen (NO<sub>x</sub>) from gasoline and diesel-fueled heavy duty trucks shall contain standards which provide that such emissions may not exceed 4.0 grams per brake horsepower hour (gbh).
+(ii) Effective for the model year 1998 and thereafter, the regulations under paragraph (1) of this subsection applicable to emissions of oxides of nitrogen (NO<sub>x</sub>) from gasoline and diesel-fueled heavy duty trucks shall contain standards which provide that such emissions may not exceed 4.0 grams per brake horsepower hour (gbh).
 
 (C)
 
@@ -26,7 +26,7 @@ Lead time and stability.—Any standard promulgated or revised under this paragr
 
 (D)
 
-Rebuilding practices.—The Administrator shall study the practice of rebuilding heavy-duty engines and the impact rebuilding has on engine emissions. On the basis of that study and other information available to the Administrator, the Administrator may prescribe requirements to control rebuilding practices, including standards applicable to emissions from any rebuilt heavy-duty engines (whether or not the engine is past its statutory useful life), which in the Administrator's judgment cause, or contribute to, air pollution which may reasonably be anticipated to endanger public health or welfare taking costs into account. Any regulation shall take effect after a period the Administrator finds necessary to permit the development and application of the requisite control measures, giving appropriate consideration to the cost of compliance within the period and energy and safety factors.
+Rebuilding practices.—The Administrator shall study the practice of rebuilding heavy-duty engines and the impact rebuilding has on engine emissions. On the basis of that study and other information available to the Administrator, the Administrator may prescribe requirements to control rebuilding practices, including standards applicable to emissions from any rebuilt heavy-duty engines (whether or not the engine is past its statutory useful life), which in the Administrator's judgment cause, or contribute to, air pollution which may reasonably be anticipated to endanger public health or welfare taking costs into account. Any regulation shall take effect after a period the Administrator finds necessary to permit the development and application of the requisite controlmeasures, giving appropriate consideration to the cost of compliance within the period and energy and safety factors.
 
 (E)
 
@@ -94,9 +94,9 @@ After Fifth
 
 &emsp;(B) Repealed. Pub. L. 101–549, title II, §230(1), Nov. 15, 1990, 104 Stat. 2529.
 
-&emsp;(C) The term "heavy duty vehicle" means a truck, bus, or other vehicle manufactured primarily for use on the public streets, roads, and highways (not including any vehicle operated exclusively on a rail or rails) which has agross vehicle weight (as determined under regulations promulgated by the Administrator) in excess of six thousand pounds. Such term includes any such vehicle which has special features enabling off-street or off-highway operation and use.
+&emsp;(C) The term "heavy duty vehicle" means a truck, bus, or other vehicle manufactured primarily for use on the public streets, roads, and highways (not including any vehicle operated exclusively on a rail or rails) which has a gross vehicle weight (as determined under regulations promulgated by the Administrator) in excess of six thousand pounds. Such term includes any such vehicle which has special features enabling off-street or off-highway operation and use.
 
-(3) <sup>2</sup> Upon the petition of any manufacturer, the Administrator, after notice and opportunity for public hearing, may waive the standard required under subparagraph (B) of paragraph (1) to not exceed 1.5 grams of oxides of nitrogen per vehicle mile for any class or category of light-duty vehicles or engines manufactured by such manufacturer during any period of up to four model years beginning after the model year 1980 if the manufacturer demonstrates that such waiver is necessary to permit the use of an innovative power train technology, or innovative emission control device or system, in such class or category of vehicles or engines and that such technology or system was not utilized by more than 1 percent of the light-duty vehicles sold in the United States in the 1975 model year. Such waiver may be granted only if the Administrator determines—
+(3) <sup>2</sup> Upon the petition of any manufacturer, the Administrator, after notice and opportunity for public hearing, may waive the standard required under subparagraph (B) of paragraph (1) to not exceed 1.5 grams of oxides of nitrogen per vehicle mile for any class or category of light-duty vehicles or engines manufactured by such manufacturer during any period of up to four model years beginning after the model year 1980 if the manufacturer demonstrates that such waiver is necessary to permit the use of an innovative power train technology, or innovative emission control device or system, in such class or category of vehicles or engines and that such technology or system was not utilized by more than 1 percent of the light-duty vehicles sold in the United States in the 1975 model year. Suchwaiver may be granted only if the Administrator determines—
 
 &emsp;(A) that such waiver would not endanger public health,
 
@@ -132,7 +132,7 @@ In the event of a new power source or propulsion system for new motor vehicles o
 
 #### (f) <sup>4</sup> High altitude regulations
 
-(1) The high altitude regulation in effect with respect to model year 1977 motor vehicles shallnot apply to the manufacture, distribution, or sale of 1978 and later model year motor vehicles. Any future regulation affecting the sale or distribution of motor vehicles or engines manufactured before the model year 1984 in high altitude areas of the country shall take effect no earlier than model year 1981.
+(1) The high altitude regulation in effect with respect to model year 1977 motor vehicles shall not apply to the manufacture, distribution, or sale of 1978 and later model year motor vehicles. Any future regulation affecting the sale or distribution of motor vehicles or engines manufactured before the model year 1984 in high altitude areas of the country shall take effect no earlier than model year 1981.
 
 (2) Any such future regulation applicable to high altitude vehicles or engines shall not require a percentage of reduction in the emissions of such vehicles which is greater than the required percentage of reduction in emissions from motor vehicles as set forth in subsection (b). This percentage reduction shall be determined by comparing any proposed high altitude emission standards to high altitude emissions from vehicles manufactured during model year 1970. In no event shall regulations applicable to high altitude vehicles manufactured before the model year 1984 establish a numerical standard which is more stringent than that applicable to vehicles certified under non-high altitude conditions.
 
@@ -292,7 +292,7 @@ after 1996
 
 #### (h) Light-duty trucks of more than 6,000 lbs. GVWR; standards for model years after 1995
 
-Effective with respect to the model year 1996 and thereafter, the regulations under subsection (a) applicable to emissions of nonmethane hydrocarbons (NMHC), carbon monoxide (CO), oxides of nitrogen (NO<sub>x</sub>), and particulate matter (PM) from light-duty trucks (LDTs) of more than 6,000 lbs. gross vehicle weight rating (GVWR) shall contain standards which provide that emissions from a specified percentage of each manufacturer's sales volume of such trucks shall comply with the levels specified in table H. The specified percentage shall be 50 percent in model year 1996 and 100 percent thereafter.
+Effective with respect to the model year 1996 and thereafter, the regulations under subsection\(a) applicable to emissions of nonmethane hydrocarbons (NMHC), carbon monoxide (CO), oxides of nitrogen (NO<sub>x</sub>), and particulate matter (PM) from light-duty trucks (LDTs) of more than 6,000 lbs. gross vehicle weight rating (GVWR) shall contain standards which provide that emissions from a specified percentage of each manufacturer's sales volume of such trucks shall comply with the levels specified in table H. The specified percentage shall be 50 percent in model year 1996 and 100 percent thereafter.
 
 table h—emission standards for nmhc and co from gasoline and diesel fueled light-duty trucks of more than 6,000 lbs. gvwr
 
@@ -506,7 +506,7 @@ The Administrator shall promulgate (and from time to time revise) regulations ap
 
 #### (2) Effective date
 
-&emsp;The regulations required under paragraph (1) of this subsection shall take effect in model year 1994, except that the Administrator may waive the application of such regulations for model year 1994 or 1995 (or both) with respect to any class or category of motor vehicles if the Administrator determines that it would be infeasible to apply the regulations to that class or category in such model year or years, consistent with corresponding regulations or policies adopted by the California Air Resources Board for such systems.
+&emsp;The regulations required under paragraph (1) of this subsection shall take effect in model year 1994, except that the Administrator may waive the application of such regulations for model year 1994 or 1995 (or both) with respect to any class or category of motor vehicles if the Administrator determines that it would be infeasible to apply the regulations to that class or category in such model year or years,consistent with corresponding regulations or policies adopted by the California Air Resources Board for such systems.
 
 #### (3) State inspection
 
@@ -562,7 +562,7 @@ Section 7525(f)(1) of this title, referred to in subsec. (a)(3)(E), was redesign
 
 Paragraph (5) of subsec. (b), referred to in subsec. (b)(1)(A), related to waivers for model years 1981 and 1982, and was repealed by Pub. L. 101–549, title II, §230(3), Nov. 15, 1990, 104 Stat. 2529. See 1990 Amendment note below.
 
-The Energy Policy and Conservation Act, referred to in subsec. (b)(3)(C), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, which is classified principally to chapter 77 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (b)(3)(C), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 #### Codification
 
@@ -606,7 +606,7 @@ Subsec. (b)(2). Pub. L. 101–549, §203(d), amended par. (2) generally. Prior t
 
 Subsec. (b)(3). Pub. L. 101–549, §230(4), redesignated par. (6) relating to waiver of standards for oxides of nitrogen as par. (3), struck out subpar. (A) designation before "Upon the petition", redesignated former cls. (i) to (iii) as subpars. (A) to (C), respectively, and struck out former subpar. (B) which authorized the Administrator to waive the standard under subsec. (b)(1)(B) of this section for emissions of oxides of nitrogen from light-duty vehicles and engines beginning in model year 1981 after providing notice and opportunity for a public hearing, and set forth conditions under which a waiver could be granted.
 
-Subsec. (b)(3)(B). Pub. L. 101–549, §230(1), in the par. (3) defining terms for purposes of this part struck outsubpar. (B) which defined "light duty vehicles and engines".
+Subsec. (b)(3)(B). Pub. L. 101–549, §230(1), in the par. (3) defining terms for purposes of this part struck out subpar. (B) which defined "light duty vehicles and engines".
 
 Subsec. (b)(4). Pub. L. 101–549, §230(2), struck out par. (4) which read as follows: "On July 1 of 1971, and of each year thereafter, the Administrator shall report to the Congress with respect to the development of systems necessary to implement the emission standards established pursuant to this section. Such reports shall include information regarding the continuing effects of such air pollutants subject to standards under this section on the public health and welfare, the extent and progress of efforts being made to develop the necessary systems, the costs associated with development and application of such systems, and following such hearings as he may deem advisable, any recommendations for additional congressional action necessary to achieve the purposes of this chapter. In gathering information for the purposes of this paragraph and in connection with any hearing, the provisions of section 7607(a) of this title (relating to subpenas) shall apply."
 

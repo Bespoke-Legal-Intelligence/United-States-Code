@@ -18,11 +18,7 @@
 
 &emsp;(4) That if an appointment described in paragraph (2) or (3) is tendered and the cadet participates in a program under section 2121 of this title, the cadet will fulfill any unserved obligation incurred under this section on active duty, regardless of the type of appointment held, upon completion of, and in addition to, any service obligation incurred under section 2123 of this title for participation in such program.
 
-&emsp;(5) That the cadet—
-
-&emsp;&emsp;(A) will not seek release from the cadet's commissioned service obligation or seek or accept approval for off-duty employment while completing the cadet's commissioned service obligation to obtain employment as a professional athlete following graduation until the cadet completes a period of at least two consecutive years of commissioned service; and
-
-&emsp;&emsp;(B) understands that the appointment alternative described in paragraph (3) will not be used to allow the cadet to obtain such employment until at least the end of that two-year period.
+&emsp;(5) That the cadet may not obtain employment as a professional athlete until two years after the cadet graduates from the Academy.
 
 (b)(1) The Secretary of the Army may transfer to the Army Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 
@@ -30,23 +26,31 @@
 
 (3) For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (a) if the cadet is separated from the Academy under circumstances which the Secretary determines constitute a breach by the cadet of the cadet's agreement to complete the course of instruction at the Academy and accept an appointment as a commissioned officer upon graduation from the Academy.
 
+(4) A cadet who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).
+
 (c) The Secretary of the Army shall prescribe regulations to carry out this section. Those regulations shall include—
 
 &emsp;(1) standards for determining what constitutes, for the purpose of subsection (b), a breach of an agreement under subsection (a);
 
-&emsp;(2) procedures for determining whether such a breach has occurred; and
+&emsp;(2) that a cadet who obtains employment as a professional athlete—
 
-&emsp;(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (b).
+&emsp;&emsp;(A) in violation of paragraph (5) of subsection (a) has breached an agreement under such subsection; and
 
-(d) In this section, the term "commissioned service obligation", with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
+&emsp;&emsp;(B) at least two years after the cadet graduates from the Academy has not breached an agreement under subsection (a);
+
+&emsp;(3) procedures for determining whether such a breach has occurred; and
+
+&emsp;(4) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (b).
+
+(d) In this section, the term "commissioned service obligation", with respect to a cadet, means the period beginning on the date of the cadet's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
 
 (e)(1) This section does not apply to a cadet who is not a citizen or national of the United States.
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-(f) A cadet or former cadet who does not fulfill the terms of the agreement as specified undersubsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+(f) A cadet or former cadet who does not fulfill each term of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 243, §4348; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(9), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(a), 542(b), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(a), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(9), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, §554(a), Jan. 7, 2011, 124 Stat. 4221; Pub. L. 115–91, div. A, title V, §543(a), title VI, §618(a)(1)(K), Dec. 12, 2017, 131 Stat. 1395, 1426; renumbered §7448, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 116–92, div. A, title V, §554(a), Dec. 20, 2019, 133 Stat. 1388.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 243, §4348; Pub. L. 88–276, §5(a), Mar. 3, 1964, 78 Stat. 153; Pub. L. 88–647, title III, §301(9), Oct. 13, 1964, 78 Stat. 1072; Pub. L. 98–525, title V, §§541(a), 542(b), Oct. 19, 1984, 98 Stat. 2529; Pub. L. 99–145, title V, §512(a), Nov. 8, 1985, 99 Stat. 623; Pub. L. 101–189, div. A, title V, §511(b), title XVI, §1622(e)(5), Nov. 29, 1989, 103 Stat. 1439, 1605; Pub. L. 104–106, div. A, title V, §531(a), Feb. 10, 1996, 110 Stat. 314; Pub. L. 109–163, div. A, title VI, §687(c)(9), Jan. 6, 2006, 119 Stat. 3335; Pub. L. 111–84, div. A, title X, §1073(a)(29), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title V, §554(a), Jan. 7, 2011, 124 Stat. 4221; Pub. L. 115–91, div. A, title V, §543(a), title VI, §618(a)(1)(K), Dec. 12, 2017, 131 Stat. 1395, 1426; renumbered §7448, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839; Pub. L. 116–92, div. A, title V, §554(a), Dec. 20, 2019, 133 Stat. 1388; Pub. L. 117–263, div. A, title V, §553(a), Dec. 23, 2022, 136 Stat. 2592.)
 
 Historical and Revision Notes
 
@@ -68,7 +72,21 @@ The word "agreement" is substituted for the word "articles". The words "Hereafte
 
 #### Amendments
 
-<b>2019</b>—Subsec. (a)(5)(A). Pub. L. 116–92 inserted "or seek or accept approval for off-duty employment while completing the cadet's commissioned service obligation" before "to obtain employment".
+<b>2022</b>—Subsec. (a)(5). Pub. L. 117–263, §553(a)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "That the cadet—
+
+&emsp;"(A) will not seek release from the cadet's commissioned service obligation or seek or accept approval for off-duty employment while completing the cadet's commissioned service obligation to obtain employment as a professional athlete following graduation until the cadet completes a period of at least two consecutive years of commissioned service; and
+
+&emsp;"(B) understands that the appointment alternative described in paragraph (3) will not be used to allow the cadet to obtain such employment until at least the end of that two-year period."
+
+Subsec. (b)(4). Pub. L. 117–263, §553(a)(2), added par. (4).
+
+Subsec. (c)(2) to (4). Pub. L. 117–263, §553(a)(3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (d). Pub. L. 117–263, §553(a)(4), substituted "with respect to a cadet" for "with respect to an officer who is a graduate of the Academy" and "cadet's" for "officer's".
+
+Subsec. (f). Pub. L. 117–263, §553(a)(5), substituted "each term" for "the terms".
+
+<b>2019</b>—Subsec. (a)(5)(A). Pub. L. 116–92 inserted "or seek or accept approval for off-duty employment whilecompleting the cadet's commissioned service obligation" before "to obtain employment".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4348 of this title as this section.
 
@@ -112,6 +130,12 @@ Subsec. (a)(2). Pub. L. 88–276 substituted "five" for "three".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–263, div. A, title V, §553(d), as added by Pub. L. 117–328, div. O, title II, §202(a), Dec. 29, 2022, 136 Stat. 5227, provided that: "The amendments made by this section \[amending this section and sections 8459 and 9448 of this title\] shall only apply with respect to a cadet or midshipman who first enrolls in the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on or after June 1, 2021."
+
+\[Pub. L. 117–328, div. O, title II, §202(b), Dec. 29, 2022, 136 Stat. 5227, provided that: "The amendment made by subsection (a) \[enacting section 553(d) of Pub. L. 117–263, set out above\] shall take effect on the date of the enactment of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 \[Pub. L. 117–263, approved Dec. 23, 2022\] and apply as if originally included in the enactment of such Act."\]
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -142,7 +166,7 @@ Pub. L. 98–525, title V, §541(d), Oct. 19, 1984, 98 Stat. 2529, provided that
 
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 
-Pub. L. 88–276, §5(c), Mar. 3, 1964, 78 Stat. 153, provided that: "The amendments made by this section \[amending this section, sections 6959 and 9348 of this title, and section 182 of Title 14, Coast Guard\] shall apply only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after the date of enactment of this Act \[Mar. 3, 1964\], and shall not affect the obligated period of service of any cadet or midshipman appointed to one of the service academies or the Coast Guard Academy on or before the date of enactment of this Act."
+Pub. L. 88–276, §5(c), Mar. 3, 1964, 78 Stat. 153, provided that: "The amendments made by this section\[amending this section, sections 6959 and 9348 of this title, and section 182 of Title 14, Coast Guard\] shall apply only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after the date of enactment of this Act \[Mar. 3, 1964\], and shall not affect the obligated period of service of any cadet or midshipman appointed to one of the service academies or the Coast Guard Academy on or before the date of enactment of this Act."
 
 #### Regulations Implementing 1985 Amendment
 

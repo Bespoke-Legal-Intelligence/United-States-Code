@@ -38,7 +38,7 @@ The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 152 of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 152 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 Prior to general amendment by Pub. L. 102–573, section 402 of Pub. L. 94–437, in subsec. (a) enacted section 1396j of Title 42, The Public Health and Welfare, in subsecs. (b) to (d) enacted provisions set out as notes under section 1396j of Title 42 (of which subsecs. (c) and (d) were restated in this section), and in subsec. (e) amended section 1396d of Title 42.
 

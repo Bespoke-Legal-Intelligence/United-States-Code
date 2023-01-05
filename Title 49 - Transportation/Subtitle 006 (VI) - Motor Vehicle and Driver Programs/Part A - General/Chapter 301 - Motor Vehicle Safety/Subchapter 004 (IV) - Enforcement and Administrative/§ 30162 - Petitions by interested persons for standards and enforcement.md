@@ -10,7 +10,7 @@ Filing.—Any interested person may file a petition with the Secretary of Transp
 
 (b)
 
-Statement of Facts.—A petition under this section must state facts that the person claims establish that a motor vehicle safetystandard or order referred to in subsection (a) of this section is necessary and briefly describe the order the Secretary should issue.
+Statement of Facts.—A petition under this section must state facts that the personclaims establish that a motor vehicle safety standard or order referred to in subsection (a) of this section is necessary and briefly describe the order the Secretary should issue.
 
 (c)
 

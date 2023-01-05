@@ -36,5 +36,5 @@ The effective date of this section, referred to in subsec. (b)(1), probably mean
 
 #### Effective Date
 
-Subsec. (a) of this section effective 18 months after July 26, 1990, and subsec. (b) of this section effectiveJuly 26, 1990, see section 231 of Pub. L. 101–336, set out as a note under section 12141 of this title.
+Subsec. (a) of this section effective 18 months after July 26, 1990, and subsec. (b) of this section effective July 26, 1990, see section 231 of Pub. L. 101–336, set out as a note under section 12141 of this title.
 

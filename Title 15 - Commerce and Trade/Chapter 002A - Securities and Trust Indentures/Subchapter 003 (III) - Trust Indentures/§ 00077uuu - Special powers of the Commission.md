@@ -2,7 +2,7 @@
 
 #### (a) Investigatory powers
 
-For the purpose of any investigation or any other proceeding which, in the opinion of theCommission, is necessary and proper for the enforcement of this subchapter, any member of the Commission, or any officer thereof designated by it, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such books, papers, correspondence, memoranda, contracts, agreements, or other records may be required from any place in the United States or in any Territory at any designated place of investigation or hearing. In addition, the Commission shall have the powers with respect to investigations and hearings, and with respect to the enforcement of, and offenses and violations under, this subchapter and rules and regulations and orders prescribed under the authority thereof, provided in sections 77t and 77v(b), (c) of this title.
+For the purpose of any investigation or any other proceeding which, in the opinion of the Commission, is necessary and proper for the enforcement of this subchapter, any member of the Commission, or any officer thereof designated by it, is empowered to administer oaths and affirmations, subpena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of any such books, papers, correspondence, memoranda, contracts, agreements, or other records may be required from any place in the United States or in any Territory at any designated place of investigation or hearing. In addition, the Commission shall have the powers with respect to investigations and hearings, and with respect to the enforcement of, and offenses and violations under, this subchapter and rules and regulations and orders prescribed under the authority thereof, provided in sections 77t and 77v(b), (c) of this title.
 
 #### (b) Availability of reports from other offices; restrictions
 
@@ -14,7 +14,7 @@ Notwithstanding any provision of this subchapter, no report, record, or other in
 
 Any investigation of a prospective trustee, or any proceeding or requirement for the purpose of obtaining information regarding a prospective trustee, under any provision of this subchapter, shall be limited—
 
-&emsp;(1) to determining whether such prospective trustee is qualified to act as trustee under the provisions of subsection (b) of section 77jjj of this title;
+&emsp;(1) to determining whether such prospective trustee is qualified to act as trustee under theprovisions of subsection (b) of section 77jjj of this title;
 
 &emsp;(2) to requiring the inclusion in the registration statement or application of information with respect to the eligibility of such prospective trustee under paragraph (1) of subsection (a) of section 77jjj of this title; and
 

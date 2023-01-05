@@ -2,7 +2,7 @@
 
 #### (a) Requirements; access to information
 
-For each fiscal year ending before October 1, 1979, the Comptroller General shall report to the Congress on the activities of the Secretary of Energy and the Secretary under this subchapter and any amendments to other statutes made by this subchapter. The provisions of section 771 of title 15 (relating to access by the Comptroller General to books, documents, papers, statistics, data, records, and information in the possession of the Secretary of Energy or of recipients of Federal funds) shall apply to data which relate to such activities.
+For each fiscal year ending before October 1, 1979, the Comptroller General shall report to the Congress on the activities of the Secretary of Energy and the Secretary under this subchapter and any amendments to other statutes made bythis subchapter. The provisions of section 771 of title 15 (relating to access by the Comptroller General to books, documents, papers, statistics, data, records, and information in the possession of the Secretary of Energy or of recipients of Federal funds) shall apply to data which relate to such activities.
 
 #### (b) Contents of report
 
@@ -38,7 +38,7 @@ This subchapter, referred to in subsecs. (a), and (b)(1), (3), (4), (5), was in 
 
 #### Codification
 
-Subsec. (c)(1) of this section which read "The term 'Administrator' means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this part" has been omitted in view of termination of Federal Energy Administration and transfer of its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and the fact that the term "Secretary"is defined for the purposes of this subchapter by par. (3) of this section. In this part, "Secretary of Energy" has been substituted for "Administrator" wherever it appears.
+Subsec. (c)(1) of this section which read "The term 'Administrator' means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this part" has been omitted in view of termination of Federal Energy Administration and transfer of its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and the fact that the term "Secretary" is defined for the purposes of this subchapter by par. (3) of this section. In this part, "Secretary of Energy" has been substituted for "Administrator" wherever it appears.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

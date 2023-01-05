@@ -38,7 +38,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Pilot Program on Opioid Management in the Military Health System
 
-Pub. L. 115–232, div. A, title VII, §716, Aug. 13, 2018, 132 Stat. 1814, provided that:
+Pub. L. 115–232, div. A, title VII, §716, Aug. 13, 2018, 132 Stat. 1814, as amended by Pub. L. 117–263, div. A, title VII, §719, Dec. 23, 2022, 136 Stat. 2662, provided that:
 
 "(a)
 
@@ -46,7 +46,7 @@ Pilot Program.—
 
 &emsp;"(1)
 
-In general.—Beginning not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Director of the Defense Health Agency shall implement a comprehensive pilot program to assess the feasability and advisability of mechanisms to minimize early exposure of beneficiaries under the TRICARE program to opioids and to prevent the progression of beneficiaries to misuse or abuse of opioid medications.
+In general.—Except as provided in subsection (e), beginning not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the Director of the Defense Health Agency shall implement a comprehensive pilot program to assess the feasability and advisability of mechanisms to minimize early exposure of beneficiaries under the TRICARE program to opioids and to prevent the progression of beneficiaries to misuse or abuse of opioid medications.
 
 &emsp;"(2)
 
@@ -99,6 +99,14 @@ Elements.—The report required by paragraph (1) shall include the following:
 &emsp;&emsp;"(D) A description of any reduction in the misuse or abuse of opioid medications among beneficiaries under the TRICARE program as a result of the pilot program.
 
 "(e)
+
+Alternative Initiative to Improve Opioid Management.—As an alternative to the pilot program under this section, the Director of the Defense Health Agency, not later than January 1, 2023—
+
+&emsp;"(1) may implement a permanent program to improve opioid management for beneficiaries under the TRICARE program; and
+
+&emsp;"(2) if the Director decides to implement such a permanent program, shall submit to the Committees on Armed Services of the Senate and the House of Representatives the specifications of and reasons for implementing such program.
+
+"(f)
 
 TRICARE Program Defined.—In this section, the term 'TRICARE program' has the meaning given that term in section 1072 of title 10, United States Code."
 

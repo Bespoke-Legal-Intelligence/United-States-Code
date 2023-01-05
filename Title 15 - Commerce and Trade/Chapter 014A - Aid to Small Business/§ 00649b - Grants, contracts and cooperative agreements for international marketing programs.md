@@ -2,7 +2,7 @@
 
 #### (a) Limitations and restrictions
 
-The Secretary of Commerce (hereinafter referred to as the "Secretary") is authorized to make grants (including contracts and cooperative agreements) to a qualified applicant to encourage the development and implementation of a small business international marketing program (hereinafter referred to as "the program"). Each qualified applicant under sections 649a to 649d of this title may receive a Federal grant not to exceed $150,000 annually for each of three years: <i>Provided</i>, That not more than one-third of these Federal funds may be used for the purpose of hiring personnel. Nothing in this section shall be construed as authorizing the Secretary to enter into contracts or incur obligations except to such extent and in such amounts as are provided in appropriation Acts.
+The Secretary of Commerce (hereinafter referred to as the "Secretary") is authorized to make grants (including contracts and cooperative agreements) to a qualified applicant to encourage the development and implementation of a small business international marketing program (hereinafter referred to as "the program"). Each qualified applicant under sections 649a to 649d of this title may receive a Federal grant not to exceed $150,000 annually for each of three years: <i>Provided</i>, That not more than one-third ofthese Federal funds may be used for the purpose of hiring personnel. Nothing in this section shall be construed as authorizing the Secretary to enter into contracts or incur obligations except to such extent and in such amounts as are provided in appropriation Acts.
 
 #### (b) Eligibility
 
@@ -68,7 +68,7 @@ Section was not enacted as part of the Small Business Act which comprises this c
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### State Trade and Export Promotion Grant Program
 
@@ -84,7 +84,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;"(B) is operating profitably, based on operations in the United States;
 
-&emsp;&emsp;"(C) has demonstrated understanding of the costs associated with exporting and doing business with foreign purchasers, including the costs of freightforwarding, customs brokers, packing and shipping, as determined by the Associate Administrator; and
+&emsp;&emsp;"(C) has demonstrated understanding of the costs associated with exporting and doing business with foreign purchasers, including the costs of freight forwarding, customs brokers, packing and shipping, as determined by the Associate Administrator; and
 
 &emsp;&emsp;"(D) has in effect a strategic plan for exporting;
 
@@ -228,7 +228,7 @@ Termination.—The authority to carry out the program shall terminate 3 years af
 
 #### Definitions
 
-Pub. L. 111–240, title I, §1202(a), Sept. 27, 2010, 124 Stat. 2520, provided that: "In this subtitle \[subtitle B\(§§1201–1209) of title I of Pub. L. 111–240, see Short Title of 2010 Amendment note set out under section 631 of this title\]—
+Pub. L. 111–240, title I, §1202(a), Sept. 27, 2010, 124 Stat. 2520, provided that: "In this subtitle \[subtitle B (§§1201–1209) of title I of Pub. L. 111–240, see Short Title of 2010 Amendment note set out under section 631 of this title\]—
 
 &emsp;"(1) the term 'Associate Administrator' means the Associate Administrator for International Trade appointed under section 22(a)(2) of the Small Business Act \[15 U.S.C. 649(a)(2)\], as amended by this subtitle;
 

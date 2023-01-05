@@ -8,7 +8,7 @@ The Division of Naval Reactors established pursuant to section 2035 of this titl
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 
@@ -28,5 +28,5 @@ Pub. L. 98–525, title XVI, §1634, Oct. 19, 1984, 98 Stat. 2649, which was for
 
 #### Transfer of Functions
 
-All national security functions and activities performed immediately before Oct. 5, 1999, by the Office of Naval Reactors transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, and the Deputy Administrator for Naval Reactors of the Administration to be assigned the responsibilities, authorities, and accountability for all functions of the Office of Naval Reactors under Executive Order No. 12344, set out as a note under section 2511 of Title 50, War and National Defense, see sections 2406 and 2481 of Title 50.
+All national security functions and activities performed immediately before Oct. 5, 1999, by the Office of Naval Reactors transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, and the Deputy Administrator for Naval Reactors of the Administration to be assigned the responsibilities, authorities, and accountability for all functions of the Office of Naval Reactors under Executive Order No. 12344,set out as a note under section 2511 of Title 50, War and National Defense, see sections 2406 and 2481 of Title 50.
 

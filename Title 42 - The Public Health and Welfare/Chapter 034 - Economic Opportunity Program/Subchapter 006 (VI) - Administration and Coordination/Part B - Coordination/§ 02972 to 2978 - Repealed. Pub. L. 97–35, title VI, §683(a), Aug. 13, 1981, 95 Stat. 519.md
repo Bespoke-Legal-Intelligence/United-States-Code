@@ -12,7 +12,7 @@ Section 2976, Pub. L. 88–452, title VI, §634, as added Pub. L. 90–222, titl
 
 Section 2977, Pub. L. 88–452, title VI, §635, as added Pub. L. 90–222, title I, §108(m)(3), Dec. 23, 1967, 81 Stat. 719; amended Pub. L. 95–568, §17(a)(35), Nov. 2, 1978, 92 Stat. 2443, related to establishment, etc., of information center.
 
-Section 2978, Pub. L. 88–452, title VI, §636, as added Pub. L. 90–222, title I, §108(m)(3), Dec. 23, 1967, 81 Stat.720, prohibited duplication of existing functions by new departments or agencies.
+Section 2978, Pub. L. 88–452, title VI, §636, as added Pub. L. 90–222, title I, §108(m)(3), Dec. 23, 1967, 81 Stat. 720, prohibited duplication of existing functions by new departments or agencies.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

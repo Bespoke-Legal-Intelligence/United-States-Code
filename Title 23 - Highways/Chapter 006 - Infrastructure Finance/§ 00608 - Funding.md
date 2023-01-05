@@ -18,7 +18,7 @@ Rural set-aside.—
 
 &emsp;&emsp;(A)
 
-In general.—Of the total amount of funds made available to carry out the TIFIA program for each fiscal year, not more than 10 percent shall be set aside for rural infrastructure projects or rural projects funds.
+In general.—Of the total amount of funds made available to carry out the TIFIAprogram for each fiscal year, not more than 10 percent shall be set aside for rural infrastructure projects or rural projects funds.
 
 &emsp;&emsp;(B)
 

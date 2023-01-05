@@ -14,7 +14,7 @@ Whenever the President, the Director of the Office of Management and Budget, the
 
 &emsp;(5) to the maximum extent practicable, the estimated fiscal, economic, and budgetary effect of the proposed deferral; and
 
-&emsp;(6) all facts, circumstances, and considerations relating to or bearing upon the proposed deferral and the decision to effect the proposed deferral, including an analysis of such facts, circumstances, and considerations in terms of their application to any legal authority, including specific elements of legal authority, invoked to justify such proposeddeferral, and to the maximum extent practicable, the estimated effect of the proposed deferral upon the objects, purposes, and programs for which the budget authority is provided.
+&emsp;(6) all facts, circumstances, and considerations relating to or bearing upon the proposed deferral and the decision to effect the proposed deferral, including an analysis of such facts, circumstances, and considerations in terms of their application to any legal authority, including specific elements of legal authority, invoked to justify such proposed deferral, and to the maximum extent practicable, the estimated effect of the proposed deferral upon the objects, purposes, and programs for which the budget authority is provided.
 
 > A special message may include one or more proposed deferrals of budget authority. A deferral may not be proposed for any period of time extending beyond the end of the fiscal year in which the special message proposing the deferral is transmitted to the House and the Senate.
 

@@ -42,7 +42,7 @@ The antitrust laws, referred to in subsec. (a), are defined in section 12 of thi
 
 #### Prior Provisions
 
-Section supersedes two former similar sections enacted by act July 2, 1890, ch. 647, §7, 26 Stat. 210, and act Aug. 27, 1894, ch. 349, §77, 28 Stat. 570, each of which were restricted in operation to the particular act cited. Section 7 of act July 2, 1890, was repealed by act July 7, 1955, ch. 283, §3, 69 Stat. 283, effective six months after July 7, 1955. Section 77 of act Aug. 27, 1894, was repealed by Pub. L. 107–273, div. C, title IV, §§14102(c)(1)(A), 14103, Nov. 2, 2002, 116 Stat. 1921, 1922, effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002.
+Section supersedes two former similar sections enacted by act July 2, 1890, ch. 647, §7, 26 Stat. 210, and act Aug. 27, 1894, ch. 349, §77, 28 Stat. 570, each of which were restricted in operation to the particular act cited. Section 7 of act July 2, 1890, was repealed by act July 7, 1955, ch. 283, §3, 69 Stat. 283, effective six monthsafter July 7, 1955. Section 77 of act Aug. 27, 1894, was repealed by Pub. L. 107–273, div. C, title IV, §§14102(c)(1)(A), 14103, Nov. 2, 2002, 116 Stat. 1921, 1922, effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002.
 
 #### Amendments
 
@@ -54,5 +54,5 @@ Section supersedes two former similar sections enacted by act July 2, 1890, ch. 
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–349, §4(b), Sept. 12, 1980, 94 Stat. 1157, provided that: "The amendments made by this section\[amending this section and sections 15a and 15c of this title\] shall apply only with respect to actions commenced after the date of the enactment of this Act \[Sept 12, 1980\]."
+Pub. L. 96–349, §4(b), Sept. 12, 1980, 94 Stat. 1157, provided that: "The amendments made by this section \[amending this section and sections 15a and 15c of this title\] shall apply only with respect to actions commenced after the date of the enactment of this Act \[Sept 12, 1980\]."
 

@@ -18,6 +18,10 @@ Section was formerly classified to section 151 of Title 5 prior to the general r
 
 Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided that: "Except as otherwise provided in this Act \[see Short Title of 1987 Amendment note below\], this Act shall take effect on the date of its enactment \[Dec. 22, 1987\]."
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–273, §1, Dec. 27, 2022, 136 Stat. 4182, provided that: "This Act \[amending section 2708 of this title\] may be cited as the 'War Crimes Rewards Expansion Act'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 117–81, div. E, title LVI, §5601, Dec. 27, 2021, 135 Stat. 2377, provided that: "This title \[enacting sections 2732a and 2732b of this title, amending section 6553 of this title, and enacting provisions set out as notes under sections 1475g and 2732a of this title\] may be cited as the 'Public Diplomacy Modernization Act of 2021'."
@@ -74,11 +78,11 @@ Pub. L. 103–236, §1, Apr. 30, 1994, 108 Stat. 382, provided that: "This Act \
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–138, §1, Oct. 28, 1991, 105 Stat. 647, provided that: "This Act \[enacting sections 269, 276c–4, 276l, 276m, 296a, 1475g, 1475h, 2075, 2652b, 2656g, 2656h, 2679b, 2680–1, 2686a, 2720, 2721, 2722, 2723, 2798, 4012a, 4351 to 4357, and 5601 to 5606 of this title and section 4613 of Title 50, War and National Defense, amending sections 277d–3, 290f, 294, 301, 1465ee, 1471, 1474, 1477c, 1928e, 2669, 2670, 2695, 2696, 2703, 2706, 2717, 2718, 2780, 2797b, 2797c, 2877, 2905, 3005, 3942, 3961, 3968, 4010, 4053, 4081, 4115, 4131, 4134, 4136, 4137, 4139, 4140, 4413, and 4852 of this title, sections 202 and 208 of Title 3, The President, sections 5315, 5523, 5551, 5922, 5923, and 5924 of Title 5, Government Organization and Employees, section 2051 of Title 19, Customs Duties, and section 4605 of Title 50, repealing section 4509 of this title and former sections 269 and 2075 of this title, enacting provisions set out as notes under this section, sections 287e, 290f, 1475g, 2452, 2778, 4001, 4115, 4351, 4354, 4356, and 5601 of this title, sections 202 and 208 of Title 3, sections 5315, 5551, and 5561 of Title5, and section 1182 of Title 8, Aliens and Nationality, amending provisions set out as notes under sections 287e, 2680, and 4021 of this title and section 5561 of Title 5, and repealing provisions set out as notes under this section and sections 287e, 1461, 2656, and 4010 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1992 and 1993'."
+Pub. L. 102–138, §1, Oct. 28, 1991, 105 Stat. 647, provided that: "This Act \[enacting sections 269, 276c–4, 276l, 276m, 296a, 1475g, 1475h, 2075, 2652b, 2656g, 2656h, 2679b, 2680–1, 2686a, 2720, 2721, 2722, 2723, 2798, 4012a, 4351 to 4357, and 5601 to 5606 of this title and section 4613 of Title 50, War and National Defense, amending sections 277d–3, 290f, 294, 301, 1465ee, 1471, 1474, 1477c, 1928e, 2669, 2670, 2695, 2696, 2703, 2706, 2717, 2718, 2780, 2797b, 2797c, 2877, 2905, 3005, 3942, 3961, 3968, 4010, 4053, 4081, 4115, 4131, 4134, 4136, 4137, 4139, 4140, 4413, and 4852 of this title, sections 202 and 208 of Title 3, The President, sections 5315, 5523, 5551, 5922, 5923, and 5924 of Title 5, Government Organization and Employees, section 2051 of Title 19, Customs Duties, and section 4605 of Title 50, repealing section 4509 of this title and former sections 269 and 2075 of this title, enacting provisions set out as notes under this section, sections 287e, 290f, 1475g, 2452, 2778, 4001, 4115, 4351, 4354, 4356, and 5601 of this title, sections 202 and 208 of Title 3, sections 5315, 5551, and 5561 of Title 5, and section 1182 of Title 8, Aliens and Nationality, amending provisions set out as notes under sections 287e, 2680, and 4021 of this title and section 5561 of Title 5, and repealing provisions set out as notes under this section and sections 287e, 1461, 2656, and 4010 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1992 and 1993'."
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–246, §1(a), Feb. 16, 1990, 104 Stat. 15, provided that: "This Act \[enacting sections 1464a, 1464b, 1465aa to 1465ff, 1475f, 2414a, 2461, 2665a, 2678, 2715 to 2719, 2877a, 4027, 4141, 4141a to 4141c, 4863, and 4864 of this title, amending sections 277a, 277b, 277d–12, 290f, 300, 1461, 1465c, 1469, 1474, 1475e, 2456, 2460, 2606, 2656f, 2669, 2684, 2696, 2698, 2703, 2708, 2709, 2871, 2877, 3905, 3968, 4002, 4010, 4056, 4057, 4069a to 4069c, 4081, 4303, 4304, 4403, 4801, 4802, and 4852 of this title, sections 8345 and 9101 of Title 5, Government Organization and Employees, and section 1101 and 1182 of Title 8, Aliens and Nationality, repealing section 4192 of this title, enacting provisions set out as notes under this section, sections 287e, 1461, 1463, 1465aa, 1465c, 1469, 2151, 2456, 2460, 2656, 2715, 3941, 3968, 4001, 4140, 4171, 4301, and 4852 of this title, sections 5921 and 5928 of Title 5, and section 1102 of Title 8, amending provisions set out as notes under this section and sections 287, 2151, and 4851 of this title and section 1182 of Title 8, and repealing provisions set out as notes under sections 2414a and 2656 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1990 and 1991'."
+Pub. L. 101–246, §1(a), Feb. 16, 1990, 104 Stat. 15, provided that: "This Act \[enacting sections 1464a, 1464b,1465aa to 1465ff, 1475f, 2414a, 2461, 2665a, 2678, 2715 to 2719, 2877a, 4027, 4141, 4141a to 4141c, 4863, and 4864 of this title, amending sections 277a, 277b, 277d–12, 290f, 300, 1461, 1465c, 1469, 1474, 1475e, 2456, 2460, 2606, 2656f, 2669, 2684, 2696, 2698, 2703, 2708, 2709, 2871, 2877, 3905, 3968, 4002, 4010, 4056, 4057, 4069a to 4069c, 4081, 4303, 4304, 4403, 4801, 4802, and 4852 of this title, sections 8345 and 9101 of Title 5, Government Organization and Employees, and section 1101 and 1182 of Title 8, Aliens and Nationality, repealing section 4192 of this title, enacting provisions set out as notes under this section, sections 287e, 1461, 1463, 1465aa, 1465c, 1469, 2151, 2456, 2460, 2656, 2715, 3941, 3968, 4001, 4140, 4171, 4301, and 4852 of this title, sections 5921 and 5928 of Title 5, and section 1102 of Title 8, amending provisions set out as notes under this section and sections 287, 2151, and 4851 of this title and section 1182 of Title 8, and repealing provisions set out as notes under sections 2414a and 2656 of this title\] may be cited as the 'Foreign Relations Authorization Act, Fiscal Years 1990 and 1991'."
 
 #### Short Title of 1987 Amendment
 
@@ -112,7 +116,7 @@ Pub. L. 92–352, §1, July 13, 1972, 86 Stat. 489, provided: "That this Act \[e
 
 Act Aug. 1, 1956, ch. 841 (first sentence), as added by Pub. L. 102–138, title I, §111(2), Oct. 28, 1991, 105 Stat. 654, provided: "That this Act \[enacting sections 2662, 2669 to 2672, 2673 to 2680a, 2684, 2687 to 2692, 2695 to 2723, 4301 to 4316, 4341 to 4343, and 4351 to 4357 of this title\] may be cited as the 'State Department Basic Authorities Act of 1956'."
 
-Act Aug. 1, 1956, ch. 841, title I, §48, formerly §33, as added Oct. 17, 1980, Pub. L. 96–465, title II, §2201(a), 94Stat. 2157, and renumbered §34 and redesignated title I, Aug. 24, 1982, Pub. L. 97–241, title I, §117, title II, §202(a), 96 Stat. 279, 282; renumbered §35 and §36, Nov. 22, 1983, Pub. L. 98–164, title I, §§123, 124, 97 Stat. 1025; renumbered §37, Oct. 19, 1984, Pub. L. 98–533, title I, §102, 98 Stat. 2708; renumbered §38 and §39, Aug. 16, 1985, Pub. L. 99–93, title I, §§125(a), 128, 99 Stat. 415, 419; renumbered §40 and §41, Aug. 27, 1986, Pub. L. 99–399, title V, §§504(1), 506(1), 100 Stat. 871; renumbered §42, Dec. 22, 1987, Pub. L. 100–204, title I, §126(a)(1), 101 Stat. 1341; renumbered §43, Nov. 18, 1988, Pub. L. 100–690, title IV, §4603(1), 102 Stat. 4287; renumbered §44, §45, §46, §47, and §48, Feb. 16, 1990, Pub. L. 101–246, title I, §§115(c)(1), 117(1), 118(1), 119(1), 150(1), 104 Stat. 23, 25, 26, 42, which provided that act Aug. 1, 1956, ch. 841, was to be cited as the "State Department Basic Authorities Act of 1956", was repealed by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
+Act Aug. 1, 1956, ch. 841, title I, §48, formerly §33, as added Oct. 17, 1980, Pub. L. 96–465, title II, §2201(a), 94 Stat. 2157, and renumbered §34 and redesignated title I, Aug. 24, 1982, Pub. L. 97–241, title I, §117, title II, §202(a), 96 Stat. 279, 282; renumbered §35 and §36, Nov. 22, 1983, Pub. L. 98–164, title I, §§123, 124, 97 Stat. 1025; renumbered §37, Oct. 19, 1984, Pub. L. 98–533, title I, §102, 98 Stat. 2708; renumbered §38 and §39, Aug. 16, 1985, Pub. L. 99–93, title I, §§125(a), 128, 99 Stat. 415, 419; renumbered §40 and §41, Aug. 27, 1986, Pub. L. 99–399, title V, §§504(1), 506(1), 100 Stat. 871; renumbered §42, Dec. 22, 1987, Pub. L. 100–204, title I, §126(a)(1), 101 Stat. 1341; renumbered §43, Nov. 18, 1988, Pub. L. 100–690, title IV, §4603(1), 102 Stat. 4287; renumbered §44, §45, §46, §47,and §48, Feb. 16, 1990, Pub. L. 101–246, title I, §§115(c)(1), 117(1), 118(1), 119(1), 150(1), 104 Stat. 23, 25, 26, 42, which provided that act Aug. 1, 1956, ch. 841, was to be cited as the "State Department Basic Authorities Act of 1956", was repealed by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### References to Diplomatic and Consular Programs Account
 
@@ -147,6 +151,28 @@ Pub. L. 96–241, §2, May 3, 1980, 94 Stat. 343, provided that:
 "(d) This section applies only with respect to the Secretary of State who is first appointed to that office after the enactment of this Act \[May 3, 1980\]."
 
 #### Definitions
+
+Pub. L. 117–263, div. I, §9002, Dec. 23, 2022, 136 Stat. 3857, provided that: "In this division \[see Tables for classification\]:
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator' means the Administrator of USAID.
+
+&emsp;"(2)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+&emsp;"(3)
+
+Department.—Unless otherwise specified, the term 'Department' means the Department of State.
+
+&emsp;"(4)
+
+Secretary.—Unless otherwise specified, the term 'Secretary' means the Secretary of State.
+
+&emsp;"(5)
+
+USAID.—The term 'USAID' means the United States Agency for International Development."
 
 Pub. L. 114–323, §2, Dec. 16, 2016, 130 Stat. 1907, provided that: "In this Act \[see Tables for classification\]:
 

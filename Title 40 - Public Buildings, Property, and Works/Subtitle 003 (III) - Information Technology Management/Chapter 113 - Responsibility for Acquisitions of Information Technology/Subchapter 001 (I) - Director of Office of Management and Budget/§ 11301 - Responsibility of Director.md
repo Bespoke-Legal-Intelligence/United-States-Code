@@ -22,6 +22,326 @@ Pub. L. 104–106, div. E, title LI, §5111, Feb. 10, 1996, 110 Stat. 680.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Advancing American Artificial Intelligence
+
+Pub. L. 117–263, div. G, title LXXII, subtitle B, Dec. 23, 2022, 136 Stat. 3668, provided that:
+
+#### "SEC. 7221. SHORT TITLE.
+
+"This subtitle may be cited as the 'Advancing American AI Act'.
+
+#### "SEC. 7222. PURPOSES.
+
+"The purposes of this subtitle are to—
+
+&emsp;"(1) encourage agency artificial intelligence-related programs and initiatives that enhance the competitiveness of the United States and foster an approach to artificial intelligence that builds on the strengths of the United States in innovation and entrepreneurialism;
+
+&emsp;"(2) enhance the ability of the Federal Government to translate research advances into artificial intelligence applications to modernize systems and assist agency leaders in fulfilling their missions;
+
+&emsp;"(3) promote adoption of modernized business practices and advanced technologies across the Federal Government that align with the values of the United States, including the protection of privacy, civil rights, and civil liberties; and
+
+&emsp;"(4) test and harness applied artificial intelligence to enhance mission effectiveness, agency program integrity, and business practice efficiency.
+
+#### "SEC. 7223. DEFINITIONS.
+
+"In this subtitle:
+
+&emsp;"(1)
+
+Agency.—The term 'agency' has the meaning given the term in section 3502 of title 44, United States Code.
+
+&emsp;"(2)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Oversight and Reform of the House of Representatives; and
+
+&emsp;&emsp;"(C) the Committee on Homeland Security of the House of Representatives.
+
+&emsp;"(3)
+
+Artificial intelligence.—The term 'artificial intelligence' has the meaning given the term in section 238(g) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (10 U.S.C. 2358 note).
+
+&emsp;"(4)
+
+Artificial intelligence system.—The term 'artificial intelligence system'—
+
+&emsp;&emsp;"(A) means any data system, software, application, tool, or utility that operates in whole or in part using dynamic or static machine learning algorithms or other forms of artificial intelligence, whether—
+
+&emsp;&emsp;&emsp;"(i) the data system, software, application, tool, or utility is established primarily for the purpose of researching, developing, or implementing artificial intelligence technology; or
+
+&emsp;&emsp;&emsp;"(ii) artificial intelligence capability is integrated into another system or agency business process, operational activity, or technology system; and
+
+&emsp;&emsp;"(B) does not include any common commercial product within which artificial intelligence is embedded, such as a word processor or map navigation system.
+
+&emsp;"(5)
+
+Department.—The term 'Department' means the Department of Homeland Security.
+
+&emsp;"(6)
+
+Director.—The term 'Director' means the Director of the Office of Management and Budget.
+
+#### "SEC. 7224. PRINCIPLES AND POLICIES FOR USE OF ARTIFICIAL INTELLIGENCE IN GOVERNMENT.
+
+"(a)
+
+Guidance.—The Director shall, when developing the guidance required under section 104(a) of the AI in Government Act of 2020 (title I of division U of Public Law 116–260) \[see note below\], consider—
+
+&emsp;"(1) the considerations and recommended practices identified by the National Security Commission on Artificial Intelligence in the report entitled 'Key Considerations for the Responsible Development and Fielding of AI', as updated in April 2021;
+
+&emsp;"(2) the principles articulated in Executive Order 13960 (85 Fed. Reg. 78939 \[40 U.S.C. 11301 note\]; relating to promoting the use of trustworthy artificial intelligence in Government); and
+
+&emsp;"(3) the input of—
+
+&emsp;&emsp;"(A) the Administrator of General Services;
+
+&emsp;&emsp;"(B) relevant interagency councils, such as the Federal Privacy Council, the Chief Financial Officers Council, the Chief Information Officers Council, and the Chief Data Officers Council;
+
+&emsp;&emsp;"(C) other governmental and nongovernmental privacy, civil rights, and civil liberties experts;
+
+&emsp;&emsp;"(D) academia;
+
+&emsp;&emsp;"(E) industry technology and data science experts; and
+
+&emsp;&emsp;"(F) any other individual or entity the Director determines to be appropriate.
+
+"(b)
+
+Department Policies and Processes for Procurement and Use of Artificial Intelligence-enabled Systems.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\]—
+
+&emsp;"(1) the Secretary of Homeland Security, with the participation of the Chief Procurement Officer, the Chief Information Officer, the Chief Privacy Officer, and the Officer for Civil Rights and Civil Liberties of the Department and any other person determined to be relevant by the Secretary of Homeland Security, shall issue policies and procedures for the Department related to—
+
+&emsp;&emsp;"(A) the acquisition and use of artificial intelligence; and
+
+&emsp;&emsp;"(B) considerations for the risks and impacts related to artificial intelligence-enabled systems, including associated data of machine learning systems, to ensure that full consideration is given to—
+
+&emsp;&emsp;&emsp;"(i) the privacy, civil rights, and civil liberties impacts of artificial intelligence-enabled systems; and
+
+&emsp;&emsp;&emsp;"(ii) security against misuse, degradation, or rending inoperable of artificial intelligence-enabled systems; and
+
+&emsp;"(2) the Chief Privacy Officer and the Officer for Civil Rights and Civil Liberties of the Department shall report to Congress on any additional staffing or funding resources that may be required to carry out the requirements of this subsection.
+
+"(c)
+
+Inspector General.—Not later than 180 days after the date of enactment of this Act, the Inspector General of the Department shall identify any training and investments needed to enable employees of the Office of the Inspector General to continually advance their understanding of—
+
+&emsp;"(1) artificial intelligence systems;
+
+&emsp;"(2) best practices for governance, oversight, and audits of the use of artificial intelligence systems; and
+
+&emsp;"(3) how the Office of the Inspector General is using artificial intelligence to enhance audit and investigative capabilities, including actions to—
+
+&emsp;&emsp;"(A) ensure the integrity of audit and investigative results; and
+
+&emsp;&emsp;"(B) guard against bias in the selection and conduct of audits and investigations.
+
+"(d)
+
+Artificial Intelligence Hygiene and Protection of Government Information, Privacy, Civil Rights, and Civil Liberties.—
+
+&emsp;"(1)
+
+Establishment.—Not later than 1 year after the date of enactment of this Act, the Director, in consultation with a working group consisting ofmembers selected by the Director from appropriate interagency councils, shall develop an initial means by which to—
+
+&emsp;&emsp;"(A) ensure that contracts for the acquisition of an artificial intelligence system or service—
+
+&emsp;&emsp;&emsp;"(i) align with the guidance issued to the head of each agency under section 104(a) of the AI in Government Act of 2020 (title I of division U of Public Law 116–260);
+
+&emsp;&emsp;&emsp;"(ii) address protection of privacy, civil rights, and civil liberties;
+
+&emsp;&emsp;&emsp;"(iii) address the ownership and security of data and other information created, used, processed, stored, maintained, disseminated, disclosed, or disposed of by a contractor or subcontractor on behalf of the Federal Government; and
+
+&emsp;&emsp;&emsp;"(iv) include considerations for securing the training data, algorithms, and other components of any artificial intelligence system against misuse, unauthorized alteration, degradation, or rendering inoperable; and
+
+&emsp;&emsp;"(B) address any other issue or concern determined to be relevant by the Director to ensure appropriate use and protection of privacy and Government data and other information.
+
+&emsp;"(2)
+
+Consultation.—In developing the considerations under paragraph (1)(A)(iv), the Director shall consult with the Secretary of Homeland Security, the Secretary of Energy, the Director of the National Institute of Standards and Technology, and the Director of National Intelligence.
+
+&emsp;"(3)
+
+Review.—The Director—
+
+&emsp;&emsp;"(A) should continuously update the means developed under paragraph (1); and
+
+&emsp;&emsp;"(B) not later than 2 years after the date of enactment of this Act and not less frequently than every 2 years thereafter, shall update the means developed under paragraph (1).
+
+&emsp;"(4)
+
+Briefing.—The Director shall brief the appropriate congressional committees—
+
+&emsp;&emsp;"(A) not later than 90 days after the date of enactment of this Act and thereafter on a quarterly basis until the Director first implements the means developed under paragraph (1); and
+
+&emsp;&emsp;"(B) annually thereafter on the implementation of this subsection.
+
+&emsp;"(5)
+
+Sunset.—This subsection shall cease to be effective on the date that is 5 years after the date of enactment of this Act.
+
+#### "SEC. 7225. AGENCY INVENTORIES AND ARTIFICIAL INTELLIGENCE USE CASES.
+
+"(a)
+
+Inventory.—Not later than 60 days after the date of enactment of this Act \[Dec. 23, 2022\], and continuously thereafter for a period of 5 years, the Director, in consultation with the Chief Information Officers Council, the Chief Data Officers Council, and other interagency bodies as determined to be appropriate by the Director, shall require the head of each agency to—
+
+&emsp;"(1) prepare and maintain an inventory of the artificial intelligence use cases of the agency, including current and planned uses;
+
+&emsp;"(2) share agency inventories with other agencies, to the extent practicable and consistent with applicable law and policy, including those concerning protection of privacy and of sensitive law enforcement, national security, and other protected information; and
+
+&emsp;"(3) make agency inventories available to the public, in a manner determined by the Director, and to the extent practicable and in accordance with applicable law and policy, including those concerning the protection of privacy and of sensitive law enforcement, national security, and other protected information.
+
+"(b)
+
+Central Inventory.—The Director is encouraged to designate a host entity and ensure the creation and maintenance of an online public directory to—
+
+&emsp;"(1) make agency artificial intelligence use case information available to the public and those wishing to do business with the Federal Government; and
+
+&emsp;"(2) identify common use cases across agencies.
+
+"(c)
+
+Sharing.—The sharing of agency inventories described in subsection (a)(2) may be coordinated through the Chief Information Officers Council, the Chief Data Officers Council, the Chief Financial Officers Council, the Chief Acquisition Officers Council, or other interagency bodies to improve interagency coordination and information sharing for common use cases.
+
+"(d)
+
+Department of Defense.—Nothing in this section shall apply to the Department of Defense.
+
+#### "SEC. 7226. RAPID PILOT, DEPLOYMENT AND SCALE OF APPLIED ARTIFICIAL INTELLIGENCE CAPABILITIES TO DEMONSTRATE MODERNIZATION ACTIVITIES RELATED TO USE CASES.
+
+"(a)
+
+Identification of Use Cases.—Not later than 270 days after the date of enactment of this Act \[Dec. 23, 2022\], the Director, in consultation with the Chief Information Officers Council, the Chief Data Officers Council, the Chief Financial Officers Council, and other interagency bodies as determined to be appropriate by the Director, shall identify 4 new use cases for the application of artificial intelligence-enabled systems to support interagency or intra-agency modernization initiatives that require linking multiple siloed internal and external data sources, consistent with applicable laws and policies, including those relating to the protection of privacy and of sensitive law enforcement, national security, and other protected information.
+
+"(b)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+Purposes.—The purposes of the pilot program under this subsection include—
+
+&emsp;&emsp;"(A) to enable agencies to operate across organizational boundaries, coordinating between existing established programs and silos to improve delivery of the agency mission;
+
+&emsp;&emsp;"(B) to demonstrate the circumstances under which artificial intelligence can be used to modernize or assist in modernizing legacy agency systems; and
+
+&emsp;&emsp;"(C) to leverage commercially available artificial intelligence technologies that—
+
+&emsp;&emsp;&emsp;"(i) operate in secure cloud environments that can deploy rapidly without the need to replace existing systems; and
+
+&emsp;&emsp;&emsp;"(ii) do not require extensive staff or training to build.
+
+&emsp;"(2)
+
+Deployment and pilot.—Not later than 1 year after the date of enactment of this Act, the Director, in coordination with the heads of relevant agencies and Federal entities, including the Administrator of General Services, the Bureau of Fiscal Service of the Department of the Treasury, the Council of the Inspectors General on Integrity and Efficiency, and the Pandemic Response Accountability Committee, and other officials as the Director determines to be appropriate, shall ensure the initiation of the piloting of the 4 new artificial intelligence use case applications identified under subsection (a), leveraging commercially available technologies and systems to demonstrate scalable artificial intelligence-enabled capabilities to support the use cases identified under subsection (a).
+
+&emsp;"(3)
+
+Risk evaluation and mitigation plan.—In carrying out paragraph (2), the Director shall require the heads of agencies to—
+
+&emsp;&emsp;"(A) evaluate risks in utilizing artificial intelligence systems; and
+
+&emsp;&emsp;"(B) develop a risk mitigation plan to address those risks, including consideration of—
+
+&emsp;&emsp;&emsp;"(i) the artificial intelligence system not performing as expected or as designed;
+
+&emsp;&emsp;&emsp;"(ii) the quality and relevancy of the data resources used in the training of the algorithms used in an artificial intelligence system;
+
+&emsp;&emsp;&emsp;"(iii) the processes for training and testing, evaluating, validating, and modifying an artificial intelligence system; and
+
+&emsp;&emsp;&emsp;"(iv) the vulnerability of a utilized artificial intelligence system to unauthorized manipulationor misuse, including the use of data resources that substantially differ from the training data.
+
+&emsp;"(4)
+
+Prioritization.—In carrying out paragraph (2), the Director shall prioritize modernization projects that—
+
+&emsp;&emsp;"(A) would benefit from commercially available privacy-preserving techniques, such as use of differential privacy, federated learning, and secure multiparty computing; and
+
+&emsp;&emsp;"(B) otherwise take into account considerations of civil rights and civil liberties.
+
+&emsp;"(5)
+
+Privacy protections.—In carrying out paragraph (2), the Director shall require the heads of agencies to use privacy-preserving techniques when feasible, such as differential privacy, federated learning, and secure multiparty computing, to mitigate any risks to individual privacy or national security created by a project or data linkage.
+
+&emsp;"(6)
+
+Use case modernization application areas.—Use case modernization application areas described in paragraph (2) shall include not less than 1 from each of the following categories:
+
+&emsp;&emsp;"(A) Applied artificial intelligence to drive agency productivity efficiencies in predictive supply chain and logistics, such as—
+
+&emsp;&emsp;&emsp;"(i) predictive food demand and optimized supply;
+
+&emsp;&emsp;&emsp;"(ii) predictive medical supplies and equipment demand and optimized supply; or
+
+&emsp;&emsp;&emsp;"(iii) predictive logistics to accelerate disaster preparedness, response, and recovery.
+
+&emsp;&emsp;"(B) Applied artificial intelligence to accelerate agency investment return and address mission-oriented challenges, such as—
+
+&emsp;&emsp;&emsp;"(i) applied artificial intelligence portfolio management for agencies;
+
+&emsp;&emsp;&emsp;"(ii) workforce development and upskilling;
+
+&emsp;&emsp;&emsp;"(iii) redundant and laborious analyses;
+
+&emsp;&emsp;&emsp;"(iv) determining compliance with Government requirements, such as with Federal financial management and grants management, including implementation of chapter 64 of subtitle V of title 31, United States Code;
+
+&emsp;&emsp;&emsp;"(v) addressing fraud, waste, and abuse in agency programs and mitigating improper payments; or
+
+&emsp;&emsp;&emsp;"(vi) outcomes measurement to measure economic and social benefits.
+
+&emsp;"(7)
+
+Requirements.—Not later than 3 years after the date of enactment of this Act, the Director, in coordination with the heads of relevant agencies and other officials as the Director determines to be appropriate, shall establish an artificial intelligence capability within each of the 4 use case pilots under this subsection that—
+
+&emsp;&emsp;"(A) solves data access and usability issues with automated technology and eliminates or minimizes the need for manual data cleansing and harmonization efforts;
+
+&emsp;&emsp;"(B) continuously and automatically ingests data and updates domain models in near real-time to help identify new patterns and predict trends, to the extent possible, to help agency personnel to make better decisions and take faster actions;
+
+&emsp;&emsp;"(C) organizes data for meaningful data visualization and analysis so the Government has predictive transparency for situational awareness to improve use case outcomes;
+
+&emsp;&emsp;"(D) is rapidly configurable to support multiple applications and automatically adapts to dynamic conditions and evolving use case requirements, to the extent possible;
+
+&emsp;&emsp;"(E) enables knowledge transfer and collaboration across agencies; and
+
+&emsp;&emsp;"(F) preserves intellectual property rights to the data and output for benefit of the Federal Government and agencies and protects sensitive personally identifiable information.
+
+"(c)
+
+Briefing.—Not earlier than 270 days but not later than 1 year after the date of enactment of this Act, and annually thereafter for 4 years, the Director shall brief the appropriate congressional committees on the activities carried out under this section and results of those activities.
+
+"(d)
+
+Sunset.—The section shall cease to be effective on the date that is 5 years after the date of enactment of this Act.
+
+#### "SEC. 7227. ENABLING ENTREPRENEURS AND AGENCY MISSIONS.
+
+"(a)
+
+Innovative Commercial Items.—\[Amended section 880 of the National Defense Authorization Act for Fiscal Year 2017 (41 U.S.C. 3301 note).\]
+
+"(b)
+
+DHS Other Transaction Authority.—\[Amended section 391 of Title 6, Domestic Security.\]
+
+"(c)
+
+Commercial Off the Shelf Supply Chain Risk Management Tools.—
+
+&emsp;"(1)
+
+In general.—The General Services Administration is encouraged to pilot commercial off the shelf supply chain risk management tools to improve the ability of the Federal Government to characterize, monitor, predict, and respond to specific supply chain threats and vulnerabilities that could inhibit future Federal acquisition operations.
+
+&emsp;"(2)
+
+Consultation.—In carrying out this subsection, the General Services Administration shall consult with the Federal Acquisition Security Council established under section 1322 of title 41, United States Code.
+
+#### "SEC. 7228. INTELLIGENCE COMMUNITY EXCEPTION.
+
+"Nothing in this subtitle shall apply to any element of the intelligence community, as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)."
+
 #### AI in Government
 
 Pub. L. 116–260, div. U, title I, Dec. 27, 2020, 134 Stat. 2286, provided that:
@@ -46,7 +366,7 @@ Pub. L. 116–260, div. U, title I, Dec. 27, 2020, 134 Stat. 2286, provided that
 
 &emsp;"(6) the term 'institution of higher education' has the meaning given the term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001); and
 
-&emsp;"(7) the term 'nonprofit organization' means an organization described in section 501(c)(3)of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from taxation under section 501(a) of that Code \[26 U.S.C. 501(a)\].
+&emsp;"(7) the term 'nonprofit organization' means an organization described in section 501(c)(3)of \[sic\] the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)(3)\] and exempt from taxation under section 501(a) of that Code \[26 U.S.C. 501(a)\].
 
 #### "SEC. 103. AI CENTER OF EXCELLENCE.
 
@@ -102,7 +422,7 @@ Sunset.—This section shall cease to be effective on the date that is 5 years a
 
 "(a)
 
-Guidance.—Not later than 270 days after the date of enactment of this Act \[Dec. 27, 2020\], the Director, incoordination with the Director of the Office of Science and Technology Policy in consultation with the Administrator and any other relevant agencies and key stakeholders as determined by the Director, shall issue a memorandum to the head of each agency that shall—
+Guidance.—Not later than 270 days after the date of enactment of this Act \[Dec. 27, 2020\], the Director, in coordination with the Director of the Office of Science and Technology Policy in consultation with the Administrator and any other relevant agencies and key stakeholders as determined by the Director, shall issue a memorandum to the head of each agency that shall—
 
 &emsp;"(1) inform the development of policies regarding Federal acquisition and use by agencies regarding technologies that are empowered or enabled by artificial intelligence, including an identification of the responsibilities of agency officials managing the use of such technology;
 
@@ -302,7 +622,7 @@ Use of funds.—An IT working capital fund established under paragraph (1) may o
 
 &emsp;"(4)
 
-Existing funds.—An IT working capital fund may not be used to supplant funds provided for the operation and maintenance of any system within an appropriation for the covered agency at the time of establishment of the IT working capital fund.
+Existing funds.—An IT working capital fund may not be used to supplant funds provided for theoperation and maintenance of any system within an appropriation for the covered agency at the time of establishment of the IT working capital fund.
 
 &emsp;"(5)
 
@@ -428,7 +748,7 @@ Review and approval.—Before making any changes to the established amounts and 
 
 &emsp;&emsp;"(C)
 
-Failure to make timely reimbursement.—The Administrator may obtain reimbursement from an agency under this paragraph by the issuance of transfer and counterwarrants, or other lawful transfer documents, supported by itemized bills, if payment is not made by the agency during the 90-day period beginning after the expiration of a repayment period described in a written agreement described in paragraph (6).
+Failure to make timely reimbursement.—The Administrator may obtain reimbursement from an agency under this paragraph by the issuance of transfer and counterwarrants, or other lawful transfer documents, supported by itemized bills, ifpayment is not made by the agency during the 90-day period beginning after the expiration of a repayment period described in a written agreement described in paragraph (6).
 
 &emsp;"(6)
 
@@ -468,7 +788,7 @@ Public availability.—The list required under clause (i) shall be published on 
 
 Comptroller general reports.—Not later than 2 years after the date of enactment of this Act, and every 2 years thereafter, the Comptroller General of the United States shall submit to Congress and make publically available a report assessing—
 
-&emsp;&emsp;&emsp;"(i) the costs associated with establishing the Fund and maintaining the oversight structure associated with the Fund compared with the costsavings associated with the projects funded both annually and over the life of the acquired products and services by the Fund;
+&emsp;&emsp;&emsp;"(i) the costs associated with establishing the Fund and maintaining the oversight structure associated with the Fund compared with the cost savings associated with the projects funded both annually and over the life of the acquired products and services by the Fund;
 
 &emsp;&emsp;&emsp;"(ii) the reliability of the cost savings estimated by agencies associated with projects funded by the Fund;
 
@@ -662,7 +982,7 @@ Sec. 7. <i>AI Implementation Expertise</i>. (a) Within 90 days of the date of th
 
 Sec. 8. <i>Responsible Agencies and Officials</i>. (a) For purposes of this order, the term "agency" refers to all agencies described in section 3502, subsection (1), of title 44, United States Code, except for the agencies described in section 3502, subsection (5), of title 44.
 
-(b) This order applies to agencies that have use cases for AI that fall within the scope defined in section 9 of this order, and excludes the Department of Defense and those agencies and agency components with functions that lie wholly within the Intelligence Community. The term "Intelligence Community" has the meaning given the term in section 3003 of title 50, United States Code.
+(b) This order applies to agencies that have use cases for AI that fall within the scope defined in section 9 of this order, and excludes the Department of Defense andthose agencies and agency components with functions that lie wholly within the Intelligence Community. The term "Intelligence Community" has the meaning given the term in section 3003 of title 50, United States Code.
 
 (c) Within 30 days of the date of this order, each agency shall specify the responsible official(s) at that agency who will coordinate implementation of the Principles set forth in section 3 of this order with the Agency Data Governance Body and other relevant officials and will collaborate with the interagency coordination bodies identified pursuant to section 6 of this order.
 

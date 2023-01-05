@@ -22,7 +22,7 @@ Contents.—The report of a Secretary of a military department for an armed forc
 
 &emsp;(5) the number of offenses in which charges were preferred, disaggregated by statistical category as related to the principal;
 
-&emsp;(6) the number of offenses in which charges were referred to court-martial, disaggregatedby statistical category as related to the principal and type of court-martial;
+&emsp;(6) the number of offenses in which charges were referred to court-martial, disaggregated by statistical category as related to the principal and type of court-martial;
 
 &emsp;(7) the number of offenses which resulted in conviction at court-martial, disaggregated by statistical category as related to the principal and type of court-martial; and
 

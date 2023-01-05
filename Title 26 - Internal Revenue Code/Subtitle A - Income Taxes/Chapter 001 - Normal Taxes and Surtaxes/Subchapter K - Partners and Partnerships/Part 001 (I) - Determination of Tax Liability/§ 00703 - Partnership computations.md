@@ -46,7 +46,7 @@ Any election affecting the computation of taxable income derived from a partners
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–589 inserted reference to section 108(b)(5) and (d)(4).
 
-<b>1977</b>—Subsec. (a)(2). Pub. L. 95–30 struck out subpar. (A) which made reference to the standard deductionprovided in section 141, and redesignated subpars. (B) to (G) as (A) to (F), respectively.
+<b>1977</b>—Subsec. (a)(2). Pub. L. 95–30 struck out subpar. (A) which made reference to the standard deduction provided in section 141, and redesignated subpars. (B) to (G) as (A) to (F), respectively.
 
 <b>1976</b>—Subsec. (a)(2)(G). Pub. L. 94–455, §2115(c)(2), substituted "wells" for "production subject to the provisions of section 613A(c)".
 

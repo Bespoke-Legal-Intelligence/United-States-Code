@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish for each of the 1971 through 1977 crops of upland cotton a national base acreage allotment. Such national base acreage allotment shall be announced not later than November 15 of the calendar year preceding the year for which the national base acreage allotment is to be effective. The national base acreage allotment for any crop of cotton shall be the number of acres which the Secretary determines on the basis of the expected national yield will produce an amount of cotton equal to the estimated domestic consumption of cotton (standard bales of four hundred and eighty pounds net weight) for the marketing year beginning in the year in which the crop is to be produced, plus not to exceed 25 per centum thereof if the Secretary, taking into consideration other actions he may take under the Agricultural Act of 1970, determines that such additional amount is necessary to provide for a production which will equal the national cotton production goal, except that such national base acreage allotment shall be eleven million five hundred thousand acres for the 1971 crop and in the case of the 1972 through 1977 crops shall be in such amount as the Secretary determines necessary to maintain adequate supplies. The national base acreage allotment for the 1974 through 1977 crops shall not be less than eleven million acres.
+The Secretary shall establish for each of the 1971 through 1977 crops of upland cotton a national base acreage allotment. Such national base acreage allotment shall be announced not later than November 15 of the calendar year preceding the year for which the national base acreage allotment is to be effective. The national base acreage allotment for any crop of cotton shall be the number of acres which the Secretary determines on the basis of the expected national yield will produce an amount of cotton equal to the estimated domestic consumption of cotton (standard bales of four hundred and eighty pounds net weight) for the marketing year beginning in the year in which the crop is to be produced, plus not to exceed 25 per centum thereof if the Secretary, taking into consideration other actions he may take under the Agricultural Act of 1970, determines that such additional amount is necessary to provide for a production which will equal the national cotton production goal, except that such national base acreage allotment shall be eleven million five hundred thousand acres for the 1971 crop and in the case of the 1972 through 1977 crops shall be in such amount as the Secretarydetermines necessary to maintain adequate supplies. The national base acreage allotment for the 1974 through 1977 crops shall not be less than eleven million acres.
 
 #### (b) Apportionment to States
 
@@ -42,7 +42,7 @@ Notwithstanding any other provision of this chapter, if the Secretary determines
 
 #### References in Text
 
-The Agricultural Act of 1970, referred to in subsec. (a), is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, as amended. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1281 of this title and Tables.
+The Agricultural Act of 1970, referred to in subsec. (a), is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1281 of this title and Tables.
 
 #### Prior Provisions
 

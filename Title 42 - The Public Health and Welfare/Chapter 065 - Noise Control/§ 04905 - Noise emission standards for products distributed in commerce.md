@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(i) twenty-four months after October 27, 1972, in the case of a product subject to proposed regulations published under paragraph (2)(A), or
 
-&emsp;&emsp;(ii) in the case of any other product, twenty-four months after the publication of thereport under section 4904(b)(1) of this title identifying it (or a class of products of which it is a part) as a major source of noise.
+&emsp;&emsp;(ii) in the case of any other product, twenty-four months after the publication of the report under section 4904(b)(1) of this title identifying it (or a class of products of which it is a part) as a major source of noise.
 
 #### (b) Authority to publish regulations not otherwise required
 
@@ -64,7 +64,7 @@ The Administrator may publish proposed regulations, meeting the requirements of 
 
 #### (f) Publication of notice of receipt of revision petitions and proposed revised regulations
 
-At any time after the promulgation of regulations respecting a product under this section, a State or political subdivision thereof may petition the Administrator to revise such standard on the grounds that a more stringent standard under subsection (c) of this section is necessary to protect the public health and welfare. The Administration shall publish notice of receipt of such petition in the Federal Register and shall within ninety days of receipt of such petition respond by (1) publication of proposed revised regulations in accordance with subsection (c)(3) ofthis section, or (2) publication in the Federal Register of a decision not to publish such proposed revised regulations at that time, together with a detailed explanation for such decision.
+At any time after the promulgation of regulations respecting a product under this section, a State or political subdivision thereof may petition the Administrator to revise such standard on the grounds that a more stringent standard under subsection (c) of this section is necessary to protect the public health and welfare. The Administration shall publish notice of receipt of such petition in the Federal Register and shall within ninety days of receipt of such petition respond by (1) publication of proposed revised regulations in accordance with subsection (c)(3) of this section, or (2) publication in the Federal Register of a decision not to publish such proposed revised regulations at that time, together with a detailed explanation for such decision.
 
 (Pub. L. 92–574, §6, Oct. 27, 1972, 86 Stat. 1237; Pub. L. 95–609, §5, Nov. 8, 1978, 92 Stat. 3081.)
 

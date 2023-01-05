@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Federal Director and the Commercial Director shall establish guidelines to implement ademonstration project to contribute to the research goals of the Office of Commercial High-Performance Green Buildings and the Office of Federal High-Performance Green Buildings.
+The Federal Director and the Commercial Director shall establish guidelines to implement a demonstration project to contribute to the research goals of the Office of Commercial High-Performance Green Buildings and the Office of Federal High-Performance Green Buildings.
 
 #### (b) Projects
 

@@ -14,7 +14,7 @@
 
 (2) When furnishing routine port services under this section to naval vessels of a foreign country, the Secretary may furnish such services without reimbursement if such services are provided under an agreement that provides for the reciprocal furnishing by such country of routine port services to naval vessels of the United States without reimbursement. When furnishing routine airport services under this section to military aircraft of a foreign country, the Secretary may furnish such services without reimbursement if such services are provided under an agreement that provides for the reciprocal furnishing by such country of routine airport services to military aircraft of the United States without reimbursement.
 
-(3) If routine port or airport services are furnished under this section by a working-capital fund activity of the Navy established under section 2208 of this title and such activity is not reimbursed directly for the costs incurred by the activity in furnishing those services by reason of paragraph (2), the working-capital fund activity shall be reimbursed for such costs out of operating funds currently available to the Navy.
+(3) If routine port or airport services are furnished under this section by a working-capitalfund activity of the Navy established under section 2208 of this title and such activity is not reimbursed directly for the costs incurred by the activity in furnishing those services by reason of paragraph (2), the working-capital fund activity shall be reimbursed for such costs out of operating funds currently available to the Navy.
 
 (c) Payments for supplies and services furnished under this section may be credited to current appropriations so as to be available for the same purpose as the appropriation initially charged.
 
@@ -52,7 +52,7 @@ Subsec. (a)(3). Pub. L. 98–525, §1405(49)(B), (D), substituted "Miscellaneous
 
 <b>1983</b>—Subsec. (b). Pub. L. 98–94 designated existing provisions as par. (1) and added par. (2).
 
-<b>1959</b>—Pub. L. 86–55 authorized supplies and services to be furnished by any United States naval vessel or activity, and the furnishing of supplies and services to aircraft, eliminated provisions which limited the furnishing of supplies on a reimbursable basis to ships of foreign countries that had entered into a prior reciprocal agreement, and which permitted services, including overhauling, repairs, alterations and installation of equipment, to be furnished only if funds to cover the estimated cost thereof were advanced, and permittedthe furnishing of routine port and airport services at no cost where such services are without direct cost to the Navy.
+<b>1959</b>—Pub. L. 86–55 authorized supplies and services to be furnished by any United States naval vessel or activity, and the furnishing of supplies and services to aircraft, eliminated provisions which limited the furnishing of supplies on a reimbursable basis to ships of foreign countries that had entered into a prior reciprocal agreement, and which permitted services, including overhauling, repairs, alterations and installation of equipment, to be furnished only if funds to cover the estimated cost thereof were advanced, and permitted the furnishing of routine port and airport services at no cost where such services are without direct cost to the Navy.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

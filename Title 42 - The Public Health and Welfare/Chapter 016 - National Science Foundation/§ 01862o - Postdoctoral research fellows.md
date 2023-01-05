@@ -2,19 +2,23 @@
 
 #### (a) Mentoring
 
-The Director shall require that all grant applications that include funding to support postdoctoral researchers include a description of the mentoring activities that will be provided for such individuals, and shall ensure that this part of the application is evaluated under the Foundation's broader impacts merit review criterion. Mentoring activities may include career counseling, training in preparing grant applications, guidance on ways to improve teaching skills, and training in research ethics.
+The Director shall require that all grant applications that include funding to support postdoctoral and graduate student researchers include a description of the mentoring activities that will be provided for such individuals, andshall ensure that this part of the application is evaluated under the Foundation's broader impacts merit review criterion. The requirement may be satisfied by providing such individuals with access to mentors, including individuals not listed on the award. Mentoring activities may include career counseling, training in preparing grant applications, guidance on ways to improve teaching skills, and training in research ethics.
 
 #### (b) Reports
 
 The Director shall require that annual reports and the final report for research grants that include funding to support postdoctoral researchers include a description of the mentoring activities provided to such researchers.
 
-(Pub. L. 110–69, title VII, §7008, Aug. 9, 2007, 121 Stat. 680.)
+(Pub. L. 110–69, title VII, §7008, Aug. 9, 2007, 121 Stat. 680; Pub. L. 117–167, div. B, title III, §10313(a)(1)(A), Aug. 9, 2022, 136 Stat. 1522.)
 
 #### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–167 inserted "and graduate student" after "postdoctoral" and "The requirement may be satisfied by providing such individuals with access to mentors, including individuals not listed on the award." after "review criterion.".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -28,7 +32,7 @@ Pub. L. 110–69, title VII, §7003, Aug. 9, 2007, 121 Stat. 679, provided that:
 
 #### Curricula
 
-Pub. L. 110–69, title VII, §7005, Aug. 9, 2007, 121 Stat. 679, provided that: "Nothing in this title \[enacting this section and sections 1862n–1a and 1862o–1 to 1862o–15 of this title, amending sections 1862i, 1862l, 1862n, 1862n–1, 1862n–2, 1862n–5, 1863, 1870, and 1881a of this title, sections 5503 and 5511 of Title 15, Commerce and Trade, and section 3801 of Title 31, Money and Finance, enacting provisions set out as notes under this section and section 1862n–2 of this title, and amending provisions set out as a note under section 1113 of Title 31\], or theamendments made by this title, shall be construed to limit the authority of State governments or local school boards to determine the curricula of their students."
+Pub. L. 110–69, title VII, §7005, Aug. 9, 2007, 121 Stat. 679, provided that: "Nothing in this title \[enacting this section and sections 1862n–1a and 1862o–1 to 1862o–15 of this title, amending sections 1862i, 1862l, 1862n, 1862n–1, 1862n–2, 1862n–5, 1863, 1870, and 1881a of this title, sections 5503 and 5511 of Title 15, Commerce and Trade, and section 3801 of Title 31, Money and Finance, enacting provisions set out as notes under this section and section 1862n–2 of this title, and amending provisions set out as a note under section 1113 of Title 31\], or the amendments made by this title, shall be construed to limit the authority of State governments or local school boards to determine the curricula of their students."
 
 #### Definitions
 

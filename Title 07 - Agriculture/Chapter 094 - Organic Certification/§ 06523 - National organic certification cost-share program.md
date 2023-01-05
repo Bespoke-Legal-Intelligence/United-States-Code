@@ -40,7 +40,7 @@ Not later than March 1 of each year, the Secretary shall submit to the Committee
 
 #### References in Text
 
-The Organic Foods Production Act of 1990, referred to in subsec. (a), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
+The Organic Foods Production Act of 1990, referred to in subsec. (a), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
 #### Codification
 
@@ -54,7 +54,7 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 Subsec. (d). Pub. L. 115–334, §10105(b), added subsec. (d) and struck out former subsec. (d) which related to funding to carry out this section for fiscal years 2013 to 2018.
 
-<b>2014</b>—Subsec. (d)(1). Pub. L. 113–79 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $22,000,000 for the period of fiscal years 2008 through 2012."
+<b>2014</b>—Subsec. (d)(1). Pub. L. 113–79 added par. (1) and struck out former par. (1). Prior to amendment, textread as follows: "Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $22,000,000 for the period of fiscal years 2008 through 2012."
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–240, §701(g)(3)(A), substituted "The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall" for "Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to".
 

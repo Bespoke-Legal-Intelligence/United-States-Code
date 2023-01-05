@@ -22,7 +22,7 @@ Section effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set 
 
 #### Commission's First Report After July 30, 1983, To Include Recommendation for Appropriate Salary for Members of Congress; Prohibition on Receipt of Honoraria
 
-Pub. L. 98–63, title I, §908(e), July 30, 1983, 97 Stat. 338, which directed Commission on Executive, Legislative,and Judicial Salaries to include in first report required to be submitted by it after July 30, 1983, a recommendation for an appropriate salary for Members, which recommendation was to assume a prohibition on receipt of honoraria by Members, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
+Pub. L. 98–63, title I, §908(e), July 30, 1983, 97 Stat. 338, which directed Commission on Executive, Legislative, and Judicial Salaries to include in first report required to be submitted by it after July 30, 1983, a recommendation for an appropriate salary for Members, which recommendation was to assume a prohibition on receipt of honoraria by Members, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
 
 #### Compensation and Emoluments of Attorney General
 
@@ -91,7 +91,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <b><sup>1</sup></b><b> Editorial note</b>. This is the text of identical letters addressed to the Speaker of the House of Representatives and the President of the Senate, which were transmitted on January 9, 1989.
 
-\[Pub. L. 101–1, Feb. 7, 1989, 103 Stat. 3, provided: "That the Congress disapproves in their entirety the recommendations transmitted to the Congress by thePresident on January 9, 1989, under section 225(h) of the Federal Salary Act of 1967."\]
+\[Pub. L. 101–1, Feb. 7, 1989, 103 Stat. 3, provided: "That the Congress disapproves in their entirety the recommendations transmitted to the Congress by the President on January 9, 1989, under section 225(h) of the Federal Salary Act of 1967."\]
 
 #### Prior Salary Recommendations
 

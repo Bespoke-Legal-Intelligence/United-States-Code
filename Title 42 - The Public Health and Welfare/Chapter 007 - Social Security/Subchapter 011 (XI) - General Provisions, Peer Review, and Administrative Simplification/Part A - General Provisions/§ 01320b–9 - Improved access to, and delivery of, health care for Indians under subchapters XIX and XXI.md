@@ -18,7 +18,7 @@ The Secretary, acting through the Centers for Medicare \& Medicaid Services, sha
 
 For purposes of this section, subchapter XIX, and subchapter XXI, the terms "Indian", "Indian Tribe", "Indian Health Program", "Tribal Organization", and "Urban Indian Organization" have the meanings given those terms in section 1603 of title 25.
 
-(Aug. 14, 1935, ch. 531, title XI, §1139, as added Pub. L. 100–203, title IX, §9136, Dec. 22, 1987, 101 Stat. 1330–316; amended Pub. L. 100–647, title VIII, §8201, Nov. 10, 1988, 102 Stat. 3798; Pub. L.101–45, title IV, §409, June 30, 1989, 103 Stat. 130; Pub. L. 101–239, title VI, §6221, Dec. 19, 1989, 103 Stat. 2255; Pub. L. 101–508, title IV, §4207(k)(6), formerly §4027(k)(6), title V, §5057, Nov. 5, 1990, 104 Stat. 1388–125, 1388–230; Pub. L. 103–432, title I, §160(d)(4), title II, §264(d), Oct. 31, 1994, 108 Stat. 4444, 4468; Pub. L. 111–3, title II, §202(a), Feb. 4, 2009, 123 Stat. 39; Pub. L. 111–148, title II, §2901(d), Mar. 23, 2010, 124 Stat. 333.)
+(Aug. 14, 1935, ch. 531, title XI, §1139, as added Pub. L. 100–203, title IX, §9136, Dec. 22, 1987, 101 Stat. 1330–316; amended Pub. L. 100–647, title VIII, §8201, Nov. 10, 1988, 102 Stat. 3798; Pub. L. 101–45, title IV, §409, June 30, 1989, 103 Stat. 130; Pub. L. 101–239, title VI, §6221, Dec. 19, 1989, 103 Stat. 2255; Pub. L. 101–508, title IV, §4207(k)(6), formerly §4027(k)(6), title V, §5057, Nov. 5, 1990, 104 Stat. 1388–125, 1388–230; Pub. L. 103–432, title I, §160(d)(4), title II, §264(d), Oct. 31, 1994, 108 Stat. 4444, 4468; Pub. L. 111–3, title II, §202(a), Feb. 4, 2009, 123 Stat. 39; Pub. L. 111–148, title II, §2901(d), Mar. 23, 2010, 124 Stat. 333.)
 
 #### <b>Editorial Notes</b>
 

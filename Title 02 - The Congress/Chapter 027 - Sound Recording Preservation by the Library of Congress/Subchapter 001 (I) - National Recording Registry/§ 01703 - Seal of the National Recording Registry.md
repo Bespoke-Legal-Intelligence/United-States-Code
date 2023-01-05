@@ -28,7 +28,7 @@ The use of the seal provided under subsection (a) with respect to a sound record
 
 &emsp;&emsp;(A) is not included in the National Recording Registry; or
 
-&emsp;&emsp;(B) is included in the National Recording Registry but has not been approved for use of the seal by the Librarian pursuant to the guidelines established under subsection (b).
+&emsp;&emsp;(B) is included in the National Recording Registry but has not been approved for useof the seal by the Librarian pursuant to the guidelines established under subsection (b).
 
 #### (2) Prohibition on promotion
 

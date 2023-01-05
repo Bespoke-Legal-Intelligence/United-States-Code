@@ -20,7 +20,7 @@ Except as provided in subsection (b), in no case may the Attorney General, or an
 
 > &emsp;unless the alien has been convicted of a crime or crimes listed in section 237(a)(2) of the Immigration and Nationality Act \[8 U.S.C. 1227(a)(2)\]; or
 
-&emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under paragraph (15)(T), (15)(U), or (51) of section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T), (U), (51)\] or section 240A(b)(2) of such Act \[8 U.S.C. 1229b(b)(2)\].
+&emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under paragraph (15)(T), (15)(U), or\(51) of section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T), (U), (51)\] or section 240A(b)(2) of such Act \[8 U.S.C. 1229b(b)(2)\].
 
 > The limitation under paragraph (2) ends when the application for relief is denied and all opportunities for appeal of the denial have been exhausted.
 

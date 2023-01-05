@@ -34,7 +34,7 @@ Amount of credit.—Notwithstanding section 30A(a)(1) of such Code, the amount o
 
 &emsp;"(2)
 
-Separate application.—In applying section 30A(a)(3) of such Code in the case of a corporationtreated as a qualified domestic corporation by reason of this section, section \[former\] 30A of such Code (and so much of \[former\] section 936 of such Code as relates to such \[former\] section 30A) shall be applied separately with respect to American Samoa.
+Separate application.—In applying section 30A(a)(3) of such Code in the case of a corporation treated as a qualified domestic corporation by reason of this section, section \[former\] 30A of such Code (and so much of \[former\] section 936 of such Code as relates to such \[former\] section 30A) shall be applied separately with respect to American Samoa.
 
 &emsp;"(3)
 

@@ -62,7 +62,7 @@
 
 #### (3) Additional certifications
 
-&emsp;The certification under section (1) shall be issued annually, but the Secretary may issueadditional certifications at any time if the Secretary determines it is warranted by circumstances in Hong Kong.
+&emsp;The certification under section (1) shall be issued annually, but the Secretary may issue additional certifications at any time if the Secretary determines it is warranted by circumstances in Hong Kong.
 
 #### (b) Waiver authority
 

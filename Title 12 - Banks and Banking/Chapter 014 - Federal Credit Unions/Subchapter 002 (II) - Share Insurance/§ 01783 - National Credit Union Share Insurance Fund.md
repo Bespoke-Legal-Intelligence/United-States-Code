@@ -26,7 +26,7 @@ Temporary increases authorized.—
 
 &emsp;(A)
 
-Recommendations for increase.—During the period beginning on May 20, 2009, and ending on December 31, 2010, if, upon the written recommendation of the Board (upon a vote of not less than two-thirds of the members of the Board) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that additional amounts above the $6,000,000,000 amount specified in paragraph (1) are necessary, such amount shall be increased to the amount so determined to be necessary, not to exceed $30,000,000,000.
+Recommendations for increase.—During the period beginning on May 20, 2009, and ending on December 31, 2010, if, upon the written recommendation of the Board (upon a vote of not less than two-thirds of the members of the Board) and the Board of Governors of the Federal Reserve System (upon a vote of not less than two-thirds of the members of such Board), the Secretary of the Treasury (in consultation with the President) determines that additional amounts above the $6,000,000,000 amount specified in paragraph (1) are necessary, such amount shall be increased to theamount so determined to be necessary, not to exceed $30,000,000,000.
 
 &emsp;(B)
 
@@ -54,7 +54,7 @@ In subsec. (d)(3), "chapter 31 of title 31" substituted for "the Second Liberty 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d)(1). Pub. L. 111–22, §204(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read asfollows: "If, in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the Secretary of the Treasury shall make the loan, but loans under this paragraph shall not exceed in the aggregate $100,000,000 outstanding at any one time. Except as otherwise provided in this subsection and in subsection (e) of this section, each loan under this paragraph shall be made on such terms as may be fixed by agreement between the Board and the Secretary of the Treasury."
+<b>2009</b>—Subsec. (d)(1). Pub. L. 111–22, §204(c)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "If, in the judgment of the Board, a loan to the fund is required at any time for carrying out the purposes of this subchapter, the Secretary of the Treasury shall make the loan, but loans under this paragraph shall not exceed in the aggregate $100,000,000 outstanding at any one time. Except as otherwise provided in this subsection and in subsection (e) of this section, each loan under this paragraph shall be made on such terms as may be fixed by agreement between the Board and the Secretary of the Treasury."
 
 Subsec. (d)(4). Pub. L. 111–22, §204(c)(3), added par. (4).
 

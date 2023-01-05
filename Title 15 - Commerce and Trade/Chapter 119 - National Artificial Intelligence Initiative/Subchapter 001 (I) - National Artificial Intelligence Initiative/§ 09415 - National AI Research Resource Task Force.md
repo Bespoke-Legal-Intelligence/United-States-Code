@@ -42,7 +42,7 @@
 
 #### (E) Co-chairpersons
 
-&emsp;&emsp;The Director of the Office of Science and Technology Policy and the Director of the National Sciences Foundation,<sup>1</sup> or their designees, shall be the co-chairpersons of theTask Force. If the role of the Director of the National Science Foundation is vacant, the Chair of the National Science Board shall act as a co-chairperson of the Task Force.
+&emsp;&emsp;The Director of the Office of Science and Technology Policy and the Director of the National Sciences Foundation,<sup>1</sup> or their designees, shall be the co-chairpersons of the Task Force. If the role of the Director of the National Science Foundation is vacant, the Chair of the National Science Board shall act as a co-chairperson of the Task Force.
 
 #### (F) Expenses for non-Federal Members
 

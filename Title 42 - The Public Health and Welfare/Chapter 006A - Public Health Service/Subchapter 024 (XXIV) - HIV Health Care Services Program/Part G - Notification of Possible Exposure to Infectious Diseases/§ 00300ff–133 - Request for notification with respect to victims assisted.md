@@ -42,7 +42,7 @@ The duties referred to in subsection (a) are that—
 
 &emsp;(B)(i) If a medical facility finds in making a determination under paragraph (1) that the facility possesses no information on whether the victim involved has an infectious disease included on the list under section 300ff–131(a) of this title, the medical facility shall, in writing, inform the designated officer who submitted the request under subsection (c) of the insufficiency of such medical information.
 
-&emsp;(ii) If after making a response under clause (i) a medical facility determines that the victim involved has an infectious disease, themedical facility shall make the determination described in paragraph (1) and provide the applicable response specified in this subsection.
+&emsp;(ii) If after making a response under clause (i) a medical facility determines that the victim involved has an infectious disease, the medical facility shall make the determination described in paragraph (1) and provide the applicable response specified in this subsection.
 
 #### (e) Time for making response
 

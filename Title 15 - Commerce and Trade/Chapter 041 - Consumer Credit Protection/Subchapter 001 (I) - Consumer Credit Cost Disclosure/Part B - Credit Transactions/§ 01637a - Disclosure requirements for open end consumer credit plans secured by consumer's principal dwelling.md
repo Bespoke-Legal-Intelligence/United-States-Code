@@ -12,7 +12,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;In the case of a plan which provides for variable rates of interest on credit extended under the plan—
 
-&emsp;&emsp;(A) a description of the manner in which such rate will be computed and a statement that such rate does not include costs other than interest;
+&emsp;&emsp;(A) a description of the manner in which such rate will be computed and a statementthat such rate does not include costs other than interest;
 
 &emsp;&emsp;(B) a description of the manner in which any changes in the annual percentage rate will be made, including—
 
@@ -84,7 +84,7 @@ In the case of any open end consumer credit plan which provides for any extensio
 
 &emsp;&emsp;A statement that—
 
-&emsp;&emsp;&emsp;(i) the consumer may elect not to enter into an agreement to open an accountunder the plan if any term changes (other than a change contemplated by a variable feature of the plan) before any such agreement is final; and
+&emsp;&emsp;&emsp;(i) the consumer may elect not to enter into an agreement to open an account under the plan if any term changes (other than a change contemplated by a variable feature of the plan) before any such agreement is final; and
 
 &emsp;&emsp;&emsp;(ii) if the consumer makes an election described in clause (i), the consumer is entitled to a refund of all fees paid in connection with the application.
 

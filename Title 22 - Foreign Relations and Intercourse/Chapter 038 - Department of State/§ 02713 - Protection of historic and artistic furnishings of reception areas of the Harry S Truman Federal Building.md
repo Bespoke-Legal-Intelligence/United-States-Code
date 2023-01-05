@@ -34,7 +34,7 @@ For purposes of this section, the term "reception areas" means the areas of the 
 
 #### Codification
 
-In subsec. (b)(2), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906,4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(2), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -45,6 +45,22 @@ A prior section 41 of act Aug. 1, 1956, was renumbered section 42 by section 126
 <b>2000</b>—Pub. L. 106–218 substituted "Harry S Truman Federal Building" for "Department of State Building" in section catchline and in subsec. (c).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Diplomatic Reception Areas
+
+Pub. L. 117–263, div. I, title XCVII, §9713, Dec. 23, 2022, 136 Stat. 3920, provided that:
+
+"(a)
+
+Defined Term.—In this section, the term 'reception areas' has the meaning given such term in section 41(c) of the State Department Basic Authorities Act of 1956 (22 U.S.C. 2713(c)).
+
+"(b)
+
+In General.—The Secretary \[of State\] may sell goods and services at fair market value and use the proceeds of such sales for administration and related support of the reception areas.
+
+"(c)
+
+Amounts Collected.—Amounts collected pursuant to the authority provided under subsection (b) may be deposited into an account in the Treasury, to remain available until expended."
 
 #### Designation of Department of State Building as Harry S Truman Federal Building
 

@@ -84,7 +84,7 @@ The Secretary shall take such actions as the Secretary considers necessary to ve
 
 #### (1) In general
 
-&emsp;Livestock committed to a packer, or purchased, sold, or slaughtered by a packer, on a weekend day or holiday shall be reported by the packer to the Secretary (to the extent required under this subchapter), and reported by the Secretary, on the immediately following reporting day.
+&emsp;Livestock committed to a packer, or purchased, sold, or slaughtered by a packer, on aweekend day or holiday shall be reported by the packer to the Secretary (to the extent required under this subchapter), and reported by the Secretary, on the immediately following reporting day.
 
 #### (2) Limitation on reporting by packers
 
@@ -108,7 +108,7 @@ Nothing in this subchapter, the Livestock Mandatory Reporting Act of 1999, or am
 
 The Livestock Mandatory Reporting Act of 1999, referred to in subsec. (i), is title IX of Pub. L. 106–78, Oct. 22, 1999, 113 Stat. 1188, which is set out as a note under section 1635 of this title.
 
-The Packers and Stockyards Act, 1921, referred to in subsec. (i)(1), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified generally to chapter 9 (§181 et seq.) of this title. For complete classification of this Act to the Code, see section 181 of this title and Tables.
+The Packers and Stockyards Act, 1921, referred to in subsec. (i)(1), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§181 et seq.) of this title. For complete classification of this Act to the Code, see section 181 of this title and Tables.
 
 #### Codification
 

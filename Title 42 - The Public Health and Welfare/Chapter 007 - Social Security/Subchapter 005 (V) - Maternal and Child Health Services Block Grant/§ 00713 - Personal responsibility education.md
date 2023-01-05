@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;The State application shall contain an assurance that the State has complied with the requirements of this section in preparing and submitting the application and shall include the following as well as such additional information as the Secretary may require:
 
-&emsp;&emsp;&emsp;&emsp;(I) Based on data from the Centers for Disease Control and Prevention National Center for Health Statistics, the most recent pregnancy rates for the State for youth ages 10 to 14 and youth ages 15 to 19 for which data are available, the most recent birth rates for such youth populations in the State for which data are available, and trends in those rates for the most recently preceding 5-year period for which such data are available.
+&emsp;&emsp;&emsp;&emsp;(I) Based on data from the Centers for Disease Control and Prevention National Center for Health Statistics, the most recent pregnancy rates for the State for youth ages 10 to 14 and youth ages 15 to 19 for which data are available, the most recent birth rates for such youth populations in the State for which data areavailable, and trends in those rates for the most recently preceding 5-year period for which such data are available.
 
 &emsp;&emsp;&emsp;&emsp;(II) State-established goals for reducing the pregnancy rates and birth rates for such youth populations.
 
@@ -104,7 +104,7 @@
 
 &emsp;&emsp;The requirements of this subparagraph are the following:
 
-&emsp;&emsp;&emsp;(i) The program replicates evidence-based effective programs or substantially incorporates elements of effective programs that have been proven on the basis of rigorous scientific research to change behavior, which means delaying sexual activity, increasing condom or contraceptive use for sexually active youth, or reducing pregnancy among youth.
+&emsp;&emsp;&emsp;(i) The program replicates evidence-based effective programs or substantially incorporates elements of effective programs that have been proven on the basis of rigorous scientific research to change behavior, which means delaying sexual activity, increasing condom or contraceptiveuse for sexually active youth, or reducing pregnancy among youth.
 
 &emsp;&emsp;&emsp;(ii) The program is medically-accurate and complete.
 

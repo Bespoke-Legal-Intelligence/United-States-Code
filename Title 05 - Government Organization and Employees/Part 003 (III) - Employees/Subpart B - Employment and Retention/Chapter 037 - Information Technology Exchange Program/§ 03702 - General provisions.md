@@ -16,7 +16,7 @@ Assignment Authority.—On request from or with the agreement of a private secto
 
 Agreements.—Each agency that exercises its authority under this chapter shall provide for a written agreement between the agency and the employee concerned regarding the terms and conditions of the employee's assignment. In the case of an employee of the agency, the agreement shall—
 
-&emsp;(1) require the employee to serve in the civil service, upon completion of the assignment, for a period equal to the length of the assignment; and
+&emsp;(1) require the employee to serve in the civil service, upon completion of the assignment,for a period equal to the length of the assignment; and
 
 &emsp;(2) provide that, in the event the employee fails to carry out the agreement (except for good and sufficient reason, as determined by the head of the agency from which assigned) the employee shall be liable to the United States for payment of all expenses of the assignment.
 
@@ -62,7 +62,7 @@ Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 10
 
 #### Pilot Program for the Temporary Assignment of Cyber and Information Technology Personnel to Private Sector Organizations
 
-Pub. L. 111–84, div. A, title XI, §1110, Oct. 28, 2009, 123 Stat. 2493, as amended by Pub. L. 113–66, div. A, title XI, §1106, Dec. 26, 2013, 127 Stat. 887; Pub. L. 114–92, div. A, title X, §1075(a), Nov. 25, 2015, 129 Stat. 997; Pub. L. 114–328, div. A, title XI, §1123, Dec. 23, 2016, 130 Stat. 2455, provided that:
+Pub. L. 111–84, div. A, title XI, §1110, Oct. 28, 2009, 123 Stat. 2493, as amended by Pub. L. 113–66, div. A, title XI, §1106, Dec. 26, 2013, 127 Stat. 887; Pub. L. 114–92, div. A, title X, §1075(a), Nov. 25, 2015, 129 Stat. 997; Pub. L. 114–328, div. A, title XI, §1123, Dec. 23, 2016, 130 Stat. 2455; Pub. L. 117–263, div. A, title XI, §1112, Dec. 23, 2022, 136 Stat. 2820; Pub. L. 117–286, §4(c)(7), Dec. 27, 2022, 136 Stat. 4354, provided that:
 
 "(a)
 
@@ -96,7 +96,7 @@ Termination.—An assignment under this section may, at any time and for any rea
 
 "(d)
 
-Duration.—An assignment under this section shall be for a period of not less than 3 months and not more than 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year; however, no assignment under this section may commence after September 30, 2022.
+Duration.—An assignment under this section shall be for a period of not less than 3 months and not more than 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year; however, no assignment under this section may commence after December 31, 2026.
 
 "(e)
 
@@ -114,7 +114,7 @@ Terms and Conditions for Private Sector Employees.—An employee of a private se
 
 &emsp;&emsp;"(D) the Federal Tort Claims Act \[see Short Title note under section 2671 of Title 28, Judiciary and Judicial Procedure\] and any other Federal tort liability statute;
 
-&emsp;&emsp;"(E) the Ethics in Government Act of 1978 \[5 U.S.C. App.\];
+&emsp;&emsp;"(E) chapter 131 of title 5, United States Code;
 
 &emsp;&emsp;"(F) section 1043 of the Internal Revenue Code of 1986 \[26 U.S.C. 1043\]; and
 
@@ -150,5 +150,5 @@ Repeal of Superseded Section.—Section 1109 of the National Defense Authorizati
 
 &emsp;"(2) any employee whose assignment is allowed to continue by virtue of paragraph (1) shall be taken into account for purposes of the numerical limitation under subsection (h)."
 
-Pub. L. 110–181, div. A, title XI, §1109, Jan. 28, 2008, 122 Stat. 358, which authorized the Secretary of Defense to arrange for the temporary assignment of a Department of Defense employee to a private sector organization under certain terms, conditions, and considerations, and for a limited period, and required the Secretary tosubmit to the Committees on Armed Services a report on the potential benefits of temporarily assigning information technology specialists from private sector organizations to the Department of Defense, was repealed, with certain exceptions, by Pub. L. 111–84, div. A, title XI, §1110(i), formerly §1110(j), Oct. 28, 2009, 123 Stat. 2495, renumbered §1110(i), Pub. L. 114–92, div. A, title X, §1075(a)(2), Nov. 25, 2015, 129 Stat. 997, see above.
+Pub. L. 110–181, div. A, title XI, §1109, Jan. 28, 2008, 122 Stat. 358, which authorized the Secretary of Defense to arrange for the temporary assignment of a Department of Defense employee to a private sector organization under certain terms, conditions, and considerations, and for a limited period, and required the Secretary to submit to the Committees on Armed Services a report on the potential benefits of temporarily assigning information technology specialists from private sector organizations to the Department of Defense, was repealed, with certain exceptions, by Pub. L. 111–84, div. A, title XI, §1110(i), formerly §1110(j), Oct. 28, 2009, 123 Stat. 2495, renumbered §1110(i), Pub. L. 114–92, div. A, title X, §1075(a)(2), Nov. 25, 2015, 129 Stat. 997, see above.
 

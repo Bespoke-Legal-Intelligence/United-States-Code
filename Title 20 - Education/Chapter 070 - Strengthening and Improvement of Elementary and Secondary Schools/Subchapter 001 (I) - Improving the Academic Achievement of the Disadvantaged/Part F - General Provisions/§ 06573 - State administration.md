@@ -54,7 +54,7 @@
 
 #### (3) Duties
 
-&emsp;The duties of such committee shall include a review, before publication, of any proposed or final State rule or regulation pursuant to this subchapter. In an emergency situation where such rule or regulation must be issued within a very limited time to assist local educational agencies with the operation of the program under this subchapter, the State educational agency may issue a regulation without prior consultation, but shall immediately thereafter convene the State committee of practitioners to review the emergency regulation before issuance in final form.
+&emsp;The duties of such committee shall include a review, before publication, of any proposed or final State rule or regulation pursuant to this subchapter. In an emergency situation where such rule or regulation must be issued within a very limited time to assist local educational agencies with the operation of the programunder this subchapter, the State educational agency may issue a regulation without prior consultation, but shall immediately thereafter convene the State committee of practitioners to review the emergency regulation before issuance in final form.
 
 (Pub. L. 89–10, title I, §1603, formerly §1903, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1618; renumbered §1603 and amended Pub. L. 114–95, title I, §§1501(a)(4), 1601(c), Dec. 10, 2015, 129 Stat. 1906, 1912.)
 

@@ -24,7 +24,7 @@ Copyrights in Their First Term on January 1, 1978.—(1)(A) Any copyright, the f
 
 > shall be entitled to a renewal and extension of the copyright in such work for a further term of 67 years.
 
-(2)(A) At the expiration of the original term of copyright in a work specified in paragraph (1)(B) of this subsection, the copyright shall endure fora renewed and extended further term of 67 years, which—
+(2)(A) At the expiration of the original term of copyright in a work specified in paragraph (1)(B) of this subsection, the copyright shall endure for a renewed and extended further term of 67 years, which—
 
 &emsp;(i) if an application to register a claim to such further term has been made to the Copyright Office within 1 year before the expiration of the original term of copyright, and the claim is registered, shall vest, upon the beginning of such further term, in the proprietor of the copyright who is entitled to claim the renewal of copyright at the time the application is made; or
 
@@ -66,7 +66,7 @@ Termination of Transfers and Licenses Covering Extended Renewal Term.—In the c
 
 &emsp;&emsp;(C) The rights of the author's children and grandchildren are in all cases divided among them and exercised on a per stirpes basis according to the number of such author's children represented; the share of the children of a dead child in a termination interest can be exercised only by the action of a majority of them.
 
-&emsp;&emsp;(D) In the event that the author's widow or widower, children, and grandchildren are notliving, the author's executor, administrator, personal representative, or trustee shall own the author's entire termination interest.
+&emsp;&emsp;(D) In the event that the author's widow or widower, children, and grandchildren are not living, the author's executor, administrator, personal representative, or trustee shall own the author's entire termination interest.
 
 &emsp;(3) Termination of the grant may be effected at any time during a period of five years beginning at the end of fifty-six years from the date copyright was originally secured, or beginning on January 1, 1978, whichever is later.
 
@@ -98,7 +98,7 @@ Termination Rights Provided in Subsection (c)
 
 Which Have Expired on or Before the Effective Date of the Sonny Bono Copyright Term Extension Act.—In the case of any copyright other than a work made for hire, subsisting in its renewal term on the effective date of the Sonny Bono Copyright Term Extension Act for which the termination right provided in subsection (c) has expired by such date, where the author or owner of the termination right has not previously exercised such termination right, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated in subsection (a)(1)(C) of this section, other than by will, is subject to termination under the following conditions:
 
-&emsp;(1) The conditions specified in subsections (c)(1), (2), (4), (5), and (6) of this section applyto terminations of the last 20 years of copyright term as provided by the amendments made by the Sonny Bono Copyright Term Extension Act.
+&emsp;(1) The conditions specified in subsections (c)(1), (2), (4), (5), and (6) of this section apply to terminations of the last 20 years of copyright term as provided by the amendments made by the Sonny Bono Copyright Term Extension Act.
 
 &emsp;(2) Termination of the grant may be effected at any time during a period of 5 years beginning at the end of 75 years from the date copyright was originally secured.
 
@@ -118,7 +118,7 @@ Although the bill preserves the language of the present renewal provision withou
 
 Subsection (b) also covers the special situation of a subsisting first-term copyright that becomes eligible for renewal registration during the year before the act comes into effect. If a renewal registration is not made before the effective date \[Jan. 1, 1978\], the case is governed by the provisions of section 304(a) \[subsec. (a) of this section\]. If a renewal registration is made during the year before the new law takes effect, however, the copyright would be treated as if it were already subsisting in its second term and would be extended to the full period of 75 years without the need for further renewal.
 
-<b>Termination of Grants Covering Extended Term.</b> An issue underlying the 19-year extension of renewal terms under both subsections (a) and (b) of section 304 \[subsecs. (a) and (b) of this section\] is whether, in a case where their rights have already been transferred, the author or the dependents of the author should be given a chance to benefit from the extended term. The arguments for granting rights of termination are even more persuasive under section 304 than they are under section 203; the extended term represents a completely new property right, and there are strong reasons for giving the author, who is the fundamental beneficiary of copyright under the Constitution, an opportunity to share in it.
+<b>Termination of Grants Covering Extended Term.</b> An issue underlying the 19-year extension of renewal termsunder both subsections (a) and (b) of section 304 \[subsecs. (a) and (b) of this section\] is whether, in a case where their rights have already been transferred, the author or the dependents of the author should be given a chance to benefit from the extended term. The arguments for granting rights of termination are even more persuasive under section 304 than they are under section 203; the extended term represents a completely new property right, and there are strong reasons for giving the author, who is the fundamental beneficiary of copyright under the Constitution, an opportunity to share in it.
 
 Subsection (c) of section 304 is a close but not exact counterpart of section 203. In the case of either a first-term or renewal copyright already subsisting when the new statute becomes effective \[Jan. 1, 1978\], any grant of rights covering the renewal copyright in the work, executed before the effective date \[Jan. 1, 1978\], may be terminated under conditions and limitations similar to those provided in section 203. Except for transfers and licenses covering renewal copyrights already extended under Public Laws 87–668, 89–142, 90–141, 90–416, 91–147, 91–555, 92–170, 92–566, and 93–573, which would become subject to termination immediately upon the coming into effect of the revised law, the 5-year period during which termination could be made effective would start 56 years after copyright was originally secured.
 
@@ -146,7 +146,7 @@ The Sonny Bono Copyright Term Extension Act, referred to in subsecs. (b) and (d)
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c)(2)(A) to (C). Pub. L. 107–273, in subpars. (A) to (C), substituted "The" for "the" and, in subpars. (A) and (B), substituted period for semicolon at end.
+<b>2002</b>—Subsec. (c)(2)(A) to (C). Pub. L. 107–273, in subpars. (A) to (C), substituted "The" for "the" and, insubpars. (A) and (B), substituted period for semicolon at end.
 
 <b>1998</b>—Subsec. (a)(1)(B), (C). Pub. L. 105–298, §102(d)(1)(A)(i), substituted "67" for "47" in concluding provisions.
 
@@ -196,7 +196,7 @@ Private Law 92–60, Dec. 15, 1971, 85 Stat. 857, provided: "That, any provision
 
 #### Extension of Renewal Terms Under Prior Law
 
-Pub. L. 93–573, title I, §104, Dec. 31, 1974, 88 Stat. 1873, provided that in any case in which the renewal term of a copyright subsisting in any work on Dec. 31, 1974, or the term thereof as extended by Public Law 87–668, by Public Law 89–142, by Public Law 90–141, by Public Law 90–416, by Public Law 91–417, by Public Law 91–555, by Public Law 92–170, or by Public Law 92–556 (or by all or certain of said laws) \[set out below\], would expire prior to Dec. 31, 1976, such term was continued until Dec. 31, 1976.
+Pub. L. 93–573, title I, §104, Dec. 31, 1974, 88 Stat. 1873, provided that in any case in which the renewal term of a copyright subsisting in any work on Dec. 31, 1974, or the term thereof as extended by Public Law 87–668, by Public Law 89–142, by Public Law 90–141, by Public Law90–416, by Public Law 91–417, by Public Law 91–555, by Public Law 92–170, or by Public Law 92–556 (or by all or certain of said laws) \[set out below\], would expire prior to Dec. 31, 1976, such term was continued until Dec. 31, 1976.
 
 Pub. L. 92–566, Oct. 25, 1972, 86 Stat. 1181, provided that in any case in which the renewal term of a copyright subsisting in any work on Oct. 25, 1972, or the term thereof as extended by Public Law 87–668, by Public Law 89–142, by Public Law 90–141, by Public Law 90–416, by Public Law 91–147, by Public Law 91–555, or by Public Law 92–170 (or by all or certain of said laws) \[set out below\], would expire prior to Dec. 31, 1974, such term was continued until Dec. 31, 1974.
 

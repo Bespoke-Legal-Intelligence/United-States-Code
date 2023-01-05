@@ -8,7 +8,7 @@ There is hereby authorized to be appropriated, out of the Federal aid to wildlif
 
 #### References in Text
 
-The Act entitled "An Act to provide that the United States shall aid the States in wildlife-restoration projects, and for other purposes", approved September 2, 1937, referred to in text, is act Sept. 2, 1937, ch. 899, 50 Stat. 917, known as the Pittman-Robertson WildlifeRestoration Act and also popularly known as the Federal Aid in Wildlife Restoration Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
+The Act entitled "An Act to provide that the United States shall aid the States in wildlife-restoration projects, and for other purposes", approved September 2, 1937, referred to in text, is act Sept. 2, 1937, ch. 899, 50 Stat. 917, known as the Pittman-Robertson Wildlife Restoration Act and also popularly known as the Federal Aid in Wildlife Restoration Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
 #### Codification
 

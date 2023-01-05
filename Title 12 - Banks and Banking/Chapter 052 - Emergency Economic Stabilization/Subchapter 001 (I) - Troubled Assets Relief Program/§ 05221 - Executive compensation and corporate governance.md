@@ -62,7 +62,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(II) For any financial institution that received financial assistance provided under the TARP equal to at least $25,000,000, but less than $250,000,000, the prohibition shall apply to at least the 5 most highly-compensated employees of the financial institution, or such higher number as the Secretary may determine is in the public interest with respect to any TARP recipient.
 
-&emsp;&emsp;&emsp;(III) For any financial institution that received financial assistance provided under the TARP equal to at least $250,000,000, but less than $500,000,000, the prohibition shall apply to the senior executive officers and at least the 10 next most highly-compensated employees, or such higher number as the Secretary may determine is in the public interest with respect to any TARP recipient.
+&emsp;&emsp;&emsp;(III) For any financial institution that received financial assistance provided under the TARP equal to at least $250,000,000, but less than $500,000,000, theprohibition shall apply to the senior executive officers and at least the 10 next most highly-compensated employees, or such higher number as the Secretary may determine is in the public interest with respect to any TARP recipient.
 
 &emsp;&emsp;&emsp;(IV) For any financial institution that received financial assistance provided under the TARP equal to $500,000,000 or more, the prohibition shall apply to the senior executive officers and at least the 20 next most highly-compensated employees, or such higher number as the Secretary may determine is in the public interest with respect to any TARP recipient.
 
@@ -132,7 +132,7 @@ The board of directors of any TARP recipient shall have in place a company-wide 
 
 #### (g) No impediment to withdrawal by TARP recipients
 
-Subject to consultation with the appropriate Federal banking agency (as that term is defined in section 1813 of this title), if any, the Secretary shall permit a TARP recipient to repay any assistance previously provided under the TARP to such financial institution, without regard to whether the financial institution has replaced such funds from any other source or to any waiting period, and when such assistance is repaid, the Secretary, at the market price, may liquidate warrants associated with such assistance.
+Subject to consultation with the appropriate Federal banking agency (as that term is definedin section 1813 of this title), if any, the Secretary shall permit a TARP recipient to repay any assistance previously provided under the TARP to such financial institution, without regard to whether the financial institution has replaced such funds from any other source or to any waiting period, and when such assistance is repaid, the Secretary, at the market price, may liquidate warrants associated with such assistance.
 
 #### (h) Regulations
 

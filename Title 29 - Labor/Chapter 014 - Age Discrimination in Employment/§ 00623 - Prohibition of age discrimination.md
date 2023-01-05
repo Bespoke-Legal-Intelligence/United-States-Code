@@ -44,7 +44,7 @@ It shall not be unlawful for an employer, employment agency, or labor organizati
 
 &emsp;&emsp;(B) to observe the terms of a bona fide employee benefit plan—
 
-&emsp;&emsp;&emsp;(i) where, for each benefit or benefit package, the actual amount of payment made or cost incurred on behalf of an older worker is no less than that made or incurred on behalf of a younger worker, as permissible under section 1625.10, title 29, Code of Federal Regulations (as in effect on June 22, 1989); or
+&emsp;&emsp;&emsp;(i) where, for each benefit or benefit package, the actual amount of paymentmade or cost incurred on behalf of an older worker is no less than that made or incurred on behalf of a younger worker, as permissible under section 1625.10, title 29, Code of Federal Regulations (as in effect on June 22, 1989); or
 
 &emsp;&emsp;&emsp;(ii) that is a voluntary early retirement incentive plan consistent with the relevant purpose or purposes of this chapter.
 
@@ -140,7 +140,7 @@ Interest credits.—
 
 &emsp;&emsp;&emsp;(I)
 
-In general.—An applicable defined benefit plan shall be treated as failing tomeet the requirements of paragraph (1) unless the terms of the plan provide that any interest credit (or an equivalent amount) for any plan year shall be at a rate which is not greater than a market rate of return. A plan shall not be treated as failing to meet the requirements of this subclause merely because the plan provides for a reasonable minimum guaranteed rate of return or for a rate of return that is equal to the greater of a fixed or variable rate of return.
+In general.—An applicable defined benefit plan shall be treated as failing to meet the requirements of paragraph (1) unless the terms of the plan provide that any interest credit (or an equivalent amount) for any plan year shall be at a rate which is not greater than a market rate of return. A plan shall not be treated as failing to meet the requirements of this subclause merely because the plan provides for a reasonable minimum guaranteed rate of return or for a rate of return that is equal to the greater of a fixed or variable rate of return.
 
 &emsp;&emsp;&emsp;(II)
 
@@ -164,7 +164,7 @@ Rate of benefit accrual.—Subject to clause (iv), the requirements of this clau
 
 &emsp;&emsp;(iv)
 
-Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>3</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under the plan for entitlement to such benefit or subsidy.
+Special rules for early retirement subsidies.—For purposes of clause (iii)(I), the plan shall credit the accumulation account or similar amount <sup>3</sup> with the amount of any early retirement benefit or retirement-type subsidy for the plan year in which the participant retires if, as of such time, the participant has met the age, years of service, and other requirements under theplan for entitlement to such benefit or subsidy.
 
 &emsp;&emsp;(v)
 
@@ -328,7 +328,7 @@ Notwithstanding subsection (f)(2)(B), it shall not be a violation of subsection 
 
 &emsp;(3) any employee who attains the minimum age and satisfies all non-age-based conditions for receiving a benefit under the plan has an opportunity lasting not less than 180 days to elect to retire and to receive the maximum benefit that could then be elected by a younger but otherwise similarly situated employee, and the plan does not require retirement to occur sooner than 180 days after such election.
 
-(Pub. L. 90–202, §4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, §2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, §116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, §2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, §802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI,§6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, §103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 105–244, title IX, §941(a), (b), Oct. 7, 1998, 112 Stat. 1834, 1835; Pub. L. 109–280, title VII, §701(c), title XI, §1104(a)(2), Aug. 17, 2006, 120 Stat. 988, 1058; Pub. L. 110–458, title I, §123(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 114–95, title IX, §9215(e), Dec. 10, 2015, 129 Stat. 2166.)
+(Pub. L. 90–202, §4, Dec. 15, 1967, 81 Stat. 603; Pub. L. 95–256, §2(a), Apr. 6, 1978, 92 Stat. 189; Pub. L. 97–248, title I, §116(a), Sept. 3, 1982, 96 Stat. 353; Pub. L. 98–369, div. B, title III, §2301(b), July 18, 1984, 98 Stat. 1063; Pub. L. 98–459, title VIII, §802(b), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–272, title IX, §9201(b)(1), (3), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9201, Oct. 21, 1986, 100 Stat. 1973; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–592, §§2(a), (b), 3(a), Oct. 31, 1986, 100 Stat. 3342; Pub. L. 101–239, title VI, §6202(b)(3)(C)(i), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 101–433, title I, §103, Oct. 16, 1990, 104 Stat. 978; Pub. L. 101–521, Nov. 5, 1990, 104 Stat. 2287; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[1(b)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23; Pub. L. 105–244, title IX, §941(a), (b), Oct. 7, 1998, 112 Stat. 1834, 1835; Pub. L. 109–280, title VII, §701(c), title XI, §1104(a)(2), Aug. 17, 2006, 120 Stat. 988, 1058; Pub. L. 110–458, title I, §123(a), Dec. 23, 2008, 122 Stat. 5114; Pub. L. 114–95, title IX, §9215(e), Dec. 10, 2015, 129 Stat. 2166.)
 
 #### <b>Editorial Notes</b>
 
@@ -340,7 +340,7 @@ Section 1054(g)(2)(A) of this title, referred to in subsec. (i)(10)(F), was in t
 
 Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, referred to in subsec. (j)(1), probably means Pub. L. 104–208, div. A, title I, §101(a) \[title I, §119\[2(d)(2)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–23, 3009–25, which is set out as a note under this section.
 
-The Social Security Act, referred to in subsec. (l)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (l)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVIII of the Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -362,7 +362,7 @@ Subsec. (j)(1). Pub. L. 104–208, §101(a) \[title I, §119\[1(b)(2)\]\], subst
 
 &emsp;"(A) the age of hiring or retirement, respectively, in effect under applicable State or local law on March 3, 1983; or
 
-&emsp;"(B)(i) if the individual was not hired, the age of hiring in effect on the date of such failure or refusal to hire under applicable State or local law enacted after September 30, 1996; or
+&emsp;"(B)(i) if the individual was not hired, the age of hiring in effect on the date of such failure or refusalto hire under applicable State or local law enacted after September 30, 1996; or
 
 &emsp;"(ii) if applicable State or local law was enacted after September 30, 1996, and the individual was discharged, the higher of—
 
@@ -556,7 +556,7 @@ Pub. L. 99–592, §7, Oct. 31, 1986, 100 Stat. 3344, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 630 and 631 of this title and enacting provisions set out as notes under this section and sections 621, 622, 624, and 631 of this title\] shall take effect on January 1, 1987, except that with respect to any employee who is subject to a collective-bargaining agreement—
+In General.—Except as provided in subsection (b), this Act and the amendments made by this Act \[amending this section and sections 630 and 631 of thistitle and enacting provisions set out as notes under this section and sections 621, 622, 624, and 631 of this title\] shall take effect on January 1, 1987, except that with respect to any employee who is subject to a collective-bargaining agreement—
 
 &emsp;"(1) which is in effect on June 30, 1986,
 
@@ -640,7 +640,7 @@ Pub. L. 101–433, title I, §104, Oct. 16, 1990, 104 Stat. 981, provided that: 
 
 #### Construction of 1998 Amendment
 
-Pub. L. 105–244, title IX, §941(c), Oct. 7, 1998, 112 Stat. 1835, provided that: "Nothing in the amendment made by subsection (a) \[amending this section\] shall affect the application of section 4 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 623) with respect to—
+Pub. L. 105–244, title IX, §941(c), Oct. 7, 1998, 112 Stat. 1835, provided that: "Nothing in the amendment madeby subsection (a) \[amending this section\] shall affect the application of section 4 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 623) with respect to—
 
 &emsp;"(1) any plan described in subsection (m) of section 4 of such Act (as added by subsection (a)), for any period prior to enactment of such Act \[Dec. 15, 1967\];
 

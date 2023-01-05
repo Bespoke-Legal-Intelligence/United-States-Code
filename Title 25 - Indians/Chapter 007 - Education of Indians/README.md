@@ -5,7 +5,7 @@
 | [271\.](%C2%A7%2000271%20-%20Employment%20of%20instructors%20for%20Indians.md) | Employment of instructors for Indians. |
 | [272\.](%C2%A7%2000272%20-%20Superintendent%20of%20Indian%20schools.md) | Superintendent of Indian schools. |
 | [272a.](%C2%A7%2000272a%20-%20Other%20duties.md) | Other duties. |
-| [273\.](%C2%A7%2000273%20-%20Detail%20of%20Army%20officer.md) | Detail of Army officer. |
+| [273\.](%C2%A7%2000273%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93317%2C%20%C2%A72%288%29%2C%20Dec.%2027%2C%202022%2C%20136%20Stat.%204419.md) | Repealed. |
 | [274\.](%C2%A7%2000274%20-%20Employment%20of%20Indian%20girls%20and%20boys%20as%20assistants.md) | Employment of Indian girls and boys as assistants. |
 | [275\.](%C2%A7%2000275%20-%20Leaves%20of%20absence%20to%20employees.md) | Leaves of absence to employees. |
 | [276\.](%C2%A7%2000276%20-%20Vacant%20military%20posts%20or%20barracks%20for%20schools%3B%20detail%20of%20Army%20officers.md) | Vacant military posts or barracks for schools; detail of Army officers. |
@@ -17,9 +17,7 @@
 | [280a.](%C2%A7%2000280a%20-%20Land%20in%20Alaska%20for%20schools%20or%20missions%3B%20general%20land%20laws.md) | Land in Alaska for schools or missions; general land laws. |
 | [281\.](%C2%A7%2000281%20-%20Children%20taking%20lands%20in%20severalty%20not%20excluded.md) | Children taking lands in severalty not excluded. |
 | [282\.](%C2%A7%2000282%20-%20Regulations%20by%20Secretary%20of%20the%20Interior%20to%20secure%20attendance%20at%20school.md) | Regulations by Secretary of the Interior to secure attendance at school. |
-| [283\.](%C2%A7%2000283%20-%20Regulations%20for%20withholding%20rations%20for%20nonattendance%20at%20schools.md) | Regulations for withholding rations for nonattendance at schools. |
-| [284\.](%C2%A7%2000284%20-%20Omitted.md) | Omitted. |
-| [285\.](%C2%A7%2000285%20-%20Withholding%20annuities%20from%20Osage%20Indians%20for%20nonattendance%20at%20schools.md) | Withholding annuities from Osage Indians for nonattendance at schools. |
+| 283 to 285. | Repealed or Omitted. |
 | [286\.](%C2%A7%2000286%20-%20Sending%20child%20to%20school%20out%20of%20State%20without%20consent.md) | Sending child to school out of State without consent. |
 | [287\.](%C2%A7%2000287%20-%20Taking%20child%20to%20school%20in%20another%20State%20without%20written%20consent.md) | Taking child to school in another State without written consent. |
 | 288, 289. | Repealed. |
@@ -35,9 +33,7 @@
 | [293b.](%C2%A7%2000293b%20-%20Conveyance%20of%20abandoned%20school%20properties%20in%20Alaska%20to%20local%20town%20or%20city%20officials%20or%20school%20authorities%3B%20reservation%20of%20rights%20and%E2%80%A6.md) | Conveyance of abandoned school properties in Alaska to local town or city officials or school authorities; reservation of rights and claims by United States and use conditions; violations and forfeiture of grant; determinations; reversion to United States. |
 | [294\.](%C2%A7%2000294%20-%20Sale%20of%20certain%20abandoned%20buildings%20on%20lands%20belonging%20to%20Indian%20tribes.md) | Sale of certain abandoned buildings on lands belonging to Indian tribes. |
 | [295\.](%C2%A7%2000295%20-%20Supervision%20of%20expenditure%20of%20appropriations%20for%20school%20purposes.md) | Supervision of expenditure of appropriations for school purposes. |
-| 296 to 301. Repealed or Omitted. |  |
-| [302\.](%C2%A7%2000302%20-%20Indian%20Reform%20School%3B%20rules%20and%20regulations%3B%20consent%20of%20parents%20to%20placing%20youth%20in%20reform%20school.md) | Indian Reform School; rules and regulations; consent of parents to placing youth in reform school. |
-| [303\.](%C2%A7%2000303%20-%20Omitted.md) | Omitted. |
+| 296 to 303. Repealed or Omitted. |  |
 | [304\.](%C2%A7%2000304%20-%20South%20Dakota%20Indians%3B%20State%20course%20of%20study.md) | South Dakota Indians; State course of study. |
 | [304a.](%C2%A7%2000304a%20-%20Study%20and%20investigation%20of%20Indian%20education%20in%20United%20States%20and%20Alaska%3B%20contracts%3B%20report%20to%20Congress%3B%20appropriations.md) | Study and investigation of Indian education in United States and Alaska; contracts; report to Congress; appropriations. |
 | [304b.](%C2%A7%2000304b%20-%20Deposits%20of%20funds%20of%20students%20and%20student%20activity%20associations%20in%20Indian%20schools.md) | Deposits of funds of students and student activity associations in Indian schools. |
@@ -52,7 +48,7 @@
 - [&sect; 00271 - Employment of instructors for Indians](%C2%A7%2000271%20-%20Employment%20of%20instructors%20for%20Indians.md)
 - [&sect; 00272 - Superintendent of Indian schools](%C2%A7%2000272%20-%20Superintendent%20of%20Indian%20schools.md)
 - [&sect; 00272a - Other duties](%C2%A7%2000272a%20-%20Other%20duties.md)
-- [&sect; 00273 - Detail of Army officer](%C2%A7%2000273%20-%20Detail%20of%20Army%20officer.md)
+- [&sect; 00273 - Repealed. Pub. L. 117&#8211;317, &sect;2(8), Dec. 27, 2022, 136 Stat. 4419](%C2%A7%2000273%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93317%2C%20%C2%A72%288%29%2C%20Dec.%2027%2C%202022%2C%20136%20Stat.%204419.md)
 - [&sect; 00274 - Employment of Indian girls and boys as assistants](%C2%A7%2000274%20-%20Employment%20of%20Indian%20girls%20and%20boys%20as%20assistants.md)
 - [&sect; 00275 - Leaves of absence to employees](%C2%A7%2000275%20-%20Leaves%20of%20absence%20to%20employees.md)
 - [&sect; 00276 - Vacant military posts or barracks for schools; detail of Army officers](%C2%A7%2000276%20-%20Vacant%20military%20posts%20or%20barracks%20for%20schools%3B%20detail%20of%20Army%20officers.md)
@@ -64,9 +60,9 @@
 - [&sect; 00280a - Land in Alaska for schools or missions; general land laws](%C2%A7%2000280a%20-%20Land%20in%20Alaska%20for%20schools%20or%20missions%3B%20general%20land%20laws.md)
 - [&sect; 00281 - Children taking lands in severalty not excluded](%C2%A7%2000281%20-%20Children%20taking%20lands%20in%20severalty%20not%20excluded.md)
 - [&sect; 00282 - Regulations by Secretary of the Interior to secure attendance at school](%C2%A7%2000282%20-%20Regulations%20by%20Secretary%20of%20the%20Interior%20to%20secure%20attendance%20at%20school.md)
-- [&sect; 00283 - Regulations for withholding rations for nonattendance at schools](%C2%A7%2000283%20-%20Regulations%20for%20withholding%20rations%20for%20nonattendance%20at%20schools.md)
+- [&sect; 00283 - Repealed. Pub. L. 117&#8211;317, &sect;2(9), Dec. 27, 2022, 136 Stat. 4419](%C2%A7%2000283%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93317%2C%20%C2%A72%289%29%2C%20Dec.%2027%2C%202022%2C%20136%20Stat.%204419.md)
 - [&sect; 00284 - Omitted](%C2%A7%2000284%20-%20Omitted.md)
-- [&sect; 00285 - Withholding annuities from Osage Indians for nonattendance at schools](%C2%A7%2000285%20-%20Withholding%20annuities%20from%20Osage%20Indians%20for%20nonattendance%20at%20schools.md)
+- [&sect; 00285 - Repealed. Pub. L. 117&#8211;317, &sect;2(10), Dec. 27, 2022, 136 Stat. 4419](%C2%A7%2000285%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93317%2C%20%C2%A72%2810%29%2C%20Dec.%2027%2C%202022%2C%20136%20Stat.%204419.md)
 - [&sect; 00286 - Sending child to school out of State without consent](%C2%A7%2000286%20-%20Sending%20child%20to%20school%20out%20of%20State%20without%20consent.md)
 - [&sect; 00287 - Taking child to school in another State without written consent](%C2%A7%2000287%20-%20Taking%20child%20to%20school%20in%20another%20State%20without%20written%20consent.md)
 - [&sect; 00288, 289 - Repealed. Pub. L. 99&#8211;228, &sect;3(1), (2), Dec. 28, 1985, 99 Stat. 1748](%C2%A7%2000288%2C%20289%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93228%2C%20%C2%A73%281%29%2C%20%282%29%2C%20Dec.%2028%2C%201985%2C%2099%20Stat.%201748.md)
@@ -86,7 +82,7 @@
 - [&sect; 00297 - Repealed. Pub. L. 99&#8211;228, &sect;3(3), Dec. 28, 1985, 99 Stat. 1748](%C2%A7%2000297%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93228%2C%20%C2%A73%283%29%2C%20Dec.%2028%2C%201985%2C%2099%20Stat.%201748.md)
 - [&sect; 00298 - Omitted](%C2%A7%2000298%20-%20Omitted.md)
 - [&sect; 00299 to 301 - Repealed. May 29, 1928, ch. 901, &sect;1, 45 Stat. 990, 991](%C2%A7%2000299%20to%20301%20-%20Repealed.%20May%2029%2C%201928%2C%20ch.%20901%2C%20%C2%A71%2C%2045%20Stat.%20990%2C%20991.md)
-- [&sect; 00302 - Indian Reform School; rules and regulations; consent of parents to placing youth in reform school](%C2%A7%2000302%20-%20Indian%20Reform%20School%3B%20rules%20and%20regulations%3B%20consent%20of%20parents%20to%20placing%20youth%20in%20reform%20school.md)
+- [&sect; 00302 - Repealed. Pub. L. 117&#8211;317, &sect;2(11), Dec. 27, 2022, 136 Stat. 4420](%C2%A7%2000302%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93317%2C%20%C2%A72%2811%29%2C%20Dec.%2027%2C%202022%2C%20136%20Stat.%204420.md)
 - [&sect; 00303 - Omitted](%C2%A7%2000303%20-%20Omitted.md)
 - [&sect; 00304 - South Dakota Indians; State course of study](%C2%A7%2000304%20-%20South%20Dakota%20Indians%3B%20State%20course%20of%20study.md)
 - [&sect; 00304a - Study and investigation of Indian education in United States and Alaska; contracts; report to Congress; appropriations](%C2%A7%2000304a%20-%20Study%20and%20investigation%20of%20Indian%20education%20in%20United%20States%20and%20Alaska%3B%20contracts%3B%20report%20to%20Congress%3B%20appropriations.md)

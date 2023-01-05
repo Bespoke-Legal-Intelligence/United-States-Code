@@ -20,13 +20,13 @@ The Director may not, with respect to any program under this subchapter authoriz
 
 #### (2) Corresponding reduction in funds
 
-&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of the financial assistance involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Director. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of the financial assistance involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by theDirector. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 #### (d) Applicability of certain provisions with respect to contracts
 
 Contracts may be entered into under this part without regard to section 3324(a) and (b) of title 31 and section 6101 of title 41.
 
-(July 1, 1944, ch. 373, title IX, §945, formerly §925, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1668; renumbered §935, Pub. L. 109–41,§2(a)(3), July 29, 2005, 119 Stat. 424; renumbered §945, Pub. L. 111–148, title III, §3013(a)(2), Mar. 23, 2010, 124 Stat. 381.)
+(July 1, 1944, ch. 373, title IX, §945, formerly §925, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1668; renumbered §935, Pub. L. 109–41, §2(a)(3), July 29, 2005, 119 Stat. 424; renumbered §945, Pub. L. 111–148, title III, §3013(a)(2), Mar. 23, 2010, 124 Stat. 381.)
 
 #### <b>Editorial Notes</b>
 

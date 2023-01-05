@@ -100,7 +100,7 @@ Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L
 
 #### North Pacific and Bering Sea Fisheries Advisory Body
 
-Pub. L. 100–629, §5, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 114–327, title I, §121(a), Dec. 16, 2016, 130 Stat. 1984, provided that:
+Pub. L. 100–629, §5, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 114–327, title I, §121(a), Dec. 16, 2016, 130 Stat. 1984; Pub. L. 117–286, §4(a)(115), Dec. 27, 2022, 136 Stat. 4318, provided that:
 
 "(a)
 
@@ -132,7 +132,11 @@ Pay.—Members of the advisory body established pursuant to this section shall r
 
 "(d)
 
-Exemption From Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) shall not apply to an advisory body established pursuant to this section.
+Exemption From Chapter 10
+
+of Title 5
+
+, United States Code.—Chapter 10 of title 5, United StatesCode, shall not apply to an advisory body established pursuant to this section.
 
 "(e)
 
@@ -190,7 +194,7 @@ Pub. L. 96–561, title I, §145, title II, §238(b), Dec. 22, 1980, 94 Stat. 32
 
 #### Extension of International Fishery Agreements
 
-Pub. L. 100–66, §1, July 10, 1987, 101 Stat. 384, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of the Republic of Korea on July 26, 1982, was to remain in force and effect with respect to the United States until the closing date of the sixty-day period referred to in subsec. (a) of this section that applied with respect to any new governing international fishery agreement between the United States and the Republic of Korea that was transmitted to the Congress under subsec. (a) of this section after May 1, 1987, or Nov. 1, 1987, whichever was earlier.
+Pub. L. 100–66, §1, July 10, 1987, 101 Stat. 384, provided that the governing international fishery agreement entered into between the Government of the UnitedStates and the Government of the Republic of Korea on July 26, 1982, was to remain in force and effect with respect to the United States until the closing date of the sixty-day period referred to in subsec. (a) of this section that applied with respect to any new governing international fishery agreement between the United States and the Republic of Korea that was transmitted to the Congress under subsec. (a) of this section after May 1, 1987, or Nov. 1, 1987, whichever was earlier.
 
 Pub. L. 98–364, title I, §106, July 17, 1984, 98 Stat. 442, provided that upon certification by Secretary of State to President of the Senate and Speaker of the House of Representatives that a new governing international fishery agreement in conformity with this chapter had been negotiated by the United States and the European Economic Community, the existing governing international fishery agreement referred to in section 2(a)(7) of Pub. L. 95–6, formerly set out below, could be extended or reinstated and could be in force and effect with respect to the United States, for the period of time ending on the earlier of (1) the effective date of the new governing international fishery agreement, or (2) Sept. 30, 1984.
 

@@ -20,7 +20,7 @@ Subject to subsection (b), not later than 90 days after the President decides to
 
 #### (A) Description
 
-&emsp;&emsp;An evaluation, in consultation with the Secretary of State, the Ambassador at Large, the Commission, the Special Adviser, the parties described in section 6443(c) and (d) of this title, and whoever else the President deems appropriate, of—
+&emsp;&emsp;An evaluation, in consultation with the Secretary of State, the Ambassador at Large, the Commission, the Special Adviser,the parties described in section 6443(c) and (d) of this title, and whoever else the President deems appropriate, of—
 
 &emsp;&emsp;&emsp;(i) the impact upon the foreign government;
 

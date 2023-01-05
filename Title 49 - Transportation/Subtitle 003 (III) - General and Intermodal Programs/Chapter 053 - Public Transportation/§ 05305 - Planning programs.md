@@ -26,7 +26,7 @@ Eligible activities.—Activities eligible under paragraph (1) include the follo
 
 &emsp;&emsp;(B) Evaluating previously financed projects.
 
-&emsp;&emsp;(C) Peer reviews and exchanges of technical data, information, assistance, and related activities in support of planning and environmental analyses among metropolitanplanning organizations and other transportation planners.
+&emsp;&emsp;(C) Peer reviews and exchanges of technical data, information, assistance, and related activities in support of planning and environmental analyses among metropolitan planning organizations and other transportation planners.
 
 &emsp;&emsp;(D) Other similar and related activities preliminary to and in preparation for constructing, acquiring, or improving the operation of facilities and equipment.
 
@@ -146,7 +146,7 @@ Allocation of Funds.—Of the funds made available by or appropriated to carry o
 
 Availability of Funds.—Funds apportioned under this section to a State that have not been obligated in the 3-year period beginning after the last day of the fiscal year for which the funds are authorized shall be reapportioned among the States.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 794; Pub. L. 105–178, title III, §3006, June 9, 1998, 112Stat. 346; Pub. L. 105–206, title IX, §9009(d), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3007(a), Aug. 10, 2005, 119 Stat. 1566; Pub. L. 111–147, title IV, §431, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2301, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §301, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §131, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §301, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §301, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20030(a), div. G, title III, §113001, July 6, 2012, 126 Stat. 730, 983; Pub. L. 117–58, div. C, §30004, Nov. 15, 2021, 135 Stat. 893.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 794; Pub. L. 105–178, title III, §3006, June 9, 1998, 112 Stat. 346; Pub. L. 105–206, title IX, §9009(d), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3007(a), Aug. 10, 2005, 119 Stat. 1566; Pub. L. 111–147, title IV, §431, Mar. 18, 2010, 124 Stat. 88; Pub. L. 111–322, title II, §2301, Dec. 22, 2010, 124 Stat. 3526; Pub. L. 112–5, title III, §301, Mar. 4, 2011, 125 Stat. 18; Pub. L. 112–30, title I, §131, Sept. 16, 2011, 125 Stat. 350; Pub. L. 112–102, title III, §301, Mar. 30, 2012, 126 Stat. 275; Pub. L. 112–140, title III, §301, June 29, 2012, 126 Stat. 396; Pub. L. 112–141, div. B, §20030(a), div. G, title III, §113001, July 6, 2012, 126 Stat. 730, 983; Pub. L. 117–58, div. C, §30004, Nov. 15, 2021, 135 Stat. 893.)
 
 Historical and Revision Notes
 
@@ -240,7 +240,7 @@ Subsec. (h). Pub. L. 105–178, §3006(f), added subsec. (h).
 
 Amendment by section 20030(a) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under section 101 of Title 23, Highways.
 
-Pub. L. 112–141, div. G, title IV, §114001, July 6, 2012, 126 Stat. 988, provided that: "This division \[amending this section and sections 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of this title, enacting provisions set out as anote under section 101 of Title 23, Highways, and amending provisions set out as notes under sections 5309, 5310, 5338, 14710, and 31100 of this title\] and the amendments made by this division shall take effect on July 1, 2012."
+Pub. L. 112–141, div. G, title IV, §114001, July 6, 2012, 126 Stat. 988, provided that: "This division \[amending this section and sections 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of this title, enacting provisions set out as a note under section 101 of Title 23, Highways, and amending provisions set out as notes under sections 5309, 5310, 5338, 14710, and 31100 of this title\] and the amendments made by this division shall take effect on July 1, 2012."
 
 Amendment by Pub. L. 112–140 to cease to be effective on July 6, 2012, with text as amended by Pub. L. 112–140 to revert back to read as it did on the day before June 29, 2012, and amendments by Pub. L. 112–141 to be executed as if Pub. L. 112–140 had not been enacted, see section 1(c) of Pub. L. 112–140, set out as a note under section 101 of Title 23, Highways.
 

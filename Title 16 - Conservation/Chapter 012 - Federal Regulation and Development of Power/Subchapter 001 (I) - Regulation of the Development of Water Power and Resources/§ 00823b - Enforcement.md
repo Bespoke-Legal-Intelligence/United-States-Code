@@ -12,7 +12,7 @@ After notice and opportunity for an evidentiary hearing, the Commission may also
 
 &emsp;(2) to have been given reasonable time to comply fully with such order prior to commencing any revocation proceeding.
 
-> In any such proceeding, the order issued under subsection (a) shall be subject to de novo review by the Commission. No order shall be issued under this subsection until after the Commission has taken into consideration the nature and seriousness of the violation and the efforts of the licensee to remedy the violation.
+> In any such proceeding, the order issued under subsection (a) shall be subject to de novo reviewby the Commission. No order shall be issued under this subsection until after the Commission has taken into consideration the nature and seriousness of the violation and the efforts of the licensee to remedy the violation.
 
 #### (c) Civil penalty
 
@@ -46,7 +46,7 @@ Any licensee, permittee, or exemptee who violates or fails or refuses to comply 
 
 #### Effective Date
 
-Section applicable to licenses, permits, and exemptions without regard to when issued, see section 18 ofPub. L. 99–495, set out as an Effective Date of 1986 Amendment note under section 797 of this title.
+Section applicable to licenses, permits, and exemptions without regard to when issued, see section 18 of Pub. L. 99–495, set out as an Effective Date of 1986 Amendment note under section 797 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

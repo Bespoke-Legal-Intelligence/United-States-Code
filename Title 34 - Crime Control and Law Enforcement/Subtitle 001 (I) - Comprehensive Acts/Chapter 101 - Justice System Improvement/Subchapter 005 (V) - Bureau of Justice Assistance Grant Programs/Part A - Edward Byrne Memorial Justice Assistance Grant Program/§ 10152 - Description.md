@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From amounts made available to carry out this part, the Attorney General may, in accordance with the formula established under section 10156 of this title, make grants to States and units of local government, for use by the State or unit of local government to provide additional personnel, equipment, supplies, contractual support, training, technical assistance, and information systems for criminal justice, including for any one or more of the following programs:
+&emsp;From amounts made available to carry out this part, the Attorney General may, in accordance with the formula established under section 10156 of this title, make grants to States and units of local government, for use by the State or unit of local government to provide additional personnel, equipment, supplies, contractual support, training, technical assistance, and information systems for criminal justice or civil proceedings, including for any one or more of the following programs:
 
 &emsp;&emsp;(A) Law enforcement programs.
 
@@ -21,6 +21,24 @@
 &emsp;&emsp;(G) Crime victim and witness programs (other than compensation).
 
 &emsp;&emsp;(H) Mental health programs and related law enforcement and corrections programs, including behavioral programs and crisis intervention teams.
+
+&emsp;&emsp;(I) Implementation of State crisis intervention court proceedings and related programs or initiatives, including but not limited to—
+
+&emsp;&emsp;&emsp;(i) mental health courts;
+
+&emsp;&emsp;&emsp;(ii) drug courts;
+
+&emsp;&emsp;&emsp;(iii) veterans courts; and
+
+&emsp;&emsp;&emsp;(iv) extreme risk protection order programs, which must include, at a minimum—
+
+&emsp;&emsp;&emsp;&emsp;(I) pre-deprivation and post-deprivation due process rights that prevent any violation or infringement of the Constitution of the United States, including but not limited to the Bill of Rights, and the substantive or procedural due process rights guaranteed under the Fifth and Fourteenth Amendments to the Constitution of the United States, as applied to the States, and as interpreted by State courts and United States courts (including the Supreme Court of the United States). Such programs must include, at the appropriate phase to prevent any violation of constitutional rights, at minimum, notice, the right to an in-person hearing, an unbiased adjudicator, the right to know opposing evidence, the right to present evidence, and the right to confront adverse witnesses;
+
+&emsp;&emsp;&emsp;&emsp;(II) the right to be represented by counsel at no expense to the government;
+
+&emsp;&emsp;&emsp;&emsp;(III) pre-deprivation and post-deprivation heightened evidentiary standards and proof which mean not less than the protections afforded to a similarly situated litigant in Federal court or promulgated by the State's evidentiary body, and sufficient to ensure the full protections of the Constitution of the United States, including but not limited to the Bill of Rights, and the substantive and procedural due process rights guaranteed under the Fifth and Fourteenth Amendments to the Constitution of the United States, as applied to the States, and as interpreted by State courts and United States courts (including the Supreme Court of the United States). The heightened evidentiary standards and proof under such programs must, at all appropriate phases to prevent any violation of any constitutional right, at minimum, prevent reliance upon evidence that is unsworn or unaffirmed, irrelevant, based on inadmissible hearsay, unreliable, vague, speculative, and lacking a foundation; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) penalties for abuse of the program.
 
 #### (2) Rule of construction
 
@@ -70,7 +88,19 @@ The period of a grant made under this part shall be four years, except that rene
 
 Subparagraph (d)(1) shall not be construed to prohibit the use, directly or indirectly, of funds provided under this part to provide security at a public event, such as a political convention or major sports event, so long as such security is provided under applicable laws and procedures.
 
-(Pub. L. 90–351, title I, §501, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119Stat. 3095; amended Pub. L. 109–271, §8(h), Aug. 12, 2006, 120 Stat. 767; Pub. L. 114–255, div. B, title XIV, §14001(a), Dec. 13, 2016, 130 Stat. 1287.)
+#### (h) Annual report on crisis intervention programs
+
+The Attorney General shall publish an annual report with respect to grants awarded for crisis intervention programs or initiatives under subsection (a)(1)(I) that contains—
+
+&emsp;(1) a description of the grants awarded and the crisis intervention programs or initiatives funded by the grants, broken down by grant recipient;
+
+&emsp;(2) an evaluation of the effectiveness of the crisis intervention programs or initiatives in preventing violence and suicide;
+
+&emsp;(3) measures that have been taken by each grant recipient to safeguard the constitutional rights of an individual subject to a crisis intervention program or initiative; and
+
+&emsp;(4) efforts that the Attorney General is making, in coordination with the grant recipients, to protect the constitutional rights of individuals subject to the crisis intervention programs or initiatives.
+
+(Pub. L. 90–351, title I, §501, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3095; amended Pub. L. 109–271, §8(h), Aug. 12, 2006, 120 Stat. 767; Pub. L. 114–255, div. B, title XIV, §14001(a), Dec. 13, 2016, 130 Stat. 1287; Pub. L. 117–159, div. A, title II, §12003, June 25, 2022, 136 Stat. 1325.)
 
 #### <b>Editorial Notes</b>
 
@@ -94,6 +124,12 @@ Another prior section 501 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–159, §12003(a)(1), inserted "or civil proceedings" after "criminal justice" in introductory provisions.
+
+Subsec. (a)(1)(I). Pub. L. 117–159, §12003(a)(2), added subpar. (I).
+
+Subsec. (h). Pub. L. 117–159, §12003(b), added subsec. (h).
+
 <b>2016</b>—Subsec. (a)(1)(H). Pub. L. 114–255 added subpar. (H).
 
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–271 struck out par. (3) which read as follows: "tribal governments."
@@ -102,5 +138,5 @@ Another prior section 501 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 
 #### Effective Date
 
-Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10151 of this title.
+Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal yearthereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under section 10151 of this title.
 

@@ -12,7 +12,7 @@ In order to strengthen the participation of the rural and urban poor in their co
 
 #### (3) Infrastructure
 
-&emsp;The support of rural electric and telecommunication cooperatives for access forrural people and villages that lack reliable electric and telecommunications services.
+&emsp;The support of rural electric and telecommunication cooperatives for access for rural people and villages that lack reliable electric and telecommunications services.
 
 #### (4) Housing and community services
 
@@ -24,7 +24,7 @@ In order to strengthen the participation of the rural and urban poor in their co
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 

@@ -20,7 +20,7 @@
 
 (C) Upon receipt of a report submitted under subparagraph (A), each House shall provide copies of the report to the chairman and ranking member of each standing committee with jurisdiction under the rules of the House of Representatives or the Senate to report a bill to amend the provision of law under which the rule is issued.
 
-(2)(A) The Comptroller General shall provide a report on each major rule to the committees ofjurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section 802(b)(2). The report of the Comptroller General shall include an assessment of the agency's compliance with procedural steps required by paragraph (1)(B).
+(2)(A) The Comptroller General shall provide a report on each major rule to the committees of jurisdiction in each House of the Congress by the end of 15 calendar days after the submission or publication date as provided in section 802(b)(2). The report of the Comptroller General shall include an assessment of the agency's compliance with procedural steps required by paragraph (1)(B).
 
 (B) Federal agencies shall cooperate with the Comptroller General by providing information relevant to the Comptroller General's report under subparagraph (A).
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) in the case of the House of Representatives, 60 legislative days,
 
-> before the date the Congress adjourns a session of Congress through the date on which the same or succeeding Congress first convenes its next session, section 802 shall apply to such rule in the succeeding session of Congress.
+> before the date the Congress adjourns a session of Congress through the date on which the sameor succeeding Congress first convenes its next session, section 802 shall apply to such rule in the succeeding session of Congress.
 
 (2)(A) In applying section 802 for purposes of such additional review, a rule described under paragraph (1) shall be treated as though—
 
@@ -174,7 +174,7 @@ Independent evaluation.—The independent evaluation of the economically signifi
 
 &emsp;&emsp;"(B) an evaluation of the agency's analysis of the potential costs of the rule, including any adverse effects that cannot be quantified in monetary terms and the identification of the persons or entities likely to bear the costs;
 
-&emsp;&emsp;"(C) an evaluation of the agency's analysis of alternative approaches set forth in the notice of proposed rulemaking and in the rulemaking record, as well as of any regulatory impact analysis, federalism assessment, or other analysis or assessment prepared by the agency or required for the economically significant rule; and
+&emsp;&emsp;"(C) an evaluation of the agency's analysis of alternative approaches set forth in the notice of proposed rulemaking and in the rulemaking record, as well as of any regulatory impact analysis, federalism assessment, or other analysis or assessmentprepared by the agency or required for the economically significant rule; and
 
 &emsp;&emsp;"(D) a summary of the results of the evaluation of the Comptroller General and the implications of those results.
 

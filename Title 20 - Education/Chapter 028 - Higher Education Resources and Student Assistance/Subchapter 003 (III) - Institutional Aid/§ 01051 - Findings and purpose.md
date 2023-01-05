@@ -56,7 +56,7 @@ Section 1056, Pub. L. 89–329, title III, §306, as added Pub L. 90–575, titl
 
 Subsec. (a)(2). Pub. L. 102–325, §301(2), struck out "recruitment activities," after "long-range planning,".
 
-Subsec. (a)(5). Pub. L. 102–325, §301(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "providing a minimum level of assistance to all categories of eligible institutions will assure the continued participation of the institutions in the program established in this subchapter and enhance their role in providing access and quality education to low-income and minority students;".
+Subsec. (a)(5). Pub. L. 102–325, §301(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "providing a minimum level of assistance to all categories of eligible institutions will assure the continued participation of the institutions in the programestablished in this subchapter and enhance their role in providing access and quality education to low-income and minority students;".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

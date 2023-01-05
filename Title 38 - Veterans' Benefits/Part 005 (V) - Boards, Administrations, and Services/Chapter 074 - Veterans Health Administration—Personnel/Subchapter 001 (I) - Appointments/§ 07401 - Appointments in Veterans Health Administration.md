@@ -6,7 +6,7 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 &emsp;(2) Scientific and professional personnel, such as microbiologists, chemists, and biostatisticians.
 
-&emsp;(3) Audiologists, licensed hearing aid specialists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, and such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
+&emsp;(3) Audiologists, licensed hearing aid specialists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists,pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, statisticians, economists, informaticists, data scientists, and and <sup>1</sup> such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
 
 &emsp;&emsp;(A) Such other classes of health care occupations—
 
@@ -24,7 +24,7 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 &emsp;(4) Directors of medical centers and directors of Veterans Integrated Service Networks with demonstrated ability in the medical profession, in health care administration, or in health care fiscal management.
 
-(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, §601(a), May 5, 2010, 124 Stat. 1167; Pub. L. 114–58, title VI, §601(23), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–256, §4(a)(1), Dec. 14, 2016, 130 Stat. 1347; Pub. L. 115–41, title II, §207(a), June 23, 2017, 131 Stat. 877.)
+(Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 108–170, title III, §§301(a)(1), 302(a), Dec. 6, 2003, 117 Stat. 2054, 2057; Pub. L. 108–422, title V, §502, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–461, title II, §201(a), Dec. 22, 2006, 120 Stat. 3409; Pub. L. 111–163, title VI, §601(a), May 5, 2010, 124 Stat. 1167; Pub. L. 114–58, title VI, §601(23), Sept. 30, 2015, 129 Stat. 539; Pub. L. 114–256, §4(a)(1), Dec. 14, 2016, 130 Stat. 1347; Pub. L. 115–41, title II, §207(a), June 23, 2017, 131 Stat. 877; Pub. L. 117–328, div. U, title I, §183, Dec. 29, 2022, 136 Stat. 5436.)
 
 #### <b>Editorial Notes</b>
 
@@ -33,6 +33,8 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 Provisions similar to those in this section were contained in section 4104 of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+
+<b>2022</b>—Par. (3). Pub. L. 117–328 inserted "statisticians, economists, informaticists, data scientists, and" after "blind rehabilitation outpatient specialists," in introductory provisions.
 
 <b>2017</b>—Par. (4). Pub. L. 115–41 added par. (4).
 
@@ -62,6 +64,234 @@ Par. (3). Pub. L. 108–170, §301(a)(1)(B), added par. (3) and struck out forme
 
 Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
 
+#### Third Party Review of Appointees in Veterans Health Administration Who Had a License Terminated for Cause and Notice to Individuals Treated by Those Appointees if Determined That an Episode of Care or Services That They Received Was Below the Standard of Care
+
+Pub. L. 117–328, div. U, title I, §111, Dec. 29, 2022, 136 Stat. 5410, provided that:
+
+"(a)
+
+Third Party Review.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs shall enter into a contract or other agreement with an organization that is not part of the Federal Government to conduct a clinical review for quality management of hospital care or medical services furnished by covered providers.
+
+&emsp;"(2)
+
+Qualifications.—The Secretary shall ensure that each review of a covered provider under this subsection is performed by an individual who is licensed in the same specialty as the covered provider.
+
+"(b)
+
+Notice to Patients Treated by Covered Providers.—With respect to hospital care or medical services furnished by a covered provider under the laws administered by the Secretary, if a clinical review for quality management under subsection (a) determines that the standard of care was not met during an episode of care, the Secretary shall notify the individual who received such care or services from the covered provider as described in applicable policy of the Veterans Heath Administration.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered provider.—The term 'covered provider' means an individual who—
+
+&emsp;&emsp;"(A) was appointed to the Veterans Health Administration under section 7401 of title 38, United States Code; and
+
+&emsp;&emsp;"(B) before such appointment, had a license terminated for cause by a State licensing board for hospital care or medical services provided in a facility that is not a facility of the Veterans Health Administration.
+
+&emsp;"(2)
+
+Hospital care or medical services.—The terms 'hospital care' and 'medical services' have the meanings given those terms in section 1701 of title 38, United States Code."
+
+#### Modification of Resource Allocation System To Include Peer Specialists
+
+Pub. L. 117–328, div. U, title I, §192, Dec. 29, 2022, 136 Stat. 5439, provided that:
+
+"(a)
+
+In General.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs shall modify the Veterans Equitable Resource Allocation system, or successor system, to ensure that resource allocations under such system, or successor system, include peer specialists appointed under section 7402(b)(13) of title 38, United States Code.
+
+"(b)
+
+Veterans Equitable Resource Allocation System Defined.—In this section, the term 'Veterans Equitable Resource Allocation system' means the resource allocation system established pursuant to section 429 of the Departments of Veterans Affairs and House and Urban Development, and Independent Agencies Appropriations Act, 1997 \[probably means section 429 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997, which is not classified to the Code\] (Public Law 104–204; 110 Stat. 2929)."
+
+#### Expansion of Mental Health Training for Department of Veterans Affairs
+
+Pub. L. 117–328, div. V, title I, §103, Dec. 29, 2022, 136 Stat. 5500, provided that:
+
+"(a)
+
+In General.—Not later than three years after the date of the enactment of this Act \[Dec. 29, 2022\] and subject to the availability of appropriations, the Secretary of Veterans Affairs, in collaboration with the Office of Mental Health and Suicide Prevention and the Office of Academic Affiliations, shall add an additional 250 paid trainee slots in covered mental health disciplines to the workforce of the Department of Veterans Affairs.
+
+"(b)
+
+Covered Mental Health Disciplines Defined.—In this section, the term 'covered mental health disciplines' means psychiatry, psychology, advanced practice nursing (with a focus on mental health or substance use disorder), social work, licensed professional mental health counseling, and marriage and family therapy."
+
+#### Outreach
+
+Pub. L. 117–328, div. V, title I, §104(c), Dec. 29, 2022, 136 Stat. 5501, provided that:
+
+"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary shall develop a public awareness campaign to encourage veterans and mental health professionals to choose the Department for their mental health career.
+
+"(2)
+
+Elements.—The campaign required under paragraph (1)—
+
+&emsp;"(A) shall advertise the paid trainee, scholarship, and loan repayment opportunities offered by the Department; and
+
+&emsp;"(B) may highlight the new graduate medical education residencies available at the Department for medical students entering residency."
+
+#### National Rural Recruitment and Hiring Plan for Veterans Health Administration
+
+Pub. L. 117–168, title IX, §901, Aug. 10, 2022, 136 Stat. 1808, provided that:
+
+"(a)
+
+In General.—Not later than 18 months after the date of the enactment of this Act \[Aug. 10, 2022\], the Secretary of Veterans Affairs, in collaboration with the directors of each community-based outpatient clinic and medical center of the Department of Veterans Affairs, shall develop and implement a national rural recruitment and hiring plan for the Veterans Health Administration to—
+
+&emsp;"(1) recruit health care professionals for rural and highly rural community-based outpatient clinics and rural and highly rural medical centers of the Department;
+
+&emsp;"(2) determine which such clinics or centers have a staffing shortage of health care professionals;
+
+&emsp;"(3) develop best practices and techniques for recruiting health care professionals for such clinics and centers;
+
+&emsp;"(4) not less frequently than annually, provide virtually based, on-demand training to human resources professionals of the Veterans Health Administration on the best practices and techniques developed under paragraph (3); and
+
+&emsp;"(5) provide recruitment resources, such as pamphlets and marketing material to—
+
+&emsp;&emsp;"(A) Veterans Integrated Service Networks of the Department;
+
+&emsp;&emsp;"(B) rural and highly rural community-based outpatient clinics of the Department; and
+
+&emsp;&emsp;"(C) rural and highly rural medical centers of the Department.
+
+"(b)
+
+Annual Report.—Not later than 18 months after the date of the enactment of this Act, and annually thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report that includes—
+
+&emsp;"(1) the plan developed and implemented under subsection (a); and
+
+&emsp;"(2) an assessment of the outcomes related to recruitment and retention of employees of the Veterans Health Administration at rural and highly rural facilities of the Department.
+
+"(c)
+
+Definitions.—In this section, the terms 'rural' and 'highly rural' have the meanings given those terms under the rural-urban commuting areas coding system of the Department of Agriculture."
+
+#### Authority To Buy Out Service Contracts for Certain Health Care Professionals in Exchange for Employment at Rural or Highly Rural Facilities of Department of Veterans Affairs
+
+Pub. L. 117–168, title IX, §902, Aug. 10, 2022, 136 Stat. 1808, provided that:
+
+"(a)
+
+In General.—For any covered health care professional to whom the Secretary of Veterans Affairs has offered employment with the Department of Veterans Affairs, the Secretary may buy out the non-Department service contract of such individual in exchange for such individual agreeing to be employed at a rural or highly rural facility of the Department for a period of obligated service specified in subsection (c).
+
+"(b)
+
+Payment of Amounts.—
+
+&emsp;"(1)
+
+In general.—Payment of any amounts for a buy out of a service contract for a covered healthcare professional under subsection (a) shall be made directly to the individual or entity with respect to which the covered health care professional has a service obligation under such contract.
+
+&emsp;"(2)
+
+Limitation on total amount.—The total amount paid by the Department under this section shall not exceed $40,000,000 per fiscal year.
+
+"(c)
+
+Obligated Service.—In exchange for a contract buy out under subsection (a), a covered health care professional shall agree to be employed for not less than four years at a rural or highly rural facility of the Department.
+
+"(d)
+
+Liability.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), if a covered health care professional fails for any reason to complete the period of obligated service of the individual under subsection (c), the United States shall be entitled to recover from the individual an amount equal to—
+
+&emsp;&emsp;"(A) the total amount paid under subsection (a) to buy out the non-Department service contract of the individual; multiplied by
+
+&emsp;&emsp;"(B) a fraction—
+
+&emsp;&emsp;&emsp;"(i) the numerator of which is—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the total number of months in the period of obligated service of the individual; minus
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the number of months served by the individual; and
+
+&emsp;&emsp;&emsp;"(ii) the denominator of which is the total number of months in the period of obligated service of the individual.
+
+&emsp;"(2)
+
+Exception.—Liability shall not arise under paragraph (1) in the case of an individual covered by that paragraph if the individual does not obtain, or fails to maintain, employment as an employee of the Department due to staffing changes approved by the Under Secretary for Health.
+
+"(e)
+
+Annual Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 18 months after the date of the enactment of this Act \[Aug. 10, 2022\], and not less frequently than annually thereafter, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the use by the Secretary of the authority under this section.
+
+&emsp;"(2)
+
+Elements.—Each report required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) The number of health care professionals for whom a service contract buyout payment was made under subsection (a) in the previous fiscal year, disaggregated by occupation or specialty.
+
+&emsp;&emsp;"(B) The average, highest, and lowest amount of the service contract buyout payments made under subsection (a) for each occupation or specialty in the previous fiscal year.
+
+&emsp;&emsp;"(C) Each location where contract buyout authority under subsection (a) was utilized and the number of covered health care professionals who agreed to be employed at such location in the previous fiscal year.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered health care professional.—The term 'covered health care professional' means a physician, nurse anesthetist, physician assistant, or nurse practitioner offered employment with the Department regardless of the authority under which such employment is offered.
+
+&emsp;"(2)
+
+Rural; highly rural.—The terms 'rural' and 'highly rural' have the meanings given those terms under the rural-urban commuting areas coding system of the Department of Agriculture.
+
+"(g)
+
+Sunset.—This section shall terminate on September 30, 2027."
+
+#### Qualifications for Human Resources Positions Within Department of Veterans Affairs and Plan To Recruit and Retain Human Resources Employees
+
+Pub. L. 117–168, title IX, §903, Aug. 10, 2022, 136 Stat. 1810, provided that:
+
+"(a)
+
+Establishment of Qualifications.—Not later than 180 days after the date of the enactment of this Act \[Aug. 10, 2022\], the Secretary of Veterans Affairs shall—
+
+&emsp;"(1) establish qualifications for each human resources position within the Department of Veterans Affairs in coordination with the Office of Personnel Management;
+
+&emsp;"(2) establish standardized performance metrics for each such position; and
+
+&emsp;"(3) submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report containing the qualifications and standardized performance metrics established under paragraphs (1) and (2).
+
+"(b)
+
+Improvement of Human Resources Actions.—Not later than 90 days after the date of the enactment of this Act, the Secretary shall establish or enhance systems of the Department to monitor the hiring and other human resources actions that occur at the local, regional, and national levels of the Department to improve the performance of those actions.
+
+"(c)
+
+Report.—Not later than one year after the establishment of the qualifications and performance metrics under subsection (a), the Comptroller General of the United States shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report containing—
+
+&emsp;"(1) a description of the implementation of such qualifications and performance metrics;
+
+&emsp;"(2) an assessment of the quality of such qualifications and performance metrics;
+
+&emsp;"(3) an assessment of performance and outcomes based on such metrics; and
+
+&emsp;"(4) such other matters as the Comptroller General considers appropriate.
+
+"(d)
+
+Plan to Recruit and Retain Human Resources Employees.—Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a plan for the recruitment and retention of human resources employees within the Department of Veterans Affairs."
+
 #### Emergency Department of Veterans Affairs Employee Leave Fund
 
 Pub. L. 117–2, title VIII, §8008, Mar. 11, 2021, 135 Stat. 116, provided that:
@@ -82,7 +312,7 @@ Purpose.—Amounts in the Fund shall be available for payment to the Department 
 
 &emsp;"(4) is experiencing symptoms of COVID–19 and seeking a medical diagnosis;
 
-&emsp;"(5) is caring for a son or daughter of such employee if the school or place of care of the son or daughter has been closed, if the school of such son ordaughter requires or makes optional a virtual learning instruction model or requires or makes optional a hybrid of in-person and virtual learning instruction models, or the child care provider of such son or daughter is unavailable, due to COVID–19 precautions;
+&emsp;"(5) is caring for a son or daughter of such employee if the school or place of care of the son or daughter has been closed, if the school of such son or daughter requires or makes optional a virtual learning instruction model or requires or makes optional a hybrid of in-person and virtual learning instruction models, or the child care provider of such son ordaughter is unavailable, due to COVID–19 precautions;
 
 &emsp;"(6) is experiencing any other substantially similar condition;
 
@@ -326,7 +556,7 @@ Pub. L. 115–46, title II, §210, Aug. 12, 2017, 131 Stat. 965, provided that:
 
 "(a)
 
-Plan.—Not later than 120 days after the date of the enactment of this Act \[Aug. 12, 2017\], the Secretary of Veterans Affairs shall develop and implement a planto hire highly qualified directors for each medical center of the Department of Veterans Affairs that lacks a permanent director as of the date of the plan.
+Plan.—Not later than 120 days after the date of the enactment of this Act \[Aug. 12, 2017\], the Secretary of Veterans Affairs shall develop and implement a plan to hire highly qualified directors for each medical center of the Department of Veterans Affairs that lacks a permanent director as of the date of the plan.
 
 "(b)
 
@@ -371,4 +601,6 @@ Consultation.—In determining the qualifications required for hearing aid speci
 #### Prior Appointments of Certain Personnel
 
 Pub. L. 108–170, title III, §301(a)(2), Dec. 6, 2003, 117 Stat. 2055, provided that: "Personnel appointed to the Veterans Health Administration before the date of the enactment of this Act \[Dec. 6, 2003\] who are in an occupational category of employees specified in paragraph (3) of section 7401 of title 38, United States Code, by reason of the amendment made by paragraph (1)(B) of this subsection \[amending this section\] shall, as of such date, be deemed to have been appointed to the Administration under such paragraph (3)."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

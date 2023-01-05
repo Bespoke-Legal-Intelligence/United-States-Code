@@ -38,7 +38,7 @@
 
 (B) The Assistant Secretary may approve any application transmitted by a State under subparagraph (A) if the Assistant Secretary determines, based upon a particularized showing of need, that—
 
-&emsp;(i) the State will be unable to fully and effectively administer its State plan and to carry out programs and projects authorized by this subchapter unless such additional amounts are made available by the Assistant Secretary;
+&emsp;(i) the State will be unable to fully and effectively administer its State plan and to carry out programs and projects authorized by this subchapter unless such additionalamounts are made available by the Assistant Secretary;
 
 &emsp;(ii) the State is making full and effective use of its allotment under paragraph (1) and of the personnel of the State agency and area agencies designated under section 3025(a)(2)(A) of this title in the administration of its State plan in accordance with subsection (a); and
 
@@ -94,7 +94,7 @@
 
 &emsp;&emsp;&emsp;(II) part C, including the effect on the number of meals served.
 
-(8) The Assistant Secretary shall review the reports submitted under section 3027(a)(30) of this title and include aggregate data in the report required by section 3018(a) of this title, including data on—
+(8) The Assistant Secretary shall review the reports submitted under section 3027(a)(30) ofthis title and include aggregate data in the report required by section 3018(a) of this title, including data on—
 
 &emsp;(A) the effectiveness of the programs, policies, and services provided by area agencies on aging in assisting older individuals whose needs were the focus of all centers funded under subchapter IV in fiscal year 2019; and
 

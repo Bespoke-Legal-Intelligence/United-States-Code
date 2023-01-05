@@ -52,7 +52,7 @@ Quarterly reports.—The Board shall post a quarterly report of formal and infor
 
 &emsp;(3)
 
-Written consent.—The quarterly report may identify a complainant that submitted aninformal complaint only upon the written consent of the complainant.
+Written consent.—The quarterly report may identify a complainant that submitted an informal complaint only upon the written consent of the complainant.
 
 &emsp;(4)
 

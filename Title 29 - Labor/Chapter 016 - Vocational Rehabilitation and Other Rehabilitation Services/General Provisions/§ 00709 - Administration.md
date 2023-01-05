@@ -4,7 +4,7 @@
 
 In carrying out the purposes of this chapter, the Commissioner may—
 
-&emsp;(1)(A) provide consultative services and technical assistance to public or nonprofit private agencies and organizations, including assistance to enable such agencies and organizations to facilitate meaningful and effective participation by individuals with disabilities in workforce investment activities;
+&emsp;(1)(A) provide consultative services and technical assistance to public or nonprofit privateagencies and organizations, including assistance to enable such agencies and organizations to facilitate meaningful and effective participation by individuals with disabilities in workforce investment activities;
 
 &emsp;(B) provide technical assistance to the designated State units on developing successful partnerships with local and multi-State businesses in an effort to increase the employment of individuals with disabilities;
 
@@ -24,7 +24,7 @@ In carrying out the purposes of this chapter, the Commissioner may—
 
 (1) In carrying out the duties under this chapter, the Commissioner may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organization, in accordance with agreements between the Commissioner and the head thereof, and may pay therefor, in advance or by way of reimbursement, as may be provided in the agreement.
 
-(2) In carrying out the provisions of this chapter, the Commissioner shall appoint such task forces as may be necessary to collect and disseminate information in order to improve theability of the Commissioner to carry out the provisions of this chapter.
+(2) In carrying out the provisions of this chapter, the Commissioner shall appoint such task forces as may be necessary to collect and disseminate information in order to improve the ability of the Commissioner to carry out the provisions of this chapter.
 
 #### (c) Regulations to carry out this chapter
 

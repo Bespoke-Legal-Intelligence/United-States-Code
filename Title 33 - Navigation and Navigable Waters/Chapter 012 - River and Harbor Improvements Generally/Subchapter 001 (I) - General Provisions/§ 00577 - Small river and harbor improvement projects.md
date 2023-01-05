@@ -2,7 +2,7 @@
 
 #### (a) Allotment from appropriations for construction
 
-The Secretary of the Army is authorized to allot from any appropriations hereafter made for rivers and harbors not to exceed $62,500,000 for any one fiscal year for the construction of small river and harbor improvement projects not specifically authorized by Congress which will result in substantial benefits to navigationand which can be operated consistently with appropriate and economic use of the waters of the Nation for other purposes, when in the opinion of the Chief of Engineers such work is advisable, if benefits are in excess of the cost.
+The Secretary of the Army is authorized to allot from any appropriations hereafter made for rivers and harbors not to exceed $62,500,000 for any one fiscal year for the construction of small river and harbor improvement projects not specifically authorized by Congress which will result in substantial benefits to navigation and which can be operated consistently with appropriate and economic use of the waters of the Nation for other purposes, when in the opinion of the Chief of Engineers such work is advisable, if benefits are in excess of the cost.
 
 #### (b) Limitation on allotment
 
@@ -10,7 +10,7 @@ Not more than $10,000,000 shall be allotted for the construction of a project un
 
 #### (c) Lands, easements, and rights-of-way; indemnification; assurances of local cooperation
 
-Local interests shall provide without cost to the United States all necessary lands, easements and rights-of-way for all projects to be constructed under the authority of this section. In addition, local interests may be required to hold and save the United States free from damages that may result from the construction and maintenance of the project and may be required to provide such additional local cooperation as the Chief of Engineers deems appropriate. A State, county, municipality or other responsible local entity shall give assurance satisfactory to the Chief of Engineers that such conditions of cooperation as are required will be accomplished.
+Local interests shall provide without cost to the United States all necessary lands, easementsand rights-of-way for all projects to be constructed under the authority of this section. In addition, local interests may be required to hold and save the United States free from damages that may result from the construction and maintenance of the project and may be required to provide such additional local cooperation as the Chief of Engineers deems appropriate. A State, county, municipality or other responsible local entity shall give assurance satisfactory to the Chief of Engineers that such conditions of cooperation as are required will be accomplished.
 
 #### (d) Sharing of costs by non-Federal interests
 

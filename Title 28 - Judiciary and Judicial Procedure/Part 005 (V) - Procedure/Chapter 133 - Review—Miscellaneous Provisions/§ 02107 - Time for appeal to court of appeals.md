@@ -12,7 +12,7 @@
 
 &emsp;(4) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States, including all instances in which the United States represents that officer or employee when the judgment, order, or decree is entered or files the appeal for that officer or employee.
 
-(c) The district court may, upon motion filed not later than 30 days after the expiration of the time otherwise set for bringing appeal, extend the time for appeal upon a showing of excusableneglect or good cause. In addition, if the district court finds—
+(c) The district court may, upon motion filed not later than 30 days after the expiration of the time otherwise set for bringing appeal, extend the time for appeal upon a showing of excusable neglect or good cause. In addition, if the district court finds—
 
 &emsp;(1) that a party entitled to notice of the entry of a judgment or order did not receive such notice from the clerk or any party within 21 days of its entry, and
 
@@ -28,7 +28,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§227a, 230, and section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1891, ch. 517, §11, 26 Stat. 829; Mar. 3, 1911, ch. 231, §129, 36 Stat. 1134; Feb. 13, 1925, ch. 229, §8(c), 43 Stat. 940; Feb. 28, 1927, ch. 228, 44 Stat. 1261; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; Feb. 10, 1939, ch. 2, §1142, 53 Stat. 165; Oct. 21, 1942, ch. 619, title V, §504(a), (c), 56 Stat. 957).
+Based on title 28, U.S.C., 1940 ed., §§227a, 230, and section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1891, ch. 517, §11, 26 Stat. 829; Mar. 3, 1911, ch. 231, §129, 36 Stat. 1134; Feb. 13, 1925, ch. 229, §8(c), 43Stat. 940; Feb. 28, 1927, ch. 228, 44 Stat. 1261; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; Feb. 10, 1939, ch. 2, §1142, 53 Stat. 165; Oct. 21, 1942, ch. 619, title V, §504(a), (c), 56 Stat. 957).
 
 Section consolidates sections 227a and 230 of title 28, U.S.C., 1940 ed., with section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code. Other provisions of such section 227a are incorporated in section 1292 of this title.
 

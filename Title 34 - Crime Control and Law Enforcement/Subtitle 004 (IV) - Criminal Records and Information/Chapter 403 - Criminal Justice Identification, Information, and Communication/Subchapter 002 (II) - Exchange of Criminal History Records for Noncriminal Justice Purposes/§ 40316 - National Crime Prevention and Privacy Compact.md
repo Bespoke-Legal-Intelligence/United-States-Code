@@ -38,7 +38,7 @@ In this Compact:
 
 &emsp;&emsp;(A) means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and
 
-&emsp;&emsp;(B) does not include identification information such as fingerprint records if such information does not indicate involvement of the individual with the criminal justice system.
+&emsp;&emsp;(B) does not include identification information such as fingerprint records if suchinformation does not indicate involvement of the individual with the criminal justice system.
 
 #### (5) Criminal history record repository
 
@@ -70,7 +70,7 @@ In this Compact:
 
 #### (9) Criterion offense
 
-&emsp;The term "criterion offense" means any felony or misdemeanor offense not included onthe list of nonserious offenses published periodically by the FBI.
+&emsp;The term "criterion offense" means any felony or misdemeanor offense not included on the list of nonserious offenses published periodically by the FBI.
 
 #### (10) Direct access
 
@@ -150,7 +150,7 @@ The purposes of this Compact are to—
 
 &emsp;(4) provide for the establishment of a Council to monitor III System operations and to prescribe system rules and procedures for the effective and proper operation of the III System for noncriminal justice purposes; and
 
-&emsp;(5) require the FBI and each Party State to adhere to III System standards concerningrecord dissemination and use, response times, system security, data quality, and other duly established standards, including those that enhance the accuracy and privacy of such records.
+&emsp;(5) require the FBI and each Party State to adhere to III System standards concerning record dissemination and use, response times, system security, data quality, and other duly established standards, including those that enhance the accuracy and privacy of such records.
 
 ### ARTICLE III—RESPONSIBILITIES OF COMPACT PARTIES
 
@@ -304,7 +304,7 @@ The Council shall be composed of 15 members, each of whom shall be appointed by 
 
 #### (1) In general
 
-&emsp;From its membership, the Council shall elect a Chairman and a Vice Chairman of theCouncil, respectively. Both the Chairman and Vice Chairman of the Council—
+&emsp;From its membership, the Council shall elect a Chairman and a Vice Chairman of the Council, respectively. Both the Chairman and Vice Chairman of the Council—
 
 &emsp;&emsp;(A) shall be a Compact officer, unless there is no Compact officer on the Council who is willing to serve, in which case the Chairman may be an at-large member; and
 
@@ -344,7 +344,7 @@ This Compact shall take effect upon being entered into by 2 or more States as be
 
 #### (a) Relation of Compact to certain FBI activities
 
-Administration of this Compact shall not interfere with the management and control of the Director of the FBI over the FBI's collection and dissemination of criminal history records and the advisory function of the FBI's advisory policy board chartered under the Federal Advisory Committee Act (5 U.S.C. App.) for all purposes other than noncriminal justice.
+Administration of this Compact shall not interfere with the management and control of the Director of the FBI over the FBI's collection and dissemination of criminal history records and the advisory function of the FBI's advisory policy board chartered under chapter 10 of title 5 for all purposes other than noncriminal justice.
 
 #### (b) No authority for nonappropriated expenditures
 
@@ -396,21 +396,23 @@ The FBI shall exercise immediate and necessary action to preserve the integrity 
 
 The FBI or a Party State may appeal any decision of the Council to the Attorney General, and thereafter may file suit in the appropriate district court of the United States, which shall have original jurisdiction of all cases or controversies arising under this Compact. Any suit arising under this Compact and initiated in a State court shall be removed to the appropriate district court of the United States in the manner provided by section 1446 of title 28, United States Code, or other statutory authority.
 
-(Pub. L. 105–251, title II, §217, Oct. 9, 1998, 112 Stat. 1876.)
+(Pub. L. 105–251, title II, §217, Oct. 9, 1998, 112 Stat. 1876; Pub. L. 117–286, §4(a)(214), Dec. 27, 2022, 136 Stat. 4329.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Privacy Act of 1974, referred to in Article IV(a), (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
+The Privacy Act of 1974, referred to in Art. IV(a), (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
 
-The Federal Advisory Committee Act, referred to in Article VIII(a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in Article VIII(c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. For complete classification of this Act to the Code, see Tables.
+The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in Art. VIII(c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 Section was formerly classified to section 14616 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>2022</b>—Art. VIII(a). Pub. L. 117–286 substituted "chapter 10 of title 5" for "the Federal Advisory Committee Act (5 U.S.C. App.)".
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Interstate Identification Index System".</i>
 

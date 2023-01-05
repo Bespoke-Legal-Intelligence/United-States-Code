@@ -36,9 +36,9 @@ Any recommendations made by the Commission to the Secretary and other Federal of
 
 #### References in Text
 
-The Whaling Convention Act of 1949, referred to in subsec. (a)(1), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, as amended, which is classified generally to subchapter II (§916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
+The Whaling Convention Act of 1949, referred to in subsec. (a)(1), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, which is classified generally to subchapter II (§916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
 
-The Fur Seal Act of 1966, referred to in subsec. (a)(1), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, as amended, which is classified generally to chapter 24 (§1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of this title and Tables.
+The Fur Seal Act of 1966, referred to in subsec. (a)(1), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, which is classified generally to chapter 24 (§1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1151 of this title and Tables.
 
 Section 1404 of this title, referred to in subsec. (b), was omitted from the Code.
 
@@ -46,7 +46,7 @@ Section 1404 of this title, referred to in subsec. (b), was omitted from the Cod
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–711 inserted ", public display, or enhancing the survival or recovery of a species or stock" after "scientific research".
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–58 substituted "provide each annual report required under section 1404 of this title, before submission to Congress, to the Secretaryfor comment" for "furnish its reports and recommendations to him, before publication, for his comment".
+<b>1981</b>—Subsec. (b). Pub. L. 97–58 substituted "provide each annual report required under section 1404 of this title, before submission to Congress, to the Secretary for comment" for "furnish its reports and recommendations to him, before publication, for his comment".
 
 <b>1973</b>—Subsec. (a)(6). Pub. L. 93–205 substituted "such revisions of the endangered species list and threatened species list published pursuant to section 1533(c)(1) of this title" for "of the Interior such revisions of the Endangered Species List, authorized by the Endangered Species Conservation Act of 1969,".
 

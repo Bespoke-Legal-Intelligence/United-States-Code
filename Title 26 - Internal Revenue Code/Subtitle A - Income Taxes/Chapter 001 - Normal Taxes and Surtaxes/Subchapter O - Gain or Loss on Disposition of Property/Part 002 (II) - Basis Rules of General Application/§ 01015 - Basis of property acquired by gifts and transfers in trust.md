@@ -20,7 +20,7 @@ If the property was acquired by gift or transfer in trust on or before December 
 
 &emsp;&emsp;(A) the property is acquired by gift on or after September 2, 1958, the basis shall be the basis determined under subsection (a), increased (but not above the fair market value of the property at the time of the gift) by the amount of gift tax paid with respect to such gift, or
 
-&emsp;&emsp;(B) the property was acquired by gift before September 2, 1958, and has not been sold, exchanged, or otherwise disposed of before such date, the basis of the property shall be increased on such date by the amount of gift tax paid with respect to such gift, but such increase shall not exceed an amount equal to the amount by which the fair market value of the property at the time of the gift exceeded the basis of the property in the hands of the donor at the time of the gift.
+&emsp;&emsp;(B) the property was acquired by gift before September 2, 1958, and has not been sold,exchanged, or otherwise disposed of before such date, the basis of the property shall be increased on such date by the amount of gift tax paid with respect to such gift, but such increase shall not exceed an amount equal to the amount by which the fair market value of the property at the time of the gift exceeded the basis of the property in the hands of the donor at the time of the gift.
 
 #### (2) Amount of tax paid with respect to gift
 
@@ -56,7 +56,7 @@ If the property was acquired by gift or transfer in trust on or before December 
 
 In the case of any property acquired by gift in a transfer described in section 1041(a), the basis of such property in the hands of the transferee shall be determined under section 1041(b)(2) and not this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 298; Pub. L. 85–866, title I, §43(a), Sept. 2, 1958, 72 Stat. 1640;Pub. L. 91–614, title I, §102(d)(1), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §§1901(a)(122), 1906(b) (13)(A), title XX, §2005(c), Oct. 4, 1976, 90 Stat. 1784, 1834, 1877; Pub. L. 97–34, title IV, §442(d)(1), Aug. 13, 1981, 95 Stat. 322; Pub. L. 98–369, div. A, title IV, §421(b)(5), July 18, 1984, 98 Stat. 794.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 298; Pub. L. 85–866, title I, §43(a), Sept. 2, 1958, 72 Stat. 1640; Pub. L. 91–614, title I, §102(d)(1), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §§1901(a)(122), 1906(b) (13)(A), title XX, §2005(c), Oct. 4, 1976, 90 Stat. 1784, 1834, 1877; Pub. L. 97–34, title IV, §442(d)(1), Aug. 13, 1981, 95 Stat. 322; Pub. L. 98–369, div. A, title IV, §421(b)(5), July 18, 1984, 98 Stat. 794.)
 
 #### <b>Editorial Notes</b>
 
@@ -64,7 +64,7 @@ In the case of any property acquired by gift in a transfer described in section 
 
 Section 2521, referred to in subsec. (d)(2), was repealed by Pub. L. 94–455, title XX, §2001(b)(3), Oct. 4, 1976, 90 Stat. 1849.
 
-The Internal Revenue Code of 1939, referred to in subsec. (d)(5), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
+The Internal Revenue Code of 1939, referred to in subsec. (d)(5), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
 #### <b>Editorial Notes</b>
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(122) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(122) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Pub. L. 94–455, title XX, §2005(f), Oct. 4, 1976, 90 Stat. 1878, as amended by Pub. L. 95–600, title V, §515(6), Nov. 6, 1978, 92 Stat. 2884, provided that:
 

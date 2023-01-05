@@ -208,7 +208,7 @@ Within 10 years after the date the Commission first issues additional licenses f
 
 &emsp;(M) W24AJ, Aurora, Illinois.
 
-(3) Notwithstanding any requirement of section 553 of title 5, the Commission shall promulgate regulations establishing the procedures, consistent with the requirements of paragraphs (4) and (5), governing the pilot projects for the provision of digital data services by certain low power television licensees within 120 days after the date of enactment of LPTV Digital Data Services Act.<sup>1</sup> The regulations shall set forth—
+(3) Notwithstanding any requirement of section 553 of title 5, the Commission shall promulgate regulations establishing the procedures,consistent with the requirements of paragraphs (4) and (5), governing the pilot projects for the provision of digital data services by certain low power television licensees within 120 days after the date of enactment of LPTV Digital Data Services Act.<sup>1</sup> The regulations shall set forth—
 
 &emsp;(A) requirements as to the form, manner, and information required for submitting requests to the Commission to provide digital data service as a pilot project;
 
@@ -306,6 +306,84 @@ This chapter, referred to in subsec. (h)(6), was in the original "this Act", mea
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Low Power Protection
+
+Pub. L. 117–344, Jan. 5, 2023, 136 Stat. 6193, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Low Power Protection Act'.
+
+#### "SEC. 2. LOW POWER TV STATIONS.
+
+"(a)
+
+Definitions.—In this section—
+
+&emsp;"(1) the term 'Commission' means the Federal Communications Commission;
+
+&emsp;"(2) the term 'Designated Market Area' means—
+
+&emsp;&emsp;"(A) a Designated Market Area determined by Nielsen Media Research or any successor entity; or
+
+&emsp;&emsp;"(B) a Designated Market Area under a system of dividing television broadcast station licensees into local markets using a system that the Commission determines is equivalent to the system established by Nielsen Media Research; and
+
+&emsp;"(3) the term 'low power TV station' has the meaning given the term 'digital low power TV station' in section 74.701 of title 47, Code of Federal Regulations, or any successor regulation.
+
+"(b)
+
+Purpose.—The purpose of this section is to provide low power TV stations with a limited window of opportunity to apply for the opportunity to be accorded primary status as Class A television licensees.
+
+"(c)
+
+Rulemaking.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of enactment of this Act \[Jan. 5, 2023\], the Commission shall issue a notice of proposed rulemaking to issue a rule that contains the requirements described in this subsection.
+
+&emsp;"(2)
+
+Requirements.—
+
+&emsp;&emsp;"(A)
+
+In general.—The rule with respect to which the Commission is required to issue notice under paragraph (1) shall provide that, during the 1-year period beginning on the date on which that rule takes effect, a low power TV station may apply to the Commission to be accorded primary status as a Class A television licensee under section 73.6001 of title 47, Code of Federal Regulations, or any successor regulation.
+
+&emsp;&emsp;"(B)
+
+Considerations.—The Commission may approve an application submitted under subparagraph (A) if the low power TV station submitting the application—
+
+&emsp;&emsp;&emsp;"(i) satisfies—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) section 336(f)(2) of the Communications Act of 1934 (47 U.S.C. 336(f)(2)) and the rules issued under that section, including the requirements under such section 336(f)(2) with respect to locally produced programming, except that, for the purposes of this subclause, the period described in the matter preceding subclause (I) of subparagraph (A)(i) of such section 336(f)(2) shall be construed to be the 90-day period preceding the date of enactment of this Act; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) paragraphs (b), (c), and (d) of 73.6001 of title 47, Code of Federal Regulations, or any successor regulation;
+
+&emsp;&emsp;&emsp;"(ii) demonstrates to the Commission that the Class A station for which the license is sought will not cause any interference described in section 336(f)(7) of the Communications Act of 1934 (47 U.S.C. 336(f)(7)); and
+
+&emsp;&emsp;&emsp;"(iii) as of the date of enactment of this Act, operates in a Designated Market Area with not more than 95,000 television households.
+
+&emsp;"(3)
+
+Applicability of license.—A license that accords primary status as a Class A television licensee to a low power TV station as a result of the rule with respect to which the Commission is required to issue notice under paragraph (1) shall—
+
+&emsp;&emsp;"(A) be subject to the same license terms and renewal standards as a license for a full power television broadcast station, except as otherwise expressly provided in this subsection; and
+
+&emsp;&emsp;"(B) require the low power TV station to remain in compliance with paragraph (2)(B) during the term of the license.
+
+"(d)
+
+Reporting.—Not later than 1 year after the date of enactment of this Act \[Jan. 5, 2023\], the Commission shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report regarding the implementation of this section, which shall include—
+
+&emsp;"(1) a list of the current, as of the date on which the report is submitted, licensees that have been accorded primary status as Class A television licensees; and
+
+&emsp;"(2) of the licensees described in paragraph (1), an identification of each such licensee that has been accorded the status described in that paragraph because of the implementation of this section.
+
+"(e)
+
+Rule of Construction.—Nothing in this section may be construed to affect a decision of the Commission relating to completion of the transition, relocation, or reimbursement of entities as a result of the systems of competitive bidding conducted pursuant to title VI of the Middle Class Tax Relief and Job Creation Act of 2012 \[Pub. L. 112–96\] (47 U.S.C. 1401 et seq.), and the amendments made by that title \[enacting section 929 of this title and amending sections 309, 337, 614, 902, 923, 928, and 942 of this title\], that are collectively commonly referred to as the 'Television Broadcast Incentive Auction'."
+
 #### Transition to Digital Television
 
 Pub. L. 107–188, title V, §531, June 12, 2002, 116 Stat. 695, provided that:
@@ -368,7 +446,7 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5008(b)\], Nov. 29, 1999, 1
 
 #### Executive Order No. 13038
 
-Ex. Ord. No. 13038, Mar. 11, 1997, 62 F.R. 12065, as amended by Ex. Ord. No. 13062, §5, Sept. 29, 1997, 62 F.R. 51756; Ex. Ord. No. 13065, Oct. 22, 1997, 62 F.R. 55329; Ex. Ord. No. 13081, Apr. 30, 1998, 63 F.R. 24385; Ex. Ord. No. 13102, Sept. 25, 1998, 63 F.R. 52125, which established the Advisory Committee on the Public Interest Obligations of Digital Television Broadcasters, was revoked by Ex. Ord. No. 13138, §3(b), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13038, Mar. 11, 1997, 62 F.R. 12065, as amended by Ex. Ord. No. 13062, §5, Sept. 29, 1997, 62 F.R. 51756; Ex. Ord. No. 13065, Oct. 22, 1997, 62 F.R. 55329; Ex. Ord. No. 13081, Apr. 30, 1998, 63 F.R. 24385; Ex. Ord. No. 13102, Sept. 25, 1998, 63 F.R. 52125, which established the Advisory Committee on the Public Interest Obligations of Digital Television Broadcasters, was revoked by Ex. Ord. No. 13138, §3(b), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

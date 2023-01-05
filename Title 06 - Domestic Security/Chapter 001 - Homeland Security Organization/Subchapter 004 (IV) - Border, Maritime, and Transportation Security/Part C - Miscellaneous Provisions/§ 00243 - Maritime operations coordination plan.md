@@ -4,7 +4,7 @@
 
 Not later than 180 days after October 5, 2018, and biennially thereafter, the Secretary shall—
 
-&emsp;(1) update the Maritime Operations Coordination Plan, published by the Department onJuly 7, 2011, to strengthen coordination, planning, information sharing, and intelligence integration for maritime operations of components and offices of the Department with responsibility for maritime security missions; and
+&emsp;(1) update the Maritime Operations Coordination Plan, published by the Department on July 7, 2011, to strengthen coordination, planning, information sharing, and intelligence integration for maritime operations of components and offices of the Department with responsibility for maritime security missions; and
 
 &emsp;(2) submit each update to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives.
 
@@ -18,7 +18,7 @@ Each update shall address the following:
 
 &emsp;(3) Cooperating and coordinating with Federal departments and agencies, and State and local agencies, in the maritime environment, in support of maritime security missions.
 
-&emsp;(4) Highlighting the work completed within the context of other national and Department maritime security strategic guidance and how that work fits with the Maritime Operations Coordination Plan.
+&emsp;(4) Highlighting the work completed within the context of other national and Departmentmaritime security strategic guidance and how that work fits with the Maritime Operations Coordination Plan.
 
 (Pub. L. 107–296, title IV, §435, as added Pub. L. 115–254, div. J, §1807(a), Oct. 5, 2018, 132 Stat. 3536.)
 

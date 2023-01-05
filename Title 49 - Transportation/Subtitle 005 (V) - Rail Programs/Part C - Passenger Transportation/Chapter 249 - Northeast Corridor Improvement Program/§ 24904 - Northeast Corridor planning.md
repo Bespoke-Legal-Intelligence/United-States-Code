@@ -122,7 +122,7 @@ Features.—The system required under paragraph (1) shall develop submissions th
 
 (e)
 
-Definition of Northeast Corridor.—In this section, the term "Northeast Corridor"means the main line between Boston, Massachusetts, and the District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York, including the facilities and services used to operate and maintain those lines.
+Definition of Northeast Corridor.—In this section, the term "Northeast Corridor" means the main line between Boston, Massachusetts, and the District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York, including the facilities and services used to operate and maintain those lines.
 
 (Added Pub. L. 114–94, div. A, title XI, §11306(a)(2), Dec. 4, 2015, 129 Stat. 1658; amended Pub. L. 117–58, div. B, title II, §22301, Nov. 15, 2021, 135 Stat. 714.)
 

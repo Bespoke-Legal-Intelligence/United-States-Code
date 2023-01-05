@@ -12,7 +12,7 @@
 
 &emsp;&emsp;&emsp;(i) the claim is filed by a party that submitted a comment during the environmental review; and
 
-&emsp;&emsp;&emsp;(ii) any commenter filed a sufficiently detailed comment so as to put the lead agency on notice of the issue on which the party seeks judicial review, or the lead agency did not provide a reasonable opportunity for such a comment on that issue.
+&emsp;&emsp;&emsp;(ii) any commenter filed a sufficiently detailed comment so as to put the lead agency on notice of the issue on which the party seeks judicial review, or the leadagency did not provide a reasonable opportunity for such a comment on that issue.
 
 #### (2) New information
 
@@ -44,7 +44,7 @@ Except as provided in subsection (a), nothing in this subchapter affects the rev
 
 Nothing in this subchapter—
 
-&emsp;(1) supersedes, amends, or modifies any Federal statute or affects the responsibility ofany Federal officer to comply with or enforce any statute; or
+&emsp;(1) supersedes, amends, or modifies any Federal statute or affects the responsibility of any Federal officer to comply with or enforce any statute; or
 
 &emsp;(2) creates a presumption that a covered project will be approved or favorably reviewed by any agency.
 

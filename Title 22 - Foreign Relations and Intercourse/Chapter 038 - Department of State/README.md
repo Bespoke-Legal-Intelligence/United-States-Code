@@ -113,6 +113,9 @@
 | [2717\.](%C2%A7%2002717%20-%20Defense%20trade%20controls%20registration%20fees.md) | Defense trade controls registration fees. |
 | [2718\.](%C2%A7%2002718%20-%20Fees%20received%20for%20use%20of%20Blair%20House.md) | Fees received for use of Blair House. |
 | [2719\.](%C2%A7%2002719%20-%20Grants%20for%20training%20and%20education%20in%20international%20affairs.md) | Grants for training and education in international affairs. |
+| [2719a.](%C2%A7%2002719a%20-%20Foreign%20affairs%20training.md) | Foreign affairs training. |
+| [2719b.](%C2%A7%2002719b%20-%20Training%20and%20professional%20development%20prioritization.md) | Training and professional development prioritization. |
+| [2719c.](%C2%A7%2002719c%20-%20Facilitation%20and%20encouragement%20of%20training%20and%20professional%20development%20for%20Foreign%20Service%20and%20Civil%20Service%20personnel.md) | Facilitation and encouragement of training and professional development for Foreign Service and Civil Service personnel. |
 | [2720\.](%C2%A7%2002720%20-%20Closing%20of%20consular%20and%20diplomatic%20posts%20abroad.md) | Closing of consular and diplomatic posts abroad. |
 | [2721\.](%C2%A7%2002721%20-%20Impermissible%20basis%20for%20denial%20of%20passports.md) | Impermissible basis for denial of passports. |
 | [2722\.](%C2%A7%2002722%20-%20International%20meetings.md) | International meetings. |
@@ -136,6 +139,7 @@
 | [2734d.](%C2%A7%2002734d%20-%20Recruitment%20and%20retention%20of%20individuals%20who%20have%20lived%2C%20worked%2C%20or%20studied%20in%20predominantly%20Muslim%20countries%20or%20communities.md) | Recruitment and retention of individuals who have lived, worked, or studied in predominantly Muslim countries or communities. |
 | [2734e.](%C2%A7%2002734e%20-%20Annual%20Report.md) | Annual Report. |
 | [2734f.](%C2%A7%2002734f%20-%20Strategic%20staffing%20plan%20for%20the%20Department%20of%20State.md) | Strategic staffing plan for the Department of State. |
+| [2734g.](%C2%A7%2002734g%20-%20Promoting%20transparency%20and%20accountability%20in%20the%20Department%20of%20State%20workforce.md) | Promoting transparency and accountability in the Department of State workforce. |
 | [2735\.](%C2%A7%2002735%20-%20Foreign%20relations%20exchange%20programs.md) | Foreign relations exchange programs. |
 | [2736\.](%C2%A7%2002736%20-%20Exit%20interviews%20for%20workforce.md) | Exit interviews for workforce. |
 | [2736a.](%C2%A7%2002736a%20-%20Recruitment%20and%20retention.md) | Recruitment and retention. |
@@ -143,6 +147,7 @@
 | [2736c.](%C2%A7%2002736c%20-%20Professional%20development%20opportunities%20and%20tools.md) | Professional development opportunities and tools. |
 | [2736d.](%C2%A7%2002736d%20-%20Payne%20fellowship%20authorization.md) | Payne fellowship authorization. |
 | [2736e.](%C2%A7%2002736e%20-%20Voluntary%20participation.md) | Voluntary participation. |
+| [2737\.](%C2%A7%2002737%20-%20Department%20of%20State%20paid%20Student%20Internship%20Program.md) | Department of State paid Student Internship Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -263,6 +268,9 @@
 - [&sect; 02717 - Defense trade controls registration fees](%C2%A7%2002717%20-%20Defense%20trade%20controls%20registration%20fees.md)
 - [&sect; 02718 - Fees received for use of Blair House](%C2%A7%2002718%20-%20Fees%20received%20for%20use%20of%20Blair%20House.md)
 - [&sect; 02719 - Grants for training and education in international affairs](%C2%A7%2002719%20-%20Grants%20for%20training%20and%20education%20in%20international%20affairs.md)
+- [&sect; 02719a - Foreign affairs training](%C2%A7%2002719a%20-%20Foreign%20affairs%20training.md)
+- [&sect; 02719b - Training and professional development prioritization](%C2%A7%2002719b%20-%20Training%20and%20professional%20development%20prioritization.md)
+- [&sect; 02719c - Facilitation and encouragement of training and professional development for Foreign Service and Civil Service personnel](%C2%A7%2002719c%20-%20Facilitation%20and%20encouragement%20of%20training%20and%20professional%20development%20for%20Foreign%20Service%20and%20Civil%20Service%20personnel.md)
 - [&sect; 02720 - Closing of consular and diplomatic posts abroad](%C2%A7%2002720%20-%20Closing%20of%20consular%20and%20diplomatic%20posts%20abroad.md)
 - [&sect; 02721 - Impermissible basis for denial of passports](%C2%A7%2002721%20-%20Impermissible%20basis%20for%20denial%20of%20passports.md)
 - [&sect; 02722 - International meetings](%C2%A7%2002722%20-%20International%20meetings.md)
@@ -286,6 +294,7 @@
 - [&sect; 02734d - Recruitment and retention of individuals who have lived, worked, or studied in predominantly Muslim countries or communities](%C2%A7%2002734d%20-%20Recruitment%20and%20retention%20of%20individuals%20who%20have%20lived%2C%20worked%2C%20or%20studied%20in%20predominantly%20Muslim%20countries%20or%20communities.md)
 - [&sect; 02734e - Annual Report](%C2%A7%2002734e%20-%20Annual%20Report.md)
 - [&sect; 02734f - Strategic staffing plan for the Department of State](%C2%A7%2002734f%20-%20Strategic%20staffing%20plan%20for%20the%20Department%20of%20State.md)
+- [&sect; 02734g - Promoting transparency and accountability in the Department of State workforce](%C2%A7%2002734g%20-%20Promoting%20transparency%20and%20accountability%20in%20the%20Department%20of%20State%20workforce.md)
 - [&sect; 02735 - Foreign relations exchange programs](%C2%A7%2002735%20-%20Foreign%20relations%20exchange%20programs.md)
 - [&sect; 02736 - Exit interviews for workforce](%C2%A7%2002736%20-%20Exit%20interviews%20for%20workforce.md)
 - [&sect; 02736a - Recruitment and retention](%C2%A7%2002736a%20-%20Recruitment%20and%20retention.md)
@@ -293,3 +302,4 @@
 - [&sect; 02736c - Professional development opportunities and tools](%C2%A7%2002736c%20-%20Professional%20development%20opportunities%20and%20tools.md)
 - [&sect; 02736d - Payne fellowship authorization](%C2%A7%2002736d%20-%20Payne%20fellowship%20authorization.md)
 - [&sect; 02736e - Voluntary participation](%C2%A7%2002736e%20-%20Voluntary%20participation.md)
+- [&sect; 02737 - Department of State paid Student Internship Program](%C2%A7%2002737%20-%20Department%20of%20State%20paid%20Student%20Internship%20Program.md)

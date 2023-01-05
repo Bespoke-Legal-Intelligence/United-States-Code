@@ -18,7 +18,7 @@ Actions by Private Persons.—(1) A person may bring a civil action for a violat
 
 &emsp;(B) notify the court that it declines to take over the action, in which case the person bringing the action shall have the right to conduct the action.
 
-(5) When a person brings an action under this subsection, no person other than the Government may intervene or bring a related action based on the facts underlying the pending action.
+(5) When a person brings an action under this subsection, no person other than the Government may intervene or bring a related actionbased on the facts underlying the pending action.
 
 (c)
 
@@ -42,7 +42,7 @@ Rights of the Parties to Qui Tam Actions.—(1) If the Government proceeds with 
 
 (3) If the Government elects not to proceed with the action, the person who initiated the action shall have the right to conduct the action. If the Government so requests, it shall be served with copies of all pleadings filed in the action and shall be supplied with copies of all deposition transcripts (at the Government's expense). When a person proceeds with the action, the court, without limiting the status and rights of the person initiating the action, may nevertheless permit the Government to intervene at a later date upon a showing of good cause.
 
-(4) Whether or not the Government proceeds with the action, upon a showing by the Government that certain actions of discovery by the person initiating the action would interfere with the Government's investigation or prosecution of a criminal or civil matter arising out of the same facts, the court may stay such discovery for a period of not more than 60 days. Such a showing shall be conducted in camera. The court may extend the 60-day period upon a further showing in camera that the Government haspursued the criminal or civil investigation or proceedings with reasonable diligence and any proposed discovery in the civil action will interfere with the ongoing criminal or civil investigation or proceedings.
+(4) Whether or not the Government proceeds with the action, upon a showing by the Government that certain actions of discovery by the person initiating the action would interfere with the Government's investigation or prosecution of a criminal or civil matter arising out of the same facts, the court may stay such discovery for a period of not more than 60 days. Such a showing shall be conducted in camera. The court may extend the 60-day period upon a further showing in camera that the Government has pursued the criminal or civil investigation or proceedings with reasonable diligence and any proposed discovery in the civil action will interfere with the ongoing criminal or civil investigation or proceedings.
 
 (5) Notwithstanding subsection (b), the Government may elect to pursue its claim through any alternate remedy available to the Government, including any administrative proceeding to determine a civil money penalty. If any such alternate remedy is pursued in another proceeding, the person initiating the action shall have the same rights in such proceeding as such person would have had if the action had continued under this section. Any finding of fact or conclusion of law made in such other proceeding that has become final shall be conclusive on all parties to an action under this section. For purposes of the preceding sentence, a finding or conclusion is final if it has been finally determined on appeal to the appropriate court of the United States, if all time for filing such an appeal with respect to the finding or conclusion has expired, or if the finding or conclusion is not subject to judicial review.
 
@@ -62,7 +62,7 @@ Certain Actions Barred.—(1) No court shall have jurisdiction over an action br
 
 (2)(A) No court shall have jurisdiction over an action brought under subsection (b) against a Member of Congress, a member of the judiciary, or a senior executive branch official if the action is based on evidence or information known to the Government when the action was brought.
 
-(B) For purposes of this paragraph, "senior executive branch official" means any officer or employee listed in paragraphs (1) through (8) of section 101(f) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+(B) For purposes of this paragraph, "senior executive branch official" means any officer or employee listed in paragraphs (1) through (8) of section 13103(f) of title 5.
 
 (3) In no event may a person bring an action under subsection (b) which is based upon allegations or transactions which are the subject of a civil suit or an administrative civil money penalty proceeding in which the Government is already a party.
 
@@ -76,7 +76,7 @@ Certain Actions Barred.—(1) No court shall have jurisdiction over an action br
 
 > unless the action is brought by the Attorney General or the person bringing the action is an original source of the information.
 
-(B) For purposes of this paragraph, "original source" means an individual who either (i) prior to a public disclosure under subsection (e)(4)(a),has voluntarily disclosed to the Government the information on which allegations or transactions in a claim are based, or (2) who has <sup>3</sup> knowledge that is independent of and materially adds to the publicly disclosed allegations or transactions, and who has voluntarily provided the information to the Government before filing an action under this section.
+(B) For purposes of this paragraph, "original source" means an individual who either (i) prior to a public disclosure under subsection (e)(4)(a), has voluntarily disclosed to the Government the information on which allegations or transactions in a claim are based, or (2) who has <sup>3</sup> knowledge that is independent of and materially adds to the publicly disclosed allegations or transactions, and who has voluntarily provided the information to the Government before filing an action under this section.
 
 (f)
 
@@ -102,7 +102,7 @@ Relief.—Relief under paragraph (1) shall include reinstatement with the same s
 
 Limitation on bringing civil action.—A civil action under this subsection may not be brought more than 3 years after the date when the retaliation occurred.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 978; Pub. L. 99–562, §§3, 4, Oct. 27, 1986, 100 Stat. 3154, 3157; Pub. L. 100–700, §9, Nov. 19, 1988, 102 Stat. 4638; Pub. L. 101–280, §10(a), May 4, 1990, 104 Stat. 162; Pub. L. 103–272, §4(f)(1)(P), July 5, 1994, 108 Stat. 1362; Pub. L. 111–21, §4(d), May 20, 2009, 123 Stat. 1624; Pub. L. 111–148, title X, §10104(j)(2), Mar. 23, 2010, 124 Stat. 901; Pub. L. 111–203, title X, §1079A(c), July 21, 2010, 124 Stat. 2079.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 978; Pub. L. 99–562, §§3, 4, Oct. 27, 1986, 100 Stat. 3154, 3157; Pub. L. 100–700, §9, Nov. 19, 1988, 102 Stat. 4638; Pub. L. 101–280, §10(a), May 4, 1990, 104 Stat. 162; Pub. L. 103–272, §4(f)(1)(P), July 5, 1994, 108 Stat. 1362; Pub. L. 111–21, §4(d), May 20, 2009, 123 Stat. 1624; Pub. L. 111–148, title X, §10104(j)(2), Mar. 23, 2010, 124 Stat. 901; Pub. L. 111–203, title X, §1079A(c), July 21, 2010, 124 Stat. 2079; Pub. L. 117–286, §4(c)(36), Dec. 27, 2022, 136 Stat. 4358.)
 
 Historical and Revision Notes
 
@@ -158,7 +158,7 @@ In subsection (b)(2), before clause (A), the words "bill of", "Whenever any such
 
 In subsection (b)(3), the words "within said period" are omitted as surplus. The words "proceeds with the action" are substituted for "shall enter appearance in such suit" for consistency. The words "In carrying on such suit" and "and may proceed in all respects as if it were instituting the suit" are omitted as surplus.
 
-In subsection (b)(4), the words "Unless the Government proceeds with the action" are added because ofthe restatement. The words "shall dismiss an action brought by the person on discovering" are substituted for "shall have no jurisdiction to proceed with any such suit . . . or pending suit . . . whenever it shall be made to appear that" to eliminate unnecessary words. The words "or any agency, officer, or employee thereof" are omitted as unnecessary. The text of 31:232(C)(last sentence proviso) and (D) is omitted as executed.
+In subsection (b)(4), the words "Unless the Government proceeds with the action" are added because of the restatement. The words "shall dismiss an action brought by the person on discovering" are substituted for "shall have no jurisdiction to proceed with any such suit . . . or pending suit . . . whenever it shall be made to appear that" to eliminate unnecessary words. The words "or any agency, officer, or employee thereof" are omitted as unnecessary. The text of 31:232(C)(last sentence proviso) and (D) is omitted as executed.
 
 In subsection (c), the words "herein provided", "fair and . . . compensation to such person", and "involved therein, which shall be collected" are omitted as surplus.
 
@@ -172,9 +172,9 @@ Subsection (d) is substituted for 31:232(B)(words between 3d and 4th commas) and
 
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Section 101(f) of the Ethics in Government Act of 1978, referred to in subsec. (e)(2)(B), is section 101(f) of Pub. L. 95–521, title I, Oct. 26, 1978, 92 Stat. 1824, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(2)(B). Pub. L. 117–286 substituted "section 13103(f) of title 5." for "section 101(f) of the Ethics in Government Act of 1978 (5 U.S.C. App.)."
 
 <b>2010</b>—Subsec. (e)(4). Pub. L. 111–148 added par. (4) and struck out former par. (4) which read as follows:
 

@@ -8,7 +8,7 @@ The use of a disclaimer, limited warranty, or nonwarranty clause in any invoice,
 
 #### Amendments
 
-<b>1958</b>—Pub. L. 85–581 precluded use of limited warranty clause as defense in prosecution or other proceeding brought under provisions of this chapter and stated that use of enumerated clauses as defenses in proceedings not brought under this chapter is not barred.
+<b>1958</b>—Pub. L. 85–581 precluded use of limited warranty clause as defense in prosecution or other proceedingbrought under provisions of this chapter and stated that use of enumerated clauses as defenses in proceedings not brought under this chapter is not barred.
 
 <b>1956</b>—Act July 9, 1956, substituted "or other proceeding" for ", or in any proceeding for confiscation of seeds,".
 

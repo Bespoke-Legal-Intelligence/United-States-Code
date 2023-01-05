@@ -38,7 +38,7 @@ Regulations issued by the Secretary to implement subsections (a), (c), and (d) m
 
 &emsp;(1) be accompanied by a permit issued by the Secretary prior to the importation, entry, exportation, movement in interstate commerce, mailing, or delivery of the plant pest;
 
-&emsp;(2) be accompanied by a certificate of inspection issued (in a manner and form required by the Secretary) by appropriate officials of the country or State from which the plant pest is to be moved;
+&emsp;(2) be accompanied by a certificate of inspection issued (in a manner and form required bythe Secretary) by appropriate officials of the country or State from which the plant pest is to be moved;
 
 &emsp;(3) be raised under post-entry quarantine conditions by or under the supervision of the Secretary for the purposes of determining whether the plant pest—
 

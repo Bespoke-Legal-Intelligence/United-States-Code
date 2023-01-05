@@ -2,7 +2,7 @@
 
 (a)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this subchapter $5,000,000 for each of fiscal years 2017 through 2023.
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this subchapter $15,000,000 for each of fiscal years 2017 through 2030.
 
 (b)
 
@@ -16,5 +16,11 @@ Use of Funds.—Funds made available under subsection (a)—
 
 &emsp;(4) may not be deposited by the National Park Foundation into any fund that will be invested or earn interest in any way.
 
-(Added Pub. L. 114–289, title IV, §402(a), Dec. 16, 2016, 130 Stat. 1488.)
+(Added Pub. L. 114–289, title IV, §402(a), Dec. 16, 2016, 130 Stat. 1488; Pub. L. 117–328, div. DD, title VI, §646, Dec. 29, 2022, 136 Stat. 5616.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–328 substituted "$15,000,000" for "$5,000,000" and "2030" for "2023".
 

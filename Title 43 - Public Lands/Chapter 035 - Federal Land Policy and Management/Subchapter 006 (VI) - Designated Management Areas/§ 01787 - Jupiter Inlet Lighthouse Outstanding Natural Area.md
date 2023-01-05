@@ -162,7 +162,7 @@ In this section:
 
 #### (3) Cooperative agreements
 
-&emsp;To facilitate implementation of the management plan and to continue the successful partnerships with local communities and other partners, the Secretary may, in accordance with section 307(b) of the Federal Land Management <sup>1</sup> Policy and Management Act of 1976 (43 U.S.C. 1737(b)), enter into cooperative agreements with the appropriate Federal, State, county, other local government agencies, and other partners (including the Loxahatchee River Historical Society) for thelong-term management of the Outstanding Natural Area.
+&emsp;To facilitate implementation of the management plan and to continue the successful partnerships with local communities and other partners, the Secretary may, in accordance with section 307(b) of the Federal Land Management <sup>1</sup> Policy and Management Act of 1976 (43 U.S.C. 1737(b)), enter into cooperative agreements with the appropriate Federal, State, county, other local government agencies, and other partners (including the Loxahatchee River Historical Society) for the long-term management of the Outstanding Natural Area.
 
 #### (4) Research activities
 

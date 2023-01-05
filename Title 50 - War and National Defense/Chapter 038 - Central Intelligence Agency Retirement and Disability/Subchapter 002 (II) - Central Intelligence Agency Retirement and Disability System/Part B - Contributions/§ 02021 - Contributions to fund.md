@@ -48,7 +48,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (1) Accrual of interest
 
-&emsp;Amounts deducted and withheld from the basic pay of a participant under this section for pay periods after the first day of the first pay period beginning after the day on whichthe participant completes 35 years of creditable service computed under sections 2081 and 2082 of this title (excluding service credit for unused sick leave under section 2031(a)(2) of this title) shall accrue interest. Such interest shall accrue at the rate of 3 percent a year through December 31, 1984, and thereafter at the rate computed under section 8334(e) of title 5, and shall be compounded annually from the date on which the amount is so deducted and withheld until the date of the participant's retirement or death.
+&emsp;Amounts deducted and withheld from the basic pay of a participant under this section for pay periods after the first day of the first pay period beginning after the day on which the participant completes 35 years of creditable service computed under sections 2081 and 2082 of this title (excluding service credit for unused sick leave under section 2031(a)(2) of this title) shall accrue interest. Such interest shall accrue at the rate of 3 percent a year through December 31, 1984, and thereafter at the rate computed under section 8334(e) of title 5, and shall be compounded annually from the date on which the amount is so deducted and withheld until the date of the participant's retirement or death.
 
 #### (2) Use of amounts withheld after 35 years of service
 
@@ -94,7 +94,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 

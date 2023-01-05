@@ -34,7 +34,7 @@ The studies under subsection (a) may include an examination of the effects of ge
 
 #### (c) Clearinghouse
 
-The Administrative Office of the United States Courts shall act as a clearinghouse to disseminate any reports and materials issued by the gender bias task forces under subsection (a) and to respond to requests for such reports and materials. The gender bias task forces shall provide the Administrative Office of the Courts ofthe United States <sup>1</sup> with their reports and related material.
+The Administrative Office of the United States Courts shall act as a clearinghouse to disseminate any reports and materials issued by the gender bias task forces under subsection (a) and to respond to requests for such reports and materials. The gender bias task forces shall provide the Administrative Office of the Courts of the United States <sup>1</sup> with their reports and related material.
 
 #### (d) Continuing education and training programs
 

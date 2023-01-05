@@ -22,17 +22,19 @@
 
 &emsp;(I) provide for improving the security, reliability, and resilience of computing and networking systems, including Federal systems, including providing for research required to establish security standards and practices for these systems;
 
-&emsp;(J) provide for increased understanding of the scientific principles of cyber-physical systems and improve the methods available for the design, development, and operation of cyber-physical systems that are characterized by high reliability, safety, and security;
+&emsp;(J) provide for improving the security, reliability, and resiliency of computing and networking systems used by institutions of higher education and other nonprofit research institutions for the processing, storage and transmission of sensitive federally funded research and associated data;
 
-&emsp;(K) provide for research and development on human-computer interactions, visualization, and big data;
+&emsp;(K) provide for increased understanding of the scientific principles of cyber-physical systems and improve the methods available for the design, development, and operation of cyber-physical systems that are characterized by high reliability, safety, and security;
 
-&emsp;(L) provide for research and development on the enhancement of cybersecurity, including the human facets of cyber threats and secure cyber systems;
+&emsp;(L) provide for research and development on human-computer interactions, visualization, and big data;
 
-&emsp;(M) provide for the understanding of the science, engineering, policy, and privacy protection related to networking and information technology;
+&emsp;(M) provide for research and development on the enhancement of cybersecurity, including the human facets of cyber threats and secure cyber systems;
 
-&emsp;(N) provide for the transition of high-end computing hardware, system software, development tools, and applications into development and operations; and
+&emsp;(N) provide for the understanding of the science, engineering, policy, and privacy protection related to networking and information technology;
 
-&emsp;(O) foster public-private collaboration among government, industry research laboratories, academia, and nonprofit organizations to maximize research and development efforts and the benefits of networking and information technology, including high-end computing.
+&emsp;(O) provide for the transition of high-end computing hardware, system software, development tools, and applications into development and operations; and
+
+&emsp;(P) foster public-private collaboration among government, industry research laboratories, academia, and nonprofit organizations to maximize research and development efforts and the benefits of networking and information technology, including high-end computing.
 
 (2) The Director shall—
 
@@ -108,7 +110,7 @@
 
 (2) In addition to the duties outlined in paragraph (1), the advisory committee shall conduct periodic evaluations of the funding, management, coordination, implementation, and activities of the Program. The advisory committee shall report not less frequently than once every 3 fiscal years to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on its findings and recommendations.
 
-(3) Section 14 of the Federal Advisory Committee Act shall not apply to the advisory committee established under this subsection.
+(3) Section 1013 of title 5 shall not apply to the advisory committee established under this subsection.
 
 #### (c) Office of Management and Budget
 
@@ -184,15 +186,17 @@ The heads of the participating agencies, working through the National Science an
 
 &emsp;(2) each update under subsection (e)(2).
 
-(Pub. L. 102–194, title I, §101, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 104–66, title I, §1052(k), Dec. 21, 1995, 109 Stat. 719; Pub. L. 105–305, §4, Oct. 28, 1998, 112 Stat. 2921; Pub. L. 110–69, title VII, §7024(a)(1)(B)–(D), Aug. 9, 2007, 121 Stat. 686–689; Pub. L. 114–329, title I, §105(f), Jan. 6, 2017, 130 Stat. 2978.)
+(Pub. L. 102–194, title I, §101, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 104–66, title I, §1052(k), Dec. 21, 1995, 109 Stat. 719; Pub. L. 105–305, §4, Oct. 28, 1998, 112 Stat. 2921; Pub. L. 110–69, title VII, §7024(a)(1)(B)–(D), Aug. 9, 2007, 121 Stat. 686–689; Pub. L. 114–329, title I, §105(f), Jan. 6, 2017, 130 Stat. 2978; Pub. L. 117–167, div. B, title III, §10374(d)(1), Aug. 9, 2022, 136 Stat. 1572; Pub. L. 117–286, §4(a)(75), Dec. 27, 2022, 136 Stat. 4314.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(D). Pub. L. 117–167, §10374(d)(1)(A), realigned margins.
+
+Subsec. (a)(1)(J) to (P). Pub. L. 117–167, §10374(d)(1), added subpar. (J), redesignated former subpars. (J) to (O) as (K) to (P), respectively, and realigned margins.
+
+Subsec. (b)(3). Pub. L. 117–286 substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act".
 
 <b>2017</b>—Pub. L. 114–329, §105(f)(1), substituted "Networking and Information Technology Research and Development Program" for "National High-Performance Computing Program" in section catchline.
 
@@ -296,7 +300,7 @@ Subsec. (b). Pub. L. 105–305, §4(b), struck out "High-performance computing" 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### <b>Executive Documents</b>
 
@@ -336,7 +340,7 @@ Sec. 3. <i>Administration</i>. To the extent permitted by law and subject to the
 
 (c) Members of the Committee shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service (5 U.S.C. 5701–5707).
 
-Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[5 U.S.C. App.\], except that of reporting to the Congress, that are applicable to the Committee shall be performed by the Director of the NCO in accordance with guidelines that have been issued by the Administrator of General Services.
+Sec. 4. <i>General</i>. (a) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[see 5 U.S.C. 1001 et seq.\], except that of reporting to the Congress, that are applicable to the Committee shall be performed by the Director of the NCO in accordance with guidelines that have been issued by the Administrator of General Services.
 
 (b) The Committee shall terminate June 1, 2005, unless extended by the President prior to such date.
 

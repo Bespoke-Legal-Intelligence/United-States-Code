@@ -8,7 +8,7 @@ Except as described in subsection (b), there are authorized to be appropriated f
 
 #### (1) Lower appropriation years
 
-&emsp;For any fiscal year for which the amount appropriated under subsection (a) is less than $76,000,000, the Secretary shall reserve funds inaccordance with section 15083(c) of this title to provide technical assistance to entities funded under this part.
+&emsp;For any fiscal year for which the amount appropriated under subsection (a) is less than $76,000,000, the Secretary shall reserve funds in accordance with section 15083(c) of this title to provide technical assistance to entities funded under this part.
 
 #### (2) Higher appropriation years
 

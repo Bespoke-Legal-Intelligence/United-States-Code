@@ -20,7 +20,7 @@ Permitted Uses.—
 
 &emsp;(1)
 
-General permitted uses.—Funds available to the Attorney General (i.e., all funds available to carry out the activities describedin subsection (a)) may be used, without limitation, for the following:
+General permitted uses.—Funds available to the Attorney General (i.e., all funds available to carry out the activities described in subsection (a)) may be used, without limitation, for the following:
 
 &emsp;&emsp;(A) The purchase, lease, maintenance, and operation of passenger motor vehicles, or police-type motor vehicles for law enforcement purposes, without regard to general purchase price limitation for the then-current fiscal year.
 
@@ -84,7 +84,7 @@ Specific permitted uses.—
 
 &emsp;&emsp;(A)
 
-Aircraft and boats.—Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Bureau of Alcohol, Tobacco,Firearms and Explosives, for the Drug Enforcement Administration, and for the Immigration and Naturalization Service may be used for the purchase, lease, maintenance, and operation of aircraft and boats, for law enforcement purposes.
+Aircraft and boats.—Funds available to the Attorney General for United States Attorneys, for the Federal Bureau of Investigation, for the United States Marshals Service, for the Bureau of Alcohol, Tobacco, Firearms and Explosives, for the Drug Enforcement Administration, and for the Immigration and Naturalization Service may be used for the purchase, lease, maintenance, and operation of aircraft and boats, for law enforcement purposes.
 
 &emsp;&emsp;(B)
 
@@ -152,11 +152,11 @@ Limitation of compensation of individuals employed as attorneys.—No funds avai
 
 &emsp;(2)
 
-Reimbursements paid to governmental entities.—Funds available to the Attorney General that are paid as reimbursement to a governmental unit of the Department of Justice, to another Federal entity, or to a unit of State or local government, may be used under authorities available to the unit or entity receiving such reimbursement.
+Reimbursements paid to governmental entities.—Funds available to the Attorney General that are paid as reimbursement to a governmental unit of the Department of Justice, to another Federal entity, or to a unit ofState or local government, may be used under authorities available to the unit or entity receiving such reimbursement.
 
 (d)
 
-Foreign Reimbursements.—Whenever the Department of Justice or any component participates in a cooperative project to improve lawenforcement or national security operations or services with a friendly foreign country on a cost-sharing basis, any reimbursements or contributions received from that foreign country to meet its share of the project may be credited to appropriate current appropriations accounts of the Department of Justice or any component. The amount of a reimbursement or contribution credited shall be available only for payment of the share of the project expenses allocated to the participating foreign country.
+Foreign Reimbursements.—Whenever the Department of Justice or any component participates in a cooperative project to improve law enforcement or national security operations or services with a friendly foreign country on a cost-sharing basis, any reimbursements or contributions received from that foreign country to meet its share of the project may be credited to appropriate current appropriations accounts of the Department of Justice or any component. The amount of a reimbursement or contribution credited shall be available only for payment of the share of the project expenses allocated to the participating foreign country.
 
 (e)
 
@@ -172,7 +172,7 @@ Warranty Work.—In instances where the Attorney General determines that law enf
 
 #### References in Text
 
-Section 102(b) of Public Law 102–395, referred to in subsec. (a)(5), is section 102(b) of Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1838, as amended, which is set out as a note under section 533 of this title.
+Section 102(b) of Public Law 102–395, referred to in subsec. (a)(5), is section 102(b) of Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1838, which is set out as a note under section 533 of this title.
 
 Section 815(d) of Public Law 104–132, referred to in subsec. (a)(5), is section 815(d) of Pub. L. 104–132, title VIII, Apr. 24, 1996, 110 Stat. 1315, which is set out as a note under section 533 of this title.
 

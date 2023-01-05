@@ -70,7 +70,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;(iii) any amount which the plan sponsor determines to be uncollectible or unassessable in that plan year for other reasons under standards not inconsistent with regulations prescribed by the corporation.
 
-(C) The unamortized amount of the reallocated unfunded vested benefits with respect to a plan year is the reallocated unfunded vested benefits for the plan year, reduced by 5 percent of such reallocated unfunded vested benefits for each succeeding plan year.
+(C) The unamortized amount of the reallocated unfunded vested benefits with respect to a plan year is the reallocated unfunded vested benefits for the plan year, reduced by 5 percentof such reallocated unfunded vested benefits for each succeeding plan year.
 
 (D) An employer's proportional share of the unamortized amount of the reallocated unfunded vested benefits with respect to a plan year is the product of—
 
@@ -160,7 +160,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(II) the denominator of which is the amount determined under clause (ii)(II) of this subparagraph, reduced by the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in such clause (ii)(II) which are attributable to service with respect to the employers described in such clause (ii)(II).
 
-(E) The amount of the plan's unfunded vested benefits for a plan year preceding the plan year in which an employer withdraws, which is not attributable to service with employers who have an obligation to contribute under the plan in theplan year preceding the plan year in which such employer withdraws, is equal to—
+(E) The amount of the plan's unfunded vested benefits for a plan year preceding the plan year in which an employer withdraws, which is not attributable to service with employers who have an obligation to contribute under the plan in the plan year preceding the plan year in which such employer withdraws, is equal to—
 
 &emsp;(i) an amount equal to—
 

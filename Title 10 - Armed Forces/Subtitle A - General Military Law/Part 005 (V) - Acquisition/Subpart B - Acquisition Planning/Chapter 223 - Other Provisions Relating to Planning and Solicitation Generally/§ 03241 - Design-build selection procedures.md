@@ -96,13 +96,13 @@ Awarding of contract.—The agency awards the contract in accordance with sectio
 
 (d)
 
-Solicitation to State Number of Offerors To Be Selected for Phase Two Requests for Competitive Proposals.—A solicitation issued pursuant to the procedures described in subsection (c) shall state the maximum number of offerors that are to be selected to submit competitive proposals pursuant tosubsection (c)(4). If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless—
+Solicitation to State Number of Offerors To Be Selected for Phase Two Requests for Competitive Proposals.—A solicitation issued pursuant to the procedures described in subsection (c) shall state the maximum number of offerors that are to be selected to submit competitive proposals pursuant to subsection (c)(4). If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless—
 
 &emsp;(1) the solicitation is issued pursuant to an indefinite delivery-indefinite quantity contract for design-build construction; or
 
 &emsp;(2)(A) the head of the contracting activity, delegable to a level no lower than the senior contracting official within the contracting activity, approves the contracting officer's justification with respect to an individual solicitation that a maximum number greater than 5 is in the interest of the Federal Government; and
 
-&emsp;(B) the contracting officer provides written documentation of how a maximum number greater than 5 is consistent with the purposes and objectives of the two-phase selection procedures.
+&emsp;(B) the contracting officer provides written documentation of how a maximum numbergreater than 5 is consistent with the purposes and objectives of the two-phase selection procedures.
 
 (e)
 
@@ -150,7 +150,7 @@ Subsec. (c)(5). Pub. L. 116–283, §1813(b)(2)(E), inserted heading and substit
 
 <b>2019</b>—Subsec. (d)(1). Pub. L. 116–92 substituted "an indefinite" for "a indefinite".
 
-<b>2017</b>—Subsec. (d). Pub. L. 115–91 substituted "If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless—" and pars. (1) and (2) for "If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless the head of the contracting activity, delegable to a level no lower than thesenior contracting official within the contracting activity, approves the contracting officer's justification with respect to an individual solicitation that a number greater than 5 is in the Federal Government's interest. The contracting officer shall provide written documentation of how a maximum number exceeding 5 is consistent with the purposes and objectives of the two-phase selection procedures."
+<b>2017</b>—Subsec. (d). Pub. L. 115–91 substituted "If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless—" and pars. (1) and (2) for "If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless the head of the contracting activity, delegable to a level no lower than the senior contracting official within the contracting activity, approves the contracting officer's justification with respect to an individual solicitation that a number greater than 5 is in the Federal Government's interest. The contracting officer shall provide written documentation of how a maximum number exceeding 5 is consistent with the purposes and objectives of the two-phase selection procedures."
 
 <b>2014</b>—Subsec. (d). Pub. L. 113–291 substituted "If the contract value exceeds $4,000,000, the maximum number specified in the solicitation shall not exceed 5 unless the head of the contracting activity, delegable to a level no lower than the senior contracting official within the contracting activity, approves the contracting officer's justification with respect to an individual solicitation that a number greater than 5 is in the Federal Government's interest. The contracting officer shall provide written documentation of how a maximum number exceeding 5 is consistent with the purposes and objectives of the two-phase selection procedures." for "The maximum number specified in the solicitation shall not exceed 5 unless the agency determines with respect to an individual solicitation that a specified number greater than 5 is in the Government's interest and is consistent with the purposes and objectives of the two-phase selection process."
 

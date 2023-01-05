@@ -12,7 +12,7 @@ The Secretary shall address priority mental health needs of regional and nationa
 
 &emsp;(4) systems change grants including statewide family network grants and client-oriented and consumer run self-help activities, which may include technical assistance centers.
 
-> The Secretary may carry out the activities described in this subsection directly or through grants, contracts, or cooperative agreements with States, political subdivisions of States, Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), health facilities, or programs operated by or in accordance with a contract or grant with the Indian Health Service, or,<sup>1</sup> other public or private nonprofit entities.
+> The Secretary may carry out the activities described in this subsection directly or through grants, contracts, or cooperative agreements with States, political subdivisions of States, Indian Tribes or Tribal organizations (as such terms are defined in section 5304 of title 25), health facilities, or programs operated by or in accordance with a contract or grant with the Indian Health Service, or,<sup>1</sup> other public or private nonprofit entities.
 
 #### (b) Priority mental health needs
 
@@ -58,13 +58,13 @@ The Secretary shall evaluate each project carried out under subsection (a)(1) an
 
 #### (3) Geriatric mental disorders
 
-&emsp;The Secretary shall, as appropriate, provide technical assistance to grantees regarding evidence-based practices for the prevention andtreatment of geriatric mental disorders and co-occurring mental health and substance use disorders among geriatric populations, as well as disseminate information about such evidence-based practices to States and nongrantees throughout the United States.
+&emsp;The Secretary shall, as appropriate, provide technical assistance to grantees regarding evidence-based practices for the prevention and treatment of geriatric mental disorders and co-occurring mental health and substance use disorders among geriatric populations, as well as disseminate information about such evidence-based practices to States and nongrantees throughout the United States.
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $394,550,000 for each of fiscal years 2018 through 2022.
+There are authorized to be appropriated to carry out this section $599,036,000 for each of fiscal years 2023 through 2027.
 
-(July 1, 1944, ch. 373, title V, §520A, as added Pub. L. 100–690, title II, §2057(3), Nov. 18, 1988, 102 Stat. 4212; renumbered §520 and amended Pub. L. 101–93, §3(e), (g), Aug. 16, 1989, 103 Stat. 610, 611; Pub. L. 101–639, §2, Nov. 28, 1990, 104 Stat. 4600; renumbered §520A and amended Pub. L. 102–321, title I, §116, July 10, 1992, 106 Stat. 348; Pub. L. 106–310, div. B, title XXXII, §3201(a), Oct. 17, 2000, 114 Stat. 1189; Pub. L. 114–255, div. B, title VII, §7003, title IX, §9012, Dec. 13, 2016, 130 Stat. 1223, 1245.)
+(July 1, 1944, ch. 373, title V, §520A, as added Pub. L. 100–690, title II, §2057(3), Nov. 18, 1988, 102 Stat. 4212; renumbered §520 and amended Pub. L. 101–93, §3(e), (g), Aug. 16, 1989, 103 Stat. 610, 611; Pub. L. 101–639, §2, Nov. 28, 1990, 104 Stat. 4600; renumbered §520A and amended Pub. L. 102–321, title I, §116, July 10, 1992, 106 Stat. 348; Pub. L. 106–310, div. B, title XXXII, §3201(a), Oct. 17, 2000, 114 Stat. 1189; Pub. L. 114–255, div. B, title VII, §7003, title IX, §9012, Dec. 13, 2016, 130 Stat. 1223, 1245; Pub. L. 117–328, div. FF, title I, §1121(d), Dec. 29, 2022, 136 Stat. 5650.)
 
 #### <b>Editorial Notes</b>
 
@@ -73,6 +73,10 @@ There are authorized to be appropriated to carry out this section $394,550,000 f
 Section was formerly classified to section 290cc–13 of this title prior to renumbering by Pub. L. 102–321.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–328, §1121(d)(1), substituted "Indian Tribes or Tribal organizations" for "Indian tribes or tribal organizations" in concluding provisions.
+
+Subsec. (f). Pub. L. 117–328, §1121(d)(2), substituted "$599,036,000 for each of fiscal years 2023 through 2027" for "$394,550,000 for each of fiscal years 2018 through 2022".
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–255, §7003(1)(B), in concluding provisions, inserted ", contracts," before "or cooperative agreements" and substituted "Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), health facilities, or programs operated by or in accordance with a contract or grant with the Indian Health Service, or" for "Indian tribes and tribal organizations".
 
@@ -105,6 +109,10 @@ Subsec. (e)(1). Pub. L. 101–639, §2(b), amended par. (1) generally. Prior to 
 <b>1989</b>—Pub. L. 101–93 substituted "programs" for "program" in section catchline and in subsec. (a) substituted "seriously mentally ill" for "chronically mentally ill" wherever appearing, redesignated par. (5) as (4), and inserted "for" before "demonstration" in pars. (2), (3), and (4).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Applicability of Amendment
+
+Amendment by Pub. L. 117–100 applicable only with respect to applications for assistance under this section that are submitted after Mar. 15, 2022, see section 3 of Pub. L. 117–100, set out as an Effective Date note under section 290bb–33 of this title.
 
 #### Effective Date of 1992 Amendment
 

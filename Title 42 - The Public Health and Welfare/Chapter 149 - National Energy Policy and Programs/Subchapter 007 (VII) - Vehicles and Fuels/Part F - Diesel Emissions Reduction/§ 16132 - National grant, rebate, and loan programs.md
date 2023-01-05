@@ -218,7 +218,7 @@ Subsec. (c)(4)(E) to (G). Pub. L. 111–364, §2(b)(4)(D)(iii)–(v), inserted "
 
 Subsec. (d)(1). Pub. L. 111–364, §2(b)(5)(A), inserted ", rebate," after "grant" in introductory provisions.
 
-Subsec. (d)(2)(A). Pub. L. 111–364, §2(b)(5)(B), substituted "grant, rebate, or loan provided, or contract entered into," for "grant or loan provided" and "any Federal law, except that this subparagraph shall not apply to a mandate in a State implementation plan approved by the Administrator under the Clean Air Act" for "Federal, State or local law".
+Subsec. (d)(2)(A). Pub. L. 111–364, §2(b)(5)(B), substituted "grant, rebate, or loan provided, or contractentered into," for "grant or loan provided" and "any Federal law, except that this subparagraph shall not apply to a mandate in a State implementation plan approved by the Administrator under the Clean Air Act" for "Federal, State or local law".
 
 Subsecs. (e), (f). Pub. L. 111–364, §2(b)(6), added subsecs. (e) and (f).
 

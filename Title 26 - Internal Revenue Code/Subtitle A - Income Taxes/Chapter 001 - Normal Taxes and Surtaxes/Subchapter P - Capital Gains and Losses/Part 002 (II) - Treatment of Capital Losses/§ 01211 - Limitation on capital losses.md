@@ -12,7 +12,7 @@ In the case of a taxpayer other than a corporation, losses from sales or exchang
 
 &emsp;(2) the excess of such losses over such gains.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 91–172, title V, §513(a), Dec. 30, 1969, 83 Stat. 642; Pub. L. 94–455, title V, §501(b)(6), title XIV, §1401(a), (b), Oct. 4, 1976, 90 Stat. 1559, 1731; Pub. L. 95–30, title I, §102(b)(14), May 23, 1977, 91 Stat. 138; Pub. L. 99–514, title III, §301(b)(10), Oct. 22, 1986, 100 Stat. 2217.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 91–172, title V, §513(a), Dec. 30, 1969, 83 Stat. 642;Pub. L. 94–455, title V, §501(b)(6), title XIV, §1401(a), (b), Oct. 4, 1976, 90 Stat. 1559, 1731; Pub. L. 95–30, title I, §102(b)(14), May 23, 1977, 91 Stat. 138; Pub. L. 99–514, title III, §301(b)(10), Oct. 22, 1986, 100 Stat. 2217.)
 
 #### <b>Editorial Notes</b>
 

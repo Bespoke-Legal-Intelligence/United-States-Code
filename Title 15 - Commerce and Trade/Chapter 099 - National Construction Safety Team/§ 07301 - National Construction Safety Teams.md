@@ -36,7 +36,7 @@ The Director of the National Institute of Standards and Technology (in this chap
 
 &emsp;&emsp;(D) guiding the disclosure of information under section 7306 of this title;
 
-&emsp;&emsp;(E) guiding the conduct of investigations under this chapter, including procedures for providing written notice of inspection authority under section 7303(a) of this title and for ensuring compliance with any other applicable law;
+&emsp;&emsp;(E) guiding the conduct of investigations under this chapter, including procedures forproviding written notice of inspection authority under section 7303(a) of this title and for ensuring compliance with any other applicable law;
 
 &emsp;&emsp;(F) identifying and prescribing appropriate conditions for the provision by the Director of additional resources and services Teams may need;
 
@@ -62,7 +62,7 @@ The Director of the National Institute of Standards and Technology (in this chap
 
 This chapter, referred to in subsecs. (a) and (c)(1)(E), (G), was in the original "this Act", meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c)(1)(J), is Pub. L. 95–124, Oct. 7,1977, 91 Stat. 1098, as amended, which is classified generally to chapter 86 (§7701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 42 and Tables.
+The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c)(1)(J), is Pub. L. 95–124, Oct. 7, 1977, 91 Stat. 1098, which is classified generally to chapter 86 (§7701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 42 and Tables.
 
 #### Amendments
 

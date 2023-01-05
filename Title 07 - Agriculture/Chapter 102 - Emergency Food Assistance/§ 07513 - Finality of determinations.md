@@ -1,6 +1,6 @@
 ### §7513. Finality of determinations
 
-Determinations made by the Secretary of Agriculture under this chapter and the facts constituting the basis for any donation of commodities under this chapter, or the amount thereof, when officially determined in conformity withthe applicable regulations prescribed by the Secretary, shall be final and conclusive and shall not be reviewable by any other officer or agency of the Government.
+Determinations made by the Secretary of Agriculture under this chapter and the facts constituting the basis for any donation of commodities under this chapter, or the amount thereof, when officially determined in conformity with the applicable regulations prescribed by the Secretary, shall be final and conclusive and shall not be reviewable by any other officer or agency of the Government.
 
 (Pub. L. 98–8, title II, §211, as added Pub. L. 98–92, §2(10), Sept. 2, 1983, 97 Stat. 612.)
 

@@ -118,7 +118,7 @@ Treatment of Projects.—Notwithstanding any other provision of law, a project a
 
 #### Prior Provisions
 
-A prior section 208, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 87–282, Sept. 22, 1961, 75 Stat. 584; Pub.L. 93–643, §102(c), Jan. 4, 1975, 88 Stat. 2281, provided for use of funds for construction and improvement of Indian reservation roads and bridges, supervision of such projects by the Secretary, that such funds be only supplementary to funds apportioned under section 104 of this title, for use of Indian labor in such projects, and for cooperation with States and localities, prior to repeal by Pub. L. 97–424, title I, §126(d), Jan. 6, 1983, 96 Stat. 2115.
+A prior section 208, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 908; Pub. L. 87–282, Sept. 22, 1961, 75 Stat. 584; Pub. L. 93–643, §102(c), Jan. 4, 1975, 88 Stat. 2281, provided for use of funds for construction and improvement of Indian reservation roads and bridges, supervision of such projects by the Secretary, that such funds be only supplementary to funds apportioned under section 104 of this title, for use of Indian labor in such projects, and for cooperation with States and localities, prior to repeal by Pub. L. 97–424, title I, §126(d), Jan. 6, 1983, 96 Stat. 2115.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

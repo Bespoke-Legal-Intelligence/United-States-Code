@@ -10,5 +10,5 @@ The Comptroller General of the United States may evaluate the disbursement and u
 
 <b>1996</b>—Pub. L. 104–316 substituted "may" for "shall annually" and struck out ", and submit to the Congress an annual summary of the status of each program authorized under this chapter" before period at end.
 
-<b>1988</b>—Pub. L. 100–628 substituted "Annual program summary" for "Audits" in section catchline and, in text, substituted "shall annually evaluate" for "shall evaluate" and "submit to the Congress an annual summary of the status of each program authorized under this chapter" for "submit a report to the Congress setting forth the findings of such evaluation, upon the expiration of the 4-month and 12-month periods beginning on July 22, 1987".
+<b>1988</b>—Pub. L. 100–628 substituted "Annual program summary" for "Audits" in section catchline and, intext, substituted "shall annually evaluate" for "shall evaluate" and "submit to the Congress an annual summary of the status of each program authorized under this chapter" for "submit a report to the Congress setting forth the findings of such evaluation, upon the expiration of the 4-month and 12-month periods beginning on July 22, 1987".
 

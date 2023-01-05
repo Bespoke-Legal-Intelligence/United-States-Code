@@ -12,7 +12,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b), and (c), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (a), (b), and (c), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note set out below and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -40,5 +40,5 @@ For short title of section 1 \[div. C, title XXXVI\] of Pub. L. 106–398, which
 
 #### Executive Order No. 12083
 
-Ex. Ord. No. 12083, Sept. 27, 1978, 43 F.R. 44813, as amended by Ex. Ord. No. 12121, Feb. 26, 1979, 44 F.R. 11195; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Energy Coordinating Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §20, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12083, Sept. 27, 1978, 43 F.R. 44813, as amended by Ex. Ord. No. 12121, Feb. 26, 1979, 44 F.R. 11195; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Energy Coordinating Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §20, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 

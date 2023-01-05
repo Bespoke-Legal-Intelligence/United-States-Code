@@ -12,7 +12,7 @@ The Secretary shall negotiate and enter into a written funding agreement with ea
 
 #### (2) Inclusion of certain programs, services, functions, and activities
 
-&emsp;Such programs, services, functions, or activities (or portions thereof) include all programs, services, functions, activities (or portions thereof), including grants (which may be added to a funding agreement after an award of such grants), with respect to which Indian tribes or Indians are primary or significant beneficiaries, administered by the Departmentof Health and Human Services through the Indian Health Service and all local, field, service unit, area, regional, and central headquarters or national office functions so administered under the authority of—
+&emsp;Such programs, services, functions, or activities (or portions thereof) include all programs, services, functions, activities (or portions thereof), including grants (which may be added to a funding agreement after an award of such grants), with respect to which Indian tribes or Indians are primary or significant beneficiaries, administered by the Department of Health and Human Services through the Indian Health Service and all local, field, service unit, area, regional, and central headquarters or national office functions so administered under the authority of—
 
 &emsp;&emsp;(A) section 13 of this title;
 

@@ -252,7 +252,7 @@ In general.—The term 'qualified sick leave equivalent amount' means, with resp
 
 &emsp;&emsp;&emsp;"(i) $200 ($511 in the case of any day of paid sick time described in paragraph (1), (2), or (3) of section 5102(a) of the Emergency Paid Sick Leave Act, applied with the modification described in subsection (b)(2)(A)) of this section, or
 
-&emsp;&emsp;&emsp;"(ii) 67 percent (100 percent in the case of any day of paid sick time described in paragraph (1), (2), or (3) of section 5102(a) of the Emergency Paid Sick Leave Act) of the average daily self-employment income of the individual for the taxable year.
+&emsp;&emsp;&emsp;"(ii) 67 percent (100 percent in the case of any day of paid sick time described in paragraph (1), (2), or (3) of section 5102(a) of the Emergency Paid Sick Leave Act ) of the average daily self-employment income of the individual for the taxable year.
 
 &emsp;"(2)
 

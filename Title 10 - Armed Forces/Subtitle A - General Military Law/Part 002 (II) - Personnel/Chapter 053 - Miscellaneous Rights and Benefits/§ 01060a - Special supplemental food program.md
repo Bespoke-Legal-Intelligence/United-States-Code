@@ -70,7 +70,7 @@ Definitions.—In this section:
 
 Chapter 137 of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
 
-The Immigration and Nationality Act, referred to in subsec. (g)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (g)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Amendments
 
@@ -101,6 +101,48 @@ Subsec. (f)(4). Pub. L. 106–65, §674(d), added par. (4).
 <b>1996</b>—Subsec. (f)(2)(B). Pub. L. 104–106 substituted ", as determined in accordance with the Immigration and Nationality Act (8 U.S.C. 1101 et seq.)" for "(as defined in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)))".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Food Insecurity Among Military Families: Data Collection; Training; Report
+
+Pub. L. 117–263, div. A, title VI, §645, Dec. 23, 2022, 136 Stat. 2637, provided that:
+
+"(a)
+
+Data Collection.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Under Secretary of Defense for Personnel and Readiness, in coordination with the Under Secretary for Food, Nutrition, and Consumer Services of the Department of Agriculture, shall—
+
+&emsp;"(1) develop a survey, in collaboration with the Department of Agriculture, to determine how many members of the Armed Forces serving on active duty, and dependents of such members, are food insecure;
+
+&emsp;"(2) issue the survey to such members and dependents;
+
+&emsp;"(3) collect data related to the number of such members and dependents who—
+
+&emsp;&emsp;"(A) are eligible for the basic needs allowance under section 402b of title 37, United States Code;
+
+&emsp;&emsp;"(B) receive such basic needs allowance; and
+
+&emsp;&emsp;"(C) are surveyed on the use, by such members and dependents, of Federal nutrition assistance programs, including—
+
+&emsp;&emsp;&emsp;"(i) the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.);
+
+&emsp;&emsp;&emsp;"(ii) the special supplemental nutrition program for women, infants, and children under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786); and
+
+&emsp;&emsp;&emsp;"(iii) the school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), and the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773);
+
+&emsp;"(4) develop and carry out a plan to train and designate an individual who will assist members at military installations on how and where to refer such members and their dependents for participation in Federal nutrition assistance programs described in paragraph (3)(C); and
+
+&emsp;"(5) coordinate efforts of the Department of Defense to address food insecurity and nutrition.
+
+"(b)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], and annually thereafter for the four subsequent years, the Under Secretary of Defense for Personnel \& Readiness shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committees on Agriculture and Education and Labor of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report including the following:
+
+&emsp;"(1) The number of members of the Armed Forces serving on active duty and their dependents who are food insecure.
+
+&emsp;"(2) The number of such members and their dependents who use the Federal nutrition assistance programs described in subsection (a)(3).
+
+&emsp;"(3) The number of such members and their dependents described in subsection (a)(3).
+
+&emsp;"(4) The status of implementation of the plan under subsection (a)(5) \[sic; probably should be "subsection (a)(4)"\]."
 
 #### Report on Implementation of Special Supplemental Food Program
 

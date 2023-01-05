@@ -23,12 +23,16 @@
 |  |  |
 | :--- | ---: |
 | [20121\.](Subchapter%20002%20%28II%29%20-%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2020121%20-%20Legal%20assistance%20for%20victims.md) | Legal assistance for victims. |
-| [20122\.](Subchapter%20002%20%28II%29%20-%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2020122%20-%20Education%2C%20training%2C%20and%20enhanced%20services%20to%20end%20violence%20against%20and%20abuse%20of%20women%20with%20disabilities.md) | Education, training, and enhanced services to end violence against and abuse of women with disabilities. |
+| [20122\.](Subchapter%20002%20%28II%29%20-%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2020122%20-%20Education%2C%20training%2C%20and%20enhanced%20services%20to%20end%20violence%20against%20and%20abuse%20of%20individuals%20with%20disabilities%20and%20Deaf%20people.md) | Education, training, and enhanced services to end violence against and abuse of individuals with disabilities and Deaf people. |
 | [20123\.](Subchapter%20002%20%28II%29%20-%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2020123%20-%20Grants%20for%20outreach%20and%20services%20to%20underserved%20populations.md) | Grants for outreach and services to underserved populations. |
 | [20124\.](Subchapter%20002%20%28II%29%20-%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2020124%20-%20Enhancing%20culturally%20specific%20services%20for%20victims%20of%20domestic%20violence%2C%20dating%20violence%2C%20sexual%20assault%2C%20and%20stalking.md) | Enhancing culturally specific services for victims of domestic violence, dating violence, sexual assault, and stalking. |
 | [20125\.](Subchapter%20002%20%28II%29%20-%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2020125%20-%20Grants%20to%20combat%20violent%20crimes%20on%20campuses.md) | Grants to combat violent crimes on campuses. |
 | [20126\.](Subchapter%20002%20%28II%29%20-%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2020126%20-%20Consultation.md) | Consultation. |
 | [20127\.](Subchapter%20002%20%28II%29%20-%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2020127%20-%20Emergency%20and%20transitional%20pet%20shelter%20and%20housing%20assistance%20grant%20program.md) | Emergency and transitional pet shelter and housing assistance grant program. |
+| [20128\.](Subchapter%20002%20%28II%29%20-%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2020128%20-%20Agency%20and%20department%20coordination.md) | Agency and department coordination. |
+| [20129\.](Subchapter%20002%20%28II%29%20-%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2020129%20-%20LGBT%20specific%20services%20program.md) | LGBT specific services program. |
+| [20130\.](Subchapter%20002%20%28II%29%20-%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2020130%20-%20Study%20and%20reports%20on%20barriers%20to%20survivors%27%20economic%20security%20access.md) | Study and reports on barriers to survivors' economic security access. |
+| [20131\.](Subchapter%20002%20%28II%29%20-%20Victims%20of%20Domestic%20Violence%2C%20Dating%20Violence%2C%20Sexual%20Assault%2C%20and%20Stalking/%C2%A7%2020131%20-%20Media%20campaign.md) | Media campaign. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,6 +44,7 @@
 | [20142\.](Subchapter%20003%20%28III%29%20-%20Additional%20Victim%20Compensation%20and%20Services/%C2%A7%2020142%20-%20Closed%20circuit%20televised%20court%20proceedings%20for%20victims%20of%20crime.md) | Closed circuit televised court proceedings for victims of crime. |
 | [20143\.](Subchapter%20003%20%28III%29%20-%20Additional%20Victim%20Compensation%20and%20Services/%C2%A7%2020143%20-%20Grants%20for%20young%20witness%20assistance.md) | Grants for young witness assistance. |
 | [20144\.](Subchapter%20003%20%28III%29%20-%20Additional%20Victim%20Compensation%20and%20Services/%C2%A7%2020144%20-%20Justice%20for%20United%20States%20victims%20of%20state%20sponsored%20terrorism.md) | Justice for United States victims of state sponsored terrorism. |
+| [20145\.](Subchapter%20003%20%28III%29%20-%20Additional%20Victim%20Compensation%20and%20Services/%C2%A7%2020145%20-%20Elimination%20of%20barriers.md) | Elimination of barriers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

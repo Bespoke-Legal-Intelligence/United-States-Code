@@ -12,7 +12,7 @@
 
 &emsp;(2) "public debt obligation" means a domestic obligation issued or guaranteed by the United States Government to repay money or interest.
 
-(b) The United States Government may not pay out any gold coin. A person lawfully holding United States coins and currency may presentthe coins and currency to the Secretary of the Treasury for exchange (dollar for dollar) for other United States coins and currency (other than gold and silver coins) that may be lawfully held. The Secretary shall make the exchange under regulations prescribed by the Secretary.
+(b) The United States Government may not pay out any gold coin. A person lawfully holding United States coins and currency may present the coins and currency to the Secretary of the Treasury for exchange (dollar for dollar) for other United States coins and currency (other than gold and silver coins) that may be lawfully held. The Secretary shall make the exchange under regulations prescribed by the Secretary.
 
 (c)(1) The Government withdraws its consent given to anyone to assert against the Government, its agencies, or its officers, employees, or agents, a claim—
 

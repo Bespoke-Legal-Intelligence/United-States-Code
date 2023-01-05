@@ -180,7 +180,7 @@
 
 #### (A) Rates for FDSL and FDUSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct UnsubsidizedStafford Loans for which the first disbursement is made on or after July 1, 2006, and before July 1, 2013, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
 
 #### (B) PLUS loans
 
@@ -212,7 +212,7 @@
 
 #### (A) Rates for undergraduate FDSL and FDUSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans issued to undergraduate students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determinedon the preceding June 1 and be equal to the lesser of—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans issued to undergraduate students, for which the first disbursement is made on or after July 1, 2013, the applicable rate of interest shall, for loans disbursed during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) a rate equal to the high yield of the 10-year Treasury note auctioned at the final auction held prior to such June 1 plus 2.05 percent; or
 
@@ -298,7 +298,7 @@
 
 &emsp;&emsp;(D) an income contingent repayment plan, with varying annual repayment amounts based on the income of the borrower, paid over an extended period of time prescribed by the Secretary, not to exceed 25 years, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS loan made on behalf of a dependent student; and
 
-&emsp;&emsp;(E) beginning on July 1, 2009, an income-based repayment plan that enables borrowers who have a partial financial hardship to make a lower monthly payment in accordance with section 1098e of this title, except that the plan described in this subparagraph shall not be available to the borrower of a Federal Direct PLUS Loan made on behalf of a dependent student or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on such Federal Direct PLUS Loan or a loan under section 1078–2 of this title made on behalf of a dependent student.
+&emsp;&emsp;(E) beginning on July 1, 2009, an income-based repayment plan that enables borrowers who have a partial financial hardship to make a lower monthly payment in accordance with section 1098e of this title, except that the plan described in this subparagraph shall not be available to the borrowerof a Federal Direct PLUS Loan made on behalf of a dependent student or a Federal Direct Consolidation Loan, if the proceeds of such loan were used to discharge the liability on such Federal Direct PLUS Loan or a loan under section 1078–2 of this title made on behalf of a dependent student.
 
 #### (2) Selection by Secretary
 
@@ -444,7 +444,7 @@
 
 #### (4) "Borrower" defined
 
-&emsp;For the purpose of this subsection, the term "borrower" means an individual who is a new borrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993.
+&emsp;For the purpose of this subsection, the term "borrower" means an individual who is a newborrower on the date such individual applies for a loan under this part for which the first disbursement is made on or after July 1, 1993.
 
 #### (5) Deferments for previous part B loan borrowers
 
@@ -452,11 +452,69 @@
 
 #### (g) Federal Direct Consolidation Loans
 
-A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title, including any loan made under part B and first disbursed before July 1, 2010. To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title.
+#### (1) In general
+
+&emsp;A borrower of a loan made under this part may consolidate such loan with the loans described in section 1078–3(a)(4) of this title, including any loan made under part B and first disbursed before July 1, 2010. To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in section 1078–3(a)(3) of this title.
+
+#### (2) Separating joint consolidation loans
+
+#### (A) In general
+
+#### (i) Authorization
+
+&emsp;&emsp;&emsp;A married couple, or 2 individuals who were previously a married couple, and who received a joint consolidation loan as such married couple under subparagraph (C) of section 1078–3(a)(3) of this title (as such subparagraph was in effect on June 30, 2006), may apply to the Secretary, in accordance with subparagraph (C) of this paragraph, for each individual borrower in the married couple (or previously married couple) to receive a separate Federal Direct Consolidation Loan under this part.
+
+#### (ii) Eligibility for borrowers in default
+
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this chapter, a married couple, or 2 individuals who were previously a married couple, who are in default on a joint consolidation loan may be eligible to receive a separate Federal Direct Consolidation Loan under this part in accordance with this paragraph.
+
+#### (B) Secretarial requirements
+
+&emsp;&emsp;Notwithstanding section 1078–3(a)(3)(A) of this title or any other provision of law, for each individual borrower who applies under subparagraph (A), the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) make a separate Federal Direct Consolidation Loan under this part that—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall be for an amount equal to the product of—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the unpaid principal and accrued unpaid interest of the joint consolidation loan (as of the date that is the day before such separate consolidation loan is made) and any outstanding charges and fees with respect to such loan; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the percentage of the joint consolidation loan attributable to the loans of the individual borrower for whom such separate consolidation loan is being made, as determined—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) on the basis of the loan obligations of such borrower with respect to such joint consolidation loan (as of the date such joint consolidation loan was made); or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) in the case in which both borrowers request, on the basis of proportions outlined in a divorce decree, court order, or settlement agreement; and
+
+&emsp;&emsp;&emsp;&emsp;(II) has the same rate of interest as the joint consolidation loan (as of the date that is the day before such separate consolidation loan is made); and
+
+&emsp;&emsp;&emsp;(ii) in a timely manner, notify each individual borrower that the joint consolidation loan had been repaid and of the terms and conditions of their new loans.
+
+#### (C) Application for separate direct consolidation loan
+
+#### (i) Joint application
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), to receive separate consolidation loans under this part, both individual borrowers in a married couple (or previously married couple) shall jointly apply under subparagraph (A).
+
+#### (ii) Separate application
+
+&emsp;&emsp;&emsp;An individual borrower in a married couple (or previously married couple) may apply for a separate consolidation loan under subparagraph (A) separately and without regard to whether or when the other individual borrower in the married couple (or previously married couple) applies under subparagraph (A), in a case in which—
+
+&emsp;&emsp;&emsp;&emsp;(I) the individual borrower certifies to the Secretary that such borrower—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has experienced an act of domestic violence (as defined in section 12291 of title 34 from the other individual borrower;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) has experienced economic abuse (as defined in section 12291 of title 34 from the other individual borrower; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) is unable to reasonably reach or access the loan information of the other individual borrower; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary determines that authorizing each individual borrower to apply separately under subparagraph (A) would be in the best fiscal interests of the Federal Government.
+
+#### (iii) Remaining obligation from separate application
+
+&emsp;&emsp;&emsp;In the case of an individual borrower who receives a separate consolidation loan due to the circumstances described in clause (ii), the other non-applying individual borrower shall become solely liable for the remaining balance of the joint consolidation loan.
 
 #### (h) Borrower defenses
 
-Notwithstanding any other provision of State or Federal law, the Secretary shall specify in regulations which acts or omissions of an institution of higher education a borrower may assert as a defense to repayment of a loan made under this part, except that in no event may a borrower recover from the Secretary, in any action arising from or relating to a loan made under this part, an amount in excess of the amount such borrower has repaid on such loan.
+Notwithstanding any other provision of State or Federal law, the Secretary shall specify inregulations which acts or omissions of an institution of higher education a borrower may assert as a defense to repayment of a loan made under this part, except that in no event may a borrower recover from the Secretary, in any action arising from or relating to a loan made under this part, an amount in excess of the amount such borrower has repaid on such loan.
 
 #### (i) Loan application and promissory note
 
@@ -478,7 +536,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 &emsp;(A) An institution shall maintain financial records in a manner consistent with records maintained for other programs under this subchapter.
 
-&emsp;(B) Except as otherwise required by regulations of the Secretary <sup>1</sup> an institution maymaintain loan funds under this part in the same account as other Federal student financial assistance.
+&emsp;(B) Except as otherwise required by regulations of the Secretary <sup>1</sup> an institution may maintain loan funds under this part in the same account as other Federal student financial assistance.
 
 #### (2) Payments and refunds
 
@@ -544,7 +602,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (n) Identity fraud protection
 
-The Secretary shall take such steps as may be necessary to ensure that monthly Federal Direct Loan statements and other publications ofthe Department do not contain more than four digits of the Social Security number of any individual.
+The Secretary shall take such steps as may be necessary to ensure that monthly Federal Direct Loan statements and other publications of the Department do not contain more than four digits of the Social Security number of any individual.
 
 #### (o) No accrual of interest for active duty service members
 
@@ -592,7 +650,7 @@ Each institution of higher education with which the Secretary has an agreement u
 
 &emsp;&emsp;&emsp;(i) a period equal to 150 percent of the published length of the educational program in which the student is enrolled; or
 
-&emsp;&emsp;&emsp;(ii) in the case of a borrower who was previously enrolled in one or more other educational programs that began on or after July 1, 2013, and subject to subparagraph (B), a period of time equal to the difference between—
+&emsp;&emsp;&emsp;(ii) in the case of a borrower who was previously enrolled in one or more othereducational programs that began on or after July 1, 2013, and subject to subparagraph (B), a period of time equal to the difference between—
 
 &emsp;&emsp;&emsp;&emsp;(I) 150 percent of the published length of the longest educational program in which the borrower was, or is, enrolled; and
 
@@ -606,19 +664,23 @@ Each institution of higher education with which the Secretary has an agreement u
 
 &emsp;&emsp;&emsp;(ii) how such aggregate period shall be calculated to include a course of study or program described in paragraph (3)(B) or (4)(B) of section 1091(b) of this title, respectively.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat.1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–245, div. B, title III, §309(a), Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–91, §4(a), Dec. 19, 2019, 133 Stat. 1192; Pub. L. 116–259, title II, §202(b)(2), Dec. 23, 2020, 134 Stat. 1163; Pub. L. 116–260, div. FF, title VII, §705(a), Dec. 27, 2020, 134 Stat. 3200.)
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §§8007(b), 8008(b), (c)(2), (3), 8009(d), Feb. 8, 2006, 120 Stat. 160, 162–164; Pub. L. 110–84, title II, §§201(b), 202(b), 203(b)(3), 205, title IV, §401, Sept. 27, 2007, 121 Stat. 791, 795, 800; Pub. L. 110–315, title I, §103(b)(8), title IV, §§425(b)(3), 451, Aug. 14, 2008, 122 Stat. 3089, 3234, 3261; Pub. L. 111–39, title IV, §404(b)(2), July 1, 2009, 123 Stat. 1946; Pub. L. 111–152, title II, §2211(a), Mar. 30, 2010, 124 Stat. 1078; Pub. L. 112–25, title V, §§502, 503, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–141, div. F, title III, §§100301, 100302(a), July 6, 2012, 126 Stat. 979; Pub. L. 113–28, §2(a), Aug. 9, 2013, 127 Stat. 506; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160; Pub. L. 115–245, div. B, title III, §309(a), Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–91, §4(a), Dec. 19, 2019, 133 Stat. 1192; Pub. L. 116–259, title II, §202(b)(2), Dec. 23, 2020, 134 Stat. 1163; Pub. L. 116–260, div. FF, title VII, §705(a), Dec. 27, 2020, 134 Stat. 3200; Pub. L. 117–200, §2(a), Oct. 11, 2022, 136 Stat. 2219.)
 
 #### Amendment of Section
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 705, Dec. 27, 2020, 134 Stat. 3137, 3200, provided that, effective July 1, 2023, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended by striking out subsec. (q). See 2020 Amendment note below.</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 705, Dec. 27, 2020, 134 Stat. 3137, 3200; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended by striking out subsec. (q). See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
+Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(5), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
+
+Subparagraph (C) of section 1078–3(a)(3) of this title (as such subparagraph was in effect on June 30, 2006), referred to in subsec. (g)(2)(A)(i), means section 1078–3(a)(3)(C) of this title prior to being struck out by Pub. L. 109–171, title VIII, §8009(c), Feb. 8, 2006, 120 Stat. 164, effective July 1, 2006. Text of subsec. (a)(3)(C) prior to its repeal is set out in a 2006 Amendment note under section 1078–3 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g). Pub. L. 117–200 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 <b>2020</b>—Subsec. (l). Pub. L. 116–259, §202(b)(2)(A), substituted "Armed Forces and NOAA Commissioned Officer Corps student loan interest payment programs" for "Armed Forces student loan interest payment program" in heading.
 
@@ -758,9 +820,11 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted "Federal Pe
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 Pub. L. 116–260, div. FF, title VII, §705(b), Dec. 27, 2020, 134 Stat. 3200, provided that: "Notwithstanding section 701(b) of this Act \[div. FF of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 1001 of this title\] and section 455(q) of the Higher Education Act of 1965 (20 U.S.C. 1087e(q)) as in effect on the date of enactment of this Act \[Dec. 27, 2020\], the Secretary of Education may implement the repeal authorized under subsection (a) \[repealing subsec. (q) of this section\] before (but not later than) July 1, 2023. The Secretary shall specify in a designation on what date and for which award years the implementation of such repeal will be effective prior to July 1, 2023. The Secretary shall publish any designation under this paragraph in the Federal Register at least 60 days before implementation."
+
+\[Effective date of title VII of div. FF of Pub. L. 116–260 was changed from July 1, 2023, to July 1, 2024, by section 102(a) of Pub. L. 117–103, see section 701(b) of div. FF of Pub. L. 116–260, set out as a note under section 1001 of this title. However, the July 1, 2023, implementation dates in section 705(b) of Pub. L. 116–260, set out above, were not correspondingly amended.\]
 
 #### Effective Date of 2018 Amendment
 
@@ -782,7 +846,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 Amendment by sections 201(b), 202(b), 205, and 401 of Pub. L. 110–84 effective Oct. 1, 2007, see section 1(c) of Pub. L. 110–84, set out as a note under section 1070a of this title.
 
-Amendment by section 203(b)(3) of Pub. L. 110–84 effective July 1, 2009, see section 203(c)(1) of Pub. L.110–84, set out as a note under section 1078–3 of this title.
+Amendment by section 203(b)(3) of Pub. L. 110–84 effective July 1, 2009, see section 203(c)(1) of Pub. L. 110–84, set out as a note under section 1078–3 of this title.
 
 #### Effective Date of 2006 Amendment
 

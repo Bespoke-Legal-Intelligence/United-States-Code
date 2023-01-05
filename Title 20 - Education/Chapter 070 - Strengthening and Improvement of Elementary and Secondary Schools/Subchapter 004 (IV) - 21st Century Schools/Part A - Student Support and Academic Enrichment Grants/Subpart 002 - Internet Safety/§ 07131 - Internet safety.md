@@ -4,7 +4,7 @@
 
 No funds made available under this part to a local educational agency for an elementary school or secondary school that does not receive services at discount rates under section 254(h)(5) of title 47 may be used to purchase computers used to access the Internet, or to pay for direct costs associated with accessing the Internet, for such school unless the school, school board, local educational agency, or other authority with responsibility for administration of such school both—
 
-&emsp;(1)(A) has in place a policy of Internet safety for minors that includes the operation of atechnology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
+&emsp;(1)(A) has in place a policy of Internet safety for minors that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
 
 &emsp;&emsp;(i) obscene;
 
@@ -26,7 +26,7 @@ No funds made available under this part to a local educational agency for an ele
 
 #### (1) In general
 
-&emsp;The local educational agency with responsibility for a school covered by subsection (a) shall certify the compliance of such school with the requirements of subsection (a) as part of the application process for the next program funding year under this chapter following December 21, 2000, and for each subsequent program funding year thereafter.
+&emsp;The local educational agency with responsibility for a school covered by subsection (a) shall certify the compliance of such schoolwith the requirements of subsection (a) as part of the application process for the next program funding year under this chapter following December 21, 2000, and for each subsequent program funding year thereafter.
 
 #### (2) Process
 
@@ -174,7 +174,7 @@ Section 7142, Pub. L. 89–10, title IV, §4132, as added Pub. L. 103–382, tit
 
 Section 7143, Pub. L. 89–10, title IV, §4133, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3690, set forth prohibited uses of funds.
 
-Section 7144, Pub. L. 89–10, title IV, §4134, as added Pub. L. 105–277, div. D, title I, §122, Oct. 21, 1998, 112Stat. 2681–756, related to quality rating of drug, alcohol, and tobacco prevention programs implemented in public elementary schools and secondary schools.
+Section 7144, Pub. L. 89–10, title IV, §4134, as added Pub. L. 105–277, div. D, title I, §122, Oct. 21, 1998, 112 Stat. 2681–756, related to quality rating of drug, alcohol, and tobacco prevention programs implemented in public elementary schools and secondary schools.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "the".</i>
 

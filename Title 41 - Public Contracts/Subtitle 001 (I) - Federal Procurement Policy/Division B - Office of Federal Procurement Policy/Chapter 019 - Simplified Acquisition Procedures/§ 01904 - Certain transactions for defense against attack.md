@@ -62,7 +62,7 @@ Historical and Revision Notes
 
 Pub. L. 108–136, title XIV, §1441, Nov. 24, 2003, 117 Stat. 1673.
 
-In subsection (a)(2), the reference to subsection (g) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note) is changed to subsection (i) because of section 847(c)(1) of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136, 117 Stat. 1554), which redesignated subsection (g) as subsection (h), and section 823(2) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163, 119 Stat. 3387), which redesignated subsection (h) as subsection (i).
+In subsection (a)(2), the reference to subsection (g) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note) is changed to subsection (i) because of section847(c)(1) of the National Defense Authorization Act for Fiscal Year 2004 (Public Law 108–136, 117 Stat. 1554), which redesignated subsection (g) as subsection (h), and section 823(2) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163, 119 Stat. 3387), which redesignated subsection (h) as subsection (i).
 
 In subsection (a)(3)(A), the words "paragraph (2)" are substituted for "this paragraph" to correct the cross-reference.
 

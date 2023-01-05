@@ -54,7 +54,7 @@ The Board of Directors of the Corporation shall be comprised as follows:
 
 &emsp;(F) Nothing in this paragraph shall be construed to prohibit any director referred to in this section from being elected as a director by the public shareholders of the Corporation.
 
-&emsp;(4)(A) No director appointed or elected under this section shall be a special court trustee oran employee of the United States, except as elected by the public shareholders of the Corporation.
+&emsp;(4)(A) No director appointed or elected under this section shall be a special court trustee or an employee of the United States, except as elected by the public shareholders of the Corporation.
 
 &emsp;(B) No director appointed or elected under this section shall be an employee of the Corporation, except as provided in paragraph (2)(A)(ii) or as elected by the public shareholders of the Corporation.
 

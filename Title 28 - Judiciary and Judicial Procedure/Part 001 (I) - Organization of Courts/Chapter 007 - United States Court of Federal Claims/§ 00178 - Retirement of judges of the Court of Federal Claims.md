@@ -39,7 +39,7 @@
 
 (f)(1) A judge shall be entitled to an annuity under this section if the judge elects an annuity under this section by notifying the Director of the Administrative Office of the United States Courts in writing. Such an election—
 
-&emsp;(A) may be made only while an individual is a judge of the Court of Federal Claims (except that in the case of an individual who fails to be reappointed as judge at the expiration of aterm of office, such election may be made at any time before the day after the day on which his or her successor takes office); and
+&emsp;(A) may be made only while an individual is a judge of the Court of Federal Claims (except that in the case of an individual who fails to be reappointed as judge at the expiration of a term of office, such election may be made at any time before the day after the day on which his or her successor takes office); and
 
 &emsp;(B) once made, shall, subject to subsection (k), be irrevocable.
 

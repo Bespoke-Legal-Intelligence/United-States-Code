@@ -50,7 +50,7 @@ The President is not required to provide relief under this section if the Presid
 
 #### (i) Investigation
 
-&emsp;&emsp;&emsp;Upon request of the President, or upon the filing by an interested party describedin subparagraph (A), (B), or (C) of section 4571(8) of this title which is representative of a United States long-haul trucking services industry that is filed with the Commission not earlier than the date that is 270 days, and not later than the date that is 240 days, before the date on which any action taken under this section is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to be necessary to remedy or prevent material harm.
+&emsp;&emsp;&emsp;Upon request of the President, or upon the filing by an interested party described in subparagraph (A), (B), or (C) of section 4571(8) of this title which is representative of a United States long-haul trucking services industry that is filed with the Commission not earlier than the date that is 270 days, and not later than the date that is 240 days, before the date on which any action taken under this section is to terminate, the Commission shall conduct an investigation to determine whether action under this section continues to be necessary to remedy or prevent material harm.
 
 #### (ii) Notice and hearing
 

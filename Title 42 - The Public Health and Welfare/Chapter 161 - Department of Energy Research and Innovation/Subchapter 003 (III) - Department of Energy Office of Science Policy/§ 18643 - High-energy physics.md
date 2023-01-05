@@ -8,17 +8,205 @@ It is the sense of Congress that—
 
 &emsp;(2) the nations that lead in particle physics by hosting international teams dedicated to a common scientific goal attract the world's best talent and inspire future generations of physicists and technologists.
 
-#### (b) International collaboration
+#### (b) Program
 
-The Director, as practicable and in coordination with other appropriate Federal agencies as necessary, shall ensure the access of United States researchers to the most advanced accelerator facilities and research capabilities in the world, including the Large Hadron Collider.
+As part of the activities authorized under section 7139 of this title, the Director shall carry out a research program in elementary particle physics and advanced technology research and development to improve the understanding of the fundamental properties of the universe, including constituents of matter and energy and the nature of space and time.
 
-#### (c) Neutrino research
+#### (c) High energy frontier research
+
+As part of the program described in subsection (b), the Director shall carry out research using high energy accelerators and advanced detectors, including accelerators and detectors that will function as national user facilities, to create and study interactions of elementary particles and investigate fundamental forces.
+
+#### (d) International collaboration
+
+The Director shall—
+
+&emsp;(1) as practicable and in coordination with other appropriate Federal agencies as necessary, ensure the access of United States researchers to the most advanced accelerator facilities and research capabilities in the world, including the Large Hadron Collider;
+
+&emsp;(2) to the maximum extent practicable, continue to leverage United States participation in the Large Hadron Collider, and prioritize expanding international partnerships and investments in the Long-Baseline Neutrino Facility and Deep Underground Neutrino Experiment; and
+
+&emsp;(3) to the maximum extent practicable, prioritize engagement in collaborative efforts in support of future international facilities that would provide access to the most advanced accelerator facilities in the world to United States researchers.
+
+#### (e) Neutrino research
 
 The Director shall carry out research activities on rare decay processes and the nature of the neutrino, which may include collaborations with the National Science Foundation or international collaborations.
 
-#### (d) Dark energy and dark matter research
+#### (f) Cosmic frontier research
 
-The Director shall carry out research activities on the nature of dark energy and dark matter, which may include collaborations with the National Aeronautics and Space Administration or the National Science Foundation; or international collaborations.
+The Director shall carry out research activities on the nature of the primary contents of the universe, including the nature of dark energy and dark matter. These activities shall, to the maximum extent practicable, be consistent with the research priorities identified by the High Energy Physics Advisory Panel or the National Academy of Sciences, and may include—
 
-(Pub. L. 115–246, title III, §305, Sept. 28, 2018, 132 Stat. 3147.)
+&emsp;(1) collaborations with the National Aeronautics and Space Administration, the National Science Foundation, or international partners on relevant projects; and
+
+&emsp;(2) the development of space-based, land-based, water-based, and underground facilities and experiments.
+
+#### (g) Facility construction and major items of equipment
+
+#### (1) Projects
+
+&emsp;Consistent with the Office of Science's project management practices, the Director shall, to the maximum extent practicable, by incorporating the findings and recommendations of the 2014 Particle Physics Project Prioritization Panel (P5) report entitled "Building for Discovery", support construction or fabrication of—
+
+&emsp;&emsp;(A) an international Long-Baseline Neutrino Facility based in the United States;
+
+&emsp;&emsp;(B) the Proton Improvement Plan II;
+
+&emsp;&emsp;(C) Second Generation Dark Matter experiments;
+
+&emsp;&emsp;(D) the Legacy Survey of Space and Time camera;
+
+&emsp;&emsp;(E) upgrades to detectors and other components of the Large Hadron Collider; and
+
+&emsp;&emsp;(F) the Cosmic Microwave Background Stage 4 project; and
+
+&emsp;&emsp;(G) other high priority projects recommended in the most recent report of the Particle Physics Project Prioritization Panel of the High Energy Physics Advisory Panel.
+
+#### (2) Long-Baseline Neutrino Facility
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall support construction of a Long-Baseline Neutrino Facility to facilitate the international Deep Underground Neutrino Experiment to examine the fundamental properties of neutrinos, explore physics beyond the Standard Model, and better clarify the existence and nature of antimatter.
+
+#### (B) Facility capabilities
+
+&emsp;&emsp;The Secretary shall ensure that the facility described in subparagraph (A) will provide, at a minimum, the following capabilities:
+
+&emsp;&emsp;&emsp;(i) A neutrino beam with wideband capability of 1.2 megawatts of beam power and upgradable to 2.4 megawatts of beam power.
+
+&emsp;&emsp;&emsp;(ii) 3 caverns excavated for a 70 kiloton fiducial detector mass and supporting surface buildings and utilities.
+
+&emsp;&emsp;&emsp;(iii) Cryogenic systems to support neutrino detectors.
+
+#### (C) Start of operations
+
+&emsp;&emsp;The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the facility described in subparagraph (A) occurs before December 31, 2031.
+
+#### (D) Funding
+
+&emsp;&emsp;Out of funds authorized to be appropriated under subsection (k), there are authorized to be appropriated to the Secretary to carry out construction of the project described in subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) $180,000,000 for fiscal year 2023;
+
+&emsp;&emsp;&emsp;(ii) $255,000,000 for fiscal year 2024;
+
+&emsp;&emsp;&emsp;(iii) $305,000,000 for fiscal year 2025;
+
+&emsp;&emsp;&emsp;(iv) $305,000,000 for fiscal year 2026; and
+
+&emsp;&emsp;&emsp;(v) $305,000,000 for fiscal year 2027.
+
+#### (3) Proton Improvement Plan–II accelerator upgrade project
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall support construction of the Proton Improvement Plan II, an upgrade to the Fermilab accelerator complex identified in the 2014 Particle Physics Project Prioritization Panel (P5) report entitled "Building for Discovery", to provide the world's most intense beam of neutrinos to the international Long Baseline Neutrino Facility and to carry out a broad range of future high energy physics experiments. The Secretary shall work with international partners to enable further significant contributions to the capabilities of that project.
+
+#### (B) Facility capabilities
+
+&emsp;&emsp;The Secretary shall ensure that the facility described in subparagraph (A) will provide, at a minimum, the following capabilities:
+
+&emsp;&emsp;&emsp;(i) A state-of-the-art 800 megaelectron volt superconducting linear accelerator.
+
+&emsp;&emsp;&emsp;(ii) Proton beam power of 1.2 megawatts at the start of LBNF/DUNE, upgradeable to 2.4 megawatts of beam power.
+
+&emsp;&emsp;&emsp;(iii) A flexible design to enable high power beam delivery to multiple users simultaneously and customized beams tailored to specific scientific needs.
+
+&emsp;&emsp;&emsp;(iv) Sustained high reliability operation of the Fermilab accelerator complex.
+
+#### (C) Start of operations
+
+&emsp;&emsp;The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the facility described in subparagraph (A) occurs before December 31, 2028.
+
+#### (D) Funding
+
+&emsp;&emsp;Out of funds authorized to be appropriated under subsection (k), there are authorized to be appropriated to the Secretary to carry out construction of the facility described in subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) $130,000,000 for fiscal year 2023;
+
+&emsp;&emsp;&emsp;(ii) $120,000,000 for fiscal year 2024;
+
+&emsp;&emsp;&emsp;(iii) $120,000,000 for fiscal year 2025;
+
+&emsp;&emsp;&emsp;(iv) $115,000,000 for fiscal year 2026; and
+
+&emsp;&emsp;&emsp;(v) $110,000,000 for fiscal year 2027.
+
+#### (4) Cosmic Microwave Background Stage 4
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary, in partnership with the Director of the National Science Foundation, shall support construction of the Cosmic Microwave Background Stage 4 project to survey the cosmic microwave background to test theories of cosmic inflation as described in the 2014 Particle Physics Prioritization Panel (P5) report entitled "Building for Discovery: Strategic Plan for U.S. Particle Physics in the Global Context.".<sup>1</sup>
+
+#### (B) Consultation
+
+&emsp;&emsp;The Secretary shall consult with the private sector, institutions of higher education, National Laboratories, and relevant Federal agencies to ensure that the project described in subparagraph (A) is capable of meeting Federal research needs in accessing the ultra-high energy physics of inflation and important neutrino properties.
+
+#### (C) Experimental capabilities
+
+&emsp;&emsp;The Secretary shall ensure to the maximum extent practicable that the facility described in subparagraph (A) will provide, at a minimum, 500,000 superconducting detectors deployed on an array of millimeter-wave telescopes with the required range in frequency, sensitivity, and survey speed that will provide sufficient capability to enable an order of magnitude advance in observations of the Cosmic Microwave Background, delivering transformative discoveries in fundamental physics, cosmology, and astrophysics.
+
+#### (D) Start of operations
+
+&emsp;&emsp;The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the facility described in subparagraph (A) occurs before December 31, 2030.
+
+#### (E) Funding
+
+&emsp;&emsp;Out of funds authorized to be appropriated under subsection (k), there are authorized to be appropriated to the Secretary to carryout construction of the facility described in subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) $10,000,000 for fiscal year 2023;
+
+&emsp;&emsp;&emsp;(ii) $25,000,000 for fiscal year 2024;
+
+&emsp;&emsp;&emsp;(iii) $60,000,000 for fiscal year 2025;
+
+&emsp;&emsp;&emsp;(iv) $80,000,000 for fiscal year 2026; and
+
+&emsp;&emsp;&emsp;(v) $80,000,000 for fiscal year 2027.
+
+#### (h) Accelerator and detector upgrades
+
+The Director shall upgrade accelerator facilities and detectors, as necessary and appropriate, to increase beam power, sustain high reliability, and improve precision measurement to advance the highest priority particle physics research programs. In carrying out facility upgrades, the Director shall continue to work with international partners, when appropriate and in the United States' interest, to leverage investments and expertise in critical technologies to help build and upgrade accelerator and detector facilities in the United States.
+
+#### (i) Accelerator and detector research and development
+
+As part of the program described in subsection (b), the Director shall carry out research and development in particle beam physics, accelerator science and technology, and particle and radiation detection with relevance to the specific needs of the High Energy Physics program, in coordination with the Accelerator Research and Development program authorized under section 18648 of this title.
+
+#### (j) Underground science
+
+The Director shall—
+
+&emsp;(1) support an underground science program consistent with the missions of the Department and the scientific needs of the High Energy Physics program, including those articulated in the most recent report of the Particle Physics Project Prioritization Panel of the High Energy Physics Advisory Panel, that leverages the capabilities of relevant underground science and engineering facilities;
+
+&emsp;(2) carry out a competitive grant program to award scientists and engineers at institutions of higher education, nonprofit institutions, and National Laboratories to conduct research in underground science and engineering; and
+
+&emsp;(3) submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the inventory of underground mines in the United States that may be suitable for future development of underground science and engineering facilities and any anticipated challenges associated with repurposing, repair, facility siting, or construction.
+
+#### (k) Authorization of appropriations
+
+Out of funds authorized to be appropriated for the Office of Science in a fiscal year, there are authorized to be appropriated to the Secretary to carry out the activities described in this section—
+
+&emsp;(1) $1,159,520,000 for fiscal year 2023;
+
+&emsp;(2) $1,289,891,200 for fiscal year 2024;
+
+&emsp;(3) $1,428,284,672 for fiscal year 2025;
+
+&emsp;(4) $1,499,881,752 for fiscal year 2026; and
+
+&emsp;(5) $1,554,874,657 for fiscal year 2027.
+
+(Pub. L. 115–246, title III, §305, Sept. 28, 2018, 132 Stat. 3147; Pub. L. 117–167, div. B, title I, §10106, Aug. 9, 2022, 136 Stat. 1445.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsecs. (b), (c). Pub. L. 117–167, §10106(a)(2), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (d) and (e), respectively.
+
+Subsec. (d). Pub. L. 117–167, §10106(a)(1), (b), redesignated subsec. (b) as (d), struck it out, and added a new subsec. (d). Prior to amendment, text read as follows: "The Director, as practicable and in coordination with other appropriate Federal agencies as necessary, shall ensure the access of United States researchers to the most advanced accelerator facilities and research capabilities in the world, including the Large Hadron Collider." Former subsec. (d) redesignated (f).
+
+Subsec. (e). Pub. L. 117–167, §10106(a)(1), redesignated subsec. (c) as (e).
+
+Subsec. (f). Pub. L. 117–167, §10106(a)(1), (c), redesignated subsec. (d) as (f), struck it out, and added a new subsec. (f). Prior to amendment, text read as follows: "The Director shall carry out research activities on the nature of dark energy and dark matter, which may include collaborations with the National Aeronautics and Space Administration or the National Science Foundation; or international collaborations."
+
+Subsecs. (g) to (k). Pub. L. 117–167, §10106(d), added subsecs. (g) to (k).
+
+<i><sup>1</sup></i><i> So in original.</i>
 

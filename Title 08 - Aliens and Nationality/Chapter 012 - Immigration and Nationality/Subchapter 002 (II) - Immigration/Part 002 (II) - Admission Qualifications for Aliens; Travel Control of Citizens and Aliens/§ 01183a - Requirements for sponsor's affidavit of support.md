@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) that is legally enforceable against the sponsor by the sponsored alien, the Federal Government, any State (or any political subdivision of such State), or by any other entity that provides any means-tested public benefit (as defined in subsection (e) <sup>1</sup>), consistent with the provisions of this section; and
 
-&emsp;&emsp;(C) in which the sponsor agrees to submit to the jurisdiction of any Federal or Statecourt for the purpose of actions brought under subsection (b)(2).
+&emsp;&emsp;(C) in which the sponsor agrees to submit to the jurisdiction of any Federal or State court for the purpose of actions brought under subsection (b)(2).
 
 #### (2) Period of enforceability
 
@@ -82,7 +82,7 @@ Remedies available to enforce an affidavit of support under this section include
 
 &emsp;&emsp;(A) not less than $250 or more than $2,000, or
 
-&emsp;&emsp;(B) if such failure occurs with knowledge that the sponsored alien has received anymeans-tested public benefits (other than benefits described in section 1611(b), 1613(c)(2), or 1621(b) of this title) not less than $2,000 or more than $5,000.
+&emsp;&emsp;(B) if such failure occurs with knowledge that the sponsored alien has received any means-tested public benefits (other than benefits described in section 1611(b), 1613(c)(2), or 1621(b) of this title) not less than $2,000 or more than $5,000.
 
 > &emsp;The Attorney General shall enforce this paragraph under appropriate regulations.
 
@@ -116,7 +116,7 @@ An action to enforce an affidavit of support executed under subsection (a) may b
 
 #### (3) Active duty armed services case
 
-&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but is on active duty (other than active duty for training) in the Armed Forces of the United States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but is on active duty (other than active duty for training) in the Armed Forces of theUnited States, is petitioning for the admission of the alien under section 1154 of this title as the spouse or child of the individual, and demonstrates (as provided in paragraph (6)) the means to maintain an annual income equal to at least 100 percent of the Federal poverty line.
 
 #### (4) Certain employment-based immigrants case
 
@@ -154,7 +154,7 @@ An action to enforce an affidavit of support executed under subsection (a) may b
 
 #### (iii) Percent of poverty
 
-&emsp;&emsp;&emsp;For purposes of this section, a reference to an annual income equal to at least a particular percentage of the Federal poverty line means an annual income equal to at least such percentage of the Federal poverty line for a family unit of a size equal to the number of members of thesponsor's household (including family and non-family dependents) plus the total number of other dependents and aliens sponsored by that sponsor.
+&emsp;&emsp;&emsp;For purposes of this section, a reference to an annual income equal to at least a particular percentage of the Federal poverty line means an annual income equal to at least such percentage of the Federal poverty line for a family unit of a size equal to the number of members of the sponsor's household (including family and non-family dependents) plus the total number of other dependents and aliens sponsored by that sponsor.
 
 #### (B) Limitation
 
@@ -184,7 +184,7 @@ For purposes of this section, the term "Federal poverty line" means the level of
 
 Subsection (e), referred to in subsec. (a)(1)(B), does not define "means-tested public benefit".
 
-The Social Security Act, referred to in subsec. (a)(3)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(3)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

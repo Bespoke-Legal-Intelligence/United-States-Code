@@ -62,7 +62,7 @@ Subsec. (b)(4). Pub. L. 107–273, §11008(c), substituted "10" for "five" and "
 
 <b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–132, §723(a)(1), inserted "or conspires" after "attempts".
 
-Subsec. (a)(2). Pub. L. 104–132, §727(b)(1), which directed insertion of ", or threatens to assault, kidnap,or murder, any person who formerly served as a person designated in paragraph (1), or" after "assaults, kidnaps, or murders, or attempts to kidnap or murder", was executed by making the substitution after "assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder" to reflect the probable intent of Congress and the amendment by Pub. L. 104–132, §723(a)(1). See below.
+Subsec. (a)(2). Pub. L. 104–132, §727(b)(1), which directed insertion of ", or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or" after "assaults, kidnaps, or murders, or attempts to kidnap or murder", was executed by making the substitution after "assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder" to reflect the probable intent of Congress and the amendment by Pub. L. 104–132, §723(a)(1). See below.
 
 Pub. L. 104–132, §723(a)(1), inserted "or conspires" after "attempts".
 

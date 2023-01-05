@@ -20,7 +20,7 @@ Employment Investigation Requirement.—(1)(A) The Administrator shall require b
 
 (C)
 
-Exemption.—An employment investigation, including a criminal history record check, shall not be required under this subsection for an individual who is exempted under section 107.31(m)(1) or (2) of title 14, Code of Federal Regulations, as in effect on November 22, 2000.The Administrator shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security.
+Exemption.—An employment investigation, including a criminal history record check, shall not be required under this subsection for an individual who is exempted under section 107.31(m)(1) or (2) of title 14, Code of Federal Regulations, as in effect on November 22, 2000. The Administrator shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security.
 
 (2) An air carrier, foreign air carrier, airport operator, or government that employs, or authorizes or makes a contract for the services of, an individual in a position described in paragraph (1) of this subsection shall ensure that the investigation the Administrator requires is conducted.
 
@@ -118,7 +118,7 @@ When Investigation or Record Check Not Required.—This section does not require
 
 Definition of Administrator.—In this section, the term "Administrator" means the Administrator of the Transportation Security Administration.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1218; Pub. L. 104–264, title III, §§304(a), 306, title V, §502(a), Oct. 9, 1996, 110 Stat. 3251, 3252, 3259; Pub. L. 105–102, §2(25), Nov. 20, 1997, 111 Stat. 2205;Pub. L. 105–142, §1, Dec. 5, 1997, 111 Stat. 2650; Pub. L. 106–181, title V, §508, Apr. 5, 2000, 114 Stat. 140; Pub. L. 106–528, §2(c), (d), Nov. 22, 2000, 114 Stat. 2517, 2518; Pub. L. 107–71, title I, §§101(f)(7), (9), 111(b), 138(a), (b)(1), 140(a)(1), Nov. 19, 2001, 115 Stat. 603, 620, 639–641; Pub. L. 115–254, div. K, title I, §1991(d)(27), Oct. 5, 2018, 132 Stat. 3638.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1218; Pub. L. 104–264, title III, §§304(a), 306, title V, §502(a), Oct. 9, 1996, 110 Stat. 3251, 3252, 3259; Pub. L. 105–102, §2(25), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–142, §1, Dec. 5, 1997, 111 Stat. 2650; Pub. L. 106–181, title V, §508, Apr. 5, 2000, 114 Stat. 140; Pub. L. 106–528, §2(c), (d), Nov. 22, 2000, 114 Stat. 2517, 2518; Pub. L. 107–71, title I, §§101(f)(7), (9), 111(b), 138(a), (b)(1), 140(a)(1), Nov. 19, 2001, 115 Stat. 603, 620, 639–641; Pub. L. 115–254, div. K, title I, §1991(d)(27), Oct. 5, 2018, 132 Stat. 3638.)
 
 Historical and Revision Notes
 
@@ -168,7 +168,7 @@ In subsection (b)(2), the words "The Administrator may specify" are substituted 
 
 In subsection (b)(3), the words "may employ" are substituted for "It shall not be a violation of subparagraph (A) for . . . to employ" to eliminate unnecessary words.
 
-In subsection (c)(1), the words "Before designating an individual to obtain and submit fingerprints or receive results of a check, the Administrator shall consult with the Attorney General" are substituted for "after consultation with the Attorney General" for clarity.
+In subsection (c)(1), the words "Before designating an individual to obtain and submit fingerprints or receive results of a check, the Administrator shall consult withthe Attorney General" are substituted for "after consultation with the Attorney General" for clarity.
 
 In subsection (c)(2), before clause (A), the words "For purposes of administering this subsection" are omitted as unnecessary. In clause (A), the word "implement" is omitted as unnecessary because of the restatement. In clause (B), before subclause (ii), the word "establish" is omitted as unnecessary because of the restatement. In subclause (ii), the words "to carry out this section" are substituted for "for the purposes of this section" for clarity.
 
@@ -262,7 +262,7 @@ Subsec. (b)(1)(B)(xi). Pub. L. 106–528, §2(d)(2), inserted "or felony unarmed
 
 Subsec. (b)(1)(B)(xiii) to (xv). Pub. L. 106–528, §2(d)(3)–(5), added cls. (xiii) and (xiv), redesignated former cl. (xiii) as (xv), and in cl. (xv) substituted "clauses (i) through (xiv)" for "clauses (i)–(xii) of this paragraph".
 
-Subsec. (f)(1)(B). Pub. L. 106–181, §508(b)(1), inserted "(except a branch of the United States Armed Forces, the National Guard, or a reserve component of the United States Armed Forces)" after "other person" in introductory provisions.
+Subsec. (f)(1)(B). Pub. L. 106–181, §508(b)(1), inserted "(except a branch of the United States Armed Forces,the National Guard, or a reserve component of the United States Armed Forces)" after "other person" in introductory provisions.
 
 Subsec. (f)(1)(B)(ii). Pub. L. 106–181, §508(b)(2), substituted "individual's performance as a pilot" for "individual" in introductory provisions.
 

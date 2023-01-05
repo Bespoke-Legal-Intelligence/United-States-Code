@@ -30,7 +30,7 @@
 
 (c) Notwithstanding any provision of law to the contrary—
 
-&emsp;(1) Upon the consent of the parties, a full-time United States magistrate judge or a part-time United States magistrate judge who serves as a full-time judicial officer may conduct any or all proceedings in a jury or nonjury civil matter and order the entry of judgment in the case, when specially designated to exercise such jurisdiction by the district court or courts he serves. Upon the consent of the parties, pursuant to their specific written request, any other part-time magistrate judge may exercise such jurisdiction, if such magistrate judge meets the bar membership requirements set forth in section 631(b)(1) and the chief judge of the district court certifies that a full-time magistrate judge is not reasonably available in accordance with guidelines established by the judicial council of the circuit. When there is more than one judge of a district court, designation under this paragraph shall be by the concurrence of a majority of all the judges of such district court, and when there is no such concurrence, then by the chief judge.
+&emsp;(1) Upon the consent of the parties, a full-time United States magistrate judge or a part-time United States magistrate judge who serves as a full-time judicial officer may conduct any or all proceedings in a jury or nonjury civil matter and order the entry of judgment in the case, when specially designated to exercise such jurisdiction by the district court or courts he serves. Upon the consent of the parties, pursuant to their specific written request, any other part-time magistrate judge may exercise such jurisdiction, if such magistrate judge meets the bar membership requirements set forth in section 631(b)(1) and the chief judge of the districtcourt certifies that a full-time magistrate judge is not reasonably available in accordance with guidelines established by the judicial council of the circuit. When there is more than one judge of a district court, designation under this paragraph shall be by the concurrence of a majority of all the judges of such district court, and when there is no such concurrence, then by the chief judge.
 
 &emsp;(2) If a magistrate judge is designated to exercise civil jurisdiction under paragraph (1) of this subsection, the clerk of court shall, at the time the action is filed, notify the parties of the availability of a magistrate judge to exercise such jurisdiction. The decision of the parties shall be communicated to the clerk of court. Thereafter, either the district court judge or the magistrate judge may again advise the parties of the availability of the magistrate judge, but in so doing, shall also advise the parties that they are free to withhold consent without adverse substantive consequences. Rules of court for the reference of civil matters to magistrate judges shall include procedures to protect the voluntariness of the parties' consent.
 
@@ -106,7 +106,7 @@ Provisions in sections 27, 66, 67, 68, 100, 117e, 129, 172, 181b, 204e, 256d, 37
 
 #### Senate Revision Amendment
 
-As finally enacted, section 158b of Title 16, U.S.C., which was derived from act May 15, 1947, ch. 55, §2, 61 Stat. 92, was an additional source of this section, and such act was accordingly included by Senate amendment in the schedule of repeals. No change in the text of the section was necessary as the result of inclusion of such section 158b. See 80th Congress Senate Report No. 1559.
+As finally enacted, section 158b of Title 16, U.S.C., which was derived from act May 15, 1947, ch. 55, §2, 61Stat. 92, was an additional source of this section, and such act was accordingly included by Senate amendment in the schedule of repeals. No change in the text of the section was necessary as the result of inclusion of such section 158b. See 80th Congress Senate Report No. 1559.
 
 As finally enacted, act May 15, 1947, ch. 57, 61 Stat. 92, which amended section 403c–5 of Title 16, U.S.C., was an additional source of this section, and such act was accordingly included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, whichis the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "post-trial".</i>
 

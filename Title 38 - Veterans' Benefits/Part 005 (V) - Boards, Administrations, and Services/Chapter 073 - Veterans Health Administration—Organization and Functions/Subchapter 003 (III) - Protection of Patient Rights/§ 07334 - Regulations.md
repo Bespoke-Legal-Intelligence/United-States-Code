@@ -8,7 +8,7 @@
 
 &emsp;(2) regulations governing (A) the confidentiality of drug and alcohol abuse medical records, and (B) the admission of drug and alcohol abusers to private and public hospitals, prescribed pursuant to the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 (42 U.S.C. 4551 et seq.) and the Drug Abuse Office and Treatment Act of 1972 (21 U.S.C. 1101 et seq.).
 
-(c) Regulations prescribed by the Secretary under sections 7331, 7332, and 7333 of this title may contain such definitions, and may providefor such safeguards and procedures (including procedures and criteria for the issuance and scope of court orders under section 7332(b)(2)(C) <sup>1</sup> of this title), as are necessary to prevent circumvention or evasion of such regulations or to facilitate compliance with such regulations.
+(c) Regulations prescribed by the Secretary under sections 7331, 7332, and 7333 of this title may contain such definitions, and may provide for such safeguards and procedures (including procedures and criteria for the issuance and scope of court orders under section 7332(b)(2)(C) <sup>1</sup> of this title), as are necessary to prevent circumvention or evasion of such regulations or to facilitate compliance with such regulations.
 
 (d) In prescribing and implementing such regulations, the Secretary shall, from time to time, consult with the Secretary of Health and Human Services and, as appropriate, with the President (or the delegate of the President) in order to achieve the maximum possible coordination of the regulations, and the implementation of the regulations, which they and the Secretary prescribe.
 
@@ -18,11 +18,11 @@
 
 #### References in Text
 
-Section 201 of the National Research Act, referred to in subsec. (b)(1), is section 201 of Pub. L. 93–348, title II, July 12, 1974, 88 Stat. 348, as amended, which was set out as a note under section 289l–1 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 95–622, title III, §302(b), Nov. 9, 1978, 92 Stat. 3442.
+Section 201 of the National Research Act, referred to in subsec. (b)(1), is section 201 of Pub. L. 93–348, title II, July 12, 1974, 88 Stat. 348, which was set out as a note under section 289l–1 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 95–622, title III, §302(b), Nov. 9, 1978, 92 Stat. 3442.
 
-The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 (42 U.S.C. 4551 et seq.), referred to in subsec. (b)(2), is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, as amended, which is classified principally to chapter 60 (§4541 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4541 of Title 42 and Tables.
+The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 (42 U.S.C. 4551 et seq.), referred to in subsec. (b)(2), is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, which is classified principally to chapter 60 (§4541 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4541 of Title 42 and Tables.
 
-The Drug Abuse Office and Treatment Act of 1972, referred to in subsec. (b)(2), which was redesignated the Drug Abuse Prevention, Treatment, and Rehabilitation Act, is Pub. L. 92–255, Mar. 21, 1972, 86 Stat. 65, as amended, which is classified principally to chapter 16 (§1101 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 21 and Tables.
+The Drug Abuse Office and Treatment Act of 1972, referred to in subsec. (b)(2), which was redesignated the Drug Abuse Prevention, Treatment, and Rehabilitation Act, is Pub. L. 92–255, Mar. 21, 1972, 86 Stat. 65, which is classified principally to chapter 16 (§1101 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 21 and Tables.
 
 Section 7332(b)(2)(C) of this title, referred to in subsec. (c), was formerly a reference to section 4132(b)(2)(C) of this title which was redesignated section 4132(b)(2)(D) by Pub. L. 100–322, title I, §121(b)(2)(A), May 20, 1988, 102 Stat. 502, and subsequently renumbered section 7332(b)(2)(D) by Pub. L. 102–40, title IV, §401(a)(4)(A), May 7, 1991, 105 Stat. 221. The reference to section 4132(b)(2)(C) in subsec. (c) was amended to reflect the renumbering by Pub. L. 102–40 but not the redesignation by Pub. L. 100–322.
 

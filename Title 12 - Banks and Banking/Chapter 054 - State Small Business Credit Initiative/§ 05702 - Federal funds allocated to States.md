@@ -70,7 +70,7 @@ The amount allocated by the Secretary to each participating State under subsecti
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Inspector General of the Department of the Treasury shall carry out an audit ofthe participating State's use of allocated Federal funds transferred to the State.
+&emsp;&emsp;&emsp;The Inspector General of the Department of the Treasury shall carry out an audit of the participating State's use of allocated Federal funds transferred to the State.
 
 #### (ii) Recoupment of misused transferred funds required
 

@@ -1,0 +1,72 @@
+### §18646. Nuclear physics
+
+#### (a) Program
+
+As part of the activities authorized under section 7139 of this title, the Director shall carry out a research program, and support relevant facilities, to discover and understand various forms of nuclear matter.
+
+#### (b) Electron Ion Collider
+
+#### (1) In general
+
+&emsp;The Secretary shall support construction of an Electron Ion Collider as described in the 2015 Long Range Plan of the Nuclear Science Advisory Committee and the report from the National Academies of Science, Engineering, and Medicine entitled "An Assessment of U.S.-Based Electron-Ion Collider Science", in order to measure the internal structure of the proton and the nucleus and answer fundamental questions about the nature of visible matter.
+
+#### (2) Facility capability
+
+&emsp;The Secretary shall ensure that the facility described in paragraph (1) meets the requirements in the 2015 Long Range Plan described in that paragraph, including—
+
+&emsp;&emsp;(A) at least 70 percent polarized beams of electrons and light ions;
+
+&emsp;&emsp;(B) ion beams from deuterium to the heaviest stable nuclei;
+
+&emsp;&emsp;(C) variable center of mass energy from 20 to 140 GeV;
+
+&emsp;&emsp;(D) high collision luminosity of 10<sup>33–34</sup>cm<sup>-2</sup>s<sup>-1</sup>; and
+
+&emsp;&emsp;(E) the possibility of more than 1 interaction region.
+
+#### (3) Start of operations
+
+&emsp;The Secretary shall, subject to the availability of appropriations, ensure that the start of full operations of the facility under this subsection occurs before December 31, 2030.
+
+#### (4) Funding
+
+&emsp;Out of funds authorized to be appropriated under subsection (c), there are authorized to be appropriated to the Secretary to carry out construction of the facility under this subsection—
+
+&emsp;&emsp;(A) $90,000,000 for fiscal year 2023;
+
+&emsp;&emsp;(B) $181,000,000 for fiscal year 2024;
+
+&emsp;&emsp;(C) $219,000,000 for fiscal year 2025;
+
+&emsp;&emsp;(D) $297,000,000 for fiscal year 2026; and
+
+&emsp;&emsp;(E) $301,000,000 for fiscal year 2027.
+
+#### (c) Authorization of appropriations
+
+Out of funds authorized to be appropriated for the Office of Science in a fiscal year, there are authorized to be appropriated to the Secretary to carry out the activities described in this section—
+
+&emsp;(1) $840,480,000 for fiscal year 2023;
+
+&emsp;(2) $976,508,800 for fiscal year 2024;
+
+&emsp;(3) $1,062,239,328 for fiscal year 2025;
+
+&emsp;(4) $1,190,833,688 for fiscal year 2026; and
+
+&emsp;(5) $1,248,463,709 for fiscal year 2027.
+
+(Pub. L. 115–246, title III, §308, Sept. 28, 2018, 132 Stat. 3150; Pub. L. 117–167, div. B, title I, §10107, Aug. 9, 2022, 136 Stat. 1449.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Pub. L. 117–167 amended section generally. Prior to amendment, text was comprised of subsec. (a) of section 308 of Pub. L. 115–246 which read as follows: "The Director—
+
+&emsp;"(1) may carry out a program for the production of isotopes, including the development of techniques to produce isotopes, that the Secretary determines are needed for research, medical, industrial, or related purposes; and
+
+&emsp;"(2) shall ensure that isotope production activities carried out under the program under this paragraph do not compete with private industry unless the Director determines that critical national interests require the involvement of the Federal Government."
+
+> Prior to amendment, section 308 of Pub. L. 115–246 also contained subsec. (b) which amended section 16321 of this title.
+

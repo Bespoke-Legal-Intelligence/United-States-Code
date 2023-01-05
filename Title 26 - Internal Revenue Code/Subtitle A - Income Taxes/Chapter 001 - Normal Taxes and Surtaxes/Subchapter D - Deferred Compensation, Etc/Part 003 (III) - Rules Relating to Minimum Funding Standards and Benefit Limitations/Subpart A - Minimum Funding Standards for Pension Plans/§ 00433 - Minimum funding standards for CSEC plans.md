@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of section 412, the term "accumulated funding deficiency" for a CSEC plan means the excess of the total charges to the funding standard account for all plan years (beginning with the first plan year to which section 412 applies) over the total credits to such account for such years or, if less, the excess of the total charges to the alternative minimum funding standard account for such plan years over the total credits to such account for such years.
+For purposes of section 412, the term "accumulated funding deficiency" for a CSEC plan meansthe excess of the total charges to the funding standard account for all plan years (beginning with the first plan year to which section 412 applies) over the total credits to such account for such years or, if less, the excess of the total charges to the alternative minimum funding standard account for such plan years over the total credits to such account for such years.
 
 #### (b) Funding standard account
 
@@ -20,7 +20,7 @@ For purposes of section 412, the term "accumulated funding deficiency" for a CSE
 
 &emsp;&emsp;&emsp;(i) in the case of a plan in existence on January 1, 1974, the unfunded past service liability under the plan on the first day of the first plan year to which section 412 applies, over a period of 40 plan years,
 
-&emsp;&emsp;&emsp;(ii) in the case of a plan which comes into existence after January 1, 1974, but before the first day of the first plan year beginning after December 31, 2013, the unfunded past service liability under the plan on the first day of the first plan year towhich section 412 applies, over a period of 30 plan years,
+&emsp;&emsp;&emsp;(ii) in the case of a plan which comes into existence after January 1, 1974, but before the first day of the first plan year beginning after December 31, 2013, the unfunded past service liability under the plan on the first day of the first plan year to which section 412 applies, over a period of 30 plan years,
 
 &emsp;&emsp;&emsp;(iii) separately, with respect to each plan year, the net increase (if any) in unfunded past service liability under the plan arising from plan amendments adopted in such year, over a period of 15 plan years,
 
@@ -242,7 +242,7 @@ The period of years required to amortize any unfunded liability (described in an
 
 #### (3) Interest
 
-&emsp;The alternative minimum funding standard account (and items therein) shall be charged or credited with interest in the manner provided under subsection (b)(5) with respect to the funding standard account.
+&emsp;The alternative minimum funding standard account (and items therein) shall be chargedor credited with interest in the manner provided under subsection (b)(5) with respect to the funding standard account.
 
 #### (f) Quarterly contributions required
 
@@ -521,7 +521,7 @@ For purposes of this section—
 
 #### (D) Election
 
-&emsp;&emsp;An employer may elect not to have this subparagraph apply. Such an election, once made, may be revoked only with the consent of the Secretary.
+&emsp;&emsp;An employer may elect not to have this subparagraph apply. Such an election, oncemade, may be revoked only with the consent of the Secretary.
 
 #### (i) Funded current liability percentage
 
@@ -607,7 +607,7 @@ Section 104 of the Pension Protection Act of 2006, referred to in subsec. (b)(6)
 
 The Social Security Act, referred to in subsecs. (c)(4)(A) and (h)(3)(C)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(5)(C)(ii)(II), (d), and (g)(2), (4)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Sections 4001, 4006, 4021, and 4068 of the Act are classified to sections 1301, 1306, 1321, and 1368 of Title 29, respectively. For complete classification ofthis Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(5)(C)(ii)(II), (d), and (g)(2), (4)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29. Sections 4001, 4006, 4021, and 4068 of the Act are classified to sections 1301, 1306, 1321, and 1368 of Title 29, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of the enactment of the Retirement Protection Act of 1994, referred to in subsec. (g)(2), is the date of enactment of subtitle F of title VII of Pub. L. 103–465, which was approved Dec. 8, 1994.
 

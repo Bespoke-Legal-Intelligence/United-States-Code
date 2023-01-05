@@ -76,7 +76,7 @@ Ex. Ord. No. 10988, Jan. 17, 1962, 27 F.R. 551, which related to employee-manage
 
 #### Ex. Ord. No. 11491. Labor-Management Relations in the Federal Service
 
-Ex. Ord. No. 11491, Oct. 29, 1969, 34 F.R. 17605, as amended by Ex. Ord. No. 11616, Aug. 26, 1971, 36 F.R.17319; Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901; Ex. Ord. No. 11838, Feb. 6, 1975, 40 F.R. 5743; Ex. Ord. No. 11901, Jan. 30, 1976, 41 F.R. 4807; Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
+Ex. Ord. No. 11491, Oct. 29, 1969, 34 F.R. 17605, as amended by Ex. Ord. No. 11616, Aug. 26, 1971, 36 F.R. 17319; Ex. Ord. No. 11636, Dec. 17, 1971, 36 F.R. 24901; Ex.Ord. No. 11838, Feb. 6, 1975, 40 F.R. 5743; Ex. Ord. No. 11901, Jan. 30, 1976, 41 F.R. 4807; Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
 WHEREAS the public interest requires high standards of employee performance and the continual development and implementation of modern and progressive work practices to facilitate improved employee performance and efficiency; and
 
@@ -234,7 +234,7 @@ Sec. 8. \[Revoked by Ex. Ord. No. 11616, Aug. 26, 1971, 36 F.R. 17319.\]
 
 Sec. 9. <i>National consultation rights</i>. (a) An agency shall accord national consultation rights to a labor organization which qualifies under criteria established by the Federal Labor Relations Authority as the representative of a substantial number of employees of the agency. National consultation rights shall not be accorded for any unit where a labor organization already holds exclusive recognition at the national level for that unit. The granting of national consultation rights does not preclude an agency from appropriate dealings at the national level with other organizations on matters affecting their members. An agency shall terminate national consultation rights when the labor organization ceases to qualify under the established criteria.
 
-(b) When a labor organization has been accorded national consultation rights, the agency, through appropriate officials, shall notify representatives of the organization of proposed substantive changes in personnel policies that affect employees it represents and provide an opportunity for the organization to comment on the proposed changes. The labor organization may suggest changes in the agency's personnel policies and have its views carefully considered. It may consult in person at reasonable times, on request, with appropriate officials on personnel policy matters, and at all times present its views thereon in writing. An agency is not required to consult with a labor organization on any matter on which it would not be required to meet and confer if the organization were entitled to exclusive recognition.
+(b) When a labor organization has been accorded national consultation rights, the agency, through appropriate officials, shall notify representatives of the organization of proposed substantive changes in personnel policies that affect employees it represents and providean opportunity for the organization to comment on the proposed changes. The labor organization may suggest changes in the agency's personnel policies and have its views carefully considered. It may consult in person at reasonable times, on request, with appropriate officials on personnel policy matters, and at all times present its views thereon in writing. An agency is not required to consult with a labor organization on any matter on which it would not be required to meet and confer if the organization were entitled to exclusive recognition.
 
 (c) Questions as to the eligibility of labor organizations for national consultation rights may be referred to the Authority for decision.
 
@@ -294,7 +294,7 @@ Sec. 12. <i>Basic provisions of agreements</i>. Each agreement between an agency
 
 (1) to direct employees of the agency;
 
-(2) to hire, promote, transfer, assign, and retain employees in positions within the agency, and to suspend, demote, discharge, or take other disciplinary action against employees;
+(2) to hire, promote, transfer, assign, and retain employees in positions within the agency, and to suspend,demote, discharge, or take other disciplinary action against employees;
 
 (3) to relieve employees from duties because of lack of work or for other legitimate reasons;
 
@@ -348,7 +348,7 @@ Sec. 18. <i>Standards of conduct for labor organizations.</i>
 
 (c) A labor organization which has or seeks recognition as a representative of employees under this Order shall file financial and other reports, provide for bonding of officials and employees of the organization, and comply with trusteeship and election standards.
 
-(d) The Assistant Secretary shall prescribe the regulations needed to effectuate this section. These regulations shall conform generally to the principles appliedto unions in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary.
+(d) The Assistant Secretary shall prescribe the regulations needed to effectuate this section. These regulations shall conform generally to the principles applied to unions in the private sector. Complaints of violations of this section shall be filed with the Assistant Secretary.
 
 Sec. 19. <i>Unfair labor practices</i>. (a) Agency management shall not—
 
@@ -428,7 +428,7 @@ Ex. Ord. No. 13522, Dec. 9, 2009, 74 F.R. 66203, which related to the establishm
 
 #### Extension of Term of National Council on Federal Labor-Management Relations
 
-Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 1013 of this title.
 
 Previous extensions of term of National Council on Federal Labor-Management Relations were contained in the following prior Executive Orders:
 
@@ -438,7 +438,7 @@ Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 
 
 #### Extension of Term of U.S. General Services Administration Labor-Management Relations Council
 
-Term of U.S. General Services Administration Labor-Management Relations Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of U.S. General Services Administration Labor-Management Relations Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 1013 of this title.
 
 #### Executive Order No. 13836
 

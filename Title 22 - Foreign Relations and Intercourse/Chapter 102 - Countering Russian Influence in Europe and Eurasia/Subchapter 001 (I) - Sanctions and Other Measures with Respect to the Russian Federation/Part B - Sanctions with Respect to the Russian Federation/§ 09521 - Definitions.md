@@ -46,6 +46,162 @@ Section 4618 of title 50, referred to in par. (2), was repealed by Pub. L. 115�
 
 The International Emergency Economic Powers Act, referred to in par. (2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Imposition of Sanctions With Respect to the Sale, Supply, or Transfer of Gold to or From Russia
+
+Pub. L. 117–263, div. E, title LV, §5590, Dec. 23, 2022, 136 Stat. 3380, provided that:
+
+"(a)
+
+Identification.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2022\], and periodically as necessary thereafter, the President—
+
+&emsp;"(1) shall submit to Congress a report identifying foreign persons that knowingly participated in a significant transaction—
+
+&emsp;&emsp;"(A) for the sale, supply, or transfer (including transportation) of gold, directly or indirectly, to or from the Russian Federation or the Government of the Russian Federation, including from reserves of the Central Bank of the Russian Federation held outside the Russian Federation; or
+
+&emsp;&emsp;"(B) that otherwise involved gold in which the Government of the Russian Federation had any interest; and
+
+&emsp;"(2) shall impose the sanctions described in subsection (b)(1) with respect to each such person; and
+
+&emsp;"(3) may impose the sanctions described in subsection (b)(2) with respect to any such person that is an alien.
+
+"(b)
+
+Sanctions Described.—The sanctions described in this subsection are the following:
+
+&emsp;"(1)
+
+Blocking of property.—The exercise of all powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a foreign person identified in the report required by subsection (a)(1) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
+
+&emsp;"(2)
+
+Ineligibility for visas, admission, or parole.—
+
+&emsp;&emsp;"(A)
+
+Visas, admission, or parole.—An alien described in subsection (a)(1) is—
+
+&emsp;&emsp;&emsp;"(i) inadmissible to the United States;
+
+&emsp;&emsp;&emsp;"(ii) ineligible to receive a visa or other documentation to enter the United States; and
+
+&emsp;&emsp;&emsp;"(iii) otherwise ineligible to be admitted or paroled into the United States or to receive any other benefit under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+
+&emsp;&emsp;"(B)
+
+Current visas revoked.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The issuing consular officer, the Secretary of State, or the Secretary of Homeland Security (or a designee of one of such Secretaries) shall, in accordance with section 221(i) of the Immigration and Nationality Act (8 U.S.C. 1201(i)), revoke any visa or other entry documentation issued to an alien described in subsection (a)(1).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Immediate effect.—The revocation under clause (i) of a visa or other entry documentation issued to an alien shall—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) take effect immediately; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) automatically cancel any other valid visa or entry documentation that is in the alien's possession.
+
+"(c)
+
+Implementation; Penalties.—
+
+&emsp;"(1)
+
+Implementation.—The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
+
+&emsp;"(2)
+
+Penalties.—A person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+
+"(d)
+
+National Interest Waiver.—The President may waive the imposition of sanctions under this section with respect to a person if the President—
+
+&emsp;"(1) determines that such a waiver is in the national interests of the United States; and
+
+&emsp;"(2) submits to Congress a notification of the waiver and the reasons for the waiver.
+
+"(e)
+
+Termination.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the requirement to impose sanctions under this section, and any sanctions imposed under this section, shall terminate on the earlier of—
+
+&emsp;&emsp;"(A) the date that is 3 years after the date of the enactment of this Act; or
+
+&emsp;&emsp;"(B) the date that is 30 days after the date on which the President certifies to Congress that—
+
+&emsp;&emsp;&emsp;"(i) the Government of the Russian Federation has ceased its destabilizing activities with respect to the sovereignty and territorial integrity of Ukraine; and
+
+&emsp;&emsp;&emsp;"(ii) such termination in the national interests of the United States.
+
+&emsp;"(2)
+
+Transition rules.—
+
+&emsp;&emsp;"(A)
+
+Continuation of certain authorities.—Any authorities exercised before the termination date under paragraph (1) to impose sanctions with respect to a foreign person under this section may continue to be exercised on and after that date if the President determines that the continuation of those authorities is in the national interests of the United States.
+
+&emsp;&emsp;"(B)
+
+Application to ongoing investigations.—The termination date under paragraph (1) shall not apply to any investigation of a civil or criminal violation of this section or any regulation, license, or order issued to carry out this section, or the imposition of a civil or criminal penalty for such a violation, if—
+
+&emsp;&emsp;&emsp;"(i) the violation occurred before the termination date; or
+
+&emsp;&emsp;&emsp;"(ii) the person involved in the violation continues to be subject to sanctions pursuant to subparagraph (A).
+
+"(f)
+
+Exceptions.—
+
+&emsp;"(1)
+
+Exceptions for authorized intelligence and law enforcement and national security activities.—This section shall not apply with respect to activities subject to the reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.) or any authorized intelligence, law enforcement, or national security activities of the United States.
+
+&emsp;"(2)
+
+Exception to comply with international agreements.—Sanctions under subsection (b)(2) may not apply with respect to the admission of an alien to the United States if such admission is necessary to comply with the obligations of the United States under the Agreement regarding the Headquarters of the United Nations, signed at Lake Success June 26, 1947, and entered into force November 21, 1947, between the United Nations and the United States, or the Convention on Consular Relations, done at Vienna April 24, 1963, and entered into force March 19, 1967, or other international obligations.
+
+&emsp;"(3)
+
+Humanitarian exemption.—The President shall not impose sanctions under this section with respect to any person for conducting or facilitating a transaction for the sale of agricultural commodities, food, medicine, or medical devices or for the provision of humanitarian assistance.
+
+&emsp;"(4)
+
+Exception relating to importation of goods.—
+
+&emsp;&emsp;"(A)
+
+In general.—The requirement or authority to impose sanctions under this section shall not include the authority or a requirement to impose sanctions on the importation of goods.
+
+&emsp;&emsp;"(B)
+
+Good defined.—In this paragraph, the term 'good' means any article, natural or manmade substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1) The terms 'admission', 'admitted', 'alien', and 'lawfully admitted for permanent residence' have the meanings given those terms in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
+
+&emsp;"(2) The term 'foreign person' means an individual or entity that is not a United States person.
+
+&emsp;"(3) The term 'knowingly', with respect to conduct, a circumstance, or a result, means that a person has actual knowledge, or should have known, of the conduct, the circumstance, or the result.
+
+&emsp;"(4) The term 'United States person' means—
+
+&emsp;&emsp;"(A) a United States citizen or an alien lawfully admitted for permanent residence to the United States;
+
+&emsp;&emsp;"(B) an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity; or
+
+&emsp;&emsp;"(C) any person in the United States."
+
 #### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13849. Authorizing the Implementation of Certain Sanctions Set Forth in the Countering America's Adversaries Through Sanctions Act
@@ -54,7 +210,7 @@ Ex. Ord. No. 13849, Sept. 20, 2018, 83 F.R. 48195, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), the Countering America's Adversaries Through Sanctions Act (Public Law 115–44) (CAATSA), the Ukraine Freedom Support Act of 2014 (Public Law 113–272), as amended \[22 U.S.C. 8921 et seq.\] (UFSA), section 212(f) of the Immigration and Nationality Act of 1952 (8 U.S.C. 1182(f)), and section 301 of title 3, United States Code,
 
-I, DONALD J. TRUMP, President of the United States of America, in order to take additional steps with respect to the national emergencies declared in Executive Order 13660 of March 6, 2014, as expanded in scope and relied upon for additional steps taken in subsequent Executive Orders, and Executive Order 13694 of April 1, 2015, as relied upon for additional steps taken in Executive Order 13757 of December 28, 2016 \[listed in a table under 50 U.S.C. 1701\], hereby order:
+I, DONALD J. TRUMP, President of the United States of America, in order to take additional stepswith respect to the national emergencies declared in Executive Order 13660 of March 6, 2014, as expanded in scope and relied upon for additional steps taken in subsequent Executive Orders, and Executive Order 13694 of April 1, 2015, as relied upon for additional steps taken in Executive Order 13757 of December 28, 2016 \[listed in a table under 50 U.S.C. 1701\], hereby order:
 
 Section 1. (a) When the President, or the Secretary of State or the Secretary of the Treasury pursuant to authority delegated by the President and in accordance with the terms of such delegation, has determined that sanctions shall be imposed on a person pursuant to sections 224(a)(2), 231(a), 232(a), or 233(a) of CAATSA \[22 U.S.C. 9524(a)(2), 9525(a), 9526(a), or 9527(a)\] and has selected from section 235 of CAATSA \[22 U.S.C. 9529\] any of the sanctions set forth below to impose on that person, the Secretary of the Treasury, in consultation with the Secretary of State, shall take the following actions where necessary to implement the sanctions selected and maintained by the President, the Secretary of State, or the Secretary of the Treasury:
 
@@ -78,7 +234,7 @@ Section 1. (a) When the President, or the Secretary of State or the Secretary of
 
 (c) The prohibitions in this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the date of this order \[Sept. 20, 2018\].
 
-Sec. 2. (a) When the President, or the Secretary of State or the Secretary of the Treasury pursuant to authority delegated by the President and in accordance with the terms of such delegation, has determined that sanctions shall be imposed on a person pursuant to sections 224(a)(2), 231(a), 232(a), or 233(a) of CAATSA and has selected from section 235 of CAATSA any of the sanctions set forth below to impose on that person, the heads of relevant departments and agencies, in consultation with the Secretary of State and the Secretaryof the Treasury, as appropriate, shall ensure that the following actions are taken where necessary to implement the sanctions selected and maintained by the President, the Secretary of State, or the Secretary of the Treasury:
+Sec. 2. (a) When the President, or the Secretary of State or the Secretary of the Treasury pursuant to authority delegated by the President and in accordance with the terms of such delegation, has determined that sanctions shall be imposed on a person pursuant to sections 224(a)(2), 231(a), 232(a), or 233(a) of CAATSA and has selected from section 235 of CAATSA any of the sanctions set forth below to impose on that person, the heads of relevant departments and agencies, in consultation with the Secretary of State and the Secretary of the Treasury, as appropriate, shall ensure that the following actions are taken where necessary to implement the sanctions selected and maintained by the President, the Secretary of State, or the Secretary of the Treasury:
 
 (i) The Export-Import Bank shall deny approval of the issuance of any guarantee, insurance, extension of credit, or participation in an extension of credit in connection with the export of any goods or services to the sanctioned person;
 
@@ -100,7 +256,7 @@ Sec. 3. (a) When the President, or the Secretary of State or the Secretary of th
 
 (i) block all property and interests in property of the sanctioned person that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person, and provide that such property and interests in property may not be transferred, paid, exported, withdrawn, or otherwise dealt in;
 
-(ii) prohibit any transfers of credit or payments between financial institutions, or by, through, or to any financial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the sanctioned person;
+(ii) prohibit any transfers of credit or payments between financial institutions, or by, through, or to anyfinancial institution, to the extent that such transfers or payments are subject to the jurisdiction of the United States and involve any interest of the sanctioned person;
 
 (iii) prohibit any United States person from transacting in, providing financing for, or otherwise dealing in certain debt or equity of the sanctioned person, in accordance with section 4(c)(7) of UFSA; or
 
@@ -154,7 +310,7 @@ Sec. 7. For the purposes of this order:
 
 Sec. 8. For those persons whose property and interests in property are blocked pursuant to this order who might have a constitutional presence in the United States, I find that because of the ability to transfer funds or other assets instantaneously, prior notice to such persons of measures to be taken with respect to such property or interests in property pursuant to this order would render those measures ineffectual. I therefore determine that for these measures to be effective in addressing the national emergencies declared in Executive Orders 13660 and 13694, there need be no prior notice of an action taken pursuant to this order with respect to such property or interests in property.
 
-Sec. 9. The unrestricted immigrant and nonimmigrant entry into the United States of aliens on whom sanctions described in sections 1(a)(iv) or 3(a)(i) of this order have been imposed would be detrimental to the interests of the United States, and the entry of such persons into the United States, as immigrants or nonimmigrants, is hereby suspended. Such persons shall be treated as persons covered by section 1 of Proclamation 8693.
+Sec. 9. The unrestricted immigrant and nonimmigrant entry into the United States of aliens on whom sanctions described in sections 1(a)(iv) or 3(a)(i) of this order have been imposed would be detrimental to the interests of the United States, and the entry ofsuch persons into the United States, as immigrants or nonimmigrants, is hereby suspended. Such persons shall be treated as persons covered by section 1 of Proclamation 8693.
 
 Sec. 10. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by IEEPA, and sections 224(a)(2), 224(a)(3), 231(a), 231(e), 232(a), 233(a), and 235 of CAATSA and sections 4(a)–(c) and 4(h) of UFSA with respect to powers to impose sanctions, as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may, consistent with applicable law, redelegate any of these functions within the Department of the Treasury. All departments and agencies of the United States Government shall take all appropriate measures within their authority to carry out the provisions of this order.
 

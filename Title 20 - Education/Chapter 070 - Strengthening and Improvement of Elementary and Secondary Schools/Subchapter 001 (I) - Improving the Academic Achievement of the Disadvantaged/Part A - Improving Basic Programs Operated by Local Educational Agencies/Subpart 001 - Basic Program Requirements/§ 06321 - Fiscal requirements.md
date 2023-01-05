@@ -24,7 +24,7 @@ A local educational agency may receive funds under this part for any fiscal year
 
 #### (4) Prohibition
 
-&emsp;Nothing in this section shall be construed to authorize or permit the Secretary to prescribe the specific methodology a local educational agency uses to allocate State and local funds to each school receiving assistance under this part.
+&emsp;Nothing in this section shall be construed to authorize or permit the Secretary to prescribe the specific methodology a local educationalagency uses to allocate State and local funds to each school receiving assistance under this part.
 
 #### (5) Timeline
 

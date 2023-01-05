@@ -58,7 +58,7 @@ Exemption From Additional Taxes.—(1) In this subsection—
 
 &emsp;(B) "Amtrak" includes a rail carrier subsidiary of Amtrak and a lessor or lessee of Amtrak or one of its rail carrier subsidiaries.
 
-(2) Amtrak is not required to pay an additional tax because of an expenditure to acquire or improve real property, equipment, a facility,or right-of-way material or structures used in providing rail passenger transportation, even if that use is indirect.
+(2) Amtrak is not required to pay an additional tax because of an expenditure to acquire or improve real property, equipment, a facility, or right-of-way material or structures used in providing rail passenger transportation, even if that use is indirect.
 
 (l)
 
@@ -254,11 +254,11 @@ Section 20102(2), referred to in subsec. (a)(1), was redesignated section 20102(
 
 The Railroad Retirement Act of 1974, referred to in subsec. (c), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (c), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (c), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
-The Railroad Retirement Tax Act, referred to in subsec. (c), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
+The Railroad Retirement Tax Act, referred to in subsec. (c), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
 
-The District of Columbia Business Corporation Act, referred to in subsec. (e), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
+The District of Columbia Business Corporation Act, referred to in subsec. (e), is act June 8, 1954, ch. 269, 68 Stat. 179, which is not classified to the Code.
 
 The date of the enactment of this subsection, referred to in subsec. (o), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
 
@@ -296,7 +296,7 @@ Subsec. (e). Pub. L. 105–134, §110(a), inserted at end "Section 552 of title 
 
 Subsec. (f). Pub. L. 105–134, §106(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed."
 
-Subsec. (l)(1). Pub. L. 105–134, §208, inserted heading and substituted in text "Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are" for "Amtrak or a rail carrier subsidiary of Amtrak is", "tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of suchpersons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom" for "tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it", and "In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997." for "However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982."
+Subsec. (l)(1). Pub. L. 105–134, §208, inserted heading and substituted in text "Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are" for "Amtrak or a rail carrier subsidiary of Amtrak is", "tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom" for "tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it", and "In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997." for "However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982."
 
 Subsec. (m)(1)(A). Pub. L. 105–134, §402, substituted "2001" for "1996".
 

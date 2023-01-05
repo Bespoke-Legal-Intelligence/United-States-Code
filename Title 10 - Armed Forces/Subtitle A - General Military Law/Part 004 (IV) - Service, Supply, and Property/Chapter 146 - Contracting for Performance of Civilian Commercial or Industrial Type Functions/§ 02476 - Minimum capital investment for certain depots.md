@@ -22,7 +22,7 @@ Annual Report.—(1) Not later than 45 days after the date on which the Presiden
 
 &emsp;(B) A description of the benchmarks for capital investment established for each covered depot and military department and the relationship of the benchmarks to applicable performance measurement methods used in the private sector.
 
-&emsp;(C) If the requirement under subsection (a) is not met for a military department for the fiscal year covered by the report, a statement ofthe reasons why the requirement was not met and a plan of actions for meeting the requirement for the fiscal year beginning in the year in which such report is submitted.
+&emsp;(C) If the requirement under subsection (a) is not met for a military department for the fiscal year covered by the report, a statement of the reasons why the requirement was not met and a plan of actions for meeting the requirement for the fiscal year beginning in the year in which such report is submitted.
 
 &emsp;(D) Separate consideration and reporting of Navy depots and Marine Corps depots.
 
@@ -84,11 +84,59 @@ Covered Depot.—In this section, the term "covered depot" means any of the foll
 
 &emsp;&emsp;(C) Oklahoma City Air Logistics Center, Oklahoma.
 
-(Added Pub. L. 109–364, div. A, title III, §332(a), Oct. 17, 2006, 120 Stat. 2149; amended Pub. L. 110–417, \[div. A\], title III, §327, Oct. 14, 2008, 122 Stat. 4418; Pub. L. 111–383, div. A, title X, §1075(b)(36), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. A, title III, §325, Dec. 31, 2011, 125 Stat. 1364.)
+(Added Pub. L. 109–364, div. A, title III, §332(a), Oct. 17, 2006, 120 Stat. 2149; amended Pub. L. 110–417, \[div. A\], title III, §327, Oct. 14, 2008, 122 Stat. 4418; Pub. L. 111–383, div. A, title X, §1075(b)(36), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–81, div. A, title III, §325, Dec. 31, 2011, 125 Stat. 1364; Pub. L. 117–263, div. A, title III, §374(a), (b)(1), Dec. 23, 2022, 136 Stat. 2541, 2542.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–263, div. A, title III, §374(a), (b)(1), (c), Dec. 23, 2022, 136 Stat. 2541, 2542, provided that, applicable with respect to fiscal years beginning on or after Oct. 1, 2023, this section is amended—</i>
+
+<i>(1) in subsection (a)—</i>
+
+<i>(A) by striking "Each fiscal year" and inserting "(1) Each fiscal year";</i>
+
+<i>(B) by striking "six" and inserting "eight"; and</i>
+
+<i>(C) by inserting after paragraph (1), as designated by subparagraph (A), the following new paragraph:</i>
+
+<i>"(2) Of the amount required to be invested in the capital budgets of the covered depots of a military department under paragraph (1) for each fiscal year—</i>
+
+&emsp;<i>"(A) 75 percent shall be used for the modernization or improvement of the efficiency of depot fa</i><i>cilities, equipment, work environment, or processes in direct support of depot operations; and</i>
+
+&emsp;<i>"(B) 25 percent shall be used for the sustainment, restoration, and modernization (as such terms are defined in the Department of Defense Financial Management Regulation 7000.14–R, or successor regulation) of existing facilities or infrastructure.";</i>
+
+<i>(2) in subsection (b), by striking ", but does not include funds spent for sustainment of existing facilities, infrastructure, or equipment";</i>
+
+<i>(3) by redesignating subsections (c) through (e) as subsections (d) through (f);</i>
+
+<i>(4) by inserting after subsection (b) the following new subsection:</i>
+
+<i>"(c)</i>
+
+<i>Compliance With Certain Requirements Relating to Personnel and Total Force Management.—In identifying amounts to invest pursuant to the requirement under subsection (a)(1), the Secretary of a military department shall comply with all applicable requirements of sections 129 and 129a of this title.";</i>
+
+<i>(5) in subsections (d) and (e), as redesignated, by striking "subsection (a)" and inserting "subsection (a)(1)" each place it appears; and</i>
+
+<i>(6) in subsection (e)(2), as redesignated, by adding at the end the following new subparagraph:</i>
+
+&emsp;<i>"(F) A table enumerating, for the period covered by the report, the amounts invested to meet the requirement under subsection (a)(1), disaggregated by funding source and whether the amount is allocated pursuant to subparagraph (A) or subparagraph (B) of subsection (a)(2)."</i>
+
+<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–263, §374(a)(1), designated existing provisions as par. (1), substituted "eight percent" for "six percent", and added par. (2).
+
+Subsec. (b). Pub. L. 117–263, §374(a)(2), struck out ", but does not include funds spent for sustainment of existing facilities, infrastructure, or equipment" before period at end.
+
+Subsec. (c). Pub. L. 117–263, §374(a)(4), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsecs. (d), (e). Pub. L. 117–263, §374(a)(3), (b)(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively, and substituted "subsection (a)(1)" for "subsection (a)" wherever appearing. Former subsec. (e) redesignated (f).
+
+Subsec. (e)(2)(F). Pub. L. 117–263, §374(a)(5), added subpar. (F).
+
+Subsec. (f). Pub. L. 117–263, §374(a)(3), redesignated subsec. (e) as (f).
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–81, §325(1), inserted "maintenance, repair, and overhaul" after "combined".
 
@@ -108,9 +156,17 @@ Subsec. (e)(2). Pub. L. 110–417, §327(b)(2), inserted introductory provisions
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–263, div. A, title III, §374(c), Dec. 23, 2022, 136 Stat. 2542, provided that: "The amendments made by this section \[amending this section and section 2861 of this title\] shall apply with respect to fiscal years beginning on or after October 1, 2023."
+
 #### Effective Date
 
 Pub. L. 109–364, div. A, title III, §332(c), Oct. 17, 2006, 120 Stat. 2150, provided that: "Section 2476 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2006."
+
+#### Clarification of Calculation for Certain Workload Carryover of Department of the Army
+
+Pub. L. 117–263, div. A, title III, §377, Dec. 23, 2022, 136 Stat. 2542, provided that: "For purposes of calculating the amount of workload carryover with respect to the depots and arsenals of the Department of the Army, the Secretary of Defense shall authorize the Secretary of the Army to use a calculation for such carryover that applies a material end of period exclusion."
 
 #### Pilot Program on Digital Optimization of Organic Industrial Base Maintenance and Repair Operations
 

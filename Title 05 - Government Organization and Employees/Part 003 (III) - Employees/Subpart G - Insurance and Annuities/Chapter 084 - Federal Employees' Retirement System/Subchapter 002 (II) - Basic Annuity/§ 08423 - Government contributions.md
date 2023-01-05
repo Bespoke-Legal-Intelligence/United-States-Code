@@ -26,7 +26,7 @@
 
 (3) Contributions under this subsection shall be paid—
 
-&emsp;(A) in the case of law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, and other employees, from the appropriation or fund used to pay such law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air trafficcontrollers, military reserve technicians, or other employees, respectively;
+&emsp;(A) in the case of law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, and other employees, from the appropriation or fund used to pay such law enforcement officers, members of the Supreme Court Police, firefighters, nuclear materials couriers, customs and border protection officers, air traffic controllers, military reserve technicians, or other employees, respectively;
 
 &emsp;(B) in the case of elected officials, from an appropriation or fund available for payment of other salaries of the same office or establishment; and
 
@@ -52,7 +52,7 @@
 
 (4)(A) Before closing the accounts for a fiscal year, the Secretary of the Treasury shall credit to the Fund, as a Government contribution, out of any money in the Treasury of the United States not otherwise appropriated, the amount under paragraph (3)(A) for such year.
 
-(B) Upon receiving notification under paragraph (3)(B), the United States Postal Service shall pay the amount specified in such notification to the Fund.
+(B) Upon receiving notification under paragraph (3)(B), the United States Postal Serviceshall pay the amount specified in such notification to the Fund.
 
 (5) For the purpose of carrying out paragraph (1) with respect to any fiscal year, the Office may—
 
@@ -96,7 +96,7 @@ Pub. L. 102–378 substituted "multiplied" for "multipled".
 
 #### Effective Date of 2007 Amendment; Transition Rules
 
-Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, withtransition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
+Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under section 3307 of this title.
 
 #### Effective Date of 2000 Amendment
 

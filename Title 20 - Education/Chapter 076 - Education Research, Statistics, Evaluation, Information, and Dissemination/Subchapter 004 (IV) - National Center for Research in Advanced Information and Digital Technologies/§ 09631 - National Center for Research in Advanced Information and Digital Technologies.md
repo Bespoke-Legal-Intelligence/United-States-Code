@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There shall be established, during the first fiscal year for which appropriations are made available under subsection (c), a nonprofit corporation to be known as the National Center for Research in Advanced Information and Digital Technologies, which shall not be an agency or establishment of the Federal Government. TheCenter shall be subject to the provisions of this section, and, to the extent consistent with this section, to the District of Columbia Nonprofit Corporation Act (sec. 29–501 et seq., D.C. Official Code).
+There shall be established, during the first fiscal year for which appropriations are made available under subsection (c), a nonprofit corporation to be known as the National Center for Research in Advanced Information and Digital Technologies, which shall not be an agency or establishment of the Federal Government. The Center shall be subject to the provisions of this section, and, to the extent consistent with this section, to the District of Columbia Nonprofit Corporation Act (sec. 29–501 et seq., D.C. Official Code).
 
 #### (b) Purpose
 
@@ -44,7 +44,7 @@ The purpose of the Center shall be to support a comprehensive research and devel
 
 &emsp;&emsp;(C) shall not be in a position to benefit financially directly from the contracts and grants to eligible institutions under subsection (f)(2); and
 
-&emsp;&emsp;(D) may not be officers or employees of the Federal Government or a <sup>1</sup> Members of Congress serving at the time of such appointment.
+&emsp;&emsp;(D) may not be officers or employees of the Federal Government or a Members of Congress serving at the time of such appointment.
 
 #### (3) Vacancies and subsequent appointments
 
@@ -156,7 +156,7 @@ The purpose of the Center shall be to support a comprehensive research and devel
 
 #### (h) Use of funds subject to appropriations
 
-The authority to award grants, enter into contracts, or otherwise expend funds under this section is subject to the availability of amounts deposited into the Center under subsection (c), or amounts otherwise appropriated for such purposes by an Act of Congress.
+The authority to award grants, enter into contracts, or otherwise expend funds under this section is subject to the availability of amounts deposited into the Center under subsection (c), oramounts otherwise appropriated for such purposes by an Act of Congress.
 
 #### (i) Definitions
 
@@ -193,6 +193,4 @@ Section was enacted as part of the Higher Education Opportunity Act, and not as 
 #### Amendments
 
 <b>2013</b>—Subsec. (g)(1)(B)(ii). Pub. L. 112–239 substituted "Assistant Secretary of Defense for Research and Engineering" for "Director of Defense Research and Engineering".
-
-<i><sup>1</sup></i><i> So in original. The "a" probably should not appear.</i>
 

@@ -1,6 +1,6 @@
 ### §2104. Reviews of State court decisions
 
-A review by the Supreme Court of a judgment or decree of a State court shall be conducted inthe same manner and under the same regulations, and shall have the same effect, as if the judgment or decree reviewed had been rendered in a court of the United States.
+A review by the Supreme Court of a judgment or decree of a State court shall be conducted in the same manner and under the same regulations, and shall have the same effect, as if the judgment or decree reviewed had been rendered in a court of the United States.
 
 (June 25, 1948, ch. 646, 62 Stat. 962; Pub. L. 100–352, §5(d)(1), June 27, 1988, 102 Stat. 663.)
 
@@ -22,5 +22,5 @@ Changes were made in phraseology.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
+Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not toapply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
 

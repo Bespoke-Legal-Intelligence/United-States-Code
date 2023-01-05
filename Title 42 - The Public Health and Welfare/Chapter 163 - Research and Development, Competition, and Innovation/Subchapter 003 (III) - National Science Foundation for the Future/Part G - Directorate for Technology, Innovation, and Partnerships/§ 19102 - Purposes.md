@@ -1,0 +1,12 @@
+### §19102. Purposes
+
+The purposes of the Directorate established under section 19101 of this title are to—
+
+&emsp;(1) support use-inspired and translational research and accelerate the development and use of federally funded research;
+
+&emsp;(2) strengthen United States competitiveness by accelerating the development of key technologies; and
+
+&emsp;(3) grow the domestic workforce in key technology focus areas, and expand the participation of United States students and researchers in areas of societal, national, and geostrategic importance, at all levels of education.
+
+(Pub. L. 117–167, div. B, title III, §10382, Aug. 9, 2022, 136 Stat. 1576.)
+

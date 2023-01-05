@@ -14,7 +14,7 @@ As used in this chapter, the term "agricultural enterprises" means those small b
 
 #### Prior Provisions
 
-Prior similar provisions were contained in section 225, of act July 30, 1953, ch. 282, as added by act Aug. 9,1955, ch. 628, §14, 69 Stat. 551, which was previously classified to section 651 of this title. The provisions of section 218 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[12\] of Pub. L. 85–536, and are classified to section 641 of this title. See Codification note set out under section 631 of this title.
+Prior similar provisions were contained in section 225, of act July 30, 1953, ch. 282, as added by act Aug. 9, 1955, ch. 628, §14, 69 Stat. 551, which was previously classified to section 651 of this title. The provisions of section 218 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[12\] of Pub. L. 85–536, and are classified to section 641 of this title. See Codification note set out under section 631 of this title.
 
 #### Amendments
 

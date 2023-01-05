@@ -8,7 +8,7 @@
 | [3904\.](%C2%A7%2003904%20-%20Limitations%20on%20discount%20payments.md) | Limitations on discount payments. |
 | [3905\.](%C2%A7%2003905%20-%20Payment%20provisions%20relating%20to%20construction%20contracts.md) | Payment provisions relating to construction contracts. |
 | \[3906. | Repealed.\] |
-| [3907\.](%C2%A7%2003907%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws.<br> |
+| [3907\.](%C2%A7%2003907%20-%20Relationship%20to%20other%20laws.md) | Relationship to other laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

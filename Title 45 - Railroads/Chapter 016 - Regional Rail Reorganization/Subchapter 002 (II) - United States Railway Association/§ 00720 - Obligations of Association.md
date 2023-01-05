@@ -46,7 +46,7 @@ In subsec. (e), "chapter 31 of title 31" and "such chapter" substituted for "the
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–555 inserted "(exclusive of interest or additions to principal on account of accrual of interest)" after "aggregate principal amount", and raised maximum amount allowed for outstanding obligations issued by Association to $395,000,000.
 
-Pub. L. 94–210, §604, substituted provisions authorizing $275,000,000 as maximum of aggregate amount ofobligations outstanding at any one time and provisions relating to availability or issuance after Feb. 5, 1976, for provisions authorizing $1,500,000,000 as maximum of aggregate amount of obligations outstanding at any one time and provisions relating to limitations on amounts issued to Corporation and available for rehabilitation and modernization of rail properties.
+Pub. L. 94–210, §604, substituted provisions authorizing $275,000,000 as maximum of aggregate amount of obligations outstanding at any one time and provisions relating to availability or issuance after Feb. 5, 1976, for provisions authorizing $1,500,000,000 as maximum of aggregate amount of obligations outstanding at any one time and provisions relating to limitations on amounts issued to Corporation and available for rehabilitation and modernization of rail properties.
 
 Subsec. (c). Pub. L. 94–210, §607(k), inserted provisions relating to guarantees as general obligations of the United States and pledge of full faith and credit for payment.
 

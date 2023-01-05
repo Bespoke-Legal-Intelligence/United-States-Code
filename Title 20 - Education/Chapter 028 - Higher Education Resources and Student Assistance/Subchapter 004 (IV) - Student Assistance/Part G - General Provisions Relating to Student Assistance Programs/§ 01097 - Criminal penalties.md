@@ -46,5 +46,5 @@ Pub. L. 116–251, §2(b), Dec. 22, 2020, 134 Stat. 1129, provided that: "The Se
 
 #### Effective Date of Penalties
 
-Pub. L. 116–251, §2(c), Dec. 22, 2020, 134 Stat. 1129, provided that: "Notwithstanding section 6 \[set out as an Effective Date of 2020 Amendment note under section 1018 of this title\], the penalties described in section490(e) of the Higher Education Act of 1965 (20 U.S.C. 1097\[(e)\]), as added by subsection (a), shall take effect the day after the date on which the Secretary issues guidance regarding the use of access devices, as described in subsection (b) \[set out as a Guidance note above\]."
+Pub. L. 116–251, §2(c), Dec. 22, 2020, 134 Stat. 1129, provided that: "Notwithstanding section 6 \[set out as an Effective Date of 2020 Amendment note under section 1018 of this title\], the penalties described in section 490(e) of the Higher Education Act of 1965 (20 U.S.C. 1097\[(e)\]), as added by subsection (a), shall take effect the day after the date on which the Secretary issues guidance regarding the use of access devices, as described in subsection (b) \[set out as a Guidance note above\]."
 

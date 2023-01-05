@@ -28,7 +28,7 @@ At the request of an entity that is representative of an industry identified und
 
 &emsp;(3) take actions described in both paragraphs (1) and (2).
 
-> The industry may request the Trade Representative to take appropriate action to update (as often as annually) any information obtained under paragraph (1) or (2), or both, as the case may be, until an agreement on more effective rules and disciplines relating to government subsidies is reached between the United States and the USMCA countries.
+> The industry may request the Trade Representative to take appropriate action to update (as often as annually) any information obtained under paragraph (1) or (2), or both, as the case may be, until an agreement on more effectiverules and disciplines relating to government subsidies is reached between the United States and the USMCA countries.
 
 #### (d) Initiation of action under other law
 
@@ -76,7 +76,7 @@ Nothing in this section may be construed to alter in any manner the requirements
 
 #### References in Text
 
-The Tariff Act of 1930, referred to in subsecs. (d)(1)(B), (2) and (e)(3), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. Subtitle A of title VII of the Act is classified generally to part I (§1671 et seq.) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsecs. (d)(1)(B), (2) and (e)(3), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. Subtitle A of title VII of the Act is classified generally to part I (§1671 et seq.) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 #### Codification
 

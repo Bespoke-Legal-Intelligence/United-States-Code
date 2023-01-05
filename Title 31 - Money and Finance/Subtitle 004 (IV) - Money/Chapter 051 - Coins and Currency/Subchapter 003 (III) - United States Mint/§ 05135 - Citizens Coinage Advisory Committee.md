@@ -86,7 +86,7 @@ Chairperson.—The Chairperson of the Advisory Committee shall be appointed for 
 
 &emsp;(7)
 
-Pay and expenses.—Members of the Advisory Committee shall serve without pay forsuch service but each member of the Advisory Committee shall be reimbursed from the United States Mint Public Enterprise Fund for travel, lodging, meals, and incidental expenses incurred in connection with attendance of such members at meetings of the Advisory Committee in the same amounts and under the same conditions as employees of the United States Mint who engage in official travel, as determined by the Secretary.
+Pay and expenses.—Members of the Advisory Committee shall serve without pay for such service but each member of the Advisory Committee shall be reimbursed from the United States Mint Public Enterprise Fund for travel, lodging, meals, and incidental expenses incurred in connection with attendance of such members at meetings of the Advisory Committee in the same amounts and under the same conditions as employees of the United States Mint who engage in official travel, as determined by the Secretary.
 
 &emsp;(8)
 
@@ -148,17 +148,19 @@ Contents.—The report required by paragraph (1) shall describe the activities o
 
 (h)
 
-Federal Advisory Committee Act Does Not Apply.—Subject to the requirements of subsection (b)(8), the Federal Advisory Committee Act shall not apply with respect to the Committee.
+Chapter 10
 
-(Added Pub. L. 102–390, title II, §229(a), Oct. 6, 1992, 106 Stat. 1631; amended Pub. L. 104–208, div. A, title I, §101(f) \[title V, §529(d)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–352; Pub. L. 104–329, title III, §303(a), Oct. 20, 1996, 110 Stat. 4014; Pub. L. 108–15, title I, §103(a), Apr. 23, 2003, 117 Stat. 616.)
+of Title 5
+
+Does Not Apply.—Subject to the requirements of subsection (b)(8), chapter 10 of title 5 shall not apply with respect to the Committee.
+
+(Added Pub. L. 102–390, title II, §229(a), Oct. 6, 1992, 106 Stat. 1631; amended Pub. L. 104–208, div. A, title I, §101(f) \[title V, §529(d)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–352; Pub. L. 104–329, title III, §303(a), Oct. 20, 1996, 110 Stat. 4014; Pub. L. 108–15, title I, §103(a), Apr. 23, 2003, 117 Stat. 616; Pub. L. 117–286, §4(a)(196), Dec. 27, 2022, 136 Stat. 4327.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–286 substituted "Chapter 10 of Title 5" for "Federal Advisory Committee Act" in heading and "chapter 10 of title 5" for "the Federal Advisory Committee Act" in text.
 
 <b>2003</b>—Pub. L. 108–15 amended section catchline and text generally. Prior to amendment, text provided for the establishment of the Citizens Commemorative Coin Advisory Committee and contained provisions concerning its oversight, membership, duties, and funding, the term of each membership, and the compensation of each member.
 

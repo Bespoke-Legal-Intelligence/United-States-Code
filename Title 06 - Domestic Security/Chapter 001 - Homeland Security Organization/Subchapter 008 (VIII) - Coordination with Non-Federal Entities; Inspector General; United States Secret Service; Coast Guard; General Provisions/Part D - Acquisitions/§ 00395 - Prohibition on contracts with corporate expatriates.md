@@ -16,7 +16,7 @@ For purposes of this section, a foreign incorporated entity shall be treated as 
 
 &emsp;&emsp;(B) in the case of an acquisition with respect to a domestic partnership, by former partners of the domestic partnership by reason of holding a capital or profits interest in the domestic partnership; and
 
-&emsp;(3) the expanded affiliated group which after the acquisition includes the entity does not have substantial business activities in the foreign country in which or under the law of which the entity is created or organized when compared to the total business activities of such expanded affiliated group.
+&emsp;(3) the expanded affiliated group which after the acquisition includes the entity does nothave substantial business activities in the foreign country in which or under the law of which the entity is created or organized when compared to the total business activities of such expanded affiliated group.
 
 #### (c) Definitions and special rules
 

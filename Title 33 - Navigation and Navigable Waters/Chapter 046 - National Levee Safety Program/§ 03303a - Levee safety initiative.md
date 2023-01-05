@@ -52,7 +52,7 @@ The Secretary shall appoint—
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish a hazard potential classification system for use under the levee safety initiative and participating programs.
+&emsp;The Secretary shall establish a hazard potential classification system for use under thelevee safety initiative and participating programs.
 
 #### (2) Revision
 
@@ -80,7 +80,7 @@ The Secretary shall appoint—
 
 &emsp;To be eligible to receive technical assistance under this subsection, a State shall—
 
-&emsp;&emsp;(A) be in the process of establishing or have in effect a State levee safety program under which a State levee safety agency, in accordance with State law, carries out theguidelines established under subsection (c)(1); and
+&emsp;&emsp;(A) be in the process of establishing or have in effect a State levee safety program under which a State levee safety agency, in accordance with State law, carries out the guidelines established under subsection (c)(1); and
 
 &emsp;&emsp;(B) allocate sufficient funds in the budget of that State to carry out that State levee safety program.
 
@@ -148,7 +148,7 @@ The Secretary shall appoint—
 
 &emsp;&emsp;&emsp;(i) meet the requirements of a participating program established by the guidelines issued under paragraph (1);
 
-&emsp;&emsp;&emsp;(ii) use not less than 25 percent of any amounts received to identify and assess non-Federal levees within the State or regional district or on land of the Indian tribe;
+&emsp;&emsp;&emsp;(ii) use not less than 25 percent of any amounts received to identify and assessnon-Federal levees within the State or regional district or on land of the Indian tribe;
 
 &emsp;&emsp;&emsp;(iii) submit to the Secretary and Administrator any information collected by the State, regional district, or Indian tribe in carrying out this subsection for inclusion in the national levee safety database; and
 
@@ -166,7 +166,7 @@ The Secretary shall appoint—
 
 &emsp;&emsp;&emsp;&emsp;(I) ensures that human lives and property that are protected by new and existing levees are safe;
 
-&emsp;&emsp;&emsp;&emsp;(II) encourages the use of appropriate engineering policies, procedures, and technical practices for levee site investigation, design, construction, operationand maintenance, inspection, assessment, and emergency preparedness;
+&emsp;&emsp;&emsp;&emsp;(II) encourages the use of appropriate engineering policies, procedures, and technical practices for levee site investigation, design, construction, operation and maintenance, inspection, assessment, and emergency preparedness;
 
 &emsp;&emsp;&emsp;&emsp;(III) develops and supports public education and awareness projects to increase public acceptance and support of levee safety programs and provide information;
 
@@ -182,7 +182,7 @@ The Secretary shall appoint—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2023.
+&emsp;&emsp;&emsp;There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2028.
 
 #### (ii) Allocation
 
@@ -208,7 +208,7 @@ The Secretary shall appoint—
 
 #### (1) Establishment
 
-&emsp;The Secretary shall provide assistance to States, regional districts, Indian tribes, and local governments relating to addressing flood mitigation activities that result in an overall reduction in flood risk.
+&emsp;The Secretary shall provide assistance to States, regional districts, Indian tribes, and local governments relating to addressing flood mitigation and levee rehabilitation activities that result in an overall reduction in flood risk.
 
 #### (2) Requirements
 
@@ -254,7 +254,7 @@ The Secretary shall appoint—
 
 #### (D) Guidelines
 
-&emsp;&emsp;Not later than 180 days after December 16, 2016, the Secretary, in consultation with theAdministrator, shall develop such guidelines for the preparation of floodplain management plans prepared under this paragraph as the Secretary determines to be appropriate.
+&emsp;&emsp;Not later than 180 days after December 16, 2016, the Secretary, in consultation with the Administrator, shall develop such guidelines for the preparation of floodplain management plans prepared under this paragraph as the Secretary determines to be appropriate.
 
 #### (E) Technical support
 
@@ -288,7 +288,7 @@ The Secretary shall appoint—
 
 #### (7) Project limit
 
-&emsp;The maximum amount of Federal assistance for a project under this subsection shall be $10,000,000.
+&emsp;The maximum amount of Federal assistance for a project under this subsection shall be $25,000,000.
 
 #### (8) Limitation
 
@@ -302,6 +302,10 @@ The Secretary shall appoint—
 
 &emsp;Assistance provided under this subsection shall be subject to all applicable laws (including regulations) that apply to the construction of a civil works project of the Corps of Engineers.
 
+#### (11) Prioritization
+
+&emsp;To the maximum extent practicable, the Secretary shall prioritize the provision of assistance under this subsection to economically disadvantaged communities (as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 (33 U.S.C. 2201 note)), including economically disadvantaged communities located in urban and rural areas.
+
 #### (i) Effect of section
 
 Nothing in this section—
@@ -314,15 +318,17 @@ Nothing in this section—
 
 &emsp;&emsp;(B) the Administrator, including for the purpose of setting premium rates under the national flood insurance program established under chapter 1 <sup>1</sup> of the National Flood Insurance Act of 1968 (42 U.S.C. 4011 et seq.).
 
-(Pub. L. 110–114, title IX, §9005, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1293; Pub. L. 114–322, title I, §1130(c), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 115–270, title I, §1144(1), Oct. 23, 2018, 132 Stat. 3785.)
+(Pub. L. 110–114, title IX, §9005, as added Pub. L. 113–121, title III, §3016(e)(2), June 10, 2014, 128 Stat. 1293; Pub. L. 114–322, title I, §1130(c), Dec. 16, 2016, 130 Stat. 1650; Pub. L. 115–270, title I, §1144(1), Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–263, div. H, title LXXXI, §8387(b), (c), Dec. 23, 2022, 136 Stat. 3830, 3831.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(2)(B)(iv), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(2)(B)(iv), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143,which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 The Disaster Mitigation Act of 2000, referred to in subsec. (h)(2)(B)(ii), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 5121 of Title 42, The Public Health and Welfare, and Tables.
+
+Section 160 of the Water Resources Development Act of 2020, referred to in subsec. (h)(11), is section 160 of div. AA of Pub. L. 116–260, which is set out as a note under section 2201 of this title.
 
 The National Flood Insurance Act of 1968, referred to in subsec. (i)(2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§4001 et seq.) of Title 42, The Public Health and Welfare. Chapter I of the Act is classified principally to subchapter I (§4011 et seq.) of chapter 50 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of Title 42 and Tables.
 
@@ -331,6 +337,14 @@ The National Flood Insurance Act of 1968, referred to in subsec. (i)(2)(B), is t
 A prior section 9005 of Pub. L. 110–114 was renumbered section 9007, and is classified to section 3304 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g)(2)(E)(i). Pub. L. 117–263, §8387(b), substituted "2028" for "2023".
+
+Subsec. (h)(1). Pub. L. 117–263, §8387(c)(1), inserted "and levee rehabilitation" after "mitigation".
+
+Subsec. (h)(7). Pub. L. 117–263, §8387(c)(2), substituted "$25,000,000" for "$10,000,000".
+
+Subsec. (h)(11). Pub. L. 117–263, §8387(c)(3), added par. (11).
 
 <b>2018</b>—Subsec. (g)(2)(E)(i). Pub. L. 115–270 substituted "2019 through 2023" for "2015 through 2019".
 
@@ -348,7 +362,7 @@ Subsec. (e)(1). Pub. L. 114–322, §1130(c)(2), substituted "States, regional d
 
 Subsec. (g). Pub. L. 114–322, §1130(c)(3)(A), substituted "State, regional, and tribal" for "State and tribal" in heading.
 
-Subsec. (g)(1)(A). Pub. L. 114–322, §1130(c)(3)(B)(i), substituted "1 year after December 16, 2016," for "1 yearafter June 10, 2014," and "State, regional, or tribal" for "State or tribal".
+Subsec. (g)(1)(A). Pub. L. 114–322, §1130(c)(3)(B)(i), substituted "1 year after December 16, 2016," for "1 year after June 10, 2014," and "State, regional, or tribal" for "State or tribal".
 
 Subsec. (g)(1)(B). Pub. L. 114–322, §1130(c)(3)(B)(ii), substituted "State, regional district, and Indian tribe" for "State and Indian tribe" and "State, regional district, or Indian tribe" for "State or Indian tribe" in introductory provisions.
 
@@ -390,7 +404,7 @@ Subsec. (h)(4)(A)(i). Pub. L. 114–322, §1130(c)(4)(D), substituted "State, re
 
 #### Rehabilitation of Existing Levees
 
-Pub. L. 113–121, title III, §3017, June 10, 2014, 128 Stat. 1300, provided that:
+Pub. L. 113–121, title III, §3017, June 10, 2014, 128 Stat. 1300, as amended by Pub. L. 117–263, div. H, title LXXXI, §8382(a), Dec. 23, 2022, 136 Stat. 3828, provided that:
 
 "(a)
 
@@ -398,7 +412,7 @@ In General.—The Secretary \[of the Army\] shall carry out measures that addres
 
 "(b)
 
-Limitation.—This section shall only apply to those projects for which the executed project partnership agreement provides that the non-Federal interest is not required to perform future measures to restore the project to the authorized level of protection of the project to account for subsidence and sea-level rise as part of the operation, maintenance, repair, replacement, and rehabilitation responsibilities.
+Limitation.—This section shall only apply to those projects for which the executed project partnership agreement provides that the non-Federal interest is not required to perform future measures to restore the project to the authorized level of protection of theproject to account for subsidence and sea-level rise as part of the operation, maintenance, repair, replacement, and rehabilitation responsibilities.
 
 "(c)
 
@@ -426,7 +440,7 @@ Report to Congress.—Not later than 5 years after the date of enactment of this
 
 "(e)
 
-Termination of Authority.—The authority of the Secretary under this subsection \[probably should be "section"\] terminates on the date that is 10 years after the date of enactment of this Act."
+Termination of Authority.—The authority of the Secretary under this section terminates on December 31, 2028."
 
 #### "Secretary" Defined
 

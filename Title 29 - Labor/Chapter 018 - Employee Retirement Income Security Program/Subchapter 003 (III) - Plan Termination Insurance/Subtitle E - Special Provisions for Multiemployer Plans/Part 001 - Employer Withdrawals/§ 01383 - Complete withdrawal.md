@@ -60,7 +60,7 @@ For purposes of this part, a complete withdrawal from a multiemployer plan occur
 
 > a complete withdrawal occurs only as described in paragraph (3).
 
-(2) A plan is described in this paragraph if substantially all of the contributions requiredunder the plan are made by employers primarily engaged in the long and short haul trucking industry, the household goods moving industry, or the public warehousing industry.
+(2) A plan is described in this paragraph if substantially all of the contributions required under the plan are made by employers primarily engaged in the long and short haul trucking industry, the household goods moving industry, or the public warehousing industry.
 
 (3) A withdrawal occurs under this paragraph if—
 

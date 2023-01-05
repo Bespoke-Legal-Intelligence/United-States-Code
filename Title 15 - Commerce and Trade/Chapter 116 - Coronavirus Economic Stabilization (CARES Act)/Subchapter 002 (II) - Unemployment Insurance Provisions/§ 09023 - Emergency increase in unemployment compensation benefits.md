@@ -12,13 +12,13 @@ Any State which desires to do so may enter into and participate in an agreement 
 
 &emsp;&emsp;(A) the amount determined under the State law (before the application of this paragraph), plus
 
-&emsp;&emsp;(B) an additional amount equal to the amount specified in paragraph (3) (in thissection referred to as "Federal Pandemic Unemployment Compensation"), plus
+&emsp;&emsp;(B) an additional amount equal to the amount specified in paragraph (3) (in this section referred to as "Federal Pandemic Unemployment Compensation"), plus
 
 &emsp;&emsp;(C) an additional amount of $100 (in this section referred to as "Mixed Earner Unemployment Compensation") in any case in which the individual received at least $5,000 of self-employment income (as defined in section 1402(b) of title 26) in the most recent taxable year ending prior to the individual's application for regular compensation.
 
 #### (2) Allowable methods of payment
 
-&emsp;Any Federal Pandemic Unemployment Compensation or Mixed Earner Unemployment Compensation provided for in accordance with paragraph (1) shall be payable either—
+&emsp;Any Federal Pandemic Unemployment Compensation or Mixed Earner UnemploymentCompensation provided for in accordance with paragraph (1) shall be payable either—
 
 &emsp;&emsp;(A) as an amount which is paid at the same time and in the same manner as any regular compensation otherwise payable for the week involved; or
 
@@ -84,7 +84,7 @@ An agreement entered into under this section shall apply—
 
 #### (1) In general
 
-&emsp;If an individual knowingly has made, or caused to be made by another, a false statement or representation of a material fact, or knowingly has failed, or caused another tofail, to disclose a material fact, and as a result of such false statement or representation or of such nondisclosure such individual has received an amount of Federal Pandemic Unemployment Compensation or Mixed Earner Unemployment Compensation to which such individual was not entitled, such individual—
+&emsp;If an individual knowingly has made, or caused to be made by another, a false statement or representation of a material fact, or knowingly has failed, or caused another to fail, to disclose a material fact, and as a result of such false statement or representation or of such nondisclosure such individual has received an amount of Federal Pandemic Unemployment Compensation or Mixed Earner Unemployment Compensation to which such individual was not entitled, such individual—
 
 &emsp;&emsp;(A) shall be ineligible for further Federal Pandemic Unemployment Compensation or Mixed Earner Unemployment Compensation in accordance with the provisions of the applicable State unemployment compensation law relating to fraud in connection with a claim for unemployment compensation; and
 

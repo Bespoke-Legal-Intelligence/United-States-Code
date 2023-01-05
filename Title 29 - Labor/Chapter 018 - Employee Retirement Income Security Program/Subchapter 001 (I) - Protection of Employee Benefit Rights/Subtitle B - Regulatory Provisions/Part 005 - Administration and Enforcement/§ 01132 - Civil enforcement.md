@@ -14,7 +14,7 @@ A civil action may be brought—
 
 &emsp;(3) by a participant, beneficiary, or fiduciary (A) to enjoin any act or practice which violates any provision of this subchapter or the terms of the plan, or (B) to obtain other appropriate equitable relief (i) to redress such violations or (ii) to enforce any provisions of this subchapter or the terms of the plan;
 
-&emsp;(4) by the Secretary, or by a participant, or beneficiary for appropriate relief in the case of a violation of 1025(c) of this title;
+&emsp;(4) by the Secretary, or by a participant, or beneficiary for appropriate relief in the case of a violation of section 1025(c) or 1032(a) of this title;
 
 &emsp;(5) except as otherwise provided in subsection (b), by the Secretary (A) to enjoin any act or practice which violates any provision of this subchapter, or (B) to obtain other appropriate equitable relief (i) to redress such violation or (ii) to enforce any provision of this subchapter;
 
@@ -42,7 +42,7 @@ A civil action may be brought—
 
 &emsp;(A) requested by the Secretary of the Treasury, or
 
-&emsp;(B) one or more participants, beneficiaries, or fiduciaries, of such plan request in writing (in such manner as the Secretary shall prescribe by regulation) that he exercise such authority on their behalf. In the case of such a request under this paragraph he may exercise such authority only if he determines that such violation affects, or such enforcement is necessary to protect, claims of participants or beneficiaries to benefits under the plan.
+&emsp;(B) one or more participants, beneficiaries, or fiduciaries, of such plan request in writing\(in such manner as the Secretary shall prescribe by regulation) that he exercise such authority on their behalf. In the case of such a request under this paragraph he may exercise such authority only if he determines that such violation affects, or such enforcement is necessary to protect, claims of participants or beneficiaries to benefits under the plan.
 
 (2) The Secretary shall not initiate an action to enforce section 1145 of this title.
 
@@ -50,7 +50,7 @@ A civil action may be brought—
 
 #### (c) Administrator's refusal to supply requested information; penalty for failure to provide annual report in complete form
 
-(1) Any administrator (A) who fails to meet the requirements of paragraph (1) or (4) of section 1166 <sup>2</sup> of this title, section 1021(e)(1) of this title, section 1021(f) of this title, or section 1025(a) of this title with respect to a participant or beneficiary, or (B) who fails or refuses to comply with a request for any information which such administrator is required by this subchapter to furnish to a participant or beneficiary (unless such failure or refusal results from matters reasonably beyond the control of the administrator) by mailing the material requested to the last known address of the requesting participant or beneficiary within 30 days after such request may in the court's discretion be personally liable to such participant or beneficiary in the amount of up to $100 a day from the date of such failure or refusal, and the court may in its discretion order such other relief as it deems proper. For purposes of this paragraph, each violation described in subparagraph (A) with respect to any single participant, and each violation described in subparagraph (B) with respect to any single participant or beneficiary, shall be treated as a separate violation.
+(1) Any administrator (A) who fails to meet the requirements of paragraph (1) or (4) of section 1166 <sup>2</sup> of this title, section 1021(e)(1) of this title, section 1021(f) of this title,,<sup>3</sup> section 1025(a) of this title, or section 1032(a) of this title with respect to a participant or beneficiary, or (B) who fails or refuses to comply with a request for any information which such administrator is required by this subchapter to furnish to a participant or beneficiary (unless such failure or refusal results from matters reasonably beyond the control of the administrator) by mailing the material requested to the last known address of the requesting participant or beneficiary within 30 days after such request may in the court's discretion be personally liable to such participant or beneficiary in the amount of up to $100 a day from the date of such failure or refusal, and the court may in its discretion order such other relief as it deems proper. For purposes of this paragraph, each violation described in subparagraph (A) with respect to any single participant, and each violation described in subparagraph (B) with respect to any single participant or beneficiary, shall be treated as a separate violation.
 
 (2) The Secretary may assess a civil penalty against any plan administrator of up to $1,000 a day from the date of such plan administrator's failure or refusal to file the annual report required to be filed with the Secretary under section 1021(b)(1) of this title. For purposes of this paragraph, an annual report that has been rejected under section 1024(a)(4) of this title for failure to provide material information shall not be treated as having been filed with the Secretary.
 
@@ -162,7 +162,7 @@ Definitions.—Terms used in this paragraph which are defined in section 1191b o
 
 (1) Except for actions under subsection (a)(1)(B) of this section, the district courts of the United States shall have exclusive jurisdiction of civil actions under this subchapter brought by the Secretary or by a participant, beneficiary, fiduciary, or any person referred to in section 1021(f)(1) of this title. State courts of competent jurisdiction and district courts of the United States shall have concurrent jurisdiction of actions under paragraphs (1)(B) and (7) of subsection (a) of this section.
 
-(2) Where an action under this subchapter is brought in a district court of the United States, it may be brought in the district where the plan is administered, where the breach took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
+(2) Where an action under this subchapter is brought in a district court of the United States,it may be brought in the district where the plan is administered, where the breach took place, or where a defendant resides or may be found, and process may be served in any other district where a defendant resides or may be found.
 
 #### (f) Amount in controversy; citizenship of parties
 
@@ -196,7 +196,7 @@ A copy of the complaint in any action under this subchapter by a participant, be
 
 #### (i) Administrative assessment of civil penalty
 
-In the case of a transaction prohibited by section 1106 of this title by a party in interest with respect to a plan to which this part applies, the Secretary may assess a civil penalty against such party in interest. The amount of such penalty may not exceed 5 percent of the amount involved in each such transaction (as defined in section 4975(f)(4) of title 26) for each year or part thereof during which the prohibited transaction continues, except that, if the transaction is notcorrected (in such manner as the Secretary shall prescribe in regulations which shall be consistent with section 4975(f)(5) of title 26) within 90 days after notice from the Secretary (or such longer period as the Secretary may permit), such penalty may be in an amount not more than 100 percent of the amount involved. This subsection shall not apply to a transaction with respect to a plan described in section 4975(e)(1) of title 26.
+In the case of a transaction prohibited by section 1106 of this title by a party in interest with respect to a plan to which this part applies, the Secretary may assess a civil penalty against such party in interest. The amount of such penalty may not exceed 5 percent of the amount involved in each such transaction (as defined in section 4975(f)(4) of title 26) for each year or part thereof during which the prohibited transaction continues, except that, if the transaction is not corrected (in such manner as the Secretary shall prescribe in regulations which shall be consistent with section 4975(f)(5) of title 26) within 90 days after notice from the Secretary (or such longer period as the Secretary may permit), such penalty may be in an amount not more than 100 percent of the amount involved. This subsection shall not apply to a transaction with respect to a plan described in section 4975(e)(1) of title 26.
 
 #### (j) Direction and control of litigation by Attorney General
 
@@ -234,7 +234,7 @@ Suits by an administrator, fiduciary, participant, or beneficiary of an employee
 
 In the case of a distribution to a pension plan participant or beneficiary in violation of section 1056(e) of this title by a plan fiduciary, the Secretary shall assess a penalty against such fiduciary in an amount equal to the value of the distribution. Such penalty shall not exceed $10,000 for each such distribution.
 
-(Pub. L. 93–406, title I, §502, Sept. 2, 1974, 88 Stat. 891; Pub. L. 96–364, title III, §306(b), Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title X, §10002(b), Apr. 7, 1986, 100 Stat. 231; Pub. L. 100–203, title IX, §§9342(c), 9344, Dec. 22, 1987, 101 Stat. 1330–372, 1330–373; Pub. L. 101–239, title II, §2101(a), (b), title VII, §§7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, 103 Stat. 2123, 2438, 2442, 2445, 2450; Pub. L. 101–508, title XII, §12012(d)(2), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–66, title IV, §4301(c)(1)–(3), Aug. 10, 1993, 107 Stat. 376; Pub. L. 103–401, §§2, 3, Oct. 22, 1994, 108 Stat. 4172; Pub. L. 103–465, title VII, §761(a)(9)(B)(ii), Dec. 8, 1994, 108 Stat. 5033; Pub. L. 104–191, title I, §101(b), (e)(2), Aug. 21, 1996, 110 Stat. 1951, 1952; Pub. L. 104–204, title VI, §603(b)(3)(E), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(2)(B), (d)(7), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 107–204, title III, §306(b)(3), July 30, 2002, 116 Stat. 783; Pub. L. 108–218, title I, §§102(d), 103(b), 104(a)(2), Apr. 10, 2004, 118 Stat. 602, 603, 606; Pub. L. 109–280, title I, §103(b)(2), title II, §202(b), (c), title V, §§502(a)(2), (b)(2), 507(b), 508(a)(2)(C), title IX, §902(f)(2), Aug. 17, 2006, 120 Stat. 816, 884, 885, 940, 941, 949, 951, 1039; Pub. L. 110–233, title I, §101(e), May 21, 2008, 122 Stat. 886; Pub. L. 110–458, title I, §§101(c)(1)(H), 102(b)(1)(H), (I), Dec. 23, 2008, 122 Stat. 5097, 5101; Pub. L. 111–3, title III, §311(b)(1)(E), Feb. 4, 2009, 123 Stat. 70; Pub. L. 113–97, title I, §102(b)(6), Apr. 7, 2014, 128 Stat. 1117; Pub. L. 113–235, div. O, title I, §111(d), Dec. 16, 2014, 128 Stat. 2793.)
+(Pub. L. 93–406, title I, §502, Sept. 2, 1974, 88 Stat. 891; Pub. L. 96–364, title III, §306(b), Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title X, §10002(b), Apr. 7, 1986, 100 Stat. 231; Pub. L. 100–203, title IX, §§9342(c), 9344, Dec. 22, 1987, 101 Stat. 1330–372, 1330–373; Pub. L. 101–239, title II, §2101(a), (b), title VII, §§7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, 103 Stat. 2123, 2438, 2442, 2445, 2450; Pub. L. 101–508, title XII, §12012(d)(2), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–66, title IV, §4301(c)(1)–(3), Aug. 10, 1993, 107 Stat. 376; Pub. L. 103–401, §§2, 3, Oct. 22, 1994, 108 Stat. 4172; Pub. L. 103–465, title VII, §761(a)(9)(B)(ii), Dec. 8, 1994, 108 Stat. 5033; Pub. L. 104–191, title I, §101(b), (e)(2), Aug. 21, 1996, 110 Stat. 1951, 1952; Pub. L. 104–204, title VI, §603(b)(3)(E), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(2)(B), (d)(7), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 107–204, title III, §306(b)(3), July 30, 2002, 116 Stat. 783; Pub. L. 108–218, title I, §§102(d), 103(b), 104(a)(2), Apr. 10, 2004, 118 Stat. 602, 603, 606; Pub. L. 109–280, title I, §103(b)(2), title II, §202(b), (c), title V, §§502(a)(2), (b)(2), 507(b), 508(a)(2)(C), title IX, §902(f)(2), Aug. 17, 2006, 120 Stat. 816, 884, 885, 940, 941, 949, 951, 1039; Pub. L. 110–233, title I, §101(e), May 21, 2008, 122 Stat. 886; Pub. L. 110–458, title I, §§101(c)(1)(H), 102(b)(1)(H), (I), Dec. 23, 2008, 122 Stat. 5097, 5101; Pub. L. 111–3, title III, §311(b)(1)(E), Feb. 4, 2009, 123 Stat. 70; Pub. L. 113–97, title I, §102(b)(6), Apr. 7, 2014, 128 Stat. 1117; Pub. L. 113–235, div. O, title I, §111(d), Dec. 16, 2014, 128 Stat. 2793; Pub. L. 117–328, div. T, title III, §342(c), Dec. 29, 2022, 136 Stat. 5378.)
 
 #### <b>Editorial Notes</b>
 
@@ -255,6 +255,10 @@ This chapter, referred to in subsec. (k), was in the original "this Act", meanin
 Another section 306(b)(3) of Pub. L. 107–204 is classified to section 7244(b)(3) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(4). Pub. L. 117–328, §342(c)(2), substituted "section 1025(c) or 1032(a) of this title" for "1025(c) of this title".
+
+Subsec. (c)(1). Pub. L. 117–328, §342(c)(1), substituted ", section 1025(a) of this title, or section 1032(a) of this title" for "or section 1025(a) of this title".
 
 <b>2014</b>—Subsec. (a)(11). Pub. L. 113–235 added par. (11).
 
@@ -288,7 +292,7 @@ Pub. L. 109–280, §502(b)(2), which directed amendment of par. (4) by substitu
 
 Pub. L. 109–280, §502(a)(2), substituted "subsection (j) or (k) of section 1021 of this title" for "section 1021(j)".
 
-Pub. L. 109–280, §103(b)(2), which directed amendment of par. (4) by substituting "section 1021(j) or 1082(b)(7)(F)(iv) of this title" for "section 1082(b)(7)(F)(iv) of this title", was executed by making the substitution for "section 1082(b)(7)(F)(vi) of this title", to reflect the probable intent of Congress.
+Pub. L. 109–280, §103(b)(2), which directed amendment of par. (4) by substituting "section 1021(j) or 1082(b)(7)(F)(iv) of this title" for "section1082(b)(7)(F)(iv) of this title", was executed by making the substitution for "section 1082(b)(7)(F)(vi) of this title", to reflect the probable intent of Congress.
 
 Subsec. (c)(7). Pub. L. 109–280, §507(b), substituted "subsection (i) or (m) of section 1021" for "section 1021(i)".
 
@@ -376,7 +380,7 @@ Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child hea
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
-Pub. L. 110–233, title I, §101(f)(2), May 21, 2008, 122 Stat. 888, provided that: "The amendments made by this section \[amending this section and sections 1182 and 1191b of this title\] shall apply with respect to group health plans for plan years beginning after the date that is 1 year after the date of enactment of this Act \[May 21, 2008\]."
+Pub. L. 110–233, title I, §101(f)(2), May 21, 2008, 122 Stat. 888, provided that: "The amendments made by this section \[amending this section and sections 1182 and 1191b of this title\] shall apply with respect to grouphealth plans for plan years beginning after the date that is 1 year after the date of enactment of this Act \[May 21, 2008\]."
 
 #### Effective Date of 2006 Amendment
 
@@ -422,7 +426,7 @@ Pub. L. 101–239, title II, §2101(c), Dec. 19, 1989, 103 Stat. 2123, provided 
 
 Amendment by section 7881(b)(5)(B), (j)(2), (3) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7894(f)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
@@ -475,4 +479,6 @@ For provisions setting forth circumstances under which any amendment to a plan r
 <i><sup>1</sup></i><i> So in original. Probably should be "subtitle".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

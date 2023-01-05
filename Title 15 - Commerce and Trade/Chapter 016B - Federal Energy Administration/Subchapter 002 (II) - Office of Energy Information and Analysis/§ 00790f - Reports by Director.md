@@ -6,7 +6,7 @@ The Director shall make periodic reports and may make special reports to the Con
 
 &emsp;(1) such reports as the Director determines are necessary to provide a comprehensive picture of the quarterly, monthly, and, as appropriate, weekly supply and consumption of the various nonmineral energy resources, mineral fuels, and electricity in the United States; the information reported may be organized by company, by States, by regions, or by such other producing and consuming sectors, or combinations thereof, and shall be accompanied by an appropriate discussion of the evolution of the energy supply and consumption situation and such national and international trends and their effects as the Director may find to be significant; and
 
-&emsp;(2) an annual report which includes, but is not limited to, a description of the activities of the Office and the National Energy Information System during the preceding year; a summary of all special reports published during the preceding year; a summary of statistical information collected during the preceding year; short-, medium-, and long-term energyconsumption and supply trends and forecasts under various assumptions; and, to the maximum extent practicable, a summary or schedule of the amounts of mineral fuel resources, nonmineral energy resources, and mineral fuels that can be brought to market at various prices and technologies and their relationship to forecasted demands.
+&emsp;(2) an annual report which includes, but is not limited to, a description of the activities of the Office and the National Energy Information System during the preceding year; a summary of all special reports published during the preceding year; a summary of statistical information collected during the preceding year; short-, medium-, and long-term energy consumption and supply trends and forecasts under various assumptions; and, to the maximum extent practicable, a summary or schedule of the amounts of mineral fuel resources, nonmineral energy resources, and mineral fuels that can be brought to market at various prices and technologies and their relationship to forecasted demands.
 
 #### (b) Duty of Director to insure adequate documentation of forecasts and reports; periodic audit and validation of analytical methodologies; availability of information to public
 
@@ -28,7 +28,7 @@ Section effective 150 days after Aug. 14, 1976, see section 143 of Pub. L. 94–
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (a)(2) of this section relating to an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 90 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (a)(2) of this section relating to an annual report to Congress, see section 3003 of Pub. L. 104–66, asamended, set out as a note under section 1113 of Title 31, Money and Finance, and page 90 of House Document No. 103–7.
 
 #### Transfer of Functions
 

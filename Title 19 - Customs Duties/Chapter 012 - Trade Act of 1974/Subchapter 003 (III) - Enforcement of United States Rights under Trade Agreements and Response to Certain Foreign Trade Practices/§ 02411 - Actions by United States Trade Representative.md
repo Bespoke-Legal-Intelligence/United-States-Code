@@ -16,7 +16,7 @@
 
 (2) The Trade Representative is not required to take action under paragraph (1) in any case in which—
 
-&emsp;(A) the Dispute Settlement Body (as defined in section 3531(5) of this title) has adopted a report, or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that—
+&emsp;(A) the Dispute Settlement Body (as defined in section 3531(5) of this title) has adopted areport, or a ruling issued under the formal dispute settlement proceeding provided under any other trade agreement finds, that—
 
 &emsp;&emsp;(i) the rights of the United States under a trade agreement are not being denied, or
 
@@ -258,7 +258,7 @@ Ex. Ord. No. 13155, May 10, 2000, 65 F.R. 30521, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 141 and chapter 1 of title III of the Trade Act of 1974, as amended (19 U.S.C. 2171, 2411–2420), section 307 of the Public Health Service Act (42 U.S.C. 242l), and section 104 of the Foreign Assistance Act of 1961, as amended (22 U.S.C. 2151b), and in accordance with executive branch policy on health-related intellectual property matters to promote access to essential medicines, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. (a) In administering sections 301–310 of the Trade Act of 1974 \[19 U.S.C. 2411–2420\], the United States shall not seek, through negotiation or otherwise, the revocation or revision of any intellectual property law or policy of a beneficiary sub-Saharan African country, as determined by the President, thatregulates HIV/AIDS pharmaceuticals or medical technologies if the law or policy of the country:
+Section 1. <i>Policy</i>. (a) In administering sections 301–310 of the Trade Act of 1974 \[19 U.S.C. 2411–2420\], the United States shall not seek, through negotiation or otherwise, the revocation or revision of any intellectual property law or policy of a beneficiary sub-Saharan African country, as determined by the President, that regulates HIV/AIDS pharmaceuticals or medical technologies if the law or policy of the country:
 
 (1) promotes access to HIV/AIDS pharmaceuticals or medical technologies for affected populations in that country; and
 

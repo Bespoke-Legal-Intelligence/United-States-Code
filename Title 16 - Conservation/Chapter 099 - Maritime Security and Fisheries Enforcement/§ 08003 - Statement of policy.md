@@ -32,7 +32,7 @@ It is the policy of the United States\_\_<sup>1</sup>
 
 &emsp;(10) to continue to declassify and make available, as appropriate and practicable, technologies developed by the United States Government that can be used to help counter IUU fishing;
 
-&emsp;(11) to recognize the ties of IUU fishing to transnational organized illegal activity, including human trafficking and illegal trade in narcotics and arms, and as applicable, to focus on illicit activity in a coordinated, cross-cutting manner;
+&emsp;(11) to recognize the ties of IUU fishing to transnational organized illegal activity, including human trafficking and illegal trade in narcotics and arms, and as applicable, to focuson illicit activity in a coordinated, cross-cutting manner;
 
 &emsp;(12) to recognize and respond to poor working conditions, labor abuses, and other violent crimes in the fishing industry;
 

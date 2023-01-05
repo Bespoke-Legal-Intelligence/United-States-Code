@@ -20,7 +20,7 @@
 
 <b>1987</b>—Pub. L. 100–122 substituted "for any fiscal year" for "for fiscal year 1986".
 
-<b>1986</b>—Pub. L. 99–267 amended section generally. Prior to amendment, section read as follows: "Notwithstanding any other provision of law and subject only to the absence of qualified requests for insurance, to the authority provided in this chapter, and to any funding limitation approved in appropriation Acts, the Secretary shall enter into commitments during each of the fiscal years 1984 and 1985 to insure mortgages under this chapter with an aggregate principal amount of $50,900,000,000."
+<b>1986</b>—Pub. L. 99–267 amended section generally. Prior to amendment, section read as follows: "Notwithstanding any other provision of law and subject only tothe absence of qualified requests for insurance, to the authority provided in this chapter, and to any funding limitation approved in appropriation Acts, the Secretary shall enter into commitments during each of the fiscal years 1984 and 1985 to insure mortgages under this chapter with an aggregate principal amount of $50,900,000,000."
 
 <b>1984</b>—Pub. L. 98–479 substituted "this chapter" for "subchapter II of this chapter" in two places.
 

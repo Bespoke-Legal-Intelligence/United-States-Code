@@ -2,7 +2,7 @@
 
 #### (a) Collection of liability
 
-Any money realized by proceedings under this subchapter (whether by seizure, by surrenderunder section 6332 (except pursuant to subsection (d)(2) thereof), or by sale of seized property) or by sale of property redeemed by the United States (if the interest of the United States in such property was a lien arising under the provisions of this title) shall be applied as follows:
+Any money realized by proceedings under this subchapter (whether by seizure, by surrender under section 6332 (except pursuant to subsection (d)(2) thereof), or by sale of seized property) or by sale of property redeemed by the United States (if the interest of the United States in such property was a lien arising under the provisions of this title) shall be applied as follows:
 
 #### (1) Expense of levy and sale
 

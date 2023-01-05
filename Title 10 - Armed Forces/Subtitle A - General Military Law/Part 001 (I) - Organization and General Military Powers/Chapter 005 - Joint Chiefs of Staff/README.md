@@ -18,7 +18,7 @@
 
 A prior chapter 5 related to Joint Chiefs of Staff, prior to the general revision of this chapter by Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1004, consisted of sections 141 to 143 as follows:
 
-Section 141, acts Aug. 10, 1956, ch. 1041, 70A Stat. 6; Aug. 6, 1958, Pub. L. 85–599, §7, 72 Stat. 519; Sept. 7, 1962, Pub. L. 87–651, title II, §204, 76 Stat. 519; Oct. 20, 1978, Pub. L. 95–485, title VIII, §807, 92 Stat. 1622, provided forcomposition and functions of Joint Chiefs. See section 151 of this title.
+Section 141, acts Aug. 10, 1956, ch. 1041, 70A Stat. 6; Aug. 6, 1958, Pub. L. 85–599, §7, 72 Stat. 519; Sept. 7, 1962, Pub. L. 87–651, title II, §204, 76 Stat. 519; Oct. 20, 1978, Pub. L. 95–485, title VIII, §807, 92 Stat. 1622, provided for composition and functions of Joint Chiefs. See section 151 of this title.
 
 Section 142, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Sept. 7, 1962, Pub. L. 87–649, §14c(1), 76 Stat. 501; Oct. 19, 1984, Pub. L. 98–525, title XIII, §1301(b), 98 Stat. 2611, provided for appointment and duties of Chairman of Joint Chiefs. See sections 152 and 153 of this title.
 

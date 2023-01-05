@@ -16,13 +16,13 @@ A prior section 11389, Pub. L. 100–77, title IV, §429, as added Pub. L. 102�
 
 Prior sections 11391 to 11407b, consisting of former parts D to F of this subchapter which related to safe havens for homeless individuals demonstration program, miscellaneous provisions, and shelter plus care program, respectively, were repealed by Pub. L. 111–22, div. B, title V, §1501, May 20, 2009, 123 Stat. 1701, effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
 
-Section 11391, Pub. L. 100–77, title IV, §431, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat.4022, established safe havens for homeless individuals demonstration program.
+Section 11391, Pub. L. 100–77, title IV, §431, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat. 4022, established safe havens for homeless individuals demonstration program.
 
 Another prior section 11391, Pub. L. 100–77, title IV, §431, July 22, 1987, 101 Stat. 504; Pub. L. 100–242, title V, §570(i)(2), Feb. 5, 1988, 101 Stat. 1950, which provided definitions for a program of supplemental assistance for facilities to assist the homeless, was repealed by Pub. L. 102–550, title XIV, §1403(a), Oct. 28, 1992, 106 Stat. 4013.
 
 Section 11392, Pub. L. 100–77, title IV, §432, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat. 4022, provided definitions for part D.
 
-Another prior section 11392, Pub. L. 100–77, title IV, §432, July 22, 1987, 101 Stat. 505; Pub. L. 100–628, title IV, §§461–463(a), Nov. 7, 1988, 102 Stat. 3236, 3237; Pub. L. 101–625, title VIII, §834(b)–(d), Nov. 28, 1990, 104 Stat. 4365, 4366, which provided for supplemental assistance for facilities to assist the homeless, was repealed by Pub. L. 102–550, §1403(a).
+Another prior section 11392, Pub. L. 100–77, title IV, §432, July 22, 1987, 101 Stat. 505; Pub. L. 100–628, title IV,§§461–463(a), Nov. 7, 1988, 102 Stat. 3236, 3237; Pub. L. 101–625, title VIII, §834(b)–(d), Nov. 28, 1990, 104 Stat. 4365, 4366, which provided for supplemental assistance for facilities to assist the homeless, was repealed by Pub. L. 102–550, §1403(a).
 
 Section 11393, Pub. L. 100–77, title IV, §433, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat. 4024, related to program assistance.
 
@@ -86,7 +86,7 @@ Section 11403h, Pub. L. 100–77, title IV, §464, formerly §459, as added Pub.
 
 Another prior section 464 of Pub. L. 100–77 was renumbered section 457 and was classified to section 11403e–1 of this title prior to repeal by Pub. L. 111–22.
 
-Section 11404, Pub. L. 100–77, title IV, §471, as added Pub. L. 102–550, title XIV, §1406(d)(3), Oct. 28, 1992, 106Stat. 4030; amended Pub. L. 110–289, div. B, title VIII, §2835(c)(1)(B), July 30, 2008, 122 Stat. 2874, authorized Secretary to use amounts made available under former section 11403h of this title to provide tenant-based rental housing assistance.
+Section 11404, Pub. L. 100–77, title IV, §471, as added Pub. L. 102–550, title XIV, §1406(d)(3), Oct. 28, 1992, 106 Stat. 4030; amended Pub. L. 110–289, div. B, title VIII, §2835(c)(1)(B), July 30, 2008, 122 Stat. 2874, authorized Secretary to use amounts made available under former section 11403h of this title to provide tenant-based rental housing assistance.
 
 Another prior section 11404, Pub. L. 100–77, title IV, §461, as added Pub. L. 101–625, title VIII, §837(a), Nov. 28, 1990, 104 Stat. 4371, which authorized use of appropriations for provision of rental housing assistance to homeless in accordance with shelter plus care program, was repealed by Pub. L. 102–550, title XIV, §1406(d)(3), Oct. 28, 1992, 106 Stat. 4030.
 

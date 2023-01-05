@@ -46,7 +46,7 @@ Each manufacturer of manufactured homes shall provide to the Secretary such perf
 
 &emsp;(1) each prospective purchaser of a manufactured home before its first sale for purposes other than resale, at each location where any such manufacturer's manufactured homes are offered for sale by a person with whom such manufacturer has a contractual, proprietary, or other legal relationship and in a manner determined by the Secretary to be appropriate, which may include, but is not limited to, printed matter (A) available for retention by such prospective purchaser, and (B) sent by mail to such prospective purchaser upon his request; and
 
-&emsp;(2) the first person who purchases a manufactured home for purposes other than resale,at the time of such purchase or in printed matter placed in the manufactured home.
+&emsp;(2) the first person who purchases a manufactured home for purposes other than resale, at the time of such purchase or in printed matter placed in the manufactured home.
 
 #### (h) Disclosure of confidential information and trade secrets
 

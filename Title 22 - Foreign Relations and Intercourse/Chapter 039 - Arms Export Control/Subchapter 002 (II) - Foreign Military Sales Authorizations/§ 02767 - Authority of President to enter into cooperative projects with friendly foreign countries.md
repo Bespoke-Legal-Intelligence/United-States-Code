@@ -78,7 +78,7 @@ The authority under this section is in addition to the authority under sections 
 
 (2) Omitted.
 
-(Pub. L. 90–629, ch. 2, §27, as added Pub. L. 96–92, §15, Oct. 29, 1979, 93 Stat. 706; amended Pub. L. 99–83, title I, §115(a), Aug. 8, 1985, 99 Stat. 199; Pub. L. 99–145, title XI, §1102(a)(1), (5), Nov. 8, 1985, 99 Stat. 708, 710; Pub. L. 99–661, div. A, title XI, §1103(a), title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3962, 3991; Pub. L. 100–180, div. A, title X, §1022, Dec. 4, 1987, 101 Stat. 1144; Pub. L. 102–484, div. A, title VIII, §843(a), Oct. 23, 1992, 106 Stat. 2468; Pub. L. 113–276, title II, §208(a)(4), Dec. 18, 2014, 128 Stat. 2993.)
+(Pub. L. 90–629, ch. 2, §27, as added Pub. L. 96–92, §15, Oct. 29, 1979, 93 Stat. 706; amended Pub. L.99–83, title I, §115(a), Aug. 8, 1985, 99 Stat. 199; Pub. L. 99–145, title XI, §1102(a)(1), (5), Nov. 8, 1985, 99 Stat. 708, 710; Pub. L. 99–661, div. A, title XI, §1103(a), title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3962, 3991; Pub. L. 100–180, div. A, title X, §1022, Dec. 4, 1987, 101 Stat. 1144; Pub. L. 102–484, div. A, title VIII, §843(a), Oct. 23, 1992, 106 Stat. 2468; Pub. L. 113–276, title II, §208(a)(4), Dec. 18, 2014, 128 Stat. 2993.)
 
 #### <b>Editorial Notes</b>
 
@@ -150,7 +150,7 @@ Elements.—The risk assessment on a cooperative project under subsection (a) sh
 
 &emsp;"(2) A statement identifying any termination liability that would be incurred under the development contract to be entered into under subsection (a)(1), and a statement of the extent to which such termination liability would not be fully funded by appropriations available or sought in the fiscal year in which the agreement for the cooperative project is signed on behalf of the United States.
 
-&emsp;"(3) An assessment of the advisability of incurring any unfunded termination liability identified under paragraph (2) given the risks identified in the assessment under paragraph (1).
+&emsp;"(3) An assessment of the advisability of incurring any unfunded termination liability identified underparagraph (2) given the risks identified in the assessment under paragraph (1).
 
 &emsp;"(4) A listing of which, if any, requirements associated with the oversight and management of a major defense acquisition program (as prescribed under Department of Defense Instruction 5000.02 or related authorities) will be waived, or in any way modified, in carrying out the development contract to be entered into under \[subsection\] (a)(1), and a full explanation why such requirements need to be waived or modified.
 

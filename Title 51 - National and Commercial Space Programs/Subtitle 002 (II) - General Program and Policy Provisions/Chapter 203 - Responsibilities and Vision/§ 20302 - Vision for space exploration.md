@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administrator shall establish a program to develop a sustained humanpresence in cis-lunar space or on the Moon, including a robust precursor program, to promote exploration, science, commerce, and United States preeminence in space, and as a stepping-stone to future exploration of Mars and other destinations. The Administrator is further authorized to develop and conduct appropriate international collaborations in pursuit of these goals.
+In General.—The Administrator shall establish a program to develop a sustained human presence in cis-lunar space or on the Moon, including a robust precursor program, to promote exploration, science, commerce, and United States preeminence in space, and as a stepping-stone to future exploration of Mars and other destinations. The Administrator is further authorized to develop and conduct appropriate international collaborations in pursuit of these goals.
 
 (b)
 
@@ -18,7 +18,7 @@ Orion.—The term "Orion" means the multipurpose crew vehicle described under se
 
 &emsp;(2)
 
-Space launch system.—The term "Space Launch System" means has the meaning <sup>1</sup> given the term in section 3 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18302).
+Space launch system.—The term "Space Launch System" means has the meaning <sup>1</sup>given the term in section 3 of the National Aeronautics and Space Administration Authorization Act of 2010 (42 U.S.C. 18302).
 
 (Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3356; Pub. L. 115–10, title IV, §413, Mar. 21, 2017, 131 Stat. 33.)
 
@@ -58,9 +58,193 @@ Subsec. (c). Pub. L. 115–10, §413(3), added subsec. (c).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Moon to Mars
+
+Pub. L. 117–167, div. B, title VII, §10811, Aug. 9, 2022, 136 Stat. 1731, provided that:
+
+"(a)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) advances in space technology and space exploration capabilities—
+
+&emsp;&emsp;"(A) ensure the long-term technological preeminence, economic competitiveness, STEM workforce development, and national security of the United States; and
+
+&emsp;&emsp;"(B) offer profound inspirational value for future generations;
+
+&emsp;"(2) the Artemis missions—
+
+&emsp;&emsp;"(A) will make further progress on advancing the human exploration roadmap to achieve human presence beyond low-Earth orbit to the surface of Mars, as required under section 432 of the National Aeronautics and Space Administration Transition Authorization Act of 2017 (Public Law 115–10; 51 U.S.C. 20302 note);
+
+&emsp;&emsp;"(B) should fulfill the goal of landing United States astronauts, including the first woman and the next man, on the Moon; and
+
+&emsp;&emsp;"(C) should seek collaboration with commercial and international partners to establish sustainable lunar exploration, and should fund any sustainable lunar activities not directly required for the advancement of a human mission to Mars separately;
+
+&emsp;"(3) in carrying out the Artemis missions, the Administrator \[of the National Aeronautics and Space Administration\] should ensure that the entire Artemis program is inclusive and representative of all people of the United States, including women and minorities;
+
+&emsp;"(4) safe and successful execution of the roadmap to achieve human presence on Mars, including the Artemis missions, requires—
+
+&emsp;&emsp;"(A) a clear strategic vision for achieving lunar and Mars exploration that is shared by NASA \[National Aeronautics and Space Administration\], international partners, nongovernmental partners, Congress, and the people of the United States;
+
+&emsp;&emsp;"(B) a well-developed and executable timeline, budget, and mission architecture, to inform decisions, including decisions relating to workforce and infrastructure needs and the development of technical and nontechnical skills;
+
+&emsp;&emsp;"(C) consistent NASA oversight of all relevant exploration activities, enabled by NASA leadership with authority, responsibility, and accountability for decisions and well-developed capabilities for systems engineering and integration;
+
+&emsp;&emsp;"(D) clearly defined roles for NASA, international partners, and nongovernmental partners, including criteria for determining whether NASA should make, manage, or buy key capabilities; and
+
+&emsp;&emsp;"(E) mechanisms to ensure NASA insight into the activities of its international and nongovernmental partners, as required to identify and mitigate risks to mission safety and success.
+
+"(b)
+
+Moon to Mars Office and Program.—
+
+&emsp;"(1)
+
+Moon to mars office.—Not later than 120 days after the date of the enactment of this Act \[Aug. 9, 2022\], the Administrator shall establish within the Exploration Systems Development Mission Directorate a Moon to Mars Program Office (referred to in this section as the 'Office') to lead and manage the Moon to Mars program established under paragraph (2), including Artemis missions and activities.
+
+&emsp;"(2)
+
+Moon to mars program.—
+
+&emsp;&emsp;"(A)
+
+Establishment.—Not later than 120 days after the date of the enactment of this Act, the Administrator shall establish a Moon to Mars Program (referred to in this section as the 'Program') in accordance with sections 20302(b) and 70504 of title 51, United States Code, which shall include Artemis missions and activities, to achieve the goal of human exploration of Mars.
+
+&emsp;&emsp;"(B)
+
+Elements.—The Program shall include the following elements:
+
+&emsp;&emsp;&emsp;"(i) The Space Launch System under section 20302 of title 51, United States Code.
+
+&emsp;&emsp;&emsp;"(ii) The Orion crew vehicle under such section.
+
+&emsp;&emsp;&emsp;"(iii) Exploration Ground Systems.
+
+&emsp;&emsp;&emsp;"(iv) An outpost in orbit around the Moon under section 70504 of such title \[probably should be "section 70505 of such title"\].
+
+&emsp;&emsp;&emsp;"(v) Human-rated landing systems.
+
+&emsp;&emsp;&emsp;"(vi) Spacesuits.
+
+&emsp;&emsp;&emsp;"(vii) Any other element needed to meet the requirements for the Program.
+
+&emsp;&emsp;"(C)
+
+Direction.—The Administrator shall ensure that—
+
+&emsp;&emsp;&emsp;"(i) each Artemis mission demonstrates or advances a technology or operational concept that will enable human missions to Mars;
+
+&emsp;&emsp;&emsp;"(ii) the Program incorporates each such mission into the human exploration roadmap under section 432 of the National Aeronautics and Space Administration Transition Authorization Act of 2017 (Public Law 115–10; 51 U.S.C. 20302 note); and
+
+&emsp;&emsp;&emsp;"(iii) the Program includes cislunar space exploration activities that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) use a combination of launches of the Space Launch System and space transportation services from United States commercial providers, as appropriate, for each such mission;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) plan for not fewer than 1 Space Launch System launch annually beginning after the first successful crewed launch of Orion on the Space Launch System, with a goal of 2 Space Launch System launches annually as soon as practicable; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) establish an outpost in orbit around the Moon that—
+
+&emsp;&emsp;&emsp;"(aa) demonstrates technologies, systems, and operational concepts directly applicableto the space vehicle that will be used to transport humans to Mars;
+
+&emsp;&emsp;&emsp;"(bb) has the capability for periodic human habitation; and
+
+&emsp;&emsp;&emsp;"(cc) functions as a point of departure, return, or staging for missions to multiple locations on the lunar surface or other destinations.
+
+&emsp;"(3)
+
+Director.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Administrator shall appoint a Director for the Program, who shall lead the Office and report to the Associate Administrator of the Exploration Systems Development Mission Directorate.
+
+&emsp;&emsp;"(B)
+
+Accountability.—The Director shall have accountability for risk management and shall have authority, as consistent with NASA Space Flight Program and Project Management requirements—
+
+&emsp;&emsp;&emsp;"(i) to implement—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) Program-level requirements; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) an architecture and program plan developed to meet such requirements;
+
+&emsp;&emsp;&emsp;"(ii) to manage resources, personnel, and contracts necessary to implement the Program, as appropriate;
+
+&emsp;&emsp;&emsp;"(iii) to manage cost, risk, schedule, and performance factors;
+
+&emsp;&emsp;&emsp;"(iv) to direct and oversee a Program-wide systems engineering and integration and integrated risk management function; and
+
+&emsp;&emsp;&emsp;"(v) to carry out other authorities, in accordance with \[National Aeronautics and Space\] Administration policies and procedures.
+
+&emsp;&emsp;"(C)
+
+Responsibilities.—The Director shall be responsible for—
+
+&emsp;&emsp;&emsp;"(i) developing and managing—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) an integrated master plan, integrated master schedule, and integrated risk management procedures for the Program;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a Program-wide systems engineering and integration function as described in subsection (c);
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) plans for technology and capabilities development;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) logistics support, science data management, communications, and other plans that are relevant to the functions of the Office; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) performance measures to assess the progress of the Program;
+
+&emsp;&emsp;&emsp;"(ii) advising the Associate Administrator of the Exploration Systems Development Mission Directorate on the development of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) Program-level requirements, including for a human Mars orbital mission and a human mission to the surface of Mars; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) an architecture based on the requirements described in subclause (I); and
+
+&emsp;&emsp;&emsp;"(iii) informing the Associate Administrator of the Administration on coordination among NASA centers, as required to most efficiently achieve the goals of the Program.
+
+"(c)
+
+Systems Engineering and Integration.—The Director of the Office shall—
+
+&emsp;"(1) establish within the Office a Program-wide systems engineering and integration function; and
+
+&emsp;"(2) appoint a manager for such function to manage systems engineering and integration activities across the Program, including with respect to the Program elements described in subsection (b)(2).
+
+"(d)
+
+Implementation.—In the implementation of the Program, the Administrator shall ensure that—
+
+&emsp;"(1) for the purposes of reducing risk and complexity and making the maximum use of taxpayer investments to date, in conducting Artemis activities, the Administration does not take any action in regard to the design of the Exploration Upper Stage-enhanced Space Launch System that would preclude it from carrying an integrated human-rated lunar landing system for crewed lunar landing missions;
+
+&emsp;"(2) the Program maintains a robust series of ground-based and in-flight testing activities, including, with respect to each crewed system design, not less than 1 uncrewed flight test, followed by a crewed flight test, as appropriate, prior to use of the design on a human-rated lunar landing system or Mars mission; and
+
+&emsp;"(3) human lunar landing missions under the Program, including surface and in-space activities, are carried out solely by government astronauts.
+
+"(e)
+
+Study.—Not later than 180 days after the date of the enactment of this Act, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives\] a report detailing—
+
+&emsp;"(1) progress towards the establishment of—
+
+&emsp;&emsp;"(A) the Office, the Program, and the Program architecture; and
+
+&emsp;&emsp;"(B) the integrated master plan, integrated master schedule, and integrated risk management procedures for the Program;
+
+&emsp;"(2) performance measures and milestones for the Program and any interim assessment with respect to such performance measures, as practicable;
+
+&emsp;"(3) initial criteria for determining whether NASA should make, manage, or buy key capabilities within the Program or engage with international partners to access such capabilities;
+
+&emsp;"(4) strategies to ensure consistent insight into the activities of NASA partners, including nongovernmental partners, as required to identify and mitigate mission risks;
+
+&emsp;"(5) progress towards the establishment of a systems engineering and integration function; and
+
+&emsp;"(6) an annual budget profile for resources required to implement the Program during the 5-year period beginning on the date of the enactment of this Act."
+
+\[For definition of "STEM" as used in section 10811 of Pub. L. 117–167, set out above, see section 18901 of Title 42, The Public Health and Welfare.\]
+
+\[For definitions of "Orion", "cislunar space", and "government astronauts" as used in section 10811 of Pub. L. 117–167, set out above, see section 10802 of Pub. L. 117–167, set out as a Definitions note under section 10101 of this title.\]
+
 #### Human Space Exploration
 
-Pub. L. 115–10, title IV, §§431, 432, Mar. 21, 2017, 131 Stat. 38, provided that:
+Pub. L. 115–10, title IV, §§431, 432, Mar. 21, 2017, 131 Stat. 38, as amended by Pub. L. 117–167, div. B, title VII, §10817(b), Aug. 9, 2022, 136 Stat. 1740, provided that:
 
 #### "SEC. 431. FINDINGS ON HUMAN SPACE EXPLORATION.
 
@@ -148,7 +332,7 @@ Considerations.—In developing the human exploration roadmap, the Administrator
 
 &emsp;&emsp;"(C) establishing an organizational approach to ensure collaboration and coordination among NASA's Mission Directorates under section 821 \[set out as a note under section 20111 of this title\], when appropriate, including to collect and return to Earth a sample from the Martian surface;
 
-&emsp;&emsp;"(D) building upon the initial uncrewed mission, EM–1, and first crewed mission, EM–2, of the Space Launch System and Orion to establish a sustainable cadence of missions extending human exploration missions into cis-lunar space, including anticipated timelines and milestones;
+&emsp;&emsp;"(D) building upon the initial uncrewed mission, Artemis I, and first crewed mission, Artemis II, of the Space Launch System and Orion to establish a sustainable cadence of missions extending human exploration missions into cis-lunar space, including anticipated timelines and milestones;
 
 &emsp;&emsp;"(E) developing the robotic and precursor missions and activities that will demonstrate, test, and develop key technologies and capabilities essential for achieving human missions to Mars, including long-duration human operations beyond low-Earth orbit, space suits, solar electric propulsion, deep space habitats, environmental control life support systems, Mars lander and ascent vehicle, entry, descent, landing, ascent, Mars surface systems, and in-situ resource utilization;
 
@@ -172,7 +356,7 @@ Critical decision plan on human space exploration.—As part of the human explor
 
 &emsp;&emsp;"(B) defining decisions needed to maximize efficiencies and resources for reaching the near, intermediate, and long-term goals and objectives of human space exploration; and
 
-&emsp;&emsp;"(C) identifying and defining timelines and milestones for a sustainable cadence of missions beginning with EM–3 for the Space Launch System and Orion to extend human exploration from cis-lunar space to the surface of Mars.
+&emsp;&emsp;"(C) identifying and defining timelines and milestones for a sustainable cadence of missions beginning with Artemis III for the Space Launch System and Orion to extend human exploration from cis-lunar space to the surface of Mars.
 
 &emsp;"(5)
 
@@ -197,6 +381,8 @@ Contents.—Each human exploration roadmap under this paragraph shall include a 
 &emsp;&emsp;"(C)
 
 Submission with budget.—Each human exploration roadmap under this section shall be included in the budget for that fiscal year transmitted to Congress under section 1105(a) of title 31, United States Code."
+
+\[Pub. L. 117–167, div. B, title VII, §10817(b), Aug. 9, 2022, 136 Stat. 1740, which directed amendment of section 432(b) of the National Aeronautics and Space Administration Authorization Act of 2017, was executed by amending section 432(b) of Pub. L. 115–10, set out above, which is section 432(b) of the National Aeronautics and Space Administration Transition Authorization Act of 2017, to reflect the probable intent of Congress.\]
 
 \[For definitions of terms used in sections 431 and 432 of Pub. L. 115–10, set out above, see section 2 of Pub. L. 115–10, set out as a note under section 10101 of this title.\]
 

@@ -10,7 +10,7 @@ If a party seeking review under this chapter applies to the court for leave to a
 
 #### (c) Stay of agency action
 
-With respect to relief pending review of an action by either Administrator, no stay of an agency action may be granted unless the reviewing court determines that the party seeking such stay is (1) likely to prevail on the merits in the review proceeding and (2) will suffer irreparable harm pending such proceeding.
+With respect to relief pending review of an action by either Administrator, no stay of anagency action may be granted unless the reviewing court determines that the party seeking such stay is (1) likely to prevail on the merits in the review proceeding and (2) will suffer irreparable harm pending such proceeding.
 
 #### (d) Subpenas
 

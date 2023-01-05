@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(5) because small quantities of the raw materials and component parts are used for medical devices, sales of raw materials and component parts for medical devices constitute an extremely small portion of the overall market for the raw materials and component parts;
 
-&emsp;(6) under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) manufacturers of medical devices are required to demonstrate that the medical devices are safe and effective, including demonstrating that the products are properly designed and have adequate warnings or instructions;
+&emsp;(6) under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) manufacturersof medical devices are required to demonstrate that the medical devices are safe and effective, including demonstrating that the products are properly designed and have adequate warnings or instructions;
 
 &emsp;(7) notwithstanding the fact that raw materials and component parts suppliers do not design, produce, or test a final medical device, the suppliers have been the subject of actions alleging inadequate—
 
@@ -26,7 +26,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) warnings related to the use of such medical devices;
 
-&emsp;(8) even though suppliers of raw materials and component parts have very rarely been held liable in such actions, such suppliers have ceased supplying certain raw materials and component parts for use in medical devices fora number of reasons, including concerns about the costs of such litigation;
+&emsp;(8) even though suppliers of raw materials and component parts have very rarely been held liable in such actions, such suppliers have ceased supplying certain raw materials and component parts for use in medical devices for a number of reasons, including concerns about the costs of such litigation;
 
 &emsp;(9) unless alternate sources of supply can be found, the unavailability of raw materials and component parts for medical devices will lead to unavailability of lifesaving and life-enhancing medical devices;
 
@@ -60,7 +60,7 @@ The Congress finds that—
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in par. (6), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in par. (6), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

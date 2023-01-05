@@ -64,7 +64,7 @@ The Secretary shall direct the National Center for Education Statistics to colle
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(A)(iv), is title VI of Pub. L.91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(A)(iv), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 #### Prior Provisions
 
@@ -84,7 +84,7 @@ Subsec. (b)(2)(A)(iii). Pub. L. 114–95, §1301(g)(2)(B)(i)(III), substituted "
 
 Subsec. (b)(2)(B), (C). Pub. L. 114–95, §1301(g)(2)(B)(ii)–(iv), added subpar. (B), redesignated former subpar. (B) as (C), and in subpar. (C) substituted "any new proposed data elements" for "the proposed data elements" and struck out at end "Such publication shall occur not later than 120 days after January 8, 2002."
 
-Subsec. (b)(4). Pub. L. 114–95, §1301(g)(2)(C), struck out par. (4) which related to report to Congress not later than Apr. 30, 2003, on the Secretary's findings and recommendations regarding the maintenance and transfer of health and educational information for migratory students by the States.
+Subsec. (b)(4). Pub. L. 114–95, §1301(g)(2)(C), struck out par. (4) which related to report to Congress not later than Apr. 30, 2003, on the Secretary's findings and recommendations regarding the maintenance and transferof health and educational information for migratory students by the States.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

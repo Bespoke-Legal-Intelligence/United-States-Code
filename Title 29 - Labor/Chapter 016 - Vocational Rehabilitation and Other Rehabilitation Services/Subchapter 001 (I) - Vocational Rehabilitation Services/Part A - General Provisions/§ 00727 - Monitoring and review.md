@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(F) consumer satisfaction reviews and analyses described in section 725(c)(4) of this title;
 
-&emsp;&emsp;(G) information provided by the State Rehabilitation Council established under section 725 of this title, if the State has such a Council, or by the commission described in section 721(a)(21)(A)(i) of this title, if the State has such a commission;
+&emsp;&emsp;(G) information provided by the State Rehabilitation Council established under section 725 of this title, if the State has such aCouncil, or by the commission described in section 721(a)(21)(A)(i) of this title, if the State has such a commission;
 
 &emsp;&emsp;(H) reports; and
 
@@ -100,7 +100,7 @@ The Commissioner shall—
 
 #### (3) Disbursal of withheld funds
 
-&emsp;The Commissioner may, in accordance with regulations the Secretary shall prescribe, disburse any funds withheld from a State under paragraph (1) to any public or nonprofit private organization or agency within such State or to any political subdivision of such State submitting a plan meeting the requirements of section 721(a) of this title. The Commissioner may not make any payment under this paragraph unless the entity to which such payment is made has provided assurances to the Commissioner that such entity will contribute, for purposes of carrying out such plan, the same amount as the State would have been obligated to contribute if the State received such payment.
+&emsp;The Commissioner may, in accordance with regulations the Secretary shall prescribe, disburse any funds withheld from a State under paragraph (1) to any public or nonprofit private organization or agency within such State or to any political subdivision of such State submitting a plan meeting the requirements ofsection 721(a) of this title. The Commissioner may not make any payment under this paragraph unless the entity to which such payment is made has provided assurances to the Commissioner that such entity will contribute, for purposes of carrying out such plan, the same amount as the State would have been obligated to contribute if the State received such payment.
 
 #### (d) Review
 

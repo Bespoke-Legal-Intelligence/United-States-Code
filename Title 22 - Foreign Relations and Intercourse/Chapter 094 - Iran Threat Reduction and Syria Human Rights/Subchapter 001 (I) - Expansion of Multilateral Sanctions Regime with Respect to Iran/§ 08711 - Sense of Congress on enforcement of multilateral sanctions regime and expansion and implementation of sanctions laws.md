@@ -1,12 +1,12 @@
 ### §8711. Sense of Congress on enforcement of multilateral sanctions regime and expansion and implementation of sanctions laws
 
-It is the sense of Congress that the goal of compelling Iran to abandon efforts to acquire a nuclear weapons capability and other threatening activities can be effectively achieved through a comprehensive policy that includes economic sanctions, diplomacy, and military planning, capabilities and options, and that this objective is consistent with the one stated by President Barack Obama in the 2012 State of the Union Address: "Let there be no doubt: America is determined to prevent Iran from getting a nuclear weapon, and I will take no options off thetable to achieve that goal". Among the economic measures to be taken are—
+It is the sense of Congress that the goal of compelling Iran to abandon efforts to acquire a nuclear weapons capability and other threatening activities can be effectively achieved through a comprehensive policy that includes economic sanctions, diplomacy, and military planning, capabilities and options, and that this objective is consistent with the one stated by President Barack Obama in the 2012 State of the Union Address: "Let there be no doubt: America is determined to prevent Iran from getting a nuclear weapon, and I will take no options off the table to achieve that goal". Among the economic measures to be taken are—
 
 &emsp;(1) prompt enforcement of the current multilateral sanctions regime with respect to Iran;
 
 &emsp;(2) full, timely, and vigorous implementation of all sanctions enacted into law, including sanctions imposed or expanded by this Act or amendments made by this Act, through—
 
-&emsp;&emsp;(A) intensified monitoring by the President and the designees of the President, including the Secretary of the Treasury, the Secretary of State, and senior officials in the intelligence community (as defined in section 401a(4) of title 50), as appropriate;
+&emsp;&emsp;(A) intensified monitoring by the President and the designees of the President, including the Secretary of the Treasury, the Secretary of State, and senior officials inthe intelligence community (as defined in section 401a(4) of title 50), as appropriate;
 
 &emsp;&emsp;(B) more extensive use of extraordinary authorities provided for under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) and other sanctions laws;
 

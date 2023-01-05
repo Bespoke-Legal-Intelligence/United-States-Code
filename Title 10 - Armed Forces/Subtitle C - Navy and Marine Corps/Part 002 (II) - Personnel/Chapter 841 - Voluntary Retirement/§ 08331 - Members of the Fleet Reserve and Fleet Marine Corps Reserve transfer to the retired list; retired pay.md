@@ -10,7 +10,7 @@
 
 &emsp;(1) the years of service credited to him upon his transfer to the Fleet Reserve or the Fleet Marine Corps Reserve;
 
-&emsp;(2) his years of active and inactive service in the armed forces before his transfer to the Fleet Reserve or the Fleet Marine Corps Reserve not credited to him upon that transfer; and
+&emsp;(2) his years of active and inactive service in the armed forces before his transfer to theFleet Reserve or the Fleet Marine Corps Reserve not credited to him upon that transfer; and
 
 &emsp;(3) his years of service, active and inactive, in the Fleet Reserve or the Fleet Marine Corps Reserve.
 

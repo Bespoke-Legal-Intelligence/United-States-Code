@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) use return information disclosed under section 6103(l)(13) of title 26, pursuant to approval provided under section 1098h of this title, to determine the borrower's continued eligibility for the loan discharge described in subparagraph (B);
 
-&emsp;&emsp;&emsp;(ii) allow the borrower, at any time, to opt out of disclosure under such section6103(l)(13) and instead provide such information as the Secretary may require to determine the borrower's continued eligibility for such loan discharge; and
+&emsp;&emsp;&emsp;(ii) allow the borrower, at any time, to opt out of disclosure under such section 6103(l)(13) and instead provide such information as the Secretary may require to determine the borrower's continued eligibility for such loan discharge; and
 
 &emsp;&emsp;&emsp;(iii) provide the borrower with an opportunity to update the return information so disclosed before determination of such borrower's continued eligibility for such loan discharge.
 
@@ -120,7 +120,7 @@ Subsec. (c)(1). Pub. L. 109–171, §8012(2), inserted "or was falsely certified
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–208, §2(c)(63), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "If the collection of a loan described in subparagraph (A) or (B) of section 1078(a)(1) of this title or sections 1078–1, 1078–2, 1078–3, or 1078–8 of this title is stayed in any action under title 11, the Secretary shall repay the unpaid balance of principal and interest owed on the loan."
 
-Subsec. (c)(1). Pub. L. 103–208, §2(c)(64), substituted "If a borrower" for "If a student borrower", "under this part and the student borrower, or the student on whose behalf a parent borrowed, is unable" for "under this part is unable", and "in which such student is enrolled" for "in which the borrower is enrolled".
+Subsec. (c)(1). Pub. L. 103–208, §2(c)(64), substituted "If a borrower" for "If a student borrower", "under this part and the student borrower, or the student on whose behalf a parent borrowed, is unable" for "underthis part is unable", and "in which such student is enrolled" for "in which the borrower is enrolled".
 
 Subsec. (c)(4). Pub. L. 103–208, §2(c)(65), inserted at end "The amount discharged under this subsection shall be treated the same as loans under section 1087ee(a)(5) of this title."
 
@@ -160,7 +160,7 @@ Since our Founding, the United States has been blessed with men and women willin
 
 The Higher Education Act of 1965 \[20 U.S.C. 1001 et seq.\], as amended by the Higher Education Opportunity Act in 2008 and other acts (Higher Education Act), honors veterans who are totally and permanently disabled as a result of their service to the Nation by providing for the discharge of their Federal student loan debt. Borrowers who have been determined by the Secretary of Veterans Affairs to be unemployable due to a service-connected condition and who provide documentation of that determination to the Secretary of Education are entitled to the discharge of such debt.
 
-For the last decade, veterans seeking loan discharges have been required to submit an application to the Secretary of Education with proof of their disabilities obtained from the Department of Veterans Affairs. The process has been overly complicated and difficult, and prevented too many of our veterans from receiving therelief for which they are eligible. This has inflicted significant hardship and serious harm on these veterans and has frustrated the intent of the Congress that their Federal student loan debt be discharged.
+For the last decade, veterans seeking loan discharges have been required to submit an application to the Secretary of Education with proof of their disabilities obtained from the Department of Veterans Affairs. The process has been overly complicated and difficult, and prevented too many of our veterans from receiving the relief for which they are eligible. This has inflicted significant hardship and serious harm on these veterans and has frustrated the intent of the Congress that their Federal student loan debt be discharged.
 
 Only half of the approximately 50,000 totally and permanently disabled veterans who currently qualify for the discharge of their Federal student loan debt have availed themselves of the benefits provided to them by the Higher Education Act. This has created a serious and critical problem for disabled veterans, who must deal with the day-to-day consequences of their service-connected injuries, and for our military, as readiness and recruitment suffer when we do not take care of our veterans. There is a pressing need to quickly and effectively resolve this problem. Therefore, my Administration will take prompt action to ensure that all totally and permanently disabled veterans are able to obtain, with minimal burden, the Federal student loan debt discharges to which they are legally entitled.
 

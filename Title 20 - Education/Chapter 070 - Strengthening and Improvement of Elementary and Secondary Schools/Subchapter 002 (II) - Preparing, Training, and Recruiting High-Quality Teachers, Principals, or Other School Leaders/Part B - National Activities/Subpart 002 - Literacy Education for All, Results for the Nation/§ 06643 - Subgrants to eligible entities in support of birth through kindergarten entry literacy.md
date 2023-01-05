@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A State educational agency receiving a grant under this subpart shall, in consultation with the State agencies responsible for administering early childhood education programs and services, including the State agency responsible for administering child care programs, and, if applicable, the State AdvisoryCouncil on Early Childhood Education and Care designated or established pursuant to section 9837b(b)(1)(A)(i) of title 42, use a portion of the grant funds, in accordance with section 6642(d)(2)(D)(i) of this title, to award subgrants, on a competitive basis, to eligible entities to enable the eligible entities to support high-quality early literacy initiatives for children from birth through kindergarten entry.
+&emsp;A State educational agency receiving a grant under this subpart shall, in consultation with the State agencies responsible for administering early childhood education programs and services, including the State agency responsible for administering child care programs, and, if applicable, the State Advisory Council on Early Childhood Education and Care designated or established pursuant to section 9837b(b)(1)(A)(i) of title 42, use a portion of the grant funds, in accordance with section 6642(d)(2)(D)(i) of this title, to award subgrants, on a competitive basis, to eligible entities to enable the eligible entities to support high-quality early literacy initiatives for children from birth through kindergarten entry.
 
 #### (2) Duration
 

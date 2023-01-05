@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(iii) an offense in which the alien is not upon arrival immediately brought and presented to an appropriate immigration officer at a designated port of entry,
 
-> &emsp;be fined under title 18 and shall be imprisoned, in the case of a first or second violation of subparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.
+> &emsp;be fined under title 18 and shall be imprisoned, in the case of a first or second violation ofsubparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.
 
 (3)(A) Any person who, during any 12-month period, knowingly hires for employment at least 10 individuals with actual knowledge that the individuals are aliens described in subparagraph (B) shall be fined under title 18 or imprisoned for not more than 5 years, or both.
 
@@ -110,7 +110,7 @@ The Federal Rules of Evidence, referred to in subsec. (d), are set out in the Ap
 
 Subsec. (e). Pub. L. 108–458, §5401(b), added subsec. (e).
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–185 inserted heading and amended text of subsec. (b) generally, substituting present provisions for provisions relating to conveyances subject to seizure and forfeiture, exceptions, officers and authorized persons, disposition of forfeited conveyances, and suits and actions.
+<b>2000</b>—Subsec. (b). Pub. L. 106–185 inserted heading and amended text of subsec. (b) generally, substitutingpresent provisions for provisions relating to conveyances subject to seizure and forfeiture, exceptions, officers and authorized persons, disposition of forfeited conveyances, and suits and actions.
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–208, §671(a)(1), made technical amendment to directory language of Pub. L. 103–322, §60024(1)(F). See 1994 Amendment note below.
 
@@ -174,7 +174,7 @@ Subsec. (b)(5). Pub. L. 99–603, §112(b)(7)–(9), as amended by Pub. L. 100�
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–185, §21, Apr. 25, 2000, 114 Stat. 225, provided that: "Except as provided in section 14(c) \[set out as an Effective Date note under section 2466 of title 28, Judiciary and Judicial Procedure\], this Act \[see Short Title of 2000 Amendment note set out under section 981 of Title 18, Crimes and Criminal Procedure\] and the amendments made by this Act shall apply to any forfeiture proceeding commenced on or after the date that is 120 days after the date of the enactment of this Act \[Apr. 25, 2000\]."
+Pub. L. 106–185, §21, Apr. 25, 2000, 114 Stat. 225, provided that: "Except as provided in section 14(c) \[set outas an Effective Date note under section 2466 of title 28, Judiciary and Judicial Procedure\], this Act \[see Short Title of 2000 Amendment note set out under section 981 of Title 18, Crimes and Criminal Procedure\] and the amendments made by this Act shall apply to any forfeiture proceeding commenced on or after the date that is 120 days after the date of the enactment of this Act \[Apr. 25, 2000\]."
 
 #### Effective Date of 1996 Amendment
 

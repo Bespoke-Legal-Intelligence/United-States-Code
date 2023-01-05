@@ -6,7 +6,7 @@
 
 &emsp;(2) order any Federal agency or employee to comply with any order or decision issued by the Board under the authority granted under paragraph (1) of this subsection and enforce compliance with any such order;
 
-&emsp;(3) conduct, from time to time, special studies relating to the civil service and to othermerit systems in the executive branch, and report to the President and to the Congress as to whether the public interest in a civil service free of prohibited personnel practices is being adequately protected; and
+&emsp;(3) conduct, from time to time, special studies relating to the civil service and to other merit systems in the executive branch, and report to the President and to the Congress as to whether the public interest in a civil service free of prohibited personnel practices is being adequately protected; and
 
 &emsp;(4) review, as provided in subsection (f), rules and regulations of the Office of Personnel Management.
 
@@ -50,7 +50,7 @@
 
 &emsp;(B) invalidly implemented by any agency, if the Board determines that such provision, as it has been implemented by the agency through any personnel action taken by the agency or through any policy adopted by the agency in conformity with such provision, has required any employee to violate section 2302(b).
 
-(3) The Director of the Office of Personnel Management, and the head of any agency implementing any provision of any rule or regulationunder review pursuant to this subsection, shall have the right to participate in such review.
+(3) The Director of the Office of Personnel Management, and the head of any agency implementing any provision of any rule or regulation under review pursuant to this subsection, shall have the right to participate in such review.
 
 (4) The Board shall require any agency—
 

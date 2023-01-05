@@ -24,7 +24,7 @@ In awarding grants under this subchapter, the Director of the Bureau of Justice 
 
 &emsp;(4) provides armor vests to law enforcement officers that are uniquely fitted for such officers, including vests uniquely fitted to individual female law enforcement officers; or
 
-&emsp;(5) has not received a block grant under the Local Law Enforcement Block Grant program described under the heading "Violent Crime Reduction Programs, State and Local Law Enforcement Assistance" of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119).
+&emsp;(5) has not received a block grant under the Local Law Enforcement Block Grant programdescribed under the heading "Violent Crime Reduction Programs, State and Local Law Enforcement Assistance" of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998 (Public Law 105–119).
 
 #### (d) Minimum amount
 
@@ -74,7 +74,7 @@ Funds available under this subchapter shall be awarded, without regard to subsec
 
 #### (2) Expiration
 
-&emsp;All appropriated funds that are not obligated on or before December 31, 2022 shall betransferred to the General Fund of the Treasury not later than January 31, 2023.
+&emsp;All appropriated funds that are not obligated on or before December 31, 2022 shall be transferred to the General Fund of the Treasury not later than January 31, 2023.
 
 (Pub. L. 90–351, title I, §2501, as added Pub. L. 105–181, §3(a)(3), June 16, 1998, 112 Stat. 513; amended Pub. L. 106–517, §3(a), (b), Nov. 13, 2000, 114 Stat. 2407, 2408; Pub. L. 110–177, title III, §302(d), Jan. 7, 2008, 121 Stat. 2539; Pub. L. 111–8, div. B, title II, Mar. 11, 2009, 123 Stat. 583; Pub. L. 114–155, §§3, 5, 7, May 16, 2016, 130 Stat. 389, 390.)
 

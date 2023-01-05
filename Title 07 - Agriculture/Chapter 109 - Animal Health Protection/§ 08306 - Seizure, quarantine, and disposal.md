@@ -60,7 +60,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 #### (1) In general
 
-&emsp;The Secretary, in writing, may order the owner of any animal, article, facility, ormeans of conveyance referred to in subsection (a) or (b) to maintain in quarantine, dispose of, or take other remedial action with respect to the animal, article, facility, or means of conveyance, in a manner determined by the Secretary.
+&emsp;The Secretary, in writing, may order the owner of any animal, article, facility, or means of conveyance referred to in subsection (a) or (b) to maintain in quarantine, dispose of, or take other remedial action with respect to the animal, article, facility, or means of conveyance, in a manner determined by the Secretary.
 
 #### (2) Failure to comply with orders
 
@@ -112,7 +112,7 @@ The Secretary may hold, seize, quarantine, treat, destroy, dispose of, or take o
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d)(3), was in the original "this subtitle", meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d)(3), was in the original "this subtitle", meaning subtitle E\(§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Codification
 

@@ -16,7 +16,7 @@ Notwithstanding section 1261(f)(2) of this title and section 2052(a)(5) of this 
 
 #### (2) Consultation
 
-&emsp;If the Secretary of Health and Human Services adopts, maintains, enforces, or imposes or continues in effect any packaging requirement for liquid nicotine containers, including a child-resistant packaging requirement, the Secretary shall consult with the Commission, taking into consideration the expertise of the Commission in implementing and enforcing this section and the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.).
+&emsp;If the Secretary of Health and Human Services adopts, maintains, enforces, or imposes orcontinues in effect any packaging requirement for liquid nicotine containers, including a child-resistant packaging requirement, the Secretary shall consult with the Commission, taking into consideration the expertise of the Commission in implementing and enforcing this section and the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.).
 
 #### (c) Applicability
 
@@ -54,7 +54,7 @@ In this section:
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat.1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b)(1), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of Title 21, Food and Drugs, and Tables.
 

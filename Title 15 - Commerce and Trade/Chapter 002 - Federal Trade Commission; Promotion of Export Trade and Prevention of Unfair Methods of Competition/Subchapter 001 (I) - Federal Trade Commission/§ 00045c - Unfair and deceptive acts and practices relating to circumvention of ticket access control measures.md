@@ -88,7 +88,7 @@
 
 #### (4) Preemptive action by Federal Trade Commission
 
-&emsp;If the Commission institutes a civil action or an administrative action with respect to a violation of subsection (a), the attorney general of a State may not, during the pendency of such action, bring a civil action under paragraph (1) against any defendant named in the complaint of the Commission for the violationwith respect to which the Commission instituted such action.
+&emsp;If the Commission institutes a civil action or an administrative action with respect to a violation of subsection (a), the attorney general of a State may not, during the pendency of such action, bring a civil action under paragraph (1) against any defendant named in the complaint of the Commission for the violation with respect to which the Commission instituted such action.
 
 #### (5) Venue; service of process
 

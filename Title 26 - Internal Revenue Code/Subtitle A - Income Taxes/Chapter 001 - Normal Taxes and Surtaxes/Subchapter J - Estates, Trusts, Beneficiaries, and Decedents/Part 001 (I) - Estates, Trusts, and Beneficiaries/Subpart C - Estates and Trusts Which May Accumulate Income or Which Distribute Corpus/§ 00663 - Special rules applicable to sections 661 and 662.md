@@ -20,7 +20,7 @@ There shall not be included as amounts falling within section 661(a) or 662(a)â€
 
 #### (1) General rule
 
-&emsp;If within the first 65 days of any taxable year of an estate or a trust, an amount isproperly paid or credited, such amount shall be considered paid or credited on the last day of the preceding taxable year.
+&emsp;If within the first 65 days of any taxable year of an estate or a trust, an amount is properly paid or credited, such amount shall be considered paid or credited on the last day of the preceding taxable year.
 
 #### (2) Limitation
 

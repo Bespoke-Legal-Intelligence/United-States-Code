@@ -2,7 +2,7 @@
 
 The Secretary of the Army shall require that access by drill sergeants and other training personnel to a living area in which recruits are housed during basic training shall be limited after the end of the training day, other than in the case of an emergency or other exigent circumstance, to drill sergeants and other training personnel who are of the same sex as the recruits housed in that living area or to superiors in the chain of command of those recruits who, if not of the same sex as the recruits housed in that living area, are accompanied by a member (other than a recruit) who is of the same sex as the recruits housed in that living area.
 
-(Added Pub. L. 105–261, div. A, title V, §522(a)(1), Oct. 17, 1998, 112 Stat. 2012, §4320; renumbered§7420, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
+(Added Pub. L. 105–261, div. A, title V, §522(a)(1), Oct. 17, 1998, 112 Stat. 2012, §4320; renumbered §7420, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
 #### <b>Editorial Notes</b>
 

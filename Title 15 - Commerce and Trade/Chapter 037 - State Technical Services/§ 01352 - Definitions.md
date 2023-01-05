@@ -14,7 +14,7 @@ For the purposes of this chapter—
 
 (c) "Qualified institution" means (1) an institution of higher learning with a program leading to a degree in science, engineering, or business administration which is accredited by a nationally recognized accrediting agency or association to be listed by the Secretary of Education, or such an institution which is listed separately after evaluation by the Secretary of Education pursuant to this subsection; or (2) a State agency or a private, nonprofit institution which meets criteria of competence established by the Secretary of Commerce and published in the Federal Register. For the purpose of this subsection the Secretary of Education shall publish a list of nationally recognized accrediting agencies or associations which he determines to be reliable authority as to the quality of science, engineering, or business education or training offered. When the Secretary of Education determines that there is no nationally recognized accrediting agency or association qualified to accredit such programs he shall publish a list of institutions he finds qualified after prior evaluation by an advisory committee, composed of persons he determines to be specially qualified to evaluate the training provided under such programs.
 
-(d) "Participating institution" means each qualified institution in a State, which participates in the administration or execution of theState technical services program as provided by this chapter.
+(d) "Participating institution" means each qualified institution in a State, which participates in the administration or execution of the State technical services program as provided by this chapter.
 
 (e) "Secretary" means the Secretary of Commerce.
 

@@ -32,7 +32,7 @@ Liability.—The liability of a certifying officer shall be enforced in the same
 
 Rights.—A certifying or disbursing officer—
 
-&emsp;(1) has the right to apply for and obtain a decision by the Comptroller General on any question of law involved in a payment request presented for certification; and
+&emsp;(1) has the right to apply for and obtain a decision by the Comptroller General on anyquestion of law involved in a payment request presented for certification; and
 
 &emsp;(2) is entitled to relief from liability arising under this section in accordance with title 31.
 

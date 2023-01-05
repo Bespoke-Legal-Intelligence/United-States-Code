@@ -66,7 +66,7 @@ Notice of Sex Offender Release.—(1) In the case of a person described in parag
 
 > The notice requirements under this subsection do not apply in relation to a person being protected under chapter 224.
 
-(2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register as required by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
+(2) Notice provided under paragraph (1) shall include the information described in subsection (b)(2), the place where the person will reside, and the information that the person shall register as required by the Sex Offender Registration and Notification Act. For a person who is released from the custody of the Bureau of Prisons whose expected place of residence following release is known to the Bureau of Prisons, notice shall be provided at least 5 days prior to release by the Director of the Bureau of Prisons. For a person who is sentenced to probation, notice shall be provided promptly by the probation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts. Notice concerning a subsequent change of residence by a person described in paragraph (3) during any period of probation, supervised release, or parole shall also be provided to the agencies and officers specified in paragraph (1) by theprobation officer responsible for the supervision of the person, or in a manner specified by the Director of the Administrative Office of the United States Courts.
 
 (3) The Director of the Bureau of Prisons shall inform a person who is released from prison and required to register under the Sex Offender Registration and Notification Act of the requirements of that Act as they apply to that person and the same information shall be provided to a person sentenced to probation by the probation officer responsible for supervision of that person.
 
@@ -124,7 +124,7 @@ Subsec. (c)(1)(B). Pub. L. 111–211, §261(a)(3)(B), inserted ", tribal," afte
 
 Subsec. (c)(2). Pub. L. 109–248, §141(g)(2), substituted "shall register as required by the Sex Offender Registration and Notification Act" for "shall be subject to a registration requirement as a sex offender" in first sentence and "paragraph (3)" for "paragraph (4)" in fourth sentence.
 
-Subsec. (c)(3). Pub. L. 109–248, §141(f), amended par. (3) generally. Prior to amendment, par. (3) read as follows:"The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts."
+Subsec. (c)(3). Pub. L. 109–248, §141(f), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts."
 
 Subsec. (c)(4). Pub. L. 109–248, §141(h), struck out par. (4) which read as follows: "A person is described in this paragraph if the person was convicted of any of the following offenses (including such an offense prosecuted pursuant to section 1152 or 1153):
 
@@ -158,9 +158,229 @@ Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of Title 34, Crime Control and Law Enforcement.
 
+#### Prison Camera Reform
+
+Pub. L. 117–321, Dec. 27, 2022, 136 Stat. 4430, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Prison Camera Reform Act of 2021'.
+
+#### "SEC. 2. FINDINGS.
+
+"Congress finds the following:
+
+&emsp;"(1) The Bureau of Prisons has 122 institutions located throughout the United States. The Bureau of Prisons employs nearly 38,000 employees and is responsible for more than 150,000 Federal inmates.
+
+&emsp;"(2) Video footage from security camera systems and reliable communication over radio systems within Bureau of Prisons institutions are essential to protecting the health and safety of Bureau of Prisons employees and Federal inmates.
+
+&emsp;"(3) Based on the experience of Bureau of Prisons correctional staff, the noticeable presence of functioning security cameras serves as an effective deterrent to criminal behavior and misconduct.
+
+&emsp;"(4) Well-documented deficiencies of camera systems at Bureau of Prisons' facilities have hindered investigators' ability to substantiate allegations of serious misconduct by staff and inmates, including sexual and physical assaults, medical neglect, and introduction of contraband.
+
+&emsp;"(5) In a 2016 report, the Office of the Inspector General for the Department of Justice determined that 'deficiencies within the BOP's security camera system have affected the OIG's ability to secure prosecutions of staff and inmates in BOP contraband introduction cases, and these same problems adversely impact the availability of critical evidence to support administrative or disciplinary action against staff and inmates'.
+
+&emsp;"(6) Shortcomings in the land-mobile radio systems at Bureau of Prison facilities institutions impede the communication abilities of staff, slowing or preventing the response of correctional officers during an emergency or threat of attack, and jeopardizing the safety of both staff and Federal inmates.
+
+#### "SEC. 3. REQUIRED PLAN FOR REFORM OF BOP SECURITY CAMERA AND RADIO COVERAGE AND CAPABILITIES.
+
+"(a)
+
+Plan.—Not later than 90 days after the date of enactment of this Act \[Dec. 27, 2022\], the Director of the Bureau of Prisons shall—
+
+&emsp;"(1) evaluate the security camera, land-mobile radio (referred to in this Act as 'LMR'), and public address (referred to in this Act as 'PA') systems in use by the Bureau of Prisons as of the date of enactment of this Act; and
+
+&emsp;"(2) submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a plan for ensuring that all Bureau of Prisons correctional facilities have the security camera, LMR, and PA system coverage and capabilities necessary to—
+
+&emsp;&emsp;"(A) ensure the health and safety of staff and Federal inmates; and
+
+&emsp;&emsp;"(B) ensure the documentation and accessibility of video evidence that may pertain to misconduct by staff or inmates, negligent or abusive treatment of inmates, or criminal activity within correctional facilities.
+
+"(b)
+
+Contents.—The plan required under subsection (a) shall—
+
+&emsp;"(1) identify and include plans to address any deficiencies in the security camera system in use at Bureau of Prisons correctional facilities, including those related to—
+
+&emsp;&emsp;"(A) an insufficient number of cameras;
+
+&emsp;&emsp;"(B) inoperable or malfunctioning cameras;
+
+&emsp;&emsp;"(C) blind spots;
+
+&emsp;&emsp;"(D) poor quality video; and
+
+&emsp;&emsp;"(E) any other deficits in the security camera system;
+
+&emsp;"(2) identify and include plans to adopt and maintain any security camera system upgrades needed to achieve the purposes described in subsection (a), including—
+
+&emsp;&emsp;"(A) conversion of all analog cameras to digital surveillance systems, with corresponding infrastructure and equipment upgrade requirements;
+
+&emsp;&emsp;"(B) upgrades to ensure the secure storage, logging, preservation, and accessibility of recordings such that the recordings are available to investigators or Courts at such time as may be reasonably required; and
+
+&emsp;&emsp;"(C) additional enterprise-wide camera system capabilities needed to enhance the safety and security of inmates and staff;
+
+&emsp;"(3) identify and include plans to address any deficiencies in the LMR and PA systems in use at Bureau of Prisons correctional facilities, including those related to—
+
+&emsp;&emsp;"(A) an inadequate number of radios;
+
+&emsp;&emsp;"(B) inoperable, outdated, or malfunctioning LMR or PA systems;
+
+&emsp;&emsp;"(C) areas of Bureau of Prisons correctional facilities that lack adequate reception for radio operation;
+
+&emsp;&emsp;"(D) radios that lack an emergency notification feature (also known as a 'man down' function), which automatically sends an alert and transmits the location of that radio in the event the wearer is in a prone position; and
+
+&emsp;&emsp;"(E) any other deficits in the LMR or PA systems;
+
+&emsp;"(4) include an assessment of operational and logistical considerations in implementing the plan required under subsection (a), including—
+
+&emsp;&emsp;"(A) a prioritization of facilities for needed upgrades, beginning with high security institutions;
+
+&emsp;&emsp;"(B) the personnel and training necessary to implement the changes; and
+
+&emsp;&emsp;"(C) ongoing repair and maintenance requirements; and
+
+&emsp;"(5) include a 3-year strategic plan and cost projection for implementing the changes and upgrades to the security camera, LMR, and PA systems identified under paragraphs (1) through (4).
+
+"(c)
+
+Implementation Deadline.—Not later than 3 years after the date on which the plan is submitted under subsection (a)(2), and subject to appropriations, the Director of the Bureau of Prisons shall complete implementation of the submitted plan.
+
+"(d)
+
+Annual Progress Reports.—Beginning 1 year after the date on which the plan is submitted under subsection (a)(2), and each year thereafter until the end of the 3-year period described in subsection (c), the Director of the Bureau of Prisons shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report on the progress of the implementation of the submitted plan."
+
+#### Health and Safety of Pregnant Women and Mothers
+
+Pub. L. 117–103, div. W, title X, §1002, Mar. 15, 2022, 136 Stat. 914, provided that:
+
+"(a)
+
+Short Title.—This section may be cited as the 'Stop Infant Mortality and Recidivism Reduction Act' or the 'SIMARRA Act'.
+
+"(b)
+
+Establishment.—Not later than 270 days after the date of enactment of this Act \[Mar. 15, 2022\], the Director of the Bureau of Prisons (in this section referred to as the 'Director') shall establish a pilot program (in this section referred to as the 'Program') in accordance with this section to permit women incarcerated in Federal prisons and the children born to such women during incarceration to reside together while the inmate serves a term of imprisonment.
+
+"(c)
+
+Purposes.—The purposes of this section are to—
+
+&emsp;"(1) prevent infant mortality among infants born to incarcerated mothers and greatly reduce the trauma and stress experienced by pregnant inmates;
+
+&emsp;"(2) reduce the recidivism rates of federally incarcerated women and mothers, and enhance public safety by improving the effectiveness of the Federal prison system for women as a population with special needs;
+
+&emsp;"(3) utilize a female offender risk and needs assessment to encourage a more effective and efficient Federal prison system;
+
+&emsp;"(4) utilize a validated post-sentencing risk and needs assessment system that relies on dynamic factors to provide Federal prison officials with information regarding needs of Federal pregnant offenders and enhance public safety;
+
+&emsp;"(5) perform regular outcome evaluations of the effectiveness of programs and interventions for federally incarcerated pregnant women and mothers to assure that such programs and interventions are evidence-based and to suggest changes, deletions, and expansions based on the results of such evaluations; and
+
+&emsp;"(6) assist the Department of Justice to address the underlying cost structure of the Federal prison system and ensure that the Department can continue to run parenting programming safely and securely without compromising the scope or quality of the Department's critical health, safety and law enforcement missions.
+
+"(d)
+
+Duties of the Director of Bureau of Prisons.—
+
+&emsp;"(1)
+
+In general.—The Director shall carry out this section in consultation with—
+
+&emsp;&emsp;"(A) the Director of the Administrative Office of the United States Courts;
+
+&emsp;&emsp;"(B) the Director of the Office of Probation and Pretrial Services; and
+
+&emsp;&emsp;"(C) the Director of the National Institute of Justice.
+
+&emsp;"(2)
+
+Duties.—The Director shall, in accordance with paragraph (3), and in addition to the mandates under section 3631 of title 18, United States Code—
+
+&emsp;&emsp;"(A) evaluate the female offender risk and needs assessment for its ability to address the particular health and sensitivities of federally incarcerated pregnant women and mothers in accordance with this subsection;
+
+&emsp;&emsp;"(B) develop recommendations regarding recidivism reduction programs and productive activities in accordance with subsection (c);
+
+&emsp;&emsp;"(C) conduct ongoing research and data analysis on—
+
+&emsp;&emsp;&emsp;"(i) the best practices relating to the use of offender risk and needs assessment tools for female offenders with a particular emphasis on how those tools address the health and sensitivities of federally incarcerated pregnant women and mothers;
+
+&emsp;&emsp;&emsp;"(ii) potential improvements to risk and needs assessment tools for female offenders to address the health and sensitivities of federally incarcerated pregnant women and mothers; and
+
+&emsp;&emsp;&emsp;"(iii) which recidivism reduction programs are the most effective—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) for federally incarcerated pregnant women and mothers classified at different recidivism risk levels; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) for addressing the specific needs of federally incarcerated pregnant women and mothers;
+
+&emsp;&emsp;"(D) on a biennial basis, review any findings related to evaluations conducted under subparagraph (A) and the recommendations developed under subparagraph (B), using the research conducted under subparagraph (C), to determine whether any revisions or updates should be made to female offender risk and needs assessment systems, and if so, make such revisions or updates;
+
+&emsp;&emsp;"(E) hold periodic meetings with the individuals listed in paragraph (1) at intervals to be determined by the Director;
+
+&emsp;&emsp;"(F) develop tools to communicate parenting program availability and eligibility criteria to each employee of the Bureau of Prisons and each pregnant inmate to ensure that each pregnant inmate in the custody of a Bureau of Prisons facility understands the resources available to such inmate; and
+
+&emsp;&emsp;"(G) report to Congress in accordance with subsection (h).
+
+&emsp;"(3)
+
+Methods.—In carrying out the duties under paragraph (2), the Director shall—
+
+&emsp;&emsp;"(A) consult relevant stakeholders; and
+
+&emsp;&emsp;"(B) make decisions using data that is based on available statistical and empirical evidence.
+
+"(e)
+
+Eligibility.—An inmate may apply to participate in the Program if the inmate—
+
+&emsp;"(1) is pregnant at the beginning of or during the term of imprisonment; and
+
+&emsp;"(2) is in the custody or control of the Bureau of Prisons.
+
+"(f)
+
+Program Terms.—
+
+&emsp;"(1)
+
+Term of participation.—To correspond with the purposes and goals of the Program to promote bonding during the critical stages of child development, an eligible inmate selected for the Program may participate in the Program, subject to subsection (g), until the earliest of—
+
+&emsp;&emsp;"(A) the date that the inmate's term of imprisonment terminates; or
+
+&emsp;&emsp;"(B) the date the infant fails to meet any medical criteria established by the Director.
+
+&emsp;"(2)
+
+Inmate requirements.—For the duration of an inmate's participation in the Program, the inmate shall agree to—
+
+&emsp;&emsp;"(A) take substantive steps towards acting in the role of a parent or guardian to any child of that inmate;
+
+&emsp;&emsp;"(B) participate in any recommended educational or counseling opportunities, including topics such as child development, parenting skills, domestic violence, vocational training, or substance abuse, as appropriate;
+
+&emsp;&emsp;"(C) abide by any court decision regarding the legal or physical custody of the child; and
+
+&emsp;&emsp;"(D) specify a person who has agreed to take at least temporary custody of the child if the inmate's participation in the Program terminates before the inmate's release.
+
+"(g)
+
+Continuity of Care.—The Director shall take appropriate actions to prevent detachment or disruption of either an inmate's or infant's health and bonding-based well-being due to termination of the Program.
+
+"(h)
+
+Reporting.—
+
+&emsp;"(1)
+
+In general.—Not later than 6 months after the date of enactment of this Act \[Mar. 15, 2022\], and once each year thereafter for 5 years, the Director shall submit a progress report to the Congress with regards to implementing the Program.
+
+&emsp;"(2)
+
+Final report.—Not later than 6 months after the termination of the Program, the Director shall issue a final report to the Congress that contains a detailed statement of the Director's findings and conclusions, including recommendations for legislation, administrative actions, and regulations the Director considers appropriate."
+
+\[For definitions of terms used in section 1002 of div. W of Pub. L. 117–103, set out above, see section 12291 of Title 34, Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of Title 34.\]
+
 #### De-Escalation Training
 
-Pub. L. 115–391, title VI, §606, Dec. 21, 2018, 132 Stat. 5244, provided that: "Beginning not later than 1 year after the date of enactment of this Act \[Dec. 21, 2018\], the Director of the Bureau of Prisons shall incorporate into training programs provided to officers and employees of the Bureau of Prisons (including officers and employees of an organization with which the Bureau of Prisons has a contract to provide services relating to imprisonment) specialized and comprehensive training in procedures to—
+Pub. L. 115–391, title VI, §606, Dec. 21, 2018, 132 Stat. 5244, provided that: "Beginning not later than 1 year after the date of enactment of this Act \[Dec. 21, 2018\],the Director of the Bureau of Prisons shall incorporate into training programs provided to officers and employees of the Bureau of Prisons (including officers and employees of an organization with which the Bureau of Prisons has a contract to provide services relating to imprisonment) specialized and comprehensive training in procedures to—
 
 &emsp;"(1) de-escalate encounters between a law enforcement officer or an officer or employee of the Bureau of Prisons, and a civilian or a prisoner (as such term is defined in section 3635 of title 18, United States Code, as added by section 101(a) of this Act); and
 
@@ -264,7 +484,7 @@ Pub. L. 105–314, title VIII, §801, Oct. 30, 1998, 112 Stat. 2990, provided th
 
 #### Application to Prisoners to Which Prior Law Applies
 
-Pub. L. 103–322, title II, §20404, Sept. 13, 1994, 108 Stat. 1825, provided that: "In the case of a prisoner convicted of an offense committed prior to November 1, 1987, the reference to supervised release in section 4042(b) of title 18, United States Code, shall be deemed to be a reference to probation or parole."
+Pub. L. 103–322, title II, §20404, Sept. 13, 1994, 108 Stat. 1825, provided that: "In the case of a prisoner convictedof an offense committed prior to November 1, 1987, the reference to supervised release in section 4042(b) of title 18, United States Code, shall be deemed to be a reference to probation or parole."
 
 #### Cost Savings Measures
 
@@ -298,7 +518,7 @@ As the DOJ Report makes clear, although occasions exist when correctional offici
 
 Given the urgency and importance of this issue, it is critical that DOJ accelerate efforts to reduce the number of Federal inmates and detainees held in restrictive housing and that Federal correctional and detention systems be models for facilities across the United States. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and to address the overuse of solitary confinement in correctional and detention systems throughout the United States, I hereby direct as follows:
 
-Section 1. <i>Implementation of the DOJ Report</i>. (a) DOJ shall promptly undertake to revise its regulations and policies, consistent with the direction of the Attorney General, to implement the policy recommendations in the DOJ Report concerning the use of restrictive housing. DOJ shall provide me with an update on the statusof these efforts not later than 180 days after the date of this memorandum.
+Section 1. <i>Implementation of the DOJ Report</i>. (a) DOJ shall promptly undertake to revise its regulations and policies, consistent with the direction of the Attorney General, to implement the policy recommendations in the DOJ Report concerning the use of restrictive housing. DOJ shall provide me with an update on the status of these efforts not later than 180 days after the date of this memorandum.
 
 (b) Other executive departments and agencies (agencies) that impose restrictive housing shall review the DOJ Report to determine whether corresponding changes at their facilities should be made in light of the policy recommendations and guiding principles in the DOJ Report.
 

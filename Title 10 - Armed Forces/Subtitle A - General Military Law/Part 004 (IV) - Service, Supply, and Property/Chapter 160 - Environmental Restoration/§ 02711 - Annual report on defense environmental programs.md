@@ -2,61 +2,63 @@
 
 (a)
 
-Report Required.—The Secretary of Defense shall submit to Congress each year, not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year, a report on defense environmental programs. Each report shall include:
-
-&emsp;(1) With respect to environmental restoration activities of the Department of Defense, and for each of the military departments, the following elements:
-
-&emsp;&emsp;(A) Information on the Environmental Restoration Program, including the following:
-
-&emsp;&emsp;&emsp;(i) The total number of sites in the Environmental Restoration Program.
-
-&emsp;&emsp;&emsp;(ii) The number of sites in the Environmental Restoration Program that have reached the Remedy in Place Stage and the Response Complete Stage, and the change in such numbers in the preceding fiscal year.
-
-&emsp;&emsp;&emsp;(iii) A statement of the amount of funds allocated by the Secretary for, and the anticipated progress in implementing, the Environmental Restoration Program during the fiscal year for which the budget is submitted.
-
-&emsp;&emsp;&emsp;(iv) The Secretary's assessment of the overall progress of the Environmental Restoration Program.
-
-&emsp;&emsp;(B) Information on the Military Munitions Restoration Program (MMRP), including the following:
-
-&emsp;&emsp;&emsp;(i) The total number of sites in the MMRP.
-
-&emsp;&emsp;&emsp;(ii) The number of sites that have reached the Remedy in Place Stage and the Response Complete Stage, and the change in such numbers in the preceding fiscal year.
-
-&emsp;&emsp;&emsp;(iii) A statement of the amount of funds allocated by the Secretary for, and the anticipated progress in implementing, the MMRP during the fiscal year for which the budget is submitted.
-
-&emsp;&emsp;&emsp;(iv) The Secretary's assessment of the overall progress of the MMRP.
-
-&emsp;(2) With respect to each of the major activities under the environmental quality program of the Department of Defense and for each of the military departments—
-
-&emsp;&emsp;(A) a statement of the amount expended, or proposed to be expended, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the current fiscal year, the fiscal year for which the budget is submitted, and the fiscal year following the fiscal year for which the budget is submitted; and
-
-&emsp;&emsp;(B) an explanation for any significant change in such amounts during the period covered.
-
-&emsp;(3) With respect to the environmental technology program of the Department of Defense—
-
-&emsp;&emsp;(A) a report on the progress made in achieving the objectives and goals of its environmental technology program during the preceding fiscal year and an overall trend analysis for the program covering the previous four fiscal years; and
-
-&emsp;&emsp;(B) a statement of the amount expended, or proposed to be expended, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the fiscal year for which the budget is submitted, and the fiscal year following the fiscal year for which the budget is submitted.
+Report Required.—Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report on progress made by environmental programs of the Department of Defense during the preceding fiscal year.
 
 (b)
 
-Definitions.—For purposes of this section—
+Elements.—Each report under subsection (a) shall include, for the year covered by the report, the following:
 
-&emsp;(1) the term "environmental quality program" means a program of activities relating to environmental compliance, conservation, pollution prevention, and other activities relating to environmental quality as the Secretary may designate; and
+&emsp;(1) With respect to environmental restoration activities of the Department of Defense,and for each of the military departments, information on the Defense Environmental Restoration Program under section 2701 of this title, including—
 
-&emsp;(2) the term "major activities" with respect to an environmental program means—
+&emsp;&emsp;(A) the total number of sites at which such program was carried out;
 
-&emsp;&emsp;(A) environmental compliance activities;
+&emsp;&emsp;(B) the progress of remediation for sites that have not yet completed cleanup;
 
-&emsp;&emsp;(B) conservation activities; and
+&emsp;&emsp;(C) the remaining cost to complete cleanup of known sites; and
 
-&emsp;&emsp;(C) pollution prevention activities.
+&emsp;&emsp;(D) an assessment by the Secretary of Defense of the overall progress of such program.
 
-(Added Pub. L. 112–81, div. A, title III, §317(a), Dec. 31, 2011, 125 Stat. 1359.)
+&emsp;(2) An assessment by the Secretary of achievements for environmental conservation and planning by the Department.
+
+&emsp;(3) An assessment by the Secretary of achievements for environmental compliance by the Department.
+
+&emsp;(4) An assessment by the Secretary of achievements for climate resiliency by the Department.
+
+&emsp;(5) An assessment by the Secretary of the progress made by the Department in achieving the objectives and goals of the Environmental Technology Program of the Department.
+
+(c)
+
+Consolidation.—The Secretary of Defense may consolidate, attach with, or otherwise include in any report required under subsection (a) any annual report or other requirement that is aligned or associated with, or would be better understood if presented as part of a consolidated report addressing environmental restoration, compliance, and resilience.
+
+(Added Pub. L. 112–81, div. A, title III, §317(a), Dec. 31, 2011, 125 Stat. 1359; amended Pub. L. 117–263, div. A, title III, §314(a), Dec. 23, 2022, 136 Stat. 2503.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Pub. L. 117–263 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related to report required and definitions, respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Termination of Reporting Requirements
+#### Reporting on Lead Service Lines and Lead Plumbing
 
-For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+Pub. L. 117–263, div. B, title XXVIII, §2853, Dec. 23, 2022, 136 Stat. 3009, provided that:
+
+"(a)
+
+Initial Report.—Not later than January 1, 2025, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
+
+&emsp;"(1) a list of military installations (including Government-owned family housing facilities), military housing, and privatized military housing projects that, as of the date of the report, are being serviced by lead service lines or lead plumbing for the purposes of receiving drinking water;
+
+&emsp;"(2) an evaluation of whether military installations and privatized military housing projects are in compliance with the Lead and Copper Rule and, to the extent that such installations and projects are not in compliance, an identification of—
+
+&emsp;&emsp;"(A) the name and location of each such installation or project that is not in compliance; and
+
+&emsp;&emsp;"(B) the timeline and plan for bringing each such installation or project into compliance; and
+
+&emsp;"(3) an identification of steps and resources needed to remove any remaining lead plumbing from military installations and housing.
+
+"(b)
+
+Inclusion of Information in Annual Report.—If, after reviewing the initial report required under subsection (a), the Secretary of Defense finds that any military installation or privatized family housing project is not in compliance with the Lead and Copper Rule, the Secretary shall include in the annual report on defense environmental programs required under section 2711 of title 10, United States Code, for each year after the year in which the initial report is submitted, an update on the efforts of the Secretary, including negotiations with privatized military family housing providers, to fully comply with the Lead and Copper Rule."
 

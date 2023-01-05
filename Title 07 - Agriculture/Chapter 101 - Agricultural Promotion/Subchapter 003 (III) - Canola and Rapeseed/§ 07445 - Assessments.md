@@ -36,7 +36,7 @@ No more than 1 assessment may be assessed under subsection (a) on any canola or 
 
 #### (2) Increase
 
-&emsp;The assessment rate may be increased on recommendation by the Board to a rate not exceeding 10 cents per hundredweight ofcanola or rapeseed produced and marketed in a State, unless—
+&emsp;The assessment rate may be increased on recommendation by the Board to a rate not exceeding 10 cents per hundredweight of canola or rapeseed produced and marketed in a State, unless—
 
 &emsp;&emsp;(A) after the initial referendum is held under section 7446(a) of this title, the Board recommends an increase above 10 cents per hundredweight; and
 

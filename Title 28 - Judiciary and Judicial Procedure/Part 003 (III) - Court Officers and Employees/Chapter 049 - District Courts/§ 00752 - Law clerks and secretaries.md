@@ -1,6 +1,6 @@
 ### §752. Law clerks and secretaries
 
-District judges may appoint necessary law clerks and secretaries subject to any limitation on the aggregate salaries of such employees which may be imposed by law. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
+District judges may appoint necessary law clerks and secretaries subject to any limitation on the aggregate salaries of such employeeswhich may be imposed by law. A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.
 
 (June 25, 1948, ch. 646, 62 Stat. 921; Pub. L. 86–221, Sept. 1, 1959, 73 Stat. 452; Pub. L. 100–702, title X, §1003(a)(3), Nov. 19, 1988, 102 Stat. 4665.)
 

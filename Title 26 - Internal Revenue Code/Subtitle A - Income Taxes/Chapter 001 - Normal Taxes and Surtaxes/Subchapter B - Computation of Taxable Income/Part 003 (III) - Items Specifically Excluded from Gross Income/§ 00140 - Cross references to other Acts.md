@@ -28,7 +28,7 @@ Pub. L. 115–141, §401(a)(2)(A), substituted "Department of Veterans Affairs" 
 
 Subsec. (a)(4) to (6). Pub. L. 115–141, §401(b)(11), redesignated pars. (4) to (6) as (3) to (5), respectively.
 
-<b>2006</b>—Subsec. (a)(4). Pub. L. 109–304 substituted "section 53507 of title 46, United States Code" for "section607(d) of the Merchant Marine Act, 1936 (46 U.S.C. 1177)".
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–304 substituted "section 53507 of title 46, United States Code" for "section 607(d) of the Merchant Marine Act, 1936 (46 U.S.C. 1177)".
 
 <b>2002</b>—Pub. L. 107–134 renumbered section 139 of this title as this section.
 

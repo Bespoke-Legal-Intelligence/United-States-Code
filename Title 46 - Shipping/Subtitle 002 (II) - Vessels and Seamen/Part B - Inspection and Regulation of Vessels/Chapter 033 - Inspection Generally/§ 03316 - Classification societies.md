@@ -130,7 +130,7 @@ The date of the enactment of the Howard Coble Coast Guard and Maritime Transport
 
 The date of the enactment of the Hamm Alert Maritime Safety Act of 2018, referred to in subsec. (g)(3), is the date of enactment of Pub. L. 115–265, which was approved Oct. 11, 2018.
 
-Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (h), was classified to section 4605(j) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
+Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (h), was classified to section 4605(j) of Title 50, War and National Defense, prior torepeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 The International Emergency Economic Powers Act, referred to in subsec. (h), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
@@ -188,7 +188,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Deadline for Establishment of Recognized Organization Oversight Office
 
-Pub. L. 115–265, title II, §215(b), Oct. 11, 2018, 132 Stat. 3751, provided that: "The Commandant of the Coast Guard shall establish the office required by the amendment made by subsection (a) \[amending this section\] bynot later than 2 years after the date of the enactment of this Act \[Oct. 11, 2018\]."
+Pub. L. 115–265, title II, §215(b), Oct. 11, 2018, 132 Stat. 3751, provided that: "The Commandant of the Coast Guard shall establish the office required by the amendment made by subsection (a) \[amending this section\] by not later than 2 years after the date of the enactment of this Act \[Oct. 11, 2018\]."
 
 #### Review of Authorities Delegated to Recognized Organizations for Alternative Compliance Program
 

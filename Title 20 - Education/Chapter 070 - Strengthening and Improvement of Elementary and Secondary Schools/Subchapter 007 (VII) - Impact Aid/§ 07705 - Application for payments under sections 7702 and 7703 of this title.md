@@ -48,7 +48,7 @@ The Secretary shall establish deadlines for the submission of applications under
 
 &emsp;Notwithstanding any other provision of law, a State educational agency that had been accepted as an applicant for funds under section 3 of the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such section was in effect on the day preceding October 20, 1994) in fiscal year 1994 shall be permitted to continue as an applicant under the same conditions by which such agency made application during such fiscal year only if such State educational agency distributes all funds received for the students for which application is being made by such State educational agency to the local educational agencies providing educational services to such students.
 
-(Pub. L. 89–10, title VII, §7005, formerly title VIII, §8005, as added Pub. L. 103–382, title I, §101,Oct. 20, 1994, 108 Stat. 3761; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809\], Oct. 30, 2000, 114 Stat. 1654, 1654A–382; renumbered title VII, §7005, and amended Pub. L. 114–95, title VII, §§7001(c)(1), (d)(1), 7006, Dec. 10, 2015, 129 Stat. 2074, 2086.)
+(Pub. L. 89–10, title VII, §7005, formerly title VIII, §8005, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3761; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809\], Oct. 30, 2000, 114 Stat. 1654, 1654A–382; renumbered title VII, §7005, and amended Pub. L. 114–95, title VII, §§7001(c)(1), (d)(1), 7006, Dec. 10, 2015, 129 Stat. 2074, 2086.)
 
 #### <b>Editorial Notes</b>
 
@@ -80,7 +80,7 @@ Pub. L. 114–95, §7001(d)(1), made technical amendment to reference in origina
 
 <b>2000</b>—Subsec. (d)(2). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(1)\], inserted ", or not more than 60 days after the date on which the Secretary sends written notice to the local educational agency pursuant to paragraph (3)(A), as the case may be," after "subsection (c)".
 
-Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(2)\], amended heading and text generally. Prior to amendment, text read as follows: "The Secretary shall not accept or approve any application that is filed more than 60 days after a deadline established under subsection (c) of this section."
+Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(2)\], amended heading and text generally. Prior toamendment, text read as follows: "The Secretary shall not accept or approve any application that is filed more than 60 days after a deadline established under subsection (c) of this section."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -88,7 +88,29 @@ Subsec. (d)(3). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1809(2)\], a
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
 
-#### Impact Aid Program
+#### Data To Be Used for Impact Aid Programs in Certain Fiscal Years
+
+Pub. L. 117–83, Jan. 21, 2022, 136 Stat. 6, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Supplemental Impact Aid Flexibility Act'.
+
+#### "SEC. 2. IMPACT AID PROGRAM.
+
+"Due to the public health emergency directly relating to COVID–19 and notwithstanding sections 7002(j) and 7003(c) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7702(j), 7703(c)), a local educational agency desiring to receive a payment under section 7002 or 7003 of such Act (20 U.S.C. 7702, 7703) for fiscal year 2023 that also submitted an application for such payment for fiscal year 2022 shall, in the application submitted under section 7005 of such Act (20 U.S.C. 7705) for fiscal year 2023—
+
+&emsp;"(1) with respect to a requested payment under section 7002 of such Act—
+
+&emsp;&emsp;"(A) use the data described in section 7002(j) of such Act relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2022; or
+
+&emsp;&emsp;"(B) use the data relating to calculating such payment for the fiscal year required under section 7002(j) of such Act; and
+
+&emsp;"(2) with respect to a requested payment under section 7003 of such Act—
+
+&emsp;&emsp;"(A) use the student count data relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2022, provided that payments for fiscal year 2023 shall be calculated by the Secretary using the expenditures and rates described in clauses (i), (ii), (iii), and (iv) of section 7003(b)(1)(C) of such Act that would otherwise apply for fiscal year 2023; or
+
+&emsp;&emsp;"(B) use the student count data relating to calculating such payment for the fiscal year required under section 7003(c) of such Act."
 
 Pub. L. 116–211, §2, Dec. 4, 2020, 134 Stat. 1017, provided that: "Due to the public health emergency relating to COVID–19 and notwithstanding sections 7002(j) and 7003(c) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7702(j), 7703(c)), a local educational agency desiring to receive a payment under section 7002 or 7003 of such Act (20 U.S.C. 7702, 7703) for fiscal year 2022 that also submitted an application for such payment for fiscal year 2021 shall, in the application submitted under section 7005 of such Act (20 U.S.C. 7705) for fiscal year 2022—
 

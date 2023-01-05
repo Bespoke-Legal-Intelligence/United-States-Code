@@ -6,7 +6,7 @@ The Secretary shall—
 
 &emsp;(1) for each fiscal year for which the amount appropriated under section 3181(a) of this title exceeds $925,000,000, reserve 4 percent of the excess amount to provide youth workforce investment activities under section 3222 of this title (relating to migrant and seasonal farmworkers); and
 
-&emsp;(2) use the remainder of the amount appropriated under section 3181(a) of this title for afiscal year to make allotments and grants in accordance with subsection (b).
+&emsp;(2) use the remainder of the amount appropriated under section 3181(a) of this title for a fiscal year to make allotments and grants in accordance with subsection (b).
 
 #### (b) Allotment among States
 
@@ -98,7 +98,7 @@ The Secretary shall—
 
 #### (A) Allotment percentage
 
-&emsp;&emsp;The term "allotment percentage", used with respect to fiscal year 2015 or a subsequent fiscal year, means a percentage of the remainder described in paragraph (1)(C)(i) that is received through an allotment made under paragraph (1)(C) for the fiscal year. The term, used with respect to fiscal year 2014, means the percentage of the amount allotted to States under section 127(b)(1)(C) of the Workforce Investment Act of 1998 \[29 U.S.C. 2852(b)(1)(C)\] (as in effect on the day before July 22, 2014) that is received under such section by the State involved for fiscal year 2014.
+&emsp;&emsp;The term "allotment percentage", used with respect to fiscal year 2015 or a subsequent fiscal year, means a percentage of the remainder described in paragraph (1)(C)(i) that is received through an allotment made under paragraph (1)(C) for the fiscal year. The term, used with respect to fiscal year 2014, means the percentage of the amount allotted to States under section 127(b)(1)(C) ofthe Workforce Investment Act of 1998 \[29 U.S.C. 2852(b)(1)(C)\] (as in effect on the day before July 22, 2014) that is received under such section by the State involved for fiscal year 2014.
 
 #### (B) Area of substantial unemployment
 

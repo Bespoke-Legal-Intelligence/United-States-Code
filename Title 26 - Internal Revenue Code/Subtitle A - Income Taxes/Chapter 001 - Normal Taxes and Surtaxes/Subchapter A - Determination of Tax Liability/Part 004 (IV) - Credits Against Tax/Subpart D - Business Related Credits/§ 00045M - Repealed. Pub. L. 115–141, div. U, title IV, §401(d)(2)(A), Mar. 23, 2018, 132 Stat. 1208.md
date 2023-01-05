@@ -6,5 +6,5 @@ Section, added Pub. L. 109–58, title XIII, §1334(a), Aug. 8, 2005, 119 Stat. 
 
 #### Savings Provision
 
-For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, seesection 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) The term "eligible dependent" means a dependent described in section 1076(a)(2) (other than a dependent of a member on active duty), 1076(b), 1086(c)(2), or 1086(c)(3) of this title.
 
-&emsp;(3) The term "medicare-eligible", with respect to any person, means entitled to benefitsunder part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.).
+&emsp;(3) The term "medicare-eligible", with respect to any person, means entitled to benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.).
 
 &emsp;(4) The term "participating uniformed service" means the Army, Navy, Air Force, Marine Corps, and Space Force, and any other uniformed service that is covered by an agreement entered into under subsection (c).
 
@@ -22,7 +22,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title XVIII of the Act is classified generally to part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title XVIII of the Act is classified generally to part A (§1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -56,7 +56,7 @@ Subsec. (c). Pub. L. 107–107, §711(b)(1), added subsec. (c).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title V, §592(c), Oct. 17, 2006, 120 Stat. 2234, provided that: "The amendments made by this section \[amending this section and section 1115 of this title\] shall take effect with respect to payments under chapter 56 of title 10, United States Code, beginning with fiscal year 2008."
+Pub. L. 109–364, div. A, title V, §592(c), Oct. 17, 2006, 120 Stat. 2234, provided that: "The amendments madeby this section \[amending this section and section 1115 of this title\] shall take effect with respect to payments under chapter 56 of title 10, United States Code, beginning with fiscal year 2008."
 
 #### Effective Date of 2004 Amendment
 

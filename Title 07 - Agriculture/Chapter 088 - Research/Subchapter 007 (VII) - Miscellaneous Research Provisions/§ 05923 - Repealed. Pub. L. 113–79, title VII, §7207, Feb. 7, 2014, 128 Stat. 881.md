@@ -6,5 +6,5 @@ Section, Pub. L. 101–624, title XVI, §1670, as added Pub. L. 107–171, title
 
 #### Prior Provisions
 
-A prior section 5923, Pub. L. 101–624, title XVI, §1670, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 102–237, title IV,§407(10), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §834, Apr. 4, 1996, 110 Stat. 1169, authorized establishment of livestock product safety and inspection program, prior to repeal by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
+A prior section 5923, Pub. L. 101–624, title XVI, §1670, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 102–237, title IV, §407(10), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §834, Apr. 4, 1996, 110 Stat. 1169, authorized establishment of livestock product safety and inspection program, prior to repeal by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
 

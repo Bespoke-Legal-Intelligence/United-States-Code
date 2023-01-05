@@ -122,7 +122,7 @@
 
 &emsp;&emsp;(H) the applicant's affiliation with existing research programs of the Federal Government;
 
-&emsp;&emsp;(I) the applicant's experience managing public-private partnerships to transition new technologies into a commercial setting or the government user community;
+&emsp;&emsp;(I) the applicant's experience managing public-private partnerships to transitionnew technologies into a commercial setting or the government user community;
 
 &emsp;&emsp;(J) the capability of the applicant to conduct interdisciplinary cybersecurity research, basic and applied, such as in law, economics, or behavioral sciences; and
 

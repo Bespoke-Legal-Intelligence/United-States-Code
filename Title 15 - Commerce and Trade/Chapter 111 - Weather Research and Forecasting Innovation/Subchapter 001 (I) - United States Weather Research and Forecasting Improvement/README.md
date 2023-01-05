@@ -7,6 +7,7 @@
 
 - [&sect; 08511 - Public safety priority](%C2%A7%2008511%20-%20Public%20safety%20priority.md)
 - [&sect; 08512 - Weather research and forecasting innovation](%C2%A7%2008512%20-%20Weather%20research%20and%20forecasting%20innovation.md)
+- [&sect; 08512a - Learning excellence and good examples from new developers](%C2%A7%2008512a%20-%20Learning%20excellence%20and%20good%20examples%20from%20new%20developers.md)
 - [&sect; 08513 - Tornado warning improvement and extension program](%C2%A7%2008513%20-%20Tornado%20warning%20improvement%20and%20extension%20program.md)
 - [&sect; 08514 - Hurricane forecast improvement program](%C2%A7%2008514%20-%20Hurricane%20forecast%20improvement%20program.md)
 - [&sect; 08515 - Weather research and development planning](%C2%A7%2008515%20-%20Weather%20research%20and%20development%20planning.md)

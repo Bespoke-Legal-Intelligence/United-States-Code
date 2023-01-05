@@ -102,7 +102,7 @@ In subsection (f), the words "a member who holds, or has held" are substituted f
 
 Prior sections 8287 to 8289 were repealed by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981.
 
-Section 8287, acts Aug. 10, 1956, ch. 1041, 70A Stat. 508; Aug. 21, 1957, Pub. L. 85–155, title III, §301(6), 71 Stat. 386; Sept. 2, 1958, Pub. L. 85–861, §1(169), 72 Stat. 1517; Sept. 30, 1966, Pub. L. 89–609, §1(28), 80 Stat. 854, provided service credit for a person originally appointed in a commissioned grade in Regular Air Force, other than a person appointed as a medical or dental officer, for purpose of determining grade, position on a promotion list, seniority in his grade in Regular Air Force, andeligibility for promotion, with appointment and service credit restrictions on persons who were cadets at the United States Air Force, Military, or Naval Academies but were not graduated, and a disallowance of service credit under this section for persons who graduated from one of these Academies. See section 533 of this title.
+Section 8287, acts Aug. 10, 1956, ch. 1041, 70A Stat. 508; Aug. 21, 1957, Pub. L. 85–155, title III, §301(6), 71 Stat. 386; Sept. 2, 1958, Pub. L. 85–861, §1(169), 72 Stat. 1517; Sept. 30, 1966, Pub. L. 89–609, §1(28), 80 Stat. 854, provided service credit for a person originally appointed in a commissioned grade in Regular Air Force, other than a person appointed as a medical or dental officer, for purpose of determining grade, position on a promotion list, seniority in his grade in Regular Air Force, and eligibility for promotion, with appointment and service credit restrictions on persons who were cadets at the United States Air Force, Military, or Naval Academies but were not graduated, and a disallowance of service credit under this section for persons who graduated from one of these Academies. See section 533 of this title.
 
 Section 8288, acts Aug. 10, 1956, ch. 1041, 70A Stat. 508; Aug. 2, 1957, Pub. L. 85–155, title III, §301(7), 71 Stat. 387; Sept. 2, 1958, Pub. L. 85–861, §1(170), 72 Stat. 1518, provided for determination of grade of a person originally appointed as a commissioned officer in Regular Air Force, other than persons appointed as medical or dental officers. See section 533 of this title.
 
@@ -141,6 +141,8 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date of 1962 Amendment
 
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding section 101 of Title 37, Pay and Allowances of the Uniformed Services.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

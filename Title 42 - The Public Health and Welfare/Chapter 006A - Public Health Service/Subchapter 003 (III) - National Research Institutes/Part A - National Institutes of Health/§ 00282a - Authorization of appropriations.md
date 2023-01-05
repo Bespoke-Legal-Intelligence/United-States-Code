@@ -74,7 +74,7 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 #### (C) Determination
 
-&emsp;&emsp;For purposes of determining the amount or percentage of funds to be reported undersubparagraph (B), any amounts made available to an institute or center under section 282(b)(7)(B) of this title shall be included.
+&emsp;&emsp;For purposes of determining the amount or percentage of funds to be reported under subparagraph (B), any amounts made available to an institute or center under section 282(b)(7)(B) of this title shall be included.
 
 #### (D) Verification of amounts
 

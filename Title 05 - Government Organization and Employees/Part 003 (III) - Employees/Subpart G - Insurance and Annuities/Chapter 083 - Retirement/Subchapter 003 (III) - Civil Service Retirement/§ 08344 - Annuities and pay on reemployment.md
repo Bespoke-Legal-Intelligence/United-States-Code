@@ -10,7 +10,7 @@
 
 &emsp;(4) a Member receiving annuity from the Fund;
 
-> becomes employed in an appointive or elective position, his service on and after the date he is so employed is covered by this subchapter. Deductions for the Fund may not be withheld from his pay unless the individual elects to have such deductions withheld under subparagraph (A). An amount equal to the annuity allocable to the period of actual employment shall be deducted from his pay, except for lump-sum leave payment purposes under section 5551 of this title. The amounts so deducted shall be deposited in the Treasury of the United States to the credit of the Fund. If the annuitant serves on a full-time basis, except as President, for at least 1 year, or on a part-time basis for periods equivalent to at least 1 year of full-time service, in employment not excluding him from coverage under section 8331(1)(i) or (ii) of this title—
+> becomes employed in an appointive or elective position, his service on and after the date he is so employed is covered by this subchapter. Deductions for the Fund may not be withheld from his pay unless the individual elects to have such deductions withheld under subparagraph (A). An amount equal to the annuity allocable to the period of actual employment shall be deducted from his pay, except for lump-sum leave payment purposes under section 5551 of this title. The amounts so deducted shall be deposited inthe Treasury of the United States to the credit of the Fund. If the annuitant serves on a full-time basis, except as President, for at least 1 year, or on a part-time basis for periods equivalent to at least 1 year of full-time service, in employment not excluding him from coverage under section 8331(1)(i) or (ii) of this title—
 
 &emsp;(A) deductions for the Fund may be withheld from his pay (if the employee so elects), and his annuity on termination of employment is increased by an annuity computed under section 8339(a), (b), (d), (e), (h), (i), (n), (q), (r), and (s) as may apply based on the period of employment and the basic pay, before deduction, averaged during that employment; and
 
@@ -48,7 +48,7 @@
 
 (e) This section does not apply to an individual appointed to serve as a Governor of the Board of Governors of the United States Postal Service.
 
-(f) Notwithstanding the provisions of subsection (a) of this section, if an annuitant receiving annuity from the Fund, except a Member receiving annuity from the Fund, becomes employed as a justice or judge of the United States, as defined by section 451 of title 28, annuity payments are discontinued during such employment and are resumed in the same amount upon resignation or retirement from regular active service as such a justice or judge.
+(f) Notwithstanding the provisions of subsection (a) of this section, if an annuitant receiving annuity from the Fund, except a Member receiving annuity from the Fund, becomes employed as a justice or judge of the United States, as defined by section 451 of title 28, annuity payments are discontinued during suchemployment and are resumed in the same amount upon resignation or retirement from regular active service as such a justice or judge.
 
 (g) A former employee or a former Member who becomes employed as a justice or judge of the United States, as defined by section 451 of title 28, may, at any time prior to resignation or retirement from regular active service as such a justice or judge, apply for and be paid, in accordance with section 8342(a) of this title, the amount (if any) by which the lump-sum credit exceeds the total annuity paid, notwithstanding the time limitation contained in such section for filing an application for payment.
 
@@ -66,7 +66,7 @@
 
 (j)(1) If warranted by circumstances described in subsection (i)(1)(A) or (B) (as applicable), the Director of the Administrative Office of the United States Courts shall, with respect to an employee in the judicial branch, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (i) with respect to an employee of an Executive agency.
 
-(2) Authority under this subsection may not be exercised with respect to a justice or judge ofthe United States, as defined in section 451 of title 28.
+(2) Authority under this subsection may not be exercised with respect to a justice or judge of the United States, as defined in section 451 of title 28.
 
 (k)(1) If warranted by circumstances described in subsection (i)(1)(A) or (B) (as applicable), an official or committee designated in paragraph (2) shall, with respect to the employees specified in the applicable subparagraph of such paragraph, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (i) with respect to an employee of an Executive agency.
 
@@ -388,7 +388,7 @@ Pub. L. 94–397, §2, Sept. 3, 1976, 90 Stat. 1203, provided that:
 
 "(a) Except as provided under subsection (b) of this section, the amendments made by this Act \[amending this section and section 8339 of this title\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1976\] or October 1, 1976, whichever is later, and shall apply to annuitants serving in appointive or elective positions on and after such date.
 
-"(b) The amendment made by subsection (c) of the first section of this Act \[amending this section\] shall become effective on the date of the enactment of thisAct \[Sept. 3, 1976\] or October 1, 1976, whichever is later, but shall not apply to any annuitant reemployed before such date."
+"(b) The amendment made by subsection (c) of the first section of this Act \[amending this section\] shall become effective on the date of the enactment of this Act \[Sept. 3, 1976\] or October 1, 1976, whichever is later, but shall not apply to any annuitant reemployed before such date."
 
 #### Effective Date of 1972 Amendment
 

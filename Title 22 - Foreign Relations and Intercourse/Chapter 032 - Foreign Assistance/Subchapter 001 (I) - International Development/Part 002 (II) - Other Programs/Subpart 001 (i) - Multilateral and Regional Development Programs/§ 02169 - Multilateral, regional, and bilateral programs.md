@@ -10,7 +10,7 @@ It is further the sense of the Congress (1) that where problems or opportunities
 
 #### (c) Federal funds to multilateral lending institutions and multilateral organizations for loans to foreign countries; increase
 
-It is the sense of the Congress that the President should increase, to the extent practicable,the funds provided by the United States to multilateral lending institutions and multilateral organizations in which the United States participates for use by such institutions and organizations in making loans to foreign countries.
+It is the sense of the Congress that the President should increase, to the extent practicable, the funds provided by the United States to multilateral lending institutions and multilateral organizations in which the United States participates for use by such institutions and organizations in making loans to foreign countries.
 
 (Pub. L. 87–195, pt. I, §209, as added Pub. L. 90–137, pt. I, §102(e), Nov. 14, 1967, 81 Stat. 449; amended Pub. L. 92–226, pt. I, §101(c), Feb. 7, 1972, 86 Stat. 21; Pub. L. 94–161, title III, §311(1), Dec. 20, 1975, 89 Stat. 860; Pub. L. 106–429, §101(a) \[title VIII, §804\], Nov. 6, 2000, 114 Stat. 1900, 1900A–67.)
 
@@ -18,7 +18,7 @@ It is the sense of the Congress that the President should increase, to the exten
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 

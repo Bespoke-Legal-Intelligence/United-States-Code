@@ -30,7 +30,7 @@ This section, referred to in subsec. (b), was in the original "this Act", meanin
 
 Section was enacted as part of the Federal Food Donation Act of 2008, and not as part of the Child Nutrition Act of 1966 which comprises this chapter.
 
-In subsec. (a), "section 1303 of title 41" substituted for "section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421)" on authority of Pub. L.111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), "section 1303 of title 41" substituted for "section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

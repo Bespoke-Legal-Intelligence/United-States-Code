@@ -10,7 +10,7 @@ All stations owned and operated by the United States, except mobile stations of 
 
 #### (c) Stations operated by foreign governments
 
-The provisions of sections 301 and 303 of this title notwithstanding, the President may, provided he determines it to be consistent with and in the interest of national security, authorize a foreign government, under such terms and conditions as he may prescribe, to construct and operate at the seat of government of the United States a low-power radio station in the fixedservice at or near the site of the embassy or legation of such foreign government for transmission of its messages to points outside the United States, but only (1) where he determines that the authorization would be consistent with the national interest of the United States and (2) where such foreign government has provided reciprocal privileges to the United States to construct and operate radio stations within territories subject to its jurisdiction. Foreign government stations authorized pursuant to the provisions of this subsection shall conform to such rules and regulations as the President may prescribe. The authorization of such stations, and the renewal, modification, suspension, revocation, or other termination of such authority shall be in accordance with such procedures as may be established by the President and shall not be subject to the other provisions of this chapter or of subchapter II of chapter 5, and chapter 7, of title 5.
+The provisions of sections 301 and 303 of this title notwithstanding, the President may, provided he determines it to be consistent with and in the interest of national security, authorize a foreign government, under such terms and conditions as he may prescribe, to construct and operate at the seat of government of the United States a low-power radio station in the fixed service at or near the site of the embassy or legation of such foreign government for transmission of its messages to points outside the United States, but only (1) where he determines that the authorization would be consistent with the national interest of the United States and (2) where such foreign government has provided reciprocal privileges to the United States to construct and operate radio stations within territories subject to its jurisdiction. Foreign government stations authorized pursuant to the provisions of this subsection shall conform to such rules and regulations as the President may prescribe. The authorization of such stations, and the renewal, modification, suspension, revocation, or other termination of such authority shall be in accordance with such procedures as may be established by the President and shall not be subject to the other provisions of this chapter or of subchapter II of chapter 5, and chapter 7, of title 5.
 
 (June 19, 1934, ch. 652, title III, §305, 48 Stat. 1083; Pub. L. 87–795, Oct. 11, 1962, 76 Stat. 903; Pub. L. 97–31, §12(150), Aug. 6, 1981, 95 Stat. 167; Pub. L. 104–104, title IV, §403(h)(1), Feb. 8, 1996, 110 Stat. 131.)
 
@@ -76,7 +76,7 @@ That office of Assistant Director of the Office of Emergency Preparedness held b
 
 (a) So much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, held, or used by, or available or to be made available to, the Office of Emergency Preparedness in connection with functions affected by the provisions of this reorganization plan as the Director of the Bureau of the Budget shall determine shall be transferred to the Office of Telecommunications Policy at such time or times as he shall direct.
 
-(b) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to be necessary in order to effectuate the transfers provided for in subsection (a) of this section shall be carried outin such manner as he shall direct and by such agencies as he shall designate.
+(b) Such further measures and dispositions as the Director of the Bureau of the Budget shall deem to be necessary in order to effectuate the transfers provided for in subsection (a) of this section shall be carried out in such manner as he shall direct and by such agencies as he shall designate.
 
 #### Sec. 7. Interim Director
 
@@ -102,7 +102,7 @@ The new Office of Telecommunications Policy would play three essential roles:
 
 2\. The Office of Telecommunications Policy would help formulate policies and coordinate operations for the Federal government's own vast communications systems. It would, for example, set guidelines for the various departments and agencies concerning their communications equipment and services. It would regularly review the ability of government communications systems to meet the security needs of the nation and to perform effectively in time of emergency. The Office would direct the assignment of those portions of the radio spectrum which are reserved for government use, carry out responsibilities conferred on the President by the Communications Satellite Act, advise State and local governments, and provide policy direction for the National Communications System.
 
-3\. Finally, the new Office would enable the executive branch to speak with a clearer vote and to act as a more effective partner in discussions of communications policy with both the Congress and the Federal Communications Commission. This action would take away none of the prerogatives or functions assigned to the Federal Communications Commission by the Congress. It is my hope, however, that the new Office and the Federal Communications Commission would cooperate in achieving certain reforms in telecommunications policy, especially in their procedures for allocating portions of the radio spectrum for government and civilian use. Our current procedures must be more flexible if they are to deal adequately with problems such as the worsening spectrum shortage.
+3\. Finally, the new Office would enable the executive branch to speak with a clearer vote and to act as a more effective partner in discussions of communications policy with both the Congress and the Federal Communications Commission. This action would take away none of the prerogatives or functions assigned to the Federal Communications Commission by the Congress. It is my hope, however, that the new Office andthe Federal Communications Commission would cooperate in achieving certain reforms in telecommunications policy, especially in their procedures for allocating portions of the radio spectrum for government and civilian use. Our current procedures must be more flexible if they are to deal adequately with problems such as the worsening spectrum shortage.
 
 Each reorganization included in the plan which accompanies this message is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. In particular, the plan is responsive to section 901(a)(1), "to promote the better execution of the laws, the more effective management of the executive branch and of its agencies and functions, and the expeditious administration of the public business;" and section 901(a)(3), "to increase the efficiency of the operations of the government to the fullest extent practicable."
 
@@ -126,7 +126,7 @@ Ex. Ord. No. 11556, Sept. 4, 1970, 35 F.R. 14193, as amended by Ex. Ord. No. 119
 
 #### Ex. Ord. No. 12046. Transfer of Telecommunications Functions
 
-Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, as amended by Ex. Ord. No. 12148, July 20, 1979, 44 F.R.43239; Ex. Ord. No. 12472, Apr. 3, 1984, 49 F.R. 13471, provided:
+Ex. Ord. No. 12046, Mar. 27, 1978, 43 F.R. 13349, as amended by Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12472, Apr. 3, 1984, 49 F.R. 13471, provided:
 
 By virtue of the authority vested in me by the Constitution and laws of the United States of America, including Section 7 of Reorganization Plan No. 1 of 1977 (42 FR 56101 (October 21, 1977)) \[set out in the Appendix to Title 5, Government Organization and Employees\], the authority and control vested in the President by Section 2 of Executive Order No. 11556, as amended. Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order to provide for the transfer of certain telecommunications functions, it is hereby ordered as follows:
 
@@ -174,7 +174,7 @@ Construction of Radio Stations
 
 2–201. The authority to authorize a foreign government to construct and operate a radio station at the seat of government of the United States was transferred to the Secretary of Commerce. Authorization for the construction and operation of a radio station pursuant to this authority and the assignment of a frequency for its use can be made only upon recommendation of the Secretary of State and after consultation with the Attorney General and the Chairman of the Federal Communications Commission.
 
-2–202. This authority, which was originally vested in the President by Section 305(d) of the Communications Act of 1934, as amended (47 U.S.C. 305), was delegated to the Director of the Office of Telecommunications Policy by Section 5 of Executive Order No. 11556.
+2–202. This authority, which was originally vested in the President by Section 305(d) of the CommunicationsAct of 1934, as amended (47 U.S.C. 305), was delegated to the Director of the Office of Telecommunications Policy by Section 5 of Executive Order No. 11556.
 
 #### 2–3.
 
@@ -240,7 +240,7 @@ Consultation Responsibilities
 
 2–501. The authority to establish coordinating committees, as assigned to the Director of the Office of Telecommunications Policy by Section 10 of Executive Order No. 11556, was transferred to the Secretary of Commerce.
 
-2–502. As permitted by law, the Secretary of Commerce shall establish such interagency committees and working groups composed of representatives of interested agencies, and shall consult with such departments and agencies as may be necessary for the most effective performance of his functions. To the extent he deems it necessary to continue the Interdepartment Radio Advisory Committee, that Committee shall serve in an advisory capacity to the Secretary. As permitted by law, the Secretary also shall establish one or more telecommunications advisory committees composed of experts in the telecommunications area outside the Government.
+2–502. As permitted by law, the Secretary of Commerce shall establish such interagency committees and working groups composed of representatives of interested agencies, and shall consult with such departments and agencies as may be necessary for the most effective performance of his functions. To the extent he deems it necessary to continue the InterdepartmentRadio Advisory Committee, that Committee shall serve in an advisory capacity to the Secretary. As permitted by law, the Secretary also shall establish one or more telecommunications advisory committees composed of experts in the telecommunications area outside the Government.
 
 #### SECTION 3
 
@@ -280,7 +280,7 @@ Emergency Functions
 
 National Communications System
 
-4–201. The responsibility for policy direction of the development and operation of a National Communications System, which was assigned to the Director of the Office of Telecommunications Policy by the Presidential Memorandum of August 21, 1963, as amended byExecutive Order No. 11556, was transferred to the President.
+4–201. The responsibility for policy direction of the development and operation of a National Communications System, which was assigned to the Director of the Office of Telecommunications Policy by the Presidential Memorandum of August 21, 1963, as amended by Executive Order No. 11556, was transferred to the President.
 
 4–202. \[Revoked. Ex. Ord. No. 12472, Apr. 3, 1984, 49 F.R. 13471.\]
 
@@ -336,7 +336,7 @@ Transfer Provisions
 
 6–101. \[Revoked. Ex. Ord. No. 12472, Apr. 3, 1984, 49 F.R. 13471.\]
 
-6–102. The primary responsibility for performing all administrative support and service functions that are related to functions transferred from the Office of Telecommunications Policy and its Director to the President, including those functions delegated or assigned within the Executive Office of the President, are transferred to the Office of Administration. The Domestic Policy Staff shall perform such functions related to the preparation of Presidential telecommunications policy options as the President may from time to time direct.
+6–102. The primary responsibility for performing all administrative support and service functions that are related to functions transferred from the Office of Telecommunications Policy and its Director to the President, including those functions delegated or assignedwithin the Executive Office of the President, are transferred to the Office of Administration. The Domestic Policy Staff shall perform such functions related to the preparation of Presidential telecommunications policy options as the President may from time to time direct.
 
 6–103. The records, property, personnel, and unexpended balances of appropriations, available or to be made available, which relate to the functions transferred, assigned, or delegated as provided in this Order are hereby transferred as appropriate.
 
@@ -370,7 +370,7 @@ General
 
 6–302. All Executive agencies are authorized and directed to cooperate with the departments and agencies to which functions are assigned pursuant to this Order and to furnish them such information, support and assistance, not inconsistent with law, as they may require in the performance of those functions.
 
-6–303. (a) Nothing in this Order reassigns any function assigned any agency under the Federal Property and Administrative Services Act of 1949, as amended \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e),3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], nor does anything in this Order impair the existing authority of the Administrator of General Services to provide and operate telecommunications services and to prescribe policies and methods of procurement, or impair the policy and oversight roles of the Office of Management and Budget.
+6–303. (a) Nothing in this Order reassigns any function assigned any agency under the Federal Property and Administrative Services Act of 1949, as amended \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], nor does anything in this Order impair the existing authority of the Administrator of General Services to provide and operate telecommunications services and to prescribe policies and methods of procurement, or impair the policy and oversight roles of the Office of Management and Budget.
 
 (b) In carrying out the functions in this Order, the Secretary of Commerce shall coordinate activities as appropriate with the Federal Communications Commission and make appropriate recommendations to it as the regulator of the private sector. Nothing in this Order reassigns any function vested by law in the Federal Communications Commission.
 

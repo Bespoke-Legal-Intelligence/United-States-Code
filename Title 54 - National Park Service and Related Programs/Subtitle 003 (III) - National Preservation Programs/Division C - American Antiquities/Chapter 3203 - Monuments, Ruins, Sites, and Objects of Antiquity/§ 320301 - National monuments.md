@@ -104,6 +104,8 @@ c19; Proc. No. 4319, Sept. 28, 1974, 88 Stat. 2514.
 
 California Coastal National Monument, California.—Proc. No. 7264, Jan. 11, 2000, 65 F.R. 2821; Proc. No. 9089, Mar. 11, 2014, 79 F.R. 14603; Proc. No. 9563, Jan. 12, 2017, 82 F.R. 6131.
 
+Camp Hale-Continental Divide National Monument, Colorado.—Proc. No. 10476, Oct. 12, 2022, 87 F.R. 63381.
+
 Camp Nelson National Monument, Kentucky.—Proc. No. 9811, Oct. 26, 2018, 83 F.R. 54845.
 
 Canyon De Chelly National Monument, Arizona \[see section 445 of Title 16, Conservation\].—Proc. No. 1945, Apr. 1, 1931, 47 Stat. 2448; Proc. No. 2036, Mar. 3, 1933, 47 Stat. 2562.
@@ -292,7 +294,7 @@ Mojave Trails National Monument, California.—Proc. No. 9395, Feb. 12, 2016, 81
 
 Montezuma Castle National Monument, Arizona.—Proc. No. 696, Dec. 8, 1906, 34 Stat. 3265; Proc. No. 2226, Feb. 23, 1937, 50 Stat. 1817; Pub. L. 108–190, Dec. 19, 2003, 117 Stat. 2867.
 
-Mound City Group National Monument, Ohio \[Monument redesignated Hopewell Culture National Historic Park, see section 401uu of Title 16, Conservation\].—Proc. No. 1653, Mar. 2, 1923, 42 Stat. 2298; Pub. L. 96–607, title VII, §701, Dec. 28, 1980, 94 Stat. 3540.
+Mound City Group National Monument, Ohio \[Monument redesignated Hopewell Culture National Historic Park, see section 410uu of Title 16, Conservation\].—Proc. No. 1653, Mar. 2, 1923, 42 Stat. 2298; Pub. L. 96–607, title VII, §701, Dec. 28, 1980, 94 Stat. 3540.
 
 Mount Olympus National Monument, Washington \[Monument abolished and lands incorporated in Mount Olympus National Park, see section 251 of Title 16, Conservation\].—Proc. No. 869, Mar. 2, 1909, 35 Stat. 2247; Proc. No. 1191, Apr. 17, 1912, 37 Stat. 1737; Proc. No. 1293, May 11, 1915, 39 Stat. 1726; Proc. No. 1862, Jan. 7, 1929, 45 Stat. 2984.
 
@@ -346,7 +348,7 @@ Pompeys Pillar National Monument, Montana.—Proc. No. 7396, Jan. 17, 2001, 66 F
 
 President Lincoln and Soldiers' Home National Monument, District of Columbia.—Proc. No. 7329, July 7, 2000, 65 F.R. 43673.
 
-Pullman National Monument, Illinois.—Proc. No. 9233, Feb. 19, 2015, 80 F.R. 10315.
+Pullman National Monument, Illinois \[Monument redesignated Pullman National Historical Park, see section 410jjjj(b)(1) of Title 16, Conservation\].—Proc. No. 9233, Feb. 19, 2015, 80 F.R. 10315 \[abrogated by section 410jjjj(b)(4) of Title 16\].
 
 Rainbow Bridge National Monument, Utah.—Proc. No. 1043, May 30, 1910, 36 Stat. 2703.
 
@@ -384,7 +386,7 @@ Statue of Liberty National Monument.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1
 
 Stonewall National Monument, New York.—Proc. No. 9465, June 24, 2016, 81 F.R. 42215.
 
-Sunset Crater Volcano National Monument, Arizona \[Monument changed from Sunset Crater National Monument by Pub. L. 101–612, §15, Nov. 16, 1990, 104 Stat. 3222\].—Proc. No. 1911, May 26, 1930, 46 Stat. 3023.
+Sunset Crater Volcano National Monument, Arizona \[Monument changed from Sunset Crater National Monument by Pub. L. 101–612, §15, Nov. 16, 1990, 104 Stat. 3222\].—Proc. No. 1911, May 26, 1930, 46 Stat. 3023; Pub. L. 117–328, div. DD, title VI, §611, Dec. 29, 2022, 136 Stat. 5602.
 
 Timpanogos Cave National Monument, Utah.—Proc. No. 1640, Oct. 14, 1922, 42 Stat. 2285; Proc. No. 3457, Mar. 27, 1962, 76 Stat. 1457; Pub. L. 107–329, title I, Dec. 6, 2002, 116 Stat. 2815.
 
@@ -522,6 +524,8 @@ Disabled American Veterans Vietnam Veterans National Memorial, New Mexico.—Rec
 
 Distinguished Flying Cross National Memorial, California.—Pub. L. 113–132, July 25, 2014, 128 Stat. 1727.
 
+El Paso Community Healing Garden National Memorial, Texas.—Pub. L. 117–328, div. DD, title VII, §706, Dec. 29, 2022, 136 Stat. 5619.
+
 Father Marquette National Memorial, Michigan.—Pub. L. 94–160, Dec. 20, 1975, 89 Stat. 848.
 
 Federal Hall National Memorial, New York.—Designated May 26, 1939. Designation changed from Federal Hall Memorial Historic Site by act Aug. 11, 1955, ch. 779, §3, 69 Stat. 633.
@@ -537,6 +541,8 @@ Hamilton Grange National Memorial, New York.—Pub. L. 87–438, Apr. 27, 1962, 
 House Where Lincoln Died National Memorial, District of Columbia.—Act June 11, 1896, ch. 420, 29 Stat. 439.
 
 Johnstown Flood National Memorial, Pennsylvania.—Pub. L. 88–546, Aug. 31, 1964, 78 Stat. 752; Pub. L. 108–313, Oct. 5, 2004, 118 Stat. 1196.
+
+Kol Israel Foundation Holocaust National Memorial, Ohio.—Pub. L. 117–328, div. DD, title VII, §701, Dec. 29, 2022, 136 Stat. 5616.
 
 Lincoln Boyhood National Memorial, Indiana.—Pub. L. 87–407, Feb. 19, 1962, 76 Stat. 9.
 

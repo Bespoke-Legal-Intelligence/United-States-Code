@@ -32,5 +32,5 @@ Section was formerly set out as a note under section 1681 of this title.
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–135, §2, Oct. 15, 1977, 91 Stat. 1166, provided that: "This amendatory joint resolution \[amending this section\] shall be effective as of the approval of said Actentitled 'To authorize certain appropriations for the territories of the United States, to amend certain Acts relating thereto, and for other purposes' (enrolled bill H.R. 6550, Ninety-fifth Congress, first session) \[Pub. L. 95–134, approved Oct. 15, 1977\]."
+Pub. L. 95–135, §2, Oct. 15, 1977, 91 Stat. 1166, provided that: "This amendatory joint resolution \[amending this section\] shall be effective as of the approval of said Act entitled 'To authorize certain appropriations for theterritories of the United States, to amend certain Acts relating thereto, and for other purposes' (enrolled bill H.R. 6550, Ninety-fifth Congress, first session) \[Pub. L. 95–134, approved Oct. 15, 1977\]."
 

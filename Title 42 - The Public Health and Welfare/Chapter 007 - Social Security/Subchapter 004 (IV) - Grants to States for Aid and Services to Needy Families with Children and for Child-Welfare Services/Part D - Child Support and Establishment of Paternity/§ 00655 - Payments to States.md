@@ -64,7 +64,7 @@
 
 &emsp;(III) the State has not failed such a review.
 
-(ii) If a State with respect to which a reduction is made under this paragraph for a fiscal year with respect to a failure to comply with a subparagraph of section 654(24) of this title achieves compliance with such subparagraph by the beginning of the succeeding fiscal year, theSecretary shall increase the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the succeeding fiscal year by an amount equal to 90 percent of the reduction for the fiscal year.
+(ii) If a State with respect to which a reduction is made under this paragraph for a fiscal year with respect to a failure to comply with a subparagraph of section 654(24) of this title achieves compliance with such subparagraph by the beginning of the succeeding fiscal year, the Secretary shall increase the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the succeeding fiscal year by an amount equal to 90 percent of the reduction for the fiscal year.
 
 (iii) The Secretary shall reduce the amount of any reduction that, in the absence of this clause, would be required to be made under this paragraph by reason of the failure of a State to achieve compliance with section 654(24)(B) of this title during the fiscal year, by an amount equal to 20 percent of the amount of the otherwise required reduction, for each State performance measure described in section 658a(b)(4) of this title with respect to which the applicable percentage under section 658a(b)(6) of this title for the fiscal year is 100 percent, if the Secretary has made the determination described in section 658a(b)(5)(B) of this title with respect to the State for the fiscal year.
 
@@ -262,7 +262,7 @@ Amendment by section 6(b) of Pub. L. 98–378 applicable with respect to quarter
 
 Amendment by section 171(b)(2) of Pub. L. 97–248 effective on and after Aug. 13, 1981, see section 171(c) of Pub. L. 97–248, set out as a note under section 503 of this title.
 
-Pub. L. 97–248, title I, §174(d), Sept. 3, 1982, 96 Stat. 403, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to quarters beginning on or after October 1, 1982. Subsection (b) \[amending this section\] shall apply with respect to quarters beginning on or after October 1, 1983; and the amendment made by subsection (c) \[amending section 658 of this title\] shall apply with respect to amounts collected on or after October 1, 1983."
+Pub. L. 97–248, title I, §174(d), Sept. 3, 1982, 96 Stat. 403, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to quarters beginning on or after October 1, 1982.Subsection (b) \[amending this section\] shall apply with respect to quarters beginning on or after October 1, 1983; and the amendment made by subsection (c) \[amending section 658 of this title\] shall apply with respect to amounts collected on or after October 1, 1983."
 
 #### Effective Date of 1981 Amendment
 
@@ -300,7 +300,7 @@ Allocation of limitation among states.—The total amount payable to a State or 
 
 "(C)
 
-Allocation formula.—The regulations referred to in subparagraph (B) shall prescribe a formula for allocating the amount specified in subparagraph (A) among States with plans approved under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\], and among systems that have been approved by the Secretary to receive enhanced funding pursuant to the Family Support Act of 1988 (Public Law 100–485; 102 Stat. 2343) for the purpose of developing a system that meets the requirements of sections 454(16) (as in effecton and after September 30, 1995) and 454A \[probably means sections 454(16) and 454A of the Social Security Act which are classified to sections 654(16) and 654a, respectively, of this title\], including systems that have received funding for such purpose pursuant to a waiver under section 1115(a) \[probably means section 1115(a) of the Social Security Act which is classified to section 1315(a) of this title\], which shall take into account—
+Allocation formula.—The regulations referred to in subparagraph (B) shall prescribe a formula for allocating the amount specified in subparagraph (A) among States with plans approved under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\], and among systems that have been approved by the Secretary to receive enhanced funding pursuant to the Family Support Act of 1988 (Public Law 100–485; 102 Stat. 2343) for the purpose of developing a system that meets the requirements of sections 454(16) (as in effect on and after September 30, 1995) and 454A \[probably means sections 454(16) and 454A of the Social Security Act which are classified to sections 654(16) and 654a, respectively, of this title\], including systems that have received funding for such purpose pursuant to a waiver under section 1115(a) \[probably means section 1115(a) of the Social Security Act which is classified to section 1315(a) of this title\], which shall take into account—
 
 &emsp;"(i) the relative size of such State and system caseloads under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\]; and
 

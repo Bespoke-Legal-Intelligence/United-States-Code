@@ -2,7 +2,7 @@
 
 #### (a) Contents
 
-The Secretary shall, as soon as practicable after the close of each fiscal year, make a single,comprehensive report to the President for transmission to the Congress on the activities of the Department during such fiscal year. The report shall include a statement of goals, priorities, and plans for the Department together with an assessment of the progress made toward—
+The Secretary shall, as soon as practicable after the close of each fiscal year, make a single, comprehensive report to the President for transmission to the Congress on the activities of the Department during such fiscal year. The report shall include a statement of goals, priorities, and plans for the Department together with an assessment of the progress made toward—
 
 &emsp;(1) the attainment of such goals, priorities, and plans;
 

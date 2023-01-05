@@ -150,7 +150,7 @@
 
 #### (B) Report
 
-&emsp;&emsp;Not later than 1 year after January 5, 2021, and every 2 years thereafter, the Subcommittee shall submit to the Secretary and the 3D Elevation Federal InteragencyCoordinating Committee established under subsection (b) a report that includes—
+&emsp;&emsp;Not later than 1 year after January 5, 2021, and every 2 years thereafter, the Subcommittee shall submit to the Secretary and the 3D Elevation Federal Interagency Coordinating Committee established under subsection (b) a report that includes—
 
 &emsp;&emsp;&emsp;(i) the findings of the assessment under subparagraph (A); and
 

@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, the Secretary of Homeland Security, 
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Title III of the Act is classified principally to subchapter III (§1401 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163. Title III of the Act is classified principally to subchapter III (§1401 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Codification
 
@@ -16,7 +16,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181 inserted "and their spouses and children" after "Armed Forces" in section catchline and ", and persons made eligible for naturalization by section 319(e) or 322(d) of such Act," after "Armed Forces" in text.
+<b>2008</b>—Pub. L. 110–181 inserted "and their spouses and children" after "Armed Forces" in section catchline and ", and persons made eligible for naturalization bysection 319(e) or 322(d) of such Act," after "Armed Forces" in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

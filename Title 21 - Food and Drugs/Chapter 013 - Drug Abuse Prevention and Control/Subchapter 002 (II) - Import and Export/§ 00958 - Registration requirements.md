@@ -2,7 +2,7 @@
 
 #### (a) Applicants to import or export controlled substances in schedule I or II
 
-The Attorney General shall register an applicant to import or export a controlled substance in schedule I or II if he determines that such registration is consistent with the public interest and with United States obligations underinternational treaties, conventions, or protocols in effect on May 1, 1971. In determining the public interest, the factors enumerated in paragraph (1) through (6) of section 823(a) of this title shall be considered.
+The Attorney General shall register an applicant to import or export a controlled substancein schedule I or II if he determines that such registration is consistent with the public interest and with United States obligations under international treaties, conventions, or protocols in effect on May 1, 1971. In determining the public interest, the factors enumerated in paragraph (1) through (6) of section 823(a) of this title shall be considered.
 
 #### (b) Activity limited to specified substances
 
@@ -10,11 +10,11 @@ Registration granted under this section shall not entitle a registrant to import
 
 #### (c) Applicants to import controlled substances in schedule III, IV, or V or to export controlled substances in schedule III or IV; applicants to import or export list I chemicals
 
-(1) The Attorney General shall register an applicant to import a controlled substance in schedule III, IV, or V or to export a controlled substance in schedule III or IV, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the factors enumerated in paragraphs (1) through (6) of section 823(d) of this title shall be considered.
+(1) The Attorney General shall register an applicant to import a controlled substance in schedule III, IV, or V or to export a controlled substance in schedule III or IV, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the factors enumerated in paragraphs (1) through (6) of section 823(e) of this title shall be considered.
 
 (2)(A) The Attorney General shall register an applicant to import or export a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the import or export of a drug product that is exempted under section 802(39)(A)(iv) of this title.
 
-(B) In determining the public interest for the purposes of subparagraph (A), the Attorney General shall consider the factors specified in section 823(h) of this title.
+(B) In determining the public interest for the purposes of subparagraph (A), the Attorney General shall consider the factors specified in section 823(i) of this title.
 
 #### (d) Denial of application
 
@@ -50,7 +50,7 @@ A separate registration shall be required at each principal place of business wh
 
 Except in emergency situations as described in section 952(a)(2)(A) of this title, prior to issuing a registration under this section to a bulk manufacturer of a controlled substance in schedule I or II, and prior to issuing a regulation under section 952(a) of this title authorizing the importation of such a substance, the Attorney General shall give manufacturers holding registrations for the bulk manufacture of the substance an opportunity for a hearing.
 
-(Pub. L. 91–513, title III, §1008, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 98–473, title II, §§524, 525, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 99–570, title I, §1866(d), Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 103–200, §3(f), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 108–447, div. B, title VI, §633(c), Dec. 8, 2004, 118 Stat. 2922.)
+(Pub. L. 91–513, title III, §1008, Oct. 27, 1970, 84 Stat. 1289; Pub. L. 98–473, title II, §§524, 525, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 99–570, title I, §1866(d), Oct. 27, 1986, 100 Stat. 3207–55; Pub. L. 103–200, §3(f), Dec. 17, 1993, 107 Stat. 2337; Pub. L. 108–447, div. B, title VI, §633(c), Dec. 8, 2004, 118 Stat. 2922; Pub. L. 117–215, title I, §103(b)(2), Dec. 2, 2022, 136 Stat. 2263.)
 
 #### <b>Editorial Notes</b>
 
@@ -58,13 +58,17 @@ Except in emergency situations as described in section 952(a)(2)(A) of this titl
 
 Schedules I, II, III, IV, and V, referred to in subsecs. (a), (c), and (i), are set out in section 812(c) of this title.
 
-This subchapter, referred to in subsecs. (d)(4) and (g), was in the original "this title", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended. Part A of title III comprises this subchapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+This subchapter, referred to in subsecs. (d)(4) and (g), was in the original "this title", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises this subchapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 #### Codification
 
 In subsecs. (a) and (d), "May 1, 1971" substituted for "the effective date of this section" and "the effective date of this part", respectively.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(1). Pub. L. 117–215, §103(b)(2)(A), substituted "823(e)" for "823(d)".
+
+Subsec. (c)(2)(B). Pub. L. 117–215, §103(b)(2)(B), substituted "823(i)" for "823(h)".
 
 <b>2004</b>—Subsec. (f). Pub. L. 108–447, which directed amendment of subsec. (f) of section 1088 of the Controlled Substances Import and Export Act by inserting "and control" after "the registration" and substituting "listed chemicals" for "list I chemicals under this section", was executed to subsec. (f) of this section, which is section 1008 of the Controlled Substances Import and Export Act, to reflect the probable intent of Congress.
 

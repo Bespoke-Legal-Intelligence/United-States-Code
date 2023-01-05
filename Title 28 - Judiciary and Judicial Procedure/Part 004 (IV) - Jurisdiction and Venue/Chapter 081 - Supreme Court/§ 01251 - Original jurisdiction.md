@@ -42,7 +42,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–393, §8(b)(1), designated introductory provision of subsec. (a) and (a)(1) as (a), and struck out "(2) All actions or proceedings against ambassadors or other public ministers of foreign states or their domestics or domestic servants, not inconsistent with the law of nations".
+<b>1978</b>—Subsec. (a). Pub. L. 95–393, §8(b)(1), designated introductory provision of subsec. (a) and (a)(1) as (a),and struck out "(2) All actions or proceedings against ambassadors or other public ministers of foreign states or their domestics or domestic servants, not inconsistent with the law of nations".
 
 Subsec. (b)(1). Pub. L. 95–393, §8(b)(2), substituted "to which ambassadors, other public ministers, consuls, or" for "brought by ambassadors or other public ministers of foreign states or to which consuls or".
 

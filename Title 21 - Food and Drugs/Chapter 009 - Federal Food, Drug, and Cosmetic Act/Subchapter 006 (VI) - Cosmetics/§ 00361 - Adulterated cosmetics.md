@@ -6,17 +6,29 @@ A cosmetic shall be deemed to be adulterated—
 
 (b) If it consists in whole or in part of any filthy, putrid, or decomposed substance.
 
-(c) If it has been prepared, packed, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health.
+(c) If it has been prepared, packed, or held under insanitary conditions whereby it mayhave become contaminated with filth, or whereby it may have been rendered injurious to health.
 
 (d) If its container is composed, in whole or in part, of any poisonous or deleterious substance which may render the contents injurious to health.
 
 (e) If it is not a hair dye and it is, or it bears or contains, a color additive which is unsafe within the meaning of section 379e(a) of this title.
 
-(June 25, 1938, ch. 675, §601, 52 Stat. 1054; Pub. L. 86–618, title I, §102(c)(1), July 12, 1960, 74 Stat. 398; Pub. L. 102–571, title I, §107(11), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(x), Aug. 13, 1993, 107 Stat. 778.)
+(June 25, 1938, ch. 675, §601, 52 Stat. 1054; Pub. L. 86–618, title I, §102(c)(1), July 12, 1960, 74 Stat. 398; Pub. L. 102–571, title I, §107(11), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(x), Aug. 13, 1993, 107 Stat. 778; Pub. L. 117–328, div. FF, title III, §3503(a)(2), Dec. 29, 2022, 136 Stat. 5858.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–328, div. FF, title III, §3503(a)(2), (b)(1), Dec. 29, 2022, 136 Stat. 5858, 5859, provided that, effective on the date that is 1 year after Dec. 29, 2022, this section is amended by adding at the end the following:</i>
+
+<i>(f) If it has been manufactured or processed under conditions that do not meet the good manufacturing practice requirements of section 364b of this title.</i>
+
+<i>(g) If it is a cosmetic product, and the cosmetic product, including each ingredient in the cosmetic product, does not have adequate substantiation for safety, as defined in section 364d(c) of this title.</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsecs. (f), (g). Pub. L. 117–328 added subsecs. (f) and (g).
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–80 substituted "usual, except that this" for "usual: <i>Provided</i>, That this".
 
@@ -25,6 +37,10 @@ A cosmetic shall be deemed to be adulterated—
 <b>1960</b>—Par. (e). Pub. L. 86–618 substituted "and it is, or it bears or contains, a color additive which is unsafe within the meaning of section 376(a) of this title" for "and it bears or contains a coal-tar color other than one from a batch that has been certified in accordance with regulations as provided by section 364 of this title".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 effective on the date that is 1 year after Dec. 29, 2022, see section 3503(b)(1) of Pub. L. 117–328, set out as a note under section 331 of this title.
 
 #### Effective Date of 1960 Amendment
 
@@ -37,4 +53,8 @@ Par. (e) effective Jan. 1, 1940, see act June 23, 1939, ch. 242, 53 Stat. 853, s
 #### Effective Date
 
 Section effective twelve months after June 25, 1938, except par. (a), which, with certain exceptions, became effective on June 25, 1938, see section 1002(a) of act June 25, 1938, set out as a note under section 301 of this title.
+
+#### Construction; Confidentiality
+
+Nothing in amendment made by Pub. L. 117–328, to be construed to authorize the disclosure of information that is prohibited from disclosure under section 331(j) of this title or section 1905 of title 18 or that is subject to withholding under section 552(b)(4) of title 5, see section 3503(c)(2) of Pub. L. 117–328, set out as a note under section 364 of this title.
 

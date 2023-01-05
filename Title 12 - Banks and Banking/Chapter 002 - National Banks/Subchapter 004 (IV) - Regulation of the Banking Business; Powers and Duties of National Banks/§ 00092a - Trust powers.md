@@ -18,7 +18,7 @@ No national bank shall receive in its trust department deposits of current funds
 
 #### (e) Lien and claim upon bank failure
 
-In the event of the failure of such bank the owners of the funds held in trust for investment shall have a lien on the bonds or other securitiesso set apart in addition to their claim against the estate of the bank.
+In the event of the failure of such bank the owners of the funds held in trust for investment shall have a lien on the bonds or other securities so set apart in addition to their claim against the estate of the bank.
 
 #### (f) Deposits of securities for protection of private or court trusts; execution of and exemption from bond
 
@@ -34,7 +34,7 @@ It shall be unlawful for any national banking association to lend any officer, d
 
 #### (i) Considerations determinative of grant or denial of applications; minimum capital and surplus for issuance of permit
 
-In passing upon applications for permission to exercise the powers enumerated in this section, the Comptroller of the Currency may take into consideration the amount of capital and surplus of the applying bank, whether or not such capital and surplus is sufficient under the circumstances of the case, the needs of the community to be served, and any other facts and circumstances that seem to him proper, and may grant or refuse the application accordingly: <i>Provided</i>, That no permit shall be issued to any national banking association having a capital and surplus less than the capital and surplus required by State law of State banks, trust companies, and corporations exercising such powers.
+In passing upon applications for permission to exercise the powers enumerated in this section,the Comptroller of the Currency may take into consideration the amount of capital and surplus of the applying bank, whether or not such capital and surplus is sufficient under the circumstances of the case, the needs of the community to be served, and any other facts and circumstances that seem to him proper, and may grant or refuse the application accordingly: <i>Provided</i>, That no permit shall be issued to any national banking association having a capital and surplus less than the capital and surplus required by State law of State banks, trust companies, and corporations exercising such powers.
 
 #### (j) Surrender of authorization; board resolution; Comptroller certification; activities affected; regulations
 
@@ -46,7 +46,7 @@ Any national banking association desiring to surrender its right to exercise the
 
 (2) Such hearing shall be conducted in accordance with the provisions of section 1818(h) of this title, and subject to judicial review as provided in such section, and shall be fixed for a date not earlier than thirty days nor later than sixty days after service of such notice unless an earlier or later date is set by the Comptroller at the request of any association so served.
 
-(3) Unless the association so served shall appear at the hearing by a duly authorized representative, it shall be deemed to have consented to the issuance of the revocation order. In the event of such consent, or if upon the record made at any such hearing, the Comptroller shall find that any allegation specified inthe notice of charges has been established, the Comptroller may issue and serve upon the association an order prohibiting it from accepting any new or additional trust accounts and revoking authority to exercise any and all powers granted by this section, except that such order shall permit the association to continue to service all previously accepted trust accounts pending their expeditious divestiture or termination.
+(3) Unless the association so served shall appear at the hearing by a duly authorized representative, it shall be deemed to have consented to the issuance of the revocation order. In the event of such consent, or if upon the record made at any such hearing, the Comptroller shall find that any allegation specified in the notice of charges has been established, the Comptroller may issue and serve upon the association an order prohibiting it from accepting any new or additional trust accounts and revoking authority to exercise any and all powers granted by this section, except that such order shall permit the association to continue to service all previously accepted trust accounts pending their expeditious divestiture or termination.
 
 (4) A revocation order shall become effective not earlier than the expiration of thirty days after service of such order upon the association so served (except in the case of a revocation order issued upon consent, which shall become effective at the time specified therein), and shall remain effective and enforceable, except to such extent as it is stayed, modified, terminated, or set aside by action of the Comptroller or a reviewing court.
 

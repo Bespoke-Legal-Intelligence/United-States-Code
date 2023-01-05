@@ -40,7 +40,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for a fiscal year for which there are additional funds described in paragraph (3), no State shall receive for such fiscal year under paragraph (3) less than 1/2 of 1 percent of the additionalfunds available for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
+&emsp;&emsp;Subject to subparagraph (B), for a fiscal year for which there are additional funds described in paragraph (3), no State shall receive for such fiscal year under paragraph (3) less than 1/2 of 1 percent of the additional funds available for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
 
 #### (B) Special rule
 
@@ -68,7 +68,7 @@
 
 #### (D) Definitions
 
-&emsp;&emsp;In this paragraph, the term "qualifying State" means a State (except the United States Virgin Islands) that, for the fiscal year for which a determination under this paragraph is made, would receive, under the allotment formula under paragraph (3) (without the application of this paragraph), an amount that would be less than the amount the State would receive under subparagraph (A) for such fiscal year.
+&emsp;&emsp;In this paragraph, the term "qualifying State" means a State (except the UnitedStates Virgin Islands) that, for the fiscal year for which a determination under this paragraph is made, would receive, under the allotment formula under paragraph (3) (without the application of this paragraph), an amount that would be less than the amount the State would receive under subparagraph (A) for such fiscal year.
 
 #### (b) Reallotment
 

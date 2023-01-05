@@ -4,19 +4,19 @@
 
 #### (1) In general
 
-&emsp;Beginning in fiscal year 2018, the Secretary shall assess and collect fees in accordance with this section.
+&emsp;Beginning in fiscal year 2023, the Secretary shall assess and collect fees in accordance with this section.
 
 #### (2) Premarket application, premarket report, supplement, and submission fee, and annual fee for periodic reporting concerning a class III device
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and subsections (d) and (e), each person who submits any of the following, on or after October 1, 2017, shall be subject to a fee established under subsection (c) for the fiscal year involved in accordance with the following:
+&emsp;&emsp;Except as provided in subparagraph (B) and subsections (d) and (e), each person who submits any of the following, on or after October 1, 2022, shall be subject to a fee established under subsection (c) for the fiscal year involved in accordance with the following:
 
 &emsp;&emsp;&emsp;(i) A premarket application.
 
 &emsp;&emsp;&emsp;(ii) For a premarket report, a fee equal to the fee that applies under clause (i).
 
-&emsp;&emsp;&emsp;(iii) For a panel track supplement, a fee equal to 75 percent of the fee that applies under clause (i).
+&emsp;&emsp;&emsp;(iii) For a panel track supplement, a fee equal to 80 percent of the fee that applies under clause (i).
 
 &emsp;&emsp;&emsp;(iv) For a 180-day supplement, a fee equal to 15 percent of the fee that applies under clause (i).
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(vii) For an efficacy supplement, a fee equal to the fee that applies under clause (i).
 
-&emsp;&emsp;&emsp;(viii) For a premarket notification submission, a fee equal to 3.4 percent of the fee that applies under clause (i).
+&emsp;&emsp;&emsp;(viii) For a premarket notification submission, a fee equal to 4.5 percent of the fee that applies under clause (i).
 
 &emsp;&emsp;&emsp;(ix) For a request for classification information, a fee equal to 1.35 percent of the fee that applies under clause (i).
 
@@ -46,7 +46,7 @@
 
 #### (iii) State or Federal Government sponsors
 
-&emsp;&emsp;&emsp;No fee shall be required under subparagraph (A) for a premarket application, premarket report, supplement, or premarket notification submission submitted by a State or Federal Government entity unless the device involved is to be distributed commercially.
+&emsp;&emsp;&emsp;No fee shall be required under subparagraph (A) for a premarket application, premarket report, supplement, premarket notification submission, or de novo classification request submitted by a State or Federal Government entity unless the device involved is to be distributed commercially.
 
 #### (iv) Premarket notifications by third parties
 
@@ -64,7 +64,7 @@
 
 #### (C) Payment
 
-&emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement,premarket notification submission, 30-day notice, request for classification information, or periodic reporting concerning a class III device. Applicants submitting portions of applications pursuant to section 360e(c)(4) of this title shall pay such fees upon submission of the first portion of such applications.
+&emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the premarket application, premarket report, supplement, premarket notification submission, 30-day notice, request for classification information, periodic reporting concerning a class III device, or de novo classification request. Applicants submitting portions of applications pursuant to section 360e(c)(4) of this title shall pay such fees upon submission of the first portion of such applications.
 
 #### (D) Refunds
 
@@ -100,7 +100,31 @@
 
 #### (B) Exception
 
-&emsp;&emsp;No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act <sup>1</sup> \[25 U.S.C. 5301 et seq.\]), unless a device manufactured by the establishment is to be distributed commercially.
+#### (i) In general
+
+&emsp;&emsp;&emsp;No fee shall be required under subparagraph (A) for an establishment operated by a State or Federal governmental entity or an Indian tribe (as defined in the Indian Self Determination and Educational Assistance Act <sup>1</sup> \[25 U.S.C. 5301 et seq.\]), unless a device manufactured by the establishment is to be distributed commercially.
+
+#### (ii) Small businesses fee waiver
+
+#### (I) Definition of small business
+
+&emsp;&emsp;&emsp;&emsp;For purposes of this clause, the term "small business" means an entity that reported $1,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates.
+
+#### (II) Waiver
+
+&emsp;&emsp;&emsp;&emsp;The Secretary may grant a waiver of the fee required under subparagraph (A) for the annual registration (excluding the initial registration) of an establishment for a year, beginning on October 1, 2024, if the Secretary finds that the establishment is a small business and paying the fee for such year represents a financial hardship to the establishment as determined by the Secretary.
+
+#### (III) Firms submitting tax returns to the United States Internal Revenue Service
+
+&emsp;&emsp;&emsp;&emsp;The establishment shall support its claim that it meets the definition under subclause (I) by submission of a copy of its most recent Federal income tax return for a taxable year, and a copy of such returns of its affiliates, which show an amount of gross sales or receipts that is less than the maximum established in subclause (I). The establishment, and each of such affiliates, shall certify that the information provided is a true and accurate copy of the actual tax forms they submitted to the Internal Revenue Service. If no tax forms are submitted for any affiliate, the establishment shall certify that the establishment has no affiliates.
+
+#### (IV) Firms not submitting tax returns to the United States Internal Revenue Service
+
+&emsp;&emsp;&emsp;&emsp;In the case of an establishment that has not previously submitted a Federal income tax return, the establishment and each of its affiliates shall demonstrate that it meets the definition under subclause (I) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the establishment or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority, if extant, of the country in which the establishment or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the establishment's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The establishment shall also submit a statement signed by the head of the establishment's firm or by its chief financial officer that the establishment has submitted certifications for all of its affiliates, or that the establishment has no affiliates.
+
+#### (V) Request for waiver
+
+&emsp;&emsp;&emsp;&emsp;An establishment seeking a fee waiver for a year under this clause shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subparagraph (C). The decision of the Secretary regarding whether an entity may receive the waiver for such year is not reviewable.
 
 #### (C) Payment
 
@@ -114,50 +138,50 @@
 
 #### (1) In general
 
-&emsp;Subject to subsections (c), (d), (e), and (h), for each of fiscal years 2018 through 2022, fees under subsection (a) shall be derived from the base fee amounts specified in paragraph (2), to generate the total revenue amounts specified in paragraph (3).
+&emsp;Subject to subsections (c), (d), (e), and (h), for each of fiscal years 2023 through 2027, fees under subsection (a) shall be derived from the base fee amounts specified in paragraph (2), to generate the total revenue amounts specified in paragraph (3).
 
 #### (2) Base fee amounts specified
 
 &emsp;For purposes of paragraph (1), the base fee amounts specified in this paragraph are as follows:
 
-| Fee Type | Fiscal Year 2018 | Fiscal Year 2019 | Fiscal Year 2020 | Fiscal Year 2021 | Fiscal Year 2022 |
+| Fee Type | Fiscal Year 2023 | Fiscal Year 2024 | Fiscal Year 2025 | Fiscal Year 2026 | Fiscal Year 2027 |
 | :--- | :---: | :---: | :---: | :---: | ---: |
-| Premarket Application | $294,000 | $300,000 | $310,000 | $328,000 | $329,000 |
-| Establishment Registration | $4,375 | $4,548 | $4,760 | $4,975 | $4,978 |
+| Premarket Application | $425,000 | $435,000 | $445,000 | $455,000 | $470,000 |
+| Establishment Registration | $6,250 | $6,875 | $7,100 | $7,575 | $8,465 |
 
 #### (3) Total revenue amounts specified
 
 &emsp;For purposes of paragraph (1), the total revenue amounts specified in this paragraph are as follows:
 
-&emsp;&emsp;(A) $183,280,756 for fiscal year 2018.
+&emsp;&emsp;(A) $312,606,000 for fiscal year 2023.
 
-&emsp;&emsp;(B) $190,654,875 for fiscal year 2019.
+&emsp;&emsp;(B) $335,750,000 for fiscal year 2024.
 
-&emsp;&emsp;(C) $200,132,014 for fiscal year 2020.
+&emsp;&emsp;(C) $350,746,400 for fiscal year 2025.
 
-&emsp;&emsp;(D) $211,748,789 for fiscal year 2021.
+&emsp;&emsp;(D) $366,486,300 for fiscal year 2026.
 
-&emsp;&emsp;(E) $213,687,660 for fiscal year 2022.
+&emsp;&emsp;(E) $418,343,000 for fiscal year 2027.
 
 #### (c) Annual fee setting; adjustments
 
 #### (1) In general
 
-&emsp;The Secretary shall, 60 days before the start of each fiscal year after September 30, 2017, establish fees under subsection (a), based on amounts specified under subsection (b) and the adjustments provided under this subsection, and publish such fees, and the rationale forany adjustments to such fees, in the Federal Register.
+&emsp;The Secretary shall, 60 days before the start of each fiscal year after September 30, 2022, establish fees under subsection (a), based on amounts specified under subsection (b) and the adjustments provided under this subsection, and publish such fees, and the rationale for any adjustments to such fees, in the Federal Register.
 
 #### (2) Inflation adjustments
 
 #### (A) Adjustment to total revenue amounts
 
-&emsp;&emsp;For fiscal year 2018 and each subsequent fiscal year, the Secretary shall adjust the total revenue amount specified in subsection (b)(3) for such fiscal year by multiplying such amount by the applicable inflation adjustment under subparagraph (B) for such year.
+&emsp;&emsp;For fiscal year 2023 and each subsequent fiscal year, the Secretary shall adjust the total revenue amount specified in subsection (b)(3) for such fiscal year by multiplying such amount by the applicable inflation adjustment under subparagraph (B) for such year.
 
 #### (B) Applicable inflation adjustment
 
-&emsp;&emsp;The applicable inflation adjustment for fiscal year 2018 and each subsequent fiscal year is the product of—
+&emsp;&emsp;The applicable inflation adjustment for fiscal year 2023 and each subsequent fiscal year is the product of—
 
 &emsp;&emsp;&emsp;(i) the base inflation adjustment under subparagraph (C) for such fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) the product of the base inflation adjustment under subparagraph (C) for each of the fiscal years preceding such fiscal year, beginning with fiscal year 2016.
+&emsp;&emsp;&emsp;(ii) the product of the base inflation adjustment under subparagraph (C) for each of the fiscal years preceding such fiscal year, beginning with fiscal year 2022.
 
 #### (C) Base inflation adjustment
 
@@ -167,7 +191,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years, multiplied by 0.60; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by 0.40.
+&emsp;&emsp;&emsp;&emsp;(II) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Arlington-Alexandria, DC–VA–MD–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by 0.40.
 
 #### (ii) Limitations
 
@@ -179,7 +203,7 @@
 
 #### (D) Adjustment to base fee amounts
 
-&emsp;&emsp;For each of fiscal years 2018 through 2022, the Secretary shall—
+&emsp;&emsp;For each of fiscal years 2023 through 2027, the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) adjust the base fee amounts specified in subsection (b)(2) for such fiscal year by multiplying such amounts by the applicable inflation adjustment under subparagraph (B) for such year; and
 
@@ -187,13 +211,171 @@
 
 #### (3) Volume-based adjustments to establishment registration base fees
 
-&emsp;For each of fiscal years 2018 through 2022, after the base fee amounts specified in subsection (b)(2) are adjusted under paragraph (2)(D), the base establishment registration fee amounts specified in such subsection shall be increased, as the Secretary estimates is necessary in order for total fee collections for such fiscal year to generate the total revenue amounts, as adjusted under paragraph (2).
+&emsp;For each of fiscal years 2023 through 2027, after the base fee amounts specified in subsection (b)(2) are adjusted under paragraph (2)(D), the base establishment registration fee amounts specified in such subsection shall be increased, as the Secretary estimates is necessary in order for total fee collections for such fiscal year to generate the total revenue amounts, as adjusted under paragraph (2).
 
-#### (4) Limit
+#### (4) Performance improvement adjustment
+
+#### (A) In general
+
+&emsp;&emsp;For each of fiscal years 2025 through 2027, after the adjustments under paragraphs (2) and (3), the base establishment registration fee amounts for such fiscal year shall be increased to reflect changes in the resource needs of the Secretary due to improved review performance goals for the process for the review of device applications identified in the letters described in section 2001(b) of the Medical Device User Fee Amendments of 2022, as the Secretary determines necessary to achieve an increase in total fee collections for such fiscal year equal to the following amounts, as applicable:
+
+&emsp;&emsp;&emsp;(i) For fiscal year 2025, the product of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount determined under subparagraph (B)(i)(I); and
+
+&emsp;&emsp;&emsp;&emsp;(II) the applicable inflation adjustment under paragraph (2)(B) for such fiscal year.
+
+&emsp;&emsp;&emsp;(ii) For fiscal year 2026, the product of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the sum of the amounts determined under subparagraphs (B)(i)(II), (B)(ii)(I), and (B)(iii)(I); and
+
+&emsp;&emsp;&emsp;&emsp;(II) the applicable inflation adjustment under paragraph (2)(B) for such fiscal year.
+
+&emsp;&emsp;&emsp;(iii) For fiscal year 2027, the product of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the sum of the amounts determined under subparagraphs (B)(i)(III), (B)(ii)(II), and (B)(iii)(II); and
+
+&emsp;&emsp;&emsp;&emsp;(II) the applicable inflation adjustment under paragraph (2)(B) for such fiscal year.
+
+#### (B) Amounts
+
+#### (i) Presubmission amount
+
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), with respect to the Presubmission Written Feedback goal, the amounts determined under this subparagraph are as follows:
+
+&emsp;&emsp;&emsp;&emsp;(I) For fiscal year 2025, $15,396,600 if such goal for fiscal year 2023 is met.
+
+&emsp;&emsp;&emsp;&emsp;(II) For fiscal year 2026:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) $15,396,600 if such goal for fiscal year 2023 is met and such goal for fiscal year 2024 is not met.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) $36,792,200 if such goal for fiscal year 2024 is met.
+
+&emsp;&emsp;&emsp;&emsp;(III) For fiscal year 2027:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) $15,396,600 if such goal for fiscal year 2023 is met and such goal for each of fiscal years 2024 and 2025 is not met.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) $36,792,200 if such goal for fiscal year 2024 is met and such goal for fiscal year 2025 is not met.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) $40,572,600 if such goal for fiscal year 2025 is met.
+
+#### (ii) De novo classification request amount
+
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), with respect to the De Novo Decision goal, theamounts determined under this subparagraph are as follows:
+
+&emsp;&emsp;&emsp;&emsp;(I) For fiscal year 2026, $6,323,500 if such goal for fiscal year 2023 is met.
+
+&emsp;&emsp;&emsp;&emsp;(II) For fiscal year 2027:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) $6,323,500 if such goal for fiscal year 2023 is met and such goal for fiscal year 2024 is not met.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) $11,765,400 if such goal for fiscal year 2024 is met.
+
+#### (iii) Premarket notification and premarket approval amount
+
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), with respect to the 510(k) decision goal, 510(k) Shared Outcome Total Time to Decision goal, PMA decision goal, and PMA Shared Outcome Total Time to Decision goal, the amounts determined under this subparagraph are as follows:
+
+&emsp;&emsp;&emsp;&emsp;(I) For fiscal year 2026, $1,020,000 if the 4 goals for fiscal year 2023 are met.
+
+&emsp;&emsp;&emsp;&emsp;(II) For fiscal year 2027:
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) $1,020,000 if the 4 goals for fiscal year 2023 are met and one or more of the 4 goals for fiscal year 2024 are not met.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) $3,906,000 if the 4 goals for fiscal year 2024 are met.
+
+#### (C) Performance calculation
+
+&emsp;&emsp;For purposes of this paragraph, performance of the following goals shall be determined as specified in the letters described in section 2001(b) of the Medical Device User Fee Amendments of 2022 and based on data available, as follows:
+
+&emsp;&emsp;&emsp;(i) The performance of the Presubmission Written Feedback goal shall be based on data available as of—
+
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2023, March 31, 2024;
+
+&emsp;&emsp;&emsp;&emsp;(II) for fiscal year 2024, March 31, 2025; and
+
+&emsp;&emsp;&emsp;&emsp;(III) for fiscal year 2025, March 31, 2026.
+
+&emsp;&emsp;&emsp;(ii) The performance of the De Novo Decision goal, 510(k) decision goal, 510(k) Shared Outcome Total Time to Decision goal, PMA decision goal, and PMA Shared Outcome Total Time to Decision goal shall be based on data available as of—
+
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2023, March 31, 2025; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for fiscal year 2024, March 31, 2026.
+
+#### (D) Goals defined
+
+&emsp;&emsp;For purposes of this paragraph, the terms "Presubmission Written Feedback goal", "De Novo Decision goal", "510(k) decision goal", "510(k) Shared Outcome Total Time to Decision goal", "PMA decision goal", and "PMA Shared Outcome Total Time to Decision goal" refer to the goals identified by the same names in the letters described in section 2001(b) of the Medical Device User Fee Amendments of 2022.
+
+#### (5) Hiring adjustment
+
+#### (A) In general
+
+&emsp;&emsp;For each of fiscal years 2025 through 2027, after the adjustments under paragraphs (2), (3), and (4), if applicable, if the number of hires to support the process for the review of device applications falls below the thresholds specified in subparagraph (B) for the applicable fiscal years, the base establishment registration fee amounts shall be decreased as the Secretary determines necessary to achieve a reduction in total fee collections equal to the hiring adjustment amount under subparagraph (C).
+
+#### (B) Thresholds
+
+&emsp;&emsp;The thresholds specified in this subparagraph are as follows:
+
+&emsp;&emsp;&emsp;(i) For fiscal year 2025, the threshold is 123 hires for fiscal year 2023.
+
+&emsp;&emsp;&emsp;(ii) For fiscal year 2026, the threshold is 38 hires for fiscal year 2024.
+
+&emsp;&emsp;&emsp;(iii) For fiscal year 2027, the threshold is—
+
+&emsp;&emsp;&emsp;&emsp;(I) 22 hires for fiscal year 2025 if the base establishment registration fees are not increased by the amount determined under paragraph (4)(A)(i); or
+
+&emsp;&emsp;&emsp;&emsp;(II) 75 hires for fiscal year 2025 if such fees are so increased.
+
+#### (C) Hiring adjustment amount
+
+&emsp;&emsp;The hiring adjustment amount for fiscal year 2025 and each subsequent fiscal year is the product of—
+
+&emsp;&emsp;&emsp;(i) the number of hires by which the hiring goal specified in subparagraph (D) for the fiscal year before the prior fiscal year was not met;
+
+&emsp;&emsp;&emsp;(ii) $72,877; and
+
+&emsp;&emsp;&emsp;(iii) the applicable inflation adjustment under paragraph (2)(B) for the fiscal year for which the hiring goal was not met.
+
+#### (D) Hiring goals
+
+&emsp;&emsp;The hiring goals for each of fiscal years 2023 through 2025 are as follows:
+
+&emsp;&emsp;&emsp;(i) For fiscal year 2023, 144 hires.
+
+&emsp;&emsp;&emsp;(ii) For fiscal year 2024, 42 hires.
+
+&emsp;&emsp;&emsp;(iii) For fiscal year 2025:
+
+&emsp;&emsp;&emsp;&emsp;(I) 24 hires if the base establishment registration fees are not increased by the amount determined under paragraph (4)(A)(i).
+
+&emsp;&emsp;&emsp;&emsp;(II) 83 hires if the base establishment registration fees are increased by the amount determined under paragraph (4)(A)(i).
+
+#### (E) Number of hires
+
+&emsp;&emsp;For purposes of this paragraph, the number of hires for a fiscal year shall be determined by the Secretary as set forth in the letters described in section 2001(b) of the Medical Device User Fee Amendments of 2022.
+
+#### (6) Operating reserve adjustment
+
+#### (A) In general
+
+&emsp;&emsp;For each of fiscal years 2023 through 2027, after the adjustments under paragraphs (2), (3), (4), and (5), if applicable, if the Secretary has operating reserves of carryover user fees for the process for the review of device applications in excess of the designated amount in subparagraph (B), the Secretary shall decrease the base establishment registration fee amounts to provide for not more thansuch designated amount of operating reserves.
+
+#### (B) Designated amount
+
+&emsp;&emsp;Subject to subparagraph (C), for each fiscal year, the designated amount in this subparagraph is equal to the sum of—
+
+&emsp;&emsp;&emsp;(i) 13 weeks of operating reserves of carryover user fees; and
+
+&emsp;&emsp;&emsp;(ii) 1 month of operating reserves maintained pursuant to paragraph (8).
+
+#### (C) Excluded amount
+
+&emsp;&emsp;For the period of fiscal years 2023 through 2026, a total amount equal to $118,000,000 shall not be considered part of the designated amount under subparagraph (B) and shall not be subject to the decrease under subparagraph (A).
+
+#### (7) Limit
 
 &emsp;The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of device applications.
 
-#### (5) Supplement
+#### (8) Supplement
 
 #### (A) In general
 
@@ -213,7 +395,7 @@
 
 #### (A) Definition
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term "small business" means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal incometax return for a taxable year, including such returns of all of its affiliates.
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term "small business" means an entity that reported $100,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates.
 
 #### (B) Evidence of qualification
 
@@ -227,11 +409,11 @@
 
 #### (iii) Firms not submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
+&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority, if extant, of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
 
 #### (C) Reduced fees
 
-&emsp;&emsp;Where the Secretary finds that the applicant involved meets the definition under subparagraph (A), the fees established under subsection (c)(1) may be paid at a reduced rate of—
+&emsp;&emsp;Where the Secretary finds that the applicant involved meets the definition undersubparagraph (A), the fees established under subsection (c)(1) may be paid at a reduced rate of—
 
 &emsp;&emsp;&emsp;(i) 25 percent of the fee established under such subsection for a premarket application, a premarket report, a supplement, periodic reporting concerning a class III device, or a de novo classification request; and
 
@@ -265,7 +447,7 @@
 
 #### (iii) Firms not submitting tax returns to the United States Internal Revenue Service
 
-&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in suchform as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
+&emsp;&emsp;&emsp;In the case of an applicant that has not previously submitted a Federal income tax return, the applicant and each of its affiliates shall demonstrate that it meets the definition under subparagraph (A) by submission of a signed certification, in such form as the Secretary may direct through a notice published in the Federal Register, that the applicant or affiliate meets the criteria for a small business and a certification, in English, from the national taxing authority, if extant, of the country in which the applicant or, if applicable, affiliate is headquartered. The certification from such taxing authority shall bear the official seal of such taxing authority and shall provide the applicant's or affiliate's gross receipts or sales for the most recent year in both the local currency of such country and in United States dollars, the exchange rate used in converting such local currency to dollars, and the dates during which these receipts or sales were collected. The applicant shall also submit a statement signed by the head of the applicant's firm or by its chief financial officer that the applicant has submitted certifications for all of its affiliates, or that the applicant has no affiliates.
 
 #### (C) Reduced fees
 
@@ -291,17 +473,17 @@
 
 &emsp;With respect to the amount that, under the salaries and expenses account of the Food and Drug Administration, is appropriated for a fiscal year for devices and radiological products, fees may not be assessed under subsection (a) for the fiscal year, and the Secretary is not expected to meet any performance goals identified for the fiscal year, if—
 
-&emsp;&emsp;(A) the amount so appropriated for the fiscal year, excluding the amount of fees appropriated for the fiscal year, is more than 1 percent less than $320,825,000 multiplied by the adjustment factor applicable to such fiscal year; or
+&emsp;&emsp;(A) the amount so appropriated for the fiscal year, excluding the amount of fees appropriated for the fiscal year, is more than 1 percent less than $398,566,000 multiplied by the adjustment factor applicable to such fiscal year; or
 
 &emsp;&emsp;(B) fees were not assessed under subsection (a) for the previous fiscal year.
 
 #### (2) Authority
 
-&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
+&emsp;If the Secretary does not assess fees under subsection (a) during any portion of a fiscal year because of paragraph (1) and if at a later date in such fiscal year the Secretary may assess such fees, the Secretary may assess and collect such fees, without any modification in the rate for premarket applications, supplements, premarket reports, premarket notification submissions, 30-day notices, requests for classification information, periodic reporting concerning a class III device, de novo classification requests, and establishment registrations at any time in such fiscal year, notwithstanding the provisions of subsection (a) relating to the date fees are to be paid.
 
 #### (3) Limitation
 
-&emsp;Beginning on October 1, 2023, the authorities under section 379i(9)(C) of this title shall include only leasing and necessary scientific equipment.
+&emsp;Beginning on October 1, 2023, the authorities under section 379i(10)(C) of this title shall include only leasing and necessary scientific equipment.
 
 #### (h) Crediting and availability of fees
 
@@ -317,13 +499,17 @@
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (C), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation, for such fiscal year, and
 
-&emsp;&emsp;&emsp;(ii) shall be available to defray increases in the costs of the resources allocated for the process for the review of device applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engagedin such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 2009 multiplied by the adjustment factor.
+&emsp;&emsp;&emsp;(ii) shall be available—
+
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2023, to defray increases in the costs of the resources allocated for the process for the review of device applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 2009 multiplied by the adjustment factor; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for fiscal year 2024 and each subsequent fiscal year, to defray the costs of the resources allocated for the process for the review of device applications (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process), only if the sum of the amounts allocated by the Secretary for such costs, excluding costs paid from fees collected under this section, plus other costs for the maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture and other necessary materials and supplies in connection with the process for the review of device applications, is no less than the amount allocated for such costs, excluding any such costs paid from fees collected under this section, for fiscal year 2009 multiplied by the adjustment factor.
 
 #### (B) Compliance
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated for the process for the review of device applications—
+&emsp;&emsp;&emsp;The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated as described in subclause (I) or (II) of such subparagraph, as applicable—
 
 &emsp;&emsp;&emsp;&emsp;(I) are not more than 3 percent below the level specified in subparagraph (A)(ii); or
 
@@ -339,9 +525,27 @@
 
 &emsp;&emsp;Payment of fees authorized under this section for a fiscal year, prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
 
-#### (3) Authorizations of appropriations
+#### (3) Authorization of appropriations
 
-&emsp;For each of the fiscal years 2018 through 2022, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount specified under subsection (b)(3) for the fiscal year, as adjusted under subsection (c).
+#### (A) In general
+
+&emsp;&emsp;For each of fiscal years 2023 through 2027, there is authorized to be appropriated for fees under this section an amount equal to the revenue amount determined under subparagraph (B), less the amount of reductions determined under subparagraph (C).
+
+#### (B) Revenue amount
+
+&emsp;&emsp;For purposes of this paragraph, the revenue amount for each fiscal year is the sum of—
+
+&emsp;&emsp;&emsp;(i) the total revenue amount under subsection (b)(3) for the fiscal year, as adjusted under paragraphs (2) and (3) of subsection (c); and
+
+&emsp;&emsp;&emsp;(ii) the performance improvement adjustment amount for the fiscal year under subsection (c)(4), if applicable.
+
+#### (C) Amount of reductions
+
+&emsp;&emsp;For purposes of this paragraph, the amount of reductions for each fiscal year is the sum of—
+
+&emsp;&emsp;&emsp;(i) the hiring adjustment amount for the fiscal year under subsection (c)(5), if applicable; and
+
+&emsp;&emsp;&emsp;(ii) the operating reserve adjustment amount for the fiscal year under subsection (c)(6), if applicable.
 
 #### (i) Collection of unpaid fees
 
@@ -355,19 +559,77 @@ To qualify for consideration for a refund under subsection (a)(2)(D), a person s
 
 This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employees, and advisory committees not engaged in the process of the review of device applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577; Pub. L. 109–43, §2(a), Aug. 1, 2005, 119 Stat. 439; Pub. L. 110–85, title II, §212, Sept. 27, 2007, 121 Stat. 844; Pub. L. 112–144, title II, §203(a)–(f), July 9, 2012, 126 Stat. 1002; Pub. L. 112–193, §2(b)(1), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 115–52, title II, §203(a)–(f)(1), (2)(B)–(i), title IX, §905(b)(2), Aug. 18, 2017, 131 Stat. 1013–1016, 1090.)
+(June 25, 1938, ch. 675, §738, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1591; amended Pub. L. 108–214, §2(a)(2), (d)(2)(A), (B), (3)(A), Apr. 1, 2004, 118 Stat. 572, 576, 577; Pub. L. 109–43, §2(a), Aug. 1, 2005, 119 Stat. 439; Pub. L. 110–85, title II, §212, Sept. 27, 2007, 121 Stat. 844; Pub. L. 112–144, title II, §203(a)–(f), July 9, 2012, 126 Stat. 1002; Pub. L. 112–193, §2(b)(1), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 115–52, title II, §203(a)–(f)(1), (2)(B)–(i), title IX, §905(b)(2), Aug. 18, 2017, 131 Stat. 1013–1016, 1090; Pub. L. 117–180, div. F, title II, §2003, Sept. 30, 2022, 136 Stat. 2148; Pub. L. 117–328, div. FF, title III, §§3309, 3625(d), (e)(1), Dec. 29, 2022, 136 Stat. 5836, 5882.)
 
 #### Termination of Section
 
-<i>For termination of section by section 210(a) of Pub. L. 115–52, see Effective and Termination Dates note below.</i>
+<i>For termination of section by section 2007(a) of Pub. L. 117–180, see Effective and Termination Dates note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B)(i), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+
+Section 2001(b) of the Medical Device User Fee Amendments of 2022, referred to in subsec. (c)(4)(A), (C), (D), (5)(E), is section 2001(b) of title II of div. F of Pub. L. 117–180, which is set out as a note under section 379i of this title.
+
+510(k), referred to in subsec. (c)(4)(B)(iii), (C)(ii), (D), means section 510(k) of the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, which is classified to section 360(k) of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–180, §2003(a)(1), substituted "fiscal year 2023" for "fiscal year 2018".
+
+Subsec. (a)(2)(A). Pub. L. 117–180, §2003(a)(2)(A)(i), substituted "October 1, 2022" for "October 1, 2017" in introductory provisions.
+
+Subsec. (a)(2)(A)(iii). Pub. L. 117–180, §2003(a)(2)(A)(ii), substituted "80 percent" for "75 percent".
+
+Subsec. (a)(2)(A)(viii). Pub. L. 117–180, §2003(a)(2)(A)(iii), substituted "4.5 percent" for "3.4 percent".
+
+Subsec. (a)(2)(B)(iii). Pub. L. 117–180, §2003(a)(2)(B), substituted "premarket notification submission, or de novo classification request" for "or premarket notification submission".
+
+Subsec. (a)(2)(C). Pub. L. 117–180, §2003(a)(2)(C), substituted "periodic reporting concerning a class III device, or de novo classification request" for "or periodic reporting concerning a class III device".
+
+Subsec. (a)(3)(B). Pub. L. 117–328, §3309(a), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (b)(1). Pub. L. 117–180, §2003(b)(1), substituted "2023 through 2027" for "2018 through 2022".
+
+Subsec. (b)(2). Pub. L. 117–180, §2003(b)(2), amended par. (2) generally. Prior to amendment, par. (2) specified base fee amounts for fiscal years 2018 to 2022.
+
+Subsec. (b)(3). Pub. L. 117–180, §2003(b)(3), amended par. (3) generally. Prior to amendment, par. (3) specified total revenue amounts for fiscal years 2018 to 2022.
+
+Subsec. (c)(1). Pub. L. 117–180, §2003(c)(1), substituted "2022" for "2017".
+
+Subsec. (c)(2)(A). Pub. L. 117–180, §2003(c)(2)(A), substituted "2023" for "2018".
+
+Subsec. (c)(2)(B). Pub. L. 117–180, §2003(c)(2)(B)(i), substituted "fiscal year 2023" for "fiscal year 2018" in introductory provisions.
+
+Subsec. (c)(2)(B)(ii). Pub. L. 117–180, §2003(c)(2)(B)(ii), substituted "fiscal year 2022" for "fiscal year 2016".
+
+Subsec. (c)(2)(C)(i)(II). Pub. L. 117–180, §2003(c)(2)(C), substituted "Washington-Arlington-Alexandria, DC–VA–MD–WV" for "Washington-Baltimore, DC–MD–VA–WV".
+
+Subsec. (c)(2)(D). Pub. L. 117–180, §2003(c)(2)(D), substituted "fiscal years 2023 through 2027" for "fiscal years 2018 through 2022" in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 117–180, §2003(c)(3), substituted "2023 through 2027" for "2018 through 2022".
+
+Subsec. (c)(4) to (8). Pub. L. 117–180, §2003(c)(4), (5), added pars. (4) to (6) and redesignated former pars. (4) and (5) as (7) and (8), respectively.
+
+Subsec. (d)(2)(B)(iii). Pub. L. 117–328, §3309(b), inserted ", if extant," after "national taxing authority".
+
+Subsec. (e)(2)(B)(iii). Pub. L. 117–328, §3625(d)(1), inserted ", if extant," after "national taxing authority".
+
+Subsec. (g)(1)(A). Pub. L. 117–180, §2003(d)(1), substituted "$398,566,000" for "$320,825,000".
+
+Subsec. (g)(2). Pub. L. 117–180, §2003(d)(2), inserted "de novo classification requests," after "class III device,".
+
+Subsec. (g)(3). Pub. L. 117–328, §3625(e)(1), which directed technical correction to directory language of Pub. L. 115–52, §905(b)(2), was executed by making technical correction to that section as if the amendment were retroactive to the effective date of the amendment by Pub. L. 115–52 to reflect the probable intent of Congress. See 2017 Amendment note below.
+
+Pub. L. 117–328, §3625(d)(3), substituted "379i(10)(C) of this title" for "section 379i(9)(C) of this title".
+
+Subsec. (h)(2)(A)(ii). Pub. L. 117–328, §3625(d)(2)(A), substituted "shall be available—" for "shall be available to defray", designated remainder of existing provisions as subcl. (I), inserted "for fiscal year 2023, to defray" before "increases in the costs", and added subcl. (II).
+
+Subsec. (h)(2)(B)(i). Pub. L. 117–328, §3625(d)(2)(B), substituted "as described in subclause (I) or (II) of such subparagraph, as applicable" for "for the process for the review of device applications" in introductory provisions.
+
+Subsec. (h)(3). Pub. L. 117–180, §2003(e), amended par. (3) generally. Prior to amendment, text read as follows: "For each of the fiscal years 2018 through 2022, there is authorized to be appropriated for fees under this section an amount equal to the total revenue amount specified under subsection (b)(3) for the fiscal year, as adjusted under subsection (c)."
 
 <b>2017</b>—Subsec. (a)(1). Pub. L. 115–52, §203(a)(1), substituted "fiscal year 2018" for "fiscal year 2013".
 
@@ -401,7 +663,7 @@ Subsec. (c)(2)(B). Pub. L. 115–52, §203(c)(2)(B), added subpar. (B) and struc
 
 Subsec. (c)(2)(C). Pub. L. 115–52, §203(c)(2)(C), struck out "to total revenue amounts" after "adjustment" in heading.
 
-Subsec. (c)(2)(D). Pub. L. 115–52, §203(c)(2)(D), amended subpar. (D) generally. Prior to amendment, text read as follows: "For each of fiscal years 2014 through 2017, the base fee amounts specified in subsection (b)(2) shall be adjusted as needed, on a uniform proportionatebasis, to generate the total revenue amounts under subsection (b)(3), as adjusted for inflation under subparagraph (A)."
+Subsec. (c)(2)(D). Pub. L. 115–52, §203(c)(2)(D), amended subpar. (D) generally. Prior to amendment, text read as follows: "For each of fiscal years 2014 through 2017, the base fee amounts specified in subsection (b)(2) shall be adjusted as needed, on a uniform proportionate basis, to generate the total revenue amounts under subsection (b)(3), as adjusted for inflation under subparagraph (A)."
 
 Subsec. (c)(3). Pub. L. 115–52, §203(c)(3), substituted "2018 through 2022" for "2014 through 2017" and "increased" for "further adjusted".
 
@@ -423,7 +685,7 @@ Subsec. (h). Pub. L. 115–52, §203(f)(2)(B)(i), redesignated subsec. (i) as (h
 
 Subsec. (h)(3). Pub. L. 115–52, §203(i)(1), substituted "2018 through 2022" for "2013 through 2017" and "subsection (c)." for "subsection (c) and, for fiscal year 2017 only, as further adjusted under paragraph (4)."
 
-Pub. L. 115–52, §905(b)(2), added par. (3), effective Aug. 18, 2017. Subsec. (h) subsequently redesignated (g) effective Oct. 1, 2017, by Pub. L. 115–52, §203(f)(2)(B)(i). See Amendment note above.
+Pub. L. 115–52, §905(b)(2), as amended by Pub. L. 117–328, §3625(e)(1), added par. (3), effective Aug. 18, 2017. Subsec. (h) subsequently redesignated (g) effective Oct. 1, 2017, by Pub. L. 115–52, §203(f)(2)(B)(i). See Amendment note above.
 
 Subsec. (h)(4). Pub. L. 115–52, §203(i)(2), struck out par. (4). Text read as follows: "If the cumulative amount of fees collected during fiscal years 2013, 2014, and 2015, added to the amount estimated to be collected for fiscal year 2016, which estimate shall be based upon the amount of fees received by the Secretary through June 30, 2016, exceeds the cumulative amount appropriated pursuant to paragraph (3) for these four fiscal years, the excess shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2017."
 
@@ -441,7 +703,7 @@ Subsec. (a)(3)(C). Pub. L. 112–144, §203(a)(3)(B), substituted "later of—" 
 
 Subsec. (b). Pub. L. 112–144, §203(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) listed fee amounts for fiscal years 2008 to 2012.
 
-Subsec. (c). Pub. L. 112–144, §203(c), inserted "; adjustments" after "setting" in heading, added pars. (1) to (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former pars. (1) and (2) which related to annual publication and adjustment of fees.
+Subsec. (c). Pub. L. 112–144, §203(c), inserted "; adjustments" after "setting" in heading, added pars.\(1) to (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and struck out former pars. (1) and (2) which related to annual publication and adjustment of fees.
 
 Subsecs. (f) to (h). Pub. L. 112–144, §203(d), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
 
@@ -543,7 +805,7 @@ Subsec. (c)(1). Pub. L. 109–43, §2(a)(2)(B)–(D), redesignated par. (5) as (
 
 Subsec. (c)(2). Pub. L. 109–43, §2(a)(2)(B), (C), redesignated par. (6) as (2) and struck out former par. (2) which required an annual adjustment of the fee revenues established in subsec. (b) to reflect changes in the workload of the Secretary for the process for the review of device applications.
 
-Subsec. (c)(3). Pub. L. 109–43, §2(a)(2)(B), (E), added par. (3) and struck out former par. (3) which required anannual compensating adjustment of the fee revenues established in subsec. (b).
+Subsec. (c)(3). Pub. L. 109–43, §2(a)(2)(B), (E), added par. (3) and struck out former par. (3) which required an annual compensating adjustment of the fee revenues established in subsec. (b).
 
 Subsec. (c)(4). Pub. L. 109–43, §2(a)(2)(B), struck out par. (4) which provided for a fiscal year 2007 adjustment of the fee revenues established in subsec. (b) to provide for operating reserves of carryover user fees.
 
@@ -607,6 +869,12 @@ Subsec. (j). Pub. L. 108–214, §2(d)(2)(B)(iv), substituted "subsection (a)(2)
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. FF, title III, §3625(e)(2), Dec. 29, 2022, 136 Stat. 5882, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as though included in the enactment of section 905 of the FDA Reauthorization Act of 2017 (Public Law 115–52) \[Aug. 18, 2017\]."
+
+Amendments by Pub. L. 117–180 effective Oct. 1, 2022, with fees under this subpart to be assessed for all submissions listed in subsec. (a)(2)(A) of this section received on or after Oct. 1, 2022, see section 2008 of Pub. L. 117–180, set out as a note under section 360d of this title.
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 203 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all submissions listed in subsec. (a)(2)(A) of this section received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
@@ -621,7 +889,7 @@ Amendment by Pub. L. 110–85 effective Oct. 1, 2007, except for certain premark
 
 #### Effective and Termination Dates
 
-Section ceases to be effective Oct. 1, 2022, see section 210(a) of Pub. L. 115–52, set out as a note under section 379i of this title.
+Section ceases to be effective Oct. 1, 2027, see section 2007(a) of Pub. L. 117–180, set out as a note under section 379i of this title.
 
 Section effective Oct. 26, 2002, except for certain premarket fees, see section 106 of Pub. L. 107–250, set out as a note under section 379i of this title.
 

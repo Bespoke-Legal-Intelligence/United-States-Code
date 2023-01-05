@@ -8,7 +8,7 @@ There is established as an independent entity of the executive branch of the Uni
 
 The Foundation shall be subject to the supervision and direction of the Board of Trustees. The Board shall be comprised of thirteen trustees, eleven of whom shall be voting members of the Board, as follows:
 
-&emsp;(1) Two Trustees, shall be appointed by the President, with the advice and consent of the Senate, after considering the recommendationof the Speaker of the House of Representatives, in consultation with the Minority Leader of the House of Representatives.
+&emsp;(1) Two Trustees, shall be appointed by the President, with the advice and consent of the Senate, after considering the recommendation of the Speaker of the House of Representatives, in consultation with the Minority Leader of the House of Representatives.
 
 &emsp;(2) Two Trustees, shall be appointed by the President, with the advice and consent of the Senate, after considering the recommendation of the President pro tempore of the Senate, in consultation with the Majority and Minority Leaders of the Senate.
 

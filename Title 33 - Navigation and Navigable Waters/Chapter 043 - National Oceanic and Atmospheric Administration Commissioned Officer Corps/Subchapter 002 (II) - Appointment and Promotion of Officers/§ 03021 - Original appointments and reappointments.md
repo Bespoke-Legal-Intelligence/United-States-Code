@@ -74,7 +74,11 @@
 
 #### (c) Qualifications
 
-An appointment under subsection (a) or (b) may not be given to an individual until the individual's mental, moral, physical, and professional fitness to perform the duties of an officer has been established under such regulations as the Secretary shall prescribe.
+An appointment under subsection (a) or (b) may—
+
+&emsp;(1) be given only to an individual who is a citizen of the United States; and
+
+&emsp;(2) not be given.<sup>1</sup> to an individual until the individual's mental, moral, physical, and professional fitness to perform the duties of an officer has been established under such regulations as the Secretary shall prescribe.
 
 #### (d) Order of precedence
 
@@ -90,7 +94,7 @@ For inter-service transfers (as described in Department of Defense Directive 130
 
 &emsp;(3) reappoint such inter-service transfers to the equivalent grade in the commissioned officer corps of the Administration.
 
-(Pub. L. 107–372, title II, §221, Dec. 19, 2002, 116 Stat. 3084; Pub. L. 116–259, title III, §301(a), Dec. 23, 2020, 134 Stat. 1169.)
+(Pub. L. 107–372, title II, §221, Dec. 19, 2002, 116 Stat. 3084; Pub. L. 116–259, title III, §301(a), Dec. 23, 2020, 134 Stat. 1169; Pub. L. 117–263, div. K, title CXVII, §11702, Dec. 23, 2022, 136 Stat. 4156.)
 
 #### <b>Editorial Notes</b>
 
@@ -100,5 +104,15 @@ Provisions similar to those in this section were contained in section 853t of th
 
 #### Amendments
 
+<b>2022</b>—Subsec. (c). Pub. L. 117–263 substituted "may—
+
+&emsp;"(1) be given only to an individual who is a citizen of the United States; and
+
+&emsp;"(2) not be given."
+
+for "may not be given".
+
 <b>2020</b>—Pub. L. 116–259 substituted "Original appointments and reappointments" for "Original appointments" in section catchline and amended text generally. Prior to amendment, text related to original appointments in the grades of ensign, lieutenant (junior grade), and lieutenant.
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

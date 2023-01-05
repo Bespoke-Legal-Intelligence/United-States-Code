@@ -78,7 +78,7 @@ Requirements.—A vessel subject to this subsection is not eligible for a fisher
 
 &emsp;&emsp;&emsp;(i) the regional fishery management council of jurisdiction established under section 302(a)(1) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)) has recommended after October 21, 1998, and the Secretary of Commerce has approved, conservation and management measures in accordance with the American Fisheries Act (Public Law 105–277, div. C, title II) (16 U.S.C. 1851 note) <sup>1</sup> to allow the vessel to be used in fisheries under the council's authority; and
 
-&emsp;&emsp;&emsp;(ii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) of the American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), the vessel is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887));
+&emsp;&emsp;&emsp;(ii) in the case of a vessel listed in paragraphs (1) through (20) of section 208(e) ofthe American Fisheries Act (title II of division C of Public Law 105–277; 112 Stat. 2681–625 et seq.), the vessel is neither participating in nor eligible to participate in the non-AFA trawl catcher processor subsector (as that term is defined under section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 2887));
 
 &emsp;&emsp;(C) the vessel—
 
@@ -102,7 +102,7 @@ In general.—The Administrator of the Maritime Administration shall administer 
 
 &emsp;(2)
 
-Regulations.—Regulations to implement this subsection shall conform to the extentpracticable with the regulations establishing the form of citizenship affidavit set forth in part 355 of title 46, Code of Federal Regulations, as in effect on September 25, 1997, except that the form of the statement shall be written in a manner to allow the owner of the vessel to satisfy any annual renewal requirements for a certificate of documentation for the vessel and to comply with this subsection and subsections (c) and (d), and shall not be required to be notarized.
+Regulations.—Regulations to implement this subsection shall conform to the extent practicable with the regulations establishing the form of citizenship affidavit set forth in part 355 of title 46, Code of Federal Regulations, as in effect on September 25, 1997, except that the form of the statement shall be written in a manner to allow the owner of the vessel to satisfy any annual renewal requirements for a certificate of documentation for the vessel and to comply with this subsection and subsections (c) and (d), and shall not be required to be notarized.
 
 &emsp;(3)
 
@@ -122,7 +122,7 @@ Feet.—The Secretary shall establish reasonable and necessary requirements to d
 
 (g)
 
-Vessels Purchased Through Fishing Capacity Reduction Program.—A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) or section 308 of the Interjurisdictional Fisheries Act of 1986 (16 U.S.C. 4107) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
+Vessels Purchased Through Fishing Capacity Reduction Program.—A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) or section 308 <sup>2</sup> of the Interjurisdictional Fisheries Act of 1986 (16 U.S.C. 4107) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
 
 (h)
 
@@ -220,6 +220,8 @@ Section 219(a)(7) of the Department of Commerce and Related Agencies Appropriati
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (g), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
+Section 308 of the Interjurisdictional Fisheries Act of 1986 (16 U.S.C. 4107), referred to in subsec. (g), was repealed by Pub. L. 117–328, div. S, title II, §204(a), Dec. 29, 2022, 136 Stat. 5270.
+
 #### Prior Provisions
 
 A prior section 12113, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588, originally derived from section 65a of former Title 46, Shipping, related to ports of documentation, prior to being repealed by Pub. L. 100–710, title I, §§106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.
@@ -284,11 +286,13 @@ Pub. L. 100–239, §4, Jan. 11, 1988, 101 Stat. 1779, as amended by Pub. L. 101
 
 "(c)(1) Any fishery license or registry issued to a vessel built in a foreign country under this section shall be endorsed to restrict the vessel from catching, taking, or harvesting.
 
-"(2) Before being issued a fishery license, any vessel described in subsection (a)(2) of this section must be documented under an application for documentation acceptable to the Secretary filed before July 28, 1987, except that an alternative vessel of no greater tonnage than the vessel in the application may be substituted, if that substitution is made by the original applicant."
+"(2) Before being issued a fishery license, any vessel described in subsection (a)(2) of this section must be documented under an application for documentation acceptable to the Secretary filed before July 28, 1987, except that an alternative vessel of no greater tonnagethan the vessel in the application may be substituted, if that substitution is made by the original applicant."
 
 #### Definitions
 
 Pub. L. 100–239, §6(d), Jan. 11, 1988, 101 Stat. 1782, provided that: "The terms in this Act \[see Tables for classification\] have the same meaning as in subtitle II \[now also sections 114 and 115\] of title 46, United States Code (as amended by this Act)."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

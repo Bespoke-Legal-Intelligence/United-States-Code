@@ -44,7 +44,7 @@ In general.—Subject to paragraph (2), the administrative expenses of a Commiss
 
 &emsp;(2)
 
-Expenses of the federal cochairperson.—All expenses of the Federal Cochairperson, including expenses of the alternateand staff of the Federal Cochairperson, shall be paid by the Federal Government.
+Expenses of the federal cochairperson.—All expenses of the Federal Cochairperson, including expenses of the alternate and staff of the Federal Cochairperson, shall be paid by the Federal Government.
 
 &emsp;(3)
 

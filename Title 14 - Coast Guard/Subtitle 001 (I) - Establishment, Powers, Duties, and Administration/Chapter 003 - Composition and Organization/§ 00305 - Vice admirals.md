@@ -36,7 +36,7 @@
 
 (d) Whenever a vacancy occurs in a position designated under subsection (a), the Commandant shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
 
-(Added Pub. L. 92–451, §1(5), Oct. 2, 1972, 86 Stat. 755, §50; amended Pub. L. 103–206, title II, §204(c), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 111–281, title V, §511(a), Oct. 15, 2010, 124 Stat. 2951; Pub. L. 111–330, §1(5), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 114–120, title II, §202, Feb. 8, 2016, 130 Stat. 33; renumbered §305 and amended Pub. L. 115–282, title I, §§104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196, 4240; Pub. L. 116–283, div. A, title V, §551(b)(2), Jan. 1, 2021, 134 Stat. 3630.)
+(Added Pub. L. 92–451, §1(5), Oct. 2, 1972, 86 Stat. 755, §50; amended Pub. L. 103–206, title II, §204(c), Dec. 20, 1993, 107 Stat. 2421; Pub. L. 111–281, title V, §511(a), Oct. 15, 2010, 124 Stat. 2951; Pub. L. 111–330, §1(5), Dec. 22, 2010, 124 Stat. 3569; Pub. L. 114–120, title II, §202, Feb. 8, 2016, 130 Stat. 33; renumbered §305 and amended Pub. L. 115–282, title I, §§104(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4196,4240; Pub. L. 116–283, div. A, title V, §551(b)(2), Jan. 1, 2021, 134 Stat. 3630.)
 
 #### <b>Editorial Notes</b>
 
@@ -84,5 +84,5 @@ Pub. L. 111–281, title V, §511(h)(1), Oct. 15, 2010, 124 Stat. 2953, provided
 
 &emsp;"(A) shall continue to have the grade of vice admiral with pay and allowance of that grade until such time that the officer is relieved of his duties and appointed and confirmed to another position as a vice admiral or admiral; or
 
-&emsp;"(B) for the purposes of transition, may continue at the grade of vice admiral with pay and allowance of that grade, for not more than 1 year after the date ofenactment of this Act, to perform the duties of the officer's former position and any other such duties that the Commandant prescribes."
+&emsp;"(B) for the purposes of transition, may continue at the grade of vice admiral with pay and allowance of that grade, for not more than 1 year after the date of enactment of this Act, to perform the duties of the officer's former position and any other such duties that the Commandant prescribes."
 

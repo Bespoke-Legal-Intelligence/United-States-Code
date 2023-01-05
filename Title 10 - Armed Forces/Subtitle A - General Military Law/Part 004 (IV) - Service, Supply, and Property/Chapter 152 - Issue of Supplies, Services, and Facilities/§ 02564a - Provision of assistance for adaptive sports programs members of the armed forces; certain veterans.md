@@ -10,7 +10,7 @@ Program Authorized.—(1) The Secretary of Defense may establish a military adap
 
 &emsp;&emsp;(i) is on the Temporary Disability Retirement List or Permanently Disabled Retirement List;
 
-&emsp;&emsp;(ii) is eligible to participate in adaptive sports because of an injury, illness, or wound incurred in the line of duty in the armed forces; and
+&emsp;&emsp;(ii) is eligible to participate in adaptive sports because of an injury, illness, or woundincurred in the line of duty in the armed forces; and
 
 &emsp;&emsp;(iii) was enrolled in the program authorized under this section prior to the veteran's date of separation.
 
@@ -40,7 +40,7 @@ Use of Assistance.—Assistance provided under the military adaptive sports prog
 
 #### Amendments
 
-<b>2019</b>—Pub. L. 116–92, §592(c)(1), amended section catchline generally. Prior to amendment, catchlineread as follows: "Provision of assistance for adaptive sports programs for members of the armed forces".
+<b>2019</b>—Pub. L. 116–92, §592(c)(1), amended section catchline generally. Prior to amendment, catchline read as follows: "Provision of assistance for adaptive sports programs for members of the armed forces".
 
 Subsec. (a)(1). Pub. L. 116–92, §592(a), substituted "for—" and subpars. (A) and (B) for "for members of the armed forces who are eligible to participate in adaptive sports because of an injury or wound incurred in the line of duty in the armed forces."
 

@@ -66,11 +66,11 @@ For purposes of this subchapter—
 
 &emsp;&emsp;&emsp;(ii) the partner agrees to take into account, in the form and manner prescribed by the Secretary, the adjustments to the tax attributes of such partner referred to in subparagraph (A)(ii), and
 
-&emsp;&emsp;&emsp;(iii) such partner provides, in the form and manner specified by the Secretary (including, if the Secretary so specifies, in the same form as on an amended return),such information as the Secretary may require to carry out this subparagraph.
+&emsp;&emsp;&emsp;(iii) such partner provides, in the form and manner specified by the Secretary (including, if the Secretary so specifies, in the same form as on an amended return), such information as the Secretary may require to carry out this subparagraph.
 
 #### (C) Reallocation of distributive share
 
-&emsp;&emsp;In the case of any adjustment which reallocates the distributive share of any item from one partner to another, this paragraph shall apply with respect to any such partner only if the requirements of subparagraph (A) or (B) are satisfied with respect to all partners affected by such adjustment.
+&emsp;&emsp;In the case of any adjustment which reallocates the distributive share of any itemfrom one partner to another, this paragraph shall apply with respect to any such partner only if the requirements of subparagraph (A) or (B) are satisfied with respect to all partners affected by such adjustment.
 
 #### (D) Application of statute of limitations
 
@@ -136,7 +136,7 @@ For purposes of this subchapter—
 
 #### (B) Specified passive activity loss
 
-&emsp;&emsp;For purposes of this paragraph, the term "specified passive activity loss" means, with respect to any specified partner of such publicly traded partnership, the lesser of—
+&emsp;&emsp;For purposes of this paragraph, the term "specified passive activity loss" means, withrespect to any specified partner of such publicly traded partnership, the lesser of—
 
 &emsp;&emsp;&emsp;(i) the passive activity loss of such partner which is separately determined with respect to such partnership under section 469(k) with respect to such partner's taxable year in which or with which the reviewed year of such partnership ends, or
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 115–141 effective as if included in section 1101 of Pub. 
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–113 effective as if included in section 1101 of Pub. L. 114–74, see section 411(e) of Pub. L. 114–113, set out as a note under section 6031 of this title.
+Amendment by Pub. L. 114–113 effective as if included in section 1101 of Pub. L. 114–74, see section 411(e) ofPub. L. 114–113, set out as a note under section 6031 of this title.
 
 #### Effective Date
 

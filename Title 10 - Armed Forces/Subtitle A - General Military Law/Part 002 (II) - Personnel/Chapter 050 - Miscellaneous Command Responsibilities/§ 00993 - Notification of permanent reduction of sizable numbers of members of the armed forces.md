@@ -32,7 +32,7 @@ National security or emergency.—Subsections (a) and (b) do not apply if the Pr
 
 Definitions.—In this section:
 
-&emsp;(1) The term "indirect reduction" means subsequent planned reductions or relocations in base operations support services and personnel able to occur due to the direct reductions.
+&emsp;(1) The term "indirect reduction" means subsequent planned reductions or relocationsin base operations support services and personnel able to occur due to the direct reductions.
 
 &emsp;(2) The term "military installation" means a base, camp, post, station, yard, center, homeport facility for any ship, or other activity under the jurisdiction of the Department of Defense, including any leased facility, which is located within any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or Guam. Such term does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects.
 
@@ -50,7 +50,7 @@ Subsec. (b)(1) to (3). Pub. L. 112–239, §2851(b), added pars. (1) and (2) and
 
 "(2) submits a justification for the reduction and an evaluation of the local strategic and operational impact of such reduction; and
 
-"(3) a period of 21 days has expired following submission of the notice and evaluation required under this subsection, or if sooner, a period of 14 days has expired following the date on which an electronic version of thenotice and justification has been submitted to such committees."
+"(3) a period of 21 days has expired following submission of the notice and evaluation required under this subsection, or if sooner, a period of 14 days has expired following the date on which an electronic version of the notice and justification has been submitted to such committees."
 
 Subsec. (d). Pub. L. 112–239, §2851(c), added subsec. (d).
 

@@ -14,7 +14,7 @@ Planning and Training Grants.—(1) The Secretary shall make grants to States an
 
 (3) The Secretary may make a grant to a State or Indian tribe under paragraph (1) of this subsection only if—
 
-&emsp;(A) the State or Indian tribe certifies that the total amount the State or Indian tribe expends (except amounts of the Federal Government) for the purpose of the grant will at leastequal the average level of expenditure for the last 5 years; and
+&emsp;(A) the State or Indian tribe certifies that the total amount the State or Indian tribe expends (except amounts of the Federal Government) for the purpose of the grant will at least equal the average level of expenditure for the last 5 years; and
 
 &emsp;(B) any emergency response training provided under the grant shall consist of—
 
@@ -62,7 +62,7 @@ Planning and Training Grants.—(1) The Secretary shall make grants to States an
 
 (b)
 
-Compliance With Certain Law.—The Secretary may make a grant to a State under this section in a fiscal year only if the State certifies that the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001, 11003).
+Compliance With Certain Law.—The Secretary may make a grant to a State under this section in a fiscal year only if the State certifiesthat the State complies with sections 301 and 303 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001, 11003).
 
 (c)
 
@@ -302,7 +302,7 @@ Subsec. (k). Pub. L. 117–58, §26002(2), redesignated subsec. (j) as (k).
 
 Subsecs. (b), (c). Pub. L. 114–94, §7203(a)(1), (2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to training grants.
 
-Subsec. (d). Pub. L. 114–94, §7203(a)(1), (b)(2)(A), redesignated subsec. (e) as (d) and substituted "subsection\(a)(3)(A)" for "subsections (a)(2)(A) and (b)(2)(A)". Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 114–94, §7203(a)(1), (b)(2)(A), redesignated subsec. (e) as (d) and substituted "subsection (a)(3)(A)" for "subsections (a)(2)(A) and (b)(2)(A)". Former subsec. (d) redesignated (c).
 
 Subsecs. (e) to (g). Pub. L. 114–94, §7203(a)(1), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
 

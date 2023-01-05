@@ -20,7 +20,7 @@
 
 &emsp;Notwithstanding subsection (c), the Director of the National Security Agency may establish a special rate of pay—
 
-&emsp;&emsp;(A) not to exceed the rate of basic pay payable for level II of the Executive Schedule under section 5313 of title 5 if the Director certifies to the Under Secretary of Defense for Intelligence,<sup>1</sup> in consultation with the Under Secretary of Defense for Personnel and Readiness, that the rate of pay is for positions that perform functions that execute the cyber mission of the Agency; or
+&emsp;&emsp;(A) not to exceed the rate of basic pay payable for level II of the Executive Schedule under section 5313 of title 5 if the Director certifies to the Under Secretary of Defense for Intelligence and Security, in consultation with the Under Secretary of Defense for Personnel and Readiness, that the rate of pay is for positions that perform functions that execute the cyber mission of the Agency; or
 
 &emsp;&emsp;(B) not to exceed the rate of basic pay payable for the Vice President of the United States under section 104 of title 3 if the Director certifies to the Secretary of Defense, by name, individuals that have advanced skills and competencies and that perform critical functions that execute the cyber mission of the Agency.
 
@@ -38,7 +38,7 @@
 
 #### (4) Limitation on use as comparative reference
 
-&emsp;Notwithstanding any other provision of law, special rates of pay and the limitation established under paragraph (1)(B) may not be used as comparative references for the purpose of fixing the rates of basic pay or maximum pay limitations of qualified positions under section 1599f of title 10 or section 226 <sup>2</sup> of the Homeland Security Act of 2002 (6 U.S.C. 147).
+&emsp;Notwithstanding any other provision of law, special rates of pay and the limitation established under paragraph (1)(B) may not be used as comparative references for the purpose of fixing the rates of basic pay or maximum pay limitations of qualified positions under section 1599f of title 10 or section 658 of title 6.
 
 #### (c) Maximum special rate of pay
 
@@ -48,7 +48,7 @@ Except as provided in subsection (b), a minimum rate of pay established for a ca
 
 If the head of an element of the intelligence community removes a category of positions from coverage under a rate of pay authorized by subsection (a) or (b) after that rate of pay takes effect—
 
-&emsp;(1) the head of such element shall provide notice of the loss of coverage of the special rate of pay to each individual in such category; and
+&emsp;(1) the head of such element shall provide notice of the loss of coverage of the specialrate of pay to each individual in such category; and
 
 &emsp;(2) the loss of coverage will take effect on the first day of the first pay period after the date of the notice.
 
@@ -58,13 +58,13 @@ Subject to the limitations in this section, rates of pay established under this 
 
 #### (f) Regulations
 
-The head of each element of the intelligence community shall promulgate regulations tocarry out this section with respect to such element, which shall, to the extent practicable, be comparable to the regulations promulgated to carry out section 5305 of title 5.
+The head of each element of the intelligence community shall promulgate regulations to carry out this section with respect to such element, which shall, to the extent practicable, be comparable to the regulations promulgated to carry out section 5305 of title 5.
 
 #### (g) Reports
 
 #### (1) Requirement for reports
 
-&emsp;Not later than 90 days after the date of the enactment of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018 and 2019,<sup>2</sup> the head of each element of the intelligence community shall submit to the congressional intelligence committees a report on any rates of pay established for such element under this section.
+&emsp;Not later than 90 days after the date of the enactment of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018 and 2019,<sup>1</sup> the head of each element of the intelligence community shall submit to the congressional intelligence committees a report on any rates of pay established for such element under this section.
 
 #### (2) Contents
 
@@ -74,7 +74,7 @@ The head of each element of the intelligence community shall promulgate regulati
 
 &emsp;&emsp;(B) the number of positions in such element that will be subject to such rates of pay.
 
-(July 26, 1947, ch. 343, title I, §113B, as added Pub. L. 115–31, div. N, title III, §305(a), May 5, 2017, 131 Stat. 811; amended Pub. L. 116–92, div. E, title LXIII, §6303, Dec. 20, 2019, 133 Stat. 2186.)
+(July 26, 1947, ch. 343, title I, §113B, as added Pub. L. 115–31, div. N, title III, §305(a), May 5, 2017, 131 Stat. 811; amended Pub. L. 116–92, div. E, title LXIII, §6303, Dec. 20, 2019, 133 Stat. 2186; Pub. L. 117–263, div. F, title LXVIII, §6824(a)(2), div. G, title LXXI, §7143(d)(6), Dec. 23, 2022, 136 Stat. 3615, 3664.)
 
 #### <b>Editorial Notes</b>
 
@@ -82,11 +82,15 @@ The head of each element of the intelligence community shall promulgate regulati
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(2)(A), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-Section 226 of the Homeland Security Act of 2002, referred to in subsec. (b)(4), which was formerly classified to section 147 of Title 6, Domestic Security, was renumbered section 2208 of the Act by Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and transferred to section 658 of Title 6.
-
 The date of the enactment of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018 and 2019, referred to in subsec. (g)(1), probably means the date of the enactment of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018, 2019, and 2020, div. E of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1)(A). Pub. L. 117–263, §6824(a)(2)(A), substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence".
+
+Subsec. (b)(4). Pub. L. 117–263, §7143(d)(6), which directed substitution of "section 658 of title 6" for "226 of the Homeland Security Act of 2002 (6 U.S.C. 147)", could not be executed because of the substantially identical amendment made by Pub. L. 117–263, §6824(a)(2)(B). See below.
+
+Pub. L. 117–263, §6824(a)(2)(B), substituted "section 658 of title 6" for "section 226 of the Homeland Security Act of 2002 (6 U.S.C. 147)".
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §6303(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "Notwithstanding part III of title 5, the head of each element of the intelligence community may establish higher minimum rates of pay for 1 or more categories of positions in such element that require expertise in science, technology, engineering, or mathematics (STEM)."
 
@@ -104,13 +108,5 @@ Subsec. (g)(1). Pub. L. 116–92, §6303(6)(A), substituted "Not later than 90 d
 
 Subsec. (g)(2)(A). Pub. L. 116–92, §6303(6)(B), inserted "or (b)" after "subsection (a)".
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Change of Name
-
-Under Secretary of Defense for Intelligence redesignated and references deemed to refer to Under Secretary of Defense for Intelligence and Security, see section 1621(a) of Pub. L. 116–92, set out as a note under section 137 of Title 10, Armed Forces.
-
-<i><sup>1</sup></i><i> See Change of Name note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

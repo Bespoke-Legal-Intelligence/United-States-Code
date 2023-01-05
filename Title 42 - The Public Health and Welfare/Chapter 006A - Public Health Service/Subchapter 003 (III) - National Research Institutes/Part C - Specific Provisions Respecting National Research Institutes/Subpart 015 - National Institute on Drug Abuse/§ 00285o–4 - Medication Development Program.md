@@ -16,7 +16,7 @@ There is established in the Institute a Medication Development Program through w
 
 &emsp;(6) directly or through grants, contracts, or cooperative agreements, support training in the fundamental sciences and clinical disciplines related to the pharmacotherapeutic treatment of drug abuse, including the use of training stipends, fellowships, and awards where appropriate; and
 
-&emsp;(7) coordinate the activities conducted under this section with related activities conductedwithin the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and other appropriate institutes and shall consult with the Directors of such Institutes.
+&emsp;(7) coordinate the activities conducted under this section with related activities conducted within the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and other appropriate institutes and shall consult with the Directors of such Institutes.
 
 #### (b) Duties
 
@@ -64,7 +64,7 @@ For purposes of this section, the term "pharmacotherapeutics" means medications 
 
 #### References in Text
 
-Sections 1501 and 1504 of title 21, referred to in subsec. (c), were repealed by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188, as amended.
+Sections 1501 and 1504 of title 21, referred to in subsec. (c), were repealed by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188.
 
 #### Amendments
 

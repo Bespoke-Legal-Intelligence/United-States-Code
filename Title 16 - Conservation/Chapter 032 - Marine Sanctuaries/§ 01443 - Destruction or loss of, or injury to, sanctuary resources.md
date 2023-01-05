@@ -4,7 +4,7 @@
 
 #### (1) Liability to United States
 
-&emsp;Any person who destroys, causes the loss of, or injures any sanctuary resource is liable to the United States for an amount equal to the sum of—
+&emsp;Any person who destroys, causes the loss of, or injures any sanctuary resource is liable tothe United States for an amount equal to the sum of—
 
 &emsp;&emsp;(A) the amount of response costs and damages resulting from the destruction, loss, or injury; and
 
@@ -26,7 +26,7 @@
 
 #### (4) Limits to liability
 
-&emsp;Nothing in sections 4281–4289 of the Revised Statutes of the United States or section 30706of title 46 shall limit the liability of any person under this chapter.
+&emsp;Nothing in sections 4281–4289 of the Revised Statutes of the United States or section 30706 of title 46 shall limit the liability of any person under this chapter.
 
 #### (b) Response actions and damage assessment
 
@@ -86,7 +86,7 @@ An action for response costs or damages under subsection (c) shall be barred unl
 
 #### References in Text
 
-Sections 4281–4289 of the Revised Statutes of the United States, referred to in subsec. (a)(4), were classified to sections 181 to 188 of the former Appendix to Title 46, Shipping, and section 175 of former Title 46. Sections 4281 to 4287 and 4289 of the Revised Statutes were repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. Section 4288 of the Revised Statutes (section 175 of former Title 46) was repealed by act Oct. 9, 1940, ch. 777, §7, 54 Stat. 1028. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
+Sections 4281–4289 of the Revised Statutes of the United States, referred to in subsec. (a)(4), were classified to sections 181 to 188 of the former Appendix to Title 46, Shipping, and section 175 of former Title 46. Sections 4281 to 4287 and 4289 of the Revised Statutes were repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§6(c), 19, Oct. 6, 2006, 120Stat. 1509, 1710. Section 4288 of the Revised Statutes (section 175 of former Title 46) was repealed by act Oct. 9, 1940, ch. 777, §7, 54 Stat. 1028. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding section 101 of Title 46.
 
 #### Codification
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(v) implementation practices, including disclosure methods and phase-in of compliance;
 
-&emsp;&emsp;&emsp;(vi) the safety and security of benchmarking tools offered by government agencies, and the resiliency of those tools against cyber attacks; and
+&emsp;&emsp;&emsp;(vi) the safety and security of benchmarking tools offered by governmentagencies, and the resiliency of those tools against cyber attacks; and
 
 &emsp;&emsp;&emsp;(vii) international experiences with regard to building benchmarking and disclosure laws and data aggregation for multitenant buildings.
 
@@ -48,7 +48,7 @@
 
 &emsp;Not later than 18 months after April 30, 2015, and following opportunity for public notice and comment, the Secretary of Energy, in coordination with other relevant agencies, shall maintain, and if necessary create, a database for the purpose of storing and making available public energy-related information on commercial and multifamily buildings, including—
 
-&emsp;&emsp;(A) data provided under Federal, State, local, and other laws or programs regardingbuilding benchmarking and energy information disclosure;
+&emsp;&emsp;(A) data provided under Federal, State, local, and other laws or programs regarding building benchmarking and energy information disclosure;
 
 &emsp;&emsp;(B) information on buildings that have disclosed energy ratings and certifications; and
 

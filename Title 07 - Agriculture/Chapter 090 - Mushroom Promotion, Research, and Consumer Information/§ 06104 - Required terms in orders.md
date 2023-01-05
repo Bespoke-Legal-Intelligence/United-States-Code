@@ -122,7 +122,7 @@ The order shall define the powers and duties of the Council, which shall include
 
 &emsp;&emsp;(B) the plan or project shall become effective on the approval of the Secretary; and
 
-&emsp;&emsp;(C) the contracting party shall keep accurate records of all of its transactions, account for funds received and expended, make periodic reports to the Council of activities conducted, and make such other reports as the Council or the Secretary may require.
+&emsp;&emsp;(C) the contracting party shall keep accurate records of all of its transactions, account for funds received and expended, make periodic reports to the Council of activitiesconducted, and make such other reports as the Council or the Secretary may require.
 
 #### (3) Producer organizations
 
@@ -174,7 +174,7 @@ The order shall define the powers and duties of the Council, which shall include
 
 #### (3) Use of assessments
 
-&emsp;The order shall provide that the assessments shall be used for payment of the expenses inimplementing and administering this chapter, with provision for a reasonable reserve, and to cover those administrative costs incurred by the Secretary in implementing and administering this chapter, except for the salaries of Government employees incurred in conducting referenda.
+&emsp;The order shall provide that the assessments shall be used for payment of the expenses in implementing and administering this chapter, with provision for a reasonable reserve, and to cover those administrative costs incurred by the Secretary in implementing and administering this chapter, except for the salaries of Government employees incurred in conducting referenda.
 
 #### (4) Limitation on collection
 
@@ -232,7 +232,7 @@ The order also shall contain such terms and conditions, not inconsistent with th
 
 #### References in Text
 
-The Agricultural Marketing Act of 1946, referred to in subsec. (h), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, as amended, which is classified generally to chapter 38 (§1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
+The Agricultural Marketing Act of 1946, referred to in subsec. (h), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1621 of this title and Tables.
 
 #### Codification
 

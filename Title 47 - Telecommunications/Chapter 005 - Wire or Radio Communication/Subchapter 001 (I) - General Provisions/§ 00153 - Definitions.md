@@ -10,9 +10,11 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;&emsp;(B) non-interconnected VoIP service;
 
-&emsp;&emsp;(C) electronic messaging service; and
+&emsp;&emsp;(C) electronic messaging service;
 
-&emsp;&emsp;(D) interoperable video conferencing service.
+&emsp;&emsp;(D) interoperable video conferencing service; and
+
+&emsp;&emsp;(E) any audio or video communications service used by inmates for the purpose of communicating with individuals outside the correctional institution where the inmate is held, regardless of technology used.
 
 #### (2) Affiliate
 
@@ -20,7 +22,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (3) Amateur station
 
-&emsp;The term "amateur station" means a radio station operated by a duly authorized person interested in radio technique solely with a personal aim and without pecuniary interest.
+&emsp;The term "amateur station" means a radio station operated by a duly authorized personinterested in radio technique solely with a personal aim and without pecuniary interest.
 
 #### (4) AT\&T Consent Decree
 
@@ -30,7 +32,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;The term "Bell operating company"—
 
-&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone Company, New England Telephone and Telegraph Company, New Jersey Bell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell TelephoneCompany of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond State Telephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
+&emsp;&emsp;(A) means any of the following companies: Bell Telephone Company of Nevada, Illinois Bell Telephone Company, Indiana Bell Telephone Company, Incorporated, Michigan Bell Telephone Company, New England Telephone and Telegraph Company, New Jersey Bell Telephone Company, New York Telephone Company, U S West Communications Company, South Central Bell Telephone Company, Southern Bell Telephone and Telegraph Company, Southwestern Bell Telephone Company, The Bell Telephone Company of Pennsylvania, The Chesapeake and Potomac Telephone Company, The Chesapeake and Potomac Telephone Company of Maryland, The Chesapeake and Potomac Telephone Company of Virginia, The Chesapeake and Potomac Telephone Company of West Virginia, The Diamond State Telephone Company, The Ohio Bell Telephone Company, The Pacific Telephone and Telegraph Company, or Wisconsin Telephone Company; and
 
 &emsp;&emsp;(B) includes any successor or assign of any such company that provides wireline telephone exchange service; but
 
@@ -98,7 +100,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (21) Foreign communication
 
-&emsp;The term "foreign communication" or "foreign transmission" means communication or transmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
+&emsp;The term "foreign communication" or "foreign transmission" means communication ortransmission from or to any place in the United States to or from a foreign country, or between a station in the United States and a mobile station located outside the United States.
 
 #### (22) Great Lakes Agreement
 
@@ -110,7 +112,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (24) Information service
 
-&emsp;The term "information service" means the offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via telecommunications, and includes electronic publishing, but does not include any useof any such capability for the management, control, or operation of a telecommunications system or the management of a telecommunications service.
+&emsp;The term "information service" means the offering of a capability for generating, acquiring, storing, transforming, processing, retrieving, utilizing, or making available information via telecommunications, and includes electronic publishing, but does not include any use of any such capability for the management, control, or operation of a telecommunications system or the management of a telecommunications service.
 
 #### (25) Interconnected VoIP service
 
@@ -158,7 +160,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (35) Network element
 
-&emsp;The term "network element" means a facility or equipment used in the provision of a telecommunications service. Such term also includes features, functions, and capabilities that are provided by means of such facility or equipment, including subscriber numbers, databases, signaling systems, and information sufficient for billing and collection or used in the transmission, routing, or other provision of a telecommunications service.
+&emsp;The term "network element" means a facility or equipment used in the provision of a telecommunications service. Such term also includes features, functions, and capabilities that are provided by means of such facility or equipment, including subscriber numbers, databases, signaling systems, and information sufficient for billing and collection or used inthe transmission, routing, or other provision of a telecommunications service.
 
 #### (36) Non-interconnected VoIP service
 
@@ -178,7 +180,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (38) Operator
 
-&emsp;(A) The term "operator" on a ship of the United States means, for the purpose of partsII and III of subchapter III of this chapter, a person holding a radio operator's license of the proper class as prescribed and issued by the Commission.
+&emsp;(A) The term "operator" on a ship of the United States means, for the purpose of parts II and III of subchapter III of this chapter, a person holding a radio operator's license of the proper class as prescribed and issued by the Commission.
 
 &emsp;(B) "Operator" on a foreign ship means, for the purpose of part II of subchapter III of this chapter, a person holding a certificate as such of the proper class complying with the provisions of the radio regulations annexed to the International Telecommunication Convention in force, or complying with an agreement or treaty between the United States and the country in which the ship is registered.
 
@@ -242,7 +244,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 #### (48) State commission
 
-&emsp;The term "State commission" means the commission, board, or official (by whatevername designated) which under the laws of any State has regulatory jurisdiction with respect to intrastate operations of carriers.
+&emsp;The term "State commission" means the commission, board, or official (by whatever name designated) which under the laws of any State has regulatory jurisdiction with respect to intrastate operations of carriers.
 
 #### (49) Station license
 
@@ -294,7 +296,7 @@ For the purposes of this chapter, unless the context otherwise requires—
 
 &emsp;The term "wire communication" or "communication by wire" means the transmission of writing, signs, signals, pictures, and sounds of all kinds by aid of wire, cable, or other like connection between the points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus, and services (among other things, the receipt, forwarding, and delivery of communications) incidental to such transmission.
 
-(June 19, 1934, ch. 652, title I, §3, 48 Stat. 1065; May 20, 1937, ch. 229, §2, 50 Stat. 189; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; July 16, 1952, ch. 879, §2, 66 Stat. 711; Apr. 27, 1954, ch. 175, §§2, 3, 68 Stat. 64; Aug. 13, 1954, ch. 729, §3, 68 Stat. 707; Aug. 13, 1954, ch. 735, §1, 68 Stat. 729; Aug. 6, 1956, ch. 973, §3, 70 Stat. 1049; Pub. L. 89–121, §1, Aug. 13, 1965, 79 Stat. 511; Pub. L. 90–299, §2, May 3, 1968, 82 Stat. 112; Pub. L. 97–259, title I, §120(b), Sept. 13, 1982, 96 Stat. 1097; Pub. L. 103–66, title VI, §6002(b)(2)(B)(ii), Aug. 10, 1993, 107 Stat. 396; Pub. L. 104–104, §3(a), (c), Feb. 8, 1996, 110 Stat. 58, 61; Pub. L. 105–33, title III, §3001(b), Aug. 5, 1997, 111 Stat. 258; Pub. L. 111–260, title I, §101, Oct. 8, 2010, 124 Stat. 2752.)
+(June 19, 1934, ch. 652, title I, §3, 48 Stat. 1065; May 20, 1937, ch. 229, §2, 50 Stat. 189; Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; July 16, 1952, ch. 879, §2, 66 Stat. 711; Apr. 27, 1954, ch. 175, §§2, 3, 68 Stat. 64; Aug. 13, 1954, ch. 729, §3, 68 Stat. 707; Aug. 13, 1954, ch. 735, §1, 68 Stat. 729; Aug. 6, 1956, ch. 973, §3, 70 Stat. 1049; Pub. L. 89–121, §1, Aug. 13, 1965, 79 Stat. 511; Pub.L. 90–299, §2, May 3, 1968, 82 Stat. 112; Pub. L. 97–259, title I, §120(b), Sept. 13, 1982, 96 Stat. 1097; Pub. L. 103–66, title VI, §6002(b)(2)(B)(ii), Aug. 10, 1993, 107 Stat. 396; Pub. L. 104–104, §3(a), (c), Feb. 8, 1996, 110 Stat. 58, 61; Pub. L. 105–33, title III, §3001(b), Aug. 5, 1997, 111 Stat. 258; Pub. L. 111–260, title I, §101, Oct. 8, 2010, 124 Stat. 2752; Pub. L. 117–338, §2(b), Jan. 5, 2023, 136 Stat. 6156.)
 
 #### <b>Editorial Notes</b>
 
@@ -313,6 +315,8 @@ In par. (41)(A), "chapter 71 of title 46" substituted for "the Act of May 12, 19
 References to Philippine Islands in pars. (28) and (58) of this section omitted on authority of Proc. No. 2695, issued pursuant to section 1394 of Title 22, Foreign Relations and Intercourse, which proclamation recognized the independence of Philippine Islands as of July 4, 1946. Proc. No. 2695 is set out under section 1394 of Title 22.
 
 #### Amendments
+
+<b>2023</b>—Par. (1)(E). Pub. L. 117–338 added subpar. (E).
 
 <b>2010</b>—Pub. L. 111–260 added pars. (53) to (59), reordered pars. in alphabetical order based on headings of pars., and renumbered pars. as so reordered, resulting in the renumbering of pars. (1) to (59) as pars. (2) to (13), (15) to (17), (20) to (24), (26), (28) to (35), (37) to (59), (1), (14), (18), (19), (25), (36), and (27), respectively.
 
@@ -392,7 +396,7 @@ Pub. L. 111–260, §2, Oct. 8, 2010, 124 Stat. 2751, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (b), no person shall be liable for a violation of the requirements of this Act \[see Short Title of 2010 Amendment note set out under section 609 of this title\] (or of the provisions of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] that are amended or added by this Act) with respect to video programming, online content, applications, services, advanced communicationsservices, or equipment used to provide or access advanced communications services to the extent such person—
+In General.—Except as provided in subsection (b), no person shall be liable for a violation of the requirements of this Act \[see Short Title of 2010 Amendment note set out under section 609 of this title\] (or of the provisions of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] that are amended or added by this Act) with respect to video programming, online content, applications, services, advanced communications services, or equipment used to provide or access advanced communications services to the extent such person—
 
 &emsp;"(1) transmits, routes, or stores in intermediate or transient storage the communications made available through the provision of advanced communications services by a third party; or
 

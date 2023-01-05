@@ -118,7 +118,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 #### (C) Additional delegation authority
 
-&emsp;&emsp;The Secretary may allow an eligible entity described in subparagraph (A)(i) to delegate its authority under a permit under this subsection to any entity described in subclause (i) or (ii) of subparagraph (A) with respect toremoval in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries in the State of Oregon above Bonneville Dam and below McNary Dam.
+&emsp;&emsp;The Secretary may allow an eligible entity described in subparagraph (A)(i) to delegateits authority under a permit under this subsection to any entity described in subclause (i) or (ii) of subparagraph (A) with respect to removal in the mainstem of the Columbia River above river mile 112 and below McNary Dam, in the Columbia River tributaries in the State of Washington, or in tributaries in the State of Oregon above Bonneville Dam and below McNary Dam.
 
 #### (D) Committee requirements
 
@@ -140,7 +140,7 @@ The Secretary shall not approve the intentional lethal taking of any pinniped fr
 
 #### (iv) Nonapplicability of FACA
 
-&emsp;&emsp;&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a committee established under this subparagraph.
+&emsp;&emsp;&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply to a committee established under this subparagraph.
 
 #### (7) Individual exception
 
@@ -180,7 +180,7 @@ The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advis
 
 &emsp;(A) shall to the maximum extent practicable, consist of an equitable balance among representatives of resource user interests and nonuser interests; and
 
-&emsp;(B) shall not be subject to the Federal Advisory Committee Act (5 App. U.S.C.).
+&emsp;(B) shall not be subject to chapter 10 of title 5.
 
 (2) Meetings of any task force established under this section shall be open to the public, and prior notice of those meetings shall be given to the public by the task force in a timely fashion.
 
@@ -190,7 +190,7 @@ The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advis
 
 (2) In developing and implementing a take reduction plan under section 1387 of this title for Gulf of Maine harbor porpoise, the Secretary shall consider all actions already taken to reduce incidental mortality and serious injury of such stock, and may, based on the recommendations of the take reduction team for such stock, modify the time period required for compliance with section 1387(f)(5)(A) of this title, but in no case may such modification extend the date of compliance beyond April 1, 1997.
 
-(Pub. L. 92–522, title I, §120, as added Pub. L. 103–238, §23, Apr. 30, 1994, 108 Stat. 562; amended Pub. L. 115–329, §3, Dec. 18, 2018, 132 Stat. 4475.)
+(Pub. L. 92–522, title I, §120, as added Pub. L. 103–238, §23, Apr. 30, 1994, 108 Stat. 562; amended Pub. L. 115–329, §3, Dec. 18, 2018, 132 Stat. 4475; Pub. L. 117–286, §4(a)(110), Dec. 27, 2022, 136 Stat. 4317.)
 
 #### <b>Editorial Notes</b>
 
@@ -198,9 +198,11 @@ The Secretary shall establish a Pinniped-Fishery Interaction Task Force to advis
 
 The Endangered Species Act of 1973, referred to in subsecs. (b)(1)(A), (B), (e)(1), and (f)(1)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsecs. (f)(6)(D)(iv) and (i)(1)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (i)(1)(B). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 App. U.S.C.)."
 
 <b>2018</b>—Subsec. (f). Pub. L. 115–329 amended subsec. (f) generally. Prior to amendment, subsec. (f) related to a scientific investigation and report on the impact of California sea lions and Pacific harbor seals.
 
@@ -213,4 +215,6 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 #### Treaty Rights of Federally Recognized Indian Tribes
 
 Pub. L. 115–329, §4, Dec. 18, 2018, 132 Stat. 4478, provided that: "Nothing in this Act \[see Short Title of 2018 Amendment note set out under section 1361 of this title\] or the amendments made by this Act shall be construed to enlarge, confirm, adjudicate, affect, or modify any treaty or other right of an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304))."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

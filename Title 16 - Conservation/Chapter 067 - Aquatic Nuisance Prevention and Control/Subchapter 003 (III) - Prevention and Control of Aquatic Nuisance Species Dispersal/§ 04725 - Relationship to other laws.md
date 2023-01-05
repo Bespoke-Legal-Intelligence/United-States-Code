@@ -18,7 +18,7 @@ All actions taken by Federal agencies in implementing the provisions of section 
 
 Compliance with the control and eradication measures of any State or political subdivision thereof regarding aquatic nuisance species shall not relieve any person of the obligation to comply with the provisions of this subchapter.
 
-(Pub. L. 101–646, title I, §1205, Nov. 29, 1990, 104 Stat. 4771; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996,110 Stat. 4091; Pub. L. 115–282, title IX, §903(h)(2), Dec. 4, 2018, 132 Stat. 4363.)
+(Pub. L. 101–646, title I, §1205, Nov. 29, 1990, 104 Stat. 4771; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 115–282, title IX, §903(h)(2), Dec. 4, 2018, 132 Stat. 4363.)
 
 #### <b>Editorial Notes</b>
 

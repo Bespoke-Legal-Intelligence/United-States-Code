@@ -16,7 +16,7 @@ For the purposes of section 583j–3 of this title, there are authorized to be a
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–334 substituted "2023" for "2018".
 
-<b>2015</b>—Subsec. (b). Pub. L. 114–54 substituted "there are authorized to be appropriated $3,000,000 for each of fiscal years 2016 through 2018" for "during the five-year period beginning October 1, 1992, there are authorized to be appropriated $1,000,000 annually".
+<b>2015</b>—Subsec. (b). Pub. L. 114–54 substituted "there are authorized to be appropriated $3,000,000 for each offiscal years 2016 through 2018" for "during the five-year period beginning October 1, 1992, there are authorized to be appropriated $1,000,000 annually".
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–106 substituted "beginning October 1, 1992" for "following November 16, 1990".
 

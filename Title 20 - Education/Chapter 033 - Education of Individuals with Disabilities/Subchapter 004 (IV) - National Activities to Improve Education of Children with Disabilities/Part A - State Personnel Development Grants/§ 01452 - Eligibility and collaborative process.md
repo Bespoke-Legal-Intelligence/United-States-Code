@@ -12,7 +12,7 @@ A State educational agency may apply for a grant under this part for a grant per
 
 &emsp;&emsp;(A) not less than 1 institution of higher education; and
 
-&emsp;&emsp;(B) the State agencies responsible for administering subchapter III, early education, child care, and vocational rehabilitation programs.
+&emsp;&emsp;(B) the State agencies responsible for administering subchapter III, early education,child care, and vocational rehabilitation programs.
 
 #### (2) Other partners
 

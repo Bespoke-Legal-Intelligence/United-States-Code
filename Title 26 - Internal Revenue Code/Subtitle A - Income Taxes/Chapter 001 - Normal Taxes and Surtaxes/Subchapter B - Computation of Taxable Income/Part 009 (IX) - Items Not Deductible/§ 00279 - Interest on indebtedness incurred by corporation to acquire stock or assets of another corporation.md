@@ -22,7 +22,7 @@ For purposes of this section, the term "corporate acquisition indebtedness" mean
 
 &emsp;&emsp;(A) subordinated to the claims of trade creditors of the issuing corporation generally, or
 
-&emsp;&emsp;(B) expressly subordinated in right of payment to the payment of any substantial amount of unsecured indebtedness, whether outstanding or subsequently issued, of the issuing corporation,
+&emsp;&emsp;(B) expressly subordinated in right of payment to the payment of any substantialamount of unsecured indebtedness, whether outstanding or subsequently issued, of the issuing corporation,
 
 &emsp;(3) the bond or other evidence of indebtedness is either—
 

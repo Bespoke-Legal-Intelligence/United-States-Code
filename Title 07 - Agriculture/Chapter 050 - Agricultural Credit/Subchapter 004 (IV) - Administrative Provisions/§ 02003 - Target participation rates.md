@@ -22,7 +22,7 @@
 
 #### (2) Allocation
 
-&emsp;The Secretary shall allocate such loans on the basis of the proportion of members of socially disadvantaged groups in a county andthe availability of inventory farmland, with the greatest amount of loan funds being distributed in the county with the greatest proportion of socially disadvantaged group members and the greatest amount of available inventory farmland.
+&emsp;The Secretary shall allocate such loans on the basis of the proportion of members of socially disadvantaged groups in a county and the availability of inventory farmland, with the greatest amount of loan funds being distributed in the county with the greatest proportion of socially disadvantaged group members and the greatest amount of available inventory farmland.
 
 #### (3) Indian reservations
 

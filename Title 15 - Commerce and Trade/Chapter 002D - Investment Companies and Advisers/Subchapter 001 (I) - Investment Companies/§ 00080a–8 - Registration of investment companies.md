@@ -10,7 +10,7 @@ Every registered investment company shall file with the Commission, within such 
 
 &emsp;(1) a recital of the policy of the registrant in respect of each of the following types of activities, such recital consisting in each case of a statement whether the registrant reserves freedom of action to engage in activities of such type, and if such freedom of action is reserved, a statement briefly indicating, insofar as is practicable, the extent to which the registrant intends to engage therein: (A) the classification and subclassifications, as defined in sections 80a–4 and 80a–5 of this title, within which the registrant proposes to operate; (B) borrowing money; (C) the issuance of senior securities; (D) engaging in the business of underwriting securities issued by other persons; (E) concentrating investments in a particular industry or group of industries; (F) the purchase and sale of real estate and commodities, or either of them; (G) making loans to other persons; and (H) portfolio turn-over (including a statement showing the aggregate dollar amount of purchases and sales of portfolio securities, other than Government securities, in each of the last three full fiscal years preceding the filing of such registration statement);
 
-&emsp;(2) a recital of all investment policies of the registrant, not enumerated in paragraph (1), which are changeable only if authorized by shareholder vote;
+&emsp;(2) a recital of all investment policies of the registrant, not enumerated in paragraph (1),which are changeable only if authorized by shareholder vote;
 
 &emsp;(3) a recital of all policies of the registrant, not enumerated in paragraphs (1) and (2), in respect of matters which the registrant deems matters of fundamental policy;
 
@@ -22,7 +22,7 @@ Every registered investment company shall file with the Commission, within such 
 
 The Commission shall make provision, by permissive rules and regulations or order, for the filing of the following, or so much of the following as the Commission may designate, in lieu of the information and documents required pursuant to subsection (b):
 
-&emsp;(1) copies of the most recent registration statement filed by the registrant under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and currently effective under such Act, or if the registrant has not filed such a statement, copies of a registration statement filed by the registrant under the Securities Exchange Actof 1934 \[15 U.S.C. 78a et seq.\] and currently effective under such Act;
+&emsp;(1) copies of the most recent registration statement filed by the registrant under the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and currently effective under such Act, or if the registrant has not filed such a statement, copies of a registration statement filed by the registrant under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] and currently effective under such Act;
 
 &emsp;(2) copies of any reports filed by the registrant pursuant to section 78m or 78o(d) of this title; and
 
@@ -44,19 +44,31 @@ If it appears to the Commission that a registered investment company has failed 
 
 Whenever the Commission, on its own motion or upon application, finds that a registered investment company has ceased to be an investment company, it shall so declare by order and upon the taking effect of such order the registration of such company shall cease to be in effect. If necessary for the protection of investors, an order under this subsection may be made upon appropriate conditions. The Commission's denial of any application under this subsection shall be by order.
 
-(Aug. 22, 1940, ch. 686, title I, §8, 54 Stat. 803; Pub. L. 86–507, §1(14), June 11, 1960, 74 Stat. 201; Pub. L. 91–547, §3(c), Dec. 14, 1970, 84 Stat. 1415.)
+#### (g) Data standards for registration statements
+
+#### (1) Requirement
+
+&emsp;The Commission shall, by rule, adopt data standards for all registration statements required to be filed with the Commission under this section, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
+
+#### (2) Consistency
+
+&emsp;The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(Aug. 22, 1940, ch. 686, title I, §8, 54 Stat. 803; Pub. L. 86–507, §1(14), June 11, 1960, 74 Stat. 201; Pub. L. 91–547, §3(c), Dec. 14, 1970, 84 Stat. 1415; Pub. L. 117–263, div. E, title LVIII, §5821(b)(1), Dec. 23, 2022, 136 Stat. 3424.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsecs. (b)(5) and (c)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsecs. (b)(5) and (c)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsecs. (b)(5) and (c)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsecs. (b)(5) and (c)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 Words "such Act", referred to in subsec. (c)(1), mean the Securities Act of 1933 and the Securities Exchange Act of 1934, respectively.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g). Pub. L. 117–263 added subsec. (g).
 
 <b>1970</b>—Subsec. (b)(2). Pub. L. 91–547, §3(c)(1), substituted "all investment policies of the registrant" and "which are changeable only if authorized by shareholder vote" for "the policy of the registrant in respect of matters" and "which the registrant deems matters of fundamental policy and elects to treat as such", respectively. Former provisions are covered in par. (3).
 
@@ -69,6 +81,10 @@ Subsec. (b)(3) to (5). Pub. L. 91–547, §3(c)(2), (3), added par. (3) and rede
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### Rule of Construction—No New Disclosure Requirements
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
 
 #### <b>Executive Documents</b>
 

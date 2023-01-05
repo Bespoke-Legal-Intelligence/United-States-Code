@@ -22,6 +22,8 @@ For purposes of this section—
 
 &emsp;(9) The term "dependent child" means an unmarried child, including a dependent stepchild or an adopted child, who is under the age of 18 years or who because of physical or mental disability is incapable of self-support.
 
+&emsp;(10) The terms "assassinated" and "assassination" mean the killing of a judge or special trial judge that is motivated by the performance by the judge or special trial judge of his or her official duties.
+
 #### (b) Election
 
 #### (1) Judges
@@ -30,13 +32,7 @@ For purposes of this section—
 
 #### (2) Special trial judges
 
-&emsp;Any special trial judge may by written election filed with the chief judge bring himself or herself within the purview of this section. Such election shall be filed not later than the later of 6 months after—
-
-&emsp;&emsp;(A) 6 months after the date of the enactment of this paragraph,
-
-&emsp;&emsp;(B) the date the judge takes office, or
-
-&emsp;&emsp;(C) the date the judge marries.
+&emsp;Any special trial judge may by written election filed with the chief judge elect the application of this section. Such election shall be filed while such individual is a special trial judge.
 
 #### (c) Survivors annuity fund
 
@@ -72,7 +68,7 @@ For purposes of this section—
 
 #### (d) Deposits in survivors annuity fund
 
-Each judge or special trial judge electing under subsection (b) shall deposit, with interest at 3 percent per annum, compounded on December 31 of each year, to the credit of the survivors annuity fund, a sum equal to 3.5 percent of his judge's or special trial judge's salary and of his basic salary, pay, or compensation for service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, and for any other civilian service within the purview of section 8332 of title 5 of the United States Code. Each such judge or special trial judge may elect to make such deposits in installments during the continuance of his service as a judge or special trial judge in such amount and under such conditions as may be determined in each instance by the chief judge. Notwithstanding the failure of a judge or special trial judge to make such deposit, credit shall be allowed for the service rendered, but the annuity of the surviving spouse of such judge or special trial judge shall be reduced by an amount equal to 10 percent of the amount of such deposit, computed as of the date of the death of such judge or special trial judge, unless such surviving spouse shall elect to eliminate such service entirely from credit under subsection (n), except that no deposit shall be required from a judge or special trial judge for any year with respect to which deductions from his salary were actually made under the civil service retirement laws and no deposit shall be required for any honorable service in the Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States.
+Each judge or special trial judge electing under subsection (b) shall deposit, with interest at 3 percent per annum, compounded on December 31 of each year, to the credit of the survivors annuity fund, a sum equal to 3.5 percent of his judge's or special trial judge's salary and of his basic salary, pay, or compensation for service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, and for any other civilian service within the purview of sections 8332 and 8411 of title 5 of the United States Code. Each such judge or special trial judge may elect to make such deposits in installments during the continuance of his service as a judge or special trial judge in such amount and under such conditions as may be determined in each instance by the chief judge. Notwithstanding the failure of a judge or special trial judge to make such deposit, credit shall be allowed for the service rendered, but the annuity of the surviving spouse of such judge or special trial judge shall be reduced by an amount equal to 10 percent of the amount of such deposit, computed as of the date of the death of such judge or special trial judge, unless such surviving spouse shall elect to eliminate such service entirely from credit under subsection (n), except that no deposit shall be required from a judge or special trial judge for any year with respect to which deductions from his salary were actually made under the civil service retirement laws and no deposit shall be required for any honorable service in the Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States.
 
 #### (e) Investment of survivors annuity fund
 
@@ -88,27 +84,75 @@ If the service of any judge or special trial judge electing under subsection (b)
 
 #### (h) Entitlement to annuity
 
-In case any judge or special trial judge electing under subsection (b) shall die while a judge or special trial judge after having rendered at least 5 years of civilian service computed as prescribed in subsection (n), for the last 5 years of which the salary deductions provided for by subsection (c)(1) or the deposits required by subsection (d) have actually been made or the salary deductions required by the civil service retirement laws have actually been made—
+#### (1) In general
 
-&emsp;(1) if such judge or special trial judge is survived by a surviving spouse but not by a dependent child, there shall be paid to such surviving spouse an annuity beginning with the day of the death of the judge or special trial judge or following the surviving spouse's attainment of the age of 50 years, whichever is the later, in an amount computed as provided in subsection (m); or
+#### (A) Annuity to surviving spouse
 
-&emsp;(2) if such judge or special trial judge is survived by a surviving spouse and a dependent child or children, there shall be paid to such surviving spouse an immediate annuity in an amount computed as provided in subsection (m), and there shall also be paid to or on behalf of each such child an immediate annuity equal to the lesser of—
+&emsp;&emsp;If a judge or special trial judge described in paragraph (2) is survived by a surviving spouse but not by a dependent child, there shall be paid to such surviving spouse an annuity beginning with the day of the death of the judge or special trial judge or following the surviving spouse's attainment of age 50, whichever is the later, in an amount computed as provided in subsection (m).
 
-&emsp;&emsp;(A) 10 percent of the average annual salary of such judge or special trial judge (determined in accordance with subsection (m)), or
+#### (B) Annuity to surviving spouse and child
 
-&emsp;&emsp;(B) 20 percent of such average annual salary, divided by the number of such children; or
+&emsp;&emsp;If a judge or special trial judge described in paragraph (2) is survived by a surviving spouse and dependent child or children, there shall be paid to such surviving spouse an annuity, beginning on the day of the death of the judge or special trial judge, in an amount computed as provided in subsection (m), and there shall also be paid to or on behalf of each such child an immediate annuity equal to the lesser of—
 
-&emsp;(3) if such judge or special trial judge leaves no surviving spouse but leaves a surviving dependent child or children, there shall be paid to or on behalf of each such child an immediate annuity equal to the lesser of—
+&emsp;&emsp;&emsp;(i) 10 percent of the average annual salary of such judge or special trial judge (determined in accordance with subsection (m)), or
 
-&emsp;&emsp;(A) 20 percent of the average annual salary of such judge or special trial judge (determined in accordance with subsection (m)), or
+&emsp;&emsp;&emsp;(ii) 20 percent of such average annual salary, divided by the number of such children.
 
-&emsp;&emsp;(B) 40 percent of such average annual salary, divided by the number of such children.
+#### (C) Annuity to surviving dependent children
 
-> The annuity payable to a surviving spouse under this subsection shall be terminable upon such surviving spouse's death or such surviving spouse's remarriage before attaining age 55. The annuity payable to a child under this subsection shall be terminable upon (A) his attaining the age of 18 years, (B) his marriage, or (C) his death, whichever first occurs, except that if such child is incapable of self-support by reason of mental or physical disability his annuity shall be terminable only upon death, marriage, or recovery from such disability. In case of thedeath of a surviving spouse of a judge or special trial judge leaving a dependent child or children of the judge or special trial judge surviving such spouse, the annuity of such child or children shall be recomputed and paid as provided in paragraph (3) of this subsection. In any case in which the annuity of a dependent child is terminated under this subsection, the annuities of any remaining dependent child or children, based upon the service of the same judge or special trial judge, shall be recomputed and paid as though the child whose annuity was so terminated had not survived such judge or special trial judge.
+&emsp;&emsp;If a judge or special trial judge described in paragraph (2) leaves no surviving spouse but leaves a surviving dependent child or children, there shall be paid to or on behalf of each such child an immediate annuity equal to the lesser of—
 
-#### (i) Determination of dependency and disability
+&emsp;&emsp;&emsp;(i) 20 percent of the average annual salary of such judge or special trial judge (determined in accordance with subsection (m)), or
 
-Questions of dependency and disability arising under this section shall be determined by the chief judge subject to review only by the Tax Court, the decision of which shall be final and conclusive. The chief judge may order or direct at any time such medical or other examinations as he shall deem necessary to determine the facts relative to the nature and degree of disability of any dependent child who is an annuitant or applicant for annuity under this section, and may suspend or deny any such annuity for failure to submit to any examination so ordered or directed.
+&emsp;&emsp;&emsp;(ii) 40 percent of such average annual salary divided by the number of such children.
+
+#### (2) Covered judges
+
+&emsp;Paragraph (1) applies to any judge or special trial judge electing under subsection (b)—
+
+&emsp;&emsp;(A) who dies while a judge or special trial judge after having rendered at least 18 months of civilian service computed as prescribed in subsection (n), for the last 18 months of which the salary deductions provided for by subsection (c)(1) or the deposits required by subsection (d) have actually been made or the salary deductions required by the civil service retirement laws have actually been made, or
+
+&emsp;&emsp;(B) who dies by assassination after having rendered less than 18 months of civilian service computed as prescribed in subsection (n) if, for the period of such service, the salary deductions provided for by subsection (c)(1) or the deposits required by subsection (d) have actually been made.
+
+#### (3) Termination of annuity
+
+#### (A) Surviving spouse
+
+&emsp;&emsp;The annuity payable to a surviving spouse under this subsection shall be terminable upon such surviving spouse's death or such surviving spouse's remarriage before attaining age 55.
+
+#### (B) Surviving child
+
+&emsp;&emsp;Any annuity payable to a child under this subsection shall be terminable upon the earliest of—
+
+&emsp;&emsp;&emsp;(i) the child's attainment of age 18,
+
+&emsp;&emsp;&emsp;(ii) the child's marriage, or
+
+&emsp;&emsp;&emsp;(iii) the child's death,
+
+> &emsp;&emsp;except that if such child is incapable of self-support by reason of mental or physical disability the child's annuity shall be terminable only upon death, marriage, or recovery from such disability.
+
+#### (C) Dependent child after death of surviving spouse
+
+&emsp;&emsp;In case of the death of a surviving spouse of a judge or special trial judge leaving a dependent child or children of the judge or special trial judge surviving such spouse, the annuity of such child or children shall be recomputed and paid as provided in paragraph (1)(C).
+
+#### (D) Recomputation with respect to other dependent children
+
+&emsp;&emsp;In any case in which the annuity of a dependent child is terminated under this subsection, the annuities of any remaining dependent child or children based upon the service of the same judge or special trial judge shall be recomputed and paid as though the child whose annuity was so terminated had not survived such judge.
+
+#### (E) Special rule for assassinated judges
+
+&emsp;&emsp;In the case of a survivor of a judge or special trial judge described in paragraph (2)(B), there shall be deducted from the annuities otherwise payable under this section an amount equal to the amount of salary deductions that would have been made if such deductions had been made for 18 months prior to the death of the judge or special trial judge.
+
+#### (i) Determination by chief judge
+
+#### (1) Dependency and disability
+
+&emsp;Questions of dependency and disability arising under this section shall be determined by the chief judge subject to review only by the Tax Court, the decision of which shall be final and conclusive. The chief judge may order or direct at any time such medical or other examinations as he shall deem necessary to determine the facts relative to the nature and degree of disability of any dependent child who is an annuitant or applicant for annuity under this section, and may suspend or deny any such annuity for failure to submit to any examination so ordered or directed.
+
+#### (2) Assassination
+
+&emsp;The chief judge shall determine whether the killing of a judge or special trial judge was an assassination, subject to review only by the Tax Court. The head of any Federal agency that investigates the killing of a judge or special trial judge shall provide to the chief judge any information that would assist the chief judge in making such a determination.
 
 #### (j) Payments in certain cases
 
@@ -148,15 +192,37 @@ Where any payment under this section is to be made to a minor, or to a person me
 
 #### (l) Method of payment of annuities
 
-Annuities granted under the terms of this section shall accrue monthly and shall be due and payable in monthly installments on the firstbusiness day of the month following the month or other period for which the annuity shall have accrued. None of the moneys mentioned in this section shall be assignable, either in law or in equity, or subject to execution, levy, attachment, garnishment, or other legal process.
+Annuities granted under the terms of this section shall accrue monthly and shall be due and payable in monthly installments on the first business day of the month following the month or other period for which the annuity shall have accrued. None of the moneys mentioned in this section shall be assignable, either in law or in equity, or subject to execution, levy, attachment, garnishment, or other legal process.
 
 #### (m) Computation of annuities
 
-The annuity of the surviving spouse of a judge or special trial judge electing under subsection (b) shall be an amount equal to the sum of (1) 1.5 percent of the average annual salary (whether judge's or special trial judge's salary or compensation for other allowable service) received by such judge or special trial judge for judicial service (including periods in which he received retired pay under section 7447(d) or any annuity under chapter 83 or 84 of title 5, United States Code) or for any other prior allowable service during the period of 3 consecutive years in which he received the largest such average annual salary, multiplied by the sum of his years of such judicial service, his years of prior allowable service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of prior allowable service performed as a member of the Armed Forces of the United States, and his years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in section 2107 of title 5 of the United States Code), and (2) three-fourths of 1 percent of such average annual salary multiplied by his years of any other prior allowable service, except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable). In determining the period of 3 consecutive years referred to in the preceding sentence, there may not be taken into account any period for which an election under section 7447(f)(4) is in effect.
+The annuity of the surviving spouse of a judge or special trial judge electing under subsection (b) shall be an amount equal to the sum of—
+
+&emsp;(1) the product of—
+
+&emsp;&emsp;(A) 1.5 percent of the average annual salary (whether judge's or special trial judge's salary or compensation for other allowable service) received by such judge or special trial judge—
+
+&emsp;&emsp;&emsp;(i) for judicial service (including periods in which he received retired pay under section 7447(d), section 7447A(d), or any annuity under chapter 83 or 84 of title 5, United States Code) or for any other prior allowable service during the period of 3 consecutive years in which such judge or special trial judge received the largest such average annual salary, or
+
+&emsp;&emsp;&emsp;(ii) in the case of a judge or special trial judge who has served less than 3 years, during the total period of such service prior to such judge's or special trial judge's death, multiplied by the sum of, multiplied by <sup>1</sup>
+
+&emsp;&emsp;(B) the sum of—
+
+&emsp;&emsp;&emsp;(i) the judge's or special trial judge's years of such judicial service,
+
+&emsp;&emsp;&emsp;(ii) the judge's or special trial judge's years of prior allowable service as a Senator, Representative, Delegate, or Resident Commissioner in Congress,
+
+&emsp;&emsp;&emsp;(iii) the judge's or special trial judge's years of prior allowable service performed as a member of the Armed Forces of the United States, and
+
+&emsp;&emsp;&emsp;(iv) the judge's or special trial judge's years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in section 2107 of title 5 of the United States Code), plus
+
+&emsp;(2) three-fourths of 1 percent of such average annual salary multiplied by the judge's years of any other prior allowable service,
+
+> except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable). In determining the period of 3 consecutive years referred to in the preceding sentence, there may not be taken into account any period for which an election under section 7447(f)(4) is in effect.
 
 #### (n) Includible service
 
-Subject to the provisions of subsection (d), the years of service of a judge or special trial judge which are allowable as the basis for calculating the amount of the annuity of his surviving spouse shall include his years of service as a member of the United States Board of Tax Appeals, as a judge or special trial judge of the Tax Court of the United States, and as a judge or special trial judge of the Tax Court, his years of service pursuant to any appointment under section 7443A, his years of service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of active service as a member of the Armed Forces of the United States not exceeding 5 years in the aggregate and not including any such service for which credit is allowed for the purposes of retirement or retired pay under any other provision of law, and his years of any other civilian service within the purview of section 8332 of title 5 of the United States Code.
+Subject to the provisions of subsection (d), the years of service of a judge or special trial judge which are allowable as the basis for calculating the amount of the annuity of his surviving spouse shall include his years of service as a member of the United States Board of Tax Appeals, as a judge or special trial judge of the Tax Court of the United States, and as a judge orspecial trial judge of the Tax Court, his years of service pursuant to any appointment under section 7443A, his years of service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of active service as a member of the Armed Forces of the United States not exceeding 5 years in the aggregate and not including any such service for which credit is allowed for the purposes of retirement or retired pay under any other provision of law, and his years of any other civilian service within the purview of sections 8332 and 8411 of title 5 of the United States Code.
 
 #### (o) Simultaneous entitlement
 
@@ -182,7 +248,11 @@ Each time that an increase is made under section 8340(b) of title 5, United Stat
 
 Funds necessary to carry out the provisions of this section may be appropriated out of any money in the Treasury not otherwise appropriated.
 
-(Added Pub. L. 87–370, §1, Oct. 4, 1961, 75 Stat. 796; amended Pub. L. 91–172, title IX, §§955, 960(c), (e), Dec. 30, 1969, 83 Stat. 732, 734; Pub. L. 92–41, §4(b), July 1, 1971, 85 Stat. 99; Pub. L. 94–455, title XIX, §1906(a)(46), Oct. 4, 1976, 90 Stat. 1830; Pub. L. 97–362, title I, §105(a), (b), Oct.25, 1982, 96 Stat. 1729; Pub. L. 98–216, §3(c)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title IV, §462(a), July 18, 1984, 98 Stat. 824; Pub. L. 99–514, title XV, §§1557(c), 1559(a)–(c), Oct. 22, 1986, 100 Stat. 2757–2760; Pub. L. 109–280, title VIII, §§851(a), 854(a)–(c)(1), (3)–(7), Aug. 17, 2006, 120 Stat. 1016–1018; Pub. L. 113–295, div. A, title II, §221(a)(116), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 115–141, div. U, title IV, §401(a)(327), (328), (b)(51)–(53), Mar. 23, 2018, 132 Stat. 1200, 1205.)
+#### (u) Other benefits in case of assassination
+
+In the case of a judge or special trial judge who is assassinated, an annuity shall be paid under this section notwithstanding a survivor's eligibility for or receipt of benefits under chapter 81 of title 5, United States Code, except that the annuity for which a surviving spouse is eligible under this section shall be reduced to the extent that the total benefits paid under this section and chapter 81 of that title for any year would exceed the current salary for that year of the office of the judge or special trial judge.
+
+(Added Pub. L. 87–370, §1, Oct. 4, 1961, 75 Stat. 796; amended Pub. L. 91–172, title IX, §§955, 960(c), (e), Dec. 30, 1969, 83 Stat. 732, 734; Pub. L. 92–41, §4(b), July 1, 1971, 85 Stat. 99; Pub. L. 94–455, title XIX, §1906(a)(46), Oct. 4, 1976, 90 Stat. 1830; Pub. L. 97–362, title I, §105(a), (b), Oct. 25, 1982, 96 Stat. 1729; Pub. L. 98–216, §3(c)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title IV, §462(a), July 18, 1984, 98 Stat. 824; Pub. L. 99–514, title XV, §§1557(c), 1559(a)–(c), Oct. 22, 1986, 100 Stat. 2757–2760; Pub. L. 109–280, title VIII, §§851(a), 854(a)–(c)(1), (3)–(7), Aug. 17, 2006, 120 Stat. 1016–1018; Pub. L. 113–295, div. A, title II, §221(a)(116), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 115–141, div. U, title IV, §401(a)(327), (328), (b)(51)–(53), Mar. 23, 2018, 132 Stat. 1200, 1205; Pub. L. 117–328, div. T, title VII, §§701(b), (c)(2), 702(b)(2), Dec. 29, 2022, 136 Stat. 5398, 5401, 5404.)
 
 #### <b>Editorial Notes</b>
 
@@ -191,6 +261,28 @@ Funds necessary to carry out the provisions of this section may be appropriated 
 The date of the enactment of this paragraph, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(10). Pub. L. 117–328, §701(b)(2), added par. (10).
+
+Subsec. (b)(2). Pub. L. 117–328, §702(b)(2), amended par. (2) generally. Prior to amendment, text read as follows: "Any special trial judge may by written election filed with the chief judge bring himself or herself within the purview of this section. Such election shall be filed not later than the later of 6 months after—
+
+&emsp;"(A) 6 months after the date of the enactment of this paragraph,
+
+&emsp;"(B) the date the judge takes office, or
+
+&emsp;"(C) the date the judge marries."
+
+Subsec. (d). Pub. L. 117–328, §701(c)(2)(A), substituted "sections 8332 and 8411" for "section 8332".
+
+Subsec. (h). Pub. L. 117–328, §701(b)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) related to surviving spouses and dependent children's entitlement to annuity.
+
+Subsec. (i). Pub. L. 117–328, §701(b)(3), substituted "by Chief Judge" for "of dependency and disability" in heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
+
+Subsec. (m). Pub. L. 117–328, §701(b)(4), amended subsec. (m) generally. Prior to amendment, text read as follows: "The annuity of the surviving spouse of a judge or special trial judge electing under subsection (b) shall be an amount equal to the sum of (1) 1.5 percent of the average annual salary (whether judge's or special trial judge's salary or compensation for other allowable service) received by such judge or special trial judge for judicial service (including periods in which he received retired pay under section 7447(d) or any annuity under chapter 83 or 84 of title 5, United States Code) or for any other prior allowable service during the period of 3 consecutive years in which he received the largest such average annual salary, multiplied by the sum of his years of such judicial service, his years of prior allowable service as a Senator, Representative, Delegate, or Resident Commissioner in Congress, his years of prior allowable service performed as a member of the Armed Forces of the United States, and his years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in section 2107 of title 5 of the United States Code), and (2) three-fourths of 1 percent of such average annual salary multiplied by his years of any other prior allowable service, except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable). In determining the period of 3 consecutive years referred to in the preceding sentence, there may not be taken into account any period for which an election under section 7447(f)(4) is in effect."
+
+Subsec. (n). Pub. L. 117–328, §701(c)(2)(B), substituted "sections 8332 and 8411" for "section 8332".
+
+Subsec. (u). Pub. L. 117–328, §701(b)(5), added subsec. (u).
 
 <b>2018</b>—Subsec. (a)(5). Pub. L. 115–141, §401(b)(51), struck out ", whether or not performing judicial duties under section 7443B" after "United States Code".
 
@@ -262,7 +354,7 @@ Subsec. (h)(3). Pub. L. 99–514, §1559(b)(2)(B), substituted "the lesser of—
 
 &emsp;"(A) 20 percent of the average annual salary of such judge (determined in accordance with subsection (m)), or
 
-&emsp;"(B) 40 percent of such average annual salary, divided by the number of such children" for "the amount of the annuity to which such survivingspouse would have been entitled under paragraph (2) of this subsection had such spouse survived, but not to exceed $5,580 per year divided by the number of such children or $1,860 per year, whichever is lesser".
+&emsp;"(B) 40 percent of such average annual salary, divided by the number of such children" for "the amount of the annuity to which such surviving spouse would have been entitled under paragraph (2) of this subsection had such spouse survived, but not to exceed $5,580 per year divided by the number of such children or $1,860 per year, whichever is lesser".
 
 Subsec. (m). Pub. L. 99–514, §1559(b)(1)(A), substituted "1.5 percent" for "1¼ percent" and "except that such annuity shall not exceed an amount equal to 50 percent of such average annual salary, nor be less than an amount equal to 25 percent of such average annual salary, and shall be further reduced in accordance with subsection (d) (if applicable)" for "but such annuity shall not exceed 40 percent of such average annual salary and shall be further reduced in accordance with subsection (d), if applicable".
 
@@ -401,4 +493,6 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 Pub. L. 97–362, title I, §105(c), Oct. 25, 1982, 96 Stat. 1729, as amended by Pub. L. 97–448, title III, §305(e), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If an annuity payable under section 7448(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to entitlement to annuity) to the surviving spouse of a judge of the United States Tax Court is being paid on the date of the enactment of this Act, then the amount of that annuity shall be adjusted, as of the first day of the first month beginning more than 30 days after such date, to reflect the amount of the annuity which would have been payable if the amendment made by subsection (b) applied with respect to increases in the salary of a judge under section 7443(c) of such Code taking effect after December 31, 1963."
 
 \[Pub. L. 97–448, title III, §311(c)(5), Jan. 12, 1983, 96 Stat. 2412, provided that: "The amendment made by subsection (e) of section 305 \[amending section 105(c) of Pub. L. 97–362, set out above\] shall take effect on the date of the enactment of the Miscellaneous Revenue Act of 1982 \[Oct. 25, 1982\]."\]
+
+<i><sup>1</sup></i><i> So in original.</i>
 

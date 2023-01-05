@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) determines that the subpoena will not interfere with a criminal investigation; or
 
-&emsp;&emsp;&emsp;&emsp;(II) fails to make a determination under subclause (I) before the date thatis 30 days after the date on which the Administrator makes a request under clause (i).
+&emsp;&emsp;&emsp;&emsp;(II) fails to make a determination under subclause (I) before the date that is 30 days after the date on which the Administrator makes a request under clause (i).
 
 #### (B) Enforcement
 
@@ -34,5 +34,5 @@ Consistent with section 3803 of this title, whenever any organotin or other subs
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (b), was in the original "this title", meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§2401 et seq.) of this title. For complete classification of title X to the Code, see Tables.
+This chapter, referred to in subsecs. (a)(1) and (b), was in the original "this title", meaning title X of Pub. L. 111–281, Oct. 15, 2010, 124 Stat. 3023, which enacted this chapter and repealed chapter 37 (§2401 et seq.) of thistitle. For complete classification of title X to the Code, see Tables.
 

@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (4) Qualified property or services
 
-&emsp;The term "qualified property or services" means any property (other than real propertyand other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is performing services.
+&emsp;The term "qualified property or services" means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is performing services.
 
 #### (d) Working condition fringe defined
 
@@ -194,7 +194,7 @@ For purposes of this section—
 
 #### (7) Coordination with other provisions
 
-&emsp;For purposes of this section, the terms "working condition fringe" and "de minimis fringe" shall not include any qualified transportation fringe (determined without regard to paragraph (2)).
+&emsp;For purposes of this section, the terms "working condition fringe" and "de minimisfringe" shall not include any qualified transportation fringe (determined without regard to paragraph (2)).
 
 #### (8) Suspension of qualified bicycle commuting reimbursement exclusion
 

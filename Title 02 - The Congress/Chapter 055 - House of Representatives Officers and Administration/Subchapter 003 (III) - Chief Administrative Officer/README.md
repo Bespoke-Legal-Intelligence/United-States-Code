@@ -23,3 +23,4 @@
 - [&sect; 05546 - Support services for House during emergency; memorandum of understanding with an executive agency](%C2%A7%2005546%20-%20Support%20services%20for%20House%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md)
 - [&sect; 05547 - Emergency expenditures for meals, refreshments, and other support and maintenance](%C2%A7%2005547%20-%20Emergency%20expenditures%20for%20meals%2C%20refreshments%2C%20and%20other%20support%20and%20maintenance.md)
 - [&sect; 05548 - Payments to ensure continuing availability of goods and services during the coronavirus emergency](%C2%A7%2005548%20-%20Payments%20to%20ensure%20continuing%20availability%20of%20goods%20and%20services%20during%20the%20coronavirus%20emergency.md)
+- [&sect; 05549 - House Intern Resource Office](%C2%A7%2005549%20-%20House%20Intern%20Resource%20Office.md)

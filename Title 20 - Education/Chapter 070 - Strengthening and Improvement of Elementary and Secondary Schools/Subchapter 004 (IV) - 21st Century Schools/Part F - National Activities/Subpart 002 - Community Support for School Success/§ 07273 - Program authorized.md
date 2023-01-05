@@ -8,7 +8,7 @@
 
 #### (A) Promise neighborhoods
 
-&emsp;&emsp;The implementation of a comprehensive, effective continuum of coordinated services that meets the purpose described in section 7271(1) of this title by carrying out activities in neighborhoods with—
+&emsp;&emsp;The implementation of a comprehensive, effective continuum of coordinated servicesthat meets the purpose described in section 7271(1) of this title by carrying out activities in neighborhoods with—
 
 &emsp;&emsp;&emsp;(i) high concentrations of low-income individuals;
 
@@ -88,7 +88,7 @@ Continued funding of a grant under this subpart, including a grant extended unde
 
 #### (f) Minimum number of grants
 
-For each fiscal year, the Secretary shall award under this subpart not fewer than 3 grants foractivities described in section 7274 of this title and not fewer than 10 grants for activities described in section 7275 of this title, subject to the availability of appropriations, the requirements of subsection (a)(2), and the number and quality of applications.
+For each fiscal year, the Secretary shall award under this subpart not fewer than 3 grants for activities described in section 7274 of this title and not fewer than 10 grants for activities described in section 7275 of this title, subject to the availability of appropriations, the requirements of subsection (a)(2), and the number and quality of applications.
 
 (Pub. L. 89–10, title IV, §4623, as added Pub. L. 114–95, title IV, §4601, Dec. 10, 2015, 129 Stat. 2024.)
 

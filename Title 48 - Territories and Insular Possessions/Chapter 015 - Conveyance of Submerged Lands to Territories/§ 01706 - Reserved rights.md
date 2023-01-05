@@ -6,7 +6,7 @@ Nothing in this Act shall affect the right of the President to establish naval d
 
 #### (b) Navigation; flood control; power production
 
-Nothing in this Act shall affect the use, development, improvement, or control by or under the constitutional authority of the United States of the lands transferred by section 1705 of this title, and the navigable waters overlying such lands, for the purposes of navigation orflood control or the production of power, or be construed as the release or relinquishment of any rights of the United States arising under the constitutional authority of Congress to regulate or improve navigation, or to provide for flood control or the production of power.
+Nothing in this Act shall affect the use, development, improvement, or control by or under the constitutional authority of the United States of the lands transferred by section 1705 of this title, and the navigable waters overlying such lands, for the purposes of navigation or flood control or the production of power, or be construed as the release or relinquishment of any rights of the United States arising under the constitutional authority of Congress to regulate or improve navigation, or to provide for flood control or the production of power.
 
 #### (c) Navigational servitude and powers of regulation for purposes of commerce, navigation, national defense, and international affairs
 
@@ -22,7 +22,7 @@ Nothing in this Act shall affect the status of lands beyond the three-mile limit
 
 #### References in Text
 
-This Act, referred to in subsecs. (a), (b), and (d), is Pub. L. 93–435, Oct. 5, 1974, 88 Stat. 1210, as amended, which enacted sections 1705 to 1708 of this title, amended section 1545 of this title, and repealed sections 1701 to 1703 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (b), and (d), is Pub. L. 93–435, Oct. 5, 1974, 88 Stat. 1210, which enacted sections 1705 to 1708 of this title, amended section 1545 of this title, and repealed sections 1701 to 1703 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

@@ -114,5 +114,5 @@ Definition.—As used in this section, the term "Federal agency" means a departm
 
 #### Incumbent
 
-Pub. L. 110–323, §5(b), Sept. 22, 2008, 122 Stat. 3547, provided that: "The individual who serves in the position of Inspector General of the Government Accountability Office on the date of the enactment of this Act \[Sept. 22, 2008\] shall continue to serve in such position subject to removal in accordance with the amendments made by this section \[enacting this section\]."
+Pub. L. 110–323, §5(b), Sept. 22, 2008, 122 Stat. 3547, provided that: "The individual who serves in the positionof Inspector General of the Government Accountability Office on the date of the enactment of this Act \[Sept. 22, 2008\] shall continue to serve in such position subject to removal in accordance with the amendments made by this section \[enacting this section\]."
 

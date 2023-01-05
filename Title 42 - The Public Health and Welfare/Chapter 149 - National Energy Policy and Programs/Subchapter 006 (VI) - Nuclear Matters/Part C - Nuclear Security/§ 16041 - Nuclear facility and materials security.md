@@ -108,7 +108,7 @@ For any licensed nuclear power plants located where there is a permanent populat
 
 &emsp;&emsp;&emsp;&emsp;(I) the State has entered into an agreement with the Commission under section 2021(b) of this title;
 
-&emsp;&emsp;&emsp;&emsp;(II) the agreement described in subclause (I) covers byproduct material (asdescribed in paragraph (3) or (4) of section 2014(e) of this title); and
+&emsp;&emsp;&emsp;&emsp;(II) the agreement described in subclause (I) covers byproduct material (as described in paragraph (3) or (4) of section 2014(e) of this title); and
 
 &emsp;&emsp;&emsp;&emsp;(III) the program of the State for licensing such byproduct material is adequate to protect the public health and safety.
 

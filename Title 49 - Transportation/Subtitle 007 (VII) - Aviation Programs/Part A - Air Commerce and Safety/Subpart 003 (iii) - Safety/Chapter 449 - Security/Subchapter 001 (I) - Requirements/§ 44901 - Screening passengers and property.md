@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administrator of the Transportation Security Administration shallprovide for the screening of all passengers and property, including United States mail, cargo, carry-on and checked baggage, and other articles, that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation. In the case of flights and flight segments originating in the United States, the screening shall take place before boarding and shall be carried out by a Federal Government employee (as defined in section 2105 of title 5), except as otherwise provided in section 44920 and except for identifying passengers and baggage for screening under the CAPPS and known shipper programs and conducting positive bag-match programs.
+In General.—The Administrator of the Transportation Security Administration shall provide for the screening of all passengers and property, including United States mail, cargo, carry-on and checked baggage, and other articles, that will be carried aboard a passenger aircraft operated by an air carrier or foreign air carrier in air transportation or intrastate air transportation. In the case of flights and flight segments originating in the United States, the screening shall take place before boarding and shall be carried out by a Federal Government employee (as defined in section 2105 of title 5), except as otherwise provided in section 44920 and except for identifying passengers and baggage for screening under the CAPPS and known shipper programs and conducting positive bag-match programs.
 
 (b)
 
@@ -20,7 +20,7 @@ Explosives Detection Systems.—
 
 In general.—The Administrator of the Transportation Security Administration shall take all necessary action to ensure that—
 
-&emsp;&emsp;(A) explosives detection systems are deployed as soon as possible to ensure that all United States airports described in section 44903(c) have sufficient explosives detection systems to screen all checked baggage, and that as soon as such systems are in place at an airport, all checked baggage at the airport is screened by those systems; and
+&emsp;&emsp;(A) explosives detection systems are deployed as soon as possible to ensure that allUnited States airports described in section 44903(c) have sufficient explosives detection systems to screen all checked baggage, and that as soon as such systems are in place at an airport, all checked baggage at the airport is screened by those systems; and
 
 &emsp;&emsp;(B) all systems deployed under subparagraph (A) are fully utilized; and
 
@@ -84,7 +84,7 @@ Regulations.—The Secretary of Homeland Security shall issue a final rule as a 
 
 &emsp;(4)
 
-Screening defined.—In this subsection the term "screening" means a physical examination or non-intrusive methods of assessing whether cargo poses a threat to transportation security. Methods of screening include x-ray systems, explosives detection systems, explosives trace detection, explosives detection canine teams certified by the Transportation Security Administration, or a physical search together with manifest verification. The Administrator may approve additional methods to ensure that the cargo does not pose a threat to transportation security and to assist in meeting the requirements of this subsection. Such additional cargo screening methods shall not include solely performing a review of information about the contents of cargo or verifying the identity of a shipper of the cargo that is not performed in conjunction with other security methods authorized under this subsection, including whether a known shipper is registered in the known shipper database. Such additional cargo screening methods may include a program to certify the security methods used by shippers pursuant to paragraphs (1) and (2) and alternative screening methods pursuant to exemptions referred to in subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007.
+Screening defined.—In this subsection the term "screening" means a physical examination or non-intrusive methods of assessing whether cargo poses a threat to transportation security. Methods of screening include x-ray systems, explosives detection systems, explosives trace detection, explosives detection canine teams certified by the Transportation Security Administration, or a physical search together with manifest verification. The Administrator may approve additional methods to ensure that the cargo does not pose a threat to transportation security and to assist in meeting the requirements of this subsection. Such additional cargo screening methods shallnot include solely performing a review of information about the contents of cargo or verifying the identity of a shipper of the cargo that is not performed in conjunction with other security methods authorized under this subsection, including whether a known shipper is registered in the known shipper database. Such additional cargo screening methods may include a program to certify the security methods used by shippers pursuant to paragraphs (1) and (2) and alternative screening methods pursuant to exemptions referred to in subsection (b) of section 1602 of the Implementing Recommendations of the 9/11 Commission Act of 2007.
 
 (h)
 
@@ -146,7 +146,7 @@ In general.—The Administrator of the Transportation Security Administration sh
 
 &emsp;(2)
 
-Grant program.—The Administrator shall initiate and complete a study of the feasibility of a program, based on a risk-managed approach, to provide grants to operators of general aviation airports (as defined in section 47134(m)) <sup>1</sup> for projects to upgrade security at such airports. If the Administrator determinesthat such a program is feasible, the Administrator shall establish such a program.
+Grant program.—The Administrator shall initiate and complete a study of the feasibility of a program, based on a risk-managed approach, to provide grants to operators of general aviation airports (as defined in section 47134(m)) <sup>1</sup> for projects to upgrade security at such airports. If the Administrator determines that such a program is feasible, the Administrator shall establish such a program.
 
 &emsp;(3)
 
@@ -430,7 +430,7 @@ Suits.—
 
 &emsp;"(1)
 
-In general.—This Act shall not affect suits commenced before the date of the enactment of this Act \[Nov. 19, 2001\], except as provided in paragraphs\(2) and (3). In all such suits, proceeding shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
+In general.—This Act shall not affect suits commenced before the date of the enactment of this Act \[Nov. 19, 2001\], except as provided in paragraphs (2) and (3). In all such suits, proceeding shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
 
 &emsp;"(2)
 
@@ -483,6 +483,206 @@ Transfer of ownership.—In recognition of the assumption of the financial costs
 "(5)
 
 Performance of under secretary's functions during interim period.—Until the Under Secretary takes office, the functions of the Under Secretary that relate to aviation security may be carried out by the Secretary or the Secretary's designee."
+
+#### TSA Reaching Across Nationalities, Societies, and Languages To Advance Traveler Education
+
+Pub. L. 117–263, div. G, title LXXI, §7131, Dec. 23, 2022, 136 Stat. 3644, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Administrator of the Transportation Security Administration (TSA) shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan to ensure that TSA material disseminated in major airports can be better understood by more people accessing such airports.
+
+"(b)
+
+Contents.—The plan required under subsection (a) shall include the following:
+
+&emsp;"(1) An identification of the most common languages other than English that are the primary languages of individuals that travel through or work in each major airport.
+
+&emsp;"(2) A plan to improve—
+
+&emsp;&emsp;"(A) TSA materials to communicate information in languages identified pursuant to paragraph (1); and
+
+&emsp;&emsp;"(B) the communication of TSA material to individuals with vision or hearing impairments or other possible barriers to understanding such material.
+
+"(c)
+
+Considerations.—In developing the plan required under subsection (a), the Administrator of the TSA, acting through the Office of Civil Rights and Liberties, Ombudsman, and Traveler Engagement of the TSA, shall take into consideration data regarding the following:
+
+&emsp;"(1) International enplanements.
+
+&emsp;"(2) Local populations surrounding major airports.
+
+&emsp;"(3) Languages spoken by members of Indian Tribes within each service area population in which a major airport is located.
+
+"(d)
+
+Implementation.—Not later than 180 days after the submission of the plan required under subsection (a), the Administrator of the TSA, in consultation with the owner or operator of each major airport, shall implement such plan.
+
+"(e)
+
+GAO Review.—Not later than one year after the implementation pursuant to subsection (d) of the plan required under subsection (a), the Comptroller General of the United States shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a review of such implementation.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Airport.—The term 'airport' has the meaning given such term in section 40102 of title 49, United States Code.
+
+&emsp;"(2)
+
+Indian tribe.—The term 'Indian Tribe' has the meaning given the term 'Indian tribe' in section 102 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5130), individually identified (including parenthetically) in the list published most recently as of the date of the enactment of this Act \[Dec. 23, 2022\] pursuant to section 104 of that Act (25 U.S.C. 5131).
+
+&emsp;"(3)
+
+Major airports.—The term 'major airports' means Category X and Category I airports.
+
+&emsp;"(4)
+
+Non-traveling individual.—The term 'non-traveling individual' has the meaning given such term in section 1560.3 of title 49, Code of Federal Regulations.
+
+&emsp;"(5)
+
+TSA material.—The term 'TSA material' means signs, videos, audio messages, websites, press releases, social media postings, and other communications published and disseminated by the Administrator of the TSA in Category X and Category I airports for use by both traveling and non-traveling individuals."
+
+#### One-Stop Pilot Program
+
+Pub. L. 117–263, div. G, title LXXI, §7132, Dec. 23, 2022, 136 Stat. 3645, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator' means the Administrator of the Transportation Security Administration.
+
+&emsp;"(2)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security and Committee on Foreign Affairs of the House of Representatives; and
+
+&emsp;&emsp;"(B) the Committee on Homeland Security and Governmental Affairs, the Committee on Commerce, Science, and Transportation, and the Committee on Foreign Relations of the Senate.
+
+&emsp;"(3)
+
+TSA.—The term 'TSA' means the Transportation Security Administration of the Department of Homeland Security.
+
+"(b)
+
+Implementation.—Notwithstanding \[section\] 44901(a) of title 49, United States Code, the Administrator, in coordination with the Commissioner of U.S. Customs and Border Protection and the Secretary of State, may implement a pilot program at not more than six foreign last point of departure airports to permit passengers and their accessible property arriving on direct flights or flight segments originating at such participating foreign airports to continue on additionalflights or flight segments originating in the United States without additional security re-screening if—
+
+&emsp;"(1) the initial screening was conducted in accordance with an aviation security screening agreement described in subsection (e);
+
+&emsp;"(2) passengers arriving from participating foreign airports are unable to access their checked baggage until the arrival at their final destination; and
+
+&emsp;"(3) upon arrival in the United States, passengers arriving from participating foreign airports do not come into contact with other arriving international passengers, those passengers' property, or other persons who have not been screened or subjected to other appropriate security controls required for entry into the airport's sterile area.
+
+"(c)
+
+Requirements for Pilot Program.—In carrying out this section, the Administrator shall ensure that there is no reduction in the level of security or specific TSA aviation security standards or requirements for screening passengers and their property prior to boarding an international flight bound for the United States, including specific aviation security standards and requirements regarding the following:
+
+&emsp;"(1) High risk passengers and their property.
+
+&emsp;"(2) Weapons, explosives, and incendiaries.
+
+&emsp;"(3) Screening passengers and property transferring at a foreign last point of departure airport from another airport and bound for the United States, and addressing any commingling of such passengers and property with passengers and property screened under the pilot program described in subsection (b).
+
+&emsp;"(4) Insider risk at foreign last point of departure airports.
+
+"(d)
+
+Re-screening of Checked Baggage.—Subject to subsection (f), the Administrator may determine whether checked baggage arriving from participating foreign airports referenced in subsection (b) that screen using an explosives detection system must be re-screened in the United States by an explosives detection system before such baggage continues on any additional flight or flight segment.
+
+"(e)
+
+Aviation Security Screening Agreement.—
+
+&emsp;"(1)
+
+In general.—An aviation security screening agreement described in this subsection is a treaty, executive agreement, or non-binding instrument entered into with a foreign country that delineates and implements security standards and protocols utilized at a foreign last point of departure airport that are determined by the Administrator—
+
+&emsp;&emsp;"(A) to be comparable to those of the United States; and
+
+&emsp;&emsp;"(B) sufficiently effective to enable passengers and their accessible property to deplane into sterile areas of airports in the United States without the need for re-screening.
+
+&emsp;"(2)
+
+Non-delegation.—The authority to approve an aviation security screening agreement may not be delegated below the level of the Secretary of State, the Secretary of Homeland Security, or the Administrator.
+
+"(f)
+
+Re-screening Requirement.—
+
+&emsp;"(1)
+
+In general.—If the Administrator determines that a foreign country participating in the aviation security screening agreement has not maintained and implemented security standards and protocols comparable to those of the United States at foreign last point of departure airports at which a pilot program has been established in accordance with this section, the Administrator shall ensure that passengers and their property arriving from such airports are re-screened in the United States, including by using explosives detection systems in accordance with section 44901(d)(1) of title 49, United States Code, and implementing regulations and directives, before such passengers and their property are permitted into sterile areas of airports in the United States.
+
+&emsp;"(2)
+
+Consultation.—If the Administrator has reasonable grounds to believe the other party to an aviation security screening agreement has not complied with such agreement, the Administrator shall request immediate consultation with such party.
+
+&emsp;"(3)
+
+Suspension or termination of agreement.—If a satisfactory resolution between TSA and a foreign country is not reached within 45 days after a consultation request under paragraph (2) or in the case of the foreign country's continued or egregious failure to maintain the security standards and protocols described in paragraph (1), the President, or with the concurrence of the Secretary of State, the Secretary of Homeland Security or the Administrator, as appropriate, shall suspend or terminate the aviation security screening agreement with such country, as determined appropriate by the President, the Secretary of Homeland Security, or the Administrator. The Administrator shall notify the appropriate congressional committees of such consultation and suspension or termination, as the case may be, not later than seven days after such consultation and suspension or termination.
+
+"(g)
+
+Briefings to Congress.—Not later than 45 days before an aviation security screening agreement described in subsection (e) enters into force, the Administrator, in coordination with the Secretary of State, shall submit to the appropriate congressional committees the following:
+
+&emsp;"(1) An aviation security threat assessment for the country in which such foreign last point of departure airport is located.
+
+&emsp;"(2) Information regarding any corresponding mitigation efforts to address any security issues identified in such threat assessment, including any plans for joint covert testing.
+
+&emsp;"(3) Information on potential security vulnerabilities associated with commencing a pilot program at such foreign last point of departure airport pursuant to subsection (b) and mitigation plans to address such potential security vulnerabilities.
+
+&emsp;"(4) An assessment of the impacts such pilot program will have on aviation security.
+
+&emsp;"(5) An assessment of the screening performed at such foreign last point of departure airport, including the feasibility of TSA personnel monitoring screening, security protocols, and standards.
+
+&emsp;"(6) Information regarding identifying the entity or entities responsible for screening passengers and property at such foreign last point of departure airport.
+
+&emsp;"(7) The name of the entity or local authority and any contractor or subcontractor.
+
+&emsp;"(8) Information regarding the screening requirements relating to such aviation security screening agreement.
+
+&emsp;"(9) Details regarding information sharing mechanisms between the TSA and such foreign last point of departure airport, screening authority, or entity responsible for screening provided for under such aviation security screening agreement.
+
+&emsp;"(10) A copy of the aviation security screening agreement, which shall identify the foreign last point of departure airport or airports at which a pilot program under this section is to be established.
+
+"(h)
+
+Certifications Relating to the Pilot Program for One-stop Security.—For each aviation security screening agreement described in subsection (e), the Administrator, in coordination with the Secretary of State, shall submit to the appropriate congressional committees the following:
+
+&emsp;"(1)(A) A certification that such agreement satisfies all of the requirements specified in subsection (c); or
+
+&emsp;"(B) in the event that one or more of such requirements are not so satisfied, a description of the unsatisfied requirement and information on what actions the Administrator will take to ensure that such remaining requirements are satisfied before such agreement enters into force.
+
+&emsp;"(2) A certification that TSA and U.S. Customs and Border Protection have ensured that any necessary physical modifications or appropriate mitigations exist in the domestic one-stop security pilot program airport prior to receiving international passengersfrom a last point of departure airport under the aviation security screening agreement.
+
+&emsp;"(3) A certification that a foreign last point of departure airport covered by an aviation security screening agreement has an operation to screen all checked bags as required by law, regulation, or international agreement, including the full utilization of explosives detection systems to the extent applicable.
+
+&emsp;"(4) A certification that the Administrator consulted with stakeholders, including air carriers, aviation nonprofit labor organizations, airport operators, relevant interagency partners, and other stakeholders that the Administrator determines appropriate.
+
+"(i)
+
+Report to Congress.—Not later than five years after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Homeland Security, in coordination with the Administrator, shall submit to the appropriate congressional committees a report regarding the implementation of the pilot program authorized under this section, including information relating to the following:
+
+&emsp;"(1) The impact of such program on homeland security and international aviation security, including any benefits and challenges of such program.
+
+&emsp;"(2) The impact of such program on passengers, airports, and air carriers, including any benefits and challenges of such program.
+
+&emsp;"(3) The impact and feasibility of continuing such program or expanding it into a more permanent program, including any benefits and challenges of such continuation or expansion.
+
+"(j)
+
+Rule of Construction.—Nothing in this section may be construed as limiting the authority of U.S. Customs and Border Protection to inspect persons and baggage arriving in the United States in accordance with applicable law.
+
+"(k)
+
+Sunset.—The pilot program authorized under this section shall terminate on the date that is six years after the date of the enactment of this Act."
 
 #### Plan To Reduce the Spread of Coronavirus at Passenger Screening Checkpoints
 
@@ -546,7 +746,7 @@ Definitions.—In this section:
 
 #### Screening Outside Primary Passenger Terminal Screening Area Pilot Program
 
-Pub. L. 116–6, div. A, title II, §225, Feb. 15, 2019, 133 Stat. 25, as amended by Pub. L. 116–260, div. F, title II, §223, Dec. 27, 2020, 134 Stat. 1459, provided that:
+Pub. L. 116–6, div. A, title II, §225, Feb. 15, 2019, 133 Stat. 25, as amended by Pub. L. 116–260, div. F, title II, §223, Dec. 27, 2020, 134 Stat. 1459; Pub. L. 117–328, div. F, title II, §222, Dec. 29, 2022, 136 Stat. 4737, provided that:
 
 "(a) Subject to the provisions of this section, the Administrator of the Transportation Security Administration (hereafter in this section referred to as 'the Administrator') may conduct a pilot program to provide screening services outside of an existing primary passenger terminal screening area where screening services are currently provided or would be eligible to be provided under the Transportation Security Administration's annually appropriated passenger screening program as a primary passenger terminal screening area.
 
@@ -556,7 +756,7 @@ Pub. L. 116–6, div. A, title II, §225, Feb. 15, 2019, 133 Stat. 25, as amende
 
 "(d) No screening services may be provided under subsection (a) unless the requesting entity agrees in writing to the scope of the screening services to be provided, and agrees to compensate the Transportation Security Administration for all reasonable personnel and non-personnel costs, including overtime, of providing the screening services.
 
-"(e) The authority available under this section is effective for fiscal years 2019 through 2023 and may be utilized at not more than eight locations for transportation security purposes.
+"(e) The authority available under this section is effective for fiscal years 2019 through 2025 and may be utilized at not more than eight locations for transportation security purposes.
 
 "(f) Notwithstanding any other provision of law, an airport authority, air carrier, or other requesting entity shall not be liable for any claims for damages filed in State or Federal court (including a claim for compensatory, punitive, contributory, or indemnity damages) relating to—
 
@@ -596,7 +796,7 @@ Pub. L. 115–254, div. K, title I, §1914, Oct. 5, 2018, 132 Stat. 3555, provid
 
 "(a)
 
-In General.—The Administrator \[of the Transportation Security Administration\], in coordinationwith appropriate international aviation security authorities, shall develop a validation process for the reciprocal recognition of security equipment technology approvals among international security partners or recognized certification authorities for deployment.
+In General.—The Administrator \[of the Transportation Security Administration\], in coordination with appropriate international aviation security authorities, shall develop a validation process for the reciprocal recognition of security equipment technology approvals among international security partners or recognized certification authorities for deployment.
 
 "(b)
 
@@ -978,7 +1178,7 @@ Pub. L. 115–254, div. K, title I, §1962, Oct. 5, 2018, 132 Stat. 3601, provid
 
 "(a)
 
-Interpretive Rule.—Subject to subsections (b) and (c), the Administrator \[of the Transportation Security Administration\] shall periodically review and amend, as necessary, the interpretive rule (68 Fed. Reg. 7444) that provides guidance to the public on the types of property considered to be weapons, explosives, and incendiaries prohibited under section 1540.111 of title 49, Code of Federal Regulations.
+Interpretive Rule.—Subject to subsections (b) and (c), the Administrator \[of the Transportation Security Administration\] shall periodically review and amend, as necessary, the interpretive rule (68 Fed. Reg. 7444) that provides guidance to the public on the types of property considered to be weapons, explosives, andincendiaries prohibited under section 1540.111 of title 49, Code of Federal Regulations.
 
 "(b)
 
@@ -1536,7 +1736,7 @@ Administrator report.—Not later than 90 days after the date of the enactment o
 
 &emsp;"(2)
 
-Inspector general report.—Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Department of Homeland Security shall submit to the appropriate congressional committees a report on the effectiveness of airportaccess controls to the SIDAs of airports based on red-team, covert testing under subsection (b).
+Inspector general report.—Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Department of Homeland Security shall submit to the appropriate congressional committees a report on the effectiveness of airport access controls to the SIDAs of airports based on red-team, covert testing under subsection (b).
 
 #### "SEC. 3409. SECURITY DIRECTIVES.
 
@@ -1662,7 +1862,7 @@ Selection of Airports.—In selecting airports for the pilot program established
 
 #### "SEC. 3506. ACCEPTANCE AND PROVISION OF RESOURCES BY THE TRANSPORTATION SECURITY ADMINISTRATION.
 
-"The Administrator, in carrying out the functions of the pilot programs established under sections 3502 and 3503 of this subtitle, may accept services, supplies,equipment, personnel, or facilities, without reimbursement, from any other public or private entity."
+"The Administrator, in carrying out the functions of the pilot programs established under sections 3502 and 3503 of this subtitle, may accept services, supplies, equipment, personnel, or facilities, without reimbursement, from any other public or private entity."
 
 #### Protection of Passenger Planes From Explosives
 
@@ -1698,7 +1898,7 @@ Pub. L. 109–90, title V, §524, Oct. 18, 2005, 119 Stat. 2086.
 
 #### Use of Existing Equipment To Screen Passenger Cargo; Reports
 
-Pub. L. 109–90, title V, §525, Oct. 18, 2005, 119 Stat. 2086, as amended by Pub. L. 114–113, div. F, title V, §510(c), Dec. 18, 2015, 129 Stat. 2514, provided that: "The Transportation Security Administration (TSA) shall utilize existing checked baggage explosive detection equipment and screeners to screen cargo carried on passenger aircraft to the greatest extent practicable at each airport: <i>Provided</i>, That beginning with November 2005, TSA shall provide a monthly report to the Committees on Appropriations of the Senate and the House of Representatives detailing, by airport, the amount of cargo carried on passenger aircraft that was screened by TSA in August 2005 and each month."
+Pub. L. 109–90, title V, §525, Oct. 18, 2005, 119 Stat. 2086, as amended by Pub. L. 114–113, div. F, title V, §510(c), Dec. 18, 2015, 129 Stat. 2514, provided that: "The Transportation Security Administration (TSA) shall utilize existing checked baggage explosive detection equipment and screeners to screen cargo carried on passenger aircraft to the greatest extent practicable at each airport: <i>Provided</i>, That beginning with November 2005, TSA shall provide a monthly report to the Committees on Appropriations of the Senate and the Houseof Representatives detailing, by airport, the amount of cargo carried on passenger aircraft that was screened by TSA in August 2005 and each month."
 
 #### In-Line Checked Baggage Screening
 
@@ -1770,7 +1970,7 @@ In general.—The Secretary shall establish and carry out a program to issue com
 
 &emsp;"(2)
 
-Eligibility criteria, etc.—The Secretary shall establish such eligibility criteria, establish such application and administrative procedures, and providefor such matching funding requirements, if any, as may be necessary and appropriate to ensure that the technology is deployed as fully and rapidly as possible."
+Eligibility criteria, etc.—The Secretary shall establish such eligibility criteria, establish such application and administrative procedures, and provide for such matching funding requirements, if any, as may be necessary and appropriate to ensure that the technology is deployed as fully and rapidly as possible."
 
 #### Identification Standards
 
@@ -1886,7 +2086,7 @@ Motion to proceed.—A motion in the Senate to proceed to the consideration of a
 
 &emsp;&emsp;"(B)
 
-Debate on resolution.—Debate in the Senate on an approval resolution, and appeals in connection therewith, shall be limited to not morethan 10 hours, which shall be equally divided between, and controlled by, the Majority Leader and the Minority Leader, or their designees.
+Debate on resolution.—Debate in the Senate on an approval resolution, and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be equally divided between, and controlled by, the Majority Leader and the Minority Leader, or their designees.
 
 &emsp;&emsp;"(C)
 

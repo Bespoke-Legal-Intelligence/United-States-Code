@@ -2,7 +2,7 @@
 
 #### (a) Competitive grant program
 
-The Secretary shall establish a competitive grant program to promote the development ofteaching programs in agriculture, veterinary medicine, and disciplines closely allied to the food and agriculture system to increase the number of trained individuals with an expertise in agricultural biosecurity.
+The Secretary shall establish a competitive grant program to promote the development of teaching programs in agriculture, veterinary medicine, and disciplines closely allied to the food and agriculture system to increase the number of trained individuals with an expertise in agricultural biosecurity.
 
 #### (b) Eligibility
 

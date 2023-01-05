@@ -238,7 +238,7 @@ Implementation.—The plan developed pursuant to subparagraph (A)(i) shall be im
 
 #### Audit Procedures
 
-Pub. L. 109–443, §6, Dec. 21, 2006, 120 Stat. 3300, provided that: "The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall continue todevelop and implement comprehensive internal audit controls for its operations. The audit controls shall address, at a minimum, Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control."
+Pub. L. 109–443, §6, Dec. 21, 2006, 120 Stat. 3300, provided that: "The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall continue to develop and implement comprehensive internal audit controls for its operations. The audit controls shall address, at a minimum, Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control."
 
 #### Improved Audit Procedures
 

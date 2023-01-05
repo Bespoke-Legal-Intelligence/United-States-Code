@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense, under regulations prescribed by him, may sell to State and local law enforcement, firefighting, homeland security, and emergency management agencies, at fair market value, pistols, revolvers, shotguns, rifles of a caliber not exceeding .30, ammunition for such firearms, gas masks, personal protective equipment, and other appropriate equipment which (1) are suitable for use by such agencies in carrying out law enforcement, firefighting, homeland security, and emergency management activities, and (2) have been determined to be surplus property under subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-(b) Such surplus military equipment shall not be sold under the provisions of this section to a State or local law enforcement, firefighting, homeland security, or emergency management agency unless request therefor is made by such agency, in such form and manner as the Secretary of Defense shall prescribe, and such request, with respect to the type and amount of equipment so requested, is certified as being necessary and suitable for the operation of such agency by the Governor (or such State official as he may designate) of the State in which such agency is located. Equipment sold to a State or local law enforcement, firefighting, homeland security, or emergency management agency under this section shall not exceed, in quantity, the amount requested and certified for such agency and shall be for the exclusive use of such agency. Such equipment may not be sold, or otherwise transferred, by such agency to any individual or public or private organization or agency.
+(b) Such surplus military equipment shall not be sold under the provisions of this section to a State or local law enforcement, firefighting, homeland security, or emergency management agency unless request therefor is made by such agency, in such form and manner as the Secretary of Defense shall prescribe, and such request, with respect to the type and amount of equipment so requested, is certified as being necessary and suitable for the operation of such agency by the Governor (or such State official as he may designate) of the State in which such agency is located. Equipment sold to a State orlocal law enforcement, firefighting, homeland security, or emergency management agency under this section shall not exceed, in quantity, the amount requested and certified for such agency and shall be for the exclusive use of such agency. Such equipment may not be sold, or otherwise transferred, by such agency to any individual or public or private organization or agency.
 
 (Added Pub. L. 90–500, title IV, §403(a) Sept. 20, 1968, 82 Stat. 851; amended Pub. L. 96–513, title V, §511(85), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–217, §3(b)(10), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 111–350, §5(b)(42), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 111–383, div. A, title X, §1072(a)–(c)(1), Jan. 7, 2011, 124 Stat. 4366.)
 
@@ -14,7 +14,7 @@
 
 Subsec. (a). Pub. L. 111–383, §1072(a)(1), (b), substituted "State and local law enforcement, firefighting, homeland security, and emergency management agencies" for "State and local law enforcement and firefighting agencies", "personal protective equipment, and other appropriate equipment" for "and protective body armor", and "in carrying out law enforcement, firefighting, homeland security, and emergency management activities" for "in carrying out law enforcement and firefighting activities".
 
-Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property andAdministrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
+Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
 
 Subsec. (b). Pub. L. 111–383, §1072(a)(2), substituted "State or local law enforcement, firefighting, homeland security, or emergency management agency" for "State or local law enforcement or firefighting agency" in two places.
 
@@ -28,65 +28,65 @@ Subsec. (b). Pub. L. 111–383, §1072(a)(2), substituted "State or local law en
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
-#### Transfer of Excess Aircraft to Other Departments of the Federal Government
+#### Transfer of Excess Aircraft to Other Departments of the Federal Government and to States
 
-Pub. L. 112–239, div. A, title X, §1091, Jan. 2, 2013, 126 Stat. 1971, provided that:
+Pub. L. 112–239, div. A, title X, §1091, Jan. 2, 2013, 126 Stat. 1971, as amended by Pub. L. 117–263, div. A, title X, §1060, Dec. 23, 2022, 136 Stat. 2781, provided that:
 
 "(a)
 
-Transfer.—The Secretary of Defense may transfer excess aircraft specified in subsection (b) to the Secretary of Agriculture and the Secretary of Homeland Security for use by the Forest Service and the United States Coast Guard. The transfer of any excess aircraft under this subsection shall be without reimbursement.
+Transfer.—The Secretary of Defense may transfer excess aircraft specified in subsection (b) to the Secretary of Agriculture for use by the Forest Service, to the Secretary of Homeland Security for use by the United States Coast Guard, and to the Governor of a State. The transfer of any excess aircraft under this subsection shall be without reimbursement.
 
 "(b)
 
 Aircraft.—The aircraft transferred under subsection (a) are aircraft of the Department of Defense that are—
 
-&emsp;"(1) identified by the Forest Service or the United States Coast Guard as a suitable platform to carry out their respective missions;
+&emsp;"(1) identified by the Forest Service, the United States Coast Guard, or the Governor of a State, as the case may be, as a suitable platform to carry out wildfire suppression, search and rescue, or emergency operations pertaining to wildfires;
 
 &emsp;"(2) excess to the needs of the Department of Defense, as determined by the Secretary of Defense;
 
-&emsp;"(3) in the case of aircraft to be transferred to the Secretary of Agriculture, acceptable for use by the Forest Service, as determined by the Secretary of Agriculture; and
+&emsp;"(3) in the case of aircraft to be transferred to the Secretary of Agriculture, acceptable for use by the Forest Service, as determined by the Secretary of Agriculture;
 
-&emsp;"(4) in the case of aircraft to be transferred to the Secretary of Homeland Security, acceptable for use by the United States Coast Guard, as determined by the Secretary of Homeland Security.
+&emsp;"(4) in the case of aircraft to be transferred to the Secretary of Homeland Security, acceptable for use by the United States Coast Guard, as determined by the Secretary of Homeland Security; and
+
+&emsp;"(5) in the case of aircraft to be transferred to the Governor of a State, acceptable for use by the State, as determined by the Governor.
 
 "(c)
-
-Limitation on Number.—
-
-&emsp;"(1)
-
-Limitation.—Except as provided in paragraph (2), the number of aircraft that may be transferred under subsection (a) to each of the Secretary of Agriculture and the Secretary of Homeland Security may not exceed seven aircraft for each agency.
-
-&emsp;"(2)
-
-Termination of limitation after official notice of intent to accept or decline seven aircraft.—The limitation in paragraph (1) on the number of aircraft transferrable under subsection (a) shall cease upon official notice to the Secretary of Defense, from the Secretary of Agriculture, and the Secretary of Homeland Security that the Secretary's respective department will decline or accept seven aircraft.
-
-"(d)
 
 Order of Transfers.—
 
 &emsp;"(1)
 
-Rights of refusal.—In implementing the transfers authorized by subsection (a), the Secretary of Defense shall afford the Secretary of Agriculture the right of first refusal and the Secretary of Homeland Security the second right of refusal in the transfer to each department by the Secretary of Defense of up to seven excess aircraft specified in subsection (b) before the transfer of such excess aircraft is offered to any other department or agency of the Federal Government.
+Rights of refusal.—In implementing the transfers authorized by subsection (a), the Secretary of Defense shall afford the Secretary of Agriculture the right of first refusal and the Secretary of Homeland Security the second right of refusal in the transfer to each department by the Secretary of Defense of excess aircraft specified in subsection (b) before the transfer of such excess aircraft is offered to the Governor of a State or to any other department or agency of the Federal Government.
 
 &emsp;"(2)
 
-Expiration of right of first refusal.—The right of first refusal afforded the Secretary of Agriculture by paragraph (1) shall expire upon official notice of the Secretary to the Secretary of Defense under subsection (c)(2).
+Expiration of right of refusal.—A right of refusal afforded the Secretary of Agriculture or the Secretary of Homeland Security under paragraph (1) with regards to an aircraft shall expire upon official notice of such Secretary to the Secretary of Defense that such Secretary declines such aircraft.
+
+"(d)
+
+Conditions of Certain Transfers.—Excess aircraft transferred to the Secretary of Agriculture or to the Governor of a State under subsection (a)—
+
+&emsp;"(1) may be used only for purposes of wildfire suppression, search and rescue, or emergency operations pertaining to wildfires; and
+
+&emsp;"(2) may not be flown or otherwise removed from the United States unless dispatched by the National Interagency Fire Center in support of an international agreement to assist in wildfire suppression efforts, search and rescue, emergency operations pertaining to wildfires, or for other purposes approved by the Secretary of Agriculture or Governor of the State, as the case may be, in writing in advance.
 
 "(e)
 
-Conditions of Certain Transfers.—Excess aircraft transferred to the Secretary of Agriculture under subsection (a)—
-
-&emsp;"(1) may be used only for wildfire suppression purposes; and
-
-&emsp;"(2) may not be flown or otherwise removed from the United States unless dispatched by the National Interagency Fire Center in support of an international agreement to assist in wildfire suppression efforts or for other purposes approved by the Secretary of Agriculture in writing in advance.
+Additional Limitation.—Excess aircraft transferred under subsection (a) may not be sold by the Secretary of Agriculture, the Secretary of Homeland Security, or the Governor of a State after transfer.
 
 "(f)
 
-Additional Limitation.—Excess aircraft transferred under subsection (a) may not be sold by the Secretary of Agriculture or the Secretary of Homeland Security after transfer.
+Costs After Transfer.—Any costs of operation, maintenance, sustainment, and disposal of excess aircraft transferred under subsection (a) after the date of transfer shall be borne by the Secretary of Agriculture, the Secretary of Homeland Security, or the Governor of the State to which such aircraft is transferred using only State funds, as applicable.
 
 "(g)
 
-Costs After Transfer.—Any costs of operation, maintenance, sustainment, and disposal of excess aircraft transferred under subsection (a) after the date of transfer shall be borne by the Secretary of Agriculture and the Secretary of Homeland Security, as applicable."
+Reporting.—Not later than December 1, 2022, and annually thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on aircraft transferred, during the fiscal year preceding the date of such report, to—
+
+&emsp;"(1) the Secretary of Agriculture, the Secretary of Homeland Security, or the Governor of a State under this section;
+
+&emsp;"(2) the chief executive officer of a State under section 112 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1318); or
+
+&emsp;"(3) the Secretary of the Air Force or the Secretary of Agriculture under section 1098 of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 881)."
 
 #### Commercial Sale of Small Arms Ammunition and Small Arms Ammunition Components in Excess of Military Requirements, and Fired Cartridge Cases
 
@@ -224,7 +224,7 @@ Pub. L. 104–307, Oct. 14, 1996, 110 Stat. 3811, as amended by Pub. L. 106–65
 
 "(a)
 
-Authority.—(1) Notwithstanding subchapter II of chapter 5 of title 40, United States Code, and subject to subsections (b) and (c), the Secretary of Defensemay, during a period specified in subsection (g), sell the aircraft and aircraft parts referred to in paragraph (2) to persons or entities that contract with the Federal Government for the delivery of fire retardant by air in order to suppress wildfire.
+Authority.—(1) Notwithstanding subchapter II of chapter 5 of title 40, United States Code, and subject to subsections (b) and (c), the Secretary of Defense may, during a period specified in subsection (g), sell the aircraft and aircraft parts referred to in paragraph (2) to persons or entities that contract with the Federal Government for the delivery of fire retardant by air in order to suppress wildfire.
 
 "(2) Paragraph (1) applies to aircraft and aircraft parts of the Department of Defense that are determined by the Secretary to be—
 

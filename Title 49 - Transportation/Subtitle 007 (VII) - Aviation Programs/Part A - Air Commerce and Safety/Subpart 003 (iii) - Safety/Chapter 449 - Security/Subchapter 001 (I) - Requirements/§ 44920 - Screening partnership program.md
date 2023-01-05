@@ -58,7 +58,7 @@ Contracts.—The Administrator shall, to the extent practicable, enter into a co
 
 &emsp;(3)
 
-Waivers.—The Administrator may waive the requirement of paragraph (2)(B) for any company that is a United States subsidiary with a parent company that has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Defense Security Service of the Department ofDefense prior to the submission of the application. The Administrator has complete discretion to reject any application from a private screening company to provide screening services at an airport that requires a waiver under this paragraph.
+Waivers.—The Administrator may waive the requirement of paragraph (2)(B) for any company that is a United States subsidiary with a parent company that has implemented a foreign ownership, control, or influence mitigation plan that has been approved by the Defense Security Service of the Department of Defense prior to the submission of the application. The Administrator has complete discretion to reject any application from a private screening company to provide screening services at an airport that requires a waiver under this paragraph.
 
 (e)
 
@@ -92,17 +92,17 @@ Evaluation of Screening Company Proposals for Award.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), notwithstanding any other provision of law, including title 48 of the Code of Federal Regulations and the Federal Advisory Committee Act (5 U.S.C. App.), an airport operator that has applied and been approved to have security screening services carried out by a qualified private screening company under contract with the Administrator may nominate to the head of the contracting activity an individual to participate in the evaluation of proposals for the award of such contract.
+In general.—Except as provided in paragraph (2), notwithstanding any other provision of law, including title 48 of the Code of Federal Regulations and the Federal Advisory Committee Act (5 U.S.C. App.),<sup>1</sup> an airport operator that has applied and been approved to have security screening services carried out by a qualified private screening company under contract with the Administrator may nominate to the head of the contracting activity an individual to participate in the evaluation of proposals for the award of such contract.
 
 &emsp;(2)
 
 Participation on a proposal evaluation committee.—Any participation on a proposal evaluation committee under paragraph (1) shall be conducted in accordance with chapter 21 of title 41.
 
-(i) <sup>1</sup>
+(i) <sup>2</sup>
 
 Innovative Screening Approaches and Technologies.—The Administrator shall encourage an airport operator to whom screening services are provided under this section to recommend to the Administrator innovative screening approaches and technologies. Upon receipt of any such recommendations, the Administrator shall review and, if appropriate, test, conduct a pilot project, and, if appropriate, deploy such approaches and technologies.
 
-(i) <sup>1</sup>
+(i) <sup>2</sup>
 
 Definition of Administrator.—In this section, the term "Administrator" means the Administrator of the Transportation Security Administration.
 
@@ -114,7 +114,7 @@ Definition of Administrator.—In this section, the term "Administrator" means t
 
 The Support Anti-Terrorism by Fostering Effective Technologies Act of 2002, referred to in subsec. (g)(3), is subtitle G (§§861–865) of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2238, also known as the SAFETY Act, which is classified generally to part G (§441 et seq.) of subchapter VIII of chapter 1 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Amendments
 
@@ -174,5 +174,7 @@ Pub. L. 115–254, div. K, title I, §1946(c), Oct. 5, 2018, 132 Stat. 3587, pro
 
 Defense Security Service of the Department of Defense changed to Defense Counterintelligence and Security Agency effective June 20, 2019, pursuant to Ex. Ord. No. 13467, set out as a note under section 3161 of Title 50, War and National Defense.
 
-<i><sup>1</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
 

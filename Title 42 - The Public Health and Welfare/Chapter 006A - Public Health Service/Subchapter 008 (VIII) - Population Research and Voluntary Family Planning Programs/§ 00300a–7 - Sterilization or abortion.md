@@ -16,7 +16,7 @@ The receipt of any grant, contract, loan, or loan guarantee under the Public Hea
 
 #### (c) Discrimination prohibition
 
-(1) No entity which receives a grant, contract, loan, or loan guarantee under the Public HealthService Act \[42 U.S.C. 201 et seq.\], the Community Mental Health Centers Act \[42 U.S.C. 2689 et seq.\], or the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6000 et seq.\] after June 18, 1973, may—
+(1) No entity which receives a grant, contract, loan, or loan guarantee under the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Community Mental Health Centers Act \[42 U.S.C. 2689 et seq.\], or the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6000 et seq.\] after June 18, 1973, may—
 
 &emsp;(A) discriminate in the employment, promotion, or termination of employment of any physician or other health care personnel, or
 
@@ -46,7 +46,7 @@ No entity which receives, after September 29, 1979, any grant, contract, loan, l
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsecs. (b), (c)(1), and (e), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsecs. (b), (c)(1), and (e), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to this chapter (§201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 The Community Mental Health Centers Act, referred to in subsecs. (b), (c)(1), and (e), is title II of Pub. L. 88–164, as added Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
 
@@ -74,5 +74,5 @@ Subsec. (d). Pub. L. 93–348, §214(b), added subsec. (d).
 
 #### Change of Name
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (c)(2) and (d) pursuant to section 509(b)of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (c)(2) and (d) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

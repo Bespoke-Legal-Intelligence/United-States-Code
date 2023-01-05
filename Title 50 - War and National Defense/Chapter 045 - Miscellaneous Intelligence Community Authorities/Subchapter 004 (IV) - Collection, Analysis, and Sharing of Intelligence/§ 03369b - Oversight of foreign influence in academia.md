@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Sensitive research subject
 
-&emsp;The term "sensitive research subject" means a subject of research that is carried out at a covered institution of higher education that receives funds that were appropriated for—
+&emsp;The term "sensitive research subject" means a subject of research that is carried out at a covered institution of higher educationthat receives funds that were appropriated for—
 
 &emsp;&emsp;(A) the National Intelligence Program; or
 
@@ -18,7 +18,7 @@ In this section:
 
 #### (b) Report required
 
-Not later than 180 days after December 20, 2019, and not less frequently than once each year thereafter, the Director of National Intelligence,in consultation with such elements of the intelligence community as the Director considers appropriate and consistent with the privacy protections afforded to United States persons, shall submit to congressional intelligence committees a report on risks to sensitive research subjects posed by foreign entities in order to provide Congress and covered institutions of higher education with more complete information on these risks and to help ensure academic freedom.
+Not later than 180 days after December 20, 2019, and not less frequently than once each year thereafter, the Director of National Intelligence, in consultation with such elements of the intelligence community as the Director considers appropriate and consistent with the privacy protections afforded to United States persons, shall submit to congressional intelligence committees a report on risks to sensitive research subjects posed by foreign entities in order to provide Congress and covered institutions of higher education with more complete information on these risks and to help ensure academic freedom.
 
 #### (c) Contents
 

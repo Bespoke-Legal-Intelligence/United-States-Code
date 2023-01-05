@@ -12,7 +12,7 @@ The purposes of the team nutrition network are—
 
 &emsp;(4) to coordinate and collaborate with other nutrition education and active living programs that share similar goals and purposes; and
 
-&emsp;(5) to identify and share innovative programs with demonstrated effectiveness inhelping children to maintain a healthy weight by enhancing student understanding of healthful eating patterns and the importance of regular physical activity.
+&emsp;(5) to identify and share innovative programs with demonstrated effectiveness in helping children to maintain a healthy weight by enhancing student understanding of healthful eating patterns and the importance of regular physical activity.
 
 #### (b) Definition of team nutrition network
 
@@ -162,7 +162,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 &emsp;&emsp;&emsp;(iv) incorporate nutrition education into physical education, health education, and after school programs, including athletics;
 
-&emsp;&emsp;&emsp;(v) involve parents, nutrition professionals, food service staff, educators, community leaders, and other interested parties in assessing the food options in theschool environment and developing and implementing an action plan to promote a balanced and healthy diet;
+&emsp;&emsp;&emsp;(v) involve parents, nutrition professionals, food service staff, educators, community leaders, and other interested parties in assessing the food options in the school environment and developing and implementing an action plan to promote a balanced and healthy diet;
 
 &emsp;&emsp;&emsp;(vi) provide nutrient content or nutrition information on meals served through the school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.) and the school breakfast program established by section 1773 of this title and items sold a la carte during meal times;
 
@@ -182,7 +182,7 @@ A State agency that receives a grant under this section may use funds from the g
 
 #### (i) Nutrition education support
 
-In carrying out the purpose of this section to support nutrition education, the Secretary may provide for technical assistance and grants to improve the quality of school meals and access to local foods in schools and institutions.
+In carrying out the purpose of this section to support nutrition education, the Secretary may provide for technical assistance and grants toimprove the quality of school meals and access to local foods in schools and institutions.
 
 #### (j) Limitation
 
@@ -230,7 +230,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in subsecs. (d)(1) and (h)(3)(D), (5)(B)(vi), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsecs. (d)(1) and (h)(3)(D), (5)(B)(vi), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 Section 204 of the Child Nutrition and WIC Reauthorization Act of 2004, referred to in subsec. (h)(3)(C), is section 204 of Pub. L. 108–265, which is set out as a note under section 1751 of this title.
 
@@ -364,7 +364,7 @@ Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–193, title VII, §731(g), Aug. 22, 1996, 110 Stat. 2307, provided that: "The amendments made bysubsection (e) \[amending this section\] shall become effective on October 1, 1996."
+Pub. L. 104–193, title VII, §731(g), Aug. 22, 1996, 110 Stat. 2307, provided that: "The amendments made by subsection (e) \[amending this section\] shall become effective on October 1, 1996."
 
 #### Effective Date of 1994 Amendment
 

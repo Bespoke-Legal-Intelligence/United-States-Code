@@ -36,6 +36,10 @@
 
 &emsp;&emsp;&emsp;&emsp;(V) 100 percent by the end of fiscal year 2013.
 
+#### (iii) Implementation in Puerto Rico
+
+&emsp;&emsp;&emsp;The Secretary shall require Puerto Rico to implement an asset verification program under this subsection by January 1, 2026.
+
 #### (B) Consideration
 
 &emsp;&emsp;In selecting States under subparagraph (A)(ii), the Secretary shall consult with the States involved and take into account the feasibility of implementing asset verification programs in each such State.
@@ -48,9 +52,9 @@
 
 &emsp;&emsp;Nothing in subparagraph (A)(ii) shall be construed as preventing a State from requesting, and the Secretary from approving, the implementation of an asset verification program in advance of the deadline otherwise established under such subparagraph.
 
-#### (4) Exemption of territories
+#### (4) Exemption of certain territories
 
-&emsp;This section shall only apply to the 50 States and the District of Columbia.
+&emsp;This section shall only apply to the 50 States, the District of Columbia, and Puerto Rico.
 
 #### (b) Asset verification program
 
@@ -60,11 +64,11 @@
 
 &emsp;&emsp;(A) requires each applicant for, or recipient of, medical assistance under the State plan under this subchapter on the basis of being aged, blind, or disabled to provide authorization by such applicant or recipient (and any other person whose resources are required by law to be disclosed to determine the eligibility of the applicant or recipient for such assistance) for the State to obtain (subject to the cost reimbursement requirements of section 1115(a) of the Right to Financial Privacy Act <sup>1</sup> \[12 U.S.C. 3415\] but at no cost to the applicant or recipient) from any financial institution (within the meaning of section 1101(1) of such Act \[12 U.S.C. 3401(1)\]) any financial record (within the meaning of section 1101(2) of such Act) held by the institution with respect to the applicant or recipient (and such other person, as applicable), whenever the State determines the record is needed in connection with a determination with respect to such eligibility for (or the amount or extent of) such medical assistance; and
 
-&emsp;&emsp;(B) uses the authorization provided under subparagraph (A) to verify the financial resources of such applicant or recipient (and such other person, as applicable), in order to determine or redetermine the eligibility of such applicant or recipient for medical assistance under the State plan.
+&emsp;&emsp;(B) uses the authorization provided under subparagraph (A) to verify the financial resources of such applicant or recipient (and such other person, as applicable), in order to determine or redetermine the eligibility ofsuch applicant or recipient for medical assistance under the State plan.
 
 #### (2) Program described
 
-&emsp;A program described in this paragraph is a program for verifying individual assets in a manner consistent with the approach used bythe Commissioner of Social Security under section 1383(e)(1)(B)(ii) of this title.
+&emsp;A program described in this paragraph is a program for verifying individual assets in a manner consistent with the approach used by the Commissioner of Social Security under section 1383(e)(1)(B)(ii) of this title.
 
 #### (c) Duration of authorization
 
@@ -112,27 +116,39 @@ Notwithstanding any other provision of law, reasonable expenses of States in car
 
 #### (1) In general
 
-&emsp;With respect to a calendar quarter beginning on or after January 1, 2021, the Federal medical assistance percentage otherwise determined under section 1396d(b) of this title for a non-compliant State shall be reduced—
+&emsp;With respect to a calendar quarter, the Federal medical assistance percentage otherwise determined under section 1396d(b) of this title for—
 
-&emsp;&emsp;(A) for calendar quarters in 2021 and 2022, by 0.12 percentage points;
+&emsp;&emsp;(A) a non-compliant State that is one of the 50 States or the District of Columbia shall be reduced—
 
-&emsp;&emsp;(B) for calendar quarters in 2023, by 0.25 percentage points;
+&emsp;&emsp;&emsp;(i) for calendar quarters in 2021 and 2022, by 0.12 percentage points;
 
-&emsp;&emsp;(C) for calendar quarters in 2024, by 0.35 percentage points; and
+&emsp;&emsp;&emsp;(ii) for calendar quarters in 2023, by 0.25 percentage points;
 
-&emsp;&emsp;(D) for calendar quarters in 2025 and each year thereafter, by 0.5 percentage points.
+&emsp;&emsp;&emsp;(iii) for calendar quarters in 2024, by 0.35 percentage points; and
+
+&emsp;&emsp;&emsp;(iv) for calendar quarters in 2025 and each year thereafter, by 0.5 percentage points; and
+
+&emsp;&emsp;(B) a non-compliant State that is Puerto Rico shall be reduced—
+
+&emsp;&emsp;&emsp;(i) for calendar quarters in fiscal year 2026 beginning on or after January 1, 2026, by 0.12 percentage points;
+
+&emsp;&emsp;&emsp;(ii) for calendar quarters in fiscal year 2027, by 0.25 percentage points;
+
+&emsp;&emsp;&emsp;(iii) for calendar quarters in fiscal year 2028, by 0.35 percentage points; and
+
+&emsp;&emsp;&emsp;(iv) for calendar quarters in fiscal year 2029 and each fiscal year thereafter, by 0.5 percentage points.
 
 #### (2) Non-compliant State defined
 
 &emsp;For purposes of this subsection, the term "non-compliant State" means a State—
 
-&emsp;&emsp;(A) that is one of the 50 States or the District of Columbia;
+&emsp;&emsp;(A) that is one of the 50 States, the District of Columbia, or Puerto Rico;
 
 &emsp;&emsp;(B) with respect to which the Secretary has not approved a State plan amendment submitted under subsection (a)(2); and
 
 &emsp;&emsp;(C) that is not operating, on an ongoing basis, an asset verification program in accordance with this section.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1940, as added Pub. L. 110–252, title VII, §7001(d)(1), June 30, 2008, 122 Stat. 2391; amended Pub. L. 116–3, §4, Jan. 24, 2019, 133 Stat. 7.)
+(Aug. 14, 1935, ch. 531, title XIX, §1940, as added Pub. L. 110–252, title VII, §7001(d)(1), June 30, 2008, 122 Stat. 2391; amended Pub. L. 116–3, §4, Jan. 24, 2019, 133 Stat. 7; Pub. L. 117–328, div. FF, title V, §5101(c), Dec. 29, 2022, 136 Stat. 5935.)
 
 #### <b>Editorial Notes</b>
 
@@ -141,6 +157,14 @@ Notwithstanding any other provision of law, reasonable expenses of States in car
 The Right to Financial Privacy Act, referred to in subsec. (d)(1), probably means the Right to Financial Privacy Act of 1978, title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(3)(A)(iii). Pub. L. 117–328, §5101(c)(1)(A), added cl. (iii).
+
+Subsec. (a)(4). Pub. L. 117–328, §5101(c)(1)(B), substituted "Exemption of certain territories" for "Exemption of territories" in heading and ", the District of Columbia, and Puerto Rico" for "and the District of Columbia" in text.
+
+Subsec. (k)(1). Pub. L. 117–328, §5101(c)(2)(A), in introductory provisions, struck out "beginning on or after January 1, 2021" after "With respect to a calendar quarter"; substituted "for—" and subpar. (A) for "for a non-compliant State shall be reduced—"; redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins; and added subpar. (B).
+
+Subsec. (k)(2)(A). Pub. L. 117–328, §5101(c)(2)(B), substituted ", the District of Columbia, or Puerto Rico" for "or the District of Columbia".
 
 <b>2019</b>—Subsec. (k). Pub. L. 116–3 added subsec. (k).
 

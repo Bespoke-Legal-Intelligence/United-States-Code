@@ -44,7 +44,7 @@ Not later than one year after June 26, 2008, the Secretary of Homeland Security 
 
 #### (2) Expedited processing
 
-&emsp;The Secretary of Homeland Security, the Director of the Federal Bureau of Investigation, and the Director of National Intelligence shall take appropriate actions to ensure that applications for naturalization by members of the United States Armed Forces described in paragraph (1), and associated background checks, receive expedited processing and are adjudicated within 180 days of the receipt of responses to all background checks.
+&emsp;The Secretary of Homeland Security, the Director of the Federal Bureau of Investigation,and the Director of National Intelligence shall take appropriate actions to ensure that applications for naturalization by members of the United States Armed Forces described in paragraph (1), and associated background checks, receive expedited processing and are adjudicated within 180 days of the receipt of responses to all background checks.
 
 (Pub. L. 110–251, §2, June 26, 2008, 122 Stat. 2319.)
 

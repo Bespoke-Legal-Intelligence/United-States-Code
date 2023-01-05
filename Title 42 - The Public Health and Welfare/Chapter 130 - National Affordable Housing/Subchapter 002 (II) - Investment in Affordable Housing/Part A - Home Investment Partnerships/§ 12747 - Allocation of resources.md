@@ -10,7 +10,7 @@
 
 #### (3) <sup>1</sup> Insular areas
 
-&emsp;For each fiscal year, of any amounts approved in appropriation Acts to carry out this subchapter, the Secretary shall reserve forgrants to the insular areas the greater of (A) $750,000, or (B) 0.2 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas pursuant to specific criteria for such distribution, which shall be contained in a regulation issued by the Secretary.
+&emsp;For each fiscal year, of any amounts approved in appropriation Acts to carry out this subchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.2 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas pursuant to specific criteria for such distribution, which shall be contained in a regulation issued by the Secretary.
 
 #### (b) Formula allocation
 
@@ -38,7 +38,7 @@
 
 #### (F) Consultation
 
-&emsp;&emsp;The Secretary shall develop the formula in subparagraph (A) in ongoing consultation with (i) the Subcommittee on Housing and Urban Affairs of the Committee on Banking, Housing, and Urban Affairs of the Senate, (ii) the Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and (iii) organizations representing States and units of general local government. Not less than 60 days prior to publishing a formula for comment, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a copy of the formula the Secretary intends to propose.
+&emsp;&emsp;The Secretary shall develop the formula in subparagraph (A) in ongoing consultationwith (i) the Subcommittee on Housing and Urban Affairs of the Committee on Banking, Housing, and Urban Affairs of the Senate, (ii) the Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and (iii) organizations representing States and units of general local government. Not less than 60 days prior to publishing a formula for comment, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a copy of the formula the Secretary intends to propose.
 
 #### (2) Minimum State allocation
 
@@ -56,7 +56,7 @@
 
 #### (4) Threshold reduction
 
-&emsp;If the amount appropriated pursuant to section 12724 of this title for any fiscal year is less than $1,500,000,000, then this section shall be applied during that year by substituting"$335,000" for "$500,000" where it appears in paragraph (3).
+&emsp;If the amount appropriated pursuant to section 12724 of this title for any fiscal year is less than $1,500,000,000, then this section shall be applied during that year by substituting "$335,000" for "$500,000" where it appears in paragraph (3).
 
 #### (c) Criteria for direct reallocation
 

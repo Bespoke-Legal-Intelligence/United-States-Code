@@ -98,7 +98,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;&emsp;(iii) in the field service at Army or Navy disciplinary barracks or at any other confinement and rehabilitation facility operated by any of the armed forces;
 
-> &emsp;&emsp;whose duties in connection with individuals in detention suspected or convicted of offenses against the criminal laws of the United States or of the District of Columbia or offenses against the punitive articles of the Uniform Code of Military Justice (chapter 47 of title 10) require frequent direct contact with these individuals in their detention and are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the head of the employing agency;
+> &emsp;&emsp;whose duties in connection with individuals in detention suspected or convicted of offenses against the criminal laws of theUnited States or of the District of Columbia or offenses against the punitive articles of the Uniform Code of Military Justice (chapter 47 of title 10) require frequent direct contact with these individuals in their detention and are sufficiently rigorous that employment opportunities should be limited to young and physically vigorous individuals, as determined by the head of the employing agency;
 
 &emsp;(18) the term "loss", as used with respect to the Thrift Savings Fund, includes the amount of any loss resulting from the investment of sums in such Fund, or from the breach of any responsibility, duty, or obligation under section 8477.<sup>1</sup>
 
@@ -166,7 +166,7 @@ For the purpose of this chapter—
 
 > &emsp;and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
 
-&emsp;(32) the term "nonforfeitable account balance" means any amounts in an account, established and maintained under subchapter III, which are nonforfeitable (as determined under section 8432(g));
+&emsp;(32) the term "nonforfeitable account balance" means any amounts in an account, established and maintained under subchapterIII, which are nonforfeitable (as determined under section 8432(g));
 
 &emsp;(33) "Nuclear materials courier" has the meaning given that term in section 8331(27);
 
@@ -206,7 +206,7 @@ For the purpose of this chapter—
 
 &emsp;(39) "representative payee" means a person (including an organization) designated under section 8466(c)(1) to receive payments on behalf of a minor or an individual mentally incompetent or under other legal disability.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, titleI, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(o), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(b)(1), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 110–181, div. A, title XI, §1115(b), Jan. 28, 2008, 122 Stat. 361; Pub. L. 111–84, div. A, title XIX, §1904(b)(1), Oct. 28, 2009, 123 Stat. 2616; Pub. L. 112–96, title V, §5001(a), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(a), Dec. 26, 2013, 127 Stat. 1183; Pub. L. 116–126, §2(a)(2), Mar. 18, 2020, 134 Stat. 174.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 517; amended Pub. L. 99–556, title I, §§107, 109, 119, Oct. 27, 1986, 100 Stat. 3132, 3134; Pub. L. 100–238, title I, §§103(a)(2), (c), (d)(2), 113(b)(1), Jan. 8, 1988, 101 Stat. 1744, 1745, 1750; Pub. L. 100–679, §13(a)(2), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 101–335, §6(a)(1), July 17, 1990, 104 Stat. 322; Pub. L. 101–474, §5(o), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(k)(1), Nov. 5, 1990, 104 Stat. 1388–338; Pub. L. 103–337, div. A, title XVI, §1677(a)(4), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 103–353, §5(c), (e)(1), Oct. 13, 1994, 108 Stat. 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §206(a)(1)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–378; Pub. L. 105–261, div. C, title XXXI, §3154(f), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–65, div. A, title V, §522(c)(2), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–571, §3(c)(2), Dec. 28, 2000, 114 Stat. 3056; Pub. L. 108–83, title I, §104(a), Sept. 30, 2003, 117 Stat. 1017; Pub. L. 108–176, title II, §226(a)(2), Dec. 12, 2003, 117 Stat. 2529; Pub. L. 110–161, div. E, title V, §535(b)(1), Dec. 26, 2007, 121 Stat. 2076; Pub. L. 110–181, div. A, title XI, §1115(b), Jan. 28, 2008, 122 Stat. 361; Pub. L. 111–84, div. A, title XIX, §1904(b)(1), Oct. 28, 2009, 123 Stat. 2616; Pub. L. 112–96, title V, §5001(a), Feb. 22, 2012, 126 Stat. 199; Pub. L. 113–67, div. A, title IV, §401(a), Dec. 26, 2013, 127 Stat. 1183; Pub. L. 116–126, §2(a)(2), Mar. 18, 2020, 134 Stat. 174.)
 
 #### <b>Editorial Notes</b>
 
@@ -240,7 +240,7 @@ Par. (38). Pub. L. 113–67, §401(a)(1), added par. (38).
 
 <b>2007</b>—Par. (36). Pub. L. 110–161 added par. (36).
 
-<b>2003</b>—Par. (20). Pub. L. 108–83 inserted before semicolon at end ", and who (in the case of an individual who is a Member of the House of Representatives, including a Delegate or Resident Commissioner to the Congress) serves as a Member prior to the date of the enactment of the Legislative Branch Appropriations Act, 2004".
+<b>2003</b>—Par. (20). Pub. L. 108–83 inserted before semicolon at end ", and who (in the case of an individualwho is a Member of the House of Representatives, including a Delegate or Resident Commissioner to the Congress) serves as a Member prior to the date of the enactment of the Legislative Branch Appropriations Act, 2004".
 
 Par. (35). Pub. L. 108–176 added par. (35).
 
@@ -294,7 +294,7 @@ Par. (19)(C), (D). Pub. L. 99–556, §107, added subpar. (C) and redesignated f
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–126 effective on Mar. 18, 2020, and applicable on and after the effective date ofregulations promulgated under section 3(b)(1) of Pub. L. 116–126, see sections 4 and 3(b) of Pub. L. 116–126, set out respectively as an Effective Date of 2020 Amendment note and a Regulations note under section 8331 of this title.
+Amendment by Pub. L. 116–126 effective on Mar. 18, 2020, and applicable on and after the effective date of regulations promulgated under section 3(b)(1) of Pub. L. 116–126, see sections 4 and 3(b) of Pub. L. 116–126, set out respectively as an Effective Date of 2020 Amendment note and a Regulations note under section 8331 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -376,7 +376,7 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Exceptions.—(1) Subchapter VII of chapter 84 of title 5, United States Code, as added by section 101 of this Act, shall take effect on the date of the enactment of this Act \[June 6, 1986\].
 
-"(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331,8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
+"(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
 
 "(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this title and amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
 
@@ -436,7 +436,7 @@ Pub. L. 108–83, title I, §104(b), Sept. 30, 2003, 117 Stat. 1018, provided th
 
 #### Service as Law Enforcement Officer
 
-Pub. L. 104–52, title VI, §640, Nov. 19, 1995, 109 Stat. 513, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §629(a)\], Sept. 30, 1996, 110 Stat. 3009–314,3009–362, provided that: "Hereafter, service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title."
+Pub. L. 104–52, title VI, §640, Nov. 19, 1995, 109 Stat. 513, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §629(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: "Hereafter, service performed during the period January 1, 1984, through December 31, 1986, which would, if performed after that period, be considered service as a law enforcement officer, as defined in section 8401(17)(A)(i)(II) and (B) of title 5, United States Code, shall be deemed service as a law enforcement officer for the purposes of chapter 84 of such title."
 
 \[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §629(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–362, provided that: "The amendment made by subsection (a) \[amending section 640 of Pub. L. 104–52, set out above\] shall take effect as if included in Public Law 104–52 on the date of its enactment \[Nov. 19, 1995\]."\]
 

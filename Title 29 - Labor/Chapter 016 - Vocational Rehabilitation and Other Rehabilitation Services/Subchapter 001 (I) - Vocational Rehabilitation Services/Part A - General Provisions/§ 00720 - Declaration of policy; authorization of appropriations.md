@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) individuals with disabilities, including individuals with the most significant disabilities, have demonstrated their ability to achieve gainful employment in competitive integrated employment settings if appropriate services and supports are provided;
 
-&emsp;&emsp;(D) reasons for significant numbers of individuals with disabilities not working, or working at levels not commensurate with their abilities and capabilities, include—
+&emsp;&emsp;(D) reasons for significant numbers of individuals with disabilities not working, orworking at levels not commensurate with their abilities and capabilities, include—
 
 &emsp;&emsp;&emsp;(i) discrimination;
 
@@ -82,7 +82,7 @@
 
 #### (A) Increase
 
-&emsp;&emsp;If in any fiscal year the percentage change published under paragraph (1) indicates an increase in the Consumer Price Index, then the amount to be appropriated under subsection (b)(1) for the subsequent fiscal year shall be at least the amount appropriated under subsection (b)(1) for the fiscal year in which the publication is made under paragraph (1) increased by such percentage change.
+&emsp;&emsp;If in any fiscal year the percentage change published under paragraph (1) indicates anincrease in the Consumer Price Index, then the amount to be appropriated under subsection (b)(1) for the subsequent fiscal year shall be at least the amount appropriated under subsection (b)(1) for the fiscal year in which the publication is made under paragraph (1) increased by such percentage change.
 
 #### (B) No increase or decrease
 
@@ -126,9 +126,9 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Prior Provisions
 

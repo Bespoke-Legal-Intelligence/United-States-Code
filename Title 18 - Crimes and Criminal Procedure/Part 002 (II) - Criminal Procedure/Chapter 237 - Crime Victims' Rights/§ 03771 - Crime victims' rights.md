@@ -22,7 +22,7 @@ Rights of Crime Victims.—A crime victim has the following rights:
 
 &emsp;(9) The right to be informed in a timely manner of any plea bargain or deferred prosecution agreement.
 
-&emsp;(10) The right to be informed of the rights under this section and the services described in section 503(c) of the Victims' Rights and Restitution Act of 1990 (42 U.S.C. 10607(c)) <sup>1</sup> and provided contact information for the Office of the Victims' Rights Ombudsman of the Department of Justice.
+&emsp;(10) The right to be informed of the rights under this section and the services described in section 503(c) of the Victims' Rights and Restitution Act of 1990 (42 U.S.C. 10607(c)) <sup>1</sup> and provided contact information for the Office ofthe Victims' Rights Ombudsman of the Department of Justice.
 
 (b)
 
@@ -134,7 +134,7 @@ In general.—The term "crime victim" means a person directly and proximately ha
 
 &emsp;&emsp;(B)
 
-Minors and certain other victims.—In the case of a crime victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardians of the crime victim or the representatives of the crime victim's estate, family members, or any other persons appointed as suitable by thecourt, may assume the crime victim's rights under this chapter, but in no event shall the defendant be named as such guardian or representative.
+Minors and certain other victims.—In the case of a crime victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardians of the crime victim or the representatives of the crime victim's estate, family members, or any other persons appointed as suitable by the court, may assume the crime victim's rights under this chapter, but in no event shall the defendant be named as such guardian or representative.
 
 &emsp;(3)
 

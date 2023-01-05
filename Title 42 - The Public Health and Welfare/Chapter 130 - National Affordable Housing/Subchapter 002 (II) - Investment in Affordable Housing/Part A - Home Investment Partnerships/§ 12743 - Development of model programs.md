@@ -4,7 +4,7 @@
 
 The Secretary shall—
 
-&emsp;(1) in cooperation with participating jurisdictions, government-sponsored mortgage finance corporations, nonprofit organizations, the private sector, and other appropriate parties, develop, test, evaluate, refine, and, asnecessary, replace a selection of model programs designed to carry out the purposes of this subchapter;
+&emsp;(1) in cooperation with participating jurisdictions, government-sponsored mortgage finance corporations, nonprofit organizations, the private sector, and other appropriate parties, develop, test, evaluate, refine, and, as necessary, replace a selection of model programs designed to carry out the purposes of this subchapter;
 
 &emsp;(2) make available to participating jurisdictions alternative model programs, which shall include suggested guidelines, procedures, forms, legal documents and such other elements as the Secretary determines to be appropriate;
 

@@ -14,11 +14,11 @@ It shall be unlawful for any person to furnish, with respect to any product, fab
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Amendments
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–189 substituted "product, fabric, or related material" for "wearing apparel or fabric" wherever appearing and "in accordance with standards issued or amended under the provisions ofsection 1193 of this title show that the fabric or related material covered by the guaranty, or used in the product covered by the guaranty, conforms with applicable flammability standards issued or amended under the provisions of section 1193 of this title" for "under the procedures provided in section 1193 of this title show that the fabric covered by the guaranty, or used in the wearing apparel covered by the guaranty, is not, under the provisions of section 1193 of this title, so highly flammable as to be dangerous when worn by individuals", added cl. (2), and redesignated former cl. (2) as (3).
+<b>1967</b>—Subsec. (a). Pub. L. 90–189 substituted "product, fabric, or related material" for "wearing apparel or fabric" wherever appearing and "in accordance with standards issued or amended under the provisions of section 1193 of this title show that the fabric or related material covered by the guaranty, or used in the product covered by the guaranty, conforms with applicable flammability standards issued or amended under the provisions of section 1193 of this title" for "under the procedures provided in section 1193 of this title show that the fabric covered by the guaranty, or used in the wearing apparel covered by the guaranty, is not, under the provisions of section 1193 of this title, so highly flammable as to be dangerous when worn by individuals", added cl. (2), and redesignated former cl. (2) as (3).
 
 Subsec. (b). Pub. L. 90–189 substituted "product, fabric, or related material" for "wearing apparel or fabric" wherever appearing.
 

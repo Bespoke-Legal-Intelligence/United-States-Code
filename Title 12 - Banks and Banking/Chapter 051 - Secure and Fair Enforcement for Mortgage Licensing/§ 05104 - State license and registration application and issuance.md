@@ -66,7 +66,7 @@ The minimum standards for licensing and registration as a State-licensed loan or
 
 #### (2) Qualified test
 
-&emsp;A written test shall not be treated as a qualified written test for purposes of paragraph (1) unless the test adequately measuresthe applicant's knowledge and comprehension in appropriate subject areas, including—
+&emsp;A written test shall not be treated as a qualified written test for purposes of paragraph (1) unless the test adequately measures the applicant's knowledge and comprehension in appropriate subject areas, including—
 
 &emsp;&emsp;(A) ethics;
 

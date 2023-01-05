@@ -6,7 +6,7 @@
 
 (c) The Secretary of the Army may, notwithstanding the provisions of subchapter V of chapter 55 of title 5 or section 6101 of such title, prescribe for persons employed under this section the following:
 
-&emsp;(1) The work schedule, including hours of work and tours of duty, set forth with suchspecificity and other characteristics as the Secretary determines appropriate.
+&emsp;(1) The work schedule, including hours of work and tours of duty, set forth with such specificity and other characteristics as the Secretary determines appropriate.
 
 &emsp;(2) Any premium pay or compensatory time off for hours of work or tours of duty in excess of the regularly scheduled hours or tours of duty.
 

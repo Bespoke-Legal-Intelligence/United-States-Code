@@ -16,7 +16,7 @@
 
 &emsp;(2) The estimated number of officers that will be serving on active duty in each grade on the last day of the current fiscal year and the estimated numbers of officers that will be needed on active duty on the last day of each of the next five fiscal years.
 
-&emsp;(3) An estimate and analysis for the current fiscal year and for each of the next five fiscalyears of gains to and losses from the number of members on active duty in each officer grade, including a tabulation of—
+&emsp;(3) An estimate and analysis for the current fiscal year and for each of the next five fiscal years of gains to and losses from the number of members on active duty in each officer grade, including a tabulation of—
 
 &emsp;&emsp;(A) retirements displayed by year of active commissioned service;
 
@@ -66,7 +66,15 @@
 
 &emsp;&emsp;(B) the number applicable to high-priority units and organizations (as specified in section 10216(a) of this title).
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 115–232, div. A, title V, §591, Aug. 13, 2018, 132 Stat. 1788; Pub. L. 116–92, div. A, title XVII, §1701(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1794, 1795; Pub. L. 116–283, div. A, title V, §551(a)(4), Jan. 1, 2021, 134 Stat. 3629.)
+(h) Not later than April 1 each year, the Secretary shall submit to Congress a report that sets forth the following with respect to personnel:
+
+&emsp;(1) The number of members of the Armed Forces who are not citizens of the United States during the year covered by such report.
+
+&emsp;(2) The immigration status of such members.
+
+&emsp;(3) The number of such members naturalized.
+
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 115–232, div. A, title V, §591, Aug. 13, 2018, 132 Stat. 1788; Pub. L. 116–92, div. A, title XVII, §1701(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1794, 1795; Pub. L. 116–283, div. A, title V, §551(a)(4), Jan. 1, 2021, 134 Stat. 3629; Pub. L. 117–263, div. A, title V, §591, Dec. 23, 2022, 136 Stat. 2611.)
 
 #### <b>Editorial Notes</b>
 
@@ -80,11 +88,13 @@ Provisions similar to those in this section were contained in section 115(b)(1)(
 
 #### Amendments
 
+<b>2022</b>—Subsec. (h). Pub. L. 117–263 added subsec. (h).
+
 <b>2021</b>—Subsecs. (g), (h). Pub. L. 116–283 redesignated subsec. (h) as (g) and struck out former subsec. (g) which set out elements to be included in a required annual report to Congress.
 
 <b>2019</b>—Pub. L. 116–92, §1701(c)(1), substituted "Annual defense manpower profile report and related reports" for "Annual defense manpower requirements report" in section catchline.
 
-Subsec. (a). Pub. L. 116–92, §1701(a)(1)(A), in introductory provisions, substituted "Not later than April 1each year, the Secretary of Defense shall submit to Congress a defense manpower profile report." for "The Secretary of Defense shall submit to Congress an annual defense manpower requirements report. The report, which shall be in writing, shall be submitted each year on the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31."
+Subsec. (a). Pub. L. 116–92, §1701(a)(1)(A), in introductory provisions, substituted "Not later than April 1 each year, the Secretary of Defense shall submit to Congress a defense manpower profile report." for "The Secretary of Defense shall submit to Congress an annual defense manpower requirements report. The report, which shall be in writing, shall be submitted each year on the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31."
 
 Subsec. (a)(3). Pub. L. 116–92, §1701(a)(1)(B)–(D), struck out par. (3) which read as follows: "the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) of this title."
 

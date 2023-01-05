@@ -12,7 +12,7 @@ The Secretary shall establish and support the operation of a National Clearingho
 
 &emsp;(4) collect and disseminate information on—
 
-&emsp;&emsp;(A) educational research and processes related to the education of English learners, including English learners with a disability, that includes information on best practices on instructing and serving English learners; and
+&emsp;&emsp;(A) educational research and processes related to the education of English learners,including English learners with a disability, that includes information on best practices on instructing and serving English learners; and
 
 &emsp;&emsp;(B) accountability systems that monitor the academic progress of English learners in language instruction educational programs, including information on academic content and English proficiency assessments for language instruction educational programs; and
 

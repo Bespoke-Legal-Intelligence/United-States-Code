@@ -50,7 +50,7 @@ Best Practices Guidelines.—
 
 &emsp;(1)
 
-Uniform guidelines.—The Secretary shall issue uniform management review guidelines and program review guidelines based on the report under subsection (d). Each regional office shall use the guidelines in executing its State administrative review duties under this section.
+Uniform guidelines.—The Secretary shall issue uniform management review guidelines and program review guidelines based onthe report under subsection (d). Each regional office shall use the guidelines in executing its State administrative review duties under this section.
 
 &emsp;(2)
 
@@ -82,5 +82,5 @@ A prior section 408, added Pub. L. 97–364, title I, §101(a), Oct. 25, 1982, 9
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–58, which directed the amendment of this chapter by renumbering section 412 "and" section408, was executed by renumbering section 412 as this section as if "and" had read "as", to reflect the probable intent of Congress.
+<b>2021</b>—Pub. L. 117–58, which directed the amendment of this chapter by renumbering section 412 "and" section 408, was executed by renumbering section 412 as this section as if "and" had read "as", to reflect the probable intent of Congress.
 

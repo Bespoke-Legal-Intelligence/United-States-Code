@@ -4,7 +4,7 @@
 
 #### (b) Student loans
 
-For all student loans under part B or D of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087a et seq.\] made during the period when a sequestration order under section 904 of this title is in effect as required by section 902 or 903 of this title, origination fees under sections 438(c)(2) and (6) and 455(c) \[20 U.S.C. 1087–1(c)(2), (6), 1087e(c)\] and loan processing and issuance fees under section 428(f)(1)(A)(ii) of that Act \[20 U.S.C. 1078(f)(1)(A)(ii)\] shall each be increased by the uniform percentage specified in that sequestration order, and, for student loans originated during the period of the sequestration, special allowance payments under section 438(b) of that Act \[20 U.S.C. 1087–1(b)\] accruing during the period of the sequestration shall be reduced by the uniform percentage specified in that sequestration order.
+For all student loans under part B or D of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1071 et seq., 1087a et seq.\] made during the period when a sequestration order under section 904 of this title is in effect as required by section 902 or 903 of this title, origination fees under sections 438(c)(2) and (6) and 455(c) \[20 U.S.C. 1087–1(c)(2), (6), 1087e(c)\] and loan processing and issuance fees under section 428(f)(1)(A)(ii) of that Act \[20 U.S.C. 1078(f)(1)(A)(ii)\] shall each be increased by the uniform percentage specified in that sequestration order, and, for student loans originated during the period of the sequestration, special allowance payments under section 438(b) of that Act \[20 U.S.C. 1087–1(b)\] accruing during the period of the sequestration shall bereduced by the uniform percentage specified in that sequestration order.
 
 #### (c) Repealed. Pub. L. 111–139, title I, §10(c), Feb. 12, 2010, 124 Stat. 22
 
@@ -66,7 +66,7 @@ For all student loans under part B or D of title IV of the Higher Education Act 
 
 #### (C) Qualified individual (QI) premiums
 
-&emsp;&emsp;Payments to States for coverage of Medicare cost-sharing for certain low-income Medicare beneficiaries under section 1933 of the Social Security Act \[42 U.S.C. 1396u–3\].
+&emsp;&emsp;Payments to States for coverage of Medicare cost-sharing for certain low-incomeMedicare beneficiaries under section 1933 of the Social Security Act \[42 U.S.C. 1396u–3\].
 
 #### (e) Community and migrant health centers, Indian health services and facilities, and veterans' medical care
 
@@ -112,7 +112,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 &emsp;&emsp;&emsp;(i) the elements of compensation of members of the uniformed services specified in section 1009 of title 37,
 
-&emsp;&emsp;&emsp;(ii) allowances provided members of the uniformed services under sections 403a and 475 <sup>1</sup> of such title, and
+&emsp;&emsp;&emsp;(ii) allowances provided members of the uniformed services under sections 403b and 405 of such title, and
 
 &emsp;&emsp;&emsp;(iii) cadet pay and midshipman pay under section 203(c) of such title.
 
@@ -139,6 +139,8 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 &emsp;(E) Federal Retirement Thrift Investment Board.
 
 &emsp;(F) Farm Credit Administration.
+
+&emsp;(G) Cost of War Toxic Exposures Fund.
 
 #### (i) Treatment of payments and advances made with respect to unemployment compensation programs
 
@@ -192,7 +194,7 @@ The effects of sequestration shall be as follows:
 
 &emsp;(1) Budgetary resources sequestered from any account shall be permanently cancelled, except as provided in paragraph (6).
 
-&emsp;(2) Except as otherwise provided, the same percentage sequestration shall apply to all programs, projects, and activities within a budget account (with programs, projects, and activities as delineated in the appropriation Act or accompanying report for the relevant fiscal year covering that account, or for accounts not included in appropriation Acts, as delineated in the most recently submitted President's budget).
+&emsp;(2) Except as otherwise provided, the same percentage sequestration shall apply to allprograms, projects, and activities within a budget account (with programs, projects, and activities as delineated in the appropriation Act or accompanying report for the relevant fiscal year covering that account, or for accounts not included in appropriation Acts, as delineated in the most recently submitted President's budget).
 
 &emsp;(3) Administrative regulations or similar actions implementing a sequestration shall be made within 120 days of the sequestration order. To the extent that formula allocations differ at different levels of budgetary resources within an account, program, project, or activity, the sequestration shall be interpreted as producing a lower total appropriation, with the remaining amount of the appropriation being obligated in a manner consistent with program allocation formulas in substantive law.
 
@@ -202,7 +204,7 @@ The effects of sequestration shall be as follows:
 
 &emsp;(6) Budgetary resources sequestered in revolving, trust, and special fund accounts and offsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
 
-(Pub. L. 99–177, title II, §256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, §743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, §13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(A), (4)(H)\], Nov. 5, 1990, 104 Stat. 1427,1439, 1440; Pub. L. 104–193, title I, §110(r)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–33, title X, §10208(a)(1), (b)–(g), Aug. 5, 1997, 111 Stat. 708–710; Pub. L. 111–139, title I, §§9(b), 10, Feb. 12, 2010, 124 Stat. 21; Pub. L. 111–203, title III, §352, July 21, 2010, 124 Stat. 1546; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–260, div. N, title II, §235(a), (c), Dec. 27, 2020, 134 Stat. 1959.)
+(Pub. L. 99–177, title II, §256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, §743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, §13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(A), (4)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440; Pub. L. 104–193, title I, §110(r)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–33, title X, §10208(a)(1), (b)–(g), Aug. 5, 1997, 111 Stat. 708–710; Pub. L. 111–139, title I, §§9(b), 10, Feb. 12, 2010, 124 Stat. 21; Pub. L. 111–203, title III, §352, July 21, 2010, 124 Stat. 1546; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–260, div. N, title II, §235(a), (c), Dec. 27, 2020, 134 Stat. 1959; Pub. L. 117–168, title VIII, §805(b), Aug. 10, 2022, 136 Stat. 1805; Pub. L. 117–263, div. A, title VI, §626(a), Dec. 23, 2022, 136 Stat. 2628.)
 
 #### Amendment of Section
 
@@ -218,8 +220,6 @@ The Social Security Act, referred to in subsecs. (d) and (i)(1)(B), is act Aug. 
 
 Section 302 of the Federal Employees Pay Comparability Act of 1990, referred to in subsec. (g)(1), is section 529 \[title III, §302\] of Pub. L. 101–509, which is set out as a note under section 5304 of Title 5, Government Organization and Employees.
 
-Section 475 of title 37, referred to in subsec. (g)(2)(B)(ii), was transferred to section 405 of title 37 by Pub. L. 116–283, div. A, title VI, §604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
-
 This title, referred to in subsecs. (h)(1) and (j)(1), (3), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
 Subsec. (h)(1), referred to in subsec. (h)(3), was redesignated subsec. (i)(1) by Pub. L. 101–508, title XIII, §13101(d)(2), Nov. 5, 1990, 104 Stat. 1388–589.
@@ -231,6 +231,10 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g)(2)(B)(ii). Pub. L. 117–263 substituted "sections 403b and 405" for "sections 403a and 475".
+
+Subsec. (h)(4)(G). Pub. L. 117–168 added subpar. (G).
 
 <b>2020</b>—Subsec. (i)(1)(D). Pub. L. 116–260, §235(a), temporarily added subpar. (D). See Effective and Termination Dates of 2020 Amendment note below.
 
@@ -306,7 +310,7 @@ Pub. L. 101–508, §13101(d)(3), substituted "section 904 of this title" for "s
 
 Pub. L. 101–508, §13101(d)(2), redesignated subsec. (f) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (d)(1). Pub. L. 101–508, §13101(d)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The maximum permissible reduction for the health insurance programs under title XVIII of the Social Security Act for any fiscal year, pursuant to an order issued under section 902 of this title, consists only of a reduction of—
+Subsec. (d)(1). Pub. L. 101–508, §13101(d)(5), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The maximum permissible reduction for thehealth insurance programs under title XVIII of the Social Security Act for any fiscal year, pursuant to an order issued under section 902 of this title, consists only of a reduction of—
 
 &emsp;"(A) 1 percent in the case of fiscal year 1986, and
 

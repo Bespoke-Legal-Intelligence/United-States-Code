@@ -60,7 +60,7 @@ The Board is authorized to engage such technical assistance as may be required t
 
 In this section, the term "provider of services" includes a rural health clinic and a Federally qualified health center.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1878, as added Pub. L. 92–603, title II, §243(a), Oct. 30, 1972, 86 Stat. 1420; amended Pub. L. 93–484, §3(a), Oct. 26, 1974, 88 Stat. 1459; Pub. L. 96–499, title IX, §955, Dec. 5, 1980, 94 Stat. 2647; Pub. L. 98–21, title VI, §602(h), Apr. 20, 1983, 97 Stat. 165; Pub. L. 98–369, div. B, title III, §§2351(a)(1), (b)(1), 2354(b)(39), (40), July 18, 1984, 98 Stat. 1098, 1099, 1102; Pub. L. 101–508, title IV, §4161(a)(6), (b)(4), Nov. 5, 1990, 104 Stat. 1388–94, 1388–95; Pub. L. 103–66, title XIII, §13503(c)(1)(B), Aug. 10, 1993, 107 Stat. 579.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1878, as added Pub. L. 92–603, title II, §243(a), Oct. 30, 1972, 86 Stat. 1420; amended Pub. L. 93–484, §3(a), Oct. 26, 1974, 88 Stat. 1459; Pub. L. 96–499, title IX, §955,Dec. 5, 1980, 94 Stat. 2647; Pub. L. 98–21, title VI, §602(h), Apr. 20, 1983, 97 Stat. 165; Pub. L. 98–369, div. B, title III, §§2351(a)(1), (b)(1), 2354(b)(39), (40), July 18, 1984, 98 Stat. 1098, 1099, 1102; Pub. L. 101–508, title IV, §4161(a)(6), (b)(4), Nov. 5, 1990, 104 Stat. 1388–94, 1388–95; Pub. L. 103–66, title XIII, §13503(c)(1)(B), Aug. 10, 1993, 107 Stat. 579.)
 
 #### <b>Editorial Notes</b>
 

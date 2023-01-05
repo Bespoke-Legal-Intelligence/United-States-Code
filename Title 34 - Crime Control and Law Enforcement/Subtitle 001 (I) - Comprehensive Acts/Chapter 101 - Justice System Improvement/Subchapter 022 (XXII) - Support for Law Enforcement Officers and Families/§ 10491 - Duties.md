@@ -10,7 +10,7 @@ The Attorney General shall—
 
 &emsp;(4) provide technical assistance and training programs to develop stress reduction, psychological services, suicide prevention, and family support to State and local law enforcement agencies;
 
-&emsp;(5) collect and disseminate information regarding family support, stress reduction, and psychological services to Federal, State, and local law enforcement agencies, law enforcement-related organizations, and other interested entities; and
+&emsp;(5) collect and disseminate information regarding family support, stress reduction, andpsychological services to Federal, State, and local law enforcement agencies, law enforcement-related organizations, and other interested entities; and
 
 &emsp;(6) determine issues to be researched by the Department of Justice and by grant recipients.
 

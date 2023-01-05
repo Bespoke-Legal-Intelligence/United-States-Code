@@ -36,7 +36,7 @@
 
 (C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under section 3695 of title 38 shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii).
 
-(d)(1) Except as provided in paragraph (2), the amount of the monthly educational assistanceallowance payable to a person pursuing a full-time program of apprenticeship or other on-the-job training under this chapter is—
+(d)(1) Except as provided in paragraph (2), the amount of the monthly educational assistance allowance payable to a person pursuing a full-time program of apprenticeship or other on-the-job training under this chapter is—
 
 &emsp;(A) for each of the first six months of the person's pursuit of such program, 75 percent of the monthly educational assistance allowance otherwise payable to such person under this chapter;
 
@@ -88,7 +88,7 @@
 
 (B) A tutorial assistance allowance may not be paid to a person under this paragraph until the educational institution at which the person is enrolled certifies that—
 
-&emsp;(i) the individualized tutorial assistance is essential to correct a deficiency of the personin a subject required as a part of, or which is prerequisite to, or which is indispensable to the satisfactory pursuit of, an approved program of education;
+&emsp;(i) the individualized tutorial assistance is essential to correct a deficiency of the person in a subject required as a part of, or which is prerequisite to, or which is indispensable to the satisfactory pursuit of, an approved program of education;
 
 &emsp;(ii) the tutor chosen to perform such assistance is qualified to provide such assistance and is not the person's parent, spouse, child (whether or not married or over eighteen years of age), brother, or sister; and
 

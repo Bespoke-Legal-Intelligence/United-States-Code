@@ -24,7 +24,7 @@ Whenever in any political subdivision in which there are observers appointed pur
 
 The district courts of the United States shall have jurisdiction of proceedings instituted pursuant to this section and shall exercise the same without regard to whether a person asserting rights under the provisions of chapters 103 to 107 of this title shall have exhausted any administrative or other remedies that may be provided by law.
 
-(Pub. L. 89–110, title I, §12, Aug. 6, 1965, 79 Stat. 443; Pub. L. 90–284, title I, §103(c), Apr. 11, 1968, 82 Stat. 75; renumbered title I, Pub. L. 91–285, §2,June 22, 1970, 84 Stat. 314; Pub. L. 109–246, §3(d)(3), (4), (e)(2), July 27, 2006, 120 Stat. 580.)
+(Pub. L. 89–110, title I, §12, Aug. 6, 1965, 79 Stat. 443; Pub. L. 90–284, title I, §103(c), Apr. 11, 1968, 82 Stat. 75; renumbered title I, Pub. L. 91–285, §2, June 22, 1970, 84 Stat. 314; Pub. L. 109–246, §3(d)(3), (4), (e)(2), July 27, 2006, 120 Stat. 580.)
 
 #### <b>Editorial Notes</b>
 

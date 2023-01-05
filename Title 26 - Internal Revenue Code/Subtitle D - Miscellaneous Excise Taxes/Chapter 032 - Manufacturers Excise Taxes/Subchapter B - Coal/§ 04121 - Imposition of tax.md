@@ -44,31 +44,7 @@ For purposes of this subchapter—
 
 &emsp;The term "ton" means 2,000 pounds.
 
-#### (e) Reduction in amount of tax
-
-#### (1) In general
-
-&emsp;Effective with respect to sales after the temporary increase termination date, subsection (b) shall be applied—
-
-&emsp;&emsp;(A) by substituting "$.50" for "$1.10",
-
-&emsp;&emsp;(B) by substituting "$.25" for "$.55", and
-
-&emsp;&emsp;(C) by substituting "2 percent" for "4.4 percent".
-
-#### (2) Temporary increase termination date
-
-&emsp;For purposes of paragraph (1), the temporary increase termination date is the earlier of—
-
-&emsp;&emsp;(A) December 31, 2021, or
-
-&emsp;&emsp;(B) the first December 31 after 2007 as of which there is—
-
-&emsp;&emsp;&emsp;(i) no balance of repayable advances made to the Black Lung Disability Trust Fund, and
-
-&emsp;&emsp;&emsp;(ii) no unpaid interest on such advances.
-
-(Added Pub. L. 95–227, §2(a), Feb. 10, 1978, 92 Stat. 11; amended Pub. L. 97–119, title I, §102(a), Dec. 29, 1981, 95 Stat. 1635; Pub. L. 99–272, title XIII, §13203(a), (c), Apr. 7, 1986, 100 Stat. 312, 313; Pub. L. 99–514, title XVIII, §1897(a), Oct. 22, 1986, 100 Stat. 2941; Pub. L. 100–203, title X, §10503, Dec. 22, 1987, 101 Stat. 1330–446; Pub. L. 110–343, div. B, title I, §113(a), Oct. 3, 2008, 122 Stat. 3824; Pub. L. 116–94, div. Q, title I, §105(a), Dec. 20, 2019, 133 Stat. 3228; Pub. L. 116–260, div. EE, title I, §149(a), Dec. 27, 2020, 134 Stat. 3056.)
+(Added Pub. L. 95–227, §2(a), Feb. 10, 1978, 92 Stat. 11; amended Pub. L. 97–119, title I, §102(a), Dec. 29, 1981, 95 Stat. 1635; Pub. L. 99–272, title XIII, §13203(a), (c), Apr. 7, 1986, 100 Stat. 312, 313; Pub. L. 99–514, title XVIII, §1897(a), Oct. 22, 1986, 100 Stat. 2941; Pub. L. 100–203, title X, §10503, Dec. 22, 1987, 101 Stat. 1330–446; Pub. L. 110–343, div. B, title I, §113(a), Oct. 3, 2008, 122 Stat. 3824; Pub. L. 116–94, div. Q, title I, §105(a), Dec. 20, 2019, 133 Stat. 3228; Pub. L. 116–260, div. EE, title I, §149(a), Dec. 27, 2020, 134 Stat. 3056; Pub. L. 117–169, title I, §13901(a), Aug. 16, 2022, 136 Stat. 2013.)
 
 #### <b>Editorial Notes</b>
 
@@ -77,6 +53,8 @@ For purposes of this subchapter—
 For prior section 4121, see Prior Provisions note set out preceding this section.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–169 struck out subsec. (e) which related to reduction in amount of tax.
 
 <b>2020</b>—Subsec. (e)(2)(A). Pub. L. 116–260 substituted "December 31, 2021" for "December 31, 2020".
 
@@ -111,6 +89,10 @@ Subsec. (e). Pub. L. 99–272, §13203(c), substituted "Reduction in amount of t
 <b>1981</b>—Subsec. (e). Pub. L. 97–119 added subsec. (e).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–169, title I, §13901(b), Aug. 16, 2022, 136 Stat. 2013, provided that: "The amendment made by this section \[amending this section\] shall apply to sales in calendar quarters beginning after the date which is 1 day after the date of enactment of this Act \[Aug. 16, 2022\]."
 
 #### Effective Date of 2020 Amendment
 
@@ -158,7 +140,7 @@ Coal producers.—
 
 In general.—Notwithstanding subsections (a)(1) and (c) of section 6416 and section 6511 of the Internal Revenue Code of 1986, if—
 
-&emsp;&emsp;&emsp;"(i) a coal producer establishes that such coal producer, or a party related to such coal producer, exported coal produced by such coal producer to a foreign country or shipped coal produced by such coal producer to a possession of the United States, or caused such coal to be exported or shipped, the export or shipment of which was other than through an exporter who meets the requirements of paragraph (2),
+&emsp;&emsp;&emsp;"(i) a coal producer establishes that such coal producer, or a party related to such coal producer, exported coal produced by such coal producer to a foreign country or shipped coal produced by such coal producer to a possession of the United States, or caused such coal to be exported or shipped, the export or shipment of which wasother than through an exporter who meets the requirements of paragraph (2),
 
 &emsp;&emsp;&emsp;"(ii) such coal producer filed an excise tax return on or after October 1, 1990, and on or before the date of the enactment of this Act \[Oct. 3, 2008\], and
 
@@ -218,7 +200,7 @@ Coal producer.—The term 'coal producer' means the person in whom is vested own
 
 &emsp;"(2)
 
-Exporter.—The term 'exporter' means a person, other than a coal producer, who does not have a contract, fee arrangement, or any other agreement with a producer or seller of such coal to export orship such coal to a third party on behalf of the producer or seller of such coal and—
+Exporter.—The term 'exporter' means a person, other than a coal producer, who does not have a contract, fee arrangement, or any other agreement with a producer or seller of such coal to export or ship such coal to a third party on behalf of the producer or seller of such coal and—
 
 &emsp;&emsp;"(A) is indicated in the shipper's export declaration or other documentation as the exporter of record, or
 

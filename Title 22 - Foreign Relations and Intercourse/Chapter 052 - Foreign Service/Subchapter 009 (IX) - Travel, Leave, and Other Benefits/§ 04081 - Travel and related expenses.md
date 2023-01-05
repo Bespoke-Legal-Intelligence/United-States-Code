@@ -26,7 +26,7 @@ The Secretary may pay the travel and related expenses of members of the Service 
 
 &emsp;(7) removal of the family members of a member of the Service, and the furniture and household and personal effects (including automobiles) of the family, from a Foreign Service post where there is imminent danger because of the prevalence of disturbed conditions, and the return of such individuals, furniture, and effects to such post upon the cessation of such conditions, or to such other Foreign Service post as may in the meantime have become the post to which the member of the Service has been reassigned;
 
-&emsp;(8) trips by a member of the Service, and members of his or her family, for purposes of family visitation in situations where the family of the member is prevented by official order from accompanying the member to, or has been ordered from, the assigned post of themember because of imminent danger due to the prevalence of disturbed conditions, except that—
+&emsp;(8) trips by a member of the Service, and members of his or her family, for purposes of family visitation in situations where the family of the member is prevented by official order from accompanying the member to, or has been ordered from, the assigned post of the member because of imminent danger due to the prevalence of disturbed conditions, except that—
 
 &emsp;&emsp;(A) with respect to any such member whose family is located in the United States, the Secretary may pay the costs and expenses for not to exceed two round trips in a 12-month period; and
 

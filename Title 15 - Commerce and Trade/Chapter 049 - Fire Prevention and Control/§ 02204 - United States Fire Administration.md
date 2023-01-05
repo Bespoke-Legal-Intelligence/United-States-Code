@@ -54,7 +54,7 @@ Pub. L. 105–108, §4, Nov. 20, 1997, 111 Stat. 2264, provided that:
 
 "(a)
 
-In General.—Not later than 60 days before the termination or transfer to a private sector person or entity of any significant function of the United States Fire Administration, as described in subsection (b), the Administrator of the United States Fire Administration shall transmit to Congress a report providing notice of that termination or transfer.
+In General.—Not later than 60 days before the termination or transfer to a private sector person or entity of any significant function of the United StatesFire Administration, as described in subsection (b), the Administrator of the United States Fire Administration shall transmit to Congress a report providing notice of that termination or transfer.
 
 "(b)
 

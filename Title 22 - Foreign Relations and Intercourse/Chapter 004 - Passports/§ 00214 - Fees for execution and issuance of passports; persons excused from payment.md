@@ -2,9 +2,9 @@
 
 (a) There shall be collected and paid into the Treasury of the United States a fee, prescribed by the Secretary of State by regulation, for the filing of each application for a passport (including the cost of passport issuance and use) and a fee, prescribed by the Secretary of State by regulation, for executing each such application except that the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service. Such fees shall not be refundable, except as the Secretary may by regulation prescribe. No passport fee shall be collected from an officer or employee of the United States proceeding abroad in the discharge of official duties, or from members of his immediate family; from an American seaman who requires a passport in connection with his duties aboard an American flag-vessel; from a widow, widower, child, parent, grandparent, brother, or sister of a deceased member of the Armed Forces proceeding abroad to visit the grave of such member or to attend a funeral or memorial service for such member; or from an individual or individuals abroad, returning to the United States, when the Secretary determines that foregoing the collection of such fee is justified for humanitarian reasons or for law enforcement purposes. No execution fee shall be collected for an application made before a Federal official by a person excused from payment of the passport fee under this section.
 
-(b)(1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note). Such surcharge shall be in addition to the fees provided for in subsection (a) and in addition to the surcharges or fees otherwise authorized by law and shall be deposited in the Consular and Border Security Programs account, to remain available until expended for the purposes of meeting such costs.
+(b)(1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; 8 U.S.C. 1185 note). Such surcharge shall be in addition to the fees provided for in subsection (a) and in addition to the surcharges or fees otherwise authorized by law and shall be deposited in the Consular and Border Security Programs account, toremain available until expended for the purposes of meeting such costs.<sup>1</sup>
 
-(2) The authority to collect the surcharge provided under paragraph (1) may not be exercised after September 30, 2010.
+(2) The authority to collect the surcharge provided under paragraph (1) may not be exercised after September 30, 2010.<sup>2</sup>
 
 (3) The Secretary of State shall ensure that, to the extent practicable, the total cost of a passport application during fiscal years 2006 and 2007, including the surcharge authorized under paragraph (1), shall not exceed the cost of the passport application as of December 1, 2005.
 
@@ -22,7 +22,7 @@
 
 Subsec. (a). Pub. L. 109–210 substituted "or from a widow, widower, child, parent, grandparent, brother, or sister of a deceased member of the Armed Forces proceeding abroad to visit the grave of such member or to attend a funeral or memorial service for such member" for "or from a widow, child, parent, brother, or sister of a deceased member of the Armed Forces proceeding abroad to visit the grave of such member".
 
-<b>1999</b>—Pub. L. 106–113, in first sentence, substituted "the filing of each application for a passport (includingthe cost of passport issuance and use)" for "each passport issued" and "each such application except" for "each application for a passport; except" and inserted after first sentence "Such fees shall not be refundable, except as the Secretary may by regulation prescribe."
+<b>1999</b>—Pub. L. 106–113, in first sentence, substituted "the filing of each application for a passport (including the cost of passport issuance and use)" for "each passport issued" and "each such application except" for "each application for a passport; except" and inserted after first sentence "Such fees shall not be refundable, except as the Secretary may by regulation prescribe."
 
 <b>1996</b>—Pub. L. 104–208 inserted "; except that the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service" before period at end of first sentence and struck out after first sentence "Nothing contained in this section shall be construed to limit the right of the Secretary of State by regulation (1) to authorize State officials to collect and retain the execution fee, or (2) to transfer to the United States Postal Service the execution fee for each application accepted by that Service."
 
@@ -50,15 +50,29 @@ Pub. L. 92–14, §2, May 14, 1971, 85 Stat. 38, as amended by Pub. L. 93–126,
 
 Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968, see section 4 of Pub. L. 90–428, set out as a note under section 217a of this title.
 
+#### Deposit of Consular Fees in the Consular and Border Security Programs Account
+
+Pub. L. 117–103, div. K, title VII, §7069(e), Mar. 15, 2022, 136 Stat. 681, provided that: "Beginning on October 1, 2021 and for each fiscal year thereafter, fees collected pursuant to subsection (a) of section 1 of the Passport Act of June 4, 1920 (22 U.S.C. 214(a)) shall, notwithstanding such subsection, be deposited in the Consular and Border Security Programs account as discretionary offsetting receipts: <i>Provided</i>, That amounts deposited in fiscal year 2022 shall remain available until expended for the purposes of such account: <i>Provided further</i>, That the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service."
+
 #### Extension of Consular Fees
 
-Pub. L. 116–260, div. K, title VII, §7069(a), Dec. 27, 2020, 134 Stat. 1812, provided that: "Section 1(b)(1) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(1)) shall be applied through fiscal year 2021 by substituting 'the costs of providing consular services' for 'such costs'."
-
-#### Extension of Authority
-
-Pub. L. 116–260, div. K, title VII, §7034(l)(1), Dec. 27, 2020, 134 Stat. 1749, provided that: "Section 1(b)(2) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(2)) shall be applied by substituting 'September 30, 2021' for 'September 30, 2010'."
+Pub. L. 117–328, div. K, title VII, §7068(a), Dec. 29, 2022, 136 Stat. 5089, provided that: "Section 1(b)(1) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(1)) shall be applied through fiscal year 2023 by substituting 'the costs of providing consular services' for 'such costs'."
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 117–103, div. K, title VII, §7069(a), Mar. 15, 2022, 136 Stat. 681.
+
+Pub. L. 116–260, div. K, title VII, §7069(a), Dec. 27, 2020, 134 Stat. 1812.
+
+#### Extension of Authority To Collect Surcharge
+
+Pub. L. 117–263, div. I, title XCVIII, §9802(a), Dec. 23, 2022, 136 Stat. 3924, provided that: "Section 1(b)(2) of the Passport Act of June 4, 1920 (22 U.S.C. 214(b)(2)) shall be applied by striking 'September 30, 2010' and inserting 'September 30, 2026'."
+
+Prior extensions were contained in the following prior acts:
+
+Pub. L. 117–103, div. K, title VII, §7034(l)(1), Mar. 15, 2022, 136 Stat. 623.
+
+Pub. L. 116–260, div. K, title VII, §7034(l)(1), Dec. 27, 2020, 134 Stat. 1749.
 
 Pub. L. 116–94, div. G, title VII, §7034(l)(1), Dec. 20, 2019, 133 Stat. 2872.
 
@@ -83,4 +97,8 @@ Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1760, as amended by Pub. L.
 #### Information From United States Passports
 
 Pub. L. 101–604, title II, §203(d), Nov. 16, 1990, 104 Stat. 3083, provided that: "Notwithstanding any other provision of law, to the extent provided in appropriation Acts, for each fiscal year not more than $5,000,000 in passport fees collected by the Department of State may be credited to a Department of State account. Amounts credited to such account shall be available only for the costs associated with the acquisition and production of machine-readable United States passports and visas and compatible reading equipment. Amounts credited to such account are authorized to remain available until expended."
+
+<i><sup>1</sup></i><i> See Extension of Consular Fees note below.</i>
+
+<i><sup>2</sup></i><i> See Extension of Authority To Collect Surcharge note below.</i>
 

@@ -16,7 +16,7 @@ The provisions of subsection (a) shall be applicable only with respect to an ind
 
 &emsp;(2) in case such individual is an applicant for or recipient of benefits under the Supplemental Security Income program established by subchapter XVI, in the State in which the individual applies for or receives such benefits,
 
-> a State plan for medical assistance, approved under subchapter XIX, under which medical assistance is available to such individual only for periods for which such individual is a recipientof aid, assistance, or benefits described in subsection (a).
+> a State plan for medical assistance, approved under subchapter XIX, under which medical assistance is available to such individual only for periods for which such individual is a recipient of aid, assistance, or benefits described in subsection (a).
 
 (Aug. 14, 1935, ch. 531, title XI, §1133, as added Pub. L. 96–272, title III, §310(a)(1), June 17, 1980, 94 Stat. 532; amended Pub. L. 102–54, §13(q)(3)(B)(iii), June 13, 1991, 105 Stat. 279; Pub. L. 104–193, title I, §108(g)(6), Aug. 22, 1996, 110 Stat. 2168.)
 

@@ -156,7 +156,7 @@ If any broker—
 
 #### (iii) Treatment of uncorrected de minimis errors
 
-&emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, the customer's adjusted basis shall be determined by treating any incorrect dollar amount which is not required to be corrected by reason of section 6721(c)(3) or section 6722(c)(3) as the correct amount.
+&emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, the customer's adjusted basis shall be determined by treating any incorrect dollar amount which is not required to becorrected by reason of section 6721(c)(3) or section 6722(c)(3) as the correct amount.
 
 #### (3) Covered security
 
@@ -212,7 +212,7 @@ If any broker—
 
 #### (2) Lapse or closing transaction
 
-&emsp;In the case of the lapse (or closing transaction (as defined in section 1234(b)(2)(A))) ofan option on a specified security or the exercise of a cash-settled option on a specified security, reporting under subsections (a) and (g) with respect to such option shall be made for the calendar year which includes the date of such lapse, closing transaction, or exercise.
+&emsp;In the case of the lapse (or closing transaction (as defined in section 1234(b)(2)(A))) of an option on a specified security or the exercise of a cash-settled option on a specified security, reporting under subsections (a) and (g) with respect to such option shall be made for the calendar year which includes the date of such lapse, closing transaction, or exercise.
 
 #### (3) Prospective application
 
@@ -236,7 +236,7 @@ If any broker—
 
 <i>(C) by inserting after subparagraph (C) the following new subparagraph:</i>
 
-&emsp;&emsp;<i>"(D) any person who (for consideration) is responsible for regularly providing any service effectuating transfers of digital assets on behalf of another person.";</i>
+&emsp;&emsp;<i>"(D) any person who (for consideration) is responsible for regularly providing any service ef</i><i>fectuating transfers of digital assets on behalf of another person.";</i>
 
 <i>(2) in subsection (g)(3)(B), by striking "and" at the end of clause (iii), by redesignating clause (iv) as clause (v), and by inserting after clause (iii) the following new clause:</i>
 
@@ -288,7 +288,7 @@ Subsec. (f). Pub. L. 105–34, §1021(a), added subsec. (f).
 
 Subsec. (e)(3). Pub. L. 104–188 inserted at end "Nothing in this paragraph shall be construed to prohibit the real estate reporting person from taking into account its cost of complying with such requirement in establishing its charge (other than a separate charge for complying with such requirement) to any customer for performing services in the case of a real estate transaction."
 
-<b>1992</b>—Subsec. (e)(4). Pub. L. 102–486 substituted heading for one which read: "Whether seller's financing was federally-subsidized" and amended text generally.Prior to amendment, text read as follows: "In the case of a real estate transaction involving a residence, the real estate reporting person shall specify on the return under subsection (a) and the statement under subsection (b) whether or not the financing (if any) of the seller was federally-subsidized indebtedness (as defined in section 143(m)(3))."
+<b>1992</b>—Subsec. (e)(4). Pub. L. 102–486 substituted heading for one which read: "Whether seller's financing was federally-subsidized" and amended text generally. Prior to amendment, text read as follows: "In the case of a real estate transaction involving a residence, the real estate reporting person shall specify on the return under subsection (a) and the statement under subsection (b) whether or not the financing (if any) of the seller was federally-subsidized indebtedness (as defined in section 143(m)(3))."
 
 <b>1990</b>—Subsec. (e)(4). Pub. L. 101–508 substituted "reporting person" for "broker".
 
@@ -372,7 +372,7 @@ Pub. L. 99–514, title XV, §1521(c), Oct. 22, 1986, 100 Stat. 2747, provided t
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §150(b), July 18, 1984, 98 Stat. 690, provided that: "The amendment made by thissection \[amending this section\] shall apply to payments received after December 31, 1984."
+Pub. L. 98–369, div. A, title I, §150(b), July 18, 1984, 98 Stat. 690, provided that: "The amendment made by this section \[amending this section\] shall apply to payments received after December 31, 1984."
 
 Amendment by section 714(e)(1) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 

@@ -48,7 +48,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -152,5 +152,5 @@ Amendment by Pub. L. 93–82 effective Sept. 1, 1973, see section 501 of Pub. L.
 
 #### Report to Congress on Rates and Procedures Covering Payment of Benefits for Care or Services Provided in Veterans' Administration Health Care Facilities to Individuals Not Eligible for Veterans' Hospital, Nursing Home, Domiciliary, or Medical Care
 
-Pub. L. 94–581, title I, §115(c), Oct. 21, 1976, 90 Stat. 2853, provided that at such time as the rates and procedures described in subsec. (d) of this section were prescribed, the Secretary of Health, Education, and Welfare \[now Secretary of Health and Human Services\], in consultation with the Administrator of Veterans' Affairs, was to submit to the Committee on Ways andMeans and the Committee on Veterans' Affairs of the House of Representatives and to the Committee on Finance and the Committee on Veterans' Affairs of the Senate a full report describing such rates and procedures.
+Pub. L. 94–581, title I, §115(c), Oct. 21, 1976, 90 Stat. 2853, provided that at such time as the rates and procedures described in subsec. (d) of this section were prescribed, the Secretary of Health, Education, and Welfare \[now Secretary of Health and Human Services\], in consultation with the Administrator of Veterans' Affairs, was to submit to the Committee on Ways and Means and the Committee on Veterans' Affairs of the House of Representatives and to the Committee on Finance and the Committee on Veterans' Affairs of the Senate a full report describing such rates and procedures.
 

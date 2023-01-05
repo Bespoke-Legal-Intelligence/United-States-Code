@@ -42,7 +42,7 @@
 
 #### (C) Budget authority
 
-&emsp;&emsp;To the extent that subparagraphs (A) and (B) increase the cost to the Government ofoutstanding direct loan obligations or loan guarantee commitments, such activities shall be treated as modifications under section 661c(e) of title 2 and shall be subject to the availability of appropriations. To the extent that paragraphs (A) and (B) impose additional costs to the Resolution Trust Corporation and the Federal Deposit Insurance Corporation, its requirements shall be carried out only if appropriations are provided in advance in an appropriations Act. In the absence of appropriations sufficient to cover the costs of subparagraphs (A) and (B), these requirements shall not apply to the affected agency or agencies.
+&emsp;&emsp;To the extent that subparagraphs (A) and (B) increase the cost to the Government of outstanding direct loan obligations or loan guarantee commitments, such activities shall be treated as modifications under section 661c(e) of title 2 and shall be subject to the availability of appropriations. To the extent that paragraphs (A) and (B) impose additional costs to the Resolution Trust Corporation and the Federal Deposit Insurance Corporation, its requirements shall be carried out only if appropriations are provided in advance in an appropriations Act. In the absence of appropriations sufficient to cover the costs of subparagraphs (A) and (B), these requirements shall not apply to the affected agency or agencies.
 
 #### (D) Definitions
 
@@ -80,7 +80,7 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 #### (B) Report
 
-&emsp;&emsp;Not later than 18 months after the effective date of the regulations issued to carry out this subsection, the Secretary shall transmit to the Congress the findings and recommendations of the Secretary as a result of the demonstration program, including any recommendations of the Secretary for legislation to revise the requirements of this subsection. Based on the demonstration,the Secretary shall prepare and include in the report a comprehensive and workable plan for the cost-effective inspection and abatement of public housing in accordance with paragraph (3), including an estimate of the total cost of abatement in accordance with paragraph (3)(B). In preparing such report, the Secretary shall examine—
+&emsp;&emsp;Not later than 18 months after the effective date of the regulations issued to carry out this subsection, the Secretary shall transmit to the Congress the findings and recommendations of the Secretary as a result of the demonstration program, including any recommendations of the Secretary for legislation to revise the requirements of this subsection. Based on the demonstration, the Secretary shall prepare and include in the report a comprehensive and workable plan for the cost-effective inspection and abatement of public housing in accordance with paragraph (3), including an estimate of the total cost of abatement in accordance with paragraph (3)(B). In preparing such report, the Secretary shall examine—
 
 &emsp;&emsp;&emsp;(i) the most reliable technology available for detecting lead-based paint, including X-ray fluorescence and atomic absorption spectroscopy;
 
@@ -108,7 +108,7 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 #### (B) Schedule
 
-&emsp;&emsp;The Secretary shall require the inspection of all housing subject to this paragraph prior to the expiration of 5 years after the report is required to be transmitted under paragraph (2)(B). The Secretary may prioritize, within such 5-year period, inspections on the basis of vacancy, age of housing, or projected modernization or rehabilitation. The Secretary shall require abatement and final inspection and certification of such housing in accordance with the last two sentences of paragraph (1).
+&emsp;&emsp;The Secretary shall require the inspection of all housing subject to this paragraph prior to the expiration of 5 years after the report is required to be transmitted under paragraph (2)(B). The Secretary may prioritize, within such 5-year period, inspections on the basis of vacancy, age of housing, or projected modernization or rehabilitation. TheSecretary shall require abatement and final inspection and certification of such housing in accordance with the last two sentences of paragraph (1).
 
 #### (4) Report required
 

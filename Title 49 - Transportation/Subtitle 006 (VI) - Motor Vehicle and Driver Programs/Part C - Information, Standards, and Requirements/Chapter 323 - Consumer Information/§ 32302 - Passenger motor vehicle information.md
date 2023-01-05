@@ -62,7 +62,7 @@ Inclusions.—The notice under paragraph (1) shall include—
 
 &emsp;(3)
 
-Report.—Not later than 18 months after the date of enactment of this subsection, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes a plan for implementing an advanced crash-avoidance technology information and rating system, in accordance with subsection (a).
+Report.—Not later than 18 months after the date of enactment of this subsection, theSecretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes a plan for implementing an advanced crash-avoidance technology information and rating system, in accordance with subsection (a).
 
 (f)
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Regulations
 
-Pub. L. 112–252, §1, Jan. 10, 2013, 126 Stat. 2406, provided in part that: "any regulations promulgated under such subsection \[former subsec. (c) of this section\] shall have no force or effect."
+Pub. L. 112–252, §1, Jan. 10, 2013, 126 Stat. 2406, provided in part that: "any regulations promulgated undersuch subsection \[former subsec. (c) of this section\] shall have no force or effect."
 
 #### New Car Assessment Program; Updates
 
@@ -174,7 +174,7 @@ Pub. L. 117–58, div. B, title IV, §24213(a), Nov. 15, 2021, 135 Stat. 826, pr
 
 #### Improved Vehicle Safety Databases
 
-Pub. L. 117–58, div. B, title IV, §24217, Nov. 15, 2021, 135 Stat. 830, provided that: "Not later than 3 years after the date of enactment of this Act \[Nov. 15, 2021\], afterconsultation with frequent users of publicly available databases, the Secretary \[of Transportation\] shall improve public accessibility to information relating to the publicly accessible vehicle safety databases of the National Highway Traffic Safety Administration by revising the publicly accessible vehicle safety databases—
+Pub. L. 117–58, div. B, title IV, §24217, Nov. 15, 2021, 135 Stat. 830, provided that: "Not later than 3 years after the date of enactment of this Act \[Nov. 15, 2021\], after consultation with frequent users of publicly available databases, the Secretary \[of Transportation\] shall improve public accessibility to information relating to the publicly accessible vehicle safety databases of the National Highway Traffic Safety Administration by revising the publicly accessible vehicle safety databases—
 
 &emsp;"(1) to improve organization and functionality, including design features such as drop-down menus;
 

@@ -9,7 +9,7 @@
 | [273\.](%C2%A7%2000273%20-%20Functions%3B%20for%20whom%20exercised.md) | Functions; for whom exercised. |
 | [273a.](%C2%A7%2000273a%20-%20Under%20Secretary%20of%20Commerce%20for%20Standards%20and%20Technology.md) | Under Secretary of Commerce for Standards and Technology. |
 | [274\.](%C2%A7%2000274%20-%20Director%3B%20powers%20and%20duties%3B%20report%3B%20compensation.md) | Director; powers and duties; report; compensation. |
-| [275\.](%C2%A7%2000275%20-%20Appointment%20of%20officers%20and%20employees.md) | Appointment of officers and employees. |
+| [275\.](%C2%A7%2000275%20-%20Hiring%20critical%20technical%20experts.md) | Hiring critical technical experts. |
 | [275a.](%C2%A7%2000275a%20-%20Service%20charges.md) | Service charges. |
 | [275b.](%C2%A7%2000275b%20-%20Charges%20for%20activities%20performed%20for%20other%20agencies.md) | Charges for activities performed for other agencies. |
 | [275c.](%C2%A7%2000275c%20-%20Cost%20recovery%20authority.md) | Cost recovery authority. |
@@ -40,6 +40,7 @@
 | [278j.](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md) | Studies by National Research Council. |
 | [278k.](%C2%A7%2000278k%20-%20Hollings%20Manufacturing%20Extension%20Partnership.md) | Hollings Manufacturing Extension Partnership. |
 | 278k–1. | Competitive awards program. |
+| 278k–2. | Expansion awards pilot program. |
 | 278<i>l.</i> | Assistance to State technology programs. |
 | 278m, 278n. | Repealed. |
 | 278n–1. | Emergency communication and tracking technologies research initiative. |
@@ -49,6 +50,7 @@
 | [278q.](%C2%A7%2000278q%20-%20Appropriations%3B%20availability.md) | Appropriations; availability. |
 | [278r.](%C2%A7%2000278r%20-%20Collaborative%20manufacturing%20research%20pilot%20grants.md) | Collaborative manufacturing research pilot grants. |
 | [278s.](%C2%A7%2000278s%20-%20Manufacturing%20USA.md) | Manufacturing USA. |
+| [278t.](%C2%A7%2000278t%20-%20Advanced%20communications%20research%20activities.md) | Advanced communications research activities. |
 | [279\.](%C2%A7%2000279%20-%20Absence%20of%20Director.md) | Absence of Director. |
 | 280, 281. | Repealed. |
 | [281a.](%C2%A7%2000281a%20-%20Structural%20failures.md) | Structural failures. |
@@ -70,7 +72,7 @@
 - [&sect; 00273 - Functions; for whom exercised](%C2%A7%2000273%20-%20Functions%3B%20for%20whom%20exercised.md)
 - [&sect; 00273a - Under Secretary of Commerce for Standards and Technology](%C2%A7%2000273a%20-%20Under%20Secretary%20of%20Commerce%20for%20Standards%20and%20Technology.md)
 - [&sect; 00274 - Director; powers and duties; report; compensation](%C2%A7%2000274%20-%20Director%3B%20powers%20and%20duties%3B%20report%3B%20compensation.md)
-- [&sect; 00275 - Appointment of officers and employees](%C2%A7%2000275%20-%20Appointment%20of%20officers%20and%20employees.md)
+- [&sect; 00275 - Hiring critical technical experts](%C2%A7%2000275%20-%20Hiring%20critical%20technical%20experts.md)
 - [&sect; 00275a - Service charges](%C2%A7%2000275a%20-%20Service%20charges.md)
 - [&sect; 00275b - Charges for activities performed for other agencies](%C2%A7%2000275b%20-%20Charges%20for%20activities%20performed%20for%20other%20agencies.md)
 - [&sect; 00275c - Cost recovery authority](%C2%A7%2000275c%20-%20Cost%20recovery%20authority.md)
@@ -101,6 +103,7 @@
 - [&sect; 00278j - Studies by National Research Council](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md)
 - [&sect; 00278k - Hollings Manufacturing Extension Partnership](%C2%A7%2000278k%20-%20Hollings%20Manufacturing%20Extension%20Partnership.md)
 - [&sect; 00278k&#8211;1 - Competitive awards program](%C2%A7%2000278k%E2%80%931%20-%20Competitive%20awards%20program.md)
+- [&sect; 00278k&#8211;2 - Expansion awards pilot program](%C2%A7%2000278k%E2%80%932%20-%20Expansion%20awards%20pilot%20program.md)
 - [&sect; 00278l - Assistance to State technology programs](%C2%A7%2000278l%20-%20Assistance%20to%20State%20technology%20programs.md)
 - [&sect; 00278m - Repealed. Pub. L. 110&#8211;69, title III, &sect;3013(d), Aug. 9, 2007, 121 Stat. 599](%C2%A7%2000278m%20-%20Repealed.%20Pub.%20L.%20110%E2%80%9369%2C%20title%20III%2C%20%C2%A73013%28d%29%2C%20Aug.%209%2C%202007%2C%20121%20Stat.%20599.md)
 - [&sect; 00278n - Repealed. Pub. L. 114&#8211;329, title II, &sect;205(a)(1), Jan. 6, 2017, 130 Stat. 3000](%C2%A7%2000278n%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93329%2C%20title%20II%2C%20%C2%A7205%28a%29%281%29%2C%20Jan.%206%2C%202017%2C%20130%20Stat.%203000.md)
@@ -111,6 +114,7 @@
 - [&sect; 00278q - Appropriations; availability](%C2%A7%2000278q%20-%20Appropriations%3B%20availability.md)
 - [&sect; 00278r - Collaborative manufacturing research pilot grants](%C2%A7%2000278r%20-%20Collaborative%20manufacturing%20research%20pilot%20grants.md)
 - [&sect; 00278s - Manufacturing USA](%C2%A7%2000278s%20-%20Manufacturing%20USA.md)
+- [&sect; 00278t - Advanced communications research activities](%C2%A7%2000278t%20-%20Advanced%20communications%20research%20activities.md)
 - [&sect; 00279 - Absence of Director](%C2%A7%2000279%20-%20Absence%20of%20Director.md)
 - [&sect; 00280, 281 - Repealed. Pub. L. 100&#8211;418, title V, &sect;5113, Aug. 23, 1988, 102 Stat. 1432](%C2%A7%2000280%2C%20281%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93418%2C%20title%20V%2C%20%C2%A75113%2C%20Aug.%2023%2C%201988%2C%20102%20Stat.%201432.md)
 - [&sect; 00281a - Structural failures](%C2%A7%2000281a%20-%20Structural%20failures.md)

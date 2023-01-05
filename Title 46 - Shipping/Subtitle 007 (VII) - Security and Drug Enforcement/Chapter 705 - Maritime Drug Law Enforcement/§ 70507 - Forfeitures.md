@@ -28,7 +28,7 @@ Prima Facie Evidence of Violation.—Practices commonly recognized as smuggling 
 
 &emsp;(3) The presence of excessive fuel, lube oil, food, water, or spare parts, inconsistent with legitimate vessel operation, inconsistent with the construction or equipment of the vessel, or inconsistent with the character of the vessel's stated purpose.
 
-&emsp;(4) The operation of the vessel without lights during times lights are required to be displayed under applicable law or regulation and in a manner of navigation consistent withsmuggling tactics used to avoid detection by law enforcement authorities.
+&emsp;(4) The operation of the vessel without lights during times lights are required to be displayed under applicable law or regulation and in a manner of navigation consistent with smuggling tactics used to avoid detection by law enforcement authorities.
 
 &emsp;(5) The failure of the vessel to stop or respond or heave to when hailed by government authority, especially where the vessel conducts evasive maneuvering when hailed.
 

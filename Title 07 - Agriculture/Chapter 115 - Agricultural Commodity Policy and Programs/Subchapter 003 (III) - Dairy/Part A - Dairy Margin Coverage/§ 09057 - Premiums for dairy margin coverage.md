@@ -107,7 +107,7 @@ The premium per hundredweight specified in the tables contained in subsections (
 
 #### (1) In general
 
-&emsp;For each of calendar years 2019 through 2023, for a participating dairy operation that makes a 1-time election of coverage level in a tier and of a percentage of coverage under section 9056(a) of this title for the 5-year period beginning in January 2019.
+&emsp;For each of calendar years 2019 through 2023, for a participating dairy operation that makesa 1-time election of coverage level in a tier and of a percentage of coverage under section 9056(a) of this title for the 5-year period beginning in January 2019.
 
 #### (2) New dairy operations
 

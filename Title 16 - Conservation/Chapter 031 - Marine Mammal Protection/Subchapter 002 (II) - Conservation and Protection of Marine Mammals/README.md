@@ -27,3 +27,7 @@
 - [&sect; 01387 - Taking of marine mammals incidental to commercial fishing operations](%C2%A7%2001387%20-%20Taking%20of%20marine%20mammals%20incidental%20to%20commercial%20fishing%20operations.md)
 - [&sect; 01388 - Marine mammal cooperative agreements in Alaska](%C2%A7%2001388%20-%20Marine%20mammal%20cooperative%20agreements%20in%20Alaska.md)
 - [&sect; 01389 - Pacific Coast Task Force; Gulf of Maine](%C2%A7%2001389%20-%20Pacific%20Coast%20Task%20Force%3B%20Gulf%20of%20Maine.md)
+- [&sect; 01390 - Assistance to ports to reduce impacts of vessel traffic and port operations on marine mammals](%C2%A7%2001390%20-%20Assistance%20to%20ports%20to%20reduce%20impacts%20of%20vessel%20traffic%20and%20port%20operations%20on%20marine%20mammals.md)
+- [&sect; 01391 - Near real-time monitoring and mitigation program for large cetaceans](%C2%A7%2001391%20-%20Near%20real-time%20monitoring%20and%20mitigation%20program%20for%20large%20cetaceans.md)
+- [&sect; 01392 - Monitoring ocean soundscapes](%C2%A7%2001392%20-%20Monitoring%20ocean%20soundscapes.md)
+- [&sect; 01393 - Conservation and mitigation assistance](%C2%A7%2001393%20-%20Conservation%20and%20mitigation%20assistance.md)

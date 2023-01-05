@@ -24,11 +24,11 @@ A prior section 271, added Pub. L. 85–861, §1(5)(A), Sept. 2, 1958, 72 Stat. 
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–570, title III, §3051, Oct. 27, 1986, 100 Stat. 3207–74, provided that: "This subtitle \[subtitle A (§§3051–3059) of title III of Pub. L. 99–570, enacting section 379 of this title, amending sections 374 and 911 of this title, enacting provisions set out as notes under sections 374, 525, and 9441 of this title, and repealing provisions set out as a note under section 89 of Title 14, Coast Guard\] may be cited as the 'Defense Drug Interdiction Assistance Act'."
+Pub. L. 99–570, title III, §3051, Oct. 27, 1986, 100 Stat. 3207–74, provided that: "This subtitle \[subtitle A (§§3051–3059) of title III of Pub. L. 99–570, enacting section 379 of this title, amending sections 374 and 911 of this title, enacting provisions set out as notes undersections 374, 525, and 9441 of this title, and repealing provisions set out as a note under section 89 of Title 14, Coast Guard\] may be cited as the 'Defense Drug Interdiction Assistance Act'."
 
 #### Enhancement of Information Sharing and Coordination of Military Training Between Department of Homeland Security and Department of Defense
 
-Pub. L. 114–328, div. A, title X, §1014, Dec. 23, 2016, 130 Stat. 2386, as amended by Pub. L. 116–92, div. A, title X, §1053, Dec. 20, 2019, 133 Stat. 1591; Pub. L. 117–81, div. A, title X, §1063, Dec. 27, 2021, 135 Stat. 1909, provided that:
+Pub. L. 114–328, div. A, title X, §1014, Dec. 23, 2016, 130 Stat. 2386, as amended by Pub. L. 116–92, div. A, title X, §1053, Dec. 20, 2019, 133 Stat. 1591; Pub. L. 117–81, div. A, title X, §1063, Dec. 27, 2021, 135 Stat. 1909; Pub. L. 117–263, div. A, title X, §1058, Dec. 23, 2022, 136 Stat. 2780, provided that:
 
 "(a)
 
@@ -84,7 +84,7 @@ Elements.—Each report submitted under subparagraph (A) shall include each of t
 
 &emsp;&emsp;&emsp;"(iii) A description of any Department of Defense activities provided in response to a request for assistance from the Department of Homeland Security.
 
-&emsp;&emsp;&emsp;"(iv) For each activity described in clause (iii)—
+&emsp;&emsp;&emsp;"(iv) For each activity described in clause (iii), the following:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) The stated rationale of the Department of Homeland Security for requesting assistance from the Department of Defense.
 
@@ -99,6 +99,10 @@ Elements.—Each report submitted under subparagraph (A) shall include each of t
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI) Whether the Department of Defense was reimbursed by the Department of Homeland Security for the assistance provided.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VII) In the case of assistance for which the Department of Defense was not reimbursed, the justification for non-reimbursement.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VIII) The methodology used for making cost estimates in the evaluation of a request for assistance.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IX) The extent to which the fulfillment of the request for assistance affected readiness of the Armed Forces, including members of the reserve components.
 
 &emsp;&emsp;&emsp;"(v) A description of any Department of Defense excess property provided to U. S. Customs and Border Protection.
 
@@ -116,11 +120,11 @@ Department of homeland security report.—Not later than March 31 of each year, 
 
 &emsp;"(3)
 
-Termination.—The requirement to submit a report under paragraph (1) or (2) shall terminate on December 31, 2023."
+Termination.—The requirement to submit a report under paragraph (1) or (2) shall terminate on December 31, 2024."
 
 #### Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities
 
-Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, §1004(a), Dec. 31, 2011, 125 Stat. 1556; Pub. L. 112–239, div. A, title X, §1011, Jan. 2, 2013, 126 Stat. 1907; Pub. L. 113–66, div. A, title X, §1012, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §1014, Dec. 19, 2014, 128 Stat. 3484; Pub. L. 115–91, div. A, title X, §1081(i), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title X, §1022, Dec. 20, 2019, 133 Stat. 1578; Pub. L. 117–81, div. A, title X, §1008, Dec. 27, 2021, 135 Stat. 1889, provided that:
+Pub. L. 108–136, div. A, title X, §1022, Nov. 24, 2003, 117 Stat. 1594, as amended by Pub. L. 109–163, div. A, title X, §1022, Jan. 6, 2006, 119 Stat. 3427; Pub. L. 110–181, div. A, title X, §1021, Jan. 28, 2008, 122 Stat. 304; Pub. L. 110–417, \[div. A\], title X, §1022, Oct. 14, 2008, 122 Stat. 4586; Pub. L. 111–84, div. A, title X, §1012, Oct. 28, 2009, 123 Stat. 2441; Pub. L. 111–383, div. A, title X, §1012(a)–(b)(2), Jan. 7, 2011, 124 Stat. 4346, 4347; Pub. L. 112–81, div. A, title X, §1004(a), Dec. 31, 2011, 125 Stat. 1556; Pub. L. 112–239, div. A, title X, §1011, Jan. 2, 2013,126 Stat. 1907; Pub. L. 113–66, div. A, title X, §1012, Dec. 26, 2013, 127 Stat. 844; Pub. L. 113–291, div. A, title X, §1014, Dec. 19, 2014, 128 Stat. 3484; Pub. L. 115–91, div. A, title X, §1081(i), Dec. 12, 2017, 131 Stat. 1601; Pub. L. 116–92, div. A, title X, §1022, Dec. 20, 2019, 133 Stat. 1578; Pub. L. 117–81, div. A, title X, §1008, Dec. 27, 2021, 135 Stat. 1889, provided that:
 
 "(a)
 

@@ -66,7 +66,7 @@ All loans made under this section shall be disbursed in accordance with the requ
 
 &emsp;&emsp;&emsp;(II) if the parent borrower is also a student, the day after the date such parent borrower ceases to carry at least one-half such a workload; and
 
-&emsp;&emsp;(ii) in the case of a graduate or professional student borrower, during the 6-monthperiod beginning on the day after the date such student ceases to carry at least one-half the normal full-time academic workload (as determined by the institution).
+&emsp;&emsp;(ii) in the case of a graduate or professional student borrower, during the 6-month period beginning on the day after the date such student ceases to carry at least one-half the normal full-time academic workload (as determined by the institution).
 
 #### (2) Capitalization of interest
 
@@ -134,13 +134,13 @@ A parent who wishes to borrow funds under this section shall be subject to verif
 
 &emsp;(2) social security number in the same manner as social security numbers are verified for students under section 1091(p) of this title.
 
-(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat.1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075; Pub. L. 116–260, div. FF, title VII, §§702(n)(1)(B), 704(1), Dec. 27, 2020, 134 Stat. 3186, 3199.)
+(Pub. L. 89–329, title IV, §428B, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1386; amended Pub. L. 100–50, §10(o), (p)(2), (q), (r)(1), June 3, 1987, 101 Stat. 343, 344; Pub. L. 102–325, title IV, §418, July 23, 1992, 106 Stat. 531; Pub. L. 103–66, title IV, §4109(a), Aug. 10, 1993, 107 Stat. 369; Pub. L. 105–178, title VIII, §8301(a)(2), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(a)(2), 419, Oct. 7, 1998, 112 Stat. 1680, 1694; Pub. L. 109–171, title VIII, §§8005(c), 8014(g), Feb. 8, 2006, 120 Stat. 158, 171; Pub. L. 110–227, §§3(a), 4, May 7, 2008, 122 Stat. 742, 743; Pub. L. 110–315, title IV, §424(a), Aug. 14, 2008, 122 Stat. 3232; Pub. L. 111–39, title IV, §402(f)(2), July 1, 2009, 123 Stat. 1943; Pub. L. 111–152, title II, §2205, Mar. 30, 2010, 124 Stat. 1075; Pub. L. 116–260, div. FF, title VII, §§702(n)(1)(B), 704(1), Dec. 27, 2020, 134 Stat. 3186, 3199.)
 
 #### Amendment of Section
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(n)(1)(B), (2), Dec. 27, 2020, 134 Stat. 3137, 3186, provided that, effective July 1, 2023, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, subsection (f)(2) of this section is amended by striking "section 1091(p)" and inserting "section 1091(o)".</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(n)(1)(B), (2), Dec. 27, 2020, 134 Stat. 3137, 3186; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, subsection (f)(2) of this section is amended by striking "section 1091(p)" and inserting "section 1091(o)".</i>
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended by striking "the expected family contribution" each place the term appears and inserting "the student aid index".</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended by striking "the expected family contribution" each place the term appears and inserting "the student aid index".</i>
 
 <i>See 2020 Amendment notes below.</i>
 
@@ -236,9 +236,11 @@ Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted "October 1, 1987" f
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 Pub. L. 116–260, div. FF, title VII, §702(n)(2), Dec. 27, 2020, 134 Stat. 3186, provided that: "Notwithstanding section 701(b) of this Act \[div. FF of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 1001 of this title\], sections 401(b)(6) and 484(r) of the Higher Education Act of 1965 (20 U.S.C. 1070a(b)(6); 1091(r)) as in effect on the date of enactment of this Act \[Dec. 27, 2020\], and section 12(f) of the Military Selective Service Act (50 U.S.C. 3811(f)), the Secretary of Education may implement the amendments made by paragraph (1) of this subsection \[amending this section and sections 1091 and 1092 of this title\] before (but not later than) July 1, 2023. The Secretary shall specify in a designation on what date, under what conditions, and for which award years the Secretary will implement such amendments prior to July 1, 2023. The Secretary shall publish any designation under this paragraph in the Federal Register at least 60 days before implementation."
+
+\[Effective date of title VII of div. FF of Pub. L. 116–260 was changed from July 1, 2023, to July 1, 2024, by section 102(a) of Pub. L. 117–103, see section 701(b) of div. FF of Pub. L. 116–260, set out as a note under section 1001 of this title. However, the July 1, 2023, implementation dates in section 702(n)(2) of Pub. L. 116–260, set out above, were not correspondingly amended.\]
 
 #### Effective Date of 2009 Amendment
 
@@ -248,7 +250,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 Amendment by Pub. L. 110–315 effective for loans for which the first disbursement is made on or after July 1, 2008, see section 424(c) of Pub. L. 110–315, set out as a note under section 1078 of this title.
 
-Amendment by section 3(a) of Pub. L. 110–227 effective for loans first disbursed on or after July 1, 2008, see section 3(c) of Pub. L. 110–227, set out as a note under section 1078 of this title.
+Amendment by section 3(a) of Pub. L. 110–227 effective for loans first disbursed on or after July 1, 2008, seesection 3(c) of Pub. L. 110–227, set out as a note under section 1078 of this title.
 
 #### Effective Date of 2006 Amendment
 

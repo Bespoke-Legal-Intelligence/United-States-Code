@@ -26,7 +26,7 @@ Notwithstanding the provisions of subsection (b), whenever any institution recei
 
 #### (1) State requirements
 
-&emsp;If an institution described under subsection (a) is within a State which has enacted requirements for public disclosure of gifts from or contracts with a foreign source that are substantially similar to the requirements of this section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report required under subsection (a). The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
+&emsp;If an institution described under subsection (a) is within a State which has enacted requirements for public disclosure of gifts fromor contracts with a foreign source that are substantially similar to the requirements of this section, a copy of the disclosure report filed with the State may be filed with the Secretary in lieu of a report required under subsection (a). The State in which the institution is located shall provide to the Secretary such assurances as the Secretary may require to establish that the institution has met the requirements for public disclosure under State law if the State report is filed.
 
 #### (2) Use of other Federal reports
 

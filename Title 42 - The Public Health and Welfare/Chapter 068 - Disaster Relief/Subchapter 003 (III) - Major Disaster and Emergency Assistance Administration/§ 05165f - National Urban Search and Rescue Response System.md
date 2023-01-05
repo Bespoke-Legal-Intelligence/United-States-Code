@@ -76,7 +76,7 @@ The Administrator shall maintain such management teams and other technical teams
 
 #### (1) In general
 
-&emsp;The Administrator may appoint a System member into Federal service for a period of service to provide for the participation of the System member in exercises, preincident staging, major disaster and emergency response activities, and training events sponsored or sanctioned by the Administrator.
+&emsp;The Administrator may appoint a System member into Federal service for a period ofservice to provide for the participation of the System member in exercises, preincident staging, major disaster and emergency response activities, and training events sponsored or sanctioned by the Administrator.
 
 #### (2) Nonapplicability of certain civil service laws
 
@@ -148,7 +148,7 @@ The Administrator shall maintain such management teams and other technical teams
 
 #### (i) Liability
 
-A System member appointed into Federal service under subsection (f)(1), while acting within the scope of the appointment, shall be considered to be an employee of the Federal Government under section 1346(b) of title 28 and chapter 171 of that title, relating to tort claims procedure.
+A System member appointed into Federal service under subsection (f)(1), while acting within the scope of the appointment, shall be considered to be an employee of the Federal Government under section 1346(b) of title 28 andchapter 171 of that title, relating to tort claims procedure.
 
 #### (j) Employment and reemployment rights
 

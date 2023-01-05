@@ -8,7 +8,7 @@
 
 (b) A creditor may present a negotiable instrument, and may give notice of dishonor of such an instrument.
 
-(c) On request of a party in interest and after notice and a hearing, the court shall grant relief from the stay provided by subsection (a) of this section with respect to a creditor, to the extent that—
+(c) On request of a party in interest and after notice and a hearing, the court shall grant relieffrom the stay provided by subsection (a) of this section with respect to a creditor, to the extent that—
 
 &emsp;(1) as between the debtor and the individual protected under subsection (a) of this section, such individual received the consideration for the claim held by such creditor;
 
@@ -30,7 +30,7 @@ Section 1301 of the House amendment is identical with the provision contained in
 
 Subsection (a) automatically stays the holder of a claim based on a consumer debt of the chapter 13 debtor from acting or proceeding in any way, except as authorized pursuant to subsections (b) and (c), against an individual or the property of an individual liable with the chapter 13 debtor, unless such codebtor became liable in the ordinary course of his business, or unless the case is closed, dismissed, or converted to another chapter.
 
-Under the terms of the agreement with the codebtor who is not in bankruptcy, the creditor has a right to collect all payments to the extent they are not made by the debtor at the time they are due. To the extent to which a chapter 13 plan does not propose to pay a creditor his claims, the creditor may obtain relief from the court from the automatic stay and collect such claims from the codebtor. Conversely, a codebtor obtains the benefit of any payments made to the creditor under the plan. If a debtor defaults on scheduled payments under the plan, then the codebtor would be liablefor the remaining deficiency; otherwise, payments not made under the plan may never be made by the codebtor. The obligation of the codebtor to make the creditor whole at the time payments are due remains.
+Under the terms of the agreement with the codebtor who is not in bankruptcy, the creditor has a right to collect all payments to the extent they are not made by the debtor at the time they are due. To the extent to which a chapter 13 plan does not propose to pay a creditor his claims, the creditor may obtain relief from the court from the automatic stay and collect such claims from the codebtor. Conversely, a codebtor obtains the benefit of any payments made to the creditor under the plan. If a debtor defaults on scheduled payments under the plan, then the codebtor would be liable for the remaining deficiency; otherwise, payments not made under the plan may never be made by the codebtor. The obligation of the codebtor to make the creditor whole at the time payments are due remains.
 
 The automatic stay under this section pertains only to the collection of a consumer debt, defined by section 101(7) of this title to mean a debt incurred by an individual primarily for a personal, family, or household purpose. Therefore, not all debts owed by a chapter 13 debtor will be subject to the stay of the codebtor, particularly those business debts incurred by an individual with regular income, as defined by section 101(24) of this title, engaged in business, that is permitted by virtue of section 109(b) and section 1304 to obtain chapter 13 relief.
 
@@ -60,5 +60,5 @@ Subsec. (d). Pub. L. 98–353, §313, added subsec. (d).
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

@@ -14,15 +14,21 @@ Diseases.—A disease specified in this subsection is—
 
 &emsp;(2) any additional disease that—
 
-&emsp;&emsp;(A) the Secretary determines in regulations warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent; and
+&emsp;&emsp;(A) pursuant to subchapter VII of this chapter, the Secretary determines in regulations warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent; and
 
 &emsp;&emsp;(B) becomes manifest within any period prescribed in such regulations.
 
 (c)
 
-Herbicide Agent.—For purposes of this section, the term "herbicide agent" has themeaning given such term in section 1821(d) of this title.
+Herbicide Agent.—For purposes of this section, the term "herbicide agent" has the meaning given such term in section 1821(d) of this title.
 
-(Added Pub. L. 116–23, §3(a), June 25, 2019, 133 Stat. 969.)
+(Added Pub. L. 116–23, §3(a), June 25, 2019, 133 Stat. 969; amended Pub. L. 117–168, title II, §202(d)(2), Aug. 10, 2022, 136 Stat. 1775.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(2)(A). Pub. L. 117–168 inserted "pursuant to subchapter VII of this chapter," before "the Secretary determines".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

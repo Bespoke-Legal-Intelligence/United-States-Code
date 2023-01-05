@@ -146,7 +146,7 @@ Subsec. (i). Pub. L. 96–517 struck out subsec. (i) which related to publicatio
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulations authorized to be issuedearlier, see section 8(f) of Pub. L. 96–517, set out as a note under section 41 of Title 35, Patents.
+Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulations authorized to be issued earlier, see section 8(f) of Pub. L. 96–517, set out as a note under section 41 of Title 35, Patents.
 
 <i><sup>1</sup></i><i> So in original. Probably should be a comma.</i>
 

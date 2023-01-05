@@ -18,7 +18,7 @@ Amount.—The amount of a recruitment incentive payable to an individual under t
 
 &emsp;(3)
 
-Service agreement.—To receive a recruitment incentive under this subsection, an individual appointed to a position under paragraph (1) shall enter into an agreement with the Secretary of Defense to complete a period of service at the covered location. The period of obligated service of the individual at such location under the agreement may not exceed four years. The agreement shall include such repayment or alternative employment obligations as the Secretary considers appropriate for failure of the individual to complete the period of obligated service specified in the agreement.
+Service agreement.—To receive a recruitment incentive under this subsection, anindividual appointed to a position under paragraph (1) shall enter into an agreement with the Secretary of Defense to complete a period of service at the covered location. The period of obligated service of the individual at such location under the agreement may not exceed four years. The agreement shall include such repayment or alternative employment obligations as the Secretary considers appropriate for failure of the individual to complete the period of obligated service specified in the agreement.
 
 &emsp;(4)
 

@@ -2,7 +2,7 @@
 
 #### (a) Limitation
 
-(1) Nothing in this chapter may be construed as an entitlement or a determination of an individual's eligibility or fulfillment of the requisite requirements for any Federal, State, or localgovernmental program, assistance, or benefits. For purposes of this chapter, eligibility relates only to the general issue of eligibility or ineligibility on the basis of alienage.
+(1) Nothing in this chapter may be construed as an entitlement or a determination of an individual's eligibility or fulfillment of the requisite requirements for any Federal, State, or local governmental program, assistance, or benefits. For purposes of this chapter, eligibility relates only to the general issue of eligibility or ineligibility on the basis of alienage.
 
 (2) Nothing in this chapter may be construed as addressing alien eligibility for a basic public education as determined by the Supreme Court of the United States under Plyler v. Doe (457 U.S. 202)(1982).
 
@@ -30,7 +30,7 @@ If any provision of this chapter or the application of such provision to any per
 
 This chapter, referred to in text, was in the original "this title" meaning title IV of Pub. L. 104–193, Aug. 22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a of this title, and sections 611a and 1437y of Title 42, The Public Health and Welfare, amended section 1383 of this title, sections 32 and 6213 of Title 26, Internal Revenue Code, and sections 1436a and 1471 of Title 42, and enacted provisions set out as notes under section 1183a of this title and section 32 of Title 26. For complete classification of title IV to the Code, see Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 

@@ -174,7 +174,7 @@ There are authorized to be appropriated to carry out projects and activities rel
 
 #### (j) Targets
 
-Not later than 180 days after November 15, 2021, the Secretary shall establish targets for the program to address near-term (up to 2 years), mid-term (up to 7 years), and long-term (up to 15 years) challenges to the advancement of clean hydrogen systems and technologies.
+Not later than 180 days after November 15, 2021, the Secretary shall establish targets forthe program to address near-term (up to 2 years), mid-term (up to 7 years), and long-term (up to 15 years) challenges to the advancement of clean hydrogen systems and technologies.
 
 (Pub. L. 109–58, title VIII, §805, Aug. 8, 2005, 119 Stat. 845; Pub. L. 117–58, div. D, title III, §40313(a), Nov. 15, 2021, 135 Stat. 1006.)
 

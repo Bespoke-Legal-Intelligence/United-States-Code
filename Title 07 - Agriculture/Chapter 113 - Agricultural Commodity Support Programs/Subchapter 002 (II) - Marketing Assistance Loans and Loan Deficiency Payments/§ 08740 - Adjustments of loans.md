@@ -40,7 +40,7 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 &emsp;&emsp;&emsp;(iii) the elimination of any artificial split in the premium or discount between upland cotton with a 32 or 33 staple length due to micronaire; and
 
-&emsp;&emsp;&emsp;(iv) a mechanism to ensure that no premium or discount is established that exceeds the premium or discount associatedwith a leaf grade that is 1 better than the applicable color grade.
+&emsp;&emsp;&emsp;(iv) a mechanism to ensure that no premium or discount is established that exceeds the premium or discount associated with a leaf grade that is 1 better than the applicable color grade.
 
 #### (C) Discretionary revisions
 
@@ -58,9 +58,9 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 &emsp;&emsp;In making adjustments to the loan rate for cotton (including any review of the adjustments) as provided in this subsection, the Secretary shall consult with representatives of the United States cotton industry.
 
-#### (B) Inapplicability of Federal Advisory Committee Act
+#### (B) Inapplicability of chapter 10 of title 5
 
-&emsp;&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations under this subsection.
+&emsp;&emsp;Chapter 10 of title 5 shall not apply to consultations under this subsection.
 
 #### (4) Review of adjustments
 
@@ -74,21 +74,23 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 The Secretary shall not make adjustments in the loan rates for long grain rice and medium grain rice, except for differences in grade and quality (including milling yields).
 
-(Pub. L. 110–234, title I, §1210, May 22, 2008, 122 Stat. 965; Pub. L. 110–246, §4(a), title I, §1210, June 18, 2008, 122 Stat. 1664, 1693.)
+(Pub. L. 110–234, title I, §1210, May 22, 2008, 122 Stat. 965; Pub. L. 110–246, §4(a), title I, §1210, June 18, 2008, 122 Stat. 1664, 1693; Pub. L. 117–286, §4(a)(42), Dec. 27, 2022, 136 Stat. 4310.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This subtitle and subtitles B through E, referred to in subsec. (b), probably means subtitle B (§1201 et seq.) and subtitles C (§1301 et seq.), D (§1401 et seq.), and E (§1501 et seq.) of title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1681. Subtitles B and C are classified generally to this subchapter and subchapter III (§8751 et seq.), respectively, of this chapter. Subtitle D enacted sections 1359kk, 1359ll, and 7287 of this title, amended sections 1359aa to 1359gg, 1359ii, 7272, and 7971 of this title, repealed former section 1359kk of this title, and enacted provisions set out as notes under sections 3602 and 7272 of this title. Subtitle E enacted subchapter IV (§8771 et seq.) of this chapter and amended sections 608c, 1637b, 4502, 4504, 4531, and 4553 of this title and section 713a–14 of Title 15, Commerce and Trade. For complete classification of subtitles B to E to the Code, see Tables.
+This subtitle and subtitles B through E, referred to in subsec. (b), probably means subtitle B (§1201 et seq.) and subtitles C (§1301 et seq.), D (§1401 et seq.), and E (§1501 et seq.) of title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1681. Subtitles B and C are classified generally to this subchapter and subchapter III (§8751 et seq.), respectively, of this chapter. Subtitle D enacted sections 1359kk, 1359ll, and 7287 of this title, amended sections 1359aa to 1359gg, 1359ii, 7272, and 7971 of this title, repealed former section 1359kk of this title, and enacted provisions set out as notes under sections 3602 and 7272 of this title. Subtitle E enacted subchapter IV (§8771 et seq.) of this chapter and amended sections 608c, 1637b,4502, 4504, 4531, and 4553 of this title and section 713a–14 of Title 15, Commerce and Trade. For complete classification of subtitles B to E to the Code, see Tables.
 
 The date of enactment of this Act, referred to in subsec. (d)(2)(A), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
-
-The Federal Advisory Committee Act, referred to in subsec. (d)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (d)(3)(B). Pub. L. 117–286 substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

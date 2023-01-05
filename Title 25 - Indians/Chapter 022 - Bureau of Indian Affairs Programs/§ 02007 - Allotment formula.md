@@ -62,7 +62,7 @@ Notwithstanding any other provision of law, Federal funds appropriated for the g
 
 &emsp;&emsp;(B) Considers a school with an enrollment of less than 50 eligible Indian students as having an average daily attendance of 50 eligible Indian students for purposes of implementing the adjustment factor for small schools.
 
-&emsp;&emsp;(C) Takes into account the provision of residential services on less than a 9-month basis at a school when the school board and supervisor of the school determine that aless than 9-month basis will be implemented for the school year involved.
+&emsp;&emsp;(C) Takes into account the provision of residential services on less than a 9-month basis at a school when the school board and supervisor of the school determine that a less than 9-month basis will be implemented for the school year involved.
 
 &emsp;&emsp;(D) Uses a weighted unit of 2.0 for each eligible Indian student that—
 
@@ -98,7 +98,7 @@ Notwithstanding any other provision of law, Federal funds appropriated for the g
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each local school board, and any agency school board that serves as a local school board for any grant or contract school, shall ensure that each individual who is a new member of the school board receives, within 1 year after the individual becomes a member of the school board, 40 hours of training relevant to that individual's service on the board.
+&emsp;&emsp;&emsp;Each local school board, and any agency school board that serves as a local schoolboard for any grant or contract school, shall ensure that each individual who is a new member of the school board receives, within 1 year after the individual becomes a member of the school board, 40 hours of training relevant to that individual's service on the board.
 
 #### (ii) Types of training
 
@@ -174,7 +174,7 @@ Notwithstanding any other provision of law, at the election of the school board 
 
 #### (2) No administrative cost funds
 
-&emsp;No additional administrative cost funds shall be provided under this chapter to pay for administrative costs relating to the instruction of the students.
+&emsp;No additional administrative cost funds shall be provided under this chapter to pay foradministrative costs relating to the instruction of the students.
 
 (Pub. L. 95–561, title XI, §1127, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2028.)
 

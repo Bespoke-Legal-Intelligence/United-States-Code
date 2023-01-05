@@ -64,7 +64,7 @@ The Secretary shall consult with other United States Government agencies, United
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated without fiscal year limitation such sums as may be necessary to carry out the program establishedunder this section, except that the amount of such funds in any fiscal year shall not exceed—
+There are authorized to be appropriated without fiscal year limitation such sums as may be necessary to carry out the program established under this section, except that the amount of such funds in any fiscal year shall not exceed—
 
 &emsp;(1) for eligible countries that meet the requirements of subsection (b)(1), $4,000,000;
 

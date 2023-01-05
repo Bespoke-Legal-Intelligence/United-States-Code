@@ -30,7 +30,7 @@ Judges of the Tax Court may be removed by the President, after notice and opport
 
 A judge of the Tax Court removed from office in accordance with subsection (f) shall not be permitted at any time to practice before the Tax Court.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 879; Mar. 2, 1955, ch. 9, §1(h), 69 Stat. 10; Pub. L. 88–426, title IV, §403(i), Aug. 14, 1964, 78 Stat. 434; Pub. L. 91–172, title IX, §§952, 953, Dec. 30, 1969, 83 Stat. 730; Pub. L. 96–417, title VI, §601(10), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–439, §1(a), (b), Oct. 13, 1980, 94 Stat. 1878.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 879; Mar. 2, 1955, ch. 9, §1(h), 69 Stat. 10; Pub. L. 88–426, title IV,§403(i), Aug. 14, 1964, 78 Stat. 434; Pub. L. 91–172, title IX, §§952, 953, Dec. 30, 1969, 83 Stat. 730; Pub. L. 96–417, title VI, §601(10), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–439, §1(a), (b), Oct. 13, 1980, 94 Stat. 1878.)
 
 #### <b>Editorial Notes</b>
 
@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 91–172, §952(b), substituted provisions that a term in o
 
 #### Effective Date of 1980 Amendments
 
-Pub. L. 96–439, §1(c), Oct. 13, 1980, 94 Stat. 1878, provided that: "The amendments made by this section\[amending this section\] shall take effect on February 1, 1981."
+Pub. L. 96–439, §1(c), Oct. 13, 1980, 94 Stat. 1878, provided that: "The amendments made by this section \[amending this section\] shall take effect on February 1, 1981."
 
 Amendment by Pub. L. 96–417 effective, except as otherwise provided, Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, as amended, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 

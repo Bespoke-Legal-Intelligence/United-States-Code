@@ -34,7 +34,7 @@
 
 #### (c) Chief Actuary
 
-(1) There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in the actuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.
+(1) There shall be in the Administration a Chief Actuary, who shall be appointed by, and in direct line of authority to, the Commissioner. The Chief Actuary shall be appointed from individuals who have demonstrated, by their education and experience, superior expertise in theactuarial sciences. The Chief Actuary shall serve as the chief actuarial officer of the Administration, and shall exercise such duties as are appropriate for the office of the Chief Actuary and in accordance with professional standards of actuarial independence. The Chief Actuary may be removed only for cause.
 
 (2) The Chief Actuary shall be compensated at the highest rate of basic pay for the Senior Executive Service under section 5382(b) of title 5.
 
@@ -44,9 +44,9 @@ There shall be in the Administration a Chief Financial Officer appointed by the 
 
 #### (e) Inspector General
 
-There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 3(a) of the Inspector General Act of 1978.
+There shall be in the Administration an Inspector General appointed by the President, by and with the advice and consent of the Senate, in accordance with section 403(a) of title 5.
 
-(Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (l)(1), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §102, Aug. 15, 1994, 108 Stat. 1465; Pub. L. 104–121, title I, §103(e)(1), Mar. 29, 1996, 110 Stat. 851.)
+(Aug. 14, 1935, ch. 531, title VII, §702, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(C)(i), (l)(1), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §102, Aug. 15, 1994, 108 Stat. 1465; Pub. L. 104–121, title I, §103(e)(1), Mar. 29, 1996, 110 Stat. 851; Pub. L. 117–286, §4(b)(76), Dec. 27, 2022, 136 Stat. 4351.)
 
 #### <b>Editorial Notes</b>
 
@@ -54,9 +54,9 @@ There shall be in the Administration an Inspector General appointed by the Presi
 
 Levels I and II of the Executive Schedule, referred to in subsecs. (a)(2) and (b)(3), are set out in sections 5312 and 5313, respectively, of Title 5, Government Organization and Employees.
 
-Section 3(a) of the Inspector General Act of 1978, referred to in subsec. (e), is section 3(a) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–286 substituted "section 403(a) of title 5." for "section 3(a) of the Inspector General Act of 1978."
 
 <b>1996</b>—Subsecs. (c) to (e). Pub. L. 104–121 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
@@ -72,7 +72,7 @@ Pub. L. 98–369, §2663(j)(2)(C)(i), which directed the substitution of "Health
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–121, title I, §103(e)(2), Mar. 29, 1996, 110 Stat. 851, provided that: "The amendments made bythis subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\]."
+Pub. L. 104–121, title I, §103(e)(2), Mar. 29, 1996, 110 Stat. 851, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Mar. 29, 1996\]."
 
 #### Effective Date of 1994 Amendment
 
@@ -134,7 +134,7 @@ Pub. L. 98–21, title III, §343, Apr. 20, 1983, 97 Stat. 136, directed Secreta
 
 #### Universal Coverage of Social Security Programs; Study and Report to President and Congress Respecting Scope, Alternatives, etc.; Consultation by Secretary
 
-Pub. L. 95–216, title III, §311, Dec. 20, 1977, 91 Stat. 1531, as amended by 1978 Reorg. Plan No. 2, §102, eff.Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783, directed Secretary of Health, Education, and Welfare to undertake as soon as possible after Dec. 20, 1977, a thorough study with respect to extent of coverage under old-age, survivors, and disability insurance programs and under programs established by subchapter XVIII of this chapter and submit a report on findings of such study not later than 2 years after Dec. 20, 1977.
+Pub. L. 95–216, title III, §311, Dec. 20, 1977, 91 Stat. 1531, as amended by 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783, directed Secretary of Health, Education, and Welfare to undertake as soon as possible after Dec. 20, 1977, a thorough study with respect to extent of coverage under old-age, survivors, and disability insurance programs and under programs established by subchapter XVIII of this chapter and submit a report on findings of such study not later than 2 years after Dec. 20, 1977.
 
 #### Proposals for Elimination of Dependency and Sex Discrimination Under Social Security Program; Study and Report to Congress
 

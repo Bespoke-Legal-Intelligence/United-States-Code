@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;Each entity that receives a grant under subsection (a)(2) of section 12621 of this title, asadded by this Act, shall comply with any standards and best practices relating to the use of tracking devices established by the Attorney General in accordance with subsection (a).
+&emsp;Each entity that receives a grant under subsection (a)(2) of section 12621 of this title, as added by this Act, shall comply with any standards and best practices relating to the use of tracking devices established by the Attorney General in accordance with subsection (a).
 
 #### (2) Determination of compliance
 

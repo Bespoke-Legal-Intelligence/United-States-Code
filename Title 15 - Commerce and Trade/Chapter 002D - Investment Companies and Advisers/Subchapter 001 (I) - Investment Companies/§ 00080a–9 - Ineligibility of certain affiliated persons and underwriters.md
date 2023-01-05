@@ -76,7 +76,7 @@ Any person who is ineligible, by reason of subsection (a), to serve or act in th
 
 &emsp;&emsp;&emsp;(i) the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
-&emsp;&emsp;&emsp;(ii) such act or omission directly or indirectly resulted in substantial losses or created a significant risk of substantial losses to other persons or resulted in substantial pecuniary gain to the person who committed the act or omission.
+&emsp;&emsp;&emsp;(ii) such act or omission directly or indirectly resulted in substantial losses or created a significant risk of substantial lossesto other persons or resulted in substantial pecuniary gain to the person who committed the act or omission.
 
 #### (3) Determination of public interest
 
@@ -120,7 +120,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (B) Applicability
 
-&emsp;&emsp;This paragraph shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
+&emsp;&emsp;This paragraph shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company,municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
 
 #### (4) Review of temporary orders
 
@@ -148,7 +148,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (5) Authority to enter order requiring accounting and disgorgement
 
-&emsp;In any cease-and-desist proceeding under subsection (f)(1), the Commission may enteran order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
+&emsp;In any cease-and-desist proceeding under subsection (f)(1), the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
 #### (g) Corporate or other trustees performing functions of investment advisers
 

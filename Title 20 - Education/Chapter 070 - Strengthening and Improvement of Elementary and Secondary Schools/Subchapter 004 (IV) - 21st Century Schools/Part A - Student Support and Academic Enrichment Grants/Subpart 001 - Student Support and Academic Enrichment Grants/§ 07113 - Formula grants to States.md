@@ -42,7 +42,7 @@ From the total amount appropriated under section 7122 of this title for a fiscal
 
 &emsp;&emsp;(A) A description of how the State educational agency will use funds received under this subpart for State-level activities.
 
-&emsp;&emsp;(B) A description of how the State educational agency will ensure that awards made to local educational agencies underthis subpart are in amounts that are consistent with section 7115(a)(2) of this title.
+&emsp;&emsp;(B) A description of how the State educational agency will ensure that awards made to local educational agencies under this subpart are in amounts that are consistent with section 7115(a)(2) of this title.
 
 &emsp;&emsp;(C) Assurances that the State educational agency will—
 

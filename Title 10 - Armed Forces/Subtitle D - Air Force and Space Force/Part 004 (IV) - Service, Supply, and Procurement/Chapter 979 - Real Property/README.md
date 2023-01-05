@@ -49,7 +49,7 @@ Pub. L. 117–81, div. B, title XXVIII, §2862, Dec. 27, 2021, 135 Stat. 2213, p
 
 "(a)
 
-Pilot Program Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of the Air Force shall establish a pilot program to authorize installations of the Department of the Air Force to establish a reimbursable account for the purpose of being reimbursed for the use of testing facilities on such installation.
+Pilot Program Required.—Not later than 180 days after the date of the enactment of this Act \[Dec.27, 2021\], the Secretary of the Air Force shall establish a pilot program to authorize installations of the Department of the Air Force to establish a reimbursable account for the purpose of being reimbursed for the use of testing facilities on such installation.
 
 "(b)
 

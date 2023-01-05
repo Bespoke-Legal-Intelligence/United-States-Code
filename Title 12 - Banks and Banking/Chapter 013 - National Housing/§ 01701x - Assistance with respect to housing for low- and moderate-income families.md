@@ -8,7 +8,7 @@
 
 &emsp;(ii) the provision of advice and technical assistance to public bodies or to nonprofit or cooperative organizations with respect to the construction, rehabilitation, and operation of low- and moderate-income housing, including assistance with respect to self-help and mutual self-help programs;
 
-&emsp;(iii) counseling and advice to tenants and homeowners with respect to property maintenance, financial management, and such other matters as may be appropriate to assist themin improving their housing conditions and in meeting the responsibilities of tenancy or homeownership; and
+&emsp;(iii) counseling and advice to tenants and homeowners with respect to property maintenance, financial management, and such other matters as may be appropriate to assist them in improving their housing conditions and in meeting the responsibilities of tenancy or homeownership; and
 
 &emsp;(iv) the provision of technical assistance to communities, particularly smaller communities, to assist such communities in planning, developing, and administering Community Development Programs pursuant to title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\].
 
@@ -154,7 +154,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the creditor of a loan (or proposed creditor) shall provide notice under clause (ii) to (I) any eligible homeowner who fails topay any amount by the date the amount is due under a home loan, and (II) any applicant for a mortgage described in paragraph (4).
+&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the creditor of a loan (or proposed creditor) shall provide notice under clause (ii) to (I) any eligible homeowner who fails to pay any amount by the date the amount is due under a home loan, and (II) any applicant for a mortgage described in paragraph (4).
 
 #### (ii) Content
 
@@ -490,7 +490,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 &emsp;&emsp;&emsp;&emsp;(III) section 18(a)(4)(D) (42 U.S.C. 1437p(a)(4)(D));
 
-&emsp;&emsp;&emsp;&emsp;(IV) section 23(c)(4) (42 U.S.C. 1437u(c)(4));
+&emsp;&emsp;&emsp;&emsp;(IV) section 23(c)(4) <sup>1</sup> (42 U.S.C. 1437u(c)(4));
 
 &emsp;&emsp;&emsp;&emsp;(V) section 32(e)(4) (42 U.S.C. 1437z–4(e)(4));
 
@@ -540,7 +540,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 &emsp;&emsp;&emsp;&emsp;(II) section 18(a)(4)(D) (42 U.S.C. 1437p(a)(4)(D));
 
-&emsp;&emsp;&emsp;&emsp;(III) section 23(c)(4) (42 U.S.C. 1437u(c)(4));
+&emsp;&emsp;&emsp;&emsp;(III) section 23(c)(4) <sup>1</sup> (42 U.S.C. 1437u(c)(4));
 
 &emsp;&emsp;&emsp;&emsp;(IV) section 32(e)(4) (42 U.S.C. 1437z–4(e)(4));
 
@@ -562,7 +562,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (2) Standards for materials
 
-&emsp;The Secretary, in consultation with the advisory committee established under subsection\(g)(4) <sup>1</sup> of the Department of Housing and Urban Development Act, shall establish standards for materials and forms to be used, as appropriate, by organizations providing homeownership counseling services, including any recipients of assistance pursuant to subsection (a)(4).
+&emsp;The Secretary, in consultation with the advisory committee established under subsection (g)(4) <sup>1</sup> of the Department of Housing and Urban Development Act, shall establish standards for materials and forms to be used, as appropriate, by organizations providing homeownership counseling services, including any recipients of assistance pursuant to subsection (a)(4).
 
 #### (3) Mortgage software systems
 
@@ -656,7 +656,7 @@ For purposes of this section:
 
 #### (3) Unit of general local government
 
-&emsp;The term "unit of general local government" means any city, county, parish, town, township, borough, village, or other general purpose political subdivision of a State.
+&emsp;The term "unit of general local government" means any city, county, parish, town,township, borough, village, or other general purpose political subdivision of a State.
 
 #### (4) HUD-approved counseling agency
 
@@ -704,13 +704,13 @@ For purposes of this section:
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(iv), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(iv), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
 
-The National Housing Act, referred to in subsecs. (a)(2), (d)(9)(K), and (g)(1)(B)(x), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. Section 237 of the Act, which was formerly classified to section 1715z–2 of this title, was repealed by Pub. L. 110–289, div. B, title I, §2120(a)(6), July 30, 2008, 122 Stat. 2835. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (a)(2), (d)(9)(K), and (g)(1)(B)(x), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§1707 et seq.) of this chapter. Section 237 of the Act, which was formerly classified to section 1715z–2 of this title, was repealed by Pub. L. 110–289, div. B, title I, §2120(a)(6), July 30, 2008, 122 Stat. 2835. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 Section 152 of the Housing and Community Development Act of 1992, referred to in subsec. (a)(3), is section 152 of Pub. L. 102–550, which was set out as a note under section 1437f of Title 42, The Public Health and Welfare, prior to repeal by Pub. L. 105–276, title V, §550(f), Oct. 21, 1998, 112 Stat. 2610.
 
-The Housing Act of 1949, referred to in subsec. (c)(4)(B), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42, The Public Health and Welfare, and Tables.
+The Housing Act of 1949, referred to in subsec. (c)(4)(B), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42, The Public Health and Welfare, and Tables.
 
 The Servicemembers Civil Relief Act, referred to in subsec. (c)(5)(A)(ii)(IV), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§3901 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -721,6 +721,8 @@ Section 302(a)(4) of the American Homeownership and Economic Opportunity Act of 
 Section 11408(b)(1)(F)(iii) of this title, referred to in subsec. (g)(1)(B)(viii), (C)(vi), was redesignated section 11408(b)(1)(J)(iii) of this title by Pub. L. 111–22, div. B., title IV, §1401(2)(C)(i), May 20, 2009, 123 Stat. 1697.
 
 Sections 202(3) and 810(b)(2)(A) of the Native American Housing and Self-Determination Act of 1996, referred to in subsec. (g)(1)(B)(ix), (C)(vii), probably means sections 202(3) and 810(b)(2)(A) of Pub. L. 104–330, known as the Native American Housing Assistance and Self-Determination Act of 1996, which are classified to sections 4132(3) and 4229(b)(2)(A), respectively, of Title 25, Indians.
+
+Section 23(c)(4) of the United States Housing Act of 1937, referred to in subsec. (g)(1)(B)(ii)(IV), (C)(ii)(III), was classified to section 1437u(c)(4) of Title 42, The Public Health and Welfare, and was redesignated as section 23(d)(4) of that Act and then amended generally by Pub. L. 115–174, title III, §306(a)(4), (6)(D), May 24, 2018, 132 Stat. 1340, 1341. As amended, section 1437u(d)(4) of Title 42 still relates to an employment requirement but no longer contains a provision for counseling.
 
 Subsection (g)(4) of the Department of Housing and Urban Development Act, referred to in subsec. (g)(2), probably means section 4(g)(4) of Pub. L. 89–174, known as the Department of Housing and Urban Development Act, which is classified to section 3533(g)(4) of Title 42, The Public Health and Welfare.
 
@@ -790,7 +792,7 @@ In general.—Except as provided in subparagraph (C), if any eligible homeowner 
 
 Subsec. (c)(5)(D)(i). Pub. L. 102–550, §162(b)(6), inserted ", which shall be updated annually," after "organizations".
 
-Subsec. (c)(8). Pub. L. 102–550, §162(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "There is authorized to be appropriated to carry out this section $6,700,000 for fiscal year 1991 and $7,000,000 for fiscal year 1992, of which amounts $2,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D)."
+Subsec. (c)(8). Pub. L. 102–550, §162(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "There is authorized to be appropriated to carry out this section $6,700,000 for fiscal year 1991 and $7,000,000 for fiscal year 1992, of whichamounts $2,000,000 shall be available in each such fiscal year to carry out paragraph (5)(D)."
 
 Subsec. (c)(9). Pub. L. 102–550, §162(b)(2), substituted "1994" for "1992".
 
@@ -880,7 +882,7 @@ Goals.—Financial education and counseling under this section shall have the go
 
 &emsp;"(1) increasing the financial knowledge and decision making capabilities of prospective homebuyers or economically vulnerable individuals and families;
 
-&emsp;"(2) assisting prospective homebuyers or economically vulnerable individuals and families to develop monthly budgets, build personal savings, finance or plan for major purchases, reduce their debt, improve their financial stability, and set and reach their financial goals;
+&emsp;"(2) assisting prospective homebuyers or economically vulnerable individuals and families to developmonthly budgets, build personal savings, finance or plan for major purchases, reduce their debt, improve their financial stability, and set and reach their financial goals;
 
 &emsp;"(3) helping prospective homebuyers or economically vulnerable individuals and families to improve their credit scores by understanding the relationship between their credit histories and their credit scores; and
 

@@ -26,7 +26,7 @@ In this section, the term "State" means each of the several States, the District
 
 &emsp;(2) for purposes of paragraph (1), 67 percent of the amount allocated shall be allocated to American Samoa, and 33 percent shall be allocated to the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 90–351, title I, §2803, as added Pub. L. 106–561, §2(c)(1), Dec. 21, 2000, 114 Stat. 2788; amended Pub. L. 107–273, div. B, title V,§5001(b)(3), Nov. 2, 2002, 116 Stat. 1814; Pub. L. 114–324, §9(a)(2), Dec. 16, 2016, 130 Stat. 1955.)
+(Pub. L. 90–351, title I, §2803, as added Pub. L. 106–561, §2(c)(1), Dec. 21, 2000, 114 Stat. 2788; amended Pub. L. 107–273, div. B, title V, §5001(b)(3), Nov. 2, 2002, 116 Stat. 1814; Pub. L. 114–324, §9(a)(2), Dec. 16, 2016, 130 Stat. 1955.)
 
 #### <b>Editorial Notes</b>
 

@@ -6,7 +6,7 @@ Not later than 120 days after December 27, 2021, the Secretary shall establish a
 
 &emsp;(1) Identify factors that have a negative impact on employee engagement, morale, and communications within the Department, such as perceptions about limitations on career progression, mobility, or development opportunities, collected through employee feedback platforms, including through annual employee surveys, questionnaires, and other communications, as appropriate.
 
-&emsp;(2) Identify, develop, and distribute initiatives and best practices to improve employee engagement, morale, and communicationswithin the Department, including through annual employee surveys, questionnaires, and other communications, as appropriate.
+&emsp;(2) Identify, develop, and distribute initiatives and best practices to improve employee engagement, morale, and communications within the Department, including through annual employee surveys, questionnaires, and other communications, as appropriate.
 
 &emsp;(3) Monitor efforts of each component to address employee engagement, morale, and communications based on employee feedback provided through annual employee surveys, questionnaires, and other communications, as appropriate.
 
@@ -26,7 +26,7 @@ The Secretary, acting through the Chief Human Capital Officer, shall—
 
 &emsp;&emsp;(B) monitor progress on implementation of such action plan; and
 
-&emsp;&emsp;(C) provide to the Chief Human Capital Officer and the steering committee quarterly reports on actions planned and progress made under this paragraph.
+&emsp;&emsp;(C) provide to the Chief Human Capital Officer and the steering committee quarterlyreports on actions planned and progress made under this paragraph.
 
 #### (c) Termination
 

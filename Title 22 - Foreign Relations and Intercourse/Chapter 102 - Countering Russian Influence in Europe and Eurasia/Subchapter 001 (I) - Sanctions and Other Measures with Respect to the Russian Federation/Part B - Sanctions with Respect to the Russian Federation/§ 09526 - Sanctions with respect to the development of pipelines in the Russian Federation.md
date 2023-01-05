@@ -52,7 +52,7 @@ Report Required.—
 
 In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 20, 2019\], and every 90 days thereafter, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit to the appropriate congressional committees a report that identifies, for the period specified in paragraph (2)—
 
-&emsp;&emsp;"(A) vessels that engaged in pipe-laying or pipe-laying activities at depths of 100 feet or more below sea level for the construction of the Nord Stream 2pipeline project, the TurkStream pipeline project, or any project that is a successor to either such project;
+&emsp;&emsp;"(A) vessels that engaged in pipe-laying or pipe-laying activities at depths of 100 feet or more below sea level for the construction of the Nord Stream 2 pipeline project, the TurkStream pipeline project, or any project that is a successor to either such project;
 
 &emsp;&emsp;"(B) foreign persons that the Secretary of State, in consultation with the Secretary of the Treasury, determines have knowingly—
 
@@ -188,7 +188,7 @@ Implementation.—The President may exercise all authorities provided to the Pre
 
 &emsp;"(2)
 
-Penalties.—A person that violates, attempts to violate, conspires to violate, or causes a violationof this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+Penalties.—A person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
 "(h)
 
@@ -272,7 +272,7 @@ Section 1. (a) With respect to any foreign person identified by the Secretary of
 
 (b) Sanctions under subsection (a) of this section shall not apply to any foreign person with respect to whom a waiver under section 7503(f) of PEESA has been issued.
 
-(c) The prohibitions in subsection (a) of this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may beissued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the date of this order.
+(c) The prohibitions in subsection (a) of this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the date of this order.
 
 Sec. 2. The Secretary of State shall implement section 7503(b) of PEESA as it applies to visas, and the Secretary of Homeland Security shall implement section 7503(b) of PEESA as it applies to admission and parole. Such implementation shall be consistent with any exceptions or waivers provided by statute, or in regulations, orders, or directives that may be issued pursuant to this order.
 

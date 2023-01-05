@@ -8,7 +8,7 @@ A State shall not take into consideration payments under this chapter (other tha
 
 #### Prior Provisions
 
-A prior section 7902, Pub. L. 89–10, title IX, §9202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3794, set forth findings, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
+A prior section 7902, Pub. L. 89–10, title IX, §9202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3794, set forth findings, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Amendments
 

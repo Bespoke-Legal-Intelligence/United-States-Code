@@ -98,7 +98,7 @@ Pub. L. 87–866, §13, Oct. 23, 1962, 76 Stat. 1149, as amended by Pub. L. 97�
 
 &emsp;"(1) an analysis of the adequacy of the Federal-aid highway program to provide for a satisfactory program in both the populated and the undeveloped areas in Alaska;
 
-&emsp;"(2) specific recommendations as to the construction of roads through undeveloped areas of Alaska and connection of such roads with Canadian roads at the International boundary; and
+&emsp;"(2) specific recommendations as to the construction of roads through undeveloped areas of Alaskaand connection of such roads with Canadian roads at the International boundary; and
 
 &emsp;"(3) a feasible program for implementing such specific recommendations, including cost estimates, recommendations as to the sharing of cost responsibilities, and other pertinent matters.
 

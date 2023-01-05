@@ -6,7 +6,7 @@ The Secretary shall manage the Conservation Area in a manner that conserves, pro
 
 #### (b) Uses
 
-The Secretary shall allow only such uses of the Conservation Area as the Secretary finds will further the purposes for which the Conservation Area is established as set forth in section 460ooo–3(a) of this title.
+The Secretary shall allow only such uses of the Conservation Area as the Secretary findswill further the purposes for which the Conservation Area is established as set forth in section 460ooo–3(a) of this title.
 
 #### (c) Grazing
 

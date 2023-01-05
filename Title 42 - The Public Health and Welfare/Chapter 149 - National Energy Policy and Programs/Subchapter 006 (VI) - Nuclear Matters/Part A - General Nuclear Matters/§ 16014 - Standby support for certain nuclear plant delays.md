@@ -44,7 +44,7 @@ In this section:
 
 &emsp;&emsp;The Secretary shall not enter into a contract under this section unless the Secretary deposits—
 
-&emsp;&emsp;&emsp;(i) in the Standby Support Program Account established under subparagraph (B), funds appropriated to the Secretary in advance of the contract or a combination of appropriated funds and loan guarantee fees that are in an amount sufficient to cover the loan costs described in subsection (d)(5)(A); and
+&emsp;&emsp;&emsp;(i) in the Standby Support Program Account established under subparagraph (B), funds appropriated to the Secretary in advance of the contract or a combination of appropriated funds and loan guarantee feesthat are in an amount sufficient to cover the loan costs described in subsection (d)(5)(A); and
 
 &emsp;&emsp;&emsp;(ii) in the Standby Support Grant Account established under subparagraph (B), funds appropriated to the Secretary in advance of the contract, paid to the Secretary by the sponsor of the advanced nuclear facility, or a combination of appropriations and payments that are in an amount sufficient <sup>1</sup> cover the costs described in subparagraphs (B), (C), and (D) of subsection (d)(5).
 

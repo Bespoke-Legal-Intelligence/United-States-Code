@@ -126,5 +126,5 @@ For effective date of amendment by Pub. L. 85–585, see section 4 of Pub. L. 85
 
 #### Transfer of Functions
 
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939,see Transfer of Functions note set out under section 718a of this title.
+Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 718a of this title.
 

@@ -6,7 +6,7 @@ Not later than two years after August 14, 2008, and every two years thereafter, 
 
 &emsp;(2) the degrees obtained by such recipients;
 
-&emsp;(3) the location, including the school, local educational agency, and State, where the recipients completed the service agreed to undersection 1070g–2(b) of this title and the subject taught;
+&emsp;(3) the location, including the school, local educational agency, and State, where the recipients completed the service agreed to under section 1070g–2(b) of this title and the subject taught;
 
 &emsp;(4) the duration of such service; and
 

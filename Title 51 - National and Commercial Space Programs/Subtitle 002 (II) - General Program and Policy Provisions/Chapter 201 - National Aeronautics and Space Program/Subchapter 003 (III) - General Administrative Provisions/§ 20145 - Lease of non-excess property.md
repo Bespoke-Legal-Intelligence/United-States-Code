@@ -66,11 +66,31 @@ Value of arrangements and expenditures of revenues.—Information that identifie
 
 Availability and use of funds for operating plan.—The availability and use of funds received under this section for the Administration's operating plan.
 
+&emsp;(3)
+
+Annual and cumulative number of leases.—The annual and cumulative number of leases entered into under this section, by National Aeronautics and Space Administration center and facility.
+
+&emsp;(4)
+
+Estimated cost savings.—For each active lease agreement under this section, the estimated cost savings to the Administration resulting from reduced maintenance, operating, and associated costs in the previous fiscal year.
+
+&emsp;(5)
+
+Other quantifiable benefits.—Other quantifiable benefits, including additional cost savings not included under paragraph (4), to the Administration resulting from the use of leases under this section.
+
 (g)
 
-Sunset.—The authority to enter into leases under this section shall expire December 31, 2021. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration's retention of proceeds from leases entered into under this section before the expiration of the authority.
+Report on Enhanced-use Leasing Requirements.—Not later than 270 days after the date of the enactment of the National Aeronautics and Space Administration Authorization Act of 2022, the Administrator shall prepare and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on existing requirements for applicants seeking a lease under this section, including—
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3352; Pub. L. 112–55, div. B, title III, Nov. 18, 2011, 125 Stat. 626; Pub. L. 115–10, title VIII, §832, Mar. 21, 2017, 131 Stat. 67; Pub. L. 115–403, §2, Dec. 31, 2018, 132 Stat. 5348; Pub. L. 116–94, div. I, title VI, §602, Dec. 20, 2019, 133 Stat. 3028.)
+&emsp;(1) any requirement related to the involvement of foreign entities, foreign entity ownership, and foreign entity investment; and
+
+&emsp;(2) at the discretion of the Administrator, any other requirement related to the protection and security of Administration missions and facilities.
+
+(h)
+
+Sunset.—The authority to enter into leases under this section shall expire December 31, 2032. The expiration under this subsection of authority to enter into leases under this section shall not affect the validity or term of leases or the Administration's retention of proceeds from leases entered into under this section before the expiration of the authority.
+
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3352; Pub. L. 112–55, div. B, title III, Nov. 18, 2011, 125 Stat. 626; Pub. L. 115–10, title VIII, §832, Mar. 21, 2017, 131 Stat. 67; Pub. L. 115–403, §2, Dec. 31, 2018, 132 Stat. 5348; Pub. L. 116–94, div. I, title VI, §602, Dec. 20, 2019, 133 Stat. 3028; Pub. L. 117–103, div. HH, title II, §203, Mar. 15, 2022, 136 Stat. 1113; Pub. L. 117–167, div. B, title VII, §10862, Aug. 9, 2022, 136 Stat. 1756.)
 
 Historical and Revision Notes
 
@@ -94,7 +114,21 @@ In subsection (g), the words "10 years after December 26, 2007" are substituted 
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The date of the enactment of the National Aeronautics and Space Administration Authorization Act of 2022, referred to in subsec. (g), is the date of enactment of title VII of div. B of Pub. L. 117–167, which was approved Aug. 9, 2022.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(3) to (5). Pub. L. 117–167, §10862(b), added pars. (3) to (5).
+
+Subsec. (g). Pub. L. 117–167, §10862(c)(2), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Pub. L. 117–167, §10862(a), substituted "December 31, 2032" for "December 31, 2022".
+
+Pub. L. 117–103 substituted "December 31, 2022" for "December 31, 2021".
+
+Subsec. (h). Pub. L. 117–167, §10862(c)(1), redesignated subsec. (g) as (h).
 
 <b>2019</b>—Subsec. (g). Pub. L. 116–94 substituted "December 31, 2021" for "December 31, 2019".
 
@@ -106,6 +140,22 @@ In subsection (g), the words "10 years after December 26, 2007" are substituted 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Findings
+
+Pub. L. 117–103, div. HH, title II, §202, Mar. 15, 2022, 136 Stat. 1113, provided that: "Congress finds the following:
+
+&emsp;"(1) NASA uses enhanced-use leasing to enter into agreements with private sector entities, State and local governments, academic institutions, and other Federal agencies for lease of non-excess, underutilized NASA properties and facilities.
+
+&emsp;"(2) NASA uses enhanced-use leasing authority to support responsible management of its real property, including to improve the use of underutilized property for activities that are compatible with NASA's mission and to reduce facility operating and maintenance costs.
+
+&emsp;"(3) In fiscal year 2019, under its enhanced-use lease authority, NASA leased 65 real properties.
+
+&emsp;"(4) In fiscal year 2019, NASA's use of enhanced-use leasing resulted in the collection of $10,843,025.77 in net revenue.
+
+&emsp;"(5) In fiscal year 2019, NASA used a portion of its enhanced-use leasing revenues for repairs of facility control systems such as lighting and heating, ventilation, and air conditioning.
+
+&emsp;"(6) NASA's use of enhanced-use leasing authority can contribute to reducing the rate of increase of the Agency's overall deferred maintenance cost."
+
 #### Deposit of Proceeds
 
 Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 263, provided in part: "That hereafter, notwithstanding section 315 of the National Aeronautics and Space Act of 1958 (see 51 U.S.C. 20145), all proceeds from leases entered into under that section shall be deposited into this account \[funds appropriated under the headings '
@@ -115,6 +165,10 @@ National Aeronautics and Space Administration' and '
 construction and environmental compliance and restoration' of title III of div. B of Pub. L. 113–6\]: <i>Provided further</i>, That such proceeds shall be available for a period of 5 years to the extent and in amounts as provided in annual appropriations Acts".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. B, title III, Dec. 29, 2022, 136 Stat. 4548.
+
+Pub. L. 117–103, div. B, title III, Mar. 15, 2022, 136 Stat. 137.
 
 Pub. L. 116–260, div. B, title III, Dec. 27, 2020, 134 Stat. 1270.
 

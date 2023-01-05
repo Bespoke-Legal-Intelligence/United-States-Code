@@ -58,7 +58,7 @@ The date of enactment of the Passenger Rail Expansion and Rail Safety Act of 202
 
 <b>2021</b>—Pub. L. 117–58 amended section generally. Prior to amendment, section related to Amtrak's development and implementation of plan to eliminate operating loss associated with providing food and beverage service on board Amtrak trains.
 
-<b>2020</b>—Subsecs. (d), (e). Pub. L. 116–159 redesignated subsec. (e) as (d) and struck out former subsec. (d). Textread as follows: "Beginning on the date that is 5 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, no Federal funds may be used to cover any operating loss associated with providing food and beverage service on a route operated by Amtrak or a rail carrier that operates a route in lieu of Amtrak pursuant to section 24711."
+<b>2020</b>—Subsecs. (d), (e). Pub. L. 116–159 redesignated subsec. (e) as (d) and struck out former subsec. (d). Text read as follows: "Beginning on the date that is 5 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, no Federal funds may be used to cover any operating loss associated with providing food and beverage service on a route operated by Amtrak or a rail carrier that operates a route in lieu of Amtrak pursuant to section 24711."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

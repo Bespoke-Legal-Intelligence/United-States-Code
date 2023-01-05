@@ -8,7 +8,7 @@ The sum of $310,000,000 is authorized to be appropriated for carrying out the im
 
 #### References in Text
 
-"Herein", and "this Act", referred to in text, means act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 of act June 22, 1936, enumerating certain improvements with regard to flood control, and sections 6 and 7 of that act, relating to examinations and surveys, were not classified to the Code.
+"Herein", and "this Act", referred to in text, means act June 22, 1936, ch. 688, 49 Stat. 1570, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 of act June 22, 1936, enumerating certain improvements with regard to flood control, and sections 6 and 7 of that act, relating to examinations and surveys, were not classified to the Code.
 
 #### Codification
 
@@ -22,7 +22,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Adoption of Improvements
 
-Works of improvement adopted and authorized to be prosecuted are listed in section 5 of act June 22, 1936, ch. 688, 49 Stat. 1596, referred to in this section, as amended or supplemented by acts Aug. 28, 1937, ch. 877, §1, 50 Stat. 876; June 28, 1938, ch. 795, §4, 52 Stat. 1216; Aug. 11, 1939, ch. 699, §4, 53 Stat. 1414; Aug. 18, 1941, ch. 377, §3, 55 Stat. 639; Dec. 22, 1944, ch. 665, §10, 58 Stat. 891; July 24, 1946, ch. 596, §10, 60 Stat. 643.
+Works of improvement adopted and authorized to be prosecuted are listed in section 5 of act June 22, 1936,ch. 688, 49 Stat. 1596, referred to in this section, as amended or supplemented by acts Aug. 28, 1937, ch. 877, §1, 50 Stat. 876; June 28, 1938, ch. 795, §4, 52 Stat. 1216; Aug. 11, 1939, ch. 699, §4, 53 Stat. 1414; Aug. 18, 1941, ch. 377, §3, 55 Stat. 639; Dec. 22, 1944, ch. 665, §10, 58 Stat. 891; July 24, 1946, ch. 596, §10, 60 Stat. 643.
 
 #### Authorization of Examinations and Surveys
 

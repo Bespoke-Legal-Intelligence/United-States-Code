@@ -56,7 +56,7 @@ Leverage.—The term "leverage" means a financial structure used to increase fun
 
 &emsp;(10)
 
-Leveraged.—The term "leveraged", as used with respect to a State infrastructurebank, means that the bank has total potential liabilities that exceed the capital of the bank.
+Leveraged.—The term "leveraged", as used with respect to a State infrastructure bank, means that the bank has total potential liabilities that exceed the capital of the bank.
 
 &emsp;(11)
 
@@ -202,7 +202,7 @@ In general.—The requirements of this title and title 49 that would otherwise a
 
 &emsp;(2)
 
-Repayments.—The requirements of this title and title 49 shall apply to repayments from non-Federal sources to an infrastructure bank from projects assisted by the bank. Such a repayment shall be considered to be Federal funds.
+Repayments.—The requirements of this title and title 49 shall apply to repayments from non-Federal sources to an infrastructurebank from projects assisted by the bank. Such a repayment shall be considered to be Federal funds.
 
 (i)
 
@@ -228,7 +228,7 @@ Subsec. (k). Pub. L. 117–58, §12001(k)(2), substituted "fiscal years 2022 thr
 
 <b>2015</b>—Subsec. (a)(11), (12). Pub. L. 114–94, §2001(i)(1), added pars. (11) and (12).
 
-Subsec. (d)(1)(A). Pub. L. 114–94, §2001(i)(2)(A), substituted "each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b);and" for "fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and".
+Subsec. (d)(1)(A). Pub. L. 114–94, §2001(i)(2)(A), substituted "each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and" for "fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and".
 
 Subsec. (d)(1)(B). Pub. L. 114–94, §1446(d)(5)(B), amended Pub. L. 112–141, div. A, title I, §1519(c). See 2012 Amendment note below.
 

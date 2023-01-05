@@ -233,7 +233,7 @@ Briefing on legislative recommendations.—Not later than February 1, 2022, the 
 
 &emsp;"(3)
 
-Demonstration of portfolio management.—In conjunction with the budget of the President for fiscal year 2023 (as submitted to Congress under section 1105(a) of title 21 \[probably should be title "31"\], United States Code), the Deputy Secretary of Defenseshall schedule a demonstration of the portfolio management capability developed under subsection (b) with the congressional defense committees."
+Demonstration of portfolio management.—In conjunction with the budget of the President for fiscal year 2023 (as submitted to Congress under section 1105(a) of title 21 \[probably should be title "31"\], United States Code), the Deputy Secretary of Defense shall schedule a demonstration of the portfolio management capability developed under subsection (b) with the congressional defense committees."
 
 #### Prototype Projects To Digitize Defense Acquisition Regulations, Policies, and Guidance, and Empower User Tailoring of Acquisition Process
 

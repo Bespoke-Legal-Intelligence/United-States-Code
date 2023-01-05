@@ -36,11 +36,11 @@ The Secretary may utilize the Insurance Fund—
 
 &emsp;(4) to make payments in compliance with the Secretary's obligations under contracts of guarantee entered into by him;
 
-&emsp;(5) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, expenses for necessary services, including construction inspections, commercial appraisals, loan servicing, consulting business advisory or other commercial and technical services, andother program services, and other expenses and advances authorized in section 1985(a) of this title in connection with insured loans. Such items may be paid in connection with guaranteed loans after or in connection with acquisition by the Secretary of such loans or security therefor after default, to an extent determined by the Secretary to be necessary to protect the interest of the Government, or in connection with grants and any other activity authorized in this chapter;
+&emsp;(5) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, expenses for necessary services, including construction inspections, commercial appraisals, loan servicing, consulting business advisory or other commercial and technical services, and other program services, and other expenses and advances authorized in section 1985(a) of this title in connection with insured loans. Such items may be paid in connection with guaranteed loans after or in connection with acquisition by the Secretary of such loans or security therefor after default, to an extent determined by the Secretary to be necessary to protect the interest of the Government, or in connection with grants and any other activity authorized in this chapter;
 
 &emsp;(6) to pay the difference between interest payments by borrowers and interest to which holders of insured notes are entitled under contracts of insurance heretofore or hereafter entered into by the Secretary; and
 
-&emsp;(7) to pay the Secretary's costs of administration necessary to insure loans under the programs referred to in subsection (a) of this section, make grants under sections 1926(a) and 1932 of this title, service, and otherwise carry out such programs, including costs of the Secretary incidental to guaranteeing rural development loans under this chapter, either directly from the Insurance Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
+&emsp;(7) to pay the Secretary's costs of administration necessary to insure loans under the programs referred to in subsection (a) of this section, make grants under sections 1926(a) and 1932 of this title, service, and otherwise carry out such programs, including costs of the Secretary incidental to guaranteeing rural development loans under this chapter, eitherdirectly from the Insurance Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
 
 #### (h) Gross income; interest or other income on insured loans
 
@@ -102,7 +102,7 @@ Pub. L. 101–82, title IV, §401, Aug. 14, 1989, 103 Stat. 583, as amended by P
 
 Loan Guarantees.—The Secretary of Agriculture shall guarantee loans made in rural areas to—
 
-&emsp;"(1) public, private, or cooperative organizations, to Indian tribes on Federal and State reservations orother federally recognized Indian tribal groups, or to any other business entities to assist such organizations, tribes, or entities in alleviating the distress caused to such organizations, tribes, or entities, directly or indirectly, by the drought, freeze, storm, excessive moisture, earthquake, or related condition in 1988 or 1989; and
+&emsp;"(1) public, private, or cooperative organizations, to Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups, or to any other business entities to assist such organizations, tribes, or entities in alleviating the distress caused to such organizations, tribes, or entities, directly or indirectly, by the drought, freeze, storm, excessive moisture, earthquake, or related condition in 1988 or 1989; and
 
 &emsp;"(2) such organizations, tribes, or entities that refinance or restructure debt as a result of losses incurred, directly or indirectly, because of such natural disasters in 1988 or 1989.
 
@@ -218,7 +218,7 @@ Applicability of Prohibition on Curtailment or Limitation of Service.—Section 
 
 &emsp;"(B) otherwise meet all eligibility criteria, as such criteria existed immediately prior to May 9, 1989, at the time the purchase occurs under this subsection.
 
-"(3) The opportunity to purchase any such note or other obligation shall be held open, under the policiesand procedures in effect under subsections (f)(2) and (f)(3) immediately prior to May 9, 1989, for 150 days after the date of enactment of this subsection \[Dec. 12, 1989\]. The Secretary shall not require any further good faith deposit from issuers who qualify under this subsection. The Secretary shall notify eligible issuers of the opportunity afforded under this subsection within 30 days after the date of enactment of this subsection and may require such issuers to express an intention to purchase their note or other obligation by a date certain."
+"(3) The opportunity to purchase any such note or other obligation shall be held open, under the policies and procedures in effect under subsections (f)(2) and (f)(3) immediately prior to May 9, 1989, for 150 days after the date of enactment of this subsection \[Dec. 12, 1989\]. The Secretary shall not require any further good faith deposit from issuers who qualify under this subsection. The Secretary shall notify eligible issuers of the opportunity afforded under this subsection within 30 days after the date of enactment of this subsection and may require such issuers to express an intention to purchase their note or other obligation by a date certain."
 
 Pub. L. 99–500, title III, §381, Oct. 18, 1986, 100 Stat. 1783–369, and Pub. L. 99–591, title III, §381, Oct. 30, 1986, 100 Stat. 3341–372, provided that:
 

@@ -70,7 +70,7 @@
 
 #### (1) In general
 
-&emsp;Such dividends as may be declared by the Board, in the discretion of the Board, shall be paid by the Corporation to the holders of thevoting common stock of the Corporation pro rata based on the total number of shares of both classes of stock outstanding.
+&emsp;Such dividends as may be declared by the Board, in the discretion of the Board, shall be paid by the Corporation to the holders of the voting common stock of the Corporation pro rata based on the total number of shares of both classes of stock outstanding.
 
 #### (2) Reserves requirement
 

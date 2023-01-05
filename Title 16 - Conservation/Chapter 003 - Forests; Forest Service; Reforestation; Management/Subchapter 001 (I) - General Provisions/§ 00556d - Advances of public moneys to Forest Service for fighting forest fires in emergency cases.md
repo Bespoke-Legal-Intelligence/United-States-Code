@@ -1,6 +1,6 @@
 ### §556d. Advances of public moneys to Forest Service for fighting forest fires in emergency cases
 
-Advances of money under any appropriation for the Forest Service may be made to the Forest Service and by authority of the Secretary of Agriculture to chiefs of field parties for fighting forest fires in emergency cases and detailed accounts arising under such advances shall be rendered through and by the Department of Agriculture to the Government Accountability Office.
+Advances of money under any appropriation for the Forest Service may be made to the Forest Service and by authority of the Secretary ofAgriculture to chiefs of field parties for fighting forest fires in emergency cases and detailed accounts arising under such advances shall be rendered through and by the Department of Agriculture to the Government Accountability Office.
 
 (May 23, 1908, ch. 192, 35 Stat. 259; June 10, 1921, ch. 18, title III, §304, 42 Stat. 24; Pub. L. 92–310, title II, §231(v), June 6, 1972, 86 Stat. 211; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

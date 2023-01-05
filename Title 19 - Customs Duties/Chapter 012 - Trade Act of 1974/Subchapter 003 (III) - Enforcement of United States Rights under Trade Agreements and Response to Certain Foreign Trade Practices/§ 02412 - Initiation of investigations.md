@@ -10,7 +10,7 @@
 
 (4) If the Trade Representative makes an affirmative determination under paragraph (2) with respect to a petition, the Trade Representative shall initiate an investigation regarding the issues raised in the petition. The Trade Representative shall publish a summary of the petition in the Federal Register and shall, as soon as possible, provide opportunity for the presentation of views concerning the issues, including a public hearing—
 
-&emsp;(A) within the 30-day period beginning on the date of the affirmative determination (oron a date after such period if agreed to by the petitioner) if a public hearing within such period is requested in the petition, or
+&emsp;(A) within the 30-day period beginning on the date of the affirmative determination (or on a date after such period if agreed to by the petitioner) if a public hearing within such period is requested in the petition, or
 
 &emsp;(B) at such other time if a timely request therefor is made by the petitioner or by any interested person.
 

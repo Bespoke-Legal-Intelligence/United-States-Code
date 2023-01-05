@@ -8,7 +8,7 @@ From the amount appropriated for any fiscal year under section 7714(e) of this t
 
 #### (1) In general
 
-&emsp;The Secretary shall, as soon as practicable, transfer to the appropriate local educational agency or another appropriate entity all the right, title, and interest of the United States in and to each facility provided under section 10 of the Act of September 23, 1950 <sup>1</sup> (Public Law 815, 81st Congress), or under section 204 or 310 of the Act of September 30, 1950 <sup>1</sup> (Public Law 874, 81st Congress) (as such Acts were in effect on January 1, 1958).
+&emsp;The Secretary shall, as soon as practicable, transfer to the appropriate local educational agency or another appropriate entity all the right, title, and interest of the United States in and to each facility provided under section 10 of the Act of September 23, 1950 <sup>1</sup> (PublicLaw 815, 81st Congress), or under section 204 or 310 of the Act of September 30, 1950 <sup>1</sup> (Public Law 874, 81st Congress) (as such Acts were in effect on January 1, 1958).
 
 #### (2) Other requirements
 

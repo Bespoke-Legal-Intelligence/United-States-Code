@@ -22,7 +22,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 &emsp;None of the funds provided under this subsection may be transferred to any eligible Federal entity—
 
-&emsp;&emsp;(A) unless the eligible Federal entity has submitted a transition plan to the NTIA as required by paragraph (1) of section 923(h) of this title, the Technical Panel has found such plan sufficient under paragraph (4) of such section, and the NTIA has made available such plan on its website as required by paragraph (5) of such section;
+&emsp;&emsp;(A) unless the eligible Federal entity has submitted a transition plan to the NTIA as required by paragraph (1) of section 923(h) of this title, the Technical Panel has foundsuch plan sufficient under paragraph (4) of such section, and the NTIA has made available such plan on its website as required by paragraph (5) of such section;
 
 &emsp;&emsp;(B) unless the Director of OMB has determined, in consultation with the NTIA, the appropriateness of such costs and the timeline for relocation or sharing; and
 
@@ -84,7 +84,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 &emsp;&emsp;(iii) such notice shall include, in addition to such plan, an explanation of need for such subsequent transfer or transfers.
 
-&emsp;(C) Such transferred amounts shall be credited to the appropriations account of the eligible Federal entity which has incurred, or will incur, such costs, and shall, subject to paragraph (2), remain available until expended.
+&emsp;(C) Such transferred amounts shall be credited to the appropriations account of the eligible Federal entity which has incurred, or willincur, such costs, and shall, subject to paragraph (2), remain available until expended.
 
 &emsp;(D) At the request of an eligible Federal entity, the Director of the Office of Management and Budget (in this subsection referred to as "OMB") may transfer the amount under subparagraph (A) immediately—
 
@@ -136,7 +136,7 @@ The amounts in the Fund from auctions of eligible frequencies are authorized to 
 
 #### (A) In general
 
-&emsp;&emsp;The Director of OMB may use amounts made available under paragraph (1) to makepayments requested by Federal entities for research and development, engineering studies, economic analyses, activities with respect to systems, or other planning activities intended to improve the efficiency and effectiveness of the spectrum use of Federal entities in order to make available frequencies described in subparagraph (C) for reallocation for non-Federal use or shared Federal and non-Federal use, or a combination thereof, and for auction in accordance with such reallocation.
+&emsp;&emsp;The Director of OMB may use amounts made available under paragraph (1) to make payments requested by Federal entities for research and development, engineering studies, economic analyses, activities with respect to systems, or other planning activities intended to improve the efficiency and effectiveness of the spectrum use of Federal entities in order to make available frequencies described in subparagraph (C) for reallocation for non-Federal use or shared Federal and non-Federal use, or a combination thereof, and for auction in accordance with such reallocation.
 
 #### (B) Systems that improve efficiency and effectiveness of Federal spectrum use
 

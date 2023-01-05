@@ -24,9 +24,9 @@
 
 &emsp;(E) shall assist in arranging meetings of such public sector advisory groups as may be established to advise the Department of State and other executive branch agencies in connection with international postal services and international delivery services.
 
-(3) The Secretary of State shall establish an advisory committee (within the meaning of the Federal Advisory Committee Act) to perform such functions as the Secretary considers appropriate in connection with carrying out subparagraphs (A) through (D) of paragraph (2).
+(3) The Secretary of State shall establish an advisory committee (within the meaning of chapter 10 of title 5) to perform such functions as the Secretary considers appropriate in connection with carrying out subparagraphs (A) through (D) of paragraph (2).
 
-(c)(1) Before concluding any treaty, convention, or amendment that establishes a rate or classification for a product subject to subchapter I of chapter 36, the Secretary of State shall request the Postal Regulatory Commission to submit its views on whether such rate or classification is consistent with the standards and criteria established by the Commission under section 3622.
+(c)(1) Before concluding any treaty, convention, or amendment that establishes a rate or classification for a product subject to subchapter I of chapter 36, the Secretary of State shall request the Postal Regulatory Commission to submit its views on whether such rate or classification is consistent with the standards andcriteria established by the Commission under section 3622.
 
 (2) The Secretary shall ensure that each treaty, convention, or amendment concluded under subsection (b) is consistent with the views submitted by the Commission pursuant to paragraph (1), except if, or to the extent, the Secretary determines, in writing, that it is not in the foreign policy or national security interest of the United States to ensure consistency with the Commission's views. Such written determination shall be provided to the Commission together with a full explanation of the reasons thereof, provided that the Secretary may designate which portions of the determination or explanation shall be kept confidential for reasons of foreign policy or national security.
 
@@ -44,23 +44,23 @@
 
 (4) The provisions of this subsection shall take effect 6 months after the date of enactment of this subsection or such earlier date as the Bureau of Customs and Border Protection of the Department of Homeland Security may determine in writing.
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 105–277, div. A, §101(h) \[title VI, §633(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523; Pub. L. 109–435, title IV, §405(a), Dec. 20, 2006, 120 Stat. 3229; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 724; Pub. L. 105–277, div. A, §101(h) \[title VI, §633(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523; Pub. L. 109–435, title IV, §405(a), Dec. 20, 2006, 120 Stat. 3229; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 117–286, §4(a)(226), Dec. 27, 2022, 136 Stat. 4330.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The date of enactment of this subsection, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 109–435, which was approved Dec. 20, 2006.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3). Pub. L. 117–286 substituted "chapter 10 of title 5)" for "the Federal Advisory Committee Act)".
 
 <b>2006</b>—Pub. L. 109–435 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to responsibilities of the Secretary of State and the Postal Service for international postal arrangements.
 
 <b>1998</b>—Pub. L. 105–277 substituted "International Postal Arrangements" for "International postal arrangements" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-"(a) The Postal Service, with the consent of the President, may negotiate and conclude postal treaties or conventions, and may establish the rates of postage or other charges on mail matter conveyed between the United States and other countries. The decisions of thePostal Service construing or interpreting the provisions of any treaty or convention which has been or may be negotiated and concluded shall, if approved by the President, be conclusive upon all officers of the Government of the United States.
+"(a) The Postal Service, with the consent of the President, may negotiate and conclude postal treaties or conventions, and may establish the rates of postage or other charges on mail matter conveyed between the United States and other countries. The decisions of the Postal Service construing or interpreting the provisions of any treaty or convention which has been or may be negotiated and concluded shall, if approved by the President, be conclusive upon all officers of the Government of the United States.
 
 "(b) The Postal Service shall transmit a copy of each postal convention concluded with other governments to the Secretary of State, who shall furnish a copy of the same to the Public Printer for publication."
 
@@ -84,7 +84,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 
 #### Transfer of Funds to State Department
 
-Pub. L. 105–277, §101(h) \[title VI, §633(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524, provided that: "In fiscal year 1999 and each fiscal year hereafter, the Postal Service shall allocate to the Department of State from any funds available to the Postal Service such sums as may be reasonable, documented and auditable for the Department of State to carry out the activities of Section 407 of title 39 of the United States Code."
+Pub. L. 105–277, §101(h) \[title VI, §633(d)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–524, provided that: "In fiscalyear 1999 and each fiscal year hereafter, the Postal Service shall allocate to the Department of State from any funds available to the Postal Service such sums as may be reasonable, documented and auditable for the Department of State to carry out the activities of Section 407 of title 39 of the United States Code."
 
 #### <b>Executive Documents</b>
 
@@ -128,7 +128,7 @@ It is the policy of the United States to promote and encourage the development o
 
 &emsp;(A) the United States, along with other member countries of the UPU, is in many cases not fully reimbursed by the foreign postal operator for the cost of delivering foreign-origin letter post items, which can result in substantial preferences for foreign mailers relative to domestic mailers;
 
-&emsp;(B) the current terminal dues rates undermine the goal of unrestricted and undistorted competition incross-border delivery services because they disadvantage non-postal operators seeking to offer competing collection and outward transportation services for goods covered by terminal dues in foreign markets; and
+&emsp;(B) the current terminal dues rates undermine the goal of unrestricted and undistorted competition in cross-border delivery services because they disadvantage non-postal operators seeking to offer competing collection and outward transportation services for goods covered by terminal dues in foreign markets; and
 
 &emsp;(C) the current system of terminal dues distorts the flow of small packages around the world by incentivizing the shipping of goods from foreign countries that benefit from artificially low reimbursement rates.
 

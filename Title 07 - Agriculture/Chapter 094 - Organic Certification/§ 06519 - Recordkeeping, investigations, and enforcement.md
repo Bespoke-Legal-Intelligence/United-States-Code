@@ -40,7 +40,7 @@
 
 #### (5) Confidentiality
 
-&emsp;Except as provided in section 6506(a)(9) of this title, or as otherwise directed by the Secretary or the Attorney General for enforcement purposes, no officer, employee, or agent of the United States shall make available to the public any information, statistic, or document obtained from, or made available by, any person under this chapter, other than in amanner that ensures that confidentiality is preserved regarding—
+&emsp;Except as provided in section 6506(a)(9) of this title, or as otherwise directed by the Secretary or the Attorney General for enforcement purposes, no officer, employee, or agent of the United States shall make available to the public any information, statistic, or document obtained from, or made available by, any person under this chapter, other than in a manner that ensures that confidentiality is preserved regarding—
 
 &emsp;&emsp;(A) the identity of all relevant persons (including parties to a contract); and
 
@@ -138,7 +138,7 @@
 
 #### References in Text
 
-The Federal Meat Inspection Act, referred to in subsec. (c)(6)(A)(i), is titles I to V of act Mar. 4, 1907, ch.2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, §11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
+The Federal Meat Inspection Act, referred to in subsec. (c)(6)(A)(i), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, §11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
 The Poultry Products Inspection Act, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§451 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
 

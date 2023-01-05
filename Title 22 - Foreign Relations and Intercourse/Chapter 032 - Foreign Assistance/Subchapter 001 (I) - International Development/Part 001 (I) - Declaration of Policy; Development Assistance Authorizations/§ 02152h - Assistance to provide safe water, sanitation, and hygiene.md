@@ -148,7 +148,7 @@ The Administrator of the United States Agency for International Development shal
 
 &emsp;&emsp;&emsp;(ii) the health and educational opportunities available to women as a result of increased access to safe water, sanitation, and hygiene, including access to appropriate facilities at primary and secondary educational institutions; and
 
-&emsp;&emsp;&emsp;(iii) the indigenous capacity of the host nation or community to provide safe water and sanitation without the assistance of outside donors;
+&emsp;&emsp;&emsp;(iii) the indigenous capacity of the host nation or community to provide safe waterand sanitation without the assistance of outside donors;
 
 &emsp;&emsp;(B) is designed, as part of the provision of safe water and sanitation to the local community—
 

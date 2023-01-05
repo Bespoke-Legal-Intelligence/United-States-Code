@@ -1,6 +1,6 @@
 ### §4046. Shock incarceration program
 
-(a) The Bureau of Prisons may place in a shock incarceration program any person who is sentenced to a term of imprisonment of morethan 12, but not more than 30, months, if such person consents to that placement.
+(a) The Bureau of Prisons may place in a shock incarceration program any person who is sentenced to a term of imprisonment of more than 12, but not more than 30, months, if such person consents to that placement.
 
 (b) For such initial portion of the term of imprisonment as the Bureau of Prisons may determine, not to exceed 6 months, an inmate in the shock incarceration program shall be required to—
 

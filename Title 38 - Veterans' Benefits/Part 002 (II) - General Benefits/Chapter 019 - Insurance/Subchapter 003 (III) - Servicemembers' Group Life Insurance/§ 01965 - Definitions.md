@@ -32,7 +32,7 @@ For the purpose of this subchapter—
 
 &emsp;(5) The term "member" means—
 
-&emsp;&emsp;(A) a person on active duty, active duty for training, or inactive duty training in theuniformed services in a commissioned, warrant, or enlisted rank, or grade, or as a cadet or midshipman of the United States Military Academy, United States Naval Academy, United States Air Force Academy, or the United States Coast Guard Academy;
+&emsp;&emsp;(A) a person on active duty, active duty for training, or inactive duty training in the uniformed services in a commissioned, warrant, or enlisted rank, or grade, or as a cadet or midshipman of the United States Military Academy, United States Naval Academy, United States Air Force Academy, or the United States Coast Guard Academy;
 
 &emsp;&emsp;(B) a person who volunteers for assignment to the Ready Reserve of a uniformed service and is assigned to a unit or position in which such person may be required to perform active duty, or active duty for training, and each year will be scheduled to perform at least twelve periods of inactive duty training that is creditable for retirement purposes under chapter 1223 of title 10 (or under chapter 67 of that title as in effect before the effective date of the Reserve Officer Personnel Management Act);
 
@@ -172,7 +172,7 @@ Pub. L. 104–275, title IV, §405(a), Oct. 9, 1996, 110 Stat. 3339, provided th
 
 #### References to Servicemen's Group Life Insurance or Advisory Council on Servicemen's Group Life Insurance
 
-Pub. L. 104–275, title IV, §405(d), Oct. 9, 1996, 110 Stat. 3340, provided that: "Any reference to Servicemen's Group Life Insurance or to the Advisory Council on Servicemen's Group Life Insurance in any Federal law, Executive order, regulation, delegation of authority, or other document of the Federal Government shall bedeemed to refer to Servicemembers' Group Life Insurance or the Advisory Council on Servicemembers' Group Life Insurance, respectively."
+Pub. L. 104–275, title IV, §405(d), Oct. 9, 1996, 110 Stat. 3340, provided that: "Any reference to Servicemen's Group Life Insurance or to the Advisory Council on Servicemen's Group Life Insurance in any Federal law, Executive order, regulation, delegation of authority, or other document of the Federal Government shall be deemed to refer to Servicemembers' Group Life Insurance or the Advisory Council on Servicemembers' Group Life Insurance, respectively."
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

@@ -30,7 +30,7 @@ Since 1962, during National Poison Prevention Week we alert American families ab
 
 Sadly, more than half of all reported poisonings involve children under the age of six, and the vast majority take place in the home. Parents should keep household chemicals and medicines in child-proof containers, beyond the reach of their children. Thanks to safety regulations and awareness campaigns like National Poison Prevention Week, childhood death rates from unintentional poisonings have fallen considerably. However, adult death rates have steadily risen in recent years.
 
-We must each remember to read labels thoroughly before taking medications, to keep medicines in their original packaging, and to dispose of them properly. Consulting a physician before combining prescription drugs or using them with alcohol also reduces our risks.
+We must each remember to read labels thoroughly before taking medications, to keep medicines in theiroriginal packaging, and to dispose of them properly. Consulting a physician before combining prescription drugs or using them with alcohol also reduces our risks.
 
 In the event of an accidental poisoning, crucial information and immediate action can save lives. Individuals can call the toll-free national poison control hotline at 1–800–222–1222 to be connected to one of dozens of local poison control centers, which are open 24 hours every day. These centers provide emergency assistance, offer guidance on poison prevention, and answer questions concerning potential exposure.
 

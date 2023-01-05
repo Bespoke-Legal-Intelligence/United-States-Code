@@ -30,7 +30,7 @@ The interim guidance under subsection (a) shall—
 
 #### (c) Revisions
 
-The Administrator shall publish revisions to the interim guidance under subsection (a) as the Administrator determines to be appropriate, but not less frequently than once every 3 years.
+The Administrator shall publish revisions to the interim guidance under subsection (a) as theAdministrator determines to be appropriate, but not less frequently than once every 3 years.
 
 (Pub. L. 116–92, div. F, title LXXIII, §7361, Dec. 20, 2019, 133 Stat. 2289.)
 

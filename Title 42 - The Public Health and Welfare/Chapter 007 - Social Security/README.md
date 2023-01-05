@@ -109,7 +109,7 @@
 
 #### Part B—Child and Family Services
 
-#### subpart 1—child welfare services
+#### subpart 1—stephanie tubbs jones child welfare services program
 
 |  |  |
 | :--- | ---: |
@@ -124,6 +124,7 @@
 | [628\.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20001%20-%20Stephanie%20Tubbs%20Jones%20Child%20Welfare%20Services%20Program/%C2%A7%2000628%20-%20Payments%20to%20Indian%20tribal%20organizations.md) | Payments to Indian tribal organizations. |
 | [628a.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20001%20-%20Stephanie%20Tubbs%20Jones%20Child%20Welfare%20Services%20Program/%C2%A7%2000628a%20-%20Transferred.md) | Transferred. |
 | [628b.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20001%20-%20Stephanie%20Tubbs%20Jones%20Child%20Welfare%20Services%20Program/%C2%A7%2000628b%20-%20National%20random%20sample%20study%20of%20child%20welfare.md) | National random sample study of child welfare. |
+| [628c.](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/Part%20B%20-%20Child%20and%20Family%20Services/Subpart%20001%20-%20Stephanie%20Tubbs%20Jones%20Child%20Welfare%20Services%20Program/%C2%A7%2000628c%20-%20Grants%20to%20States%20to%20enhance%20collaboration%20between%20State%20child%20welfare%20and%20juvenile%20justice%20systems.md) | Grants to States to enhance collaboration between State child welfare and juvenile justice systems. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -259,6 +260,7 @@
 | [803\.](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%2C%20Fiscal%20Recovery%2C%20and%20Critical%20Capital%20Projects%20Funds/%C2%A7%2000803%20-%20Coronavirus%20local%20fiscal%20recovery%20fund.md) | Coronavirus local fiscal recovery fund. |
 | [804\.](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%2C%20Fiscal%20Recovery%2C%20and%20Critical%20Capital%20Projects%20Funds/%C2%A7%2000804%20-%20Coronavirus%20capital%20projects%20fund.md) | Coronavirus capital projects fund. |
 | [805\.](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%2C%20Fiscal%20Recovery%2C%20and%20Critical%20Capital%20Projects%20Funds/%C2%A7%2000805%20-%20Local%20assistance%20and%20Tribal%20consistency%20fund.md) | Local assistance and Tribal consistency fund. |
+| [806\.](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%2C%20Fiscal%20Recovery%2C%20and%20Critical%20Capital%20Projects%20Funds/%C2%A7%2000806%20-%20Rescission%20of%20funds%20declined%20by%20States%2C%20territories%2C%20or%20other%20governmental%20entities.md) | Rescission of funds declined by States, territories, or other governmental entities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -484,6 +486,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Part E—Price Negotiation Program To Lower Prices for Certain High-Priced Single Source Drugs
+
+|  |  |
+| :--- | ---: |
+| [1320f.](Subchapter%20011%20%28XI%29%20-%20General%20Provisions%2C%20Peer%20Review%2C%20and%20Administrative%20Simplification/Part%20E%20-%20Price%20Negotiation%20Program%20to%20Lower%20Prices%20for%20Certain%20High-Priced%20Single%20Source%20Drugs/%C2%A7%2001320f%20-%20Establishment%20of%20program.md) | Establishment of program. |
+| 1320f–1. | Selection of negotiation-eligible drugs as selected drugs. |
+| 1320f–2. | Manufacturer agreements. |
+| 1320f–3. | Negotiation and renegotiation process. |
+| 1320f–4. | Publication of maximum fair prices. |
+| 1320f–5. | Administrative duties and compliance monitoring. |
+| 1320f–6. | Civil monetary penalties. |
+| 1320f–7. | Limitation on administrative and judicial review. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER XII—ADVANCES TO STATE UNEMPLOYMENT FUNDS
 
 |  |  |
@@ -690,6 +707,9 @@
 | 1395w–113. | Premiums; late enrollment penalty. |
 | 1395w–114. | Premium and cost-sharing subsidies for low-income individuals. |
 | 1395w–114a. | Medicare coverage gap discount program. |
+| 1395w–114b. | Manufacturer rebate for certain drugs with prices increasing faster than inflation. |
+| 1395w–114c. | Manufacturer discount program. |
+| 1395w–114d. | Selected drug subsidy program. |
 | 1395w–115. | Subsidies for part D eligible individuals for qualified prescription drug coverage. |
 | 1395w–116. | Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund. |
 
@@ -741,6 +761,7 @@
 | 1395cc–4. | National pilot program on payment bundling. |
 | 1395cc–5. | Independence at home medical practice demonstration program. |
 | 1395cc–6. | Opioid use disorder treatment demonstration program. |
+| 1395cc–7. | Extension of Acute Hospital Care at Home initiative. |
 | [1395dd.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395dd%20-%20Examination%20and%20treatment%20for%20emergency%20medical%20conditions%20and%20women%20in%20labor.md) | Examination and treatment for emergency medical conditions and women in labor. |
 | [1395ee.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ee%20-%20Practicing%20Physicians%20Advisory%20Council%3B%20Council%20for%20Technology%20and%20Innovation.md) | Practicing Physicians Advisory Council; Council for Technology and Innovation. |
 | [1395ff.](Subchapter%20018%20%28XVIII%29%20-%20Health%20Insurance%20for%20Aged%20and%20Disabled/Part%20E%20-%20Miscellaneous%20Provisions/%C2%A7%2001395ff%20-%20Determinations%3B%20appeals.md) | Determinations; appeals. |
@@ -844,6 +865,7 @@
 | 1396w–4a. | State option to provide coordinated care through a health home for children with medically complex conditions. |
 | 1396w–5. | Addressing health care disparities. |
 | 1396w–6. | State option to provide qualifying community-based mobile crisis intervention services. |
+| 1396w–7. | Supporting access to a continuum of crisis response services under Medicaid and CHIP. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

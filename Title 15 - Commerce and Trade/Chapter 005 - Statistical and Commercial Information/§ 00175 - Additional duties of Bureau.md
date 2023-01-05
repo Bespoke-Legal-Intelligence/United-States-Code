@@ -1,6 +1,6 @@
 ### §175. Additional duties of Bureau
 
-It shall be the province and duty of the Bureau of Foreign and Domestic Commerce, under the direction of the Secretary of Commerce, to foster, promote, and develop the various manufacturing industries of the United States, and markets for the same at home and abroad, domestic and foreign, by gathering, compiling, publishing, and supplying all available and useful information concerning such industries and such markets, and by such other methods and means asmay be prescribed by the Secretary of Commerce or provided by law.
+It shall be the province and duty of the Bureau of Foreign and Domestic Commerce, under the direction of the Secretary of Commerce, to foster, promote, and develop the various manufacturing industries of the United States, and markets for the same at home and abroad, domestic and foreign, by gathering, compiling, publishing, and supplying all available and useful information concerning such industries and such markets, and by such other methods and means as may be prescribed by the Secretary of Commerce or provided by law.
 
 (Feb. 14, 1903, ch. 552, §5, 32 Stat. 827; Apr. 5, 1906, ch. 1366, §3, 34 Stat. 100; Aug. 23, 1912, ch. 350, §1, 37 Stat. 407; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Aug. 13, 1946, ch. 957, title XI, §1131(23), 60 Stat. 1037.)
 

@@ -16,7 +16,7 @@ Duties.—In carrying out this section, the Inspector General shall—
 
 (c)
 
-Access to Information.—In carrying out this section, the Inspector General may exercise authorities granted to the Inspector General under subsections (a) and (b) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+Access to Information.—In carrying out this section, the Inspector General may exercise authorities granted to the Inspector General under subsections (a) and (c) of section 406 of title 5.
 
 (d)
 
@@ -30,11 +30,11 @@ Funding.—There are authorized to be appropriated to the Secretary of Transport
 
 Reimbursable agreement.—In the absence of an appropriation under this subsection for an expense referred to in paragraph (1), the Inspector General and the Board shall have a reimbursement agreement to cover such expense.
 
-(Added Pub. L. 114–110, §9, Dec. 18, 2015, 129 Stat. 2232.)
+(Added Pub. L. 114–110, §9, Dec. 18, 2015, 129 Stat. 2232; amended Pub. L. 117–286, §4(b)(97), Dec. 27, 2022, 136 Stat. 4353.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (c). Pub. L. 117–286 substituted "subsections (a) and (c) of section 406 of title 5." for "subsections (a) and (b) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.)."
 

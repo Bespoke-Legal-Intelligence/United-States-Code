@@ -62,9 +62,9 @@ Service on Advisory Board.—Service of an individual as a member of the Advisor
 
 (e)
 
-Termination.—The Advisory Board shall continue to exist until December 31, 2009. In all other respects, it shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+Termination.—The Advisory Board shall continue to exist until December 31, 2009. In all other respects, it shall be subject to chapter 10 of title 5.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3147.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3147; Pub. L. 117–286, §4(a)(329), Dec. 27, 2022, 136 Stat. 4342.)
 
 Historical and Revision Notes
 
@@ -98,7 +98,7 @@ In subsection (d), the word "deemed" is substituted for "considered as" for cons
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (e). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
 

@@ -34,7 +34,7 @@
 
 #### (4) Database
 
-&emsp;The database described in this paragraph is, with respect to a group health plan, a databaseon the public website of such plan or issuer that contains—
+&emsp;The database described in this paragraph is, with respect to a group health plan, a database on the public website of such plan or issuer that contains—
 
 &emsp;&emsp;(A) a list of each health care provider and health care facility with which such plan or such issuer has a direct or indirect contractual relationship for furnishing items and services under such plan; and
 

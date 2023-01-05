@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Covered communication
 
-&emsp;The term "covered communication" means a written, oral, or pictorial review, performance assessment of, or other similar analysis of, including by electronic means, the goods, services, or conduct of a person by an individual who is party to a form contract with respect to which such person is also a party.
+&emsp;The term "covered communication" means a written, oral, or pictorial review, performanceassessment of, or other similar analysis of, including by electronic means, the goods, services, or conduct of a person by an individual who is party to a form contract with respect to which such person is also a party.
 
 #### (3) Form contract
 
@@ -106,7 +106,7 @@ It shall be unlawful for a person to offer a form contract containing a provisio
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), the attorney general of a State shall notify the Commission in writing that the attorney general intends to bring a civil action under paragraph (1) before initiating thecivil action against a person described in subsection (d)(1).
+&emsp;&emsp;&emsp;Except as provided in clause (iii), the attorney general of a State shall notify the Commission in writing that the attorney general intends to bring a civil action under paragraph (1) before initiating the civil action against a person described in subsection (d)(1).
 
 #### (ii) Contents
 
@@ -192,7 +192,7 @@ This section shall take effect on December 14, 2016, except that—
 
 The Federal Trade Commission Act, referred to in subsecs. (d)(2) and (h), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to this subchapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-This Act, referred to in subsecs. (d)(2)(A) and (f), is Pub. L. 114–258, Dec. 14, 2016, 130 Stat. 1355, known as the Consumer Review Fairness Act of 2016, which enacted this section and provisions set out as a note under section 58 of this title. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under section 58 of this title and Tables.
+This Act, referred to in subsecs. (d)(2)(A) and (f), is Pub. L. 114–258, Dec. 14, 2016, 130 Stat. 1355, known asthe Consumer Review Fairness Act of 2016, which enacted this section and provisions set out as a note under section 58 of this title. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under section 58 of this title and Tables.
 
 #### Codification
 

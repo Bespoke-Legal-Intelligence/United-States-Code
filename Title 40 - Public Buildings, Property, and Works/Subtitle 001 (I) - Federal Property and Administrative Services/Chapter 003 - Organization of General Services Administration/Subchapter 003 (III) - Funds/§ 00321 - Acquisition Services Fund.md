@@ -110,7 +110,7 @@ Failure to make prompt reimbursement.—The Administrator may obtain reimburseme
 
 (e)
 
-Reimbursement for Equipment Purchased for Congress.—The Administrator may accept periodic reimbursement from the Senate andfrom the House of Representatives for the cost of any equipment purchased for the Senate or the House of Representatives with money from the Fund. The amount of each periodic reimbursement shall be computed by amortizing the total cost of each item of equipment over the useful life of the equipment, as determined by the Administrator, in consultation with the Sergeant at Arms and Doorkeeper of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate.
+Reimbursement for Equipment Purchased for Congress.—The Administrator may accept periodic reimbursement from the Senate and from the House of Representatives for the cost of any equipment purchased for the Senate or the House of Representatives with money from the Fund. The amount of each periodic reimbursement shall be computed by amortizing the total cost of each item of equipment over the useful life of the equipment, as determined by the Administrator, in consultation with the Sergeant at Arms and Doorkeeper of the Senate or the Chief Administrative Officer of the House of Representatives, as appropriate.
 
 (f)
 
@@ -240,7 +240,7 @@ Abolishment of General Supply Fund and Information Technology Fund.—The Genera
 
 "(b)
 
-Transfers.—Capital assets and balances remaining in the General Supply Fund and the Information Technology Fund as in existence immediately before this section takes effect \[see Effective Date of 2006 Amendment note above\] shall be transferred to the Acquisition Services Fund and shall be merged with andbe available for the purposes of the Acquisition Services Fund under section 321 of title 40, United States Code (as amended by this Act).
+Transfers.—Capital assets and balances remaining in the General Supply Fund and the Information Technology Fund as in existence immediately before this section takes effect \[see Effective Date of 2006 Amendment note above\] shall be transferred to the Acquisition Services Fund and shall be merged with and be available for the purposes of the Acquisition Services Fund under section 321 of title 40, United States Code (as amended by this Act).
 
 "(c)
 

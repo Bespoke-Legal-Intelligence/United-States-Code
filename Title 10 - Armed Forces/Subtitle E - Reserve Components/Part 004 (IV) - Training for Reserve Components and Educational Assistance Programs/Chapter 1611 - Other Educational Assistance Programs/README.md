@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [16401\.](%C2%A7%2016401%20-%20Marine%20Corps%20Platoon%20Leaders%20Class%20college%20tuition%20assistance%20program.md) | Marine Corps Platoon Leaders Class: college tuition assistance program.<br> |
+| [16401\.](%C2%A7%2016401%20-%20Marine%20Corps%20Platoon%20Leaders%20Class%20college%20tuition%20assistance%20program.md) | Marine Corps Platoon Leaders Class: college tuition assistance program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

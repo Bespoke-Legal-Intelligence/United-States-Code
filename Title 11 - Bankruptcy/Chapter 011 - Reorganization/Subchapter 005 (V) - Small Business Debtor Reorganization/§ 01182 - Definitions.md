@@ -2,39 +2,43 @@
 
 In this subchapter:
 
-(1)
+&emsp;(1)
 
 Debtor.—The term "debtor"—
 
-&emsp;(A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning single asset real estate) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $7,500,000 (excluding debts owed to 1 or more affiliates or insiders) not less than 50 percent of which arose from the commercial or business activities of the debtor; and
+&emsp;&emsp;(A) subject to subparagraph (B), means a person engaged in commercial or business activities (including any affiliate of such person that is also a debtor under this title and excluding a person whose primary activity is the business of owning single asset real estate) that has aggregate noncontingent liquidated secured and unsecured debts as of the date of the filing of the petition or the date of the order for relief in an amount not more than $7,500,000 (excluding debts owed to 1 or more affiliates or insiders) not less than 50 percent of which arose from the commercial or business activities of the debtor; and
 
-&emsp;(B) does not include—
+&emsp;&emsp;(B) does not include—
 
-&emsp;&emsp;(i) any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $7,500,000 (excluding debt owed to 1 or more affiliates or insiders);
+&emsp;&emsp;&emsp;(i) any member of a group of affiliated debtors under this title that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $7,500,000 (excluding debt owed to 1 or more affiliates or insiders);
 
-&emsp;&emsp;(ii) any debtor that is a corporation subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m, 78o(d)); or
+&emsp;&emsp;&emsp;(ii) any debtor that is a corporation subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m, 78o(d)); or
 
-&emsp;&emsp;(iii) any debtor that is an affiliate of an issuer, as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c).
+&emsp;&emsp;&emsp;(iii) any debtor that is an affiliate of a corporation described in clause (ii).
 
 &emsp;(2)
 
 Debtor in possession.—The term "debtor in possession" means the debtor, unless removed as debtor in possession under section 1185(a) of this title.
 
-(Added Pub. L. 116–54, §2(a), Aug. 23, 2019, 133 Stat. 1079; amended Pub. L. 116–136, div. A, title I, §1113(a)(1), (5), Mar. 27, 2020, 134 Stat. 310, 311.)
+(Added Pub. L. 116–54, §2(a), Aug. 23, 2019, 133 Stat. 1079; amended Pub. L. 116–136, div. A, title I, §1113(a)(1), (5), Mar. 27, 2020, 134 Stat. 310, 311; Pub. L. 117–151, §2(d), (i)(1)(B), June 21, 2022, 136 Stat. 1298, 1300.)
 
 #### Amendment of Paragraph (1)
 
-<i>Pub. L. 116–136, div. A, title I, §1113(a)(5), Mar. 27, 2020, 134 Stat. 311, as amended by Pub. L. 117–5, §2(a)(1), Mar. 27, 2021, 135 Stat. 249, provided that, 2 years after Mar. 27, 2020, paragraph (1) of this section is amended to read as follows:</i>
+<i>Pub. L. 117–151, §2(i)(1)(B), June 21, 2022, 136 Stat. 1300, provided that, effective 2 years after June 21, 2022, paragraph (1) of this section is amended to read as follows:</i>
 
 &emsp;<i>(1)</i>
 
 <i>Debtor.—The term "debtor" means a small business debtor.</i>
 
-<i>See 2020 Amendment note below.</i>
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Par. (1). Pub. L. 117–151, §2(i)(1)(B), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) and (B) defining "debtor".
+
+Pub. L. 117–151, §2(d), amended par. (1) generally. Prior to amendment, text read as follows: "The term 'debtor' means a small business debtor."
 
 <b>2020</b>—Par. (1). Pub. L. 116–136, §1113(a)(5), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) and (B) defining "debtor".
 
@@ -42,9 +46,15 @@ Pub. L. 116–136, §1113(a)(1), temporarily amended par. (1) generally. Prior t
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by section 2(d) of Pub. L. 117–151 applicable with respect to any case that is commenced under this title on or after Mar. 27, 2020, and with respect to a case that was commenced on or after Mar. 27, 2020, and before June 21, 2022, that is pending on June 21, 2022, see section 2(h)(2) of Pub. L. 117–151, set out as an Effective Date of 2022 Amendment; Retroactive Application note under section 101 of this title.
+
+Pub. L. 117–151, §2(i)(1), June 21, 2022, 136 Stat. 1300, provided in part that the amendment made by section 2(i)(1)(B) is effective on the date that is 2 years after June 21, 2022.
+
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–136, div. A, title I, §1113(a)(3), Mar. 27, 2020, 134 Stat. 311, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall apply only with respect to cases commenced under title 11, United States Code, on or after the date of enactment of this Act \[Mar. 27, 2020\]."
+Pub. L. 116–136, div. A, title I, §1113(a)(3), Mar. 27, 2020, 134 Stat. 311, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to cases commenced under title 11, United States Code, on or after the date of enactment of this Act \[Mar. 27, 2020\]."
 
 Pub. L. 116–136, div. A, title I, §1113(a)(5), Mar. 27, 2020, 134 Stat. 311, as amended by Pub. L. 117–5, §2(a)(1), Mar. 27, 2021, 135 Stat. 249, provided in part that the amendment made by section 1113(a)(5) of Pub. L. 116–136 is effective 2 years after Mar. 27, 2020.
 

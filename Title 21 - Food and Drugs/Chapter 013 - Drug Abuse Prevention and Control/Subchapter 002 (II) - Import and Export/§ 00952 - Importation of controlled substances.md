@@ -18,7 +18,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 #### (b) Nonnarcotic controlled substances in schedule III, IV, or V
 
-It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the United States), or to import into the United States from  any  place  outside  thereof,  any  nonnarcotic controlled substance in schedule III, IV, or V, unless such nonnarcotic controlled substance—
+It shall be unlawful to import into the customs territory of the United States from any place outside thereof (but within the United States), or to import into the United Statesfrom  any  place  outside  thereof,  any  nonnarcotic controlled substance in schedule III, IV, or V, unless such nonnarcotic controlled substance—
 
 &emsp;(1) is imported for medical, scientific, or other legitimate uses, and
 

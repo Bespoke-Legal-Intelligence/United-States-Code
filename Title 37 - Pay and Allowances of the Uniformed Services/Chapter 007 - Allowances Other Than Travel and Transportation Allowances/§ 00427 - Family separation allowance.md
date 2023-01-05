@@ -4,7 +4,7 @@
 
 Entitlement to Allowance.—(1) In addition to any allowance or per diem to which he otherwise may be entitled under this title a member of a uniformed service with dependents is entitled to a monthly allowance equal to $250 if—
 
-&emsp;(A) the movement of his dependents to his permanent station or a place near that station is not authorized at the expense of the United States under section 476 <sup>1</sup> of this title and his dependents do not reside at or near that station;
+&emsp;(A) the movement of his dependents to his permanent station or a place near that station is not authorized at the expense of the United States under section 452 of this title and his dependents do not reside at or near that station;
 
 &emsp;(B) he is on duty on board a ship away from the home port of the ship (or under orders to remain on board the ship while at the home port) for a continuous period of more than 30 days; or
 
@@ -22,7 +22,7 @@ Entitlement When No Residence or Household Maintained for Dependents.—An allow
 
 (c)
 
-Effect of Election to Serve Unaccompanied Tour of Duty.—(1) Except as provided in paragraph (2) or (3), a member who elects to serve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under section 476 <sup>1</sup> of this title is not entitled to an allowance under subsection (a)(1)(A).
+Effect of Election to Serve Unaccompanied Tour of Duty.—(1) Except as provided in paragraph (2) or (3), a member who elects to serve a tour of duty unaccompanied by his dependents at a permanent station to which the movement of his dependents is authorized at the expense of the United States under section 452 of this title is not entitled to an allowance under subsection (a)(1)(A).
 
 (2) The prohibition in the first sentence of paragraph (1) does not apply to a member who elects to serve an unaccompanied tour of duty because a dependent cannot accompany the member to or at that permanent station for certified medical reasons.
 
@@ -36,15 +36,15 @@ Entitlement While Spouse Entitled to Basic Pay.—(1) A member married to anothe
 
 (3) Section 421 of this title does not apply to bar the entitlement to an allowance under this section. Except as provided in paragraph (2), not more than one monthly allowance may be paid with respect to a married couple under this section.
 
-(Added Pub. L. 88–132, §11(1), Oct. 2, 1963, 77 Stat. 217; amended Pub. L. 91–529, §1, Dec. 7, 1970, 84 Stat. 1389; Pub. L. 91–533, §1, Dec. 7, 1970, 84 Stat. 1392; Pub. L. 96–342, title VIII, §809(a), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 99–145, title VI, §607(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §618(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§611(b), 625, Dec. 5, 1991, 105 Stat. 1376, 1379; Pub. L. 103–337, div. A, title VI, §625(a), Oct. 5, 1994, 108 Stat. 2785; Pub. L. 104–106, div. A, title VI, §606, Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §607, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 105–85, div. A, title VI, §§603(c)(3), 626, Nov. 18, 1997, 111 Stat. 1781, 1795; Pub. L. 107–107, div. A, title VI, §607(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 108–11, title I, §1316(b), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§606, 618(d)(2), Nov. 24, 2003, 117 Stat. 1500, 1504; Pub. L. 108–375, div. A, title VI, §623(b), Oct. 28, 2004, 118 Stat. 1955; Pub. L. 110–417, \[div. A\], title VI, §604(a), Oct. 14, 2008, 122 Stat. 4483; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–283, div. A, title VI, §615, Jan. 1, 2021, 134 Stat. 3675.)
+(Added Pub. L. 88–132, §11(1), Oct. 2, 1963, 77 Stat. 217; amended Pub. L. 91–529, §1, Dec. 7, 1970, 84 Stat. 1389; Pub. L. 91–533, §1, Dec. 7, 1970, 84 Stat. 1392; Pub. L. 96–342, title VIII, §809(a), Sept. 8, 1980, 94 Stat. 1097; Pub. L. 99–145, title VI, §607(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, §618(a), Nov. 14, 1986, 100 Stat. 3880; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §§611(b), 625, Dec. 5, 1991, 105 Stat. 1376, 1379; Pub. L. 103–337, div. A, title VI, §625(a), Oct. 5, 1994, 108 Stat. 2785; Pub. L. 104–106, div. A, title VI, §606, Feb. 10, 1996, 110 Stat. 358; Pub. L. 104–201, div. A, title VI, §607, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 105–85, div. A, title VI, §§603(c)(3), 626, Nov. 18, 1997, 111 Stat. 1781, 1795; Pub. L. 107–107, div. A, title VI, §607(a), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 108–11, title I, §1316(b), (c)(2), Apr. 16, 2003, 117 Stat. 570; Pub. L. 108–136, div. A, title VI, §§606, 618(d)(2), Nov. 24, 2003, 117 Stat. 1500, 1504; Pub. L. 108–375, div. A, title VI, §623(b), Oct. 28, 2004, 118 Stat. 1955; Pub. L. 110–417, \[div. A\], title VI, §604(a), Oct. 14, 2008, 122 Stat. 4483; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–283, div. A, title VI, §615, Jan. 1, 2021, 134 Stat. 3675; ; Pub. L. 117–263, div. A, title VI, §626(h)(4), Dec. 23, 2022, 136 Stat. 2629.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 476 of this title, referred to in subsecs. (a)(1)(A) and (c)(1), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(A). Pub. L. 117–263, §626(h)(4)(A), substituted "section 452" for "section 476".
+
+Subsec. (c)(1). Pub. L. 117–263, §626(h)(4)(B), substituted "section 452" for "section 476".
 
 <b>2021</b>—Subsec. (a)(1)(B). Pub. L. 116–283 inserted "(or under orders to remain on board the ship while at the home port)" after "of the ship".
 
@@ -126,7 +126,7 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–417, \[div. A\], title VI, §604(b), Oct. 14, 2008, 122 Stat. 4483, as amended by Pub. L. 111–383, div. A,title X, §1075(e)(9), Jan. 7, 2011, 124 Stat. 4375, provided that: "Paragraph (2) of subsection (d) of section 427 of title 37, United States Code, as added by subsection (a), shall apply with respect to members of the uniformed services described in such paragraph who perform service covered by subparagraph (A), (B), or (C) of subsection (a)(1) of such section on or after October 1, 2008."
+Pub. L. 110–417, \[div. A\], title VI, §604(b), Oct. 14, 2008, 122 Stat. 4483, as amended by Pub. L. 111–383, div. A, title X, §1075(e)(9), Jan. 7, 2011, 124 Stat. 4375, provided that: "Paragraph (2) of subsection (d) of section 427 of title 37, United States Code, as added by subsection (a), shall apply with respect to members of the uniformed services described in such paragraph who perform service covered by subparagraph (A), (B), or (C) of subsection (a)(1) of such section on or after October 1, 2008."
 
 #### Effective Date of 2004 Amendment
 
@@ -195,6 +195,4 @@ Pub. L. 91–534, Dec. 7, 1970, 84 Stat. 1392, provided: "That, under regulation
 "
 
 Sec. 2. This Act takes effect on the first day of the first month which begins after the date of enactment of this Act \[Dec. 7, 1970\]."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

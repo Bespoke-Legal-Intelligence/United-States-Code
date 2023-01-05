@@ -38,11 +38,15 @@ An inspection, test, or other action taken by a Team under this section shall be
 
 &emsp;A Team shall cooperate with State and local authorities carrying out any activities related to a Team's investigation.
 
-#### (d) Interagency priorities
+#### (5) Civil suits
+
+&emsp;Where practicable, a Team shall cooperate with civil litigants without compromising a Team's investigation or the evidence preservation activities as described in this section.
+
+#### (d) Investigation priorities
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) or (3), a Team investigation shall have priority over any other investigation of any other Federal agency.
+&emsp;Except as provided in paragraph (2) or (3), a Team investigation shall have priority over any other investigation of any other Federal agency or any civil suit or civil action.
 
 #### (2) National Transportation Safety Board
 
@@ -54,13 +58,21 @@ An inspection, test, or other action taken by a Team under this section shall be
 
 #### (4) Preservation of evidence
 
-&emsp;If a Federal law enforcement agency suspects and notifies the Director that a building failure being investigated by a Team under this chapter may have been caused by a criminal act, the Team, in consultation with theFederal law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.
+&emsp;If a Federal law enforcement agency suspects and notifies the Director that a building failure being investigated by a Team under this chapter may have been caused by a criminal act, the Team, in consultation with the Federal law enforcement agency, shall take necessary actions to ensure that evidence of the criminal act is preserved.
 
-(Pub. L. 107–231, §4, Oct. 1, 2002, 116 Stat. 1472.)
+(Pub. L. 107–231, §4, Oct. 1, 2002, 116 Stat. 1472; Pub. L. 117–167, div. B, title II, §10246(h), Aug. 9, 2022, 136 Stat. 1494.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (d)(2) to (4), was in the original "this Act", meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c)(5). Pub. L. 117–167, §10246(h)(1), added par. (5).
+
+Subsec. (d). Pub. L. 117–167, §10246(h)(2)(A), substituted "Investigation" for "Interagency" in heading.
+
+Subsec. (d)(1). Pub. L. 117–167, §10246(h)(2)(B), inserted "or any civil suit or civil action" after "Federal agency".
 

@@ -38,21 +38,21 @@ The Review Panel shall—
 
 The Secretary shall promptly <sup>1</sup> make available promptly <sup>1</sup> any information in the Secretary's possession requested by the Panel or its Chairman.
 
-#### (e) Federal Advisory Committee Act
+#### (e) Chapter 10 of title 5
 
-The requirements of the Federal Advisory Committee Act shall not apply to a Review Panel established under this subchapter.
+The requirements of chapter 10 of title 5 shall not apply to a Review Panel established under this subchapter.
 
-(Pub. L. 97–425, title I, §172, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5031, Dec. 22, 1987, 101 Stat. 1330–239.)
+(Pub. L. 97–425, title I, §172, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5031, Dec. 22, 1987, 101 Stat. 1330–239; amended Pub. L. 117–286, §4(a)(272), Dec. 27, 2022, 136 Stat. 4335.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "chapter 10 of title 5" for "the Federal Advisory Committee Act" in text.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Agreements.—Subject to paragraphs (2) through (4), the Secretary may enter into agreements to make available to 1 or more obligors lines of credit in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any project selected under section 602.
+Agreements.—Subject to paragraphs (2) through (4), the Secretary may enter intoagreements to make available to 1 or more obligors lines of credit in the form of direct loans to be made by the Secretary at future dates on the occurrence of certain events for any project selected under section 602.
 
 &emsp;(2)
 
@@ -42,7 +42,7 @@ Draws.—Any draw on a line of credit under this section shall—
 
 &emsp;(4)
 
-Interest rate.—Except as provided in subparagraphs (B) and (C) of section 603(b)(4),the interest rate on a direct loan resulting from a draw on the line of credit shall be not less than the yield on 30-year United States Treasury securities, as of the date of execution of the line of credit agreement.
+Interest rate.—Except as provided in subparagraphs (B) and (C) of section 603(b)(4), the interest rate on a direct loan resulting from a draw on the line of credit shall be not less than the yield on 30-year United States Treasury securities, as of the date of execution of the line of credit agreement.
 
 &emsp;(5)
 

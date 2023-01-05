@@ -6,7 +6,7 @@ Assignment of Forces.—(1) As directed by the Secretary of Defense, the Secreta
 
 (2) A force not assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under paragraph (1) shall remain assigned to the military department concerned for carrying out the responsibilities of the Secretary of the military department concerned as specified in section 7013, 8013, or 9013 of this title, as applicable.
 
-(3) A force assigned to a combatant command or to the United States element of the North American Aerospace Defense Command under this section may be transferred from the command to which it is assigned only—
+(3) A force assigned to a combatant command or to the United States element of the North American Aerospace Defense Command underthis section may be transferred from the command to which it is assigned only—
 
 &emsp;(A) by authority of the Secretary of Defense; and
 

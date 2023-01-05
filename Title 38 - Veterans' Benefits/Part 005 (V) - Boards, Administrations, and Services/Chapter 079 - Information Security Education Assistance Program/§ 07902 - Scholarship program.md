@@ -68,5 +68,5 @@ Ineligibility of Individuals Receiving Montgomery GI Bill Education Assistance P
 
 #### Effective Date
 
-Pub. L. 109–461, title IX, §903(c), Dec. 22, 2006, 120 Stat. 3464, provided that: "Section 7902 of title 38, United States Code, as added by subsection (a), may only apply with respect to financial assistance provided for anacademic semester or term that begins on or after August 1, 2007."
+Pub. L. 109–461, title IX, §903(c), Dec. 22, 2006, 120 Stat. 3464, provided that: "Section 7902 of title 38, United States Code, as added by subsection (a), may only apply with respect to financial assistance provided for an academic semester or term that begins on or after August 1, 2007."
 

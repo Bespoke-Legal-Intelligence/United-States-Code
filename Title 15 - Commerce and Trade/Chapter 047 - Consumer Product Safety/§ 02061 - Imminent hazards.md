@@ -26,7 +26,7 @@ Notwithstanding any other provision of law, in any action under this section, th
 
 #### (g) <sup>1</sup> Cost-benefit analysis of compliance with relief ordered in action for judicial review of consumer product safety rule not required
 
-Nothing in this section shall be construed to require the Commission, in determining whether to bring an action against a consumer product or a person under this section, to prepare a comparison of the costs that would be incurred in complying with the relief that may be ordered in such action with the benefits to the public from such relief.
+Nothing in this section shall be construed to require the Commission, in determining whetherto bring an action against a consumer product or a person under this section, to prepare a comparison of the costs that would be incurred in complying with the relief that may be ordered in such action with the benefits to the public from such relief.
 
 (Pub. L. 92–573, §12, Oct. 27, 1972, 86 Stat. 1218; Pub. L. 97–35, title XII, §1205(a)(2), Aug. 13, 1981, 95 Stat. 716; Pub. L. 101–608, title I, §111(a)(1), Nov. 16, 1990, 104 Stat. 3114.)
 

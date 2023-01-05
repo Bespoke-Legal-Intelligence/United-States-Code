@@ -10,7 +10,7 @@ In carrying out a construction project under this subchapter, an Indian Tribe ma
 
 &emsp;(1) designating a certifying Tribal officer to represent the Indian Tribe and to assume the status of a responsible Federal official under those Acts, laws, or regulations; and
 
-&emsp;(2) accepting the jurisdiction of the United States courts for the purpose of enforcing the responsibilities of the certifying Tribal officerassuming the status of a responsible Federal official under those Acts, laws, or regulations.
+&emsp;(2) accepting the jurisdiction of the United States courts for the purpose of enforcing the responsibilities of the certifying Tribal officer assuming the status of a responsible Federal official under those Acts, laws, or regulations.
 
 #### (c) Savings clause
 
@@ -62,7 +62,7 @@ In carrying out a construction project under this subchapter, an Indian Tribe sh
 
 #### (1) In general
 
-&emsp;Funding appropriated for construction projects carried out under this subchapter shall be included in funding agreements as annual or semiannual advance payments at the option of the Indian Tribe.
+&emsp;Funding appropriated for construction projects carried out under this subchaptershall be included in funding agreements as annual or semiannual advance payments at the option of the Indian Tribe.
 
 #### (2) Advance payments
 

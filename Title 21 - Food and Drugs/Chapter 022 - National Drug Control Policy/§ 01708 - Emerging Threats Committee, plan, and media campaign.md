@@ -180,7 +180,7 @@ Upon designation of an emerging drug threat, the Director shall evaluate whether
 
 #### (ii) Testing and evaluation of advertising
 
-&emsp;&emsp;&emsp;In using amounts for testing and evaluation of advertising under subparagraph (A)(iv), the Director shall test all advertisements prior to use in the national media campaign to ensure that the advertisements are effective with the target audience and meet industry-accepted standards. The Director may waive this requirement for advertisements using no more than 10 percent of the purchase of advertising time purchased under this subsection in a fiscal year and no more than 10 percent of the advertising space purchased under this subsection in a fiscal year, if the advertisements respond to emergent and time-sensitive campaign needs or the advertisements will not be widely utilized in the national media campaign.
+&emsp;&emsp;&emsp;In using amounts for testing and evaluation of advertising under subparagraph\(A)(iv), the Director shall test all advertisements prior to use in the national media campaign to ensure that the advertisements are effective with the target audience and meet industry-accepted standards. The Director may waive this requirement for advertisements using no more than 10 percent of the purchase of advertising time purchased under this subsection in a fiscal year and no more than 10 percent of the advertising space purchased under this subsection in a fiscal year, if the advertisements respond to emergent and time-sensitive campaign needs or the advertisements will not be widely utilized in the national media campaign.
 
 #### (iii) Consultation
 
@@ -357,6 +357,26 @@ Pub. L. 115–271, §8202(a), revived and restored this section as in effect on 
 Pub. L. 109–469, §501(a), amended section catchline and text generally. Prior to amendment, section related to the President's Council on Counter-Narcotics.
 
 <b>1998</b>—Pub. L. 105–277, §715, as amended by Pub. L. 109–469, §602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, §8202(b)(2). See former section 1712 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Methamphetamine Response
+
+Pub. L. 117–99, Mar. 14, 2022, 136 Stat. 43, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Methamphetamine Response Act of 2021'.
+
+#### "SEC. 2. DECLARATION OF EMERGING THREAT.
+
+"(a)
+
+In General.—Congress declares methamphetamine an emerging drug threat, as defined in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701), in the United States.
+
+"(b)
+
+Required Emerging Threat Response Plan.—Not later than 90 days after the date of enactment of this Act \[Mar. 14, 2022\], the Director of the Office of National Drug Control Policy shall establish and implement an Emerging Threat Response Plan that is specific to methamphetamine in accordance with section 709(d) of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1708(d))."
 
 #### <b>Executive Documents</b>
 

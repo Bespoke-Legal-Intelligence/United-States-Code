@@ -18,7 +18,7 @@ Through the STC program the Secretary shall—
 
 &emsp;(5) communicate with, and promote sharing of information about the presence or detection of nuclear or other radiological materials among appropriate Federal, State, local, Tribal, and territorial government agencies, in a manner that ensures transparency with the jurisdictions designated under subsection (c);
 
-&emsp;(6) provide augmenting resources, as appropriate, to enable State, local, Tribal, and territorial governments to sustain and refresh their capabilities developed under the STC program;
+&emsp;(6) provide augmenting resources, as appropriate, to enable State, local, Tribal, and territorial governments to sustain and refreshtheir capabilities developed under the STC program;
 
 &emsp;(7) monitor expenditures under the STC program and track performance in meeting the goals of the STC program; and
 

@@ -4,7 +4,7 @@
 
 (b) The Secretary of Agriculture is authorized and directed to make and promulgate by rules and regulations, reasonable tolerances as to the percentages and rates of occurrence required to be stated or required by this chapter.
 
-(c) For the purpose of section 1571(b) of this title, the Secretary of Agriculture is authorized and directed to investigate, determine, establish, and promulgate from time to time such reasonable standards of germination for each kind of vegetable seed as will in his judgment best protect crop production.
+(c) For the purpose of section 1571(b) of this title, the Secretary of Agriculture is authorized and directed to investigate, determine, establish, and promulgate from time to time suchreasonable standards of germination for each kind of vegetable seed as will in his judgment best protect crop production.
 
 (Aug. 9, 1939, ch. 615, title IV, §403, 53 Stat. 1285.)
 

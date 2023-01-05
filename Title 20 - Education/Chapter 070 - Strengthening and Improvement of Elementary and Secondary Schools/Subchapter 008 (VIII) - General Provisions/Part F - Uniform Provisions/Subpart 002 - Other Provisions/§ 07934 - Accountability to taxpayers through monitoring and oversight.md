@@ -1,6 +1,6 @@
 ### §7934. Accountability to taxpayers through monitoring and oversight
 
-To improve monitoring and oversight of taxpayer funds authorized for appropriation under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), and to deter and prohibit waste, fraud, and abuse with respect to such funds, the Secretary of Education shall—
+To improve monitoring and oversight of taxpayer funds authorized for appropriation underthe Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), and to deter and prohibit waste, fraud, and abuse with respect to such funds, the Secretary of Education shall—
 
 &emsp;(1) notify each recipient of a grant under such Act (and, if applicable, require the grantee to inform each subgrantee) of its responsibility to—
 

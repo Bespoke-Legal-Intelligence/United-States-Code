@@ -6,7 +6,7 @@ In General.—Notwithstanding any provision of law regarding the licensure of he
 
 (b)
 
-Covered Health Care Professionals.—For purposes of this section, a covered health care professional is any of the following individuals:
+Covered Health Care Professionals.—For purposes of this section, a covered healthcare professional is any of the following individuals:
 
 &emsp;(1) A health care professional who—
 

@@ -56,7 +56,7 @@ Pub. L. 117–81, div. A, title XII, §§1246, 1247, Dec. 27, 2021, 135 Stat. 19
 
 &emsp;"(2) as set forth in the Taiwan Relations Act, the United States decision to establish diplomatic relations with the People's Republic of China rests upon the expectation that the future of Taiwan will be determined by peaceful means, and that any effort to determine the future of Taiwan by other than peaceful means, including boycotts and embargoes, is of grave concern to the United States;
 
-&emsp;"(3) the increasingly coercive and aggressive behavior of the People's Republic of China towards Taiwan is contrary to the expectation of a peaceful resolution of the future of Taiwan;
+&emsp;"(3) the increasingly coercive and aggressive behavior of the People's Republic of China towards Taiwanis contrary to the expectation of a peaceful resolution of the future of Taiwan;
 
 &emsp;"(4) as set forth in the Taiwan Relations Act, the capacity of the United States to resist any resort to force or other forms of coercion that would jeopardize the security, or the social or economic system, of the people on Taiwan and the policy of the United States to make available to Taiwan such defense articles and defense services in such quantities as may be necessary to enable Taiwan to maintain a sufficient self-defense capability should be maintained; and
 

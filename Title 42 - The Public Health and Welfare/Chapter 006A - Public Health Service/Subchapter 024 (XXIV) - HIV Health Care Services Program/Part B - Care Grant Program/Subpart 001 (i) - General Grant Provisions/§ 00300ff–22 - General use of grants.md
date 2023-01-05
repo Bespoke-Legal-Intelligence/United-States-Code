@@ -20,7 +20,7 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall waive the application of paragraph (1) with respect to a State for a grant year if the Secretary determines that, within the State—
+&emsp;&emsp;The Secretary shall waive the application of paragraph (1) with respect to a State fora grant year if the Secretary determines that, within the State—
 
 &emsp;&emsp;&emsp;(i) there are no waiting lists for AIDS Drug Assistance Program services under section 300ff–26 of this title; and
 
@@ -98,7 +98,7 @@ A State may use amounts provided under grants made under section 300ff–21 of t
 
 A State may not use amounts received under a grant awarded under section 300ff–21 of this title to purchase or improve land, or to purchase, construct, or permanently improve (other than minor remodeling) any building or other facility, or to make cash payments to intended recipients of services.
 
-(July 1, 1944, ch. 373, title XXVI, §2612, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May 20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §202, title V, §503(b), Oct. 20, 2000, 114 Stat. 1330, 1355; Pub. L. 109–415, title II, §201(a), title VII, §703, Dec. 19, 2006, 120 Stat. 2785, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
+(July 1, 1944, ch. 373, title XXVI, §2612, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 586; amended Pub. L. 104–146, §3(c)(2), May20, 1996, 110 Stat. 1354; Pub. L. 106–345, title II, §202, title V, §503(b), Oct. 20, 2000, 114 Stat. 1330, 1355; Pub. L. 109–415, title II, §201(a), title VII, §703, Dec. 19, 2006, 120 Stat. 2785, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
 #### <b>Editorial Notes</b>
 

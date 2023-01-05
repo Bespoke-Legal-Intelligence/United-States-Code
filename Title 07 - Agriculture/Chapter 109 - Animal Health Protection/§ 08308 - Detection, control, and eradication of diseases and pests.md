@@ -8,7 +8,7 @@ The Secretary may carry out operations and measures to detect, control, or eradi
 
 #### (1) In general
 
-&emsp;The Secretary may pay a claim arising out of the destruction of any animal, article, or means of conveyance consistent with the purposes of this chapter.
+&emsp;The Secretary may pay a claim arising out of the destruction of any animal, article, ormeans of conveyance consistent with the purposes of this chapter.
 
 #### (2) Specific cooperative programs
 

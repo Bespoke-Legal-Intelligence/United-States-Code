@@ -28,7 +28,7 @@
 
 #### (1) Establishment
 
-&emsp;Not later than 180 days after October 8, 2008, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may establish a committee to be known as the Advisory Committee on the National ALS Registry (referred to in this section as the "Advisory Committee"). The Advisory Committee shall be composed of not morethan 27 members to be appointed by the Secretary, acting through the Centers for Disease Control and Prevention, of which—
+&emsp;Not later than 180 days after October 8, 2008, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may establish a committee to be known as the Advisory Committee on the National ALS Registry (referred to in this section as the "Advisory Committee"). The Advisory Committee shall be composed of not more than 27 members to be appointed by the Secretary, acting through the Centers for Disease Control and Prevention, of which—
 
 &emsp;&emsp;(A) two-thirds of such members shall represent governmental agencies—
 

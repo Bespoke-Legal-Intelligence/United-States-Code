@@ -18,7 +18,7 @@ A covered provider may not use an intermediate provider to transmit covered voic
 
 #### (A) Registry
 
-&emsp;&emsp;Not later than 180 days after February 26, 2018, the Commission shall promulgate rules to establish a registry to record registrations under subsection (a)(1).
+&emsp;&emsp;Not later than 180 days after February 26, 2018, the Commission shall promulgate rulesto establish a registry to record registrations under subsection (a)(1).
 
 #### (B) Service quality standards
 

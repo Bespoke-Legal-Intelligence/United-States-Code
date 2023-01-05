@@ -2,7 +2,7 @@
 
 #### (a) Agricultural Adjustment Act of 1938
 
-The following provisions of the Agricultural Adjustment Act of 1938 \[7 U.S.C. 1281 et seq.\] shall not be applicable to the 2014 through 2023 crops of covered commodities (as defined in section 9011 of this title), cotton, and sugar and shall not be applicable to milk during the period beginning on February 7, 2014, through December 31, 2023:
+The following provisions of the Agricultural Adjustment Act of 1938 \[7 U.S.C. 1281 et seq.\] shall not be applicable to the 2014 through 2023crops of covered commodities (as defined in section 9011 of this title), cotton, and sugar and shall not be applicable to milk during the period beginning on February 7, 2014, through December 31, 2023:
 
 &emsp;(1) Parts II through V of subtitle B of title III (7 U.S.C. 1326 et seq.) \[7 U.S.C. 1321 et seq., 1331 et seq., 1341 et seq., 1351\].
 
@@ -52,9 +52,9 @@ The joint resolution entitled "A joint resolution relating to corn and wheat mar
 
 The Agricultural Adjustment Act of 1938, referred to in subsec. (a), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§1281 et seq.) of this title. Parts II through V of subtitle B of title III of the Act are classified generally to subparts II (§1321 et seq.), III (§1331 et seq.), IV (§1341 et seq.), and V (§1351, which was omitted from the Code), respectively, of part B of subchapter II of chapter 35 of this title. Subtitle D of title III of the Act is classified generally to part D (§1379a et seq.) of subchapter II of chapter 35 of this title. Title IV of the Act was classified generally to subchapter III (§1401 et seq.) of chapter 35 of this title, and was omitted from the Code. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title III of the Act is classified generally to sections 1447 to 1449 of this title. Title IV of the Act is classified principally to subchapter I (§1421 et seq.) of chapter 35A of this title. Title V of the Act, which wasclassified generally to subchapter IV (§1461 et seq.) of chapter 35A of this title, was omitted from the Code. Title VI of the Act is classified generally to subchapter V (§1471 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (b), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title III of the Act is classified generally to sections 1447 to 1449 of this title. Title IV of the Act is classified principally to subchapter I (§1421 et seq.) of chapter 35A of this title. Title V of the Act, which was classified generally to subchapter IV (§1461 et seq.) of chapter 35A of this title, was omitted from the Code. Title VI of the Act is classified generally to subchapter V (§1471 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, as amended, referred to in subsec. (c), is act May 26, 1941, ch. 133, 55 Stat. 203, which enacted sections 1330 and 1340 of this title. Section 1330 was subsequently omitted from the Code.
+The joint resolution relating to corn and wheat marketing quotas under the Agricultural Adjustment Act of 1938, referred to in subsec. (c), is act May 26, 1941, ch. 133, 55 Stat. 203, which enacted sections 1330 and 1340 of this title. Section 1330 was subsequently omitted from the Code.
 
 #### Amendments
 

@@ -18,7 +18,7 @@ No grant may be made under section (a) <sup>1</sup> unless an application there
 
 &emsp;(5) assurances satisfactory to the Secretary that the applicant will provide for periodic evaluation of its program or programs;
 
-&emsp;(6) assurances satisfactory to the Secretary that the applicant will make such reports (in such form and containing such information as the Secretary may by regulation prescribe) as the Secretary may reasonably require and keep such records and afford such accessthereto as the Secretary may find necessary to assure the correctness of, and to verify, such reports;
+&emsp;(6) assurances satisfactory to the Secretary that the applicant will make such reports (in such form and containing such information as the Secretary may by regulation prescribe) as the Secretary may reasonably require and keep such records and afford such access thereto as the Secretary may find necessary to assure the correctness of, and to verify, such reports;
 
 &emsp;(7) assurances satisfactory to the Secretary that the applicant will comply with any other conditions imposed by this section with respect to grants; and
 
@@ -178,7 +178,7 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 #### (n) Vaccination data
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand and enhance, and, as appropriate, establish and improve, programs and conduct activities to collect, monitor, and analyze vaccination coverage data to assess levels of protection from vaccine-preventable diseases, including by assessing factors contributing to underutilization of vaccines and variations of such factors, and identifying communities at high risk of outbreaks associated with vaccine-preventable diseases.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention,shall expand and enhance, and, as appropriate, establish and improve, programs and conduct activities to collect, monitor, and analyze vaccination coverage data to assess levels of protection from vaccine-preventable diseases, including by assessing factors contributing to underutilization of vaccines and variations of such factors, and identifying communities at high risk of outbreaks associated with vaccine-preventable diseases.
 
 (July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572; Pub. L. 116–260, div. BB, title III, §311(b), Dec. 27, 2020, 134 Stat. 2924.)
 
@@ -242,7 +242,7 @@ Subsec. (k)(2)(A) to (D). Pub. L. 101–368, §2(a)(2), substituted "prevention,
 
 Subsec. (l). Pub. L. 101–368, §2(b), added subsec. (l).
 
-<b>1987</b>—Subsec. (j). Pub. L. 100–177, §§110(a), 111(a), amended subsec. (j) generally, substituting provisions authorizing appropriations for fiscal years 1988 to 1990 for grants under subsecs. (a) and (k) of this section for former provisions authorizing appropriations for fiscal years 1982 to 1987 for grants under subsec. (a) of this section.
+<b>1987</b>—Subsec. (j). Pub. L. 100–177, §§110(a), 111(a), amended subsec. (j) generally, substituting provisions authorizing appropriations for fiscal years 1988 to 1990 for grants under subsecs. (a) and (k) of this section forformer provisions authorizing appropriations for fiscal years 1982 to 1987 for grants under subsec. (a) of this section.
 
 Subsec. (k). Pub. L. 100–177, §111(b), added subsec. (k).
 
@@ -284,7 +284,7 @@ Subsec. (i). Pub. L. 93–354, §4(1), substituted "communicable and other disea
 
 Subsec. (b). Pub. L. 92–449 substituted provisions of par. (1) respecting applications for grants, submission, approval, form, and content of applications; par. (2) respecting application requirements; and par. (3) incorporating former subsec. (g) provisions respecting consent of individuals for former definitions provision now incorporated in subsec. (h) of this section.
 
-Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changesinserted "under grants" after "Payments"; and redesignated former subsec. (d) as par. (2), inserted "of the Government" after "officer or employee", substituted "in detailing the personnel" for "personal services", and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
+Subsec. (c). Pub. L. 92–449 designated existing provisions as par. (1) and among minor punctuation changes inserted "under grants" after "Payments"; and redesignated former subsec. (d) as par. (2), inserted "of the Government" after "officer or employee", substituted "in detailing the personnel" for "personal services", and struck out provision that reduced amount shall, for purposes of subsec. (c), be deemed to have been paid to the agency.
 
 Subsec. (d). Pub. L. 92–449 substituted provisions respecting authorization of appropriations and limitation on use of funds for provisions respecting grant reduction.
 

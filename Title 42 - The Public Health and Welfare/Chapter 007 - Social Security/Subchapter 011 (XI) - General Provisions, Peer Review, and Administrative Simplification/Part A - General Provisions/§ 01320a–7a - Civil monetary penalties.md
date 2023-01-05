@@ -4,7 +4,7 @@
 
 Any person (including an organization, agency, or other entity, but excluding a beneficiary, as defined in subsection (i)(5)) that—
 
-&emsp;(1) knowingly presents or causes to be presented to an officer, employee, or agent of the United States, or of any department or agency thereof, or of any State agency (as defined in subsection (i)(1)), a claim (as defined in subsection (i)(2)) that the Secretary determines—
+&emsp;(1) knowingly presents or causes to be presented to an officer, employee, or agent of theUnited States, or of any department or agency thereof, or of any State agency (as defined in subsection (i)(1)), a claim (as defined in subsection (i)(2)) that the Secretary determines—
 
 &emsp;&emsp;(A) is for a medical or other item or service that the person knows or should know was not provided as claimed, including any person who engages in a pattern or practice of presenting or causing to be presented a claim for an item or service that is based on a code that the person knows or should know will result in a greater payment to the person than the code the person knows or should know is applicable to the item or service actually provided,
 
@@ -42,7 +42,7 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 &emsp;(9) <sup>4</sup> fails to grant timely access, upon reasonable request (as defined by the Secretary in regulations), to the Inspector General of the Department of Health and Human Services, for the purpose of audits, investigations, evaluations, or other statutory functions of the Inspector General of the Department of Health and Human Services;
 
-&emsp;(8) <sup>2</sup> orders or prescribes a medical or other item or service during a period in which the person was excluded from a Federal health care program (as so defined), in the case where the person knows or should know that a claimfor such medical or other item or service will be made under such a program;
+&emsp;(8) <sup>2</sup> orders or prescribes a medical or other item or service during a period in which the person was excluded from a Federal health care program (as so defined), in the case where the person knows or should know that a claim for such medical or other item or service will be made under such a program;
 
 &emsp;(9) <sup>4</sup> knowingly makes or causes to be made any false statement, omission, or misrepresentation of a material fact in any application, bid, or contract to participate or enroll as a provider of services or a supplier under a Federal health care program (as so defined), including Medicare Advantage organizations under part C of subchapter XVIII, prescription drug plan sponsors under part D of subchapter XVIII, medicaid managed care organizations under subchapter XIX, and entities that apply to participate as providers of services or suppliers in such managed care organizations and such plans; <sup>5</sup>
 
@@ -78,13 +78,13 @@ Any person (including an organization, agency, or other entity, but excluding a 
 
 (3) In a proceeding under subsection (a) or (b) which—
 
-&emsp;(A) is against a person who has been convicted (whether upon a verdict after trial orupon a plea of guilty or nolo contendere) of a Federal crime charging fraud or false statements, and
+&emsp;(A) is against a person who has been convicted (whether upon a verdict after trial or upon a plea of guilty or nolo contendere) of a Federal crime charging fraud or false statements, and
 
 &emsp;(B) involves the same transaction as in the criminal action,
 
 > the person is estopped from denying the essential elements of the criminal offense.
 
-(4) The official conducting a hearing under this section may sanction a person, including any party or attorney, for failing to comply with an order or procedure, failing to defend an action, or other misconduct as would interfere with the speedy, orderly, or fair conduct of the hearing. Such sanction shall reasonably relate to the severity and nature of the failure or misconduct. Such sanction may include—
+(4) The official conducting a hearing under this section may sanction a person, including any party or attorney, for failing to comply with an order or procedure, failing to defend an action, or other misconduct as would interferewith the speedy, orderly, or fair conduct of the hearing. Such sanction shall reasonably relate to the severity and nature of the failure or misconduct. Such sanction may include—
 
 &emsp;(A) in the case of refusal to provide or permit discovery, drawing negative factual inferences or treating such refusal as an admission by deeming the matter, or certain facts, to be established,
 
@@ -126,7 +126,7 @@ Civil money penalties and assessments imposed under this section may be compromi
 
 &emsp;(2) Such portion of the amounts recovered as is determined to have been paid out of the trust funds under sections 1395i and 1395t of this title shall be repaid to such trust funds.
 
-&emsp;(3) With respect to amounts recovered arising out of a claim under a Federal health care program (as defined in section 1320a–7b(f) of this title), the portion of such amounts as isdetermined to have been paid by the program shall be repaid to the program, and the portion of such amounts attributable to the amounts recovered under this section by reason of the amendments made by the Health Insurance Portability and Accountability Act of 1996 (as estimated by the Secretary) shall be deposited into the Federal Hospital Insurance Trust Fund pursuant to section 1395i(k)(2)(C) of this title.
+&emsp;(3) With respect to amounts recovered arising out of a claim under a Federal health care program (as defined in section 1320a–7b(f) of this title), the portion of such amounts as is determined to have been paid by the program shall be repaid to the program, and the portion of such amounts attributable to the amounts recovered under this section by reason of the amendments made by the Health Insurance Portability and Accountability Act of 1996 (as estimated by the Secretary) shall be deposited into the Federal Hospital Insurance Trust Fund pursuant to section 1395i(k)(2)(C) of this title.
 
 &emsp;(4) The remainder of the amounts recovered shall be deposited as miscellaneous receipts of the Treasury of the United States.
 
@@ -238,7 +238,7 @@ A principal is liable for penalties, assessments, and an exclusion under this se
 
 &emsp;(ii) The Secretary or Administrator of the department or agency initiating the action gives notice and an opportunity to participate in the investigation to the Inspector General of the department or agency with primary jurisdiction over the Federal health care programs to which the claims were submitted.
 
-(B) If the conditions specified in subparagraph (A) are fulfilled, the Inspector General of the department or agency initiating the action is authorized to exercise all powers granted under the Inspector General Act of 1978 (5 U.S.C. App.)with respect to the claims submitted to the other departments or agencies to the same manner and extent as provided in that Act with respect to claims submitted to such departments or agencies.
+(B) If the conditions specified in subparagraph (A) are fulfilled, the Inspector General of the department or agency initiating the action is authorized to exercise all powers granted under chapter 4 of title 5 with respect to the claims submitted to the other departments or agencies to the same manner and extent as provided in that Act with respect to claims submitted to such departments or agencies.
 
 #### (n) Safe harbor for payment of medigap premiums
 
@@ -280,7 +280,7 @@ For purposes of this subsection and subsections (o) and (p):
 
 &emsp;(3) The term "other agreement" includes a cooperative agreement, scholarship, fellowship, loan, subsidy, payment for a specified use, donation agreement, award, or subaward (regardless of whether one or more of the persons entering into the agreement is a contractor or subcontractor).
 
-&emsp;(4) The term "program beneficiary" means, in the case of a grant, contract, or otheragreement designed to accomplish the objective of awarding or otherwise furnishing benefits or assistance to individuals and for which the Secretary provides funding, an individual who applies for, or who receives, such benefits or assistance from such grant, contract, or other agreement. Such term does not include, with respect to such grant, contract, or other agreement, an officer, employee, or agent of a person or entity that receives such grant or that enters into such contract or other agreement.
+&emsp;(4) The term "program beneficiary" means, in the case of a grant, contract, or other agreement designed to accomplish the objective of awarding or otherwise furnishing benefits or assistance to individuals and for which the Secretary provides funding, an individual who applies for, or who receives, such benefits or assistance from such grant, contract, or other agreement. Such term does not include, with respect to such grant, contract, or other agreement, an officer, employee, or agent of a person or entity that receives such grant or that enters into such contract or other agreement.
 
 &emsp;(5) The term "recipient" includes a subrecipient or subcontractor.
 
@@ -302,7 +302,7 @@ For purposes of this section, the term "specified claim" means any application, 
 
 For purposes of subsection (o), the term "obligation" means an established duty, whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor-licensee relationship, for a fee-based or similar relationship, from statute or regulation, or from the retention of any overpayment.
 
-(Aug. 14, 1935, ch. 531, title XI, §1128A, as added Pub. L. 97–35, title XXI, §2105(a), Aug. 13, 1981, 95 Stat. 789; amended Pub. L. 97–248, title I, §137(b)(26), Sept. 3, 1982, 96 Stat. 380; Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), July 18, 1984, 98 Stat. 1073, 1100; Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), Oct. 21, 1986, 100 Stat. 2003, 2008; Pub. L. 100–93, §3, Aug. 18, 1987, 101 Stat. 686; Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), July 1, 1988, 102 Stat. 775, 794, 795; Pub. L. 100–360, title II, §202(c)(2), July 1, 1988, 102 Stat. 715; Pub. L. 100–485, title VI, §608(d)(26)(H)–(K)(i), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6003(g)(3)(D)(i), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–191, title II, §§231(a)–(e), (h), 232(a), Aug. 21, 1996, 110 Stat. 2012–2015; Pub. L. 105–33, title IV, §§4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, 111 Stat. 373, 383, 396, 449; Pub. L. 105–277, div. J, title V, §5201(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–916; Pub. L. 111–148, title VI, §§6402(d)(2), 6408(a), 6703(d)(3)(B), Mar. 23, 2010, 124 Stat. 757, 770, 804; Pub. L. 114–10, title V, §512(a)(1), Apr. 16, 2015, 129 Stat. 170; Pub. L. 114–255, div. A, title V, §5003, Dec. 13, 2016, 130 Stat. 1188; Pub. L. 115–123, div. E, title III, §50302(c), title IV, §50412(a)(1), Feb. 9, 2018, 132 Stat. 191, 220.)
+(Aug. 14, 1935, ch. 531, title XI, §1128A, as added Pub. L. 97–35, title XXI, §2105(a), Aug. 13, 1981, 95 Stat. 789; amended Pub. L. 97–248, title I, §137(b)(26), Sept. 3, 1982, 96 Stat. 380; Pub. L. 98–369, div. B, title III, §§2306(f)(1), 2354(a)(3), July 18, 1984, 98 Stat. 1073, 1100; Pub. L. 99–509, title IX, §§9313(c)(1), 9317(a), (b), Oct. 21, 1986, 100 Stat. 2003, 2008; Pub. L. 100–93, §3, Aug. 18, 1987, 101 Stat. 686; Pub. L. 100–203, title IV, §§4039(h)(1), 4118(e)(1), (6)–(10), Dec. 22, 1987, 101 Stat. 1330–155, as amended Pub. L. 100–360, title IV, §411(e)(3), (k)(10)(B)(ii), (D), July 1, 1988, 102 Stat. 775, 794, 795; Pub. L. 100–360, title II, §202(c)(2), July 1, 1988, 102 Stat. 715; Pub. L. 100–485, title VI, §608(d)(26)(H)–(K)(i), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6003(g)(3)(D)(i), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 101–508, title IV, §§4204(a)(3), 4207(h), formerly 4027(h), 4731(b)(1), 4753, Nov. 5, 1990, 104 Stat. 1388–109, 1388–123, 1388–195, 1388–208, renumbered §4207(h), Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 104–191, title II, §§231(a)–(e), (h), 232(a), Aug. 21, 1996, 110 Stat. 2012–2015; Pub. L. 105–33, title IV, §§4201(c)(1), 4304(a), (b), 4331(e), 4523(c), Aug. 5, 1997, 111 Stat. 373, 383, 396, 449; Pub. L. 105–277, div. J, title V, §5201(a), (b)(1), Oct. 21, 1998, 112 Stat. 2681–916; Pub. L. 111–148, title VI, §§6402(d)(2), 6408(a), 6703(d)(3)(B), Mar. 23, 2010, 124 Stat. 757, 770, 804; Pub. L. 114–10, title V, §512(a)(1), Apr. 16, 2015, 129 Stat. 170; Pub. L. 114–255, div. A, title V, §5003, Dec. 13, 2016, 130 Stat. 1188; Pub. L. 115–123, div. E, title III, §50302(c), title IV, §50412(a)(1), Feb. 9, 2018, 132 Stat. 191, 220; Pub. L. 117–286, §4(b)(77), Dec. 27, 2022, 136 Stat. 4351.)
 
 #### <b>Editorial Notes</b>
 
@@ -316,9 +316,9 @@ Division A of subchapter XX, referred to in subsec. (i)(1), was in the original 
 
 Section 1395l(t)(5)(B) of this title, referred to in subsec. (i)(6)(E), was redesignated section 1395l(t)(8)(B) of this title by Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §§201(a)(1), 202(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–336, 1501A–342.
 
-The Inspector General Act of 1978, referred to in subsec. (m)(2)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (m)(2)(B). Pub. L. 117–286 substituted "chapter 4 of title 5" for "the Inspector General Act of 1978 (5 U.S.C. App.)".
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–123, §50412(a)(1)(A)(i), (iii), in concluding provisions, substituted "$20,000" for "$10,000" in two places and "$100,000" for "$50,000" wherever appearing.
 
@@ -342,7 +342,7 @@ Subsecs. (o) to (s). Pub. L. 114–255, §5003(a), added subsecs. (o) to (s).
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §6408(a)(3)(B), which directed substitution of "act, in cases under paragraph (8), $50,000 for each false record or statement, or in cases under paragraph (9), $15,000 for each day of the failure described in such paragraph)" for "act)" in first sentence, was executed by making the substitution for "act" to reflect the probable intent of Congress. See amendment by Pub. L. 111–148, §6402(d)(2)(A)(iv) below.
 
-Pub. L. 111–148, §6408(a)(3)(A), which directed substitution of "in cases under paragraph (7)" for "or in cases under paragraph (7)" in first sentence, was executed by making the substitution for "in cases under paragraph (7)" resulting in no change in text and to reflect the probable intent of Congress. See amendment by Pub. L. 111–148, §6402(d)(2)(A)(iv) below.
+Pub. L. 111–148, §6408(a)(3)(A), which directed substitution of "in cases under paragraph (7)" for "or in casesunder paragraph (7)" in first sentence, was executed by making the substitution for "in cases under paragraph (7)" resulting in no change in text and to reflect the probable intent of Congress. See amendment by Pub. L. 111–148, §6402(d)(2)(A)(iv) below.
 
 Pub. L. 111–148, §6402(d)(2)(A)(iv), (v), in concluding provisions, struck out "or" after "prohibited relationship occurs;" and substituted "act; or in cases under paragraph (9), $50,000 for each false statement or misrepresentation of a material fact)" for "act)" and "purpose; or in cases under paragraph (9), an assessment of not more than 3 times the total amount claimed for each item or service for which payment was made based upon the application containing the false statement or misrepresentation of a material fact)" for "purpose)".
 
@@ -414,7 +414,7 @@ Subsec. (b)(3). Pub. L. 104–191, §232(a), added par. (3).
 
 Subsec. (f)(3), (4). Pub. L. 104–191, §231(a)(2), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (i)(2). Pub. L. 104–191, §231(a)(3)(A), substituted "a Federal health care program (as defined insection 1320a–7b(f) of this title)" for "subchapter V, XVIII, XIX, or XX of this chapter".
+Subsec. (i)(2). Pub. L. 104–191, §231(a)(3)(A), substituted "a Federal health care program (as defined in section 1320a–7b(f) of this title)" for "subchapter V, XVIII, XIX, or XX of this chapter".
 
 Subsec. (i)(4). Pub. L. 104–191, §231(a)(3)(B), substituted "a Federal health care program (as so defined)" for "a health insurance or medical services program under subchapter XVIII or XIX of this chapter".
 
@@ -506,7 +506,7 @@ Subsec. (f)(1)(A). Pub. L. 100–93, §3(d), substituted "bearing the same propo
 
 Subsec. (g). Pub. L. 100–93, §3(c), substituted "penalty, assessment, or exclusion" for "penalty or assessment" in two places.
 
-Subsec. (h). Pub. L. 100–93, §3(c), (e), substituted "penalty, assessment, or exclusion" for "penalty or assessment" in two places and inserted "the appropriate State agency or agencies administering or supervising the administration of State health care programs (as defined in section 1320a–7(h) of this title)," after "professional organization,".
+Subsec. (h). Pub. L. 100–93, §3(c), (e), substituted "penalty, assessment, or exclusion" for "penalty or assessment" in two places and inserted "the appropriateState agency or agencies administering or supervising the administration of State health care programs (as defined in section 1320a–7(h) of this title)," after "professional organization,".
 
 Subsec. (i). Pub. L. 100–203, §4118(e)(8), as added by Pub. L. 100–360, §411(k)(10)(D), substituted "this section" for "this subsection" in introductory provisions.
 
@@ -596,7 +596,7 @@ Pub. L. 104–191, title II, §232(b), Aug. 21, 1996, 110 Stat. 2015, provided t
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–234, title II, §201(c), Dec. 13, 1989, 103 Stat. 1981, provided that: "The provisions of this section \[amending this section and sections 1320c–3, 1395h, 1395k, 1395l, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, 1396d, and 1396n of this title, repealing section 1395w–3 of this title, and amending or repealing provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m, 1395u, 1395x, 1395ll, and 1395ww of this title\] shall take effect January 1, 1990."
+Pub. L. 101–234, title II, §201(c), Dec. 13, 1989, 103 Stat. 1981, provided that: "The provisions of this section \[amending this section and sections 1320c–3, 1395h, 1395k, 1395l, 1395m, 1395n, 1395u, 1395w–2, 1395x, 1395y, 1395z, 1395aa, 1395bb, 1395cc, 1395mm, 1396a, 1396b, 1396d, and 1396n of this title, repealing section 1395w–3 of this title, and amending or repealing provisions set out as notes under sections 1320c–3, 1395b–1, 1395k, 1395m,1395u, 1395x, 1395ll, and 1395ww of this title\] shall take effect January 1, 1990."
 
 #### Effective Date of 1988 Amendment
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) such recommendations as the Secretary considers appropriate for legislation respecting health information and health promotion, preventive health services, and education in the appropriate use of health care, including recommendations for revisions to and extension of this subchapter.
 
-(b) The Secretary shall conduct a study of health education services and preventive health services to determine the coverage of such services under public and private health insurance programs, including the extent and nature of such coverage and the cost sharing requirements required by such programs for coverage of such services.
+(b) The Secretary shall conduct a study of health education services and preventive health services to determine the coverage of such services under public and private health insurance programs, including the extent and nature ofsuch coverage and the cost sharing requirements required by such programs for coverage of such services.
 
 (July 1, 1944, ch. 373, title XVII, §1705, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 699; amended Pub. L. 104–66, title I, §1062(d), Dec. 21, 1995, 109 Stat. 720.)
 

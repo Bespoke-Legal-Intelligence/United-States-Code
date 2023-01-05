@@ -44,7 +44,7 @@
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out energy efficiency and conservation research, development, demonstration, and commercial application activities, including activities authorized under this part—
+There are authorized to be appropriated to the Secretary to carry out energy efficiency andconservation research, development, demonstration, and commercial application activities, including activities authorized under this part—
 
 &emsp;(1) $783,000,000 for fiscal year 2007;
 

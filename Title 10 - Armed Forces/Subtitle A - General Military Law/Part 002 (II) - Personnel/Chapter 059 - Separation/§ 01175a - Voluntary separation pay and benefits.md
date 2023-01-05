@@ -56,7 +56,7 @@ Separation Pay and Benefits.—(1) A member of the armed forces who is separated
 
 &emsp;(A) chapter 58 of this title during the 180-day period beginning on the date the member is separated (notwithstanding any termination date for such benefits and services otherwise applicable under the provisions of such chapter); and
 
-&emsp;(B) sections 474 and 476 <sup>1</sup> of title 37.
+&emsp;(B) sections 452 and 453(c) of title 37.
 
 (f)
 
@@ -98,7 +98,7 @@ Repayment for Members Who Return to Active Duty.—(1) Except as provided in par
 
 (2) Members who are involuntarily recalled to active duty or full-time National Guard duty in accordance with section 12301(a), 12301(b), 12301(g), 12302, 12303, 12304, 12304a, or 12304b of this title or section 502(f)(1)(A) of title 32 shall not be subject to this subsection.
 
-(3) Members who are recalled or perform active duty or full-time National Guard duty in accordance with section 101(d)(1), 101(d)(2), 101(d)(5), 12301(d) (insofar as the period served is less than 180 consecutive days with the consent of the member), 12319, or 12503 of this title, or section 114, 115, or 502(f)(1)(B) of title 32 (insofar as the period served is less than 180 consecutive days with consent of the member), shall not be subject to this subsection.
+(3) Members who are recalled or perform active duty or full-time National Guard duty inaccordance with section 101(d)(1), 101(d)(2), 101(d)(5), 12301(d) (insofar as the period served is less than 180 consecutive days with the consent of the member), 12319, or 12503 of this title, or section 114, 115, or 502(f)(1)(B) of title 32 (insofar as the period served is less than 180 consecutive days with consent of the member), shall not be subject to this subsection.
 
 (4) This subsection shall not apply to a member who—
 
@@ -114,17 +114,17 @@ Termination of Authority.—(1) The authority to separate a member of the armed 
 
 (2) A member who separates by the date specified in paragraph (1) may continue to be provided voluntary separation pay and benefits under this section until the member has received the entire amount of pay and benefits to which the member is entitled under this section.
 
-(Added Pub. L. 109–163, div. A, title VI, §643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L.109–364, div. A, title VI, §623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 111–84, div. A, title X, §1073(a)(14), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 111–383, div. A, title X, §1075(b)(18), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title V, §526, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1401, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. A, title V, §§508(c), 526, Dec. 23, 2016, 130 Stat. 2109, 2117; Pub. L. 116–92, div. A, title VI, §603, Dec. 20, 2019, 133 Stat. 1423.)
+(Added Pub. L. 109–163, div. A, title VI, §643(a)(1), Jan. 6, 2006, 119 Stat. 3306; amended Pub. L. 109–364, div. A, title VI, §623(a)(1), (2), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 111–84, div. A, title X, §1073(a)(14), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 111–383, div. A, title X, §1075(b)(18), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title V, §526, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1401, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. A, title V, §§508(c), 526, Dec. 23, 2016, 130 Stat. 2109, 2117; Pub. L. 116–92, div. A, title VI, §603, Dec. 20, 2019, 133 Stat. 1423; Pub. L. 117–263, div. A, title VI, §626(c)(4), Dec. 23, 2022, 136 Stat. 2628.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Sections 474 and 476 of title 37, referred to in subsec. (e)(2)(B), were repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A), is classified generally to chapter 24 (§3401 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(2)(B). Pub. L. 117–263 substituted "sections 452 and 453(c)" for "sections 474 and 476".
 
 <b>2019</b>—Subsec. (j)(1). Pub. L. 116–92, §603(1), substituted "paragraphs (2), (3), and (4)" for "paragraphs (2) and (3)".
 
@@ -159,6 +159,4 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 #### Limitation on Applicability
 
 Pub. L. 109–163, div. A, title VI, §643(b), Jan. 6, 2006, 119 Stat. 3310, which provided that, during the period beginning on Jan. 6, 2006, and ending on Dec. 31, 2008, members eligible for separation and for voluntary separation pay and benefits under this section would be limited to officers who had met the eligibility requirements of this section, but had not completed more than 12 years of active service as of the date of separation, was repealed by Pub. L. 109–364, div. A, title VI, §623(a)(3), Oct. 17, 2006, 120 Stat. 2256.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -40,7 +40,7 @@ Operations under this section to prevent, retard, control, or suppress insects o
 
 #### (d) Contribution by entity
 
-No money appropriated to implement this section shall be expended to prevent, retard, control, or suppress insects or diseases affecting trees on non-Federal land until the entity having ownership of or jurisdiction over the affected land contributes, or agrees to contribute, to the work to be done in the amount and in the manner determined appropriate by the Secretary.
+No money appropriated to implement this section shall be expended to prevent, retard, control, or suppress insects or diseases affecting trees on non-Federal land until the entity having ownership of or jurisdiction over the affected land contributes, or agrees to contribute, to the work to be done in the amount and in themanner determined appropriate by the Secretary.
 
 #### (e) Allotments to other agencies
 
@@ -106,11 +106,11 @@ Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471, provided in par
 
 Similar provisions were contained in Pub. L. 106–291, title III, §338, Oct. 11, 2000, 114 Stat. 998, as amended by Pub. L. 107–20, title II, §2604, July 24, 2001, 115 Stat. 178.
 
-Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §341\], Nov. 29, 1999, 113 Stat. 1535, 1501A–201; Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471; Pub. L. 108–7, div. F, title III, §323, Feb. 20, 2003, 117 Stat. 275; Pub. L. 113–76, div. G, title IV, §434, Jan. 17, 2014, 128 Stat. 346, which authorized the Forest Service and the Bureau of Land Management, until Sept. 30, 2014, to enter into stewardshipcontracting projects with private persons or other public or private entities to perform services to achieve certain land management goals, was repealed by Pub. L. 113–79, title VIII, §8205(b), Feb. 7, 2014, 128 Stat. 921. See section 6591c of this title.
+Pub. L. 105–277, div. A, §101(e) \[title III, §347\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298, as amended by Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §341\], Nov. 29, 1999, 113 Stat. 1535, 1501A–201; Pub. L. 107–63, title III, §332, Nov. 5, 2001, 115 Stat. 471; Pub. L. 108–7, div. F, title III, §323, Feb. 20, 2003, 117 Stat. 275; Pub. L. 113–76, div. G, title IV, §434, Jan. 17, 2014, 128 Stat. 346, which authorized the Forest Service and the Bureau of Land Management, until Sept. 30, 2014, to enter into stewardship contracting projects with private persons or other public or private entities to perform services to achieve certain land management goals, was repealed by Pub. L. 113–79, title VIII, §8205(b), Feb. 7, 2014, 128 Stat. 921. See section 6591c of this title.
 
 #### Herger-Feinstein Quincy Library Group Forest Recovery
 
-Pub. L. 105–277, div. A, §101(e) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305, as amended by Pub. L. 107–171, title VI, §6201(d)(5), May 13, 2002, 116 Stat. 419; Pub. L. 110–161, div. F, title IV, §434, Dec. 26, 2007, 121 Stat. 2153; Pub. L. 111–8, div. E, title IV, §428, Mar. 11, 2009, 123 Stat. 749, provided that:
+Pub. L. 105–277, div. A, §101(e) \[title IV\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–305, as amended by Pub. L.107–171, title VI, §6201(d)(5), May 13, 2002, 116 Stat. 419; Pub. L. 110–161, div. F, title IV, §434, Dec. 26, 2007, 121 Stat. 2153; Pub. L. 111–8, div. E, title IV, §428, Mar. 11, 2009, 123 Stat. 749, provided that:
 
 "
 
@@ -214,7 +214,7 @@ Prohibition on use of certain funds.—The Secretary may not conduct the pilot p
 
 &emsp;"(3)
 
-Flexibility.—Subject to normal reprogramming guidelines, during the term of the pilot project, the forest supervisors of Plumas National Forest, Lassen National Forest, and Tahoe National Forest may allocate and use all accounts that contain year-end excess funds and all available excess funds for the administration and management of Plumas National Forest, Lassen National Forest, and the Sierraville Ranger District of Tahoe National Forest to perform the resource management activities described in subsection (d).
+Flexibility.—Subject to normal reprogramming guidelines, during the term of the pilot project, the forest supervisors of Plumas National Forest, Lassen National Forest, and Tahoe National Forest may allocate and use all accounts that contain year-end excess funds and all available excess funds for theadministration and management of Plumas National Forest, Lassen National Forest, and the Sierraville Ranger District of Tahoe National Forest to perform the resource management activities described in subsection (d).
 
 &emsp;"(4)
 

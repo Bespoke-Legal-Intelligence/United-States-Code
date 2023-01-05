@@ -14,7 +14,7 @@ The Director shall appoint examiners to conduct examinations under this section.
 
 #### (d) Inspector General
 
-There shall be within the Agency an Inspector General, who shall be appointed in accordance with section 3(a) of the Inspector General Act of 1978.
+There shall be within the Agency an Inspector General, who shall be appointed in accordance with section 403(a) of title 5.
 
 #### (e) Law applicable to examiners
 
@@ -32,7 +32,7 @@ In connection with examinations under this section, the Director shall have the 
 
 #### (1) Applicability
 
-&emsp;This section shall apply with respect to any position of examiner, accountant, economist,and specialist in financial markets and in technology at the Agency, with respect to supervision and regulation of the regulated entities, that is in the competitive service.
+&emsp;This section shall apply with respect to any position of examiner, accountant, economist, and specialist in financial markets and in technology at the Agency, with respect to supervision and regulation of the regulated entities, that is in the competitive service.
 
 #### (2) Appointment authority
 
@@ -46,15 +46,13 @@ In connection with examinations under this section, the Director shall have the 
 
 The Director shall establish, by regulation, an Office of the Ombudsman within the Agency, which shall be responsible for considering complaints and appeals, from any regulated entity and any person that has a business relationship with a regulated entity, regarding any matter relating to the regulation and supervision of such regulated entity by the Agency. The regulation issued by the Director under this subsection shall specify the authority and duties of the Office of the Ombudsman.
 
-(Pub. L. 102–550, title XIII, §1317, Oct. 28, 1992, 106 Stat. 3949; Pub. L. 110–289, div. A, title I, §§1105(a), (b), (e), 1153(b)(1)(A), July 30, 2008, 122 Stat. 2667, 2668, 2774; Pub. L. 111–203, title III, §365(2), July 21, 2010, 124 Stat. 1555.)
+(Pub. L. 102–550, title XIII, §1317, Oct. 28, 1992, 106 Stat. 3949; Pub. L. 110–289, div. A, title I, §§1105(a), (b), (e), 1153(b)(1)(A), July 30, 2008, 122 Stat. 2667, 2668, 2774; Pub. L. 111–203, title III, §365(2), July 21, 2010, 124 Stat. 1555; Pub. L. 117–286, §4(b)(34), Dec. 27, 2022, 136 Stat. 4347.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 3(a) of the Inspector General Act of 1978, referred to in subsec. (d), is section 3(a) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–286 substituted "section 403(a) of title 5." for "section 3(a) of the Inspector General Act of 1978."
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–203 substituted "or the Federal Deposit Insurance Corporation" for "the Federal Deposit Insurance Corporation, or the Director of the Office of Thrift Supervision".
 
@@ -66,7 +64,7 @@ Subsec. (c). Pub. L. 110–289, §1105(a)(3), inserted "to conduct examinations 
 
 Subsecs. (d) to (f). Pub. L. 110–289, §1105(a)(4), (5), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 110–289, §1153(b)(1)(A), which directed technical amendment in subsec. (f) to reference in original act which appears in text as reference to section 4641 of this title, was executed by making the amendment in subsec. (g), to reflect the probable intent of Congress and the redesignation of subsec. (f) as (g) by Pub. L. 110–289, §1105(a)(4). See below.
+Subsec. (g). Pub. L. 110–289, §1153(b)(1)(A), which directed technical amendment in subsec. (f) to reference in original act which appears in text as reference to section 4641 of this title, was executed by making the amendment in subsec. (g), to reflect the probable intentof Congress and the redesignation of subsec. (f) as (g) by Pub. L. 110–289, §1105(a)(4). See below.
 
 Pub. L. 110–289, §1105(a)(4), redesignated subsec. (f) as (g).
 

@@ -24,6 +24,12 @@ Last seven words in the statute, "who shall have the powers hereinafter stated",
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–263, div. E, title LIX, §5921(a), Dec. 23, 2022, 136 Stat. 3449, provided that: "This section \[enacting and repealing sections 3607 to 3616 of this title and enacting provisions set out as notes under section 3607 of this title and preceding section 101 of this title\] may be cited as the 'FedRAMP Authorization Act'."
+
+Pub. L. 117–222, §1, Dec. 5, 2022, 136 Stat. 2279, provided that: "This Act \[amending provisions set out as a note under section 2107 of this title\] may be cited as the 'Civil Rights Cold Case Investigations Support Act of 2022'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 116–283, div. H, title XCVI, §9602(a), Jan. 1, 2021, 134 Stat. 4828, provided that: "This section \[enacting section 2912 of this title, amending section 2901 of this title, and enacting provisions set out as a note under section 2912 of this title\] may be cited as the 'Electronic Message Preservation Act'."

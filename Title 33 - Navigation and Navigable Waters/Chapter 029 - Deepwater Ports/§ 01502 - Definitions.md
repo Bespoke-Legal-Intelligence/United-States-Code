@@ -12,7 +12,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(5) "coastal environment" means the navigable waters (including the lands therein and thereunder) and the adjacent shorelines including <sup>1</sup> waters therein and thereunder). The term includes transitional and intertidal areas, bays, lagoons, salt marshes, estuaries, and beaches; the fish, wildlife and other living resources thereof; and the recreational and scenic values of such lands, waters and resources;
 
-&emsp;(6) "coastal State" means any State of the United States in or bordering on the Atlantic,Pacific, or Arctic Oceans, or the Gulf of Mexico;
+&emsp;(6) "coastal State" means any State of the United States in or bordering on the Atlantic, Pacific, or Arctic Oceans, or the Gulf of Mexico;
 
 &emsp;(7) "construction" means the supervising, inspection, actual building, and all other activities incidental to the building, repairing, or expanding of a deepwater port or any of its components, including, but not limited to, pile driving and bulkheading, and alterations, modifications, or additions to the deepwater port;
 
@@ -26,7 +26,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;&emsp;(C) in the case of a structure used or intended for such use with respect to natural gas, includes all components and equipment, including pipelines, pumping or compressor stations, service platforms, buoys, mooring lines, and similar facilities that are proposed or approved for construction and operation as part of a deepwater port, to the extent that they are located seaward of the high water mark and do not include interconnecting facilities; and
 
-&emsp;&emsp;(D) shall be considered a "new source" for purposes of the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.);
+&emsp;&emsp;(D) shall be considered a "new source" for purposes of the Clean Air Act (42 U.S.C. 7401et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.);
 
 &emsp;(10) "Governor" means the Governor of a State or the person designated by State law to exercise the powers granted to the Governor pursuant to this chapter;
 
@@ -54,7 +54,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 #### References in Text
 
-The Clean Air Act, referred to in par. (9)(D), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in par. (9)(D), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The Federal Water Pollution Control Act, as amended, referred to in par. (9)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 

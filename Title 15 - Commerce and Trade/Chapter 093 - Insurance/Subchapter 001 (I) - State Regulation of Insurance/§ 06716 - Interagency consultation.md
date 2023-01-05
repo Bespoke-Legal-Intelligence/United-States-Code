@@ -24,7 +24,7 @@ It is the intention of the Congress that the Board of Governors of the Federal R
 
 #### (c) Consultation
 
-Before making any determination relating to the initial affiliation of, or the continuing affiliation of, a depository institution or financialholding company with a company engaged in insurance activities, the appropriate Federal banking agency shall consult with the appropriate State insurance regulator of such company and take the views of such insurance regulator into account in making such determination.
+Before making any determination relating to the initial affiliation of, or the continuing affiliation of, a depository institution or financial holding company with a company engaged in insurance activities, the appropriate Federal banking agency shall consult with the appropriate State insurance regulator of such company and take the views of such insurance regulator into account in making such determination.
 
 #### (d) Effect on other authority
 

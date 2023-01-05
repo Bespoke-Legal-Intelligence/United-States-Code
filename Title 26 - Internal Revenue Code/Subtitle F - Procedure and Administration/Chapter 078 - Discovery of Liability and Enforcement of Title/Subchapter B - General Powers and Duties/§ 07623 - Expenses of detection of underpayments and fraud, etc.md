@@ -20,7 +20,7 @@ The Secretary, under regulations prescribed by the Secretary, is authorized to p
 
 #### (A) In general
 
-&emsp;&emsp;In the event the action described in paragraph (1) is one which the Whistleblower Office determines to be based principally ondisclosures of specific allegations (other than information provided by the individual described in paragraph (1)) resulting from a judicial or administrative hearing, from a governmental report, hearing, audit, or investigation, or from the news media, the Whistleblower Office may award such sums as it considers appropriate, but in no case more than 10 percent of the proceeds collected as a result of the action (including any related actions) or from any settlement in response to such action (determined without regard to whether such proceeds are available to the Secretary), taking into account the significance of the individual's information and the role of such individual and any legal representative of such individual in contributing to such action.
+&emsp;&emsp;In the event the action described in paragraph (1) is one which the Whistleblower Office determines to be based principally on disclosures of specific allegations (other than information provided by the individual described in paragraph (1)) resulting from a judicial or administrative hearing, from a governmental report, hearing, audit, or investigation, or from the news media, the Whistleblower Office may award such sums as it considers appropriate, but in no case more than 10 percent of the proceeds collected as a result of the action (including any related actions) or from any settlement in response to such action (determined without regard to whether such proceeds are available to the Secretary), taking into account the significance of the individual's information and the role of such individual and any legal representative of such individual in contributing to such action.
 
 #### (B) Nonapplication of paragraph where individual is original source of information
 
@@ -168,7 +168,7 @@ Subsec. (c). Pub. L. 115–123, §41108(a)(1), added subsec. (c).
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–25, title I, §1405(c)(2), July 1, 2019, 133 Stat. 1000, provided that: "The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 1, 2019\]."
+Pub. L. 116–25, title I, §1405(c)(2), July 1, 2019, 133 Stat. 1000, provided that: "The amendment made bysubsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[July 1, 2019\]."
 
 #### Effective Date of 2018 Amendment
 

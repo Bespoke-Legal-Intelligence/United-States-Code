@@ -44,7 +44,7 @@ In this section:
 
 #### (2) Transferability
 
-&emsp;The sponsor of a material threat medical countermeasure application that receives a priority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] will be submitted after the date of the approval of the material threat medical countermeasure application. There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.
+&emsp;The sponsor of a material threat medical countermeasure application that receives apriority review voucher under this section may transfer (including by sale) the entitlement to such voucher to a sponsor of a human drug for which an application under section 355(b)(1) of this title or section 351(a) of the Public Health Service Act \[42 U.S.C. 262(a)\] will be submitted after the date of the approval of the material threat medical countermeasure application. There is no limit on the number of times a priority review voucher may be transferred before such voucher is used.
 
 #### (3) Notification
 
@@ -106,7 +106,7 @@ Nothing in this section precludes a sponsor who seeks a priority review voucher 
 
 #### (f) Relation to other provisions
 
-The provisions of this section shall supplement, not supplant, any other provisions of thischapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\] that encourage the development of medical countermeasures.
+The provisions of this section shall supplement, not supplant, any other provisions of this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\] that encourage the development of medical countermeasures.
 
 #### (g) Sunset
 
@@ -118,7 +118,7 @@ The Secretary may not award any priority review vouchers under subsection (b) af
 
 #### References in Text
 
-Section 101(b) of the Food and Drug Administration Safety and Innovation Act, referred to in subsec. (a)(2), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
+Section 101(b) of the Food and Drug Administration Safety and Innovation Act, referred to in subsec. (a)(2),is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
 
 The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 

@@ -138,7 +138,7 @@ For purposes of this subchapter, under regulations prescribed by the Secretary, 
 
 #### (h) Distributions by certain foreign trusts through nominees
 
-For purposes of this part, any amount paid to a United States person which is derived directlyor indirectly from a foreign trust of which the payor is not the grantor shall be deemed in the year of payment to have been directly paid by the foreign trust to such United States person.
+For purposes of this part, any amount paid to a United States person which is derived directly or indirectly from a foreign trust of which the payor is not the grantor shall be deemed in the year of payment to have been directly paid by the foreign trust to such United States person.
 
 #### (i) Loans from foreign trusts
 
@@ -230,7 +230,7 @@ Subsec. (a)(7). Pub. L. 99–514, §612(b)(4), struck out par. (7), dividends or
 
 Subsec. (d). Pub. L. 99–514, §1806(c)(1), redesignated subsec. (d), relating to treatment of property distributed in kind, as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e). Pub. L. 99–514, §1806(a), (c)(1), redesignated subsec. (d) relating to treatment of property distributed in kind as (e) and amended par. (3)(B) generally, substituting "shall apply to all distributions made by the estate or trust during a taxable year and shall be made on the return of such estate or trust for such taxable year" for "shall be made by the estate or trust on its return for the taxable year for which the distribution was made". Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 99–514, §1806(a), (c)(1), redesignated subsec. (d) relating to treatment of property distributed in kind as (e) and amended par. (3)(B) generally, substituting "shall apply to all distributions made by the estate or trust during a taxable year andshall be made on the return of such estate or trust for such taxable year" for "shall be made by the estate or trust on its return for the taxable year for which the distribution was made". Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 99–514, §1806(c)(2), redesignated subsec. (e) as (f).
 
@@ -318,7 +318,7 @@ Amendment by section 612(b)(4) of Pub. L. 99–514 applicable to taxable years b
 
 Pub. L. 99–514, title XIV, §1404(d), Oct. 22, 1986, 100 Stat. 2714, provided that: "The amendments made by this section \[amending this section and sections 6215, 6601, and 6654 of this title and repealing section 6152 of this title\] shall apply to taxable years beginning after December 31, 1986."
 
-Amendment by section 1806(a), (c) of Pub. L. 99–514 effective, except as otherwise provided, as if included inthe provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1806(a), (c) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date of 1984 Amendment
 

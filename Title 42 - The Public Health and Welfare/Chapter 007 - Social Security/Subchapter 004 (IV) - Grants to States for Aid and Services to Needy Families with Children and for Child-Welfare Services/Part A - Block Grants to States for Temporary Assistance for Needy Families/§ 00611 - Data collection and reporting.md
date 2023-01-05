@@ -154,7 +154,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 #### (ii) April-June, 2011 report
 
-&emsp;&emsp;&emsp;Not later than August 31, 2011, a report for the period that begins on April 1, 2011,and ends on June 30, 2011, that contains with respect to the 3 months that occur during that period—
+&emsp;&emsp;&emsp;Not later than August 31, 2011, a report for the period that begins on April 1, 2011, and ends on June 30, 2011, that contains with respect to the 3 months that occur during that period—
 
 &emsp;&emsp;&emsp;&emsp;(I) the average monthly numbers for the information specified in subparagraph (B); and
 
@@ -256,7 +256,7 @@ Not later than 6 months after the end of fiscal year 1997, and each fiscal year 
 
 &emsp;&emsp;In designating reporting standards under this paragraph, the Secretary shall, to the extent practicable, incorporate existing nonproprietary standards, such as the eXtensible Markup Language.
 
-(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284; Pub. L. 109–171, title VII, §7102(b)(2), Feb. 8, 2006, 120 Stat. 136; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–291, title VIII, §812(a), Dec. 8, 2010, 124 Stat. 3160; Pub. L. 112–96, title IV, §§4003(a), 4005(e), Feb. 22, 2012, 126 Stat. 195, 198.)
+(Aug. 14, 1935, ch. 531, title IV, §411, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996,110 Stat. 2148; amended Pub. L. 105–33, title V, §§5001(e), 5507, 5514(c), Aug. 5, 1997, 111 Stat. 591, 616, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §804(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284; Pub. L. 109–171, title VII, §7102(b)(2), Feb. 8, 2006, 120 Stat. 136; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–291, title VIII, §812(a), Dec. 8, 2010, 124 Stat. 3160; Pub. L. 112–96, title IV, §§4003(a), 4005(e), Feb. 22, 2012, 126 Stat. 195, 198.)
 
 #### <b>Editorial Notes</b>
 
@@ -344,7 +344,7 @@ Amendment by Pub. L. 109–171 effective Oct. 1, 2006, see section 7102(d) of Pu
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 5507 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
+Amendment by section 5507 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996,Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 
 Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the provision of Pub. L. 104–193 amended at the time the provision became law, see section 5518(d) of Pub. L. 105–33, set out as a note under section 862a of Title 21, Food and Drugs.
 

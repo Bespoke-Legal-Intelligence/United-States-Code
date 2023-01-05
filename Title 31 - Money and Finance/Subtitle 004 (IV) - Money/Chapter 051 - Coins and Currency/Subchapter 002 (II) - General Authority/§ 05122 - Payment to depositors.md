@@ -12,7 +12,7 @@
 
 &emsp;(4) preparing bars.
 
-(c) The Secretary shall pay to the depositor or to a person designated by the depositor money or bars equivalent to the bullion deposited as soon as practicable after the value of the deposit is determined. If demanded, the Secretary shall pay depositors in the order in which the bullion is deposited with the Secretary. However, when there is an unavoidable delay in determining the value of a deposit, the Secretary shall pay subsequent depositors. When practicable and convenient, the Secretary shall pay depositors in the denominations requested by the depositor. After the depositor is paid, the bullion is the property of the United States Government.
+(c) The Secretary shall pay to the depositor or to a person designated by the depositor money or bars equivalent to the bullion deposited as soon as practicable after the value of the depositis determined. If demanded, the Secretary shall pay depositors in the order in which the bullion is deposited with the Secretary. However, when there is an unavoidable delay in determining the value of a deposit, the Secretary shall pay subsequent depositors. When practicable and convenient, the Secretary shall pay depositors in the denominations requested by the depositor. After the depositor is paid, the bullion is the property of the United States Government.
 
 (d) To allow the Secretary to pay depositors with as little delay as possible, the Secretary shall keep in the mints and assay offices, when possible, money and bullion the Secretary decides are convenient and necessary.
 
@@ -72,5 +72,5 @@ In subsection (b), the words "Secretary shall impose a charge" are substituted f
 
 In subsection (c), the words "person designated by the depositor" are substituted for "his order" for clarity. The words "an unavoidable delay in determining the value of a deposit" are substituted for "delay in manipulating a refractory deposit, or for any other unavoidable cause" in 31:357 for clarity.
 
-In subsection (d), the words "the Secretary to pay depositors" are substituted for "the several mints andassay offices of the United States to make returns to depositors" because of the source provisions restated in section 321(c) of the revised title. The words "when the state of the Treasury will admit thereof" are omitted as surplus. The words "under such rules and regulations as may be prescribed by the said Secretary" are omitted as unnecessary because of section 321(b) of the revised title. The text of 31:358(last sentence) is omitted as surplus.
+In subsection (d), the words "the Secretary to pay depositors" are substituted for "the several mints and assay offices of the United States to make returns to depositors" because of the source provisions restated in section 321(c) of the revised title. The words "when the state of the Treasury will admit thereof" are omitted as surplus. The words "under such rules and regulations as may be prescribed by the said Secretary" are omitted as unnecessary because of section 321(b) of the revised title. The text of 31:358(last sentence) is omitted as surplus.
 

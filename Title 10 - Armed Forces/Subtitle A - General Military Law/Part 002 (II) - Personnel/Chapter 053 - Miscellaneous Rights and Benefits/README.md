@@ -74,7 +74,7 @@ Pub. L. 110–181, div. A, title VI, §671(b)(2), title XII, §1203(e)(2), Jan. 
 
 <b>2002</b>—Pub. L. 107–314, div. A, title XII, §1201(a)(2), Dec. 2, 2002, 116 Stat. 2663, added item 1051a.
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §§551(b), 579(c)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–125, 1654A–142, added items 1044d, 1052, 1053, and 1053a, and struck out former items 1052 "Reimbursement for adoption expenses" and 1053 "Reimbursement for financial institution charges incurred because of Government error in direct deposit of pay".
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title V, §§551(b), 579(c)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–125, 1654A–142, added items 1044d, 1052, 1053, and 1053a, and struck out former items 1052 "Reimbursement for adoption expenses" and 1053 "Reimbursement for financialinstitution charges incurred because of Government error in direct deposit of pay".
 
 <b>1997</b>—Pub. L. 105–85, div. A, title V, §593(a)(2), Nov. 18, 1997, 111 Stat. 1763, added item 1033.
 
@@ -141,6 +141,14 @@ Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 <b>1958</b>—Pub. L. 85–861, §1(24)(B), Sept. 2, 1958, 72 Stat. 1445, added item 1037.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Flexible Workplace Programs
+
+Pub. L. 117–263, div. A, title XI, §1107, Dec. 23, 2022, 136 Stat. 2818, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall promulgate guidance to the military departments to promote consistency in policies relating to flexible workplace programs. Such guidance shall address at a minimum the conditions under which an employee is allowed to perform all or a portion of assigned duties—
+
+&emsp;"(1) at a telecommuting center established pursuant to statute; or
+
+&emsp;"(2) through the use of flexible workplace services agreements."
 
 #### Policy To Improve Responses to Pregnancy and Childbirth by Certain Members of the Armed Forces
 
@@ -268,7 +276,7 @@ Records.—Not later than 90 days after the date of enactment of this Act, the S
 
 Rule of Construction.—Subsection (a) shall not be construed to limit the authority of the Secretary of Defense to—
 
-&emsp;"(1) create or maintain records relating to, or regulate the possession, carrying, or other use of a firearm, ammunition, or other weapon by a member of the Armed Forces or civilian employee of the Department of Defense while—
+&emsp;"(1) create or maintain records relating to, or regulate the possession, carrying, or other use of a firearm, ammunition, or other weapon by a member ofthe Armed Forces or civilian employee of the Department of Defense while—
 
 &emsp;&emsp;"(A) engaged in official duties on behalf of the Department of Defense; or
 

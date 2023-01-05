@@ -16,7 +16,7 @@ For the purpose of carrying out this section,<sup>1</sup> there is authorized to
 
 &emsp;(6) For fiscal year 2015, $1,154,510,336.
 
-&emsp;(7) For fiscal year 2016, and each subsequent fiscal year, the amount appropriated for the preceding fiscal year adjusted by the product of—
+&emsp;(7) For fiscal year 2016, and each subsequent fiscal year, the amount appropriated for thepreceding fiscal year adjusted by the product of—
 
 &emsp;&emsp;(A) one plus the average percentage increase in the costs of health professions education during the prior fiscal year; and
 

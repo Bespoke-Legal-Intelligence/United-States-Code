@@ -192,7 +192,7 @@ In subsection (a)(2), the words "by the Secretary" and "to the Secretary" are om
 
 In subsection (a)(3), the words "subject to such regulations, supervision, and review as he may prescribe" are omitted because of 49:322(a). The words "from time to time make such provision as he shall deem appropriate" are omitted as surplus. The words "duty or power" are substituted for "function" for consistency in the revised title and with other titles of the Code. The words "the head of" are added for clarity and consistency.
 
-In subsection (b), the words "(whether or not in cooperation with State or other local governmental agencies)" and "thereon" are omitted as surplus. The words "landing area" are omitted as being included in the definition of "air navigation facility" in section40102(a) of the revised title. The words "recommendation and" are omitted as surplus. The words "under regulations prescribed by him" are omitted because of 49:322(a). The word "proposed" is omitted as surplus. The word "acquired" is added for consistency in this subsection.
+In subsection (b), the words "(whether or not in cooperation with State or other local governmental agencies)" and "thereon" are omitted as surplus. The words "landing area" are omitted as being included in the definition of "air navigation facility" in section 40102(a) of the revised title. The words "recommendation and" are omitted as surplus. The words "under regulations prescribed by him" are omitted because of 49:322(a). The word "proposed" is omitted as surplus. The word "acquired" is added for consistency in this subsection.
 
 In subsection (c)(1), the words "In order", "layout", and "In case of . . . the matter" are omitted as surplus. The words "Secretary of Defense" are substituted for "Department of Defense" because of 10:133(a). The words "the Administrator of" are added because of 42:2472(a).
 
@@ -261,6 +261,10 @@ Pub. L. 112–95, title V, §508, Feb. 14, 2012, 126 Stat. 106, provided that: "
 Pub. L. 116–6, div. G, title I, Feb. 15, 2019, 133 Stat. 401, provided in part: "That not later than March 31 of each fiscal year hereafter, the Administrator \[of the Federal Aviation Administration\] shall transmit to Congress a companion report that describes a comprehensive strategy for staffing, hiring, and training flight standards and aircraft certification staff in a format similar to the one utilized for the controller staffing plan, including stated attrition estimates and numerical hiring goals by fiscal year".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. L, title I, Dec. 29, 2022, 136 Stat. 5102.
+
+Pub. L. 117–103, div. L, title I, Mar. 15, 2022, 136 Stat. 691.
 
 Pub. L. 116–260, div. L, title I, Dec. 27, 2020, 134 Stat. 1830.
 

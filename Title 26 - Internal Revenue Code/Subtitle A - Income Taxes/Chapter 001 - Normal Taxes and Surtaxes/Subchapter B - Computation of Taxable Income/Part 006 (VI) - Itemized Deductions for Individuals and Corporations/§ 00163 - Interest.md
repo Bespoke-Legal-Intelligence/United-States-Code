@@ -80,7 +80,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;&emsp;(iii) so much of the net capital gain referred to in clause (ii)(II) (or, if lesser, the net gain referred to in clause (ii)(I)) as the taxpayer elects to take into account under this clause.
 
-> &emsp;&emsp;Such term shall include qualified dividend income (as defined in section 1(h)(11)(B)) only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.
+> &emsp;&emsp;Such term shall include qualified dividend income (as defined in section 1(h)(11)(B))only to the extent the taxpayer elects to treat such income as investment income for purposes of this subsection.
 
 #### (C) Investment expenses
 
@@ -248,7 +248,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 #### (A) In general
 
-&emsp;&emsp;The term "registration-required obligation" means any obligation (including any obligation issued by a governmental entity) other than an obligation which—
+&emsp;&emsp;The term "registration-required obligation" means any obligation (including anyobligation issued by a governmental entity) other than an obligation which—
 
 &emsp;&emsp;&emsp;(i) is issued by a natural person,
 
@@ -260,7 +260,7 @@ For purposes of this subtitle, any annual or periodic rental under a redeemable 
 
 &emsp;&emsp;Clauses (ii) and (iii) of subparagraph (A) shall not apply to any obligation if—
 
-&emsp;&emsp;&emsp;(i) such obligation is of a type which the Secretary has determined by regulationsto be used frequently in avoiding Federal taxes, and
+&emsp;&emsp;&emsp;(i) such obligation is of a type which the Secretary has determined by regulations to be used frequently in avoiding Federal taxes, and
 
 &emsp;&emsp;&emsp;(ii) such obligation is issued after the date on which the regulations referred to in clause (i) take effect.
 
@@ -350,7 +350,7 @@ The amount of the deduction under this section for interest paid or accrued duri
 
 #### (ii) Reduction in $1,000,000 limitation
 
-&emsp;&emsp;&emsp;The limitation of subparagraph (B)(ii) shall be reduced (but not below zero) by the aggregate amount of outstanding pre-October 13, 1987, indebtedness.
+&emsp;&emsp;&emsp;The limitation of subparagraph (B)(ii) shall be reduced (but not below zero) bythe aggregate amount of outstanding pre-October 13, 1987, indebtedness.
 
 #### (iii) Pre-October 13, 1987, indebtedness
 
@@ -804,7 +804,7 @@ No deduction shall be allowed under this chapter for any interest paid or accrue
 
 &emsp;&emsp;<b>(5) For treatment of redeemable ground rents and real property held subject to liabilities under redeemable ground rents, see section 1055.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct. 22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–222, title V, §501(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 109–432, div. A, title IV, §419(a), (b), Dec. 20, 2006, 120 Stat. 2967; Pub. L. 110–142, §3(a), Dec. 20, 2007, 121 Stat. 1804; Pub. L. 111–5, div. B, title I, §1232(a), (b), Feb. 17, 2009, 123 Stat. 341; Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), Mar. 18, 2010, 124 Stat. 107, 108; Pub. L. 111–312, title VII, §759(a), Dec. 17, 2010, 124 Stat. 3323; Pub. L. 112–240, title II, §204(a), (b), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §104(a), title II, §§220(h), 221(a)(25)(A), Dec. 19, 2014, 128 Stat. 4013, 4036, 4040; Pub. L. 114–113, div. Q, title I, §152(a), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–97, title I, §§11043(a), 13301(a), Dec. 22, 2017, 131 Stat. 2086, 2117; Pub. L. 115–123, div. D, title I, §40202(a), Feb. 9, 2018, 132 Stat. 145; Pub. L. 115–141, div. U, title IV, §401(a)(48), (b)(12), (c)(1)(C), (3)(B), Mar.23, 2018, 132 Stat. 1186, 1202, 1205, 1206; Pub. L. 116–94, div. Q, title I, §102(a), Dec. 20, 2019, 133 Stat. 3228; Pub. L. 116–136, div. A, title II, §2306(a), Mar. 27, 2020, 134 Stat. 358; Pub. L. 116–260, div. EE, title I, §133(a), Dec. 27, 2020, 134 Stat. 3053.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 46; Pub. L. 88–9, §1(a), (c), Apr. 10, 1963, 77 Stat. 6, 7; Pub. L. 88–272, title II, §224(c), Feb. 26, 1964, 78 Stat. 79; Pub. L. 91–172, title II, §221(a), Dec. 30, 1969, 83 Stat. 574; Pub. L. 92–178, title III, §304(a)(2), (b)(2), (d), Dec. 10, 1971, 85 Stat. 523, 524; Pub. L. 94–455, title II, §§205(c)(3), 209(a), title XIX, §§1901(b)(3)(K), (8)(C), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1535, 1542, 1793, 1794, 1834; Pub. L. 97–248, title II, §231(b), title III, §310(b)(2), Sept. 3, 1982, 96 Stat. 498, 596; Pub. L. 97–354, §5(a)(18), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title I, §§42(a)(3), 56(b), 127(f), 128(c), title VI, §612(c), July 18, 1984, 98 Stat. 556, 574, 652, 654, 911; Pub. L. 99–514, title V, §511(a), (b), title IX, §902(e)(1), title XIII, §1301(j)(3), title XVIII, §§1803(a)(4), 1810(e)(1), Oct. 22, 1986, 100 Stat. 2244, 2246, 2382, 2657, 2793, 2825; Pub. L. 100–203, title X, §§10102(a), (b), 10212(b), Dec. 22, 1987, 101 Stat. 1330–384, 1330–386, 1330–406; Pub. L. 100–647, title I, §§1005(c)(1)–(9), (12), 1006(u)(1), 1009(b)(6), title II, §2004(b)(1), Nov. 10, 1988, 102 Stat. 3390–3392, 3427, 3449, 3598; Pub. L. 101–239, title VII, §§7202(a), (b), 7210(a), Dec. 19, 1989, 103 Stat. 2330, 2331, 2339; Pub. L. 101–508, title XI, §11701(b), (c), Nov. 5, 1990, 104 Stat. 1388–507; Pub. L. 103–66, title XIII, §§13206(d)(1), 13228(a)–(c), Aug. 10, 1993, 107 Stat. 467, 494, 495; Pub. L. 104–188, title I, §§1703(n)(4), 1704(f)(2)(A), (B), Aug. 20, 1996, 110 Stat. 1877, 1879; Pub. L. 105–34, title III, §312(d)(1), title V, §503(b)(2), title X, §1005(a), title XVI, §1604(g)(1), Aug. 5, 1997, 111 Stat. 839, 853, 911, 1099; Pub. L. 105–277, div. J, title IV, §4003(a)(1), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–170, title V, §544, Dec. 17, 1999, 113 Stat. 1944; Pub. L. 108–27, title III, §302(b), May 28, 2003, 117 Stat. 762; Pub. L. 108–357, title VIII, §§838(a), 841(a), 845(a)–(d), Oct.22, 2004, 118 Stat. 1596, 1597, 1600, 1601; Pub. L. 109–135, title IV, §403(a)(15), Dec. 21, 2005, 119 Stat. 2619; Pub. L. 109–222, title V, §501(a), (b), May 17, 2006, 120 Stat. 354; Pub. L. 109–432, div. A, title IV, §419(a), (b), Dec. 20, 2006, 120 Stat. 2967; Pub. L. 110–142, §3(a), Dec. 20, 2007, 121 Stat. 1804; Pub. L. 111–5, div. B, title I, §1232(a), (b), Feb. 17, 2009, 123 Stat. 341; Pub. L. 111–147, title V, §502(a)(1), (2)(B), (C), (c), Mar. 18, 2010, 124 Stat. 107, 108; Pub. L. 111–312, title VII, §759(a), Dec. 17, 2010, 124 Stat. 3323; Pub. L. 112–240, title II, §204(a), (b), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §104(a), title II, §§220(h), 221(a)(25)(A), Dec. 19, 2014, 128 Stat. 4013, 4036, 4040; Pub. L. 114–113, div. Q, title I, §152(a), Dec. 18, 2015, 129 Stat. 3066; Pub. L. 115–97, title I, §§11043(a), 13301(a), Dec. 22, 2017, 131 Stat. 2086, 2117; Pub. L. 115–123, div. D, title I, §40202(a), Feb. 9, 2018, 132 Stat. 145; Pub. L. 115–141, div. U, title IV, §401(a)(48), (b)(12), (c)(1)(C), (3)(B), Mar. 23, 2018, 132 Stat. 1186, 1202, 1205, 1206; Pub. L. 116–94, div. Q, title I, §102(a), Dec. 20, 2019, 133 Stat. 3228; Pub. L. 116–136, div. A, title II, §2306(a), Mar. 27, 2020, 134 Stat. 358; Pub. L. 116–260, div. EE, title I, §133(a), Dec. 27, 2020, 134 Stat. 3053.)
 
 #### <b>Editorial Notes</b>
 
@@ -994,13 +994,13 @@ Subsec. (e)(2)(B). Pub. L. 100–647, §1006(u)(1), substituted "paragraph (7)" 
 
 Subsec. (h)(2)(A). Pub. L. 100–647, §1005(c)(4), substituted "properly allocable to" for "incurred or continued in connection with the conduct of".
 
-Subsec. (h)(2)(E). Pub. L. 100–647, §1005(c)(12), inserted "or under section 6166A (as in effect before its repeal by the Economic Recovery Tax Act of 1981)" before period at end.
+Subsec. (h)(2)(E). Pub. L. 100–647, §1005(c)(12), inserted "or under section 6166A (as in effect before its repeal bythe Economic Recovery Tax Act of 1981)" before period at end.
 
 Subsec. (h)(3)(C). Pub. L. 100–647, §1005(c)(5), effective as if enacted immediately before enactment of Pub. L. 100–203 (see 1987 Amendment note below), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "The amount under subparagraph (B)(ii)(I) at any time after August 16, 1986, shall not be less than the outstanding aggregate principal amount (as of such time) of indebtedness which was incurred on or before August 16, 1986, and which was secured by the qualified residence on August 16, 1986."
 
 Subsec. (h)(4). Pub. L. 100–647, §1005(c)(6)(A), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended heading by substituting "Other definitions and special rules—For purposes of this subsection—" for "Other definitions and special rules".
 
-Subsec. (h)(4)(A). Pub. L. 100–647, §1005(c)(6)(B)(i), (7), effective as if enacted immediately before enactment ofPub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended subpar. (A) by striking out "For purposes of this subsection—" after "Qualified residence" in introductory provisions, "used or" after "Residence not" in cl. (iii) heading, and "or use" after "does not rent" in cl. (iii) text.
+Subsec. (h)(4)(A). Pub. L. 100–647, §1005(c)(6)(B)(i), (7), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended subpar. (A) by striking out "For purposes of this subsection—" after "Qualified residence" in introductory provisions, "used or" after "Residence not" in cl. (iii) heading, and "or use" after "does not rent" in cl. (iii) text.
 
 Subsec. (h)(4)(B). Pub. L. 100–647, §1005(c)(6)(B)(ii), effective as if enacted immediately before enactment of Pub. L. 100–203 (redesignating par. (5) as (4), see 1987 Amendment note below), amended subpar. (B) by substituting "Any" for "For purposes of this paragraph, any".
 
@@ -1090,7 +1090,7 @@ Subsec. (e)(4). Pub. L. 98–369, §128(c), redesignated par. (3), relating to e
 
 Pub. L. 98–369, §42(a)(3), added par. (4) relating to cross references.
 
-Subsec. (f)(2)(C)(i). Pub. L. 98–369, §127(f), redesignated existing provision as subcl. (I), and in subcl. (I) as so redesignated, inserted reference to subpar. (A) and substituted "or" for "and", and added subcl. (II).
+Subsec. (f)(2)(C)(i). Pub. L. 98–369, §127(f), redesignated existing provision as subcl. (I), and in subcl. (I)as so redesignated, inserted reference to subpar. (A) and substituted "or" for "and", and added subcl. (II).
 
 Subsecs. (g), (h). Pub. L. 98–369, §612(c), added subsec. (g) and redesignated former subsec. (g) as (h).
 
@@ -1104,7 +1104,7 @@ Subsec. (f). Pub. L. 97–248, §310(b)(2), added subsec. (f) relating to the re
 
 Subsec. (g). Pub. L. 97–248, §310(b)(2), redesignated former subsec. (f), setting forth cross references, as (g).
 
-<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455, §1901(b)(8)(C), substituted "organization described in section170(b)(1)(A)(ii) and which is provided for a student of such organization" for "institution (as defined in section 151(e)(4)) and which is provided for a student of such institution".
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455, §1901(b)(8)(C), substituted "organization described in section 170(b)(1)(A)(ii) and which is provided for a student of such organization" for "institution (as defined in section 151(e)(4)) and which is provided for a student of such institution".
 
 Subsec. (d)(1). Pub. L. 94–455, §209(a)(1), among other changes, substituted in subpar. (A) "$10,000" for "$25,000" and "$5,000" for "$12,500", struck out subpar. (C) relating to the excess of net long-term capital gain over short-term capital loss and subpar. (D) relating to the excess of investment interest over amounts in subpar. (A), and in provisions following lettered paragraphs substituted "$10,000" for "$25,000" and struck out provisions relating to the determination of the amount referred to in subpar. (C).
 
@@ -1174,7 +1174,7 @@ Pub. L. 114–113, div. Q, title I, §152(b), Dec. 18, 2015, 129 Stat. 3066, pro
 
 Pub. L. 113–295, div. A, title I, §104(b), Dec. 19, 2014, 128 Stat. 4013, provided that: "The amendment made by this section \[amending this section\] shall apply to amounts paid or accrued after December 31, 2013."
 
-Amendment by section 221(a)(25)(A) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+Amendment by section 221(a)(25)(A) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision,see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2013 Amendment
 
@@ -1366,7 +1366,7 @@ Amendment by section 42(a)(3) of Pub. L. 98–369 applicable to taxable years en
 
 Pub. L. 98–369, div. A, title I, §56(d), July 18, 1984, 98 Stat. 574, provided that: "The amendments made by this section \[amending this section and sections 263 and 265 of this title\] shall apply to short sales after the date of enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
 
-Amendment by section 127(f) of Pub. L. 98–369 applicable to interest received after July 18, 1984, with respect to obligations issued after such date, in taxable years ending after such date, see section 127(g)(1) of Pub. L. 98–369, set out as a note under section 871 of this title.
+Amendment by section 127(f) of Pub. L. 98–369 applicable to interest received after July 18, 1984, with respectto obligations issued after such date, in taxable years ending after such date, see section 127(g)(1) of Pub. L. 98–369, set out as a note under section 871 of this title.
 
 Amendment by section 128(c) of Pub. L. 98–369 applicable to obligations issued after June 9, 1984, see section 128(d)(2) of Pub. L. 98–369, set out as a note under section 871 of this title.
 
@@ -1380,7 +1380,7 @@ Amendment by Pub. L. 97–248 applicable to obligations issued after Dec. 31, 19
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 205(c)(3) of Pub. L. 94–455 applicable with respect to taxable years ending after Dec.31, 1975, see section 205(e) of Pub. L. 94–455, set out as an Effective Date note under section 1254 of this title.
+Amendment by section 205(c)(3) of Pub. L. 94–455 applicable with respect to taxable years ending after Dec. 31, 1975, see section 205(e) of Pub. L. 94–455, set out as an Effective Date note under section 1254 of this title.
 
 Pub. L. 94–455, title II, §209(b), Oct. 4, 1976, 90 Stat. 1543, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
@@ -1466,7 +1466,7 @@ Election.—The election under subsection (a)(2) shall be made at such time and 
 
 #### Transitional Rule
 
-For provision that, for purposes of amendments by section 231(b) of Pub. L. 97–248, any evidence of indebtedness issued pursuant to a written commitment which was binding on July 1, 1982, and at all times thereafterbe treated as issued on July 1, 1982, see section 231(e) of Pub. L. 97–248, set out as a note under section 1232A of this title.
+For provision that, for purposes of amendments by section 231(b) of Pub. L. 97–248, any evidence of indebtedness issued pursuant to a written commitment which was binding on July 1, 1982, and at all times thereafter be treated as issued on July 1, 1982, see section 231(e) of Pub. L. 97–248, set out as a note under section 1232A of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

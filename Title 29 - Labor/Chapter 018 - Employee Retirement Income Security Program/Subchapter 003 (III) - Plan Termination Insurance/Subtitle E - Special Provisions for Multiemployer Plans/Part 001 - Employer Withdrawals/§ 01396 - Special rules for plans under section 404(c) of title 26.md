@@ -10,7 +10,7 @@ In the case of a plan described in subsection (b)—
 
 &emsp;&emsp;(B) the product of—
 
-&emsp;&emsp;&emsp;(i) the number of contribution base units for which the employer would have been required to make contributions for the prior plan year if the employer had not withdrawn, multiplied by
+&emsp;&emsp;&emsp;(i) the number of contribution base units for which the employer would have beenrequired to make contributions for the prior plan year if the employer had not withdrawn, multiplied by
 
 &emsp;&emsp;&emsp;(ii) the contribution rate for the plan year which would be required to meet the amortization schedules contained in section 1423(d)(3)(B)(ii) <sup>1</sup> of this title (determined without regard to any limitation on such rate otherwise provided by this subchapter)
 

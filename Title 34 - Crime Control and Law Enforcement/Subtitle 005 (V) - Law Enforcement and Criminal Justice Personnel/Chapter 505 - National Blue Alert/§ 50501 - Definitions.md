@@ -40,3 +40,9 @@ In this chapter:
 
 Section was formerly classified to section 14165 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of Pub. L. 114–12, which is classified to this chapter, as the "Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015", see section 1 of Pub. L. 114–12, set out as a Short Title of 2015 Act note under section 10101 of this title.
+

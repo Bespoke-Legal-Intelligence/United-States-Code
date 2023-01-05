@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of the Navy shall establish and appoint an individual to theposition of Deputy Commander of the Naval Sea Systems Command for the Supervision of Shipbuilding, Conversion, and Repair (in this section referred to as the "Deputy Commander").
+In General.—The Secretary of the Navy shall establish and appoint an individual to the position of Deputy Commander of the Naval Sea Systems Command for the Supervision of Shipbuilding, Conversion, and Repair (in this section referred to as the "Deputy Commander").
 
 (b)
 
@@ -70,7 +70,7 @@ Annual Written Assessment.—(1) Not later than March 1 of each year, the Deputy
 
 &emsp;&emsp;(ii) outlines corrective action requests for critical defects and any actions planned or taken to address them;
 
-&emsp;&emsp;(iii) indicates waivers approved to support acceptance trials, combined trials, and Navy acceptance of ship delivery from the commercial entity described in subsection (d)(1), to include the conditions requiring the approval of each waiver; and
+&emsp;&emsp;(iii) indicates waivers approved to support acceptance trials, combined trials, and Navyacceptance of ship delivery from the commercial entity described in subsection (d)(1), to include the conditions requiring the approval of each waiver; and
 
 &emsp;&emsp;(iv) includes information on the extent to which letters of delegation are used for each shipbuilding program to provide for quality assurance oversight of subcontractors (at any tier) by the Defense Contract Management Agency.
 
@@ -90,7 +90,7 @@ Annual Written Assessment.—(1) Not later than March 1 of each year, the Deputy
 
 #### Effective Date
 
-Pub. L. 117–81, div. A, title X, §1012(c), Dec. 27, 2021, 135 Stat. 1892, provided that: "On the date that is 30 days after the date of enactment of the National Defense Authorization Act for Fiscal Year 2023—
+Pub. L. 117–81, div. A, title X, §1012(c), Dec. 27, 2021, 135 Stat. 1892, provided that: "On the date that is 30 days after the date of enactment of the \[James M. Inhofe\] National Defense Authorization Act for Fiscal Year 2023 \[Dec. 23, 2022\]—
 
 &emsp;"(1) this section \[enacting this section\] and the amendments made by this section shall take effect; and
 

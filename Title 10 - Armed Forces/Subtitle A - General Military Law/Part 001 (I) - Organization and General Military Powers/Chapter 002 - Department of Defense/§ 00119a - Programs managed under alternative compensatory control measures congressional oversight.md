@@ -44,7 +44,7 @@ Annual Report on New Programs Under ACCMS.—
 
 &emsp;(1)
 
-In general.—Not later than February 1 each year, the Secretary shall submit to thecongressional defense committees a report that, with respect to each new program being managed under alternative compensatory control measures in the Department, provides—
+In general.—Not later than February 1 each year, the Secretary shall submit to the congressional defense committees a report that, with respect to each new program being managed under alternative compensatory control measures in the Department, provides—
 
 &emsp;&emsp;(A) notice of the designation of the program as a program being managed under alternative compensatory control measures in the Department; and
 
@@ -68,7 +68,7 @@ Report on Change in Classification or Declassification of Programs.—
 
 &emsp;(1)
 
-In general.—Whenever a change in the classification of a program being managed under alternative compensatory control measures in the Department is planned to be made, or whenever classified information concerning a program being managed under alternative compensatory control measures in the Department is to be declassified and made public, the Secretary shall submit to the congressional defense committees a report containing a description of the proposed change, the reasons for the proposed change, and notice of any public announcement planned to be made with respect to the proposed change.
+In general.—Whenever a change in the classification of a program being managed under alternative compensatory control measures in the Department is planned to be made, or whenever classified information concerning a program being managed under alternative compensatory control measures in the Department is to be declassified and made public, the Secretary shall submit to the congressionaldefense committees a report containing a description of the proposed change, the reasons for the proposed change, and notice of any public announcement planned to be made with respect to the proposed change.
 
 &emsp;(2)
 
@@ -120,7 +120,7 @@ Congressional Oversight.—(1) Neither the Secretary of Defense nor the Director
 
 (2) In this subsection, the term "classified program" includes any special access program, alternative compensatory control measure, or any other controlled access program.
 
-(Added Pub. L. 114–328, div. A, title X, §1062(a), Dec. 23, 2016, 130 Stat. 2405; amended Pub. L.116–92, div. A, title XVII, §1731(a)(4), Dec. 20, 2019, 133 Stat. 1812; Pub. L. 117–81, div. A, title X, §1041(b), Dec. 27, 2021, 135 Stat. 1903.)
+(Added Pub. L. 114–328, div. A, title X, §1062(a), Dec. 23, 2016, 130 Stat. 2405; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(4), Dec. 20, 2019, 133 Stat. 1812; Pub. L. 117–81, div. A, title X, §1041(b), Dec. 27, 2021, 135 Stat. 1903.)
 
 #### <b>Editorial Notes</b>
 

@@ -28,7 +28,7 @@ The report required by subsection (a) shall include—
 
 #### (c) Implementation
 
-If the Secretary enters into any contract with a non-Federal entity for purposes of carryingout subsection (a), such entity shall be a nongovernmental organization, or an individual, determined by the Secretary to have appropriate expertise in quantitative and qualitative social science research.
+If the Secretary enters into any contract with a non-Federal entity for purposes of carrying out subsection (a), such entity shall be a nongovernmental organization, or an individual, determined by the Secretary to have appropriate expertise in quantitative and qualitative social science research.
 
 (Pub. L. 93–415, title III, §345, as added Pub. L. 110–378, §6, Oct. 8, 2008, 122 Stat. 4070.)
 

@@ -46,7 +46,7 @@ Not later than 180 days after January 7, 1983, the Secretary, following consulta
 
 Except as otherwise provided in this section, each activity of the President or the Secretary under this section shall be considered to be a preliminary decisionmaking activity. No such activity shall require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), or to require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.
 
-(Pub. L. 97–425, title I, §112, Jan. 7, 1983, 96 Stat. 2208; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(b)–(d), Dec. 22, 1987, 101Stat. 1330–228; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
+(Pub. L. 97–425, title I, §112, Jan. 7, 1983, 96 Stat. 2208; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(b)–(d), Dec. 22, 1987, 101 Stat. 1330–228; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 
 #### <b>Editorial Notes</b>
 

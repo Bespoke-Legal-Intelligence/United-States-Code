@@ -8,7 +8,7 @@
 
 (C) Whenever any data and information is provided to the Secretary, pursuant to subparagraph (A) of this paragraph—
 
-&emsp;(i) by a lessee, in the form and manner of processing which is utilized by such lessee inthe normal conduct of his business, the Secretary shall pay the reasonable cost of reproducing such data and information;
+&emsp;(i) by a lessee, in the form and manner of processing which is utilized by such lessee in the normal conduct of his business, the Secretary shall pay the reasonable cost of reproducing such data and information;
 
 &emsp;(ii) by a lessee, in such other form and manner of processing as the Secretary may request, the Secretary shall pay the reasonable cost of processing and reproducing such data and information;
 

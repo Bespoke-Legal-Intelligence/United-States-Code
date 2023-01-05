@@ -22,7 +22,7 @@ There is established in the executive branch of the Government an independent ag
 
 #### (c) Term of office
 
-The term of office of each member of the Board shall be six years, except that the terms of the two members, other than the Chairman, initially appointed shall expire one upon the expiration of two years after the date of appointment, and the other upon the expiration of four years after the date of appointment. Board members shall not be appointed to succeed themselves except the initial members appointed for less than a six-year term may be reappointed for a full six-year term and future members appointed to fill unexpired terms may be reappointed for a full six-year term. Any Board member may continue to serve as such after the expiration of said member's term until a successor has qualified.
+The term of office of each member of the Board shall be six years, except that the termsof the two members, other than the Chairman, initially appointed shall expire one upon the expiration of two years after the date of appointment, and the other upon the expiration of four years after the date of appointment. Board members shall not be appointed to succeed themselves except the initial members appointed for less than a six-year term may be reappointed for a full six-year term and future members appointed to fill unexpired terms may be reappointed for a full six-year term. Any Board member may continue to serve as such after the expiration of said member's term until a successor has qualified.
 
 #### (d) Management of Administration vested in Board; adoption of rules; quorum; report to President and Congress
 
@@ -60,7 +60,7 @@ Section 5 of act June 29, 1948 provided that the Act was to become effective on 
 
 <b>1982</b>—Subsec. (f). Pub. L. 97–320 struck out "on a calendar year basis" after "subject to audit".
 
-<b>1978</b>—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest the management of the National Credit Union Administration in the National Credit Union Administration Board.
+<b>1978</b>—Pub. L. 95–630 generally revised section to eliminate the position of Administrator and to vest themanagement of the National Credit Union Administration in the National Credit Union Administration Board.
 
 <b>1970</b>—Pub. L. 91–206 designated existing provisions as subsec. (a), substituted provisions establishing an independent agency known as the National Credit Union Administration and an Administrator of such National Credit Union Administration for provisions establishing a Bureau of Federal Credit Unions under the supervision of a Director, which Director was appointed by, and, under the general direction and supervision of, the Secretary of Health, Education, and Welfare, and added subsecs. (b) to (f).
 

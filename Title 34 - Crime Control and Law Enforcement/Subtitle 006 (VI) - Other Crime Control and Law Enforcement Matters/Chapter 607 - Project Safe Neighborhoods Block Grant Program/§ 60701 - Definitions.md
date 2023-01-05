@@ -10,3 +10,9 @@ For the purposes of this chapter—
 
 (Pub. L. 115–185, §2, June 18, 2018, 132 Stat. 1485.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of Pub. L. 115–185, which is classified to this chapter, as the "Project Safe Neighborhoods Grant Program Authorization Act of 2018", see section 1 of Pub. L. 115–185, set out as a Short Title of 2018 Amendment note under section 10101 of this title.
+

@@ -20,7 +20,7 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 #### Repeals
 
-Section 709 of Pub. L. 87–195, cited as a credit to this section, was repealed by section 401 of Pub. L. 87–565,pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 709 affected this section.
+Section 709 of Pub. L. 87–195, cited as a credit to this section, was repealed by section 401 of Pub. L. 87–565, pt. IV, Aug. 1, 1962, 76 Stat. 263, except insofar as section 709 affected this section.
 
 Section 544(b) of act Aug. 26, 1954, cited as a credit to this section, was repealed by Pub. L. 85–477, ch. IV, §401(h), June 30, 1958, 72 Stat. 270, except insofar as such section 544(b) affected this section.
 

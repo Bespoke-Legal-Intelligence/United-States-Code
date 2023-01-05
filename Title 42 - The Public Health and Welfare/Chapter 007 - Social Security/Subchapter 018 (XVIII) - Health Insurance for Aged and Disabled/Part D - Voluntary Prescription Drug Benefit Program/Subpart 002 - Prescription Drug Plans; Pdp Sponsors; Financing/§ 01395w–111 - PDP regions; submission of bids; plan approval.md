@@ -18,7 +18,7 @@
 
 #### (C) Authority for territories
 
-&emsp;&emsp;The Secretary shall establish, and may revise, PDP regions for areas in States that are not within the 50 States or the District of Columbia.
+&emsp;&emsp;The Secretary shall establish, and may revise, PDP regions for areas in States thatare not within the 50 States or the District of Columbia.
 
 #### (3) National plan
 
@@ -296,7 +296,7 @@
 
 #### (6) Monthly beneficiary premium
 
-&emsp;Except as provided in section 1395w–113(b) of this title (relating to late enrollment penalty) and subject to section 1395w–114 of this title (relating to low-income assistance), themonthly beneficiary premium to be charged under a fallback prescription drug plan offered in all fallback service areas in a PDP region shall be uniform and shall be equal to 25.5 percent of an amount equal to the Secretary's estimate of the average monthly per capita actuarial cost, including administrative expenses, under the fallback prescription drug plan of providing coverage in the region, as calculated by the Chief Actuary of the Centers for Medicare \& Medicaid Services. In calculating such administrative expenses, the Chief Actuary shall use a factor that is based on similar expenses of prescription drug plans that are not fallback prescription drug plans.
+&emsp;Except as provided in section 1395w–113(b) of this title (relating to late enrollment penalty) and subject to section 1395w–114 of this title (relating to low-income assistance), the monthly beneficiary premium to be charged under a fallback prescription drug plan offered in all fallback service areas in a PDP region shall be uniform and shall be equal to 25.5 percent (or, for 2030 and each subsequent year, the percent specified under section 1395w–113(a)(9) of this title) of an amount equal to the Secretary's estimate of the average monthly per capita actuarial cost, including administrative expenses, under the fallback prescription drug plan of providing coverage in the region, as calculated by the Chief Actuary of the Centers for Medicare \& Medicaid Services. In calculating such administrative expenses, the Chief Actuary shall use a factor that is based on similar expenses of prescription drug plans that are not fallback prescription drug plans.
 
 #### (7) General contract terms and conditions
 
@@ -326,27 +326,37 @@ The Secretary shall submit to Congress an annual report that describes instances
 
 In order to promote competition under this part and in carrying out this part, the Secretary—
 
-&emsp;(1) may not interfere with the negotiations between drug manufacturers and pharmacies and PDP sponsors; and
+&emsp;(1) may not interfere with the negotiations between drug manufacturers and pharmacies and PDP sponsors;
 
-&emsp;(2) may not require a particular formulary or institute a price structure for the reimbursement of covered part D drugs.
+&emsp;(2) may not require a particular formulary, except as provided under section 1395w–104(b)(3)(l) <sup>4</sup> of this title; and
+
+&emsp;(3) may not institute a price structure for the reimbursement of covered part D drugs, except as provided under part E of subchapter XI.
 
 #### (j) Coordination of benefits
 
 A PDP sponsor offering a prescription drug plan shall permit State Pharmaceutical Assistance Programs and Rx plans under sections 1395w–133 and 1395w–134 of this title to coordinate benefits with the plan and, in connection with such coordination with such a Program, not to impose fees that are unrelated to the cost of coordination.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–11, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2092; amended Pub. L. 111–148, title III, §3209(b), Mar. 23, 2010, 124 Stat. 460.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–11, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2092; amended Pub. L. 111–148, title III, §3209(b), Mar. 23, 2010, 124 Stat. 460; Pub. L. 117–169, title I, §§11001(b)(1)(C), 11201(d)(3)(B), Aug. 16, 2022, 136 Stat. 1852, 1890.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 1395w–115(e)(2)(B)(iii) of this title, referred to in subsec. (b)(2)(E)(ii)(I), was in the original "section 1869D–15(e)(2)(B)(iii)", and was translated as reading "section 1860D–15(e)(2)(B)(iii)", meaning 1860D–15(e)(2)(B)(iii) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1869D–15 and section 1395w–115(e)(2)(B)(iii) of this title provides for an application of a higher percentage for years 2006 and 2007.
+Section 1395w–115(e)(2)(B)(iii) of this title, referred to in subsec. (b)(2)(E)(ii)(I), was in the original "section 1869D–15(e)(2)(B)(iii)", and was translated as reading "section 1860D–15(e)(2)(B)(iii)", meaning 1860D–15(e)(2)(B)(iii) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1869D–15and section 1395w–115(e)(2)(B)(iii) of this title provides for an application of a higher percentage for years 2006 and 2007.
 
 #### Codification
 
 In subsec. (g)(1)(B)(iii), "section 132 of title 41" substituted for "section 4(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(5))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g)(6). Pub. L. 117–169, §11201(d)(3)(B), inserted "(or, for 2030 and each subsequent year, the percent specified under section 1395w–113(a)(9) of this title)" after "25.5 percent".
+
+Subsec. (i)(1). Pub. L. 117–169, §11001(b)(1)(C)(i), struck out "and" at end.
+
+Subsec. (i)(2). Pub. L. 117–169, §11001(b)(1)(C)(ii), substituted ", except as provided under section 1395w–104(b)(3)(l) of this title; and" for "or institute a price structure for the reimbursement of covered part D drugs."
+
+Subsec. (i)(3). Pub. L. 117–169, §11001(b)(1)(C)(iii), added par. (3).
 
 <b>2010</b>—Subsec. (d)(3). Pub. L. 111–148 added par. (3).
 
@@ -383,4 +393,6 @@ Report and recommendations.—Not later than January 1, 2009, the Secretary shal
 <i><sup>2</sup></i><i> So in original. Probably should be "(v)".</i>
 
 <i><sup>3</sup></i><i> So in original.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be "(b)(3)(I)".</i>
 

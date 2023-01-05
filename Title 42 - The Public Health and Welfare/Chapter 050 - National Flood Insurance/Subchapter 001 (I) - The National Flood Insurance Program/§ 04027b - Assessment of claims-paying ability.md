@@ -10,7 +10,7 @@
 
 #### (ii) Private market reinsurance
 
-&emsp;&emsp;The assessment under this paragraph for any year in which the Administrator exercises the authority under section 4055(a)(2) of this title, as added by this section,<sup>1</sup> to securereinsurance of coverage provided by the National Flood Insurance Program from the private market shall include information relating the use of private sector reinsurance and reinsurance equivalents by the Administrator, whether or not the Administrator used the borrowing authority under section 4016 of this title.
+&emsp;&emsp;The assessment under this paragraph for any year in which the Administrator exercises the authority under section 4055(a)(2) of this title, as added by this section,<sup>1</sup> to secure reinsurance of coverage provided by the National Flood Insurance Program from the private market shall include information relating the use of private sector reinsurance and reinsurance equivalents by the Administrator, whether or not the Administrator used the borrowing authority under section 4016 of this title.
 
 #### (iii) First assessment
 

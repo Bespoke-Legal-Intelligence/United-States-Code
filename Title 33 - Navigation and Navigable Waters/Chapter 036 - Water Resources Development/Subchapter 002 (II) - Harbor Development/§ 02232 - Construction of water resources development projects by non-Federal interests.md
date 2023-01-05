@@ -132,7 +132,7 @@ In this section, the term "water resources development project" means a project 
 
 #### (B) Determination
 
-&emsp;&emsp;Credit or reimbursement may not be made available to a non-Federal interest pursuantto this paragraph until the Secretary determines that—
+&emsp;&emsp;Credit or reimbursement may not be made available to a non-Federal interest pursuant to this paragraph until the Secretary determines that—
 
 &emsp;&emsp;&emsp;(i) the construction of the discrete segment for which credit or reimbursement is requested is complete; and
 
@@ -278,7 +278,7 @@ Requirements.—For each project authorized to begin preconstruction engineering
 
 "(d)
 
-Secretary Review of Potential Adverse Impacts.—When reviewing the feasibility study and the environmental impact statement for a project under subsection (b), the Secretary shall follow current USACE Policy, Regulations, and Guidance, to assess potential adverse downstream impacts to the Pearl River Basin. Upon completion of the Secretary's determination under subsection (b), the non-Federal sponsor shall design the project in a manner that addresses any potential adverse impacts or that provides mitigation in accordance with section 906 of the Water Resources Development Act of 1986 (33 U.S.C. 2283).
+Secretary Review of Potential Adverse Impacts.—When reviewing the feasibility study and the environmental impact statement for a project under subsection (b), the Secretary shall follow current USACE Policy, Regulations, and Guidance, to assesspotential adverse downstream impacts to the Pearl River Basin. Upon completion of the Secretary's determination under subsection (b), the non-Federal sponsor shall design the project in a manner that addresses any potential adverse impacts or that provides mitigation in accordance with section 906 of the Water Resources Development Act of 1986 (33 U.S.C. 2283).
 
 "(e)
 
@@ -298,7 +298,7 @@ Pub. L. 114–322, title I, §1102, Dec. 16, 2016, 130 Stat. 1633, provided that
 
 #### Operation and Maintenance of Certain Projects
 
-Pub. L. 113–121, title I, §1016, June 10, 2014, 128 Stat. 1223, provided that: "The Secretary \[of the Army\] mayassume responsibility for operation and maintenance in accordance with section 101(b) of the Water Resources Development Act of 1986 (33 U.S.C. 2211(b)) (as amended by section 2102(b)) for improvements to a federally authorized harbor or inland harbor that are carried out by a non-Federal interest prior to December 31, 2014, if the Secretary determines that the requirements under paragraphs (2) and (3) of section 204(f) of the Water Resources Development Act of 1986 (33 U.S.C. 2232(f)) are met."
+Pub. L. 113–121, title I, §1016, June 10, 2014, 128 Stat. 1223, provided that: "The Secretary \[of the Army\] may assume responsibility for operation and maintenance in accordance with section 101(b) of the Water Resources Development Act of 1986 (33 U.S.C. 2211(b)) (as amended by section 2102(b)) for improvements to a federally authorized harbor or inland harbor that are carried out by a non-Federal interest prior to December 31, 2014, if the Secretary determines that the requirements under paragraphs (2) and (3) of section 204(f) of the Water Resources Development Act of 1986 (33 U.S.C. 2232(f)) are met."
 
 #### Demonstration of Construction of Federal Project by Non-Federal Interests
 

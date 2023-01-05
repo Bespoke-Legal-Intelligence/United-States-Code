@@ -52,7 +52,7 @@ Before initiation of construction of a project to which this section applies, th
 
 &emsp;(1) provide to the Federal Government lands, easements, and rights-of-way, including those necessary for dredged material disposal facilities, and perform the necessary relocations required for construction, operation, and maintenance of such project;
 
-&emsp;(2) hold and save the United States free from damages due to the construction or operationand maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors;
+&emsp;(2) hold and save the United States free from damages due to the construction or operation and maintenance of the project, except for damages due to the fault or negligence of the United States or its contractors;
 
 &emsp;(3) provide to the Federal Government the non-Federal share of all other costs of construction of such project; and
 
@@ -142,7 +142,7 @@ Pub. L. 104–303, title II, §201(f), Oct. 12, 1996, 110 Stat. 3673, provided t
 
 #### Increases in Non-Federal Share of Costs
 
-Pub. L. 104–303, title II, §201(g), Oct. 12, 1996, 110 Stat. 3673, provided that: "Nothing in this section \[amendingthis section and section 2241 of this title and enacting provisions set out above\] (including the amendments made by this section) shall increase, or result in the increase of, the non-Federal share of the costs of—
+Pub. L. 104–303, title II, §201(g), Oct. 12, 1996, 110 Stat. 3673, provided that: "Nothing in this section \[amending this section and section 2241 of this title and enacting provisions set out above\] (including the amendments made by this section) shall increase, or result in the increase of, the non-Federal share of the costs of—
 
 &emsp;"(1) expanding any confined dredged material disposal facility that is operated by the Secretary and that is authorized for cost recovery through the collection of tolls;
 

@@ -10,7 +10,7 @@ Whenever the President determines it to be consistent with and in furtherance of
 
 #### (b) Agency contracts with individuals to perform services
 
-When any agency of the United States Government provides services on an advance-of-funds or reimbursable basis under this section, such agency may contract with individuals for personal service abroad or in the United States to perform such services or to replace officers or employees of the United States Government who are assigned by the agency to provide such services. Such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Director of the Office of Personnel Management.
+When any agency of the United States Government provides services on an advance-of-funds or reimbursable basis under this section, such agency may contract with individuals for personal service abroad or in the United States to perform such services or to replace officers oremployees of the United States Government who are assigned by the agency to provide such services. Such individuals shall not be regarded as employees of the United States Government for the purpose of any law administered by the Director of the Office of Personnel Management.
 
 #### (c) Excess property
 
@@ -40,7 +40,7 @@ The Secretary of State, acting through the Assistant Secretary of State for Ocea
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Regulations
 
-Pub. L. 95–88, title I, §122(b), Aug. 3, 1977, 91 Stat. 541, provided that: "For purposes of implementing the amendment made by subsection (a) \[amending this section\], the President shall issue regulations governing registration with and approval by the Advisory Committee on Voluntary Foreign Aid of foreign voluntary nonprofit agencies."
+Pub. L. 95–88, title I, §122(b), Aug. 3, 1977, 91 Stat. 541, provided that: "For purposes of implementing theamendment made by subsection (a) \[amending this section\], the President shall issue regulations governing registration with and approval by the Advisory Committee on Voluntary Foreign Aid of foreign voluntary nonprofit agencies."
 
 #### Authority of Secretary of State
 
@@ -88,7 +88,7 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### <b>Executive Documents</b>
 
@@ -108,7 +108,7 @@ Memorandum for the Secretary of State \[and\] the Administrator of the Agency fo
 
 By virtue of the authority vested in me by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate as follows certain authorities vested in the President:
 
-(A) the functions under section 607 of the Foreign Assistance Act of 1961, as amended (FAA) \[22 U.S.C. 2357\], to the Secretary of State and to the Administrator ofthe Agency for International Development, respectively, for matters within their respective areas of responsibility; and
+(A) the functions under section 607 of the Foreign Assistance Act of 1961, as amended (FAA) \[22 U.S.C. 2357\], to the Secretary of State and to the Administrator of the Agency for International Development, respectively, for matters within their respective areas of responsibility; and
 
 (B) the functions in the first proviso under the heading "Population, Development Assistance," contained in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1995 (Public Law 103–306) \[108 Stat. 1611\], and in comparable provisions in successor legislation, to the Secretary of State relating to those organizations and programs for which the Secretary of State has funding responsibility.
 

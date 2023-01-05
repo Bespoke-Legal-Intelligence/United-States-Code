@@ -8,43 +8,55 @@
 
 #### (i) General requirements
 
-&emsp;&emsp;&emsp;Beginning with fiscal year 2018, for each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives annual reports concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
+&emsp;&emsp;&emsp;Beginning with fiscal year 2023, for each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives annual reports concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals.
 
 #### (ii) Additional information
 
-&emsp;&emsp;&emsp;Beginning with fiscal year 2018, the annual report under this subparagraph shall include the progress of the Center for Devices and Radiological Health in achieving the goals, and future plans for meeting the goals, including—
+&emsp;&emsp;&emsp;Beginning with fiscal year 2023, the annual report under this subparagraph shall include the progress of the Center for Devices and Radiological Health in achieving the goals, and future plans for meeting the goals, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) the number of premarket applications filed under section 360e of this title per fiscal year for each review division;
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of reports submitted under section 360(k) of this title per fiscal year for each review division; and
+&emsp;&emsp;&emsp;&emsp;(II) the number of reports submitted under section 360(k) of this title per fiscal year for each review division;
 
-&emsp;&emsp;&emsp;&emsp;(III) the number of expedited development and priority review designations under section 360e–3 <sup>1</sup> of this title per fiscal year.
+&emsp;&emsp;&emsp;&emsp;(III) the number of expedited development and priority review designations under section 360e–3 <sup>1</sup> of this title per fiscal year;
+
+&emsp;&emsp;&emsp;&emsp;(IV) the number of investigational device exemption applications submitted under section 360j(g) of this title per fiscal year, including for each review division; and
+
+&emsp;&emsp;&emsp;&emsp;(V) the number of expedited development and priority review requests anddesignations under section 360e–3 of this title per fiscal year, including for each review division.
+
+&emsp;&emsp;&nbsp;Nothing in this clause shall be construed to authorize the disclosure of information that is prohibited from disclosure under section 331(j) of this title or section 1905 of title 18 or that is subject to withholding under section 552(b)(4) of title 5.
 
 #### (iii) Real time reporting
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subclause (II) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basis for such fiscal year, and may remove duplicative data from the annual report under this subparagraph.
+&emsp;&emsp;&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2023, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subclause (II) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basis for such fiscal year, and may remove duplicative data from the annual report under this subparagraph.
 
 #### (II) Data
 
 &emsp;&emsp;&emsp;&emsp;The Secretary shall post the following data in accordance with subclause (I):
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) The number and titles of draft and final guidance on topics related to the process for the review of devices, and whether such guidances were issued as required by statute or pursuant to the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) The number and titles of draft and final guidance on topics related to the process for the review of devices, and whether such guidances were issued as required by statute or pursuant to the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) The number and titles of public meetings held on topics related to the process for the review of devices, and if such meetings were required by statute or pursuant to a commitment under the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) The number and titles of public meetings held on topics related to the process for the review of devices, and if such meetings were required by statute or pursuant to a commitment under the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022.
 
-#### (iv) <sup>2</sup> Rationale for MDUFA program changes
+#### (iv) Rationale for MDUFA program changes
 
-&emsp;&emsp;&emsp;Beginning with fiscal year 2020, the Secretary shall include in the annual report under paragraph (1)—
+&emsp;&emsp;&emsp;Beginning with fiscal year 2023, the Secretary shall include in the annual report under paragraph (1)—
 
-&emsp;&emsp;&emsp;&emsp;(I) data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Devices and Radiological Health, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
+&emsp;&emsp;&emsp;&emsp;(I) data, analysis, and discussion of the changes in the number of individuals hired as agreed upon in the letters described in section 2001(b) of the Medical Device User Fee Amendments of 2022 and the number of remaining vacancies, the number of full-time equivalents funded by fees collected pursuant to section 379j of this title, and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Devices and Radiological Health, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;
 
-&emsp;&emsp;&emsp;&emsp;(II) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of devices, including identifying drivers of such changes; and
+&emsp;&emsp;&emsp;&emsp;(II) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of device applications, including identifying—
 
-&emsp;&emsp;&emsp;&emsp;(III) for each of the Center for Devices and Radiological Health, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) drivers of such changes; and
 
-#### (iv) <sup>2</sup> Analysis
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) changes in the average total cost per full-time equivalent in the medical device review program;
+
+&emsp;&emsp;&emsp;&emsp;(III) for each of the Center for Devices and Radiological Health, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) data, analysis, and discussion of the changes in the average full-time equivalent hours required to complete review of medical device application types.
+
+#### (v) Analysis
 
 &emsp;&emsp;&emsp;For each fiscal year, the Secretary shall include in the report under clause (i) an analysis of the following:
 
@@ -52,15 +64,15 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the number of applications filed and reports submitted during one fiscal year for which a decision is not scheduled to be made until the following fiscal year; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the aggregate number of applications for each fiscal year that did not meet the goals as identified by the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017 for the applicable fiscal year.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the aggregate number of applications for each fiscal year that did not meet the goals as identified by the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022 for the applicable fiscal year.
 
-&emsp;&emsp;&emsp;&emsp;(II) Relevant data to determine whether the Center for Devices and Radiological Health has met performance enhancement goals identified by the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017 for the applicable fiscal year.
+&emsp;&emsp;&emsp;&emsp;(II) Relevant data to determine whether the Center for Devices and Radiological Health has met performance enhancement goals identified by the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022 for the applicable fiscal year.
 
-&emsp;&emsp;&emsp;&emsp;(III) The most common causes and trends for external or other circumstances affecting the ability of the Center for Devices and Radiological Health, the Office of Regulatory Affairs, or the Food and Drug Administration to meet review time and performance enhancement goals identified by the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017.
+&emsp;&emsp;&emsp;&emsp;(III) The most common causes and trends for external or other circumstances affecting the ability of the Center for Devices and Radiological Health, the Office of Regulatory Affairs, or the Food and Drug Administration to meet review time and performance enhancement goals identified by the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022.
 
 #### (B) Publication
 
-&emsp;&emsp;With regard to information to be reported by the Food and Drug Administration to industry on a quarterly and annual basis pursuant to the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017, the Secretary shall make such information publicly available on the Internet Web site of the Food and Drug Administration not later than 60 days after the end of each quarter or 120 days after the end of each fiscal year, respectively, to which such information applies. This information shall include the status of the independent assessment identified in the letters described in such section 201(b).
+&emsp;&emsp;With regard to information to be reported by the Food and Drug Administration to industry on a quarterly and annual basis pursuant to the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022, the Secretary shall make such information publicly available on the Internet Web site of the Food and Drug Administration not later than 60 days afterthe end of each quarter or 120 days after the end of each fiscal year, respectively, to which such information applies. This information shall include the status of the independent assessment identified in the letters described in such section 201(b).
 
 #### (C) Updates
 
@@ -68,15 +80,15 @@
 
 #### (2) Corrective action report
 
-&emsp;Beginning with fiscal year 2018, for each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
+&emsp;Beginning with fiscal year 2023, for each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit a corrective action report to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives and the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate. The report shall include the following information, as applicable:
 
 #### (A) Goals met
 
-&emsp;&emsp;For each fiscal year, if the Secretary determines, based on the analysis under paragraph (1)(A)(iv), that each of the goals identified by the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the medical device application review process.
+&emsp;&emsp;For each fiscal year, if the Secretary determines, based on the analysis under paragraph (1)(A)(iv), that each of the goals identified by the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022 for the applicable fiscal year have been met, the corrective action report shall include recommendations on ways in which the Secretary can improve and streamline the medical device application review process.
 
 #### (B) Goals missed
 
-&emsp;&emsp;For each of the goals identified by the letters described in section 201(b) of the Medical Device User Fee Amendments of 2017 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
+&emsp;&emsp;For each of the goals identified by the letters described in section 201(b) <sup>1</sup> of the Medical Device User Fee Amendments of 2022 for the applicable fiscal year that the Secretary determines to not have been met, the corrective action report shall include—
 
 &emsp;&emsp;&emsp;(i) a justification for such determination;
 
@@ -84,7 +96,7 @@
 
 &emsp;&emsp;&emsp;(iii) a summary and any trends with regard to the circumstances for which a review goal was missed; and
 
-&emsp;&emsp;&emsp;(iv) the performance enhancement goals that were not achieved during the previous fiscal year and a description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such <sup>3</sup> fiscal year.
+&emsp;&emsp;&emsp;(iv) the performance enhancement goals that were not achieved during the previous fiscal year and a description of efforts the Food and Drug Administration has put in place for the fiscal year in which the report is submitted to improve the ability of such agency to meet each such goal for the such <sup>2</sup> fiscal year.
 
 #### (3) Enhanced communication
 
@@ -98,17 +110,17 @@
 
 #### (4) Fiscal report
 
-&emsp;For fiscal years 2018 through 2022, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
+&emsp;For fiscal years 2023 through 2027, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
 
 #### (5) Public availability
 
-&emsp;The Secretary shall make the reports required under paragraphs (1) and (2) availableto the public on the Internet Web site of the Food and Drug Administration.
+&emsp;The Secretary shall make the reports required under paragraphs (1) and (2) available to the public on the Internet Web site of the Food and Drug Administration.
 
 #### (b) Reauthorization
 
 #### (1) Consultation
 
-&emsp;In developing recommendations to present to Congress with respect to the goals, and plans for meeting the goals, for the process for the review of device applications for the first 5 fiscal years after fiscal year 2022, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+&emsp;In developing recommendations to present to Congress with respect to the goals, and plans for meeting the goals, for the process for the review of device applications for the first 5 fiscal years after fiscal year 2027, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
 &emsp;&emsp;(A) the Committee on Energy and Commerce of the House of Representatives;
 
@@ -138,7 +150,11 @@
 
 &emsp;Not less frequently than once every month during negotiations with the regulated industry, the Secretary shall hold discussions with representatives of patient and consumer advocacy groups to continue discussions of their views on the reauthorization and their suggestions for changes to this subpart as expressed under paragraph (2).
 
-#### (4) Public review of recommendations
+#### (4) Updates to Congress
+
+&emsp;The Secretary, in consultation with regulated industry, shall provide regular updates on negotiations on the reauthorization of this part to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+
+#### (5) Public review of recommendations
 
 &emsp;After negotiations with the regulated industry, the Secretary shall—
 
@@ -152,35 +168,69 @@
 
 &emsp;&emsp;(E) after consideration of such public views and comments, revise such recommendations as necessary.
 
-#### (5) Transmittal of recommendations
+#### (6) Transmittal of recommendations
 
-&emsp;Not later than January 15, 2022, the Secretary shall transmit to Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+&emsp;Not later than January 15, 2027, the Secretary shall transmit to Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
 
-#### (6) Minutes of negotiation meetings
+#### (7) Minutes of negotiation meetings
 
 #### (A) Public availability
 
-&emsp;&emsp;Before presenting the recommendations developed under paragraphs (1) through (5) to the Congress, the Secretary shall make publicly available, on the public Web site of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the regulated industry.
+&emsp;&emsp;The Secretary shall make publicly available, on the public Web site of the Food and Drug Administration, minutes of all negotiation meetings conducted under this subsection between the Food and Drug Administration and the regulated industry, not later than 30 days after each such negotiation meeting.
 
 #### (B) Content
 
-&emsp;&emsp;The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
+&emsp;&emsp;The minutes described under subparagraph (A) shall summarize, in sufficient detail, any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
-(June 25, 1938, ch. 675, §738A, as added Pub. L. 110–85, title II, §213, Sept. 27, 2007, 121 Stat. 850; amended Pub. L. 112–144, title II, §204, July 9, 2012, 126 Stat. 1006; Pub. L. 115–52, title II, §204, title IX, §§903(b), 904(b), Aug. 18, 2017, 131 Stat. 1016, 1078, 1083.)
+(June 25, 1938, ch. 675, §738A, as added Pub. L. 110–85, title II, §213, Sept. 27, 2007, 121 Stat. 850; amended Pub. L. 112–144, title II, §204, July 9, 2012, 126 Stat. 1006; Pub. L. 115–52, title II, §204, title IX, §§903(b), 904(b), Aug. 18, 2017, 131 Stat. 1016, 1078, 1083; Pub. L. 117–180, div. F, title II, §2004, Sept. 30, 2022, 136 Stat. 2153; Pub. L. 117–328, div. FF, title III, §3626(b), Dec. 29, 2022, 136 Stat. 5884.)
 
 #### Termination of Section
 
-<i>For termination of section by section 210(b) of Pub. L. 115–52, see Effective and Termination Dates note below.</i>
+<i>For termination of section by section 2007(b) of Pub. L. 117–180, see Effective and Termination Dates note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 201(b) of the Medical Device User Fee Amendments of 2017, referred to in subsec. (a)(1)(A), (B), (2), is section 201(b) of Pub. L. 115–52, which is set out as a note under section 379i of this title.
+Section 201(b) of the Medical Device User Fee Amendments of 2022, referred to in subsec. (a)(1)(A), (B), (2), probably should be a reference to section 2001(b) of the Medical Device User Fee Amendments of 2022, title II of div. F of Pub. L. 117–180, which is set out as a note under section 379i of this title. The Medical Device User Fee Amendments of 2022 does not contain a section 201(b).
 
 Section 360e–3 of this title, referred to in subsec. (a)(1)(A)(ii)(III), was in the original a reference to section 515C of act June 25, 1938, which was renumbered section 515B by Pub. L. 115–52, title IX, §901(f)(2), Aug. 18, 2017, 131 Stat. 1077.
 
+Section 2001(b) of the Medical Device User Fee Amendments of 2022, referred to in subsec. (a)(1)(A)(iv)(I), is section 2001(b) of title II of div. F of Pub. L. 117–180, which is set out as a note under section 379i of this title.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–180, §2004(a)(1), (2), substituted "fiscal year 2023" for "fiscal year 2018" and "Medical Device User Fee Amendments of 2022" for "Medical Device User Fee Amendments of 2017" wherever appearing.
+
+Subsec. (a)(1)(A)(ii). Pub. L. 117–328, §3626(b)(1)(A)(iii), inserted concluding provisions.
+
+Subsec. (a)(1)(A)(ii)(IV), (V). Pub. L. 117–328, §3626(b)(1)(A), added subcls. (IV) and (V).
+
+Subsec. (a)(1)(A)(iv). Pub. L. 117–180, §2004(a)(3)(B), substituted "fiscal year 2023" for "fiscal year 2020" in introductory provisions of cl. (iv) relating to rationale for MDUFA program changes.
+
+Subsec. (a)(1)(A)(iv)(I). Pub. L. 117–328, §3626(b)(1)(B)(i), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "data, analysis, and discussion of the changes in the number of full-time equivalents hired as agreed upon in the letters described in section 201(b) of the Medical Device User Fee Amendments of 2022 and the number of full time equivalents funded by budget authority at the Food and Drug Administration by each division within the Center for Devices and Radiological Health, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner;".
+
+Subsec. (a)(1)(A)(iv)(II). Pub. L. 117–328, §3626(b)(1)(B)(ii), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of devices, including identifying drivers of such changes; and".
+
+Subsec. (a)(1)(A)(iv)(IV). Pub. L. 117–328, §3626(b)(1)(B)(iii), (iv), added subcl. (IV).
+
+Subsec. (a)(1)(A)(v). Pub. L. 117–180, §2004(a)(3)(A), redesignated cl. (iv) relating to analysis to be included in report as (v).
+
+Subsec. (a)(4). Pub. L. 117–180, §2004(a)(4), substituted "2023 through 2027" for "2018 through 2022".
+
+Subsec. (b)(1). Pub. L. 117–180, §2004(b)(1), substituted "2027" for "2022" in introductory provisions.
+
+Subsec. (b)(4). Pub. L. 117–328, §3626(b)(2)(B), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (b)(5). Pub. L. 117–328, §3626(b)(2)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Pub. L. 117–180, §2004(b)(2), substituted "2027" for "2022".
+
+Subsec. (b)(6), (7). Pub. L. 117–328, §3626(b)(2)(A), redesignated pars. (5) and (6) as (6) and (7), respectively.
+
+Subsec. (b)(7)(A). Pub. L. 117–328, §3626(b)(2)(C)(i), substituted "The" for "Before presenting the recommendations developed under paragraphs (1) through (5) to the Congress, the" and inserted ", not later than 30 days after each such negotiation meeting" before period at end.
+
+Subsec. (b)(7)(B). Pub. L. 117–328, §3626(b)(2)(C)(ii), inserted ", in sufficient detail," after "shall summarize".
 
 <b>2017</b>—Subsec. (a)(1)(A). Pub. L. 115–52, §903(b), designated existing provisions as cl. (i), inserted heading, and added cls. (ii), (iii), and (iv) related to rationale for MDUFA program changes.
 
@@ -212,6 +262,10 @@ Subsec. (b)(5). Pub. L. 112–144, §204(a)(2), substituted "2017" for "2012".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–180 effective Oct. 1, 2022, with fees under this subpart to be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2022, see section 2008 of Pub. L. 117–180, set out as a note under section 360d of this title.
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 204 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
@@ -222,13 +276,15 @@ Amendment by Pub. L. 112–144 effective Oct. 1, 2012, with fees under this subp
 
 #### Effective and Termination Dates
 
-Pub. L. 115–52, title II, §210(b), Aug. 18, 2017, 131 Stat. 1020, provided that: "Section 738A (21 U.S.C. 739j–1 \[379j–1\]) of the Federal Food, Drug, and Cosmetic Act (regarding reauthorization and reporting requirements) shall cease to be effective January 31, 2023."
+Pub. L. 117–180, div. F, title II, §2007(b), Sept. 30, 2022, 136 Stat. 2154, provided that: "Section 738A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–1) shall cease to be effective January 31, 2028."
+
+Pub. L. 115–52, title II, §210(b), Aug. 18, 2017, 131 Stat. 1020, which provided that this section would cease to be effective January 31, 2023, was repealed by Pub. L. 117–180, div. F, title II, §2007(c), Sept. 30, 2022, 136 Stat. 2154.
+
+\[Pub. L. 117–180, div. F, title II, §2007(c), Sept. 30, 2022, 136 Stat. 2154, provided that the repeal of section 210(b) of Pub. L. 115–52, formerly set out above, is effective Oct. 1, 2022.\]
 
 Section effective Oct. 1, 2007, except for certain premarket fees under this subpart, see section 216 of Pub. L. 110–85, set out as an Effective and Termination Dates of 2007 Amendment note under section 379i of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Two cls. (iv) have been enacted.</i>
-
-<i><sup>3</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> So in original.</i>
 

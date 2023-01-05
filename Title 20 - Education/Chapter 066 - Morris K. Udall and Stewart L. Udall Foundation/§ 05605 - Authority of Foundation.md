@@ -34,7 +34,7 @@
 
 #### (2) Scholarships
 
-&emsp;(A) Scholarships shall be awarded to outstanding undergraduate students who intendto pursue careers related to the environment and to outstanding Native American and Alaska Native undergraduate students who intend to pursue careers in health care and tribal public policy.
+&emsp;(A) Scholarships shall be awarded to outstanding undergraduate students who intend to pursue careers related to the environment and to outstanding Native American and Alaska Native undergraduate students who intend to pursue careers in health care and tribal public policy.
 
 &emsp;(B) An eligible individual awarded a scholarship under this chapter may receive payments under this chapter only during such periods as the Foundation finds that the eligible individual is maintaining satisfactory proficiency and devoting full time to study or research and is not engaging in gainful employment other than employment approved by the Foundation pursuant to regulations of the Board.
 

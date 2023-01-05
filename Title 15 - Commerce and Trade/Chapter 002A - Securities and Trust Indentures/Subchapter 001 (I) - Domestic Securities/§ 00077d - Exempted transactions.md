@@ -12,7 +12,7 @@ The provisions of section 77e of this title shall not apply to—
 
 &emsp;&emsp;(A) transactions taking place prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter,
 
-&emsp;&emsp;(B) transactions in a security as to which a registration statement has been filed taking place prior to the expiration of forty days after the effective date of such registration statement or prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter after such effective date, whichever is later (excluding in the computation of such forty days any time during which a stop order issued under section 77h of this title is in effect as to the security), or such shorter period as the Commission may specify by rules and regulations or order, and
+&emsp;&emsp;(B) transactions in a security as to which a registration statement has been filed taking place prior to the expiration of fortydays after the effective date of such registration statement or prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter after such effective date, whichever is later (excluding in the computation of such forty days any time during which a stop order issued under section 77h of this title is in effect as to the security), or such shorter period as the Commission may specify by rules and regulations or order, and
 
 &emsp;&emsp;(C) transactions as to securities constituting the whole or a part of an unsold allotment to or subscription by such dealer as a participant in the distribution of such securities by the issuer or by or through an underwriter.
 
@@ -64,7 +64,7 @@ Offers and sales exempt under section 230.506 of title 17, Code of Federal Regul
 
 &emsp;(A) the provision of due diligence services, in connection with the offer, sale, purchase, or negotiation of such security, so long as such services do not include, for separate compensation, investment advice or recommendations to issuers or investors; and
 
-&emsp;(B) the provision of standardized documents to the issuers and investors, so long as such person or entity does not negotiate the terms of the issuance for and on behalf of third parties and issuers are not required to use the standardized documents as a condition of using the service.
+&emsp;(B) the provision of standardized documents to the issuers and investors, so long as such person or entity does not negotiate the terms of the issuance for and on behalf of third parties and issuers are not required to use thestandardized documents as a condition of using the service.
 
 #### (d) Certain accredited investor transactions
 

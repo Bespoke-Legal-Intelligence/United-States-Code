@@ -20,7 +20,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 (f) The term "municipal installation" includes, without limitation, schools, hospitals, police and fire protection systems, sewerage and refuse disposal plants, water supply and distribution installations, streets and roads, libraries, parks, playgrounds and recreational means, municipal government buildings, other properties suitable for municipal or comparable local public service purposes, and any fixtures, equivalent, or other property appropriate to the operation, maintenance or repair of the foregoing.
 
-(g) The term "occupant" means a person who, on the date on which the property in question is first offered for sale, is entitled to residentialoccupancy of the Government-owned house in question, or of a family dwelling unit in such house, in accordance with a lease or license agreement with the Commission or its property-management contractor.
+(g) The term "occupant" means a person who, on the date on which the property in question is first offered for sale, is entitled to residential occupancy of the Government-owned house in question, or of a family dwelling unit in such house, in accordance with a lease or license agreement with the Commission or its property-management contractor.
 
 (h) The term "offering date" means the date the property in question is offered for sale.
 
@@ -40,7 +40,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 &emsp;(1) an occupant in a residential unit designated for sale at the community, or
 
-&emsp;(2) a project-connected person who is entitled, in accordance with a lease or similar agreement, to residential occupancy of privately owned rental housing in the community.
+&emsp;(2) a project-connected person who is entitled, in accordance with a lease or similaragreement, to residential occupancy of privately owned rental housing in the community.
 
 (l) The term "utility" means any electrical distribution system, any natural gas distribution system, any public transportation system, or any public communication system, and any fixtures, equipment, or other property appropriate to the operation, maintenance or repair of the foregoing.
 

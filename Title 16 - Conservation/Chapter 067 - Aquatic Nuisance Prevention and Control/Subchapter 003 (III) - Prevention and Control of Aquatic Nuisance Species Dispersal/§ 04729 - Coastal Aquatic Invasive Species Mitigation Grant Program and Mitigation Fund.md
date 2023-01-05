@@ -116,7 +116,7 @@
 
 #### (i) Appropriation
 
-&emsp;&emsp;&emsp;There is authorized to be appropriated from the Treasury to the Fund, for each fiscal year, an amount equal to the amount of penalties assessed for violations of subsection (p) of section 1322 of title 33 during the preceding fiscal year.
+&emsp;&emsp;&emsp;There is authorized to be appropriated from the Treasury to the Fund, for eachfiscal year, an amount equal to the amount of penalties assessed for violations of subsection (p) of section 1322 of title 33 during the preceding fiscal year.
 
 #### (ii) Additional authorization
 

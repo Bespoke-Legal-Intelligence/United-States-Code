@@ -96,7 +96,7 @@ The Council shall meet at the call of the Chairperson.
 
 #### (g) National prevention and health promotion strategy
 
-Not later than 1 year after March 23, 2010, the Chairperson, in consultation with the Council,shall develop and make public a national prevention, health promotion and public health strategy, and shall review and revise such strategy periodically. Such strategy shall—
+Not later than 1 year after March 23, 2010, the Chairperson, in consultation with the Council, shall develop and make public a national prevention, health promotion and public health strategy, and shall review and revise such strategy periodically. Such strategy shall—
 
 &emsp;(1) set specific goals and objectives for improving the health of the United States through federally-supported prevention, health promotion, and public health programs, consistent with ongoing goal setting efforts conducted by specific agencies;
 
@@ -116,7 +116,7 @@ Not later than July 1, 2010, and annually thereafter through January 1, 2015, th
 
 &emsp;(4) contains specific science-based initiatives to achieve the measurable goals of Healthy People 2020 regarding nutrition, exercise, and smoking cessation, and targeting the 5 leading disease killers in the United States;
 
-&emsp;(5) contains specific plans for consolidating Federal health programs and Centers that exist to promote healthy behavior and reduce disease risk (including eliminating programs and offices determined to be ineffective in meeting the priority goals of Healthy People 2020);
+&emsp;(5) contains specific plans for consolidating Federal health programs and Centers that exist to promote healthy behavior and reduce disease risk (including eliminating programsand offices determined to be ineffective in meeting the priority goals of Healthy People 2020);
 
 &emsp;(6) contains specific plans to ensure that all Federal health care programs are fully coordinated with science-based prevention recommendations by the Director of the Centers for Disease Control and Prevention; and
 
@@ -186,7 +186,7 @@ Sec. 3. <i>Purposes and Duties</i>. The Council shall:
 
 (a) provide coordination and leadership at the Federal level, and among all executive departments and agencies, with respect to prevention, wellness, and health promotion practices, the public health system, and integrative health care in the United States;
 
-(b) develop, after obtaining input from relevant stakeholders, a national prevention, health promotion, public health, and integrative health-care strategy thatincorporates the most effective and achievable means of improving the health status of Americans and reducing the incidence of preventable illness and disability in the United States, as further described in section 5 of this order;
+(b) develop, after obtaining input from relevant stakeholders, a national prevention, health promotion, public health, and integrative health-care strategy that incorporates the most effective and achievable means of improving the health status of Americans and reducing the incidence of preventable illness and disability in the United States, as further described in section 5 of this order;
 
 (c) provide recommendations to the President and the Congress concerning the most pressing health issues confronting the United States and changes in Federal policy to achieve national wellness, health promotion, and public health goals, including the reduction of tobacco use, sedentary behavior, and poor nutrition;
 
@@ -254,7 +254,7 @@ Sec. 7. <i>Administration.</i>
 
 Sec. 8. <i>General Provisions.</i>
 
-(a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C App.) may apply to the Advisory Group, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Health and Human Services in accordance with the guidelines that have been issued by the Administrator of General Services.
+(a) Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C App.) \[see 5 U.S.C. 1001 et seq.\] may apply to the Advisory Group, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Health and Human Services in accordance with the guidelines that have been issued by the Administrator of General Services.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -268,7 +268,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health
 
-Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2012, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2012, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 For extensions of Advisory Group after its reestablishment, see table following Ex. Ord. No. 13631, set out below.
 
@@ -292,7 +292,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health
 
-Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extension of term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health was contained in the following prior Executive Order:
 

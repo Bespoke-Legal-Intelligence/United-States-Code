@@ -8,7 +8,7 @@
 
 &emsp;(3) where the individual elects to remodel a dwelling which is not adapted to the requirements of such individual's disability, acquired by such individual prior to application for assistance under this chapter, the Secretary shall pay not to exceed (A) the cost to the individual of such remodeling; or (B) 50 percent of the cost to the individual of such remodeling; plus the smaller of the following sums: (i) 50 percent of the cost to the individual of such dwelling and the necessary land upon which it is situated, or (ii) the full amount of the unpaid balance, if any, of the cost to the individual of such dwelling and the necessary land upon which it is situated; and
 
-&emsp;(4) where the individual has acquired a suitable housing unit, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the cost to the individual of such housing unit and the necessary land upon which it is situated, or (B) the full amount of the unpaid balance, if any, of the cost to the individual of such housing unit and the necessary land upon which it is situated.
+&emsp;(4) where the individual has acquired a suitable housing unit, the Secretary shall pay not to exceed the smaller of the following sums: (A) 50 percent of the cost to the individual of such housing unit and the necessary land upon which it is situated, or (B) the full amount of the unpaid balance, if any, of the cost to theindividual of such housing unit and the necessary land upon which it is situated.
 
 (b) Except as provided in section 2104(b) of this title, the assistance authorized by section 2101(b) of this title shall be limited to the lesser of—
 

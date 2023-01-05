@@ -22,7 +22,7 @@ The Secretary may, directly or through grants or contracts, conduct research and
 
 &emsp;(9) the application of performance tests and standards across all areas of foreign language instruction and classroom use;
 
-&emsp;(10) evaluation of the extent to which programs assisted under this subchapter reflect diverse perspectives and a wide range of views and generate debate on world regions and international affairs, as described in the grantee's application;
+&emsp;(10) evaluation of the extent to which programs assisted under this subchapter reflectdiverse perspectives and a wide range of views and generate debate on world regions and international affairs, as described in the grantee's application;
 
 &emsp;(11) the systematic collection, analysis, and dissemination of data that contribute to achieving the purposes of this part; and
 

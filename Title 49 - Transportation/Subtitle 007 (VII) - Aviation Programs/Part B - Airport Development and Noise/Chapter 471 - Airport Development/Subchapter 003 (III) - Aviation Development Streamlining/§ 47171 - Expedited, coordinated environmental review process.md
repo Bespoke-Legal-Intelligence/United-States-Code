@@ -98,7 +98,7 @@ Agency report.—Not later than 30 days after date of receipt of a notice under 
 
 (j)
 
-Purpose and Need.—For any environmental review, analysis, opinion, permit, license, or approval that must be issued or madeby a Federal or State agency that is participating in a coordinated review process under this section and that requires an analysis of purpose and need for the project, the agency, notwithstanding any other provision of law, shall be bound by the project purpose and need as defined by the Secretary.
+Purpose and Need.—For any environmental review, analysis, opinion, permit, license, or approval that must be issued or made by a Federal or State agency that is participating in a coordinated review process under this section and that requires an analysis of purpose and need for the project, the agency, notwithstanding any other provision of law, shall be bound by the project purpose and need as defined by the Secretary.
 
 (k)
 
@@ -118,7 +118,7 @@ Monitoring by Task Force.—The Transportation Infrastructure Streamlining Task 
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(3)(B)(ii), and (l), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(3)(B)(ii), and (l), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 Executive Order No. 13274, referred to in subsec. (m), is set out as a note under section 301 of this title.
 

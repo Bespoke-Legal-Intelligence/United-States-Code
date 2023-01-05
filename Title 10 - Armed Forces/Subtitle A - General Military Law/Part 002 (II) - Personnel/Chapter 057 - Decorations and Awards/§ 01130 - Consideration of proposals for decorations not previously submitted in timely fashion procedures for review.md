@@ -82,7 +82,7 @@ Pub. L. 104–106, div. A, title V, §522, Feb. 10, 1996, 110 Stat. 310, provide
 
 Findings.—Congress makes the following findings:
 
-&emsp;"(1) The Ia Drang Valley (Pleiku) campaign, carried out by the Armed Forces in the Ia Drang Valley ofVietnam from October 23, 1965, to November 26, 1965, is illustrative of the many battles during the Vietnam conflict which pitted forces of the United States against North Vietnamese Army regulars and Viet Cong in vicious fighting.
+&emsp;"(1) The Ia Drang Valley (Pleiku) campaign, carried out by the Armed Forces in the Ia Drang Valley of Vietnam from October 23, 1965, to November 26, 1965, is illustrative of the many battles during the Vietnam conflict which pitted forces of the United States against North Vietnamese Army regulars and Viet Cong in vicious fighting.
 
 &emsp;"(2) Accounts of those battles that have been published since the end of that conflict authoritatively document numerous and repeated acts of extraordinary heroism, sacrifice, and bravery on the part of members of the Armed Forces, many of which have never been officially recognized.
 
@@ -98,7 +98,7 @@ Findings.—Congress makes the following findings:
 
 "(b)
 
-Waiver of Time Limitations for Recommendations for Awards.—(1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award to any person for actions by that person in the Southeast Asia theater of operations while serving on active duty during the Vietnam era. The waiver of time limitations under this paragraph applies only in the case of awards for acts of valor for which a request for consideration is submitted under subsection (c).
+Waiver of Time Limitations for Recommendations for Awards.—(1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award to any person for actions by that person in the Southeast Asia theater of operations while serving on active duty during the Vietnam era. The waiver of time limitations under this paragraph applies only in the case of awards for acts ofvalor for which a request for consideration is submitted under subsection (c).
 
 "(2) Paragraph (1) applies to any decoration (including any device in lieu of a decoration) that, during or after the Vietnam era and before the date of the enactment of this Act \[Feb. 10, 1996\], was authorized by law or under regulations of the Department of Defense or the military department concerned to be awarded to members of the Armed Forces for acts of valor.
 

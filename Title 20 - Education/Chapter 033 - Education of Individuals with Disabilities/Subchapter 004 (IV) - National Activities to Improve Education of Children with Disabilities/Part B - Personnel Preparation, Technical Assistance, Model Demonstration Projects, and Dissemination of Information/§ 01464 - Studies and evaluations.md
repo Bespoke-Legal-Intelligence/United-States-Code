@@ -76,7 +76,7 @@ The Secretary shall carry out a national study or studies to examine—
 
 &emsp;(2) the validity and reliability of alternate assessment instruments and procedures;
 
-&emsp;(3) the alignment of alternate assessments and alternative achievement standards toState academic content standards in reading, mathematics, and science; and
+&emsp;(3) the alignment of alternate assessments and alternative achievement standards to State academic content standards in reading, mathematics, and science; and
 
 &emsp;(4) the use and effectiveness of alternate assessments in appropriately measuring student progress and outcomes specific to individualized instructional need.
 
@@ -134,5 +134,5 @@ The Secretary shall study, and report to Congress regarding, the extent to which
 
 #### References in Text
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (d)(1), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part E of the Act is classified generally to part E (§9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (d)(1), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part E of the Act is classified generally to part E (§9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 

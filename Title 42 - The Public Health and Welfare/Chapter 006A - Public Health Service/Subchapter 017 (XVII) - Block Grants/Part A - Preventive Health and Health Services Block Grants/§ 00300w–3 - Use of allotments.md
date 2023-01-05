@@ -8,7 +8,7 @@
 
 &emsp;(B) Preventive health service programs for the control of rodents and for community and school-based fluoridation programs.
 
-&emsp;(C) Feasibility studies and planning for emergency medical services systems and the establishment, expansion, and improvement of such systems. Amounts for such systems may not be used for the costs of the operation of the systems or the purchase of equipment for the systems, except that such amounts may be used for the payment of not more than 50 percent of the costs of purchasing communications equipment for the systems. Amounts may be expended for feasibility studies or planning for the trauma-care components of such systems only if the studies or planning, respectively, is consistent with the requirements of section 300d–13(a) of this title.
+&emsp;(C) Feasibility studies and planning for emergency medical services systems and the establishment, expansion, and improvement of such systems. Amounts for such systems may not be used for the costs of the operation of the systems or the purchase of equipment for the systems, except that such amounts may be used for the payment of not more than 50 percent of the costs of purchasing communications equipment for the systems. Amounts may be expended for feasibility studies orplanning for the trauma-care components of such systems only if the studies or planning, respectively, is consistent with the requirements of section 300d–13(a) of this title.
 
 &emsp;(D) Providing services to victims of sex offenses and for prevention of sex offenses.
 
@@ -52,7 +52,7 @@ Of the amount paid to any State under section 300w–2 of this title, not more t
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title V of the Social Security Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Social Security Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

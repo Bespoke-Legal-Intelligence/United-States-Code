@@ -10,7 +10,7 @@ There is established the National Windstorm Impact Reduction Program, the purpos
 
 &emsp;The National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director shall—
 
-&emsp;&emsp;(A) ensure that the Program includes the necessary components to promote the implementation of windstorm risk reductionmeasures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning and constructing buildings and lifelines;
+&emsp;&emsp;(A) ensure that the Program includes the necessary components to promote the implementation of windstorm risk reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning and constructing buildings and lifelines;
 
 &emsp;&emsp;(B) support the development of performance-based engineering tools, and work with appropriate groups to promote the commercial application of such tools, including through wind-related model building codes, voluntary standards, and construction best practices;
 

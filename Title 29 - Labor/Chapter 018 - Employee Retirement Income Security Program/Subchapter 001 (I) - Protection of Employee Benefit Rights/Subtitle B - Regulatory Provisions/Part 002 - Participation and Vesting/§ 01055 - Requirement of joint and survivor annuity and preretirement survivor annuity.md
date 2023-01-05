@@ -38,7 +38,7 @@ Each pension plan to which this section applies shall provide that—
 
 (4) <sup>2</sup> This section shall not apply to a plan which the Secretary of the Treasury or his delegate has determined is a plan described in section 404(c) of title 26 (or a continuation thereof) in which participation is substantially limited to individuals who, before January 1, 1976, ceased employment covered by the plan.
 
-(4) <sup>2</sup> A plan shall not be treated as failing to meet the requirements of paragraph (1)(C) or (2) merely because the plan provides that benefits will not be payable to the surviving spouse of the participant unless the participant and such spouse had been married throughout the 1-year period ending on the earlier of the participant's annuity starting date or the date of the participant's death.
+(4) <sup>2</sup> A plan shall not be treated as failing to meet the requirements of paragraph (1)(C) or (2)merely because the plan provides that benefits will not be payable to the surviving spouse of the participant unless the participant and such spouse had been married throughout the 1-year period ending on the earlier of the participant's annuity starting date or the date of the participant's death.
 
 #### (c) Plans meeting requirements of section
 
@@ -76,7 +76,7 @@ Each pension plan to which this section applies shall provide that—
 
 (ii) For purposes of clause (i), the term "applicable period" means, with respect to a participant, whichever of the following periods ends last:
 
-&emsp;(I) The period beginning with the first day of the plan year in which the participant attains age 32 and ending with the close of the planyear preceding the plan year in which the participant attains age 35.
+&emsp;(I) The period beginning with the first day of the plan year in which the participant attains age 32 and ending with the close of the plan year preceding the plan year in which the participant attains age 35.
 
 &emsp;(II) A reasonable period after the individual becomes a participant.
 
@@ -108,7 +108,7 @@ Each pension plan to which this section applies shall provide that—
 
 &emsp;(A) in the case of an election to waive the qualified joint and survivor annuity form of benefit, the 180-day period ending on the annuity starting date, or
 
-&emsp;(B) in the case of an election to waive the qualified preretirement survivor annuity, the period which begins on the first day of the plan year in which the participant attains age 35 and ends on the date of the participant's death.
+&emsp;(B) in the case of an election to waive the qualified preretirement survivor annuity, the period which begins on the first day of theplan year in which the participant attains age 35 and ends on the date of the participant's death.
 
 > In the case of a participant who is separated from service, the applicable election period under subparagraph (B) with respect to benefits accrued before the date of such separation from service shall not begin later than such date.
 
@@ -176,7 +176,7 @@ For purposes of this section—
 
 #### (f) Marriage requirements for plan
 
-(1) Except as provided in paragraph (2), a plan may provide that a qualified joint and survivor annuity (or a qualified preretirement survivor annuity) will not be provided unless the participant and spouse had been married throughout the 1-year period ending on the earlier of—
+(1) Except as provided in paragraph (2), a plan may provide that a qualified joint and survivorannuity (or a qualified preretirement survivor annuity) will not be provided unless the participant and spouse had been married throughout the 1-year period ending on the earlier of—
 
 &emsp;(A) the participant's annuity starting date, or
 
@@ -244,7 +244,7 @@ No consent of a spouse shall be effective for purposes of subsection (g)(1) or (
 
 In prescribing regulations under this section, the Secretary of the Treasury shall consult with the Secretary of Labor.
 
-(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19, 1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(b)(3)(B), July 6, 2012, 126 Stat. 849; Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(ii), Dec. 19, 2014, 128 Stat. 4046.)
+(Pub. L. 93–406, title I, §205, Sept. 2, 1974, 88 Stat. 862; Pub. L. 98–397, title I, §103(a), Aug. 23, 1984, 98 Stat. 1429; Pub. L. 99–514, title XI, §§1139(c)(2), 1145(b), title XVIII, §1898(b)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (7)(B), (8)(B), (9)(B), (10)(B), (11)(B), (12)(B), (13)(B), (14)(B), Oct. 22, 1986, 100 Stat. 2488, 2491, 2945–2951; Pub. L. 101–239, title VII, §§7861(d)(2), 7862(d)(1)(B), (3), (6)–(9), 7891(a)(1), (b)(3), (c), (e), 7894(c)(7)(A), Dec. 19,1989, 103 Stat. 2431, 2434, 2445, 2447, 2449; Pub. L. 103–465, title VII, §767(c)(2), Dec. 8, 1994, 108 Stat. 5039; Pub. L. 104–188, title I, §1451(b), Aug. 20, 1996, 110 Stat. 1815; Pub. L. 105–34, title X, §1071(b)(2), title XVI, §1601(d)(5), Aug. 5, 1997, 111 Stat. 948, 1089; Pub. L. 107–147, title IV, §411(r)(2), Mar. 9, 2002, 116 Stat. 51; Pub. L. 109–280, title III, §302(a), title X, §1004(b), title XI, §1102(a)(2)(A), Aug. 17, 2006, 120 Stat. 920, 1054, 1056; Pub. L. 110–458, title I, §103(b)(1), Dec. 23, 2008, 122 Stat. 5103; Pub. L. 112–141, div. D, title II, §40211(b)(3)(B), July 6, 2012, 126 Stat. 849; Pub. L. 113–295, div. A, title II, §221(a)(57)(B)(ii), Dec. 19, 2014, 128 Stat. 4046.)
 
 #### <b>Editorial Notes</b>
 
@@ -328,7 +328,7 @@ Pub. L. 99–514, §1145(b), added par. (3) relating to applicability of this se
 
 Subsec. (c)(1)(B). Pub. L. 99–514, §1898(b)(4)(B)(i), substituted "paragraphs (2), (3), and (4)" for "paragraphs (2) and (3)".
 
-Subsec. (c)(2)(A). Pub. L. 99–514, §1898(b)(6)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the spouse of the participant consents in writing to such election, and the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or".
+Subsec. (c)(2)(A). Pub. L. 99–514, §1898(b)(6)(B), amended subpar. (A) generally. Prior to amendment, subpar.\(A) read as follows: "the spouse of the participant consents in writing to such election, and the spouse's consent acknowledges the effect of such election and is witnessed by a plan representative or a notary public, or".
 
 Subsec. (c)(3)(B). Pub. L. 99–514, §1898(b)(5)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Each plan shall provide to each participant, within the period beginning with the first day of the plan year in which the participant attains age 32 and ending with the close of the plan year preceding the plan year in which the participant attains age 35 (and consistent with such regulations as the Secretary of the Treasury may prescribe), a written explanation with respect to the qualified preretirement survivor annuity comparable to that required under subparagraph (A)."
 
@@ -370,7 +370,7 @@ Subsec. (d). Pub. L. 98–397 substituted provisions defining "qualified joint a
 
 Subsec. (e). Pub. L. 98–397 substituted provisions defining "qualified preretirement survivor annuity" for former provisions relating to election to take annuity.
 
-Subsec. (f). Pub. L. 98–397 substituted provisions to the effect that plans may provide that annuities will not be provided unless the participant and spouse hadbeen married for a certain 1-year period, for former provisions relating to plan provisions which render election or revocation ineffective if participant dies within period of up to 2 years following the date of election or revocation.
+Subsec. (f). Pub. L. 98–397 substituted provisions to the effect that plans may provide that annuities will not be provided unless the participant and spouse had been married for a certain 1-year period, for former provisions relating to plan provisions which render election or revocation ineffective if participant dies within period of up to 2 years following the date of election or revocation.
 
 Subsec. (g). Pub. L. 98–397 substituted provisions relating to plan provisions for immediate distribution of present value if such value does not exceed $3,500 and for written consent from the participant and spouse for former provisions setting forth definitions. See subsec. (h) of this section.
 
@@ -408,7 +408,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 1071(b)(2) of Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, see section 1071(c) of Pub. L. 105–34, set out as a note under section 411 of Title 26, Internal Revenue Code.
+Amendment by section 1071(b)(2) of Pub. L. 105–34 applicable to plan years beginning after Aug. 5, 1997, seesection 1071(c) of Pub. L. 105–34, set out as a note under section 411 of Title 26, Internal Revenue Code.
 
 Amendment by section 1601(d)(5) of Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 36C of Title 26, Internal Revenue Code.
 

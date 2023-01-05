@@ -14,7 +14,7 @@ The exceptions provided in paragraphs (1), (2), and (3) of section 1244 of this 
 
 #### (d) "Ballistic knife" defined
 
-As used in this section, the term "ballistic knife" means a knife with a detachable blade that is propelled by a spring-operated mechanism.
+As used in this section, the term "ballistic knife" means a knife with a detachable bladethat is propelled by a spring-operated mechanism.
 
 (Pub. L. 85–623, §7, as added Pub. L. 99–570, title X, §10002, Oct. 27, 1986, 100 Stat. 3207–167; amended Pub. L. 100–690, title VI, §6472, Nov. 18, 1988, 102 Stat. 4379.)
 

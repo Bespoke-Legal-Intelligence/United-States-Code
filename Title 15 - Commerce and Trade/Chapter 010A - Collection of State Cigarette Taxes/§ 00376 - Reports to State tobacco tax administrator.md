@@ -2,7 +2,7 @@
 
 #### (a) Contents
 
-Any person who sells, transfers, or ships for profit cigarettes or smokeless tobacco in interstate commerce, whereby such cigarettes orsmokeless tobacco are shipped into a State, locality, or Indian country of an Indian tribe taxing the sale or use of cigarettes or smokeless tobacco, or who advertises or offers cigarettes or smokeless tobacco for such a sale, transfer, or shipment, shall—
+Any person who sells, transfers, or ships for profit cigarettes or smokeless tobacco in interstate commerce, whereby such cigarettes or smokeless tobacco are shipped into a State, locality, or Indian country of an Indian tribe taxing the sale or use of cigarettes or smokeless tobacco, or who advertises or offers cigarettes or smokeless tobacco for such a sale, transfer, or shipment, shall—
 
 &emsp;(1) first file with the Attorney General of the United States and with the tobacco tax administrators of the State and place into which such shipment is made or in which such advertisement or offer is disseminated a statement setting forth his name and trade name (if any), and the address of his principal place of business and of any other place of business, as well as telephone numbers for each place of business, a principal electronic mail address, any website addresses, and the name, address, and telephone number of an agent in the State authorized to accept service on behalf of the person;
 
@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 111–154, §2(b)(4), added subsec. (c).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–154 effective on the date that is 90 days after March 31, 2010, see section 6 of Pub. L. 111–154, set out as a note under section 375 of this title.
+Amendment by Pub. L. 111–154 effective on the date that is 90 days after March 31, 2010, see section 6 of Pub.L. 111–154, set out as a note under section 375 of this title.
 
 #### Effective Date of 1955 Amendment
 
@@ -56,5 +56,5 @@ Act Aug. 9, 1955, ch. 695, §2, 69 Stat. 628, provided that:
 
 #### Effective Date of 1953 Amendment
 
-Act Aug. 15, 1953, ch. 512, title II, §201(b), 67 Stat. 617, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply only in respect of memoranda or copies of invoices covering shipments made during the calendar month in which this Act is enacted \[August 1953\] and subsequent calendar months."
+Act Aug. 15, 1953, ch. 512, title II, §201(b), 67 Stat. 617, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only in respect of memoranda or copies of invoices covering shipments made during the calendar month in which this Act is enacted \[August 1953\] and subsequent calendar months."
 

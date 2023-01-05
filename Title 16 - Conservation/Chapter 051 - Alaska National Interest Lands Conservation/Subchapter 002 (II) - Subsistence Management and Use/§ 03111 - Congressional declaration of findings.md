@@ -2,7 +2,7 @@
 
 The Congress finds and declares that—
 
-&emsp;(1) the continuation of the opportunity for subsistence uses by rural residents of Alaska, including both Natives and non-Natives, on the public lands and by Alaska Natives on Native lands is essential to Native physical, economic, traditional, and cultural existence and to non-Native physical, economic, traditional, and social existence;
+&emsp;(1) the continuation of the opportunity for subsistence uses by rural residents of Alaska, including both Natives and non-Natives, onthe public lands and by Alaska Natives on Native lands is essential to Native physical, economic, traditional, and cultural existence and to non-Native physical, economic, traditional, and social existence;
 
 &emsp;(2) the situation in Alaska is unique in that, in most cases, no practical alternative means are available to replace the food supplies and other items gathered from fish and wildlife which supply rural residents dependent on subsistence uses;
 
@@ -18,7 +18,7 @@ The Congress finds and declares that—
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
 

@@ -48,7 +48,7 @@ It is the policy of the United States not to provide nonhumanitarian, nontrade-r
 
 #### (B) Interim assessment
 
-&emsp;&emsp;Not later than February 1st of each year, the Secretary of State shall provide to theappropriate congressional committees an assessment of the progress that each country on the special watch list described in subparagraph (A) has made since April 1 of the previous year.
+&emsp;&emsp;Not later than February 1st of each year, the Secretary of State shall provide to the appropriate congressional committees an assessment of the progress that each country on the special watch list described in subparagraph (A) has made since April 1 of the previous year.
 
 #### (C) Relation of special watch list to annual trafficking in persons report
 
@@ -86,7 +86,7 @@ It is the policy of the United States not to provide nonhumanitarian, nontrade-r
 
 &emsp;&emsp;&emsp;&emsp;(I) 2 consecutive years after December 23, 2008; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any additional years after such date of enactment as a result of the President exercising the waiver authority under subparagraph (D)(ii); and
+&emsp;&emsp;&emsp;&emsp;(II) any additional years after such date of enactment as a result of thePresident exercising the waiver authority under subparagraph (D)(ii); and
 
 &emsp;&emsp;&emsp;(ii) was subsequently included on the list of countries described in paragraph (1)(C).
 
@@ -222,7 +222,7 @@ Together with any notification under subsection (c), the President shall provide
 
 #### (f) Subsequent waiver authority
 
-After the President has made a determination described in subsection (d)(1) with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1).
+After the President has made a determination described in subsection (d)(1) with respect to thegovernment of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1).
 
 (Pub. L. 106–386, div. A, §110, Oct. 28, 2000, 114 Stat. 1482; Pub. L. 108–193, §6(e), (h), (i), Dec. 19, 2003, 117 Stat. 2882, 2884; Pub. L. 109–164, title I, §104(e)(1), Jan. 10, 2006, 119 Stat. 3565; Pub. L. 110–457, title I, §§107(a), (b), 108(b), Dec. 23, 2008, 122 Stat. 5049, 5051; Pub. L. 113–4, title XII, §§1205, 1212(b)(2)(A)(i), Mar. 7, 2013, 127 Stat. 139, 143; Pub. L. 115–425, title II, §203, Jan. 8, 2019, 132 Stat. 5482; Pub. L. 115–427, §6, Jan. 9, 2019, 132 Stat. 5505; Pub. L. 116–283, div. A, title XII, §1299R(b), Jan. 1, 2021, 134 Stat. 4027.)
 
@@ -290,6 +290,8 @@ Subsec. (d)(5)(A)(i). Pub. L. 108–193, §6(h)(2), inserted "or funding for par
 
 Subsec. (f). Pub. L. 108–193, §6(i), added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Communication With Governments of Countries Designated as Tier 2 Watch List Countries on the Trafficking in Persons Report
 
 Pub. L. 115–427, §7(a), Jan. 9, 2019, 132 Stat. 5507, provided that:
@@ -309,8 +311,6 @@ In General.—Not less than annually, the Secretary of State shall provide, to t
 &emsp;&emsp;"(C) the factors that contributed to the downgrade; and
 
 &emsp;&emsp;"(D) the steps that the country must take to be considered for an upgrade in status of designation."
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Child Protection Strategies in Watch List Countries
 
@@ -340,39 +340,41 @@ Pub. L. 110–457, title I, §107(c), Dec. 23, 2008, 122 Stat. 5050, provided th
 
 #### Presidential Determination With Respect to the Efforts of Foreign Governments Regarding Trafficking in Persons
 
-Determination of President of the United States, No. 2020–12, Sept. 28, 2020, 85 F.R. 71209, provided:
+Determination of President of the United States, No. 2023–02, Oct. 14, 2022, 87 F.R. 64361, provided:
 
 Memorandum for the Secretary of State
 
 Consistent with section 110 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107) (the "Act"), as amended, I hereby determine as follows:
 
-As provided for in section 110(d)(1)(A)(i) of the Act, and subject to the determinations below regarding assistance related to the COVID–19 pandemic, the Ebola virus disease, and meeting minimum standards for the elimination of trafficking in persons, I determine that the United States will not provide nonhumanitarian, nontrade-related assistance to the Governments of Burundi, China, Cuba, the Democratic People's Republic of Korea (DPRK), Eritrea, Iran, Nicaragua, Russia, and Syria for Fiscal Year (FY) 2021 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards.
+As provided for in section 110(d)(1)(A)(i) of the Act, that the United States will not provide nonhumanitarian, nontrade-related assistance to the Governments of Afghanistan, Burma, Guinea-Bissau, Iran, the People's Republic of China (PRC), and South Sudan for Fiscal Year (FY) 2023 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards;
 
-As provided for in section 110(d)(1)(A)(ii) of the Act, and subject to the determinations below regarding assistance related to the COVID–19 pandemic, the Ebola virus disease, and meeting minimum standards for the elimination of trafficking in persons, I determine that the United States will not provide nonhumanitarian,nontrade-related assistance to, or allow funding for participation in educational and cultural exchange programs by officials or employees of, the Governments of Cuba, the DPRK, and Syria for FY 2021 until such governments comply with the Act's minimum standards for the elimination of trafficking or make significant efforts to bring themselves into compliance with the minimum standards.
+As provided for in section 110(d)(1)(A)(ii) of the Act, that the United States will not provide nonhumanitarian, nontrade-related assistance to, or allow funding for participation in educational and cultural exchange programs by officials or employees of, the Governments of Belarus, Cuba, the Democratic People's Republic of Korea (DPRK), Eritrea, Macau (Special Administrative Region of the PRC), Nicaragua, Russia, and Syria for FY 2023 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards;
 
-As provided for in section 110(d)(1)(B) of the Act, and subject to the determinations below regarding assistance related to the COVID–19 pandemic, the Ebola virus disease, and meeting minimum standards for the elimination of trafficking in persons, I hereby instruct the United States Executive Director of each multilateral development bank, as defined in the Act, and of the International Monetary Fund to vote against and use best efforts to deny any loan or other utilization of the funds of the respective institution (other than for humanitarian assistance; for trade-related assistance; or for development assistance that directly addresses basic human needs, is not administered by the government of such country, and confers no benefit to that government) for the Governments of Burundi, China, Comoros, Cuba, the DPRK, Eritrea, Iran, Nicaragua, Russia, and Syria for FY 2021 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards.
+As provided for in section 110(d)(1)(B) of the Act, I hereby instruct the United States Executive Director of each multilateral development bank, as defined in the Act, and of the International Monetary Fund to vote against and use best efforts to deny any loan or other utilization of the funds of the respective institution (other than for humanitarian assistance; for trade-related assistance; or for development assistance that directly addresses basic human needs, is not administered by the government of such country, and confers no benefit to that government) for the Governments of Belarus, Burma, Cuba, the DPRK, Eritrea, Iran, Macau (Special Administrative Region of the PRC), Nicaragua, the PRC, Russia, South Sudan, and Syria for FY 2023 until such governments comply with the Act's minimum standards or make significant efforts to bring themselves into compliance with the minimum standards;
 
-Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow assistance described in section 110(d)(1) of the Act for programs, projects, activities, and assistance to respond to the threat posed by the COVID–19 pandemic would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, I determine that the provision of all programs, projects, activities, and funding for educational and cultural exchange programs described in sections 110(d)(1)(A) and 110(d)(1)(B) of the Act to Brunei, Cambodia, Malaysia, Turkmenistan, Venezuela, and Vietnam, would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow assistance described in section 110(d)(1) of the Act for programs, projects, activities, and assistance to respond to the threat posed by the Ebola virus disease would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, I determine that providing the assistance described in section 110(d)(1)(B) of the Act to Afghanistan and Guinea-Bissau would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow assistance described in section 110(d)(1) of the Act for programs, projects, activities, and assistance designed to meet the minimum standards for the elimination of trafficking in persons would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, I determine that a partial waiver with respect to Belarus, Eritrea, Macau (Special Administrative Region of the PRC), and Russia to allow funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow assistance described in section 110(d)(1)(A)(i) of the Act with respect to Burma—with the exception of Global Health Programs (GHP), Peacekeeping Operations (PKO), Foreign Military Financing (FMF), International Military Education and Training (IMET), Foreign Military Sales (FMS), and Excess Defense Articles—would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, with respect to Afghanistan, I determine that a partial waiver of the restriction described in section 110(d)(1)(A)(i) of the Act to allow for Economic Support Fund (ESF) and Global Health Programs (GHP) assistance would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow IMET assistance with respect to Comoros would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, with respect to Guinea-Bissau, I determine that a partial waiver of the restriction described in section 110(d)(1)(A)(i) of the Act to allow for International Military Education and Training (IMET); Nonproliferation, Anti-terrorism, Demining, and Related Programs–Conventional Weapons Destruction (NADR–CWD); Development Assistance (DA); ESF; and GHP assistance would promote the purposes of the Act or is otherwise in the national interest of the United States; and
 
-Consistent with section 110(d)(4) of the Act, I determine that a partial waiver to allow PKO and Development Assistance with respect to South Sudan would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Consistent with section 110(d)(4) of the Act, with respect to South Sudan, I determine that a partial waiver of the restriction described in section 110(d)(1)(A)(i) of the Act to allow for GHP assistance would promote the purposes of the Act or is otherwise in the national interest of the United States.
 
-Consistent with section 110(d)(4) of the Act, I determine that the provision of all programs, projects, and activities described in section 110(d)(1)(A)(i) of the Act with respect to the Governments of Afghanistan, Algeria, Belarus, Lesotho, Papua New Guinea, Turkmenistan, and Venezuela would promote the purposes of the Act or is otherwise in the national interest of the United States; and
+In addition, with respect to the Governments of Curacao and Sint Maarten, consistent with the United States Government's firm stand against human trafficking, and until such governments take steps consistent with compliance with the minimum standards of the Act or make significant efforts to do so, I hereby: (i) direct that executive departments and agencies shall not provide nonhumanitarian, nontrade-related foreign assistance, as described in section 110(d)(1)(A) of the Act, to the Governments of Curacao and Sint Maarten; (ii) instruct the United States Executive Director of each multilateral development bank, as defined in the Act, and of the International Monetary Fund to vote against and use best efforts to deny any loan or other utilization of the funds of the respective institution (other than for humanitarian assistance, for trade-related assistance, or for development assistance that directly addresses basic human needs, is not administered by such government, and confers no benefit to that government) to Curacao and Sint Maarten, as described in section 110(d)(1)(B) of the Act; and (iii) direct that funding for participation by officials or employees of the Governments of Curacao and Sint Maarten in educational and cultural exchange programs shall continue to be permitted in FY 2023, consistent with the foreign policy and all applicable laws of the United States.
 
-Consistent with section 110(d)(4) of the Act, I determine that providing the assistance described in section 110(d)(1)(B) of the Act to Afghanistan, Algeria, Belarus, Burma, Lesotho, Papua New Guinea, South Sudan, Turkmenistan, and Venezuela would promote the purposes of the Act or is otherwise in the national interest of the United States.
+You are authorized and directed to submit this determination, the certification required by section 110(e) of the Act, and the Memorandum of Justification, on which I have relied, to the Congress, and to publish this determination in the Federal Register.
 
-You are authorized and directed to submit this determination, the certification required by section 110(e) of the Act, and the Memorandum of Justification, on which I have relied, to the Congress, and to publish the determination in the Federal Register.
-
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior determinations and certifications regarding trafficking in persons were contained in the following:
+
+\[Determination of President of the United States, No. 2022–06, Dec. 21, 2021, not published in the Federal Register.\]
+
+Determination of President of the United States, No. 2020–12, Sept. 28, 2020, 85 F.R. 71209.
 
 Determination of President of the United States, No. 2020–02, Oct. 18, 2019, 84 F.R. 59521.
 
@@ -426,7 +428,7 @@ Memorandum of President of the United States, Oct. 5, 2015, 80 F.R. 65605, provi
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of State the authority under section 110(d)(4) of the Trafficking Victims Protection Act of 2000 (the "Act") (22 U.S.C. 7107(d)(4)) to waive the application of the prohibition insection 110(d)(1)(A)(i) of the Act to Yemen during Fiscal Year 2016, as applicable, and to make the determinations necessary for such waiver. I hereby also delegate to the Secretary of State the authority under section 110(c) of the Act to notify the appropriate congressional committees of such waiver and the justification for granting such waiver.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of State the authority under section 110(d)(4) of the Trafficking Victims Protection Act of 2000 (the "Act") (22 U.S.C. 7107(d)(4)) to waive the application of the prohibition in section 110(d)(1)(A)(i) of the Act to Yemen during Fiscal Year 2016, as applicable, and to make the determinations necessary for such waiver. I hereby also delegate to the Secretary of State the authority under section 110(c) of the Act to notify the appropriate congressional committees of such waiver and the justification for granting such waiver.
 
 You are hereby authorized and directed to publish this memorandum in the Federal Register.
 

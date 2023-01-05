@@ -24,7 +24,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 &emsp;(10) in initiating and supporting before-school and after-school programs, serving children in low-income communities, that may engage participants in mentoring, tutoring, life skills and study skills programs, service-learning, physical, nutrition, and health education programs, and other activities addressing the needs of the children;
 
-&emsp;(11) in establishing and supporting community economic development initiatives, with a priority on work on such initiatives in ruralareas and the other areas where such initiatives are needed most;
+&emsp;(11) in establishing and supporting community economic development initiatives, with a priority on work on such initiatives in rural areas and the other areas where such initiatives are needed most;
 
 &emsp;(12) in assisting veterans and their family members through establishing or augmenting programs that assist such persons with access to legal assistance, health care (including mental health care), employment counseling or training, education counseling or training, affordable housing, and other support services; and
 
@@ -44,7 +44,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 (C) The Director shall assign or hire as necessary, such additional national, regional, and State personnel to carry out the functions described in this subsection and subsection (c) as may be necessary to ensure that such functions are carried out in a timely and effective manner. The Director shall give priority in the hiring of such additional personnel to individuals who have formerly served as volunteers under this part and to individuals who have specialized experience in the recruitment and management of volunteers.
 
-(3) Volunteers shall be selected from among qualified individuals submitting an application for such service at such time, in such form, and containing such information as may be necessary to evaluate the suitability of each individual for such service and to determine, in accordance with paragraph (7),<sup>1</sup> the most appropriate assignment for each such volunteer. The Director shall approve the application of each individual who applies in conformance with this subsection and who, on the basis of the information provided in the application, is determined by the Director to be qualified to serve as a volunteer under this part.
+(3) Volunteers shall be selected from among qualified individuals submitting an application for such service at such time, in such form, and containing such information as may be necessary to evaluate the suitability of each individual for such service and to determine, in accordance with paragraph (7),<sup>1</sup> the most appropriate assignment for each such volunteer. The Director shall approve the application of each individual who applies in conformance with thissubsection and who, on the basis of the information provided in the application, is determined by the Director to be qualified to serve as a volunteer under this part.
 
 (4) The Director shall ensure that applications for service as a volunteer under this part are available to the public on request to the Corporation (including any State or regional offices of the Agency) <sup>2</sup> and that an individual making such request is informed of the manner in which such application is required to be submitted. A completed application may be submitted by any interested individual to, and shall be accepted by, any office of the Corporation.
 
@@ -86,7 +86,7 @@ The Director, on the receipt of applications by public or nonprofit private orga
 
 #### (d) Provision of plans to volunteers for job advancement; coordination with private industry councils or local workforce investment boards
 
-The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Whenever feasible, such efforts shall be coordinated with an appropriate local workforce development board established under section 3122 of title 29.
+The Director shall provide each low-income community volunteer with an individual plan for job advancement or for transition to a situation leading to gainful employment. Wheneverfeasible, such efforts shall be coordinated with an appropriate local workforce development board established under section 3122 of title 29.
 
 #### (e) Educational and vocational counseling for volunteers; Director to provide
 
@@ -108,7 +108,7 @@ The Director is encouraged to enter into agreements with other Federal agencies 
 
 The Director may enter into agreements under which public and private nonprofit organizations, with sufficient financial capacity and size, pay for all or a portion of the costs of supporting the service of volunteers under this part.
 
-(Pub. L. 93–113, title I, §103, Oct. 1, 1973, 87 Stat. 396; Pub. L. 96–143, §2, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §4(a)–(c)(1), (d), May 21, 1984, 98 Stat. 189, 190; Pub. L. 99–551, §3(a), Oct. 27, 1986, 100 Stat. 3071; Pub. L. 101–204, title I, §101(a), (b), (d)(2), title VII, §701, Dec. 7, 1989, 103 Stat. 1807, 1809, 1811, 1820; Pub. L. 103–82, title III, §323, title IV, §405(a)(2)–(4), Sept. 21, 1993, 107 Stat. 899, 920; Pub. L. 103–304, §3(b)(7), (8), Aug. 23, 1994, 108Stat. 1568; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434; Pub. L. 111–13, title II, §2102, Apr. 21, 2009, 123 Stat. 1582; Pub. L. 113–128, title V, §512(h), July 22, 2014, 128 Stat. 1708.)
+(Pub. L. 93–113, title I, §103, Oct. 1, 1973, 87 Stat. 396; Pub. L. 96–143, §2, Dec. 13, 1979, 93 Stat. 1074; Pub. L. 98–288, §4(a)–(c)(1), (d), May 21, 1984, 98 Stat. 189, 190; Pub. L. 99–551, §3(a), Oct. 27, 1986, 100 Stat. 3071; Pub. L. 101–204, title I, §101(a), (b), (d)(2), title VII, §701, Dec. 7, 1989, 103 Stat. 1807, 1809, 1811, 1820; Pub. L. 103–82, title III, §323, title IV, §405(a)(2)–(4), Sept. 21, 1993, 107 Stat. 899, 920; Pub. L. 103–304, §3(b)(7), (8), Aug. 23, 1994, 108 Stat. 1568; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(36)(A), (f)(28)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–427, 2681–434; Pub. L. 111–13, title II, §2102, Apr. 21, 2009, 123 Stat. 1582; Pub. L. 113–128, title V, §512(h), July 22, 2014, 128 Stat. 1708.)
 
 #### <b>Editorial Notes</b>
 
@@ -174,7 +174,7 @@ Subsec. (i). Pub. L. 111–13, §2102(6), added subsec. (i).
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(28)(A)\], which directed amendment of the second sentence to read "private industry council established under the Job Training Partnership Act or", was not executed, to reflect the probable intent of Congress and subsequent amendment by Pub. L. 111–13, §2102(4).
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(36)(A)\], substituted "Whenever feasible, such efforts shall be coordinated with an appropriate private industry councilestablished under the Job Training Partnership Act or local workforce investment board established under section 2832 of title 29." for "Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act."
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(36)(A)\], substituted "Whenever feasible, such efforts shall be coordinated with an appropriate private industry council established under the Job Training Partnership Act or local workforce investment board established under section 2832 of title 29." for "Whenever feasible, such efforts shall be coordinated with an appropriate private industry council under the Job Training Partnership Act."
 
 <b>1994</b>—Subsec. (b)(5), (6). Pub. L. 103–304, §3(b)(7), redesignated par. (6) as (5).
 
@@ -216,7 +216,7 @@ Pub. L. 103–82, §323(b)(2), (3), redesignated par. (5) as (4) and struck out 
 
 Subsec. (b)(5) to (7). Pub. L. 103–82, §323(b)(2), (3), redesignated pars. (5) and (7) as (4) and (6), respectively, and struck out former par. (6) which read as follows: "Completed applications received by the ACTION Agency shall be forwarded to the regional ACTION office representing the State in which such applicant resides. The regional or State employees designated in subparagraphs (C) and (D) of paragraph (2) shall assist in evaluating such applications and, to the extent feasible and appropriate, interviewing applicants."
 
-Subsec. (c)(1). Pub. L. 103–82, §323(c)(1)(A), (B), in introductory provisions, substituted "personnel described in subsection (b)(2)(C)" for "regional or State employees designated in subparagraphs (C) and (D) of subsection (b)(2)" and "Such activities may include" for "Such activities shall include".
+Subsec. (c)(1). Pub. L. 103–82, §323(c)(1)(A), (B), in introductory provisions, substituted "personnel describedin subsection (b)(2)(C)" for "regional or State employees designated in subparagraphs (C) and (D) of subsection (b)(2)" and "Such activities may include" for "Such activities shall include".
 
 Subsec. (c)(1)(D). Pub. L. 103–82, §405(a)(4), substituted "the Corporation" for "the ACTION Agency".
 

@@ -28,7 +28,7 @@
 
 #### (2) Publication of proposal
 
-&emsp;The Secretary shall publish a proposed order and give notice and opportunity for public comment on the proposed order not later than 60 days after the earlier of—
+&emsp;The Secretary shall publish a proposed order and give notice and opportunity for publiccomment on the proposed order not later than 60 days after the earlier of—
 
 &emsp;&emsp;(A) the date on which the Secretary proposes an order, as provided in paragraph (1)(A); and
 

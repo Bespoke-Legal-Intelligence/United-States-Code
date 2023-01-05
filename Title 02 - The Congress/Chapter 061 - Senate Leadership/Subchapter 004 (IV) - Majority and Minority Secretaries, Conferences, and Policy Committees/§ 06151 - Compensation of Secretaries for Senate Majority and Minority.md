@@ -34,7 +34,7 @@ Section effective July 1, 1974, see section 4 of Pub. L. 93–371, set out in pa
 
 #### Compensation of Incumbent Holding Position of Secretary for the Majority on April 1, 1977
 
-Pub. L. 95–26, title I, §102(b), May 4, 1977, 91 Stat. 82, provided that: "The Majority Leader of the Senate is authorized to fix the compensation of the Secretary for the Majority so long as the position is held by the incumbent holding such position on April 1, 1977."
+Pub. L. 95–26, title I, §102(b), May 4, 1977, 91 Stat. 82, provided that: "The Majority Leader of the Senate isauthorized to fix the compensation of the Secretary for the Majority so long as the position is held by the incumbent holding such position on April 1, 1977."
 
 #### 1974 Adjustment in Compensation Not To Supersede Adjustments in Compensation or Limitations by President Pro Tempore of the Senate
 

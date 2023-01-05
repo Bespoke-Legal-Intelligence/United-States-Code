@@ -46,7 +46,7 @@ Regulations.—Not later than 1 year after the date of the enactment of the Cari
 
 Walk-In Care Defined.—In this section, the term "walk-in care" means non-emergent care provided by a qualifying non-Department entity or provider that furnishes episodic care and not longitudinal management of conditions and is otherwise defined through regulations the Secretary shall promulgate.
 
-(Added Pub. L. 115–182, title I, §105(a), June 6, 2018, 132 Stat. 1412; amended Pub. L. 115–251, titleII, §211(a)(7), Sept. 29, 2018, 132 Stat. 3175; Pub. L. 116–61, §6(2), Sept. 30, 2019, 133 Stat. 1117.)
+(Added Pub. L. 115–182, title I, §105(a), June 6, 2018, 132 Stat. 1412; amended Pub. L. 115–251, title II, §211(a)(7), Sept. 29, 2018, 132 Stat. 3175; Pub. L. 116–61, §6(2), Sept. 30, 2019, 133 Stat. 1117.)
 
 #### <b>Editorial Notes</b>
 

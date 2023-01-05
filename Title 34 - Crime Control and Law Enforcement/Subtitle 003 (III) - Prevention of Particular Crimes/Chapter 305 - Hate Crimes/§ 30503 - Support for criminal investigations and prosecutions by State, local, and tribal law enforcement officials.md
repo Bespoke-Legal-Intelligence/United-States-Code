@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) certify that the State, local government, or Indian tribe lacks the resources necessary to investigate or prosecute the hate crime;
 
-&emsp;&emsp;&emsp;(iii) demonstrate that, in developing a plan to implement the grant, the State, local, and tribal law enforcement agency has consulted and coordinated with nonprofit, nongovernmental victim services programs that have experience in providing services to victims of hate crimes; and
+&emsp;&emsp;&emsp;(iii) demonstrate that, in developing a plan to implement the grant, the State, local, and tribal law enforcement agency has consulted and coordinated with nonprofit, nongovernmental victim servicesprograms that have experience in providing services to victims of hate crimes; and
 
 &emsp;&emsp;&emsp;(iv) certify that any Federal funds received under this subsection will be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subsection.
 
@@ -58,7 +58,7 @@
 
 #### (6) Report
 
-&emsp;Not later than December 31, 2011, the Attorney General shall submit to Congress a reportdescribing the applications submitted for grants under this subsection, the award of such grants, and the purposes for which the grant amounts were expended.
+&emsp;Not later than December 31, 2011, the Attorney General shall submit to Congress a report describing the applications submitted for grants under this subsection, the award of such grants, and the purposes for which the grant amounts were expended.
 
 #### (7) Authorization of appropriations
 

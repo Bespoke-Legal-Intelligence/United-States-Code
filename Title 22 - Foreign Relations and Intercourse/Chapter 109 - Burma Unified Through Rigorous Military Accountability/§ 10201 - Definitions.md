@@ -1,0 +1,38 @@
+### §10201. Definitions
+
+In this chapter:
+
+#### (1) Burmese military
+
+&emsp;The term "Burmese military"—
+
+&emsp;&emsp;(A) means the Armed Forces of Burma, including the army, navy, and air force; and
+
+&emsp;&emsp;(B) includes security services under the control of the Armed Forces of Burma, such as the police and border guards.
+
+#### (2) Executive Order 14014
+
+&emsp;The term "Executive Order 14014" means Executive Order 14014 (86 Fed. Reg. 9429; relating to blocking property with respect to the situation in Burma).
+
+#### (3) Genocide
+
+&emsp;The term "genocide" means any offense described in section 1091(a) of title 18.
+
+#### (4) War crime
+
+&emsp;The term "war crime" has the meaning given the term in section 2441(c) of title 18.
+
+(Pub. L. 117–263, div. E, title LV, §5568, Dec. 23, 2022, 136 Stat. 3361.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Executive Order 14014, referred to in par. (2), is Ex. Ord. No. 14014, Feb. 10, 2021, 86 F.R. 9429, which is listed in a table under section 1701 of Title 50, War and National Defense.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+Pub. L. 117–263, div. E, title LV, §5567, Dec. 23, 2022, 136 Stat. 3361, provided that: "This subtitle \[subtitle E (§§5567–5579) of title LV of div. E of Pub. L. 117–263, enacting this chapter\] may be cited as the 'Burma Unified through Rigorous Military Accountability Act of 2022' or the 'BURMA Act of 2022'."
+

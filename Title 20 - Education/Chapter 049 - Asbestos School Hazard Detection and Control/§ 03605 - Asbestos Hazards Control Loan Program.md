@@ -22,7 +22,7 @@ Loans under this section shall be made pursuant to loan agreements which shall p
 
 &emsp;(1) The loan shall not bear any interest except as otherwise provided under paragraph (5).
 
-&emsp;(2) The loan shall have a maturity period of not more than 20 years (as determined by the Secretary) and shall be repayable during such period at such times and in such amounts as the Secretary may specify in the loan agreement.
+&emsp;(2) The loan shall have a maturity period of not more than 20 years (as determined by the Secretary) and shall be repayable during suchperiod at such times and in such amounts as the Secretary may specify in the loan agreement.
 
 &emsp;(3) Repayment of the loan shall be made to the Secretary of the Treasury for deposit in the general fund of the Treasury.
 
@@ -70,7 +70,7 @@ During each of the three calendar years after 1980, the Secretary shall submit b
 
 &emsp;(4) specify the estimated total costs of such programs to the recipients of loans and specify the amount of loans made under the Loan Program; and
 
-&emsp;(5) specify the number of loan applications which were disapproved during the precedingcalendar year and describe the reasons for such disapprovals.
+&emsp;(5) specify the number of loan applications which were disapproved during the preceding calendar year and describe the reasons for such disapprovals.
 
 (Pub. L. 96–270, §6, June 14, 1980, 94 Stat. 492.)
 

@@ -40,7 +40,7 @@ Pub. L. 106–398 inserted "115," after "members of the National Guard while eng
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–169, provided that: "Theamendment made by subsection (b) \[amending this section\] shall apply with respect to acts and omissions occurring before, on, or after the date of the enactment of this Act \[Oct. 30, 2000\]."
+Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(c)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–169, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to acts and omissions occurring before, on, or after the date of the enactment of this Act \[Oct. 30, 2000\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -76,7 +76,7 @@ Definitions.—In this section—
 
 "(b)
 
-Rule of Construction.—Effective on the date of the enactment of this Act \[Oct. 21, 1998\] and thereafter, and notwithstanding any other provision of law, for purposes of chapter 171 of title 28, United States Code, or any other provision of law relating to tort liability, a law enforcement officer shall be construed to be acting within the scope of his or her office or employment, if the officer takes reasonable action, including the use of force, to—
+Rule of Construction.—Effective on the date of the enactment of this Act \[Oct. 21, 1998\] and thereafter,and notwithstanding any other provision of law, for purposes of chapter 171 of title 28, United States Code, or any other provision of law relating to tort liability, a law enforcement officer shall be construed to be acting within the scope of his or her office or employment, if the officer takes reasonable action, including the use of force, to—
 
 &emsp;"(1) protect an individual in the presence of the officer from a crime of violence;
 

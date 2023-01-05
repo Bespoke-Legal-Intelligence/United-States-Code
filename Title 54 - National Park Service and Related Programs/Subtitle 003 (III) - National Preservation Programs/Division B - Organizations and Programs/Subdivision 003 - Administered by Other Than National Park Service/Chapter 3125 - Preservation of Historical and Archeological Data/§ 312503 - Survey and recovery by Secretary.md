@@ -10,7 +10,7 @@ In General.—The Secretary, on notification, in writing, by any Federal or Stat
 
 (b)
 
-When Survey or Recovery Not Required.—No survey or recovery work shall be required pursuant to this section that, in the determination of the head of the responsible agency, would impede Federal or federally assisted or licensed projects or activities undertaken inconnection with any emergency, including projects or activities undertaken in anticipation of, or as a result of, a natural disaster.
+When Survey or Recovery Not Required.—No survey or recovery work shall be required pursuant to this section that, in the determination of the head of the responsible agency, would impede Federal or federally assisted or licensed projects or activities undertaken in connection with any emergency, including projects or activities undertaken in anticipation of, or as a result of, a natural disaster.
 
 (c)
 

@@ -68,7 +68,7 @@ Major Weapon System Defined.—In this section, the term "major weapon system" h
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1848(d)(3)(B), amended section catchline generally. Prior to amendment, sectioncatchline read as follows: "Assessment, management, and control of operating and support costs for major weapon systems".
+<b>2021</b>—Pub. L. 116–283, §1848(d)(3)(B), amended section catchline generally. Prior to amendment, section catchline read as follows: "Assessment, management, and control of operating and support costs for major weapon systems".
 
 Pub. L. 116–283, §1848(d)(1), renumbered section 2337a of this title as this section.
 
@@ -94,7 +94,7 @@ Pilot Program Authorized.—The Secretary of Defense may carry out a pilot progr
 
 "(b)
 
-Purpose of Pilot Program.—The purpose of the pilot program authorized by subsection (a) is to assess the feasibility and advisability of utilizing time-certain development in the acquisition of major weapon systems in order to deliver new capabilities to the warfighter more rapidly through—
+Purpose of Pilot Program.—The purpose of the pilot program authorized by subsection (a) is to assess the feasibility and advisability of utilizing time-certaindevelopment in the acquisition of major weapon systems in order to deliver new capabilities to the warfighter more rapidly through—
 
 &emsp;"(1) disciplined decision-making;
 

@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 97–34, §212(d)(2)(C)(ii), substituted "section 48(g)(3)(
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–541 added subsec. (c).
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–600 substituted "registered historic district (as defined in section 191(d)(2))" for "Registered Historic District" and "Secretary of the Interior has certified that such structure is not a certified historic structure, and that such structure is not of historic significance to the district, and if such certification occurs after the beginning of the demolition of such structure, the taxpayer has certified to the Secretary that, at the time of such demolition, he ingood faith was not aware of the certification requirement by the Secretary of the Interior" for "Secretary of the Interior has certified, prior to the demolition of such structure, that such structure is not of historic significance to the district".
+<b>1978</b>—Subsec. (b). Pub. L. 95–600 substituted "registered historic district (as defined in section 191(d)(2))" for "Registered Historic District" and "Secretary of the Interior has certified that such structure is not a certified historic structure, and that such structure is not of historic significance to the district, and if such certification occurs after the beginning of the demolition of such structure, the taxpayer has certified to the Secretary that, at the time of such demolition, he in good faith was not aware of the certification requirement by the Secretary of the Interior" for "Secretary of the Interior has certified, prior to the demolition of such structure, that such structure is not of historic significance to the district".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 95–600 effective as if included within the enactment of t
 
 #### Effective Date
 
-Pub. L. 94–455, title XXI, §2124(b)(3), Oct. 4, 1976, 90 Stat. 1918, which had provided that enactment of this section by subsec. (b) shall apply with respect to demolitions commencing after June 30, 1976, and before Jan. 1, 1981, was repealed by Pub. L. 96–541, §2(e)(2), Dec. 17, 1980, 94 Stat. 3205. See subsec. (c) of this section.
+Pub. L. 94–455, title XXI, §2124(b)(3), Oct. 4, 1976, 90 Stat. 1918, which had provided that enactment of this section by subsec. (b) shall apply with respect todemolitions commencing after June 30, 1976, and before Jan. 1, 1981, was repealed by Pub. L. 96–541, §2(e)(2), Dec. 17, 1980, 94 Stat. 3205. See subsec. (c) of this section.
 

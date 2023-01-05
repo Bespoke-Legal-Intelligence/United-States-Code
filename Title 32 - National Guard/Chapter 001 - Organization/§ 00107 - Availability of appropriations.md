@@ -22,7 +22,7 @@
 
 (c) The pay and allowances for the Chief of the National Guard Bureau and officers of the Army National Guard of the United States or the Air National Guard of the United States called to active duty under section 12402 of title 10 shall be paid from appropriations for the pay of the Army National Guard or Air National Guard.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 599; Pub. L. 90–83, §4, Sept. 11, 1967, 81 Stat. 220; Pub. L. 92–119, §1(a), Aug. 13, 1971, 85 Stat. 340; Pub. L. 97–258, §2(h), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 103–337, div. A, title XVI, §1676(a)(1), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 105–85, div. A, title VI, §603(d)(4), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 108–136, div. A, title V, §514(a), Nov. 24, 2003, 117 Stat. 1460; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 599; Pub. L. 90–83, §4, Sept. 11, 1967, 81 Stat. 220; Pub. L. 92–119, §1(a), Aug. 13, 1971, 85 Stat. 340; Pub. L. 97–258, §2(h), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29,1988, 102 Stat. 2059; Pub. L. 103–337, div. A, title XVI, §1676(a)(1), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 105–85, div. A, title VI, §603(d)(4), Nov. 18, 1997, 111 Stat. 1783; Pub. L. 108–136, div. A, title V, §514(a), Nov. 24, 2003, 117 Stat. 1460; Pub. L. 109–163, div. A, title X, §1057(b)(3), Jan. 6, 2006, 119 Stat. 3441.)
 
 Historical and Revision Notes<br>1956
 
@@ -138,9 +138,9 @@ Requirements.—The requirements specified in this subsection are the following:
 
 "(c)
 
-Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' has the meaning given that term in subsection (d) of \[former\] section 1210 of the National Defense Authorization Act for Fiscal Year 2010."
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' has the meaning given that term insubsection (d) of \[former\] section 1210 of the National Defense Authorization Act for Fiscal Year 2010."
 
 #### Availability of Appropriated Funds for the State Partnership Program
 
-Pub. L. 111–84, div. A, title XII, §1210, Oct. 28, 2009, 123 Stat. 2517, which required the Secretary of Defense to prescribe regulations regarding appropriated funds for the State Partnership Program, submit the regulationsto defense and foreign relations committees, and report to the committees, was repealed by Pub. L. 113–66, div. A, title XII, §1205(h), Dec. 26, 2013, 127 Stat. 899.
+Pub. L. 111–84, div. A, title XII, §1210, Oct. 28, 2009, 123 Stat. 2517, which required the Secretary of Defense to prescribe regulations regarding appropriated funds for the State Partnership Program, submit the regulations to defense and foreign relations committees, and report to the committees, was repealed by Pub. L. 113–66, div. A, title XII, §1205(h), Dec. 26, 2013, 127 Stat. 899.
 

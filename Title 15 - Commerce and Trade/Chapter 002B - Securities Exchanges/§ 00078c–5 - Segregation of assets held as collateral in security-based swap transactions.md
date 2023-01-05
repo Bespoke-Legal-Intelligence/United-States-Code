@@ -20,7 +20,7 @@ It shall be unlawful for any person to accept any money, securities, or property
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (b), money, securities, and property of a security-based swaps customer of a broker, dealer, or security-based swap dealer described in subsection (b) may, for convenience, be commingled and deposited in the same 1 or moreaccounts with any bank or trust company or with a clearing agency.
+&emsp;&emsp;Notwithstanding subsection (b), money, securities, and property of a security-based swaps customer of a broker, dealer, or security-based swap dealer described in subsection (b) may, for convenience, be commingled and deposited in the same 1 or more accounts with any bank or trust company or with a clearing agency.
 
 #### (B) Withdrawal
 

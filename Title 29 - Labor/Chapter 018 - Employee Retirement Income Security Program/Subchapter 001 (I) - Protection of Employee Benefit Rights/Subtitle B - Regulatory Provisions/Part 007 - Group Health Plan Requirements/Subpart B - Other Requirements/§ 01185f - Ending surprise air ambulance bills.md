@@ -84,7 +84,7 @@ In the case of a participant or beneficiary who is in a group health plan or gro
 
 &emsp;&emsp;&emsp;&emsp;(I) the qualifying payment amounts (as defined in section 1185e(a)(3)(E) of this title) for the applicable year for items and services that are comparable to the qualified IDR air ambulance service and that are furnished in the same geographic region (as defined by the Secretary for purposes of such subsection) as such qualified IDR air ambulance service; and
 
-&emsp;&emsp;&emsp;&emsp;(II) subject to clause (iii), information on any circumstance described in clause\(ii), such information as requested in subparagraph (B)(i)(II), and any additional information provided in subparagraph (B)(ii).
+&emsp;&emsp;&emsp;&emsp;(II) subject to clause (iii), information on any circumstance described in clause (ii), such information as requested in subparagraph (B)(i)(II), and any additional information provided in subparagraph (B)(ii).
 
 #### (ii) Additional circumstances
 
@@ -108,7 +108,7 @@ In the case of a participant or beneficiary who is in a group health plan or gro
 
 #### (D) Effects of determination
 
-&emsp;&emsp;The provisions of section 1185e(c)(5)(E) of this title shall apply with respect to a determination of a certified IDR entity under subparagraph (A), the notification submitted with respect to such determination, the services with respect to such notification, and the parties to such notification in the same manner as such provisions apply with respect to a determination of a certified IDR entity under section 1185e(c)(5)(E) of this title, the notification submitted with respect to such determination, the items and services with respect to such notification, and the parties to such notification.
+&emsp;&emsp;The provisions of section 1185e(c)(5)(E) of this title shall apply with respect to a determination of a certified IDR entity under subparagraph (A), the notification submitted with respect to such determination, the services with respect to such notification, and the parties to such notification in thesame manner as such provisions apply with respect to a determination of a certified IDR entity under section 1185e(c)(5)(E) of this title, the notification submitted with respect to such determination, the items and services with respect to such notification, and the parties to such notification.
 
 #### (E) Costs of independent dispute resolution process
 
@@ -140,7 +140,7 @@ In the case of a participant or beneficiary who is in a group health plan or gro
 
 #### (B) Information with respect to requests
 
-&emsp;&emsp;For purposes of subparagraph (A), the information described in this subparagraph is, with respect to a notification under the IDR process of a nonparticipating provider, grouphealth plan, or health insurance issuer offering group health insurance coverage—
+&emsp;&emsp;For purposes of subparagraph (A), the information described in this subparagraph is, with respect to a notification under the IDR process of a nonparticipating provider, group health plan, or health insurance issuer offering group health insurance coverage—
 
 &emsp;&emsp;&emsp;(i) a description of each air ambulance service included in such notification;
 

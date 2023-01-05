@@ -20,7 +20,7 @@
 
 #### (B) Pass rates and scaled scores
 
-&emsp;&emsp;For the most recent year for which the information is available for those students who took the assessments used for teacher certification or licensure by the State in which the program is located and are enrolled in the traditional teacher preparation program or alternative routes to State certification or licensure program, and for those who have taken such assessments and have completed the traditional teacher preparation program or alternative routes to State certification or licensure program during the two-year period preceding such year, for each of such assessments—
+&emsp;&emsp;For the most recent year for which the information is available for those students who took the assessments used for teacher certification or licensure by the State in which the program is located and are enrolled in the traditional teacher preparation program or alternative routes to State certification or licensure program, and for those who have taken such assessments andhave completed the traditional teacher preparation program or alternative routes to State certification or licensure program during the two-year period preceding such year, for each of such assessments—
 
 &emsp;&emsp;&emsp;(i) the percentage of students who have completed 100 percent of the nonclinical coursework and taken the assessment who pass such assessment;
 
@@ -66,7 +66,7 @@
 
 #### (2) Report
 
-&emsp;Each eligible partnership receiving a grant under section 1022a of this title shall reportannually on the progress of the eligible partnership toward meeting the purposes of this part and the objectives and measures described in section 1022c(a) of this title.
+&emsp;Each eligible partnership receiving a grant under section 1022a of this title shall report annually on the progress of the eligible partnership toward meeting the purposes of this part and the objectives and measures described in section 1022c(a) of this title.
 
 #### (3) Fines
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;(D) For each of the assessments used by the State for teacher certification or licensure—
 
-&emsp;&emsp;&emsp;(i) for each institution of higher education located in the State and each entity located in the State, including those that offer an alternative route for teacher certification or licensure, the percentage of students at such institution or entity who have completed 100 percent of the nonclinical coursework and taken the assessment who pass such assessment;
+&emsp;&emsp;&emsp;(i) for each institution of higher education located in the State and each entitylocated in the State, including those that offer an alternative route for teacher certification or licensure, the percentage of students at such institution or entity who have completed 100 percent of the nonclinical coursework and taken the assessment who pass such assessment;
 
 &emsp;&emsp;&emsp;(ii) the percentage of all such students at all such institutions and entities who have taken the assessment who pass such assessment;
 

@@ -60,7 +60,7 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 &emsp;&emsp;(B) receiving claims for payments under section 1080(a) of this title, examining those claims, and pursuant to regulations of the Secretary, approving claims for payment, or requiring lenders to take additional collection action as a condition for payment of claims; and
 
-&emsp;&emsp;(C) certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against a borrower (pursuant to regulations of the Secretary issued under subsection (a)), and recommending litigation with respect to any such claim.
+&emsp;&emsp;(C) certifying to the central office when collection of defaulted loans has been completed, compromising or agreeing to the modification of any Federal claim against aborrower (pursuant to regulations of the Secretary issued under subsection (a)), and recommending litigation with respect to any such claim.
 
 #### (e) Use of information on borrowers
 
@@ -80,7 +80,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (2) Access to records
 
-&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purpose of section 6(a)(4) of the Inspector General Act of 1978, such records shall be considered to be records necessary in the performance of functions assigned by that Act to the Inspector General.
+&emsp;For the purpose of carrying out this subsection, the records of any entity described in subparagraph (A), (B), (C), or (D) <sup>1</sup> of paragraph (1) shall be available to the Comptroller General and the Inspector General of the Department of Education. For the purpose of section 716(c) of title 31, such records shall be considered to be records to which the Comptroller General has access by law, and for the purpose of section 406(a)(4) of title 5, such records shall be considered to be records necessary in the performance of functions assigned by chapter 4 of title 5 to the Inspector General.
 
 #### (3) "Record" defined
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (4) Audit procedures
 
-&emsp;In conducting audits pursuant to this subsection, the Comptroller General and the Inspector General of the Department of Education shall audit the records to determine the extent to which they, at a minimum, comply with Federal statutes, and rules and regulations prescribed by the Secretary, in effect at the time that the record was made, and in no case shall the Comptroller General or the Inspector General apply subsequently determined standards, procedures, or regulations tothe records of such agency, lender, or Authority.
+&emsp;In conducting audits pursuant to this subsection, the Comptroller General and the Inspector General of the Department of Education shall audit the records to determine the extent to which they, at a minimum, comply with Federal statutes, and rules and regulations prescribed by the Secretary, in effect at the time that the record was made, and in no case shall the Comptroller General or the Inspector General apply subsequently determined standards, procedures, or regulations to the records of such agency, lender, or Authority.
 
 #### (g) Civil penalties
 
@@ -160,7 +160,7 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 #### (2) Review of sanctions on lenders
 
-&emsp;(A) The Secretary shall review each limitation, suspension, or termination imposed by any guaranty agency pursuant to section1078(b)(1)(U) of this title within 60 days after receipt by the Secretary of a notice from the guaranty agency of the imposition of such limitation, suspension, or termination, unless the right to such review is waived in writing by the lender. The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanction—
+&emsp;(A) The Secretary shall review each limitation, suspension, or termination imposed by any guaranty agency pursuant to section 1078(b)(1)(U) of this title within 60 days after receipt by the Secretary of a notice from the guaranty agency of the imposition of such limitation, suspension, or termination, unless the right to such review is waived in writing by the lender. The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanction—
 
 &emsp;&emsp;(i) if such review is waived; or
 
@@ -270,7 +270,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 &emsp;&emsp;(C) authorization of the use of computer or similar electronic methods of maintaining records relating to the performance of servicing, collection, and other regulatory requirements under this chapter; and
 
-&emsp;&emsp;(D) authorization and implementation of electronic data linkages for the exchange of information to and from lenders, guarantors, institutions of higher education, third party servicers, and the Department of Education for student status confirmation reports, claim filing, interest and special allowance billing, deferment processing, and all other administrative steps relating to loans made pursuant to this part where using electronic data linkage is feasible.
+&emsp;&emsp;(D) authorization and implementation of electronic data linkages for the exchange of information to and from lenders, guarantors,institutions of higher education, third party servicers, and the Department of Education for student status confirmation reports, claim filing, interest and special allowance billing, deferment processing, and all other administrative steps relating to loans made pursuant to this part where using electronic data linkage is feasible.
 
 #### (4) Additional recommendations
 
@@ -300,7 +300,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part D. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part D as directed by the Secretary. Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part D mayuse a master promissory note for loans under this part and part D.
+&emsp;&emsp;&emsp;The Secretary shall develop and require the use of master promissory note forms for loans made under this part and part D. Such forms shall be available for periods of enrollment beginning not later than July 1, 2000. Each form shall allow eligible borrowers to receive, in addition to initial loans, additional loans for the same or subsequent periods of enrollment through a student confirmation process approved by the Secretary. Such forms shall be used for loans made under this part or part D as directed by the Secretary. Unless otherwise notified by the Secretary, each institution of higher education that participates in the program under this part or part D may use a master promissory note for loans under this part and part D.
 
 #### (ii) Consultation
 
@@ -326,7 +326,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (2) Common deferment form
 
-&emsp;The Secretary, in cooperation with representatives of guaranty agencies, institutions of higher education, and lenders involved in loans made under this part, shall prescribe a common deferment reporting form to be used for the processing of deferments of loans made under this subchapter.
+&emsp;The Secretary, in cooperation with representatives of guaranty agencies, institutions of higher education, and lenders involved in loans made under this part, shall prescribe a common deferment reporting form to be usedfor the processing of deferments of loans made under this subchapter.
 
 #### (3) Common reporting formats
 
@@ -368,7 +368,7 @@ In the event that the Secretary has determined that a guaranty agency is unable 
 
 All officers and directors, and those employees and paid consultants of eligible institutions, eligible lenders, guaranty agencies, loan servicing agencies, accrediting agencies or associations, State licensing agencies or boards, and entities acting as secondary markets (including the Student Loan Marketing Association), who are engaged in making decisions as to the administration of any program or funds under this subchapter or as to the eligibility of any entity or individual to participate under this subchapter, shall report to the Secretary, in such manner and at such time as the Secretary shall require, on any financial interest which such individual may hold in any other entity participating in any program assisted under this subchapter.
 
-(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702; Pub. L. 106–554, §1(a)(1) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 109–171, title VIII, §8014(j), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title I, §103(b)(6), title IV, §433, Aug. 14, 2008, 122 Stat. 3089, 3247; Pub. L. 111–39, title IV, §402(f)(9), July 1, 2009, 123 Stat. 1944.)
+(Pub. L. 89–329, title IV, §432, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1401; amended Pub. L. 100–50, §10(x), (y), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2006(a), Dec. 19, 1989, 103 Stat. 2118; Pub. L. 102–325, title IV, §425, July 23, 1992, 106 Stat. 543; Pub. L. 103–208, §2(k)(2), (3), Dec. 20, 1993, 107 Stat. 2485; Pub. L. 104–66, title I, §1042(e), Dec. 21, 1995, 109 Stat. 716; Pub. L. 105–244, title IV, §427, Oct. 7, 1998, 112 Stat. 1702; Pub. L. 106–554, §1(a)(1) \[title III, §311\], Dec. 21, 2000, 114 Stat. 2763, 2763A–46; Pub. L. 109–171, title VIII, §8014(j), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title I, §103(b)(6), title IV, §433, Aug. 14, 2008, 122 Stat. 3089, 3247; Pub. L. 111–39, title IV, §402(f)(9), July 1, 2009, 123 Stat. 1944; Pub. L. 117–286, §4(b)(39), Dec. 27, 2022, 136 Stat. 4347.)
 
 #### <b>Editorial Notes</b>
 
@@ -376,13 +376,13 @@ All officers and directors, and those employees and paid consultants of eligible
 
 Subparagraph (D) of paragraph (1) of subsec. (f), referred to in subsec. (f)(2), was repealed by Pub. L. 105–244, title IV, §427(a)(3), Oct. 7, 1998, 112 Stat. 1702.
 
-The Inspector General Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 
 A prior section 1082, Pub. L. 89–329, title IV, §432, Nov. 8, 1965, 79 Stat. 1246; Pub. L. 90–460, §3(d), Aug. 3, 1968, 82 Stat. 638; Pub. L. 93–604, title VII, §705(a), Jan. 2, 1975, 88 Stat. 1964; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2127; Pub. L. 96–88, title III, §301(b)(2), Oct. 17, 1979, 93 Stat. 678; Pub. L. 96–374, title IV, §416(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1421, 1503; Pub. L. 99–272, title XVI, §16024, Apr. 7, 1986, 100 Stat. 351, related to functions, powers, and duties of Secretary, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(2). Pub. L. 117–286 substituted "section 406(a)(4) of title 5," for "section 6(a)(4) of the Inspector General Act of 1978," and "chapter 4 of title 5" for "that Act".
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–39, §402(f)(9)(A), made technical amendment to reference in original act which appears in text as reference to section 1078 of this title.
 
@@ -456,7 +456,7 @@ Subsec. (h)(2)(A). Pub. L. 102–325, §425(d)(1), as amended by Pub. L. 103–2
 
 Pub. L. 102–325, §425(b)(3), in first sentence struck out ", in accordance with sections 556 and 557 of title 5," after "The Secretary shall".
 
-Subsec. (h)(2)(B), (C). Pub. L. 102–325, §425(d)(2), (3), added subpar. (B), redesignated former subpar. (B) as (C), and substituted "sanction" for "disqualification" in two places.
+Subsec. (h)(2)(B), (C). Pub. L. 102–325, §425(d)(2), (3), added subpar. (B), redesignated former subpar. (B) as\(C), and substituted "sanction" for "disqualification" in two places.
 
 Subsec. (h)(3)(A). Pub. L. 102–325, §425(d)(4), as amended by Pub. L. 103–208, §2(k)(3), in second sentence substituted "The Secretary shall uphold the imposition of such limitation, suspension, or termination in the student loan insurance program of each of the guaranty agencies under this part, and shall notify such guaranty agencies of such sanctions" for "The Secretary shall disqualify such institution from participation in the student loan insurance program of each of the guaranty agencies under this part, and notify such guaranty agencies of such disqualification".
 

@@ -152,7 +152,7 @@ Treatment.—The use of a local or other geographical or economic hiring prefere
 
 Workforce Diversity Report.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary shall submit to Congress a report describing methods—
 
-&emsp;"(1) to ensure preapprenticeship programs are established and implemented to meet the needs of employers in transportation and transportation infrastructure construction industries, including with respect to the formal connection of thepreapprenticeship programs to registered apprenticeship programs;
+&emsp;"(1) to ensure preapprenticeship programs are established and implemented to meet the needs of employers in transportation and transportation infrastructure construction industries, including with respect to the formal connection of the preapprenticeship programs to registered apprenticeship programs;
 
 &emsp;"(2) to address barriers to employment (within the meaning of the Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.)) in transportation and transportation infrastructure construction industries for—
 

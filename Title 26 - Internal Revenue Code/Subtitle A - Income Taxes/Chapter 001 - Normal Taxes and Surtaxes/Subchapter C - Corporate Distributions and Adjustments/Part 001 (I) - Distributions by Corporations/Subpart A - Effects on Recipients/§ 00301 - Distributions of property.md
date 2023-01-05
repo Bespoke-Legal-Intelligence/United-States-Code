@@ -16,7 +16,7 @@ Except as otherwise provided in this chapter, a distribution of property (as def
 
 &emsp;&emsp;(A) the amount of any liability of the corporation assumed by the shareholder in connection with the distribution, and
 
-&emsp;&emsp;(B) the amount of any liability to which the property received by the shareholder is subject immediately before, and immediately after, the distribution.
+&emsp;&emsp;(B) the amount of any liability to which the property received by the shareholder issubject immediately before, and immediately after, the distribution.
 
 #### (3) Determination of fair market value
 
@@ -204,7 +204,7 @@ In general.—The amendment made by paragraph (1) \[amending this section\] shal
 
 "(B)
 
-Exception.—The amendment made by paragraph (1) shall not apply for purposes of determining gain or loss on any disposition of stock after December 15, 1987, and before January 1, 1989, if such disposition is pursuant to a written binding contract, governmental order, letter of intent or preliminary agreement, or stock acquisition agreement, in effect on or before December 15, 1987."
+Exception.—The amendment made by paragraph (1) shall not apply for purposes of determining gain orloss on any disposition of stock after December 15, 1987, and before January 1, 1989, if such disposition is pursuant to a written binding contract, governmental order, letter of intent or preliminary agreement, or stock acquisition agreement, in effect on or before December 15, 1987."
 
 #### Effective Date of 1986 Amendment
 
@@ -214,7 +214,7 @@ Amendment by section 1804(f)(2)(B) of Pub. L. 99–514 effective, except as othe
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 54(b) of Pub. L. 98–369 applicable to distributions after July 18, 1984, in taxable yearsending after July 18, 1984, see section 54(d)(2) of Pub. L. 98–369, set out as a note under section 311 of this title.
+Amendment by section 54(b) of Pub. L. 98–369 applicable to distributions after July 18, 1984, in taxable years ending after July 18, 1984, see section 54(d)(2) of Pub. L. 98–369, set out as a note under section 311 of this title.
 
 Pub. L. 98–369, div. A, title I, §61(e)(4), July 18, 1984, 98 Stat. 583, provided that: "The amendment made by subsection (d) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
 

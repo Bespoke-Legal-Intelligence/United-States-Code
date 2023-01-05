@@ -24,7 +24,7 @@ Each permit issued under any approved State or Federal program pursuant to this 
 
 &emsp;(8) eliminate fire hazards and otherwise eliminate conditions which constitute a hazard to health and safety of the public;
 
-&emsp;(9) minimize the disturbances of the prevailing hydrologic balance at the minesite and in associated offsite areas and to the quantity of water in surface ground water systems both during and after coal mining operations and during reclamation by—
+&emsp;(9) minimize the disturbances of the prevailing hydrologic balance at the minesite andin associated offsite areas and to the quantity of water in surface ground water systems both during and after coal mining operations and during reclamation by—
 
 &emsp;&emsp;(A) avoiding acid or other toxic mine drainage by such measures as, but not limited to—
 
@@ -56,5 +56,5 @@ The provisions of this subchapter relating to State and Federal programs, permit
 
 #### References in Text
 
-The Federal Coal Mine Health and Safety Act of 1969, referred to in subsec. (a), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Federal Coal Mine Health and Safety Act of 1969, referred to in subsec. (a), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 

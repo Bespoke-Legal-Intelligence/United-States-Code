@@ -26,7 +26,7 @@ For purposes of this part:
 
 #### (6) Initial coverage limit
 
-&emsp;The term "initial coverage limit" means such limit as established under section 1395w–102(b)(3) of this title, or, in the case of coverage that is not standard prescription drug coverage, the comparable limit (if any) established under the coverage.
+&emsp;The term "initial coverage limit" means such limit as established under section 1395w–102(b)(3) of this title for a year before 2025, or, in the case of coverage that is not standard prescription drug coverage, the comparable limit (if any) established under the coverage for such year.
 
 #### (7) Insurance risk
 
@@ -82,7 +82,7 @@ For purposes of this part:
 
 #### (b) Application of part C provisions under this part
 
-For purposes of applying provisions of part C under this part with respect to a prescriptiondrug plan and a PDP sponsor, unless otherwise provided in this part such provisions shall be applied as if—
+For purposes of applying provisions of part C under this part with respect to a prescription drug plan and a PDP sponsor, unless otherwise provided in this part such provisions shall be applied as if—
 
 &emsp;(1) any reference to an MA plan included a reference to a prescription drug plan;
 
@@ -94,13 +94,17 @@ For purposes of applying provisions of part C under this part with respect to a 
 
 &emsp;(5) any reference to an election period under section 1395w–21 of this title were a reference to an enrollment period under section 1395w–101 of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–41, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2148.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–41, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2148; amended Pub. L. 117–169, title I, §11201(e)(6), Aug. 16, 2022, 136 Stat. 1892.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 1395w–101(a)(3) of this title, referred to in subsec. (a)(4), (8), (9), was in the original "section 1860D–1(a)(4)", and was translated as meaning section 1860D–1(a)(3) of act Aug. 14, 1935, which is classified to section 1395w–101(a)(3) of this title, to reflect the probable intent of Congress, because section 1395w–101(a) of this title does not contain a par. (4) and par. (3) defines terms for purposes of this part.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a)(6). Pub. L. 117–169 inserted "for a year before 2025" after "1395w–102(b)(3) of this title" and "for such year" before period at end.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

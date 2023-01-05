@@ -18,7 +18,7 @@ Duties.—The Chief Diversity Officer—
 
 &emsp;(3) shall establish and maintain a Department of Defense strategic plan that publicly states a diversity definition, vision, and goals for the Department;
 
-&emsp;(4) shall define a set of strategic metrics that are directly linked to key organizational priorities and goals, actionable, and actively used to implement the strategic plan under paragraph (3);
+&emsp;(4) shall define a set of strategic metrics that are directly linked to key organizationalpriorities and goals, actionable, and actively used to implement the strategic plan under paragraph (3);
 
 &emsp;(5) shall advise in the establishment of training in diversity dynamics and training in practices for leading diverse groups effectively;
 

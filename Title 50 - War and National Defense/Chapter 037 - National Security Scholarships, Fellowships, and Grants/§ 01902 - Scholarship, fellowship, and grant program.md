@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) awarding fellowships to graduate students who—
 
-&emsp;&emsp;&emsp;(i) are United States citizens to enable such students to pursue education as partof a graduate degree program of a United States institution of higher education in the disciplines of foreign languages, area studies, counterproliferation studies, and other international fields relating to the national security interests of the United States that are critical areas of those disciplines (as determined under section 1903(d)(4)(B) of this title) and in which deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title); and
+&emsp;&emsp;&emsp;(i) are United States citizens to enable such students to pursue education as part of a graduate degree program of a United States institution of higher education in the disciplines of foreign languages, area studies, counterproliferation studies, and other international fields relating to the national security interests of the United States that are critical areas of those disciplines (as determined under section 1903(d)(4)(B) of this title) and in which deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title); and
 
 &emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(B), enter into an agreement to work in a national security position or work in the field of education in the area of study for which the fellowship was awarded;
 
@@ -106,9 +106,9 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 &emsp;The Secretary of Defense may—
 
-&emsp;&emsp;(A) appoint or retain a person provided scholarship or fellowship assistance under the program in a position in the Department of Defense on an interim basis during the period of the person's pursuit of a degree under the program and for a period not to exceed two years after completion of the degree, but only if, in the case of the period after completion of the degree, there is an active investigation to provide security clearance to the person for an appropriate permanent position in the Department of Defense under subsection (b)(2); and
+&emsp;&emsp;(A) appoint or retain a person provided scholarship or fellowship assistance underthe program in a position in the Department of Defense on an interim basis during the period of the person's pursuit of a degree under the program and for a period not to exceed two years after completion of the degree, but only if, in the case of the period after completion of the degree, there is an active investigation to provide security clearance to the person for an appropriate permanent position in the Department of Defense under subsection (b)(2); and
 
-&emsp;&emsp;(B) if there is no appropriate permanent position available for the person after the end of the periods described in subparagraph (A), separate the person from employment with the Department without regard to any other provision of law, in which event theservice agreement of the person under subsection (b) shall terminate.
+&emsp;&emsp;(B) if there is no appropriate permanent position available for the person after the end of the periods described in subparagraph (A), separate the person from employment with the Department without regard to any other provision of law, in which event the service agreement of the person under subsection (b) shall terminate.
 
 #### (2) Treatment of certain service
 
@@ -212,7 +212,7 @@ Subsec. (k)(3), (4). Pub. L. 115–91, §1625(1), (3), added par. (3) and redesi
 
 <b>2013</b>—Subsec. (k). Pub. L. 112–239 amended subsec. (k) generally. Prior to amendment, text read as follows: "The Secretary of Defense, the Secretary of Homeland Security, the Secretary of State, or the head of a Federal agency or office identified by the Secretary of Defense under subsection (g) as having national security responsibilities—
 
-&emsp;"(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to a position that is identified under subsection (b)(2)(A)(i) as having national security responsibilities, or to a position in such Federal agency or office, in the excepted service an individual who has successfully completed an academic program for which a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment owes a service commitment to such Department or such Federal agency or office; and
+&emsp;"(1) may, without regard to any provision of title 5 governing appointments in the competitive service, appoint to a position that is identified under subsection (b)(2)(A)(i) as having national security responsibilities, or to a position in such Federal agency or office, in the excepted service an individual who has successfully completed an academic program forwhich a scholarship or fellowship under this section was awarded and who, under the terms of the agreement for such scholarship or fellowship, at the time of such appointment owes a service commitment to such Department or such Federal agency or office; and
 
 &emsp;"(2) may, upon satisfactory completion of two years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment."
 
@@ -286,7 +286,7 @@ Subsecs. (e), (f). Pub. L. 102–496, §404(c), redesignated subsec. (f) as (e) 
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–487, title VI, §602(a)(2), Dec. 23, 2004, 118 Stat. 3953, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to training under section 802(i) \[now 802(j)\] of the David L. Boren National Security Act of 1991 \[50 U.S.C. 1902(i), now 1902(j)\] that begins on or after the date that is 90 days after the date of the enactment of this Act \[Dec. 23, 2004\]."
+Pub. L. 108–487, title VI, §602(a)(2), Dec. 23, 2004, 118 Stat. 3953, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to training under section 802(i) \[now 802(j)\] of the David L. Boren National Security Act of 1991 \[50 U.S.C. 1902(i), now 1902(j)\] that begins on or after the date that is 90 days after the date of the enactment of this Act \[Dec. 23, 2004\]."
 
 Amendment by Pub. L. 108–487 effective Dec. 23, 2004, except as otherwise provided, see section 801 of Pub. L. 108–487, set out as a note under section 2656f of Title 22, Foreign Relations and Intercourse.
 

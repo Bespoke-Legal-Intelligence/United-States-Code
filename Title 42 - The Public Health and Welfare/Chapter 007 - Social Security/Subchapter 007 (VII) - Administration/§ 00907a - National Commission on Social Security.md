@@ -14,7 +14,7 @@
 
 (B) At no time shall more than three of the members appointed by the President, one of the members appointed by the Speaker of the House of Representatives, or one of the members appointed by the President pro tempore of the Senate be members of the same political party.
 
-(C) The membership of the Commission shall consist of individuals who are of recognized standing and distinction and who possess the demonstrated capacity to discharge the duties imposed on the Commission, and shall include representatives of the private insurance industry and of recipients and potential recipients ofbenefits under the programs involved as well as individuals whose capacity is based on a special knowledge or expertise in those programs. No individual who is otherwise an officer or full-time employee of the United States shall serve as a member of the Commission.
+(C) The membership of the Commission shall consist of individuals who are of recognized standing and distinction and who possess the demonstrated capacity to discharge the duties imposed on the Commission, and shall include representatives of the private insurance industry and of recipients and potential recipients of benefits under the programs involved as well as individuals whose capacity is based on a special knowledge or expertise in those programs. No individual who is otherwise an officer or full-time employee of the United States shall serve as a member of the Commission.
 
 (D) The Chairman of the Commission shall designate a member of the Commission to act as Vice Chairman of the Commission.
 

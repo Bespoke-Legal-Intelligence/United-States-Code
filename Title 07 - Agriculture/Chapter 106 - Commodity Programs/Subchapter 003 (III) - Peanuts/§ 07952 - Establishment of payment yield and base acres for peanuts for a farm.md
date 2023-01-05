@@ -48,7 +48,7 @@
 
 #### (1) Assignment by historic peanut producers
 
-&emsp;The Secretary shall give each historic peanut producer an opportunity to assign the average peanut yield and average acreage determined under subsection (a) for each farm of the historic peanut producer to cropland on that farm or another farm in the same State or a contiguous State.
+&emsp;The Secretary shall give each historic peanut producer an opportunity to assign the average peanut yield and average acreage determined under subsection (a) for each farm ofthe historic peanut producer to cropland on that farm or another farm in the same State or a contiguous State.
 
 #### (2) Limitation on acreage assignment
 
@@ -134,5 +134,5 @@ The owner of a farm may reduce, at any time, the base acres for peanuts assigned
 
 This subchapter, referred to in subsecs. (c) and (d), was in the original "this subtitle", meaning subtitle C (§§1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (f)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (f)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 

@@ -38,7 +38,7 @@ A permanent appropriation to carry out cl. (2) of this section is contained in s
 
 #### Annual Appropriations
 
-Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under section 269a of this title.
+Annual appropriations to meet the obligations of membership in various international organizationswere contained in acts listed in a note set out under section 269a of this title.
 
 #### Authorization of Appropriations for Expenses of 1959 Annual Meeting of North Atlantic Treaty Parliamentary Conference
 

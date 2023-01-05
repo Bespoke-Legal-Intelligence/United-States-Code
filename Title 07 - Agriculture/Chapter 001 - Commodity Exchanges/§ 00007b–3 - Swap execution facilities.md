@@ -74,7 +74,7 @@ The goal of this section is to promote the trading of swaps on swap execution fa
 
 &emsp;&emsp;(C) establish rules governing the operation of the facility, including rules specifying trading procedures to be used in entering and executing orders traded or posted on the facility, including block trades; and
 
-&emsp;&emsp;(D) provide by its rules that when a swap dealer or major swap participant enters into or facilitates a swap that is subject to themandatory clearing requirement of section 2(h) of this title, the swap dealer or major swap participant shall be responsible for compliance with the mandatory trading requirement under section 2(h)(8) of this title.
+&emsp;&emsp;(D) provide by its rules that when a swap dealer or major swap participant enters into or facilitates a swap that is subject to the mandatory clearing requirement of section 2(h) of this title, the swap dealer or major swap participant shall be responsible for compliance with the mandatory trading requirement under section 2(h)(8) of this title.
 
 #### (3) Swaps not readily susceptible to manipulation
 
@@ -260,7 +260,7 @@ The Commission shall prescribe rules governing the regulation of alternative swa
 
 #### Effective Date
 
-Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision ofsubtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
 
 <i><sup>1</sup></i><i> So in original. The closing quotation marks probably should not appear.</i>
 

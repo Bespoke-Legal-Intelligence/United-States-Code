@@ -56,7 +56,7 @@ The Secretary shall provide technical assistance to States to implement the requ
 
 &emsp;(B) in a State in which there is no statewide energy code either for residential buildings or for commercial buildings, to a local government that has adopted and is implementing residential and commercial building energy efficiency codes, as described in subparagraph (A).
 
-(3) Of the amounts made available under this subsection, the Secretary may use $500,000 for each fiscal year to train State and local officials to implement codes described in paragraph (2).
+(3) Of the amounts made available under this subsection, the Secretary may use $500,000 foreach fiscal year to train State and local officials to implement codes described in paragraph (2).
 
 (4)(A) There are authorized to be appropriated to carry out this subsection—
 

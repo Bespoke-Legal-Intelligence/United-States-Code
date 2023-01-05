@@ -116,11 +116,17 @@ The Director may pay the costs of treating a qualifying injury of a covered empl
 
 &emsp;&emsp;The regulations prescribed under subparagraph (A) shall include regulations detailing fair and equitable criteria for payment under paragraph (2).
 
-(June 20, 1949, ch. 227, §19A, as added Pub. L. 116–92, div. E, title LXIV, §6412(a), Dec. 20, 2019, 133 Stat. 2197; amended Pub. L. 117–46, §2(b), (f), Oct. 8, 2021, 135 Stat. 391, 393.)
+#### (5) No effect on other benefits
+
+&emsp;Payments made under paragraph (2) are supplemental to any other benefit furnished by the United States Government for which a covered dependent, covered employee, or covered individual is entitled, and the receipt of such payments may not affect the eligibility of such a person to any other benefit furnished by the United States Government.
+
+(June 20, 1949, ch. 227, §19A, as added Pub. L. 116–92, div. E, title LXIV, §6412(a), Dec. 20, 2019, 133 Stat. 2197; amended Pub. L. 117–46, §2(b), (f), Oct. 8, 2021, 135 Stat. 391, 393; Pub. L. 117–103, div. X, title VI, §603(a), Mar. 15, 2022, 136 Stat. 995.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(5). Pub. L. 117–103 added par. (5).
 
 <b>2021</b>—Subsec. (b). Pub. L. 117–46, §2(f), inserted "total disability resulting from" before "certain injuries" in heading.
 
@@ -134,7 +140,7 @@ Pub. L. 117–46, §2(c), Oct. 8, 2021, 135 Stat. 392, provided that: "Payment u
 
 \[For definition of "qualifying injury" as used in section 2(c) of Pub. L. 117–46, set out above, see section 2(a) of Pub. L. 117–46, set out below.\]
 
-Pub. L. 116–92, div. E, title LXIV, §6412(c), Dec. 20, 2019, 133 Stat. 2198, provided that: "Section 19A of theCentral Intelligence Agency Act of 1949 \[50 U.S.C. 3519b\], as added by subsection (a), shall apply with respect to—
+Pub. L. 116–92, div. E, title LXIV, §6412(c), Dec. 20, 2019, 133 Stat. 2198, provided that: "Section 19A of the Central Intelligence Agency Act of 1949 \[50 U.S.C. 3519b\], as added by subsection (a), shall apply with respect to—
 
 &emsp;"(1) payments made to covered employees (as defined in such section) under section 8105 of title 5, United States Code, beginning on or after the date of the enactment of this Act \[Dec. 20, 2019\]; and
 

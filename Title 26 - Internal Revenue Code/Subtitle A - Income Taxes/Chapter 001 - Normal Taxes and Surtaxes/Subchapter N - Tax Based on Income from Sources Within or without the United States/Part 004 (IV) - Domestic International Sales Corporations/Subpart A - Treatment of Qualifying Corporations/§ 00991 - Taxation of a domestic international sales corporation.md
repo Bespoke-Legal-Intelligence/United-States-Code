@@ -42,7 +42,7 @@ Exemption of accumulated disc income from tax.—
 
 &emsp;"(A)
 
-In general.—For purposes of applying the Internal Revenue Code of 1986 with respect to actual distributions made after December 31, 1984, by a DISC or former DISC which was a DISC on December 31, 1984, any accumulated DISC income of a DISC or former DISC (within the meaning of section 996(f)(1) of such Code) which is derived before January 1, 1985, shall be treated as previously taxed income (within the meaning of section 996(f)(2) of such Code) with respect to which there had previously been a deemed distribution to which section 996(e)(1) of such Code applied. For purposes of the preceding sentence, the term 'actual distribution' includes a distribution in liquidation, and the earnings and profits of any corporation receiving a distribution not included in gross income by reason of the preceding sentence shall be increased by the amount of such distribution.
+In general.—For purposes of applying the Internal Revenue Code of 1986 with respect to actual distributions made after December 31, 1984, by a DISC or former DISC which was a DISC on December 31, 1984, any accumulated DISC income of a DISC or former DISC (within the meaning of section 996(f)(1) of such Code) which is derived before January 1, 1985, shall be treated as previously taxed income (within the meaning of section 996(f)(2) of such Code) with respect to which there had previously been a deemed distribution to which section 996(e)(1) of such Code applied. For purposes of the preceding sentence, theterm 'actual distribution' includes a distribution in liquidation, and the earnings and profits of any corporation receiving a distribution not included in gross income by reason of the preceding sentence shall be increased by the amount of such distribution.
 
 &emsp;"(B)
 
@@ -118,7 +118,7 @@ Treatment of transfers to fsc.—In the case of any export trade corporation whi
 
 "(3)
 
-Export trade corporation.—For purposes of this subsection, the term 'export trade corporation' hasthe meaning given such term by section 971 of the Internal Revenue Code of 1986."
+Export trade corporation.—For purposes of this subsection, the term 'export trade corporation' has the meaning given such term by section 971 of the Internal Revenue Code of 1986."
 
 #### Submission of Annual Reports to Congress
 

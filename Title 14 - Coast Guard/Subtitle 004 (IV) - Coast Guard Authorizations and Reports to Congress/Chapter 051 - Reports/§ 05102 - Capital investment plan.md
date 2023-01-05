@@ -116,6 +116,24 @@ Subsec. (c). Pub. L. 114–120, §204(b)(2), (3), redesignated subsec. (b) as (c
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Report on Shoreside Infrastructure and Facilities Projects
+
+Pub. L. 117–263, div. K, title CXII, §11201, Dec. 23, 2022, 136 Stat. 4006, provided that:
+
+"(a)
+
+In General.—Not less frequently than annually, the Commandant \[of the Coast Guard\] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—
+
+&emsp;"(1) a detailed list of Coast Guard shoreside infrastructure projects contemplated in each Coast Guard Sector area of responsibility and planned within the 7 years following the submission of the annual report for all Coast Guard facilities located within each Coast Guard Sector area of responsibility in the order of priority, including recapitalization, maintenance needs in excess of $100,000, dredging, and other shoreside infrastructure needs of the Coast Guard;
+
+&emsp;"(2) the estimated cost of projects to fulfill each project, to the extent available; and
+
+&emsp;"(3) a general description of the state of planning, including design and engineering, for each such project.
+
+"(b)
+
+Contents.—The report submitted under subsection (a) shall include all unfunded shoreside infrastructure and facility priorities meeting the criteria under subsection (a) recommended to the Commandant for consideration for inclusion in the unfunded priority list report to Congress under section 5108 of title 14, United States Code, regardless of whether the unfunded shoreside infrastructure project is included in the final annual unfunded priority list to Congress."
+
 #### Ensuring Maritime Coverage
 
 Pub. L. 115–282, title VIII, §817(d), Dec. 4, 2018, 132 Stat. 4307, provided that: "In order to meet Coast Guard mission requirements for search and rescue, ports, waterways, and coastal security, and maritime environmental response during recapitalization of Coast Guard vessels, the Coast Guard shall ensure continuity of the coverage, to the maximum extent practicable, in the locations that may lose assets."
@@ -136,7 +154,7 @@ Pub. L. 109–241, title IV, §408, July 11, 2006, 120 Stat. 537, as amended by 
 
 "(b)
 
-Deepwater Acceleration Report.—Not later than 30 days after the date of enactment of this Act \[July 11, 2006\], the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the acceleration of the current Deepwater program acquisition timeline that reflects completion of the Deepwater program in each of 10 years and 15 years and includes—
+Deepwater Acceleration Report.—Not later than 30 days after the date of enactment of this Act \[July 11, 2006\], the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the acceleration of the current Deepwater program acquisition timeline that reflects completion of theDeepwater program in each of 10 years and 15 years and includes—
 
 &emsp;"(1) a detailed explanation of the number and type of each asset that would be procured for each fiscal year under each accelerated acquisition timeline;
 
@@ -208,7 +226,7 @@ Pub. L. 113–6, div. D, title II, Mar. 26, 2013, 127 Stat. 351, provided in par
 
 &emsp;&emsp;"(C) notes and explains any deviations in cost, performance parameters, schedule, or estimated date of completion from the original acquisition program baseline and the most recent baseline approved by the Department of Homeland Security's Acquisition Review Board, if applicable;
 
-&emsp;&emsp;"(D) aligns the acquisition of each asset to mission requirements by defining existing capabilitiesof comparable legacy assets, identifying known capability gaps between such existing capabilities and stated mission requirements, and explaining how the acquisition of each asset will address such known capability gaps;
+&emsp;&emsp;"(D) aligns the acquisition of each asset to mission requirements by defining existing capabilities of comparable legacy assets, identifying known capability gaps between such existing capabilities and stated mission requirements, and explaining how the acquisition of each asset will address such known capability gaps;
 
 &emsp;&emsp;"(E) defines life-cycle costs for each asset and the date of the estimate on which such costs are based, including all associated costs of major acquisitions systems infrastructure and transition to operations, delineated by purpose and fiscal year for the projected service life of the asset;
 

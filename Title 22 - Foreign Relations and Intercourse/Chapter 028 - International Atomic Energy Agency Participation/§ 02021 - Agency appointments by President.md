@@ -6,7 +6,7 @@ The President, by and with the advice and consent of the Senate, shall appoint a
 
 #### (b) Specified sessions
 
-The President, by and with the advice and consent of the Senate, may appoint or designate from time to time to attend a specified session or specified sessions of the General Conference of the Agency a representative of the United States and such number of alternates as he may determine consistent with the rules of procedure of the General Conference.
+The President, by and with the advice and consent of the Senate, may appoint or designatefrom time to time to attend a specified session or specified sessions of the General Conference of the Agency a representative of the United States and such number of alternates as he may determine consistent with the rules of procedure of the General Conference.
 
 #### (c) Designation of other persons
 
@@ -22,7 +22,7 @@ All persons appointed or designated in pursuance of authority contained in this 
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Pub. L. 107–228, div. B, title XIII, §1341, Sept. 30, 2002, 116 Stat. 1451, p
 
 #### Short Title
 
-Pub. L. 85–177, §1, Aug. 28, 1957, 71 Stat. 453, provided that: "This Act \[enacting this chapter and amendingsection 2074 of Title 42, The Public Health and Welfare\] may be cited as the 'International Atomic Energy Agency Participation Act of 1957'."
+Pub. L. 85–177, §1, Aug. 28, 1957, 71 Stat. 453, provided that: "This Act \[enacting this chapter and amending section 2074 of Title 42, The Public Health and Welfare\] may be cited as the 'International Atomic Energy Agency Participation Act of 1957'."
 
 #### Reporting Requirements
 
@@ -74,7 +74,7 @@ Request for iaea reports.—The Secretary of State shall direct the United State
 
 &emsp;"(2)
 
-Annual reports to the congress.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], and on an annual basis thereafter, the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a))."
+Annual reports to the congress.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], and on an annual basis thereafter,the Secretary of State, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to the Congress a report containing a description of all programs or projects of the Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a))."
 
 #### Termination of Authority Under This Section
 

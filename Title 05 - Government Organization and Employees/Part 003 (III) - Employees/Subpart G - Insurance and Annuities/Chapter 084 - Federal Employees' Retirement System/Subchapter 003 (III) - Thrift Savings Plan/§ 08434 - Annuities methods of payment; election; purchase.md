@@ -34,7 +34,7 @@
 
 (2) Paragraph (1) shall not be construed to exempt any company or other entity issuing an annuity contract under this section from the imposition, payment, or collection of a tax, fee, or other monetary payment on the net income or profit accruing to or realized by that entity from the sale of an annuity contract under this section if that tax, fee, or payment is applicable to a broad range of business activity.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 546; amended Pub. L. 100–238, title I, §129, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 101–335,§§4(a), 5(b), July 17, 1990, 104 Stat. 321; Pub. L. 103–226, §9(c), (i)(8), Mar. 30, 1994, 108 Stat. 120, 122.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 546; amended Pub. L. 100–238, title I, §129, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 101–335, §§4(a), 5(b), July 17, 1990, 104 Stat. 321; Pub. L. 103–226, §9(c), (i)(8), Mar. 30, 1994, 108 Stat. 120, 122.)
 
 #### <b>Editorial Notes</b>
 

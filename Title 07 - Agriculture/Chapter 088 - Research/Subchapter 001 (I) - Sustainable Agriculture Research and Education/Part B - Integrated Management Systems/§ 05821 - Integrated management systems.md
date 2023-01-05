@@ -10,7 +10,7 @@ The Secretary shall establish a research and education program concerning integr
 
 &emsp;(3) to accumulate and analyze information on agricultural production practices researched or developed under programs established under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate programs of the Department of Agriculture to further the development of integrated crop and livestock management systems;
 
-&emsp;(4) to facilitate the adoption of whole-farm integrated crop and livestock managementsystems through demonstration projects on individual farms, including small and limited resource farms, throughout the United States; and
+&emsp;(4) to facilitate the adoption of whole-farm integrated crop and livestock management systems through demonstration projects on individual farms, including small and limited resource farms, throughout the United States; and
 
 &emsp;(5) to evaluate and recommend appropriate integrated crop and livestock management policies and programs.
 
@@ -54,7 +54,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–334 substituted "2023" for "2018".
 
-<b>2014</b>—Subsec. (d). Pub. L. 113–79 amended subsec. (d) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated for each fiscal year $20,000,000 to carry out this section through the National Institute of Food and Agriculture."
+<b>2014</b>—Subsec. (d). Pub. L. 113–79 amended subsec. (d) generally. Prior to amendment, text read as follows:"There are authorized to be appropriated for each fiscal year $20,000,000 to carry out this section through the National Institute of Food and Agriculture."
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–246, §7511(c)(16), substituted "National Institute of Food and Agriculture" for "Extension Service".
 

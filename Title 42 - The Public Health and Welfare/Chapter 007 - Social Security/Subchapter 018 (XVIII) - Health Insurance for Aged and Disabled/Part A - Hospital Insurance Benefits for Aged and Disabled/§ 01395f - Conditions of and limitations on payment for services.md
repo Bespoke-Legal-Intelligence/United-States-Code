@@ -44,7 +44,7 @@ Except as provided in subsections (d) and (g) and in section 1395mm of this titl
 
 &emsp;&emsp;&emsp;(i)(I) subject to subclause (II), a hospice physician or nurse practitioner has a face-to-face encounter with the individual to determine continued eligibility of the individual for hospice care prior to the 180th-day recertification and each subsequent recertification under subparagraph (A)(ii) and attests that such visit took place (in accordance with procedures established by the Secretary); and
 
-&emsp;&emsp;&emsp;(II) during the emergency period described in section 1320b–5(g)(1)(B) of this title, a hospice physician or nurse practitioner may conduct a face-to-face encounter required under this clause via telehealth, as determined appropriate by the Secretary; and
+&emsp;&emsp;&emsp;(II) during the emergency period described in section 1320b–5(g)(1)(B) of this title, and, in the case that such emergency period ends before December 31, 2024, during the period beginning on the first day after the end of such emergency period described in such section 1320b–5(g)(1)(B) of this title and ending on December 31, 2024, a hospice physician or nurse practitioner may conduct a face-to-face encounter required under this clause via telehealth, as determined appropriate by the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) in the case of hospice care provided an individual for more than 180 days by a hospice program for which the number of such cases for such program comprises more than a percent (specified by the Secretary) of the total number of such cases for all programs under this subchapter, the hospice care provided to such individual is medically reviewed (in accordance with procedures established by the Secretary); and
 
@@ -76,7 +76,7 @@ Subject to section 1395qq of this title, no payment may be made under this part 
 
 #### (d) Payments for emergency hospital services
 
-(1) Payments shall also be made to any hospital for inpatient hospital services furnished in a calendar year, by the hospital or under arrangements (as defined in section 1395x(w) of this title) with it, to an individual entitled to hospital insurance benefits under section 426 of this title even though such hospital does not have an agreement in effect under this subchapter if (A) such services were emergency services, (B) the Secretary would be required to make such payment if the hospital had such an agreement in effect and otherwise met the conditions of payment hereunder, and (C) such hospital has elected to claim payments for all such inpatient emergency services and for the emergency outpatient services referred to in section 1395n(b) of this title furnished during such year. Such payments shall be made only in the amounts provided under subsection (b) and then only if such hospital agrees to comply, with respect to the emergency services provided, with the provisions of section 1395cc(a) of this title.
+(1) Payments shall also be made to any hospital for inpatient hospital services furnished in a calendar year, by the hospital or under arrangements (as defined in section 1395x(w) ofthis title) with it, to an individual entitled to hospital insurance benefits under section 426 of this title even though such hospital does not have an agreement in effect under this subchapter if (A) such services were emergency services, (B) the Secretary would be required to make such payment if the hospital had such an agreement in effect and otherwise met the conditions of payment hereunder, and (C) such hospital has elected to claim payments for all such inpatient emergency services and for the emergency outpatient services referred to in section 1395n(b) of this title furnished during such year. Such payments shall be made only in the amounts provided under subsection (b) and then only if such hospital agrees to comply, with respect to the emergency services provided, with the provisions of section 1395cc(a) of this title.
 
 (2) Payment may be made on the basis of an itemized bill to an individual entitled to hospital insurance benefits under section 426 of this title for services described in paragraph (1) which are emergency services if (A) payment cannot be made under paragraph (1) solely because the hospital does not elect to claim such payment, and (B) such individual files application (submitted within such time and in such form and manner and by such person, and containing and supported by such information as the Secretary shall by regulations prescribe) for reimbursement.
 
@@ -144,7 +144,7 @@ For purposes of services for which the reasonable cost thereof is determined und
 
 &emsp;(V) for fiscal year 1997, the market basket percentage increase for the fiscal year minus 0.5 percentage point;
 
-&emsp;(VI) for each of fiscal years 1998 through 2002, the market basket percentage increase for the fiscal year involved minus 1.0 percentage points, plus, in the case of fiscal year 2001, 5.0 percentage points; and
+&emsp;(VI) for each of fiscal years 1998 through 2002, the market basket percentage increasefor the fiscal year involved minus 1.0 percentage points, plus, in the case of fiscal year 2001, 5.0 percentage points; and
 
 &emsp;(VII) for a subsequent fiscal year (before the first fiscal year in which the payment revisions described in paragraph (6)(D) are implemented), subject to clauses (iv) and (vi), the market basket percentage increase for the fiscal year.
 
@@ -174,9 +174,9 @@ For purposes of services for which the reasonable cost thereof is determined und
 
 (B)(i) Except as provided in clause (ii), for purposes of subparagraph (A), the "cap amount" for a year is $6,500, increased or decreased, for accounting years that end after October 1, 1984, by the same percentage as the percentage increase or decrease, respectively, in the medical care expenditure category of the Consumer Price Index for All Urban Consumers (United States city average), published by the Bureau of Labor Statistics, from March 1984 to the fifth month of the accounting year.
 
-(ii) For purposes of subparagraph (A) for accounting years that end after September 30, 2016, and before October 1, 2030, the "cap amount" is the cap amount under this subparagraph for the preceding accounting year updated by the percentage update to payment rates for hospice care under paragraph (1)(C) for services furnished during the fiscal year beginning on the October 1 preceding the beginning of the accounting year (including the application of any productivity or other adjustment under clause (iv) of that paragraph).
+(ii) For purposes of subparagraph (A) for accounting years that end after September 30, 2016, and before October 1, 2032, the "cap amount" is the cap amount under this subparagraph for the preceding accounting year updated by the percentage update to payment rates for hospice care under paragraph (1)(C) for services furnished during the fiscal year beginning on the October 1 preceding the beginning of the accounting year (including the application of any productivity or other adjustment under clause (iv) of that paragraph).
 
-(iii) For accounting years that end after September 30, 2030, the cap amount shall be computed under clause (i) as if clause (ii) had never applied.
+(iii) For accounting years that end after September 30, 2032, the cap amount shall be computed under clause (i) as if clause (ii) had never applied.
 
 (C) For purposes of subparagraph (A), the "number of medicare beneficiaries" in a hospice program in an accounting year is equal to the number of individuals who have made an election under subsection (d) with respect to the hospice program and have been provided hospice care by (or under arrangements made by) the hospice program under this part in the accounting year, such number reduced to reflect the proportion of hospice care that each such individual was provided in a previous or subsequent accounting year or under a plan of care established by another hospice program.
 
@@ -196,7 +196,7 @@ Reduction in update for failure to report.—
 
 &emsp;&emsp;(i)
 
-In general.—For purposes of fiscal year 2014 and each subsequent fiscal year, in the case of a hospice program that does not submit data to the Secretary in accordance with subparagraph (C) with respect to such a fiscal year, after determining the market basket percentage increase under paragraph (1)(C)(ii)(VII) or paragraph (1)(C)(iii), as applicable, and after application of clauses (iv) and (vi) of paragraph (1)(C), with respect to the fiscal year, the Secretary shall reduce such market basket percentage increase by 2percentage points (or, for fiscal year 2024 and each subsequent fiscal year, 4 percentage points).
+In general.—For purposes of fiscal year 2014 and each subsequent fiscal year, in thecase of a hospice program that does not submit data to the Secretary in accordance with subparagraph (C) with respect to such a fiscal year, after determining the market basket percentage increase under paragraph (1)(C)(ii)(VII) or paragraph (1)(C)(iii), as applicable, and after application of clauses (iv) and (vi) of paragraph (1)(C), with respect to the fiscal year, the Secretary shall reduce such market basket percentage increase by 2 percentage points (or, for fiscal year 2024 and each subsequent fiscal year, 4 percentage points).
 
 &emsp;&emsp;(ii)
 
@@ -266,7 +266,7 @@ Public availability of data submitted.—The Secretary shall establish procedure
 
 #### (j) Elimination of lesser-of-cost-or-charges provision
 
-(1) The lesser-of-cost-or-charges provisions (described in paragraph (2)) will not apply in the case of services provided by a class of provider of services if the Secretary determines and certifies to Congress that the failure of such provisions to apply to the services provided by that class of providers will not result in any increasein the amount of payments made for those services under this subchapter. Such change will take effect with respect to services furnished, or cost reporting periods of providers, on or after such date as the Secretary shall provide in the certification. Such change for a class of provider shall be discontinued if the Secretary determines and notifies Congress that such change has resulted in an increase in the amount of payments made under this subchapter for services provided by that class of provider.
+(1) The lesser-of-cost-or-charges provisions (described in paragraph (2)) will not apply in the case of services provided by a class of provider of services if the Secretary determines and certifies to Congress that the failure of such provisions to apply to the services provided by that class of providers will not result in any increase in the amount of payments made for those services under this subchapter. Such change will take effect with respect to services furnished, or cost reporting periods of providers, on or after such date as the Secretary shall provide in the certification. Such change for a class of provider shall be discontinued if the Secretary determines and notifies Congress that such change has resulted in an increase in the amount of payments made under this subchapter for services provided by that class of provider.
 
 (2) The lesser-of-cost-or-charges provisions referred to in paragraph (1) are as follows:
 
@@ -314,11 +314,11 @@ The amount paid to any home health agency with respect to durable medical equipm
 
 &emsp;(iii) for fiscal year 2017 and each subsequent fiscal year, 100 percent.
 
-(C) The provisions of subclause (II) of section 1395ww(b)(3)(B)(ix) of this title shall apply with respect to subparagraph (A) for a critical access hospital with respect to a cost reporting period beginning in a fiscal year in the same manner as such subclause applies with respect to subclause (I) of such section for a subsection (d) hospital with respect to such fiscal year.
+(C) The provisions of subclause (II) of section 1395ww(b)(3)(B)(ix) of this title shall apply with respect to subparagraph (A) for a critical access hospital with respect to a cost reporting period beginning in a fiscal year in the same manner assuch subclause applies with respect to subclause (I) of such section for a subsection (d) hospital with respect to such fiscal year.
 
 (5) There shall be no administrative or judicial review under section 1395ff of this title, section 1395oo of this title, or otherwise, of—
 
-&emsp;(A) the methodology and standards for determining the amount of payment and reasonable cost under paragraph (3) and payment adjustments under paragraph (4), including selection of periods under section 1395ww(n)(2) ofthis title for determining, and making estimates or using proxies of, inpatient-bed-days, hospital charges, charity charges, and Medicare share under subparagraph (D) of section 1395ww(n)(2) of this title;
+&emsp;(A) the methodology and standards for determining the amount of payment and reasonable cost under paragraph (3) and payment adjustments under paragraph (4), including selection of periods under section 1395ww(n)(2) of this title for determining, and making estimates or using proxies of, inpatient-bed-days, hospital charges, charity charges, and Medicare share under subparagraph (D) of section 1395ww(n)(2) of this title;
 
 &emsp;(B) the methodology and standards for determining a meaningful EHR user under section 1395ww(n)(3) of this title as would apply if the hospital was treated as an eligible hospital under section 1395ww(n) of this title, and the hardship exception under paragraph (4)(C);
 
@@ -326,7 +326,7 @@ The amount paid to any home health agency with respect to durable medical equipm
 
 &emsp;(D) the identification of costs for purposes of paragraph (3)(C).
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1814, as added Pub. L. 89–87, title I, §102(a), July 30, 1965, 79 Stat. 294; amended Pub. L. 90–248, title I, §§126(a), 129(c)(5), (6)(A), 143(c), Jan. 2, 1968, 81 Stat. 846, 848, 857; Pub. L. 92–603, title II, §§211(a), 226(c)(1), 227(b), 228(a), 233(a), 234(g)(1), 238(a), 247(a), 256(a), 278(a)(1)–(3), (b)(4), (17), 281(e), Oct. 30, 1972, 86 Stat. 1382, 1404, 1405, 1407, 1411, 1413, 1416, 1425, 1447, 1453, 1454, 1456; Pub. L. 93–233, §18(k)(1), (2), Dec. 31, 1973, 87 Stat. 970; Pub. L. 94–437, title IV, §401(a), Sept. 30, 1976, 90 Stat. 1408; Pub. L. 95–142, §23(a), (b), Oct. 25, 1977, 91 Stat. 1208; Pub. L. 95–292, §4(f), June 13, 1978, 92 Stat. 315; Pub. L. 96–499, title IX, §§903(a), 930(e), (f), 931(b), 936(b), 941(a), (b), Dec. 5, 1980, 94 Stat. 2614, 2631, 2633, 2640, 2641; Pub. L. 97–35, title XXI, §§2121(b), 2122(a)(1), Aug. 13, 1981, 95 Stat. 796; Pub. L. 97–248, title I, §§101(c)(1), 122(c)(1), (2), Sept. 3, 1982, 96 Stat. 335, 357, 358; Pub. L. 97–448, title III, §309(b)(7), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §§601(d), 602(b), (c), Apr. 20, 1983, 97 Stat. 152, 163; Pub. L. 98–90, Aug. 29, 1983, 97 Stat. 606; Pub. L. 98–369, div. B, title III, §§2308(b)(2)(A), 2321(a), (f), 2335(a), 2336(a), (b), 2354(b)(1), (c)(1)(A), July 18, 1984, 98 Stat. 1074, 1084, 1085, 1090, 1091, 1100, 1102; Pub. L. 98–617, §§1(a), 3(a)(3), (b)(1), Nov. 8, 1984, 98 Stat. 3294, 3295; Pub. L. 99–272, title IX, §9123(b), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §§4008(b)(1), 4024(a), 4062(d)(1), Dec. 22, 1987, 101 Stat. 1330–55, 1330–73, 1330–108; Pub. L. 100–360, title I, §104(d)(2), July 1, 1988, 102 Stat. 688; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–239, title VI, §§6003(g)(3)(B)(ii), (iii), 6005(a), (b), 6028, Dec. 19, 1989, 103 Stat. 2152, 2160, 2161, 2168; Pub. L. 101–508, title IV, §§4006(b), 4008(i)(3), (m)(3)(A), Nov. 5, 1990, 104 Stat. 1388–43, 1388–51, 1388–53; Pub. L. 102–54, §13(q)(3)(A)(iii), (iv), (B)(iv), June 13, 1991, 105 Stat. 279; Pub. L. 103–66, title XIII, §13504, Aug. 10, 1993, 107 Stat. 579; Pub. L. 103–432, title I, §§102(a)(3), (d), 106(b)(1)(A), 110(d)(1), Oct. 31, 1994, 108 Stat. 4402, 4403, 4405, 4408; Pub. L. 105–33, title IV, §§4201(c)(1), (3), 4441, 4442(a), 4443(b)(2), 4448, 4603(c)(1), 4615(a), Aug. 5, 1997, 111 Stat. 373, 422–424, 470, 475; Pub. L. 106–554, §1(a)(6) \[title III, §§321(a), (e), 322(a)(1), title V, §507(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–500, 2763A–501, 2763A–532; Pub. L. 108–173, title IV, §§405(a)(1), (g)(2), 408(b), title V, §512(b), title VII, §736(a)(1), (2), (c)(2)(A), title IX, §946(b), Dec. 8, 2003, 117 Stat. 2266, 2269, 2270, 2299, 2354, 2356, 2425; Pub. L. 111–5, div. B, title IV, §4102(a)(2), (b)(2), (d)(1), Feb. 17, 2009, 123 Stat. 481, 483, 486; Pub. L. 111–148, title III, §§3004(c), 3108(a), 3132, 3401(g), title VI, §§6404(a)(1), 6405(b)(1), 6407(a)(1), title X, §§10319(f), 10604, 10605(a), Mar. 23, 2010, 124 Stat. 370, 418, 430, 484, 767–769, 949, 1006; Pub. L. 113–185, §3(c), (d), Oct. 6, 2014, 128 Stat. 1969; Pub. L. 114–10, title IV, §411(d), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title X, §§51002(a), 51006(a)(2), Feb. 9, 2018, 132 Stat. 292, 296; Pub. L. 116–136, div. A, title III, §§3706, 3708(a), Mar. 27, 2020, 134 Stat. 418; Pub. L. 116–260, div. CC, title IV, §§404, 407(b), Dec. 27, 2020, 134 Stat. 3002, 3008.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1814, as added Pub. L. 89–87, title I, §102(a), July 30, 1965, 79 Stat. 294; amended Pub. L. 90–248, title I, §§126(a), 129(c)(5), (6)(A), 143(c), Jan. 2, 1968, 81 Stat. 846, 848, 857; Pub. L. 92–603, title II, §§211(a), 226(c)(1), 227(b), 228(a), 233(a), 234(g)(1), 238(a), 247(a), 256(a), 278(a)(1)–(3), (b)(4), (17), 281(e), Oct. 30, 1972, 86 Stat. 1382, 1404, 1405, 1407, 1411, 1413, 1416, 1425, 1447, 1453, 1454, 1456; Pub. L. 93–233, §18(k)(1), (2), Dec. 31, 1973, 87 Stat. 970; Pub. L. 94–437, title IV, §401(a), Sept. 30, 1976, 90 Stat. 1408; Pub. L. 95–142, §23(a), (b), Oct. 25, 1977, 91 Stat. 1208; Pub. L. 95–292, §4(f), June 13, 1978, 92 Stat. 315; Pub. L. 96–499, title IX, §§903(a), 930(e), (f), 931(b), 936(b), 941(a), (b), Dec. 5, 1980, 94 Stat. 2614, 2631, 2633, 2640, 2641; Pub. L. 97–35, title XXI, §§2121(b), 2122(a)(1), Aug. 13, 1981, 95 Stat. 796; Pub. L. 97–248, title I, §§101(c)(1), 122(c)(1), (2), Sept. 3, 1982, 96 Stat. 335, 357, 358; Pub. L. 97–448, title III, §309(b)(7), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §§601(d), 602(b), (c), Apr. 20, 1983, 97 Stat. 152, 163; Pub. L. 98–90, Aug. 29, 1983, 97 Stat. 606; Pub. L. 98–369, div. B, title III, §§2308(b)(2)(A), 2321(a), (f), 2335(a), 2336(a), (b), 2354(b)(1), (c)(1)(A), July 18, 1984, 98 Stat. 1074, 1084, 1085, 1090, 1091, 1100, 1102; Pub. L. 98–617, §§1(a), 3(a)(3), (b)(1), Nov. 8, 1984, 98 Stat. 3294, 3295; Pub. L. 99–272, title IX, §9123(b), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §§4008(b)(1), 4024(a), 4062(d)(1), Dec. 22, 1987, 101 Stat. 1330–55, 1330–73, 1330–108; Pub. L. 100–360, title I, §104(d)(2), July 1, 1988, 102 Stat. 688; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–239, title VI, §§6003(g)(3)(B)(ii), (iii), 6005(a), (b), 6028, Dec. 19, 1989, 103 Stat. 2152, 2160, 2161, 2168; Pub. L. 101–508, title IV, §§4006(b), 4008(i)(3), (m)(3)(A), Nov. 5, 1990, 104 Stat. 1388–43, 1388–51, 1388–53; Pub. L. 102–54, §13(q)(3)(A)(iii), (iv), (B)(iv), June 13, 1991, 105 Stat. 279; Pub. L. 103–66, title XIII, §13504, Aug. 10, 1993, 107 Stat. 579; Pub. L. 103–432, title I, §§102(a)(3), (d), 106(b)(1)(A), 110(d)(1), Oct. 31, 1994, 108 Stat. 4402, 4403, 4405, 4408; Pub. L. 105–33, title IV, §§4201(c)(1), (3), 4441, 4442(a), 4443(b)(2), 4448, 4603(c)(1), 4615(a), Aug. 5, 1997, 111 Stat. 373, 422–424, 470, 475; Pub. L. 106–554, §1(a)(6) \[title III, §§321(a), (e), 322(a)(1), title V, §507(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–500, 2763A–501, 2763A–532; Pub. L. 108–173, title IV, §§405(a)(1), (g)(2), 408(b), title V, §512(b), title VII, §736(a)(1), (2), (c)(2)(A), title IX, §946(b), Dec. 8, 2003, 117 Stat. 2266, 2269, 2270, 2299, 2354, 2356, 2425; Pub. L. 111–5, div. B, title IV, §4102(a)(2), (b)(2), (d)(1), Feb. 17, 2009, 123 Stat. 481, 483, 486; Pub. L. 111–148, title III, §§3004(c), 3108(a), 3132, 3401(g), title VI, §§6404(a)(1), 6405(b)(1), 6407(a)(1), title X, §§10319(f), 10604, 10605(a), Mar. 23, 2010, 124 Stat. 370, 418, 430, 484, 767–769, 949, 1006; Pub. L. 113–185, §3(c), (d), Oct. 6, 2014, 128 Stat. 1969; Pub. L. 114–10, title IV, §411(d), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title X, §§51002(a), 51006(a)(2), Feb. 9, 2018, 132 Stat. 292, 296; Pub. L. 116–136, div. A, title III, §§3706, 3708(a), Mar. 27, 2020, 134 Stat. 418; Pub. L. 116–260, div. CC, title IV, §§404, 407(b), Dec. 27, 2020, 134 Stat. 3002, 3008; Pub. L. 117–103, div. P, title II, §§306, 312, Mar. 15, 2022, 136 Stat. 807, 808; Pub. L. 117–328, div. FF, title IV, §§4113(f), 4162, Dec. 29, 2022, 136 Stat. 5899, 5931.)
 
 #### <b>Editorial Notes</b>
 
@@ -343,6 +343,14 @@ The Patient Protection and Affordable Care Act, referred to in subsec. (i)(1)(C)
 The matter following clause (v) of section 1395ww(d)(1)(B) of this title, referred to in subsec. (l)(2), now follows cl. (vi) of section 1395ww(d)(1)(B) of this title following the redesignation of subcl. (II) of cl. (iv) of subsec. (d)(1)(B) as cl. (vi) by Pub. L. 114–255, div. C, title XV, §15008(a)(2)(B), Dec. 13, 2016, 130 Stat. 1321.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(7)(D)(i)(II). Pub. L. 117–328, §4113(f), substituted "and, in the case that such emergency period ends before December 31, 2024, during the period beginning on the first day after the end of such emergency period described in such section 1320b–5(g)(1)(B) of this title and ending on December 31, 2024" for "and during the 151-day period beginning on the first day after the end of such emergency period".
+
+Pub. L. 117–103, §306, inserted ", and during the 151-day period beginning on the first day after the end of such emergency period" after "section 1320b–5(g)(1)(B) of this title".
+
+Subsec. (i)(2)(B)(ii), (iii). Pub. L. 117–328, §4162, substituted "2032" for "2031".
+
+Pub. L. 117–103, §312, substituted "2031" for "2030".
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–136, §3708(a)(4), in fourth sentence of concluding provisions, inserted "or no later than 6 months after March 27, 2020, for purposes of documentation for certification and recertification made under paragraph (2) by a nurse practitioner, clinical nurse specialist, or physician assistant," after "January 1, 2019" and ", nurse practitioner, clinical nurse specialist, or physician assistant" after "of the physician".
 
@@ -494,7 +502,7 @@ Subsec. (i)(1)(C)(i). Pub. L. 103–432, §110(d)(1), substituted "September 30,
 
 Subsec. (l)(2). Pub. L. 103–432, §102(d), substituted "January 1, 1996" for "January 1, 1993".
 
-<b>1993</b>—Subsec. (i)(1)(C)(ii). Pub. L. 103–66 substituted "increased by—" and subcls. (I) to (VI) for "increasedby the market basket percentage increase (as defined in section 1395ww(b)(3)(B)(iii) of this title) otherwise applicable to discharges occurring in the fiscal year."
+<b>1993</b>—Subsec. (i)(1)(C)(ii). Pub. L. 103–66 substituted "increased by—" and subcls. (I) to (VI) for "increased by the market basket percentage increase (as defined in section 1395ww(b)(3)(B)(iii) of this title) otherwise applicable to discharges occurring in the fiscal year."
 
 <b>1991</b>—Subsec. (h). Pub. L. 102–54 substituted "Department of Veterans Affairs" for "Veterans' Administration" in heading and par. (1) and "Secretary of Veterans Affairs" for "Veterans' Administration" in par. (2).
 
@@ -550,7 +558,7 @@ Subsec. (k). Pub. L. 100–203, §4062(d)(1)(B), substituted "the amount describ
 
 > less the amount the home health agency may charge as described in section 1395cc(a)(2)(A)(ii) of this title, but in no case may the payment for such equipment exceed 80 percent of such reasonable cost, or
 
-"(2) if such equipment is furnished by a public home health agency, or by another home health agency which demonstrates to the satisfaction of the Secretary that a significant portion of its patients are low-income (and requests that payment be made under this paragraph), free of charge or at nominal charge to the public, 80 percent of the amount which the Secretary finds will provide fair compensation to the home health agency."
+"(2) if such equipment is furnished by a public home health agency, or by another home health agencywhich demonstrates to the satisfaction of the Secretary that a significant portion of its patients are low-income (and requests that payment be made under this paragraph), free of charge or at nominal charge to the public, 80 percent of the amount which the Secretary finds will provide fair compensation to the home health agency."
 
 <b>1986</b>—Subsec. (i)(1)(B). Pub. L. 99–272, §9123(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Notwithstanding subparagraph (A), the rate of payment per day for routine home care furnished during fiscal year 1985 shall be $53.17."
 
@@ -716,7 +724,7 @@ Pub. L. 106–554, §1(a)(6) \[title III, §321(b)\], Dec. 21, 2000, 114 Stat. 2
 
 Pub. L. 106–554, §1(a)(6) \[title III, §322(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–501, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to certifications made on or after the date of the enactment of this Act \[Dec. 21, 2000\]."
 
-Pub. L. 106–554, §1(a)(6) \[title V, §507(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–532, provided that: "Theamendments made by paragraph (1) \[amending this section and section 1395n of this title\] shall apply to home health services furnished on or after the date of the enactment of this Act \[Dec. 21, 2000\]."
+Pub. L. 106–554, §1(a)(6) \[title V, §507(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–532, provided that: "The amendments made by paragraph (1) \[amending this section and section 1395n of this title\] shall apply to home health services furnished on or after the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### Effective Date of 1997 Amendment
 
@@ -778,7 +786,7 @@ Amendment by section 2354(c)(1)(A) of Pub. L. 98–369 effective as if originall
 
 Amendment by Pub. L. 98–21 applicable to items and services furnished by or under arrangement with a hospital beginning with its first cost reporting period that begins on or after Oct. 1, 1983, any change in a hospital's cost reporting period made after November 1982 to be recognized for such purposes only if the Secretary finds good cause therefor, see section 604(a)(1) of Pub. L. 98–21, set out as a note under section 1395ww of this title.
 
-Amendment by Pub. L. 97–448 effective as if originally included as a part of this section as this section was amended by the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 309(c)(2) of Pub.L. 97–448, set out as a note under section 426–1 of this title.
+Amendment by Pub. L. 97–448 effective as if originally included as a part of this section as this section was amended by the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, see section 309(c)(2) of Pub. L. 97–448, set out as a note under section 426–1 of this title.
 
 #### Effective Date of 1982 Amendment
 
@@ -832,7 +840,7 @@ Pub. L. 92–603, title II, §247(c), Oct. 30, 1972, 86 Stat. 1425, provided tha
 
 Pub. L. 92–603, title II, §256(d), Oct. 30, 1972, 86 Stat. 1447, provided that: "The amendments made by this section \[amending this section and sections 1395x and 1395y of this title\] shall apply with respect to admissions occurring after the second month following the month in which this Act is enacted \[October 1972\]."
 
-Amendment by section 281(e) of Pub. L. 92–603 applicable in the case of services furnished (or deemed to have been furnished) after 1970, see section 281(g) of Pub. L. 92–603, set out as a note under section 1395gg of this title.
+Amendment by section 281(e) of Pub. L. 92–603 applicable in the case of services furnished (or deemed to have been furnished) after 1970, see section 281(g) ofPub. L. 92–603, set out as a note under section 1395gg of this title.
 
 #### Effective Date of 1968 Amendment
 
@@ -844,7 +852,7 @@ Amendment by section 143(c) of Pub. L. 90–248 applicable with respect to servi
 
 #### Revision of Regulations Regarding Access to Home Health Services
 
-Pub. L. 98–369, div. B, title III, §2336(c)(2), July 18, 1984, 98 Stat. 1091, provided that: "The Secretary shallprovide, not later than 90 days after the date of the enactment of this Act \[July 18, 1984\], for such revision of regulations as may be required to reflect the amendments made by subsection (b) \[amending this section and section 1395n of this title\]."
+Pub. L. 98–369, div. B, title III, §2336(c)(2), July 18, 1984, 98 Stat. 1091, provided that: "The Secretary shall provide, not later than 90 days after the date of the enactment of this Act \[July 18, 1984\], for such revision of regulations as may be required to reflect the amendments made by subsection (b) \[amending this section and section 1395n of this title\]."
 
 #### Promulgation of Regulations
 
@@ -853,6 +861,10 @@ Section 122(h)(2) of Pub. L. 97–248 provided that: "In order to provide for th
 &emsp;"(A) a description of the care included in 'hospice care' and the standards for qualification of a 'hospice program', under section 1861(dd) of the Social Security Act \[42 U.S.C. 1395x(dd)\], and
 
 &emsp;"(B) the standards for payment for hospice care under part A of title XVIII of such Act \[42 U.S.C. 1395c et seq.\], pursuant to section 1814(i) of such Act \[42 U.S.C. 1395f(i)\]."
+
+#### Program Instruction Authority
+
+Pub. L. 117–328, div. FF, title IV, §4113(h), Dec. 29, 2022, 136 Stat. 5901, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the provisions of, including amendments made by, this section \[amending this section and section 1395m of this title\] through program instruction or otherwise."
 
 #### Application to Medicaid
 
@@ -916,7 +928,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §132\], Nov. 29, 1999, 113 S
 
 #### Study of Methods To Compensate Hospices for High-Cost Care
 
-Pub. L. 101–239, title VI, §6016, Dec. 19, 1989, 103 Stat. 2164, directed Secretary of Health and Human Servicesto conduct a study of high-cost hospice care provided to medicare beneficiaries under the medicare program, evaluate the ability of hospice programs participating in the medicare program to provide such high-cost care to such patients, develop methods to compensate such programs for providing such high-cost care, and submit, not later than Apr. 1, 1991, a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the study, including in the report any recommendations developed by the Secretary to compensate hospice programs for providing high-cost hospice care to medicare beneficiaries.
+Pub. L. 101–239, title VI, §6016, Dec. 19, 1989, 103 Stat. 2164, directed Secretary of Health and Human Services to conduct a study of high-cost hospice care provided to medicare beneficiaries under the medicare program, evaluate the ability of hospice programs participating in the medicare program to provide such high-cost care to such patients, develop methods to compensate such programs for providing such high-cost care, and submit, not later than Apr. 1, 1991, a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the study, including in the report any recommendations developed by the Secretary to compensate hospice programs for providing high-cost hospice care to medicare beneficiaries.
 
 #### Continuation of Bad Debt Recognition for Hospital Services
 
@@ -940,7 +952,7 @@ Pub. L. 97–248, title I, §122(j), formerly §122(i), Sept. 3, 1982, 96 Stat. 
 
 #### Waiver of Limitations To Allow Pre-Existing Hospices To Participate as a Hospice Program
 
-Pub. L. 97–248, title I, §122(k), formerly §122(j), Sept. 3, 1982, 96 Stat. 363, as redesignated and amended by Pub. L. 97–448, title III, §309(a)(6), (7), Jan. 12, 1983, 96 Stat. 2408, provided that: "The Secretary of Health and Human Services shall grant waivers of the limitations imposed by section 1814(i)(2) of the Social Security Act \[42 U.S.C. 1395f(i)(2)\] (relating to the cap amount), section 1861(dd)(1)(G) of such Act \[42 U.S.C. 1395x(dd)(1)(G)\] (relating to the limitations on the frequency and number of respite care days), and section 1861(dd)(2)(A)(iii) of such Act \[42 U.S.C. 1395x(dd)(2)(A)(iii)\] (relating to the aggregate limit on the number of days of inpatient care), as may be necessary to allow any institution which commenced operations as a hospice prior to January 1, 1975, to participate until October 1, 1986, in a viable manner as a hospice program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
+Pub. L. 97–248, title I, §122(k), formerly §122(j), Sept. 3, 1982, 96 Stat. 363, as redesignated and amended byPub. L. 97–448, title III, §309(a)(6), (7), Jan. 12, 1983, 96 Stat. 2408, provided that: "The Secretary of Health and Human Services shall grant waivers of the limitations imposed by section 1814(i)(2) of the Social Security Act \[42 U.S.C. 1395f(i)(2)\] (relating to the cap amount), section 1861(dd)(1)(G) of such Act \[42 U.S.C. 1395x(dd)(1)(G)\] (relating to the limitations on the frequency and number of respite care days), and section 1861(dd)(2)(A)(iii) of such Act \[42 U.S.C. 1395x(dd)(2)(A)(iii)\] (relating to the aggregate limit on the number of days of inpatient care), as may be necessary to allow any institution which commenced operations as a hospice prior to January 1, 1975, to participate until October 1, 1986, in a viable manner as a hospice program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
 
 #### Medicare Payment Basis for Services Provided by Agencies and Providers; Effective Date
 

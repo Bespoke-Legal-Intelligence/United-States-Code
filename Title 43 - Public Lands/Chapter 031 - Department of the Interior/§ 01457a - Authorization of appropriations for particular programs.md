@@ -12,7 +12,7 @@ It is the sense of the Congress that the appropriation targets for such fiscal y
 
 Notwithstanding the limitation otherwise imposed by subsection (a) of this section—
 
-&emsp;(1) the authorization for obligation and appropriations for the Department of the Interior may exceed the amount specified in subsection (a) by such amount as permanent and annual indefinite appropriations exceed the estimates for such appropriations as contained in "The Budget of the United States Government, Fiscal Year 1982," as revised by the March 1981, publication of the Office of Management and Budget entitled "Fiscal Year 1982 Budget Revisions", when receipts available to be appropriated equal or exceed such appropriations, and
+&emsp;(1) the authorization for obligation and appropriations for the Department of the Interior may exceed the amount specified in subsection (a) by such amount as permanent andannual indefinite appropriations exceed the estimates for such appropriations as contained in "The Budget of the United States Government, Fiscal Year 1982," as revised by the March 1981, publication of the Office of Management and Budget entitled "Fiscal Year 1982 Budget Revisions", when receipts available to be appropriated equal or exceed such appropriations, and
 
 &emsp;(2) the authorization for obligation and appropriations for the Department of the Interior may exceed the amount specified in subsection (a) by such amounts as may be required for emergency firefighting and for increased pay costs authorized by law.
 
@@ -46,7 +46,7 @@ For the purposes of this section, the term "Department of the Interior programs"
 
 #### References in Text
 
-The Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445), referred to in subsec. (b), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended. Title III of the Surface Mining Control and Reclamation Act of 1977 was formerly classified generally to subchapter III (§1221 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining, prior to the replacement of subchapter III by Pub. L. 98–409. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
+The Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445), referred to in subsec. (b), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445. Title III of the Surface Mining Control and Reclamation Act of 1977 was formerly classified generally to subchapter III (§1221 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining, prior to the replacement of subchapter III by Pub. L. 98–409. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
 #### Codification
 
@@ -86,7 +86,7 @@ Pub. L. 98–540, §3, Oct. 24, 1984, 98 Stat. 2718, provided that:
 
 "(b)(1)(A) The provisions of Office of Management and Budget Circular A–76 and any similar provisions in any other order or directive shall not apply to activities conducted by the National Park Service, United States Fish and Wildlife Service, and the Bureau of Land Management which involve ten full time equivalents (FTE) or less.
 
-"(B) For fiscal years 1985 through and including 1988, no contracts, for activities conducted by the National Park Service, United States Fish and Wildlife Service, or the Bureau of Land Management which have been subject to the provisions of Office of Management and Budget Circular A–76 or any similar provision in any other order or directive, shall be entered into by the United States until funds have been specifically provided therefore by an Act of Congress.
+"(B) For fiscal years 1985 through and including 1988, no contracts, for activities conducted by the National Park Service, United States Fish and Wildlife Service, or the Bureau of Land Management which have been subject to the provisions of Office of Management andBudget Circular A–76 or any similar provision in any other order or directive, shall be entered into by the United States until funds have been specifically provided therefore by an Act of Congress.
 
 "(2) Nothing in this section shall prevent the National Park Service, United States Fish and Wildlife Service, and the Bureau of Land Management from entering into contracts for services and materials under provisions of law and rules, regulations, orders, and policies other than the circular referred to in paragraph (1) or any similar order or directive."
 

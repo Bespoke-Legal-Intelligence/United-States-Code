@@ -50,7 +50,7 @@ Par. (9). Pub. L. 95–618 substituted "used for certain nontaxable purposes" fo
 
 Par. (2). Pub. L. 94–455, §1906(a)(32)(B), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
-Par. (3). Pub. L. 94–455, §§1901(b)(31)(D), 1906(a)(32)(B), redesignated par. (4) as (3) and substituted "section 1033(a)(2)(C) and (D)" for "section 1033(a)(3)(C) and (D)". Former par. (3) redesignated (2).
+Par. (3). Pub. L. 94–455, §§1901(b)(31)(D), 1906(a)(32)(B), redesignated par. (4) as (3) and substituted "section1033(a)(2)(C) and (D)" for "section 1033(a)(3)(C) and (D)". Former par. (3) redesignated (2).
 
 Par. (4). Pub. L. 94–455, §1906(a)(32)(B), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
@@ -64,7 +64,7 @@ Par. (7). Pub. L. 94–455, §§1901(b)(39)(B), 1906(a)(32)(B), redesignated par
 
 Par. (8). Pub. L. 94–455, §1906(a)(32)(B), redesignated par. (12) as (8).
 
-Par. (9). Pub. L. 94–455, §1906(a)(32)(A), (B), redesignated par. (13) as (9) and inserted provisions relating tosections 6421, 6424, and 6427. Former par. (9) redesignated (5).
+Par. (9). Pub. L. 94–455, §1906(a)(32)(A), (B), redesignated par. (13) as (9) and inserted provisions relating to sections 6421, 6424, and 6427. Former par. (9) redesignated (5).
 
 Par. (10). Pub. L. 94–455, §1906(a)(32)(B), redesignated par. (15) as (10). Former par. (10) redesignated (6).
 

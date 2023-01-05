@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(bb) demographic characteristics of victims and perpetrators; and
 
-&emsp;&emsp;&emsp;&emsp;(cc) the type of weapons used in incidents, as classified in the Uniform Crime Reports of the Federal Bureau of Investigation; and
+&emsp;&emsp;&emsp;&emsp;(cc) the type of weapons used in incidents, as classified in the Uniform CrimeReports of the Federal Bureau of Investigation; and
 
 &emsp;&emsp;(xviii) other purposes consistent with the purposes of this subchapter and subchapter I.
 
@@ -74,7 +74,7 @@
 
 &emsp;(H) a description of the best practices in discharge planning; and
 
-&emsp;(I) an assessment of living arrangements for juveniles who, upon release from confinement in a State correctional facility, cannot returnto the residence they occupied prior to such confinement.
+&emsp;(I) an assessment of living arrangements for juveniles who, upon release from confinement in a State correctional facility, cannot return to the residence they occupied prior to such confinement.
 
 #### (b) Statistical analyses
 

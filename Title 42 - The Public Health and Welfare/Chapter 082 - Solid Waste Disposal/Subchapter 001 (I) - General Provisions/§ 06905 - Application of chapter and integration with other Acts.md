@@ -18,7 +18,7 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 (B) Based on the report under subparagraph (A) and on any future information on such emissions, the Administrator may publish advisories or guidelines regarding the control of dioxin emissions from such facilities. Nothing in this paragraph shall be construed to preempt or otherwise affect the authority of the Administrator to promulgate any regulations under the Clean Air Act \[42 U.S.C. 7401 et seq.\] regarding emissions of polychlorinated dibenzo-p-dioxins.
 
-(3) Notwithstanding any other provisions of law, in developing solid waste plans, it is the intention of this chapter that in determining the size of a waste-to-energy facility, adequate provisions shall be given to the present and reasonably anticipated future needs, including those needs created by thorough implementation of section 6962(h) of this title, of the recycling and resource recovery interests within the area encompassed by the solid waste plan.
+(3) Notwithstanding any other provisions of law, in developing solid waste plans, it is the intention of this chapter that in determining the size of a waste-to-energy facility, adequate provisions shall be given to the present and reasonably anticipated future needs, including thoseneeds created by thorough implementation of section 6962(h) of this title, of the recycling and resource recovery interests within the area encompassed by the solid waste plan.
 
 #### (c) Integration with the Surface Mining Control and Reclamation Act of 1977
 
@@ -34,9 +34,9 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 The Federal Water Pollution Control Act, referred to in subsecs. (a) and (b), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-The Marine Protection, Research and Sanctuaries Act of 1972, referred to in subsecs. (a) and (b), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which enacted chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
+The Marine Protection, Research and Sanctuaries Act of 1972, referred to in subsecs. (a) and (b), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which enacted chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
 
 The Safe Drinking Water Act, referred to in subsecs. (a) and (b), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
@@ -44,7 +44,7 @@ The Clean Air Act, referred to in subsec. (b)(1), (2)(B), is act July 14, 1955, 
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (c), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (c), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
 #### Prior Provisions
 

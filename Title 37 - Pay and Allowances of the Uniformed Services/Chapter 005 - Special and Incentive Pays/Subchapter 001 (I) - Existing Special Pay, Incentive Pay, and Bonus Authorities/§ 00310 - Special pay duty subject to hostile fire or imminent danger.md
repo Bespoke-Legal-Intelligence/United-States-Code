@@ -32,7 +32,7 @@ Continuation During Hospitalization.—(1) A member described in paragraph (2) m
 
 &emsp;(A) is injured or wounded under the circumstances described in subsection (a)(2)(C) and is hospitalized for the treatment of the injury or wound; or
 
-&emsp;(B) while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary ofDefense and is hospitalized outside of the theater of the combat operation or the combat zone for the treatment of the wound, injury, or illness.
+&emsp;(B) while in the line of duty, incurs a wound, injury, or illness in a combat operation or combat zone designated by the Secretary of Defense and is hospitalized outside of the theater of the combat operation or the combat zone for the treatment of the wound, injury, or illness.
 
 (d)
 
@@ -68,7 +68,7 @@ Subsec. (d)(2). Pub. L. 112–81, §616(a)(4), substituted "any day" for "any mo
 
 Subsecs. (b), (c). Pub. L. 111–84, §618(a)(3), (4), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(3). Pub. L. 111–84, §618(a)(2), struck out par. (3) which read as follows: "A member of a reserve component who is eligible for special pay under this section for a month shall receive the full amount authorized in subsection (a) for that month regardless of the number of days during that month on which the member satisfies the eligibility criteria specified in such subsection."
+Subsec. (c)(3). Pub. L. 111–84, §618(a)(2), struck out par. (3) which read as follows: "A member of a reservecomponent who is eligible for special pay under this section for a month shall receive the full amount authorized in subsection (a) for that month regardless of the number of days during that month on which the member satisfies the eligibility criteria specified in such subsection."
 
 Subsecs. (d), (e). Pub. L. 111–84, §618(a)(3), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 

@@ -74,7 +74,7 @@ Subsec. (b)(1)(C). Pub. L. 115–282, §123(b)(2), substituted "section 504(a)(4
 
 #### Center of Expertise for Great Lakes Oil Spill Preparedness and Response
 
-Pub. L. 115–282, title VIII, §807, Dec. 4, 2018, 132 Stat. 4301, provided that:
+Pub. L. 115–282, title VIII, §807, Dec. 4, 2018, 132 Stat. 4301, as amended by Pub. L. 117–263, div. K, title CXII, §11214, Dec. 23, 2022, 136 Stat. 4016, provided that:
 
 "(a)
 
@@ -110,7 +110,19 @@ Functions.—The Center of Expertise shall—
 
 "(d)
 
-Definition.—In this section, the term 'Great Lakes' means Lake Superior, Lake Michigan, Lake Huron, Lake Erie, and Lake Ontario."
+Definition.—In this section, the term 'Great Lakes' means—
+
+&emsp;"(1) Lake Ontario;
+
+&emsp;"(2) Lake Erie;
+
+&emsp;"(3) Lake Huron (including Lake St. Clair);
+
+&emsp;"(4) Lake Michigan;
+
+&emsp;"(5) Lake Superior; and
+
+&emsp;"(6) the connecting channels (including the following rivers and tributaries of such rivers: Saint Mary's River, Saint Clair River, Detroit River, Niagara River, Illinois River, Chicago River, Fox River, Grand River, St. Joseph River, St. Louis River, Menominee River, Muskegon River, Kalamazoo River, and Saint Lawrence River to the Canadian border)."
 
 #### Coast Guard Blue Technology Center of Expertise
 
@@ -132,7 +144,7 @@ Missions.—In addition to the missions listed in section 58(b) \[now 313(b)\] o
 
 &emsp;"(4) provide technical support, coordination, and assistance to Coast Guard districts and the Coast Guard Research and Development Center, as appropriate; and
 
-&emsp;"(5) subject to the requirements of the Coast Guard Academy, coordinate with the Academy to develop appropriate curricula regarding Blue Technology to be offered in professional courses of study to give Coast Guard cadets and officer candidates a greater background and understanding of Blue Technologies.
+&emsp;"(5) subject to the requirements of the Coast Guard Academy, coordinate with the Academy to develop appropriate curricula regarding Blue Technology tobe offered in professional courses of study to give Coast Guard cadets and officer candidates a greater background and understanding of Blue Technologies.
 
 "(c)
 

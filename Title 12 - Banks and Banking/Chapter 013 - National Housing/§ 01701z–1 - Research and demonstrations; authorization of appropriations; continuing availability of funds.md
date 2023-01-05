@@ -8,7 +8,7 @@ The Secretary of Housing and Urban Development is authorized and directed to und
 
 #### References in Text
 
-This title, referred to in text, is title V of the Housing and Urban Development Act of 1970, Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1784, as amended, which is classified generally to section 1701z–1 et seq. of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendments note set out under section 1701 of this title and Tables.
+This title, referred to in text, is title V of the Housing and Urban Development Act of 1970, Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1784, which is classified generally to section 1701z–1 et seq. of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendments note set out under section 1701 of this title and Tables.
 
 #### Codification
 
@@ -86,7 +86,7 @@ Use of Grant Funds.—Funds from grants made under this section may be used by g
 
 &emsp;"(1) to subsidize interest on loans, over a period of not more than 5 years from the origination date of the loan, made after the date of the enactment of this Act \[Oct. 21, 1998\] for rehabilitation of any owner-occupied 1- to 4-family residence, including the payment of interest during any period in which a residence is uninhabitable because of rehabilitation activities;
 
-&emsp;"(2) to facilitate loans for rehabilitation of 1- to 4-family properties previously subject to a mortgage insured under the National Housing Act \[12 U.S.C. 1701 et seq.\] that has been foreclosed or for which insurance benefits have been paid, including to establish revolving loan funds, loan loss reserves, and other financial structures; and
+&emsp;"(2) to facilitate loans for rehabilitation of 1- to 4-family properties previously subject to a mortgage insured under the National Housing Act \[12 U.S.C.1701 et seq.\] that has been foreclosed or for which insurance benefits have been paid, including to establish revolving loan funds, loan loss reserves, and other financial structures; and
 
 &emsp;"(3) to provide technical assistance in conjunction with the rehabilitation of owner-occupied 1- to 4-family residences, including counseling, selection contractors, monitoring of work, approval of contractor payments, and final inspection of work.
 

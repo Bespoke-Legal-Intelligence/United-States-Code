@@ -30,7 +30,7 @@ A class III device—
 
 &emsp;(D) opportunity to request a change in the classification of the device based on new information relevant to the classification of the device.
 
-(3) After the expiration of the period for comment on a proposed order and proposed findingspublished under paragraph (2), consideration of comments submitted on such proposed order and findings, and a meeting of a device classification panel described in section 360c(b) of this title, the Secretary shall (A) issue an administrative order under paragraph (1) and publish in the Federal Register findings on the matters referred to in paragraph (2)(B), or (B) publish a notice terminating the proceeding for the issuance of the administrative order together with the reasons for such termination. If a notice of termination is published, the Secretary shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
+(3) After the expiration of the period for comment on a proposed order and proposed findings published under paragraph (2), consideration of comments submitted on such proposed order and findings, and a meeting of a device classification panel described in section 360c(b) of this title, the Secretary shall (A) issue an administrative order under paragraph (1) and publish in the Federal Register findings on the matters referred to in paragraph (2)(B), or (B) publish a notice terminating the proceeding for the issuance of the administrative order together with the reasons for such termination. If a notice of termination is published, the Secretary shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
 
 #### (c) Application for premarket approval
 
@@ -84,7 +84,7 @@ A class III device—
 
 &emsp;(ii) Subject to clause (i), the provisions of this section apply to a report under subparagraph (A) to the same extent and in the same manner as such provisions apply to an application under paragraph (1).
 
-&emsp;(iii) Each reference in other sections of this chapter to an application under this section, other than such a reference in section 379i or 379j of this title, shall be considered to be a reference to a report under subparagraph (A).
+&emsp;(iii) Each reference in other sections of this chapter to an application under this section,other than such a reference in section 379i or 379j of this title, shall be considered to be a reference to a report under subparagraph (A).
 
 &emsp;(iv) Each reference in other sections of this chapter to a device for which an application under this section has been approved, or has been denied, suspended, or withdrawn, other than such a reference in section 379i or 379j of this title, shall be considered to be a reference to a device for which a report under subparagraph (A) has been approved, or has been denied, suspended, or withdrawn, respectively.
 
@@ -128,7 +128,7 @@ A class III device—
 
 &emsp;(I) the data or information is derived from investigations of an earlier version of the device, the device has been modified during or after the investigations (but prior to submission of an application under subsection (c)) and such a modification of the device does not constitute a significant change in the design or in the basic principles of operation of the device that would invalidate the data or information; or
 
-&emsp;(II) the data or information relates to a device approved under this section, is available for use under this chapter, and is relevant to the design and intended use of the device for which the application is pending.
+&emsp;(II) the data or information relates to a device approved under this section, is availablefor use under this chapter, and is relevant to the design and intended use of the device for which the application is pending.
 
 (2) The Secretary shall deny approval of an application for a device if, upon the basis of the information submitted to the Secretary as part of the application and any other information before him with respect to such device, the Secretary finds that—
 
@@ -160,7 +160,7 @@ A class III device—
 
 (4) An applicant whose application has been denied approval may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such denial, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g), and any interested person may obtain review, in accordance with paragraph (1) or (2) of subsection (g), of an order of the Secretary approving an application.
 
-(5)(A)(i) A supplemental application shall be required for any change to a device subject to an approved application under this subsection that affects safety or effectiveness, unless such change is a modification in a manufacturing procedure or method of manufacturing and the holder of the approved application submits a written notice to the Secretary that describes in detail the change, summarizes the data or information supporting the change, and informs the Secretary that the change has been made under the requirements of section 360j(f) of this title.
+(5)(A)(i) Unless the change is consistent with a predetermined change control plan approved under section 360e–4 of this title, a supplemental application shall be required for any change to a device subject to an approved application under this subsection that affects safety or effectiveness, unless such change is a modification in a manufacturing procedure or method of manufacturing and the holder of the approved application submits a written notice to the Secretary that describes in detail the change, summarizes the data or information supporting the change, and informs the Secretary that the change has been made under the requirements of section 360j(f) of this title.
 
 (ii) The holder of an approved application who submits a notice under clause (i) with respect to a manufacturing change of a device may distribute the device 30 days after the date on which the Secretary receives the notice, unless the Secretary within such 30-day period notifies the holder that the notice is not adequate and describes such further information or action that is required for acceptance of such change. If the Secretary notifies the holder that a supplemental application is required, the Secretary shall review the supplement within 135 days after the receipt of the supplement. The time used by the Secretary to review the notice of the manufacturing change shall be deducted from the 135-day review period if the notice meets appropriate content requirements for premarket approval supplements.
 
@@ -228,7 +228,7 @@ A class III device—
 
 (4) The Secretary shall approve or disapprove a proposed product development protocol submitted under paragraph (2) within one hundred and twenty days of its receipt unless an additional period is agreed upon by the Secretary and the person who submitted the protocol. Approval of a protocol or denial of approval of a protocol is final agency action subject to judicial review under chapter 7 of title 5.
 
-(5) At any time after a product development protocol for a device has been approved pursuantto paragraph (4), the person for whom the protocol was approved may submit a notice of completion—
+(5) At any time after a product development protocol for a device has been approved pursuant to paragraph (4), the person for whom the protocol was approved may submit a notice of completion—
 
 &emsp;(A) stating (i) his determination that the requirements of the protocol have been fulfilled and that, to the best of his knowledge, there is no reason bearing on safety or effectiveness why the notice of completion should not become effective, and (ii) the data and other information upon which such determination was made, and
 
@@ -272,7 +272,7 @@ A class III device—
 
 &emsp;(ii) an order under subsection (f)(6)(A) revoking an approved protocol, under subsection (f)(6)(B) declaring that an approved protocol has not been completed, or under subsection (f)(7) revoking the approval of a device,
 
-> the Secretary shall refer the application or protocol subject to the order and the basis for the order to an advisory committee of experts established pursuant to subparagraph (B) for a report and recommendation with respect to the order. The advisory committee shall, after independent study of the data and information furnished to it by the Secretary and other data and information before it, submit to the Secretary a report and recommendation, together with all underlying data and information and a statement ofthe reasons or basis for the recommendation. A copy of such report shall be promptly supplied by the Secretary to any person who petitioned for such referral to the advisory committee.
+> the Secretary shall refer the application or protocol subject to the order and the basis for the order to an advisory committee of experts established pursuant to subparagraph (B) for a report and recommendation with respect to the order. The advisory committee shall, after independent study of the data and information furnished to it by the Secretary and other data and information before it, submit to the Secretary a report and recommendation, together with all underlying data and information and a statement of the reasons or basis for the recommendation. A copy of such report shall be promptly supplied by the Secretary to any person who petitioned for such referral to the advisory committee.
 
 (B) The Secretary shall establish advisory committees (which may not be panels under section 360c of this title) to receive referrals under subparagraph (A). The Secretary shall appoint as members of any such advisory committee persons qualified in the subject matter to be referred to the committee and of appropriately diversified professional backgrounds, except that the Secretary may not appoint to such a committee any individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter. Members of an advisory committee (other than officers or employees of the United States), while attending conferences or meetings of their committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent for grade GS–18 of the General Schedule for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently. The Secretary shall designate the chairman of an advisory committee from its members. The Secretary shall furnish each advisory committee with clerical and other assistance, and shall by regulation prescribe the procedures to be followed by each such committee in acting on referrals made under subparagraph (A).
 
@@ -296,11 +296,13 @@ Orders of the Secretary under this section shall be served (1) in person by any 
 
 (3) The Secretary shall, as promptly as is reasonably achievable, but not later than 12 months after the effective date of the order requiring a device to remain in class III, establish a schedule for the issuance of an administrative order under subsection (b) for each device which is subject to the order requiring the device to remain in class III.
 
-(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title VIII, §801(b)(3)(D), Sept. 27, 2007, 121 Stat. 921; Pub. L. 112–144, title II, §203(g), title VI, §608(b)(1), July 9, 2012, 126 Stat. 1006, 1056; Pub. L. 114–255, div. A, title III, §§3051(c)(1), 3058(b), 3101(a)(2)(J), Dec. 13, 2016, 130 Stat. 1124, 1129, 1154; Pub. L. 115–52, title II, §203(f)(2)(A), Aug. 18, 2017, 131 Stat. 1015.)
+(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618; Pub. L. 108–214, §2(d)(1), Apr. 1, 2004, 118 Stat. 576; Pub. L. 110–85, title VIII, §801(b)(3)(D), Sept. 27, 2007, 121 Stat. 921; Pub. L. 112–144, title II, §203(g), title VI, §608(b)(1), July 9, 2012, 126 Stat. 1006, 1056; Pub. L. 114–255, div. A, title III, §§3051(c)(1), 3058(b), 3101(a)(2)(J), Dec. 13, 2016, 130 Stat. 1124, 1129, 1154; Pub. L. 115–52, title II, §203(f)(2)(A), Aug. 18,2017, 131 Stat. 1015; Pub. L. 117–328, div. FF, title III, §3308(b)(2), Dec. 29, 2022, 136 Stat. 5836.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(5)(A)(i). Pub. L. 117–328 substituted "Unless the change is consistent with a predetermined change control plan approved under section 360e–4 of this title, a supplemental" for "A supplemental".
 
 <b>2017</b>—Subsec. (c)(4)(A). Pub. L. 115–52 substituted "section 379j(g)" for "section 379j(h)".
 
@@ -356,7 +358,7 @@ Subsec. (c)(2). Pub. L. 107–250, §302(c)(2)(B), added par. (2). Former par. (
 
 Subsec. (c)(3). Pub. L. 107–250, §302(c)(2)(A), redesignated par. (2) relating to Secretary's referral of application to appropriate panel as (3).
 
-Pub. L. 107–250, §210, as amended by Pub. L. 108–214, §2(d)(1)(B), inserted "Where appropriate, the Secretary shall ensure that such panel includes, or consults with, one or more pediatric experts." at the end of the concluding provisions of par. (3) as redesignated by Pub. L. 107–250, §302(c)(2)(A).
+Pub. L. 107–250, §210, as amended by Pub. L. 108–214, §2(d)(1)(B), inserted "Where appropriate, the Secretary shall ensure that such panel includes, or consults with,one or more pediatric experts." at the end of the concluding provisions of par. (3) as redesignated by Pub. L. 107–250, §302(c)(2)(A).
 
 Pub. L. 107–250, §209, added par. (3) relating to acceptance and review of any portion of the application prior to submission.
 
@@ -370,7 +372,7 @@ Subsec. (d)(5). Pub. L. 105–115, §202(2), added par. (5).
 
 Subsec. (d)(6). Pub. L. 105–115, §205(c)(2), added par. (6).
 
-Subsec. (f)(2). Pub. L. 105–115, §216(b), substituted "the Secretary—" and subpars. (A) and (B) for "he shallrefer the proposed protocol to the appropriate panel under section 360c of this title for its recommendation respecting approval of the protocol."
+Subsec. (f)(2). Pub. L. 105–115, §216(b), substituted "the Secretary—" and subpars. (A) and (B) for "he shall refer the proposed protocol to the appropriate panel under section 360c of this title for its recommendation respecting approval of the protocol."
 
 <b>1993</b>—Subsec. (c)(2)(A). Pub. L. 103–80 struck out "refer such application" after "own initiative".
 
@@ -398,7 +400,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### Report on Certain Devices
 

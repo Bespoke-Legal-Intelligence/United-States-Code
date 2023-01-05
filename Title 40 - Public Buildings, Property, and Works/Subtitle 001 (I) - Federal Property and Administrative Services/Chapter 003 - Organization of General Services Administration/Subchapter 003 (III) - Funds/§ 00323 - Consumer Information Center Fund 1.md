@@ -28,7 +28,9 @@ Unobligated Balances.—Any unobligated balances at the end of a fiscal year rem
 
 Gift Account.—The Center <sup>2</sup> may accept and deposit to this account gifts for purposes of defraying the costs of printing, publishing, and distributing consumer information and educational materials and undertaking other consumer information activities. In addition to amounts appropriated or otherwise made available, the Center <sup>2</sup> may expend the gifts for these purposes and any balance remains available for expenditure.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1077; Pub. L. 111–8, div. D, title V, §516, Mar. 11, 2009, 123 Stat. 664.)
+(f) The Administrator may enter into agreements with federal agencies to provide services through the Fund on a fully reimbursable basis.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1077; Pub. L. 111–8, div. D, title V, §516, Mar. 11, 2009, 123 Stat. 664; Pub. L. 117–103, div. E, title V, §527, Mar. 15, 2022, 136 Stat. 276.)
 
 Historical and Revision Notes
 
@@ -63,6 +65,8 @@ In subsection (e), the words "Notwithstanding any other provision of law" and "d
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–103 added subsec. (f).
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–8 substituted "Federal Citizen Services" for "Consumer Information Center" and struck out "consumer" after "Federal Government".
 

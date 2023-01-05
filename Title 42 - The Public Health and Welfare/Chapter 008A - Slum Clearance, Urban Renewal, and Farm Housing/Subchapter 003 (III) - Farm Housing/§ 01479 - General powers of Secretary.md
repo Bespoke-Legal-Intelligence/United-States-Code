@@ -96,7 +96,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### (A) In general
 
-&emsp;&emsp;In providing assistance under this subchapter in any fiscal year described under subparagraph (B), each State in which colonias are located shall give priority to any application for assistance to be used in a colonia. The priority under this subparagraph shall not apply in such State after 5 percent of the assistance available in such fiscal year has been allocated for colonias qualifying for the priority.
+&emsp;&emsp;In providing assistance under this subchapter in any fiscal year described undersubparagraph (B), each State in which colonias are located shall give priority to any application for assistance to be used in a colonia. The priority under this subparagraph shall not apply in such State after 5 percent of the assistance available in such fiscal year has been allocated for colonias qualifying for the priority.
 
 #### (B) Covered years
 
@@ -120,7 +120,7 @@ The Secretary shall, by regulation, prescribe the terms and conditions under whi
 
 #### References in Text
 
-The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 #### Amendments
 
@@ -164,7 +164,7 @@ Pub. L. 101–625, title VII, §709(c), Nov. 28, 1990, 104 Stat. 4290, provided 
 
 #### Housing in Underserved Areas
 
-Pub. L. 101–625, title VII, §709(a), Nov. 28, 1990, 104 Stat. 4288, provided that: "The purpose of this section \[amending this section and enacting provisions set out above\] is to improve the quality of affordable housing in communities that have extremely high concentrations of poverty and substandard housing and that have been underserved by rural housing programs, including extremely distressed areas in the Lower Mississippi Delta and other regions of the Nation, by directingFarmers Home Administration assistance toward designated underserved areas."
+Pub. L. 101–625, title VII, §709(a), Nov. 28, 1990, 104 Stat. 4288, provided that: "The purpose of this section \[amending this section and enacting provisions set out above\] is to improve the quality of affordable housing in communities that have extremely high concentrations of poverty and substandard housing and that have been underserved by rural housing programs, including extremely distressed areas in the Lower Mississippi Delta and other regions of the Nation, by directing Farmers Home Administration assistance toward designated underserved areas."
 
 #### Exemptions of Existing Dwellings From Living Area Limitations; Authority of District Offices of Farmers' Home Administration
 

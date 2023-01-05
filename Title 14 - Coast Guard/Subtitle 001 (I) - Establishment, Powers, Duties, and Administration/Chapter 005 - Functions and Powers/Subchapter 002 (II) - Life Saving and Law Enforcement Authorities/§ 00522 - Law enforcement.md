@@ -1,6 +1,6 @@
 ### §522. Law enforcement
 
-(a) The Coast Guard may make inquiries, examinations, inspections, searches, seizures, and arrests upon the high seas and waters over which the United States has jurisdiction, for the prevention, detection, and suppression of violations of laws of the United States. For such purposes, commissioned, warrant, and petty officers may at any time go on board of any vessel subject to the jurisdiction, or to the operation of any law, of the United States, address inquiries to those on board, examine the ship's documents and papers, and examine, inspect, and search the vessel and use all necessary force to compel compliance. When from such inquiries, examination, inspection, or search it appears that a breach of the laws of the United States rendering an individual liable to arrest is being, or has been committed, by any individual, such individual shall be arrested or, if escaping to shore, shall be immediately pursued and arrested on shore, or other lawful and appropriate action shall be taken; or, if it shall appear that a breach of the laws of the United States has been committed so as to render such vessel, or the merchandise, or any part thereof, on board of, or brought into the United States by, such vessel, liable to forfeiture, or so as to render such vessel liable to a fine or penalty and if necessary to secure such fine or penalty, such vessel or such merchandise, or both, shall be seized.
+(a) The Coast Guard may make inquiries, examinations, inspections, searches, seizures, andarrests upon the high seas and waters over which the United States has jurisdiction, for the prevention, detection, and suppression of violations of laws of the United States. For such purposes, commissioned, warrant, and petty officers may at any time go on board of any vessel subject to the jurisdiction, or to the operation of any law, of the United States, address inquiries to those on board, examine the ship's documents and papers, and examine, inspect, and search the vessel and use all necessary force to compel compliance. When from such inquiries, examination, inspection, or search it appears that a breach of the laws of the United States rendering an individual liable to arrest is being, or has been committed, by any individual, such individual shall be arrested or, if escaping to shore, shall be immediately pursued and arrested on shore, or other lawful and appropriate action shall be taken; or, if it shall appear that a breach of the laws of the United States has been committed so as to render such vessel, or the merchandise, or any part thereof, on board of, or brought into the United States by, such vessel, liable to forfeiture, or so as to render such vessel liable to a fine or penalty and if necessary to secure such fine or penalty, such vessel or such merchandise, or both, shall be seized.
 
 (b) The officers of the Coast Guard insofar as they are engaged, pursuant to the authority contained in this section, in enforcing any law of the United States shall:
 
@@ -32,6 +32,50 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Review of Drug Interdiction Equipment and Standards; Testing for Fentanyl During Interdiction Operations
+
+Pub. L. 117–263, div. K, title CXII, §11268, Dec. 23, 2022, 136 Stat. 4063, provided that:
+
+"(a)
+
+Review.—
+
+&emsp;"(1)
+
+In general.—The Commandant \[of the Coast Guard\], in consultation with the Administrator of the Drug Enforcement Administration and the Secretary of Health and Human Services, shall—
+
+&emsp;&emsp;"(A) conduct a review of—
+
+&emsp;&emsp;&emsp;"(i) the equipment, testing kits, and rescue medications used to conduct Coast Guard drug interdiction operations; and
+
+&emsp;&emsp;&emsp;"(ii) the safety and training standards, policies, and procedures with respect to such operations; and
+
+&emsp;&emsp;"(B) determine whether the Coast Guard is using the latest equipment and technology and up-to-date training and standards for recognizing, handling, testing, and securing illegal drugs, fentanyl and other synthetic opioids, and precursor chemicals during such operations.
+
+&emsp;"(2)
+
+Report.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant shall submit to the appropriate committees of Congress a report on the results of the review conducted under paragraph (1).
+
+&emsp;"(3)
+
+Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
+
+"(b)
+
+Requirement.—If, as a result of the review required by subsection (a), the Commandant determines that the Coast Guard is not using the latest equipment and technology and up-to-date training and standards for recognizing, handling, testing, and securing illegal drugs, fentanyl and other synthetic opioids, and precursor chemicals during drug interdiction operations, the Commandant shall ensure that the Coast Guard acquires and uses such equipment and technology, carries out such training, and implements such standards.
+
+"(c)
+
+Testing for Fentanyl.—The Commandant shall ensure that Coast Guard drug interdiction operations include the testing of substances encountered during such operations for fentanyl, as appropriate."
+
+#### Public Availability of Information on Monthly Migrant Interdictions
+
+Pub. L. 117–263, div. K, title CXII, §11269, Dec. 23, 2022, 136 Stat. 4064, provided that: "Not later than the 15th day of each month, the Commandant \[of the Coast Guard\] shall make available to the public on the website of the Coast Guard the number of migrant interdictions carried out by the Coast Guard during the preceding month."
+
 #### Currency Detection Canine Team Program
 
 Pub. L. 115–282, title VIII, §806, Dec. 4, 2018, 132 Stat. 4300, provided that:
@@ -54,5 +98,5 @@ Establishment.—Not later than 1 year after the date of enactment of this Act \
 
 "(c)
 
-Operation.—The Secretary may cooperate with, or enter into an agreement with, the head of anotherFederal agency to meet the requirements under subsection (b)."
+Operation.—The Secretary may cooperate with, or enter into an agreement with, the head of another Federal agency to meet the requirements under subsection (b)."
 

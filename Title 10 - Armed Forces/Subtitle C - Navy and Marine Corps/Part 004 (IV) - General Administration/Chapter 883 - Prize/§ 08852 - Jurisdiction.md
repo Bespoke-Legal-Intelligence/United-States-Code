@@ -62,7 +62,7 @@ Subsection (b) is included to make the statement of jurisdiction complete. It is
 
 #### Prior Provisions
 
-A prior section 8852, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1537; amended Pub. L. 86–559, §1(74), June 30, 1960, 74 Stat. 280; Pub. L. 99–145, title XIII, §1303(a)(27)(B), Nov. 8, 1985, 99 Stat. 740; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer or discharge of reserve major generals and brigadier generals with 35 years of service or five years in grade, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
+A prior section 8852, added Pub. L. 85–861, §1(192), Sept. 2, 1958, 72 Stat. 1537; amended Pub. L. 86–559, §1(74), June 30, 1960, 74 Stat. 280; Pub. L. 99–145, title XIII, §1303(a)(27)(B), Nov. 8, 1985, 99 Stat. 740; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059, related to transfer or discharge of reserve major generals and brigadier generals with 35 years of service or five years in grade, prior to repeal by Pub. L.103–337, div. A, title XVI, §1629(c)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
 
 #### Amendments
 

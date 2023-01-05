@@ -36,7 +36,7 @@ Subsection (e) is new. It is derived from title 14, U.S.C., 1946 ed., §31b (Jun
 
 Subsection (f) is based on title 14, U.S.C., 1946 ed., §96 and on title 33, U.S.C., 1946 ed., §§729, 730, 731 (Mar. 3, 1875, ch. 130, §1, 18 Stat. 372; Mar. 4, 1909, ch. 299, 35 Stat. 972; June 17, 1910, ch. 301, §9, 36 Stat. 538; Mar. 4, 1913, ch. 168, 37 Stat. 1018). This subsection broadens the power of the Secretary to receive as a gift or purchase sites for stations, to include the acquisition of land by any means provided it is for the purpose of executing duties and functions of the Coast Guard.
 
-Subsection (g) is based in part on title 33, U.S.C., 1946 ed., §732 (Aug. 28, 1916, ch. 414, §2, 39 Stat. 538; July 11, 1941, ch. 290, §1, 55 Stat. 584) and grants authority to the Secretary to exchange interests in land as payment or part payment for other interests in land for the purpose of executing the duties and functions of the Coast Guard; this authority, on the basis of past experience, will prove advantageous to the Government.
+Subsection (g) is based in part on title 33, U.S.C., 1946 ed., §732 (Aug. 28, 1916, ch. 414, §2, 39 Stat. 538; July 11,1941, ch. 290, §1, 55 Stat. 584) and grants authority to the Secretary to exchange interests in land as payment or part payment for other interests in land for the purpose of executing the duties and functions of the Coast Guard; this authority, on the basis of past experience, will prove advantageous to the Government.
 
 Subsection (h) is new and merely insures that the Secretary may exercise any of the powers granted to the Commandant in this title.
 
@@ -78,33 +78,129 @@ Subsec. (e). Act Oct. 31, 1951, §1(32), repealed subsec. (e) which empowered th
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Conveyance of Coast Guard Vessels for Public Purposes
+#### At-Sea Recovery Operations Pilot Program
 
-Pub. L. 111–281, title IX, §914, Oct. 15, 2010, 124 Stat. 3018, provided that:
+Pub. L. 117–263, div. K, title CXV, §11504, Dec. 23, 2022, 136 Stat. 4131, provided that:
 
 "(a)
 
-In General.—Whenever the transfer of ownership of a Coast Guard vessel or aircraft to an eligible entity for use for educational, cultural, historical, charitable, recreational, or other public purposes is authorized by law or declared excess by the Commandant, the Coast Guard shall transfer the vessel or aircraft to the General Services Administration for conveyance to the eligible entity.
+In General.—The Secretary shall conduct a pilot program to evaluate the potential use of remotely controlled or autonomous operation and monitoring of certain vessels for the purposes of—
+
+&emsp;"(1) better understanding the complexities of such at-sea operations and potential risks to navigation safety, vessel security, maritime workers, the public, and the environment;
+
+&emsp;"(2) gathering observational and performance data from monitoring the use of remotely-controlled or autonomous vessels; and
+
+&emsp;"(3) assessing and evaluating regulatory requirements necessary to guide the development of future occurrences of such operations and monitoring activities.
 
 "(b)
 
-Conditions of Conveyance.—The General Services Administration may not convey a vessel or aircraft to an eligible entity as authorized by law unless the eligible entity agrees—
-
-&emsp;"(1) to provide the documentation needed by the General Services Administration to process a request for aircraft or vessels under section 102.37.225 of title 41, Code of Federal Regulations;
-
-&emsp;"(2) to comply with the special terms, conditions, and restrictions imposed on aircraft and vessels under section 102.37.460 of such title;
-
-&emsp;"(3) to make the vessel available to the United States Government if it is needed for use by the Commandant of the Coast Guard in time of war or a national emergency; and
-
-&emsp;"(4) to hold the United States Government harmless for any claims arising from exposure to hazardous materials, including asbestos and polychlorinated biphenyls, that occurs after conveyance of the vessel, except for claims arising from use of the vessel by the United States Government under paragraph (3).
+Duration and Effective Date.—The duration of the pilot program established under this section shall be not more than 5 years beginning on the date on which the pilot program is established, which shall be not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\].
 
 "(c)
 
-Other Obligations Unaffected.—Nothing in this section amends or affects any obligation of the Coast Guard or any other person under the Toxic Substances Control Act (15 U.S.C. 2601 et seq.) or any other law regarding use or disposal of hazardous materials including asbestos and polychlorinated biphenyls.
+Authorized Activities.—The activities authorized under this section include—
+
+&emsp;"(1) remote over-the-horizon monitoring operations related to the active at-sea recovery of spaceflight components on an unmanned vessel or platform;
+
+&emsp;"(2) procedures for the unaccompanied operation and monitoring of an unmanned spaceflight recovery vessel or platform; and
+
+&emsp;"(3) unmanned vessel transits and testing operations without a physical tow line related to space launch and recovery operations, except within 12 nautical miles of a port.
 
 "(d)
 
-Eligible Entity Defined.—In this section, the term 'eligible entity' means a State or local government, nonprofit corporation, educational agency, community development organization, or other entity that agrees to comply with the conditions established under this section."
+Interim Authority.—In recognition of potential risks to navigation safety, vessel security, maritime workers, the public, and the environment, and the unique circumstances requiring the use of remotely operated or autonomous vessels, the Secretary, in the pilot program established under subsection (a), may—
+
+&emsp;"(1) allow remotely controlled or autonomous vessel operations to proceed consistent to the extent practicable under the proposed title 33, United States Code \[sic\], and 46, United States Code, including navigation and manning laws and regulations;
+
+&emsp;"(2) modify or waive applicable regulations and guidance as the Secretary considers appropriate to—
+
+&emsp;&emsp;"(A) allow remote and autonomous vessel at-sea operations and activities to occur while ensuring navigation safety; and
+
+&emsp;&emsp;"(B) ensure the reliable, safe, and secure operation of remotely-controlled or autonomous vessels; and
+
+&emsp;"(3) require each remotely operated or autonomous vessel to be at all times under the supervision of 1 or more individuals—
+
+&emsp;&emsp;"(A) holding a merchant mariner credential which is suitable to the satisfaction of the Coast Guard; and
+
+&emsp;&emsp;"(B) who shall practice due regard for the safety of navigation of the autonomous vessel, to include collision avoidance.
+
+"(e)
+
+Rule of Construction.—Nothing in this section shall be construed to authorize the Secretary to—
+
+&emsp;"(1) permit foreign vessels to participate in the pilot program established under subsection (a);
+
+&emsp;"(2) waive or modify applicable laws and regulations under the proposed title 33, United States Code \[sic\], and title 46, United States Code, except to the extent authorized under subsection (d)(2);
+
+&emsp;"(3) waive or modify applicable laws and regulations under titles 49 and 51 of the United States Code; or
+
+&emsp;"(4) waive or modify any regulations arising under international conventions.
+
+"(f)
+
+Savings Provision.—Nothing in this section may be construed to authorize the employment in the coastwise trade of a vessel or platform that does not meet the requirements of sections 12112, 55102, 55103, and 55111 of title 46, United States Code.
+
+"(g)
+
+Authority Unaffected.—Nothing in this section shall be construed to affect, impinge, or alter any authority of the Secretary of Transportation under titles 49 and 51, United States Code.
+
+"(h)
+
+Briefings.—The Secretary or the designee of the Secretary shall brief the Committee on Commerce, Science, and Transportation of the Senate and theCommittee on Transportation and Infrastructure and the Committee on Science, Space, and Technology of the House of Representatives on the program established under subsection (a) on a quarterly basis.
+
+"(i)
+
+Report.—Not later than 180 days after the expiration of the pilot program established under subsection (a), the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science, Space, and Technology of the House of Representatives a final report regarding an assessment of the execution of the pilot program and implications for maintaining navigation safety, the safety of maritime workers, and the preservation of the environment.
+
+"(j)
+
+GAO Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 18 months after the date of enactment of this section \[Dec. 23, 2022\], the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the state of autonomous and remote technologies in the operation of shipboard equipment and the safe and secure navigation of vessels in Federal waters of the United States.
+
+&emsp;"(2)
+
+Elements.—The report required under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An assessment of commercially available autonomous and remote technologies in the operation of shipboard equipment and the safe and secure navigation of vessels during the 10 years immediately preceding the date of the report.
+
+&emsp;&emsp;"(B) An analysis of the safety, physical security, cybersecurity, and collision avoidance risks and benefits associated with autonomous and remote technologies in the operation of shipboard equipment and the safe and secure navigation of vessels, including environmental considerations.
+
+&emsp;&emsp;"(C) An assessment of the impact of such autonomous and remote technologies, and all associated technologies, on labor, including—
+
+&emsp;&emsp;&emsp;"(i) roles for credentialed and noncredentialed workers regarding such autonomous, remote, and associated technologies; and
+
+&emsp;&emsp;&emsp;"(ii) training and workforce development needs associated with such technologies.
+
+&emsp;&emsp;"(D) An assessment and evaluation of regulatory requirements necessary to guide the development of future autonomous, remote, and associated technologies in the operation of shipboard equipment and safe and secure navigation of vessels.
+
+&emsp;&emsp;"(E) An assessment of the extent to which such technologies are being used in other countries and how such countries have regulated such technologies.
+
+&emsp;&emsp;"(F) Recommendations regarding authorization, infrastructure, and other requirements necessary for the implementation of such technologies in the United States.
+
+&emsp;"(3)
+
+Consultation.—The report required under paragraph (1) shall include, at a minimum, consultation with the maritime industry including—
+
+&emsp;&emsp;"(A) vessel operators, including commercial carriers, entities engaged in exploring for, developing, or producing resources, including non-mineral energy resources in its offshore areas, and supporting entities in the maritime industry;
+
+&emsp;&emsp;"(B) shipboard personnel impacted by any change to autonomous vessel operations, in order to assess the various benefits and risks associated with the implementation of autonomous, remote, and associated technologies in the operation of shipboard equipment and safe and secure navigation of vessels and the impact such technologies would have on maritime jobs and maritime manpower;
+
+&emsp;&emsp;"(C) relevant federally funded research institutions, non-governmental organizations, and academia; and
+
+&emsp;&emsp;"(D) the commercial space industry.
+
+"(k)
+
+Merchant Mariner Credential Defined.—In this section, the term 'merchant mariner credential' means a merchant mariner license, certificate, or document that the Secretary is authorized to issue pursuant to title 46, United States Code."
+
+\[For definition of "Secretary" as used in section 11504 of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under section 106 of this title.\]
+
+#### Conveyance of Coast Guard Vessels for Public Purposes
+
+Pub. L. 111–281, title IX, §914, Oct. 15, 2010, 124 Stat. 3018, which provided for transfer of a Coast Guard vessel or aircraft to an eligible entity for public purposes when authorized by law or declared excess by the Commandant of the Coast Guard, was redesignated as section 510 of this title and transferred to appear after section 509 of this title by Pub. L. 117–263, div. K, title CXII, §11258(a), Dec. 23, 2022, 136 Stat. 4057.
 
 #### Implementation of International Agreements
 
@@ -226,7 +322,7 @@ Authorized pay.—(A) Retired members employed under paragraph (1) of this subse
 
 #### Consideration of Maritime Administration Vessels
 
-Pub. L. 101–225, title II, §213, Dec. 12, 1989, 103 Stat. 1914, provided that: "Before acquiring a vessel for use by the Coast Guard, the Secretary of Transportation or the Commandant of the Coast Guard, as appropriate, shall review the inventory of vessels acquired by the Secretary or the Secretary of Commerce as the result of a default under title XI of the Merchant Marine Act,1936 (\[former\] 46 App. U.S.C. 1271–1279c) \[see 46 U.S.C. 53701 et seq.\], to determine whether any of those vessels are suitable for use by the Coast Guard."
+Pub. L. 101–225, title II, §213, Dec. 12, 1989, 103 Stat. 1914, provided that: "Before acquiring a vessel for use by the Coast Guard, the Secretary of Transportation or the Commandant of the Coast Guard, as appropriate, shall review the inventory of vessels acquired by the Secretary or the Secretary of Commerce as the result of a default under title XI of the Merchant Marine Act, 1936 (\[former\] 46 App. U.S.C. 1271–1279c) \[see 46 U.S.C. 53701 et seq.\], to determine whether any of those vessels are suitable for use by the Coast Guard."
 
 #### Lifesaving Equipment on Passenger Ferries
 

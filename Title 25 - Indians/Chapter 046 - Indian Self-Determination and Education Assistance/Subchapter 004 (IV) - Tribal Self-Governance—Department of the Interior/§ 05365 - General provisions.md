@@ -62,7 +62,7 @@ Except as provided in section 5367 of this title, an Indian Tribe may redesign o
 
 A funding agreement shall provide that, for the period for which, and to the extent to which, funding is provided to an Indian Tribe under this subchapter, the Indian Tribe—
 
-&emsp;(1) shall not be entitled to contract with the Secretary for funds under section 5321 of this title, except that the Indian Tribe shall be eligible for new programs on the same basis as other Indian Tribes; and
+&emsp;(1) shall not be entitled to contract with the Secretary for funds under section 5321 of thistitle, except that the Indian Tribe shall be eligible for new programs on the same basis as other Indian Tribes; and
 
 &emsp;(2) shall be responsible for the administration of programs in accordance with the compact or funding agreement.
 

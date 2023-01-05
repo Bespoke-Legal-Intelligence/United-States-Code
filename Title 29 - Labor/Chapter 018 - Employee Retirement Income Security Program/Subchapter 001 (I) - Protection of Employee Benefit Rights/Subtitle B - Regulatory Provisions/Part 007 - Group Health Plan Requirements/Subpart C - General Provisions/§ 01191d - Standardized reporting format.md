@@ -14,7 +14,7 @@ Not later than 1 year after December 27, 2020, the Secretary shall establish (an
 
 #### (A) Appointment
 
-&emsp;&emsp;In accordance with subparagraph (B), not later than 90 days after December 27, 2020, the Secretary, in coordination with the Secretary of Health and Human Services, shall appoint under subparagraph (B)(iii), and the Comptroller General of the United States shall appoint under subparagraph (B)(iv), members who have distinguished themselves in the fields of health services research, health economics, health informatics, data privacy and security, or the governance of State All Payer Claims Databases, or who represent organizations likely to submit data to or use the database, including patients, employers, or employee organizations that sponsor group health plans, health care providers, health insurance issuers, or third-party administrators of group health plans. Such members shall serve 3-year terms on a staggered basis. Vacancies on the Committee shall be filled by appointment consistent with this paragraph not later than 3 months after the vacancy arises.
+&emsp;&emsp;In accordance with subparagraph (B), not later than 90 days after December 27, 2020, the Secretary, in coordination with the Secretary of Health and Human Services, shall appoint under subparagraph (B)(iii), and the Comptroller General of the United States shall appoint under subparagraph (B)(iv), members who have distinguished themselves in the fields of health services research, health economics, health informatics, data privacy and security, or the governance of State All Payer Claims Databases, or who represent organizations likely to submit data to or use the database, including patients, employers, or employee organizationsthat sponsor group health plans, health care providers, health insurance issuers, or third-party administrators of group health plans. Such members shall serve 3-year terms on a staggered basis. Vacancies on the Committee shall be filled by appointment consistent with this paragraph not later than 3 months after the vacancy arises.
 
 #### (B) Composition
 
@@ -58,7 +58,7 @@ Not later than 1 year after December 27, 2020, the Secretary shall establish (an
 
 #### (c) State All Payer Claims Database
 
-In this section, the term "State All Payer Claims Database" means, with respect to a State, a database that may include medicalclaims, pharmacy claims, dental claims, and eligibility and provider files, which are collected from private and public payers.
+In this section, the term "State All Payer Claims Database" means, with respect to a State, a database that may include medical claims, pharmacy claims, dental claims, and eligibility and provider files, which are collected from private and public payers.
 
 #### (d) Authorization of appropriations
 

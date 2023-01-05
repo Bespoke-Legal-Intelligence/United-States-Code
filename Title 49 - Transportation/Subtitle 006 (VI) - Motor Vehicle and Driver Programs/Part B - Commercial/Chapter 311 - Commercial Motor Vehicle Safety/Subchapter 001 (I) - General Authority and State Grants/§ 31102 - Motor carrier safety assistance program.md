@@ -26,9 +26,9 @@ In general.—In carrying out the program, the Secretary shall prescribe procedu
 
 &emsp;(2)
 
-Contents.—The Secretary shall approve a State plan if the Secretary determines that the plan is adequate to comply with the requirements of this section, and the plan—
+Contents.—The Secretary shall approve a State plan if the Secretary determines thatthe plan is adequate to comply with the requirements of this section, and the plan—
 
-&emsp;&emsp;(A) implements performance-based activities, including deployment and maintenanceof technology to enhance the efficiency and effectiveness of commercial motor vehicle safety programs;
+&emsp;&emsp;(A) implements performance-based activities, including deployment and maintenance of technology to enhance the efficiency and effectiveness of commercial motor vehicle safety programs;
 
 &emsp;&emsp;(B) designates a lead State commercial motor vehicle safety agency responsible for administering the plan throughout the State;
 
@@ -82,7 +82,7 @@ Contents.—The Secretary shall approve a State plan if the Secretary determines
 
 &emsp;&emsp;(V) provides that the State will conduct comprehensive and highly visible traffic enforcement and commercial motor vehicle safety inspection programs in high-risk locations and corridors;
 
-&emsp;&emsp;(W) except in the case of an imminent hazard or obvious safety hazard, ensures that aninspection of a vehicle transporting passengers for a motor carrier of passengers is conducted at a bus station, terminal, border crossing, maintenance facility, destination, or other location where a motor carrier may make a planned stop (excluding a weigh station);
+&emsp;&emsp;(W) except in the case of an imminent hazard or obvious safety hazard, ensures that an inspection of a vehicle transporting passengers for a motor carrier of passengers is conducted at a bus station, terminal, border crossing, maintenance facility, destination, or other location where a motor carrier may make a planned stop (excluding a weigh station);
 
 &emsp;&emsp;(X) ensures that the State will transmit to its roadside inspectors notice of each Federal exemption granted under section 31315(b) of this title and sections 390.23 and 390.25 of title 49, Code of Federal Regulations, and provided to the State by the Secretary, including the name of the person that received the exemption and any terms and conditions that apply to the exemption;
 
@@ -612,7 +612,7 @@ Relief for Recipients of Financial Assistance Awarded for Fiscal Years 2019 and 
 
 &emsp;"(1)
 
-In general.—Notwithstanding any provision of chapter 311 of title 49, United States Code (including any applicable period of availability under section 31104(f) of that title), and any regulations promulgated under that chapter and subject to paragraph (2), the period of availability during which a recipientmay expend amounts made available to the recipient under a grant or cooperative agreement described in subparagraphs (A) through (E) shall be—
+In general.—Notwithstanding any provision of chapter 311 of title 49, United States Code (including any applicable period of availability under section 31104(f) of that title), and any regulations promulgated under that chapter and subject to paragraph (2), the period of availability during which a recipient may expend amounts made available to the recipient under a grant or cooperative agreement described in subparagraphs (A) through (E) shall be—
 
 &emsp;&emsp;"(A) for a grant made under section 31102 of that title (other than subsection (l) of that section)—
 
@@ -666,7 +666,7 @@ Pub. L. 114–94, div. A, title V, §5101(g), Dec. 4, 2015, 129 Stat. 1526, prov
 
 #### Motor Carrier Safety Assistance Program Allocation
 
-Pub. L. 114–94, div. A, title V, §5106, Dec. 4, 2015, 129 Stat. 1530, provided that:
+Pub. L. 114–94, div. A, title V, §5106, Dec. 4, 2015, 129 Stat. 1530, as amended by Pub. L. 117–286, §4(a)(310), Dec. 27, 2022, 136 Stat. 4340, provided that:
 
 "(a)
 
@@ -706,7 +706,7 @@ Recommendation.—Not later than 1 year after the date the working group is esta
 
 &emsp;"(5)
 
-Exemption.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under this subsection.
+Exemption.—Chapter 10 of title 5, United States Code, shall not apply to the working group established under this subsection.
 
 &emsp;"(6)
 

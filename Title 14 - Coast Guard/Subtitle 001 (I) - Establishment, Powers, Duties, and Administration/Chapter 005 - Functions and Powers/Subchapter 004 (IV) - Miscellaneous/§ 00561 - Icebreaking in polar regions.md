@@ -96,7 +96,7 @@ Polar star.—The term "<i>Polar Star</i>" means Coast Guard Cutter <i>Polar Sta
 
 Healy.—The term "<i>Healy</i>" means Coast Guard Cutter <i>Healy</i> (WAGB 20).
 
-(Added Pub. L. 113–281, title V, §506(a), Dec. 18, 2014, 128 Stat. 3060, §87; renumbered §561, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200; amended Pub. L. 116–283, div. G, title LVXXXI \[LXXXI\], §8111(a), Jan. 1, 2021, 134 Stat. 4637.)
+(Added Pub. L. 113–281, title V, §506(a), Dec. 18, 2014, 128 Stat. 3060, §87; renumbered §561, Pub. L. 115–282, title I, §105(b), Dec. 4, 2018, 132 Stat. 4200;amended Pub. L. 116–283, div. G, title LVXXXI \[LXXXI\], §8111(a), Jan. 1, 2021, 134 Stat. 4637.)
 
 #### <b>Editorial Notes</b>
 
@@ -111,6 +111,200 @@ Another prior section 561, act Aug. 4, 1949, ch. 393, 63 Stat. 538, related to l
 <b>2021</b>—Pub. L. 116–283 amended section generally. Prior to amendment, text read as follows: "The President shall facilitate planning for the design, procurement, maintenance, deployment, and operation of icebreakers as needed to support the statutory missions of the Coast Guard in the polar regions by allocating all funds to support icebreaking operations in such regions, except for recurring incremental costs associated with specific projects, to the Coast Guard."
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 87 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Establishment of Medium Icebreaker Program Office
+
+Pub. L. 117–263, div. K, title CXII, §11218, Dec. 23, 2022, 136 Stat. 4018, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant \[of the Coast Guard\], in consultation with the heads of the other Federal agencies as appropriate, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report to establish a fleet mix analysis with respect to polar icebreakers and icebreaking tugs.
+
+"(b)
+
+Contents.—The report required under subsection (a) shall include—
+
+&emsp;"(1) a full fleet mix of heavy and medium icebreaker and 140-foot icebreaking tug replacements, including cost and timelines for the acquisition of such vessels;
+
+&emsp;"(2) a revised time table showing the construction, commissioning, and acceptance of planned Polar Security Cutters 1 through 3, as of the date of \[the\] report;
+
+&emsp;"(3) a comparison and alternatives analysis of the costs and timeline of constructing 2 Polar Security Cutters beyond the construction of 3 such vessels rather than constructing 3 Arctic Security Cutters, including the cost of planning, design, and engineering of a new class of ships, which shall include the increased costs resulting from the delays in building a new class of cutters rather than building 2 additional cutters from an ongoing production line;
+
+&emsp;"(4) the operational benefits, limitations, and risks of a common hull design for polar icebreaking cutters for operation in the polar regions;
+
+&emsp;"(5) the operational benefits, limitations, and risks of a common hull design for icebreaking tugs for operation in the Northeastern United States; and
+
+&emsp;"(6) the cost and timetable for replacing the Coast Guard Cutter <i>Healy</i> (WAGB 20) as—
+
+&emsp;&emsp;"(A) a Polar Security Cutter;
+
+&emsp;&emsp;"(B) an Arctic Security Cutter; or
+
+&emsp;&emsp;"(C) other platform as determined by the Commandant.
+
+"(c)
+
+Quarterly Briefings.—As part of quarterly acquisition briefings provided by the Commandant to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, the Commandant shall include an update on the status of—
+
+&emsp;"(1) all acquisition activities related to the Polar Security Cutter;
+
+&emsp;"(2) the performance of the entity which the Coast Guard has contracted with for detailed design and construction of the Polar Security Cutter; and
+
+&emsp;"(3) the requirements for the planning, detailed design, engineering, and construction of the—
+
+&emsp;&emsp;"(A) Arctic Security Cutter; and
+
+&emsp;&emsp;"(B) Great Lakes Icebreaker.
+
+"(d)
+
+Limitation.—The report required to be submitted under subsection (a) shall not include an analysis of the Great Lakes Icebreaker authorized under section 11104 \[of Pub. L. 117–263, 136 Stat. 4004, which is not classified to the Code\].
+
+"(e)
+
+Establishment of the Arctic Security Cutter Program Office.—
+
+&emsp;"(1)
+
+Determination.—Not later than 90 days after the submission of the report under subsection (a), the Commandant shall determine if constructing additional Polar Security Cutters is more cost effective and efficient than constructing 3 Arctic Security Cutters.
+
+&emsp;"(2)
+
+Establishment.—If the Commandant determines under paragraph (1) that it is more cost effective to build 3 Arctic Security Cutters than to build additional Polar Security Cutters or if the Commandant fails to make a determination under paragraph (1) by June 1, 2024, the Commandant shall establish a program office for the acquisition of the Arctic Security Cutter not later than January 1, 2025.
+
+&emsp;"(3)
+
+Requirements and design phase.—Not later than 270 days after the date on which the Commandant establishes a program office under paragraph (2), the Commandant shall complete the evaluation of requirements for the Arctic Security Cutter and initiate the design phase of the Arctic Security Cutter vessel class.
+
+"(f)
+
+Quarterly Briefings.—Not less frequently than quarterly until the date on which a contract for acquisition of the Arctic Security Cutter is awarded under chapter 11 of title 14, United States Code, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the status of requirements evaluations, design of the vessel, and schedule of the program."
+
+#### Acquisition of Icebreaker
+
+Pub. L. 117–263, div. K, title CXII, §11223, Dec. 23, 2022, 136 Stat. 4021, provided that:
+
+"(a)
+
+In General.—The Commandant may acquire or procure 1 United States built available icebreaker.
+
+"(b)
+
+Exemptions From Requirements.—
+
+&emsp;"(1)
+
+In general.—Sections 1131, 1132(a)(2), 1132(c), 1133, and 1171 of title 14, United States Code, shall not apply to an acquisition or procurement under subsection (a).
+
+&emsp;"(2)
+
+Additional exceptions.—Paragraphs (1), (3), (4), and (5) of subsection (a) and subsections (b), (d), and (e) of section 1132 of title 14, United States Code, shall apply to an acquisition or procurement under subsection (a) until the first phase of the initial acquisition or procurement is complete and initial operating capacity is achieved.
+
+"(c)
+
+Science Mission Requirements.—For any available icebreaker acquired or procured under subsection (a), the Commandant shall ensure scientific research capacity comparable to the Coast Guard Cutter <i>Healy</i> (WAGB 20), for the purposes of hydrographic, bathymetric, oceanographic, weather, atmospheric, climate, fisheries, marine mammals, genetic and other data related to the Arctic, and other research as the Under Secretary determines appropriate.
+
+"(d)
+
+Operations and Agreements.—
+
+&emsp;"(1)
+
+Coast guard.—With respect to any available icebreaker acquired or procured under subsection (a), the Secretary shall be responsible for any acquisition, retrofitting, operation, and maintenance costs necessary to achieve full operational capability, including testing, installation, and acquisition, including for the suite of hull-mounted, ship-provided scientific instrumentation and equipment for data collection.
+
+&emsp;"(2)
+
+National oceanic and atmospheric administration.—The Under Secretary shall not be responsible for the costs of retrofitting any available icebreaker acquired or procured under subsection (a), including costs relating to—
+
+&emsp;&emsp;"(A) vessel maintenance, construction, operations, and crewing other than the science party; and
+
+&emsp;&emsp;"(B) making such icebreaker capable of conducting the research described in subsection (c), including design, procurement of laboratory space and equipment, and modification of living quarters.
+
+&emsp;"(3)
+
+Responsibility of under secretary.—The Under Secretary shall be responsible for costs related to—
+
+&emsp;&emsp;"(A) the science party;
+
+&emsp;&emsp;"(B) the scientific mission; and
+
+&emsp;&emsp;"(C) other scientific assets and equipment that augment such icebreaker beyond full operational capacity as determined by the Under Secretary and Commandant.
+
+&emsp;"(4)
+
+Memorandum of agreement.—The Commandant and the Under Secretary shall enter into a memorandum of agreement to facilitate science activities, data collection, and other procedures necessary to meet the requirements of this section.
+
+"(e)
+
+Restriction and Briefing.—Not later than 60 days after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant shall brief the appropriate congressional committees with respect to available icebreaker acquired or procured under subsection (a) on—
+
+&emsp;"(1) a proposed concept of operations of such icebreaker;
+
+&emsp;"(2) a detailed cost estimate for such icebreaker, including estimated costs for acquisition, modification, shoreside infrastructure, crewing, and maintaining such an icebreaker by year for the estimated service life of such icebreaker; and
+
+&emsp;"(3) the expected capabilities of such icebreaker as compared to the capabilities of a fully operational Coast Guard built Polar Security Cutter for each year in which such an icebreaker is anticipated to serve in lieu of such a cutter and the projected annual costs to achieve such anticipated capabilities.
+
+"(f)
+
+Interim Report.—Not later than 30 days after the date of enactment of this Act, and not later than every 90 days thereafter until any available icebreaker acquired or procured under subsection (a) has reached full operational capability, the Commandant shall provide to the appropriate Committees of Congress an interim report of the status and progress of all elements under subsection (d).
+
+"(g)
+
+Rule of Construction.—Nothing in this section shall effect acquisitions of vessels by the Under Secretary.
+
+"(h)
+
+Savings Clause.—
+
+&emsp;"(1)
+
+In general.—Any operations necessary for the saving of life or property at sea, response to environmental pollution, national security, defense readiness, or other missions as determined by the Commandant shall take priority over any scientific or economic missions under subsection (c).
+
+&emsp;"(2)
+
+Augmentation.—Any available icebreaker acquired or procured under subsection (a) shall augment the Coast Guard mission in the Arctic, including by conducting operations and missions that are in addition to missions conducted by the Coast Guard Cutter <i>Healy</i> (WAGB 20) in the region.
+
+"(i)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate.
+
+&emsp;"(2)
+
+Arctic.—The term 'Arctic' has the meaning given such term in section 112 of the Arctic Research and Policy Act of 1984 (15 U.S.C. 4111).
+
+&emsp;"(3)
+
+Available icebreaker.—The term 'available icebreaker' means a vessel that—
+
+&emsp;&emsp;"(A) is capable of—
+
+&emsp;&emsp;&emsp;"(i) supplementing United States Coast Guard polar icebreaking capabilities in the Arctic region of the United States;
+
+&emsp;&emsp;&emsp;"(ii) projecting United States sovereignty;
+
+&emsp;&emsp;&emsp;"(iii) ensuring a continuous operational capability in the Arctic region of the United States;
+
+&emsp;&emsp;&emsp;"(iv) carrying out the primary duty of the Coast Guard described in section 103(7) of title 14, United States Code; and
+
+&emsp;&emsp;&emsp;"(v) collecting hydrographic, environmental, and climate data; and
+
+&emsp;&emsp;"(B) is documented with a coastwise endorsement under chapter 121 of title 46, United States Code.
+
+&emsp;"(4)
+
+Under secretary.—The term 'Under Secretary' means the Under Secretary of Commerce for Oceans and Atmosphere.
+
+"(j)
+
+Sunset.—The authority under subsections (a) through (c) shall expire on the date that is 3 years after the date of enactment of this Act."
+
+\[For definitions of "Commandant" and "Secretary" as used in section 11223 of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under section 106 of this title.\]
 
 <i><sup>1</sup></i><i> So in original. "Polar Star" probably should be italicized.</i>
 

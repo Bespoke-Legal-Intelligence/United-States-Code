@@ -8,7 +8,7 @@ There is allowed as a deduction for the taxable year an amount equal to the sum 
 
 The maximum amount of the deduction allowed by subsection (a) for any taxpayer for any taxable year shall not exceed the greater of—
 
-&emsp;(1) the amount necessary to fund (with level funding) the remaining unfunded liability of the taxpayer for black lung claims filed (or expected to be filed) by (or with respect to) past or present employees of the taxpayer, or
+&emsp;(1) the amount necessary to fund (with level funding) the remaining unfunded liability ofthe taxpayer for black lung claims filed (or expected to be filed) by (or with respect to) past or present employees of the taxpayer, or
 
 &emsp;(2) the aggregate amount necessary to increase each trust described in section 501(c)(21) to the amount required to pay all amounts payable out of such trust for the taxable year.
 
@@ -88,7 +88,7 @@ Subsec. (c)(5). Pub. L. 95–488, §1(c), added par. (5).
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1940(d), Oct. 24, 1992, 106 Stat. 3035, provided that: "The amendments made by this section \[amending this section and sections 501 and 4951 of this title\] shall apply to taxable years beginning after December 31, 1991."
+Pub. L. 102–486, title XIX, §1940(d), Oct. 24, 1992, 106 Stat. 3035, provided that: "The amendments made by this section \[amending this section and sections 501 and4951 of this title\] shall apply to taxable years beginning after December 31, 1991."
 
 #### Effective Date of 1980 Amendment
 

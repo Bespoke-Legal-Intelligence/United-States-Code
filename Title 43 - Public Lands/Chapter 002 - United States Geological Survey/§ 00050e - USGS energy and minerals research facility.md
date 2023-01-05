@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Director of the United States Geological Survey (referred to in this section as the "Director"),<sup>1</sup> shall fund, through a cooperative agreement with an academic partner, the design, construction, and tenant build-out of a facility tosupport energy and minerals research and appurtenant associated structures.
+The Director of the United States Geological Survey (referred to in this section as the "Director"),<sup>1</sup> shall fund, through a cooperative agreement with an academic partner, the design, construction, and tenant build-out of a facility to support energy and minerals research and appurtenant associated structures.
 
 #### (b) Ownership
 

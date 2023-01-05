@@ -10,7 +10,7 @@
 
 &emsp;&emsp;&emsp;(i) the price of the security prevailing on a national securities exchange which is registered under section 6 of the Securities Exchange Act of 1934; or
 
-&emsp;&emsp;&emsp;(ii) if the security is not traded on such a national securities exchange, a price notless favorable to the Thrift Savings Fund than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and
+&emsp;&emsp;&emsp;(ii) if the security is not traded on such a national securities exchange, a price not less favorable to the Thrift Savings Fund than the offering price for the security as established by the current bid and asked prices quoted by persons independent of the issuer and of any party in interest; and
 
 &emsp;&emsp;(B) in the case of an asset other than a security for which there is a generally recognized market, the fair market value of the asset as determined in good faith by a fiduciary or fiduciaries in accordance with regulations prescribed by the Secretary of Labor;
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) the Executive Director;
 
-&emsp;&emsp;(C) any person who has or exercises discretionary authority or discretionary control over the management or disposition of the assets of the Thrift Savings Fund; and
+&emsp;&emsp;(C) any person who has or exercises discretionary authority or discretionary controlover the management or disposition of the assets of the Thrift Savings Fund; and
 
 &emsp;&emsp;(D) any person who, with respect to the Thrift Savings Fund, is described in section 3(21)(A) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(21)(A)); and
 
@@ -200,7 +200,7 @@
 
 (7)(A) The district courts of the United States shall have exclusive jurisdiction of civil actions under this subsection.
 
-(B) An action under this subsection may be brought in the District Court of the United States for the District of Columbia or a districtcourt of the United States in the district where the breach alleged in the complaint or petition filed in the action took place or in the district where a defendant resides or may be found. Process may be served in any other district where a defendant resides or may be found.
+(B) An action under this subsection may be brought in the District Court of the United States for the District of Columbia or a district court of the United States in the district where the breach alleged in the complaint or petition filed in the action took place or in the district where a defendant resides or may be found. Process may be served in any other district where a defendant resides or may be found.
 
 (8)(A) A copy of the complaint or petition filed in any action brought under this subsection (other than by the Secretary of Labor) shall be served on the Executive Director, the Secretary of Labor, and the Secretary of the Treasury by certified mail.
 

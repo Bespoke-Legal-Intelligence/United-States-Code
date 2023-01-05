@@ -2,7 +2,7 @@
 
 Upon retirement, any permanent professor of the United States Military Academy whose grade is below brigadier general, and whose service as such a professor has been long and distinguished, may, in the discretion of the President, be retired in the grade of brigadier general.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 230, §3962; Pub. L. 85–861, §1(99), Sept. 2, 1958, 72 Stat. 1489; Pub. L. 89–288, §2, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 96–343, §13(a)(1)–(3), Sept. 8, 1980, 94 Stat. 1131; Pub. L. 96–513, title V, §502(19), Dec. 12, 1980, 94 Stat. 2910; Pub. L. 97–22, §10(a)(2)(B), July 10, 1981, 95 Stat. 136; Pub. L. 104–106, div. A, title V, §502(c), (d)(1), Feb. 10, 1996, 110 Stat. 293; renumbered §7342, Pub. L. 115–232, div. A, title VIII, §808(b)(13), Aug. 13, 2018, 132 Stat. 1839.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 230, §3962; Pub. L. 85–861, §1(99), Sept. 2, 1958, 72 Stat. 1489; Pub. L. 89–288, §2, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 96–343, §13(a)(1)–(3), Sept. 8, 1980, 94 Stat. 1131;Pub. L. 96–513, title V, §502(19), Dec. 12, 1980, 94 Stat. 2910; Pub. L. 97–22, §10(a)(2)(B), July 10, 1981, 95 Stat. 136; Pub. L. 104–106, div. A, title V, §502(c), (d)(1), Feb. 10, 1996, 110 Stat. 293; renumbered §7342, Pub. L. 115–232, div. A, title VIII, §808(b)(13), Aug. 13, 2018, 132 Stat. 1839.)
 
 Historical and Revision Notes<br>1956
 

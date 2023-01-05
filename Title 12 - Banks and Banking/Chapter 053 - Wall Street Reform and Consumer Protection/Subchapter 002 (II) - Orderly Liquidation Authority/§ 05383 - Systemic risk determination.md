@@ -98,7 +98,7 @@ Notwithstanding any other provision of Federal or State law, the Secretary shall
 
 &emsp;&emsp;&emsp;(ii) describing the plan of, and actions taken by, the Corporation to wind down the covered financial company;
 
-&emsp;&emsp;&emsp;(iii) explaining each instance in which the Corporation waived any applicable requirements of part 366 of title 12, Code of Federal Regulations (or any successor thereto) with respect to conflicts of interest by any person in the private sector who was retained to provide services to the Corporation in connection with such receivership;
+&emsp;&emsp;&emsp;(iii) explaining each instance in which the Corporation waived any applicable requirements of part 366 of title 12, Code of Federal Regulations (or any successor thereto) with respect to conflicts of interest by any person in the private sector whowas retained to provide services to the Corporation in connection with such receivership;
 
 &emsp;&emsp;&emsp;(iv) describing the reasons for the provision of any funding to the receivership out of the Fund;
 
@@ -130,7 +130,7 @@ Notwithstanding any other provision of Federal or State law, the Secretary shall
 
 #### (5) GAO review
 
-&emsp;The Comptroller General of the United States shall review and report to Congress on any determination under subsection (b), thatresults in the appointment of the Corporation as receiver, including—
+&emsp;The Comptroller General of the United States shall review and report to Congress on any determination under subsection (b), that results in the appointment of the Corporation as receiver, including—
 
 &emsp;&emsp;(A) the basis for the determination;
 

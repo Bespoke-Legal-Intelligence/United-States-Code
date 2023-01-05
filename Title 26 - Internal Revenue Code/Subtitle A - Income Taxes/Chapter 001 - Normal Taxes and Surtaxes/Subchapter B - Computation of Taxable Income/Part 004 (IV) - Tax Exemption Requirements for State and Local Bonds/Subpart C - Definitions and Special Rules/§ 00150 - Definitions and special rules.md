@@ -26,7 +26,7 @@ For purposes of this part—
 
 #### (6) Tax-exempt bond
 
-&emsp;The term "tax-exempt" means, with respect to any bond (or issue), that the interest onsuch bond (or on the bonds issued as part of such issue) is excluded from gross income.
+&emsp;The term "tax-exempt" means, with respect to any bond (or issue), that the interest on such bond (or on the bonds issued as part of such issue) is excluded from gross income.
 
 #### (b) Change in use of facilities financed with tax-exempt private activity bonds
 
@@ -102,7 +102,7 @@ For purposes of subsection (b)—
 
 #### (2) Treatment of amounts other than interest
 
-&emsp;If the amounts payable for the use of a facility are not interest, subsection (b) shall applyto such amounts as if they were interest but only to the extent such amounts for any period do not exceed the amount of interest accrued on the bond financing for such period.
+&emsp;If the amounts payable for the use of a facility are not interest, subsection (b) shall apply to such amounts as if they were interest but only to the extent such amounts for any period do not exceed the amount of interest accrued on the bond financing for such period.
 
 #### (3) Use of portion of facility
 
@@ -226,7 +226,7 @@ For purposes of this part and section 103—
 
 &emsp;Bonds which are part of an issue which meets the requirements of paragraph (1) shall not be treated as private activity bonds except for purposes of sections 147(f) and 149(d).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2651; amended Pub. L. 100–647, title I, §1013(a)(23), (24)(A), (30)–(33), title VI, §6182(a), (b), Nov. 10, 1988, 102 Stat. 3542, 3543, 3729; Pub. L. 104–188, title I, §1614(a), Aug. 20, 1996, 110 Stat. 1851.)
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2651; amended Pub. L. 100–647, titleI, §1013(a)(23), (24)(A), (30)–(33), title VI, §6182(a), (b), Nov. 10, 1988, 102 Stat. 3542, 3543, 3729; Pub. L. 104–188, title I, §1614(a), Aug. 20, 1996, 110 Stat. 1851.)
 
 #### <b>Editorial Notes</b>
 

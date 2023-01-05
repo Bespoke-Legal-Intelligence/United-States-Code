@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;After December 31, 1971, no new flood insurance coverage shall be provided under this chapter in any area (or subdivision thereof)unless an appropriate public body shall have adopted adequate land use and control measures (with effective enforcement provisions) which the Administrator finds are consistent with the comprehensive criteria for land management and use under section 4102 of this title.
+&emsp;After December 31, 1971, no new flood insurance coverage shall be provided under this chapter in any area (or subdivision thereof) unless an appropriate public body shall have adopted adequate land use and control measures (with effective enforcement provisions) which the Administrator finds are consistent with the comprehensive criteria for land management and use under section 4102 of this title.
 
 #### (2) Agricultural structures
 
@@ -56,7 +56,7 @@
 
 #### (4) Reports
 
-&emsp;Not later than 2 years after September 23, 1994, and not less than every 2 years thereafter, the Administrator shall submit a report to the Congress regarding the program under this subsection. Each report shall include an analysis of the cost-effectiveness of the program, any other accomplishments or shortcomings of the program, and any recommendations of the Administrator for legislation regarding the program.
+&emsp;Not later than 2 years after September 23, 1994, and not less than every 2 years thereafter, the Administrator shall submit a reportto the Congress regarding the program under this subsection. Each report shall include an analysis of the cost-effectiveness of the program, any other accomplishments or shortcomings of the program, and any recommendations of the Administrator for legislation regarding the program.
 
 #### (c) Replacement of mobile homes on original sites
 
@@ -82,7 +82,7 @@
 
 This chapter, referred to in subsecs. (a)(1) and (c)(1), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-The Flood Disaster Protection Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
+The Flood Disaster Protection Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under section 4001 of this title and Tables.
 
 #### Amendments
 

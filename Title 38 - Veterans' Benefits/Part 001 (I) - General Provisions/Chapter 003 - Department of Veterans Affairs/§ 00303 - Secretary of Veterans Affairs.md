@@ -1,6 +1,6 @@
 ### §303. Secretary of Veterans Affairs
 
-There is a Secretary of Veterans Affairs, who is the head of the Department and is appointedby the President, by and with the advice and consent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
+There is a Secretary of Veterans Affairs, who is the head of the Department and is appointed by the President, by and with the advice and consent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 379.)
 
@@ -11,6 +11,70 @@ There is a Secretary of Veterans Affairs, who is the head of the Department and 
 Provisions similar to those in this section were contained in section 210(a), (b)(1) of this title and in second and third sentences of section 2 of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §§2(a), 3(1).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Plan for Reduction of Backlog of Freedom of Information Act Requests
+
+Pub. L. 117–328, div. U, title IV, §406, Dec. 29, 2022, 136 Stat. 5493, provided that:
+
+"(a)
+
+Plan.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Veterans Affairs shall establish and carry out a plan for the Secretary to meet, by not later than five years after the date of the enactment of this Act \[Dec. 29, 2022\], the requirements of section 552 of title 5, United States Code, (commonly known as the 'Freedom of Information Act' or 'FOIA') with respect to providing documents and information under such section within the timeframes required by such section.
+
+&emsp;"(2)
+
+Elements.—The plan required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) Improving and acquiring technology, including with respect to searching email and other electronic information, and the timelines for such improvement, to ensure that the information technology of the Department of Veterans Affairs is capable of carrying out the plan.
+
+&emsp;&emsp;"(B) Identification of efficient procedures, policies, and systems of the Department that could be developed to allow employees of the Department responsible for replying to requests under such section 552 to search and review documents rather than other employees of the Department.
+
+&emsp;&emsp;"(C) A schedule for carrying out the plan, including key milestones and metrics.
+
+"(b)
+
+Compliance Assessment.—The Secretary shall request the Director of the Office of Government Information Services of the National Archives and Records Administration to conduct an assessment of the compliance by the Department of Veterans Affairs with section 552 of title 5, United States Code.
+
+"(c)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on implementing subsections (a) and (b).
+
+&emsp;&emsp;"(B)
+
+Contents.—The report required by subparagraph (A) shall include the following:
+
+&emsp;&emsp;&emsp;"(i) The plan established under subsection (a).
+
+&emsp;&emsp;&emsp;"(ii) An analysis of the root causes of the backlog of Freedom of Information Act requests.
+
+&emsp;&emsp;&emsp;"(iii) Recommendations with respect to any additional resources or legislative action the Secretary determines necessary for such implementation.
+
+&emsp;"(2)
+
+Annual reports.—During the five-year period following the date of the enactment of this Act, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives annual reports on—
+
+&emsp;&emsp;"(A) carrying out the plan under subsection (a), including any updates or changes made to the plan; and
+
+&emsp;&emsp;"(B) the compliance by the Department as described in subsection (b).
+
+&emsp;"(3)
+
+Publication.—The Secretary shall make publicly available on the internet website of the Department the reports under paragraphs (1) and (2) by not later than 30 days after the date on which the Secretary submits the reports to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives.
+
+"(d)
+
+Definition of Backlog of Freedom of Information Act Requests.—In this section, the term 'backlog of Freedom of Information Act requests' means the number of requests, as reported by the Secretary of Veterans Affairs to the Attorney General in the Annual FOIA Report, made by individuals to the Secretary pursuant to section 552 of title 5, United States Code, for documents or information that the Secretary has not fulfilled or provided a response to the individual."
 
 #### Waiver of Pay Caps for Employees of Department of Veterans Affairs During Public Health Emergencies
 
@@ -76,9 +140,9 @@ Personal protective equipment.—The term 'personal protective equipment' means 
 
 #### Secretary's Approval of Research Using Canines, Felines, or Non-Human Primates
 
-Pub. L. 116–260, div. J, title II, §247, Dec. 27, 2020, 134 Stat. 1682, provided that:
+Pub. L. 117–328, div. J, title II, §247, Dec. 29, 2022, 136 Stat. 4967, provided that:
 
-"(a) None of the funds appropriated or otherwise made available by this Act \[div. J of Pub. L. 116–260, see Tables for classification\] may be used to conduct research commencing on or after October 1, 2019, that uses any canine, feline, or non-human primate unless the Secretary of Veterans Affairs approves such research specifically and in writing pursuant to subsection (b).
+"(a) None of the funds appropriated or otherwise made available by this Act \[div. J of Pub. L. 117–328, see Tables for classification\] may be used to conduct research commencing on or after October 1, 2019, that uses any canine, feline, or non-human primate unless the Secretary of Veterans Affairs approves such research specifically and in writing pursuant to subsection (b).
 
 "(b)(1) The Secretary of Veterans Affairs may approve the conduct of research commencing on or after October 1, 2019, using canines, felines, or non-human primates if the Secretary determines that—
 
@@ -100,9 +164,9 @@ Pub. L. 116–260, div. J, title II, §247, Dec. 27, 2020, 134 Stat. 1682, provi
 
 &emsp;"(4) the frequency and duration of such research; and
 
-&emsp;"(5) the protocols in place to ensure the necessity, safety, and efficacy of the research; and
+&emsp;"(5) the protocols in place to ensure the necessity, safety, and efficacy of the research.
 
-"(d) Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2020\], and biannually thereafter, the Secretary shall submit to such Committees a report describing—
+"(d) Not later than 180 days after the date of the enactment of this Act \[Dec. 29, 2022\], and biannually thereafter, the Secretary shall submit to such Committees a report describing—
 
 &emsp;"(1) any research being conducted by the Department of Veterans Affairs using canines, felines, or non-human primates as of the date of the submittal of the report;
 
@@ -112,9 +176,13 @@ Pub. L. 116–260, div. J, title II, §247, Dec. 27, 2020, 134 Stat. 1682, provi
 
 &emsp;"(4) the protocols in place to ensure the necessity, safety, and efficacy of such research.
 
-"(e) Not later than December 31, 2021, the Secretary shall submit to such Committees an updated plan under which the Secretary will eliminate or reduce the research conducted using canines, felines, or non-human primates by not later than 5 years after the date of enactment of Public Law 116–94 \[Dec. 20, 2019\]."
+"(e) The Department shall implement a plan under which the Secretary will eliminate or reduce the research conducted using canines, felines, or non-human primates by not later than 5 years after the date of enactment of Public Law 116–94 \[Dec. 20, 2019\]."
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–103, div. J, title II, §247, Mar. 15, 2022, 136 Stat. 558.
+
+Pub. L. 116–260, div. J, title II, §247, Dec. 27, 2020, 134 Stat. 1682.
 
 Pub. L. 116–94, div. F, title II, §249, Dec. 20, 2019, 133 Stat. 2806.
 
@@ -196,7 +264,7 @@ Recommendations and Report.—With respect to such a center, an agreement under 
 
 "(c)
 
-Report on Establishment of National Center.—Not later than 60 days after receiving the reportunder subsection (b), the Secretaries specified in subsection (b)(2) shall submit to the Committees on Veterans' Affairs and Armed Services of the Senate and the Committees on Veterans' Affairs and Natoinal \[sic\] Security of the House of Representatives a joint report on the findings and recommendations contained in that report. Such report may set forth an operational plan for carrying out any recommendation in that report to establish a national center or centers for the study of war-related illnesses. No action to carry out such plan may be taken after the submission of such report until the end of a 90-day period following the date of the submission."
+Report on Establishment of National Center.—Not later than 60 days after receiving the report under subsection (b), the Secretaries specified in subsection (b)(2) shall submit to the Committees on Veterans' Affairs and Armed Services of the Senate and the Committees on Veterans' Affairs and Natoinal \[sic\] Security of the House of Representatives a joint report on the findings and recommendations contained in that report. Such report may set forth an operational plan for carrying out any recommendation in that report to establish a national center or centers for the study of war-related illnesses. No action to carry out such plan may be taken after the submission of such report until the end of a 90-day period following the date of the submission."
 
 #### Specification in Budget Submissions of Funds for Certain Veterans Benefits
 
@@ -204,7 +272,7 @@ Pub. L. 100–687, div. B, title XIV, §1404, Nov. 18, 1988, 102 Stat. 4131, as 
 
 "(a)
 
-Budget Information.—In the documentation providing detailed information on the budgets for the Department of Veterans Affairs and the Department of Labor that the Secretary of Veterans Affairs and the Secretary of Labor, respectively, submit to the Congress in conjunction with the President's budget submission for each fiscal year pursuant to section 1105 of title 31, United States Code, the Secretary of Veterans Affairs and the Secretary of Labor shall identify, to the maximum extent feasible, the estimated amount in each of the appropriation requests for Department of Veterans Affairs accounts and Department of Labor accounts, respectively, that is to be obligated for the furnishing of each of the following services or benefits only to, or with respect to, veterans who performed active military, naval, or air service in combat with the enemy or in a theatre of combat operations during a period of war or other hostilities:
+Budget Information.—In the documentation providing detailed information on the budgets for the Department of Veterans Affairs and the Department ofLabor that the Secretary of Veterans Affairs and the Secretary of Labor, respectively, submit to the Congress in conjunction with the President's budget submission for each fiscal year pursuant to section 1105 of title 31, United States Code, the Secretary of Veterans Affairs and the Secretary of Labor shall identify, to the maximum extent feasible, the estimated amount in each of the appropriation requests for Department of Veterans Affairs accounts and Department of Labor accounts, respectively, that is to be obligated for the furnishing of each of the following services or benefits only to, or with respect to, veterans who performed active military, naval, or air service in combat with the enemy or in a theatre of combat operations during a period of war or other hostilities:
 
 &emsp;"(1) Employment services and other employment benefits under programs administered by the Secretary of Labor.
 

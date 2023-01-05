@@ -4,13 +4,13 @@ The purposes of this part are to—
 
 &emsp;(1) establish a nondiscriminatory regulatory process for the common carriage of goods by water in the foreign commerce of the United States with a minimum of government intervention and regulatory costs;
 
-&emsp;(2) provide an efficient and economic transportation system in the ocean commerce of the United States that is, insofar as possible, in harmony with, and responsive to, international shipping practices;
+&emsp;(2) ensure an efficient, competitive, and economical transportation system in the ocean commerce of the United States;
 
-&emsp;(3) encourage the development of an economically sound and efficient liner fleet of vessels of the United States capable of meeting national security needs; and
+&emsp;(3) encourage the development of an economically sound and efficient liner fleet of vessels of the United States capable of meeting national security needs and supporting commerce; and
 
-&emsp;(4) promote the growth and development of United States exports through competitive and efficient ocean transportation and by placing a greater reliance on the marketplace.
+&emsp;(4) promote the growth and development of United States exports through a competitiveand efficient system for the carriage of goods by water in the foreign commerce of the United States, and by placing a greater reliance on the marketplace.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1523.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1523; Pub. L. 117–146, §2, June 16, 2022, 136 Stat. 1272.)
 
 Historical and Revision Notes
 
@@ -27,6 +27,16 @@ Historical and Revision Notes
 46 App.:1701.
 
 Pub. L. 98–237, §2, Mar. 20, 1984, 98 Stat. 67; Pub. L. 105–258, title I, §101, Oct. 14, 1998, 112 Stat. 1902.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Par. (2). Pub. L. 117–146, §2(1), added par. (2) and struck out former par. (2) which read as follows: "provide an efficient and economic transportation system in the ocean commerce of the United States that is, insofar as possible, in harmony with, and responsive to, international shipping practices;".
+
+Par. (3). Pub. L. 117–146, §2(2), inserted "and supporting commerce" after "needs".
+
+Par. (4). Pub. L. 117–146, §2(3), added par. (4) and struck out former par. (4) which read as follows: "promote the growth and development of United States exports through competitive and efficient ocean transportation and by placing a greater reliance on the marketplace."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

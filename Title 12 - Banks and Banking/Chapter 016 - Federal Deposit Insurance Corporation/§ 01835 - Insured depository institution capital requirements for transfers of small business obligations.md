@@ -2,7 +2,7 @@
 
 #### (a) Accounting principles
 
-The accounting principles applicable to the transfer of a small business loan or a lease of personal property with recourse contained in reports or statements required to be filed with Federal banking agencies by a qualified insured depository institution shall be consistent with generally accepted accounting principles.
+The accounting principles applicable to the transfer of a small business loan or a lease of personal property with recourse contained in reports or statements required to be filed with Federal banking agencies by a qualified insureddepository institution shall be consistent with generally accepted accounting principles.
 
 #### (b) Capital and reserve requirements
 

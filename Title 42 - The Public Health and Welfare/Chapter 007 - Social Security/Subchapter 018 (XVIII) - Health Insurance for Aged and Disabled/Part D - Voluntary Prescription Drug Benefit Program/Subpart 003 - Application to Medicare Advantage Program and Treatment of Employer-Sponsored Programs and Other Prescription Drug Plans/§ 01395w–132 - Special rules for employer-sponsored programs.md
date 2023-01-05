@@ -12,7 +12,11 @@
 
 #### (A) Attestation of actuarial equivalence to standard coverage
 
-&emsp;&emsp;The sponsor of the plan provides the Secretary, annually or at such other time as the Secretary may require, with an attestation that the actuarial value of prescription drug coverage under the plan (as determined using the processes and methods described in section 1395w–111(c) of this title) is at least equal to the actuarial value of standard prescription drug coverage, not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title.
+&emsp;&emsp;The sponsor of the plan provides the Secretary, annually or at such other time as the Secretary may require, with an attestation that the actuarial value of prescription drug coverage under the plan (as determined using the processes and methods described in section 1395w–111(c) of this title) is at least equal to the actuarial value of standard prescription drug coverage, not taking into account the value of—
+
+&emsp;&emsp;&emsp;(i) for years prior to 2025, any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title; and
+
+&emsp;&emsp;&emsp;(ii) for 2025 and each subsequent year, any discount provided pursuant to section 1395w–114c of this title.
 
 #### (B) Audits
 
@@ -84,7 +88,11 @@
 
 #### (b) Application of MA waiver authority
 
-The provisions of section 1395w–27(i) of this title shall apply with respect to prescription drug plans in relation to employment-based retiree health coverage in a manner similar to the manner in which they apply to an MA plan in relation to employers, including authorizing the establishment of separate premium amounts for enrollees in a prescription drug plan by reason of such coverage and limitations on enrollment to part D eligible individuals enrolled under such coverage.
+The provisions of section 1395w–27(i) of this title shall apply with respect to prescription drug plans in relation to employment-based retiree health coverage in a manner similar to the manner in which they apply to an MA plan in relation to employers, including authorizing the establishment of separate premium amounts for enrollees in a prescription drug plan by reason of such coverage and limitations on enrollment to part D eligible individuals enrolled under such coverage, and shall be applied in a manner to facilitate the offering of prescription drug benefits under a Program plan under section 8903c of title 5, as required under subsection (h)(2) of such section, through employment-based retiree health coverage through—
+
+&emsp;(1) a prescription drug plan; or
+
+&emsp;(2) contracts between such a Program plan and the PDP sponsor of such a prescription drug plan..<sup>1</sup>
 
 #### (c) Definitions
 
@@ -112,9 +120,9 @@ For purposes of this section:
 
 #### (C) Church plans
 
-&emsp;&emsp;Such a plan established and maintained for its employees (or their beneficiaries) by a church or by a convention or association of churches which is exempt from tax under section 501 of the Internal Revenue Code of 1986.
+&emsp;&emsp;Such a plan established and maintained for its employees (or their beneficiaries) bya church or by a convention or association of churches which is exempt from tax under section 501 of the Internal Revenue Code of 1986.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–22, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2125; amended Pub. L. 111–152, title I, §1101(b)(4), Mar. 30, 2010, 124 Stat. 1039.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–22, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2125; amended Pub. L. 111–152, title I, §1101(b)(4), Mar. 30, 2010, 124 Stat. 1039; Pub. L. 117–108, title I, §101(b)(4), Apr. 6, 2022, 136 Stat. 1137; Pub. L. 117–169, title I, §11201(e)(5), Aug. 16, 2022, 136 Stat. 1891.)
 
 #### <b>Editorial Notes</b>
 
@@ -124,7 +132,11 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(3)(C), is classifi
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–152 inserted before period at end ", not taking into account the value ofany discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title".
+<b>2022</b>—Subsec. (a)(2)(A). Pub. L. 117–169 inserted dash after "the value of" and "(i) for years prior to 2025," before "any discount" and added cl. (ii).
+
+Subsec. (b). Pub. L. 117–108 inserted before period at end ", and shall be applied in a manner to facilitate the offering of prescription drug benefits under a Program plan under section 8903c of title 5, as required under subsection (h)(2) of such section, through employment-based retiree health coverage through—" and pars. (1) and (2).
+
+<b>2010</b>—Subsec. (a)(2)(A). Pub. L. 111–152 inserted before period at end ", not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under section 1395w–102(b)(3) of this title during the year and the out-of-pocket threshold specified in section 1395w–102(b)(4)(B) of this title".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -179,4 +191,6 @@ Reports.—The Comptroller General shall submit a report to Congress on—
 "(e)
 
 Consultation.—The Comptroller General shall consult with sponsors of employment-based retiree health coverage, benefits experts, human resources professionals, employee benefits consultants, and academics with experience in health benefits and survey research in the development and design of the initial and final studies under this section."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

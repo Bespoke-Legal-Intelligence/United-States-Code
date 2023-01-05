@@ -126,7 +126,7 @@ Subject to valid existing rights, the following activities shall be prohibited o
 
 #### (B) Inclusion in Management Unit
 
-&emsp;On the date of acquisition, any land acquired under subparagraph (A) shall be incorporated in, and be managed as part of, the Management Unit.
+&emsp;On the date of acquisition, any land acquired under subparagraph (A) shall be incorporatedin, and be managed as part of, the Management Unit.
 
 (Pub. L. 111–11, title I, §1205(a), Mar. 30, 2009, 123 Stat. 1014.)
 

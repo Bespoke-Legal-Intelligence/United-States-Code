@@ -74,7 +74,7 @@ Exception.—This section does not apply to fuels used in aircraft, vessels, or 
 
 (g)
 
-Report.—If by the end of fiscal year 2029, the Secretary determines that the Departmentwill be unable to meet the requirements under subsection (a), not later than 90 days after the end of such fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report detailing—
+Report.—If by the end of fiscal year 2029, the Secretary determines that the Department will be unable to meet the requirements under subsection (a), not later than 90 days after the end of such fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report detailing—
 
 &emsp;(1) the projected shortfall;
 

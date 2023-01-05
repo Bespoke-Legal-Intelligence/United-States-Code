@@ -28,7 +28,7 @@ The Secretary concerned may make a decision to approve a project submitted by a 
 
 #### (A) In general
 
-&emsp;&emsp;If a resource advisory committee does not agree to the expenditure of funds under paragraph (1), the project shall be deemed withdrawn from further consideration by the Secretary concerned pursuant to this subchapter.
+&emsp;&emsp;If a resource advisory committee does not agree to the expenditure of funds underparagraph (1), the project shall be deemed withdrawn from further consideration by the Secretary concerned pursuant to this subchapter.
 
 #### (B) Effect of withdrawal
 

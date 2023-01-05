@@ -12,7 +12,7 @@
 
 &emsp;(5) properly designed, constructed, and located artificial reefs in waters covered under this chapter can enhance the habitat and diversity of fishery resources; enhance United States recreational and commercial fishing opportunities; increase the production of fishery products in the United States; increase the energy efficiency of recreational and commercial fisheries; and contribute to the United States and coastal economies.
 
-(b) The purpose of this chapter is to promote and facilitate responsible and effective efforts toestablish artificial reefs in waters covered under this chapter.
+(b) The purpose of this chapter is to promote and facilitate responsible and effective efforts to establish artificial reefs in waters covered under this chapter.
 
 (Pub. L. 98–623, title II, §202, Nov. 8, 1984, 98 Stat. 3394.)
 

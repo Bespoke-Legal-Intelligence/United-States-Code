@@ -14,7 +14,7 @@ The Secretary may conduct such site specific activities at each site surveyed un
 
 #### (d) Environmental assessment
 
-Site specific activities and selection of a site under this section shall not require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)). The Secretary shall prepare an environmentalassessment with respect to such selection in accordance with regulations issued by the Secretary implementing such Act \[42 U.S.C. 4321 et seq.\]. Such environmental assessment shall be based upon available information regarding alternative technologies for the storage of spent nuclear fuel and high-level radioactive waste. The Secretary shall submit such environmental assessment to the Congress at the time such site is selected.
+Site specific activities and selection of a site under this section shall not require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)). The Secretary shall prepare an environmental assessment with respect to such selection in accordance with regulations issued by the Secretary implementing such Act \[42 U.S.C. 4321 et seq.\]. Such environmental assessment shall be based upon available information regarding alternative technologies for the storage of spent nuclear fuel and high-level radioactive waste. The Secretary shall submit such environmental assessment to the Congress at the time such site is selected.
 
 #### (e) Notification before selection
 
@@ -36,7 +36,7 @@ No monitored retrievable storage facility authorized pursuant to section 10162(b
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### Codification
 

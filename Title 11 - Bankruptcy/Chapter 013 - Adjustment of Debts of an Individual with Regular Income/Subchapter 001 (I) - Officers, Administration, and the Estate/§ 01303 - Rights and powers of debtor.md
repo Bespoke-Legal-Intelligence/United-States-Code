@@ -12,5 +12,5 @@ Section 1303 of the House amendment specifies rights and powers that the debtor 
 
 #### senate report no. 95–989
 
-A chapter 13 debtor is vested with the identical rights and powers, and is subject to the same limitations in regard to their exercise, as those given a liquidation trustee by virtue of section 363(b), (d), (e), (f), and (h) of title 11, relating to the sale, use or lease of property.
+A chapter 13 debtor is vested with the identical rights and powers, and is subject to the same limitations inregard to their exercise, as those given a liquidation trustee by virtue of section 363(b), (d), (e), (f), and (h) of title 11, relating to the sale, use or lease of property.
 

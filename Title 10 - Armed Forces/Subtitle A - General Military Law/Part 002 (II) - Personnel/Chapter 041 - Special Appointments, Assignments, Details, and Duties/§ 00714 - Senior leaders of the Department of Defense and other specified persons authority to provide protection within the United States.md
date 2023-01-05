@@ -18,7 +18,7 @@ Protection for Department Leadership.—The Secretary of Defense, under regulati
 
 &emsp;(7) Commanders of combatant commands.
 
-(b)
+(b) <sup>1</sup>
 
 Protection for Additional Personnel.—
 
@@ -82,7 +82,7 @@ Form of report.—A report submitted under subparagraph (A) may be made in class
 
 &emsp;&emsp;(C)
 
-Regulations and guidelines.—The Secretary of Defense shall submit to the congressional defense committees the regulations and guidelines prescribed pursuant to paragraph (1) not less than 20 days before the date on which such regulations take effect.
+Regulations and guidelines.—The Secretary of Defense shall submit to the congressional defense committees the regulations and guidelines prescribed pursuantto paragraph (1) not less than 20 days before the date on which such regulations take effect.
 
 &emsp;&emsp;(D)
 
@@ -161,4 +161,22 @@ Qualified members of the armed forces and qualified civilian employees of the de
 Subsec. (d)(1). Pub. L. 114–328, §952(c)(4)(A), substituted "armed forces" for "Armed Forces".
 
 Subsec. (d)(2). Pub. L. 114–328, §952(c)(4)(C), struck out ", United States Code" after "title 18".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Temporary Extension of Authority To Provide Security for Former Department of Defense Officials
+
+Pub. L. 117–263, div. A, title XI, §1105, Dec. 23, 2022, 136 Stat. 2817, provided that: "During the period beginning on the date of enactment of this Act \[Dec. 23, 2022\] and ending on January 1, 2024, subsection (b) of section 714 of title 10, United States Code, shall be applied—
+
+&emsp;"(1) in paragraph (1)(A), by substituting 'a serious and credible threat' for 'an imminent and credible threat';
+
+&emsp;"(2) in paragraph (2)(B), by substituting 'three years' for 'two years'; and
+
+&emsp;"(3) in paragraph (6)(A), by substituting—
+
+&emsp;&emsp;"(A) 'congressional leadership and the congressional defense committees' for 'the congressional defense committees'; and
+
+&emsp;&emsp;"(B) by substituting 'the justification for such determination, scope of the protection, and the anticipated cost and duration of such protection' for 'the justification for such determination'."
+
+<i><sup>1</sup></i><i> See Temporary Extension of Authority To Provide Security for Former Department of Defense Officials note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Clear accounting for costs
 
-A health insurance issuer offering group or individual health insurance coverage (including a grandfathered health plan) shall, with respect to each plan year, submit to the Secretary a report concerning the ratio of the incurred loss (or incurred claims) plus the loss adjustment expense (or change in contract reserves) to earned premiums. Such report shall include the percentage of total premium revenue, after accounting forcollections or receipts for risk adjustment and risk corridors and payments of reinsurance, that such coverage expends—
+A health insurance issuer offering group or individual health insurance coverage (including a grandfathered health plan) shall, with respect to each plan year, submit to the Secretary a report concerning the ratio of the incurred loss (or incurred claims) plus the loss adjustment expense (or change in contract reserves) to earned premiums. Such report shall include the percentage of total premium revenue, after accounting for collections or receipts for risk adjustment and risk corridors and payments of reinsurance, that such coverage expends—
 
 &emsp;(1) on reimbursement for clinical services provided to enrollees under such coverage;
 
@@ -32,7 +32,7 @@ A health insurance issuer offering group or individual health insurance coverage
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount by which the percentage described in clause (i) or (ii) of subparagraph (A) exceeds the ratio described in such subparagraph; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the total amount of premium revenue (excluding Federal and State taxes and licensing or regulatory fees and after accounting for payments or receipts for risk adjustment, risk corridors, and reinsurance under sections 18061, 18062, and 18063 of this title) for such plan year.
+&emsp;&emsp;&emsp;&emsp;(II) the total amount of premium revenue (excluding Federal and State taxes and licensing or regulatory fees and after accounting for payments or receipts for risk adjustment, risk corridors, and reinsurance under sections18061, 18062, and 18063 of this title) for such plan year.
 
 #### (ii) Calculation based on average ratio
 
@@ -70,5 +70,5 @@ Each hospital operating within the United States shall for each year establish (
 
 #### Effective Date
 
-Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section1004 of Pub. L. 111–148, set out as a note under section 300gg–11 of this title.
+Section effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, see section 1004 of Pub. L. 111–148, set out as a note under section 300gg–11 of this title.
 

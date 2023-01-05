@@ -2,7 +2,7 @@
 
 #### (a) Grants and contracts
 
-From grant funds made available under section 3302(a)(1) of this title, each eligible agency shall award multiyear grants or contracts, on a competitive basis, to eligible providers within the State or outlying area to enable the eligible providers to develop, implement, and improve adult education and literacy activities within the State.
+From grant funds made available under section 3302(a)(1) of this title, each eligible agency shall award multiyear grants or contracts, on a competitive basis, to eligible providers withinthe State or outlying area to enable the eligible providers to develop, implement, and improve adult education and literacy activities within the State.
 
 #### (b) Required local activities
 
@@ -60,7 +60,7 @@ In awarding grants or contracts under this section, the eligible agency shall co
 
 &emsp;(12) whether the eligible provider maintains a high-quality information management system that has the capacity to report measurable participant outcomes (consistent with section 3141 of this title) and to monitor program performance; and
 
-&emsp;(13) whether the local areas in which the eligible provider is located have a demonstrated need for additional English language acquisition programs and civics education programs.
+&emsp;(13) whether the local areas in which the eligible provider is located have a demonstratedneed for additional English language acquisition programs and civics education programs.
 
 (Pub. L. 113–128, title II, §231, July 22, 2014, 128 Stat. 1618.)
 

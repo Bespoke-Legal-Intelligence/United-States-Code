@@ -28,7 +28,7 @@ Certification.—If, after the debt limit is increased by $900,000,000,000 under
 
 &emsp;&emsp;&emsp;(ii) $1,500,000,000,000 if the Archivist of the United States has submitted to the States for their ratification a proposed amendment to the Constitution of the United States pursuant to a joint resolution entitled "Joint resolution proposing a balanced budget amendment to the Constitution of the United States"; or
 
-&emsp;&emsp;&emsp;(iii) if a joint committee bill to achieve an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted, an amount equal to the amount of that deficit reduction, but notgreater than $1,500,000,000,000, unless clause (ii) applies.
+&emsp;&emsp;&emsp;(iii) if a joint committee bill to achieve an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted, an amount equal to the amount of that deficit reduction, but not greater than $1,500,000,000,000, unless clause (ii) applies.
 
 &emsp;&emsp;(B)
 
@@ -94,7 +94,7 @@ Floor consideration.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time during the period beginning on the day after the date on which Congress receives a certification under subsection (a) and, for the certification described in subsection (a)(1), ending on September 14, 2011, and for the certification described in subsection (a)(2), on the 6th day after the date on which Congress receives a certification under subsection (a) (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be inorder. If a motion to proceed to the consideration of the resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
+In general.—Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time during the period beginning on the day after the date on which Congress receives a certification under subsection (a) and, for the certification described in subsection (a)(1), ending on September 14, 2011, and for the certification described in subsection (a)(2), on the 6th day after the date on which Congress receives a certification under subsection (a) (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
 
 &emsp;&emsp;(B)
 

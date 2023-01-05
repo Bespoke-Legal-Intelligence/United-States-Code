@@ -10,7 +10,7 @@ Authority of the secretary of defense.—
 
 &emsp;&emsp;(A)
 
-Requirements prior to transfer.—Subject to section 17703 of this title and with the advice, assistance, and, in the case of an agency not under the jurisdiction of the Secretary of Defense, the consent of the agency concerned, and after approval of the President, the Secretary of Defense shall transferfor adequate consideration any or all long-lines communication facilities in or to Alaska under the jurisdiction of the Federal Government to any person qualifying under section 17703.
+Requirements prior to transfer.—Subject to section 17703 of this title and with the advice, assistance, and, in the case of an agency not under the jurisdiction of the Secretary of Defense, the consent of the agency concerned, and after approval of the President, the Secretary of Defense shall transfer for adequate consideration any or all long-lines communication facilities in or to Alaska under the jurisdiction of the Federal Government to any person qualifying under section 17703.
 
 &emsp;&emsp;(B)
 
@@ -40,7 +40,7 @@ Solicitation of Offers To Purchase Certain Facilities.—In connection with soli
 
 &emsp;&emsp;(C) the initial rates that will be charged to the purchaser for capacity in facilities retained by the Government and available for commercial use;
 
-&emsp;(2) provide in the request for offers to purchase that offerors must specify the rates the offerors propose to charge for service and the improvements in service the offerors propose to initiate;
+&emsp;(2) provide in the request for offers to purchase that offerors must specify the rates theofferors propose to charge for service and the improvements in service the offerors propose to initiate;
 
 &emsp;(3) provide an opportunity for prospective purchasers to meet as a group with Department of Defense representatives to ensure that the data and public interest requirements described in clauses (1) and (2) are fully understood; and
 

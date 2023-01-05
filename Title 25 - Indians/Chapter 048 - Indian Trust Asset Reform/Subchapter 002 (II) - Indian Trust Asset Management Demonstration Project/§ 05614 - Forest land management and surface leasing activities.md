@@ -32,7 +32,7 @@ The Secretary may approve an Indian trust asset management plan that includes a 
 
 &emsp;&emsp;&emsp;(i) have been approved by the Secretary pursuant to subsection (h)(4) of section 415 of this title; or
 
-&emsp;&emsp;&emsp;(ii) have not yet been approved by the Secretary in accordance with clause (i), but that the Secretary determines at or prior to the time of approval under this paragraph meet the requirements of subsection (h)(3) of section 415 of this title; or
+&emsp;&emsp;&emsp;(ii) have not yet been approved by the Secretary in accordance with clause (i),but that the Secretary determines at or prior to the time of approval under this paragraph meet the requirements of subsection (h)(3) of section 415 of this title; or
 
 &emsp;&emsp;(B) with respect to forest land management activities, the Secretary determines—
 
@@ -106,7 +106,7 @@ If an Indian tribe executes a surface leasing transaction or forest land managem
 
 #### (3) Documentation
 
-&emsp;If the Secretary determines under paragraph (1) that a violation of tribal regulations has occurred and a remedy is necessary, the Secretary shall—
+&emsp;If the Secretary determines under paragraph (1) that a violation of tribal regulations hasoccurred and a remedy is necessary, the Secretary shall—
 
 &emsp;&emsp;(A) make a written determination with respect to the regulations that have been violated;
 

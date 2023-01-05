@@ -102,7 +102,7 @@ Subsec. (d)(1). Pub. L. 100–180 inserted par. (1) designation.
 
 Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 
@@ -114,7 +114,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Prohibition on Operation or Procurement of Foreign-Made Unmanned Aircraft Systems
 
-Pub. L. 116–92, div. A, title VIII, §848, Dec. 20, 2019, 133 Stat. 1508, provided that:
+Pub. L. 116–92, div. A, title VIII, §848, Dec. 20, 2019, 133 Stat. 1508; Pub. L. 117–263, div. A, title VIII, §817(a), Dec. 23, 2022, 136 Stat. 2707, provided that:
 
 "(a)
 
@@ -134,27 +134,59 @@ Prohibition on Agency Operation or Procurement.—The Secretary of Defense may n
 
 "(b)
 
-Exemption.—The Secretary of Defense is exempt from the restriction under subsection (a) if the operation or procurement is for the purposes of—
+Prohibition on Certain Contracts.—The Secretary of Defense may not enter into a contract (or extend or renew a contract) on or after October 1, 2024, with an entity that operates (as determined by the Secretary or the Secretary's designee) equipment from a covered unmanned aircraft system company in the performance of a Department of Defense contract.
+
+"(c)
+
+Exemption.—The Secretary of Defense is exempt from any restrictions under subsection (a) or (b) if the operation, procurement, or contracting action is for the purposes of—
 
 &emsp;"(1) Counter-UAS surrogate testing and training; or
 
 &emsp;"(2) intelligence, electronic warfare, and information warfare operations, testing, analysis, and training.
 
-"(c)
-
-Waiver.—The Secretary of Defense may waive the restriction under subsection (a) on a case by case basis by certifying in writing to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that the operation or procurement is required in the national interest of the United States.
-
 "(d)
+
+Waiver.—The Secretary of Defense (or the Secretary's designee) may waive any restrictions under subsections (a) or (b) by certifying in writing to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that the operation, procurement, or contracting action is required in the national interest of the United States.
+
+"(e)
 
 Definitions.—In this section:
 
 &emsp;"(1)
 
-Covered foreign country.—The term 'covered foreign country' means the People's Republic of China.
+Covered foreign country.—The term 'covered foreign country' means any of the following:
+
+&emsp;&emsp;"(A) the People's Republic of China.
+
+&emsp;&emsp;"(B) The Russian Federation.
+
+&emsp;&emsp;"(C) The Islamic Republic of Iran.
+
+&emsp;&emsp;"(D) The Democratic People's Republic of Korea.
 
 &emsp;"(2)
 
-Covered unmanned aircraft system.—The term 'covered unmanned aircraft system' means an unmanned aircraft system and any related services and equipment."
+Covered unmanned aircraft system.—The term 'covered unmanned aircraft system' means an unmanned aircraft system and any related services and equipment.
+
+&emsp;"(3)
+
+Covered unmanned aircraft system company.—The term 'covered unmanned aircraft system company' means any of the following:
+
+&emsp;&emsp;"(A) Da-Jiang Innovations (or any subsidiary or affiliate of Da-Jiang Innovations).
+
+&emsp;&emsp;"(B) Any entity that produces or provides unmanned aircraft systems and is included on Consolidated Screening List maintained by the International Trade Administration of the Department of Commerce.
+
+&emsp;&emsp;"(C) Any entity that produces or provides unmanned aircraft systems and—
+
+&emsp;&emsp;&emsp;"(i) is domiciled in a covered foreign country; or
+
+&emsp;&emsp;&emsp;"(ii) is subject to unmitigated foreign ownership, control or influence by a covered foreign country, as determined by the Secretary of Defense unmitigated foreign ownership, control or influence in accordance with the National Industrial Security Program (or any successor to such program)."
+
+\[Pub. L. 117–263, div. A, title VIII, §817(b), Dec. 23, 2022, 136 Stat. 2708, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall issue policy to—
+
+&emsp;\["(1) implement the requirements of section 848 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 4871 note), as amended by this section, including by establishing a due diligence process for the Department of Defense to make determinations required by subsection (b) of such section 848 (as amended by this section); and
+
+&emsp;\["(2) establish an appeal process for any offerors or awardees with which the Secretary has not entered into a contract or has not extended or renewed a contract pursuant to subsection (b) of such section 848 (as amended by this section)."\]
 
 #### Elimination of Unreliable Sources of Defense Items and Components
 

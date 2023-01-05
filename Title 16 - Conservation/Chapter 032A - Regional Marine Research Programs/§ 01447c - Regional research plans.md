@@ -32,7 +32,7 @@ Such marine research plan shall include—
 
 #### (2) Time for approval or disapproval
 
-&emsp;The Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency, shall jointly approve or disapprove such research plan within 120 days after receiving the plan.
+&emsp;The Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Environmental Protection Agency, shall jointly approve or disapprovesuch research plan within 120 days after receiving the plan.
 
 #### (3) Action after disapproval
 
@@ -44,7 +44,7 @@ Such marine research plan shall include—
 
 #### References in Text
 
-The National Ocean Pollution Planning Act of 1978, referred to in subsec. (a)(2), is Pub. L. 95–273, May 8, 1978, 92 Stat. 228, as amended, which was classified generally to chapter 31 (§1701 et seq.) of Title 33, Navigation and Navigable Waters, and was repealed by Pub. L. 102–567, title II, §204, Oct. 29, 1992, 106 Stat. 4282.
+The National Ocean Pollution Planning Act of 1978, referred to in subsec. (a)(2), is Pub. L. 95–273, May 8, 1978, 92 Stat. 228, which was classified generally to chapter 31 (§1701 et seq.) of Title 33, Navigation and Navigable Waters, and was repealed by Pub. L. 102–567, title II, §204, Oct. 29, 1992, 106 Stat. 4282.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

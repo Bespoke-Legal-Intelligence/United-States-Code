@@ -6,7 +6,7 @@ It shall be unlawful for a person on board a commercial or recreational vessel t
 
 #### (b) Savings clause
 
-No provision of this section shall be interpreted to affect any program or activity carried out by the Gulf Coast Ecosystem Restoration Council established by the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012 (33 U.S.C. 1321 note), or any project contained in an approved Restoration Plan developed by any Natural Resources Damage Assessment Trustee Implementation Group to reduce post-release mortality from barotrauma in Gulf of Mexico Reef Fish Recreational Fisheries.
+No provision of this section shall be interpreted to affect any program or activity carriedout by the Gulf Coast Ecosystem Restoration Council established by the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012 (33 U.S.C. 1321 note), or any project contained in an approved Restoration Plan developed by any Natural Resources Damage Assessment Trustee Implementation Group to reduce post-release mortality from barotrauma in Gulf of Mexico Reef Fish Recreational Fisheries.
 
 #### (c) Definitions
 
@@ -38,9 +38,9 @@ In this section:
 
 (Pub. L. 94–265, title III, §321, as added Pub. L. 116–340, §3(a), Jan. 13, 2021, 134 Stat. 5128.)
 
-#### Delayed Effective Date and Termination of Section
+#### Termination of Section
 
-<i>For delayed effective date of section and for termination of section five years after Jan. 13, 2021, see Effective and Termination Dates notes below.</i>
+<i>For termination of section five years after Jan. 13, 2021, see Effective and Termination Dates note below.</i>
 
 #### <b>Editorial Notes</b>
 

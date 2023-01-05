@@ -8,9 +8,15 @@
 | [304\.](%C2%A7%2000304%20-%20Recognition%20and%20enforcement%20of%20foreign%20arbitral%20decisions%20and%20awards%3B%20reciprocity.md) | Recognition and enforcement of foreign arbitral decisions and awards; reciprocity. |
 | [305\.](%C2%A7%2000305%20-%20Relationship%20between%20the%20Inter-American%20Convention%20and%20the%20Convention%20on%20the%20Recognition%20and%20Enforcement%20of%20Foreign%20Arbitral%20Awards%20of%E2%80%A6.md) | Relationship between the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of June 10, 1958. |
 | [306\.](%C2%A7%2000306%20-%20Applicable%20rules%20of%20Inter-American%20Commercial%20Arbitration%20Commission.md) | Applicable rules of Inter-American Commercial Arbitration Commission. |
-| [307\.](%C2%A7%2000307%20-%20Chapter%201%3B%20residual%20application.md) | Chapter 1; residual application. |
+| [307\.](%C2%A7%2000307%20-%20Application.md) | Application. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Pub. L. 117–90, §2(b)(2)(B), Mar. 3, 2022, 136 Stat. 27, substituted "Application" for "Chapter 1; residual application" in item 307.
 
 
 ---
@@ -23,4 +29,4 @@
 - [&sect; 00304 - Recognition and enforcement of foreign arbitral decisions and awards; reciprocity](%C2%A7%2000304%20-%20Recognition%20and%20enforcement%20of%20foreign%20arbitral%20decisions%20and%20awards%3B%20reciprocity.md)
 - [&sect; 00305 - Relationship between the Inter-American Convention and the Convention on the Recognition and Enforcement of Foreign Arbitral Awards of&#8230;](%C2%A7%2000305%20-%20Relationship%20between%20the%20Inter-American%20Convention%20and%20the%20Convention%20on%20the%20Recognition%20and%20Enforcement%20of%20Foreign%20Arbitral%20Awards%20of%E2%80%A6.md)
 - [&sect; 00306 - Applicable rules of Inter-American Commercial Arbitration Commission](%C2%A7%2000306%20-%20Applicable%20rules%20of%20Inter-American%20Commercial%20Arbitration%20Commission.md)
-- [&sect; 00307 - Chapter 1; residual application](%C2%A7%2000307%20-%20Chapter%201%3B%20residual%20application.md)
+- [&sect; 00307 - Application](%C2%A7%2000307%20-%20Application.md)

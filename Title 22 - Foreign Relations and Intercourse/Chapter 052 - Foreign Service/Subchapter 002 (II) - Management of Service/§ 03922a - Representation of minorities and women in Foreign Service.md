@@ -52,7 +52,7 @@ Findings.—The Congress finds that the Department of State and other Foreign Se
 
 &emsp;"(1) to recruit and retain members of minority groups in order to increase significantly the number of members of minority groups in the Foreign Service; and
 
-&emsp;"(2) to provide adequate career advancement for women and members of minority groups in order to increase significantly the numbers of women and members of minority groups in the senior levels of the Foreign Service.
+&emsp;"(2) to provide adequate career advancement for women and members of minority groups in order to increase significantly the numbers of women andmembers of minority groups in the senior levels of the Foreign Service.
 
 "(b)
 

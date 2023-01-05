@@ -10,7 +10,7 @@ When used in this chapter—
 
 &emsp;(4) The term "livestock" means cattle, sheep, swine, horses, mules, or goats—whether live or dead;
 
-&emsp;(5) The term "livestock products" means all products and byproducts (other than meatsand meat food products) of the slaughtering and meat-packing industry derived in whole or in part from livestock;
+&emsp;(5) The term "livestock products" means all products and byproducts (other than meats and meat food products) of the slaughtering and meat-packing industry derived in whole or in part from livestock;
 
 &emsp;(6) The term "poultry" means chickens, turkeys, ducks, geese, and other domestic fowl;
 

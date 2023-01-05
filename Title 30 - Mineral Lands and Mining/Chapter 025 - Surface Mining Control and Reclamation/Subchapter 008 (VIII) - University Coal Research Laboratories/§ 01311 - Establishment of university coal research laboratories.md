@@ -40,7 +40,7 @@ The Secretary of Energy shall designate the ten institutions of higher education
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–617, §604(a), substituted "The Secretary of Energy" for "The Administrator, Energy Research and Development Administration (hereafter referred to as 'Administrator' in this subchapter)" and "shall designate thirteen institutions" for "is authorized and directed to designate ten institutions" and inserted provision that ten such designations be made as provided in subsection (e) of this section and the remaining three be made in fiscal year 1980.
 
-Subsec. (b). Pub. L. 95–617, §604(a), (c), substituted in provisions preceding par. (1) "Secretary of Energy" for "Administrator" and in par. (1) "Those ten institutions of higher education designated as provided in subsection (e)" for "The institution of higher education".
+Subsec. (b). Pub. L. 95–617, §604(a), (c), substituted in provisions preceding par. (1) "Secretary of Energy" for"Administrator" and in par. (1) "Those ten institutions of higher education designated as provided in subsection (e)" for "The institution of higher education".
 
 Subsecs. (d), (e). Pub. L. 95–617, §604(c), substituted "Secretary of Energy" for "Administrator" wherever appearing.
 

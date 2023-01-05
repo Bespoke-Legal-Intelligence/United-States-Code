@@ -6,7 +6,7 @@ It shall be an unlawful employment practice for an employer—
 
 &emsp;(1) to fail or refuse to hire or to discharge any individual, or otherwise to discriminate against any individual with respect to his compensation, terms, conditions, or privileges of employment, because of such individual's race, color, religion, sex, or national origin; or
 
-&emsp;(2) to limit, segregate, or classify his employees or applicants for employment in any way which would deprive or tend to deprive any individual of employment opportunities or otherwise adversely affect his status as an employee, because of such individual's race, color, religion, sex, or national origin.
+&emsp;(2) to limit, segregate, or classify his employees or applicants for employment in anyway which would deprive or tend to deprive any individual of employment opportunities or otherwise adversely affect his status as an employee, because of such individual's race, color, religion, sex, or national origin.
 
 #### (b) Employment agency practices
 
@@ -24,7 +24,7 @@ It shall be an unlawful employment practice for a labor organization—
 
 #### (d) Training programs
 
-It shall be an unlawful employment practice for any employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs to discriminate against any individual because of his race, color, religion, sex, or national origin in admission to, or employment in, any programestablished to provide apprenticeship or other training.
+It shall be an unlawful employment practice for any employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs to discriminate against any individual because of his race, color, religion, sex, or national origin in admission to, or employment in, any program established to provide apprenticeship or other training.
 
 #### (e) Businesses or enterprises with personnel qualified on basis of religion, sex, or national origin; educational institutions with personnel of particular religion
 
@@ -44,7 +44,7 @@ Notwithstanding any other provision of this subchapter, it shall not be an unlaw
 
 #### (h) Seniority or merit system; quantity or quality of production; ability tests; compensation based on sex and authorized by minimum wage provisions
 
-Notwithstanding any other provision of this subchapter, it shall not be an unlawful employment practice for an employer to apply different standards of compensation, or different terms, conditions, or privileges of employment pursuant to a bona fide seniority or merit system, or a system which measures earnings by quantity or quality of production or to employees who work in different locations, provided that such differences are not the result of an intention to discriminate because of race, color, religion, sex, or national origin, nor shall it be an unlawful employment practice for an employer to give and to act upon the results of any professionally developed ability test provided that such test, its administration or action upon the results is not designed, intended or used to discriminate because of race, color, religion, sex or national origin. It shall not be an unlawful employment practice under this subchapter for any employer to differentiate upon the basis of sex in determining the amount of the wages or compensation paid or to be paid to employees of such employer if such differentiation is authorized by the provisions of section 206(d) of title 29.
+Notwithstanding any other provision of this subchapter, it shall not be an unlawful employment practice for an employer to apply different standards of compensation, or different terms, conditions, or privileges of employment pursuant to a bona fide seniority or merit system, or a system which measures earnings by quantity or quality of production or to employees who work in different locations, provided that such differences are not the result of an intention to discriminate because of race, color, religion, sex, or national origin, nor shall it be an unlawful employment practice for an employer to give and to act upon the results of any professionally developed ability test provided that such test,its administration or action upon the results is not designed, intended or used to discriminate because of race, color, religion, sex or national origin. It shall not be an unlawful employment practice under this subchapter for any employer to differentiate upon the basis of sex in determining the amount of the wages or compensation paid or to be paid to employees of such employer if such differentiation is authorized by the provisions of section 206(d) of title 29.
 
 #### (i) Businesses or enterprises extending preferential treatment to Indians
 
@@ -104,7 +104,7 @@ Except as otherwise provided in this subchapter, an unlawful employment practice
 
 &emsp;(D) authorize or permit the denial to any person of the due process of law required by the Constitution.
 
-(3) Any action not precluded under this subsection that challenges an employment consentjudgment or order described in paragraph (1) shall be brought in the court, and if possible before the judge, that entered such judgment or order. Nothing in this subsection shall preclude a transfer of such action pursuant to section 1404 of title 28.
+(3) Any action not precluded under this subsection that challenges an employment consent judgment or order described in paragraph (1) shall be brought in the court, and if possible before the judge, that entered such judgment or order. Nothing in this subsection shall preclude a transfer of such action pursuant to section 1404 of title 28.
 
 (Pub. L. 88–352, title VII, §703, July 2, 1964, 78 Stat. 255; Pub. L. 92–261, §8(a), (b), Mar. 24, 1972, 86 Stat. 109; Pub. L. 102–166, title I, §§105(a), 106, 107(a), 108, Nov. 21, 1991, 105 Stat. 1074–1076.)
 

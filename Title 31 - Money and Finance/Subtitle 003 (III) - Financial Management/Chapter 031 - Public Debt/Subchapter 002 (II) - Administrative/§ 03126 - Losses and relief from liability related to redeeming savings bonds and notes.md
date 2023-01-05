@@ -24,7 +24,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, §22(i)(1st–6th sentences); added Apr. 1
 
 31:757c(i)(5th, 6th sentences).
 
-In subsection (a), the words "qualified" and "authorized or" are omitted as surplus. The words "officer oremployee of the Department of the Treasury" are substituted for "Treasury of the United States" and "Treasurer" because of the source provisions restated in section 321 of the revised title and for consistency with other titles of the United States Code. The text of 31:757c(i)(3d sentence) is omitted as surplus because of 39:410. The words "under regulations prescribed by him" are omitted as unnecessary.
+In subsection (a), the words "qualified" and "authorized or" are omitted as surplus. The words "officer or employee of the Department of the Treasury" are substituted for "Treasury of the United States" and "Treasurer" because of the source provisions restated in section 321 of the revised title and for consistency with other titles of the United States Code. The text of 31:757c(i)(3d sentence) is omitted as surplus because of 39:410. The words "under regulations prescribed by him" are omitted as unnecessary.
 
 #### <b>Editorial Notes</b>
 

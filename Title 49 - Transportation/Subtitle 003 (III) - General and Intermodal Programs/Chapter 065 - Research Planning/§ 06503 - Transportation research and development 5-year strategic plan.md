@@ -16,7 +16,7 @@ Consistency.—Each strategic plan developed under subsection (a) shall be consi
 
 (c)
 
-Contents.—Each strategic plan developed under subsection (a) shall—
+Contents.—Each strategic plandeveloped under subsection (a) shall—
 
 &emsp;(1) describe how the plan furthers the primary purposes of the transportation research and development program, which shall include—
 

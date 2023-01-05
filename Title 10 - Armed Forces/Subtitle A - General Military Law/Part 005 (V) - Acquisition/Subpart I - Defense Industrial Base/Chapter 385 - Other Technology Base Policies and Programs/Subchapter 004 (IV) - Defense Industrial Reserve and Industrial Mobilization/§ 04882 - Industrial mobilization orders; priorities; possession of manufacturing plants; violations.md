@@ -2,7 +2,7 @@
 
 (a)
 
-Ordering Authority.—In time of war or when war is imminent, the President, throughthe head of any department, may order from any person or organized manufacturing industry necessary products or materials of the type usually produced or capable of being produced by that person or industry.
+Ordering Authority.—In time of war or when war is imminent, the President, through the head of any department, may order from any person or organized manufacturing industry necessary products or materials of the type usually produced or capable of being produced by that person or industry.
 
 (b)
 

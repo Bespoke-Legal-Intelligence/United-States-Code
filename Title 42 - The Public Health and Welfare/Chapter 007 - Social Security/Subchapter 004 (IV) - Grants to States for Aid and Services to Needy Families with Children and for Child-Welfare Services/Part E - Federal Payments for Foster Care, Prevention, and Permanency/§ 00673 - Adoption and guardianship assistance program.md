@@ -86,7 +86,7 @@
 
 (5) For purposes of this part, individuals with whom a child (who has been determined by the State, pursuant to subsection (c), to be a child with special needs) is placed for adoption in accordance with applicable State and local law shall be eligible for such payments, during the period of the placement, on the same terms and subject to the same conditions as if such individuals had adopted such child.
 
-(6)(A) For purposes of paragraph (1)(B)(i), the term "nonrecurring adoption expenses" meansreasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
+(6)(A) For purposes of paragraph (1)(B)(i), the term "nonrecurring adoption expenses" means reasonable and necessary adoption fees, court costs, attorney fees, and other expenses which are directly related to the legal adoption of a child with special needs and which are not incurred in violation of State or Federal law.
 
 (B) A State's payment of nonrecurring adoption expenses under an adoption assistance agreement shall be treated as an expenditure made for the proper and efficient administration of the State plan for purposes of section 674(a)(3)(E) of this title.
 
@@ -226,7 +226,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraphs (2) and (3), in this section, the term "applicable child" means a child for whom an adoption assistance agreement is entered into under this section during any fiscal year described in subparagraph (B) if the child attained the applicable age for that fiscal year before the end of that fiscal year.
+&emsp;&emsp;Subject to paragraphs (2) and (3), in this section, the term "applicable child" means achild for whom an adoption assistance agreement is entered into under this section during any fiscal year described in subparagraph (B) if the child attained the applicable age for that fiscal year before the end of that fiscal year.
 
 #### (B) Applicable age
 
@@ -357,7 +357,7 @@ Subsec. (b). Pub. L. 99–272, §12305(a), amended subsec. (b) generally. Prior 
 
 Subsec. (b)(1)(A). Pub. L. 99–514, §1711(c)(5), substituted "subsection (a)(2)" for "subsection (a)(1)".
 
-Subsec. (c)(2). Pub. L. 99–272, §12305(b)(1), substituted "without providing adoption assistance under this section or medical assistance under subchapter XIX" for "without providing adoption assistance", and inserted "or medical assistance under subchapter XIX" after "appropriate adoptive parents without providing adoption assistance under this section".
+Subsec. (c)(2). Pub. L. 99–272, §12305(b)(1), substituted "without providing adoption assistance under this section or medical assistance under subchapter XIX" for "without providing adoption assistance", and inserted "or medical assistance under subchapter XIX" after"appropriate adoptive parents without providing adoption assistance under this section".
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–272, §102(a)(3), inserted references to voluntary placement agreements in subpars. (A)(i) and (B)(i), (ii).
 

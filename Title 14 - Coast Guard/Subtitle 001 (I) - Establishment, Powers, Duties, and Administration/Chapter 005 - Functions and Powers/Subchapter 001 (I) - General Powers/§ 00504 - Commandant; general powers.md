@@ -46,15 +46,17 @@
 
 &emsp;(20) enter into cooperative agreements with other Government agencies and the National Academy of Sciences;
 
-&emsp;(21) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49, be made available to the Commandant under section 30305(b)(7) of title 49, may receive that information, and upon receipt, shall make the information available to the individual;
+&emsp;(21) require that any member of the Coast Guard or Coast Guard Reserve (including a cadet or an applicant for appointment or enlistment to any of the foregoing and any member of a uniformed service who is assigned to the Coast Guard) request that all information contained in the National Driver Register pertaining to the individual, as described in section 30304(a) of title 49, be made available tothe Commandant under section 30305(b)(7) of title 49, may receive that information, and upon receipt, shall make the information available to the individual;
 
 &emsp;(22) provide for the honorary recognition of individuals and organizations that significantly contribute to Coast Guard programs, missions, or operations, including State and local governments and commercial and nonprofit organizations, and pay for, using any appropriations or funds available to the Coast Guard, plaques, medals, trophies, badges, and similar items to acknowledge such contribution (including reasonable expenses of ceremony and presentation);
 
 &emsp;(23) rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery;
 
-&emsp;(24) after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate; and
+&emsp;(24) after informing the Secretary, make such recommendations to the Congress relating to the Coast Guard as the Commandant considers appropriate;
 
-&emsp;(25) enter into cooperative agreements, contracts, and other agreements with Federal entities and other public or private entities, including academic entities, to develop a positioning, navigation, and timing system to provide redundant capability in the event Global Positioning System signals are disrupted, which may consist of an enhanced LORAN system.
+&emsp;(25) enter into cooperative agreements, contracts, and other agreements with Federal entities and other public or private entities, including academic entities, to develop a positioning, navigation, and timing system to provide redundant capability in the event Global Positioning System signals are disrupted, which may consist of an enhanced LORAN system; and
+
+&emsp;(26) develop data workflows and processes for the leveraging of mission-relevant data by the Coast Guard to enhance operational effectiveness and efficiency.
 
 (b)(1) Notwithstanding subsection (a)(13), a lease described in paragraph (2) of this subsection may be for a term of up to 20 years.
 
@@ -132,7 +134,7 @@ Limitation.—The Commandant may lease submerged lands and tidelands under parag
 
 &emsp;&emsp;(D) proceeds from the lease are deposited in the Coast Guard Housing Fund established under section 2946.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 504, §93; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564; Pub. L. 111–259, title IV, §442(1), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 111–281, title V, §523, Oct. 15, 2010, 124 Stat. 2958; Pub. L. 111–350, §5(c)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–213, title II, §202, Dec. 20, 2012, 126 Stat. 1543; Pub. L. 113–281, title II, §§206(a), 207, 208(a), 209, 214(c), 222(1), Dec. 18, 2014, 128 Stat. 3025, 3026, 3034, 3038; Pub. L. 114–120, title II, §209(4), title VI, §610(b), Feb. 8, 2016, 130 Stat. 40, 85; Pub. L. 115–232, div. C, title XXXV, §3533(b), Aug. 13, 2018, 132 Stat. 2321; renumbered §504 and amended Pub. L. 115–282, title I, §§105(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4200, 4240; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(3), Jan. 1, 2021, 134 Stat. 4747.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 504, §93; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec.20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298; Pub. L. 108–293, title II, §§201, 217, Aug. 9, 2004, 118 Stat. 1031, 1038; Pub. L. 109–241, title IX, §901(a), (c), July 11, 2006, 120 Stat. 564; Pub. L. 111–259, title IV, §442(1), Oct. 7, 2010, 124 Stat. 2733; Pub. L. 111–281, title V, §523, Oct. 15, 2010, 124 Stat. 2958; Pub. L. 111–350, §5(c)(2), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–213, title II, §202, Dec. 20, 2012, 126 Stat. 1543; Pub. L. 113–281, title II, §§206(a), 207, 208(a), 209, 214(c), 222(1), Dec. 18, 2014, 128 Stat. 3025, 3026, 3034, 3038; Pub. L. 114–120, title II, §209(4), title VI, §610(b), Feb. 8, 2016, 130 Stat. 40, 85; Pub. L. 115–232, div. C, title XXXV, §3533(b), Aug. 13, 2018, 132 Stat. 2321; renumbered §504 and amended Pub. L. 115–282, title I, §§105(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4200, 4240; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(3), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 117–263, div. K, title CXII, §11229, Dec. 23, 2022, 136 Stat. 4029.)
 
 #### Historical and Revision Notes
 
@@ -180,7 +182,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### References in Text
 
-Section 4(e) of the Ports and Waterways Safety Act, referred to in subsec. (b)(2)(B), is section 4(e) of Pub. L. 92–340, which was classified to section 1223(e) of Title 33, Navigation and Navigable Waters, prior to repeal by Pub. L. 115–282, title IV, §402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding section 101 of Title 46, Shipping, and section 70001 of Title 46.
+Section 4(e) of the Ports and Waterways Safety Act, referred to in subsec. (b)(2)(B), is section 4(e) of Pub. L.92–340, which was classified to section 1223(e) of Title 33, Navigation and Navigable Waters, prior to repeal by Pub. L. 115–282, title IV, §402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding section 101 of Title 46, Shipping, and section 70001 of Title 46.
 
 The date of enactment of this paragraph, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 111–281, which was approved Oct. 15, 2010.
 
@@ -191,6 +193,8 @@ A prior section 504 was renumbered section 2733 of this title.
 Another prior section 504, act Aug. 4, 1949, ch. 393, 63 Stat. 537, related to disposition of the remains of deceased Coast Guard personnel, prior to repeal by act July 15, 1954, ch. 507, §14(c)(5), 68 Stat. 481. For provisions relating to recovery, care, and disposition of the remains of deceased personnel of the uniformed services and deceased civilian personnel, see section 1481 of Title 10, Armed Forces.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(26). Pub. L. 117–263 added par. (26).
 
 <b>2021</b>—Subsec. (a)(19)(B). Pub. L. 116–283, §8505(a)(3)(A), substituted "an individual" for "a person".
 
@@ -280,7 +284,425 @@ Subsec. (p). Act Aug. 3, 1950, substituted "; and" for the period at end.
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Pilot Project for Enhancing Coast Guard Cutter Readiness Through Condition-Based Maintenance
+
+Pub. L. 117–263, div. K, title CXII, §11208, Dec. 23, 2022, 136 Stat. 4011, provided that:
+
+"(a)
+
+In General.—Not later than 3 years after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant \[of the Coast Guard\] shall conduct a pilot project to enhance cutter readiness and reduce lost patrol days through the deployment of condition-based program standards for cutter maintenance, in accordance with the criteria set forth in subsection (b).
+
+"(b)
+
+Criteria for Condition-Based Maintenance Evaluation.—In conducting the pilot project under subsection (a), the Commandant \[of the Coast Guard\], in cooperation with government and industry partners, shall—
+
+&emsp;"(1) select at least 1 class of cutters under construction with respect to which the application of the pilot project would enhance readiness;
+
+&emsp;"(2) use condition-based program standards which incorporate artificial, intelligence, prognostic based maintenance planning;
+
+&emsp;"(3) create and model a full ship digital twin for the cutters selected under paragraph (1);
+
+&emsp;"(4) install or modify instrumentation capable of producing full hull, mechanical, and electrical data necessary to analyze cutter operational conditions with active maintenance alerts; and
+
+&emsp;"(5) evaluate and weight efficacy of potential emergent repairs as well as planned depot maintenance activities.
+
+"(c)
+
+Consideration.—Prior to developing the pilot project in this section, the Commandant shall evaluate commercially available products, technology, applications, standards, and technology for development and implementation of the pilot program.
+
+"(d)
+
+Report to Congress.—The Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
+
+&emsp;"(1) an interim report not later than 12 months after the date of enactment of this Act on the progress in carrying out the pilot project described in subsection (a); and
+
+&emsp;"(2) a final report not later than 3 years after the date of enactment of this Act on the results of the pilot project described in subsection (a) that includes—
+
+&emsp;&emsp;"(A) options to integrate condition-based program standards with prognostic based maintenance planning to Coast Guard cutters; and
+
+&emsp;&emsp;"(B) plans to deploy condition-based program standards with prognostic based maintenance planning to Coast Guard cutters."
+
+#### Database on Icebreaking Operations in Great Lakes
+
+Pub. L. 117–263, div. K, title CXII, §11213, Dec. 23, 2022, 136 Stat. 4015, provided that:
+
+"(a)
+
+In General.—The Commandant shall establish and maintain a database for collecting, archiving, and disseminating data on icebreaking operations and commercial vessel and ferry transit in the Great Lakes during ice season.
+
+"(b)
+
+Elements.—The database required under subsection (a) shall include the following:
+
+&emsp;"(1) Attempts by commercial vessels and ferries to transit ice-covered waterways in the Great Lakes that are unsuccessful because of inadequate icebreaking.
+
+&emsp;"(2) The period of time that each commercial vessel or ferry was unsuccessful at transit described in paragraph (1) due to inadequate icebreaking.
+
+&emsp;"(3) The amount of time elapsed before each such commercial vessel or ferry was successfully broken out of the ice and whether it was accomplished by the Coast Guard or by commercial icebreaking assets.
+
+&emsp;"(4) Relevant communications of each such commercial vessel or ferry with the Coast Guard and with commercial icebreaking services during such period.
+
+&emsp;"(5) A description of any mitigating circumstance, such as Coast Guard icebreaker diversions to higher priority missions, that may have contributed to the amount of time described in paragraph (3).
+
+"(c)
+
+Voluntary Reporting.—Any reporting by operators of commercial vessels or ferries under this section shall be voluntary.
+
+"(d)
+
+Public Availability.—The Commandant shall make the database available to the public on a publicly accessible website of the Coast Guard.
+
+"(e)
+
+Consultation With Industry.—With respect to the Great Lakes icebreaking operations of the Coast Guard and the development of the database required under subsection (a), the Commandant shall consult operators of commercial vessels and ferries.
+
+"(f)
+
+Public Report.—Not later than July 1 after the first winter in which the Commandant is subject to the requirements of section 564 of title 14, United States Code, the Commandant shall publish on a publicly accessible website of the Coast Guard a report on the cost to the Coast Guard of meeting the requirements of such section.
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Commercial vessel.—The term 'commercial vessel' means any privately owned cargo vessel operating in the Great Lakes during the winter season of at least 500 tons, as measured under section 14502 of title 46, United States Code, or an alternate tonnage measured under section 14302 of such title, as prescribed by the Secretary under section 14104 of such title.
+
+&emsp;"(2)
+
+Great lakes.—The term 'Great Lakes' means the United States waters of Lake Superior, Lake Michigan, Lake Huron (including Lake St. Clair), Lake Erie, and Lake Ontario, their connecting waterways, and their adjacent harbors, and the connecting channels (including the following rivers and tributaries of such rivers: Saint Mary's River, Saint Clair River, Detroit River, Niagara River, Illinois River, Chicago River, Fox River, Grand River, St. Joseph River, St. Louis River, Menominee River, Muskegon River, Kalamazoo River, and Saint Lawrence River to the Canadian border).
+
+&emsp;"(3)
+
+Ice-covered waterway.—The term 'ice-covered waterway' means any portion of the Great Lakes in which commercial vessels or ferries operate that is 70 percent or greater covered by ice, but does not include any waters adjacent to piers or docks for which commercial icebreaking services are available and adequate for the ice conditions.
+
+&emsp;"(4)
+
+Open to navigation.—The term 'open to navigation' means navigable to the extent necessary to—
+
+&emsp;&emsp;"(A) extricate vessels and individuals from danger;
+
+&emsp;&emsp;"(B) prevent damage due to flooding;
+
+&emsp;&emsp;"(C) meet the reasonable demands of commerce;
+
+&emsp;&emsp;"(D) minimize delays to passenger ferries; and
+
+&emsp;&emsp;"(E) conduct other Coast Guard missions as required.
+
+&emsp;"(5)
+
+Reasonable demands of commerce.—The term 'reasonable demands of commerce' means the safe movement of commercial vessels and ferries transiting ice-covered waterways in the Great Lakes, regardless of type of cargo, at a speed consistent with the design capability of Coast Guard icebreakers operating in the Great Lakes and appropriate to the ice capability of the commercial vessel."
+
+\[For definitions of "Commandant" and "Secretary" as used in section 11213 of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under section 106 of this title.\]
+
+#### Enhancing Maritime Cybersecurity
+
+Pub. L. 117–263, div. K, title CXII, §11224, Dec. 23, 2022, 136 Stat. 4023, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Cyber incident.—The term 'cyber incident' means an occurrence that actually or imminently jeopardizes, without lawful authority, the integrity, confidentiality, or availability of information on an information system, or actually or imminently jeopardizes, without lawful authority, an information system.
+
+&emsp;"(2)
+
+Maritime operators.—The term 'maritime operators' means the owners or operators of vessels engaged in commercial service, the owners or operators of facilities, and port authorities.
+
+&emsp;"(3)
+
+Facilities.—The term 'facilities' has the meaning given the term 'facility' in section 70101 of title 46, United States Code.
+
+"(b)
+
+Public Availability of Cybersecurity Tools and Resources.—
+
+&emsp;"(1)
+
+In general.—Not later than 2 years after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant \[of the Coast Guard\], in coordination with the Administrator of the Maritime Administration, the Director of the Cybersecurity and Infrastructure Security Agency, and the Director of the National Institute of Standards and Technology, shall identify and make available to the public a list of tools and resources, including the resources of the Coast Guard and the Cybersecurity and Infrastructure Security Agency, designed to assist maritime operators in identifying, detecting, protecting against, mitigating, responding to, and recovering from cyber incidents.
+
+&emsp;"(2)
+
+Identification.—In carrying out paragraph (1), the Commandant, the Administrator of the Maritime Administration, the Director of the Cybersecurity and Infrastructure Security Agency, and the Director of the National Institute of Standards and Technology shall identify tools and resources that—
+
+&emsp;&emsp;"(A) comply with the cybersecurity framework for improving critical infrastructure established by the National Institute of Standards and Technology; or
+
+&emsp;&emsp;"(B) use the guidelines on maritime cyber risk management issued by the International Maritime Organization on July 5, 2017 (or successor guidelines).
+
+&emsp;"(3)
+
+Consultation.—The Commandant, the Administrator of the Maritime Administration, the Director of the Cybersecurity and Infrastructure Security Agency, and the Director of the National Institute of Standards and Technology may consult with maritime operators, other Federal agencies, industry stakeholders, and cybersecurity experts to identify tools and resources for purposes of this section."
+
+#### Artificial Intelligence Strategy
+
+Pub. L. 117–263, div. K, title CXII, §11226, Dec. 23, 2022, 136 Stat. 4026, provided that:
+
+"(a)
+
+Coordination of Data and Artificial Intelligence Activities Relating to Identifying, Demonstrating, and Where Appropriate Transitioning to Operational Use.—
+
+&emsp;"(1)
+
+In general.—The Commandant \[of the Coast Guard\] shall coordinate data and artificial intelligence activities relating to identifying, demonstrating and where appropriate transitioning to operational use of artificial intelligence technologies when such technologies enhance mission capability or performance.
+
+&emsp;"(2)
+
+Emphasis.—The set of activities established under paragraph (1) shall—
+
+&emsp;&emsp;"(A) apply data analytics, artificial intelligence, and machine-learning solutions to operational and mission-support problems; and
+
+&emsp;&emsp;"(B) coordinate activities involving artificial intelligence and artificial intelligence-enabled capabilities within the Coast Guard.
+
+"(b)
+
+Designated Official.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant \[of the Coast Guard\] shall designate a senior official of the Coast Guard (referred to in this section as the 'designated official') with the principal responsibility for the coordination of data and artificial intelligence activities relating to identifying, demonstrating, and, where appropriate, transitioning to operational use artificial intelligence and machine learning for the Coast Guard.
+
+&emsp;"(2)
+
+Governance and oversight of artificial intelligence and machine learning policy.—The designated official shall regularly convene appropriate officials of the Coast Guard—
+
+&emsp;&emsp;"(A) to integrate the functional activities of the Coast Guard with respect to data, artificial intelligence, and machine learning;
+
+&emsp;&emsp;"(B) to ensure that there are efficient and effective data, artificial intelligence, and machine-learning capabilities throughout the Coast Guard, where appropriate; and
+
+&emsp;&emsp;"(C) to develop and continuously improve research, innovation, policy, joint processes, and procedures to facilitate the coordination of data and artificial intelligence activities relating to identification, demonstration, and, where appropriate, transition into operational use artificial intelligence and machine learning throughout the Coast Guard.
+
+"(c)
+
+Strategic Plan.—
+
+&emsp;"(1)
+
+In general.—The designated official shall develop a strategic plan to coordinate activities relating to identifying, demonstrating, and transitioning artificial intelligence technologies into operational use where appropriate.
+
+&emsp;"(2)
+
+Elements.—The plan required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A strategic roadmap for the coordination of data and artificial intelligence activities for the identification, demonstration, and transition to operational use, where appropriate, artificial intelligence technologies and key enabling capabilities.
+
+&emsp;&emsp;"(B) The continuous identification, evaluation, and adaptation of relevant artificial intelligence capabilities adopted by the Coast Guard and developed and adopted by other organizations for military missions and business operations.
+
+&emsp;&emsp;"(C) Consideration of the identification, adoption, and procurement of artificial intelligence technologies for use in operational and mission support activities.
+
+&emsp;"(3)
+
+Submission to commandant.—Not later than 2 years after the date of enactment of this Act, the designated official shall submit to the Commandant the plan developed under paragraph (1).
+
+&emsp;"(4)
+
+Submission to congress.—Not later than 2 years after the date of enactment of this Act, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives the plan developed under paragraph (1)."
+
+#### Cyber Data Management
+
+Pub. L. 117–263, div. K, title CXII, §11228, Dec. 23, 2022, 136 Stat. 4028, provided that:
+
+"(a)
+
+In General.—The Commandant \[of the Coast Guard\] and the Director of the Cybersecurity and Infrastructure Security Agency shall—
+
+&emsp;"(1) develop policies, processes, and operating procedures governing—
+
+&emsp;&emsp;"(A) access to and the ingestion, structure, storage, and analysis of information and data relevant to the Coast Guard Cyber Mission, including—
+
+&emsp;&emsp;&emsp;"(i) intelligence data relevant to Coast Guard missions;
+
+&emsp;&emsp;&emsp;"(ii) internet traffic, topology, and activity data relevant to such missions; and
+
+&emsp;&emsp;&emsp;"(iii) cyber threat information relevant to such missions; and
+
+&emsp;&emsp;"(B) data management and analytic platforms relating to such missions; and
+
+&emsp;"(2) evaluate data management platforms referred to in paragraph (1)(B) to ensure that such platforms operate consistently with the Coast Guard Data Strategy.
+
+"(b)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives a report that includes—
+
+&emsp;"(1) an assessment of the progress on the activities required by subsection (a); and
+
+&emsp;"(2) any recommendation with respect to funding or additional authorities necessary, including proposals for legislative change, to improve Coast Guard cyber data management."
+
+#### Improving Representation of Women and Racial and Ethnic Minorities Among Coast Guard Active-Duty Members
+
+Pub. L. 117–263, div. K, title CXII, §11248, Dec. 23, 2022, 136 Stat. 4048, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], in consultation with the Advisory Board on Women at the Coast Guard Academy established under section 1904 of title 14, United States Code, and the minority outreach team program established by section 1905 of such title, the Commandant \[of the Coast Guard\] shall—
+
+&emsp;"(1) determine which recommendations in the RAND representation report may practicably be implemented to promote improved representation in the Coast Guard of—
+
+&emsp;&emsp;"(A) women; and
+
+&emsp;&emsp;"(B) racial and ethnic minorities; and
+
+&emsp;"(2) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the actions the Commandant has taken, or plans to take, to implement such recommendations.
+
+"(b)
+
+Curriculum and Training.—In the case of any action the Commandant plans to take to implement recommendations described in subsection (a)(1) that relate to modification or development of curriculum and training, such modified curriculum and trainings shall be provided at—
+
+&emsp;"(1) officer accession points, including the Coast Guard Academy and the Leadership Development Center;
+
+&emsp;"(2) enlisted member accession at the United States Coast Guard Training Center Cape May in Cape May, New Jersey; and
+
+&emsp;"(3) the officer, enlisted member, and civilian leadership courses managed by the Leadership Development Center.
+
+"(c)
+
+Definition of RAND Representation Report.—In this section, the term 'RAND representation report' means the report of the Homeland Security Operational Analysis Center of the RAND Corporation entitled 'Improving the Representation of Women and Racial/Ethnic Minorities Among U.S. Coast Guard Active-Duty Members', issued on August 11, 2021."
+
+#### Advance Notification of Military or Other Exercises
+
+Pub. L. 117–263, div. K, title CXIII, §11323, Dec. 23, 2022, 136 Stat. 4094, provided that: "In consultation with the Secretary of Defense, the Secretary of State, and commercial fishing industry participants, the Commandant \[of the Coast Guard\] shall develop and publish on a publicly available website a plan for notifying United States mariners and the operators of United States fishing vessels in advance of—
+
+&emsp;"(1) military exercises in the exclusive economic zone (as defined in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802)); or
+
+&emsp;"(2) other military activities that will impact recreational or commercial activities."
+
+#### Development of Medical Staffing Standards for Coast Guard
+
+Pub. L. 117–263, div. K, title CXIV, §11406, Dec. 23, 2022, 136 Stat. 4112, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant \[of the Coast Guard\], in consultation with the Defense Health Agency and any healthcare expert the Commandant considers appropriate, shall develop medical staffing standards for the Coast Guard that are consistent with the recommendations of the Comptroller General of the United States set forth in the report titled 'Coast Guard Health Care: Improvements Needed for Determining Staffing Needs and Monitoring Access to Care' and published in February 2022.
+
+"(b)
+
+Inclusions.—In developing the standards under subsection (a), the Commandant shall address and take into consideration the following:
+
+&emsp;"(1) Current and future operations of healthcare personnel in support of Department of Homeland Security missions, including surge deployments for incident response.
+
+&emsp;"(2) Staffing standards for specialized providers, including flight surgeons, dentists, behavioral health specialists, and physical therapists.
+
+&emsp;"(3) Staffing levels of medical, dental, and behavioral health providers for the Coast Guard who are—
+
+&emsp;&emsp;"(A) members of the Coast Guard;
+
+&emsp;&emsp;"(B) assigned to the Coast Guard from the Public Health Service;
+
+&emsp;&emsp;"(C) Federal civilian employees; or
+
+&emsp;&emsp;"(D) contractors hired by the Coast Guard to fill vacancies.
+
+&emsp;"(4) Staffing levels at medical facilities for Coast Guard units in remote locations.
+
+&emsp;"(5) Any discrepancy between medical staffing standards of the Department of Defense and medical staffing standards of the Coast Guard.
+
+"(c)
+
+Review by Comptroller General.—Not later than 90 days after the Commandant completes the staffing standards required by subsection (a), the Commandant shall submit the standards to the Comptroller General, who shall review the standards and provide recommendations to the Commandant.
+
+"(d)
+
+Report to Congress.—Not later than 180 days after developing the standards developed under subsection (a), the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the standards developed under subsection (a) and the recommendations provided under subsection (c) that includes a plan and a description of the resources and budgetary needs required to implement the standards.
+
+"(e)
+
+Modification, Implementation, and Periodic Updates.—The Commandant shall—
+
+&emsp;"(1) modify such standards, as necessary, based on the recommendations under subsection (c);
+
+&emsp;"(2) implement the standards; and
+
+&emsp;"(3) review and update the standards not less frequently than every 4 years."
+
+#### Data Collection and Access to Care
+
+Pub. L. 117–263, div. K, title CXIV, §11408, Dec. 23, 2022, 136 Stat. 4115, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant \[of the Coast Guard\], in consultation with the Defense Health Agency and any healthcare expert the Commandant considers appropriate, shall develop, and make publicly available, a policy to require the collection of data regarding access by members of the Coast Guard and their dependents to medical, dental, and behavioral healthcare as recommended by the Comptroller General of the United States in the report entitled 'Coast Guard Health Care: Improvements Needed for Determining Staffing Needs and Monitoring Access to Care', published in February 2022.
+
+"(b)
+
+Elements.—The policy required by subsection (a) shall address the following:
+
+&emsp;"(1) Methods to collect data on access to care for—
+
+&emsp;&emsp;"(A) routine annual physical health assessments;
+
+&emsp;&emsp;"(B) flight physicals for aviators or prospective aviators;
+
+&emsp;&emsp;"(C) sick call;
+
+&emsp;&emsp;"(D) injuries;
+
+&emsp;&emsp;"(E) dental health; and
+
+&emsp;&emsp;"(F) behavioral health conditions.
+
+&emsp;"(2) Collection of data on access to care for referrals.
+
+&emsp;"(3) Collection of data on access to care for members of the Coast Guard stationed at remote units, aboard Coast Guard cutters, and on deployments.
+
+&emsp;"(4) Use of the electronic health record system to improve data collection on access to care.
+
+&emsp;"(5) Use of data for addressing the standards of care, including time between requests for appointments and actual appointments, including appointments made with referral services.
+
+"(c)
+
+Publication and Report to Congress.—Not later than 90 days after the policy under subsection (a) is completed, or any subsequent updates to such policy, the Commandant shall—
+
+&emsp;"(1) publish the policy on a publicly accessible internet website of the Coast Guard; and
+
+&emsp;"(2) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the policy and the manner in which the Commandant plans to address access-to-care deficiencies.
+
+"(d)
+
+Periodic Updates.—Not less frequently than every 5 years, the Commandant shall review and update the policy required under subsection (a)."
+
+#### Behavioral Health Policy
+
+Pub. L. 117–263, div. K, title CXIV, §11409, Dec. 23, 2022, 136 Stat. 4116, provided that:
+
+"(a)
+
+Interim Behavioral Health Policy.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant \[of the Coast Guard\] shall establish an interim behavioral health policy for members of the Coast Guard that is in parity with section 5.28 (relating to behavioral health) of Department of Defense Instruction 6130.03, volume 2, 'Medical Standards for Military Service: Retention'.
+
+&emsp;"(2)
+
+Termination.—The interim policy established under paragraph (1) shall remain in effect until the date on which the Commandant issues a permanent behavioral health policy for members of the Coast Guard.
+
+"(b)
+
+Permanent Policy.—In developing a permanent policy with respect to retention and behavioral health, the Commandant shall ensure that, to the extent practicable, the policy of the Coast Guard is in parity with section 5.28 (relating to behavioral health) of Department of Defense Instruction 6130.03, volume 2, 'Medical Standards for Military Service: Retention'."
+
+#### Expansion of Access to Counseling
+
+Pub. L. 117–263, div. K, title CXIV, §11412, Dec. 23, 2022, 136 Stat. 4119, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant \[of the Coast Guard\] shall hire, train, and deploy not fewer than an additional 5 behavioral health specialists.
+
+"(b)
+
+Requirement.—Through the hiring process required under subsection (a), the Commandant shall ensure that at least 35 percent of behavioral health specialists employed by the Coast Guard have experience in behavioral healthcare for the purpose of supporting members of the Coast Guard with needs for perinatal mental health care and counseling service for miscarriage, child loss, and postpartum depression.
+
+"(c)
+
+Accessibility.—The support provided by the behavioral health specialists described in subsection (a)—
+
+&emsp;"(1) may include care delivered via telemedicine; and
+
+&emsp;"(2) shall be made widely available to members of the Coast Guard."
 
 #### Support of Women Serving in the Coast Guard
 
@@ -516,7 +938,7 @@ Pub. L. 108–293, title II, §215, Aug. 9, 2004, 118 Stat. 1038, which directed
 
 #### Innovative Construction Alternatives
 
-Pub. L. 108–293, title II, §222, Aug. 9, 2004, 118 Stat. 1040, provided that: "The Commandant of the CoastGuard may consult with the Office of Naval Research and other Federal agencies with research and development programs that may provide innovative construction alternatives for the Integrated Deepwater System."
+Pub. L. 108–293, title II, §222, Aug. 9, 2004, 118 Stat. 1040, provided that: "The Commandant of the Coast Guard may consult with the Office of Naval Research and other Federal agencies with research and development programs that may provide innovative construction alternatives for the Integrated Deepwater System."
 
 #### Icebreaking Services
 
@@ -566,7 +988,7 @@ No Interference With Other Functions.—In providing support under subsection (a
 
 #### Conveyance of Lighthouses; Notification
 
-Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: "Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 (\[former\] 16 U.S.C. 470 et seq.) \[see 54 U.S.C. 300101 et seq.\] and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard."
+Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: "Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 (\[former\] 16 U.S.C. 470 et seq.) \[see 54 U.S.C. 300101 et seq.\] and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the StateHistoric Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

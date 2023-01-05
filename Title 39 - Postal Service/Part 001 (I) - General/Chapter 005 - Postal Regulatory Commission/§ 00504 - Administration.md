@@ -6,13 +6,19 @@
 
 (c) The Chairman may obtain such facilities and supplies as may be necessary to permit the Commission to carry out its functions. Any officer or employee appointed under this section shall be paid at rates of compensation and shall be entitled to programs offering employee benefits established under chapter 10 or chapter 12 of this title, as appropriate.
 
-(d) There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Postal Regulatory Commission. In requesting an appropriation under this subsection for a fiscal year, the Commission shall prepare and submit to the Congress under section 2009 a budget of the Commission's expenses, including expenses for facilities, supplies, compensation, and employee benefits.
+(d)(1) Not later than September 1 of each fiscal year (beginning with fiscal year 2022), the Postal Regulatory Commission shall submit to the Postal Service a budget of the Commission's expenses, including expenses for facilities, supplies, compensation, and employee benefits, for the following fiscal year. Any such budget shall be deemed approved as submitted if the Governors fail to adjust the budget in accordance with paragraph (2).
+
+(2)(A) Not later than 30 days after receiving a budget under paragraph (1), the Governors holding office, by unanimous written decision, may adjust the total amount of funding requested in such budget. Nothing in this subparagraph may be construed to authorize the Governors to adjust any activity proposed to be funded by the budget.
+
+(B) If the Governors adjust the budget under subparagraph (A), the Postal Regulatory Commission shall adjust the suballocations within such budget to reflect the total adjustment made by the Governors. The budget shall be deemed approved on the date the Commission makes any such adjustments. The Commission may make further adjustments to the suballocations within such budget as necessary.
+
+(3) Expenses incurred under any budget approved under this subsection shall be paid out of the Postal Service Fund established under section 2003.
 
 (e) The provisions of section 410 and chapter 10 of this title shall apply to the Commission, as appropriate.
 
 (f)(1) Any Commissioner of the Postal Regulatory Commission, any administrative law judge appointed by the Commission under section 3105 of title 5, and any employee of the Commission designated by the Commission may administer oaths, examine witnesses, take depositions, and receive evidence.
 
-(2) The Chairman of the Commission, any Commissioner designated by the Chairman, and any administrative law judge appointed by the Commission under section 3105 of title 5 may,with respect to any proceeding conducted by the Commission under this title or to obtain information to be used to prepare a report under this title—
+(2) The Chairman of the Commission, any Commissioner designated by the Chairman, and any administrative law judge appointed by the Commission under section 3105 of title 5 may, with respect to any proceeding conducted by the Commission under this title or to obtain information to be used to prepare a report under this title—
 
 &emsp;(A) issue subpoenas requiring the attendance and presentation of testimony by, or the production of documentary or other evidence in the possession of, any covered person; and
 
@@ -32,15 +38,11 @@
 
 &emsp;(B) permit anyone who is not an officer or employee of the Commission to have access to any such information.
 
-(3)(A) Paragraph (2) shall not prohibit the Commission from publicly disclosing relevant information in furtherance of its duties under this title, provided that the Commission has adopted regulations under section 553 of title 5, that establish a procedure for according appropriate confidentiality to information identified by the Postal Service under paragraph (1). In determining the appropriate degree of confidentiality to be accorded information identified by the Postal Service under paragraph (1), the Commission shall balance the nature and extent of the likely commercial injury to the Postal Service against the public interest in maintaining the financial transparency of a government establishment competing in commercial markets.
+(3)(A) Paragraph (2) shall not prohibit the Commission from publicly disclosing relevant information in furtherance of its duties under this title, provided that the Commission has adopted regulations under section 553 of title 5,that establish a procedure for according appropriate confidentiality to information identified by the Postal Service under paragraph (1). In determining the appropriate degree of confidentiality to be accorded information identified by the Postal Service under paragraph (1), the Commission shall balance the nature and extent of the likely commercial injury to the Postal Service against the public interest in maintaining the financial transparency of a government establishment competing in commercial markets.
 
 (B) Paragraph (2) shall not prevent the Commission from requiring production of information in the course of any discovery procedure established in connection with a proceeding under this title. The Commission shall, by regulations based on rule 26(c) of the Federal Rules of Civil Procedure, establish procedures for ensuring appropriate confidentiality for information furnished to any party.
 
-(h)(1) Notwithstanding any other provision of this title or of the Inspector General Act of 1978, the authority to select, appoint, and employ officers and employees of the Office of Inspector General of the Postal Regulatory Commission, and to obtain any temporary or intermittent services of experts or consultants (or an organization of experts or consultants) for such Office, shall reside with the Inspector General of the Postal Regulatory Commission.
-
-(2) Except as provided in paragraph (1), any exercise of authority under this subsection shall, to the extent practicable, be in conformance with the applicable laws and regulations that govern selections, appointments, and employment, and the obtaining of any such temporary or intermittent services, within the Postal Regulatory Commission.
-
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759, §3604; Pub. L. 94–421, §4, Sept. 24, 1976, 90 Stat. 1305; renumbered §504 and amended Pub. L. 109–435, title VI, §§601(a)(3), 602, 603(a), 604(a), 605(b), Dec. 20, 2006, 120 Stat. 3239–3242.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 759, §3604; Pub. L. 94–421, §4, Sept. 24, 1976, 90 Stat. 1305; renumbered §504 and amended Pub. L. 109–435, title VI, §§601(a)(3), 602, 603(a), 604(a), 605(b), Dec. 20, 2006, 120 Stat. 3239–3242; Pub. L. 117–108, title II, §§205(a), 209(d), Apr. 6, 2022, 136 Stat. 1147, 1152; Pub. L. 117–286, §4(b)(64), Dec. 27, 2022, 136 Stat. 4350.)
 
 #### <b>Editorial Notes</b>
 
@@ -48,9 +50,17 @@
 
 Rule 26(c) of the Federal Rules of Civil Procedure, referred to subsec. (g)(3)(B), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Inspector General Act of 1978, referred to in subsec. (h)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–108, §205(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Postal Regulatory Commission. In requesting an appropriation under this subsection for a fiscal year, the Commission shall prepare and submit to the Congress under section 2009 a budget of the Commission's expenses, including expenses for facilities, supplies, compensation, and employee benefits."
+
+Subsec. (h). Pub. L. 117–108, §209(d), struck out subsec. (h) which read as follows:
+
+"(1) Notwithstanding any other provision of this title or of the Inspector General Act of 1978, the authority to select, appoint, and employ officers and employees of the Office of Inspector General of the Postal Regulatory Commission, and to obtain any temporary or intermittent services of experts or consultants (or an organization of experts or consultants) for such Office, shall reside with the Inspector General of the Postal Regulatory Commission.
+
+"(2) Except as provided in paragraph (1), any exercise of authority under this subsection shall, to the extent practicable, be in conformance with the applicable laws and regulations that govern selections, appointments, and employment, and the obtaining of any such temporary or intermittent services, within the Postal Regulatory Commission."
+
+Subsec. (h)(1). Pub. L. 117–286, which directed substitution of "chapter 4 of title 5," for "the Inspector General Act of 1978,", could not be executed because of the intervening amendment by Pub. L. 117–108, §209(d). See above.
 
 <b>2006</b>—Pub. L. 109–435, §601(a)(3), renumbered section 3604 of this title as this section.
 
@@ -72,9 +82,21 @@ Subsecs. (d), (e). Pub. L. 94–421 redesignated former subsecs. (c) and (d) as 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by section 209(d) of Pub. L. 117–108 effective 180 days after Apr. 6, 2022, see section 209(e) of Pub. L. 117–108, set out as a note under section 202 of this title.
+
 #### Effective Date of 2006 Amendment; Savings Provisions
 
-Amendment by section 603(a) of Pub. L. 109–435 applicable with respect to fiscal years beginning on or after Oct. 1, 2008, subject to savings provisions, see section 603(d) of Pub. L. 109–435, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
+Pub. L. 109–435, title VI, §603(d), Dec. 20, 2006, 120 Stat. 3241, provided that:
+
+"(1)
+
+In general.—The amendments made by this section \[amending this section, sections 2003 and 2009 of this title, and former section 8G of Pub. L. 95–452, see section 415 of Title 5, Government Organization and Employees\] shall apply with respect to fiscal years beginning on or after October 1, 2008.
+
+"(2)
+
+Savings provision.—The provisions of title 39, United States Code, and the Inspector General Act of 1978 (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 401 et seq.\] that are amended by this section shall, for purposes of any fiscal year before the first fiscal year to which the amendments made by this section apply, continue to apply in the same way as if this section had never been enacted."
 
 #### <b>Executive Documents</b>
 

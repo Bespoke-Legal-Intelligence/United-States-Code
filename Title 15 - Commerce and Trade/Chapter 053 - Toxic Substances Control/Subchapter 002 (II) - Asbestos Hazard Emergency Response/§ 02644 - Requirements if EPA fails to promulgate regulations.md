@@ -74,7 +74,7 @@ The local educational agency shall, within 720 days after October 22, 1986, deve
 
 &emsp;&emsp;&emsp;(v) The results of the inspection.
 
-&emsp;&emsp;(B) The statement shall state whether any actions were taken with respect to any asbestos-containing material found to be present, including a specific reference to whether any actions were taken in the boiler room of the building. If any such action was taken, the following items of information shall be included in the statement:
+&emsp;&emsp;(B) The statement shall state whether any actions were taken with respect to any asbestos-containing material found to bepresent, including a specific reference to whether any actions were taken in the boiler room of the building. If any such action was taken, the following items of information shall be included in the statement:
 
 &emsp;&emsp;&emsp;(i) The location or locations at which the action was taken.
 

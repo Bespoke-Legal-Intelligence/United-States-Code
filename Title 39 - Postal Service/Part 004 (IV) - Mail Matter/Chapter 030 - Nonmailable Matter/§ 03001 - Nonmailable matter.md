@@ -68,7 +68,7 @@
 
 &emsp;(C) such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
 
-(2) In the case of matter bearing the term "census" on the envelope or outside cover or wrapper or matter on which the term "census" is visible through the envelope or outside cover or wrapper, in addition to satisfying one of the exceptions contained in paragraphs <sup>2</sup> (1)(A), (1)(B), or (1)(C), such envelope or outside cover or wrapper bears on its face an accurate returnaddress including the name of the entity that sent such matter.
+(2) In the case of matter bearing the term "census" on the envelope or outside cover or wrapper or matter on which the term "census" is visible through the envelope or outside cover or wrapper, in addition to satisfying one of the exceptions contained in paragraphs <sup>2</sup> (1)(A), (1)(B), or (1)(C), such envelope or outside cover or wrapper bears on its face an accurate return address including the name of the entity that sent such matter.
 
 (j)(1) Any matter otherwise legally acceptable in the mails which is described in paragraph (2) is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
 
@@ -166,7 +166,7 @@
 
 &emsp;(B) does not include an opportunity to make a payment or order a product or service.
 
-(5) Any statement, notice, or disclaimer required under paragraph (3) shall be clearly and conspicuously displayed. Any statement, notice, or disclaimer required under subclause (I) or (II) of paragraph (3)(A)(ii) shall be displayed more conspicuously than would otherwise be required under the preceding sentence.
+(5) Any statement, notice, or disclaimer required under paragraph (3) shall be clearly and conspicuously displayed. Any statement, notice, or disclaimer required under subclause (I) or (II)of paragraph (3)(A)(ii) shall be displayed more conspicuously than would otherwise be required under the preceding sentence.
 
 (6) In the enforcement of paragraph (3), the Postal Service shall consider all of the materials included in the mailing and the material and language on and visible through the envelope or outside cover or wrapper in which those materials are mailed.
 
@@ -228,7 +228,7 @@ Subsec. (i)(2). Pub. L. 111–170, §1(b)(2), inserted "or matter on which the t
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–168, §110(a), struck out "1714," after "1463," and "1718," after "1717,".
 
-Subsec. (h). Pub. L. 106–168, §102(1)(A), in introductory provisions, substituted "which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsementthrough the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government" for "contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement".
+Subsec. (h). Pub. L. 106–168, §102(1)(A), in introductory provisions, substituted "which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government" for "contains a seal, insignia, trade orbrand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement".
 
 Subsec. (h)(2)(C). Pub. L. 106–168, §102(1)(B), added subpar. (C).
 
@@ -312,7 +312,7 @@ Pub. L. 101–493, §1, Oct. 31, 1990, 104 Stat. 1184, provided that: "This Act 
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–186, §1, Nov. 30, 1983, 97 Stat. 1315, provided: "That this Act \[enacting sections 3012 and 3013 of this title, amending section 3005 of this title, and enacting provisions set out as notes under sections 3005 and 3012 of this title\] may be cited as the 'Mail Order Consumer Protection Amendments of 1983'."
+Pub. L. 98–186, §1, Nov. 30, 1983, 97 Stat. 1315, provided: "That this Act \[enacting sections 3012 and 3013 of thistitle, amending section 3005 of this title, and enacting provisions set out as notes under sections 3005 and 3012 of this title\] may be cited as the 'Mail Order Consumer Protection Amendments of 1983'."
 
 #### State Law Not Preempted
 

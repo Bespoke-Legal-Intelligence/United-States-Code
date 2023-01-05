@@ -20,7 +20,7 @@ In this part:
 
 #### References in Text
 
-Section 12523(e) of this title, referred to in par. (2)(B), probably should be a reference to section 12523(d) ofthis title, which relates to designation of a statewide entity to carry out the functions of the State educational agency. Section 12523(e) relates to consultation of the Corporation with the Secretary of Education.
+Section 12523(e) of this title, referred to in par. (2)(B), probably should be a reference to section 12523(d) of this title, which relates to designation of a statewide entity to carry out the functions of the State educational agency. Section 12523(e) relates to consultation of the Corporation with the Secretary of Education.
 
 #### Prior Provisions
 

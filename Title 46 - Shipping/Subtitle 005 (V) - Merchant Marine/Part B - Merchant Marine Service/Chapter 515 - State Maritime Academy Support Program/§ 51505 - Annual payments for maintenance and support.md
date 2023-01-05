@@ -14,7 +14,7 @@ Payments.—
 
 &emsp;(1)
 
-In general.—Subject to paragraph (2), an annual payment to an academy under subsection (a) shall be at least equal to the amount given to the academy for its maintenance and support by the State in which it is located, or, for a regional maritime academy,by all States cooperating to sponsor the academy.
+In general.—Subject to paragraph (2), an annual payment to an academy under subsection (a) shall be at least equal to the amount given to the academy for its maintenance and support by the State in which it is located, or, for a regional maritime academy, by all States cooperating to sponsor the academy.
 
 &emsp;(2)
 
@@ -44,7 +44,7 @@ In subsection (b)(1), the reference to territories is omitted as unnecessary bec
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b)(2). Pub. L. 115–232 amended par. (2) generally. Prior to amendment, text read as follows: "The amount under paragraph (1) may not be more than $25,000. However, if the academy satisfies section 51506(b) of this title, the amount shall be—
+<b>2018</b>—Subsec. (b)(2). Pub. L. 115–232 amended par. (2) generally. Prior to amendment, text read as follows:"The amount under paragraph (1) may not be more than $25,000. However, if the academy satisfies section 51506(b) of this title, the amount shall be—
 
 &emsp;"(A) $100,000 for a State maritime academy; and
 

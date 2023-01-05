@@ -10,7 +10,7 @@ General.—The Administrator of the Federal Aviation Administration shall issue 
 
 &emsp;(3) that the Administrator requires to have a certificate;
 
-> if the Administrator finds, after investigation, that the person properly and adequately isequipped and able to operate safely under this part and regulations and standards prescribed under this part.
+> if the Administrator finds, after investigation, that the person properly and adequately is equipped and able to operate safely under this part and regulations and standards prescribed under this part.
 
 (b)
 

@@ -54,7 +54,7 @@ In this section:
 
 #### (7) Substance of concern
 
-&emsp;The term "substance of concern" means a chemical or other substance that is associated with potential acute or chronic human health effects, the risk of exposure to which could potentially be increased as the result of a disaster, as determined by the President, acting through the Secretary of Health and Human Services, and in coordination with the Agency for Toxic Substances and Disease Registry, the Environmental Protection Agency, the Centers for Disease Control and Prevention, the National Institutes of Health, the Federal Emergency Management Agency, the Occupational Health and Safety Administration, and other agencies.
+&emsp;The term "substance of concern" means a chemical or other substance that is associated with potential acute or chronic human health effects, the risk of exposure to which could potentially be increased as the result of a disaster, as determined by the President, acting through the Secretary of Health and Human Services, and in coordination with the Agency for Toxic Substances and Disease Registry, the Environmental Protection Agency, theCenters for Disease Control and Prevention, the National Institutes of Health, the Federal Emergency Management Agency, the Occupational Health and Safety Administration, and other agencies.
 
 #### (b) Program
 

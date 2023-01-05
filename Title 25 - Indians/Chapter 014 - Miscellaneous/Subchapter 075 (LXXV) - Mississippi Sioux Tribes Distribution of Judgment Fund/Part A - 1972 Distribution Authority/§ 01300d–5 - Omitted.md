@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 92–555, title III, §301, Oct. 25, 1972, 86 Stat. 1170, which provided that only citizens of the United States would be eligible to be enrolled under this part, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 92–555, title III, §301, Oct. 25, 1972, 86 Stat. 1170, which provided that only citizens of theUnited States would be eligible to be enrolled under this part, was omitted from the Code as being of special and not general application.
 

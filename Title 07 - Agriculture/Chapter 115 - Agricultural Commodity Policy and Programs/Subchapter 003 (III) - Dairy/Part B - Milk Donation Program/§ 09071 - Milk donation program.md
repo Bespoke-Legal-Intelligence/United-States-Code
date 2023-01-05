@@ -52,7 +52,7 @@ Not later than 180 days after December 20, 2018, the Secretary shall establish a
 
 &emsp;&emsp;&emsp;(ii) contingency plans to address unanticipated donations; and
 
-&emsp;&emsp;(C) describes the rate at which the eligible partnership will be reimbursed, which shall be based on a percentage of the limitation described in subsection (e)(2), not to exceed 100 percent.
+&emsp;&emsp;(C) describes the rate at which the eligible partnership will be reimbursed, which shallbe based on a percentage of the limitation described in subsection (e)(2), not to exceed 100 percent.
 
 #### (2) Review and approval
 
@@ -102,7 +102,7 @@ Not later than 180 days after December 20, 2018, the Secretary shall establish a
 
 &emsp;The Secretary shall—
 
-&emsp;&emsp;(A) establish a process for an eligible partnership to apply for preapproval of donationand distribution plans under subsection (c); and
+&emsp;&emsp;(A) establish a process for an eligible partnership to apply for preapproval of donation and distribution plans under subsection (c); and
 
 &emsp;&emsp;(B) not less frequently than annually, preapprove an amount for qualified expenses described in subsection (e) that the Secretary will allocate for reimbursement under each donation and distribution plan preapproved under subparagraph (A), based on an assessment of—
 
@@ -150,7 +150,7 @@ The Secretary shall conduct appropriate reviews or audits to ensure the integrit
 
 #### (j) Funding
 
-Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $9,000,000 for fiscal year 2019, and $5,000,000 for each fiscal year thereafter, to remain available until expended.
+Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out thissection $9,000,000 for fiscal year 2019, and $5,000,000 for each fiscal year thereafter, to remain available until expended.
 
 (Pub. L. 113–79, title I, §1431, as added Pub. L. 115–334, title I, §1404(b)(1), Dec. 20, 2018, 132 Stat. 4519.)
 

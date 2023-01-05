@@ -84,7 +84,7 @@ The Secretary shall establish standards for qualification as a designated provid
 
 #### (d) Hospital referrals
 
-A State shall include in the State plan amendment a requirement for hospitals that are participating providers under the State plan or awaiver of such plan to establish procedures for referring any eligible individuals with chronic conditions who seek or need treatment in a hospital emergency department to designated providers.
+A State shall include in the State plan amendment a requirement for hospitals that are participating providers under the State plan or a waiver of such plan to establish procedures for referring any eligible individuals with chronic conditions who seek or need treatment in a hospital emergency department to designated providers.
 
 #### (e) Coordination
 

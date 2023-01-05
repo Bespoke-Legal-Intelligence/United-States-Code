@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Gross income of an employee does not include amounts paid or expenses incurred bythe employer for qualified adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program.
+&emsp;Gross income of an employee does not include amounts paid or expenses incurred by the employer for qualified adoption expenses in connection with the adoption of a child by an employee if such amounts are furnished pursuant to an adoption assistance program.
 
 #### (2) $10,000 exclusion for adoption of child with special needs regardless of expenses
 
@@ -170,7 +170,7 @@ Amendment by section 418(a)(2) of Pub. L. 107–147 effective as if included in 
 
 #### Effective Date of 2001 Amendment
 
-Amendment by section 202(b)(1)(B), (2)(B), (d)(2), (e)(2) of Pub. L. 107–16 applicable to taxable years beginningafter Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
+Amendment by section 202(b)(1)(B), (2)(B), (d)(2), (e)(2) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
 
 Amendment by section 202(a)(2) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2002, see section 202(g)(2) of Pub. L. 107–16, set out as a note under section 23 of this title.
 

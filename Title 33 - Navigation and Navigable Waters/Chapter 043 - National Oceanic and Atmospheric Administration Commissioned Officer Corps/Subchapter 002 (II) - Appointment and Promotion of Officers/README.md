@@ -7,7 +7,7 @@
 
 - [&sect; 03021 - Original appointments and reappointments](%C2%A7%2003021%20-%20Original%20appointments%20and%20reappointments.md)
 - [&sect; 03022 - Personnel boards](%C2%A7%2003022%20-%20Personnel%20boards.md)
-- [&sect; 03023 - Promotion of ensigns to grade of lieutenant (junior grade)](%C2%A7%2003023%20-%20Promotion%20of%20ensigns%20to%20grade%20of%20lieutenant%20%28junior%20grade%29.md)
+- [&sect; 03023 - Separation of ensigns found not fully qualified](%C2%A7%2003023%20-%20Separation%20of%20ensigns%20found%20not%20fully%20qualified.md)
 - [&sect; 03024 - Promotion by selection to permanent grades above lieutenant (junior grade)](%C2%A7%2003024%20-%20Promotion%20by%20selection%20to%20permanent%20grades%20above%20lieutenant%20%28junior%20grade%29.md)
 - [&sect; 03025 - Length of service for promotion purposes](%C2%A7%2003025%20-%20Length%20of%20service%20for%20promotion%20purposes.md)
 - [&sect; 03026 - Appointments and promotions to permanent grades](%C2%A7%2003026%20-%20Appointments%20and%20promotions%20to%20permanent%20grades.md)

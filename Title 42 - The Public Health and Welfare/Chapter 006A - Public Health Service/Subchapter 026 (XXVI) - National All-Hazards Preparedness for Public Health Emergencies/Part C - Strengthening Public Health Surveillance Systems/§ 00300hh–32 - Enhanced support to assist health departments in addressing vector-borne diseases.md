@@ -16,7 +16,7 @@ To be eligible to enter into a cooperative agreement under this section, an enti
 
 &emsp;&emsp;(C) other relevant activities identified by the Director of the Centers for Disease Control and Prevention, as appropriate;
 
-&emsp;(2) the manner in which the applicant will coordinate with other Federal, Tribal, and State agencies and programs, as applicable, related to vector-borne diseases, as well as other relevant public and private organizations or agencies; and
+&emsp;(2) the manner in which the applicant will coordinate with other Federal, Tribal, andState agencies and programs, as applicable, related to vector-borne diseases, as well as other relevant public and private organizations or agencies; and
 
 &emsp;(3) the manner in which the applicant will evaluate the effectiveness of any program carried out under the cooperative agreement.
 

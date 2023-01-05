@@ -54,7 +54,7 @@ Letter of interest.—The term "letter of interest" means a letter submitted by 
 
 &emsp;(7)
 
-Line of credit.—The term "line of credit" means an agreement entered into by the Secretary with an obligor under section 604 to provide a direct loan at a future date upon the occurrence of certain events.
+Line of credit.—The term "line of credit" means an agreement entered into by theSecretary with an obligor under section 604 to provide a direct loan at a future date upon the occurrence of certain events.
 
 &emsp;(8)
 
@@ -90,7 +90,7 @@ Master credit agreement.—The term "master credit agreement" means a conditiona
 
 &emsp;&emsp;&emsp;(ii) receiving an investment grade rating from a rating agency;
 
-&emsp;&emsp;&emsp;(iii) compliance with such other requirements as are specified under the TIFIAprogram, including sections 602(c) and 603(b)(1); and
+&emsp;&emsp;&emsp;(iii) compliance with such other requirements as are specified under the TIFIA program, including sections 602(c) and 603(b)(1); and
 
 &emsp;&emsp;&emsp;(iv) the availability of funds to carry out the TIFIA program; and
 
@@ -138,7 +138,7 @@ Project.—The term "project" means—
 
 &emsp;&emsp;&emsp;(i) that—
 
-&emsp;&emsp;&emsp;&emsp;(I) is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described in section 5302(4)(G)(v) <sup>1</sup> of title 49, and related infrastructure; or
+&emsp;&emsp;&emsp;&emsp;(I) is located within walking distance of, and accessible to, a fixed guideway transit facility, passenger rail station, intercity bus station, or intermodal facility, including a transportation, public utility, or capital project described insection 5302(4)(G)(v) <sup>1</sup> of title 49, and related infrastructure; or
 
 &emsp;&emsp;&emsp;&emsp;(II) is a project for economic development, including commercial and residential development, and related infrastructure and activities—
 
@@ -172,7 +172,7 @@ Project.—The term "project" means—
 
 &emsp;(13)
 
-Project obligation.—The term "project obligation" means any note, bond, debenture, or other debt obligation issued by an obligorin connection with the financing of a project, other than a Federal credit instrument.
+Project obligation.—The term "project obligation" means any note, bond, debenture, or other debt obligation issued by an obligor in connection with the financing of a project, other than a Federal credit instrument.
 
 &emsp;(14)
 
@@ -234,7 +234,7 @@ Treatment of Chapter.—For purposes of this title, this chapter shall be treate
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (a)(5), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(5), is act May 27, 1933, ch. 38, title I, 48 Stat. 74,which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(5), is set out in Title 26, Internal Revenue Code.
 
@@ -264,7 +264,7 @@ Subsec. (a)(10)(A). Pub. L. 114–94, §2001(a)(4)(B), substituted "subject to�
 
 Subsec. (a)(10)(D)(ii). Pub. L. 114–94, §2001(a)(4)(C)(ii), added cl. (ii). Former cl. (ii) redesignated (iii).
 
-Subsec. (a)(10)(D)(iii). Pub. L. 114–94, §2001(a)(4)(C)(i), (iii), redesignated cl. (ii) as (iii) and substituted "under the TIFIA program, including sections 602(c) and603(b)(1)" for "in section 602(c)". Former cl. (iii) redesignated (iv).
+Subsec. (a)(10)(D)(iii). Pub. L. 114–94, §2001(a)(4)(C)(i), (iii), redesignated cl. (ii) as (iii) and substituted "under the TIFIA program, including sections 602(c) and 603(b)(1)" for "in section 602(c)". Former cl. (iii) redesignated (iv).
 
 Subsec. (a)(10)(D)(iv). Pub. L. 114–94, §2001(a)(4)(C)(i), (iv), redesignated cl. (iii) as (iv) and substituted "the TIFIA program" for "this chapter".
 
@@ -506,7 +506,7 @@ In general.—
 
 &emsp;&emsp;"(A)
 
-Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks andmultistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
+Purpose of agreements.—Subject to this section, the Secretary may enter into cooperative agreements with the States of California, Florida, Missouri, and \[sic\] Rhode Island, and Texas for the establishment of State infrastructure banks and multistate infrastructure banks for making loans and providing other assistance to public and private entities carrying out or proposing to carry out projects eligible for assistance under this section, provided that Texas may not compete for funds previously allocated or appropriated to any other State.
 
 &emsp;&emsp;"(B)
 
@@ -580,7 +580,7 @@ Infrastructure Bank Requirements.—
 
 In general.—Subject to paragraph (2), in order to establish an infrastructure bank under this section, each State establishing such a bank shall—
 
-&emsp;&emsp;"(A) contribute, at a minimum, to the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and contributed to the bank under subsection (c), except that if the State has a higher Federal share payable under section 120(b) of title 23, United States Code, the State shall be required to contribute only an amount commensurate with the higher Federal share;
+&emsp;&emsp;"(A) contribute, at a minimum, to the bank from non-Federal sources an amount equal to 25 percentof the amount of each capitalization grant made to the State and contributed to the bank under subsection (c), except that if the State has a higher Federal share payable under section 120(b) of title 23, United States Code, the State shall be required to contribute only an amount commensurate with the higher Federal share;
 
 &emsp;&emsp;"(B) ensure that the bank maintains on a continuing basis an investment grade rating on its debt issuances and its ability to pay claims under credit enhancement programs of the bank;
 
@@ -700,7 +700,7 @@ Highway account.—Notwithstanding any other provision of law, the Secretary may
 
 &emsp;"(3)
 
-Transit account.—Notwithstanding any other provision of law, the Secretary may allow, subject to subsection (g)(1), a State entering into a cooperative agreement under this section, and any other Federal transit grant recipient, to contribute not to exceed 10 percent of the funds made available to the State or other Federal transit grant recipient in each of fiscal years 1996 and 1997 for capital projects under sections 5307, 5309, and 5311 of title 49, United States Code, into the transit account of the infrastructure bank established by the State. Federal funds contributed to such account under this paragraph shall constitute for purposes of this section a capitalization grant for the transit account of the infrastructure bank.
+Transit account.—Notwithstanding any other provision of law, the Secretary may allow, subject tosubsection (g)(1), a State entering into a cooperative agreement under this section, and any other Federal transit grant recipient, to contribute not to exceed 10 percent of the funds made available to the State or other Federal transit grant recipient in each of fiscal years 1996 and 1997 for capital projects under sections 5307, 5309, and 5311 of title 49, United States Code, into the transit account of the infrastructure bank established by the State. Federal funds contributed to such account under this paragraph shall constitute for purposes of this section a capitalization grant for the transit account of the infrastructure bank.
 
 &emsp;"(4)
 

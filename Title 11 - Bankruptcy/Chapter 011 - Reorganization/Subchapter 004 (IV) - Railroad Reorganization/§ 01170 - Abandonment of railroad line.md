@@ -12,7 +12,7 @@
 
 (c) After the court receives the report of the Board, or the expiration of the time fixed under subsection (b) of this section, whichever occurs first, the court may authorize such abandonment, after notice to the Board, the Secretary of Transportation, the trustee, any party in interest that has requested notice, any affected shipper or community, and any other entity prescribed by the court, and a hearing.
 
-(d)(1) Enforcement of an order authorizing such abandonment shall be stayed until the time for taking an appeal has expired, or, if an appeal is timely taken, until such order has become final.
+(d)(1) Enforcement of an order authorizing such abandonment shall be stayed until thetime for taking an appeal has expired, or, if an appeal is timely taken, until such order has become final.
 
 (2) If an order authorizing such abandonment is appealed, the court, on request of a party in interest, may authorize suspension of service on a line or a portion of a line pending the determination of such appeal, after notice to the Board, the Secretary of Transportation, the trustee, any party in interest that has requested notice, any affected shipper or community, and any other entity prescribed by the court, and a hearing. An appellant may not obtain a stay of the enforcement of an order authorizing such suspension by the giving of a supersedeas bond or otherwise, during the pendency of such appeal.
 
@@ -32,7 +32,7 @@ Subsection (b) permits some participation by the Interstate Commerce Commission 
 
 Subsection (c) permits the court to act after it has received the report of the Commission or the time fixed under subsection (b) has expired, whichever occurs first. The court may then authorize the abandonment after notice and a hearing. The notice must go to the Commission, the Secretary of Transportation, the trustee, and party in interest that has requested notice, any affected shipper or community, and any other entity that the court specifies.
 
-Subsection (d) stays the enforcement of an abandonment until the time for taking an appeal has expired, or if an appeal has been taken, until the order has become final. However, the court may, and after notice and a hearing, on request of a party in interest authorize termination of service on the line or a portion ofthe line pending the determination of the appeal. The notice required is the same as that required under subsection (c). If the court authorizes termination of service pending determination of the appeal, an appellant may not obtain a stay of the enforcement of the order authorizing termination, either by the giving of a supersedeas bond or otherwise, during the pendency of the appeal.
+Subsection (d) stays the enforcement of an abandonment until the time for taking an appeal has expired, or if an appeal has been taken, until the order has become final. However, the court may, and after notice and a hearing, on request of a party in interest authorize termination of service on the line or a portion of the line pending the determination of the appeal. The notice required is the same as that required under subsection (c). If the court authorizes termination of service pending determination of the appeal, an appellant may not obtain a stay of the enforcement of the order authorizing termination, either by the giving of a supersedeas bond or otherwise, during the pendency of the appeal.
 
 #### <b>Editorial Notes</b>
 

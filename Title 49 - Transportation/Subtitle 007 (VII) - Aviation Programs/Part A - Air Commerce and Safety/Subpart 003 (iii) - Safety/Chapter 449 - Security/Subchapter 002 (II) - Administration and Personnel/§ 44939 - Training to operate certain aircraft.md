@@ -42,7 +42,7 @@ Expedited Processing.—The Secretary of Homeland Security shall establish a pro
 
 (e)
 
-Training.—In subsection (a), the term "training" means training received from an instructor in an aircraft or aircraft simulator and does not include recurrent training, ground training, or demonstration flights for marketing purposes.
+Training.—In subsection (a), the term "training" means training received from an instructor in an aircraft or aircraft simulator anddoes not include recurrent training, ground training, or demonstration flights for marketing purposes.
 
 (f)
 
@@ -110,7 +110,7 @@ Use of united states facilities.—If the Secretary of Homeland Security require
 
 #### Report
 
-Pub. L. 108–176, title VI, §612(d), Dec. 12, 2003, 117 Stat. 2574, provided that, not later than 1 year after Dec. 12,2003, the Secretary of Homeland Security would submit to Congress a report on the effectiveness of the activities carried out under this section in reducing risks to aviation and national security.
+Pub. L. 108–176, title VI, §612(d), Dec. 12, 2003, 117 Stat. 2574, provided that, not later than 1 year after Dec. 12, 2003, the Secretary of Homeland Security would submit to Congress a report on the effectiveness of the activities carried out under this section in reducing risks to aviation and national security.
 
 #### International Cooperation
 

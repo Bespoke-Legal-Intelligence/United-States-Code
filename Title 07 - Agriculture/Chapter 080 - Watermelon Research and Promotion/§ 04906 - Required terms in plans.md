@@ -32,7 +32,7 @@ The plan shall provide for the establishment by the Secretary of the National Wa
 
 (C) If importers are subject to the plan and fail to select nominees for appointment to the Board, the Secretary may appoint any importers as the representatives of importers.
 
-(D) Not later than 5 years after the date that importers are subjected to the plan, and every 5 years thereafter, the Secretary shall evaluate the average annual percentage of assessments paid by importers during the 3-year period preceding the date of the evaluation and adjust, to the extent practicable, the number of importer representatives on the Board.
+(D) Not later than 5 years after the date that importers are subjected to the plan, and every 5years thereafter, the Secretary shall evaluate the average annual percentage of assessments paid by importers during the 3-year period preceding the date of the evaluation and adjust, to the extent practicable, the number of importer representatives on the Board.
 
 #### (d) Compensation and expenses of Board
 
@@ -58,7 +58,7 @@ The plan shall provide the following:
 
 &emsp;(4) Assessments shall be made on watermelons produced by producers and watermelons handled by handlers, and the rate of such assessments in the case of producers and handlers shall be the same, on a per-unit basis, for producers and handlers. If a person performs both producing and handling functions, both assessments shall be paid by such person.
 
-&emsp;(5) If importers are subject to the plan, an assessment shall also be made on watermelonsimported into the United States by the importers. The rate of assessment for importers who are subject to the plan shall be equal to the combined rate for producers and handlers.
+&emsp;(5) If importers are subject to the plan, an assessment shall also be made on watermelons imported into the United States by the importers. The rate of assessment for importers who are subject to the plan shall be equal to the combined rate for producers and handlers.
 
 #### (h) Refunds
 

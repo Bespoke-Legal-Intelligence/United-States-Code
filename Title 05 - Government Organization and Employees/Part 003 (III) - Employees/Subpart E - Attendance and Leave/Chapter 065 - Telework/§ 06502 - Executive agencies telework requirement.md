@@ -92,7 +92,9 @@ DETO Policy.—
 
 In general.—Each Federal department and agency shall establish a policy enumerating the circumstances under which employees may be permitted to temporarily perform work requirements and duties from approved overseas locations where there is a related Foreign Service assignment pursuant to an approved Domestically Employed Teleworking Overseas (DETO) agreement, consistent with the requirements under section 6502 of title 5, United States code \[sic\] (relating to the executive agencies telework requirements), as amended by paragraph (2), and DETO requirements, as set forth in the Foreign Affairs Manual and Foreign Affairs Handbook of the Department of State.
 
-&emsp;"(2) \[Amended this section.\]
+&emsp;"(2)
+
+Amendment.—\[Amended this section.\]
 
 "(b)
 

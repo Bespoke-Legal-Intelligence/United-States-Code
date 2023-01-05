@@ -74,7 +74,7 @@ A social networking website seeking to use the system shall submit an applicatio
 
 #### (D) Rule of construction
 
-&emsp;&emsp;This subsection shall not be construed to limit the authority of the Attorney General under any other provision of law to conduct or to allow searches or checks against sex offender registration information.
+&emsp;&emsp;This subsection shall not be construed to limit the authority of the Attorney Generalunder any other provision of law to conduct or to allow searches or checks against sex offender registration information.
 
 #### (4) Payment of fee
 

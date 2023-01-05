@@ -32,9 +32,9 @@ In this Act:
 
 #### (8) Security vulnerability
 
-&emsp;The term "security vulnerability" has the meaning given that term in section 1501(17) of title 6.
+&emsp;The term "security vulnerability" has the meaning given that term in section 650 of title 6.
 
-(Pub. L. 116–207, §3, Dec. 4, 2020, 134 Stat. 1001.)
+(Pub. L. 116–207, §3, Dec. 4, 2020, 134 Stat. 1001; Pub. L. 117–263, div. G, title LXXI, §7143(d)(8), Dec. 23, 2022, 136 Stat. 3664.)
 
 #### <b>Editorial Notes</b>
 
@@ -45,6 +45,10 @@ This Act, referred to in text, is Pub. L. 116–207, Dec. 4, 2020, 134 Stat. 100
 #### Codification
 
 Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+#### Amendments
+
+<b>2022</b>—Par. (8). Pub. L. 117–263 substituted "section 650 of title 6" for "section 1501(17) of title 6".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

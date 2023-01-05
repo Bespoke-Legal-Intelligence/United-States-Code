@@ -28,7 +28,7 @@ Pub. L. 101–624, title XXIII, §2351(a), Nov. 28, 1990, 104 Stat. 4038, provid
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–570, §1, Oct. 20, 1976, 90 Stat. 2701, provided: "That this Act \[amending sections 931 and 935 of this title and enacting provisions set out as a note under section 935 of this title\] may be cited as the 'Rural Electrification Administration Technical Amendments Act of 1976'."
+Pub. L. 94–570, §1, Oct. 20, 1976, 90 Stat. 2701, provided: "That this Act \[amending sections 931 and 935 of this title and enacting provisions set out as a note under section 935 of this title\] may be cited as the 'RuralElectrification Administration Technical Amendments Act of 1976'."
 
 #### Regulations
 

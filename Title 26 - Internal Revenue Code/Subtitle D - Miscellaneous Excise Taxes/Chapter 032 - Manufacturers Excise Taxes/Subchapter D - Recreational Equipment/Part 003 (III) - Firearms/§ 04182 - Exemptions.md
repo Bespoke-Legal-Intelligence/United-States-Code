@@ -20,7 +20,7 @@ No firearms, pistols, revolvers, shells, and cartridges purchased with funds app
 
 #### (d) Records
 
-Notwithstanding the provisions of sections 922(b)(5) and 923(g) of title 18, United States Code, no person holding a Federal license under chapter 44 of title 18, United States Code, shall be required to record the name, address, or other information about the purchaser of shotgun ammunition, ammunition suitable for use only inrifles generally available in commerce, or component parts for the aforesaid types of ammunition.
+Notwithstanding the provisions of sections 922(b)(5) and 923(g) of title 18, United States Code, no person holding a Federal license under chapter 44 of title 18, United States Code, shall be required to record the name, address, or other information about the purchaser of shotgun ammunition, ammunition suitable for use only in rifles generally available in commerce, or component parts for the aforesaid types of ammunition.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 490; Pub. L. 91–128, §5, Nov. 26, 1969, 83 Stat. 269; Pub. L. 109–59, title XI, §11131(a), Aug. 10, 2005, 119 Stat. 1959.)
 

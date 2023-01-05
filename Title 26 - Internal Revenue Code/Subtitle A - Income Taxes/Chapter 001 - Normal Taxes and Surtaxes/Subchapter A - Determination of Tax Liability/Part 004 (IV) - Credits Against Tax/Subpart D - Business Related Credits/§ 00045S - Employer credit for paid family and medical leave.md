@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;An added employer shall not be treated as an eligible employer unless such employerprovides paid family and medical leave in compliance with a written policy which ensures that the employer—
+&emsp;&emsp;An added employer shall not be treated as an eligible employer unless such employer provides paid family and medical leave in compliance with a written policy which ensures that the employer—
 
 &emsp;&emsp;&emsp;(i) will not interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under the policy, and
 
@@ -142,7 +142,7 @@ Section 3(e) of the Fair Labor Standards Act of 1938, referred to in subsec. (d)
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §119(b), Dec. 27, 2020, 134 Stat. 3051, provided that: "The amendment made by this section \[amending this section\] shall apply to wages paid in taxable years beginning after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §119(b), Dec. 27, 2020, 134 Stat. 3051, provided that: "The amendment made bythis section \[amending this section\] shall apply to wages paid in taxable years beginning after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 

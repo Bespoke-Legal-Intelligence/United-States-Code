@@ -84,7 +84,7 @@ In this section:
 
 #### (ii) Expertise
 
-&emsp;&emsp;&emsp;A majority of members appointed to the Board shall have education or experience relating to natural, cultural, conservation,or other resource management, law, or research.
+&emsp;&emsp;&emsp;A majority of members appointed to the Board shall have education or experience relating to natural, cultural, conservation, or other resource management, law, or research.
 
 #### (iii) Diverse points of view
 

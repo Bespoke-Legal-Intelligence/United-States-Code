@@ -78,7 +78,7 @@ For each award year after award year 1993–1994, the Secretary shall publish in
 
 #### Amendment of Section
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(g), Dec. 27, 2020, 134 Stat. 3137, 3150, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(g), Dec. 27, 2020, 134 Stat. 3137, 3150; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
 
 #### §1087rr. Regulations; updated tables
 
@@ -134,7 +134,7 @@ Farm/Business Net Worth Adjustment
 
 <i>For award year 2023–2024 and each subsequent award year, the Secretary shall publish in the Federal Register a revised table of assessments from adjusted available income for the purpose of sections 1087oo(e) and 1087qq(d) of this title. Such revised table shall be developed—</i>
 
-&emsp;<i>(1) by increasing each dollar amount that refers to adjusted available income by a percentage</i><i>equal to the percentage increase in the Consumer Price Index between April 2020 and the April in the year prior to the beginning of such academic year, rounded to the nearest $100; and</i>
+&emsp;<i>(1) by increasing each dollar amount that refers to adjusted available income by a percentage equal to the percentage increase in the Consumer Price Index between April 2020 and the April in the year prior to the beginning of such academic year, rounded to the nearest $100; and</i>
 
 &emsp;<i>(2) by adjusting the other dollar amounts to reflect the changes made pursuant to paragraph (1).</i>
 
@@ -148,7 +148,7 @@ Farm/Business Net Worth Adjustment
 
 #### <i>(h) Clarification for award year 2023–2024</i>
 
-<i>For award year 2023–2024, the Secretary shall determine adjusted amounts and prescribe revised tables with respect to the income protection, employment expense, and asset protection allowances and the assessment schedules under sections 1087oo, 1087pp, and 1087qq of this title, pursuant to this section. The amounts and tables specified in sections 1087oo, 1087pp, and 1087qq of this title with respect to such allowances and schedules shall only be used by the Secretary as a baseline for adjustments and table revisions prescribed in accordance with this section.</i>
+<i>For award year 2023–2024, the Secretary shall determine adjusted amounts and prescribe revised tables with respect to the income protection, employment expense, and asset protection allowances and the assessment schedules under sections 1087oo, 1087pp, and 1087qq of this title, pursuant to this section. The amounts and tables specified in sections</i><i>1087oo, 1087pp, and 1087qq of this title with respect to such allowances and schedules shall only be used by the Secretary as a baseline for adjustments and table revisions prescribed in accordance with this section.</i>
 
 <i>See 2020 Amendment note below.</i>
 
@@ -190,7 +190,7 @@ Subsec. (f). Pub. L. 100–50, §14(22), substituted "Consumer Price Index for A
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2007 Amendment
 
@@ -206,7 +206,7 @@ Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. 
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

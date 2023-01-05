@@ -10,7 +10,7 @@ Before any oil or gas subject to this section may be exported under the requirem
 
 #### (c) Report of findings by President to Congress; joint resolution of disagreement with findings of President
 
-The President shall submit reports to the Congress containing findings made under this section, and after the date of receipt of such report Congress shall have a period of sixty calendar days, thirty days of which Congress must have been in session, to consider whether exports under the terms of this section are in the national interest. If the Congress within such timeperiod passes a concurrent resolution of disapproval stating disagreement with the President's finding concerning the national interest, further exports made pursuant to such Presidential findings shall cease.
+The President shall submit reports to the Congress containing findings made under this section, and after the date of receipt of such report Congress shall have a period of sixty calendar days, thirty days of which Congress must have been in session, to consider whether exports under the terms of this section are in the national interest. If the Congress within such time period passes a concurrent resolution of disapproval stating disagreement with the President's finding concerning the national interest, further exports made pursuant to such Presidential findings shall cease.
 
 #### (d) Exchange or temporary exportation of oil and gas for convenience or efficiency of transportation
 
@@ -22,5 +22,5 @@ The provisions of this section shall not apply to any oil or gas which is either
 
 #### References in Text
 
-The Export Administration Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–184, Dec. 30, 1969, 83 Stat. 841, as amended, which was formerly classified to sections 2401 to 2413 of the former Appendix to Title 50, War and National Defense, and which terminated on Sept. 30, 1979, pursuant to the terms of that Act. See chapter 56 (§4601 et seq.) of Title 50, War and National Defense.
+The Export Administration Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–184, Dec. 30, 1969, 83 Stat. 841, which was formerly classified to sections 2401 to 2413 of the former Appendix to Title 50, War and National Defense, and which terminated on Sept. 30, 1979, pursuant to the terms of that Act. See chapter 56 (§4601 et seq.) of Title 50, War and National Defense.
 

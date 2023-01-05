@@ -14,7 +14,7 @@ Should the provisions of Schedule D of the Articles of Agreement of the Fund app
 
 #### (d) Compensation for services
 
-(1) No person shall be entitled to receive any salary or other compensation from the UnitedStates for services as a Governor, executive director, councillor, alternate, or associate.
+(1) No person shall be entitled to receive any salary or other compensation from the United States for services as a Governor, executive director, councillor, alternate, or associate.
 
 (2) The United States executive director of the Fund shall not be compensated by the Fund at a rate in excess of the rate provided for an individual occupying a position at level IV of the Executive Schedule under section 5315 of title 5. The United States alternate executive director of the Fund shall not be compensated by the Fund at a rate in excess of the rate provided for an individual occupying a position at level V of the Executive Schedule under section 5316 of title 5.
 
@@ -38,7 +38,7 @@ Subsec. (d). Pub. L. 94–564, §2(2), added subsec. (d).
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–564, §9, Oct. 19, 1976, 90 Stat. 2661, provided that: "The amendments made by sections 2, 3, 4, 5, 6, and 7 of this Act \[amending this section, sections 286c, 286e–2, 286o, 286q, and 286r of this title, and section 822a of former Title 31, Money and Finance\] shall become effective upon the entry into force of the amendments to the Articles of Agreement of the International Monetary Fund approved in Resolution Numbered 31–4 of the Board of Governors of the Fund." Such amendments entered into force Apr. 1, 1978.
+Pub. L. 94–564, §9, Oct. 19, 1976, 90 Stat. 2661, provided that: "The amendments made by sections 2, 3, 4, 5, 6,and 7 of this Act \[amending this section, sections 286c, 286e–2, 286o, 286q, and 286r of this title, and section 822a of former Title 31, Money and Finance\] shall become effective upon the entry into force of the amendments to the Articles of Agreement of the International Monetary Fund approved in Resolution Numbered 31–4 of the Board of Governors of the Fund." Such amendments entered into force Apr. 1, 1978.
 
 #### Levels of Fund Salaries and Minimization of Travel Costs
 

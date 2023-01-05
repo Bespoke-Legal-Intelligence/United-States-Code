@@ -58,11 +58,11 @@
 
 &emsp;&emsp;&emsp;(iv) contact information for the person submitting the report; and
 
-&emsp;&emsp;&emsp;(v) a verification by the person submitting the information that the informationsubmitted is true and accurate to the best of the person's knowledge and that the person consents that such information be included in the database.
+&emsp;&emsp;&emsp;(v) a verification by the person submitting the information that the information submitted is true and accurate to the best of the person's knowledge and that the person consents that such information be included in the database.
 
 #### (3) Additional information
 
-&emsp;In addition to the reports received under paragraph (1), the Commission shall include in the database, consistent with the requirements of section 2055(a) and (b) of this title, any additional information it determines to be in the public interest.
+&emsp;In addition to the reports received under paragraph (1), the Commission shall include inthe database, consistent with the requirements of section 2055(a) and (b) of this title, any additional information it determines to be in the public interest.
 
 #### (4) Organization of database
 
@@ -130,7 +130,7 @@
 
 #### (A) Inaccurate information in reports and comments received
 
-&emsp;&emsp;If, prior to making a report described in subsection (b)(1)(A) or a comment describedin paragraph (2) of this subsection available in the database, the Commission receives notice that the information in such report or comment is materially inaccurate, the Commission shall stay the publication of the report on the database as required under paragraph (3) for a period of no more than 5 additional days. If the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—
+&emsp;&emsp;If, prior to making a report described in subsection (b)(1)(A) or a comment described in paragraph (2) of this subsection available in the database, the Commission receives notice that the information in such report or comment is materially inaccurate, the Commission shall stay the publication of the report on the database as required under paragraph (3) for a period of no more than 5 additional days. If the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—
 
 &emsp;&emsp;&emsp;(i) decline to add the materially inaccurate information to the database;
 
@@ -218,7 +218,7 @@ In this section, the term "harm" means—
 
 <b>2011</b>—Subsec. (c)(3)(A). Pub. L. 112–28, §7(1), inserted "or paragraph (5)" after "paragraph (4)(A)".
 
-Subsec. (c)(4)(A). Pub. L. 112–28, §7(2), substituted "receives notice that the information in such report or comment is materially inaccurate, the Commissionshall stay the publication of the report on the database as required under paragraph (3) for a period of no more than 5 additional days. If the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—" for "determines that the information in such report or comment is materially inaccurate, the Commission shall—" in introductory provisions.
+Subsec. (c)(4)(A). Pub. L. 112–28, §7(2), substituted "receives notice that the information in such report or comment is materially inaccurate, the Commission shall stay the publication of the report on the database as required under paragraph (3) for a period of no more than 5 additional days. If the Commission determines that the information in such report or comment is materially inaccurate, the Commission shall—" for "determines that the information in such report or comment is materially inaccurate, the Commission shall—" in introductory provisions.
 
 Subsec. (c)(5). Pub. L. 112–28, §7(3), added par. (5).
 

@@ -22,7 +22,7 @@ Judgments.—Notwithstanding subsections (a) to (c), any judgment against the Te
 
 &emsp;(2)
 
-Monetary awards.—Notwithstanding subsections (a) to (c), any monetary award to a contractor by the board of contract appeals of the Tennessee Valley Authority shall be paid in accordance with section 9(b) of theTennessee Valley Authority Act of 1933 (16 U.S.C. 831h(b)).
+Monetary awards.—Notwithstanding subsections (a) to (c), any monetary award to a contractor by the board of contract appeals of the Tennessee Valley Authority shall be paid in accordance with section 9(b) of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 831h(b)).
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3825.)
 

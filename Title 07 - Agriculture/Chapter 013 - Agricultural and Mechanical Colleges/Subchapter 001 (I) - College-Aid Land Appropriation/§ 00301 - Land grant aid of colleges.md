@@ -8,7 +8,7 @@ There is granted to the several States, for the purposes hereinafter mentioned i
 
 #### Codification
 
-Act July 2, 1862, with the exception of section 7, was not incorporated into the Revised Statutes, probablybecause the grants made thereby were regarded as executed, and the provisions incidental thereto as temporary. By act Mar. 3, 1883, ch. 102, 22 Stat. 484, however, section 4 of the original act was amended to read as set out under section 304 of this title.
+Act July 2, 1862, with the exception of section 7, was not incorporated into the Revised Statutes, probably because the grants made thereby were regarded as executed, and the provisions incidental thereto as temporary. By act Mar. 3, 1883, ch. 102, 22 Stat. 484, however, section 4 of the original act was amended to read as set out under section 304 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -292,7 +292,7 @@ Authorization of Appropriations.—There are authorized to be appropriated such 
 
 \[Pub. L. 110–234, title VII, §7402(f), May 22, 2008, 122 Stat. 1246, and Pub. L. 110–246, §4(a), title VII, §7402(f), June 18, 2008, 122 Stat. 1664, 2007, provided that: "The amendment made by subsection (a) \[amending section 532 of Pub. L. 103–382, set out above\] takes effect on October 1, 2008."
 
-\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a)of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
+\[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 #### Land Grant Colleges in American Samoa, Northern Mariana Islands, and Trust Territory of the Pacific Islands
 

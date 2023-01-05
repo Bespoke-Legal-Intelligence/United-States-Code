@@ -44,7 +44,7 @@ Reporting.—Not later than December 31, 1995, and annually thereafter, the Admi
 
 &emsp;(5)
 
-Authorization of appropriations.—There is authorized to be appropriated to theAdministrator, $5,000,000 for each of fiscal years 2021 through 2023, to carry out this subsection. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended.
+Authorization of appropriations.—There is authorized to be appropriated to the Administrator, $5,000,000 for each of fiscal years 2021 through 2023, to carry out this subsection. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended.
 
 (f)
 

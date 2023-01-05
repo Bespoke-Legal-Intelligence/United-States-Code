@@ -64,13 +64,13 @@ Counting Fractional Years of Service.—In determining a member's years of activ
 
 (g)
 
-Coordination With Other Separation or Severance Pay Benefits.—A period for which a member has previously received separation pay under this section or severance pay or readjustment pay under any other provision of law based on service in the armed forces may not be included in determining the years of service that may be counted in computing the separation pay of the member under this section.
+Coordination With Other Separation or Severance Pay Benefits.—A period for which a member has previously received separation payunder this section or severance pay or readjustment pay under any other provision of law based on service in the armed forces may not be included in determining the years of service that may be counted in computing the separation pay of the member under this section.
 
 (h)
 
 Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A member who has received separation pay under this section, or separation pay, severance pay, or readjustment pay under any other provision of law, based on service in the armed forces, and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay an amount, in such schedule of monthly installments as the Secretary of Defense shall specify, taking into account the financial ability of the member to pay and avoiding the imposition of undue financial hardship on the member and member's dependents, until the total amount deducted is equal to the total amount of separation pay, severance pay, and readjustment pay so paid.
 
-(2) A member who has received separation pay under this section, or severance pay or readjustment pay under any other provision of law, based on service in the armed forces shall not be deprived, by reason of his receipt of such separation pay, severance pay, or readjustment pay, of any disability compensation to which he is entitled under the laws administered by the Department of Veterans Affairs, but there shall be deducted from that disability compensation an amount equal to the total amount of separation pay, severance pay, and readjustment pay received, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal incometax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986). Notwithstanding the preceding sentence, no deduction may be made from disability compensation for the amount of any separation pay, severance pay, or readjustment pay received because of an earlier discharge or release from a period of active duty if the disability which is the basis for that disability compensation was incurred or aggravated during a later period of active duty.
+(2) A member who has received separation pay under this section, or severance pay or readjustment pay under any other provision of law, based on service in the armed forces shall not be deprived, by reason of his receipt of such separation pay, severance pay, or readjustment pay, of any disability compensation to which he is entitled under the laws administered by the Department of Veterans Affairs, but there shall be deducted from that disability compensation an amount equal to the total amount of separation pay, severance pay, and readjustment pay received, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal income tax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986). Notwithstanding the preceding sentence, no deduction may be made from disability compensation for the amount of any separation pay, severance pay, or readjustment pay received because of an earlier discharge or release from a period of active duty if the disability which is the basis for that disability compensation was incurred or aggravated during a later period of active duty.
 
 (i)
 
@@ -204,7 +204,7 @@ Pub. L. 111–32, title III, §318(c), June 24, 2009, 123 Stat. 1874, provided t
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Sept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted afterSept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2004 Amendment
 

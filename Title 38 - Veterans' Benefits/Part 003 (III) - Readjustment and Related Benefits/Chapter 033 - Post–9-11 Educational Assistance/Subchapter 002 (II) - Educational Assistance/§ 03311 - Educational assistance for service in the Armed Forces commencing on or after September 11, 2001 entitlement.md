@@ -18,11 +18,19 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;&emsp;&emsp;(ii) is discharged or released from active duty as described in subsection (c).
 
-&emsp;(2) An individual who—
+&emsp;(2) An individual—
 
-&emsp;&emsp;(A) commencing on or after September 11, 2001, serves at least 30 continuous days on active duty in the Armed Forces; and
+&emsp;&emsp;(A) who—
 
-&emsp;&emsp;(B) after completion of service described in subparagraph (A), is discharged or released from active duty in the Armed Forces for a service-connected disability.
+&emsp;&emsp;&emsp;(i) commencing on or after September 11, 2001, serves at least 30 continuous days on active duty in the Armed Forces; and
+
+&emsp;&emsp;&emsp;(ii) after completion of service described in clause (i), is discharged or released from active duty in the Armed Forces for a service-connected disability or by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10); or
+
+&emsp;&emsp;(B) who—
+
+&emsp;&emsp;&emsp;(i) commencing on or after September 11, 2001, completes at least 30 continuous days of service described in subsection (d)(1) or (2); and
+
+&emsp;&emsp;&emsp;(ii) after completion of service described in clause (i), is discharged or released by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10).
 
 &emsp;(3) An individual who—
 
@@ -76,7 +84,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;(8) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
 
-&emsp;(9) An individual who is the child or spouse of a person who, on or after September 11, 2001,dies in line of duty while serving on duty other than active duty as a member of the Armed Forces.
+&emsp;(9) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on duty other than active duty as a member of the Armed Forces.
 
 &emsp;(10) An individual who is the child or spouse of a member of the Selected Reserve who dies on or after September 11, 2001, while a member of the Selected Reserve from a service-connected disability.
 
@@ -102,7 +110,7 @@ Covered Discharges and Releases.—A discharge or release from active duty of an
 
 (d)
 
-Prohibition on Treatment of Certain Service as Period of Active Duty.—The following periods of service shall not be considered a part of the period of active duty on which an individual's entitlement to educational assistance under this chapter is based:
+Prohibition on Treatment of Certain Service as Period of Active Duty.—Except as provided in subsection (b)(2)(B), the following periods of service shall not be considered a part of the period of active duty on which an individual's entitlement to educational assistance under this chapter is based:
 
 &emsp;(1) A period of service on active duty of an officer pursuant to an agreement under section 2107(b) of title 10.
 
@@ -160,7 +168,7 @@ Eligible surviving spouse.—A spouse described in this subparagraph is an indiv
 
 Definition of child.—For purposes of paragraphs (8), (9), and (10) of subsection (b), the term "child" includes a married individual or an individual who is above the age of twenty-three years.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug.16, 2017, 131 Stat. 975; Pub. L. 115–232, div. A, title VIII, §809(n)(3), Aug. 13, 2018, 132 Stat. 1844; Pub. L. 116–315, title I, §1002(a), (b)(1), Jan. 5, 2021, 134 Stat. 4938.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug. 16, 2017, 131 Stat. 975; Pub. L. 115–232, div. A, title VIII, §809(n)(3), Aug. 13, 2018, 132 Stat. 1844; Pub. L. 116–315, title I, §1002(a), (b)(1), Jan. 5, 2021, 134 Stat. 4938; Pub. L. 117–333, §10(b), (c), Jan. 5, 2023, 136 Stat. 6131, 6132.)
 
 #### <b>Editorial Notes</b>
 
@@ -171,6 +179,14 @@ Section 182 of title 14, referred to in subsec. (d)(2), was repealed by Pub. L. 
 The date of the enactment of this paragraph, referred to in subsec. (f)(4)(A), is the date of enactment of Pub. L. 114–315, which was approved Dec. 16, 2016.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(2). Pub. L. 117–333, 10(b)(1)–(3), struck out "who" after "individual" in introductory provisions, inserted "(A) who—" after "individual—", and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins.
+
+Subsec. (b)(2)(A)(ii). Pub. L. 117–333, §10(b)(4), substituted "in clause (i)" for "in subparagraph (A)" and "or by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10); or" for period at end.
+
+Subsec. (b)(2)(B). Pub. L. 117–333, §10(b)(5), added subpar. (B). Former subpar. (B) redesignated (A)(ii).
+
+Subsec. (d). Pub. L. 117–333, §10(c), substituted "Except as provided in subsection (b)(2)(B), the following" for "The following" in introductory provisions.
 
 <b>2021</b>—Subsec. (b)(9) to (11). Pub. L. 116–315, §1002(a), added pars. (9) and (10) and redesignated former par. (9) as (11).
 
@@ -268,7 +284,7 @@ Applicability.—The Secretary of Veterans Affairs shall begin making payments t
 
 #### Effective Date
 
-Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008Amendment note under section 16163 of Title 10, Armed Forces.
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
 
 #### Construction of Covered Individuals
 

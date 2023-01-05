@@ -116,7 +116,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) rerouting or closing an existing road or trail to protect natural resources from degradation, as determined to be appropriate by the Secretary;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) constructing a temporary road on which motorized vehicles are permitted as part of a vegetation management project in any portion of the Conservation Management Area located not more than ¼ mile from the Teton Road, South Teton Road, Sun RiverRoad, Beaver Willow Road, or Benchmark Road;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) constructing a temporary road on which motorized vehicles are permitted as part of a vegetation management project in any portion of the Conservation Management Area located not more than ¼ mile from the Teton Road, South Teton Road, Sun River Road, Beaver Willow Road, or Benchmark Road;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) authorizing the use of motorized vehicles for administrative purposes (including noxious weed eradication or grazing management); or
 
@@ -208,7 +208,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;As soon as practicable after December 19, 2014, the Secretary shall prepare maps andlegal descriptions of the Conservation Management Area and the wilderness additions designated by subsections (b) and (c), respectively.
+&emsp;As soon as practicable after December 19, 2014, the Secretary shall prepare maps and legal descriptions of the Conservation Management Area and the wilderness additions designated by subsections (b) and (c), respectively.
 
 #### (2) Force of law
 
@@ -254,7 +254,7 @@ Not later than 2 years after December 19, 2014, the Secretary of Agriculture, in
 
 #### (g) Management of fish and wildlife; hunting and fishing
 
-Nothing in this section affects the jurisdiction of the State with respect to fish and wildlife management (including the regulation of hunting and fishing) on public land in the State.
+Nothing in this section affects the jurisdiction of the State with respect to fish and wildlifemanagement (including the regulation of hunting and fishing) on public land in the State.
 
 #### (h) Overflights
 
@@ -306,7 +306,7 @@ Nothing in this section affects the jurisdiction of the State with respect to fi
 
 The Act of March 1, 1911, referred to in subsec. (b)(1)(C)(ii)(I)(aa), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(1)(C)(ii)(II), (3)(A)(ii)(II),is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(1)(C)(ii)(II), (3)(A)(ii)(II), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The Wilderness Act, referred to in subsec. (c)(1), (2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 

@@ -86,7 +86,7 @@ FFRDCs.—The pilot program shall be carried out with one or more federally fund
 
 "(c)
 
-FFRDC Personnel.—Sensitive information may be disclosed to personnel of a federally funded research and development center under the pilot program only if such personnel and contractors agree to be subject to, and comply with, appropriate ethics standards and requirements applicable to Government personnel, including the Ethics in Government Act of 1978 \[5 U.S.C. App.\], section 1905 of title 18, United States Code, and chapter 21 of title 41, United States Code.
+FFRDC Personnel.—Sensitive information may be disclosed to personnel of a federally funded research and development center under the pilot program only if such personnel and contractors agree to be subject to,and comply with, appropriate ethics standards and requirements applicable to Government personnel, including the Ethics in Government Act of 1978 \[see 5 U.S.C. 13101 et seq.\], section 1905 of title 18, United States Code, and chapter 21 of title 41, United States Code.
 
 "(d)
 
@@ -112,5 +112,5 @@ Assessment.—Not later than two years after the commencement of the pilot progr
 
 "(g)
 
-Sensitive Information Defined.—In this section, the term 'sensitive information' means confidential commercial, financial, or proprietary information, technical data, contract performance, contract performance evaluation, management, and administration data, or other privileged information owned by other contractors of the Department of Defense that is exempt from public disclosure under section 552(b)(4) oftitle 5, United States Code, or which would otherwise be prohibited from disclosure under section 1832 or 1905 of title 18, United States Code."
+Sensitive Information Defined.—In this section, the term 'sensitive information' means confidential commercial, financial, or proprietary information, technical data, contract performance, contract performance evaluation, management, and administration data, or other privileged information owned by other contractors of the Department of Defense that is exempt from public disclosure under section 552(b)(4) of title 5, United States Code, or which would otherwise be prohibited from disclosure under section 1832 or 1905 of title 18, United States Code."
 

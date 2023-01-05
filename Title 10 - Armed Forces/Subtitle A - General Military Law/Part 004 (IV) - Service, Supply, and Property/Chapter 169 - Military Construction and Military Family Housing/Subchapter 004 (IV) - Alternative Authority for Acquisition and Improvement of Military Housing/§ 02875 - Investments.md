@@ -10,7 +10,7 @@ Forms of Investment.—An investment under this section may take the form of an 
 
 (c)
 
-Limitation on Value of Investment.—(1) The cash amount of an investment under this section in an eligible entity may not exceed an amount equal to 331/3 percent of the capital cost (as determined by the Secretary concerned) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
+Limitation on Value of Investment.—(1) The cash amount of an investment under thissection in an eligible entity may not exceed an amount equal to 331/3 percent of the capital cost (as determined by the Secretary concerned) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
 
 (2) If the Secretary concerned conveys land or facilities to an eligible entity as all or part of an investment in the eligible entity under this section, the total value of the investment by the Secretary under this section may not exceed an amount equal to 45 percent of the capital cost (as determined by the Secretary) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
 

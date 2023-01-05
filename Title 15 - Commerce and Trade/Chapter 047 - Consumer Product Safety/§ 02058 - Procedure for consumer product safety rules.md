@@ -40,7 +40,7 @@ No consumer product safety rule may be proposed by the Commission unless the Com
 
 &emsp;(3) a discussion of the reasons for the Commission's preliminary determination that efforts proposed under subsection (a)(6) and assisted by the Commission as required by section 2054(a)(3) of this title would not, within a reasonable period of time, be likely to result in the development of a voluntary consumer product safety standard that would eliminate or adequately reduce the risk of injury addressed by the proposed rule; and
 
-&emsp;(4) a description of any reasonable alternatives to the proposed rule, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed rule.
+&emsp;(4) a description of any reasonable alternatives to the proposed rule, together with asummary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed rule.
 
 > The Commission shall transmit such notice within 10 calendar days to the appropriate Congressional committees. Any proposed consumer product safety rule shall be issued within twelve months after the date of publication of the notice, unless the Commission determines that such proposed rule is not reasonably necessary to eliminate or reduce the risk of injury associated with the product or is not in the public interest. The Commission may extend the twelve-month period for good cause. If the Commission extends such period, it shall immediately transmit notice of such extension to the appropriate Congressional committees. Such notice shall include an explanation of the reasons for such extension, together with an estimate of the date by which the Commission anticipates such rulemaking will be completed. The Commission shall publish notice of such extension and the information submitted to the Congress in the Federal Register. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed consumer product safety standard.
 
@@ -90,7 +90,7 @@ A consumer product safety rule shall express in the rule itself the risk of inju
 
 &emsp;(C) in the case of a rule declaring the product a banned hazardous product, that no feasible consumer product safety standard under this chapter would adequately protect the public from the unreasonable risk of injury associated with such product;
 
-&emsp;(D) in the case of a rule which relates to a risk of injury with respect to which persons who would be subject to such rule have adopted and implemented a voluntary consumer product safety standard, that—
+&emsp;(D) in the case of a rule which relates to a risk of injury with respect to which personswho would be subject to such rule have adopted and implemented a voluntary consumer product safety standard, that—
 
 &emsp;&emsp;(i) compliance with such voluntary consumer product safety standard is not likely to result in the elimination or adequate reduction of such risk of injury; or
 
@@ -128,7 +128,7 @@ The Commission shall grant, in whole or in part, or deny any petition under sect
 
 Subsec. (b). Pub. L. 110–314, §204(a)(1)(B), which directed amendment of subsec. (b) by substituting "in a notice" for "in the notice", was executed by making the substitution the first place the words appeared in par. (1) after "risk of injury identified", to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 110–314, §235(c)(3), substituted "the appropriate Congressional committees" for "the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives" in two places in concluding provisions.
+Subsec. (c). Pub. L. 110–314, §235(c)(3), substituted "the appropriate Congressional committees" for "the Committee on Commerce, Science, and Transportationof the Senate and the Committee on Energy and Commerce of the House of Representatives" in two places in concluding provisions.
 
 Pub. L. 110–314, §204(a)(1)(C)–(E), in introductory provisions, substituted "unless the" for "unless, not less than 60 days after publication of the notice required in subsection (a) of this section, the" and in concluding provisions, substituted "the notice," for "an advance notice of proposed rulemaking under subsection (a) of this section relating to the product involved," and "Register. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed consumer product safety standard." for "Register."
 

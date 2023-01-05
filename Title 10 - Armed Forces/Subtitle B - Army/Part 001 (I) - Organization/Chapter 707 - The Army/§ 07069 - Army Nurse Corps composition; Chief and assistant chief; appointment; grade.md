@@ -72,13 +72,13 @@ Pub. L. 85–155, title I, §105, Aug. 21, 1957, 71 Stat. 381, provided that: "T
 
 Pub. L. 85–155, title I, §104, Aug. 21, 1957, 71 Stat. 380, provided that:
 
-"(a) This Act \[amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888,3915, 3916, 3927, 3991, 5140, 5444, 5449, 5702, 5707, 5708, 5753, 5762, 5773, 5775, 5776, 5782, 6377 to 6379, 6381, 6388, 6395, 6396, 8206, 8207, 8212, 8285 to 8288, 8297, 8298 to 8301, 8303, 8305, 8888, 8915, 8927 and 8991 of this title, and repealing sections 3881, 3882, 3887, 3912, 3928, 8291, 8304, 8881, 8882, 8887, 8912 and 8928 of this title\] does not affect the appointment of an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, on the active list on the effective date of this Act \[Aug. 21, 1957\].
+"(a) This Act \[amending this section and sections 3070, 3206, 3207, 3288, 3291, 3296 to 3299, 3304, 3305, 3888, 3915, 3916, 3927, 3991, 5140, 5444, 5449, 5702, 5707, 5708, 5753, 5762, 5773, 5775, 5776, 5782, 6377 to 6379, 6381, 6388, 6395, 6396, 8206, 8207, 8212, 8285 to 8288, 8297, 8298 to 8301, 8303, 8305, 8888, 8915, 8927 and 8991 of this title, and repealing sections 3881, 3882, 3887, 3912, 3928, 8291, 8304, 8881, 8882, 8887, 8912 and 8928 of this title\] does not affect the appointment of an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, on the active list on the effective date of this Act \[Aug. 21, 1957\].
 
 "(b) This Act does not affect the retired status or retired pay of a person retired under section 108, Army-Navy Nurses Act of 1947, as amended, or any other law.
 
 "(c) An officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, on the active list on the effective date of this Act \[Aug. 21, 1957\] does not lose any years of service creditable to her on that date for promotion, computation of basic pay, or other purposes, by the enactment of this Act.
 
-"(d) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who is on a recommended list for promotion to a higher regular grade on the effective date of this Act \[Aug. 21, 1957\] may, if nominated by the President and confirmed by the Senate, be promoted to that grade.
+"(d) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who ison a recommended list for promotion to a higher regular grade on the effective date of this Act \[Aug. 21, 1957\] may, if nominated by the President and confirmed by the Senate, be promoted to that grade.
 
 "(e) Notwithstanding any other provision of law, an officer of the Army Nurse Corps, Regular Army, or the Army Medical Specialist Corps, Regular Army, who, on the effective date of this Act \[Aug. 21, 1957\], has been nominated by the President and confirmed by the Senate for appointment to any regular grade, may be appointed in that grade."
 

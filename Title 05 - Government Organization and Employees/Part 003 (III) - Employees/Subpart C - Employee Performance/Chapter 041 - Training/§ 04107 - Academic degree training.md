@@ -90,7 +90,7 @@ Subsec. (a). Pub. L. 103–226, §2(a)(5)(B), (C), redesignated subsec. (c) as (
 
 &emsp;"(2) by or through an individual concerning whom determination has been made by a proper Government administrative or investigatory authority that, on the basis of information or evidence developed in investigations and procedures authorized by law or Executive order, there exists a reasonable doubt of his loyalty to the United States."
 
-Subsec. (b). Pub. L. 103–226, §2(a)(5)(B), (D), redesignated subsec. (d) as (b), substituted "subsection (a)" for "subsection (c)" in par. (1), and struck out former subsec. (b) which read as follows: "This chapter does not authorize training an employee by, in, or through a non-Government facility a substantial part of the activities of which is—
+Subsec. (b). Pub. L. 103–226, §2(a)(5)(B), (D), redesignated subsec. (d) as (b), substituted "subsection (a)" for"subsection (c)" in par. (1), and struck out former subsec. (b) which read as follows: "This chapter does not authorize training an employee by, in, or through a non-Government facility a substantial part of the activities of which is—
 
 &emsp;"(1) carrying on propaganda, or otherwise attempting, to influence legislation; or
 

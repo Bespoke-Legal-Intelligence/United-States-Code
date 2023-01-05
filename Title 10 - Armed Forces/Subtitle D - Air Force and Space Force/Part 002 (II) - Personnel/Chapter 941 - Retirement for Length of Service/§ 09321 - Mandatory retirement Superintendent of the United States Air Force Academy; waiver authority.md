@@ -6,13 +6,15 @@ Mandatory Retirement.—Upon the termination of the detail of an officer to the 
 
 (b)
 
-Waiver Authority.—The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment.
+Waiver Authority.—The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment. In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate.
 
-(Added Pub. L. 106–65, div. A, title V, §532(a)(3)(A), Oct. 5, 1999, 113 Stat. 603, §8921; amended Pub. L. 108–375, div. A, title V, §541(a)(3), (c)(3)(A), Oct. 28, 2004, 118 Stat. 1902, 1904; renumbered §9321, Pub. L. 115–232, div. A, title VIII, §806(b)(13), Aug. 13, 2018, 132 Stat. 1833.)
+(Added Pub. L. 106–65, div. A, title V, §532(a)(3)(A), Oct. 5, 1999, 113 Stat. 603, §8921; amended Pub. L. 108–375, div. A, title V, §541(a)(3), (c)(3)(A), Oct. 28, 2004, 118 Stat. 1902, 1904; renumbered §9321, Pub. L. 115–232, div. A, title VIII, §806(b)(13), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 117–263, div. A, title V, §509(c), Dec. 23, 2022, 136 Stat. 2560.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–263 inserted at end "In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to afurther assignment in lieu of retirement shall be subject to the advice and consent of the Senate."
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8921 of this title as this section.
 

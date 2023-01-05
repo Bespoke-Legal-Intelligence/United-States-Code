@@ -56,9 +56,9 @@ Loans, loan guarantees, and other investments made pursuant to subsection (a) sh
 
 &emsp;&emsp;(G) the agreement provides that, until September 30, 2020, the eligible business shall maintain its employment levels as of March 24, 2020, to the extent practicable, and in any case shall not reduce its employment levels by more than 10 percent from the levels on such date;
 
-&emsp;&emsp;(H) the agreement includes a certification by the eligible business that it is created ororganized in the United States or under the laws of the United States and has significant operations in and a majority of its employees based in the United States; and
+&emsp;&emsp;(H) the agreement includes a certification by the eligible business that it is created or organized in the United States or under the laws of the United States and has significant operations in and a majority of its employees based in the United States; and
 
-&emsp;&emsp;(I) for purposes of a loan or loan guarantee under paragraphs (1), (2), and (3) of subsection (b), the eligible business must have incurred or is expected to incur covered losses such that the continued operations of the business are jeopardized, as determined by the Secretary.
+&emsp;&emsp;(I) for purposes of a loan or loan guarantee under paragraphs (1), (2), and (3) of subsection (b), the eligible business must have incurred or is expected to incur covered losses such that the continued operations ofthe business are jeopardized, as determined by the Secretary.
 
 #### (3) Federal reserve programs or facilities
 
@@ -110,7 +110,7 @@ Loans, loan guarantees, and other investments made pursuant to subsection (a) sh
 
 &emsp;&emsp;&emsp;&emsp;(V) the recipient is not a debtor in a bankruptcy proceeding;
 
-&emsp;&emsp;&emsp;&emsp;(VI) the recipient is created or organized in the United States or under thelaws of the United States and has significant operations in and a majority of its employees based in the United States;
+&emsp;&emsp;&emsp;&emsp;(VI) the recipient is created or organized in the United States or under the laws of the United States and has significant operations in and a majority of its employees based in the United States;
 
 &emsp;&emsp;&emsp;&emsp;(VII) the recipient will not pay dividends with respect to the common stock of the eligible business, or repurchase an equity security that is listed on a national securities exchange of the recipient or any parent company of the recipient while the direct loan is outstanding, except to the extent required under a contractual obligation that is in effect as of March 27, 2020;
 
@@ -178,7 +178,7 @@ Notwithstanding any other provision of law, amounts collected under subsection (
 
 #### (f) Administrative provisions
 
-Notwithstanding any other provision of law, the Secretary may use not greater than $100,000,000 of the funds made available under section 9061 of this title to pay costs and administrative expenses associated with the loans, loan guarantees, and other investments authorized under this section. The Secretary is authorized to take such actions as the Secretary deems necessary to carry out the authorities in this part, including, without limitation—
+Notwithstanding any other provision of law, the Secretary may use not greater than 61,000,000 <sup>1</sup> of the funds made available under section 9061 of this title to pay costs and administrative expenses associated with the loans, loan guarantees, and other investments authorized under this section. The Secretary is authorized to take such actions as the Secretary deems necessary to carry out the authorities in this part, including, without limitation—
 
 &emsp;(1) using direct hiring authority to hire employees to administer this part;
 
@@ -190,7 +190,7 @@ Notwithstanding any other provision of law, the Secretary may use not greater th
 
 #### (g) Financial agents
 
-The Secretary is authorized to designate financial institutions, including but not limited to, depositories, brokers, dealers, and other institutions, as financial agents of the United States. Such institutions shall—
+The Secretary is authorized to designate financial institutions, including but not limitedto, depositories, brokers, dealers, and other institutions, as financial agents of the United States. Such institutions shall—
 
 &emsp;(1) perform all reasonable duties the Secretary determines necessary to respond to the coronavirus; and
 
@@ -206,7 +206,7 @@ The Secretary is authorized to designate financial institutions, including but n
 
 &emsp;The Secretary of the Treasury (or the Secretary's delegate) shall prescribe such regulations or guidance as may be necessary or appropriate to carry out the purposes of this section, including guidance providing that the acquisition of warrants, stock options, common or preferred stock or other equity under this section does not result in an ownership change for purposes of section 382 of the Internal Revenue Code of 1986 \[26 U.S.C. 382\].
 
-(Pub. L. 116–136, div. A, title IV, §4003, Mar. 27, 2020, 134 Stat. 470; Pub. L. 116–260, div. N, title X, §§1003(b)(1), 1004, Dec. 27, 2020, 134 Stat. 2146.)
+(Pub. L. 116–136, div. A, title IV, §4003, Mar. 27, 2020, 134 Stat. 470; Pub. L. 116–260, div. N, title X, §§1003(b)(1), 1004, Dec. 27, 2020, 134 Stat. 2146; Pub. L. 117–328, div. LL, §102(d)(1)(A), Dec. 29, 2022, 136 Stat. 6103.)
 
 #### <b>Editorial Notes</b>
 
@@ -219,6 +219,8 @@ This part, referred to in subsecs. (e)(1) and (f), was in the original "this sub
 The Internal Revenue Code of 1986, referred to in subsec. (h)(1), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–328 substituted "61,000,000" for "$100,000,000" in introductory provisions.
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–260, §1003(b)(1)(A), substituted "$0" for "$500,000,000,000".
 
@@ -234,6 +236,10 @@ Subsec. (e). Pub. L. 116–260, §1004, substituted "Notwithstanding any other p
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 effective upon issuance of guidance or the promulgation of a rule by the Secretary of the Treasury, in consultation with the Secretary of Transportation, see section 102(c) of Pub. L. 117–328, set out as a note under secton 802 of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. N, title X, §1003(b)(1), Dec. 27, 2020, 134 Stat. 2146, provided in part that the amendment made by section 1003(b)(1) is effective Jan. 9, 2021.
@@ -242,5 +248,5 @@ Pub. L. 116–260, div. N, title X, §1003(b)(1), Dec. 27, 2020, 134 Stat. 2146,
 
 Pub. L. 116–260, div. N, title X, §1003(b)(2), Dec. 27, 2020, 134 Stat. 2146, provided that: "The amendments made under paragraph (1) \[amending this section\] shall not be construed to affect obligations incurred by the Department of the Treasury before January 1, 2021."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "$0".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by a dollar sign.</i>
 

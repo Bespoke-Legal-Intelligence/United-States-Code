@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 #### (5) Federal banking agencies
 
-&emsp;The term "Federal banking agencies" means the Office of the Comptroller of the Currency,the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
+&emsp;The term "Federal banking agencies" means the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation.
 
 #### (6) State
 

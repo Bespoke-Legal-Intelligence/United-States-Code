@@ -48,7 +48,7 @@ A contribution accepted by a candidate, and any other donation received by an in
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this Act, a candidate for election for Federal office\(other than a candidate who is subject to paragraph (2)), or any authorized committee of such a candidate, may not make any expenditure for a flight on an aircraft unless—
+&emsp;Notwithstanding any other provision of this Act, a candidate for election for Federal office (other than a candidate who is subject to paragraph (2)), or any authorized committee of such a candidate, may not make any expenditure for a flight on an aircraft unless—
 
 &emsp;&emsp;(A) the aircraft is operated by an air carrier or commercial operator certificated by the Federal Aviation Administration and the flight is required to be conducted under air carrier safety rules, or, in the case of travel which is abroad, by an air carrier or commercial operator certificated by an appropriate foreign civil aviation authority and the flight is required to be conducted under air carrier safety rules; or
 

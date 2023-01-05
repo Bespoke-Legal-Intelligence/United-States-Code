@@ -8,7 +8,7 @@
 
 > shall be punished as provided in paragraph (2).
 
-(2) The punishment for an offense under paragraph (1) is a fine as established under this title or imprisonment for not more than 10 years, or both, except that the term of imprisonment shall be not more than 15 years if the statement or report or overvaluing of land, property, or security jeopardized the safety and soundness of an insurer and was a significant cause of such insurer being placed in conservation, rehabilitation, or liquidation by an appropriate court.
+(2) The punishment for an offense under paragraph (1) is a fine as established under this title or imprisonment for not more than 10 years, or both, except that the term of imprisonment shall be not more than 15 years if the statement or report or overvaluing of land, property, or security jeopardized the safety and soundness of an insurer and was a significant cause of suchinsurer being placed in conservation, rehabilitation, or liquidation by an appropriate court.
 
 (b)(1) Whoever—
 

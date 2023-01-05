@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Postal Service may establish 1 or more programs to provide bonuses or other rewards to officers and employees of the Postal Service in senior executive or equivalentpositions to achieve the objectives of this chapter.
+In General.—The Postal Service may establish 1 or more programs to provide bonuses or other rewards to officers and employees of the Postal Service in senior executive or equivalent positions to achieve the objectives of this chapter.
 
 (b)
 

@@ -111,7 +111,7 @@
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended Pub. L. 114–328, §5452. See 2016 Amendment note below.
 
-Pub. L. 115–91, div. A, title V, §533(b), Dec. 12, 2017, 131 Stat. 1390, added item 917a. As amended generally by section 5452 of Pub. L. 114–328, which was enacted Dec. 23, 2016, but effective Jan. 1, 2019 (see 2016 Amendmentnote below), analysis no longer included item 917a, but item was added back editorially, to reflect the probable intent of Congress.
+Pub. L. 115–91, div. A, title V, §533(b), Dec. 12, 2017, 131 Stat. 1390, added item 917a. As amended generally by section 5452 of Pub. L. 114–328, which was enacted Dec. 23, 2016, but effective Jan. 1, 2019 (see 2016 Amendment note below), analysis no longer included item 917a, but item was added back editorially, to reflect the probable intent of Congress.
 
 <b>2016</b>—Pub. L. 114–328, div. E, title LX, §5452, Dec. 23, 2016, 130 Stat. 2958, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended analysis generally, substituting items 877 to 934 for former items 877 to 934.
 

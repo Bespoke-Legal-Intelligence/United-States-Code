@@ -24,7 +24,7 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(19)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2582 "Military equipment identified on United States munitions list: annual report of public sales".
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(19)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2582 "Militaryequipment identified on United States munitions list: annual report of public sales".
 
 Pub. L. 111–383, div. A, title X, §1072(c)(2), Jan. 7, 2011, 124 Stat. 4366, substituted "Surplus military equipment: sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies" for "Surplus military equipment: sale to State and local law enforcement and firefighting agencies" in item 2576.
 

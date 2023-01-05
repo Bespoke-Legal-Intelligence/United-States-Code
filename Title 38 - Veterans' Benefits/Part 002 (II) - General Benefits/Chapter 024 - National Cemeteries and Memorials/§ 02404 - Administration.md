@@ -12,15 +12,17 @@
 
 &emsp;(B) in the case of any cemetery with a section which has flat markers on October 28, 1986, the Secretary may continue to provide for flat grave markers in such section;
 
-&emsp;(C) in the case of any cemetery located on the grounds of or adjacent to a Department health-care facility, the Secretary may provide for flat grave markers; and
+&emsp;(C) in the case of any cemetery located on the grounds of or adjacent to a Department health-care facility, the Secretary may provide for flat grave markers;
 
-&emsp;(D) in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers.
+&emsp;(D) in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers; and
+
+&emsp;(E) in the case of grave sites in a green burial section designated under subsection (i), the Secretary may provide for grave markers of such type as the Secretary considers appropriate.
 
 (d) There shall be kept in each national cemetery, and at the main office of the Department, a register of burials in each cemetery setting forth the name of each person buried in the cemetery, the number of the grave in which the veteran is buried, and such other information as the Secretary by regulation may prescribe.
 
 (e) In carrying out the Secretary's responsibilities under this chapter, the Secretary may contract with responsible persons, firms, or corporations for the care and maintenance of such cemeteries under the Secretary's jurisdiction as the Secretary shall choose, under such terms and conditions as the Secretary may prescribe.
 
-(f)(1) The Secretary is authorized to convey to any State, or political subdivision thereof, inwhich any national cemetery is located, all right, title, and interest of the United States in and to any Government owned or controlled approach road to such cemetery if, prior to the delivery of any instrument of conveyance, the State or political subdivision to which such conveyance is to be made notifies the Secretary in writing of its willingness to accept and maintain the road included in such conveyance. Upon the execution and delivery of such a conveyance, the jurisdiction of the United States over the road conveyed shall cease and thereafter vest in the State or political subdivision concerned.
+(f)(1) The Secretary is authorized to convey to any State, or political subdivision thereof, in which any national cemetery is located, all right, title, and interest of the United States in and to any Government owned or controlled approach road to such cemetery if, prior to the delivery of any instrument of conveyance, the State or political subdivision to which such conveyance is to be made notifies the Secretary in writing of its willingness to accept and maintain the road included in such conveyance. Upon the execution and delivery of such a conveyance, the jurisdiction of the United States over the road conveyed shall cease and thereafter vest in the State or political subdivision concerned.
 
 (2) The Secretary may, to the extent of appropriated funds available for such purpose, make a contribution to local authorities for the construction of road improvements or traffic controls or other devices on land adjacent to a national cemetery if the Secretary determines that such a contribution is essential to ensure safe ingress to or egress from the cemetery.
 
@@ -40,11 +42,23 @@
 
 (4) The Secretary shall prescribe regulations to carry out this subsection.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 76, §1004; amended Pub. L. 99–576, title IV, §411, title VII, §701(55), Oct. 28, 1986, 100 Stat. 3283, 3295; Pub. L. 100–322, title III, §§341(a), 342, May 20, 1988, 102 Stat. 539, 540; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §14(b)(21), June 13, 1991, 105 Stat. 284; renumbered §2404 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(7), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 112–260, title I, §102(a), Jan. 10, 2013, 126 Stat. 2418.)
+(i)(1) The Secretary may designate one or more sections in any national cemetery as green burial sections.
+
+(2) In this subsection, the term "green burial section" means a section of a cemetery in which the remains of individuals interred in that section—
+
+&emsp;(A) have been prepared for interment in a manner that does not involve chemicals or embalming fluids; and
+
+&emsp;(B) have been interred in a natural manner or in completely biodegradable burial receptacles.
+
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 76, §1004; amended Pub. L. 99–576, title IV, §411, title VII, §701(55), Oct. 28, 1986, 100 Stat. 3283, 3295; Pub. L. 100–322, title III, §§341(a), 342, May 20, 1988, 102 Stat. 539, 540; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §14(b)(21), June 13, 1991, 105 Stat. 284; renumbered §2404 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(7), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 112–260, title I, §102(a), Jan. 10, 2013, 126 Stat. 2418; Pub. L. 117–355, §3, Jan. 5, 2023, 136 Stat. 6278.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Subsec. (c)(2)(E). Pub. L. 117–355, §3(1), added subpar. (E).
+
+Subsec. (i). Pub. L. 117–355, §3(2), added subsec. (i).
 
 <b>2013</b>—Subsec. (h). Pub. L. 112–260 added subsec. (h).
 
@@ -96,7 +110,7 @@ Pub. L. 93–43, §6, June 18, 1973, 87 Stat. 81, provided that:
 
 #### Interim Implementation of 2013 Amendment
 
-Pub. L. 112–260, title I, §102(b), Jan. 10, 2013, 126 Stat. 2419, provided that: "The Secretary may carry out paragraphs (1) through (3) of section 2404(h) of such title \[38 U.S.C. 2404(h)\], as added by subsection (a), before the Secretary prescribes regulations pursuant to paragraph (4) of such section, as so added."
+Pub. L. 112–260, title I, §102(b), Jan. 10, 2013, 126 Stat. 2419, provided that: "The Secretary may carry outparagraphs (1) through (3) of section 2404(h) of such title \[38 U.S.C. 2404(h)\], as added by subsection (a), before the Secretary prescribes regulations pursuant to paragraph (4) of such section, as so added."
 
 #### Use of Flat Grave Markers at Santa Fe National Cemetery, New Mexico
 
@@ -140,7 +154,7 @@ Report.—(1) Not later than one year after the date on which a qualified organi
 
 Pub. L. 103–446, title VIII, §804, Nov. 2, 1994, 108 Stat. 4675, provided that: "Notwithstanding section 2404(c)(2) of title 38, United States Code, the Secretary of Veterans Affairs may provide for flat grave markers at the Willamette National Cemetery, Oregon."
 
-Pub. L. 102–54, §11, June 13, 1991, 105 Stat. 273, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105Stat. 406, provided that: "Notwithstanding section 2404(c)(2) of title 38, United States Code, the Secretary may provide for flat grave markers in that section of the Florida National Cemetery in which preplaced grave liners were installed before July 30, 1988."
+Pub. L. 102–54, §11, June 13, 1991, 105 Stat. 273, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: "Notwithstanding section 2404(c)(2) of title 38, United States Code, the Secretary may provide for flat grave markers in that section of the Florida National Cemetery in which preplaced grave liners were installed before July 30, 1988."
 
 Pub. L. 100–322, title III, §341(b), May 20, 1988, 102 Stat. 539, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: "Notwithstanding section 2404(c)(2) of title 38, United States Code, the Administrator may provide for flat grave markers in the cases of the national cemeteries in Riverside, California; Bourne, Massachusetts; Augusta, Michigan; and Indiantown Gap, Pennsylvania; and the proposed national cemetery approved by the Administrator, as of July 31, 1987, for Northern California."
 

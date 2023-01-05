@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(F) to assist States and water users in complying with interstate compacts or reducing basin water supply-demand imbalances;
 
-&emsp;&emsp;(G) to achieve the prevention of the decline of species that the United States Fish and Wildlife Service and National Marine Fisheries Service have proposed for listing under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) (or candidate species that are being considered by those agencies for such listing but are not yet the subject of a proposed rule);
+&emsp;&emsp;(G) to achieve the prevention of the decline of species that the United States Fish and Wildlife Service and National Marine Fisheries Service have proposed for listingunder the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) (or candidate species that are being considered by those agencies for such listing but are not yet the subject of a proposed rule);
 
 &emsp;&emsp;(H) to achieve the acceleration of the recovery of threatened species, endangered species, and designated critical habitats that are adversely affected by Federal reclamation projects or are subject to a recovery plan or conservation plan under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) under which the Commissioner of Reclamation has implementation responsibilities;
 
@@ -180,19 +180,27 @@ This section shall not supersede any existing project-specific funding authority
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $700,000,000, subject to the condition that $50,000,000 of that amount shall be used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235), to remain available until expended.
+There is authorized to be appropriated to carry out this section $820,000,000, to remain available until expended.
 
-(Pub. L. 111–11, title IX, §9504, Mar. 30, 2009, 123 Stat. 1334; Pub. L. 113–235, div. D, title II, §203, Dec. 16, 2014, 128 Stat. 2311; Pub. L. 114–113, div. D, title II, §206, Dec. 18, 2015, 129 Stat. 2407; Pub. L. 114–322, title III, §4009(d), Dec. 16, 2016, 130 Stat. 1870; Pub. L. 115–244, div. A, title II, §205(b), Sept. 21, 2018, 132 Stat. 2906; Pub. L. 116–9, title VIII, §8501, Mar. 12, 2019, 133 Stat. 826; Pub. L. 116–94, div. C, title II, §203, Dec. 20, 2019, 133 Stat. 2669; Pub. L. 116–260, div. D, title II, §203, div. FF, title XI, §1106(b)–(d), Dec. 27, 2020, 134 Stat. 1363, 3241, 3242.)
+(Pub. L. 111–11, title IX, §9504, Mar. 30, 2009, 123 Stat. 1334; Pub. L. 113–235, div. D, title II, §203, Dec. 16, 2014, 128 Stat. 2311; Pub. L. 114–113, div. D, title II, §206, Dec. 18, 2015, 129 Stat. 2407; Pub. L. 114–322, title III, §4009(d), Dec. 16, 2016, 130 Stat. 1870; Pub. L. 115–244, div. A, title II, §205(b), Sept. 21, 2018, 132 Stat. 2906; Pub. L. 116–9, title VIII, §8501, Mar. 12, 2019, 133 Stat. 826; Pub. L. 116–94, div. C, title II, §203, Dec. 20, 2019, 133 Stat. 2669; Pub. L. 116–260, div. D, title II, §203, div. FF, title XI, §1106(b)–(d), Dec. 27, 2020, 134 Stat. 1363, 3241, 3242; Pub. L. 117–103, div. D, title II, §203, Mar. 15, 2022, 136 Stat. 221; Pub. L. 117–328, div. D, title II, §203, Dec. 29, 2022, 136 Stat. 4631.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(1)(G), (H), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(1)(G), (H), is Pub. L. 93–205, Dec. 28, 1973, 87Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 Section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015, referred to in subsec. (e), is section 206 of div. D of Pub. L. 113–235, which is set out as a note under section 620 of Title 43, Public Lands.
 
+#### Codification
+
+Pub. L. 116–260, §203 and §1106(d), both amended subsec. (e) of this section by striking "$530,000,000" and inserting different new dollar amounts. In addition, section 1106(d) inserted the following condition: "subject to the condition that $50,000,000 of that amount shall be used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)". The amendment by section 1106(d) could not be executed as written because "$530,000,000" no longer appeared in text after the amendment by section 203, and therefore, the text does not reflect the insertion of the condition. Pub. L. 117–103, §203, subsequently amended subsec. (e) as it read after the amendment by section 203 of Pub. L. 116–260.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–328 substituted "$820,000,000" for "$750,000,000"
+
+Pub. L. 117–103 substituted "$750,000,000" for "$610,000,000". See Codification note above.
 
 <b>2020</b>—Subsec. (a)(1). Pub. L. 116–260, §1106(b)(1)(A), inserted "or carrying out any activity" after "any improvement" in introductory provisions.
 
@@ -224,9 +232,9 @@ Subsec. (b)(1). Pub. L. 116–260, §1106(c)(1), substituted "or eligible applic
 
 Subsec. (b)(1)(C), (D). Pub. L. 116–260, §1106(c)(2)–(4), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (e). Pub. L. 116–260, §1106(d), which directed substitution of "$700,000,000, subject to the condition that $50,000,000 of that amount shall be used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)" for "$530,000,000", was executed by making the substitution for "$610,000,000" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–260, §203. See below.
+Subsec. (e). Pub. L. 116–260, §1106(d), which directed substitution of "$700,000,000, subject to the condition that $50,000,000 of that amount shall be used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 (43 U.S.C. 620 note; Public Law 113–235)" for "$530,000,000", could not be executed because "$530,000,000" did not appear in text after the intervening amendment by Pub. L. 116–260, §203. See Codification note above and note below.
 
-Pub. L. 116–260, §203, substituted "$610,000,000" for "$530,000,000".
+Pub. L. 116–260, §203, substituted "$610,000,000" for "$530,000,000". See Codification note above.
 
 <b>2019</b>—Subsec. (a)(2)(A). Pub. L. 116–9, §8501(1), substituted "within—" for "within", inserted cl. (i) designation before "the States", and added cls. (ii) and (iii).
 

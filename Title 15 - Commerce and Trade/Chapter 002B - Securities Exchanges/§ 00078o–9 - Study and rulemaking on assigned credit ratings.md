@@ -26,7 +26,7 @@ The Commission shall carry out a study of—
 
 #### (c) Report and recommendation
 
-Not later than 24 months after July 21, 2010, the Commission shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that contains—
+Not later than 24 months after July 21, 2010, the Commission shall submit to the Committeeon Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that contains—
 
 &emsp;(1) the findings of the study required under subsection (b); and
 

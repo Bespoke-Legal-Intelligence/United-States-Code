@@ -22,7 +22,7 @@ Section 294n of this title, referred to in subsec. (b), was in the original a re
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–597 substituted "National Health Professional Shortage Clearinghouse" for "NationalHealth Manpower Shortage Clearinghouse" in section catchline and subsec. (a).
+<b>1990</b>—Pub. L. 101–597 substituted "National Health Professional Shortage Clearinghouse" for "National Health Manpower Shortage Clearinghouse" in section catchline and subsec. (a).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

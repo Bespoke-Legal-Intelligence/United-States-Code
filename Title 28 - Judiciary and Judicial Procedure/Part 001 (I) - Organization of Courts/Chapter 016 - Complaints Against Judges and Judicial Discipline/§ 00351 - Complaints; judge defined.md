@@ -10,7 +10,7 @@ Identifying Complaint by Chief Judge.—In the interests of the effective and ex
 
 (c)
 
-Transmittal of Complaint.—Upon receipt of a complaint filed under subsection (a), the clerk shall promptly transmit the complaint to the chief judge of the circuit, or, if the conduct complained of is that of the chief judge, to that circuit judge in regular active service next senior in date of commission (hereafter, for purposes of this chapter only, included in the term "chief judge"). The clerk shall simultaneously transmit a copy of the complaint to the judge whose conduct is the subject of the complaint. The clerk shall also transmit a copy of any complaint identified under subsection (b) to thejudge whose conduct is the subject of the complaint.
+Transmittal of Complaint.—Upon receipt of a complaint filed under subsection (a), the clerk shall promptly transmit the complaint to the chief judge of the circuit, or, if the conduct complained of is that of the chief judge, to that circuit judge in regular active service next senior in date of commission (hereafter, for purposes of this chapter only, included in the term "chief judge"). The clerk shall simultaneously transmit a copy of the complaint to the judge whose conduct is the subject of the complaint. The clerk shall also transmit a copy of any complaint identified under subsection (b) to the judge whose conduct is the subject of the complaint.
 
 (d)
 
@@ -26,5 +26,5 @@ Definitions.—In this chapter—
 
 #### Severability
 
-Pub. L. 107–273, div. C, title I, §11044, Nov. 2, 2002, 116 Stat. 1856, provided that: "If any provision of this subtitle \[subtitle C (§§11041–11044) of title I of div. C of Pub. L. 107–273, enacting this chapter, amending sections 331, 332, 372, 375, and 604 of this title, and section 7253 of Title 38, Veterans' Benefits, and enacting provisions set out as a note under section 1 of this title\], an amendment made by this subtitle, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this subtitle, the amendments made by this subtitle, and the application of the provisions of such to any person or circumstance shall not be affected thereby."
+Pub. L. 107–273, div. C, title I, §11044, Nov. 2, 2002, 116 Stat. 1856, provided that: "If any provision of this subtitle \[subtitle C (§§11041–11044) of title I of div. C of Pub. L. 107–273, enacting this chapter, amending sections 331,332, 372, 375, and 604 of this title, and section 7253 of Title 38, Veterans' Benefits, and enacting provisions set out as a note under section 1 of this title\], an amendment made by this subtitle, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this subtitle, the amendments made by this subtitle, and the application of the provisions of such to any person or circumstance shall not be affected thereby."
 

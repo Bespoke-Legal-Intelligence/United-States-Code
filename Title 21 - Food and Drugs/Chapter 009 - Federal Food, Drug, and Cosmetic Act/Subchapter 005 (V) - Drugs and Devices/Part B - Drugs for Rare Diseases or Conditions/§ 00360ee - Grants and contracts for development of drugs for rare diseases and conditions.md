@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in (1) defraying the costs of developing drugs for rare diseases or conditions, including qualified testing expenses, (2) defraying the costs of developing medical devices for rare diseases or conditions, and (3) defraying the costs of developing medical foods for rare diseases or conditions.
+The Secretary may make grants to and enter into contracts with public and private entities and individuals to assist in (1) defraying the costs of developing drugs for rare diseases or conditions, including qualified testing expenses, (2) defraying the costs of developing medical devices for rare diseases or conditions, (3) defraying the costs of developing medical foods for rare diseases or conditions, and (4) developing regulatory science pertaining to the chemistry, manufacturing, and controls of individualizedmedical products to treat individuals with rare diseases or conditions.
 
 #### (b) Definitions
 
@@ -24,15 +24,15 @@ For purposes of subsection (a):
 
 &emsp;&emsp;&emsp;(ii) understand the full spectrum of the disease manifestations, including describing genotypic and phenotypic variability and identifying and defining distinct subpopulations affected by a rare disease or condition.
 
-&emsp;(2) The term "rare disease or condition" means (1) in the case of a drug, any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug, (2) in the case of a medical device, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical device for such disease or condition will be developed without assistance under subsection (a), and (3) in the case of a medical food, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical food for such disease or condition will be developed without assistance under subsection (a). Determinations under the preceding sentence with respect to any drug shall be made on thebasis of the facts and circumstances as of the date the request for designation of the drug under section 360bb of this title is made.
+&emsp;(2) The term "rare disease or condition" means (1) in the case of a drug, any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug, (2) in the case of a medical device, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical device for such disease or condition will be developed without assistance under subsection (a), and (3) in the case of a medical food, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical food for such disease or condition will be developed without assistance under subsection (a). Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date the request for designation of the drug under section 360bb of this title is made.
 
 &emsp;(3) The term "medical food" means a food which is formulated to be consumed or administered enterally under the supervision of a physician and which is intended for the specific dietary management of a disease or condition for which distinctive nutritional requirements, based on recognized scientific principles, are established by medical evaluation.
 
 #### (c) Authorization of appropriations
 
-For grants and contracts under subsection (a), there is authorized to be appropriated $30,000,000 for each of fiscal years 2018 through 2022.
+For grants and contracts under subsection (a), there is authorized to be appropriated $6,904,110 for the period beginning on October 1, 2022 and ending on December 23, 2022.<sup>1</sup>
 
-(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092; Pub. L. 114–255, div. A, title III, §3015, Dec. 13, 2016, 130 Stat. 1094; Pub. L. 115–52, title VI, §603, Aug. 18, 2017, 131 Stat. 1048.)
+(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092; Pub. L. 114–255, div. A, title III, §3015, Dec. 13, 2016, 130 Stat. 1094; Pub. L. 115–52, title VI, §603, Aug. 18, 2017, 131 Stat. 1048; Pub. L. 117–180, div. F, title V, §5006, Sept. 30, 2022, 136 Stat. 2167; Pub. L. 117–229, div. C, title III, §307, Dec. 16, 2022, 136 Stat. 2312; Pub. L. 117–328, div. FF, title III, §3107, Dec. 29, 2022, 136 Stat. 5808.)
 
 #### <b>Editorial Notes</b>
 
@@ -41,6 +41,14 @@ For grants and contracts under subsection (a), there is authorized to be appropr
 Section was enacted as part of the Orphan Drug Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(4). Pub. L. 117–328, §3107(1), added par. (4).
+
+Subsec. (c). Pub. L. 117–328, §3107(2), which directed the substitution of "$30,000,000 for each of fiscal years 2023 through 2027" for "$6,328,767 for the period beginning on October 1, 2022, and ending on December 23, 2022", could not be executed because "$6,328,767" did not appear after the intervening amendment by Pub. L. 117–229. See below.
+
+Pub. L. 117–229 substituted "$6,904,110 for the period beginning on October 1, 2022 and ending on December 23, 2022" for "$6,328,767 for the period beginning on October 1, 2022, and ending on December 16, 2022".
+
+Pub. L. 117–180 substituted "$6,328,767 for the period beginning on October 1, 2022, and ending on December 16, 2022" for "$30,000,000 for each of fiscal years 2018 through 2022".
 
 <b>2017</b>—Subsec. (c). Pub. L. 115–52 substituted "2018 through 2022" for "2013 through 2017".
 
@@ -167,4 +175,6 @@ Findings.—Congress makes the following findings:
 "(b)
 
 Purposes.—The purpose of this Act \[see Short Title of 2002 Amendments note set out under section 301 of this title\] is to increase the national investment in the development of diagnostics and treatments for patients with rare diseases and disorders."
+
+<i><sup>1</sup></i><i> See 2022 Amendment notes below.</i>
 

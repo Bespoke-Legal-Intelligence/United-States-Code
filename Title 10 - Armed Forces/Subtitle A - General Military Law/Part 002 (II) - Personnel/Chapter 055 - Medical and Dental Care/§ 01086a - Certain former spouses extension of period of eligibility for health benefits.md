@@ -52,7 +52,7 @@ Subsecs. (c), (d). Pub. L. 102–484, §4407(b)(3), (4), added subsec. (c) and r
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
+Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section 202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
 
 #### Effective Date
 

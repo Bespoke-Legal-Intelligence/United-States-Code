@@ -156,7 +156,7 @@ Subsec. (i)(4). Pub. L. 97–473 added par. (4). Notwithstanding the directory l
 
 Subsec. (c)(4), (5). Pub. L. 95–458, §3(a), added par. (4) and redesignated former par. (4) as (5).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(a)(26) (C)(ii), (b)(13)(A), substituted "subsection (g)" for "subsection (h)" and struck out "or his delegate" after "Secretary".
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(a)(26) (C)(ii), (b)(13)(A), substituted "subsection (g)" for "subsection\(h)" and struck out "or his delegate" after "Secretary".
 
 Subsec. (b). Pub. L. 94–455, §1906(a)(26)(A), among other changes, struck out provisions relating to gasoline used before July 1, 1965, and struck out requirement that a person's first taxable year beginning after June 30, 1965, include the period after June 30, 1965, and before the beginning of that first taxable year.
 

@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Audit agent
 
-&emsp;The term "audit agent" means an individual who is an employee or agent of an accredited third-party auditor and, although not individually accredited, is qualified to conduct food safety audits on behalf of an accredited third-party auditor.
+&emsp;The term "audit agent" means an individual who is an employee or agent of an accreditedthird-party auditor and, although not individually accredited, is qualified to conduct food safety audits on behalf of an accredited third-party auditor.
 
 #### (2) Accreditation body
 
@@ -136,7 +136,7 @@ In this section:
 
 #### (A) Risks to public health
 
-&emsp;&emsp;If, at any time during an audit, an accredited third-party auditor or audit agent of such auditor discovers a condition that could cause or contribute to a serious risk to the public health, such auditor shall immediately notify the Secretary of—
+&emsp;&emsp;If, at any time during an audit, an accredited third-party auditor or audit agent ofsuch auditor discovers a condition that could cause or contribute to a serious risk to the public health, such auditor shall immediately notify the Secretary of—
 
 &emsp;&emsp;&emsp;(i) the identification of the eligible entity subject to the audit; and
 
@@ -252,7 +252,7 @@ To ensure compliance with the requirements of this section, the Secretary shall�
 
 &emsp;(1) periodically, or at least once every 4 years, reevaluate the accreditation bodies described in subsection (b)(1);
 
-&emsp;(2) periodically, or at least once every 4 years, evaluate the performance of each accredited third-party auditor, through the review of regulatory audit reports by such auditors, the compliance history as available of eligible entities certified by such auditors, andany other measures deemed necessary by the Secretary;
+&emsp;(2) periodically, or at least once every 4 years, evaluate the performance of each accredited third-party auditor, through the review of regulatory audit reports by such auditors, the compliance history as available of eligible entities certified by such auditors, and any other measures deemed necessary by the Secretary;
 
 &emsp;(3) at any time, conduct an onsite audit of any eligible entity certified by an accredited third-party auditor, with or without the auditor present; and
 

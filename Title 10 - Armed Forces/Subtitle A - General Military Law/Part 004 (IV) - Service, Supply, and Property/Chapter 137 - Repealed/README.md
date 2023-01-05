@@ -65,4 +65,4 @@ For definition of "Chapter 137 legacy provisions" as used throughout part V of t
 - [&sect; 02339 - Renumbered &sect;4657](%C2%A7%2002339%20-%20Renumbered%20%C2%A74657.md)
 - [&sect; 02339a - Renumbered &sect;3252](%C2%A7%2002339a%20-%20Renumbered%20%C2%A73252.md)
 - [&sect; 02339b - Renumbered &sect;8751](%C2%A7%2002339b%20-%20Renumbered%20%C2%A78751.md)
-- [&sect; 02339c - Repealed. Pub. L. 116&#8211;283, div. A, title XVIII, &sect;1881(a), Jan. 1, 2021, 134 Stat. 4293](%C2%A7%2002339c%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93283%2C%20div.%20A%2C%20title%20XVIII%2C%20%C2%A71881%28a%29%2C%20Jan.%201%2C%202021%2C%20134%20Stat.%204293.md)
+- [&sect; 02339c - Renumbered &sect;8755](%C2%A7%2002339c%20-%20Renumbered%20%C2%A78755.md)

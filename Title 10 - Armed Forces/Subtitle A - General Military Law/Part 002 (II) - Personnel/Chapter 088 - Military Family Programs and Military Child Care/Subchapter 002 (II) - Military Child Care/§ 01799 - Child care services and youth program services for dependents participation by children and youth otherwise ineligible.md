@@ -6,7 +6,7 @@ Authority.—The Secretary of Defense may authorize participation in child care 
 
 (b)
 
-Limitation.—Authorization of participation in a program under subsection (a) shall be limited to situations in which that participation promotes the attainment of the objectives set forth in subsection (c), as determined by the Secretary.
+Limitation.—Authorization of participation in a program under subsection (a) shall be limited to situations in which that participation promotes the attainment of the objectives setforth in subsection (c), as determined by the Secretary.
 
 (c)
 

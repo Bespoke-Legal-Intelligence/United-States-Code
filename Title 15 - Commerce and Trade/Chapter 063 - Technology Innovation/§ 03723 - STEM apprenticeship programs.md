@@ -36,7 +36,7 @@ The Secretary of Commerce may provide a grant to an eligible recipient to conduc
 
 The Secretary of Commerce may provide a grant to an eligible recipient that has conducted a needs assessment as described in subsection (c)(1) to develop infrastructure to expand STEM apprenticeship programs.
 
-(Pub. L. 96–480, §28, as added Pub. L. 114–329, title III, §312(e), Jan. 6, 2017, 130 Stat. 3014.)
+(Pub. L. 96–480, §30, formerly §28, as added Pub. L. 114–329, title III, §312(e), Jan. 6, 2017, 130 Stat. 3014; renumbered §30, Pub. L. 117–167, div. B, title VI, §10621(a)(1), Aug. 9, 2022, 136 Stat. 1642.)
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -54,7 +54,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;"(B) to expand registered apprenticeships.
 
-&emsp;"(2) The lack of data on the value and impact of employer-provided worker training, which is likelysubstantial, hinders the ability of the Federal Government to formulate policy related to workforce training.
+&emsp;"(2) The lack of data on the value and impact of employer-provided worker training, which is likely substantial, hinders the ability of the Federal Government to formulate policy related to workforce training.
 
 &emsp;"(3) The Secretary of Commerce has initiated—
 

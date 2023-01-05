@@ -1,6 +1,6 @@
 ### §7481. Establishment: purpose
 
-The Secretary of the Army may maintain schools and camps for the military instruction and training of persons selected, upon their application, from warrant officers and enlisted members of the Army and civilians, to qualify them for appointment as reserve officers, or enlistment as reserve noncommissioned officers, for service in the Army Reserve.
+The Secretary of the Army may maintain schools and camps for the military instruction and training of persons selected, upon their application, from warrant officers and enlistedmembers of the Army and civilians, to qualify them for appointment as reserve officers, or enlistment as reserve noncommissioned officers, for service in the Army Reserve.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 249, §4411; renumbered §7481, Pub. L. 115–232, div. A, title VIII, §808(c)(2), Aug. 13, 2018, 132 Stat. 1839.)
 

@@ -28,7 +28,7 @@ Appointment.—The Secretary of Transportation shall appoint as the Superintende
 
 &emsp;&emsp;(B) an individual who has—
 
-&emsp;&emsp;&emsp;(i)(I) served at sea in the merchant marine, Navy, Army, Air Force, MarineCorps, Coast Guard, or National Oceanic and Atmospheric Administration; or
+&emsp;&emsp;&emsp;(i)(I) served at sea in the merchant marine, Navy, Army, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration; or
 
 &emsp;&emsp;&emsp;(II) held a valid Coast Guard merchant mariner credential; and
 
@@ -83,6 +83,190 @@ IN General" in heading.
 Pub. L. 111–383 inserted "as an institution of higher education" after "Academy" and substituted "States, to conduct research with respect to maritime-related matters, and to provide such other appropriate academic support, assistance, training, and activities in accordance with the provisions of this chapter as the Secretary may authorize." for "States."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Reports on Matters Relating to the United States Merchant Marine Academy
+
+Pub. L. 117–263, div. C, title XXXV, §3515, Dec. 23, 2022, 136 Stat. 3069, provided that:
+
+"(a)
+
+Report on Implementation of NAPA Recommendations.—
+
+&emsp;"(1)
+
+In general.—In accordance with paragraph (3), the Secretary of Transportation shall submit to the appropriate congressional committees reports on the status of the implementation of the recommendations specified in paragraph (4).
+
+&emsp;"(2)
+
+Elements.—Each report under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the status of the implementation of each recommendation specified in paragraph (4), including whether the Secretary—
+
+&emsp;&emsp;&emsp;"(i) concurs with the recommendation;
+
+&emsp;&emsp;&emsp;"(ii) partially concurs with the recommendation;
+
+&emsp;&emsp;&emsp;"(iii) does not concur with the recommendation; or
+
+&emsp;&emsp;&emsp;"(iv) determines the recommendation is not applicable to the Department of Transportation.
+
+&emsp;&emsp;"(B) An explanation of—
+
+&emsp;&emsp;&emsp;"(i) with respect to a recommendation with which the Secretary concurs, the actions the Secretary intends to take to implement such recommendation, including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) any rules, regulations, policies, or other guidance that have been issued, revised, changed, or cancelled as a result of the implementation of the recommendation; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) any impediments to the implementation of the recommendation;
+
+&emsp;&emsp;&emsp;"(ii) with respect to a recommendation with which the Secretary partially concurs, the actions the Secretary intends to take to implement the portion of such recommendation with which the Secretary concurs, including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) intermediate actions, milestone dates, and the expected completion date for the implementation of the portion of the recommendation; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) any rules, regulations, policies, or other guidance that are expected to be issued, revised, changed, or cancelled as a result of the implementation of the portion of the recommendation;
+
+&emsp;&emsp;&emsp;"(iii) with respect to a recommendation with which the Secretary does not concur, an explanation of why the Secretary does not concur with such recommendation;
+
+&emsp;&emsp;&emsp;"(iv) with respect to a recommendation that the Secretary determines is not applicable to the Department of Transportation, an explanation of the reasons for the determination; and
+
+&emsp;&emsp;&emsp;"(v) any statutory changes that may be necessary—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) to fully implement the recommendations specified in paragraph (4) with which the Secretary concurs; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) to partially implement the recommendations specified in such paragraph with which the Secretary partially concurs.
+
+&emsp;&emsp;"(C) A visual depiction of the status of the completion of the recommendations specified in paragraph (4).
+
+&emsp;"(3)
+
+Timing of reports.—The Secretary of Transportation shall submit an initial report under paragraph (1) not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\]. Following the submittal of the initial report, the Secretary shall submit updated versions of the report not less frequently than once every 180 days until the date on which the Secretary submits to the appropriate congressional committees a certification that each recommendation specified in paragraph (4)—
+
+&emsp;&emsp;"(A) with which the Secretary concurs—
+
+&emsp;&emsp;&emsp;"(i) has been fully implemented; or
+
+&emsp;&emsp;&emsp;"(ii) cannot be fully implemented, including an explanation of why; and
+
+&emsp;&emsp;"(B) with which the Secretary partially concurs—
+
+&emsp;&emsp;&emsp;"(i) has been partially implemented; or
+
+&emsp;&emsp;&emsp;"(ii) cannot be partially implemented, including an explanation of why.
+
+&emsp;"(4)
+
+Recommendations specified.—The recommendations specified in this paragraph are the recommendations set forth in the report prepared by a panel of the National Academy of Public Administration pursuant to section 3513 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1979) titled 'Organizational Assessment of the U.S. Merchant Marine Academy: A Path Forward', dated November 2021.
+
+"(b)
+
+Report on Implementation of Policy Relating to Sexual Harassment and Other Matters.—Notlater than one year after the date of the enactment of this Act, the Secretary of Transportation shall submit to the appropriate congressional committees a report on the status of the implementation of the policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking at the United States Merchant Marine Academy, as required under section 51318 of title 46, United States Code.
+
+"(c)
+
+Inspector General Audit.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Department of Transportation shall initiate an audit of the actions taken by the Maritime Administration to address only the following recommendations identified by a National Academy of Public Administration panel in the November 2021 report titled 'Organizational Assessment of the United States Merchant Marine Academy: A Path Forward':
+
+&emsp;&emsp;"(A) Recommendations 4.1 through 4.3.
+
+&emsp;&emsp;"(B) Recommendations 4.7 through 4.11.
+
+&emsp;&emsp;"(C) Recommendations 5.1 through 5.4.
+
+&emsp;&emsp;"(D) Recommendations 5.6, 5.7, 5.11, 5.14, 5.15, 5.16, 6.6, and 6.7.
+
+&emsp;&emsp;"(E) Recommendations 6.1 through 6.4.
+
+&emsp;"(2)
+
+Report.—After the completion of the audit required under paragraph (1), the Inspector General shall submit to the appropriate congressional committees, and make publicly available, a report containing the results of the audit.
+
+"(d)
+
+Implementation of Recommendations From the National Academy of Public Administration.—
+
+&emsp;"(1)
+
+Agreement for study by national academy of public administration.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 30 days after the date of enactment of this Act, the Secretary of Transportation shall seek to enter into an agreement with the National Academy of Public Administration (referred to in this section as the 'Academy') under which the Academy shall provide support for—
+
+&emsp;&emsp;&emsp;"(i) prioritizing and addressing the recommendations referred to subsection (c)(1) and establishing a process for prioritizing other recommendations in the future;
+
+&emsp;&emsp;&emsp;"(ii) the development of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) long-term processes and a timeframe for long-term process improvements; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) corrective actions and best practice criteria that can be implemented in the medium- and near-term;
+
+&emsp;&emsp;&emsp;"(iii) the establishment of a clear assignment of responsibility for the implementation of each recommendation referred to in subsection (c)(1), and a strategy for assigning other recommendations in the future; and
+
+&emsp;&emsp;&emsp;"(iv) a performance measurement system, including data collection and tracking and evaluating progress toward goals of the Merchant Marine Academy.
+
+&emsp;&emsp;"(B)
+
+Report of progress.—Not later than one year after the date of an agreement entered into pursuant to subparagraph (A), the Secretary of Transportation, in consultation with the Administrator of the Merchant Marine Academy, shall submit to the Maritime Administrator and the appropriate congressional committees a report on the progress made in implementing the recommendations referred to in subsection (c)(1).
+
+&emsp;"(2)
+
+Prioritization and implementation plan.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than one year after the date of enactment of this Act, the Maritime Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services of the House of Representatives a prioritization and implementation plan to assess, prioritize, and address the recommendations identified by the National Academy of Public Administration panel in the November 2021 report titled 'Organizational Assessment of the United States Merchant Marine Academy: A Path Forward' that Superintendent of the Merchant Marine Academy determines are relevant to the Maritime Administration, including the recommendations referred to in subsection (c)(1). The prioritization and implementation plan shall—
+
+&emsp;&emsp;&emsp;"(i) be developed using the strategies, processes, and systems developed pursuant to an agreement entered into under paragraph (1);
+
+&emsp;&emsp;&emsp;"(ii) include estimated timelines and cost estimates for the implementation of priority goals;
+
+&emsp;&emsp;&emsp;"(iii) include summaries of stakeholder and interagency engagement used to assess goals and timelines;
+
+&emsp;&emsp;&emsp;"(iv) with respect to any recommendation the Superintendent determines is not relevant to the Maritime Administration, include an explanation for the determination; and
+
+&emsp;&emsp;&emsp;"(v) submitted to the Inspector General of the Department of Transportation and the appropriate congressional committees and made publicly available.
+
+&emsp;&emsp;"(B)
+
+Audit and report.—The Inspector General of the Department of Transportation shall—
+
+&emsp;&emsp;&emsp;"(i) not later than 180 days after the date on which the prioritization and implementation plan described in subparagraph (A) is made publicly available, initiate an audit of the actions taken by the Maritime Administration to address such plan;
+
+&emsp;&emsp;&emsp;"(ii) monitor the actions taken by the Maritime Administration to implement recommendations contained in the audit required under clause (i) and in prior audits of the Maritime Administration's implementation of National Academy of Public Administration recommendations and periodically initiate subsequent audits of the continued actions taken by the Maritime Administration to address the prioritization and implementation plan, as the Inspector General determines necessary; and
+
+&emsp;&emsp;&emsp;"(iii) after the completion of the audit required under clause (i), submit to the Administrator of the Maritime Administration and the appropriate congressional committees, and make publicly available, a report containing the results of the audit.
+
+&emsp;&emsp;"(C)
+
+Report of progress.—Not later than 180 days after the date on which the report required under clause (ii) is made publicly available, and annually thereafter, the Administrator of the Maritime Administration shall submit to the Inspector General of the Department of Transportation and the appropriate congressional committees a report that includes a description of—
+
+&emsp;&emsp;&emsp;"(i) the actions planned to be taken by the Maritime Administration, and estimated timeframes, to implement any open or unresolved recommendation—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) included in the report of the Inspector General required under subsection (B)(iii); or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) referred to in subsection (c)(1); and
+
+&emsp;&emsp;&emsp;"(ii) an identification of any recommendation referred to in clause (i) for which the Maritime Administration failed to meet a target action date, or for which the Maritime Administration requested an extension of time, and the reasons why such an extension was necessary.
+
+&emsp;"(3)
+
+Agreement for plan on capital improvements.—Not later than 90 days after the date of the enactment of this Act, the Maritime Administrator shall seek to enter into an agreement with a Federal construction agent for the development of a plan to execute capital improvements at the United States Merchant Marine Academy.
+
+"(e)
+
+Appropriate Congressional Committees.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Commerce, Science, and Transportation of the Senate;
+
+&emsp;"(2) the Subcommittee on Transportation, Housing and Urban Development, and Related Agencies of the Committee on Appropriations of the Senate;
+
+&emsp;"(3) the Committee on Transportation and Infrastructure of the House of Representatives;
+
+&emsp;"(4) the Subcommittee on Transportation, Housing and Urban Development, and Related Agencies of the Committee on Appropriations of the House of Representatives; and
+
+&emsp;"(5) the Committee on Armed Services of the House of Representatives."
 
 #### Savings Clause
 

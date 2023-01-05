@@ -86,7 +86,7 @@ An eligible entity may use not more than 2.5 percent of the funds received under
 
 #### (1) Financial record maintenance and audit
 
-&emsp;The financial records of each eligible entity receiving a grant under subsection (a) shall bemaintained in accordance with generally accepted accounting principles and shall be subject to an annual audit by an independent public accountant.
+&emsp;The financial records of each eligible entity receiving a grant under subsection (a) shall be maintained in accordance with generally accepted accounting principles and shall be subject to an annual audit by an independent public accountant.
 
 #### (2) Reports
 

@@ -327,6 +327,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Provisions of this chapter are derived from the Foreign Service Act of 1946, former section 801 et seq. of this title, and related and miscellaneous provisions as follows:

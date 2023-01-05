@@ -2,23 +2,37 @@
 
 #### (a) In general
 
-The Secretary shall establish and maintain an ocean acidification program within the National Oceanic and Atmospheric Administration to conduct research, monitoring, and other activities consistent with the strategic research and implementation plan developed by the Subcommittee under section 3704 of this title that—
+The Secretary shall establish and maintain an ocean acidification program within the National Oceanic and Atmospheric Administration to conduct research, monitoring, coordination, and other activities consistent with the strategic research and implementation plan developed by the Subcommittee under section 3704 of this title that—
 
 &emsp;(1) includes—
 
-&emsp;&emsp;(A) interdisciplinary research among the ocean and atmospheric sciences, and coordinated research and activities to improve understanding of ocean acidification;
+&emsp;&emsp;(A) interdisciplinary research among the ocean and atmospheric sciences, and coordinated research and activities to improve understanding of ocean acidification and coastal acidification;
 
-&emsp;&emsp;(B) the establishment of a long-term monitoring program of ocean acidification utilizing existing global and national ocean observing assets, and adding instrumentation and sampling stations as appropriate to the aims of the research program;
+&emsp;&emsp;(B) the establishment of a long-term monitoring program of ocean acidification and coastal acidification utilizing existing global and national ocean observing assets, including leveraging, as appropriate, the Integrated Ocean Observing System and the ocean observing assets of other Federal, State, and Tribal agencies, and adding instrumentation and sampling stations as appropriate to the aims of the research program;
 
-&emsp;&emsp;(C) research to identify and develop adaptation strategies and techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification;
+&emsp;&emsp;(C) prioritization of the location of monitoring instruments, assets, and projects to maximize the efficiency of resources and agency and department missions;
 
-&emsp;&emsp;(D) as an integral part of the research programs described in this chapter, educational opportunities that encourage an interdisciplinary and international approach to exploring the impacts of ocean acidification;
+&emsp;&emsp;(D) an optimization of understanding of socioeconomic impacts and ecosystem health <sup>1</sup>
 
-&emsp;&emsp;(E) as an integral part of the research programs described in this chapter, national public outreach activities to improve the understanding of current scientific knowledge of ocean acidification and its impacts on marine resources; and
+&emsp;&emsp;(E) research to identify and develop adaptation and mitigation strategies and techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification and coastal acidification;
 
-&emsp;&emsp;(F) coordination of ocean acidification monitoring and impacts research with other appropriate international ocean science bodies such as the International Oceanographic Commission, the International Council for the Exploration of the Sea, the North Pacific Marine Science Organization, and others;
+&emsp;&emsp;(F) technical assistance to socioeconomically vulnerable States, local governments, Tribal governments, communities, and industries impacted by ocean and coastal acidification to support their development of ocean and coastal acidification mitigation strategies;
 
-&emsp;(2) provides grants for critical research projects that explore the effects of ocean acidification on ecosystems and the socioeconomic impacts of increased ocean acidification that are relevant to the goals and priorities of the strategic research plan;
+&emsp;&emsp;(G) as an integral part of the research programs described in this chapter, educational opportunities that encourage an interdisciplinary and international approach to exploring the impacts of ocean acidification and coastal acidification;
+
+&emsp;&emsp;(H) as an integral part of the research programs described in this chapter, national public outreach activities to improve the understanding of current scientific knowledge of ocean acidification and coastal acidification and their respective impacts on marine resources;
+
+&emsp;&emsp;(I) coordination of ocean acidification and coastal acidification research, monitoring, and adaptation and mitigation strategies with other appropriate international ocean science bodies such as the International Oceanographic Commission, the International Council for the Exploration of the Sea, the North Pacific Marine Science Organization, and others;
+
+&emsp;&emsp;(J) research to improve understanding of—
+
+&emsp;&emsp;&emsp;(i) the impact of ocean acidification and coastal acidification; and
+
+&emsp;&emsp;&emsp;(ii) how multiple environmental stressors may contribute to and exacerbate ocean and coastal acidification on living marine resources and coastal ecosystems; and
+
+&emsp;&emsp;(K) research to support the development of adaptation and mitigation strategies to address the socioeconomic impacts of ocean and coastal acidification on coastal communities;
+
+&emsp;(2) provides grants for critical research, education, and outreach projects that explore and communicate the effects of ocean acidification and coastal acidification on ecosystems and the socioeconomic impacts of increased ocean acidification and coastal acidification that are relevant to the goals and priorities of the strategic research plan;
 
 &emsp;(3) incorporates a competitive merit-based process for awarding grants that may be conducted jointly with other participating agencies or under the National Oceanographic Partnership Program under section 8931 of title 10; and
 
@@ -28,11 +42,71 @@ The Secretary shall establish and maintain an ocean acidification program within
 
 In conducting the Program, the Secretary may enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out the purposes of this chapter on such terms as the Secretary considers appropriate.
 
-(Pub. L. 111–11, title XII, §12406, Mar. 30, 2009, 123 Stat. 1440; Pub. L. 115–232, div. A, title VIII, §809(k)(2), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 116–271, title I, §111, Dec. 31, 2020, 134 Stat. 3343.)
+#### (c) Relationship to interagency working group
+
+The National Oceanic and Atmospheric Administration shall serve as the lead Federal agency responsible for coordinating the Federal response to ocean and coastal acidification. The Administration may enter into Memoranda of Understanding to—
+
+&emsp;(1) coordinate monitoring and research efforts among Federal agencies in cooperation with State, local, and Tribal governments and international partners; this may include analysis and synthesis of the results of monitoring and research;
+
+&emsp;(2) maintain an Ocean Acidification Information Exchange described under section 3703(b)(5) of this title to allow for information to be electronically accessible, including information—
+
+&emsp;&emsp;(A) on ocean acidification developed through or used by the ocean acidification program described under subsection (a); or
+
+&emsp;&emsp;(B) that would be useful to State governments, local governments, Tribal governments, resource managers, policymakers, researchers, and other stakeholders in mitigating or adapting to the impacts of ocean acidification and coastal acidification; and
+
+&emsp;(3) establishing and maintaining the data archive system under subsection (d).
+
+#### (d) Data archive system
+
+#### (1) In general
+
+&emsp;The Secretary, in coordination with the members of the interagency working group, shall support the long-term stewardship of, and access to, data relating to ocean and coastal acidification through providing the data on a publicly accessible data archive system. To the extent possible, this data archive system shall collect and provide access to ocean and coastal acidification data—
+
+&emsp;&emsp;(A) from relevant federally funded research;
+
+&emsp;&emsp;(B) provided by a Federal, State, or local government, academic scientist, citizen scientist, or industry organization;
+
+&emsp;&emsp;(C) voluntarily submitted by Tribes or Tribal governments; and
+
+&emsp;&emsp;(D) from existing global or national data assets that are currently maintained within Federal agencies.
+
+#### (2) Data standards
+
+&emsp;The Secretary to, the extent possible, shall ensure all such data adheres to data and metadata standards to support the public findability, accessibility, interoperability, and reusability of such data.
+
+(Pub. L. 111–11, title XII, §12406, Mar. 30, 2009, 123 Stat. 1440; Pub. L. 115–232, div. A, title VIII, §809(k)(2), Aug. 13, 2018, 132 Stat. 1843; Pub. L. 116–271, title I, §111, Dec. 31, 2020, 134 Stat. 3343; Pub. L. 117–167, div. B, title VI, §10646, Aug. 9, 2022, 136 Stat. 1679.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–167, §10646(1)(A), inserted "coordination," after "research, monitoring," in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 117–167, §10646(1)(D), substituted "acidification and coastal acidification" for "acidification" wherever appearing.
+
+Subsec. (a)(1)(B). Pub. L. 117–167, §10646(1)(B)(i), inserted "including leveraging, as appropriate, the Integrated Ocean Observing System and the ocean observing assets of other Federal, State, and Tribal agencies," after "ocean observing assets,".
+
+Subsec. (a)(1)(C), (D). Pub. L. 117–167, §10646(1)(B)(iii), added subpars. (C) and (D). Former subpars. (C) and (D) redesignated (E) and (G), respectively.
+
+Subsec. (a)(1)(E). Pub. L. 117–167, §10646(1)(B)(ii), (iv), redesignated subpar. (C) as (E) and substituted "adaptation and mitigation" for "adaptation". Former subpar. (E) redesignated (H).
+
+Subsec. (a)(1)(F). Pub. L. 117–167, §10646(1)(B)(v), added subpar. (F).
+
+Subsec. (a)(1)(G). Pub. L. 117–167, §10646(1)(B)(ii), redesignated subpar. (D) as (G).
+
+Subsec. (a)(1)(H). Pub. L. 117–167, §10646(1)(B)(ii), (vi), redesignated subpar. (E) as (H), substituted "their respective impacts" for "its impacts", and struck out "and" at end.
+
+Subsec. (a)(1)(I). Pub. L. 117–167, §10646(1)(B)(vii)(II), which directed the substitution of a semicolon for a period at the end, could not be executed because a semicolon, rather than a period, already appeared at the end.
+
+Pub. L. 117–167, §10646(1)(B)(ii), (vii)(I), redesignated subpar. (F) as (I) and substituted "research, monitoring, and adaptation and mitigation strategies" for "monitoring and impacts research".
+
+Subsec. (a)(1)(J), (K). Pub. L. 117–167, §10646(1)(B)(viii), added subpars. (J) and (K).
+
+Subsec. (a)(2). Pub. L. 117–167, §10646(1)(D), substituted "acidification and coastal acidification" for "acidification" in two places.
+
+Pub. L. 117–167, §10646(1)(C), substituted "critical research, education, and outreach projects that explore and communicate" for "critical research projects that explore".
+
+Subsecs. (c), (d). Pub. L. 117–167, §10646(2), added subsecs. (c) and (d).
 
 <b>2020</b>—Subsec. (a)(4). Pub. L. 116–271 added par. (4).
 
@@ -43,4 +117,6 @@ In conducting the Program, the Secretary may enter into and perform such contrac
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

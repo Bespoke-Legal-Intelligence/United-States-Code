@@ -12,7 +12,7 @@ The Secretary shall collect data regarding economic activities created through g
 
 #### (b) Data
 
-The data collected under subsection (a) shall include information collected from recipients both during the award period and for a period of time, as determined by the Secretary, which is not less than 2 years after the award period ends.
+The data collected under subsection (a) shall include information collected from recipientsboth during the award period and for a period of time, as determined by the Secretary, which is not less than 2 years after the award period ends.
 
 #### (c) Report
 
@@ -40,7 +40,7 @@ The data collected under subsection (a) shall include information collected from
 
 #### References in Text
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(3), is title III of Pub. L. 87–128,Aug. 8, 1961, 75 Stat. 307. Subtitle E of the Act is classified generally to subchapter V (§2009 et seq.) of chapter 50 of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(3), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitle E of the Act is classified generally to subchapter V (§2009 et seq.) of chapter 50 of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Amendments
 

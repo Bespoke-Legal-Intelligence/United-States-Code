@@ -6,7 +6,7 @@ The Secretary of State is empowered to acquire by purchase or construction in th
 
 #### (b) Payments from other than appropriated funds for acquisition of property
 
-Payments made for rent or otherwise by the United States from funds other than appropriations made to carry out this chapter may be credited toward the acquisition of property under this chapter without regard to limitations of amounts imposed by this chapter.
+Payments made for rent or otherwise by the United States from funds other than appropriations made to carry out this chapter may be credited toward the acquisition of propertyunder this chapter without regard to limitations of amounts imposed by this chapter.
 
 #### (c) Authorization for improvements and construction
 
@@ -98,7 +98,7 @@ Reporting and Briefing Requirements.—The Secretary shall provide to the approp
 
 #### Statement of Policy
 
-Pub. L. 117–81, div. E, title LII, §5213, Dec. 27, 2021, 135 Stat. 2358, provided that: "It is the policy of the United States that the Bureau of Overseas Building Operations of the Department or its successor office shall continue to balance functionality and security with accessibility, as defined by guidelines established by the United States Access Board in constructing embassies and consulates, and shall ensure compliance with the Architectural Barriers Act of 1968 (42 U.S.C. 4151 et seq.) to the fullest extent possible."
+Pub. L. 117–81, div. E, title LII, §5213, Dec. 27, 2021, 135 Stat. 2358, provided that: "It is the policy of the United States that the Bureau of Overseas Building Operations of the Department or its successor office shall continue to balance functionality and security with accessibility, as defined by guidelines established by the United States Access Board in constructing embassies and consulates, and shall ensure compliance with theArchitectural Barriers Act of 1968 (42 U.S.C. 4151 et seq.) to the fullest extent possible."
 
 \[For definition of "Department" as used in section 5213 of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.\]
 

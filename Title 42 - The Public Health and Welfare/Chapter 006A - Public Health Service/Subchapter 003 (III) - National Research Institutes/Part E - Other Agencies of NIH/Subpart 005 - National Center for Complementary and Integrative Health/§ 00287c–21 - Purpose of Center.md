@@ -14,7 +14,7 @@ In carrying out subsection (a), the Director of the Center shall, as appropriate
 
 #### (d) Appropriate scientific expertise and coordination with institutes and Federal agencies
 
-The Director of the Center, after consultation with the advisory council for the Center and the division of research grants, shall ensure that scientists with appropriate expertise in research on complementary and integrative health are incorporated into the review, oversight, and management processes of all research projects and other activities funded by the Center. In carrying out this subsection, the Director of the Center, as necessary, may establish review groups with appropriate scientific expertise. The Director of the Center shall coordinate effortswith other Institutes and Federal agencies to ensure appropriate scientific input and management.
+The Director of the Center, after consultation with the advisory council for the Center and the division of research grants, shall ensure that scientists with appropriate expertise in research on complementary and integrative health are incorporated into the review, oversight, and management processes of all research projects and other activities funded by the Center. In carrying out this subsection, the Director of the Center, as necessary, may establish review groups with appropriate scientific expertise. The Director of the Center shall coordinate efforts with other Institutes and Federal agencies to ensure appropriate scientific input and management.
 
 #### (e) Evaluation of various disciplines and systems
 
@@ -86,7 +86,7 @@ Subsec. (h). Pub. L. 113–235, §224(2), (3), substituted "complementary and in
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

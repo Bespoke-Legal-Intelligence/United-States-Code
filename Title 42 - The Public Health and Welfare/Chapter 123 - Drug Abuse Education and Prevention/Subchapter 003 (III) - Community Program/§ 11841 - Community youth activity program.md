@@ -52,7 +52,7 @@ The Secretary of Health and Human Services shall make grants to eligible States 
 
 &emsp;&emsp;&emsp;(iii) if the State involved has proposed the funding of additional projects targeted at the areas of highest need;
 
-> &emsp;&emsp;to carry out the activities and projects that are consistent with the activities described in subsection (e)(1). The activities and projects for which such grants are made shall be selected by the Secretary from among proposed activities and projects submitted to the Secretary by the States. Such grants shall be made to the States for redistribution to the persons on whose behalf the State submitted an application under subsection (b).
+> &emsp;&emsp;to carry out the activities and projects that are consistent with the activities described in subsection (e)(1). The activities andprojects for which such grants are made shall be selected by the Secretary from among proposed activities and projects submitted to the Secretary by the States. Such grants shall be made to the States for redistribution to the persons on whose behalf the State submitted an application under subsection (b).
 
 #### (d) Priority
 
@@ -136,7 +136,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8
 
 #### Amendments
 
-<b>2015</b>—Subsec. (d)(8)(A). Pub. L. 114–95 substituted "education and instruction consistent with part A of title IV of the Elementary and Secondary Education Act of 1965" for "education and instruction consistent with title IV of the Elementary and Secondary Education Act of 1965".
+<b>2015</b>—Subsec. (d)(8)(A). Pub. L. 114–95 substituted "education and instruction consistent with part A of title IV of the Elementary and Secondary EducationAct of 1965" for "education and instruction consistent with title IV of the Elementary and Secondary Education Act of 1965".
 
 <b>1998</b>—Subsec. (c)(2). Pub. L. 105–285 struck out ", such as activities authorized by section 9910(a)(2)(F) of this title," after "national significance".
 

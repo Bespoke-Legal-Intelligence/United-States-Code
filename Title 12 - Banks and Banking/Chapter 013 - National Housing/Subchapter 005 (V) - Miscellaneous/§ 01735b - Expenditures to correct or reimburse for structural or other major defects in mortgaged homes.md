@@ -34,7 +34,7 @@ The Secretary of Housing and Urban Development is authorized and directed to con
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–550 substituted par. (1) and "(2) Expenditures under this subsection may be made for" for "The Secretary is authorized, with respect to any property improved by a one- to four-family dwelling that, before the beginning of construction, was approved for mortgage insurance under this chapter or for guaranty, insurance, or a direct loan under chapter 37 of title 38 and that the Secretary finds to have structural defects, to make expenditures for" andredesignated former cls. (1) to (3) appearing before proviso as cls. (A) to (C), respectively, of par. (2).
+<b>1992</b>—Subsec. (a). Pub. L. 102–550 substituted par. (1) and "(2) Expenditures under this subsection may be made for" for "The Secretary is authorized, with respect to any property improved by a one- to four-family dwelling that, before the beginning of construction, was approved for mortgage insurance under this chapter or for guaranty, insurance, or a direct loan under chapter 37 of title 38 and that the Secretary finds to have structural defects, to make expenditures for" and redesignated former cls. (1) to (3) appearing before proviso as cls. (A) to (C), respectively, of par. (2).
 
 <b>1983</b>—Subsec. (a). Pub. L. 98–181 substituted "that, before the beginning of construction, was approved for mortgage insurance under this chapter or for guaranty, insurance, or a direct loan under chapter 37 of title 38 and that the Secretary finds" for "approved for mortgage insurance prior to the beginning of construction which he finds".
 

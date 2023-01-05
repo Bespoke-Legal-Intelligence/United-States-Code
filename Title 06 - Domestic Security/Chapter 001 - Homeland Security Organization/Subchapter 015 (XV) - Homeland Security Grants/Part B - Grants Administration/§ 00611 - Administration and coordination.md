@@ -18,7 +18,7 @@ The Administrator shall ensure that—
 
 #### (A) In general
 
-&emsp;&emsp;The State planning committees and urban area working groups referred to in paragraph (1) shall include at least one representative from each of the following significant stakeholders:
+&emsp;&emsp;The State planning committees and urban area working groups referred to in paragraph\(1) shall include at least one representative from each of the following significant stakeholders:
 
 &emsp;&emsp;&emsp;(i) Local or tribal government officials.
 

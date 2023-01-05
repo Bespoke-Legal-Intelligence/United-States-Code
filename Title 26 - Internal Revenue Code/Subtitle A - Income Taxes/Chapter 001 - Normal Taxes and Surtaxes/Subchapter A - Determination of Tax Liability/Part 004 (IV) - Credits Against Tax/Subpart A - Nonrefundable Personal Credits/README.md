@@ -9,15 +9,18 @@ Subpart A—Nonrefundable Personal Credits
 | [25\.](%C2%A7%2000025%20-%20Interest%20on%20certain%20home%20mortgages.md) | Interest on certain home mortgages. |
 | [25A.](%C2%A7%2000025A%20-%20American%20Opportunity%20and%20Lifetime%20Learning%20credits.md) | American Opportunity and Lifetime Learning credits. |
 | [25B.](%C2%A7%2000025B%20-%20Elective%20deferrals%20and%20IRA%20contributions%20by%20certain%20individuals.md) | Elective deferrals and IRA contributions by certain individuals. |
-| [25C.](%C2%A7%2000025C%20-%20Nonbusiness%20energy%20property.md) | Nonbusiness energy property. |
-| [25D.](%C2%A7%2000025D%20-%20Residential%20energy%20efficient%20property.md) | Residential energy efficient property. |
-| [26\.](%C2%A7%2000026%20-%20Limitation%20based%20on%20tax%20liability%3B%20definition%20of%20tax%20liability.md) | Limitation based on tax liability; definition of tax liability. |
+| [25C.](%C2%A7%2000025C%20-%20Energy%20efficient%20home%20improvement%20credit.md) | Energy efficient home improvement credit. |
+| [25D.](%C2%A7%2000025D%20-%20Residential%20clean%20energy%20credit.md) | Residential clean energy credit. |
+| [25E.](%C2%A7%2000025E%20-%20Previously-owned%20clean%20vehicles.md) | Previously-owned clean vehicles. |
+| [26\.](%C2%A7%2000026%20-%20Limitation%20based%20on%20tax%20liability%3B%20definition%20of%20tax%20liability.md) | Limitation based on tax liability; definition of tax liability.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–169, title I, §§13301(h)(2), 13302(c)(3), 13402(d), Aug. 16, 2022, 136 Stat. 1946, 1947, 1964, added items 25C to 25E and struck out former items 25C "Nonbusiness energy property" and 25D "Residential energy efficient property".
 
 <b>2018</b>—Pub. L. 115–141, div. U, title I, §101(l)(10), Mar. 23, 2018, 132 Stat. 1165, substituted "American Opportunity and Lifetime Learning credits" for "Hope and Lifetime Learning credits" in item 25A.
 
@@ -85,6 +88,7 @@ Pub. L. 94–12, title II, §§203(b)(1), 204(c), 208(d)(1), Mar. 29, 1975, 89 S
 - [&sect; 00025 - Interest on certain home mortgages](%C2%A7%2000025%20-%20Interest%20on%20certain%20home%20mortgages.md)
 - [&sect; 00025A - American Opportunity and Lifetime Learning credits](%C2%A7%2000025A%20-%20American%20Opportunity%20and%20Lifetime%20Learning%20credits.md)
 - [&sect; 00025B - Elective deferrals and IRA contributions by certain individuals](%C2%A7%2000025B%20-%20Elective%20deferrals%20and%20IRA%20contributions%20by%20certain%20individuals.md)
-- [&sect; 00025C - Nonbusiness energy property](%C2%A7%2000025C%20-%20Nonbusiness%20energy%20property.md)
-- [&sect; 00025D - Residential energy efficient property](%C2%A7%2000025D%20-%20Residential%20energy%20efficient%20property.md)
+- [&sect; 00025C - Energy efficient home improvement credit](%C2%A7%2000025C%20-%20Energy%20efficient%20home%20improvement%20credit.md)
+- [&sect; 00025D - Residential clean energy credit](%C2%A7%2000025D%20-%20Residential%20clean%20energy%20credit.md)
+- [&sect; 00025E - Previously-owned clean vehicles](%C2%A7%2000025E%20-%20Previously-owned%20clean%20vehicles.md)
 - [&sect; 00026 - Limitation based on tax liability; definition of tax liability](%C2%A7%2000026%20-%20Limitation%20based%20on%20tax%20liability%3B%20definition%20of%20tax%20liability.md)

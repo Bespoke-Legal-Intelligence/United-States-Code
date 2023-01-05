@@ -4,7 +4,7 @@ There is established in the House of Representatives an office to be known as th
 
 &emsp;(1) who shall be appointed by the Speaker, in consultation with the minority leader; and
 
-&emsp;(2) whose annual rate of pay shall be established by the Speaker, but may not exceed 75percent of the maximum annual rate under the general limitation specified by the order of the Speaker in effect under section 4532 of this title.
+&emsp;(2) whose annual rate of pay shall be established by the Speaker, but may not exceed 75 percent of the maximum annual rate under the general limitation specified by the order of the Speaker in effect under section 4532 of this title.
 
 (Pub. L. 105–55, title I, §101, Oct. 7, 1997, 111 Stat. 1183.)
 

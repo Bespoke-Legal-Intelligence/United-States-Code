@@ -58,7 +58,7 @@ The benefit to which any individual is entitled under this section for any month
 
 #### (f) Treatment as monthly insurance benefits
 
-For purposes of subsections (t) and (u) of section 402 of this title, and of section 1395s of thistitle, a monthly benefit under this section shall be treated as a monthly insurance benefit payable under section 402 of this title.
+For purposes of subsections (t) and (u) of section 402 of this title, and of section 1395s of this title, a monthly benefit under this section shall be treated as a monthly insurance benefit payable under section 402 of this title.
 
 #### (g) Annual reimbursement of Federal Old-Age and Survivors Insurance Trust Fund
 
@@ -216,7 +216,7 @@ Amendment by section 102(b) of Pub. L. 90–248 applicable with respect to month
 
 #### Repeal of Amendment of Subsecs. (b)(1), (2) and (c)(3)(A), (B) Prior to Effective Date
 
-Pub. L. 92–336, title II, §202(a)(4), July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted "the larger of $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$58.00" and "the larger of $29.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$29.00", was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, andwith respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
+Pub. L. 92–336, title II, §202(a)(4), July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted "the larger of $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$58.00" and "the larger of $29.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$29.00", was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
 
 #### Application to Northern Mariana Islands
 

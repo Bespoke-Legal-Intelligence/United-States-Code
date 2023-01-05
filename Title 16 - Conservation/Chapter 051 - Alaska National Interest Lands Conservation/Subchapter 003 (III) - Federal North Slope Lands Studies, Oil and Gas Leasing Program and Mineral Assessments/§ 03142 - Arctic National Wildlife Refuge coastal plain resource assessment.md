@@ -60,7 +60,7 @@ The Secretary, in consultation with the Governor of the State, Native Village an
 
 &emsp;(B) shall require that all data and information (including processed, analyzed and interpreted information) obtained as a result of carrying out the plan shall be submitted to the Secretary; and
 
-&emsp;(C) shall make such data and information available to the public except that any processed, analyzed and interpreted data or information shall be held confidential by the Secretary for a period of not less than two years following any lease sale including the area from which the information was obtained and: <i>Provided</i>, That the Secretary shall prohibit by regulation any person who obtains access to such data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information. The Secretary shall require that any permittee shall make available such data to any person at fair cost.
+&emsp;(C) shall make such data and information available to the public except that any processed, analyzed and interpreted data or information shall be held confidential by the Secretary for a period of not less than two years following any lease sale including the area from which the information was obtained and: <i>Provided</i>, That the Secretary shall prohibit by regulation any person who obtains access tosuch data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information. The Secretary shall require that any permittee shall make available such data to any person at fair cost.
 
 #### (f) Modification to exploration plans
 
@@ -102,5 +102,5 @@ Until otherwise provided for in law enacted after December 2, 1980, all public l
 
 #### Amendments
 
-<b>1982</b>—Subsec. (e)(2)(C). Pub. L. 97–394 inserted proviso that the Secretary prohibit by regulation any personwho obtains access to such data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information, and that Secretary require that any permittee make available such data to any person at fair cost.
+<b>1982</b>—Subsec. (e)(2)(C). Pub. L. 97–394 inserted proviso that the Secretary prohibit by regulation any person who obtains access to such data and information from the Secretary or from any person other than a permittee from participation in any lease sale which includes the areas from which the information was obtained and from any commercial use of the information, and that Secretary require that any permittee make available such data to any person at fair cost.
 

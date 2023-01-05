@@ -34,7 +34,7 @@ Pub. L. 116–283, §1841(b)(1), as amended by Pub. L. 117–81, §1701(u)(2)(B)
 
 Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementationand applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Pilot Program on the Use of Private Sector Partnerships To Promote Technology Transition
 
@@ -198,7 +198,7 @@ Limitations.—
 
 "(d)
 
-Qualifying Institution Defined.—In this section, the term 'qualifying institution' means a nonprofit institution, as defined in section 4(3) of the Stevenson-Wydler Technology Innovation Act of 1980 (15U.S.C. 3703(3)), or a Federal laboratory, as defined in section 4(4) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(4)).
+Qualifying Institution Defined.—In this section, the term 'qualifying institution' means a nonprofit institution, as defined in section 4(3) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(3)), or a Federal laboratory, as defined in section 4(4) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703(4)).
 
 "(e)
 

@@ -32,7 +32,7 @@ The parcel of approximately 5 acres of land located on the Capitol Grounds and d
 
 #### (A) In general
 
-&emsp;&emsp;Not later than June 30, 2002, the Architect, in consultation with the majority leader and the minority leader of the Senate, and the Speaker and the minority leader of the House of Representatives, shall develop the specifications for the park.
+&emsp;&emsp;Not later than June 30, 2002, the Architect, in consultation with the majority leader andthe minority leader of the Senate, and the Speaker and the minority leader of the House of Representatives, shall develop the specifications for the park.
 
 #### (B) Requirements
 
@@ -72,7 +72,7 @@ Funds otherwise made available to the Architect of the Capitol under this Act sh
 
 #### References in Text
 
-This Act, referred to in subsec. (d), is Pub. L. 107–68, Nov. 12, 2001, 115 Stat. 560, as amended, known as the Legislative Branch Appropriations Act, 2002. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (d), is Pub. L. 107–68, Nov. 12, 2001, 115 Stat. 560, known as the Legislative Branch Appropriations Act, 2002. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

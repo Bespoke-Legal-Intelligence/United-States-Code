@@ -44,7 +44,7 @@ Subsec. (d). Pub. L. 103–35, §201(h)(2), struck out subsec. (d) which read as
 
 #### Effective Date of 2021 Amendment
 
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) ofPub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

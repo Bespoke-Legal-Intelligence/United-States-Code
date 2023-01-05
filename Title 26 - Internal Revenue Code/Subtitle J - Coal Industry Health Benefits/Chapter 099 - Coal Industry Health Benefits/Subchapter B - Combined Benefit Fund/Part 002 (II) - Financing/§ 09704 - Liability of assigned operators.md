@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 #### (3) Adjustments for medicare reductions
 
-&emsp;If, by reason of a reduction in benefits under title XVIII of the Social Security Act, the level of health benefits under the Combined Fund would be reduced, the trustees of the Combined Fund shall increase the per beneficiary premium for the plan year in which the reduction occurs and each subsequent planyear by the amount necessary to maintain the level of health benefits which would have been provided without such reduction.
+&emsp;If, by reason of a reduction in benefits under title XVIII of the Social Security Act, the level of health benefits under the Combined Fund would be reduced, the trustees of the Combined Fund shall increase the per beneficiary premium for the plan year in which the reduction occurs and each subsequent plan year by the amount necessary to maintain the level of health benefits which would have been provided without such reduction.
 
 #### (c) Death benefit premium
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) The total number of assigned eligible beneficiaries shall be reduced by the eligible beneficiaries of assigned operators which (and all related persons with respect to which) had ceased business (within the meaning of section 9701(c)(6)) during the period described in subparagraph (A).
 
-&emsp;&emsp;(C) In the case of plan years beginning on or after October 1, 2007, the total number ofassigned eligible beneficiaries shall be reduced by the eligible beneficiaries whose assignments have been revoked under section 9706(h).
+&emsp;&emsp;(C) In the case of plan years beginning on or after October 1, 2007, the total number of assigned eligible beneficiaries shall be reduced by the eligible beneficiaries whose assignments have been revoked under section 9706(h).
 
 #### (g) Payment of premiums
 
@@ -184,7 +184,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 &emsp;&emsp;&emsp;(ii) any related person to any assigned operator described in clause (i), and
 
-&emsp;&emsp;(B) the common parent of the controlled group of corporations described in paragraph (2)(B) is jointly and severally liable for any premium under this section which (but forthis subsection) would be required to be paid by the assigned operator or related person,
+&emsp;&emsp;(B) the common parent of the controlled group of corporations described in paragraph (2)(B) is jointly and severally liable for any premium under this section which (but for this subsection) would be required to be paid by the assigned operator or related person,
 
 > &emsp;then such common parent (and no other person) shall be liable for such premium.
 
@@ -238,7 +238,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 &emsp;&emsp;(B) credit such account with such payment (and any earnings thereon), and
 
-&emsp;&emsp;(C) use all amounts in such account exclusively to pay premiums that would (but for this subsection) be required to be paid by the assigned operator.
+&emsp;&emsp;(C) use all amounts in such account exclusively to pay premiums that would (but forthis subsection) be required to be paid by the assigned operator.
 
 > &emsp;Upon termination of the obligations for the premium liability of any assigned operator or related person for which such account is maintained, all funds remaining in such account (and earnings thereon) shall be refunded to such person as may be designated by the common parent described in paragraph (1)(B).
 
@@ -248,7 +248,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

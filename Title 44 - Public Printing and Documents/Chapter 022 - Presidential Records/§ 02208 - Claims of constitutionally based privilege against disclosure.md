@@ -22,7 +22,7 @@
 
 (C) Notwithstanding subparagraphs (A) and (B), if the 60-day period under subparagraph (A), or any extension of that period under subparagraph (B), would otherwise expire during the 6-month period after the incumbent President first takes office, then that 60-day period or extension, respectively, shall expire at the end of that 6-month period.
 
-(b)(1) For purposes of this section, the decision to assert any claim of constitutionally based privilege against disclosure of a Presidential record (or reasonably segregable part of a record) must be made personally by a formerPresident or the incumbent President, as applicable.
+(b)(1) For purposes of this section, the decision to assert any claim of constitutionally based privilege against disclosure of a Presidential record (or reasonably segregable part of a record) must be made personally by a former President or the incumbent President, as applicable.
 
 (2) A former President or the incumbent President shall notify the Archivist, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate of a privilege claim under paragraph (1) on the same day that the claim is asserted under such paragraph.
 

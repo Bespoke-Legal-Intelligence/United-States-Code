@@ -16,7 +16,7 @@ Not later than 3 years after June 22, 2009, and not less than every 2 years ther
 
 Not later than 5 years after June 22, 2009, the Comptroller General of the United States shall conduct a study of, and submit to the Committees described in subsection (a) a report concerning—
 
-&emsp;(1) the adequacy of the authority and resources provided to the Secretary of Health and Human Services for this division to carry out its goals and purposes; and
+&emsp;(1) the adequacy of the authority and resources provided to the Secretary of Healthand Human Services for this division to carry out its goals and purposes; and
 
 &emsp;(2) any recommendations for strengthening that authority to more effectively protect the public health with respect to the manufacture, marketing, and distribution of tobacco products.
 
@@ -40,7 +40,7 @@ Section was enacted as part of the Family Smoking Prevention and Tobacco Control
 
 #### Modification of Deadlines for Secretarial Action
 
-With respect to any time periods specified in div. A of Pub. L. 111–31 that begin on June 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscalquarters of fiscal year 2010 for which the Secretary has collected fees under section 387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
+With respect to any time periods specified in div. A of Pub. L. 111–31 that begin on June 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 for which the Secretary has collected fees under section 387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be plural.</i>
 

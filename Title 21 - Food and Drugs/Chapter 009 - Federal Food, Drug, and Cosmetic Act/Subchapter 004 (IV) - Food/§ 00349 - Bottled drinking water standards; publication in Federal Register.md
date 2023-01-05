@@ -14,11 +14,11 @@
 
 (4)(A) If the Secretary does not promulgate a regulation under this subsection within the period described in paragraph (1), the national primary drinking water regulation referred to in paragraph (1) shall be considered, as of the date on which the Secretary is required to establish a regulation under paragraph (1), as the regulation applicable under this subsection to bottled water.
 
-(B) In the case of a national primary drinking water regulation that pursuant to subparagraph\(A) is considered to be a standard of quality regulation, the Secretary shall, not later than the applicable date referred to in such subparagraph, publish in the Federal Register a notice—
+(B) In the case of a national primary drinking water regulation that pursuant to subparagraph (A) is considered to be a standard of quality regulation, the Secretary shall, not later than the applicable date referred to in such subparagraph, publish in the Federal Register a notice—
 
 &emsp;(i) specifying the contents of such regulation, including monitoring requirements; and
 
-&emsp;(ii) providing that for purposes of this paragraph the effective date for such regulation is the same as the effective date for the regulation for purposes of the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\] (or, if the exception under paragraph (1) applies to the regulation, that the effective date for the regulation is not later than 2 years and 180 days after August 6, 1996).
+&emsp;(ii) providing that for purposes of this paragraph the effective date for such regulation is the same as the effective date for the regulation for purposes of the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\] (or, if the exceptionunder paragraph (1) applies to the regulation, that the effective date for the regulation is not later than 2 years and 180 days after August 6, 1996).
 
 (June 25, 1938, ch. 675, §410, as added Pub. L. 93–523, §4, Dec. 16, 1974, 88 Stat. 1694; amended Pub. L. 104–182, title III, §305, Aug. 6, 1996, 110 Stat. 1684.)
 

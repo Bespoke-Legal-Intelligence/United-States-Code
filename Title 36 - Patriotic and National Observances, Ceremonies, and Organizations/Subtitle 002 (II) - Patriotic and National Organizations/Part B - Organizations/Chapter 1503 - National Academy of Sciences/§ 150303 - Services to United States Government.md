@@ -106,7 +106,7 @@ Reports.—
 
 &emsp;&emsp;"(A)
 
-Annual report to congress.—Not later than 1 year after the selection of the 2 Co-Chairpersons of the Commission, and each subsequentyear thereafter, the Commission shall prepare and submit to the appropriate Committees of Congress and the President a report that contains a detailed statement of the recommendations, findings, and conclusions of the Commission on the activities of the Academy and a designated Institute related to the establishment of a Key National Indicator System.
+Annual report to congress.—Not later than 1 year after the selection of the 2 Co-Chairpersons of the Commission, and each subsequent year thereafter, the Commission shall prepare and submit to the appropriate Committees of Congress and the President a report that contains a detailed statement of the recommendations, findings, and conclusions of the Commission on the activities of the Academy and a designated Institute related to the establishment of a Key National Indicator System.
 
 &emsp;&emsp;"(B)
 
@@ -206,7 +206,7 @@ financial audit.—If an Institute is established under this section, the Comptr
 
 &emsp;"(3) GAO
 
-programmatic review.—The Comptroller General of the United States shall conduct programmatic assessments of the Institute established under this section as determined necessary by the Comptroller General and report the findings to theCommission and to the appropriate authorizing committees of Congress.
+programmatic review.—The Comptroller General of the United States shall conduct programmatic assessments of the Institute established under this section as determined necessary by the Comptroller General and report the findings to the Commission and to the appropriate authorizing committees of Congress.
 
 "(e)
 
@@ -246,7 +246,7 @@ NOW, THEREFORE, by the authority vested in me as President by the Constitution a
 
 (a) To stimulate research in the mathematical, physical, biological, environmental, and social sciences, and in the application of these sciences to engineering, agriculture, medicine, and other useful arts, with the object of increasing knowledge, of strengthening the national security including the contribution of science and engineering to economic growth, of ensuring the health of the American people, of aiding in the attainment of environmental goals, and of contributing in other ways to the public welfare.
 
-(b) To survey the broad possibilities of science, to formulate comprehensive projects of research, and to develop effective means of utilizing the scientific and technical resources of the country for dealing with such projects.
+(b) To survey the broad possibilities of science, to formulate comprehensive projects of research, and to develop effective means of utilizing the scientific andtechnical resources of the country for dealing with such projects.
 
 (c) To promote cooperation in research, at home and abroad, in order to secure concentration of effort, minimize duplication, and stimulate progress; but in all cooperative undertakings to give encouragement to individual initiative, as fundamentally important to the advancement of science.
 

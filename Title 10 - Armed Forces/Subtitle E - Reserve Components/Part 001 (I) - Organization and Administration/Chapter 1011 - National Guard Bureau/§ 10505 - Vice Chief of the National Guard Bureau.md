@@ -2,7 +2,7 @@
 
 (a)
 
-Appointment.—(1) There is a Vice Chief of the National Guard Bureau, appointed by the President, by and with the advice and consent ofthe Senate. The appointment shall be made from officers of the Army National Guard of the United States or the Air National Guard of the United States who—
+Appointment.—(1) There is a Vice Chief of the National Guard Bureau, appointed by the President, by and with the advice and consent of the Senate. The appointment shall be made from officers of the Army National Guard of the United States or the Air National Guard of the United States who—
 
 &emsp;(A) are recommended for such appointment by their respective Governors or, in the case of the District of Columbia, the commanding general of the District of Columbia National Guard;
 
@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 114–328, §502(rr)(2), struck out subsec. (c). Text read 
 
 <b>2011</b>—Pub. L. 112–81, §511(d)(1), substituted "Vice Chief of the National Guard Bureau" for "Director of the Joint Staff of the National Guard Bureau" in section catchline.
 
-Subsec. (a)(1). Pub. L. 112–81, §511(b)(1), substituted "Vice Chief of the National Guard Bureau, appointed by the President, by and with the advice and consent of the Senate. The appointment shall be made from" for "Director of the Joint Staff of the National Guard Bureau, selected by the Secretary of Defense from" in introductory provisions.
+Subsec. (a)(1). Pub. L. 112–81, §511(b)(1), substituted "Vice Chief of the National Guard Bureau, appointed by the President, by and with the advice and consent ofthe Senate. The appointment shall be made from" for "Director of the Joint Staff of the National Guard Bureau, selected by the Secretary of Defense from" in introductory provisions.
 
 Subsec. (a)(1)(B) to (E). Pub. L. 112–81, §511(b)(2), added subpars. (B) and (C), redesignated former subpars. (B) and (C) as (D) and (E), respectively, and substituted "brigadier general" for "colonel" in subpar. (E).
 

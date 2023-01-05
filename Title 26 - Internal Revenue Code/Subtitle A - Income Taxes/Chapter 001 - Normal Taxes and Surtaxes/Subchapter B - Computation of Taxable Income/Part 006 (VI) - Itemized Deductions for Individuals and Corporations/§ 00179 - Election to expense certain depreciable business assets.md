@@ -48,7 +48,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 #### (A) In general
 
-&emsp;&emsp;The cost of any sport utility vehicle for any taxable year which may be taken into account under this section shall not exceed $25,000.
+&emsp;&emsp;The cost of any sport utility vehicle for any taxable year which may be taken intoaccount under this section shall not exceed $25,000.
 
 #### (B) Sport utility vehicle
 
@@ -72,7 +72,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;&emsp;(II) is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
 
-&emsp;&emsp;&emsp;&emsp;(III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver's seat, and hasno body section protruding more than 30 inches ahead of the leading edge of the windshield.
+&emsp;&emsp;&emsp;&emsp;(III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver's seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
 
 #### (6) Inflation adjustment
 
@@ -248,7 +248,7 @@ Subsec. (c)(2). Pub. L. 114–113, §124(d), struck out "irrevocable" after "Ele
 
 Subsec. (d)(1). Pub. L. 114–113, §124(e), struck out "and shall not include air conditioning or heating units" after "section 50(b)" in concluding provisions.
 
-Subsec. (d)(1)(A)(ii). Pub. L. 114–113, §124(b), substituted "and to which section 167 applies" for ", towhich section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2015".
+Subsec. (d)(1)(A)(ii). Pub. L. 114–113, §124(b), substituted "and to which section 167 applies" for ", to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2015".
 
 Subsec. (f)(1). Pub. L. 114–113, §124(c)(2)(A), struck out "beginning after 2009 and before 2016" after "any taxable year" in introductory provisions.
 
@@ -448,7 +448,7 @@ Extension.—Except as provided in paragraph (2), the amendments made by this se
 
 "(2)
 
-Modifications.—The amendments made by subsections (c)(2) and (e) \[amending this section\] shallapply to taxable years beginning after December 31, 2015."
+Modifications.—The amendments made by subsections (c)(2) and (e) \[amending this section\] shall apply to taxable years beginning after December 31, 2015."
 
 #### Effective Date of 2014 Amendment
 
@@ -520,7 +520,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 201(d)(3) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
-Amendment by section 201(d)(3) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
+Amendment by section 201(d)(3) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part ofspecified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -540,7 +540,7 @@ Amendment by Pub. L. 97–34 applicable to property placed in service after Dec.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 213(a) of Pub. L. 94–455 applicable in the case of partnership taxable years beginningafter Dec. 31, 1975, see section 213(f) of Pub. L. 94–455, set out as an Effective Date note under section 709 of this title.
+Amendment by section 213(a) of Pub. L. 94–455 applicable in the case of partnership taxable years beginning after Dec. 31, 1975, see section 213(f) of Pub. L. 94–455, set out as an Effective Date note under section 709 of this title.
 
 #### Effective Date of 1969 Amendment
 

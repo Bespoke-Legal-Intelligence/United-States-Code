@@ -52,7 +52,7 @@
 
 &emsp;(D) contributions made to or for the benefit of any candidate nominated by a political party for election to the office of Vice President of the United States shall be considered to be contributions made to or for the benefit of the candidate of such party for election to the office of President of the United States.
 
-(8) For purposes of the limitations imposed by this section, all contributions made by a person, either directly or indirectly, on behalf of a particular candidate, including contributions which are in any way earmarked or otherwise directed through an intermediary or conduit to such candidate, shall be treated as contributions from such person to such candidate. The intermediary or conduit shall report the original source and the intended recipient of such contribution to the Commission and to the intended recipient.
+(8) For purposes of the limitations imposed by this section, all contributions made by a person, either directly or indirectly, on behalf of a particular candidate, including contributions which are in any way earmarked or otherwise directed through an intermediary or conduit to such candidate, shall be treated as contributions from such person to such candidate. The intermediary or conduit shall report the original source andthe intended recipient of such contribution to the Commission and to the intended recipient.
 
 (9) An account described in this paragraph is any of the following accounts:
 
@@ -194,7 +194,7 @@ Notwithstanding any other provision of this Act, amounts totaling not more than 
 
 &emsp;&emsp;&emsp;&emsp;(I) the increased limit shall be 6 times the applicable limit; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the limit under subsection (a)(3) shall not apply with respect to any contribution made with respect to a candidate if such contribution is made underthe increased limit of subparagraph (A) during a period in which the candidate may accept such a contribution; and
+&emsp;&emsp;&emsp;&emsp;(II) the limit under subsection (a)(3) shall not apply with respect to any contribution made with respect to a candidate if such contribution is made under the increased limit of subparagraph (A) during a period in which the candidate may accept such a contribution; and
 
 &emsp;&emsp;&emsp;(iii) 10 times the threshold amount—
 
@@ -262,7 +262,7 @@ Any candidate who incurs personal loans made after the effective date of the Bip
 
 This Act, referred to in subsecs. (a)(5) and (h), means the Federal Election Campaign Act of 1971, as defined by section 30101 of this title.
 
-For effective date of the Bipartisan Campaign Reform Act of 2002, referred to in subsec. (j), see section 402 ofPub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title.
+For effective date of the Bipartisan Campaign Reform Act of 2002, referred to in subsec. (j), see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 30101 of this title.
 
 #### Codification
 
@@ -270,7 +270,7 @@ Section was formerly classified to section 441a of Title 2, The Congress, prior 
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, formerly classified to section 441a of Title 2, The Congress, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, formerly classified to section 441a of Title 2, The Congress, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Prior Provisions
 

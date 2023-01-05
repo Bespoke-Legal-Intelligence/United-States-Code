@@ -36,25 +36,27 @@ The rules of law that apply to the Armed Forces under the following provisions o
 
 &emsp;(16) Chapter 61, relating to retirement or separation for physical disability.
 
-&emsp;(17) Chapter 69, relating to retired grade, except sections 1370, 1375, and 1376.
+&emsp;(17) Section 1251(e), relating to retirement or separation based on years of creditable service.
 
-&emsp;(18) Chapter 71, relating to computation of retired pay.
+&emsp;(18) Chapter 69, relating to retired grade, except sections 1370, 1375, and 1376.
 
-&emsp;(19) Chapter 73, relating to annuities based on retired or retainer pay.
+&emsp;(19) Chapter 71, relating to computation of retired pay.
 
-&emsp;(20) Subchapter II of chapter 75, relating to death benefits.
+&emsp;(20) Chapter 73, relating to annuities based on retired or retainer pay.
 
-&emsp;(21) Subchapter I of chapter 88, relating to military family programs, applicable on an as-available and fully reimbursable basis.
+&emsp;(21) Subchapter II of chapter 75, relating to death benefits.
 
-&emsp;(22) Section 2005, relating to advanced education assistance, active duty agreements, and reimbursement requirements.
+&emsp;(22) Subchapter I of chapter 88, relating to military family programs, applicable on an as-available and fully reimbursable basis.
 
-&emsp;(23) Section 2634, relating to transportation of motor vehicles for members on permanent change of station.
+&emsp;(23) Section 2005, relating to advanced education assistance, active duty agreements, and reimbursement requirements.
 
-&emsp;(24) Sections 2731 and 2735, relating to property loss incident to service.
+&emsp;(24) Section 2634, relating to transportation of motor vehicles for members on permanent change of station.
 
-&emsp;(25) Section 2771, relating to final settlement of accounts of deceased members.
+&emsp;(25) Sections 2731 and 2735, relating to property loss incident to service.
 
-&emsp;(26) Such other provisions of subtitle A of that title as may be adopted for applicability to the commissioned officer corps of the National Oceanic and Atmospheric Administration by any other provision of law.
+&emsp;(26) Section 2771, relating to final settlement of accounts of deceased members.
+
+&emsp;(27) Such other provisions of subtitle A of that title as may be adopted for applicability to the commissioned officer corps of the National Oceanic and Atmospheric Administration by any other provision of law.
 
 #### (b) References
 
@@ -64,7 +66,7 @@ The authority vested by title 10 in the "military departments", "the Secretary c
 
 The Secretary may prescribe regulations to carry out the application of section 1034 of title 10 to the commissioned officer corps of the Administration, including by prescribing such administrative procedures for investigation and appeal within the commissioned officer corps as the Secretary considers appropriate.
 
-(Pub. L. 107–372, title II, §261, Dec. 19, 2002, 116 Stat. 3091; Pub. L. 116–259, title II, §§205(a), 207, Dec. 23, 2020, 134 Stat. 1166, 1168.)
+(Pub. L. 107–372, title II, §261, Dec. 19, 2002, 116 Stat. 3091; Pub. L. 116–259, title II, §§205(a), 207, Dec. 23, 2020, 134 Stat. 1166, 1168; Pub. L. 117–263, div. K, title CXVII, §11705(c), Dec. 23, 2022, 136 Stat. 4157.)
 
 #### <b>Editorial Notes</b>
 
@@ -73,6 +75,8 @@ The Secretary may prescribe regulations to carry out the application of section 
 Provisions similar to those in this section were contained in section 857a of this title prior to repeal by Pub. L. 107–372.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(17) to (27). Pub. L. 117–263 added par. (17) and redesignated former pars. (17) to (26) as (18) to (27), respectively.
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–259, §207(a), added par. (8) and redesignated former pars. (8) to (25) (as added and redesignated by section 205(a), see note below) as (9) to (26), respectively.
 

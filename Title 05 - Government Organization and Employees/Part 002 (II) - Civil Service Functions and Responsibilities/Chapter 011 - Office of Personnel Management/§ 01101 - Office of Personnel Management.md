@@ -40,7 +40,7 @@ Pub. L. 102–378, §1(a), Oct. 2, 1992, 106 Stat. 1346, provided that: "This Ac
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–224, §1, Mar. 2, 1984, 98 Stat. 47, provided that: "This Act \[amending sections 1304, 3323, 4108, 4109,7104, and 7122 of this title\] may be cited as the 'Civil Service Miscellaneous Amendments Act of 1983'."
+Pub. L. 98–224, §1, Mar. 2, 1984, 98 Stat. 47, provided that: "This Act \[amending sections 1304, 3323, 4108, 4109, 7104, and 7122 of this title\] may be cited as the 'Civil Service Miscellaneous Amendments Act of 1983'."
 
 #### Short Title of 1978 Amendment
 
@@ -96,7 +96,7 @@ Pub. L. 108–136, div. A, title IX, §906, Nov. 24, 2003, 117 Stat. 1561, provi
 
 "(a)
 
-Transfer of Functions.—(1) Subject to subsection (b), the Secretary of Defense may transfer to the Office of Personnel Management the personnel security investigations functions that, as of the date of the enactment of this Act \[Nov. 24, 2003\], are performed by the Defense Security Service of the Department of Defense. Such a transfer may be made only with the concurrence of the Director of the Office of Personnel Management.
+Transfer of Functions.—(1) Subject to subsection (b), the Secretary of Defense may transfer to the Office of Personnel Management the personnel security investigations functions that, as of the date ofthe enactment of this Act \[Nov. 24, 2003\], are performed by the Defense Security Service of the Department of Defense. Such a transfer may be made only with the concurrence of the Director of the Office of Personnel Management.
 
 "(2) The Director of the Office of Personnel Management may accept a transfer of functions under paragraph (1).
 
@@ -172,7 +172,7 @@ Reports.—(1) The Office shall submit a report to the Committee on Government R
 
 #### Combined Federal Campaign Brochure List and General Designation Option for International Agencies
 
-Pub. L. 102–393, title V, §532, Oct. 6, 1992, 106 Stat. 1763, provided that: "Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter, no funds made available to the Office of Personnel Management may be used to prepare, promulgate, or implement any rules or regulations relating to the Combined Federal Campaign unless such rules or regulations include a Combined Federal Campaign brochure list and general designation option solely for international agencies, which list (listed by Federation in the case of affiliated agencies) and option shall include only those international agencies that elect in their annual application to be included under such list and option rather than under the national agencies list and option: <i>Provided</i>, That such limitation on the use of funds shall not apply to any activities related to the 1992 Combined Federal Campaign."
+Pub. L. 102–393, title V, §532, Oct. 6, 1992, 106 Stat. 1763, provided that: "Notwithstanding any other provision of law, beginning October 1, 1992, and thereafter,no funds made available to the Office of Personnel Management may be used to prepare, promulgate, or implement any rules or regulations relating to the Combined Federal Campaign unless such rules or regulations include a Combined Federal Campaign brochure list and general designation option solely for international agencies, which list (listed by Federation in the case of affiliated agencies) and option shall include only those international agencies that elect in their annual application to be included under such list and option rather than under the national agencies list and option: <i>Provided</i>, That such limitation on the use of funds shall not apply to any activities related to the 1992 Combined Federal Campaign."
 
 #### Report on Productivity of Federal Workforce; Deadline
 
@@ -190,7 +190,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 "(C) Notwithstanding any requirement referred to in subparagraph (A) or (B), for purposes of any Combined Federal Campaign—
 
-&emsp;"(i) any voluntary agency or federated group which was a named plaintiff as of September 1, 1987, in acase brought in the United States District Court for the District of Columbia, and designated as Civil Action No. 83–0928 or 86–1367, and
+&emsp;"(i) any voluntary agency or federated group which was a named plaintiff as of September 1, 1987, in a case brought in the United States District Court for the District of Columbia, and designated as Civil Action No. 83–0928 or 86–1367, and
 
 &emsp;"(ii) The Federal Employee Education and Assistance Fund,
 
@@ -272,7 +272,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 "(8) The name of any individual making a designated contribution in a campaign shall, upon request of the recipient voluntary agency or federated group, be released to such agency or group, unless the contributor indicates that his or her name is not to be released. Under no circumstance may the names of contributors be sold or otherwise released by such agency or group.
 
-"(9)(A) The name of each participating voluntary agency and federated group, together with a brief description of their respective programs, shall be published in any information leaflet distributed to employees in a local combined Federal campaign. Agencies shall be arranged by federated group, with combinedFederal campaign organization code numbers corresponding to each such agency and group.
+"(9)(A) The name of each participating voluntary agency and federated group, together with a brief description of their respective programs, shall be published in any information leaflet distributed to employees in a local combined Federal campaign. Agencies shall be arranged by federated group, with combined Federal campaign organization code numbers corresponding to each such agency and group.
 
 "(B) The requirement under subparagraph (A) relating to the inclusion of program descriptions may, at the discretion of a local Federal coordinating committee, be waived for a local campaign in any year if, in the immediately preceding campaign year, contributions received through the local campaign totalled less than $100,000.
 
@@ -306,7 +306,7 @@ Pub. L. 95–454, §3, Oct. 13, 1978, 92 Stat. 1112, provided that: "It is the p
 
 &emsp;"(7) in appropriate instances, pay increases should be based on quality of performance rather than length of service;
 
-&emsp;"(8) research programs and demonstration projects should be authorized to permit Federal agencies to experiment, subject to congressional oversight, with new and different personnel management concepts in controlled situations to achieve more efficient management of the Government's human resources and greater productivity in the delivery of service to the public;
+&emsp;"(8) research programs and demonstration projects should be authorized to permit Federal agencies to experiment, subject to congressional oversight, with new and different personnel management concepts incontrolled situations to achieve more efficient management of the Government's human resources and greater productivity in the delivery of service to the public;
 
 &emsp;"(9) the training program of the Government should include retraining of employees for positions in other agencies to avoid separations during reductions in force and the loss to the Government of the knowledge and experience that these employees possess; and
 
@@ -378,7 +378,7 @@ The Director may delegate, from time to time, to the head of any agency employin
 
 #### Sec. 202. Functions of the Merit Systems Protection Board and Related Matters
 
-(a) There shall remain with the Board the hearing, adjudication, and appeals functions of the United States Civil Service Commission specified in 5 U.S.C. 1104(b)(4) (except hearings, adjudications and appeals with respect to examination ratings), and also found in the following statutes:
+(a) There shall remain with the Board the hearing, adjudication, and appeals functions of the United States Civil Service Commission specified in 5 U.S.C.1104(b)(4) (except hearings, adjudications and appeals with respect to examination ratings), and also found in the following statutes:
 
 (i) 5 U.S.C. 1504–1507, 7325, 5335, 7521, 7701 and 8347(d);
 
@@ -404,7 +404,7 @@ Federal Register.
 
 #### Sec. 203. Savings Provision
 
-The Board shall accept appeals from agency actions effected prior to the effective date of this Plan. On the effective date of Part II of this Plan, proceedings then before the Federal Employee Appeals Authority shall continue before the Board; proceedings then before the Appeals Review Board and proceedings then before the United States Civil Service Commission on appeal from decisions of the Appeals Review Board shall continue before the Board; other employee appeals before boards or other bodies pursuant to law or regulation shall continue to be processed pursuant to those laws or regulations. Nothing in this section shall affect the right ofa Federal employee to judicial review under applicable law.
+The Board shall accept appeals from agency actions effected prior to the effective date of this Plan. On the effective date of Part II of this Plan, proceedings then before the Federal Employee Appeals Authority shall continue before the Board; proceedings then before the Appeals Review Board and proceedings then before the United States Civil Service Commission on appeal from decisions of the Appeals Review Board shall continue before the Board; other employee appeals before boards or other bodies pursuant to law or regulation shall continue to be processed pursuant to those laws or regulations. Nothing in this section shall affect the right of a Federal employee to judicial review under applicable law.
 
 #### Sec. 204. The Special Counsel
 
@@ -444,7 +444,7 @@ There shall be a General Counsel of the Authority, who shall be appointed by the
 
 #### Sec. 303. The Federal Service Impasses Panel
 
-The Federal Service Impasses Panel, established under Executive Order 11491, as amended \[set out under 5 U.S.C. 7101\], (the "Panel") shall continue, and shall be a distinct organizational entity within the Authority.
+The Federal Service Impasses Panel, established under Executive Order 11491, as amended \[set out under5 U.S.C. 7101\], (the "Panel") shall continue, and shall be a distinct organizational entity within the Authority.
 
 #### Sec. 304. Functions
 
@@ -476,7 +476,7 @@ All matters which relate to the functions transferred by Section 304 of this Pla
 
 #### Sec. 401. Incidental Transfer
 
-So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation wasoriginally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
+So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
 
 #### Sec. 402. Interim Officers
 
@@ -512,7 +512,7 @@ The Plan will create, within the Board, a Special Counsel to investigate and pro
 
 #### federal labor relations authority
 
-An Executive Order now vests existing labor-management relations in a part-time Federal Labor-Relations Council, comprised of three top government managers; other important functions are assigned to the Assistant Secretary of Labor for Labor-Management Relations. This arrangement is defective because the Council members are part-time, they come exclusively from the ranks of management and their jurisdiction is fragmented.
+An Executive Order now vests existing labor-management relations in a part-time Federal Labor-Relations Council, comprised of three top government managers; other important functions are assigned to the Assistant Secretary of Labor for Labor-Management Relations. This arrangement is defective because the Council members are part-time, they come exclusively from theranks of management and their jurisdiction is fragmented.
 
 The Plan I submit today would consolidate the central policymaking functions in labor-management relations now divided between the Council and the Assistant Secretary into one Federal Labor Relations Authority. The Authority would be composed of three full-time members appointed by the President with the advice and consent of the Senate. Its General Counsel, also appointed by the President and confirmed by the Senate, would present unfair labor practice complaints. The Plan also provides for the continuance of the Federal Service Impasses Panel within the Authority to resolve negotiating impasses between Federal employee unions and agencies.
 
@@ -540,7 +540,7 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12107. Implementation of Reform of Personnel Management System
 
-Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, as amended by Ex. Ord. No. 12126, Mar. 29, 1979, 44 F.R.18923; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, provided:
+Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, as amended by Ex. Ord. No. 12126, Mar. 29, 1979, 44 F.R. 18923; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, provided:
 
 By virtue of the authority vested in me as President by the Constitution and statutes of the United States of America, and by Section 403 of Reorganization Plan No. 2 of 1978 (43 FR 36037) \[set out above\], it is hereby ordered as follows:
 
@@ -596,7 +596,7 @@ General
 
 Redesignations
 
-2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section under subsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words "Office of Personnel Management" for the words "Civil Service Commission" or "United States Civil Service Commission"; by substituting the word "Office" for the word "Commission" wherever the word "Commission" is used as a reference to United States Civil Service Commission; and by substituting the words "Director, Office of Personnel Management" for the words "Chairman, Civil Service Commission", "Chairman, United States Civil Service Commission", "Commissioners" or "Commissioner" wherever they appear.
+2–101. <i>Office of Personnel Management</i>. Each of the Executive orders, as amended, listed in this Section under subsections (a) and (b), as applicable, and any other order which relates to functions or areas of responsibility delegated to the Office of Personnel Management, is amended and revised by substituting the words"Office of Personnel Management" for the words "Civil Service Commission" or "United States Civil Service Commission"; by substituting the word "Office" for the word "Commission" wherever the word "Commission" is used as a reference to United States Civil Service Commission; and by substituting the words "Director, Office of Personnel Management" for the words "Chairman, Civil Service Commission", "Chairman, United States Civil Service Commission", "Commissioners" or "Commissioner" wherever they appear.
 
 (a) Executive orders relating to the Civil Service Rules, ethics and other matters of Presidential interest.
 
@@ -784,7 +784,7 @@ Labor Management Relations in the Federal Service
 
 General Provisions
 
-2–401. <i>Study and Report Provisions.</i> The Director of the Office of Personnel Management is directed to conduct a study of Executive orders listed in Section 2–101(a) and (b) and to coordinate the study with such other agencies as may be named in or affected by these orders. The Director of Personnel Management and the Director of the Office of Management and Budget are directed to submit a report on or before July 1, 1981 to the President concerning the performance of functions specified in these Executive orders and any other Executive orders affecting the functions or responsibilities of the Office of Personnel Management. The report shall contain specific detailed recommendations for the continuation, modification, revision or revocation of each Executive order.
+2–401. <i>Study and Report Provisions.</i> The Director of the Office of Personnel Management is directed to conduct a study of Executive orders listed in Section 2–101(a) and (b) and to coordinate the study with such other agencies as may be named in or affected by these orders. The Director of Personnel Management and theDirector of the Office of Management and Budget are directed to submit a report on or before July 1, 1981 to the President concerning the performance of functions specified in these Executive orders and any other Executive orders affecting the functions or responsibilities of the Office of Personnel Management. The report shall contain specific detailed recommendations for the continuation, modification, revision or revocation of each Executive order.
 
 2–402. <i>Continuing Effect of this Order.</i> Except as required by the Civil Service Reform Act of 1978 \[Pub. L. 95–454\] as its provisions become effective, in accord with Section 7135 of Title 5, United States Code, as amended, and in accord with Section 902(a) of that Act \[set out as a Savings Provisions note above\], the provisions of this Order shall continue in effect, according to its terms, until modified, terminated or suspended.
 
@@ -812,7 +812,7 @@ Section 1.
 
 (a) The Director of the Office of Personnel Management shall make arrangements for voluntary health and welfare organizations to solicit contributions from Federal employees and members of the uniformed services at their places of employment or duty. Federal employees and members of the uniformed services can also be solicited to make pledges of volunteer time. These arrangements shall take the form of an annual Combined Federal Campaign in which eligible voluntary health and welfare organizations are authorized to take part.
 
-(b) The Director shall consider permitting annuitants to make contributions to the Combined Federal Campaign through allotments or assignments of amounts from their Federal annuities. The Director may prescribe rules and regulations to govern the solicitationof such contributions and make arrangements to inform annuitants of their ability to make contributions in this manner.
+(b) The Director shall consider permitting annuitants to make contributions to the Combined Federal Campaign through allotments or assignments of amounts from their Federal annuities. The Director may prescribe rules and regulations to govern the solicitation of such contributions and make arrangements to inform annuitants of their ability to make contributions in this manner.
 
 Sec. 2. (a) The Director shall establish criteria for determining the eligibility of voluntary health and welfare organizations that may participate in each of the annual Combined Federal Campaigns.
 

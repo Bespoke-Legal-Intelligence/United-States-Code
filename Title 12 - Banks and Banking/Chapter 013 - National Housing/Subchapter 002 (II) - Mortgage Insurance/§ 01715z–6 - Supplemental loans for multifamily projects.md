@@ -2,7 +2,7 @@
 
 #### (a) Authorization to insure; "supplemental loan" defined
 
-With respect to a multifamily project, hospital, or group practice facility covered by a mortgage insured under any section or subchapter of this chapter or covered by a mortgage held by the Secretary, the Secretary is authorized, upon such terms and conditions as he may prescribe, to make commitments to insure, and to insure, supplemental loans (including advances during construction or improvement) made by financial institutions approved by the Secretary. As used in this section, "supplemental loan" means a loan, advance of credit, or purchase of an obligation representing a loan or advance of credit made for the purpose of financing improvements or additions to such project, hospital, or facility: <i>Provided</i>, That a loan involving a nursing home, hospital, or a grouppractice facility may also be made for the purpose of financing equipment to be used in the operation of such nursing home, hospital, or facility.
+With respect to a multifamily project, hospital, or group practice facility covered by a mortgage insured under any section or subchapter of this chapter or covered by a mortgage held by the Secretary, the Secretary is authorized, upon such terms and conditions as he may prescribe, to make commitments to insure, and to insure, supplemental loans (including advances during construction or improvement) made by financial institutions approved by the Secretary. As used in this section, "supplemental loan" means a loan, advance of credit, or purchase of an obligation representing a loan or advance of credit made for the purpose of financing improvements or additions to such project, hospital, or facility: <i>Provided</i>, That a loan involving a nursing home, hospital, or a group practice facility may also be made for the purpose of financing equipment to be used in the operation of such nursing home, hospital, or facility.
 
 #### (b) Eligibility for insurance
 
@@ -52,7 +52,7 @@ Notwithstanding the foregoing, the Secretary may insure a loan for improvements 
 
 (3) The provisions of subsection (c) shall apply to loans insured under this subsection.
 
-(4) The Secretary shall provide that any person obligated on the note for any loan insured under this section be regulated or restricted, until the termination of all obligations of the Secretary under the insurance, by the Secretary as to rents or sales, charges, capital structure, rate of return, and methods of operations of the multifamily project to such an extent and in such manner as to provide reasonable rentals to tenants and a reasonable return on the investment.
+(4) The Secretary shall provide that any person obligated on the note for any loan insured under this section be regulated or restricted, until the termination of all obligations of the Secretary under the insurance, by the Secretary as to rents or sales, charges, capital structure, rate of return, and methods of operations of the multifamily project to such an extent and in such manner as to provide reasonable rentals totenants and a reasonable return on the investment.
 
 #### (f) Repealed. Pub. L. 104–204, title II, Sept. 26, 1996, 110 Stat. 2885
 

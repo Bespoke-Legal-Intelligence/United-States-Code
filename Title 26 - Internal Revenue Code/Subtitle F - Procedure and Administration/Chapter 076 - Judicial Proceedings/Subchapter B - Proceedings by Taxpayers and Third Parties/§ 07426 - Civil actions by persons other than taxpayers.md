@@ -16,7 +16,7 @@
 
 #### (4) Substitution of value
 
-&emsp;If a certificate of discharge is issued to any person under section 6325(b)(4) with respect to any property, such person may, within 120 days after the day on which such certificate isissued, bring a civil action against the United States in a district court of the United States for a determination of whether the value of the interest of the United States (if any) in such property is less than the value determined by the Secretary. No other action may be brought by such person for such a determination.
+&emsp;If a certificate of discharge is issued to any person under section 6325(b)(4) with respect to any property, such person may, within 120 days after the day on which such certificate is issued, bring a civil action against the United States in a district court of the United States for a determination of whether the value of the interest of the United States (if any) in such property is less than the value determined by the Secretary. No other action may be brought by such person for such a determination.
 
 #### (b) Adjudication
 

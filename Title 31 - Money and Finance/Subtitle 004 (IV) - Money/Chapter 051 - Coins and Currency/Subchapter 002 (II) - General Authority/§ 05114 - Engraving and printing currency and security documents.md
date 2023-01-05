@@ -18,7 +18,7 @@ Engraving and printing for other governments.—The Secretary of the Treasury ma
 
 &emsp;(3)
 
-Procurement guidelines.—Articles, material, and supplies procured for use in the production of currency, postage stamps, and other security documents for foreign governments pursuant to paragraph (2) shall be treated in the same manner as articles, material,and supplies procured for public use within the United States for purposes of title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.; commonly referred to as the Buy American Act).<sup>1</sup>
+Procurement guidelines.—Articles, material, and supplies procured for use in the production of currency, postage stamps, and other security documents for foreign governments pursuant to paragraph (2) shall be treated in the same manner as articles, material, and supplies procured for public use within the United States for purposes of title III of the Act of March 3, 1933 (41 U.S.C. 10a et seq.; commonly referred to as the Buy American Act).<sup>1</sup>
 
 (b) United States currency has the inscription "In God We Trust" in a place the Secretary decides is appropriate. Only the portrait of a deceased individual may appear on United States currency and securities. The name of the individual shall be inscribed below the portrait.
 
@@ -106,7 +106,7 @@ In subsection (c), before clause (1), the words "subject to applicable regulatio
 
 #### References in Text
 
-Title III of the Act of March 3, 1933, referred to in subsec. (a)(3), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 andTables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+Title III of the Act of March 3, 1933, referred to in subsec. (a)(3), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 #### Amendments
 

@@ -112,7 +112,7 @@ Elements.—The report required under subsection (a) shall include the following
 
 &emsp;&emsp;"(A) A survey of the facilities and sites worldwide that contain nuclear weapons or related equipment, or formula quantities of strategic special nuclear material.
 
-&emsp;&emsp;"(B) A list of such facilities and sites determined to be of the highest priority for security and accounting of nuclear weapons and related equipment, or the elimination, removal, or security and accounting of formula quantities of strategic special nuclear material, taking into account risk of theft from such facilities and sites, and organized by level of priority.
+&emsp;&emsp;"(B) A list of such facilities and sites determined to be of the highest priority for security and accounting of nuclear weapons and related equipment, or the elimination, removal, or security andaccounting of formula quantities of strategic special nuclear material, taking into account risk of theft from such facilities and sites, and organized by level of priority.
 
 &emsp;&emsp;"(C) A prioritized plan, including measurable milestones, metrics, estimated timetables, and estimated costs of implementation, on the following:
 
@@ -122,7 +122,7 @@ Elements.—The report required under subsection (a) shall include the following
 
 &emsp;&emsp;&emsp;"(iii) The role that international agencies and the international community have committed to play, together with a plan for securing international contributions.
 
-&emsp;&emsp;"(D) An assessment of the progress made in implementing the plan described in subparagraph (C),including a description of the efforts of foreign governments to secure and account for nuclear weapons and related equipment and to eliminate, remove, or secure and account for formula quantities of strategic special nuclear material.
+&emsp;&emsp;"(D) An assessment of the progress made in implementing the plan described in subparagraph (C), including a description of the efforts of foreign governments to secure and account for nuclear weapons and related equipment and to eliminate, remove, or secure and account for formula quantities of strategic special nuclear material.
 
 &emsp;"(2) A section on efforts to establish and implement the international nuclear security standard described in section 3133(b) and related policies.
 

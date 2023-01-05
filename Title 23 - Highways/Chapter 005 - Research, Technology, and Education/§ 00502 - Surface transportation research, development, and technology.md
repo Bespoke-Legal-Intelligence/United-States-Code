@@ -226,7 +226,7 @@ Related entity.—In this subparagraph, the term "related entity" means a contra
 
 Financial responsibility.—A participant shall obtain liability insurance or demonstrate financial responsibility, in amounts determined by the Secretary, for claims by—
 
-&emsp;&emsp;&emsp;&emsp;(I) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additional insured underthe registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
+&emsp;&emsp;&emsp;&emsp;(I) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additional insured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the Federal Government for damage or loss to Government property resulting from such an activity.
 
@@ -488,7 +488,7 @@ Subsec. (g). Pub. L. 109–59, §5201(j)(1), amended heading and text of subsec.
 
 Pub. L. 109–59, §5201(b)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 109–59, §5201(k), added subsec. (h) relating to infrastructure investment needs report tobe submitted not later than July 31, 2006, and July 31 of every second year thereafter.
+Subsec. (h). Pub. L. 109–59, §5201(k), added subsec. (h) relating to infrastructure investment needs report to be submitted not later than July 31, 2006, and July 31 of every second year thereafter.
 
 Pub. L. 109–59, §5201(b)(1), redesignated subsec. (g), relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter, as (h).
 
@@ -596,7 +596,7 @@ Midsized community.—The term 'midsized community" means any community that is 
 
 &emsp;"(5)
 
-Regional partnership.—The term 'regional partnership' means a partnership composed of 2 or more eligible entities located in jurisdictions with a combined population that is equal to or greater than the population of any midsized community.
+Regional partnership.—The term 'regional partnership' means a partnership composed of 2 ormore eligible entities located in jurisdictions with a combined population that is equal to or greater than the population of any midsized community.
 
 &emsp;"(6)
 
@@ -800,7 +800,7 @@ Reports.—
 
 &emsp;"(1)
 
-Eligible entities.—Not later than 2 years after the date on which an eligible entity receives a SMART grant, and annually thereafter until the dateon which the SMART grant is expended, the eligible entity shall submit to the Secretary an implementation report that describes—
+Eligible entities.—Not later than 2 years after the date on which an eligible entity receives a SMART grant, and annually thereafter until the date on which the SMART grant is expended, the eligible entity shall submit to the Secretary an implementation report that describes—
 
 &emsp;&emsp;"(A) the deployment and operational costs of each eligible project carried out by the eligible entity, as compared to the benefits and savings from the eligible project; and
 
@@ -920,7 +920,7 @@ Improved surface transportation congestion management system measures.—The pur
 
 &emsp;&emsp;"(A) to examine the effectiveness of surface transportation congestion management systems since enactment of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240) \[Dec. 18, 1991\];
 
-&emsp;&emsp;"(B) to identify best case examples of locally designed reporting methods and incorporate suchmethods in research on national models for developing and recommending improved surface transportation congestion measurement and reporting; and
+&emsp;&emsp;"(B) to identify best case examples of locally designed reporting methods and incorporate such methods in research on national models for developing and recommending improved surface transportation congestion measurement and reporting; and
 
 &emsp;&emsp;"(C) to incorporate such methods in the development of national models and methods to monitor, measure, and report surface transportation congestion information.
 
@@ -1366,7 +1366,7 @@ In General.—The Secretary \[of Transportation\] shall develop guidance for usi
 
 Implementation.—The Secretary shall ensure that any guidance developed under subsection (a)—
 
-&emsp;"(1) clearly identifies criteria for low-risk and exempt intelligent transportation systems projects, with a goal of minimizing unnecessary delay or paperwork burden;
+&emsp;"(1) clearly identifies criteria for low-risk and exempt intelligent transportation systems projects,with a goal of minimizing unnecessary delay or paperwork burden;
 
 &emsp;"(2) is consistently implemented by the Department \[of Transportation\] nationwide; and
 
@@ -1376,7 +1376,7 @@ Implementation.—The Secretary shall ensure that any guidance developed under s
 
 Savings Provision.—Nothing in this section prevents the Secretary from amending part 940 of title 23, Code of Federal Regulations (or successor regulations), to reduce State administrative burdens."
 
-Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended by Pub. L. 105–206, title IX, §9011(c), July 22, 1998, 112 Stat. 863; Pub. L. 105–277, div. A, §101(g) \[title III, §370\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 109–59, title V, §5509, Aug. 10, 2005, 119 Stat. 1828; Pub. L. 114–94, div. A, title VI, §6019(d)(2), Dec. 4, 2015, 129 Stat. 1581, provided that:
+Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended by Pub. L. 105–206, title IX, §9011(c), July 22, 1998, 112 Stat. 863; Pub. L. 105–277, div. A, §101(g) \[title III, §370\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 109–59, title V, §5509, Aug. 10, 2005, 119 Stat. 1828; Pub. L. 114–94, div. A, title VI, §6019(d)(2), Dec. 4, 2015, 129 Stat. 1581; Pub. L. 117–286, §4(a)(174), Dec. 27, 2022, 136 Stat. 4325, provided that:
 
 #### "SEC. 5201. SHORT TITLE.
 
@@ -1402,7 +1402,7 @@ Goals.—The goals of the intelligent transportation system program include—
 
 &emsp;"(3) protection and enhancement of the natural environment and communities affected by surface transportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
 
-&emsp;"(4) accommodation of the needs of all users of surface transportation systems, including operators ofcommercial vehicles, passenger vehicles, and motorcycles, and including individuals with disabilities; and
+&emsp;"(4) accommodation of the needs of all users of surface transportation systems, including operators of commercial vehicles, passenger vehicles, and motorcycles, and including individuals with disabilities; and
 
 &emsp;"(5) improvement of the Nation's ability to respond to emergencies and natural disasters and enhancement of national defense mobility.
 
@@ -1482,7 +1482,11 @@ In general.—In carrying out this subtitle, the Secretary may use 1 or more adv
 
 &emsp;"(2)
 
-Applicability of federal advisory committee act.—Any advisory committee so used shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+Applicability of chapter 10
+
+of title 5
+
+, united states code.—Any advisory committee so used shall be subject to chapter 10 of title 5, United States Code.
 
 "(i)
 
@@ -1490,7 +1494,7 @@ Procurement Methods.—
 
 &emsp;"(1)
 
-Technical assistance.—The Secretary shall develop appropriate technical assistance and guidance to assist State and local agencies in evaluating and selecting appropriate methods of procurement for intelligent transportation system projects carried out using funds made available from the Highway Trust Fund, including innovative and nontraditional methods such as the Information Technology Omnibus Procurement.
+Technical assistance.—The Secretary shall develop appropriate technical assistance and guidance to assist State and local agencies in evaluatingand selecting appropriate methods of procurement for intelligent transportation system projects carried out using funds made available from the Highway Trust Fund, including innovative and nontraditional methods such as the Information Technology Omnibus Procurement.
 
 &emsp;"(2)
 
@@ -1532,7 +1536,7 @@ In General.—
 
 &emsp;"(1)
 
-Updates.—The Secretary shall maintain and update, as necessary, the National ITS Program Plandeveloped by the Department of Transportation and the Intelligent Transportation Society of America.
+Updates.—The Secretary shall maintain and update, as necessary, the National ITS Program Plan developed by the Department of Transportation and the Intelligent Transportation Society of America.
 
 &emsp;"(2)
 
@@ -1724,7 +1728,7 @@ Commercial vehicle operations.—The term 'commercial vehicle operations'—
 
 &emsp;"(3)
 
-Corridor.—The term 'corridor' means any major transportation route that includes parallel limited access highways, major arterials, or transit lines.
+Corridor.—The term 'corridor' means any major transportation route that includes parallellimited access highways, major arterials, or transit lines.
 
 &emsp;"(4)
 
@@ -1808,7 +1812,7 @@ Funding.—Of the amounts allocated for each of fiscal years 1999 through 2001 b
 
 #### Research Advisory Committee
 
-Pub. L. 102–240, title VI, §6011, Dec. 18, 1991, 105 Stat. 2179, provided that:
+Pub. L. 102–240, title VI, §6011, Dec. 18, 1991, 105 Stat. 2179, as amended by Pub. L. 117–286, §4(a)(175), Dec. 27, 2022, 136 Stat. 4325, provided that:
 
 "(a)
 
@@ -1844,11 +1848,11 @@ Reports.—The advisory committee shall, within 1 year after the date of establi
 
 "(i)
 
-Termination.—Section 14 of the Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the advisory committee established under this section."
+Termination.—Section 1013 of title 5, United States Code, shall not apply to the advisory committee established under this section."
 
 #### Fundamental Properties of Asphalts and Modified Asphalts
 
-Pub. L. 102–240, title VI, §6016, Dec. 18, 1991, 105 Stat. 2182, as amended by Pub. L. 114–94, div. A, title I, §1419(a), Dec. 4, 2015, 129 Stat. 1423, required the Administrator of the Federal Highway Administration to conduct studies of the fundamental chemical and physical properties of petroleum asphalts and modified asphalts used in highway construction in the United States and to submit reports on the progress of the studies and authorized appropriations for fiscal years 1992 to 1996.
+Pub. L. 102–240, title VI, §6016, Dec. 18, 1991, 105 Stat. 2182, as amended by Pub. L. 114–94, div. A, title I,§1419(a), Dec. 4, 2015, 129 Stat. 1423, required the Administrator of the Federal Highway Administration to conduct studies of the fundamental chemical and physical properties of petroleum asphalts and modified asphalts used in highway construction in the United States and to submit reports on the progress of the studies and authorized appropriations for fiscal years 1992 to 1996.
 
 #### Study of Factors Affecting Safe and Efficient Operation of Bridges, Tunnels and Roads Within United States
 

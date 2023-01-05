@@ -74,7 +74,7 @@ Transfers.—The Secretary of Homeland Security shall transfer to—
 
 Abolishment.—Upon completion of all transfers pursuant to paragraph (1)—
 
-&emsp;"(A) the Domestic Nuclear Detection Office of the Department of Homeland Security and the Office ofHealth Affairs of the Department of Homeland Security are abolished; and
+&emsp;"(A) the Domestic Nuclear Detection Office of the Department of Homeland Security and the Office of Health Affairs of the Department of Homeland Security are abolished; and
 
 &emsp;"(B) the positions of Assistant Secretary for Health Affairs and Director for Domestic Nuclear Detection are abolished."
 

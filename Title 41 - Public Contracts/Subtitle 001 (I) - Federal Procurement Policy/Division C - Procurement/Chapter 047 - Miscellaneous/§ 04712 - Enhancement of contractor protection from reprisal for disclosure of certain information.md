@@ -6,7 +6,7 @@ Prohibition of Reprisals.—
 
 &emsp;(1)
 
-In general.—An employee of a contractor, subcontractor, grantee, or subgrantee or personal services contractor may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of gross mismanagement of a Federal contract or grant, a gross waste of Federal funds, an abuse of authority relating to a Federal contract or grant, a substantial and specific danger to public health or safety, or a violation of law, rule, or regulation related to a Federal contract (including the competition for or negotiation of a contract) or grant.
+In general.—An employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor may not be discharged, demoted, or otherwise discriminated against as a reprisal for disclosing to a person or body described in paragraph (2) information that the employee reasonably believes is evidence of gross mismanagement of a Federal contract or grant, a gross waste of Federal funds, an abuse of authority relating to a Federal contract or grant, a substantial and specific danger to public health or safety, or a violation of law, rule, or regulation related to a Federal contract (including the competition for or negotiation of a contract) or grant.
 
 &emsp;(2)
 
@@ -24,13 +24,13 @@ Persons and bodies covered.—The persons and bodies described in this paragraph
 
 &emsp;&emsp;(F) A court or grand jury.
 
-&emsp;&emsp;(G) A management official or other employee of the contractor, subcontractor, grantee, or subgrantee who has the responsibility to investigate, discover, or address misconduct.
+&emsp;&emsp;(G) A management official or other employee of the contractor, subcontractor, grantee, subgrantee, or personal services contractor who has the responsibility to investigate, discover, or address misconduct.
 
 &emsp;(3)
 
 Rules of construction.—For the purposes of paragraph (1)—
 
-&emsp;&emsp;(A) an employee who initiates or provides evidence of contractor, subcontractor, grantee, or subgrantee misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Federal contract or grant shall be deemed to have made a disclosure covered by such paragraph; and
+&emsp;&emsp;(A) an employee who initiates or provides evidence of contractor, subcontractor, grantee, subgrantee, or personal services contractor misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Federal contract or grant shall be deemed to have made a disclosure covered by such paragraph; and
 
 &emsp;&emsp;(B) a reprisal described in paragraph (1) is prohibited even if it is undertaken at the request of an executive branch official, unless the request takes the form of a non-discretionary directive and is within the authority of the executive branch official making the request.
 
@@ -40,7 +40,7 @@ Investigation of Complaints.—
 
 &emsp;(1)
 
-Submission of complaint.—A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the executive agency involved. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor, subcontractor, grantee, or subgrantee concerned, and the head of the agency.
+Submission of complaint.—A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the executive agency involved. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor, subcontractor, grantee, subgrantee, or personal services contractor concerned, and the head of the agency.
 
 &emsp;(2)
 
@@ -48,7 +48,7 @@ Inspector general action.—
 
 &emsp;&emsp;(A)
 
-Determination or submission of report on findings.—Except as provided undersubparagraph (B), the Inspector General shall make a determination that a complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant or submit a report under paragraph (1) within 180 days after receiving the complaint.
+Determination or submission of report on findings.—Except as provided under subparagraph (B), the Inspector General shall make a determination that a complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant or submit a report under paragraph (1) within 180 days after receiving the complaint.
 
 &emsp;&emsp;(B)
 
@@ -74,17 +74,19 @@ Remedy and Enforcement Authority.—
 
 &emsp;(1)
 
-In general.—Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the executive agency concerned shall determine whether there is sufficient basis to conclude that the contractor, subcontractor, grantee, or subgrantee concerned has subjected the complainant to a reprisal prohibited by subsection (a) and shall either issue an order denying relief or shall take one or more of the following actions:
+In general.—Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the executive agency concerned shall determine whether there is sufficient basis to conclude that the contractor, subcontractor, grantee, subgrantee, or personal services contractor concerned has subjected the complainant to a reprisal prohibited by subsection (a) and shall either issue an order denying relief or shall take one or more of the following actions:
 
-&emsp;&emsp;(A) Order the contractor, subcontractor, grantee, or subgrantee to take affirmative action to abate the reprisal.
+&emsp;&emsp;(A) Order the contractor, subcontractor, grantee, subgrantee, or personal services contractor to take affirmative action to abate the reprisal.
 
-&emsp;&emsp;(B) Order the contractor, subcontractor, grantee, or subgrantee to reinstate the person to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.
+&emsp;&emsp;(B) Order the contractor, subcontractor, grantee, subgrantee, or personal services contractor to reinstate the person to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.
 
-&emsp;&emsp;(C) Order the contractor, subcontractor, grantee, or subgrantee to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys' fees and expert witnesses' fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
+&emsp;&emsp;(C) Order the contractor, subcontractor, grantee, subgrantee, or personal services contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys' fees and expert witnesses' fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
+
+&emsp;&emsp;(D) Consider disciplinary or corrective action against any official of the executive agency, if appropriate.
 
 &emsp;(2)
 
-Exhaustion of remedies.—If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor, subcontractor, grantee, or subgrantee to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.
+Exhaustion of remedies.—If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is noshowing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor, subcontractor, grantee, subgrantee, or personal services contractor to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.
 
 &emsp;(3)
 
@@ -104,11 +106,11 @@ Burdens of proof.—The legal burdens of proof specified in section 1221(e) of t
 
 &emsp;(7)
 
-Rights and remedies not waivable.—The rights and remedies provided for in thissection may not be waived by any agreement, policy, form, or condition of employment.
+Rights and remedies not waivable.—The rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment.
 
 (d)
 
-Notification of Employees.—The head of each executive agency shall ensure that contractors, subcontractors, grantees, and subgrantees of the agency inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.
+Notification of Employees.—The head of each executive agency shall ensure that contractors, subcontractors, grantees, subgrantees, and personal services contractors of the agency inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.
 
 (e)
 
@@ -118,11 +120,11 @@ Construction.—Nothing in this section may be construed to authorize the discha
 
 Exceptions.—(1) This section shall not apply to any element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
 
-(2) This section shall not apply to any disclosure made by an employee of a contractor, subcontractor, grantee, or subgrantee of an element of the intelligence community if such disclosure—
+(2) This section shall not apply to any disclosure made by an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor of an element of the intelligence community if such disclosure—
 
 &emsp;(A) relates to an activity of an element of the intelligence community; or
 
-&emsp;(B) was discovered during contract, subcontract, grantee, or subgrantee services provided to an element of the intelligence community.
+&emsp;(B) was discovered during contract, subcontract, grantee, subgrantee, or personal services contractor services provided to an element of the intelligence community.
 
 (g)
 
@@ -130,21 +132,43 @@ Definitions.—In this section:
 
 &emsp;(1) The term "abuse of authority" means an arbitrary and capricious exercise of authority that is inconsistent with the mission of the executive agency concerned or the successful performance of a contract or grant of such agency.
 
-&emsp;(2) The term "Inspector General" means an Inspector General appointed under the Inspector General Act of 1978 and any Inspector General that receives funding from, or has oversight over contracts or grants awarded for or on behalf of, the executive agency concerned.
+&emsp;(2) The term "Inspector General" means an Inspector General appointed under chapter 4 of title 5 and any Inspector General that receives funding from, or has oversight over contracts or grants awarded for or on behalf of, the executive agency concerned.
 
 (h)
 
 Construction.—Nothing in this section, or the amendments made by this section,<sup>1</sup> shall be construed to provide any rights to disclose classified information not otherwise provided by law.
 
-(Added Pub. L. 112–239, div. A, title VIII, §828(a)(1), Jan. 2, 2013, 126 Stat. 1837; amended Pub. L. 113–66, div. A, title X, §1091(e), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–261, §1(a)(2), (3)(A), Dec. 14, 2016, 130 Stat. 1362; Pub. L. 116–260, div. U, title VIII, §801, Dec. 27, 2020, 134 Stat. 2297.)
+(Added Pub. L. 112–239, div. A, title VIII, §828(a)(1), Jan. 2, 2013, 126 Stat. 1837; amended Pub. L. 113–66, div. A, title X, §1091(e), Dec. 26, 2013, 127 Stat. 876; Pub. L. 114–261, §1(a)(2), (3)(A), Dec. 14, 2016, 130 Stat. 1362; Pub. L. 116–260, div. U, title VIII, §801, Dec. 27, 2020, 134 Stat. 2297; Pub. L. 117–263, div. A, title VIII, §807(b), Dec. 23, 2022, 136 Stat. 2704; Pub. L. 117–286, §4(b)(74), Dec. 27, 2022, 136 Stat. 4351.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Inspector General Act of 1978, referred to in subsec. (g)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–263, §807(b)(1)(A), substituted "subgrantee," for "or subgrantee".
+
+Subsec. (a)(2). Pub. L. 117–263, §807(b)(1)(B), substituted "subgrantee, or personal services contractor" for "or subgrantee".
+
+Subsec. (a)(3). Pub. L. 117–263, §807(b)(1)(C), substituted "subgrantee, or personal services contractor" for "or subgrantee".
+
+Subsec. (b)(1). Pub. L. 117–263, §807(b)(2), substituted "subgrantee, or personal services contractor concerned" for "or subgrantee concerned".
+
+Subsec. (c)(1). Pub. L. 117–263, §807(b)(3)(A)(i), substituted "subgrantee, or personal services contractor concerned" for "or subgrantee concerned" in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 117–263, §807(b)(3)(A)(ii), substituted "subgrantee, or personal services contractor" for "or subgrantee".
+
+Subsec. (c)(1)(B). Pub. L. 117–263, §807(b)(3)(A)(iii), substituted "subgrantee, or personal services contractor" for "or subgrantee".
+
+Subsec. (c)(1)(C). Pub. L. 117–263, §807(b)(3)(A)(iv), substituted "subgrantee, or personal services contractor" for "or subgrantee".
+
+Subsec. (c)(1)(D). Pub. L. 117–263, §807(b)(3)(A)(v), added subpar. (D).
+
+Subsec. (c)(2). Pub. L. 117–263, §807(b)(3)(B), substituted "subgrantee, or personal services contractor" for "or subgrantee".
+
+Subsec. (d). Pub. L. 117–263, §807(b)(4), substituted "subgrantees, and personal services contractors" for "and subgrantees".
+
+Subsec. (f)(2). Pub. L. 117–263, §807(b)(5), substituted "subgrantee, or personal services contractor" for "or subgrantee" in two places.
+
+Subsec. (g)(2). Pub. L. 117–286 substituted "chapter 4 of title 5" for "the Inspector General Act of 1978".
 
 <b>2020</b>—Subsec. (a)(2)(G). Pub. L. 116–260, §801(1), substituted "grantee, or subgrantee" for "or grantee".
 

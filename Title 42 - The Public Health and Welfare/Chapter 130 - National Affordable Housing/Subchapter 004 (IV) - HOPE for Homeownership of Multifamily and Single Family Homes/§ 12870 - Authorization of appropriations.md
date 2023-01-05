@@ -28,7 +28,7 @@ There are authorized to be appropriated for grants under this title <sup>1</sup
 
 Technical assistance made available under title III of the United States Housing Act of 1937 \[42 U.S.C. 1437aaa et seq.\] or part A or part B of this subchapter may include, but shall not be limited to, training, clearinghouse services, the collection, processing and dissemination of program information useful for local and national program management, and provision of seed money. Such technical assistance may be made available directly, or indirectly under contracts and grants, as appropriate. In any fiscal year, no single applicant, potential applicant, or recipient under title III of the United States Housing Act of 1937, or part A or part B of this subchapter may receive technical assistance in an amount exceeding 20 percent of the total amount made available for technical assistance under such title or part for the fiscal year.
 
-(Pub. L. 101–625, title IV, §402, as added Pub. L. 102–550, title I, §181(a)(1), Oct. 28, 1992, 106 Stat. 3734; amended Pub. L. 109–281, §2(d)(3), Sept. 22, 2006, 120 Stat. 1181.)
+(Pub. L. 101–625, title IV, §402, as added Pub. L. 102–550, title I, §181(a)(1), Oct. 28, 1992, 106 Stat.3734; amended Pub. L. 109–281, §2(d)(3), Sept. 22, 2006, 120 Stat. 1181.)
 
 #### <b>Editorial Notes</b>
 

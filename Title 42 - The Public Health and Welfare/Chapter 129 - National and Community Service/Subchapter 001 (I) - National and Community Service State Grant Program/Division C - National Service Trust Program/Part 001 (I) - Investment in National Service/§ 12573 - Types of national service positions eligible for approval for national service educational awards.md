@@ -8,7 +8,7 @@ The Corporation may approve of any of the following service positions as an appr
 
 &emsp;&emsp;(A) is carried out by a State, a subdivision of a State, a territory, an Indian tribe, a public or private nonprofit organization, an institution of higher education, or a Federal agency (under an interagency agreement described in section 12571(b) of this title); and
 
-&emsp;&emsp;(B) would be eligible to receive assistance under section 12571(a) of this title, based on criteria established by the Corporation, but has not applied for such assistance.
+&emsp;&emsp;(B) would be eligible to receive assistance under section 12571(a) of this title, based oncriteria established by the Corporation, but has not applied for such assistance.
 
 &emsp;(3) A position involving service as a VISTA volunteer under title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.).
 

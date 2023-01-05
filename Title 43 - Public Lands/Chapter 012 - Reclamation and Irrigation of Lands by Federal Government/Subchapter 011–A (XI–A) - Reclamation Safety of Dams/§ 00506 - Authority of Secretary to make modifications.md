@@ -22,5 +22,5 @@ Pub. L. 95–578, §1, Nov. 2, 1978, 92 Stat. 2471, provided: "That this Act \[e
 
 #### Facilities Included Within Scope of Reclamation Safety of Dams Act of 1978
 
-Pub. L. 95–578, §12, as added by Pub. L. 98–404, §1(4), Aug. 28, 1984, 98 Stat. 1482, provided that: "Includedwithin the scope of this Act \[this subchapter\] are Fish Lake, Four Mile, Ochoco, Savage Rapids Diversion and Warm Springs Dams, Oregon; Como Dam, Montana; Little Wood River Dam, Idaho; and related facilities which have been made a part of a Federal reclamation project by previous Acts of Congress. Coolidge Dam, San Carlos Irrigation Project, Arizona, shall also be included within the scope of this Act."
+Pub. L. 95–578, §12, as added by Pub. L. 98–404, §1(4), Aug. 28, 1984, 98 Stat. 1482, provided that: "Included within the scope of this Act \[this subchapter\] are Fish Lake, Four Mile, Ochoco, Savage Rapids Diversion and Warm Springs Dams, Oregon; Como Dam, Montana; Little Wood River Dam, Idaho; and related facilities which have been made a part of a Federal reclamation project by previous Acts of Congress. Coolidge Dam, San Carlos Irrigation Project, Arizona, shall also be included within the scope of this Act."
 

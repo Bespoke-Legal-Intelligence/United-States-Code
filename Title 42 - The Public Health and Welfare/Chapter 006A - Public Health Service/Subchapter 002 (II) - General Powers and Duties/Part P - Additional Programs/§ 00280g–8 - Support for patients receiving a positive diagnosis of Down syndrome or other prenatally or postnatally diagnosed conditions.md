@@ -22,7 +22,7 @@ In this section:
 
 #### (5) Prenatal test
 
-&emsp;The term "prenatal test" means diagnostic or screening tests offered to pregnant women seeking routine prenatal care that are administered on a required or recommended basis by a health care provider based on medical history, family background, ethnic background, previous test results, or other risk factors.
+&emsp;The term "prenatal test" means diagnostic or screening tests offered to pregnant womenseeking routine prenatal care that are administered on a required or recommended basis by a health care provider based on medical history, family background, ethnic background, previous test results, or other risk factors.
 
 #### (b) Information and support services
 

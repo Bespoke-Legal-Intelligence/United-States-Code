@@ -44,7 +44,7 @@ Pub. L. 104–106, div. D, title XLIV, §4401, Feb. 10, 1996, 110 Stat. 678, pro
 
 "(a)
 
-Effective Date.—Except as otherwise provided in this division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\], this division and the amendments made by this division shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\].
+Effective Date.—Except as otherwise provided in this division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\], this division and theamendments made by this division shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\].
 
 "(b)
 

@@ -188,7 +188,7 @@ Section 14161 of title 42, referred to in subsec. (d), was repealed by Pub. L. 1
 
 Section 13812 of title 42, referred to in subsec. (d), was omitted from the Code as obsolete.
 
-Section 210302, referred to in subsec. (d), is section 210302 of Pub. L. 103–322, 108 Stat. 2065, which enactedsubchapter XXIII (§10511 et seq.) of chapter 101 of this title, amended former sections 10152 and 10154 of this title and sections 10261 and 10541 of this title, and enacted provisions set out as a note under former section 3751 of Title 42, The Public Health and Welfare.
+Section 210302, referred to in subsec. (d), is section 210302 of Pub. L. 103–322, 108 Stat. 2065, which enacted subchapter XXIII (§10511 et seq.) of chapter 101 of this title, amended former sections 10152 and 10154 of this title and sections 10261 and 10541 of this title, and enacted provisions set out as a note under former section 3751 of Title 42, The Public Health and Welfare.
 
 Section 14151 of title 42, referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, §1154(b)(3), Jan. 5, 2006, 119 Stat. 3113.
 
@@ -218,7 +218,7 @@ Section 13852 of title 42, referred to in subsec. (d), was omitted from the Code
 
 Sections 31501–31505, referred to in subsec. (d), are sections 31501–31505 of Pub. L. 103–322, 108 Stat. 1888, 1889, which amended former sections 2502 to 2504, 2506, and 2512 of Title 16, Conservation.
 
-Section 31901, referred to in subsec. (d), is section 31901 of Pub. L. 103–322, 108 Stat. 1892, which enacted provisions set out as a note under section 10101 of this title.
+Section 31901, referred to in subsec. (d), is section 31901 of Pub. L. 103–322, 108 Stat. 1892, which enactedprovisions set out as a note under section 10101 of this title.
 
 Section 13883 of title 42, referred to in subsec. (d), was omitted from the Code as obsolete.
 

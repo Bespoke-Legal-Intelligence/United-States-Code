@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized subject to the following conditions 
 
 (b) Tentative exterior boundary lines, to include land not in excess of the aforesaid acreage limitations, may be selected for the park in order to establish the particular areas in which land may be acquired pursuant to this section and section 398 of this title, such tentative boundaries to be selected and adjusted as may be necessary by the Secretary of the Interior;
 
-(c) The Secretary, on behalf of the United States, is authorized to accept donations of realand personal property within the areas selected for the park until such time as the aforesaid total of nine thousand five hundred acres shall have been acquired for the park by the United States, and he may also accept donations of funds for the purposes of this section and section 398 of this title. Notwithstanding the acreage limitations and boundary designations contained in this section, the Secretary is authorized to accept through donation, or purchase from a willing seller, the real and personal property located on Lots 251–252 Estate Contant Enighed, Parcels 86B and 86AA Cruz Bay Quarter;
+(c) The Secretary, on behalf of the United States, is authorized to accept donations of real and personal property within the areas selected for the park until such time as the aforesaid total of nine thousand five hundred acres shall have been acquired for the park by the United States, and he may also accept donations of funds for the purposes of this section and section 398 of this title. Notwithstanding the acreage limitations and boundary designations contained in this section, the Secretary is authorized to accept through donation, or purchase from a willing seller, the real and personal property located on Lots 251–252 Estate Contant Enighed, Parcels 86B and 86AA Cruz Bay Quarter;
 
 (d) Any Federal properties situated within the areas selected for the park, upon agreement by the particular agency administering such properties that such properties should be made available for the park, may be transferred without further authorization to the Secretary by such agency for purposes of this section and section 398 of this title;
 
@@ -20,5 +20,5 @@ The Secretary of the Interior is authorized subject to the following conditions 
 
 #### Amendments
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–348 inserted provisions relating to acceptance through donation or purchase of the real and personal property located on Lots 251–252 Estate Contant Enighed.
+<b>1978</b>—Subsec. (c). Pub. L. 95–348 inserted provisions relating to acceptance through donation or purchase ofthe real and personal property located on Lots 251–252 Estate Contant Enighed.
 

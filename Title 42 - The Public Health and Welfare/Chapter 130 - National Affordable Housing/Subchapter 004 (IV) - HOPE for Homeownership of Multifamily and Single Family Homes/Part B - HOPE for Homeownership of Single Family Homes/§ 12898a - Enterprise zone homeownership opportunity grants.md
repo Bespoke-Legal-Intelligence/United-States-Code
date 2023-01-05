@@ -92,7 +92,7 @@ For purposes of this section the following definitions shall apply:
 
 #### (1) Local consultation
 
-&emsp;No proposed enterprise zone homeownership opportunity program may be approved by the Secretary under this section unless the applicant involved demonstrates to the satisfaction of the Secretary that—
+&emsp;No proposed enterprise zone homeownership opportunity program may be approved by theSecretary under this section unless the applicant involved demonstrates to the satisfaction of the Secretary that—
 
 &emsp;&emsp;(A) it has consulted with and received the support of residents of the neighborhood in which such program is to be located; and
 
@@ -126,7 +126,7 @@ For purposes of this section the following definitions shall apply:
 
 #### (2) Exception
 
-&emsp;To the extent that non-Federal public entities are prohibited by the law of any Statefrom making any form of contribution described in subparagraph (A) or (B) of paragraph (1), the Secretary shall not consider such form of contribution in evaluating such program.
+&emsp;To the extent that non-Federal public entities are prohibited by the law of any State from making any form of contribution described in subparagraph (A) or (B) of paragraph (1), the Secretary shall not consider such form of contribution in evaluating such program.
 
 #### (h) Regulations
 

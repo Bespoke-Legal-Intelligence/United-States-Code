@@ -84,15 +84,117 @@ An entity that receives a grant under this section shall prepare and submit to t
 
 On making a grant under this section to an entity in a State, the Secretary shall solicit and consider the opinions of the lead agency of the State with respect to efforts at coordination of activities, collaboration, and promoting outcomes between the lead agency and the entity that receives the grant under this section.
 
-(Pub. L. 105–394, §5, as added Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1725.)
+(Pub. L. 105–394, §5, as added Pub. L. 108–364, §2, Oct. 25, 2004, 118 Stat. 1725; amended Pub. L. 117–263, div. E, title LIV, §5402, Dec. 23, 2022, 136 Stat. 3279.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–263, div. E, title LIV, §§5402, 5403, Dec. 23, 2022, 136 Stat. 3279, 3289, provided that, effective on the day that is 6 months after Dec. 23, 2022, this section is amended to read as follows:</i>
+
+#### §3004. Grants for protection and advocacy services related to assistive technology
+
+#### <i>(a) Grants</i>
+
+#### <i>(1) In general</i>
+
+&emsp;<i>The Secretary shall make grants under subsection (b) to protection and advocacy systems in each State for the purpose of enabling such systems to assist in the acquisition, utilization, or maintenance of assistive technology devices or assistive technology services for individuals with disabilities.</i>
+
+#### <i>(2) General authorities</i>
+
+&emsp;<i>In providing the assistance described under paragraph (1), protection and advocacy systems shall have the same general authorities as the systems are afforded under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15041 et seq.).</i>
+
+#### <i>(b) Reservation; distribution</i>
+
+#### <i>(1) Reservation</i>
+
+&emsp;<i>For each fiscal year, the Secretary shall reserve, from the amounts made available to carry out this section under section 3008(b)(2)(B) of this title, such sums as may be necessary to carry out paragraph (4).</i>
+
+#### <i>(2) Population basis</i>
+
+&emsp;<i>From the amounts appropriated to carry out this section for a fiscal year that remain after the reservation required under paragraph (1) has been made, the Secretary shall make a grant to a protection and advocacy system within each State in an amount bearing the same ratio to the remaining amounts as the population of the State bears to the population of all States.</i>
+
+#### <i>(3) Minimums</i>
+
+&emsp;<i>Subject to the availability of appropriations and paragraph (5), the amount of a grant to a protection and advocacy system under paragraph (2) for a fiscal year shall—</i>
+
+&emsp;&emsp;<i>(A) in the case of a protection and advocacy system located in American Samoa, Guam, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands, not be less than $30,000; and</i>
+
+&emsp;&emsp;<i>(B) in the case of a protection and advocacy system located in a State not described in subparagraph (A), not be less than $50,000.</i>
+
+#### <i>(4) Payment to the system serving the American Indian consortium</i>
+
+#### <i>(A) In general</i>
+
+&emsp;&emsp;<i>The Secretary shall make grants to the protection and advocacy system serving the American Indian consortium to provide services in accordance with this section.</i>
+
+#### <i>(B) Amount of grants</i>
+
+&emsp;&emsp;<i>The amount of a grant under subparagraph (A) shall be the same as the amount provided under paragraph (3)(A).</i>
+
+#### <i>(5) Adjustments</i>
+
+&emsp;<i>For each fiscal year for which the total amount appropriated under section 3008(b)(2)(B) of this title to carry out this section is $8,000,000 or more and such appropriated amount exceeds the total amount appropriated to carry out this section for the preceding fiscal year, the Secretary shall increase each of the minimum grant amounts described in subparagraphs (A) and (B) of paragraph (3) and paragraph (4)(B) by a percentage equal to the percentage increase in the total amount appropriated under section 3008 of this title to carry out this section for the preceding fiscal year and such total amount for the fiscal year for which the determination is being made.</i>
+
+#### <i>(c) Direct payment</i>
+
+<i>Notwithstanding any other provision of law, the Secretary shall pay directly to any protection and advocacy system that complies with this section, the total amount of the grant made for such system under this section, unless the system provides otherwise for payment of the grant amount.</i>
+
+#### <i>(d) Carryover; program income</i>
+
+#### <i>(1) Carryover</i>
+
+&emsp;<i>Any amount paid to a protection and advocacy system for a fiscal year under this section that remains unobligated at the end of such fiscal year shall remain available to such system for obligation during the subsequent fiscal year.</i>
+
+#### <i>(2) Program income</i>
+
+&emsp;<i>Program income generated from any amount paid to a protection and advocacy system for a fiscal year shall—</i>
+
+&emsp;&emsp;<i>(A) remain available to the protection and advocacy system for 5 additional fiscal years after the year in which such amount was paid to the protection and advocacy system and be considered an addition to the grant; and</i>
+
+&emsp;&emsp;<i>(B) only be used to improve the awareness of individuals with disabilities about the accessibility of assistive technology and assist such individuals in the acquisition, utilization, or maintenance of assistive technology devices or assistive technology services.</i>
+
+#### <i>(e) Report to Secretary</i>
+
+<i>A protection and advocacy system that receives a grant under this section shall annually prepare and submit to the Secretary a report that contains documentation of the progress of the protection and advocacy system in—</i>
+
+&emsp;<i>(1) conducting consumer-responsive activities, including activities that will lead to increased access for individuals with disabilities to funding for assistive technology devices and assistive technology services;</i>
+
+&emsp;<i>(2) engaging in informal advocacy to assist in securing assistive technology devices and assistive technology services for individuals with disabilities;</i>
+
+&emsp;<i>(3) engaging in formal representation for individuals with disabilities to secure systems change, and in advocacy activities to secure assistive technology devices and assistive technology services for individuals with disabilities;</i>
+
+&emsp;<i>(4) developing and implementing strategies to enhance the long-term abilities of individuals with disabilities and their family members, guardians, advocates, and authorized representatives to advocate the provision of assistive technology devices and assistive technology services to which the individuals with disabilities are entitled under law other than this chapter;</i>
+
+&emsp;<i>(5) coordinating activities with protection and advocacy services funded through sources other than this chapter, and coordinating activities with the capacity building and advocacy activities carried out by the lead agency; and</i>
+
+&emsp;<i>(6) effectively allocating funds made available under this section to improve the awareness of individuals with disabilities about the accessibility of assistive technology and assist such individuals in the acquisition, utilization, or maintenance of assistive technology devices or assistive technology services.</i>
+
+#### <i>(f) Reports and updates to State agencies</i>
+
+<i>A protection and advocacy system that receives a grant under this section shall prepare and submit to the lead agency of the State designated under section 3003(c)(1) of this title the report described in subsection (e) and quarterly updates concerning the activities described in such subsection.</i>
+
+#### <i>(g) Coordination</i>
+
+<i>On making a grant under this section to a protection and advocacy system in a State, the Secretary shall solicit and consider the opinions of the lead agency of the State with respect to efforts at coordination of activities, collaboration, and promoting outcomes between the lead agency and the protection and advocacy system that receives the grant under this section.</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, as amended. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(2), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 Section 2212 of this title, referred to in subsec. (d)(1), was repealed by Pub. L. 105–394, title IV, §401, Nov. 13, 1998, 112 Stat. 3661.
+
+#### Amendments
+
+<b>2022</b>—Pub. L. 117–263 amended section generally. Prior to amendment, section related to State grants for protection and advocacy services related to assistive technology.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–263 effective on the day that is 6 months after Dec. 23, 2022, see section 5403 of Pub. L. 117–263, set out as a note under section 3001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

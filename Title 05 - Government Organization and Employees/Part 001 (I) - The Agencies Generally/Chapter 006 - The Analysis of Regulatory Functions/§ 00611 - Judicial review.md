@@ -20,7 +20,7 @@
 
 (5) Nothing in this subsection shall be construed to limit the authority of any court to stay the effective date of any rule or provision thereof under any other provision of law or to grant any other relief in addition to the requirements of this section.
 
-(b) In an action for the judicial review of a rule, the regulatory flexibility analysis for such rule, including an analysis prepared or corrected pursuant to paragraph (a)(4), shall constitute part of the entire record of agency action in connection with such review.
+(b) In an action for the judicial review of a rule, the regulatory flexibility analysis for suchrule, including an analysis prepared or corrected pursuant to paragraph (a)(4), shall constitute part of the entire record of agency action in connection with such review.
 
 (c) Compliance or noncompliance by an agency with the provisions of this chapter shall be subject to judicial review only in accordance with this section.
 

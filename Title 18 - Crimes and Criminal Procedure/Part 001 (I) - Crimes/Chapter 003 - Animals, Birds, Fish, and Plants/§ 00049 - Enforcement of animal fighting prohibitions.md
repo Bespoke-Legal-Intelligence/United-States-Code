@@ -30,7 +30,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334 substituted "(d)" for "(e)".
 
-<b>2014</b>—Pub. L. 113–79 designated existing provisions as subsec. (a), inserted heading, substituted "subsection\(a)(1)," for "subsection (a),", and added subsecs. (b) and (c).
+<b>2014</b>—Pub. L. 113–79 designated existing provisions as subsec. (a), inserted heading, substituted "subsection (a)(1)," for "subsection (a),", and added subsecs. (b) and (c).
 
 <b>2008</b>—Pub. L. 110–246, §14207(b), substituted "5 years" for "3 years".
 

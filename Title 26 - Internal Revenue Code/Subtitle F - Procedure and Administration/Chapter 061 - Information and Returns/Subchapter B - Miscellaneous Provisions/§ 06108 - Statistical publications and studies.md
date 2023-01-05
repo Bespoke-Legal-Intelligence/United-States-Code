@@ -14,7 +14,7 @@ No publication or other disclosure of statistics or other information required o
 
 #### (d) Statistical support for National Taxpayer Advocate
 
-Upon request of the National Taxpayer Advocate, the Secretary shall, to the extent practicable, provide the National Taxpayer Advocate with statistical support in connection with the preparation by the National Taxpayer Advocate of the annual report described in section 7803(c)(2)(B)(ii). Such statistical support shall include statistical studies, compilations, and the review of information provided by the National Taxpayer Advocate for statistical validity and sound statistical methodology.
+Upon request of the National Taxpayer Advocate, the Secretary shall, to the extent practicable, provide the National Taxpayer Advocate with statistical support in connection with thepreparation by the National Taxpayer Advocate of the annual report described in section 7803(c)(2)(B)(ii). Such statistical support shall include statistical studies, compilations, and the review of information provided by the National Taxpayer Advocate for statistical validity and sound statistical methodology.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 756; Pub. L. 94–455, title XII, §1202(b), Oct. 4, 1976, 90 Stat. 1685; Pub. L. 116–25, title I, §1301(b)(3)(A), July 1, 2019, 133 Stat. 992.)
 

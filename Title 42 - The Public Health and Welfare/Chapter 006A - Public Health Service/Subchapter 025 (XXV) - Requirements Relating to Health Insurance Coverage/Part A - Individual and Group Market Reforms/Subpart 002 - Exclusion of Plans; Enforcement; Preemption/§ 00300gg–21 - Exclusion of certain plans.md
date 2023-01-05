@@ -42,6 +42,20 @@
 
 &emsp;&emsp;The election described in subparagraph (A) shall not be available with respect to the provisions of subparts I and II.
 
+#### (F) Sunset of election option
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Notwithstanding the preceding provisions of this paragraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) no election described in subparagraph (A) with respect to section 300gg–26 of this title may be made on or after December 29, 2022; and
+
+&emsp;&emsp;&emsp;&emsp;(II) except as provided in clause (ii), no such election with respect to section 300gg–26 of this title expiring on or after the date that is 180 days after December 29, 2022, may be renewed.
+
+#### (ii) Exception for certain collectively bargained plans
+
+&emsp;&emsp;&emsp;Notwithstanding clause (i)(II), a plan described in subparagraph (B)(ii) that is subject to multiple agreements described in such subparagraph of varying lengths and that has an election described in subparagraph (A) with respect to section 300gg–26 of this title in effect as of December 29, 2022, that expires on or after the date that is 180 days after December 29, 2022, may extend such election until the date on which the term of the last such agreement expires.
+
 #### (b) Exception for certain benefits
 
 The requirements of subparts 1 and 2 <sup>1</sup> and part D shall not apply to any individual coverage or any group health plan (or group health insurance coverage) in relation to its provision of excepted benefits described in section 300gg–91(c)(1) of this title.
@@ -92,17 +106,13 @@ For purposes of this part and part D—
 
 > &emsp;if such individual is, or may become, eligible to receive a benefit under the plan or such individual's beneficiaries may be eligible to receive any such benefit.
 
-(July 1, 1944, ch. 373, title XXVII, §2722, formerly §2721, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1967; amended Pub. L. 104–204, title VI, §604(b)(1), Sept. 26, 1996, 110 Stat. 2940; Pub. L. 110–233, title I, §102(c), May 21, 2008, 122 Stat. 895; renumbered §2735, renumbered §2722, and amended Pub. L. 111–148, title I, §§1001(4), 1563(a), (c)(12), formerly §1562(a), (c)(12), title X, §10107(a), (b)(1), Mar. 23, 2010, 124 Stat. 130, 264, 268, 911; Pub. L. 116–260, div. BB, title I, §102(a)(3)(B), Dec. 27, 2020, 134 Stat. 2772.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 102(a)(3)(B) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.</i>
+(July 1, 1944, ch. 373, title XXVII, §2722, formerly §2721, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1967; amended Pub. L. 104–204, title VI, §604(b)(1), Sept. 26, 1996, 110 Stat. 2940; Pub. L. 110–233, title I, §102(c), May 21, 2008, 122 Stat. 895; renumbered §2735, renumbered §2722, and amended Pub. L. 111–148, title I, §§1001(4), 1563(a), (c)(12), formerly §1562(a), (c)(12), title X, §10107(a), (b)(1), Mar. 23, 2010, 124 Stat. 130, 264, 268, 911; Pub. L. 116–260, div. BB, title I, §102(a)(3)(B), Dec. 27, 2020, 134 Stat. 2772; Pub. L. 117–328, div. FF, title I, §1321, Dec. 29, 2022, 136 Stat. 5697.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Subparts 1 and 2, referred to in subsecs. (a)(1), (2)(A), (b), and (c)(1), (2), were amended by Pub. L. 111–148, title I, §§1001(5), 1201(1), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 154, 265, 268, 911. The subpart 1 designation and heading "
+Subparts 1 and 2, referred to in subsecs. (a)(1), (2)(A), (b), and (c)(1), (2), were amended by Pub. L. 111–148,title I, §§1001(5), 1201(1), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 154, 265, 268, 911. The subpart 1 designation and heading "
 
 portability, access, and renewability requirements" were struck out and a new subpart I designation and heading "
 
@@ -125,6 +135,8 @@ Section 300gg–91(c)(4) of this title, referred to in subsec. (c)(3), was in th
 A prior section 2722 of act July 1, 1944, was renumbered section 2723 and is classified to section 300gg–22 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2)(F). Pub. L. 117–328 added subpar. (F).
 
 <b>2020</b>—Subsecs. (a)(1), (b), (c)(1), (2). Pub. L. 116–260, §102(a)(3)(B)(i)–(iv), inserted "and part D" after "subparts 1 and 2" in introductory provisions of subsecs. (a)(1) and (c)(1), (2) and in subsec. (b).
 
@@ -176,7 +188,7 @@ Subsec. (b) to (d). Pub. L. 104–204, §604(b)(1)(B), substituted "subparts 1 t
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022,see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2008 Amendment
 

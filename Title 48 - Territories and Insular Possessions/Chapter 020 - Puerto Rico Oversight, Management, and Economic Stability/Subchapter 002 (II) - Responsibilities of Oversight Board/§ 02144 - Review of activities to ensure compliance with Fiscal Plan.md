@@ -56,7 +56,7 @@
 
 #### (2) Authority to review certain contracts
 
-&emsp;The Oversight Board may establish policies to require prior Oversight Board approval ofcertain contracts, including leases and contracts to a governmental entity or government-owned corporations rather than private enterprises that are proposed to be executed by the territorial government, to ensure such proposed contracts promote market competition and are not inconsistent with the approved Fiscal Plan.
+&emsp;The Oversight Board may establish policies to require prior Oversight Board approval of certain contracts, including leases and contracts to a governmental entity or government-owned corporations rather than private enterprises that are proposed to be executed by the territorial government, to ensure such proposed contracts promote market competition and are not inconsistent with the approved Fiscal Plan.
 
 #### (3) Sense of Congress
 

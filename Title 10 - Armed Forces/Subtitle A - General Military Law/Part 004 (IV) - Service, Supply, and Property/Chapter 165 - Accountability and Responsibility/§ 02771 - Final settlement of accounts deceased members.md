@@ -2,7 +2,7 @@
 
 (a) In the settlement of the accounts of a deceased member of the armed forces, an amount due from the armed force of which he was a member shall be paid to the person highest on the following list living on the date of death:
 
-&emsp;(1) Beneficiary designated by him in writing to receive such an amount, if the designation is received, before the deceased member's death, at the place named in regulations to be prescribed by the Secretary concerned.
+&emsp;(1) Beneficiary designated by him in writing to receive such an amount, if the designationis received, before the deceased member's death, at the place named in regulations to be prescribed by the Secretary concerned.
 
 &emsp;(2) Surviving spouse.
 
@@ -126,7 +126,7 @@ Subsec. (c). Pub. L. 96–513, §511(97)(B), substituted "Department of Transpor
 
 <b>1960</b>—Subsec. (c). Pub. L. 86–641 substituted provisions requiring payment under clause (6) of subsection (a) to be made upon settlement by the General Accounting Office or as otherwise authorized by the Comptroller General for provisions which permitted payments under clauses (2) to (6) of subsection (a) to be made only after settlement by the General Accounting Office.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–861 amended subsec. (a) generally to restrict application of section to membersof the armed forces who die after Dec. 31, 1955, and to permit payment to the designated beneficiaries, surviving spouse, children and their descendants, and to parents before payment to the legal representative.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 amended subsec. (a) generally to restrict application of section to members of the armed forces who die after Dec. 31, 1955, and to permit payment to the designated beneficiaries, surviving spouse, children and their descendants, and to parents before payment to the legal representative.
 
 Subsec. (b). Pub. L. 85–861 substituted provisions relating to designations and changes of designation of beneficiaries for provisions which authorized reimbursement of funeral expenses.
 

@@ -24,5 +24,5 @@ The words "do not forfeit" are substituted for the words "lose no" for clarity.
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense, see section 1(14) of Ex. Ord. No.11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
+Functions of President under this section delegated to Secretary of Defense, see section 1(14) of Ex. Ord. No. 11390, Jan. 22, 1968, 33 F.R. 841, set out as a note under section 301 of Title 3, The President.
 

@@ -160,7 +160,7 @@ In subsection (e), the words "the membership of" and "in the case of" are omitte
 
 Subsec. (a)(1)(C). Pub. L. 117–58, §22202(a)(1)(B), inserted ", at least 1 of whom shall be an individual with a disability (as defined in section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102)) who has a demonstrated history of, or experience with, accessibility, mobility, and inclusive transportation in passenger rail or commuter rail" before period at end.
 
-Subsec. (a)(2). Pub. L. 117–58, §22202(a)(2), struck out before period at end "and try to provide adequate and balanced representation of the major geographic regions of the United States served by Amtrak".
+Subsec. (a)(2). Pub. L. 117–58, §22202(a)(2), struck out before period at end "and try to provide adequate andbalanced representation of the major geographic regions of the United States served by Amtrak".
 
 Subsec. (a)(4) to (6). Pub. L. 117–58, §22202(a)(4), added pars. (4) to (6) and struck out former par. (4) which read as follows: "The Board shall elect a chairman and a vice chairman, other than the President of Amtrak, from among its membership. The vice chairman shall serve as chairman in the absence of the chairman." Former par. (5) redesignated (7).
 

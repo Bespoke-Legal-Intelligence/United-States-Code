@@ -50,7 +50,7 @@ Nothing in this section shall be construed to prevent a group health plan from n
 
 #### (e) Preemption; exception for health insurance coverage in certain States
 
-The requirements of this section shall not apply with respect to health insurance coverage if there is a State law (including a decision, rule, regulation, or other State action havingthe effect of law) for a State that regulates such coverage that is described in any of the following paragraphs:
+The requirements of this section shall not apply with respect to health insurance coverage if there is a State law (including a decision, rule, regulation, or other State action having the effect of law) for a State that regulates such coverage that is described in any of the following paragraphs:
 
 &emsp;(1) Such State law requires such coverage to provide for at least a 48-hour hospital length of stay following a normal vaginal delivery and at least a 96-hour hospital length of stay following a caesarean section.
 

@@ -74,7 +74,7 @@ Payment of Amounts.—The Secretary shall make payments to eligible manufacturer
 
 "(d)
 
-Memoranda of Understanding.—The Secretary \[of Agriculture\] shall, as soon as practicable after the date of the enactment of this Act \[Feb. 7, 2014\], negotiate memoranda of understanding with the Commissioner responsible for U.S. Customs and Border Protection and the Secretary of Commerce to establish procedures pursuant to which the Commissioner and the Secretary of Commerce will assist in carrying out the provisions of this section.
+Memoranda of Understanding.—The Secretary \[of Agriculture\] shall, as soon as practicable after thedate of the enactment of this Act \[Feb. 7, 2014\], negotiate memoranda of understanding with the Commissioner responsible for U.S. Customs and Border Protection and the Secretary of Commerce to establish procedures pursuant to which the Commissioner and the Secretary of Commerce will assist in carrying out the provisions of this section.
 
 "(e)
 

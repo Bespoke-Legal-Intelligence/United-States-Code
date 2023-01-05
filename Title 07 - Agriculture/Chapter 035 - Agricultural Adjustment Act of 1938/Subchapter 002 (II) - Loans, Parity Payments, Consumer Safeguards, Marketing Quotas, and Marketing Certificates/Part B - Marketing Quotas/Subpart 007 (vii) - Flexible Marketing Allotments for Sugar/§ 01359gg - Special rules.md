@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Sugarcane acreage base established under section 1359ff(c) of this title that has been or is converted to nonagricultural use on or after May 13, 2002, may be transferred to other land suitable for the production of sugarcane that can be delivered to a processor in a proportionate share State in accordance with this paragraph.
+&emsp;&emsp;Sugarcane acreage base established under section 1359ff(c) of this title that has been oris converted to nonagricultural use on or after May 13, 2002, may be transferred to other land suitable for the production of sugarcane that can be delivered to a processor in a proportionate share State in accordance with this paragraph.
 
 #### (B) Notification
 
@@ -82,7 +82,7 @@ The Secretary, after such notice as the Secretary by regulation may prescribe, m
 
 &emsp;&emsp;(B) the pro rata amount of allocation at the processing company holding the applicable allocation that equals the contribution of the grower to allocation of the processing company for the sugarcane acreage base being transferred.
 
-(Feb. 16, 1938, ch. 30, title III, §359g, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 201; amended Pub. L. 110–234, title I, §1403(g), May 22, 2008, 122 Stat. 987; Pub. L. 110–246, §4(a), title I, §1403(g), June 18, 2008, 122 Stat. 1664, 1715.)
+(Feb. 16, 1938, ch. 30, title III, §359g, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116Stat. 201; amended Pub. L. 110–234, title I, §1403(g), May 22, 2008, 122 Stat. 987; Pub. L. 110–246, §4(a), title I, §1403(g), June 18, 2008, 122 Stat. 1664, 1715.)
 
 #### <b>Editorial Notes</b>
 

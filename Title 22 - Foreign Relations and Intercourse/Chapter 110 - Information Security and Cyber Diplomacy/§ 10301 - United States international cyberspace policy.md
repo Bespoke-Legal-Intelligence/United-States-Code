@@ -1,0 +1,64 @@
+### §10301. United States international cyberspace policy
+
+#### (a) In general
+
+It is the policy of the United States—
+
+&emsp;(1) to work internationally to promote an open, interoperable, reliable, and secure internet governed by the multi-stakeholder model, which—
+
+&emsp;&emsp;(A) promotes democracy, the rule of law, and human rights, including freedom of expression;
+
+&emsp;&emsp;(B) supports the ability to innovate, communicate, and promote economic prosperity; and
+
+&emsp;&emsp;(C) is designed to protect privacy and guard against deception, malign influence, incitement to violence, harassment and abuse, fraud, and theft;
+
+&emsp;(2) to encourage and aid United States allies and partners in improving their own technological capabilities and resiliency to pursue, defend, and protect shared interests and values, free from coercion and external pressure; and
+
+&emsp;(3) in furtherance of the efforts described in paragraphs (1) and (2)—
+
+&emsp;&emsp;(A) to provide incentives to the private sector to accelerate the development of the technologies referred to in such paragraphs;
+
+&emsp;&emsp;(B) to modernize and harmonize with allies and partners export controls and investment screening regimes and associated policies and regulations; and
+
+&emsp;&emsp;(C) to enhance United States leadership in technical standards-setting bodies and avenues for developing norms regarding the use of digital tools.
+
+#### (b) Implementation
+
+In implementing the policy described in subsection (a), the President, in consultation with outside actors, as appropriate, including private sector companies, nongovernmental organizations, security researchers, and other relevant stakeholders, in the conduct of bilateral and multilateral relations, shall strive—
+
+&emsp;(1) to clarify the applicability of international laws and norms to the use of information and communications technology (referred to in this subsection as "ICT");
+
+&emsp;(2) to reduce and limit the risk of escalation and retaliation in cyberspace, damage to critical infrastructure, and other malicious cyber activity that impairs the use and operation of critical infrastructure that provides services to the public;
+
+&emsp;(3) to cooperate with like-minded countries that share common values and cyberspace policies with the United States, including respect for human rights, democracy, and the rule of law, to advance such values and policies internationally;
+
+&emsp;(4) to encourage the responsible development of new, innovative technologies and ICT products that strengthen a secure internet architecture that is accessible to all;
+
+&emsp;(5) to secure and implement commitments on responsible country behavior in cyberspace, including commitments by countries—
+
+&emsp;&emsp;(A) not to conduct, or knowingly support, cyber-enabled theft of intellectual property, including trade secrets or other confidential business information, with the intent of providing competitive advantages to companies or commercial sectors;
+
+&emsp;&emsp;(B) to take all appropriate and reasonable efforts to keep their territories clear of intentionally wrongful acts using ICT in violation of international commitments;
+
+&emsp;&emsp;(C) not to conduct or knowingly support ICT activity that intentionally damages or otherwise impairs the use and operation of critical infrastructure providing services to the public, in violation of international law;
+
+&emsp;&emsp;(D) to take appropriate measures to protect the country's critical infrastructure from ICT threats;
+
+&emsp;&emsp;(E) not to conduct or knowingly support malicious international activity that harms the information systems of authorized international emergency response teams (also known as "computer emergency response teams" or "cybersecurity incident response teams") of another country or authorize emergency response teams to engage in malicious international activity, in violation of international law;
+
+&emsp;&emsp;(F) to respond to appropriate requests for assistance to mitigate malicious ICT activity emanating from their territory and aimed at the critical infrastructure of another country;
+
+&emsp;&emsp;(G) not to restrict cross-border data flows or require local storage or processing of data; and
+
+&emsp;&emsp;(H) to protect the exercise of human rights and fundamental freedoms on the internet, while recognizing that the human rights that people have offline also need to be protected online; and
+
+&emsp;(6) to advance, encourage, and support the development and adoption of internationally recognized technical standards and best practices.
+
+(Pub. L. 117–263, div. I, title XCV, §9501, Dec. 23, 2022, 136 Stat. 3897.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Support of Policy in United Nations
+
+Pub. L. 117–263, div. I, title XCV, §9502(c), Dec. 23, 2022, 136 Stat. 3902, provided that: "The Permanent Representative of the United States to the United Nations should use the voice, vote, and influence of the United States to oppose any measure that is inconsistent with the policy described in section 9501(a) \[22 U.S.C. 10301(a)\]."
+

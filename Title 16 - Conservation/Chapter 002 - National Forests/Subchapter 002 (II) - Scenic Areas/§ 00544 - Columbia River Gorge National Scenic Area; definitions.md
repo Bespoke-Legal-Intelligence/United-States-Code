@@ -16,7 +16,7 @@ As used in sections 544 to 544p of this title, the term—
 
 &emsp;(c) "Commission" means the Columbia River Gorge Commission established pursuant to section 544c of this title;
 
-&emsp;(d) "counties" means Hood River, Multnomah, and Wasco Counties, Oregon; andClark, Klickitat, and Skamania Counties, Washington;
+&emsp;(d) "counties" means Hood River, Multnomah, and Wasco Counties, Oregon; and Clark, Klickitat, and Skamania Counties, Washington;
 
 &emsp;(e) "Dodson/Warrendale Special Purchase Unit" means the Dodson/Warrendale Special Purchase Unit established pursuant to section 544b of this title;
 

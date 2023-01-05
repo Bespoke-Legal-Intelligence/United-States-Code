@@ -12,5 +12,5 @@ Pub. L. 104–331, §5(b), Oct. 26, 1996, 110 Stat. 4072, provided that: "This s
 
 #### Savings Provision
 
-Pub. L. 104–331, §5(c), Oct. 26, 1996, 110 Stat. 4072, provided that: "The repeal under this section \[repealing this section\] shall not affect proceedings under such section 303 in which a complaint was filed before the effective date of this section \[Oct. 1, 1997\], and orders shall be issued in such proceedings and appeals shall be taken therefrom as if this section had not been enacted."
+Pub. L. 104–331, §5(c), Oct. 26, 1996, 110 Stat. 4072, provided that: "The repeal under this section \[repealingthis section\] shall not affect proceedings under such section 303 in which a complaint was filed before the effective date of this section \[Oct. 1, 1997\], and orders shall be issued in such proceedings and appeals shall be taken therefrom as if this section had not been enacted."
 

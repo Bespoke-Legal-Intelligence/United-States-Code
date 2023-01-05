@@ -76,7 +76,7 @@ Any State agency that desires to receive funds to carry out a program under this
 
 &emsp;(10) describes how appropriate professional development will be provided to teachers and other staff;
 
-&emsp;(11) designates an individual in each affected correctional facility or institution for neglected or delinquent children and youth to beresponsible for issues relating to the transition of such children and youth between such facility or institution and locally operated programs;
+&emsp;(11) designates an individual in each affected correctional facility or institution for neglected or delinquent children and youth to be responsible for issues relating to the transition of such children and youth between such facility or institution and locally operated programs;
 
 &emsp;(12) describes how the State agency will endeavor to coordinate with businesses for training and mentoring for participating children and youth;
 
@@ -138,7 +138,7 @@ Subsec. (c)(7). Pub. L. 114–95, §1401(3)(B)(iii), made technical amendment to
 
 Subsec. (c)(8). Pub. L. 114–95, §1401(3)(B)(iv), substituted "the Workforce Innovation and Opportunity Act" for "Public Law 105–220" and "career" for "vocational".
 
-Subsec. (c)(9). Pub. L. 114–95, §1401(3)(B)(v), inserted "and after" after "prior to" and "in order to facilitate the transition of such children and youth between thecorrectional facility and the local educational agency or alternative education program" before semicolon at end.
+Subsec. (c)(9). Pub. L. 114–95, §1401(3)(B)(v), inserted "and after" after "prior to" and "in order to facilitate the transition of such children and youth between the correctional facility and the local educational agency or alternative education program" before semicolon at end.
 
 Subsec. (c)(11). Pub. L. 114–95, §1401(3)(B)(vi), substituted "transition of such children and youth between such facility or institution and locally operated programs" for "transition of children and youth from such facility or institution to locally operated programs".
 

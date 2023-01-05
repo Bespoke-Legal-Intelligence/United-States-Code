@@ -22,7 +22,7 @@ Section 94, act Feb. 23, 1927, ch. 169, §14, 44 Stat. 1168, related to revocati
 
 Section 95, act Feb. 23, 1927, ch. 169, §15, 44 Stat. 1168, related to application of laws against monopolies to radio combinations and revocation of licenses. See section 313 of this title.
 
-Section 96, acts Feb. 23, 1927, ch. 169, §16, 44 Stat. 1169; July 1, 1930, ch. 788, 46 Stat. 844, related to appeals in matters affecting permit and licenses. See section 402 of this title.
+Section 96, acts Feb. 23, 1927, ch. 169, §16, 44 Stat. 1169; July 1, 1930, ch. 788, 46 Stat. 844, related to appeals inmatters affecting permit and licenses. See section 402 of this title.
 
 Section 97, act Feb. 23, 1927, ch. 169, §17, 44 Stat. 1169, related to control by radio interests of cable, wire, telegraph or telephone system and prohibition thereof. See section 314 of this title.
 

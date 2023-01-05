@@ -76,7 +76,7 @@ There is hereby imposed a tax on the failure of a group health plan to meet the 
 
 &emsp;&emsp;&emsp;In the case of failures with respect to plans other than multiemployer plans, the tax imposed by subsection (a) for failures during the taxable year of the employer shall not exceed the amount equal to the lesser of—
 
-&emsp;&emsp;&emsp;&emsp;(I) 10 percent of the aggregate amount paid or incurred by the employer (orpredecessor employer) during the preceding taxable year for group health plans, or
+&emsp;&emsp;&emsp;&emsp;(I) 10 percent of the aggregate amount paid or incurred by the employer (or predecessor employer) during the preceding taxable year for group health plans, or
 
 &emsp;&emsp;&emsp;&emsp;(II) $500,000.
 
@@ -154,11 +154,11 @@ This section shall not apply to—
 
 #### (1) In general
 
-&emsp;A group health plan meets the requirements of this subsection only if the coverage of the costs of pediatric vaccines (as defined under section 1928(h)(6) of the Social Security Act (42 U.S.C. 1396s(h)(6))) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled to elect, within the election period, continuation coverage under the plan.
+&emsp;A group health plan meets the requirements of this subsection only if the coverage of thecosts of pediatric vaccines (as defined under section 1928(h)(6) of the Social Security Act (42 U.S.C. 1396s(h)(6))) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if each qualified beneficiary who would lose coverage under the plan as a result of a qualifying event is entitled to elect, within the election period, continuation coverage under the plan.
 
 #### (2) Continuation coverage
 
-&emsp;For purposes of paragraph (1), the term "continuation coverage" means coverageunder the plan which meets the following requirements:
+&emsp;For purposes of paragraph (1), the term "continuation coverage" means coverage under the plan which meets the following requirements:
 
 #### (A) Type of benefit coverage
 
@@ -488,7 +488,7 @@ Subsec. (g)(1)(A). Pub. L. 104–191, §421(c)(3), inserted at end "Such term sh
 
 Subsec. (g)(2). Pub. L. 104–191, §321(d)(1), inserted at end "Such term shall not include any plan substantially all of the coverage under which is for qualified long-term care services (as defined in section 7702B(c))."
 
-<b>1993</b>—Subsec. (f)(1). Pub. L. 103–66 inserted "the coverage of the costs of pediatric vaccines (as definedunder section 2162 of the Public Health Service Act) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if" after "only if".
+<b>1993</b>—Subsec. (f)(1). Pub. L. 103–66 inserted "the coverage of the costs of pediatric vaccines (as defined under section 2162 of the Public Health Service Act) is not reduced below the coverage provided by the plan as of May 1, 1993, and only if" after "only if".
 
 <b>1990</b>—Subsec. (d)(1). Pub. L. 101–508 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "any failure of a group health plan to meet the requirements of subsection (f) if all employers maintaining such plan normally employed fewer than 20 employees on a typical business day during the preceding calendar year,".
 
@@ -552,7 +552,7 @@ Pub. L. 103–66, title XIII, §13422(b), Aug. 10, 1993, 107 Stat. 566, provided
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective as if included in the provision of the Technical and MiscellaneousRevenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
+Amendment by Pub. L. 101–508 effective as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 11702(j) of Pub. L. 101–508, set out as a note under section 59 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -630,7 +630,7 @@ Limitation of period of premium assistance.—
 
 Eligibility for additional coverage.—Paragraph (1)(A) shall not apply with respect to any assistance eligible individual described in paragraph (3) for months of coverage beginning on or after the earlier of—
 
-&emsp;&emsp;&emsp;"(i) the first date that such individual is eligible for coverage under any other group health plan (other than coverage consisting of only excepted benefits (as defined in section 9832(c) of the Internal Revenue Code of 1986, section 733(c) of the Employee Retirement Income Security Act of 1974, and section 2791(c) of the Public Health Service Act), coverage under a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986), coverage under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) ofthe Internal Revenue Code of 1986)), or eligible for benefits under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]; or
+&emsp;&emsp;&emsp;"(i) the first date that such individual is eligible for coverage under any other group health plan (other than coverage consisting of only excepted benefits (as defined in section 9832(c) of the Internal Revenue Code of 1986, section 733(c) of the Employee Retirement Income Security Act of 1974, and section 2791(c) of the Public Health Service Act), coverage under a flexible spending arrangement (as defined in section 106(c)(2) of the Internal Revenue Code of 1986), coverage under a qualified small employer health reimbursement arrangement (as defined in section 9831(d)(2) of the Internal Revenue Code of 1986)), or eligible for benefits under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]; or
 
 &emsp;&emsp;&emsp;"(ii) the earlier of—
 
@@ -818,7 +818,7 @@ Pub. L. 117–2, title IX, §9501(b)(1)(D), Mar. 11, 2021, 135 Stat. 136, provid
 
 "(i)
 
-In general.—In the case of an assistance eligible individual who pays, with respect any period of coverage to which subsection (a)(1)(A) \[section 9501(a)(1)(A) of Pub. L. 117–2; see note above\] applies, any amount of the premium for such coverage that the individualwould have (but for this Act \[see Tables for classification\]) been required to pay, the person to whom such payment is payable shall reimburse such individual for the amount of such premium paid.
+In general.—In the case of an assistance eligible individual who pays, with respect any period of coverage to which subsection (a)(1)(A) \[section 9501(a)(1)(A) of Pub. L. 117–2; see note above\] applies, any amount of the premium for such coverage that the individual would have (but for this Act \[see Tables for classification\]) been required to pay, the person to whom such payment is payable shall reimburse such individual for the amount of such premium paid.
 
 "(ii)
 

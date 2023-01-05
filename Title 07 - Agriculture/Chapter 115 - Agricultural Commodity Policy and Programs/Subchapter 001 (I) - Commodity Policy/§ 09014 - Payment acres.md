@@ -32,7 +32,7 @@
 
 #### (3) Treated as additional acreage
 
-&emsp;When generic base acres are planted to a covered commodity or acreage planted to a covered commodity is attributed to generic base acres, the generic base acres are in addition to other base acres on the farm.
+&emsp;When generic base acres are planted to a covered commodity or acreage planted to acovered commodity is attributed to generic base acres, the generic base acres are in addition to other base acres on the farm.
 
 #### (4) Seed cotton
 
@@ -72,7 +72,7 @@ The quantity of payment acres determined under subsection (a) may not include an
 
 #### (1) Prohibition on payments
 
-&emsp;Notwithstanding any other provision of this chapter, a producer on a farm may not receiveprice loss coverage payments or agriculture risk coverage payments if the sum of the base acres on the farm is 10 acres or less, as determined by the Secretary, unless the sum of the base acres on the farm, when combined with the base acres of other farms in which the producer has an interest, is more than 10 acres.
+&emsp;Notwithstanding any other provision of this chapter, a producer on a farm may not receive price loss coverage payments or agriculture risk coverage payments if the sum of the base acres on the farm is 10 acres or less, as determined by the Secretary, unless the sum of the base acres on the farm, when combined with the base acres of other farms in which the producer has an interest, is more than 10 acres.
 
 #### (2) Exceptions
 

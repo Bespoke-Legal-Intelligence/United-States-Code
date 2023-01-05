@@ -68,7 +68,7 @@ In this chapter:
 
 #### (11) South Pacific Fishery Resources Convention
 
-&emsp;The term "South Pacific Fishery Resources Convention" means the Convention on the Conservation and Management of the High Seas Fishery Resources in the South Pacific Ocean (including any annexes, amendments, orprotocols that are in force, or have come into force, for the United States), which was adopted at Auckland, New Zealand, on November 14, 2009, by the International Consultations on the Proposed South Pacific Regional Fisheries Management Organization.
+&emsp;The term "South Pacific Fishery Resources Convention" means the Convention on the Conservation and Management of the High Seas Fishery Resources in the South Pacific Ocean (including any annexes, amendments, or protocols that are in force, or have come into force, for the United States), which was adopted at Auckland, New Zealand, on November 14, 2009, by the International Consultations on the Proposed South Pacific Regional Fisheries Management Organization.
 
 #### (12) State
 

@@ -24,7 +24,7 @@ The failure of a State to adopt or adhere to an administrative grievance procedu
 
 &emsp;(ii) the fee was directly and reasonably incurred in enforcing the relief ordered for the violation.
 
-(2) Whenever a monetary judgment is awarded in an action described in paragraph (1), a portion of the judgment (not to exceed 25 percent) shall be applied to satisfy the amount of attorney's fees awarded against the defendant. If the award of attorney's fees is not greater than 150 percent of the judgment, the excess shall be paid by the defendant.
+(2) Whenever a monetary judgment is awarded in an action described in paragraph (1), a portionof the judgment (not to exceed 25 percent) shall be applied to satisfy the amount of attorney's fees awarded against the defendant. If the award of attorney's fees is not greater than 150 percent of the judgment, the excess shall be paid by the defendant.
 
 (3) No award of attorney's fees in an action described in paragraph (1) shall be based on an hourly rate greater than 150 percent of the hourly rate established under section 3006A of title 18 for payment of court-appointed counsel.
 

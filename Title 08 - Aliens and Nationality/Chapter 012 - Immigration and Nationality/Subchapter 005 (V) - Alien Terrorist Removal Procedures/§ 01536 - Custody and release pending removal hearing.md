@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;If a judge of the removal court denies the order sought in an application filed pursuant to section 1533 of this title and the Attorney General seeks review of such denial, the judgeshall release the alien from custody subject to the least restrictive condition, or combination of conditions, of release described in section 3142(b) and clauses (i) through (xiv) of section 3142(c)(1)(B) of title 18 that—
+&emsp;If a judge of the removal court denies the order sought in an application filed pursuant to section 1533 of this title and the Attorney General seeks review of such denial, the judge shall release the alien from custody subject to the least restrictive condition, or combination of conditions, of release described in section 3142(b) and clauses (i) through (xiv) of section 3142(c)(1)(B) of title 18 that—
 
 &emsp;&emsp;(A) will reasonably assure the appearance of the alien at any future proceeding pursuant to this subchapter; and
 

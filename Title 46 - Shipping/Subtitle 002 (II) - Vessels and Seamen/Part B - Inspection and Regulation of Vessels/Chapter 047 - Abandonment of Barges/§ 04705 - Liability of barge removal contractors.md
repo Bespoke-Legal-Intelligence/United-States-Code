@@ -1,6 +1,6 @@
 ### §4705. Liability of barge removal contractors
 
-(a) A barge removal contractor and its subcontractor are not liable for damages that result from actions taken or omitted to be taken in the course of removing a barge under this chapter.
+(a) A barge removal contractor and its subcontractor are not liable for damages that resultfrom actions taken or omitted to be taken in the course of removing a barge under this chapter.
 
 (b) Subsection (a) does not apply—
 

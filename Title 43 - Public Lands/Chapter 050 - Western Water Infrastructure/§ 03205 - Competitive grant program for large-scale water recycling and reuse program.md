@@ -78,7 +78,7 @@ In providing grants to eligible projects under the program, the Secretary shall 
 
 &emsp;&emsp;(C) water quality improvements.
 
-&emsp;(2) The eligible project is likely to reduce impacts on environmental resources fromwater projects owned or operated by Federal and State agencies, including through measurable reductions in water diversions from imperiled ecosystems.
+&emsp;(2) The eligible project is likely to reduce impacts on environmental resources from water projects owned or operated by Federal and State agencies, including through measurable reductions in water diversions from imperiled ecosystems.
 
 &emsp;(3) The eligible project would advance water management plans across a multi-State area, such as drought contingency plans in the Colorado River Basin.
 
@@ -152,7 +152,7 @@ The authority to carry out this section terminates on the date that is 5 years a
 
 #### References in Text
 
-The Reclamation Wastewater and Groundwater Study and Facilities Act, referred to in subsec. (f)(4)(A), is title XVI of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4663, which enacted sections 390h to 390h–15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 390h of this title and Tables.
+The Reclamation Wastewater and Groundwater Study and Facilities Act, referred to in subsec.\(f)(4)(A), is title XVI of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4663, which enacted sections 390h to 390h–15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 390h of this title and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (g), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

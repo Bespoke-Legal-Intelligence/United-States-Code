@@ -46,7 +46,7 @@ On an annual basis, the Advisory Board shall review—
 
 #### (2) Review panel required
 
-&emsp;As part of the procedures established under paragraph (1), a review panel shall verify, at least once every 5 years, that each research activity of the Department and research conducted under each research program of the Department has scientific merit and relevance.
+&emsp;As part of the procedures established under paragraph (1), a review panel shall verify, atleast once every 5 years, that each research activity of the Department and research conducted under each research program of the Department has scientific merit and relevance.
 
 #### (3) Mission area
 
@@ -74,7 +74,7 @@ On an annual basis, the Advisory Board shall review—
 
 #### (1) 1862 and 1890 Institutions
 
-&emsp;Effective October 1, 1999, to be eligible to obtain agricultural research or extension fundsfrom the Secretary for an activity, each 1862 Institution and 1890 Institution shall—
+&emsp;Effective October 1, 1999, to be eligible to obtain agricultural research or extension funds from the Secretary for an activity, each 1862 Institution and 1890 Institution shall—
 
 &emsp;&emsp;(A) establish a process for merit review of the activity; and
 

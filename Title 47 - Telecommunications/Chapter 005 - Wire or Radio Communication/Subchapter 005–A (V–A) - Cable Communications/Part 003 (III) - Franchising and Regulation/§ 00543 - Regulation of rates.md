@@ -26,7 +26,7 @@
 
 #### (4) Approval by Commission
 
-&emsp;A certification filed by a franchising authority under paragraph (3) shall be effective 30 days after the date on which it is filed unless the Commission finds, after notice to the authority and a reasonable opportunity for the authority to comment, that—
+&emsp;A certification filed by a franchising authority under paragraph (3) shall be effective 30 days after the date on which it is filed unlessthe Commission finds, after notice to the authority and a reasonable opportunity for the authority to comment, that—
 
 &emsp;&emsp;(A) the franchising authority has adopted or is administering regulations with respect to the rates subject to regulation under this section that are not consistent with the regulations prescribed by the Commission under subsection (b);
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;(v) the reasonably and properly allocable portion of any amount assessed as a franchise fee, tax, or charge of any kind imposed by any State or local authority on the transactions between cable operators and cable subscribers or any other fee, tax, or assessment of general applicability imposed by a governmental entity applied against cable operators or cable subscribers;
 
-&emsp;&emsp;&emsp;(vi) any amount required, in accordance with paragraph (4), to satisfy franchise requirements to support public, educational, or governmental channels or the use of such channels or any other services required under the franchise; and
+&emsp;&emsp;&emsp;(vi) any amount required, in accordance with paragraph (4), to satisfy franchise requirements to support public, educational,or governmental channels or the use of such channels or any other services required under the franchise; and
 
 &emsp;&emsp;&emsp;(vii) a reasonable profit, as defined by the Commission consistent with the Commission's obligations to subscribers under paragraph (1).
 
@@ -176,7 +176,7 @@
 
 #### (3) Review of rate changes
 
-&emsp;The Commission shall review any complaint submitted by a franchising authority afterFebruary 8, 1996, concerning an increase in rates for cable programming services and issue a final order within 90 days after it receives such a complaint, unless the parties agree to extend the period for such review. A franchising authority may not file a complaint under this paragraph unless, within 90 days after such increase becomes effective it receives subscriber complaints.
+&emsp;The Commission shall review any complaint submitted by a franchising authority after February 8, 1996, concerning an increase in rates for cable programming services and issue a final order within 90 days after it receives such a complaint, unless the parties agree to extend the period for such review. A franchising authority may not file a complaint under this paragraph unless, within 90 days after such increase becomes effective it receives subscriber complaints.
 
 #### (4) Sunset of upper tier rate regulation
 
@@ -310,7 +310,7 @@ Subsec. (c)(1)(C). Pub. L. 104–104, §301(b)(1)(B), substituted "the first com
 
 Subsec. (c)(3), (4). Pub. L. 104–104, §301(b)(1)(C), added pars. (3) and (4) and struck out heading and text of former par. (3). Text read as follows: "Except during the 180-day period following the effective date of the regulations prescribed by the Commission under paragraph (1), the procedures established under subparagraph (B) of such paragraph shall be available only with respect to complaints filed within a reasonable period of time following a change in rates that is initiated after that effective date, including a change in rates that results from a change in that system's service tiers."
 
-Subsec. (d). Pub. L. 104–104, §301(b)(2), inserted at end "This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory pricesto a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory."
+Subsec. (d). Pub. L. 104–104, §301(b)(2), inserted at end "This subsection does not apply to (1) a cable operator with respect to the provision of cable service over its cable system in any geographic area in which the video programming services offered by the operator in that area are subject to effective competition, or (2) any video programming offered on a per channel or per program basis. Bulk discounts to multiple dwelling units shall not be subject to this subsection, except that a cable operator of a cable system that is not subject to effective competition may not charge predatory prices to a multiple dwelling unit. Upon a prima facie showing by a complainant that there are reasonable grounds to believe that the discounted price is predatory, the cable system shall have the burden of showing that its discounted price is not predatory."
 
 Subsec. (l)(1)(D). Pub. L. 104–104, §301(b)(3), added subpar. (D).
 

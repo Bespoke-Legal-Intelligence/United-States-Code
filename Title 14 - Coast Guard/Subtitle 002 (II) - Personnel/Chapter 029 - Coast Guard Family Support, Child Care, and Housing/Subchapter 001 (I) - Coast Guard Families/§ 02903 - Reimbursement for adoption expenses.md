@@ -20,7 +20,7 @@ Treatment of Other Benefits.—A benefit may not be paid under this section for 
 
 Limitations.—(1) Not more than $2,000 may be paid under this section to a member of the Coast Guard, or to two such members who are spouses of each other, for expenses incurred in the adoption of a child.
 
-(2) Not more than $5,000 may be paid under this section to a member of the Coast Guard, or to two such members who are spouses of eachother, for adoptions by such member (or members) in any calendar year.
+(2) Not more than $5,000 may be paid under this section to a member of the Coast Guard, or to two such members who are spouses of each other, for adoptions by such member (or members) in any calendar year.
 
 (f)
 

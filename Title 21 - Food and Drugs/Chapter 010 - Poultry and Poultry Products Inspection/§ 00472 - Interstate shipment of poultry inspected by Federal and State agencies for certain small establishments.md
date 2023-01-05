@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(A) on average, employs more than 25 employees (including supervisory and nonsupervisory employees), as defined by the Secretary;
 
-&emsp;&emsp;(B) as of the date of the enactment of this section, ships in interstate commerce carcasses, portions of carcasses, or poultryitems that are inspected by the Secretary in accordance with this chapter;
+&emsp;&emsp;(B) as of the date of the enactment of this section, ships in interstate commerce carcasses, portions of carcasses, or poultry items that are inspected by the Secretary in accordance with this chapter;
 
 &emsp;&emsp;(C)(i) is a Federal establishment;
 
@@ -142,7 +142,7 @@ The Secretary may provide grants to appropriate State agencies to assist the app
 
 #### (g) Violations
 
-Any selected establishment that the Secretary determines to be in violation of any requirement of this chapter shall be transitioned to a Federalestablishment in accordance with a procedure developed by the Secretary under subsection (b)(3)(A).
+Any selected establishment that the Secretary determines to be in violation of any requirement of this chapter shall be transitioned to a Federal establishment in accordance with a procedure developed by the Secretary under subsection (b)(3)(A).
 
 #### (h) Effect
 

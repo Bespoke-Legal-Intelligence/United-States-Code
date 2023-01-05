@@ -48,7 +48,7 @@ Section was enacted as part of the Food Stamp Reauthorization Act of 2002 and al
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–203 added subsec. (f).
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §4406(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary of Agriculture shall use $5,000,000 for fiscal year 2002, and $15,000,000 for each of fiscal years 2003 through 2007, ofthe funds available to the Commodity Credit Corporation to carry out and expand a seniors farmers' market nutrition program."
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §4406(c)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary of Agriculture shall use $5,000,000 for fiscal year 2002, and $15,000,000 for each of fiscal years 2003 through 2007, of the funds available to the Commodity Credit Corporation to carry out and expand a seniors farmers' market nutrition program."
 
 Subsec. (b)(1). Pub. L. 110–246, §4231(1), inserted "honey," after "vegetables,".
 

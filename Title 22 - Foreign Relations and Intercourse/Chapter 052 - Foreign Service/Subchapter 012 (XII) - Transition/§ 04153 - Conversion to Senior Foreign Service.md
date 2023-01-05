@@ -14,7 +14,7 @@ If a request is submitted under subsection (a) by a Foreign Service officer or, 
 
 #### (d) Availability for worldwide assignment
 
-If the Secretary determines that a Foreign Service Reserve officer with limited or unlimited tenure who submits a request under subsection (a) is not available for worldwide assignment, an appointment under subsection (b) or arecommendation for appointment under subsection (c) shall be made only if—
+If the Secretary determines that a Foreign Service Reserve officer with limited or unlimited tenure who submits a request under subsection (a) is not available for worldwide assignment, an appointment under subsection (b) or a recommendation for appointment under subsection (c) shall be made only if—
 
 &emsp;(1) the Secretary certifies that there is a need for the services of such officer in the Senior Foreign Service; and
 

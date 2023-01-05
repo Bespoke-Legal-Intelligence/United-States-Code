@@ -2,7 +2,7 @@
 
 (a)
 
-Minimum Requirements.—The Secretary of Transportation shall prescribe regulations providing minimum requirements for establishing and operating a one-call notification system for a State to adopt that will notify an operator of a pipeline facility of activity in the vicinity of the facility that could threaten the safety of the facility. The regulations shall include the following:
+Minimum Requirements.—The Secretary of Transportation shall prescribe regulations providing minimum requirements for establishingand operating a one-call notification system for a State to adopt that will notify an operator of a pipeline facility of activity in the vicinity of the facility that could threaten the safety of the facility. The regulations shall include the following:
 
 &emsp;(1) a requirement that the system apply to all areas of the State containing underground pipeline facilities.
 

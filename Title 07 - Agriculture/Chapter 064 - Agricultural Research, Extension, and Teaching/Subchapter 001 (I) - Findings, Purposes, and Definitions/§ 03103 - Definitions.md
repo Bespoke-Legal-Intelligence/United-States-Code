@@ -280,7 +280,7 @@ Public Law 87–788 or Act of October 10, 1962, referred to in pars. (5)(A)(i) a
 
 The Smith-Lever Act of May 8, 1914, referred to in pars. (6) and (18)(D), is act May 8, 1914, ch. 79, 38 Stat. 372, which is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
-Act of July 2, 1862, 12 Stat. 503, referred to in pars. (13), (14)(C)(ii)(I), and (18)(A), is popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862, 12 Stat. 503, referred to in pars. (13), (14)(C)(ii)(I), and (18)(A), is popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 etseq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890, 26 Stat. 417, referred to in pars. (13), (14)(C)(ii)(II), and (18)(B), is popularly known as the "Agricultural College Act of 1890" and also as the "Second Morrill Act", which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
@@ -294,7 +294,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2018</b>—Par. (14)(A). Pub. L. 115–334, §7102(a)(1), amended subpar. (A) generally. Prior to amendment, text readas follows: "The terms 'NLGCA Institution' and 'non-land-grant college of agriculture' mean a public college or university offering a baccalaureate or higher degree in the study of food and agricultural sciences."
+<b>2018</b>—Par. (14)(A). Pub. L. 115–334, §7102(a)(1), amended subpar. (A) generally. Prior to amendment, text read as follows: "The terms 'NLGCA Institution' and 'non-land-grant college of agriculture' mean a public college or university offering a baccalaureate or higher degree in the study of food and agricultural sciences."
 
 Par. (14)(C). Pub. L. 115–334, §7102(a)(2), inserted "any institution designated under" after "include" in introductory provisions, redesignated subcls. (I) to (III) of cl. (ii) as cls. (i) to (iii), respectively, and struck out former cl. (i), which read "Hispanic-serving agricultural colleges and universities; or", introductory provisions of former cl. (ii) which read "any institution designated under—", and subcl. (IV) of former cl. (ii) which read "Public Law 87–788 (commonly known as the 'McIntire-Stennis Cooperative Forestry Act') (16 U.S.C. 582a et seq.)."
 
@@ -384,7 +384,7 @@ Pars. (17), (18). Pub. L. 101–624, §1603(1), (3), added pars. (17) and (18).
 
 <b>1985</b>—Par. (8)(J). Pub. L. 99–198 added subpar. (J).
 
-<b>1981</b>—Par. (8). Pub. L. 97–98, §1404(1), substituted in provision preceding subpar. (A) "basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but notlimited to, activities relating to" for "sciences relating to food and agriculture in the broadest sense, including the social, economic, and political considerations of", in subpar. (E) "including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;" for "human nutrition, and family life; and", and in subpar. (F) "community welfare and development" for "and community development", and added subpars. (G) to (I).
+<b>1981</b>—Par. (8). Pub. L. 97–98, §1404(1), substituted in provision preceding subpar. (A) "basic, applied, and developmental research, extension, and teaching activities in the food, agricultural, renewable natural resources, forestry, and physical and social sciences, in the broadest sense of these terms, including but not limited to, activities relating to" for "sciences relating to food and agriculture in the broadest sense, including the social, economic, and political considerations of", in subpar. (E) "including consumer affairs, food and nutrition, clothing and textiles, housing, and family well-being and financial management;" for "human nutrition, and family life; and", and in subpar. (F) "community welfare and development" for "and community development", and added subpars. (G) to (I).
 
 Par. (12). Pub. L. 97–98, §1404(2), struck out "except as provided in subchapter VII of this chapter," before "the term" and included within term "State" American Samoa, the Commonwealth of the Northern Marianas, and the Trust Territory of the Pacific Islands.
 

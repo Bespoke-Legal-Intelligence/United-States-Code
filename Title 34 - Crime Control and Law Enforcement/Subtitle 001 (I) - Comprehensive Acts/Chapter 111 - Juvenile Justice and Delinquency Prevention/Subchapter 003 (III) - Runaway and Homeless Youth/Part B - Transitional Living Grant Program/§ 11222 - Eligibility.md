@@ -48,7 +48,7 @@ In this part—
 
 &emsp;(2) the term "exceptional circumstances" means circumstances in which a youth would benefit to an unusual extent from additional time in the program.
 
-(Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, §3(f), Oct. 12, 1999, 113 Stat. 1038; Pub. L. 108–96, title I, §§107, 108, 110, 111, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, §4, Oct. 8, 2008, 122 Stat. 4069; Pub. L. 113–128, title V, §512(aa), July 22, 2014, 128 Stat. 1717.)
+(Pub. L. 93–415, title III, §322, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4456; amended Pub. L. 102–586, §3(f), Nov. 4, 1992, 106 Stat. 5022; Pub. L. 106–71, §3(f), Oct. 12, 1999,113 Stat. 1038; Pub. L. 108–96, title I, §§107, 108, 110, 111, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, §4, Oct. 8, 2008, 122 Stat. 4069; Pub. L. 113–128, title V, §512(aa), July 22, 2014, 128 Stat. 1717.)
 
 #### <b>Editorial Notes</b>
 
@@ -74,7 +74,7 @@ A prior section 322 of title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 11
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–378, §4(a)(1), substituted "by grant, agreement, or contract, shelter" for "directly or indirectly, shelter" and "and provide, by grant, agreement, or contract, services," for "and services".
 
-Subsec. (a)(2). Pub. L. 110–378, §4(a)(2), substituted "a continuous period not to exceed 540 days, or in exceptional circumstances 635 days, except that a youth in a program under this part who has not reached 18 years of age on the last day of the 635-day period may, in exceptional circumstances and if otherwise qualified for the program, remain in the program until the youth's 18th birthday;" for "a continuous period not to exceed 540 days, except that a youth in a program under thispart who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth's 18th birthday or the 180th day after the end of the 540-day period;".
+Subsec. (a)(2). Pub. L. 110–378, §4(a)(2), substituted "a continuous period not to exceed 540 days, or in exceptional circumstances 635 days, except that a youth in a program under this part who has not reached 18 years of age on the last day of the 635-day period may, in exceptional circumstances and if otherwise qualified for the program, remain in the program until the youth's 18th birthday;" for "a continuous period not to exceed 540 days, except that a youth in a program under this part who is under the age of 18 years on the last day of the 540-day period may, if otherwise qualified for the program, remain in the program until the earlier of the youth's 18th birthday or the 180th day after the end of the 540-day period;".
 
 Subsec. (a)(16). Pub. L. 110–378, §4(a)(3)–(5), added par. (16).
 

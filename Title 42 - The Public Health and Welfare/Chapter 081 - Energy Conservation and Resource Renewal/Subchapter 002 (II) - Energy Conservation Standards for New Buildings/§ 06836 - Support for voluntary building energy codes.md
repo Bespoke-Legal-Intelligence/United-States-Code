@@ -4,7 +4,7 @@
 
 Not later than 1 year after October 24, 1992, the Secretary, after consulting with the Secretary of Housing and Urban Development, the Secretary of Veterans Affairs, other appropriate Federal agencies, CABO, ASHRAE, the National Conference of States on Building Codes and Standards, and any other appropriate building codes and standards organization, shall support the upgrading of voluntary building energy codes for new residential and commercial buildings. Such support shall include—
 
-&emsp;(1) a compilation of data and other information regarding building energy efficiency standards and codes in the possession of the Federal Government, State and local governments, and industry organizations;
+&emsp;(1) a compilation of data and other information regarding building energy efficiencystandards and codes in the possession of the Federal Government, State and local governments, and industry organizations;
 
 &emsp;(2) assistance in improving the technical basis for such standards and codes;
 

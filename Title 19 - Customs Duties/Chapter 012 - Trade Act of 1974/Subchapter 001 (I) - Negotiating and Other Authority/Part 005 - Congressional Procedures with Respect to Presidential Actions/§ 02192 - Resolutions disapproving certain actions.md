@@ -42,7 +42,7 @@ All resolutions introduced in the House of Representatives shall be referred to 
 
 (2) Debate in the Senate on a resolution, and all debatable motions and appeals in connection therewith, shall be limited to not more than 20 hours, to be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
 
-(3) Debate in the Senate on any debatable motion or appeal in connection with a resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, the mover and the manager of the resolution, except that in the event the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto, shall be controlled by the minority leader or his designee. Such leaders, or either of them, may, from time under their control on the passage of a resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal.
+(3) Debate in the Senate on any debatable motion or appeal in connection with a resolution shall be limited to not more than 1 hour, to be equally divided between, and controlled by, themover and the manager of the resolution, except that in the event the manager of the resolution is in favor of any such motion or appeal, the time in opposition thereto, shall be controlled by the minority leader or his designee. Such leaders, or either of them, may, from time under their control on the passage of a resolution, allot additional time to any Senator during the consideration of any debatable motion or appeal.
 
 (4) A motion in the Senate to further limit debate on a resolution, debatable motion, or appeal is not debatable. No amendment to, or motion to recommit, a resolution is in order in the Senate.
 
@@ -98,7 +98,7 @@ Subsec. (f). Pub. L. 101–382, §132(c)(5), amended subsec. (f) generally. Prio
 
 <b>1984</b>—Subsec. (a)(1)(A). Pub. L. 98–573 substituted "joint resolution" for "concurrent resolution".
 
-<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–39, §902(a)(1)(A), substituted "does not approve the action taken by, or the determination of, the President under section 203 ofthe Trade Act of 1974 transmitted to the Congress on \_\_\_\_\_\_.', the blank space being filled with the appropriate date" for "does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.', the first blank space being filled in accordance with paragraph (2) and the second blank space being filled with the appropriate date".
+<b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–39, §902(a)(1)(A), substituted "does not approve the action taken by, or the determination of, the President under section 203 of the Trade Act of 1974 transmitted to the Congress on \_\_\_\_\_\_.', the blank space being filled with the appropriate date" for "does not approve \_\_\_\_\_\_ transmitted to the Congress on \_\_\_\_\_\_.', the first blank space being filled in accordance with paragraph (2) and the second blank space being filled with the appropriate date".
 
 Subsec. (a)(1)(B). Pub. L. 96–39, §902(a)(1)(B), substituted "paragraph (2)," for "paragraph (3),".
 

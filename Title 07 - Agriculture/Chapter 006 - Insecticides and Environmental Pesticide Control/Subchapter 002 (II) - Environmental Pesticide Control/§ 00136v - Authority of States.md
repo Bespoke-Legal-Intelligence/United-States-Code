@@ -16,15 +16,15 @@ Such State shall not impose or continue in effect any requirements for labeling 
 
 (3) In no instance may a State issue a registration for a food or feed use unless there exists a tolerance or exemption under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] that permits the residues of the pesticides on the food or feed. If the Administrator determines that a registration issued by a State is inconsistent with the Federal Food, Drug, and Cosmetic Act, or the use of, a pesticide under a registration issued by a State constitutes an imminent hazard, the Administrator may immediately disapprove the registration.
 
-(4) If the Administrator finds, in accordance with standards set forth in regulations issued under section 136w of this title, that a State is not capable of exercising adequate controls to assure that State registration under this section will be in accord with the purposes of this subchapter or has failed to exercise adequate controls, the Administrator may suspend the authority of the State to register pesticides until such time as the Administrator is satisfied that the State can and will exercise adequate controls. Prior to any such suspension, the Administrator shall advise the State of the Administrator's intention to suspend and the reasons therefor and provide the State time to respond.
+(4) If the Administrator finds, in accordance with standards set forth in regulations issuedunder section 136w of this title, that a State is not capable of exercising adequate controls to assure that State registration under this section will be in accord with the purposes of this subchapter or has failed to exercise adequate controls, the Administrator may suspend the authority of the State to register pesticides until such time as the Administrator is satisfied that the State can and will exercise adequate controls. Prior to any such suspension, the Administrator shall advise the State of the Administrator's intention to suspend and the reasons therefor and provide the State time to respond.
 
-(June 25, 1947, ch. 125, §24, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 997; amendedPub. L. 95–396, §22, Sept. 30, 1978, 92 Stat. 835; Pub. L. 100–532, title VIII, §801(m), Oct. 25, 1988, 102 Stat. 2682.)
+(June 25, 1947, ch. 125, §24, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 997; amended Pub. L. 95–396, §22, Sept. 30, 1978, 92 Stat. 835; Pub. L. 100–532, title VIII, §801(m), Oct. 25, 1988, 102 Stat. 2682.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Amendments
 

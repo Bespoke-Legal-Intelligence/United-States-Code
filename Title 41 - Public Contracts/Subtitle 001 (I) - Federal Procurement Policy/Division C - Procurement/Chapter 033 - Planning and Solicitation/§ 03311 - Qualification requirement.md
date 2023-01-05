@@ -86,7 +86,7 @@ Solicitation and testing of additional sources or products.—If the number of q
 
 &emsp;(2)
 
-When agency may bear cost.—The head of the agency concerned may bear the cost under paragraph (1)(B) only if the head of theagency determines that the additional qualified sources or products are likely to result in cost savings from increased competition for future requirements sufficient to offset (within a reasonable period of time considering the duration and dollar value of anticipated future requirements) the cost incurred by the agency.
+When agency may bear cost.—The head of the agency concerned may bear the cost under paragraph (1)(B) only if the head of the agency determines that the additional qualified sources or products are likely to result in cost savings from increased competition for future requirements sufficient to offset (within a reasonable period of time considering the duration and dollar value of anticipated future requirements) the cost incurred by the agency.
 
 &emsp;(3)
 

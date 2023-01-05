@@ -30,7 +30,7 @@ The date of the enactment of this Act, referred to in subsec. (a)(2), probably m
 
 #### Codification
 
-Section is comprised of section 1781 of Pub. L. 115–232. Subsec. (c) of section 1781 of Pub. L. 115–232 amendedsection 5314 of Title 5, Government Organization and Employees.
+Section is comprised of section 1781 of Pub. L. 115–232. Subsec. (c) of section 1781 of Pub. L. 115–232 amended section 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
 

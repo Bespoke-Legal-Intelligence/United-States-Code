@@ -48,7 +48,7 @@ The Secretary shall establish within the Agency a Cybersecurity Advisory Committ
 
 #### (6) Congressional notification
 
-&emsp;Not less frequently than once per year after January 1, 2021, the Director shall provide to the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate and the Committee on Homeland Security, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives a briefing on feedback from the Advisory Committee.
+&emsp;Not less frequently than once per year after January 1, 2021, the Director shall provide tothe Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate and the Committee on Homeland Security, the Committee on Energy and Commerce, and the Committee on Appropriations of the House of Representatives a briefing on feedback from the Advisory Committee.
 
 #### (7) Governance rules
 

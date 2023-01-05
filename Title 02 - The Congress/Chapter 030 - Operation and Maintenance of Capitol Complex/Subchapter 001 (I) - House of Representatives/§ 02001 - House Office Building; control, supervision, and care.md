@@ -28,7 +28,7 @@ Pub. L. 112–234, §1, Dec. 28, 2012, 126 Stat. 1624, provided that: "This Act 
 
 #### Acquisition of Site
 
-Act Mar. 3, 1903, ch. 1007, 32 Stat. 1113, authorized acquisition of a site for and the construction of the HouseOffice Building, and appointment of a Commission to supervise its construction.
+Act Mar. 3, 1903, ch. 1007, 32 Stat. 1113, authorized acquisition of a site for and the construction of the House Office Building, and appointment of a Commission to supervise its construction.
 
 Joint Resolution May 28, 1908, provided that it should be designated the House Office Building.
 
@@ -248,7 +248,7 @@ House Resolution No. 402, One Hundred First Congress, Sept. 10, 1990, provided t
 
 "(a)
 
-Thomas P. O'Neill, Jr. House of Representatives Office Building.—The House of Representatives office building located at C Street and New Jersey Avenue, Southeast, in the District of Columbia, and known as House of Representatives Office Building Annex No. 1, shall be known and designated as the 'Thomas P. O'Neill, Jr. House of Representatives Office Building'.
+Thomas P. O'Neill, Jr. House of Representatives Office Building.—The House of Representatives office building located at C Street and New Jersey Avenue, Southeast, in the District of Columbia, and known as House of Representatives Office Building Annex No.1, shall be known and designated as the 'Thomas P. O'Neill, Jr. House of Representatives Office Building'.
 
 "(b)
 

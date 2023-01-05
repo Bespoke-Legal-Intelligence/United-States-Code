@@ -18,5 +18,5 @@ This subchapter, referred to in subsec. (a), was in the original "this Act" and 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–329 amended first sentence generally. Prior to amendment, first sentence read as follows: "The park shall consist of approximately 912 acres of land, waters, submerged lands, and interests therein within the area generally depicted on the map entitled 'Salt River Study Area—Alternative "C" ' in the 'Alternatives Study and Environmental Assessment for the Columbus Landing Site, St. Croix, U.S. Virgin Islands', prepared by the National Park Service and dated June 1990."
+<b>2002</b>—Subsec. (b). Pub. L. 107–329 amended first sentence generally. Prior to amendment, first sentenceread as follows: "The park shall consist of approximately 912 acres of land, waters, submerged lands, and interests therein within the area generally depicted on the map entitled 'Salt River Study Area—Alternative "C" ' in the 'Alternatives Study and Environmental Assessment for the Columbus Landing Site, St. Croix, U.S. Virgin Islands', prepared by the National Park Service and dated June 1990."
 

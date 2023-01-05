@@ -4,7 +4,7 @@ Section 7871, Pub. L. 95–467, title IV, §400, Oct. 17, 1978, 92 Stat. 1313, e
 
 Section 7872, Pub. L. 95–467, title IV, §401, Oct. 17, 1978, 92 Stat. 1313; Pub. L. 96–457, §§1, 2(a), Oct. 15, 1980, 94 Stat. 2032, authorized appropriation of funds for programs under sections 7811(a) and (c), 7815(a) and (b), and 7819 of this title.
 
-Section 7873, Pub. L. 95–467, title IV, §402, Oct. 17, 1978, 92 Stat. 1314; Pub. L. 96–457, §2(b)(1), Oct. 15, 1980, 94 Stat. 2032, authorized appropriation of funds for research, development, and demonstration plants.
+Section 7873, Pub. L. 95–467, title IV, §402, Oct. 17, 1978, 92 Stat. 1314; Pub. L. 96–457, §2(b)(1), Oct. 15, 1980,94 Stat. 2032, authorized appropriation of funds for research, development, and demonstration plants.
 
 Section 7874, Pub. L. 95–467, title IV, §403, Oct. 17, 1978, 92 Stat. 1314; Pub. L. 96–457, §2(b)(2), Oct. 15, 1980, 94 Stat. 2032, authorized appropriation of funds for programs conducted under this chapter for which there were no specific appropriations.
 

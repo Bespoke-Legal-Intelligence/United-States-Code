@@ -44,3 +44,41 @@ The President is authorized to make grants not to exceed 50 per centum of the co
 
 Subsec. (d). Pub. L. 100–707, §104(a), (b)(2), inserted "including evaluations of natural hazards and development of the programs and actions required to mitigate such hazards;" after "plans," and substituted "$50,000" for "$25,000".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Red Flag Warnings and Predisaster Actions; Definitions
+
+Pub. L. 117–251, §§2, 4, Dec. 20, 2022, 136 Stat. 2354, 2356, provided that:
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act \[see Short Title of 2022 Amendment note set out under section 5121 of this title\]—
+
+&emsp;"(1) the term 'Administrator' means the Administrator of the Agency;
+
+&emsp;"(2) the term 'Agency' means the Federal Emergency Management Agency;
+
+&emsp;"(3) the term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives;
+
+&emsp;"(4) the term 'emergency' means an emergency declared or determined to exist by the President under section 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191);
+
+&emsp;"(5) the terms 'Indian tribal government', 'local government', and 'State' have the meanings given such terms in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122); and
+
+&emsp;"(6) the term 'major disaster' means a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
+
+#### "SEC. 4. RED FLAG WARNINGS AND PREDISASTER ACTIONS.
+
+"Not later than 1 year after the date of enactment of this Act \[Dec. 20, 2022\], the Administrator, in coordination with the National Weather Service of the National Oceanic and Atmospheric Administration, shall—
+
+&emsp;"(1) conduct a study of, develop recommendations for, and initiate a process for the use of forecasts and data, including information that supports the Red Flag Warnings of the National Oceanic and Atmospheric Administration and similar weather alert and notification methods, to establish—
+
+&emsp;&emsp;"(A) plans and actions, consistent with law, that can be implemented prior to a wildfire event, including pre-impact disaster declarations and surge operations, that can limit the impact, duration, or severity of the fire; and
+
+&emsp;&emsp;"(B) mechanisms to increase interagency collaboration to expedite the delivery of disaster assistance; and
+
+&emsp;"(2) submit to the appropriate committees of Congress a comprehensive report regarding the study described in paragraph (1), including any recommendations of the Administrator, and the activities of the Administrator to carry out paragraph (1)."
+

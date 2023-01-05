@@ -36,7 +36,7 @@ In general.—A designated officer, employee, or agent of the Secretary—
 
 &emsp;&emsp;(F) when safety might otherwise be compromised, may authorize properly qualified personnel to assist in the activities conducted under this subsection; and
 
-&emsp;&emsp;(G) shall provide to the affected offeror, carrier, packaging manufacturer or tester, or other person responsible for the package reasonable notice of—
+&emsp;&emsp;(G) shall provide to the affected offeror, carrier, packaging manufacturer or tester,or other person responsible for the package reasonable notice of—
 
 &emsp;&emsp;&emsp;(i) his or her decision to exercise his or her authority under paragraph (1);
 
@@ -354,7 +354,7 @@ Availability.—The standards, protocols, and guidelines established under this 
 
 #### Finalizing Regulations
 
-Pub. L. 112–141, div. C, title III, §33009(b)(2), July 6, 2012, 126 Stat. 837, provided that: "In accordance with section 5103(b)(2) of title 49, United States Code, not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall take all actions necessary to finalize a regulation under paragraph (1) of this subsection \[amending this section\]."
+Pub. L. 112–141, div. C, title III, §33009(b)(2), July 6, 2012, 126 Stat. 837, provided that: "In accordance withsection 5103(b)(2) of title 49, United States Code, not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall take all actions necessary to finalize a regulation under paragraph (1) of this subsection \[amending this section\]."
 
 #### Toll Free Number for Reporting
 

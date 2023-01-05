@@ -84,7 +84,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) except as provided in paragraph (2), any applicable manufacturer or applicable group purchasing organization that fails to submit information required under subsection (a) in a timely manner in accordance with rules or regulations promulgated to carry out such subsection, shall be subject to a civil moneypenalty of not less than $1,000, but not more than $10,000, for each payment or other transfer of value or ownership or investment interest not reported as required under such subsection. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
+&emsp;&emsp;Subject to subparagraph (B) except as provided in paragraph (2), any applicable manufacturer or applicable group purchasing organization that fails to submit information required under subsection (a) in a timely manner in accordance with rules or regulations promulgated to carry out such subsection, shall be subject to a civil money penalty of not less than $1,000, but not more than $10,000, for each payment or other transfer of value or ownership or investment interest not reported as required under such subsection. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
 
 #### (B) Limitation
 
@@ -102,7 +102,7 @@
 
 #### (3) Use of funds
 
-&emsp;Funds collected by the Secretary as a result of the imposition of a civil money penalty under this subsection shall be used to carry out this section.
+&emsp;Funds collected by the Secretary as a result of the imposition of a civil money penaltyunder this subsection shall be used to carry out this section.
 
 #### (c) Procedures for submission of information and public availability
 
@@ -162,7 +162,7 @@
 
 #### (2) Consultation
 
-&emsp;In establishing the procedures under paragraph (1), the Secretary shall consult with the Inspector General of the Department of Health and Human Services, affected industry, consumers, consumer advocates, and other interested parties in order to ensure that the information made available to the public under such paragraph is presented in the appropriate overall context.
+&emsp;In establishing the procedures under paragraph (1), the Secretary shall consult with theInspector General of the Department of Health and Human Services, affected industry, consumers, consumer advocates, and other interested parties in order to ensure that the information made available to the public under such paragraph is presented in the appropriate overall context.
 
 #### (d) Annual reports and relation to State laws
 
@@ -284,7 +284,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(viii) In-kind items used for the provision of charity care.
 
-&emsp;&emsp;&emsp;(ix) A dividend or other profit distribution from, or ownership or investment interest in, a publicly traded security andmutual fund (as described in section 1395nn(c) of this title).
+&emsp;&emsp;&emsp;(ix) A dividend or other profit distribution from, or ownership or investment interest in, a publicly traded security and mutual fund (as described in section 1395nn(c) of this title).
 
 &emsp;&emsp;&emsp;(x) In the case of an applicable manufacturer who offers a self-insured plan, payments for the provision of health care to employees under the plan.
 
@@ -297,10 +297,6 @@ In this section:
 &emsp;The term "physician" has the meaning given that term in section 1395x(r) of this title.
 
 (Aug. 14, 1935, ch. 531, title XI, §1128G, as added Pub. L. 111–148, title VI, §6002, Mar. 23, 2010, 124 Stat. 689; amended Pub. L. 115–271, title VI, §6111(a)(1), (b), Oct. 24, 2018, 132 Stat. 4006, 4007.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 6111(a)(1) of Pub. L. 115–271 applicable with respect to information required to be submitted under this section on or after Jan. 1, 2022. See 2018 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -320,5 +316,5 @@ Pub. L. 115–271, title VI, §6111(a)(2), Oct. 24, 2018, 132 Stat. 4006, provid
 
 #### Administration
 
-Pub. L. 115–271, title VI, §6111(c), Oct. 24, 2018, 132 Stat. 4007, provided that: "Chapter 35 of title 44, United States Code, shall not apply to this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section."
+Pub. L. 115–271, title VI, §6111(c), Oct. 24, 2018, 132 Stat. 4007, provided that: "Chapter 35 of title 44, UnitedStates Code, shall not apply to this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section."
 

@@ -176,7 +176,7 @@ Pub. L. 115–10, title VIII, §821, Mar. 21, 2017, 131 Stat. 61, provided that:
 
 #### Users' Advisory Group
 
-Pub. L. 101–611, title I, §121, Nov. 16, 1990, 104 Stat. 3204, provided that:
+Pub. L. 101–611, title I, §121, Nov. 16, 1990, 104 Stat. 3204, as amended by Pub. L. 117–286, §4(a)(324), Dec. 27, 2022, 136 Stat. 4341, provided that:
 
 "(a)
 
@@ -192,7 +192,7 @@ Establishment.—(1) The National Space Council shall establish a Users' Advisor
 
 "(b)
 
-Exemption.—The Users' Advisory Group shall not be subject to section 14(a)(2) of the Federal Advisory Committee Act \[5 U.S.C. App.\]."
+Exemption.—The Users' Advisory Group shall not be subject to section 1013(a) of title 5, United States Code."
 
 #### National Space Council
 

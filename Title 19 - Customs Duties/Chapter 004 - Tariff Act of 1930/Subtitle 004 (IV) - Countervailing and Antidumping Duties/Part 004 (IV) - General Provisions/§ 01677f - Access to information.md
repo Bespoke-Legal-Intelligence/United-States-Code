@@ -100,7 +100,7 @@
 
 #### (E) Failure to disclose
 
-&emsp;&emsp;If a person submitting information to the administering authority refuses to disclosebusiness proprietary information which the administering authority determines should be released under a protective order described in subparagraph (B), the administering authority shall return the information, and any nonconfidential summary thereof, to the person submitting the information and summary and shall not consider either.
+&emsp;&emsp;If a person submitting information to the administering authority refuses to disclose business proprietary information which the administering authority determines should be released under a protective order described in subparagraph (B), the administering authority shall return the information, and any nonconfidential summary thereof, to the person submitting the information and summary and shall not consider either.
 
 #### (2) Disclosure under court order
 
@@ -144,7 +144,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (2) Contents of protective order
 
-&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure that regulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
+&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authorityor the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure that regulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
 
 #### (3) Prohibited acts
 
@@ -232,7 +232,7 @@ The administering authority and the Commission shall provide an opportunity for 
 
 &emsp;In addition to the requirements set forth in paragraph (2)—
 
-&emsp;&emsp;(A) the administering authority shall include in a final determination described in paragraph (1) an explanation of the basis for its determination that addresses relevant arguments, made by interested parties who are parties to the investigation or review (as the case may be), concerning the establishment of dumping or a countervailable subsidy, or the suspension of the investigation, with respect to which the determination is made; and
+&emsp;&emsp;(A) the administering authority shall include in a final determination described in paragraph (1) an explanation of the basis for its determination that addresses relevant arguments, made by interested parties who are parties to the investigation or review (as the case may be), concerning the establishment of dumping or a countervailable subsidy, orthe suspension of the investigation, with respect to which the determination is made; and
 
 &emsp;&emsp;(B) the Commission shall include in a final determination of injury an explanation of the basis for its determination that addresses relevant arguments that are made by interested parties who are parties to the investigation or review (as the case may be) concerning volume, price effects, and impact on the industry of imports of the subject merchandise.
 
@@ -350,7 +350,7 @@ Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters i
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTOAgreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1993 Amendment
 

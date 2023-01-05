@@ -18,21 +18,21 @@ Small Unmanned Aircraft Exemption.—Subsection (a)(2) does not apply to small u
 
 (c)
 
-Definitions.—In this section, the terms "small unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 note).<sup>1</sup>
+Definitions.—In this section, the terms "small unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 44801 of title 49.
 
-(Added Pub. L. 115–282, title III, §304(b), Dec. 4, 2018, 132 Stat. 4244.)
+(Added Pub. L. 115–282, title III, §304(b), Dec. 4, 2018, 132 Stat. 4244; amended Pub. L. 117–263, div. K, title CXVIII, §11803(b), Dec. 23, 2022, 136 Stat. 4163.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Section 331 of the FAA Modernization and Reform Act of 2012, referred to in subsec. (c), is section 331 of Pub. L. 112–95, title III, Feb. 14, 2012, 126 Stat. 72, which is set out in a note under section 44802 of Title 49, Transportation.
+<b>2022</b>—Subsec. (c). Pub. L. 117–263 substituted "section 44801 of title 49" for "section 331 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 40101 note)".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Prohibition on Operation or Procurement of Foreign-Made Unmanned Aircraft Systems
 
-Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8414, Jan. 1, 2021, 134 Stat. 4725, provided that:
+Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8414, Jan. 1, 2021, 134 Stat. 4725, as amended by Pub. L. 117–263, div. K, title CXII, §11255, Dec. 23, 2022, 136 Stat. 4055, provided that:
 
 "(a)
 
@@ -52,33 +52,15 @@ Prohibition on Agency Operation or Procurement.—The Commandant \[of the Coast 
 
 "(b)
 
-Exemption.—
+Exemption.—The Commandant is exempt from the restriction under subsection (a) if the operation or procurement is for the purposes of—
 
-&emsp;"(1)
+&emsp;"(1) counter-UAS system surrogate testing and training; or
 
-In general.—The Commandant is exempt from the restriction under subsection (a) if—
-
-&emsp;&emsp;"(A) the operation or procurement is for the purposes of—
-
-&emsp;&emsp;&emsp;"(i) counter-UAS system surrogate testing and training; or
-
-&emsp;&emsp;&emsp;"(ii) intelligence, electronic warfare, and information warfare operations, testing, analysis, and training; or
-
-&emsp;&emsp;"(B) the Commandant receives a certification from the Coast Guard unit requesting to operate or procure an unmanned aircraft system otherwise restricted under subsection (a), which shall include supporting manufacturer information, that the unmanned aircraft system does not—
-
-&emsp;&emsp;&emsp;"(i) connect to the internet or an outside telecommunications service;
-
-&emsp;&emsp;&emsp;"(ii) connect to other devices or electronics, except as necessary to perform the mission; or
-
-&emsp;&emsp;&emsp;"(iii) perform any missions in support of classified information or that may threaten national security.
-
-&emsp;"(2)
-
-Expiration.—The authority under this subsection to operate or procure an unmanned aircraft system otherwise restricted under subsection (a) expires on the date that is 2 years after the date of the enactment of this Act \[Jan. 1, 2021\].
+&emsp;"(2) intelligence, electronic warfare, and information warfare operations, testing, analysis, and training.
 
 "(c)
 
-Waiver.—The Commandant may waive the restriction under subsection (a) on a case by case basis by certifying in writing to the Department of Homeland Security and the relevant committees of jurisdiction that the operation or procurement is required in the national interest of the United States.
+Waiver.—The Commandant may waive the restriction under subsection (a) on a case-by-case basis by certifying in writing not later than 15 days after exercising such waiver to the Department of Homeland Security, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives that the operation or procurement of a covered unmanned aircraft system is required in the national interest of the United States.
 
 "(d)
 
@@ -86,15 +68,29 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Covered foreign country.—The term 'covered foreign country' means the People's Republic of China.
+Covered foreign country.—The term 'covered foreign country' means any of the following:
+
+&emsp;&emsp;"(A) The People's Republic of China.
+
+&emsp;&emsp;"(B) The Russian Federation.
+
+&emsp;&emsp;"(C) The Islamic Republic of Iran.
+
+&emsp;&emsp;"(D) The Democratic People's Republic of Korea.
 
 &emsp;"(2)
 
-Counter-UAS system.—The term 'counter-UAS system' has the meaning given such term in section 44801 of title 49, United States Code.
+Covered unmanned aircraft system.—The term 'covered unmanned aircraft system' means an unmanned aircraft system described in paragraph (1) of subsection (a).
 
 &emsp;"(3)
 
-Unmanned aircraft system.—The term 'unmanned aircraft system' has the meaning given such term in section 44801 of title 49, United States Code."
+Counter-UAS system.—The term 'counter-UAS system' has the meaning given such term in section 44801 of title 49, United States Code.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+&emsp;"(4)
+
+Unmanned aircraft system.—The term 'unmanned aircraft system' has the meaning given such term in section 44801 of title 49, United States Code, and any related services and equipment.
+
+"(e)
+
+Replacement.—Not later than 90 days after the date of the enactment of the Don Young Coast Guard Authorization Act of 2022 \[Dec. 23, 2022\], the Commandant shall replace covered unmanned aircraft systems of the Coast Guard with unmanned aircraft systems manufactured in the United States or an allied country (as that term is defined in section 2350f(d)(1) of title 10, United States Code)."
 

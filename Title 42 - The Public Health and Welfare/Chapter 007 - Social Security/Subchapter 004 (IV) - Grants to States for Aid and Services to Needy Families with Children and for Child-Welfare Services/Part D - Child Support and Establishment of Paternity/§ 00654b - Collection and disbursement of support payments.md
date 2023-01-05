@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) in all cases being enforced by the State pursuant to section 654(4) of this title; and
 
-&emsp;&emsp;(B) in all cases not being enforced by the State under this part in which the support order is initially issued in the State on or after January 1, 1994, and in which the income of the noncustodial parent is subjectto withholding pursuant to section 666(a)(8)(B) of this title.
+&emsp;&emsp;(B) in all cases not being enforced by the State under this part in which the support order is initially issued in the State on or after January 1, 1994, and in which the income of the noncustodial parent is subject to withholding pursuant to section 666(a)(8)(B) of this title.
 
 #### (2) Operation
 
@@ -42,7 +42,7 @@ The State disbursement unit shall use automated procedures, electronic processes
 
 #### (2) Permissive retention of arrearages
 
-&emsp;The State disbursement unit may delay the distribution of collections toward arrearages until the resolution of any timely appeal with respect to such arrearages.
+&emsp;The State disbursement unit may delay the distribution of collections toward arrearagesuntil the resolution of any timely appeal with respect to such arrearages.
 
 #### (d) "Business day" defined
 

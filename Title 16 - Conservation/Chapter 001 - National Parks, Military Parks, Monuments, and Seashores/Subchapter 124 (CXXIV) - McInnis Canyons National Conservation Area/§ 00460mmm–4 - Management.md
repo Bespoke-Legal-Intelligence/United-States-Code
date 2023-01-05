@@ -54,7 +54,7 @@ Subject to valid existing rights, lands designated as wilderness by this subchap
 
 #### (2) Area and time closures
 
-&emsp;The head of the Colorado Division of Wildlife (in reference to land within the State of Colorado), the head of the Utah Division of Wildlife (in reference to land within the State of Utah), or the Secretary after consultation with the Colorado Division of Wildlife (in reference to land within the State of Colorado) or the head of the Utah Division of Wildlife (in reference to land within the State of Utah), may issue regulations designating zones where, and establishing limited periods when, hunting, trapping, or fishing shall be prohibited in the Conservation Area or the Wilderness for reasons of public safety, administration, or public use and enjoyment.
+&emsp;The head of the Colorado Division of Wildlife (in reference to land within the State of Colorado), the head of the Utah Division of Wildlife (in reference to land within the State of Utah), or the Secretary after consultation with the Colorado Division of Wildlife (in reference to land within the State of Colorado) or the head of the Utah Division of Wildlife (in reference to land within the State of Utah), may issue regulations designating zones where, and establishing limited periods when, hunting, trapping, or fishing shall be prohibited in theConservation Area or the Wilderness for reasons of public safety, administration, or public use and enjoyment.
 
 #### (g) Grazing
 
@@ -88,7 +88,7 @@ Subject to valid existing rights, lands designated as wilderness by this subchap
 
 #### (i) No buffer zones
 
-The Congress does not intend for the establishment of the Conservation Area or the Wildernessto lead to the creation of protective perimeters or buffer zones around the Conservation Area or the Wilderness. The fact that there may be activities or uses on lands outside the Conservation Area or the Wilderness that would not be allowed in the Conservation Area or the Wilderness shall not preclude such activities or uses on such lands up to the boundary of the Conservation Area or the Wilderness consistent with other applicable laws.
+The Congress does not intend for the establishment of the Conservation Area or the Wilderness to lead to the creation of protective perimeters or buffer zones around the Conservation Area or the Wilderness. The fact that there may be activities or uses on lands outside the Conservation Area or the Wilderness that would not be allowed in the Conservation Area or the Wilderness shall not preclude such activities or uses on such lands up to the boundary of the Conservation Area or the Wilderness consistent with other applicable laws.
 
 #### (j) Acquisition of land
 
@@ -124,7 +124,7 @@ The Secretary may establish minimal interpretive facilities or sites in cooperat
 
 &emsp;(C) Nothing in this subsection shall be construed as establishing a precedent with regard to any future national conservation area or wilderness designations.
 
-&emsp;(D) Nothing in this subchapter shall be construed as limiting, altering, modifying, or amending any of the interstate compacts or equitable apportionment decrees that apportion water among and between the State of Colorado and other States.
+&emsp;(D) Nothing in this subchapter shall be construed as limiting, altering, modifying, or amending any of the interstate compacts orequitable apportionment decrees that apportion water among and between the State of Colorado and other States.
 
 #### (3) Colorado water law
 
@@ -158,7 +158,7 @@ The Secretary may establish minimal interpretive facilities or sites in cooperat
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The Wilderness Act, referred to in subsec. (e), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 

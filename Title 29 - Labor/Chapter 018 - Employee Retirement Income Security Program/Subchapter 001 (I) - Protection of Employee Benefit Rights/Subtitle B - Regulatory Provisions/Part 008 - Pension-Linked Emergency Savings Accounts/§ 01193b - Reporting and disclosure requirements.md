@@ -1,0 +1,22 @@
+### §1193b. Reporting and disclosure requirements
+
+The Secretary shall—
+
+&emsp;(1) prescribe such regulations as may be necessary to address reporting and disclosure requirements for pension-linked emergency savings accounts; and
+
+&emsp;(2) seek to prevent unnecessary reporting and disclosure for such accounts under this chapter, including for purposes of any reporting or disclosure related to pension plans required by this title or under the Internal Revenue Code of 1986.
+
+(Pub. L. 93–406, title I, §803, as added Pub. L. 117–328, div. T, title I, §127(b)(1), Dec. 29, 2022, 136 Stat. 5323.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The Internal Revenue Code of 1986, referred to in par. (2), is classified generally to Title 26, Internal Revenue Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date
+
+Section applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under section 72 of Title 26, Internal Revenue Code.
+

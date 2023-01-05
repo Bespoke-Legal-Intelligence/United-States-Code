@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall allocate assistance under this part to metropolitan cities, urban counties,and States (for distribution to local governments and private nonprofit organizations in the States) in a manner that ensures that the percentage of the total amount available under this part for any fiscal year that is allocated to any State, metropolitan city, or urban county is equal to the percentage of the total amount available for section 5306 of this title for such prior fiscal year that is allocated to such State, metropolitan city, or urban county.
+The Secretary shall allocate assistance under this part to metropolitan cities, urban counties, and States (for distribution to local governments and private nonprofit organizations in the States) in a manner that ensures that the percentage of the total amount available under this part for any fiscal year that is allocated to any State, metropolitan city, or urban county is equal to the percentage of the total amount available for section 5306 of this title for such prior fiscal year that is allocated to such State, metropolitan city, or urban county.
 
 #### (b) Minimum allocation requirement
 
@@ -16,7 +16,7 @@ Any local government receiving assistance under this part may distribute all or 
 
 (1) The Secretary shall, not less than once during each fiscal year, reallocate any assistance provided under this part that is unused or returned or that becomes available under subsection (b).
 
-(2) If a city or county eligible for a grant under subsection (a) fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the city or county would have received shall be available to the State in which the city or county is located if the State has obtained approval of its comprehensive plan. Any amounts that cannot be allocated to a State under the preceding sentence shall be reallocated to other States, counties, and cities that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
+(2) If a city or county eligible for a grant under subsection (a) fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this partfirst become available for allocation during any fiscal year, the amount that the city or county would have received shall be available to the State in which the city or county is located if the State has obtained approval of its comprehensive plan. Any amounts that cannot be allocated to a State under the preceding sentence shall be reallocated to other States, counties, and cities that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
 
 (3) If a State fails to obtain approval of its comprehensive plan during the 90-day period following the date funds authorized by this part first become available for allocation during any fiscal year, the amount that the State would have received shall be reallocated to other States and to cities and counties as applicable, that demonstrate extraordinary need or large numbers of homeless individuals, as determined by the Secretary.
 

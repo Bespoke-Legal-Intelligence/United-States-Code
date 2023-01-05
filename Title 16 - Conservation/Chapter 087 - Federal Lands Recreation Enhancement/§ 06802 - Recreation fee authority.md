@@ -42,7 +42,7 @@ The Secretary shall establish the minimum number of recreation fees and shall av
 
 &emsp;&emsp;(F) For use of overlooks or scenic pullouts.
 
-&emsp;&emsp;(G) For travel by private, noncommercial vehicle over any national parkway or anyroad or highway established as a part of the Federal-aid System, as defined in section 101 of title 23,<sup>1</sup> which is commonly used by the public as a means of travel between two places either or both of which are outside any unit or area at which recreation fees are charged under this chapter.
+&emsp;&emsp;(G) For travel by private, noncommercial vehicle over any national parkway or any road or highway established as a part of the Federal-aid System, as defined in section 101 of title 23,<sup>1</sup> which is commonly used by the public as a means of travel between two places either or both of which are outside any unit or area at which recreation fees are charged under this chapter.
 
 &emsp;&emsp;(H) For travel by private, noncommercial vehicle, boat, or aircraft over any road or highway, waterway, or airway to any land in which such person has any property right if such land is within any unit or area at which recreation fees are charged under this chapter.
 
@@ -156,7 +156,7 @@ Except as limited by subsection (d), the Secretary may charge a standard amenity
 
 &emsp;&emsp;&emsp;(ix) Simple devices for containing a campfire.
 
-&emsp;&emsp;(B) Use of highly developed boat launches with specialized facilities or services such as mechanical or hydraulic boat lifts or facilities, multi-lane paved ramps, paved parking, restrooms and other improvements such as boarding floats, loading ramps, or fish cleaning stations.
+&emsp;&emsp;(B) Use of highly developed boat launches with specialized facilities or services such asmechanical or hydraulic boat lifts or facilities, multi-lane paved ramps, paved parking, restrooms and other improvements such as boarding floats, loading ramps, or fish cleaning stations.
 
 &emsp;&emsp;(C) Rental of cabins, boats, stock animals, lookouts, historic structures, group day-use or overnight sites, audio tour devices, portable sanitation devices, binoculars or other equipment.
 

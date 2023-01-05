@@ -48,7 +48,7 @@ Notice and Hearing.—(1) On filing an application by the United States as provi
 
 "notice
 
-"You are hereby notified that this \[property\] is being taken by the United States Government ('the Government'), which says that \[name of debtor\] owes it a debt of $ \[amount\] for \[reason for debt\] and has filed a lawsuit to collect this debt. The Government says it must take this property at this time because \[recite the pertinent ground or grounds from section 3101(b)\]. The Government wants to make sure \[name of debtor\] will pay if the court determines that this money is owed.
+"You are hereby notified that this \[property\] is being taken by the United States Government\('the Government'), which says that \[name of debtor\] owes it a debt of $ \[amount\] for \[reason for debt\] and has filed a lawsuit to collect this debt. The Government says it must take this property at this time because \[recite the pertinent ground or grounds from section 3101(b)\]. The Government wants to make sure \[name of debtor\] will pay if the court determines that this money is owed.
 
 "In addition, you are hereby notified that there are exemptions under the law which may protect some of this property from being taken by the Government if \[name of debtor\] can show that the exemptions apply. Below is a summary of the major exemptions which apply in most situations in the State of \[State where property is located\]:
 

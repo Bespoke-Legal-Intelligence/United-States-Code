@@ -146,7 +146,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (ii) Employer's contribution
 
-&emsp;&emsp;&emsp;The Office of the Comptroller of the Currency or the Corporation, as appropriate, shall pay any employer cost required toextend coverage in the benefit program to the transferred employee as required under that program or negotiated agreements.
+&emsp;&emsp;&emsp;The Office of the Comptroller of the Currency or the Corporation, as appropriate, shall pay any employer cost required to extend coverage in the benefit program to the transferred employee as required under that program or negotiated agreements.
 
 #### (B) Dental, vision, or life insurance after first year
 
@@ -174,7 +174,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (iii) Funds transfer
 
-&emsp;&emsp;&emsp;The Office of the Comptroller of the Currency or the Corporation, as the case may be, shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, an amount determined by the Director of the Office of Personnel Management, after consultation with the Comptroller of the Currency or the Chairperson of the Corporation, as the case may be, and the Office of Management and Budget, to be necessary to reimburse the Fund for the cost to the Fund of providing any benefits under this subparagraph that are not otherwise paid for by a transferred employee under clause (i).
+&emsp;&emsp;&emsp;The Office of the Comptroller of the Currency or the Corporation, as the case may be, shall transfer to the Employees HealthBenefits Fund established under section 8909 of title 5, an amount determined by the Director of the Office of Personnel Management, after consultation with the Comptroller of the Currency or the Chairperson of the Corporation, as the case may be, and the Office of Management and Budget, to be necessary to reimburse the Fund for the cost to the Fund of providing any benefits under this subparagraph that are not otherwise paid for by a transferred employee under clause (i).
 
 #### (E) Special provisions to ensure continuation of life insurance benefits
 

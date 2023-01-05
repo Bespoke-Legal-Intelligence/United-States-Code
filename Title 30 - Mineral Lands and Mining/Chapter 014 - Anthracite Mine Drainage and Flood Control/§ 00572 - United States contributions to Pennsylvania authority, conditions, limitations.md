@@ -8,7 +8,7 @@ The amounts authorized to be contributed by the Secretary of the Interior to the
 
 #### (b) Amount of contributions authorized
 
-The total amount of contributions by the Secretary of the Interior under the authority of this chapter shall not exceed $8,500,000, of which $1,500,000 of the unexpended balance remaining as of July 31, 1962, shall be reserved for the control and drainage of water;
+The total amount of contributions by the Secretary of the Interior under the authority of this chapter shall not exceed $8,500,000, of which $1,500,000 of the unexpended balance remainingas of July 31, 1962, shall be reserved for the control and drainage of water;
 
 #### (c) Limitation on use of contribution
 

@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(vii) the categories described in any of clauses (i) through (v) of section 78c(a)(62)(B) of this title with respect to which the applicant intends to apply for registration under this section;
 
-&emsp;&emsp;&emsp;(viii) on a confidential basis, a list of the 20 largest issuers and subscribers that usethe credit rating services of the applicant, by amount of net revenues received therefrom in the fiscal year immediately preceding the date of submission of the application;
+&emsp;&emsp;&emsp;(viii) on a confidential basis, a list of the 20 largest issuers and subscribers that use the credit rating services of the applicant, by amount of net revenues received therefrom in the fiscal year immediately preceding the date of submission of the application;
 
 &emsp;&emsp;&emsp;(ix) on a confidential basis, as to each applicable category of obligor described in any of clauses (i) through (v) of section 78c(a)(62)(B) of this title, written certifications described in subparagraph (C), except as provided in subparagraph (D); and
 
@@ -230,7 +230,7 @@
 
 &emsp;&emsp;(A) the manner in which a nationally recognized statistical rating organization is compensated by the obligor, or any affiliate of the obligor, for issuing credit ratings or providing related services;
 
-&emsp;&emsp;(B) the provision of consulting, advisory, or other services by a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, to the obligor, or any affiliate of the obligor;
+&emsp;&emsp;(B) the provision of consulting, advisory, or other services by a nationally recognizedstatistical rating organization, or any person associated with such nationally recognized statistical rating organization, to the obligor, or any affiliate of the obligor;
 
 &emsp;&emsp;(C) business relationships, ownership interests, or any other financial or personal interests between a nationally recognized statistical rating organization, or any person associated with such nationally recognized statistical rating organization, and the obligor, or any affiliate of the obligor;
 
@@ -364,7 +364,7 @@
 
 #### (k) Statements of financial condition
 
-Each nationally recognized statistical rating organization shall, on a confidential basis, filewith the Commission, at intervals determined by the Commission, such financial statements, certified (if required by the rules or regulations of the Commission) by an independent public accountant, and information concerning its financial condition, as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+Each nationally recognized statistical rating organization shall, on a confidential basis, file with the Commission, at intervals determined by the Commission, such financial statements, certified (if required by the rules or regulations of the Commission) by an independent public accountant, and information concerning its financial condition, as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (l) Sole method of registration
 
@@ -376,7 +376,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 &emsp;On and after the effective date of this section—
 
-&emsp;&emsp;(A) an entity that, before that date, received advice, approval, or a no-action letter from the Commission or staff thereof to be treated as a nationally recognized statistical rating organization pursuant to the Commission rule at section 240.15c3–1 of title 17, Code of Federal Regulations, may represent itself or act as a nationally recognized statistical rating organization only—
+&emsp;&emsp;(A) an entity that, before that date, received advice, approval, or a no-action letterfrom the Commission or staff thereof to be treated as a nationally recognized statistical rating organization pursuant to the Commission rule at section 240.15c3–1 of title 17, Code of Federal Regulations, may represent itself or act as a nationally recognized statistical rating organization only—
 
 &emsp;&emsp;&emsp;(i) during Commission consideration of the application, if such entity has filed an application for registration under this section; and
 
@@ -446,7 +446,7 @@ Each nationally recognized statistical rating organization shall, on a confident
 
 #### (2) Staffing
 
-&emsp;The Office established under this subsection shall be staffed sufficiently to carry out fully the requirements of this section. The staff shall include persons with knowledge of andexpertise in corporate, municipal, and structured debt finance.
+&emsp;The Office established under this subsection shall be staffed sufficiently to carry out fully the requirements of this section. The staff shall include persons with knowledge of and expertise in corporate, municipal, and structured debt finance.
 
 #### (3) Commission examinations
 
@@ -524,7 +524,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 &emsp;&emsp;(B) in accordance with the policies and procedures of the nationally recognized statistical rating organization for the development and modification of credit rating procedures and methodologies;
 
-&emsp;(2) to ensure that when material changes to credit rating procedures and methodologies\(including changes to qualitative and quantitative data and models) are made, that—
+&emsp;(2) to ensure that when material changes to credit rating procedures and methodologies (including changes to qualitative and quantitative data and models) are made, that—
 
 &emsp;&emsp;(A) the changes are applied consistently to all credit ratings to which the changed procedures and methodologies apply;
 
@@ -684,7 +684,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (4) Treatment of NRSRO subsidiaries
 
-&emsp;If a nationally recognized statistical rating organization is a subsidiary of a parent entity,the board of the directors of the parent entity may satisfy the requirements of this subsection by assigning to a committee of such board of directors the duties under paragraph (3), if—
+&emsp;If a nationally recognized statistical rating organization is a subsidiary of a parent entity, the board of the directors of the parent entity may satisfy the requirements of this subsection by assigning to a committee of such board of directors the duties under paragraph (3), if—
 
 &emsp;&emsp;(A) at least ½ of the members of the committee (including the chairperson of the committee) are independent, as defined in this section; and
 
@@ -692,7 +692,7 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 #### (5) Exception authority
 
-&emsp;If the Commission finds that compliance with the provisions of this subsection present an unreasonable burden on a small nationally recognized statistical rating organization, the Commission may permit the nationally recognized statistical rating organization to delegate such responsibilities to a committee that includes at least one individual who is a user of ratings of a nationally recognized statistical rating organization.
+&emsp;If the Commission finds that compliance with the provisions of this subsection present an unreasonable burden on a small nationally recognized statistical rating organization, the Commission may permit the nationally recognized statistical rating organization to delegate such responsibilities to a committee thatincludes at least one individual who is a user of ratings of a nationally recognized statistical rating organization.
 
 #### (u) Duty to report tips alleging material violations of law
 
@@ -708,7 +708,17 @@ The Commission shall prescribe rules, for the protection of investors and in the
 
 In producing a credit rating, a nationally recognized statistical rating organization shall consider information about an issuer that the nationally recognized statistical rating organization has, or receives from a source other than the issuer or underwriter, that the nationally recognized statistical rating organization finds credible and potentially significant to a rating decision.
 
-(June 6, 1934, ch. 404, title I, §15E, as added Pub. L. 109–291, §4(a), Sept. 29, 2006, 120 Stat. 1329; amended Pub. L. 111–203, title IX, §§932(a), 933(a), 934, 935, July 21, 2010, 124 Stat. 1872, 1883, 1884.)
+#### (w) Data standards for information required to be submitted or published under this section
+
+#### (1) Requirement
+
+&emsp;The Commission shall, by rule, adopt data standards for all collections of information required to be submitted or published by a nationally recognized statistical rating organization under this section.
+
+#### (2) Consistency
+
+&emsp;The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(June 6, 1934, ch. 404, title I, §15E, as added Pub. L. 109–291, §4(a), Sept. 29, 2006, 120 Stat. 1329; amended Pub. L. 111–203, title IX, §§932(a), 933(a), 934, 935, July 21, 2010, 124 Stat. 1872, 1883, 1884; Pub. L. 117–263, div. E, title LVIII, §5821(c), Dec. 23, 2022, 136 Stat. 3425.)
 
 #### <b>Editorial Notes</b>
 
@@ -716,9 +726,11 @@ In producing a credit rating, a nationally recognized statistical rating organiz
 
 This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original "this title". See References in Text note set out under section 78a of this title.
 
-The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to this chapter (§78a et seq.). For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to this chapter (§78a et seq.). For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (w). Pub. L. 117–263 added subsec. (w).
 
 <b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–203, §932(a)(1)(A), substituted "filed" for "furnished" and "filing" for "furnishing".
 
@@ -756,7 +768,11 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Regulations
 
-Pub. L. 111–203, title IX, §937, July 21, 2010, 124 Stat. 1885, provided that: "Unless otherwise specifically provided in this subtitle \[subtitle C (§§931–939H) of title IX of Pub. L. 111–203, enacting sections 78o–8 and 78o–9 of this title, amending this section and sections 78c, 78u–4, and 80a–6 of this title, sections 24a, 1817, 1831e, and 4519 of Title 12, Banks and Banking, and section 286hh of Title 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, sections 78m and 78o–9 of this title, and section 24a of Title 12\], the \[Securities and Exchange\] Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act \[July 21, 2010\]."
+Pub. L. 111–203, title IX, §937, July 21, 2010, 124 Stat. 1885, provided that: "Unless otherwise specifically provided in this subtitle \[subtitle C (§§931–939H) of title IX of Pub. L. 111–203, enacting sections 78o–8 and 78o–9 of this title, amending this section and sections 78c, 78u–4, and 80a–6 of this title, sections 24a, 1817, 1831e, and 4519 of Title 12, Banks and Banking, and section 286hh ofTitle 22, Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, sections 78m and 78o–9 of this title, and section 24a of Title 12\], the \[Securities and Exchange\] Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act \[July 21, 2010\]."
+
+#### Rule of Construction—No New Disclosure Requirements
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
 
 #### Qualification Standards for Credit Rating Analysts
 
@@ -822,9 +838,9 @@ Pub. L. 111–203, title IX, §931, July 21, 2010, 124 Stat. 1872, provided that
 
 Pub. L. 109–291, §2, Sept. 29, 2006, 120 Stat. 1327, provided that: "Upon the basis of facts disclosed by the record and report of the Securities and Exchange Commission made pursuant to section 702 of the Sarbanes-Oxley Act of 2002 \[Pub. L. 107–204\] (116 Stat. 797), hearings before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives during the 108th and 109th Congresses, comment letters to the concept releases and proposed rules of the Commission, and facts otherwise disclosed and ascertained, Congress finds that credit rating agencies are of national importance, in that, among other things—
 
-&emsp;"(1) their ratings, publications, writings, analyses, and reports are furnished and distributed, and their contracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and other means and instrumentalities of interstate commerce;
+&emsp;"(1) their ratings, publications, writings, analyses, and reports are furnished and distributed, and theircontracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and other means and instrumentalities of interstate commerce;
 
-&emsp;"(2) their ratings, publications, writings, analyses, and reports customarily relate to the purchase and sale of securities traded on securities exchanges andin interstate over-the-counter markets, securities issued by companies engaged in business in interstate commerce, and securities issued by national banks and member banks of the Federal Reserve System;
+&emsp;"(2) their ratings, publications, writings, analyses, and reports customarily relate to the purchase and sale of securities traded on securities exchanges and in interstate over-the-counter markets, securities issued by companies engaged in business in interstate commerce, and securities issued by national banks and member banks of the Federal Reserve System;
 
 &emsp;"(3) the foregoing transactions occur in such volume as substantially to affect interstate commerce, the securities markets, the national banking system, and the national economy;
 

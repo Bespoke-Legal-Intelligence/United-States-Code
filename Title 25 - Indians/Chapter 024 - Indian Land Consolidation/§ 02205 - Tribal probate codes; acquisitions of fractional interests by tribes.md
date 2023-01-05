@@ -122,7 +122,7 @@
 
 #### (ii) Recording of interest
 
-&emsp;&emsp;&emsp;On request by the Indian tribe described in clause (i)(II)(bb), a restriction relatingto the acquisition by the Indian tribe of an interest in a family farm involved shall be recorded as part of the deed relating to the interest involved.
+&emsp;&emsp;&emsp;On request by the Indian tribe described in clause (i)(II)(bb), a restriction relating to the acquisition by the Indian tribe of an interest in a family farm involved shall be recorded as part of the deed relating to the interest involved.
 
 #### (iii) Mortgage and foreclosure
 
@@ -154,7 +154,7 @@
 
 &emsp;&emsp;(A) upon the request of the tribe, allow a reasonable period of time, not to exceed 2 years, for the tribe to make payments of amounts due pursuant to paragraph (1); or
 
-&emsp;&emsp;(B) recognize alternative agreed upon exchanges of consideration or extended payment terms between the non-Indian devisee described in paragraph (1) and the tribe in satisfaction of the payment under paragraph (1).
+&emsp;&emsp;(B) recognize alternative agreed upon exchanges of consideration or extended payment terms between the non-Indian deviseedescribed in paragraph (1) and the tribe in satisfaction of the payment under paragraph (1).
 
 #### (d) Use of proposed findings by tribal justice systems
 

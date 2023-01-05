@@ -10,7 +10,7 @@
 | [615\.](%C2%A7%2000615%20-%20Information%20furnished%20to%20selection%20boards.md) | Information furnished to selection boards. |
 | [616\.](%C2%A7%2000616%20-%20Recommendations%20for%20promotion%20by%20selection%20boards.md) | Recommendations for promotion by selection boards. |
 | [617\.](%C2%A7%2000617%20-%20Reports%20of%20selection%20boards.md) | Reports of selection boards. |
-| [618\.](%C2%A7%2000618%20-%20Action%20on%20reports%20of%20selection%20boards.md) | Action on reports of selection boards. |
+| [618\.](%C2%A7%2000618%20-%20Action%20on%20reports%20of%20selection%20boards.md) | Action on reports of selection boards.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,7 +20,7 @@
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §547(d)(1), Oct. 17, 2006, 120 Stat. 2216, added item 613a.
 
-<b>1991</b>—Pub. L. 102–190, div. A, title V, §504(a)(2)(B), Dec. 5, 1991, 105 Stat. 1357, struck out"; communications with boards" after "selection boards" in item 614.
+<b>1991</b>—Pub. L. 102–190, div. A, title V, §504(a)(2)(B), Dec. 5, 1991, 105 Stat. 1357, struck out "; communications with boards" after "selection boards" in item 614.
 
 
 ---

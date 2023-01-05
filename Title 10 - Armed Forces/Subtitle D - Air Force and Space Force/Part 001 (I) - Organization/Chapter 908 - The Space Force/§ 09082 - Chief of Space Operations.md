@@ -60,7 +60,7 @@ The date of the enactment of the United States Space Force Act, referred to in s
 
 Subsec. (a)(3), (4). Pub. L. 116–283, §922(c)(1)(B), added pars. (3) and (4).
 
-Subsec. (b). Pub. L. 116–283, §922(c)(2), substituted "grade in the Space Force equivalent to the grade ofgeneral in the Army, Air Force, and Marine Corps, or admiral in the Navy" for "grade of general".
+Subsec. (b). Pub. L. 116–283, §922(c)(2), substituted "grade in the Space Force equivalent to the grade of general in the Army, Air Force, and Marine Corps, or admiral in the Navy" for "grade of general".
 
 Subsec. (d)(5). Pub. L. 116–283, §922(c)(3), added par. (5). Former par. (5) redesignated (6).
 

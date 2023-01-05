@@ -18,7 +18,7 @@ Submittal of Claims by Health Care Entities and Providers.—A health care entit
 
 Fraudulent Claims.—(1) Sections 3729 through 3733 of title 31 shall apply to fraudulent claims for payment submitted to the Secretary by a health care entity or provider under this chapter.
 
-(2) Pursuant to regulations prescribed by the Secretary, the Secretary shall bar a health careentity or provider from furnishing hospital care, medical services, and extended care services under this chapter when the Secretary determines the entity or provider has submitted to the Secretary fraudulent health care claims for payment by the Secretary.
+(2) Pursuant to regulations prescribed by the Secretary, the Secretary shall bar a health care entity or provider from furnishing hospital care, medical services, and extended care services under this chapter when the Secretary determines the entity or provider has submitted to the Secretary fraudulent health care claims for payment by the Secretary.
 
 (d)
 
@@ -40,7 +40,7 @@ Overpayment.—(1) The Secretary may deduct the amount of any overpayment from p
 
 (2) Deductions may not be made under this subsection unless the Secretary has made reasonable efforts to notify a health care entity or provider of the right to dispute the existence or amount of such indebtedness and the right to request a compromise of such indebtedness.
 
-(3) The Secretary shall make a determination with respect to any such dispute or request prior to deducting any overpayment unless the time required to make such a determination before making any deductions would jeopardize the Secretary's ability to recover the full amount of such indebtedness.
+(3) The Secretary shall make a determination with respect to any such dispute or request prior to deducting any overpayment unless the time required to make such a determination before making any deductions would jeopardize theSecretary's ability to recover the full amount of such indebtedness.
 
 (f)
 

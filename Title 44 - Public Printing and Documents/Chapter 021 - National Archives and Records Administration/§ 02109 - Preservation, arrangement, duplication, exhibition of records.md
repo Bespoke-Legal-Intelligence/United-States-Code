@@ -34,7 +34,7 @@ WHEREAS the executive departments and agencies of the Government, in discharging
 
 WHEREAS under Chapter 21 of Title 44, United States Code, the Archivist of the United States is authorized to accept for deposit in the National Archives of the United States the records of any Federal agency or of the Congress of the United States that are determined by the Archivist to have sufficient historical or other value to warrant their continued preservation by the United States Government, as well as the papers and other historical materials of any official or former official of the Government, and to make provisions for the exhibition of materials transferred to him; and.
 
-WHEREAS many of the exhibits and displays so prepared, produced, or otherwise created by the executive departments and agencies possess historical significance which warrants their preservation and exhibitionas part of the archival and cultural heritage of the United States:
+WHEREAS many of the exhibits and displays so prepared, produced, or otherwise created by the executive departments and agencies possess historical significance which warrants their preservation and exhibition as part of the archival and cultural heritage of the United States:
 
 NOW, THEREFORE, by virtue of the authority vested in me, as President of the United States, it is hereby ordered as follows:
 

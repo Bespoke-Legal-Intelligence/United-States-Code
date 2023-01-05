@@ -36,7 +36,7 @@ The Director shall ensure that all individually identifiable information about s
 
 #### (B) Immunity
 
-&emsp;&emsp;Individually identifiable information collected or retained under this subchapter shall be immune from legal process and shall not, without the consent of the individual concerned, be admitted as evidence or used for any purpose in any action, suit, or other judicial or administrative proceeding.
+&emsp;&emsp;Individually identifiable information collected or retained under this subchapter shall be immune from legal process and shallnot, without the consent of the individual concerned, be admitted as evidence or used for any purpose in any action, suit, or other judicial or administrative proceeding.
 
 #### (C) Application
 

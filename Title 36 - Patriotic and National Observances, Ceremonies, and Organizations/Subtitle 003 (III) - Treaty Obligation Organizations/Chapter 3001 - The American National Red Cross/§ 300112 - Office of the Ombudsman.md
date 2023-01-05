@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The corporation shall establish an Office of the Ombudsman with such duties and responsibilities as may be provided in the bylaws or a resolution of the board of governors.
+Establishment.—The corporation shall establish an Office of the Ombudsman with such duties and responsibilities as may be provided inthe bylaws or a resolution of the board of governors.
 
 (b)
 

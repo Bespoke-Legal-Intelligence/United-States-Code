@@ -134,7 +134,7 @@ Before providing confirmation of fraud protection data to a permitted entity, th
 
 #### (4) Annual report
 
-&emsp;The Commissioner shall annually submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the amount of indirect costs to the Social Security Administration arising as a result of the implementation of this section.
+&emsp;The Commissioner shall annually submit to the Committee on Ways and Means of the House of Representatives and the Committeeon Finance of the Senate a report on the amount of indirect costs to the Social Security Administration arising as a result of the implementation of this section.
 
 (Pub. L. 115–174, title II, §215, May 24, 2018, 132 Stat. 1323.)
 

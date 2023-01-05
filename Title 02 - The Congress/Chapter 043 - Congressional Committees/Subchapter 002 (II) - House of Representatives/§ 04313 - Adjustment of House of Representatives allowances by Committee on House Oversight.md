@@ -6,7 +6,7 @@ Subject to the provision of law specified in subsection (b), the Committee on Ho
 
 &emsp;(1) For Members of the House of Representatives, the Members' Representational Allowance, including all aspects of official mail within the jurisdiction of the Committee under section 503 of this title.
 
-&emsp;(2) For committees, the Speaker, the Majority and Minority Leaders, the Clerk, the Sergeant at Arms, and the Chief AdministrativeOfficer, allowances for official mail (including all aspects of official mail within the jurisdiction of the Committee under section 503 of this title), stationery, and telephone and telegraph and other communications.
+&emsp;(2) For committees, the Speaker, the Majority and Minority Leaders, the Clerk, the Sergeant at Arms, and the Chief Administrative Officer, allowances for official mail (including all aspects of official mail within the jurisdiction of the Committee under section 503 of this title), stationery, and telephone and telegraph and other communications.
 
 #### (b) Provision specified
 

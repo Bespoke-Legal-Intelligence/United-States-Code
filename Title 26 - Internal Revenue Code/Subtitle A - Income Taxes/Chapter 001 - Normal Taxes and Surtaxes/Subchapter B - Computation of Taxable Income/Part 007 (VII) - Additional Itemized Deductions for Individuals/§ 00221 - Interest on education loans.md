@@ -230,7 +230,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Section applicable to any qualified education loan (as defined in subsec. (e)(1) of this section) incurred on, before, or after Aug. 5, 1997, but only with respect to any loan interest payment due and paid after Dec. 31, 1997, and to the portion of the 60-month period referred to insubsec. (d) of this section after Dec. 31, 1997, see section 202(e) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 62 of this title.
+Section applicable to any qualified education loan (as defined in subsec. (e)(1) of this section) incurred on, before, or after Aug. 5, 1997, but only with respect to any loan interest payment due and paid after Dec. 31, 1997, and to the portion of the 60-month period referred to in subsec. (d) of this section after Dec. 31, 1997, see section 202(e) of Pub. L. 105–34, set out as an Effective Date of 1997 Amendment note under section 62 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

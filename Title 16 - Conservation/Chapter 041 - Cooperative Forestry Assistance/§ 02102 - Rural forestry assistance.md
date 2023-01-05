@@ -24,7 +24,7 @@ The Secretary may provide financial, technical, educational, and related assista
 
 &emsp;(10) the management of resources of forest lands, including—
 
-&emsp;&emsp;(A) the harvesting, processing, and marketing of timber and other forest resources and the marketing and utilization of wood and wood products;
+&emsp;&emsp;(A) the harvesting, processing, and marketing of timber and other forest resourcesand the marketing and utilization of wood and wood products;
 
 &emsp;&emsp;(B) the conversion of wood to energy for domestic, industrial, municipal, and other uses;
 

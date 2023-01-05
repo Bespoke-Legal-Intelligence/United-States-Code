@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Caregiver
 
-&emsp;The term "caregiver" means an individual, including a relative, neighbor, or family friend, who regularly or frequently provides care, with or without compensation, for a child for whom the individual is not the parent.
+&emsp;The term "caregiver" means an individual, including a relative, neighbor, or family friend, who regularly or frequently providescare, with or without compensation, for a child for whom the individual is not the parent.
 
 #### (2) Child care provider
 
@@ -32,7 +32,7 @@ In this chapter:
 
 #### (7) Locality
 
-&emsp;The term "locality" means a city, county, borough, township, or area served by anothergeneral purpose unit of local government, an Indian tribe, a Regional Corporation, or a Native Hawaiian entity.
+&emsp;The term "locality" means a city, county, borough, township, or area served by another general purpose unit of local government, an Indian tribe, a Regional Corporation, or a Native Hawaiian entity.
 
 #### (8) Parent
 

@@ -16,7 +16,7 @@
 
 #### (b) Survey
 
-Not later than 180 days after March 12, 2019, the Secretary shall complete a survey of theboundary lines to establish the boundaries of the land to be held in trust under subsection (a)(1).
+Not later than 180 days after March 12, 2019, the Secretary shall complete a survey of the boundary lines to establish the boundaries of the land to be held in trust under subsection (a)(1).
 
 #### (c) Reservation land
 

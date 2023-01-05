@@ -6,7 +6,7 @@ The Surgeon General shall assign one commissioned officer from the Regular Corps
 
 #### (b) Assistant Surgeons General
 
-The Surgeon General shall assign eight commissioned officers from the Regular Corps to be, respectively, the Director of the National Institutes of Health, the Chief of the Bureau of State Services, the Chief of the Bureau of Medical Services, the Chief Medical Officer of the United States Coast Guard, the Chief Dental Officer of the Service, the Chief Nurse Officer of the Service, the Chief Pharmacist Officer of the Service, and the Chief Sanitary Engineering Officer of the Service, and while so serving they shall each have the title of Assistant Surgeon General.
+The Surgeon General shall assign eight commissioned officers from the Regular Corps to be, respectively, the Director of the National Institutes of Health, the Chief of the Bureau of State Services, the Chief of the Bureau of Medical Services, the Chief Medical Officer of the United States Coast Guard, the Chief Dental Officer ofthe Service, the Chief Nurse Officer of the Service, the Chief Pharmacist Officer of the Service, and the Chief Sanitary Engineering Officer of the Service, and while so serving they shall each have the title of Assistant Surgeon General.
 
 #### (c) Creation of temporary positions as Assistant Surgeons General
 
@@ -54,5 +54,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Office of Surgeon General, together with office held by Deputy Surgeon General, Bureau of Medical Services, including office of Chief of Bureau of Medical Services, Bureau of State Services, including office of Chief of Bureau of State Services, and National Institutes of Health, including office of Director of National Institutes of Health, abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title.
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferredto Department of Health, Education, and Welfare, by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare, by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 

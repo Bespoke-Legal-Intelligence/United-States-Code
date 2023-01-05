@@ -354,7 +354,7 @@ Records retention.—The employer of an apprentice shall maintain records, in a 
 
 &emsp;&emsp;"(E)
 
-Reportable incidents.—If an apprentice is involved in a preventable accident reportable to the Department or a pointed moving violation while driving a commercial motor vehicle as part of anapprenticeship program described in this paragraph, the apprentice shall undergo remediation and additional training until the apprentice can demonstrate, to the satisfaction of the employer, competence in each of the performance benchmarks described in subparagraphs (A)(ii) and (B)(ii).
+Reportable incidents.—If an apprentice is involved in a preventable accident reportable to the Department or a pointed moving violation while driving a commercial motor vehicle as part of an apprenticeship program described in this paragraph, the apprentice shall undergo remediation and additional training until the apprentice can demonstrate, to the satisfaction of the employer, competence in each of the performance benchmarks described in subparagraphs (A)(ii) and (B)(ii).
 
 &emsp;&emsp;"(F)
 

@@ -12,7 +12,7 @@
 
 &emsp;(D) the card issuer has provided the cardholder with a description of a means by which the card issuer may be notified of loss or theft of the card, which description may be provided on the face or reverse side of the statement required by section 1637(b) of this title or on a separate notice accompanying such statement;
 
-&emsp;(E) the unauthorized use occurs before the card issuer has been notified that an unauthorized use of the credit card has occurred ormay occur as the result of loss, theft, or otherwise; and
+&emsp;(E) the unauthorized use occurs before the card issuer has been notified that an unauthorized use of the credit card has occurred or may occur as the result of loss, theft, or otherwise; and
 
 &emsp;(F) the card issuer has provided a method whereby the user of such card can be identified as the person authorized to use it.
 
@@ -24,7 +24,7 @@ In any action by a card issuer to enforce liability for the use of a credit card
 
 #### (c) Liability imposed by other laws or by agreement with issuer
 
-Nothing in this section imposes liability upon a cardholder for the unauthorized use of a credit card in excess of his liability for such use under other applicable law or under any agreement with the card issuer.
+Nothing in this section imposes liability upon a cardholder for the unauthorized use of a creditcard in excess of his liability for such use under other applicable law or under any agreement with the card issuer.
 
 #### (d) Exclusiveness of liability
 

@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Discretionary cargo
 
-&emsp;The term "discretionary cargo" means maritime cargo for which the United States port of unlading is different than the United States port of entry.
+&emsp;The term "discretionary cargo" means maritime cargo for which the United States port ofunlading is different than the United States port of entry.
 
 #### (3) Donor port
 
@@ -20,11 +20,11 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) that is subject to the harbor maintenance fee under section 24.24 of title 19, Code of Federal Regulations (or a successor regulation);
 
-&emsp;&emsp;&emsp;(ii) at which the total amount of harbor maintenance taxes collected comprise not less than $15,000,000 annually of the total funding of the Harbor Maintenance Trust Fund established under section 9505 of title 26;
+&emsp;&emsp;&emsp;(ii) at which the total amount of harbor maintenance taxes collected (including the estimated taxes related to domestic cargo and cruise passengers) comprise not less than $15,000,000 annually of the total funding of the Harbor Maintenance Trust Fund on an average annual basis for the previous 3 fiscal years;
 
-&emsp;&emsp;&emsp;(iii) that received less than 25 percent of the total amount of harbor maintenance taxes collected at that port in the previous 5 fiscal years; and
+&emsp;&emsp;&emsp;(iii) that received less than 25 percent of the total amount of harbor maintenance taxes collected (including the estimated taxes related to domestic cargo and cruise passengers) at that port in the previous 3 fiscal years; and
 
-&emsp;&emsp;&emsp;(iv) that is located in a State in which more than 2,000,000 cargo containers were unloaded from or loaded on to vessels in fiscal year 2012.
+&emsp;&emsp;&emsp;(iv) that is located in a State in which more than 2,000,000 cargo containers were unloaded from or loaded on to vessels on an average annual basis for the previous 3 fiscal years.
 
 #### (B) Calculation
 
@@ -50,9 +50,9 @@ In this section:
 
 &emsp;&emsp;(A) that is subject to the harbor maintenance fee under section 24.24 of title 19, Code of Federal Regulations (or any successor regulation); and
 
-&emsp;&emsp;(B)(i) at which energy commodities comprised greater than 25 percent of all commercial activity by tonnage in fiscal year 2012; and
+&emsp;&emsp;(B)(i) at which energy commodities comprised greater than 25 percent of all commercial activity by tonnage on an average annual basis for the previous 3 fiscal years; and
 
-&emsp;&emsp;(ii) through which more than 40,000,000 tons of cargo were transported in fiscal year 2012.
+&emsp;&emsp;(ii) through which more than 40,000,000 tons of cargo were transported on an average annual basis for the previous 3 fiscal years.
 
 #### (6) Expanded uses
 
@@ -62,17 +62,21 @@ In this section:
 
 &emsp;The term "harbor maintenance tax" has the meaning given the term in section 2238(f) of this title.
 
-#### (8) Medium-sized donor port
+#### (8) Harbor maintenance trust fund
+
+&emsp;The term "Harbor Maintenance Trust Fund" means the Harbor Maintenance Trust Fund established by section 9505 of title 26.
+
+#### (9) Medium-sized donor port
 
 &emsp;The term "medium-sized donor port" means a port—
 
 &emsp;&emsp;(A) that is subject to the harbor maintenance fee under section 24.24 of title 19, Code of Federal Regulations (or a successor regulation);
 
-&emsp;&emsp;(B) at which the total amount of harbor maintenance taxes collected comprise annually more than $5,000,000 but less than $15,000,000 of the total funding of the Harbor Maintenance Trust Fund established under section 9505 of title 26;
+&emsp;&emsp;(B) at which the total amount of harbor maintenance taxes collected (including the estimated taxes related to domestic cargo and cruise passengers) comprise annually more than $5,000,000 but less than $15,000,000 of the total funding of the Harbor Maintenance Trust Fund on an average annual basis for the previous 3 fiscal years;
 
-&emsp;&emsp;(C) that received less than 25 percent of the total amount of harbor maintenance taxes collected at that port in the previous 5 fiscal years; and
+&emsp;&emsp;(C) that received less than 25 percent of the total amount of harbor maintenance taxes collected (including the estimated taxes related to domestic cargo and cruise passengers) at that port in the previous 3 fiscal years; and
 
-&emsp;&emsp;(D) that is located in a State in which more than 2,000,000 cargo containers were unloaded from or loaded onto vessels in fiscal year 2012.
+&emsp;&emsp;(D) that is located in a State in which more than 2,000,000 cargo containers were unloaded from or loaded onto vessels on an average annual basis for the previous 3 fiscal years.
 
 #### (b) Authority
 
@@ -108,7 +112,7 @@ Amounts provided under this section may be used by a donor port, a medium-sized 
 
 #### (1) In general
 
-&emsp;If a donor port, a medium-sized donor port, or an energy transfer port elects to provide payments to importers under subsection (c), the Secretary shall transfer to the Commissioner of U.S. Customs and Border Protection an amount equal to those payments that would otherwise be provided to the port under this section to provide the payments to the importers of the discretionary cargo that is—
+&emsp;If a donor port, a medium-sized donor port, or an energy transfer port elects to provide payments to importers under subsection (c),the Secretary shall transfer to the Commissioner of U.S. Customs and Border Protection an amount equal to those payments that would otherwise be provided to the port under this section to provide the payments to the importers of the discretionary cargo that is—
 
 &emsp;&emsp;(A) shipped through the port; and
 
@@ -118,25 +122,27 @@ Amounts provided under this section may be used by a donor port, a medium-sized 
 
 &emsp;The Secretary, in consultation with a port electing to provide payments under subsection (c), shall determine the top importers at the port, as ranked by the value of discretionary cargo, and payments shall be limited to those top importers.
 
-#### (e) Report to Congress
+#### (e) Authorization of appropriations
 
 #### (1) In general
 
-&emsp;Not later than 18 months after June 10, 2014, the Secretary shall assess the impact of the authority provided by this section and submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report on the results of that assessment, including any recommendations for amending or reauthorizing the authority.
+&emsp;There are authorized to be appropriated to carry out this section—
 
-#### (2) Factors
+&emsp;&emsp;(A) $56,000,000 for fiscal year 2023;
 
-&emsp;In carrying out the assessment under paragraph (1), the Secretary shall assess—
+&emsp;&emsp;(B) $58,000,000 for fiscal year 2024;
 
-&emsp;&emsp;(A) the impact of the amounts provided and used under this section on those ports that received funds under this section; and
+&emsp;&emsp;(C) $60,000,000 for fiscal year 2025;
 
-&emsp;&emsp;(B) any impact on domestic harbors and ports that did not receive funds under this section.
+&emsp;&emsp;(D) $62,000,000 for fiscal year 2026;
 
-#### (f) Authorization of appropriations
+&emsp;&emsp;(E) $64,000,000 for fiscal year 2027;
 
-#### (1) In general
+&emsp;&emsp;(F) $66,000,000 for fiscal year 2028;
 
-&emsp;There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2015 through 2022.
+&emsp;&emsp;(G) $68,000,000 for fiscal year 2029; and
+
+&emsp;&emsp;(H) $70,000,000 for fiscal year 2030.
 
 #### (2) Division between donor ports, medium-sized donor ports, and energy transfer ports
 
@@ -146,79 +152,11 @@ Amounts provided under this section may be used by a donor port, a medium-sized 
 
 &emsp;&emsp;(B) energy transfer ports.
 
-#### (g) Savings clause
+#### (f) Savings clause
 
 Nothing in this section waives any statutory requirement related to the transportation of merchandise as authorized under chapter 551 of title 46.
 
 (Pub. L. 113–121, title II, §2106, June 10, 2014, 128 Stat. 1280; Pub. L. 114–322, title I, §1110, Dec. 16, 2016, 130 Stat. 1634; Pub. L. 116–260, div. AA, title I, §104(a)–(b)(2), Dec. 27, 2020, 134 Stat. 2621, 2622.)
-
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. AA, title I, §104(b), Dec. 27, 2020, 134 Stat. 2621, provided that, effective Oct. 1, 2022, this section is amended as follows:</i>
-
-<i>(1) Subsection (a) is amended—</i>
-
-<i>(A) in paragraph (3)(A)—</i>
-
-<i>(i) by amending clause (ii) to read as follows:</i>
-
-&emsp;&emsp;&emsp;<i>"(ii) at which the total amount of harbor maintenance taxes collected (including the estimated taxes related to domestic cargo and cruise passengers) comprise not less than $15,000,000 annually of the total funding of the Harbor Maintenance Trust Fund on an average annual basis for the previous 3 fiscal years;";</i>
-
-<i>(ii) in clause (iii)—</i>
-
-<i>(I) by inserting "(including the estimated taxes related to domestic cargo and cruise passengers)" after "taxes collected"; and</i>
-
-<i>(II) by striking "5 fiscal years" and inserting "3 fiscal years"; and</i>
-
-<i>(iii) in clause (iv), by striking "in fiscal year 2012" and inserting "on an average annual basis for the previous 3 fiscal years";</i>
-
-<i>(B) in paragraph (5)(B), by striking "in fiscal year 2012" each place it appears and inserting "on an average annual basis for the previous 3 fiscal years";</i>
-
-<i>(C) by redesignating paragraph (8) as paragraph (9) and inserting after paragraph (7) the following:</i>
-
-#### <i>"(8) Harbor maintenance trust fund</i>
-
-&emsp;<i>"The term 'Harbor Maintenance Trust Fund' means the Harbor Maintenance Trust Fund established by section 9505 of title 26.";</i>
-
-<i>(D) in paragraph (9), as so redesignated—</i>
-
-<i>(i) by amending subparagraph (B) to read as follows:</i>
-
-&emsp;&emsp;<i>"(B) at which the total amount of harbor maintenance taxes collected (including the estimated taxes related to domestic cargo and cruise passengers) comprise annually more than $5,000,000 but less than $15,000,000 of the total funding of the Harbor Maintenance Trust Fund on an average annual basis for the previous 3 fiscal years;";</i>
-
-<i>(ii) in subparagraph (C)—</i>
-
-<i>(I) by inserting "(including the estimated taxes related to domestic cargo and cruise passengers)" after "taxes collected"; and</i>
-
-<i>(II) by striking "5 fiscal years" and inserting "3 fiscal years"; and</i>
-
-<i>(iii) in subparagraph (D), by striking "in fiscal year 2012" and inserting "on an average annual basis for the previous 3 fiscal years".</i>
-
-<i>(2)(A) By striking subsection (e) and redesignating subsections (f) and (g) as subsections (e) and (f), respectively; and</i>
-
-<i>(B) in subsection (e), as so redesignated, by amending paragraph (1) to read as follows:</i>
-
-#### <i>"(1) In general</i>
-
-&emsp;<i>"There are authorized to be appropriated to carry out this section—</i>
-
-&emsp;&emsp;<i>"(A) $56,000,000 for fiscal year 2023;</i>
-
-&emsp;&emsp;<i>"(B) $58,000,000 for fiscal year 2024;</i>
-
-&emsp;&emsp;<i>"(C) $60,000,000 for fiscal year 2025;</i>
-
-&emsp;&emsp;<i>"(D) $62,000,000 for fiscal year 2026;</i>
-
-&emsp;&emsp;<i>"(E) $64,000,000 for fiscal year 2027;</i>
-
-&emsp;&emsp;<i>"(F) $66,000,000 for fiscal year 2028;</i>
-
-&emsp;&emsp;<i>"(G) $68,000,000 for fiscal year 2029; and</i>
-
-&emsp;&emsp;<i>"(H) $70,000,000 for fiscal year 2030."</i>
-
-<i>See 2020 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -280,7 +218,7 @@ Subsec. (c). Pub. L. 114–322, §1110(3)(A), substituted "donor port, a medium-
 
 Subsec. (c)(1). Pub. L. 114–322, §1110(3)(B), struck out "or shippers transporting cargo" after "entering cargo" and substituted "the Secretary" for "U.S. Customs and Border Protection" and "value of discretionary cargo" for "amount of harbor maintenance taxes collected".
 
-Subsec. (d). Pub. L. 114–322, §1110(4), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "If a donor port or an energy transfer port elects to provide payments to importers or shippers under subsection (c), the Secretary shall transfer the amount that would otherwise be provided to the port under this section that is equal to those payments to the Commissioner of U.S. Customs and Border Protection to provide the payments to the importers or shippers."
+Subsec. (d). Pub. L. 114–322, §1110(4), added subsec. (d) and struck out former subsec. (d). Prior to amendment,text read as follows: "If a donor port or an energy transfer port elects to provide payments to importers or shippers under subsection (c), the Secretary shall transfer the amount that would otherwise be provided to the port under this section that is equal to those payments to the Commissioner of U.S. Customs and Border Protection to provide the payments to the importers or shippers."
 
 Subsec. (f)(1). Pub. L. 114–322, §1110(5)(A), substituted "2020" for "2018".
 

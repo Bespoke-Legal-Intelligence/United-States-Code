@@ -8,7 +8,7 @@ In regulating the railroad industry, it is the policy of the United States Gover
 
 &emsp;(3) to promote a safe and efficient rail transportation system by allowing rail carriers to earn adequate revenues, as determined by the Board;
 
-&emsp;(4) to ensure the development and continuation of a sound rail transportation system with effective competition among rail carriersand with other modes, to meet the needs of the public and the national defense;
+&emsp;(4) to ensure the development and continuation of a sound rail transportation system with effective competition among rail carriers and with other modes, to meet the needs of the public and the national defense;
 
 &emsp;(5) to foster sound economic conditions in transportation and to ensure effective competition and coordination between rail carriers and other modes;
 

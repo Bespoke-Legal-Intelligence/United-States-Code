@@ -12,7 +12,7 @@ Guidance for Executive Agencies on Linking of Award and Incentive Fees to Acquis
 
 Elements.—The regulations under subsection (b) shall—
 
-&emsp;(1) ensure that all new contracts using award fees link the fees to acquisition outcomes\(which shall be defined in terms of program cost, schedule, and performance);
+&emsp;(1) ensure that all new contracts using award fees link the fees to acquisition outcomes (which shall be defined in terms of program cost, schedule, and performance);
 
 &emsp;(2) establish standards for identifying the appropriate level of officials authorized to approve the use of award and incentive fees in new contracts;
 

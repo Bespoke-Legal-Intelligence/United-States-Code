@@ -18,7 +18,13 @@ By Head of Agency.—
 
 &emsp;(1)
 
-In general.—When the head of an agency responsible for the administration of the navigation or vessel-inspection laws considers it necessary in the interest of national defense, the individual, following a determination by the Maritime Administrator, acting in the Administrator's capacity as Director, National Shipping Authority, of the non-availability of qualified United States flag capacity to meet national defense requirements, may waive compliance with those laws to the extent, in the manner, and on the terms the individual, in consultation with the Administrator, acting in that capacity, prescribes.
+In general.—Upon a determination by the President that a waiver of the navigation or vessel-inspection laws is necessary in the interest of national defense, the head of an agency responsible for the administration of such laws,<sup>1</sup> may waive compliance with such laws—
+
+&emsp;&emsp;(A) following a determination in accordance with the requirements of paragraph (3) by the Maritime Administrator, acting in the Administrator's capacity as Director, National Shipping Authority, of the non-availability of qualified United States flag capacity to meet national defense requirements;
+
+&emsp;&emsp;(B) not earlier than 48 hours after a waiver request is published under paragraph (6)(A); and
+
+&emsp;&emsp;(C) on a vessel specific basis to the extent, in the manner, and on the terms the head of such agency, in consultation with the Administrator, acting in such capacity, prescribes.
 
 &emsp;(2)
 
@@ -30,7 +36,7 @@ In general.—Subject to subparagraphs (B) and (C), a waiver issued under this s
 
 &emsp;&emsp;(B)
 
-Waiver extension.—Upon the termination of the period of a waiver issued under this subsection, the head of an agency may extend the waiver for an additional period of not more than 10 days, if the Maritime Administrator makes the determinations referred to in paragraph (1).
+Waiver extension.—Upon the termination of the period of a waiver issued under this subsection, the head of an agency may extend the waiver for an additional period of not more than 10 days, if the Maritime Administrator makes the determination referred to in paragraph (1)(A).
 
 &emsp;&emsp;(C)
 
@@ -40,7 +46,11 @@ Aggregate duration.—The aggregate duration of the period of all waivers and ex
 
 Determinations.—The Maritime Administrator shall—
 
-&emsp;&emsp;(A) for each determination referred to in paragraph (1), identify any actions that could be taken to enable qualified United States flag capacity to meet national defense requirements;
+&emsp;&emsp;(A) for each determination referred to in paragraph (1)(A)—
+
+&emsp;&emsp;&emsp;(i) identify any actions that could be taken to enable qualified United States flag capacity to meet national defense requirements prior to the issuance of a waiver; and
+
+&emsp;&emsp;&emsp;(ii) not assess the non-availability of qualified United States flag capacity to meet national defense requirements retrospectively after the date on which a waiver is requested;
 
 &emsp;&emsp;(B) provide notice of each such determination to the Secretary of Transportation and the head of the agency referred to in paragraph (1) for which the determination is made; and
 
@@ -70,31 +80,53 @@ Contents.—Such head of an agency shall include in each notification under subp
 
 Notification required for extensions.—For purposes of this paragraph, an extension requested or issued under paragraph (2)(B) shall be treated in the same manner as a waiver requested or issued under this subsection.
 
+&emsp;(5)
+
+Prospective application.—No waiver shall be issued for a vessel if, at the time of the waiver request under this section, such vessel is laden with merchandise that, pursuant to the requested waiver, could be unladen at points or places to which the coastwise laws apply.
+
+&emsp;(6)
+
+Publication requirements.—
+
+&emsp;&emsp;(A)
+
+Publication of waiver requests.—Upon receiving a request for a waiver under this subsection, the head of an agency referred to in paragraph (1) shall publish such request on the website of such agency.
+
+&emsp;&emsp;(B)
+
+Publication of waiver denial.—Not later than 48 hours after denying a waiver requested under this subsection, the head of an agency referred to in paragraph (1) shall publish on the website of such agency an explanation for denying such waiver, including applicable findings to support the denial.
+
 (c)
 
 Report.—
 
 &emsp;(1)
 
-In general.—Not later than 10 days after the date of the conclusion of the voyage of a vessel that, during such voyage, operated under a waiver issued under this section, the owner or operator of the vessel shall submit to the Maritime Administrator a report that includes—
+In general.—Not later than 10 days after the date of the conclusion of the voyage of a vessel that, during such voyage, operated under a waiver issued under this section, the owner or operator of the vessel and the individual requesting such waiver (if not the owner or operator of the vessel) shall submit to the Maritime Administrator a report that includes—
 
 &emsp;&emsp;(A) the name and flag of the vessel;
 
-&emsp;&emsp;(B) the dates of the voyage;
+&emsp;&emsp;(B) the name of the owner and operator of the vessel;
 
-&emsp;&emsp;(C) any relevant ports of call; and
+&emsp;&emsp;(C) the dates of the voyage;
 
-&emsp;&emsp;(D) any other information the Maritime Administrator determines necessary.
+&emsp;&emsp;(D) any relevant ports of call;
+
+&emsp;&emsp;(E) a description of the cargo carried;
+
+&emsp;&emsp;(F) an explanation as to why the waiver was in the interest of national defense; and
+
+&emsp;&emsp;(G) any other information the Maritime Administrator determines necessary.
 
 &emsp;(2)
 
-Publication.—Not later than 48 hours after receiving a report under paragraph (1),the Maritime Administrator shall publish such report on an appropriate website of the Department of Transportation.
+Publication.—Not later than 48 hours after receiving a report under paragraph (1), the Maritime Administrator shall publish such report on an appropriate website of the Department of Transportation.
 
 (d)
 
 Termination of Authority.—The authority granted by this section shall terminate at such time as the Congress by concurrent resolution or the President may designate.
 
-(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1490; Pub. L. 110–417, div. C, title XXXV, §3510, Oct. 14, 2008, 122 Stat. 4769; Pub. L. 112–213, title III, §301, Dec. 20, 2012, 126 Stat. 1562; Pub. L. 112–239, div. C, title XXXV, §3517(a)(2), Jan. 2, 2013, 126 Stat. 2229; Pub. L. 116–283, div. C, title XXXV, §3502(a)(1), Jan. 1, 2021, 134 Stat. 4397.)
+(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1490; Pub. L. 110–417, div. C, title XXXV, §3510, Oct. 14, 2008, 122 Stat. 4769; Pub. L. 112–213, title III, §301, Dec. 20, 2012, 126 Stat. 1562; Pub. L. 112–239, div. C, title XXXV, §3517(a)(2), Jan. 2, 2013, 126 Stat. 2229; Pub. L. 116–283, div. C, title XXXV, §3502(a)(1), Jan. 1, 2021, 134 Stat. 4397; Pub. L. 117–263, div. C, title XXXV, §3541, Dec. 23, 2022, 136 Stat. 3093.)
 
 Historical and Revision Notes
 
@@ -117,6 +149,16 @@ In subsection (b), the words "When the head of an agency . . . considers it ne
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1). Pub. L. 117–263, §3541(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "When the head of an agency responsible for the administration of the navigation or vessel-inspection laws considers it necessary in the interest of national defense, the individual, following a determination by the Maritime Administrator, acting in the Administrator's capacity as Director, National Shipping Authority, of the non-availability of qualified United States flag capacity to meet national defense requirements, may waive compliance with those laws to the extent, in the manner, and on the terms the individual, in consultation with the Administrator, acting in that capacity, prescribes."
+
+Subsec. (b)(2)(B). Pub. L. 117–263, §3541(1)(B), substituted "determination referred to in paragraph (1)(A)" for "determinations referred to in paragraph (1)".
+
+Subsec. (b)(3)(A). Pub. L. 117–263, §3541(1)(C), added subpar. (A) and struck out former subpar. (A). Prior to amendment, subpar. (A) read as follows: "for each determination referred to in paragraph (1), identify any actions that could be taken to enable qualified United States flag capacity to meet national defense requirements;".
+
+Subsec. (b)(5), (6). Pub. L. 117–263, §3541(1)(D), added pars. (5) and (6).
+
+Subsec. (c)(1). Pub. L. 117–263, §3541(2), inserted "and the individual requesting such waiver (if not the owner or operator of the vessel)" before "shall submit" in introductory provisions, added subpars. (B), (E), and (F), and redesignated former subpars. (B), (C), and (D) as (C), (D), and (G), respectively.
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §3502(a)(1)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "On request of the Secretary of Defense, the head of an agency responsible for the administration of the navigation or vessel-inspection laws shall waive compliance with those laws to the extent the Secretary considers necessary in the interest of national defense."
 
@@ -141,4 +183,6 @@ Subsecs. (c), (d). Pub. L. 116–283, §3502(a)(1)(C), (D), added subsec. (c) an
 #### Effective Date of 2021 Amendment
 
 Pub. L. 116–283, div. C, title XXXV, §3502(a)(2), Jan. 1, 2021, 134 Stat. 4398, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to waivers issued after the date of the enactment of this Act \[Jan. 1, 2021\]."
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

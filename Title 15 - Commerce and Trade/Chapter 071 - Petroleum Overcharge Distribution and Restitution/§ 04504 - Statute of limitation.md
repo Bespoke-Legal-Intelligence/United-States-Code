@@ -32,7 +32,7 @@
 
 &emsp;(F) of extension, to which the Secretary and the defendant have consented in writing, before the expiration of the time periods prescribed in subsection (a)(1).
 
-(2) The provisions of subsection (a) shall not affect or apply to any civil enforcement action commenced before, on, or after October 21, 1986, and remanded by the Office of Hearings and Appeals, the Federal Energy Regulatory Commission, or the court for further action of any kind.
+(2) The provisions of subsection (a) shall not affect or apply to any civil enforcement actioncommenced before, on, or after October 21, 1986, and remanded by the Office of Hearings and Appeals, the Federal Energy Regulatory Commission, or the court for further action of any kind.
 
 (3) The provisions of subsection (a) shall not apply to any agency orders issued under the Acts or regulations described in subsection (a)(1) or to regulations issued under this chapter, other than a proposed remedial order subject to this section.
 
@@ -56,7 +56,7 @@ Notwithstanding any other provision of law, the Secretary shall not initiate, af
 
 #### (e) Limitation on review
 
-Any review of a final agency action determined under section 7193 or 7194 of title 42 maynot be initiated in any court by any person subject to such action after—
+Any review of a final agency action determined under section 7193 or 7194 of title 42 may not be initiated in any court by any person subject to such action after—
 
 &emsp;(1) 60 days after the effective date of that action; or
 
@@ -90,9 +90,9 @@ Any review of a final agency action determined under section 7193 or 7194 of tit
 
 #### References in Text
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
-The Economic Stabilization Act of 1970, referred to in subsec. (a)(3), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, as amended, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
+The Economic Stabilization Act of 1970, referred to in subsec. (a)(3), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, formerly set out as an Economic Stabilization Provisions note under section 1904 of Title 12, Banks and Banking.
 
 This chapter, referred to in subsec. (b)(3), was in the original "this Act", which was translated as meaning this subtitle, which enacted this chapter, to reflect the probable intent of Congress.
 
@@ -100,5 +100,5 @@ This chapter, referred to in subsec. (b)(3), was in the original "this Act", whi
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a)of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -118,7 +118,7 @@ Reasonable charges.—A plan sponsor may charge a reasonable fee for any informa
 
 &emsp;(viii) to do such other acts as may be necessary to comply with this subchapter or any order of the court and to protect the interests of plan participants and beneficiaries.
 
-(2) As soon as practicable after his appointment, the trustee shall give notice to interestedparties of the institution of proceedings under this subchapter to determine whether the plan should be terminated or to terminate the plan, whichever is applicable. For purposes of this paragraph, the term "interested party" means—
+(2) As soon as practicable after his appointment, the trustee shall give notice to interested parties of the institution of proceedings under this subchapter to determine whether the plan should be terminated or to terminate the plan, whichever is applicable. For purposes of this paragraph, the term "interested party" means—
 
 &emsp;(A) the plan administrator,
 
@@ -176,7 +176,7 @@ Pub. L. 101–239, §7881(g)(7), made technical correction to directory language
 
 Subsecs. (a)(1), (d)(3). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9314(b), as amended by Pub. L. 101–239, §7881(g)(7), amended last sentencegenerally. Prior to amendment, last sentence read as follows: "The corporation is authorized to pool the assets of terminated plans for purposes of administration and such other purposes, not inconsistent with its duties to the plan participants and the employer maintaining the plan under this subchapter, as it determines to be required for the efficient administration of this subchapter." Another section 9314(b) of Pub. L. 100–203 amended subsec. (c) of this section, see below.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9314(b), as amended by Pub. L. 101–239, §7881(g)(7), amended last sentence generally. Prior to amendment, last sentence read as follows: "The corporation is authorized to pool the assets of terminated plans for purposes of administration and such other purposes, not inconsistent with its duties to the plan participants and the employer maintaining the plan under this subchapter, as it determines to be required for the efficient administration of this subchapter." Another section 9314(b) of Pub. L. 100–203 amended subsec. (c) of this section, see below.
 
 Subsec. (c)(3). Pub. L. 100–203, §9314(b), added par. (3). Another section 9314(b) of Pub. L. 100–203 amended subsec. (a) of this section, see above.
 

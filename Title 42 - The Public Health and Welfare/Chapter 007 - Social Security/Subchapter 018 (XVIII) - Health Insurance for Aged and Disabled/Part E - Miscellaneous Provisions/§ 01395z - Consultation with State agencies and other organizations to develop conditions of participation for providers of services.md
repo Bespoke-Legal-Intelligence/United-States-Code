@@ -36,7 +36,7 @@ Pub. L. 98–369, §2349(b)(1), substituted "appropriate State agencies" for "th
 
 Pub. L. 96–499, §934(c)(1), inserted "or by ambulatory surgical centers under section 1395k(a)(2)(F)(i) of this title,".
 
-<b>1972</b>—Pub. L. 92–603 substituted "subsections (e)(9), (f)(4), (g)(4), (j)(11), and (o)(6) of section 1395x of this title" for "subsections (e)(8), (f)(4), (g)(4), (j)(10), and (o)(5) of section 1395x of this title".
+<b>1972</b>—Pub. L. 92–603 substituted "subsections (e)(9), (f)(4), (g)(4), (j)(11), and (o)(6) of section 1395x of thistitle" for "subsections (e)(8), (f)(4), (g)(4), (j)(10), and (o)(5) of section 1395x of this title".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub
 
 Amendment by section 203(e)(2) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 203(g) of Pub. L. 100–360, set out as a note under section 1320c–3 of this title.
 
-Amendment by section 204(c)(1) of Pub. L. 100–360 applicable to screening mammography performed on orafter Jan. 1, 1990, see section 204(e) of Pub. L. 100–360, set out as a note under section 1395m of this title.
+Amendment by section 204(c)(1) of Pub. L. 100–360 applicable to screening mammography performed on or after Jan. 1, 1990, see section 204(e) of Pub. L. 100–360, set out as a note under section 1395m of this title.
 
 #### Effective Date of 1984 Amendment
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 92–603 applicable with respect to providers of services f
 
 #### Termination of Advisory Councils
 
-Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

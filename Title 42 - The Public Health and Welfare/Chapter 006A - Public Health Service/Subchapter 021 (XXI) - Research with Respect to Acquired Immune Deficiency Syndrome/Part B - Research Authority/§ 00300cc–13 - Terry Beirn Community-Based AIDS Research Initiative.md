@@ -26,7 +26,7 @@ After consultation with the Commissioner of Food and Drugs, the Director of the 
 
 #### (c) Participation of private industry, schools of medicine and primary providers
 
-Programs carried out with financial assistance provided under subsection (a) shall be designed to encourage private industry and schools of medicine, osteopathic medicine, and existing consortia of primary care providers organized to conduct clinical research concerning acquired immune deficiency syndrome to participate in, and to support, the clinical trials conducted pursuant to the programs.
+Programs carried out with financial assistance provided under subsection (a) shall be designedto encourage private industry and schools of medicine, osteopathic medicine, and existing consortia of primary care providers organized to conduct clinical research concerning acquired immune deficiency syndrome to participate in, and to support, the clinical trials conducted pursuant to the programs.
 
 #### (d) Requirement of application
 

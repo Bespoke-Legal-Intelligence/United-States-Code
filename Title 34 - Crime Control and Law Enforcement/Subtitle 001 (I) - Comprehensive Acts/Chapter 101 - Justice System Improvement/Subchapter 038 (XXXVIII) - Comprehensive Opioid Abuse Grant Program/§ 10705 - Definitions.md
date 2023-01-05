@@ -26,13 +26,19 @@ In this subchapter:
 
 &emsp;(7) The term "tribal organization" has the meaning given that term in section 5304 of title 25.
 
-&emsp;(8) The term "State substance abuse agency" has the meaning given that term in section 290bb–1(r)(6) of title 42.
+&emsp;(8) The term "State substance abuse agency" has the meaning given that term in section 290bb–1(r)(6) <sup>1</sup> of title 42.
 
 (Pub. L. 90–351, title I, §3025, as added Pub. L. 114–198, title II, §201(a)(1), July 22, 2016, 130 Stat. 713.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 290bb–1(r)(6) of title 42, referred to in par. (8), was redesignated section 290bb–1(r)(5) of title 42 by Pub.L. 117–328, div. FF, title I, §1114(2), Dec. 29, 2022, 136 Stat. 5647.
+
 #### Codification
 
 Section was formerly classified to section 3797ff–4 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -29,6 +29,7 @@
 | [1724\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001724%20-%20Secretarial%20and%20delegated%20States%27%20actions%20and%20limitation%20periods.md) | Secretarial and delegated States' actions and limitation periods. |
 | [1725\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001725%20-%20Assessments.md) | Assessments. |
 | [1726\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001726%20-%20Alternatives%20for%20marginal%20properties.md) | Alternatives for marginal properties. |
+| [1727\.](Subchapter%20001%20%28I%29%20-%20Federal%20Royalty%20Management%20and%20Enforcement/%C2%A7%2001727%20-%20Royalties%20on%20all%20extracted%20methane.md) | Royalties on all extracted methane. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -12,7 +12,7 @@ The general purpose of the National Institute of General Medical Sciences is the
 
 (C) With respect to enhancing competitiveness for purposes of subparagraph (A), the Director of NIH, in carrying out the program established under such subparagraph, may—
 
-&emsp;(i) provide technical assistance to the entities involved, including technical assistance inthe preparation of applications for obtaining funds from the national research institutes;
+&emsp;(i) provide technical assistance to the entities involved, including technical assistance in the preparation of applications for obtaining funds from the national research institutes;
 
 &emsp;(ii) assist the entities in developing a plan for biomedical or behavioral research proposals; and
 

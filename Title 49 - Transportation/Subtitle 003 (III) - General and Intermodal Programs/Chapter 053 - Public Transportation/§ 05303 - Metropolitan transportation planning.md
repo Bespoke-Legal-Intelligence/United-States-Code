@@ -232,7 +232,7 @@ Scope of Planning Process.—
 
 &emsp;(1)
 
-In general.—The metropolitan planning process for a metropolitan planning areaunder this section shall provide for consideration of projects and strategies that will—
+In general.—The metropolitan planning process for a metropolitan planning area under this section shall provide for consideration of projects and strategies that will—
 
 &emsp;&emsp;(A) support the economic vitality of the metropolitan area, especially by enabling global competitiveness, productivity, and efficiency;
 
@@ -426,7 +426,7 @@ Recommended components.—A metropolitan planning organization that chooses to d
 
 &emsp;&emsp;(C)
 
-Metrics.—In addition to the performance measures identified in section 150(c) of title 23, metropolitan planning organizationsmay evaluate scenarios developed under this paragraph using locally-developed measures.
+Metrics.—In addition to the performance measures identified in section 150(c) of title 23, metropolitan planning organizations may evaluate scenarios developed under this paragraph using locally-developed measures.
 
 &emsp;(5)
 
@@ -734,7 +734,7 @@ Selection of projects.—
 
 &emsp;&emsp;(A)
 
-In general.—All Federally funded projects carried out within the boundaries ofa metropolitan planning area serving a transportation management area under title 23 (excluding projects carried out on the National Highway System) or under this chapter shall be selected for implementation from the approved TIP by the metropolitan planning organization designated for the area in consultation with the State and any affected public transportation operator.
+In general.—All Federally funded projects carried out within the boundaries of a metropolitan planning area serving a transportation management area under title 23 (excluding projects carried out on the National Highway System) or under this chapter shall be selected for implementation from the approved TIP by the metropolitan planning organization designated for the area in consultation with the State and any affected public transportation operator.
 
 &emsp;&emsp;(B)
 
@@ -782,7 +782,7 @@ Report on Performance-based Planning Processes.—
 
 &emsp;(1)
 
-In general.—The Secretary shall submit to Congress a report on the effectiveness of the performance-based planning processes of metropolitan planning organizations under this section, taking into consideration the requirements of this subsection.
+In general.—The Secretary shall submit to Congress a report on the effectiveness of the performance-based planning processes of metropolitan planning organizations underthis section, taking into consideration the requirements of this subsection.
 
 &emsp;(2)
 
@@ -968,7 +968,7 @@ This amends 49:5303(c)(5)(A) to correct an erroneous cross-reference.
 
 The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsecs. (d)(2) and (l)(2), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
 
-The Clean Air Act, referred to in subsecs. (e)(4)(A), (5)(D), (g)(1), (i)(3), (m)(2), and (n)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Healthand Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsecs. (e)(4)(A), (5)(D), (g)(1), (i)(3), (m)(2), and (n)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The date of enactment of the SAFETEA-LU, referred to in subsec. (e)(4)(A), (5), is the date of enactment of title III of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
@@ -1082,7 +1082,7 @@ Subsec. (f)(1)(B)(iii). Pub. L. 105–178, §3004(e)(1)(B), added cl. (iii) and 
 
 Subsec. (f)(1)(C). Pub. L. 105–178, §3004(e)(1)(C), added subpar. (C) and struck out former subpar. (C) which read as follows: "assess capital investment and other measures necessary—
 
-&emsp;"(i) to ensure the preservation of the existing metropolitan transportation system, including requirements for operational improvements, resurfacing, restoration, and rehabilitation of existing and future major roadways, and operations, maintenance, modernization, and rehabilitation of existing and future mass transportation facilities; and
+&emsp;"(i) to ensure the preservation of the existing metropolitan transportation system, including requirements for operational improvements, resurfacing,restoration, and rehabilitation of existing and future major roadways, and operations, maintenance, modernization, and rehabilitation of existing and future mass transportation facilities; and
 
 &emsp;"(ii) to use existing transportation facilities most efficiently to relieve vehicular congestion and maximize the mobility of individuals and goods; and".
 
@@ -1128,7 +1128,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Effective Date of 1996 Amendment
 
-Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, provided that: "The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70),\(77)–(79), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 46316, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994."
+Section 8(1) of Pub. L. 104–287, as amended by Pub. L. 105–102, §3(d)(2)(A), Nov. 20, 1997, 111 Stat. 2215, provided that: "The amendments made by sections 3 and 5(10)–(17), (19), (20), (52), (53), (55), (61), (62), (65), (70), (77)–(79), and (91)–(93) of this Act \[amending this section, sections 5307, 5309, 5315, 5317, 5323, 5325, 5327, 5336, 5338, 20301, 21301, 22106, 32702, 32705, 40109, 41109, 46301, 46306, 46316, 60114, 70102, and 70112 of this title, and section 1445 of Title 28, Judiciary and Judicial Procedure\] shall take effect on July 5, 1994."
 
 #### Pilot Program for Transit-Oriented Development Planning
 
@@ -1188,7 +1188,7 @@ Pub. L. 112–141, div. B, §20013(d), July 6, 2012, 126 Stat. 694, as amended b
 
 #### Schedule for Implementation
 
-Pub. L. 109–59, title III, §3005(b), Aug. 10, 2005, 119 Stat. 1559, required the Secretary of Transportation to issue guidance on a schedule for implementation of the changes made to this section by section 3005(a) of Pub. L. 109–59 and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
+Pub. L. 109–59, title III, §3005(b), Aug. 10, 2005, 119 Stat. 1559, required the Secretary of Transportation toissue guidance on a schedule for implementation of the changes made to this section by section 3005(a) of Pub. L. 109–59 and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -88,5 +88,5 @@ Biennial Reports.—(1) Not less frequently than once every two years, the Secre
 
 #### Criteria
 
-Pub. L. 116–315, title IV, §4202(c), Jan. 5, 2021, 134 Stat. 5012, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary of Veterans Affairs shall establish and publish in the Federal Register the criteria and requirements pursuant to subsection (b)(1) of section 2022A of title 38, United States Code, as added by subsection (a)."
+Pub. L. 116–315, title IV, §4202(c), Jan. 5, 2021, 134 Stat. 5012, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 5, 2021\], the Secretary of Veterans Affairs shall establish and publish inthe Federal Register the criteria and requirements pursuant to subsection (b)(1) of section 2022A of title 38, United States Code, as added by subsection (a)."
 

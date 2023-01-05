@@ -74,7 +74,7 @@ Limitations.—(1) A vessel built in a foreign ship yard may not be purchased wi
 
 &emsp;(ii) of such new vessels, the lead ship is anticipated to be delivered by not later than 2028.
 
-(F) Not later than 30 days before the purchase of any vessel using the authority under this paragraph, the Secretary, in consultation with the Maritime Administrator, shall submit to the congressional defense committees a report that contains each of the following with respect to such purchase:
+(F) Not later than 30 days before the purchase of any vessel using the authority under thisparagraph, the Secretary, in consultation with the Maritime Administrator, shall submit to the congressional defense committees a report that contains each of the following with respect to such purchase:
 
 &emsp;(i) The proposed date of the purchase.
 
@@ -102,7 +102,7 @@ Limitations.—(1) A vessel built in a foreign ship yard may not be purchased wi
 
 Expiration of Funds After 5
 
-Years.—No part of an appropriation that is deposited in the National Defense Sealift Fund pursuant to subsection (d)(1) shall remain available for obligation more than five years after the end of fiscalyear for which appropriated except to the extent specifically provided by law.
+Years.—No part of an appropriation that is deposited in the National Defense Sealift Fund pursuant to subsection (d)(1) shall remain available for obligation more than five years after the end of fiscal year for which appropriated except to the extent specifically provided by law.
 
 (h)
 
@@ -216,7 +216,7 @@ Subsec. (f)(3)(F)(viii). Pub. L. 115–232, §1013(1)(D), added cl. (viii).
 
 Subsec. (f)(3)(G). Pub. L. 115–232, §1013(2), added subpar. (G).
 
-<b>2017</b>—Subsec. (c)(1)(D), (E). Pub. L. 115–91, §1021(a)(1)(A), redesignated subpar. (E) as (D) and struck out former subpar. (D) which read as follows: "Research and development relating to national defense sealift."
+<b>2017</b>—Subsec. (c)(1)(D), (E). Pub. L. 115–91, §1021(a)(1)(A), redesignated subpar. (E) as (D) andstruck out former subpar. (D) which read as follows: "Research and development relating to national defense sealift."
 
 Subsec. (c)(3). Pub. L. 115–91, §1021(a)(1)(B), struck out "or (D)" after "subparagraph (B)".
 
@@ -256,7 +256,7 @@ Subsec. (l). Pub. L. 110–417, §1407(1), redesignated subsec. (l) as (k).
 
 <b>2006</b>—Subsec. (d)(2). Pub. L. 109–304 substituted "sections 57101–57104 and chapter 573 of title 46" for "sections 508 and 510 of the Merchant Marine Act of 1936 (46 U.S.C. App. 1158, 1160), shall be deposited in the Fund".
 
-Subsec. (f)(1). Pub. L. 109–163 substituted "A vessel built in a foreign ship yard may not be" for "Not more than a total of five vessels built in foreign ship yardsmay be" and inserted ", unless specifically authorized by law" before period at end.
+Subsec. (f)(1). Pub. L. 109–163 substituted "A vessel built in a foreign ship yard may not be" for "Not more than a total of five vessels built in foreign ship yards may be" and inserted ", unless specifically authorized by law" before period at end.
 
 <b>2003</b>—Subsec. (l)(4), (5). Pub. L. 108–136 redesignated par. (5) as (4) and struck out former par. (4) which read as follows: "The term 'congressional defense committees' means—
 

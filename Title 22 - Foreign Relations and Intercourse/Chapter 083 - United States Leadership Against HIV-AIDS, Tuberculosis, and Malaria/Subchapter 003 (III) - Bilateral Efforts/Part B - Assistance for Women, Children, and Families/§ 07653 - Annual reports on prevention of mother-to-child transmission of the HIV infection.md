@@ -26,6 +26,8 @@ In this section, the term "reporting period" means, in the case of the initial r
 
 (Pub. L. 108–25, title III, §313, May 27, 2003, 117 Stat. 741; Pub. L. 110–293, title III, §308, July 30, 2008, 122 Stat. 2964.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–293 substituted "10 years" for "5 years".

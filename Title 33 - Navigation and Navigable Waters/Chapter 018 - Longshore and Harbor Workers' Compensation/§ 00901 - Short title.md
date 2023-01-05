@@ -16,7 +16,7 @@ This chapter may be cited as "Longshore and Harbor Workers' Compensation Act."
 
 Pub. L. 98–426, §28(a)–(g), Sept. 28, 1984, 98 Stat. 1655, provided that:
 
-"(a) Except as otherwise provided in this section, the amendments made by this Act \[enacting section 942 of this title, amending this section, sections 902 to 910, 912 to 914, 917 to 919, 921 to 923, 928 to 935, 938 to 940, 944, and 948a of this title, and section 932 of Title 30, MineralLands and Mining, repealing sections 945 to 947 of this title, and enacting provisions set out as notes under this section and section 907 of this title\] shall be effective on the date of enactment of this Act \[Sept. 28, 1984\] and shall apply both with respect to claims filed after such date and to claims pending on such date.
+"(a) Except as otherwise provided in this section, the amendments made by this Act \[enacting section 942 of this title, amending this section, sections 902 to 910, 912 to 914, 917 to 919, 921 to 923, 928 to 935, 938 to 940, 944, and 948a of this title, and section 932 of Title 30, Mineral Lands and Mining, repealing sections 945 to 947 of this title, and enacting provisions set out as notes under this section and section 907 of this title\] shall be effective on the date of enactment of this Act \[Sept. 28, 1984\] and shall apply both with respect to claims filed after such date and to claims pending on such date.
 
 "(b) The amendments made by sections 7(a), 7(e), 8(f), 11(b), 11(c), and 13 \[amending sections 907, 908, 912, and 914 of this title\] shall be effective 90 days after the date of enactment of this Act \[Sept. 28, 1984\] and shall apply both with respect to claims filed after such 90th day and to claims pending on such 90th day.
 

@@ -10,7 +10,7 @@
 
 (c) A class of claims has accepted a plan if such plan has been accepted by creditors, other than any entity designated under subsection (e) of this section, that hold at least two-thirds in amount and more than one-half in number of the allowed claims of such class held by creditors, other than any entity designated under subsection (e) of this section, that have accepted or rejected such plan.
 
-(d) A class of interests has accepted a plan if such plan has been accepted by holders of such interests, other than any entity designated under subsection (e) of this section, that hold at least two-thirds in amount of the allowed interests of such class held by holders of such interests, other than any entity designated under subsection (e) of this section, that have accepted or rejected such plan.
+(d) A class of interests has accepted a plan if such plan has been accepted by holders of such interests, other than any entity designatedunder subsection (e) of this section, that hold at least two-thirds in amount of the allowed interests of such class held by holders of such interests, other than any entity designated under subsection (e) of this section, that have accepted or rejected such plan.
 
 (e) On request of a party in interest, and after notice and a hearing, the court may designate any entity whose acceptance or rejection of such plan was not in good faith, or was not solicited or procured in good faith or in accordance with the provisions of this title.
 
@@ -64,5 +64,5 @@ Subsec. (g). Pub. L. 98–353, §510(d), substituted "receive or retain any prop
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

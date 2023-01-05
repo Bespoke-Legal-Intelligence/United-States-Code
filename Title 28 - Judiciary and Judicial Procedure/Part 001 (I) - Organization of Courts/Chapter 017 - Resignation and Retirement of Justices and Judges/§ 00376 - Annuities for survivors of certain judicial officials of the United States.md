@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) a judge of the District Court of Guam, the District Court of the Northern Mariana Islands, or the District Court of the Virgin Islands;
 
-&emsp;&emsp;(C) a Director of the Administrative Office of the United States Courts, after he or she has filed a waiver under subsection (a) of section 611 of this title;
+&emsp;&emsp;(C) a Director of the Administrative Office of the United States Courts, after he or shehas filed a waiver under subsection (a) of section 611 of this title;
 
 &emsp;&emsp;(D) a Director of the Federal Judicial Center, after he or she has filed a waiver under subsection (a) of section 627 of this title;
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(B) such unmarried child between eighteen and twenty-two years of age who is a student regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable educational institution. A child whose twenty-second birthday occurs before July 1, or after August 31, of a calendar year, and while he or she is regularly pursuing such a course of study or training, is deemed to have become twenty-two years of age on the first day of July immediately following that birthday. A child who is a student is deemed not to have ceased being a student during an interim period between school years, if that interim period lasts no longer than five consecutive months and if that child shows, to the satisfaction of the Director of the Administrative Office of the United States Courts, that he or she has a bona fide intention of continuing to pursue a course of study or training in the same or a different school during the school semester, or other period into which the school year is divided, immediately following that interim period; or
 
-&emsp;&emsp;(C) such unmarried child, regardless of age, who is incapable of self-support because of a mental or physical disability incurred either (i) before age eighteen, or (ii) in the case of a child who is receiving an annuity as a full-time student under paragraph (5)(B)of this subsection, before the termination of that annuity;
+&emsp;&emsp;(C) such unmarried child, regardless of age, who is incapable of self-support because of a mental or physical disability incurred either (i) before age eighteen, or (ii) in the case of a child who is receiving an annuity as a full-time student under paragraph (5)(B) of this subsection, before the termination of that annuity;
 
 &emsp;(6) "former spouse" means a former spouse of a judicial official if the former spouse was married to such judicial official for at least 9 months; and
 
@@ -158,13 +158,13 @@ Notwithstanding the failure of any such judicial official to make all such depos
 
 &emsp;(2) those years during which such judicial official served as a Senator, Representative, Delegate, or Resident Commissioner in Congress, prior to assuming the responsibilities of any of the offices designated in paragraph (1) of subsection (a) of this section;
 
-&emsp;(3) those years during which such judicial official honorably served on active duty in the Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States, prior to assuming the responsibilities of any of the offices designated in paragraph (1) of subsection (a) of this section: <i>Provided</i>, That those years of such military service for which credit has been allowed for the purposes of retirement or retired pay under any other provision of lawshall not be included as allowable years of such service under this section;
+&emsp;(3) those years during which such judicial official honorably served on active duty in the Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States, prior to assuming the responsibilities of any of the offices designated in paragraph (1) of subsection (a) of this section: <i>Provided</i>, That those years of such military service for which credit has been allowed for the purposes of retirement or retired pay under any other provision of law shall not be included as allowable years of such service under this section;
 
 &emsp;(4) those years during which such judicial official served as an "employee", as that term is defined in subsection (1) of section 8331 of title 5, prior to assuming the responsibilities of any of the offices designated in paragraph (1) of subsection (a) of this section,<sup>1</sup> and
 
 &emsp;(5) those years during which such judicial official had deductions withheld from his or her retirement salary in accordance with subsection (b)(1) or (2) of this section.
 
-> For the purposes of this subsection the term "years" shall mean full years and twelfth parts thereof, excluding from the aggregate any fractional part of a month which numbers less than fifteen full days and including, as one full month, any fractional part of a month which numbers fifteen full days or more. Nothing in this subsection shall be interpreted as waiving or canceling that reduction in the annuity of a widow or widower which is required by subsection (d) of this section due to the failure of a judicial official to make those deposits required by subsection (d) of this section.
+> For the purposes of this subsection the term "years" shall mean full years and twelfth parts thereof, excluding from the aggregate any fractional part of a month which numbers less than fifteen full days and including, as one full month, any fractional part of a month which numbers fifteen full days or more. Nothing inthis subsection shall be interpreted as waiving or canceling that reduction in the annuity of a widow or widower which is required by subsection (d) of this section due to the failure of a judicial official to make those deposits required by subsection (d) of this section.
 
 (l) The annuity of a widow or widower of a judicial official shall be an amount equal to the sum of—
 
@@ -212,7 +212,7 @@ Notwithstanding the failure of any such judicial official to make all such depos
 
 &emsp;Sixth, if none of the above, to such other next of kin of such judicial official, as may be determined by the Director of the Administrative Office of the United States Courts to be entitled to such payment, under the laws of the domicile of such judicial official, at the time of his or her death.
 
-> Such payment shall be a bar to recovery by any other person. For the purposes of this subsection only, a determination that an individual is a widow, widower, or child of a judicial official may be made by the Director of the Administrative Office of the United States Courts without regard to the definitions of those terms contained in paragraphs (3), (4), and (5) of subsection (a) of this section.
+> Such payment shall be a bar to recovery by any other person. For the purposes of this subsection only, a determination that an individual is a widow, widower, or child of a judicial official may be made by the Director of the Administrative Office of the United States Courts withoutregard to the definitions of those terms contained in paragraphs (3), (4), and (5) of subsection (a) of this section.
 
 (2) In cases in which a judicial official dies as a result of assassination and leaves a survivor or survivors who are entitled to receive the annuity benefits provided by subsection (h) or (t) of this section, paragraph (1)(A) of this subsection shall not apply.
 
@@ -250,7 +250,7 @@ Notwithstanding the failure of any such judicial official to make all such depos
 
 &emsp;(B) the amount of any annuity payable under this subsection to any other former spouse of the judicial official, based on an election previously made under subsection (s), or a court order previously issued.
 
-(3) The commencement and termination of an annuity payable under this subsection shall begoverned by the terms of the applicable order, decree, agreement, or election, as the case may be, except that any such annuity—
+(3) The commencement and termination of an annuity payable under this subsection shall be governed by the terms of the applicable order, decree, agreement, or election, as the case may be, except that any such annuity—
 
 &emsp;(A) shall not commence before—
 
@@ -384,7 +384,7 @@ Subsec. (a)(2)(F). Pub. L. 100–659, §3(a)(2), added subpar. (F).
 
 Subsec. (b). Pub. L. 100–659, §3(a)(3), inserted "(and any deductions made under section 377 of this title or under subchapter III of chapter 83, or chapter 84, of title 5)" after "deductions" and "(and under section 377 of this title or under subchapter III of chapter 83, or chapter 84, of title 5)" before period at end of last sentence.
 
-Subsec. (m). Pub. L. 100–702 amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: "Whenever the salary paid for service in one of the offices designated in paragraph (1) of subsection (a) of this section is increased, each annuity payable from the 'Judicial Survivors' Annuities Fund', which is based, in whole or in part, upon a deceased judicial official having rendered some portion of his or her final eighteen months of service in that same office, shall also be increased. The actual amount of the increase in such an annuity shall be determined by multiplying the amount of the annuity, on the date on which the increase in salary becomes effective, by 3 percent for each 5 percent by which such salary has been increased. In the event that such salary is increased by less than 5 percent, there shall be no increase in such annuity."
+Subsec. (m). Pub. L. 100–702 amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: "Whenever the salary paid for service in one of the offices designated in paragraph (1) of subsection (a) of this section is increased, each annuity payable from the 'Judicial Survivors' Annuities Fund', which is based, in whole or in part, upon a deceased judicial official having rendered some portion of his or her final eighteen months of service in that same office, shallalso be increased. The actual amount of the increase in such an annuity shall be determined by multiplying the amount of the annuity, on the date on which the increase in salary becomes effective, by 3 percent for each 5 percent by which such salary has been increased. In the event that such salary is increased by less than 5 percent, there shall be no increase in such annuity."
 
 <b>1986</b>—Subsec. (a)(1). Pub. L. 99–336, §2(a)(1), substituted "she marries, (iii) January 1, 1977; or (iv) October 1, 1986" for "she marries, or (iii) the date upon which the Judicial Survivors' Annuities Reform Act becomes effective" in concluding provision.
 
@@ -452,7 +452,7 @@ Limited retroactive effect.—
 
 &emsp;"(A)
 
-In general.—In the case of a remarriage which is dissolved by death, divorce, or annulment within the 5-year period ending on the day before the effective date of this section, the amendments made by this section shall apply only if the widow or widower satisfies the requirements of paragraphs (1) and\(2) of section 376(x) \[now 376(w)\] of title 28, United States Code (as amended by this section) before—
+In general.—In the case of a remarriage which is dissolved by death, divorce, or annulment within the 5-year period ending on the day before the effective date of this section, the amendments made by this section shall apply only if the widow or widower satisfies the requirements of paragraphs (1) and (2) of section 376(x) \[now 376(w)\] of title 28, United States Code (as amended by this section) before—
 
 &emsp;&emsp;"(i) the end of the 2-year period beginning on the effective date of this section; or
 
@@ -466,7 +466,7 @@ Restoration.—If the requirements of paragraph (1) are satisfied, the survivor 
 
 Lump-sum payment.—Any amounts becoming payable to the widow or widower under this subsection for the period beginning on the date on which the annuity was terminated and ending on the date on which periodic annuity payments resume shall be payable in a lump-sum payment."
 
-\[Pub. L. 111–32, title V, §501(b), June 24, 2009, 123 Stat. 1879, provided that: "The amendments made by subsection (a) \[amending section 3(c) of Pub. L. 110–428, set out above\] shall take effect as if included in the enactment of Public Law 110–428."\]
+\[Pub. L. 111–32, title V, §501(b), June 24, 2009, 123 Stat. 1879, provided that: "The amendments made by subsection (a) \[amending section 3(c) of Pub. L. 110–428, setout above\] shall take effect as if included in the enactment of Public Law 110–428."\]
 
 #### Effective Date of 1992 Amendment
 
@@ -526,11 +526,11 @@ The provisions of section 611(a) of this title, the first paragraph of section 6
 
 #### Savings Provision
 
-Pub. L. 94–554, §6, Oct. 19, 1976, 90 Stat. 2611, provided: "That the benefits conferred by this Act shall, on thedate upon which this Act becomes effective \[Jan. 1, 1977\], immediately become available to any individual then receiving an annuity under section 2 of the Act of August 3, 1956 (70 Stat. 1021) \[enacting this section\], as amended: <i>Provided</i>, That although the rights of any judicial official electing to come within the purview of section 376 of title 28, United States Code, on or after the date upon which this Act becomes effective, shall be determined exclusively under the provisions of that section as amended by this Act, nothing in this Act shall be interpreted to cancel, abrogate, or diminish any rights to which an individual or his or her survivors may be entitled by virtue of that individuals having contributed to the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) as amended, before the date upon which this Act becomes effective."
+Pub. L. 94–554, §6, Oct. 19, 1976, 90 Stat. 2611, provided: "That the benefits conferred by this Act shall, on the date upon which this Act becomes effective \[Jan. 1, 1977\], immediately become available to any individual then receiving an annuity under section 2 of the Act of August 3, 1956 (70 Stat. 1021) \[enacting this section\], as amended: <i>Provided</i>, That although the rights of any judicial official electing to come within the purview of section 376 of title 28, United States Code, on or after the date upon which this Act becomes effective, shall be determined exclusively under the provisions of that section as amended by this Act, nothing in this Act shall be interpreted to cancel, abrogate, or diminish any rights to which an individual or his or her survivors may be entitled by virtue of that individuals having contributed to the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) as amended, before the date upon which this Act becomes effective."
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Judicial Survivors Protection
 
@@ -612,7 +612,7 @@ Pub. L. 102–572, title II, §201(j), Oct. 29, 1992, 106 Stat. 4510, provided t
 
 Pub. L. 102–572, title II, §201(k), Oct. 29, 1992, 106 Stat. 4510, provided that: "Any judicial official as defined in section 376(a)(1) of title 28, United States Code, who makes an election under section 376(b) of title 28, United States Code, may make a redeposit, as required by section 7 of Public Law 94–554 \[set out below\] and section 2(c)(2) of Public Law 99–336 \[set out below\], to the credit of the Judicial Survivors' Annuities Fund in installments, in such amounts and under such conditions as may be determined in each instance by the Director of the Administrative Office of the United States Courts. If a judicial official elects to make a redeposit in installments—
 
-&emsp;"(1) the Director shall require that the first installment payment made shall be in an amount no smallerthan the last 18 months of salary deductions or deposits previously returned to that judicial official in a lump-sum payment; and
+&emsp;"(1) the Director shall require that the first installment payment made shall be in an amount no smaller than the last 18 months of salary deductions or deposits previously returned to that judicial official in a lump-sum payment; and
 
 &emsp;"(2) the election under section 376(b) of title 28, United States Code, shall be effective upon payment of the first such installment."
 
@@ -622,7 +622,7 @@ Pub. L. 102–572, title II, §201(l), Oct. 29, 1992, 106 Stat. 4511, required t
 
 #### Increase for Existing Annuitants
 
-Pub. L. 100–702, title X, §1017(b), Nov. 19, 1988, 102 Stat. 4670, provided that: "Each annuity payable from the Judicial Survivors' Annuities Fund under section 376 of title 28, United States Code, on the date of the enactment of this title \[Nov. 19, 1988\] shall be increased by 10 percent, effective on such date of enactment."
+Pub. L. 100–702, title X, §1017(b), Nov. 19, 1988, 102 Stat. 4670, provided that: "Each annuity payable from the Judicial Survivors' Annuities Fund under section376 of title 28, United States Code, on the date of the enactment of this title \[Nov. 19, 1988\] shall be increased by 10 percent, effective on such date of enactment."
 
 #### Survivors' Annuities for Incumbents
 
@@ -664,7 +664,7 @@ Pub. L. 96–504, §4, Dec. 5, 1980, 94 Stat. 2742, required the Secretary of th
 
 #### Judicial Survivors' Annuities Fund
 
-Pub. L. 94–554, §3, Oct. 19, 1976, 90 Stat. 2611, provided: "That on the date upon which this Act becomes effective \[Jan. 1, 1977\] there shall be established on the books of the Treasury a fund which shall be known as 'The Judicial Survivors' Annuities Fund, and all moneycredited to the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) \[enacting this section\], as amended, shall be transferred to the credit of the Judicial Survivors' Annuities Fund established by this section."
+Pub. L. 94–554, §3, Oct. 19, 1976, 90 Stat. 2611, provided: "That on the date upon which this Act becomes effective \[Jan. 1, 1977\] there shall be established on the books of the Treasury a fund which shall be known as 'The Judicial Survivors' Annuities Fund, and all money credited to the judicial survivors annuity fund established by section 2 of the Act of August 3, 1956 (70 Stat. 1021) \[enacting this section\], as amended, shall be transferred to the credit of the Judicial Survivors' Annuities Fund established by this section."
 
 #### Compensation for Actuarial Deficiency in the Annuities Fund
 
@@ -696,7 +696,7 @@ Act Aug. 3, 1956, ch. 944, §6, 70 Stat. 1026, provided that: "A judge who resig
 
 #### Prior Death of Judge
 
-Act Aug. 3, 1956, ch. 944, §7, 70 Stat. 1026, provided that: "In the case of a living widow of a judge of the United States as defined in section 451 of title 28, United States Code, who died prior to the date of enactment of this Act \[Aug. 3, 1956\], an annuity shall be paid as provided in section 376 of title 28, United States Code, as added by section 2 of this Act, as if such judge had died on such date and had elected to bring himself within the purview of such section 376, but had not made the deposit provided for by subsection (c) of the said section: <i>Provided</i>, (a) That such widow has not remarried; and (b) that the amount of such annuity and the reduction therein because of such deposit not having been made shall be computed on the basis of the actual length of judicial and other allowable service of such judge: <i>And provided further</i>, That notwithstanding the provisions of subsection (g) of such section 376 such annuity shall be payable even though such judge had not rendered five years of civilian service prior to hisdeath. In the case of a judge of the United States as defined in section 451 of title 28, United States Code, who dies within 6 months after the date of enactment of this Act after having rendered at least 5 years of civilian service computed as prescribed in subsection (o) of section 376 of title 28, United States Code, as added by section 2 of this Act, but without having made an election as provided in such section 376 to bring himself within the purview of that section, an annuity shall be paid to his widow and surviving dependent children as provided in such section 376 as if such judge had elected on the day of his death to bring himself within the purview of such section 376 but had not made the deposit provided for by subsection (c) of the said section. An annuity shall be payable under this section computed on the basis of the actual length of judicial and other allowable service of the judge and subject to the reduction required by subsection (c) of such section 376 even though no deposit has been made, as required by subsection (g) of such section 376, with respect to any of such service."
+Act Aug. 3, 1956, ch. 944, §7, 70 Stat. 1026, provided that: "In the case of a living widow of a judge of the United States as defined in section 451 of title 28, United States Code, who died prior to the date of enactment of this Act \[Aug. 3, 1956\], an annuity shall be paid as provided in section 376 of title 28, United States Code, as added by section 2 of this Act, as if such judge had died on such date and had elected to bring himself within the purview of such section 376, but had not made the deposit provided for by subsection (c) of the said section: <i>Provided</i>, (a) That such widow has not remarried; and (b) that the amount of such annuity and the reduction therein because of such deposit not having been made shall be computed on the basis of the actual length of judicial and other allowable service of such judge: <i>And provided further</i>, That notwithstanding the provisions of subsection (g) of such section 376 such annuity shall be payable even though such judge had not rendered five years of civilian service prior to his death. In the case of a judge of the United States as defined in section 451 of title 28, United States Code, who dies within 6 months after the date of enactment of this Act after having rendered at least 5 years of civilian service computed as prescribed in subsection (o) of section 376 of title 28, United States Code, as added by section 2 of this Act, but without having made an election as provided in such section 376 to bring himself within the purview of that section, an annuity shall be paid to his widow and surviving dependent children as provided in such section 376 as if such judge had elected on the day of his death to bring himself within the purview of such section 376 but had not made the deposit provided for by subsection (c) of the said section. An annuity shall be payable under this section computed on the basis of the actual length of judicial and other allowable service of the judge and subject to the reduction required by subsection (c) of such section 376 even though no deposit has been made, as required by subsection (g) of such section 376, with respect to any of such service."
 
 <i><sup>1</sup></i><i> So in original. Comma probably should be a semicolon.</i>
 

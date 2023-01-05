@@ -38,7 +38,7 @@ For purposes of this chapter:
 
 #### (7) Financial institution
 
-&emsp;The term "financial institution" means an insured depository institution as defined insection 1813 of this title or an insured credit union as defined in section 1752 of this title.
+&emsp;The term "financial institution" means an insured depository institution as defined in section 1813 of this title or an insured credit union as defined in section 1752 of this title.
 
 #### (8) Chairperson
 
@@ -80,5 +80,5 @@ Par. (11). Pub. L. 111–203, §1473(f)(4), added par. (11).
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months afterthe designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 

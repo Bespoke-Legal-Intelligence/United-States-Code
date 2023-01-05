@@ -106,7 +106,7 @@ Exceptions.—The nondisclosure obligation under clause (i) shall not apply to t
 
 Release of covered transaction information.—The Comptroller General shall release a nonredacted version of any report regarding covered transactions upon the release of the information regarding such covered transactions by the Board of Governors of the Federal Reserve System, as provided in section 11(s) of the Federal Reserve Act.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 890; Pub. L. 101–73, title III, §307(c), Aug. 9, 1989, 103 Stat.353; Pub. L. 104–316, title I, §115(a), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–22, div. A, title VIII, §801, May 20, 2009, 123 Stat. 1662; Pub. L. 111–203, title III, §378(2), title XI, §1102, July 21, 2010, 124 Stat. 1570, 2115.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 890; Pub. L. 101–73, title III, §307(c), Aug. 9, 1989, 103 Stat. 353; Pub. L. 104–316, title I, §115(a), Oct. 19, 1996, 110 Stat. 3834; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–22, div. A, title VIII, §801, May 20, 2009, 123 Stat. 1662; Pub. L. 111–203, title III, §378(2), title XI, §1102, July 21, 2010, 124 Stat. 1570, 2115.)
 
 Historical and Revision Notes
 
@@ -192,7 +192,7 @@ Subsec. (e). Pub. L. 111–22, §801(d), added subsec. (e).
 
 <b>2004</b>—Subsec. (c)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–316 struck out at end of par. (1) "An agency shall give the Comptroller General suitable and lockable offices and furniture, telephones, and access to copying facilities." and amended par. (2) generally. Prior to amendment, par. (2) read as follows:"Except for the temporary removal of workpapers of the Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an agency that the Comptroller General possesses during an audit, shall remain in the agency. The Comptroller General shall prevent unauthorized access to records or property."
+<b>1996</b>—Subsec. (d). Pub. L. 104–316 struck out at end of par. (1) "An agency shall give the Comptroller General suitable and lockable offices and furniture, telephones, and access to copying facilities." and amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Except for the temporary removal of workpapers of the Comptroller General that do not identify a customer of an open or closed bank or bank holding company, an open bank, or an open bank holding company, all workpapers of the Comptroller General and records and property of or used by an agency that the Comptroller General possesses during an audit, shall remainin the agency. The Comptroller General shall prevent unauthorized access to records or property."
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–73 inserted reference to Office of Thrift Supervision.
 

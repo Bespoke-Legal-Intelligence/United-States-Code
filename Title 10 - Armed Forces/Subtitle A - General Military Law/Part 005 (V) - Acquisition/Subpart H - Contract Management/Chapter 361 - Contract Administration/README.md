@@ -46,7 +46,7 @@ Covered Contracts.—This section covers any contract or group of contracts betw
 
 &emsp;&emsp;"(A) the records have been destroyed or lost; or
 
-&emsp;&emsp;"(B) the records are available but the Secretary of Defense has determined that the time or effort required to determine the exact amount owed to the United States Government or amount owed to the contractor is disproportionate to the amount at issue.
+&emsp;&emsp;"(B) the records are available but the Secretary of Defense has determined that the time or effortrequired to determine the exact amount owed to the United States Government or amount owed to the contractor is disproportionate to the amount at issue.
 
 "(c)
 
@@ -108,6 +108,8 @@ Disclosure.—The Secretary shall publicly disclose any decision by the Departme
 
 Report.—Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary shall submit to the committees on Armed Services of the Senate and the House of Representatives a report on the actions taken in accordance with the requirements of subsection (a)."
 
+\[Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.\]
+
 #### Linking of Award and Incentive Fees to Acquisition Outcomes
 
 Pub. L. 111–84, div. A, title VIII, §823, Oct. 28, 2009, 123 Stat. 2412, as amended by Pub. L. 111–383, div. A, title VIII, §834(a)–(c), Jan. 7, 2011, 124 Stat. 4278, 4279, provided that:
@@ -142,7 +144,7 @@ List of Dispositions in Criminal, Civil, or Administrative Proceedings.—For pu
 
 &emsp;&emsp;"(B) the payment of a reimbursement, restitution, or damages in excess of $100,000.
 
-&emsp;"(4) To the maximum extent practicable and consistent with applicable laws and regulations, in a criminal, civil, or administrative proceeding, a disposition of the matter by consent or compromise with an acknowledgment of fault by the person if the proceeding could have led to any of the outcomes specified in paragraph (1), (2), or (3).
+&emsp;"(4) To the maximum extent practicable and consistent with applicable laws and regulations, in acriminal, civil, or administrative proceeding, a disposition of the matter by consent or compromise with an acknowledgment of fault by the person if the proceeding could have led to any of the outcomes specified in paragraph (1), (2), or (3).
 
 &emsp;"(5) In an administrative proceeding, a final determination of contractor fault by the Secretary of Defense pursuant to subsection (d).
 
@@ -248,7 +250,7 @@ Report.—The Secretary shall submit to the congressional defense committees \[C
 
 #### Payment Protections for Subcontractors and Suppliers
 
-Pub. L. 102–190, div. A, title VIII, §806, Dec. 5, 1991, 105 Stat. 1417, as amended by Pub. L. 102–484, div. A, title X, §1053(5), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–355, title II, §2091, title VIII, §8105(k), Oct. 13, 1994, 108 Stat. 3306, 3393; Pub. L. 113–291, div. A, title X, §1071(b)(15), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–232, div. A, title VIII, §836(f)(1), Aug. 13, 2018, 132 Stat. 1870, provided that:
+Pub. L. 102–190, div. A, title VIII, §806, Dec. 5, 1991, 105 Stat. 1417, as amended by Pub. L. 102–484, div. A, title X, §1053(5), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–355, title II, §2091, title VIII, §8105(k), Oct. 13, 1994, 108 Stat. 3306, 3393; Pub. L. 113–291, div. A, title X, §1071(b)(15), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–232, div. A, titleVIII, §836(f)(1), Aug. 13, 2018, 132 Stat. 1870, provided that:
 
 "(a)
 
@@ -256,7 +258,7 @@ Regulations.—The Secretary of Defense shall prescribe in regulations the follo
 
 &emsp;"(1)
 
-Information provided by department of defense relating to payment.—(A) Subject to section 552(b)(1) of title 5, United States Code, upon the request of a subcontractor or supplier of a contractor performing a Department of Defense contract, theDepartment of Defense shall promptly make available to such subcontractor or supplier the following information:
+Information provided by department of defense relating to payment.—(A) Subject to section 552(b)(1) of title 5, United States Code, upon the request of a subcontractor or supplier of a contractor performing a Department of Defense contract, the Department of Defense shall promptly make available to such subcontractor or supplier the following information:
 
 &emsp;&emsp;"(i) Whether requests for progress payments or other payments have been submitted by the contractor to the Department of Defense in connection with that contract.
 
@@ -340,7 +342,7 @@ GAO Report.—(1) The Comptroller General of the United States shall conduct an 
 
 &emsp;&emsp;&emsp;"(I) include in its subcontracts a payment term requiring payment within 7 days (or some other fixed term) after receiving payment from the Government; and
 
-&emsp;&emsp;&emsp;"(II) submit with its payment request to the Government a certification that it has timely paid its subcontractors in accordance with their subcontracts from funds previously received asprogress payments and will timely make required payments to such subcontractors from the proceeds of the progress payment covered by the certification;
+&emsp;&emsp;&emsp;"(II) submit with its payment request to the Government a certification that it has timely paid its subcontractors in accordance with their subcontracts from funds previously received as progress payments and will timely make required payments to such subcontractors from the proceeds of the progress payment covered by the certification;
 
 &emsp;&emsp;"(iii) evaluating the feasibility and desirability of requiring that all prime contractors (other than a construction prime contractor subject to the provisions of sections 3903(b) and 3905 of title 31, United States Code) furnish with its payment request to the Government proof of payment of the amounts included in such payment request for payments made to subcontractors and suppliers;
 

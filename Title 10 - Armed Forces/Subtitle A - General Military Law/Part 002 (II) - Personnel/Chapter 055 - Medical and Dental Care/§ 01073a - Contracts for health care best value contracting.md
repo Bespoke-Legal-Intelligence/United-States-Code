@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—Under regulations prescribed by the administering Secretaries, health care contracts shall be awarded in the administration of this chapter to the offeror or offerors that will provide the best value to the United States to the maximum extent consistent with furnishing high-quality health care in a manner that protects the fiscal and other interests of the United States.
+Authority.—Under regulations prescribed by the administering Secretaries, health carecontracts shall be awarded in the administration of this chapter to the offeror or offerors that will provide the best value to the United States to the maximum extent consistent with furnishing high-quality health care in a manner that protects the fiscal and other interests of the United States.
 
 (b)
 
@@ -250,7 +250,7 @@ Elements.—The report required by paragraph (1) shall include an assessment of 
 
 &emsp;&emsp;&emsp;"(ix) the use of financial incentives for contractors and health care providers to receive an equitable share in cost savings resulting from improvements in health outcomes and the experience of care for covered beneficiaries.
 
-&emsp;&emsp;"(C) Whether the Department has considered, in developing requirements for managed care supportcontracts under the TRICARE program, the following:
+&emsp;&emsp;"(C) Whether the Department has considered, in developing requirements for managed care support contracts under the TRICARE program, the following:
 
 &emsp;&emsp;&emsp;"(i) The unique characteristics of providing health care services in Alaska, Hawaii, and the territories and possessions of the United States, and in rural, remote, or isolated locations in the contiguous 48 States;
 

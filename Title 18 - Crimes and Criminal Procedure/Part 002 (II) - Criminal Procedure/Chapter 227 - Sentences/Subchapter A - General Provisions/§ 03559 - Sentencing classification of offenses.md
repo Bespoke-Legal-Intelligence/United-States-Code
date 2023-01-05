@@ -52,7 +52,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;(C) the term "extortion" means an offense that has as its elements the extraction of anything of value from another person by threatening or placing that person in fear of injury to any person or kidnapping of any person;
 
-&emsp;&emsp;(D) the term "firearms use" means an offense that has as its elements those described in section 924(c) or 929(a), if the firearm was brandished, discharged, or otherwise used as a weapon and the crime of violence or drug trafficking crime during and relation to which the firearm was used was subject to prosecution in a court of the United States or a court of a State, or both;
+&emsp;&emsp;(D) the term "firearms use" means an offense that has as its elements those described in section 924(c) or 929(a), if the firearm was brandished, discharged, or otherwise used as a weapon and the crime of violence or drug trafficking crime during and relation to which the firearm was used wassubject to prosecution in a court of the United States or a court of a State, or both;
 
 &emsp;&emsp;(E) the term "kidnapping" means an offense that has as its elements the abduction, restraining, confining, or carrying away of another person by force or threat of force;
 
@@ -164,7 +164,7 @@ Nonqualifying Felonies.—An offense described in section 2422(b) or 2423(a) sha
 
 Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—A person who is convicted of a Federal offense that is a crime of violence against the person of an individual who has not attained the age of 18 years shall, unless a greater mandatory minimum sentence of imprisonment is otherwise provided by law and regardless of any maximum term of imprisonment otherwise provided for the offense—
 
-&emsp;(1) if the crime of violence is murder, be imprisoned for life or for any term of years notless than 30, except that such person shall be punished by death or life imprisonment if the circumstances satisfy any of subparagraphs (A) through (D) of section 3591(a)(2) of this title;
+&emsp;(1) if the crime of violence is murder, be imprisoned for life or for any term of years not less than 30, except that such person shall be punished by death or life imprisonment if the circumstances satisfy any of subparagraphs (A) through (D) of section 3591(a)(2) of this title;
 
 &emsp;(2) if the crime of violence is kidnapping (as defined in section 1201) or maiming (as defined in section 114), be imprisoned for life or any term of years not less than 25; and
 

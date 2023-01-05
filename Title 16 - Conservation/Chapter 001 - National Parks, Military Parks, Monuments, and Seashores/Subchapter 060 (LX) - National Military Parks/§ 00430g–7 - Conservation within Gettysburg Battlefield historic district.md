@@ -22,7 +22,7 @@ The Secretary, upon recommendation from the Director of the National Park Servic
 
 #### (f) Federal consistency
 
-(1) Any Federal or federally assisted activity or undertaking in the historic district, shall be consistent to the maximum extent possible with the purposes of the preservation of the historic district, including its rural, agricultural, and town elements, and shall also comply with the National Historic Preservation Act <sup>1</sup> and other applicable laws.
+(1) Any Federal or federally assisted activity or undertaking in the historic district, shall be consistent to the maximum extent possible with the purposes of the preservation of the historic district, including its rural, agricultural, and town elements, and shall also comply with theNational Historic Preservation Act <sup>1</sup> and other applicable laws.
 
 (2) The head of any Federal agency (hereafter in this subsection referred to as the "agency") having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking in the historic district, and the head of any Federal agency having authority to license or permit any undertaking in such area, shall at the earliest feasible date prepare a detailed analysis of any proposed action and submit it to the Secretary.
 

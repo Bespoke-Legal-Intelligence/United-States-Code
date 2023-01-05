@@ -6,7 +6,7 @@
 
 &emsp;Subject to paragraph (2), the loan rate for a marketing assistance loan under section 7231 of this title for wheat shall be—
 
-&emsp;&emsp;(A) not less than 85 percent of the simple average price received by producers of wheat, as determined by the Secretary, during the marketing years for the immediately preceding 5 crops of wheat, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
+&emsp;&emsp;(A) not less than 85 percent of the simple average price received by producers ofwheat, as determined by the Secretary, during the marketing years for the immediately preceding 5 crops of wheat, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
 
 &emsp;&emsp;(B) not more than $2.58 per bushel.
 

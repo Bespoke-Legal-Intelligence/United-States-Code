@@ -142,7 +142,7 @@ Disapproval.—The Secretary shall disapprove a tribal energy resource agreement
 
 &emsp;&emsp;&emsp;&emsp;(aa) carried out a contract or compact under title I or IV of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.) for a period of not less than 3 consecutive years ending on the date on which the Indian tribe submits the application without material audit exception (or without any material audit exceptions that were not corrected within the 3-year period) relating to the management of tribal land or natural resources; or
 
-&emsp;&emsp;&emsp;&emsp;(bb) substantial experience in the administration, review, or evaluation ofenergy resource leases or agreements or has otherwise substantially participated in the administration, management, or development of energy resources located on the tribal land of the Indian tribe; and
+&emsp;&emsp;&emsp;&emsp;(bb) substantial experience in the administration, review, or evaluation of energy resource leases or agreements or has otherwise substantially participated in the administration, management, or development of energy resources located on the tribal land of the Indian tribe; and
 
 &emsp;&emsp;&emsp;(XIII) at the option of the Indian tribe, identify which functions, if any, authorizing any operational or development activities pursuant to a lease, right-of-way, or business agreement approved by the Indian tribe, that the Indian tribe intends to conduct.
 
@@ -168,7 +168,7 @@ Disapproval.—The Secretary shall disapprove a tribal energy resource agreement
 
 &emsp;&emsp;(i) provisions requiring the Secretary to conduct a periodic review and evaluation to monitor the performance of the activities of the Indian tribe associated with the development of energy resources under the tribal energy resource agreement; and
 
-&emsp;&emsp;(ii) if a periodic review and evaluation, or an investigation, by the Secretary of any breach or violation described in a notice provided by the Indian tribe to the Secretary in accordance with subparagraph (B)(iv)(XI),<sup>1</sup> results in a finding by the Secretary of imminent jeopardy to a physical trust asset arising from a violation of the tribal energy resource agreement or applicable Federal laws, provisions authorizing the Secretary to take actions determined by the Secretary to be necessary to protect the asset, including reassumption of responsibility for activities associated with the development of energy resources on tribal land until the violation and any condition that caused the jeopardy are corrected.
+&emsp;&emsp;(ii) if a periodic review and evaluation, or an investigation, by the Secretary of any breach or violation described in a notice provided by the Indian tribe to the Secretary in accordance with subparagraph (B)(iv)(XI),<sup>1</sup> results in a finding by the Secretary of imminent jeopardy to a physical trust assetarising from a violation of the tribal energy resource agreement or applicable Federal laws, provisions authorizing the Secretary to take actions determined by the Secretary to be necessary to protect the asset, including reassumption of responsibility for activities associated with the development of energy resources on tribal land until the violation and any condition that caused the jeopardy are corrected.
 
 &emsp;(E) Periodic review and evaluation under subparagraph (D) shall be conducted on an annual basis, except that, after the third annual review and evaluation, the Secretary and the Indian tribe may mutually agree to amend the tribal energy resource agreement to authorize the review and evaluation under subparagraph (D) to be conducted once every 2 years.
 
@@ -202,7 +202,7 @@ Provision of documents to secretary.—If an Indian tribe executes a lease or bu
 
 &emsp;(A) a copy of the lease, business agreement, or right-of-way document (including all amendments to and renewals of the document); and
 
-&emsp;(B) in the case of a tribal energy resource agreement or a lease, business agreement, or right-of-way that permits payments to bemade directly to the Indian tribe, information and documentation of those payments sufficient to enable the Secretary to discharge the trust responsibility of the United States to enforce the terms of, and protect the rights of the Indian tribe under, the lease, business agreement, or right-of-way.
+&emsp;(B) in the case of a tribal energy resource agreement or a lease, business agreement, or right-of-way that permits payments to be made directly to the Indian tribe, information and documentation of those payments sufficient to enable the Secretary to discharge the trust responsibility of the United States to enforce the terms of, and protect the rights of the Indian tribe under, the lease, business agreement, or right-of-way.
 
 (6)
 
@@ -264,7 +264,7 @@ Petitions by interested parties.—
 
 &emsp;(iii) Subject to subparagraph (E), if the Secretary determines that the Indian tribe is not in compliance with the tribal energy resource agreement pursuant to clause (i), the Secretary shall only take such action as the Secretary determines necessary to address the claims of noncompliance made in the petition, including—
 
-&emsp;&emsp;(I) temporarily suspending any activity under a lease, business agreement, or right-of-way under this section until the Indiantribe is in compliance with the tribal energy resource agreement; or
+&emsp;&emsp;(I) temporarily suspending any activity under a lease, business agreement, or right-of-way under this section until the Indian tribe is in compliance with the tribal energy resource agreement; or
 
 &emsp;&emsp;(II) rescinding all or part of the tribal energy resource agreement, and if all of the agreement is rescinded, reassuming the responsibility for approval of any future leases, business agreements, or rights-of-way described in subsection (a)(2)(A)(i) or (b)(2)(A).
 
@@ -346,7 +346,7 @@ Nothing in this section affects the application of—
 
 #### (1) In general
 
-&emsp;Not later than 90 days after the date on which an Indian tribe submits an applicationfor certification of a tribal energy development organization in accordance with regulations promulgated under section 103(b) of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017, the Secretary shall approve or disapprove the application.
+&emsp;Not later than 90 days after the date on which an Indian tribe submits an application for certification of a tribal energy development organization in accordance with regulations promulgated under section 103(b) of the Indian Tribal Energy Development and Self-Determination Act Amendments of 2017, the Secretary shall approve or disapprove the application.
 
 #### (2) Requirements
 
@@ -378,7 +378,7 @@ Nothing in this section affects the application of—
 
 &emsp;&emsp;&emsp;(i) the tribal energy development organization is organized under the laws of the Indian tribe and subject to the jurisdiction, laws, and authority of the Indian tribe;
 
-&emsp;&emsp;&emsp;(ii) the majority of the interest in the tribal energy development organization is owned and controlled by the Indian tribe (or the Indian tribe and one or more other Indian tribes) the tribal land of which is being developed;
+&emsp;&emsp;&emsp;(ii) the majority of the interest in the tribal energy development organization is owned and controlled by the Indian tribe\(or the Indian tribe and one or more other Indian tribes) the tribal land of which is being developed;
 
 &emsp;&emsp;&emsp;(iii) the organizing document of the tribal energy development organization requires that the Indian tribe with jurisdiction over the land maintain at all times the controlling interest in the tribal energy development organization;
 
@@ -406,7 +406,7 @@ There are authorized to be appropriated to the Secretary such sums as are necess
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (e)(2)(B)(iii)(XII)(aa) and (h)(2)(A)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Titles I and IV of the Act are classified principally to subchapter I (§5321 et seq.) and generally to subchapter IV (§5361 et seq.), respectively, of chapter 46 of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under section 5301 of this title and Tables.
 
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (f)(2), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (f)(2), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
 The Indian Mineral Development Act of 1982, referred to in subsec. (f)(3), is Pub. L. 97–382, Dec. 22, 1982, 96 Stat. 1938, which is classified generally to chapter 23 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 

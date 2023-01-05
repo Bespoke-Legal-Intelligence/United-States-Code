@@ -42,7 +42,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "corrective action" has the meaning given that term under section 3004(u) of the Solid Waste Disposal Act (42 U.S.C. 6924(u)).
 
-&emsp;(4) The term "polychlorinated biphenyls" has the meaning given that term under section 6(e) of the Toxic Substances Control Act (15 U.S.C. 2605(e)).
+&emsp;(4) The term "polychlorinated biphenyls" has the meaning given that term under section6(e) of the Toxic Substances Control Act (15 U.S.C. 2605(e)).
 
 (e)
 

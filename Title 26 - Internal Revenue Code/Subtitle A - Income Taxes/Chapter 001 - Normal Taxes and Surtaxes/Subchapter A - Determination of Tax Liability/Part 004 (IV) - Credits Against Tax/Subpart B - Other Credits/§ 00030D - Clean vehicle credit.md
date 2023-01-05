@@ -1,0 +1,574 @@
+### §30D. Clean vehicle credit
+
+#### (a) Allowance of credit
+
+There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each new clean vehicle placed in service by the taxpayer during the taxable year.
+
+#### (b) Per vehicle dollar limitation
+
+#### (1) In general
+
+&emsp;The amount determined under this subsection with respect to any new clean vehicle is the sum of the amounts determined under paragraphs (2) and (3) with respect to such vehicle.
+
+#### (2) Base amount
+
+&emsp;The amount determined under this paragraph is $2,500.
+
+#### (3) Battery capacity
+
+&emsp;In the case of a vehicle which draws propulsion energy from a battery with not less than 5 kilowatt hours of capacity, the amount determined under this paragraph is $417, plus $417 for each kilowatt hour of capacity in excess of 5 kilowatt hours. The amount determined under this paragraph shall not exceed $5,000.
+
+#### (c) Application with other credits
+
+#### (1) Business credit treated as part of general business credit
+
+&emsp;So much of the credit which would be allowed under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to property of a character subject to an allowance for depreciation shall be treated as a credit listed in section 38(b) for such taxable year (and not allowed under subsection (a)).
+
+#### (2) Personal credit
+
+&emsp;For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
+
+#### (d) New clean vehicle
+
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;The term "new clean vehicle" means a motor vehicle—
+
+&emsp;&emsp;(A) the original use of which commences with the taxpayer,
+
+&emsp;&emsp;(B) which is acquired for use or lease by the taxpayer and not for resale,
+
+&emsp;&emsp;(C) which is made by a qualified manufacturer,
+
+&emsp;&emsp;(D) which is treated as a motor vehicle for purposes of title II of the Clean Air Act,
+
+&emsp;&emsp;(E) which has a gross vehicle weight rating of less than 14,000 pounds,
+
+&emsp;&emsp;(F) which is propelled to a significant extent by an electric motor which draws electricity from a battery which—
+
+&emsp;&emsp;&emsp;(i) has a capacity of not less than 7 kilowatt hours, and
+
+&emsp;&emsp;&emsp;(ii) is capable of being recharged from an external source of electricity,
+
+&emsp;&emsp;(G) the final assembly of which occurs within North America, and
+
+&emsp;&emsp;(H) for which the person who sells any vehicle to the taxpayer furnishes a report to the taxpayer and to the Secretary, at such time and in such manner as the Secretary shall provide, containing—
+
+&emsp;&emsp;&emsp;(i) the name and taxpayer identification number of the taxpayer,
+
+&emsp;&emsp;&emsp;(ii) the vehicle identification number of the vehicle, unless, in accordance with any applicable rules promulgated by the Secretary of Transportation, the vehicle is not assigned such a number,
+
+&emsp;&emsp;&emsp;(iii) the battery capacity of the vehicle,
+
+&emsp;&emsp;&emsp;(iv) verification that original use of the vehicle commences with the taxpayer, and
+
+&emsp;&emsp;&emsp;(v) the maximum credit under this section allowable to the taxpayer with respect to the vehicle.
+
+#### (2) Motor vehicle
+
+&emsp;The term "motor vehicle" means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
+
+#### (3) Qualified manufacturer
+
+&emsp;The term "qualified manufacturer" means any manufacturer (within the meaning of the regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act (42 U.S.C. 7521 et seq.)) which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require.
+
+#### (4) Battery capacity
+
+&emsp;The term "capacity" means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge.
+
+#### (5) Final assembly
+
+&emsp;For purposes of paragraph (1)(G), the term "final assembly" means the process by which a manufacturer produces a new clean vehicle at, or through the use of, a plant, factory, or other place from which the vehicle is delivered to a dealer or importer with all component parts necessary for the mechanical operation of the vehicle included with the vehicle, whether or not the component parts are permanently installed in or on the vehicle.
+
+#### (6) New qualified fuel cell motor vehicle
+
+&emsp;For purposes of this section, the term "new clean vehicle" shall include any new qualified fuel cell motor vehicle (as defined in section 30B(b)(3)) which meets the requirements under subparagraphs (G) and (H) of paragraph (1).
+
+#### (f) Special rules
+
+#### (1) Basis reduction
+
+&emsp;For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (c)).
+
+#### (2) No double benefit
+
+&emsp;The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c)).
+
+#### (3) Property used by tax-exempt entity
+
+&emsp;In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
+
+#### (4) Property used outside United States not qualified
+
+&emsp;No credit shall be allowable under subsection (a) with respect to any property referred to in section 50(b)(1).
+
+#### (5) Recapture
+
+&emsp;The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit.
+
+#### (6) Election not to take credit
+
+&emsp;No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects to not have this section apply to such vehicle.
+
+#### (7) Interaction with air quality and motor vehicle safety standards
+
+&emsp;A vehicle shall not be considered eligible for a credit under this section unless such vehicle is in compliance with—
+
+&emsp;&emsp;(A) the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and
+
+&emsp;&emsp;(B) the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.
+
+#### (8) One credit per vehicle
+
+&emsp;In the case of any vehicle, the credit described in subsection (a) shall only be allowed once with respect to such vehicle, as determined based upon the vehicle identification number of such vehicle.
+
+#### (9) VIN requirement
+
+&emsp;No credit shall be allowed under this section with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year.
+
+#### (10) Limitation based on modified adjusted gross income
+
+#### (A) In general
+
+&emsp;&emsp;No credit shall be allowed under subsection (a) for any taxable year if—
+
+&emsp;&emsp;&emsp;(i) the lesser of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the modified adjusted gross income of the taxpayer for such taxable year, or
+
+&emsp;&emsp;&emsp;&emsp;(II) the modified adjusted gross income of the taxpayer for the preceding taxable year, exceeds
+
+&emsp;&emsp;&emsp;(ii) the threshold amount.
+
+#### (B) Threshold amount
+
+&emsp;&emsp;For purposes of subparagraph (A)(ii), the threshold amount shall be—
+
+&emsp;&emsp;&emsp;(i) in the case of a joint return or a surviving spouse (as defined in section 2(a)), $300,000,
+
+&emsp;&emsp;&emsp;(ii) in the case of a head of household (as defined in section 2(b)), $225,000, and
+
+&emsp;&emsp;&emsp;(iii) in the case of a taxpayer not described in clause (i) or (ii), $150,000.
+
+#### (C) Modified adjusted gross income
+
+&emsp;&emsp;For purposes of this paragraph, the term "modified adjusted gross income" means adjusted gross income increased by any amount excluded from gross income under section 911, 931, or 933.
+
+#### (11) Manufacturer's suggested retail price limitation
+
+#### (A) In general
+
+&emsp;&emsp;No credit shall be allowed under subsection (a) for a vehicle with a manufacturer's suggested retail price in excess of the applicable limitation.
+
+#### (B) Applicable limitation
+
+&emsp;&emsp;For purposes of subparagraph (A), the applicable limitation for each vehicle classification is as follows:
+
+#### (i) Vans
+
+&emsp;&emsp;&emsp;In the case of a van, $80,000.
+
+#### (ii) Sport utility vehicles
+
+&emsp;&emsp;&emsp;In the case of a sport utility vehicle, $80,000.
+
+#### (iii) Pickup trucks
+
+&emsp;&emsp;&emsp;In the case of a pickup truck, $80,000.
+
+#### (iv) Other
+
+&emsp;&emsp;&emsp;In the case of any other vehicle, $55,000.
+
+#### (C) Regulations and guidance
+
+&emsp;&emsp;For purposes of this paragraph, the Secretary shall prescribe such regulations or other guidance as the Secretary determines necessary for determining vehicle classifications using criteria similar to that employed by the Environmental Protection Agency and the Department of the Energy to determine size and class of vehicles.
+
+#### (g) Credit allowed for 2- and 3-wheeled plug-in electric vehicles
+
+#### (1) In general
+
+&emsp;In the case of a qualified 2- or 3-wheeled plug-in electric vehicle—
+
+&emsp;&emsp;(A) there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the applicable amount with respect to each such qualified 2- or 3-wheeled plug-in electric vehicle placed in service by the taxpayer during the taxable year, and
+
+&emsp;&emsp;(B) the amount of the credit allowed under subparagraph (A) shall be treated as a credit allowed under subsection (a).
+
+#### (2) Applicable amount
+
+&emsp;For purposes of paragraph (1), the applicable amount is an amount equal to the lesser of—
+
+&emsp;&emsp;(A) 10 percent of the cost of the qualified 2- or 3-wheeled plug-in electric vehicle, or
+
+&emsp;&emsp;(B) $2,500.
+
+#### (3) Qualified 2- or 3-wheeled plug-in electric vehicle
+
+&emsp;The term "qualified 2- or 3-wheeled plug-in electric vehicle" means any vehicle which—
+
+&emsp;&emsp;(A) has 2 or 3 wheels,
+
+&emsp;&emsp;(B) meets the requirements of subparagraphs (A), (B), (C), (E), and (F) of subsection (d)(1) (determined by substituting "2.5 kilowatt hours" for "4 kilowatt hours" in subparagraph (F)(i)),
+
+&emsp;&emsp;(C) is manufactured primarily for use on public streets, roads, and highways,
+
+&emsp;&emsp;(D) is capable of achieving a speed of 45 miles per hour or greater, and
+
+&emsp;&emsp;(E) is acquired—
+
+&emsp;&emsp;&emsp;(i) after December 31, 2011, and before January 1, 2014, or
+
+&emsp;&emsp;&emsp;(ii) in the case of a vehicle that has 2 wheels, after December 31, 2014, and before January 1, 2022.
+
+#### (h) Termination
+
+No credit shall be allowed under this section with respect to any vehicle placed in service after December 31, 2032.
+
+(Added Pub. L. 110–343, div. B, title II, §205(a), Oct. 3, 2008, 122 Stat. 3835; amended Pub. L. 111–5, div. B, title I, §1141(a), Feb. 17, 2009, 123 Stat. 326; Pub. L. 111–148, title X, §10909(b)(2)(H), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(I), title IV, §403(a), (b), Jan. 2, 2013, 126 Stat. 2322, 2337, 2338; Pub. L. 113–295, div. A, title II, §209(e), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–113, div. Q, title I, §183(a), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40405(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–94, div. Q, title I, §126(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §144(a), Dec. 27, 2020, 134 Stat. 3054; Pub. L. 117–169, title I, §13401(a)–(i)(1), Aug. 16, 2022, 136 Stat. 1954–1961.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–169, title I, §13401(a), (e), (k)(3), Aug. 16, 2022, 136 Stat. 1954, 1956, 1961, provided that, applicable to vehicles placed in service after the date on which the proposed guidance described in subsection (e)(3)(B) of this section, set out below, is issued by the Secretary of the Treasury (or the Secretary's delegate), this section is amended as follows:</i>
+
+<i>(1) in subsection (b), by striking paragraphs (2) and (3) and inserting the following:</i>
+
+#### <i>"(2) Critical minerals</i>
+
+&emsp;<i>"In the case of a vehicle with respect to which the requirement described in subsection (e)(1)(A) is satisfied, the amount determined under this paragraph is $3,750.</i>
+
+#### <i>"(3) Battery components</i>
+
+&emsp;<i>"In the case of a vehicle with respect to which the requirement described in subsection (e)(2)(A)</i><i>is satisfied, the amount determined under this paragraph is $3,750.";</i>
+
+<i>(2) in subsection (d), by adding at the end the following:</i>
+
+#### <i>"(7) Excluded entities</i>
+
+&emsp;<i>"For purposes of this section, the term 'new clean vehicle' shall not include—</i>
+
+&emsp;&emsp;<i>"(A) any vehicle placed in service after December 31, 2024, with respect to which any of the applicable critical minerals contained in the battery of such vehicle (as described in subsection (e)(1)(A)) were extracted, processed, or recycled by a foreign entity of concern (as defined in section 40207(a)(5) of the Infrastructure Investment and Jobs Act (42 U.S.C. 18741(a)(5))), or</i>
+
+&emsp;&emsp;<i>"(B) any vehicle placed in service after December 31, 2023, with respect to which any of the components contained in the battery of such vehicle (as described in subsection (e)(2)(A)) were manufactured or assembled by a foreign entity of concern (as so defined)."; and</i>
+
+<i>(3) by inserting after subsection (d) the following:</i>
+
+#### <i>"(e) Critical mineral and battery component requirements</i>
+
+#### <i>"(1) Critical minerals requirement</i>
+
+#### <i>"(A) In general</i>
+
+&emsp;&emsp;<i>"The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the applicable critical minerals (as defined in section 45X(c)(6)) contained in such battery that were—</i>
+
+&emsp;&emsp;&emsp;<i>"(i) extracted or processed—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(I) in the United States, or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(II) in any country with which the United States has a free trade agreement in effect, or</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) recycled in North America,</i>
+
+> &emsp;&emsp;<i>is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).</i>
+
+#### <i>"(B) Applicable percentage</i>
+
+&emsp;&emsp;<i>"For purposes of subparagraph (A), the applicable percentage shall be—</i>
+
+&emsp;&emsp;&emsp;<i>"(i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 40 percent,</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) in the case of a vehicle placed in service during calendar year 2024, 50 percent,</i>
+
+&emsp;&emsp;&emsp;<i>"(iii) in the case of a vehicle placed in service during calendar year 2025, 60 percent,</i>
+
+&emsp;&emsp;&emsp;<i>"(iv) in the case of a vehicle placed in service during calendar year 2026, 70 percent, and</i>
+
+&emsp;&emsp;&emsp;<i>"(v) in the case of a vehicle placed in service after December 31, 2026, 80 percent.</i>
+
+#### <i>"(2) Battery components</i>
+
+#### <i>"(A) In general</i>
+
+&emsp;&emsp;<i>"The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the components contained in such battery that were manufactured or assembled in North America is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).</i>
+
+#### <i>"(B) Applicable percentage</i>
+
+&emsp;&emsp;<i>"For purposes of subparagraph (A), the applicable percentage shall be—</i>
+
+&emsp;&emsp;&emsp;<i>"(i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 50 percent,</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) in the case of a vehicle placed in service during calendar year 2024 or 2025, 60 percent,</i>
+
+&emsp;&emsp;&emsp;<i>"(iii) in the case of a vehicle placed in service during calendar year 2026, 70 percent,</i>
+
+&emsp;&emsp;&emsp;<i>"(iv) in the case of a vehicle placed in service during calendar year 2027, 80 percent,</i>
+
+&emsp;&emsp;&emsp;<i>"(v) in the case of a vehicle placed in service during calendar year 2028, 90 percent,</i>
+
+&emsp;&emsp;&emsp;<i>"(vi) in the case of a vehicle placed in service after December 31, 2028, 100 percent.</i>
+
+#### <i>"(3) Regulations and guidance</i>
+
+#### <i>"(A) In general</i>
+
+&emsp;&emsp;<i>"The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.</i>
+
+#### <i>"(B) Deadline for proposed guidance</i>
+
+&emsp;&emsp;<i>"Not later than December 31, 2022, the Secretary shall issue proposed guidance with respect to the requirements under this subsection."</i>
+
+<i>See 2022 Amendment notes below.</i>
+
+<i>Pub. L. 117–169, title I, §13401(g), (k)(4), Aug. 16, 2022, 136 Stat. 1958, 1962, provided that, applicable to vehicles placed in service after Dec. 31, 2023, this section is amended as follows:</i>
+
+<i>(1) in subsection (d)(1)(H), by striking "and" at the end of clause (iv), striking the period at the end of clause (v) and inserting ", and", and adding at the end the following:</i>
+
+&emsp;&emsp;&emsp;<i>"(vi) in the case of a taxpayer who makes an election under subsection (g)(1), any amount described in subsection (g)(2)(C) which has been provided to such taxpayer.";</i>
+
+<i>(2) in subsection (f):</i>
+
+<i>(A) by striking paragraph (3); and</i>
+
+<i>(B) in paragraph (8), by inserting ", including any vehicle with respect to which the taxpayer elects the application of subsection (g)" before the period at the end; and</i>
+
+<i>(3) by striking subsection (g) and inserting the following:</i>
+
+#### <i>"(g) Transfer of credit</i>
+
+#### <i>"(1) In general</i>
+
+&emsp;<i>"Subject to such regulations or other guidance as the Secretary determines necessary, if the taxpayer who acquires a new clean vehicle elects the</i><i>application of this subsection with respect to such vehicle, the credit which would (but for this subsection) be allowed to such taxpayer with respect to such vehicle shall be allowed to the eligible entity specified in such election (and not to such taxpayer).</i>
+
+#### <i>"(2) Eligible entity</i>
+
+&emsp;<i>"For purposes of this subsection, the term 'eligible entity' means, with respect to the vehicle for which the credit is allowed under subsection (a), the dealer which sold such vehicle to the taxpayer and has—</i>
+
+&emsp;&emsp;<i>"(A) subject to paragraph (4), registered with the Secretary for purposes of this paragraph, at such time, and in such form and manner, as the Secretary may prescribe,</i>
+
+&emsp;&emsp;<i>"(B) prior to the election described in paragraph (1) and not later than at the time of such sale, disclosed to the taxpayer purchasing such vehicle—</i>
+
+&emsp;&emsp;&emsp;<i>"(i) the manufacturer's suggested retail price,</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) the value of the credit allowed and any other incentive available for the purchase of such vehicle, and</i>
+
+&emsp;&emsp;&emsp;<i>"(iii) the amount provided by the dealer to such taxpayer as a condition of the election described in paragraph (1),</i>
+
+&emsp;&emsp;<i>"(C) not later than at the time of such sale, made payment to such taxpayer (whether in cash or in the form of a partial payment or down payment for the purchase of such vehicle) in an amount equal to the credit otherwise allowable to such taxpayer, and</i>
+
+&emsp;&emsp;<i>"(D) with respect to any incentive otherwise available for the purchase of a vehicle for which a credit is allowed under this section, including any incentive in the form of a rebate or discount provided by the dealer or manufacturer, ensured that—</i>
+
+&emsp;&emsp;&emsp;<i>"(i) the availability or use of such incentive shall not limit the ability of a taxpayer to make an election described in paragraph (1), and</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) such election shall not limit the value or use of such incentive.</i>
+
+#### <i>"(3) Timing</i>
+
+&emsp;<i>"An election described in paragraph (1) shall be made by the taxpayer not later than the date on which the vehicle for which the credit is allowed under subsection (a) is purchased.</i>
+
+#### <i>"(4) Revocation of registration</i>
+
+&emsp;<i>"Upon determination by the Secretary that a dealer has failed to comply with the requirements described in paragraph (2), the Secretary may revoke the registration (as described in subparagraph (A) of such paragraph) of such dealer.</i>
+
+#### <i>"(5) Tax treatment of payments</i>
+
+&emsp;<i>"With respect to any payment described in paragraph (2)(C), such payment—</i>
+
+&emsp;&emsp;<i>"(A) shall not be includible in the gross income of the taxpayer, and</i>
+
+&emsp;&emsp;<i>"(B) with respect to the dealer, shall not be deductible under this title.</i>
+
+#### <i>"(6) Application of certain other requirements</i>
+
+&emsp;<i>"In the case of any election under paragraph (1) with respect to any vehicle—</i>
+
+&emsp;&emsp;<i>"(A) the requirements of paragraphs (1) and (2) of subsection (f) shall apply to the taxpayer who acquired the vehicle in the same manner as if the credit determined under this section with respect to such vehicle were allowed to such taxpayer,</i>
+
+&emsp;&emsp;<i>"(B) paragraph (6) of such subsection shall not apply, and</i>
+
+&emsp;&emsp;<i>"(C) the requirement of paragraph (9) of such subsection (f) shall be treated as satisfied if the eligible entity provides the vehicle identification number of such vehicle to the Secretary in such manner as the Secretary may provide.</i>
+
+#### <i>"(7) Advance payment to registered dealers</i>
+
+#### <i>"(A) In general</i>
+
+&emsp;&emsp;<i>"The Secretary shall establish a program to make advance payments to any eligible entity in an amount equal to the cumulative amount of the credits allowed under subsection (a) with respect to any vehicles sold by such entity for which an election described in paragraph (1) has been made.</i>
+
+#### <i>"(B) Excessive payments</i>
+
+&emsp;&emsp;<i>"Rules similar to the rules of section 6417(d)(6) shall apply for purposes of this paragraph.</i>
+
+#### <i>"(C) Treatment of advance payments</i>
+
+&emsp;&emsp;<i>"For purposes of section 1324 of title 31, United States Code, the payments under subparagraph (A) shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.</i>
+
+#### <i>"(8) Dealer</i>
+
+&emsp;<i>"For purposes of this subsection, the term 'dealer' means a person licensed by a State, the District of Columbia, the Commonwealth of Puerto Rico, any other territory or possession of the United States, an Indian tribal government, or any Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602(m)) to engage in the sale of vehicles.</i>
+
+#### <i>"(9) Indian tribal government</i>
+
+&emsp;<i>"For purposes of this subsection, the term 'Indian tribal government' means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this subsection pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).</i>
+
+#### <i>"(10) Recapture</i>
+
+&emsp;<i>"In the case of any taxpayer who has made an election described in paragraph (1) with respect to a new clean vehicle and received a payment described in paragraph (2)(C) from an eligible entity, if the credit under subsection (a) would otherwise (but for this subsection) not be allowable to such taxpayer pursuant to the application of subsection (f)(10), the tax imposed on such taxpayer under this chapter for the taxable year in which such vehicle was placed in service shall be increased by the amount of the payment received by such taxpayer."</i>
+
+<i>See 2022 Amendment notes below.</i>
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to section 7543(b) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+
+#### Amendments
+
+<b>2022</b>—Pub. L. 117–169, §13401(i)(1), substituted "Clean vehicle credit" for "New qualified plug-in electric drive motor vehicles" in section catchline.
+
+Subsec. (a). Pub. L. 117–169, §13401(c)(2)(A), substituted "new clean vehicle" for "new qualified plug-in electric drive motor vehicle".
+
+Subsec. (b)(1). Pub. L. 117–169, §13401(c)(2)(B), substituted "new clean vehicle" for "new qualified plug-in electric drive motor vehicle".
+
+Subsec. (b)(2), (3). Pub. L. 117–169, §13401(a), added pars. (2) and (3) and struck out former pars. (2) and (3) which related to base amount and amount based on battery capacity to be used to determine amount of credit.
+
+Subsec. (d). Pub. L. 117–169, §13401(c)(1)(A), substituted "clean" for "qualified plug-in electric drive motor" in heading.
+
+Subsec. (d)(1). Pub. L. 117–169, §13401(c)(1)(B)(i), substituted "clean" for "qualified plug-in electric drive motor" in introductory provisions.
+
+Subsec. (d)(1)(C). Pub. L. 117–169, §13401(c)(1)(B)(ii), inserted "qualified" before "manufacturer".
+
+Subsec. (d)(1)(F)(i). Pub. L. 117–169, §13401(c)(1)(B)(iii)(I), substituted "7" for "4".
+
+Subsec. (d)(1)(G). Pub. L. 117–169, §13401(b)(1), added subpar. (G).
+
+Subsec. (d)(1)(H). Pub. L. 117–169, §13401(c)(1)(B)(iii)(II)–(v), added subpar. (H).
+
+Subsec. (d)(1)(H)(vi). Pub. L. 117–169, §13401(g)(2)(A), added cl. (vi).
+
+Subsec. (d)(3). Pub. L. 117–169, §13401(c)(1)(C), substituted "Qualified manufacturer" for "Manufacturer" in heading and, in text, substituted "The term 'qualified manufacturer' means any manufacturer (within the meaning of the" for "The term 'manufacturer' has the meaning given such term in" and inserted ") which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require" before period at end.
+
+Subsec. (d)(5). Pub. L. 117–169, §13401(b)(2), added par. (5).
+
+Subsec. (d)(6). Pub. L. 117–169, §13401(c)(1)(D), added par. (6).
+
+Subsec. (d)(7). Pub. L. 117–169, §13401(e)(2), added par. (7).
+
+Subsec. (e). Pub. L. 117–169, §13401(e)(1), added subsec. (e).
+
+Pub. L. 117–169, §13401(d), struck out subsec. (e) which related to limitation on number of new qualified plug-in electric drive motor vehicles eligible for credit.
+
+Subsec. (f)(3). Pub. L. 117–169, §13401(g)(2)(B)(i), struck out par. (3). Text read as follows: "In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
+
+Subsec. (f)(8). Pub. L. 117–169, §13401(g)(2)(B)(ii), inserted ", including any vehicle with respect to which the taxpayer elects the application of subsection (g)" before period at end.
+
+Pub. L. 117–169, §13401(f), added par. (8).
+
+Subsec. (f)(9) to (11). Pub. L. 117–169, §13401(f), added pars. (9) to (11).
+
+Subsec. (g). Pub. L. 117–169, §13401(g)(1), added subsec. (g) and struck out former subsec. (g) which related to credit allowed for 2- and 3-wheeled plug-in electric vehicles.
+
+Subsec. (h). Pub. L. 117–169, §13401(h), added subsec. (h).
+
+<b>2020</b>—Subsec. (g)(3)(E)(ii). Pub. L. 116–260 substituted "January 1, 2022" for "January 1, 2021".
+
+<b>2019</b>—Subsec. (g)(3)(E)(ii). Pub. L. 116–94 substituted "January 1, 2021" for "January 1, 2018".
+
+<b>2018</b>—Subsec. (g)(3)(E)(ii). Pub. L. 115–123 substituted "January 1, 2018" for "January 1, 2017".
+
+<b>2015</b>—Subsec. (g)(3)(E). Pub. L. 114–113 substituted "acquired—" for "acquired after December 31, 2011, and before January 1, 2014." and added cls. (i) and (ii).
+
+<b>2014</b>—Subsec. (f)(1), (2). Pub. L. 113–295, §209(e)(1)(A), (B), inserted "(determined without regard to subsection (c))" before period at end.
+
+Subsec. (f)(3). Pub. L. 113–295, §209(e)(2), inserted at end "For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation."
+
+<b>2013</b>—Subsec. (c)(2). Pub. L. 112–240, §104(c)(2)(I), amended par. (2) generally. Prior to amendment, par. (2) related to personal credit with a limitation based on amount of tax.
+
+Subsec. (f)(2). Pub. L. 112–240, §403(b)(1), substituted "vehicle for which a credit is allowable under subsection (a)" for "new qualified plug-in electric drive motor vehicle" and "allowed under such subsection" for "allowed under subsection (a)".
+
+Subsec. (f)(7). Pub. L. 112–240, §403(b)(2), substituted "A vehicle" for "A motor vehicle" in introductory provisions.
+
+Subsec. (g). Pub. L. 112–240, §403(a), added subsec. (g).
+
+<b>2010</b>—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(H), (c), as amended by Pub. L. 111–312, temporarily substituted "section 25D" for "sections 23 and 25D". See Effective and Termination Dates of 2010 Amendment note below.
+
+<b>2009</b>—Pub. L. 111–5 amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining "applicable amount" and "new qualified plug-in electric drive motor vehicle" and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment; Transition Rule
+
+Pub. L. 117–169, title I, §13401(k), Aug. 16, 2022, 136 Stat. 1961, provided that:
+
+"(1)
+
+In general.—Except as provided in paragraphs (2), (3), (4), and (5), the amendments made by this section \[amending this section and sections 30B, 38, 6213, and 6501 of this title\] shall apply to vehicles placed in service after December 31, 2022.
+
+"(2)
+
+Final assembly.—The amendments made by subsection (b) \[amending this section\] shall apply to vehicles sold after the date of enactment of this Act \[Aug. 16, 2022\].
+
+"(3)
+
+Per vehicle dollar limitation and related requirements.—The amendments made by subsections (a) and (e) \[amending this section\] shall apply to vehiclesplaced in service after the date on which the proposed guidance described in paragraph (3)(B) of section 30D(e) of the Internal Revenue Code of 1986 (as added by subsection (e)) is issued by the Secretary of the Treasury (or the Secretary's delegate).
+
+"(4)
+
+Transfer of credit.—The amendments made by subsection (g) \[amending this section\] shall apply to vehicles placed in service after December 31, 2023.
+
+"(5)
+
+Elimination of manufacturer limitation.—The amendment made by subsection (d) \[amending this section\] shall apply to vehicles sold after December 31, 2022."
+
+Pub. L. 117–169, title I, §13401(l), Aug. 16, 2022, 136 Stat. 1962, provided that: "Solely for purposes of the application of section 30D of the Internal Revenue Code of 1986, in the case of a taxpayer that—
+
+&emsp;"(1) after December 31, 2021, and before the date of enactment of this Act \[Aug. 16, 2022\], purchased, or entered into a written binding contract to purchase, a new qualified plug-in electric drive motor vehicle (as defined in section 30D(d)(1) of the Internal Revenue Code of 1986, as in effect on the day before the date of enactment of this Act), and
+
+&emsp;"(2) placed such vehicle in service on or after the date of enactment of this Act,
+
+> such taxpayer may elect (at such time, and in such form and manner, as the Secretary of the Treasury, or the Secretary's delegate, may prescribe) to treat such vehicle as having been placed in service on the day before the date of enactment of this Act."
+
+#### Effective Date of 2020 Amendment
+
+Pub. L. 116–260, div. EE, title I, §144(b), Dec. 27, 2020, 134 Stat. 3054, provided that: "The amendment made by this section \[amending this section\] shall apply to vehicles acquired after December 31, 2020."
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–94, div. Q, title I, §126(b), Dec. 20, 2019, 133 Stat. 3231, provided that: "The amendment made by this section \[amending this section\] shall apply to vehicles acquired after December 31, 2017."
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–123, div. D, title I, §40405(b), Feb. 9, 2018, 132 Stat. 148, provided that: "The amendment made by this section \[amending this section\] shall apply to vehicles acquired after December 31, 2016."
+
+#### Effective Date of 2015 Amendment
+
+Pub. L. 114–113, div. Q, title I, §183(b), Dec. 18, 2015, 129 Stat. 3073, provided that: "The amendments made by this section \[amending this section\] shall apply to vehicles acquired after December 31, 2014."
+
+#### Effective Date of 2014 Amendment
+
+Amendment by Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under section 24 of this title.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by section 104(c)(2)(I) of Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
+
+Pub. L. 112–240, title IV, §403(c), Jan. 2, 2013, 126 Stat. 2338, provided that: "The amendments made by this section \[amending this section\] shall apply to vehicles acquired after December 31, 2011."
+
+#### Effective and Termination Dates of 2010 Amendment
+
+Amendment by Pub. L. 111–148 terminated applicable to taxable years beginning after Dec. 31, 2011, and section is amended to read as if such amendment had never been enacted, see section 10909(c) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
+Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 31, 2009, see section 10909(d) of Pub. L. 111–148, set out as a note under section 1 of this title.
+
+#### Effective Date of 2009 Amendment
+
+Amendment by Pub. L. 111–5 applicable to vehicles acquired after Dec. 31, 2009, see section 1141(c) of Pub. L. 111–5, set out as a note under section 30B of this title.
+
+#### Effective Date
+
+Section applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
+
+#### Gross-Up of Direct Spending
+
+Pub. L. 117–169, title I, §13401(j), Aug. 16, 2022, 136 Stat. 1961, provided that: "Beginning in fiscal year 2023 and each fiscal year thereafter, the portion of any credit allowed to an eligible entity (as defined in section 30D(g)(2) of the Internal Revenue Code of 1986) pursuant to an election made under section 30D(g) of the Internal Revenue Code of 1986 that is direct spending shall be increased by 6.0445 percent."
+

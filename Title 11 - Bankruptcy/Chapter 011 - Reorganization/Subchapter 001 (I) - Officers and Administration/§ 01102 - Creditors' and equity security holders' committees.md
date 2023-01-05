@@ -36,7 +36,7 @@ Section 1102(b) of the House amendment represents a compromise between the House
 
 #### senate report no. 95–989
 
-This section provides for the election and appointment of committees. Subsection (c) provides that this section does not apply in case of a public company, as to which a trustee, appointed under section 1104(a) will have responsibility to administer the estate and to formulate a plan as provided in section 1106(a).
+This section provides for the election and appointment of committees. Subsection (c) provides that this section does not apply in case of a public company, as to which a trustee, appointed under section 1104(a) willhave responsibility to administer the estate and to formulate a plan as provided in section 1106(a).
 
 There is no need for the election or appointment of committees for which the appointment of a trustee is mandatory. In the case of a public company there are likely to be several committees, each representing a different class of security holders and seeking authority to retain accountants, lawyers, and other experts, who will expect to be paid. If in the case of a public company creditors or stockholders wish to organize committees, they may do so, as authorized under section 1109(a). Compensation and reimbursement will be allowed for contributions to the reorganization pursuant to section 503(b) (3) and (4).
 
@@ -60,7 +60,7 @@ Section 3(a)(1) of the Small Business Act, referred to in subsec. (a)(4), is cla
 
 #### Amendments
 
-<b>2019</b>—Subsec. (a)(3). Pub. L. 116–54 added par. (3) and struck out former par. (3) which read as follows: "Onrequest of a party in interest in a case in which the debtor is a small business debtor and for cause, the court may order that a committee of creditors not be appointed."
+<b>2019</b>—Subsec. (a)(3). Pub. L. 116–54 added par. (3) and struck out former par. (3) which read as follows: "On request of a party in interest in a case in which the debtor is a small business debtor and for cause, the court may order that a committee of creditors not be appointed."
 
 <b>2005</b>—Subsec. (a)(3). Pub. L. 109–8, §432(b), inserted "debtor" after "small business".
 

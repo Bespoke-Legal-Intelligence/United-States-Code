@@ -124,7 +124,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) controls or materially participates in the direction of the organization,
 
-&emsp;&emsp;&emsp;(ii) solicits contributions to the organization (unless the Secretary determines that such solicitations resulted in de minimis contributions and were made without the prior knowledge and consent, whether explicit or implicit, of the organization or its officers, directors, agents, or employees), or
+&emsp;&emsp;&emsp;(ii) solicits contributions to the organization (unless the Secretary determines that such solicitations resulted in de minimis contributions and were made without the prior knowledge and consent, whetherexplicit or implicit, of the organization or its officers, directors, agents, or employees), or
 
 &emsp;&emsp;&emsp;(iii) directs, in whole or in part, disbursements by the organization.
 
@@ -208,11 +208,11 @@ For purposes of this section—
 
 &emsp;&emsp;(A) unless it has given notice to the Secretary electronically that it is to be so treated, or
 
-&emsp;&emsp;(B) if the notice is given after the time required under paragraph (2), the organization shall not be so treated for any period before such notice is given or, in the case of any material change in the information required under paragraph (3), for the period beginning on the date on which the material change occurs and ending on the date on which such notice is given.
+&emsp;&emsp;(B) if the notice is given after the time required under paragraph (2), the organization shall not be so treated for any period before such notice is given or, in the case of any material change in the information requiredunder paragraph (3), for the period beginning on the date on which the material change occurs and ending on the date on which such notice is given.
 
 #### (2) Time to give notice
 
-&emsp;The notice required under paragraph (1) shall be transmitted not later than 24 hoursafter the date on which the organization is established or, in the case of any material change in the information required under paragraph (3), not later than 30 days after such material change.
+&emsp;The notice required under paragraph (1) shall be transmitted not later than 24 hours after the date on which the organization is established or, in the case of any material change in the information required under paragraph (3), not later than 30 days after such material change.
 
 #### (3) Contents of notice
 
@@ -472,11 +472,11 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–276, §1(b), Nov. 2, 2002, 116 Stat. 1929, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by Public Law 106–230."
+Pub. L. 107–276, §1(b), Nov. 2, 2002, 116 Stat. 1929, provided that: "The amendments made by subsection (a)\[amending this section\] shall take effect as if included in the amendments made by Public Law 106–230."
 
 Pub. L. 107–276, §2(c), Nov. 2, 2002, 116 Stat. 1931, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in the amendments made by Public Law 106–230."
 
-Pub. L. 107–276, §5(b), Nov. 2, 2002, 116 Stat. 1932, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply to any tax assessed or amount imposed after June 30, 2000."
+Pub. L. 107–276, §5(b), Nov. 2, 2002, 116 Stat. 1932, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any tax assessed or amount imposed after June 30, 2000."
 
 Pub. L. 107–276, §6(h)(1), (2), Nov. 2, 2002, 116 Stat. 1934, provided that:
 
@@ -590,5 +590,5 @@ In General.—The Secretary of the Treasury, in consultation with the Federal El
 
 "(b)
 
-Information.—Information provided under subsection (a) shall be included in any appropriate form, instruction, notice, or other guidance issued to the public by the Secretary of the Treasury or the Federal Election Commission regarding reporting requirements of political organizations (as defined in section 527 ofthe Internal Revenue Code of 1986) or reporting requirements under the Federal Election Campaign Act of 1971 \[52 U.S.C. 30101 et seq.\]."
+Information.—Information provided under subsection (a) shall be included in any appropriate form, instruction, notice, or other guidance issued to the public by the Secretary of the Treasury or the Federal Election Commission regarding reporting requirements of political organizations (as defined in section 527 of the Internal Revenue Code of 1986) or reporting requirements under the Federal Election Campaign Act of 1971 \[52 U.S.C. 30101 et seq.\]."
 

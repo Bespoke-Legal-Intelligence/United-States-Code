@@ -44,7 +44,7 @@ Whoever—
 
 (2) Whoever knowingly—
 
-&emsp;(A) within the United States, by means of telephone, makes (directly or by recording device) any indecent communication for commercial purposes which is available to anyperson under 18 years of age or to any other person without that person's consent, regardless of whether the maker of such communication placed the call; or
+&emsp;(A) within the United States, by means of telephone, makes (directly or by recording device) any indecent communication for commercial purposes which is available to any person under 18 years of age or to any other person without that person's consent, regardless of whether the maker of such communication placed the call; or
 
 &emsp;(B) permits any telephone facility under such person's control to be used for an activity prohibited by subparagraph (A), shall be fined not more than $50,000 or imprisoned not more than six months, or both.
 
@@ -102,7 +102,7 @@ In addition to any other defenses available by law:
 
 &emsp;(2) The defenses provided by paragraph (1) of this subsection shall not be applicable to a person who is a conspirator with an entity actively involved in the creation or knowing distribution of communications that violate this section, or who knowingly advertises the availability of such communications.
 
-&emsp;(3) The defenses provided in paragraph (1) of this subsection shall not be applicable to a person who provides access or connection to afacility, system, or network engaged in the violation of this section that is owned or controlled by such person.
+&emsp;(3) The defenses provided in paragraph (1) of this subsection shall not be applicable to a person who provides access or connection to a facility, system, or network engaged in the violation of this section that is owned or controlled by such person.
 
 &emsp;(4) No employer shall be held liable under this section for the actions of an employee or agent unless the employee's or agent's conduct is within the scope of his or her employment or agency and the employer (A) having knowledge of such conduct, authorizes or ratifies such conduct, or (B) recklessly disregards such conduct.
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 &emsp;(5) The term "library" means a library eligible for participation in State-based plans for funds under title III of the Library Services and Construction Act (20 U.S.C. 355e et seq.).
 
-(June 19, 1934, ch. 652, title II, §223, as added Pub. L. 90–299, §1, May 3, 1968, 82 Stat. 112; amended Pub. L. 98–214, §8(a), (b), Dec. 8, 1983, 97 Stat. 1469, 1470; Pub. L. 100–297, title VI, §6101, Apr. 28, 1988, 102 Stat. 424; Pub. L. 100–690, title VII, §7524, Nov. 18, 1988, 102 Stat. 4502; Pub. L. 101–166, title V, §521(1), Nov. 21, 1989, 103 Stat. 1192; Pub. L. 103–414, title III, §303(a)(9), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title V, §502, Feb. 8, 1996, 110 Stat. 133; Pub. L. 105–244, title I,§102(a)(14), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–277, div. C, title XIV, §1404(b), Oct. 21, 1998, 112 Stat. 2681–739; Pub. L. 108–21, title VI, §603, Apr. 30, 2003, 117 Stat. 687; Pub. L. 109–162, title I, §113(a), Jan. 5, 2006, 119 Stat. 2987; Pub. L. 113–4, title XI, §1102, Mar. 7, 2013, 127 Stat. 135.)
+(June 19, 1934, ch. 652, title II, §223, as added Pub. L. 90–299, §1, May 3, 1968, 82 Stat. 112; amended Pub. L. 98–214, §8(a), (b), Dec. 8, 1983, 97 Stat. 1469, 1470; Pub. L. 100–297, title VI, §6101, Apr. 28, 1988, 102 Stat. 424; Pub. L. 100–690, title VII, §7524, Nov. 18, 1988, 102 Stat. 4502; Pub. L. 101–166, title V, §521(1), Nov. 21, 1989, 103 Stat. 1192; Pub. L. 103–414, title III, §303(a)(9), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 104–104, title V, §502, Feb. 8, 1996, 110 Stat. 133; Pub. L. 105–244, title I, §102(a)(14), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 105–277, div. C, title XIV, §1404(b), Oct. 21, 1998, 112 Stat. 2681–739; Pub. L. 108–21, title VI, §603, Apr. 30, 2003, 117 Stat. 687; Pub. L. 109–162, title I, §113(a), Jan. 5, 2006, 119 Stat. 2987; Pub. L. 113–4, title XI, §1102, Mar. 7, 2013, 127 Stat. 135.)
 
 #### <b>Editorial Notes</b>
 
@@ -162,7 +162,7 @@ This chapter, referred to in subsec. (h)(1)(A), was in the original "this Act", 
 
 Section 1104 of the Internet Tax Freedom Act, referred to in subsec. (h)(1)(C), is section 1104 of title XI of div. C of Pub. L. 105–277, which is set out in a note under section 151 of this title. The term "Internet" is defined in section 1105 of Pub. L. 105–277, which is set out in the same note under section 151 of this title.
 
-The Library Services and Construction Act, referred to in subsec. (h)(5), is act June 19, 1956, ch. 407, 70 Stat. 293, as amended. Title III of the Act was classified generally to subchapter III (§355e et seq.) of chapter 16 of Title 20, Education, and was repealed by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
+The Library Services and Construction Act, referred to in subsec. (h)(5), is act June 19, 1956, ch. 407, 70 Stat. 293. Title III of the Act was classified generally to subchapter III (§355e et seq.) of chapter 16 of Title 20, Education, and was repealed by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(a)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 #### Amendments
 

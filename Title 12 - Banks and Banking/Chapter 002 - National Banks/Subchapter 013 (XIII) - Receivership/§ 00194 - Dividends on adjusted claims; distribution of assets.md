@@ -12,7 +12,7 @@ R.S. §5236 derived from act June 3, 1864, ch. 106, §50, 13 Stat. 114, which wa
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–325 struck out ", after full provision has been first made for refunding to the United Statesany deficiency in redeeming the notes of such association" after "From time to time".
+<b>1994</b>—Pub. L. 103–325 struck out ", after full provision has been first made for refunding to the United States any deficiency in redeeming the notes of such association" after "From time to time".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

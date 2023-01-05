@@ -242,7 +242,7 @@ Reporting.—
 
 &emsp;"(1)
 
-In general.—The Secretary shall submit to Congress an annual report that describes the resultsof carrying out this Act, including a synopsis of any independent review under subsection (I) \[sic\] and details of the manner and purposes for which funds are expended.
+In general.—The Secretary shall submit to Congress an annual report that describes the results of carrying out this Act, including a synopsis of any independent review under subsection (I) \[sic\] and details of the manner and purposes for which funds are expended.
 
 &emsp;"(2)
 

@@ -1,6 +1,6 @@
 ### §2001a. Debt restructuring and loan servicing for community facility loans
 
-The Secretary shall establish and implement a program that is similar to the program established under section 2001 of this title, except that the debt restructuring and loan servicing procedures shall apply to delinquent community facility program loans (rather than delinquent farmer program loans) made by the Farmers Home Administration to a hospital or health care facility under section 1926(a) of this title.
+The Secretary shall establish and implement a program that is similar to the program established under section 2001 of this title, except that the debt restructuring and loan servicingprocedures shall apply to delinquent community facility program loans (rather than delinquent farmer program loans) made by the Farmers Home Administration to a hospital or health care facility under section 1926(a) of this title.
 
 (Pub. L. 87–128, title III, §353A, as added Pub. L. 101–624, title XXIII, §2384(a), Nov. 28, 1990, 104 Stat. 4050.)
 

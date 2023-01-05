@@ -136,7 +136,7 @@ Subsec. (a). Pub. L. 116–283, §1811(e)(3)(A), (E)(i), inserted heading and re
 
 Subsec. (a)(1). Pub. L. 116–283, §1811(e)(3)(E), as amended by Pub. L. 117–81, §1701(b)(4)(F), redesignated par. (1)(A) as (1), inserted heading, redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and realigned margins.
 
-Subsec. (a)(2). Pub. L. 116–283, §1811(e)(3)(A), (B), (D), redesignated par. (1)(B) as (2), inserted heading, and realigned margin, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and substituted "chapter 137 legacy provisions" for "this chapter" in introductoryprovisions and in subpar. (A). Former par. (2) redesignated subsec. (b).
+Subsec. (a)(2). Pub. L. 116–283, §1811(e)(3)(A), (B), (D), redesignated par. (1)(B) as (2), inserted heading, and realigned margin, redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, and substituted "chapter 137 legacy provisions" for "this chapter" in introductory provisions and in subpar. (A). Former par. (2) redesignated subsec. (b).
 
 Subsec. (a)(3). Pub. L. 117–81, §1701(d)(4), substituted "paragraphs (1) and (2)" for "subparagraphs (A) and (B)" in introductory provisions.
 

@@ -29,7 +29,7 @@ Pub. L. 116–283, div. A, title X, §1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, 
 
 Pub. L. 116–283, div. A, title X, §1081(a)(2), Jan. 1, 2021, 134 Stat. 3870, which directed the amendment of the table of chapters "at the beginning of part IV" of this subtitle by adding item for chapter 113, was executed in the analysis for this part to reflect the probable intent of Congress.
 
-<b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(a)(2), Dec. 20, 2019, 133 Stat. 1812, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, added item for chapter 112 and struck out former item for chapter 112 "Information Security Scholarship Program".
+<b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(a)(2), Dec. 20, 2019, 133 Stat. 1812, as amended by Pub. L.116–283, div. A, title X, §1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, added item for chapter 112 and struck out former item for chapter 112 "Information Security Scholarship Program".
 
 <b>2004</b>—Pub. L. 108–375, div. A, title V, §532(e), Oct. 28, 2004, 118 Stat. 1900, added item for chapter 107 and redesignated former item for chapter 107 as 106A.
 

@@ -100,7 +100,7 @@ Inspector general review.—On a semi-annual basis, the Inspector General of the
 
 "(b)
 
-Report to Congress.—The Secretary of Veterans Affairs shall submit to Congress an annual report on the steps the Department is taking to achieve full staffing capacity and to improve the onboard timeline for facilities for which the duration of the onboarding process exceeds the metrics laid out in the Time to Hire Model of the Veterans Health Administration, or successor model. Each such report shall include the amount of additional funds necessary to enable the Department to reach full staffing capacity."
+Report to Congress.—The Secretary of Veterans Affairs shall submit to Congress an annual report on the steps the Department is taking to achieve full staffing capacity and to improve the onboard timeline for facilities for which the duration of the onboardingprocess exceeds the metrics laid out in the Time to Hire Model of the Veterans Health Administration, or successor model. Each such report shall include the amount of additional funds necessary to enable the Department to reach full staffing capacity."
 
 #### Department of Veterans Affairs Franchise Fund
 
@@ -152,7 +152,7 @@ Continuation of Service of General Counsel.—The individual serving on the effe
 
 "(a)
 
-Redesignation.—The Office of Inspector General of the Veterans' Administration, established in accordance with the Inspector General Act of 1978 \[Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\], is hereby redesignated as the Office of Inspector General of the Department of Veterans Affairs.
+Redesignation.—The Office of Inspector General of the Veterans' Administration, established in accordance with the Inspector General Act of 1978 \[Pub. L. 95–452, formerly set out in the Appendix to Title 5, Government Organization and Employees, see 5 U.S.C. 401 et seq.\], is hereby redesignated as the Office of Inspector General of the Department of Veterans Affairs.
 
 "\[(b) Repealed. Pub. L. 102–83, §3(3), Aug. 6, 1991, 105 Stat. 402.\]
 
@@ -182,7 +182,7 @@ Redesignation.—The Office of Inspector General of the Veterans' Administration
 
 "(a)
 
-Continuing Effect of Legal Documents.—All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
+Continuing Effect of Legal Documents.—All orders, determinations, rules, regulations, permits,grants, contracts, certificates, licenses, and privileges—
 
 &emsp;"(1) which have been issued, made, granted, or allowed to become effective by the President, by the Administrator of Veterans' Affairs, or by a court of competent jurisdiction, in the performance of functions of the Administrator or the Veterans' Administration; and
 

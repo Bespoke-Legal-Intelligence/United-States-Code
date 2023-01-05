@@ -20,7 +20,7 @@ There shall be in the Office a Deputy Administrator who shall be appointed by th
 
 This division, referred to in subsec. (a), probably means division II (§§610–670) of chapter VI of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2107, which made numerous amendments to this chapter. For complete classification of this division to the Code, see Short Title of 1984 Act note set out under section 10101 of this title and Tables.
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 93–415, Sept. 7,1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of this title and Tables.
 
 #### Codification
 

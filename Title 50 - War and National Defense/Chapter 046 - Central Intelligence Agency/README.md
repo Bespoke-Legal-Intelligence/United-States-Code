@@ -34,6 +34,10 @@
 | [3524\.](%C2%A7%2003524%20-%20Support%20for%20the%20Associate%20Director%20of%20the%20Central%20Intelligence%20Agency%20for%20Military%20Affairs.md) | Support for the Associate Director of the Central Intelligence Agency for Military Affairs. |
 | [3525\.](%C2%A7%2003525%20-%20Office%20of%20the%20Ombudsman%20for%20Analytic%20Objectivity.md) | Office of the Ombudsman for Analytic Objectivity. |
 | [3526\.](%C2%A7%2003526%20-%20Improvement%20of%20education%20in%20science%2C%20technology%2C%20engineering%2C%20arts%2C%20and%20mathematics.md) | Improvement of education in science, technology, engineering, arts, and mathematics. |
+| [3527\.](%C2%A7%2003527%20-%20Chaplain%20Corps%20and%20Chief%20of%20Chaplains.md) | Chaplain Corps and Chief of Chaplains. |
+| [3528\.](%C2%A7%2003528%20-%20Compensation%20and%20professional%20standards%20for%20certain%20medical%20officers.md) | Compensation and professional standards for certain medical officers. |
+| [3529\.](%C2%A7%2003529%20-%20Medical%20advisory%20board.md) | Medical advisory board. |
+| [3530\.](%C2%A7%2003530%20-%20Office%20of%20wellness%20and%20workforce%20support.md) | Office of wellness and workforce support. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -74,3 +78,7 @@
 - [&sect; 03524 - Support for the Associate Director of the Central Intelligence Agency for Military Affairs](%C2%A7%2003524%20-%20Support%20for%20the%20Associate%20Director%20of%20the%20Central%20Intelligence%20Agency%20for%20Military%20Affairs.md)
 - [&sect; 03525 - Office of the Ombudsman for Analytic Objectivity](%C2%A7%2003525%20-%20Office%20of%20the%20Ombudsman%20for%20Analytic%20Objectivity.md)
 - [&sect; 03526 - Improvement of education in science, technology, engineering, arts, and mathematics](%C2%A7%2003526%20-%20Improvement%20of%20education%20in%20science%2C%20technology%2C%20engineering%2C%20arts%2C%20and%20mathematics.md)
+- [&sect; 03527 - Chaplain Corps and Chief of Chaplains](%C2%A7%2003527%20-%20Chaplain%20Corps%20and%20Chief%20of%20Chaplains.md)
+- [&sect; 03528 - Compensation and professional standards for certain medical officers](%C2%A7%2003528%20-%20Compensation%20and%20professional%20standards%20for%20certain%20medical%20officers.md)
+- [&sect; 03529 - Medical advisory board](%C2%A7%2003529%20-%20Medical%20advisory%20board.md)
+- [&sect; 03530 - Office of wellness and workforce support](%C2%A7%2003530%20-%20Office%20of%20wellness%20and%20workforce%20support.md)

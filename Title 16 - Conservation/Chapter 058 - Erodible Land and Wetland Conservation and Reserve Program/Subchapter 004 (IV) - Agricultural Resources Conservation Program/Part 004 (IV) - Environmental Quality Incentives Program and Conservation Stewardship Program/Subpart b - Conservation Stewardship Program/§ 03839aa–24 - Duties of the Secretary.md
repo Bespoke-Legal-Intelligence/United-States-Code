@@ -136,7 +136,7 @@ The Secretary shall allocate funding to States for enrollment, based—
 
 #### (3) Eligibility
 
-&emsp;To be eligible to receive a payment described in paragraph (2), a producer shall agree to adopt or improve, manage, and maintain resource-conserving crop rotations or advancedgrazing management for the term of the contract.
+&emsp;To be eligible to receive a payment described in paragraph (2), a producer shall agree to adopt or improve, manage, and maintain resource-conserving crop rotations or advanced grazing management for the term of the contract.
 
 #### (4) Amount of payment
 
@@ -178,7 +178,7 @@ The Secretary shall ensure that outreach and technical assistance are available,
 
 #### (A) In general
 
-&emsp;&emsp;Using funds made available for the program for each of fiscal years 2019 through 2023, the Secretary shall allocate funding to States to support organic production and transition to organic production through paragraph (1).
+&emsp;&emsp;Using funds made available for the program for each of fiscal years 2019 through 2031, the Secretary shall allocate funding to States to support organic production and transition to organic production through paragraph (1).
 
 #### (B) Determination
 
@@ -208,7 +208,7 @@ To the maximum extent feasible, the Secretary shall manage the program to enhanc
 
 Each fiscal year, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the payment rates for conservation activities offered to producers under the program and an analysis of whether payment rates can be reduced for the most expensive conservation activities.
 
-(Pub. L. 99–198, title XII, §1240L, formerly §1238G, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1045, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1773; Pub. L. 113–79, title II, §2101(a), Feb. 7, 2014, 128 Stat. 726; renumbered §1240L and amended Pub. L. 115–334, title II, §§2301(b), 2308(d), Dec. 20, 2018, 132 Stat. 4551, 4566.)
+(Pub. L. 99–198, title XII, §1240L, formerly §1238G, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1045, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1773; Pub. L. 113–79, title II, §2101(a), Feb. 7, 2014, 128 Stat. 726; renumbered §1240L and amended Pub. L. 115–334, title II, §§2301(b), 2308(d), Dec. 20, 2018, 132 Stat. 4551, 4566; Pub. L. 117–169, title II, §21001(c)(4), Aug. 16, 2022, 136 Stat. 2017.)
 
 #### <b>Editorial Notes</b>
 
@@ -224,9 +224,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments
 
+<b>2022</b>—Subsec. (h)(2)(A). Pub. L. 117–169 substituted "2031" for "2023".
+
 <b>2018</b>—Subsec. (b). Pub. L. 115–334, §2308(d)(1), substituted "allocate funding" for "allocate acres" in introductory provisions.
 
-Subsec. (c). Pub. L. 115–334, §2308(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec.\(c). Prior to amendment, text of subsec. (c) read as follows: "During the period beginning on February 7, 2014, and ending on September 30, 2022, the Secretary shall, to the maximum extent practicable—
+Subsec. (c). Pub. L. 115–334, §2308(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: "During the period beginning on February 7, 2014, and ending on September 30, 2022, the Secretary shall, to the maximum extent practicable—
 
 &emsp;"(1) enroll in the program an additional 10,000,000 acres for each fiscal year; and
 
@@ -240,7 +242,7 @@ Subsec. (d)(1). Pub. L. 115–334, §2308(d)(5)(D), inserted par. designation, h
 
 Pub. L. 115–334, §2308(d)(5)(C), redesignated par. (4) as (1). Former par. (1) redesignated (2).
 
-Subsec. (d)(2). Pub. L. 115–334, §2308(d)(5)(C), (E), redesignated par. (1) as (2), substituted "agree to adopt or improve, manage, and maintain—" for "agree to adopt or improve resource-conserving crop rotations to achieve beneficial crop rotations as appropriate for the eligible land of the producers.", and added subpars. (A) and (B).
+Subsec. (d)(2). Pub. L. 115–334, §2308(d)(5)(C), (E), redesignated par. (1) as (2), substituted "agree to adopt orimprove, manage, and maintain—" for "agree to adopt or improve resource-conserving crop rotations to achieve beneficial crop rotations as appropriate for the eligible land of the producers.", and added subpars. (A) and (B).
 
 Pub. L. 115–334, §2308(d)(5)(B), struck out par. (2). Text read as follows: "The Secretary shall determine whether a resource-conserving crop rotation is a beneficial crop rotation eligible for additional payments under paragraph (1) based on whether the resource-conserving crop rotation is designed to provide natural resource conservation and production benefits."
 

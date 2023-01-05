@@ -2,11 +2,11 @@
 
 #### (a) Storage capacity
 
-(1) Subject to section 10107 of this title, the Secretary shall provide, in accordance with paragraph (5), not more than 1,900 metric tons of capacity for the storage of spent nuclear fuel from civilian nuclear power reactors. Such storage capacity shall be provided through any one or more of the following methods, used in any combination determined by the Secretary to be appropriate:
+(1) Subject to section 10107 of this title, the Secretary shall provide, in accordance with paragraph (5), not more than 1,900 metric tons of capacity for the storage of spent nuclear fuel from civilian nuclear power reactors. Such storage capacity shall be provided through any oneor more of the following methods, used in any combination determined by the Secretary to be appropriate:
 
 &emsp;(A) use of available capacity at one or more facilities owned by the Federal Government on January 7, 1983, including the modification and expansion of any such facilities, if the Commission determines that such use will adequately protect the public health and safety, except that such use shall not—
 
-&emsp;&emsp;(i) render such facilities subject to licensing under the Atomic Energy Act of 1954 (42U.S.C. 2011 et seq.) or the Energy Reorganization Act of 1974 (42 U.S.C. 5801 et seq.); or
+&emsp;&emsp;(i) render such facilities subject to licensing under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) or the Energy Reorganization Act of 1974 (42 U.S.C. 5801 et seq.); or
 
 &emsp;&emsp;(ii) except as provided in subsection (c) require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), such <sup>1</sup> facility is already being used, or has previously been used, for such storage or for any similar purpose.<sup>2</sup>
 
@@ -54,7 +54,7 @@
 
 &emsp;(ii) an evaluation as to whether the facilities to be used at such site are suitable for the provision of such storage capacity;
 
-&emsp;(iii) a description of activities planned by the Secretary with respect to the modification or expansion of the facilities to be used at such site;
+&emsp;(iii) a description of activities planned by the Secretary with respect to the modificationor expansion of the facilities to be used at such site;
 
 &emsp;(iv) an evaluation of the effects of the provision of such storage capacity at such site on the public health and safety, and the environment;
 
@@ -80,7 +80,7 @@
 
 (5) The Secretary and the State and affected Tribal Council shall seek to conclude the agreement required by paragraph (2) as soon as practicable, but not later than 180 days following the date of notification of the selection under paragraph (2). The Secretary shall periodically report to the Congress thereafter on the status of the agreements approved under paragraph (3). Any report to the Congress on the status of negotiations of such agreement by the Secretary shall be accompanied by comments solicited by the Secretary from the State and eligible Tribal Council.
 
-(6)(A) Upon deciding to provide an aggregate of 300 or more metric tons of storage capacity under subsection (a)(1) at any one site, the Secretary shall notify the Governor and legislature of the State where such site is located, or the governing body of the Indian tribe in whose reservation such site is located, as the case may be, of such decision. During the 60-day period following receipt of notification by the Secretary of his decision to provide an aggregate of 300 or more metric tons of storage capacity at any one site, the Governor or legislature of the State in which such site is located, or the governing body of the affected Indian tribe where such site is located, as the case may be, may disapprove the provision of 300 or more metric tons of storage capacity at the site involved and submit to the Congress a notice of such disapproval. A notice of disapproval shall be considered to be submitted to the Congress on the date of the transmittal of such notice of disapproval to the Speaker of the House and the President pro tempore of the Senate. Such notice of disapproval shall be accompanied by a statement of reasons explaining why the provision of such storage capacity at such site was disapproved by such Governor or legislature or the governing body of such Indian tribe.
+(6)(A) Upon deciding to provide an aggregate of 300 or more metric tons of storage capacity under subsection (a)(1) at any one site, the Secretary shall notify the Governor and legislature of the State where such site is located, or the governing body of the Indian tribe in whose reservation such site is located, as the case may be, of such decision. During the 60-day period following receipt of notification by the Secretary of his decision to provide an aggregate of 300 or more metric tons of storage capacity at any one site, the Governor or legislature of the State inwhich such site is located, or the governing body of the affected Indian tribe where such site is located, as the case may be, may disapprove the provision of 300 or more metric tons of storage capacity at the site involved and submit to the Congress a notice of such disapproval. A notice of disapproval shall be considered to be submitted to the Congress on the date of the transmittal of such notice of disapproval to the Speaker of the House and the President pro tempore of the Senate. Such notice of disapproval shall be accompanied by a statement of reasons explaining why the provision of such storage capacity at such site was disapproved by such Governor or legislature or the governing body of such Indian tribe.
 
 (B) Unless otherwise provided by State law, the Governor or legislature of each State shall have authority to submit a notice of disapproval to the Congress under subparagraph (A). In any case in which State law provides for submission of any such notice of disapproval by any other person or entity, any reference in this part to the Governor or legislature of such State shall be considered to refer instead to such other person or entity.
 
@@ -106,11 +106,11 @@ Not later than 90 days after January 7, 1983, the Commission pursuant to section
 
 #### (h) Application
 
-Notwithstanding any other provision of law, nothing in this chapter shall be construed to encourage, authorize, or require the private or Federal use, purchase, lease, or other acquisition of any storage facility located away from the site of any civilian nuclear power reactor and not owned by the Federal Government on January 7, 1983.
+Notwithstanding any other provision of law, nothing in this chapter shall be construed to encourage, authorize, or require the private or Federal use, purchase, lease, or other acquisition of any storage facility located away fromthe site of any civilian nuclear power reactor and not owned by the Federal Government on January 7, 1983.
 
 #### (i) Coordination with research and development program
 
-To the extent available, and consistent with the provisions of this section, the Secretary shall provide spent nuclear fuel for the research and development program authorized in section 10198 <sup>3</sup> of this title from spent nuclear fuel received by the Secretary for storage under thissection. Such spent nuclear fuel shall not be subject to the provisions of subsection (e).
+To the extent available, and consistent with the provisions of this section, the Secretary shall provide spent nuclear fuel for the research and development program authorized in section 10198 <sup>3</sup> of this title from spent nuclear fuel received by the Secretary for storage under this section. Such spent nuclear fuel shall not be subject to the provisions of subsection (e).
 
 (Pub. L. 97–425, title I, §135, Jan. 7, 1983, 96 Stat. 2232.)
 
@@ -120,7 +120,7 @@ To the extent available, and consistent with the provisions of this section, the
 
 The Atomic Energy Act of 1954, referred to in subsec. (a)(1)(A)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-The Energy Reorganization Act of 1974, referred to in subsec. (a)(1)(A)(i), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Energy Reorganization Act of 1974, referred to in subsec. (a)(1)(A)(i), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 Section 10198 of this title, referred to in subsec. (i), was in the original a reference to section 217 of Pub. L. 97–425, which is classified to section 10197 of this title, and has been translated as section 10198 of this title as the probable intent of Congress in view of section 10198(c)(2) which directs the Secretary to provide spent nuclear fuel for the research and development program authorized by section 10198(c) of this title from spent nuclear fuel received by the Secretary for storage under section 10155 of this title.
 

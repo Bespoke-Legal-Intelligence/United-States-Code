@@ -34,7 +34,7 @@ Upon receipt of evidence that a violation has occurred, the Secretary shall caus
 
 #### (f) Inspections; enforcement
 
-(1) The Secretary may inspect a ship to which this chapter applies as provided under section 1902(a)(5) of this title, to verify whether the ship is in compliance with Annex VI to the Convention and this chapter.
+(1) The Secretary may inspect a ship to which this chapter applies as provided under section1902(a)(5) of this title, to verify whether the ship is in compliance with Annex VI to the Convention and this chapter.
 
 (2) If an inspection under this subsection or any other information indicates that a violation has occurred, the Secretary, or the Administrator in a matter referred by the Secretary, may undertake enforcement action under this section.
 

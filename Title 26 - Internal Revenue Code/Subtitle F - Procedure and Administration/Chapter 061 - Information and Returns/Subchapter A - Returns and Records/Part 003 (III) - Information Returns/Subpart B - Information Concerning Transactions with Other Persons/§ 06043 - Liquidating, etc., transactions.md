@@ -24,7 +24,7 @@ If—
 
 &emsp;(2) there is a recapitalization of a corporation or other substantial change in the capital structure of a corporation,
 
-> when required by the Secretary, such corporation shall make a return (at such time and in such manner as the Secretary may prescribe)setting forth the identity of the parties to the transaction, the fees involved, the changes in the capital structure involved, and such other information as the Secretary may require with respect to such transaction.
+> when required by the Secretary, such corporation shall make a return (at such time and in such manner as the Secretary may prescribe) setting forth the identity of the parties to the transaction, the fees involved, the changes in the capital structure involved, and such other information as the Secretary may require with respect to such transaction.
 
 #### (d) Cross references
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date of 1969 Amendment
 
-Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section 101(k)(2)(B) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
+Amendment by Pub. L. 91–172 applicable to taxable years beginning after Dec. 31, 1969, see section101(k)(2)(B) of Pub. L. 91–172, set out as an Effective Date note under section 4940 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "6652(l)."</i>
 

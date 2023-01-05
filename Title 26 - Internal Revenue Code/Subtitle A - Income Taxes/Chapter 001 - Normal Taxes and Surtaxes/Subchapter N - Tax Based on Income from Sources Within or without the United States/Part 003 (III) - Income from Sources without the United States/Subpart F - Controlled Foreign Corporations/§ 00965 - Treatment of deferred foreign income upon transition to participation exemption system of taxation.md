@@ -46,7 +46,7 @@ In the case of the last taxable year of a deferred foreign income corporation wh
 
 #### (B) E\&P deficit foreign corporation
 
-&emsp;&emsp;The term "E\&P deficit foreign corporation" means, with respect to any taxpayer, any specified foreign corporation with respect to which such taxpayer is a United States shareholder, if, as of November 2, 2017—
+&emsp;&emsp;The term "E\&P deficit foreign corporation" means, with respect to any taxpayer,any specified foreign corporation with respect to which such taxpayer is a United States shareholder, if, as of November 2, 2017—
 
 &emsp;&emsp;&emsp;(i) such specified foreign corporation has a deficit in post-1986 earnings and profits,
 
@@ -194,7 +194,7 @@ In the case of the last taxable year of a deferred foreign income corporation wh
 
 #### (E) Cash positions of certain non-corporate entities taken into account
 
-&emsp;&emsp;An entity (other than a corporation) shall be treated as a specified foreign corporation of a United States shareholder for purposes of determining such United States shareholder's aggregate foreign cash position if any interest in such entity is held by a specified foreign corporation of such United States shareholder (determined after application of this subparagraph) and such entity would be a specified foreign corporation of such United States shareholder if such entity were a foreign corporation.
+&emsp;&emsp;An entity (other than a corporation) shall be treated as a specified foreign corporation of a United States shareholder for purposes of determining such United States shareholder's aggregate foreign cash position if any interest in such entity is held by a specified foreign corporation of such United States shareholder (determined after application of this subparagraph) and such entity would be a specified foreign corporation ofsuch United States shareholder if such entity were a foreign corporation.
 
 #### (F) Anti-abuse
 
@@ -400,7 +400,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Any shareholder of an S corporation which makes an election under paragraph (1) shallreport the amount of such shareholder's deferred net tax liability on such shareholder's return of tax for the taxable year for which such election is made and on the return of tax for each taxable year thereafter until such amount has been fully assessed on such returns.
+&emsp;&emsp;Any shareholder of an S corporation which makes an election under paragraph (1) shall report the amount of such shareholder's deferred net tax liability on such shareholder's return of tax for the taxable year for which such election is made and on the return of tax for each taxable year thereafter until such amount has been fully assessed on such returns.
 
 #### (B) Deferred net tax liability
 
@@ -424,7 +424,7 @@ Each S corporation which is a United States shareholder of a specified foreign c
 
 #### (k) Extension of limitation on assessment
 
-Notwithstanding section 6501, the limitation on the time period for the assessment of the net tax liability under this section (as defined in subsection (h)(6)) shall not expire before the date that is 6 years after the return for the taxable year described in such subsection was filed.
+Notwithstanding section 6501, the limitation on the time period for the assessment of the net tax liability under this section (as defined insubsection (h)(6)) shall not expire before the date that is 6 years after the return for the taxable year described in such subsection was filed.
 
 #### (l) Recapture for expatriated entities
 
@@ -496,7 +496,7 @@ No installment payments.—The real estate investment trust may not make an elec
 
 &emsp;&emsp;(A) in determining the amount of the net operating loss deduction under section 172 of such shareholder for such taxable year, or
 
-&emsp;&emsp;(B) in determining the amount of taxable income for such taxable year which may be reduced by net operating loss carryovers or carrybacks to such taxable year under section 172.
+&emsp;&emsp;(B) in determining the amount of taxable income for such taxable year which may be reduced by net operating loss carryovers orcarrybacks to such taxable year under section 172.
 
 #### (2) Amount described
 

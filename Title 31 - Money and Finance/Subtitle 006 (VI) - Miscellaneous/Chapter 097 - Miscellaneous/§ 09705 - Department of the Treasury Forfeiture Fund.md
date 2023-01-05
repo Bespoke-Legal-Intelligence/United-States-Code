@@ -172,7 +172,7 @@ Reports to Congress.—The Secretary shall transmit to the Congress, not later t
 
 &emsp;&emsp;(F) the balance of the Fund at the end of the preceding fiscal year;
 
-&emsp;&emsp;(G) the net amount, if any, of the excess unobligated amounts remaining in the Fund at the end of the preceding fiscal year and available to the Secretary for Federal law enforcement related purposes;
+&emsp;&emsp;(G) the net amount, if any, of the excess unobligated amounts remaining in the Fundat the end of the preceding fiscal year and available to the Secretary for Federal law enforcement related purposes;
 
 &emsp;&emsp;(H) a complete set of audited financial statements (including a balance sheet, income statement, and cash flow analysis) prepared in a manner consistent with the requirements of the Chief Financial Officers Act of 1990 (Public Law 101–576); and
 
@@ -298,7 +298,7 @@ Secretary.—The term "Secretary" means the Secretary of the Treasury.
 
 #### References in Text
 
-Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referred to in subsec. (o)(1), is classified to section 5872(b)(2) of Title 26.
+Sections 7301 and 7302 of the Internal Revenue Code of 1986, referred to in subsecs. (a), (d)(2)(A), (h)(1), and (j)(1), are classified to sections 7301 and 7302, respectively, of Title 26, Internal Revenue Code. Section 5872(b)(2) of the Internal Revenue Code of 1986, referredto in subsec. (o)(1), is classified to section 5872(b)(2) of Title 26.
 
 The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1114, which is classified principally to chapter 21 (§1951 et seq.) of Title 12, Banks and Banking, and has also been the popular name of provisions reenacted as subchapter II of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1951 of Title 12 and Tables.
 
@@ -364,7 +364,7 @@ Subsec. (g)(3)(A). Pub. L. 103–322, §90205(c)(1)(A), amended subpar. (A) gene
 
 Subsec. (g)(3)(B). Pub. L. 103–322, §90205(c)(1)(B), inserted at end "Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000."
 
-Subsec. (g)(4)(A). Pub. L. 103–322, §90205(c)(2), struck out "(i)" after "(A)" and struck out cl. (ii) which read as follows: "Beginning in fiscal year 1994, and each fiscal year thereafter, the Secretary shall transfer to theAttorney General an amount agreed upon by the Secretary and the Attorney General (taking into account any amount transferred by the Secretary pursuant to paragraph (3)(A)). The amount transferred under this clause shall reflect the Department of the Treasury's pro rata share of the amount required to be transferred by the Attorney General pursuant to section 524(c)(9)(B) of title 28."
+Subsec. (g)(4)(A). Pub. L. 103–322, §90205(c)(2), struck out "(i)" after "(A)" and struck out cl. (ii) which read as follows: "Beginning in fiscal year 1994, and each fiscal year thereafter, the Secretary shall transfer to the Attorney General an amount agreed upon by the Secretary and the Attorney General (taking into account any amount transferred by the Secretary pursuant to paragraph (3)(A)). The amount transferred under this clause shall reflect the Department of the Treasury's pro rata share of the amount required to be transferred by the Attorney General pursuant to section 524(c)(9)(B) of title 28."
 
 <b>1993</b>—Subsec. (a)(2)(E) to (J). Pub. L. 103–182, §685(1), (2), added subpar. (E) and redesignated former subpars. (E) to (I) as (F) to (J), respectively.
 

@@ -1,6 +1,6 @@
 ### §251. Medical examination and treatment of Federal employees; medical care at remote stations
 
-(a) The Surgeon General is authorized to provide at institutions, hospitals, and station of the Service medical, surgical, and hospital services and supplies for persons entitled to treatment under subchapter I of Chapter 81 of title 5 andextensions thereof. The Surgeon General may also provide for making medical examinations of—
+(a) The Surgeon General is authorized to provide at institutions, hospitals, and station of the Service medical, surgical, and hospital services and supplies for persons entitled to treatment under subchapter I of Chapter 81 of title 5 and extensions thereof. The Surgeon General may also provide for making medical examinations of—
 
 &emsp;(1) employees of the Federal Government for retirement purposes;
 
@@ -18,7 +18,7 @@
 
 #### References in Text
 
-The Longshore and Harbor Workers' Compensation Act, as amended, referred to in subsec. (a)(4), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, which is classified generally to chapter 18 (§901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
+The Longshore and Harbor Workers' Compensation Act, as amended, referred to in subsec. (a)(4), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, which is classified generally to chapter 18 (§901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
 
 #### Codification
 

@@ -18,7 +18,7 @@
 
 #### (2) Exclusion
 
-&emsp;The estimates under this subsection shall not apply to sugar imported for the production of polyhydric alcohol or to any sugar refined and reexported in refined form or in products containing sugar.
+&emsp;The estimates under this subsection shall not apply to sugar imported for the production of polyhydric alcohol or to any sugar refinedand reexported in refined form or in products containing sugar.
 
 #### (3) Reestimates
 

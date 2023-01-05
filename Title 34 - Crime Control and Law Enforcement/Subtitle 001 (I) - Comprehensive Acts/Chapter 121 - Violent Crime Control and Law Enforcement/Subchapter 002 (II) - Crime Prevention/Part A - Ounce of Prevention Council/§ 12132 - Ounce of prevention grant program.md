@@ -18,7 +18,7 @@ Applicants may be Indian tribal governments, cities, counties, or other municipa
 
 #### (c) Priority
 
-In making such grants, the Council shall give preference to coalitions consisting of a broad spectrum of community-based and social service organizations that have a coordinated team approach to reducing gang membership and the effects of substance abuse, and providing alternatives to at-risk youth.
+In making such grants, the Council shall give preference to coalitions consisting of a broadspectrum of community-based and social service organizations that have a coordinated team approach to reducing gang membership and the effects of substance abuse, and providing alternatives to at-risk youth.
 
 #### (d) Federal share
 

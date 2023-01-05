@@ -2,7 +2,7 @@
 
 #### (a) Authority to receive
 
-It shall be lawful for the Secretary to receive for internal revenue taxes (or in payment for internal revenue stamps) any commercially acceptable means that the Secretary deems appropriate to the extent and under the conditions provided in regulations prescribed by the Secretary.
+It shall be lawful for the Secretary to receive for internal revenue taxes (or in payment for internal revenue stamps) any commercially acceptable means that the Secretary deems appropriate to the extent and under the conditionsprovided in regulations prescribed by the Secretary.
 
 #### (b) Ultimate liability
 
@@ -46,7 +46,7 @@ If any certified, treasurer's, or cashier's check (or other guaranteed draft), o
 
 &emsp;&emsp;(B) a payment of internal revenue taxes (or a payment for internal revenue stamps) shall not be subject to section 170 of the Truth in Lending Act (15 U.S.C. 1666i), or to any similar provisions of State law,
 
-&emsp;&emsp;(C) a payment of internal revenue taxes (or a payment for internal revenue stamps) by a person by use of a debit card shall not be subject to section 908 of the Electronic Fund Transfer Act (15 U.S.C. 1693f), or to any similar provisions of State law, if the error alleged by the person is an error relating tothe underlying tax liability, rather than an error relating to the debit card account such as a computational error or numerical transposition in the debit card transaction or an issue as to whether the person authorized payment by use of the debit card,
+&emsp;&emsp;(C) a payment of internal revenue taxes (or a payment for internal revenue stamps) by a person by use of a debit card shall not be subject to section 908 of the Electronic Fund Transfer Act (15 U.S.C. 1693f), or to any similar provisions of State law, if the error alleged by the person is an error relating to the underlying tax liability, rather than an error relating to the debit card account such as a computational error or numerical transposition in the debit card transaction or an issue as to whether the person authorized payment by use of the debit card,
 
 &emsp;&emsp;(D) the term "creditor" under section 103(g) of the Truth in Lending Act (15 U.S.C. 1602(g)) shall not include the Secretary with respect to credit card transactions in payment of internal revenue taxes (or payment for internal revenue stamps), and
 

@@ -8,7 +8,7 @@ In order to be eligible for payment under this subpart, a State must have a plan
 
 Each plan for child welfare services under this subpart shall—
 
-&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under division A <sup>1</sup> of subchapter XX will administer orsupervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
+&emsp;(1) provide that (A) the individual or agency that administers or supervises the administration of the State's services program under division A <sup>1</sup> of subchapter XX will administer or supervise the administration of the plan (except as otherwise provided in section 103(d) of the Adoption Assistance and Child Welfare Act of 1980), and (B) to the extent that child welfare services are furnished by the staff of the State agency or local agency administering the plan, a single organizational unit in such State or local agency, as the case may be, will be responsible for furnishing such child welfare services;
 
 &emsp;(2) provide for coordination between the services provided for children under the plan and the services and assistance provided under division A <sup>1</sup> of subchapter XX, under the State program funded under part A, under the State plan approved under subpart 2 of this part, under the State plan approved under the State plan approved <sup>2</sup> under part E, and under other State programs having a relationship to the program under this subpart, with a view to provision of welfare and related services which will best promote the welfare of such children and their families;
 
@@ -56,7 +56,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(14) not later than October 1, 2007, include assurances that not more than 10 percent of the expenditures of the State with respect to activities funded from amounts provided under this subpart will be for administrative costs;
 
-&emsp;(15)(A) provides <sup>3</sup> that the State will develop, in coordination and collaboration with the State agency referred to in paragraph (1) and the State agency responsible for administering the State plan approved under subchapter XIX, and in consultation with pediatricians, other experts in health care, and experts inand recipients of child welfare services, a plan for the ongoing oversight and coordination of health care services for any child in a foster care placement, which shall ensure a coordinated strategy to identify and respond to the health care needs of children in foster care placements, including mental health and dental health needs, and shall include an outline of—
+&emsp;(15)(A) provides <sup>3</sup> that the State will develop, in coordination and collaboration with the State agency referred to in paragraph (1) and the State agency responsible for administering the State plan approved under subchapter XIX, and in consultation with pediatricians, other experts in health care, and experts in and recipients of child welfare services, a plan for the ongoing oversight and coordination of health care services for any child in a foster care placement, which shall ensure a coordinated strategy to identify and respond to the health care needs of children in foster care placements, including mental health and dental health needs, and shall include an outline of—
 
 &emsp;&emsp;(i) a schedule for initial and follow-up health screenings that meet reasonable standards of medical practice;
 
@@ -104,7 +104,7 @@ In this subpart:
 
 #### (1) Administrative costs
 
-&emsp;The term "administrative costs" means costs for the following, but only to the extent incurred in administering the State plan developed pursuant to this subpart: procurement, payroll management, personnel functions (other than the portion of the salaries of supervisors attributable to time spent directly supervising the provision of services by caseworkers), management, maintenance and operation of space and property, data processingand computer services, accounting, budgeting, auditing, and travel expenses (except those related to the provision of services by caseworkers or the oversight of programs funded under this subpart).
+&emsp;The term "administrative costs" means costs for the following, but only to the extent incurred in administering the State plan developed pursuant to this subpart: procurement, payroll management, personnel functions (other than the portion of the salaries of supervisors attributable to time spent directly supervising the provision of services by caseworkers), management, maintenance and operation of space and property, data processing and computer services, accounting, budgeting, auditing, and travel expenses (except those related to the provision of services by caseworkers or the oversight of programs funded under this subpart).
 
 #### (2) Other terms
 
@@ -128,7 +128,7 @@ The Indian Child Welfare Act, referred to in subsec. (b)(9), probably means the 
 
 Subsec. (b)(18). Pub. L. 115–123, §50772, substituted "all vulnerable children under 5 years of age" for "such children".
 
-Subsec. (b)(19). Pub. L. 115–123, §50732, amended par. (19) generally. Prior to amendment, par. (19) read as follows: "contain a description of the sources used to compile information on child maltreatment deaths required by Federal law to be reported by the State agency referred to in paragraph (1), and to the extent that the compilation does not include information on such deaths from the State vital statistics department, child death review teams, law enforcement agencies, or offices of medical examiners or coroners, the State shall describe why the information is not so included and how the State will include the information."
+Subsec. (b)(19). Pub. L. 115–123, §50732, amended par. (19) generally. Prior to amendment, par. (19) read as follows: "contain a description of the sources used to compile information on child maltreatment deaths required by Federal law to be reported by the State agency referred to in paragraph (1), and to the extent thatthe compilation does not include information on such deaths from the State vital statistics department, child death review teams, law enforcement agencies, or offices of medical examiners or coroners, the State shall describe why the information is not so included and how the State will include the information."
 
 <b>2014</b>—Subsec. (b)(8)(A)(ii). Pub. L. 113–183, §112(b)(2)(A)(i), inserted "and in accordance with the requirements of section 675a of this title" after "section 675(5) of this title".
 
@@ -358,7 +358,7 @@ Pub. L. 112–34, title I, §107, Sept. 30, 2011, 125 Stat. 378, provided that:
 
 "(a)
 
-In General.—Except as otherwise provided in this title \[enacting section 629m of this title, amending sections 622 to 625, 629a to 629c, 629f to 629h, 673, 675, and679b of this title, and enacting provisions set out as notes under sections 629h and 629m of this title\], this title and the amendments made by this title shall take effect on October 1, 2011, and shall apply to payments under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
+In General.—Except as otherwise provided in this title \[enacting section 629m of this title, amending sections 622 to 625, 629a to 629c, 629f to 629h, 673, 675, and 679b of this title, and enacting provisions set out as notes under sections 629h and 629m of this title\], this title and the amendments made by this title shall take effect on October 1, 2011, and shall apply to payments under parts B and E of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 670 et seq.\] for calendar quarters beginning on or after such date, without regard to whether regulations to implement the amendments are promulgated by such date.
 
 "(b)
 
@@ -476,7 +476,7 @@ Pub. L. 96–272, title I, §103(d), June 17, 1980, 94 Stat. 521, provided that:
 
 #### Overpayments or Underpayments
 
-Pub. L. 90–248, title II, §240(f)(3), Jan. 2, 1968, 81 Stat. 916, provided that in the case of any State which has a plan developed as provided in part 3 of this subchapter as in effect prior to Jan. 2, 1968, sections 721 to 728 ofthis title, "any overpayment or underpayment which the Secretary determines was made to the State under section 523 of the Social Security Act \[42 U.S.C. 723\] and with respect to which adjustment has not then already been made under subsection (b) of such section shall, for purposes of section 422 of such Act \[42 U.S.C. 622\], be considered an overpayment or underpayment (as the case may be) made under section 422 of such Act."
+Pub. L. 90–248, title II, §240(f)(3), Jan. 2, 1968, 81 Stat. 916, provided that in the case of any State which has a plan developed as provided in part 3 of this subchapter as in effect prior to Jan. 2, 1968, sections 721 to 728 of this title, "any overpayment or underpayment which the Secretary determines was made to the State under section 523 of the Social Security Act \[42 U.S.C. 723\] and with respect to which adjustment has not then already been made under subsection (b) of such section shall, for purposes of section 422 of such Act \[42 U.S.C. 622\], be considered an overpayment or underpayment (as the case may be) made under section 422 of such Act."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

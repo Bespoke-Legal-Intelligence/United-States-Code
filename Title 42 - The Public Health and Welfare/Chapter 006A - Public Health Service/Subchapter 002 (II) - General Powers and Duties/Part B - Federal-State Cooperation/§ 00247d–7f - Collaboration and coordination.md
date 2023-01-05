@@ -42,7 +42,7 @@
 
 #### (2) Submission of written agreements
 
-&emsp;The Secretary shall submit each written agreement regarding covered activities that ismade pursuant to meetings or consultations conducted under paragraph (1) to the Attorney General and the Chairman for consideration. In addition to the proposed agreement itself, any submission shall include—
+&emsp;The Secretary shall submit each written agreement regarding covered activities that is made pursuant to meetings or consultations conducted under paragraph (1) to the Attorney General and the Chairman for consideration. In addition to the proposed agreement itself, any submission shall include—
 
 &emsp;&emsp;(A) an explanation of the intended purpose of the agreement;
 
@@ -62,7 +62,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Attorney General, in consultation with the Chairman, shall grant, deny, grant in part and deny in part, or propose modifications to an exemption request regarding a written agreement submitted under paragraph (2), in a written statement to the Secretary, within 15 business days of the receipt of such request. An exemption granted under this paragraph shall take effect immediately.
+&emsp;&emsp;The Attorney General, in consultation with the Chairman, shall grant, deny, grantin part and deny in part, or propose modifications to an exemption request regarding a written agreement submitted under paragraph (2), in a written statement to the Secretary, within 15 business days of the receipt of such request. An exemption granted under this paragraph shall take effect immediately.
 
 #### (B) Extension
 
@@ -134,7 +134,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(iv) Exchanging information among competitors relating to production (other than production by such covered activities) of a product, process, or service if such information is not reasonably necessary to carry out such covered activities.
 
-&emsp;&emsp;&emsp;(v) Entering into any agreement or engaging in any other conduct restricting, requiring, or otherwise involving the production of a product, process, or service that is not expressly exempted from the antitrust laws under subsection (a)(4).
+&emsp;&emsp;&emsp;(v) Entering into any agreement or engaging in any other conduct restricting,requiring, or otherwise involving the production of a product, process, or service that is not expressly exempted from the antitrust laws under subsection (a)(4).
 
 &emsp;&emsp;&emsp;(vi) Except as otherwise provided in this subsection, entering into any agreement or engaging in any other conduct to restrict or require participation by any person participating in such covered activities, in any unilateral or joint activity that is not reasonably necessary to carry out such covered activities.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;An individual who was a former spouse of a participant or retired participant on November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b), to a survivor annuity equal to 55 percent of the greater of—
+&emsp;An individual who was a former spouse of a participant or retired participant on November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified undersubsection (b), to a survivor annuity equal to 55 percent of the greater of—
 
 &emsp;&emsp;(A) the unreduced amount of the participant's or retired participant's annuity, as computed under section 2031(a) of this title; or
 
@@ -18,7 +18,7 @@
 
 A former spouse is not entitled to a survivor annuity under this section if—
 
-&emsp;(1) the former spouse remarries before age 55, except that the entitlement of the formerspouse to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; or
+&emsp;(1) the former spouse remarries before age 55, except that the entitlement of the former spouse to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce; or
 
 &emsp;(2) the former spouse is less than 50 years of age.
 

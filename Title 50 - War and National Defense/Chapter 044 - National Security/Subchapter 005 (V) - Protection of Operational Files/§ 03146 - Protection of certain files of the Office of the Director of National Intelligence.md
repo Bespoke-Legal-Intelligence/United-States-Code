@@ -70,7 +70,7 @@ The provisions of this section may not be superseded except by a provision of la
 
 &emsp;(D) In proceedings under subparagraph (C), a party may not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admissions may be made pursuant to rules 26 and 36 of the Federal Rules of Civil Procedure.
 
-&emsp;(E) If the court finds under this subsection that the Office has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Office to search and review each appropriate exempted file for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5 (commonly referred to as the Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section.
+&emsp;(E) If the court finds under this subsection that the Office has improperly withheld requested records because of failure to comply with any provision of this section, the court shall order the Office to search and review each appropriate exempted file for the requested records and make such records, or portions thereof, available in accordance with theprovisions of section 552 of title 5 (commonly referred to as the Freedom of Information Act), and such order shall be the exclusive remedy for failure to comply with this section.
 
 &emsp;(F) If at any time following the filing of a complaint pursuant to this paragraph the Office agrees to search each appropriate exempted file for the requested records, the court shall dismiss the claim based upon such complaint.
 

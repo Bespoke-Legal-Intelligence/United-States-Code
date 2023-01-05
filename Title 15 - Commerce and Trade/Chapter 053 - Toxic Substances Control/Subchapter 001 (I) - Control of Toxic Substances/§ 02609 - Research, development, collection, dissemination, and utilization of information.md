@@ -14,11 +14,11 @@ The Administrator shall, in consultation and cooperation with the Secretary of H
 
 #### (c) Screening techniques
 
-The Administrator shall coordinate, with the Assistant Secretary for Health of the Department of Health and Human Services, research undertaken by the Administrator and directedtoward the development of rapid, reliable, and economical screening techniques for carcinogenic, mutagenic, teratogenic, and ecological effects of chemical substances and mixtures.
+The Administrator shall coordinate, with the Assistant Secretary for Health of the Department of Health and Human Services, research undertaken by the Administrator and directed toward the development of rapid, reliable, and economical screening techniques for carcinogenic, mutagenic, teratogenic, and ecological effects of chemical substances and mixtures.
 
 #### (d) Monitoring
 
-The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services, establish and be responsible for research aimed at the development, in cooperation with local, State, and Federal agencies, of monitoring techniques and instruments which may be used in the detection of toxic chemical substances and mixtures and which are reliable, economical, and capable of being implemented under a wide variety of conditions.
+The Administrator shall, in consultation and cooperation with the Secretary of Health and Human Services, establish and be responsible for research aimed at the development, in cooperation with local, State, and Federal agencies, of monitoring techniques and instruments which may be used in the detection of toxic chemical substances and mixtures and which are reliable,economical, and capable of being implemented under a wide variety of conditions.
 
 #### (e) Basic research
 

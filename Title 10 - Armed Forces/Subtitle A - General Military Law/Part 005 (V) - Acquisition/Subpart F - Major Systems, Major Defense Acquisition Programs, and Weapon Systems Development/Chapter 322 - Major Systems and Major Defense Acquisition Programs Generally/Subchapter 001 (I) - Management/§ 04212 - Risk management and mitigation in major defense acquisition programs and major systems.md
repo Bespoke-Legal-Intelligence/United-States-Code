@@ -46,7 +46,7 @@ Preference for Prototyping.—To the maximum extent practicable and consistent w
 
 (d)
 
-Concurrency Defined.—In this section, the term "concurrency" means, with respect to an acquisition strategy, the combination or overlap of program phases or activities.
+Concurrency Defined.—In this section, the term "concurrency" means, with respect toan acquisition strategy, the combination or overlap of program phases or activities.
 
 (Added Pub. L. 114–92, div. A, title VIII, §822(a)(1), Nov. 25, 2015, 129 Stat. 900, §2431b; amended Pub. L. 114–328, div. A, title X, §1081(a)(7), Dec. 23, 2016, 130 Stat. 2417; renumbered §4212 and amended Pub. L. 116–283, div. A, title XVIII, §1847(b)(3), Jan. 1, 2021, 134 Stat. 4254.)
 

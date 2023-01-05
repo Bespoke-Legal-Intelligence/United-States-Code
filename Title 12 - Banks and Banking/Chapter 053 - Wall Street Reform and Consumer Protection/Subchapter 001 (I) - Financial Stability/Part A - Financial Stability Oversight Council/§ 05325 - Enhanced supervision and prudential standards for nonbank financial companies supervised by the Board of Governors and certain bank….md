@@ -14,7 +14,7 @@
 
 &emsp;In making recommendations under this section, the Council may—
 
-&emsp;&emsp;(A) differentiate among companies that are subject to heightened standards on an individual basis or by category, taking into consideration their capital structure, riskiness, complexity, financial activities (including the financial activities of their subsidiaries), size, and any other risk-related factors that the Council deems appropriate; or
+&emsp;&emsp;(A) differentiate among companies that are subject to heightened standards on an individual basis or by category, taking into consideration their capital structure, riskiness, complexity, financial activities (including the financial activities of their subsidiaries), size, and any other risk-relatedfactors that the Council deems appropriate; or
 
 &emsp;&emsp;(B) recommend an asset threshold that is higher than the applicable threshold for the application of any standard described in subsections (c) through (g).
 

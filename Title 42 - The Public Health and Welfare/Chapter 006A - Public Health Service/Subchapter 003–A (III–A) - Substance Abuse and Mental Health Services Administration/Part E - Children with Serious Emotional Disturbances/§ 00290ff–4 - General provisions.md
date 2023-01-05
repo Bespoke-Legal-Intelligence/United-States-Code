@@ -10,7 +10,7 @@ The period during which payments are made to a public entity from a grant under 
 
 &emsp;The Secretary shall, upon the request of a public entity, regardless of whether such public entity is receiving a grant under section 290ff(a) of this title—
 
-&emsp;&emsp;(A) provide technical assistance to the entity regarding the process of submitting tothe Secretary applications for grants under section 290ff(a) of this title; and
+&emsp;&emsp;(A) provide technical assistance to the entity regarding the process of submitting to the Secretary applications for grants under section 290ff(a) of this title; and
 
 &emsp;&emsp;(B) provide to the entity training and technical assistance with respect to the planning, development, and operation of systems of care described in section 290ff–1 of this title.
 
@@ -38,7 +38,7 @@ For purposes of this part:
 
 &emsp;&emsp;(A) the legal guardian of the child; and
 
-&emsp;&emsp;(B) as appropriate regarding mental health services for the child, the parents of the child (biological or adoptive, as the case may be) and any foster parents of the child.
+&emsp;&emsp;(B) as appropriate regarding mental health services for the child, the parents of the child (biological or adoptive, as the case may be), kinship caregivers of the child, and any foster parents of the child.
 
 &emsp;(3) The term "funding agreement", with respect to a grant under section 290ff(a) of this title to a public entity, means that the Secretary may make such a grant only if the public entity makes the agreement involved.
 
@@ -52,21 +52,25 @@ Nothing in this part shall be construed as limiting the rights of a child with a
 
 #### (1) Authorization of appropriations
 
-&emsp;For the purpose of carrying out this part, there are authorized to be appropriated $119,026,000 for each of fiscal years 2018 through 2022.
+&emsp;For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for each of fiscal years 2023 through 2027.
 
 #### (2) Limitation regarding technical assistance
 
 &emsp;Not more than 10 percent of the amounts appropriated under paragraph (1) for a fiscal year may be expended for carrying out subsection (b).
 
-(July 1, 1944, ch. 373, title V, §565, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 356; amended Pub. L. 103–43, title XX, §2017(2), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(c), (d), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 114–255, div. B, title X, §10001(d), Dec. 13, 2016, 130 Stat. 1262.)
+(July 1, 1944, ch. 373, title V, §565, as added Pub. L. 102–321, title I, §119, July 10, 1992, 106 Stat. 356; amended Pub. L. 103–43, title XX, §2017(2), June 10, 1993, 107 Stat. 218; Pub. L. 106–310, div. B, title XXXI, §3105(c), (d), Oct. 17, 2000, 114 Stat. 1175; Pub. L. 114–255, div. B, title X, §10001(d), Dec. 13, 2016, 130 Stat. 1262; Pub. L. 117–328, div. FF, title I, §1411, Dec. 29, 2022, 136 Stat. 5701.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (e), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (e), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(2)(B). Pub. L. 117–328, §1411(a), substituted "may be), kinship caregivers of the child," for "may be)".
+
+Subsec. (f)(1). Pub. L. 117–328, §1411(b), substituted "$125,000,000 for each of fiscal years 2023 through 2027" for "$119,026,000 for each of fiscal years 2018 through 2022" and realigned margin.
 
 <b>2016</b>—Subsec. (b)(1). Pub. L. 114–255, §10001(d)(1)(A), substituted ", regardless of whether such public entity is receiving a grant under section 290ff(a) of this title" for "receiving a grant under section 290ff(a) of this title" in introductory provisions.
 

@@ -98,7 +98,7 @@ In the case of merchandise that is purchased and invoiced as a single entity but
 
 #### References in Text
 
-The Foreign Trade Zones Act, referred to in subsec. (i)(4), is act June 18, 1934, ch. 590, 48 Stat. 998, as amended, which is classified generally to chapter 1A (§81a et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Foreign Trade Zones Act, referred to in subsec. (i)(4), is act June 18, 1934, ch. 590, 48 Stat. 998, which is classified generally to chapter 1A (§81a et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

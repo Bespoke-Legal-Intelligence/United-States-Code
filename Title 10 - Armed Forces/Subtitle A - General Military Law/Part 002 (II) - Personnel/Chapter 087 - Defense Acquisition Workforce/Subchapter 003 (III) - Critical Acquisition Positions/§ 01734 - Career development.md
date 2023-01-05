@@ -30,7 +30,7 @@ Major Milestone Regulations.—(1) The Secretary of Defense shall issue regulati
 
 (d)
 
-Waiver of Assignment Period.—(1) With respect to a person assigned to a critical acquisition position, the Secretary concerned may waive the prohibition on reassignment of that person (in subsection (a)(1) or (b)(1)) and theservice obligation in an agreement executed by that person (under subsection (a)(2) or (b)(2)), but only in exceptional circumstances in which a waiver is necessary for reasons permitted in regulations prescribed by the Secretary of Defense.
+Waiver of Assignment Period.—(1) With respect to a person assigned to a critical acquisition position, the Secretary concerned may waive the prohibition on reassignment of that person (in subsection (a)(1) or (b)(1)) and the service obligation in an agreement executed by that person (under subsection (a)(2) or (b)(2)), but only in exceptional circumstances in which a waiver is necessary for reasons permitted in regulations prescribed by the Secretary of Defense.
 
 (2) With respect to each waiver granted under this subsection, the service acquisition executive (or his delegate) shall set forth in a written document the rationale for the decision to grant the waiver.
 
@@ -52,7 +52,7 @@ Exchange Program.—The Secretary of Defense shall establish, for purposes of br
 
 Responsibility for Assignments.—The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel of that military department who are members of the acquisition workforce to critical acquisition positions.
 
-(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550; Pub. L. 116–92, div. A, title VIII, §861(j)(10), Dec. 20, 2019, 133 Stat. 1520; Pub. L. 116–283, div. A, title XVIII, §1849(f), formerly §1849(m), Jan. 1, 2021, 134 Stat. 4264, renumbered §1849(f) and amended Pub. L. 117–81, div. A, title XVII, §1701(o)(5)(B), (6)(D), Dec. 27, 2021, 135 Stat. 2147; Pub. L. 117–81, div. A, title XVII, §1702(a)(3), Dec. 27, 2021, 135 Stat. 2155.)
+(Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1646; amended Pub. L. 102–484, div. A, title VIII, §812(a), (b), Oct. 23, 1992, 106 Stat. 2450; Pub. L. 104–201, div. A, title X, §1074(a)(9)(D), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 107–107, div. A, title X, §1048(e)(5), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 108–136, div. A, title VIII, §§831(b)(4), 832(b)(3), 833(2), (3), Nov. 24, 2003, 117 Stat. 1549, 1550; Pub. L. 116–92, div. A,title VIII, §861(j)(10), Dec. 20, 2019, 133 Stat. 1520; Pub. L. 116–283, div. A, title XVIII, §1849(f), formerly §1849(m), Jan. 1, 2021, 134 Stat. 4264, renumbered §1849(f) and amended Pub. L. 117–81, div. A, title XVII, §1701(o)(5)(B), (6)(D), Dec. 27, 2021, 135 Stat. 2147; Pub. L. 117–81, div. A, title XVII, §1702(a)(3), Dec. 27, 2021, 135 Stat. 2155.)
 
 #### <b>Editorial Notes</b>
 

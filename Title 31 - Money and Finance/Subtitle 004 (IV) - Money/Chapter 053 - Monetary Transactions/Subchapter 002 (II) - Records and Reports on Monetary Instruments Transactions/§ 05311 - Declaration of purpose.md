@@ -108,7 +108,7 @@ Annual Report.—Not later than 1 year after the date of enactment of this Act \
 
 "(b)
 
-Report.—Beginning with the fifth report submitted under subsection (a), and once every 5 years thereafter, that report shall include a section describing the use of data derived from reporting by financial institutions under the Bank Secrecy Act over the 5 years preceding the date on which the report is submitted, which shall include a description of long-term trends and the use of long-term statistics, metrics, and other information.
+Report.—Beginning with the fifth report submitted under subsection (a), and once every 5 years thereafter, that report shall include a section describing the use of data derived from reporting by financialinstitutions under the Bank Secrecy Act over the 5 years preceding the date on which the report is submitted, which shall include a description of long-term trends and the use of long-term statistics, metrics, and other information.
 
 "(c)
 
@@ -228,7 +228,7 @@ Meetings.—The supervisory team convened under subsection (a) shall meet period
 
 "(c)
 
-Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the supervisory team convened under subsection (a) or to the activities of the supervisory team."
+Federal Advisory Committee Act.—The Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall not apply to the supervisory team convened under subsection (a) or to the activities of the supervisory team."
 
 #### Review of Regulations and Guidance
 
@@ -382,7 +382,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(6) Technical assistance programs from the United States and other nations, coordinated with the Department of State and other departments and agencies, are playing an important role in helping countries and jurisdictions address shortcomings in their AML and CFT regimes and bringing their regimes into conformity with international standards. Training is coordinated within the United States Government, which leverages multilateral organizations and bodies and international financial institutions to internationalize the conveyance of technical assistance.
 
-&emsp;"(7) In fulfilling its duties in advancing incorporation of AML and CFT standards into the IFIs as part of the IFIs' work on protecting the integrity of the international monetary system, the Department of the Treasury, under the guidance of the Secretary of the Treasury, has effectively brought together all of the key United States Government agencies. In particular, United States Government agencies continue to work together to foster broad support for this important undertaking in various multilateral fora, and United States Government agencies recognize the need for close coordination and communication within our own Government.
+&emsp;"(7) In fulfilling its duties in advancing incorporation of AML and CFT standards into the IFIs as partof the IFIs' work on protecting the integrity of the international monetary system, the Department of the Treasury, under the guidance of the Secretary of the Treasury, has effectively brought together all of the key United States Government agencies. In particular, United States Government agencies continue to work together to foster broad support for this important undertaking in various multilateral fora, and United States Government agencies recognize the need for close coordination and communication within our own Government.
 
 "(b)
 
@@ -412,7 +412,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(1) money laundering, estimated by the International Monetary Fund to amount to between 2 and 5 percent of global gross domestic product, which is at least $600,000,000,000 annually, provides the financial fuel that permits transnational criminal enterprises to conduct and expand their operations to the detriment of the safety and security of American citizens;
 
-&emsp;"(2) money laundering, and the defects in financial transparency on which money launderers rely, arecritical to the financing of global terrorism and the provision of funds for terrorist attacks;
+&emsp;"(2) money laundering, and the defects in financial transparency on which money launderers rely, are critical to the financing of global terrorism and the provision of funds for terrorist attacks;
 
 &emsp;"(3) money launderers subvert legitimate financial mechanisms and banking relationships by using them as protective covering for the movement of criminal proceeds and the financing of crime and terrorism, and, by so doing, can threaten the safety of United States citizens and undermine the integrity of United States financial institutions and of the global financial and trading systems upon which prosperity and growth depend;
 
@@ -444,7 +444,7 @@ Purposes.—The purposes of this title \[see Short Title of 2001 Amendment note 
 
 &emsp;"(3) to strengthen the provisions put into place by the Money Laundering Control Act of 1986 (18 U.S.C. 981 note) \[see Short Title of 1986 Amendment note set out under section 981 of Title 18, Crimes and Criminal Procedure\], especially with respect to crimes by non-United States nationals and foreign financial institutions;
 
-&emsp;"(4) to provide a clear national mandate for subjecting to special scrutiny those foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts that pose particular, identifiable opportunities for criminal abuse;
+&emsp;"(4) to provide a clear national mandate for subjecting to special scrutiny those foreign jurisdictions,financial institutions operating outside of the United States, and classes of international transactions or types of accounts that pose particular, identifiable opportunities for criminal abuse;
 
 &emsp;"(5) to provide the Secretary of the Treasury (in this title referred to as the 'Secretary') with broad discretion, subject to the safeguards provided by the Administrative Procedure Act under title 5, United States Code \[5 U.S.C. 551 et seq., 701 et seq.\], to take measures tailored to the particular money laundering problems presented by specific foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts;
 
@@ -540,7 +540,7 @@ Pub. L. 107–56, title III, §328, Oct. 26, 2001, 115 Stat. 319, provided that:
 
 #### Criminal Penalties
 
-Pub. L. 107–56, title III, §329, Oct. 26, 2001, 115 Stat. 319, provided that: "Any person who is an official oremployee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title \[see Short Title of 2001 Amendment note set out under section 5301 of this title\], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
+Pub. L. 107–56, title III, §329, Oct. 26, 2001, 115 Stat. 319, provided that: "Any person who is an official or employee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title \[see Short Title of 2001 Amendment note set out under section 5301 of this title\], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
 
 &emsp;"(1) being influenced in the performance of any official act;
 
@@ -576,7 +576,7 @@ Beneficial ownership of personal holding companies.—The report described in pa
 
 #### Report on Need for Additional Legislation Relating to Informal Money Transfer Systems
 
-Pub. L. 107–56, title III, §359(d), Oct. 26, 2001, 115 Stat. 329, provided that by 1 year after Oct. 26, 2001, the Secretary of the Treasury would report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system.
+Pub. L. 107–56, title III, §359(d), Oct. 26, 2001, 115 Stat. 329, provided that by 1 year after Oct. 26, 2001, the Secretary of the Treasury would report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domesticallyor internationally outside of the conventional financial institutions system.
 
 #### Uniform State Licensing and Regulation of Check Cashing, Currency Exchange, and Money Transmitting Businesses
 
@@ -698,11 +698,11 @@ Pub. L. 102–550, title XV, §1518, Oct. 28, 1992, 106 Stat. 4060, provided tha
 
 #### Advisory Group on Reporting Requirements
 
-Pub. L. 102–550, title XV, §1564, Oct. 28, 1992, 106 Stat. 4073, as amended by Pub. L. 116–283, div. F, title LXII, §6207, title LXIII, §6302, Jan. 1, 2021, 134 Stat. 4572, 4584, provided that:
+Pub. L. 102–550, title XV, §1564, Oct. 28, 1992, 106 Stat. 4073, as amended by Pub. L. 116–283, div. F, title LXII, §6207, title LXIII, §6302, Jan. 1, 2021, 134 Stat. 4572, 4584; Pub. L. 117–286, §4(a)(197), Dec. 27, 2022, 136 Stat. 4327, provided that:
 
 "(a)
 
-Establishment.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of the Treasury shall establish a Bank Secrecy Act Advisory Group consisting of representatives of the Department of the Treasury, the Department of Justice, and the Office of National Drug Control Policy and of other interested persons and financial institutions subject to the reporting requirements of subchapter II of chapter 53 of title 31, United States Code, or section 6050I of the Internal Revenue Code of 1986 \[26 U.S.C. 6050I\].
+Establishment.—Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 1992\], theSecretary of the Treasury shall establish a Bank Secrecy Act Advisory Group consisting of representatives of the Department of the Treasury, the Department of Justice, and the Office of National Drug Control Policy and of other interested persons and financial institutions subject to the reporting requirements of subchapter II of chapter 53 of title 31, United States Code, or section 6050I of the Internal Revenue Code of 1986 \[26 U.S.C. 6050I\].
 
 "(b)
 
@@ -716,7 +716,11 @@ Purposes.—The Advisory Group shall provide a means by which the Secretary—
 
 "(c)
 
-Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Bank Secrecy Act Advisory Group established pursuant to subsection (a).
+Inapplicability of Chapter 10
+
+of Title 5
+
+, United States Code.—Chapter 10 of title 5, United States Code, shall not apply to the Bank Secrecy Act Advisory Group established pursuant to subsection (a).
 
 "(d)
 
@@ -864,7 +868,7 @@ Pub. L. 101–647, title I, §101, Nov. 29, 1990, 104 Stat. 4789, provided that:
 
 #### International Currency Transaction Reporting
 
-Pub. L. 100–690, title IV, §4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of theTreasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Pub. L. 100–690, title IV, §4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of the Treasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Restrictions on Laundering of United States Currency
 
@@ -902,7 +906,7 @@ Reports.—Not later than 1 year after the date of enactment of this Act \[Nov. 
 
 Authority.—If after receiving the advice of the Secretary and in any case at the time of receipt of the Secretary's report, the Secretary determines that a foreign country—
 
-&emsp;"(1) has jurisdiction over financial institutions that are substantially engaging in currency transactions that effect \[affect\] the United States involving the proceeds of international narcotics trafficking;
+&emsp;"(1) has jurisdiction over financial institutions that are substantially engaging in currency transactionsthat effect \[affect\] the United States involving the proceeds of international narcotics trafficking;
 
 &emsp;"(2) such country has not reached agreement on a mechanism for exchanging adequate records on international currency transactions in connection with narcotics investigations and proceedings; and
 

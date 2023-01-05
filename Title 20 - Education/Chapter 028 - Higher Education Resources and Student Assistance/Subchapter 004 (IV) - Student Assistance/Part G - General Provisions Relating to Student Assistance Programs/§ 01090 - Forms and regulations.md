@@ -116,11 +116,11 @@
 
 #### (ii) Updating of data elements
 
-&emsp;&emsp;&emsp;The Secretary shall determine, in cooperation with States, institutions of higher education, agencies, and organizations involved in student financial assistance, the data elements that may be transferred from the previous academic year's application and those data elements that shall be updated.
+&emsp;&emsp;&emsp;The Secretary shall determine, in cooperation with States, institutions ofhigher education, agencies, and organizations involved in student financial assistance, the data elements that may be transferred from the previous academic year's application and those data elements that shall be updated.
 
 #### (iii) Reduced data authorized
 
-&emsp;&emsp;&emsp;Nothing in this subchapter shall be construed as limiting the authority of theSecretary to reduce the number of data elements required of reapplicants.
+&emsp;&emsp;&emsp;Nothing in this subchapter shall be construed as limiting the authority of the Secretary to reduce the number of data elements required of reapplicants.
 
 #### (iv) Zero family contribution
 
@@ -184,7 +184,7 @@
 
 #### (6) Charges to students and parents for use of forms prohibited
 
-&emsp;The need and eligibility of a student for financial assistance under parts A through E (other than under subpart 4 of part A) may be determined only by using a form developed by the Secretary under this subsection. Such forms shall be produced, distributed, and processed by the Secretary, and no parent or student shall be charged a fee by the Secretary, a contractor, a third-party servicer or private software provider, or any other public or private entity for the collection, processing, or delivery of financial aid through the use of such forms. No data collected on a form for which a fee is charged shall be used to complete the form prescribed under this section, except that a Federal or State income tax form prepared by a paid income tax preparer or preparer service for the primary purpose of filing a Federal or State income tax return may be used to complete the form prescribed under this section.
+&emsp;The need and eligibility of a student for financial assistance under parts A through E (other than under subpart 4 of part A) may be determined only by using a form developed by the Secretary under this subsection. Such forms shall be produced, distributed, and processed by the Secretary, and no parent or student shall be charged a fee by the Secretary, a contractor, a third-party servicer or private software provider, or any other public or private entity for the collection, processing, or delivery of financial aid through the use of such forms. No data collected on a form for which a fee is charged shall be used to complete the form prescribed under this section, except that a Federal or State income tax form prepared by a paid income tax prepareror preparer service for the primary purpose of filing a Federal or State income tax return may be used to complete the form prescribed under this section.
 
 #### (7) Restrictions on use of PIN
 
@@ -302,7 +302,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;(A) States selected through the application process described in paragraph (5);
 
-&emsp;&emsp;(B) institutions of higher education within the selected States that are interested inparticipating in the demonstration program, and that can make estimates or commitments of institutional student financial aid, as appropriate, to students the year before the students' planned enrollment date; and
+&emsp;&emsp;(B) institutions of higher education within the selected States that are interested in participating in the demonstration program, and that can make estimates or commitments of institutional student financial aid, as appropriate, to students the year before the students' planned enrollment date; and
 
 &emsp;&emsp;(C) secondary schools within the selected States that are interested in participating in the demonstration program, and that can commit resources to—
 
@@ -430,7 +430,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;The Comptroller General, in consultation with the study group convened under subparagraph (A) shall—
 
-&emsp;&emsp;&emsp;(i) review and build on the work of the Secretary of Education and the Secretary of the Treasury, and individuals with expertise in analysis of financial need, to assess alternative approaches for calculating the expected family contribution under the statutory need analysis formula in effect on the day before August 14, 2008, and under a new calculation that will use substantially less income and asset information than was used for the 2008–2009 FAFSA;
+&emsp;&emsp;&emsp;(i) review and build on the work of the Secretary of Education and the Secretary of the Treasury, and individuals with expertise in analysis of financial need, to assess alternative approaches for calculating the expected family contribution underthe statutory need analysis formula in effect on the day before August 14, 2008, and under a new calculation that will use substantially less income and asset information than was used for the 2008–2009 FAFSA;
 
 &emsp;&emsp;&emsp;(ii) conduct an additional analysis if necessary; and
 
@@ -500,7 +500,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 #### (g) Addressing the digital divide
 
-The Secretary shall utilize savings accrued by moving more applicants to the electronic version of the forms described in subsection\(a)(3) to improve access to the electronic version of the forms described in such subsection for applicants meeting the requirements of subsection (b) or (c) of section 1087ss of this title.
+The Secretary shall utilize savings accrued by moving more applicants to the electronic version of the forms described in subsection (a)(3) to improve access to the electronic version of the forms described in such subsection for applicants meeting the requirements of subsection (b) or (c) of section 1087ss of this title.
 
 #### (h) Adjustments
 
@@ -510,11 +510,11 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 &emsp;(2) additional information regarding the steps a student or family member may take in order to seek an adjustment under section 1087tt of this title.
 
-(Pub. L. 89–329, title IV, §483, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1478; amended Pub. L. 100–50, §15(3)–(6), June 3, 1987, 101 Stat. 356; Pub. L. 102–325, title IV, §483, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(8)–(12), Dec. 20, 1993, 107 Stat. 2476; Pub. L. 105–244, title IV, §482, Oct. 7, 1998, 112 Stat. 1733; Pub. L. 110–315, title I, §103(b)(10), title IV, §483(a), Aug. 14, 2008, 122 Stat. 3090, 3272; Pub. L. 111–39, title IV, §407(b)(3), July 1, 2009, 123 Stat. 1950; Pub. L. 111–152, title II, §2101(b)(4), Mar. 30, 2010, 124 Stat. 1073; Pub. L. 116–260, div. FF, title VII, §702(m)(1), Dec. 27, 2020, 134 Stat. 3168.)
+(Pub. L. 89–329, title IV, §483, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1478; amended Pub. L. 100–50, §15(3)–(6), June 3, 1987, 101 Stat. 356; Pub. L. 102–325, title IV, §483, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(8)–(12), Dec. 20, 1993, 107 Stat. 2476; Pub. L. 105–244, title IV, §482, Oct. 7, 1998, 112 Stat. 1733; Pub. L. 110–315, title I, §103(b)(10), title IV, §483(a), Aug. 14, 2008, 122 Stat. 3090, 3272; Pub. L. 111–39, title IV, §407(b)(3), July 1, 2009, 123 Stat. 1950; Pub. L. 111–152, title II, §2101(b)(4), Mar. 30, 2010, 124 Stat. 1073; Pub. L. 116–260, div. FF, title VII, §702(m)(1), Dec. 27, 2020, 134 Stat. 3168; Pub. L. 117–103, div. R, §102(b)(4), Mar. 15, 2022, 136 Stat. 819.)
 
 #### Amendment of Section
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(m)(1), Dec. 27, 2020, 134 Stat. 3137, 3168, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(m)(1), Dec. 27, 2020, 134 Stat. 3137, 3168; Pub. L. 117–103, div. R, §102(a), (b)(4), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
 
 #### §1090. Free Application for Federal Student Aid
 
@@ -522,7 +522,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 #### <i>(1) In general</i>
 
-&emsp;<i>Each individual seeking to apply for Federal financial aid under this subchapter for award year 2023–2024 and any subsequent award year shall file a free application with the Secretary, known as the "Free Application for Federal Student Aid", to determine eligibility for such aid, as described in paragraph (2), and in accordance with section 1087ss of this title.</i>
+&emsp;<i>Each individual seeking to apply for Federal financial aid under this subchapter for award year 2024–2025 and any subsequent award year shall file a free application with the Secretary, known as the "Free Application for Federal Student Aid", to determine eligibility for such aid, as described in paragraph (2), and in accordance with section 1087ss of this title.</i>
 
 #### <i>(2) Free application</i>
 
@@ -646,11 +646,11 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 #### <i>(vi) Adjustments</i>
 
-&emsp;&emsp;&emsp;<i>The Secretary shall disclose on the FAFSA that the student may, on a case-by-case basis, qualify for an adjustment under section 1087tt of this title to the cost of attendance or the values of the data items required to calculate the student's eligibility for a Federal Pell Grant or the student aid index for the student or parent.</i>
+&emsp;&emsp;&emsp;<i>The Secretary shall disclose on the FAFSA that the student may, on a case-by-case basis,</i><i>qualify for an adjustment under section 1087tt of this title to the cost of attendance or the values of the data items required to calculate the student's eligibility for a Federal Pell Grant or the student aid index for the student or parent.</i>
 
 #### <i>(C) Notification and approval of request for tax return information</i>
 
-&emsp;&emsp;<i>The Secretary shall notify students and borrowers who wish to submit an application for Federal student financial aid under this subchapter (as well as parents and spouses who must sign such an application or request or a Master Promissory Note on behalf of those stu</i><i>dents and borrowers) of the authority of the Secretary to require that such persons affirmatively approve that the Internal Revenue Service disclose their tax return information as described in section 1098h of this title.</i>
+&emsp;&emsp;<i>The Secretary shall notify students and borrowers who wish to submit an application for Federal student financial aid under this subchapter (as well as parents and spouses who must sign such an application or request or a Master Promissory Note on behalf of those students and borrowers) of the authority of the Secretary to require that such persons affirmatively approve that the Internal Revenue Service disclose their tax return information as described in section 1098h of this title.</i>
 
 #### <i>(D) Authorizations available to the applicant</i>
 
@@ -704,7 +704,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 &emsp;&emsp;&emsp;&emsp;<i>(III) Institutional default rate, as calculated under section 1085 of this title.</i>
 
-&emsp;&emsp;&emsp;<i>(iv) If the student is eligible for a student aid index of less than or equal to zero under section 1087mm of this title, a notification of the Federal means-tested benefits that they have not already indicated they receive, but for which they may be eligible, and relevant</i><i>links and information on how to apply for such benefits.</i>
+&emsp;&emsp;&emsp;<i>(iv) If the student is eligible for a student aid index of less than or equal to zero under section 1087mm of this title, a notification of the Federal means-tested benefits that they have not already indicated they receive, but for which they may be eligible, and relevant links and information on how to apply for such benefits.</i>
 
 &emsp;&emsp;&emsp;<i>(v) Information on education tax benefits described in paragraphs (1) and (2) of section 25A(a) of title 26 or other applicable education tax benefits determined in consultation with the Secretary of the Treasury.</i>
 
@@ -772,7 +772,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 #### <i>(5) No additional information requests permitted</i>
 
-&emsp;<i>In carrying out this subsection, the Secretary may not require additional information to be sub</i><i>mitted by an applicant (or the parents or spouse of an applicant) for Federal financial aid through other requirements or reporting, except as required under a process or procedure exercised in accordance with the authority under section 1087tt of this title.</i>
+&emsp;<i>In carrying out this subsection, the Secretary may not require additional information to be submitted by an applicant (or the parents or spouse of an applicant) for Federal financial aid through other requirements or reporting, except as required under a process or procedure exercised in accordance with the authority under section 1087tt of this title.</i>
 
 #### <i>(6) State-run programs</i>
 
@@ -858,7 +858,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 #### <i>(B) Updates</i>
 
-&emsp;&emsp;<i>For award year 2023–2024 and at least each fourth succeeding award year thereafter, the Secretary shall update the design of the Free Application for Federal Student Aid based on additional consumer testing with the populations described in subparagraph (A) in order to improve the usability and accessibility of the application.</i>
+&emsp;&emsp;<i>For award year 2024–2025 and at least each fourth succeeding award year thereafter, the Secretary shall update the design of the Free Application for Federal Student Aid based on additional consumer testing with the populations described in subparagraph (A) in order to improve the usability and accessibility of the application.</i>
 
 #### <i>(3) Accessibility of the FAFSA</i>
 
@@ -980,7 +980,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 #### <i>(4) Application processing cycle</i>
 
-&emsp;<i>The Secretary shall enable applicants to submit a Free Application for Federal Student Aid developed under this section and initiate the processing of such application, not later than January 1 of the applicant's planned year of enrollment, to the maximum extent practicable, on or around October 1 prior to the applicant's planned year of enrollment.</i>
+&emsp;<i>The Secretary shall enable applicants to submit a Free Application for Federal Student Aid developed under this section and initiate the processing of such application, not later than January 1 of the applicant's planned year of enrollment, to the</i><i>maximum extent practicable, on or around October 1 prior to the applicant's planned year of enrollment.</i>
 
 #### <i>(5) Early estimates</i>
 
@@ -988,9 +988,9 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 #### <i>(6) Additional forms</i>
 
-&emsp;<i>Notwithstanding any other provision of this subchapter, an institution may not condition the</i><i>packaging or receipt of Federal financial aid on the completion of additional requests for financial information beyond the Free Application for Federal Student Aid, unless such information is required for verification, a determination of independence, or professional judgement.</i>
+&emsp;<i>Notwithstanding any other provision of this subchapter, an institution may not condition the packaging or receipt of Federal financial aid on the completion of additional requests for financial information beyond the Free Application for Federal Student Aid, unless such information is required for verification, a determination of independence, or professional judgement.</i>
 
-<i>See 2020 Amendment note below.</i>
+<i>See 2020 and 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -999,6 +999,8 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 A prior section 1090, Pub. L. 89–329, title IV, §483, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1448, related to forms and regulations for student assistance programs, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+<b>2022</b>—Subsecs. (a)(1), (b)(2)(B). Pub. L. 117–103 substituted "award year 2024–2025" for "award year 2023–2024".
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to forms and regulations.
 
@@ -1048,7 +1050,7 @@ Subsec. (f). Pub. L. 105–244, §482(e), struck out heading and text of subsec.
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–208, §2(h)(8), made technical amendment to reference to section 1070a(d) of this title to correct reference to corresponding section of original act.
 
-Subsec. (a)(2). Pub. L. 103–208, §2(h)(9), inserted at end "No data collected on a form for which a fee is charged shall be used to complete the form prescribed under paragraph (1)."
+Subsec. (a)(2). Pub. L. 103–208, §2(h)(9), inserted at end "No data collected on a form for which a fee is chargedshall be used to complete the form prescribed under paragraph (1)."
 
 Subsec. (a)(3). Pub. L. 103–208, §2(h)(10), inserted at end "Entities designated by institutions of higher education or States to receive such data shall be subject to all requirements of this section, unless such requirements are waived by the Secretary."
 
@@ -1080,7 +1082,7 @@ Subsecs. (b) to (f). Pub. L. 100–50, §15(6), added subsec. (b) and redesignat
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -1111,6 +1113,8 @@ Subsec. (e) of this section applicable to student assistance awarded for periods
 #### Reports
 
 Pub. L. 116–260, div. FF, title VII, §702(m)(2), Dec. 27, 2020, 134 Stat. 3182, provided that: "Notwithstanding section 701(b) of this title \[set out as an Effective Date of 2020 Amendment note under section 1001 of this title\], the Secretary of Education shall have the authority to issue reports and begin consumer testing prior to July 1, 2023, as provided in the amendment made by paragraph (1) \[amending this section\]."
+
+\[Effective date of title VII of div. FF of Pub. L. 116–260 was changed from July 1, 2023, to July 1, 2024, by section 102(a) of Pub. L. 117–103, see section 701(b) of div. FF of Pub. L. 116–260, set out as a note under section 1001 of this title. However, the July 1, 2023, date in section 702(m)(2) of Pub. L. 116–260, set out above, was not correspondingly amended.\]
 
 #### Identification of Foster Youth on FAFSA
 

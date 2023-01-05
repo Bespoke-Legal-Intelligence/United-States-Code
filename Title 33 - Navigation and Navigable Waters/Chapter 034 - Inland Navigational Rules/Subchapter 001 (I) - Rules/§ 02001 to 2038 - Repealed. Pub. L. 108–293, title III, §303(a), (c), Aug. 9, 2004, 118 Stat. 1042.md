@@ -18,7 +18,7 @@ Section 2008, Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3419; Pub. L. 102�
 
 Section 2009, Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3419; Pub. L. 104–324, title VII, §701(1), Oct. 19, 1996, 110 Stat. 3932, related to Rule 9, narrow channels.
 
-Section 2010, Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3420; Pub. L. 102–587, title V, §5206(2), Nov. 4, 1992, 106Stat. 5074, related to Rule 10, traffic separation schemes.
+Section 2010, Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3420; Pub. L. 102–587, title V, §5206(2), Nov. 4, 1992, 106 Stat. 5074, related to Rule 10, traffic separation schemes.
 
 Section 2011, Pub. L. 96–591, §2, Dec. 24, 1980, 94 Stat. 3420, related to Rule 11, application of rules of conduct of vessels in sight of one another.
 

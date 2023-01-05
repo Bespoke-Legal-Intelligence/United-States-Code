@@ -24,7 +24,7 @@ Brown tree snake control, interdiction, research, and eradication efforts author
 
 &emsp;(8) Expansion of long-term research into chemical, biological, and other control techniques that could lead to large-scale reduction of brown tree snake populations in Guam or other areas where the brown tree snake might become established.
 
-&emsp;(9) Expansion of short, medium, and long-term research, funded by all Federal agencies interested in or affected by the brown tree snake, into interdiction, detection, and early control of the brown tree snake.
+&emsp;(9) Expansion of short, medium, and long-term research, funded by all Federal agencies interested in or affected by the brown treesnake, into interdiction, detection, and early control of the brown tree snake.
 
 &emsp;(10) Provision of planning assistance for the construction or renovation of centralized multi-agency facilities in Guam to support Federal, State, and territorial brown tree snake control, interdiction, research and eradication efforts, including office space, laboratory space, animal holding facilities, and snake detector dog kennels.
 
@@ -64,7 +64,7 @@ In General.—The Secretary of Agriculture shall take such action as may be nece
 
 "(b)
 
-Introduction Into Hawaii.—The Secretary shall initiate a program to prevent the introduction of thebrown tree snake into Hawaii from Guam. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventative processes or devices at aircraft and vessel loading facilities on Guam, Hawaii, or intermediate sites serving as transportation points that could result in the introduction of brown tree snakes into Hawaii.
+Introduction Into Hawaii.—The Secretary shall initiate a program to prevent the introduction of the brown tree snake into Hawaii from Guam. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventative processes or devices at aircraft and vessel loading facilities on Guam, Hawaii, or intermediate sites serving as transportation points that could result in the introduction of brown tree snakes into Hawaii.
 
 "(c)
 

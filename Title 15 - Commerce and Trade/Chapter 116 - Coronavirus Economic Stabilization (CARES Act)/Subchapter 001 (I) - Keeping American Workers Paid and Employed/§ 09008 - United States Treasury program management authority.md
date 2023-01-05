@@ -52,7 +52,7 @@ An insured depository institution, insured credit union, institution of the Farm
 
 #### (e) Additional regulations generally
 
-The Secretary may issue regulations and guidance as necessary to carry out the purposes of this section, including to allow additional lenders to originate loans under this title <sup>1</sup> and to establish terms and conditions such as compensation, underwriting standards, interest rates, and maturity for under <sup>2</sup> this section.
+The Secretary may issue regulations and guidance as necessary to carry out the purposes ofthis section, including to allow additional lenders to originate loans under this title <sup>1</sup> and to establish terms and conditions such as compensation, underwriting standards, interest rates, and maturity for under <sup>2</sup> this section.
 
 #### (f) Certification
 
@@ -64,7 +64,7 @@ As a condition of receiving a loan under this section, a borrower shall certify 
 
 #### (g) Opt-in for SBA qualified lenders
 
-Lenders qualified to participate as a lender under 7(a) <sup>2</sup> of the Small Business Act (15 U.S.C. 636(a)) may elect to participate in the paycheck protection program under the criteria, terms, and conditions established under this section. Such participation shall not preclude the lenders from continuing participation as a lender under section 7(a) of the Small Business Act (15 U.S.C. 636(a)).
+Lenders qualified to participate as a lender under 7(a) <sup>3</sup> of the Small Business Act (15 U.S.C. 636(a)) may elect to participate in the paycheck protection program under the criteria, terms, and conditions established under this section. Such participation shall not preclude the lenders from continuing participation as a lender under section 7(a) of the Small Business Act (15 U.S.C. 636(a)).
 
 #### (h) Program administration
 
@@ -176,5 +176,5 @@ Grants for shuttered venue operators; targeted eidl advances.—Subsection (d), 
 
 <i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by "section".</i>
+<i><sup>3</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

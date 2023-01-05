@@ -24,7 +24,7 @@ Section is comprised of subsec. (b) of section 14 of act Dec. 23, 1913. For clas
 
 <b>1980</b>—Par. (1). Pub. L. 96–221 inserted provisions relating to obligations of a foreign government or agency thereof.
 
-<b>1979</b>—Par. (1). Pub. L. 96–18, §1(a), struck out proviso under which Federal Reserve banks had been allowed, until May 1, 1979, to buy and sell either in the open market or directly from or to the United States bonds, notes, or other obligations which were direct obligations of the United States or which were fully guaranteed by the United States and, after Apr. 30, 1979, had allowed such obligations to be purchased but only in the open market.
+<b>1979</b>—Par. (1). Pub. L. 96–18, §1(a), struck out proviso under which Federal Reserve banks had been allowed, until May 1, 1979, to buy and sell either in the openmarket or directly from or to the United States bonds, notes, or other obligations which were direct obligations of the United States or which were fully guaranteed by the United States and, after Apr. 30, 1979, had allowed such obligations to be purchased but only in the open market.
 
 Pub. L. 96–18, §3(b), inserted provision that notwithstanding any other provision of this chapter, any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.
 

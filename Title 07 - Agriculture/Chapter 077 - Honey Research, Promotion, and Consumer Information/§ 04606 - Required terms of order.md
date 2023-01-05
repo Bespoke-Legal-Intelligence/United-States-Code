@@ -36,7 +36,7 @@ Any order issued by the Secretary under this chapter shall contain the terms and
 
 &emsp;&emsp;&emsp;(I) qualified national organizations representing handler interests or qualified national organizations representing importer interests; or
 
-&emsp;&emsp;&emsp;(II) if the Secretary determines that there is not a qualified national organization representing handler interests or a qualified national organization representing importer interests, individual handlers or importers that have paid assessments to the Honey Board on imported honey or honey products;
+&emsp;&emsp;&emsp;(II) if the Secretary determines that there is not a qualified national organization representing handler interests or a qualified national organization representing importer interests, individualhandlers or importers that have paid assessments to the Honey Board on imported honey or honey products;
 
 &emsp;(D) 2 members who are importers appointed from nominations submitted by the Committee from recommendations made by—
 
@@ -80,7 +80,7 @@ Recommendations.—If warranted and in accordance with this subsection, the Hone
 
 &emsp;&emsp;&emsp;(III) handler-importer member positions under paragraph (2)(C) as importer member positions under paragraph (2)(D); or
 
-&emsp;&emsp;(iii) if necessary to reflect any changes in the proportion of domestic and imported honey or honey products assessed under the order, the addition of members to the HoneyBoard under subparagraph (A), (B), (C), or (D) of paragraph (2).
+&emsp;&emsp;(iii) if necessary to reflect any changes in the proportion of domestic and imported honey or honey products assessed under the order, the addition of members to the Honey Board under subparagraph (A), (B), (C), or (D) of paragraph (2).
 
 &emsp;(C)
 
@@ -136,7 +136,7 @@ Restrictions on nomination and appointment.—
 
 &emsp;(A)
 
-Producer-packers as producers.—No producer-packer that, during any 3 of the preceding 5 years, purchased for resale more honey than the producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in paragraph (2)(A) or as an alternate to such a producer.
+Producer-packers as producers.—No producer-packer that, during any 3 of the preceding 5 years, purchased for resale morehoney than the producer-packer produced shall be eligible for nomination or appointment to the Honey Board as a producer described in paragraph (2)(A) or as an alternate to such a producer.
 
 &emsp;(B)
 
@@ -262,7 +262,7 @@ In general.—The Honey Board shall administer collection of the assessment prov
 
 (2)
 
-Rate.—Except as provided in paragraph (3), the assessment rate shall be $0.01 per pound\(payable in the manner described in section 4608 of this title), with—
+Rate.—Except as provided in paragraph (3), the assessment rate shall be $0.01 per pound (payable in the manner described in section 4608 of this title), with—
 
 &emsp;(A) in the case of honey produced in the United States, $0.01 per pound payable by honey producers; and
 
@@ -338,7 +338,7 @@ No funds collected by the Honey Board under this chapter may, in any manner, be 
 
 #### (i) Plans or projects; contracts
 
-The Honey Board shall develop and submit to the Secretary, for approval, plans for research, promotion, and consumer information. Any such plans or projects must be approved by the Secretary before becoming effective. The Honey Board may enter into contracts or agreements with the approval of the Secretary for the development and carrying out of research, promotion, and consumer information, and for the paymentof the cost thereof with funds collected pursuant to this chapter.
+The Honey Board shall develop and submit to the Secretary, for approval, plans for research, promotion, and consumer information. Any such plans or projects must be approved by the Secretary before becoming effective. The Honey Board may enter into contracts or agreements with the approval of the Secretary for the development and carrying out of research, promotion, and consumer information, and for the payment of the cost thereof with funds collected pursuant to this chapter.
 
 #### (j) Books and records; reports
 
@@ -408,7 +408,7 @@ Subsec. (e)(4)(B). Pub. L. 105–185, §605(f)(3)(C), added subpar. (B) and stru
 
 Subsec. (e)(5). Pub. L. 105–185, §605(f)(3)(A), (D), redesignated par. (3) as (5), inserted "handler," after "producer-packer" in two places, substituted "paragraph (4)" for "paragraph (2)", and inserted ", handler," after "considered a producer".
 
-Subsec. (f). Pub. L. 105–185, §605(f)(4), inserted heading, designated first sentence as par. (1), inserted par. heading, struck out "from the assessments" before"shall be used", added par. (2), designated second sentence as par. (3), and added par. heading.
+Subsec. (f). Pub. L. 105–185, §605(f)(4), inserted heading, designated first sentence as par. (1), inserted par. heading, struck out "from the assessments" before "shall be used", added par. (2), designated second sentence as par. (3), and added par. heading.
 
 Subsec. (g). Pub. L. 105–185, §605(f)(5), substituted "by the Honey Board" for "with assessments collected".
 

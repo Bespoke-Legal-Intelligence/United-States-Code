@@ -32,7 +32,7 @@ Other Materials in Proceeding.—Except as permitted under this section and sect
 
 (d)
 
-Applicability of Section 512(g).—A claim or counterclaim before the Copyright Claims Board that is brought under subsection (c)(1) or (c)(4) of section 1504, or brought under subsection (c)(6) of section 1504 and that relates to a claim under subsection (c)(1) or (c)(4) of such section, qualifies as an action seeking an order to restrain a subscriber from engaging in infringing activity under section 512(g)(2)(C) if—
+Applicability of Section 512(g).—A claim or counterclaim before the Copyright Claims Board that is brought under subsection (c)(1) or (c)(4) of section 1504, or brought under subsection (c)(6) of section 1504 and that relates toa claim under subsection (c)(1) or (c)(4) of such section, qualifies as an action seeking an order to restrain a subscriber from engaging in infringing activity under section 512(g)(2)(C) if—
 
 &emsp;(1) notice of the commencement of the Copyright Claims Board proceeding is provided by the claimant to the service provider's designated agent before the service provider replaces the material following receipt of a counter notification under section 512(g); and
 

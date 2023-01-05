@@ -1,0 +1,44 @@
+### §8562. Definitions
+
+In this subchapter:
+
+#### (1) Admission; admitted; alien
+
+&emsp;The terms "admission", "admitted", and "alien" have the meanings given those terms in section 1101 of title 8.
+
+#### (2) Appropriate congressional committees
+
+&emsp;The term "appropriate congressional committees" means—
+
+&emsp;&emsp;(A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, the Committee on the Judiciary, and the Select Committee on Intelligence of the Senate; and
+
+&emsp;&emsp;(B) the Committee on Financial Services, the Committee on Foreign Affairs, the Committee on the Judiciary, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+#### (3) Correspondent account; payable-through account
+
+&emsp;The terms "correspondent account" and "payable-through account" have the meanings given those terms in section 5318A of title 31.
+
+#### (4) Foreign financial institution
+
+&emsp;The term "foreign financial institution" has the meaning of that term as determined by the Secretary of the Treasury pursuant to section 8513(i) of this title.
+
+#### (5) Foreign person
+
+&emsp;The term "foreign person" means any individual or entity that is not a United States person.
+
+#### (6) United States person
+
+&emsp;The term "United States person" means—
+
+&emsp;&emsp;(A) a United States citizen or an alien lawfully admitted for permanent residence to the United States; or
+
+&emsp;&emsp;(B) an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity.
+
+(Pub. L. 117–328, div. AA, title II, §203, Dec. 29, 2022, 136 Stat. 5532.)
+
+#### <b>Editorial Notes</b>
+
+#### Codification
+
+Section was enacted as part of the Masih Alinejad Harassment and Unlawful Targeting Act of 2022, also known as the Masih Alinejad HUNT Act of 2022, and not as part of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 which comprises this chapter.
+

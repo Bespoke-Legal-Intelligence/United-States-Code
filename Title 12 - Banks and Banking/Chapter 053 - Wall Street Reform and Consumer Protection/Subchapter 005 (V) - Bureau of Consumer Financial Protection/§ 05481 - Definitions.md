@@ -92,7 +92,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;(I) subsections (b) through (f) of section 43 of the Federal Deposit Insurance Act (12 U.S.C. 1831t(c)\[(b)\]–(f));
 
-&emsp;&emsp;(J) sections 502 through 509 of the Gramm-Leach-Bliley Act (15 U.S.C. 6802–6809) exceptfor section 505 \[15 U.S.C. 6805\] as it applies to section 501(b) \[15 U.S.C. 6801(b)\];
+&emsp;&emsp;(J) sections 502 through 509 of the Gramm-Leach-Bliley Act (15 U.S.C. 6802–6809) except for section 505 \[15 U.S.C. 6805\] as it applies to section 501(b) \[15 U.S.C. 6801(b)\];
 
 &emsp;&emsp;(K) the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.);
 
@@ -124,7 +124,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;The term "financial product or service" means—
 
-&emsp;&emsp;&emsp;(i) extending credit and servicing loans, including acquiring, purchasing, selling, brokering, or other extensions of credit (other than solely extending commercial credit to a person who originates consumer credit transactions);
+&emsp;&emsp;&emsp;(i) extending credit and servicing loans, including acquiring, purchasing, selling, brokering, or other extensions of credit\(other than solely extending commercial credit to a person who originates consumer credit transactions);
 
 &emsp;&emsp;&emsp;(ii) extending or brokering leases of personal or real property that are the functional equivalent of purchase finance arrangements, if—
 
@@ -256,7 +256,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;(K) any other person that is required to be registered with the Commission under the Securities Exchange Act of 1934; and
 
-&emsp;&emsp;(L) any employee, agent, or contractor acting on behalf of, registered with, or providing services to, any person described in any of subparagraphs (A) through (K), but only to the extent that any person described in any of subparagraphs (A) through (K), or the employee, agent, or contractor of such person, acts in a regulated capacity.
+&emsp;&emsp;(L) any employee, agent, or contractor acting on behalf of, registered with, or providing services to, any person described in any of subparagraphs (A) through (K), but only to the extent that any person described in any of subparagraphs (A) through (K), orthe employee, agent, or contractor of such person, acts in a regulated capacity.
 
 #### (22) Person regulated by a State insurance regulator
 
@@ -320,7 +320,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (C) Rule of construction
 
-&emsp;&emsp;A person that is a service provider shall be deemed to be a covered person to the extentthat such person engages in the offering or provision of its own consumer financial product or service.
+&emsp;&emsp;A person that is a service provider shall be deemed to be a covered person to the extent that such person engages in the offering or provision of its own consumer financial product or service.
 
 #### (27) State
 
@@ -338,7 +338,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;&emsp;(i) issued by a merchant, retailer, or other seller of nonfinancial goods or services;
 
-&emsp;&emsp;&emsp;(ii) redeemable only for transactions with the merchant, retailer, or seller of nonfinancial goods or services or with an affiliate of such person, which affiliate itself is a merchant, retailer, or seller of nonfinancial goods or services;
+&emsp;&emsp;&emsp;(ii) redeemable only for transactions with the merchant, retailer, or seller ofnonfinancial goods or services or with an affiliate of such person, which affiliate itself is a merchant, retailer, or seller of nonfinancial goods or services;
 
 &emsp;&emsp;&emsp;(iii) issued in a specified amount that, except in the case of a card or product used solely for telephone services, may not be increased or reloaded;
 
@@ -378,7 +378,7 @@ The Homeowners Protection Act of 1998, referred to in par. (12)(G), is Pub. L. 1
 
 The Fair Debt Collection Practices Act, referred to in par. (12)(H), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Home Mortgage Disclosure Act of 1975, referred to in par. (12)(K), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally tochapter 29 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
+The Home Mortgage Disclosure Act of 1975, referred to in par. (12)(K), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
 The Home Ownership and Equity Protection Act of 1994, referred to in par. (12)(L), is subtitle B (§§151–158) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2190, which enacted sections 1639 and 1648 of Title 15, Commerce and Trade, amended sections 1602, 1604, 1610, 1640, 1641, and 1647 of Title 15, and enacted provisions set out as notes under sections 1601 and 1602 of Title 15. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 1601 of Title 15 and Tables.
 
@@ -390,7 +390,7 @@ The Truth in Lending Act, referred to in par. (12)(O), is title I of Pub. L. 90�
 
 The Truth in Savings Act, referred to in par. (12)(P), is subtitle F (§§261–274) of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2334, which is classified generally to chapter 44 (§4301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
-Section 626 of the Omnibus Appropriations Act, 2009, referred to in par. (12)(Q), is section 626 of div. D of Pub. L. 111–8. Subsecs. (a) and (b) of section 626 are classified to section 5538 of this title, and subsec. (c) of section 626 amended section 1639 of Title 15, Commerce and Trade.
+Section 626 of the Omnibus Appropriations Act, 2009, referred to in par. (12)(Q), is section 626 of div. D of Pub. L. 111–8. Subsecs. (a) and (b) of section 626 are classifiedto section 5538 of this title, and subsec. (c) of section 626 amended section 1639 of Title 15, Commerce and Trade.
 
 The Interstate Land Sales Full Disclosure Act, referred to in par. (12)(R), is title XIV of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 590, which is classified generally to chapter 42 (§1701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 15 and Tables.
 

@@ -156,7 +156,7 @@ Task Force on Research Specific to Pregnant Women and Lactating Women.—
 
 &emsp;"(1)
 
-Establishment.—Not later than 90 days after the date of enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall establish a task force, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.), to be known as the 'Task Force on Research Specific to Pregnant Women and Lactating Women' (in this section referred to as the 'Task Force').
+Establishment.—Not later than 90 days after the date of enactment of this Act \[Dec. 13, 2016\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall establish a task force, in accordance with the Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], to be known as the 'Task Force on Research Specific to Pregnant Women and Lactating Women' (in this section referred to as the 'Task Force').
 
 &emsp;"(2)
 

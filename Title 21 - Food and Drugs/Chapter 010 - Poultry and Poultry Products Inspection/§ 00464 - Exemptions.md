@@ -12,7 +12,7 @@ The Secretary shall, by regulation and under such conditions as to sanitary stan
 
 #### (b) Territorial exemption
 
-The Secretary may, under such sanitary conditions as he may by regulations prescribe, exempt from the inspection requirements of this chapter the slaughter of poultry, and the processing of poultry products, by any person in any Territory not organized with a legislative body, solely for distribution within such Territory, when the Secretary determines that it is impracticable to provide such inspection within the limits of funds appropriated for administration of this chapter and that such exemption will aid in the effective administration of this chapter.
+The Secretary may, under such sanitary conditions as he may by regulations prescribe, exempt from the inspection requirements of this chapter the slaughter of poultry, and the processing of poultry products, by any person in anyTerritory not organized with a legislative body, solely for distribution within such Territory, when the Secretary determines that it is impracticable to provide such inspection within the limits of funds appropriated for administration of this chapter and that such exemption will aid in the effective administration of this chapter.
 
 #### (c) Personal slaughtering; custom slaughtering; name and address of the poultry producer or processor in lieu of other labeling requirements; small enterprises; slaughterers or processors of specified number of turkeys; poultry producers raising poultry on own farms
 
@@ -26,7 +26,7 @@ The Secretary may, under such sanitary conditions as he may by regulations presc
 
 &emsp;(D) the slaughtering of sound and healthy poultry or the processing of poultry products of such poultry in any State or territory or the District of Columbia by any poultry producer or other person for distribution by him solely within such jurisdiction directly to household consumers, restaurants, hotels, and boarding houses, for use in their own dining rooms, or in the preparation of meals for sales direct to consumers, if, in lieu of other labeling requirements, such poultry products are identified with the name and address of the processor, and if they are not otherwise misbranded and are sound, clean, and fit for human food when distributed by such processor.
 
-> The exemptions provided for in clauses (C) and (D) above shall not apply if the poultry producer or other person engages in the current calendar year in the business of buying or selling anypoultry or poultry products other than as specified in such clauses.
+> The exemptions provided for in clauses (C) and (D) above shall not apply if the poultry producer or other person engages in the current calendar year in the business of buying or selling any poultry or poultry products other than as specified in such clauses.
 
 (2) In addition to the specific exemptions provided herein, the Secretary shall, when he determines that the protection of consumers from adulterated or misbranded poultry products will not be impaired by such action, provide by regulation, consistent with subparagraph (3), for the exemption of the operation and products of small enterprises (including poultry producers), not exempted under subparagraph (1), which are engaged in any State or Territory or the District of Columbia in slaughtering and/or cutting up poultry for distribution as carcasses or parts thereof solely for distribution within such jurisdiction, from such provisions of this chapter as he deems appropriate, while still protecting the public from adulterated or misbranded products, under such conditions, including sanitary requirements, as he shall prescribe to effectuate the purposes of this chapter.
 
@@ -48,7 +48,7 @@ The Secretary may, under such sanitary conditions as he may by regulations presc
 
 &emsp;(B) the pizzas are to be served in public or private nonprofit institutions.
 
-(2) The Secretary may withdraw or modify any exemption under this subsection whenever the Secretary determines such action is necessary to ensure food safety and to protect public health. The Secretary may reinstate or further modify any exemption withdrawn or modified under this subsection.
+(2) The Secretary may withdraw or modify any exemption under this subsection whenever the Secretary determines such action is necessary to ensure food safety and to protect publichealth. The Secretary may reinstate or further modify any exemption withdrawn or modified under this subsection.
 
 #### (e) Applicability of adulteration and misbranding provisions to articles exempted from inspection
 

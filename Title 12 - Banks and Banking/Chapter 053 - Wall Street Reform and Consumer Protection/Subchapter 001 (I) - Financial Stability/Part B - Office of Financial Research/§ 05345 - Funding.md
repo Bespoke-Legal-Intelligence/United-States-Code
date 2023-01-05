@@ -8,7 +8,7 @@
 
 #### (2) Fund receipts
 
-&emsp;All amounts provided to the Office under subsection (c),<sup>1</sup> and all assessments that the Office receives under subsection (d) shall be deposited into the Financial Research Fund.
+&emsp;All amounts provided to the Office under subsection (c),<sup>1</sup> and all assessments that theOffice receives under subsection (d) shall be deposited into the Financial Research Fund.
 
 #### (3) Investments authorized
 
@@ -18,7 +18,7 @@
 
 #### (B) Eligible investments
 
-&emsp;&emsp;Investments shall be made by the Secretary in obligations of the United States or obligations that are guaranteed as to principal and interest by the United States, withmaturities suitable to the needs of the Financial Research Fund, as determined by the Director.
+&emsp;&emsp;Investments shall be made by the Secretary in obligations of the United States or obligations that are guaranteed as to principal and interest by the United States, with maturities suitable to the needs of the Financial Research Fund, as determined by the Director.
 
 #### (4) Interest and proceeds credited
 

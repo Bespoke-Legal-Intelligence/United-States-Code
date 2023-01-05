@@ -2,7 +2,7 @@
 
 In recognition of the service of temporary members of the Reserve, the Secretary may upon request issue an appropriate certificate of honorable service in lieu of a certificate of disenrollment issued to any individual following disenrollment under honorable conditions from service as a temporary member. Issuance of a certificate of honorable service to any individual under this section does not entitle that individual to any rights, privileges, or benefits under any law of the United States.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1005, §708; renumbered §3708, Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233; amended Pub. L. 116–283, div. G, title LVXXXV\[LXXXV\], §8505(a)(52), Jan. 1, 2021, 134 Stat. 4750.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1005, §708; renumbered §3708, Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8505(a)(52), Jan. 1, 2021, 134 Stat. 4750.)
 
 #### <b>Editorial Notes</b>
 

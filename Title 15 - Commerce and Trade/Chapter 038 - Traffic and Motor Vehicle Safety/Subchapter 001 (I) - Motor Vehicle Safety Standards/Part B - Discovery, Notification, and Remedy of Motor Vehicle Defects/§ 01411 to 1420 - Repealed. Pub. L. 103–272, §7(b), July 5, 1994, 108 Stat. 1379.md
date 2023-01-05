@@ -1,6 +1,6 @@
 ### §§1411 to 1420. Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379
 
-Section 1411, Pub. L. 89–563, title I, §151, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1470, related to notification respecting manufacturer's finding of defect or failure to comply with motor vehicle safety standard. See section 30118 of Title 49, Transportation.
+Section 1411, Pub. L. 89–563, title I, §151, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1470,related to notification respecting manufacturer's finding of defect or failure to comply with motor vehicle safety standard. See section 30118 of Title 49, Transportation.
 
 Section 1412, Pub. L. 89–563, title I, §152, as added Pub. L. 93–492, title I, §102(a), Oct. 27, 1974, 88 Stat. 1470, related to notification of Secretary's finding of defect or failure to comply with motor vehicle safety standard, publication in Federal Register, and opportunity to present data, views, and arguments. See section 30118 of Title 49.
 

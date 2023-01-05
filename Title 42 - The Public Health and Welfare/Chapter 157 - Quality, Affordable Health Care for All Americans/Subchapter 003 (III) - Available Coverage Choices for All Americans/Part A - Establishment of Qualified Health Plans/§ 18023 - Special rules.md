@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(i) collect from each enrollee in the plan (without regard to the enrollee's age, sex, or family status) a separate payment for each of the following:
 
-&emsp;&emsp;&emsp;&emsp;(I) an amount equal to the portion of the premium to be paid directly by theenrollee for coverage under the plan of services other than services described in paragraph (1)(B)(i) (after reduction for credits and cost-sharing reductions described in subparagraph (A)); and
+&emsp;&emsp;&emsp;&emsp;(I) an amount equal to the portion of the premium to be paid directly by the enrollee for coverage under the plan of services other than services described in paragraph (1)(B)(i) (after reduction for credits and cost-sharing reductions described in subparagraph (A)); and
 
 &emsp;&emsp;&emsp;&emsp;(II) an amount equal to the actuarial value of the coverage of services described in paragraph (1)(B)(i), and
 
@@ -160,7 +160,7 @@ Ex. Ord. No. 13535, Mar. 24, 2010, 75 F.R. 15599, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the "Patient Protection and Affordable Care Act" (Public Law 111–148), I hereby order as follows:
 
-Section. 1. <i>Policy</i>. Following the recent enactment of the Patient Protection and Affordable Care Act (the "Act"), it is necessary to establish an adequate enforcement mechanism to ensure that Federal funds are not used for abortion services (except in cases of rape or incest, or when the life of the woman would be endangered), consistent with a longstanding Federal statutory restriction that is commonly known as the Hyde Amendment. The purpose of this order is to establish a comprehensive, Government-wide set of policies and procedures to achieve this goal and to make certain that all relevant actors—Federal officials, State officials (including insurance regulators) and health care providers—are aware of their responsibilities, new and old.
+Section. 1. <i>Policy</i>. Following the recent enactment of the Patient Protection and Affordable Care Act (the"Act"), it is necessary to establish an adequate enforcement mechanism to ensure that Federal funds are not used for abortion services (except in cases of rape or incest, or when the life of the woman would be endangered), consistent with a longstanding Federal statutory restriction that is commonly known as the Hyde Amendment. The purpose of this order is to establish a comprehensive, Government-wide set of policies and procedures to achieve this goal and to make certain that all relevant actors—Federal officials, State officials (including insurance regulators) and health care providers—are aware of their responsibilities, new and old.
 
 The Act maintains current Hyde Amendment restrictions governing abortion policy and extends those restrictions to the newly created health insurance exchanges. Under the Act, longstanding Federal laws to protect conscience (such as the Church Amendment, 42 U.S.C. 300a–7, and the Weldon Amendment, section 508(d)(1) of Public Law 111–8) remain intact and new protections prohibit discrimination against health care facilities and health care providers because of an unwillingness to provide, pay for, provide coverage of, or refer for abortions.
 
@@ -176,7 +176,7 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees or agents, or any other person.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

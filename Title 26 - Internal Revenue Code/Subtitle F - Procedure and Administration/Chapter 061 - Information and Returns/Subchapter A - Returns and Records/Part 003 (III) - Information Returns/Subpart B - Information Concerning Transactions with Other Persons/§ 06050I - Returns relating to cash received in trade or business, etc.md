@@ -74,7 +74,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 #### (2) Penalties
 
-&emsp;A person violating paragraph (1) of this subsection shall be subject to the same civil and criminal sanctions applicable to a personwhich fails to file or completes a false or incorrect return under this section.
+&emsp;A person violating paragraph (1) of this subsection shall be subject to the same civil and criminal sanctions applicable to a person which fails to file or completes a false or incorrect return under this section.
 
 #### (g) Cash received by criminal court clerks
 
@@ -116,7 +116,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 #### (4) Information to Federal prosecutors
 
-&emsp;Each clerk required to include on a return under paragraph (1) the information described in paragraph (2)(B) with respect to an individual described in paragraph (2)(B)(i)(I) shall furnish (at such time as the Secretary may by regulations prescribe) a written statement showing such information to the United States Attorney for the jurisdiction in which such individual resides and the jurisdiction in which the specified criminal offense occurred.
+&emsp;Each clerk required to include on a return under paragraph (1) the information describedin paragraph (2)(B) with respect to an individual described in paragraph (2)(B)(i)(I) shall furnish (at such time as the Secretary may by regulations prescribe) a written statement showing such information to the United States Attorney for the jurisdiction in which such individual resides and the jurisdiction in which the specified criminal offense occurred.
 
 #### (5) Information to payors of bail
 
@@ -174,7 +174,7 @@ Amendment by Pub. L. 104–168 applicable to statements required to be furnished
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–322, title II, §20415(d), Sept. 13, 1994, 108 Stat. 1833, provided that: "The amendments made by this section \[amending this section and section 6724 of this title\] shall take effect on the 60th day after the date on which the temporary regulations are prescribed under subsection (c) \[section 20415(c) of Pub. L. 103–322, set out as a Regulations note below\]." \[Temporary regulations under section 20415(c) of Pub. L. 103–322 werefiled Dec. 12, 1994, published Dec. 15, 1994, 59 F.R. 64572, and effective Feb. 13, 1995.\]
+Pub. L. 103–322, title II, §20415(d), Sept. 13, 1994, 108 Stat. 1833, provided that: "The amendments made by this section \[amending this section and section 6724 of this title\] shall take effect on the 60th day after the date on which the temporary regulations are prescribed under subsection (c) \[section 20415(c) of Pub. L. 103–322, set out as a Regulations note below\]." \[Temporary regulations under section 20415(c) of Pub. L. 103–322 were filed Dec. 12, 1994, published Dec. 15, 1994, 59 F.R. 64572, and effective Feb. 13, 1995.\]
 
 #### Effective Date of 1990 Amendment
 

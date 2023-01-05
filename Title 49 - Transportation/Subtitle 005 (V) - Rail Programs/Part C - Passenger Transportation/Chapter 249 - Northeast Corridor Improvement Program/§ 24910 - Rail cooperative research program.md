@@ -40,7 +40,7 @@ Content.—The program to be carried out under this section shall include resear
 
 &emsp;(12) to review rail crossing safety improvements, including improvements using new safety technology;
 
-&emsp;(13) to review and develop technology designed to reduce train horn noise and its effect on communities, including broadband horn technology; and
+&emsp;(13) to review and develop technology designed to reduce train horn noise and its effecton communities, including broadband horn technology; and
 
 &emsp;(14) to improve overall safety of intercity passenger and freight rail operations.
 
@@ -60,7 +60,7 @@ Membership.—The advisory board shall include—
 
 &emsp;&emsp;(B) transportation and environmental economists, scientists, and engineers; and
 
-&emsp;&emsp;(C) representatives of Amtrak, the Alaska Railroad, freight railroads, transit operatingagencies, intercity rail passenger agencies, railway labor organizations, and environmental organizations.
+&emsp;&emsp;(C) representatives of Amtrak, the Alaska Railroad, freight railroads, transit operating agencies, intercity rail passenger agencies, railway labor organizations, and environmental organizations.
 
 &emsp;(3)
 

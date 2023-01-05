@@ -156,7 +156,7 @@ Subsec. (d). Pub. L. 105–261, §656(a), designated existing provisions as par.
 
 Pub. L. 105–261, §565(a), inserted ", at the time the individual first becomes a member of the Armed Forces," after "Secretary of Defense, may" and substituted "$950 per month" for "$400 per month, in the case of an individual who first became a member of the Armed Forces before November 29, 1989, or $700 per month, in the case of an individual who first became a member of the Armed Forces on or after that date."
 
-Subsec. (g). Pub. L. 105–178, §8203(a)(2), substituted ", the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subsections (a)(1) and (b)(1)" for "beginning on or after October 1, 1994, the Secretary shall continue to pay, in lieu of the rates payable under subsection (a)(1) or (b)(1) of this section, the monthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates".
+Subsec. (g). Pub. L. 105–178, §8203(a)(2), substituted ", the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subsections (a)(1) and (b)(1)" for "beginning on or after October 1, 1994, the Secretary shall continue topay, in lieu of the rates payable under subsection (a)(1) or (b)(1) of this section, the monthly rates payable under this subsection for the previous fiscal year and shall provide, for any such fiscal year, a percentage increase in such rates".
 
 <b>1997</b>—Subsec. (e)(1)(A). Pub. L. 105–114, §401(b)(1), substituted "(1)(A) Except as provided in subparagraph (B) of this paragraph and subject to paragraph (2)" for "(1) Subject to paragraph (2)".
 
@@ -178,7 +178,7 @@ Subsec. (b)(1). Pub. L. 102–568, §301(a)(2), substituted "$325" for "$250".
 
 Subsec. (c). Pub. L. 102–568, §307(a)(3), as amended by Pub. L. 103–66, §12009(d)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 102–568, §307(a)(1), (2), as amended by Pub. L. 103–66, §12009(d)(2), redesignated subsec. (c)as (d) and substituted "(a), (b), and (c)" for "(a) and (b)". Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 102–568, §307(a)(1), (2), as amended by Pub. L. 103–66, §12009(d)(2), redesignated subsec. (c) as (d) and substituted "(a), (b), and (c)" for "(a) and (b)". Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 102–568, §307(a)(1), as amended by Pub. L. 103–66, §12009(d)(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
@@ -246,7 +246,7 @@ Amendment by section 105(b) of Pub. L. 106–419 effective May 1, 2001, see sect
 
 Pub. L. 105–261, div. A, title V, §565(b), Oct. 17, 1998, 112 Stat. 2029, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to individuals who first become members of the Armed Forces on or after that date."
 
-Pub. L. 105–178, title VIII, §8203(a)(4), June 9, 1998, 112 Stat. 493, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to educational assistance allowances paid for months after September 1998. However, no adjustment in rates of educational assistance shall be made under subsection (g) \[now (h)\] of section 3015 of title 38, United States Code, as amended by paragraph (2), for fiscal year 1999."
+Pub. L. 105–178, title VIII, §8203(a)(4), June 9, 1998, 112 Stat. 493, provided that: "The amendments made bythis subsection \[amending this section\] shall take effect on October 1, 1998, and shall apply with respect to educational assistance allowances paid for months after September 1998. However, no adjustment in rates of educational assistance shall be made under subsection (g) \[now (h)\] of section 3015 of title 38, United States Code, as amended by paragraph (2), for fiscal year 1999."
 
 #### Effective Date of 1993 Amendment
 
@@ -262,7 +262,7 @@ Pub. L. 102–568, title III, §307(c), Oct. 29, 1992, 106 Stat. 4329, provided 
 
 Pub. L. 107–103, title I, §101(b), Dec. 27, 2001, 115 Stat. 978, provided that: "No adjustment in rates of educational assistance shall be made under section 3015(h) of title 38, United States Code, for fiscal years 2003 and 2004."
 
-Fiscal year 1995 cost-of-living adjustments in rates of educational assistance payable under this chapter to be percentage equal to 50 percent of percentage by which such assistance would be increased under subsec. (g) \[now (h)\] of this section but for section 12009 of Pub. L.103–66, see section 12009(c) of Pub. L. 103–66, formerly set out as a note under section 16131 of Title 10, Armed Forces.
+Fiscal year 1995 cost-of-living adjustments in rates of educational assistance payable under this chapter to be percentage equal to 50 percent of percentage by which such assistance would be increased under subsec. (g) \[now (h)\] of this section but for section 12009 of Pub. L. 103–66, see section 12009(c) of Pub. L. 103–66, formerly set out as a note under section 16131 of Title 10, Armed Forces.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

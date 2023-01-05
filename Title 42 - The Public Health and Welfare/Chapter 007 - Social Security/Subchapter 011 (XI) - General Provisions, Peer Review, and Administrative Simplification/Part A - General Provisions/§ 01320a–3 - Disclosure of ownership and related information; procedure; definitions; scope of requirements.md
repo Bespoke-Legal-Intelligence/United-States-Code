@@ -78,11 +78,11 @@ To the extent determined to be feasible under regulations of the Secretary, a di
 
 #### (A) In general
 
-&emsp;&emsp;Not later than the date that is 2 years after March 23, 2010, the Secretary shall promulgate final regulations requiring, effective on the date that is 90 days after the date on which such final regulations are published in the Federal Register, a facility to report the information described in paragraph (2) to the Secretary in a standardizedformat, and such other regulations as are necessary to carry out this subsection. Such final regulations shall ensure that the facility certifies, as a condition of participation and payment under the program under subchapter XVIII or XIX, that the information reported by the facility in accordance with such final regulations is, to the best of the facility's knowledge, accurate and current.
+&emsp;&emsp;Not later than the date that is 2 years after March 23, 2010, the Secretary shall promulgate final regulations requiring, effective on the date that is 90 days after the date on which such final regulations are published in the Federal Register, a facility to report the information described in paragraph (2) to the Secretary in a standardized format, and such other regulations as are necessary to carry out this subsection. Such final regulations shall ensure that the facility certifies, as a condition of participation and payment under the program under subchapter XVIII or XIX, that the information reported by the facility in accordance with such final regulations is, to the best of the facility's knowledge, accurate and current.
 
 #### (B) Guidance
 
-&emsp;&emsp;The Secretary shall provide guidance and technical assistance to States on how to adopt the standardized format under subparagraph (A).
+&emsp;&emsp;The Secretary shall provide guidance and technical assistance to States on how toadopt the standardized format under subparagraph (A).
 
 #### (4) No effect on existing reporting requirements
 

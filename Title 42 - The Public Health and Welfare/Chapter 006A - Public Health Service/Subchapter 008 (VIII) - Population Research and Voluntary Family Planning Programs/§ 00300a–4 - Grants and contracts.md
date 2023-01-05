@@ -16,7 +16,7 @@ A grant may be made or contract entered into under section 300 or 300a of this t
 
 &emsp;(2) no charge will be made in such project or program for services provided to any person from a low-income family except to the extent that payment will be made by a third party (including a government agency) which is authorized or is under legal obligation to pay such charge.
 
-> For purposes of this subsection, the term "low-income family" shall be defined by the Secretary in accordance with such criteria as he may prescribe so as to insure that economic status shall not be a deterrent to participation in the programs assisted under this subchapter.
+> For purposes of this subsection, the term "low-income family" shall be defined by the Secretary in accordance with such criteria as hemay prescribe so as to insure that economic status shall not be a deterrent to participation in the programs assisted under this subchapter.
 
 #### (d) Suitability of informational or educational materials
 

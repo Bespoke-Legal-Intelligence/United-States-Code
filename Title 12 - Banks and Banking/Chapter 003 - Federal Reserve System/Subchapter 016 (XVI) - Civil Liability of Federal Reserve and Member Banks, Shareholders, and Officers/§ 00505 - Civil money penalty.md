@@ -2,7 +2,7 @@
 
 #### (1) First tier
 
-Any member bank which, and any institution-affiliated party (within the meaning of section 1813(u) of this title) with respect to such member bank who, violates any provision of this section, or any regulation issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
+Any member bank which, and any institution-affiliated party (within the meaning of section1813(u) of this title) with respect to such member bank who, violates any provision of this section, or any regulation issued pursuant thereto, shall forfeit and pay a civil penalty of not more than $5,000 for each day during which such violation continues.
 
 #### (2) Second tier
 
@@ -92,9 +92,9 @@ Par. (4). Pub. L. 97–320, §424(e), substituted "twenty days from the service"
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply toconduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 #### Effective Date
 
-Section effective with respect to violations occurring or continuing after Nov. 10, 1978, see section 109 of Pub. L. 95–630 set out as an Effective Date of 1978 Amendment note under section 93 of this title.
+Section effective with respect to violations occurring or continuing after Nov. 10, 1978, see section 109 of Pub.L. 95–630 set out as an Effective Date of 1978 Amendment note under section 93 of this title.
 

@@ -74,7 +74,7 @@ In this section:
 
 &emsp;&emsp;(B) With respect to a covered employee or a covered individual, an injury incurred—
 
-&emsp;&emsp;&emsp;(i) during a period of assignment to a duty station in the Republic of Cuba, thePeople's Republic of China, or another country designated by the Secretary of State pursuant to subsection (f);
+&emsp;&emsp;&emsp;(i) during a period of assignment to a duty station in the Republic of Cuba, the People's Republic of China, or another country designated by the Secretary of State pursuant to subsection (f);
 
 &emsp;&emsp;&emsp;(ii) in connection with war, insurgency, hostile act, terrorist activity, or other incident designated by the Secretary of State; and
 
@@ -82,7 +82,7 @@ In this section:
 
 #### (f) Designation by the Secretary of State of another foreign country or duty station
 
-The Secretary of State may designate another foreign country for the purposes of this section, provided that the Secretary reports such designation to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and includes in such report a rationale for each such designation. The Secretary of State may not designate an added foreign country or duty station for purposes of providing additional monetary benefit pursuant to subsection (a), (b), or (i) for a qualifying injury to covered employees, covered dependents, or covered individuals under this section unless the Secretary of State—
+The Secretary of State may designate another foreign country for the purposes of this section, provided that the Secretary reports such designation to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, and includes in such report a rationale for each such designation. The Secretary of State may notdesignate an added foreign country or duty station for purposes of providing additional monetary benefit pursuant to subsection (a), (b), or (i) for a qualifying injury to covered employees, covered dependents, or covered individuals under this section unless the Secretary of State—
 
 &emsp;(1) provides to the Committees on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives 30 days' notice of the designation of a particular additional country or duty station and the rationale for such addition; and
 
@@ -110,7 +110,7 @@ For purposes of section 104 of title 26, amounts paid pursuant to this section s
 
 &emsp;Nothing in this section shall limit, modify, or otherwise supersede chapter 81 of title 5, the Defense Base Act (42 U.S.C. 1651 et seq.), or section 3519b of title 50. Monetary benefits and treatment expenses paid under this section shall not be considered payments under any workers' compensation law.
 
-#### (i) Other Injuries
+#### (i) Other injuries
 
 #### (1) Definitions
 
@@ -160,15 +160,27 @@ For purposes of section 104 of title 26, amounts paid pursuant to this section s
 
 &emsp;&emsp;The regulations prescribed under subparagraph (A) shall include regulations detailing fair and equitable criteria for payment under paragraph (2).
 
-(Pub. L. 116–94, div. J, title IX, §901, Dec. 20, 2019, 133 Stat. 3079; Pub. L. 116–283, div. A, title XI, §1110, Jan. 1, 2021, 134 Stat. 3892; Pub. L. 117–46, §3(b), Oct. 8, 2021, 135 Stat. 394.)
+#### (5) No effect on other benefits
+
+&emsp;Payments made under paragraph (2) are supplemental to any other benefit furnished by the United States Government for which a covered dependent, dependent of a former employee, covered employee, former employee, or covered individual is entitled, and the receipt of such payments may not affect the eligibility of such a person to any other benefit furnished by the United States Government.
+
+#### (j) Expansion of authorities
+
+The head of any Federal agency may exercise the authorities of this section, including to designate an incident, whether the incident occurred in the United States or abroad, for purposes of subparagraphs (A)(ii) and (B)(ii) of subsection (e)(4) when the incident affects United States Government employees of the agency or their dependents who are not under the security responsibility of the Secretary of State as set forth in section 4802 of this title or when operational control of overseas security responsibility for such employees or dependents has been delegated to the head of the agency.
+
+(Pub. L. 116–94, div. J, title IX, §901, Dec. 20, 2019, 133 Stat. 3079; Pub. L. 116–283, div. A, title XI, §1110, Jan. 1, 2021, 134 Stat. 3892; Pub. L. 117–46, §3(b), Oct. 8, 2021, 135 Stat. 394; Pub. L. 117–103, div. X, title VI, §603(b), Mar. 15, 2022, 136 Stat. 995; Pub. L. 117–263, div. I, title XCII, §9216, Dec. 23, 2022, 136 Stat. 3877.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Defense Base Act, referred to in subsec. (h)(2), is act Aug. 16, 1941, ch. 357, 55 Stat. 622, which is classified generally to chapter 11 (§1651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 42 and Tables.
+The Defense Base Act, referred to in subsec. (h)(3), is act Aug. 16, 1941, ch. 357, 55 Stat. 622, which is classified generally to chapter 11 (§1651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1651 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (i)(5). Pub. L. 117–103 added par. (5).
+
+Subsec. (j). Pub. L. 117–263 added subsec. (j).
 
 <b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §1110(1), inserted "or the head of any other Federal agency" after "The Secretary of State" in introductory provisions.
 

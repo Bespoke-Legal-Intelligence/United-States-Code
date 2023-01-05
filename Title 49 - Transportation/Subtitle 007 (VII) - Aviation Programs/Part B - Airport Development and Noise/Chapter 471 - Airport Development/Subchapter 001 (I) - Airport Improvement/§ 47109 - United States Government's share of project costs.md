@@ -6,7 +6,7 @@ General.—Except as otherwise provided in this section, the United States Gover
 
 &emsp;(1) 75 percent for a project at a medium or large hub airport;
 
-&emsp;(2) not more than 90 percent for a project funded by a grant issued to and administeredby a State under section 47128, relating to the State block grant program;
+&emsp;(2) not more than 90 percent for a project funded by a grant issued to and administered by a State under section 47128, relating to the State block grant program;
 
 &emsp;(3) 90 percent for a project at any other airport;
 
@@ -58,7 +58,27 @@ Special Rule for Economically Distressed Communities.—The Government's share o
 
 &emsp;(2) is located in an area that meets one or more of the criteria established in section 301(a) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3161(a)), as determined by the Secretary of Commerce.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §114, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §149(c), title XII, §1211, Oct. 9, 1996, 110 Stat. 3227, 3282; Pub. L. 106–181, title I, §126, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(4), Nov. 19, 2001, 115 Stat. 629; Pub. L. 108–176, title I, §§162, 163, Dec. 12, 2003, 117 Stat. 2513; Pub. L. 112–95, title I, §137, Feb. 14, 2012, 126 Stat. 24; Pub. L. 113–235, div. K, title I, §119F, Dec. 16, 2014, 128 Stat. 2704; Pub. L. 115–31, div. K, title I, §119E, May 5, 2017, 131 Stat. 734; Pub. L. 115–254, div. B, title I, §134, Oct. 5, 2018, 132 Stat. 3209.)
+(g)
+
+Special Rule for Covered Equipment.—
+
+&emsp;(1)
+
+In general.—The Government's share of allowable project costs for covered equipment and its installation shall be 100 percent.
+
+&emsp;(2)
+
+Definition of covered equipment.—For purposes of this subsection, the term "covered equipment" means aqueous film forming foam input-based testing equipment that is eligible for Airport Improvement Program funding based on Federal Aviation Administration PGL 21–01, titled "Extension of Eligibility for stand-alone acquisition of input-based testing equipment and truck modification", dated October 5, 2021 (or any other successor program guidance letter).
+
+&emsp;(3)
+
+Sunset.—The higher cost share authority established in this subsection shall terminate on the earlier of—
+
+&emsp;&emsp;(A) 180 days after the date on which the eligibility of covered equipment for Airport Improvement Program funding under the authority described in paragraph (2) terminates or is discontinued by the Administrator; or
+
+&emsp;&emsp;(B) 5 years after the date of enactment of this subsection.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §114, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 104–264, title I, §149(c), title XII, §1211, Oct. 9, 1996, 110 Stat. 3227, 3282; Pub. L. 106–181, title I, §126, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(4), Nov. 19, 2001, 115 Stat. 629; Pub. L. 108–176, title I, §§162, 163, Dec. 12, 2003, 117 Stat. 2513; Pub. L. 112–95, title I, §137, Feb. 14, 2012, 126 Stat. 24; Pub. L. 113–235, div. K, title I, §119F, Dec. 16, 2014, 128 Stat. 2704; Pub. L. 115–31, div. K, title I, §119E, May 5, 2017, 131 Stat. 734; Pub. L. 115–254, div. B, title I, §134, Oct. 5, 2018, 132 Stat. 3209; Pub. L. 117–254, §2(a), Dec. 20, 2022, 136 Stat. 2361.)
 
 Historical and Revision Notes
 
@@ -98,7 +118,11 @@ In subsection (c), the words "Notwithstanding subsections (a) and (b) of this se
 
 Section 17(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b), is section 17(b) of Pub. L. 91–258, which was classified to section 1717(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
 
+The date of enactment of this subsection, referred to in subsec. (g)(3)(B), is the date of enactment of Pub. L. 117–254, which was approved Dec. 20, 2022.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (g). Pub. L. 117–254 added subsec. (g).
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §134(1), substituted "medium or large hub airport;" for "primary airport having at least .25 percent of the total number of passenger boardings each year at all commercial service airports;".
 
@@ -146,9 +170,17 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Outreach Efforts
+
+Pub. L. 117–254, §2(b), Dec. 20, 2022, 136 Stat. 2361, provided that: "Not later than 90 days after the date of enactment of this Act \[Dec. 20, 2022\], the Administrator of the Federal Aviation Administration shall conduct an outreach effort to make airports aware of the higher cost share authority established in section 47109(g) of title 49, United States Code, as added by subsection (a)."
+
+#### Authorization of Appropriations
+
+Pub. L. 117–254, §2(d), Dec. 20, 2022, 136 Stat. 2362, provided that: "The amendments made by this Act \[amending this section\] shall apply to amounts that first become available in fiscal year 2023 or thereafter."
+
 #### Temporary Increase in Government Share of Certain AIP Project Costs
 
 Pub. L. 108–176, title I, §161, Dec. 12, 2003, 117 Stat. 2513, as amended by Pub. L. 110–190, §4(c), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–253, §3(c)(3), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(i), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(h), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(i), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(h), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, §5(h), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(h), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(h), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(h), Aug. 1, 2010, 124 Stat. 2350; Pub. L. 111–249, §5(i), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(h), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(h), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(h), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(h), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(h), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(i), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(i), Jan. 31, 2012, 126 Stat. 4, provided that: "Notwithstanding section 47109(a) of title 49, United States Code, the Government's share of allowable project costs for a grant made in any of fiscal years 2009 through 2011, or in the portion of fiscal year 2012 ending before February 18, 2012, under chapter 471 of that title for a project described in paragraph (2) or (3) of that section shall be 95 percent."
 
-\[Pub. L. 110–253, §3(c)(3), which directed amendment of section 161 of Pub. L. 108–176, set out above, by substituting "fiscal year 2008." for "fiscal year 2008 before July 1, 2008.", was executed by substituting "fiscal year 2008," for "fiscal year 2008 before July 1, 2008," to reflect the probable intent of Congress.\]
+\[Pub. L. 110–253, §3(c)(3), which directed amendment of section 161 of Pub. L. 108–176, set out above, by substituting "fiscal year 2008." for "fiscal year 2008 beforeJuly 1, 2008.", was executed by substituting "fiscal year 2008," for "fiscal year 2008 before July 1, 2008," to reflect the probable intent of Congress.\]
 

@@ -104,7 +104,7 @@ Pipeline Facilities Offshore and in Other Waters.—(1) In this subsection—
 
 (B) Not later than October 24, 1995, the operator of a pipeline facility abandoned before October 24, 1992, shall report to the Secretary reasonably available information related to the facility, including information that a third party possesses. The information shall include the location, size, date, and method of abandonment, whether the facility has been abandoned properly under applicable law, and other relevant information the Secretary may require. Not later than April 24, 1994, the Secretary shall specify how the information shall be reported. The Secretary shall ensure that the Government maintains the information in a way accessible to appropriate Government agencies and State authorities.
 
-(C) The Secretary shall request that a State authority having information on a collision between a vessel and an underwater pipeline facility report the information to the Secretary in atimely way and make a reasonable effort to specify the location, date, and severity of the collision. Chapter 35 of title 44 does not apply to this subparagraph.
+(C) The Secretary shall request that a State authority having information on a collision between a vessel and an underwater pipeline facility report the information to the Secretary in a timely way and make a reasonable effort to specify the location, date, and severity of the collision. Chapter 35 of title 44 does not apply to this subparagraph.
 
 (7) The Secretary may not exempt from this chapter an offshore hazardous liquid pipeline facility only because the pipeline facility transfers hazardous liquid in an underwater pipeline between a vessel and an onshore facility.
 
@@ -378,7 +378,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Deadline
 
-Pub. L. 116–260, div. R, title I, §114(b), Dec. 27, 2020, 134 Stat. 2231, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\], eachpipeline operator shall update the inspection and maintenance plan prepared by the operator under section 60108(a) of title 49, United States Code, to address the elements described in the amendments to that section made by subsection (a)."
+Pub. L. 116–260, div. R, title I, §114(b), Dec. 27, 2020, 134 Stat. 2231, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 27, 2020\], each pipeline operator shall update the inspection and maintenance plan prepared by the operator under section 60108(a) of title 49, United States Code, to address the elements described in the amendments to that section made by subsection (a)."
 
 #### Information-Sharing System
 

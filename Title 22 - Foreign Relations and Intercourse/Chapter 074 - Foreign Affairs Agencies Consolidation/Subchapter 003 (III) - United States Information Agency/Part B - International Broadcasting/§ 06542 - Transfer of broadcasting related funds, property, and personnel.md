@@ -14,7 +14,7 @@
 
 Notwithstanding any other provision of law—
 
-&emsp;(1) except as provided in subsection (c), all personnel and positions of USIA employed ormaintained to carry out the functions transferred by this part to the Broadcasting Board of Governors shall be transferred to the Broadcasting Board of Governors at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer; and
+&emsp;(1) except as provided in subsection (c), all personnel and positions of USIA employed or maintained to carry out the functions transferred by this part to the Broadcasting Board of Governors shall be transferred to the Broadcasting Board of Governors at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer; and
 
 &emsp;(2) the personnel and positions of USIA, as determined by the Secretary of State, with the concurrence of the Broadcasting Board of Governors and the Director of USIA, to support the functions transferred by this part shall be transferred to the Broadcasting Board of Governors, including the International Broadcasting Bureau, at the same grade or class and the same rate of basic pay or basic salary rate and with the same tenure held immediately preceding transfer.
 
@@ -38,5 +38,5 @@ This part, referred to in subsecs. (a) and (b), was in the original "this chapte
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 

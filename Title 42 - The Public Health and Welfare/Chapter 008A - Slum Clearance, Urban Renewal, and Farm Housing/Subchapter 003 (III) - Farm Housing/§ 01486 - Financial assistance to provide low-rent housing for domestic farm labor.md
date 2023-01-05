@@ -22,7 +22,7 @@ No financial assistance for low-rent housing and related facilities shall be mad
 
 &emsp;(1) that the rentals charged domestic farm labor shall not exceed such amounts as may be approved by the Secretary, giving due consideration to the income and earning capacity of the tenants, and the necessary costs of operating and maintaining such housing;
 
-&emsp;(2) that such housing shall be maintained at all times in a safe and sanitary condition in accordance with such standards as may be prescribed by State or local law, or, in the absence of such standards, in accordance withsuch minimum requirements as the Secretary shall prescribe; and
+&emsp;(2) that such housing shall be maintained at all times in a safe and sanitary condition in accordance with such standards as may be prescribed by State or local law, or, in the absence of such standards, in accordance with such minimum requirements as the Secretary shall prescribe; and
 
 &emsp;(3) an absolute priority will be given at all times in granting occupancy of such housing and facilities to domestic farm labor.
 
@@ -36,7 +36,7 @@ The Secretary shall prescribe regulations to insure that Federal funds expended 
 
 #### (f) Wages; labor standards; waiver; authority and functions of Secretary
 
-All laborers and mechanics employed by contractors or subcontractors on projects assisted by the Secretary which are undertaken by approved applicants under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this section for any project without first obtaining adequate assurance that these labor standards will be maintained on the construction work; except that compliance with such standards may be waived by the Secretary in cases or classes of cases where laborers or mechanics, not otherwise employed at any time on the project, voluntarily donate their services without compensation for the purpose of lowering the costs of construction and the Secretary determines that any amounts thereby saved are fully credited to the person, corporation, association, organization, or other entity, undertaking the project. The Secretary of Labor shall have, with respect to the labor standards specified in this section, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and section 3145 of title 40.
+All laborers and mechanics employed by contractors or subcontractors on projects assistedby the Secretary which are undertaken by approved applicants under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this section for any project without first obtaining adequate assurance that these labor standards will be maintained on the construction work; except that compliance with such standards may be waived by the Secretary in cases or classes of cases where laborers or mechanics, not otherwise employed at any time on the project, voluntarily donate their services without compensation for the purpose of lowering the costs of construction and the Secretary determines that any amounts thereby saved are fully credited to the person, corporation, association, organization, or other entity, undertaking the project. The Secretary of Labor shall have, with respect to the labor standards specified in this section, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and section 3145 of title 40.
 
 #### (g) Definitions
 
@@ -138,7 +138,7 @@ Housing and related facilities constructed with grants under this section may be
 
 #### (D) Occupant rent
 
-&emsp;&emsp;Each migrant farmworker and homeless individual residing in a facility assistedunder this subsection shall pay as rent an amount determined in accordance with the provisions of section 1437a(a) of this title.
+&emsp;&emsp;Each migrant farmworker and homeless individual residing in a facility assisted under this subsection shall pay as rent an amount determined in accordance with the provisions of section 1437a(a) of this title.
 
 #### (4) Guidelines
 
@@ -160,7 +160,7 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;For purposes of this subsection:
 
-&emsp;&emsp;(A) The term "applicant" means a State, political subdivision thereof, Indian tribe, any private nonprofit organization incorporated within the State that has applied for a grant under this subsection.
+&emsp;&emsp;(A) The term "applicant" means a State, political subdivision thereof, Indian tribe,any private nonprofit organization incorporated within the State that has applied for a grant under this subsection.
 
 &emsp;&emsp;(B) The term "homeless individual" has the same meaning given the term under section 11302 of this title.
 
@@ -172,7 +172,51 @@ Housing and related facilities constructed with grants under this section may be
 
 &emsp;&emsp;(D) The term "operating costs" means expenses incurred by a recipient providing housing under this subsection with respect to the administration, maintenance, repair, and security of such housing and utilities, fuel, furnishings, and equipment for such housing.
 
-(July 15, 1949, ch. 338, title V, §516, as added Pub. L. 88–560, title V, §503(a), Sept. 2, 1964, 78 Stat. 796; amended Pub. L. 91–609, title VIII, §801(c), (d), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 95–557, title V, §505, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §509, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §507(d), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title I \[title V, §513\], Nov. 30, 1983, 97 Stat. 1247; Pub. L. 100–242, title III, §305(b), Feb. 5, 1988, 101 Stat. 1895; Pub. L. 100–628, title X, §1043(b), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §714(a), Nov. 28, 1990, 104 Stat. 4292; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(July 15, 1949, ch. 338, title V, §516, as added Pub. L. 88–560, title V, §503(a), Sept. 2, 1964, 78 Stat. 796; amended Pub. L. 91–609, title VIII, §801(c), (d), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 95–557, title V, §505, Oct. 31, 1978, 92 Stat. 2112; Pub. L. 96–153, title V, §509, Dec. 21, 1979, 93 Stat. 1136; Pub. L. 96–399, title V, §507(d), Oct. 8, 1980, 94 Stat. 1670; Pub. L. 98–181, title I \[title V, §513\], Nov. 30, 1983, 97 Stat. 1247; Pub. L. 100–242, title III, §305(b), Feb. 5, 1988, 101 Stat. 1895; Pub. L. 100–628, title X, §1043(b), Nov. 7, 1988, 102 Stat. 3273; Pub. L. 101–625, title VII, §714(a), Nov. 28, 1990, 104 Stat. 4292; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 117–328, div. AA, title VI, §601(f), Dec. 29, 2022, 136 Stat. 5548.)
+
+#### Amendment of Subsections (c) and (g)
+
+<i>Pub. L. 117–328, div. AA, title VI, §601(f), (h), Dec. 29, 2022, 136 Stat. 5548, provided that, effective two years after Dec. 29, 2022, this section is amended—</i>
+
+<i>(1) in subsection (c)—</i>
+
+<i>(A) in paragraph (2), by striking "and" at the end;</i>
+
+<i>(B) in paragraph (3), by striking the period at the end and inserting "; and"; and</i>
+
+<i>(C) by adding at the end the following:</i>
+
+&emsp;<i>"(4) that such housing shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit."; and</i>
+
+<i>(2) in subsection (g)—</i>
+
+<i>(A) in paragraph (3) by striking "and" at the end;</i>
+
+<i>(B) in paragraph (4), by striking the period at the end and inserting a semicolon; and</i>
+
+<i>(C) by adding at the end the following:</i>
+
+&emsp;<i>"(5) the term 'smoke alarm' has the meaning given the term 'smoke detector' in section 2225(d) of title 15; and</i>
+
+&emsp;<i>"(6) the term 'qualifying smoke alarm' means a smoke alarm that—</i>
+
+&emsp;&emsp;<i>"(A) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—</i>
+
+&emsp;&emsp;&emsp;<i>"(i)(I) is hardwired; or</i>
+
+&emsp;&emsp;&emsp;<i>"(II) uses 10-year non rechargeable, nonreplaceable primary batteries and—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(aa) is sealed;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(bb) is tamper resistant; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(cc) contains silencing means; and</i>
+
+&emsp;&emsp;&emsp;<i>"(ii) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or</i>
+
+&emsp;&emsp;<i>"(B) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired."</i>
+
+<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -189,6 +233,10 @@ In subsec. (f), "sections 3141–3144, 3146, and 3147 of title 40" substituted f
 Subsec. (k)(6) of this section, which required the Secretary to submit an annual report to Congress summarizing the activities carried out under subsec. (k) and setting forth the findings, conclusions, and recommendations of the Secretary as a result of the activities, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 18 on page 103 of House Document No. 103–7.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(4). Pub. L. 117–328, §601(f)(1), added par. (4).
+
+Subsec. (g)(5), (6). Pub. L. 117–328, §601(f)(2), added pars. (5) and (6).
 
 <b>2000</b>—Subsec. (k)(7)(B). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to section 11302 of this title.
 
@@ -215,6 +263,16 @@ Subsec. (a)(3). Pub. L. 91–609, §801(d)(3), inserted ", and such housing and
 Subsec. (b). Pub. L. 91–609, §801(d)(4), substituted "90 per centum" for "two-thirds".
 
 Subsec. (g)(1). Pub. L. 91–609, §801(c), substituted "structures (including household furnishings)" for "structures" in cls. (A) and (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 effective 2 years after Dec. 29, 2022, see section 601(h) of div. AA of Pub. L. 117–328, set out as a note under section 1701q of Title 12, Banks and Banking.
+
+#### Construction of 2022 Amendment
+
+Nothing in amendment made by Pub. L. 117–328 to be construed to preempt or limit applicability of certain State or local laws relating to smoke alarms, see section 601(i) of div. AA of Pub. L. 117–328, set out as a note under section 1701q of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

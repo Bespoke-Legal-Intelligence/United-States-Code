@@ -44,7 +44,7 @@ A grant under this section shall have a term of not more than 5 years.
 
 There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2023.
 
-(Pub. L. 105–185, title IV, §406, June 23, 1998, 112 Stat. 573; Pub. L. 107–171, title VII, §§7125, 7206, May 13, 2002, 116 Stat. 434, 439; Pub. L. 110–234, title VII, §§7129(c)(4), 7306, May 22, 2008, 122 Stat. 1227, 1242; Pub. L. 110–246, §4(a), title VII, §§7129(c)(4), 7306, June 18, 2008, 122 Stat. 1664, 1988, 2004; Pub. L. 113–79, title VII, §§7128(b)(3)(A), 7302, Feb. 7, 2014, 128 Stat. 879, 887; Pub. L. 115–334, title VII, §§7302, 7614(b)(3)(A), Dec. 20, 2018, 132 Stat. 4815, 4835.)
+(Pub. L. 105–185, title IV, §406, June 23, 1998, 112 Stat. 573; Pub. L. 107–171, title VII, §§7125, 7206,May 13, 2002, 116 Stat. 434, 439; Pub. L. 110–234, title VII, §§7129(c)(4), 7306, May 22, 2008, 122 Stat. 1227, 1242; Pub. L. 110–246, §4(a), title VII, §§7129(c)(4), 7306, June 18, 2008, 122 Stat. 1664, 1988, 2004; Pub. L. 113–79, title VII, §§7128(b)(3)(A), 7302, Feb. 7, 2014, 128 Stat. 879, 887; Pub. L. 115–334, title VII, §§7302, 7614(b)(3)(A), Dec. 20, 2018, 132 Stat. 4815, 4835.)
 
 #### <b>Editorial Notes</b>
 

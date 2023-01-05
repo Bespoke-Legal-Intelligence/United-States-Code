@@ -32,7 +32,7 @@ In this section:
 
 #### (B) Limitation
 
-&emsp;&emsp;No tobacco product shall be considered to be "sold or distributed for use to reduceharm or the risk of tobacco-related disease associated with commercially marketed tobacco products", except as described in subparagraph (A).
+&emsp;&emsp;No tobacco product shall be considered to be "sold or distributed for use to reduce harm or the risk of tobacco-related disease associated with commercially marketed tobacco products", except as described in subparagraph (A).
 
 #### (C) Smokeless tobacco product
 
@@ -158,7 +158,7 @@ The Secretary shall make the application described in subsection (d) publicly av
 
 #### (1) Modified risk products
 
-&emsp;The Secretary shall require for the marketing of a product under this section that any advertising or labeling concerning modified risk products enable the public to comprehend the information concerning modified risk and to understand the relative significance of such information in the context of total health and in relation to all of the diseases and health-related conditions associated with the use of tobacco products.
+&emsp;The Secretary shall require for the marketing of a product under this section that any advertising or labeling concerning modified risk products enable the public to comprehend the information concerning modifiedrisk and to understand the relative significance of such information in the context of total health and in relation to all of the diseases and health-related conditions associated with the use of tobacco products.
 
 #### (2) Comparative claims
 
@@ -228,7 +228,7 @@ A product for which the Secretary has issued an order pursuant to subsection (g)
 
 &emsp;Not later than 2 years after June 22, 2009, the Secretary shall issue regulations or guidance (or any combination thereof) on the scientific evidence required for assessment and ongoing review of modified risk tobacco products. Such regulations or guidance shall—
 
-&emsp;&emsp;(A) to the extent that adequate scientific evidence exists, establish minimum standards for scientific studies needed prior to issuing an order under subsection (g) to show that a substantial reduction in morbidity or mortality among individual tobacco users occurs for products described in subsection (g)(1) or is reasonably likely for products described in subsection (g)(2);
+&emsp;&emsp;(A) to the extent that adequate scientific evidence exists, establish minimum standards for scientific studies needed prior to issuing an order under subsection (g) to show that a substantial reduction in morbidity ormortality among individual tobacco users occurs for products described in subsection (g)(1) or is reasonably likely for products described in subsection (g)(2);
 
 &emsp;&emsp;(B) include validated biomarkers, intermediate clinical endpoints, and other feasible outcome measures, as appropriate;
 

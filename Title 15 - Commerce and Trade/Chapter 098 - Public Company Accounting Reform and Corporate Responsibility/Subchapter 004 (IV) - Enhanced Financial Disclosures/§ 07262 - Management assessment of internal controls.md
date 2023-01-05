@@ -2,7 +2,7 @@
 
 #### (a) Rules required
 
-The Commission shall prescribe rules requiring each annual report required by section 78m(a) or 78o(d) of this title to contain an internal control report, which shall—
+The Commission shall prescribe rules requiring each annual report required by section78m(a) or 78o(d) of this title to contain an internal control report, which shall—
 
 &emsp;(1) state the responsibility of management for establishing and maintaining an adequate internal control structure and procedures for financial reporting; and
 

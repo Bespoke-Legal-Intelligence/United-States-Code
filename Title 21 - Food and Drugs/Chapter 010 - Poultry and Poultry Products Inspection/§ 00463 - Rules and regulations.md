@@ -2,7 +2,7 @@
 
 #### (a) Storage and handling of poultry products; violation of regulations
 
-The Secretary may by regulations prescribe conditions under which poultry products capable of use as human food, shall be stored or otherwise handled by any person engaged in the business of buying, selling, freezing, storing, ortransporting, in or for commerce, or importing, such articles, whenever the Secretary deems such action necessary to assure that such articles will not be adulterated or misbranded when delivered to the consumer. Violation of any such regulation is prohibited.
+The Secretary may by regulations prescribe conditions under which poultry products capable of use as human food, shall be stored or otherwise handled by any person engaged in the business of buying, selling, freezing, storing, or transporting, in or for commerce, or importing, such articles, whenever the Secretary deems such action necessary to assure that such articles will not be adulterated or misbranded when delivered to the consumer. Violation of any such regulation is prohibited.
 
 #### (b) Other necessary rules and regulations
 

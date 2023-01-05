@@ -18,7 +18,7 @@
 
 (b)(1) An offshore supply vessel of less than 500 gross tons as measured under section 14502 of this title or 6,000 gross tons as measured under section 14302 of this title on a voyage of less than 600 miles shall have a licensed mate. If the vessel is on a voyage of at least 600 miles, however, the vessel shall have 2 licensed mates.
 
-(2) An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title on a voyage of less than 600 miles shall have at least two licensed mates, provided the offshore supply vessel meets the requirements of section 8104(g)(2). An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title on a voyage of at least 600 miles shall have three licensed mates.
+(2) An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title on a voyage of less than 600 miles shall have at least two licensed mates, provided the offshore supply vessel meets the requirements ofsection 8104(g)(2). An offshore supply vessel of at least 6,000 gross tons as measured under section 14302 of this title on a voyage of at least 600 miles shall have three licensed mates.
 
 (3) An offshore supply vessel of more than 200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, may not be operated without a licensed engineer.
 
@@ -50,7 +50,7 @@ Section 8301 prescribes the minimum number of licensed individuals on board cert
 
 Subsection (a) applies to certain merchant and passenger carrying vessels of the United States, each of which must have a licensed master regardless of the factors listed above. Subsection (b) applies to offshore supply vessels. Subsection (c) exempts fishing or whaling vessels or yachts from these requirements.
 
-Subsection (d) permits the Secretary to suspend any part of this chapter during a declared national emergency or to increase the number of licensed individualsrequired by this chapter if required for safe operation of a vessel.
+Subsection (d) permits the Secretary to suspend any part of this chapter during a declared national emergency or to increase the number of licensed individuals required by this chapter if required for safe operation of a vessel.
 
 #### <b>Editorial Notes</b>
 

@@ -100,7 +100,7 @@ Subsec. (g). Pub. L. 101–548 inserted "with regard to future storage of refine
 
 Pub. L. 101–383, §7, added subsec. (g).
 
-<b>1986</b>—Subsec. (c)(3). Pub. L. 99–509, §3202(a), substituted "fiscal year 1987 and continuing through fiscal years 1988 and 1989" for "fiscal year 1986 and continuing through fiscal years 1987 and 1988", "750,000,000 barrels" for "527,000,000 barrels", and "at the highest practicable fill rate achievable, subject to the availabilityof appropriated funds" for "at a level sufficient to assure a minimum average annual fill-rate of at least 35,000 barrels per day in addition to any petroleum products acquired for the Reserve to replace petroleum products withdrawn from the Reserve as a result of a test drawdown and distribution".
+<b>1986</b>—Subsec. (c)(3). Pub. L. 99–509, §3202(a), substituted "fiscal year 1987 and continuing through fiscal years 1988 and 1989" for "fiscal year 1986 and continuing through fiscal years 1987 and 1988", "750,000,000 barrels" for "527,000,000 barrels", and "at the highest practicable fill rate achievable, subject to the availability of appropriated funds" for "at a level sufficient to assure a minimum average annual fill-rate of at least 35,000 barrels per day in addition to any petroleum products acquired for the Reserve to replace petroleum products withdrawn from the Reserve as a result of a test drawdown and distribution".
 
 Pub. L. 99–272, §7102(a), added par. (3).
 
@@ -170,7 +170,7 @@ Review of requests for deferrals of scheduled deliveries.—The procedures devel
 
 Deadlines.—The Secretary \[of Energy\] shall—
 
-&emsp;"(i) propose the procedures required under the amendment made by subparagraph (A) \[amendingthis section\] not later than 120 days after the date of enactment of this Act \[Aug. 8, 2005\];
+&emsp;"(i) propose the procedures required under the amendment made by subparagraph (A) \[amending this section\] not later than 120 days after the date of enactment of this Act \[Aug. 8, 2005\];
 
 &emsp;"(ii) promulgate the procedures not later than 180 days after the date of enactment of this Act; and
 
@@ -192,7 +192,7 @@ Pub. L. 99–190, §101(d) \[title II\], Dec. 19, 1985, 99 Stat. 1224, 1254, pro
 
 Pub. L. 96–294, title VIII, §805, June 30, 1980, 94 Stat. 777, provided that:
 
-"(a)(1) In order to carry out the requirement of the amendment made by section 801 of this Act \[amending this section and enacting provision set out as a note above\] and to carry out the policies and objectives established in sections 151 and 160(b)(1) of the Energy Policy and Conservation Act (42 U.S.C. 6231 and 6240(b)(1)) the President shall, within 60 days after the date of the enactment of this Act \[June 30, 1980\], promulgate and make effective an amendment to the provisions of the regulation under section 4(a) of the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 753(a)\] relating to entitlements, which has the same effect as allocating lower tier crude oil to the Government for storage in the Strategic Petroleum Reserve. Such amendment shall not apply with respect to crude oil purchased after September 30, 1981, for storage in such reserve.
+"(a)(1) In order to carry out the requirement of the amendment made by section 801 of this Act \[amending this section and enacting provision set out as a note above\] and to carry out the policies and objectives established in sections 151 and 160(b)(1) of the Energy Policy and Conservation Act (42 U.S.C. 6231 and 6240(b)(1)) the President shall, within 60 days after the date of the enactment of this Act \[June 30, 1980\], promulgate and make effective an amendment to the provisions of the regulation under section 4(a) of the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 753(a)\] relating toentitlements, which has the same effect as allocating lower tier crude oil to the Government for storage in the Strategic Petroleum Reserve. Such amendment shall not apply with respect to crude oil purchased after September 30, 1981, for storage in such reserve.
 
 "(2) The authority provided by this subsection shall be in addition to, and shall not be deemed to limit, any other authority available to the President under the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\] or any other law.
 
@@ -230,7 +230,7 @@ Pub. L. 96–294, title VIII, §805, June 30, 1980, 94 Stat. 777, provided that:
 
 #### Rate of Fill of Strategic Petroleum Reserve
 
-Pub. L. 96–514, title II, Dec. 12, 1980, 94 Stat. 2976, provided in part: "That the President shall immediately seek to undertake, and thereafter continue, crude oilacquisition, transportation, and injection activities at a level sufficient to assure that crude oil storage in the Strategic Petroleum Reserve will be increased to an average annual rate of at least 300,000 barrels per day or a sustained average annual daily rate of fill which would fully utilize appropriated funds: <i>Provided</i>, That the requirements of the preceding provision shall be in addition to the provisions of title VIII of the Energy Security Act \[title VIII of Pub. L. 96–294, which amended this section and section 7430 of Title 10, Armed Forces, and enacted provisions set out as a note above\] and shall not affect such provisions of the Energy Security Act in any way."
+Pub. L. 96–514, title II, Dec. 12, 1980, 94 Stat. 2976, provided in part: "That the President shall immediately seek to undertake, and thereafter continue, crude oil acquisition, transportation, and injection activities at a level sufficient to assure that crude oil storage in the Strategic Petroleum Reserve will be increased to an average annual rate of at least 300,000 barrels per day or a sustained average annual daily rate of fill which would fully utilize appropriated funds: <i>Provided</i>, That the requirements of the preceding provision shall be in addition to the provisions of title VIII of the Energy Security Act \[title VIII of Pub. L. 96–294, which amended this section and section 7430 of Title 10, Armed Forces, and enacted provisions set out as a note above\] and shall not affect such provisions of the Energy Security Act in any way."
 
 #### <b>Executive Documents</b>
 

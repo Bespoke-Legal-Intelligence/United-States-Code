@@ -4,7 +4,7 @@
 
 The Administrator may enter into cooperative agreements with States and Indian tribes—
 
-&emsp;(1) to delegate to any State or Indian tribe the authority to cooperate in the enforcement of this subchapter through the use of its personnel or facilities, to train personnel of the State or Indian tribe to cooperate in the enforcement of this subchapter, and to assistStates and Indian tribes in implementing cooperative enforcement programs through grants-in-aid; and
+&emsp;(1) to delegate to any State or Indian tribe the authority to cooperate in the enforcement of this subchapter through the use of its personnel or facilities, to train personnel of the State or Indian tribe to cooperate in the enforcement of this subchapter, and to assist States and Indian tribes in implementing cooperative enforcement programs through grants-in-aid; and
 
 &emsp;(2) to assist States in developing and administering State programs, and Indian tribes that enter into cooperative agreements, to train and certify applicators consistent with the standards the Administrator prescribes.
 

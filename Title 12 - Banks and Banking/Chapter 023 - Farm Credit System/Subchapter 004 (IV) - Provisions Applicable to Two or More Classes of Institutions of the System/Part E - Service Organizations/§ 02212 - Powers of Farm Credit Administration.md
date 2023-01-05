@@ -1,6 +1,6 @@
 ### §2212. Powers of Farm Credit Administration
 
-The Farm Credit Administration shall have power, under rules and regulations prescribed by the Farm Credit Administration, to provide for the organization of any corporation chartered under this part and the territory within whichits operations may be carried on, and to approve amendments consistent with this chapter to charters or articles of service corporations.
+The Farm Credit Administration shall have power, under rules and regulations prescribed by the Farm Credit Administration, to provide for the organization of any corporation chartered under this part and the territory within which its operations may be carried on, and to approve amendments consistent with this chapter to charters or articles of service corporations.
 
 (Pub. L. 92–181, title IV, §4.26, as added Pub. L. 96–592, title IV, §404, Dec. 24, 1980, 94 Stat. 3447; amended Pub. L. 99–205, title II, §205(f)(9), Dec. 23, 1985, 99 Stat. 1706; Pub. L. 100–233, title VIII, §802(s), Jan. 6, 1988, 101 Stat. 1712.)
 

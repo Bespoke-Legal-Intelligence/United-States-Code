@@ -8,7 +8,7 @@ Congress declares that it is the policy of this Nation, in fulfillment of its sp
 
 &emsp;(3) to ensure maximum Indian participation in the direction of health care services so as to render the persons administering such services and the services themselves more responsive to the needs and desires of Indian communities;
 
-&emsp;(4) to increase the proportion of all degrees in the health professions and allied and associated health professions awarded to Indians sothat the proportion of Indian health professionals in each Service area is raised to at least the level of that of the general population;
+&emsp;(4) to increase the proportion of all degrees in the health professions and allied and associated health professions awarded to Indians so that the proportion of Indian health professionals in each Service area is raised to at least the level of that of the general population;
 
 &emsp;(5) to require that all actions under this chapter shall be carried out with active and meaningful consultation with Indian tribes and tribal organizations, and conference with urban Indian organizations, to implement this chapter and the national policy of Indian self-determination;
 
@@ -32,5 +32,5 @@ Amendment by Pub. L. 111–148 is based on section 103 of title I of S. 1790, On
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to declaration of health objectives.
 
-<b>1992</b>—Pub. L. 102–573 amended section generally. Prior to amendment, section read as follows: "The Congress hereby declares that it is the policy of this Nation, in fulfillment of its special responsibilities and legal obligation to the American Indian people, to meet the national goal of providing the highest possible health status to Indians and to provide existing Indian health services with all resources necessary to effect that policy."
+<b>1992</b>—Pub. L. 102–573 amended section generally. Prior to amendment, section read as follows: "The Congress hereby declares that it is the policy of this Nation, infulfillment of its special responsibilities and legal obligation to the American Indian people, to meet the national goal of providing the highest possible health status to Indians and to provide existing Indian health services with all resources necessary to effect that policy."
 

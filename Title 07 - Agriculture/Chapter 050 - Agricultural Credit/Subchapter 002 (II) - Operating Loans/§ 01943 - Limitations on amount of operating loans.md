@@ -12,7 +12,7 @@ The Secretary shall make or insure no loan under this subchapter—
 
 For purposes of this section, the inflation percentage applicable to a fiscal year is the percentage (if any) by which—
 
-&emsp;(1) the average of the Prices Paid By Farmers Index (as compiled by the National Agricultural Statistics Service of the Department of Agriculture) for the 12-month period endingon July 31 of the immediately preceding fiscal year; exceeds
+&emsp;(1) the average of the Prices Paid By Farmers Index (as compiled by the National Agricultural Statistics Service of the Department of Agriculture) for the 12-month period ending on July 31 of the immediately preceding fiscal year; exceeds
 
 &emsp;(2) the average of such index (as so defined) for the 12-month period that immediately precedes the 12-month period described in paragraph (1).
 

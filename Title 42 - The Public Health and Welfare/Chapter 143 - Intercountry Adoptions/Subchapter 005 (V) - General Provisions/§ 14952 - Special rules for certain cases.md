@@ -8,7 +8,7 @@ To the extent consistent with the Convention, the Secretary may establish by reg
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this chapter, to the extent consistent with theConvention, the Secretary may, on a case-by-case basis, waive applicable requirements of this chapter or regulations issued under this chapter, in the interests of justice or to prevent grave physical harm to the child.
+&emsp;Notwithstanding any other provision of this chapter, to the extent consistent with the Convention, the Secretary may, on a case-by-case basis, waive applicable requirements of this chapter or regulations issued under this chapter, in the interests of justice or to prevent grave physical harm to the child.
 
 #### (2) Nondelegation
 
@@ -26,5 +26,5 @@ This chapter, referred to in subsec. (b)(1), was in the original "this Act", mea
 
 #### Effective Date
 
-Section effective upon entry into force for the United States of the Convention on Protection of Children and Co-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
+Section effective upon entry into force for the United States of the Convention on Protection of Children andCo-operation in Respect of Intercountry Adoption, pursuant to Article 46(2)(a) of the Convention, with transition rule, see section 505(a)(2), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
 

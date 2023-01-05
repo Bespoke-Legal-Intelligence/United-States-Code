@@ -10,7 +10,7 @@ There are hereby authorized to be appropriated for each fiscal year such sums as
 
 &emsp;&emsp;(B) to State or local public agencies responsible for administering, or supervising the administration of, the plan under this part, for projects for the demonstration of the utilization of research (including findings resulting therefrom) in the field of child welfare in order to encourage experimental and special types of welfare services; and
 
-&emsp;&emsp;(C) to public or other nonprofit institutions of higher learning for special projects for training personnel for work in the field of child welfare, including traineeships described in section 628a <sup>1</sup> of this title with such stipends and allowances as may be permitted by the Secretary; and
+&emsp;&emsp;(C) to public or other nonprofit institutions of higher learning for special projects for training personnel for work in the field of child welfare, including traineeships described in section 628a <sup>1</sup> of this title withsuch stipends and allowances as may be permitted by the Secretary; and
 
 &emsp;(2) for contracts or jointly financed cooperative arrangements with States and public and other organizations and agencies for the conduct of research, special projects, or demonstration projects relating to such matters.
 
@@ -54,7 +54,7 @@ Section 628a of this title, which was transferred and redesignated as subsec. (c
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b) and struck out former subsec. (b)which related to appropriations for demonstration projects for development of alternate care arrangements for infants not requiring hospitalization.
+<b>2006</b>—Subsec. (b). Pub. L. 109–288, §11(b), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to appropriations for demonstration projects for development of alternate care arrangements for infants not requiring hospitalization.
 
 Subsec. (c). Pub. L. 109–288, §6(f)(2), amended section as amended by Pub. L. 109–288, §11(b), by transferring section 628a of this title and redesignating it as subsec. (c) of this section. See Codification note above.
 

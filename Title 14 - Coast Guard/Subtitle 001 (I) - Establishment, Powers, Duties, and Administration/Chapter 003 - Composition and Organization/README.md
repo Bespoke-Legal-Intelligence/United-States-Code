@@ -16,14 +16,15 @@
 | [312\.](%C2%A7%2000312%20-%20Prevention%20and%20response%20workforces.md) | Prevention and response workforces. |
 | [313\.](%C2%A7%2000313%20-%20Centers%20of%20expertise%20for%20Coast%20Guard%20prevention%20and%20response.md) | Centers of expertise for Coast Guard prevention and response. |
 | [314\.](%C2%A7%2000314%20-%20Marine%20industry%20training%20program.md) | Marine industry training program. |
-| [315\.](%C2%A7%2000315%20-%20Training%20course%20on%20workings%20of%20Congress.md) | Training course on workings of Congress. |
+| [315\.](%C2%A7%2000315%20-%20Training%20for%20congressional%20affairs%20personnel.md) | Training for congressional affairs personnel. |
 | [316\.](%C2%A7%2000316%20-%20National%20Coast%20Guard%20Museum.md) | National Coast Guard Museum. |
 | [317\.](%C2%A7%2000317%20-%20United%20States%20Coast%20Guard%20Band%3B%20composition%3B%20director.md) | United States Coast Guard Band; composition; director. |
 | [318\.](%C2%A7%2000318%20-%20Environmental%20Compliance%20and%20Restoration%20Program.md) | Environmental Compliance and Restoration Program. |
-| [319\.](%C2%A7%2000319%20-%20Land-based%20unmanned%20aircraft%20system%20program.md) | Land-based unmanned aircraft system program. |
+| [319\.](%C2%A7%2000319%20-%20Unmanned%20system%20program%20and%20autonomous%20control%20and%20computer%20vision%20technology%20project.md) | Unmanned system program and autonomous control and computer vision technology project. |
 | [320\.](%C2%A7%2000320%20-%20Coast%20Guard%20Junior%20Reserve%20Officers%27%20Training%20Corps.md) | Coast Guard Junior Reserve Officers' Training Corps. |
 | [321\.](%C2%A7%2000321%20-%20Congressional%20affairs%3B%20Director.md) | Congressional affairs; Director. |
 | [322\.](%C2%A7%2000322%20-%20Redistricting%20notification%20requirement.md) | Redistricting notification requirement. |
+| [323\.](%C2%A7%2000323%20-%20Western%20Alaska%20Oil%20Spill%20Planning%20Criteria%20Program.md) | Western Alaska Oil Spill Planning Criteria Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -34,6 +35,8 @@
 A prior analysis for chapter 3 "COMPOSITION AND ORGANIZATION" consisted of items 41 "Grades and ratings", 41a "Active duty promotion list", 42 "Number and distribution of commissioned officers on active duty promotion list", 44 "Commandant; appointment", 46 "Retirement of Commandant or Vice Commandant", 47 "Vice Commandant; appointment", 50 "Vice admirals", 51 "Retirement", 52 "Vice admirals and admiral, continuity of grade", 53 "Office of the Coast Guard Reserve; Director", 54 "Chief of Staff to President: appointment", 56 "Chief Acquisition Officer", 57 "Prevention and response workforces", 58 "Centers of expertise for Coast Guard prevention and response", 59 "Marine industry training programs", and 60 "Training course on workings of Congress", prior to repeal by Pub. L. 115–282, title I, §104(a), Dec. 4, 2018, 132 Stat. 4196.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. K, title CXII, §§11225(b), 11251(b), title CXIII, §11309(a)(2), Dec. 23, 2022, 136 Stat. 4025, 4053, 4081, added items 315, 319, and 323 and struck out former items 315 "Training course on workings of Congress" and 319 "Land-based unmanned aircraft system program".
 
 <b>2021</b>—Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8211(b), title LVXXXV \[LXXXV\], §8501(b)(1), Jan. 1, 2021, 134 Stat. 4649, 4746, added items 321 and 322.
 
@@ -60,11 +63,12 @@ A prior analysis for chapter 3 "COMPOSITION AND ORGANIZATION" consisted of items
 - [&sect; 00312 - Prevention and response workforces](%C2%A7%2000312%20-%20Prevention%20and%20response%20workforces.md)
 - [&sect; 00313 - Centers of expertise for Coast Guard prevention and response](%C2%A7%2000313%20-%20Centers%20of%20expertise%20for%20Coast%20Guard%20prevention%20and%20response.md)
 - [&sect; 00314 - Marine industry training program](%C2%A7%2000314%20-%20Marine%20industry%20training%20program.md)
-- [&sect; 00315 - Training course on workings of Congress](%C2%A7%2000315%20-%20Training%20course%20on%20workings%20of%20Congress.md)
+- [&sect; 00315 - Training for congressional affairs personnel](%C2%A7%2000315%20-%20Training%20for%20congressional%20affairs%20personnel.md)
 - [&sect; 00316 - National Coast Guard Museum](%C2%A7%2000316%20-%20National%20Coast%20Guard%20Museum.md)
 - [&sect; 00317 - United States Coast Guard Band; composition; director](%C2%A7%2000317%20-%20United%20States%20Coast%20Guard%20Band%3B%20composition%3B%20director.md)
 - [&sect; 00318 - Environmental Compliance and Restoration Program](%C2%A7%2000318%20-%20Environmental%20Compliance%20and%20Restoration%20Program.md)
-- [&sect; 00319 - Land-based unmanned aircraft system program](%C2%A7%2000319%20-%20Land-based%20unmanned%20aircraft%20system%20program.md)
+- [&sect; 00319 - Unmanned system program and autonomous control and computer vision technology project](%C2%A7%2000319%20-%20Unmanned%20system%20program%20and%20autonomous%20control%20and%20computer%20vision%20technology%20project.md)
 - [&sect; 00320 - Coast Guard Junior Reserve Officers' Training Corps](%C2%A7%2000320%20-%20Coast%20Guard%20Junior%20Reserve%20Officers%27%20Training%20Corps.md)
 - [&sect; 00321 - Congressional affairs; Director](%C2%A7%2000321%20-%20Congressional%20affairs%3B%20Director.md)
 - [&sect; 00322 - Redistricting notification requirement](%C2%A7%2000322%20-%20Redistricting%20notification%20requirement.md)
+- [&sect; 00323 - Western Alaska Oil Spill Planning Criteria Program](%C2%A7%2000323%20-%20Western%20Alaska%20Oil%20Spill%20Planning%20Criteria%20Program.md)

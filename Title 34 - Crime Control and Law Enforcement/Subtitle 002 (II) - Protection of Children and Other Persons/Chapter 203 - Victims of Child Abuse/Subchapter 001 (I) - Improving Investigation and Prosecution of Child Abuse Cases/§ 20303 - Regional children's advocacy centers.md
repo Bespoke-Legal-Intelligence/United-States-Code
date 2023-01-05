@@ -1,16 +1,18 @@
 ### §20303. Regional children's advocacy centers
 
-#### (a) Establishment of regional children's advocacy program
+#### (a) Establishment and maintenance of regional children's advocacy program
 
-The Administrator, in coordination with the Director of the Office of Victims of Crime, shall establish a children's advocacy program to—
+The Administrator shall establish and maintain a children's advocacy program to—
 
 &emsp;(1) focus attention on child victims by assisting communities in developing child-focused, community-oriented, facility-based programs designed to improve the resources available to children and families;
 
 &emsp;(2) enhance coordination among community agencies and professionals involved in the intervention, prevention, prosecution, and investigation systems that respond to child abuse cases;
 
-&emsp;(3) train physicians and other health care and mental health care professionals, law enforcement officers, child protective service workers, forensic interviewers, prosecutors, and victim advocates, in the multidisciplinary approach to child abuse so that trained personnel will be available to provide support to community agencies and professionals involved in the intervention, prevention, prosecution, and investigation systems that respond to child abuse cases; and
+&emsp;(3) train physicians and other health care and mental health care professionals, law enforcement officers, child protective service workers, forensic interviewers, prosecutors, victim advocates, multidisciplinary team leadership, and children's advocacy center staff, in the multidisciplinary approach to child abuse so that trained personnel will be available to provide support to community agencies and professionals involved in the intervention, prevention, prosecution, and investigation systems that respond to child abuse cases;
 
-&emsp;(4) collaborate with State chapters to provide training, technical assistance, coordination, and oversight to—
+&emsp;(4) provide technical assistance, training, coordination, and organizational capacity support for State chapters; and
+
+&emsp;(5) collaborate with State chapters to provide training, technical assistance, coordination, organizational capacity support, and oversight of—
 
 &emsp;&emsp;(A) local children's advocacy centers; and
 
@@ -22,11 +24,11 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 &emsp;The Administrator shall—
 
-&emsp;&emsp;(A) establish regional children's advocacy program centers; and
+&emsp;&emsp;(A) establish and maintain regional children's advocacy program centers; and
 
 &emsp;&emsp;(B) fund existing regional centers with expertise in multidisciplinary team investigation, trauma-informed interventions, and evidence-informed treatment,
 
-> &emsp;for the purpose of enabling grant recipients to provide information, services, and technical assistance to aid communities in establishing multidisciplinary programs that respond to child abuse.
+> &emsp;for the purpose of enabling grant recipients to provide information, services, training and technical assistance to aid communities in establishing and maintaining multidisciplinary programs that respond to child abuse.
 
 #### (2) Grant recipients
 
@@ -36,7 +38,7 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 &emsp;&emsp;&emsp;(i) in developing and expanding a comprehensive, multidisciplinary response to child abuse that is designed to meet the needs of child victims and their families;
 
-&emsp;&emsp;&emsp;(ii) in promoting the effective delivery of the evidence-informed Children's Advocacy Model and the multidisciplinary response to child abuse, including best practices in—
+&emsp;&emsp;&emsp;(ii) in promoting the effective delivery of the evidence-informed Children's Advocacy Center Model and the multidisciplinary response to child abuse, including best practices in—
 
 &emsp;&emsp;&emsp;&emsp;(I) organizational support and development;
 
@@ -44,7 +46,7 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 &emsp;&emsp;&emsp;&emsp;(III) financial oversight of Federal funding;
 
-&emsp;&emsp;&emsp;(iii) in establishing child-friendly facilities for the investigation of, assessment of, and intervention in abuse;
+&emsp;&emsp;&emsp;(iii) in establishing child-friendly facilities for the investigation and intervention in child abuse;
 
 &emsp;&emsp;&emsp;(iv) in preventing or reducing trauma to children caused by duplicative contacts with community professionals;
 
@@ -62,7 +64,7 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 &emsp;&emsp;&emsp;(xi) in enhancing community understanding of child abuse; and
 
-&emsp;&emsp;(B) provide training and technical assistance to local children's advocacy centers and interested communities in its census region that are grant recipients under section 20304 of this title.
+&emsp;&emsp;(B) provide training and technical assistance to local children's advocacy centers, interested communities, and chapters in its census region that are grant recipients under section 20304 of this title.
 
 #### (c) Operation of regional children's advocacy program
 
@@ -76,13 +78,13 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 &emsp;&emsp;(A) A proven record in conducting activities of the kinds described in subsection (c).
 
-&emsp;&emsp;(B) A facility where children who are victims of sexual or physical abuse and their nonoffending family members can go for the purpose of evaluation, intervention, evidence gathering, and counseling.
+&emsp;&emsp;(B) A facility where children who are victims of sexual or physical abuse and their nonoffending family members can go for the purpose of investigation and intervention in child abuse.
 
 &emsp;&emsp;(C) Multidisciplinary staff experienced in providing evidence-informed services for children and families.
 
 &emsp;&emsp;(D) Experience in serving as a center for training and education and as a resource facility.
 
-&emsp;&emsp;(E) National expertise in providing technical assistance to communities with respect to the judicial handling of child abuse and neglect.
+&emsp;&emsp;(E) National expertise in providing technical assistance to communities with respect to the multidisciplinary response to child abuse.
 
 #### (3) Proposal requirements
 
@@ -90,7 +92,7 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 &emsp;&emsp;A proposal submitted in response to the solicitation under paragraph (1) shall—
 
-&emsp;&emsp;&emsp;(i) include a single or multiyear management plan that outlines how the applicant will provide information, services, and technical assistance to communities so that communities can establish multidisciplinary programs that respond to child abuse;
+&emsp;&emsp;&emsp;(i) include a single or multiyear management plan that outlines how the applicant will provide information, services, and technical assistance to communities and chapters so that communities can establish and maintain multidisciplinary programs that respond to child abuse and chapters can establish and maintain children's advocacy centers in their State;
 
 &emsp;&emsp;&emsp;(ii) demonstrate the ability of the applicant to operate successfully a children's advocacy center or provide training to allow others to do so; and
 
@@ -128,9 +130,11 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 &emsp;&emsp;&emsp;(ii) assist in resolving problems that may occur during the development, operation, and implementation of a multidisciplinary program that responds to child abuse;
 
-&emsp;&emsp;&emsp;(iii) to the greatest extent possible and subject to available appropriations, ensure that at least 1 applicant is selected from each of the 4 census regions of the country; and
+&emsp;&emsp;&emsp;(iii) to the greatest extent possible and subject to available appropriations, ensure that at least 1 applicant is selected from each of the 4 census regions of the country;
 
-&emsp;&emsp;&emsp;(iv) otherwise best carry out the purposes of this section.
+&emsp;&emsp;&emsp;(iv) best result in supporting chapters in each State; and
+
+&emsp;&emsp;&emsp;(v) otherwise best carry out the purposes of this section.
 
 #### (5) Funding of program
 
@@ -138,7 +142,7 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 #### (6) Coordination of effort
 
-&emsp;In order to carry out activities that are in the best interests of abused and neglected children, a grant recipient shall consult with other grant recipients on a regular basis to exchange ideas, share information, and review children's advocacy program activities.
+&emsp;In order to carry out activities that are in the best interests of abused and neglected children, a grant recipient shall consult with other grant recipients under this Act on a regular basis to exchange ideas, share information, and review children's advocacy program activities.
 
 #### (d) Review
 
@@ -158,9 +162,13 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 &emsp;Upon discontinuation of funding of a grant recipient under this section, the Administrator shall solicit new proposals in accordance with subsection (c).
 
-(Pub. L. 101–647, title II, §213, as added Pub. L. 102–586, §6(b)(2), Nov. 4, 1992, 106 Stat. 5030; amended Pub. L. 108–21, title III, §381(a), Apr. 30, 2003, 117 Stat. 667; Pub. L. 115–424, §2(c), Jan. 7, 2019, 132 Stat. 5466.)
+(Pub. L. 101–647, title II, §213, as added Pub. L. 102–586, §6(b)(2), Nov. 4, 1992, 106 Stat. 5030; amended Pub. L. 108–21, title III, §381(a), Apr. 30, 2003, 117 Stat. 667; Pub. L. 115–424, §2(c), Jan. 7, 2019, 132 Stat. 5466; Pub. L. 117–354, §3(3), Jan. 5, 2023, 136 Stat. 6274.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+This Act, referred to in subsec. (c)(6), probably means the Victims of Child Abuse Act of 1990, title II of Pub. L. 101–647, Nov. 29, 1990, 104 Stat. 4792, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title of 1990 Act note set out under section 10101 of this title and Tables.
 
 #### Codification
 
@@ -171,6 +179,34 @@ Section was formerly classified to section 13001b of Title 42, The Public Health
 A prior section 213 of Pub. L. 101–647 was renumbered section 214A and is classified to section 20305 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a). Pub. L. 117–354, §3(3)(A)(i), (ii), in heading, inserted "and maintenance" after "Establishment" and, in introductory provisions, struck out ", in coordination with the Director of the Office of Victims of Crime," after "Administrator" and inserted "and maintain" after "establish".
+
+Subsec. (a)(3). Pub. L. 117–354, §3(3)(A)(iii), substituted "victim advocates, multidisciplinary team leadership, and children's advocacy center staff" for "and victim advocates" and struck out "and" at end.
+
+Subsec. (a)(4). Pub. L. 117–354, §3(3)(A)(v), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(5). Pub. L. 117–354, §3(3)(A)(iv), (vi), redesignated par. (4) as (5) and substituted "organizational capacity support, and oversight of" for "and oversight to" in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 117–354, §3(3)(B)(i)(II), substituted "training and technical assistance to aid communities in establishing and maintaining" for "and technical assistance to aid communities in establishing" in concluding provisions.
+
+Subsec. (b)(1)(A). Pub. L. 117–354, §3(3)(B)(i)(I), inserted "and maintain" after "establish".
+
+Subsec. (b)(2)(A)(ii). Pub. L. 117–354, §3(3)(B)(ii)(I)(aa), inserted "Center" after "Advocacy" in introductory provisions.
+
+Subsec. (b)(2)(A)(iii). Pub. L. 117–354, §3(3)(B)(ii)(I)(bb), substituted "and intervention in child" for "of, assessment of, and intervention in".
+
+Subsec. (b)(2)(B). Pub. L. 117–354, §3(3)(B)(ii)(II), substituted "centers, interested communities, and chapters" for "centers and interested communities".
+
+Subsec. (c)(2)(B). Pub. L. 117–354, §3(3)(C)(i)(I), substituted "investigation and intervention in child abuse" for "evaluation, intervention, evidence gathering, and counseling".
+
+Subsec. (c)(2)(E). Pub. L. 117–354, §3(3)(C)(i)(II), substituted "multidisciplinary response to child abuse" for "judicial handling of child abuse and neglect".
+
+Subsec. (c)(3)(A)(i). Pub. L. 117–354, §3(3)(C)(ii), substituted "and chapters so that communities can establish and maintain multidisciplinary programs that respond to child abuse and chapters can establish and maintain children's advocacy centers in their State" for "so that communities can establish multidisciplinary programs that respond to child abuse".
+
+Subsec. (c)(4)(B)(iv), (v). Pub. L. 117–354, §3(3)(C)(iii), added cl. (iv) and redesignated former cl. (iv) as (v).
+
+Subsec. (c)(6). Pub. L. 117–354, §3(3)(C)(iv), inserted "under this Act" after "recipients".
 
 <b>2019</b>—Subsec. (a). Pub. L. 115–424, §2(c)(1)(A), struck out "with the Director and" after "coordination" in introductory provisions.
 
@@ -220,5 +256,5 @@ Subsec. (e)(1)(B)(ii), (2)(A), (3). Pub. L. 108–21, §381(a)(2), substituted "
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

@@ -32,11 +32,11 @@ For purposes of this section:
 
 #### (e) No reduction in amounts
 
-In no case shall the award of a general assistance grant to an Indian tribal government or intertribal consortium under this section result in a reduction of Environmental Protection Agency grants for environmental programs to that tribal government or consortium. Nothing in this section shall preclude an Indian tribal government or intertribal consortium from receiving individual media grants or cooperative agreements. Funds provided by the Environmental Protection Agency through the general assistance program shall be used by an Indian tribal government or intertribal consortium to supplement other funds provided by the Environmental Protection Agency through individual media grants or cooperative agreements.
+In no case shall the award of a general assistance grant to an Indian tribal government orintertribal consortium under this section result in a reduction of Environmental Protection Agency grants for environmental programs to that tribal government or consortium. Nothing in this section shall preclude an Indian tribal government or intertribal consortium from receiving individual media grants or cooperative agreements. Funds provided by the Environmental Protection Agency through the general assistance program shall be used by an Indian tribal government or intertribal consortium to supplement other funds provided by the Environmental Protection Agency through individual media grants or cooperative agreements.
 
 #### (f) Expenditure of general assistance
 
-Any general assistance under this section shall be expended for the purpose of planning,developing, and establishing the capability to implement programs administered by the Environmental Protection Agency and specified in the assistance agreement. Purposes and programs authorized under this section shall include the development and implementation of solid and hazardous waste programs for Indian lands. An Indian tribal government or intertribal consortium receiving general assistance pursuant to this section shall utilize such funds for programs and purposes to be carried out in accordance with the terms of the assistance agreement. Such programs and general assistance shall be carried out in accordance with the purposes and requirements of applicable provisions of law, including the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
+Any general assistance under this section shall be expended for the purpose of planning, developing, and establishing the capability to implement programs administered by the Environmental Protection Agency and specified in the assistance agreement. Purposes and programs authorized under this section shall include the development and implementation of solid and hazardous waste programs for Indian lands. An Indian tribal government or intertribal consortium receiving general assistance pursuant to this section shall utilize such funds for programs and purposes to be carried out in accordance with the terms of the assistance agreement. Such programs and general assistance shall be carried out in accordance with the purposes and requirements of applicable provisions of law, including the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.).
 
 #### (g) Procedures
 
@@ -60,7 +60,7 @@ The Administrator shall transmit an annual report to the appropriate Committees 
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (f), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 

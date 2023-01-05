@@ -90,7 +90,7 @@ In this section:
 
 #### (B) Accrual rate
 
-&emsp;&emsp;During any period of continuous service performed by a covered individual as an employee of a contractor, or successor contractor, that individual shall continue to accrue annual and sick leave at rates not less than the rates applicable to that individual on the day before the transfer date.
+&emsp;&emsp;During any period of continuous service performed by a covered individual as an employee of a contractor, or successor contractor, that individual shall continue to accrue annual and sick leave at rates not lessthan the rates applicable to that individual on the day before the transfer date.
 
 #### (C) Omitted
 
@@ -176,7 +176,7 @@ Senate Office Buildings" under the heading "ARCHITECT OF THE CAPITOL", the Archi
 
 #### (1) Submission of plan
 
-&emsp;Not later than 30 days after July 17, 2008, the Architect of the Capitol shall submit a plan under section 4505 of this title to the applicable committees as provided under that section.
+&emsp;Not later than 30 days after July 17, 2008, the Architect of the Capitol shall submit a planunder section 4505 of this title to the applicable committees as provided under that section.
 
 #### (2) Plan
 
@@ -256,7 +256,7 @@ Senate Office Buildings" under the heading "ARCHITECT OF THE CAPITOL", the Archi
 
 #### (2) Use of funds
 
-&emsp;Any funds deposited under paragraph (1) shall be available for expenditure in the samemanner as funds appropriated into that account.
+&emsp;Any funds deposited under paragraph (1) shall be available for expenditure in the same manner as funds appropriated into that account.
 
 #### (i) Effective date
 

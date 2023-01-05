@@ -78,7 +78,7 @@ The per-student grant provided to a school under this section shall be—
 
 #### (g) Limitation
 
-To the maximum extent practicable, each State agency shall ensure that in making the fruits and vegetables provided under this section available to students, schools offer the fruits and vegetables separately from meals otherwise provided at the school under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
+To the maximum extent practicable, each State agency shall ensure that in making the fruits and vegetables provided under this section available to students, schools offer the fruitsand vegetables separately from meals otherwise provided at the school under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
 
 #### (h) Evaluation and reports
 
@@ -118,7 +118,7 @@ To the maximum extent practicable, each State agency shall ensure that in making
 
 #### (3) Evaluation funding
 
-&emsp;On October 1, 2008, out of any funds made available under subsection (b)(2)(A) of section612c–6 of title 7, the Secretary shall use to carry out the evaluation required under subsection (h), $3,000,000, to remain available for obligation until September 30, 2010.
+&emsp;On October 1, 2008, out of any funds made available under subsection (b)(2)(A) of section 612c–6 of title 7, the Secretary shall use to carry out the evaluation required under subsection (h), $3,000,000, to remain available for obligation until September 30, 2010.
 
 #### (4) Receipt and acceptance
 
@@ -168,7 +168,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions
 
-A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91 Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500, title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
+A prior section 1769a, act June 4, 1946, ch. 281, §19, formerly §21, as added Nov. 10, 1977, Pub. L. 95–166, §13, 91 Stat. 1338; renumbered §19, Oct. 18, 1986, Pub. L. 99–500,title III, §371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, §371(c)(1), 100 Stat. 3341–372; renumbered §19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, §4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, §108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, §119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.), prior to repeal by Pub. L. 104–193, title VII, §710, Aug. 22, 1996, 110 Stat. 2301.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

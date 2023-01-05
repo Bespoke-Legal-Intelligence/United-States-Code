@@ -104,7 +104,7 @@ Section 785, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1552, relat
 
 Section 786, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1552, related to qualifications for promotion.
 
-Section 787, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1552; amended Pub. L. 91–402, §1(10), Sept. 18, 1970, 84 Stat. 841; Pub. L. 93–174, §2(7), Dec. 5, 1973, 87 Stat. 692, related to failure of selection and elimination.
+Section 787, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1552; amended Pub. L. 91–402, §1(10), Sept. 18, 1970, 84 Stat. 841; Pub. L. 93–174, §2(7), Dec. 5, 1973, 87Stat. 692, related to failure of selection and elimination.
 
 Section 787a, added Pub. L. 86–559, §2(3), June 30, 1960, 74 Stat. 281, provided for elimination from active status of excessive numbers to provide a flow of promotions.
 
@@ -124,7 +124,7 @@ Section 794, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1554, autho
 
 Section 795, added Pub. L. 85–861, §5(2), Sept. 2, 1958, 72 Stat. 1555, related to effect of sections 770 to 798 of this title on retirements and retired pay.
 
-Section 796, added Pub. L. 91–402, §1(13), Sept. 18, 1970, 84 Stat. 842; amended Pub. L. 93–174, §2(8), Dec. 5, 1973,87 Stat. 692, related to failure of selection for promotion.
+Section 796, added Pub. L. 91–402, §1(13), Sept. 18, 1970, 84 Stat. 842; amended Pub. L. 93–174, §2(8), Dec. 5, 1973, 87 Stat. 692, related to failure of selection for promotion.
 
 Section 797, added Pub. L. 91–402, §1(13), Sept. 18, 1970, 84 Stat. 842, related to acceptance of promotion and oath of office.
 

@@ -8,7 +8,7 @@ The Secretary shall allow only such uses of the Federal lands included in the Co
 
 #### (1) Prohibition
 
-&emsp;The Federal lands included in the Cooperative Management and Protection Area shall not be made available for commercial timber harvest.
+&emsp;The Federal lands included in the Cooperative Management and Protection Area shallnot be made available for commercial timber harvest.
 
 #### (2) Limited exception
 

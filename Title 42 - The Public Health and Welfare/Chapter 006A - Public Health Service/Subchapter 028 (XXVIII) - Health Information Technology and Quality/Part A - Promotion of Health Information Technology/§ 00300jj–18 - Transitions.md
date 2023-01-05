@@ -30,7 +30,7 @@ Pub. L. 114–255, §4003(e)(2)(A)(iii), substituted "HIT Advisory Committee" fo
 
 Subsec. (c). Pub. L. 114–255, §4003(e)(2)(F)(ii), substituted "300jj–12(b)(2)" for "300jj–13(b)(1)(A)".
 
-Pub. L. 114–255, §4003(e)(2)(A)(i), substituted "HIT Advisory Committee" for "HIT Policy Committee" after "recommendations are made by the" and "HIT Advisory Committee" for "HIT Standards Committee" after "recommendations of the". See section 300jj–12(a) of this title.
+Pub. L. 114–255, §4003(e)(2)(A)(i), substituted "HIT Advisory Committee" for "HIT Policy Committee" after "recommendations are made by the" and "HIT Advisory Committee" for "HIT Standards Committee" after"recommendations of the". See section 300jj–12(a) of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

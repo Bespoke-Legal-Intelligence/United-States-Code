@@ -4,13 +4,17 @@ Agricultural research carried out under this chapter shall (1) take account of t
 
 (Pub. L. 87–195, pt. I, §103A, as added Pub. L. 94–161, title III, §303, Dec. 20, 1975, 89 Stat. 857; amended Pub. L. 95–424, title I, §103(d), Oct. 6, 1978, 92 Stat. 945.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–424 inserted "environmental" after "social" in cl. 2.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

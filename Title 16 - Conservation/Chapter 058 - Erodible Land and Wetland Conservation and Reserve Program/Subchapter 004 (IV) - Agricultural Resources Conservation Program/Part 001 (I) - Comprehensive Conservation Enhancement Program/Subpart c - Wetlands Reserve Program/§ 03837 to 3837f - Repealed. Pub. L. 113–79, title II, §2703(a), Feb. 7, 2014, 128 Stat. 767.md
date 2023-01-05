@@ -30,7 +30,7 @@ Transitional Provisions.—
 
 &emsp;"(1)
 
-Effect on existing contracts, agreements, and easements.—The amendment made by this section \[repealing sections 3837 to 3837f of this title\] shall not affect the validity or terms of any contract, agreement, or easement entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3837 et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract, agreement, or easement.
+Effect on existing contracts, agreements, and easements.—The amendment made by this section \[repealing sections 3837 to 3837f of this title\] shall not affect the validity or terms of any contract,agreement, or easement entered into by the Secretary of Agriculture under subchapter C of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3837 et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract, agreement, or easement.
 
 &emsp;"(2)
 

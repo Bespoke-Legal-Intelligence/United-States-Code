@@ -20,7 +20,7 @@
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–273 substituted "fine under this title" for "fine of under this title".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–294, §602(e), struck out "that in fact is stolen or bears a forged or falsely made endorsement or signature" after "bond or security of the United States".
+<b>1996</b>—Subsec. (b). Pub. L. 104–294, §602(e), struck out "that in fact is stolen or bears a forged or falsely madeendorsement or signature" after "bond or security of the United States".
 
 Subsec. (c). Pub. L. 104–294, §606(b), substituted "$1,000" for "$500".
 

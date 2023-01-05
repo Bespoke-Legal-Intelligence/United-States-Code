@@ -60,7 +60,7 @@ Not later than 24 months after November 7, 2000, the Administrator shall develop
 
 &emsp;&emsp;(M) Transfer of ownership of the Mexican facility to an appropriate governmental entity, other than the United States, if the owner of the Mexican facility fails to perform under the contract.
 
-&emsp;&emsp;(N) The use of competitive procedures under applicable law, consistent with division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, by the owner of the Mexican facility in the procurement of property or services for the engineering, construction, and operation and maintenance of the Mexican facility.
+&emsp;&emsp;(N) The use of competitive procedures under applicable law, consistent with division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, by the owner of the Mexican facility in the procurement of property or services forthe engineering, construction, and operation and maintenance of the Mexican facility.
 
 &emsp;&emsp;(O) An opportunity for the Commission to review and approve the selection of contractors providing engineering, construction, and operation and maintenance for the Mexican facility.
 
@@ -96,7 +96,7 @@ In subsec. (c)(2)(N), "division C (except sections 3302, 3307(e), 3501(b), 3509,
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–425, §1(a), substituted "Pursuant to Treaty Minute 311 to the Treaty for theUtilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944," for "Subject to the negotiation and conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 1005 of this Act,".
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–425, §1(a), substituted "Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944," for "Subject to the negotiation and conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 1005 of this Act,".
 
 Subsec. (c)(1). Pub. L. 108–425, §1(b)(1), added par. (1) and struck out former par. (1) which read as follows: "Subject to the availability of appropriations to carry out this subsection and notwithstanding any provision of Federal procurement law, upon conclusion of a new Treaty Minute or the amendment of Treaty Minute 283 under section 5, the Commission may enter into a fee-for-services contract with the owner of a Mexican facility in order to carry out the secondary treatment requirements of subsection (a) of this section and make payments under such contract."
 

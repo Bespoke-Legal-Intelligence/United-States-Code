@@ -6,7 +6,7 @@ It is the sense of the Congress that in order to maintain and enhance internatio
 
 &emsp;(2) encourage each nuclear-weapon state within the meaning of the Treaty to undertake a comprehensive review of its own procedures for declassifying information relating to the design or production of nuclear explosive devices and to investigate any measures that would reduce the risk of such information contributing to nuclear weapons proliferation;
 
-&emsp;(3) encourage the deferral of efforts to produce weapons-grade nuclear material for large-scale commercial uses until such time as safeguards are developed that can detect, on a timely and reliable basis, the diversion of significant quantities of such material for nuclear explosive purposes;
+&emsp;(3) encourage the deferral of efforts to produce weapons-grade nuclear material forlarge-scale commercial uses until such time as safeguards are developed that can detect, on a timely and reliable basis, the diversion of significant quantities of such material for nuclear explosive purposes;
 
 &emsp;(4) pursue greater financial support for the implementation and improvement of safeguards from all IAEA member nations with significant nuclear programs, particularly from those nations that are currently using or planning to use weapons-grade nuclear material for commercial purposes;
 
@@ -42,7 +42,7 @@ Sense of Congress Regarding Initiation of Dialogue Between the IAEA and the OECD
 
 "(b)
 
-Contingent Report.—(1) Except as provided in paragraph (2), the President shall, not later than 12months after the date of the enactment of this Act \[Nov. 24, 2003\], submit to Congress a report on—
+Contingent Report.—(1) Except as provided in paragraph (2), the President shall, not later than 12 months after the date of the enactment of this Act \[Nov. 24, 2003\], submit to Congress a report on—
 
 &emsp;"(A) the efforts made by the United States to initiate the discussions described in subsection (a);
 

@@ -60,7 +60,7 @@ There is established an Urban Area Security Initiative to provide grants to assi
 
 #### (ii) Additional jurisdictions
 
-&emsp;&emsp;&emsp;A high-risk urban area designated by the Administrator may, in consultation withthe State or States in which such high-risk urban area is located, add additional jurisdictions to the high-risk urban area.
+&emsp;&emsp;&emsp;A high-risk urban area designated by the Administrator may, in consultation with the State or States in which such high-risk urban area is located, add additional jurisdictions to the high-risk urban area.
 
 #### (c) Application
 

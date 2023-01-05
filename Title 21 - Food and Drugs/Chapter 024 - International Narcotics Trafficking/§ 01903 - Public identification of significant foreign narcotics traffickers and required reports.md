@@ -12,7 +12,7 @@ Not later than June 1, 2000, and not later than June 1 of each year thereafter, 
 
 &emsp;(2) detailing publicly the President's intent to impose sanctions upon these significant foreign narcotics traffickers pursuant to this chapter.
 
-> The report required in this subsection shall not include information on persons upon whichUnited States sanctions imposed under this chapter, or otherwise on account of narcotics trafficking, are already in effect.
+> The report required in this subsection shall not include information on persons upon which United States sanctions imposed under this chapter, or otherwise on account of narcotics trafficking, are already in effect.
 
 #### (c) Unclassified report required
 
@@ -54,7 +54,7 @@ The report required by subsection (b) shall be submitted in unclassified form an
 
 (1) The President may waive the application to a significant foreign narcotics trafficker of any sanction authorized by this chapter if the President determines that the application of sanctions under this chapter would significantly harm the national security of the United States.
 
-(2) When the President determines not to apply sanctions that are authorized by this chapter to any significant foreign narcotics trafficker, the President shall notify the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the Select Committee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate not later than 21 days after making such determination.
+(2) When the President determines not to apply sanctions that are authorized by this chapter to any significant foreign narcotics trafficker, the President shall notify the Permanent Select Committee on Intelligence, and the Committees on the Judiciary, International Relations, Armed Services, and Ways and Means of the House of Representatives, and the SelectCommittee on Intelligence, and the Committees on the Judiciary, Foreign Relations, Armed Services, and Finance of the Senate not later than 21 days after making such determination.
 
 #### (h) Changes in determinations to impose sanctions
 

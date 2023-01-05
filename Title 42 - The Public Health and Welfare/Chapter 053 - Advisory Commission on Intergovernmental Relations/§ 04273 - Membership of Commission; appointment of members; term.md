@@ -16,7 +16,7 @@ The Commission shall be composed of twenty-six members, as follows:
 
 &emsp;(6) Four appointed by the President from a panel of at least eight mayors submitted jointly by the National League of Cities and the United States Conference of Mayors; and
 
-&emsp;(7) Three appointed by the President from a panel of at least six elected county officerssubmitted by the National Association of Counties.
+&emsp;(7) Three appointed by the President from a panel of at least six elected county officers submitted by the National Association of Counties.
 
 #### (b) Political and geographical composition
 

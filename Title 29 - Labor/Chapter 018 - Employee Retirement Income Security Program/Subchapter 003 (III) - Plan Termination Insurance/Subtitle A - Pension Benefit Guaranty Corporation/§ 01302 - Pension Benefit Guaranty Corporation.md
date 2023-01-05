@@ -36,7 +36,7 @@ The Director shall be accountable to the board of directors. The Director shall 
 
 #### (d) Board of directors; compensation; reimbursement for expenses
 
-(1) The board of directors of the corporation consists of the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Commerce. Members of the Board shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the board. The Secretary of Labor is the chairman of the board of directors.
+(1) The board of directors of the corporation consists of the Secretary of the Treasury, theSecretary of Labor, and the Secretary of Commerce. Members of the Board shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the board. The Secretary of Labor is the chairman of the board of directors.
 
 (2) A majority of the members of the board of directors in office shall constitute a quorum for the transaction of business. The vote of the majority of the members present and voting at a meeting at which a quorum is present shall be the act of the board of directors.
 
@@ -78,7 +78,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 #### (h) Advisory committee to corporation
 
-(1) There is established an advisory committee to the corporation, for the purpose of advising the corporation as to its policies and procedures relating to (A) the appointment of trustees in termination proceedings, (B) investment of moneys, (C) whether plans being terminated should be liquidated immediately or continued in operation under a trustee, (D) such other issues as the corporation may request from time to time, and (E) other issues as determined appropriate by the advisory committee. The advisory committee may also recommend persons for appointment as trustees in termination proceedings, make recommendations with respect to the investment of moneys in the funds, and advise the corporation as to whether a plan subject to being terminated should be liquidated immediately or continued in operation under a trustee. In the event of a vacancy or impending vacancy in the office of the Participant and Plan Sponsor Advocate established under section 1304 of this title, the Advisory Committee <sup>2</sup> shall, in consultation with the Director of the corporation and participant and plan sponsor advocacy groups, nominate at least two but no more than three individuals to serve as the Participant and Plan Sponsor Advocate.
+(1) There is established an advisory committee to the corporation, for the purpose of advising the corporation as to its policies and procedures relating to (A) the appointment of trustees in termination proceedings, (B) investment of moneys, (C) whether plans being terminated should be liquidated immediately or continued in operation under a trustee, (D) such other issues as the corporation may request from time to time, and (E) other issues as determined appropriateby the advisory committee. The advisory committee may also recommend persons for appointment as trustees in termination proceedings, make recommendations with respect to the investment of moneys in the funds, and advise the corporation as to whether a plan subject to being terminated should be liquidated immediately or continued in operation under a trustee. In the event of a vacancy or impending vacancy in the office of the Participant and Plan Sponsor Advocate established under section 1304 of this title, the Advisory Committee <sup>2</sup> shall, in consultation with the Director of the corporation and participant and plan sponsor advocacy groups, nominate at least two but no more than three individuals to serve as the Participant and Plan Sponsor Advocate.
 
 (2) The advisory committee consists of seven members appointed, from among individuals recommended by the board of directors, by the President. Of the seven members, two shall represent the interests of employee organizations, two shall represent the interests of employers who maintain pension plans, and three shall represent the interests of the general public. The President shall designate one member as chairman at the time of the appointment of that member.
 
@@ -92,11 +92,11 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 (7) Members of the advisory committee shall, for each day (including traveltime) during which they are attending meetings or conferences of the committee or otherwise engaged in the business of the committee, be compensated at a rate fixed by the corporation which is not in excess of the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
 
-(8) The Federal Advisory Committee Act does not apply to the advisory committee established by this subsection.
+(8) Chapter 10 of title 5 does not apply to the advisory committee established by this subsection.
 
 #### (i) Special rules regarding disasters, etc.
 
-In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a Presidentially declared disaster (as defined in section 1033(h)(3) of title 26) or a terroristic or military action (as defined in section 692(c)(2) of such title), the corporation may, notwithstanding any other provision of law, prescribe, by notice or otherwise, a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this chapter. No plan shall be treated as failing to be operated in accordance with the terms ofthe plan solely as the result of disregarding any period by reason of the preceding sentence.
+In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a Presidentially declared disaster (as defined in section 1033(h)(3) of title 26) or a terroristic or military action (as defined in section 692(c)(2) of such title), the corporation may, notwithstanding any other provision of law, prescribe, by notice or otherwise, a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this chapter. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
 
 #### (j) Conflicts of interest
 
@@ -112,27 +112,27 @@ In the case of a pension or other employee benefit plan, or any sponsor, adminis
 
 The corporation shall have a risk management officer whose duties include evaluating and mitigating the risk that the corporation might experience. The individual in such position shall coordinate the risk management efforts of the corporation, explain risks and controls to senior management and the board of directors of the corporation, and make recommendations.
 
-(Pub. L. 93–406, title IV, §4002, Sept. 2, 1974, 88 Stat. 1004; Pub. L. 94–455, title XV, §1510(a), Oct. 4, 1976, 90 Stat. 1741; Pub. L. 96–364, title IV, §§403(l), 406(a), Sept. 26, 1980, 94 Stat. 1302, 1303; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 107–134, title I, §112(c)(2), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 109–280, title IV, §411(a)(1), Aug. 17, 2006, 120 Stat. 935; Pub. L. 112–141, div. D, title II, §§40231(a)–(d), 40232(b), July 6, 2012, 126 Stat. 853–855, 857.)
+(Pub. L. 93–406, title IV, §4002, Sept. 2, 1974, 88 Stat. 1004; Pub. L. 94–455, title XV, §1510(a), Oct. 4, 1976, 90 Stat. 1741; Pub. L. 96–364, title IV, §§403(l), 406(a), Sept. 26, 1980, 94 Stat. 1302, 1303; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 107–134, title I,§112(c)(2), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 109–280, title IV, §411(a)(1), Aug. 17, 2006, 120 Stat. 935; Pub. L. 112–141, div. D, title II, §§40231(a)–(d), 40232(b), July 6, 2012, 126 Stat. 853–855, 857; Pub. L. 117–286, §4(a)(191), Dec. 27, 2022, 136 Stat. 4327.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 This chapter, referred to in subsecs. (b)(3), (4), (8), (d)(6), and (i), was in original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
-The Federal Insurance Contributions Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3128 of Title 26 and Tables.
+The Federal Insurance Contributions Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3128 of Title 26 and Tables.
 
-The Federal Unemployment Tax Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 454, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
-
-The Federal Advisory Committee Act, referred to in subsec. (h)(8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Unemployment Tax Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 454, which is classified generally to chapter 23 (§3301 et seq.) of Title 26. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
 #### Codification
 
 A prior subsec. (c), as originally enacted by section 4002 of Pub. L. 93–406, amended section 5108 of Title 5, Government Organization and Employees. Subsec. (g)(3) amended section 846 of former Title 31, Money and Finance.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h)(8). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act".
 
 <b>2012</b>—Subsec. (c). Pub. L. 112–141, §40231(d), amended subsec. (c) generally. See Codification note above.
 
@@ -166,7 +166,7 @@ Subsec. (g)(2). Pub. L. 96–364, §406(a), substituted provisions relating to i
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or afterSept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under section 6081 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under section 6081 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

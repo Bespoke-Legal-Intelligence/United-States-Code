@@ -8,5 +8,5 @@ As used in this part, the term "Member of the House of Representatives" means a 
 
 #### Codification
 
-Section was classified to section 188a–5 of former Title 40, prior to the enactment of Title 40, PublicBuildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 188a–5 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 

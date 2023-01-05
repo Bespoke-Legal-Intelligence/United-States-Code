@@ -20,7 +20,7 @@ The Oversight Board shall submit to the Governor and Legislature a forecast of r
 
 &emsp;&emsp;&emsp;(ii) if the Budget is a Territory Budget, submit the Territory Budget to the Legislature; or
 
-&emsp;&emsp;(B) if the Oversight Board determines that the Budget is not a compliant budget, the Oversight Board shall provide to the Governor—
+&emsp;&emsp;(B) if the Oversight Board determines that the Budget is not a compliant budget, theOversight Board shall provide to the Governor—
 
 &emsp;&emsp;&emsp;(i) a notice of violation that includes a description of any necessary corrective action; and
 

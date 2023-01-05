@@ -2,11 +2,11 @@
 
 #### (a) Regulations
 
-The appropriate Federal banking agencies shall prescribe uniform regulations effectiveJune 1, 1997, which prohibit any out-of-State bank from using any authority to engage in interstate branching pursuant to this title,<sup>1</sup> or any amendment made by this title <sup>1</sup> to any other provision of law, primarily for the purpose of deposit production.
+The appropriate Federal banking agencies shall prescribe uniform regulations effective June 1, 1997, which prohibit any out-of-State bank from using any authority to engage in interstate branching pursuant to this title,<sup>1</sup> or any amendment made by this title <sup>1</sup> to any other provision of law, primarily for the purpose of deposit production.
 
 #### (b) Guidelines for meeting credit needs
 
-Regulations issued under subsection (a) shall include guidelines to ensure that interstate branches operated by an out-of-State bank in a host State are reasonably helping to meet the credit needs of the communities which the branches serve.
+Regulations issued under subsection (a) shall include guidelines to ensure that interstatebranches operated by an out-of-State bank in a host State are reasonably helping to meet the credit needs of the communities which the branches serve.
 
 #### (c) Limitation on out-of-State loans
 
@@ -78,7 +78,7 @@ For the purposes of this section, the following definitions shall apply:
 
 #### (5) Out-of-State bank
 
-&emsp;The term "out-of-State bank" means, with respect to any State, a bank the home State ofwhich is another State and, for purposes of this section, includes a foreign bank, the home State of which is another State.
+&emsp;The term "out-of-State bank" means, with respect to any State, a bank the home State of which is another State and, for purposes of this section, includes a foreign bank, the home State of which is another State.
 
 (Pub. L. 103–328, title I, §109, Sept. 29, 1994, 108 Stat. 2362; Pub. L. 106–102, title I, §106, Nov. 12, 1999, 113 Stat. 1359.)
 
@@ -86,9 +86,9 @@ For the purposes of this section, the following definitions shall apply:
 
 #### References in Text
 
-This title, referred to in subsecs. (a), (d), and (e)(4), is title I of Pub. L. 103–328, Sept. 29, 1994, 108 Stat. 2339, which enacted this section and sections 43, 215a–1, and 1831u of this title, amended sections 30, 36, 215, 215a, 215b, 1462a, 1820, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacted provisions set out as notes under sections 215, 1811, 1828, 3104, 3105, and 3107 of this title and section 1927 of Title 7, and amended provisions set out as a note under section 1811 of this title. For complete classification of this title to the Code, see Tables.
+This title, referred to in subsecs. (a), (d), and (e)(4), is title I of Pub. L. 103–328, Sept. 29, 1994, 108 Stat. 2339,which enacted this section and sections 43, 215a–1, and 1831u of this title, amended sections 30, 36, 215, 215a, 215b, 1462a, 1820, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacted provisions set out as notes under sections 215, 1811, 1828, 3104, 3105, and 3107 of this title and section 1927 of Title 7, and amended provisions set out as a note under section 1811 of this title. For complete classification of this title to the Code, see Tables.
 
-The Community Reinvestment Act of 1977, referred to in subsec. (c)(2)(D), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The Community Reinvestment Act of 1977, referred to in subsec. (c)(2)(D), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
 #### Codification
 

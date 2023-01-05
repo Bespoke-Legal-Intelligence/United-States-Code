@@ -72,7 +72,7 @@ An annual report under this section shall include a financial statement containi
 
 &emsp;(G) if some or all of the assets of a plan or plans are held in a common or collective trust maintained by a bank or similar institution or in a separate account maintained by an insurance carrier or a separate trust maintained by a bank as trustee, the report shall include the most recent annual statement of assets and liabilities of such common or collective trust, and in the case of a separate account or a separate trust, such other information as is required by the administrator in order to comply with this subsection; and
 
-&emsp;(H) a schedule of each reportable transaction, the name of each party to the transaction (except that, in the case of an acquisition or sale of a security on the market, the report need not identify the person from whom the security was acquired or to whom it wassold) and a description of each asset to which the transaction applies; the purchase or selling price in case of a sale or purchase, the rental in case of a lease, or the interest rate and maturity date in case of a loan; expenses incurred in connection with the transaction; the cost of the asset, the current value of the asset, and the net gain (or loss) on each transaction. For purposes of the preceding sentence, the term "reportable transaction" means a transaction to which the plan is a party if such transaction is—
+&emsp;(H) a schedule of each reportable transaction, the name of each party to the transaction (except that, in the case of an acquisition or sale of a security on the market, the report need not identify the person from whom the security was acquired or to whom it was sold) and a description of each asset to which the transaction applies; the purchase or selling price in case of a sale or purchase, the rental in case of a lease, or the interest rate and maturity date in case of a loan; expenses incurred in connection with the transaction; the cost of the asset, the current value of the asset, and the net gain (or loss) on each transaction. For purposes of the preceding sentence, the term "reportable transaction" means a transaction to which the plan is a party if such transaction is—
 
 &emsp;&emsp;(i) a transaction involving an amount in excess of 3 percent of the current value of the assets of the plan;
 
@@ -82,7 +82,7 @@ An annual report under this section shall include a financial statement containi
 
 &emsp;&emsp;(iv) a transaction with or in conjunction with a person respecting a security, if any other transaction with or in conjunction with such person in the plan year respecting a security is required to be reported by reason of clause (i).
 
-(4) The Secretary may, by regulation, relieve any plan from filing a copy of a statement of assets and liabilities (or other information) described in paragraph (3)(G) if such statement and other information is filed with the Secretary by the bank or insurance carrier which maintains the common or collective trust or separate account.
+(4) The Secretary may, by regulation, relieve any plan from filing a copy of a statement of assets and liabilities (or other information) described in paragraph (3)(G) if such statementand other information is filed with the Secretary by the bank or insurance carrier which maintains the common or collective trust or separate account.
 
 #### (c) Information to be furnished by administrator
 
@@ -124,7 +124,7 @@ With respect to an employee pension benefit plan (other than (A) a profit sharin
 
 &emsp;&emsp;(E) the actuarial assumptions and techniques used in determining the values described in subparagraphs (A) through (D).
 
-&emsp;(7) A certification of the contribution necessary to reduce the minimum required contribution determined under section 1083 of thistitle, or the accumulated funding deficiency determined under section 1084 of this title, to zero.
+&emsp;(7) A certification of the contribution necessary to reduce the minimum required contribution determined under section 1083 of this title, or the accumulated funding deficiency determined under section 1084 of this title, to zero.
 
 &emsp;(8) A statement by the enrolled actuary—
 
@@ -190,7 +190,7 @@ If some or all of the benefits under the plan are purchased from and guaranteed 
 
 &emsp;&emsp;(B) A list of the employers that contributed more than 5 percent of the total contributions to the plan during such plan year.
 
-&emsp;&emsp;(C) The number of participants under the plan on whose behalf no contributions weremade by an employer as an employer of the participant for such plan year and for each of the 2 preceding plan years.
+&emsp;&emsp;(C) The number of participants under the plan on whose behalf no contributions were made by an employer as an employer of the participant for such plan year and for each of the 2 preceding plan years.
 
 &emsp;&emsp;(D) The ratios of—
 
@@ -248,7 +248,7 @@ Subsec. (f). Pub. L. 109–280, §503(a)(1)(B), added subsec. (f).
 
 <b>1987</b>—Subsec. (d)(11) to (13). Pub. L. 100–203 added par. (11) and redesignated former pars. (11) and (12) as (12) and (13), respectively.
 
-<b>1986</b>—Subsec. (d)(6). Pub. L. 99–272 amended par. (6) generally. Prior to amendment, par. (6) read as follows:"The present value of all of the plan's liabilities for nonforfeitable pension benefits allocated by the termination priority categories as set forth in section 1344 of this title, and the actuarial assumptions used in these computations. The Secretary shall establish regulations defining (for purposes of this section) 'termination priority categories' and acceptable methods, including approximate methods, for allocating the plan's liabilities to such termination priority categories."
+<b>1986</b>—Subsec. (d)(6). Pub. L. 99–272 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "The present value of all of the plan's liabilities for nonforfeitable pension benefits allocated by the termination priority categories as set forth in section 1344 of this title, and the actuarial assumptions used in these computations. The Secretary shall establish regulations defining (for purposes of this section) 'termination priority categories' and acceptable methods, including approximate methods, for allocating the plan's liabilities to such termination priority categories."
 
 <b>1980</b>—Subsec. (d)(10) to (12). Pub. L. 96–364 added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
 
@@ -291,6 +291,32 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 #### Regulations
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see section 1031 of this title.
+
+#### Report on Pooled Employer Plans
+
+Pub. L. 117–328, div. T, title III, §344, Dec. 29, 2022, 136 Stat. 5380, provided that: "The Secretary of Labor shall—
+
+&emsp;"(1) conduct a study on the pooled employer plan (as such term is defined in section 3(43) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(43))) industry, including on—
+
+&emsp;&emsp;"(A) the legal name and number of pooled employer plans;
+
+&emsp;&emsp;"(B) the number of participants in such plans;
+
+&emsp;&emsp;"(C) the range of investment options provided in such plans;
+
+&emsp;&emsp;"(D) the fees assessed in such plans;
+
+&emsp;&emsp;"(E) the manner in which employers select and monitor such plans;
+
+&emsp;&emsp;"(F) the disclosures provided to participants in such plans;
+
+&emsp;&emsp;"(G) the number and nature of any enforcement actions by the Secretary of Labor on such plans;
+
+&emsp;&emsp;"(H) the extent to which such plans have increased retirement savings coverage in the United States; and
+
+&emsp;&emsp;"(I) any additional information as the Secretary determines is necessary; and
+
+&emsp;"(2) not later than 5 years after the date of enactment of this Act \[Dec. 29, 2022\], and every 5 years thereafter, submit to Congress and make available on a publicly accessible website of the Department of Labor, a report on the findings of the study under paragraph (1), including recommendations on how pooled employer plans can be improved, through legislation, to serve and protect retirement plan participants."
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 

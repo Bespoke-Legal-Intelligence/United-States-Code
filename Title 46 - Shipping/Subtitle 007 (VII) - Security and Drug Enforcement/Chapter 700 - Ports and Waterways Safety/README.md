@@ -13,6 +13,12 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [70007\.](Subchapter%20001%20%28I%29%20-%20Vessel%20Operations/%C2%A7%2070007%20-%20Anchorage%20grounds.md) | Anchorage grounds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER II—PORTS AND WATERWAYS SAFETY
 
 |  |  |
@@ -68,6 +74,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. K, title CXIII, §11318(d), Dec. 23, 2022, 136 Stat. 4091, added item 70007.
 
 <b>2021</b>—Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8342(b), title LVXXXV, §§8501(b)(5), 8507(a)(3), 8508(2)(C), Jan. 1, 2021, 134 Stat. 4709, 4746, 4753, 4755, inserted "Sec." before item 70001, added items 70006, 70014, and 70022, and substituted "Conditions for entry into ports in the United States" for "Conditions for entry to ports in the united states" in item 70021, "SUBCHAPTER I" for "SUBCHAPTER A", "SUBCHAPTER II" for "SUBCHAPTER B", "SUBCHAPTER III" for "SUBCHAPTER C", "SUBCHAPTER IV" and "SUBCHAPTER D", "SUBCHAPTER V" for "SUBCHAPTER E", and "SUBCHAPTER VI" for "SUBCHAPTER F". Items 70014 and 70022 were added to this analysis after items 70013 and 70021, respectively, to reflect the probable intent of Congress, notwithstanding errors in directory language.
 

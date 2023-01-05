@@ -16,7 +16,7 @@ For the purpose of maintaining or improving the quality of care in Public Health
 
 &emsp;(2) enter into agreements or arrangements with hospitals and other health care facilities for the mutual use or the exchange of use of specialized health resources, and providing for reciprocal reimbursement.
 
-> Any reimbursement pursuant to any such agreement or arrangement shall be based on charges covering the reasonable cost of such utilization, including normal depreciation and amortization costs of equipment. Any proceeds to the Government under this subsection shall be credited to the applicable appropriation of the Public Health Service for the year in which such proceeds are received.
+> Any reimbursement pursuant to any such agreement or arrangement shall be based on charges covering the reasonable cost of such utilization, including normal depreciation and amortization costs of equipment. Any proceeds to the Government under this subsection shall be credited to the applicable appropriation of the PublicHealth Service for the year in which such proceeds are received.
 
 (July 1, 1944, ch. 373, title III, §327A, formerly §328, as added Pub. L. 90–174, §7, Dec. 5, 1967, 81 Stat. 539; renumbered §327A, Pub. L. 95–626, title I, §113(a)(2), Nov. 10, 1978, 92 Stat. 3562; amended Pub. L. 100–607, title VI, §629(a)(1), Nov. 4, 1988, 102 Stat. 3146.)
 

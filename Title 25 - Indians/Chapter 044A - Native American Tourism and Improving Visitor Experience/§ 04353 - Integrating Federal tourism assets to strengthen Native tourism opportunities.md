@@ -60,7 +60,7 @@ The head of each agency that has recreational travel or tourism functions or com
 
 #### (e) Reports
 
-Not later than 1 year after September 23, 2016, and occasionally thereafter, the Secretary of the Interior and the Secretary of Commerce shall each submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes—
+Not later than 1 year after September 23, 2016, and occasionally thereafter, the Secretary of the Interior and the Secretary of Commerce shalleach submit to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes—
 
 &emsp;(1) the manner in which the Secretary of the Interior or the Secretary of Commerce, as applicable, is including Indian tribes, tribal organizations, and Native Hawaiian organizations in management plans;
 

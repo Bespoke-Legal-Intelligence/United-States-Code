@@ -218,7 +218,7 @@ The Secretary shall establish a program, to be known as the "National Landslide 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary shall consult annually with the Committee, States, units of local government, territories, and Indian tribes to establish priorities for the grant program under this paragraph.
+&emsp;&emsp;&emsp;The Secretary shall consult annually with the Committee, States, units of local government, territories, and Indian tribesto establish priorities for the grant program under this paragraph.
 
 #### (ii) Funding prioritization
 

@@ -1,8 +1,122 @@
 ### §15. Counting electoral votes in Congress
 
-Congress shall be in session on the sixth day of January succeeding every meeting of the electors. The Senate and House of Representatives shall meet in the Hall of the House of Representatives at the hour of 1 o'clock in the afternoon on that day, and the President of the Senate shall be their presiding officer. Two tellers shall be previously appointed on the part of the Senate and two on the part of the House of Representatives, to whom shall be handed, as they are opened by the President of the Senate, all the certificates and papers purporting to be certificates of the electoral votes, which certificates and papers shall be opened, presented, and acted upon in the alphabetical order of the States, beginning with the letter A; and said tellers, having then read the same in the presence and hearing of the two Houses, shall make a list of the votes as they shall appear from the said certificates; and the votes having been ascertained and counted according to the rules in this subchapter provided, the result of the same shall be delivered to the President of the Senate, who shall thereupon announce the state of the vote, which announcement shall be deemed a sufficient declaration of the persons, if any, elected President and Vice President of the United States, and, together with a list of the votes, be entered on the Journals of the two Houses. Upon such reading of any such certificate or paper, the President of the Senate shall call for objections, if any. Every objection shall be made in writing, and shall state clearly and concisely, and without argument, the ground thereof, and shall be signed by at least one Senator and one Member of the House of Representatives before the same shall be received. When all objections so made to any vote or paper from a State shall have been received and read, the Senate shall thereupon withdraw, and such objections shall be submitted to the Senate for its decision; and the Speaker of the House of Representatives shall, in like manner, submit such objections to the House of Representatives for its decision; and no electoral vote or votes from any State which shall have been regularly given by electors whose appointment has been lawfully certified to according to section 6 of this title from which but one return has been received shall be rejected, but the two Houses concurrently may reject the vote or votes when they agree that such vote or votes have not been so regularly given by electors whose appointment has been so certified. If more than one return or paper purporting to be a return from a State shall have been received by the President of the Senate, those votes, and those only, shall be counted which shall have been regularly given by the electors who are shown by the determination mentioned in section 5 of this title to have been appointed, if the determination in said section provided for shall have been made, or by such successors or substitutes, in case of a vacancy in the board of electors so ascertained, as have been appointed to fill such vacancy in the mode provided by the laws of the State; but in case there shall arise the question which of two or more of such State authorities determining what electors have been appointed, as mentioned in section 5 of this title, is the lawful tribunal of such State, the votes regularly given of those electors, and those only, of such State shall be counted whose title as electors the two Houses, acting separately, shall concurrently decide is supported by the decision of such State so authorized by its law; and in such case of more than one return or paper purporting to be a return from a State, if there shall have been no such determination of the question in the State aforesaid, then those votes, and those only, shall be counted which the two Houses shall concurrently decide were cast by lawful electors appointed in accordance with the laws of the State, unless the two Houses, acting separately, shall concurrently decide such votes not to be the lawful votes of the legally appointed electors of such State. But if the two Houses shall disagree in respect of the counting of such votes, then, and in that case, the votes of the electors whose appointment shall have been certified by the executive of the State, under the seal thereof, shall be counted. When the two Houses have voted, they shall immediately again meet, and the presiding officer shall then announce the decision of the questions submitted. No votes or papers from any other State shall be acted upon until the objections previously made to the votes or papers from any State shall have been finally disposed of.
+(a)
 
-(June 25, 1948, ch. 644, 62 Stat. 675.)
+In General.—Congress shall be in session on the sixth day of January succeeding every meeting of the electors. The Senate and House of Representatives shall meet in the Hall of the House of Representatives at the hour of 1 o'clock in the afternoon on that day, and the President of the Senate shall be their presiding officer.
+
+(b)
+
+Powers of the President of Senate.—
+
+&emsp;(1)
+
+Ministerial in nature.—Except as otherwise provided in this chapter, the role of the President of the Senate while presiding over the joint session shall be limited to performing solely ministerial duties.
+
+&emsp;(2)
+
+Powers explicitly denied.—The President of the Senate shall have no power to solely determine, accept, reject, or otherwise adjudicate or resolve disputes over the proper certificate of ascertainment of appointment of electors, the validity of electors, or the votes of electors.
+
+(c)
+
+Appointment of Tellers.—At the joint session of the Senate and House of Representatives described in subsection (a), there shall be present two tellers previously appointed on the part of the Senate and two tellers previously appointed on the part of the House of Representatives by the presiding officers of the respective chambers.
+
+(d)
+
+Procedure at Joint Session Generally.—
+
+&emsp;(1)
+
+In general.—The President of the Senate shall—
+
+&emsp;&emsp;(A) open the certificates and papers purporting to be certificates of the votes of electors appointed pursuant to a certificate of ascertainment of appointment of electors issued pursuant to section 5, in the alphabetical order of the States, beginning with the letter A; and
+
+&emsp;&emsp;(B) upon opening any certificate, hand the certificate and any accompanying papers to the tellers, who shall read the same in the presence and hearing of the two Houses.
+
+&emsp;(2)
+
+Action on certificate.—
+
+&emsp;&emsp;(A)
+
+In general.—Upon the reading of each certificate or paper, the President of the Senate shall call for objections, if any.
+
+&emsp;&emsp;(B)
+
+Requirements for objections or questions.—
+
+&emsp;&emsp;&emsp;(i)
+
+Objections.—No objection or other question arising in the matter shall be in order unless the objection or question—
+
+&emsp;&emsp;&emsp;&emsp;(I) is made in writing;
+
+&emsp;&emsp;&emsp;&emsp;(II) is signed by at least one-fifth of the Senators duly chosen and sworn and one-fifth of the Members of the House of Representatives duly chosen and sworn; and
+
+&emsp;&emsp;&emsp;&emsp;(III) in the case of an objection, states clearly and concisely, without argument, one of the grounds listed under clause (ii).
+
+&emsp;&emsp;&emsp;(ii)
+
+Grounds for objections.—The only grounds for objections shall be as follows:
+
+&emsp;&emsp;&emsp;&emsp;(I) The electors of the State were not lawfully certified under a certificate of ascertainment of appointment of electors according to section 5(a)(1).
+
+&emsp;&emsp;&emsp;&emsp;(II) The vote of one or more electors has not been regularly given.
+
+&emsp;&emsp;(C)
+
+Consideration of objections and questions.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—When all objections so made to any vote or paper from a State, or other question arising in the matter, shall have been received and read, the Senate shall thereupon withdraw, and such objections and questions shall be submitted to the Senate for its decision; and the Speaker of the House of Representatives shall, in like manner, submit such objections and questions to the House of Representatives for its decision.
+
+&emsp;&emsp;&emsp;(ii)
+
+Determination.—No objection or any other question arising in the matter may be sustained unless such objection or question is sustained by separate concurring votes of each House.
+
+&emsp;&emsp;(D)
+
+Reconvening.—When the two Houses have voted, they shall immediately again meet, and the presiding officer shall then announce the decision of the questions submitted. No vote or paper from any other State shall be acted upon until the objections previously made to any vote or paper from any State, and other questions arising in the matter, shall have been finally disposed of.
+
+(e)
+
+Rules for Tabulating Votes.—
+
+&emsp;(1)
+
+Counting of votes.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B)—
+
+&emsp;&emsp;&emsp;(i) only the votes of electors who have been appointed under a certificate of ascertainment of appointment of electors issued pursuant to section 5, or who have legally been appointed to fill a vacancy of any such elector pursuant to section 4, may be counted; and
+
+&emsp;&emsp;&emsp;(ii) no vote of an elector described in clause (i) which has been regularly given shall be rejected.
+
+&emsp;&emsp;(B)
+
+Exception.—The vote of an elector who has been appointed under a certificate of ascertainment of appointment of electors issued pursuant to section 5 shall not be counted if—
+
+&emsp;&emsp;&emsp;(i) there is an objection which meets the requirements of subsection (d)(2)(B)(i); and
+
+&emsp;&emsp;&emsp;(ii) each House affirmatively sustains the objection as valid.
+
+&emsp;(2)
+
+Determination of majority.—If the number of electors lawfully appointed by any State pursuant to a certificate of ascertainment of appointment of electors that is issued under section 5 is fewer than the number of electors to which the State is entitled under section 3, or if an objection the grounds for which are described in subsection (d)(2)(B)(ii)(I) has been sustained, the total number of electors appointed for the purpose of determining a majority of the whole number of electors appointed as required by the Twelfth Amendment to the Constitution shall be reduced by the number of electors whom the State has failed to appoint or as to whom the objection was sustained.
+
+&emsp;(3)
+
+List of votes by tellers; declaration of winner.—The tellers shall make a list of the votes as they shall appear from the said certificates; and the votes having been ascertained and counted according to the rules in this subchapter provided, the result of the same shall be delivered to the President of the Senate, who shall thereupon announce the state of the vote, which announcement shall be deemed a sufficient declaration of the persons, if any, elected President and Vice President of the United States, and, together with a list of the votes, be entered on the Journals of the two Houses.
+
+(June 25, 1948, ch. 644, 62 Stat. 675; Pub. L. 117–328, div. P, title I, §109(a), Dec. 29, 2022, 136 Stat. 5237.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Pub. L. 117–328 amended section generally. Prior to amendment, section related to counting electoral votes in Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

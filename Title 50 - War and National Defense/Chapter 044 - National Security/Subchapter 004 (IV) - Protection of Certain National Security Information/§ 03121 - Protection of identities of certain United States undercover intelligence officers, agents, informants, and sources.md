@@ -16,7 +16,7 @@ Whoever, in the course of a pattern of activities intended to identify and expos
 
 A term of imprisonment imposed under this section shall be consecutive to any other sentence of imprisonment.
 
-(July 26, 1947, ch. 343, title VI, §601, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 122; amended Pub. L. 106–120, title III, §304(b), Dec. 3, 1999, 113 Stat. 1611; Pub. L. 111–259, title III, §363(a), Oct. 7, 2010, 124 Stat. 2701.)
+(July 26, 1947, ch. 343, title VI, §601, as added Pub. L. 97–200, §2(a), June 23, 1982, 96 Stat. 122;amended Pub. L. 106–120, title III, §304(b), Dec. 3, 1999, 113 Stat. 1611; Pub. L. 111–259, title III, §363(a), Oct. 7, 2010, 124 Stat. 2701.)
 
 #### <b>Editorial Notes</b>
 

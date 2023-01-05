@@ -1,6 +1,6 @@
 ### §3718. Contracts for collection services
 
-(a) Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify and recover such assets. The contract shall provide that—
+(a) Under conditions the head of an executive, judicial, or legislative agency considers appropriate, the head of the agency may enter into a contract with a person for collection service to recover indebtedness owed, or to locate or recover assets of, the United States Government. The head of an agency may not enter into a contract under the preceding sentence to locate or recover assets of the United States held by a State government or financial institution unless that agency has established procedures approved by the Secretary of the Treasury to identify andrecover such assets. The contract shall provide that—
 
 &emsp;(1) the head of the agency retains the authority to resolve a dispute, compromise a claim, end collection action, and refer a matter to the Attorney General to bring a civil action; and
 
@@ -18,7 +18,7 @@
 
 (3) Each agency shall use its best efforts to assure that not less than 10 percent of the amounts of all claims referred to private counsel by that agency under paragraph (2) are referred to law firms owned and controlled by socially and economically disadvantaged individuals and law firms that are qualified HUBZone small business concerns. For purposes of this paragraph—
 
-&emsp;(A) the term "law firm owned and controlled by socially and economically disadvantaged individuals" means a law firm that meets the requirements set forth in clauses (i) and (ii) of section 8(d)(3)(C) of the Small Business Act (15U.S.C. 637(d)(3)(C)(i) and (ii)) and regulations issued under those clauses;
+&emsp;(A) the term "law firm owned and controlled by socially and economically disadvantaged individuals" means a law firm that meets the requirements set forth in clauses (i) and (ii) of section 8(d)(3)(C) of the Small Business Act (15 U.S.C. 637(d)(3)(C)(i) and (ii)) and regulations issued under those clauses;
 
 &emsp;(B) "socially and economically disadvantaged individuals" shall be presumed to include these <sup>1</sup> groups and individuals described in the last paragraph of section 8(d)(3)(C) of the Small Business Act; and
 
@@ -160,7 +160,7 @@ Pub. L. 102–589, §7, Nov. 10, 1992, 106 Stat. 5135, provided that: "The provi
 
 #### Effective and Termination Dates of 1986 Amendment
 
-Pub. L. 99–578, §5, Oct. 28, 1986, 100 Stat. 3307, as amended by Pub. L. 102–589, §4(c), Nov. 10, 1992, 106 Stat. 5134, which provided that Pub. L. 99–578 and the amendments made by section 1 of Pub. L. 99–578\(amending this section and enacting provisions set out as notes under this section) were to be in effect until Sept. 30, 1996, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
+Pub. L. 99–578, §5, Oct. 28, 1986, 100 Stat. 3307, as amended by Pub. L. 102–589, §4(c), Nov. 10, 1992, 106 Stat. 5134, which provided that Pub. L. 99–578 and the amendments made by section 1 of Pub. L. 99–578 (amending this section and enacting provisions set out as notes under this section) were to be in effect until Sept. 30, 1996, was repealed by Pub. L. 104–134, title III, §31001(cc)(2), Apr. 26, 1996, 110 Stat. 1321–380.
 
 #### Regulations
 

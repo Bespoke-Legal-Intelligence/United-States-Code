@@ -92,7 +92,7 @@ At the election of a domestic stock life insurance company which has a contiguou
 
 #### New Section 814 Treated as Continuation of Section 819A
 
-Pub. L. 98–369, div. A, title II, §217(a), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, §2, Oct. 22, 1986,100 Stat. 2095, provided that: "For purposes of section 814 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to contiguous country branches of domestic life insurance companies)—
+Pub. L. 98–369, div. A, title II, §217(a), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "For purposes of section 814 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to contiguous country branches of domestic life insurance companies)—
 
 &emsp;"(1) any election under section 819A of such Code (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]) shall be treated as an election under such section 814, and
 

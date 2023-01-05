@@ -32,7 +32,7 @@ Declarations.—Congress declares that it is in the vital interest of the United
 
 National Bridge and Tunnel Inventories.—The Secretary, in consultation with the States and Federal agencies with jurisdiction over highway bridges and tunnels, shall—
 
-&emsp;(1) inventory all highway bridges on public roads, on and off Federal-aid highways, including tribally owned and Federally owned bridges, that are bridges over waterways, other topographical barriers, other highways, and railroads;
+&emsp;(1) inventory all highway bridges on public roads, on and off Federal-aid highways, including tribally owned and Federally owned bridges, that are bridges over waterways,other topographical barriers, other highways, and railroads;
 
 &emsp;(2) inventory all tunnels on public roads, on and off Federal-aid highways, including tribally owned and Federally owned tunnels;
 
@@ -122,7 +122,7 @@ In general.—Notwithstanding any other provision of law, a State may use the fu
 
 &emsp;&emsp;(C) any ferry that was in existence on January 1, 1984; or
 
-&emsp;&emsp;(D) any road bridge that is rendered obsolete as a result of a Corps of Engineers floodcontrol or channelization project and is not rebuilt with funds from the Corps of Engineers.
+&emsp;&emsp;(D) any road bridge that is rendered obsolete as a result of a Corps of Engineers flood control or channelization project and is not rebuilt with funds from the Corps of Engineers.
 
 &emsp;(2)
 
@@ -340,7 +340,7 @@ Availability of Funds.—In carrying out this section—
 
 &emsp;(4) a Federal agency may use funds made available to the agency under section 503.
 
-(Added Pub. L. 91–605, title II, §204(a), Dec. 31, 1970, 84 Stat. 1741; amended Pub. L. 93–87, title II, §204, Aug. 13, 1973, 87 Stat. 284; Pub. L. 93–643, §113, Jan. 4, 1975, 88 Stat. 2286; Pub. L. 95–599, title I, §124(a), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 96–106, §§7, 8(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–327, §5(c), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title I, §§121(a), 122(a), Jan. 6, 1983, 96 Stat. 2111, 2112; Pub. L. 100–17, title I, §§123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, 101 Stat. 161–163, 167, 172; Pub. L. 102–240, title I, §1028(a)–(f), Dec. 18, 1991, 105 Stat. 1967, 1968; Pub. L. 103–220, §1, Mar. 17, 1994, 108 Stat. 100; Pub. L. 104–59, title III, §§318, 325(b), Nov. 28, 1995, 109 Stat. 588, 592; Pub. L. 105–178, title I, §§1109, 1115(f)(3); June 9, 1998, 112 Stat. 141; Pub. L. 105–206, title IX, §9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 108–88, §2(b)(5), Sept. 30, 2003, 117 Stat. 1111; Pub. L. 108–202, §2(b)(3), Feb. 29, 2004, 118 Stat. 478; Pub. L. 108–224, §2(b)(2), Apr. 30, 2004, 118 Stat. 627; Pub. L. 108–263, §2(b)(2), June 30, 2004, 118 Stat. 698; Pub. L. 108–280, §2(b)(2), July 30, 2004, 118 Stat. 876; Pub. L. 108–310, §2(b)(5), Sept. 30, 2004, 118 Stat. 1145; Pub. L. 109–14, §2(b)(3), May 31, 2005, 119 Stat. 324; Pub. L. 109–20, §2(b)(2), July 1, 2005, 119 Stat. 346; Pub. L. 109–35, §2(b)(2), July 20, 2005, 119 Stat. 379; Pub. L. 109–37, §2(b)(2), July 22, 2005, 119 Stat. 394; Pub. L. 109–40, §2(b)(2), July 28, 2005, 119 Stat. 410; Pub. L. 109–59, title I, §1114, Aug. 10, 2005, 119 Stat. 1172; Pub. L. 110–244, title I, §101(m)(1), June 6, 2008, 122 Stat. 1575; Pub. L. 112–141, div. A, title I, §1111(a), July 6, 2012, 126 Stat. 445; Pub. L. 114–94, div. A, title I, §1111, Dec. 4, 2015, 129 Stat. 1344; Pub. L. 117–58, div. A,title I, §§11123(e), 11310(b), 11524(b), Nov. 15, 2021, 135 Stat. 506, 536, 606.)
+(Added Pub. L. 91–605, title II, §204(a), Dec. 31, 1970, 84 Stat. 1741; amended Pub. L. 93–87, title II, §204, Aug. 13, 1973, 87 Stat. 284; Pub. L. 93–643, §113, Jan. 4, 1975, 88 Stat. 2286; Pub. L. 95–599, title I, §124(a), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 96–106, §§7, 8(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–327, §5(c), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title I, §§121(a), 122(a), Jan. 6, 1983, 96 Stat. 2111, 2112; Pub. L. 100–17, title I, §§123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, 101 Stat. 161–163, 167, 172; Pub. L. 102–240, title I, §1028(a)–(f), Dec. 18, 1991, 105 Stat. 1967, 1968; Pub. L. 103–220, §1, Mar. 17, 1994, 108 Stat. 100; Pub. L. 104–59, title III, §§318, 325(b), Nov. 28, 1995, 109 Stat. 588, 592; Pub. L. 105–178, title I, §§1109, 1115(f)(3); June 9, 1998, 112 Stat. 141; Pub. L. 105–206, title IX, §9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 108–88, §2(b)(5), Sept. 30, 2003, 117 Stat. 1111; Pub. L. 108–202, §2(b)(3), Feb. 29, 2004, 118 Stat. 478; Pub. L. 108–224, §2(b)(2), Apr. 30, 2004, 118 Stat. 627; Pub. L. 108–263, §2(b)(2), June 30, 2004, 118 Stat. 698; Pub. L. 108–280, §2(b)(2), July 30, 2004, 118 Stat. 876; Pub. L. 108–310, §2(b)(5), Sept. 30, 2004, 118 Stat. 1145; Pub. L. 109–14, §2(b)(3), May 31, 2005, 119 Stat. 324; Pub. L. 109–20, §2(b)(2), July 1, 2005, 119 Stat. 346; Pub. L. 109–35, §2(b)(2), July 20, 2005, 119 Stat. 379; Pub. L. 109–37, §2(b)(2), July 22, 2005, 119 Stat. 394; Pub. L. 109–40, §2(b)(2), July 28, 2005, 119 Stat. 410; Pub. L. 109–59, title I, §1114, Aug. 10, 2005, 119 Stat. 1172; Pub. L. 110–244, title I, §101(m)(1), June 6, 2008, 122 Stat. 1575; Pub. L. 112–141, div. A, title I, §1111(a), July 6, 2012, 126 Stat. 445; Pub. L. 114–94, div. A, title I, §1111, Dec. 4, 2015, 129 Stat. 1344; Pub. L. 117–58, div. A, title I, §§11123(e), 11310(b), 11524(b), Nov. 15, 2021, 135 Stat. 506, 536, 606.)
 
 #### <b>Editorial Notes</b>
 
@@ -498,7 +498,7 @@ Subsecs. (p), (q). Pub. L. 102–240, §1028(e)(2), added subsec. (p) and redesi
 
 <b>1987</b>—Subsec. (e). Pub. L. 100–17, §133(b)(11), inserted at end "Funds apportioned under this section shall be available for expenditure for the same period as funds apportioned for projects on the Federal-aid primary system under this title. Any funds not obligated at the expiration of such period shall be reapportioned by the Secretary to the other States in accordance with this subsection."
 
-Pub. L. 100–17, §123(d)(3), inserted after third sentence "For purposes of the preceding sentence, the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating toreplacement of destroyed bridges and ferryboat services."
+Pub. L. 100–17, §123(d)(3), inserted after third sentence "For purposes of the preceding sentence, the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating to replacement of destroyed bridges and ferryboat services."
 
 Subsec. (g). Pub. L. 100–17, §123(a), amended subsec. (g) generally, revising and restating as pars. (1) to (3) provisions formerly contained in pars. (1) and (2).
 
@@ -588,7 +588,7 @@ Pub. L. 100–17, title I, §123(d)(2), Apr. 2, 1987, 101 Stat. 162, provided th
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–424, title I, §121(b), Jan. 6, 1983, 96 Stat. 2112, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall take effect October 1, 1982, and shall apply with respect to each fiscal year beginning on or after such date. Notwithstanding subsection (e) of \[former\] section 144 of title 23, United States Code, as soon as practical after the date of enactment of this Act \[Jan. 6, 1983\], the Secretary of Transportation shall apportion under such subsection (e), as amended by subsection (a) of this section, sums authorized to be appropriated to carry out such section 144 for the fiscal year ending September 30, 1983."
+Pub. L. 97–424, title I, §121(b), Jan. 6, 1983, 96 Stat. 2112, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall take effect October 1, 1982, and shall apply with respect to each fiscal year beginning on or after such date. Notwithstanding subsection (e) of \[former\] section 144 of title 23, United States Code, as soon as practical after the date of enactment of this Act \[Jan. 6, 1983\], the Secretary of Transportation shall apportion under such subsection (e), as amended by subsection (a) of this section, sums authorized to be appropriated to carry outsuch section 144 for the fiscal year ending September 30, 1983."
 
 #### Termination of Reporting Requirements
 
@@ -656,9 +656,9 @@ Pub. L. 96–106, §8(b), Nov. 9, 1979, 93 Stat. 797, provided for the transfer 
 
 #### Time for Completion of Inventory and Classification of Highway Bridges
 
-Pub. L. 95–599, title I, §124(c), Nov. 6, 1978, 92 Stat. 2705, directed Secretary of Transportation to complete the requirements of subsec. (c) of this section, as amended by subsec. (a) of section 124 of Pub. L. 95–599,not later than the last day of the second full calendar year which begins after Nov. 6, 1978.
+Pub. L. 95–599, title I, §124(c), Nov. 6, 1978, 92 Stat. 2705, directed Secretary of Transportation to complete the requirements of subsec. (c) of this section, as amended by subsec. (a) of section 124 of Pub. L. 95–599, not later than the last day of the second full calendar year which begins after Nov. 6, 1978.
 
 #### Acceleration of Bridge Projects; Ohio River Bridge Fund Reprogramming; Reports to Congress
 
-Pub. L. 95–599, title I, §147, Nov. 6, 1978, 92 Stat. 2714, as amended by Pub. L. 96–106, §15, Nov. 19, 1979, 93 Stat. 798; Pub. L. 99–272, title IV, §4105, Apr. 7, 1986, 100 Stat. 116, directed Secretary of Transportation to conduct two projects to construct or replace high-traffic-volume bridges on the Federal-aid highway system which span major bodies of water in order to demonstrate the feasibility of reducing the time required to replace unsafe bridges; authorized funds for the projects; directed Secretary to report to Congress within six months after the completion of each project; redirected certain funds in excess of amounts needed to complete the projects for use in further projects for construction of three state-of-the-art Ohio River bridges linking designated cities in Kentucky and Ohio; and directed Secretary to report to Congress within a year after the completion of these bridges.
+Pub. L. 95–599, title I, §147, Nov. 6, 1978, 92 Stat. 2714, as amended by Pub. L. 96–106, §15, Nov. 19, 1979, 93 Stat. 798; Pub. L. 99–272, title IV, §4105, Apr. 7, 1986, 100 Stat. 116, directed Secretary of Transportation to conduct two projects to construct or replace high-traffic-volume bridges on the Federal-aid highway system which span major bodies of water in order to demonstrate the feasibility of reducing the time required to replace unsafe bridges; authorized funds for the projects; directedSecretary to report to Congress within six months after the completion of each project; redirected certain funds in excess of amounts needed to complete the projects for use in further projects for construction of three state-of-the-art Ohio River bridges linking designated cities in Kentucky and Ohio; and directed Secretary to report to Congress within a year after the completion of these bridges.
 

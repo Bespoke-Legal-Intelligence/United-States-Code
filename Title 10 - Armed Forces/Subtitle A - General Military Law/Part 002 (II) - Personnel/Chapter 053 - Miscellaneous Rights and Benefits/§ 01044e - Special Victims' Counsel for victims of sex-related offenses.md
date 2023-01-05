@@ -106,7 +106,7 @@ Administrative Responsibility.—(1) Consistent with the regulations prescribed 
 
 (2) The Secretary of Defense (and, in the case of the Coast Guard, the Secretary of the Department in which the Coast Guard is operating) shall conduct a periodic evaluation of the Special Victims' Counsel programs operated under this section.
 
-(3) The Secretary of Defense, in collaboration with the Secretaries of the military departments and the Secretary of the Department inwhich the Coast Guard is operating, shall establish—
+(3) The Secretary of Defense, in collaboration with the Secretaries of the military departments and the Secretary of the Department in which the Coast Guard is operating, shall establish—
 
 &emsp;(A) guiding principles for the Special Victims' Counsel program, to include ensuring that—
 
@@ -120,7 +120,7 @@ Administrative Responsibility.—(1) Consistent with the regulations prescribed 
 
 (f)
 
-Availability of Special Victims' Counsel.—(1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims' Counsel upon report of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, a healthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
+Availability of Special Victims' Counsel.—(1) An individual described in subsection (a)(2) who is the victim of an alleged sex-related offense shall be offered the option of receiving assistance from a Special Victims' Counsel upon report of an alleged sex-related offense or at the time the victim seeks assistance from a Sexual Assault Response Coordinator, a Sexual Assault Victim Advocate, a military criminal investigator, a victim/witness liaison, a trial counsel, ahealthcare provider, or any other personnel designated by the Secretary concerned for purposes of this subsection.
 
 (2) Subject to such exceptions for exigent circumstances as the Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may prescribe, notice of the availability of a Special Victims' Counsel shall be provided to an individual described in subsection (a)(2) before any military criminal investigator or trial counsel interviews, or requests any statement from, the individual regarding the alleged sex-related offense.
 
@@ -196,7 +196,7 @@ Subsec. (f). Pub. L. 113–291, §533(b), substituted "described in subsection (
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) ofPub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 #### Civilian Positions To Support Special Victims' Counsel
 
@@ -280,7 +280,7 @@ Exception.—The requirements of this section do not apply to a Special Victims'
 
 #### Special Victims' Counsel Training Regarding the Unique Challenges Often Faced by Male Victims of Sexual Assault
 
-Pub. L. 115–91, div. A, title V, §536, Dec. 12, 2017, 131 Stat. 1392, provided that: "The baseline Special Victims' Counsel training established under section 1044e(d)(2) of title 10, United States Code, shall include training for Special Victims' Counsel to recognize anddeal with the unique challenges often faced by male victims of sexual assault."
+Pub. L. 115–91, div. A, title V, §536, Dec. 12, 2017, 131 Stat. 1392, provided that: "The baseline Special Victims' Counsel training established under section 1044e(d)(2) of title 10, United States Code, shall include training for Special Victims' Counsel to recognize and deal with the unique challenges often faced by male victims of sexual assault."
 
 #### Enhancement of Victims' Rights in Connection With Prosecution of Certain Sex-Related Offenses
 
@@ -304,7 +304,7 @@ Notice to appropriate jurisdiction of victim's preference for civilian prosecuti
 
 &emsp;"(4)
 
-Notice to victim of status of civilian prosecution when victim expresses preference for civilian prosecution.—Following notification of the civilian authority with jurisdiction over an alleged sex-related offense of the preference of the victim of the offense for prosecution of the offense in a civilian court, the convening authority shall be responsible for notifying the victim if the convening authority learns of any decision by the civilian authority to prosecute or not prosecute the offence in a civilian court.
+Notice to victim of status of civilian prosecution when victim expresses preference for civilian prosecution.—Following notification of the civilian authority with jurisdiction over an allegedsex-related offense of the preference of the victim of the offense for prosecution of the offense in a civilian court, the convening authority shall be responsible for notifying the victim if the convening authority learns of any decision by the civilian authority to prosecute or not prosecute the offence in a civilian court.
 
 "(c)
 

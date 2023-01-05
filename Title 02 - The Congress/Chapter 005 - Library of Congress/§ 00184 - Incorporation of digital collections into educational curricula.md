@@ -6,7 +6,7 @@ This section may be cited as the "Library of Congress Digital Collections and Ed
 
 #### (b) Program
 
-The Librarian of Congress shall administer a program to teach educators and librarians how to incorporate the digital collections of the Library of Congress into educational curricula.
+The Librarian of Congress shall administer a program to teach educators and librarians howto incorporate the digital collections of the Library of Congress into educational curricula.
 
 #### (c) Educational consortium
 

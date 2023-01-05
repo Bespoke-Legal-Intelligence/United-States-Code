@@ -70,7 +70,7 @@ The local educational agency shall use the guidelines promulgated by the Secreta
 
 #### (C) Report
 
-&emsp;&emsp;Not later than January 1, 2014, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the findings of the study.
+&emsp;&emsp;Not later than January 1, 2014, the Secretary shall submit to the Committee onEducation and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the findings of the study.
 
 #### (D) Authorization of appropriations
 

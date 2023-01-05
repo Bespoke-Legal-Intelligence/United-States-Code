@@ -30,7 +30,7 @@ Duration of orders; rulemaking.—Any order by which a special measure described
 
 Process for selecting special measures.—In selecting which special measure or measures to take under this subsection, the Secretary of the Treasury—
 
-&emsp;&emsp;(A) shall consult with the Chairman of the Board of Governors of the Federal ReserveSystem, any other appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act) <sup>1</sup> the Secretary of State, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the National Credit Union Administration Board, and in the sole discretion of the Secretary, such other agencies and interested parties as the Secretary may find to be appropriate; and
+&emsp;&emsp;(A) shall consult with the Chairman of the Board of Governors of the Federal Reserve System, any other appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act) <sup>1</sup> the Secretary of State, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the National Credit Union Administration Board, and in the sole discretion of the Secretary, such other agencies and interested parties as the Secretary may find to be appropriate; and
 
 &emsp;&emsp;(B) shall consider—
 
@@ -66,7 +66,7 @@ Form of records and reports.—Such records and reports shall be made and retain
 
 &emsp;&emsp;&emsp;(ii) the legal capacity in which a participant in any transaction is acting;
 
-&emsp;&emsp;&emsp;(iii) the identity of the beneficial owner of the funds involved in any transaction, in accordance with such procedures as the Secretary determines to be reasonable and practicable to obtain and retain the information; and
+&emsp;&emsp;&emsp;(iii) the identity of the beneficial owner of the funds involved in any transaction, in accordance with such procedures as the Secretary determines to be reasonable andpracticable to obtain and retain the information; and
 
 &emsp;&emsp;&emsp;(iv) a description of any transaction.
 
@@ -84,7 +84,7 @@ Information relating to certain payable-through accounts.—If the Secretary fin
 
 &emsp;(4)
 
-Information relating to certain correspondent accounts.—If the Secretary finds a jurisdiction outside of the United States, 1or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary may require any domestic financial institution or domestic financial agency that opens or maintains a correspondent account in the United States for a foreign financial institution involving any such jurisdiction or any such financial institution operating outside of the United States, or a correspondent account through which any such transaction may be conducted, as a condition of opening or maintaining such account—
+Information relating to certain correspondent accounts.—If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary may require any domestic financial institution or domestic financial agency that opens or maintains a correspondent account in the United States for a foreign financial institution involving any such jurisdiction or any such financial institution operating outside of the United States, or a correspondent account through which any such transaction may be conducted, as a condition of opening or maintaining such account—
 
 &emsp;&emsp;(A) to identify each customer (and representative of such customer) of any such financial institution who is permitted to use, or whose transactions are routed through, such correspondent account; and
 
@@ -136,7 +136,7 @@ Institutional factors.—In the case of a decision to apply 1 or more of the spe
 
 (d)
 
-Notification of Special Measures Invoked by the Secretary.—Not later than 10 days after the date of any action taken by the Secretary of the Treasury under subsection\(a)(1), the Secretary shall notify, in writing, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of any such action.
+Notification of Special Measures Invoked by the Secretary.—Not later than 10 days after the date of any action taken by the Secretary of the Treasury under subsection (a)(1), the Secretary shall notify, in writing, the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate of any such action.
 
 (e)
 
@@ -176,7 +176,7 @@ Other terms.—The Secretary may, by regulation, further define the terms in par
 
 (f)
 
-Classified Information.—In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern, made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.),<sup>2</sup> such information may be submitted by the Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
+Classified Information.—In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern, made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.),<sup>2</sup> such information may be submitted bythe Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
 
 (Added Pub. L. 107–56, title III, §311(a), Oct. 26, 2001, 115 Stat. 298; amended Pub. L. 108–177, title III, §376, Dec. 13, 2003, 117 Stat. 2630; Pub. L. 108–458, title VI, §6203(e), (f), Dec. 17, 2004, 118 Stat. 3747; Pub. L. 109–293, title V, §501, Sept. 30, 2006, 120 Stat. 1350.)
 
@@ -214,7 +214,7 @@ Subsec. (e)(3). Pub. L. 108–458, §6203(f)(4), inserted "or subsection (i) or 
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of suchAct, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
+Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of Title 12, Banks and Banking.
 
 #### Determination With Respect to Primary Money Laundering Concern of Russian Illicit Finance
 

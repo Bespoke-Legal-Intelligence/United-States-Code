@@ -28,7 +28,7 @@ Not later than 2 years after the date on which the Administrator establishes the
 
 #### (1) Small systems
 
-&emsp;Of the amounts made available for grants under this section, to the extent that there are sufficient applications, not less than 15 percent shall be used for grants to publicly owned treatment works that serve fewer than 3,300 people.
+&emsp;Of the amounts made available for grants under this section, to the extent that there aresufficient applications, not less than 15 percent shall be used for grants to publicly owned treatment works that serve fewer than 3,300 people.
 
 #### (2) Limitation on use of funds
 

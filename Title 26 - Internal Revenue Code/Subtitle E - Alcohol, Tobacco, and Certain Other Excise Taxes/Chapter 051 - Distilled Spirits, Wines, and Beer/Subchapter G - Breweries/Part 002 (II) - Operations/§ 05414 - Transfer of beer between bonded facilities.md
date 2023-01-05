@@ -44,7 +44,7 @@ A prior section 5414, act Aug. 16, 1954, ch. 736, 68A Stat. 675, consisted of pr
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §106(c)(2), Dec. 27, 2020, 134 Stat. 3043, provided that: "The amendment made by this subsection \[amending this section\] shallapply to any calendar quarters beginning after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §106(c)(2), Dec. 27, 2020, 134 Stat. 3043, provided that: "The amendment made by this subsection \[amending this section\] shall apply to any calendar quarters beginning after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 

@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 46:391a(4)
 
-Section 2109 exempts public vessels from the applicability of the maritime safety and seamen's welfare laws of this subtitle although some public vessels are inspected under interagency voluntary agreements.
+Section 2109 exempts public vessels from the applicability of the maritime safety and seamen's welfare lawsof this subtitle although some public vessels are inspected under interagency voluntary agreements.
 
 #### <b>Editorial Notes</b>
 

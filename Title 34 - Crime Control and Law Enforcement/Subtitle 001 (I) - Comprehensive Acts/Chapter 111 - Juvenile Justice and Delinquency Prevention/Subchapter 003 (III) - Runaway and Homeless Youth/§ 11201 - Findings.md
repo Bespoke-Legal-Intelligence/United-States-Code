@@ -48,5 +48,11 @@ Par. (5). Pub. L. 102–586, §3(a)(3), substituted "care (including preventive 
 
 Pars. (6) to (10). Pub. L. 102–586, §3(a)(2), (4), added pars. (6) to (10).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of title III of Pub. L. 93–415, which is classified to this subchapter, as the "Runaway and Homeless Youth Act", see section 301 of Pub. L. 93–415, set out as a Short Title of 1974 Act note under section 10101 of this title.
+
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

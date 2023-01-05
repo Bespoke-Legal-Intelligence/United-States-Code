@@ -2,7 +2,7 @@
 
 (a) A person injured because a rail carrier providing transportation or service subject to the jurisdiction of the Board under this part does not obey an order of the Board, except an order for the payment of money, may bring a civil action in a United States District Court to enforce that order under this subsection.
 
-(b) A rail carrier providing transportation subject to the jurisdiction of the Board under this part is liable for damages sustained by a person as a result of an act or omission of that carrier in violation of this part. A rail carrier providingtransportation subject to the jurisdiction of the Board under this part is liable to a person for amounts charged that exceed the applicable rate for the transportation.
+(b) A rail carrier providing transportation subject to the jurisdiction of the Board under this part is liable for damages sustained by a person as a result of an act or omission of that carrier in violation of this part. A rail carrier providing transportation subject to the jurisdiction of the Board under this part is liable to a person for amounts charged that exceed the applicable rate for the transportation.
 
 (c)(1) A person may file a complaint with the Board under section 11701(b) of this title or bring a civil action under subsection (b) of this section to enforce liability against a rail carrier providing transportation subject to the jurisdiction of the Board under this part.
 
@@ -18,7 +18,7 @@
 
 > In a civil action under this paragraph, the plaintiff is liable for only those costs that accrue on an appeal taken by the plaintiff.
 
-(2) All parties in whose favor the award was made may be joined as plaintiffs in a civil action brought in a district court of the United States under this subsection and all the rail carriers that are parties to the order awarding damages may be joined as defendants. Trial in the action is in the judicial district in which any one of the plaintiffs could bring the action against any one of the defendants. Process may be served on a defendant at its principal operating office when that defendant is not in the district in which the action is brought. A judgment ordering recovery may be made in favor of any of those plaintiffs against the defendant found to be liable to that plaintiff.
+(2) All parties in whose favor the award was made may be joined as plaintiffs in a civil action brought in a district court of the UnitedStates under this subsection and all the rail carriers that are parties to the order awarding damages may be joined as defendants. Trial in the action is in the judicial district in which any one of the plaintiffs could bring the action against any one of the defendants. Process may be served on a defendant at its principal operating office when that defendant is not in the district in which the action is brought. A judgment ordering recovery may be made in favor of any of those plaintiffs against the defendant found to be liable to that plaintiff.
 
 (3) The district court shall award a reasonable attorney's fee as a part of the damages for which a rail carrier is found liable under this subsection. The district court shall tax and collect that fee as a part of the costs of the action.
 

@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) expenses for the care of a qualifying individual.
 
-> &emsp;&emsp;Such term shall not include any amount paid for services outside the taxpayer'shousehold at a camp where the qualifying individual stays overnight.
+> &emsp;&emsp;Such term shall not include any amount paid for services outside the taxpayer's household at a camp where the qualifying individual stays overnight.
 
 #### (B) Exception
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) such child is under the age of 13 or is physically or mentally incapable of caring for himself,
 
-> &emsp;in the case of any taxable year beginning in such calendar year, such child shall be treated as a qualifying individual described in subparagraph (A) or (B) of subsection (b)(1) (whichever is appropriate) with respect to thecustodial parent (as defined in section 152(e)(4)(A)), and shall not be treated as a qualifying individual with respect to the noncustodial parent.
+> &emsp;in the case of any taxable year beginning in such calendar year, such child shall be treated as a qualifying individual described in subparagraph (A) or (B) of subsection (b)(1) (whichever is appropriate) with respect to the custodial parent (as defined in section 152(e)(4)(A)), and shall not be treated as a qualifying individual with respect to the noncustodial parent.
 
 #### (6) Payments to related individuals
 
@@ -208,7 +208,7 @@ In the case of any taxable year beginning after December 31, 2020, and before Ja
 
 #### (2) Payments to other possessions
 
-&emsp;The Secretary shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of this section with respect to taxable years beginning in or with 2021 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary, under which such possession will promptly distribute such payments to its residents.
+&emsp;The Secretary shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of this section with respect to taxable years beginning inor with 2021 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary, under which such possession will promptly distribute such payments to its residents.
 
 #### (3) Coordination with credit allowed against United States income taxes
 
@@ -388,7 +388,7 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 "(2)
 
-Special rule for cafeteria plans.—For purposes of section 125 of the Internal Revenue Code of 1986, a plan shall not be treated as failing to be a cafeteria plan solely because under the plan a participant elected before January 1, 1988, to receive reimbursement under the plan for dependent care assistance for periods after December 31, 1987, and such assistance included reimbursement for expenses at a camp where the dependent stays overnight."
+Special rule for cafeteria plans.—For purposes of section 125 of the Internal Revenue Code of 1986, a plan shall not be treated as failing to be a cafeteria plan solely because under the plan a participant elected before January 1, 1988, to receive reimbursement under the plan for dependent care assistance forperiods after December 31, 1987, and such assistance included reimbursement for expenses at a camp where the dependent stays overnight."
 
 #### Effective Date of 1986 Amendment
 
@@ -398,7 +398,7 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Amendment by section 423(c)(4) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1984, see section 423(d) of Pub. L. 98–369, set out as a note under section 2 of this title.
 
-Pub. L. 98–369, title IV, §475(a), July 18, 1984, 98 Stat. 847, provided that: "The amendments made by this title \[probably means subtitle F (§§471–475) of title IV of Pub. L. 98–369, which enacted sections 25, 38, and 39 of this title, amended this section and sections 12, 15, 22 to 24, 27 to 35, 37, 39 to 41, 44A, 44C to 44H, 45 to 48, 51, 52,55, 56, 86, 87, 103, 108, 129, 168, 196, 213, 280C, 381, 383, 401, 404, 409, 441, 527, 642, 691, 874, 882, 901, 904, 936, 1016, 1033, 1351, 1366, 1374, 1375, 1441, 1442, 1451, 3507, 6013, 6096, 6201, 6211, 6213, 6362, 6401, 6411, 6420, 6421, 6427, 6501, 6511, 7701, 7871, 9502, and 9503 of this title, repealed sections 38, 40, 44, 44B, 50A, 50B, and 53 of this title, and enacted provisions set out as notes under sections 30, 33, 46, and 48 of this title\] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years."
+Pub. L. 98–369, title IV, §475(a), July 18, 1984, 98 Stat. 847, provided that: "The amendments made by this title \[probably means subtitle F (§§471–475) of title IV of Pub. L. 98–369, which enacted sections 25, 38, and 39 of this title, amended this section and sections 12, 15, 22 to 24, 27 to 35, 37, 39 to 41, 44A, 44C to 44H, 45 to 48, 51, 52, 55, 56, 86, 87, 103, 108, 129, 168, 196, 213, 280C, 381, 383, 401, 404, 409, 441, 527, 642, 691, 874, 882, 901, 904, 936, 1016, 1033, 1351, 1366, 1374, 1375, 1441, 1442, 1451, 3507, 6013, 6096, 6201, 6211, 6213, 6362, 6401, 6411, 6420, 6421, 6427, 6501, 6511, 7701, 7871, 9502, and 9503 of this title, repealed sections 38, 40, 44, 44B, 50A, 50B, and 53 of this title, and enacted provisions set out as notes under sections 30, 33, 46, and 48 of this title\] shall apply to taxable years beginning after December 31, 1983, and to carrybacks from such years."
 
 #### Effective Date of 1983 Amendment
 

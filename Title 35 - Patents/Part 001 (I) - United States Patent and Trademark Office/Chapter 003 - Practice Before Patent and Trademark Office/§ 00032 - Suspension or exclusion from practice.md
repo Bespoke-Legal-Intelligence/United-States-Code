@@ -18,7 +18,7 @@ See note under section 31.
 
 Pub. L. 112–29, §9(a), substituted "United States District Court for the Eastern District of Virginia" for "United States District Court for the District of Columbia".
 
-Pub. L. 112–29, §3(k)(1), inserted before the last sentence "A proceeding under this section shall be commenced not later than the earlier of either the datethat is 10 years after the date on which the misconduct forming the basis for the proceeding occurred, or 1 year after the date on which the misconduct forming the basis for the proceeding is made known to an officer or employee of the Office as prescribed in the regulations established under section 2(b)(2)(D)."
+Pub. L. 112–29, §3(k)(1), inserted before the last sentence "A proceeding under this section shall be commenced not later than the earlier of either the date that is 10 years after the date on which the misconduct forming the basis for the proceeding occurred, or 1 year after the date on which the misconduct forming the basis for the proceeding is made known to an officer or employee of the Office as prescribed in the regulations established under section 2(b)(2)(D)."
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
@@ -34,7 +34,7 @@ Pub. L. 106–113, §1000(a)(9) \[title IV, §4715(c)\], substituted "2(b)(2)(D)
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–29, §3(k)(3), Sept. 16, 2011, 125 Stat. 291, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply in any case in which the time period for instituting a proceeding under section 32 of title 35, United States Code, had not lapsed before the date of the enactment of this Act \[Sept. 16, 2011\]."
+Pub. L. 112–29, §3(k)(3), Sept. 16, 2011, 125 Stat. 291, provided that: "The amendment made by paragraph (1)\[amending this section\] shall apply in any case in which the time period for instituting a proceeding under section 32 of title 35, United States Code, had not lapsed before the date of the enactment of this Act \[Sept. 16, 2011\]."
 
 Amendment by section 9(a) of Pub. L. 112–29 effective Sept. 16, 2011, and applicable to any civil action commenced on or after that date, see section 9(b) of Pub. L. 112–29, set out as a note under section 1071 of Title 15, Commerce and Trade.
 

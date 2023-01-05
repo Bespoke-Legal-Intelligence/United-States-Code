@@ -32,7 +32,7 @@ Provisions similar to those in this section were contained in section 261(a) of 
 
 #### Change of Name
 
-Pub. L. 109–163, div. A, title V, §515(a)(1), Jan. 6, 2006, 119 Stat. 3233, provided that: "The reserve component of the Armed Forces known as the Naval Reserve is redesignated as the Navy Reserve."
+Pub. L. 109–163, div. A, title V, §515(a)(1), Jan. 6, 2006, 119 Stat. 3233, provided that: "The reserve componentof the Armed Forces known as the Naval Reserve is redesignated as the Navy Reserve."
 
 Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, as amended by Pub. L. 111–383, div. A, title X, §1075(h)(1), Jan. 7, 2011, 124 Stat. 4377, provided that: "Any reference in any law, regulation, document, record, or other paper of the United States to the Naval Reserve, other than a reference to the Naval Reserve regarding the United States Naval Reserve Retired List, shall be considered to be a reference to the Navy Reserve."
 
@@ -45,6 +45,56 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Notice to Congress Before Certain Actions Regarding Units of Certain Reserve Components
+
+Pub. L. 117–263, div. A, title V, §518, Dec. 23, 2022, 136 Stat. 2567, provided that:
+
+"(a)
+
+Notice Required; Elements.—The Secretary of a military department may not take any covered action regarding a covered unit until the day that is 60 days after the Secretary of a military department submits to Congress notice of such covered action. Such notice shall include the following elements:
+
+&emsp;"(1) An analysis of how the covered action would improve readiness.
+
+&emsp;"(2) A description of how the covered action would align with the National Defense Strategy and the supporting strategies of each military departments.
+
+&emsp;"(3) A description of any proposed organizational change associated with the covered action and how the covered action will affect the relationship of administrative, operational, or tactical control responsibilities of the covered unit.
+
+&emsp;"(4) The projected cost and any projected long-term cost savings of the covered action.
+
+&emsp;"(5) A detailed description of any requirements for new infrastructure or relocation of equipment and assets necessary for the covered action.
+
+&emsp;"(6) A description of how the covered activity will affect the ability of the covered Armed Force to accomplish its current mission.
+
+"(b)
+
+Applicability.—This section shall apply to any step to perform covered action regarding a covered unit on or after the date of the enactment of this Act \[Dec. 23, 2022\].
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered action' means any of the following:
+
+&emsp;&emsp;"(A) To deactivate.
+
+&emsp;&emsp;"(B) To reassign.
+
+&emsp;&emsp;"(C) To move the home station.
+
+&emsp;"(2) The term 'covered Armed Force' means the following:
+
+&emsp;&emsp;"(A) The Army.
+
+&emsp;&emsp;"(B) The Navy.
+
+&emsp;&emsp;"(C) The Marine Corps.
+
+&emsp;&emsp;"(D) The Air Force.
+
+&emsp;&emsp;"(E) The Space Force.
+
+&emsp;"(3) The term 'covered unit' means a unit of a reserve component of a covered Armed Force."
 
 #### Direct Employment Pilot Program for Certain Members of the Reserve Components
 
@@ -206,7 +256,7 @@ Regulations.—The Secretaries of the military departments shall administer this
 
 Pub. L. 111–84, div. A, title V, §597(b), Oct. 28, 2009, 123 Stat. 2344, which related to annual reports on the Yellow Ribbon Reintegration Program, was repealed by Pub. L. 114–92, div. A, title X, §1072(d)(2), Nov. 25, 2015, 129 Stat. 995.
 
-Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V, §595, Oct. 28, 2009, 123 Stat. 2338; Pub. L. 111–383, div. A, title V, §583, Jan. 7, 2011, 124 Stat. 4228; Pub. L. 112–81, div. A, title V, §590, Dec. 31, 2011, 125 Stat. 1438; Pub. L. 112–239, div. A, title V, §581(b), Jan. 2, 2013, 126 Stat. 1766; Pub. L. 114–92, div. A, title V, §551, title X, §1072(d)(1), Nov. 25, 2015, 129 Stat. 820, 995, provided that:
+Pub. L. 110–181, div. A, title V, §582, Jan. 28, 2008, 122 Stat. 122, as amended by Pub. L. 111–84, div. A, title V,§595, Oct. 28, 2009, 123 Stat. 2338; Pub. L. 111–383, div. A, title V, §583, Jan. 7, 2011, 124 Stat. 4228; Pub. L. 112–81, div. A, title V, §590, Dec. 31, 2011, 125 Stat. 1438; Pub. L. 112–239, div. A, title V, §581(b), Jan. 2, 2013, 126 Stat. 1766; Pub. L. 114–92, div. A, title V, §551, title X, §1072(d)(1), Nov. 25, 2015, 129 Stat. 820, 995, provided that:
 
 "(a)
 

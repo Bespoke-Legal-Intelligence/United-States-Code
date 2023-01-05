@@ -14,7 +14,7 @@
 
 &emsp;In approving an application under paragraph (1) or (2), the Board and (in the case of an application under paragraph (1)) the Comptroller of the Currency—
 
-&emsp;&emsp;(A) shall apply the standards applicable to the establishment of a foreign bank office in the United States under section 3105(d) of this title;
+&emsp;&emsp;(A) shall apply the standards applicable to the establishment of a foreign bank office inthe United States under section 3105(d) of this title;
 
 &emsp;&emsp;(B) may not approve an application unless the Board and (in the case of an application under paragraph (1)) the Comptroller of the Currency—
 
@@ -76,7 +76,7 @@
 
 #### (b) Continuance of lawful interstate banking operations previously commenced
 
-Unless its authority to do so is lawfully revoked otherwise than pursuant to this section, a foreign bank, notwithstanding any restriction or limitation imposed under subsection (a) of this section, may establish and operate, outside its home State, any State branch, State agency, or bank or commercial lending company subsidiary which commenced lawful operation or for which an application to commence business had been lawfully filed with the appropriate State or Federal authority, as the case may be, on or before July 27, 1978. Notwithstanding subsection (a), a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.
+Unless its authority to do so is lawfully revoked otherwise than pursuant to this section, a foreign bank, notwithstanding any restriction or limitation imposed under subsection (a) of thissection, may establish and operate, outside its home State, any State branch, State agency, or bank or commercial lending company subsidiary which commenced lawful operation or for which an application to commence business had been lawfully filed with the appropriate State or Federal authority, as the case may be, on or before July 27, 1978. Notwithstanding subsection (a), a foreign bank may continue to operate, after September 29, 1994, any Federal branch, State branch, Federal agency, State agency, or commercial lending company subsidiary which such bank was operating on the day before September 29, 1994, to the extent the branch, agency, or subsidiary continues, after September 29, 1994, to engage in operations which were lawful under the laws in effect on the day before September 29, 1994.
 
 #### (c) Determination of home State of foreign bank
 
@@ -102,7 +102,7 @@ In the case of a foreign bank that has a domestic bank subsidiary within the Uni
 
 For definition of "this chapter", referred to in subsec. (a)(1), (2), see References in Text note set out under section 3101 of this title.
 
-The Community Reinvestment Act of 1977, referred to in subsec. (a)(8)(A), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
+The Community Reinvestment Act of 1977, referred to in subsec. (a)(8)(A), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2901 of this title and Tables.
 
 Section 25A of the Federal Reserve Act, referred to in subsec. (a)(7)(A)(ii), (8)(B), popularly known as the Edge Act, is classified to subchapter II (§611 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 611 of this title and Tables.
 

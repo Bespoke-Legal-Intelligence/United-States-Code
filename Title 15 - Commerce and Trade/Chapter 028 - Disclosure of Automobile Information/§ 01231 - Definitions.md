@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 (c) The term "automobile" includes any passenger car or station wagon.
 
-(d) The term "new automobile" means an automobile the equitable or legal title to which has never been transferred by a manufacturer, distributor, or dealer to an ultimate purchaser.
+(d) The term "new automobile" means an automobile the equitable or legal title to whichhas never been transferred by a manufacturer, distributor, or dealer to an ultimate purchaser.
 
 (e) The term "dealer" shall mean any person resident or located in the United States or any Territory thereof or in the District of Columbia engaged in the sale or the distribution of new automobiles to the ultimate purchaser.
 

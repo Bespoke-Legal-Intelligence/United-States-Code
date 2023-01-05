@@ -4,7 +4,7 @@ Section 5007, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1086, provided f
 
 Section 5008, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1086, provided for appointment of officers and employees by Attorney General.
 
-Section 5009, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1086, provided for adoption and promulgation ofrules governing procedure by Youth Correction Division.
+Section 5009, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1086, provided for adoption and promulgation of rules governing procedure by Youth Correction Division.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

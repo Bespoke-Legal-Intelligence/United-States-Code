@@ -2,7 +2,7 @@
 
 #### (a) Description of withdrawn public lands; exceptions; National Wildlife Refuge lands exception; time of withdrawal
 
-(1) The following public lands are withdrawn, subject to valid existing rights, from all forms of appropriation under the public land laws, including the mining and mineral leasing laws,and from selection under the Alaska Statehood Act, as amended:
+(1) The following public lands are withdrawn, subject to valid existing rights, from all forms of appropriation under the public land laws, including the mining and mineral leasing laws, and from selection under the Alaska Statehood Act, as amended:
 
 &emsp;(A) The lands in each township that encloses all or part of any Native village identified pursuant to subsection (b);
 
@@ -454,5 +454,5 @@
 
 #### References in Text
 
-The Alaska Statehood Act, as amended, referred to in subsec. (a)(1), (2), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, as amended, referred to in subsec. (a)(1), (2), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 

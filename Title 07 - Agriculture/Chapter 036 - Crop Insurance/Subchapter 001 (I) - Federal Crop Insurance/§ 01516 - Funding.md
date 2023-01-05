@@ -22,7 +22,7 @@
 
 #### (1) Expenses generally
 
-&emsp;For each of the 1999 and subsequent reinsurance years, the Corporation may pay from the insurance fund established under subsection (c) all expenses of the Corporation (other than expenses covered by subsection (a)(1) and expenses covered by paragraph (2)(A)), including the following:
+&emsp;For each of the 1999 and subsequent reinsurance years, the Corporation may pay from the insurance fund established under subsection (c) all expenses of the Corporation (other thanexpenses covered by subsection (a)(1) and expenses covered by paragraph (2)(A)), including the following:
 
 &emsp;&emsp;(A) Premium subsidies and indemnities.
 
@@ -142,7 +142,7 @@ Subsec. (b)(2)(A). Pub. L. 104–127, §193(e)(3), struck out ", noninsured ass
 
 Subsec. (b)(2)(B). Pub. L. 104–127, §193(e)(2)(B), struck out "subject to paragraph (1)(B)," before "in the case of each".
 
-<b>1994</b>—Pub. L. 103–354 amended section generally, substituting subsecs. (a) to (c) for former subsecs. (a) to (d)relating to authorization of appropriations to cover operating and administrative costs of Corporation, issuance of regulations, emergency funding, and borrowing authority.
+<b>1994</b>—Pub. L. 103–354 amended section generally, substituting subsecs. (a) to (c) for former subsecs. (a) to (d) relating to authorization of appropriations to cover operating and administrative costs of Corporation, issuance of regulations, emergency funding, and borrowing authority.
 
 <b>1985</b>—Subsec. (c)(1). Pub. L. 99–198 struck out provision that Secretary's authority to use the funds of Commodity Credit Corporation for purposes of this subsection would expire one year after date on which that authority was first used.
 
@@ -180,7 +180,7 @@ Act Dec. 23, 1944, ch. 713, §6, 58 Stat. 920, provided an additional appropriat
 
 #### Transfer of Functions
 
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 

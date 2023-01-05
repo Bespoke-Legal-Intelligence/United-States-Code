@@ -64,7 +64,7 @@ The Secretary may include in the payment to the mortgagee such amount, in additi
 
 &emsp;(B) 10 per centum of the tenant's monthly income; or
 
-&emsp;(C) if the family is receiving payments for welfare assistance from a public agency and apart of such payments, adjusted in accordance with the family's actual housing costs, is specifically designated by such agency to meet the family's housing costs, the portion of such payments which is so designated.
+&emsp;(C) if the family is receiving payments for welfare assistance from a public agency and a part of such payments, adjusted in accordance with the family's actual housing costs, is specifically designated by such agency to meet the family's housing costs, the portion of such payments which is so designated.
 
 > Notwithstanding the foregoing provisions of this paragraph, the Secretary may—
 
@@ -72,7 +72,7 @@ The Secretary may include in the payment to the mortgagee such amount, in additi
 
 &emsp;(B) increase such 20 per centum requirement in the case of any project if he determines that such action is necessary and feasible in order to assure, insofar as is practicable, that there is in the project a reasonable range in the income levels of tenants, or that such action is to be taken to meet the housing needs of elderly or handicapped families.
 
-(3) The Secretary shall utilize amounts credited to the fund described in subsection (g) for the sole purpose of carrying out the purposes of section 201 of the Housing and Community Development Amendments of 1978. No payments may be made from such fund unless approved in an appropriation Act. No amount may be so approved for any fiscal year beginning after September 30, 1994.
+(3) The Secretary shall utilize amounts credited to the fund described in subsection (g) forthe sole purpose of carrying out the purposes of section 201 of the Housing and Community Development Amendments of 1978. No payments may be made from such fund unless approved in an appropriation Act. No amount may be so approved for any fiscal year beginning after September 30, 1994.
 
 (4) To ensure that eligible tenants occupying that number of units with respect to which assistance was being provided under this subsection immediately prior to November 30, 1983, receive the benefit of assistance contracted for under paragraph (2), the Secretary shall offer annually to amend contracts entered into under this subsection with owners of projects assisted but not subject to mortgages insured under this section to provide sufficient payments to cover 100 percent of the necessary rent increases and changes in the incomes of eligible tenants, subject to the availability of authority for such purpose under section 1437c(c) of title 42. The Secretary shall take such actions as may be necessary to ensure that payments, including payments that reflect necessary rent increases and changes in the incomes of tenants, are made on a timely basis for all units covered by contracts entered into under paragraph (2).
 
@@ -104,7 +104,7 @@ In addition to establishing the requirements specified in subsection (e), the Se
 
 #### (i) Authorization of appropriations; aggregate amount of contracts; contracts for assistance payments; income limitations; availability of amounts for projects approved prior to rehabilitation and projects for occupancy by elderly or handicapped families; definitions
 
-(1) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, including such sums as may be necessary to make interest reduction payments under contracts entered into by the Secretary under this section. The aggregate amount of outstanding contracts to make such payments shall not exceed amounts approved in appropriation Acts, and payments pursuant to such contracts shall not exceed $75,000,000 per annum prior to July 1, 1969, which maximum dollar amount shall be increased by $125,000,000 on July 1, 1969, by $150,000,000 on July 1, 1970, by $200,000,000 on July 1, 1971 and by $75,000,000 on July 1, 1974. The Secretary shall utilize, to the extent necessary after September 30, 1984, any authority under this section that is recaptured either as the result of the conversion of housing projects covered by assistance under subsection (f)(2) to contracts for assistance under section 1437f of title 42 or otherwise for the purpose of making assistance payments, including amendments as provided in subsection (f)(4), with respect to housing projects assisted, but not subject to mortgages insured, under this section that remain covered by assistance under subsection (f)(2).
+(1) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section, including such sums as may be necessary to make interest reduction payments under contracts entered into by the Secretary under this section. The aggregate amount of outstanding contracts to make such payments shall not exceed amounts approved in appropriation Acts, and payments pursuant to such contracts shall not exceed $75,000,000 per annum prior to July 1, 1969, which maximum dollar amount shall be increased by $125,000,000 on July 1, 1969, by $150,000,000 on July 1, 1970, by $200,000,000 on July 1, 1971 and by $75,000,000 on July 1, 1974. The Secretary shall utilize, to the extent necessary after September 30, 1984, anyauthority under this section that is recaptured either as the result of the conversion of housing projects covered by assistance under subsection (f)(2) to contracts for assistance under section 1437f of title 42 or otherwise for the purpose of making assistance payments, including amendments as provided in subsection (f)(4), with respect to housing projects assisted, but not subject to mortgages insured, under this section that remain covered by assistance under subsection (f)(2).
 
 (2) Contracts for assistance payments under this section may be entered into only with respect to tenants whose incomes do not exceed 80 per centum of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 per centum of the median for the area on the basis of his findings that such variations are necessary because of prevailing levels of construction costs, unusually high or low family incomes, or other factors.
 
@@ -138,7 +138,7 @@ In addition to establishing the requirements specified in subsection (e), the Se
 
 &emsp;(A) comply with such standards and conditions as the Secretary may prescribe to establish the acceptability of the property for mortgage insurance and may include such nondwelling facilities as the Secretary deems adequate and appropriate to serve the occupants and the surrounding neighborhood: <i>Provided</i>, That the project shall be predominantly residential and any nondwelling facility included in the mortgage shall be found by the Secretary to contribute to the economic feasibility of the project, and the Secretary shall give due consideration to the possible effect of the project on other business enterprises in the community: <i>Provided further</i>, That, in the case of a project designed primarily for occupancy by elderly or handicapped families, the project may include related facilities for use by elderly or handicapped families, including cafeterias or dining halls, community rooms, workshops, infirmaries, or other inpatient or outpatient health facilities, and other essential service facilities;
 
-&emsp;(B) include five or more dwelling units, but such units, in the case of a project designed primarily for occupancy by displaced, elderly, or handicapped families, need not, with the approval of the Secretary, contain kitchen facilities; and
+&emsp;(B) include five or more dwelling units, but such units, in the case of a project designed primarily for occupancy by displaced, elderly,or handicapped families, need not, with the approval of the Secretary, contain kitchen facilities; and
 
 &emsp;(C) be designed primarily for use as a rental project to be occupied by lower income families or by elderly or handicapped families: <i>Provided</i>, That lower income persons who are less than sixty-two years of age shall be eligible for occupancy in such a project.
 
@@ -168,7 +168,7 @@ The Secretary is authorized to enter into agreements with any State or agency th
 
 #### (p) Contracts with State or local agencies for monitoring and supervision of management by private sponsors of assisted projects
 
-The Secretary is authorized to enter into contracts with State or local agencies approved by him to provide for the monitoring and supervision by such agencies of the management byprivate sponsors of projects assisted under this section. Such contracts shall require that such agencies promptly report to the Secretary any deficiencies in the management of such projects in order to enable the Secretary to take corrective action at the earliest practicable time.
+The Secretary is authorized to enter into contracts with State or local agencies approved by him to provide for the monitoring and supervision by such agencies of the management by private sponsors of projects assisted under this section. Such contracts shall require that such agencies promptly report to the Secretary any deficiencies in the management of such projects in order to enable the Secretary to take corrective action at the earliest practicable time.
 
 #### (q) Assistance to residents of covered projects; contracting authority; applicability
 
@@ -176,7 +176,7 @@ The Secretary may provide assistance under section 1437f of title 42 with respec
 
 #### (r) Payments for benefit of certain projects having mortgages made by State or local housing finance or government agencies
 
-The Secretary shall, not later than 45 days after receipt of an application by the mortgagee, provide interest reduction and rental assistance payments for the benefit of projects assisted under this section whose mortgages were made by State or local housing finance agencies or State or local government agencies for a term equal to the remaining mortgage term to maturity on projects assisted under this section to the extent of—
+The Secretary shall, not later than 45 days after receipt of an application by the mortgagee,provide interest reduction and rental assistance payments for the benefit of projects assisted under this section whose mortgages were made by State or local housing finance agencies or State or local government agencies for a term equal to the remaining mortgage term to maturity on projects assisted under this section to the extent of—
 
 &emsp;(1) unexpended balances of amounts of authority as set forth in certain letter agreements between the Department of Housing and Urban Development and such State or local housing finance agencies or State or local government agencies, and
 
@@ -214,7 +214,7 @@ The Secretary shall, not later than 45 days after receipt of an application by t
 
 &emsp;&emsp;&emsp;(I) materially violating any Federal, State, or local law or regulation with regard to this project or any other federally assisted project, after receipt of notice and an opportunity to cure;
 
-&emsp;&emsp;&emsp;(II) materially breaching a contract for assistance under section 1437f of title 42,after receipt of notice and an opportunity to cure;
+&emsp;&emsp;&emsp;(II) materially breaching a contract for assistance under section 1437f of title 42, after receipt of notice and an opportunity to cure;
 
 &emsp;&emsp;&emsp;(III) materially violating any applicable regulatory or other agreement with the Secretary or a participating administrative entity, after receipt of notice and an opportunity to cure;
 
@@ -284,7 +284,7 @@ The Secretary shall, not later than 45 days after receipt of an application by t
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of carrying out this subsection, the Secretary may make availableamounts that are unobligated amounts for contracts for interest reduction payments—
+&emsp;&emsp;For purposes of carrying out this subsection, the Secretary may make available amounts that are unobligated amounts for contracts for interest reduction payments—
 
 &emsp;&emsp;&emsp;(i) that were previously obligated for contracts for interest reduction payments under this section until the insured mortgage under this section was extinguished;
 
@@ -300,7 +300,7 @@ The Secretary shall, not later than 45 days after receipt of an application by t
 
 #### (C) Capital grants
 
-&emsp;&emsp;In making capital grants under the terms of this subsection, using the amounts that the Secretary has recaptured from contracts for interest reduction payments, the Secretary shall ensure that the rates and amounts of outlays do not at any time exceed the rates and amounts of outlays that would have been experienced if the insured mortgage had not been extinguished or the principal amount had not been written down, and the interest reduction payments that the Secretary has recaptured had continued in accordance with the terms in effect immediately prior to such extinguishment or write-down.
+&emsp;&emsp;In making capital grants under the terms of this subsection, using the amounts that the Secretary has recaptured from contracts for interest reduction payments, the Secretary shall ensure that the rates and amounts of outlays do not at any time exceed the rates and amounts of outlays that would have been experienced if the insured mortgage had not been extinguished or theprincipal amount had not been written down, and the interest reduction payments that the Secretary has recaptured had continued in accordance with the terms in effect immediately prior to such extinguishment or write-down.
 
 #### (D) Loans
 
@@ -316,7 +316,7 @@ The Secretary shall, not later than 45 days after receipt of an application by t
 
 #### References in Text
 
-The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (f)(1)(B)(iii), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which is classified principally to chapter 42 (§4101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (f)(1)(B)(iii), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which is classified principally to chapter 42 (§4101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (f)(1)(B)(iii), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under section 1715l of this title and which amended section 1715z–6 of this title, were amended generally by Pub. L. 101–625 and are classified to subchapter I (§4101 et seq.) of chapter 42 of this title. Subtitles C and D of title II amended section 1715z–15 of this title and sections 1437f, 1472, 1485, and 1487 of Title 42, The Public Health and Welfare. Another subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, is classified generally to subchapter II (§4141 et seq.) of chapter 42 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
@@ -484,7 +484,7 @@ Pub. L. 96–71 substituted "October 31, 1979" for "September 30, 1979."
 
 <b>1978</b>—Subsec. (f)(3). Pub. L. 95–557, §201(k)(1), formerly §201(i)(1), designated existing provisions as par. (A), substituted "For each fiscal year prior to the fiscal year 1979, the" for "The", and added par. (B).
 
-Subsec. (g). Pub. L. 95–557, §201(k)(2), formerly §201(i)(2), struck out provisions authorizing, that ifduring any period the balance in reserve fund was adequate to meet additional assistance payments, such excess charges be credited to the appropriation authorized by subsec. (i), and be available until the end of the next fiscal year for purpose of making assistance payments with respect to rental housing projects, and that for purpose of this subsection and par. (3) of subsec. (f), initial operating expense level for any project assisted under a contract entered into prior to Oct. 12, 1977, be established by the Secretary not later than 180 days after Oct. 12, 1977.
+Subsec. (g). Pub. L. 95–557, §201(k)(2), formerly §201(i)(2), struck out provisions authorizing, that if during any period the balance in reserve fund was adequate to meet additional assistance payments, such excess charges be credited to the appropriation authorized by subsec. (i), and be available until the end of the next fiscal year for purpose of making assistance payments with respect to rental housing projects, and that for purpose of this subsection and par. (3) of subsec. (f), initial operating expense level for any project assisted under a contract entered into prior to Oct. 12, 1977, be established by the Secretary not later than 180 days after Oct. 12, 1977.
 
 Subsec. (n). Pub. L. 95–557, §301(e), substituted "September 30, 1979" for "October 31, 1978".
 
@@ -616,7 +616,7 @@ Pub. L. 101–45, title II, June 30, 1989, 103 Stat. 127, provided: "That notwit
 
 #### Direct Financing Study by Secretary of Housing and Urban Development and Secretary of the Treasury; Report to Congress; Transmittal Not Later Than One Year After August 22, 1974
 
-Pub. L. 93–383, title VIII, §822, Aug. 22, 1974, 88 Stat. 740, directed Secretary of Housing and Urban Development and Secretary of the Treasury to study feasibility of financing programs authorized under section 236 of the National Housing Act \[this section\] and section 802 of this Act \[42 U.S.C. 1440\] through various financing methods, including direct loans from Federal Financing Bank, with a view to determining whether there was any method that would result in net savings toFederal Government (after taking into account direct and indirect effects of such method) and to transmit to Congress a report on study not later than one year after Aug. 22, 1974.
+Pub. L. 93–383, title VIII, §822, Aug. 22, 1974, 88 Stat. 740, directed Secretary of Housing and Urban Development and Secretary of the Treasury to study feasibility of financing programs authorized under section 236 of the National Housing Act \[this section\] and section 802 of this Act \[42 U.S.C. 1440\] through various financing methods, including direct loans from Federal Financing Bank, with a view to determining whether there was any method that would result in net savings to Federal Government (after taking into account direct and indirect effects of such method) and to transmit to Congress a report on study not later than one year after Aug. 22, 1974.
 
 #### Transfer of Insurance of Mortgages Not Finally Endorsed for Insurance Under Section 1715l(d)(3) of This Title
 

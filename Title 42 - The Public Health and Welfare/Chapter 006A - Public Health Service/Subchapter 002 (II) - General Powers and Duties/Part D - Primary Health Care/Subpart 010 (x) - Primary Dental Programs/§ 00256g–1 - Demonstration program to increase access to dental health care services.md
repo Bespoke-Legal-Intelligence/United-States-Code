@@ -8,7 +8,7 @@
 
 #### (2) Definition
 
-&emsp;The term "alternative dental health care providers" includes community dental healthcoordinators, advance practice dental hygienists, independent dental hygienists, supervised dental hygienists, primary care physicians, dental therapists, dental health aides, and any other health professional that the Secretary determines appropriate.
+&emsp;The term "alternative dental health care providers" includes community dental health coordinators, advance practice dental hygienists, independent dental hygienists, supervised dental hygienists, primary care physicians, dental therapists, dental health aides, and any other health professional that the Secretary determines appropriate.
 
 #### (b) Timeframe
 

@@ -20,7 +20,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (5) Licensed State
 
-&emsp;The term "licensed State" means any State, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands in which the redomesticatinginsurer has a certificate of authority in effect immediately prior to the redomestication.
+&emsp;The term "licensed State" means any State, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands in which the redomesticating insurer has a certificate of authority in effect immediately prior to the redomestication.
 
 #### (6) Mutual insurer
 

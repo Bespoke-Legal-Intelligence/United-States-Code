@@ -16,7 +16,7 @@ In determining, for the purposes of this chapter, the price for which an article
 
 &emsp;&emsp;(C) sold (otherwise than through an arm's length transaction) at less than the fair market price,
 
-> &emsp;the tax under this chapter shall (if based on the price for which the article is sold) be computed on the price for which such articles are sold, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. In the case of an article sold at retail, the computation under the preceding sentence shall be on whichever of the following prices is the lower: (i) the price for which such article is sold, or (ii) the highest price for which such articles are sold to wholesale distributors, in the ordinary course oftrade, by manufacturers or producers thereof, as determined by the Secretary. This paragraph shall not apply if paragraph (2) applies.
+> &emsp;the tax under this chapter shall (if based on the price for which the article is sold) be computed on the price for which such articles are sold, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. In the case of an article sold at retail, the computation under the preceding sentence shall be on whichever of the following prices is the lower: (i) the price for which such article is sold, or (ii) the highest price for which such articles are sold to wholesale distributors, in the ordinary course of trade, by manufacturers or producers thereof, as determined by the Secretary. This paragraph shall not apply if paragraph (2) applies.
 
 #### (2) Special rule
 
@@ -38,7 +38,7 @@ In determining, for the purposes of this chapter, the price for which an article
 
 &emsp;&emsp;(B) such distributor regularly sells such article to one or more independent retailers, but does not regularly sell to wholesale distributors,
 
-> &emsp;the constructive sale price of such article shall be 90 percent of the lowest price for which such distributor regularly sells such article in arm's-length transactions to such independent retailers. The price determined under this paragraph shall not be adjusted for any exclusion (except for the tax imposed on such article) or readjustments under subsections (a) and (e) and under section 6416(b)(1). If both this paragraph and paragraph (4) apply with respect to an article, the constructive sale price for such article shall be the lower of the constructive sale price determined under this paragraph or paragraph (4).
+> &emsp;the constructive sale price of such article shall be 90 percent of the lowest price for which such distributor regularly sells such article in arm's-length transactions to such independent retailers. The price determined under this paragraph shall not be adjusted for any exclusion (except for the tax imposed on such article) or readjustments under subsections (a) and (e) and under section 6416(b)(1). If both this paragraph and paragraph (4) apply with respect to an article, theconstructive sale price for such article shall be the lower of the constructive sale price determined under this paragraph or paragraph (4).
 
 #### (4) Constructive sale price in case of certain other articles
 
@@ -80,7 +80,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;(1) there shall be paid an amount equal to the difference between (A) the tax previously paid on the payments on such installment accounts, and (B) the total tax which would be payable if such installment accounts had not been sold or otherwise disposed of (computed as provided in subsection (c)); except that
 
-&emsp;(2) if any such sale is pursuant to the order of, or subject to the approval of, a court ofcompetent jurisdiction in a bankruptcy or insolvency proceeding, the amount computed under paragraph (1) shall not exceed the sum of the amounts computed by multiplying (A) the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment by (B) the rate of tax under this chapter in effect on the date such unpaid installment payment is or was due.
+&emsp;(2) if any such sale is pursuant to the order of, or subject to the approval of, a court of competent jurisdiction in a bankruptcy or insolvency proceeding, the amount computed under paragraph (1) shall not exceed the sum of the amounts computed by multiplying (A) the proportionate share of the amount for which such accounts are sold which is allocable to each unpaid installment payment by (B) the rate of tax under this chapter in effect on the date such unpaid installment payment is or was due.
 
 > The sum of the amounts payable under this subsection and subsection (c) in respect of the sale of any article shall not exceed the total tax.
 
@@ -104,7 +104,7 @@ If installment accounts, with respect to payments on which tax is being computed
 
 &emsp;&emsp;(A) The sum of (i) the aggregate of the charges for local advertising excluded under paragraph (1), plus (ii) the aggregate of the readjustments for local advertising under section 6416(b)(1) (relating to credits or refunds for price readjustments), shall not exceed
 
-&emsp;&emsp;(B) 5 percent of the aggregate of the prices (determined under this section by excluding all charges for local advertising) at which such articles were sold in sales on which tax was imposed by such section of this chapter.
+&emsp;&emsp;(B) 5 percent of the aggregate of the prices (determined under this section by excluding all charges for local advertising) at whichsuch articles were sold in sales on which tax was imposed by such section of this chapter.
 
 > &emsp;The preceding sentence shall be applied to each manufacturer, producer, and importer as of the close of each calendar quarter, taking into account the items specified in subparagraphs (A) and (B) for such calendar quarter and preceding calendar quarters in the same calendar year.
 
@@ -170,7 +170,7 @@ Subsec. (e)(2). Pub. L. 89–44, §207(b)(2), substituted, as factor (A) in the 
 
 Subsec. (g). Pub. L. 89–44, §801(b), added subsec. (g).
 
-<b>1962</b>—Subsec. (b)(2)(C). Pub. L. 87–858 inserted "in the case of articles upon which tax is imposed under section 4061(a) (relating to automobiles, trucks, etc.), 4191 (relating to business machines), or 4211 (relating to matches)," before "the normal method".
+<b>1962</b>—Subsec. (b)(2)(C). Pub. L. 87–858 inserted "in the case of articles upon which tax is imposed under section 4061(a) (relating to automobiles, trucks, etc.), 4191\(relating to business machines), or 4211 (relating to matches)," before "the normal method".
 
 Subsec. (f)(4)(C). Pub. L. 87–770 substituted ", appears in a newspaper or magazine, or is displayed by means of an outdoor advertising sign or poster" for "or appears in a newspaper".
 
@@ -222,7 +222,7 @@ Pub. L. 89–44, title VIII, §801(e), June 21, 1965, 79 Stat. 158, provided tha
 
 #### Effective Date of 1962 Amendments
 
-Pub. L. 87–858, §1(b), Oct. 23, 1962, 76 Stat. 1134, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after October 1, 1962."
+Pub. L. 87–858, §1(b), Oct. 23, 1962, 76 Stat. 1134, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold by the manufacturer, producer, or importer on or after October 1, 1962."
 
 Pub. L. 87–770, §2(b), Oct. 9, 1962, 76 Stat. 768, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to articles sold on or after the first day of the first calendar quarter beginning more than 20 days after the date of the enactment of this Act \[Oct. 9, 1962\]."
 

@@ -48,7 +48,7 @@ The Secretary shall ensure that the program—
 
 #### (d) National Exercise Program
 
-The Secretary shall ensure that the exercise program developed under subsection (a) is acomponent of the National Exercise Program established under section 748 of this title.
+The Secretary shall ensure that the exercise program developed under subsection (a) is a component of the National Exercise Program established under section 748 of this title.
 
 #### (e) Ferry system exemption
 

@@ -98,7 +98,7 @@ Process.—The Director of the Office of Management and Budget, in consultation 
 
 &emsp;(2)
 
-Metrics and performance indicators.—The Director of the Office of Management and Budget, in consultation with the Chief Information Officers of appropriate agencies, shall develop standardized cost savings and cost avoidance metrics and performance indicators for use by agencies for the process implemented under paragraph (1).
+Metrics and performance indicators.—The Director of the Office of Management and Budget, in consultation with the Chief Information Officers of appropriate agencies, shall develop standardized cost savings and cost avoidance metrics and performance indicatorsfor use by agencies for the process implemented under paragraph (1).
 
 &emsp;(3)
 

@@ -72,7 +72,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;&emsp;&emsp;(ii) in the case of a policy of difference in conditions, multiple peril, all risk, or other blanket coverage insuring nonresidential commercial property, is <sup>1</sup> recognized, or not disapproved, as a surplus lines insurer by the insurance regulator of the State or jurisdiction where the property to be insured is located;
 
-&emsp;&emsp;(B) provides flood insurance coverage which is at least as broad as the coverage provided under a standard flood insurance policy under the national flood insurance program, including when considering deductibles, exclusions, and conditions offered by the insurer;
+&emsp;&emsp;(B) provides flood insurance coverage which is at least as broad as the coverageprovided under a standard flood insurance policy under the national flood insurance program, including when considering deductibles, exclusions, and conditions offered by the insurer;
 
 &emsp;&emsp;(C) includes—
 
@@ -84,7 +84,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;&emsp;&emsp;(ii) information about the availability of flood insurance coverage under the national flood insurance program;
 
-&emsp;&emsp;&emsp;(iii) a mortgage interest clause similar to the clause contained in a standard floodinsurance policy under the national flood insurance program; and
+&emsp;&emsp;&emsp;(iii) a mortgage interest clause similar to the clause contained in a standard flood insurance policy under the national flood insurance program; and
 
 &emsp;&emsp;&emsp;(iv) a provision requiring an insured to file suit not later than 1 year after date of a written denial of all or part of a claim under the policy; and
 
@@ -200,7 +200,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (C) Effect of failure to respond
 
-&emsp;&emsp;If a request under subparagraph (A) is made in connection with the origination of a loan and the Administrator fails to provide a letter under subparagraph (A) before the later of (i) the expiration of the 45-day period under such subparagraph, or (ii) the closing of the loan, no person shall have an obligation under this title <sup>2</sup> to require the purchase of flood insurance for the building or mobile home securing the loan until such letter is provided.
+&emsp;&emsp;If a request under subparagraph (A) is made in connection with the origination of aloan and the Administrator fails to provide a letter under subparagraph (A) before the later of (i) the expiration of the 45-day period under such subparagraph, or (ii) the closing of the loan, no person shall have an obligation under this title <sup>2</sup> to require the purchase of flood insurance for the building or mobile home securing the loan until such letter is provided.
 
 #### (6) Applicability
 
@@ -280,7 +280,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (h) Fee for determining location
 
-Notwithstanding any other Federal or State law, any person who makes a loan secured by improved real estate or a mobile home or any servicer for such a loan may charge a reasonable fee for the costs of determining whether the building or mobile home securing the loan is located in an area having special flood hazards, but only in accordance with the following requirements:
+Notwithstanding any other Federal or State law, any person who makes a loan secured by improved real estate or a mobile home or any servicer for such a loan may charge a reasonable fee for the costs of determining whether thebuilding or mobile home securing the loan is located in an area having special flood hazards, but only in accordance with the following requirements:
 
 #### (1) Borrower fee
 
@@ -288,7 +288,7 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 
 &emsp;&emsp;(A) is made pursuant to the making, increasing, extending, or renewing of the loan that is initiated by the borrower;
 
-&emsp;&emsp;(B) is made pursuant to a revision or updating under section 1360(f) <sup>4</sup> \[42 U.S.C. 4101(f)\] of the floodplain areas and flood-riskzones or publication of a notice or compendia under subsection (h) or (i) of section 1360 <sup>4</sup> \[42 U.S.C. 4101(h), (i)\] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Administrator, may reasonably be considered to require a determination under this subsection; or
+&emsp;&emsp;(B) is made pursuant to a revision or updating under section 1360(f) <sup>4</sup> \[42 U.S.C. 4101(f)\] of the floodplain areas and flood-risk zones or publication of a notice or compendia under subsection (h) or (i) of section 1360 <sup>4</sup> \[42 U.S.C. 4101(h), (i)\] that affects the area in which the improved real estate or mobile home securing the loan is located or that, in the determination of the Administrator, may reasonably be considered to require a determination under this subsection; or
 
 &emsp;&emsp;(C) results in the purchase of flood insurance coverage pursuant to the requirement under subsection (e)(2).
 
@@ -302,7 +302,7 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 
 #### References in Text
 
-The National Flood Insurance Act of 1968, referred to in subsecs. (a), (b), (d)(1), and (e)(1), and the Act, referred to in subsec. (b), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to this chapter (§4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+The National Flood Insurance Act of 1968, referred to in subsecs. (a), (b), (d)(1), and (e)(1), and the Act, referred to in subsec. (b), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to this chapter (§4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 The Federal Financial Institutions Examination Council Act of 1974, referred to in subsec. (b)(1), probably means the Federal Financial Institutions Examination Council Act of 1978, Pub. L. 95–630, title X, Nov. 10, 1978, 92 Stat. 3694, which is classified principally to chapter 34 (§3301 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 12 and Tables.
 
@@ -344,7 +344,7 @@ Subsec. (c)(1). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" f
 
 Subsec. (d)(1). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-Pub. L. 112–141, §100209(a), amended par. (1) generally. Prior to amendment, text read as follows: "Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed."
+Pub. L. 112–141, §100209(a), amended par. (1) generally. Prior to amendment, text read as follows: "Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicerof the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed."
 
 Subsec. (e)(1). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
@@ -430,7 +430,7 @@ Pub. L. 113–89, §25(b)(3), Mar. 21, 2014, 128 Stat. 1032, provided that: "Not
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

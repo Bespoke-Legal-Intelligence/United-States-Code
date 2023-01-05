@@ -8,7 +8,7 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 #### (1) Limitation based on adjusted gross income
 
-&emsp;The amount of the credit allowable under subsection (a) shall be reduced (but not belowzero) by $50 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income exceeds the threshold amount. For purposes of the preceding sentence, the term "modified adjusted gross income" means adjusted gross income increased by any amount excluded from gross income under section 911, 931, or 933.
+&emsp;The amount of the credit allowable under subsection (a) shall be reduced (but not below zero) by $50 for each $1,000 (or fraction thereof) by which the taxpayer's modified adjusted gross income exceeds the threshold amount. For purposes of the preceding sentence, the term "modified adjusted gross income" means adjusted gross income increased by any amount excluded from gross income under section 911, 931, or 933.
 
 #### (2) Threshold amount
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (f) Taxable year must be full taxable year
 
-Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
+Except in the case of a taxable year closed by reason of the death of the taxpayer, no creditshall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
 
 #### (g) Restrictions on taxpayers who improperly claimed credit in prior year
 
@@ -192,7 +192,7 @@ In the case of any taxable year beginning after December 31, 2020, and before Ja
 
 #### (3) Credit amount
 
-&emsp;Subsection (h)(2) shall not apply and subsection (a) shall be applied by substituting"$3,000 ($3,600 in the case of a qualifying child who has not attained age 6 as of the close of the calendar year in which the taxable year of the taxpayer begins)" for "$1,000".
+&emsp;Subsection (h)(2) shall not apply and subsection (a) shall be applied by substituting "$3,000 ($3,600 in the case of a qualifying child who has not attained age 6 as of the close of the calendar year in which the taxable year of the taxpayer begins)" for "$1,000".
 
 #### (4) Reduction of increased credit amount based on modified adjusted gross income
 
@@ -274,7 +274,7 @@ In the case of any taxable year beginning after December 31, 2020, and before Ja
 
 #### (iv) Safe harbor amount
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "safe harbor amount" means, with respect to any taxable year, the product of—
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "safe harbor amount" means, withrespect to any taxable year, the product of—
 
 &emsp;&emsp;&emsp;&emsp;(I) $2,000, multiplied by
 
@@ -340,7 +340,7 @@ In the case of any taxable year beginning after December 31, 2020, and before Ja
 
 &emsp;For purposes of section 1324 of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
 
-(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321; Pub. L. 113–295, div. A, title II, §209(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §807(a), June 29, 2015, 129 Stat.418; Pub. L. 114–113, div. Q, title I, §101(a), (b), title II, §§205(a), (b), 208(a)(1), Dec. 18, 2015, 129 Stat. 3044, 3081, 3083; Pub. L. 115–97, title I, §11022(a), Dec. 22, 2017, 131 Stat. 2073; Pub. L. 115–141, div. U, title I, §101(i)(1), title IV, §401(a)(3), Mar. 23, 2018, 132 Stat. 1162, 1184; Pub. L. 117–2, title IX, §§9611(a), (b)(2), 9612(a), Mar. 11, 2021, 135 Stat. 144, 148, 150.)
+(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321; Pub. L. 113–295, div. A, title II, §209(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §807(a), June 29, 2015, 129 Stat. 418; Pub. L. 114–113, div. Q, title I, §101(a), (b), title II, §§205(a), (b), 208(a)(1), Dec. 18, 2015, 129 Stat. 3044, 3081, 3083; Pub. L. 115–97, title I, §11022(a), Dec. 22, 2017, 131 Stat. 2073; Pub. L. 115–141, div. U, title I, §101(i)(1), title IV, §401(a)(3), Mar. 23, 2018, 132 Stat. 1162, 1184; Pub. L. 117–2, title IX, §§9611(a), (b)(2), 9612(a), Mar. 11, 2021, 135 Stat. 144, 148, 150.)
 
 #### Inflation Adjusted Items for Certain Years
 
@@ -504,7 +504,7 @@ Subsec. (d)(4). Pub. L. 107–16, §201(c)(2), added par. (4). Former par. (4) r
 
 <b>1999</b>—Subsec. (d)(2). Pub. L. 106–170 substituted "2001" for "1998" in introductory provisions.
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–206, §6003(a)(1)(C), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "In the case of a taxpayer with 3 or more qualifying children for any taxable year, the amount of the credit allowed under this section shall be equal to the greater of—
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–206, §6003(a)(1)(C), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "In the case of a taxpayer with 3 or more qualifying children for anytaxable year, the amount of the credit allowed under this section shall be equal to the greater of—
 
 &emsp;"(A) the amount of the credit allowed under this section (without regard to this subsection and after application of the limitation under section 26), or
 
@@ -512,7 +512,7 @@ Subsec. (d)(4). Pub. L. 107–16, §201(c)(2), added par. (4). Former par. (4) r
 
 Subsec. (d)(2). Pub. L. 105–277 substituted "For taxable years beginning after December 31, 1998, the credit" for "The credit".
 
-Pub. L. 105–206, §6003(a)(1)(C), added par. (2) and struck out heading and text of former par. (2). Textread as follows: "For purposes of this subsection, the alternative credit amount is the amount of the credit which would be allowed under this section if the limitation under paragraph (3) were applied in lieu of the limitation under section 26."
+Pub. L. 105–206, §6003(a)(1)(C), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "For purposes of this subsection, the alternative credit amount is the amount of the credit which would be allowed under this section if the limitation under paragraph (3) were applied in lieu of the limitation under section 26."
 
 Subsec. (d)(3). Pub. L. 105–206, §6003(a)(1)(A), (B), (2), redesignated par. (5) as (3), substituted "paragraph (1)" for "paragraph (3)" in introductory provisions, and struck out heading and text of former par. (3). Text read as follows: "The limitation under this paragraph for any taxable year is the limitation under section 26 (without regard to this subsection)—
 
@@ -586,7 +586,7 @@ Pub. L. 111–5, div. B, title I, §1003(b), Feb. 17, 2009, 123 Stat. 313, provi
 
 Pub. L. 111–5, div. B, title I, §1004(d), Feb. 17, 2009, 123 Stat. 315, provided that: "The amendments made by this section \[amending this section, sections 25 to 25B, 26, 904, 1400C, and 6211 of this title, and section 1324 of Title 31, Money and Finance\] shall apply to taxable years beginning after December 31, 2008."
 
-Pub. L. 111–5, div. B, title I, §1004(e), Feb. 17, 2009, 123 Stat. 315, provided that: "The amendment made by subsection (b)(1) \[amending this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which was repealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provision of such Act to which such amendment relates."
+Pub. L. 111–5, div. B, title I, §1004(e), Feb. 17, 2009, 123 Stat. 315, provided that: "The amendment made by subsection (b)(1) \[amending this section\] shall be subject to title IX of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16, §901, which wasrepealed by Pub. L. 112–240, title I, §101(a)(1), Jan. 2, 2013, 126 Stat. 2315, was formerly set out as an Effective and Termination Dates of 2001 Amendment note under section 1 of this title\] in the same manner as the provision of such Act to which such amendment relates."
 
 Pub. L. 111–5, div. B, title I, §1142(c), Feb. 17, 2009, 123 Stat. 331, provided that: "The amendments made by this section \[amending this section and sections 25, 25B, 26, 30, 30B, 30C, 53, 55, 904, 1016, 1400C, and 6501 of this title\] shall apply to vehicles acquired after the date of the enactment of this Act \[Feb. 17, 2009\]."
 

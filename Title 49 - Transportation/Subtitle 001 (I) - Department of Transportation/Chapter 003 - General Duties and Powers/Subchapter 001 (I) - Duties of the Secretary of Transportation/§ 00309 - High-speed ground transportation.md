@@ -34,7 +34,7 @@
 
 (E) Recipients of grants or contracts made pursuant to this paragraph shall agree to submit a report to the Secretary detailing the results and benefits of the technology demonstration proposed, as required by the Secretary.
 
-(c)(1) In carrying out the responsibilities of the Secretary under this section, the Secretary is authorized to enter into 1 or more cooperative research and development agreements (as defined by section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a)), and 1 or more funding agreements (as defined by section 201(b) of title 35, United States Code), with United States companies for the purpose of—
+(c)(1) In carrying out the responsibilities of the Secretary under this section, the Secretary is authorized to enter into 1 or more cooperative research and development agreements (as defined by section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C.3710a)), and 1 or more funding agreements (as defined by section 201(b) of title 35, United States Code), with United States companies for the purpose of—
 
 &emsp;(A) conducting research to overcome technical and other barriers to the development and construction of practicable high-speed ground transportation systems and to help advance the basic generic technologies needed for these systems; and
 
@@ -124,7 +124,7 @@
 
 Section 1036(b) of the Intermodal Surface Transportation Efficiency Act of 1991, referred to in subsecs. (b)(2)(A) and (d)(3)(B), is section 1036(b) of Pub. L. 102–240, which is set out below.
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(3), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 Section 7 of the Rail Safety Improvement Act of 1988, referred to in subsec. (d)(3)(C), is section 7 of Pub. L. 100–342, which amended section 431 of Title 45, Railroads.
 

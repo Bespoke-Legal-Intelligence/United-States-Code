@@ -76,7 +76,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall, without further appropriation, disburse to producing States and coastal political subdivisions in accordance with this section $250,000,000 for each of fiscal years 2007 through 2010.
+&emsp;The Secretary shall, without further appropriation, disburse to producing States andcoastal political subdivisions in accordance with this section $250,000,000 for each of fiscal years 2007 through 2010.
 
 #### (2) Disbursement
 
@@ -160,7 +160,7 @@ In this section:
 
 #### (C) Waiver
 
-&emsp;&emsp;The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c).
+&emsp;&emsp;The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable sharein escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c).
 
 #### (c) Coastal impact assistance plan
 
@@ -272,7 +272,7 @@ In this section:
 
 #### References in Text
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (a)(2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (a)(2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 16 and Tables.
 
 Sections 107 through 109 of division E of the Consolidated Appropriations Act, 2005, referred to in subsec. (a)(7), are sections 107 to 109 of Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3063, 3064, which are not classified to the Code.
 

@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) the methodology the group health plan or health insurance issuer offering group or individual health insurance coverage shall use to determine the qualifying payment amount, differentiating by individual market, large group market, and small group market;
 
-&emsp;&emsp;&emsp;(ii) the information such plan or issuer, respectively, shall share with the nonparticipating provider or nonparticipatingfacility, as applicable, when making such a determination;
+&emsp;&emsp;&emsp;(ii) the information such plan or issuer, respectively, shall share with the nonparticipating provider or nonparticipating facility, as applicable, when making such a determination;
 
 &emsp;&emsp;&emsp;(iii) the geographic regions applied for purposes of this subparagraph, taking into account access to items and services in rural and underserved areas, including health professional shortage areas, as defined in section 254e of this title; and
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) for an item or service furnished during 2022 (or, in the case of a newly covered item or service, during the first coverage year for such item or service with respect to such plan or coverage), means such rate for such item or service determined by the sponsor or issuer, respectively, through use of any database that is determined, in accordance with rulemaking described in paragraph (2)(B), to not have any conflicts of interest and to have sufficient information reflecting allowed amounts paid to a health care provider or facility for relevant services furnished in the applicable geographic region (such as a State all-payer claims database);
 
-&emsp;&emsp;&emsp;&emsp;(II) for an item or service furnished in a subsequent year (before the first sufficient information year (as defined in clause (v)(II)) for such item or service with respect to such plan or coverage), means the rate determined under subclause (I) or this subclause, as applicable, for such item or service for the year previous to such subsequent year, increased by the percentage increase in theconsumer price index for all urban consumers (United States city average) over such previous year;
+&emsp;&emsp;&emsp;&emsp;(II) for an item or service furnished in a subsequent year (before the first sufficient information year (as defined in clause (v)(II)) for such item or service with respect to such plan or coverage), means the rate determined under subclause (I) or this subclause, as applicable, for such item or service for the year previous to such subsequent year, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) over such previous year;
 
 &emsp;&emsp;&emsp;&emsp;(III) for an item or service furnished in the first sufficient information year for such item or service with respect to such plan or coverage, has the meaning given the term qualifying payment amount in clause (i)(I), except that in applying such clause to such item or service, the reference to "furnished during 2022" shall be treated as a reference to furnished during such first sufficient information year, the reference to "in 2019" <sup>1</sup> shall be treated as a reference to such sufficient information year, and the increase described in such clause shall not be applied; and
 
@@ -194,7 +194,7 @@
 
 #### (i) Nonparticipating provider
 
-&emsp;&emsp;&emsp;The term "nonparticipating provider" means, with respect to an item or service and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, a physician or other health care provider who is acting within the scope of practice of that provider's license or certification under applicable State law and who does not have a contractual relationship with the plan or issuer, respectively, for furnishing suchitem or service under the plan or coverage, respectively.
+&emsp;&emsp;&emsp;The term "nonparticipating provider" means, with respect to an item or service and a group health plan or group or individual health insurance coverage offered by a health insurance issuer, a physician or other health care provider who is acting within the scope of practice of that provider's license or certification under applicable State law and who does not have a contractual relationship with the plan or issuer, respectively, for furnishing such item or service under the plan or coverage, respectively.
 
 #### (ii) Participating provider
 
@@ -206,7 +206,7 @@
 
 &emsp;&emsp;&emsp;(i) subject to clause (iii), in the case of such item or service furnished in a State that has in effect a specified State law with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount determined in accordance with such law;
 
-&emsp;&emsp;&emsp;(ii) subject to clause (iii), in the case of such item or service furnished in a State that does not have in effect a specified State law, with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) <sup>2</sup> for such year and determined in accordance with rulemaking described in paragraph (2)(B)) <sup>2</sup> for such item or service; or
+&emsp;&emsp;&emsp;(ii) subject to clause (iii), in the case of such item or service furnished in a Statethat does not have in effect a specified State law, with respect to such plan, coverage, or issuer, respectively; such a nonparticipating provider or nonparticipating emergency facility; and such an item or service, the amount that is the qualifying payment amount (as defined in subparagraph (E)) <sup>2</sup> for such year and determined in accordance with rulemaking described in paragraph (2)(B)) <sup>2</sup> for such item or service; or
 
 &emsp;&emsp;&emsp;(iii) in the case of such item or service furnished in a State with an All-Payer Model Agreement under section 1115A of the Social Security Act \[42 U.S.C. 1315a\], the amount that the State approves under such system for such item or service so furnished.
 
@@ -246,7 +246,7 @@
 
 &emsp;&emsp;(B) shall calculate such cost-sharing requirement as if the total amount that would have been charged for such items and services by such participating provider were equal to the recognized amount (as defined in subsection (a)(3)(H)) for such items and services, plan or coverage, and year;
 
-&emsp;&emsp;(C) not later than 30 calendar days after the bill for such services is transmitted by such provider, shall send to the provider an initial payment or notice of denial of payment;
+&emsp;&emsp;(C) not later than 30 calendar days after the bill for such services is transmitted bysuch provider, shall send to the provider an initial payment or notice of denial of payment;
 
 &emsp;&emsp;(D) shall pay a total plan or coverage payment directly, in accordance, if applicable, with the timing requirement described in subsection (c)(6), to such provider furnishing such items and services to such participant, beneficiary, or enrollee that is, with application of any initial payment under subparagraph (C), equal to the amount by which the out-of-network rate (as defined in subsection (a)(3)(K)) for such items and services involved exceeds the cost-sharing amount imposed under the plan or coverage, respectively, for such items and services (as determined in accordance with subparagraphs (A) and (B)) and year; and
 
@@ -286,7 +286,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to an item or service furnished in a year by a nonparticipating provider or a nonparticipating facility, with respect to a group health plan or health insurance issuer offering group or individual health insurance coverage, in a State described in subsection (a)(3)(K)(ii) with respect to such plan or coverage and provider or facility, and for which a payment is required to be made by the plan or coverage pursuant to subsection (a)(1) or (b)(1), the provider or facility (as applicable) or plan or coverage may, during the 30-day period beginning on the day the provider or facility receives an initial payment or a notice of denial of payment from the plan or coverage regarding a claim for payment for such item or service, initiate open negotiations underthis paragraph between such provider or facility and plan or coverage for purposes of determining, during the open negotiation period, an amount agreed on by such provider or facility, respectively, and such plan or coverage for payment (including any cost-sharing) for such item or service. For purposes of this subsection, the open negotiation period, with respect to an item or service, is the 30-day period beginning on the date of initiation of the negotiations with respect to such item or service.
+&emsp;&emsp;With respect to an item or service furnished in a year by a nonparticipating provider or a nonparticipating facility, with respect to a group health plan or health insurance issuer offering group or individual health insurance coverage, in a State described in subsection (a)(3)(K)(ii) with respect to such plan or coverage and provider or facility, and for which a payment is required to be made by the plan or coverage pursuant to subsection (a)(1) or (b)(1), the provider or facility (as applicable) or plan or coverage may, during the 30-day period beginning on the day the provider or facility receives an initial payment or a notice of denial of payment from the plan or coverage regarding a claim for payment for such item or service, initiate open negotiations under this paragraph between such provider or facility and plan or coverage for purposes of determining, during the open negotiation period, an amount agreed on by such provider or facility, respectively, and such plan or coverage for payment (including any cost-sharing) for such item or service. For purposes of this subsection, the open negotiation period, with respect to an item or service, is the 30-day period beginning on the date of initiation of the negotiations with respect to such item or service.
 
 #### (B) Accessing independent dispute resolution process in case of failed negotiations
 
@@ -452,7 +452,7 @@
 
 #### (iii) Subsequent submission of requests permitted
 
-&emsp;&emsp;&emsp;In the case of a notification that pursuant to clause (ii) is not permitted to besubmitted under paragraph (1)(B) during a 90-day period specified in such clause, if the end of the open negotiation period specified in paragraph (1)(A), that but for this clause would otherwise apply with respect to such notification, occurs during such 90-day period, such paragraph (1)(B) shall be applied as if the reference in such paragraph to the 4-day period beginning on the day after such open negotiation period were instead a reference to the 30-day period beginning on the day after the last day of such 90-day period.
+&emsp;&emsp;&emsp;In the case of a notification that pursuant to clause (ii) is not permitted to be submitted under paragraph (1)(B) during a 90-day period specified in such clause, if the end of the open negotiation period specified in paragraph (1)(A), that but for this clause would otherwise apply with respect to such notification, occurs during such 90-day period, such paragraph (1)(B) shall be applied as if the reference in such paragraph to the 4-day period beginning on the day after such open negotiation period were instead a reference to the 30-day period beginning on the day after the last day of such 90-day period.
 
 #### (iv) Reports
 
@@ -530,7 +530,7 @@
 
 #### (B) Amount of fee
 
-&emsp;&emsp;The amount described in this subparagraph for a year is an amount established by the Secretary in a manner such that the total amount of fees paid under this paragraph for such year is estimated to be equal to the amount of expenditures estimated to be made by the Secretary for such year in carrying out the IDR process.
+&emsp;&emsp;The amount described in this subparagraph for a year is an amount established by the Secretary in a manner such that the total amount of fees paid under this paragraph for such year is estimated to be equalto the amount of expenditures estimated to be made by the Secretary for such year in carrying out the IDR process.
 
 #### (9) Waiver authority
 
@@ -587,10 +587,6 @@ A group health plan or a health insurance issuer offering group or individual he
 &emsp;&emsp;For purposes of subparagraph (A), the term "specified item or service" means an item or service that has low utilization or significant variation in costs (such as when furnished as part of a complex treatment), as specified by the Secretary.
 
 (July 1, 1944, ch. 373, title XXVII, §2799A–1, as added and amended Pub. L. 116–260, div. BB, title I, §§102(a)(1), 103(a), 107(a), 111(a), Dec. 27, 2020, 134 Stat. 2759, 2797, 2858, 2861.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 107(a) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 

@@ -40,7 +40,7 @@ The Secretary shall ensure that the program—
 
 &emsp;&emsp;(A) evaluated by the Secretary against clear and consistent performance measures;
 
-&emsp;&emsp;(B) assessed by the Secretary to identify best practices, which shall be shared, as appropriate, with operators providing over-the-road bus transportation, nonprofit employee organizations that represent over-the-road bus employees, Federal, State, local, and tribal officials, governmental and nongovernmental emergency response providers, and law enforcement personnel; and
+&emsp;&emsp;(B) assessed by the Secretary to identify best practices, which shall be shared, as appropriate, with operators providing over-the-road bus transportation, nonprofit employee organizations that represent over-the-roadbus employees, Federal, State, local, and tribal officials, governmental and nongovernmental emergency response providers, and law enforcement personnel; and
 
 &emsp;&emsp;(C) used to develop recommendations, as appropriate, provided to over-the-road bus operators and terminal owners and operators on remedial action to be taken in response to lessons learned;
 

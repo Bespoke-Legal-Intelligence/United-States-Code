@@ -2,7 +2,7 @@
 
 It is the sense of the Congress that the following, which are based in part on the relevant provisions of the Joint Declaration, should be the policy of the United States after June 30, 1997, with respect to transportation from Hong Kong:
 
-&emsp;(1) Recognizing Hong Kong's position as an international transport center, the UnitedStates should continue to recognize ships and airplanes registered in Hong Kong and should negotiate air service agreements directly with Hong Kong.
+&emsp;(1) Recognizing Hong Kong's position as an international transport center, the United States should continue to recognize ships and airplanes registered in Hong Kong and should negotiate air service agreements directly with Hong Kong.
 
 &emsp;(2) The United States should continue to recognize ships registered by Hong Kong.
 

@@ -2,7 +2,7 @@
 
 #### (a) Lump-sum credit
 
-If a participant dies and no claim for annuity is payable under this part, the lump-sum credit shall be paid in accordance with section 4055 of this title.
+If a participant dies and no claim for annuity is payable under this part, the lump-sum creditshall be paid in accordance with section 4055 of this title.
 
 #### (b) Surviving spouse
 

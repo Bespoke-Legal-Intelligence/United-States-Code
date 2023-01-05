@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(ii) the quality of children's health care under such subchapters, including preventive health services, dental care, health care for acute conditions, chronic health care, and health services to ameliorate the effects of physical and mental conditions and to aid in growth and development of infants, young children, school-age children, and adolescents with special health care needs; and
 
-&emsp;&emsp;&emsp;(iii) the quality of children's health care under such subchapters across the domains of quality, including clinical quality, health care safety, family experience with health care, health care in the most integrated setting, and elimination of racial, ethnic, and socioeconomic disparities in health and health care;
+&emsp;&emsp;&emsp;(iii) the quality of children's health care under such subchapters across the domainsof quality, including clinical quality, health care safety, family experience with health care, health care in the most integrated setting, and elimination of racial, ethnic, and socioeconomic disparities in health and health care;
 
 &emsp;&emsp;(B) the status of voluntary reporting by States under subchapters XIX and XXI, utilizing the initial core quality measurement set and, beginning with the report required on January 1, 2025, and for each annual report thereafter, the status of mandatory reporting by States under subchapters XIX and XXI, utilizing the initial core quality measurement set and any updates or changes to that set; and
 
@@ -160,7 +160,7 @@
 
 #### (1) In general
 
-&emsp;During the period of fiscal years 2009 through 2013, the Secretary shall award not more than 10 grants to States and child health providers to conduct demonstration projectsto evaluate promising ideas for improving the quality of children's health care provided under subchapter XIX or XXI, including projects to—
+&emsp;During the period of fiscal years 2009 through 2013, the Secretary shall award not more than 10 grants to States and child health providers to conduct demonstration projects to evaluate promising ideas for improving the quality of children's health care provided under subchapter XIX or XXI, including projects to—
 
 &emsp;&emsp;(A) experiment with, and evaluate the use of, new measures of the quality of children's health care under such subchapters (including testing the validity and suitability for reporting of such measures);
 
@@ -240,7 +240,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) science-based interventions with multiple components to prevent eating disorders including nutritional content, understanding and responding to hunger and satiety, positive body image development, positive self-esteem development, and learning life skills (such as stress management, communication skills, problemsolving and decisionmaking skills), as well as consideration of cultural and developmental issues, and the role of family, school, and community;
 
-&emsp;&emsp;&emsp;(ii) providing education and training to educational professionals regarding how topromote a healthy lifestyle and a healthy school environment for children;
+&emsp;&emsp;&emsp;(ii) providing education and training to educational professionals regarding how to promote a healthy lifestyle and a healthy school environment for children;
 
 &emsp;&emsp;&emsp;(iii) planning and implementing a healthy lifestyle curriculum or program with an emphasis on healthy eating behaviors and physical activity; and
 
@@ -274,7 +274,7 @@
 
 &emsp;&emsp;(C) that provide non-Federal contributions, either in cash or in-kind, to the costs of funding activities under the grants;
 
-&emsp;&emsp;(D) that develop comprehensive plans that include a strategy for extending program activities developed under grants in the years following the fiscal years for which they receive grants under this subsection;
+&emsp;&emsp;(D) that develop comprehensive plans that include a strategy for extending program activities developed under grants in the yearsfollowing the fiscal years for which they receive grants under this subsection;
 
 &emsp;&emsp;(E) located in communities that are medically underserved, as determined by the Secretary;
 
@@ -412,19 +412,23 @@ Notwithstanding any other provision in this section, no evidence based quality m
 
 &emsp;&emsp;(B) for the period of fiscal years 2016 and 2017, $20,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g));
 
-&emsp;&emsp;(C) for the period of fiscal years 2018 through 2023, $90,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)); and
+&emsp;&emsp;(C) for the period of fiscal years 2018 through 2023, $90,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g));
 
-&emsp;&emsp;(D) for the period of fiscal years 2024 through 2027, $60,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)).
+&emsp;&emsp;(D) for the period of fiscal years 2024 through 2027, $60,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)); and
+
+&emsp;&emsp;(E) for each of fiscal years 2028 and 2029, $15,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g)).
 
 #### (2) Availability
 
 &emsp;Funds appropriated under this subsection shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), title V, §501(g), Feb. 4, 2009, 123 Stat. 72, 88; Pub. L. 111–148, title IV, §4306, Mar. 23, 2010, 124 Stat. 587; Pub. L. 114–10, title III, §304, Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, §3003, Jan. 22, 2018, 132 Stat. 36; Pub. L. 115–123, div. E, title I, §50102, Feb. 9, 2018, 132 Stat. 175.)
+(Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), title V, §501(g), Feb. 4, 2009, 123 Stat. 72, 88; Pub. L. 111–148, title IV, §4306, Mar. 23, 2010, 124 Stat. 587; Pub. L. 114–10, title III, §304, Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, §3003, Jan. 22, 2018, 132 Stat. 36; Pub. L. 115–123, div. E, title I, §50102, Feb. 9, 2018, 132 Stat. 175; Pub. L. 117–328, div. FF, title V, §5111(c)(1), Dec. 29, 2022, 136 Stat. 5939.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (i)(1)(E). Pub. L. 117–328 added subpar. (E).
 
 <b>2018</b>—Subsec. (a)(4). Pub. L. 115–123, §50102(b)(1)(A), (B), inserted "and mandatory reporting" after "reporting" in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
 
@@ -440,7 +444,7 @@ Subsec. (i)(1)(D). Pub. L. 115–123, §50102(a), added subpar. (D).
 
 <b>2015</b>—Subsec. (e)(8). Pub. L. 114–10, §304(a), inserted ", and $10,000,000 for the period of fiscal years 2016 and 2017" after "2014".
 
-Subsec. (i). Pub. L. 114–10, §304(b), inserted ", and there is appropriated for the period of fiscal years 2016 and 2017, $20,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g))" after "(other than subsection (e))".
+Subsec. (i). Pub. L. 114–10, §304(b), inserted ", and there is appropriated for the period of fiscal years 2016and 2017, $20,000,000 for the purpose of carrying out this section (other than subsections (e), (f), and (g))" after "(other than subsection (e))".
 
 <b>2010</b>—Subsec. (e)(8). Pub. L. 111–148 amended par. (8) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this subsection, $25,000,000 for the period of fiscal years 2009 through 2013."
 

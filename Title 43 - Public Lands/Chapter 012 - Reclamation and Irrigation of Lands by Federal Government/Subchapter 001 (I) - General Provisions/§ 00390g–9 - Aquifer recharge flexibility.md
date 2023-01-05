@@ -138,15 +138,11 @@ In this section:
 
 (Pub. L. 116–260, div. FF, title XI, §1105, Dec. 27, 2020, 134 Stat. 3237.)
 
-#### <b>Editorial Notes</b>
-
 #### References in Text
 
 This section, referred to in subsecs. (b) and (c)(4), (5), was in the original "this Act", which was translated as meaning section 1105 of Pub. L. 116–260, div. FF, title XI, Dec. 27, 2020, 134 Stat. 3237, to reflect the probable intent of Congress.
 
 Act of August 11, 1939, referred to in subsec. (b)(6), is act Aug. 11, 1939, ch. 717, 53 Stat. 1418, popularly known as the Water Conservation and Utilization Act, which is classified generally to subchapter II (§590y et seq.) of chapter 3C of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

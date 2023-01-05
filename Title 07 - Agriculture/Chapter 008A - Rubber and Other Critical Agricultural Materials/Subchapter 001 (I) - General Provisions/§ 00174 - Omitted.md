@@ -4,7 +4,7 @@
 
 #### Codification
 
-Section was from the Department of Agriculture Appropriation Act, 1946, act July 5, 1945, ch. 271, title I, 59 Stat. 423, provided for the disposition of proceeds from the sale of guayule and other rubber-bearing plants, and was not repeated in subsequent appropriation acts. Similar provisions were contained in prior appropriation acts as follows:
+Section was from the Department of Agriculture Appropriation Act, 1946, act July 5, 1945, ch. 271, title I, 59 Stat. 423, provided for the disposition of proceeds fromthe sale of guayule and other rubber-bearing plants, and was not repeated in subsequent appropriation acts. Similar provisions were contained in prior appropriation acts as follows:
 
 May 5, 1945, ch. 109, 59 Stat. 152.
 

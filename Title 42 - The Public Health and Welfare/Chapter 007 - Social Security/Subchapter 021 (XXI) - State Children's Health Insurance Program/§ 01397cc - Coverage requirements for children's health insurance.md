@@ -80,11 +80,11 @@ The benchmark benefit packages are as follows:
 
 #### (3) Treatment of other categories
 
-&emsp;Nothing in this subsection shall be construed as preventing a State child health plan from providing coverage of benefits that are not within a category of services described in paragraph (1) or (2).
+&emsp;Nothing in this subsection shall be construed as preventing a State child health plan from providing coverage of benefits that arenot within a category of services described in paragraph (1) or (2).
 
 #### (4) Determination of actuarial value
 
-&emsp;The actuarial value of coverage of benchmark benefit packages, coverage offered underthe State child health plan, and coverage of any categories of additional services under benchmark benefit packages and under coverage offered by such a plan, shall be set forth in an actuarial opinion in an actuarial report that has been prepared—
+&emsp;The actuarial value of coverage of benchmark benefit packages, coverage offered under the State child health plan, and coverage of any categories of additional services under benchmark benefit packages and under coverage offered by such a plan, shall be set forth in an actuarial opinion in an actuarial report that has been prepared—
 
 &emsp;&emsp;(A) by an individual who is a member of the American Academy of Actuaries;
 
@@ -148,7 +148,7 @@ The benchmark benefit packages are as follows:
 
 #### (8) Construction on prohibited coverage
 
-&emsp;Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for itemsor services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
+&emsp;Nothing in this section shall be construed as requiring any health benefits coverage offeredunder the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
 
 #### (9) Availability of coverage for items and services furnished through school-based health centers
 
@@ -258,7 +258,21 @@ The benchmark benefit packages are as follows:
 
 &emsp;The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), and (e) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965; Pub. L. 116–127, div. F, §6004(b)(1), (3), Mar. 18, 2020, 134 Stat. 206; Pub. L. 116–260, div. BB, title II, §203(a)(4)(C), Dec. 27, 2020, 134 Stat. 2917; Pub. L. 117–2, title IX, §9821(a), Mar. 11, 2021, 135 Stat. 219.)
+(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965; Pub. L. 116–127, div. F, §6004(b)(1), (3), Mar. 18, 2020, 134 Stat. 206; Pub. L. 116–260, div. BB, title II, §203(a)(4)(C), Dec. 27, 2020, 134 Stat. 2917; Pub. L. 117–2, title IX, §9821(a), Mar. 11, 2021, 135 Stat. 219; Pub. L. 117–169, title I, §11405(b), Aug. 16, 2022, 136 Stat. 1901.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–169, title I, §11405(b), (c), Aug. 16, 2022, 136 Stat. 1901, provided that, effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022, and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, this section is amended as follows:</i>
+
+<i>(1) in subsection (c), by adding at the end the following paragraph:</i>
+
+#### <i>"(12) Required coverage of approved, recommended adult vaccines and their administration</i>
+
+&emsp;<i>"Regardless of the type of coverage elected by a State under subsection (a), if the State child health plan or a waiver of such plan provides child health assistance or pregnancy-related assistance (as defined in section 1397ll of this title) to an individual who is 19 years of age or older, such assistance shall include coverage of vaccines described in section 1396d(a)(13)(B) of this title and their administration."; and</i>
+
+<i>(2) in subsection (e)(2), by inserting "vaccines described in subsection (c)(12) (and the administration of such vaccines)," after "in vitro diagnostic products described in subsection (c)(10) (and administration of such products),".</i>
+
+<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -278,9 +292,13 @@ exclusion of plans; enforcement; preemption" (preceding section 300gg–21 of th
 
 #### Amendments
 
+<b>2022</b>—Subsec. (c)(12). Pub. L. 117–169, §11405(b)(1), added par. (12).
+
+Subsec. (e)(2). Pub. L. 117–169, §11405(b)(2), inserted "vaccines described in subsection (c)(12) (and the administration of such vaccines)," after "in vitro diagnostic products described in subsection (c)(10) (and administration of such products),".
+
 <b>2021</b>—Subsec. (c)(11). Pub. L. 117–2, §9821(a)(1), added par. (11).
 
-Subsec. (e)(2). Pub. L. 117–2, §9821(a)(2), in heading, inserted "a COVID–19 vaccine, COVID–19 treatment," before "or pregnancy-related assistance" and, in text, substituted "services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described insuch section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or" for "visits described in section 1396o(a)(2)(G) of this title, or".
+Subsec. (e)(2). Pub. L. 117–2, §9821(a)(2), in heading, inserted "a COVID–19 vaccine, COVID–19 treatment," before "or pregnancy-related assistance" and, in text, substituted "services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or" for "visits described in section 1396o(a)(2)(G) of this title, or".
 
 <b>2020</b>—Subsec. (c)(7)(A). Pub. L. 116–260, §203(a)(4)(C)(ii), inserted at end "In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act, a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation."
 
@@ -323,6 +341,10 @@ Subsec. (e)(3)(C). Pub. L. 111–3, §504(a), added subpar. (C).
 Subsec. (f)(3). Pub. L. 111–3, §403(a), added par. (3).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–169 effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022 and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, see section 11405(c) of Pub. L. 117–169, set out as a note under section 1396a of this title.
 
 #### Effective Date of 2018 Amendment
 

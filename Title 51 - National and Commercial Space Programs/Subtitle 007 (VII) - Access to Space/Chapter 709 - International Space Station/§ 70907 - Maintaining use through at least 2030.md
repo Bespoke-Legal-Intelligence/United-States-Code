@@ -1,0 +1,46 @@
+### §70907. Maintaining use through at least 2030
+
+(a)
+
+Policy.—The Administrator shall take all necessary steps to ensure that the International Space Station remains a viable and productive facility capable of potential United States utilization through at least September 30, 2030.
+
+(b)
+
+NASA Actions.—In furtherance of the policy under subsection (a), the Administrator shall ensure, to the extent practicable, that the International Space Station, as a designated national laboratory—
+
+&emsp;(1) remains viable as an element of overall exploration and partnership strategies and approaches;
+
+&emsp;(2) is considered for use by all NASA mission directorates, as appropriate, for technically appropriate scientific data gathering or technology risk reduction demonstrations; and
+
+&emsp;(3) remains an effective, functional vehicle providing research and test bed capabilities for the United States through at least September 30, 2030.
+
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3438; Pub. L. 114–90, title I, §114(b)(4), Nov. 25, 2015, 129 Stat. 716; Pub. L. 117–167, div. B, title VII, §10815(d)(1), Aug. 9, 2022, 136 Stat. 1738.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+70907
+
+42 U.S.C. 17751(a).
+
+Pub. L. 110–422, title VI, §601(a), Oct. 15, 2008, 122 Stat. 4793.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Pub. L. 117–167, §10815(d)(1)(A), substituted "2030" for "2024" in section catchline.
+
+Subsec. (a). Pub. L. 117–167, §10815(d)(1)(B), substituted "September 30, 2030" for "September 30, 2024".
+
+Subsec. (b)(3). Pub. L. 117–167, §10815(d)(1)(C), substituted "September 30, 2030" for "September 30, 2024".
+
+<b>2015</b>—Pub. L. 114–90 amended section generally. Prior to amendment, section related to maintaining the International Space Station as a viable and productive facility capable of potential United States utilization through at least 2020.
+

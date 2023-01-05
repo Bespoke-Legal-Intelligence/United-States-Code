@@ -22,7 +22,7 @@ All functions and responsibilities placed in the Department of the Interior or a
 
 #### References in Text
 
-This Act, referred to in subsec. (d), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
+This Act, referred to in subsec. (d), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
 
 #### Amendments
 
@@ -322,7 +322,7 @@ Board.—The term 'Board' means the Promotion of Wildlife Conservation Technolog
 
 &emsp;&emsp;"(ii)
 
-Prize competition.—The term 'prize competition' means the Theodore Roosevelt GeniusPrize for the promotion of wildlife conservation established under subparagraph (B).
+Prize competition.—The term 'prize competition' means the Theodore Roosevelt Genius Prize for the promotion of wildlife conservation established under subparagraph (B).
 
 &emsp;"(B)
 
@@ -484,7 +484,7 @@ Duties.—Subject to clause (iv), with respect to the prize competition, the Boa
 
 &emsp;&emsp;&emsp;"(III) advise the Secretary regarding any opportunity for technological innovation to manage invasive species; and
 
-&emsp;&emsp;&emsp;"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, includingin partnership with conservation organizations, Federal or State agencies, federally recognized Indian tribes, private entities, and research institutions with expertise or interest relating to the management of invasive species.
+&emsp;&emsp;&emsp;"(IV) advise winners of the prize competition regarding opportunities to pilot and implement winning technologies in relevant fields, including in partnership with conservation organizations, Federal or State agencies, federally recognized Indian tribes, private entities, and research institutions with expertise or interest relating to the management of invasive species.
 
 &emsp;&emsp;"(iv)
 
@@ -640,7 +640,7 @@ Appointment.—The Secretary shall appoint not fewer than 3 judges who shall, ex
 
 &emsp;&emsp;"(ii)
 
-Determination by secretary.—The judges appointed under clause (i) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscalyear, none of the technological advancements entered into the prize competition merits an award.
+Determination by secretary.—The judges appointed under clause (i) shall not select any annual winner of the prize competition if the Secretary makes a determination that, in any fiscal year, none of the technological advancements entered into the prize competition merits an award.
 
 &emsp;"(F)
 
@@ -788,7 +788,7 @@ Board.—The term 'Board' means the Reducing Human-Predator Conflict Technology 
 
 &emsp;&emsp;"(ii)
 
-Prize competition.—The term 'prize competition' means the Theodore Roosevelt GeniusPrize for reducing human-predator conflict established under subparagraph (B).
+Prize competition.—The term 'prize competition' means the Theodore Roosevelt Genius Prize for reducing human-predator conflict established under subparagraph (B).
 
 &emsp;"(B)
 

@@ -10,7 +10,7 @@
 
 &emsp;(A) is entitled to be assigned by the head of that agency to a vacant Senior Executive Service position for which the career appointee is qualified; or
 
-&emsp;(B) if the agency head certifies, in writing, to the Office of Personnel Management that no such position is available in the agency, shall be placed by the Office in any agency in any vacant Senior Executive Service position unless the head of that agency determines that the career appointee is not qualified for that position.
+&emsp;(B) if the agency head certifies, in writing, to the Office of Personnel Management that no such position is available in the agency,shall be placed by the Office in any agency in any vacant Senior Executive Service position unless the head of that agency determines that the career appointee is not qualified for that position.
 
 > The Office of Personnel Management shall take all reasonable steps to place a career appointee under subparagraph (B) and may require any agency to take any action which the Office considers necessary to carry out any such placement.
 
@@ -24,7 +24,7 @@
 
 (e) The Office shall prescribe regulations under which the rights accorded to a career appointee in the event of a transfer of function are comparable to the rights accorded to a competing employee under section 3503 of this title in the event of such a transfer.
 
-(Added Pub. L. 97–35, title XVII, §1704(a)(1), Aug. 13, 1981, 95 Stat. 756; amended Pub. L. 97–346, §5(a), (b), Oct. 15, 1982, 96 Stat. 1650; Pub. L.98–615, title III, §§303(c), (d), 304(b), Nov. 8, 1984, 98 Stat. 3218, 3219.)
+(Added Pub. L. 97–35, title XVII, §1704(a)(1), Aug. 13, 1981, 95 Stat. 756; amended Pub. L. 97–346, §5(a), (b), Oct. 15, 1982, 96 Stat. 1650; Pub. L. 98–615, title III, §§303(c), (d), 304(b), Nov. 8, 1984, 98 Stat. 3218, 3219.)
 
 #### <b>Editorial Notes</b>
 
@@ -68,7 +68,7 @@ Pub. L. 97–35, title XVII, §1704(e), Aug. 13, 1981, 95 Stat. 758, provided th
 
 "(1) Subject to paragraph (2), the amendments made by this section \[enacting this section, redesignating former section 3595 as section 3596 of this title, and amending sections 3393, 3593, 7542, and 7543 of this title\] shall be effective as of June 1, 1981.
 
-"(2)(A) Except as provided in subparagraph (B), the amendments made by this section shall apply to any career appointee removed from the civil service after May 31, 1981, and before the date of the enactment of this section \[Aug. 13, 1981\] if, not later than 14 days after such date of enactment, application therefor is made to the Office of Personnel Management and to the head of the Agency in which the appointee was employed.
+"(2)(A) Except as provided in subparagraph (B), the amendments made by this section shall apply to any career appointee removed from the civil service afterMay 31, 1981, and before the date of the enactment of this section \[Aug. 13, 1981\] if, not later than 14 days after such date of enactment, application therefor is made to the Office of Personnel Management and to the head of the Agency in which the appointee was employed.
 
 "(B) The provisions of section 3595(a), as added by subsection (a)(1), shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\].
 

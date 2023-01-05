@@ -18,3 +18,5 @@ Part A—Financial Stability Oversight Council
 - [&sect; 05331 - Mitigation of risks to financial stability](%C2%A7%2005331%20-%20Mitigation%20of%20risks%20to%20financial%20stability.md)
 - [&sect; 05332 - GAO audit of Council](%C2%A7%2005332%20-%20GAO%20audit%20of%20Council.md)
 - [&sect; 05333 - Study of the effects of size and complexity of financial institutions on capital market efficiency and economic growth](%C2%A7%2005333%20-%20Study%20of%20the%20effects%20of%20size%20and%20complexity%20of%20financial%20institutions%20on%20capital%20market%20efficiency%20and%20economic%20growth.md)
+- [&sect; 05334 - Data standards](%C2%A7%2005334%20-%20Data%20standards.md)
+- [&sect; 05335 - Open data publication](%C2%A7%2005335%20-%20Open%20data%20publication.md)

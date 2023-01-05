@@ -8,7 +8,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The President shall carry out an import quota program during the period beginningon May 13, 2002, through July 31, 2008, as provided in this subsection.
+&emsp;&emsp;The President shall carry out an import quota program during the period beginning on May 13, 2002, through July 31, 2008, as provided in this subsection.
 
 #### (B) Program requirements
 
@@ -70,7 +70,7 @@
 
 #### (B) Quantity if prior quota
 
-&emsp;&emsp;If a quota has been established under this subsection during the preceding 12 months, the quantity of the quota next established under this subsection shall be the smaller of 21 days of domestic mill consumption calculated under subparagraph (A) or the quantity required to increase the supply to 130 percent of the demand.
+&emsp;&emsp;If a quota has been established under this subsection during the preceding 12 months, the quantity of the quota next establishedunder this subsection shall be the smaller of 21 days of domestic mill consumption calculated under subparagraph (A) or the quantity required to increase the supply to 130 percent of the demand.
 
 #### (C) Preferential tariff treatment
 

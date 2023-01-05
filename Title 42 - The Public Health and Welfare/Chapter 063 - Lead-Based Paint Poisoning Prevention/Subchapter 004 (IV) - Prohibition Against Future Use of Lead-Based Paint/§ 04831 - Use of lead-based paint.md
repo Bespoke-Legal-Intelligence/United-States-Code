@@ -12,7 +12,7 @@ The Secretary of Housing and Urban Development shall take steps and impose such 
 
 The Consumer Product Safety Commission shall take such steps and impose such conditions as may be necessary or appropriate to prohibit the application of lead-based paint to any toy or furniture article.
 
-(Pub. L. 91–695, title IV, §401, Jan. 13, 1971, 84 Stat. 2079; Pub. L. 93–151, §5, Nov. 9, 1973, 87 Stat.566; Pub. L. 94–317, title II, §204(b), June 23, 1976, 90 Stat. 705; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
+(Pub. L. 91–695, title IV, §401, Jan. 13, 1971, 84 Stat. 2079; Pub. L. 93–151, §5, Nov. 9, 1973, 87 Stat. 566; Pub. L. 94–317, title II, §204(b), June 23, 1976, 90 Stat. 705; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### <b>Editorial Notes</b>
 

@@ -10,7 +10,7 @@ In general.—No person may serve as a flight attendant aboard an aircraft of an
 
 &emsp;(2)
 
-Special rule for current flight attendants.—An individual serving as a flight attendant on the effective date of this section may continue to serve aboard an aircraft as a flight attendant until completion by that individual of the required recurrent or requalification training and subsequent certification under this section.
+Special rule for current flight attendants.—An individual serving as a flight attendant on the effective date of this section may continue to serve aboard an aircraft as aflight attendant until completion by that individual of the required recurrent or requalification training and subsequent certification under this section.
 
 &emsp;(3)
 

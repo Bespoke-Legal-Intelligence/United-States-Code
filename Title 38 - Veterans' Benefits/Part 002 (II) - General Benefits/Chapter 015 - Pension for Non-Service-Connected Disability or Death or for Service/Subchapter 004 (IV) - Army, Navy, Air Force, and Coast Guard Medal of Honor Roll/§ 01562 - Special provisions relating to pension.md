@@ -1,6 +1,6 @@
 ### §1562. Special provisions relating to pension
 
-(a)(1) The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of section 1134a of title 10, a special pension at the rate of $1,388.68, as adjusted from time to time under subsection (e), beginning as of the date on which the person's name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
+(a)(1) The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of section 1134a of title 10, a special pension at the rate of $1,406.73, as adjusted from time to time under subsection (e),<sup>1</sup> beginning as of the date on which the person's name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
 
 (2)(A) Except as provided in subparagraphs (B) and (C), the Secretary shall pay special pension under this section to the surviving spouse of a person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll and a copy of whose certificate has been delivered to the Secretary under section 1134a(d) of title 10.
 
@@ -20,7 +20,7 @@
 
 (e) Effective as of December 1 each year, the Secretary shall increase the amount of monthly special pension payable under subsection (a) as of November 30 of such year by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1 of such year as a result of a determination under section 215(i) of that Act (42 U.S.C. 415(i)).
 
-(f)(1) The Secretary shall pay, in a lump sum, to each person who is in receipt of special pension payable under paragraph (1) of subsection (a), or under paragraph (2) of such subsection in the case of a posthumous entry on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, an amount equal to the total amount of special pension that the person would have received during the period beginning on the first day of the first month beginning after the date of the act for which the person was awarded the Medal of Honor and ending on the last day of the month preceding the month in which the person's special pension in fact commenced.
+(f)(1) The Secretary shall pay, in a lump sum, to each person who is in receipt of special pension payable under paragraph (1) of subsection (a), or under paragraph (2) of such subsection in the case of a posthumous entry on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, an amount equal to the total amount of special pension that the person would have received during the period beginning on thefirst day of the first month beginning after the date of the act for which the person was awarded the Medal of Honor and ending on the last day of the month preceding the month in which the person's special pension in fact commenced.
 
 (2) For each month of a period referred to in paragraph (1), the amount of special pension payable to a person shall be determined using the rate of special pension that was in effect for such month, and shall be payable only if the person would have been entitled to payment of special pension for such month under laws for eligibility for special pension (with the exception of the eligibility law requiring a person to have been awarded a Medal of Honor) in effect at the beginning of such month.
 
@@ -28,13 +28,13 @@
 
 (2) Upon receipt of an election made by a person under paragraph (1) not to receive special pension, the Secretary shall cease payments of special pension to the person.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1140, §562; Pub. L. 87–138, §3, Aug. 14, 1961, 75 Stat. 339; Pub. L. 88–77, §5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, §106(44), (45), Dec. 23, 1975, 89 Stat. 1019; Pub. L. 95–479, title III, §302, Oct. 18, 1978, 92 Stat. 1565; renumbered §1562 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–161, §1(a), Nov. 30, 1993, 107 Stat. 1967; Pub. L. 105–368, title III, §301(a), Nov. 11, 1998, 112 Stat. 3332; Pub. L. 107–330, title III, §304(a)–(c), Dec. 6, 2002, 116 Stat. 2826; Pub. L. 113–66, div. A, title V, §563(b), Dec. 26, 2013, 127 Stat. 767; Pub. L. 116–315, title II, §2003(a)–(b)(2)(A), Jan. 5, 2021, 134 Stat. 4969, 4970.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1140, §562; Pub. L. 87–138, §3, Aug. 14, 1961, 75 Stat. 339; Pub. L. 88–77, §5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, §106(44), (45), Dec. 23, 1975, 89 Stat. 1019; Pub. L. 95–479, title III, §302, Oct. 18, 1978, 92 Stat. 1565; renumbered §1562 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–161, §1(a), Nov. 30, 1993, 107 Stat. 1967; Pub. L. 105–368, title III, §301(a), Nov. 11, 1998, 112 Stat. 3332; Pub. L. 107–330, title III, §304(a)–(c), Dec. 6, 2002, 116 Stat. 2826; Pub. L. 113–66, div. A, title V, §563(b), Dec. 26, 2013, 127 Stat. 767; Pub. L. 116–315, title II, §2003(a)–(b)(2)(A), Jan. 5, 2021, 134 Stat. 4969, 4970; Pub. L. 117–328, div. U, title IV, §407(b)(1), Dec. 29, 2022, 136 Stat. 5495.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -156,11 +156,13 @@ Section 1696, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 S
 
 Section 1697, added Pub. L. 91–219, title II, §204(a)(4), Mar. 26, 1970, 84 Stat. 81, related to educational and vocational guidance.
 
-Section 1698, added Pub. L. 92–540, title III, §308, Oct. 24, 1972, 86 Stat. 1082, §1697A; renumbered §1698 and amended Pub. L. 94–502, title II, §§210(3), 211(14), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title III, §302(b), Nov. 23, 1977, 91 Stat. 1441, related to coordination with and participation by Department of Defense in carryingout functions and duties of Department of Defense under predischarge education program.
+Section 1698, added Pub. L. 92–540, title III, §308, Oct. 24, 1972, 86 Stat. 1082, §1697A; renumbered §1698 and amended Pub. L. 94–502, title II, §§210(3), 211(14), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title III, §302(b), Nov. 23, 1977, 91 Stat. 1441, related to coordination with and participation by Department of Defense in carrying out functions and duties of Department of Defense under predischarge education program.
 
 Prior section 1700, which comprised the first section of chapter 35, was renumbered section 3500 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–328 substituted "$1,406.73" for "$1,388.68".
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–315, §2003(b)(1), designated existing provisions as par. (1) and added par. (2).
 
@@ -202,6 +204,10 @@ Subsecs. (b), (d). Pub. L. 94–169, §106(45), substituted "such person" for "h
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. U, title IV, §407(b)(2), Dec. 29, 2022, 136 Stat. 5495, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if it were enacted immediately after the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315) \[approved Jan. 5, 2021\]."
+
 #### Effective Date of 2021 Amendment
 
 Amendment by section 2003(b)(1), (2)(A) of Pub. L. 116–315 applicable with respect to payment of pension under this section for months beginning after Jan. 5, 2021, see section 2003(b)(3) of Pub. L. 116–315, set out as a note under section 103 of this title.
@@ -241,4 +247,28 @@ Pub. L. 87–138, §4, Aug. 14, 1961, 75 Stat. 339, provided that: "The amendmen
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Special Benefit Allowance Rates
+
+For current VA special benefit allowance rates, see https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/
+
+#### Treatment of Certain Pension Payments
+
+Pub. L. 117–328, div. U, title IV, §407(c), Dec. 29, 2022, 136 Stat. 5495, provided that:
+
+"(1)
+
+In general.—A payment described in paragraph (2) shall be treated as an authorized payment.
+
+"(2)
+
+Payments described.—A payment described in this paragraph is a payment of pension under section 1562 of title 38, United States Code, by the Secretary of Veterans Affairs—
+
+&emsp;"(A) in the amount of $1,406.73 during the period beginning on January 5, 2021, and ending on November 30, 2021;
+
+&emsp;"(B) in the amount of $1,489.73 during the period beginning on December 1, 2021, and ending on November 30, 2022; or
+
+&emsp;"(C) in the amount of $1,619.34 during the period beginning on December 1, 2022, and ending on the date of the enactment of this Act \[Dec. 29, 2022\]."
+
+<i><sup>1</sup></i><i> See Special Benefit Allowance Rates note below.</i>
 

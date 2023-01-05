@@ -18,7 +18,7 @@
 | [1759a.](%C2%A7%2001759a%20-%20Special%20assistance%20funds.md) | Special assistance funds. |
 | [1760\.](%C2%A7%2001760%20-%20Miscellaneous%20provisions.md) | Miscellaneous provisions. |
 | [1761\.](%C2%A7%2001761%20-%20Summer%20food%20service%20program%20for%20children.md) | Summer food service program for children. |
-| [1762\.](%C2%A7%2001762%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93147%2C%20title%20III%2C%20%C2%A7308%2C%20Nov.%2010%2C%201989%2C%20103%20Stat.%20915.md) | Repealed. |
+| [1762\.](%C2%A7%2001762%20-%20Summer%20electronic%20benefits%20transfer%20for%20children%20program.md) | Summer electronic benefits transfer for children program. |
 | [1762a.](%C2%A7%2001762a%20-%20Commodity%20distribution%20program.md) | Commodity distribution program. |
 | 1763, 1764. Repealed. |  |
 | [1765\.](%C2%A7%2001765%20-%20Election%20to%20receive%20cash%20payments.md) | Election to receive cash payments. |
@@ -61,7 +61,7 @@
 - [&sect; 01759a - Special assistance funds](%C2%A7%2001759a%20-%20Special%20assistance%20funds.md)
 - [&sect; 01760 - Miscellaneous provisions](%C2%A7%2001760%20-%20Miscellaneous%20provisions.md)
 - [&sect; 01761 - Summer food service program for children](%C2%A7%2001761%20-%20Summer%20food%20service%20program%20for%20children.md)
-- [&sect; 01762 - Repealed. Pub. L. 101&#8211;147, title III, &sect;308, Nov. 10, 1989, 103 Stat. 915](%C2%A7%2001762%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93147%2C%20title%20III%2C%20%C2%A7308%2C%20Nov.%2010%2C%201989%2C%20103%20Stat.%20915.md)
+- [&sect; 01762 - Summer electronic benefits transfer for children program](%C2%A7%2001762%20-%20Summer%20electronic%20benefits%20transfer%20for%20children%20program.md)
 - [&sect; 01762a - Commodity distribution program](%C2%A7%2001762a%20-%20Commodity%20distribution%20program.md)
 - [&sect; 01763 - Repealed. Pub. L. 101&#8211;147, title I, &sect;104, Nov. 10, 1989, 103 Stat. 883](%C2%A7%2001763%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93147%2C%20title%20I%2C%20%C2%A7104%2C%20Nov.%2010%2C%201989%2C%20103%20Stat.%20883.md)
 - [&sect; 01764 - Repealed. Pub. L. 94&#8211;105, &sect;22, Oct. 7, 1975, 89 Stat. 528](%C2%A7%2001764%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93105%2C%20%C2%A722%2C%20Oct.%207%2C%201975%2C%2089%20Stat.%20528.md)

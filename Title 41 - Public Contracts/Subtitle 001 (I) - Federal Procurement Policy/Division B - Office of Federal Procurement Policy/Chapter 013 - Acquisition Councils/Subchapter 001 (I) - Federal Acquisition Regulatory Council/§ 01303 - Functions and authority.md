@@ -70,7 +70,7 @@ Governing Policies.—All actions of the Council and of members of the Council s
 
 General Authority With Respect to Federal Acquisition Regulation.—Subject to section 1121(d) of this title, the Council shall manage, coordinate, control, and monitor the maintenance of, issuance of, and changes in, the Federal Acquisition Regulation.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3691; Pub. L. 117–81, div. A, title XVII, §1702(h)(2), Dec. 27, 2021, 135 Stat. 2158.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3691; Pub. L. 117–81, div. A, title XVII, §1702(h)(2), Dec. 27, 2021, 135 Stat. 2158
 
 Historical and Revision Notes
 

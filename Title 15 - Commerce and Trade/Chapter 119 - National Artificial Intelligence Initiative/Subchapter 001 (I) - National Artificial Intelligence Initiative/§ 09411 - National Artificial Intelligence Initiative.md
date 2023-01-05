@@ -40,7 +40,7 @@ The Initiative shall not impact sources and methods, as determined by the Direct
 
 Nothing in this chapter shall be construed as—
 
-&emsp;(1) modifying any authority or responsibility, including any operational authority or responsibility of any head of a Federal department or agency, with respect to intelligence or the intelligence community, as those terms are defined in 50 U.S.C. 3003; <sup>1</sup>
+&emsp;(1) modifying any authority or responsibility, including any operational authority orresponsibility of any head of a Federal department or agency, with respect to intelligence or the intelligence community, as those terms are defined in 50 U.S.C. 3003; <sup>1</sup>
 
 &emsp;(2) authorizing the Initiative, or anyone associated with its derivative efforts to approve, interfere with, direct or to conduct an intelligence activity, resource, or operation; or
 
@@ -56,7 +56,7 @@ The Initiative established in this chapter shall terminate on the date that is 1
 
 #### References in Text
 
-This chapter, referred to in subsecs. (d) and (e), was in the original "this division", meaning div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to this chapter. For complete classification of div. E to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (d) and (e), was in the original "this division", meaning div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to this chapter. For complete classification of div. E to the Code, see Short Title note set out under section 9401 of this title and Tables.
 
 50 U.S.C. 3003, referred to in subsec. (d)(1), was so in the original, but probably should have been a reference to section 3 of the National Security Act of 1947, act July 26, 1947, ch. 343, which is classified to section 3003 of Title 50, War and National Defense.
 

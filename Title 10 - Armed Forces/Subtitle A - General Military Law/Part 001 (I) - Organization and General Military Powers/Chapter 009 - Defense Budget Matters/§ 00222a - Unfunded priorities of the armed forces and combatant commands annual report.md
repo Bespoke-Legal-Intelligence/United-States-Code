@@ -30,7 +30,7 @@ Elements.—
 
 In general.—Each report under this subsection shall specify, for each unfunded priority covered by such report, the following:
 
-&emsp;&emsp;(A) A summary description of such priority, including the objectives to be achieved if such priority is funded (whether in whole or in part).
+&emsp;&emsp;(A) A summary description of such priority, including the objectives outlined in the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title to be advanced if such priority is funded (whether in whole or in part).
 
 &emsp;&emsp;(B) The additional amount of funds recommended in connection with the objectives under subparagraph (A).
 
@@ -42,11 +42,13 @@ In general.—Each report under this subsection shall specify, for each unfunded
 
 &emsp;&emsp;&emsp;(iii) Sub-activity group (SAG) for applicable operation and maintenance accounts.
 
+&emsp;&emsp;(D) A detailed assessment of each specific risk that would be reduced in executing the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title if such priority is funded (whether in whole or in part).
+
 &emsp;(2)
 
 Prioritization of priorities.—Each report shall present the unfunded priorities covered by such report as follows:
 
-&emsp;&emsp;(A) In overall order of urgency of priority.
+&emsp;&emsp;(A) In overall order of urgency of priority according to the amount of risk reduced.
 
 &emsp;&emsp;(B) In overall order of urgency of priority among unfunded priorities (other than covered military construction projects).
 
@@ -58,7 +60,7 @@ National guard unfunded priorities.—
 
 &emsp;&emsp;(A)
 
-In general.—The officer specified under subsection (b)(6) shall only include in a report submitted under subsection (a) such priorities that—
+In general.—The officer specified under subsection (b)(7) shall only include in a report submitted under subsection (a) such priorities that—
 
 &emsp;&emsp;&emsp;(i) relate to equipping requirements in support of non-federalized National Guard responsibilities for the homeland defense or civil support missions; and
 
@@ -66,13 +68,17 @@ In general.—The officer specified under subsection (b)(6) shall only include i
 
 &emsp;&emsp;(B)
 
-Exception.—The officer specified under subsection (b)(6) may include in a report submitted under subsection (a) an unfunded priority covered by subparagraph (A)(ii) if the Secretary of Defense—
+Exception.—The officer specified under subsection (b)(7) may include in a report submitted under subsection (a) an unfunded priority covered by subparagraph (A)(ii) if the Secretary of Defense—
 
 &emsp;&emsp;&emsp;(i) determines that the inclusion such unfunded priority reasonably supports the priorities of the Department under the national defense strategy under section 113(g) of this title; and
 
 &emsp;&emsp;&emsp;(ii) submits to the congressional defense committees written notice of such determination.
 
 (d)
+
+Prioritization.—Not later than 10 days after the receipt of the <sup>1</sup> all of the reports referred to in subsection (a), the Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall submit to the congressional defense committees a report that prioritizes each specific unfunded priority across all unfunded priorities submitted by officers specified in (b) according to the risk reduced in executing the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title.
+
+(e)
 
 Definitions.—In this section:
 
@@ -82,7 +88,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) is necessary to fulfill a requirement associated with an operational or contingency plan of a combatant command or other validated requirement; and
 
-&emsp;&emsp;(C) would have been recommended for funding through the budget referred to in subparagraph (1) by the officer submittingthe report required by subsection (a) in connection with the budget if—
+&emsp;&emsp;(C) would have been recommended for funding through the budget referred to in subparagraph (1) by the officer submitting the report required by subsection (a) in connection with the budget if—
 
 &emsp;&emsp;&emsp;(i) additional resources had been available for the budget to fund the program, activity, or mission requirement; or
 
@@ -94,11 +100,21 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) is considered by the commander of a combatant command referred to in subsection (b)(5) to be an urgent need, and is executable in the fiscal year.
 
-(Added Pub. L. 114–328, div. A, title X, §1064(a)(1), Dec. 23, 2016, 130 Stat. 2408; amended Pub. L. 116–92, div. A, title X, §1005, title XVII, §1731(a)(12), Dec. 20, 2019, 133 Stat. 1573, 1813; Pub. L. 116–283, div. A, title IX, §924(b)(10), title X, §§1006, 1081(a)(12), Jan. 1, 2021, 134 Stat. 3823, 3838, 3871.)
+(Added Pub. L. 114–328, div. A, title X, §1064(a)(1), Dec. 23, 2016, 130 Stat. 2408; amended Pub. L. 116–92, div. A, title X, §1005, title XVII, §1731(a)(12), Dec. 20, 2019, 133 Stat. 1573, 1813; Pub. L. 116–283, div. A, title IX, §924(b)(10), title X, §§1006, 1081(a)(12), Jan. 1, 2021, 134 Stat. 3823, 3838, 3871; Pub. L. 117–263, div. A, title III, §384(b), title X, §1051, Dec. 23, 2022, 136 Stat. 2544, 2775.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(1)(A). Pub. L. 117–263, §1051(1)(A)(i), substituted "outlined in the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title to be advanced" for "to be achieved".
+
+Subsec. (c)(1)(D). Pub. L. 117–263, §1051(1)(A)(ii), added subpar. (D).
+
+Subsec. (c)(2)(A). Pub. L. 117–263, §1051(1)(B), inserted "according to the amount of risk reduced" after "priority".
+
+Subsec. (c)(3). Pub. L. 117–263, §384(b), substituted "subsection (b)(7)" for "subsection (b)(6)" in introductory provisions of subpars. (A) and (B).
+
+Subsecs. (d), (e). Pub. L. 117–263, §1051(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>2021</b>—Subsec. (b)(5), (6). Pub. L. 116–283, §924(b)(10), added par. (5) and redesignated former par. (5) as (6).
 
@@ -123,4 +139,6 @@ Amendments to this section by section 1731 of Pub. L. 116–92 to be treated as 
 #### Annual Report on Unfunded Requirements for Laboratory Military Construction Projects
 
 Pub. L. 115–91, div. B, title XXVIII, §2806, Dec. 12, 2017, 131 Stat. 1847, as amended by Pub. L. 116–92, div. B, title XXVIII, §2807, Dec. 20, 2019, 133 Stat. 1885, provided that: "The Under Secretary of Defense for Research and Engineering, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] each year, at the time the budget of the President for the fiscal year beginning in such year is submitted to Congress under section 1105(a) of title 31, United States Code, a report listing unfunded requirements on major and minor military construction projects for Department of Defense science and technology laboratories and facilities and test and evaluation facilities, in prioritized order, with specific accounts and program elements identified, and shall include a Department of Defense Form DD1391 for each major and minor military construction project included in the report."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

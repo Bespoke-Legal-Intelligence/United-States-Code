@@ -4,7 +4,7 @@
 
 The Secretary may prohibit or restrict—
 
-&emsp;(1) the exportation of any animal, article, or means of conveyance if the Secretary determines that the prohibition or restriction isnecessary to prevent the dissemination from or within the United States of any pest or disease of livestock;
+&emsp;(1) the exportation of any animal, article, or means of conveyance if the Secretary determines that the prohibition or restriction is necessary to prevent the dissemination from or within the United States of any pest or disease of livestock;
 
 &emsp;(2) the exportation of any livestock if the Secretary determines that the livestock is unfit to be moved;
 
@@ -106,7 +106,7 @@ Regulations.—The Secretary shall issue final regulations to implement the prog
 
 &emsp;"(3)
 
-Report.—If final regulations are not published in accordance with paragraph (2) within 90 days of the date of the enactment of this Act, the Secretary shall submit to the Committee on Agriculture of the Houseof Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing—
+Report.—If final regulations are not published in accordance with paragraph (2) within 90 days of the date of the enactment of this Act, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing—
 
 &emsp;&emsp;"(A) an explanation of why the final regulations have not been issued in accordance with paragraph (2); and
 

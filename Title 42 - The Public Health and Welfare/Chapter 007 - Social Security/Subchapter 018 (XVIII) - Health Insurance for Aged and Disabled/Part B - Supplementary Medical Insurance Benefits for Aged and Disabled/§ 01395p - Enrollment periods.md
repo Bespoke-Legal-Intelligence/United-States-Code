@@ -12,7 +12,7 @@ In the case of individuals who first satisfy paragraph (1) or (2) of section 139
 
 #### (d) Eligible individuals on or after March 1, 1966
 
-In the case of an individual who first satisfies paragraph (1) or (2) of section 1395o(a) of this title on or after March 1, 1966, his initial enrollment period shall begin on the first day of the third month before the month in which he first satisfies such paragraphs and shall end seven months later. Where the Secretary finds that an individual who has attained age 65 failed to enroll under this part during his initial enrollment period (based on a determination by the Secretary of the month in which such individual attained age 65), because such individual (relying on documentary evidence) was mistaken as to his correct date of birth, the Secretary shall establish for such individual an initial enrollment period based on his attaining age 65 at the time shown in such documentary evidence (with a coverage period determined under section 1395q of this title as though he had attained such age at that time).
+In the case of an individual who first satisfies paragraph (1) or (2) of section 1395o(a) of this title on or after March 1, 1966, his initial enrollment period shall begin on the first day of the third month before the month in which he first satisfies such paragraphs and shall end seven months later. Where the Secretary finds that an individual who has attained age 65 failed to enroll under this part during his initial enrollment period (based on a determination by the Secretary of the month in which such individual attained age 65), because such individual (relying on documentary evidence) was mistaken as tohis correct date of birth, the Secretary shall establish for such individual an initial enrollment period based on his attaining age 65 at the time shown in such documentary evidence (with a coverage period determined under section 1395q of this title as though he had attained such age at that time).
 
 #### (e) General enrollment period
 
@@ -36,7 +36,7 @@ All of the provisions of this section shall apply to individuals satisfying subs
 
 &emsp;(1) in the case of an individual who satisfies subsection (f) by reason of entitlement to disability insurance benefits described in section 426(b) of this title, his initial enrollment period shall begin on the first day of the later of (A) April 1973 or (B) the third month before the 25th month of such entitlement, and shall reoccur with each continuous period of eligibility (as defined in section 1395r(d) of this title) and upon attainment of age 65;
 
-&emsp;(2)(A) in the case of an individual who is entitled to monthly benefits under section 402 or 423 of this title on the first day of his initial enrollment period or becomes entitled to monthly benefits under section 402 of this title during the first 3 months of such period, his enrollment shall be deemed to have occurredin the third month of his initial enrollment period, and
+&emsp;(2)(A) in the case of an individual who is entitled to monthly benefits under section 402 or 423 of this title on the first day of his initial enrollment period or becomes entitled to monthly benefits under section 402 of this title during the first 3 months of such period, his enrollment shall be deemed to have occurred in the third month of his initial enrollment period, and
 
 &emsp;(B) in the case of an individual who is not entitled to benefits under section 402 of this title on the first day of his initial enrollment period and does not become so entitled during the first 3 months of such period, his enrollment shall be deemed to have occurred in the month in which he files the application establishing his entitlement to hospital insurance benefits provided such filing occurs during the last 4 months of his initial enrollment period; and
 
@@ -64,7 +64,7 @@ In any case where the Secretary finds that an individual's enrollment or nonenro
 
 &emsp;(C) has not terminated enrollment under this section at any time at which the individual is not enrolled in such a group health plan by reason of the individual's (or individual's spouse's) current employment status,
 
-> there shall be a special enrollment period described in paragraph (3). In the case of an individual not described in the previous sentence who has not attained the age of 65, has enrolled (or has been deemed to have enrolled) in the medical insurance program established under this part during the individual's initial enrollment period, or is an individual described in the second sentence of paragraph (1), has enrolled in such program during any subsequent special enrollment period under this subsection during which the individual was not enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual), and has not terminated enrollment under this section at any time at which the individual is not enrolled in such a large group health plan by reason of the individual's current employment status (or the current employment status of a family member of the individual), there shall be a special enrollment period described in paragraph (3)(B).
+> there shall be a special enrollment period described in paragraph (3). In the case of an individual not described in the previous sentence who has not attained the age of 65, has enrolled (or has been deemed to have enrolled) in themedical insurance program established under this part during the individual's initial enrollment period, or is an individual described in the second sentence of paragraph (1), has enrolled in such program during any subsequent special enrollment period under this subsection during which the individual was not enrolled in a large group health plan (as that term is defined in section 1395y(b)(1)(B)(iii) of this title) by reason of the individual's current employment status (or the current employment status of a family member of the individual), and has not terminated enrollment under this section at any time at which the individual is not enrolled in such a large group health plan by reason of the individual's current employment status (or the current employment status of a family member of the individual), there shall be a special enrollment period described in paragraph (3)(B).
 
 (3)(A) The special enrollment period referred to in the first sentences of paragraphs (1) and (2) is the period including each month during any part of which the individual is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of current employment status ending with the last day of the eighth consecutive month in which the individual is at no time so enrolled.
 
@@ -74,7 +74,7 @@ In any case where the Secretary finds that an individual's enrollment or nonenro
 
 &emsp;(i) who at the time the individual first satisfies paragraph (1) of section 1395o(a) of this title—
 
-&emsp;&emsp;(I) is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of the individual's current orformer employment or by reason of the current or former employment status of a member of the individual's family, and
+&emsp;&emsp;(I) is enrolled in a group health plan described in section 1395y(b)(1)(A)(v) of this title by reason of the individual's current or former employment or by reason of the current or former employment status of a member of the individual's family, and
 
 &emsp;&emsp;(II) has elected not to enroll (or to be deemed enrolled) under this section during the individual's initial enrollment period; and
 
@@ -120,7 +120,7 @@ In applying this section in the case of an individual who is entitled to benefit
 
 (2) The special enrollment period described in this paragraph, with respect to an individual, is the 12-month period beginning on the day after the last day of the initial enrollment period of the individual or, if later, the 12-month period beginning with the month the individual is notified of enrollment under this section.
 
-(3) In the case of an individual who enrolls during the special enrollment period provided under paragraph (1), the coverage period under this part shall begin on the first day of the month in which the individual enrolls, or, at the option of the individual, the first month after the end of the individual's initial enrollment period.
+(3) In the case of an individual who enrolls during the special enrollment period provided under paragraph (1), the coverage period underthis part shall begin on the first day of the month in which the individual enrolls, or, at the option of the individual, the first month after the end of the individual's initial enrollment period.
 
 (4) An individual may only enroll during the special enrollment period provided under paragraph (1) one time during the individual's lifetime.
 
@@ -142,7 +142,21 @@ Beginning January 1, 2023, the Secretary may establish special enrollment period
 
 (4) The Secretary shall establish a process under which an individual described in paragraph (1) whose other coverage described in section 1395o(b)(2)(A) of this title, or coverage under this part (including the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs), is terminated voluntarily or involuntary <sup>1</sup> may enroll or reenroll, if applicable, in the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486; Pub. L. 106–554, §1(a)(6) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474; Pub. L. 109–171, title V, §5115(a)(2)(A), Feb. 8, 2006, 120 Stat. 45; Pub. L. 111–148, title III, §3110(a)(1), Mar. 23, 2010, 124 Stat. 420; Pub. L. 116–260, div. CC, title I, §120(a)(2)(A), title IV, §402(a)(2)(B), (b), Dec. 27, 2020, 134 Stat. 2954, 2999.)
+#### (o) Special enrollment period for certain Postal Service annuitants and family members
+
+(1) In the case of an individual who—
+
+&emsp;(A) as of January 1, 2024, is—
+
+&emsp;&emsp;(i) a Postal Service annuitant who is entitled to benefits under part A of this subchapter, but excluding an individual who is eligible to enroll under such part under section 1395i–2 of this title or 1395i–2a of this title; or
+
+&emsp;&emsp;(ii) a member of family (as defined in section 8901(5) of title 5) of a Postal Service annuitant and is entitled to benefits under part A of this subchapter, but excluding an individual who is eligible to enroll under such part under section 1395i–2 of this title or 1395i–2a of this title; and
+
+&emsp;(B) is not enrolled under this part, the individual may elect to be enrolled under this part during a special enrollment period during the 6-month period beginning on April 1, 2024.
+
+(2) In this subsection, the term "Postal Service annuitant" means an annuitant enrolled in a health benefits plan under chapter 89 of title 5, whose Government contribution is required to be paid under section 8906(g)(2) of such title.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1837, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 304; amended Pub. L. 89–384, §3(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title I, §§136(a), 145(a), (b), Jan. 2, 1968, 81 Stat. 853, 859; Pub. L. 92–603, title II, §§201(c)(2), 206(a), 259(a), 260, Oct. 30, 1972, 86 Stat. 1372, 1378, 1448; Pub. L. 96–265, title I, §103(a)(3), June 9, 1980, 94 Stat. 444; Pub. L. 96–499, title IX, §945(a), (b), Dec. 5, 1980, 94 Stat. 2642; Pub. L. 97–35, title XXI, §2151(a)(1), (2), Aug. 13, 1981, 95 Stat. 801; Pub. L. 98–369, div. B, title III, §§2338(b), 2354(b)(10), July 18, 1984, 98 Stat. 1092, 1101; Pub. L. 99–272, title IX, §§9201(c)(1), 9219(a)(2), Apr. 7, 1986, 100 Stat. 171, 182; Pub. L. 99–509, title IX, §9319(c)(1)–(3), Oct. 21, 1986, 100 Stat. 2011; Pub. L. 99–514, title XVIII, §1895(b)(12), Oct. 22, 1986, 100 Stat. 2934; Pub. L. 101–239, title VI, §6202(b)(4)(C), (c)(1), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–432, title I, §§147(f)(1)(A), 151(c)(2), Oct. 31, 1994, 108 Stat. 4430, 4435; Pub. L. 105–33, title IV, §§4581(b)(1), 4631(a)(2), Aug. 5, 1997, 111 Stat. 465, 486; Pub. L. 106–554, §1(a)(6) \[title I, §115(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–474; Pub. L. 109–171, title V, §5115(a)(2)(A), Feb. 8, 2006, 120 Stat. 45; Pub. L. 111–148, title III, §3110(a)(1), Mar. 23, 2010, 124 Stat. 420; Pub. L. 116–260, div. CC, title I, §120(a)(2)(A), title IV, §402(a)(2)(B), (b), Dec. 27, 2020, 134 Stat. 2954, 2999; Pub. L. 117–108, title I, §101(b)(1), Apr. 6, 2022, 136 Stat. 1136.)
 
 #### <b>Editorial Notes</b>
 
@@ -151,6 +165,8 @@ Beginning January 1, 2023, the Secretary may establish special enrollment period
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (k)(3)(A)(ii), is classified to section 501 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (o). Pub. L. 117–108 added subsec. (o).
 
 <b>2020</b>—Pub. L. 116–260, §402(a)(2)(B)(i), substituted "section 1395o(a) of this title" for "section 1395o of this title" wherever appearing except in subsec. (m).
 
@@ -194,7 +210,7 @@ Subsec. (i)(2). Pub. L. 101–239, §6202(c)(1)(B), substituted "(1)(A)" for "(1
 
 Pub. L. 101–239, §6202(b)(4)(C), substituted "section 1395y(b)(1)(A)(v)" and "section 1395y(b)(1)(B)(iv)" for "section 1395y(b)(3)(A)(iv)" and "section 1395y(b)(4)(B)", respectively.
 
-Subsec. (i)(3). Pub. L. 101–239, §6202(b)(4)(C), substituted "section 1395y(b)(1)(A)(v)" and "section1395y(b)(1)(B)(iv)" for "section 1395y(b)(3)(A)(iv)" and "section 1395y(b)(4)(B)", respectively.
+Subsec. (i)(3). Pub. L. 101–239, §6202(b)(4)(C), substituted "section 1395y(b)(1)(A)(v)" and "section 1395y(b)(1)(B)(iv)" for "section 1395y(b)(3)(A)(iv)" and "section 1395y(b)(4)(B)", respectively.
 
 <b>1986</b>—Subsec. (i)(1). Pub. L. 99–509, §9319(c)(1), inserted sentence at end providing for a special enrollment period described in paragraph (3)(B) for individuals not age 65, enrolled in a large health plan, and having elected not to enroll during initial enrollment period.
 
@@ -268,7 +284,7 @@ Amendment by Pub. L. 106–554 applicable to benefits for months beginning July 
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title IV, §4581(c), Aug. 5, 1997, 111 Stat. 465, provided that: "The amendments made by this section \[amending this section and sections 1395q and 1395r of this title\] shall apply to involuntary terminations ofcoverage under a group health plan occurring on or after the date of the enactment of this Act \[Aug. 5, 1997\]."
+Pub. L. 105–33, title IV, §4581(c), Aug. 5, 1997, 111 Stat. 465, provided that: "The amendments made by this section \[amending this section and sections 1395q and 1395r of this title\] shall apply to involuntary terminations of coverage under a group health plan occurring on or after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1994 Amendment
 
@@ -300,7 +316,7 @@ Pub. L. 99–272, title IX, §9219(a)(3)(B), Apr. 7, 1986, 100 Stat. 182, provid
 
 Pub. L. 98–369, div. B, title III, §2338(d)(2), July 18, 1984, 98 Stat. 1093, provided that:
 
-"(A) The amendments made by subsections (b) and (c) \[amending this section and section 1395q of this title\] shall apply to enrollments in months beginning with the first effective month, except that in the case of any individual who would have had a special enrollment period under section 1837(i) of the Social Security Act \[42 U.S.C. 1395p(i)\] that would have begun before such first effective month, such period shall be deemed to begin with the first day of such first effective month.
+"(A) The amendments made by subsections (b) and (c) \[amending this section and section 1395q of this title\] shall apply to enrollments in months beginning with the first effective month, except that in the case of anyindividual who would have had a special enrollment period under section 1837(i) of the Social Security Act \[42 U.S.C. 1395p(i)\] that would have begun before such first effective month, such period shall be deemed to begin with the first day of such first effective month.
 
 "(B) For purposes of subparagraph (A), the term 'first effective month' means the first month which begins more than 90 days after the date of the enactment of this Act \[July 18, 1984\]."
 
@@ -340,7 +356,7 @@ Coverage period.—In the case of an individual who enrolls during the special e
 
 #### Extension Through March 31, 1968 of 1967 General Enrollment Period
 
-Pub. L. 90–97, §1, Sept. 30, 1967, 81 Stat. 249, extended the general enrollment period under subsec. (e) of this section, beginning Oct. 1, 1967, and ending Dec. 31, 1967,for purposes of enrolling in the insurance program established under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\] and of terminating such enrollment as provided in section 1395q(b)(1) of this title, through Mar. 31, 1968.
+Pub. L. 90–97, §1, Sept. 30, 1967, 81 Stat. 249, extended the general enrollment period under subsec. (e) of this section, beginning Oct. 1, 1967, and ending Dec. 31, 1967, for purposes of enrolling in the insurance program established under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\] and of terminating such enrollment as provided in section 1395q(b)(1) of this title, through Mar. 31, 1968.
 
 #### Enrollment Before Oct. 1, 1966, of Eligible Individuals Failing for Good Cause To Enroll Before June 1, 1966; Commencement of Coverage Period
 

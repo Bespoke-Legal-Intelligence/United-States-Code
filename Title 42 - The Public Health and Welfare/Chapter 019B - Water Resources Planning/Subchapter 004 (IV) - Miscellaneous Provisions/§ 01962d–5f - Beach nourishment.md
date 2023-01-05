@@ -8,11 +8,11 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (a), the Secretary shall, at the request of the non-Federal interest, carry out a study to determine the feasibility of extending the period of nourishment described in subsection (a) for a period not to exceed 15 additional years beyond the maximum period described in subsection (a).
+&emsp;Notwithstanding subsection (a), the Secretary shall, at the request of the non-Federal interest, carry out a study to determine the feasibility of extending the period of nourishment described in subsection (a) for a period not to exceed 50 additional years beyond the maximum period described in subsection (a).
 
 #### (2) Timing
 
-&emsp;The 15 additional years provided under paragraph (1) shall begin on the date of initiation of construction of congressionally authorized nourishment.
+&emsp;The additional years provided under paragraph (1) shall begin on the date of initiation of construction of congressionally authorized nourishment.
 
 #### (c) Plan for reducing risk to people and property
 
@@ -34,9 +34,9 @@ Upon completion of the review described in subsection (b), the Secretary shall�
 
 #### (e) Special rule
 
-Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 10-year period beginning on June 10, 2014, that project shall remain eligible for nourishment for an additional 6 years after the expiration of such period.
+Notwithstanding any other provision of this section, for any existing authorized water resources development project for which the maximum period for nourishment described in subsection (a) will expire within the 16-year period beginning on June 10, 2014, that project shall remain eligible for nourishment for an additional 12 years after the expiration of such period.
 
-(Pub. L. 94–587, §156, Oct. 22, 1976, 90 Stat. 2933; Pub. L. 99–662, title IX, §934, Nov. 17, 1986, 100 Stat. 4197; Pub. L. 113–121, title I, §1037(a), June 10, 2014, 128 Stat. 1235; Pub. L. 114–322, title I, §1122(j), Dec. 16, 2016, 130 Stat. 1647; Pub. L. 115–270, title I, §1158, Oct. 23, 2018, 132 Stat. 3794.)
+(Pub. L. 94–587, §156, Oct. 22, 1976, 90 Stat. 2933; Pub. L. 99–662, title IX, §934, Nov. 17, 1986, 100 Stat. 4197; Pub. L. 113–121, title I, §1037(a), June 10, 2014, 128 Stat. 1235; Pub. L. 114–322, title I, §1122(j), Dec. 16, 2016, 130 Stat. 1647; Pub. L. 115–270, title I, §1158, Oct. 23, 2018, 132 Stat. 3794; Pub. L. 117–263, div. H, title LXXXI, §8129(a), Dec. 23, 2022, 136 Stat. 3717.)
 
 #### <b>Editorial Notes</b>
 
@@ -45,6 +45,12 @@ Notwithstanding any other provision of this section, for any existing authorized
 Section was enacted as part of the Water Resources Development Act of 1976, and not as part of the Water Resources Planning Act which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1). Pub. L. 117–263, §8129(a)(1)(A), substituted "50" for "15".
+
+Subsec. (b)(2). Pub. L. 117–263, §8129(a)(1)(B), struck out "15" before "additional".
+
+Subsec. (e). Pub. L. 117–263, §8129(a)(2), substituted "16-year period" for "10-year period" and "12 years" for "6 years".
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–270, §1158(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 

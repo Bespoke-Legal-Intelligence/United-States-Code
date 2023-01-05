@@ -60,7 +60,7 @@ In this section, the term "eligible entity" means—
 
 &emsp;&emsp;&emsp;&emsp;(II) to ensure compliance with any applicable international and Tribal treaties and agreements and interstate compacts and agreements;
 
-&emsp;&emsp;&emsp;(iv) is in the financial interest of the United States based on a determinationthat the project advances Federal objectives including environmental enhancement objectives in a Reclamation State; and
+&emsp;&emsp;&emsp;(iv) is in the financial interest of the United States based on a determination that the project advances Federal objectives including environmental enhancement objectives in a Reclamation State; and
 
 &emsp;&emsp;&emsp;(v) complies with all applicable Federal and State law, including environmental laws; and
 

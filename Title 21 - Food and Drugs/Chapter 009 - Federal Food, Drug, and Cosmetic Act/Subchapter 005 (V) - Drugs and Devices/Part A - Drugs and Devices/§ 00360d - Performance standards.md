@@ -52,7 +52,7 @@
 
 (2) If, after publication of a notice in accordance with paragraph (1), the Secretary receives a request for a change in the classification of the device, the Secretary shall, within 60 days of the publication of the notice, after consultation with the appropriate panel under section 360c of this title, either deny the request or give notice of an intent to initiate such change under section 360c(e) of this title.
 
-(3)(A) After the expiration of the period for comment on a notice of proposed rulemaking published under paragraph (1) respecting a performance standard and after consideration of such comments and any report from an advisory committee under paragraph (5), the Secretary shall (i) promulgate a regulation establishing a performance standard and publish in the FederalRegister findings on the matters referred to in paragraph (1), or (ii) publish a notice terminating the proceeding for the development of the standard together with the reasons for such termination. If a notice of termination is published, the Secretary shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
+(3)(A) After the expiration of the period for comment on a notice of proposed rulemaking published under paragraph (1) respecting a performance standard and after consideration of such comments and any report from an advisory committee under paragraph (5), the Secretary shall (i) promulgate a regulation establishing a performance standard and publish in the Federal Register findings on the matters referred to in paragraph (1), or (ii) publish a notice terminating the proceeding for the development of the standard together with the reasons for such termination. If a notice of termination is published, the Secretary shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
 
 (B) A regulation establishing a performance standard shall set forth the date or dates upon which the standard shall take effect, but no such regulation may take effect before one year after the date of its publication unless (i) the Secretary determines that an earlier effective date is necessary for the protection of the public health and safety, or (ii) such standard has been established for a device which, effective upon the effective date of the standard, has been reclassified from class III to class II. Such date or dates shall be established so as to minimize, consistent with the public health and safety, economic loss to, and disruption or dislocation of, domestic and international trade.
 
@@ -68,13 +68,13 @@
 
 > to an advisory committee of experts, established pursuant to subparagraph (B), for a report and recommendation with respect to any matter involved in the proposed regulation which requires the exercise of scientific judgment. If a proposed regulation is referred under this subparagraph to an advisory committee, the Secretary shall provide the advisory committee with the data and information on which such proposed regulation is based. The advisory committee shall, within sixty days of the referral of a proposed regulation and after independent study of the data and information furnished to it by the Secretary and other data and information before it, submit to the Secretary a report and recommendation respecting such regulation, together with all underlying data and information and a statement of the reason or basis for the recommendation. A copy of such report and recommendation shall be made public by the Secretary.
 
-(B) The Secretary shall establish advisory committees (which may not be panels under section 360c of this title) to receive referrals under subparagraph (A). The Secretary shall appoint as members of any such advisory committee persons qualified in the subject matter to be referred to the committee and of appropriately diversified professional background, except that the Secretary may not appoint to such a committee any individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter. Each such committee shall include as nonvoting members a representative of consumer interests and a representative of interests of the device manufacturing industry. Members of an advisory committee who are not officers or employees of the United States, while attending conferences or meetings of their committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently. The Secretary shall designate one of the members of each advisory committee to serve as chairman thereof. The Secretary shall furnish each advisory committee with clerical and other assistance, and shall by regulation prescribe the procedures to be followed by each such committee in acting on referrals made under subparagraph (A).
+(B) The Secretary shall establish advisory committees (which may not be panels under section 360c of this title) to receive referrals under subparagraph (A). The Secretary shall appoint as members of any such advisory committee persons qualified in the subject matter to be referred to the committee and of appropriately diversified professional background, except that the Secretary may not appoint to such a committee any individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter. Each such committee shall include as nonvoting members a representative of consumer interests and a representative of interests of the device manufacturing industry. Members of an advisory committee who are not officers or employees of the United States, while attending conferences or meetings of their committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent of the rate in effect for grade GS–18 of the General Schedule, for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703of title 5 for persons in the Government service employed intermittently. The Secretary shall designate one of the members of each advisory committee to serve as chairman thereof. The Secretary shall furnish each advisory committee with clerical and other assistance, and shall by regulation prescribe the procedures to be followed by each such committee in acting on referrals made under subparagraph (A).
 
 #### (c) Recognition of standard
 
 (1)(A) In addition to establishing a performance standard under this section, the Secretary shall, by publication in the Federal Register (or, with respect to a susceptibility test interpretive criteria standard under section 360a–2 of this title, by posting on the Interpretive Criteria Website in accordance with such section), recognize all or part of an appropriate standard established by a nationally or internationally recognized standard development organization for which a person may submit a declaration of conformity in order to meet a premarket submission requirement or other requirement under this chapter to which such standard is applicable.
 
-(B) If a person elects to use a standard recognized by the Secretary under subparagraph (A) to meet the requirements described in such subparagraph, the person shall provide a declaration of conformity to the Secretary that certifies that the device is in conformity with such standard. A person may elect to use data, or information, other than data required by a standard recognized under subparagraph (A) to meetany requirement regarding devices under this chapter.
+(B) If a person elects to use a standard recognized by the Secretary under subparagraph (A) to meet the requirements described in such subparagraph, the person shall provide a declaration of conformity to the Secretary that certifies that the device is in conformity with such standard. A person may elect to use data, or information, other than data required by a standard recognized under subparagraph (A) to meet any requirement regarding devices under this chapter.
 
 (C)(i) Any person may submit a request for recognition under subparagraph (A) of all or part of an appropriate standard established by a nationally or internationally recognized standard organization.<sup>1</sup>
 
@@ -104,67 +104,45 @@
 
 (4) The Secretary shall provide to all employees of the Food and Drug Administration who review premarket submissions for devices periodic training on the concept and use of recognized standards for purposes of meeting a premarket submission requirement or other applicable requirement under this chapter, including standards relevant to an employee's area of device review.
 
-#### (d) Pilot accreditation scheme for conformity assessment
+#### (d) Accreditation scheme for conformity assessment
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a pilot program under which—
+&emsp;The Secretary shall establish a program under which—
 
-&emsp;&emsp;(A) testing laboratories may be accredited, by accreditation bodies meeting criteria specified by the Secretary, to assess the conformance of a device with certain standards recognized under this section; and
+&emsp;&emsp;(A) testing laboratories meeting criteria specified in guidance by the Secretary may be accredited, by accreditation bodies meeting criteria specified in guidance by the Secretary, to conduct testing to support the assessment of the conformity of a device to certain standards recognized under this section; and
 
-&emsp;&emsp;(B) subject to paragraph (2), determinations by testing laboratories so accredited that a device conforms with such standard or standards shall be accepted by the Secretary for purposes of demonstrating such conformity under this section unless the Secretary finds that a particular such determination shall not be so accepted.
+&emsp;&emsp;(B) subject to paragraph (2), results from tests conducted to support the assessment of conformity of devices as described in subparagraph (A) conducted by testing laboratories accredited pursuant to this subsection shall be accepted by the Secretary for purposes of demonstrating such conformity unless the Secretary finds that certain results of such tests should not be so accepted.
 
-#### (2) Secretarial review of accredited laboratory determinations
+#### (2) Secretarial review of accredited laboratory results
 
 &emsp;The Secretary may—
 
-&emsp;&emsp;(A) review determinations by testing laboratories accredited pursuant to this subsection, including by conducting periodic audits of such determinations or processes of accredited bodies or testing laboratories and, following such review, taking additional measures under this chapter, such as suspension or withdrawal of accreditation of such testing laboratory under paragraph (1)(A) or requesting additional information with respect to such device, as the Secretary determines appropriate; and
+&emsp;&emsp;(A) review the results of tests conducted by testing laboratories accredited pursuantto this subsection, including by conducting periodic audits of such results or of the processes of accredited bodies or testing laboratories;
 
-&emsp;&emsp;(B) if the Secretary becomes aware of information materially bearing on safety or effectiveness of a device assessed for conformity by a testing laboratory so accredited, take such additional measures under this chapter as the Secretary determines appropriate, such as suspension or withdrawal of accreditation of such testing laboratory under paragraph (1)(A), or requesting additional information with regard to such device.
+&emsp;&emsp;(B) following such review, take additional measures under this chapter, as the Secretary determines appropriate, such as—
 
-#### (3) Implementation and reporting
+&emsp;&emsp;&emsp;(i) suspension or withdrawal of accreditation of a testing laboratory or recognition of an accreditation body under paragraph (1)(A); or
 
-#### (A) Public meeting
+&emsp;&emsp;&emsp;(ii) requesting additional information with respect to a device; and
 
-&emsp;&emsp;The Secretary shall publish in the Federal Register a notice of a public meeting to be held no later than September 30, 2018, to discuss and obtain input and recommendations from stakeholders regarding the goals and scope of, and a suitable framework and procedures and requirements for, the pilot program under this subsection.
+&emsp;&emsp;(C) if the Secretary becomes aware of information materially bearing on the safety or effectiveness of a device for which an assessment of conformity was supported by testing conducted by a testing laboratory accredited under this subsection, take such additional measures under this chapter, as the Secretary determines appropriate, such as—
 
-#### (B) Pilot program guidance
+&emsp;&emsp;&emsp;(i) suspension or withdrawal of accreditation of a testing laboratory or recognition of an accreditation body under paragraph (1)(A); or
 
-&emsp;&emsp;The Secretary shall—
+&emsp;&emsp;&emsp;(ii) requesting additional information with regard to such device.
 
-&emsp;&emsp;&emsp;(i) not later than September 30, 2019, issue draft guidance regarding the goals and implementation of the pilot program under this subsection; and
+#### (3) Report
 
-&emsp;&emsp;&emsp;(ii) not later than September 30, 2021, issue final guidance with respect to the implementation of such program.
+&emsp;The Secretary shall make available on the internet website of the Food and Drug Administration an annual report on the progress of the program under this subsection.
 
-#### (C) Pilot program initiation
-
-&emsp;&emsp;Not later than September 30, 2020, the Secretary shall initiate the pilot program under this subsection.
-
-#### (D) Report
-
-&emsp;&emsp;The Secretary shall make available on the internet website of the Food and Drug Administration an annual report on the progress of the pilot program under this subsection.
-
-#### (4) Sunset
-
-&emsp;As of October 1, 2022—
-
-&emsp;&emsp;(A) the authority for accreditation bodies to accredit testing laboratories pursuant to paragraph (1)(A) shall cease to have force or effect;
-
-&emsp;&emsp;(B) the Secretary—
-
-&emsp;&emsp;&emsp;(i) may not accept a determination pursuant to paragraph (1)(B) made by a testing laboratory after such date; and
-
-&emsp;&emsp;&emsp;(ii) may accept such a determination made prior to such date;
-
-&emsp;&emsp;(C) except for purposes of accepting a determination described in subparagraph (B)(ii), the Secretary shall not continue to recognize the accreditation of testing laboratories accredited under paragraph (1)(A); and
-
-&emsp;&emsp;(D) the Secretary may take actions in accordance with paragraph (2) with respect to the determinations made prior to such date and recognition of the accreditation of testing laboratories pursuant to determinations made prior to such date.
-
-(June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80, §4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056; Pub. L. 114–255, div. A, title III, §§3044(b)(3), 3053(a), Dec. 13, 2016, 130 Stat. 1121, 1125; Pub. L. 115–52, title II, §205(a), Aug. 18, 2017, 131 Stat. 1016.)
+(June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80, §4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056; Pub. L. 114–255, div. A, title III, §§3044(b)(3), 3053(a), Dec. 13, 2016, 130 Stat. 1121, 1125; Pub. L. 115–52, title II, §205(a), Aug. 18, 2017, 131 Stat. 1016; Pub. L. 117–180, div. F, title II, §2005, Sept. 30, 2022, 136 Stat. 2153.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–180 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to a pilot program for accrediting laboratories to assess device conformance.
 
 <b>2017</b>—Subsec. (d). Pub. L. 115–52 added subsec. (d).
 
@@ -226,6 +204,10 @@ Subsec. (g). Pub. L. 101–629, §6(a)(3), redesignated subsec. (g) as (b).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–180, div. F, title II, §2008, Sept. 30, 2022, 136 Stat. 2154, provided that: "The amendments made by this title \[amending this section and sections 360m and 379i to 379j–1 of this title and repealing provisions set out as notes under sections 379i and 379j–1 of this title\] shall take effect on October 1, 2022, or the date of the enactment of this Act \[Sept. 30, 2022\], whichever is later, except that fees under part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i et seq.) shall be assessed for all submissions listed in section 738(a)(2)(A) of such Act \[21 U.S.C. 379j(a)(2)(A)\] received on or after October 1, 2022, regardless of the date of the enactment of this Act."
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of subchapter VII of this chapter to be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
@@ -240,7 +222,7 @@ Nothing in amendment by section 3044(b)(3) of Pub. L. 114–255 to be construed 
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### Guidance
 

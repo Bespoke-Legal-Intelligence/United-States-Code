@@ -24,7 +24,7 @@ Not later than February 15 of each year, beginning in 1993, the President shall 
 
 &emsp;(1) For each critical technology designated by the President for the purpose of subsection (a), a description of the progress made in implementing subsection (a) during the fiscal year preceding the fiscal year in which the report is submitted.
 
-&emsp;(2) A description of each proposed program, if any, for further implementing subsection (a) with respect to a critical technology through the date for the submission of the next annual report.
+&emsp;(2) A description of each proposed program, if any, for further implementing subsection (a)with respect to a critical technology through the date for the submission of the next annual report.
 
 &emsp;(3) A copy of each strategy, if any, completed or revised pursuant to subsection (a) during the fiscal year covered by the report.
 

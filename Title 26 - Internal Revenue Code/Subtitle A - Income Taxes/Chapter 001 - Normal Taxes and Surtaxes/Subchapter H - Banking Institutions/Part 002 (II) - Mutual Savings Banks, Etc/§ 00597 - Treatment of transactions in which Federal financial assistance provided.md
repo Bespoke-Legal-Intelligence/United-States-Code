@@ -60,7 +60,7 @@ Subsec. (b)(2). Pub. L. 101–239 substituted "in connection with such assistanc
 
 <b>1988</b>—Pub. L. 100–647, §4012(b)(2)(D)(i), substituted "FSLIC or FDIC" for "FSLIC" in section catchline.
 
-Subsec. (a). Pub. L. 100–647, §4012(b)(2)(A), inserted at end "Gross income of a bank does not include any amount of money or other property received from the Federal Deposit Insurance Corporation pursuant to sections 13(c), 15(c)(1), and 15(c)(2) of the Federal DepositInsurance Act (12 U.S.C. 1821(f) and 1823(c)(1) and (c)(2)), regardless of whether any note or other instrument is issued in exchange therefor."
+Subsec. (a). Pub. L. 100–647, §4012(b)(2)(A), inserted at end "Gross income of a bank does not include any amount of money or other property received from the Federal Deposit Insurance Corporation pursuant to sections 13(c), 15(c)(1), and 15(c)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1821(f) and 1823(c)(1) and (c)(2)), regardless of whether any note or other instrument is issued in exchange therefor."
 
 Subsec. (b). Pub. L. 100–647, §4012(b)(2)(C), substituted "association or bank" for "association".
 
@@ -74,7 +74,7 @@ Subsec. (d). Pub. L. 100–647, §4012(b)(2)(B), which directed amendment of sec
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7841(e)(2), Dec. 19, 1989, 103 Stat. 2429, provided that: "The amendment made by this subsection \[amending this section\] shall apply as if included in the amendments made by section 1401 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73\]."
+Pub. L. 101–239, title VII, §7841(e)(2), Dec. 19, 1989, 103 Stat. 2429, provided that: "The amendment made bythis subsection \[amending this section\] shall apply as if included in the amendments made by section 1401 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 \[Pub. L. 101–73\]."
 
 Pub. L. 101–73, title XIV, §1401(c)(3)–(5), Aug. 9, 1989, 103 Stat. 550, provided that:
 
@@ -140,5 +140,5 @@ Pub. L. 101–73, title XIV, §1401(c)(7), Aug. 9, 1989, 103 Stat. 550, provided
 
 #### Annual Reports on Transactions in Which Federal Financial Assistance Provided
 
-Pub. L. 101–73, title XIV, §1403, Aug. 9, 1989, 103 Stat. 551, which required the Secretary of the Treasury tosubmit annual reports to the Senate and to the Committee on Ways and Means of the House of Representatives on transactions with respect to which Federal financial assistance subject to this section was provided, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 142 of House Document No. 103–7.
+Pub. L. 101–73, title XIV, §1403, Aug. 9, 1989, 103 Stat. 551, which required the Secretary of the Treasury to submit annual reports to the Senate and to the Committee on Ways and Means of the House of Representatives on transactions with respect to which Federal financial assistance subject to this section was provided, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 142 of House Document No. 103–7.
 

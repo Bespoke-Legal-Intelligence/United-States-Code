@@ -46,7 +46,7 @@ Methods of Sale.—(1) The Secretary shall permit a purchaser of articles or ser
 
 (e)
 
-Deposit of Proceeds.—Proceeds from sales of articles and services under this section shall be credited to the funds, including working capital funds and operation and maintenance funds, incurring the costs of manufacture or performance.
+Deposit of Proceeds.—Proceeds from sales of articles and services under this section shallbe credited to the funds, including working capital funds and operation and maintenance funds, incurring the costs of manufacture or performance.
 
 (f)
 
@@ -70,7 +70,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) in the case of services, the extent of the services sold.
 
-(Added Pub. L. 103–337, div. A, title III, §339(a)(1), Oct. 5, 1994, 108 Stat. 2718, §2553;amended Pub. L. 106–65, div. A, title III, §331(a)(2), (b), Oct. 5, 1999, 113 Stat. 566, 567; renumbered §2563, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–107, div. A, title III, §343(a), Dec. 28, 2001, 115 Stat. 1061; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 103–337, div. A, title III, §339(a)(1), Oct. 5, 1994, 108 Stat. 2718, §2553; amended Pub. L. 106–65, div. A, title III, §331(a)(2), (b), Oct. 5, 1999, 113 Stat. 566, 567; renumbered §2563, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–107, div. A, title III, §343(a), Dec. 28, 2001, 115 Stat. 1061; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
 #### <b>Editorial Notes</b>
 

@@ -24,7 +24,7 @@
 
 #### (b) Independence of Advisory Committee
 
-In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the authorizing committees in accordance with subsection (f). The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
+In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submissionto the authorizing committees in accordance with subsection (f). The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
 
 #### (c) Membership
 
@@ -98,7 +98,7 @@ The Advisory Committee may submit its proposed recommendations to the Department
 
 #### (g) Compensation and expenses
 
-Members of the Advisory Committee may each receive reimbursement for travel expenses incident to attending Advisory Committee meetings, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
+Members of the Advisory Committee may each receive reimbursement for travel expenses incident to attending Advisory Committee meetings, including per diem in lieu of subsistence,as authorized by section 5703 of title 5, for persons in the Government service employed intermittently.
 
 #### (h) Personnel and resources
 
@@ -136,7 +136,7 @@ The Advisory Committee shall—
 
 #### (k) Term of Committee
 
-Notwithstanding the sunset and charter provisions of the Federal Advisory Committee Act or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2015.
+Notwithstanding the sunset and charter provisions of chapter 10 of title 5 or any other statute or regulation, the Advisory Committee shall be authorized until October 1, 2015.
 
 #### (l) Review and analysis of regulations
 
@@ -176,7 +176,7 @@ Notwithstanding the sunset and charter provisions of the Federal Advisory Commit
 
 #### (B) Review panels
 
-&emsp;&emsp;The Advisory Committee shall convene not less than two review panels of representatives of the groups involved in higher education, including individuals involved in student financial assistance programs underthis subchapter, who have experience and expertise in the regulations issued by the Federal Government that affect all sectors of higher education, in order to review the regulations and to provide recommendations to the Advisory Committee with respect to the review and analysis under paragraph (2). The panels shall be made up of experts in areas such as the operations of the financial assistance programs, the institutional eligibility requirements for the financial assistance programs, regulations not directly related to the operations or the institutional eligibility requirements of the financial assistance programs, and regulations for dissemination of information to students about the financial assistance programs.
+&emsp;&emsp;The Advisory Committee shall convene not less than two review panels of representatives of the groups involved in higher education, including individuals involved in student financial assistance programs under this subchapter, who have experience and expertise in the regulations issued by the Federal Government that affect all sectors of higher education, in order to review the regulations and to provide recommendations to the Advisory Committee with respect to the review and analysis under paragraph (2). The panels shall be made up of experts in areas such as the operations of the financial assistance programs, the institutional eligibility requirements for the financial assistance programs, regulations not directly related to the operations or the institutional eligibility requirements of the financial assistance programs, and regulations for dissemination of information to students about the financial assistance programs.
 
 #### (4) Periodic updates to the authorizing committees
 
@@ -238,15 +238,13 @@ Notwithstanding the sunset and charter provisions of the Federal Advisory Commit
 
 &emsp;&emsp;The Advisory Committee shall, not later than three years after August 14, 2008, prepare and submit to the authorizing committees and the Secretary a final report on the study, including recommendations for legislative, regulatory, and administrative changes based on findings related to the topics identified under paragraph (2).
 
-(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754; Pub. L. 110–315, title IV, §494C, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(11), July 1, 2009, 123 Stat. 1953; Pub. L. 113–174, §2, Sept. 26, 2014, 128 Stat. 1900.)
+(Pub. L. 89–329, title IV, §491, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1492; amended Pub. L. 100–50, §15(16)–(18), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §496, July 23, 1992, 106 Stat. 631; Pub. L. 103–208, §2(h)(45), (46), Dec. 20, 1993, 107 Stat. 2478; Pub. L. 105–244, title IV, §490C, Oct. 7, 1998, 112 Stat. 1754; Pub. L. 110–315, title IV, §494C, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(11), July 1, 2009, 123 Stat. 1953; Pub. L. 113–174, §2, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 117–286, §4(a)(147), Dec. 27, 2022, 136 Stat. 4322.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 1233g of this title, referred to in subsec. (b), was repealed by Pub. L. 103–382, title II, §212(a)(2), Oct. 20, 1994, 108 Stat. 3913.
-
-The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Higher Education Opportunity Act, referred to in subsec. (l)(4)(A), is Pub. L. 110–315, Aug. 14, 2008, 122 Stat. 3078. Section 1106 of the Act is not classified to the Code. For complete classification of such Act to the Code, see Short Title of 2008 Amendment note set out under section 1001 of this title and Tables.
 
@@ -257,6 +255,8 @@ A prior section 1098, Pub. L. 89–329, title IV, §491, as added Pub. L. 96–3
 Another prior section 491 of Pub. L. 89–329 amended former section 403 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (k). Pub. L. 117–286 substituted "chapter 10 of title 5" for "the Federal Advisory Committee Act".
 
 <b>2014</b>—Subsec. (k). Pub. L. 113–174 substituted "2015" for "2014".
 

@@ -50,7 +50,7 @@ Testing and Laboratory Requirements.—In carrying out subsection (b) of this se
 
 &emsp;(4) provide that all tests indicating the use of alcohol or a controlled substance in violation of law or a Government regulation be confirmed by a scientifically recognized method of testing capable of providing quantitative information about alcohol or a controlled substance;
 
-&emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certifiedlaboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;
+&emsp;(5) provide that each specimen be subdivided, secured, and labeled in the presence of the tested individual and that a part of the specimen be retained in a secure manner to prevent the possibility of tampering, so that if the individual's confirmation test results are positive the individual has an opportunity to have the retained part tested by a 2d confirmation test done independently at another certified laboratory if the individual requests the 2d confirmation test not later than 3 days after being advised of the results of the first confirmation test;
 
 &emsp;(6) ensure appropriate safeguards for testing to detect and quantify alcohol in breath and body fluid samples, including urine and blood, through the development of regulations that may be necessary and in consultation with the Secretary of Health and Human Services;
 
@@ -162,7 +162,7 @@ This amends 49:5331(a)(3) to correct an erroneous cross-reference.
 
 <b>2012</b>—Pub. L. 112–141, §20030(f), substituted "Secretary" for "Secretary of Transportation" wherever appearing.
 
-Subsec. (g). Pub. L. 112–141, §20022, added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "A person is not eligible for financial assistance under section 5307, 5309, or 5311 of this title if the person is required, under regulations the Secretary of Transportation prescribes under this section, to establish a program of alcohol and controlledsubstances testing and does not establish the program."
+Subsec. (g). Pub. L. 112–141, §20022, added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "A person is not eligible for financial assistance under section 5307, 5309, or 5311 of this title if the person is required, under regulations the Secretary of Transportation prescribes under this section, to establish a program of alcohol and controlled substances testing and does not establish the program."
 
 <b>2005</b>—Subsec. (a)(3). Pub. L. 109–59, §3030(a), substituted "section 20140 or 31306 of this title or section 2303a, 7101(i), or 7302(e) of title 46" for "section 20140 or 31306 of this title" and inserted at end "The Secretary may also decide that a form of public transportation is covered adequately, for employee alcohol and controlled substances testing purposes, under the alcohol and controlled substance statutes or regulations of an agency within the Department of Transportation or the Coast Guard.".
 

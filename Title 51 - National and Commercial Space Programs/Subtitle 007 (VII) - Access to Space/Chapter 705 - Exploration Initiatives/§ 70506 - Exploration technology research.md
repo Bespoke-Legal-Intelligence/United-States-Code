@@ -40,5 +40,5 @@ Awards.—At least 75 percent of the amount appropriated for Technology and Comm
 
 "(c)
 
-Plan.—The Administrator shall provide to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate, not later than December1, 2000, a plan to implement the program established under subsection (a)."
+Plan.—The Administrator shall provide to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate, not later than December 1, 2000, a plan to implement the program established under subsection (a)."
 

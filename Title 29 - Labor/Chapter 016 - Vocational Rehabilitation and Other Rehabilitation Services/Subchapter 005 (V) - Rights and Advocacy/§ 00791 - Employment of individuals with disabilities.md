@@ -2,7 +2,7 @@
 
 #### (a) Interagency Committee on Employees who are Individuals with Disabilities; establishment; membership; co-chairmen; availability of other Committee resources; purpose and functions
 
-There is established within the Federal Government an Interagency Committee on Employees who are Individuals with Disabilities (hereinafter in this section referred to as the "Committee"), comprised of such members as the President may select, including the following (or their designees whose positions are Executive Level IV or higher): the Chairman of the Equal Employment Opportunity Commission\(hereafter in this section referred to as the "Commission"), the Director of the Office of Personnel Management, the Secretary of Veterans Affairs, the Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services. Either the Director of the Office of Personnel Management and the Chairman of the Commission shall serve as co-chairpersons of the Committee or the Director or Chairman shall serve as the sole chairperson of the Committee, as the Director and Chairman jointly determine, from time to time, to be appropriate. The resources of the President's Disability Employment Partnership Board and the President's Committee for People with Intellectual Disabilities shall be made fully available to the Committee. It shall be the purpose and function of the Committee (1) to provide a focus for Federal and other employment of individuals with disabilities, and to review, on a periodic basis, in cooperation with the Commission, the adequacy of hiring, placement, and advancement practices with respect to individuals with disabilities, by each department, agency, and instrumentality in the executive branch of Government and the Smithsonian Institution, and to insure that the special needs of such individuals are being met; and (2) to consult with the Commission to assist the Commission to carry out its responsibilities under subsections (b), (c), and (d) of this section. On the basis of such review and consultation, the Committee shall periodically make to the Commission such recommendations for legislative and administrative changes as it deems necessary or desirable. The Commission shall timely transmit to the appropriate committees of Congress any such recommendations.
+There is established within the Federal Government an Interagency Committee on Employees who are Individuals with Disabilities (hereinafter in this section referred to as the "Committee"), comprised of such members as the President may select, including the following (or their designees whose positions are Executive Level IV or higher): the Chairman of the Equal Employment Opportunity Commission (hereafter in this section referred to as the "Commission"), the Director of the Office of Personnel Management, the Secretary of Veterans Affairs, the Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services. Either the Director of the Office of Personnel Management and the Chairman of the Commission shall serve as co-chairpersons of the Committee or the Director or Chairman shall serve as the sole chairperson of the Committee, as the Director and Chairman jointly determine, from time to time, to be appropriate. The resources of the President's Disability Employment Partnership Board and the President's Committee for People with Intellectual Disabilities shall be made fully available to the Committee. It shall be the purpose and function of the Committee (1) to provide a focus for Federal and other employment of individuals with disabilities, and to review, on a periodic basis, in cooperation with the Commission, the adequacy of hiring, placement, and advancement practices with respect to individuals with disabilities, by each department, agency, and instrumentality in the executive branch of Government and the Smithsonian Institution, and to insure that the special needs of such individuals are being met; and (2) to consult with the Commission to assist the Commission to carry out its responsibilities under subsections (b), (c), and (d) of this section. On the basis of such review and consultation, the Committee shall periodically make to the Commission such recommendations for legislative and administrative changes as it deems necessary or desirable. The Commission shall timely transmit to the appropriate committees of Congress any such recommendations.
 
 #### (b) Federal agencies; affirmative action program plans
 
@@ -22,9 +22,9 @@ An individual who, as a part of an individualized plan for employment under a St
 
 #### (f) Standards used in determining violation of section
 
-The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510,<sup>1</sup> of the Americans with Disabilities Act of 1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
+The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 (42 U.S.C. 12111 et seq.) and the provisions of sections 501 through 504, and 510,<sup>1</sup> of the Americans with Disabilities Act of1990 (42 U.S.C. 12201–12204 and 12210), as such sections relate to employment.
 
-(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV, §408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, §604(d), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–256, §2(d)(3), Oct. 5, 2010, 124Stat. 2643; Pub. L. 113–128, title IV, §456(a), July 22, 2014, 128 Stat. 1675.)
+(Pub. L. 93–112, title V, §501, Sept. 26, 1973, 87 Stat. 390; Pub. L. 98–221, title I, §104(b)(3), Feb. 22, 1984, 98 Stat. 18; Pub. L. 99–506, title I, §103(d)(2)(C), title X, §§1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, 100 Stat. 1810, 1843, 1844; Pub. L. 100–630, title II, §206(a), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–54, §13(k)(1)(B), June 13, 1991, 105 Stat. 276; Pub. L. 102–569, title I, §102(p)(29), title V, §503, Oct. 29, 1992, 106 Stat. 4360, 4424; Pub. L. 103–73, title I, §112(a), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–220, title III, §341(c), title IV, §408(a)(1), Aug. 7, 1998, 112 Stat. 1092, 1202; Pub. L. 109–435, title VI, §604(d), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 111–256, §2(d)(3), Oct. 5, 2010, 124 Stat. 2643; Pub. L. 113–128, title IV, §456(a), July 22, 2014, 128 Stat. 1675.)
 
 #### <b>Editorial Notes</b>
 
@@ -98,13 +98,13 @@ Subsec. (e). Pub. L. 99–506, §1001(f)(1), substituted "a individualized" for 
 
 Subsec. (f)(2). Pub. L. 99–506, §103(d)(2)(C), substituted "individuals with handicaps" for "handicapped individuals".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–221, §104(b)(3)(A)–(D), substituted "the Chairman of the Office of Personnel Management" and "Education and Health and Human Services" for "the Chairman of the Civil Service Commission" and "Health, Education, and Welfare", respectively, in first sentence, "Secretary of Education and the Chairman of the Office of Personnel Management" for "Secretary of Health, Education, and Welfare and the Chairman of the Civil Service Commission" in second sentence, "Office of Personnel Management" for "Civil Service Commission" in four places, and "Office" for "Commission".
+<b>1984</b>—Subsec. (a). Pub. L. 98–221, §104(b)(3)(A)–(D), substituted "the Chairman of the Office of PersonnelManagement" and "Education and Health and Human Services" for "the Chairman of the Civil Service Commission" and "Health, Education, and Welfare", respectively, in first sentence, "Secretary of Education and the Chairman of the Office of Personnel Management" for "Secretary of Health, Education, and Welfare and the Chairman of the Civil Service Commission" in second sentence, "Office of Personnel Management" for "Civil Service Commission" in four places, and "Office" for "Commission".
 
 Subsec. (b). Pub. L. 98–221, §104(b)(3)(C), (D), substituted "Office of Personnel Management" for "Civil Service Commission" and substituted "Office" for "Commission" in three places.
 
 Subsec. (c). Pub. L. 98–221, §104(b)(3)(C), substituted "Office of Personnel Management" for "Civil Service Commission".
 
-Subsec. (d). Pub. L. 98–221, §104(b)(3)(C), (E), substituted "Office of Personnel Management" for "CivilService Commission" in two places and "the activities of the Office of Personnel Management" for "Civil Service Commission's activities".
+Subsec. (d). Pub. L. 98–221, §104(b)(3)(C), (E), substituted "Office of Personnel Management" for "Civil Service Commission" in two places and "the activities of the Office of Personnel Management" for "Civil Service Commission's activities".
 
 Subsec. (f)(1). Pub. L. 98–221, §104(b)(3)(F), substituted "Secretary of Education" for "Secretary of Health, Education, and Welfare".
 
@@ -184,7 +184,7 @@ Sec. 2. The Interagency Committee on Handicapped Employees shall also be referre
 
 #### Executive Order No. 12640
 
-Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R. 4527, which established the President's Committee on Employment of People with Disabilities, the Executive Committee of the President's Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord. No. 11480, was revoked by Ex. Ord. No. 13187, §4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
+Ex. Ord. No. 12640, May 10, 1988, 53 F.R. 16996, as amended by Ex. Ord. No. 12945, Jan. 20, 1995, 60 F.R.4527, which established the President's Committee on Employment of People with Disabilities, the Executive Committee of the President's Committee on Employment of People with Disabilities, and the Advisory Council on Employment of People with Disabilities, and provided for the membership, functions, and administration of those bodies, and superseded Ex. Ord. No. 11480, was revoked by Ex. Ord. No. 13187, §4(a), Jan. 10, 2001, 66 F.R. 3858, set out as a note under section 701 of this title.
 
 #### Ex. Ord. No. 13163. Increasing the Opportunity for Individuals With Disabilities To Be Employed in the Federal Government
 
@@ -244,7 +244,7 @@ Section 1. <i>Establishment of Effective Written Procedures to Facilitate the Pr
 
 &emsp;(10) Encourage the use of informal dispute resolution processes to allow individuals with disabilities to obtain prompt reconsideration of denials of reasonable accommodation. Agencies must also inform individuals with disabilities that they have the right to file complaints in the Equal Employment Opportunity process and other statutory processes, as appropriate, if their requests for reasonable accommodation are denied.
 
-Sec. 2. <i>Submission of Agency Reasonable Accommodation Procedures to the Equal Employment Opportunity Commission (EEOC)</i>. Within 1 year from the date of this order, each agency shall submit its procedures to the EEOC. Each agency shall also submit to the EEOC any modifications to its reasonable accommodation procedures at the time that those modifications are adopted.
+Sec. 2. <i>Submission of Agency Reasonable Accommodation Procedures to the Equal Employment Opportunity Commis</i><i>sion (EEOC)</i>. Within 1 year from the date of this order, each agency shall submit its procedures to the EEOC. Each agency shall also submit to the EEOC any modifications to its reasonable accommodation procedures at the time that those modifications are adopted.
 
 Sec. 3. <i>Collective Bargaining Obligations</i>. In adopting their reasonable accommodation procedures, agencies must honor their obligations to notify their collective bargaining representatives and bargain over such procedures to the extent required by law.
 
@@ -252,7 +252,7 @@ Sec. 4. <i>Implementation</i>. The EEOC shall issue guidance for the implementat
 
 Sec. 5. <i>Construction and Judicial Review</i>. (a) Nothing in this order limits the rights that individuals with disabilities may have under the Rehabilitation Act of 1973, as amended.
 
-(b) This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against theUnited States, its agencies, its officers, its employees, or any person.
+(b) This order is intended only to improve the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, its employees, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -294,7 +294,7 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations, and shall not be construed to require anyFederal employee to disclose disability status involuntarily.
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations, and shall not be construed to require any Federal employee to disclose disability status involuntarily.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 

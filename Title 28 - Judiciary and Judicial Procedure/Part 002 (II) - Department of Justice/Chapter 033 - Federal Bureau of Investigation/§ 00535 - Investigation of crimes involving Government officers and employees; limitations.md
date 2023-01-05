@@ -14,7 +14,7 @@
 
 (c) This section does not limit—
 
-&emsp;(1) the authority of the military departments to investigate persons or offenses over which the armed forces have jurisdiction under the Uniform Code of Military Justice (chapter 47 of title 10); or
+&emsp;(1) the authority of the military departments to investigate persons or offenses over which the armed forces have jurisdictionunder the Uniform Code of Military Justice (chapter 47 of title 10); or
 
 &emsp;(2) the primary authority of the Postmaster General to investigate postal offenses.
 

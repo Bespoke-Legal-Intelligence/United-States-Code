@@ -2,7 +2,7 @@
 
 (a)
 
-Agreements.—The Secretary of Veterans Affairs may enter into agreements with the Secretary of Defense for the planning, design, and construction of facilities to be operated as shared medical facilities.
+Agreements.—The Secretary of Veterans Affairs may enter into agreements with the Secretary of Defense for the planning, design, and construction, or the leasing, of facilities to be operated as shared medical facilities.
 
 (b)
 
@@ -14,11 +14,15 @@ Transfer of Funds by Secretary of Veterans Affairs.—(1) The Secretary of Veter
 
 &emsp;(B) the other requirements of section 8104 of this title have been met with respect to amounts identified for transfer.
 
+(3) The Secretary of Veterans Affairs may transfer to the Department of Defense amounts appropriated to the "Medical Facilities" account of the Department of Veterans Affairs for the purpose of leasing space for a shared medical facility if the estimated share of the Department of Veterans Affairs for the lease costs does not exceed the amount specified in section 8104(a)(3)(B) of this title.
+
 (c)
 
 Transfer of Funds to Secretary of Veterans Affairs.—(1) Any amount transferred to the Secretary of Veterans Affairs by the Secretary of Defense for necessary expenses for the planning, design, or construction of a shared medical facility, if the estimated share of the project costs of the Department of Veterans Affairs does not exceed the amount specified in section 8104(a)(3)(A) of this title, may be credited to the "Construction, minor projects" account of the Department of Veterans Affairs and used for the necessary expenses of constructing such shared medical facility.
 
 (2) Any amount transferred to the Secretary of Veterans Affairs by the Secretary of Defense for necessary expenses for the planning, design, or construction of a shared medical facility, if the estimated share of the project costs of the Department of Veterans Affairs exceeds the amount specified in section 8104(a)(3)(A) of this title, may be credited to the "Construction, major projects" account of the Department of Veterans Affairs and used for the necessary expenses of constructing such shared medical facility if the other requirements of section 8104 of this title have been met with respect to amounts identified for transfer.
+
+(3) Any amount transferred to the Secretary of Veterans Affairs by the Secretary of Defense for the purpose of leasing space for a shared medical facility may be credited to the "Medical Facilities" account of the Department of Veterans Affairs and may be used for such purpose.
 
 (d)
 
@@ -36,5 +40,15 @@ Shared Medical Facility Defined.—In this section, the term "shared medical fac
 
 &emsp;(2) includes any necessary building and auxiliary structure, garage, parking facility, mechanical equipment, abutting and covered sidewalks, and accommodations for attending personnel.
 
-(Added Pub. L. 117–81, div. A, title VII, §714(b)(1), Dec. 27, 2021, 135 Stat. 1786.)
+(Added Pub. L. 117–81, div. A, title VII, §714(b)(1), Dec. 27, 2021, 135 Stat. 1786; amended Pub. L. 117–168, title VII, §706(b), Aug. 10, 2022, 136 Stat. 1800.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–168, §706(b)(1), inserted ", or the leasing," after "design, and construction".
+
+Subsec. (b)(3). Pub. L. 117–168, §706(b)(2), added par. (3).
+
+Subsec. (c)(3). Pub. L. 117–168, §706(b)(3), added par. (3).
 

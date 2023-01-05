@@ -18,11 +18,23 @@ Status Reports.—(1) The Secretary of Defense shall submit to the congressional
 
 (3) Each report under this subsection shall set forth the following information regarding activities during the previous fiscal year:
 
-&emsp;(A) The total amount of funds obligated for humanitarian relief under this section.
+&emsp;(A) The total amount of funds obligated for humanitarian assistance under this section.
 
-&emsp;(B) The number of scheduled and completed transportation missions for purposes of providing humanitarian assistance under this section.
+&emsp;(B) A comprehensive list of humanitarian assistance efforts for which support was provided under this section, disaggregated by foreign partner country, amount obligated, and purpose specified in subsection (b).
 
-&emsp;(C) A description of any transfer of excess nonlethal supplies of the Department of Defense made available for humanitarian relief purposes under section 2557 of this title. The description shall include the date of the transfer, the entity to whom the transfer is made, and the quantity of items transferred.
+&emsp;(C) A description of the manner in which such efforts address—
+
+&emsp;&emsp;(i) the humanitarian needs of the foreign partner country; and
+
+&emsp;&emsp;(ii) Department of Defense objectives and broader United States national security objectives.
+
+&emsp;(D) A description of any transfer of nonlethal excess supplies of the Department of Defense made available for humanitarian relief purposes under section 2557 of this title, including, for each such transfer—
+
+&emsp;&emsp;(i) the date of the transfer;
+
+&emsp;&emsp;(ii) the entity to which the transfer is made; and
+
+&emsp;&emsp;(iii) the quantity of items transferred.
 
 (d)
 
@@ -40,11 +52,19 @@ Congressional Committees.—The congressional committees referred to in subsecti
 
 &emsp;(2) The Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
 
-(Added Pub. L. 102–484, div. A, title III, §304(c)(1), Oct. 23, 1992, 106 Stat. 2361, §2551; amended Pub. L. 104–106, div. A, title XIII, §1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §2561 and amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1), (c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 108–136, div. A, title III, §312(d), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 112–239, div. A, title X, §1076(f)(31), Jan. 2, 2013, 126 Stat. 1953.)
+(Added Pub. L. 102–484, div. A, title III, §304(c)(1), Oct. 23, 1992, 106 Stat. 2361, §2551; amended Pub. L. 104–106, div. A, title XIII, §1312, Feb. 10, 1996, 110 Stat. 474; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; renumbered §2561 and amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1), (c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 108–136, div. A, title III, §312(d), Nov. 24, 2003, 117 Stat. 1430; Pub. L. 112–239, div. A, title X, §1076(f)(31), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 117–263, div. A, title X, §1053(a), Dec. 23, 2022, 136 Stat. 2777.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(3)(A). Pub. L. 117–263, §1053(a)(1), substituted "assistance" for "relief".
+
+Subsec. (c)(3)(B) to (D). Pub. L. 117–263, §1053(a)(2), added subpars. (B) to (D) and struck out former subpars. (B) and (C) which read as follows:
+
+"(B) The number of scheduled and completed transportation missions for purposes of providing humanitarian assistance under this section.
+
+"(C) A description of any transfer of excess nonlethal supplies of the Department of Defense made available for humanitarian relief purposes under section 2557 of this title. The description shall include the date of the transfer, the entity to whom the transfer is made, and the quantity of items transferred."
 
 <b>2013</b>—Subsec. (f)(2). Pub. L. 112–239 substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 
@@ -83,10 +103,6 @@ Subsec. (f). Pub. L. 104–106, §1312(6), added subsec. (f). Former subsec. (f)
 Subsec. (g). Pub. L. 104–106, §1312(5), redesignated subsec. (g) as (e).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Termination of Reporting Requirements
-
-For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
 
 #### Notifications Regarding Humanitarian Relief
 

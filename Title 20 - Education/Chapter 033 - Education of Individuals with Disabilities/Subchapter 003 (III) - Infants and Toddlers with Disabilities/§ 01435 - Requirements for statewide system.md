@@ -90,7 +90,7 @@ In implementing subsection (a)(9), a State may adopt a policy that includes maki
 
 &emsp;&emsp;&emsp;&emsp;(II) applicable procedural safeguards; and
 
-&emsp;&emsp;&emsp;&emsp;(III) possible costs (including any fees to be charged to families as described insection 1432(4)(B) of this title), if any, to parents of infants or toddlers with disabilities;
+&emsp;&emsp;&emsp;&emsp;(III) possible costs (including any fees to be charged to families as described in section 1432(4)(B) of this title), if any, to parents of infants or toddlers with disabilities;
 
 &emsp;&emsp;(B) services provided pursuant to this subsection include an educational component that promotes school readiness and incorporates preliteracy, language, and numeracy skills;
 

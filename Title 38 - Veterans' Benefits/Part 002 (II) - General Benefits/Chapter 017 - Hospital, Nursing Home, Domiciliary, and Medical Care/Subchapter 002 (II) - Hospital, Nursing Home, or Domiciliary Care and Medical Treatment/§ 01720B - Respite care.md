@@ -20,7 +20,7 @@
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–117, §101(e)(1), substituted "enrolled" for "eligible".
 
-Subsec. (b). Pub. L. 106–117, §101(e)(2), in introductory provisions, substituted "the term 'respite care services' means care and services" for "the term 'respite care'means hospital or nursing home care", in par. (1) substituted "are" for "is", in par. (2) substituted "are" for "is" and struck out "in a Department facility" after "furnished", and in par. (3) substituted "are" for "is".
+Subsec. (b). Pub. L. 106–117, §101(e)(2), in introductory provisions, substituted "the term 'respite care services' means care and services" for "the term 'respite care' means hospital or nursing home care", in par. (1) substituted "are" for "is", in par. (2) substituted "are" for "is" and struck out "in a Department facility" after "furnished", and in par. (3) substituted "are" for "is".
 
 Subsec. (c). Pub. L. 106–117, §101(e)(3), added subsec. (c).
 

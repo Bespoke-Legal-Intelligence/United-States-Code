@@ -46,7 +46,7 @@ Security clearances.—Pursuant to existing procedures and requirements, the Adm
 
 &emsp;(3)
 
-Unclassified summaries of classified evidence.—As part of a hearing conducted under this section and upon the request of the individual adversely affected by an order of the Administrator of the Federal Aviation Administration under subsection (a), the Administrator of the Transportation Security Administration shall provide to the individual and reviewing administrative law judge, consistent with the procedures established under paragraph (1), an unclassified summary of any classified information upon which the order of the Administrator of the Federal Aviation Administration is based.
+Unclassified summaries of classified evidence.—As part of a hearing conducted under this section and upon the request of theindividual adversely affected by an order of the Administrator of the Federal Aviation Administration under subsection (a), the Administrator of the Transportation Security Administration shall provide to the individual and reviewing administrative law judge, consistent with the procedures established under paragraph (1), an unclassified summary of any classified information upon which the order of the Administrator of the Federal Aviation Administration is based.
 
 (Added Pub. L. 108–176, title VI, §601(a), Dec. 12, 2003, 117 Stat. 2561; amended Pub. L. 115–254, div. B, title V, §539(l), div. K, title I, §1991(f)(9), Oct. 5, 2018, 132 Stat. 3371, 3643.)
 

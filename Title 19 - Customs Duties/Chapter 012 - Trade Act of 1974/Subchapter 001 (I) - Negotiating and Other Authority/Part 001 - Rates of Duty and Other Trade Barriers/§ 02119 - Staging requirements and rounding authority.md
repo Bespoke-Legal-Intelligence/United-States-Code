@@ -62,9 +62,9 @@ In General.—The aggregate reduction in the rate of duty applicable to items de
 
 &emsp;"(5) Items 306.31, 306.32, 306.33, and 306.34. Notwithstanding subsection (a), the limitation in section 109(a) of the Trade Act of 1974 may be exceeded only to the extent necessary to permit the total reduction proclaimed under section 101 of the Trade Act of 1974 relating to such item to take effect within 2 years after the effective date of the first reduction in the rate of duty proclaimed for such item.
 
-&emsp;"(6) Items for which the President determines the effective date of the first reduction will be after June 30, 1980, and before January 1, 1981, to the extent necessary to permit the second reduction to take effect on January 1, 1981.
+&emsp;"(6) Items for which the President determines the effective date of the first reduction will be after June30, 1980, and before January 1, 1981, to the extent necessary to permit the second reduction to take effect on January 1, 1981.
 
 "(b)
 
-Opportunity for Comment.—Before making any determination under subsection (a)(1) and (2), thePresident shall provide interested parties an opportunity to comment and shall publish his final determinations in the Federal Register before July 1, 1980."
+Opportunity for Comment.—Before making any determination under subsection (a)(1) and (2), the President shall provide interested parties an opportunity to comment and shall publish his final determinations in the Federal Register before July 1, 1980."
 

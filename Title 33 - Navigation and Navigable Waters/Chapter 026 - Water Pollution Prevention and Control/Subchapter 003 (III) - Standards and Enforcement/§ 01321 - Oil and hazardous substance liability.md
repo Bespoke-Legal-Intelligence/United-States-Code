@@ -110,7 +110,7 @@ For the purpose of this section, the term—
 
 (B) The Administrator shall within 18 months after the date of enactment of this paragraph, conduct a study and report to the Congress on methods, mechanisms, and procedures to create incentives to achieve a higher standard of care in all aspects of the management and movement of hazardous substances on the part of owners, operators, or persons in charge of onshore facilities, offshore facilities, or vessels. The Administrator shall include in such study (1) limits of liability, (2) liability for third party damages, (3) penalties and fees, (4) spill prevention plans, (5) current practices in the insurance and banking industries, and (6) whether the penalty enacted in subclause (bb) of clause (iii) of subparagraph (B) of subsection (b)(2) of section 311 of Public Law 92–500 should be enacted.
 
-(3) The discharge of oil or hazardous substances (i) into or upon the navigable waters of the United States, adjoining shorelines, or into or upon the waters of the contiguous zone, or (ii) in connection with activities under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] or the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), in such quantities as may be harmful as determined by the President under paragraph (4) of this subsection, is prohibited, except (A) in the case of such discharges into the waters of the contiguous zone or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act), where permitted under the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, and (B) where permitted in quantities and at times and locations or under such circumstances or conditions as the President may, by regulation, determine not to be harmful. Any regulations issued under this subsection shall be consistent with maritime safety and with marine and navigation laws and regulations and applicable water quality standards.
+(3) The discharge of oil or hazardous substances (i) into or upon the navigable waters of the United States, adjoining shorelines, or into or upon the waters of the contiguous zone, or (ii)in connection with activities under the Outer Continental Shelf Lands Act \[43 U.S.C. 1331 et seq.\] or the Deepwater Port Act of 1974 \[33 U.S.C. 1501 et seq.\], or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), in such quantities as may be harmful as determined by the President under paragraph (4) of this subsection, is prohibited, except (A) in the case of such discharges into the waters of the contiguous zone or which may affect natural resources belonging to, appertaining to, or under the exclusive management authority of the United States (including resources under the Magnuson-Stevens Fishery Conservation and Management Act), where permitted under the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973, and (B) where permitted in quantities and at times and locations or under such circumstances or conditions as the President may, by regulation, determine not to be harmful. Any regulations issued under this subsection shall be consistent with maritime safety and with marine and navigation laws and regulations and applicable water quality standards.
 
 (4) The President shall by regulation determine for the purposes of this section those quantities of oil and any hazardous substances the discharge of which may be harmful to the public health or welfare or the environment of the United States, including but not limited to fish, shellfish, wildlife, and public and private property, shorelines, and beaches.
 
@@ -152,7 +152,7 @@ Public notice.—Before issuing an order assessing a class II civil penalty unde
 
 &emsp;&emsp;(ii)
 
-Presentation of evidence.—Any person who comments on a proposed assessment of a class II civil penalty under this paragraph shall be given notice of any hearing held under this paragraph and of the order assessing such penalty. In any hearing held under this paragraph, such person shall havea reasonable opportunity to be heard and to present evidence.
+Presentation of evidence.—Any person who comments on a proposed assessment of a class II civil penalty under this paragraph shall be given notice of any hearing held under this paragraph and of the order assessing such penalty. In any hearing held under this paragraph, such person shall have a reasonable opportunity to be heard and to present evidence.
 
 &emsp;&emsp;(iii)
 
@@ -286,7 +286,7 @@ Withholding clearance.—If any owner, operator, or person in charge of a vessel
 
 #### (2) Discharge posing substantial threat to public health or welfare
 
-&emsp;(A) If a discharge, or a substantial threat of a discharge, of oil or a hazardous substance from a vessel, offshore facility, or onshore facility is of such a size or character as to be asubstantial threat to the public health or welfare of the United States (including but not limited to fish, shellfish, wildlife, other natural resources, and the public and private beaches and shorelines of the United States), the President shall direct all Federal, State, and private actions to remove the discharge or to mitigate or prevent the threat of the discharge.
+&emsp;(A) If a discharge, or a substantial threat of a discharge, of oil or a hazardous substance from a vessel, offshore facility, or onshore facility is of such a size or character as to be a substantial threat to the public health or welfare of the United States (including but not limited to fish, shellfish, wildlife, other natural resources, and the public and private beaches and shorelines of the United States), the President shall direct all Federal, State, and private actions to remove the discharge or to mitigate or prevent the threat of the discharge.
 
 &emsp;(B) In carrying out this paragraph, the President may, without regard to any other provision of law governing contracting procedures or employment of personnel by the Federal Government—
 
@@ -299,6 +299,8 @@ Withholding clearance.—If any owner, operator, or person in charge of a vessel
 &emsp;(A) Each Federal agency, State, owner or operator, or other person participating in efforts under this subsection shall act in accordance with the National Contingency Plan or as directed by the President.
 
 &emsp;(B) An owner or operator participating in efforts under this subsection shall act in accordance with the National Contingency Plan and the applicable response plan required under subsection (j), or as directed by the President, except that the owner or operator may deviate from the applicable response plan if the President or the Federal On-Scene Coordinator determines that deviation from the response plan would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects.
+
+&emsp;(C) In any case in which the President or the Federal On-Scene Coordinator authorizes a deviation from the salvor as part of a deviation under subparagraph (B) from the applicable response plan required under subsection (j), the Commandant of the Coast Guard shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the deviation and the reasons for such deviation not less than 3 days after such deviation is authorized.
 
 #### (4) Exemption from liability
 
@@ -592,6 +594,144 @@ In any case where an owner or operator of a vessel or an onshore facility or an 
 
 &emsp;The United States Government is not liable for any damages arising from its actions or omissions relating to any response plan required by this section.
 
+#### (9) Western Alaska oil spill planning criteria program
+
+#### (A) Definitions
+
+&emsp;&emsp;In this paragraph:
+
+#### (i) Alternative planning criteria
+
+&emsp;&emsp;&emsp;The term "alternative planning criteria" means criteria submitted under section 155.1065 or 155.5067 of title 33, Code of Federal Regulations (as in effect on December 23, 2022), for vessel response plans.
+
+#### (ii) Prince William Sound Captain of the Port Zone
+
+&emsp;&emsp;&emsp;The term "Prince William Sound Captain of the Port Zone" means the area described in section 3.85–15(b) of title 33, Code of Federal Regulations (or successor regulations).
+
+#### (iii) Secretary
+
+&emsp;&emsp;&emsp;The term "Secretary" means the Secretary of the department in which the Coast Guard is operating.
+
+#### (iv) Vessel response plan
+
+&emsp;&emsp;&emsp;The term "vessel response plan" means a plan required to be submitted by the owneror operator of a tank vessel or a nontank vessel under regulations issued by the President under paragraph (5).
+
+#### (v) Western Alaska Captain of the Port Zone
+
+&emsp;&emsp;&emsp;The term "Western Alaska Captain of the Port Zone" means the area described in section 3.85–15(a) of title 33, Code of Federal Regulations (as in effect on December 23, 2022).
+
+#### (B) Requirement
+
+&emsp;&emsp;Except as provided in subparagraph (I), for any part of the area of responsibility of the Western Alaska Captain of the Port Zone or the Prince William Sound Captain of the Port Zone for which the Secretary has determined that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in such area, a vessel response plan with respect to a discharge of oil for such a vessel shall comply with the Western Alaska oil spill planning criteria established under subparagraph (D)(i).
+
+#### (C) Relation to national planning criteria
+
+&emsp;&emsp;The Western Alaska oil spill planning criteria established under subparagraph (D)(i) shall, with respect to a discharge of oil from a vessel described in subparagraph (B), apply in lieu of any alternative planning criteria accepted for vessels operating, prior to the date on which the Western Alaska oil spill planning criteria are established, in any part of the area of responsibility of the Western Alaska Captain of the Port Zone or the Prince William Sound Captain of the Port Zone for which the Secretary has determined that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in such area.
+
+#### (D) Establishment of Western Alaska oil spill planning criteria
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The President, acting through the Commandant, in consultation with the Western Alaska Oil Spill Criteria Program Manager selected under section 323 of title 14, shall establish—
+
+&emsp;&emsp;&emsp;&emsp;(I) Western Alaska oil spill planning criteria for a worst case discharge of oil, and a substantial threat of such a discharge, within any part of the area of responsibility of the Western Alaska Captain of the Port Zone or Prince William Sound Captain of the Port Zone for which the Secretary has determined that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in such area; and
+
+&emsp;&emsp;&emsp;&emsp;(II) standardized submission, review, approval, and compliance verification processes for the Western Alaska oil spill planning criteria established under this clause, including the quantity and frequency of drills and on-site verifications of vessel response plans approved pursuant to such planning criteria.
+
+#### (ii) Development of subregions
+
+#### (I) Development
+
+&emsp;&emsp;&emsp;&emsp;After establishing the Western Alaska oil spill planning criteria under clause (i), and if necessary to adequately reflect the needs and capabilities of various locations within the Western Alaska Captain of the Port Zone, the President, acting through the Commandant, and in consultation with the Western Alaska Oil Spill Criteria Program Manager selected under section 323 of title 14, may develop subregions for which planning criteria may differ from planning criteria for other subregions in the Western Alaska Captain of the Port Zone.
+
+#### (II) Limitation
+
+&emsp;&emsp;&emsp;&emsp;Any planning criteria for a subregion developed under this clause may not be less stringent than the Western Alaska oil spill planning criteria established under clause (i).
+
+#### (iii) Assessment
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Prior to developing a subregion, the President, acting through the Commandant, shall conduct an assessment on any potential impacts to the entire Western Alaska Captain of the Port Zone to include quantity and availability of response resources in the proposed subregion and in surrounding areas and any changes or impacts to surrounding areas resulting in the development of a subregion with different standards.
+
+#### (II) Consultation
+
+&emsp;&emsp;&emsp;&emsp;In conducting an assessment under this clause, the President, acting through the Commandant, shall consult with State and local governments, Tribes (as defined in section 323 of title 14), the owners and operators that would operate under the proposed subregions, oil spill removal organizations, Alaska Native organizations, and environmental nongovernmental organizations, and shall take into account any experience with the prior use of subregions within the State of Alaska.
+
+#### (III) Submission
+
+&emsp;&emsp;&emsp;&emsp;The President, acting through the Commandant, shall submit the results of an assessment conducted under this clause to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+#### (E) Inclusions
+
+#### (i) Requirements
+
+&emsp;&emsp;&emsp;The Western Alaska oil spill planning criteria established under subparagraph (D)(i) shall include planning criteria for the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) Mechanical oil spill response resources that are required to be locatedwithin any part of the area of responsibility of the Western Alaska Captain of the Port Zone or the Prince William Sound Captain of the Port Zone for which the Secretary has determined that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in such area.
+
+&emsp;&emsp;&emsp;&emsp;(II) Response times for mobilization of oil spill response resources and arrival on the scene of a worst case discharge of oil, or substantial threat of such a discharge, occurring within such part of such area.
+
+&emsp;&emsp;&emsp;&emsp;(III) Pre-identified vessels for oil spill response that are capable of operating in the ocean environment.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Ensuring the availability of at least 1 oil spill removal organization that is classified by the Coast Guard and that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) is capable of responding in all operating environments in such part of such area;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) controls oil spill response resources of dedicated and nondedicated resources within such part of such area, through ownership, contracts, agreements, or other means approved by the President, sufficient—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) to mobilize and sustain a response to a worst case discharge of oil; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) to contain, recover, and temporarily store discharged oil;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) has pre-positioned oil spill response resources in strategic locations throughout such part of such area in a manner that ensures the ability to support response personnel, marine operations, air cargo, or other related logistics infrastructure;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) has temporary storage capability using both dedicated and non-dedicated assets located within such part of such area;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) has non-mechanical oil spill response resources capable of responding to a discharge of persistent oil and a discharge of nonpersistent oil, whether the discharged oil was carried by a vessel as fuel or cargo; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) has wildlife response resources for primary, secondary, and tertiary responses to support carcass collection, sampling, deterrence, rescue, and rehabilitation of birds, sea turtles, marine mammals, fishery resources, and other wildlife.
+
+&emsp;&emsp;&emsp;&emsp;(V) With respect to tank barges carrying nonpersistent oil in bulk as cargo, oil spill response resources that are required to be carried on board.
+
+&emsp;&emsp;&emsp;&emsp;(VI) Specifying a minimum length of time that approval of a vessel response plan under this paragraph is valid.
+
+&emsp;&emsp;&emsp;&emsp;(VII) Managing wildlife protection and rehabilitation, including identified wildlife protection and rehabilitation resources in that area.
+
+#### (ii) Additional considerations
+
+&emsp;&emsp;&emsp;The Western Alaska oil spill planning criteria established under subparagraph (D)(i) may include planning criteria for the following:
+
+&emsp;&emsp;&emsp;&emsp;(I) Vessel routing measures consistent with international routing measure deviation protocols.
+
+&emsp;&emsp;&emsp;&emsp;(II) Maintenance of real-time continuous vessel tracking, monitoring, and engagement protocols with the ability to detect and address vessel operation anomalies.
+
+#### (F) Requirement for approval
+
+&emsp;&emsp;The President may approve a vessel response plan for a vessel under this paragraph only if the owner or operator of the vessel demonstrates the availability of the oil spill response resources required to be included in the vessel response plan under the Western Alaska oil spill planning criteria established under subparagraph (D)(i).
+
+#### (G) Periodic audits
+
+&emsp;&emsp;The Secretary shall conduct periodic audits to ensure compliance of vessel response plans and oil spill removal organizations within the Western Alaska Captain of the Port Zone and the Prince William Sound Captain of the Port Zone with the Western Alaska oil spill planning criteria established under subparagraph (D)(i).
+
+#### (H) Review of determination
+
+&emsp;&emsp;Not less frequently than once every 5 years, the Secretary shall review each determination of the Secretary under subparagraph (B) that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in the area of responsibility of the Western Alaska Captain of the Port Zone and the Prince William Sound Captain of the Port Zone.
+
+#### (I) Vessels in Cook Inlet
+
+&emsp;&emsp;Unless otherwise authorized by the Secretary, a vessel may only operate in Cook Inlet, Alaska, under a vessel response plan approved under paragraph (5) that meets the requirements of the national planning criteria established pursuant to this subsection.
+
+#### (J) Savings provisions
+
+&emsp;&emsp;Nothing in this paragraph affects—
+
+&emsp;&emsp;&emsp;(i) the requirements under this subsection applicable to vessel response plans for vessels operating within the area of responsibility of the Western Alaska Captain of the Port Zone, within Cook Inlet, Alaska;
+
+&emsp;&emsp;&emsp;(ii) the requirements under this subsection applicable to vessel response plans for vessels operating within the area of responsibility of the Prince William Sound Captain of the Port Zone that are subject to section 5005 of the Oil Pollution Act of 1990 (33 U.S.C. 2735); or
+
+&emsp;&emsp;&emsp;(iii) the authority of a Federal On-Scene Coordinator to use any available resources when responding to an oil spill.
+
 #### (k) Repealed. Pub. L. 101–380, title II, §2002(b)(2), Aug. 18, 1990, 104 Stat. 507
 
 #### (l) Administration
@@ -652,7 +792,7 @@ The several district courts of the United States are invested with jurisdiction 
 
 #### (q) Establishment of maximum limit of liability with respect to onshore or offshore facilities
 
-The President is authorized to establish, with respect to any class or category of onshore or offshore facilities, a maximum limit of liability under subsections (f)(2) and (3) of this section of less than $50,000,000, but not less than $8,000,000.
+The President is authorized to establish, with respect to any class or category of onshore oroffshore facilities, a maximum limit of liability under subsections (f)(2) and (3) of this section of less than $50,000,000, but not less than $8,000,000.
 
 #### (r) Liability limitations not to limit liability under other legislation
 
@@ -834,7 +974,7 @@ The Oil Spill Liability Trust Fund established under section 9509 of title 26 sh
 
 #### (G) Compliance with eligible activities
 
-&emsp;&emsp;If the Secretary of the Treasury determines that an expenditure by a Gulf Coast State or coastal political subdivision of amounts made available under this subsection does not meet one of the activities described in clauses (i) and (ii) of subparagraph (B), the Secretary shall make no additional amounts from the Trust Fund available to that Gulf Coast State or coastal political subdivision until such time as an amount equal to the amount expended for the unauthorized use—
+&emsp;&emsp;If the Secretary of the Treasury determines that an expenditure by a Gulf Coast State or coastal political subdivision of amounts made available under this subsection does not meet one of the activitiesdescribed in clauses (i) and (ii) of subparagraph (B), the Secretary shall make no additional amounts from the Trust Fund available to that Gulf Coast State or coastal political subdivision until such time as an amount equal to the amount expended for the unauthorized use—
 
 &emsp;&emsp;&emsp;(i) has been deposited by the Gulf Coast State or coastal political subdivision in the Trust Fund; or
 
@@ -932,7 +1072,7 @@ The Oil Spill Liability Trust Fund established under section 9509 of title 26 sh
 
 #### (iii) Alternate
 
-&emsp;&emsp;&emsp;A Governor appointed to the Council by the President may designate an alternateto represent the Governor on the Council and vote on behalf of the Governor.
+&emsp;&emsp;&emsp;A Governor appointed to the Council by the President may designate an alternate to represent the Governor on the Council and vote on behalf of the Governor.
 
 #### (iv) Chairperson
 
@@ -1020,9 +1160,9 @@ The Oil Spill Liability Trust Fund established under section 9509 of title 26 sh
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) the Committee on Environment and Public Works, the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Appropriations of the Senate.
 
-#### (viii) Application of Federal Advisory Committee Act
+#### (viii) Application of chapter 10 of title 5
 
-&emsp;&emsp;&emsp;The Council, or any other advisory committee established under this subparagraph, shall not be considered an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;&emsp;&emsp;The Council, or any other advisory committee established under this subparagraph, shall not be considered an advisory committee under chapter 10 of title 5.
 
 #### (ix) Sunset
 
@@ -1064,7 +1204,7 @@ The Oil Spill Liability Trust Fund established under section 9509 of title 26 sh
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) a description of the manner in which amounts from the Trust Fund projected to be made available to the Council for the succeeding 10 years will be allocated; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) subject to available funding in accordance with clause (iii), a prioritized list of specific projects and programs to be funded and carried out during the 3-year period immediately following the date of publication of the initial Comprehensive Plan, including a table that illustrates the distribution of projects and programs by the Gulf Coast State.
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) subject to available funding in accordance with clause (iii), a prioritized list of specific projects and programs to be funded and carried out during the 3-year period immediately following the date of publication of the initial Comprehensive Plan, includinga table that illustrates the distribution of projects and programs by the Gulf Coast State.
 
 #### (V) Plan updates
 
@@ -1144,7 +1284,7 @@ The Oil Spill Liability Trust Fund established under section 9509 of title 26 sh
 
 #### (iii) Minimum allocation
 
-&emsp;&emsp;&emsp;The amount disbursed to a Gulf Coast State for each fiscal year under clause (ii)shall be at least 5 percent of the total amounts made available under this paragraph.
+&emsp;&emsp;&emsp;The amount disbursed to a Gulf Coast State for each fiscal year under clause (ii) shall be at least 5 percent of the total amounts made available under this paragraph.
 
 #### (B) Disbursement of funds
 
@@ -1210,7 +1350,7 @@ The Oil Spill Liability Trust Fund established under section 9509 of title 26 sh
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A Gulf Coast State or coastal political subdivision may use, in whole or in part, amounts made available to that Gulf Coast State or coastal political subdivision under this paragraph to satisfy the non-Federal share of any project or program that—
+&emsp;&emsp;&emsp;A Gulf Coast State or coastal political subdivision may use, in whole or in part,amounts made available to that Gulf Coast State or coastal political subdivision under this paragraph to satisfy the non-Federal share of any project or program that—
 
 &emsp;&emsp;&emsp;&emsp;(I) is authorized by other Federal law; and
 
@@ -1232,7 +1372,7 @@ The Oil Spill Liability Trust Fund established under section 9509 of title 26 sh
 
 &emsp;&emsp;(B) 50 percent shall be made available to the Gulf Coast Ecosystem Restoration Council to carry out the Comprehensive Plan pursuant to paragraph (2).
 
-(June 30, 1948, ch. 758, title III, §311, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 862; amended Pub. L. 93–207, §1(4), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, §§57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, 91 Stat. 1593–1596; Pub. L. 95–576, §1(b), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–478, §13(b), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 96–483, §8, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–164, title I, §161(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 100–4, title V, §502(b), Feb. 4, 1987, 101 Stat. 75; Pub. L. 101–380, title II, §2002(b), title IV, §§4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, 104 Stat. 507, 523–527, 532, 533, 540, 541; Pub. L. 102–388, title III, §349, Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title XI, §§1143, 1144, Oct. 19, 1996, 110 Stat. 3992; Pub. L. 105–383, title IV, §411, Nov. 13, 1998, 112 Stat. 3432; Pub. L. 108–293, title VII, §701(a), (b), (d), Aug. 9, 2004, 118 Stat. 1067, 1068; Pub. L. 109–241, title VI, §608, title IX, §901(i), July 11, 2006, 120 Stat. 558, 564; Pub. L. 112–90, §10, Jan. 3, 2012, 125 Stat. 1912; Pub. L. 112–141, div. A, title I, §1603, July 6, 2012, 126 Stat. 589; Pub. L. 113–281, title III, §313, Dec. 18, 2014, 128 Stat. 3048; Pub. L. 115–91, div. C, title XXXV, §3508(b)(2), Dec. 12, 2017, 131 Stat. 1916; Pub. L. 115–232, div. C, title XXXV, §3541(b)(5), Aug. 13, 2018, 132 Stat. 2323.)
+(June 30, 1948, ch. 758, title III, §311, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 862; amended Pub. L. 93–207, §1(4), Dec. 28, 1973, 87 Stat. 906; Pub. L. 95–217, §§57, 58(a)–(g), (i), (k)–(m), Dec. 27, 1977, 91 Stat. 1593–1596; Pub. L. 95–576, §1(b), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–478, §13(b), Oct. 21, 1980, 94 Stat. 2303; Pub. L. 96–483, §8, Oct. 21, 1980, 94 Stat. 2362; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 97–164, title I, §161(5), Apr. 2, 1982, 96 Stat. 49; Pub. L. 100–4, title V, §502(b), Feb. 4, 1987, 101 Stat. 75; Pub. L. 101–380, title II, §2002(b), title IV, §§4201(a), (b), (b)\[(c)\], 4202(a), (c), 4204, 4301(a), (b), 4305, 4306, Aug. 18, 1990, 104 Stat. 507, 523–527, 532, 533, 540, 541; Pub. L. 102–388, title III, §349, Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title XI, §§1143, 1144, Oct. 19, 1996, 110 Stat. 3992; Pub. L. 105–383, title IV, §411, Nov. 13, 1998, 112 Stat. 3432; Pub. L. 108–293, title VII, §701(a), (b), (d), Aug. 9, 2004, 118 Stat. 1067, 1068; Pub. L. 109–241, title VI, §608, title IX, §901(i), July 11, 2006, 120 Stat. 558, 564; Pub. L. 112–90, §10, Jan. 3, 2012, 125 Stat. 1912; Pub. L. 112–141, div. A, title I, §1603, July 6, 2012, 126 Stat. 589; Pub. L. 113–281, title III, §313, Dec. 18, 2014, 128 Stat. 3048; Pub. L. 115–91, div. C, title XXXV, §3508(b)(2), Dec. 12, 2017, 131 Stat. 1916; Pub. L. 115–232, div. C, title XXXV, §3541(b)(5), Aug. 13, 2018, 132 Stat. 2323; Pub. L. 117–263, div. K, title CXIII, §§11306, 11309(b)(1), Dec. 23, 2022, 136 Stat. 4078, 4081; Pub. L. 117–286, §4(a)(201), Dec. 27, 2022, 136 Stat. 4328.)
 
 #### <b>Editorial Notes</b>
 
@@ -1242,11 +1382,11 @@ Section 1001 of the Oil Pollution Act, referred to in subsec. (a)(11), probably 
 
 The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012, referred to in subsecs. (a)(35) and (t)(2)(C)(vii)(IV), (VII)(ee), (D)(ii)(III), (IV)(bb), (E)(ii)(II), (4)(A), is subtitle F (§§1601–1608) of title I of div. A of Pub. L. 112–141, July 6, 2012, 126 Stat. 588, which is set out as a note below.
 
-The Outer Continental Shelf Lands Act, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
-The Deepwater Port Act of 1974, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+The Deepwater Port Act of 1974, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), (2)(A), (3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), (2)(A), (3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 The date of enactment of this paragraph, referred to in subsec. (b)(2)(B), probably means the date of enactment of Pub. L. 95–576, which amended subsec. (b)(2)(B) and which was approved Nov. 2, 1978.
 
@@ -1256,9 +1396,9 @@ Section 4367 of the Revised Statutes of the United States (46 U.S.C. App. 313), 
 
 Section 1443 of title 19, referred to in subsec. (b)(12)(C), was repealed by Pub. L. 103–182, title VI, §690(b)(6), Dec. 8, 1993, 107 Stat. 2223.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (c)(4)(B)(ii), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (c)(4)(B)(ii), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
-The Oil Pollution Act of 1990, referred to in subsecs. (c)(5)(B), (d)(2)(H), and (j)(5)(H), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§2701 et seq.) of chapter 40 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+The Oil Pollution Act of 1990, referred to in subsecs. (c)(5)(B), (d)(2)(H), and (j)(5)(H), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§2701 et seq.) of chapter 40 of this title. For complete classification ofthis Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 Subsection (c)(2) of this section, referred to in subsec. (j)(1), was generally amended by Pub. L. 101–380, title IV, §4201(a), Aug. 18, 1990, 104 Stat. 523, and no longer contains provisions establishing a National Contingency Plan. However, such provisions are contained in subsec. (d) of this section.
 
@@ -1266,13 +1406,17 @@ Par. (3) of section 1901(a) of this title, referred to in subsec. (j)(5)(B), was
 
 Subsection (i)(l), referred to in subsec. (n), probably should be "subsection (i)(1)". The par. (1) designation was struck out from subsec. (i) by Pub. L. 101–380, title II, §2002(b)(1), Aug. 18, 1990, 104 Stat. 507.
 
-The Federal Advisory Committee Act, referred to in subsec. (t)(2)(C)(viii), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 
 In subsec. (b)(12)(A), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(3)(C). Pub. L. 117–263, §11306, added subpar. (C).
+
+Subsec. (j)(9). Pub. L. 117–263, §11309(b)(1), added par. (9).
+
+Subsec. (t)(2)(C)(viii). Pub. L. 117–286 substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)." in text.
 
 <b>2018</b>—Subsec. (a)(26)(D). Pub. L. 115–232 substituted "section 2101(23)" for "section 2101(17a)".
 
@@ -1378,7 +1522,7 @@ Subsec. (a)(18) to (24). Pub. L. 101–380, §4201(b)(4)\[(c)(4)\], added pars. 
 
 Subsec. (b)(4). Pub. L. 101–380, §4204, inserted "or the environment" after "the public health or welfare".
 
-Subsec. (b)(5). Pub. L. 101–380, §4301(a), inserted after first sentence "The Federal agency shall immediatelynotify the appropriate State agency of any State which is, or may reasonably be expected to be, affected by the discharge of oil or a hazardous substance.", substituted "fined in accordance with title 18, United States Code, or imprisoned for not more than 5 years, or both" for "fined not more than $10,000, or imprisoned for not more than one year, or both", struck out "or information obtained by the exploitation of such notification" before "shall not be used", and inserted "natural" before "person in any".
+Subsec. (b)(5). Pub. L. 101–380, §4301(a), inserted after first sentence "The Federal agency shall immediately notify the appropriate State agency of any State which is, or may reasonably be expected to be, affected by the discharge of oil or a hazardous substance.", substituted "fined in accordance with title 18, United States Code, or imprisoned for not more than 5 years, or both" for "fined not more than $10,000, or imprisoned for not more than one year, or both", struck out "or information obtained by the exploitation of such notification" before "shall not be used", and inserted "natural" before "person in any".
 
 Subsec. (b)(6) to (11). Pub. L. 101–380, §4301(b), added pars. (6) to (11) and struck out former par. (6) which related to assessment of civil penalties, limited to $5,000 for each offense, against any owner, operator, or person in charge of any onshore or offshore facility from which oil or a hazardous substance was discharged in violation of par. (3).
 
@@ -1400,7 +1544,7 @@ Subsec. (k). Pub. L. 101–380, §2002(b)(2), struck out subsec. (k) which autho
 
 Subsec. (l). Pub. L. 101–380, §2002(b)(3), struck out after first sentence "Any moneys in the fund established by subsection (k) of this section shall be available to such Federal departments, agencies, and instrumentalities to carry out the provisions of subsections (c) and (i) of this section."
 
-Subsec. (m). Pub. L. 101–380, §4305, amended subsec. (m) generally. Prior to amendment, subsec. (m) read as follows: "Anyone authorized by the President to enforce the provisions of this section may, except as to public vessels, (A) board and inspect any vessel upon the navigable waters of the United States or the waters of the contiguous zone, (B) with or without a warrant arrest any person who violates the provisions of this section or any regulation issued thereunder in his presence or view, and (C) execute any warrant or other process issued by an officer or court of competent jurisdiction."
+Subsec. (m). Pub. L. 101–380, §4305, amended subsec. (m) generally. Prior to amendment, subsec. (m) read asfollows: "Anyone authorized by the President to enforce the provisions of this section may, except as to public vessels, (A) board and inspect any vessel upon the navigable waters of the United States or the waters of the contiguous zone, (B) with or without a warrant arrest any person who violates the provisions of this section or any regulation issued thereunder in his presence or view, and (C) execute any warrant or other process issued by an officer or court of competent jurisdiction."
 
 Subsec. (o)(2). Pub. L. 101–380, §4202(c), inserted ", or with respect to any removal activities related to such discharge" after "within such State".
 
@@ -1516,15 +1660,145 @@ Amendment by Pub. L. 96–478 effective Oct. 2, 1983, see section 14(a) of Pub. 
 
 Pub. L. 95–217, §58(h), Dec. 27, 1977, 91 Stat. 1596, provided that: "The amendments made by paragraphs (5) and (6) of subsection (d) of this section \[amending this section\] shall take effect 180 days after the date of enactment of the Clean Water Act of 1977 \[Dec. 27, 1977\]."
 
+#### Rule of Construction
+
+Nothing in amendment made by section 11309(b)(1) of Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under section 245 of Title 6, Domestic Security.
+
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Limited Indemnity Provisions in Standby Oil Spill Response Contracts
+
+Pub. L. 117–263, div. K, title CXIII, §11307, Dec. 23, 2022, 136 Stat. 4078, provided that:
+
+"(a)
+
+In General.—Subject to subsections (b) and (c), a contract with the Coast Guard for the containment or removal of a discharge entered into by the President under section 311(c) of the Federal Water Pollution Control Act (33 U.S.C. 1321(c)) shall contain a provision to indemnify a contractor for liabilities and expenses incidental to the containment or removal arising out of the performance of the contract that is substantially identical to the terms contained in subsections (d) through (h) of section H.4 (except for paragraph (1) of subsection (d)) of the contract offered by the Coast Guard in the solicitation numbered DTCG89–98– A–68F953, dated November 17, 1998.
+
+"(b)
+
+Requirements.—
+
+&emsp;"(1)
+
+Source of funds.—The provision required under subsection (a) shall include a provision that the obligation to indemnify is limited to funds available in the Oil Spill Liability Trust Fund establishedby section 9509(a) of the Internal Revenue Code of 1986 \[26 U.S.C. 9509(a)\] at the time the claim for indemnity is made.
+
+&emsp;"(2)
+
+Uncompensated removal.—A claim for indemnity under a contract described in subsection (a) shall be made as a claim for uncompensated removal costs under section 1012(a)(4) of the Oil Pollution Act of 1990 (33 U.S.C. 2712(a)(4)).
+
+&emsp;"(3)
+
+Limitation.—The total indemnity for a claim under a contract described in subsection (a) may not be more than $50,000 per incident.
+
+"(c)
+
+Applicability of Exemptions.—Notwithstanding subsection (a), the United States shall not be obligated to indemnify a contractor for any act or omission of the contractor carried out pursuant to a contract entered into under this section where such act or omission is grossly negligent or which constitutes willful misconduct."
+
+#### Establishment of Western Alaska Oil Spill Planning Criteria
+
+Pub. L. 117–263, div. K, title CXIII, §11309(b)(2), Dec. 23, 2022, 136 Stat. 4085, provided that:
+
+"(A)
+
+Deadline.—Not later than 2 years after the date of enactment of this Act \[Dec. 23, 2022\], the President shall establish the Western Alaska oil spill planning criteria required to be established under paragraph (9)(D)(i) of section 311(j) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)).
+
+"(B)
+
+Consultation.—In establishing the Western Alaska oil spill planning criteria described in subparagraph (A), the President shall consult with the Federal agencies, State and local governments, Tribes (as defined in section 323 of title 14, United States Code), the owners and operators that would be subject to such planning criteria, oil spill removal organizations, Alaska Native organizations, and environmental nongovernmental organizations.
+
+"(C)
+
+Congressional report.—Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to Congress a report describing the status of implementation of paragraph (9) of section 311(j) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j))."
+
+\[Nothing in amendment made by Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under section 245 of Title 6, Domestic Security.\]
+
+\[For definition of "Secretary" as used in section 11309(b)(2) of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under section 106 of Title 14, Coast Guard.\]
 
 #### Termination of United States District Court for the District of the Canal Zone
 
 For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Coast Guard Response Plan Requirements
+
+Pub. L. 117–263, div. K, title CXIII, §11315, Dec. 23, 2022, 136 Stat. 4087, provided that:
+
+"(a)
+
+In General.—Subject to the availability of appropriations, the Commandant \[of the Coast Guard\] shall develop and carry out a program—
+
+&emsp;"(1) to increase collection and improve the quality of incident data on oil spill location and response capability by periodically evaluating the data, documentation, and analysis of—
+
+&emsp;&emsp;"(A) Coast Guard-approved vessel response plans, including vessel response plan audits and assessments;
+
+&emsp;&emsp;"(B) oil spill response drills conducted under section 311(j)(7) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)(7)) that occur within the Marine Transportation System; and
+
+&emsp;&emsp;"(C) responses to oil spill incidents that require mobilization of contracted response resources;
+
+&emsp;"(2) to improve the effectiveness of vessel response plans by—
+
+&emsp;&emsp;"(A) systematically reviewing the capacity of an oil spill response organization identified in a vessel response plan to provide the specific response resources, such as private personnel, equipment, other vessels identified in such vessel response plan; and
+
+&emsp;&emsp;"(B) approving a vessel response plan only after confirming the identified oil spill response organization has the capacity to provide such response resources;
+
+&emsp;"(3) to update, not less frequently than annually, information contained in the Coast Guard Response Resource Inventory and other Coast Guard tools used to document the availability and status of oil spill response equipment, so as to ensure that such information remains current; and
+
+&emsp;"(4) subject to section 552 of title 5, United States Code (commonly known as the 'Freedom of Information Act'), to make data collected under paragraph (1) available to the public.
+
+"(b)
+
+Policy.—Not later than 1 year after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant shall issue a policy—
+
+&emsp;"(1) to establish processes to maintain the program under subsection (a) and support Coast Guard oil spill prevention and response activities, including by incorporating oil spill incident data from after-action oil spill reports and data ascertained from vessel response plan exercises and audits into—
+
+&emsp;&emsp;"(A) review and approval process standards and metrics;
+
+&emsp;&emsp;"(B) alternative planning criteria review processes;
+
+&emsp;&emsp;"(C) Area Contingency Plan development;
+
+&emsp;&emsp;"(D) risk assessments developed under section 70001 of title 46, United States Code, including lessons learned from reportable marine casualties;
+
+&emsp;&emsp;"(E) processes and standards which mitigate the impact of military personnel rotations in Coast Guard field units on knowledge and awareness of vessel response plan requirements, including knowledge relating to the evaluation of proposed alternatives to national planning requirements; and
+
+&emsp;&emsp;"(F) processes and standards which evaluate the consequences of reporting inaccurate data in vessel response plans submitted to the Commandant pursuant to part 300 of title 40, Code of Federal Regulations, and submitted for storage in the Marine Information for Safety and Law Enforcement database pursuant to section 300.300 of such title (or any successor regulation);
+
+&emsp;"(2) to standardize and develop tools, training, and other relevant guidance that may be shared with vessel owners and operators to assist with accurately calculating and measuring the performance and viability of proposed alternatives to national planning criteria requirements and Area Contingency Plans administered by the Coast Guard;
+
+&emsp;"(3) to improve training of Coast Guard personnel to ensure continuity of planning activities under this section, including by identifying ways in which civilian staffing may improve the continuity of operations; and
+
+&emsp;"(4) to increase Federal Government engagement with State, local, and Tribal governments and stakeholders so as to strengthen coordination and efficiency of oil spill responses.
+
+"(c)
+
+Periodic Updates.—Not less frequently than every 5 years, the Commandant shall update the processes established under subsection (b)(1) to incorporate relevant analyses of—
+
+&emsp;"(1) incident data on oil spill location and response quality;
+
+&emsp;"(2) oil spill risk assessments;
+
+&emsp;"(3) oil spill response effectiveness and the effects of such response on the environment;
+
+&emsp;"(4) oil spill response drills conducted under section 311(j)(7) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)(7));
+
+&emsp;"(5) marine casualties reported to the Coast Guard; and
+
+&emsp;"(6) near miss incidents documented by a vessel traffic service center (as such terms are defined in sections 70001(m) of title 46, United States Code).
+
+"(d)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act, and annually thereafter for 5 years, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the status of ongoing and planned efforts to improve the effectiveness and oversight of the program established under subsection (a) and vessel response plan approvals.
+
+&emsp;"(2)
+
+Public availability.—The Commandant shall publish the briefing required under paragraph (1) on a publicly accessible website of the Coast Guard."
+
+\[Nothing in amendment made by Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under section 245 of Title 6, Domestic Security.\]
 
 Pub. L. 115–282, title VIII, §823(a), Dec. 4, 2018, 132 Stat. 4311, provided that:
 
@@ -1572,7 +1846,7 @@ Worst case discharge.—The term 'worst case discharge' has the meaning given th
 
 "(c)
 
-Rule of Construction.—Nothing in this section shall be construed to require the Coast Guard to reviewor approve a facility response plan for a mobile offshore drilling unit."
+Rule of Construction.—Nothing in this section shall be construed to require the Coast Guard to review or approve a facility response plan for a mobile offshore drilling unit."
 
 #### Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States
 
@@ -1906,7 +2180,7 @@ National response unit.—Not later than one year after the date of the enactmen
 
 "(3)
 
-Coast guard district response groups.—Not later than 1 year after the date of the enactment of thisAct, the Secretary of the department in which the Coast Guard is operating shall establish Coast Guard District Response Groups in accordance with section 311(j)(3) of the Federal Water Pollution Control Act, as amended by this Act.
+Coast guard district response groups.—Not later than 1 year after the date of the enactment of this Act, the Secretary of the department in which the Coast Guard is operating shall establish Coast Guard District Response Groups in accordance with section 311(j)(3) of the Federal Water Pollution Control Act, as amended by this Act.
 
 "(4)
 
@@ -1928,7 +2202,7 @@ Pub. L. 95–217, §58(j), Dec. 27, 1977, 91 Stat. 1596, provided that: "No vess
 
 #### Transfer of Functions
 
-Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to spill prevention, containment and countermeasure plans with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
+Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to spill prevention, containment and countermeasure plans with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effectiveJuly 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### Delegation of Functions
 
@@ -1964,7 +2238,7 @@ Sec. 2. <i>National Response System</i>. (a) The functions vested in the Preside
 
 (b)(1) The functions vested in the President by Section 311(j)(1)(C) of FWPCA, respecting the establishment of procedures, methods, and equipment and other requirements for equipment to prevent and to contain discharges of oil and hazardous substances from non-transportation-related onshore facilities, are delegated to the Administrator.
 
-(2) The functions vested in the President by Section 311(j)(1)(C) of FWPCA, respecting the establishment ofprocedures, methods, and equipment and other requirements for equipment to prevent and to contain discharges of oil and hazardous substances from vessels and transportation-related onshore facilities and deepwater ports subject to the Deepwater Ports \[Port\] Act of 1974 ("DPA") \[33 U.S.C. 1501 et seq.\], are delegated to the Secretary of Transportation and the Secretary of the Department in which the Coast Guard is operating.
+(2) The functions vested in the President by Section 311(j)(1)(C) of FWPCA, respecting the establishment of procedures, methods, and equipment and other requirements for equipment to prevent and to contain discharges of oil and hazardous substances from vessels and transportation-related onshore facilities and deepwater ports subject to the Deepwater Ports \[Port\] Act of 1974 ("DPA") \[33 U.S.C. 1501 et seq.\], are delegated to the Secretary of Transportation and the Secretary of the Department in which the Coast Guard is operating.
 
 (3) The functions vested in the President by Section 311(j)(1)(C) of FWPCA, respecting the establishment of procedures, methods, and equipment and other requirements for equipment to prevent and to contain discharges of oil and hazardous substances from offshore facilities, including associated pipelines, other than deepwater ports subject to the DPA, are delegated to the Secretary of the Interior.
 
@@ -1976,7 +2250,7 @@ Sec. 2. <i>National Response System</i>. (a) The functions vested in the Preside
 
 (3) The functions vested in the President by Section 311(j)(5) of FWPCA and Section 4202(b)(4) of OPA, respecting the issuance of regulations requiring the owners or operators of offshore facilities, including associated pipelines, other than deepwater ports subject to the DPA, to prepare and submit response plans, the approval of means to ensure the availability of private personnel and equipment, the review and approval of such response plans, and the authorization of offshore facilities, including associated pipelines, other than deepwater ports subject to the DPA, to operate without approved response plans, are delegated to the Secretary of the Interior.
 
-(e)(1) The functions vested in the President by Section 311(j)(6)(A) of FWPCA, respecting the requirements for periodic inspections of containment booms and equipment used to remove discharges at non-transportation-related onshore facilities, are delegated to the Administrator.
+(e)(1) The functions vested in the President by Section 311(j)(6)(A) of FWPCA, respecting the requirementsfor periodic inspections of containment booms and equipment used to remove discharges at non-transportation-related onshore facilities, are delegated to the Administrator.
 
 (2) The functions vested in the President by Section 311(j)(6)(A) of FWPCA, respecting the requirements for periodic inspections of containment booms and equipment used to remove discharges on vessels, and at transportation-related onshore facilities and deepwater ports subject to the DPA, are delegated to the Secretary of the Department in which the Coast Guard is operating.
 
@@ -2004,7 +2278,7 @@ Sec. 4. <i>Liability Limit Adjustment</i>. (a)(1) The following functions vested
 
 (2) The Administrator and the Secretary of Transportation will provide necessary regulatory analysis support to ensure timely regulatory Consumer Price Index adjustments by the Secretary of the department in which the Coast Guard is operating of the limits of liability listed in section 1004(a) of OPA for onshore facilities under subparagraph (a)(1)(A) of this section.
 
-(b) The following functions vested in the President by section 1004(d) of OPA are delegated to the Administrator, acting in consultation with the Secretary of the department in which the Coast Guard is operating, theSecretary of Transportation, the Secretary of the Interior, the Secretary of Energy, and the Attorney General:
+(b) The following functions vested in the President by section 1004(d) of OPA are delegated to the Administrator, acting in consultation with the Secretary of the department in which the Coast Guard is operating, the Secretary of Transportation, the Secretary of the Interior, the Secretary of Energy, and the Attorney General:
 
 (1) the establishment of limits of liability under section 1004(d)(1), with respect to classes or categories of non-transportation-related onshore facilities, and the adjustment of any such limits of liability established under section 1004(d)(1) by the Administrator to reflect significant increases in the Consumer Price Index; and
 
@@ -2026,7 +2300,7 @@ Sec. 5. <i>Financial Responsibility</i>. (a)(1) The functions vested in the Pres
 
 (2) The functions vested in the President by Section 1016(e) of OPA, respecting (in the case of deepwater ports) the issuance of regulations concerning financial responsibility, the determination of acceptable methods of financial responsibility, and the specification of necessary or unacceptable terms, conditions, or defenses, are delegated to the Secretary of the Department in which the Coast Guard is operating.
 
-(b)(1) The functions vested in the President by Section 4303 of OPA \[33 U.S.C. 2716a\], respecting (in cases involving vessels) the assessment of civil penalties, the compromising, modification or remission, with or without condition, and the referral for collection of such imposed penalties, and requests to the Attorney General to secure necessary judicial relief, are delegated to the Secretary of the Department in which the Coast Guard is operating.
+(b)(1) The functions vested in the President by Section 4303 of OPA \[33 U.S.C. 2716a\], respecting (in casesinvolving vessels) the assessment of civil penalties, the compromising, modification or remission, with or without condition, and the referral for collection of such imposed penalties, and requests to the Attorney General to secure necessary judicial relief, are delegated to the Secretary of the Department in which the Coast Guard is operating.
 
 (2) The functions vested in the President by Section 4303 of OPA, respecting (in cases involving offshore facilities other than deepwater ports) the assessment of civil penalties, the compromising, modification or remission, with or without condition, and the referral for collection of such imposed penalties, and requests to the Attorney General to secure necessary judicial relief, are delegated to the Secretary of the Interior.
 
@@ -2094,7 +2368,7 @@ Section 1. <i>Policy</i>. Executive Order 13554 of October 5, 2010, was issued a
 
 Since the implementation of Executive Order 13554, the Federal Government's Gulf Coast ecosystem restoration planning efforts have advanced significantly. The Task Force's Gulf of Mexico Regional Ecosystem Restoration Strategy (Strategy), created with input from Federal, State, tribal, and local governments, and thousands of involved citizens and organizations across the region, serves as a comprehensive restoration plan for addressing ecological concerns in the Gulf of Mexico. In light of the release of the Strategy, the ongoing work of the Natural Resource Damage Trustee Council (Trustee Council) under the Oil Pollution Act, and the recent passage of the Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012 (RESTORE Act) (title I, subtitle F of Public Law 112–141), this order affirms the Federal Government's Gulf Coast ecosystem restoration efforts and realigns responsibilities to ensure the most effective governmental planning and coordination to reach these goals.
 
-Sec. 2. <i>Termination of the Gulf Coast Ecosystem Restoration Task Force</i>. The progress of the Task Force is noteworthy. It has completed the Strategy and the preliminary planning and coordination tasks that it was intended to produce and has significantly advanced important ecosystem restoration goals for the Gulf of Mexico. In light of the recent creation, described below,of the Gulf Coast Ecosystem Restoration Council (Gulf Restoration Council), which will build upon the Task Force's already successful collaboration between Federal, State, and tribal governments and, as directed by statute, include and incorporate in its proposed comprehensive plan the findings and information prepared by the Task Force, the Task Force shall terminate no later than 60 days after the Gulf Restoration Council commences its work. The functions of the Task Force will be performed by the Gulf Restoration Council and the Trustee Council to the extent practicable, as set forth in this order. Prior to its termination, the Task Force will provide such assistance as is appropriate to the Gulf Restoration Council.
+Sec. 2. <i>Termination of the Gulf Coast Ecosystem Restoration Task Force</i>. The progress of the Task Force is noteworthy. It has completed the Strategy and the preliminary planning and coordination tasks that it was intended to produce and has significantly advanced important ecosystem restoration goals for the Gulf of Mexico. In light of the recent creation, described below, of the Gulf Coast Ecosystem Restoration Council (Gulf Restoration Council), which will build upon the Task Force's already successful collaboration between Federal, State, and tribal governments and, as directed by statute, include and incorporate in its proposed comprehensive plan the findings and information prepared by the Task Force, the Task Force shall terminate no later than 60 days after the Gulf Restoration Council commences its work. The functions of the Task Force will be performed by the Gulf Restoration Council and the Trustee Council to the extent practicable, as set forth in this order. Prior to its termination, the Task Force will provide such assistance as is appropriate to the Gulf Restoration Council.
 
 Sec. 3. <i>The Gulf Coast Restoration Trust Fund and the Gulf Coast Ecosystem Restoration Council</i>.
 
@@ -2102,7 +2376,7 @@ Sec. 3. <i>The Gulf Coast Restoration Trust Fund and the Gulf Coast Ecosystem Re
 
 (b) <i>Gulf Coast Ecosystem Restoration Council</i>. The RESTORE Act established the Gulf Restoration Council, an independent entity charged with developing a comprehensive plan for ecosystem restoration in the Gulf Coast (Comprehensive Plan), as well as any future revisions to the Comprehensive Plan. Among its other duties, the Gulf Restoration Council is tasked with identifying projects and programs aimed at restoring and protecting the natural resources and ecosystems of the Gulf Coast region, to be funded from a portion of the Trust Fund; establishing such other advisory committees as may be necessary to assist the Gulf Restoration Council, including a scientific advisory committee and a committee to advise the Gulf Restoration Council on public policy issues; gathering information relevant to Gulf Coast restoration, including through research, modeling, and monitoring; and providing an annual report to the Congress on implementation progress. Consistent with the RESTORE Act, the Comprehensive Plan developed by the Gulf Restoration Council will include provisions necessary to fully incorporate the Strategy, projects, and programs recommended by the Task Force.
 
-(c) Federal members of the Gulf Restoration Council and Trustee Council, as well as all Federal entities involved in Gulf Coast restoration, shall work closely with one another to advance their common goals, reduce duplication, and maximize consistency among their efforts. All Federal members are directed to consult with each other and with all non-federal members in carrying out their duties on the Gulf Restoration Council.
+(c) Federal members of the Gulf Restoration Council and Trustee Council, as well as all Federal entities involved in Gulf Coast restoration, shall work closely with one another to advance their common goals, reduce duplication, and maximize consistency among their efforts. All Federal members are directed to consult with each other and with all non-federal membersin carrying out their duties on the Gulf Restoration Council.
 
 Sec. 4. <i>Ongoing Role of the Natural Resource Damage Assessment Trustee Council</i>. (a) Executive Order 13554 recognized the role of the Trustee Council, and designated trustees as provided in 33 U.S.C. 2706, with trusteeship over natural resources injured, lost, or destroyed as a result of the Deepwater Horizon Oil Spill. Specifically, Executive Order 13554 recognized the importance of carefully coordinating the work of the Task Force with the Trustee Council, whose members have statutory responsibility to assess natural resources damages from the Deepwater Horizon Oil Spill, to restore trust resources, and seek compensation for lost use of those trust resources. Section 3(b) of Executive Order 13554 instructed the Task Force to "support the Natural Resource Damage Assessment process by referring potential ecosystem restoration actions to the \* \* \* Trustee Council for consideration and facilitating coordination among the relevant departments, agencies, and offices, as appropriate, subject to the independent statutory responsibilities of the trustees." The Department of Commerce (through the National Oceanic and Atmospheric Administration), the Department of the Interior (through the Fish and Wildlife Service and the National Park Service), and the Department of Justice have worked to identify linkages and opportunities for the Task Force to complement the restoration progress of the Trustee Council.
 

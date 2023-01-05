@@ -10,7 +10,7 @@ Based on title 28, U.S.C., 1940 ed., §117 (Mar. 3, 1911, ch. 231, §56, 36 Stat
 
 Provisions of section 117 of title 28, U.S.C., 1940 ed., as to jurisdiction and control of a receiver of property in several districts are the basis of section 754 of this title.
 
-For explanation of revision of section 117 of title 28, U.S.C., 1940 ed., and its extension to include property,not only in the same judicial circuit, but in any judicial circuit. (See reviser's note under section 754 of this title.)
+For explanation of revision of section 117 of title 28, U.S.C., 1940 ed., and its extension to include property, not only in the same judicial circuit, but in any judicial circuit. (See reviser's note under section 754 of this title.)
 
 Changes were made in phraseology.
 

@@ -30,6 +30,14 @@ In clause (2), the words "chief executive officers" are substituted for "Governo
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 117–340, §1, Jan. 5, 2023, 136 Stat. 6175, provided that: "This Act \[enacting sections 220514 and 220530A of this title, amending sections 220505 and 220524 of this title, and enacting provisions set out as notes under section 220505 of this title\] may be cited as the 'Equal Pay for Team USA Act of 2022'."
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–103, div. W, title XIII, §1310(a), Mar. 15, 2022, 136 Stat. 931, provided that: "This section \[enacting section 146 of this title relating to Choose Respect Day and section 20131 of Title 34, Crime Control and Law Enforcement\] may be cited as the 'Choose Respect Act'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–282, §1, Dec. 31, 2020, 134 Stat. 3386, provided that: "This Act \[amending provisions set out as a note preceding this section\] may be cited as the 'United States Semiquincentennial Commission Amendments Act of 2020'."
@@ -40,7 +48,7 @@ Pub. L. 116–189, §1, Oct. 30, 2020, 134 Stat. 943, provided that: "This Act \
 
 Pub. L. 116–67, §1, Nov. 7, 2019, 133 Stat. 1128, provided that: "This Act \[amending section 902 of this title\] may be cited as the 'National POW/MIA Flag Act'."
 
-Pub. L. 116–35, §1, July 30, 2019, 133 Stat. 1043, provided that: "This Act \[enacting section 21704A of this title, amending section 21703 of this title, and enacting provisions set out as a note under section 21703 of this title\] may be cited as the 'Let Everyone Get Involved in Opportunities for National Service Act' or the 'LEGION Act'."
+Pub. L. 116–35, §1, July 30, 2019, 133 Stat. 1043, provided that: "This Act \[enacting section 21704A of thistitle, amending section 21703 of this title, and enacting provisions set out as a note under section 21703 of this title\] may be cited as the 'Let Everyone Get Involved in Opportunities for National Service Act' or the 'LEGION Act'."
 
 Pub. L. 116–7, §1, Feb. 21, 2019, 133 Stat. 478, provided that: "This Act \[amending sections 70901 to 70914 of this title\] may be cited as the 'National FFA Organization's Federal Charter Amendments Act'."
 

@@ -18,11 +18,11 @@ The head of the Cuba Service and the head of the Television Marti Service shall 
 
 #### (e) Compensation; travel expenses
 
-Members of the Advisory Board appointed by the President shall, while attending meetings ofthe Advisory Board or while engaged in duties relating to such meetings or in other activities of the Advisory Board pursuant to this section, including traveltime, be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level V of the Executive Schedule under section 5316 of title 5. While away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. The ex officio members of the Advisory Board shall not be entitled to any compensation under this section, but may be allowed travel expenses as provided in the preceding sentence.
+Members of the Advisory Board appointed by the President shall, while attending meetings of the Advisory Board or while engaged in duties relating to such meetings or in other activities of the Advisory Board pursuant to this section, including traveltime, be entitled to receive compensation equal to the daily equivalent of the compensation prescribed for level V of the Executive Schedule under section 5316 of title 5. While away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law (5 U.S.C. 5703) for persons in the Government service employed intermittently. The ex officio members of the Advisory Board shall not be entitled to any compensation under this section, but may be allowed travel expenses as provided in the preceding sentence.
 
 #### (f) Procurement powers of Advisory Board
 
-The Advisory Board may, to the extent it deems necessary to carry out its functions under this section, procure supplies, services, and other personal property, including specialized electronic equipment.
+The Advisory Board may, to the extent it deems necessary to carry out its functions underthis section, procure supplies, services, and other personal property, including specialized electronic equipment.
 
 #### (g) Indefinite life span of Advisory Board
 
@@ -44,7 +44,7 @@ There are authorized to be appropriated $130,000 to carry out the provisions of 
 
 This subchapter, referred to in subsec. (a), was in the original "this division", and was translated as reading "this Act", meaning Pub. L. 98–111, which enacted this subchapter, to reflect the probable intent of Congress.
 
-The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
 #### Codification
 
@@ -72,7 +72,7 @@ Subsec. (e). Pub. L. 101–246, §245(a)(4), substituted "The ex officio members
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 

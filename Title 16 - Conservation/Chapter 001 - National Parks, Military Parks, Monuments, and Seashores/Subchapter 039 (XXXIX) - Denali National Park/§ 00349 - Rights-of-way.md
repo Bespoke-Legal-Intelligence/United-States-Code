@@ -14,7 +14,7 @@ The Act of February fifteenth, nineteen hundred and one, referred to in text, is
 
 #### Change of Name
 
-"Denali National Park" substituted in text for "Mount McKinley National Park" pursuant to Pub. L. 96–487, §202(3)(a), which is classified to section410hh–1(3)(a) of this title and which added lands to the park, established additional land as the Denali National Preserve, and redesignated the whole as the Denali National Park and Preserve.
+"Denali National Park" substituted in text for "Mount McKinley National Park" pursuant to Pub. L. 96–487, §202(3)(a), which is classified to section 410hh–1(3)(a) of this title and which added lands to the park, established additional land as the Denali National Preserve, and redesignated the whole as the Denali National Park and Preserve.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

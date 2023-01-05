@@ -10,7 +10,7 @@
 
 #### References in Text
 
-The Mineral Leasing Act, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§181 et seq.) ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Mineral Leasing Act, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
 Section 1721 of this title, referred to in subsec. (b), was in the original "section 111 of the Federal Oil and Gas Royalty Management Act of 1982", which enacted section 1721 of this title and amended section 191 of this title.
 
@@ -18,7 +18,7 @@ Section 1721 of this title, referred to in subsec. (b), was in the original "sec
 
 <b>2001</b>—Subsec. (b). Pub. L. 107–76 inserted after first sentence "The preceding sentence shall also apply to any payment to a State derived from a lease for mineral resources issued by the Secretary of the Interior under section 520 of title 16."
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted "Subject to the provisions of section 35(b) of the Mineral Leasing Act (30 U.S.C. 191(b)), all receipts" for "All receipts" in first sentence.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted "Subject to the provisions of section 35(b) of the Mineral LeasingAct (30 U.S.C. 191(b)), all receipts" for "All receipts" in first sentence.
 
 <b>1992</b>—Pub. L. 102–486 designated existing provisions as subsec. (a) and added subsec. (b).
 

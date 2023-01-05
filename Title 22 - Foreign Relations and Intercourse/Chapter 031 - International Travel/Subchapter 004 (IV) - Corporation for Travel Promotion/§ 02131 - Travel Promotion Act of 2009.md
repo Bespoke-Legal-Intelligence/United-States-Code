@@ -14,7 +14,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation shall have a board of directors of 11 members with knowledge of international travel promotion or marketing, broadly representing various regions of the United States, who are United States citizens. At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with section 7265 of title 15). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position. Members of the board shall be appointed by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State), as follows:
+&emsp;&emsp;The Corporation shall have a board of directors of 11 members with knowledge of international travel promotion or marketing, broadly representing various regions of the United States, who are United States citizens. At least 5 members of the board shall have experience working in United States multinational entities with marketing budgets. At least 2 members of the board shall be audit committee financial experts (as defined by the Securities and Exchange Commission in accordance with section 7265 of title 15). All members of the board shall be a current or former chief executive officer, chief financial officer, or chief marketing officer, or have held an equivalent management position. Membersof the board shall be appointed by the Secretary of Commerce (after consultation with the Secretary of Homeland Security and the Secretary of State), as follows:
 
 &emsp;&emsp;&emsp;(i) 1 shall have appropriate expertise and experience in the hotel accommodations sector;
 
@@ -68,7 +68,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (H) Compensation; expenses
 
-&emsp;&emsp;No member shall receive any compensation from the Federal government for serving on the Board. Each member of the Board shall be paid actual travel expenses and perdiem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with section 5703 of title 5.
+&emsp;&emsp;No member shall receive any compensation from the Federal government for serving on the Board. Each member of the Board shall be paid actual travel expenses and per diem in lieu of subsistence expenses when away from his or her usual place of residence, in accordance with section 5703 of title 5.
 
 #### (3) Officers and employees
 
@@ -132,7 +132,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (6) Open meetings
 
-&emsp;Meetings of the board of directors of the Corporation, including any committee of the board, shall be open to the public. The board may, by majority vote, close any such meeting only for the time necessary to preserve theconfidentiality of commercial or financial information that is privileged or confidential, to discuss personnel matters, or to discuss legal matters affecting the Corporation, including pending or potential litigation.
+&emsp;Meetings of the board of directors of the Corporation, including any committee of the board, shall be open to the public. The board may, by majority vote, close any such meeting only for the time necessary to preserve the confidentiality of commercial or financial information that is privileged or confidential, to discuss personnel matters, or to discuss legal matters affecting the Corporation, including pending or potential litigation.
 
 #### (7) Major campaigns
 
@@ -160,7 +160,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 #### (D) Program audits
 
-&emsp;&emsp;Not later than 2 years after March 4, 2010, the Comptroller General shall conduct a review of the programmatic activities of the Corporation for Travel Promotion. This report shall be provided to appropriate congressional committees.
+&emsp;&emsp;Not later than 2 years after March 4, 2010, the Comptroller General shall conduct a review of the programmatic activities of theCorporation for Travel Promotion. This report shall be provided to appropriate congressional committees.
 
 #### (c) Accountability measures
 
@@ -230,7 +230,7 @@ This section may be cited as the "Travel Promotion Act of 2009".
 
 &emsp;&emsp;&emsp;(i) for fiscal year 2012, the Corporation provides matching amounts from non-Federal sources equal in the aggregate to 50 percent or more of the amount transferred to the Fund under paragraph (2); and
 
-&emsp;&emsp;&emsp;(ii) for any fiscal year after fiscal year 2012, the Corporation provides matching amounts from non-Federal sources equal in the aggregate to 100 percent of the amount transferred to the Fund under paragraph (2) for the fiscal year.
+&emsp;&emsp;&emsp;(ii) for any fiscal year after fiscal year 2012, the Corporation provides matchingamounts from non-Federal sources equal in the aggregate to 100 percent of the amount transferred to the Fund under paragraph (2) for the fiscal year.
 
 #### (B) Goods and services
 

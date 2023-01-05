@@ -2,7 +2,7 @@
 
 To request a grant under this subchapter, the chief executive officer of a State, unit of local government, or Indian tribe shall submit an application to the Attorney General at such time and in such form as the Attorney General may require. Such application shall include the following:
 
-&emsp;(1) A certification that Federal funds made available under this subchapter will not be used to supplant State, local, or tribal funds, but will be used to increase the amounts of such funds that would, in the absence of Federal funds, be made available for the activities described in section 10701(a) of this title.
+&emsp;(1) A certification that Federal funds made available under this subchapter will not be used to supplant State, local, or tribal funds,but will be used to increase the amounts of such funds that would, in the absence of Federal funds, be made available for the activities described in section 10701(a) of this title.
 
 &emsp;(2) An assurance that, for each fiscal year covered by an application, the applicant shall maintain and report such data, records, and information (programmatic and financial) as the Attorney General may reasonably require.
 

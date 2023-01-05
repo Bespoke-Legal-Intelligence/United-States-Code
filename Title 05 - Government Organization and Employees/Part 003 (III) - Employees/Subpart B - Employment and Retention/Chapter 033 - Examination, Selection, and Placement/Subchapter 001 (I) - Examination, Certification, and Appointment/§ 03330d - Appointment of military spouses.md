@@ -74,7 +74,7 @@ Subsecs. (b) to (d). Pub. L. 115–232, §573(a)(2)–(4), (e), temporarily adde
 
 #### Termination Date of 2018 Amendment
 
-Pub. L. 115–232, div. A, title V, §573(e), Aug. 13, 2018, 132 Stat. 1779, provided that: "Effective on the date that is 5 years after the date of the enactment of this Act \[Aug. 13, 2018\]—
+Pub. L. 115–232, div. A, title V, §573(e), Aug. 13, 2018, 132 Stat. 1779, as amended by Pub. L. 117–263, div. A, title XI, §1111(a), Dec. 23, 2022, 136 Stat. 2820, provided that: "Effective on December 31, 2028—
 
 &emsp;"(1) the authority provided by this section \[amending this section and enacting provisions set out as a note below\], and the amendments made by this section \[amending this section\], shall expire; and
 
@@ -82,29 +82,11 @@ Pub. L. 115–232, div. A, title V, §573(e), Aug. 13, 2018, 132 Stat. 1779, pro
 
 #### Regulations
 
-Pub. L. 112–239, div. A, title V, §566(b), Jan. 2, 2013, 126 Stat. 1751, provided that: "Not later than 180 after the date of the enactment of this Act \[Jan. 2, 2013\], the Director of the Office of Personnel Management shall amend section 315.612 of title 5, Code of Federal Regulations (relating to noncompetitive appointment of certain military spouses), in accordance with the amendment made by subsection (a) \[enacting this section\] and promulgate or amend any other regulations necessary to carry out the amendment made by subsection (a)."
+Pub. L. 112–239, div. A, title V, §566(b), Jan. 2, 2013, 126 Stat. 1751, provided that: "Not later than 180 after thedate of the enactment of this Act \[Jan. 2, 2013\], the Director of the Office of Personnel Management shall amend section 315.612 of title 5, Code of Federal Regulations (relating to noncompetitive appointment of certain military spouses), in accordance with the amendment made by subsection (a) \[enacting this section\] and promulgate or amend any other regulations necessary to carry out the amendment made by subsection (a)."
 
 #### OPM Limitation and Reports
 
-Pub. L. 115–232, div. A, title V, §573(d), Aug. 13, 2018, 132 Stat. 1779, provided that:
-
-"(1)
-
-Relocating spouses.—With respect to the noncompetitive appointment of a relocating spouse of a member of the Armed Forces under subsection (b)(1) of section 3330d of title 5, United States Code, as amended by subsection (a), the Director of the Office of Personnel Management—
-
-&emsp;"(A) shall monitor the number of such appointments;
-
-&emsp;"(B) shall require the head of each agency with authority to make such appointments under such section to submit an annual report to the Director on such appointments, including information on the number of individuals so appointed, the types of positions filled, and the effectiveness of the authority for such appointments; and
-
-&emsp;"(C) not later than 18 months after the date of the enactment of this Act \[Aug. 13, 2018\], shall submit a report to the Committee on Oversight and Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives and the Committee on Homeland Security and Government Affairs of the Senate on the use and effectiveness of such authority.
-
-"(2)
-
-Non-relocating spouses.—With respect to the noncompetitive appointment of a spouse of a member of the Armed Forces other than a relocating spouse described in paragraph (1), the Director of the Office of Personnel Management—
-
-&emsp;"(A) shall treat the spouse as a relocating spouse under paragraph (1); and
-
-&emsp;"(B) may limit the number of such appointments."
+Pub. L. 115–232, div. A, title V, §573(d), Aug. 13, 2018, 132 Stat. 1779, which related to limitations on the noncompetitive appointment of relocating spouses and required reports, was repealed by Pub. L. 117–263, div. A, title XI, §1111(b), Dec. 23, 2022, 136 Stat. 2820.
 
 #### <b>Executive Documents</b>
 
@@ -138,7 +120,7 @@ Sec. 3. <i>Promoting Hiring for Military Spouses</i>. (a) To the greatest extent
 
 (c) The Office of Personnel Management (OPM) shall consider whether changes to 5 CFR 315.612 are appropriate to account for cases in which there are no agency job openings within the geographic area of the permanent duty station of the member of the Armed Forces for which the member's spouse is qualified.
 
-(d) OPM shall also periodically circulate notifications concerning the military spouse hiring authority and its eligibility requirements to each agency's Chief Human Capital Officer or the agency's equivalent officer, for such officer to transmit to appropriate offices and to notify eligible populations. Within 180 days of the date of this order \[May 9, 2018\], OPM shall post to its website, and circulate to each agency's Chief HumanCapital Officer or the agency's equivalent officer, information about the military spouse hiring authority. That posting shall include a discussion of section 1131 of the National Defense Authorization Act for Fiscal Year 2017, Public Law 114–328, which amended 5 U.S.C. 3330d(c) to eliminate the time limitation on noncompetitive appointment for a relocating spouse of a member of the Armed Forces.
+(d) OPM shall also periodically circulate notifications concerning the military spouse hiring authority and its eligibility requirements to each agency's Chief Human Capital Officer or the agency's equivalent officer, for such officer to transmit to appropriate offices and to notify eligible populations. Within 180 days of the date of this order \[May 9, 2018\], OPM shall post to its website, and circulate to each agency's Chief Human Capital Officer or the agency's equivalent officer, information about the military spouse hiring authority. That posting shall include a discussion of section 1131 of the National Defense Authorization Act for Fiscal Year 2017, Public Law 114–328, which amended 5 U.S.C. 3330d(c) to eliminate the time limitation on noncompetitive appointment for a relocating spouse of a member of the Armed Forces.
 
 (e) Within 180 days of the date of this order, OPM shall educate agencies concerning the military spouse hiring authority and ensure human resources personnel and hiring managers are briefed on techniques for its effective use. Concurrently, within 180 days of the date of this order, OPM shall provide any additional clarifying guidance it deems appropriate to agencies on provisions of the Telework Enhancement Act of 2010, Public Law 111–292 \[enacting chapter 65 and section 5711 of this title and provisions set out as a note under section 6501 of this title and amending provisions set out as a note and provisions listed in a table under section 6120 of this title\], and agencies shall ensure that human resources personnel and hiring managers are briefed as needed on techniques for the effective use of telework.
 

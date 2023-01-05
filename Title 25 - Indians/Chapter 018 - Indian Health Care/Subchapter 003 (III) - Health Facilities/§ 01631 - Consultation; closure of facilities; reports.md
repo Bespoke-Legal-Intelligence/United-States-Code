@@ -54,7 +54,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 #### (C) Criteria for evaluating needs
 
-&emsp;&emsp;For purposes of this subsection, the Secretary, in evaluating the needs of facilities operated under a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> shall use the criteria used by the Secretaryin evaluating the needs of facilities operated directly by the Service.
+&emsp;&emsp;For purposes of this subsection, the Secretary, in evaluating the needs of facilities operated under a contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.),<sup>1</sup> shall use the criteria used by the Secretary in evaluating the needs of facilities operated directly by the Service.
 
 #### (D) Priority of certain projects protected
 
@@ -152,7 +152,7 @@ Prior to the expenditure of, or the making of any firm commitment to expend, any
 
 &emsp;&emsp;(A) consult with and obtain information on all health care facilities needs from Indian tribes and tribal organizations; and
 
-&emsp;&emsp;(B) review the total unmet needs of all Indian tribes and tribal organizations forhealth care facilities (including staff quarters), including needs for renovation and expansion of existing facilities.
+&emsp;&emsp;(B) review the total unmet needs of all Indian tribes and tribal organizations for health care facilities (including staff quarters), including needs for renovation and expansion of existing facilities.
 
 #### (d) Review of methodology used for health facilities construction priority system
 
@@ -180,7 +180,7 @@ All funds appropriated under section 13 of this title, for the planning, design,
 
 #### (f) Development of innovative approaches
 
-The Secretary shall consult and cooperate with Indian tribes and tribal organizations, and confer with urban Indian organizations, in developing innovative approaches to address all or part of the total unmet need for construction of health facilities, that may include—
+The Secretary shall consult and cooperate with Indian tribes and tribal organizations, andconfer with urban Indian organizations, in developing innovative approaches to address all or part of the total unmet need for construction of health facilities, that may include—
 
 &emsp;(1) the establishment of an area distribution fund in which a portion of health facility construction funding could be devoted to all Service areas;
 

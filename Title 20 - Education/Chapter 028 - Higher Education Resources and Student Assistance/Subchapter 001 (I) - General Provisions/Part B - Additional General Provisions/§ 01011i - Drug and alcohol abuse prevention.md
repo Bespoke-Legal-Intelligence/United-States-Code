@@ -64,7 +64,7 @@ Upon determination by the Secretary to terminate financial assistance to any ins
 
 #### (3) Applications
 
-&emsp;An institution of higher education, a consortium of such institutions, or another organization that desires to receive a grant or contract under paragraph (1) shall submit an application to the Secretary at such time, in suchmanner, and containing or accompanied by such information as the Secretary may reasonably require by regulation.
+&emsp;An institution of higher education, a consortium of such institutions, or another organization that desires to receive a grant or contract under paragraph (1) shall submit an application to the Secretary at such time, in such manner, and containing or accompanied by such information as the Secretary may reasonably require by regulation.
 
 #### (4) Additional requirements
 

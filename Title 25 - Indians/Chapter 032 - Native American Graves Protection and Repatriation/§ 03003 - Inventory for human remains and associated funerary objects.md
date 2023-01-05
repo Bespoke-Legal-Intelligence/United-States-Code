@@ -22,7 +22,7 @@ Any museum which has made a good faith effort to carry out an inventory and iden
 
 #### (d) Notification
 
-(1) If the cultural affiliation of any particular Native American human remains or associatedfunerary objects is determined pursuant to this section, the Federal agency or museum concerned shall, not later than 6 months after the completion of the inventory, notify the affected Indian tribes or Native Hawaiian organizations.
+(1) If the cultural affiliation of any particular Native American human remains or associated funerary objects is determined pursuant to this section, the Federal agency or museum concerned shall, not later than 6 months after the completion of the inventory, notify the affected Indian tribes or Native Hawaiian organizations.
 
 (2) The notice required by paragraph (1) shall include information—
 

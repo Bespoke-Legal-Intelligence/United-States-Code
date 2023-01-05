@@ -142,7 +142,7 @@ Regulations and Penalties.—
 
 &emsp;(1)
 
-Regulations required.—Not later than 2 years after the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, the Secretary of Transportation shall issue such regulations as are necessary to carry out this section, including for the monitoring and sensitive technology requirements of this section.
+Regulations required.—Not later than 2 years after the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, the Secretary of Transportation shall issue such regulations as are necessary tocarry out this section, including for the monitoring and sensitive technology requirements of this section.
 
 &emsp;(2)
 

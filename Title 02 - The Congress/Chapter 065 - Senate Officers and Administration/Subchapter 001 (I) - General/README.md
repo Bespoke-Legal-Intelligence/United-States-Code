@@ -23,3 +23,4 @@
 - [&sect; 06516 - Sale of waste paper and condemned furniture](%C2%A7%2006516%20-%20Sale%20of%20waste%20paper%20and%20condemned%20furniture.md)
 - [&sect; 06517 - Receipts from sale of used or surplus furniture and furnishings of Senate](%C2%A7%2006517%20-%20Receipts%20from%20sale%20of%20used%20or%20surplus%20furniture%20and%20furnishings%20of%20Senate.md)
 - [&sect; 06518 - Workers compensation payments](%C2%A7%2006518%20-%20Workers%20compensation%20payments.md)
+- [&sect; 06519 - McCain-Mansfield and SFC Sean Cooley and SPC Christopher Horton Congressional Gold Star Family Fellowships Programs](%C2%A7%2006519%20-%20McCain-Mansfield%20and%20SFC%20Sean%20Cooley%20and%20SPC%20Christopher%20Horton%20Congressional%20Gold%20Star%20Family%20Fellowships%20Programs.md)

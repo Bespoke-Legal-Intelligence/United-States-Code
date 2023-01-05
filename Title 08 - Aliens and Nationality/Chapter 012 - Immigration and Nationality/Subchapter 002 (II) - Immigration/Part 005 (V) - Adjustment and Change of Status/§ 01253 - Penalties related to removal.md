@@ -134,5 +134,5 @@ For purposes of carrying out this chapter, any reference in law to an order of r
 
 #### Sense of Congress Respecting Treatment of Cuban Political Prisoners
 
-Pub. L. 99–603, title III, §315(c), Nov. 6, 1986, 100 Stat. 3440, as amended by Pub. L. 104–208, div. C, title III,§308(g)(7)(C)(i), Sept. 30, 1996, 110 Stat. 3009–623, provided that: "It is the sense of the Congress that the Secretary of State should provide for the issuance of visas to nationals of Cuba who are or were imprisoned in Cuba for political activities without regard to section 243(d) of the Immigration and Nationality Act (8 U.S.C. 1253(d))."
+Pub. L. 99–603, title III, §315(c), Nov. 6, 1986, 100 Stat. 3440, as amended by Pub. L. 104–208, div. C, title III, §308(g)(7)(C)(i), Sept. 30, 1996, 110 Stat. 3009–623, provided that: "It is the sense of the Congress that the Secretary of State should provide for the issuance of visas to nationals of Cuba who are or were imprisoned in Cuba for political activities without regard to section 243(d) of the Immigration and Nationality Act (8 U.S.C. 1253(d))."
 

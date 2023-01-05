@@ -32,5 +32,5 @@ Subsec. (d)(2). Pub. L. 97–463, §1(2), inserted provision empowering the cour
 
 #### Effective Date
 
-Section applicable with respect to any grand or petit juror summoned for service or actually serving on orafter Nov. 2, 1978, see section 7(a) of Pub. L. 95–572, set out as a note under section 1363 of this title.
+Section applicable with respect to any grand or petit juror summoned for service or actually serving on or after Nov. 2, 1978, see section 7(a) of Pub. L. 95–572, set out as a note under section 1363 of this title.
 

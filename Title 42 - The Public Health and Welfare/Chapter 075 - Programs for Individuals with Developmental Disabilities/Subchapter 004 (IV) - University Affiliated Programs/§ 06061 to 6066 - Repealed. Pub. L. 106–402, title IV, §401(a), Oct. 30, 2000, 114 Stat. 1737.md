@@ -26,7 +26,7 @@ Prior sections 6066 to 6068 were omitted in the general amendment of this chapte
 
 Section 6066, Pub. L. 88–164, title I, §136, formerly §140, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1324; renumbered §136 and amended Pub. L. 94–103, title I, §115, title III, §302(a), (b)(4), Oct. 4, 1975, 89 Stat. 493, 506, related to nonduplication of payments.
 
-Section 6067, Pub. L. 88–164, title I, §137, formerly §141, as added and renumbered §137, Pub. L. 94–103, title I, §116, title III, §302(a), Oct. 4, 1975, 89 Stat. 493, 506; amended Pub. L. 95–602, title V, §512, Nov. 6, 1978, 92 Stat. 3015, related to State Planning Councils.
+Section 6067, Pub. L. 88–164, title I, §137, formerly §141, as added and renumbered §137, Pub. L. 94–103, titleI, §116, title III, §302(a), Oct. 4, 1975, 89 Stat. 493, 506; amended Pub. L. 95–602, title V, §512, Nov. 6, 1978, 92 Stat. 3015, related to State Planning Councils.
 
 Section 6068, Pub. L. 88–164, title I, §138, formerly §142, as added, renumbered §138, and amended Pub. L. 94–103, title I, §117, title III, §302(a), (b)(5), Oct. 4, 1975, 89 Stat. 494, 506, related to appeals, petitions, record, jurisdiction of courts of appeals, conclusiveness of findings, review by the Supreme Court, and stay of administrative action.
 

@@ -16,7 +16,7 @@ The sentence added by Pub. L. 89–321, as amended by Pub. L. 90–559, which di
 
 <b>1968</b>—Pub. L. 90–559 provided for a one year extension of period for sale of marketing certificates, substituting "1966 through the 1970" for "1966 through the 1969" wheat crops.
 
-<b>1965</b>—Pub. L. 89–321 required the Commodity Credit Corporation to sell marketing certificates for the marketing years for the 1966 through the 1969 wheat cropsto persons engaged in the processing of food products at the face value thereof less any amount by which price support for wheat accompanied by domestic certificates exceeds $2 per bushel.
+<b>1965</b>—Pub. L. 89–321 required the Commodity Credit Corporation to sell marketing certificates for the marketing years for the 1966 through the 1969 wheat crops to persons engaged in the processing of food products at the face value thereof less any amount by which price support for wheat accompanied by domestic certificates exceeds $2 per bushel.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

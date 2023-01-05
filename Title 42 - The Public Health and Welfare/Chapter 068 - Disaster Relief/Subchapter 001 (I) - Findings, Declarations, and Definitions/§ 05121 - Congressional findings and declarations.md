@@ -18,11 +18,13 @@
 
 &emsp;(4) encouraging individuals, States, and local governments to protect themselves by obtaining insurance coverage to supplement or replace governmental assistance;
 
-&emsp;(5) encouraging hazard mitigation measures to reduce losses from disasters, including development of land use and construction regulations; and
+&emsp;(5) encouraging hazard mitigation measures to reduce losses from disasters, including development of land use and construction regulations;
 
-&emsp;(6) providing Federal assistance programs for both public and private losses sustained in disasters <sup>1</sup>
+&emsp;(6) providing Federal assistance programs for both public and private losses sustained in disasters; and
 
-(Pub. L. 93–288, title I, §101, May 22, 1974, 88 Stat. 143; Pub. L. 100–707, title I, §103(a), Nov. 23, 1988, 102 Stat. 4689.)
+&emsp;(7) identifying and improving the climate and natural hazard resilience of vulnerable communities.
+
+(Pub. L. 93–288, title I, §101, May 22, 1974, 88 Stat. 143; Pub. L. 100–707, title I, §103(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 117–255, §2, Dec. 20, 2022, 136 Stat. 2363.)
 
 #### <b>Editorial Notes</b>
 
@@ -31,6 +33,8 @@
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(7). Pub. L. 117–255 added par. (7).
 
 <b>1988</b>—Subsec. (b)(7). Pub. L. 100–707 struck out par. (7) expressing Congressional intent to provide disaster assistance through a long-range economic recovery program for major disaster areas.
 
@@ -51,6 +55,16 @@ Division Applicability.—Except as otherwise expressly provided, the authoritie
 #### Effective Date
 
 Pub. L. 93–288, title VI, §605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of section 5178 of this title, prior to repeal by Pub. L. 100–707, title I, §108(b), Nov. 23, 1988, 102 Stat. 4708.
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–263, div. G, title LXXIII, §7311, Dec. 23, 2022, 136 Stat. 3689, provided that: "This subtitle \[subtitle B (§§7311–7315) of title LXXIII of div. G of Pub. L. 117–263, enacting section 5136a of this title and provisions set out as notes under section 5136a of this title\] may be cited as the 'Technological Hazards Preparedness and Training Act of 2022'."
+
+Pub. L. 117–255, §1, Dec. 20, 2022, 136 Stat. 2363, provided that: "This Act \[enacting section 5136 of this title, amending this section, and enacting provisions set out as notes under section 5136 of this title\] may be cited as the 'Community Disaster Resilience Zones Act of 2022'."
+
+Pub. L. 117–251, §1, Dec. 20, 2022, 136 Stat. 2354, provided that: "This Act \[amending sections 5183, 5189d, and 5196c of this title and enacting provisions set out as notes under sections 5131, 5183, 5189d, and 5196c of this title\] may be cited as the 'FEMA Improvement, Reform, and Efficiency Act of 2022' or the 'FIRE Act'."
+
+Pub. L. 117–189, §1, Oct. 10, 2022, 136 Stat. 2204, provided that: "This Act \[amending section 5189 of this title and enacting provisions set out as a note under section 5189 of this title\] may be cited as the 'Small Project Efficient and Effective Disaster Recovery Act' or the 'SPEED Recovery Act'."
 
 #### Short Title of 2021 Amendment
 
@@ -80,7 +94,7 @@ Pub. L. 113–2, div. B, §1101(a), Jan. 29, 2013, 127 Stat. 39, provided that: 
 
 #### Short Title of 2011 Amendment
 
-Pub. L. 111–351, §1, Jan. 4, 2011, 124 Stat. 3863, provided that: "This Act \[amending sections 5133, 5134, 5144, 5165d, 5170c, 5172, 5195a, 5195b, 5196 to 5196b, 5196f, 5197 to 5197c, and 5197h of this title and enacting provisions set out as a note under section 5133 of this title\] may be cited as the 'Predisaster Hazard Mitigation Act of 2010'."
+Pub. L. 111–351, §1, Jan. 4, 2011, 124 Stat. 3863, provided that: "This Act \[amending sections 5133, 5134, 5144,5165d, 5170c, 5172, 5195a, 5195b, 5196 to 5196b, 5196f, 5197 to 5197c, and 5197h of this title and enacting provisions set out as a note under section 5133 of this title\] may be cited as the 'Predisaster Hazard Mitigation Act of 2010'."
 
 #### Short Title of 2006 Amendment
 
@@ -138,7 +152,7 @@ In General.—The Administrator of the Federal Emergency Management Agency shall
 
 &emsp;"(2) Mechanisms to eliminate duplication of benefits.
 
-&emsp;"(3) If appropriate, enable the sharing of information among agencies and with State, local, and tribal governments, to eliminate the need to file multiple applications and speed disaster recovery.
+&emsp;"(3) If appropriate, enable the sharing of information among agencies and with State, local, and tribalgovernments, to eliminate the need to file multiple applications and speed disaster recovery.
 
 &emsp;"(4) Any additional tools the Administrator determines will improve the implementation of this section.
 
@@ -201,6 +215,4 @@ Sec. 4. Revoked by Ex. Ord. No. 12148, §5–111, July 20, 1979, 44 F.R. 43239.\
 #### Seismic Safety of Federal and Federally Assisted or Regulated New Building Construction
 
 For provisions relating to seismic safety requirements for new construction or total replacement of a building under this chapter after a presidentially declared major disaster or emergency, see Ex. Ord. No. 13717, Feb. 2, 2016, 81 F.R. 6407, set out as a note under section 7704 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Transitory Digital Network Communications.—A service provider shall not be liable formonetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the provider's transmitting, routing, or providing connections for, material through a system or network controlled or operated by or for the service provider, or by reason of the intermediate and transient storage of that material in the course of such transmitting, routing, or providing connections, if—
+Transitory Digital Network Communications.—A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the provider's transmitting, routing, or providing connections for, material through a system or network controlled or operated by or for the service provider, or by reason of the intermediate and transient storage of that material in the course of such transmitting, routing, or providing connections, if—
 
 &emsp;(1) the transmission of the material was initiated by or at the direction of a person other than the service provider;
 
@@ -52,7 +52,7 @@ Conditions.—The conditions referred to in paragraph (1) are that—
 
 &emsp;&emsp;&emsp;(i) the material has previously been removed from the originating site or access to it has been disabled, or a court has ordered that the material be removed from the originating site or that access to the material on the originating site be disabled; and
 
-&emsp;&emsp;&emsp;(ii) the party giving the notification includes in the notification a statement confirming that the material has been removed from the originating site or access to it has been disabled or that a court has ordered that the material be removed fromthe originating site or that access to the material on the originating site be disabled.
+&emsp;&emsp;&emsp;(ii) the party giving the notification includes in the notification a statement confirming that the material has been removed from the originating site or access to it has been disabled or that a court has ordered that the material be removed from the originating site or that access to the material on the originating site be disabled.
 
 (c)
 
@@ -146,7 +146,7 @@ Replacement of Removed or Disabled Material and Limitation on Other Liability.�
 
 &emsp;(1)
 
-No liability for taking down generally.—Subject to paragraph (2), a service provider shall not be liable to any person for any claim based on the service provider's good faith disabling of access to, or removal of, material or activity claimed to be infringing or based on facts or circumstances from which infringing activity is apparent, regardless of whether the material or activity is ultimately determined to be infringing.
+No liability for taking down generally.—Subject to paragraph (2), a service provider shall not be liable to any person for any claim based on the service provider's goodfaith disabling of access to, or removal of, material or activity claimed to be infringing or based on facts or circumstances from which infringing activity is apparent, regardless of whether the material or activity is ultimately determined to be infringing.
 
 &emsp;(2)
 
@@ -294,7 +294,7 @@ Protection of Privacy.—Nothing in this section shall be construed to condition
 
 (n)
 
-Construction.—Subsections (a), (b), (c), and (d) describe separate and distinct functions for purposes of applying this section. Whether a service provider qualifies for the limitation on liability in any one of those subsections shall be based solely on the criteria in that subsection, and shall not affect a determination of whether that service provider qualifies for the limitations on liability under any other such subsection.
+Construction.—Subsections (a), (b), (c), and (d) describe separate and distinct functionsfor purposes of applying this section. Whether a service provider qualifies for the limitation on liability in any one of those subsections shall be based solely on the criteria in that subsection, and shall not affect a determination of whether that service provider qualifies for the limitations on liability under any other such subsection.
 
 (Added Pub. L. 105–304, title II, §202(a), Oct. 28, 1998, 112 Stat. 2877; amended Pub. L. 106–44, §1(d), Aug. 5, 1999, 113 Stat. 222; Pub. L. 111–295, §3(a), Dec. 9, 2010, 124 Stat. 3180.)
 

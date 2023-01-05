@@ -126,7 +126,7 @@ Pars. (8), (9). Pub. L. 100–707, §103(f), added pars. (8) and (9).
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–254, div. D, §1238(c), Oct. 5, 2018, 132 Stat. 3466, provided that: "The amendment made by subsection (b)(1) \[amending this section\] shall apply to any major disaster or emergency declared by the President under section 401 or 501, respectively, of the Robert T.Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170, 5191) on or after the date of enactment of this Act \[Oct. 5, 2018\]."
+Pub. L. 115–254, div. D, §1238(c), Oct. 5, 2018, 132 Stat. 3466, provided that: "The amendment made by subsection (b)(1) \[amending this section\] shall apply to any major disaster or emergency declared by the President under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170, 5191) on or after the date of enactment of this Act \[Oct. 5, 2018\]."
 
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
 
@@ -168,7 +168,7 @@ Termination of effectiveness.—Paragraph (1) shall not be effective on and afte
 
 #### Definitions
 
-Pub. L. 115–254, div. D, §1203, Oct. 5, 2018, 132 Stat. 3438, provided that: "In this division \[see Short Title of 2018 Amendment note set out under section 5121 of this title\]:
+Pub. L. 115–254, div. D, §1203, Oct. 5, 2018, 132 Stat. 3438, provided that: "In this division \[see Short Title of2018 Amendment note set out under section 5121 of this title\]:
 
 &emsp;"(1)
 

@@ -42,7 +42,7 @@ Suspension of Agents and Attorneys.—The Secretary, after notice and opportunit
 
 &emsp;(5) has in any manner deceived, misled, or threatened any actual or prospective claimant;
 
-&emsp;(6) has presented to the Secretary a frivolous claim, issue, or argument, involving conductinconsistent with ethical standards for the practice of law;
+&emsp;(6) has presented to the Secretary a frivolous claim, issue, or argument, involving conduct inconsistent with ethical standards for the practice of law;
 
 &emsp;(7) has been suspended or disbarred by any court or bar to which such agent or attorney was previously admitted to practice, or has been disqualified from participating in or appearing before any Federal agency, and has not been subsequently reinstated;
 

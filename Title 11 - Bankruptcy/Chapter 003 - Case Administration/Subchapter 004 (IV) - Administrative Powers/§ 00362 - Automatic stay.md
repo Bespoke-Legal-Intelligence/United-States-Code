@@ -116,7 +116,7 @@
 
 &emsp;&emsp;(B) the enforcement of an order or decision, other than for monetary sanctions, obtained in an action by such securities self regulatory organization to enforce such organization's regulatory power; or
 
-&emsp;&emsp;(C) any act taken by such securities self regulatory organization to delist, delete, or refuse to permit quotation of any stock that does not meet applicable regulatory requirements;
+&emsp;&emsp;(C) any act taken by such securities self regulatory organization to delist, delete, orrefuse to permit quotation of any stock that does not meet applicable regulatory requirements;
 
 &emsp;(26) under subsection (a), of the setoff under applicable nonbankruptcy law of an income tax refund, by a governmental unit, with respect to a taxable period that ended before the date of the order for relief against an income tax liability for a taxable period that also ended before the date of the order for relief, except that in any case in which the setoff of an income tax refund is not permitted under applicable nonbankruptcy law because of a pending action to determine the amount or legality of a tax liability, the governmental unit may hold the refund pending the resolution of the action, unless the court, on the motion of the trustee and after notice and a hearing, grants the taxing authority adequate protection (within the meaning of section 361) for the secured claim of such authority in the setoff under section 506(a);
 
@@ -126,7 +126,7 @@
 
 &emsp;(29) under subsection (a)(1) of this section, of any action by—
 
-&emsp;&emsp;(A) an amateur sports organization, as defined in section 220501(b) of title 36, to replace a national governing body, as definedin that section, under section 220528 of that title; or
+&emsp;&emsp;(A) an amateur sports organization, as defined in section 220501(b) of title 36, to replace a national governing body, as defined in that section, under section 220528 of that title; or
 
 &emsp;&emsp;(B) the corporation, as defined in section 220501(b) of title 36, to revoke the certification of a national governing body, as defined in that section, under section 220521 of that title.
 
@@ -262,7 +262,7 @@
 
 &emsp;(B) the debtor (or an adult dependent of the debtor) has deposited with the clerk of the court, any rent that would become due during the 30-day period after the filing of the bankruptcy petition.
 
-(2) If, within the 30-day period after the filing of the bankruptcy petition, the debtor (or an adult dependent of the debtor) complies with paragraph (1) and files with the court and serves upon the lessor a further certification under penalty of perjury that the debtor (or an adult dependent of the debtor) has cured, under nonbankruptcy law applicable in the jurisdiction, the entire monetary default that gave rise to the judgment under which possession is sought by the lessor, subsection (b)(22) shall not apply, unless ordered to apply by the court under paragraph (3).
+(2) If, within the 30-day period after the filing of the bankruptcy petition, the debtor (or anadult dependent of the debtor) complies with paragraph (1) and files with the court and serves upon the lessor a further certification under penalty of perjury that the debtor (or an adult dependent of the debtor) has cured, under nonbankruptcy law applicable in the jurisdiction, the entire monetary default that gave rise to the judgment under which possession is sought by the lessor, subsection (b)(22) shall not apply, unless ordered to apply by the court under paragraph (3).
 
 (3)(A) If the lessor files an objection to any certification filed by the debtor under paragraph (1) or (2), and serves such objection upon the debtor, the court shall hold a hearing within 10 days after the filing and service of such objection to determine if the certification filed by the debtor under paragraph (1) or (2) is true.
 
@@ -278,7 +278,7 @@
 
 &emsp;(B) the clerk of the court shall immediately serve upon the lessor and the debtor a certified copy of the docket indicating the absence of a filed certification and the applicability of the exception to the stay under subsection (b)(22).
 
-(5)(A) Where a judgment for possession of residential property in which the debtor resides as a tenant under a lease or rental agreement has been obtained by the lessor, the debtor shall soindicate on the bankruptcy petition and shall provide the name and address of the lessor that obtained that pre-petition judgment on the petition and on any certification filed under this subsection.
+(5)(A) Where a judgment for possession of residential property in which the debtor resides as a tenant under a lease or rental agreement has been obtained by the lessor, the debtor shall so indicate on the bankruptcy petition and shall provide the name and address of the lessor that obtained that pre-petition judgment on the petition and on any certification filed under this subsection.
 
 (B) The form of certification filed with the petition, as specified in this subsection, shall provide for the debtor to certify, and the debtor shall certify—
 
@@ -332,7 +332,7 @@
 
 (o) The exercise of rights not subject to the stay arising under subsection (a) pursuant to paragraph (6), (7), (17), or (27) of subsection (b) shall not be stayed by any order of a court or administrative agency in any proceeding under this title.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2570; Pub. L. 97–222, §3, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§304, 363(b), 392, 441, July 10, 1984, 98 Stat. 352, 363, 365, 371; Pub. L. 99–509, title V, §5001(a), Oct. 21, 1986, 100 Stat. 1911; Pub. L. 99–554, title II, §§257(j), 283(d), Oct. 27, 1986, 100 Stat. 3115, 3116; Pub. L. 101–311, title I, §102, title II, §202, June 25, 1990, 104 Stat. 267, 269; Pub. L. 101–508, title III, §3007(a)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 103–394, title I, §§101, 116, title II, §§204(a), 218(b), title III, §304(b), title IV, §401, title V, §501(b)(2), (d)(7), Oct. 22, 1994, 108 Stat. 4107, 4119, 4122, 4128, 4132, 4141, 4142, 4144; Pub. L. 105–277, div. I, title VI, §603, Oct. 21, 1998, 112 Stat. 2681–886; Pub. L. 109–8, title I, §106(f), title II, §§214, 224(b), title III, §§302, 303, 305(1), 311, 320, title IV, §§401(b), 441, 444, title VII, §§709, 718, title IX, §907(d), (o)(1), (2), title XI, §1106, title XII, §1225, Apr. 20, 2005, 119 Stat. 41, 54, 64, 75, 77, 79, 84, 94, 104, 114, 117, 127, 131, 176,181, 182, 192, 199; Pub. L. 109–304, §17(b)(1), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 109–390, §5(a)(2), Dec. 12, 2006, 120 Stat. 2696; Pub. L. 111–327, §2(a)(12), Dec. 22, 2010, 124 Stat. 3558; Pub. L. 116–189, §9, Oct. 30, 2020, 134 Stat. 970.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2570; Pub. L. 97–222, §3, July 27, 1982, 96 Stat. 235; Pub. L. 98–353, title III, §§304, 363(b), 392, 441, July 10, 1984, 98 Stat. 352, 363, 365, 371; Pub. L. 99–509, title V, §5001(a), Oct. 21, 1986, 100 Stat. 1911; Pub. L. 99–554, title II, §§257(j), 283(d), Oct. 27, 1986, 100 Stat. 3115, 3116; Pub. L. 101–311, title I, §102, title II, §202, June 25, 1990, 104 Stat. 267, 269; Pub. L. 101–508, title III, §3007(a)(1), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 103–394, title I, §§101, 116, title II, §§204(a), 218(b), title III, §304(b), title IV, §401, title V, §501(b)(2), (d)(7), Oct. 22, 1994, 108 Stat. 4107, 4119, 4122, 4128, 4132, 4141, 4142, 4144; Pub. L. 105–277, div. I, title VI, §603, Oct. 21, 1998, 112 Stat. 2681–886; Pub. L. 109–8, title I, §106(f), title II, §§214, 224(b), title III, §§302, 303, 305(1), 311, 320, title IV, §§401(b), 441, 444, title VII, §§709, 718, title IX, §907(d), (o)(1), (2), title XI, §1106, title XII, §1225, Apr. 20, 2005, 119 Stat. 41, 54, 64, 75, 77, 79, 84, 94, 104, 114, 117, 127, 131, 176, 181, 182, 192, 199; Pub. L. 109–304, §17(b)(1), Oct. 6, 2006, 120 Stat. 1706; Pub. L. 109–390, §5(a)(2), Dec. 12, 2006, 120 Stat. 2696; Pub. L. 111–327, §2(a)(12), Dec. 22, 2010, 124 Stat. 3558; Pub. L. 116–189, §9, Oct. 30, 2020, 134 Stat. 970.)
 
 #### Historical and Revision Notes
 
@@ -368,7 +368,7 @@ The action commenced by the party seeking relief from the stay is referred to as
 
 #### house report no. 95–595
 
-Paragraph (7) \[of subsec. (a)\] stays setoffs of mutual debts and credits between the debtor and creditors. Aswith all other paragraphs of subsection (a), this paragraph does not affect the right of creditors. It simply stays its enforcement pending an orderly examination of the debtor's and creditors' rights.
+Paragraph (7) \[of subsec. (a)\] stays setoffs of mutual debts and credits between the debtor and creditors. As with all other paragraphs of subsection (a), this paragraph does not affect the right of creditors. It simply stays its enforcement pending an orderly examination of the debtor's and creditors' rights.
 
 Subsection (c) governs automatic termination of the stay. Subsections (d) through (g) govern termination of the stay by the court on the request of a party in interest. Subsection (d) requires the court, on request of a party in interest, to grant relief from the stay, such as by terminating, annulling, modifying, or conditioning the stay, for cause. The lack of adequate protection of an interest in property of the party requesting relief from the stay is one cause for relief, but is not the only cause. As noted above, a desire to permit an action to proceed to completion in another tribunal may provide another cause. Other causes might include the lack of any connection with or interference with the pending bankruptcy case. For example, a divorce or child custody proceeding involving the debtor may bear no relation to the bankruptcy case. In that case, it should not be stayed. A probate proceeding in which the debtor is the executor or administrator of another's estate usually will not be related to the bankruptcy case, and should not be stayed. Generally, proceedings in which the debtor is a fiduciary, or involving postpetition activities of the debtor, need not be stayed because they bear no relationship to the purpose of the automatic stay, which is debtor protection from his creditors. The facts of each request will determine whether relief is appropriate under the circumstances.
 
@@ -492,7 +492,7 @@ Subsec. (b)(2). Pub. L. 103–394, §304(b), amended par. (2) generally. Prior t
 
 Subsec. (b)(3). Pub. L. 103–394, §204(a), inserted ", or to maintain or continue the perfection of," after "to perfect".
 
-Subsec. (b)(6). Pub. L. 103–394, §501(b)(2)(A), substituted "section 761" for "section 761(4)", "section 741"for "section 741(7)", "section 101, 741, or 761" for "section 101(34), 741(5), or 761(15)", and "section 101 or 741" for "section 101(35) or 741(8)".
+Subsec. (b)(6). Pub. L. 103–394, §501(b)(2)(A), substituted "section 761" for "section 761(4)", "section 741" for "section 741(7)", "section 101, 741, or 761" for "section 101(34), 741(5), or 761(15)", and "section 101 or 741" for "section 101(35) or 741(8)".
 
 Subsec. (b)(7). Pub. L. 103–394, §501(b)(2)(B), substituted "section 741 or 761" for "section 741(5) or 761(15)" and "section 741" for "section 741(8)".
 
@@ -552,7 +552,7 @@ Subsec. (a)(3). Pub. L. 98–353, §441(a)(2), inserted "or to exercise control 
 
 Subsec. (b)(3). Pub. L. 98–353, §441(b)(1), inserted "or to the extent that such act is accomplished within the period provided under section 547(e)(2)(A) of this title".
 
-Subsec. (b)(6). Pub. L. 98–353, §441(b)(2), inserted "or due from" after "held by" and "financial institution," after "stockbroker" in two places, and substituted "secure, or settle commodity contracts" for "or secure commodity contracts".
+Subsec. (b)(6). Pub. L. 98–353, §441(b)(2), inserted "or due from" after "held by" and "financial institution,"after "stockbroker" in two places, and substituted "secure, or settle commodity contracts" for "or secure commodity contracts".
 
 Subsec. (b)(7) to (9). Pub. L. 98–353, §441(b)(3), (4), in par. (8) as redesignated by Pub. L. 98–353, §392, substituted "the" for "said" and struck out "or" the last place it appeared which probably meant "or" after "units;" that was struck out by Pub. L. 98–353, §363(b)(1); and, in par. (9), relating to notices of deficiencies, as redesignated by Pub. L. 98–353, §392, substituted a semicolon for the period.
 
@@ -580,7 +580,7 @@ Subsec. (h). Pub. L. 98–353, §304, added subsec. (h).
 
 Subsec. (b). Pub. L. 97–222, §3(b), inserted ", or of an application under section 5(a)(3) of the Securities Investor Protection Act of 1970 (15 U.S.C. 78eee(a)(3))," after "this title" in provisions preceding par. (1).
 
-Subsec. (b)(6). Pub. L. 97–222, §3(c), substituted provisions that the filing of a bankruptcy petition would not operate as a stay, under subsec. (a) of this section, ofthe setoff by a commodity broker, forward contract merchant, stockbroker, or securities clearing agency of any mutual debt and claim under or in connection with commodity, forward, or securities contracts that constitutes the setoff of a claim against the debtor for a margin or settlement payment arising out of commodity, forward, or securities contracts against cash, securities, or other property held by any of the above agents to margin, guarantee, or secure commodity, forward, or securities contracts, for provisions that such filing would not operate as a stay under subsection (a)(7) of this section, of the setoff of any mutual debt and claim that are commodity futures contracts, forward commodity contracts, leverage transactions, options, warrants, rights to purchase or sell commodity futures contracts or securities, or options to purchase or sell commodities or securities.
+Subsec. (b)(6). Pub. L. 97–222, §3(c), substituted provisions that the filing of a bankruptcy petition would not operate as a stay, under subsec. (a) of this section, of the setoff by a commodity broker, forward contract merchant, stockbroker, or securities clearing agency of any mutual debt and claim under or in connection with commodity, forward, or securities contracts that constitutes the setoff of a claim against the debtor for a margin or settlement payment arising out of commodity, forward, or securities contracts against cash, securities, or other property held by any of the above agents to margin, guarantee, or secure commodity, forward, or securities contracts, for provisions that such filing would not operate as a stay under subsection (a)(7) of this section, of the setoff of any mutual debt and claim that are commodity futures contracts, forward commodity contracts, leverage transactions, options, warrants, rights to purchase or sell commodity futures contracts or securities, or options to purchase or sell commodities or securities.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -18,7 +18,7 @@ The Comptroller <sup>1</sup> shall have authority to indemnify the conservator 
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: "Conservators appointed pursuant to the provisions of this subchapter shall be subject to the provisions of and to the penalties prescribed by sections 334, 656, and 1005 of title 18; and sections 202, 216, 281, 431, 432, and 433 of title 18, in so far as applicable, are extended to apply to contracts, agreements, proceedings, dealings, claims and controversies by or with any such conservator or the Comptroller of the Currency under the provisions of this subchapter."
+<b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: "Conservators appointed pursuant to the provisions of this subchapter shall be subject to the provisions of and to the penalties prescribed by sections 334, 656, and 1005 of title 18; and sections 202, 216, 281, 431, 432, and 433 of title 18, in so far as applicable, are extended to apply to contracts, agreements, proceedings, dealings, claims and controversies by or with any such conservator or theComptroller of the Currency under the provisions of this subchapter."
 
 <b>1954</b>—Act Sept. 3, 1954, corrected references to title 18.
 

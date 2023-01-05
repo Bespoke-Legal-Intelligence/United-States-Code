@@ -12,7 +12,7 @@
 
 #### (2) Subcontractors
 
-&emsp;Any person awarded a contract subject to the restrictions described in paragraph (1) whosubcontracts with a person to perform the services described in such paragraph shall be subject to the same restrictions in evaluating bids among potential subcontractors, as the Secretary was subject to in evaluating bids among prime contractors.
+&emsp;Any person awarded a contract subject to the restrictions described in paragraph (1) who subcontracts with a person to perform the services described in such paragraph shall be subject to the same restrictions in evaluating bids among potential subcontractors, as the Secretary was subject to in evaluating bids among prime contractors.
 
 #### (b) Issuance of regulations
 

@@ -20,7 +20,7 @@ A prior section 1022, Pub. L. 89–329, title II, §202, as added Pub. L. 105–
 
 Another prior section 1022, Pub. L. 89–329, title II, §202, as added Pub. L. 96–374, title II, §201, Oct. 3, 1980, 94 Stat. 1384; amended Pub. L. 102–325, title II, §201, July 23, 1992, 106 Stat. 468, required each institution of higher education receiving grants under this subchapter to annually notify designated State agency of its activities under this subchapter, prior to repeal by Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §708(b)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
-Another prior section 1022, Pub. L. 89–329, title II, §202, Nov. 8, 1965, 79 Stat. 1224; Pub. L. 89–752, §9, Nov.3, 1966, 80 Stat. 1243; Pub. L. 90–575, title II, §214(a), Oct. 16, 1968, 82 Stat. 1037; Pub. L. 92–318, title I, §§111(b)(2)(A), 112(a), (b)(1), June 23, 1972, 86 Stat. 238, 240, related to the basic grants for the college library resources program, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1022, Pub. L. 89–329, title II, §202, Nov. 8, 1965, 79 Stat. 1224; Pub. L. 89–752, §9, Nov. 3, 1966, 80 Stat. 1243; Pub. L. 90–575, title II, §214(a), Oct. 16, 1968, 82 Stat. 1037; Pub. L. 92–318, title I, §§111(b)(2)(A), 112(a), (b)(1), June 23, 1972, 86 Stat. 238, 240, related to the basic grants for the college library resources program, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 201 of Pub. L. 89–329 was classified to section 1021 of this title, prior to repeal by Pub. L. 104–208.
 

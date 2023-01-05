@@ -88,7 +88,7 @@ For mortgages not covered by the requirements of subsection (b), no provision of
 
 #### (3) Applicability of payment of interest
 
-&emsp;If prescribed by applicable State or Federal law, each creditor shall pay interest to theconsumer on the amount held in any impound, trust, or escrow account that is subject to this section in the manner as prescribed by that applicable State or Federal law.
+&emsp;If prescribed by applicable State or Federal law, each creditor shall pay interest to the consumer on the amount held in any impound, trust, or escrow account that is subject to this section in the manner as prescribed by that applicable State or Federal law.
 
 #### (4) Penalty coordination with RESPA
 
@@ -154,7 +154,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(D) Such other information as the Bureau determines necessary for the protection of the consumer.
 
-(Pub. L. 90–321, title I, §129D, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1461(a), 1462, July 21, 2010, 124 Stat. 2107,2178, 2181; Pub. L. 114–94, div. G, title LXXXIX, §89003(2), Dec. 4, 2015, 129 Stat. 1801; Pub. L. 115–174, title I, §108, May 24, 2018, 132 Stat. 1304.)
+(Pub. L. 90–321, title I, §129D, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1461(a), 1462, July 21, 2010, 124 Stat. 2107, 2178, 2181; Pub. L. 114–94, div. G, title LXXXIX, §89003(2), Dec. 4, 2015, 129 Stat. 1801; Pub. L. 115–174, title I, §108, May 24, 2018, 132 Stat. 1304.)
 
 #### <b>Editorial Notes</b>
 

@@ -46,7 +46,7 @@ For purposes of this section, in any case in which a person engaged in the busin
 
 #### References in Text
 
-The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred toin subsec. (d)(1)(A)(i), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
+The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (d)(1)(A)(i), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Prior Provisions
 
@@ -206,5 +206,5 @@ Section applicable to transportation beginning after June 30, 1970, see section 
 
 #### Delayed Deposits of Airport Trust Fund Tax Revenues
 
-Due date for deposits of taxes imposed by this section which would be required to be made after July 31, 1998, and before Oct. 1, 1998, to be Oct. 5, 1998, see section 1031(g) of Pub. L. 105–34, set out as a note under section 6302 of this title.
+Due date for deposits of taxes imposed by this section which would be required to be made after July 31, 1998,and before Oct. 1, 1998, to be Oct. 5, 1998, see section 1031(g) of Pub. L. 105–34, set out as a note under section 6302 of this title.
 

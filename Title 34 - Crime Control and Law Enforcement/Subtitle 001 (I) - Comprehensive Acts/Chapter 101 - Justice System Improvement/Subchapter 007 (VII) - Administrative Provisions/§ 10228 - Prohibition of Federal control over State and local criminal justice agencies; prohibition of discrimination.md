@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Nothing in this chapter or any other Act shall be construed to authorize any department, agency, officer, or employee of the United States toexercise any direction, supervision, or control over any police force or any other criminal justice agency of any State or any political subdivision thereof.
+Nothing in this chapter or any other Act shall be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over any police force or any other criminal justice agency of any State or any political subdivision thereof.
 
 #### (b) Racial imbalance requirement restriction
 
@@ -18,7 +18,7 @@ Notwithstanding any other provision of law, nothing contained in this chapter sh
 
 (2)(A) Whenever there has been—
 
-&emsp;(i) receipt of notice of a finding, after notice and opportunity for a hearing, by a Federal court (other than in an action brought by the Attorney General) or State court, or by a Federal or State administrative agency, to the effect that there has been a pattern or practice of discrimination in violation of paragraph (1); or
+&emsp;(i) receipt of notice of a finding, after notice and opportunity for a hearing, by a Federal court (other than in an action brought by theAttorney General) or State court, or by a Federal or State administrative agency, to the effect that there has been a pattern or practice of discrimination in violation of paragraph (1); or
 
 &emsp;(ii) a determination after an investigation by the Office of Justice Programs (prior to a hearing under subparagraph (F) but including an opportunity for the State government or unit of local government to make a documentary submission regarding the allegation of discrimination with respect to such program or activity, with funds made available under this chapter) that a State government or unit of local government is not in compliance with paragraph (1);
 

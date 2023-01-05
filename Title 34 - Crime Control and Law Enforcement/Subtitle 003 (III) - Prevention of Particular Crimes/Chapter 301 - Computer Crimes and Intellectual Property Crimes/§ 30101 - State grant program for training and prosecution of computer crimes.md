@@ -74,3 +74,9 @@ Section was formerly classified to section 3713 of Title 42, The Public Health a
 
 Subsec. (e)(1). Pub. L. 110–403, §401(a)(2), substituted "2009 through 2013" for "2001 through 2004".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of Pub. L. 106–572, which is classified to this section, as the "Computer Crime Enforcement Act", see section 1 of Pub. L. 106–572, set out as a Short Title of 2000 Act note under section 10101 of this title.
+

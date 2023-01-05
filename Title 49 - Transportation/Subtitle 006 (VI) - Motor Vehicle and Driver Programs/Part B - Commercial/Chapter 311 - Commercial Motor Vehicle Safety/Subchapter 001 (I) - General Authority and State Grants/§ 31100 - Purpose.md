@@ -190,7 +190,7 @@ In General.—On and after the date that is 1 day after the date of enactment of
 
 &emsp;"(3) if applicable, the corrective action plan under section 5221(d) has been implemented;
 
-&emsp;"(4) the Administrator of the Federal Motor Carrier Safety Administration has fully implemented or satisfactorily addressed the issues raised in the report titled 'Modifying the Compliance, Safety, Accountability Program Would Improve the Ability to Identify High Risk Carriers' of the Government Accountability Office and dated February 2014 (GAO–14–114); and
+&emsp;"(4) the Administrator of the Federal Motor Carrier Safety Administration has fully implemented or satisfactorily addressed the issues raised in the reporttitled 'Modifying the Compliance, Safety, Accountability Program Would Improve the Ability to Identify High Risk Carriers' of the Government Accountability Office and dated February 2014 (GAO–14–114); and
 
 &emsp;"(5) the Secretary \[of Transportation\] has initiated modification of the CSA program in accordance with section 5222.
 
@@ -298,7 +298,7 @@ Verification.—Not later than 18 months after the date of the enactment of this
 
 #### Outreach and Education
 
-Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, §422(g), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(g), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(g), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(f), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(f), Mar. 30, 2012, 126 Stat. 274; Pub. L.112–140, title II, §202(f), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(f), div. G, title II, §112002(e), July 6, 2012, 126 Stat. 808, 983; Pub. L. 113–159, title I, §1102(f), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(f), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(f), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(f), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(f), Nov. 20, 2015, 129 Stat. 681, which provided for an outreach and education program, was repealed by Pub. L. 114–94, div. A, title V, §5103(c)(4), Dec. 4, 2015, 129 Stat. 1527. See section 31110(c) of this title.
+Pub. L. 109–59, title IV, §4127, Aug. 10, 2005, 119 Stat. 1741, as amended by Pub. L. 111–147, title IV, §422(g),Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(g), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(g), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(f), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(f), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(f), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(f), div. G, title II, §112002(e), July 6, 2012, 126 Stat. 808, 983; Pub. L. 113–159, title I, §1102(f), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(f), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(f), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(f), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(f), Nov. 20, 2015, 129 Stat. 681, which provided for an outreach and education program, was repealed by Pub. L. 114–94, div. A, title V, §5103(c)(4), Dec. 4, 2015, 129 Stat. 1527. See section 31110(c) of this title.
 
 #### Safety Data Improvement Program
 
@@ -318,7 +318,7 @@ Assessment.—The Inspector General of the Department of Transportation may peri
 
 #### Motor Carrier Safety Advisory Committee
 
-Pub. L. 109–59, title IV, §4144, Aug. 10, 2005, 119 Stat. 1748, as amended by Pub. L. 111–147, title IV, §422(i), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(i), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(i), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(h), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(h), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(h), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32912, July 6, 2012, 126 Stat. 818; Pub. L. 117–58, div. B, title III, §23002, Nov. 15, 2021, 135 Stat. 758, provided that:
+Pub. L. 109–59, title IV, §4144, Aug. 10, 2005, 119 Stat. 1748, as amended by Pub. L. 111–147, title IV, §422(i), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(i), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(i), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(h), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(h), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(h), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32912, July 6, 2012, 126 Stat. 818; Pub. L. 117–58, div. B, title III, §23002, Nov. 15, 2021, 135 Stat. 758; Pub. L. 117–286, §4(a)(309), Dec. 27, 2022, 136 Stat. 4340, provided that:
 
 "(a)
 
@@ -350,7 +350,7 @@ Support Staff, Information, and Services.—The Administrator shall provide supp
 
 "(d)
 
-Termination Date.—Notwithstanding the Federal Advisory Committee Act (5 U.S.C. App.), the advisory committee shall terminate on September 30, 2025."
+Termination Date.—Notwithstanding chapter 10 of title 5, United States Code, the advisory committee shall terminate on September 30, 2025."
 
 #### Motor Carrier Safety Strategy
 
@@ -522,5 +522,5 @@ Funding.—Of the amounts made available for each of fiscal years 2001, 2002, an
 
 #### Data Collection and Analysis
 
-Pub. L. 106–159, title II, §225, Dec. 9, 1999, 113 Stat. 1771, directed the Secretary, in cooperation with the States, to carry out a program to improve the collection and analysis of data on crashes, including crash causation, involving commercial motor vehicles and totransmit a report on the program and authorized appropriations for fiscal years 2001, 2002, and 2003.
+Pub. L. 106–159, title II, §225, Dec. 9, 1999, 113 Stat. 1771, directed the Secretary, in cooperation with the States, to carry out a program to improve the collection and analysis of data on crashes, including crash causation, involving commercial motor vehicles and to transmit a report on the program and authorized appropriations for fiscal years 2001, 2002, and 2003.
 

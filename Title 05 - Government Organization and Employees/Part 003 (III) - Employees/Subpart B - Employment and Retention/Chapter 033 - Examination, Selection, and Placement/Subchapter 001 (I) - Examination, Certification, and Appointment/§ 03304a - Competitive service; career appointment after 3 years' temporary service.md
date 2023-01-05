@@ -6,7 +6,7 @@
 
 &emsp;(2) he passes a suitable noncompetitive examination;
 
-&emsp;(3) the appointing authority (A) recommends to the Office of Personnel Management that the appointment of the individual be converted to a career appointment and (B) certifies to the Office that the work performance of the individual for the past 12 months has been satisfactory; and
+&emsp;(3) the appointing authority (A) recommends to the Office of Personnel Management thatthe appointment of the individual be converted to a career appointment and (B) certifies to the Office that the work performance of the individual for the past 12 months has been satisfactory; and
 
 &emsp;(4) he meets Office qualification requirements for the position and is otherwise eligible for career appointment.
 

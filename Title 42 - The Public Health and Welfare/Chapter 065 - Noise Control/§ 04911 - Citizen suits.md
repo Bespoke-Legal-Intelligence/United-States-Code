@@ -4,7 +4,7 @@
 
 Except as provided in subsection (b), any person (other than the United States) may commence a civil action on his own behalf—
 
-&emsp;(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) <sup>1</sup>), or
+&emsp;(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment tothe Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) <sup>1</sup>), or
 
 &emsp;(2) against—
 
@@ -38,7 +38,7 @@ The court, in issuing any final order in any action brought pursuant to subsecti
 
 #### (e) Other common law or statutory rights of action
 
-Nothing in this section shall restrict any right which any person (or class of persons) may haveunder any statute or common law to seek enforcement of any noise control requirement or to seek any other relief (including relief against an Administrator).
+Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any noise control requirement or to seek any other relief (including relief against an Administrator).
 
 #### (f) "Noise control requirement" defined
 

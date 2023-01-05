@@ -12,7 +12,7 @@
 
 #### (b) Appointment and size
 
-Except as provided in subsection (c)(3), the members of a State Commission for a State shall be appointed by the chief executive officer of the State. A State Commission shall consist of not fewer than 15, and not more than 25, voting members, and any ex officio nonvoting members, as described in paragraph (3) or (4) of subsection (c).
+Except as provided in subsection (c)(3), the members of a State Commission for a Stateshall be appointed by the chief executive officer of the State. A State Commission shall consist of not fewer than 15, and not more than 25, voting members, and any ex officio nonvoting members, as described in paragraph (3) or (4) of subsection (c).
 
 #### (c) Composition and membership
 
@@ -96,7 +96,7 @@ Except as provided in subsection (c)(3), the members of a State Commission for a
 
 &emsp;&emsp;&emsp;(i) a grant application relating to such program is pending before the Commission (or such entity); and
 
-&emsp;&emsp;&emsp;(ii) the application was submitted by a program or entity of which such member is, or in the 1-year period before the submission of such application was, an officer, director, trustee, full-time volunteer, or employee.
+&emsp;&emsp;&emsp;(ii) the application was submitted by a program or entity of which such memberis, or in the 1-year period before the submission of such application was, an officer, director, trustee, full-time volunteer, or employee.
 
 #### (B) Exception
 
@@ -150,7 +150,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 &emsp;&emsp;(A) to plan and implement service programs; and
 
-&emsp;&emsp;(B) to apply for assistance under the national service laws using, if appropriate, information and materials available through aclearinghouse established under section 12653a <sup>1</sup> of this title.
+&emsp;&emsp;(B) to apply for assistance under the national service laws using, if appropriate, information and materials available through a clearinghouse established under section 12653a <sup>1</sup> of this title.
 
 &emsp;(7) Assistance in the provision of health care and child care benefits under section 12594 of this title to participants in national service programs that receive assistance under section 12571 of this title.
 
@@ -162,7 +162,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 #### (f) Relief from administrative requirements
 
-Upon approval of a State plan submitted under subsection (e)(1), the Chief Executive Officer may waive for the State, or specify alternatives for the State to, administrative requirements (other than statutory provisions) otherwise applicable to grants made to States under the national service laws, including those requirements identified by the State as impeding the coordination and effectiveness of Federal, State, and local resources for service and volunteerism within the State.
+Upon approval of a State plan submitted under subsection (e)(1), the Chief Executive Officer may waive for the State, or specify alternativesfor the State to, administrative requirements (other than statutory provisions) otherwise applicable to grants made to States under the national service laws, including those requirements identified by the State as impeding the coordination and effectiveness of Federal, State, and local resources for service and volunteerism within the State.
 
 #### (g) State service plan for adults age 55 or older
 
@@ -234,7 +234,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (2) Approval of alternative administrative entity
 
-&emsp;Any designation of a State Commission or use of an alternative administrative entity to carry out the duties of a State Commission shall be subject to the approval of the Corporation, which shall not be unreasonably withheld. The Corporation shall approve an alternative administrative entity if such entityprovides for individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the duties described in paragraphs (1) through (4) of subsection (e).
+&emsp;Any designation of a State Commission or use of an alternative administrative entity to carry out the duties of a State Commission shall be subject to the approval of the Corporation, which shall not be unreasonably withheld. The Corporation shall approve an alternative administrative entity if such entity provides for individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the duties described in paragraphs (1) through (4) of subsection (e).
 
 #### (3) Rejection
 
@@ -306,7 +306,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 &emsp;&emsp;(B) to affect any other right or remedy against the State under applicable law, or against any person other than a member of the State Commission or alternative administrative entity; or
 
-&emsp;&emsp;(C) to limit or alter in any way the immunities that are available under applicablelaw for State officials and employees not described in this subsection.
+&emsp;&emsp;(C) to limit or alter in any way the immunities that are available under applicable law for State officials and employees not described in this subsection.
 
 (Pub. L. 101–610, title I, §178, as added and amended Pub. L. 103–82, title II, §201(a), title IV, §405(p)(1), Sept. 21, 1993, 107 Stat. 867, 922; Pub. L. 111–13, title I, §1606, Apr. 21, 2009, 123 Stat. 1530.)
 

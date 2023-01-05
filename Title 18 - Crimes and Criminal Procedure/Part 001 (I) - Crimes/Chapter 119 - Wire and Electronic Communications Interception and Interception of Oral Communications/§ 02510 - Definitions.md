@@ -128,7 +128,7 @@ Par. (12). Pub. L. 103–414, §202(a)(2), redesignated subpars. (B) to (D) as (
 
 Par. (16)(F). Pub. L. 103–414, §203, added subpar. (F).
 
-<b>1986</b>—Par. (1). Pub. L. 99–508, §101(a)(1), substituted "any aural transfer" for "any communication", inserted "(including the use of such connection in a switching station)" after "reception", struck out "as a common carrier" after "person engaged", and inserted "or communications affecting interstate or foreign commerce and such term includes any electronic storage of such communication, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit" before the semicolon at end.
+<b>1986</b>—Par. (1). Pub. L. 99–508, §101(a)(1), substituted "any aural transfer" for "any communication", inserted "(including the use of such connection in a switching station)" after "reception", struck out "as a common carrier" after "person engaged", and inserted"or communications affecting interstate or foreign commerce and such term includes any electronic storage of such communication, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit" before the semicolon at end.
 
 Par. (2). Pub. L. 99–508, §101(a)(2), inserted ", but such term does not include any electronic communication" before the semicolon at end.
 
@@ -204,7 +204,7 @@ Pub. L. 90–351, title III, §801, June 19, 1968, 82 Stat. 211, provided that: 
 
 "(c) Organized criminals make extensive use of wire and oral communications in their criminal activities. The interception of such communications to obtain evidence of the commission of crimes or to prevent their commission is an indispensable aid to law enforcement and the administration of justice.
 
-"(d) To safeguard the privacy of innocent persons, the interception of wire or oral communications where none of the parties to the communication has consented to the interception should be allowed only when authorized by a court of competent jurisdiction and should remain under the control and supervision of the authorizing court. Interception of wire and oral communications should further be limited to certain major types of offenses and specific categories of crime with assurances that the interception is justified and that the information obtained thereby will not be misused."
+"(d) To safeguard the privacy of innocent persons, the interception of wire or oral communications where none of the parties to the communication has consented to the interception should be allowed only when authorized by a court of competent jurisdiction andshould remain under the control and supervision of the authorizing court. Interception of wire and oral communications should further be limited to certain major types of offenses and specific categories of crime with assurances that the interception is justified and that the information obtained thereby will not be misused."
 
 #### National Commission for the Review of Federal and State Laws Relating to Wiretapping and Electronic Surveillance
 

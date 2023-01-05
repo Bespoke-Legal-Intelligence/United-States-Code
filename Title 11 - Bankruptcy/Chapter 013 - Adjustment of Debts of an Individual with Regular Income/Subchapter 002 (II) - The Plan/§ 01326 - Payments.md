@@ -6,7 +6,7 @@
 
 &emsp;(B) scheduled in a lease of personal property directly to the lessor for that portion of the obligation that becomes due after the order for relief, reducing the payments under subparagraph (A) by the amount so paid and providing the trustee with evidence of such payment, including the amount and date of payment; and
 
-&emsp;(C) that provides adequate protection directly to a creditor holding an allowed claim secured by personal property to the extent the claim is attributable to the purchase of such property by the debtor for that portion of the obligation that becomes due after the orderfor relief, reducing the payments under subparagraph (A) by the amount so paid and providing the trustee with evidence of such payment, including the amount and date of payment.
+&emsp;(C) that provides adequate protection directly to a creditor holding an allowed claim secured by personal property to the extent the claim is attributable to the purchase of suchproperty by the debtor for that portion of the obligation that becomes due after the order for relief, reducing the payments under subparagraph (A) by the amount so paid and providing the trustee with evidence of such payment, including the amount and date of payment.
 
 (2) A payment made under paragraph (1)(A) shall be retained by the trustee until confirmation or denial of confirmation. If a plan is confirmed, the trustee shall distribute any such payment in accordance with the plan as soon as is practicable. If a plan is not confirmed, the trustee shall return any such payments not previously paid and not yet due and owing to creditors pursuant to paragraph (3) to the debtor, after deducting any unpaid claim allowed under section 503(b).
 
@@ -88,7 +88,7 @@ Subsec. (c). Pub. L. 98–353, §318(a)(1), redesignated former subsec. (b) as (
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -110,7 +110,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(3), dollar amount "25" was adjusted to "25". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (b)(3), dollar amount "25" was adjusted to "25". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(3), dollar amount "25" was adjusted to "25".
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(3), dollar amount "25" was adjusted to "25".
 

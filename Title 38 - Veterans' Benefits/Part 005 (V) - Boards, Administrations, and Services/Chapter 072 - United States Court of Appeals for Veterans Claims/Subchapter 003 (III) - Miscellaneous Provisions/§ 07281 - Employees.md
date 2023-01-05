@@ -64,7 +64,7 @@ Pub. L. 101–94, title II, §204(c), Aug. 16, 1989, 103 Stat. 627, provided tha
 
 #### Limitation on Conversion of Employees to Competitive Service
 
-Pub. L. 101–94, title II, §204(b), Aug. 16, 1989, 103 Stat. 627, as amended by Pub. L. 105–368, title V, §512(c), Nov. 11, 1998, 112 Stat. 3342, provided that: "Notwithstanding clause (1)(A) of the proviso under the heading 'Court of Veterans Appeals' in chapter XI of \[title I of\] Public Law 101–45 \[formerly set out below\], no employee of the United States Court of Appeals for Veterans Claimsmay be converted to the competitive service without the approval of the Court."
+Pub. L. 101–94, title II, §204(b), Aug. 16, 1989, 103 Stat. 627, as amended by Pub. L. 105–368, title V, §512(c), Nov. 11, 1998, 112 Stat. 3342, provided that: "Notwithstanding clause (1)(A) of the proviso under the heading 'Court of Veterans Appeals' in chapter XI of \[title I of\] Public Law 101–45 \[formerly set out below\], no employee of the United States Court of Appeals for Veterans Claims may be converted to the competitive service without the approval of the Court."
 
 #### Appointment of Employees Eligible for Noncompetitive Conversion to Position in Competitive Service; Procurement of Experts and Consultants
 

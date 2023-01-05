@@ -46,7 +46,7 @@
 
 (2) Paragraph (1) of this subsection does not apply to benefits under chapters 19 and 37 of this title.
 
-(d)(1) Notwithstanding any other provision of law and except as provided in paragraph (3) of this subsection, a person described in paragraph (2) of this subsection who is discharged or released from a period of active duty before completing the shorter of—
+(d)(1) Notwithstanding any other provision of law and except as provided in paragraph (3) of this subsection, a person described in paragraph\(2) of this subsection who is discharged or released from a period of active duty before completing the shorter of—
 
 &emsp;(A) 24 months of continuous active duty, or
 
@@ -76,7 +76,7 @@
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(3)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Section 229(a) of the Act was redesignated section 229 by Pub. L. 108–203, title IV, §420(b)(1)(A), Mar. 2, 2004, 118 Stat. 535. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(3)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Section 229(a) of the Act was redesignated section 229 by Pub. L. 108–203, title IV, §420(b)(1)(A), Mar. 2, 2004, 118 Stat. 535. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -94,7 +94,7 @@ Subsec. (b)(3)(G). Pub. L. 103–353 added subpar. (G).
 
 Subsec. (a). Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "administered by the Veterans' Administration".
 
-Subsec. (b)(1). Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "administered bythe Veterans' Administration" in concluding provisions.
+Subsec. (b)(1). Pub. L. 102–83, §4(a)(1), substituted "administered by the Secretary" for "administered by the Veterans' Administration" in concluding provisions.
 
 Subsec. (b)(3)(C). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator".
 

@@ -36,7 +36,7 @@ Not later than 30 days after the date of the filing of an appeal to the Secretar
 
 #### (1) In general
 
-&emsp;Not later than 60 days after the date of publication of a Federal Register notice stating when the decision record for an appeal has been closed, the Secretary shall issue a decision or publish a notice in the Federal Register explaining why a decision cannot be issued at that time.
+&emsp;Not later than 60 days after the date of publication of a Federal Register notice statingwhen the decision record for an appeal has been closed, the Secretary shall issue a decision or publish a notice in the Federal Register explaining why a decision cannot be issued at that time.
 
 #### (2) Subsequent decision
 

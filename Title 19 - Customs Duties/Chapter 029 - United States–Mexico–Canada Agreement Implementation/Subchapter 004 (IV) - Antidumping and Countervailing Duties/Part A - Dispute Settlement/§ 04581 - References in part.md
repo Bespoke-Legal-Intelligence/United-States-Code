@@ -32,7 +32,7 @@ In general.—Each transfer, redesignation, and amendment made by this section \
 
 Transition from nafta.—The transfers, redesignations, and amendments made by this section shall not apply, and the provisions of title IV of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3431 et seq.\], as in effect on the day before the date on which the USMCA enters into force, shall continue to apply on and after that date with respect—
 
-&emsp;"(A) to any final determination described in paragraph (1)(B) or clause (i), (ii), or (iii) of paragraph (2)(B) of section 516A(a) of the Tariff Act of 1930 (19 U.S.C. 1516a(a)) notice of which is published in the Federal Register before such date, or to a determination described in paragraph (2)(B)(vi) of that section notice of which is received by the Government ofCanada or Mexico before the date on which the USMCA enters into force; and
+&emsp;"(A) to any final determination described in paragraph (1)(B) or clause (i), (ii), or (iii) of paragraph (2)(B) of section 516A(a) of the Tariff Act of 1930 (19 U.S.C. 1516a(a)) notice of which is published in the Federal Register before such date, or to a determination described in paragraph (2)(B)(vi) of that section notice of which is received by the Government of Canada or Mexico before the date on which the USMCA enters into force; and
 
 &emsp;"(B) to any binational panel review under NAFTA, or any extraordinary challenge arising out of any such review, that was commenced before the date on which the USMCA enters into force."
 

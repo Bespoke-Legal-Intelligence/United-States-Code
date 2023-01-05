@@ -6,7 +6,7 @@
 
 (2)(A) A civil penalty for a violation of section section 2614 or 2689 of this title shall be assessed by the Administrator by an order made on the record after opportunity (provided in accordance with this subparagraph) for a hearing in accordance with section 554 of title 5. Before issuing such an order, the Administrator shall give written notice to the person to be assessed a civil penalty under such order of the Administrator's proposal to issue such order and provide such person an opportunity to request, within 15 days of the date the notice is received by such person, such a hearing on the order.
 
-(B) In determining the amount of a civil penalty, the Administrator shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, ability to pay, effect on ability to continue to do business, any history of prior such violations, the degree of culpability, and such other matters as justice may require.
+(B) In determining the amount of a civil penalty, the Administrator shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, ability to pay, effect on abilityto continue to do business, any history of prior such violations, the degree of culpability, and such other matters as justice may require.
 
 (C) The Administrator may compromise, modify, or remit, with or without conditions, any civil penalty which may be imposed under this subsection. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the person charged.
 

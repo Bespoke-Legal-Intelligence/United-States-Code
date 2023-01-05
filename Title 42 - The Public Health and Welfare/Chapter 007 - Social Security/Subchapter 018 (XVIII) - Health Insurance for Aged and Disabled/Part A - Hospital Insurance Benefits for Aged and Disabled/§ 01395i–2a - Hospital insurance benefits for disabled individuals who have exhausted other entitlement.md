@@ -32,7 +32,7 @@ Every individual who—
 
 &emsp;(B) In the case of an individual who enrolls under subsection (b)(2) in the month in which the individual first satisfies subsection (a), the first day of the month following the month in which the individual so enrolls.
 
-&emsp;(C) In the case of an individual who enrolls under subsection (b)(2) in the month following the month in which the individual first satisfies subsection (a), the first day of the second month following the month in which the individual so enrolls.
+&emsp;(C) In the case of an individual who enrolls under subsection (b)(2) in the month followingthe month in which the individual first satisfies subsection (a), the first day of the second month following the month in which the individual so enrolls.
 
 &emsp;(D) In the case of an individual who enrolls under subsection (b)(2) more than one month following the month in which the individual first satisfies subsection (a), the first day of the third month following the month in which the individual so enrolls.
 
@@ -48,7 +48,7 @@ Every individual who—
 
 &emsp;(D) As of a date, determined under regulations of the Secretary, for nonpayment of premiums.
 
-> The regulations under subparagraph (D) may provide a grace period of not longer than 90 days, which may be extended to not to exceed 180 days in any case where the Secretary determines that there was good cause for failure to pay the overdue premiums within such 90-dayperiod. Termination of coverage under this section shall result in simultaneous termination of any coverage affected under any other part of this subchapter.
+> The regulations under subparagraph (D) may provide a grace period of not longer than 90 days, which may be extended to not to exceed 180 days in any case where the Secretary determines that there was good cause for failure to pay the overdue premiums within such 90-day period. Termination of coverage under this section shall result in simultaneous termination of any coverage affected under any other part of this subchapter.
 
 (3) The provisions of subsections (h), (i), and (m) of section 1395p of this title apply to enrollment and nonenrollment under this section in the same manner as they apply to enrollment and nonenrollment and special enrollment periods under section 1395i–2 of this title.
 

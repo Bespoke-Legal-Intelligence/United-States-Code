@@ -48,7 +48,7 @@ The certification required by this subsection is a certification by the Secretar
 
 #### (2) Prior notice of waiver
 
-&emsp;The Secretary of State, under the direction of the President, may not exercise the authority of paragraph (1) until 7 days after the Secretary of State provides to the appropriate congressional committees a written notice of the intent to issue to waiver <sup>1</sup> and the reasons therefor. The notice may be submitted in classified or unclassified form, as necessary.
+&emsp;The Secretary of State, under the direction of the President, may not exercise the authority of paragraph (1) until 7 days after the Secretary of State provides to the appropriate congressional committees a written notice of the intent to issue to waiver <sup>1</sup> and the reasonstherefor. The notice may be submitted in classified or unclassified form, as necessary.
 
 #### (f) Appropriate congressional committees defined
 

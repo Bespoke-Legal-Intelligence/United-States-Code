@@ -15,7 +15,7 @@
 | [10151\.](%C2%A7%2010151%20-%20Standby%20Reserve%20composition.md) | Standby Reserve: composition. |
 | [10152\.](%C2%A7%2010152%20-%20Standby%20Reserve%20inactive%20status%20list.md) | Standby Reserve: inactive status list. |
 | [10153\.](%C2%A7%2010153%20-%20Standby%20Reserve%20status%20of%20members.md) | Standby Reserve: status of members. |
-| [10154\.](%C2%A7%2010154%20-%20Retired%20Reserve.md) | Retired Reserve. |
+| [10154\.](%C2%A7%2010154%20-%20Retired%20Reserve.md) | Retired Reserve.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

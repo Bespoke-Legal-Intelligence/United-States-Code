@@ -58,7 +58,7 @@ For purposes of this part, any policyholder dividend which—
 
 #### (2) Year of change
 
-&emsp;For purposes of this subsection, the term "year of change" means the taxable year in which the change in business practices which results in the accelerated policyholder dividends deduction takes effect.
+&emsp;For purposes of this subsection, the term "year of change" means the taxable year inwhich the change in business practices which results in the accelerated policyholder dividends deduction takes effect.
 
 #### (3) Accelerated policyholder dividends deduction defined
 

@@ -20,7 +20,7 @@ In making grants under subsection (a), not later than 60 days after December 27,
 
 #### (1) In general
 
-&emsp;A State department of agriculture seeking a grant under subsection (a) shall submit to the Secretary a State plan to expand or sustain stress assistance programs described in that subsection that includes—
+&emsp;A State department of agriculture seeking a grant under subsection (a) shall submit to theSecretary a State plan to expand or sustain stress assistance programs described in that subsection that includes—
 
 &emsp;&emsp;(A) a description of each activity and the estimated amount of funding to support each program and activity carried out through such a program;
 

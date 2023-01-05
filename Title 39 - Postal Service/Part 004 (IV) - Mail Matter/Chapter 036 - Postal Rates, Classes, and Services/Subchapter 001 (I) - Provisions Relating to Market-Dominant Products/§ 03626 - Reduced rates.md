@@ -4,7 +4,7 @@
 
 (2) For the purpose of this subsection, the term "regular-rate category" means any class of mail or kind of mailer, other than a class or kind referred to in section 2401(c).
 
-(3) Rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title shall be established so that postage on each mailing of such mail reflects its preferred status as compared to the postage for the most closely corresponding regular-rate category mailing.
+(3) Rates of postage for a class of mail or kind of mailer under former section 4358(a) through\(c) of this title shall be established so that postage on each mailing of such mail reflects its preferred status as compared to the postage for the most closely corresponding regular-rate category mailing.
 
 (4)(A) Except as specified in subparagraph (B), rates of postage for a class of mail or kind of mailer under former section 4358 (d) or (e) of this title shall be established so that postage on each mailing of such mail shall be as nearly as practicable 5 percent lower than the postage for a corresponding regular-rate category mailing.
 
@@ -44,13 +44,13 @@
 
 &emsp;(C) the term "State committee" means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the State level.
 
-(f) In the administration of this chapter, the rates for mail under former section 4358(g) ofthis title shall be established without regard to either the provisions of such former section 4358(g) or the provisions of this section.
+(f) In the administration of this chapter, the rates for mail under former section 4358(g) of this title shall be established without regard to either the provisions of such former section 4358(g) or the provisions of this section.
 
 (g)(1) In the administration of this section, the rates for mail under subsections (a), (b), and (c) of former section 4358 of this title shall not apply to an issue of a publication if the number of copies of such issue distributed within the county of publication is less than the number equal to the sum of 50 percent of the total paid circulation of such issue plus one.
 
 (2) Paragraph (1) of this subsection shall not apply to an issue of a publication if the total paid circulation of such issue is less than 10,000 copies.
 
-(3) For purposes of this section and former section 4358(a) through (c) of this title, those copies of an issue of a publication entered within the county in which it is published, but distributed outside such county on postal carrier routes originating in the county of publication, shall be treated as if they were distributed within the county of publication.
+(3) For purposes of this section and former section 4358(a) through (c) of this title, those copies of an issue of a publication entered within thecounty in which it is published, but distributed outside such county on postal carrier routes originating in the county of publication, shall be treated as if they were distributed within the county of publication.
 
 (4)(A) In the case of an issue of a publication, any number of copies of which are mailed at the rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title, any copies of such issue which are distributed outside the county of publication (excluding any copies subject to paragraph (3)) shall be subject to rates of postage provided for under this paragraph.
 
@@ -58,7 +58,7 @@
 
 (C) This paragraph shall not apply with respect to an issue of a publication unless the total paid circulation of such issue outside the county of publication (not counting recipients of copies subject to paragraph (3)) is less than 5,000.
 
-(h) In the administration of this section, the number of copies of a subscription publication mailed to nonsubscribers during a calendar year at rates under subsections (a), (b), and (c) of former section 4358 of this title may not exceed 10 percent of the number of copies of such publication mailed at such rates to subscribers.
+(h) In the administration of this section, the number of copies of a subscription publication mailed to nonsubscribers during a calendar year at rates under subsections (a), (b), and (c) of former section 4358 of this title may not exceed 50 percent of the number of copies of such publication mailed at such rates to subscribers.
 
 \[(i) Repealed. Pub. L. 103–123, title VII, §704(a)(3)(A), Oct. 28, 1993, 107 Stat. 1269.\]
 
@@ -112,7 +112,7 @@
 
 (n) In the administration of this section, matter that satisfies the circulation standards for requester publications shall not be excluded from being mailed at the rates for mail under former section 4358 solely because such matter is designed primarily for free circulation or for circulation at nominal rates, or fails to meet the requirements of former section 4354(a)(5).
 
-(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, §2, Oct. 9, 1996, 110 Stat. 3169; Pub. L. 105–244, title I, §102(a)(12), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–384, §§1(b)–(e), 2(b), Oct. 27, 2000, 114 Stat. 1460–1462; Pub. L. 109–435, title X, §1003, Dec. 20, 2006, 120 Stat. 3255.)
+(Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 93–328, §1, June 30, 1974, 88 Stat. 287; Pub. L. 94–421, §11, Sept. 24, 1976, 90 Stat. 1311; Pub. L. 95–593, §11(c), Nov. 4, 1978, 92 Stat. 2538; Pub. L. 99–272, title XV, §§15102(b)(1), (c), 15104, 15105, Apr. 7, 1986, 100 Stat. 330, 331; Pub. L. 99–509, title VI, §6003(a), Oct. 21, 1986, 100 Stat. 1933; Pub. L. 101–509, title II, §§1(a), 3, Nov. 5, 1990, 104 Stat. 1397, 1399; Pub. L. 102–141, title II, Oct. 28, 1991, 105 Stat. 842, 843; Pub. L. 103–123, title VII, §§704(a)(1), (3)(A), 705(a)–(c), 708(e), Oct. 28, 1993, 107 Stat. 1267, 1269, 1271, 1273; Pub. L. 103–329, title VI, §639, Sept. 30, 1994, 108 Stat. 2432; Pub. L. 104–255, §2, Oct. 9, 1996, 110 Stat. 3169; Pub. L. 105–244, title I, §102(a)(12), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 106–384, §§1(b)–(e), 2(b), Oct. 27, 2000, 114 Stat. 1460–1462; Pub. L. 109–435, title X, §1003, Dec. 20, 2006, 120 Stat. 3255; Pub. L. 117–108, title II, §204, Apr. 6, 2022, 136 Stat. 1147.)
 
 #### <b>Editorial Notes</b>
 
@@ -127,6 +127,8 @@ Section 513 of the Internal Revenue Code of 1986, referred to in subsecs. (j)(1)
 The phrase "shall take effect immediately and shall stay in effect hereafter", referred to in subsec. (j)(1)(D)(III), probably means that the provision shall take effect Sept. 30, 1994, the date of enactment of Pub. L. 103–329, which enacted subsec. (j)(1)(D)(III), and shall stay in effect after that date.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–108 substituted "50 percent" for "10 percent".
 
 <b>2006</b>—Subsec. (a)(1) to (3). Pub. L. 109–435, §1003(1), added pars. (1) to (3) and struck out former pars. (1) to (3). Prior to amendment, par. (1) required rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title to be established in accordance with the applicable provisions of this chapter, par. (2) defined "costs attributable", "regular-rate category", and "institutional-costs contribution", and par. (3) required rates of postage for a class of mail or kind of mailer under former section 4358 of this title to be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer were equal to certain calculated amounts.
 
@@ -218,7 +220,7 @@ Pub. L. 103–123, title VII, §705(d), Oct. 28, 1993, 107 Stat. 1272, provided 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 1(a) of Pub. L. 101–509 effective 90 days after Nov. 5, 1990, see section 1(c) of Pub.L. 101–509, set out as a note under section 2401 of this title.
+Amendment by section 1(a) of Pub. L. 101–509 effective 90 days after Nov. 5, 1990, see section 1(c) of Pub. L. 101–509, set out as a note under section 2401 of this title.
 
 #### Effective Date of 1986 Amendments
 

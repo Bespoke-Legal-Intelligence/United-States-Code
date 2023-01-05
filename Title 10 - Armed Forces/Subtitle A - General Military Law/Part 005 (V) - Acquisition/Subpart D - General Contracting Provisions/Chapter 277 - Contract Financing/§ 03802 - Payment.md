@@ -12,7 +12,7 @@ Preference for Performance-Based Payments.—Whenever practicable, payments unde
 
 (b)
 
-Basis for performance-based payments.—Performance-based payments shall not be conditioned upon costs incurred in contract performance but on the achievement of performance outcomes listed in subsection (a).
+Basis for performance-based payments.—Performance-based payments shall notbe conditioned upon costs incurred in contract performance but on the achievement of performance outcomes listed in subsection (a).
 
 (c)
 
@@ -56,7 +56,7 @@ Subsec. (e). Pub. L. 116–283, §1834(c)(2)(C), (7), after redesignation of sec
 
 #### Effective Date
 
-Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an EffectiveDate of 2021 Amendment note preceding section 3001 of this title.
+Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
 #### Regulations
 

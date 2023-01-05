@@ -34,7 +34,7 @@ Section 1603(f) of this title, referred to in subsec. (f), was redesignated sect
 
 #### Codification
 
-"Sections 3131 and 3133 of title 40" substituted in subsec. (a) for "the Act of August 24, 1935 (40 U.S.C. 270a,et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Sections 3131 and 3133 of title 40" substituted in subsec. (a) for "the Act of August 24, 1935 (40 U.S.C. 270a, et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 

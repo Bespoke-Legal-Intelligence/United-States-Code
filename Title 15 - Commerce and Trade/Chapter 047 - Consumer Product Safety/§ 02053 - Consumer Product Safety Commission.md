@@ -20,7 +20,7 @@ No vacancy in the Commission shall impair the right of the remaining Commissione
 
 #### (e) Offices
 
-The Commission shall maintain a principal office and such field offices as it deems necessaryand may meet and exercise any of its powers at any other place.
+The Commission shall maintain a principal office and such field offices as it deems necessary and may meet and exercise any of its powers at any other place.
 
 #### (f) Functions of Chairman; request for appropriations
 

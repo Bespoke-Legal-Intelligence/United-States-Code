@@ -48,7 +48,7 @@ If the directors of any national banking association shall knowingly violate, or
 
 #### (4) Maximum amounts of penalties for any violation described in paragraph (3)
 
-&emsp;The maximum daily amount of any civil penalty which may be assessed pursuant toparagraph (3) for any violation, practice, or breach described in such paragraph is—
+&emsp;The maximum daily amount of any civil penalty which may be assessed pursuant to paragraph (3) for any violation, practice, or breach described in such paragraph is—
 
 &emsp;&emsp;(A) in the case of any person other than a national banking association, an amount to not <sup>3</sup> exceed $1,000,000; and
 

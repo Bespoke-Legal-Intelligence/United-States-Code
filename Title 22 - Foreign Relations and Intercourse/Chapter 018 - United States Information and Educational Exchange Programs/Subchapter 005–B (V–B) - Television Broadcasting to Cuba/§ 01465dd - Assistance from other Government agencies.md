@@ -6,7 +6,7 @@ In order to assist the Broadcasting Board of Governors in carrying out the provi
 
 #### Repeal of Section
 
-<i>Section repealed upon transmittal of determination by President under section 6063(c)(3)</i><i>of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
+<i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -22,7 +22,7 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 

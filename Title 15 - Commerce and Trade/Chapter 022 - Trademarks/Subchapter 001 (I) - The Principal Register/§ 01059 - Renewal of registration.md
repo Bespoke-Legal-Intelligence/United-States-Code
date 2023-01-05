@@ -22,7 +22,7 @@ Act Feb. 20, 1905, ch. 592, §12, 33 Stat. 727.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–273 amended subsec. (c) generally. Prior to amendment, text read as follows: "If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. Ifthe person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director."
+<b>2002</b>—Subsec. (c). Pub. L. 107–273 amended subsec. (c) generally. Prior to amendment, text read as follows: "If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director."
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted "Director" for "Commissioner".
 

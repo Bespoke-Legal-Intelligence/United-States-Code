@@ -7,13 +7,15 @@ Subpart B—Other Credits
 | \[30, 30A. | Repealed.\] |
 | [30B.](%C2%A7%2000030B%20-%20Alternative%20motor%20vehicle%20credit.md) | Alternative motor vehicle credit. |
 | [30C.](%C2%A7%2000030C%20-%20Alternative%20fuel%20vehicle%20refueling%20property%20credit.md) | Alternative fuel vehicle refueling property credit. |
-| [30D.](%C2%A7%2000030D%20-%20New%20qualified%20plug-in%20electric%20drive%20motor%20vehicles.md) | New qualified plug-in electric drive motor vehicles. |
+| [30D.](%C2%A7%2000030D%20-%20Clean%20vehicle%20credit.md) | Clean vehicle credit. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–169, title I, §13401(i)(6), Aug. 16, 2022, 136 Stat. 1961, added item 30D and struck out former item 30D "New qualified plug-in electric drive motor vehicles".
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(i), Mar. 23, 2018, 132 Stat. 1206, substituted "Taxes of foreign countries and possessions of the United States" for "Taxes of foreign countries and possessions of the United States; possession tax credit" in item 27.
 
@@ -51,4 +53,4 @@ Pub. L. 109–58, title XIII, §§1322(a)(3)(K), 1341(b)(5), 1342(b)(5), Aug. 8,
 - [&sect; 00030A - Repealed. Pub. L. 115&#8211;141, div. U, title IV, &sect;401(d)(1)(B), Mar. 23, 2018, 132 Stat. 1206](%C2%A7%2000030A%20-%20Repealed.%20Pub.%20L.%20115%E2%80%93141%2C%20div.%20U%2C%20title%20IV%2C%20%C2%A7401%28d%29%281%29%28B%29%2C%20Mar.%2023%2C%202018%2C%20132%20Stat.%201206.md)
 - [&sect; 00030B - Alternative motor vehicle credit](%C2%A7%2000030B%20-%20Alternative%20motor%20vehicle%20credit.md)
 - [&sect; 00030C - Alternative fuel vehicle refueling property credit](%C2%A7%2000030C%20-%20Alternative%20fuel%20vehicle%20refueling%20property%20credit.md)
-- [&sect; 00030D - New qualified plug-in electric drive motor vehicles](%C2%A7%2000030D%20-%20New%20qualified%20plug-in%20electric%20drive%20motor%20vehicles.md)
+- [&sect; 00030D - Clean vehicle credit](%C2%A7%2000030D%20-%20Clean%20vehicle%20credit.md)

@@ -14,7 +14,7 @@ Pub. L. 113–66, div. C, title XXXI, §3146(e)(16)(B), Dec. 26, 2013, 127 Stat.
 - [&sect; 02581 - Defense Environmental Cleanup Account](%C2%A7%2002581%20-%20Defense%20Environmental%20Cleanup%20Account.md)
 - [&sect; 02582 - Requirement to develop future use plans for defense environmental cleanup](%C2%A7%2002582%20-%20Requirement%20to%20develop%20future%20use%20plans%20for%20defense%20environmental%20cleanup.md)
 - [&sect; 02582a - Future-years defense environmental cleanup plan](%C2%A7%2002582a%20-%20Future-years%20defense%20environmental%20cleanup%20plan.md)
-- [&sect; 02583 - Integrated fissile materials management plan](%C2%A7%2002583%20-%20Integrated%20fissile%20materials%20management%20plan.md)
+- [&sect; 02583 - Repealed. Pub. L. 117&#8211;263, div. C, title XXXI, &sect;3132(a)(1)(B)(i), Dec. 23, 2022, 136 Stat. 3060](%C2%A7%2002583%20-%20Repealed.%20Pub.%20L.%20117%E2%80%93263%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73132%28a%29%281%29%28B%29%28i%29%2C%20Dec.%2023%2C%202022%2C%20136%20Stat.%203060.md)
 - [&sect; 02584 - Repealed. Pub. L. 113&#8211;66, div. C, title XXXI, &sect;3146(e)(5), Dec. 26, 2013, 127 Stat. 1076](%C2%A7%2002584%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9366%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73146%28e%29%285%29%2C%20Dec.%2026%2C%202013%2C%20127%20Stat.%201076.md)
 - [&sect; 02585 - Accelerated schedule for defense environmental cleanup activities](%C2%A7%2002585%20-%20Accelerated%20schedule%20for%20defense%20environmental%20cleanup%20activities.md)
 - [&sect; 02586 - Defense environmental cleanup technology program](%C2%A7%2002586%20-%20Defense%20environmental%20cleanup%20technology%20program.md)

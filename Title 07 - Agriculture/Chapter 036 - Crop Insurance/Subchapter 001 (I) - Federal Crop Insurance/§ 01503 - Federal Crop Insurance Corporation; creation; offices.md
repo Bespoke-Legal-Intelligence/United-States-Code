@@ -30,7 +30,7 @@ Amendment by Pub. L. 103–354 effective Oct. 13, 1994, and applicable to provis
 
 #### Transfer of Functions
 
-Under authority of Ex. Ord. No. 9577, June 29, 1945, Secretary of Agriculture consolidated administration of program of Federal Crop Insurance Corporation in Production and Marketing Administration by Memorandum 1118, Aug. 18, 1945. 1946 Reorg. Plan No. 3, §501,eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees, transferred administration of program of Federal Crop Insurance Corporation to Secretary of Agriculture. In his letter to Congress President stated that purpose of this transfer was to permit Secretary of Agriculture to continue consolidation already effected in Production and Marketing Administration.
+Under authority of Ex. Ord. No. 9577, June 29, 1945, Secretary of Agriculture consolidated administration of program of Federal Crop Insurance Corporation in Production and Marketing Administration by Memorandum 1118, Aug. 18, 1945. 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees, transferred administration of program of Federal Crop Insurance Corporation to Secretary of Agriculture. In his letter to Congress President stated that purpose of this transfer was to permit Secretary of Agriculture to continue consolidation already effected in Production and Marketing Administration.
 
 Federal Crop Insurance Corporation consolidated with other agencies into Agricultural Conservation and Adjustment Administration for duration of war, see Ex. Ord. No. 9069.
 

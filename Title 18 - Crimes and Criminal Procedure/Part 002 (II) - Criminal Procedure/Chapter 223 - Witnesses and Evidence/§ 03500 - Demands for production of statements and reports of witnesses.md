@@ -26,5 +26,5 @@
 
 Subsec. (d). Pub. L. 91–452, §102(b), substituted "subsection" for "paragraph".
 
-Subsec. (e). Pub. L. 91–452, §102(c), (d), struck out "or" after "by him;" in par. (1), struck out "to an agent of the Government" after "said witness" in par. (2), and added par. (3).
+Subsec. (e). Pub. L. 91–452, §102(c), (d), struck out "or" after "by him;" in par. (1), struck out "to anagent of the Government" after "said witness" in par. (2), and added par. (3).
 

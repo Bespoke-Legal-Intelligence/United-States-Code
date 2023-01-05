@@ -26,5 +26,5 @@ Section 1811, Pub. L. 98–373, title II, §212, July 31, 1984, 98 Stat. 1254, d
 
 #### Short Title
 
-Pub. L. 98–373, title II, §201, July 31, 1984, 98 Stat. 1248, provided that title II of Pub. L. 98–373 (enacting thischapter) could be cited as the "National Critical Materials Act of 1984", prior to repeal by Pub. L. 116–260, div. Z, title VII, §7002(n)(1), Dec. 27, 2020, 134 Stat. 2576.
+Pub. L. 98–373, title II, §201, July 31, 1984, 98 Stat. 1248, provided that title II of Pub. L. 98–373 (enacting this chapter) could be cited as the "National Critical Materials Act of 1984", prior to repeal by Pub. L. 116–260, div. Z, title VII, §7002(n)(1), Dec. 27, 2020, 134 Stat. 2576.
 

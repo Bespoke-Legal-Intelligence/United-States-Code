@@ -4,11 +4,11 @@
 
 In addition to providing insurance as otherwise authorized under this chapter, and notwithstanding any other provision of this chapter inconsistent with this section, the Secretary, upon request of any mortgagee and for such mortgage insurance premium as he may prescribe (which premium, or other charges to be paid by the mortgagor, shall not exceed the premium, or other charges, that would otherwise be applicable), may insure and make a commitment to insure under any provision of this subchapter any mortgage, advance, or loan otherwise eligible under such provision, pursuant to a co-insurance contract providing that the mortgagee will—
 
-&emsp;(1) assume a percentage of any loss on the insured mortgage, advance, or loan in direct proportion to the amount of the co-insurance,which co-insurance shall not be less than 10 per centum, subject to any reasonable limit or limits on the liability of the mortgagee that may be specified in the event of unusual or catastrophic losses that may be incurred by any one mortgagee; and
+&emsp;(1) assume a percentage of any loss on the insured mortgage, advance, or loan in direct proportion to the amount of the co-insurance, which co-insurance shall not be less than 10 per centum, subject to any reasonable limit or limits on the liability of the mortgagee that may be specified in the event of unusual or catastrophic losses that may be incurred by any one mortgagee; and
 
 &emsp;(2) carry out (under a delegation or otherwise and with or without compensation but subject to audit, exception, or review requirements) such credit approval, appraisal, inspection, commitment, property disposition, or other functions as the Secretary, pursuant to regulations, shall approve as consistent with the purposes of this chapter.
 
-> Any contract of co-insurance under this section shall contain such provisions relating to the sharing of premiums on a sound actuarial basis, establishment of mortgage reserves, manner of calculating insurance benefits, conditions with respect to foreclosure, handling and disposition of property prior to claim or settlement, rights of assignees (which may elect not to be subject to the loss sharing provisions), and other similar matters as the Secretary may prescribe pursuant to regulations. A mortgagee which enters into a contract of co-insurance under this section shall not by reason of such contract, or its adherence to such contract or applicable regulations of the Secretary, including provisions relating to the retention of risks in the event of sale or assignment of a mortgage, be made subject to any State law regulating the business of insurance.
+> Any contract of co-insurance under this section shall contain such provisions relating to the sharing of premiums on a sound actuarial basis,establishment of mortgage reserves, manner of calculating insurance benefits, conditions with respect to foreclosure, handling and disposition of property prior to claim or settlement, rights of assignees (which may elect not to be subject to the loss sharing provisions), and other similar matters as the Secretary may prescribe pursuant to regulations. A mortgagee which enters into a contract of co-insurance under this section shall not by reason of such contract, or its adherence to such contract or applicable regulations of the Secretary, including provisions relating to the retention of risks in the event of sale or assignment of a mortgage, be made subject to any State law regulating the business of insurance.
 
 #### (b) Inspection of construction of dwellings or projects as prerequisite; minimum standards or criteria applicable
 
@@ -42,7 +42,7 @@ Notwithstanding any other provision of this section, in the case of a mortgage i
 
 &emsp;(1) insurance benefits shall equal the sum of (A) 90 per centum of the mortgage on the date of institution of foreclosure proceedings (or on the date of acquisition of the property otherwise after default), and (B) 90 per centum of interest arrears on the date benefits are paid;
 
-&emsp;(2) the mortgagee shall remit to the Secretary, for credit to the General InsuranceFund, 90 per centum of any proceeds of the property, including sale proceeds, net of the mortgagee's actual and reasonable costs related to the property and the enforcement of security;
+&emsp;(2) the mortgagee shall remit to the Secretary, for credit to the General Insurance Fund, 90 per centum of any proceeds of the property, including sale proceeds, net of the mortgagee's actual and reasonable costs related to the property and the enforcement of security;
 
 &emsp;(3) payment of such benefits shall be made in cash unless the mortgagee submits a written request for debenture payment; and
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of this section, in the case of a mortgage i
 
 #### (i) <sup>2</sup> Authority of mortgagee to assign its interest in any note or mortgage subject to a contract of co-insurance; terms and conditions respecting retention of co-insurance risk of such note or mortgage
 
-Any mortgagee which enters into a contract of co-insurance under this section shall have the authority to assign its interest in any note or mortgage subject to a contract of co-insurance to a warehouse bank or other financial institution which provides interim funding for a loan co-insured under this section, and to retain the co-insurance risk of such note or mortgage, upon such terms and conditions as the Secretary shall prescribe.
+Any mortgagee which enters into a contract of co-insurance under this section shall have the authority to assign its interest in any note ormortgage subject to a contract of co-insurance to a warehouse bank or other financial institution which provides interim funding for a loan co-insured under this section, and to retain the co-insurance risk of such note or mortgage, upon such terms and conditions as the Secretary shall prescribe.
 
 #### (i) <sup>2</sup> Annual review of, and assessment of compliance with, requirements; report; adjustment of requirements
 
@@ -62,7 +62,7 @@ The Secretary shall, by January 15 and July 15 of each year (1) review the adequ
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (e), and (f)(5), was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsecs. (a), (e), and (f)(5), was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
 Section 1437o of title 42, referred to in subsec. (h), was repealed by Pub. L. 101–625, title II, §289(b), Nov. 28, 1990, 104 Stat. 4128.
 

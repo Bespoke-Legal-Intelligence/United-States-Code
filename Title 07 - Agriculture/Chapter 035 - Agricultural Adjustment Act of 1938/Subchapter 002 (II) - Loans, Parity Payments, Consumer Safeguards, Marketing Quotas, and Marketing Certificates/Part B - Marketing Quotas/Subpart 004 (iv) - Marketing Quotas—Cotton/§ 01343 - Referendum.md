@@ -12,7 +12,7 @@ Provision that if marketing quotas were proclaimed for the 1950 crop, farmers el
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–157 amended last sentence generally, substituting "August 1, 1986, may be conducted notlater than thirty-one days after adjournment sine die of the first session of the Ninety-ninth Congress" for "August 1, 1982, may be conducted not later than the earlier of the following: (1) thirty days after adjournment sine die of the first session of the Ninety-seventh Congress, or (2) January 1, 1982".
+<b>1985</b>—Pub. L. 99–157 amended last sentence generally, substituting "August 1, 1986, may be conducted not later than thirty-one days after adjournment sine die of the first session of the Ninety-ninth Congress" for "August 1, 1982, may be conducted not later than the earlier of the following: (1) thirty days after adjournment sine die of the first session of the Ninety-seventh Congress, or (2) January 1, 1982".
 
 <b>1981</b>—Pub. L. 97–77 inserted provision that the referendum with respect to the national marketing quota for cotton for the marketing year beginning Aug. 1, 1982, be conducted not later than the earlier of the following: (1) thirty days after adjournment sine die of the first session of the Ninety-seventh Congress, or (2) Jan. 1, 1982.
 

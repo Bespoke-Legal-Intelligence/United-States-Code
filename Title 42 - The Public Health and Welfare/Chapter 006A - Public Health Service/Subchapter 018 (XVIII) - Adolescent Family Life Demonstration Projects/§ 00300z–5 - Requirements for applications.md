@@ -90,7 +90,7 @@ An application for a grant for a demonstration project for services under this s
 
 #### (b) Evaluations: amount, conduct, and technical assistance
 
-(1) Each grantee which receives funds for a demonstration project for services under this subchapter shall expend at least 1 per centum but not in excess of 5 per centum of the amounts received under this subchapter for the conduct of evaluations of the services supported under this subchapter. The Secretary may, for a particular grantee upon good cause shown, waive the provisions of the preceding sentence with respect to the amounts to be expended on evaluations, but may not waive the requirement that such evaluations be conducted.
+(1) Each grantee which receives funds for a demonstration project for services under thissubchapter shall expend at least 1 per centum but not in excess of 5 per centum of the amounts received under this subchapter for the conduct of evaluations of the services supported under this subchapter. The Secretary may, for a particular grantee upon good cause shown, waive the provisions of the preceding sentence with respect to the amounts to be expended on evaluations, but may not waive the requirement that such evaluations be conducted.
 
 (2) Evaluations required by paragraph (1) shall be conducted by an organization or entity which is independent of the grantee providing services supported under this subchapter. To assist in conducting the evaluations required by paragraph (1), each grantee shall develop a working relationship with a college or university located in the grantee's State which will provide or assist in providing monitoring and evaluation of services supported under this subchapter unless no college or university in the grantee's State is willing or has the capacity to provide or assist in providing such monitoring and assistance.
 
@@ -120,5 +120,5 @@ No application submitted for a grant for a demonstration project for care servic
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(13) to (15), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV of the Social Security Act are classified generally to part B (§620 et seq.) and part E (§670 et seq.) of subchapter IV of chapter 7 of this title. Titles V, XIX, and XX of the Social Security Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (a)(13) to (15), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Social Security Act are classified generally to part B (§620 et seq.) and part E (§670 et seq.) of subchapter IV of chapter 7 of this title. Titles V, XIX, and XX of the Social Security Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

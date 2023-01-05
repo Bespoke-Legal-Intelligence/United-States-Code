@@ -16,7 +16,7 @@ Not later than 1 year after June 10, 2014, the Secretary, after providing notice
 
 &emsp;&emsp;(A) establish benchmark goals for determining the amount of time it should take the Secretary to determine whether a section 14 application is complete;
 
-&emsp;&emsp;(B) establish benchmark goals for determining the amount of time it should take the Secretary to approve or disapprove a section 14 application; and
+&emsp;&emsp;(B) establish benchmark goals for determining the amount of time it should takethe Secretary to approve or disapprove a section 14 application; and
 
 &emsp;&emsp;(C) to the extent practicable, use such benchmark goals to make a decision on section 14 applications in a timely and consistent manner.
 

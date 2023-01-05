@@ -1,6 +1,6 @@
 ### §2834. Participation in Department of State housing pools
 
-(a) The Secretary concerned may enter into an agreement with the Secretary of State under which the Secretary of State agrees to provide housing and related services for personnel under the jurisdiction of the Secretary concerned whoare assigned to duty in a foreign country if the Secretary concerned determines—
+(a) The Secretary concerned may enter into an agreement with the Secretary of State under which the Secretary of State agrees to provide housing and related services for personnel under the jurisdiction of the Secretary concerned who are assigned to duty in a foreign country if the Secretary concerned determines—
 
 &emsp;(1) that there is a shortage of adequate housing in the area of the foreign country in which such personnel are assigned to duty; and
 

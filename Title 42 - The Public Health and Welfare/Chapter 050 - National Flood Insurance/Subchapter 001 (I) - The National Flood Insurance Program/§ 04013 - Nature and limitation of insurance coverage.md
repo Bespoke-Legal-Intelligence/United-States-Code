@@ -50,7 +50,7 @@ In addition to any other terms and conditions under subsection (a), such regulat
 
 #### (1) Waiting period
 
-&emsp;Except as provided in paragraph (2), coverage under a new contract for flood insurancecoverage under this chapter entered into after September 23, 1994, and any modification to coverage under an existing flood insurance contract made after September 23, 1994, shall become effective upon the expiration of the 30-day period beginning on the date that all obligations for such coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed.
+&emsp;Except as provided in paragraph (2), coverage under a new contract for flood insurance coverage under this chapter entered into after September 23, 1994, and any modification to coverage under an existing flood insurance contract made after September 23, 1994, shall become effective upon the expiration of the 30-day period beginning on the date that all obligations for such coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed.
 
 #### (2) Exception
 

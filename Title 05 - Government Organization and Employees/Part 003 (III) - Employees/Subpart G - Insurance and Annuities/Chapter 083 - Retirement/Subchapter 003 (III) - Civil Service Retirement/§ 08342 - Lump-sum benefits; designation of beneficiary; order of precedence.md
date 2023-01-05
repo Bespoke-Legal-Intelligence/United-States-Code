@@ -82,7 +82,7 @@
 
 (3) The Office shall prescribe regulations under which this subsection shall be applied in any case in which the Office receives two or more such orders or decrees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 579; Pub. L. 90–83, §1(81), Sept. 11, 1967, 81 Stat. 217; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 97–253, title III, §303(c), Sept. 8, 1982, 96 Stat. 794; Pub. L. 97–346, §3(f), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–615, §2(5), Nov. 8, 1984, 98 Stat. 3201; Pub. L. 99–251, title II, §208, Feb. 27, 1986, 100 Stat. 25; Pub. L. 99–335, title II, §§204(b)(2), 207(h), June 6, 1986, 100 Stat. 592, 596; Pub. L. 100–238, title I, §105(b), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 101–508, title VII, §7001(b)(2)(D), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 106–361, §3(a), Oct. 27, 2000, 114 Stat. 1402.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 579; Pub. L. 90–83, §1(81), Sept. 11, 1967, 81 Stat. 217; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 97–253, title III, §303(c), Sept.8, 1982, 96 Stat. 794; Pub. L. 97–346, §3(f), Oct. 15, 1982, 96 Stat. 1648; Pub. L. 98–615, §2(5), Nov. 8, 1984, 98 Stat. 3201; Pub. L. 99–251, title II, §208, Feb. 27, 1986, 100 Stat. 25; Pub. L. 99–335, title II, §§204(b)(2), 207(h), June 6, 1986, 100 Stat. 592, 596; Pub. L. 100–238, title I, §105(b), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 101–508, title VII, §7001(b)(2)(D), Nov. 5, 1990, 104 Stat. 1388–329; Pub. L. 106–361, §3(a), Oct. 27, 2000, 114 Stat. 1402.)
 
 Historical and Revision Notes<br>1966
 
@@ -150,7 +150,7 @@ In the last sentence of subsection (c), the words "this subsection" are substitu
 
 #### References in Text
 
-The Federal Employees' Retirement System Act of 1986, referred to in subsec. (a), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514, as amended. Title III of the Federal Employees' Retirement System Act of 1986 amended sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacted provisions set out as notes under sections 8331, 8401, 8432, and 8472 of this title and section 6103 of Title 26, and amended provisions set out as a note under section 8331 of this title. Section 302 of that Act is set out as a note under section 8331 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
+The Federal Employees' Retirement System Act of 1986, referred to in subsec. (a), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514. Title III of the Federal Employees' Retirement System Act of 1986 amended sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacted provisions set out as notes under sections 8331, 8401, 8432, and 8472 of this title and section 6103 of Title 26, and amended provisions set out as a note under section 8331 of this title. Section 302 of that Act is set out as a note under section 8331 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 8401 of this title and Tables.
 
 #### Amendments
 

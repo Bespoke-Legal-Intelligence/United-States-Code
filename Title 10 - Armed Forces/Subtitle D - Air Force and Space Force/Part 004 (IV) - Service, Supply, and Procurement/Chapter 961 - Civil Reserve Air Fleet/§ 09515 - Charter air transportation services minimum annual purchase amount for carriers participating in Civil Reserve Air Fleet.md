@@ -46,7 +46,7 @@ Distribution of Amounts.—If any amount available under this section for the mi
 
 (h)
 
-Commitment of Funds.—(1) The Secretary of each military department shall transfer tothe transportation working capital fund a percentage of the total amount anticipated to be required in such fiscal year for the payment of minimum purchase amounts under all contracts awarded under subsection (c) for such fiscal year equivalent to the percentage of the anticipated use of charter air transportation services by such military department during such fiscal year from all carriers under contracts awarded under subsection (c) for such fiscal year.
+Commitment of Funds.—(1) The Secretary of each military department shall transfer to the transportation working capital fund a percentage of the total amount anticipated to be required in such fiscal year for the payment of minimum purchase amounts under all contracts awarded under subsection (c) for such fiscal year equivalent to the percentage of the anticipated use of charter air transportation services by such military department during such fiscal year from all carriers under contracts awarded under subsection (c) for such fiscal year.
 
 (2) Any amounts required to be transferred under paragraph (1) shall be transferred by the last day of the fiscal year concerned to meet the requirements of subsection (g) unless minimum purchase amounts have already been distributed by the Secretary under subsection (g) as of that date.
 

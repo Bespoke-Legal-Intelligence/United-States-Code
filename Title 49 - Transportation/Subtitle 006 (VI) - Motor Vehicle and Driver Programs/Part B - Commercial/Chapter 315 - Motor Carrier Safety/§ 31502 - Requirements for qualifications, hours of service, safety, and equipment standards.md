@@ -162,7 +162,7 @@ Section 345 of the National Highway System Designation Act of 1995, referred to 
 
 <b>2015</b>—Subsec. (f). Pub. L. 114–94 added subsec. (f).
 
-<b>2005</b>—Subsec. (e)(2). Pub. L. 109–59, §4145(b)(1), substituted "Field Administrator of the Federal MotorCarrier Safety Administration" for "Regional Director of the Federal Highway Administration".
+<b>2005</b>—Subsec. (e)(2). Pub. L. 109–59, §4145(b)(1), substituted "Field Administrator of the Federal Motor Carrier Safety Administration" for "Regional Director of the Federal Highway Administration".
 
 Subsec. (e)(3). Pub. L. 109–59, §4145(b)(2), substituted "Field Administrator" for "Regional Director" in introductory provisions.
 

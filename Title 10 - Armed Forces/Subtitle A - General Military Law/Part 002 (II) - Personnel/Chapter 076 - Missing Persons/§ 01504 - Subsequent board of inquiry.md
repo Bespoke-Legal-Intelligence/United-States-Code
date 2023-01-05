@@ -124,7 +124,7 @@ Actions by Secretary Concerned.—(1) Not later than 30 days after the receipt o
 
 &emsp;(C) the objections, if any, to the report submitted to the president of the board under subsection (g)(5).
 
-(2) In reviewing a report under paragraph (1) (including the objections described in subparagraph (C) of that paragraph), the Secretary concerned shall determine whether or not the report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not free of administrative error, the Secretary may return the report to the board for further action on the report by the board.
+(2) In reviewing a report under paragraph (1) (including the objections described in subparagraph (C) of that paragraph), the Secretary concerned shall determine whether or not the report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not freeof administrative error, the Secretary may return the report to the board for further action on the report by the board.
 
 (3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report.
 

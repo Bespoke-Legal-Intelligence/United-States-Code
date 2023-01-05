@@ -10,7 +10,7 @@ Facilities Authorized To Be Used.—Under the specialized treatment facility pro
 
 (c)
 
-Waiver of Nonemergency Health Care Restriction.—Under the specialized treatment facility program, the Secretary may waive, with regard to the provision of a particular service, the 40-mile radius restriction set forth in section 1079(a)(6) of this title if the Secretary determines that the use of a different geographical area restriction will result in a more cost-effective provision of the service.
+Waiver of Nonemergency Health Care Restriction.—Under the specialized treatment facility program, the Secretary may waive, with regard to the provision of a particular service,the 40-mile radius restriction set forth in section 1079(a)(6) of this title if the Secretary determines that the use of a different geographical area restriction will result in a more cost-effective provision of the service.
 
 (d)
 
@@ -30,7 +30,7 @@ Payment of Costs Related to Care in Specialized Treatment Facilities.—(1) Subj
 
 &emsp;(C) In-kind transportation, lodging, or meals instead of reimbursements under subparagraph (A) or (B) for transportation, lodging, or meals, respectively.
 
-(2) The Secretary may make reimbursements for or provide transportation, lodging, andmeals under paragraph (1) in the case of a covered beneficiary only if the total cost to the Department of Defense of doing so and of providing the health care in such case is less than the cost to the Department of providing the health care to the covered beneficiary by other means authorized under this chapter.
+(2) The Secretary may make reimbursements for or provide transportation, lodging, and meals under paragraph (1) in the case of a covered beneficiary only if the total cost to the Department of Defense of doing so and of providing the health care in such case is less than the cost to the Department of providing the health care to the covered beneficiary by other means authorized under this chapter.
 
 (g)
 

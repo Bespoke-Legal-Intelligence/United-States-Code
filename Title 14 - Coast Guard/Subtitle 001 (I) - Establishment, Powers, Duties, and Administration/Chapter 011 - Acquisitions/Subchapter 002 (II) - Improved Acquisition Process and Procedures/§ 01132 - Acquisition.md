@@ -124,17 +124,31 @@ In general.—The Commandant shall implement mechanisms to ensure the developmen
 
 &emsp;(2)
 
-Types of estimates.—In addition to life-cycle cost estimates that may be developed by acquisition program offices, the Commandant shall require that an independent life-cycle cost estimate be developed for each Level 1 or Level 2 acquisition project or program.
+Types of estimates.—For each Level 1 or Level 2 acquisition project or program, in addition to life-cycle cost estimates developed under paragraph (1), the Commandant shall require that—
 
-&emsp;(3)
+&emsp;&emsp;(A) life-cycle cost estimates developed under paragraph (1) be updated before—
 
-Required updates.—For each Level 1 or Level 2 acquisition project or program the Commandant shall require that life-cycle cost estimates shall be updated before each milestone decision is concluded and the project or program enters a new acquisition phase.
+&emsp;&emsp;&emsp;(i) each milestone decision is concluded; and
 
-(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2942, §572; amended Pub. L. 114–120, title II, §204(a), Feb. 8, 2016, 130 Stat. 34; renumbered §1132, Pub. L. 115–282, title I, §108(b), Dec. 4, 2018, 132 Stat. 4208.)
+&emsp;&emsp;&emsp;(ii) the project or program enters a new acquisition phase; and
+
+&emsp;&emsp;(B) an independent cost estimate or independent cost assessment, as appropriate, be developed to validate life-cycle cost estimates developed under paragraph (1).
+
+(Added Pub. L. 111–281, title IV, §402(a), Oct. 15, 2010, 124 Stat. 2942, §572; amended Pub. L. 114–120, title II, §204(a), Feb. 8, 2016, 130 Stat. 34; renumbered §1132, Pub. L. 115–282, title I, §108(b), Dec. 4, 2018, 132 Stat. 4208; Pub. L. 117–263, div. K, title CXII, §11210, Dec. 23, 2022, 136 Stat. 4012.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(2), (3). Pub. L. 117–263 added par. (2) and struck out former pars. (2) and (3) which read as follows:
+
+"(2)
+
+Types of estimates.—In addition to life-cycle cost estimates that may be developed by acquisition program offices, the Commandant shall require that an independent life-cycle cost estimate be developed for each Level 1 or Level 2 acquisition project or program.
+
+"(3)
+
+Required updates.—For each Level 1 or Level 2 acquisition project or program the Commandant shall require that life-cycle cost estimates shall be updated before each milestone decision is concluded and the project or program enters a new acquisition phase."
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 572 of this title as this section.
 

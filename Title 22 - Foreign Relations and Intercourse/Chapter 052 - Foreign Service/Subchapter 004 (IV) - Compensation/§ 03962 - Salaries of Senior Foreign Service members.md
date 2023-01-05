@@ -18,7 +18,7 @@
 
 (2) The salary paid to an individual under this subsection shall be adjusted by 50 percent of each adjustment, which takes effect after the appointment of such individual to the Senior Foreign Service, in the basic rate of pay at which that individual was paid under section 5382 of title 5 immediately prior to such appointment.
 
-(Pub. L. 96–465, title I, §402, Oct. 17, 1980, 94 Stat. 2087; Pub. L. 97–241, title I, §124, Aug. 24, 1982, 96Stat. 281; Pub. L. 108–447, div. B, title IV, §412(a), Dec. 8, 2004, 118 Stat. 2905.)
+(Pub. L. 96–465, title I, §402, Oct. 17, 1980, 94 Stat. 2087; Pub. L. 97–241, title I, §124, Aug. 24, 1982, 96 Stat. 281; Pub. L. 108–447, div. B, title IV, §412(a), Dec. 8, 2004, 118 Stat. 2905.)
 
 #### <b>Editorial Notes</b>
 

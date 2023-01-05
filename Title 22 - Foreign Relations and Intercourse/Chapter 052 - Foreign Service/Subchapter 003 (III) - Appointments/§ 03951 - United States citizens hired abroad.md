@@ -22,7 +22,7 @@ Nonfamily member United States citizens employed under this section shall not be
 
 #### (e) Employment standards
 
-The Secretary shall hold a family member of a government employee described in subsection (a) seeking employment in a position described in that subsection to the same employment standards as those applicable to Foreign Service officers, Foreign Service personnel, or foreign national employees seeking the same or a substantially similar position.
+The Secretary shall hold a family member of a government employee described in subsection (a) seeking employment in a position describedin that subsection to the same employment standards as those applicable to Foreign Service officers, Foreign Service personnel, or foreign national employees seeking the same or a substantially similar position.
 
 (Pub. L. 96–465, title I, §311, Oct. 17, 1980, 94 Stat. 2087; Pub. L. 103–236, title I, §180(a)(2), Apr. 30, 1994, 108 Stat. 415; Pub. L. 103–415, §1(h)(1), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 117–81, div. F, title LXII, §6205, Dec. 27, 2021, 135 Stat. 2391.)
 

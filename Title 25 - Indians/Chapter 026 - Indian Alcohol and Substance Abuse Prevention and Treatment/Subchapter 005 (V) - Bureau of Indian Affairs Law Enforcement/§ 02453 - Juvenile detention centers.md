@@ -18,7 +18,7 @@
 
 #### (B) Coordination
 
-&emsp;&emsp;The plan under subparagraph (A) shall require the Bureau of Indian Education and the Indian Health Service to coordinate with tribal and Bureau of Indian Affairs juvenile detention centers to provide services to those centers.
+&emsp;&emsp;The plan under subparagraph (A) shall require the Bureau of Indian Education and the Indian Health Service to coordinate withtribal and Bureau of Indian Affairs juvenile detention centers to provide services to those centers.
 
 #### (b) Authorization
 

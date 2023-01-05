@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall provide full information to agricultural commodity producers about the benefit allowances, training, and other employment services available under this subchapter and about the petition and application procedures, and the appropriate filing dates, for suchallowances, training, and services. The Secretary shall provide whatever assistance is necessary to enable groups to prepare petitions or applications for program benefits under this subchapter.
+The Secretary shall provide full information to agricultural commodity producers about the benefit allowances, training, and other employment services available under this subchapter and about the petition and application procedures, and the appropriate filing dates, for such allowances, training, and services. The Secretary shall provide whatever assistance is necessary to enable groups to prepare petitions or applications for program benefits under this subchapter.
 
 #### (b) Notice of benefits
 
@@ -20,9 +20,13 @@ The Secretary shall provide full information to agricultural commodity producers
 
 (Pub. L. 93–618, title II, §295, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 949.)
 
+#### Termination of Assistance
+
+<i>For termination of assistance under this part after June 30, 2022, see Termination Date note below.</i>
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date
 
-Except as otherwise provided, assistance may not be provided under this section after June 30, 2021, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+Except as otherwise provided, technical assistance and financial assistance may not be provided under this part after June 30, 2022, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.
 

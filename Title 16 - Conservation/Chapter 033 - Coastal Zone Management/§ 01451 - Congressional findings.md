@@ -18,7 +18,7 @@ The Congress finds that—
 
 (h) In light of competing demands and the urgent need to protect and to give high priority to natural systems in the coastal zone, present state and local institutional arrangements for planning and regulating land and water uses in such areas are inadequate.
 
-(i) The key to more effective protection and use of the land and water resources of the coastal zone is to encourage the states to exercise their full authority over the lands and waters inthe coastal zone by assisting the states, in cooperation with Federal and local governments and other vitally affected interests, in developing land and water use programs for the coastal zone, including unified policies, criteria, standards, methods, and processes for dealing with land and water use decisions of more than local significance.
+(i) The key to more effective protection and use of the land and water resources of the coastal zone is to encourage the states to exercise their full authority over the lands and waters in the coastal zone by assisting the states, in cooperation with Federal and local governments and other vitally affected interests, in developing land and water use programs for the coastal zone, including unified policies, criteria, standards, methods, and processes for dealing with land and water use decisions of more than local significance.
 
 (j) The national objective of attaining a greater degree of energy self-sufficiency would be advanced by providing Federal financial assistance to meet state and local needs resulting from new or expanded energy activity in or affecting the coastal zone.
 
@@ -74,7 +74,7 @@ Pub. L. 99–272, title VI, §6041, Apr. 7, 1986, 100 Stat. 124, provided that: 
 
 #### Short Title of 1980 Amendment
 
-Pub. L. 96–464, §1, Oct. 17, 1980, 94 Stat. 2060, provided: "That this Act \[enacting sections 1455a and 1463a of this title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enacting provisions set out as notes under sections 1455, 1458, and 1463a of this title\] may be cited as the 'Coastal Zone Management Improvement Act of 1980'."
+Pub. L. 96–464, §1, Oct. 17, 1980, 94 Stat. 2060, provided: "That this Act \[enacting sections 1455a and 1463a ofthis title, amending this section and sections 1452, 1453, 1455, 1456a, 1456b, 1458, 1461, 1462, and 1464 of this title, and enacting provisions set out as notes under sections 1455, 1458, and 1463a of this title\] may be cited as the 'Coastal Zone Management Improvement Act of 1980'."
 
 #### Short Title of 1976 Amendment
 
@@ -92,7 +92,7 @@ Pub. L. 110–114, title V, §5022, Nov. 8, 2007, 121 Stat. 1203, provided that:
 
 Pub. L. 108–456, title I, §102 (part), Dec. 10, 2004, 118 Stat. 3630, formerly set out as a note under this section, was transferred to section 4001a of Title 33, Navigation and Navigable Waters.
 
-Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, as amended by Pub. L. 108–456, title I, §§102–105, Dec. 10,2004, 118 Stat. 3630–3633; Pub. L. 110–161, div. B, title V, §528, Dec. 26, 2007, 121 Stat. 1930, formerly set out as a note under this section, was transferred to chapter 53 (§4001 et seq.) of Title 33, Navigation and Navigable Waters.
+Pub. L. 105–383, title VI, Nov. 13, 1998, 112 Stat. 3447, as amended by Pub. L. 108–456, title I, §§102–105, Dec. 10, 2004, 118 Stat. 3630–3633; Pub. L. 110–161, div. B, title V, §528, Dec. 26, 2007, 121 Stat. 1930, formerly set out as a note under this section, was transferred to chapter 53 (§4001 et seq.) of Title 33, Navigation and Navigable Waters.
 
 #### Findings and Purpose of Coastal Zone Act Reauthorization Amendments of 1990
 

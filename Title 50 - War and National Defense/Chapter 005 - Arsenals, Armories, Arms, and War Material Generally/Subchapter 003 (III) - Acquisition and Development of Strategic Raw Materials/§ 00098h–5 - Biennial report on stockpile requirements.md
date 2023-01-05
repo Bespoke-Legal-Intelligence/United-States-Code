@@ -38,11 +38,33 @@ The Secretary shall also include in each report under this section an examinatio
 
 The President shall submit with each report under this section a statement of the plans of the President for meeting the recommendations of the Secretary set forth in the report.
 
-(June 7, 1939, ch. 190, §14, as added Pub. L. 100–180, div. C, title II, §3202(c), Dec. 4, 1987, 101 Stat. 1246; amended Pub. L. 102–190, div. C, titleXXXIII, §3313(b)(1), (2), Dec. 5, 1991, 105 Stat. 1585; Pub. L. 103–160, div. C, title XXXIII, §3314, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 104–201, div. C, title XXXIII, §3311(a), Sept. 23, 1996, 110 Stat. 2856.)
+#### (f) Briefings on shortfalls in stockpile
+
+(1) Not later than March 1 each year, the National Defense Stockpile Manager shall provide to the congressional defense committees a briefing on strategic and critical materials that—
+
+&emsp;(A) are determined to be in shortfall in the most recent report on stockpile requirements submitted under subsection (a); and
+
+&emsp;(B) the acquisition or disposal of which is included in the Annual Materials and Operations Plan for the operation of the stockpile during the next fiscal year submitted under section 98h–2(b) of this title.
+
+(2) Each briefing required by paragraph (1) shall include—
+
+&emsp;(A) a description of each material described in that paragraph, including the objective to be achieved if funding is provided, in whole or in part, for the acquisition of the material to remedy the shortfall;
+
+&emsp;(B) an estimate of additional amounts required to provide such funding, if any; and
+
+&emsp;(C) an assessment of the supply chain for each such material, including any assessment of any relevant risk in any such supply chain.
+
+(June 7, 1939, ch. 190, §14, as added Pub. L. 100–180, div. C, title II, §3202(c), Dec. 4, 1987, 101 Stat. 1246; amended Pub. L. 102–190, div. C, title XXXIII, §3313(b)(1), (2), Dec. 5, 1991, 105 Stat. 1585; Pub. L. 103–160, div. C, title XXXIII, §3314, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 104–201, div. C, title XXXIII, §3311(a), Sept. 23, 1996, 110 Stat. 2856; Pub. L. 117–263, div. A, title XIV, §1413, Dec. 23, 2022, 136 Stat. 2872.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The congressional defense committees, referred to in subsec. (f)(1), are not defined for this subchapter. However, elsewhere in this subchapter, they are defined as the committees listed in section 101(a) of Title 10, Armed Forces.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–263 added subsec. (f).
 
 <b>1996</b>—Subsecs. (b) to (e). Pub. L. 104–201 added subsecs. (b) to (d), redesignated former subsec. (c) as (e), and struck out former subsec. (b) which related to national emergency planning assumptions set forth in reports required under this section.
 
@@ -57,10 +79,6 @@ Subsec. (a). Pub. L. 102–190, §3313(b)(1), in introductory provisions, substi
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 3311(c) of Pub. L. 104–201, set out as a note under section 98a of this title.
-
-#### Termination of Reporting Requirements
-
-For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of biennial report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.
 
 #### Initial Report Due Date
 

@@ -62,7 +62,7 @@ Except as provided in subsection (f), revenues credited to the development fund 
 
 &emsp;&emsp;&emsp;&emsp;(III) section 304 of the Southern Arizona Water Rights Settlement Amendments Act of 2004;
 
-&emsp;&emsp;&emsp;(iv) to pay $52,396,000 for the rehabilitation of the San Carlos Irrigation Project asprovided in section 203(d)(4) of the Arizona Water Settlements Act, of which not more than $9,000,000 shall be available annually, except that the total amount of $52,396,000 shall be increased or decreased, as appropriate, based on ordinary fluctuations since January 1, 2000, in construction cost indices applicable to the types of construction involved in the rehabilitation;
+&emsp;&emsp;&emsp;(iv) to pay $52,396,000 for the rehabilitation of the San Carlos Irrigation Project as provided in section 203(d)(4) of the Arizona Water Settlements Act, of which not more than $9,000,000 shall be available annually, except that the total amount of $52,396,000 shall be increased or decreased, as appropriate, based on ordinary fluctuations since January 1, 2000, in construction cost indices applicable to the types of construction involved in the rehabilitation;
 
 &emsp;&emsp;&emsp;(v) to pay other costs specifically identified under—
 
@@ -94,7 +94,7 @@ Except as provided in subsection (f), revenues credited to the development fund 
 
 &emsp;&emsp;(C) to reimburse the general fund of the Treasury for fixed operation, maintenance, and replacement charges previously paid under paragraph (2)(A);
 
-&emsp;&emsp;(D) to reimburse the general fund of the Treasury for costs previously paid under subparagraphs (B) through (E) of paragraph (2);
+&emsp;&emsp;(D) to reimburse the general fund of the Treasury for costs previously paid undersubparagraphs (B) through (E) of paragraph (2);
 
 &emsp;&emsp;(E) to pay to the general fund of the Treasury the annual installment on any debt relating to the Central Arizona Project under section 485h(d) of this title, made nonreimbursable under section 106(b) of the Arizona Water Settlements Act;
 
@@ -186,7 +186,7 @@ The date of enactment of this Act, referred to in subsec. (f)(2)(D)(vi), probabl
 
 The Central Arizona Project Settlement Act of 2004, referred to in subsec. (f)(2)(D)(viii), is title I of Pub. L. 108–451, Dec. 10, 2004, 118 Stat. 3486. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under section 1501 of this title and Tables.
 
-Act of June 24, 1938, referred to in subsec. (f)(4)(B)(i)(I), is act June 24, 1938, ch. 648, 52 Stat. 1037, as amended, which enacted section 162a of Title 25, Indians, repealed section 162 of Title 25, and enacted provisions set out as a note under section 162a of Title 25. For complete classification of this Act to the Code, see Tables.
+Act of June 24, 1938, referred to in subsec. (f)(4)(B)(i)(I), is act June 24, 1938, ch. 648, 52 Stat. 1037, which enacted section 162a of Title 25, Indians, repealed section 162 of Title 25, and enacted provisions set out as a note under section 162a of Title 25. For complete classification of this Act to the Code, see Tables.
 
 Section 4 of the Act of March 4, 1939, referred to in subsec. (f)(4)(B)(ii)(IV), probably should be a reference to section 4 of act March 8, 1938, as amended by act March 4, 1939, which is classified to section 713a–4 of Title 15, Commerce and Trade.
 

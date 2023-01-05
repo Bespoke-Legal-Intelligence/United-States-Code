@@ -20,7 +20,7 @@
 
 &emsp;(B) the entry is necessary for the safety of the vessel or individuals on the vessel.
 
-(b) A foreign vessel to which chapter 37 of this title applies that has on board oil or hazardous material in bulk as cargo or cargo residue shall have a specified number of personnel certified as tankerman or equivalent, as required by the Secretary, when the vessel transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States. The requirement of this subsection shall be noted in applicable terminal operating procedures. A transfer operation may take place only if the crewmember in charge is capable of clearly understanding instructions in English.
+(b) A foreign vessel to which chapter 37 of this title applies that has on board oil or hazardous material in bulk as cargo or cargo residue shall have a specified number of personnel certified as tankerman or equivalent, as required by the Secretary, when the vessel transfers oil or hazardous material in a port or place subject to thejurisdiction of the United States. The requirement of this subsection shall be noted in applicable terminal operating procedures. A transfer operation may take place only if the crewmember in charge is capable of clearly understanding instructions in English.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 556; Pub. L. 101–380, title IV, §4106(a), Aug. 18, 1990, 104 Stat. 513.)
 

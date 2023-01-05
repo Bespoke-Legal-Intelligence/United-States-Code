@@ -24,7 +24,7 @@ Pub. L. 111–383, div. A, title V, §543, Jan. 7, 2011, 124 Stat. 4218, as amen
 
 "(a)
 
-Implementation of Outstanding Comptroller General Recommendations.—Consistent with the recommendations contained in the report of the Comptroller General of the United States titled 'Status of Implementation of GAO's 2006 Recommendations on the Department of Defense's Domestic Violence Program' (GAO–10–577R), the Secretary of Defense shall complete, not later than one year after the date of enactment of this Act \[Jan. 7, 2011\], implementation of actions to address the following recommendations:
+Implementation of Outstanding Comptroller General Recommendations.—Consistent with the recommendations contained in the report of the Comptroller General of the United States titled 'Status of Implementation of GAO's 2006 Recommendations on the Department of Defense's Domestic Violence Program' (GAO–⁠10–577R), the Secretary of Defense shall complete, not later than one year after the date of enactment of this Act \[Jan. 7, 2011\], implementation of actions to address the following recommendations:
 
 &emsp;"(1)
 

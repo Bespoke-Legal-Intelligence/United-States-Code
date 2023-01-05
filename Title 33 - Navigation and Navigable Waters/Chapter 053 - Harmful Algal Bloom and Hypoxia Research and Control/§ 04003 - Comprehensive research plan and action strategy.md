@@ -26,7 +26,7 @@ The regional and subregional parts of the Action Strategy shall identify—
 
 &emsp;(6) mechanisms by which data, information, and products may be transferred between the Program and the State, tribal, and local governments and research entities;
 
-&emsp;(7) communication and information dissemination methods that State, tribal, and localgovernments may undertake to educate and inform the public concerning harmful algal blooms and hypoxia; and
+&emsp;(7) communication and information dissemination methods that State, tribal, and local governments may undertake to educate and inform the public concerning harmful algal blooms and hypoxia; and
 
 &emsp;(8) roles that Federal agencies may have to assist in the implementation of the Action Strategy, including efforts to support local and regional scientific assessments under section 4001(e) of this title.
 

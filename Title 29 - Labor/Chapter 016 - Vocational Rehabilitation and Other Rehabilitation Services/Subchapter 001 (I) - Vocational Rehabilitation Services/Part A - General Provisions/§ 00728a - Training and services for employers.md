@@ -6,7 +6,7 @@ A State may expend payments received under section 731 of this title to educate 
 
 &emsp;(2) working with employers to—
 
-&emsp;&emsp;(A) provide opportunities for work-based learning experiences (including internships,short-term employment, apprenticeships, and fellowships), and opportunities for pre-employment transition services;
+&emsp;&emsp;(A) provide opportunities for work-based learning experiences (including internships, short-term employment, apprenticeships, and fellowships), and opportunities for pre-employment transition services;
 
 &emsp;&emsp;(B) recruit qualified applicants who are individuals with disabilities;
 

@@ -44,7 +44,7 @@ Amendment by Pub. L. 99–514 applicable to returns the due date for which (dete
 
 #### Effective Date
 
-Enactment of section applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for portions of lump-sum payments received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984, see section 227(b) of Pub. L. 98–76, set out as an Effective Date of 1983 Amendment note under section 72 of this title.
+Enactment of section applicable to benefits received after Dec. 31, 1983, in taxable years ending after such date, except for portions of lump-sum payments received after Dec. 31, 1983, if the generally applicable payment date for such portion was before Jan. 1, 1984,see section 227(b) of Pub. L. 98–76, set out as an Effective Date of 1983 Amendment note under section 72 of this title.
 
 #### Savings Provision
 

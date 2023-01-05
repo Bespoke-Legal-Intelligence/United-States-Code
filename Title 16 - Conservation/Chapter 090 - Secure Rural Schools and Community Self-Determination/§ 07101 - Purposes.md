@@ -46,7 +46,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 #### Prior Provisions
 
-A prior section 2 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal byPub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 2 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

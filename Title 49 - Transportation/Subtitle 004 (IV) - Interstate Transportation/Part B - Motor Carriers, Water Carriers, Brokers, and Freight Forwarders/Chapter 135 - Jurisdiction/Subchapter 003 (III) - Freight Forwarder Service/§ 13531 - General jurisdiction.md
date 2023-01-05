@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary and the Board have jurisdiction, as specified in this part, over service that a freight forwarder undertakes to provide, or is authorized or required under this part to provide, to the extent transportation is provided in the United States and is between—
+In General.—The Secretary and the Board have jurisdiction, as specified in this part, overservice that a freight forwarder undertakes to provide, or is authorized or required under this part to provide, to the extent transportation is provided in the United States and is between—
 
 &emsp;(1) a place in a State and a place in another State, even if part of the transportation is outside the United States;
 

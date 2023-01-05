@@ -22,7 +22,7 @@ For purposes of this part, except as otherwise provided in this section, the ter
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of applying paragraph (1) with respect to any issue, the outstanding tax-exempt nonhospital bonds of any organization which is a test-period beneficiary with respect to such issue is the aggregateamount of tax-exempt bonds referred to in subparagraph (B)—
+&emsp;&emsp;For purposes of applying paragraph (1) with respect to any issue, the outstanding tax-exempt nonhospital bonds of any organization which is a test-period beneficiary with respect to such issue is the aggregate amount of tax-exempt bonds referred to in subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) which are allocated to such organization, and
 
@@ -122,7 +122,7 @@ For purposes of this section, the term "qualified hospital bond" means any bond 
 
 #### (B) Exception
 
-&emsp;&emsp;For purposes of subparagraph (A), clause (ii) of section 47(c)(1)(B) shall not apply, butthe Secretary may extend the 24-month period in section 47(c)(1)(B)(i) where appropriate due to circumstances not within the control of the owner.
+&emsp;&emsp;For purposes of subparagraph (A), clause (ii) of section 47(c)(1)(B) shall not apply, but the Secretary may extend the 24-month period in section 47(c)(1)(B)(i) where appropriate due to circumstances not within the control of the owner.
 
 #### (e) Election out
 
@@ -200,7 +200,7 @@ Exception for construction or binding agreement.—
 
 &emsp;&emsp;"(ii) described in an inducement resolution or other comparable preliminary approval adopted by an issuing authority (or by a voter referendum) before July 14, 1988.
 
-> &emsp;For purposes of the preceding sentence, the term 'significant expenditures' means expenditures greater than 10 percent of the reasonably anticipated cost of the construction, reconstruction, or rehabilitation of the facility involved.
+> &emsp;For purposes of the preceding sentence, the term 'significant expenditures' means expenditures greater than 10 percent of the reasonably anticipated cost ofthe construction, reconstruction, or rehabilitation of the facility involved.
 
 &emsp;"(B) Subparagraph (A) shall not apply to any bond issued after December 31, 1989, and shall not apply unless it is reasonably expected (at the time of issuance of the bond) that the facility will be placed in service before January 1, 1990.
 
@@ -218,5 +218,5 @@ Refundings.—The amendments made by this section shall not apply to any bond is
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

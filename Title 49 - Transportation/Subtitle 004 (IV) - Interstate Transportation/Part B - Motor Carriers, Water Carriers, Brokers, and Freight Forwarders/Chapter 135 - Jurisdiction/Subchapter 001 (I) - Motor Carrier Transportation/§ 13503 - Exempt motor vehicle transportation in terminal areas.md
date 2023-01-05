@@ -22,7 +22,7 @@ In general.—Neither the Secretary nor the Board has jurisdiction under this su
 
 &emsp;(2)
 
-Applicability of other provisions.—Transportation exempt from jurisdiction under paragraph (1) of this subsection is subject to jurisdiction under chapter 105 when provided by such a rail carrier, under subchapter II of this chapter when provided by such a water carrier, and under subchapter III of this chapter when provided by such a freight forwarder.
+Applicability of other provisions.—Transportation exempt from jurisdiction under paragraph (1) of this subsection is subject to jurisdiction under chapter 105 when provided by such a rail carrier, under subchapter II of this chapter when provided bysuch a water carrier, and under subchapter III of this chapter when provided by such a freight forwarder.
 
 (b)
 

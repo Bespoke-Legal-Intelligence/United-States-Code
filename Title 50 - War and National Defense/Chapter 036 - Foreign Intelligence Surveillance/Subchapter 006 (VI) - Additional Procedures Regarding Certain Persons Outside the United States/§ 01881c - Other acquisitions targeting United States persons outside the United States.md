@@ -70,13 +70,13 @@ Each application for an order under this section shall be made by a Federal offi
 
 #### (2) Probable cause
 
-&emsp;In determining whether or not probable cause exists for purposes of paragraph (1)(B), a judge having jurisdiction under subsection (a)(1) may consider past activities of the target and facts and circumstances relating to current or future activities of the target. No United States person may be considered a foreign power, agent of a foreign power, or officer or employee of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States.
+&emsp;In determining whether or not probable cause exists for purposes of paragraph (1)(B), a judge having jurisdiction under subsection (a)(1) may consider past activities of the target and facts and circumstances relating tocurrent or future activities of the target. No United States person may be considered a foreign power, agent of a foreign power, or officer or employee of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States.
 
 #### (3) Review
 
 #### (A) Limitations on review
 
-&emsp;&emsp;Review by a judge having jurisdiction under subsection (a)(1) shall be limited tothat required to make the findings described in paragraph (1). The judge shall not have jurisdiction to review the means by which an acquisition under this section may be conducted.
+&emsp;&emsp;Review by a judge having jurisdiction under subsection (a)(1) shall be limited to that required to make the findings described in paragraph (1). The judge shall not have jurisdiction to review the means by which an acquisition under this section may be conducted.
 
 #### (B) Review of probable cause
 
@@ -126,7 +126,7 @@ Each application for an order under this section shall be made by a Federal offi
 
 #### (1) Appeal to the Court of Review
 
-&emsp;The Government may file a petition with the Foreign Intelligence Surveillance Court of Review for review of an order issued pursuant to subsection (c). The Court of Review shall have jurisdiction to consider such petition and shall provide a written statement for the record of the reasons for a decision under this paragraph.
+&emsp;The Government may file a petition with the Foreign Intelligence Surveillance Court ofReview for review of an order issued pursuant to subsection (c). The Court of Review shall have jurisdiction to consider such petition and shall provide a written statement for the record of the reasons for a decision under this paragraph.
 
 #### (2) Certiorari to the Supreme Court
 

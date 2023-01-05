@@ -6,7 +6,7 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–81, §1701(i)(2)(B), amended Pub. L. 116–283, §1810(d), which enacted this section, by substituting "\[Reserved\]" for "Contracts for property orservices in support of a contingency operation: competition and review" in section catchline.
+<b>2021</b>—Pub. L. 117–81, §1701(i)(2)(B), amended Pub. L. 116–283, §1810(d), which enacted this section, by substituting "\[Reserved\]" for "Contracts for property or services in support of a contingency operation: competition and review" in section catchline.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

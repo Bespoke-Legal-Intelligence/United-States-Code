@@ -12,7 +12,7 @@
 
 (3) Effective 180 days after the publication of such list, no person or vessel may employ fishing gear or engage in a fishery not included on such list without giving 90 days advance written notice to the appropriate Council, or the Secretary with respect to a fishery to which section 1852(a)(3) of this title applies. A signed return receipt shall serve as adequate evidence of such notice and as the date upon which the 90-day period begins.
 
-(4) A Council may submit to the Secretary any proposed changes to such list or such guidelines the Council deems appropriate. The Secretary shall publish a revised list, after notice and anopportunity for public comment, upon receiving any such proposed changes from a Council.
+(4) A Council may submit to the Secretary any proposed changes to such list or such guidelines the Council deems appropriate. The Secretary shall publish a revised list, after notice and an opportunity for public comment, upon receiving any such proposed changes from a Council.
 
 (5) A Council may request the Secretary to promulgate emergency regulations under subsection (c) to prohibit any persons or vessels from using an unlisted fishing gear or engaging in an unlisted fishery if the appropriate Council, or the Secretary for fisheries to which section 1852(a)(3) of this title applies, determines that such unlisted gear or unlisted fishery would compromise the effectiveness of conservation and management efforts under this chapter.
 
@@ -54,7 +54,7 @@
 
 &emsp;(A) shall be published in the Federal Register together with the reasons therefor;
 
-&emsp;(B) shall, except as provided in subparagraph (C), remain in effect for not more than 180 days after the date of publication, and may be extended by publication in the Federal Register for one additional period of not more than 186 days, provided the public has had an opportunity to comment on the emergency regulation or interim measure, and, in the case of a Council recommendation for emergency regulations or interim measures, theCouncil is actively preparing a fishery management plan, plan amendment, or proposed regulations to address the emergency or overfishing on a permanent basis;
+&emsp;(B) shall, except as provided in subparagraph (C), remain in effect for not more than 180 days after the date of publication, and may be extended by publication in the Federal Register for one additional period of not more than 186 days, provided the public has had an opportunity to comment on the emergency regulation or interim measure, and, in the case of a Council recommendation for emergency regulations or interim measures, the Council is actively preparing a fishery management plan, plan amendment, or proposed regulations to address the emergency or overfishing on a permanent basis;
 
 &emsp;(C) that responds to a public health emergency or an oil spill may remain in effect until the circumstances that created the emergency no longer exist, <i>Provided</i>, That the public has an opportunity to comment after the regulation is published, and, in the case of a public health emergency, the Secretary of Health and Human Services concurs with the Secretary's action; and
 
@@ -96,7 +96,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (h) Central registry system for limited access system permits
 
-(1) Within 6 months after October 11, 1996, the Secretary shall establish an exclusive central registry system (which may be administered on a regional basis) for limited access system permits established under section 1853(b)(6) of this title or other Federal law, including limited access privileges, which shall provide for the registration of title to, and interests in, such permits, as well as for procedures for changes in the registration of title to such permits upon the occurrence of involuntary transfers, judicial or nonjudicial foreclosure of interests, enforcement of judgments thereon, and related mattersdeemed appropriate by the Secretary. Such registry system shall—
+(1) Within 6 months after October 11, 1996, the Secretary shall establish an exclusive central registry system (which may be administered on a regional basis) for limited access system permits established under section 1853(b)(6) of this title or other Federal law, including limited access privileges, which shall provide for the registration of title to, and interests in, such permits, as well as for procedures for changes in the registration of title to such permits upon the occurrence of involuntary transfers, judicial or nonjudicial foreclosure of interests, enforcement of judgments thereon, and related matters deemed appropriate by the Secretary. Such registry system shall—
 
 &emsp;(A) provide a mechanism for filing notice of a nonjudicial foreclosure or enforcement of a judgment by which the holder of a senior security interest acquires or conveys ownership of a permit, and in the event of a nonjudicial foreclosure, by which the interests of the holders of junior security interests are released when the permit is transferred;
 
@@ -138,7 +138,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the annual percentage of the total allowable catch, guideline harvest level, or other annual catch limit allocated to the program in each directed fishery of the Bering Sea and Aleutian Islands shall be the percentage approved by the Secretary, or established by Federal law, as of March 1, 2006, for the program. The percentage for each fishery shall be either a directed fishing allowance or include both directed fishing and nontarget needs based on existing practice with respect to the program as of March 1, 2006, for each fishery.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the annual percentage of the total allowablecatch, guideline harvest level, or other annual catch limit allocated to the program in each directed fishery of the Bering Sea and Aleutian Islands shall be the percentage approved by the Secretary, or established by Federal law, as of March 1, 2006, for the program. The percentage for each fishery shall be either a directed fishing allowance or include both directed fishing and nontarget needs based on existing practice with respect to the program as of March 1, 2006, for each fishery.
 
 #### (ii) Exceptions
 
@@ -156,7 +156,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (iv) Regulation of harvest
 
-&emsp;&emsp;&emsp;The harvest of allocations under the program for fisheries with individual quotasor fishing cooperatives shall be regulated by the Secretary in a manner no more restrictive than for other participants in the applicable sector, including with respect to the harvest of nontarget species.
+&emsp;&emsp;&emsp;The harvest of allocations under the program for fisheries with individual quotas or fishing cooperatives shall be regulated by the Secretary in a manner no more restrictive than for other participants in the applicable sector, including with respect to the harvest of nontarget species.
 
 #### (C) Allocations to entities
 
@@ -196,7 +196,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;&emsp;&emsp;&emsp;(I) For projects that are not fishery-related and that are located in its region.
 
-&emsp;&emsp;&emsp;&emsp;(II) On a pooled or joint investment basis with one or more other entities participating in the program for projects that are not fishery-related and that are located in one or more of their regions.
+&emsp;&emsp;&emsp;&emsp;(II) On a pooled or joint investment basis with one or more other entitiesparticipating in the program for projects that are not fishery-related and that are located in one or more of their regions.
 
 &emsp;&emsp;&emsp;&emsp;(III) For matching Federal or State grants for projects or programs in its member villages without regard to any limitation on the Federal or State share, or restriction on the source of any non-Federal or non-State matching funds, of any grant program under any other provision of law.
 
@@ -328,7 +328,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 &emsp;&emsp;(B) include fisheries and seafood-related training programs, including programs for fishery observers, seafood safety and seafood marketing, focused on increasing the involvement of coastal community residents in fishing, fishery management, and seafood-related operations;
 
-&emsp;&emsp;(C) include outreach programs and materials to educate and inform consumers about the quality and sustainability of wild fish or fish products farmed through responsible aquaculture, particularly in Hawaii, Alaska, the Western Pacific, the Northern Pacific, and the Central Pacific;
+&emsp;&emsp;(C) include outreach programs and materials to educate and inform consumers aboutthe quality and sustainability of wild fish or fish products farmed through responsible aquaculture, particularly in Hawaii, Alaska, the Western Pacific, the Northern Pacific, and the Central Pacific;
 
 &emsp;&emsp;(D) include programs to identify, with the fishing industry, methods and technologies that will improve the data collection, quality, and reporting and increase the sustainability of fishing practices, and to transfer such methods and technologies among fisheries sectors and to other nations in the Western, Northern, and Central Pacific;
 
@@ -348,7 +348,7 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### (2) Cure
 
-&emsp;If the Secretary makes a determination that such actions are not consistent with the plan,the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.
+&emsp;If the Secretary makes a determination that such actions are not consistent with the plan, the Secretary shall, in consultation with the Council, and after notifying the affected State, develop and implement measures to cure the inconsistency pursuant to section 1856(b) of this title.
 
 (Pub. L. 94–265, title III, §305, Apr. 13, 1976, 90 Stat. 354; Pub. L. 96–561, title II, §235, Dec. 22, 1980, 94 Stat. 3299; Pub. L. 97–453, §8, Jan. 12, 1983, 96 Stat. 2490; Pub. L. 101–627, title I, §§110(b)(2), 111(a)(1), (b), Nov. 28, 1990, 104 Stat. 4451, 4452; Pub. L. 104–297, title I, §§110(a)–(d), 111(a), Oct. 11, 1996, 110 Stat. 3587–3590, 3592; Pub. L. 109–241, title IV, §416(a), July 11, 2006, 120 Stat. 540; Pub. L. 109–479, §3(d)(3), title I, §§108–110, 116(b)(1), Jan. 12, 2007, 120 Stat. 3578, 3594–3596, 3606; Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8423, Jan. 1, 2021, 134 Stat. 4729.)
 
@@ -356,9 +356,9 @@ The Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.),<sup>1</sup> the Re
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Paperwork Reduction Act of 1980, referred to in subsec. (e), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (e), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
 The Regulatory Flexibility Act (5 U.S.C. 601 et seq.), referred to in subsec. (e), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§601 et seq.) of Title 5, Government Organization and Employees. For complete classification of the Act to the Code, see Short Title note set out under section 601 of Title 5 and Tables.
 
@@ -440,7 +440,7 @@ Subsec. (b). Pub. L. 97–453, §8(1), struck out subsec. (b) which had provided
 
 Subsec. (c). Pub. L. 97–453, §8(2), substituted provision that the Secretary shall promulgate each regulation that is necessary to carry out a plan or amendment within 110 days after the plan or amendment was received by him for action under section 1854(a) of this title if such plan or amendment takes effect under section 1854(b)(1) of this title, within 75 days after a revised plan or amendment was received by him under section 1854(b) of this title if such plan or amendment takes effect under paragraph (3)(D) of such section, or within such time as he deems appropriate in the case of a plan or amendment prepared by him under section 1854(c) of this title, for provision that the Secretary promulgate regulations to implement any fishery management plan or any amendment to any such plan after consideration of all relevant matters presented to him during the 45-day period referred to in former subsection (a) of this section and produced in any hearing held under former subsection (b) of this section if he found the plan or amendment consistent with the national standards, the other provisions of this chapter, and any other applicable law, and that to the extent practicable, such regulation be put into effect in a manner not disruptive of the regular fishing season for any fishery.
 
-Subsec. (e). Pub. L. 97–453, §8(3), substituted provision that if the Secretary finds that an emergency exists involving any fishery, he may promulgate emergency regulations necessary to address the emergency, without regard to whether a fishery management plan exists for such fishery, that if a Council finds that an emergency exists involving any fishery within its jurisdiction, whether or not a fishery management plan exists for such fishery, the Secretary shall promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by unanimous vote of the members who are voting members, requests the taking of such action, and the Secretary may promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by less than a unanimous vote, requests the taking of such action, for provision that if the Secretary found that an emergency involving any fishery resources existed, he could promulgate emergency regulations, without regard to former subsections (a) and (c) of this section, to implement any fishery management plan, if required, or promulgate emergency regulations to amend any regulation implementing any existing fishery management plan, to the extent required by such emergency, lengthened from 45 days to 90 days the maximum period that emergency regulations may remain in effect after publication in the Federal Register and the maximum additional period for which such regulations may be promulgated, and inserted a provision that emergency regulations promulgated under par. (2) may only be terminated early upon the agreement of the Secretary and the Council concerned.
+Subsec. (e). Pub. L. 97–453, §8(3), substituted provision that if the Secretary finds that an emergency exists involving any fishery, he may promulgate emergency regulations necessary to address the emergency, without regard to whether a fishery management plan exists for such fishery, that if a Council finds that an emergency exists involving any fishery within its jurisdiction, whether or not a fishery management plan exists for such fishery, the Secretary shall promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by unanimous vote of the members who are voting members, requests the taking of such action, and the Secretary may promulgate emergency regulations under paragraph (1) to address the emergency if the Council, by less than a unanimous vote, requests the taking of such action, for provision that if the Secretary found that an emergency involving any fishery resources existed, he could promulgate emergency regulations, without regard to former subsections (a) and (c) of this section, to implement any fishery management plan, if required, or promulgate emergency regulations to amend any regulation implementing any existing fishery management plan, to the extent required by such emergency, lengthened from 45 days to 90 days the maximum period that emergency regulations may remain in effect after publication in the Federal Register and the maximum additional period for which such regulations may be promulgated, and inserted a provision that emergency regulationspromulgated under par. (2) may only be terminated early upon the agreement of the Secretary and the Council concerned.
 
 Subsec. (f). Pub. L. 97–453, §8(4), struck out subsec. (f) which had directed the Secretary to report to the Congress and the President, not later than March 1 of each year, on all activities of the Councils and the Secretary with respect to fishery management plans, regulations to implement such plans, and all other activities relating to the conservation and management of fishery resources undertaken under this chapter during the preceding calendar year.
 
@@ -460,7 +460,7 @@ For termination of Administrative Conference of United States, see provision of 
 
 #### No Interruption of Existing Allocations
 
-Pub. L. 109–241, title IV, §416(b), July 11, 2006, 120 Stat. 545, provided that: "The amendment made by subsection (a) \[amending this section\] shall not be construed or implemented in a way that causes any interruption in the allocations of fishery resources to thewestern Alaska community development quota program or in the opportunity of an entity participating in that program to harvest its share of such allocations."
+Pub. L. 109–241, title IV, §416(b), July 11, 2006, 120 Stat. 545, provided that: "The amendment made by subsection (a) \[amending this section\] shall not be construed or implemented in a way that causes any interruption in the allocations of fishery resources to the western Alaska community development quota program or in the opportunity of an entity participating in that program to harvest its share of such allocations."
 
 #### Eligibility To Participate in Western Alaska Community Development Quota Program
 

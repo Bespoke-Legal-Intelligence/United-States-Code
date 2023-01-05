@@ -148,7 +148,7 @@ Pub. L. 102–195, §21(b), Dec. 9, 1991, 105 Stat. 1616, provided that: "The Co
 
 &emsp;"(5) the testing of uniformed personnel of the Armed Forces has shown that the most effective deterrent to abuse of alcohol and use of illegal drugs is increased testing, including random testing;
 
-&emsp;"(6) adequate safeguards can be implemented to ensure that testing for abuse of alcohol or use of illegal drugs is performed in a manner which protects an individual's right of privacy, ensures that no individual is harassed by being treated differently from other individuals, and ensures that no individual's reputation or career development is unduly threatened or harmed; and
+&emsp;"(6) adequate safeguards can be implemented to ensure that testing for abuse of alcohol or use of illegaldrugs is performed in a manner which protects an individual's right of privacy, ensures that no individual is harassed by being treated differently from other individuals, and ensures that no individual's reputation or career development is unduly threatened or harmed; and
 
 &emsp;"(7) rehabilitation is a critical component of any testing program for abuse of alcohol or use of illegal drugs, and should be made available to individuals, as appropriate."
 

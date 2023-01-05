@@ -8,7 +8,7 @@ Upon completion of the additional office building for the United States Senate, 
 
 #### References in Text
 
-Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in text, was in the original a reference to the Act of July 31, 1946, ch. 707, 60 Stat. 718. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under section 1961 of this title. Sections 1 to 8, 10 to 13, and 16(a) of the Act, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding section 101 of Title 40, provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
+Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in text, was in the original a reference to the Act of July 31, 1946, ch. 707, 60 Stat. 718. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under section 1961 of this title. Sections 1 to 8, 10 to 13, and 16(a) of theAct, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding section 101 of Title 40, provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
 
 Sections 2023 and 2024 of this title, referred to in text, was in the original a reference to "the Act of June 8, 1942 (U.S.C., title 40, sec. 174(c) and (d))", which, to reflect the probable intent of Congress, was translated as meaning the provisions of the act of June 8, 1942, ch. 396, 56 Stat. 330, which were classified to sections 174c and 174d of former Title 40, Public Buildings, Property, and Works. Sections 174c and 174d of former Title 40 have been transferred to sections 2023 and 2024, respectively, of this title.
 
@@ -62,7 +62,7 @@ Authorization.—There is authorized to be appropriated to the account under the
 
 "(f)
 
-Use of Property.—The real property, and improvements thereon, acquired in accordance with subsection (a) shall be available to the Sergeant at Arms and Doorkeeper of the Senate for use as a residential facility for United States Senate Pages, and for suchother purposes as the Senate Committee on Rules and Administration may provide."
+Use of Property.—The real property, and improvements thereon, acquired in accordance with subsection (a) shall be available to the Sergeant at Arms and Doorkeeper of the Senate for use as a residential facility for United States Senate Pages, and for such other purposes as the Senate Committee on Rules and Administration may provide."
 
 #### Authorization of Architect of Capitol To Lease City Post Office Building for Use by Senate and for Other Purposes
 
@@ -82,7 +82,7 @@ Pub. L. 101–520, title I, §107, Nov. 5, 1990, 104 Stat. 2267, provided that:
 
 "(b) Notwithstanding any other provision of law, property leased under authority of subsection (a) shall be maintained by the Architect of the Capitol as part of the 'Senate Office Buildings' subject to the laws, rules, and regulations governing such buildings, and the Architect is authorized to incur such expenses as may be necessary to provide for such occupancy.
 
-"(c) There is hereby authorized to be appropriated to the 'Architect of the Capitol, Senate Office Buildings' such sums as may be necessary to carry out the provisions of subsections (a) and (b).
+"(c) There is hereby authorized to be appropriated to the 'Architect of the Capitol, Senate Office Buildings'such sums as may be necessary to carry out the provisions of subsections (a) and (b).
 
 "(d) There is authorized to be appropriated to the Sergeant at Arms of the United States Senate such sums as may be necessary to provide for the planning and relocation of offices and equipment to the property described in subsection (a), subject to direction by the Committee on Rules and Administration.
 

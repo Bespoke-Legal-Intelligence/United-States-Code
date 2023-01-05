@@ -30,7 +30,7 @@ In this subchapter:
 
 #### (B) Time extension
 
-&emsp;&emsp;Under subparagraph (A)(ii)(I)(bb), an eligible entity may transfer land later than 3 years after the date of acquisition of the agricultural land easement if the Secretary determines an extension of time is justified.
+&emsp;&emsp;Under subparagraph (A)(ii)(I)(bb), an eligible entity may transfer land later than 3years after the date of acquisition of the agricultural land easement if the Secretary determines an extension of time is justified.
 
 #### (3) Eligible entity
 

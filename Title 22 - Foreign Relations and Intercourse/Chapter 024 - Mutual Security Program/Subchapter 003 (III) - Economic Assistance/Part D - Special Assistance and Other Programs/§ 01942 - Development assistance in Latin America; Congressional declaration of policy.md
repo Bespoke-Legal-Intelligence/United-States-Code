@@ -28,7 +28,7 @@
 
 &emsp;(5) favors the progressive development of common standards with respect to the rights and the responsibilities of private investment which flows across national boundaries within the Western Hemisphere;
 
-&emsp;(6) supports the consolidation of the public institutions and agencies of inter-Americancooperation, insofar as feasible, within the structure of the Organization of American States and the strengthening of the personnel resources and authority of the Organization in order that it may play a role of increasing importance in all aspects of hemispheric cooperation; and
+&emsp;(6) supports the consolidation of the public institutions and agencies of inter-American cooperation, insofar as feasible, within the structure of the Organization of American States and the strengthening of the personnel resources and authority of the Organization in order that it may play a role of increasing importance in all aspects of hemispheric cooperation; and
 
 &emsp;(7) declares that it is prepared to give careful and sympathetic consideration to programs which the President may develop for the purpose of promoting these policies.
 
@@ -52,7 +52,7 @@ Pub. L. 93–189, §36, Dec. 17, 1973, 87 Stat. 734, as amended by Pub. L. 97–
 
 "(a) The President or his delegate shall seek, as soon as possible a revision of the Social Progress Trust Fund Agreement (dated June 19, 1961) between the United States and the Inter-American Development Bank. Such revision should provide for the—
 
-&emsp;"(1) periodic transfer of unencumbered capital resources of such trust fund, and of any future repayments or other accruals otherwise payable to such trust fund, to the Inter-American Foundation, to be administered by the Foundation for purposes of part IV of the Foreign Assistance Act of 1969 (22 U.S.C. 290f and following);
+&emsp;"(1) periodic transfer of unencumbered capital resources of such trust fund, and of any future repayments or other accruals otherwise payable to such trust fund, to the Inter-American Foundation, to be administered by the Foundation for purposes of partIV of the Foreign Assistance Act of 1969 (22 U.S.C. 290f and following);
 
 &emsp;"(2) utilization of such unencumbered capital resources, future repayments, and other accruals by the Inter-American Development Bank for purposes of sections 1 and 2 of the Latin American Development Act (22 U.S.C. 1942 and 1943) in such a way that the resources received in the currencies of the more developed member countries are utilized to the extent possible for the benefit of the lesser developed member countries; or
 

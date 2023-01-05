@@ -10,7 +10,7 @@ In carrying out the study, the Secretary shall utilize to the greatest extent pr
 
 #### (c) Adequacy of access facilities
 
-The study shall address the adequacy of access facilities for members of the public who desire to visit and enjoy the Park. Consideration shall be given to alternatives for alleviating the dependence on automobile transportation. The study of public transportation facilities shall cover the distance from cities of thirty-five thousand population or more within fifty miles of the Park.
+The study shall address the adequacy of access facilities for members of the public who desireto visit and enjoy the Park. Consideration shall be given to alternatives for alleviating the dependence on automobile transportation. The study of public transportation facilities shall cover the distance from cities of thirty-five thousand population or more within fifty miles of the Park.
 
 #### (d) Access proposals; retention of Park values
 

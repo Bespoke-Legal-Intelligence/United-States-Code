@@ -118,7 +118,7 @@ Section was formerly classified to section 2091 of the former Appendix to this t
 
 #### Prior Provisions
 
-A prior section 301 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 800; June 30, 1953, ch. 171, §4, 67 Stat. 129; Pub. L. 91–379, title I, §104, Aug. 15, 1970, 84 Stat. 799; Pub. L. 96–294, title I, §104(a), (b), June 30, 1980, 94 Stat. 618; Pub. L. 98–265, §§3(a), 4(a), Apr. 17, 1984, 98 Stat. 149, 150; Pub. L. 102–558, title I, §§121(a), 141, Oct. 28, 1992, 106 Stat. 4203, 4217; Pub. L. 107–47, §4(1)–(3), (5), Oct. 5, 2001, 115 Stat. 260, related to loan guarantees, prior to the general amendment of title III of this Act by Pub. L. 111–67.
+A prior section 301 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 800; June 30, 1953, ch. 171, §4, 67 Stat. 129;Pub. L. 91–379, title I, §104, Aug. 15, 1970, 84 Stat. 799; Pub. L. 96–294, title I, §104(a), (b), June 30, 1980, 94 Stat. 618; Pub. L. 98–265, §§3(a), 4(a), Apr. 17, 1984, 98 Stat. 149, 150; Pub. L. 102–558, title I, §§121(a), 141, Oct. 28, 1992, 106 Stat. 4203, 4217; Pub. L. 107–47, §4(1)–(3), (5), Oct. 5, 2001, 115 Stat. 260, related to loan guarantees, prior to the general amendment of title III of this Act by Pub. L. 111–67.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -141,6 +141,62 @@ Designation.—The Secretary of the Air Force shall continue to serve as the sol
 "(c)
 
 Date Specified.—The date specified in this subsection is the date of the enactment of a joint resolution or an Act approving the implementation of the decision described in subsection (a)."
+
+Pub. L. 115–91, div. A, title II, §226, Dec. 12, 2017, 131 Stat. 1335, as amended by Pub. L. 117–263, div. A, title II, §214, Dec. 23, 2022, 136 Stat. 2471, provided that:
+
+"(a)
+
+Limitation on Cancellation of Designation.—The Secretary of Defense may not implement the decision, issued on July 1, 2017, to cancel the designation, under Department of Defense Directive 4400.1E, entitled 'Defense Production Act Programs' and dated October 12, 2001, of the currently assigned Department of Defense Executive Agent for the program carried out under title III of the Defense Production Act of 1950 (50 U.S.C. 4531 et seq.) until the Secretary has—
+
+&emsp;"(1) completed the review and assessment required by subsection (b)(1); and
+
+&emsp;"(2) carried out the briefing required by subsection (c).
+
+"(b)
+
+Review and Assessment Required.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense, in consultation with the Secretary of the Air Force, shall conduct a review and assessment of the program described in subsection (a).
+
+&emsp;"(2)
+
+Elements.—The review and assessment required by paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) Assessment of the current management structure for the program, including analysis of the mechanisms for accountability, as well as cost and management controls currently in place.
+
+&emsp;&emsp;"(B) Analysis of alternatives for proposals to modify that management structure to increase accountability, cost and management controls. Such analysis of alternatives should consider the relative merits of centralization and decentralization, roles of other military departments in program management and contracting, as well as the different roles the Office of the Secretary of Defense might play in management, oversight and execution.
+
+&emsp;&emsp;"(C) Recommendations for improving the assessment and selection of projects in order to—
+
+&emsp;&emsp;&emsp;"(i) ensure that projects selected are appropriate for use of funds appropriated to carry out title III of the Defense Production Act of 1950;
+
+&emsp;&emsp;&emsp;"(ii) ensure that sufficient vetting and management controls are in place to ensure a reasonable degree of confidence that project ideas or the companies being supported will be viable; and
+
+&emsp;&emsp;&emsp;"(iii) increase overall successful execution for selected projects.
+
+&emsp;&emsp;"(D) Such other matters as the Secretary considers appropriate.
+
+"(c)
+
+Briefing Required.—The Secretary shall brief the appropriate Committees of Congress on the findings of the Secretary with respect to the review and assessment conducted under subsection (b).
+
+"(d)
+
+Notification Required.—In the event the Secretary of Defense decides to cancel the designation, under Department of Defense Directive 4400.1E, entitled 'Defense Production Act Programs' and dated October 12, 2001, of the currently assigned Department of Defense Executive Agent for the program described in subsection (a), the Secretary shall submit to the appropriate committees of Congress a written notification of such decision at least 60 days before the decision goes into effect.
+
+"(e)
+
+Designation of Other Executive Agents.—Notwithstanding the requirements of this section or section 1792 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 \[Pub. L. 115–232\] (50 U.S.C. 4531 note), the Secretary of Defense may designate one or more Executive Agents within the Department of Defense (other than the Executive Agent described in subsection (a)) to implement Defense Production Act transactions entered into under the authority of sections 4021, 4022, and 4023 of title 10, United States Code.
+
+"(f)
+
+Appropriate Committees of Congress Defined.—In this section, the term 'appropriate committees of Congress' means the—
+
+&emsp;"(1) the \[sic\] Committee on Armed Services and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+
+&emsp;"(2) the \[sic\] Committee on Armed Services and the Committee on Financial Services of the House of Representatives."
 
 #### <b>Executive Documents</b>
 

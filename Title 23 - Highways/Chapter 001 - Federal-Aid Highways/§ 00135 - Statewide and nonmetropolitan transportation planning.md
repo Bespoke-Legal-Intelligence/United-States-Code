@@ -218,7 +218,7 @@ Financial plan.—The statewide transportation plan may include—
 
 &emsp;(6)
 
-Selection of projects from illustrative list.—A State shall not be required to select any project from the illustrative list of additional projects included in the financial plan described in paragraph (5).
+Selection of projects from illustrative list.—A State shall not be required to select any project from the illustrative list ofadditional projects included in the financial plan described in paragraph (5).
 
 &emsp;(7)
 
@@ -476,7 +476,7 @@ Duties.—The duties of a regional transportation planning organization shall in
 
 States without regional transportation planning organizations.—If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
 
-(Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I, §§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I,§1204(a)–(h), June 9, 1998, 112 Stat. 180–184; Pub. L. 109–59, title VI, §6001(a), Aug. 10, 2005, 119 Stat. 1851; Pub. L. 112–141, div. A, title I, §1202(a), July 6, 2012, 126 Stat. 514; Pub. L. 114–94, div. A, title I, §§1104(e)(3), 1202, Dec. 4, 2015, 129 Stat. 1332, 1374; Pub. L. 117–58, div. A, title I, §§11201(b), (c), 11525(g), Nov. 15, 2021, 135 Stat. 517, 607.)
+(Added Pub. L. 90–495, §10(a), Aug. 23, 1968, 82 Stat. 820; amended Pub. L. 91–605, title I, §§106(g), 125, Dec. 31, 1970, 84 Stat. 1718, 1729; Pub. L. 93–87, title I, §119, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §123(a), May 5, 1976, 90 Stat. 439; Pub. L. 102–240, title I, §1025(a), Dec. 18, 1991, 105 Stat. 1962; Pub. L. 103–429, §3(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 105–178, title I, §1204(a)–(h), June 9, 1998, 112 Stat. 180–184; Pub. L. 109–59, title VI, §6001(a), Aug. 10, 2005, 119 Stat. 1851; Pub. L. 112–141, div. A, title I, §1202(a), July 6, 2012, 126 Stat. 514; Pub. L. 114–94, div. A, title I, §§1104(e)(3), 1202, Dec. 4, 2015, 129 Stat. 1332, 1374; Pub. L. 117–58, div. A, title I, §§11201(b), (c), 11525(g), Nov. 15, 2021, 135 Stat. 517, 607.)
 
 #### <b>Editorial Notes</b>
 
@@ -538,7 +538,7 @@ Subsec. (d). Pub. L. 105–178, §1204(d), reenacted heading without change and 
 
 &emsp;"(3) The concerns of Indian tribal governments having jurisdiction over lands within the boundaries of the State."
 
-Subsec. (e). Pub. L. 105–178, §1204(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "The State shall develop a long-range transportation plan for all areas of the State. With respect to metropolitan areas of the State, theplan shall be developed in cooperation with metropolitan planning organizations designated for metropolitan areas in the State under section 134. With respect to areas of the State under the jurisdiction of an Indian tribal government, the plan shall be developed in cooperation with such government and the Secretary of the Interior. In developing the plan, the State shall provide citizens, affected public agencies, representatives of transportation agency employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed plan. In addition, the State shall develop a long-range plan for bicycle transportation and pedestrian walkways for appropriate areas of the State which shall be incorporated into the long-range transportation plan."
+Subsec. (e). Pub. L. 105–178, §1204(e), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "The State shall develop a long-range transportation plan for all areas of the State. With respect to metropolitan areas of the State, the plan shall be developed in cooperation with metropolitan planning organizations designated for metropolitan areas in the State under section 134. With respect to areas of the State under the jurisdiction of an Indian tribal government, the plan shall be developed in cooperation with such government and the Secretary of the Interior. In developing the plan, the State shall provide citizens, affected public agencies, representatives of transportation agency employees, other affected employee representatives, private providers of transportation, and other interested parties with a reasonable opportunity to comment on the proposed plan.In addition, the State shall develop a long-range plan for bicycle transportation and pedestrian walkways for appropriate areas of the State which shall be incorporated into the long-range transportation plan."
 
 Subsec. (f). Pub. L. 105–178, §1204(f), amended heading and text of subsec. (f) generally. Prior to amendment, text related to transportation improvement programs, including program development, requirement for inclusion of certain projects for State transportation improvement program, project selection for areas less than 50,000 population, and requirement of biennial review and approval.
 
@@ -620,11 +620,11 @@ Program application.—The purpose of the program is to assist State departments
 
 Required Activities.—The Secretary \[of Transportation\] shall use funds made available to carry out this section to—
 
-&emsp;"(1) provide funding to State departments of transportation and metropolitan planning organizationsserving transportation management areas designated under chapter 52 \[53\] of title 49, United States Code, representing a diversity of populations, geographic regions, and analytic needs to implement TRANSIMS;
+&emsp;"(1) provide funding to State departments of transportation and metropolitan planning organizations serving transportation management areas designated under chapter 52 \[53\] of title 49, United States Code, representing a diversity of populations, geographic regions, and analytic needs to implement TRANSIMS;
 
 &emsp;"(2) develop methods to demonstrate a wide spectrum of TRANSIMS applications to support local, metropolitan, statewide transportation planning, including integrating highway and transit operational considerations into the transportation Planning process, and estimating the effects of induced travel demand and transit ridership in making transportation conformity determinations where applicable;
 
-&emsp;"(3) provide training and technical assistance with respect to the implementation and application of TRANSIMS to States, local governments, and metropolitan planning organizations with responsibility for travel modeling;
+&emsp;"(3) provide training and technical assistance with respect to the implementation and application ofTRANSIMS to States, local governments, and metropolitan planning organizations with responsibility for travel modeling;
 
 &emsp;"(4) to further develop TRANSIMS for additional applications, including—
 

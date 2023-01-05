@@ -22,7 +22,7 @@ Notwithstanding any other provision of subtitle IV of title 49, in any proceedin
 
 #### References in Text
 
-Section 77 of the Bankruptcy Act, referred to in subsec. (a), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
+Section 77 of the Bankruptcy Act, referred to in subsec. (a), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
 #### Amendments
 
@@ -30,7 +30,7 @@ Section 77 of the Bankruptcy Act, referred to in subsec. (a), was classified to 
 
 <b>1983</b>—Subsec. (c)(1). Pub. L. 97–468, §510(1), substituted "bankruptcy or substantial sale" for "bankruptcy, substantial sale," after "in the event of", and in last sentence substituted permission for the Secretary to substitute contingency notes for evidence of the debt for the requirement that the Secretary substitute contingency notes for evidence of the debt and inserted provision that the contingency notes be payable solely from the railroad operating assets then securing such debt, including reinvestments thereof, or be other contingency notes as the Secretary deems appropriate.
 
-Subsec. (c)(2). Pub. L. 97–468, §510(2), substituted permission that new debt may have such higher priority in the event of bankruptcy, liquidation, or abandonment of the assets of such a railroad than the debt described in par. (1) as the Secretary and the railroad may agree for the requirement that such debt have higher priority in the event of bankruptcy, liquidation, or abandonment of the assets of Conrail than the debt described in par. (1).
+Subsec. (c)(2). Pub. L. 97–468, §510(2), substituted permission that new debt may have such higher priority in the event of bankruptcy, liquidation, or abandonment of the assets of such a railroad than the debt described in par. (1) as the Secretary and the railroad may agreefor the requirement that such debt have higher priority in the event of bankruptcy, liquidation, or abandonment of the assets of Conrail than the debt described in par. (1).
 
 Subsec. (c)(3). Pub. L. 97–468, §510(3), added par. (3).
 

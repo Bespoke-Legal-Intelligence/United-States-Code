@@ -8,7 +8,7 @@ For purposes of this subchapter—
 
 &emsp;(3) The term "loan guarantee" means any guarantee, insurance, or other pledge with respect to the payment of all or a part of the principal or interest on any debt obligation of a non-Federal borrower to a non-Federal lender, but does not include the insurance of deposits, shares, or other withdrawable accounts in financial institutions.
 
-&emsp;(4) The term "loan guarantee commitment" means a binding agreement by a Federal agency to make a loan guarantee when specified conditions are fulfilled by the borrower, the lender, or any other party to the guarantee agreement.
+&emsp;(4) The term "loan guarantee commitment" means a binding agreement by a Federal agency to make a loan guarantee when specified conditions are fulfilled by the borrower, thelender, or any other party to the guarantee agreement.
 
 &emsp;(5)(A) The term "cost" means the estimated long-term cost to the Government of a direct loan or loan guarantee or modification thereof, calculated on a net present value basis, excluding administrative costs and any incidental effects on governmental receipts or outlays.
 
@@ -44,7 +44,7 @@ For purposes of this subchapter—
 
 > &emsp;These accounts shall be shown in the budget on a cash basis.
 
-&emsp;(9) The term "modification" means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse,and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
+&emsp;(9) The term "modification" means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
 
 &emsp;(10) The term "current" has the same meaning as in section 900(c)(9) of this title.
 
@@ -80,7 +80,7 @@ Par. (5)(B), (C). Pub. L. 105–33, §10117(a)(3), added subpars. (B) and (C) an
 
 &emsp;"(ii) the estimated payments to the Government including origination and other fees, penalties and recoveries."
 
-Par. (5)(D). Pub. L. 105–33, §10117(a)(4), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "Any Government action that alters the estimated net present value of an outstanding direct loan or loan guarantee (except modifications within the terms of existing contracts or through other existing authorities) shall be counted as a change in the cost of that direct loan or loan guarantee. The calculation of such changes shall be based on the estimated present value of the direct loan or loan guarantee at the time of modification."
+Par. (5)(D). Pub. L. 105–33, §10117(a)(4), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "Any Government action that altersthe estimated net present value of an outstanding direct loan or loan guarantee (except modifications within the terms of existing contracts or through other existing authorities) shall be counted as a change in the cost of that direct loan or loan guarantee. The calculation of such changes shall be based on the estimated present value of the direct loan or loan guarantee at the time of modification."
 
 Par. (5)(E). Pub. L. 105–33, §10117(a)(5), inserted "the cash flows of" after "similar maturity to".
 

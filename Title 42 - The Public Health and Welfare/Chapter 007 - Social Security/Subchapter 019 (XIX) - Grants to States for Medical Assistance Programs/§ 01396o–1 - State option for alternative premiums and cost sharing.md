@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding sections 1396o and 1396a(a)(10)(B) of this title, but subject to paragraph (2), a State, at its option andthrough a State plan amendment, may impose premiums and cost sharing for any group of individuals (as specified by the State) and for any type of services (other than drugs for which cost sharing may be imposed under subsection (c) and non-emergency services furnished in a hospital emergency department for which cost sharing may be imposed under subsection (e)), and may vary such premiums and cost sharing among such groups or types, consistent with the limitations established under this section. Nothing in this section shall be construed as superseding (or preventing the application of) subsection (g), (i), or (j) of section 1396o of this title.
+&emsp;Notwithstanding sections 1396o and 1396a(a)(10)(B) of this title, but subject to paragraph (2), a State, at its option and through a State plan amendment, may impose premiums and cost sharing for any group of individuals (as specified by the State) and for any type of services (other than drugs for which cost sharing may be imposed under subsection (c) and non-emergency services furnished in a hospital emergency department for which cost sharing may be imposed under subsection (e)), and may vary such premiums and cost sharing among such groups or types, consistent with the limitations established under this section. Nothing in this section shall be construed as superseding (or preventing the application of) subsection (g), (i), or (j) of section 1396o of this title.
 
 #### (2) Exemption for individuals with family income not exceeding 100 percent of the poverty line
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;Subject to the succeeding provisions of this section, no cost sharing shall be imposed under subsection (a) with respect to the following:
 
-&emsp;&emsp;&emsp;(i) Services furnished to individuals under 18 years of age that are required tobe provided medical assistance under section 1396a(a)(10)(A)(i) of this title, and including services furnished to individuals with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or and <sup>1</sup> individuals with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age.
+&emsp;&emsp;&emsp;(i) Services furnished to individuals under 18 years of age that are required to be provided medical assistance under section 1396a(a)(10)(A)(i) of this title, and including services furnished to individuals with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or and <sup>1</sup> individuals with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age.
 
 &emsp;&emsp;&emsp;(ii) Preventive services (such as well baby and well child care and immunizations) provided to children under 18 years of age regardless of family income.
 
@@ -126,7 +126,7 @@
 
 #### (1) In general
 
-&emsp;In order to encourage beneficiaries to use drugs (in this subsection referred to as "preferred drugs") identified by the State as the most (or more) cost effective prescription drugs within a class of drugs (as defined by the State), with respect to one or more groups ofbeneficiaries specified by the State, subject to paragraph (2), the State may—
+&emsp;In order to encourage beneficiaries to use drugs (in this subsection referred to as "preferred drugs") identified by the State as the most (or more) cost effective prescription drugs within a class of drugs (as defined by the State), with respect to one or more groups of beneficiaries specified by the State, subject to paragraph (2), the State may—
 
 &emsp;&emsp;(A) provide cost sharing (instead of the level of cost sharing otherwise permitted under section 1396o of this title, but subject to paragraphs (2) and (3)) with respect to drugs that are not preferred drugs within a class; and
 
@@ -226,11 +226,21 @@
 
 &emsp;&emsp;The term "alternative non-emergency services provider" means, with respect to non-emergency services for the diagnosis or treatment of a condition, a health care provider, such as a physician's office, health care clinic, community health center, hospital outpatient department, or similar health care provider, that can provide clinically appropriate services for the diagnosis or treatment of a condition contemporaneously with the provision of the non-emergency services that would be provided in an emergency department of a hospital for the diagnosis or treatment of a condition, and that is participating in the program under this subchapter.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1916A, as added and amended Pub. L. 109–171, title VI, §§6041(a), 6042(a), 6043(a), Feb. 8, 2006, 120 Stat. 81, 85, 86; Pub. L. 109–432, div. B, title IV, §405(a)(1)–(5), Dec. 20, 2006, 120 Stat. 2996–2998; Pub. L. 111–5, div. B, title V, §5006(a)(2), Feb. 17, 2009, 123 Stat. 506; Pub. L. 111–148, title II, §2102(b), title IV, §4107(c)(2), Mar. 23, 2010, 124 Stat. 289, 561; Pub. L. 116–127, div. F, §6004(a)(2)(B), Mar. 18, 2020, 134 Stat. 205; Pub. L. 117–2, title IX, §9811(a)(3)(B), Mar. 11, 2021, 135 Stat. 210.)
+(Aug. 14, 1935, ch. 531, title XIX, §1916A, as added and amended Pub. L. 109–171, title VI, §§6041(a), 6042(a), 6043(a), Feb. 8, 2006, 120 Stat. 81, 85, 86; Pub. L. 109–432, div. B, title IV, §405(a)(1)–(5), Dec. 20, 2006, 120 Stat. 2996–2998; Pub. L. 111–5, div. B, title V, §5006(a)(2), Feb. 17, 2009, 123 Stat. 506; Pub. L. 111–148, title II, §2102(b), title IV, §4107(c)(2), Mar. 23, 2010, 124 Stat. 289, 561; Pub. L. 116–127, div. F, §6004(a)(2)(B), Mar. 18, 2020, 134 Stat. 205; Pub. L. 117–2, title IX, §9811(a)(3)(B), Mar. 11, 2021, 135 Stat. 210; Pub. L. 117–169, title I, §11405(a)(2)(B), Aug. 16, 2022, 136 Stat. 1900.)
+
+#### Amendment of Subsection (b)(3)(B)
+
+<i>Pub. L. 117–169, title I, §11405(a)(2)(B), (c), Aug. 16, 2022, 136 Stat. 1900, 1901, provided that, effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022, and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, subsection (b)(3)(B) of this section is amended by adding at the end the following new clause:</i>
+
+&emsp;&emsp;&emsp;<i>(xiv) Vaccines described in section 1396d(a)(13)(B) of this title and the administration of such vaccines.</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3)(B)(xiv). Pub. L. 117–169 added cl. (xiv).
 
 <b>2021</b>—Subsec. (b)(3)(B)(xi). Pub. L. 117–2, §9811(a)(3)(B)(i), substituted "any service" for "any visit".
 
@@ -287,6 +297,10 @@ Pub. L. 109–432, §405(a)(1)(D), inserted "under subsection (a)(2)(B) or" afte
 Subsec. (e)(4)(A). Pub. L. 109–432, §405(a)(5), struck out "the physician determines" after "a hospital that".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–169 effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022 and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, see section 11405(c) of Pub. L. 117–169, set out as a note under section 1396a of this title.
 
 #### Effective Date of 2010 Amendment
 

@@ -30,7 +30,7 @@ For purposes of this section:
 
 #### (2) Existing dam or conduit
 
-&emsp;The term "existing dam or conduit" means any dam or conduit the construction of whichwas completed before November 15, 2021, and which does not require any construction or enlargement of impoundment or diversion structures (other than repair or reconstruction) in connection with the installation of a turbine or other generating device.
+&emsp;The term "existing dam or conduit" means any dam or conduit the construction of which was completed before November 15, 2021, and which does not require any construction or enlargement of impoundment or diversion structures (other than repair or reconstruction) in connection with the installation of a turbine or other generating device.
 
 #### (3) Conduit
 

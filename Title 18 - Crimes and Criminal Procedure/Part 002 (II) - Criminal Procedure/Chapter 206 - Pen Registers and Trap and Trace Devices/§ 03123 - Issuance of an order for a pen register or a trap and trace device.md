@@ -12,7 +12,7 @@ Attorney for the government.—Upon an application made under section 3122(a)(1)
 
 State investigative or law enforcement officer.—Upon an application made under section 3122(a)(2), the court shall enter an ex parte order authorizing the installation and use of a pen register or trap and trace device within the jurisdiction of the court, if the court finds that the State law enforcement or investigative officer has certified to the court that the information likely to be obtained by such installation and use is relevant to an ongoing criminal investigation.
 
-&emsp;(3)(A) Where the law enforcement agency implementing an ex parte order under this subsection seeks to do so by installing and using its own pen register or trap and trace device on a packet-switched data network of a provider of electronic communication service to the public, the agency shall ensure that a record will be maintained which will identify—
+&emsp;(3)(A) Where the law enforcement agency implementing an ex parte order under this subsection seeks to do so by installing and using its own pen register or trap and trace deviceon a packet-switched data network of a provider of electronic communication service to the public, the agency shall ensure that a record will be maintained which will identify—
 
 &emsp;&emsp;(i) any officer or officers who installed the device and any officer or officers who accessed the device to obtain information from the network;
 

@@ -30,7 +30,7 @@ Procedures for Medical and Administrative Exemptions From Anthrax Vaccine Immuni
 
 (c)
 
-System for Monitoring Adverse Reactions to Anthrax Vaccine.—(1) The Secretaryshall establish a system for monitoring adverse reactions of members of the armed forces to the anthrax vaccine. That system shall include the following:
+System for Monitoring Adverse Reactions to Anthrax Vaccine.—(1) The Secretary shall establish a system for monitoring adverse reactions of members of the armed forces to the anthrax vaccine. That system shall include the following:
 
 &emsp;(A) Independent review of Vaccine Adverse Event Reporting System reports.
 

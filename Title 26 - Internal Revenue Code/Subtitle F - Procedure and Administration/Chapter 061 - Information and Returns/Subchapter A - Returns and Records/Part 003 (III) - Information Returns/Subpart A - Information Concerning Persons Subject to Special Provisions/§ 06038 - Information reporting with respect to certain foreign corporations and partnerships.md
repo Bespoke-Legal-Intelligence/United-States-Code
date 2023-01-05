@@ -104,7 +104,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) subparagraphs (A), (B), and (C) of section 318(a)(3) shall not be applied so as to consider a United States person as owning stock which is owned by a person who is not a United States person, and
 
-&emsp;&emsp;(B) in applying subparagraph (C) of section 318(a)(2), the phrase "10 percent" shall besubstituted for the phrase "50 percent" used in subparagraph (C).
+&emsp;&emsp;(B) in applying subparagraph (C) of section 318(a)(2), the phrase "10 percent" shall be substituted for the phrase "50 percent" used in subparagraph (C).
 
 #### (3) Partnership-related definitions
 
@@ -222,7 +222,7 @@ Subsec. (a)(2). Pub. L. 87–834 substituted provisions requiring the informatio
 
 Subsec. (a)(3). Pub. L. 87–834 struck out provisions which related to foreign subsidiaries.
 
-Subsec. (b). Pub. L. 87–834, among other changes, substituted "If a United States person fails to furnish" for "If a domestic corporation fails to furnish" in the opening provisions, inserted provisions relating to reduction of taxes in applying sections 901 and 960 of this title, to the maximum amount of reduction under par. (1) for each failure to furnish information with respect to a foreign corporation required under subsec. (a)(1), and making the reduction provided by subsec. (b) inapplicable, in applying subsecs. (a) and (b) of section 902 and subsec. (a) of section 960, for purposes of determining the amount of accumulated profits in excess of income, war profits, and excess profits taxes, and eliminated provisions which related to the furnishing of information with respect to foreign subsidiaries.
+Subsec. (b). Pub. L. 87–834, among other changes, substituted "If a United States person fails to furnish" for"If a domestic corporation fails to furnish" in the opening provisions, inserted provisions relating to reduction of taxes in applying sections 901 and 960 of this title, to the maximum amount of reduction under par. (1) for each failure to furnish information with respect to a foreign corporation required under subsec. (a)(1), and making the reduction provided by subsec. (b) inapplicable, in applying subsecs. (a) and (b) of section 902 and subsec. (a) of section 960, for purposes of determining the amount of accumulated profits in excess of income, war profits, and excess profits taxes, and eliminated provisions which related to the furnishing of information with respect to foreign subsidiaries.
 
 Subsec. (c). Pub. L. 87–834 substituted provisions empowering the Secretary to provide for the furnishing of information by only one person where two or more persons would be required to furnish information under subsec. (a) with respect to the same foreign corporation for the same period for provisions which required a domestic corporation if at any time during its taxable year owned more than 50 percent of the voting stock of a foreign corporation to be deemed to be in control of such foreign corporation, and in the case of a foreign corporation if at any time during its annual accounting period owned more than 50 percent of the voting stock of another foreign corporation, that such other corporation shall be considered a foreign subsidiary of the corporation owning such stock. The provisions relating to control are now contained in subsec. (d) of this section.
 
@@ -254,7 +254,7 @@ Pub. L. 101–239, title VII, §7712(b), Dec. 19, 1989, 103 Stat. 2394, provided
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1202(c) of Pub. L. 99–514 applicable to distributions by foreign corporations out of,and to inclusions under section 951(a) of this title attributable to, earnings and profits for taxable years beginning after Dec. 31, 1986, see section 1202(e) of Pub. L. 99–514, set out as a note under section 960 of this title.
+Amendment by section 1202(c) of Pub. L. 99–514 applicable to distributions by foreign corporations out of, and to inclusions under section 951(a) of this title attributable to, earnings and profits for taxable years beginning after Dec. 31, 1986, see section 1202(e) of Pub. L. 99–514, set out as a note under section 960 of this title.
 
 Amendment by section 1245(b)(5) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 1245(c) of Pub. L. 99–514, set out as a note under section 6038A of this title.
 

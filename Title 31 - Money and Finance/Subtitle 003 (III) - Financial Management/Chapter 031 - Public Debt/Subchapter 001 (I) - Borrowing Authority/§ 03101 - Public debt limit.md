@@ -10,7 +10,7 @@
 
 &emsp;(2) the portion of the discount on the obligation attributable to periods before the beginning of such month (as determined under the principles of section 1272(a) of the Internal Revenue Code of 1986 without regard to any exceptions contained in paragraph (2) of such section).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475, Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875; Pub. L. 105–33, title V, §5701, Aug. 5, 1997, 111 Stat. 648; Pub. L. 107–199, §1, June 28, 2002, 116 Stat. 734; Pub. L. 108–24, May 27, 2003, 117 Stat. 710; Pub. L. 108–415, §1, Nov. 19, 2004, 118 Stat. 2337; Pub. L. 109–182, Mar. 20, 2006, 120 Stat. 289; Pub. L. 110–91, Sept. 29, 2007, 121 Stat. 988; Pub. L. 110–289, div. C, title III, §3083, July 30, 2008, 122 Stat. 2908; Pub. L. 110–343, div. A, title I, §122, Oct. 3, 2008, 122 Stat. 3790; Pub. L. 111–5, div. B, title I, §1604, Feb. 17, 2009, 123 Stat. 366; Pub. L. 111–123, §1, Dec. 28, 2009, 123 Stat. 3483; Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8; Pub. L. 112–25, title III, §301(a)(1), Aug. 2, 2011, 125 Stat. 251.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 938; Pub. L. 98–34, §1(a), May 26, 1983, 97 Stat. 196; Pub. L. 98–161, Nov. 21, 1983, 97 Stat. 1012; Pub. L. 98–342, §1(a), July 6, 1984, 98 Stat. 313; Pub. L. 98–475,Oct. 13, 1984, 98 Stat. 2206; Pub. L. 99–177, §1, Dec. 12, 1985, 99 Stat. 1037; Pub. L. 99–384, Aug. 21, 1986, 100 Stat. 818; Pub. L. 100–119, §1, Sept. 29, 1987, 101 Stat. 754; Pub. L. 101–72, §2, Aug. 7, 1989, 103 Stat. 182; Pub. L. 101–140, §1, Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–508, title XI, §11901\[(a)\], Nov. 5, 1990, 104 Stat. 1388–560; Pub. L. 103–66, title XIII, §13411(a), Aug. 10, 1993, 107 Stat. 565; Pub. L. 104–121, title III, §301, Mar. 29, 1996, 110 Stat. 875; Pub. L. 105–33, title V, §5701, Aug. 5, 1997, 111 Stat. 648; Pub. L. 107–199, §1, June 28, 2002, 116 Stat. 734; Pub. L. 108–24, May 27, 2003, 117 Stat. 710; Pub. L. 108–415, §1, Nov. 19, 2004, 118 Stat. 2337; Pub. L. 109–182, Mar. 20, 2006, 120 Stat. 289; Pub. L. 110–91, Sept. 29, 2007, 121 Stat. 988; Pub. L. 110–289, div. C, title III, §3083, July 30, 2008, 122 Stat. 2908; Pub. L. 110–343, div. A, title I, §122, Oct. 3, 2008, 122 Stat. 3790; Pub. L. 111–5, div. B, title I, §1604, Feb. 17, 2009, 123 Stat. 366; Pub. L. 111–123, §1, Dec. 28, 2009, 123 Stat. 3483; Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8; Pub. L. 112–25, title III, §301(a)(1), Aug. 2, 2011, 125 Stat. 251.)
 
 Historical and Revision Notes
 
@@ -312,7 +312,7 @@ Proceeding to consideration.—After each committee authorized to consider a joi
 
 &emsp;&emsp;"(C)
 
-Consideration.—The joint resolution shall be considered as read. All points of order againstthe joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except 2 hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+Consideration.—The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except 2 hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
 
 &emsp;"(3)
 
@@ -320,7 +320,7 @@ Expedited procedure in senate.—
 
 &emsp;&emsp;"(A)
 
-Reconvening.—Upon receipt of a certification under subsection (b), if the Senate would otherwise be adjourned, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify the Members of the Senate that, pursuant to this subsection, the Senate shall convene not later than the thirteenth calendar day after receipt of such certification.
+Reconvening.—Upon receipt of a certification under subsection (b), if the Senate would otherwise be adjourned, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify the Members of the Senate that, pursuant to this subsection, the Senateshall convene not later than the thirteenth calendar day after receipt of such certification.
 
 &emsp;&emsp;"(B)
 
@@ -414,7 +414,7 @@ Pub. L. 104–115, §1(a)–(c), Mar. 12, 1996, 110 Stat. 825, authorized Secret
 
 #### Timely Payment of March 1996 Social Security Benefits Guaranteed
 
-Pub. L. 104–103, §1, Feb. 8, 1996, 110 Stat. 55, as amended by Pub. L. 104–115, §1(d), Mar. 12, 1996, 110 Stat. 825,authorized Secretary of the Treasury to issue, before Mar. 1, 1996, obligations of United States under this chapter in amount equal to monthly insurance benefits payable in March 1996 under title II of Social Security Act (42 U.S.C. 401 et seq.), exempted such obligations from public debt limit and provided for termination of such exemption.
+Pub. L. 104–103, §1, Feb. 8, 1996, 110 Stat. 55, as amended by Pub. L. 104–115, §1(d), Mar. 12, 1996, 110 Stat. 825, authorized Secretary of the Treasury to issue, before Mar. 1, 1996, obligations of United States under this chapter in amount equal to monthly insurance benefits payable in March 1996 under title II of Social Security Act (42 U.S.C. 401 et seq.), exempted such obligations from public debt limit and provided for termination of such exemption.
 
 #### Repeal of Permanent Increase in Public Debt Limit
 
@@ -496,7 +496,7 @@ Pub. L. 89–472, June 24, 1966, 80 Stat. 221, provided for a temporary increase
 
 Pub. L. 89–49, June 24, 1965, 79 Stat. 172, provided for a temporary increase from $285,000,000,000 to $328,000,000,000 for the period July 1, 1965, to June 30, 1966.
 
-Pub. L. 88–327, June 29, 1964, 78 Stat. 255, provided for a temporary increase from $285,000,000,000 to $324,000,000,000 for the period June 29, 1964, to June 30, 1965.
+Pub. L. 88–327, June 29, 1964, 78 Stat. 255, provided for a temporary increase from $285,000,000,000 to$324,000,000,000 for the period June 29, 1964, to June 30, 1965.
 
 Pub. L. 88–187, Nov. 26, 1963, 77 Stat. 342, provided for a temporary increase from $285,000,000,000 to $309,000,000,000 for the period Dec. 1, 1963, to June 30, 1964 and a further increase of $6,000,000,000 for the period Dec. 1, 1963 through June 29, 1964 because of variations in the timing of revenue receipts.
 

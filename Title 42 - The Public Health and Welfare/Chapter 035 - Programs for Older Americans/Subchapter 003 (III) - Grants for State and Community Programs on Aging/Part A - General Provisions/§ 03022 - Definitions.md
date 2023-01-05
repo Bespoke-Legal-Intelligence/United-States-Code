@@ -10,7 +10,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(C) use available resources efficiently and with a minimum of duplication; and
 
-&emsp;&emsp;(D) encourage and assist public and private entities that have unrealized potential formeeting the service needs of older individuals to assist the older individuals on a voluntary basis.
+&emsp;&emsp;(D) encourage and assist public and private entities that have unrealized potential for meeting the service needs of older individuals to assist the older individuals on a voluntary basis.
 
 &emsp;(2) The term "education and training service" means a supportive service designed to assist older individuals to better cope with their economic, health, and personal needs through services such as consumer education, continuing education, health education, preretirement education, financial planning, and other education and training services which will advance the objectives of this chapter.
 

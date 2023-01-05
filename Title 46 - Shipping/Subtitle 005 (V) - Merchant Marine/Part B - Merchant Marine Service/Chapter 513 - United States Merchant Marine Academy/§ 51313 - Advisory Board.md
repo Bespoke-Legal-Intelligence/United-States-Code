@@ -14,9 +14,9 @@ Travel Expenses.—When serving away from home or regular place of business, a m
 
 (d)
 
-Relationship to Other Law.—The Federal Advisory Committee Act (5 App. U.S.C.) does not apply to the Board.
+Relationship to Other Law.—Chapter 10 of title 5 does not apply to the Board.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1576.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1576; Pub. L. 117–286, §4(a)(292), Dec. 27, 2022, 136 Stat. 4338.)
 
 Historical and Revision Notes
 
@@ -36,7 +36,7 @@ June 29, 1936, ch. 858, title XIII, §1303(i), as added Pub. L. 96–453, §2, O
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (d). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 App. U.S.C.)".
 

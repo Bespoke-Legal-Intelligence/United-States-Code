@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The owner of a patent may have relief by civil action against the owner of another patent that claims the same invention and has an earlier effective filing date, if the invention claimed in such other patent was derived from the inventor of the invention claimed in the patent owned by the person seeking relief under this section.
+In General.—The owner of a patent may have relief by civil action against the owner of another patent that claims the same inventionand has an earlier effective filing date, if the invention claimed in such other patent was derived from the inventor of the invention claimed in the patent owned by the person seeking relief under this section.
 
 (b)
 
@@ -28,7 +28,7 @@ Pub. L. 112–29, §3(h)(1), amended section generally. Prior to amendment, text
 
 #### Effective Date of 2011 Amendment
 
-Amendment by section 3(h)(1) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, seesection 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+Amendment by section 3(h)(1) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 

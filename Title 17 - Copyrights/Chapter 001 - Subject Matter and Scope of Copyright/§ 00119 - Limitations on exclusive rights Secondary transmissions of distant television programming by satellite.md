@@ -46,7 +46,7 @@ Use of subscriber information.—Subscriber information submitted by a satellite
 
 &emsp;&emsp;&emsp;(iv)
 
-Applicability.—The submission requirements of this subparagraph shall apply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying thename and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents.
+Applicability.—The submission requirements of this subparagraph shall apply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents.
 
 &emsp;(3)
 
@@ -72,7 +72,7 @@ Individual violations.—The willful or repeated secondary transmission by a sat
 
 Pattern of violations.—If a satellite carrier engages in a willful or repeated pattern or practice of delivering a primary transmission made by a network station and embodying a performance or display of a work to subscribers who are not eligible to receive the transmission under this section, then in addition to the remedies set forth in subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) if the pattern or practice has been carried out on a substantially nationwide basis, the court shall order a permanent injunction barring the secondary transmission by the satellite carrier, for private home viewing, of the primary transmissions of any primary network station affiliated with the same network, and the court may order statutory damages of not to exceed $2,500,000 for each 3-month period during which the pattern or practice was carried out; and
+&emsp;&emsp;&emsp;(i) if the pattern or practice has been carried out on a substantially nationwidebasis, the court shall order a permanent injunction barring the secondary transmission by the satellite carrier, for private home viewing, of the primary transmissions of any primary network station affiliated with the same network, and the court may order statutory damages of not to exceed $2,500,000 for each 3-month period during which the pattern or practice was carried out; and
 
 &emsp;&emsp;&emsp;(ii) if the pattern or practice has been carried out on a local or regional basis, the court shall order a permanent injunction barring the secondary transmission, for private home viewing in that locality or region, by the satellite carrier of the primary transmissions of any primary network station affiliated with the same network, and the court may order statutory damages of not to exceed $2,500,000 for each 6-month period during which the pattern or practice was carried out.
 
@@ -104,7 +104,7 @@ Exemption.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—For purposes of this subsection, and subject to clauses (ii) and (iii),the term "unserved household" shall include—
+In general.—For purposes of this subsection, and subject to clauses (ii) and (iii), the term "unserved household" shall include—
 
 &emsp;&emsp;&emsp;&emsp;(I) recreational vehicles as defined in regulations of the Secretary of Housing and Urban Development under section 3282.8 of title 24, Code of Federal Regulations; and
 
@@ -174,7 +174,7 @@ Deposits with the register of copyrights.—A satellite carrier whose secondary 
 
 &emsp;(2)
 
-Verification of accounts and fee payments.—The Register of Copyrights shall issueregulations to permit interested parties to verify and audit the statements of account and royalty fees submitted by satellite carriers under this subsection.
+Verification of accounts and fee payments.—The Register of Copyrights shall issue regulations to permit interested parties to verify and audit the statements of account and royalty fees submitted by satellite carriers under this subsection.
 
 &emsp;(3)
 
@@ -242,7 +242,7 @@ Public notice of fees.—Upon receiving a request under subclause (I), the Copyr
 
 &emsp;&emsp;&emsp;&emsp;(III)
 
-Adoption of fees.—The Copyright Royalty Judges shall adopt the royalty fees from the voluntary agreement forall satellite carriers, distributors, and copyright owners without convening the proceeding under subparagraph (F) unless a party with an intent to participate in that proceeding and a significant interest in the outcome of that proceeding objects under subclause (II).
+Adoption of fees.—The Copyright Royalty Judges shall adopt the royalty fees from the voluntary agreement for all satellite carriers, distributors, and copyright owners without convening the proceeding under subparagraph (F) unless a party with an intent to participate in that proceeding and a significant interest in the outcome of that proceeding objects under subclause (II).
 
 &emsp;&emsp;(E)
 
@@ -304,7 +304,7 @@ Network station.—The term "network station" means—
 
 &emsp;(3)
 
-Primary network station.—The term "primary network station" means a networkstation that broadcasts or rebroadcasts the basic programming service of a particular national network.
+Primary network station.—The term "primary network station" means a network station that broadcasts or rebroadcasts the basic programming service of a particular national network.
 
 &emsp;(4)
 
@@ -520,7 +520,7 @@ Evidence of infringement.—The special master shall include in the report a sta
 
 &emsp;&emsp;&emsp;(v)
 
-Subsequent examination.—If the special master's report includes a statement that its examination indicated the existence of substantial evidence that a copyright holder could bring a successful action under this section against the qualified carrier for infringement, the special master shall, not later than 6 months after the report under clause (i) is filed, initiate another examination of the qualified carrier's compliance with the royalty payment and household eligibility requirements of the license under this section since the last report was filed under clause (iii). The special master shall file a report on the results of the examination conducted under this clause with the court referred to in paragraph (1) that issued the injunction, and the court shall transmit a copy to the Register of Copyrights, the Committees on the Judiciary and on Energy and Commerce of the House of Representatives, and the Committees on the Judiciary and on Commerce, Science, and Transportation of the Senate. The report shall include a statement described in clause (iv).
+Subsequent examination.—If the special master's report includes a statement that its examination indicated the existence of substantial evidence that a copyright holder could bring a successful action under this section against the qualified carrier for infringement, the special master shall, not later than 6 months after the report under clause (i) is filed, initiate another examination of the qualified carrier's compliance with the royalty payment and household eligibility requirements of the license under this section since the last report was filed under clause (iii). The special master shall file a reporton the results of the examination conducted under this clause with the court referred to in paragraph (1) that issued the injunction, and the court shall transmit a copy to the Register of Copyrights, the Committees on the Judiciary and on Energy and Commerce of the House of Representatives, and the Committees on the Judiciary and on Commerce, Science, and Transportation of the Senate. The report shall include a statement described in clause (iv).
 
 &emsp;&emsp;&emsp;(vi)
 
@@ -544,7 +544,7 @@ Pleading requirement.—In any motion brought under subparagraph (D), the party 
 
 &emsp;&emsp;(F)
 
-Burden of proof.—In any proceeding to make a determination under subparagraph (D), and with respect to a designated market area for which failure to provide service is alleged, the entity recognized as aqualified carrier shall have the burden of proving that the entity provided local-into-local service with a good quality satellite signal to at least 90 percent of the households in such designated market area (based on the most recent census data released by the United States Census Bureau) at the time and place alleged.
+Burden of proof.—In any proceeding to make a determination under subparagraph (D), and with respect to a designated market area for which failure to provide service is alleged, the entity recognized as a qualified carrier shall have the burden of proving that the entity provided local-into-local service with a good quality satellite signal to at least 90 percent of the households in such designated market area (based on the most recent census data released by the United States Census Bureau) at the time and place alleged.
 
 &emsp;(5)
 
@@ -606,7 +606,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (f)(3)(A)(iii), are
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 116–94, §1102(c)(1)(A)(i), substituted "paragraphs (3), (4), and (6)" for "paragraphs (4), (5), and (7)".
 
-Subsec. (a)(2)(A). Pub. L. 116–94, §1102(a)(1)(A)(i), (c)(1)(A)(ii), substituted "paragraphs (3), (4), (5), and (6)" for "paragraphs (4), (5), (6), and (7)" and "signals," for "signals, and", inserted ", and the carrier provides local-into-local service to all DMAs" after "receiving the secondary transmission", and inserted at end "Failure to reach an agreement with a network station to retransmit the signals of the station shall not beconstrued to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached."
+Subsec. (a)(2)(A). Pub. L. 116–94, §1102(a)(1)(A)(i), (c)(1)(A)(ii), substituted "paragraphs (3), (4), (5), and (6)" for "paragraphs (4), (5), (6), and (7)" and "signals," for "signals, and", inserted ", and the carrier provides local-into-local service to all DMAs" after "receiving the secondary transmission", and inserted at end "Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached."
 
 Subsec. (a)(2)(B)(ii), (iii). Pub. L. 116–94, §1102(a)(1)(A)(ii), added cl. (ii) and struck out former cls. (ii) and (iii) which related to accurate determinations of eligibility and C-band exemption to unserved households, respectively.
 
@@ -660,7 +660,7 @@ Subsec. (d)(13) to (16). Pub. L. 116–94, §1102(a)(3)(B)–(D), redesignated p
 
 Subsec. (e). Pub. L. 116–94, §1102(a)(4), (6), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: "Until December 31, 2019, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98–201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999."
 
-Subsec. (f). Pub. L. 116–94, §1102(a)(6), (c)(1)(B), redesignated subsec. (g) as (f) and substituted "subsection\(a)(5)(B)" for "subsection (a)(7)(B)" in pars. (1) and (2)(A). Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 116–94, §1102(a)(6), (c)(1)(B), redesignated subsec. (g) as (f) and substituted "subsection (a)(5)(B)" for "subsection (a)(7)(B)" in pars. (1) and (2)(A). Former subsec. (f) redesignated (e).
 
 Subsec. (g). Pub. L. 116–94, §1102(a)(6), redesignated subsec. (g) as (f).
 
@@ -830,7 +830,7 @@ Pub. L. 111–175, §102(b)(2), added par. (14).
 
 Subsec. (d)(15). Pub. L. 111–175, §102(f)(5), added par. (15).
 
-Subsec. (e). Pub. L. 111–175, §102(j), (k)(1), substituted "December 31, 2014" for "May 31, 2010" and ", Code ofFederal Regulations" for "of the Code of Federal Regulations".
+Subsec. (e). Pub. L. 111–175, §102(j), (k)(1), substituted "December 31, 2014" for "May 31, 2010" and ", Code of Federal Regulations" for "of the Code of Federal Regulations".
 
 Pub. L. 111–157, §9(a)(1)(B), substituted "May 31, 2010" for "April 30, 2010".
 
@@ -866,7 +866,7 @@ Subsec. (a)(2)(A). Pub. L. 108–447, §102(2)(A), substituted "paragraphs (5), 
 
 Subsec. (a)(2)(B)(i). Pub. L. 108–447, §102(7), inserted at end "The limitation in this clause shall not apply to secondary transmissions under paragraph (3)."
 
-Subsec. (a)(2)(C), (D). Pub. L. 108–447, §102(2)(B), added subpars. (C) and (D) and struck out heading and text of former subpar. (C). Text read as follows: "A satellite carrier that makes secondary transmissions of a primary transmission made by a network station pursuant to subparagraph (A) shall, 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission. Thereafter, on the 15th of each month, the satellite carrier shall submit to the network a list identifying (by name and street address, including county and zip code) any persons who have been added or dropped as such subscribers since the last submission under this subparagraph. Such subscriber information submitted by a satellite carrier may be used only for purposes of monitoring compliance by the satellite carrier with this subsection. The submission requirements of this subparagraph shall apply to a satellite carrier only if the network to whom the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents."
+Subsec. (a)(2)(C), (D). Pub. L. 108–447, §102(2)(B), added subpars. (C) and (D) and struck out heading and text of former subpar. (C). Text read as follows: "A satellite carrier that makes secondary transmissions of a primary transmission made by a network station pursuant to subparagraph (A) shall, 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station a list identifying (by name and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission. Thereafter, on the 15th of each month, the satellite carrier shall submit to the network a list identifying (by name and street address, including county and zip code) any persons who have been added or dropped as such subscribers since the last submission under this subparagraph. Such subscriber information submitted by a satellite carrier may be used only for purposes of monitoring compliance by thesatellite carrier with this subsection. The submission requirements of this subparagraph shall apply to a satellite carrier only if the network to whom the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register shall maintain for public inspection a file of all such documents."
 
 Subsec. (a)(3) to (6). Pub. L. 108–447, §§102(5), (6), 103(1), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
@@ -908,7 +908,7 @@ Subsec. (b)(4)(A). Pub. L. 108–447, §107(a)(2), struck out "for private home 
 
 Pub. L. 108–419, §5(g)(2)(A), substituted "Copyright Royalty Judges" for "Librarian of Congress" in two places.
 
-Subsec. (b)(4)(B), (C). Pub. L. 108–419, §5(g)(2)(B), reenacted headings without change and amended text generally, substituting provisions relating to duties ofCopyright Royalty Judges concerning determination of royalty fee controversies and distribution of royalty fees for provisions relating to duties of Librarian of Congress relating to such determination and distribution.
+Subsec. (b)(4)(B), (C). Pub. L. 108–419, §5(g)(2)(B), reenacted headings without change and amended text generally, substituting provisions relating to duties of Copyright Royalty Judges concerning determination of royalty fee controversies and distribution of royalty fees for provisions relating to duties of Librarian of Congress relating to such determination and distribution.
 
 Subsec. (c). Pub. L. 108–447, §103(5), amended heading and text of subsec. (c) generally. Prior to amendment, text related to adjustment, determination, arbitration, and reduction of royalty fees.
 
@@ -978,7 +978,7 @@ Subsec. (a)(4). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(b)(2)(C)\], in
 
 Subsec. (a)(5)(E). Pub. L. 106–113, §1000(a)(9) \[title I, §1005(b)\], added subpar. (E).
 
-Subsec. (a)(6). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(b)(2)(D)\], inserted "performance or display of awork embodied in" after "by a satellite carrier of" and struck out "and embodying a performance or display of a work" after "network station".
+Subsec. (a)(6). Pub. L. 106–113, §1000(a)(9) \[title I, §1011(b)(2)(D)\], inserted "performance or display of a work embodied in" after "by a satellite carrier of" and struck out "and embodying a performance or display of a work" after "network station".
 
 Subsec. (a)(8)(C)(ii). Pub. L. 106–44 substituted "within the network station's" for "within the network's station" in first sentence.
 
@@ -1082,7 +1082,7 @@ Subsec. (c)(3)(C). Pub. L. 103–198, §5(2)(C)(ii), (v), redesignated subpar. (
 
 Subsec. (c)(3)(D). Pub. L. 103–198, §5(2)(C)(vi), redesignated subpar. (H) as (D) and substituted "referred to in subparagraph (C)" for "adopted or ordered under subparagraph (F)". Former subpar. (D) redesignated (B).
 
-Subsec. (c)(3)(E) to (H). Pub. L. 103–198, §5(2)(C)(iv)–(vi)(I), struck out subpar. (E) which required the Arbitration Panel to report to the Copyright Royalty Tribunal not later than 60 days after publication of notice initiating an arbitration proceeding, struck out subpar. (F) which required action by the Tribunal within 60 days after receiving the report by the Panel, and redesignated subpars. (G) and (H) as (C) and (D), respectively.
+Subsec. (c)(3)(E) to (H). Pub. L. 103–198, §5(2)(C)(iv)–(vi)(I), struck out subpar. (E) which required the Arbitration Panel to report to the Copyright Royalty Tribunal not later than 60 days after publication of notice initiating an arbitration proceeding, struck out subpar. (F) which required action by theTribunal within 60 days after receiving the report by the Panel, and redesignated subpars. (G) and (H) as (C) and (D), respectively.
 
 Subsec. (c)(4). Pub. L. 103–198, §5(2)(D), struck out par. (4) which established procedures for judicial review of decisions of the Copyright Royalty Tribunal.
 
@@ -1134,7 +1134,7 @@ In General.—Except as provided in subsections (b) and (d), this Act \[amending
 
 "(b)
 
-Burden of Proof Provisions.—The provisions of section 119(a)(5)(D) of title 17, United States Code (as added by section 2(2) of this Act) relating to the burden of proof of satellite carriers, shall take effect on January 1, 1997, with respect to civil actions relating to the eligibility of subscribers who subscribed to service asan unserved household before the date of the enactment of this Act.
+Burden of Proof Provisions.—The provisions of section 119(a)(5)(D) of title 17, United States Code (as added by section 2(2) of this Act) relating to the burden of proof of satellite carriers, shall take effect on January 1, 1997, with respect to civil actions relating to the eligibility of subscribers who subscribed to service as an unserved household before the date of the enactment of this Act.
 
 "(c)
 

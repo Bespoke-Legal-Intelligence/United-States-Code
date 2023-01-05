@@ -106,7 +106,7 @@ This section may be cited as the "Danny Keysar Child Product Safety Notification
 
 #### (4) Study
 
-&emsp;The Commission shall conduct a study at such time as it considers appropriate on the effectiveness of the consumer registration forms required by this section in facilitating product recalls and whether such registration forms should be required for other children'sproducts. Not later than 4 years after August 14, 2008, the Commission shall report its findings to the appropriate Congressional committees.
+&emsp;The Commission shall conduct a study at such time as it considers appropriate on the effectiveness of the consumer registration forms required by this section in facilitating product recalls and whether such registration forms should be required for other children's products. Not later than 4 years after August 14, 2008, the Commission shall report its findings to the appropriate Congressional committees.
 
 #### (e) Use of alternative recall notification technology
 

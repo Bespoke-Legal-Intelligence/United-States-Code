@@ -32,7 +32,7 @@ Section is comprised of section 7 of Pub. L. 101–233. Subsec. (a) of section 7
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–553 substituted "$50,000,000" for "$30,000,000".
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–312 substituted "not to exceed $30,000,000 for each of fiscal years 1999 through2003." for "not to exceed $20,000,000 for each of fiscal years 1995 and 1996 and $30,000,000 for each of fiscal years 1997 and 1998."
+<b>1998</b>—Subsec. (c). Pub. L. 105–312 substituted "not to exceed $30,000,000 for each of fiscal years 1999 through 2003." for "not to exceed $20,000,000 for each of fiscal years 1995 and 1996 and $30,000,000 for each of fiscal years 1997 and 1998."
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–375 substituted "$20,000,000 for each of fiscal years 1995 and 1996 and $30,000,000 for each of fiscal years 1997 and 1998" for "$15,000,000 for each of fiscal years 1991, 1992, 1993, and 1994".
 

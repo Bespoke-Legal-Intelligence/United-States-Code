@@ -10,7 +10,7 @@ Provisions Relating to Carriers.—Each master contract under this chapter shall
 
 (b)
 
-Provisions Relating to Federal Agencies.—Each Federal agency shall keep suchrecords, make such certifications, and furnish the Office, the carrier, or both, with such information and reports as the Office may require.
+Provisions Relating to Federal Agencies.—Each Federal agency shall keep such records, make such certifications, and furnish the Office, the carrier, or both, with such information and reports as the Office may require.
 
 (c)
 

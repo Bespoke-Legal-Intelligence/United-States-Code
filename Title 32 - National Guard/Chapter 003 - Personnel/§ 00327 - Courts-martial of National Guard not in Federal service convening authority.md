@@ -1,6 +1,6 @@
 ### §327. Courts-martial of National Guard not in Federal service: convening authority
 
-(a) In the National Guard not in Federal service, general, special, and summary courts-martial may be convened as provided by the laws of the respective States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands.
+(a) In the National Guard not in Federal service, general, special, and summary courts-martial may be convened as provided by the laws ofthe respective States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands.
 
 (b) In the National Guard not in Federal service—
 

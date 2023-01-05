@@ -30,6 +30,12 @@ Pub. L. 107–72, §4, Nov. 20, 2001, 115 Stat. 650, provided that: "This Act \[
 
 Pub. L. 94–145, §4, Dec. 12, 1974, 89 Stat. 801, provided that: "The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of this title\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\]."
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–328, div. GG, §101, Dec. 29, 2022, 136 Stat. 5967, provided that: "This division \[enacting section 18b of this title, amending section 1407 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as a note under section 18b of this title, and amending provisions set out as a note under section 18a of this title\] may be cited as the 'Merger Filing Fee Modernization Act of 2022'."
+
+\[Another section 101 of div. GG of Pub. L. 117–328 amended provisions set out as a note under section 18a of this title.\]
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–257, §1, Dec. 23, 2020, 134 Stat. 1147, provided that: "This Act \[enacting section 7a–3 of this title\] may be cited as the 'Criminal Antitrust Anti-Retaliation Act of 2019'."
@@ -84,7 +90,7 @@ Pub. L. 101–588, §1, Nov. 16, 1990, 104 Stat. 2879, provided: "That this Act 
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–544, §1, Oct. 24, 1984, 98 Stat. 2750, provided: "That this Act \[enacting sections 34 to 36 of this title and provisions set out as a note under section 34 of this title\] may be cited as the 'Local Government Antitrust Act of 1984'."
+Pub. L. 98–544, §1, Oct. 24, 1984, 98 Stat. 2750, provided: "That this Act \[enacting sections 34 to 36 of this title and provisions set out as a note under section 34 of thistitle\] may be cited as the 'Local Government Antitrust Act of 1984'."
 
 #### Short Title of 1982 Amendment
 
@@ -96,7 +102,7 @@ Pub. L. 96–493, §1, Dec. 2, 1980, 94 Stat. 2568, provided: "That this Act \[e
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–435, §1, Sept. 30, 1976, 90 Stat. 1383, provided: "That this Act \[enacting sections 15c to 15h, 18a,and 66 of this title, amending sections 12, 15b, 16, 26, and 1311 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8, 15c, 18a, and 1311 of this title\] may be cited as the 'Hart-Scott-Rodino Antitrust Improvements Act of 1976'."
+Pub. L. 94–435, §1, Sept. 30, 1976, 90 Stat. 1383, provided: "That this Act \[enacting sections 15c to 15h, 18a, and 66 of this title, amending sections 12, 15b, 16, 26, and 1311 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8, 15c, 18a, and 1311 of this title\] may be cited as the 'Hart-Scott-Rodino Antitrust Improvements Act of 1976'."
 
 #### Short Title of 1975 Amendment
 
@@ -214,7 +220,7 @@ Pay.—
 
 &emsp;"(1)
 
-Nongovernment employees.—Each member of the Commission who is not otherwise employed by a government shall be entitled to receive the daily equivalent of the annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5 United States Code, as in effect from time to time, for each day (including travel time) duringwhich such member is engaged in the actual performance of duties of the Commission.
+Nongovernment employees.—Each member of the Commission who is not otherwise employed by a government shall be entitled to receive the daily equivalent of the annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5 United States Code, as in effect from time to time, for each day (including travel time) during which such member is engaged in the actual performance of duties of the Commission.
 
 &emsp;"(2)
 
@@ -324,7 +330,7 @@ In general.—The study under paragraph (1) shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the mean and median parental and student contributions to undergraduate costs of attendance for first year students receiving institutional grant aid;
 
-&emsp;&emsp;&emsp;"(iii) to the extent useful in determining the effect of the antitrust exemption under section 568of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note), examine—
+&emsp;&emsp;&emsp;"(iii) to the extent useful in determining the effect of the antitrust exemption under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note), examine—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) comparison data, identified in clauses (i) and (ii), from institutions of higher education that do not participate under the antitrust exemption under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note); and
 
@@ -434,7 +440,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. A fair, open, and competitive marketplace has long been a cornerstone of the American economy, while excessive market concentration threatens basic economic liberties, democratic accountability, and the welfare of workers, farmers, small businesses, startups, and consumers.
 
-The American promise of a broad and sustained prosperity depends on an open and competitive economy.For workers, a competitive marketplace creates more high-quality jobs and the economic freedom to switch jobs or negotiate a higher wage. For small businesses and farmers, it creates more choices among suppliers and major buyers, leading to more take-home income, which they can reinvest in their enterprises. For entrepreneurs, it provides space to experiment, innovate, and pursue the new ideas that have for centuries powered the American economy and improved our quality of life. And for consumers, it means more choices, better service, and lower prices.
+The American promise of a broad and sustained prosperity depends on an open and competitive economy. For workers, a competitive marketplace creates more high-quality jobs and the economic freedom to switch jobs or negotiate a higher wage. For small businesses and farmers, it creates more choices among suppliers and major buyers, leading to more take-home income, which they can reinvest in their enterprises. For entrepreneurs, it provides space to experiment, innovate, and pursue the new ideas that have for centuries powered the American economy and improved our quality of life. And for consumers, it means more choices, better service, and lower prices.
 
 Robust competition is critical to preserving America's role as the world's leading economy.
 
@@ -470,7 +476,7 @@ Sec. 2. <i>The Statutory Basis of a Whole-of-Government Competition Policy</i>. 
 
 (b) The antitrust laws reflect an underlying policy favoring competition that transcends those particular enactments. As the Supreme Court has stated, for instance, the Sherman Act "rests on the premise that the unrestrained interaction of competitive forces will yield the best allocation of our economic resources, the lowest prices, the highest quality and the greatest material progress, while at the same time providing an environment conducive to the preservation of our democratic political and social institutions." <i>Northern Pac. Ry. Co. v. United States</i>, 356 U.S. 1, 4 (1958).
 
-(c) Consistent with these broader policies, and in addition to the traditional antitrust laws, the Congress has also enacted industry-specific fair competition and anti-monopolization laws that often provide additional protections. Such enactments include the Packers andStockyards Act, the Federal Alcohol Administration Act (Public Law 74–401, 49 Stat. 977, 27 U.S.C. 201 <i>et seq</i>.), the Bank Merger Act, the Drug Price Competition and Patent Term Restoration Act of 1984 (Public Law 98–417, 98 Stat. 1585), the Shipping Act of 1984 (Public Law 98–237, 98 Stat. 67, 46 U.S.C. 40101 <i>et seq</i>.) (Shipping Act), the ICC Termination Act of 1995 (Public Law 104–88, 109 Stat. 803), the Telecommunications Act of 1996, the Fairness to Contact Lens Consumers Act (Public Law 108–164, 117 Stat. 2024, 15 U.S.C. 7601 <i>et seq</i>.), and the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203, 124 Stat. 1376) (Dodd-Frank Act).
+(c) Consistent with these broader policies, and in addition to the traditional antitrust laws, the Congress has also enacted industry-specific fair competition and anti-monopolization laws that often provide additional protections. Such enactments include the Packers and Stockyards Act, the Federal Alcohol Administration Act (Public Law 74–401, 49 Stat. 977, 27 U.S.C. 201 <i>et seq</i>.), the Bank Merger Act, the Drug Price Competition and Patent Term Restoration Act of 1984 (Public Law 98–417, 98 Stat. 1585), the Shipping Act of 1984 (Public Law 98–237, 98 Stat. 67, 46 U.S.C. 40101 <i>et seq</i>.) (Shipping Act), the ICC Termination Act of 1995 (Public Law 104–88, 109 Stat. 803), the Telecommunications Act of 1996, the Fairness to Contact Lens Consumers Act (Public Law 108–164, 117 Stat. 2024, 15 U.S.C. 7601 <i>et seq</i>.), and the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203, 124 Stat. 1376) (Dodd-Frank Act).
 
 (d) These statutes independently charge a number of executive departments and agencies (agencies) to protect conditions of fair competition in one or more ways, including by:
 
@@ -550,7 +556,7 @@ Sec. 4. <i>The White House Competition Council</i>. (a) There is established a W
 
 (g) The Chair shall invite the participation of the Chair of the FTC, the Chair of the Federal Communications Commission, the Chair of the Federal Maritime Commission, the Director of the Consumer Financial Protection Bureau, and the Chair of the Surface Transportation Board, to the extent consistent with their respective statutory authorities and obligations.
 
-(h) Members of the Council shall designate, not later than 30 days after the date of this order \[July 9, 2021\], a senior official within their respective agency or office who shall coordinate with the Council and who shall be responsible for overseeing the agency's or office's efforts to address overconcentration, monopolization, and unfair competition. The Chair may coordinate subgroups consisting exclusively of Council members or their designees, as appropriate.
+(h) Members of the Council shall designate, not later than 30 days after the date of this order \[July 9, 2021\],a senior official within their respective agency or office who shall coordinate with the Council and who shall be responsible for overseeing the agency's or office's efforts to address overconcentration, monopolization, and unfair competition. The Chair may coordinate subgroups consisting exclusively of Council members or their designees, as appropriate.
 
 (i) The Council shall meet on a semi-annual basis unless the Chair determines that a meeting is unnecessary.
 
@@ -610,7 +616,7 @@ Sec. 5. <i>Further Agency Responsibilities</i>. (a) The heads of all agencies sh
 
 &emsp;(A) the creation or expansion of useful information for farmers, such as model contracts, to lower transaction costs and help farmers negotiate fair deals;
 
-&emsp;(B) measures to encourage improvements in transparency and standards so that consumers may choose to purchase products that support fair treatment of farmers and agricultural workers and sustainable agricultural practices;
+&emsp;(B) measures to encourage improvements in transparency and standards so that consumers may chooseto purchase products that support fair treatment of farmers and agricultural workers and sustainable agricultural practices;
 
 &emsp;(C) measures to enhance price discovery, increase transparency, and improve the functioning of the cattle and other livestock markets;
 
@@ -620,7 +626,7 @@ Sec. 5. <i>Further Agency Responsibilities</i>. (a) The heads of all agencies sh
 
 &emsp;(F) any other means that the Secretary of Agriculture deems appropriate;
 
-(iv) to improve farmers' and smaller food processors' access to retail markets, not later than 300 days afterthe date of this order, in consultation with the Chair of the FTC, submit a report to the Chair of the White House Competition Council, on the effect of retail concentration and retailers' practices on the conditions of competition in the food industries, including any practices that may violate the Federal Trade Commission Act, the Robinson-Patman Act (Public Law 74–692, 49 Stat. 1526, 15 U.S.C. 13 <i>et seq</i>.), or other relevant laws, and on grants, loans, and other support that may enhance access to retail markets by local and regional food enterprises; and
+(iv) to improve farmers' and smaller food processors' access to retail markets, not later than 300 days after the date of this order, in consultation with the Chair of the FTC, submit a report to the Chair of the White House Competition Council, on the effect of retail concentration and retailers' practices on the conditions of competition in the food industries, including any practices that may violate the Federal Trade Commission Act, the Robinson-Patman Act (Public Law 74–692, 49 Stat. 1526, 15 U.S.C. 13 <i>et seq</i>.), or other relevant laws, and on grants, loans, and other support that may enhance access to retail markets by local and regional food enterprises; and
 
 (v) to help ensure that the intellectual property system, while incentivizing innovation, does not also unnecessarily reduce competition in seed and other input markets beyond that reasonably contemplated by the Patent Act (see 35 U.S.C. 100 <i>et seq</i>. and 7 U.S.C. 2321 <i>et seq</i>.), in consultation with the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office, submit a report to the Chair of the White House Competition Council, enumerating and describing any relevant concerns of the Department of Agriculture and strategies for addressing those concerns across intellectual property, antitrust, and other relevant laws.
 
@@ -676,7 +682,7 @@ Sec. 5. <i>Further Agency Responsibilities</i>. (a) The heads of all agencies sh
 
 &emsp;(F) not later than 90 days after the date of this order, consider initiating a rulemaking to ensure that consumers have ancillary fee information, including "baggage fees," "change fees," and "cancellation fees," at the time of ticket purchase;
 
-(ii) to provide consumers with more flight options at better prices and with improved service, and to extendopportunities for competition and market entry as the industry evolves:
+(ii) to provide consumers with more flight options at better prices and with improved service, and to extend opportunities for competition and market entry as the industry evolves:
 
 &emsp;(A) not later than 30 days after the date of this order, convene a working group within the Department of Transportation to evaluate the effectiveness of existing commercial aviation programs, consumer protections, and rules of the Federal Aviation Administration;
 
@@ -728,7 +734,7 @@ Sec. 5. <i>Further Agency Responsibilities</i>. (a) The heads of all agencies sh
 
 &emsp;(D) with the Chair of the FTC, identifying and addressing any efforts to impede generic drug and biosimilar competition, including but not limited to false, misleading, or otherwise deceptive statements about generic drug and biosimilar products and their safety or effectiveness;
 
-(vi) to help ensure that the patent system, while incentivizing innovation, does not also unjustifiably delay generic drug and biosimilar competition beyond that reasonably contemplated by applicable law, not later than 45 days after the date of this order, through the Commissioner of Food and Drugs, write a letter to the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office enumerating and describing any relevant concerns of the FDA;
+(vi) to help ensure that the patent system, while incentivizing innovation, does not also unjustifiablydelay generic drug and biosimilar competition beyond that reasonably contemplated by applicable law, not later than 45 days after the date of this order, through the Commissioner of Food and Drugs, write a letter to the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office enumerating and describing any relevant concerns of the FDA;
 
 (vii) to support the market entry of lower-cost generic drugs and biosimilars, continue the implementation of the law widely known as the CREATES Act of 2019 (Public Law 116–94, 133 Stat. 3130), by:
 
@@ -736,7 +742,7 @@ Sec. 5. <i>Further Agency Responsibilities</i>. (a) The heads of all agencies sh
 
 &emsp;(B) issuing guidance to provide additional information for industry about CPAs; and
 
-(viii) through the Administrator of the Centers for Medicare and Medicaid Services, prepare for Medicareand Medicaid coverage of interchangeable biological products, and for payment models to support increased utilization of generic drugs and biosimilars.
+(viii) through the Administrator of the Centers for Medicare and Medicaid Services, prepare for Medicare and Medicaid coverage of interchangeable biological products, and for payment models to support increased utilization of generic drugs and biosimilars.
 
 (q) To reduce the cost of covered products to the American consumer without imposing additional risk to public health and safety, the Commissioner of Food and Drugs shall work with States and Indian Tribes that propose to develop section 804 Importation Programs in accordance with the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173, 117 Stat. 2066), and the FDA's implementing regulations.
 

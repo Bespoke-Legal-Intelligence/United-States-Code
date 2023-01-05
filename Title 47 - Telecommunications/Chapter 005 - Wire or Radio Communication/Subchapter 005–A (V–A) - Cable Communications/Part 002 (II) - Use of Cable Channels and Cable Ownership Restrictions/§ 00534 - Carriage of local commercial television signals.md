@@ -34,7 +34,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (B) Advanced television
 
-&emsp;&emsp;At such time as the Commission prescribes modifications of the standards for television broadcast signals, the Commission shall initiate a proceeding to establish any changes in the signal carriage requirements of cable television systems necessary to ensure cable carriage of such broadcast signals of local commercial television stations which have been changed to conform with such modified standards.
+&emsp;&emsp;At such time as the Commission prescribes modifications of the standards for television broadcast signals, the Commission shall initiate a proceeding to establish any changes in the signal carriage requirements of cable television systems necessary to ensure cable carriage of such broadcast signals of local commercial television stations which havebeen changed to conform with such modified standards.
 
 #### (5) Duplication not required
 
@@ -132,7 +132,7 @@ Within 180 days after October 5, 1992, the Commission shall, following a rulemak
 
 &emsp;&emsp;&emsp;(ii) a television broadcast station that would be considered a distant signal under section 111 of title 17, if such station does not agree to indemnify the cable operator for any increased copyright liability resulting from carriage on the cable system; or
 
-&emsp;&emsp;&emsp;(iii) a television broadcast station that does not deliver to the principal headend of a cable system either a signal level of −45dBm for UHF signals or −49dBm for VHF signals at the input terminals of the signal processing equipment, if such station does not agree to be responsible for the costs of delivering to the cable system a signal of good quality or a baseband video signal.
+&emsp;&emsp;&emsp;(iii) a television broadcast station that does not deliver to the principal headendof a cable system either a signal level of −45dBm for UHF signals or −49dBm for VHF signals at the input terminals of the signal processing equipment, if such station does not agree to be responsible for the costs of delivering to the cable system a signal of good quality or a baseband video signal.
 
 #### (C) Market determinations
 
@@ -182,7 +182,7 @@ This chapter, referred to in subsec. (g)(1), was in the original "this Act", mea
 
 #### Amendments
 
-<b>2014</b>—Subsec. (b)(9). Pub. L. 113–200, §105(a), struck out "No deletion or repositioning of a local commercial television station shall occur during a period in which major television ratings services measure the size of audiences of local television stations." after "that station."
+<b>2014</b>—Subsec. (b)(9). Pub. L. 113–200, §105(a), struck out "No deletion or repositioning of a local commercialtelevision station shall occur during a period in which major television ratings services measure the size of audiences of local television stations." after "that station."
 
 Subsec. (h)(1)(C)(ii)(I). Pub. L. 113–200, §102(b)(1)(A), substituted "community or on the satellite carrier or carriers serving such community" for "community".
 

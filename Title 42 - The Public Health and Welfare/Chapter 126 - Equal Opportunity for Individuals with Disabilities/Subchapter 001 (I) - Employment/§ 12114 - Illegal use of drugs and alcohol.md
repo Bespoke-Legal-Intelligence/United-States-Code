@@ -30,7 +30,7 @@ A covered entity—
 
 &emsp;(5) may, with respect to Federal regulations regarding alcohol and the illegal use of drugs, require that—
 
-&emsp;&emsp;(A) employees comply with the standards established in such regulations of the Department of Defense, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positions in suchan industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Department of Defense);
+&emsp;&emsp;(A) employees comply with the standards established in such regulations of the Department of Defense, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Department of Defense);
 
 &emsp;&emsp;(B) employees comply with the standards established in such regulations of the Nuclear Regulatory Commission, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Nuclear Regulatory Commission); and
 

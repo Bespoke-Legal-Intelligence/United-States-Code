@@ -150,7 +150,7 @@
 
 #### (i) Objectives
 
-&emsp;&emsp;&emsp;Not later than June 30 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives andthe Committee on Finance of the Senate on the objectives of the Office of the Taxpayer Advocate for the fiscal year beginning in such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information.
+&emsp;&emsp;&emsp;Not later than June 30 of each calendar year, the National Taxpayer Advocate shall report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the objectives of the Office of the Taxpayer Advocate for the fiscal year beginning in such calendar year. Any such report shall contain full and substantive analysis, in addition to statistical information.
 
 #### (ii) Activities
 
@@ -214,7 +214,7 @@
 
 #### (ii) Consultation
 
-&emsp;&emsp;&emsp;The National Taxpayer Advocate may consult with the appropriate supervisorypersonnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate's responsibilities under this subparagraph.
+&emsp;&emsp;&emsp;The National Taxpayer Advocate may consult with the appropriate supervisory personnel of the Internal Revenue Service in carrying out the National Taxpayer Advocate's responsibilities under this subparagraph.
 
 #### (E) Coordination with Treasury Inspector General for Tax Administration
 
@@ -254,7 +254,7 @@
 
 #### (1) Annual reporting
 
-&emsp;The Treasury Inspector General for Tax Administration shall include in one of the semiannual reports under section 5 of the Inspector General Act of 1978—
+&emsp;The Treasury Inspector General for Tax Administration shall include in one of the semiannual reports under section 405 of title 5, United States Code—
 
 &emsp;&emsp;(A) an evaluation of the compliance of the Internal Revenue Service with—
 
@@ -288,7 +288,7 @@
 
 &emsp;(A)
 
-In general.—The Treasury Inspector General for Tax Administration shall include in each semiannual report under section 5 of the Inspector General Act of 1978—
+In general.—The Treasury Inspector General for Tax Administration shall include in each semiannual report under section 405 of title 5, United States Code—
 
 &emsp;&emsp;(i) the number of taxpayer complaints during the reporting period;
 
@@ -464,7 +464,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 #### (B) Internal Revenue Service
 
-&emsp;&emsp;Any reference in this subsection to the Internal Revenue Service includes a referenceto all components of the Internal Revenue Service, including—
+&emsp;&emsp;Any reference in this subsection to the Internal Revenue Service includes a reference to all components of the Internal Revenue Service, including—
 
 &emsp;&emsp;&emsp;(i) the Office of the Taxpayer Advocate,
 
@@ -472,7 +472,7 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 &emsp;&emsp;&emsp;(iii) except as otherwise provided by the Secretary with respect to information technology related to matters described in subsection (b)(3)(B), the Office of the Chief Counsel.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697; Pub. L. 110–176, §1(a), Jan. 4, 2008, 121 Stat. 2532; Pub. L. 110–428, §2(c), Oct. 15, 2008, 122 Stat. 4840; Pub. L. 114–113, div. Q, title IV, §401(a), Dec. 18, 2015, 129 Stat. 3117; Pub. L. 116–25, title I, §§1001(a), 1301(a)–(b)(2), (3)(B)–(c), title II, §2101(a), July 1, 2019, 133 Stat. 983, 991–993, 1008.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 915; Pub. L. 92–310, title II, §230(e), June 6, 1972, 86 Stat. 209; Pub. L. 94–455, title XIX, §1906(a)(58), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1833, 1834; Pub. L. 105–206, title I, §1102(a), July 22, 1998, 112 Stat. 697; Pub. L. 110–176, §1(a), Jan. 4, 2008, 121 Stat. 2532; Pub. L. 110–428, §2(c), Oct. 15, 2008, 122 Stat. 4840; Pub. L. 114–113, div. Q, title IV, §401(a), Dec. 18, 2015, 129 Stat. 3117; Pub. L. 116–25, title I, §§1001(a), 1301(a)–(b)(2), (3)(B)–(c), title II, §2101(a), July 1, 2019, 133 Stat. 983, 991–993, 1008; Pub. L. 117–286, §4(b)(46), Dec. 27, 2022, 136 Stat. 4348.)
 
 #### <b>Editorial Notes</b>
 
@@ -480,13 +480,15 @@ In general.—The Treasury Inspector General for Tax Administration shall includ
 
 The provisions of title 5 relating to appointments in the competitive service and the Senior Executive Service, referred to in subsec. (c)(1)(B)(ii), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-Section 5 of the Inspector General Act of 1978, referred to in subsec. (d)(1), (2)(A), is section 5 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Sections 1203, 1204, and 3707 of the Internal Revenue Service Restructuring and Reform Act of 1998, referred to in subsec. (d)(1)(A)(i), (v), (E), are sections 1203, 1204, and 3707 of Pub. L. 105–206, which are set out as notes under sections 7804, 7804, and 6651, respectively, of this title.
 
 Section 6227 of the Omnibus Taxpayer Bill of Rights, referred to in subsec. (d)(3)(B), is section 6227 of Pub. L. 100–647, which is set out as a note under section 7801 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(1). Pub. L. 117–286, §4(b)(46)(A), substituted "section 405 of title 5, United States Code" for "section 5 of the Inspector General Act of 1978" in introductory provisions.
+
+Subsec. (d)(2)(A). Pub. L. 117–286, §4(b)(46)(B), substituted "section 405 of title 5, United States Code" for "section 5 of the Inspector General Act of 1978" in introductory provisions.
 
 <b>2019</b>—Subsec. (c)(1)(B)(i). Pub. L. 116–25, §1301(c), struck out before period at end ", or, if the Secretary of the Treasury so determines, at a rate fixed under section 9503 of such title".
 
@@ -548,7 +550,7 @@ Pub. L. 114–113, div. Q, title IV, §401(b), Dec. 18, 2015, 129 Stat. 3117, pr
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–428 applicable to disclosures made after Dec. 31, 2008, see section 2(d) of Pub.L. 110–428, set out as a note under section 6103 of this title.
+Amendment by Pub. L. 110–428 applicable to disclosures made after Dec. 31, 2008, see section 2(d) of Pub. L. 110–428, set out as a note under section 6103 of this title.
 
 Pub. L. 110–176, §1(b), Jan. 4, 2008, 121 Stat. 2532, provided that: "The amendment made by this section \[amending this section\] shall apply as if included in the amendment made by section 1102(a) of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\]."
 

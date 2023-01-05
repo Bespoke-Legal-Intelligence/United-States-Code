@@ -26,7 +26,7 @@ As used in this subchapter:
 
 &emsp;(E) The term "revised nonsecurity category" means discretionary appropriations other than in budget function 050.
 
-&emsp;(F) The term "category" means the subsets of discretionary appropriations in section901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the Committees on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
+&emsp;(F) The term "category" means the subsets of discretionary appropriations in section 901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the Committees on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
 
 &emsp;(5) The term "baseline" means the projection (described in section 907 of this title) of current-year levels of new budget authority, outlays, receipts, and the surplus or deficit into the budget year and the outyears.
 
@@ -90,7 +90,7 @@ House Concurrent Resolution 84, referred to in subsec. (b), is H. Con. Res. 84, 
 
 The Balanced Budget Act of 1997, referred to in subsec. (c)(4)(F), (17), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
 
-The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title V of the Act, known as the Federal Credit Reform Act of 1990,was added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (c)(19), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Title V of the Act, known as the Federal Credit Reform Act of 1990, was added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, and is classified generally to subchapter III (§661 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
@@ -116,7 +116,7 @@ Subsec. (c)(20), (21). Pub. L. 112–25, §102(4), added pars. (20) and (21).
 
 Subsec. (c)(4)(B)(v) to (vii). Pub. L. 109–59, §8001(b)(1)(B), added cls. (v) to (vii).
 
-Subsec. (c)(4)(C). Pub. L. 109–59, §8001(b)(2), added heading and text of subpar. (C) and struck out former subpar. (C) which provided that the term "mass transit category" referred to the budget accounts as listed in cls. (i) to (vi) that were subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2004, Part V, and the Surface Transportation Extension Act of 2003, or for which appropriations were provided pursuant to authorizations contained in those Acts, with certain exceptions, and that such term also referred to the Washington Metropolitan Transit Authority account (69–1128–0–1–401) only for fiscal year 1999 only for appropriations provided pursuant to authorizations contained in section 14 of Public Law 96–184 and Public Law 101–551.
+Subsec. (c)(4)(C). Pub. L. 109–59, §8001(b)(2), added heading and text of subpar. (C) and struck out former subpar. (C) which provided that the term "mass transit category" referred to the budget accounts as listed incls. (i) to (vi) that were subject to the obligation limitations on contract authority provided in the Transportation Equity Act for the 21st Century, the Surface Transportation Extension Act of 2004, Part V, and the Surface Transportation Extension Act of 2003, or for which appropriations were provided pursuant to authorizations contained in those Acts, with certain exceptions, and that such term also referred to the Washington Metropolitan Transit Authority account (69–1128–0–1–401) only for fiscal year 1999 only for appropriations provided pursuant to authorizations contained in section 14 of Public Law 96–184 and Public Law 101–551.
 
 <b>2004</b>—Subsec. (c)(4)(B). Pub. L. 108–310, §10(c)(1), inserted "and the Surface Transportation Extension Act of 2004, Part V" after "Century".
 
@@ -162,7 +162,7 @@ Subsec. (c)(6). Pub. L. 105–33, §10202(b)(3), added par. (6) and struck out f
 
 &emsp;"(B) with respect to budget year 1992, 1993, 1994, or 1995, new budget authority; unobligated balances; direct spending authority; and obligation limitations."
 
-Subsec. (c)(9). Pub. L. 105–33, §10202(b)(4), substituted "that budget submission that are not included with it"for "submission of the fiscal year 1992 budget that are not included with a budget submission".
+Subsec. (c)(9). Pub. L. 105–33, §10202(b)(4), substituted "that budget submission that are not included with it" for "submission of the fiscal year 1992 budget that are not included with a budget submission".
 
 Subsec. (c)(14). Pub. L. 105–33, §10202(b)(5), inserted "first 4" before "fiscal years" and struck out "through fiscal year 1995" after "the budget year".
 
@@ -214,7 +214,7 @@ Pub. L. 112–25, §1(a), Aug. 2, 2011, 125 Stat. 240, provided that: "This Act 
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–33, title X, §10001(a), Aug. 5, 1997, 111 Stat. 677, provided that: "This title \[enacting sections 645 and 645a of this title, amending this section, sections 601, 602, 622, 631 to 636, 639, 641 to 644, 651, 654, 661a, 661c to 661e, 691a, 691c, 691e, 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 652, 665 to 665e, 901a, and 908 of this title and section 14212 of Title 42, enacting provisions set out as notes under this section and section 902of this title, amending provisions set out as notes under this section and section 621 of this title, and repealing provisions set out as notes under this section and sections 621, 631, and 665 of this title\] may be cited as the 'Budget Enforcement Act of 1997'."
+Pub. L. 105–33, title X, §10001(a), Aug. 5, 1997, 111 Stat. 677, provided that: "This title \[enacting sections 645 and 645a of this title, amending this section, sections 601, 602, 622, 631 to 636, 639, 641 to 644, 651, 654, 661a, 661c to 661e, 691a, 691c, 691e, 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 652, 665 to 665e, 901a, and 908 of this title and section 14212 of Title 42, enacting provisions set out as notes under this section and section 902 of this title, amending provisions set out as notes under this section and section 621 of this title, and repealing provisions set out as notes under this section and sections 621, 631, and 665 of this title\] may be cited as the 'Budget Enforcement Act of 1997'."
 
 #### Short Title of 1990 Amendment
 
@@ -374,7 +374,7 @@ Proxy voting.—No proxy voting shall be allowed on behalf of the members of the
 
 &emsp;&emsp;&emsp;"(ii)
 
-Congressional budget office estimates.—The Congressional Budget Office shall provide estimates of the legislation (as described in paragraph (3)(B)) in accordance with sections 308(a) and 201(f) of the Congressional Budget Act of 1974 (2 U.S.C. 639(a) and 601(f)) (including estimates of the effect of interest payment on the debt). In addition, the Congressional Budget Office shall provide information on the budgetary effect of the legislation beyond the year 2021. The joint committee may not vote on any version of the report, recommendations, or legislative language unless such estimates are available for consideration by all members of the joint committee at least 48 hours prior to the vote as certified by the Co-Chairs.
+Congressional budget office estimates.—The Congressional Budget Office shall provide estimates of the legislation (as described in paragraph (3)(B)) in accordance with sections308(a) and 201(f) of the Congressional Budget Act of 1974 (2 U.S.C. 639(a) and 601(f)) (including estimates of the effect of interest payment on the debt). In addition, the Congressional Budget Office shall provide information on the budgetary effect of the legislation beyond the year 2021. The joint committee may not vote on any version of the report, recommendations, or legislative language unless such estimates are available for consideration by all members of the joint committee at least 48 hours prior to the vote as certified by the Co-Chairs.
 
 &emsp;&emsp;"(E)
 
@@ -464,7 +464,7 @@ Committee consideration.—A joint committee bill introduced in the Senate under
 
 &emsp;"(2)
 
-Motion to proceed.—Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order, not later than 2 days of session after the date on which a joint committee bill is reported or discharged from all committees to which it was referred, for the majority leader of the Senate or the majority leader's designee to move to proceed to the consideration of the joint committee bill. It shall also be in order for any Member of the Senate to move to proceed to the consideration of the joint committee bill at any time after the conclusion of such 2-day period. A motion to proceed is in order even though a previous motion to the same effect has been disagreed to. All points of order against the motion to proceed to the joint committee bill are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint committee bill is agreed to, the joint committee bill shall remain the unfinished business until disposed of.
+Motion to proceed.—Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order, not later than 2 days of session after the date on which a joint committee bill is reported or discharged from all committees to which it was referred, for the majority leader of the Senate or the majority leader's designee to move to proceed to the consideration of the joint committee bill. It shall also be in order for any Member of the Senate to move to proceed to the consideration of the joint committee bill at any time after the conclusion of such 2-day period. A motion to proceed is in order even though a previous motion to the same effect has been disagreed to. All points of order against the motion to proceed to the joint committee bill are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed toshall not be in order. If a motion to proceed to the consideration of the joint committee bill is agreed to, the joint committee bill shall remain the unfinished business until disposed of.
 
 &emsp;"(3)
 
@@ -538,7 +538,7 @@ Loss of Privilege.—The provisions of this section shall cease to apply to the 
 
 "The provisions of this title are enacted by Congress—
 
-&emsp;"(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part ofthe rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
+&emsp;"(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
 &emsp;"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner, and to the same extent as in the case of any other rule of such House."
 
@@ -558,7 +558,7 @@ Pub. L. 107–77, title II, Nov. 28, 2001, 115 Stat. 775.
 
 #### Purpose of Subtitle B of Title X of Pub. L. 105–33
 
-Pub. L. 105–33, title X, §10201, Aug. 5, 1997, 111 Stat. 697, provided that: "The purpose of this subtitle \[subtitle B (§§10201–10213) of title X of Pub. L. 105–33, amending this section, sections 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 901a and 908 of this title and section 14212 of Title 42, enacting provisions set out as a note under section 902 of this title, and amending and repealing provisions set out as notes under this section\] is to extend discretionary spending limits and pay-as-you-go requirements."
+Pub. L. 105–33, title X, §10201, Aug. 5, 1997, 111 Stat. 697, provided that: "The purpose of this subtitle \[subtitle B (§§10201–10213) of title X of Pub. L. 105–33, amending this section, sections 901, 902, 904 to 907, and 922 of this title, section 1105 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing sections 901a and 908 of this title and section 14212 of Title 42, enacting provisions set out as a note under section 902 of this title, and amending and repealing provisions set out as notes under thissection\] is to extend discretionary spending limits and pay-as-you-go requirements."
 
 #### Restriction on Elimination or Reduction of Programs Relating to Energy and Water Development
 
@@ -590,7 +590,7 @@ Pub. L. 100–119, title II, §213, Sept. 29, 1987, 101 Stat. 787, provided that
 
 &emsp;"(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;"(2) with full recognition of the constitutional right of either House to change such rules (so far asrelating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House."
+&emsp;"(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House."
 
 Pub. L. 99–177, title II, §271(d), formerly §271(c), Dec. 12, 1985, 99 Stat. 1094, as redesignated by Pub. L. 100–119, title II, §210(a), Sept. 29, 1987, 101 Stat. 787, provided that: "The provisions of this title \[see Short Title note above\], other than those relating to the activities of the executive and judicial branches of the Government, are enacted by the Congress—
 

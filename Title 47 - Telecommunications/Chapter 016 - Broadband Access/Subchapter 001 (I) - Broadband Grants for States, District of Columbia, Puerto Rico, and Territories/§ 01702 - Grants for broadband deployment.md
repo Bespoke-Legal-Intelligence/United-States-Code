@@ -128,7 +128,7 @@
 
 #### (M) State
 
-&emsp;&emsp;The term "State" has the meaning given the term in section 942 of this title, exceptthat that definition shall be applied by striking ", and any other territory or possession of the United States".
+&emsp;&emsp;The term "State" has the meaning given the term in section 942 of this title, except that that definition shall be applied by striking ", and any other territory or possession of the United States".
 
 #### (N) Subgrantee
 
@@ -918,7 +918,7 @@ The Assistant Secretary may issue such regulations or other guidance, forms, ins
 
 #### (B) Semiannual report
 
-&emsp;&emsp;Not later than 1 year after receiving grant funds under this section, and semiannually thereafter until the funds have been expended, an eligible entity shall submit to the Assistant Secretary a report, with respect to the 6-month period immediately preceding the report date, that—
+&emsp;&emsp;Not later than 1 year after receiving grant funds under this section, and semiannuallythereafter until the funds have been expended, an eligible entity shall submit to the Assistant Secretary a report, with respect to the 6-month period immediately preceding the report date, that—
 
 &emsp;&emsp;&emsp;(i) describes how the eligible entity expended the grant funds;
 
@@ -1002,7 +1002,7 @@ The Assistant Secretary may issue such regulations or other guidance, forms, ins
 
 &emsp;&emsp;Not later than 2 years after November 15, 2021, the Assistant Secretary, in consultation with the Commission, shall establish a publicly available website that—
 
-&emsp;&emsp;&emsp;(i) allows a consumer to determine, based on financial information entered bythe consumer, whether the consumer is eligible—
+&emsp;&emsp;&emsp;(i) allows a consumer to determine, based on financial information entered by the consumer, whether the consumer is eligible—
 
 &emsp;&emsp;&emsp;&emsp;(I) to receive a Federal or State subsidy with respect to broadband service; or
 

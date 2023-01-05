@@ -42,7 +42,7 @@ The requirements described in this subsection are as follows:
 
 &emsp;&emsp;(D) officers, employees, or contract employees of the United States Government,
 
-> &emsp;whose deaths occur in the line of duty and arise out of terrorist attacks, military operations, intelligence operations, or law enforcement operations or accidents connected with activities occurring after September 11, 2001, and related to domestic or foreign efforts to curb international terrorism, including the Authorization for Use of Military Force (Public Law 107–40; 115 Stat. 224).
+> &emsp;whose deaths occur in the line of duty and arise out of terrorist attacks, military operations, intelligence operations, or law enforcement operations or accidents connected withactivities occurring after September 11, 2001, and related to domestic or foreign efforts to curb international terrorism, including the Authorization for Use of Military Force (Public Law 107–40; 115 Stat. 224).
 
 &emsp;(2) Other than funds or donations reasonably necessary to establish a trust, not more than 15 percent of all funds or donations (or 15 percent of annual earnings on funds invested in a private foundation) may be used for administrative purposes.
 
@@ -54,7 +54,7 @@ The requirements described in this subsection are as follows:
 
 &emsp;(6) Each Johnny Micheal Spann Patriot Trust shall comply with the instructions and directions of the Director of Central Intelligence, the Attorney General, or the Secretary of Defense relating to the protection of intelligence sources and methods, sensitive law enforcement information, or other sensitive national security information, including methods for confidentially disbursing funds.
 
-&emsp;(7) Each Johnny Micheal Spann Patriot Trust that receives annual contributions totaling more than $1,000,000 must be audited annually by an independent certified public accounting firm. Such audits shall be filed withthe Internal Revenue Service, and shall be open to public inspection, except that the conduct, filing, and availability of the audit shall be consistent with the protection of intelligence sources and methods, of sensitive law enforcement information, and of other sensitive national security information.
+&emsp;(7) Each Johnny Micheal Spann Patriot Trust that receives annual contributions totaling more than $1,000,000 must be audited annually by an independent certified public accounting firm. Such audits shall be filed with the Internal Revenue Service, and shall be open to public inspection, except that the conduct, filing, and availability of the audit shall be consistent with the protection of intelligence sources and methods, of sensitive law enforcement information, and of other sensitive national security information.
 
 &emsp;(8) Each Johnny Micheal Spann Patriot Trust shall make distributions to beneficiaries described in paragraph (1) at least once every calendar year, beginning not later than 12 months after the formation of such Trust, and all funds and donations received and earnings not placed in a private foundation dedicated to such beneficiaries must be distributed within 36 months after the end of the fiscal year in which such funds, donations, and earnings are received.
 

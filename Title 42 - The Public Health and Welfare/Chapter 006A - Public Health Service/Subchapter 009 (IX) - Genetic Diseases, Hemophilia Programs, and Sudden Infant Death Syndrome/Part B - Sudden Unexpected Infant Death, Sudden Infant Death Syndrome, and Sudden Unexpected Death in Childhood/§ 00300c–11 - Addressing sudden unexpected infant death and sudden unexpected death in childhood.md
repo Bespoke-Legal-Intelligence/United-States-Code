@@ -24,7 +24,7 @@ The Secretary may develop, support, or maintain programs or activities to addres
 
 &emsp;&emsp;&emsp;(ii) training medical examiners, coroners, death scene investigators, law enforcement personnel, emergency medical technicians, paramedics, emergency department personnel, and others who perform death scene investigations with respect to the deaths of infants and children, as appropriate;
 
-&emsp;&emsp;(C) identifying, developing, and implementing best practices to reduce or preventsudden unexpected infant death and sudden unexpected death in childhood, including practices to reduce sleep-related infant deaths;
+&emsp;&emsp;(C) identifying, developing, and implementing best practices to reduce or prevent sudden unexpected infant death and sudden unexpected death in childhood, including practices to reduce sleep-related infant deaths;
 
 &emsp;&emsp;(D) increasing the voluntary inclusion, in registries established for the purpose of conducting research on sudden unexpected infant death and sudden unexpected death in childhood, of samples of tissues or genetic materials from autopsies that have been collected pursuant to Federal or State law and for which the parent or guardian has provided informed consent for inclusion in such registries;
 

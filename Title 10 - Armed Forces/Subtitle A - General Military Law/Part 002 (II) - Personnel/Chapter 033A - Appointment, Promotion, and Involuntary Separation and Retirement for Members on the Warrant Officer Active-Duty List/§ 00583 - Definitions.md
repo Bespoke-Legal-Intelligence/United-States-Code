@@ -4,9 +4,9 @@ In this chapter:
 
 &emsp;(1) The term "promotion zone" means a promotion eligibility category consisting of officers on a warrant officer active-duty list in the same grade (or the same grade and competitive category) who—
 
-&emsp;&emsp;(A) in the case of grades below chief warrant officer, W–5, have neither (i) failed of selection for promotion to the next higher grade, nor (ii) been removed from a list of warrant officers recommended for promotion to that grade (other than after having been placed on that list after a selection from below the promotion zone); and
+&emsp;&emsp;(A) in the case of grades below chief warrant officer, W–⁠5, have neither (i) failed of selection for promotion to the next higher grade, nor (ii) been removed from a list of warrant officers recommended for promotion to that grade (other than after having been placed on that list after a selection from below the promotion zone); and
 
-&emsp;&emsp;(B) are senior to the warrant officer designated by the Secretary concerned to be the junior warrant officer in the promotion zoneeligible for promotion to the next higher grade.
+&emsp;&emsp;(B) are senior to the warrant officer designated by the Secretary concerned to be the junior warrant officer in the promotion zone eligible for promotion to the next higher grade.
 
 &emsp;(2) The term "warrant officers above the promotion zone" means a group of officers on a warrant officer active-duty list in the same grade (or the same grade and competitive category) who—
 
@@ -16,7 +16,7 @@ In this chapter:
 
 &emsp;&emsp;(C) are senior to the senior warrant officer in the promotion zone.
 
-&emsp;(3) The term "warrant officers below the promotion zone" means a group of officers on a warrant officer active-duty list in the same grade (or the same grade and competitive category) who—
+&emsp;(3) The term "warrant officers below the promotion zone" means a group of officers on a warrant officer active-duty list in the samegrade (or the same grade and competitive category) who—
 
 &emsp;&emsp;(A) are eligible for consideration for promotion to the next higher grade;
 

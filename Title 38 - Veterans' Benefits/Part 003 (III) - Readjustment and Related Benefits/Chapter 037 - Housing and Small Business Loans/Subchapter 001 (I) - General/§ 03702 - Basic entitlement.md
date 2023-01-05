@@ -56,7 +56,7 @@
 
 (e) The Secretary may at any time upon thirty days' notice require housing loans to be made by any lender or class of lenders to be submitted to the Secretary for prior approval. No guaranty or insurance liability shall exist with respect to any such loan unless evidence of guaranty or insurance is issued by the Secretary.
 
-(f) Any housing loan at least 20 percent of which is guaranteed under this chapter may bemade by any national bank or Federal savings and loan association, or by any bank, trust company, building and loan association, or insurance company, organized or authorized to do business in the District of Columbia. Any such loan may be so made without regard to the limitations and restrictions of any other law relating to—
+(f) Any housing loan at least 20 percent of which is guaranteed under this chapter may be made by any national bank or Federal savings and loan association, or by any bank, trust company, building and loan association, or insurance company, organized or authorized to do business in the District of Columbia. Any such loan may be so made without regard to the limitations and restrictions of any other law relating to—
 
 &emsp;(1) ratio of amount of loan to the value of the property;
 

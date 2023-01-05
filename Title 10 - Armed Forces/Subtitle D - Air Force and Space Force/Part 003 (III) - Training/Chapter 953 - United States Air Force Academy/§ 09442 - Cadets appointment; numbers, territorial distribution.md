@@ -2,7 +2,7 @@
 
 (a) The authorized strength of cadets of the Academy (determined for any year as of the day before the last day of the academic year) is 4,400 or such lower number as may be prescribed by the Secretary of the Air Force under subsection (j). Subject to that limitation, cadets are selected as follows:
 
-&emsp;(1) 65 cadets selected in order of merit as established by competitive examination from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability rated at not less than 100 per centum resulting from wounds or injuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a "missing status" as defined in section 551(2) of title 37, and children of civilian employees who are in "missing status" as defined in section 5561(5) of title 5. The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability,and the percentage at which the disability is rated, is binding upon the Secretary of the Air Force.
+&emsp;(1) 65 cadets selected in order of merit as established by competitive examination from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability rated at not less than 100 per centum resulting from wounds or injuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a "missing status" as defined in section 551(2) of title 37, and children of civilian employees who are in "missing status" as defined in section 5561(5) of title 5. The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability, and the percentage at which the disability is rated, is binding upon the Secretary of the Air Force.
 
 &emsp;(2) Five cadets nominated at large by the Vice President or, if there is no Vice President, by the President pro tempore of the Senate.
 
@@ -44,7 +44,7 @@
 
 &emsp;(4) 20 nominated by the Secretary of the Air Force, under regulations prescribed by the Secretary, from the honor graduates of schools designated as honor schools by the Department of the Army, the Department of the Navy, or the Department of the Air Force, and from members of the Air Force Reserve Officers' Training Corps.
 
-&emsp;(5) 150 selected by the Secretary of the Air Force in order of merit (prescribed pursuant to section 9443 of this title) from qualified alternates nominated by persons named in paragraphs (3) and (4) of subsection (a).
+&emsp;(5) 150 selected by the Secretary of the Air Force in order of merit (prescribed pursuant to section 9443 of this title) from qualified alternates nominated by persons named in paragraphs (3) through (10) of subsection (a).
 
 (c) The President may also appoint as cadets at the Academy children of persons who have been awarded the Medal of Honor for acts performed while in the armed forces.
 
@@ -90,7 +90,7 @@
 
 (4) In this subsection, the term "cadet strength limit" means the authorized maximum strength of cadets of the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 563, §9342; Pub. L. 87–663, §1(5), (6), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §4(1), Mar. 3, 1964, 78 Stat. 151; Pub. L. 89–650, §1(1)–(3), (5), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(3), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §3(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §514(11), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 96–600, §2(c), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(c)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(3), (b)(3), Sept. 24, 1983, 97 Stat. 660, 661; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(c)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1674(c)(3), Oct. 5, 1994, 108 Stat. 3017; Pub. L. 104–106, div. A, title V, §532(c), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 315, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(3), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–314, div. A, title V, §532(c), Dec. 2, 2002, 116 Stat. 2546; Pub. L. 108–136, div. A, title V, §524(c), title X, §1031(a)(58), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–364, div. A, title X, §1071(a)(38), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 110–229, title VII, §718(c), May 8, 2008, 122 Stat. 869; Pub. L. 110–417, \[div. A\], title V, §540(c), Oct. 14, 2008, 122 Stat. 4454; Pub. L. 111–84, div. A, title V, §527(c), Oct. 28, 2009, 123 Stat. 2288; Pub. L. 112–239, div. A, title X, §1076(f)(42), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 114–92, div. A, title V, §556(c), Nov. 25, 2015, 129 Stat. 825; Pub. L. 114–328, div. A, title V, §566(c), Dec. 23, 2016, 130 Stat. 2139; renumbered §9442 and amended Pub. L. 115–232, div. A, title VIII, §§806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840; Pub. L. 116–283, div. A, title IX, §923(d)(10), Jan. 1, 2021, 134 Stat. 3815.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 563, §9342; Pub. L. 87–663, §1(5), (6), Sept. 14, 1962, 76 Stat. 547; Pub. L. 88–276, §4(1), Mar. 3, 1964, 78 Stat. 151; Pub. L. 89–650, §1(1)–(3), (5), Oct. 13, 1966, 80 Stat. 896; Pub. L. 90–374, July 5, 1968, 82 Stat. 283; Pub. L. 90–623, §2(8), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 91–405, title II, §204(c), Sept. 22, 1970, 84 Stat. 852; Pub. L. 92–365, §1(3), Aug. 7, 1972, 86 Stat. 505; Pub. L. 93–171, §3(1)–(4), Nov. 29, 1973, 87 Stat. 690; Pub. L. 94–106, title VIII, §803(b)(1), Oct. 7, 1975, 89 Stat. 538; Pub. L. 96–513, title V, §514(11), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 96–600, §2(c), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 97–60, title II, §203(c)(1), Oct. 14, 1981, 95 Stat. 1006; Pub. L. 98–94, title X, §1005(a)(3), (b)(3), Sept. 24, 1983, 97 Stat. 660, 661; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §532(c)(1), Nov. 5, 1990, 104 Stat. 1563; Pub. L. 103–160, div. A, title V, §531, Nov. 30, 1993, 107 Stat. 1657; Pub. L. 103–337, div. A, title XVI, §1674(c)(3), Oct. 5, 1994, 108 Stat. 3017; Pub. L. 104–106, div. A, title V, §532(c), title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 315, 502; Pub. L. 105–85, div. A, title X, §1073(a)(62), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–65, div. A, title V, §531(b)(3), title X, §1067(1), Oct. 5, 1999, 113 Stat. 602, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §531(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–314, div. A, title V, §532(c), Dec. 2, 2002, 116 Stat. 2546; Pub. L. 108–136, div. A, title V, §524(c), title X, §1031(a)(58), Nov. 24, 2003, 117 Stat. 1464, 1603; Pub. L. 109–364, div. A, title X, §1071(a)(38), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 110–229, title VII, §718(c), May 8, 2008, 122 Stat. 869; Pub. L. 110–417, \[div. A\], title V, §540(c), Oct. 14, 2008, 122 Stat. 4454; Pub. L. 111–84, div. A, title V, §527(c), Oct. 28, 2009, 123 Stat. 2288; Pub. L. 112–239, div. A, title X, §1076(f)(42), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 114–92, div. A, title V, §556(c), Nov. 25, 2015, 129 Stat. 825; Pub. L. 114–328, div. A, title V, §566(c), Dec. 23, 2016, 130 Stat. 2139; renumbered §9442 and amended Pub. L. 115–232, div. A, title VIII, §§806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840; Pub. L. 116–283, div. A, title IX, §923(d)(10), Jan. 1, 2021, 134 Stat. 3815; Pub. L. 117–263, div. A, title V, §552(c), Dec. 23, 2022, 136 Stat. 2592.)
 
 Historical and Revision Notes
 
@@ -168,7 +168,7 @@ In subsection (b), the words "from whatever source of admission", in 10:1092a, a
 
 In subsection (c), the first 15 words are substituted for the words "all of which cadets shall be". The words "domiciled in" are substituted for the words "actual residents of" to conform to opinions of the Judge Advocate General of the Army (R. 29, 83; J.A.G. 351.11, Feb. 10, 1925).
 
-In subsection (e)(4), the words "armed forces" are substituted for the description of the land or naval forces. The date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words "such date as shall thereafter be determined by Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38". The words "including male and female members of \* \* \* and all components thereof" are omitted as surplusage.
+In subsection (e)(4), the words "armed forces" are substituted for the description of the land or naval forces. The date February 1, 1955, fixed by Proclamation No. 3080 (Jan. 7, 1955; 20 F.R. 173), is substituted for the words "such date as shall thereafter be determinedby Presidential proclamation or concurrent resolution of the Congress under section 745 of title 38". The words "including male and female members of \* \* \* and all components thereof" are omitted as surplusage.
 
 In subsection (f), the words "whether a death is service-connected" are substituted for the words "as to the service connection of the cause of death".
 
@@ -185,6 +185,8 @@ A prior section 9442 was renumbered section 9492 of this title.
 Another prior section 9442, added Pub. L. 98–525, title XV, §1533(b)(1), Oct. 19, 1984, 98 Stat. 2632, related to assistance of Civil Air Patrol by other agencies, prior to the general amendment of former chapter 909 (now 959) of this title by Pub. L. 106–398.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(5). Pub. L. 117–263 substituted "paragraphs (3) through (10)" for "paragraphs (3) and (4)".
 
 <b>2021</b>—Pub. L. 116–283, §923(d)(10)(A)(i), substituted "cadets" for "Air Force Cadets" wherever appearing.
 
@@ -258,7 +260,7 @@ Subsec. (f). Pub. L. 101–510, §532(c)(1)(C), substituted "clauses (3) through
 
 <b>1989</b>—Subsec. (a)(1). Pub. L. 101–189 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-<b>1983</b>—Subsec. (a)(8). Pub. L. 98–94, §1005(b)(3), substituted: "One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States" for "One cadet nominated by the Governor of the Panama Canal from the children of civilians residing in the Canal Zone or the children of civilian personnel of the United States Government, or the Panama Canal Company, residing in the Republic of Panama".
+<b>1983</b>—Subsec. (a)(8). Pub. L. 98–94, §1005(b)(3), substituted: "One cadet nominated by the Administrator of the Panama Canal Commission from the children of civilian personnel of the United States Government residing in the Republic of Panama who are citizens of the United States" for "One cadet nominated by the Governor of the Panama Canal from the children of civilians residing in the Canal Zone or the children of civilian personnel of the United States Government, orthe Panama Canal Company, residing in the Republic of Panama".
 
 Subsec. (a)(10). Pub. L. 98–94, §1005(a)(3), substituted "One cadet from American Samoa, nominated by the Delegate in Congress from American Samoa" for "One cadet from American Samoa nominated by the Secretary of the Air Force upon recommendation of the Governor of American Samoa".
 
@@ -320,11 +322,11 @@ Amendment by Pub. L. 111–84 applicable with respect to appointments to the Uni
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–417 applicable with respect to academic years at the Air Force Academyafter the 2007–2008 academic year, see section 540(d) of Pub. L. 110–417, set out as a note under section 7442 of this title.
+Amendment by Pub. L. 110–417 applicable with respect to academic years at the Air Force Academy after the 2007–2008 academic year, see section 540(d) of Pub. L. 110–417, set out as a note under section 7442 of this title.
 
 #### Effective Date of 2003 Amendment
 
-Amendment by section 524(c) of Pub. L. 108–136 applicable with respect to nomination of candidates for appointment to United States Air Force Academy for classes entering after Nov. 24, 2003, see section 524(d) of Pub. L. 108–136, set out as a note under section 7442 of this title.
+Amendment by section 524(c) of Pub. L. 108–136 applicable with respect to nomination of candidates for appointment to United States Air Force Academy for classes entering after Nov. 24, 2003, see section 524(d) ofPub. L. 108–136, set out as a note under section 7442 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -32,7 +32,7 @@ A grantee shall carry out eligible activities under section 12904 of this title 
 
 &emsp;&emsp;For purposes of allocating amounts under subparagraph (A)(ii), the Secretary shall develop a method that accounts for—
 
-&emsp;&emsp;&emsp;(I) <sup>1</sup> differences in housing costs among States and metropolitan statistical areas based on the fair market rental established pursuant to section 1437f(c) of this title or another methodology established by the Secretary through regulation; and
+&emsp;&emsp;&emsp;(I) <sup>1</sup> differences in housing costs among States and metropolitan statistical areasbased on the fair market rental established pursuant to section 1437f(c) of this title or another methodology established by the Secretary through regulation; and
 
 &emsp;&emsp;&emsp;(ii) differences in poverty rates among States and metropolitan statistical areas based on area poverty indexes or another methodology established by the Secretary through regulation.
 
@@ -110,7 +110,7 @@ A grantee shall carry out eligible activities under section 12904 of this title 
 
 #### (C) National significance projects
 
-&emsp;&emsp;For the purpose of subparagraph (A)(ii), in selecting projects of national significance the Secretary shall consider (i) the need to assess the effectiveness of a particular model for providing supportive housing for eligible persons; (ii) the innovative nature of the proposed activity; and (iii) the potential replicability of the proposed activity in other similar localities or nationally.
+&emsp;&emsp;For the purpose of subparagraph (A)(ii), in selecting projects of national significance the Secretary shall consider (i) the need toassess the effectiveness of a particular model for providing supportive housing for eligible persons; (ii) the innovative nature of the proposed activity; and (iii) the potential replicability of the proposed activity in other similar localities or nationally.
 
 #### (d) Applications
 

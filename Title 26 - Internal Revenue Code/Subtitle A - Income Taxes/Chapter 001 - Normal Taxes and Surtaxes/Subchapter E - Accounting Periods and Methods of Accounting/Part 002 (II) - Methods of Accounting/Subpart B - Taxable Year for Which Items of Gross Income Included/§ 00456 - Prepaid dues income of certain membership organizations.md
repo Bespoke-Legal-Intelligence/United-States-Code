@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (1) Prepaid dues income
 
-&emsp;The term "prepaid dues income" means any amount (includible in gross income) which is received by a membership organization in connection with, and is directly attributable to, a liability to render services or make available membership privileges over a period of time which extends beyond the close of the taxable year in which such amount is received.
+&emsp;The term "prepaid dues income" means any amount (includible in gross income) which isreceived by a membership organization in connection with, and is directly attributable to, a liability to render services or make available membership privileges over a period of time which extends beyond the close of the taxable year in which such amount is received.
 
 #### (2) Liability
 

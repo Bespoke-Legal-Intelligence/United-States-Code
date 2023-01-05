@@ -42,7 +42,7 @@ The Chief Information Officer of the Intelligence Community shall submit to the 
 
 #### (d) Implementation of recommendations
 
-Not later than 180 days after the date on which the Director of National Intelligence receivesrecommendations from the Chief Information Officer of the Intelligence Community in accordance with subsection (b)(3), the Director of National Intelligence shall, to the extent practicable, issue guidelines for the intelligence community on software procurement and usage based on such recommendations.
+Not later than 180 days after the date on which the Director of National Intelligence receives recommendations from the Chief Information Officer of the Intelligence Community in accordance with subsection (b)(3), the Director of National Intelligence shall, to the extent practicable, issue guidelines for the intelligence community on software procurement and usage based on such recommendations.
 
 (July 26, 1947, ch. 343, title I, §109, as added Pub. L. 113–126, title III, §307(a), July 7, 2014, 128 Stat. 1396; amended Pub. L. 113–293, title III, §304, Dec. 19, 2014, 128 Stat. 3995.)
 

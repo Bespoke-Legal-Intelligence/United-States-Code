@@ -56,7 +56,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;&emsp;(J) homeownership activities, including programs under section 1437z–4 of this title;
 
-&emsp;&emsp;(K) improvement of energy and water-use efficiency by installing fixtures and fittings that conform to the American Society of Mechanical Engineers/American National Standards Institute standards A112.19.2–1998 and A112.18.1–2000, or any revision thereto,applicable at the time of installation, and by increasing energy efficiency and water conservation by such other means as the Secretary determines are appropriate; and
+&emsp;&emsp;(K) improvement of energy and water-use efficiency by installing fixtures and fittings that conform to the American Society of Mechanical Engineers/American National Standards Institute standards A112.19.2–1998 and A112.18.1–2000, or any revision thereto, applicable at the time of installation, and by increasing energy efficiency and water conservation by such other means as the Secretary determines are appropriate; and
 
 &emsp;&emsp;(L) integrated utility management and capital planning to maximize energy conservation and efficiency measures.
 
@@ -134,7 +134,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 &emsp;&emsp;&emsp;(v) the need of the public housing agency to carry out anti-crime and anti-drug activities, including providing adequate security for public housing residents;
 
-&emsp;&emsp;&emsp;(vi) the amount of public housing rental income foregone by the public housing agency as a result of escrow savings accounts under section 1437u(d)(2) of this title for families participating in a family self-sufficiency program of the agency under such section 1437u of this title; and
+&emsp;&emsp;&emsp;(vi) the amount of public housing rental income foregone by the public housing agency as a result of escrow savings accounts under section 1437u(d)(2) <sup>2</sup> of this title for families participating in a family self-sufficiency program of the agency under such section 1437u of this title; and
 
 &emsp;&emsp;&emsp;(vii) any other factors that the Secretary determines to be appropriate.
 
@@ -298,7 +298,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 &emsp;&emsp;&emsp;(ii) the complexity of capital program of the public housing agency;
 
-&emsp;&emsp;&emsp;(iii) any limitation on the ability of the public housing agency to obligate the amounts allocated for the agency from the Capital Fund in a timely manner as a result of State or local law; or
+&emsp;&emsp;&emsp;(iii) any limitation on the ability of the public housing agency to obligate theamounts allocated for the agency from the Capital Fund in a timely manner as a result of State or local law; or
 
 &emsp;&emsp;&emsp;(iv) such other factors as the Secretary determines to be relevant.
 
@@ -334,7 +334,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (B) Enforcement
 
-&emsp;&emsp;The Secretary shall enforce the requirement of subparagraph (A) through defaultremedies up to and including withdrawal of the funding.
+&emsp;&emsp;The Secretary shall enforce the requirement of subparagraph (A) through default remedies up to and including withdrawal of the funding.
 
 #### (6) Right of recapture
 
@@ -364,11 +364,11 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (2) Reduction of asthma incidence
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>2</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>3</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
 
 #### (3) Services for elderly residents
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one or more developments. The model project may provide for contracting with private parties for the delivery of services.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housingbefore the amounts are made available from such Funds, use not more than $600,000 per year for the purpose of developing a comprehensive plan to address the need for services for elderly residents. Such plan may be developed by a partnership created by such Housing Authority and may include the creation of a model project for assisted living at one or more developments. The model project may provide for contracting with private parties for the delivery of services.
 
 #### (4) Effective date
 
@@ -417,6 +417,8 @@ The Secretary shall publish model guidelines for minimum heating requirements fo
 The Quality Housing and Work Responsibility Act of 1998, referred to in subsecs. (a) and (b), is title V of Pub. L. 105–276, Oct. 21, 1998, 112 Stat. 2518. Section 503(a) of the Act is set out as an Effective Date of 1998 Amendment note under section 1437 of this title. Section 519(e) of the Act is set out as a note below. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 1437 of this title and Tables.
 
 Section 1437l of this title, referred to in subsecs. (a) and (d)(3)(A), (B), was repealed by Pub. L. 105–276, title V, §522(a), Oct. 21, 1998, 112 Stat. 2564.
+
+Section 1437u(d)(2) of this title, referred to in subsec. (e)(2)(A)(vi), was redesignated section 1437u(e)(2) of this title and substantially rewritten by Pub. L. 115–174, title III, §306(a)(4), (7)(B), May 24, 2018, 132 Stat. 1340, 1341.
 
 #### Prior Provisions
 
@@ -490,7 +492,7 @@ Subsec. (a)(2). Pub. L. 100–242, §112(b)(4), substituted "one developed pursu
 
 Subsec. (a)(3). Pub. L. 100–242, §118(a)(2), added par. (3).
 
-Subsec. (c). Pub. L. 100–242, §118(b), amended subsec. (c) generally, substituting provisions authorizing appropriations under this section for fiscal years 1988 and 1989 for provisions authorizing appropriations for the period beginning on or after July 1, 1975, through the period beginning on or after Oct. 1, 1985.
+Subsec. (c). Pub. L. 100–242, §118(b), amended subsec. (c) generally, substituting provisions authorizing appropriations under this section for fiscal years 1988 and1989 for provisions authorizing appropriations for the period beginning on or after July 1, 1975, through the period beginning on or after Oct. 1, 1985.
 
 Subsec. (e). Pub. L. 100–242, §118(c), added subsec. (e).
 
@@ -534,7 +536,7 @@ Pub. L. 108–7, div. K, title II, §212(c), Feb. 20, 2003, 117 Stat. 504, provi
 
 #### Effective Date of 1998 Amendment
 
-Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extentthat such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
+Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
 
 Pub. L. 105–276, title V, §519(e)–(g), Oct. 21, 1998, 112 Stat. 2561, 2562, provided that:
 
@@ -570,7 +572,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 
 #### Effective Date of 1992 Amendment
 
-Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
+Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expirationof 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -596,9 +598,13 @@ Pub. L. 108–7, div. K, title II, Feb. 20, 2003, 117 Stat. 487, provided in par
 
 #### Capital Funds for Central Office Costs
 
-Pub. L. 116–260, div. L, title II, §214, Dec. 27, 2020, 134 Stat. 1896, provided that: "With respect to the use of amounts provided in this Act \[div. L of Pub. L. 116–260, 134 Stat. 1823, see Tables for classification\] and in future Acts for the operation, capital improvement, and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d), (e)), the Secretary \[of Housing and Urban Development\] shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to paragraph (1) or (2) of section 9(g) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1), (2)): <i>Provided</i>, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under paragraph (1) or (2) of section 9(g)."
+Pub. L. 117–328, div. L, title II, §214, Dec. 29, 2022, 136 Stat. 5174, provided that: "With respect to the use of amounts provided in this Act \[probably means title II of div. L. of Pub. L. 117–328, 136 Stat. 5139, see Tables for classification\] and in future Acts for the operation, capital improvement, and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 (42 U.S.C. 1437g(d),(e)), the Secretary \[of Housing and Urban Development\] shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to paragraph (1) or (2) of section 9(g) of the United States Housing Act of 1937 (42 U.S.C. 1437g(g)(1), (2)): <i>Provided</i>, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under paragraph (1) or (2) of section 9(g)."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–103, div. L, title II, §214, Mar. 15, 2022, 136 Stat. 758.
+
+Pub. L. 116–260, div. L, title II, §214, Dec. 27, 2020, 134 Stat. 1896.
 
 Pub. L. 116–94, div. H, title II, §214, Dec. 20, 2019, 133 Stat. 3004.
 
@@ -662,5 +668,7 @@ Pub. L. 101–625, title V, §523, Nov. 28, 1990, 104 Stat. 4215, which directed
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Fund".</i>
 
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

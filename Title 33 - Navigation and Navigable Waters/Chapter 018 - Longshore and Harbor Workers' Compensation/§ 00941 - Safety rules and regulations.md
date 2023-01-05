@@ -8,7 +8,7 @@ Every employer shall furnish and maintain employment and places of employment wh
 
 The Secretary, in enforcing and administering the provisions of this section, is authorized in addition to such other powers and duties as are conferred upon him—
 
-&emsp;(1) to make studies and investigations with respect to safety provisions and the causes and prevention of injuries in employments covered by this chapter, and in making such studies and investigations to cooperate with any agency of the United States or with any State agency engaged in similar work;
+&emsp;(1) to make studies and investigations with respect to safety provisions and the causes and prevention of injuries in employments covered by this chapter, and in making such studiesand investigations to cooperate with any agency of the United States or with any State agency engaged in similar work;
 
 &emsp;(2) to utilize the services of any agency of the United States or any State agency engaged in similar work (with the consent of such agency) in connection with the administration of this section;
 
@@ -70,7 +70,7 @@ As originally enacted, subsec. (e) contained the phrase ", together with the Di
 
 <b>1982</b>—Subsec. (b)(1). Pub. L. 97–375 struck out "and from time to time make to Congress such recommendations as he may deem proper as to the best means of preventing such injuries" after "by this chapter".
 
-<b>1958</b>—Pub. L. 85–742 amended section generally and, among other changes, empowered the Secretary ofLabor to prescribe, by regulation or order, safety rules for the furnishing and maintenance of safe places of employment and for the installation, furnishing and maintenance of safety devices and safeguards, authorized the Secretary to provide for the establishment and supervision of safety programs, permitted the inspection of places of employment and investigation of employment conditions and practices, granted jurisdiction to the district courts to restrain violations of this section or of any rules, regulations or orders of the Secretary, and to prescribe penalties for violations.
+<b>1958</b>—Pub. L. 85–742 amended section generally and, among other changes, empowered the Secretary of Labor to prescribe, by regulation or order, safety rules for the furnishing and maintenance of safe places of employment and for the installation, furnishing and maintenance of safety devices and safeguards, authorized the Secretary to provide for the establishment and supervision of safety programs, permitted the inspection of places of employment and investigation of employment conditions and practices, granted jurisdiction to the district courts to restrain violations of this section or of any rules, regulations or orders of the Secretary, and to prescribe penalties for violations.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

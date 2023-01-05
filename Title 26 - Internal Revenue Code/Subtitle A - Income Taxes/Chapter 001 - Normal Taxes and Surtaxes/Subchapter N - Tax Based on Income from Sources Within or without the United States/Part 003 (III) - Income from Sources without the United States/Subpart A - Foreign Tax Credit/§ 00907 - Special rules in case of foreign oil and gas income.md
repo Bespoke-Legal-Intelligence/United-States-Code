@@ -140,7 +140,7 @@ For purposes of this section—
 
 #### (5) Oil and gas extraction taxes
 
-&emsp;The term "oil and gas extraction taxes" means any income, war profits, and excessprofits tax paid or accrued (or deemed to have been paid under section 960) during the taxable year with respect to foreign oil and gas extraction income (determined without regard to paragraph (4)) or loss which would be taken into account for purposes of section 901 without regard to this section.
+&emsp;The term "oil and gas extraction taxes" means any income, war profits, and excess profits tax paid or accrued (or deemed to have been paid under section 960) during the taxable year with respect to foreign oil and gas extraction income (determined without regard to paragraph (4)) or loss which would be taken into account for purposes of section 901 without regard to this section.
 
 #### (d) Disregard of certain posted prices, etc.
 
@@ -152,7 +152,7 @@ For purposes of this chapter, in determining the amount of taxable income in the
 
 #### (1) In general
 
-&emsp;If the amount of the foreign oil and gas taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the "unused credit year"), such excess shall be deemed to be foreign oil and gas taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that order and to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
+&emsp;If the amount of the foreign oil and gas taxes paid or accrued during any taxable year exceeds the limitation provided by subsection (a) for such taxable year (hereinafter in this subsection referred to as the "unused credit year"), such excess shall be deemed to be foreign oil and gas taxes paid or accrued in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that orderand to the extent not deemed tax paid or accrued in a prior taxable year by reason of the limitation imposed by paragraph (2). Such amount deemed paid or accrued in any taxable year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions.
 
 #### (2) Limitation
 
@@ -342,7 +342,7 @@ In general.—If, after applying old sections 907(b) and 904(f)(4) to a taxable 
 
 Definitions.—For purposes of this paragraph—
 
-&emsp;&emsp;"(i) The term 'separate basket foreign loss' means any foreign loss attributable to activities takeninto account (or not taken into account) in determining foreign oil related income (as defined in old section 907(c)(2)).
+&emsp;&emsp;"(i) The term 'separate basket foreign loss' means any foreign loss attributable to activities taken into account (or not taken into account) in determining foreign oil related income (as defined in old section 907(c)(2)).
 
 &emsp;&emsp;"(ii) An 'old' section is such section as in effect on the day before the date of the enactment of this Act \[Sept. 3, 1982\]."
 
@@ -360,7 +360,7 @@ Pub. L. 95–600, title VII, §701(u)(8)(D), Nov. 6, 1978, 92 Stat. 2916, as ame
 
 Amendment by section 1031(b)(6)(A) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, with exceptions for certain mining operations, income from possessions, and carryback and carryover in the case of mining operations and income from a possession, see section 1031(c) of Pub. L. 94–455, set out as a note under section 904 of this title.
 
-Amendment by section 1032(b)(1) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, and amendment by section 1032(b)(2) of Pub. L. 94–455 applicable to losses sustained in taxable years beginning after Dec. 31, 1975, see section 1032(c) of Pub. L. 94–455, set out as a note under section 904 of this title.
+Amendment by section 1032(b)(1) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975,and amendment by section 1032(b)(2) of Pub. L. 94–455 applicable to losses sustained in taxable years beginning after Dec. 31, 1975, see section 1032(c) of Pub. L. 94–455, set out as a note under section 904 of this title.
 
 Pub. L. 94–455, title X, §1035(e), Oct. 4, 1976, 90 Stat. 1633, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 

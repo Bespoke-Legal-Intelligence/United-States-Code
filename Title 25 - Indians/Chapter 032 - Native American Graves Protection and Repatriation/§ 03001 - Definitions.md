@@ -4,7 +4,7 @@ For purposes of this chapter, the term—
 
 &emsp;(1) "burial site" means any natural or prepared physical location, whether originally below, on, or above the surface of the earth, into which as a part of the death rite or ceremony of a culture, individual human remains are deposited.
 
-&emsp;(2) "cultural affiliation" means that there is a relationship of shared group identity which can be reasonably traced historically or prehistorically between a present day Indian tribe or Native Hawaiian organization and an identifiable earlier group.
+&emsp;(2) "cultural affiliation" means that there is a relationship of shared group identity which can be reasonably traced historically orprehistorically between a present day Indian tribe or Native Hawaiian organization and an identifiable earlier group.
 
 &emsp;(3) "cultural items" means human remains and—
 
@@ -64,9 +64,9 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 The Alaska Native Claims Settlement Act of 1971, referred to in par. (5), probably means the Alaska Native Claims Settlement Act. See note below.
 
-The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-The Hawaiian Homes Commission Act, 1920, referred to in par. (15)(C), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
+The Hawaiian Homes Commission Act, 1920, referred to in par. (15)(C), is act July 9, 1921, ch. 42, 42 Stat. 108, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
 Section 4 of Public Law 86–3, referred to in par. (15)(C), is section 4 of Pub. L. 86–3, which is set out as a note preceding section 491 of Title 48.
 

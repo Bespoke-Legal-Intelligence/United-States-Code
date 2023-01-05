@@ -20,7 +20,7 @@ The Secretary, in consultation and coordination, as appropriate, with other Fede
 
 #### (c) Protection of sensitive information
 
-The Secretary shall take appropriate measures to ensure that there are in effect effectiveprocedures to prevent the unauthorized disclosure of any trade secret or confidential information that is obtained by the Secretary pursuant to this section.
+The Secretary shall take appropriate measures to ensure that there are in effect effective procedures to prevent the unauthorized disclosure of any trade secret or confidential information that is obtained by the Secretary pursuant to this section.
 
 #### (d) Limitations
 

@@ -8,7 +8,7 @@ The Secretary, under such regulations as he may prescribe, shall pay (without in
 
 &emsp;(2) breakage, destruction, or other damage (but not including theft) resulting from vandalism or malicious mischief,
 
-> if such disaster or damage occurred in the United States and if such distilled spirits, wines, or beer were held and intended for sale at the time of such disaster or other damage. The payments provided for in this section shall be made to the person holding such distilled spirits, wines, or beer for sale at the time of such disaster or other damage.
+> if such disaster or damage occurred in the United States and if such distilled spirits, wines, or beer were held and intended for sale at thetime of such disaster or other damage. The payments provided for in this section shall be made to the person holding such distilled spirits, wines, or beer for sale at the time of such disaster or other damage.
 
 #### (b) Claims
 
@@ -52,13 +52,13 @@ The provisions of this section shall not be applicable in respect of distilled s
 
 All provisions of law, including penalties, applicable in respect of internal revenue taxes on distilled spirits, wines, and beer shall, insofar as applicable and not inconsistent with this section, be applied in respect of the payments provided for in this section to the same extent as if such payments constituted refunds of such taxes.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1337; amended Pub. L. 91–606, title III, §301(i), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 93–288, title VII, §702(i), formerly title VI, §602(i), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(i), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–423, §1(a), Oct. 6, 1978, 92 Stat. 935; Pub. L. 96–39, title VIII, §807(a)(10),July 26, 1979, 93 Stat. 282; Pub. L. 100–707, title I, §109(l), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 108–311, title IV, §408(a)(7)(D), Oct. 4, 2004, 118 Stat. 1191.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1337; amended Pub. L. 91–606, title III, §301(i), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 93–288, title VII, §702(i), formerly title VI, §602(i), May 22, 1974, 88 Stat. 164, renumbered title VII, §702(i), Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–423, §1(a), Oct. 6, 1978, 92 Stat. 935; Pub. L. 96–39, title VIII, §807(a)(10), July 26, 1979, 93 Stat. 282; Pub. L. 100–707, title I, §109(l), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 108–311, title IV, §408(a)(7)(D), Oct. 4, 2004, 118 Stat. 1191.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Prior Provisions
 

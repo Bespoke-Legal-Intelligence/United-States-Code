@@ -28,7 +28,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(i) is established, created, or organized in the United States or under the laws of the United States; and
 
-&emsp;&emsp;&emsp;(ii) has significant operations in, and a majority of its employees engaged in aviation manufacturing activities and services, or maintenance, repair, and overhaul activities and services based in the United States;
+&emsp;&emsp;&emsp;(ii) has significant operations in, and a majority of its employees engaged in aviation manufacturing activities and services,or maintenance, repair, and overhaul activities and services based in the United States;
 
 &emsp;&emsp;(C) which has involuntarily furloughed or laid off at least 10 percent of its workforce in 2020 as compared to 2019 or has experienced at least a 15 percent decline in 2020 revenues as compared to 2019;
 
@@ -42,7 +42,7 @@ In this part:
 
 &emsp;&emsp;(H) that—
 
-&emsp;&emsp;&emsp;(i) in the case of a corporation, firm, or other business entity including any parent company or subsidiary of such a corporation, firm, or other business entity, that holds any type or production certificate or similar authorization issued under section 44704 of title 49, United States Code, withrespect to a transport-category airplane covered under part 25 of title 14, Code of Federal Regulations, certificated with a passenger seating capacity of 50 or more, agrees to refrain from conducting involuntary layoffs or furloughs, or reducing pay rates and benefits, for the eligible employee group, subject to the employer's right to discipline or terminate an employee in accordance with employer policy from the date of agreement until September 30, 2021, or the duration of the agreement and receipt of public contributions under this part, whichever period ends later; or
+&emsp;&emsp;&emsp;(i) in the case of a corporation, firm, or other business entity including any parent company or subsidiary of such a corporation, firm, or other business entity, that holds any type or production certificate or similar authorization issued under section 44704 of title 49, United States Code, with respect to a transport-category airplane covered under part 25 of title 14, Code of Federal Regulations, certificated with a passenger seating capacity of 50 or more, agrees to refrain from conducting involuntary layoffs or furloughs, or reducing pay rates and benefits, for the eligible employee group, subject to the employer's right to discipline or terminate an employee in accordance with employer policy from the date of agreement until September 30, 2021, or the duration of the agreement and receipt of public contributions under this part, whichever period ends later; or
 
 &emsp;&emsp;&emsp;(ii) in the case of corporation, firm, or other business entity not specified under subparagraph (i), agrees to refrain from conducting involuntary layoffs or furloughs, or reducing pay rates and benefits, for the eligible employee group, subject to the employer's right to discipline or terminate an employee in accordance with employer policy for the duration of the agreement and receipt of public contributions under this part.
 

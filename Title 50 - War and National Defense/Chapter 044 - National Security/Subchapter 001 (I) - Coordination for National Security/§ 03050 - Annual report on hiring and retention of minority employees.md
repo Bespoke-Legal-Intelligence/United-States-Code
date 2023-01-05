@@ -36,7 +36,7 @@ In this section the term "covered persons" means—
 
 &emsp;(3) individuals with disabilities.
 
-(July 26, 1947, ch. 343, title I, §114, as added Pub. L. 105–272, title III, §307(a), Oct. 20, 1998, 112 Stat. 2401; amended Pub. L. 107–306, title III, §§324, 353(b)(6), title VIII, §§811(b)(1)(D), 821, 822, Nov. 27, 2002, 116 Stat. 2393, 2402, 2422, 2426, 2427; Pub. L. 108–177, title III, §361(c), (d), Dec. 13, 2003, 117Stat. 2625; Pub. L. 108–458, title I, §1071(a)(1)(N), (O), (3)(A), (7), Dec. 17, 2004, 118 Stat. 3689, 3690; Pub. L. 112–277, title III, §310(a)(2), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title III, §329(a)(1), (c)(2), July 7, 2014, 128 Stat. 1405, 1406; Pub. L. 116–92, div. E, title LVII, §5704(a), Dec. 20, 2019, 133 Stat. 2162.)
+(July 26, 1947, ch. 343, title I, §114, as added Pub. L. 105–272, title III, §307(a), Oct. 20, 1998, 112 Stat. 2401; amended Pub. L. 107–306, title III, §§324, 353(b)(6), title VIII, §§811(b)(1)(D), 821, 822, Nov. 27, 2002, 116 Stat. 2393, 2402, 2422, 2426, 2427; Pub. L. 108–177, title III, §361(c), (d), Dec. 13, 2003, 117 Stat. 2625; Pub. L. 108–458, title I, §1071(a)(1)(N), (O), (3)(A), (7), Dec. 17, 2004, 118 Stat. 3689, 3690; Pub. L. 112–277, title III, §310(a)(2), Jan. 14, 2013, 126 Stat. 2474; Pub. L. 113–126, title III, §329(a)(1), (c)(2), July 7, 2014, 128 Stat. 1405, 1406; Pub. L. 116–92, div. E, title LVII, §5704(a), Dec. 20, 2019, 133 Stat. 2162.)
 
 #### <b>Editorial Notes</b>
 

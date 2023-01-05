@@ -52,7 +52,7 @@ For purposes of subsections (a), (b), and (c), a partner who acquired all or a p
 
 #### (e) Exception
 
-This section shall not apply to the extent that a distribution is treated as a sale or exchange ofproperty under section 751(b) (relating to unrealized receivables and inventory items).
+This section shall not apply to the extent that a distribution is treated as a sale or exchange of property under section 751(b) (relating to unrealized receivables and inventory items).
 
 #### (f) Corresponding adjustment to basis of assets of a distributed corporation controlled by a corporate partner
 

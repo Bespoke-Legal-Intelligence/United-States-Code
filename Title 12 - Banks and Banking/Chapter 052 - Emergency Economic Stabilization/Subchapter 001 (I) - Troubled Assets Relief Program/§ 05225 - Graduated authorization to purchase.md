@@ -132,7 +132,7 @@ The amount of troubled assets purchased by the Secretary outstanding at any one 
 
 &emsp;&emsp;(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
 
-(Pub. L. 110–343, div. A, title I, §115, Oct. 3, 2008, 122 Stat. 3780; Pub. L. 111–22, div. A, title II, §202(b), title IV, §402(f), May 20, 2009, 123 Stat. 1643, 1658; Pub. L. 111–203, title XIII, §1302, July 21, 2010, 124 Stat. 2133.)
+(Pub. L. 110–343, div. A, title I, §115, Oct. 3, 2008, 122 Stat. 3780; Pub. L. 111–22, div. A, title II, §202(b), title IV, §402(f), May 20, 2009, 123 Stat.1643, 1658; Pub. L. 111–203, title XIII, §1302, July 21, 2010, 124 Stat. 2133.)
 
 #### <b>Editorial Notes</b>
 

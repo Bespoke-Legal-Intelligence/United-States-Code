@@ -2,7 +2,7 @@
 
 #### (a) One- to four-family residence; eligibility
 
-The Secretary, subject to such conditions as the Secretary may prescribe, may insure under any provision of this subchapter that authorizes such insurance, a mortgage covering a property upon which there is located a one- to four-family residence, without regard to any limitation in this chapter relating to marketability of title or any other limitation in this chapter that the Secretary determines is contrary to promoting the availability of such insurance on Hawaiian home lands, if—
+The Secretary, subject to such conditions as the Secretary may prescribe, may insure underany provision of this subchapter that authorizes such insurance, a mortgage covering a property upon which there is located a one- to four-family residence, without regard to any limitation in this chapter relating to marketability of title or any other limitation in this chapter that the Secretary determines is contrary to promoting the availability of such insurance on Hawaiian home lands, if—
 
 &emsp;(1) the mortgage is executed by a native Hawaiian on property located within Hawaiian home lands covered under a homestead lease issued under section 207(a) of the Hawaiian Homes Commission Act, 1920, or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved March 18, 1959 (73 Stat. 5);
 
@@ -40,19 +40,19 @@ Possession of a lease of Hawaiian home lands issued under section 207(a) of the 
 
 #### References in Text
 
-The Hawaiian Homes Commission Act, 1920, referred to in subsec. (a)(1), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended. The Hawaiian Homes Commission Act of 1920, referred to in subsecs. (d) and (e), probably means the Hawaiian Homes Commission Act, 1920. Sections 204, 207, 208, and 209 of that Act were classified to sections 698, 701, 702, and 703 of Title 48, Territories and Insular Possessions, and were omitted from the Code.
+The Hawaiian Homes Commission Act, 1920, referred to in subsec. (a)(1), is act July 9, 1921, ch. 42, 42 Stat. 108. The Hawaiian Homes Commission Act of 1920, referred to in subsecs. (d) and (e), probably means the Hawaiian Homes Commission Act, 1920. Sections 204, 207, 208, and 209 of that Act were classified to sections 698, 701, 702, and 703 of Title 48, Territories and Insular Possessions, and were omitted from the Code.
 
 Section 4 of the Act entitled "An Act to provide for the admission of the State of Hawaii into the Union", approved Mar. 18, 1959 (73 Stat. 5), referred to in subsecs. (a)(1) and (d), is section 4 of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 5, which is set out as a note preceding section 491 of Title 48.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–289 substituted "Mutual Mortgage Insurance Fund" for "General Insurance Fund established in section 1735c of this title" and struck out "(1) all references in section 1710 of this titleto the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)" after "except that".
+<b>2008</b>—Subsec. (c). Pub. L. 110–289 substituted "Mutual Mortgage Insurance Fund" for "General Insurance Fund established in section 1735c of this title" and struck out "(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)" after "except that".
 
 <b>2001</b>—Subsec. (d)(1), (2). Pub. L. 107–73, §215(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
 "(1) The term 'native Hawaiian' means any descendant of not less than one-half part of the blood of the races inhabiting the Hawaiian Islands before January 1, 1778 (or, in the case of an individual who succeeds a spouse or parent in an interest in a lease of Hawaiian home lands, such lower percentage as may be established for such succession under section 209 of the Hawaiian Homes Commission Act, 1920, or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled 'An Act to provide for the admission of the State of Hawaii into the Union', approved March 18, 1959 (73 Stat. 5)).
 
-"(2) The term 'Hawaiian home lands' means all lands given the status of Hawaiian home lands under section 204 of the Hawaiian Homes Commission Act, 1920, or under the corresponding provision of the Constitution of the State of Hawaii adopted under section 4 of the Act entitled 'An Act to provide for the admission of the State of Hawaii into the Union', approved March 18, 1959 (73 Stat. 5)."
+"(2) The term 'Hawaiian home lands' means all lands given the status of Hawaiian home lands under section 204 of the Hawaiian Homes Commission Act, 1920, or under the corresponding provision of the Constitutionof the State of Hawaii adopted under section 4 of the Act entitled 'An Act to provide for the admission of the State of Hawaii into the Union', approved March 18, 1959 (73 Stat. 5)."
 
 Subsec. (e). Pub. L. 107–73, §215(2), added subsec. (e).
 

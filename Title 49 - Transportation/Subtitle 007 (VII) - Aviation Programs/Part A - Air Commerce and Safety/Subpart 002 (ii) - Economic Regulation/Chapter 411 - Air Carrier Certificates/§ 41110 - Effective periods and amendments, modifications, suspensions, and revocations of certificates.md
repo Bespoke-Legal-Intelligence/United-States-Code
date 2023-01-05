@@ -162,7 +162,7 @@ Aug. 15, 1985, Pub. L. 99–88, §100 (1st complete par. related to certificate 
 
 49 App.:1551(b)(1)(E).
 
-In subsection (a)(1)(C), the words "transportation is no longer being provided under a certificate" are substituted for "operation thereunder has ceased" and "operations thereunder have ceased" for clarity and consistency.
+In subsection (a)(1)(C), the words "transportation is no longer being provided under a certificate" are substituted for "operation thereunder has ceased" and"operations thereunder have ceased" for clarity and consistency.
 
 In subsections (a)(2) and (e), the words "opportunity for a" are added for consistency in the revised title and with other titles of the United States Code.
 

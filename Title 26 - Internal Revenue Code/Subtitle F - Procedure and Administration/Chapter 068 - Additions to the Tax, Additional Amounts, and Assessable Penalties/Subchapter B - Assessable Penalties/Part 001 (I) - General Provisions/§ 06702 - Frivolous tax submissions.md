@@ -72,7 +72,7 @@ The penalties imposed by this section shall be in addition to any other penalty 
 
 An administrative adjustment request under section 6227 and a partnership adjustment tracking report under section 6226(b)(4)(A) shall be treated as a return for purposes of this section.
 
-(Added Pub. L. 97–248, title III, §326(a), Sept. 3, 1982, 96 Stat. 617; amended Pub. L. 109–432, div. A, title IV, §407(a), Dec. 20, 2006, 120 Stat. 2960; Pub. L. 115–141, div. U, title II, §206(n)(4), Mar. 23, 2018, 132 Stat. 1182.)
+(Added Pub. L. 97–248, title III, §326(a), Sept. 3, 1982, 96 Stat. 617; amended Pub. L. 109–432, div.A, title IV, §407(a), Dec. 20, 2006, 120 Stat. 2960; Pub. L. 115–141, div. U, title II, §206(n)(4), Mar. 23, 2018, 132 Stat. 1182.)
 
 #### <b>Editorial Notes</b>
 

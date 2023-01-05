@@ -14,7 +14,7 @@ Agent.—The term "agent" means an individual—
 
 &emsp;&emsp;(ii) who is working under the authority of a government entity with which a contract or other agreement is executed by an executive agency to perform exclusively statistical activities under the control of an officer or employee of that agency;
 
-&emsp;&emsp;(iii) who is a self-employed researcher, a consultant, a contractor, or an employee of a contractor, and with whom a contract or other agreement is executed by an executive agency to perform a statistical activity under the control of an officer or employee of that agency; or
+&emsp;&emsp;(iii) who is a self-employed researcher, a consultant, a contractor, or an employee of a contractor, and with whom a contract orother agreement is executed by an executive agency to perform a statistical activity under the control of an officer or employee of that agency; or
 
 &emsp;&emsp;(iv) who is a contractor or an employee of a contractor, and who is engaged by the agency to design or maintain the systems for handling or storage of data received under this subchapter; and
 

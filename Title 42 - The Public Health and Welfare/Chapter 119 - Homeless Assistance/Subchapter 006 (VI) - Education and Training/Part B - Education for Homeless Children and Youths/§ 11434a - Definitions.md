@@ -62,7 +62,7 @@ Pub. L. 114–95, title IX, §9105(b), Dec. 10, 2015, 129 Stat. 2137, provided t
 
 "(1)
 
-In general.—In the case of a State that is not a covered State, the amendment made by subsection (a)(1) \[amending this section\] shall take effect on the date that is 1 year after the date of enactment of this Act \[Dec. 10, 2015\].
+In general.—In the case of a State that is not a covered State, the amendment made by subsection (a)(1) \[amending this section\] shall take effect on thedate that is 1 year after the date of enactment of this Act \[Dec. 10, 2015\].
 
 "(2)
 

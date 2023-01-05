@@ -8,7 +8,7 @@ In addition to any other authority that the Secretary may have to defer principa
 
 #### (1) In general
 
-&emsp;Subject to the other provisions of this subsection, effective beginning on the date of the enactment of this subsection, there shall be in effect a moratorium, with respect to farmer program loans made under subchapter I, II, or III, on all acceleration and foreclosure proceedings instituted by the Department of Agriculture against any farmer or rancher who—
+&emsp;Subject to the other provisions of this subsection, effective beginning on the date of the enactment of this subsection, there shall be ineffect a moratorium, with respect to farmer program loans made under subchapter I, II, or III, on all acceleration and foreclosure proceedings instituted by the Department of Agriculture against any farmer or rancher who—
 
 &emsp;&emsp;(A) has pending against the Department a claim of program discrimination that is accepted by the Department as valid; or
 
@@ -82,7 +82,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 100–387, title III, §313(a), Aug. 11, 1988, 102 Stat. 949, provided that: "It is the sense of Congress that the Secretary of Agriculture should, with respect to farmers and ranchers who suffer major losses due to drought, hail, excessive moisture, or related condition in 1988—
 
-&emsp;"(1) exercise forbearance in the collection of interest and principal on direct farmer program loansunder the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\] outstanding for such farmers and ranchers;
+&emsp;"(1) exercise forbearance in the collection of interest and principal on direct farmer program loans under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\] outstanding for such farmers and ranchers;
 
 &emsp;"(2) expedite the use of credit restructuring and other credit relief mechanisms authorized under the Agricultural Credit Act of 1987 \[Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, see Tables for classification\] and similar provisions of law for such farmers and ranchers; and
 

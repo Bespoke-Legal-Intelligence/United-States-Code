@@ -14,7 +14,7 @@ The Secretary of the Interior is authorized to cooperate with the States, throug
 
 #### Short Title of 2019 Amendment
 
-Pub. L. 116–94, div. P, title V, §501(a), Dec. 20, 2019, 133 Stat. 3191, provided that: "This title \[amending thissection and sections 669a, 669c, 669g, 669h–1, and 669h–2 of this title and enacting provisions set out as a note under section 669h–2 of this title\] may be cited as the 'Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act'."
+Pub. L. 116–94, div. P, title V, §501(a), Dec. 20, 2019, 133 Stat. 3191, provided that: "This title \[amending this section and sections 669a, 669c, 669g, 669h–1, and 669h–2 of this title and enacting provisions set out as a note under section 669h–2 of this title\] may be cited as the 'Modernizing the Pittman-Robertson Fund for Tomorrow's Needs Act'."
 
 Pub. L. 116–17, §1, May 10, 2019, 133 Stat. 866, provided that: "This Act \[amending sections 669a, 669g, and 669h–1 of this title and enacting provisions set out as a note under section 669a of this title\] may be cited as the 'Target Practice and Marksmanship Training Support Act'."
 
@@ -54,9 +54,9 @@ Purposes.—The purposes of this section \[amending sections 669a, 669b, 669c, 6
 
 Reference to Law.—In this section, the term 'Federal Aid in Wildlife Restoration Act' means the Act of September 2, 1937 (16 U.S.C. 669 et seq.), commonly referred to as the Federal Aid in Wildlife Restoration Act or the Pittman-Robertson Act."
 
-#### Inapplicability of Federal Advisory Committee Act
+#### Inapplicability of Chapter 10 of Title 5, United States Code
 
-Pub. L. 106–553, §1(a)(2) \[title IX, §902(f)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–123, provided that: "Coordination with State fish and wildlife agency personnel or with personnel of other State agencies pursuant to the Federal Aid in Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] or the Federal Aid in Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\] shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.). Except for the preceding sentence, the provisions of this title \[enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section\] relate solely to wildlife conservation and restoration programs and shall not be construed to affect the provisions of the Federal Aid in Wildlife Restoration Act relating to wildlife restoration projects or the provisions of the Federal Aid in Sport Fish Restoration Act relating to fish restoration and management projects."
+Pub. L. 106–553, §1(a)(2) \[title IX, §902(f)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–123, as amended by Pub. L. 117–286, §4(a)(100), Dec. 27, 2022, 136 Stat. 4316, provided that: "Coordination with State fish and wildlife agency personnel or with personnel of other State agencies pursuant to the Federal Aid in Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] or the Federal Aid in Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\] shall not be subject to chapter 10 of title 5, United States Code. Except for the preceding sentence, the provisions of this title \[enacting section 1356a of Title 43, Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section\] relate solely to wildlife conservation and restoration programs and shall not be construed to affect the provisions of the Federal Aid in Wildlife Restoration Act relating to wildlife restoration projects or the provisions of the Federal Aid in Sport Fish Restoration Act relating to fish restoration and management projects."
 
 #### Prohibition Against Diversion
 

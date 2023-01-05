@@ -80,7 +80,7 @@ Contents of Reports.—Each report required under subsections (a) and (b) shall 
 
 "(d)
 
-Public Availability.—Not later than 30 days after the date on which the Administrator submits areport to Congress under this section, the Administrator shall make the report publicly available on the website of the Agency."
+Public Availability.—Not later than 30 days after the date on which the Administrator submits a report to Congress under this section, the Administrator shall make the report publicly available on the website of the Agency."
 
 #### Definitions
 

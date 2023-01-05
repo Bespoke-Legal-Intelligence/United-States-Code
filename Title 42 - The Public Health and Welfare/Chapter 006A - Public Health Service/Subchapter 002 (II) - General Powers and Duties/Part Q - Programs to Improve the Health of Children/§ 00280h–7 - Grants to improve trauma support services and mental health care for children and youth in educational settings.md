@@ -36,7 +36,7 @@ An entity that receives a grant, contract, or cooperative agreement under this s
 
 #### (d) Applications
 
-To be eligible to receive a grant, contract, or cooperative agreement under this section, an entity described in subsection (a) shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, which shall include the following:
+To be eligible to receive a grant, contract, or cooperative agreement under this section, an entity described in subsection (a) shall submit an application to the Secretary at such time, in such manner, and containing such informationas the Secretary may reasonably require, which shall include the following:
 
 &emsp;(1) A description of the innovative initiatives, activities, or programs to be funded under the grant, contract, or cooperative agreement, including how such program will increase access to evidence-based trauma support services and mental health care for students, and, as applicable, the families of such students.
 
@@ -62,7 +62,7 @@ To be eligible to receive a grant, contract, or cooperative agreement under this
 
 #### (2) Contents
 
-&emsp;In ensuring the provision of the services described in subsection (c), the local interagency agreement shall specify with respect to eachagency, authority, or entity that is a party to such agreement—
+&emsp;In ensuring the provision of the services described in subsection (c), the local interagency agreement shall specify with respect to each agency, authority, or entity that is a party to such agreement—
 
 &emsp;&emsp;(A) the financial responsibility for the services;
 

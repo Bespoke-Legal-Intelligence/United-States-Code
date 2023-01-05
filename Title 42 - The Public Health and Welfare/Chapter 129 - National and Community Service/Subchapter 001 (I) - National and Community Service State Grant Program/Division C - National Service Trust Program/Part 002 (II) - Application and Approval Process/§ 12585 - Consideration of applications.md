@@ -118,7 +118,7 @@ In making competitive awards under section 12581(d) of this title, the Corporati
 
 #### (2) Resubmission and reconsideration
 
-&emsp;The Corporation shall provide a State Commission notified under paragraph (1) with areasonable opportunity to revise and resubmit the application. At the request of the State Commission, the Corporation shall provide technical assistance to the State Commission as part of the resubmission process. The Corporation shall promptly reconsider an application resubmitted under this paragraph.
+&emsp;The Corporation shall provide a State Commission notified under paragraph (1) with a reasonable opportunity to revise and resubmit the application. At the request of the State Commission, the Corporation shall provide technical assistance to the State Commission as part of the resubmission process. The Corporation shall promptly reconsider an application resubmitted under this paragraph.
 
 #### (3) Reallotment
 

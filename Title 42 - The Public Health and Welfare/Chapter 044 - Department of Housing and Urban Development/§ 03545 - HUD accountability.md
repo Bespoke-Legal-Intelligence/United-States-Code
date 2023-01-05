@@ -74,7 +74,7 @@ The Secretary shall certify that assistance within the jurisdiction of the Depar
 
 #### (e) Administrative remedies
 
-If the Secretary receives or obtains information providing a reasonable basis to believe thata violation of subsection (b) or (c) has occurred, the Secretary shall—
+If the Secretary receives or obtains information providing a reasonable basis to believe that a violation of subsection (b) or (c) has occurred, the Secretary shall—
 
 &emsp;(1) in the case of a selection that has not been made, determine whether to terminate the selection process or take other appropriate actions; and
 

@@ -40,7 +40,7 @@ To carry out its purposes, the Foundation shall have, in addition to powers othe
 
 #### (e) Property
 
-(1) The Foundation may acquire, hold and dispose of lands, waters, or other interests in real property by donation, gift, devise, purchase or exchange. For the purposes of this subchapter, an interest in real property shall include, but not be limited to, mineral and water rights, rights of way, and easements appurtenant or in gross. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or futureinterest therein is for the benefit of the Foundation.
+(1) The Foundation may acquire, hold and dispose of lands, waters, or other interests in real property by donation, gift, devise, purchase or exchange. For the purposes of this subchapter, an interest in real property shall include, but not be limited to, mineral and water rights, rights of way, and easements appurtenant or in gross. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of the Foundation.
 
 (2) No lands or waters, or interests therein, that are owned by the Foundation and are determined by the Chief of the United States Forest Service to be valuable for purposes established in this subchapter shall be subject to condemnation by any State or political subdivision, or any agent or instrumentality thereof.
 

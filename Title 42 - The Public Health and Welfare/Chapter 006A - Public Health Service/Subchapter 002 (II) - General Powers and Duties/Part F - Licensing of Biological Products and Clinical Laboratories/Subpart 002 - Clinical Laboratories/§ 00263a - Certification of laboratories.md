@@ -176,7 +176,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificateunder this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
+&emsp;&emsp;The Secretary shall establish standards for the proficiency testing programs for laboratories issued a certificate under this section which are conducted by the Secretary, conducted by an organization approved under subparagraph (C), or conducted by an approved accrediting body. The standards shall require that a laboratory issued a certificate under this section be tested for each examination and procedure conducted within a category of examinations or procedures for which it has received a certificate, except for examinations and procedures for which the Secretary has determined that a proficiency test cannot reasonably be developed. The testing shall be conducted on a quarterly basis, except where the Secretary determines for technical and scientific reasons that a particular examination or procedure may be tested less frequently (but not less often than twice per year).
 
 #### (B) Criteria
 
@@ -234,7 +234,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 #### (1) In general
 
-&emsp;The Secretary may, on an announced or unannounced basis, enter and inspect, during regular hours of operation, laboratories which have been issued a certificate under this section. In conducting such inspections the Secretary shall have access to all facilities, equipment, materials, records, and information that the Secretary determines have a bearing on whether the laboratory is being operated in accordance with this section. As part of such an inspection the Secretary may copy any such material or require to it <sup>3</sup> be submitted to the Secretary. An inspection under this paragraph may be made only upon presenting identification to the owner, operator, or agent in charge of the laboratory being inspected.
+&emsp;The Secretary may, on an announced or unannounced basis, enter and inspect, during regular hours of operation, laboratories which have been issued a certificate under this section. In conducting such inspections the Secretary shall have access to all facilities, equipment, materials, records, and information that the Secretary determines have a bearing on whether the laboratory is being operated in accordance with this section. As part of such an inspection the Secretary may copy any such material or require to it <sup>3</sup> be submitted tothe Secretary. An inspection under this paragraph may be made only upon presenting identification to the owner, operator, or agent in charge of the laboratory being inspected.
 
 #### (2) Compliance with requirements and standards
 
@@ -296,7 +296,7 @@ No person may solicit or accept materials derived from the human body for labora
 
 &emsp;&emsp;(B) a laboratory has engaged in an action described in subparagraph (D) or (E) of paragraph (1),
 
-> &emsp;the Secretary may suspend or limit the certificate of the laboratory before holding a hearing under paragraph (1) regarding such failure or refusal. The opportunity for a hearing shall be provided no later than 60 days from the effective date of the suspension or limitation. A suspension or limitation under this paragraph shall stay in effect until thedecision of the Secretary made after the hearing under paragraph (1).
+> &emsp;the Secretary may suspend or limit the certificate of the laboratory before holding a hearing under paragraph (1) regarding such failure or refusal. The opportunity for a hearing shall be provided no later than 60 days from the effective date of the suspension or limitation. A suspension or limitation under this paragraph shall stay in effect until the decision of the Secretary made after the hearing under paragraph (1).
 
 #### (3) Ineligibility to own or operate laboratories after revocation
 
@@ -360,7 +360,7 @@ Any person who intentionally violates any requirement of this section or any reg
 
 On April 1, 1990 and annually thereafter, the Secretary shall compile and make available to physicians and the general public information, based on the previous calendar year, which the Secretary determines is useful in evaluating the performance of a laboratory, including—
 
-&emsp;(1) a list of laboratories which have been convicted under Federal or State laws relating to fraud and abuse, false billings, or kickbacks,
+&emsp;(1) a list of laboratories which have been convicted under Federal or State laws relatingto fraud and abuse, false billings, or kickbacks,
 
 &emsp;(2) a list of laboratories—
 
@@ -400,7 +400,7 @@ In carrying out this section, the Secretary shall consult with appropriate priva
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (i)(3) and (n)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (i)(3) and (n)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 
@@ -422,7 +422,7 @@ Subsec. (i)(4). Pub. L. 112–202, §2(2)(B), substituted "may have its certific
 
 &emsp;"(C) the Secretary has determined pose no reasonable risk of harm to the patient if performed incorrectly."
 
-<b>1988</b>—Pub. L. 100–578 substituted "Certification of laboratories" for "Licensing of laboratories" in sectioncatchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (l).
+<b>1988</b>—Pub. L. 100–578 substituted "Certification of laboratories" for "Licensing of laboratories" in section catchline, and amended text generally, revising and restating as subsecs. (a) to (q) provisions of former subsecs. (a) to (l).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -432,7 +432,7 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 #### Effective Date of 1988 Amendment; Exceptions; Continuing Applicability
 
-Pub. L. 100–578, §3, Oct. 31, 1988, 102 Stat. 2914, provided that: "Subsections (g)(1), (h), (i), (j), (k), (l), and (m) of section 353 of the Public Health Service Act \[42 U.S.C. 263a\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a) through (d) and subsection (i) through (l) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988."
+Pub. L. 100–578, §3, Oct. 31, 1988, 102 Stat. 2914, provided that: "Subsections (g)(1), (h), (i), (j), (k), (l), and (m) of section 353 of the Public Health Service Act \[42 U.S.C. 263a\], as amended by section 101 \[probably means section 2 of Pub. L. 100–578\], shall take effect January 1, 1989, except that any reference in such subsections to the standards established under subsection (f) shall be considered a reference to the standards established under subsection (d) of such section 353, as in effect on December 31, 1988. During the period beginning January 1, 1989, and ending December 31, 1989, subsections (a)through (d) and subsection (i) through (l) of such section 353 as in effect on December 31, 1988, shall continue to apply to clinical laboratories. The remaining subsections of such section 353, as so amended, shall take effect January 1, 1990, except that subsections (f)(1)(C) and (g)(2) shall take effect July 1, 1991, with respect to laboratories which were not subject to the requirements of such section 353 as in effect on December 31, 1988."
 
 #### Effective Date
 

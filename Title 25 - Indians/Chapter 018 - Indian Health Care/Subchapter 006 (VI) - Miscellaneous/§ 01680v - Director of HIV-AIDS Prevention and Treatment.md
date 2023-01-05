@@ -16,7 +16,7 @@ The Director shall—
 
 #### (c) Report
 
-Not later than 2 years after March 23, 2010, and not less frequently than once every 2 years thereafter, the Director shall submit to Congress a report describing, with respect to the preceding 2-year period—
+Not later than 2 years after March 23, 2010, and not less frequently than once every 2 yearsthereafter, the Director shall submit to Congress a report describing, with respect to the preceding 2-year period—
 
 &emsp;(1) each activity carried out under this section; and
 

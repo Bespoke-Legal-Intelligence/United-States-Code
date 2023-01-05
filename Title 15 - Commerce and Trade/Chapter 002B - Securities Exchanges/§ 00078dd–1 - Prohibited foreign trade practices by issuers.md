@@ -2,7 +2,7 @@
 
 #### (a) Prohibition
 
-It shall be unlawful for any issuer which has a class of securities registered pursuant to section 78l of this title or which is required to file reports under section 78o(d) of this title, or for any officer, director, employee, or agent of such issuer or any stockholder thereof acting on behalf of such issuer, to make use of the mails or any means or instrumentality of interstate commerce corruptly in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to—
+It shall be unlawful for any issuer which has a class of securities registered pursuant to section 78l of this title or which is required to file reports under section 78o(d) of this title, or for any officer, director, employee, or agent of suchissuer or any stockholder thereof acting on behalf of such issuer, to make use of the mails or any means or instrumentality of interstate commerce corruptly in furtherance of an offer, payment, promise to pay, or authorization of the payment of any money, or offer, gift, promise to give, or authorization of the giving of anything of value to—
 
 &emsp;(1) any foreign official for purposes of—
 

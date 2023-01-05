@@ -54,7 +54,7 @@ As soon as practicable after all of the members and the Chair have been appointe
 
 #### (2) Fiscal Plan developed by Governor
 
-&emsp;The Governor shall submit to the Oversight Board any proposed Fiscal Plan required by the Oversight Board by the time specified in the notice delivered under subsection (a).
+&emsp;The Governor shall submit to the Oversight Board any proposed Fiscal Plan required bythe Oversight Board by the time specified in the notice delivered under subsection (a).
 
 #### (3) Review by the Oversight Board
 

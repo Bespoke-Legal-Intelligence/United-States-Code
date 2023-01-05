@@ -7,6 +7,7 @@ Subpart B—Special Rules
 | [412\.](%C2%A7%2000412%20-%20Minimum%20funding%20standards.md) | Minimum funding standards. |
 | [413\.](%C2%A7%2000413%20-%20Collectively%20bargained%20plans%2C%20etc.md) | Collectively bargained plans, etc. |
 | [414\.](%C2%A7%2000414%20-%20Definitions%20and%20special%20rules.md) | Definitions and special rules. |
+| [414A.](%C2%A7%2000414A%20-%20Requirements%20related%20to%20automatic%20enrollment.md) | Requirements related to automatic enrollment. |
 | [415\.](%C2%A7%2000415%20-%20Limitations%20on%20benefits%20and%20contribution%20under%20qualified%20plans.md) | Limitations on benefits and contribution under qualified plans. |
 | [416\.](%C2%A7%2000416%20-%20Special%20rules%20for%20top-heavy%20plans.md) | Special rules for top-heavy plans. |
 | [417\.](%C2%A7%2000417%20-%20Definitions%20and%20special%20rules%20for%20purposes%20of%20minimum%20survivor%20annuity%20requirements.md) | Definitions and special rules for purposes of minimum survivor annuity requirements. |
@@ -16,6 +17,8 @@ Subpart B—Special Rules
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. T, title I, §101(b), Dec. 29, 2022, 136 Stat. 5277, added item 414A.
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(81), Mar. 23, 2018, 132 Stat. 1188, substituted "Collectively bargained plans, etc." for "Collectively bargained plans" in item 413.
 
@@ -35,6 +38,7 @@ Subpart B—Special Rules
 - [&sect; 00412 - Minimum funding standards](%C2%A7%2000412%20-%20Minimum%20funding%20standards.md)
 - [&sect; 00413 - Collectively bargained plans, etc](%C2%A7%2000413%20-%20Collectively%20bargained%20plans%2C%20etc.md)
 - [&sect; 00414 - Definitions and special rules](%C2%A7%2000414%20-%20Definitions%20and%20special%20rules.md)
+- [&sect; 00414A - Requirements related to automatic enrollment](%C2%A7%2000414A%20-%20Requirements%20related%20to%20automatic%20enrollment.md)
 - [&sect; 00415 - Limitations on benefits and contribution under qualified plans](%C2%A7%2000415%20-%20Limitations%20on%20benefits%20and%20contribution%20under%20qualified%20plans.md)
 - [&sect; 00416 - Special rules for top-heavy plans](%C2%A7%2000416%20-%20Special%20rules%20for%20top-heavy%20plans.md)
 - [&sect; 00417 - Definitions and special rules for purposes of minimum survivor annuity requirements](%C2%A7%2000417%20-%20Definitions%20and%20special%20rules%20for%20purposes%20of%20minimum%20survivor%20annuity%20requirements.md)

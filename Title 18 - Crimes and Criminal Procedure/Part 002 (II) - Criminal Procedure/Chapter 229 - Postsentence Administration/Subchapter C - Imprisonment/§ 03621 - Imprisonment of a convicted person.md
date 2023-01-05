@@ -6,7 +6,7 @@ Commitment to Custody of Bureau of Prisons.—A person who has been sentenced to
 
 (b)
 
-Place of Imprisonment.—The Bureau of Prisons shall designate the place of the prisoner's imprisonment, and shall, subject to bed availability, the prisoner's security designation, the prisoner's programmatic needs, the prisoner's mental and medical health needs, any request made by the prisoner related to faith-based needs, recommendations of the sentencing court, and other security concerns of the Bureau of Prisons, place the prisoner in a facility as close as practicable to the prisoner's primary residence, and to the extent practicable, in a facility within 500 driving miles of that residence. The Bureau shall, subject to consideration of the factors described in the preceding sentence and the prisoner's preference for staying at his or her current facility or being transferred, transfer prisoners to facilities that are closer to the prisoner's primary residence even if the prisoner is already in a facility within 500 driving miles of that residence. The Bureau may designate any available penal or correctional facility that meets minimum standards of health and habitability established by the Bureau,whether maintained by the Federal Government or otherwise and whether within or without the judicial district in which the person was convicted, that the Bureau determines to be appropriate and suitable, considering—
+Place of Imprisonment.—The Bureau of Prisons shall designate the place of the prisoner's imprisonment, and shall, subject to bed availability, the prisoner's security designation, the prisoner's programmatic needs, the prisoner's mental and medical health needs, any request made by the prisoner related to faith-based needs, recommendations of the sentencing court, and other security concerns of the Bureau of Prisons, place the prisoner in a facility as close as practicable to the prisoner's primary residence, and to the extent practicable, in a facility within 500 driving miles of that residence. The Bureau shall, subject to consideration of the factors described in the preceding sentence and the prisoner's preference for staying at his or her current facility or being transferred, transfer prisoners to facilities that are closer to the prisoner's primary residence even if the prisoner is already in a facility within 500 driving miles of that residence. The Bureau may designate any available penal or correctional facility that meets minimum standards of health and habitability established by the Bureau, whether maintained by the Federal Government or otherwise and whether within or without the judicial district in which the person was convicted, that the Bureau determines to be appropriate and suitable, considering—
 
 &emsp;(1) the resources of the facility contemplated;
 
@@ -38,7 +38,7 @@ Substance Abuse Treatment.—
 
 &emsp;(1)
 
-Phase-in.—In order to carry out the requirement of the last sentence of subsection (b) of this section, that every prisoner with a substance abuse problem have the opportunity to participate in appropriate substance abuse treatment, the Bureau of Prisons shall, subject to the availability of appropriations, provide residential substance abuse treatment (and make arrangements for appropriate aftercare)—
+Phase-in.—In order to carry out the requirement of the last sentence of subsection (b) of this section, that every prisoner with a substance abuse problem have the opportunity to participate in appropriate substance abusetreatment, the Bureau of Prisons shall, subject to the availability of appropriations, provide residential substance abuse treatment (and make arrangements for appropriate aftercare)—
 
 &emsp;&emsp;(A) for not less than 50 percent of eligible prisoners by the end of fiscal year 1995, with priority for such treatment accorded based on an eligible prisoner's proximity to release date;
 
@@ -90,6 +90,10 @@ Definitions.—As used in this subsection—
 
 Coordination of federal assistance.—The Bureau of Prisons shall consult with the Department of Health and Human Services concerning substance abuse treatment and related services and the incorporation of applicable components of existing comprehensive approaches including relapse prevention and aftercare services.
 
+&emsp;(7)
+
+Eligibility of primary caretaker parents and pregnant women.—The Director of the Bureau of Prisons may not prohibit an eligible prisoner who is a primary caretaker parent (as defined in section 4051) or pregnant from participating in a program of residential substance abuse treatment provided under paragraph (1) on the basis of a failure by the eligible prisoner, before being committed to the custody of the Bureau of Prisons, to disclose to any official of the Bureau of Prisons that the prisoner had a substance abuse problem on or before the date on which the eligible prisoner was committed to the custody of the Bureau of Prisons.
+
 (f)
 
 Sex Offender Management.—
@@ -112,7 +116,7 @@ Regions.—At least 1 sex offender management program under paragraph (1)(A), an
 
 &emsp;(3)
 
-Authorization of appropriations.—There are authorized to be appropriated to the Bureau of Prisons for each fiscal year such sums as may be necessary to carry out this subsection.
+Authorization of appropriations.—There are authorized to be appropriated to theBureau of Prisons for each fiscal year such sums as may be necessary to carry out this subsection.
 
 (g)
 
@@ -214,7 +218,7 @@ In general.—In order to ensure a minimum standard of health and habitability, 
 
 Definition.—In this subsection, the term "community confinement" has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, §622, July 27, 2006, 120 Stat. 634; Pub. L. 110–199, title II, §§231(f), 251(b), 252, Apr. 9, 2008, 122 Stat. 687, 693; Pub. L. 115–391, title I, §102(a), title V, §504(f)(1), title VI, §601, Dec. 21, 2018, 132 Stat. 5208, 5234, 5237.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, §622, July 27, 2006, 120 Stat. 634; Pub. L. 110–199, title II, §§231(f), 251(b), 252, Apr. 9, 2008, 122 Stat. 687, 693; Pub. L. 115–391, title I, §102(a), title V, §504(f)(1), title VI, §601, Dec. 21, 2018, 132 Stat. 5208, 5234, 5237; Pub. L. 117–103, div. W, title X, §1001(c), Mar. 15, 2022, 136 Stat. 914.)
 
 #### <b>Editorial Notes</b>
 
@@ -231,6 +235,8 @@ The date of the enactment of the Second Chance Act of 2007, referred to in subse
 For a prior section 3621, applicable to offenses committed prior to Nov. 1, 1987, see note set out preceding section 3601 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(7). Pub. L. 117–103 added par. (7).
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–391, §601, substituted in introductory provisions "shall designate the place of the prisoner's imprisonment, and shall, subject to bed availability, the prisoner's security designation, the prisoner's programmatic needs, the prisoner's mental and medical health needs, any request made by the prisoner related to faith-based needs, recommendations of the sentencing court, and other security concerns of the Bureau of Prisons, place the prisoner in a facility as close as practicable to the prisoner's primary residence, and to the extent practicable, in a facility within 500 driving miles of that residence. The Bureau shall, subject to consideration of the factors described in the preceding sentence and the prisoner's preference for staying at his or her current facility or being transferred, transfer prisoners to facilities that are closer to the prisoner's primary residence even if the prisoner is already in a facility within 500 driving miles of that residence." for "shall designate the place of the prisoner's imprisonment." and inserted at end of concluding provisions "Notwithstanding any other provision of law, a designation of a place of imprisonment under this subsection is not reviewable by any court."
 
@@ -274,9 +280,13 @@ Pub. L. 103–322, §20401, inserted "In designating the place of imprisonment o
 
 Subsec. (e). Pub. L. 103–322, §32001(2), added subsec. (e).
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–647 inserted at end "The Bureau shall, to the extent practicable, make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse."
+<b>1990</b>—Subsec. (b). Pub. L. 101–647 inserted at end "The Bureau shall, to the extent practicable, make availableappropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2018 Amendment
 
@@ -293,6 +303,18 @@ Pub. L. 115–391, title I, §105, Dec. 21, 2018, 132 Stat. 5214, provided that:
 #### Construction of 2008 Amendment
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of Title 34, Crime Control and Law Enforcement.
+
+#### Implementation Date of 2022 Amendment
+
+Pub. L. 117–103, div. W, title X, §1001(d), Mar. 15, 2022, 136 Stat. 914, provided that:
+
+"(1)
+
+In general.—Not later than 2 years after the date of enactment of this Act \[Mar. 15, 2022\], the Director of the Bureau of Prisons shall implement this section \[see Short Title of 2022 Amendment note set out under section 1 of this title\] and the amendments made by this section.
+
+"(2)
+
+Report.—Not later than 1 year after the date of enactment of this Act, the Director of the Bureau of Prisons shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a progress report on the implementation of this section and the amendments made by this section."
 
 #### Bureau of Prisons
 
@@ -346,7 +368,7 @@ In general.—During the covered emergency period, if the Attorney General finds
 
 &emsp;"(2)
 
-Exemption from notice-and-comment rulemaking requirements.—Section 553 of title 5, UnitedStates Code, shall not apply to the promulgation of rules under paragraph (1) of this subsection.
+Exemption from notice-and-comment rulemaking requirements.—Section 553 of title 5, United States Code, shall not apply to the promulgation of rules under paragraph (1) of this subsection.
 
 "(d)
 

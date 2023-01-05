@@ -32,7 +32,7 @@ Full Tour of Duty.—An officer shall be considered to have completed a full tou
 
 &emsp;(2) Accrued joint experience in joint duty assignments as described in subsection (e).
 
-&emsp;(3) A joint duty assignment with respect to which the Secretary of Defense has granted a waiver under subsection (b), but only in a case in which the Secretary determines that the service completed by that officer in that duty assignment shall be considered to be a full tour of duty in a joint duty assignment.
+&emsp;(3) A joint duty assignment with respect to which the Secretary of Defense has granted a waiver under subsection (b), but only in a casein which the Secretary determines that the service completed by that officer in that duty assignment shall be considered to be a full tour of duty in a joint duty assignment.
 
 &emsp;(4) A second and subsequent joint duty assignment that is less than the period required under subsection (a).
 
@@ -114,7 +114,7 @@ Subsec. (h). Pub. L. 114–328, §510(g)(1), redesignated subsec. (h) as (f).
 
 Pub. L. 114–328, §510(f), struck out par. (1) designation before "The Secretary of Defense may", substituted "award" for "accord", and struck out par. (2) which read as follows: "For the purpose of computing under subsection (e) the average length of joint duty assignments during a fiscal year, the amount of any constructive service credited under this subsection with respect to a joint duty assignment to be counted in that computation shall be excluded."
 
-<b>2008</b>—Subsec. (d)(1)(D). Pub. L. 110–417, §524(a)(1), added subpar. (D) and struck out former subpar. (D) which read as follows: "a qualifying reassignment (as described in subsection (g)(4))."
+<b>2008</b>—Subsec. (d)(1)(D). Pub. L. 110–417, §524(a)(1), added subpar. (D) and struck out former subpar. (D)which read as follows: "a qualifying reassignment (as described in subsection (g)(4))."
 
 Subsec. (d)(3). Pub. L. 110–417, §524(a)(2), added par. (3) and struck out former par. (3) which read as follows: "Service in a joint duty assignment in a case in which—
 
@@ -212,7 +212,7 @@ Pub. L. 109–364, div. A, title V, §519(e), Oct. 17, 2006, 120 Stat. 2191, pro
 
 #### Retroactive Joint Service Credit for Duty in Certain Joint Task Forces
 
-Pub. L. 107–107, div. A, title V, §523, Dec. 28, 2001, 115 Stat. 1097, provided that, in accordance with subsec. (i) of this section, the Secretary of Defense was authorized to award joint service credit to any officer who served on the staff of a United States joint task force headquarters in certain operations and during certain periods, and the Secretary was required to submit to Congress a report of the numbers, by service, grade, and operation, of the officers given joint service credit not later than one year after Dec. 28, 2001.
+Pub. L. 107–107, div. A, title V, §523, Dec. 28, 2001, 115 Stat. 1097, provided that, in accordance with subsec. (i)of this section, the Secretary of Defense was authorized to award joint service credit to any officer who served on the staff of a United States joint task force headquarters in certain operations and during certain periods, and the Secretary was required to submit to Congress a report of the numbers, by service, grade, and operation, of the officers given joint service credit not later than one year after Dec. 28, 2001.
 
 #### Joint Duty Credit for Certain Duty Performed During Operations Desert Shield and Desert Storm
 

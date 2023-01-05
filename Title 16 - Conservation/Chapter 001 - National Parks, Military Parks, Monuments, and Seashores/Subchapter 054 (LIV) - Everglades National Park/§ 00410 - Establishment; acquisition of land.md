@@ -72,7 +72,7 @@ In general.—The term 'Miccosukee Reserved Area' or 'MRA' means, notwithstandin
 
 &emsp;&emsp;"(B)
 
-Description.—The description of the lands referred to in subparagraph (A) is as follows: 'Beginning at the western boundary of Everglades National Park at the west line of sec. 20, T. 54 S., R. 35 E., thence E. following the Northern boundary of said Park in T. 54 S., Rs. 35 and 36 E., to a point in sec. 19, T. 54 S., R. 36 E., 500 feet west of the existing road known as Seven Mile Road, thence 500 feet south from said point, thence west paralleling the Park boundary for 3,200 feet, thence south for 600 feet, thence west, paralleling the Park boundary to the west line of sec. 20, T. 54 S., R. 35 E., thence N. 1,100 feet to the point of beginning.'.
+Description.—The description of the lands referred to in subparagraph (A) is as follows: 'Beginning at the western boundary of Everglades National Park at the west line of sec. 20, T. 54 S., R. 35 E., thence E. following the Northern boundary of said Park in T. 54 S., Rs. 35 and 36 E., to a point insec. 19, T. 54 S., R. 36 E., 500 feet west of the existing road known as Seven Mile Road, thence 500 feet south from said point, thence west paralleling the Park boundary for 3,200 feet, thence south for 600 feet, thence west, paralleling the Park boundary to the west line of sec. 20, T. 54 S., R. 35 E., thence N. 1,100 feet to the point of beginning.'.
 
 &emsp;"(5)
 
@@ -174,7 +174,7 @@ Prevention of degradation; abatement.—
 
 Prevention of degradation.—Pursuant to the requirements of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), the Tribe shall prevent and abate degradation of the quality of surface or groundwater that is released into other parts of the Park, as follows:
 
-&emsp;&emsp;&emsp;"(i) With respect to water entering the MRA which fails to meet applicable water quality standards approved by the Administrator under the Federal Water Pollution Control Act (33U.S.C. 1251 et seq.), actions of the Tribe shall not further degrade water quality.
+&emsp;&emsp;&emsp;"(i) With respect to water entering the MRA which fails to meet applicable water quality standards approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), actions of the Tribe shall not further degrade water quality.
 
 &emsp;&emsp;&emsp;"(ii) With respect to water entering the MRA which meets applicable water quality standards approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), the Tribe shall not cause the water to fail to comply with applicable water quality standards.
 
@@ -330,7 +330,7 @@ Description.—The description referred to in subparagraph (A)(ii) is as follows
 
 &emsp;&emsp;&emsp;"(v) Easement number 5, being 290 feet wide with western boundary 8,170 feet, and eastern boundary 8,460 feet, east of the western boundary of the MRA.
 
-&emsp;&emsp;&emsp;"(vi) Easement number 6, being 312 feet wide with western boundary 8,920 feet, and eastern boundary 9,232 feet, east of the western boundary of the MRA.
+&emsp;&emsp;&emsp;"(vi) Easement number 6, being 312 feet wide with western boundary 8,920 feet, and easternboundary 9,232 feet, east of the western boundary of the MRA.
 
 &emsp;"(2)
 
@@ -430,7 +430,7 @@ In general.—The Secretary may use all or any part of the MRA lands to the exte
 
 &emsp;&emsp;"(B)
 
-Secretarial authority.—The Secretary may use lands referred to in subparagraph (A) either under an agreement with the tribal chairman or upon an order of the United States district court for the district in which the MRA is located, uponpetition by the Secretary and finding by the court that—
+Secretarial authority.—The Secretary may use lands referred to in subparagraph (A) either under an agreement with the tribal chairman or upon an order of the United States district court for the district in which the MRA is located, upon petition by the Secretary and finding by the court that—
 
 &emsp;&emsp;&emsp;"(i) the proposed actions of the Secretary are necessary; and
 

@@ -48,7 +48,7 @@ Pub. L. 107–354, Dec. 17, 2002, 116 Stat. 2984, provided that:
 
 #### "SEC. 2. ACQUISITION OF LANDS.
 
-"Within the boundaries of the National Monument, the Secretary of the Interior (hereinafter referred to as the 'Secretary') is authorized to acquire lands, or interests therein, from willing owners by donation, purchase with donated money or appropriated funds, or exchange.
+"Within the boundaries of the National Monument, the Secretary of the Interior (hereinafter referred to asthe 'Secretary') is authorized to acquire lands, or interests therein, from willing owners by donation, purchase with donated money or appropriated funds, or exchange.
 
 #### "SEC. 3. ADMINISTRATION OF NATIONAL MONUMENT.
 

@@ -50,13 +50,13 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 #### (2) Application within 30 years
 
-&emsp;Notwithstanding paragraph (1), after the death of a participant or retired participant, no benefit based on that participant's service may be paid from the fund unless an application for the benefit is received by the Director within 30 years after the death or other event which gives rise to eligibility for the benefit.
+&emsp;Notwithstanding paragraph (1), after the death of a participant or retired participant, no benefit based on that participant's servicemay be paid from the fund unless an application for the benefit is received by the Director within 30 years after the death or other event which gives rise to eligibility for the benefit.
 
 #### (g) Withholding of State income tax from annuities
 
 #### (1) Agreements with States
 
-&emsp;The Director shall, in accordance with this subsection, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Director shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheld during any calendar quarter shall be held in the Fund <sup>1</sup> anddisbursed to the States during the month following that calendar quarter.
+&emsp;The Director shall, in accordance with this subsection, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Director shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheld during any calendar quarter shall be held in the Fund <sup>1</sup> and disbursed to the States during the month following that calendar quarter.
 
 #### (2) Limitation on multiple requests
 

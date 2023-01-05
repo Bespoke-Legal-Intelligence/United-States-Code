@@ -52,7 +52,7 @@ Priority for Management of Military Technicians (Dual Status).—(1) As a basis 
 
 (c)
 
-Information Required To Be Submitted With Annual End Strength Authorization Request.—(1) The Secretary of Defense shall include as part of the budget justification documents submitted to Congress with the budget of the Department of Defense for any fiscal yearthe following information with respect to the end strengths for military technicians (dual status) requested in that budget pursuant to section 115(d) of this title, shown separately for each of the Army and Air Force reserve components:
+Information Required To Be Submitted With Annual End Strength Authorization Request.—(1) The Secretary of Defense shall include as part of the budget justification documents submitted to Congress with the budget of the Department of Defense for any fiscal year the following information with respect to the end strengths for military technicians (dual status) requested in that budget pursuant to section 115(d) of this title, shown separately for each of the Army and Air Force reserve components:
 
 &emsp;(A) The number of military technicians (dual status) in the high priority units and organizations specified in subsection (b)(1).
 
@@ -90,7 +90,7 @@ Authority for Deferral of Mandatory Separation.—The Secretary of the Army and 
 
 (g)
 
-Retention of Military Technicians Who Lose Dual Status Due to Combat-Related Disability.—(1) Notwithstanding subsection (d) of this section or subsections (a)(3) and (b) of section 10218 of this title, if a military technician (dual status) loses such dual status as the result of a combat-related disability (as defined in section 1413a of this title), the person may be retained as a non-dual status technician so long as—
+Retention of Military Technicians Who Lose Dual Status Due to Combat-RelatedDisability.—(1) Notwithstanding subsection (d) of this section or subsections (a)(3) and (b) of section 10218 of this title, if a military technician (dual status) loses such dual status as the result of a combat-related disability (as defined in section 1413a of this title), the person may be retained as a non-dual status technician so long as—
 
 &emsp;(A) the combat-related disability does not prevent the person from performing the non-dual status functions or position; and
 
@@ -110,7 +110,7 @@ Retention of Military Technicians Who Lose Dual Status Due to Combat-Related Dis
 
 Subsec. (d)(3). Pub. L. 111–383, §512, added par. (3).
 
-Subsec. (f). Pub. L. 112–81 inserted "Authority for" before "Deferral of Mandatory Separation" in heading,and in text, substituted "may each implement" for "shall implement", inserted ", at the discretion of the Secretary concerned," after "so as to allow", and struck out "for officers" after "mandatory removal date".
+Subsec. (f). Pub. L. 112–81 inserted "Authority for" before "Deferral of Mandatory Separation" in heading, and in text, substituted "may each implement" for "shall implement", inserted ", at the discretion of the Secretary concerned," after "so as to allow", and struck out "for officers" after "mandatory removal date".
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–417 inserted "and the Secretary of the Air Force" after "Secretary of the Army".
 
@@ -208,7 +208,7 @@ In general.—By not later than October 1, 2017, the Secretary of Defense shall 
 
 Covered positions.—The positions described in this paragraph are military technician (dual status) positions as follows:
 
-&emsp;"(A) Military technician (dual status) positions identified as general administration, clerical, finance, and office service occupations by the Army Reserve, the Air Force Reserve, the National Guard Bureau, State adjutants general, and the Secretary ofDefense in the course of reviewing all military technician positions for purposes of implementing this section.
+&emsp;"(A) Military technician (dual status) positions identified as general administration, clerical, finance, and office service occupations by the Army Reserve, the Air Force Reserve, the National Guard Bureau, State adjutants general, and the Secretary of Defense in the course of reviewing all military technician positions for purposes of implementing this section.
 
 &emsp;"(B) Such other military technician (dual status) positions as the Secretary shall specify for purposes of this subsection.
 

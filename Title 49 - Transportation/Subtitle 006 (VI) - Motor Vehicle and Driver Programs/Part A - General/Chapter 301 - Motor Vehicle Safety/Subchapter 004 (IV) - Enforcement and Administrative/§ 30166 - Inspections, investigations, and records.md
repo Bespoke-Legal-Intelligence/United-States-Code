@@ -12,7 +12,7 @@ Authority To Inspect and Investigate.—(1) The Secretary of Transportation may 
 
 &emsp;(B) related to a motor vehicle accident and designed to carry out this chapter.
 
-(2) The Secretary of Transportation shall cooperate with State and local officials to thegreatest extent possible in an inspection or investigation under paragraph (1)(B) of this subsection.
+(2) The Secretary of Transportation shall cooperate with State and local officials to the greatest extent possible in an inspection or investigation under paragraph (1)(B) of this subsection.
 
 (c)
 
@@ -80,7 +80,7 @@ Governmental Cooperation.—The Secretary of Transportation may request a depart
 
 (j)
 
-Cooperation of Secretary.—The Secretary of Transportation may advise, assist, and cooperate with departments, agencies, and instrumentalities of the Government, States, and other public and private agencies in developinga method for inspecting and testing to determine compliance with a motor vehicle safety standard.
+Cooperation of Secretary.—The Secretary of Transportation may advise, assist, and cooperate with departments, agencies, and instrumentalities of the Government, States, andother public and private agencies in developing a method for inspecting and testing to determine compliance with a motor vehicle safety standard.
 
 (k)
 

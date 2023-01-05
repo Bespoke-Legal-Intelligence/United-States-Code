@@ -16,7 +16,7 @@ In the case of an insurance company—
 
 #### (2) Phase-out
 
-&emsp;If the specified policy acquisition expenses of an insurance company exceed $10,000,000 forany taxable year, the $5,000,000 amount under paragraph (1) shall be reduced (but not below zero) by the amount of such excess.
+&emsp;If the specified policy acquisition expenses of an insurance company exceed $10,000,000 for any taxable year, the $5,000,000 amount under paragraph (1) shall be reduced (but not below zero) by the amount of such excess.
 
 #### (3) Special rule for members of controlled group
 

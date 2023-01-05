@@ -46,7 +46,7 @@
 
 > The Act creating this chapter shall be construed to take precedence over any future Act unless that Act specifically cites this Act and provides that it shall take precedence over this Act.
 
-(b) Nothing in this chapter is intended to alter the effect of the laws cited in paragraph (a) of this section or any other laws with respect to the disposition of rights in inventions made inthe performance of funding agreements with persons other than nonprofit organizations or small business firms.
+(b) Nothing in this chapter is intended to alter the effect of the laws cited in paragraph (a) of this section or any other laws with respect to the disposition of rights in inventions made in the performance of funding agreements with persons other than nonprofit organizations or small business firms.
 
 (c) Nothing in this chapter is intended to limit the authority of agencies to agree to the disposition of rights in inventions made in the performance of work under funding agreements with persons other than nonprofit organizations or small business firms in accordance with the Statement of Government Patent Policy issued on February 18, 1983, agency regulations, or other applicable regulations or to otherwise limit the authority of agencies to allow such persons to retain ownership of inventions except that all funding agreements, including those with other than small business firms and nonprofit organizations, shall include the requirements established in section 202(c)(4) and section 203. Any disposition of rights in inventions made in accordance with the Statement or implementing regulations, including any disposition occurring before enactment of this section, are hereby authorized.
 
@@ -108,7 +108,7 @@ Subsec. (c). Pub. L. 107–273, §13206(a)(16)(B), substituted "section 202(c)(4
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in theDirector's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 2011 Amendment
 

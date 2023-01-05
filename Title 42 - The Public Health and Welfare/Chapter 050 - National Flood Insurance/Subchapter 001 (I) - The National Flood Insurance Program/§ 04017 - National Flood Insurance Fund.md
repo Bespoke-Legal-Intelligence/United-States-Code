@@ -42,7 +42,7 @@ If, after—
 
 &emsp;(1) all outstanding obligations of the fund have been liquidated, and
 
-&emsp;(2) any outstanding amounts which may have been advanced to the fund from appropriations authorized under section 4127(a)(2)(B) of this title have been credited to the appropriation from which advanced, with interest accrued at the rate prescribed under section 2414(e) of this title, as in effect immediately prior to August 1, 1968,
+&emsp;(2) any outstanding amounts which may have been advanced to the fund from appropriations authorized under section 4127(a)(2)(B)of this title have been credited to the appropriation from which advanced, with interest accrued at the rate prescribed under section 2414(e) of this title, as in effect immediately prior to August 1, 1968,
 
 > the Administrator determines that the moneys of the fund are in excess of current needs, he may request the investment of such amounts as he deems advisable by the Secretary of the Treasury in obligations issued or guaranteed by the United States.
 
@@ -118,7 +118,7 @@ Section effective 120 days following Aug. 1, 1968, or such later date prescribed
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities ofthe Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

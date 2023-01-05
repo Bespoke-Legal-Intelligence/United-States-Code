@@ -20,7 +20,7 @@ The training program shall at a minimum include instruction in the following are
 
 &emsp;(6) Procedures for reviewing and applying innovative technology to defense environmental cleanup.
 
-(Pub. L. 107–314, div. D, title XLVI, §4621, formerly Pub. L. 101–189, div. C, title XXXI, §3142, Nov. 29, 1989, 103 Stat. 1680; renumbered Pub. L. 107–314, div. D, title XLVI, §4621, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(8), Nov. 24, 2003, 117 Stat. 1778; Pub. L. 113–66, div. C, title XXXI, §3146(g)(6), Dec. 26, 2013, 127 Stat. 1080.)
+(Pub. L. 107–314, div. D, title XLVI, §4621, formerly Pub. L. 101–189, div. C, title XXXI, §3142,Nov. 29, 1989, 103 Stat. 1680; renumbered Pub. L. 107–314, div. D, title XLVI, §4621, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(8), Nov. 24, 2003, 117 Stat. 1778; Pub. L. 113–66, div. C, title XXXI, §3146(g)(6), Dec. 26, 2013, 127 Stat. 1080.)
 
 #### <b>Editorial Notes</b>
 

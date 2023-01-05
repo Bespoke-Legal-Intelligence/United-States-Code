@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Treasury shall instruct the United States Executive Director at each multilateral development bank to inform each such bank and the executive directors of each such bank of the policy of the United States as set out in this section and to actively promote this policy and the goals set forth in section 262o–3 of this title. It is the policy of the United States that each bank should—
+The Secretary of the Treasury shall instruct the United States Executive Director at each multilateral development bank to inform each such bank and the executive directors of each such bank of the policy of the United States asset out in this section and to actively promote this policy and the goals set forth in section 262o–3 of this title. It is the policy of the United States that each bank should—
 
 &emsp;(1) require the bank's employees, officers and consultants to make an annual disclosure of their financial interests and income and of any other potential source of conflict of interest;
 
@@ -42,7 +42,7 @@ In this section the term "multilateral development bank" has the meaning given t
 
 #### Codification
 
-November 14, 2005, referred to in subsec. (b), was in the original "the enactment of this Act" which wastranslated as meaning the date of enactment of Pub. L. 109–102, which enacted this section, to reflect the probable intent of Congress.
+November 14, 2005, referred to in subsec. (b), was in the original "the enactment of this Act" which was translated as meaning the date of enactment of Pub. L. 109–102, which enacted this section, to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

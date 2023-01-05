@@ -116,7 +116,7 @@ Of the amounts made available under subsection (a) for the period of fiscal year
 
 &emsp;&emsp;(B) $250,000,000 shall be made available to the Secretary of Agriculture;
 
-&emsp;(15) $200,000,000 shall be made available for contracting or employing crews of laborers to modify and remove flammable vegetation on Federal land and for using materials from treatments, to the extent practicable, to produce biochar and other innovative wood products, including through the use of existing locally based organizations that engage young adults, Native youth, and veterans in service projects, such as youth and conservation corps, of which—
+&emsp;(15) $200,000,000 shall be made available for contracting or employing crews of laborers to modify and remove flammable vegetation on Federal land and for using materials from treatments, to the extent practicable, to produce biochar and other innovative woodproducts, including through the use of existing locally based organizations that engage young adults, Native youth, and veterans in service projects, such as youth and conservation corps, of which—
 
 &emsp;&emsp;(A) $100,000,000 shall be made available to the Secretary of the Interior; and
 
@@ -202,7 +202,7 @@ Subject to the availability of appropriations, not later than 180 days after Nov
 
 &emsp;&emsp;&emsp;(ii) the number of acres described in subparagraph (A) to be treated;
 
-&emsp;&emsp;(C) gives priority to a project proposal that is proposed by a collaborative that has successfully accomplished treatments consistent with a written plan that included a proposed schedule of completing those treatments, which is not limited to an earlier proposal funded under the Program; and
+&emsp;&emsp;(C) gives priority to a project proposal that is proposed by a collaborative that hassuccessfully accomplished treatments consistent with a written plan that included a proposed schedule of completing those treatments, which is not limited to an earlier proposal funded under the Program; and
 
 &emsp;&emsp;(D) discontinues funding for a project that fails to achieve the results included in a project proposal submitted under paragraph (1) for more than 2 consecutive years.
 
@@ -280,7 +280,7 @@ In carrying out projects using amounts made available under this section, the Se
 
 #### (h) Reports
 
-The Secretary of the Interior and the Secretary of Agriculture, acting through the Chiefof the Forest Service, shall complete and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives an annual report describing the number of acres of land on which projects carried out using funds made available under this section improved the Fire Regime Condition Class of the land described in subsection (b).
+The Secretary of the Interior and the Secretary of Agriculture, acting through the Chief of the Forest Service, shall complete and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives an annual report describing the number of acres of land on which projects carried out using funds made available under this section improved the Fire Regime Condition Class of the land described in subsection (b).
 
 #### (i) Wildfire prevention study
 
@@ -318,7 +318,7 @@ The Secretary of the Interior and the Secretary of Agriculture, acting through t
 
 &emsp;&emsp;&emsp;(iii) to streamline subsequent projects based on existing statutory or regulatory authorities; and
 
-&emsp;&emsp;&emsp;(iv) to develop interagency teams to increase coordination and efficiency under the National Environmental Policy Act of 1969 (42 U.S.C. 4321) \[42 U.S.C. 4321 et seq.\]; and
+&emsp;&emsp;&emsp;(iv) to develop interagency teams to increase coordination and efficiency under the National Environmental Policy Act of 1969 (42 U.S.C. 4321) \[42 U.S.C. 4321\]; and
 
 &emsp;&emsp;(D) establishes a process for coordinating prioritization and treatment with State and local entities and affected stakeholders.
 
@@ -358,7 +358,7 @@ Section was enacted as part of the Infrastructure Investment and Jobs Act, and n
 
 #### Wage Rate Requirements
 
-For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction,alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
 #### Definitions
 

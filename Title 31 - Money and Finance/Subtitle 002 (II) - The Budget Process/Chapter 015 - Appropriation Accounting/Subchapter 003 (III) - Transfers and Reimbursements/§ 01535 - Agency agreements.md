@@ -12,7 +12,7 @@
 
 (b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment of amounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
 
-(c) A condition or limitation applicable to amounts for procurement of an agency or unit placing an order or making a contract under this section applies to the placing of the order or the making of the contract.
+(c) A condition or limitation applicable to amounts for procurement of an agency or unitplacing an order or making a contract under this section applies to the placing of the order or the making of the contract.
 
 (d) An order placed or agreement made under this section obligates an appropriation of the ordering agency or unit. The amount obligated is deobligated to the extent that the agency or unit filling the order has not incurred obligations, before the end of the period of availability of the appropriation, in—
 
@@ -216,7 +216,7 @@ Reporting Requirement.—Not later than 120 days after the date of the enactment
 
 "(f)
 
-Delayed Implementation.—The modifications described in the report prepared under subsection (e) to be made to existing authorities under subsection (c) or (d) shall not take effect until the end of the 30-day period beginning on the date on which the report is transmitted to Congress.
+Delayed Implementation.—The modifications described in the report prepared under subsection (e) tobe made to existing authorities under subsection (c) or (d) shall not take effect until the end of the 30-day period beginning on the date on which the report is transmitted to Congress.
 
 "(g)
 

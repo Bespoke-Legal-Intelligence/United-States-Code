@@ -8,7 +8,7 @@
 
 (3) Before considering an application for conveyance of mineral interests pursuant to this section—
 
-&emsp;(i) the Secretary shall require the deposit by the applicant of a sum of money which he deems sufficient to cover administrative costs including, but not limited to, costs of conducting an exploratory program to determine the character of the mineral deposits in the land, evaluating the data obtained under the exploratory program to determine the fair market value of the mineral interests to beconveyed, and preparing and issuing the documents of conveyance: <i>Provided</i>, That, if the administrative costs exceed the deposit, the applicant shall pay the outstanding amount; and, if the deposit exceeds the administrative costs, the applicant shall be given a credit for or refund of the excess; or
+&emsp;(i) the Secretary shall require the deposit by the applicant of a sum of money which hedeems sufficient to cover administrative costs including, but not limited to, costs of conducting an exploratory program to determine the character of the mineral deposits in the land, evaluating the data obtained under the exploratory program to determine the fair market value of the mineral interests to be conveyed, and preparing and issuing the documents of conveyance: <i>Provided</i>, That, if the administrative costs exceed the deposit, the applicant shall pay the outstanding amount; and, if the deposit exceeds the administrative costs, the applicant shall be given a credit for or refund of the excess; or
 
 &emsp;(ii) the applicant, with the consent of the Secretary, shall have conducted, and submitted to the Secretary the results of, such an exploratory program, in accordance with standards promulgated by the Secretary.
 

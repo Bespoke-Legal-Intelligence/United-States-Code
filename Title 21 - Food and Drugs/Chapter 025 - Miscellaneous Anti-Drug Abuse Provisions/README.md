@@ -7,6 +7,7 @@
 | [2001\.](Subchapter%20001%20%28I%29%20-%20Anti-Doping%20Agency/%C2%A7%2002001%20-%20Designation%20of%20United%20States%20Anti-Doping%20Agency.md) | Designation of United States Anti-Doping Agency. |
 | [2002\.](Subchapter%20001%20%28I%29%20-%20Anti-Doping%20Agency/%C2%A7%2002002%20-%20Records%2C%20audit%2C%20and%20report.md) | Records, audit, and report. |
 | [2003\.](Subchapter%20001%20%28I%29%20-%20Anti-Doping%20Agency/%C2%A7%2002003%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [2004\.](Subchapter%20001%20%28I%29%20-%20Anti-Doping%20Agency/%C2%A7%2002004%20-%20Information%20sharing.md) | Information sharing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

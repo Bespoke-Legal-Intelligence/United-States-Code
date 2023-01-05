@@ -174,7 +174,7 @@ A State may expend a grant under subsection (a) to carry out the purposes specif
 
 #### (C) Conditions
 
-&emsp;&emsp;The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to thesame conditions as grants made under subsection (a).
+&emsp;&emsp;The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to the same conditions as grants made under subsection (a).
 
 (Pub. L. 93–112, title VII, §752, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1237; amended Pub. L. 113–128, title IV, §487, July 22, 2014, 128 Stat. 1694.)
 

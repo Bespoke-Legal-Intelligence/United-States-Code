@@ -4,7 +4,7 @@
 
 (b) The Secretary may compromise, modify, or remit, with or without consideration, a civil penalty until the assessment is referred to the Attorney General.
 
-(c) If a person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the AttorneyGeneral for collection in an appropriate district court of the United States.
+(c) If a person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection in an appropriate district court of the United States.
 
 (d) The Secretary may refund or remit a civil penalty collected under this section if—
 

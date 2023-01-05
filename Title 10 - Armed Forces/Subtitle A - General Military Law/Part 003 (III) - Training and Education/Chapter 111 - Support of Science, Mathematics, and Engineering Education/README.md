@@ -71,7 +71,7 @@ Determination.—
 
 &emsp;"(1)
 
-In general.—Upon completion of the study required under subsection (a), the Secretary of Defense shall make a determination regarding the establishment within the Department of Defense of a designated central program office responsible for overseeing covered academic engagement programs across the Department.
+In general.—Upon completion of the study required under subsection (a), the Secretary of Defenseshall make a determination regarding the establishment within the Department of Defense of a designated central program office responsible for overseeing covered academic engagement programs across the Department.
 
 &emsp;"(2)
 

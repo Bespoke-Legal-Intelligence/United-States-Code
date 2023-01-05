@@ -48,6 +48,14 @@ Pub. L. 92–573, §34, Oct. 27, 1972, 86 Stat. 1233, provided that: "This Act \
 
 &emsp;"(2) section 30 \[section 2079 of this title\] shall take effect on the later of (A) 150 days after the date of enactment of this Act \[Oct. 27, 1972\], or (B) the date on which at least three members of the Commission first take office."
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–171, §1, Aug. 16, 2022, 136 Stat. 2094, provided that: "This Act \[enacting section 2056e of this title and provisions set out as notes under section 2056e of this title\] may be cited as 'Reese's Law'."
+
+Pub. L. 117–126, §1, May 16, 2022, 136 Stat. 1208, provided that: "This Act \[enacting sections 2057d and 2057e of this title\] may be cited as the 'Safe Sleep for Babies Act of 2021'."
+
+Pub. L. 117–103, div. Q, title II, §201, Mar. 15, 2022, 136 Stat. 812, provided that: "This title \[enacting section 2090 of this title and provisions set out as notes under section 2090 of this title\] may be cited as the 'Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2022'."
+
 #### Short Title of 2013 Amendment
 
 Pub. L. 112–266, §1, Jan. 14, 2013, 126 Stat. 2437, provided that: "This Act \[enacting section 2056c of this title and provisions set out as notes under section 2056c of this title\] may be cited as the 'Drywall Safety Act of 2012'."
@@ -58,7 +66,7 @@ Pub. L. 110–314, §1(a), Aug. 14, 2008, 122 Stat. 3016, provided that: "This A
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–608, §1, Nov. 16, 1990, 104 Stat. 3110, provided that: "This Act \[enacting sections 2076a and 2084 of this title, amending sections 1193, 1194, 1262, 1274, 2053, 2055, 2056, 2058, 2061, 2064, 2066, 2069, 2077, and 2081 of this title, and enacting provisions set out as notes under sections 2053, 2054, 2056, 2076, and 2084 of this title\] may be cited as the 'Consumer Product Safety Improvement Act of 1990'."
+Pub. L. 101–608, §1, Nov. 16, 1990, 104 Stat. 3110, provided that: "This Act \[enacting sections 2076a and 2084of this title, amending sections 1193, 1194, 1262, 1274, 2053, 2055, 2056, 2058, 2061, 2064, 2066, 2069, 2077, and 2081 of this title, and enacting provisions set out as notes under sections 2053, 2054, 2056, 2076, and 2084 of this title\] may be cited as the 'Consumer Product Safety Improvement Act of 1990'."
 
 #### Short Title of 1981 Amendment
 

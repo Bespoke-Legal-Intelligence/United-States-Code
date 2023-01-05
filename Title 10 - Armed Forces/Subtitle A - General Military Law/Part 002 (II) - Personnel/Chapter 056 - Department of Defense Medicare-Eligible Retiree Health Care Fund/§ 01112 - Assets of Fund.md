@@ -10,7 +10,7 @@ There shall be deposited into the Fund the following, which shall constitute the
 
 &emsp;(4) Amounts paid into the Fund pursuant to section 1111(c) of this title.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–180;amended Pub. L. 107–107, div. A, title VII, §711(b)(2), Dec. 28, 2001, 115 Stat. 1165.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–180; amended Pub. L. 107–107, div. A, title VII, §711(b)(2), Dec. 28, 2001, 115 Stat. 1165.)
 
 #### <b>Editorial Notes</b>
 

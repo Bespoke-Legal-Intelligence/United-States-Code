@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense, upon the request of the Attorney General, mayprovide assistance in support of Department of Justice activities relating to the enforcement of section 175, 229, or 2332a of title 18 during an emergency situation involving a weapon of mass destruction. Department of Defense resources, including personnel of the Department of Defense, may be used to provide such assistance if—
+In General.—The Secretary of Defense, upon the request of the Attorney General, may provide assistance in support of Department of Justice activities relating to the enforcement of section 175, 229, or 2332a of title 18 during an emergency situation involving a weapon of mass destruction. Department of Defense resources, including personnel of the Department of Defense, may be used to provide such assistance if—
 
 &emsp;(1) the Secretary of Defense and the Attorney General jointly determine that an emergency situation exists; and
 
@@ -82,7 +82,7 @@ Subsec. (b). Pub. L. 112–81 struck out "biological or chemical" before "weapon
 
 Subsecs. (b)(2)(C), (d)(2)(A)(ii). Pub. L. 111–383, §1075(b)(10)(A), substituted "section 175, 229, or 2332a" for "section 175 or 2332c".
 
-<b>1997</b>—Subsec. (g). Pub. L. 105–85 substituted "September 23, 1996" for "the date of the enactment of theNational Defense Authorization Act for Fiscal Year 1997".
+<b>1997</b>—Subsec. (g). Pub. L. 105–85 substituted "September 23, 1996" for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1997".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

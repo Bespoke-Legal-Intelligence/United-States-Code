@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, during the period beginning on Octob
 
 Under the program, the Secretary shall make payments available under this section whenever—
 
-&emsp;(1) for a consecutive 4-week period, the world market price for the lowest priced competinggrowth of extra long staple cotton (adjusted to United States quality and location and for other factors affecting the competitiveness of such cotton), as determined by the Secretary, is below the prevailing United States price for a competing growth of extra long staple cotton; and
+&emsp;(1) for a consecutive 4-week period, the world market price for the lowest priced competing growth of extra long staple cotton (adjusted to United States quality and location and for other factors affecting the competitiveness of such cotton), as determined by the Secretary, is below the prevailing United States price for a competing growth of extra long staple cotton; and
 
 &emsp;(2) the lowest priced competing growth of extra long staple cotton (adjusted to United States quality and location and for other factors affecting the competitiveness of such cotton), as determined by the Secretary, is less than 134 percent of the loan rate for extra long staple cotton.
 

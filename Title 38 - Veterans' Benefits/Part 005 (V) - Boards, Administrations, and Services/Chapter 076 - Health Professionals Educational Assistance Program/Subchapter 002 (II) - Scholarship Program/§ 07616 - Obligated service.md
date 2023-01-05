@@ -12,7 +12,7 @@
 
 (3)(A)(i) In the case of a participant receiving a degree from a school of medicine, osteopathy, dentistry, optometry, or podiatry, the participant's service commencement date is the date upon which the participant becomes licensed to practice medicine, osteopathy, dentistry, optometry, or podiatry, as the case may be, in a State. However, the Secretary may, at the request of such participant, defer such date until the end of the period of time required for the participant to complete an internship or residency or other advanced clinical training. If the participant requests such a deferral, the Secretary shall notify the participant that such deferral could lead to an additional period of obligated service in accordance with paragraph (4) of this subsection.
 
-(ii) No such period of internship or residency or other advanced clinical training shall be counted toward satisfying a period of obligated service under this subchapter.
+(ii) No such period of internship or residency or other advanced clinical training shall becounted toward satisfying a period of obligated service under this subchapter.
 
 (B) In the case of a participant receiving a degree from a school of nursing, the participant's service commencement date is the later of (i) the participant's course completion date, or (ii) the date upon which the participant becomes licensed as a registered nurse in a State.
 

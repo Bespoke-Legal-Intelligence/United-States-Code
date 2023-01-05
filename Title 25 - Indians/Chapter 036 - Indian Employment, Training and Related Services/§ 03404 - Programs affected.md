@@ -40,7 +40,7 @@
 
 #### (2) Treatment of block grant funds
 
-&emsp;For purposes of this section, programs funded by block grant funds provided to an Indiantribe, regardless of whether the block grant is for the benefit of the Indian tribe because of the status of the Indian tribe or the status of the beneficiaries the grant serves, shall be eligible to be integrated into the plan.
+&emsp;For purposes of this section, programs funded by block grant funds provided to an Indian tribe, regardless of whether the block grant is for the benefit of the Indian tribe because of the status of the Indian tribe or the status of the beneficiaries the grant serves, shall be eligible to be integrated into the plan.
 
 #### (b) Program authorization
 

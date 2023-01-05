@@ -22,6 +22,7 @@
 | [6516\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2006516%20-%20Sale%20of%20waste%20paper%20and%20condemned%20furniture.md) | Sale of waste paper and condemned furniture. |
 | [6517\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2006517%20-%20Receipts%20from%20sale%20of%20used%20or%20surplus%20furniture%20and%20furnishings%20of%20Senate.md) | Receipts from sale of used or surplus furniture and furnishings of Senate. |
 | [6518\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2006518%20-%20Workers%20compensation%20payments.md) | Workers compensation payments. |
+| [6519\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2006519%20-%20McCain-Mansfield%20and%20SFC%20Sean%20Cooley%20and%20SPC%20Christopher%20Horton%20Congressional%20Gold%20Star%20Family%20Fellowships%20Programs.md) | McCain-Mansfield and SFC Sean Cooley and SPC Christopher Horton Congressional Gold Star Family Fellowships Programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -93,7 +94,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6611\.](Subchapter%20003%20%28III%29%20-%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate/Part%20B%20-%20General%20Powers%20and%20Duties/%C2%A7%2006611%20-%20Transfers%20from%20appropriations%20account%20for%20expenses%20of%20Office%20of%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md) | Transfers from appropriations account for expenses of Office of Sergeant at Arms and Doorkeeper of Senate. |
+| [6611\.](Subchapter%20003%20%28III%29%20-%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate/Part%20B%20-%20General%20Powers%20and%20Duties/%C2%A7%2006611%20-%20Transfer%20authority%20and%20Sergeant%20at%20Arms%20Business%20Continuity%20and%20Disaster%20Recovery%20Fund.md) | Transfer authority and Sergeant at Arms Business Continuity and Disaster Recovery Fund. |
 | [6612\.](Subchapter%20003%20%28III%29%20-%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate/Part%20B%20-%20General%20Powers%20and%20Duties/%C2%A7%2006612%20-%20Travel%20expenses%20of%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate.md) | Travel expenses of Sergeant at Arms and Doorkeeper of Senate. |
 | [6613\.](Subchapter%20003%20%28III%29%20-%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate/Part%20B%20-%20General%20Powers%20and%20Duties/%C2%A7%2006613%20-%20Advances%20to%20Sergeant%20at%20Arms%20of%20Senate%20for%20extraordinary%20expenses.md) | Advances to Sergeant at Arms of Senate for extraordinary expenses. |
 | [6614\.](Subchapter%20003%20%28III%29%20-%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate/Part%20B%20-%20General%20Powers%20and%20Duties/%C2%A7%2006614%20-%20Funds%20advanced%20by%20Secretary%20of%20Senate%20to%20Sergeant%20at%20Arms%20and%20Doorkeeper%20of%20Senate%20to%20defray%20office%20expenses%3B%20accountability%3B%20maximum%E2%80%A6.md) | Funds advanced by Secretary of Senate to Sergeant at Arms and Doorkeeper of Senate to defray office expenses; accountability; maximum amount; vouchers. |

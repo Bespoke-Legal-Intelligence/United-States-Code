@@ -8,7 +8,7 @@
 
 #### (2) Criteria for competition test
 
-&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763 and 763b <sup>1</sup> of this title, and shall not make such a determination unless the Commission determinesthat the privatization of any separated entity is consistent with such criteria.
+&emsp;In making the determination required by paragraph (1), the Commission shall use the licensing criteria in sections 763 and 763b <sup>1</sup> of this title, and shall not make such a determination unless the Commission determines that the privatization of any separated entity is consistent with such criteria.
 
 #### (b) Licensing for INTELSAT, Inmarsat, and successor entities
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) after April 1, 2001, in the case of INTELSAT and its successor entities, INTELSAT and any successor entities have been privatized in a manner that will harm competition in the telecommunications markets of the United States; or
 
-&emsp;&emsp;&emsp;(ii) after April 1, 2000, in the case of Inmarsat and its successor entities, Inmarsat and any successor entities have been privatized in a manner that will harm competition in the telecommunications markets of the United States.
+&emsp;&emsp;&emsp;(ii) after April 1, 2000, in the case of Inmarsat and its successor entities, Inmarsat and any successor entities havebeen privatized in a manner that will harm competition in the telecommunications markets of the United States.
 
 #### (B) Consequences of determination
 

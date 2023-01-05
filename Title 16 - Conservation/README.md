@@ -133,10 +133,12 @@
 | [<b>81A.</b>](Chapter%20081A%20-%20National%20Forest%20Organizational%20Camp%20Fee%20Improvement/README.md) | <b>National Forest Organizational Camp Fee Improvement</b> | <b>6231</b> |
 | [<b>82.</b>](Chapter%20082%20-%20Great%20Ape%20Conservation/README.md) | <b>Great Ape Conservation</b> | <b>6301</b> |
 | [<b>83.</b>](Chapter%20083%20-%20Coral%20Reef%20Conservation/README.md) | <b>Coral Reef Conservation</b> | <b>6401</b> |
+| [<b>83A.</b>](Chapter%20083A%20-%20Coral%20Reef%20Conservation%2C%20Management%2C%20and%20Assistance/README.md) | <b>Coral Reef Conservation, Management, and Assistance</b> | <b>6451</b> |
 | [<b>84.</b>](Chapter%20084%20-%20Healthy%20Forest%20Restoration/README.md) | <b>Healthy Forest Restoration</b> | <b>6501</b> |
 | [<b>85.</b>](Chapter%20085%20-%20Marine%20Turtle%20Conservation/README.md) | <b>Marine Turtle Conservation</b> | <b>6601</b> |
 | [<b>86.</b>](Chapter%20086%20-%20Southwest%20Forest%20Health%20and%20Wildfire%20Prevention/README.md) | <b>Southwest Forest Health and Wildfire Prevention</b> | <b>6701</b> |
 | [<b>87.</b>](Chapter%20087%20-%20Federal%20Lands%20Recreation%20Enhancement/README.md) | <b>Federal Lands Recreation Enhancement</b> | <b>6801</b> |
+| [<b>87A.</b>](Chapter%20087A%20-%20Modernizing%20Access%20to%20Public%20Land/README.md) | <b>Modernizing Access to Public Land</b> | <b>6851</b> |
 | [<b>88.</b>](Chapter%20088%20-%20Western%20and%20Central%20Pacific%20Fisheries%20Convention/README.md) | <b>Western and Central Pacific Fisheries Convention</b> | <b>6901</b> |
 | [<b>89.</b>](Chapter%20089%20-%20Pacific%20Whiting/README.md) | <b>Pacific Whiting</b> | <b>7001</b> |
 | [<b>90.</b>](Chapter%20090%20-%20Secure%20Rural%20Schools%20and%20Community%20Self-Determination/README.md) | <b>Secure Rural Schools and Community Self-Determination</b> | <b>7101</b> |
@@ -289,10 +291,12 @@
 - [Chapter 081A - National Forest Organizational Camp Fee Improvement](Chapter%20081A%20-%20National%20Forest%20Organizational%20Camp%20Fee%20Improvement/README.md)
 - [Chapter 082 - Great Ape Conservation](Chapter%20082%20-%20Great%20Ape%20Conservation/README.md)
 - [Chapter 083 - Coral Reef Conservation](Chapter%20083%20-%20Coral%20Reef%20Conservation/README.md)
+- [Chapter 083A - Coral Reef Conservation, Management, and Assistance](Chapter%20083A%20-%20Coral%20Reef%20Conservation%2C%20Management%2C%20and%20Assistance/README.md)
 - [Chapter 084 - Healthy Forest Restoration](Chapter%20084%20-%20Healthy%20Forest%20Restoration/README.md)
 - [Chapter 085 - Marine Turtle Conservation](Chapter%20085%20-%20Marine%20Turtle%20Conservation/README.md)
 - [Chapter 086 - Southwest Forest Health and Wildfire Prevention](Chapter%20086%20-%20Southwest%20Forest%20Health%20and%20Wildfire%20Prevention/README.md)
 - [Chapter 087 - Federal Lands Recreation Enhancement](Chapter%20087%20-%20Federal%20Lands%20Recreation%20Enhancement/README.md)
+- [Chapter 087A - Modernizing Access to Public Land](Chapter%20087A%20-%20Modernizing%20Access%20to%20Public%20Land/README.md)
 - [Chapter 088 - Western and Central Pacific Fisheries Convention](Chapter%20088%20-%20Western%20and%20Central%20Pacific%20Fisheries%20Convention/README.md)
 - [Chapter 089 - Pacific Whiting](Chapter%20089%20-%20Pacific%20Whiting/README.md)
 - [Chapter 090 - Secure Rural Schools and Community Self-Determination](Chapter%20090%20-%20Secure%20Rural%20Schools%20and%20Community%20Self-Determination/README.md)

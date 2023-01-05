@@ -20,17 +20,19 @@ Regulations Governing Acceptance of Gifts.—(1) The Secretary of Defense (and t
 
 (b)
 
-Covered Members.—This section applies to a member of the armed forces who, while performing active duty, full-time National Guard duty, or inactive-duty training on or after September 11, 2001, incurred an injury or illness—
+Covered Members.—This section applies to a member of the armed forces who, while performing active duty, full-time National Guardduty, or inactive-duty training on or after September 11, 2001, incurred an injury or illness—
 
 &emsp;(1) as described in section 1413a(e)(2) of this title;
 
-&emsp;(2) in an operation or area designated as a combat operation or a combat zone, respectively, by the Secretary of Defense in accordance with the regulations prescribed under subsection (a); or
+&emsp;(2) in an operation or area designated as a combat operation or a combat zone, respectively, by the Secretary of Defense in accordance with the regulations prescribed under subsection (a);
 
-&emsp;(3) under other circumstances determined by the Secretary concerned to warrant treatment analogous to members covered by paragraph (1).
+&emsp;(3) that results in enrollment in a Warriors in Transition program, as defined in section 738(e) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 10 U.S.C. 1071 note); or
+
+&emsp;(4) under other circumstances determined by the Secretary concerned to warrant treatment analogous to members covered by paragraph (1).
 
 (c)
 
-Covered Employees.—This section applies to a civilian employee of the Department of Defense or Coast Guard who, while an employee on or after September 11, 2001, incurred an injury or illness under a circumstance described in paragraph (1), (2) or (3) of subsection (b).
+Covered Employees.—This section applies to a civilian employee of the Department of Defense or Coast Guard who, while an employee on or after September 11, 2001, incurred an injury or illness under a circumstance described in subsection (b).
 
 (d)
 
@@ -40,11 +42,15 @@ Gifts From Certain Sources Prohibited.—The regulations prescribed under subsec
 
 Application of Certain Regulations.—To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after December 31, 2011, for injuries or illnesses incurred on or after September 11, 2001.
 
-(Added Pub. L. 111–383, div. A, title V, §591(a), Jan. 7, 2011, 124 Stat. 4231; amended Pub. L. 112–81, div. A, title V, §543, Dec. 31, 2011, 125 Stat. 1411; Pub. L. 112–239, div. A, title X, §1076(f)(32), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 113–291, div. A, title X, §1071(e)(4), (f)(19), Dec. 19, 2014, 128 Stat. 3510, 3511.)
+(Added Pub. L. 111–383, div. A, title V, §591(a), Jan. 7, 2011, 124 Stat. 4231; amended Pub. L. 112–81, div. A, title V, §543, Dec. 31, 2011, 125 Stat. 1411; Pub. L. 112–239, div. A, title X, §1076(f)(32), Jan. 2, 2013, 126 Stat. 1954; Pub. L. 113–291, div. A, title X, §1071(e)(4), (f)(19), Dec. 19, 2014, 128 Stat. 3510, 3511; Pub. L. 117–263, div. A, title V, §522, Dec. 23, 2022, 136 Stat. 2570.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3), (4). Pub. L. 117–263, §522(1), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (c). Pub. L. 117–263, §522(2), struck out "paragraph (1), (2) or (3) of" before "subsection (b)".
 
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–291, §1071(f)(19)(A), substituted "prescribe" for "issue".
 

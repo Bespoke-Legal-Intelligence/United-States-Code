@@ -18,13 +18,13 @@ Except as otherwise provided in this subsection, the Equal Employment Opportunit
 
 &emsp;(1) provision for the establishment of training and education programs designed to provide a maximum opportunity for employees to advance so as to perform at their highest potential; and
 
-&emsp;(2) a description of the qualifications in terms of training and experience relating to equal employment opportunity for the principal and operating officials of each such department, agency, or unit responsible for carrying out the equal employment opportunity program and of the allocation of personnel and resources proposed by such department, agency, or unit to carry out its equal employment opportunity program.
+&emsp;(2) a description of the qualifications in terms of training and experience relating toequal employment opportunity for the principal and operating officials of each such department, agency, or unit responsible for carrying out the equal employment opportunity program and of the allocation of personnel and resources proposed by such department, agency, or unit to carry out its equal employment opportunity program.
 
 > With respect to employment in the Library of Congress, authorities granted in this subsection to the Equal Employment Opportunity Commission shall be exercised by the Librarian of Congress.
 
 #### (c) Civil action by employee or applicant for employment for redress of grievances; time for bringing of action; head of department, agency, or unit as defendant
 
-Within 90 days of receipt of notice of final action taken by a department, agency, or unit referred to in subsection (a), or by the Equal Employment Opportunity Commission upon an appeal from a decision or order of such department, agency, or unit on a complaint of discrimination based on race, color, religion, sex or national origin, brought pursuant to subsection\(a) of this section, Executive Order 11478 or any succeeding Executive orders, or after one hundred and eighty days from the filing of the initial charge with the department, agency, or unit or with the Equal Employment Opportunity Commission on appeal from a decision or order of such department, agency, or unit until such time as final action may be taken by a department, agency, or unit, an employee or applicant for employment, if aggrieved by the final disposition of his complaint, or by the failure to take final action on his complaint, may file a civil action as provided in section 2000e–5 of this title, in which civil action the head of the department, agency, or unit, as appropriate, shall be the defendant.
+Within 90 days of receipt of notice of final action taken by a department, agency, or unit referred to in subsection (a), or by the Equal Employment Opportunity Commission upon an appeal from a decision or order of such department, agency, or unit on a complaint of discrimination based on race, color, religion, sex or national origin, brought pursuant to subsection (a) of this section, Executive Order 11478 or any succeeding Executive orders, or after one hundred and eighty days from the filing of the initial charge with the department, agency, or unit or with the Equal Employment Opportunity Commission on appeal from a decision or order of such department, agency, or unit until such time as final action may be taken by a department, agency, or unit, an employee or applicant for employment, if aggrieved by the final disposition of his complaint, or by the failure to take final action on his complaint, may file a civil action as provided in section 2000e–5 of this title, in which civil action the head of the department, agency, or unit, as appropriate, shall be the defendant.
 
 #### (d) Section 2000e–5(f) through (k) of this title applicable to civil actions
 
@@ -46,7 +46,7 @@ Section 2000e–5(e)(3) of this title shall apply to complaints of discriminatio
 
 This Act, referred to in subsec. (e), means Pub. L. 88–352, July 2, 1964, 78 Stat. 241, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-Executive Order 11478, as amended, referred to in subsecs. (c) and (e), is set out as a note under section 2000e of this title.
+Executive Order 11478, referred to in subsecs. (c) and (e), is set out as a note under section 2000e of this title.
 
 #### Amendments
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 111–2 effective as if enacted May 28, 2007, and applicabl
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, formerly set out as a note under section 633a of Title 29, Labor.
+Amendment by Pub. L. 105–220 effective Aug. 7, 1998, and applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior tosuch date, if the claim or action was brought within the applicable statute of limitations, see section 341(d) of Pub. L. 105–220, formerly set out as a note under section 633a of Title 29, Labor.
 
 #### Effective Date of 1995 Amendment
 
@@ -168,7 +168,7 @@ Sec. 3. <i>Exceptions.</i>
 
 &emsp;&emsp;(3) such current disease, or medical condition or disorder could prevent the applicant or employee from performing the essential functions of the position held or desired; and
 
-&emsp;&emsp;(4) the information defined in section 1–201(e)(1)(C) of this order will not be disclosed topersons other than medical personnel involved in or responsible for assessing whether further medical evaluation is needed to diagnose a current disease, or medical condition or disorder, or under the terms of section 1–301(b) of this order.
+&emsp;&emsp;(4) the information defined in section 1–201(e)(1)(C) of this order will not be disclosed to persons other than medical personnel involved in or responsible for assessing whether further medical evaluation is needed to diagnose a current disease, or medical condition or disorder, or under the terms of section 1–301(b) of this order.
 
 &emsp;(b) The employing department or agency may request, collect, or purchase protected genetic information with respect to an employee, or any information about a request for or receipt of genetic services by such employee if:
 

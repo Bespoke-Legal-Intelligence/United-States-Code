@@ -52,7 +52,7 @@ Subsec. (d)(2). Pub. L. 109–364, §331(b)(1), amended par. (2) generally. Prio
 
 <b>2003</b>—Subsecs. (d), (e). Pub. L. 108–136 redesignated subsec. (e) as (d) and struck out heading and text of former subsec. (d). Text read as follows: "Subsection (a) shall not apply with respect to the Sacramento Army Depot, Sacramento, California."
 
-<b>2001</b>—Subsecs. (b), (c). Pub. L. 107–107 added subsecs. (b) and (c) and struck out heading and text of former subsec. (c). Text read as follows: "The Secretary of themilitary department concerned and, with respect to a Defense Agency, the Secretary of Defense may waive the applicability of subsection (a) for a fiscal year, to a particular workload, or to a particular depot-level activity if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver."
+<b>2001</b>—Subsecs. (b), (c). Pub. L. 107–107 added subsecs. (b) and (c) and struck out heading and text of formersubsec. (c). Text read as follows: "The Secretary of the military department concerned and, with respect to a Defense Agency, the Secretary of Defense may waive the applicability of subsection (a) for a fiscal year, to a particular workload, or to a particular depot-level activity if the Secretary determines that the waiver is necessary for reasons of national security and notifies Congress regarding the reasons for the waiver."
 
 <b>1999</b>—Subsec. (e). Pub. L. 106–65 amended heading and text of subsec. (e) generally. Text read as follows:
 
@@ -108,10 +108,6 @@ Subsec. (e). Pub. L. 102–484, §352(c), designated existing provisions as par.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Termination of Reporting Requirements
-
-For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
-
 #### Congressional Findings
 
 Pub. L. 103–337, div. A, title III, §331, Oct. 5, 1994, 108 Stat. 2715, provided that: "Congress makes the following findings:
@@ -132,7 +128,7 @@ Program Authorized.—The Secretary of Defense shall conduct activities to encou
 
 &emsp;"(1) demonstrating commercial uses of the depot-level activities that are related to the principal mission of the depot-level activities;
 
-&emsp;"(2) preserving employment and skills of employees currently employed by the depot-level activities orproviding for the reemployment and retraining of employees who, as the result of the closure, realignment, or reduced in-house workload of such activities, may become unemployed; and
+&emsp;"(2) preserving employment and skills of employees currently employed by the depot-level activities or providing for the reemployment and retraining of employees who, as the result of the closure, realignment, or reduced in-house workload of such activities, may become unemployed; and
 
 &emsp;"(3) supporting the goals of other defense conversion, reinvestment, and transition assistance programs while also allowing the depot-level activities to remain in operation to continue to perform their defense readiness mission.
 

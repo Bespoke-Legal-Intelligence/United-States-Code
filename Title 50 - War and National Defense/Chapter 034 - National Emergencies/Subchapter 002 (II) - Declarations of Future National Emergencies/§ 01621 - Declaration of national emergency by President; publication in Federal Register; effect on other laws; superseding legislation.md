@@ -26,17 +26,19 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 7463
 
-Notice of President of the United States, dated Sept. 9, 2021, 86 F.R. 50835, provided:
+Notice of President of the United States, dated Sept. 9, 2022, 87 F.R. 55897, provided:
 
 Consistent with section 202(d) of the National Emergencies Act, 50 U.S.C. 1622(d), I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
 
-Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2021. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
+Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2022. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+Notice of President of the United States, dated Sept. 9, 2021, 86 F.R. 50835.
 
 Notice of President of the United States, dated Sept. 10, 2020, 85 F.R. 56467.
 
@@ -78,7 +80,7 @@ Notice of President of the United States, dated Sept. 12, 2002, 67 F.R. 58317.
 
 #### Proclamation No. 9844
 
-Proc. No. 9844, Feb. 15, 2019, 84 F.R. 4949, declared a national emergency at the southern border of the United States, which was terminated by Proc. No. 10142, Jan. 20, 2021, 86 F.R. 7225, set out below.
+Proc. No. 9844, Feb. 15, 2019, 84 F.R. 4949, which declared a national emergency at the southern border of the United States, was terminated by Proc. No. 10142, Jan. 20, 2021, 86 F.R. 7225, set out below.
 
 Continuations of national emergency declared by Proc. No. 9844 were contained in the following:
 
@@ -116,15 +118,17 @@ Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of the National Emergency Declared by Proc. No. 9994
 
-Notice of President of the United States, dated Feb. 24, 2021, 86 F.R. 11599, provided:
+Notice of President of the United States, dated Feb. 18, 2022, 87 F.R. 10289, provided:
 
-On March 13, 2020, by Proclamation 9994 \[set out above\], the President declared a national emergency concerning the coronavirus disease 2019 (COVID–19) pandemic. The COVID–19 pandemic continues to cause significant risk to the public health and safety of the Nation.
-
-For this reason, the national emergency declared on March 13, 2020, and beginning March 1, 2020, must continue in effect beyond March 1, 2021. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency declared in Proclamation 9994 concerning the COVID–19 pandemic.
+On March 13, 2020, by Proclamation 9994 \[set out above\], the President declared a national emergency concerning the coronavirus disease 2019 (COVID–19) pandemic. The COVID–19 pandemic continues to cause significant risk to the public health and safety of the Nation. For this reason, the national emergency declared on March 13, 2020, and beginning March 1, 2020, must continue in effect beyond March 1, 2022. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency declared in Proclamation 9994 concerning the COVID–19 pandemic.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Prior continuation of the national emergency declared by Proc. No. 9994 was contained in the following:
+
+Notice of President of the United States, dated Feb. 24, 2021, 86 F.R. 11599.
 
 #### Proc. No. 10142. Termination of Emergency With Respect to the Southern Border of the United States and Redirection of Funds Diverted to Border Wall Construction
 
@@ -152,7 +156,7 @@ Section 1. <i>Pause in Construction and Obligation of Funds</i>. (a) The Secreta
 
 Sec. 2. <i>Plan for Redirecting Funding and Repurposing Contracts</i>. The Secretary of Defense and the Secretary of Homeland Security, in coordination with the Secretary of the Treasury, the Attorney General, the Director of the Office of Management and Budget, and the heads of any other appropriate executive departments and agencies, and in consultation with the Assistant to the President for National Security Affairs, shall develop a plan for the redirection of funds concerning the southern border wall, as appropriate and consistent with applicable law. The process of developing the plan shall include consideration of terminating or repurposing contracts with private contractors engaged in wall construction, while providing for the expenditure of any funds that the Congress expressly appropriated for wall construction, consistent with their appropriated purpose. The plan shall be developed within 60 days from the date of this proclamation. After the plan is developed, the Secretary of Defense and the Secretary of Homeland Security shall take all appropriate steps to resume, modify, or terminate projects and to otherwise implement the plan.
 
-Sec. 3. <i>Definition</i>. Consistent with Executive Order 13767 of January 25, 2017 (Border Security and Immigration Enforcement Improvements) \[8 U.S.C. 1103 note\], for the purposes of this proclamation, "wall" means a contiguous, physical wall or other similarly secure, contiguous, and impassable physical barrier.
+Sec. 3. <i>Definition</i>. Consistent with Executive Order 13767 of January 25, 2017 (Border Security and Immigration Enforcement Improvements) \[former 8 U.S.C. 1103 note\], for the purposes of this proclamation, "wall" means a contiguous, physical wall or other similarly secure, contiguous, and impassable physical barrier.
 
 Sec. 4. <i>General Provisions</i>. (a) Nothing in this proclamation shall be construed to impair or otherwise affect:
 
@@ -250,7 +254,7 @@ Sec. 3. <i>Task Force on Federal Energy Infrastructure Procurement Policies Rela
 
 (g) In the reports submitted under subsection (f) of this section, the Task Force shall summarize its progress, findings, and recommendations described in subsection (c) of this section.
 
-(h) Because attacks on the bulk-power system can originate through the distribution system, the Task Force shall engage with distribution system industry groups, to the extent consistent with law and national security. Within 180 days of receiving the recommendations pursuant to subsection (c)(i) of this section, the FAR Council shall consider proposing for notice and public comment an amendment to the applicable provisions in the Federal Acquisition Regulation to implement the recommendations provided pursuant to subsection (c)(i) of this section.
+(h) Because attacks on the bulk-power system can originate through the distribution system, the TaskForce shall engage with distribution system industry groups, to the extent consistent with law and national security. Within 180 days of receiving the recommendations pursuant to subsection (c)(i) of this section, the FAR Council shall consider proposing for notice and public comment an amendment to the applicable provisions in the Federal Acquisition Regulation to implement the recommendations provided pursuant to subsection (c)(i) of this section.
 
 Sec. 4. <i>Definitions</i>. For purposes of this order, the following definitions shall apply:
 

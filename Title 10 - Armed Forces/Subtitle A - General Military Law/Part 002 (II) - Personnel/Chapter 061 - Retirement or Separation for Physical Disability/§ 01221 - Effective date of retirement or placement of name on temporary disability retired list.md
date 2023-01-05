@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Aug. 2, 1956, ch. 876, 70 Stat. 933.
 
-Clause (2)(A) is omitted as unnecessary since the revised section applies to the armed forces, and the revised section is made applicable to the other uniformed services by sections 3 and 4 of the act enacting this revised section. Clause (2)(B) is omitted as covered by section 101(8) of this title and sections 3 and 4 of the act enacting this revised section.
+Clause (2)(A) is omitted as unnecessary since the revised section applies to the armed forces, and the revised section is made applicable to the other uniformed services by sections 3 and 4 of the act enacting this revised section. Clause (2)(B) is omitted as covered bysection 101(8) of this title and sections 3 and 4 of the act enacting this revised section.
 
 #### <b>Editorial Notes</b>
 

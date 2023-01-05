@@ -86,7 +86,7 @@ A purchasing group may not purchase insurance from a risk retention group that i
 
 #### (g) State powers to enforce State laws
 
-Nothing in this chapter shall be construed to affect the authority of any State to make use of any of its powers to enforce the laws of such State with respect to which a purchasing group is not exempt under this chapter.
+Nothing in this chapter shall be construed to affect the authority of any State to make use ofany of its powers to enforce the laws of such State with respect to which a purchasing group is not exempt under this chapter.
 
 #### (h) States' authority to sue
 

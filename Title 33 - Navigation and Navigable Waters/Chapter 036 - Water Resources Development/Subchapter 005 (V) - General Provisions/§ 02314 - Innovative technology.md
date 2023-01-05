@@ -50,7 +50,7 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (d). Pub. L. 113–121 substituted "methods, or materials, including roller compacted concrete, geosynthetic materials, and advanced composites, that the Secretary determines are appropriate to carry out this section." for "materials, or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice."
+<b>2014</b>—Subsec. (d). Pub. L. 113–121 substituted "methods, or materials, including roller compacted concrete,geosynthetic materials, and advanced composites, that the Secretary determines are appropriate to carry out this section." for "materials, or methods which the Secretary determines are previously undemonstrated or are too new to be considered standard practice."
 
 <b>1999</b>—Subsecs. (b) to (d). Pub. L. 106–53 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
@@ -58,7 +58,7 @@ Section was enacted as part of the Water Resources Development Act of 1988, and 
 
 #### Design-Build Contracting
 
-Pub. L. 106–541, title II, §221, Dec. 11, 2000, 114 Stat. 2596, provided that the Secretary of the Army could conduct a pilot program consisting of not more than 5 authorized projects to test the design-build method of project delivery on various authorized civil works projects of the Corps of Engineers, including levees, pumping plants, revetments, dikes, dredging, weirs, dams, retaining walls, generation facilities, mattresslaying, recreation facilities, and other water resources facilities, and, not later than 4 years after Dec. 11, 2000, to transmit to Congress a report on the results of the pilot program.
+Pub. L. 106–541, title II, §221, Dec. 11, 2000, 114 Stat. 2596, provided that the Secretary of the Army could conduct a pilot program consisting of not more than 5 authorized projects to test the design-build method of project delivery on various authorized civil works projects of the Corps of Engineers, including levees, pumping plants, revetments, dikes, dredging, weirs, dams, retaining walls, generation facilities, mattress laying, recreation facilities, and other water resources facilities, and, not later than 4 years after Dec. 11, 2000, to transmit to Congress a report on the results of the pilot program.
 
 #### Review of Innovative Dredging Technologies
 

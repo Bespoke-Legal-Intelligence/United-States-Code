@@ -10,7 +10,7 @@ In this part—
 
 &emsp;&emsp;(B) chronically high rates of poverty as determined by the Bureau of the Census.
 
-&emsp;"State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+&emsp;"State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, AmericanSamoa, Guam, and the Northern Mariana Islands.
 
 (Pub. L. 103–322, title III, §30306, Sept. 13, 1994, 108 Stat. 1846.)
 

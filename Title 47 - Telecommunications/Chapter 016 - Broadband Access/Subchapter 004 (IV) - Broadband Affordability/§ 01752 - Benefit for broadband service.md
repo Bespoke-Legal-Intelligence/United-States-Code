@@ -108,7 +108,7 @@ In this section:
 
 #### (5) Reimbursement for connected device
 
-&emsp;A participating provider that, in addition to providing the affordable connectivity benefitto an eligible household, supplies such household with a connected device may be reimbursed up to $100 from the Affordable Connectivity Fund established in subsection (i) for such connected device, if the charge to such eligible household is more than $10 but less than $50 for such connected device, except that a participating provider may receive reimbursement for no more than 1 connected device per eligible household.
+&emsp;A participating provider that, in addition to providing the affordable connectivity benefit to an eligible household, supplies such household with a connected device may be reimbursed up to $100 from the Affordable Connectivity Fund established in subsection (i) for such connected device, if the charge to such eligible household is more than $10 but less than $50 for such connected device, except that a participating provider may receive reimbursement for no more than 1 connected device per eligible household.
 
 #### (6) Certification required
 

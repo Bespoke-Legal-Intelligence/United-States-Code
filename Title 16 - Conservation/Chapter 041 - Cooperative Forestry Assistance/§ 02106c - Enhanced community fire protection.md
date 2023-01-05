@@ -10,7 +10,7 @@ The Secretary may cooperate with State foresters and equivalent State officials 
 
 &emsp;(3) Enhance the growth and maintenance of trees and forests that promote overall forest health.
 
-&emsp;(4) Ensure the continued production of all forest resources, including timber, outdoor recreation opportunities, wildlife habitat, and clean water, through conservation of forest cover on watersheds, shelterbelts, and windbreaks.
+&emsp;(4) Ensure the continued production of all forest resources, including timber, outdoorrecreation opportunities, wildlife habitat, and clean water, through conservation of forest cover on watersheds, shelterbelts, and windbreaks.
 
 #### (b) Community and Private Land Fire Assistance Program
 

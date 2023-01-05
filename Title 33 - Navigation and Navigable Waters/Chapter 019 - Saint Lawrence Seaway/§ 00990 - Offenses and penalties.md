@@ -2,7 +2,7 @@
 
 #### (a) Application of penal statutes
 
-All general penal statutes relating to the larceny, embezzlement, or conversion, of public moneys or property of the United States shall apply to the moneys and property of the Corporation.
+All general penal statutes relating to the larceny, embezzlement, or conversion, of public moneys or property of the United States shallapply to the moneys and property of the Corporation.
 
 #### (b) Frauds and false entries, reports, or statements
 

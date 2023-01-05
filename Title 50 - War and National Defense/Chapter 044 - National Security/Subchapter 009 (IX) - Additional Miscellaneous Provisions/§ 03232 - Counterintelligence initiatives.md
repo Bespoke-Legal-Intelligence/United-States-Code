@@ -16,7 +16,7 @@ The Director of National Intelligence shall establish and implement a process by
 
 The Director of National Intelligence shall establish, for all elements of the intelligence community, programs and procedures by which sensitive classified information relating to human intelligence is safeguarded against unauthorized disclosure by employees of those elements.
 
-(July 26, 1947, ch. 343, title XI, §1102, as added Pub. L. 108–177, title III, §341(a)(1), Dec. 13, 2003, 117 Stat. 2615; amended Pub. L. 108–458, title I, §1071(a)(1)(NN)–(QQ), Dec. 17, 2004, 118 Stat. 3689, 3690; Pub. L. 111–259, title III, §347(e), title IV, §409, Oct. 7, 2010, 124 Stat. 2699, 2724.)
+(July 26, 1947, ch. 343, title XI, §1102, as added Pub. L. 108–177, title III, §341(a)(1), Dec. 13, 2003,117 Stat. 2615; amended Pub. L. 108–458, title I, §1071(a)(1)(NN)–(QQ), Dec. 17, 2004, 118 Stat. 3689, 3690; Pub. L. 111–259, title III, §347(e), title IV, §409, Oct. 7, 2010, 124 Stat. 2699, 2724.)
 
 #### <b>Editorial Notes</b>
 

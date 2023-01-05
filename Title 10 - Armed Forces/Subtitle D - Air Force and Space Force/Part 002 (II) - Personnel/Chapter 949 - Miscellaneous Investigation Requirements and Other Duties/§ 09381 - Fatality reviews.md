@@ -30,7 +30,7 @@ Matters To Be Included.—The report of a fatality review under subsection (a) s
 
 Guidance.—The Secretary of Defense shall prescribe guidance, which shall be uniform for the military departments, for the conduct of reviews by the Secretary under subsection (a).
 
-(Added Pub. L. 108–136, div. A, title V, §576(c)(1), Nov. 24, 2003, 117 Stat. 1488, §9061; renumbered §9381, Pub. L. 115–232, div. A, title VIII, §806(b)(17), Aug. 13, 2018, 132 Stat. 1833; amended Pub. L. 116–283, div. A, title IX, §923(c)(23), Jan. 1, 2021, 134 Stat. 3813.)
+(Added Pub. L. 108–136, div. A, title V, §576(c)(1), Nov. 24, 2003, 117 Stat. 1488, §9061; renumbered§9381, Pub. L. 115–232, div. A, title VIII, §806(b)(17), Aug. 13, 2018, 132 Stat. 1833; amended Pub. L. 116–283, div. A, title IX, §923(c)(23), Jan. 1, 2021, 134 Stat. 3813.)
 
 #### <b>Editorial Notes</b>
 

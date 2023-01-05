@@ -34,7 +34,7 @@ Administration.—(1) The Secretary shall designate a single office in the Depar
 
 (2) For the use of travel benefits under subsection (d)(2) by family members of a member of the armed forces, the Secretary may, as the Secretary determines appropriate, limit—
 
-&emsp;(A) eligibility to family members who, by reason of affinity, degree of consanguinity, orotherwise, are sufficiently close in relationship to the member of the armed forces to justify the travel assistance;
+&emsp;(A) eligibility to family members who, by reason of affinity, degree of consanguinity, or otherwise, are sufficiently close in relationship to the member of the armed forces to justify the travel assistance;
 
 &emsp;(B) the number of family members who may travel; and
 
@@ -46,27 +46,25 @@ Administration.—(1) The Secretary shall designate a single office in the Depar
 
 Services of Nonprofit Organization.—The Secretary of Defense may enter into an agreement with a nonprofit organization to use the services of the organization—
 
-&emsp;(1) to promote the donation of travel benefits under this section, except that amounts appropriated to the Department of Defense may not be expended for this purpose; and
+&emsp;(1) to promote the donation of travel benefits under this section, except that amountsappropriated to the Department of Defense may not be expended for this purpose; and
 
 &emsp;(2) to assist in administering the collection, distribution, and use of travel benefits under this section.
 
 (g)
 
-Family Member Defined.—In this section, the term "family member" has the meaning given that term in section 481h(b) of title 37.<sup>1</sup>
+Family Member Defined.—In this section, the term "family member" has the meaning given that term in section 451(a) of title 37.
 
-(Added Pub. L. 108–375, div. A, title V, §585(a)(1), Oct. 28, 2004, 118 Stat. 1930; amended Pub. L. 109–364, div. A, title X, §1071(a)(20), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–81, div. A, title V, §576(a)–(d)(1), title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1428, 1429, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 115–232, div. A, title X, §1081(a)(25), Aug. 13, 2018, 132 Stat. 1985.)
+(Added Pub. L. 108–375, div. A, title V, §585(a)(1), Oct. 28, 2004, 118 Stat. 1930; amended Pub. L. 109–364, div. A, title X, §1071(a)(20), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–81, div. A, title V, §576(a)–(d)(1), title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1428, 1429, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 115–232, div. A, title X, §1081(a)(25), Aug. 13, 2018, 132 Stat. 1985; Pub. L. 117–263, div. A, title VI, §626(c)(8), Dec. 23, 2022, 136 Stat. 2628.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-Section 481h of title 37, referred to in subsec. (g), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Codification
 
 Another section 2613 was renumbered section 2614 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g). Pub. L. 117–263 substituted "section 451(a)" for "section 481h(b)".
 
 <b>2018</b>—Subsec. (g). Pub. L. 115–232 substituted "481h(b)" for "481h(b)(1)".
 
@@ -89,6 +87,4 @@ Subsec. (g). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, 
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

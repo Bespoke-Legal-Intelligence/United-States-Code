@@ -54,7 +54,7 @@ In the case of a failure which is due to reasonable cause and not to willful neg
 
 #### (e) Controlled groups
 
-For purposes of this section, all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as 1 employer.
+For purposes of this section, all persons treated as a single employer under subsection (b), (c),\(m), or (o) of section 414 shall be treated as 1 employer.
 
 #### (f) Definitions
 

@@ -64,7 +64,7 @@ The Secretary shall promulgate such regulations as are necessary to carry out th
 
 #### References in Text
 
-Section 3834(f)(4) of this title, referred to in subsec. (c)(3), was redesignated as section 3834(g)(2) of this titleby Pub. L. 113–79, title II, §§2005(b)(2), (e)(3), Feb. 7, 2014, 128 Stat. 718, 719.
+Section 3834(f)(4) of this title, referred to in subsec. (c)(3), was redesignated as section 3834(g)(2) of this title by Pub. L. 113–79, title II, §§2005(b)(2), (e)(3), Feb. 7, 2014, 128 Stat. 718, 719.
 
 #### Codification
 

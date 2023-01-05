@@ -16,7 +16,7 @@ The licensee of each radio station shall exercise reasonable diligence to obtain
 
 #### (d) Waiver of announcement
 
-The Commission may waive the requirement of an announcement as provided in this sectionin any case or class of cases with respect to which it determines that the public interest, convenience, or necessity does not require the broadcasting of such announcement.
+The Commission may waive the requirement of an announcement as provided in this section in any case or class of cases with respect to which it determines that the public interest, convenience, or necessity does not require the broadcasting of such announcement.
 
 #### (e) Rules and regulations
 

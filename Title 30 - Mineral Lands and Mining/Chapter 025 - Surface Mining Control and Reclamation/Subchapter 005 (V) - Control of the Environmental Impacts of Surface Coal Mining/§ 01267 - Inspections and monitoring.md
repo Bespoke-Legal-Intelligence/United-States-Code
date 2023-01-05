@@ -10,7 +10,7 @@ For the purpose of developing or assisting in the development, administration, a
 
 &emsp;(1) the regulatory authority shall require any permittee to (A) establish and maintain appropriate records, (B) make monthly reports to the regulatory authority, (C) install, use, and maintain any necessary monitoring equipment or methods, (D) evaluate results in accordance with such methods, at such locations, intervals, and in such manner as a regulatory authority shall prescribe, and (E) provide such other information relative to surface coal mining and reclamation operations as the regulatory authority deems reasonable and necessary;
 
-&emsp;(2) for those surface coal mining and reclamation operations which remove or disturb strata that serve as aquifers which significantly insure the hydrologic balance of water use either on or off the mining site, the regulatory authority shall specify those—
+&emsp;(2) for those surface coal mining and reclamation operations which remove or disturbstrata that serve as aquifers which significantly insure the hydrologic balance of water use either on or off the mining site, the regulatory authority shall specify those—
 
 &emsp;&emsp;(A) monitoring sites to record the quantity and quality of surface drainage above and below the minesite as well as in the potential zone of influence;
 
@@ -30,7 +30,7 @@ The inspections by the regulatory authority shall (1) occur on an irregular basi
 
 #### (d) Maintenance of sign
 
-Each permittee shall conspicuously maintain at the entrances to the surface coal mining andreclamation operations a clearly visible sign which sets forth the name, business address, and phone number of the permittee and the permit number of the surface coal mining and reclamation operations.
+Each permittee shall conspicuously maintain at the entrances to the surface coal mining and reclamation operations a clearly visible sign which sets forth the name, business address, and phone number of the permittee and the permit number of the surface coal mining and reclamation operations.
 
 #### (e) Violations
 

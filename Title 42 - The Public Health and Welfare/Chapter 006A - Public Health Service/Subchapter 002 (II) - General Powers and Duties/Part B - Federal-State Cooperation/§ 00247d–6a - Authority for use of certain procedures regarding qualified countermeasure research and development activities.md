@@ -36,7 +36,7 @@
 
 #### (4) Availability of facilities to the Secretary
 
-&emsp;In any grant, contract, or cooperative agreement entered into under the authority provided in this section with respect to a biocontainment laboratory or other related or ancillary specialized research facility that the Secretary determines necessary for the purpose of performing, administering, or supporting qualified countermeasure research and development, the Secretary may provide that the facility that is the object of such grant, contract, or cooperative agreement shall be available as needed to the Secretary to respond to public health emergencies affecting national security.
+&emsp;In any grant, contract, or cooperative agreement entered into under the authority provided in this section with respect to a biocontainment laboratory or other related or ancillary specialized research facility that the Secretary determines necessary for the purpose of performing, administering, or supporting qualified countermeasure research and development, the Secretary may provide that the facility that is the object of such grant, contract, or cooperative agreement shall beavailable as needed to the Secretary to respond to public health emergencies affecting national security.
 
 #### (5) Transfers of qualified countermeasures
 
@@ -84,7 +84,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In using the authority provided in section 3304(a)(1) of title 41 to use procedures otherthan competitive procedures in the case of a procurement described in paragraph (1) of this subsection, the phrase "available from only one responsible source" in such section 3304(a)(1) shall be deemed to mean "available from only one responsible source or only from a limited number of responsible sources".
+&emsp;&emsp;In using the authority provided in section 3304(a)(1) of title 41 to use procedures other than competitive procedures in the case of a procurement described in paragraph (1) of this subsection, the phrase "available from only one responsible source" in such section 3304(a)(1) shall be deemed to mean "available from only one responsible source or only from a limited number of responsible sources".
 
 #### (B) Relation to other authorities
 
@@ -150,7 +150,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A person carrying out a contract under paragraph (1), and an officer, employee, or governing board member of such person,shall, subject to a determination by the Secretary, be deemed to be an employee of the Department of Health and Human Services for purposes of claims under sections 1346(b) and 2672 of title 28 for money damages for personal injury, including death, resulting from performance of functions under such contract.
+&emsp;&emsp;A person carrying out a contract under paragraph (1), and an officer, employee, or governing board member of such person, shall, subject to a determination by the Secretary, be deemed to be an employee of the Department of Health and Human Services for purposes of claims under sections 1346(b) and 2672 of title 28 for money damages for personal injury, including death, resulting from performance of functions under such contract.
 
 #### (B) Exclusivity of remedy
 
@@ -236,7 +236,7 @@ In subsec. (b)(2)(A), "section 3304(a)(1) of title 41" substituted for "section 
 
 In subsec. (b)(2)(C), "such section 3304(a)(1)" substituted for "such section 303(c)(1)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b)(3)(A), "subsections (a), (d), and (e) of section 1902 of title 41" substituted for "subsections (c), (d), and (f) of section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(3)(A), "subsections (a), (d), and (e) of section 1902 of title 41" substituted for "subsections (c),\(d), and (f) of section 32 of the Office of Federal Procurement Policy Act (41 U.S.C. 428)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
@@ -266,7 +266,7 @@ Pub. L. 108–276, §6, July 21, 2004, 118 Stat. 862, provided that: "The Secret
 
 #### Recommendation for Export Controls on Certain Biomedical Countermeasures
 
-Pub. L. 108–276, §7, July 21, 2004, 118 Stat. 863, provided that: "Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act \[enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out asnotes under this section and section 247d–6b of this title\] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\]), the Secretary of Health and Human Services shall, in consultation with the heads of other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be included on the list of controlled items subject to such controls."
+Pub. L. 108–276, §7, July 21, 2004, 118 Stat. 863, provided that: "Upon the award of any grant, contract, or cooperative agreement under section 2 or 3 of this Act \[enacting this section and section 320 of Title 6, Domestic Security, amending sections 247d–6, 247d–6b, 287a–2, and 300aa–6 of this title and sections 312 and 313 of Title 6, renumbering section 300hh–12 of this title as section 247d–6b of this title, and enacting provisions set out as notes under this section and section 247d–6b of this title\] for the research, development, or procurement of a qualified countermeasure or a security countermeasure (as those terms are defined in this Act \[see Short Title of 2004 Amendments note set out under section 201 of this title\]), the Secretary of Health and Human Services shall, in consultation with the heads of other appropriate Federal agencies, determine whether the countermeasure involved in such grant, contract, or cooperative agreement is subject to existing export-related controls and, if not, may make a recommendation to the appropriate Federal agency or agencies that such countermeasure should be included on the list of controlled items subject to such controls."
 
 #### Ensuring Coordination, Cooperation and the Elimination of Unnecessary Duplication in Programs Designed To Protect the Homeland From Biological, Chemical, Radiological, and Nuclear Agents
 

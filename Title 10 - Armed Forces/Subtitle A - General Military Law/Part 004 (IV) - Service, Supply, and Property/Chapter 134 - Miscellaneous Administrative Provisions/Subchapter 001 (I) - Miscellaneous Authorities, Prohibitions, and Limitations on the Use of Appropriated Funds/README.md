@@ -10,7 +10,9 @@
 | [2244\.](%C2%A7%2002244%20-%20Security%20investigations.md) | Security investigations. |
 | [2244a.](%C2%A7%2002244a%20-%20Equipment%20scheduled%20for%20retirement%20or%20disposal%20limitation%20on%20expenditures%20for%20modifications.md) | Equipment scheduled for retirement or disposal: limitation on expenditures for modifications. |
 | [2245\.](%C2%A7%2002245%20-%20Use%20of%20aircraft%20for%20proficiency%20flying%20limitation.md) | Use of aircraft for proficiency flying: limitation. |
-| \[2245a, 2246 to 2248. Renumbered or Repealed.\] |  |
+| \[2245a. | Repealed.\] |
+| [2246\.](%C2%A7%2002246%20-%20Authorization%20of%20certain%20support%20for%20military%20service%20academy%20foundations.md) | Authorization of certain support for military service academy foundations. |
+| \[2247, 2248. Renumbered or Repealed.\] |  |
 | [2249\.](%C2%A7%2002249%20-%20Renumbered%20%C2%A74652.md) | Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -26,6 +28,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title V, §551(b), Dec. 23, 2022, 136 Stat. 2592, added item 2246.
 
 <b>2016</b>—Pub. L. 114–328, div. A, title VIII, §833(b)(1)(B), title XII, §§1241(o)(6), 1247(d), Dec. 23, 2016, 130 Stat. 2284, 2512, 2522, struck out items 2245a "Use of operation and maintenance funds for purchase of investment items: limitation", 2249a "Prohibition on providing financial assistance to terrorist countries", 2249c "Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials", 2249d "Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces", and 2249e "Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights".
 
@@ -83,7 +87,7 @@ Pub. L. 101–510, div. A, title IX, §904(b), Nov. 5, 1990, 104 Stat. 1621, add
 - [&sect; 02244a - Equipment scheduled for retirement or disposal limitation on expenditures for modifications](%C2%A7%2002244a%20-%20Equipment%20scheduled%20for%20retirement%20or%20disposal%20limitation%20on%20expenditures%20for%20modifications.md)
 - [&sect; 02245 - Use of aircraft for proficiency flying limitation](%C2%A7%2002245%20-%20Use%20of%20aircraft%20for%20proficiency%20flying%20limitation.md)
 - [&sect; 02245a - Repealed. Pub. L. 114&#8211;328, div. A, title VIII, &sect;833(b)(1)(A), Dec. 23, 2016, 130 Stat. 2284](%C2%A7%2002245a%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7833%28b%29%281%29%28A%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202284.md)
-- [&sect; 02246 - Renumbered &sect;2491a](%C2%A7%2002246%20-%20Renumbered%20%C2%A72491a.md)
+- [&sect; 02246 - Authorization of certain support for military service academy foundations](%C2%A7%2002246%20-%20Authorization%20of%20certain%20support%20for%20military%20service%20academy%20foundations.md)
 - [&sect; 02247 - Renumbered &sect;2491b](%C2%A7%2002247%20-%20Renumbered%20%C2%A72491b.md)
 - [&sect; 02248 - Repealed. Pub. L. 108&#8211;136, div. A, title X, &sect;1045(a)(5)(A), Nov. 24, 2003, 117 Stat. 1612](%C2%A7%2002248%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93136%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71045%28a%29%285%29%28A%29%2C%20Nov.%2024%2C%202003%2C%20117%20Stat.%201612.md)
 - [&sect; 02249 - Renumbered &sect;4652](%C2%A7%2002249%20-%20Renumbered%20%C2%A74652.md)

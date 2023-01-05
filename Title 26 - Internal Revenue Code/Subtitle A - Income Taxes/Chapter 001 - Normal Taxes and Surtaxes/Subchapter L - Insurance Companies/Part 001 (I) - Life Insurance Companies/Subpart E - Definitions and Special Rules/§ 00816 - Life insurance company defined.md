@@ -58,7 +58,7 @@ For purposes only of determining under subsection (a) whether or not an insuranc
 
 #### (e) Guaranteed renewable contracts
 
-For purposes of this part, guaranteed renewable life, accident, and health insurance shall be treated in the same manner as noncancellable life, accident, and health insurance.
+For purposes of this part, guaranteed renewable life, accident, and health insurance shall betreated in the same manner as noncancellable life, accident, and health insurance.
 
 #### (f) Amounts not involving life, accident, or health contingencies
 

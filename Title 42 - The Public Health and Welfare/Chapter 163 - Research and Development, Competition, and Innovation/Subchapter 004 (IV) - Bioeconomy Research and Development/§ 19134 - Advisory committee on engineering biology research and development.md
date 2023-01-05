@@ -1,0 +1,50 @@
+### §19134. Advisory committee on engineering biology research and development
+
+#### (a) In general
+
+The agency co-chair of the interagency committee established under section 19133 of this title shall, in consultation with the Office of Science and Technology Policy, designate or establish an advisory committee on engineering biology research and development (in this section referred to as the "advisory committee") to be composed of not fewer than 12 members, including representatives of research and academic institutions, industry, and nongovernmental entities, who are qualified to provide advice on the Initiative.
+
+#### (b) Assessment
+
+The advisory committee shall assess the following:
+
+&emsp;(1) The current state of United States competitiveness in engineering biology, including the scope and scale of United States investments in engineering biology research and development in the international context.
+
+&emsp;(2) Current market barriers to commercialization of engineering biology products, processes, and tools in the United States.
+
+&emsp;(3) Progress made in implementing the Initiative.
+
+&emsp;(4) The need to revise the Initiative.
+
+&emsp;(5) The balance of activities and funding across the Initiative.
+
+&emsp;(6) Whether the strategic plan developed or updated by the interagency committee established under section 19133 of this title is helping to maintain United States leadership in engineering biology.
+
+&emsp;(7) Whether ethical, legal, environmental, safety, security, and other appropriate societal issues are adequately addressed by the Initiative.
+
+#### (c) Reports
+
+Beginning not later than two years after August 9, 2022, and not less frequently than once every five years thereafter, the advisory committee shall submit to the President, the Committee on Science, Space, and Technology, the Committee on Energy and Commerce, and the Committee on Agriculture of the House of Representatives, and the Committee on Commerce, Science, and Transportation, the Committee on Health, Education, Labor, and Pensions, and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on the following:
+
+&emsp;(1) The findings of the advisory committee's assessment under subsection (b).
+
+&emsp;(2) The advisory committee's recommendations for ways to improve the Initiative.
+
+#### (d) Application of Federal Advisory Committee Act
+
+Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply to the advisory committee.
+
+#### (e) Termination
+
+The advisory committee established under subsection (a) shall terminate on the date that is 10 years after August 9, 2022.
+
+(Pub. L. 117–167, div. B, title IV, §10404, Aug. 9, 2022, 136 Stat. 1605.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

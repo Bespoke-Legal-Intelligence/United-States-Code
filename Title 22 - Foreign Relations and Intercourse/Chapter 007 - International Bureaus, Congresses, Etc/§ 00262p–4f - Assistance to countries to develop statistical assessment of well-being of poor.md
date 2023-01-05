@@ -12,13 +12,13 @@ The Congress finds that—
 
 &emsp;(4) the International Bank for Reconstruction and Development and the International Development Association have the technical and financial capability to assist borrowing country governments to develop such statistical measurement capabilities for social indicators necessary for the design and monitoring of poverty-reduction policies for such governments;
 
-&emsp;(5) availability of social indicator data is also essential to the work of such institutions, particularly in monitoring the impact ofstructural adjustment lending on the poor; and
+&emsp;(5) availability of social indicator data is also essential to the work of such institutions, particularly in monitoring the impact of structural adjustment lending on the poor; and
 
 &emsp;(6) availability of such indicators will also facilitate the measurement of progress in the alleviation of poverty by other donor agencies, public and private.
 
 #### (b) Assistance to countries to develop statistical assessment of well-being of poor
 
-The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development and the International Development Association to advocate and support, as an immediate priority, assistance by such institutions to borrowing country governments to develop appropriate statistical measures for assessing the physical well-being of the poor, by sex and age, by using such indicators as mortality, health, education, and nutrition, as well as wealth and income, and maintain and publish such indicators on an ongoing basis.
+The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development and the International Development Association to advocate and support, as an immediate priority, assistance by such institutions to borrowing country governments to develop appropriate statistical measures for assessingthe physical well-being of the poor, by sex and age, by using such indicators as mortality, health, education, and nutrition, as well as wealth and income, and maintain and publish such indicators on an ongoing basis.
 
 (Pub. L. 95–118, title XVI, §1611, as added Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36.)
 

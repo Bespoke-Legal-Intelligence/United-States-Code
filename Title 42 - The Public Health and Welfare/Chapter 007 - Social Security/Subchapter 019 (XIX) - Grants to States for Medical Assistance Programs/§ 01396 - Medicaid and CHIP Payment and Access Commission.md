@@ -42,7 +42,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (D) Coverage policies
 
-&emsp;&emsp;Medicaid and CHIP benefit and coverage policies, including a determination of the degree to which Federal and State policies provide access to the services enrollees requireto improve and maintain their health and functional status.
+&emsp;&emsp;Medicaid and CHIP benefit and coverage policies, including a determination of the degree to which Federal and State policies provide access to the services enrollees require to improve and maintain their health and functional status.
 
 #### (E) Quality of care
 
@@ -76,7 +76,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (A) Certain secretarial reports
 
-&emsp;&emsp;If the Secretary submits to Congress (or a committee of Congress) a report that is required by law and that relates to access policies, including with respect to payment policies, under Medicaid or CHIP, the Secretary shall transmit a copy of the report to MACPAC. MACPAC shall review the report and, not later than 6 months after the date of submittal of the Secretary's report to Congress, shall submit to the appropriate committees of Congress and the Secretary written comments on such report. Such comments may include such recommendations as MACPAC deems appropriate.
+&emsp;&emsp;If the Secretary submits to Congress (or a committee of Congress) a report that is required by law and that relates to access policies, including with respect to payment policies, under Medicaid or CHIP, the Secretary shall transmit a copy of the report to MACPAC. MACPAC shall review the reportand, not later than 6 months after the date of submittal of the Secretary's report to Congress, shall submit to the appropriate committees of Congress and the Secretary written comments on such report. Such comments may include such recommendations as MACPAC deems appropriate.
 
 #### (B) Regulations
 
@@ -138,7 +138,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (B) Information sharing
 
-&emsp;&emsp;MACPAC and MedPAC shall have access to deliberations and records of the other such entity, respectively, upon the request of the other such entity.
+&emsp;&emsp;MACPAC and MedPAC shall have access to deliberations and records of the other suchentity, respectively, upon the request of the other such entity.
 
 #### (12) Consultation with States
 
@@ -174,7 +174,7 @@ There is hereby established the Medicaid and CHIP Payment and Access Commission 
 
 #### (D) Ethical disclosure
 
-&emsp;&emsp;The Comptroller General of the United States shall establish a system for public disclosure by members of MACPAC of financial and other potential conflicts of interest relating to such members. Members of MACPAC shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521) \[5 U.S.C. App.\].
+&emsp;&emsp;The Comptroller General of the United States shall establish a system for public disclosure by members of MACPAC of financial and other potential conflicts of interest relating to such members. Members of MACPAC shall be treated as employees of Congress for purposes of applying subchapter I of chapter 131 of title 5.
 
 #### (3) Terms
 
@@ -242,7 +242,7 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 #### (1) Request for appropriations
 
-&emsp;MACPAC shall submit requests for appropriations (other than for fiscal year 2010) inthe same manner as the Comptroller General of the United States submits requests for appropriations, but amounts appropriated for MACPAC shall be separate from amounts appropriated for the Comptroller General of the United States.
+&emsp;MACPAC shall submit requests for appropriations (other than for fiscal year 2010) in the same manner as the Comptroller General of the United States submits requests for appropriations, but amounts appropriated for MACPAC shall be separate from amounts appropriated for the Comptroller General of the United States.
 
 #### (2) Authorization
 
@@ -262,15 +262,13 @@ Subject to such review as the Comptroller General of the United States deems nec
 
 &emsp;Amounts made available under paragraphs (2) and (3) to MACPAC to carry out the provisions of this section shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1900, as added Pub. L. 111–3, title V, §506(a), Feb. 4, 2009, 123 Stat. 91; amended Pub. L. 111–148, title II, §2801(a), Mar. 23, 2010, 124 Stat. 328; Pub. L. 113–93, title II, §221(b), Apr. 1, 2014, 128 Stat. 1076.)
+(Aug. 14, 1935, ch. 531, title XIX, §1900, as added Pub. L. 111–3, title V, §506(a), Feb. 4, 2009, 123 Stat. 91; amended Pub. L. 111–148, title II, §2801(a), Mar. 23, 2010, 124 Stat. 328; Pub. L. 113–93, title II, §221(b), Apr. 1, 2014, 128 Stat. 1076; Pub. L. 117–286, §4(c)(43), Dec. 27, 2022, 136 Stat. 4359.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 2081 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(13), probably means section 2602 of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 315, which is classified to section 1315b of this title. Section 2602 of Pub. L. 111–148 established the Federal Coordinated Health Care Office, and Pub. L. 111–148 does not contain a section 2081.
-
-The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Codification
 
@@ -281,6 +279,8 @@ In subsec. (d)(3), "section 6101 of title 41" substituted for "section 3709 of t
 A prior section 1396, act Aug. 14, 1935, ch. 531, title XIX, §1901, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 343; amended Pub. L. 93–233, §13(a)(1), Dec. 31, 1973, 87 Stat. 960; Pub. L. 98–369, div. B, title VI, §2663(j)(3)(C), July 18, 1984, 98 Stat. 1171, which related to appropriations, was transferred to section 1396–1 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(2)(D). Pub. L. 117–286 substituted "subchapter I of chapter 131 of title 5." for "title I of the Ethics in Government Act of 1978 (Public Law 95–521)."
 
 <b>2014</b>—Subsec. (b)(6). Pub. L. 113–93 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
@@ -346,7 +346,7 @@ Reliance on Law.—With respect to amendments made by this Act (other than title
 
 &emsp;"(1) such amendments are effective as of such date whether or not regulations implementing such amendments have been issued; and
 
-&emsp;"(2) Federal financial participation for medical assistance or child health assistance furnished under title XIX or XXI, respectively, of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\] on or after such date by a State in good faith reliance on such amendments before the date of promulgation of final regulations, if any, to carry out such amendments (or before the date of guidance, if any, regarding the implementation of such amendments) shall not be denied on the basis of the State's failure to comply with such regulations or guidance."
+&emsp;"(2) Federal financial participation for medical assistance or child health assistance furnished undertitle XIX or XXI, respectively, of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\] on or after such date by a State in good faith reliance on such amendments before the date of promulgation of final regulations, if any, to carry out such amendments (or before the date of guidance, if any, regarding the implementation of such amendments) shall not be denied on the basis of the State's failure to comply with such regulations or guidance."
 
 #### Purpose
 
@@ -374,7 +374,7 @@ Pub. L. 111–3, title V, §501(f), Feb. 4, 2009, 123 Stat. 88, provided that: "
 
 #### Deadline for Initial Appointments
 
-Pub. L. 111–3, title V, §506(b), Feb. 4, 2009, 123 Stat. 95, provided that: "Not later than January 1, 2010, the Comptroller General of the United States shall appoint the initial members of the Medicaid and CHIP Paymentand Access Commission established under section 1900 of the Social Security Act \[42 U.S.C. 1396\] (as added by subsection (a))."
+Pub. L. 111–3, title V, §506(b), Feb. 4, 2009, 123 Stat. 95, provided that: "Not later than January 1, 2010, the Comptroller General of the United States shall appoint the initial members of the Medicaid and CHIP Payment and Access Commission established under section 1900 of the Social Security Act \[42 U.S.C. 1396\] (as added by subsection (a))."
 
 #### Annual Report
 

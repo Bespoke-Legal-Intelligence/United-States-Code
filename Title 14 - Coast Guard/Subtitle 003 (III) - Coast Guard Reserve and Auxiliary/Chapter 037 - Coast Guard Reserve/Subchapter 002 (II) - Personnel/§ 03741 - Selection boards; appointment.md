@@ -4,7 +4,7 @@
 
 (b) A selection board serves for the length of time prescribed by the Secretary, but no board may serve longer than one year. No officer may serve on two consecutive selection boards for the same grade when the second of those boards considers an officer who was considered, but not recommended for promotion, by the first selection board.
 
-(c) Each member of a selection board shall swear that he will, without prejudice or partiality, and having in view both the special fitness required of officers and the efficiency of the Coast Guard, perform the duties imposed upon him. Not less than a majority of the total membership of a selection board shall concur in each recommendation made by the board.
+(c) Each member of a selection board shall swear that he will, without prejudice or partiality, and having in view both the special fitness required of officers and the efficiency of the Coast Guard, perform the duties imposed uponhim. Not less than a majority of the total membership of a selection board shall concur in each recommendation made by the board.
 
 (d) An officer eligible for consideration for promotion by a selection board may forward, through official channels, a written communication inviting the attention of the board to any matter in the officer's record in the armed forces that, in the opinion of the officer concerned, is important to the board's consideration. A communication forwarded under this subsection shall arrive in time to allow delivery to the board prior to its convening, and may not criticize or reflect upon the character, conduct, or motive of any officer.
 

@@ -2,7 +2,7 @@
 
 #### (a) Imposition of penalty
 
-If any person who is engaged in the business of preparing, or providing services in connection with the preparation of, returns of tax imposed by chapter 1, or any person who for compensation prepares any such return for any other person, and who—
+If any person who is engaged in the business of preparing, or providing services in connectionwith the preparation of, returns of tax imposed by chapter 1, or any person who for compensation prepares any such return for any other person, and who—
 
 &emsp;(1) discloses any information furnished to him for, or in connection with, the preparation of any such return, or
 

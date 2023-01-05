@@ -72,7 +72,7 @@ Determination of President of the United States, No. 2011–05, Nov. 19, 2010, 7
 
 Memorandum for the Secretary of State \[and the\] President of the Export-Import Bank of the United States
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 908(a)(3) of the Trade Sanctions Reform and Export Enhancement Act of 2000, title IX, Public Law 106–387, as amended, 22 U.S.C. 7207(a)(3) (TSRA), I hereby determine it is in the national security interest of the United States to waivethe application of section 908(a)(1) of TSRA to allow export assistance to be made available for the export of computers and related equipment that enables the United Nations to facilitate the referendum in Southern Sudan pursuant to the Comprehensive Peace Agreement.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 908(a)(3) of the Trade Sanctions Reform and Export Enhancement Act of 2000, title IX, Public Law 106–387, as amended, 22 U.S.C. 7207(a)(3) (TSRA), I hereby determine it is in the national security interest of the United States to waive the application of section 908(a)(1) of TSRA to allow export assistance to be made available for the export of computers and related equipment that enables the United Nations to facilitate the referendum in Southern Sudan pursuant to the Comprehensive Peace Agreement.
 
 The Secretary of State is hereby authorized and directed to publish this determination in the Federal Register.
 

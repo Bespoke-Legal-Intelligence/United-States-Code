@@ -48,7 +48,7 @@ To be eligible to enter into a contract to receive a contract payment under this
 
 #### (2) Annual payment
 
-&emsp;During each of fiscal years 2005 through 2014, the Secretary shall make a contract payment under this section to each eligible tobacco quota holder, with respect to a kind of tobacco, in an amount equal to 1/10 of the amount determined under paragraph (1) for the tobacco quota holder for that kind of tobacco.
+&emsp;During each of fiscal years 2005 through 2014, the Secretary shall make a contract paymentunder this section to each eligible tobacco quota holder, with respect to a kind of tobacco, in an amount equal to 1/10 of the amount determined under paragraph (1) for the tobacco quota holder for that kind of tobacco.
 
 #### (f) Death of tobacco quota holder
 

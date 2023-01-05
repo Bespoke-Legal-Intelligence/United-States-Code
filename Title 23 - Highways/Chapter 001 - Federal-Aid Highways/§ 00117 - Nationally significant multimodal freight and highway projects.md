@@ -268,8 +268,6 @@ Maximum federal involvement.—Except for grants under subsection (q), Federal a
 
 &emsp;&emsp;(B) for a State not described in subparagraph (A), the total Federal assistance provided for a project receiving a grant under this section may not exceed 80 percent of the total project cost.
 
-23
-
 &emsp;(3)
 
 Federal land management agencies.—Notwithstanding any other provision of law, any Federal funds other than those made available under this title or title 49 may be used to pay the non-Federal share of the cost of a project carried out under this section by a Federal land management agency, as described under subsection (c)(1)(F).

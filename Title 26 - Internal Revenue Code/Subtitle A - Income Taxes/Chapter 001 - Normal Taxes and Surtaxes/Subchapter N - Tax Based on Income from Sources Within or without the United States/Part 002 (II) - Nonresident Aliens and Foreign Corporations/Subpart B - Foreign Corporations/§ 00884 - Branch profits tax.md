@@ -122,7 +122,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If a foreign corporation is subject to the tax imposed by subsection (a) for any taxable year (determined after the application of any treaty), no tax shall be imposed by section 871(a), 881(a), 1441, or 1442 on anydividends paid by such corporation out of its earnings and profits for such taxable year.
+&emsp;&emsp;If a foreign corporation is subject to the tax imposed by subsection (a) for any taxable year (determined after the application of any treaty), no tax shall be imposed by section 871(a), 881(a), 1441, or 1442 on any dividends paid by such corporation out of its earnings and profits for such taxable year.
 
 #### (B) Limitation on certain treaty benefits
 
@@ -160,7 +160,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) such corporation is wholly owned (directly or indirectly) by a domestic corporation, and
 
-&emsp;&emsp;&emsp;(ii) the stock of such domestic corporation is primarily and regularly traded on an established securities market in the United States.
+&emsp;&emsp;&emsp;(ii) the stock of such domestic corporation is primarily and regularly traded onan established securities market in the United States.
 
 #### (D) Secretarial authority
 
@@ -206,7 +206,7 @@ For purposes of this section—
 
 #### (g) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations providing for appropriate adjustments in the determination of the dividend equivalent amount in connection with the distribution to shareholders or transfer to a controlled corporation of the taxpayer's U.S. assets and other adjustments in such determination as are necessary or appropriate to carry out the purposes of this section.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing for appropriate adjustments in the determination of the dividend equivalent amount in connection with the distribution to shareholders or transfer to a controlled corporation of the taxpayer's U.S. assets and other adjustments in such determination as are necessary or appropriate to carry out the purposes of this section.
 
 (Added Pub. L. 99–514, title XII, §1241(a), Oct. 22, 1986, 100 Stat. 2576; amended Pub. L. 100–647, title I, §1012(q)(1)(A), (2)–(6), (14), title VI, §6133(b), Nov. 10, 1988, 102 Stat. 3522–3525, 3721; Pub. L. 104–188, title I, §1704(f)(3)(A), Aug. 20, 1996, 110 Stat. 1879; Pub. L. 110–172, §11(g)(8), Dec. 29, 2007, 121 Stat. 2490.)
 

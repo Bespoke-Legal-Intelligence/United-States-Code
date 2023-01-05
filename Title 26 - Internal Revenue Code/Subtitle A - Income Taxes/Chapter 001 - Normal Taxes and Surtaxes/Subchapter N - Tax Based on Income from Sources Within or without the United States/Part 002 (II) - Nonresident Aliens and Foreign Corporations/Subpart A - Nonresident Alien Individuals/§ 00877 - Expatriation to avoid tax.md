@@ -92,7 +92,7 @@ For purposes of subsection (b)—
 
 &emsp;&emsp;&emsp;&emsp;(II) the total value of the stock of such corporation, and
 
-&emsp;&emsp;&emsp;(ii) to the extent such income or gain does not exceed the earnings and profitsattributable to such stock which were earned or accumulated before the loss of citizenship and during periods that the ownership requirements of clause (i) are met.
+&emsp;&emsp;&emsp;(ii) to the extent such income or gain does not exceed the earnings and profits attributable to such stock which were earned or accumulated before the loss of citizenship and during periods that the ownership requirements of clause (i) are met.
 
 #### (2) Gain recognition on certain exchanges
 
@@ -116,7 +116,7 @@ For purposes of subsection (b)—
 
 #### (D) Secretary may extend period
 
-&emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, subparagraph (B) shall be applied by substituting the 15-year period beginning 5 years before the loss of United States citizenship for the 10-year period referred to therein. In the case of any exchange occurring during such 5 years, any gain recognized under this subparagraph shall be recognized immediately after such loss of citizenship.
+&emsp;&emsp;To the extent provided in regulations prescribed by the Secretary, subparagraph (B) shall be applied by substituting the 15-year period beginning 5 years before the loss of United States citizenship for the 10-year period referred to therein. In the case of any exchange occurring during such 5 years, any gain recognized under this subparagraphshall be recognized immediately after such loss of citizenship.
 
 #### (E) Secretary may require recognition of gain in certain cases
 
@@ -192,7 +192,7 @@ For purposes of subsection (b)—
 
 #### (B) Step-up in basis
 
-&emsp;&emsp;Solely for purposes of determining any tax imposed by reason of this subsection, property which was held by the long-term resident on the date the individual first became a resident of the United States shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply. Such an election, once made, shall be irrevocable.
+&emsp;&emsp;Solely for purposes of determining any tax imposed by reason of this subsection, property which was held by the long-term resident on the date the individual first becamea resident of the United States shall be treated as having a basis on such date of not less than the fair market value of such property on such date. The preceding sentence shall not apply if the individual elects not to have such sentence apply. Such an election, once made, shall be irrevocable.
 
 #### (4) Authority to exempt individuals
 
@@ -364,7 +364,7 @@ Amendment by Pub. L. 110–245 applicable to any individual whose expatriation d
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of 2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
+Amendment by Pub. L. 109–135 effective as if included in the provision of the American Jobs Creation Act of2004, Pub. L. 108–357, to which such amendment relates, see section 403(nn) of Pub. L. 109–135, set out as a note under section 26 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -422,7 +422,7 @@ Amendment by Pub. L. 95–600 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable only with respect to distributions or payments made after Dec. 31, 1973, in taxable years beginning after Dec. 31, 1973, seesection 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
+Amendment by Pub. L. 93–406 applicable only with respect to distributions or payments made after Dec. 31, 1973, in taxable years beginning after Dec. 31, 1973, see section 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
 
 #### Effective Date
 

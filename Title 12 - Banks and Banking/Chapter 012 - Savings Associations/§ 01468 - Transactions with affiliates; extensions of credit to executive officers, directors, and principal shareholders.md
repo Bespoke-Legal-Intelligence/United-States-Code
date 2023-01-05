@@ -40,7 +40,7 @@
 
 #### (c) Administrative enforcement
 
-The appropriate Federal banking agency may take enforcement action with respect to violations of this section pursuant to section 8 or18(j) of the Federal Deposit Insurance Act \[12 U.S.C. 1818 or 1828(j)\], as appropriate.
+The appropriate Federal banking agency may take enforcement action with respect to violations of this section pursuant to section 8 or 18(j) of the Federal Deposit Insurance Act \[12 U.S.C. 1818 or 1828(j)\], as appropriate.
 
 #### (d) Exemptions
 
@@ -128,5 +128,5 @@ Transitional Period.—Notwithstanding section 11(a) of the Home Owners' Loan Ac
 
 "(c)
 
-Authority To Extend Regulatory Approvals That Would Otherwise Lapse During the Transitional Period.—The Director of the Office of Thrift Supervision may extend until the expiration of the 6-month period described in subsection (b) any approvalgranted by the Federal Savings and Loan Insurance Corporation that expires or would expire before the expiration of that 6-month period. In determining whether to grant such exemptions, the Director shall apply the standards that were applicable under section 408(d)(6) of the National Housing Act \[former 12 U.S.C. 1730a(d)(6)\] as in effect on May 1, 1989."
+Authority To Extend Regulatory Approvals That Would Otherwise Lapse During the Transitional Period.—The Director of the Office of Thrift Supervision may extend until the expiration of the 6-month period described in subsection (b) any approval granted by the Federal Savings and Loan Insurance Corporation that expires or would expire before the expiration of that 6-month period. In determining whether to grant such exemptions, the Director shall apply the standards that were applicable under section 408(d)(6) of the National Housing Act \[former 12 U.S.C. 1730a(d)(6)\] as in effect on May 1, 1989."
 

@@ -162,7 +162,7 @@ Any goods marked or labeled in contravention of the provisions of this section s
 
 &emsp;(i) the domain name registrar, registry, or other domain name authority that registered or assigned the domain name is located; or
 
-&emsp;(ii) documents sufficient to establish control and authority regarding the disposition of theregistration and use of the domain name are deposited with the court.
+&emsp;(ii) documents sufficient to establish control and authority regarding the disposition of the registration and use of the domain name are deposited with the court.
 
 (D)(i) The remedies in an in rem action under this paragraph shall be limited to a court order for the forfeiture or cancellation of the domain name or the transfer of the domain name to the owner of the mark. Upon receipt of written notification of a filed, stamped copy of a complaint filed by the owner of a mark in a United States district court under this paragraph, the domain name registrar, domain name registry, or other domain name authority shall—
 
@@ -186,7 +186,7 @@ Acts March 3, 1881, and February 20, 1905, referred to in subsec. (c)(2)(A)(iv),
 
 #### Constitutionality
 
-For information regarding constitutionality of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Prior Provisions
 
@@ -242,7 +242,7 @@ Amendment by Pub. L. 100–667 effective one year after Nov. 16, 1988, see secti
 
 #### Repeal and Effect on Existing Rights
 
-Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrationsand rights under prior acts, see notes set out under section 1051 of this title.
+Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
 #### Study on Abusive Domain Name Registrations Involving Personal Names
 

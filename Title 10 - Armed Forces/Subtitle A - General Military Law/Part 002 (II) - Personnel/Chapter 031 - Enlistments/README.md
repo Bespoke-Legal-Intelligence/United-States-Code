@@ -18,7 +18,7 @@
 | [514\.](%C2%A7%2000514%20-%20Bounties%20prohibited%3B%20substitutes%20prohibited.md) | Bounties prohibited; substitutes prohibited. |
 | [515\.](%C2%A7%2000515%20-%20Reenlistment%20after%20discharge%20as%20warrant%20officer.md) | Reenlistment after discharge as warrant officer. |
 | [516\.](%C2%A7%2000516%20-%20Effect%20upon%20enlisted%20status%20of%20acceptance%20of%20appointment%20as%20cadet%20or%20midshipman.md) | Effect upon enlisted status of acceptance of appointment as cadet or midshipman. |
-| [517\.](%C2%A7%2000517%20-%20Authorized%20enlisted%20end%20strength%20members%20in%20pay%20grades%20E%E2%80%938%20and%20E%E2%80%939.md) | Authorized enlisted end strength: members in pay grades E–8 and E–9. |
+| [517\.](%C2%A7%2000517%20-%20Authorized%20enlisted%20end%20strength%20members%20in%20pay%20grades%20E%E2%80%938%20and%20E%E2%80%93%E2%81%A09.md) | Authorized enlisted end strength: members in pay grades E–8 and E–⁠9. |
 | [518\.](%C2%A7%2000518%20-%20Temporary%20enlistments.md) | Temporary enlistments. |
 | [519\.](%C2%A7%2000519%20-%20Temporary%20enlistments%20during%20war%20or%20emergency.md) | Temporary enlistments: during war or emergency. |
 | [520\.](%C2%A7%2000520%20-%20Limitation%20on%20enlistment%20and%20induction%20of%20persons%20whose%20score%20on%20the%20Armed%20Forces%20Qualification%20Test%20is%20below%20a%20prescribed%20level.md) | Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level. |
@@ -32,7 +32,7 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title IV, §403(b), Jan. 1, 2021, 134 Stat. 3556, added item 517 and struck out former item 517 "Authorized daily average: members in pay grades E–8 and E–9".
+<b>2021</b>—Pub. L. 116–283, div. A, title IV, §403(b), Jan. 1, 2021, 134 Stat. 3556, added item 517 and struck out former item 517 "Authorized daily average: members in pay grades E–8 and E–⁠9".
 
 <b>2004</b>—Pub. L. 108–375, div. A, title V, §551(a)(2), Oct. 28, 2004, 118 Stat. 1911, added item 511.
 
@@ -85,7 +85,7 @@ Pub. L. 90–235, §2(a)(1)(C), Jan. 2, 1968, 81 Stat. 755, redesignated item 50
 - [&sect; 00514 - Bounties prohibited; substitutes prohibited](%C2%A7%2000514%20-%20Bounties%20prohibited%3B%20substitutes%20prohibited.md)
 - [&sect; 00515 - Reenlistment after discharge as warrant officer](%C2%A7%2000515%20-%20Reenlistment%20after%20discharge%20as%20warrant%20officer.md)
 - [&sect; 00516 - Effect upon enlisted status of acceptance of appointment as cadet or midshipman](%C2%A7%2000516%20-%20Effect%20upon%20enlisted%20status%20of%20acceptance%20of%20appointment%20as%20cadet%20or%20midshipman.md)
-- [&sect; 00517 - Authorized enlisted end strength members in pay grades E&#8211;8 and E&#8211;9](%C2%A7%2000517%20-%20Authorized%20enlisted%20end%20strength%20members%20in%20pay%20grades%20E%E2%80%938%20and%20E%E2%80%939.md)
+- [&sect; 00517 - Authorized enlisted end strength members in pay grades E&#8211;8 and E&#8211;&#8288;9](%C2%A7%2000517%20-%20Authorized%20enlisted%20end%20strength%20members%20in%20pay%20grades%20E%E2%80%938%20and%20E%E2%80%93%E2%81%A09.md)
 - [&sect; 00518 - Temporary enlistments](%C2%A7%2000518%20-%20Temporary%20enlistments.md)
 - [&sect; 00519 - Temporary enlistments during war or emergency](%C2%A7%2000519%20-%20Temporary%20enlistments%20during%20war%20or%20emergency.md)
 - [&sect; 00520 - Limitation on enlistment and induction of persons whose score on the Armed Forces Qualification Test is below a prescribed level](%C2%A7%2000520%20-%20Limitation%20on%20enlistment%20and%20induction%20of%20persons%20whose%20score%20on%20the%20Armed%20Forces%20Qualification%20Test%20is%20below%20a%20prescribed%20level.md)

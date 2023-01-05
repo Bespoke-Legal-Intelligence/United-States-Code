@@ -34,7 +34,7 @@
 
 &emsp;Any—
 
-&emsp;&emsp;(A) qualified organization, Indian tribe, territory, local educational agency, for-profit business, private elementary school or secondary school, or institution of higher education that desires to receive financial assistance under this subpart <sup>1</sup> from a State, territory, or Indian tribe for an activity described in section 12523(a)(1) of this title;
+&emsp;&emsp;(A) qualified organization, Indian tribe, territory, local educational agency, for-profit business, private elementary school or secondary school, or institution of higher education that desires to receive financial assistance under this subpart <sup>1</sup> from a State,territory, or Indian tribe for an activity described in section 12523(a)(1) of this title;
 
 &emsp;&emsp;(B) partnership described in section 12523(a)(2) of this title that desires to receive such assistance from a State, territory, or Indian tribe for an activity described in section 12523(a)(2) of this title;
 

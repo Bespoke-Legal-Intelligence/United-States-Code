@@ -34,7 +34,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(7) In a sale of property or services in which the seller is the creditor required to disclose pursuant to section 1631(b) of this title, the "total sale price", using that term, which shall be the total of the cash price of the property or services, additional charges, and the finance charge.
 
-&emsp;(8) Descriptive explanations of the terms "amount financed", "finance charge", "annual percentage rate", "total of payments", and "total sale price" as specified by the Bureau. The descriptive explanation of "totalsale price" shall include reference to the amount of the downpayment.
+&emsp;(8) Descriptive explanations of the terms "amount financed", "finance charge", "annual percentage rate", "total of payments", and "total sale price" as specified by the Bureau. The descriptive explanation of "total sale price" shall include reference to the amount of the downpayment.
 
 &emsp;(9) Where the credit is secured, a statement that a security interest has been taken in (A) the property which is purchased as part of the credit transaction, or (B) property not purchased as part of the credit transaction identified by item or type.
 
@@ -46,7 +46,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(13) In any residential mortgage transaction, a statement indicating whether a subsequent purchaser or assignee of the consumer may assume the debt obligation on its original terms and conditions.
 
-&emsp;(14) In the case of any variable interest rate residential mortgage transaction, in disclosures provided at application as prescribed by the Bureau for a variable rate transaction secured by the consumer's principal dwelling, at the option of the creditor, a statement that the periodic payments may increase or decrease substantially, and the maximum interest rate and payment for a $10,000 loan originated at a recent interest rate, as determined by the Bureau, assuming the maximum periodic increases in rates and payments under the program, or a historical example illustrating the effects of interest rate changes implemented according to the loan program.
+&emsp;(14) In the case of any variable interest rate residential mortgage transaction, in disclosures provided at application as prescribed by the Bureau for a variable rate transaction secured by the consumer's principal dwelling, at the option of the creditor, a statement that the periodic payments may increase or decrease substantially, and the maximum interest rate and payment for a $10,000 loan originated at a recent interest rate, as determinedby the Bureau, assuming the maximum periodic increases in rates and payments under the program, or a historical example illustrating the effects of interest rate changes implemented according to the loan program.
 
 &emsp;(15) In the case of a consumer credit transaction that is secured by the principal dwelling of the consumer, in which the extension of credit may exceed the fair market value of the dwelling, a clear and conspicuous statement that—
 
@@ -72,7 +72,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 (2)(A) Except as provided in subparagraph (G), in the case of any extension of credit that is secured by the dwelling of a consumer, which is also subject to the Real Estate Settlement Procedures Act \[12 U.S.C. 2601 et seq.\], good faith estimates of the disclosures required under subsection (a) shall be made in accordance with regulations of the Bureau under section 1631(c) of this title and shall be delivered or placed in the mail not later than three business days after the creditor receives the consumer's written application, which shall be at least 7 business days before consummation of the transaction.
 
-(B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),<sup>1</sup>shall be in addition to the other disclosures required by subsection (a), and shall—
+(B) In the case of an extension of credit that is secured by the dwelling of a consumer, the disclosures provided under subparagraph (A),<sup>1</sup> shall be in addition to the other disclosures required by subsection (a), and shall—
 
 &emsp;(i) state in conspicuous type size and format, the following: "You are not required to complete this agreement merely because you have received these disclosures or signed a loan application."; and
 
@@ -82,7 +82,7 @@ For each consumer credit transaction other than under an open end credit plan, t
 
 &emsp;(i) Label the payment schedule as follows: "Payment Schedule: Payments Will Vary Based on Interest Rate Changes".
 
-&emsp;(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Bureau. Prior to issuing any rules pursuant to this clause, the Bureau shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee that the borrower will be able to refinance to a lower amount.
+&emsp;(ii) State in conspicuous type size and format examples of adjustments to the regular required payment on the extension of credit based on the change in the interest rates specified by the contract for such extension of credit. Among the examples required to be provided under this clause is an example that reflects the maximum payment amount of the regular required payments on the extension of credit, based on the maximum interest rate allowed under the contract, in accordance with the rules of the Bureau. Prior to issuing any rules pursuant to this clause, the Bureau shall conduct consumer testing to determine the appropriate format for providing the disclosures required under this subparagraph to consumers so that such disclosures can be easily understood, including the fact that the initial regular payments are for a specific time period that will end on a certain date, that payments will adjust afterwards potentially to a higher amount, and that there is no guarantee thatthe borrower will be able to refinance to a lower amount.
 
 (D) In any case in which the disclosure statement under subparagraph (A) contains an annual percentage rate of interest that is no longer accurate, as determined under section 1606(c) of this title, the creditor shall furnish an additional, corrected statement to the borrower, not later than 3 business days before the date of consummation of the transaction.
 
@@ -118,7 +118,7 @@ In general.—In the case of any consumer credit transaction secured by a first 
 
 &emsp;(B)
 
-Assessment value.—The amount taken into account under subparagraph (A) for thepayment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property shall reflect the taxable assessed value of the real property securing the transaction after the consummation of the transaction, including the value of any improvements on the property or to be constructed on the property (whether or not such construction will be financed from the proceeds of the transaction), if known, and the replacement costs of the property for hazard insurance, in the initial year after the transaction.
+Assessment value.—The amount taken into account under subparagraph (A) for the payment of property taxes, hazard and flood (if any) insurance premiums, or other periodic payments or premiums with respect to the property shall reflect the taxable assessed value of the real property securing the transaction after the consummation of the transaction, including the value of any improvements on the property or to be constructed on the property (whether or not such construction will be financed from the proceeds of the transaction), if known, and the replacement costs of the property for hazard insurance, in the initial year after the transaction.
 
 #### (c) Timing of disclosures on unsolicited mailed or telephone purchase orders or loan requests
 
@@ -128,7 +128,7 @@ Assessment value.—The amount taken into account under subparagraph (A) for the
 
 #### (d) Timing of disclosure in cases of an addition of a deferred payment price to an existing outstanding balance
 
-If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or rates and the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
+If a consumer credit sale is one of a series of consumer credit sales transactions made pursuant to an agreement providing for the addition of the deferred payment price of that sale to an existing outstanding balance, and the person to whom the credit is extended has approved in writing both the annual percentage rate or ratesand the method of computing the finance charge or charges, and the creditor retains no security interest in any property as to which he has received payments aggregating the amount of the sales price including any finance charges attributable thereto, then the disclosure required under subsection (a) for the particular sale may be made at any time not later than the date the first payment for that sale is due. For the purposes of this subsection, in the case of items purchased on different dates, the first purchased shall be deemed first paid for, and in the case of items purchased on the same date, the lowest price shall be deemed first paid for.
 
 #### (e) Terms and disclosure with respect to private education loans
 
@@ -200,7 +200,7 @@ If a consumer credit sale is one of a series of consumer credit sales transactio
 
 &emsp;&emsp;(H) an estimate of the total amount for repayment, at both the interest rate in effect on the date of approval and at the maximum possible rate of interest offered by the private educational lender and applicable to the borrower, to the extent that such maximum rate may be determined, or if not, a good faith estimate thereof;
 
-&emsp;&emsp;(I) any principal and interest payments required while the student for whom the private education loan is intended is enrolled at a covered educational institution and unpaid interest that will accrue during such enrollment;
+&emsp;&emsp;(I) any principal and interest payments required while the student for whom the private education loan is intended is enrolledat a covered educational institution and unpaid interest that will accrue during such enrollment;
 
 &emsp;&emsp;(J) payment deferral options applicable to the borrower;
 
@@ -418,7 +418,7 @@ Variable interest rates.—Subparagraph (C) of section 128(b)(2) of the Truth in
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to casescommenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
+Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under Title 11, Bankruptcy, before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under section 101 of Title 11.
 
 #### Effective Date of 1980 Amendment
 

@@ -16,7 +16,7 @@
 
 #### (2) Requirement to reform earned income tax credit
 
-&emsp;The Secretary shall not make any payments under paragraph (1) with respect to any calendar year unless Puerto Rico has in effect an earned income tax credit for taxable years beginning in or with such calendar year which (relative to the earned income tax credit which was in effect for taxable years beginning in or with calendar year 2019) increases the percentage of earned income which is allowed as a credit for each group of individuals with respect to which such percentage is separately stated or determined in a manner designed to substantially increase workforce participation.
+&emsp;The Secretary shall not make any payments under paragraph (1) with respect to any calendar year unless Puerto Rico has in effect an earned income tax credit for taxable years beginning in or with such calendar year which (relative to the earned income tax credit which was in effect for taxable years beginning in or with calendar year 2019) increasesthe percentage of earned income which is allowed as a credit for each group of individuals with respect to which such percentage is separately stated or determined in a manner designed to substantially increase workforce participation.
 
 #### (3) Specified matching amount
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;In the case of calendar year 2021, the term "base amount" means the greater of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the cost to Puerto Rico of the earned income tax credit for taxableyears beginning in or with calendar year 2019 (rounded to the nearest multiple of $1,000,000), or
+&emsp;&emsp;&emsp;&emsp;(I) the cost to Puerto Rico of the earned income tax credit for taxable years beginning in or with calendar year 2019 (rounded to the nearest multiple of $1,000,000), or
 
 &emsp;&emsp;&emsp;&emsp;(II) $200,000,000.
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(A) such dollar amount, multiplied by—
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting "calendar year 2020" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendaryear, determined by substituting "calendar year 2020" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 > &emsp;Any increase determined under this clause shall be rounded to the nearest multiple of $100,000.
 

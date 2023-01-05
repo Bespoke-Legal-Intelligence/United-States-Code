@@ -38,6 +38,46 @@ The enactment of this Act, referred to in subsec. (a), probably means the date o
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Assessment and Optimization of Department of Defense Information and Influence Operations Conducted Through Cyberspace
+
+Pub. L. 117–263, div. A, title XV, §1522, Dec. 23, 2022, 136 Stat. 2897, provided that:
+
+"(a)
+
+Assessment and Plan.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Principal Information Operations Advisor and the Principal Cyber Advisor to the Secretary of Defense shall complete both an assessment and an optimization plan for information and influence operations conducted through cyberspace.
+
+"(b)
+
+Elements.—The assessment under subsection (a) shall include the following:
+
+&emsp;"(1) An inventory of the components of the Department of Defense conducting information and influence operations conducted through cyberspace.
+
+&emsp;"(2) An examination of sufficiency of resources allocated for information and influence operations conducted through cyberspace.
+
+&emsp;"(3) An evaluation of the command and control, oversight, and management of matters related to information and influence operations conducted through cyberspace across the Office of the Secretary of Defense and the Joint Staff.
+
+&emsp;"(4) An evaluation of the existing execution, coordination, synchronization, deconfliction, and consultative procedures and mechanisms for information and influence operations conducted through cyberspace.
+
+&emsp;"(5) Any other matters determined relevant by the Principal Information Operations Advisor and the Principal Cyber Advisor to the Secretary of Defense.
+
+"(c)
+
+Optimization Plan.—The optimization plan under subsection (a) shall include the following:
+
+&emsp;"(1) Actions that the Department will implement to improve the execution, coordination, synchronization, deconfliction, and consultative procedures and mechanisms for information and influence operations conducted through cyberspace.
+
+&emsp;"(2) An evaluation of potential organizational changes required to optimize information and influence operations conducted through cyberspace.
+
+&emsp;"(3) Any other matters determined relevant by the Principal Information Operations Advisor and the Principal Cyber Advisor to the Secretary of Defense.
+
+"(d)
+
+Briefings.—Not later than 30 days after completing the assessment and optimization plan under subsection (a), the Principal Information Operations Advisor and the Principal Cyber Advisor to the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the assessment and plan.
+
+"(e)
+
+Implementation.—Not later than 180 days after the date on which the briefing is provided under subsection (d), the Secretary of Defense shall implement the optimization plan under subsection (a)."
+
 #### Conducting of Military Operations in the Information Environment
 
 Pub. L. 116–92, div. A, title XVI, §1631(b)–(i), Dec. 20, 2019, 133 Stat. 1742–1745, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(6), title XVII, §1749(b), Jan. 1, 2021, 134 Stat. 3873, 4142, provided that:
@@ -68,7 +108,7 @@ Quarterly Information Operations Briefings.—(1) Not less frequently than once 
 
 "(e)
 
-Rule of Construction.—Nothing in this section may be construed to limit, expand, or otherwise alter the authority of the Secretary to conduct military operations, including clandestine operations, in the information environment, to authorize specific military operations, or to limit, expand, or otherwise alter or otherwise affect the War Powers Resolution (50 U.S.C. 1541et seq.) or an authorization for use of military force that was in effect on the day before the date of the enactment of this Act \[Dec. 20, 2019\].
+Rule of Construction.—Nothing in this section may be construed to limit, expand, or otherwise alter the authority of the Secretary to conduct military operations, including clandestine operations, in the information environment, to authorize specific military operations, or to limit, expand, or otherwise alter or otherwise affect the War Powers Resolution (50 U.S.C. 1541 et seq.) or an authorization for use of military force that was in effect on the day before the date of the enactment of this Act \[Dec. 20, 2019\].
 
 "(f)
 

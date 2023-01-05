@@ -78,7 +78,7 @@ Application.—An applicant for a grant under this section shall submit to the S
 
 &emsp;&emsp;(B) the anticipated railroad carrier, if such entity is not part of the applicant group; and
 
-&emsp;&emsp;(C) any other service providers or entities expected to provide services or facilities that will be used by the service, includingany required access to Amtrak systems, stations, and facilities if Amtrak is not part of the applicant group.
+&emsp;&emsp;(C) any other service providers or entities expected to provide services or facilities that will be used by the service, including any required access to Amtrak systems, stations, and facilities if Amtrak is not part of the applicant group.
 
 (d)
 

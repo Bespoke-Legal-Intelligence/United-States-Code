@@ -24,7 +24,7 @@ Asset concession.—The term "asset concession" means a contract between an elig
 
 &emsp;&emsp;&emsp;&emsp;(I) to provide to the eligible entity 1 or more asset concession payments; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to maintain or exceed the condition, performance, and service level of the approved infrastructure asset, as compared to that condition, performance, and service level on the date of execution of the agreement or lease; and
+&emsp;&emsp;&emsp;&emsp;(II) to maintain or exceed the condition, performance, and service level ofthe approved infrastructure asset, as compared to that condition, performance, and service level on the date of execution of the agreement or lease; and
 
 &emsp;&emsp;&emsp;(iii) the eligible entity and the concessionaire agree that the costs for a fiscal year of the agreement or lease, and any project carried out under the agreement or lease, shall not be shifted to any taxpayer the annual household income of whom is less than $400,000 per year, including through taxes, user fees, tolls, or any other measure, for use of an approved infrastructure asset; and
 
@@ -164,7 +164,7 @@ In general.—The Secretary shall ensure that, as a condition of receiving a gra
 
 &emsp;&emsp;(B) the eligible entity shall have adopted binding rules to publish all major business terms of the proposed asset concession not later than the date that is 30 days before entering into the asset concession, to enable public review, including a certification of public interest based on the results of an assessment under subparagraph (D);
 
-&emsp;&emsp;(C) the asset concession shall not result in displacement, job loss, or wage reduction forthe existing workforce of the eligible entity or other public entities;
+&emsp;&emsp;(C) the asset concession shall not result in displacement, job loss, or wage reduction for the existing workforce of the eligible entity or other public entities;
 
 &emsp;&emsp;(D) the eligible entity or the concessionaire shall carry out a value-for-money analysis, or similar assessment, to compare the aggregate costs and benefits to the eligible entity of the asset concession against alternative options to determine whether the asset concession generates additional public benefits and serves the public interest;
 

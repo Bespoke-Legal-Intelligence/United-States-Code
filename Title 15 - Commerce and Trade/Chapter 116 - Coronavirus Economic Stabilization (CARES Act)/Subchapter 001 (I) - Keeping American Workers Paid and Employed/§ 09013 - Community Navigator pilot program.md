@@ -68,7 +68,7 @@ In this section:
 
 #### (2) Call center
 
-&emsp;The Administrator shall establish a telephone hotline to offer information about Federal programs to assist eligible businesses and offer referral services to resource partners, community navigators, potential lenders, and other persons that the Administrator determines appropriate for current or prospective owners of eligible businesses.
+&emsp;The Administrator shall establish a telephone hotline to offer information about Federal programs to assist eligible businesses and offer referral services to resource partners, community navigators, potential lenders, andother persons that the Administrator determines appropriate for current or prospective owners of eligible businesses.
 
 #### (3) Outreach
 

@@ -90,7 +90,7 @@ In this section:
 
 #### (B) Confidentiality of information
 
-&emsp;&emsp;The interagency committee and any Federal agency represented on the interagency committee may not disclose to the public any confidential documents or information received in the course of carrying out this section, except information aggregated to preserve confidentiality and used in the reports described in subsection (g).
+&emsp;&emsp;The interagency committee and any Federal agency represented on the interagency committee may not disclose to the publicany confidential documents or information received in the course of carrying out this section, except information aggregated to preserve confidentiality and used in the reports described in subsection (g).
 
 #### (c) Certification requirements
 
@@ -100,7 +100,7 @@ In this section:
 
 &emsp;&emsp;A covered vehicle shall be eligible for preferential tariff treatment only if the producer of the covered vehicle—
 
-&emsp;&emsp;&emsp;(i) provides a certification to the Commissioner that the production of covered vehicles by the producer meets the laborvalue content requirements, including the high-wage material and manufacturing expenditures, high-wage technology expenditures, and high-wage assembly expenditures, as set forth in article 7 of the automotive appendix or, if the producer is subject to the alternative staging regime, articles 7 and 8 of that appendix, and includes the calculations of the producer related to the labor value content requirements; and
+&emsp;&emsp;&emsp;(i) provides a certification to the Commissioner that the production of covered vehicles by the producer meets the labor value content requirements, including the high-wage material and manufacturing expenditures, high-wage technology expenditures, and high-wage assembly expenditures, as set forth in article 7 of the automotive appendix or, if the producer is subject to the alternative staging regime, articles 7 and 8 of that appendix, and includes the calculations of the producer related to the labor value content requirements; and
 
 &emsp;&emsp;&emsp;(ii) has information on record to support those calculations.
 
@@ -216,7 +216,7 @@ In this section:
 
 #### (C) Reporting
 
-&emsp;&emsp;Before a determination is made with respect to whether to authorize the use of thealternative staging regime, the Trade Representative shall provide to the appropriate congressional committees a summary of requests for the alternative staging regime.
+&emsp;&emsp;Before a determination is made with respect to whether to authorize the use of the alternative staging regime, the Trade Representative shall provide to the appropriate congressional committees a summary of requests for the alternative staging regime.
 
 #### (4) Alternative staging regime review and modification
 
@@ -414,7 +414,7 @@ Ex. Ord. No. 13908, Feb. 28, 2020, 85 F.R. 12983, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and section 202A of the United States-Mexico-Canada Agreement Implementation Act (Act) (Public Law 116–113) \[19 U.S.C. 4532\], it is hereby ordered as follows:
 
-Section 1. <i>Establishment of Interagency Committee</i>. The Interagency Committee on Trade in Automotive Goods (Committee) is hereby established to provide advice, as appropriate, on the implementation, enforcement, and modification of provisions of the United States-Mexico-Canada Agreement (Agreement) that relate to automotive goods, including the automotive rules of origin and the alternative staging regime that are part of such rules. The Committee shall also review the operation of the Agreement with respect to trade in automotive goods, including the economic effects of the automotive rules of origin on the United States economy, workers, and consumers, and the impact of new technology on such rules.
+Section 1. <i>Establishment of Interagency Committee</i>. The Interagency Committee on Trade in Automotive Goods (Committee) is hereby established to provide advice, as appropriate, on the implementation, enforcement, and modification of provisions of the United States-Mexico-Canada Agreement (Agreement) that relate to automotive goods, including the automotive rules of origin and the alternative staging regime that are part of such rules. The Committee shall also review the operation of the Agreement with respect to trade in automotive goods, including the economic effects of theautomotive rules of origin on the United States economy, workers, and consumers, and the impact of new technology on such rules.
 
 Sec. 2. <i>Membership</i>. The Committee shall be composed of the Secretary of Commerce, the Secretary of Labor, the United States Trade Representative (USTR), the Chairman of the United States International Trade Commission, and the Commissioner of U.S. Customs and Border Protection in the Department of Homeland Security. Members of the Committee may designate an officer of the United States within their respective executive department, agency, or component to serve as their representative on the Committee. The USTR shall serve as Chair of the Committee. The USTR may invite representatives from other executive departments or agencies, as the USTR determines are necessary, to participate as members or observers, and shall include the Secretary of the Treasury as a member of the Committee. Each executive department, agency, and component represented on the Committee shall ensure that the necessary staff are available to assist in performing the responsibilities of the Committee.
 

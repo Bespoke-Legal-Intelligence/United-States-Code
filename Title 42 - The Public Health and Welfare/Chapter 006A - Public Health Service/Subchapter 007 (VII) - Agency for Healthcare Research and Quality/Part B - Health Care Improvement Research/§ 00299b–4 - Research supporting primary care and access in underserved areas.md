@@ -32,7 +32,7 @@
 
 #### (5) Operation
 
-&emsp;Operation.<sup>4</sup> In carrying out the duties under paragraph (2), the Task Force is not subject to the provisions of Appendix 2 of title 5.
+&emsp;Operation.<sup>4</sup> In carrying out the duties under paragraph (2), the Task Force is not subject to the provisions of chapter 10 of title 5.
 
 #### (6) Independence
 
@@ -60,15 +60,13 @@
 
 &emsp;&emsp;(D) the continuity and coordination of health services.
 
-(July 1, 1944, ch. 373, title IX, §915, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1659; amended Pub. L. 111–148, title IV, §4003(a), Mar. 23, 2010, 124 Stat. 541.)
+(July 1, 1944, ch. 373, title IX, §915, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1659; amended Pub. L. 111–148, title IV, §4003(a), Mar. 23, 2010, 124 Stat. 541; Pub. L. 117–286, §4(a)(241), Dec. 27, 2022, 136 Stat. 4332.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Appendix 2 of title 5, referred to in subsec. (a)(5), probably means the Federal Advisory Committee Act, Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(5). Pub. L. 117–286 substituted "chapter 10 of title 5." for "Appendix 2 of title 5."
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148 added subsec. (a) and struck out former subsec. (a) which related to establishment and purpose of Preventive Services Task Force, provision of support by Agency, and nonapplicability of provisions of Appendix 2 of title 5.
 

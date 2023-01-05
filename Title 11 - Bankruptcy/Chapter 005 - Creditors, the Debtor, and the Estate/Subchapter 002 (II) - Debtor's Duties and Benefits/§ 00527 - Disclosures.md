@@ -30,7 +30,7 @@
 
 "If you select another type of relief under the Bankruptcy Code other than chapter 7 or chapter 13, you will want to find out what should be done from someone familiar with that type of relief.
 
-"Your bankruptcy case may also involve litigation. You are generally permitted to representyourself in litigation in bankruptcy court, but only attorneys, not bankruptcy petition preparers, can give you legal advice.".
+"Your bankruptcy case may also involve litigation. You are generally permitted to represent yourself in litigation in bankruptcy court, but only attorneys, not bankruptcy petition preparers, can give you legal advice.".
 
 (c) Except to the extent the debt relief agency provides the required information itself after reasonably diligent inquiry of the assisted person or others so as to obtain such information reasonably accurately for inclusion on the petition, schedules or statement of financial affairs, a debt relief agency providing bankruptcy assistance to an assisted person, to the extent permitted by nonbankruptcy law, shall provide each assisted person at the time required for the notice required under subsection (a)(1) reasonably sufficient information (which shall be provided in a clear and conspicuous writing) to the assisted person on how to provide all the information the assisted person is required to provide under this title pursuant to section 521, including—
 

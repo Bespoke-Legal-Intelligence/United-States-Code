@@ -82,7 +82,7 @@ Screening Operations.—The Administrator shall—
 
 &emsp;(3) train and test security screening personnel; and
 
-&emsp;(4) be responsible for hiring and training personnel to provide security screening at all airports in the United States where screening is required under section 44901, in consultation with the Secretary of Transportation and the heads of other appropriate Federal agencies and departments.
+&emsp;(4) be responsible for hiring and training personnel to provide security screening at all airports in the United States where screening isrequired under section 44901, in consultation with the Secretary of Transportation and the heads of other appropriate Federal agencies and departments.
 
 (f)
 
@@ -98,7 +98,7 @@ Additional Duties and Powers.—In addition to carrying out the functions specif
 
 &emsp;(5) serve as the primary liaison for transportation security to the intelligence and law enforcement communities;
 
-&emsp;(6) on a day-to-day basis, manage and provide operational guidance to the field securityresources of the Administration, including Federal Security Managers as provided by section 44933;
+&emsp;(6) on a day-to-day basis, manage and provide operational guidance to the field security resources of the Administration, including Federal Security Managers as provided by section 44933;
 
 &emsp;(7) enforce security-related regulations and requirements;
 
@@ -178,7 +178,7 @@ In general.—The Administrator is authorized—
 
 &emsp;&emsp;(C) to lease to others such real and personal property and to provide by contract or otherwise for necessary facilities for the welfare of its employees and to acquire, maintain, and operate equipment for these facilities;
 
-&emsp;&emsp;(D) to acquire services, including such personal services as the Secretary of Homeland Security determines necessary, and to acquire (by purchase, lease, condemnation, orotherwise) and to construct, repair, operate, and maintain research and testing sites and facilities; and
+&emsp;&emsp;(D) to acquire services, including such personal services as the Secretary of Homeland Security determines necessary, and to acquire (by purchase, lease, condemnation, or otherwise) and to construct, repair, operate, and maintain research and testing sites and facilities; and
 
 &emsp;&emsp;(E) in cooperation with the Administrator of the Federal Aviation Administration, to utilize the research and development facilities of the Federal Aviation Administration.
 
@@ -262,7 +262,7 @@ Meritorious executive or distinguished executive rank awards.—Notwithstanding 
 
 &emsp;&emsp;(B) receipt by a career appointee or a senior career employee of the rank of Meritorious Executive or Meritorious Senior Professional entitles the individual to a lump-sum payment of an amount equal to 20 percent of annual basic pay, which shall be in addition to the basic pay paid under the applicable Transportation Security Administration pay system; and
 
-&emsp;&emsp;(C) receipt by a career appointee or a senior career employee of the rank of Distinguished Executive or Distinguished SeniorProfessional entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under the applicable Transportation Security Administration pay system.
+&emsp;&emsp;(C) receipt by a career appointee or a senior career employee of the rank of Distinguished Executive or Distinguished Senior Professional entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under the applicable Transportation Security Administration pay system.
 
 &emsp;(3)
 
@@ -274,7 +274,7 @@ Definition of applicable sections of title 5.—In this subsection, the term "ap
 
 (o)
 
-Authority of Inspector General.—The Transportation Security Administration shall be subject to the Inspector General Act of 1978 (5 U.S.C. App.) and other laws relating to the authority of the Inspector General of the Department of Homeland Security.
+Authority of Inspector General.—The Transportation Security Administration shall be subject to chapter 4 of title 5 and other laws relating to the authority of the Inspector General of the Department of Homeland Security.
 
 (p)
 
@@ -350,7 +350,7 @@ In general.—The Secretary of Homeland Security shall develop, prepare, impleme
 
 &emsp;&emsp;(A) a National Strategy for Transportation Security; and
 
-&emsp;&emsp;(B) transportation modal security plans addressing security risks, including threats, vulnerabilities, and consequences, for aviation, railroad, ferry, highway, maritime, pipeline, public transportation, over-the-road bus, and other transportation infrastructure assets.
+&emsp;&emsp;(B) transportation modal security plans addressing security risks, including threats,vulnerabilities, and consequences, for aviation, railroad, ferry, highway, maritime, pipeline, public transportation, over-the-road bus, and other transportation infrastructure assets.
 
 &emsp;(2)
 
@@ -360,7 +360,7 @@ Role of secretary of transportation.—The Secretary of Homeland Security shall 
 
 Contents of national strategy for transportation security.—The National Strategy for Transportation Security shall include the following:
 
-&emsp;&emsp;(A) An identification and evaluation of the transportation assets in the United States that, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, andother public transportation infrastructure assets that could be at risk of such an attack or disruption.
+&emsp;&emsp;(A) An identification and evaluation of the transportation assets in the United States that, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, and other public transportation infrastructure assets that could be at risk of such an attack or disruption.
 
 &emsp;&emsp;(B) The development of risk-based priorities, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendations of the 9/11 Commission Act of 2007) across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
 
@@ -412,7 +412,7 @@ Content.—Each progress report submitted under this subparagraph shall include,
 
 &emsp;&emsp;&emsp;(iii)
 
-Written explanation of transportation security activities not delineated in the national strategy for transportation security.—At the end of each fiscal year, the Secretary of Homeland Security shall submit to the appropriate congressional committees a written explanation of any Federal transportation security activity that is inconsistent with the National Strategy for TransportationSecurity, including the amount of funds to be expended for the activity and the number of personnel involved.
+Written explanation of transportation security activities not delineated in the national strategy for transportation security.—At the end of each fiscal year, the Secretary of Homeland Security shall submit to the appropriate congressional committees a written explanation of any Federal transportation security activity that is inconsistent with the National Strategy for Transportation Security, including the amount of funds to be expended for the activity and the number of personnel involved.
 
 &emsp;&emsp;(C)
 
@@ -766,7 +766,7 @@ Contents of plan.—The plan developed under paragraph (1) shall include each of
 
 &emsp;&emsp;(D) Contingency plans for temporarily adjusting checkpoint operations to provide for passenger and employee safety while maintaining security during the communicable disease outbreak.
 
-&emsp;&emsp;(E) Provisions setting forth criteria for establishing an interagency task force or other standing engagement platform with other appropriate Federal departments and agencies, including the Department of Health and Human Services and the Department of Transportation, to address such communicable disease outbreak.
+&emsp;&emsp;(E) Provisions setting forth criteria for establishing an interagency task force or other standing engagement platform withother appropriate Federal departments and agencies, including the Department of Health and Human Services and the Department of Transportation, to address such communicable disease outbreak.
 
 &emsp;&emsp;(F) A description of scenarios in which the Administrator should consider exercising authorities provided under subsection (g) and for what purposes.
 
@@ -782,15 +782,13 @@ Dissemination.—Upon development of the plan required under paragraph (1), the 
 
 Review of plan.—Not later than two years after the date on which the plan is disseminated under paragraph (4), and biennially thereafter, the Secretary, acting through the Administrator and in coordination with the Chief Medical Officer of the Department of Homeland Security, shall review the plan and, after consultation with the partners identified under paragraphs (3)(A)(i) through (3)(A)(iv), update the plan as appropriate.
 
-(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710; Pub. L. 110–53, title XII, §§1202, 1203(a), title XIII, §1302(a), title XV, §1503(a), Aug. 3, 2007, 121 Stat. 381, 383, 390, 425; Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092; Pub. L. 111–83, title V, §561(c)(1), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 114–301, §2(d), Dec. 16, 2016, 130 Stat. 1514; Pub. L. 115–254, div. K, title I, §§1903, 1904(a), (b)(1), 1905, 1909, 1988(c), Oct. 5, 2018, 132 Stat. 3543, 3544, 3546, 3549, 3623; Pub. L. 117–81, div. F, title LXIV, §6412(a), Dec. 27, 2021, 135 Stat. 2409.)
+(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710; Pub. L. 110–53, title XII, §§1202, 1203(a), title XIII, §1302(a), title XV, §1503(a), Aug. 3, 2007, 121 Stat. 381, 383, 390, 425; Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092; Pub. L. 111–83, title V, §561(c)(1), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 114–301, §2(d), Dec. 16, 2016, 130 Stat. 1514; Pub. L. 115–254, div. K, title I, §§1903, 1904(a), (b)(1), 1905, 1909, 1988(c), Oct. 5, 2018, 132 Stat. 3543, 3544, 3546, 3549, 3623; Pub. L. 117–81, div. F, title LXIV, §6412(a), Dec. 27, 2021, 135 Stat. 2409; Pub. L. 117–286, §4(b)(95), Dec. 27, 2022, 136 Stat. 4353.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of enactment of the TSA Modernization Act, referred to in subsecs. (b)(1)(C) and (w)(3)(A), is the date of enactment of title I of div. K of Pub. L. 115–254, which was approved Oct. 5, 2018.
-
-The Inspector General Act of 1978, referred to in subsec. (o), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Aviation and Transportation Security Act, referred to in subsec. (r)(1), is Pub. L. 107–71, Nov. 19, 2001, 115 Stat. 597. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 101 of this title and Tables.
 
@@ -807,6 +805,8 @@ Section 6414 of the National Defense Authorization Act for Fiscal Year 2022, ref
 Section 6415 of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (x)(2)(C), is section 6415 of Pub. L. 117–81, which is set out as a note under section 44901 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (o). Pub. L. 117–286 substituted "chapter 4 of title 5" for "the Inspector General Act of 1978 (5 U.S.C. App.)".
 
 <b>2021</b>—Subsec. (x). Pub. L. 117–81 added subsec. (x).
 
@@ -864,7 +864,7 @@ Subsec. (s)(4)(B). Pub. L. 115–254, §1904(b)(1)(H)(ii)(III), redesignated sub
 
 Subsec. (s)(4)(B)(ii)(III)(cc). Pub. L. 115–254, §1904(b)(1)(H)(ii)(V), substituted "for the Department of Homeland Security" for "for the Department".
 
-Subsec. (s)(4)(C) to (E). Pub. L. 115–254, §1904(b)(1)(H)(ii)(III), redesignated subpars. (D) and (E)as (C) and (D), respectively. Former subpar. (C) redesignated (B).
+Subsec. (s)(4)(C) to (E). Pub. L. 115–254, §1904(b)(1)(H)(ii)(III), redesignated subpars. (D) and (E) as (C) and (D), respectively. Former subpar. (C) redesignated (B).
 
 Subsec. (t). Pub. L. 115–254, §1904(b)(1)(I), redesignated subsec. (u) as (t).
 
@@ -954,7 +954,7 @@ Subsec. (s). Pub. L. 107–296, §1601(b), added subsec. (s).
 
 #### Change of Name
 
-Pub. L. 115–254, div. K, title I, §1994, Oct. 5, 2018, 132 Stat. 3646, provided that: "References relating to theUnder Secretary of Transportation for Security in statutes, Executive orders, rules, regulations, directives, or delegations of authority that precede the effective date of this Act \[meaning the date of enactment of Pub. L. 115–254, Oct. 5, 2018\] shall be deemed to refer, as appropriate, to the Administrator of the Transportation Security Administration."
+Pub. L. 115–254, div. K, title I, §1994, Oct. 5, 2018, 132 Stat. 3646, provided that: "References relating to the Under Secretary of Transportation for Security in statutes, Executive orders, rules, regulations, directives, or delegations of authority that precede the effective date of this Act \[meaning the date of enactment of Pub. L. 115–254, Oct. 5, 2018\] shall be deemed to refer, as appropriate, to the Administrator of the Transportation Security Administration."
 
 #### Effective Date of 2007 Amendment
 
@@ -1302,7 +1302,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Public and private stakeholders.—The term 'public and private stakeholders' has the meaninggiven the term in section 114(t)(1)(C) of title 49, United States Code.
+Public and private stakeholders.—The term 'public and private stakeholders' has the meaning given the term in section 114(t)(1)(C) of title 49, United States Code.
 
 &emsp;"(2)
 
@@ -1360,7 +1360,7 @@ Publication.—The Administrator may publish a public version of such report tha
 
 &emsp;"(3)
 
-Nonapplicability of faca.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under subsection (a) \[probably should be "paragraph (1)"\] or any subcommittee thereof.
+Nonapplicability of faca.—The Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall not apply to the working group established under subsection (a) \[probably should be "paragraph (1)"\] or any subcommittee thereof.
 
 "(c)
 
@@ -1408,7 +1408,7 @@ Pub. L. 115–254, div. K, title I, §1932, Oct. 5, 2018, 132 Stat. 3571, provid
 
 "(a)
 
-In General.—The Administrator shall, in accordance with law and as received or developed, periodically submit information, on any best practices developed by the TSA or appropriate transportation stakeholders related to protecting the public spaces of transportation infrastructure from emerging threats, to the following:
+In General.—The Administrator shall, in accordance with law and as received or developed, periodically submit information, on any best practices developed by the TSA or appropriate transportation stakeholders related to protecting the public spaces oftransportation infrastructure from emerging threats, to the following:
 
 &emsp;"(1) Federal Security Directors at airports.
 
@@ -1430,7 +1430,7 @@ Information Sharing.—The Administrator shall, in accordance with law—
 
 &emsp;"(3) continue to disseminate Transportation Intelligence Notes, tear-lines, and related intelligence products to appropriate transportation security stakeholders on a regular basis; and
 
-&emsp;"(4) continue to conduct both regular routine and threat-specific classified briefings between the TSAand appropriate transportation sector stakeholders on an individual or group basis to provide greater information sharing between public and private sectors.
+&emsp;"(4) continue to conduct both regular routine and threat-specific classified briefings between the TSA and appropriate transportation sector stakeholders on an individual or group basis to provide greater information sharing between public and private sectors.
 
 "(c)
 
@@ -1758,7 +1758,7 @@ In general.—The Administrator, in consultation with the Secretary, shall—
 
 &emsp;"(2)
 
-Cybersecurity enhancements to aviation security activities.—The Secretary, in consultation with the Secretary of Transportation, shall, upon request, conduct cybersecurity vulnerability assessments for airports and air carriers.
+Cybersecurity enhancements to aviation security activities.—The Secretary, in consultationwith the Secretary of Transportation, shall, upon request, conduct cybersecurity vulnerability assessments for airports and air carriers.
 
 &emsp;"(3)
 
@@ -1780,9 +1780,9 @@ Submission to congress.—Not later than 30 days after the date the evaluation u
 
 &emsp;"(4)
 
-Definitions.—In this subsection, the terms 'cybersecurity risk' and 'incident' have the meanings given the terms in section 227 \[now section 2209\] of the Homeland Security Act of 2002 (6 U.S.C. 148) \[now 6 U.S.C. 659\]."
+Definitions.—In this subsection, the terms 'cybersecurity risk' and 'incident' have the meanings given the terms in section 227 \[now section 2209\] of the Homeland Security Act of 2002 (6 U.S.C. 148) \[now 6 U.S.C. 659; see 6 U.S.C. 650\]."
 
-\[For definitions of terms used in section 1989 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I ofDiv. K of Pub. L. 115–254 note under section 101 of this title.\]
+\[For definitions of terms used in section 1989 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under section 101 of this title.\]
 
 #### Safeguarding and Disposal of Personal Information of Registered Traveler Program Participants
 

@@ -36,7 +36,7 @@ Pub. L. 93–109, §1, Sept. 21, 1973, 87 Stat. 352, provided: "That this Act \[
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–222, §1, Apr. 1, 1970, 84 Stat. 87, provided: "That this Act \[enacting section 1340 of this title,amending this section and sections 1332 to 1339 of this title, and enacting provisions set out as notes under this section and sections 1333 and 1334 of this title\] may be cited as the 'Public Health Cigarette Smoking Act of 1969'."
+Pub. L. 91–222, §1, Apr. 1, 1970, 84 Stat. 87, provided: "That this Act \[enacting section 1340 of this title, amending this section and sections 1332 to 1339 of this title, and enacting provisions set out as notes under this section and sections 1333 and 1334 of this title\] may be cited as the 'Public Health Cigarette Smoking Act of 1969'."
 
 #### Short Title
 

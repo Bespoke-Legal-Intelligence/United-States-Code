@@ -32,9 +32,11 @@ Essential Terms.—Each service contract shall include—
 
 &emsp;(6) the duration;
 
-&emsp;(7) service commitments; and
+&emsp;(7) service commitments;
 
-&emsp;(8) the liquidated damages for nonperformance, if any.
+&emsp;(8) the liquidated damages for nonperformance, if any; and
+
+&emsp;(9) any other essential terms that the Federal Maritime Commission determines necessary or appropriate through a rulemaking process.
 
 (d)
 
@@ -46,7 +48,7 @@ Disclosure of Certain Terms.—
 
 &emsp;(1)
 
-Definitions.—In this subsection, the terms "dock area" and "within the port area"have the same meaning and scope as in the applicable collective bargaining agreement between the requesting labor organization and the carrier.
+Definitions.—In this subsection, the terms "dock area" and "within the port area" have the same meaning and scope as in the applicable collective bargaining agreement between the requesting labor organization and the carrier.
 
 &emsp;(2)
 
@@ -76,7 +78,7 @@ Effect under other laws.—This subsection does not affect the lawfulness or unl
 
 Remedy for Breach.—Unless the parties agree otherwise, the exclusive remedy for a breach of a service contract is an action in an appropriate court. The contract dispute resolution forum may not be controlled by or in any way affiliated with a controlled carrier or by the government that owns or controls the carrier.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1533.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1533; Pub. L. 117–146, §3, June 16, 2022, 136 Stat. 1272.)
 
 Historical and Revision Notes
 
@@ -121,4 +123,8 @@ In subsection (e)(5), the words "the National Labor Relations Act \[29 U.S.C. 15
 #### References in Text
 
 The National Labor Relations Act, referred to in subsec. (e)(4), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see section 167 of Title 29 and Tables.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c)(9). Pub. L. 117–146 added par. (9).
 

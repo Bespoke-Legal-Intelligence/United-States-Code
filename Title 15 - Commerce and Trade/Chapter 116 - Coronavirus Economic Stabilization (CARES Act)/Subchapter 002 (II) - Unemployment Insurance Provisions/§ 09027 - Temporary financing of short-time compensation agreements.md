@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Any agreement under this section shall provide that the State agency of the State willmake payments of short-time compensation under a plan approved by the State. Such plan shall provide that payments are made in accordance with the requirements under section 3306(v) of title 26.
+&emsp;Any agreement under this section shall provide that the State agency of the State will make payments of short-time compensation under a plan approved by the State. Such plan shall provide that payments are made in accordance with the requirements under section 3306(v) of title 26.
 
 #### (2) Limitations on plans
 
@@ -24,7 +24,7 @@
 
 #### (B) Employer limitations
 
-&emsp;&emsp;A short-time compensation plan approved by a State shall not provide payments to an individual if such individual is employed by the participating employer on a seasonal, temporary, or intermittent basis.
+&emsp;&emsp;A short-time compensation plan approved by a State shall not provide payments to anindividual if such individual is employed by the participating employer on a seasonal, temporary, or intermittent basis.
 
 #### (3) Employer payment of costs
 

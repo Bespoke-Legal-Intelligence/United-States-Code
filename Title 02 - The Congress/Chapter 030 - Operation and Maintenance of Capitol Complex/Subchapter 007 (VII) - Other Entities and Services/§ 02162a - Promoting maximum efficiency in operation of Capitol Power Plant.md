@@ -26,7 +26,7 @@ Not later than 90 days after December 19, 2007, the Architect of the Capitol sha
 
 #### (d) Report on implementation
 
-Not later than 180 days after December 19, 2007, the Architect of the Capitol shall complete the implementation of the requirements of this section and submit a report describing the actions taken and the energy efficiencies achieved to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, the Committee on House Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate.
+Not later than 180 days after December 19, 2007, the Architect of the Capitol shall complete the implementation of the requirements of this section and submit a report describing the actions taken and the energy efficiencies achieved to the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, the Committee onHouse Administration of the House of Representatives, and the Committee on Rules and Administration of the Senate.
 
 (Pub. L. 110–140, title V, §504, Dec. 19, 2007, 121 Stat. 1656.)
 

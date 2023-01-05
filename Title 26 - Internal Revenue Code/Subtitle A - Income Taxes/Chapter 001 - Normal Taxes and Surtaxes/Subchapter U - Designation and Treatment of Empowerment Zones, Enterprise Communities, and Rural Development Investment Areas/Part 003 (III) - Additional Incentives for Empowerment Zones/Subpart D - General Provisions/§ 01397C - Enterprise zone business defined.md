@@ -168,7 +168,7 @@ In general.—The amendments made by this section \[amending this section\] shal
 
 "(2)
 
-Special rule for enterprise zone facility bonds.—For purposes of section 1394(b) of the Internal Revenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act."
+Special rule for enterprise zone facility bonds.—For purposes of section 1394(b) of the InternalRevenue Code of 1986, the amendments made by this section shall apply to obligations issued after the date of the enactment of this Act."
 
 #### Effective Date of 1996 Amendment
 

@@ -76,7 +76,7 @@ In subsec. (b), "chapters 1 to 11 of title 40 and division C (except sections 33
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1)(A). Pub. L. 111–13, §1707(1)(A), added subpar. (A) and struck out former subpar. (A).Prior to amendment, text read as follows: "Notwithstanding section 1342 of title 31, the Corporation may solicit and accept the voluntary services of individuals to assist the Corporation in carrying out the duties of the Corporation under the national service laws, and may provide to such individuals the travel expenses described in section 12651b(d) of this title."
+<b>2009</b>—Subsec. (a)(1)(A). Pub. L. 111–13, §1707(1)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "Notwithstanding section 1342 of title 31, the Corporation may solicit and accept the voluntary services of individuals to assist the Corporation in carrying out the duties of the Corporation under the national service laws, and may provide to such individuals the travel expenses described in section 12651b(d) of this title."
 
 Subsec. (a)(1)(B). Pub. L. 111–13, §1707(1)(B)(i), substituted "A person who provides assistance, either individually or as a member of an organization, in accordance with subparagraph (A)" for "Such a volunteer" in introductory provisions.
 

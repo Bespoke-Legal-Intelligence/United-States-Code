@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The President may exercise the authorities set forth in section 1702 of title 50 without regard to section 1701 of title 50, or section 1263 of the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note), in the case of any of the following persons:
+&emsp;The President may exercise the authorities set forth in section 1702 of title 50 without regard to section 1701 of title 50, or section 10102 of this title, in the case of any of the following persons:
 
 &emsp;&emsp;(A) Any foreign person that plays a significant role in a severe form of trafficking in persons, directly or indirectly in the United States.
 
@@ -30,7 +30,7 @@
 
 #### (2) Removal of sanctions
 
-&emsp;Upon suspending or terminating any action imposed under the authority of subsection (a), the President shall report to the committees described in paragraph (1) on such suspension or termination.
+&emsp;Upon suspending or terminating any action imposed under the authority of subsection (a),the President shall report to the committees described in paragraph (1) on such suspension or termination.
 
 #### (3) Submission of classified information
 
@@ -74,7 +74,7 @@ Section is comprised of section 111 of Pub. L. 106–386. Subsec. (d) of section
 
 #### Amendments
 
-<b>2019</b>—Subsec. (a)(1). Pub. L. 115–425, §124(1), inserted ", or section 1263 of the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; 22 U.S.C. 2656 note)," after "without regard to section 1701 of title 50" in introductory provisions.
+<b>2019</b>—Subsec. (a)(1). Pub. L. 115–425, §124(1), inserted ", or section 10102 of this title," after "without regard to section 1701 of title 50" in introductory provisions.
 
 Subsec. (a)(1)(D). Pub. L. 115–425, §124(2), added subpar. (D).
 

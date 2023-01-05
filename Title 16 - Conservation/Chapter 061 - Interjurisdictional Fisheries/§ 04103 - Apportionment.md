@@ -2,7 +2,7 @@
 
 #### (a) Time when apportionments made
 
-Funds appropriated under section 4107(a) of this title shall be apportioned by the Secretary among the States on October 1 of each fiscal year, or as soon thereafter as practicable.
+Funds appropriated under section 4107(a) <sup>1</sup> of this title shall be apportioned by the Secretary among the States on October 1 of each fiscal year, or as soon thereafter as practicable.
 
 #### (b) Apportionment formula
 
@@ -38,11 +38,15 @@ Any part of an apportionment for any fiscal year to any State—
 
 &emsp;(3) that is returned to the Secretary by the State,
 
-> may not be considered to be apportioned to that State and shall be added to such funds as are appropriated pursuant to section 4107(a) of this title for the next fiscal year (and shall be treated as having been appropriated for such next year) for apportionment under subsection (a). Any notification or return of funds referred to in paragraph (2) or (3) by a State is irrevocable.
+> may not be considered to be apportioned to that State and shall be added to such funds as are appropriated pursuant to section 4107(a) <sup>1</sup> of this title for the next fiscal year (and shall be treated as having been appropriated for such next year) for apportionment under subsection (a). Any notification or return of funds referred to in paragraph (2) or (3) by a State is irrevocable.
 
 (Pub. L. 99–659, title III, §304, Nov. 14, 1986, 100 Stat. 3733; Pub. L. 101–627, title V, §501, Nov. 28, 1990, 104 Stat. 4462.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 4107 of this title, referred to in subsecs. (a) and (d), was repealed by Pub. L. 117–328, div. S, title II, §204(a), Dec. 29, 2022, 136 Stat. 5270.
 
 #### Amendments
 
@@ -53,4 +57,6 @@ Any part of an apportionment for any fiscal year to any State—
 #### Effective Date
 
 Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under section 4101 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@ Covered Government Support Contractor Defined.—In this subchapter, the term "c
 
 &emsp;(2) executes a contract with the Government agreeing to and acknowledging—
 
-&emsp;&emsp;(A) that proprietary or nonpublic technical data furnished will be accessed andused only for the purposes stated in that contract;
+&emsp;&emsp;(A) that proprietary or nonpublic technical data furnished will be accessed and used only for the purposes stated in that contract;
 
 &emsp;&emsp;(B) that the covered Government support contractor will enter into a non-disclosure agreement with the contractor to whom the rights to the technical data belong;
 

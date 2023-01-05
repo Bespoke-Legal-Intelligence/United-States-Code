@@ -6,17 +6,15 @@ Contracting Priority.—In procuring goods and services pursuant to a contractin
 
 (b)
 
-Definition.—For purposes of this section, the term "small business concern owned and controlled by veterans" means a small business concern that is included in the small business database maintained by the Secretary under section 8127(f) of this title.
+Definition.—For purposes of this section, the term "small business concern owned and controlled by veterans" means a small business concern that is included in the small business database maintained by the Administrator of the Small Business Administration under section 36 of the Small Business Act.
 
 (Added Pub. L. 109–461, title V, §503(a)(1), Dec. 22, 2006, 120 Stat. 3435; amended Pub. L. 116–283, div. A, title VIII, §862(b)(3)(B), Jan. 1, 2021, 134 Stat. 3779.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–283, div. A, title VIII, §862(b)(3), Jan. 1, 2021, 134 Stat. 3778, provided that, effective on the transfer date of subsection (f) of section 8127 of this title, which is 2 years after Jan. 1, 2021, this section is amended by striking "maintained by the Secretary under section 8127(f) of this title" and inserting "maintained by the Administrator of the Small Business Administration under section 36 of the Small Business Act".</i>
-
-<i>See 2021 Amendment note and Effective Date of 2021 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 36 of the Small Business Act, referred to in subsec. (b), is classified to section 657f of Title 15, Commerce and Trade.
 
 #### Amendments
 

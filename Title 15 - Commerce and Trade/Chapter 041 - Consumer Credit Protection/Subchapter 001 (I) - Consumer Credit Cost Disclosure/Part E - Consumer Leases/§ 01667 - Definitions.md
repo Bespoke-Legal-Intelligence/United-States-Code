@@ -2,7 +2,7 @@
 
 For purposes of this part—
 
-&emsp;(1) The term "consumer lease" means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four months, and for a total contractual obligation not exceeding $50,000,<sup>1</sup> primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) <sup>2</sup> of this title. Such term does not include a lease for agricultural, business, or commercial purposes, or to a government orgovernmental agency or instrumentality, or to an organization.
+&emsp;(1) The term "consumer lease" means a contract in the form of a lease or bailment for the use of personal property by a natural person for a period of time exceeding four months, and for a total contractual obligation not exceeding $50,000,<sup>1</sup> primarily for personal, family, or household purposes, whether or not the lessee has the option to purchase or otherwise become the owner of the property at the expiration of the lease, except that such term shall not include any credit sale as defined in section 1602(g) <sup>2</sup> of this title. Such term does not include a lease for agricultural, business, or commercial purposes, or to a government or governmental agency or instrumentality, or to an organization.
 
 &emsp;(2) The term "lessee" means a natural person who leases or is offered a consumer lease.
 
@@ -28,7 +28,7 @@ Section 1602(g) of this title, referred to in par. (1), was redesignated section
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 

@@ -6,7 +6,7 @@ The purpose of this section is to provide grants on a competitive basis to insti
 
 #### (b) Authorization of program
 
-From amounts appropriated to carry out this section, the Secretary shall award grants, on a competitive basis, to institutions of higher education, as defined in section 1001(a) of this title, to create workforce bridge programs between developmental courses and for-credit courses in occupational certificate programs that are articulated to degree programs. Such workforce bridge programs shall focus on—
+From amounts appropriated to carry out this section, the Secretary shall award grants, on acompetitive basis, to institutions of higher education, as defined in section 1001(a) of this title, to create workforce bridge programs between developmental courses and for-credit courses in occupational certificate programs that are articulated to degree programs. Such workforce bridge programs shall focus on—
 
 &emsp;(1) improving developmental education, including English language instruction, by customizing developmental education to student career goals; and
 

@@ -6,7 +6,7 @@ The taxes imposed by this subtitle shall be collected by the Secretary and shall
 
 #### (b) Taxes with respect to non-cash fringe benefits
 
-The taxes imposed by this subtitle with respect to non-cash fringe benefits shall be collected (or paid) by the employer at the time andin the manner prescribed by the Secretary by regulations.
+The taxes imposed by this subtitle with respect to non-cash fringe benefits shall be collected (or paid) by the employer at the time and in the manner prescribed by the Secretary by regulations.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 471; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title V, §531(d)(5), July 18, 1984, 98 Stat. 885.)
 

@@ -138,7 +138,7 @@ In this section:
 
 &emsp;Consistent with the regulations prescribed under subsection (j) of section 227 of this title, as added by section 10, the Commission shall, not later than 1 year after December 30, 2019, promulgate rules—
 
-&emsp;&emsp;(A) establishing when a provider of voice service may block a voice call based, in whole or in part, on information provided bythe call authentication frameworks under subsection (b), with no additional line item charge;
+&emsp;&emsp;(A) establishing when a provider of voice service may block a voice call based, in whole or in part, on information provided by the call authentication frameworks under subsection (b), with no additional line item charge;
 
 &emsp;&emsp;(B) establishing a safe harbor for a provider of voice service from liability for unintended or inadvertent blocking of calls or for the unintended or inadvertent misidentification of the level of trust for individual calls based, in whole or in part, on information provided by the call authentication frameworks under subsection (b);
 

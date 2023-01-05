@@ -28,7 +28,7 @@
 
 #### (5) Overlapping jurisdiction
 
-&emsp;To the extent that the respective allocations of jurisdiction over the Area under paragraphs\(2), (3), and (4) overlap, the governments shall have concurrent jurisdiction.
+&emsp;To the extent that the respective allocations of jurisdiction over the Area under paragraphs (2), (3), and (4) overlap, the governments shall have concurrent jurisdiction.
 
 #### (6) Federal use of State law
 
@@ -66,7 +66,7 @@
 
 #### (3) State and local taxing jurisdiction
 
-&emsp;The State of New Mexico and local public bodies shall have no authority within the Area to tax the uses or the property of the Pueblo, members of the Pueblo, or members of other federally-recognized Indian tribes authorized to use the Area under section 539m–3(a)(4) of this title.
+&emsp;The State of New Mexico and local public bodies shall have no authority within the Area to tax the uses or the property of the Pueblo, members of the Pueblo, or members of other federally-recognized Indian tribes authorizedto use the Area under section 539m–3(a)(4) of this title.
 
 (Pub. L. 108–7, div. F, title IV, §408, Feb. 20, 2003, 117 Stat. 286.)
 

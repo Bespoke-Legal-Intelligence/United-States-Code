@@ -6,7 +6,7 @@ In General.—As soon as practicable after being notified of a rail passenger ac
 
 &emsp;(1) designate and publicize the name and telephone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
 
-&emsp;(2) designate an independent nonprofit organization, with experience in disasters andpost-trauma communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
+&emsp;(2) designate an independent nonprofit organization, with experience in disasters and post-trauma communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
 
 (b)
 
@@ -146,7 +146,7 @@ Savings Clause.—Nothing in this section shall be construed to abridge the auth
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–254, §1109(d)(1), substituted "resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency" for "resulting in a major loss of life" in introductory provisions.
+<b>2018</b>—Subsec. (a). Pub. L. 115–254, §1109(d)(1), substituted "resulting in any loss of life, and for which theNational Transportation Safety Board will serve as the lead investigative agency" for "resulting in a major loss of life" in introductory provisions.
 
 Subsec. (h)(1). Pub. L. 115–254, §1109(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: "The term 'rail passenger accident' means any rail passenger disaster resulting in a major loss of life occurring in the provision of—
 
@@ -190,5 +190,5 @@ Model Plan and Recommendations.—The task force established pursuant to subsect
 
 "(c)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 16, 2008\], the Secretary shall transmit a report to the House of RepresentativesCommittee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation containing the model plan and recommendations developed by the task force under subsection (b)."
+Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 16, 2008\], the Secretary shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation containing the model plan and recommendations developed by the task force under subsection (b)."
 

@@ -10,7 +10,7 @@ The Secretary shall award a grant under this section for a period of not more th
 
 #### (c) Conditions on payment
 
-The provision of payments under a grant awarded under this section shall be subject toannual approval by the Secretary and subject to the availability of appropriations for each fiscal year to make the payments.
+The provision of payments under a grant awarded under this section shall be subject to annual approval by the Secretary and subject to the availability of appropriations for each fiscal year to make the payments.
 
 #### (d) Application
 

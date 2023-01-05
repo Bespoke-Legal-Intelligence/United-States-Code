@@ -113,7 +113,7 @@ For purposes of sections 1052, 1053, and 1054 of this title, under regulations p
 
 #### (E) Uniform provision of contributions and benefits
 
-&emsp;&emsp;In the case of a defined benefit plan or applicable individual account plan formingpart of an eligible combined plan, the requirements of this subparagraph are met if all contributions and benefits under each such plan, and all rights and features under each such plan, must be provided uniformly to all participants.
+&emsp;&emsp;In the case of a defined benefit plan or applicable individual account plan forming part of an eligible combined plan, the requirements of this subparagraph are met if all contributions and benefits under each such plan, and all rights and features under each such plan, must be provided uniformly to all participants.
 
 #### (F) Requirements must be met without taking into account social security and similar contributions and benefits or other plans
 
@@ -289,7 +289,7 @@ Pub. L. 113–97, title I, §103(d), Apr. 7, 2014, 128 Stat. 1120, provided that
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 

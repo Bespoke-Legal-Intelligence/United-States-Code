@@ -26,7 +26,7 @@ A State or political subdivision of a State shall use amount received under a gr
 
 #### (d) Technical assistance
 
-The Secretary may set-aside an amount not to exceed 10 percent of the amount appropriated for a fiscal year under subsection (h) to permit the Director of the Centers for Disease Control and Prevention to—
+The Secretary may set-aside an amount not to exceed 10 percent of the amount appropriated fora fiscal year under subsection (h) to permit the Director of the Centers for Disease Control and Prevention to—
 
 &emsp;(1) provide States and political subdivisions of States with technical support in the development and implementation of programs under this section; and
 

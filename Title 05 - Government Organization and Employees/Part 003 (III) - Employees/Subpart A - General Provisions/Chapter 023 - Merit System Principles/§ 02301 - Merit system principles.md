@@ -38,7 +38,7 @@
 
 &emsp;(1) with respect to any agency (as defined in section 2302(a)(2)(C) of this title), the President shall, pursuant to the authority otherwise available under this title, take any action, including the issuance of rules, regulations, or directives; and
 
-&emsp;(2) with respect to any entity in the executive branch which is not such an agency or part of such an agency, the head of such entity shall, pursuant to authority otherwise available, take any action, including the issuance of rules, regulations, or directives;
+&emsp;(2) with respect to any entity in the executive branch which is not such an agency orpart of such an agency, the head of such entity shall, pursuant to authority otherwise available, take any action, including the issuance of rules, regulations, or directives;
 
 > which is consistent with the provisions of this title and which the President or the head, as the case may be, determines is necessary to ensure that personnel management is based on and embodies the merit system principles.
 
@@ -286,7 +286,7 @@ Issuance of Rules and Guidelines.—The President (or the designee of the Presid
 
 &emsp;"(1) rules to carry out this title;
 
-&emsp;"(2) rules to require that a comprehensive study be conducted in the executive branch to determine the best practices relating to the appropriate disciplinary actions against Federal employees who commit theactions described under clauses (i) and (ii) of section 203(a)(6)(A); and
+&emsp;"(2) rules to require that a comprehensive study be conducted in the executive branch to determine the best practices relating to the appropriate disciplinary actions against Federal employees who commit the actions described under clauses (i) and (ii) of section 203(a)(6)(A); and
 
 &emsp;"(3) based on the results of such study, advisory guidelines incorporating best practices that Federal agencies may follow to take such actions against such employees.
 
@@ -396,7 +396,7 @@ In general.—Not later than 1 year after the date of enactment of this Act \[Ma
 
 &emsp;"(2)
 
-Report.—Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on HomelandSecurity and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and the Attorney General.
+Report.—Not later than 90 days after the completion of the study under paragraph (1), the General Accounting Office \[now Government Accountability Office\] shall submit a report on the study to the Speaker of the House of Representatives, the President pro tempore of the Senate, the Committee on Governmental Affairs \[now Committee on Homeland Security and Governmental Affairs\] of the Senate, the Committee on Government Reform \[now Committee on Oversight and Reform\] of the House of Representatives, and the Attorney General.
 
 #### "SEC. 207. COMPLAINT TRACKING.
 

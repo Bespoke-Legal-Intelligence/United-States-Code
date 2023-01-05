@@ -56,5 +56,5 @@ Subsec. (c). Pub. L. 93–459 added subsec. (c). Former subsec. (c), relating to
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in subsecs. (a), (b)(2),and (c)(1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
+"Government Publishing Office" substituted for "Government Printing Office" in subsecs. (a), (b)(2), and (c)(1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
 

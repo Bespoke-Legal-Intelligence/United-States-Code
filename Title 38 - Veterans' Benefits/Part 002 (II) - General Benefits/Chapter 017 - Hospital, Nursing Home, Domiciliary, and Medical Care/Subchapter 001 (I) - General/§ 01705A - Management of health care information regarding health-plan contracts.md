@@ -4,7 +4,7 @@
 
 In General.—(1) Any individual who seeks hospital care or medical services under this chapter shall provide to the Secretary such current information as the Secretary may require to identify any health-plan contract under which such individual is covered.
 
-(2) The information required to be provided to the Secretary under paragraph (1) with respect to a health-plan contract shall include, as applicable, the following:
+(2) The information required to be provided to the Secretary under paragraph (1) with respectto a health-plan contract shall include, as applicable, the following:
 
 &emsp;(A) The name of the entity providing coverage under the health-plan contract.
 
@@ -24,7 +24,13 @@ Effect on Services From Department.—The Secretary may not deny any services un
 
 (d)
 
-Health-Plan Contract Defined.—In this section, the term "health-plan contract" has the meaning given that term in section 1725(f) of this title.
+Health-Plan Contract Defined.—In this section, the term "health-plan contract" has the meaning given that term in section 1725(h) of this title.
 
-(Added Pub. L. 114–315, title VI, §604(a), Dec. 16, 2016, 130 Stat. 1571.)
+(Added Pub. L. 114–315, title VI, §604(a), Dec. 16, 2016, 130 Stat. 1571; amended Pub. L. 117–328, div. U, title I, §142(c)(1), Dec. 29, 2022, 136 Stat. 5424.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–328 substituted "section 1725(h)" for "section 1725(f)".
 

@@ -48,9 +48,9 @@ The Director of the Office shall—
 
 #### (d) Advisory Committee
 
-(1) In carrying out subsection (b), the Director of the Office shall establish an advisory committee to be known as the Advisory Committeeon Research on Women's Health (in this subsection referred to as the "Advisory Committee").
+(1) In carrying out subsection (b), the Director of the Office shall establish an advisory committee to be known as the Advisory Committee on Research on Women's Health (in this subsection referred to as the "Advisory Committee").
 
-(2) The Advisory Committee shall be composed of no fewer than 12, and not more than 18 individuals, who are not officers or employees of the Federal Government. The Director of NIH shall make appointments to the Advisory Committee from among physicians, practitioners, scientists, and other health professionals, whose clinical practice, research specialization, or professional expertise includes a significant focus on research on women's health. A majority of the members of the Advisory Committee shall be women.
+(2) The Advisory Committee shall be composed of no fewer than 12, and not more than 18 individuals, who are not officers or employees of theFederal Government. The Director of NIH shall make appointments to the Advisory Committee from among physicians, practitioners, scientists, and other health professionals, whose clinical practice, research specialization, or professional expertise includes a significant focus on research on women's health. A majority of the members of the Advisory Committee shall be women.
 
 (3) The Director of the Office shall serve as the chair of the Advisory Committee.
 
@@ -64,7 +64,7 @@ The Director of the Office shall—
 
 &emsp;&emsp;(iii) research on gender differences in disease etiology, course, and treatment;
 
-&emsp;&emsp;(iv) research on obstetrical and gynecological health conditions, diseases, and treatments; and
+&emsp;&emsp;(iv) research on obstetrical and gynecological health conditions, diseases, and treatments, including preventable maternal mortality and severe maternal morbidity; and
 
 &emsp;&emsp;(v) research on women's health conditions which require a multidisciplinary approach;
 
@@ -102,11 +102,13 @@ For purposes of this part:
 
 &emsp;(2) The term "research on women's health" means research on women's health conditions, including research on preventing such conditions.
 
-(July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, §3509(c), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. A, title II, §2038(c), Dec. 13, 2016, 130 Stat. 1065.)
+(July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, §3509(c), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. A, title II, §2038(c), Dec. 13, 2016, 130 Stat. 1065; Pub. L. 117–103, div. P, title I, §141(d), Mar. 15, 2022, 136 Stat. 798.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(4)(A)(iv). Pub. L. 117–103 inserted ", including preventable maternal mortality and severe maternal morbidity" before "; and".
 
 <b>2016</b>—Subsec. (c)(2). Pub. L. 114–255 substituted "senior-level staff designees" for "designees".
 
@@ -118,7 +120,7 @@ For purposes of this part:
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

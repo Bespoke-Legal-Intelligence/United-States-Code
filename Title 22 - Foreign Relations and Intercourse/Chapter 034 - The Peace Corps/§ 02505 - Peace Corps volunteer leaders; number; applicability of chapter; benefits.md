@@ -16,7 +16,7 @@ The President may enroll in the Peace Corps qualified citizens or nationals of t
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Amendments
 
@@ -38,7 +38,7 @@ Pub. L. 97–387, §1(b), Dec. 23, 1982, 96 Stat. 1947, provided that: "This ame
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Director of Peace Corps with functions relating toproviding health care in government facilities under clause (3) to be exercised in consultation with head of agency responsible for facility by sections 1–103 and 1–106 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
+Functions of President under this section delegated to Director of Peace Corps with functions relating to providing health care in government facilities under clause (3) to be exercised in consultation with head of agency responsible for facility by sections 1–103 and 1–106 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Appointment to Civilian Career Services
 

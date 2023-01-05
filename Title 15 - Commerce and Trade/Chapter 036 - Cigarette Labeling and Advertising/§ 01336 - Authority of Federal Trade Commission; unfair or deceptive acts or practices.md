@@ -1,6 +1,6 @@
 ### §1336. Authority of Federal Trade Commission; unfair or deceptive acts or practices
 
-Nothing in this chapter (other than the requirements of section 1333 of this title) shall beconstrued to limit, restrict, expand, or otherwise affect the authority of the Federal Trade Commission with respect to unfair or deceptive acts or practices in the advertising of cigarettes.
+Nothing in this chapter (other than the requirements of section 1333 of this title) shall be construed to limit, restrict, expand, or otherwise affect the authority of the Federal Trade Commission with respect to unfair or deceptive acts or practices in the advertising of cigarettes.
 
 (Pub. L. 89–92, §8, formerly §7, July 27, 1965, 79 Stat. 283; Pub. L. 91–222, §2, Apr. 1, 1970, 84 Stat. 89; renumbered §8 and amended Pub. L. 98–474, §§5(a), 6(c), Oct. 12, 1984, 98 Stat. 2203, 2204; Pub. L. 99–92, §12, Aug. 16, 1985, 99 Stat. 404.)
 

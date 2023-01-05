@@ -46,7 +46,7 @@ Each application submitted under subsection (a) shall include—
 
 #### (c) Special rule
 
-No grant shall be awarded under this part unless the Assistant Secretary of Education forCivil Rights determines that the assurances described in subsection (b)(2)(C) will be met.
+No grant shall be awarded under this part unless the Assistant Secretary of Education for Civil Rights determines that the assurances described in subsection (b)(2)(C) will be met.
 
 (Pub. L. 89–10, title IV, §4405, formerly title V, §5305, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1808; renumbered title IV, §4405, and amended Pub. L. 114–95, title IV, §§4001(b)(3)(A), (B), (D)(i), 4401(2), Dec. 10, 2015, 129 Stat. 1967, 2014.)
 
@@ -60,7 +60,7 @@ A prior section 4405 of Pub. L. 89–10 was classified to section 3125 of this t
 
 <b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–95, §4401(2)(A)(i), inserted "any available evidence on, or if such evidence is not available, a rationale, based on current research, for" before "how the proposed magnet school programs".
 
-Subsec. (b)(1)(B). Pub. L. 114–95, §4401(2)(A)(ii), inserted ", including any evidence, or if such evidence is not available, a rationale based on current research findings, to support such description" before semicolon at end.
+Subsec. (b)(1)(B). Pub. L. 114–95, §4401(2)(A)(ii), inserted ", including any evidence, or if such evidence isnot available, a rationale based on current research findings, to support such description" before semicolon at end.
 
 Subsec. (b)(1)(D) to (F). Pub. L. 114–95, §4401(2)(A)(iii), (iv), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 

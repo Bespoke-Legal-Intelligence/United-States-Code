@@ -28,7 +28,7 @@
 
 &emsp;Any funds appropriated annually under this section in excess of an amount equal to the amount appropriated under section 343(d) of this title, for the fiscal year ending September 30, 1978, for eligible institutions, shall be distributed as follows:
 
-&emsp;&emsp;(A) A sum equal to 4 per centum of the total amount appropriated each fiscal year under this section shall be allotted to the National Institute of Food and Agriculture of the Department of Agriculture for administrative, technical, and other services, and for coordinating the extension work of the Department of Agriculture and the several States.
+&emsp;&emsp;(A) A sum equal to 4 per centum of the total amount appropriated each fiscal year under this section shall be allotted to the National Institute of Food and Agriculture of the Department of Agriculture for administrative, technical, and other services, and for coordinating the extension work of theDepartment of Agriculture and the several States.
 
 &emsp;&emsp;(B) Except as provided in paragraph (4), of the remainder, 20 per centum shall be allotted among the eligible institutions in equal proportions; 40 per centum shall be allotted among the eligible institutions in the proportion that the rural population of the State in which each eligible institution is located bears to the total rural population of all the States in which eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and the balance shall be allotted among the eligible institutions in the proportion that the farm population of the State in which each eligible institution is located bears to the total farm population of all the States in which the eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated.
 
@@ -94,7 +94,7 @@ The State director of the cooperative extension service and the extension admini
 
 #### (1) Ascertainment of entitlement
 
-&emsp;On or about the first day of October in each year after September 29, 1977, the Secretary shall ascertain whether each eligible institution is entitled to receive its share of the annual appropriation for extension work under this section and the amount which it is entitled to receive. Before the funds herein provided shall become available to any eligible institution for any fiscal year, plans for the work to be carried out under this section shall be submitted, as part of the State plan of work, and approved by the Secretary.
+&emsp;On or about the first day of October in each year after September 29, 1977, the Secretary shall ascertain whether each eligible institution is entitled to receive its share of the annual appropriation for extension work underthis section and the amount which it is entitled to receive. Before the funds herein provided shall become available to any eligible institution for any fiscal year, plans for the work to be carried out under this section shall be submitted, as part of the State plan of work, and approved by the Secretary.
 
 #### (2) Time and manner of payment; related reports
 
@@ -138,7 +138,7 @@ To the extent that the official mail consists of correspondence, bulletins, and 
 
 Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a)(1), is popularly known as the "Agricultural College Act of 1890" and also as the "Second Morrill Act", and is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
-Act of May 8, 1914, 38 Stat. 372, as amended, referred to in subsec. (a)(2), is popularly known as the "Smith-Lever Act", and is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
+Act of May 8, 1914, 38 Stat. 372, referred to in subsec. (a)(2), is popularly known as the "Smith-Lever Act", and is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
 #### Codification
 
@@ -154,7 +154,7 @@ Subsec. (b)(1). Pub. L. 115–334, §7115(a)(4), added par. (1). Former par. (1)
 
 Pub. L. 115–334, §7115(a)(3), substituted "were allocated" for "are allocated" and ", as so designated as of that date." for "; and".
 
-Subsec. (b)(2). Pub. L. 115–334, §7115(a)(4), redesignated par. (1) as (2), inserted heading, and substituted "Any funds" for "any funds". Former par. (2) redesignated (3).
+Subsec. (b)(2). Pub. L. 115–334, §7115(a)(4), redesignated par. (1) as (2), inserted heading, and substituted"Any funds" for "any funds". Former par. (2) redesignated (3).
 
 Subsec. (b)(2)(B). Pub. L. 115–334, §7115(a)(2)(A), substituted "Except as provided in paragraph (4), of the remainder" for "Of the remainder".
 

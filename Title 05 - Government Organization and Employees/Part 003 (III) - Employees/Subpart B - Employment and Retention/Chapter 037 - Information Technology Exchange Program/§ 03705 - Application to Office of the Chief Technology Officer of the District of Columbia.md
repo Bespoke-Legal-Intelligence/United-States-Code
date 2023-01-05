@@ -6,7 +6,7 @@ In General.—The Chief Technology Officer of the District of Columbia may arran
 
 (b)
 
-Terms and Conditions.—An assignment made pursuant to subsection (a) shall be subject to the same terms and conditions as an assignment made by the head of an agency under this chapter, except that in applying such terms and conditions to an assignment made pursuant to subsection (a), any reference in this chapter to a provision of law or regulation of the United States shall be deemed to be a reference to the applicable provision of law or regulation of the District of Columbia, including the applicable provisions of the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (sec. 1–601.01 et seq., D.C. Official Code) and section 601 of the District of Columbia CampaignFinance Reform and Conflict of Interest Act (sec. 1–1106.01, D.C. Official Code).
+Terms and Conditions.—An assignment made pursuant to subsection (a) shall be subject to the same terms and conditions as an assignment made by the head of an agency under this chapter, except that in applying such terms and conditions to an assignment made pursuant to subsection (a), any reference in this chapter to a provision of law or regulation of the United States shall be deemed to be a reference to the applicable provision of law or regulation of the District of Columbia, including the applicable provisions of the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (sec. 1–601.01 et seq., D.C. Official Code) and section 601 of the District of Columbia Campaign Finance Reform and Conflict of Interest Act (sec. 1–1106.01, D.C. Official Code).
 
 (c)
 
@@ -20,7 +20,7 @@ Definition.—For purposes of this section, the term "Office of the Chief Techno
 
 The District of Columbia Government Comprehensive Merit Personnel Act of 1978, referred to in subsec. (b), is an act of the District of Columbia and is not classified to the Code.
 
-The District of Columbia Campaign Finance Reform and Conflict of Interest Act, referred to in subsec. (b), is Pub. L. 93–376, Aug. 14, 1974, 88 Stat. 447, as amended, which is not classified to the Code.
+The District of Columbia Campaign Finance Reform and Conflict of Interest Act, referred to in subsec. (b), is Pub. L. 93–376, Aug. 14, 1974, 88 Stat. 447, which is not classified to the Code.
 
 The Office of the Chief Technology Officer Establishment Act of 1998, referred to in subsec. (c), is an act of the District of Columbia and is not classified to the Code.
 

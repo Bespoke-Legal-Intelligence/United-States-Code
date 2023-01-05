@@ -76,7 +76,7 @@ The program shall—
 
 #### (3) Considerations
 
-&emsp;In selecting proposed projects to receive financial assistance under this subsection, theSecretary shall give special consideration to the extent to which the proposed project will—
+&emsp;In selecting proposed projects to receive financial assistance under this subsection, the Secretary shall give special consideration to the extent to which the proposed project will—
 
 &emsp;&emsp;(A) stimulate the creation or increased retention of jobs in the United States; and
 

@@ -110,7 +110,7 @@ Disputes.—
 
 &emsp;(1)
 
-Petitioning surface transportation board.—If Amtrak and the eligible petitioner awarded a route under this section cannot agree upon terms to carry out subsection (c)(1), either party may petition the SurfaceTransportation Board for a determination as to—
+Petitioning surface transportation board.—If Amtrak and the eligible petitioner awarded a route under this section cannot agree upon terms to carry out subsection (c)(1), either party may petition the Surface Transportation Board for a determination as to—
 
 &emsp;&emsp;(A) whether access to Amtrak's facility or equipment, or the provisions of services by Amtrak, is necessary under subsection (c)(1); and
 
@@ -118,7 +118,7 @@ Petitioning surface transportation board.—If Amtrak and the eligible petitione
 
 &emsp;(2)
 
-Surface transportation board determination.—If the Surface Transportation Board determines access to Amtrak's facilities or equipment, or the provision of services by Amtrak, is necessary under paragraph (1)(A) and the operation of Amtrak's other services will not be unreasonably impaired under paragraph (1)(B), the Board shall issue an order that—
+Surface transportation board determination.—If the Surface TransportationBoard determines access to Amtrak's facilities or equipment, or the provision of services by Amtrak, is necessary under paragraph (1)(A) and the operation of Amtrak's other services will not be unreasonably impaired under paragraph (1)(B), the Board shall issue an order that—
 
 &emsp;&emsp;(A) requires Amtrak to provide the applicable facilities, equipment, and services; and
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in subsection (d) of this section, a railroad carrier and its officers and agents may not require or allow a train employee to—
+In General.—Except as provided in subsection (d) of this section, a railroad carrier andits officers and agents may not require or allow a train employee to—
 
 &emsp;(1) remain on duty, go on duty, wait for deadhead transportation, be in deadhead transportation from a duty assignment to the place of final release, or be in any other mandatory service for the carrier in any calendar month where the employee has spent a total of 276 hours—
 
@@ -80,7 +80,7 @@ Limbo Time Limitation and Additional Rest Requirement.—
 
 &emsp;&emsp;&emsp;(ii) in deadhead transportation from a duty assignment to the place of final release,
 
-> &emsp;&emsp;following a period of 12 consecutive hours on duty that is neither time on duty nor time off duty, not including interim rest periods, during the period beginning one year after the date of enactment of the Rail Safety Improvement Act of 2008 except that the Secretary may further limit the monthly limitation pursuant to regulations prescribed under section 21109.
+> &emsp;&emsp;following a period of 12 consecutive hours on duty that is neither time on duty nor time off duty, not including interim rest periods, during the period beginning one year afterthe date of enactment of the Rail Safety Improvement Act of 2008 except that the Secretary may further limit the monthly limitation pursuant to regulations prescribed under section 21109.
 
 &emsp;(2) The limitations in paragraph (1) shall apply unless the train carrying the employee is directly delayed by—
 

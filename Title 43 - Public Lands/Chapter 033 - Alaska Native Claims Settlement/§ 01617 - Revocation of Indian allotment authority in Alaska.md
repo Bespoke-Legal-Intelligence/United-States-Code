@@ -52,7 +52,7 @@ Any allotments approved pursuant to this section during the four years following
 
 &emsp;(A) the application—
 
-&emsp;&emsp;(i) describes land selected by or conveyed by interim conveyance or patent to a Native Corporation formed to receive benefits under this chapter; or
+&emsp;&emsp;(i) describes land selected by or conveyed by interim conveyance or patent to a NativeCorporation formed to receive benefits under this chapter; or
 
 &emsp;&emsp;(ii) otherwise conflicts with an interest in land granted to a Native Corporation by the United States;
 
@@ -96,7 +96,7 @@ Act of June 25, 1910 (36 Stat. 363), referred to in subsec. (a), probably means 
 
 Act of May 17, 1906 (34 Stat. 197), as amended, referred to in subsecs. (a), (d)(2)(B)(i), and (f)(1), is act May 17, 1906, ch. 2469, 34 Stat. 197, which enacted sections 270–1, 270–2, and 270–3 of this title, and was repealed by Pub. L. 92–203, §18(a), Dec. 18, 1971, 85 Stat. 710. For complete classification of this Act to the Code, see Tables.
 
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(2)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(2)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
 Section 6 of the Act entitled "An Act to provide for the admission of the State of Alaska into the Union", approved July 7, 1958 (commonly referred to as the "Alaska Statehood Act"), referred to in subsec. (c)(2)(B), is section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
@@ -122,7 +122,7 @@ In General.—In lieu of the process for the correction of conveyance documents 
 
 "(b)
 
-Certificate of Allotment.—If the United States determines that the allotment application is valid or would have been approved under section 905 of the Alaska National Interests Lands Conservation Act (42 U.S.C. 1634) had the land described in the allotment application been in Federal ownership on December 2, 1980, and obtains title evidence acceptable under the Department of Justice title standards, the United States shall accept the deed from the Native Corporation and issue a certificate of allotment to the allotment applicant.
+Certificate of Allotment.—If the United States determines that the allotment application isvalid or would have been approved under section 905 of the Alaska National Interests Lands Conservation Act (42 U.S.C. 1634) had the land described in the allotment application been in Federal ownership on December 2, 1980, and obtains title evidence acceptable under the Department of Justice title standards, the United States shall accept the deed from the Native Corporation and issue a certificate of allotment to the allotment applicant.
 
 "(c)
 

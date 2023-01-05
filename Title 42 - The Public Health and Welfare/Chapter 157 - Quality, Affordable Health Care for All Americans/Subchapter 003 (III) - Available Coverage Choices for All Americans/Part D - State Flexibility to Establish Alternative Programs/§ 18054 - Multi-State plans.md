@@ -32,7 +32,7 @@
 
 #### (6) Assured availability of varied coverage
 
-&emsp;In entering into contracts under this subsection, the Director shall ensure that with respect to multi-State qualified health plans offered in an Exchange, there is at least one such plan that does not provide coverage ofservices described in section 18023(b)(1)(B)(i) of this title.
+&emsp;In entering into contracts under this subsection, the Director shall ensure that with respect to multi-State qualified health plans offered in an Exchange, there is at least one such plan that does not provide coverage of services described in section 18023(b)(1)(B)(i) of this title.
 
 #### (7) Withdrawal
 
@@ -110,7 +110,7 @@ Notwithstanding paragraphs (1) and (2) of subsection (b), the Director shall ent
 
 #### (f) Applicability
 
-The requirements under chapter 89 of title 5 applicable to health benefits plans under such chapter shall apply to multi-State qualified health plans provided for under this section tothe extent that such requirements do not conflict with a provision of this title.<sup>3</sup>
+The requirements under chapter 89 of title 5 applicable to health benefits plans under such chapter shall apply to multi-State qualified health plans provided for under this section to the extent that such requirements do not conflict with a provision of this title.<sup>3</sup>
 
 #### (g) Continued support for FEHBP
 
@@ -152,7 +152,7 @@ There is authorized to be appropriated, such sums as may be necessary to carry o
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsecs. (b)(2) and (c)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsecs. (b)(2) and (c)(1)(C), is act July 1, 1944, ch. 373, 58 Stat.682. Part A of title XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 This title, referred to in subsecs. (b)(2), (3), (c)(1)(B), and (f), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 

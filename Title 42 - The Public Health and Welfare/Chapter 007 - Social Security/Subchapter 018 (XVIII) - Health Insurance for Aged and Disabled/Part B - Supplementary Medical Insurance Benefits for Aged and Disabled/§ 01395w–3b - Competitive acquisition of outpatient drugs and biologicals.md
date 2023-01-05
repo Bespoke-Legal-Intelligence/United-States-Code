@@ -114,7 +114,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may not award a contract to any entity under the competition conducted in a competitive acquisition area pursuant to paragraph (1) with respect to the acquisition of competitively biddable drugs and biologicals within a category unless theSecretary finds that the entity meets all of the following with respect to the contract period involved:
+&emsp;&emsp;The Secretary may not award a contract to any entity under the competition conducted in a competitive acquisition area pursuant to paragraph (1) with respect to the acquisition of competitively biddable drugs and biologicals within a category unless the Secretary finds that the entity meets all of the following with respect to the contract period involved:
 
 #### (i) Capacity to supply competitively biddable drug or biological within category
 
@@ -328,7 +328,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 Section 1395ee(b) of this title, referred to in subsec. (b)(2)(C), was added by section 942(a)(5) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, Pub. L. 108–173, not section 923 of that Act, and relates to the Council for Technology and Innovation, not to the Medicare Provider Ombudsman.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. subsec. (b)(4)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. subsec. (b)(4)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Amendments
 

@@ -18,7 +18,7 @@ Performance Management.—In order to achieve the purpose set forth in subsectio
 
 &emsp;(1) use the full authorities provided in subsections (a) through (d) of section 9902 of title 5, including flexibilities related to performance management and hiring and to training of managers;
 
-&emsp;(2) require managers to develop performance plans for individual members of the acquisition workforce in order to give members an understanding of how their performance contributes to their organization's mission and the success of the defense acquisition system (as defined in section 2545 <sup>1</sup> of this title);
+&emsp;(2) require managers to develop performance plans for individual members of the acquisition workforce in order to give members an understanding of how their performance contributes to their organization's mission and the success of the defense acquisition system (as defined in section 3001 of this title);
 
 &emsp;(3) to the extent appropriate, use the lessons learned from the acquisition demonstration project carried out under section 1762 of this title related to contribution-based compensation and appraisal, and how those lessons may be applied within the General Schedule system;
 
@@ -38,9 +38,11 @@ Performance Management.—In order to achieve the purpose set forth in subsectio
 
 &emsp;&emsp;(B) provide mentors to advise individuals within the acquisition workforce on their career paths and opportunities to advance and excel within the acquisition workforce; and
 
-&emsp;&emsp;(C) assist with the design of education and training courses and the training of individuals in the acquisition workforce; and
+&emsp;&emsp;(C) assist with the design of education and training courses and the training of individuals in the acquisition workforce;
 
-&emsp;(10) use the authorities for expedited security clearance processing pursuant to section 1564 of this title.
+&emsp;(10) use the authorities for expedited security clearance processing pursuant to section 1564 of this title; and
+
+&emsp;(11) ensure the participation in the public-private talent exchange program established under section 1599g of this title of up to 250 members of the acquisition workforce in each fiscal year.
 
 (c)
 
@@ -56,15 +58,15 @@ Negotiations.—Any action taken by the Secretary under this section, or to impl
 
 Regulations.—Any rules or regulations prescribed pursuant to this section shall be deemed an agency rule or regulation under section 7117(a)(2) of title 5, and shall not be deemed a Government-wide rule or regulation under section 7117(a)(1) of such title.
 
-(Added Pub. L. 111–383, div. A, title VIII, §871(a), Jan. 7, 2011, 124 Stat. 4299; amended Pub. L. 116–92, div. A, title VIII, §861(a)(1)–(3), (e)(1), Dec. 20, 2019, 133 Stat. 1515, 1517; Pub. L. 116–283, div. A, title X, §1081(a)(31), title XVIII, §§1808(d)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3872, 4160, 4294.)
-
-#### References in Text
-
-Section 2545 of this title, referred to in subsec. (b)(2), was transferred to sections 3001 and 3101 of this title, and amended, by Pub. L. 116–283, div. A, title XVIII, §§1806(a)(2)–(4), 1808(a)(2), Jan. 1, 2021, 134 Stat. 4152, 4159. The term "defense acquisition system" is defined in section 3001.
+(Added Pub. L. 111–383, div. A, title VIII, §871(a), Jan. 7, 2011, 124 Stat. 4299; amended Pub. L. 116–92, div. A, title VIII, §861(a)(1)–(3), (e)(1), Dec. 20, 2019, 133 Stat. 1515, 1517; Pub. L. 116–283, div. A, title X, §1081(a)(31), title XVIII, §§1808(d)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3872, 4160, 4294; Pub. L. 117–263, div. A, title VIII, §831(a), Dec. 23, 2022, 136 Stat. 2711.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(2). Pub. L. 117–263, §831(a)(2), substituted "as defined in section 3001 of this title" for "as defined in section 2545 of this title".
+
+Subsec. (b)(11). Pub. L. 117–263, §831(a)(1), added par. (11).
 
 <b>2021</b>—Subsec. (a)(4). Pub. L. 116–283, §1808(d)(2), substituted "chapter 205" for "chapter 149".
 
@@ -102,29 +104,7 @@ Pub. L. 116–92, div. A, title VIII, §861(e)(3), Dec. 20, 2019, 133 Stat. 1517
 
 #### Flexibility in Contracting Award Program
 
-Pub. L. 114–328, div. A, title VIII, §834, Dec. 23, 2016, 130 Stat. 2285, provided that:
-
-"(a)
-
-Establishment of Award Program.—The Secretary of Defense shall create an award to recognize those acquisition programs and professionals that make the best use of the flexibilities and authorities granted by the Federal Acquisition Regulation and Department of Defense Instruction 5000.02 (Operation of the Defense Acquisition System).
-
-"(b)
-
-Purpose of Award.—The award established under subsection (a) shall recognize outstanding performers whose approach to program management emphasizes innovation and local adaptation, including the use of—
-
-&emsp;"(1) simplified acquisition procedures;
-
-&emsp;"(2) inherent flexibilities within the Federal Acquisition Regulation;
-
-&emsp;"(3) commercial contracting approaches;
-
-&emsp;"(4) public-private partnership agreements and practices;
-
-&emsp;"(5) cost-sharing arrangements;
-
-&emsp;"(6) innovative contractor incentive practices; and
-
-&emsp;"(7) other innovative implementations of acquisition flexibilities."
+Pub. L. 114–328, div. A, title VIII, §834, Dec. 23, 2016, 130 Stat. 2285, which established an award to recognize acquisition programs and professionals making the best use of flexibilities and authorities granted by Federal Acquisition Regulation and Department of Defense Instruction 5000.02, was repealed by Pub. L. 117–263, div. A, title VIII, §801(c), Dec. 23, 2022, 136 Stat. 2693. See section 1743 of this title.
 
 #### Awards for Department of Defense Personnel for Excellence in the Acquisition of Products and Services
 
@@ -145,6 +125,4 @@ Elements.—The program required by subsection (a) shall include the following:
 "(c)
 
 Award of Cash Bonuses.—As part of the program required by subsection (a), the Secretary may award to any individual recognized pursuant to the program a cash bonus authorized by any other provision of law to the extent that the performance of such individual so recognized warrants the award of such bonus under such provision of law."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

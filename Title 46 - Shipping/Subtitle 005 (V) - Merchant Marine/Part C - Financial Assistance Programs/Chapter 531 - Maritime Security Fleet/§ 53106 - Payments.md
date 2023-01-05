@@ -22,7 +22,7 @@ In general.—The Secretary, subject to the availability of appropriations and t
 
 &emsp;(2)
 
-Timing.—The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section.
+Timing.—The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section or section 51307(b).
 
 (b)
 
@@ -68,11 +68,13 @@ Limitation on application.—Paragraph (1) shall not apply to any person that is
 
 Participates in a noncontiguous domestic trade defined.—In this subsection the term "participates in a noncontiguous domestic trade" means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
 
-(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 114–328, div. C, title XXXV, §3502(b), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–91, div. C, title XXXV, §3503(b), Dec. 12, 2017, 131 Stat. 1911; Pub. L. 115–232, div. C, title XXXV, §3546(o), Aug. 13, 2018, 132 Stat. 2327; Pub. L. 116–92, div. C, title XXXV, §3502(c), Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. C, title XXXV, §3501(b), Jan. 1, 2021, 134 Stat. 4397.)
+(Added Pub. L. 108–136, div. C, title XXXV, §3531(a), Nov. 24, 2003, 117 Stat. 1813; amended Pub. L. 109–304, §13(a)(5), Oct. 6, 2006, 120 Stat. 1701; Pub. L. 109–364, div. C, title XXXV, §3502(c), Oct. 17, 2006, 120 Stat. 2516; Pub. L. 111–383, div. C, title XXXV, §3502(2), Jan. 7, 2011, 124 Stat. 4518; Pub. L. 112–239, div. C, title XXXV, §3508(f), Jan. 2, 2013, 126 Stat. 2225; Pub. L. 114–113, div. O, title I, §101(e)(1), Dec. 18, 2015, 129 Stat. 2988; Pub. L. 114–328, div. C, title XXXV, §3502(b), Dec. 23, 2016, 130 Stat. 2775; Pub. L. 115–91, div. C, title XXXV, §3503(b), Dec. 12, 2017, 131 Stat. 1911; Pub. L. 115–232, div. C, title XXXV, §3546(o), Aug. 13, 2018, 132 Stat. 2327; Pub. L. 116–92, div. C, title XXXV, §3502(c), Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. C, title XXXV, §3501(b), Jan. 1, 2021, 134 Stat. 4397; Pub. L. 117–263, div. C, title XXXV, §3517(b)(1), Dec. 23, 2022, 136 Stat. 3074.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–263 inserted "or section 51307(b)" after "this section".
 
 <b>2021</b>—Subsec. (a)(1)(B). Pub. L. 116–283 substituted "$8,233,463" for "$5,233,463".
 
@@ -82,9 +84,9 @@ Participates in a noncontiguous domestic trade defined.—In this subsection the
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–91, §3503(b)(1), substituted "paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel," for "section 53105(a)(1)".
 
-Subsec. (d)(3). Pub. L. 115–91, §3503(b)(2), substituted "paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel" for "section 53105(a)(1)".
+Subsec. (d)(3). Pub. L. 115–91, §3503(b)(2), substituted "paragraph (1) and (2) of section 53105(a), as otherwiseapplicable with respect to such vessel" for "section 53105(a)(1)".
 
-<b>2016</b>—Subsec. (c)(3). Pub. L. 114–328 substituted "; or" for "or (C);" at end of subpar. (A) and a period for"; or" at end of subpar. (B) and struck out subpar. (C) which read as follows: "30 years of age, in the case of a lighter aboard ship vessel."
+<b>2016</b>—Subsec. (c)(3). Pub. L. 114–328 substituted "; or" for "or (C);" at end of subpar. (A) and a period for "; or" at end of subpar. (B) and struck out subpar. (C) which read as follows: "30 years of age, in the case of a lighter aboard ship vessel."
 
 <b>2015</b>—Subsec. (a)(1)(B). Pub. L. 114–113, §101(e)(1)(A), struck out comma before "for each".
 

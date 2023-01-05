@@ -14,7 +14,7 @@ Requirements.—
 
 &emsp;(1)
 
-No cost sharing.—The medical monitoring, diagnosis, or treatment described in subsection (a) shall be provided without anydeductible, copayment, or other cost sharing obligation.
+No cost sharing.—The medical monitoring, diagnosis, or treatment described in subsection (a) shall be provided without any deductible, copayment, or other cost sharing obligation.
 
 &emsp;(2)
 
@@ -40,7 +40,7 @@ Exclusions.—The Administrator may not—
 
 &emsp;(2) provide for treatment of a former United States government astronaut or former payload specialist under subsection (a) for any psychological or medical condition that is not associated with human space flight; or
 
-&emsp;(3) require a former United States government astronaut or former payload specialist to participate in the medical monitoring, diagnosis, or treatment authorized under subsection (a).
+&emsp;(3) require a former United States government astronaut or former payload specialistto participate in the medical monitoring, diagnosis, or treatment authorized under subsection (a).
 
 (d)
 

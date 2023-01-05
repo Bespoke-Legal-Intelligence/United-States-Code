@@ -200,7 +200,7 @@ Program.—The term 'Program' means the airport disadvantaged business enterpris
 
 Pub. L. 112–95, title I, §140(a), Feb. 14, 2012, 126 Stat. 27, provided that: "Congress finds the following:
 
-&emsp;"(1) While significant progress has occurred due to the establishment of the airport disadvantaged business enterprise program (49 U.S.C. 47107(e) and 47113),discrimination and related barriers continue to pose significant obstacles for minority- and women-owned businesses seeking to do business in airport-related markets across the Nation. These continuing barriers merit the continuation of the airport disadvantaged business enterprise program.
+&emsp;"(1) While significant progress has occurred due to the establishment of the airport disadvantaged business enterprise program (49 U.S.C. 47107(e) and 47113), discrimination and related barriers continue to pose significant obstacles for minority- and women-owned businesses seeking to do business in airport-related markets across the Nation. These continuing barriers merit the continuation of the airport disadvantaged business enterprise program.
 
 &emsp;"(2) Congress has received and reviewed testimony and documentation of race and gender discrimination from numerous sources, including congressional hearings and roundtables, scientific reports, reports issued by public and private agencies, news stories, reports of discrimination by organizations and individuals, and discrimination lawsuits. This testimony and documentation shows that race- and gender-neutral efforts alone are insufficient to address the problem.
 

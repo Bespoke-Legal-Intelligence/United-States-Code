@@ -36,7 +36,7 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 &emsp;If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
 
-(Added Pub. L. 110–142, §9(a), Dec. 20, 2007, 121 Stat. 1807; amended Pub. L. 110–458, title I, §128(a), Dec. 23, 2008, 122 Stat. 5116; Pub. L. 111–92, §16(a), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 113–295, div. B, title II, §208(e), Dec. 19, 2014, 128 Stat. 4073; Pub. L. 115–97, title I, §11002(d)(1)(OO), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title IV, §401(a)(299)(E), Mar. 23, 2018, 132 Stat. 1198.)
+(Added Pub. L. 110–142, §9(a), Dec. 20, 2007, 121 Stat. 1807; amended Pub. L. 110–458, title I,§128(a), Dec. 23, 2008, 122 Stat. 5116; Pub. L. 111–92, §16(a), Nov. 6, 2009, 123 Stat. 2996; Pub. L. 113–295, div. B, title II, §208(e), Dec. 19, 2014, 128 Stat. 4073; Pub. L. 115–97, title I, §11002(d)(1)(OO), Dec. 22, 2017, 131 Stat. 2061; Pub. L. 115–141, div. U, title IV, §401(a)(299)(E), Mar. 23, 2018, 132 Stat. 1198.)
 
 #### Inflation Adjusted Items for Certain Years
 

@@ -10,7 +10,7 @@
 
 (4) The Board may accept any report of condition made to any commission, board, or authority having supervision of a State-chartered credit union and may furnish to any such commission, board, or authority reports of condition made to the Board.
 
-(5) Reports required under subchapter I of this chapter shall be so prepared that they can beused for share insurance purposes. To the maximum extent feasible, the Board shall use for insurance purposes reports submitted to State regulatory agencies by State-chartered credit unions.
+(5) Reports required under subchapter I of this chapter shall be so prepared that they can be used for share insurance purposes. To the maximum extent feasible, the Board shall use for insurance purposes reports submitted to State regulatory agencies by State-chartered credit unions.
 
 (6)
 
@@ -94,7 +94,7 @@ Data sharing with other agencies and persons.—In addition to reports of examin
 
 #### (A) In general
 
-&emsp;&emsp;For each calendar year, in the case of an insured credit union with total assets of not more than $50,000,000, and for each semi-annual period in the case of an insured credit union with total assets of $50,000,000 or more, an insured credit union shall file with theBoard, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the relevant period and both the amount of its deposit or adjustment of deposit and the amount of the insurance charge due to the Fund for that period, both as computed under subsection (c).
+&emsp;&emsp;For each calendar year, in the case of an insured credit union with total assets of not more than $50,000,000, and for each semi-annual period in the case of an insured credit union with total assets of $50,000,000 or more, an insured credit union shall file with the Board, at such time as the Board prescribes, a certified statement showing the total amount of insured shares in the credit union at the close of the relevant period and both the amount of its deposit or adjustment of deposit and the amount of the insurance charge due to the Fund for that period, both as computed under subsection (c).
 
 #### (B) Exception for newly insured credit union
 
@@ -136,7 +136,7 @@ Insurance premium charges.—
 
 &emsp;(A)
 
-In general.—Each insured credit union shall, at such times as the Board prescribes (but not more than twice in any calendar year), pay to the Fund a premium charge for insurance in an amount stated as a percentage of insured shares (which shall be the same for all insured credit unions).
+In general.—Each insured credit union shall, at such times as the Board prescribes\(but not more than twice in any calendar year), pay to the Fund a premium charge for insurance in an amount stated as a percentage of insured shares (which shall be the same for all insured credit unions).
 
 &emsp;(B)
 
@@ -250,7 +250,7 @@ Special rule for disputed payments.—No penalty may be assessed for the failure
 
 &emsp;&emsp;(ii) the credit union deposits security satisfactory to the Board for payment of the deposit or insurance premium upon final determination of the dispute.
 
-(3) No insured credit union shall pay any dividends on its insured shares or distribute any of its assets while it remains in default in the payment of its deposit or any premium charge for insurance due to the fund. Any director or officer of any insured credit union who knowingly participates in the declaration or payment of any such dividend or in any such distribution shall, upon conviction, be fined not more than $1,000 or imprisoned not more than one year, or both. The provisions of this paragraph shall not be applicable in any case in which the default is due to a dispute between the credit union and the Board over the amount of its deposit or the premium charge due to the fund if the creditunion deposits security satisfactory to the Board for payment of its deposit or the premium charge upon final determination of the issue.
+(3) No insured credit union shall pay any dividends on its insured shares or distribute any of its assets while it remains in default in the payment of its deposit or any premium charge for insurance due to the fund. Any director or officer of any insured credit union who knowingly participates in the declaration or payment of any such dividend or in any such distribution shall, upon conviction, be fined not more than $1,000 or imprisoned not more than one year, or both. The provisions of this paragraph shall not be applicable in any case in which the default is due to a dispute between the credit union and the Board over the amount of its deposit or the premium charge due to the fund if the credit union deposits security satisfactory to the Board for payment of its deposit or the premium charge upon final determination of the issue.
 
 #### (e) Recovery of unpaid deposit or premium; limitations
 
@@ -296,7 +296,7 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;The term "normal operating level", when applied to the Fund, means an equity ratio specified by the Board, which shall be not less than 1.2 percent and not more than 1.5 percent.
 
-(June 26, 1934, ch. 750, title II, §202, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 995; amended Pub. L. 93–383, title VII, §727, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–630, title V, §§502(b), 505, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 97–320, title V, §§528, 529, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 97–457, §29, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–369, div. B, title VIII, §§2802–2810, July 18, 1984, 98 Stat. 1204, 1205; Pub. L. 101–73, title IX, §§911(f), 919, 931(b), Aug. 9, 1989, 103Stat. 482, 488, 493; Pub. L. 102–242, title III, §313(b), Dec. 19, 1991, 105 Stat. 2369; Pub. L. 102–550, title XVI, §1605(b)(3), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 105–219, title II, §201, title III, §302(a), Aug. 7, 1998, 112 Stat. 918, 931; Pub. L. 109–351, title VII, §§707(b), 726(12), Oct. 13, 2006, 120 Stat. 1987, 2002; Pub. L. 111–22, div. A, title II, §204(e), (f)(2), May 20, 2009, 123 Stat. 1651, 1653; Pub. L. 111–382, §2, Jan. 4, 2011, 124 Stat. 4135.)
+(June 26, 1934, ch. 750, title II, §202, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 995; amended Pub. L. 93–383, title VII, §727, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–630, title V, §§502(b), 505, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 97–320, title V, §§528, 529, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 97–457, §29, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–369, div. B, title VIII, §§2802–2810, July 18, 1984, 98 Stat. 1204, 1205; Pub. L. 101–73, title IX, §§911(f), 919, 931(b), Aug. 9, 1989, 103 Stat. 482, 488, 493; Pub. L. 102–242, title III, §313(b), Dec. 19, 1991, 105 Stat. 2369; Pub. L. 102–550, title XVI, §1605(b)(3), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 105–219, title II, §201, title III, §302(a), Aug. 7, 1998, 112 Stat. 918, 931; Pub. L. 109–351, title VII, §§707(b), 726(12), Oct. 13, 2006, 120 Stat. 1987, 2002; Pub. L. 111–22, div. A, title II, §204(e), (f)(2), May 20, 2009, 123 Stat. 1651, 1653; Pub. L. 111–382, §2, Jan. 4, 2011, 124 Stat. 4135.)
 
 #### <b>Editorial Notes</b>
 
@@ -336,7 +336,7 @@ Subsec. (h). Pub. L. 105–219, §302(a)(5), added subsec. (h) and struck out fo
 
 &emsp;"(1) the term 'insurance year' means the period beginning on January 1 and ending on the following December 31, both dates inclusive, unless otherwise prescribed by the Board;
 
-&emsp;"(2) the term 'normal operating level', when applied to the fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine; and
+&emsp;"(2) the term 'normal operating level', when applied to the fund, means an amount equal to 1.3 per centumof the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine; and
 
 &emsp;"(3) the term 'insured shares' when applied to this section includes share, share draft, share certificate and other similar accounts as determined by the Board, but does not include amounts in excess of the insured account limit set forth in section 1787(c)(1) of this title."
 
@@ -354,7 +354,7 @@ Subsec. (a)(7). Pub. L. 101–73, §931(b), added par. (7).
 
 Subsec. (c)(1). Pub. L. 98–369, §2803(6), added par. (1). Former par. (1) redesignated (2).
 
-Subsec. (c)(2). Pub. L. 98–369, §2803(3)–(5), substituted "Each insured credit union, at such time as the Board prescribes" for "Except as provided in paragraph (2) ofthis subsection, each insured credit union, on or before January 31 of each insurance year" and "insured shares" for "member accounts".
+Subsec. (c)(2). Pub. L. 98–369, §2803(3)–(5), substituted "Each insured credit union, at such time as the Board prescribes" for "Except as provided in paragraph (2) of this subsection, each insured credit union, on or before January 31 of each insurance year" and "insured shares" for "member accounts".
 
 Pub. L. 98–369, §2803(1), (2), redesignated par. (1) as (2). Former par. (2), which related to payment of a premium charge for insurance by each credit union in existence prior to Oct. 19, 1970, and insured under this subchapter after January 1 of any insurance, was struck out.
 

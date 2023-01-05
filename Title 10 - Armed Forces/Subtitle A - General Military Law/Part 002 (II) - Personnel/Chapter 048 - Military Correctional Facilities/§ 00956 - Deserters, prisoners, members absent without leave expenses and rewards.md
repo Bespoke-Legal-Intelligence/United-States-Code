@@ -18,7 +18,7 @@ Funds appropriated to the Department of Defense may be used for the following pu
 
 #### Prior Provisions
 
-Provisions similar to those in pars. (1) to (5) of this section were contained in the following appropriationacts, with the exception of the provisions similar to par. (2) which first appeared in the act of July 1, 1943:
+Provisions similar to those in pars. (1) to (5) of this section were contained in the following appropriation acts, with the exception of the provisions similar to par. (2) which first appeared in the act of July 1, 1943:
 
 Oct. 12, 1984, Pub. L. 98–473, title I, §101(h) \[title VIII, §8006\], 98 Stat. 1904, 1923.
 

@@ -14,7 +14,7 @@
 
 &emsp;In any case in which a consumer reporting agency includes a fraud alert in the file of a consumer pursuant to this subsection, the consumer reporting agency shall—
 
-&emsp;&emsp;(A) disclose to the consumer that the consumer may request a free copy of the file ofthe consumer pursuant to section 1681j(d) of this title; and
+&emsp;&emsp;(A) disclose to the consumer that the consumer may request a free copy of the file of the consumer pursuant to section 1681j(d) of this title; and
 
 &emsp;&emsp;(B) provide to the consumer all disclosures required to be made under section 1681g of this title, without charge to the consumer, not later than 3 business days after any request described in subparagraph (A).
 
@@ -152,7 +152,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 #### (B) Notice if removal not by request
 
-&emsp;&emsp;If a consumer reporting agency removes a security freeze under subparagraph (A)(ii), the consumer reporting agency shall notify the consumer in writing prior to removing the security freeze.
+&emsp;&emsp;If a consumer reporting agency removes a security freeze under subparagraph (A)(ii),the consumer reporting agency shall notify the consumer in writing prior to removing the security freeze.
 
 #### (C) Removal of security freeze by consumer request
 
@@ -200,11 +200,11 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 "Consumers Have the Right To Obtain a Security Freeze
 
-"You have a right to place a 'security freeze' on your credit report, which will prohibit a consumer reporting agency from releasing information in your credit report without your express authorization. The security freeze is designed toprevent credit, loans, and services from being approved in your name without your consent. However, you should be aware that using a security freeze to take control over who gets access to the personal and financial information in your credit report may delay, interfere with, or prohibit the timely approval of any subsequent request or application you make regarding a new loan, credit, mortgage, or any other account involving the extension of credit.
+"You have a right to place a 'security freeze' on your credit report, which will prohibit a consumer reporting agency from releasing information in your credit report without your express authorization. The security freeze is designed to prevent credit, loans, and services from being approved in your name without your consent. However, you should be aware that using a security freeze to take control over who gets access to the personal and financial information in your credit report may delay, interfere with, or prohibit the timely approval of any subsequent request or application you make regarding a new loan, credit, mortgage, or any other account involving the extension of credit.
 
 "As an alternative to a security freeze, you have the right to place an initial or extended fraud alert on your credit file at no cost. An initial fraud alert is a 1-year alert that is placed on a consumer's credit file. Upon seeing a fraud alert display on a consumer's credit file, a business is required to take steps to verify the consumer's identity before extending new credit. If you are a victim of identity theft, you are entitled to an extended fraud alert, which is a fraud alert lasting 7 years.
 
-"A security freeze does not apply to a person or entity, or its affiliates, or collection agencies acting on behalf of the person or entity, with which you have an existing account that requests information in your credit report for the purposes of reviewing or collecting the account. Reviewing the account includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.".
+"A security freeze does not apply to a person or entity, or its affiliates, or collection agencies acting on behalf of the person or entity, with which you have an existing account that requests information in your credit report for the purposes of reviewing or collecting the account.Reviewing the account includes activities related to account maintenance, monitoring, credit line increases, and account upgrades and enhancements.".
 
 #### (6) Webpage
 
@@ -288,7 +288,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 &emsp;&emsp;&emsp;(i) send confirmation of the placement to the protected consumer's representative; and
 
-&emsp;&emsp;&emsp;(ii) inform the protected consumer's representative of the process by which the protected consumer may remove the security freeze, including a mechanism to authenticate the protected consumer's representative.
+&emsp;&emsp;&emsp;(ii) inform the protected consumer's representative of the process by which theprotected consumer may remove the security freeze, including a mechanism to authenticate the protected consumer's representative.
 
 #### (C) Creation of file
 
@@ -366,7 +366,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 Section 1602(i) of this title, referred to in subsec. (h), was redesignated section 1602(j) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-The Social Security Act, referred to in subsec. (i)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part D of title IV of the Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (i)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part D of title IV of the Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42,The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

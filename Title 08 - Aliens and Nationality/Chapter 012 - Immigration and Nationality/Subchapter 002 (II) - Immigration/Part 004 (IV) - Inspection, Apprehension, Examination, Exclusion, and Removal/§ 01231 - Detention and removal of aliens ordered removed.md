@@ -20,7 +20,7 @@
 
 #### (C) Suspension of period
 
-&emsp;&emsp;The removal period shall be extended beyond a period of 90 days and the alien mayremain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel or other documents necessary to the alien's departure or conspires or acts to prevent the alien's removal subject to an order of removal.
+&emsp;&emsp;The removal period shall be extended beyond a period of 90 days and the alien may remain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel or other documents necessary to the alien's departure or conspires or acts to prevent the alien's removal subject to an order of removal.
 
 #### (2) Detention
 
@@ -88,7 +88,7 @@
 
 #### (B) Travel from contiguous territory
 
-&emsp;&emsp;If the alien boarded the vessel or aircraft on which the alien arrived in the United States in a foreign territory contiguous to the United States, an island adjacent to the United States, or an island adjacent to a foreign territory contiguous to the United States, and the alien is not a native, citizen, subject, or national of, or does not reside in, the territory or island, removal shall be to the country in which the alien boarded the vessel that transported the alien to the territory or island.
+&emsp;&emsp;If the alien boarded the vessel or aircraft on which the alien arrived in the United States in a foreign territory contiguous to the United States, an island adjacent to the United States, or an island adjacent to a foreign territory contiguous to the United States, and the alien is not a native, citizen,subject, or national of, or does not reside in, the territory or island, removal shall be to the country in which the alien boarded the vessel that transported the alien to the territory or island.
 
 #### (C) Alternative countries
 
@@ -160,7 +160,7 @@
 
 &emsp;&emsp;When the United States is at war and the Attorney General decides that it is impracticable, inadvisable, inconvenient, or impossible to remove an alien under this subsection because of the war, the Attorney General may remove the alien—
 
-&emsp;&emsp;&emsp;(i) to the country that is host to a government in exile of the country of whichthe alien is a citizen or subject if the government of the host country will permit the alien's entry; or
+&emsp;&emsp;&emsp;(i) to the country that is host to a government in exile of the country of which the alien is a citizen or subject if the government of the host country will permit the alien's entry; or
 
 &emsp;&emsp;&emsp;(ii) if the recognized government of the country of which the alien is a citizen or subject is not in exile, to a country, or a political or territorial subdivision of a country, that is very near the country of which the alien is a citizen or subject, or, with the consent of the government of the country of which the alien is a citizen or subject, to another country.
 
@@ -168,7 +168,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraphs (1) and (2), the Attorney General may not remove an alien to a country if the Attorney General decides that the alien's life or freedom would be threatened in that country because of the alien's race, religion, nationality, membership in a particular social group, or political opinion.
+&emsp;&emsp;Notwithstanding paragraphs (1) and (2), the Attorney General may not remove an alien to a country if the Attorney Generaldecides that the alien's life or freedom would be threatened in that country because of the alien's race, religion, nationality, membership in a particular social group, or political opinion.
 
 #### (B) Exception
 
@@ -236,7 +236,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and subsection (d),<sup>4</sup> an owner of a vessel oraircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
+&emsp;&emsp;Except as provided in subparagraph (B) and subsection (d),<sup>4</sup> an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
 
 &emsp;&emsp;&emsp;(i) while the alien is detained under subsection (d)(1), and
 
@@ -394,7 +394,7 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 &emsp;(C) $950,000,000 for each of the fiscal years 2008 through 2011.
 
-(6) Amounts appropriated pursuant to the authorization of appropriations in paragraph (5) that are distributed to a State or political subdivision of a State, including a municipality, may be used only for correctional purposes.
+(6) Amounts appropriated pursuant to the authorization of appropriations in paragraph (5)that are distributed to a State or political subdivision of a State, including a municipality, may be used only for correctional purposes.
 
 (June 27, 1952, ch. 477, title II, ch. 4, §241, as added and amended Pub. L. 104–208, div. C, title III, §§305(a)(3), 306(a)(1), 328(a)(1), Sept. 30, 1996, 110 Stat. 3009–598, 3009–607, 3009–630; Pub. L. 107–273, div. C, title I, §11014, Nov. 2, 2002, 116 Stat. 1824; Pub. L. 109–13, div. B, title I, §101(c), May 11, 2005, 119 Stat. 303; Pub. L. 109–162, title XI, §1196(a), (b), Jan. 5, 2006, 119 Stat. 3130.)
 
@@ -466,7 +466,7 @@ Policy.—It shall be the policy of the United States not to expel, extradite, o
 
 "(b)
 
-Regulations.—Not later than 120 days after the date of enactment of this Act \[Oct. 21, 1998\], the heads of the appropriate agencies shall prescribe regulationsto implement the obligations of the United States under Article 3 of the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman or Degrading Treatment or Punishment, subject to any reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention.
+Regulations.—Not later than 120 days after the date of enactment of this Act \[Oct. 21, 1998\], the heads of the appropriate agencies shall prescribe regulations to implement the obligations of the United States under Article 3 of the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman or Degrading Treatment or Punishment, subject to any reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention.
 
 "(c)
 

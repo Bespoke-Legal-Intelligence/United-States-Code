@@ -4,7 +4,7 @@ The Council shall approve any program for comprehensive water and related land r
 
 &emsp;(1) provides for comprehensive planning with respect to intrastate or interstate water resources, or both, in such State to meet the needs for water and water-related activities taking into account prospective demands for all purposes served through or affected by water and related land resources development, with adequate provision for coordination with all Federal, State, and local agencies, and nongovernmental entities having responsibilities in affected fields;
 
-&emsp;(2) provides, where comprehensive statewide development planning is being carried on with or without assistance under section 701 of the Housing Act of 1954 <sup>1</sup> or under chapter 2003 of title 54, for full coordination between comprehensive water resources planning and other statewide planning programs and for assurances that such water resources planning willbe in conformity with the general development policy in such State;
+&emsp;(2) provides, where comprehensive statewide development planning is being carried on with or without assistance under section 701 of the Housing Act of 1954 <sup>1</sup> or under chapter 2003 of title 54, for full coordination between comprehensive water resources planning and other statewide planning programs and for assurances that such water resources planning will be in conformity with the general development policy in such State;
 
 &emsp;(3) designates a State agency (hereinafter referred to as the "State agency") to administer the program;
 

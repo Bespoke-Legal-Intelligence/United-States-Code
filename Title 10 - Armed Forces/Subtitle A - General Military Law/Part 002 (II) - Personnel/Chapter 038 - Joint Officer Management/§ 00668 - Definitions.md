@@ -54,7 +54,7 @@ Joint Duty Assignment.—(1) The Secretary of Defense shall by regulation define
 
 Clarification of "Tour of Duty".—For purposes of this chapter, a tour of duty in which an officer serves in more than one joint duty assignment without a break between such assignments shall be considered to be a single tour of duty in a joint duty assignment.
 
-(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §§1302(c)(1), 1303(b), Dec. 4, 1987, 101 Stat. 1170, 1172; Pub. L. 100–456, div. A, title V,§519(b), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–375, div. A, title V, §534(a), (b), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–364, div. A, title V, §519(a)–(c), Oct. 17, 2006, 120 Stat. 2190, 2191; Pub. L. 111–383, div. A, title V, §521, Jan. 7, 2011, 124 Stat. 4214; Pub. L. 112–239, div. A, title V, §503, Jan. 2, 2013, 126 Stat. 1715; Pub. L. 114–92, div. A, title VIII, §843, Nov. 25, 2015, 129 Stat. 915; Pub. L. 114–328, div. A, title V, §510A, Dec. 23, 2016, 130 Stat. 2111.)
+(Added Pub. L. 99–433, title IV, §401(a), Oct. 1, 1986, 100 Stat. 1029; amended Pub. L. 100–180, div. A, title XIII, §§1302(c)(1), 1303(b), Dec. 4, 1987, 101 Stat. 1170, 1172; Pub. L. 100–456, div. A, title V, §519(b), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–375, div. A, title V, §534(a), (b), Oct. 28, 2004, 118 Stat. 1901; Pub. L. 109–364, div. A, title V, §519(a)–(c), Oct. 17, 2006, 120 Stat. 2190, 2191; Pub. L. 111–383, div. A, title V, §521, Jan. 7, 2011, 124 Stat. 4214; Pub. L. 112–239, div. A, title V, §503, Jan. 2, 2013, 126 Stat. 1715; Pub. L. 114–92, div. A, title VIII, §843, Nov. 25, 2015, 129 Stat. 915; Pub. L. 114–328, div. A, title V, §510A, Dec. 23, 2016, 130 Stat. 2111.)
 
 #### <b>Editorial Notes</b>
 

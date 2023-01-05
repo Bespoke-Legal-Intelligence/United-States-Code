@@ -40,7 +40,7 @@ The parcels referred to in paragraphs (1) through (4) of subsection (b) are all 
 
 #### (A) Maintaining natural character
 
-&emsp;&emsp;The Secretary shall keep development of the property acquired under paragraph (1) toa minimum so that the character of the acquired property will be similar to the natural and undeveloped landscape of the property described in subsection (b).
+&emsp;&emsp;The Secretary shall keep development of the property acquired under paragraph (1) to a minimum so that the character of the acquired property will be similar to the natural and undeveloped landscape of the property described in subsection (b).
 
 #### (B) Treatment of previously developed property
 
@@ -74,7 +74,7 @@ Subsec. (d)(3). Pub. L. 111–11, §7102(3), in introductory provisions, substit
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–363 added subsec. (d).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–449, §203(a)(2), struck out concluding provisions which read as follows: "both as generally depicted on a map entitled 'Land Ownership Map, Weir Farm Historic Site', Figure 5, dated October 1989, as contained in the National Park Service Weir Farm Suitability/Feasibility Study, February, 1990. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service."
+<b>1994</b>—Subsec. (b). Pub. L. 103–449, §203(a)(2), struck out concluding provisions which read as follows: "both as generally depicted on a map entitled 'Land Ownership Map, Weir Farm Historic Site', Figure 5, dated October 1989, as contained in the National Park Service Weir Farm Suitability/Feasibility Study, February,1990. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service."
 
 Subsec. (b)(3), (4). Pub. L. 103–449, §203(a)(1), (3), added pars. (3) and (4).
 

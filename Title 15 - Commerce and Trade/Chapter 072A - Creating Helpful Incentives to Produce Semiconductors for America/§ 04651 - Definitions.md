@@ -8,7 +8,7 @@ In this chapter:
 
 &emsp;&emsp;(B) the Permanent Select committee <sup>1</sup> on Intelligence, the Committee on Energy and Commerce, the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Science, Space, and Technology, the Committee on Appropriations, the Committee on Financial Services, the Committee on Homeland Security, and the Committee on Ways and Means of the House of Representatives..<sup>2</sup>
 
-&emsp;(2) The term "covered entity" means a private entity, a consortium of private entities, or a consortium of public and private entities with a demonstrated ability to substantially finance, construct, expand, or modernize a facility relating to fabrication, assembly, testing, advanced packaging, or research and development of semiconductors.
+&emsp;(2) The term "covered entity" means a nonprofit entity, a private entity, a consortium of private entities, or a consortium of nonprofit, public, and private entities with a demonstrated ability to substantially finance, construct, expand, or modernize a facility relating to fabrication, assembly, testing, advanced packaging, production, or research and development of semiconductors, materials used to manufacture semiconductors, or semiconductor manufacturing equipment.
 
 &emsp;(3) The term "covered incentive":
 
@@ -18,7 +18,21 @@ In this chapter:
 
 &emsp;(4) The term "person" includes an individual, partnership, association, corporation, organization, or any other combination of individuals.
 
-&emsp;(5) The term "foreign entity"—
+&emsp;(5) The term "critical manufacturing industry"—
+
+&emsp;&emsp;(A) means an industry, industry group, or a set of related industries or related industry groups—
+
+&emsp;&emsp;&emsp;(i) assigned a North American Industry Classification System code beginning with 31, 32, or 33; and
+
+&emsp;&emsp;&emsp;(ii) for which the applicable industry group or groups in the North American Industry Classification System code cumulatively—
+
+&emsp;&emsp;&emsp;&emsp;(I) manufacture primary products and parts, the sum of which account for not less than 5 percent of the manufacturing value added by industry gross domestic product of the United States; and
+
+&emsp;&emsp;&emsp;&emsp;(II) employ individuals for primary products and parts manufacturing activities that, combined, account for not less than 5 percent of manufacturing employment in the United States; and
+
+&emsp;&emsp;(B) may include any other manufacturing industry designated by the Secretary based on the relevance of the manufacturing industry to the national and economic security of the United States, including the impacts of job losses.
+
+&emsp;(6) The term "foreign entity"—
 
 &emsp;&emsp;(A) means—
 
@@ -36,7 +50,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iii) any person who acts in any other capacity at the order, request, or under the direction or control, of an entity listed in subparagraph (A), or of a person whose activities are directly or indirectly supervised, directed, controlled, financed, or subsidized in whole or in majority part by an entity listed in subparagraph (A);
 
-&emsp;&emsp;&emsp;(iv) any person who directly or indirectly through any contract, arrangement, understanding, relationship, or otherwise, owns 25 percent or more of the equity interests of an entity listed in subparagraph (A);
+&emsp;&emsp;&emsp;(iv) any person who directly or indirectly through any contract, arrangement,understanding, relationship, or otherwise, owns 25 percent or more of the equity interests of an entity listed in subparagraph (A);
 
 &emsp;&emsp;&emsp;(v) any person with significant responsibility to control, manage, or direct an entity listed in subparagraph (A);
 
@@ -44,7 +58,13 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(vii) any corporation, partnership, association, or other organization organized under the laws of a country controlled by an entity listed in subparagraph (A).
 
-&emsp;(6) The term "foreign entity of concern" means any foreign entity that is—
+&emsp;(7) The term "foreign country of concern" means—
+
+&emsp;&emsp;(A) a country that is a covered nation (as defined in section 4872(d) of title 10); and
+
+&emsp;&emsp;(B) any country that the Secretary, in consultation with the Secretary of Defense, the Secretary of State, and the Director of National Intelligence, determines to be engaged in conduct that is detrimental to the national security or foreign policy of the United States.
+
+&emsp;(8) The term "foreign entity of concern" means any foreign entity that is—
 
 &emsp;&emsp;(A) designated as a foreign terrorist organization by the Secretary of State under section 1189 of title 8;
 
@@ -70,27 +90,131 @@ In this chapter:
 
 &emsp;&emsp;(E) determined by the Secretary, in consultation with the Secretary of Defense and the Director of National Intelligence, to be engaged in unauthorized conduct that is detrimental to the national security or foreign policy of the United States under this chapter.
 
-&emsp;(7) The term "governmental entity" means a State or local government.
+&emsp;(9) The term "governmental entity" means a State or local government.
 
-&emsp;(8) The term "Secretary" means the Secretary of Commerce.
+&emsp;(10) The term "mature technology node" has the meaning given the term by the Secretary.
 
-&emsp;(9) The term "semiconductor" has the meaning given that term by the Secretary.
+&emsp;(11) The term "nonprofit entity" means an entity described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of title 26.
 
-(Pub. L. 116–283, div. H, title XCIX, §9901, Jan. 1, 2021, 134 Stat. 4843.)
+&emsp;(12) The term "Secretary" means the Secretary of Commerce.
+
+&emsp;(13) The term "semiconductor" has the meaning given that term by the Secretary.
+
+(Pub. L. 116–283, div. H, title XCIX, §9901, Jan. 1, 2021, 134 Stat. 4843; Pub. L. 117–167, div. A, §103(a), Aug. 9, 2022, 136 Stat. 1379.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 2533c of title 10, referred to par. (6)(C), was renumbered section 4872 of title 10 by Pub. L. 116–283, div. A, title XVIII, §1870(d)(2), Jan. 1, 2021, 134 Stat. 4286, as amended by Pub. L. 117–81, div. A, title XVII, §1701(t)(2)(B), (C), Dec. 27, 2021, 135 Stat. 2150.
+Section 2533c of title 10, referred to par. (8)(C), was renumbered section 4872 of title 10 by Pub. L. 116–283, div. A, title XVIII, §1870(d)(2), Jan. 1, 2021, 134 Stat. 4286, as amended by Pub. L. 117–81, div. A, title XVII, §1701(t)(2)(B), (C), Dec. 27, 2021, 135 Stat. 2150.
 
-The Arms Export Control Act, referred to in par. (6)(D)(iv), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+The Arms Export Control Act, referred to in par. (8)(D)(iv), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-The Export Control Reform Act of 2018, referred to in par. (6)(D)(vi), is subtitle B (§§1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
+The Export Control Reform Act of 2018, referred to in par. (8)(D)(vi), is subtitle B (§§1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
 
-The International Economic Emergency Powers Act, referred to in par. (6)(D)(vii), probably should be theInternational Emergency Economic Powers Act, which is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626 and is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
+The International Economic Emergency Powers Act, referred to in par. (8)(D)(vii), probably should be the International Emergency Economic Powers Act, which is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626 and is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
-This chapter, referred to in par. (6)(E), was in the original "this Act" and was translated as reading "this title", meaning title XCIX of div. H of Pub. L. 116–283, to reflect the probable intent of Congress.
+This chapter, referred to in par. (8)(E), was in the original "this Act" and was translated as reading "this title", meaning title XCIX of div. H of Pub. L. 116–283, to reflect the probable intent of Congress.
+
+#### Amendments
+
+<b>2022</b>—Par. (2). Pub. L. 117–167, §103(a)(1), substituted "a nonprofit entity, a private entity, a consortium of private entities, or a consortium of nonprofit, public, and private entities" for "a private entity, a consortium of private entities, or a consortium of public and private entities" and "of semiconductors, materials used to manufacture semiconductors, or semiconductor manufacturing equipment." for "of semiconductors." and inserted "production," before "or research and development".
+
+Pars. (5), (6). Pub. L. 117–167, §103(a)(2), (3), added par. (5) and redesignated former par. (5) as (6). Former par. (6) redesignated (8).
+
+Par. (7). Pub. L. 117–167, §103(a)(4), added par. (7). Former par. (7) redesignated (9).
+
+Pars. (8), (9). Pub. L. 117–167, §103(a)(2), redesignated pars. (6) and (7) as (8) and (9), respectively. Former pars. (8) and (9) redesignated (12) and (13), respectively.
+
+Pars. (10), (11). Pub. L. 117–167, §103(a)(5), added pars. (10) and (11).
+
+Pars. (12), (13). Pub. L. 117–167, §103(a)(2), redesignated pars. (8) and (9) as (12) and (13), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–167, div. A, §101, Aug. 9, 2022, 136 Stat. 1372, provided that: "This division \[enacting section4659 of this title and section 48D of Title 26, Internal Revenue Code, amending this section, sections 4652 and 4656 of this title, section 905 of Title 2, The Congress, sections 46, 49, 50, and 1371 of Title 26, and section 906 of Title 47, Telecommunications, and enacting provisions set out as notes under section 4652 of this title and section 905 of Title 2\] may be cited as the 'CHIPS Act of 2022'."
+
+#### <b>Executive Documents</b>
+
+#### Ex. Ord. No. 14080. Implementation of the CHIPS Act of 2022
+
+Ex. Ord. No. 14080, Aug. 25, 2022, 87 F.R. 52847, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to effectively implement the incentives for semiconductor research, development, and manufacturing provided by division A of H.R. 4346 (the "Act"), it is hereby ordered as follows:
+
+Section 1. <i>Background</i>. The Act, known as the Creating Helpful Incentives to Produce Semiconductors (CHIPS) Act of 2022 \[div. A of Pub. L. 117–167\], will make transformative investments to restore and advance our Nation's leadership in the research, development, and manufacturing of semiconductors. These investments will strengthen our Nation's manufacturing and industrial base; create well-paying, high-skilled jobs in construction, manufacturing, and maintenance; catalyze regional economic development throughout the country; bolster United States technology leadership; and reduce our dependence on critical technologies from China and other vulnerable or overly concentrated foreign supply chains.
+
+Meeting these objectives will require effective implementation of the Act by my Administration, in collaboration with State, local, Tribal, and territorial governments; the private sector; institutions of higher education; workforce development organizations; labor unions and other worker organizations; and allied and partner countries.
+
+Sec. 2. <i>Implementation Priorities</i>. In implementing the Act, all agencies (as described in section 3502(1) of title 44, United States Code, except for the agencies described in section 3502(5) of title 44) shall, as appropriate and to the extent consistent with law, prioritize:
+
+(a) protecting taxpayer resources, including by ensuring strong compliance and accountability measures for funding recipients;
+
+(b) meeting economic, sustainability, and national security needs, including by building domestic manufacturing capacity that reduces reliance on vulnerable or overly concentrated foreign production for both leading-edge and mature microelectronics;
+
+(c) ensuring long-term leadership in the microelectronics sector, including by establishing a dynamic, collaborative network for microelectronics research and innovation to enable long-term United States leadership in critical industries;
+
+(d) catalyzing private-sector investment, including by reducing risk and maximizing large-scale private investment in production, breakthrough technologies, and worker and workforce development;
+
+(e) generating benefits—such as well-paying, high-skilled union jobs and opportunities for startups; small businesses; and minority-owned, veteran-owned, and women-owned businesses—for a broad range of stakeholders and communities, including by investing in disadvantaged communities and by partnering with State, local, Tribal, and territorial governments and with institutions of higher education; and
+
+(f) strengthening and expanding regional manufacturing and innovation ecosystems, including by investing in suppliers, manufacturers, workforce development, basic and translational research, and related infrastructure and cybersecurity throughout the microelectronics supply chain, and by facilitating the expansion, creation, and coordination of semiconductor clusters.
+
+Sec. 3. <i>CHIPS Implementation Steering Council</i>. (a) There is established within the Executive Office of the President the CHIPS Implementation Steering Council (Steering Council). The function of the Steering Council is to coordinate policy development to ensure the effective implementation of the Act within the executive branch.
+
+(b) The Assistant to the President for Economic Policy, the Assistant to the President for National Security Affairs, and the Director of the Office of Science and Technology Policy shall serve as Co-Chairs of the Steering Council.
+
+(c) In addition to the Co-Chairs, the Steering Council shall consist of the following members:
+
+(i) the Secretary of State;
+
+(ii) the Secretary of the Treasury;
+
+(iii) the Secretary of Defense;
+
+(iv) the Secretary of Commerce;
+
+(v) the Secretary of Labor;
+
+(vi) the Secretary of Energy;
+
+(vii) the Director of the Office of Management and Budget;
+
+(viii) the Administrator of the Small Business Administration;
+
+(ix) the Director of National Intelligence;
+
+(x) the Assistant to the President for Domestic Policy;
+
+(xi) the Chair of the Council of Economic Advisers;
+
+(xii) the National Cyber Director;
+
+(xiii) the Director of the National Science Foundation; and
+
+(xiv) the heads of such other executive departments, agencies, and offices as the Co-Chairs may from time to time invite to participate.
+
+(d) The Co-Chairs may create and coordinate subgroups consisting of Steering Council members or their designees, as appropriate.
+
+(e) The Co-Chairs may consult with leaders from industry, labor unions and other worker organizations, institutions of higher education, research institutions, and civil society, as appropriate and consistent with law, to provide individual perspectives and advice to the Steering Council on the effective implementation of the Act.
+
+(f) The Co-Chairs may consult with the President's Council of Advisors on Science and Technology, as appropriate and consistent with law, to provide advice to the Steering Council.
+
+Sec. 4. <i>Effective and Efficient Stewardship and Oversight of Taxpayer Resources</i>. The Director of the Office of Management and Budget shall take appropriate actions to promote and monitor, with respect to execution of the Act, the effective and efficient stewardship and oversight of taxpayer resources, in collaboration with the Steering Council and the heads of agencies responsible for implementing the Act.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Committee".</i>
 

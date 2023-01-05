@@ -128,7 +128,7 @@ The Secretary shall establish a program meeting the requirements of this section
 
 #### (d) Verification by Secretary
 
-In the case of information provided under subsection (b) that is not required under subsection (c) to be submitted to another person for verification, the Secretary shall verify the accuracy of such information in such manner as the Secretary determines appropriate, including delegating responsibility for verification to the Exchange.
+In the case of information provided under subsection (b) that is not required under subsection\(c) to be submitted to another person for verification, the Secretary shall verify the accuracy of such information in such manner as the Secretary determines appropriate, including delegating responsibility for verification to the Exchange.
 
 #### (e) Actions relating to verification
 
@@ -162,7 +162,7 @@ In the case of information provided under subsection (b) that is not required un
 
 #### (i) Reasonable effort
 
-&emsp;&emsp;&emsp;The Exchange shall make a reasonable effort to identify and address the causes of such inconsistency, including through typographical or other clerical errors, bycontacting the applicant to confirm the accuracy of the information, and by taking such additional actions as the Secretary, through regulation or other guidance, may identify.
+&emsp;&emsp;&emsp;The Exchange shall make a reasonable effort to identify and address the causes of such inconsistency, including through typographical or other clerical errors, by contacting the applicant to confirm the accuracy of the information, and by taking such additional actions as the Secretary, through regulation or other guidance, may identify.
 
 #### (ii) Notice and opportunity to correct
 

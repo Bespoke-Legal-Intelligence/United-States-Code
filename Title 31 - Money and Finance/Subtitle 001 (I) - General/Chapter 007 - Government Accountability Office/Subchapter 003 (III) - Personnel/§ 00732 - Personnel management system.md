@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(E) the appropriate distribution of agency funds between annual adjustments under this section and performance-based compensation; and
 
-&emsp;&emsp;(F) such other criteria as the Comptroller General considers appropriate, including, but not limited to, the funding level for theOffice, amounts allocated for performance-based compensation, and the extent to which the Office is succeeding in fulfilling its mission and accomplishing its strategic plan;
+&emsp;&emsp;(F) such other criteria as the Comptroller General considers appropriate, including, but not limited to, the funding level for the Office, amounts allocated for performance-based compensation, and the extent to which the Office is succeeding in fulfilling its mission and accomplishing its strategic plan;
 
 > &emsp;notwithstanding any other provision of this paragraph, an adjustment under this paragraph shall not be applied in the case of any officer or employee whose performance is not at a satisfactory level, as determined by the Comptroller General for purposes of such adjustment;
 
@@ -142,7 +142,7 @@
 
 &emsp;(D) the term "nonpermanent merit pay" means any amount payable under section 731(b) which does not constitute basic pay.
 
-(2)(A) Notwithstanding any other provision of this chapter, if (disregarding this subsection) the pay increase that would otherwise take effect with respect to a covered officer or employee in a year would be less than the required minimum percentage for such officer or employee in such year, the Comptroller Generalshall provide for a further increase in the rate of basic pay of such officer or employee.
+(2)(A) Notwithstanding any other provision of this chapter, if (disregarding this subsection) the pay increase that would otherwise take effect with respect to a covered officer or employee in a year would be less than the required minimum percentage for such officer or employee in such year, the Comptroller General shall provide for a further increase in the rate of basic pay of such officer or employee.
 
 (B) The further increase under this subsection—
 
@@ -236,7 +236,7 @@ Section 4(c)(1) of the Government Accountability Office Act of 2008, referred to
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(2). Pub. L. 110–323, §8, substituted "rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5" for "highest basic rate for GS–15".
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–323, §8, substituted "rate for level III of the Executive Level, except thatthe total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5" for "highest basic rate for GS–15".
 
 Subsec. (j). Pub. L. 110–323, §2(a), added subsec. (j).
 
@@ -246,7 +246,7 @@ Subsec. (b)(6). Pub. L. 108–271, §3(c), substituted "title 5, except as provi
 
 Subsec. (c)(3). Pub. L. 108–271, §3(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "except as provided under section 733(a)(3)(B) of this title or section 5349(a) of title 5, basic pay rates of officers and employees of the Office shall be adjusted at the same time and to the same extent as basic pay rates of the General Schedule are adjusted;".
 
-Subsec. (c)(5). Pub. L. 108–271, §4, amended par. (5) generally. Prior to amendment, par. (5) read as follows: "officers and employees of the Office are entitled tograde and basic pay retention consistent with subchapter VI of chapter 53 of title 5."
+Subsec. (c)(5). Pub. L. 108–271, §4, amended par. (5) generally. Prior to amendment, par. (5) read as follows: "officers and employees of the Office are entitled to grade and basic pay retention consistent with subchapter VI of chapter 53 of title 5."
 
 Subsec. (d)(1). Pub. L. 108–271, §4, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "for a system to appraise the performance of officers and employees of the General Accounting Office that meets the requirements of section 4302 of title 5;".
 
@@ -330,7 +330,7 @@ Pay Increase Defined.—For purposes of this section, the term 'pay increase', a
 
 "(c)
 
-Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
+Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier dateas the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
 
 "(d)
 
@@ -422,7 +422,7 @@ Qualified Individual.—For purposes of this section, the term 'qualified indivi
 
 &emsp;&emsp;"(C) an individual participating in a development program under which such individual receives performance appraisals, and is eligible to receive permanent merit pay increases, more than once a year; and
 
-&emsp;"(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staff member with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
+&emsp;"(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staffmember with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
 
 "(d)
 

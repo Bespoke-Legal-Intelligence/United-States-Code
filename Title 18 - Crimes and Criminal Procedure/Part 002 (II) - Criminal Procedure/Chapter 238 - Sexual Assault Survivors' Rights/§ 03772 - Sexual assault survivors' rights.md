@@ -2,7 +2,7 @@
 
 (a)
 
-Rights of Sexual Assault Survivors.—In addition to those rights provided in section 3771,a sexual assault survivor has the following rights:
+Rights of Sexual Assault Survivors.—In addition to those rights provided in section 3771, a sexual assault survivor has the following rights:
 
 &emsp;(1) The right not to be prevented from, or charged for, receiving a medical forensic examination.
 
@@ -10,9 +10,11 @@ Rights of Sexual Assault Survivors.—In addition to those rights provided in se
 
 &emsp;&emsp;(A) subject to paragraph (3), have a sexual assault evidence collection kit or its probative contents preserved, without charge, for the duration of the maximum applicable statute of limitations or 20 years, whichever is shorter;
 
-&emsp;&emsp;(B) be informed of any result of a sexual assault evidence collection kit, including a DNA profile match, toxicology report, or other information collected as part of a medical forensic examination, if such disclosure would not impede or compromise an ongoing investigation; and
+&emsp;&emsp;(B) be informed of any result of a sexual assault evidence collection kit, including a DNA profile match, toxicology report, or other information collected as part of a medical forensic examination, if such disclosure would not impede or compromise an ongoing investigation;
 
-&emsp;&emsp;(C) be informed in writing of policies governing the collection and preservation of a sexual assault evidence collection kit.
+&emsp;&emsp;(C) be informed in writing of policies governing the collection and preservation of a sexual assault evidence collection kit; and
+
+&emsp;&emsp;(D) be informed of the status and location of a sexual assault evidence collection kit.
 
 &emsp;(3) The right to—
 
@@ -34,7 +36,7 @@ Definition of Sexual Assault.—In this section, the term "sexual assault" means
 
 Funding.—This section, other than paragraphs (2)(A) and (3)(B) of subsection (a), shall be carried out using funds made available under section 1402(d)(3)(A)(i) of the Victims of Crime Act of 1984 (42 U.S.C. 10601(d)(3)(A)(i)).<sup>1</sup> No additional funds are authorized to be appropriated to carry out this section.
 
-(Added Pub. L. 114–236, §2(a), Oct. 7, 2016, 130 Stat. 966.)
+(Added Pub. L. 114–236, §2(a), Oct. 7, 2016, 130 Stat. 966; amended Pub. L. 117–103, div. W, title XV, §1505, Mar. 15, 2022, 136 Stat. 956.)
 
 #### <b>Editorial Notes</b>
 
@@ -45,6 +47,16 @@ Section 1402(d)(3)(A)(i) of the Victims of Crime Act of 1984, referred to in sub
 #### Prior Provisions
 
 A prior section 3772, acts June 25, 1948, ch. 645, 62 Stat. 846; May 24, 1949, ch. 139, §60, 63 Stat. 98; July 7, 1958, Pub. L. 85–508, §12(l), 72 Stat. 348; Mar. 18, 1959, Pub. L. 86–3, §14(h), 73 Stat. 11; Oct. 12, 1984, Pub. L. 98–473, title II, §206, 98 Stat. 1986, related to procedure after verdict, prior to repeal by Pub. L. 100–702, title IV, §§404(a), 407, Nov. 19, 1988, 102 Stat. 4651, 4652, effective Dec. 1, 1988.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a)(2)(D). Pub. L. 117–103 added subpar. (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

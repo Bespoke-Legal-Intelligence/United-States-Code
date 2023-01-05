@@ -1,4 +1,4 @@
-### §8813. Subcommittee on Quantum Information Science.
+### §8813. Subcommittee on Quantum Information Science
 
 #### (a) Establishment
 
@@ -44,7 +44,7 @@ The Subcommittee shall—
 
 &emsp;(5) assess the global outlook for quantum information science research and development efforts;
 
-&emsp;(6) evaluate opportunities for international cooperation with strategic allies on research and development in quantum information science and technology; and
+&emsp;(6) evaluate opportunities for international cooperation with strategic allies on researchand development in quantum information science and technology; and
 
 &emsp;(7) propose a coordinated interagency budget for the Program to the Office of Management and Budget to ensure the maintenance of a balanced quantum information science research portfolio and an appropriate level of research effort.
 
@@ -78,9 +78,37 @@ The chairpersons of the Subcommittee shall submit to the President, the Advisory
 
 &emsp;&emsp;(C) An analysis of the progress made toward achieving the goals and priorities established under subsection (d)(2).
 
-(Pub. L. 115–368, title I, §103, Dec. 21, 2018, 132 Stat. 5095.)
+#### (h) Report on quantum networking and communications
+
+#### (1) In general
+
+&emsp;Not later than January 1, 2026, the Quantum Networking Working Group within the Subcommittee on Quantum Information Science of the National Science and Technology Council, in coordination with the Subcommittee on the Economic and Security Implications of Quantum Information Science, shall submit to the appropriate committees of Congress a report detailing a plan for the advancement of quantum networking and communications technology in the United States, building on the report entitled <i>A Strategic Vision for America's Quantum Networks and A Coordinated Approach for Quantum Networking Research</i>.
+
+#### (2) Requirements
+
+&emsp;The report under paragraph (1) shall include the following:
+
+&emsp;&emsp;(A) An update to the report entitled <i>Coordinated Approach to Quantum Networking Research Report</i> focusing on a framework for interagency collaboration regarding the advancement of quantum networking and communications research.
+
+&emsp;&emsp;(B) A plan for Federal Government partnership with the private sector and interagency collaboration regarding engagement in international standards for quantum networking and communications technology, including a list of Federal priorities for standards relating to such networking and technology.
+
+&emsp;&emsp;(C) A proposal for the protection of national security interests relating to the advancement of quantum networking and communications technology.
+
+&emsp;&emsp;(D) An assessment of the relative position of the United States with respect to other countries in the global race to develop, demonstrate, and utilize quantum networking and communications technology.
+
+&emsp;&emsp;(E) Recommendations to Congress for legislative action relating to the matters considered under subparagraphs (A), (B), (C), and (D).
+
+&emsp;&emsp;(F) Such other matters as the Quantum Network Working Group considers necessary to advance the security of communications and network infrastructure, remain at the forefront of scientific discovery in the quantum information science domain, and transition quantum information science research into the emerging quantum technology economy.
+
+(Pub. L. 115–368, title I, §103, Dec. 21, 2018, 132 Stat. 5095; Pub. L. 117–167, div. B, title VI, §10661(b)(1), Aug. 9, 2022, 136 Stat. 1683.)
 
 #### Termination of Section
 
 <i>For termination of section, see section 8815 of this title.</i>
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–167 added subsec. (h).
 

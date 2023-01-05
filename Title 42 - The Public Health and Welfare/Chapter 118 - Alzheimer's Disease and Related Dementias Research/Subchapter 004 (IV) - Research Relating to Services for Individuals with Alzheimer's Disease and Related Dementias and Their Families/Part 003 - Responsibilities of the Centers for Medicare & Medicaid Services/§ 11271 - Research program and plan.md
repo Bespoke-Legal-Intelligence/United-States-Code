@@ -20,7 +20,7 @@ The Administrator of the Centers for Medicare \& Medicaid Services shall conduct
 
 #### (c) Consultation for preparation and revision of plan
 
-In preparing and revising the plan required by subsection (b), the Administrator of the Centers for Medicare \& Medicaid Services shall consultwith the Chairman of the Council and the heads of agencies within the Department.
+In preparing and revising the plan required by subsection (b), the Administrator of the Centers for Medicare \& Medicaid Services shall consult with the Chairman of the Council and the heads of agencies within the Department.
 
 (Pub. L. 99–660, title IX, §937, formerly §949A, Nov. 14, 1986, 100 Stat. 3812; renumbered §937, Pub. L. 100–607, title I, §142(c)(2)(B), Nov. 4, 1988, 102 Stat. 3057; amended Pub. L. 108–173, title IX, §900(e)(5)(B), Dec. 8, 2003, 117 Stat. 2373.)
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) publicizing existing sources of financial aid available to students in the education program of such a school or who are undertaking training necessary to qualify them to enroll in such a program;
 
-&emsp;&emsp;(F) paying such scholarships as the Secretary may determine for such individualsfor any period of health professions education at a health professions school;
+&emsp;&emsp;(F) paying such scholarships as the Secretary may determine for such individuals for any period of health professions education at a health professions school;
 
 &emsp;&emsp;(G) paying such stipends as the Secretary may approve for such individuals for any period of education in student-enhancement programs (other than regular courses), except that such a stipend may not be provided to an individual for more than 12 months, and such a stipend shall be in an amount determined appropriate by the Secretary (notwithstanding any other provision of law regarding the amount of stipends);
 
@@ -36,7 +36,7 @@
 
 In making awards to eligible entities under subsection (a)(1), the Secretary shall give preference to approved applications for programs that involve a comprehensive approach by several public or nonprofit private health or educational entities to establish, enhance and expand educational programs that will result in the development of a competitive applicant pool of individuals from disadvantaged backgrounds who desire to pursue health professions careers. In considering awards for such a comprehensive partnership approach, the following shall apply with respect to the entity involved:
 
-&emsp;(1) The entity shall have a demonstrated commitment to such approach through formal agreements that have common objectives with institutions of higher education, school districts, and other community-based entities.
+&emsp;(1) The entity shall have a demonstrated commitment to such approach through formalagreements that have common objectives with institutions of higher education, school districts, and other community-based entities.
 
 &emsp;(2) Such formal agreements shall reflect the coordination of educational activities and support services, increased linkages, and the consolidation of resources within a specific geographic area.
 

@@ -12,7 +12,7 @@
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter335 of this title as this chapter and items 3281 to 3283 as 7151 to 7153, respectively.
+<b>2018</b>—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 335 of this title as this chapter and items 3281 to 3283 as 7151 to 7153, respectively.
 
 Pub. L. 115–232, div. A, title V, §511(b), Aug. 13, 2018, 132 Stat. 1751, struck out item 3310 "Warrant officers: original appointment; qualifications".
 

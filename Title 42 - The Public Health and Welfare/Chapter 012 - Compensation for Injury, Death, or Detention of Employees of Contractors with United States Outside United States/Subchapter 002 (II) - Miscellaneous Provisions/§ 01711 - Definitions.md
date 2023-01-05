@@ -4,7 +4,7 @@ When used in this chapter—
 
 (a) The term "Secretary" means the Secretary of Labor.
 
-(b) The term "war-risk hazard" means any hazard arising during a war in which the United States is engaged; during an armed conflict in which the United States is engaged, whether or not war has been declared; or during a war or armed conflict between military forces of any origin, occurring within any country in which a person covered by this chapter is serving; from—
+(b) The term "war-risk hazard" means any hazard arising during a war in which the United States is engaged; during an armed conflict in which the United States is engaged, whether or not war has been declared; or during a war orarmed conflict between military forces of any origin, occurring within any country in which a person covered by this chapter is serving; from—
 
 &emsp;(1) the discharge of any missile (including liquids and gas) or the use of any weapon, explosive, or other noxious thing by a hostile force or person or in combating an attack or an imagined attack by a hostile force or person; or
 
@@ -18,7 +18,7 @@ When used in this chapter—
 
 (c) The term "hostile force or person" means any nation, any subject of a foreign nation, or any other person serving a foreign nation (1) engaged in a war against the United States or any of its allies, (2) engaged in armed conflict, whether or not war has been declared, against the United States or any of its allies, or (3) engaged in a war or armed conflict between military forces of any origin in any country in which a person covered by this chapter is serving.
 
-(d) The term "allies" means any nation with which the United States is engaged in a common military effort or with which the United Stateshas entered into a common defensive military alliance.
+(d) The term "allies" means any nation with which the United States is engaged in a common military effort or with which the United States has entered into a common defensive military alliance.
 
 (e) The term "war activities" includes activities directly relating to military operations.
 

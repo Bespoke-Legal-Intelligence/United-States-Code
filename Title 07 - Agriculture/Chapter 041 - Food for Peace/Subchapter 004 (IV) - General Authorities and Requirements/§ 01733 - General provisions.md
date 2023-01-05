@@ -120,7 +120,7 @@ Local currencies that are made available for use under this chapter may not be u
 
 #### References in Text
 
-The Food for Progress Act of 1985, referred to in subsec. (l)(1)(C), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, as amended, which is classified to section 1736o of this title.
+The Food for Progress Act of 1985, referred to in subsec. (l)(1)(C), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736o of this title.
 
 #### Amendments
 
@@ -184,7 +184,9 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as a note under section 1691 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-Functions of President under subsec. (j) of this section delegated to Secretary of State by section 4(b) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
+Functions of President under subsec. (j) of this section delegated to Secretary of State by section 4(b) ofEx. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 

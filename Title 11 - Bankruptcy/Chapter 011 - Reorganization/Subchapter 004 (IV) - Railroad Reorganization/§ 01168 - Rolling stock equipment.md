@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(II) the expiration of such 60-day period; and
 
-&emsp;&emsp;(iii) that occurs on or after the expiration of such 60-day period is cured in accordance with the terms of such security agreement, lease, or conditional sale contract, if cure is permitted under that agreement, lease, or conditional sale contract.
+&emsp;&emsp;(iii) that occurs on or after the expiration of such 60-day period is cured in accordance with the terms of such security agreement,lease, or conditional sale contract, if cure is permitted under that agreement, lease, or conditional sale contract.
 
 (2) The equipment described in this paragraph—
 

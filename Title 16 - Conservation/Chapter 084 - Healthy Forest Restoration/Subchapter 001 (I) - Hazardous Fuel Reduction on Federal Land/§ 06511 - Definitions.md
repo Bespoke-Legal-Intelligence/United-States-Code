@@ -116,7 +116,7 @@ In this subchapter:
 
 #### (11) Implementation Plan
 
-&emsp;The term "Implementation Plan" means the Implementation Plan for the Comprehensive Strategy for a Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment, dated May 2002, developed pursuant to the conference report to accompany the Department of the Interior and Related Agencies Appropriations Act, 2001 (House Report No. 106–64) (and subsequent revisions).
+&emsp;The term "Implementation Plan" means the Implementation Plan for the Comprehensive Strategy for a Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment, dated May 2002, developed pursuant to the conference report to accompany the Department of the Interior and Related Agencies Appropriations Act, 2001 (House Report No. 106–64) <sup>1</sup> (and subsequent revisions).
 
 #### (12) Municipal water supply system
 
@@ -176,9 +176,13 @@ In this subchapter:
 
 The Department of the Interior and Related Agencies Appropriations Act, 2001, referred to in pars. (1)(A)(i) and (11), is Pub. L. 106–291, Oct. 11, 2000, 114 Stat. 922. Title IV of the act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+House Report No. 106–64, referred to in par. (11), does not exist. However, there was a House Report No. 106–646 that accompanied H.R. 4578, which became the Department of the Interior and Related Agencies Appropriations Act, 2001. The conference report that accompanied H.R. 4578 was H. Rept. 106–914.
+
+The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Amendments
 
 <b>2018</b>—Par. (2). Pub. L. 115–141 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

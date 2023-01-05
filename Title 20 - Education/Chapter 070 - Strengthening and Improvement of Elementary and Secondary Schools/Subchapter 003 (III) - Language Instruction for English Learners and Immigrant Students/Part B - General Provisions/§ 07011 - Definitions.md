@@ -42,7 +42,7 @@ Except as otherwise provided, in this subchapter:
 
 &emsp;&emsp;(A) in which an English learner is placed for the purpose of developing and attaining English proficiency, while meeting challenging State academic standards; and
 
-&emsp;&emsp;(B) that may make instructional use of both English and a child's native language to enable the child to develop and attain English proficiency, and may include the participation of English proficient children if such course is designed to enable all participating children to become proficient in English and a second language.
+&emsp;&emsp;(B) that may make instructional use of both English and a child's native language to enable the child to develop and attain English proficiency, and may include the participation of English proficient childrenif such course is designed to enable all participating children to become proficient in English and a second language.
 
 #### (8) Native American and Native American language
 
@@ -98,7 +98,7 @@ Except as otherwise provided, in this subchapter:
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Prior Provisions
 
@@ -108,7 +108,7 @@ Another prior section 3201 of Pub. L. 89–10 was classified to section 6891 of 
 
 #### Amendments
 
-<b>2015</b>—Pars. (3), (4). Pub. L. 114–95, §3004(a)(1), (2), added pars. (3) and (4) and struck out former pars. (3)and (4) which defined "community college" and "Director", respectively.
+<b>2015</b>—Pars. (3), (4). Pub. L. 114–95, §3004(a)(1), (2), added pars. (3) and (4) and struck out former pars. (3) and (4) which defined "community college" and "Director", respectively.
 
 Par. (5). Pub. L. 114–95, §3004(a)(1), (3), redesignated par. (6) as (5) and struck out former par. (5) which defined "family education program".
 

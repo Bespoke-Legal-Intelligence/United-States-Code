@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Fund
 
-There is established a Human Rights and Democracy Fund (in this section referred to as the "Fund") to be administered by the AssistantSecretary of State for Democracy, Human Rights, and Labor.
+There is established a Human Rights and Democracy Fund (in this section referred to as the "Fund") to be administered by the Assistant Secretary of State for Democracy, Human Rights, and Labor.
 
 #### (b) Purposes of Fund
 
@@ -38,11 +38,11 @@ The purposes of the Fund shall be—
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Act is classified generally to part IV (§2346 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified generally to part IV (§2346 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
-Section was enacted as part of the Freedom Investment Act of 2002, and also as part of the Department of State Authorization Act, Fiscal Year 2003 and the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section was enacted as part of the Freedom Investment Act of 2002, and also as part of the Department ofState Authorization Act, Fiscal Year 2003 and the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

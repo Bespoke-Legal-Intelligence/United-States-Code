@@ -8,7 +8,7 @@ The Director of the National Security Agency, in coordination with the Director 
 
 (1) In this section, the term "operational files" means—
 
-&emsp;(A) files of the Signals Intelligence Directorate of the National Security Agency (and any successor organization of that directorate) that document the means by which foreign intelligence or counterintelligence is collected through technical systems; and
+&emsp;(A) files of the Signals Intelligence Directorate of the National Security Agency (andany successor organization of that directorate) that document the means by which foreign intelligence or counterintelligence is collected through technical systems; and
 
 &emsp;(B) files of the Research Associate Directorate of the National Security Agency (and any successor organization of that directorate) that document the means by which foreign intelligence or counterintelligence is collected through scientific and technical systems.
 
@@ -72,7 +72,7 @@ The provisions of subsection (a) may not be superseded except by a provision of 
 
 &emsp;(E) In proceedings under subparagraphs (C) and (D), the parties may not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admissions may be made pursuant to rules 26 and 36.
 
-&emsp;(F) If the court finds under this subsection that the National Security Agency has improperly withheld requested records because of failure to comply with any provision of this subsection, the court shall order the Agency to search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5, and such order shall be the exclusive remedy for failure to comply with this section (other than subsection (g)).
+&emsp;(F) If the court finds under this subsection that the National Security Agency has improperly withheld requested records because of failure to comply with any provision of this subsection, the court shall order the Agencyto search and review the appropriate exempted operational file or files for the requested records and make such records, or portions thereof, available in accordance with the provisions of section 552 of title 5, and such order shall be the exclusive remedy for failure to comply with this section (other than subsection (g)).
 
 &emsp;(G) If at any time following the filing of a complaint pursuant to this paragraph the National Security Agency agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 

@@ -8,7 +8,7 @@
 
 (2) The President shall make water designations under this subsection with regard to the public interest, the effective use of navigable waters, marine safety, and the foreign relations of the United States.
 
-(b) A member of the complement of a vessel of the United States operating on register or of avessel of Canada may serve as the pilot required on waters not designated by the President if the member is licensed under section 7101 of this title, or under equivalent provisions of Canadian law, to direct the navigation of the vessel on the waters being navigated.
+(b) A member of the complement of a vessel of the United States operating on register or of a vessel of Canada may serve as the pilot required on waters not designated by the President if the member is licensed under section 7101 of this title, or under equivalent provisions of Canadian law, to direct the navigation of the vessel on the waters being navigated.
 
 (c) The authority extended under subsections (a) and (b) of this section to a Canadian registered pilot or other Canadian licensed officer to serve on certain vessels in United States waters of the Great Lakes shall continue as long as Canada extends reciprocity to United States registered pilots and other individuals licensed by the United States for pilotage service in Canadian waters of the Great Lakes.
 
@@ -46,7 +46,7 @@ Subsection (b) provides that a crewmember licensed for Great Lakes navigation un
 
 Subsection (c) provides for reciprocity of recognizing United States and Canadian pilots.
 
-Subsections (d) and (e) are exceptions to subsection (a). Subsection (d) permits operation of a vessel on the Great Lakes without a registered pilot if notice is given that one is not available or if the vessel or cargo is in distress or jeopardy. Subsection (e) exempts a Canadian vessel in the coastwise or Great Lakes trade from the requirement of having a registered pilot if similar United States vessels are extended the same exemption by Canada.
+Subsections (d) and (e) are exceptions to subsection (a). Subsection (d) permits operation of a vessel on the Great Lakes without a registered pilot if notice is given that one is not available or if the vessel or cargois in distress or jeopardy. Subsection (e) exempts a Canadian vessel in the coastwise or Great Lakes trade from the requirement of having a registered pilot if similar United States vessels are extended the same exemption by Canada.
 
 #### <b>Editorial Notes</b>
 

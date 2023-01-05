@@ -8,7 +8,7 @@ Beginning not later than 180 days after January 1, 2021, the Secretary, in consu
 
 To the extent authorized by section 4555 of title 50 and section <sup>1</sup> 702 of title 15, Code of Federal Regulations, the Secretary shall ensure all relevant potential respondents reply to the survey, including the following:
 
-&emsp;(1) Corporations, partnerships, associations, or any other organized groups domiciled andwith substantial operations in the United States.
+&emsp;(1) Corporations, partnerships, associations, or any other organized groups domiciled and with substantial operations in the United States.
 
 &emsp;(2) Corporations, partnerships, associations, or any other organized groups with a physical presence of any kind in the United States.
 

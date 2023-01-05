@@ -18,7 +18,7 @@ Services and Facilities of Other Entities.—For purposes of this subchapter, an
 
 (c)
 
-Expenses of Committee Members.—Members of a negotiated rulemaking committee shall be responsible for their own expenses of participation in such committee, except that an agency may, in accordance with section 7(d) of the Federal Advisory Committee Act, pay for a member's reasonable travel and per diem expenses, expenses to obtain technical assistance, and a reasonable rate of compensation, if—
+Expenses of Committee Members.—Members of a negotiated rulemaking committee shall be responsible for their own expenses of participation in such committee, except that an agency may, in accordance with section 1006(d) of this title, pay for a member's reasonable travel and per diem expenses, expenses to obtain technical assistance, and a reasonable rate of compensation, if—
 
 &emsp;(1) such member certifies a lack of adequate financial resources to participate in the committee; and
 
@@ -28,15 +28,13 @@ Expenses of Committee Members.—Members of a negotiated rulemaking committee sh
 
 Status of Member as Federal Employee.—A member's receipt of funds under this section or section 569 shall not conclusively determine for purposes of sections 202 through 209 of title 18 whether that member is an employee of the United States Government.
 
-(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4974, §588; renumbered §568 and amended Pub. L. 102–354, §3(a)(2), (4), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4974, §588; renumbered §568 and amended Pub. L. 102–354, §3(a)(2), (4), Aug. 26, 1992, 106 Stat. 944; Pub. L. 117–286, §4(a)(9), Dec. 27, 2022, 136 Stat. 4306.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 7(d) of the Federal Advisory Committee Act, referred to in subsec. (c), is section 7(d) of Pub. L. 92–463, which is set out in the Appendix to this title.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–286 substituted "section 1006(d) of this title," for "section 7(d) of the Federal Advisory Committee Act," in introductory provisions.
 
 <b>1992</b>—Pub. L. 102–354, §3(a)(2), renumbered section 588 of this title as this section.
 

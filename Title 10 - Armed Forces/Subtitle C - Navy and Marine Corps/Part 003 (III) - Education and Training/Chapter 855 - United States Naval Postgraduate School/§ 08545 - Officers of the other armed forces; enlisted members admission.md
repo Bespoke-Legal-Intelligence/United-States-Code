@@ -12,7 +12,7 @@
 
 (ii) To be eligible to be provided instruction under this subparagraph, the enlisted member must have been awarded a baccalaureate degree by an institution of higher education.
 
-(iii) Instruction under this subparagraph may be provided only on a space-available basis.
+(iii) Instruction under this subparagraph may be provided.
 
 (iv) An enlisted member who successfully completes a course of instruction under this subparagraph may be awarded a master's degree under section 8548 of this title.
 
@@ -30,7 +30,7 @@
 
 (d) The Secretary may not award a baccalaureate, masters, or doctorate degree to an enlisted member based upon instruction received at the Postgraduate School under subsection (a)(2)(C).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 437, §7045; Pub. L. 96–513, title V, §513(23), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(a), (b)(1), Nov. 18, 1997, 111 Stat. 1747; Pub. L. 105–261, div. A, title X, §1069(a)(6), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 107–296, title XVII, §1704(b)(5), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §532, Nov. 24, 2003, 117 Stat. 1472; Pub. L. 109–163, div. A, title V, §526(a), (b), Jan. 6, 2006, 119 Stat. 3245, 3246; Pub. L. 109–364, div. A, title V, §543(a)–(c), Oct. 17, 2006, 120 Stat. 2213; Pub. L. 115–91, div. A, title XVI, §1649(d)(3), Dec. 12, 2017, 131 Stat. 1753; renumbered §8545 and amended Pub. L. 115–232, div. A, title VIII, §§807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 437, §7045; Pub. L. 96–513, title V, §513(23), Dec. 12, 1980, 94 Stat. 2932; Pub. L. 105–85, div. A, title V, §551(a), (b)(1), Nov. 18, 1997, 111 Stat. 1747; Pub. L. 105–261, div. A, title X, §1069(a)(6), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 107–296, title XVII, §1704(b)(5), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §532, Nov. 24, 2003, 117 Stat. 1472; Pub. L. 109–163, div. A, title V, §526(a), (b), Jan. 6, 2006, 119 Stat. 3245, 3246; Pub. L. 109–364, div. A, title V, §543(a)–(c), Oct. 17, 2006, 120 Stat. 2213; Pub. L. 115–91, div. A, title XVI, §1649(d)(3), Dec. 12, 2017, 131 Stat. 1753; renumbered §8545 and amendedPub. L. 115–232, div. A, title VIII, §§807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840; Pub. L. 117–263, div. A, title V, §555(a), Dec. 23, 2022, 136 Stat. 2595.)
 
 Historical and Revision Notes
 
@@ -60,6 +60,8 @@ A prior section 8545, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, provided that 
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(2)(D)(iii). Pub. L. 117–263 struck out "only on a space-available basis" after "provided".
+
 <b>2018</b>—Pub. L. 115–232, §807(c)(1), renumbered section 7045 of this title as this section.
 
 Subsec. (a)(2)(D)(iv). Pub. L. 115–232, §809(a), substituted "section 8548" for "section 7048".
@@ -86,7 +88,7 @@ Subsec. (d). Pub. L. 109–163, §526(b), added subsec. (d).
 
 <b>2003</b>—Subsec. (a)(2). Pub. L. 108–136, §532(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary may permit an enlisted member of the armed forces who is assigned to the Naval Postgraduate School or to a nearby command to receive instruction at the Naval Postgraduate School. Admission of enlisted members for instruction under this paragraph shall be on a space-available basis."
 
-Subsec. (b). Pub. L. 108–136, §532(b), designated first sentence as par. (1) and substituted "Except as provided under paragraph (3), the Department" for "The Department" and "members" for "officers", designated second sentence as par. (2) and inserted "under subsection (a)(2)(C)" after "permitted" and "on a space-available basis" after "instruction at the Postgraduate School"and struck out "(taking into consideration the admission of enlisted members on a space-available basis)" before period at end, and added par. (3).
+Subsec. (b). Pub. L. 108–136, §532(b), designated first sentence as par. (1) and substituted "Except as provided under paragraph (3), the Department" for "The Department" and "members" for "officers", designated second sentence as par. (2) and inserted "under subsection (a)(2)(C)" after "permitted" and "on a space-available basis" after "instruction at the Postgraduate School" and struck out "(taking into consideration the admission of enlisted members on a space-available basis)" before period at end, and added par. (3).
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–296, §1704(b)(5)(A), substituted "Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security" for "Secretaries of the Army, Air Force, and Transportation".
 

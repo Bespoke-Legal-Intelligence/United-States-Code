@@ -10,7 +10,7 @@ Before opening or reopening a diplomatic or consular post, the Secretary shall d
 
 #### (c) Designating existing posts
 
-The Secretary shall regularly review existing diplomatic and consular posts to determine ifany such post should be designated as a high risk, high threat post if conditions at such post or the surrounding security environment require such a designation.
+The Secretary shall regularly review existing diplomatic and consular posts to determine if any such post should be designated as a high risk, high threat post if conditions at such post or the surrounding security environment require such a designation.
 
 #### (d) Definitions
 
@@ -32,7 +32,7 @@ In this section:
 
 &emsp;&emsp;(B) has mission physical security platforms that fall below the Department of State's established standards.
 
-(Pub. L. 99–399, title I, §104, as added Pub. L. 114–323, title I, §101(a), Dec. 16, 2016, 130 Stat. 1907; amended Pub. L. 115–94, §2(a), Dec. 18, 2017, 131 Stat. 2038.)
+(Pub. L. 99–399, title I, §104, as added Pub. L. 114–323, title I, §101(a), Dec. 16, 2016, 130 Stat.1907; amended Pub. L. 115–94, §2(a), Dec. 18, 2017, 131 Stat. 2038.)
 
 #### <b>Editorial Notes</b>
 

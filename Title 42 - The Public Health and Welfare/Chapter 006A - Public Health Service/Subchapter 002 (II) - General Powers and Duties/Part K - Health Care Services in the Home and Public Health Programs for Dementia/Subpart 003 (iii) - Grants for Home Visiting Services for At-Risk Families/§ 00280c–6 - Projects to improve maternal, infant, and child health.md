@@ -46,7 +46,7 @@ With respect to an eligible family, each of the following services shall, direct
 
 &emsp;(5) Education for the parents concerning behaviors that adversely affect health.
 
-&emsp;(6) Assistance in obtaining necessary health, mental health, developmental, social, housing, and nutrition services and other assistance, including services and other assistance under maternal and child health programs; the special supplemental nutrition program for women, infants, and children; section 1786 of this title; title V of the Social Security Act \[42 U.S.C. 701 et seq.\]; title XIX of such Act \[42 U.S.C. 1396 et seq.\] (including the program for early and periodic screening, diagnostic, and treatment services described in section 1905(r) of such Act \[42 U.S.C. 1396d(r)\]); titles IV and XIX of the Social Security Act \[42 U.S.C. 601 et seq., 1396 et seq.\]; housing programs; other food assistance programs; and appropriate alcohol and drug dependency treatment programs, according to need.
+&emsp;(6) Assistance in obtaining necessary health, mental health, developmental, social, housing, and nutrition services and other assistance, including services and other assistance under maternal and child health programs; the special supplemental nutrition program for women, infants, and children; section 1786 of this title; title V of the Social Security Act \[42 U.S.C. 701 et seq.\]; title XIX of such Act \[42 U.S.C. 1396 et seq.\] (including the program for early and periodic screening, diagnostic, and treatment services described in section 1905(r) of such Act \[42 U.S.C. 1396d(r)\]); titles IV and XIX of the Social Security Act \[42 U.S.C. 601 et seq., 1396 et seq.\]; housing programs; otherfood assistance programs; and appropriate alcohol and drug dependency treatment programs, according to need.
 
 #### (c) Considerations in making grants
 
@@ -94,7 +94,7 @@ For purposes of subsection (a)(1), a pregnant woman shall be considered to be at
 
 &emsp;&emsp;(A) the stated objective of the project to be operated with the grant, as determined after considering identified gaps in the current service delivery system; and
 
-&emsp;&emsp;(B) the nature of the needs of the family to be served, as determined at the initial assessment of the family that is conducted bythe case manager, and through follow-up contacts by other providers of home visiting services.
+&emsp;&emsp;(B) the nature of the needs of the family to be served, as determined at the initial assessment of the family that is conducted by the case manager, and through follow-up contacts by other providers of home visiting services.
 
 #### (4) Family service plan
 
@@ -216,7 +216,7 @@ The Secretary may make a grant under subsection (a) only if—
 
 &emsp;The Secretary shall, directly or through contracts with public or private entities—
 
-&emsp;&emsp;(A) conduct evaluations to determine the effectiveness of projects under subsection (a) in reducing the incidence of children born with health or developmental complications, the incidence among children less than 3 years of age of such complications, and the incidence of child abuse and neglect; and
+&emsp;&emsp;(A) conduct evaluations to determine the effectiveness of projects under subsection (a) in reducing the incidence of children born with health or developmental complications,the incidence among children less than 3 years of age of such complications, and the incidence of child abuse and neglect; and
 
 &emsp;&emsp;(B) not less than once during each 3-year period, prepare and submit to the appropriate committees of Congress a report concerning the results of such evaluations.
 
@@ -262,9 +262,9 @@ For the purpose of carrying out this section, there is authorized to be appropri
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(3)(A), (b)(6), and (m)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV, V, and XIX of the Act are classified generally to subchapters IV (§601 et seq.), V (§701 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (a)(3)(A), (b)(6), and (m)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles IV, V, and XIX of the Act are classified generally to subchapters IV (§601 et seq.), V (§701 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (n)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (n)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Prior Provisions
 
@@ -300,7 +300,7 @@ Pub. L. 102–321, title V, §501, July 10, 1992, 106 Stat. 426, provided that: 
 
 &emsp;"(2) to reduce the incidence of infant mortality and of infants born prematurely, with low birthweight, or with other impairments including those associated with maternal substance abuse;
 
-&emsp;"(3) for pregnant women and mothers of children below the age of 3 whose children have experienced or are at risk of experiencing a health or developmental complication, to provide assistance in obtaining health and related social services necessary to meet the special needs of the women and their children;
+&emsp;"(3) for pregnant women and mothers of children below the age of 3 whose children have experienced orare at risk of experiencing a health or developmental complication, to provide assistance in obtaining health and related social services necessary to meet the special needs of the women and their children;
 
 &emsp;"(4) to assist, when requested, women who are pregnant and at-risk for poor birth outcomes, or who have young children and are abusing alcohol or other drugs, in obtaining appropriate treatment; and
 

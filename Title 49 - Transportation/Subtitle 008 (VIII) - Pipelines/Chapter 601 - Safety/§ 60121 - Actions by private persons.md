@@ -16,7 +16,7 @@ General Authority.—(1) A person may bring a civil action in an appropriate dis
 
 (b)
 
-Costs and Fees.—The court may award costs, reasonable expert witness fees, and a reasonable attorney's fee to a prevailing plaintiff in a civil action under this section. The court may award costs to a prevailing defendant when the action is unreasonable, frivolous, or meritless. In this subsection, a reasonable attorney's fee is a fee—
+Costs and Fees.—The court may award costs, reasonable expert witness fees, and a reasonable attorney's fee to a prevailing plaintiff in a civil action under this section. The court mayaward costs to a prevailing defendant when the action is unreasonable, frivolous, or meritless. In this subsection, a reasonable attorney's fee is a fee—
 
 &emsp;(1) based on the actual time spent and the reasonable expenses of the attorney for legal services provided to a person under this section; and
 
@@ -28,7 +28,7 @@ State Violations as Violations of This Chapter.—In this section, a violation o
 
 (d)
 
-Additional Remedies.—A remedy under this section is in addition to any other remedies provided by law. This section does not restrict aright to relief that a person or a class of persons may have under another law or at common law.
+Additional Remedies.—A remedy under this section is in addition to any other remedies provided by law. This section does not restrict a right to relief that a person or a class of persons may have under another law or at common law.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1324.)
 

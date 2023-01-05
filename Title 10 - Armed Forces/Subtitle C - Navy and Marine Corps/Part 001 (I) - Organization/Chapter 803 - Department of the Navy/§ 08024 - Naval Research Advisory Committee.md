@@ -1,12 +1,12 @@
 ### §8024. Naval Research Advisory Committee
 
-(a) The Secretary of the Navy may appoint a Naval Research Advisory Committee consisting of not more than 15 civilians preeminent in the fields of science, research, and development work. One member of the Committee must be from the field of medicine. Each member serves for such term as the Secretary specifies.
+(a) The Secretary of the Navy may appoint a Naval Research Advisory Committee consisting of not more than 15 civilians preeminent in thefields of science, research, and development work. One member of the Committee must be from the field of medicine. Each member serves for such term as the Secretary specifies.
 
 (b) The Committee shall meet at such times as the Secretary specifies to consult with and advise the Chief of Naval Operations and the Chief of Naval Research.
 
 (c) No law imposing restrictions, requirements, or penalties in relation to the employment of persons, the performance of services, the payment or receipt of compensation in connection with any claim, proceeding, or matter involving the United States applies to members of the Committee solely by reason of their membership on the Committee.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5153; Pub. L. 97–60, title II, §205, Oct. 14, 1981, 95 Stat. 1007;renumbered §5024 and amended Pub. L. 99–433, title V, §§511(d), 514(d)(2), Oct. 1, 1986, 100 Stat. 1048, 1055; renumbered §8024, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 291, §5153; Pub. L. 97–60, title II, §205, Oct. 14, 1981, 95 Stat. 1007; renumbered §5024 and amended Pub. L. 99–433, title V, §§511(d), 514(d)(2), Oct. 1, 1986, 100 Stat. 1048, 1055; renumbered §8024, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
 Historical and Revision Notes
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 

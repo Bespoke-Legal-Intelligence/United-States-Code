@@ -2,7 +2,7 @@
 
 #### (a) National Nanotechnology Program
 
-The President shall implement a National Nanotechnology Program. Through appropriate agencies, councils, and the National Nanotechnology Coordination Office established in section 7502 of this title, the Program shall—
+The President shall implement a National Nanotechnology Program. Through appropriateagencies, councils, and the National Nanotechnology Coordination Office established in section 7502 of this title, the Program shall—
 
 &emsp;(1) establish the goals, priorities, and metrics for evaluation for Federal nanotechnology research, development, and other activities;
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby created an account in the Treasury of the United States to be known asthe "Social Security Equivalent Benefit Account".
+There is hereby created an account in the Treasury of the United States to be known as the "Social Security Equivalent Benefit Account".
 
 #### (b) Transfers, etc., to Social Security Equivalent Benefit Account
 
@@ -48,7 +48,7 @@ The provisions of subsections (e), (f), and (g) of section 231n of this title ar
 
 #### References in Text
 
-Section 121(e) of the Social Security Amendments of 1983, referred to in subsec. (b)(1)(B), is section 121(e) of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 83, which is set out as a note under section 401 of Title 42, The Public Health and Welfare.
+Section 121(e) of the Social Security Amendments of 1983, referred to in subsec. (b)(1)(B), is section 121(e) of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 83, which isset out as a note under section 401 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 

@@ -280,7 +280,7 @@ Location.—Subject to a determination by the Secretary to establish the Ted Ste
 
 #### Functional Center for Security Studies in Irregular Warfare
 
-Pub. L. 116–283, div. A, title XII, §1299L, Jan. 1, 2021, 134 Stat. 4012, provided that:
+Pub. L. 116–283, div. A, title XII, §1299L, Jan. 1, 2021, 134 Stat. 4012, as amended by Pub. L. 117–263, div. A, title XII, §1204(c), Dec. 23, 2022, 136 Stat. 2830, provided that:
 
 "(a)
 
@@ -350,13 +350,9 @@ In general.—Not earlier than 30 days after the submittal of the report require
 
 &emsp;"(2)
 
-Treatment as a regional center for security studies.—A Department of Defense Functional Center for Security Studies in Irregular Warfare established under paragraph (1) shall be operated and administered in the same manner as the Department of Defense Regional Centers for Security Studies under section 342 of title 10, United States Code, and in accordance with such regulations as the Secretary of Defense may prescribe.
-
-&emsp;"(3)
-
 Limitation.—No other institution or element of the Department may be designated as a Department of Defense functional center, except by an Act of Congress.
 
-&emsp;"(4)
+&emsp;"(3)
 
 Location.—The location of a Department of Defense Functional Center for Security Studies in Irregular Warfare established under paragraph (1) shall be selected based on an objective, criteria-driven administrative or competitive award process."
 

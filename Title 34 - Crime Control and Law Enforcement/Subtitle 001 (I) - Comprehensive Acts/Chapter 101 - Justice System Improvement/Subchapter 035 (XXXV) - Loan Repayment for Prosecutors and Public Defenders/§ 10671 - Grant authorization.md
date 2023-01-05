@@ -24,7 +24,7 @@ In this section:
 
 &emsp;&emsp;(B) is—
 
-&emsp;&emsp;&emsp;(i) a full-time employee of a State or unit of local government who provides legal representation to indigent persons in criminal or juvenile delinquency cases (including supervision, education, or training of other persons providing such representation);
+&emsp;&emsp;&emsp;(i) a full-time employee of a State or unit of local government who provides legal representation to indigent persons incriminal or juvenile delinquency cases (including supervision, education, or training of other persons providing such representation);
 
 &emsp;&emsp;&emsp;(ii) a full-time employee of a nonprofit organization operating under a contract with a State or unit of local government, who devotes substantially all of the employee's full-time employment to providing legal representation to indigent persons in criminal or juvenile delinquency cases (including supervision, education, or training of other persons providing such representation); or
 
@@ -84,7 +84,7 @@ The Attorney General shall establish a program by which the Department of Justic
 
 #### (B) Merger
 
-&emsp;&emsp;Any amount credited under subparagraph (A) shall be merged with other sums in suchaccount and shall be available for the same purposes and period, and subject to the same limitations, if any, as the sums with which the amount was merged.
+&emsp;&emsp;Any amount credited under subparagraph (A) shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the same limitations, if any, as the sums with which the amount was merged.
 
 #### (3) Limitations
 
@@ -104,7 +104,7 @@ The Attorney General shall establish a program by which the Department of Justic
 
 #### (1) In general
 
-&emsp;On completion of the required period of service under an agreement under subsection (d), the borrower and the Attorney General may, subject to paragraph (2), enter into an additional agreement in accordance with subsection (d).
+&emsp;On completion of the required period of service under an agreement under subsection (d), the borrower and the Attorney General may,subject to paragraph (2), enter into an additional agreement in accordance with subsection (d).
 
 #### (2) Term
 
@@ -161,4 +161,10 @@ The Higher Education Act of 1965, referred to in subsec. (b)(3)(A)(i), (ii), is 
 Section was formerly classified to section 3797cc–21 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 Another section 3001 of Pub. L. 90–351 was classified to section 10681 of this title, prior to repeal by Pub. L. 115–391.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of part E of title IX of Pub. L. 110–315, which enacted this subchapter, as the "John R. Justice Prosecutors and Defenders Incentive Act of 2008", see section 951 of Pub. L. 110–315, set out as a Short Title of 2008 Act note under section 10101 of this title.
 

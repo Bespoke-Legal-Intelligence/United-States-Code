@@ -48,7 +48,7 @@ Savings.—This subsection shall not affect any cause of action under section 20
 
 Rule of construction.—Nothing in this title \[see Short Title of 2000 Amendments note set out under section 1151 of this title\] shall be construed to imply that—
 
-&emsp;&emsp;"(A) any obligation to promote or otherwise provide for the development in the Pribilof Islands of any form of an economy not dependent on sealing was or was not established by section 206 of the Fur Seal Act of 1966 (16 U.S.C. 1166), section 3(c)(1)(A) of Public Law 104–91 (16 U.S.C. 1165 note), or any other provision of law; or
+&emsp;&emsp;"(A) any obligation to promote or otherwise provide for the development in the Pribilof Islands of any form of an economy not dependent on sealing was or was not established by section 206 of the FurSeal Act of 1966 (16 U.S.C. 1166), section 3(c)(1)(A) of Public Law 104–91 (16 U.S.C. 1165 note), or any other provision of law; or
 
 &emsp;&emsp;"(B) any cause of action could or could not arise with respect to such an obligation.
 
@@ -156,7 +156,7 @@ Determination.—
 
 &emsp;"(1)
 
-In general.—Not later than 2 years after the date of the enactment of this subsection \[Feb. 8, 2016\] and not less than once every 5 years thereafter, the Secretary shall determine whether property located on St. Paul Island and not transferred to the Secretary of the department in which the Coast Guard is operating under section 524 of the Pribilof Island Transition Completion Act of 2016 \[130 Stat. 72, 2795\] or to the Natives of the Pribilof Islands is in excess of the smallest practicable tract enclosing land—
+In general.—Not later than 2 years after the date of the enactment of this subsection \[Feb. 8, 2016\]and not less than once every 5 years thereafter, the Secretary shall determine whether property located on St. Paul Island and not transferred to the Secretary of the department in which the Coast Guard is operating under section 524 of the Pribilof Island Transition Completion Act of 2016 \[130 Stat. 72, 2795\] or to the Natives of the Pribilof Islands is in excess of the smallest practicable tract enclosing land—
 
 &emsp;&emsp;"(A) needed by the Secretary for the purposes of carrying out the Fur Seal Act of 1966 (16 U.S.C. 1151 et seq.);
 

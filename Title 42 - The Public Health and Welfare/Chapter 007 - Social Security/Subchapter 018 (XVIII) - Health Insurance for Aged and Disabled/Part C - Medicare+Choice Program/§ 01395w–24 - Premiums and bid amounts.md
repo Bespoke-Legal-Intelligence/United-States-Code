@@ -16,7 +16,7 @@
 
 #### (B) Beneficiary rebate information
 
-&emsp;&emsp;In the case of a plan required to provide a monthly rebate under subsection (b)(1)(C) for a year, the MA organization offering the plan shall submit to the Secretary, in such form and manner and at such time as the Secretary specifies, information on—
+&emsp;&emsp;In the case of a plan required to provide a monthly rebate under subsection (b)(1)(C) fora year, the MA organization offering the plan shall submit to the Secretary, in such form and manner and at such time as the Secretary specifies, information on—
 
 &emsp;&emsp;&emsp;(i) the manner in which such rebate will be provided under clause (ii) of such subsection; and
 
@@ -62,7 +62,7 @@
 
 #### (B) Supplemental benefits
 
-&emsp;&emsp;For benefits described in section 1395w–22(a)(3) of this title, the amount of theMedicare+Choice monthly supplementary beneficiary premium.
+&emsp;&emsp;For benefits described in section 1395w–22(a)(3) of this title, the amount of the Medicare+Choice monthly supplementary beneficiary premium.
 
 #### (4) Requirements for private fee-for-service plans before 2006
 
@@ -102,7 +102,7 @@
 
 #### (ii) Authority to deny bids that propose significant increases in cost sharing or decreases in benefits
 
-&emsp;&emsp;&emsp;The Secretary may deny a bid submitted by an MA organization for an MA plan if it proposes significant increases in cost sharing or decreases in benefits offered under the plan.
+&emsp;&emsp;&emsp;The Secretary may deny a bid submitted by an MA organization for an MA plan if itproposes significant increases in cost sharing or decreases in benefits offered under the plan.
 
 #### (6) Submission of bid amounts by MA organizations beginning in 2006
 
@@ -132,7 +132,7 @@
 
 #### (i) Authority
 
-&emsp;&emsp;&emsp;Subject to clauses (iii) and (iv), the Secretary has the authority to negotiate regarding monthly bid amounts submitted under subparagraph (A) (and the proportions described in subparagraph (A)(ii)), including supplemental benefits provided under subsection (b)(1)(C)(ii)(I) and in exercising such authority the Secretary shall have authority similar to the authority of the Director of the Office of PersonnelManagement with respect to health benefits plans under chapter 89 of title 5.
+&emsp;&emsp;&emsp;Subject to clauses (iii) and (iv), the Secretary has the authority to negotiate regarding monthly bid amounts submitted under subparagraph (A) (and the proportions described in subparagraph (A)(ii)), including supplemental benefits provided under subsection (b)(1)(C)(ii)(I) and in exercising such authority the Secretary shall have authority similar to the authority of the Director of the Office of Personnel Management with respect to health benefits plans under chapter 89 of title 5.
 
 #### (ii) Application of FEHBP standard
 
@@ -238,7 +238,7 @@
 
 #### (B) MA monthly prescription drug beneficiary premium
 
-&emsp;&emsp;The term "MA monthly prescription drug beneficiary premium" means, with respect to an MA plan, the base beneficiary premium (as determined under section 1395w–113(a)(2) of this title and as adjusted under section 1395w–113(a)(1)(B) of this title), less the amount of rebate credited toward such amount under subsection (b)(1)(C)(ii)(II).
+&emsp;&emsp;The term "MA monthly prescription drug beneficiary premium" means, with respect to an MA plan, the base beneficiary premium (as determined under paragraph (2) or (8) (as applicable) of section 1395w–113(a) of this title and as adjusted under section 1395w–113(a)(1)(B) of this title), less the amount of rebate credited toward such amount under subsection (b)(1)(C)(ii)(II).
 
 #### (C) MA monthly supplemental beneficiary premium
 
@@ -270,7 +270,7 @@
 
 #### (ii) Treatment of States for first year in which local plan offered
 
-&emsp;&emsp;&emsp;In the case of a State in which no MA local plan was offered in the previous year, the Secretary shall estimate such average. In making such estimate, the Secretary may use average risk adjustment factorsapplied to comparable States or applied on a national basis.
+&emsp;&emsp;&emsp;In the case of a State in which no MA local plan was offered in the previous year, the Secretary shall estimate such average. In making such estimate, the Secretary may use average risk adjustment factors applied to comparable States or applied on a national basis.
 
 #### (iii) Authority to determine risk adjustment for areas other than States
 
@@ -344,7 +344,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 &emsp;&emsp;(B) an electronic funds transfer mechanism (such as automatic charges of an account at a financial institution or a credit or debit card account); or
 
-&emsp;&emsp;(C) such other means as the Secretary may specify, including payment by an employer or under employment-based retiree healthcoverage (as defined in section 1395w–132(c)(1) of this title) on behalf of an employee or former employee (or dependent).
+&emsp;&emsp;(C) such other means as the Secretary may specify, including payment by an employer or under employment-based retiree health coverage (as defined in section 1395w–132(c)(1) of this title) on behalf of an employee or former employee (or dependent).
 
 > &emsp;All premium payments that are withheld under subparagraph (A) shall be credited to the appropriate Trust Fund (or Account thereof), as specified by the Secretary, under this subchapter and shall be paid to the MA organization involved. No charge may be imposed under an MA plan with respect to the election of the payment option described in subparagraph (A). The Secretary shall consult with the Commissioner of Social Security and the Secretary of the Treasury regarding methods for allocating premiums withheld under subparagraph (A) among the appropriate Trust Funds and Account.
 
@@ -378,7 +378,7 @@ Except as permitted under section 1395w–27(i) of this title, the MA monthly bi
 
 #### (2) For supplemental benefits before 2006
 
-&emsp;For periods before 2006, if the Medicare+Choice organization provides to its members enrolled under this part in a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title with respect to supplemental benefits described in section 1395w–22(a)(3) of this title, the sum of the Medicare+Choice monthly supplemental beneficiary premium (multiplied by 12) charged and the actuarial value of its deductibles, coinsurance, and copayments charged with respect to such benefits may not exceed the adjusted community rate for such benefits (as defined in subsection (f)(3)).
+&emsp;For periods before 2006, if the Medicare+Choice organization provides to itsmembers enrolled under this part in a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title with respect to supplemental benefits described in section 1395w–22(a)(3) of this title, the sum of the Medicare+Choice monthly supplemental beneficiary premium (multiplied by 12) charged and the actuarial value of its deductibles, coinsurance, and copayments charged with respect to such benefits may not exceed the adjusted community rate for such benefits (as defined in subsection (f)(3)).
 
 #### (3) Determination on other basis
 
@@ -460,7 +460,7 @@ No State may impose a premium tax or similar tax with respect to payments to Med
 
 The Secretary shall permit a Medicare+Choice organization to elect to apply the provisions of this section uniformly to separate segments of a service area (rather than uniformly to an entire service area) as long as such segments are composed of one or more Medicare+Choice payment areas.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 308; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(C), title V, §§515(a), 516(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(1), 622(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557, 2763A–566; Pub. L. 107–188, title V, §532(b)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title II, §§222(a)(1), (b), (c), (g), 232(b), title IX, §900(e)(1)(H), Dec. 8, 2003, 117 Stat. 2193, 2196, 2199, 2203, 2208, 2371; Pub. L. 111–148, title III, §§3201(a)(2)(B), (c)–(d)(2), (e)(2)(A)(v), 3202(b)(1), (3), 3209(a), Mar. 23, 2010, 124 Stat. 444, 447, 454, 455, 460; Pub. L. 111–152, title I, §1102(a), (d), Mar. 30, 2010, 124 Stat. 1040, 1045; Pub. L. 115–123, div. E, title III, §50323(b), Feb. 9, 2018, 132 Stat. 203.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 308; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(C), title V, §§515(a), 516(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(1), 622(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557, 2763A–566; Pub. L. 107–188, title V, §532(b)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title II, §§222(a)(1), (b), (c), (g), 232(b), title IX, §900(e)(1)(H), Dec. 8, 2003, 117 Stat. 2193, 2196, 2199, 2203, 2208, 2371; Pub. L. 111–148, title III, §§3201(a)(2)(B), (c)–(d)(2), (e)(2)(A)(v), 3202(b)(1), (3), 3209(a), Mar. 23, 2010, 124 Stat. 444, 447, 454, 455, 460; Pub. L. 111–152, title I, §1102(a), (d), Mar. 30, 2010, 124 Stat. 1040, 1045; Pub. L. 115–123, div. E, title III, §50323(b), Feb. 9, 2018, 132 Stat. 203; Pub. L. 117–169, title I, §11201(d)(3)(A), Aug. 16, 2022, 136 Stat. 1890.)
 
 #### <b>Editorial Notes</b>
 
@@ -469,6 +469,8 @@ The Secretary shall permit a Medicare+Choice organization to elect to apply the 
 Cl. (iii) of par. (1)(C), referred to in subsec. (b)(2)(C)(ii), was struck out and a new cl. (iii) was added by Pub. L. 111–152, §1102(d)(2). See 2010 Amendment note below. As so amended, par. (1)(C)(iii) no longer relates to purposes of rebates and no longer contains a subcl. (III).
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(2)(B). Pub. L. 117–169 substituted "paragraph (2) or (8) (as applicable) of section 1395w–113(a) of this title" for "section 1395w–113(a)(2) of this title".
 
 <b>2018</b>—Subsec. (a)(6)(A)(ii)(I). Pub. L. 115–123 inserted ", including, for plan year 2020 and subsequent plan years, the provision of additional telehealth benefits as described in section 1395w–22(m) of this title" before semicolon at end.
 
@@ -494,7 +496,7 @@ Denial of bid amounts.—The Secretary shall deny monthly bid amounts submitted 
 
 "(III)
 
-Refusal to accept certain bids due to misrepresentations and failures to adequately meet requirements.—In the case where the Secretary determines that information submitted by an MA organization under subparagraph (A) contains consistent misrepresentations and failures to adequately meet requirements of the organization, the Secretary may refuse to accept any additional such bid amounts from the organization for the plan year and the Chief Actuary shall, if the Chief Actuary determines that the actuaries of the organization were complicit in those misrepresentations and failures, report those actuaries to the Actuarial Board for Counseling and Discipline."
+Refusal to accept certain bids due to misrepresentations and failures to adequately meetrequirements.—In the case where the Secretary determines that information submitted by an MA organization under subparagraph (A) contains consistent misrepresentations and failures to adequately meet requirements of the organization, the Secretary may refuse to accept any additional such bid amounts from the organization for the plan year and the Chief Actuary shall, if the Chief Actuary determines that the actuaries of the organization were complicit in those misrepresentations and failures, report those actuaries to the Actuarial Board for Counseling and Discipline."
 
 > See Effective Date of 2010 Amendment note below.
 
@@ -566,7 +568,7 @@ Subsec. (b)(3), (4). Pub. L. 108–173, §222(b)(3), added pars. (3) and (4).
 
 Subsec. (c). Pub. L. 108–173, §222(g)(2), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The Medicare+Choice monthly basic and supplemental beneficiary premium, the Medicare+Choice monthly MSA premium charged under subsection (b) of this section of a Medicare+Choice organization under this part may not vary among individuals enrolled in the plan."
 
-Subsec. (d). Pub. L. 108–173, §222(c), (g)(3), designated existing provisions as par. (1), inserted heading and ", prescription drug," after "basic", and added pars. (2) to (4).
+Subsec. (d). Pub. L. 108–173, §222(c), (g)(3), designated existing provisions as par. (1), inserted heading and", prescription drug," after "basic", and added pars. (2) to (4).
 
 Subsec. (e)(1). Pub. L. 108–173, §222(g)(4)(A), inserted "before 2006" after "benefits" in heading and substituted "For periods before 2006, in" for "In" in introductory provisions.
 
@@ -614,7 +616,7 @@ Subsec. (h). Pub. L. 106–113, §1000(a)(6) \[title V, §515(a)(2)\], added sub
 
 #### Change of Name
 
-References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriatetransition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
 #### Effective Date of 2010 Amendment
 

@@ -40,7 +40,7 @@ Pub. L. 109–58, §655(a), substituted "treatment, storage, or disposal facilit
 
 Subsec. (b). Pub. L. 109–58, §655(b), substituted "knowingly" for "intentionally and willfully".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–56, §§810(f)(1), (2), 811(h)(1)(A), (C), in introductory provisions, struck out ", or who intentionally and willfully attempts to destroy or cause physical damage to" before "—", and in concluding provisions, inserted "or attempts or conspires to do such an act," before "shall be fined" and substituted "20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life." for "ten years, or both."
+<b>2001</b>—Subsec. (a). Pub. L. 107–56, §§810(f)(1), (2), 811(h)(1)(A), (C), in introductory provisions, struck out", or who intentionally and willfully attempts to destroy or cause physical damage to" before "—", and in concluding provisions, inserted "or attempts or conspires to do such an act," before "shall be fined" and substituted "20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life." for "ten years, or both."
 
 Subsec. (a)(4). Pub. L. 107–56, §811(h)(1)(B), substituted comma for period at end.
 

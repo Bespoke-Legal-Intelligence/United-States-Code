@@ -72,7 +72,7 @@
 
 #### (C) Deadline and report
 
-&emsp;&emsp;In carrying out the study under subparagraph (A), the National Academy of Sciencesshall complete and transmit to the Under Secretary a report containing the findings of the National Academy of Sciences with respect to the study not later than 2 years after the date on which the Administrator enters into an agreement with the National Academy of Sciences under paragraph (1)(A).
+&emsp;&emsp;In carrying out the study under subparagraph (A), the National Academy of Sciences shall complete and transmit to the Under Secretary a report containing the findings of the National Academy of Sciences with respect to the study not later than 2 years after the date on which the Administrator enters into an agreement with the National Academy of Sciences under paragraph (1)(A).
 
 #### (3) Alternate organization
 

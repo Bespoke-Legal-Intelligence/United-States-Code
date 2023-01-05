@@ -2,7 +2,7 @@
 
 #### (a) Proposal
 
-The Director shall propose to the Board priorities for the Institute (taking into consideration long-term research and development on core issues conducted through the national research and development centers). The Director shall identify topics that may require long-term research and topics that are focused on understanding and solving particular education problems and issues, including those associated with the goals and requirements of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), such as—
+The Director shall propose to the Board priorities for the Institute (taking into consideration long-term research and development on core issues conducted through the national research and development centers). The Director shallidentify topics that may require long-term research and topics that are focused on understanding and solving particular education problems and issues, including those associated with the goals and requirements of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), the Individuals with Disabilities Education Act (20 U.S.C. 1400 et seq.), and the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), such as—
 
 &emsp;(1) closing the achievement gap between high-performing and low-performing children, especially achievement gaps between minority and nonminority children and between disadvantaged children and such children's more advantaged peers; and
 

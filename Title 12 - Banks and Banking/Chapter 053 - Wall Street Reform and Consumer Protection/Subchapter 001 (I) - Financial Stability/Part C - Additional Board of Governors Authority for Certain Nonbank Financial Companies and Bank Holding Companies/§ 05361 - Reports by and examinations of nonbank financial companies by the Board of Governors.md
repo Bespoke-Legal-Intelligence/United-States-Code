@@ -26,6 +26,16 @@
 
 &emsp;Upon the request of the Board of Governors, a nonbank financial company supervised by the Board of Governors, or a subsidiary thereof, shall promptly provide to the Board of Governors any information described in paragraph (2).
 
+#### (4) Data standards for reports under this subsection
+
+#### (A) In general
+
+&emsp;&emsp;The Board of Governors shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board of Governors under this subsection by any nonbank financial company supervised by the Board of Governors or any subsidiary thereof.
+
+#### (B) Consistency
+
+&emsp;&emsp;The data standards required under subparagraph (A) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of section 5334 of this title.
+
 #### (b) Examinations
 
 #### (1) In general
@@ -52,11 +62,21 @@ The Board of Governors shall—
 
 &emsp;(2) avoid duplication of examination activities, reporting requirements, and requests for information, to the fullest extent possible.
 
-(Pub. L. 111–203, title I, §161, July 21, 2010, 124 Stat. 1420.)
+(Pub. L. 111–203, title I, §161, July 21, 2010, 124 Stat. 1420; Pub. L. 117–263, div. E, title LVIII, §5861(a), Dec. 23, 2022, 136 Stat. 3434.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 This subchapter, referred to in subsecs. (a)(1)(B) and (b)(1)(D), was in the original "this title", meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a)(4). Pub. L. 117–263 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5864 of Pub. L. 117–263, set out as a note under section 253 of this title.
 

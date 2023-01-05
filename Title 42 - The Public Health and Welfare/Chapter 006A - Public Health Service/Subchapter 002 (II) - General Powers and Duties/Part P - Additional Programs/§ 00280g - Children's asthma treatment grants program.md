@@ -138,7 +138,7 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 &emsp;&emsp;&emsp;For purposes of clause (i), the criteria described in this clause, with respect to each public elementary school and secondary school in the State, are that each such school—
 
-&emsp;&emsp;&emsp;&emsp;(I) has in place a plan for having on the premises of the school during all operating hours of the school a school nurse or one or more other individuals who aredesignated by the principal (or other appropriate administrative staff) of the school to direct and apply the program described in subclause (II) on a voluntary basis outside their scope of employment; and
+&emsp;&emsp;&emsp;&emsp;(I) has in place a plan for having on the premises of the school during all operating hours of the school a school nurse or one or more other individuals who are designated by the principal (or other appropriate administrative staff) of the school to direct and apply the program described in subclause (II) on a voluntary basis outside their scope of employment; and
 
 &emsp;&emsp;&emsp;&emsp;(II) has in place, under the direction of a school nurse or other individual designated under subclause (I), a comprehensive school-based allergies and asthma management program that includes—
 
@@ -154,7 +154,7 @@ An eligible entity that receives a grant under this section shall submit to the 
 
 #### (G) Civil liability protection law
 
-&emsp;&emsp;The certification required in subparagraph (F) shall be a certification made by the State attorney general that the State has reviewed any applicable civil liability protection law to determine the application of such law with regard to elementary and secondary school trained personnel who may administer epinephrine to a student reasonably believed to be having an anaphylactic reaction and has concluded that such law provides adequate civil liability protection applicable to such trained personnel. For purposes of the previous sentence, the term "civil liability protection law" means a State law offering legal protection to individuals who give aid on a voluntary basis in an emergency to an individual who is ill, in peril, or otherwise incapacitated.
+&emsp;&emsp;The certification required in subparagraph (F) shall be a certification made by the State attorney general that the State has reviewed any applicable civil liability protection law to determine the application of such law with regard to elementary and secondary school trained personnel who may administer epinephrine to a student reasonably believed to be having an anaphylactic reaction and has concluded that such law provides adequate civil liability protection applicable to such trained personnel. For purposes of the previous sentence, the term "civil liability protection law" means a State law offering legal protection to individuals who give aid on a voluntary basis inan emergency to an individual who is ill, in peril, or otherwise incapacitated.
 
 #### (2) Rule of construction
 
@@ -190,9 +190,9 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(1), (2)(B) and (b)(1), (2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (a)(1), (2)(B) and (b)(1), (2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to parts B (§620 et seq.) and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of this title. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Head Start Act, referred to in subsec. (b)(2)(B), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
+The Head Start Act, referred to in subsec. (b)(2)(B), is subchapter B (§§635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of this title and Tables.
 
 #### Prior Provisions
 

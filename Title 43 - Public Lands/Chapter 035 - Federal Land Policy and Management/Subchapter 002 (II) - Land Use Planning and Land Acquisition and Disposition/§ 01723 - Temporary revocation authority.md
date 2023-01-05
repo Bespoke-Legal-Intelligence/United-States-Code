@@ -36,17 +36,17 @@ The authority specified in subsection (a) of this section may be exercised only 
 
 #### (d) Termination
 
-The authority specified in subsection (a) shall expire either (1) on December 31, 1990, or (2) when the Court order (or subsequent modification or continuation thereof) specified in subsection (a) is no longer in effect, whichever occurs first.
+The authority specified in subsection (a) shall expire either (1) on December 31, 1990, or (2)when the Court order (or subsequent modification or continuation thereof) specified in subsection (a) is no longer in effect, whichever occurs first.
 
-(Pub. L. 94–579, title II, §215, as added Pub. L. 100–409, §10, Aug. 20, 1988, 102 Stat. 1092; amendedPub. L. 103–437, §16(d)(2), Nov. 2, 1994, 108 Stat. 4595.)
+(Pub. L. 94–579, title II, §215, as added Pub. L. 100–409, §10, Aug. 20, 1988, 102 Stat. 1092; amended Pub. L. 103–437, §16(d)(2), Nov. 2, 1994, 108 Stat. 4595.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This Act, referred to in subsecs. (a), (b)(1), and (c)(3), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (b)(1), and (c)(3), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(5)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(5)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 

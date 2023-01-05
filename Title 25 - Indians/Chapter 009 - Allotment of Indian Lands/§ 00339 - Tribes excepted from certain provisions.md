@@ -1,6 +1,6 @@
 ### §339. Tribes excepted from certain provisions
 
-The provisions of this act shall not extend to the territory occupied by the Cherokees, Creeks, Choctaws, Chickasaws, Seminoles, and Osage, Miamies and Peorias, and Sacs and Foxes, in Oklahoma, nor to any of the reservations of the Seneca Nation of New York Indians in the State of New York, nor to that strip of territory in the State of Nebraska adjoining the Sioux Nation on the south added by Executive order.
+The provisions of this act shall not extend to the territory occupied by the Cherokees, Creeks, Choctaws, Chickasaws, Seminoles, and Osage, Miamies and Peorias, and Sacs and Foxes, in Oklahoma, nor to any of the reservations of theSeneca Nation of New York Indians in the State of New York, nor to that strip of territory in the State of Nebraska adjoining the Sioux Nation on the south added by Executive order.
 
 (Feb. 8, 1887, ch. 119, §8, 24 Stat. 391.)
 
@@ -8,7 +8,7 @@ The provisions of this act shall not extend to the territory occupied by the Che
 
 #### References in Text
 
-This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, as amended, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under section 331 of this title and Tables.
+This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under section 331 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

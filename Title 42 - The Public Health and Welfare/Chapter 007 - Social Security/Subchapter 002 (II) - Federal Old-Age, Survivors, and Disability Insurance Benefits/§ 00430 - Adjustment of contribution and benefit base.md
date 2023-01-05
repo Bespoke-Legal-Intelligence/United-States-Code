@@ -6,7 +6,7 @@ Whenever the Commissioner of Social Security pursuant to section 415(i) of this 
 
 #### (b) Determination of amount
 
-The amount of such contribution and benefit base shall (subject to subsection (c)) be theamount of the contribution and benefit base in effect in the year in which the determination is made or, if larger, the product of—
+The amount of such contribution and benefit base shall (subject to subsection (c)) be the amount of the contribution and benefit base in effect in the year in which the determination is made or, if larger, the product of—
 
 &emsp;(1) $60,600, and
 
@@ -58,7 +58,7 @@ Subsec. (b)(2)(A), (B). Pub. L. 103–296, §321(b)(2), made technical correctio
 
 Subsec. (c). Pub. L. 103–296, §321(c)(6)(K), substituted "1986" for "1954" after "Code of".
 
-Subsec. (d). Pub. L. 103–296, §321(g)(1)(B), at end substituted parenthetical provisions beginning with "(except that" and ending with "reference to 1992)." for former parenthetical provisions which read as follows: "(except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to theaverage of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shall be deemed a reference to the deemed average total wage (within the meaning of section 409(k)(1) of this title) for such calendar year)."
+Subsec. (d). Pub. L. 103–296, §321(g)(1)(B), at end substituted parenthetical provisions beginning with "(except that" and ending with "reference to 1992)." for former parenthetical provisions which read as follows: "(except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to the average of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shall be deemed a reference to the deemed average total wage (within the meaning of section 409(k)(1) of this title) for such calendar year)."
 
 <b>1989</b>—Subsec. (b)(2)(A). Pub. L. 101–239, §10208(b)(1)(A), as amended by Pub. L. 103–296, §321(b)(2), substituted "the deemed average total wages (as defined in section 409(k)(1) of this title)" for "the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title) reported to the Secretary of the Treasury or his delegate".
 
@@ -92,7 +92,7 @@ Subsec. (c). Pub. L. 95–216, §103(b), designated existing provisions as intro
 
 Subsec. (d). Pub. L. 95–216, §103(c)(1), added subsec. (d).
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–202 substituted "wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year" for "taxable wages of all employees as reported to the Secretary for the first calendar quarter of the calendar year" and "made to" for "made to the latest of" in cl. (A) of par. (2), substituted "wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973 or, if later, the calendar year preceding" for "taxable wages of all employees as reported to the Secretary for the first calendar quarter of 1973 or the first calendar quarter of" in cl. (B) of par. (2), and inserted, following par. (2), provision directing that the average wages for the calendar year 1978, or any prior calendar year, be deemed equal to 400% of the average wages reported for the first quarter of that calendar year.
+<b>1976</b>—Subsec. (b). Pub. L. 94–202 substituted "wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year" for "taxable wages of all employees as reported to the Secretary for the first calendar quarter of the calendar year" and "made to" for "made to the latest of" in cl. (A) of par. (2), substituted "wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973 or, if later, the calendar year preceding" for "taxable wages of all employees as reported to the Secretary for the first calendar quarter of 1973 or the first calendar quarter of" in cl. (B) of par. (2), andinserted, following par. (2), provision directing that the average wages for the calendar year 1978, or any prior calendar year, be deemed equal to 400% of the average wages reported for the first quarter of that calendar year.
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–233, §3(j)(1), substituted "with the June" for "with the first month of the calendar year" and struck out "(along with the publication of such benefit increase as required by section 415(i)(2)(D) of this title)" after "such quarter occurs" and "(unless such increase in benefits is prevented from becoming effective by section 415(i)(2)(E) of this title)" after "shall be effective", respectively.
 
@@ -122,7 +122,7 @@ In general.—The amendments made by subsections (a) and (b) \[amending this sec
 
 "(2)
 
-Transitional rule.—For purposes of determining the contribution and benefit base for 1990, 1991,and 1992 under section 230(b) of the Social Security Act \[42 U.S.C. 430(b)\] (and section 230(b) of such Act as in effect immediately prior to enactment of the Social Security Amendments of 1977 \[Pub. L. 95–216, approved Dec. 20, 1977\])—
+Transitional rule.—For purposes of determining the contribution and benefit base for 1990, 1991, and 1992 under section 230(b) of the Social Security Act \[42 U.S.C. 430(b)\] (and section 230(b) of such Act as in effect immediately prior to enactment of the Social Security Amendments of 1977 \[Pub. L. 95–216, approved Dec. 20, 1977\])—
 
 &emsp;"(A) the average of total wages for 1988 shall be deemed to be equal to the amount which would have been determined without regard to this paragraph, plus 2 percent of the amount which has been determined to the average of total wages for 1987,
 
@@ -188,6 +188,10 @@ For purposes of subsec. (a) of this section, the increase in benefits provided b
 
 #### Social Security Contribution and Benefit Base
 
+<b>2023</b>—By notice of the Commissioner of Social Security, Oct. 24, 2022, 87 F.R. 64296, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2023 is $160,200.
+
+<b>2022</b>—By notice of the Commissioner of Social Security, Oct. 22, 2021, 86 F.R. 58715, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2022 is $147,000.
+
 <b>2021</b>—By notice of the Commissioner of Social Security, Oct. 22, 2020, 85 F.R. 67413, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2021 is $142,800.
 
 <b>2020</b>—By notice of the Commissioner of Social Security, Oct. 22, 2019, 84 F.R. 56515, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2020 is $137,700.
@@ -198,7 +202,7 @@ For purposes of subsec. (a) of this section, the increase in benefits provided b
 
 <b>2017</b>—By notice of the Commissioner of Social Security, Oct. 26, 2016, 81 F.R. 74854, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2017 is $127,200.
 
-<b>2016</b>—By notice of the Commissioner of Social Security, Oct. 26, 2015, 80 F.R. 66963, it was determined andannounced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2016 is $118,500.
+<b>2016</b>—By notice of the Commissioner of Social Security, Oct. 26, 2015, 80 F.R. 66963, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2016 is $118,500.
 
 <b>2015</b>—By notice of the Commissioner of Social Security, Oct. 29, 2014, 79 F.R. 64455, as corrected Nov. 4, 2014, 79 F.R. 65472, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2015 is $118,500.
 
@@ -234,7 +238,7 @@ For purposes of subsec. (a) of this section, the increase in benefits provided b
 
 <b>1999</b>—By notice of the Commissioner of Social Security, Oct. 21, 1998, 63 F.R. 58446, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1999 is $72,600.
 
-<b>1998</b>—By notice of the Commissioner of Social Security, Oct. 22, 1997, 62 F.R. 58762, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1998 is $68,400.
+<b>1998</b>—By notice of the Commissioner of Social Security, Oct. 22, 1997, 62 F.R. 58762, it was determined andannounced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1998 is $68,400.
 
 <b>1997</b>—By notice of the Commissioner of Social Security, Oct. 18, 1996, 61 F.R. 55346, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1997 is $65,400.
 
@@ -250,7 +254,7 @@ For purposes of subsec. (a) of this section, the increase in benefits provided b
 
 <b>1991</b>—By notice of the Secretary of Health and Human Services, Oct. 25, 1990, 55 F.R. 45856, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1991 is $53,400.
 
-<b>1990</b>—By notice of the Secretary of Health and Human Services, Oct. 26, 1989, 54 F.R. 45803, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employmentincome earned in taxable years beginning in, 1990 is $50,400.
+<b>1990</b>—By notice of the Secretary of Health and Human Services, Oct. 26, 1989, 54 F.R. 45803, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1990 is $50,400.
 
 <b>1989</b>—By notice of the Secretary of Health and Human Services, Oct. 27, 1988, 53 F.R. 43932, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1989 is $48,000.
 

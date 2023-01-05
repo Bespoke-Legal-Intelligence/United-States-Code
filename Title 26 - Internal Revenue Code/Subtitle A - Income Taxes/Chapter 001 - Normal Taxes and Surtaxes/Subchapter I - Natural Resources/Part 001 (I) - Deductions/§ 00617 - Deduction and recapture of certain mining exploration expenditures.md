@@ -18,7 +18,7 @@
 
 #### (C) Deficiencies
 
-&emsp;&emsp;The statutory period for the assessment of any deficiency for any taxable year, to the extent such deficiency is attributable to an election or revocation of an election under this subsection, shall not expire before the last day of the 2-year period beginning on the day after the date on which such election or revocation of election is made; and such deficiency may be assessed at any time before the expiration of such 2-year period, notwithstanding any law or rule of law which would otherwise prevent such assessment.
+&emsp;&emsp;The statutory period for the assessment of any deficiency for any taxable year, to the extent such deficiency is attributable to an election or revocation of an election under this subsection, shall not expire before the last day of the 2-year period beginning on the day after the date on which such election or revocation of election is made; and such deficiency may be assessed at any time before the expiration of such 2-year period,notwithstanding any law or rule of law which would otherwise prevent such assessment.
 
 #### (b) Recapture on reaching producing stage
 
@@ -100,7 +100,7 @@ For purposes of this section
 
 &emsp;The term "adjusted exploration expenditures" means, with respect to any property or mine—
 
-&emsp;&emsp;(A) the amount of the expenditures allowed for the taxable year and all preceding taxable years as deductions under subsection (a) to the taxpayer or any other person which are properly chargeable to such property or mine and which (but for the election under subsection (a)) would be reflected in the adjusted basis of such property or mine, reduced by
+&emsp;&emsp;(A) the amount of the expenditures allowed for the taxable year and all preceding taxable years as deductions under subsection (a) to the taxpayer or any other personwhich are properly chargeable to such property or mine and which (but for the election under subsection (a)) would be reflected in the adjusted basis of such property or mine, reduced by
 
 &emsp;&emsp;(B) for the taxable year and for each preceding taxable year, the amount (if any) by which (i) the amount which would have been allowable for percentage depletion under section 613 but for the deduction of such expenditures, exceeds (ii) the amount allowable for depletion under section 611,
 
@@ -170,7 +170,7 @@ Subsecs. (d)(2), (e)(2), (g)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out 
 
 Subsec. (h)(1). Pub. L. 94–455, §1901(b)(21)(C), substituted "and subsection (a) of section 615 (as in effect before the enactment of the Tax Reform Act of 1976)" for "and section 615(a) and the amounts which are or have been treated as deferred expenses under section 615(b)".
 
-Subsec. (h)(3). Pub. L. 94–455, §1901(b)(21)(D), struck out "and all amounts treated as deferred expenses which were paid or incurred" after "amounts deducted" in introductory provisions, redesignated subpar. (C) as (B), and in subpar. (B) as so redesignated, substituted "374(b)(1)" for "373(b)(1)". Former subpar. (B), which related to the application of par. (2)(B) where the taxpayer would be entitled under section 381(c)(10) to deduct expenses deferred under section 615(b) had the distributor or transferor corporation elected to defer such expenses, was struck out.
+Subsec. (h)(3). Pub. L. 94–455, §1901(b)(21)(D), struck out "and all amounts treated as deferred expenseswhich were paid or incurred" after "amounts deducted" in introductory provisions, redesignated subpar. (C) as (B), and in subpar. (B) as so redesignated, substituted "374(b)(1)" for "373(b)(1)". Former subpar. (B), which related to the application of par. (2)(B) where the taxpayer would be entitled under section 381(c)(10) to deduct expenses deferred under section 615(b) had the distributor or transferor corporation elected to defer such expenses, was struck out.
 
 Subsec. (i). Pub. L. 94–455, §1901(b)(21)(E), added subsec. (i).
 

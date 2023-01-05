@@ -44,11 +44,11 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (C) Interest on certain proceeds
 
-&emsp;&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held in the Agricultural Disaster Relief TrustFund shall be credited to and form a part of such Trust Fund.
+&emsp;&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held in the Agricultural Disaster Relief Trust Fund shall be credited to and form a part of such Trust Fund.
 
 #### (d) Expenditures from Trust Fund
 
-Amounts in the Agricultural Disaster Relief Trust Fund shall be available for the purposes of making expenditures to meet those obligations of the United States incurred under section 2497 of this title or section 1531 of title 7 (as such sections are in effect on the date of the enactment of the Food, Conservation, and Energy Act of 2008).
+Amounts in the Agricultural Disaster Relief Trust Fund shall be available for the purposes of making expenditures to meet those obligations of the United States incurred under section 2497of this title or section 1531 of title 7 (as such sections are in effect on the date of the enactment of the Food, Conservation, and Energy Act of 2008).
 
 #### (e) Authority to borrow
 

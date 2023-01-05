@@ -1,6 +1,6 @@
 ### §426e–3. Coastal storm damage reduction contracts
 
-For any project for coastal storm damage reduction, the Secretary may seek input from anon-Federal interest for a project that may be affected by the timing of the coastal storm damage reduction activities under the project, in order to minimize, to the maximum extent practicable, any negative effects resulting from the timing of those activities.
+For any project for coastal storm damage reduction, the Secretary may seek input from a non-Federal interest for a project that may be affected by the timing of the coastal storm damage reduction activities under the project, in order to minimize, to the maximum extent practicable, any negative effects resulting from the timing of those activities.
 
 (Pub. L. 116–260, div. AA, title I, §140, Dec. 27, 2020, 134 Stat. 2652.)
 

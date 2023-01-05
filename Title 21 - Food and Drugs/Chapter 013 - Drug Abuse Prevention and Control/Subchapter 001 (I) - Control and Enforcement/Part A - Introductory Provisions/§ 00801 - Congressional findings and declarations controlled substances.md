@@ -28,7 +28,7 @@ The Congress makes the following findings and declarations:
 
 #### References in Text
 
-This subchapter, referred to in par. (1), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
+This subchapter, referred to in par. (1), was in the original "this title", meaning title II of Pub. L. 91–513,Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -41,6 +41,10 @@ Pub. L. 91–513, title II, §704, Oct. 27, 1970, 84 Stat. 1284, provided that:
 "(b) Parts A, B, E, and F of this title \[Parts A, B, E, and F of this subchapter\], section 702 \[set out as a note under section 321 of this title\], this section, and sections 705 through 709 \[sections 901 to 904 of this title and note set out below\], shall become effective upon enactment \[Oct. 27, 1970\].
 
 "(c) Sections 305 (relating to labels and labeling) \[section 825 of this title\], and 306 (relating to manufacturing quotas) \[section 826 of this title\] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title \[see Short Title note below\]."
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–215, §1(a), Dec. 2, 2022, 136 Stat. 2257, provided that: "This Act \[amending sections 802, 822, 823, 824, 827, 829a, 831, 841, 843, 882, and 958 of this title and sections 290bb–36d, 290dd–3, 1395l, 1395m, 1395cc–6, and 1396b of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section, section 823 of this title, and sections 241 and 284 of Title 42\] may be cited as the 'Medical Marijuana and Cannabidiol Research Expansion Act'."
 
 #### Short Title of 2021 Amendment
 
@@ -60,7 +64,7 @@ Pub. L. 115–271, title III, §3271, Oct. 24, 2018, 132 Stat. 3952, provided th
 
 Pub. L. 115–271, title III, §3281, Oct. 24, 2018, 132 Stat. 3954, provided that: "This chapter \[chapter 8 (§§3281, 3282) of subtitle B of title III of Pub. L. 115–271, amending section 826 of this title and enacting provisions set out as a note under section 826 of this title\] may be cited as the 'Opioid Quota Reform Act'."
 
-Pub. L. 115–271, title III, §3291, Oct. 24, 2018, 132 Stat. 3956, provided that: "This chapter \[chapter 9 (§§3291, 3292) of subtitle B of title III of Pub. L. 115–271, enacting section 832 of this title and amending section 802 of thistitle\] may be cited as the 'Preventing Drug Diversion Act of 2018'."
+Pub. L. 115–271, title III, §3291, Oct. 24, 2018, 132 Stat. 3956, provided that: "This chapter \[chapter 9 (§§3291, 3292) of subtitle B of title III of Pub. L. 115–271, enacting section 832 of this title and amending section 802 of this title\] may be cited as the 'Preventing Drug Diversion Act of 2018'."
 
 #### Short Title of 2017 Amendment
 
@@ -128,7 +132,7 @@ Pub. L. 105–277, div. E, §1, Oct. 21, 1998, 112 Stat. 2681–759, provided th
 
 #### Short Title of 1996 Amendments
 
-Pub. L. 104–305, §1, Oct. 13, 1996, 110 Stat. 3807, provided that: "This Act \[amending sections 841, 844, 959, and 960 of this title and enacting provisions set out as notes under section 872 of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may becited as the 'Drug-Induced Rape Prevention and Punishment Act of 1996'."
+Pub. L. 104–305, §1, Oct. 13, 1996, 110 Stat. 3807, provided that: "This Act \[amending sections 841, 844, 959, and 960 of this title and enacting provisions set out as notes under section 872 of this title and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Drug-Induced Rape Prevention and Punishment Act of 1996'."
 
 Pub. L. 104–237, §1(a), Oct. 3, 1996, 110 Stat. 3099, provided that: "This Act \[enacting section 872a of this title, amending sections 802, 814, 830, 841 to 844, 853, 881, 959, and 960 of this title and section 1607 of Title 19, Customs Duties, and enacting provisions set out as notes under this section and sections 802, 872, and 971 of this title, section 994 of Title 28, Judiciary and Judicial Procedure, and section 290aa–4 of Title 42, The Public Health and Welfare\] may be cited as the 'Comprehensive Methamphetamine Control Act of 1996'."
 
@@ -188,7 +192,7 @@ Pub. L. 93–281, §1, May 14, 1974, 88 Stat. 124, provided: "That this Act \[am
 
 #### Short Title
 
-Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, provided: "That this Act \[enacting this chapter and sections 257a, 2688l–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333,334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246, 257, 258, 259, 260, 261, 261a, 2688k, 2688l, 2688m, 2688n, 2688o, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the 'Comprehensive Drug Abuse Prevention and Control Act of 1970'."
+Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, provided: "That this Act \[enacting this chapter and sections 257a, 2688l–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246, 257, 258, 259, 260, 261, 261a, 2688k, 2688l, 2688m, 2688n, 2688o, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the 'Comprehensive Drug Abuse Prevention and Control Act of 1970'."
 
 Pub. L. 91–513, title II, §100, Oct. 27, 1970, 84 Stat. 1242, provided that: "This title \[enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title\] may be cited as the 'Controlled Substances Act'."
 
@@ -201,6 +205,16 @@ Pub. L. 106–310, div. B, title XXXVI, §3673, Oct. 17, 2000, 114 Stat. 1246, p
 #### Continuation of Orders, Rules, and Regulations
 
 Pub. L. 91–513, title II, §705, Oct. 27, 1970, 84 Stat. 1284, provided that: "Any orders, rules, and regulations which have been promulgated under any law affected by this title \[see Short Title note above\] and which are in effect on the day preceding enactment of this title \[Oct. 27, 1970\] shall continue in effect until modified, superseded, or repealed."
+
+#### Doctor-Patient Relationship
+
+Pub. L. 117–215, title III, §301, Dec. 2, 2022, 136 Stat. 2265, provided that: "It shall not be a violation of the Controlled Substances Act (21 U.S.C. 801 et seq.) for a State-licensed physician to discuss—
+
+&emsp;"(1) the currently known potential harms and benefits of marijuana derivatives, including cannabidiol, as a treatment with the legal guardian of the patient of the physician if the patient is a child; or
+
+&emsp;"(2) the currently known potential harms and benefits of marijuana and marijuana derivatives, including cannabidiol, as a treatment with the patient or the legal guardian of the patient of the physician if the patient is a legal adult."
+
+\[For definitions of "State", "marijuana", and "cannabidiol" as used in section 301 of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out below.\]
 
 #### Anti-Drug Messages on Federal Government Internet Sites
 
@@ -378,7 +392,7 @@ Interagency Agreement.—The Secretary of Transportation and the Secretary of th
 
 Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of State is encouraged to enter into negotiations with appropriate officials of the Government of Canada for the purpose of establishing an agreement between the United States and Canada which provides for increased cooperation and sharing of information between United States and Canadian law enforcement officials with respect to law enforcement efforts conducted on the Great Lakes between the United States and Canada."
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.\]
 
@@ -418,7 +432,7 @@ Pub. L. 99–570, title III, §§3001–3003, 3301, Oct. 27, 1986, 100 Stat. 320
 
 &emsp;&emsp;"(F) increased emphasis on the interdiction of drugs and drug smugglers at the borders of the United States, in the air, at sea, and on the land;
 
-&emsp;"(3) funds to support the interdiction of narcotics smugglers who threaten the transport of drugs through the air, on the sea, and across the land borders of the United States should be emphasized in theFederal Government budget process to the same extent as the other elements of a comprehensive antidrug effort are emphasized;
+&emsp;"(3) funds to support the interdiction of narcotics smugglers who threaten the transport of drugs through the air, on the sea, and across the land borders of the United States should be emphasized in the Federal Government budget process to the same extent as the other elements of a comprehensive antidrug effort are emphasized;
 
 &emsp;"(4) the Department of Defense and the use of its resources should be an integral part of a comprehensive, natonal \[national\] drug interdiction program;
 
@@ -532,7 +546,7 @@ Pub. L. 91–513, title II, §601, Oct. 27, 1970, 84 Stat. 1280, as amended by P
 
 \[Chairman; Vice Chairman; compensation of members; meetings\] (1) The President shall designate one of the members of the Commission as Chairman and one as Vice Chairman. Seven members of the Commission shall constitute a quorum, but a lesser number may conduct hearings.
 
-"(2) Members of the Commission who are Members of Congress or full-time officers or employees of the United States shall serve without additional compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of the duties vested in the Commission. Members of the Commission from private life shall receive $100 per diem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties.
+"(2) Members of the Commission who are Members of Congress or full-time officers or employees of theUnited States shall serve without additional compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of the duties vested in the Commission. Members of the Commission from private life shall receive $100 per diem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties.
 
 "(3) The Commission shall meet at the call of the Chairman or at the call of a majority of the members thereof.
 
@@ -569,6 +583,42 @@ Pub. L. 91–513, title II, §601, Oct. 27, 1970, 84 Stat. 1280, as amended by P
 "(f)
 
 \[Limitation on expenditures\] Total expenditures of the Commission shall not exceed $4,000,000."
+
+#### Definitions
+
+Pub. L. 117–215, §2(a), Dec. 2, 2022, 136 Stat. 2257, provided that:
+
+"(a)
+
+In General.—In this Act \[see Short Title of 2022 Amendment note set out above\]—
+
+&emsp;"(1) the term 'appropriately registered' means that an individual or entity is registered under the Controlled Substances Act (21 U.S.C. 801 et seq.) to engage in the type of activity that is carried out by the individual or entity with respect to a controlled substance on the schedule that is applicable to cannabidiol or marijuana, as applicable;
+
+&emsp;"(2) the term 'cannabidiol' means—
+
+&emsp;&emsp;"(A) the substance, cannabidiol, as derived from marijuana that has a delta-9-tetrahydrocannabinol level that is greater than 0.3 percent; and
+
+&emsp;&emsp;"(B) the synthetic equivalent of the substance described in subparagraph (A);
+
+&emsp;"(3) the terms 'controlled substance', 'dispense', 'distribute', 'manufacture', 'marijuana', and 'practitioner' have the meanings given such terms in section 102 of the Controlled Substances Act (21 U.S.C. 802), as amended by this Act;
+
+&emsp;"(4) the term 'covered institution of higher education' means an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) that—
+
+&emsp;&emsp;"(A)(i) has highest or higher research activity, as defined by the Carnegie Classification of Institutions of Higher Education; or
+
+&emsp;&emsp;"(ii) is an accredited medical school or an accredited school of osteopathic medicine; and
+
+&emsp;&emsp;"(B) is appropriately registered under the Controlled Substances Act (21 U.S.C. 801 et seq.);
+
+&emsp;"(5) the term 'drug' has the meaning given the term in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(g)(1));
+
+&emsp;"(6) the term 'medical research for drug development' means medical research that is—
+
+&emsp;&emsp;"(A) a preclinical study or clinical investigation conducted in accordance with section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) or otherwise permitted by the Department of Health and Human Services to determine the potential medical benefits of marijuana or cannabidiol as a drug; and
+
+&emsp;&emsp;"(B) conducted by a covered institution of higher education, practitioner, or manufacturer that is appropriately registered under the Controlled Substances Act (21 U.S.C. 801 et seq.); and
+
+&emsp;"(7) the term 'State' means any State of the United States, the District of Columbia, and any territory of the United States."
 
 #### <b>Executive Documents</b>
 

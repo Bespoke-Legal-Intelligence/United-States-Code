@@ -36,7 +36,7 @@ As a condition to receiving grant amounts under this subchapter, the Director sh
 
 &emsp;&emsp;(B) the prompt notification in writing of any rejected applicant of the grounds for that rejection.
 
-(Pub. L. 104–330, title VIII, §814, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2889,and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2983.)
+(Pub. L. 104–330, title VIII, §814, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2889, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2983.)
 
 #### <b>Editorial Notes</b>
 

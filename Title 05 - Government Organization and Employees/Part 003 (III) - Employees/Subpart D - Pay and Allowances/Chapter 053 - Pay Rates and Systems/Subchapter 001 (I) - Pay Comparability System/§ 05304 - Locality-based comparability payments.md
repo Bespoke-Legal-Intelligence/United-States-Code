@@ -54,7 +54,7 @@
 
 &emsp;(1) direct such agent as he considers appropriate to prepare and submit to him annually, after considering such views and recommendations as may be submitted under subsection (e) (but not later than 13 months before the start of the calendar year for purposes of which it is prepared), a report that—
 
-&emsp;&emsp;(A) compares the rates of pay under the General Schedule (disregarding any described in section 5302(8)(C)) <sup>1</sup> with the rates of pay generally paid to non-Federal workers for the same levels of work within each pay locality, as determined on the basis of appropriate surveys that shall be conducted by the Bureau of Labor Statistics;
+&emsp;&emsp;(A) compares the rates of pay under the General Schedule (disregarding any described in section 5302(8)(C)) <sup>1</sup> with the ratesof pay generally paid to non-Federal workers for the same levels of work within each pay locality, as determined on the basis of appropriate surveys that shall be conducted by the Bureau of Labor Statistics;
 
 &emsp;&emsp;(B) based on data from such surveys, identifies each locality in which a pay disparity exists and specifies the size of each such pay disparity (before and after taking into consideration any comparability payments payable);
 
@@ -106,7 +106,7 @@
 
 (B) Judicial review of any regulation under this subsection shall be limited to whether or not it was promulgated in accordance with the requirements referred to in subparagraph (A).
 
-(g)(1) Except as provided in paragraph (2), comparability payments may not be paid at a rate which, when added to the rate of basic payotherwise payable to the employee involved, would cause the total to exceed the rate of basic pay payable for level IV of the Executive Schedule.
+(g)(1) Except as provided in paragraph (2), comparability payments may not be paid at a rate which, when added to the rate of basic pay otherwise payable to the employee involved, would cause the total to exceed the rate of basic pay payable for level IV of the Executive Schedule.
 
 (2) The applicable maximum under this subsection shall be level III of the Executive Schedule for—
 
@@ -166,7 +166,7 @@
 
 (i) The Office of Personnel Management may prescribe regulations, consistent with the provisions of this section, governing the payment of comparability payments to employees.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat. 2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, §1912(a), Oct. 28, 2009, 123 Stat. 2619.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 459; Pub. L. 91–375, §6(c)(11), Aug. 12, 1970, 84 Stat. 776; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–465, title II, §2314(c)(3), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 101–509, title V, §529 \[title I, §101(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1431; Pub. L. 102–378, §2(26), Oct. 2, 1992, 106 Stat. 1348; Pub. L. 108–136, div. A, title XI, §1125(a)(1), Nov. 24, 2003, 117 Stat. 1638; Pub. L. 108–411, title III, §302(a)(1), Oct. 30, 2004, 118 Stat.2318; Pub. L. 110–372, §2(a), Oct. 8, 2008, 122 Stat. 4043; Pub. L. 111–84, div. A, title XIX, §1912(a), Oct. 28, 2009, 123 Stat. 2619.)
 
 Historical and Revision Notes
 
@@ -272,7 +272,7 @@ Subsec. (h)(1)(iii). Pub. L. 102–378, §2(26)(E)(i)(II)–(IV), added cl. (iii
 
 Subsec. (h)(2)(C). Pub. L. 102–378, §2(26)(E)(ii), added subpar. (C).
 
-Subsec. (h)(3)(B). Pub. L. 102–378, §2(26)(E)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "shall be payable, withinthe locality involved, for the entirety of each calendar year for which authority is granted by the President;".
+Subsec. (h)(3)(B). Pub. L. 102–378, §2(26)(E)(iii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "shall be payable, within the locality involved, for the entirety of each calendar year for which authority is granted by the President;".
 
 <b>1990</b>—Pub. L. 101–509 amended section generally, substituting provisions relating to locality-based comparability payments for provisions making functions, duties, and regulations of agencies and Office of Personnel Management with respect to this subchapter subject to Presidential policies and regulations.
 
@@ -323,6 +323,58 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+
+#### Locality Pay for Federal Employees Working Overseas Under Domestic Employee Teleworking Overseas Agreements
+
+Pub. L. 117–263, div. I, title XCVII, §9717, Dec. 23, 2022, 136 Stat. 3922, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Civil service.—The term 'civil service' has the meaning given the term in section 2101 of title 5, United States Code.
+
+&emsp;"(2)
+
+Covered employee.—The term 'covered employee' means an employee who—
+
+&emsp;&emsp;"(A) occupies a position in the civil service; and
+
+&emsp;&emsp;"(B) is working overseas under a Domestic Employee Teleworking Overseas agreement.
+
+&emsp;"(3)
+
+Locality pay.—The term 'locality pay' means a locality-based comparability payment paid in accordance with subsection (b).
+
+&emsp;"(4)
+
+Nonforeign area.—The term 'nonforeign area' has the meaning given the term in section 591.205 of title 5, Code of Federal Regulations, or any successor regulation.
+
+&emsp;"(5)
+
+Overseas.—The term 'overseas' means any geographic location that is not in—
+
+&emsp;&emsp;"(A) the continental United States; or
+
+&emsp;&emsp;"(B) a nonforeign area.
+
+"(b)
+
+Payment of Locality Pay.—Each covered employee shall be paid locality pay in an amount that is equal to the lesser of—
+
+&emsp;"(1) the amount of a locality-based comparability payment that the covered employee would have been paid under section 5304 or 5304a of title 5, United States Code, had the official duty station of the covered employee not been changed to reflect an overseas location under the applicable Domestic Employee Teleworking Overseas agreement; or
+
+&emsp;"(2) the amount of a locality-based comparability payment that the covered employee would be paid under section 1113 of the Supplemental Appropriations Act, 2009 (Public Law 111–32) \[123 Stat. 1904\], as limited under section 9802(c)(2) of this Act \[136 Stat. 3924\], if the covered employee were an eligible member of the Foreign Service (as defined in subsection (b) of such section 1113).
+
+"(c)
+
+Application.—Locality pay paid to a covered employee under this section—
+
+&emsp;"(1) shall begin to be paid not later than 60 days after the date of the enactment of this Act \[Dec. 23, 2022\]; and
+
+&emsp;"(2) shall be treated in the same manner, and subject to the same terms and conditions, as a locality-based comparability payment paid under section 5304 or 5304a of title 5, United States Code."
 
 #### Non-Foreign Area Retirement Equity Assurance
 
@@ -416,7 +468,7 @@ Continuation of cost of living allowance rate.—If an employee, who the day bef
 
 &emsp;"(3)
 
-Locality-based comparability payments.—Any employee covered under paragraph (2) shall receive any applicable locality-based comparability payment extended under section 1914 of this subtitle which is not in excess of the maximum rate set under section 5304(g) of title 5, United States Code, for his position including any future increase to statutory pay limitations under 5318 of title 5, United States Code. Notwithstanding paragraph (2), to the extent that an employee covered under that paragraph receives any amount of locality-based comparability payment, the cost-of-living allowance rate under that paragraph shall be reduced accordingly, as provided under section 5941(c)(2)(B) of title 5, United States Code.
+Locality-based comparability payments.—Any employee covered under paragraph (2) shall receive any applicable locality-based comparability payment extended under section 1914 of this subtitle which is not in excess of the maximum rate set under section 5304(g) of title 5, United States Code, for his position including any future increase to statutory pay limitations under 5318 of title 5, United States Code. Notwithstanding paragraph (2), to the extentthat an employee covered under that paragraph receives any amount of locality-based comparability payment, the cost-of-living allowance rate under that paragraph shall be reduced accordingly, as provided under section 5941(c)(2)(B) of title 5, United States Code.
 
 #### "SEC. 1916. APPLICATION TO OTHER ELIGIBLE EMPLOYEES.
 
@@ -590,7 +642,7 @@ In General.—The Director of the Office of Personnel Management shall prescribe
 
 "(b)
 
-Other Pay Systems.—With the concurrence of the Director of the Office of Personnel Management, the administrator of a pay system not administered by the Office of Personnel Management shall prescribe regulations to carry out this subtitle with respect to employees in such pay system, consistent with the regulations prescribed by the Office under subsection (a).With respect to employees not entitled to locality-based comparability payments under section 5304 of title 5, United States Code, regulations prescribed under this subsection may provide for special payments or adjustments for employees who were eligible to receive a cost-of-living allowance under section 5941 of that title on the date before the date of enactment of this Act \[Oct. 28, 2009\].
+Other Pay Systems.—With the concurrence of the Director of the Office of Personnel Management, the administrator of a pay system not administered by the Office of Personnel Management shall prescribe regulations to carry out this subtitle with respect to employees in such pay system, consistent with the regulations prescribed by the Office under subsection (a). With respect to employees not entitled to locality-based comparability payments under section 5304 of title 5, United States Code, regulations prescribed under this subsection may provide for special payments or adjustments for employees who were eligible to receive a cost-of-living allowance under section 5941 of that title on the date before the date of enactment of this Act \[Oct. 28, 2009\].
 
 #### "SEC. 1919. EFFECTIVE DATES.
 
@@ -646,7 +698,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 "(3) An area described in this paragraph is any metropolitan statistical area within the continental United States that (as determined based on data made available by the Bureau of Labor Statistics and the Office of Personnel Management, respectively) has a high level of nonfarm employment and at least 2,500 General Schedule employees whose post of duty is within such area.
 
-"(e)(1) The authority under this section to make pay comparisons and to make any determinations or recommendations based on such comparisons shall be available to the President's pay agent only for purposes of comparability payments becoming payable on or after January 1, 2002, and before January 1, 2007, and only with respect to areas described in subsection (d)(3).
+"(e)(1) The authority under this section to make pay comparisons and to make any determinations or recommendations based on such comparisons shall be available to the President's pay agent only for purposes of comparability payments becoming payable on or after January 1, 2002, and before January 1, 2007, andonly with respect to areas described in subsection (d)(3).
 
 "(2) Any comparisons and recommendations so made shall, if included in the pay agent's report under section 5304(d)(1) of title 5, United States Code, for any year (or the pay agent's supplementary report, in accordance with subsection (d)(1)(C)(i)(II)), be considered and acted on as the pay agent's comparisons and recommendations under such section 5304(d)(1) for the area and the year involved.
 
@@ -658,7 +710,7 @@ Pub. L. 106–554, §1(a)(3) \[title VI, §637\], Dec. 21, 2000, 114 Stat. 2763,
 
 "(2) The report shall include a detailed accounting of any concerns the pay agent may have regarding the current methodology, the specific projects the pay agent has directed any of those agencies to undertake in order to address those concerns, and a time line for the anticipated completion of those projects and for implementation of the revised methodology.
 
-"(3) The report shall also include recommendations as to how those ongoing efforts might be expedited, including any additional resources which, in the opinionof the pay agent, are needed in order to expedite completion of the activities described in the preceding provisions of this subsection, and the reasons why those additional resources are needed."
+"(3) The report shall also include recommendations as to how those ongoing efforts might be expedited, including any additional resources which, in the opinion of the pay agent, are needed in order to expedite completion of the activities described in the preceding provisions of this subsection, and the reasons why those additional resources are needed."
 
 #### Freeze of Current Rate for Locality-based Comparability Adjustments
 
@@ -766,7 +818,7 @@ Ex. Ord. No. 11721, May 23, 1973, 38 F.R. 13717, as amended by Ex. Ord. No. 1200
 
 Ex. Ord. No. 12764, June 5, 1991, 56 F.R. 26587, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5304(e) of title 5, United States Code, as amended, and in order to establish, in accordance with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), an advisory committee on locality-based comparability payments for General Schedule employees, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5304(e) of title 5, United States Code, as amended, and in order to establish, in accordance with the provisions of the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], an advisory committee on locality-based comparability payments for General Schedule employees, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. There is established a Federal Salary Council (the "Council"). The Council shall be composed of nine members appointed by the President in accordance with section 5304(e)(1) of title 5, United States Code. The President shall designate one of the members to serve as Chairman of the Council and shall designate another member to serve as Vice Chairman of the Council. The Vice Chairman shall act as Chairman in the absence of the Chairman.
 
@@ -784,7 +836,7 @@ Sec. 3. <i>Administration</i>. (a) Members of the Council shall receive no pay b
 
 (b) To the extent permitted by law and subject to the availability of appropriations, the Office of Personnel Management (the "Office") shall provide such facilities and administrative support to the Council as the Director of the Office determines appropriate.
 
-(c) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[5 U.S.C. App.\], except that of reporting to the Congress, which are applicable to the Council, shall be performed by the Director of the Office, in accordance with the guidelines and procedures established by the Administrator of General Services.
+(c) Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended \[see 5 U.S.C. 1001 et seq.\], except that of reporting to the Congress, which are applicable to the Council, shall be performed by the Director of the Office, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

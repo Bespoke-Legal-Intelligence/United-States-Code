@@ -2,7 +2,7 @@
 
 (a)
 
-Limitations.—The number of general officers on active duty in the Army, Air Force, andMarine Corps, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the armed force concerned as follows:
+Limitations.—The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the armed force concerned as follows:
 
 &emsp;(1) For the Army, 231.
 
@@ -64,7 +64,7 @@ Exclusion of Certain Officers Pending Separation or Retirement or Between Senior
 
 (e)
 
-Exclusion of Attending Physician to the Congress.—The limitations of this section donot apply to the general or flag officer who is serving as Attending Physician to the Congress.
+Exclusion of Attending Physician to the Congress.—The limitations of this section do not apply to the general or flag officer who is serving as Attending Physician to the Congress.
 
 (f)
 
@@ -74,7 +74,7 @@ Temporary Exclusion for Assignment to Certain Temporary Billets.—(1) The limit
 
 (g)
 
-Exclusion of Officers Departing From Joint Duty Assignments.—The limitations in subsection (a) do not apply to an officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers on active duty from each armed force may be covered by an extension under this sentence at the same time.
+Exclusion of Officers Departing From Joint Duty Assignments.—The limitations in subsection (a) do not apply to an officer releasedfrom a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers on active duty from each armed force may be covered by an extension under this sentence at the same time.
 
 (h)
 

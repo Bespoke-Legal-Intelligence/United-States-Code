@@ -24,7 +24,7 @@ The President shall impose the sanctions described in subsection (b) with respec
 
 #### (2) Penalties
 
-&emsp;A person that violates, attempts to violate, conspires to violate, or causes a violation of paragraph (1)(A) or any regulation, license, or order issued to carry out paragraph (1)(A) shall be subject to the penalties set forth insubsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+&emsp;A person that violates, attempts to violate, conspires to violate, or causes a violation of paragraph (1)(A) or any regulation, license, or order issued to carry out paragraph (1)(A) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
 #### (3) Exception relating to the importation of goods
 
@@ -34,7 +34,7 @@ The President shall impose the sanctions described in subsection (b) with respec
 
 #### (B) Good defined
 
-&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 4618 <sup>1</sup> of title 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
+&emsp;&emsp;In this paragraph, the term "good" has the meaning given that term in section 4618 <sup>1</sup> oftitle 50 (as continued in effect pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.)).
 
 #### (4) Exception to comply with United Nations headquarters agreement
 

@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 Feb. 4, 1919, ch. 14, §1, 40 Stat. 1056; Aug. 7, 1942, ch. 551, §1, 56 Stat. 743.
 
-In subsection (a) the word "award" is added for clarity since the President determines the recipient, in addition to presenting the medal in the name of Congress. The words "a member of the naval service" are substituted for the words "in the naval service of the United States" for uniformity. The word "distinguishes" is substituted for the words "shall \* \* \* distinguish" for uniformity.
+In subsection (a) the word "award" is added for clarity since the President determines the recipient, in addition to presenting the medal in the name of Congress.The words "a member of the naval service" are substituted for the words "in the naval service of the United States" for uniformity. The word "distinguishes" is substituted for the words "shall \* \* \* distinguish" for uniformity.
 
 In subsection (b) the words "of the medal of honor authorized on August 8, 1942" are substituted for the words "adopted pursuant to the Act approved December 21, 1861 (12 Stat. 330)" for the reason that the 1861 Act does not establish the design, and the date of formal adoption of the design of the medal is obscure. The effect of the subsection is to continue the design recognized by 34 U.S.C. 354.
 

@@ -8,7 +8,7 @@ To the maximum extent practicable, class I and class II substances shall be repl
 
 The Administrator shall—
 
-&emsp;(1) in consultation and coordination with interested members of the public and the heads of relevant Federal agencies and departments, recommend Federal research programs and other activities to assist in identifying alternatives to the use of class I and class II substances as refrigerants, solvents, fire retardants, foam blowing agents, and other commercial applications and in achieving a transition to such alternatives, and, where appropriate, seek to maximize the use of Federal research facilities and resources to assist users of class I and class II substances in identifying and developing alternatives to the use of such substances as refrigerants, solvents,fire retardants, foam blowing agents, and other commercial applications;
+&emsp;(1) in consultation and coordination with interested members of the public and the heads of relevant Federal agencies and departments, recommend Federal research programs and other activities to assist in identifying alternatives to the use of class I and class II substances as refrigerants, solvents, fire retardants, foam blowing agents, and other commercial applications and in achieving a transition to such alternatives, and, where appropriate, seek to maximize the use of Federal research facilities and resources to assist users of class I and class II substances in identifying and developing alternatives to the use of such substances as refrigerants, solvents, fire retardants, foam blowing agents, and other commercial applications;
 
 &emsp;(2) examine in consultation and coordination with the Secretary of Defense and the heads of other relevant Federal agencies and departments, including the General Services Administration, Federal procurement practices with respect to class I and class II substances and recommend measures to promote the transition by the Federal Government, as expeditiously as possible, to the use of safe substitutes;
 
@@ -18,7 +18,7 @@ The Administrator shall—
 
 #### (c) Alternatives for class I or II substances
 
-Within 2 years after November 15, 1990, the Administrator shall promulgate rules under this section providing that it shall be unlawful to replace any class I or class II substance with any substitute substance which the Administrator determines may present adverse effects to human health or the environment, where the Administrator has identified an alternative to such replacement that—
+Within 2 years after November 15, 1990, the Administrator shall promulgate rules under this section providing that it shall be unlawful to replace any class I or class II substance with anysubstitute substance which the Administrator determines may present adverse effects to human health or the environment, where the Administrator has identified an alternative to such replacement that—
 
 &emsp;(1) reduces the overall risk to human health and the environment; and
 

@@ -34,7 +34,7 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (A) Use of funds
 
-&emsp;&emsp;Each tribal health program making the election described in paragraph (1) with respect to a program under a title of the Social Security Act \[42 U.S.C. 301 et seq.\] shall be reimbursed directly by that program for items and services furnished without regard to subsection (c)(1), except that all amounts so reimbursed shall be used by the tribal health program for the purpose of making any improvements in facilities of the tribal health program that may be necessary to achieve or maintain compliance with the conditions and requirements applicable generally to such items and services under the program under such title and to provide additional health care services, improvements in health care facilities and tribal health programs, any health care-related purpose (including coverage for a service or service within a contract health service delivery area or any portion of a contract health service delivery area that would otherwise be provided as a contract health service), or otherwise to achieve the objectives provided in section 1602 of this title.
+&emsp;&emsp;Each tribal health program making the election described in paragraph (1) with respect to a program under a title of the Social Security Act \[42 U.S.C. 301 et seq.\] shall be reimbursed directly by that program for items and services furnished without regard to subsection (c)(1), except that all amounts so reimbursed shall be used by the tribal health program for the purpose of making any improvements in facilities of the tribal health program that may be necessary to achieve or maintain compliance with the conditions and requirements applicable generally to such items and services under the program under such title and to provide additional health care services, improvements in health care facilities and tribal health programs, any health care-related purpose (including coverage for a service or service within a contract health service delivery area or any portion of a contract health service delivery area that would otherwisebe provided as a contract health service), or otherwise to achieve the objectives provided in section 1602 of this title.
 
 #### (B) Audits
 
@@ -64,7 +64,7 @@ Nothing in this chapter authorizes the Secretary to provide services to an India
 
 #### (e) Related provisions under the Social Security Act
 
-For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) <sup>2</sup> ofthe Social Security Act \[42 U.S.C. 1395qq, 1396j, 1397gg(e)(1)(D)\].
+For provisions related to subsections (c) and (d), see sections 1880, 1911, and 2107(e)(1)(D) <sup>2</sup> of the Social Security Act \[42 U.S.C. 1395qq, 1396j, 1397gg(e)(1)(D)\].
 
 (Pub. L. 94–437, title IV, §401, Sept. 30, 1976, 90 Stat. 1408; Pub. L. 102–573, title IV, §401(a), Oct. 29, 1992, 106 Stat. 4565; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
@@ -80,7 +80,7 @@ The Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq
 
 #### Codification
 
-Amendment by Pub. L. 111–148 is based on section 151 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
+Amendment by Pub. L. 111–148 is based on section 151 of title I of S. 1790, One Hundred Eleventh Congress, asreported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
 Prior to general amendment by Pub. L. 102–573, section 401 of Pub. L. 94–437, in subsec. (a) amended sections 1395f and 1395n of Title 42, The Public Health and Welfare, in subsec. (b) enacted section 1395qq of Title 42, and in subsecs. (c) and (d) enacted provisions set out as notes under section 1395qq of Title 42 which were restated in this section.
 

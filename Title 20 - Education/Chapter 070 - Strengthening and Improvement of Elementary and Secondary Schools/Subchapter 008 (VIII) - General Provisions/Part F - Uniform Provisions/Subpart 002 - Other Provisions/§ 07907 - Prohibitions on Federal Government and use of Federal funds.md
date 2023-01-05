@@ -48,7 +48,7 @@ A prior section 7907, Pub. L. 89–10, title IX, §9207, as added Pub. L. 103–
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–95, §8024, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to prohibitions on Federal Government and use of Federal funds.
+<b>2015</b>—Pub. L. 114–95, §8024, amended section generally. Prior to amendment, section consisted of subsecs. (a) to\(d) relating to prohibitions on Federal Government and use of Federal funds.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

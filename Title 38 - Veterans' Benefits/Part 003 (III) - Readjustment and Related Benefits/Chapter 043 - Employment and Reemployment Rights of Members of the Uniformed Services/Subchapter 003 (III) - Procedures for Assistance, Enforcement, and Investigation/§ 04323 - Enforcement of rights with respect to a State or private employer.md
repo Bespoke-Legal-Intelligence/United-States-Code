@@ -102,7 +102,7 @@ Subsec. (a)(2)(A). Pub. L. 104–275, §311(10)(B), substituted "under section 4
 
 Pub. L. 105–368, title II, §211(b), Nov. 11, 1998, 112 Stat. 3330, provided that:
 
-"(1) Section 4323 of title 38, United States Code, as amended by subsection (a), shall apply to actions commenced under chapter 43 of such title on or after the date of the enactment of this Act \[Nov. 11, 1998\], and shall apply to actions commenced under such chapterbefore the date of the enactment of this Act that are not final on the date of the enactment of this Act, without regard to when the cause of action accrued.
+"(1) Section 4323 of title 38, United States Code, as amended by subsection (a), shall apply to actions commenced under chapter 43 of such title on or after the date of the enactment of this Act \[Nov. 11, 1998\], and shall apply to actions commenced under such chapter before the date of the enactment of this Act that are not final on the date of the enactment of this Act, without regard to when the cause of action accrued.
 
 "(2) In the case of any such action against a State (as an employer) in which a person, on the day before the date of the enactment of this Act \[Nov. 11, 1998\], is represented by the Attorney General under section 4323(a)(1) of such title as in effect on such day, the court shall upon motion of the Attorney General, substitute the United States as the plaintiff in the action pursuant to such section as amended by subsection (a)."
 

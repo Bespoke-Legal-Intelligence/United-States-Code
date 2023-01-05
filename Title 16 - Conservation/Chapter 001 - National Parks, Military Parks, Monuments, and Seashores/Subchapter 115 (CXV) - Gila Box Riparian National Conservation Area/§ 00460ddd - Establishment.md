@@ -38,7 +38,7 @@ Subject to valid existing rights, all Federal lands within the conservation area
 
 (1) No later than two years after November 28, 1990, the Secretary shall develop a comprehensive plan for the long-term management of the conservation area (hereinafter in this subchapter referred to as the "management plan") in order to fulfill the purposes for which the conservation area is established. The management plan shall be developed with full public participation and shall include provisions designed to assure protection of the resources and values (including the resources and values specified in subsection (a)) of the conservation area.
 
-(2) The management plan shall include a discussion of the desirability of the inclusion in the conservation area of additional lands, including the lands not in Federal ownership that are contiguous to the boundary of the conservation area (as depicted on the map referenced in subsection (b) or as hereafter adjusted pursuant to subsection (h)) and within the area extending two miles on either side of the centerline of Eagle Creek from the point where Eagle Creek crosses the southern boundary of the Apache National Forest to the confluence of Eagle Creek with the Gila River (this area is hereafter referred to in this subchapter as the "Eagle Creek riparian area").
+(2) The management plan shall include a discussion of the desirability of the inclusion in the conservation area of additional lands, including the lands not in Federal ownership that are contiguous to the boundary of the conservationarea (as depicted on the map referenced in subsection (b) or as hereafter adjusted pursuant to subsection (h)) and within the area extending two miles on either side of the centerline of Eagle Creek from the point where Eagle Creek crosses the southern boundary of the Apache National Forest to the confluence of Eagle Creek with the Gila River (this area is hereafter referred to in this subchapter as the "Eagle Creek riparian area").
 
 (3) In order to better implement the management plan, the Secretary may enter into cooperative agreements with appropriate State and local agencies pursuant to section 307(b) of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1737(b)\].
 
@@ -78,9 +78,9 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§§211–239) of Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 1987, as amended. For complete classification of chapter II to the Code, see Short Title note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§§211–239) of Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 1987. For complete classification of chapter II to the Code, see Short Title note set out under section 3551 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
 
@@ -94,5 +94,5 @@ Pub. L. 101–628, §1, Nov. 28, 1990, 104 Stat. 4469, provided that: "Titles I 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 

@@ -20,7 +20,7 @@ Limitation.—In addition to the prohibition in subsection (a), and except as pr
 
 &emsp;&emsp;(A) designed or manufactured in a covered foreign country, or by an entity controlled in whole or in part by, or acting on behalf of, the government of a covered foreign country; or
 
-&emsp;&emsp;(B) launched using a launch vehicle that is designed or manufactured in a covered foreign country, or that is provided by the government of a covered foreign country or by an entity controlled in whole or in part by,or acting on behalf of, the government of a covered foreign country, regardless of the location of the launch (unless such location is in the United States).
+&emsp;&emsp;(B) launched using a launch vehicle that is designed or manufactured in a covered foreign country, or that is provided by the government of a covered foreign country or by an entity controlled in whole or in part by, or acting on behalf of, the government of a covered foreign country, regardless of the location of the launch (unless such location is in the United States).
 
 &emsp;(2)
 
@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 115–91, §1603(b)(1), (d)(1)(B), (E), redesignated subsec
 
 Subsec. (e). Pub. L. 115–91, §1603(b)(1), (d)(1)(B), redesignated subsec. (d) as (e) and substituted "subsection (c)" for "subsection (b)". Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 115–91, §1603(b)(1), (c), redesignated subsec. (e) as (f) and amended it generally. Priorto amendment, text read as follows: "In this section, the term 'covered foreign country' means a country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2019)."
+Subsec. (f). Pub. L. 115–91, §1603(b)(1), (c), redesignated subsec. (e) as (f) and amended it generally. Prior to amendment, text read as follows: "In this section, the term 'covered foreign country' means a country described in section 1261(c)(2) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2019)."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

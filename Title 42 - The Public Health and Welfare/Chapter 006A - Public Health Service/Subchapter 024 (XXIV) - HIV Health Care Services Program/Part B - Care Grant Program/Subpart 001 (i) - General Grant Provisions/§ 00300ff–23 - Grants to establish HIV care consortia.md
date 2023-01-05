@@ -50,7 +50,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 &emsp;&emsp;&emsp;(i) assurances that service needs will be addressed through the coordination and expansion of existing programs before new programs are created;
 
-&emsp;&emsp;&emsp;(ii) assurances that, in metropolitan areas, the geographic area to be served bythe consortium corresponds to the geographic boundaries of local health and support services delivery systems to the extent practicable;
+&emsp;&emsp;&emsp;(ii) assurances that, in metropolitan areas, the geographic area to be served by the consortium corresponds to the geographic boundaries of local health and support services delivery systems to the extent practicable;
 
 &emsp;&emsp;&emsp;(iii) assurances that, in the case of services for individuals residing in rural areas, the applicant consortium shall deliver case management services that link available community support services to appropriate specialized medical services; and
 
@@ -86,7 +86,7 @@ A State may, subject to subsection (f), use amounts provided under a grant award
 
 #### (d) "Family centered care" defined
 
-As used in section 300ff–21 of this title, the term "family centered care" means the system of services described in this section that is targeted specifically to the special needs of infants, children, women, and families. Family centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV/AIDS.
+As used in section 300ff–21 of this title, the term "family centered care" means the systemof services described in this section that is targeted specifically to the special needs of infants, children, women, and families. Family centered care shall be based on a partnership between parents, professionals, and the community designed to ensure an integrated, coordinated, culturally sensitive, and community-based continuum of care for children, women, and families with HIV/AIDS.
 
 #### (e) Priority
 

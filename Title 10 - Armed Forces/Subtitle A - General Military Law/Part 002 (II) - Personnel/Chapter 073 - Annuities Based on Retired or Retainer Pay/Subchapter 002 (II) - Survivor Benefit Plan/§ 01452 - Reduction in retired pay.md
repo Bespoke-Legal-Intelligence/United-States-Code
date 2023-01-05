@@ -94,7 +94,7 @@ Special rule for certain rcsbp participants.—In the case of a participant in t
 
 &emsp;(4)
 
-Child-only coverage defined.—For the purposes of this subsection, a participant in the Plan who is providing child-only coverageis a participant who has a dependent child and who—
+Child-only coverage defined.—For the purposes of this subsection, a participant in the Plan who is providing child-only coverage is a participant who has a dependent child and who—
 
 &emsp;&emsp;(A) does not have an eligible spouse or former spouse; or
 
@@ -136,7 +136,7 @@ Rule for designation of new insurable interest beneficiary following death of or
 
 &emsp;&emsp;(B) Interest on the amounts by which the retired pay of the participant would have been so reduced, computed from the dates on which the retired pay would have been so reduced at such rate or rates and according to such methodology as the Secretary of Defense determines reasonable.
 
-&emsp;&emsp;(C) Any additional amount that the Secretary determines necessary to protect the actuarial soundness of the Department of Defense Military Retirement Fund against any increased risk for the fund that is associated with the election.
+&emsp;&emsp;(C) Any additional amount that the Secretary determines necessary to protect theactuarial soundness of the Department of Defense Military Retirement Fund against any increased risk for the fund that is associated with the election.
 
 (d)
 
@@ -224,7 +224,7 @@ Conditions for resumption.—A person described in paragraph (1) who discontinue
 
 &emsp;&emsp;&emsp;(i) after having discontinued participation in the Plan the Secretary of Veterans Affairs reduces that person's service-connected disability rating to a rating of less than total; and
 
-&emsp;&emsp;&emsp;(ii) that person applies to the Secretary concerned, within such period of time after the reduction in such person's service-connected disability rating has been made as the Secretary concerned may prescribe, to again participate in the Plan and includes in such application such information as the Secretary concerned may require.
+&emsp;&emsp;&emsp;(ii) that person applies to the Secretary concerned, within such period of time afterthe reduction in such person's service-connected disability rating has been made as the Secretary concerned may prescribe, to again participate in the Plan and includes in such application such information as the Secretary concerned may require.
 
 &emsp;&emsp;(B)
 
@@ -256,7 +256,7 @@ Delay not to affect computation of annuity.—Subparagraph (A) may not be constr
 
 (i)
 
-Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title)so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under section 1401a(b) of this title, and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
+Recomputation of Reduction Upon Recomputation of Retired Pay.—Whenever the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under section 1410 of this title upon the person's becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effective on the effective date of the recomputation of such retired pay under section 1410 of this title) so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under section 1401a(b) of this title, and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of section 1401a(b) of this title (rather than under paragraph (3) of that section).
 
 (j)
 
@@ -376,7 +376,7 @@ Subsec. (g)(4). Pub. L. 97–22, §11(a)(5), substituted "this section" for "sec
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for "by an amount equal to 2½ percent of the first $300 of the base amount plus 10 percent of the remainder of the base amount" after "shall be reduced each month".
 
-Subsec. (c). Pub. L. 95–397, §205(b), substituted pars. (1) and (2) for "by 10 percent plus 5 percent for each full 5 years the individual designated is younger than that person. However, the total reduction may not exceed 40 percent. The reduction in retired or retainer pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired or retainer pay changes his election under section 1450(f)", and inserted provision following par. (2) that the total reduction under clause (1) may not exceed 40 percent, and that the reduction in retired or retainer pay shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person changes his election under section 1450(f) of this title.
+Subsec. (c). Pub. L. 95–397, §205(b), substituted pars. (1) and (2) for "by 10 percent plus 5 percent for each full 5 years the individual designated is younger than that person. However, the total reduction may not exceed 40 percent. The reduction in retired or retainer pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired or retainer pay changes his election under section 1450(f)", and inserted provision following par. (2) that the total reduction under clause (1) may not exceed 40percent, and that the reduction in retired or retainer pay shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person changes his election under section 1450(f) of this title.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–496, §1(4), (5)(A), substituted "Except as provided in subsection (b), the retired or retainer pay" for "The retired or retainer pay", "(a)(4)" for "(a)(3)", and inserted provision prohibiting a reduction in retired or retainer pay during any month in which there is no eligible spouse beneficiary.
 
@@ -414,7 +414,7 @@ Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C), Nov. 5, 1990, 104 Stat. 1
 
 Pub. L. 99–145, title VII, §714(b), Nov. 8, 1985, 99 Stat. 673, provided that: "The amendments made by clause (5) of subsection (a) \[amending this section\] shall apply only with respect to persons who first participate in the Plan on or after the effective date of this title \[see note below\]."
 
-Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, except as otherwise provided, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period beforeMar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
+Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, except as otherwise provided, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
 
 #### Effective Date of 1980 Amendment
 

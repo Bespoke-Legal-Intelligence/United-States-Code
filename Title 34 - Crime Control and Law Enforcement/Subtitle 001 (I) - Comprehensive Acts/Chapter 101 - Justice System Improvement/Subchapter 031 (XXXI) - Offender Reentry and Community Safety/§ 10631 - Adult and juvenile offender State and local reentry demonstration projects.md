@@ -168,7 +168,7 @@ Funds for the juvenile offender reentry demonstration projects may be expended f
 
 #### (ii) Maximum percentage
 
-&emsp;&emsp;&emsp;Not more than 50 percent of the amount provided by a recipient of a grant underthis section to meet the matching requirement under subparagraph (A) may be provided through in-kind contributions under clause (i).
+&emsp;&emsp;&emsp;Not more than 50 percent of the amount provided by a recipient of a grant under this section to meet the matching requirement under subparagraph (A) may be provided through in-kind contributions under clause (i).
 
 #### (2) Supplement not supplant
 
@@ -292,7 +292,7 @@ Funds for the juvenile offender reentry demonstration projects may be expended f
 
 &emsp;&emsp;(C) provide to all grantees technical assistance and training on performance measures and data collection for purposes of subsection (f); and
 
-&emsp;&emsp;(D) consult with the Substance Abuse and Mental Health Services Administration and the National Institute on Drug Abuse on strategic performance outcome measures and data collection for purposes of subsection (f) relating to substance abuse and mental health.
+&emsp;&emsp;(D) consult with the Substance Abuse and Mental Health Services Administration and the National Institute on Drug Abuse on strategic performance outcome measuresand data collection for purposes of subsection (f) relating to substance abuse and mental health.
 
 #### (2) Coordination
 
@@ -332,7 +332,7 @@ To be eligible to receive a grant under this section in any fiscal year after th
 
 &emsp;&emsp;(B) collect data and best practices in offender reentry from demonstration grantees and others agencies and organizations;
 
-&emsp;&emsp;(C) develop and disseminate evaluation tools, mechanisms, and measures to betterassess and document coalition performance measures and outcomes;
+&emsp;&emsp;(C) develop and disseminate evaluation tools, mechanisms, and measures to better assess and document coalition performance measures and outcomes;
 
 &emsp;&emsp;(D) disseminate information to States and other relevant entities about best practices, policy standards, and research findings;
 

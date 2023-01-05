@@ -8,7 +8,7 @@ Development of Tenant Bill of Rights and Tenant Responsibilities Documents.—(1
 
 (3) The rights and responsibilities contained in the housing documents are not intended to be exclusive. The omission of a tenant right or responsibility shall not be construed to deny the existence of such a right or responsibility for tenants.
 
-(4) Each contract between the Secretary concerned and a landlord shall incorporate the housing documents and guarantee the rights and responsibilities of tenants who reside in housing units covered by the contract.
+(4) Each contract between the Secretary concerned and a landlord shall incorporate the housing documents and guarantee the rights andresponsibilities of tenants who reside in housing units covered by the contract.
 
 (5) The Secretary of Defense shall develop the housing documents in coordination with the Secretaries of the military departments.
 
@@ -28,7 +28,7 @@ Elements of Tenant Bill of Rights.—At a minimum, the Military Housing Privatiz
 
 &emsp;(6) The right to have sufficient time and opportunity to prepare and be present for move-in and move-out inspections, including an opportunity to obtain and complete necessary paperwork.
 
-&emsp;(7) The right to report inadequate housing standards or deficits in habitability of the housing unit to the landlord, the chain of command, and housing management office without fear of reprisal or retaliation, as provided insubsection (e), including reprisal or retaliation in the following forms:
+&emsp;(7) The right to report inadequate housing standards or deficits in habitability of the housing unit to the landlord, the chain of command, and housing management office without fear of reprisal or retaliation, as provided in subsection (e), including reprisal or retaliation in the following forms:
 
 &emsp;&emsp;(A) Unlawful recovery of, or attempt to recover, possession of the housing unit.
 
@@ -176,7 +176,7 @@ Consultation.—The Secretary of Defense shall carry out this section in consult
 
 "(d)
 
-Deadline.—The uniform checklists required by this section shall be completed not later than 60 days after the date of the enactment of this Act \[Dec. 20, 2019\]."
+Deadline.—The uniform checklists required by this section shall be completed not later than 60 daysafter the date of the enactment of this Act \[Dec. 20, 2019\]."
 
 \[For definitions of "landlord", "privatized military housing", and "tenant" as used in section 3056 of Pub. L. 116–92, set out above, see section 3001(a) of Pub. L. 116–92, set out as a note under section 2821 of this title.\]
 

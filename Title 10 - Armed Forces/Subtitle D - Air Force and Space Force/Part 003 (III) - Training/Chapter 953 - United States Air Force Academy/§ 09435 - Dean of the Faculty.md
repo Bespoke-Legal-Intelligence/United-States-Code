@@ -4,7 +4,7 @@
 
 (b) The retirement age of an officer appointed as Dean of the Faculty is that of a permanent professor of the Academy.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 562, §9335; Pub. L. 85–861, §33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567;Pub. L. 99–661, div. A, title V, §508(c), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 102–484, div. A, title V, §521(b), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 106–65, div. A, title V, §533(b), Oct. 5, 1999, 113 Stat. 605; Pub. L. 108–136, div. A, title V, §529(a), (b), Nov. 24, 2003, 117 Stat. 1471; Pub. L. 108–375, div. A, title V, §542, Oct. 28, 2004, 118 Stat. 1904; Pub. L. 114–328, div. A, title V, §502(qq), Dec. 23, 2016, 130 Stat. 2106; Pub. L. 115–91, div. A, title V, §507(b), Dec. 12, 2017, 131 Stat. 1375; renumbered §9435, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 562, §9335; Pub. L. 85–861, §33(a)(46)(A), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 99–661, div. A, title V, §508(c), Nov. 14, 1986, 100 Stat. 3867; Pub. L. 102–484, div. A, title V, §521(b), Oct. 23, 1992, 106 Stat. 2409; Pub. L. 106–65, div. A, title V, §533(b), Oct. 5, 1999, 113 Stat. 605; Pub. L. 108–136, div. A, title V, §529(a), (b), Nov. 24, 2003, 117 Stat. 1471; Pub. L. 108–375, div. A, title V, §542, Oct. 28, 2004, 118 Stat. 1904; Pub. L. 114–328, div. A, title V, §502(qq), Dec. 23, 2016, 130 Stat. 2106; Pub. L. 115–91, div. A, title V, §507(b), Dec. 12, 2017, 131 Stat. 1375; renumbered §9435, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
 
 Historical and Revision Notes<br>1956
 

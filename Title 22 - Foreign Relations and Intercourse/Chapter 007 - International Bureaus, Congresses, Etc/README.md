@@ -75,9 +75,12 @@
 | 262p–10. | Enhancing the transparency and effectiveness of the Inspection Panel process of the World Bank. |
 | 262p–11. | Opposition to loans or funds for countries that support terrorism. |
 | 262p–12. | Cancellation of Haiti's debts to international financial institutions. |
+| 262p–12a. | Ukraine debt payment relief. |
 | 262p–13. | Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism. |
 | 262p–14. | Support to enhance the capacity of fund members to evaluate the legal and financial terms of sovereign debt contracts. |
 | 262p–15. | United States policy on Burma at the International Monetary Fund, the World Bank Group, and the Asian Development Bank. |
+| 262p–16. | United States policy on World Bank Group and Asian Development Bank Assistance to the People's Republic of China. |
+| 262p–17. | Support for international initiatives to provide debt restructuring or relief to developing countries with unsustainable levels of debt. |
 | [262q.](%C2%A7%2000262q%20-%20Transferred.md) | Transferred. |
 | [262r.](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md) | Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies. |
 | 262r–1. | Transmission to the Congress of operating summaries of the multilateral development banks. |
@@ -132,6 +135,7 @@
 | 276c–3. | Repealed. |
 | 276c–4. | Employment of United States citizens by certain international organizations. |
 | 276c–5. | Authorization for United States participation in the Coalition for Epidemic Preparedness Innovations. |
+| 276c–6. | Supporting the employment of United States citizens by international organizations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -272,6 +276,7 @@
 | 277g–3. | Authorization of appropriations. |
 | [277h.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277h%20-%20Authority%20of%20the%20International%20Boundary%20and%20Water%20Commission%20to%20assist%20State%20and%20local%20governments.md) | Authority of the International Boundary and Water Commission to assist State and local governments. |
 | [277i.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277i%20-%20Report%20on%20water%20sharing.md) | Report on water sharing. |
+| [277j.](Subchapter%20004%20%28IV%29%20-%20International%20Boundary%20and%20Water%20Commission/%C2%A7%2000277j%20-%20Management%20of%20international%20transboundary%20water%20pollution.md) | Management of international transboundary water pollution. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -456,6 +461,7 @@
 | [284aa.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284aa%20-%20Multilateral%20debt%20relief.md) | Multilateral debt relief. |
 | [284bb.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284bb%20-%20Eighteenth%20replenishment.md) | Eighteenth replenishment. |
 | [284cc.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284cc%20-%20Nineteenth%20replenishment.md) | Nineteenth replenishment. |
+| [284dd.](Subchapter%20013%20%28XIII%29%20-%20International%20Development%20Association/%C2%A7%2000284dd%20-%20Twentieth%20replenishment.md) | Twentieth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -497,6 +503,7 @@
 | [285ee.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285ee%20-%20Fifth%20capital%20increase.md) | Fifth capital increase. |
 | [285ff.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285ff%20-%20Tenth%20replenishment.md) | Tenth replenishment. |
 | [285gg.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285gg%20-%20Eleventh%20replenishment.md) | Eleventh replenishment. |
+| [285hh.](Subchapter%20014%20%28XIV%29%20-%20Asian%20Development%20Bank/%C2%A7%2000285hh%20-%20Twelfth%20replenishment.md) | Twelfth replenishment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -606,6 +613,7 @@
 | 287e–1. | Housing supplement for certain employees assigned to the United States Mission to the United Nations. |
 | 287e–2. | Reimbursement for goods and services provided by the United States to the United Nations. |
 | 287e–3. | Limitation on the United States share of assessments for United Nations regular budget. |
+| 287e–4. | Limitation on United States contributions to peacekeeping operations not authorized by the United Nations Security Council. |
 | [287f.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287f%20-%20Omitted.md) | Omitted. |
 | [287g.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287g%20-%20Authorization%20of%20appropriations%20for%20loan%20to%20United%20Nations%3B%20restrictions%20on%20use%20of%20proceeds%20of%20loan.md) | Authorization of appropriations for loan to United Nations; restrictions on use of proceeds of loan. |
 | [287h.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287h%20-%20Limitation%20on%20loan.md) | Limitation on loan. |
@@ -884,7 +892,7 @@ Membership.—The Cyprus, Greece, Israel, and the United States 3+1 Interparliam
 
 "(c)
 
-Meetings.—Not less frequently than once each year, the United States group shall meet with members of the 3+1 group to discuss issues on the agenda of the 3+1 deliberations of the Governments of Greece, Israel, Cyprus, and the United States to include maritime security, defense cooperation, energy initiatives, and countering malign influence efforts by the People's Republic of China and the Russian Federation.
+Meetings.—Not less frequently than once each year, the United States group shall meet with membersof the 3+1 group to discuss issues on the agenda of the 3+1 deliberations of the Governments of Greece, Israel, Cyprus, and the United States to include maritime security, defense cooperation, energy initiatives, and countering malign influence efforts by the People's Republic of China and the Russian Federation.
 
 "(d)
 
@@ -1096,9 +1104,12 @@ Ensuring Debt Transparency With Respect to the Belt and Road Initiative.—Withi
 - [&sect; 00262p&#8211;10 - Enhancing the transparency and effectiveness of the Inspection Panel process of the World Bank](%C2%A7%2000262p%E2%80%9310%20-%20Enhancing%20the%20transparency%20and%20effectiveness%20of%20the%20Inspection%20Panel%20process%20of%20the%20World%20Bank.md)
 - [&sect; 00262p&#8211;11 - Opposition to loans or funds for countries that support terrorism](%C2%A7%2000262p%E2%80%9311%20-%20Opposition%20to%20loans%20or%20funds%20for%20countries%20that%20support%20terrorism.md)
 - [&sect; 00262p&#8211;12 - Cancellation of Haiti's debts to international financial institutions](%C2%A7%2000262p%E2%80%9312%20-%20Cancellation%20of%20Haiti%27s%20debts%20to%20international%20financial%20institutions.md)
+- [&sect; 00262p&#8211;12a - Ukraine debt payment relief](%C2%A7%2000262p%E2%80%9312a%20-%20Ukraine%20debt%20payment%20relief.md)
 - [&sect; 00262p&#8211;13 - Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism](%C2%A7%2000262p%E2%80%9313%20-%20Support%20for%20capacity%20of%20the%20International%20Monetary%20Fund%20to%20prevent%20money%20laundering%20and%20financing%20of%20terrorism.md)
 - [&sect; 00262p&#8211;14 - Support to enhance the capacity of fund members to evaluate the legal and financial terms of sovereign debt contracts](%C2%A7%2000262p%E2%80%9314%20-%20Support%20to%20enhance%20the%20capacity%20of%20fund%20members%20to%20evaluate%20the%20legal%20and%20financial%20terms%20of%20sovereign%20debt%20contracts.md)
 - [&sect; 00262p&#8211;15 - United States policy on Burma at the International Monetary Fund, the World Bank Group, and the Asian Development Bank](%C2%A7%2000262p%E2%80%9315%20-%20United%20States%20policy%20on%20Burma%20at%20the%20International%20Monetary%20Fund%2C%20the%20World%20Bank%20Group%2C%20and%20the%20Asian%20Development%20Bank.md)
+- [&sect; 00262p&#8211;16 - United States policy on World Bank Group and Asian Development Bank Assistance to the People's Republic of China](%C2%A7%2000262p%E2%80%9316%20-%20United%20States%20policy%20on%20World%20Bank%20Group%20and%20Asian%20Development%20Bank%20Assistance%20to%20the%20People%27s%20Republic%20of%20China.md)
+- [&sect; 00262p&#8211;17 - Support for international initiatives to provide debt restructuring or relief to developing countries with unsustainable levels of&#8230;](%C2%A7%2000262p%E2%80%9317%20-%20Support%20for%20international%20initiatives%20to%20provide%20debt%20restructuring%20or%20relief%20to%20developing%20countries%20with%20unsustainable%20levels%20of%E2%80%A6.md)
 - [&sect; 00262q - Transferred](%C2%A7%2000262q%20-%20Transferred.md)
 - [&sect; 00262r - Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md)
 - [&sect; 00262r&#8211;1 - Transmission to the Congress of operating summaries of the multilateral development banks](%C2%A7%2000262r%E2%80%931%20-%20Transmission%20to%20the%20Congress%20of%20operating%20summaries%20of%20the%20multilateral%20development%20banks.md)
@@ -1155,6 +1166,7 @@ Ensuring Debt Transparency With Respect to the Belt and Road Initiative.—Withi
 - [&sect; 00276c&#8211;3 - Repealed. Pub. L. 101&#8211;240, title V, &sect;541(d)(7), Dec. 19, 1989, 103 Stat. 2518](%C2%A7%2000276c%E2%80%933%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93240%2C%20title%20V%2C%20%C2%A7541%28d%29%287%29%2C%20Dec.%2019%2C%201989%2C%20103%20Stat.%202518.md)
 - [&sect; 00276c&#8211;4 - Employment of United States citizens by certain international organizations](%C2%A7%2000276c%E2%80%934%20-%20Employment%20of%20United%20States%20citizens%20by%20certain%20international%20organizations.md)
 - [&sect; 00276c&#8211;5 - Authorization for United States participation in the Coalition for Epidemic Preparedness Innovations](%C2%A7%2000276c%E2%80%935%20-%20Authorization%20for%20United%20States%20participation%20in%20the%20Coalition%20for%20Epidemic%20Preparedness%20Innovations.md)
+- [&sect; 00276c&#8211;6 - Supporting the employment of United States citizens by international organizations](%C2%A7%2000276c%E2%80%936%20-%20Supporting%20the%20employment%20of%20United%20States%20citizens%20by%20international%20organizations.md)
 - [Subchapter 001 (I) - Canada-United States Interparliamentary Group](Subchapter%20001%20%28I%29%20-%20Canada-United%20States%20Interparliamentary%20Group/README.md)
 - [Subchapter 002 (II) - Mexico-United States Interparliamentary Group](Subchapter%20002%20%28II%29%20-%20Mexico-United%20States%20Interparliamentary%20Group/README.md)
 - [Subchapter 002&#8211;A (II&#8211;A) - British-American Interparliamentary Group](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20British-American%20Interparliamentary%20Group/README.md)

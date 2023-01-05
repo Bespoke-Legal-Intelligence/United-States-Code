@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-In addition to amounts for agricultural research, extension, and education under this chapter, there are authorized to be appropriated for agricultural research, education, and extension activities for biosecurity planning and response—
+In addition to amounts for agricultural research, extension, and education under this chapter, there are authorized to be appropriatedfor agricultural research, education, and extension activities for biosecurity planning and response—
 
 &emsp;(1) such sums as are necessary for each of fiscal years 2002 through 2013;
 
@@ -30,7 +30,7 @@ Using any authority available to the Secretary, the Secretary shall use funds ma
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", and was translated as reading "this title", meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, as amended, known as the National Agricultural Research, Extension, and Teaching Policy Act of 1977, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XIV to the Code, see References in Text note set out under section 3102 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", and was translated as reading "this title", meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, known as the National Agricultural Research, Extension, and Teaching Policy Act of 1977, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XIV to the Code, see References in Text note set out under section 3102 of this title and Tables.
 
 #### Codification
 

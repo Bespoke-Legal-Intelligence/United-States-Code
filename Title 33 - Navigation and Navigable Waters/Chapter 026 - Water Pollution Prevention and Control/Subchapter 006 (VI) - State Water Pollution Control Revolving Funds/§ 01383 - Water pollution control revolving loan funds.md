@@ -162,7 +162,7 @@ A State water pollution control revolving fund may provide assistance (other tha
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each fiscal year, of the amount of the capitalization grant received by the State under this subchapter, the total amount of additional subsidization made available by a State under paragraph (1)—
+&emsp;&emsp;&emsp;For each fiscal year, of the amount of the capitalization grant received by theState under this subchapter, the total amount of additional subsidization made available by a State under paragraph (1)—
 
 &emsp;&emsp;&emsp;&emsp;(I) may not exceed 30 percent; and
 

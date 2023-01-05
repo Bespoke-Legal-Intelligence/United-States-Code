@@ -14,7 +14,7 @@ For the purpose of this title—
 
 > &emsp;and, except as provided under section 2108a, who has been discharged or released from active duty in the armed forces under honorable conditions;
 
-&emsp;(2) "disabled veteran" means an individual who has served on active duty in the armedforces, (except as provided under section 2108a) has been separated therefrom under honorable conditions, and has established the present existence of a service-connected disability or is receiving compensation, disability retirement benefits, or pension because of a public statute administered by the Department of Veterans Affairs or a military department;
+&emsp;(2) "disabled veteran" means an individual who has served on active duty in the armed forces, (except as provided under section 2108a) has been separated therefrom under honorable conditions, and has established the present existence of a service-connected disability or is receiving compensation, disability retirement benefits, or pension because of a public statute administered by the Department of Veterans Affairs or a military department;
 
 &emsp;(3) "preference eligible" means, except as provided in paragraph (4) of this section or section 2108a(c)—
 
@@ -188,7 +188,7 @@ Date of Enactment Effective Date for Certain Amendments.—The amendments made b
 
 "(c)
 
-Sole Survivorship Discharge Defined.—In this section, the term 'sole survivorship discharge' means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
+Sole Survivorship Discharge Defined.—In this section, the term 'sole survivorship discharge' means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of amember who is the only surviving child in a family in which—
 
 &emsp;"(1) the father or mother or one or more siblings—
 
@@ -228,5 +228,5 @@ Pub. L. 109–163, div. A, title XI, §1112(b), Jan. 6, 2006, 119 Stat. 3451, pr
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

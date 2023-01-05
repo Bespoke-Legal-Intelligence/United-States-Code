@@ -22,7 +22,7 @@
 
 &emsp;(4) "pay" means—
 
-&emsp;&emsp;(A) basic pay, premium pay paid under subchapter V, any payment received undersubchapter VI, VII, or VIII, severance and back pay paid under subchapter IX, sick pay, incentive pay, and any other compensation paid or payable for personal services, whether such compensation is denominated as wages, salary, commission, bonus pay or otherwise; and
+&emsp;&emsp;(A) basic pay, premium pay paid under subchapter V, any payment received under subchapter VI, VII, or VIII, severance and back pay paid under subchapter IX, sick pay, incentive pay, and any other compensation paid or payable for personal services, whether such compensation is denominated as wages, salary, commission, bonus pay or otherwise; and
 
 &emsp;&emsp;(B) does not include awards for making suggestions.
 
@@ -68,7 +68,7 @@
 
 &emsp;(B) consideration for the absence of a member of the uniformed service from an appearance in a judicial proceeding resulting from the exigencies of military duty.
 
-(3) The Secretaries of the Executive departments concerned shall promulgate regulationsunder this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Homeland Security with regard to the promulgation of such regulations that might affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.
+(3) The Secretaries of the Executive departments concerned shall promulgate regulations under this subsection that are, as far as practicable, uniform for all of the uniformed services. The Secretary of Defense shall consult with the Secretary of Homeland Security with regard to the promulgation of such regulations that might affect members of the Coast Guard when the Coast Guard is operating as a service in the Navy.
 
 (Added Pub. L. 103–94, §9(a), Oct. 6, 1993, 107 Stat. 1007; amended Pub. L. 104–106, div. A, title VI, §643, Feb. 10, 1996, 110 Stat. 368; Pub. L. 104–193, title III, §362(b)(2), Aug. 22, 1996, 110 Stat. 2246; Pub. L. 105–85, div. A, title XI, §1105, Nov. 18, 1997, 111 Stat. 1923; Pub. L. 108–189, §2(b)(1), Dec. 19, 2003, 117 Stat. 2865; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
@@ -136,7 +136,7 @@ Ex. Ord. No. 12897, Feb. 3, 1994, 59 F.R. 5517, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5520a(j)(1)(A) of title 5, United States Code, as added by section 9 of Public Law 103–94, it is hereby ordered as follows:
 
-Section 1. The Office of Personnel Management, in consultation with the Attorney General, is designatedto promulgate regulations for the implementation of section 5520a of title 5, United States Code, with respect to civilian employees and agencies in the executive branch, except as provided in section 2 of this order.
+Section 1. The Office of Personnel Management, in consultation with the Attorney General, is designated to promulgate regulations for the implementation of section 5520a of title 5, United States Code, with respect to civilian employees and agencies in the executive branch, except as provided in section 2 of this order.
 
 Sec. 2. The Postmaster General is designated to promulgate regulations for the implementation of section 5520a of title 5, United States Code, with respect to employees of the United States Postal Service.
 

@@ -12,7 +12,7 @@ The amount of any State's allotment under subsection (a) for any fiscal year whi
 
 #### (c) Allotments subject to continuing compliance
 
-The Secretary shall make payments for continuing incentive grants only to States which continue to meet the requirements of section 1070c–2(b) of this title.
+The Secretary shall make payments for continuing incentive grants only to States whichcontinue to meet the requirements of section 1070c–2(b) of this title.
 
 (Pub. L. 89–329, title IV, §415B, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1333; amended Pub. L. 105–244, title IV, §407(a)(2)(A), (c)(2), Oct. 7, 1998, 112 Stat. 1666, 1667.)
 

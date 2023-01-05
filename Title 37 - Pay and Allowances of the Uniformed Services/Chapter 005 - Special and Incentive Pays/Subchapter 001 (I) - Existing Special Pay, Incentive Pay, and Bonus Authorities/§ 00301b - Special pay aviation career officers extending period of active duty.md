@@ -260,6 +260,70 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 For termination, effective Dec. 31, 2021, of provisions in subsec. (i)(2) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of Title 10, Armed Forces.
 
+#### Air Force Rated Officer Retention Demonstration Program
+
+Pub. L. 117–263, div. A, title VI, §604, Dec. 23, 2022, 136 Stat. 2621, provided that:
+
+"(a)
+
+Program Requirement.—The Secretary shall establish and carry out within the Department of the Air Force a demonstration program to assess and improve retention on active duty in the Air Force of rated officers described in subsection (b).
+
+"(b)
+
+Rated Officers Described.—Rated officers described in this subsection are rated officers serving on active duty in the Air Force, excluding rated officers with a reserve appointment in the Air National Guard or Air Force Reserve—
+
+&emsp;"(1) whose continued service on active duty would be in the best interest of the Department of the Air Force, as determined by the Secretary; and
+
+&emsp;"(2) who have not more than three years and not less than one year remaining on an active duty service obligation under section 653 of title 10, United States Code.
+
+"(c)
+
+Written Agreement.—
+
+&emsp;"(1)
+
+In general.—Under the demonstration program required under subsection (a), the Secretary shall offer retention incentives under subsection (d) to a rated officer described in subsection (b) who executes a written agreement to remain on active duty in a regular component of the Air Force for not less than four years after the completion of the active duty service obligation of the officer under section 653 of title 10, United States Code.
+
+&emsp;"(2)
+
+Exception.—If the Secretary of the Air Force determines that an assignment previously guaranteed under subsection (d)(1) to a rated officer described in subsection (b) cannot be fulfilled, the agreement of the officer under paragraph (1) to remain on active duty shall expire not later than one year after that determination.
+
+"(d)
+
+Retention Incentives.—
+
+&emsp;"(1)
+
+Guarantee of future assignment location.—Under the demonstration program required under subsection (a), the Secretary may offer to a rated officer described in subsection (b) a guarantee of future assignment locations based on the preference of the officer.
+
+&emsp;"(2)
+
+Aviation bonus.—Under the demonstration program required under subsection (a), notwithstanding section 334(c) of title 37, United States Code, the Secretary may pay to a rated officer described in subsection (b) an aviation bonus not to exceed an average annual amount of $50,000 (subject to paragraph (3)(B)).
+
+&emsp;"(3)
+
+Combination of incentives.—The Secretary may offer to a rated officer described in subsection (b) a combination of incentives under paragraphs (1) and (2).
+
+"(e)
+
+Annual Briefing.—Not later than December 31, 2023, and annually thereafter until the termination of the demonstration program required under subsection (a), the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing describing the use of such demonstration program and its effects on the retention on active duty in the Air Force of rated officers described in subsection (b).
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Rated officer.—The term 'rated officer' means an officer specified in section 9253 of title 10, United States Code.
+
+&emsp;"(2)
+
+Secretary.—The term 'Secretary' means the Secretary of the Air Force.
+
+"(g)
+
+Termination.—This section shall terminate on December 31, 2028."
+
 #### Payment of Bonus to Aviation Officers Killed in Persian Gulf War Before Completion of Service
 
 Pub. L. 102–172, title VIII, §8135, Nov. 26, 1991, 105 Stat. 1212, as amended by Pub. L. 105–277, div. C, title I, §148, Oct. 21, 1998, 112 Stat. 2681–610, provided that:
@@ -282,7 +346,7 @@ Pub. L. 104–106, div. A, title VI, §613(i), Feb. 10, 1996, 110 Stat. 360, pro
 
 "(1) In the case of an officer described in section 301b(b) of title 37, United States Code, who executes an agreement described in paragraph (2) during the 90-day period beginning on the date of the enactment of this Act \[Feb. 10, 1996\], the Secretary concerned may treat the agreement for purposes of the retention bonus authorized under the agreement as having been executed and accepted on the first date on which the officer would have qualified for such an agreement had the amendment made by subsection (a) \[amending this section\] taken effect on October 1, 1995.
 
-"(2) An agreement referred to in this subsection is a service agreement with the Secretary concerned that isa condition for the payment of a retention bonus under section 301b of title 37, United States Code.
+"(2) An agreement referred to in this subsection is a service agreement with the Secretary concerned that is a condition for the payment of a retention bonus under section 301b of title 37, United States Code.
 
 "(3) For purposes of this subsection, the term 'Secretary concerned' has the meaning given that term in section 101(5) of title 37, United States Code."
 
@@ -310,7 +374,7 @@ Pub. L. 102–190, div. A, title VI, §612(a)(2), Dec. 5, 1991, 105 Stat. 1376, 
 
 "(A) In the case of an officer described in subparagraph (B) who executes an agreement under section 301b of such title \[37 U.S.C. 301b\] during the 90-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\], the Secretary concerned may treat such agreement as having been executed and accepted for purposes of such section on the first date on which the officer would have qualified for such an agreement had the amendment made by paragraph (1) \[amending this section\] taken effect on October 1, 1991.
 
-"(B) An officer referred to in subparagraph (A) is an officer who, during the period beginning on October 1, 1991, and ending on the date of the enactment of this Act, would have qualified for an agreement under such section had the amendment made by paragraph (1) taken effect on October 1, 1991.
+"(B) An officer referred to in subparagraph (A) is an officer who, during the period beginning on October 1,1991, and ending on the date of the enactment of this Act, would have qualified for an agreement under such section had the amendment made by paragraph (1) taken effect on October 1, 1991.
 
 "(C) For purposes of this paragraph, the term 'Secretary concerned' has the meaning given that term in section 101(5) of title 37, United States Code."
 

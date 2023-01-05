@@ -4,7 +4,7 @@
 
 In order to satisfy section 654(20)(A) of this title, each State must have in effect laws requiring the use of the following procedures, consistent with this section and with regulations of the Secretary, to increase the effectiveness of the program which the State administers under this part:
 
-&emsp;(1)(A) Procedures described in subsection (b) for the withholding from income of amountspayable as support in cases subject to enforcement under the State plan.
+&emsp;(1)(A) Procedures described in subsection (b) for the withholding from income of amounts payable as support in cases subject to enforcement under the State plan.
 
 &emsp;(B) Procedures under which the income of a person with a support obligation imposed by a support order issued (or modified) in the State before January 1, 1994, if not otherwise subject to withholding under subsection (b), shall become subject to withholding as provided in subsection (b) if arrearages occur, without the need for a judicial or administrative hearing.
 
@@ -188,7 +188,7 @@ Safeguards.—Procedures ensuring that, in carrying out subparagraph (A), inform
 
 &emsp;(B) Procedures under which all child support orders which are initially issued in the State on or after January 1, 1994, and are not being enforced under this part will include the following requirements:
 
-&emsp;&emsp;(i) The income of a noncustodial parent shall be subject to withholding, regardless of whether support payments by such parent are in arrears, on the effective date of the order; except that such income shall not be subject to withholding under this clause in any case where (I) one of the parties demonstrates, and the court (or administrative process) finds, that there is good cause not to require immediate income withholding, or (II) a written agreement is reached between both parties which provides for an alternative arrangement.
+&emsp;&emsp;(i) The income of a noncustodial parent shall be subject to withholding, regardless of whether support payments by such parent are in arrears, on the effective date of the order; except that such income shall not be subject to withholding under this clause inany case where (I) one of the parties demonstrates, and the court (or administrative process) finds, that there is good cause not to require immediate income withholding, or (II) a written agreement is reached between both parties which provides for an alternative arrangement.
 
 &emsp;&emsp;(ii) The requirements of subsection (b)(1) (which shall apply in the case of each noncustodial parent against whom a support order is or has been issued or modified in the State, without regard to whether the order is being enforced under the State plan).
 
@@ -222,7 +222,7 @@ In general.—Procedures under which every 3 years (or such shorter cycle as the
 
 &emsp;&emsp;&emsp;&emsp;(II) apply a cost-of-living adjustment to the order in accordance with a formula developed by the State; or
 
-&emsp;&emsp;&emsp;&emsp;(III) use automated methods (including automated comparisons with wage or State income tax data) to identify orders eligible for review, conduct the review, identify orders eligible for adjustment,and apply the appropriate adjustment to the orders eligible for adjustment under any threshold that may be established by the State.
+&emsp;&emsp;&emsp;&emsp;(III) use automated methods (including automated comparisons with wage or State income tax data) to identify orders eligible for review, conduct the review, identify orders eligible for adjustment, and apply the appropriate adjustment to the orders eligible for adjustment under any threshold that may be established by the State.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -294,7 +294,7 @@ High-volume automated administrative enforcement.—In this part, the term "high
 
 &emsp;(15)
 
-Procedures to ensure that persons owing overdue support work or have a plan for payment of such support.—Procedures under which the State has the authority, in any case in which an individual owes overduesupport with respect to a child receiving assistance under a State program funded under part A, to issue an order or to request that a court or an administrative process established pursuant to State law issue an order that requires the individual to—
+Procedures to ensure that persons owing overdue support work or have a plan for payment of such support.—Procedures under which the State has the authority, in any case in which an individual owes overdue support with respect to a child receiving assistance under a State program funded under part A, to issue an order or to request that a court or an administrative process established pursuant to State law issue an order that requires the individual to—
 
 &emsp;&emsp;(A) pay such support in accordance with a plan approved by the court, or, at the option of the State, a plan approved by the State agency administering the State program under this part; or
 
@@ -326,7 +326,7 @@ Liability.—A financial institution shall not be liable under any Federal or St
 
 &emsp;&emsp;&emsp;(i) for any disclosure of information to the State agency under subparagraph (A)(i);
 
-&emsp;&emsp;&emsp;(ii) for encumbering or surrendering any assets held by such financial institution in response to a notice of lien or levy issued by the State agency as provided for in subparagraph (A)(ii); or
+&emsp;&emsp;&emsp;(ii) for encumbering or surrendering any assets held by such financial institution inresponse to a notice of lien or levy issued by the State agency as provided for in subparagraph (A)(ii); or
 
 &emsp;&emsp;&emsp;(iii) for any other action taken in good faith to comply with the requirements of subparagraph (A).
 
@@ -372,7 +372,7 @@ The procedures referred to in subsection (a)(1)(A) (relating to the withholding 
 
 &emsp;(1) In the case of each noncustodial parent against whom a support order is or has been issued or modified in the State, and is being enforced under the State plan, so much of such parent's income must be withheld, in accordance with the succeeding provisions of this subsection, as is necessary to comply with the order and provide for the payment of any fee to the employer which may be required under paragraph (6)(A), up to the maximum amount permitted under section 1673(b) of title 15. If there are arrearages to be collected, amounts withheld to satisfy such arrearages, when added to the amounts withheld to pay current support and provide for the fee, may not exceed the limit permitted under such section 1673(b), but the State need not withhold up to the maximum amount permitted under such section in order to satisfy arrearages.
 
-&emsp;(2) Such withholding must be provided without the necessity of any application therefor in the case of a child (whether or not eligible for assistance under a State program funded under part A) with respect to whom services are already being provided under the State plan under this part, and must be provided in accordance with this subsection on the basis of an application for services under the State plan in the case of any other child in whose behalf a support order has been issued or modified in the State. In either case such withholding must occur without the need for any amendment to the support order involved or for any further action (other than those actions required under this part) by the court or other entity which issued such order.
+&emsp;(2) Such withholding must be provided without the necessity of any application therefor in the case of a child (whether or not eligible for assistance under a State program funded under part A) with respect to whom services are already being provided under the State plan under this part, and must be provided in accordance with this subsection on the basis of an application for services under the Stateplan in the case of any other child in whose behalf a support order has been issued or modified in the State. In either case such withholding must occur without the need for any amendment to the support order involved or for any further action (other than those actions required under this part) by the court or other entity which issued such order.
 
 &emsp;(3)(A) The income of a noncustodial parent shall be subject to such withholding, regardless of whether support payments by such parent are in arrears, in the case of a support order being enforced under this part that is issued or modified on or after the first day of the 25th month beginning after October 13, 1988, on the effective date of the order; except that such income shall not be subject to such withholding under this subparagraph in any case where (i) one of the parties demonstrates, and the court (or administrative process) finds, that there is good cause not to require immediate income withholding, or (ii) a written agreement is reached between both parties which provides for an alternative arrangement.
 
@@ -544,7 +544,7 @@ For purposes of this section, the term "overdue support" means the amount of a d
 
 #### (f) Uniform Interstate Family Support Act
 
-In order to satisfy section 654(20)(A) of this title, each State must have in effect the Uniform Interstate Family Support Act, as approved by the American Bar Association on February 9, 1993, including any amendments officially adopted as of September 30, 2008 by the National Conference of Commissioners on Uniform State Laws.
+In order to satisfy section 654(20)(A) of this title, each State must have in effect the Uniform Interstate Family Support Act, as approved by the American Bar Association on February 9, 1993, including any amendments officially adopted as of September 30, 2008 by theNational Conference of Commissioners on Uniform State Laws.
 
 #### (g) Laws voiding fraudulent transfers
 
@@ -570,7 +570,7 @@ In order to satisfy section 654(20)(A) of this title, each State must have in ef
 
 Sections 401(b) and 401(c)(3) of the Child Support Performance and Incentive Act of 1998, Pub. L. 105–200, referred to in subsec. (a)(19)(A), (B)(ii), are set out as notes under sections 651 and 652 of this title, respectively. Sections 401(e) and 401(f) of the Act, referred to in subsec. (a)(19)(A), are set out in a note under section 1169 of Title 29, Labor.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(19)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(19)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Codification
 

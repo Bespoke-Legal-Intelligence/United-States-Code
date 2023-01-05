@@ -2,7 +2,7 @@
 
 #### (a) Application of savings
 
-At the end of each fiscal year, the net savings shall, under regulations prescribed by the Farm Credit Administration, continue to be applied on a cooperative basis with provision for sound, adequate capitalization to meet the changing financing needs of eligible cooperative borrowers and prudent corporate fiscal management, to the end that current year's patrons carry their fair share of the capitalization, ultimate expenses, and reserves related to the year's operations and the remaining net savings shall be distributed as patronage refunds as provided in subsection (b). Such regulations may provide for application of net savings to the restoration or maintenance of an allocated surplus account, reasonable additions to unallocated surplus, or to unallocated reserves after payment of operating expenses, and provide for allocations to patrons not qualified under title 26, or payment of such per centum of patronage refunds in cash, as the board may determine.
+At the end of each fiscal year, the net savings shall, under regulations prescribed by the FarmCredit Administration, continue to be applied on a cooperative basis with provision for sound, adequate capitalization to meet the changing financing needs of eligible cooperative borrowers and prudent corporate fiscal management, to the end that current year's patrons carry their fair share of the capitalization, ultimate expenses, and reserves related to the year's operations and the remaining net savings shall be distributed as patronage refunds as provided in subsection (b). Such regulations may provide for application of net savings to the restoration or maintenance of an allocated surplus account, reasonable additions to unallocated surplus, or to unallocated reserves after payment of operating expenses, and provide for allocations to patrons not qualified under title 26, or payment of such per centum of patronage refunds in cash, as the board may determine.
 
 #### (b) Patronage refunds
 
@@ -10,7 +10,7 @@ The net savings of each bank for cooperatives, after the earnings for the fiscal
 
 #### (c) Loss carryover
 
-In the event of a net loss in any fiscal year after providing for all operating expenses (including reasonable valuation reserves and losses in excess of any applicable reserves), such loss may be carried forward or carried back, if appropriate, or otherwise shall be absorbed by charges to unallocated reserve or surplus accounts established after December 10, 1971; charges to allocated contingency reserve account; charges to allocated surplus accounts; charges to other contingency reserve and surplus accounts; theimpairment of voting stock; or the impairment of all other stock.
+In the event of a net loss in any fiscal year after providing for all operating expenses (including reasonable valuation reserves and losses in excess of any applicable reserves), such loss may be carried forward or carried back, if appropriate, or otherwise shall be absorbed by charges to unallocated reserve or surplus accounts established after December 10, 1971; charges to allocated contingency reserve account; charges to allocated surplus accounts; charges to other contingency reserve and surplus accounts; the impairment of voting stock; or the impairment of all other stock.
 
 #### (d) Charge of unrecognized costs or expenses to reserve, surplus, or patronage allocations
 

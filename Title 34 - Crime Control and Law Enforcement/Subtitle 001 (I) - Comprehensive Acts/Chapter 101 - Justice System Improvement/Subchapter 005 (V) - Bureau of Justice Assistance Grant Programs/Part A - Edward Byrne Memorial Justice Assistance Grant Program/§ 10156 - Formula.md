@@ -20,7 +20,7 @@
 
 #### (2) Minimum allocation
 
-&emsp;If carrying out paragraph (1) would result in any State receiving an allocation less than0.25 percent of the total amount (in this paragraph referred to as a "minimum allocation State"), then paragraph (1), as so carried out, shall not apply, and the Attorney General shall instead—
+&emsp;If carrying out paragraph (1) would result in any State receiving an allocation less than 0.25 percent of the total amount (in this paragraph referred to as a "minimum allocation State"), then paragraph (1), as so carried out, shall not apply, and the Attorney General shall instead—
 
 &emsp;&emsp;(A) allocate 0.25 percent of the total amount to each State; and
 
@@ -58,7 +58,7 @@ Of the amounts allocated under subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;From the amounts referred to in paragraph (1) with respect to a State (in this subsection referred to as the "local amount"), the Attorney General shall allocate to each unit of local government an amount which bears the same ratio to such share as the average annual number of part 1 violent crimes reported by such unit to the Federal Bureau of Investigation for the 3 most recent calendar years for which such data is available bears to the number of part 1 violent crimes reported by all units of local government in the State in which the unit is located to the Federal Bureau of Investigation for such years.
+&emsp;&emsp;From the amounts referred to in paragraph (1) with respect to a State (in this subsection referred to as the "local amount"), the Attorney General shall allocate to eachunit of local government an amount which bears the same ratio to such share as the average annual number of part 1 violent crimes reported by such unit to the Federal Bureau of Investigation for the 3 most recent calendar years for which such data is available bears to the number of part 1 violent crimes reported by all units of local government in the State in which the unit is located to the Federal Bureau of Investigation for such years.
 
 #### (B) Transitional rule
 

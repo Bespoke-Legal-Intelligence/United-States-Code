@@ -1,6 +1,6 @@
 ### §9014. Office of the Secretary of the Air Force
 
-(a) There is in the Department of the Air Force an Office of the Secretary of the AirForce. The function of the Office is to assist the Secretary of the Air Force in carrying out his responsibilities.
+(a) There is in the Department of the Air Force an Office of the Secretary of the Air Force. The function of the Office is to assist the Secretary of the Air Force in carrying out his responsibilities.
 
 (b) The Office of the Secretary of the Air Force is composed of the following:
 
@@ -64,7 +64,7 @@
 
 (5) Each limitation in paragraphs (1) and (2) may be exceeded by a number equal to 15 percent of such limitation in time of national emergency.
 
-(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1057, §8014; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(c), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, §1048(a)(29), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title V, §504(e)(2), Dec. 2, 2002, 116 Stat. 2533; Pub. L. 114–328, div. A, title IX, §903(e), Dec. 23, 2016, 130 Stat. 2344; renumbered §9014, Pub. L. 115–232, div. A, title VIII, §806(c),Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–92, div. A, title IX, §901(a)(5), Dec. 20, 2019, 133 Stat. 1542; Pub. L. 116–283, div. A, title IX, §923(b)(2), Jan. 1, 2021, 134 Stat. 3807; Pub. L. 117–81, div. A, title IX, §905(b)(1), Dec. 27, 2021, 135 Stat. 1872.)
+(Added Pub. L. 99–433, title V, §521(a)(3), Oct. 1, 1986, 100 Stat. 1057, §8014; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(7), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 100–456, div. A, title III, §325(c), Sept. 29, 1988, 102 Stat. 1955; Pub. L. 101–189, div. A, title VI, §652(a)(4), Nov. 29, 1989, 103 Stat. 1461; Pub. L. 107–107, div. A, title X, §1048(a)(29), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 107–314, div. A, title V, §504(e)(2), Dec. 2, 2002, 116 Stat. 2533; Pub. L. 114–328, div. A, title IX, §903(e), Dec. 23, 2016, 130 Stat. 2344; renumbered §9014, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–92, div. A, title IX, §901(a)(5), Dec. 20, 2019, 133 Stat. 1542; Pub. L. 116–283, div. A, title IX, §923(b)(2), Jan. 1, 2021, 134 Stat. 3807; Pub. L. 117–81, div. A, title IX, §905(b)(1), Dec. 27, 2021, 135 Stat. 1872.)
 
 #### <b>Editorial Notes</b>
 

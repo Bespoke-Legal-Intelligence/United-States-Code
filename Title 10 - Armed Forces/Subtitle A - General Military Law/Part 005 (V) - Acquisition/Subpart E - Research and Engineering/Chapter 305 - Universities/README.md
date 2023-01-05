@@ -107,7 +107,7 @@ Research, Development, Test, and Evaluation Infrastructure Defined.—In this se
 
 #### Pilot Program for the Enhancement of the Research, Development, Test, and Evaluation Centers of the Department of Defense
 
-Pub. L. 114–328, div. A, title II, §233, Dec. 23, 2016, 130 Stat. 2061, as amended by Pub. L. 115–91, div. A, title II,§235, title X, §1081(d)(2), Dec. 12, 2017, 131 Stat. 1341, 1600; Pub. L. 116–92, div. A, title XVII, §1731(d), Dec. 20, 2019, 133 Stat. 1816; Pub. L. 116–283, div. A, title II, §216(a), (b), Jan. 1, 2021, 134 Stat. 3460; Pub. L. 117–81, div. A, title II, §§215(d)(7), 219, Dec. 27, 2021, 135 Stat. 1594, 1597, provided that:
+Pub. L. 114–328, div. A, title II, §233, Dec. 23, 2016, 130 Stat. 2061, as amended by Pub. L. 115–91, div. A, title II, §235, title X, §1081(d)(2), Dec. 12, 2017, 131 Stat. 1341, 1600; Pub. L. 116–92, div. A, title XVII, §1731(d), Dec. 20, 2019, 133 Stat. 1816; Pub. L. 116–283, div. A, title II, §216(a), (b), Jan. 1, 2021, 134 Stat. 3460; Pub. L. 117–81, div. A, title II, §§215(d)(7), 219, Dec. 27, 2021, 135 Stat. 1594, 1597, provided that:
 
 "(a)
 
@@ -185,7 +185,7 @@ In general.—Subject to paragraph (2), the head of each eligible center selecte
 
 &emsp;"(2)
 
-Implementation.—(A) The head of an eligible center described in subparagraph (A) or (B) of subsection (a)(2) shall implement each method proposed under paragraph (1) unless such method is disapproved in writing by the Assistant Secretary concerned within 60 days of receiving a proposal from an eligible center selected under subsection (b)(1) by such Assistant Secretary.
+Implementation.—(A) The head of an eligible center described in subparagraph (A) or (B) of subsection (a)(2) shall implement each method proposed under paragraph (1) unless such method is disapproved in writing by the Assistant Secretary concerned within 60 days of receiving a proposal from aneligible center selected under subsection (b)(1) by such Assistant Secretary.
 
 &emsp;"(B) The Director of the Defense Advanced Research Projects Agency shall implement each method proposed under paragraph (1) unless such method is disapproved in writing by the Deputy Secretary of Defense or a designee of the Deputy Secretary within 60 days of receiving a proposal from the Director.
 

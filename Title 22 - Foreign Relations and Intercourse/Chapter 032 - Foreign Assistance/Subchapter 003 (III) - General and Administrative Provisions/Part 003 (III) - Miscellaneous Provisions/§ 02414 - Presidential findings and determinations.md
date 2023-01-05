@@ -2,7 +2,7 @@
 
 #### (a) Report to Congress
 
-In any case in which the President is required to make a report to the Congress, or to any committee or officer of either House of Congress, concerning any finding or determination underany provision of this chapter, the Foreign Military Sales Act \[22 U.S.C. 2751 et seq.\], or the Foreign Assistance and Related Programs Appropriation Act for each fiscal year, that finding or determination shall be reduced to writing and signed by the President.
+In any case in which the President is required to make a report to the Congress, or to any committee or officer of either House of Congress, concerning any finding or determination under any provision of this chapter, the Foreign Military Sales Act \[22 U.S.C. 2751 et seq.\], or the Foreign Assistance and Related Programs Appropriation Act for each fiscal year, that finding or determination shall be reduced to writing and signed by the President.
 
 #### (b) Action prohibition prior to execution of report
 
@@ -22,9 +22,9 @@ No committee or officer of either House of Congress shall be denied any requeste
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Foreign Military Sales Act, referred to in subsecs. (a) and (d), is Pub. L. 90–629, ch. 1, Oct. 22, 1968, 82 Stat. 1320, as amended, known as the Arms Export Control Act, on authority of section 201(b) of Pub. L. 94–329, title II, June 30, 1976, 90 Stat. 734, and is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Foreign Military Sales Act, referred to in subsecs. (a) and (d), is Pub. L. 90–629, ch. 1, Oct. 22, 1968, 82 Stat. 1320, known as the Arms Export Control Act, on authority of section 201(b) of Pub. L. 94–329, title II, June 30, 1976, 90 Stat. 734, and is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### <b>Executive Documents</b>
 

@@ -30,7 +30,7 @@
 
 &emsp;(i) the standard in the building code does not require that the energy efficiency of such product exceed the applicable minimum energy efficiency requirement in amended ASHRAE/IES Standard 90.1; and
 
-&emsp;(ii) the standard in the building code does not take effect prior to the effective date of the applicable minimum energy efficiency requirement in amended ASHRAE/IES Standard 90.1.
+&emsp;(ii) the standard in the building code does not take effect prior to the effective date ofthe applicable minimum energy efficiency requirement in amended ASHRAE/IES Standard 90.1.
 
 (C) Notwithstanding subparagraph (A), a standard prescribed or established under section 6313(a) of this title shall not supersede the standards established by the State of California set forth in Table C–6, California Code of Regulations, Title 24, Part 2, Chapter 2–53, for water-source heat pumps below 135,000 Btu per hour (cooling capacity) that become effective on January 1, 1993.
 
@@ -76,7 +76,7 @@
 
 (B) In applying section 6297 of this title in accordance with subparagraph (A), paragraphs (1), (2), and (3) of subsection (a) shall apply.
 
-(3)(A) If the Secretary does not issue a final rule for a specific type of automatic commercial ice maker within the time frame specified in section 6313(d) of this title, subsections (b) and (c) of section 6297 of this title shall no longer apply to the specific type of automatic commercial ice maker for the period beginning on the day after the scheduled date for a final rule and ending on the date on which the Secretary publishes a final rule covering the specific type of automatic commercial ice maker.
+(3)(A) If the Secretary does not issue a final rule for a specific type of automatic commercialice maker within the time frame specified in section 6313(d) of this title, subsections (b) and (c) of section 6297 of this title shall no longer apply to the specific type of automatic commercial ice maker for the period beginning on the day after the scheduled date for a final rule and ending on the date on which the Secretary publishes a final rule covering the specific type of automatic commercial ice maker.
 
 (B) Any State standard issued before the publication of the final rule shall not be preempted until the standards established in the final rule take effect.
 

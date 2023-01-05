@@ -26,7 +26,7 @@ Responsibilities.—(1) The Director of Construction and Facilities Management s
 
 &emsp;(B) perform such other functions as the Secretary shall prescribe.
 
-(2) In carrying out the oversight and management of construction and operation of facilities and infrastructure under this section, the Director shall be responsible for the following:
+(2) In carrying out the oversight and management of construction and operation of facilitiesand infrastructure under this section, the Director shall be responsible for the following:
 
 &emsp;(A) Development and updating of short-range and long-range strategic capital investment strategies and plans of the Department.
 

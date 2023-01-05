@@ -12,29 +12,13 @@ In this part:
 
 #### (3) Critical infrastructure information
 
-&emsp;The term "critical infrastructure information" means information not customarily in the public domain and related to the security of critical infrastructure or protected systems—
-
-&emsp;&emsp;(A) actual, potential, or threatened interference with, attack on, compromise of, or incapacitation of critical infrastructure or protected systems by either physical or computer-based attack or other similar conduct (including the misuse of or unauthorized access to all types of communications and data transmission systems) that violates Federal, State, or local law, harms interstate commerce of the United States, or threatens public health or safety;
-
-&emsp;&emsp;(B) the ability of any critical infrastructure or protected system to resist such interference, compromise, or incapacitation, including any planned or past assessment, projection, or estimate of the vulnerability of critical infrastructure or a protected system, including security testing, risk evaluation thereto, risk management planning, or risk audit; or
-
-&emsp;&emsp;(C) any planned or past operational problem or solution regarding critical infrastructure or protected systems, including repair, recovery, reconstruction, insurance, or continuity, to the extent it is related to such interference, compromise, or incapacitation.
+&emsp;The term "critical infrastructure information" has the meaning given the term in section 650 of this title.
 
 #### (4) Critical infrastructure protection program
 
 &emsp;The term "critical infrastructure protection program" means any component or bureau of a covered Federal agency that has been designated by the President or any agency head to receive critical infrastructure information.
 
-#### (5) Information Sharing and Analysis Organization
-
-&emsp;The term "Information Sharing and Analysis Organization" means any formal or informal entity or collaboration created or employed by public or private sector organizations, for purposes of—
-
-&emsp;&emsp;(A) gathering and analyzing critical infrastructure information, including information related to cybersecurity risks and incidents, in order to better understand security problems and interdependencies related to critical infrastructure, including cybersecurity risks and incidents, and protected systems, so as to ensure the availability, integrity, and reliability thereof;
-
-&emsp;&emsp;(B) communicating or disclosing critical infrastructure information, including cybersecurity risks and incidents, to help prevent, detect, mitigate, or recover from the effects of a <sup>1</sup> interference, compromise, or a <sup>2</sup> incapacitation problem related to critical infrastructure, including cybersecurity risks and incidents, or protected systems; and
-
-&emsp;&emsp;(C) voluntarily disseminating critical infrastructure information, including cybersecurity risks and incidents, to its members, State, local, and Federal Governments, or any other entities that may be of assistance in carrying out the purposes specified in subparagraphs (A) and (B).
-
-#### (6) Protected system
+#### (5) Protected system
 
 &emsp;The term "protected system"—
 
@@ -42,7 +26,7 @@ In this part:
 
 &emsp;&emsp;(B) includes any physical or computer-based system, including a computer, computer system, computer or communications network, or any component hardware or element thereof, software program, processing instructions, or information or data in transmission or storage therein, irrespective of the medium of transmission or storage.
 
-#### (7) Voluntary
+#### (6) Voluntary
 
 #### (A) In general
 
@@ -60,11 +44,7 @@ In this part:
 
 &emsp;&emsp;&emsp;(ii) does not include information or statements submitted or relied upon as a basis for making licensing or permitting determinations, or during regulatory proceedings.
 
-#### (8) Cybersecurity risk; incident
-
-&emsp;The terms "cybersecurity risk" and "incident" have the meanings given those terms in section 659 of this title.
-
-(Pub. L. 107–296, title XXII, §2222, formerly title II, §212, Nov. 25, 2002, 116 Stat. 2150; Pub. L. 114–113, div. N, title II, §204, Dec. 18, 2015, 129 Stat. 2961; renumbered title XXII, §2222, and amended Pub. L. 115–278, §2(g)(2)(H), (9)(B)(i), Nov. 16, 2018, 132 Stat. 4178, 4181.)
+(Pub. L. 107–296, title XXII, §2222, formerly title II, §212, Nov. 25, 2002, 116 Stat. 2150; Pub. L. 114–113, div. N, title II, §204, Dec. 18, 2015, 129 Stat. 2961; renumbered title XXII, §2222, and amended Pub. L. 115–278, §2(g)(2)(H), (9)(B)(i), Nov. 16, 2018, 132 Stat. 4178, 4181; Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(M), Dec. 23, 2022, 136 Stat. 3661.)
 
 #### <b>Editorial Notes</b>
 
@@ -74,11 +54,15 @@ Section was formerly classified to section 131 of this title prior to renumberin
 
 #### Amendments
 
+<b>2022</b>—Par. (3). Pub. L. 117–263, §7143(b)(2)(M)(i), added par. (3) and struck out former par. (3) which defined critical infrastructure information.
+
+Pars. (5) to (8). Pub. L. 117–263, §7143(b)(2)(M)(ii), (iii), redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former pars. (5) and (8) which defined Information Sharing and Analysis Organization and cybersecurity risk and incident, respectively.
+
 <b>2018</b>—Par. (8). Pub. L. 115–278, §2(g)(9)(B)(i), substituted "section 659 of this title" for "section 148 of this title".
 
 <b>2015</b>—Par. (5)(A). Pub. L. 114–113, §204(1)(A), inserted ", including information related to cybersecurity risks and incidents," after "critical infrastructure information" and ", including cybersecurity risks and incidents," after "related to critical infrastructure".
 
-Par. (5)(B). Pub. L. 114–113, §204(1)(B), inserted ", including cybersecurity risks and incidents," after "critical infrastructure information" and ", including cybersecurity risks and incidents," after "related to critical infrastructure".
+Par. (5)(B). Pub. L. 114–113, §204(1)(B), inserted ", including cybersecurity risks and incidents," after"critical infrastructure information" and ", including cybersecurity risks and incidents," after "related to critical infrastructure".
 
 Par. (5)(C). Pub. L. 114–113, §204(1)(C), inserted ", including cybersecurity risks and incidents," after "critical infrastructure information".
 
@@ -108,7 +92,7 @@ Appropriate congressional committees.—The term 'appropriate congressional comm
 
 &emsp;"(2)
 
-Cybersecurity risk; incident.—The terms 'cybersecurity risk' and 'incident' have the meanings given those terms in section 2209 of the Homeland Security Act of 2002 \[6 U.S.C. 659\].
+Cybersecurity risk; incident.—The terms 'cybersecurity risk' and 'incident' have the meanings given those terms in section 2209 of the Homeland Security Act of 2002 \[6 U.S.C. 659\] \[see now 6 U.S.C. 650\].
 
 &emsp;"(3)
 
@@ -121,8 +105,4 @@ Department.—The term 'Department' means the Department of Homeland Security.
 &emsp;"(5)
 
 Secretary.—The term 'Secretary' means the Secretary of Homeland Security."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
-
-<i><sup>2</sup></i><i> So in original. The word "a" probably should not appear.</i>
 

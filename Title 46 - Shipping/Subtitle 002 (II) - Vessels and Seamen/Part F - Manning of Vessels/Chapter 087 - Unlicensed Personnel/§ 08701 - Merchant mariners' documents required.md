@@ -78,7 +78,7 @@ Subsec. (a)(6), (7). Pub. L. 98–364, §402(12)(A)(ii)– (iv), added pars. (6)
 
 #### Non-Operating Individual
 
-Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8313(a), (b), Jan. 1, 2021, 134 Stat. 4697, 4698, provided that:
+Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8313(a), (b), Jan. 1, 2021, 134 Stat. 4697, 4698, as amended by Pub. L. 117–263, div. K, title CXV, §11516, Dec. 23, 2022, 136 Stat. 4141, provided that:
 
 "(a)
 
@@ -100,5 +100,5 @@ In General.—The Secretary of the department in which the Coast Guard is operat
 
 "(b)
 
-Sunset.—The prohibition in subsection (a) shall terminate on the date that is 2 years after the date of the enactment of this Act \[Jan. 1, 2021\]."
+Sunset.—The prohibition in subsection (a) shall terminate on January 1, 2025."
 

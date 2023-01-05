@@ -22,11 +22,11 @@ Significantly different product.—The product is, from the viewpoint of the mai
 
 &emsp;(2)
 
-Market disruption.—The introduction or continued offering of the product will not create an unfair or otherwise inappropriate competitive advantage for the Postal Service or any mailer, particularly in regard to small business concerns (as defined under subsection (h)).
+Market disruption.—The introduction or continued offering of the product will not create an unfair or otherwise inappropriate competitive advantage for the Postal Service or any mailer, particularly in regard to smallbusiness concerns (as defined under subsection (h)).
 
 &emsp;(3)
 
-Correct categorization.—The Postal Service identifies the product, for the purpose of a test under this section, as either market-dominant or competitive, consistent with the criteria under section 3642(b)(1). Costs and revenues attributable to a product identified as competitive shall be included in any determination under section 3633(3) <sup>1</sup> (relating toprovisions applicable to competitive products collectively). Any test that solely affects products currently classified as competitive, or which provides services ancillary to only competitive products, shall be presumed to be in the competitive product category without regard to whether a similar ancillary product exists for market-dominant products.
+Correct categorization.—The Postal Service identifies the product, for the purpose of a test under this section, as either market-dominant or competitive, consistent with the criteria under section 3642(b)(1). Costs and revenues attributable to a product identified as competitive shall be included in any determination under section 3633(3) <sup>1</sup> (relating to provisions applicable to competitive products collectively). Any test that solely affects products currently classified as competitive, or which provides services ancillary to only competitive products, shall be presumed to be in the competitive product category without regard to whether a similar ancillary product exists for market-dominant products.
 
 (c)
 

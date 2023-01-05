@@ -34,7 +34,7 @@ Paragraphs (1) and (2) of subsection (b) shall not limit the planting of an agri
 
 &emsp;(3) by the producers on a farm that the Secretary determines has an established planting history of a specific agricultural commodity specified in subsection (b)(3), except that—
 
-&emsp;&emsp;(A) the quantity planted may not exceed the average annual planting history of such agricultural commodity by the producers on the farm in the 1991 through 1995 or 1998 through 2001 crop years (excluding any crop year in which no plantings were made), as determined by the Secretary; and
+&emsp;&emsp;(A) the quantity planted may not exceed the average annual planting history of such agricultural commodity by the producers on the farm in the 1991 through 1995 or 1998through 2001 crop years (excluding any crop year in which no plantings were made), as determined by the Secretary; and
 
 &emsp;&emsp;(B) direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such agricultural commodity.
 

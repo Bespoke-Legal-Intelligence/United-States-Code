@@ -6,7 +6,7 @@ Port and Intermodal Improvement Program.—
 
 &emsp;(1)
 
-General authority.—Subject to the availability of appropriations, the Secretary of Transportation shall make grants, on a competitive basis, to eligible applicants to assist in funding eligible projects for the purpose of improving the safety, efficiency, or reliability of the movement of goods through ports and intermodal connections to ports.
+General authority.—Subject to the availability of appropriations, the Secretaryof Transportation shall make grants, on a competitive basis, to eligible applicants to assist in funding eligible projects for the purpose of improving the safety, efficiency, or reliability of the movement of goods through ports and intermodal connections to ports.
 
 &emsp;(2)
 
@@ -128,7 +128,7 @@ Allocation of funds.—
 
 &emsp;&emsp;(A)
 
-Geographic distribution.—Not more than 25 percent of the amounts made available for grants under this subsection for afiscal year may be used to make grants for projects in any 1 State.
+Geographic distribution.—Not more than 25 percent of the amounts made available for grants under this subsection for a fiscal year may be used to make grants for projects in any 1 State.
 
 &emsp;&emsp;(B)
 
@@ -228,7 +228,7 @@ Effect.—The obligation or expenditure of any non-Federal funds in accordance w
 
 &emsp;&emsp;&emsp;&emsp;(II) create an obligation on the part of the Federal Government to repay any non-Federal funds if the grant agreement is not signed; or
 
-&emsp;&emsp;&emsp;&emsp;(III) affect the ability of the recipient of the grant to obligate or expend non-Federal funds to meet the non-Federal cost share for the project for which the grant is provided after the period described in clause (i).
+&emsp;&emsp;&emsp;&emsp;(III) affect the ability of the recipient of the grant to obligate or expend non-Federal funds to meet the non-Federalcost share for the project for which the grant is provided after the period described in clause (i).
 
 &emsp;&emsp;(C)
 
@@ -340,11 +340,11 @@ Acquisition methods.—The Secretary may not require as a condition of issuing a
 
 Prohibited uses.—Funds provided under this subsection may not be used for—
 
-&emsp;&emsp;(A) projects conducted on property outside the boundary of a port unless such property is directly related to port operations or to an intermodal connection to a port;
+&emsp;&emsp;(A) projects conducted on property outside the boundary of a port unless such propertyis directly related to port operations or to an intermodal connection to a port;
 
 &emsp;&emsp;(B) any single grant award more than 10 percent of total allocation of funds to carry out this subsection per fiscal year appropriation; or
 
-&emsp;&emsp;(C) activities, including channel improvements or harbor deepening that is part of a Federal channel or an access channel associated with a Federal channel, authorized, as of the date of the application for assistanceunder this subsection, to be carried out by of the United States Army Corps of Engineers.
+&emsp;&emsp;(C) activities, including channel improvements or harbor deepening that is part of a Federal channel or an access channel associated with a Federal channel, authorized, as of the date of the application for assistance under this subsection, to be carried out by of the United States Army Corps of Engineers.
 
 &emsp;(5)
 

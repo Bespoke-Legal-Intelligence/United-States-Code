@@ -12,9 +12,9 @@ There is established a council to be known as the National Advisory Council on t
 
 #### (c) Termination
 
-Section 14 of the Federal Advisory Committee Act shall not apply with respect to the Council.
+Section 1013 of title 5 shall not apply with respect to the Council.
 
-(July 1, 1944, ch. 373, title III, §337, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2277; amended Pub. L. 96–32, §7(g), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title XXVII, §2707, Aug. 13, 1981, 95 Stat. 907; Pub. L. 97–414, §8(f), Jan. 4, 1983, 96 Stat. 2061; Pub. L. 103–183, title VII, §706(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 111–148, title X, §10501(n)(3), Mar. 23, 2010, 124 Stat. 1003.)
+(July 1, 1944, ch. 373, title III, §337, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2277; amended Pub. L. 96–32, §7(g), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title XXVII, §2707, Aug. 13, 1981, 95 Stat. 907; Pub. L. 97–414, §8(f), Jan. 4, 1983, 96 Stat. 2061; Pub. L. 103–183, title VII, §706(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 111–148, title X, §10501(n)(3), Mar. 23, 2010, 124 Stat. 1003; Pub. L. 117–286, §4(a)(229), Dec. 27, 2022, 136 Stat. 4331.)
 
 #### <b>Editorial Notes</b>
 
@@ -22,9 +22,9 @@ Section 14 of the Federal Advisory Committee Act shall not apply with respect to
 
 Section 254r of this title, referred to in subsec. (a), was in the original a reference to section 338G of act July 1, 1944, which was renumbered section 338I by Pub. L. 100–177, title II, §201(1), Dec. 1, 1987, 101 Stat. 992, and repealed by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–286 substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act".
 
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–148 struck out at end "Members may not be reappointed to the Council."
 
@@ -42,7 +42,7 @@ Subsec. (b)(1). Pub. L. 97–35, §2707(b), inserted "not" before "be reappointe
 
 #### Termination of Advisory Committees
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time asmay be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

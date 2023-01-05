@@ -6,7 +6,7 @@ Not later than April 30, 1982, the President shall transmit to the Speaker of th
 
 #### (b) Annual report; content
 
-Not later than January 15 of each year (beginning in 1983), the President shall transmit to theSpeaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a written report which describes—
+Not later than January 15 of each year (beginning in 1983), the President shall transmit to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a written report which describes—
 
 &emsp;(1) the activities performed by the Multinational Force and Observers during the preceding year;
 
@@ -32,7 +32,7 @@ Not later than January 15 of each year (beginning in 1983), the President shall 
 
 (2) The information pursuant to subsection (b)(3) shall, in the case of costs which are not identifiable, be set forth with reasonable accuracy.
 
-(3) The information with respect to any administrative and technical support and services provided on a nonreimbursed basis under section 3424(a) of this title shall include a description of the types of support and services which have been provided and an estimate of both the total costs of such support and services and the incremental costs incurred by the United States with respect to such support and services.
+(3) The information with respect to any administrative and technical support and services provided on a nonreimbursed basis under section 3424(a) of this title shall include a description of the types of support and services which have been provided and an estimate of both the totalcosts of such support and services and the incremental costs incurred by the United States with respect to such support and services.
 
 (Pub. L. 97–132, §6, Dec. 29, 1981, 95 Stat. 1695.)
 

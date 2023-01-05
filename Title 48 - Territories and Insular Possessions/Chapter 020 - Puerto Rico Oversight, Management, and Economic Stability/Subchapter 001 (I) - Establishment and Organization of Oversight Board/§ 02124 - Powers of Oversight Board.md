@@ -20,13 +20,13 @@ Any member or agent of the Oversight Board may, if authorized by the Oversight B
 
 #### (d) Obtaining creditor information
 
-(1) Upon request of the Oversight Board, each creditor or organized group of creditors of a covered territory or covered territorial instrumentality seeking to participate in voluntary negotiations shall provide to the Oversight Board,and the Oversight Board shall make publicly available to any other participant, a statement setting forth—
+(1) Upon request of the Oversight Board, each creditor or organized group of creditors of a covered territory or covered territorial instrumentality seeking to participate in voluntary negotiations shall provide to the Oversight Board, and the Oversight Board shall make publicly available to any other participant, a statement setting forth—
 
 &emsp;(A) the name and address of the creditor or of each member of an organized group of creditors; and
 
 &emsp;(B) the nature and aggregate amount of claims or other economic interests held in relation to the issuer as of the later of—
 
-&emsp;&emsp;(i) the date the creditor acquired the claims or other economic interests or, in the case of an organized group of creditors, the date the group was formed; or
+&emsp;&emsp;(i) the date the creditor acquired the claims or other economic interests or, in thecase of an organized group of creditors, the date the group was formed; or
 
 &emsp;&emsp;(ii) the date the Oversight Board was formed.
 
@@ -82,7 +82,7 @@ The Oversight Board shall ensure the purposes of this chapter are met, including
 
 &emsp;&emsp;(A) the Oversight Board delivering the certification described in paragraph (1); and
 
-&emsp;&emsp;(B) the agreement of a majority in amount of the Bond Claims of a covered territory or a covered territorial instrumentality that are to be affected by such agreement, provided, however, that such agreement is solely for purposes of serving as a Qualifying Modification pursuant to subsection <sup>1</sup> 2231(g) of this title and shall not alter existing legal rights of holders of Bond Claims against such covered territory or covered territorial instrumentality that have not assented to such agreement until an order approving the Qualifying Modification has been entered pursuant to section 2231(m)(1)(D) of this title.
+&emsp;&emsp;(B) the agreement of a majority in amount of the Bond Claims of a covered territory or a covered territorial instrumentality that are to be affected by such agreement, provided, however, that such agreement is solely for purposes of serving as a Qualifying Modification pursuant to subsection <sup>1</sup> 2231(g) of this title and shall not alter existing legal rights of holders of Bond Claims againstsuch covered territory or covered territorial instrumentality that have not assented to such agreement until an order approving the Qualifying Modification has been entered pursuant to section 2231(m)(1)(D) of this title.
 
 #### (3) Preexisting voluntary agreements
 

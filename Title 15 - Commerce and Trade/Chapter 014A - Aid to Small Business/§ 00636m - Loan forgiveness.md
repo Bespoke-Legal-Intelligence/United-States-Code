@@ -92,7 +92,7 @@ In this section—
 
 &emsp;&emsp;(H) covered worker protection expenditures; and
 
-&emsp;(12) the terms "payroll costs" and "seasonal employer" have the meanings given those terms in section 636(a)(36) of this title. Such payroll costs shall not include qualified wages taken into account in determining the credit allowed under section 2301 of the CARES Act,qualified wages taken into account in determining the credit allowed under subsection (a) or (d) of section 303 of the Taxpayer Certainty and Disaster Relief Act of 2020, or premiums taken into account in determining the credit allowed under section 6432 of title 26. Such payroll costs shall not include qualified wages taken into account in determining the credit allowed under subsection (a) or (d) of section 303 of the Taxpayer Certainty and Disaster Tax Relief Act of 2020.<sup>1</sup>
+&emsp;(12) the terms "payroll costs" and "seasonal employer" have the meanings given those terms in section 636(a)(36) of this title. Such payroll costs shall not include qualified wages taken into account in determining the credit allowed under section 2301 of the CARES Act, qualified wages taken into account in determining the credit allowed under subsection (a) or (d) of section 303 of the Taxpayer Certainty and Disaster Relief Act of 2020, or premiums taken into account in determining the credit allowed under section 6432 of title 26. Such payroll costs shall not include qualified wages taken into account in determining the credit allowed under subsection (a) or (d) of section 303 of the Taxpayer Certainty and Disaster Tax Relief Act of 2020.<sup>1</sup>
 
 #### (b) Forgiveness
 
@@ -228,7 +228,7 @@ An eligible recipient shall be eligible for forgiveness of indebtedness on a cov
 
 #### (e) Application
 
-Except as provided in subsection (l), an eligible recipient seeking loan forgiveness under this section shall submit to the lender that is servicing the covered loan an application, which shall include—
+Except as provided in subsection (l), an eligible recipient seeking loan forgiveness under thissection shall submit to the lender that is servicing the covered loan an application, which shall include—
 
 &emsp;(1) documentation verifying the number of full-time equivalent employees on payroll and pay rates for the periods described in subsection (d), including—
 
@@ -304,7 +304,7 @@ Not later than 30 days after March 27, 2020, the Administrator shall issue guida
 
 #### (A) In general
 
-&emsp;&emsp;With respect to a covered loan made to an eligible recipient that is not more than $150,000, the covered loan amount shall be forgiven under this section if the eligible recipient—
+&emsp;&emsp;With respect to a covered loan made to an eligible recipient that is not more than$150,000, the covered loan amount shall be forgiven under this section if the eligible recipient—
 
 &emsp;&emsp;&emsp;(i) signs and submits to the lender a certification, to be established by the Administrator not later than 24 days after December 27, 2020, which—
 
@@ -386,7 +386,7 @@ Not later than 30 days after March 27, 2020, the Administrator shall issue guida
 
 &emsp;&emsp;&emsp;(iii) any substantial changes made to the audit plan submitted under subparagraph (A).
 
-(Pub. L. 85–536, §2\[7A\], formerly Pub. L. 116–136, div. A, title I, §1106, Mar. 27, 2020, 134 Stat. 297; Pub. L. 116–142, §3(b), June 5, 2020, 134 Stat. 641; renumbered Pub. L. 85–536, §2\[7A\], and amended Pub. L. 116–260, div. N, title II, §276(a)(1), title III, §§304(b)(1)(A), (B), (2), 305(a), 306, 307(a), 311(b)(1), 315(b), div. EE, title II, §206(c)(1), title III, §303(g), Dec. 27, 2020, 134 Stat. 1979, 1993, 1994, 1996–1998, 2006, 2011, 3060, 3079; Pub. L. 117–2, title V, §5001(c)(1), Mar. 11, 2021, 135 Stat. 84.)
+(Pub. L. 85–536, §2\[7A\], formerly Pub. L. 116–136, div. A, title I, §1106, Mar. 27, 2020, 134 Stat. 297; Pub. L. 116–142, §3(b), June 5, 2020, 134 Stat. 641; renumbered Pub. L. 85–536, §2\[7A\], and amended Pub. L. 116–260, div. N, title II, §276(a)(1), title III, §§304(b)(1)(A), (B), (2), 305(a), 306, 307(a), 311(b)(1), 315(b), div. EE, title II, §206(c)(1), title III, §303(g), Dec. 27, 2020, 134 Stat. 1979, 1993, 1994,1996–1998, 2006, 2011, 3060, 3079; Pub. L. 117–2, title V, §5001(c)(1), Mar. 11, 2021, 135 Stat. 84.)
 
 #### <b>Editorial Notes</b>
 
@@ -396,7 +396,7 @@ The National Emergencies Act, referred to in subsec. (a)(9)(A), is Pub. L. 94–
 
 Section 1102 of this Act, referred to in subsec. (a)(12), means section 1102 of div. A of Pub. L. 116–136.
 
-Section 2301 of the CARES Act, referred to in subsec. (a)(12), is section 2301 of Pub. L. 116–136, which is set outas a note under section 3111 of Title 26, Internal Revenue Code.
+Section 2301 of the CARES Act, referred to in subsec. (a)(12), is section 2301 of Pub. L. 116–136, which is set out as a note under section 3111 of Title 26, Internal Revenue Code.
 
 Section 303 of the Taxpayer Certainty and Disaster Relief Act of 2020, referred to in subsec. (a)(12), is section 303 of div. EE of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 3075. Subsec. (d)(3)(C) of section 303 of the Act amended provisions set out as notes under section 3111 of Title 26, Internal Revenue Code. Subsecs. (a) to (c) and the rest of subsec. (d) of section 303 of the Act are not classified to the Code.
 
@@ -464,13 +464,13 @@ Subsec. (h). Pub. L. 116–260, div. N, §305(a), amended subsec. (h) generally.
 
 &emsp;"(1) an enforcement action may not be taken against the lender under section 657t(e) of this title relating to loan forgiveness for the payments for payroll costs, payments on covered mortgage obligations, payments on covered lease obligations, or covered utility payments, as the case may be; and
 
-&emsp;"(2) the lender shall not be subject to any penalties by the Administrator relating to loan forgiveness for the payments for payroll costs, payments on covered mortgage obligations, payments on covered lease obligations, or covered utility payments, as the case may be."
+&emsp;"(2) the lender shall not be subject to any penalties by the Administrator relating to loan forgiveness for the payments for payroll costs, payments on coveredmortgage obligations, payments on covered lease obligations, or covered utility payments, as the case may be."
 
 Subsec. (i). Pub. L. 116–260, div. N, §276(a)(1), amended subsec. (i) generally. Prior to amendment, text read as follows: "For purposes of title 26, any amount which (but for this subsection) would be includible in gross income of the eligible recipient by reason of forgiveness described in subsection (b) shall be excluded from gross income."
 
 Subsec. (l). Pub. L. 116–260, div. N, §307(a)(3), added subsec. (l).
 
-Pub. L. 116–260, div. N, §306(1), struck out subsec. (l). Text read as follows: "An eligible recipient that received a covered loan before June 5, 2020, may elect for the covered period applicable to such covered loan toend on the date that is 8 weeks after the date of the origination of such covered loan.".
+Pub. L. 116–260, div. N, §306(1), struck out subsec. (l). Text read as follows: "An eligible recipient that received a covered loan before June 5, 2020, may elect for the covered period applicable to such covered loan to end on the date that is 8 weeks after the date of the origination of such covered loan.".
 
 Pub. L. 116–142, §3(b)(3), added subsec. (l).
 
@@ -482,7 +482,7 @@ Amendment by Pub. L. 117–2 applicable only with respect to applications for fo
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. N, title II, §276(a)(2), Dec. 27, 2020, 134 Stat. 1979, provided that: "The amendment made by this subsection \[amending this section\] shall apply to taxable years ending after the date of the enactment of the CARES Act \[Pub. L. 116–136\]."
+Pub. L. 116–260, div. N, title II, §276(a)(2), Dec. 27, 2020, 134 Stat. 1979, provided that: "The amendment made by this subsection \[amending this section\] shall apply to taxable years ending after the date of the enactment of the CARES Act \[Mar. 27, 2020\]."
 
 Amendment by section 304(b)(1)(A), (B), (2) of div. N of Pub. L. 116–260 effective as if included in Pub. L. 116–136 and applicable to any loan made pursuant to section 636(a)(36) of this title before, on, or after Dec. 27, 2020, including forgiveness of such a loan, with provisions relating to exclusion of loans already forgiven, see section 304(c) of Pub. L. 116–260, set out as a note under section 636 of this title.
 

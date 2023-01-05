@@ -108,7 +108,7 @@ The Secretary shall disapprove an application submitted under subsection (a) if 
 
 #### (d) Replacement units
 
-Notwithstanding any other provision of law, replacement public housing units for public housing units demolished in accordance with this section may be built on the original public housing location or in the same neighborhood as the original public housing location if the number of the replacement public housing units issignificantly fewer than the number of units demolished.
+Notwithstanding any other provision of law, replacement public housing units for public housing units demolished in accordance with this section may be built on the original public housing location or in the same neighborhood as the original public housing location if the number of the replacement public housing units is significantly fewer than the number of units demolished.
 
 #### (e) Consolidation of occupancy within or among buildings
 
@@ -132,7 +132,7 @@ Of the amounts appropriated for tenant-based assistance under section 1437f of t
 
 #### References in Text
 
-The Uniform Relocation and Real Property Acquisition Policies Act of 1970, referred to in subsec. (g), probably means the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, and which is classified principally to chapter 61 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
+The Uniform Relocation and Real Property Acquisition Policies Act of 1970, referred to in subsec. (g), probably means the Uniform Relocation Assistance andReal Property Acquisition Policies Act of 1970, Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, and which is classified principally to chapter 61 (§4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
 #### Amendments
 
@@ -164,7 +164,7 @@ Subsec. (b)(1). Pub. L. 102–550, §116(a), inserted "of the project or portion
 
 Subsec. (b)(3). Pub. L. 102–550, §116(b)(5), inserted at end "except that, in any 5-year period, a public housing agency may demolish not more than the lesser of 5 dwelling units or 5 percent of the total dwelling units owned and operated by the public housing agency, without providing an additional dwelling unit for each such public housing dwelling unit to be demolished, but only if the space occupied by the demolished unit is used for meeting the service or other needs of public housing residents."
 
-Subsec. (b)(3)(A)(ii). Pub. L. 102–550, §116(b)(1)(A), inserted before semicolon at end "to the extent available;or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under section 1437f of this title having a term of not less than 5 years".
+Subsec. (b)(3)(A)(ii). Pub. L. 102–550, §116(b)(1)(A), inserted before semicolon at end "to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under section 1437f of this title having a term of not less than 5 years".
 
 Subsec. (b)(3)(A)(iii). Pub. L. 102–550, §116(b)(1)(B), inserted before semicolon at end "to the extent available; or if such assistance is not available, in the case of an application proposing demolition or disposition of 200 or more units, the use of available project-based assistance under other Federal programs having a term of not less than 5 years".
 

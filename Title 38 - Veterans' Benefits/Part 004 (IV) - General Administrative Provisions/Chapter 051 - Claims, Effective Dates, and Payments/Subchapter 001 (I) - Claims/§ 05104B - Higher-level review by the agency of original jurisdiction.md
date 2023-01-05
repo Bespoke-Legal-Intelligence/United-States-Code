@@ -18,7 +18,7 @@ Time and Manner of Request.—(1) A request for higher-level review by the agenc
 
 (c)
 
-Decision.—Notice of a higher-level review decision under this section shall be provided in writing and shall include a general statement—
+Decision.—Notice of a higher-level review decision under this section shall be provided to the claimant (and any representative of such claimant) and shall include a general statement—
 
 &emsp;(1) reflecting whether evidence was not considered pursuant to subsection (d); and
 
@@ -32,11 +32,21 @@ Evidentiary Record for Review.—The evidentiary record before the higher-level 
 
 De Novo Review.—A review of the decision of the agency of original jurisdiction by a higher-level adjudicator within the agency of original jurisdiction shall be de novo.
 
-(Added Pub. L. 115–55, §2(g)(1), Aug. 23, 2017, 131 Stat. 1107.)
+(Added Pub. L. 115–55, §2(g)(1), Aug. 23, 2017, 131 Stat. 1107; amended Pub. L. 117–168, title VIII, §807(a)(3), Aug. 10, 2022, 136 Stat. 1806.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–168 substituted "to the claimant (and any representative of such claimant)" for "in writing" in introductory provisions.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
 Section applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under section 101 of this title, and bracketed note thereunder.
+
+#### Rule of Construction
+
+Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of this title to decisions of the Board of Veterans' Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under section 5100 of this title.
 

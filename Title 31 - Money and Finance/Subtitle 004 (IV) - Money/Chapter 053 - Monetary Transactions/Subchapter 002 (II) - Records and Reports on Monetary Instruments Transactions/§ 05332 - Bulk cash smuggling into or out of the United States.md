@@ -6,7 +6,7 @@ Criminal Offense.—
 
 &emsp;(1)
 
-In general.—Whoever, with the intent to evade a currency reporting requirement under section 5316, knowingly conceals more than $10,000 in currency or other monetary instruments on the person of such individual or in any conveyance, article of luggage, merchandise, or other container, and transports or transfers or attempts to transport or transfer such currency or monetary instruments from a place within the United States to a place outside of the United States, or from a place outside the United States to a place within the United States, shall be guilty of a currency smuggling offense and subject to punishment pursuant to subsection (b).
+In general.—Whoever, with the intent to evade a currency reporting requirement under section 5316, knowingly conceals more than $10,000 in currency or other monetary instruments on the person of such individual or in any conveyance, article of luggage, merchandise, or other container, and transports ortransfers or attempts to transport or transfer such currency or monetary instruments from a place within the United States to a place outside of the United States, or from a place outside the United States to a place within the United States, shall be guilty of a currency smuggling offense and subject to punishment pursuant to subsection (b).
 
 &emsp;(2)
 
@@ -90,7 +90,7 @@ Findings.—The Congress finds the following:
 
 &emsp;"(5) The arrest and prosecution of bulk cash smugglers are important parts of law enforcement's effort to stop the laundering of criminal proceeds, but the couriers who attempt to smuggle the cash out of the United States are typically low-level employees of large criminal organizations, and thus are easily replaced. Accordingly, only the confiscation of the smuggled bulk cash can effectively break the cycle of criminal activity of which the laundering of the bulk cash is a critical part.
 
-&emsp;"(6) The current penalties for violations of the currency reporting requirements are insufficient to provide a deterrent to the laundering of criminal proceeds. In particular, in cases where the only criminal violation under current law is a reporting offense, the law does not adequately provide for the confiscation of smuggled currency. In contrast, if the smuggling of bulk cash were itself an offense, the cash could be confiscated as the corpus delicti of the smuggling offense.
+&emsp;"(6) The current penalties for violations of the currency reporting requirements are insufficient to provide a deterrent to the laundering of criminal proceeds. In particular, in cases where the only criminal violation under current law is a reporting offense, thelaw does not adequately provide for the confiscation of smuggled currency. In contrast, if the smuggling of bulk cash were itself an offense, the cash could be confiscated as the corpus delicti of the smuggling offense.
 
 "(b)
 

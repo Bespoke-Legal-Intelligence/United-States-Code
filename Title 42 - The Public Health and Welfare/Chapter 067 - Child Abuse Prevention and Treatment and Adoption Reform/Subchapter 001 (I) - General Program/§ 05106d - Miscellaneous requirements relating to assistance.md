@@ -20,7 +20,7 @@ The Secretary shall establish criteria designed to achieve equitable distributio
 
 #### (c) Limitation
 
-No funds appropriated for any grant or contract pursuant to authorizations made in thissubchapter and subchapter III may be used for any purpose other than that for which such funds were authorized to be appropriated.
+No funds appropriated for any grant or contract pursuant to authorizations made in this subchapter and subchapter III may be used for any purpose other than that for which such funds were authorized to be appropriated.
 
 #### (d) Sense of Congress
 

@@ -8,7 +8,7 @@ There is established a commission to be known as the National Afro-American Hist
 
 The Commission shall have the following duties:
 
-&emsp;(1) The Commission shall be responsible for the development of a definitive plan for the construction and operation of the National Center for the Study of Afro-American History and Culture and shall submit the plan, together with any recommendations for additional legislation, to the President of the United States and the Congress not later than twenty-four months after October 10, 1980. The plan shall include, but not be limited to, identification of—
+&emsp;(1) The Commission shall be responsible for the development of a definitive plan for the construction and operation of the NationalCenter for the Study of Afro-American History and Culture and shall submit the plan, together with any recommendations for additional legislation, to the President of the United States and the Congress not later than twenty-four months after October 10, 1980. The plan shall include, but not be limited to, identification of—
 
 &emsp;&emsp;(A) the main objectives to be achieved by the establishment, development, and operation of the National Center for the Study of Afro-American History and Culture;
 

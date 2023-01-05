@@ -22,7 +22,7 @@ The Secretary may not disclose any accreditation survey (other than a survey wit
 
 #### (c) Deficiencies
 
-Notwithstanding any other provision of this subchapter, if the Secretary finds that a provider entity has significant deficiencies (as defined in regulations pertaining to health and safety), the entity shall, after the date of noticeof such finding to the entity and for such period as may be prescribed in regulations, be deemed not to meet the conditions or requirements the entity has been treated as meeting pursuant to subsection (a)(1).
+Notwithstanding any other provision of this subchapter, if the Secretary finds that a provider entity has significant deficiencies (as defined in regulations pertaining to health and safety), the entity shall, after the date of notice of such finding to the entity and for such period as may be prescribed in regulations, be deemed not to meet the conditions or requirements the entity has been treated as meeting pursuant to subsection (a)(1).
 
 #### (d) State or local accreditation
 
@@ -160,7 +160,7 @@ For effective date of amendment by section 4072(d) of Pub. L. 100–203, see sec
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 9305(c)(3) of Pub. L. 99–509 applicable to hospitals as of one year after Oct. 21, 1986,see section 9305(c)(4) of Pub. L. 99–509, set out as a note under section 1395x of this title.
+Amendment by section 9305(c)(3) of Pub. L. 99–509 applicable to hospitals as of one year after Oct. 21, 1986, see section 9305(c)(4) of Pub. L. 99–509, set out as a note under section 1395x of this title.
 
 Amendment by section 9320(h)(3) of Pub. L. 99–509 applicable to services furnished on or after Jan. 1, 1989, with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) of Pub. L. 99–509, as amended, set out as notes under section 1395k of this title.
 

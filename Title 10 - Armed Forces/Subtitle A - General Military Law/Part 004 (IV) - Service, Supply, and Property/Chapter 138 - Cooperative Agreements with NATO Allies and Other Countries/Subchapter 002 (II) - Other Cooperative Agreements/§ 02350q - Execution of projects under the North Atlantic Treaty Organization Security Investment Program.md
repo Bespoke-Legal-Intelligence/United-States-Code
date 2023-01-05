@@ -30,7 +30,7 @@ Authority To Accept Contributions.—(1) The Secretary of Defense may accept con
 
 (d)
 
-Obligation Authority.—The construction agent of the Department of Defense designatedby the Secretary of Defense to execute a project under subsection (a) may recognize the North Atlantic Treaty Organization project authorization amounts as budgetary resources to incur obligations against for the purposes of executing the project.
+Obligation Authority.—The construction agent of the Department of Defense designated by the Secretary of Defense to execute a project under subsection (a) may recognize the North Atlantic Treaty Organization project authorization amounts as budgetary resources to incur obligations against for the purposes of executing the project.
 
 (e)
 

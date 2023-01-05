@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 96–420, §13, Oct. 10, 1980, 94 Stat. 1797, which related to limitation of actions, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 96–420, §13, Oct. 10, 1980, 94 Stat. 1797, which related to limitation of actions, was omittedfrom the Code as being of special and not general application.
 

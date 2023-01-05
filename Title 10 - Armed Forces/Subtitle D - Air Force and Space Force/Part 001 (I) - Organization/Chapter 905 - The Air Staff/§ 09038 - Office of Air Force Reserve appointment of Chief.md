@@ -28,7 +28,7 @@ Term; Reappointment.—The Chief of Air Force Reserve is appointed for a period 
 
 (d)
 
-Budget.—The Chief of Air Force Reserve is the official within the executive part of the Department of the Air Force who, subject to the authority, direction, and control of the Secretary of the Air Force and the Chief of Staff, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Air Force Reserve. As such, the Chief of Air ForceReserve is the director and functional manager of appropriations made for the Air Force Reserve in those areas.
+Budget.—The Chief of Air Force Reserve is the official within the executive part of the Department of the Air Force who, subject to the authority, direction, and control of the Secretary of the Air Force and the Chief of Staff, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Air Force Reserve. As such, the Chief of Air Force Reserve is the director and functional manager of appropriations made for the Air Force Reserve in those areas.
 
 (e)
 
@@ -92,5 +92,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date
 
-Section effective on first day of first calendar month following date of enactment of Pub. L. 90–168, which was approved Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as an Effective Date of 1967 Amendment note under section 138 of this title.
+Section effective on first day of first calendar month following date of enactment of Pub. L. 90–168, whichwas approved Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as an Effective Date of 1967 Amendment note under section 138 of this title.
 

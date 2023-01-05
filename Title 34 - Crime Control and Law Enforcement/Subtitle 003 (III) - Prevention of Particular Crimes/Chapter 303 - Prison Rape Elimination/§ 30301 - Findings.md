@@ -4,7 +4,7 @@ Congress makes the following findings:
 
 &emsp;(1) 2,100,146 persons were incarcerated in the United States at the end of 2001: 1,324,465 in Federal and State prisons and 631,240 in county and local jails. In 1999, there were more than 10,000,000 separate admissions to and discharges from prisons and jails.
 
-&emsp;(2) Insufficient research has been conducted and insufficient data reported on the extent of prison rape. However, experts have conservatively estimated that at least 13 percent of the inmates in the United States have been sexually assaulted in prison. Many inmates have suffered repeated assaults. Under this estimate, nearly 200,000 inmates now incarcerated have been or will be the victims of prison rape. The total number of inmates who have been sexually assaulted in the past 20 years likely exceeds 1,000,000.
+&emsp;(2) Insufficient research has been conducted and insufficient data reported on the extent of prison rape. However, experts have conservatively estimated that at least 13 percent of the inmates in the United States have beensexually assaulted in prison. Many inmates have suffered repeated assaults. Under this estimate, nearly 200,000 inmates now incarcerated have been or will be the victims of prison rape. The total number of inmates who have been sexually assaulted in the past 20 years likely exceeds 1,000,000.
 
 &emsp;(3) Inmates with mental illness are at increased risk of sexual victimization. America's jails and prisons house more mentally ill individuals than all of the Nation's psychiatric hospitals combined. As many as 16 percent of inmates in State prisons and jails, and 7 percent of Federal inmates, suffer from mental illness.
 
@@ -59,6 +59,12 @@ Congress makes the following findings:
 #### Codification
 
 Section was formerly classified to section 15601 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of Pub. L. 108–79, which is classified to this chapter, as the "Prison Rape Elimination Act of 2003", see section 1(a) of Pub. L. 108–79, set out as a Short Title of 2003 Act note under section 10101 of this title.
 
 #### <b>Executive Documents</b>
 

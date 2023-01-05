@@ -6,7 +6,7 @@ Not later than 60 days after October 13, 2006, the chairman of the Federal Commu
 
 #### (b) Membership
 
-The chairman of the Federal Communications Commission shall appoint the members of theAdvisory Committee, as soon as practicable after October 13, 2006, from the following groups:
+The chairman of the Federal Communications Commission shall appoint the members of the Advisory Committee, as soon as practicable after October 13, 2006, from the following groups:
 
 #### (1) State and local government representatives
 
@@ -88,19 +88,19 @@ Within 1 year after October 13, 2006, the Advisory Committee shall develop and s
 
 &emsp;The Advisory Committee may adopt other rules as needed.
 
-#### (f) Federal Advisory Committee Act
+#### (f) Chapter 10 of title 5
 
-Neither the Federal Advisory Committee Act (5 U.S.C. App.) nor any rule, order, or regulation promulgated under that Act shall apply to the Advisory Committee.
+Neither chapter 10 of title 5 nor any rule, order, or regulation promulgated under that chapter shall apply to the Advisory Committee.
 
 #### (g) Consultation with NIST
 
 The Advisory Committee shall consult with the National Institute of Standards and Technology in its work on developing recommendations under paragraphs (2) and (3) of subsection (c).
 
-(Pub. L. 109–347, title VI, §603, Oct. 13, 2006, 120 Stat. 1938.)
+(Pub. L. 109–347, title VI, §603, Oct. 13, 2006, 120 Stat. 1938; Pub. L. 117–286, §4(a)(300), Dec. 27, 2022, 136 Stat. 4339.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (f). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "chapter 10 of title 5 nor any rule, order, or regulation promulgated under that chapter" for "the Federal Advisory Committee Act (5 U.S.C. App.) nor any rule, order, or regulation promulgated under that Act" in text.
 

@@ -54,7 +54,7 @@
 
 &emsp;"(2) make arrests without warrant for offenses against the United States committed in their presence; and
 
-&emsp;"(3) make arrests without warrant for felonies cognizable under the laws of the United States if they have reasonable grounds to believe that the person to be arrested has committed or is committing such a felony.
+&emsp;"(3) make arrests without warrant for felonies cognizable under the laws of the United States if they have reasonable grounds to believe that the person tobe arrested has committed or is committing such a felony.
 
 "(b) The powers granted by subsection (a) of this section shall be exercised only in the enforcement of laws regarding property of the United States in the custody of the Postal Service, including property of the Postal Service, the use of the mails, and other postal offenses."
 

@@ -24,7 +24,7 @@ Operating During Emergencies.—To facilitate operation by Amtrak during an emer
 
 (c)
 
-Preference Over Freight Transportation.—Except in an emergency, intercity and commuter rail passenger transportation provided by or for Amtrak has preference over freight transportation in using a rail line, junction, or crossing unless the Board orders otherwise under this subsection. A rail carrier affected by this subsection may apply to the Board for relief. If the Board, after an opportunity for a hearing under section 553 of title 5, decides that preference for intercity and commuter rail passenger transportation materially will lessen the quality of freight transportation provided to shippers, the Board shall establish the rights of the carrier and Amtrak on reasonable terms.
+Preference Over Freight Transportation.—Except in an emergency, intercity andcommuter rail passenger transportation provided by or for Amtrak has preference over freight transportation in using a rail line, junction, or crossing unless the Board orders otherwise under this subsection. A rail carrier affected by this subsection may apply to the Board for relief. If the Board, after an opportunity for a hearing under section 553 of title 5, decides that preference for intercity and commuter rail passenger transportation materially will lessen the quality of freight transportation provided to shippers, the Board shall establish the rights of the carrier and Amtrak on reasonable terms.
 
 (d)
 
@@ -58,7 +58,7 @@ Problems caused by host rail carrier.—If the Board determines that delays or f
 
 Damages and relief.—In awarding damages and prescribing other relief under this subsection the Board shall consider such factors as—
 
-&emsp;&emsp;(A) the extent to which Amtrak suffers financial loss as a result of host rail carrierdelays or failure to achieve minimum standards; and
+&emsp;&emsp;(A) the extent to which Amtrak suffers financial loss as a result of host rail carrier delays or failure to achieve minimum standards; and
 
 &emsp;&emsp;(B) what reasonable measures would adequately deter future actions which may reasonably be expected to be likely to result in delays to Amtrak on the route involved.
 

@@ -1,6 +1,6 @@
 ### §7266. Notice of appeal
 
-(a) In order to obtain review by the Court of Appeals for Veterans Claims of a final decision of the Board of Veterans' Appeals, a person adversely affected by such decision shall file a notice of appeal with the Court within 120 days after the date on which notice of the decision is mailed pursuant to section 7104(e) of this title.
+(a) In order to obtain review by the Court of Appeals for Veterans Claims of a final decision of the Board of Veterans' Appeals, a person adversely affected by such decision shall file a notice of appeal with the Court within 120 days after the date on which notice of the decision is issued pursuant to section 7104(e) of this title.
 
 (b) An appellant shall file a notice of appeal under this section by delivering or mailing the notice to the Court.
 
@@ -12,11 +12,13 @@
 
 (d) For a notice of appeal mailed to the Court to be deemed to be received under subsection (c)(2) on a particular date, the United States Postal Service postmark on the cover in which the notice is posted must be legible. The Court shall determine the legibility of any such postmark and the Court's determination as to legibility shall be final and not subject to review by any other Court.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4066; renumbered §7266 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title V, §511(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title V, §507, Dec. 27, 2001, 115 Stat. 997.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4116, §4066; renumbered §7266 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title V, §511(a), Nov. 2, 1994, 108 Stat. 4670; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 107–103, title V, §507, Dec. 27, 2001, 115 Stat. 997; Pub. L. 117–168, title VIII, §807(a)(8), Aug. 10, 2022, 136 Stat. 1806.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–168 substituted "issued" for "mailed".
 
 <b>2001</b>—Pub. L. 107–103 struck out "(1)" before "In order to", redesignated par. (2) of subsec. (a) as subsec. (b), redesignated par. (3) of subsec. (a) as subsec. (c) and subpars. (A) and (B) thereof as pars. (1) and (2), respectively, redesignated par. (4) of subsec. (a) as subsec. (d) and substituted "subsection (c)(2)" for "paragraph (3)(B)", and struck out former subsec. (b) which read as follows: "The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section."
 
@@ -40,7 +42,11 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 Pub. L. 103–446, title V, §511(b), Nov. 2, 1994, 108 Stat. 4670, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 2, 1994\] and shall apply to notices of appeal that are delivered or mailed to the United States Court of Veterans Appeals \[now United States Court of Appeals for Veterans Claims\] on or after that date."
 
+#### Rule of Construction
+
+Amendment by Pub. L. 117–168 not to be construed to apply section 5104(a) of this title to decisions of the Board of Veterans' Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under section 5100 of this title.
+
 #### Interim Provision for Filing Notices of Appeal
 
-Pub. L. 101–94, title II, §202, Aug. 16, 1989, 103 Stat. 626, provided that in the case of a person adversely affected by a final decision of the Board of Veterans' Appeals that was made before the date on which the United States Court of Veterans Appeals published in the Federal Register a notice by the Court that it had commenced operations, the period prescribed under this section within which a notice of appeal had to be filed with the Court was to be extended to the end of the 30-day period beginning on the date such notice was published, if the end of that period was later than the date that would otherwise be applicable under this section.
+Pub. L. 101–94, title II, §202, Aug. 16, 1989, 103 Stat. 626, provided that in the case of a person adversely affected by a final decision of the Board of Veterans' Appeals that was made before the date on which theUnited States Court of Veterans Appeals published in the Federal Register a notice by the Court that it had commenced operations, the period prescribed under this section within which a notice of appeal had to be filed with the Court was to be extended to the end of the 30-day period beginning on the date such notice was published, if the end of that period was later than the date that would otherwise be applicable under this section.
 

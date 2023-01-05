@@ -24,7 +24,7 @@ Exception.—(1) In issuing such regulations, the Secretary may except from the 
 
 &emsp;(C) for which, in the judgment of the Secretary, supplementary safety measures fully compensate for the absence of the warning provided by the locomotive horn.
 
-(2) In order to provide for safety and the quiet of communities affected by train operations, the Secretary may specify in such regulations that any supplementary safety measures must be applied to all highway-rail grade crossings within a specified distance along the railroad in order to be excepted from the requirement of this section.
+(2) In order to provide for safety and the quiet of communities affected by train operations, the Secretary may specify in such regulations thatany supplementary safety measures must be applied to all highway-rail grade crossings within a specified distance along the railroad in order to be excepted from the requirement of this section.
 
 (d)
 
@@ -66,7 +66,7 @@ Regulations.—In issuing regulations under this section, the Secretary—
 
 &emsp;&emsp;(B) have not been subject to the routine (as defined by the Secretary) sounding of a locomotive horn at highway-rail grade crossings;
 
-&emsp;(2) shall work in partnership with affected communities to provide technical assistanceand shall provide a reasonable amount of time for local communities to install supplementary safety measures, taking into account local safety initiatives (such as public awareness initiatives and highway-rail grade crossing traffic law enforcement programs) subject to such terms and conditions as the Secretary deems necessary, to protect public safety; and
+&emsp;(2) shall work in partnership with affected communities to provide technical assistance and shall provide a reasonable amount of time for local communities to install supplementary safety measures, taking into account local safety initiatives (such as public awareness initiatives and highway-rail grade crossing traffic law enforcement programs) subject to such terms and conditions as the Secretary deems necessary, to protect public safety; and
 
 &emsp;(3) may waive (in whole or in part) any requirement of this section (other than a requirement of this subsection or subsection (j)) that the Secretary determines is not likely to contribute significantly to public safety.
 

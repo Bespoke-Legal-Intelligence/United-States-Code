@@ -38,7 +38,7 @@ All requests for a declaration by the President that a major disaster exists sha
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(2), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of thisAct to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(2), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Prior Provisions
 
@@ -49,6 +49,92 @@ A prior section 401 of Pub. L. 93–288 was renumbered section 405 by Pub. L. 10
 <b>2013</b>—Pub. L. 113–2 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Preliminary Damage Assessment
+
+Pub. L. 117–263, div. E, title LVI, §5603, Dec. 23, 2022, 136 Stat. 3405, provided that:
+
+"(a)
+
+Findings.—Congress finds the following:
+
+&emsp;"(1) Preliminary damage assessments play a critical role in assessing and validating the impact and magnitude of a disaster.
+
+&emsp;"(2) Through the preliminary damage assessment process, representatives from the Federal Emergency Management Agency validate information gathered by State and local officials that serves as the basis for disaster assistance requests.
+
+&emsp;"(3) Various factors can impact the duration of a preliminary damage assessment and the corresponding submission of a major disaster request, however, the average time between when a disaster occurs, and the submission of a corresponding disaster request has been found to be approximately twenty days longer for flooding disasters.
+
+&emsp;"(4) With communities across the country facing increased instances of catastrophic flooding and other extreme weather events, accurate and efficient preliminary damage assessments have become critically important to the relief process for impacted States and municipalities.
+
+"(b)
+
+Report to Congress.—
+
+&emsp;"(1)
+
+In general.—Not later than 90 days after the date of enactment of this Act \[Dec. 23, 2022\], the Administrator of the Federal Emergency Management Agency shall submit to Congress a report describing the preliminary damage assessment process, as supported by the Federal Emergency Management Agency in the 5 years before the date of enactment of this Act.
+
+&emsp;"(2)
+
+Contents.—The report described in paragraph (1) shall contain the following:
+
+&emsp;&emsp;"(A) The process of the Federal Emergency Management Agency for deploying personnel to support preliminary damage assessments.
+
+&emsp;&emsp;"(B) The number of Agency staff participating on disaster assessment teams.
+
+&emsp;&emsp;"(C) The training and experience of such staff described in subparagraph (B).
+
+&emsp;&emsp;"(D) A calculation of the average amount of time disaster assessment teams described in subparagraph (A) are deployed to a disaster area.
+
+&emsp;&emsp;"(E) The efforts of the Agency to maintain a consistent liaison between the Agency and State, local, tribal, and territorial officials within a disaster area.
+
+"(c)
+
+Preliminary Damage Assessment.—
+
+&emsp;"(1)
+
+In general.—Not later than 6 months after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency shall convene an advisory panel consisting of emergency management personnel employed by State, local, territorial, or tribal authorities, and the representative organizations of such personnel to assist the Agency in improving critical components of the preliminary damage assessment process.
+
+&emsp;"(2)
+
+Membership.—
+
+&emsp;&emsp;"(A)
+
+In general.—This advisory panel shall consist of at least 2 representatives from national emergency management organizations and at least 1 representative from each of the 10 regions of the Federal Emergency Management Agency, selected from emergency management personnel employed by State, local, territorial, or tribal authorities within each region.
+
+&emsp;&emsp;"(B)
+
+Inclusion on panel.—To the furthest extent practicable, representation on the advisory panel shall include emergency management personnel from both rural and urban jurisdictions.
+
+&emsp;"(3)
+
+Considerations.—The advisory panel convened under paragraph (1) shall—
+
+&emsp;&emsp;"(A) consider—
+
+&emsp;&emsp;&emsp;"(i) establishing a training regime to ensure preliminary damage assessments are conducted and reviewed under consistent guidelines;
+
+&emsp;&emsp;&emsp;"(ii) utilizing a common technological platform to integrate data collected by State and local governments with data collected by the Agency; and
+
+&emsp;&emsp;&emsp;"(iii) assessing instruction materials provided by the Agency for omissions of pertinent information or language that conflicts with other statutory requirements; and
+
+&emsp;&emsp;"(B) identify opportunities for streamlining the consideration of preliminary damage assessments by the Agency, including eliminating duplicative paperwork requirements and ensuring consistent communication and decision making among Agency staff.
+
+&emsp;"(4)
+
+Interim report.—Not later than 18 months after the date of enactment of this Act, the Administrator shall submit to Congress a report regarding the findings of the advisory panel, steps that will be undertaken by the Agency to implement the findings of the advisory panel, and additional legislation that may be necessary to implement the findings of the advisory panel.
+
+&emsp;"(5)
+
+Rulemaking and final report.—Not later than 2 years after the date of enactment of this Act, the Administrator shall issue such regulations as are necessary to implement the recommendations of the advisory panel and submit to Congress a report discussing—
+
+&emsp;&emsp;"(A) the implementation of recommendations from the advisory panel;
+
+&emsp;&emsp;"(B) the identification of any additional challenges to the preliminary damage assessment process, including whether specific disasters result in longer preliminary damage assessments; and
+
+&emsp;&emsp;"(C) any additional legislative recommendations necessary to improve the preliminary damage assessment process."
 
 #### Local Impact
 
@@ -72,7 +158,7 @@ In General.—Not later than 270 days after the date of enactment of this Act \[
 
 "(b)
 
-Rulemaking.—Not later than 2 years after the date of enactment of this Act, the Administrator shall review and initiate a rulemaking to update the factors considered when evaluating a Governor's request for a major disaster declaration, including reviewing how the \[Federal Emergency Management\] Agency estimates the cost of major disaster assistance, and consider other impacts on the capacity of a jurisdiction to respond to disasters. In determining the capacity of a jurisdiction to respond to disasters, and prior to the issuance of such a rule, the Administrator shall engage in meaningful consultation with relevant representatives of State, regional, local, and Indian tribal government stakeholders."
+Rulemaking.—Not later than 2 years after the date of enactment of this Act, the Administrator shall review and initiate a rulemaking to update the factors considered when evaluating a Governor's request for amajor disaster declaration, including reviewing how the \[Federal Emergency Management\] Agency estimates the cost of major disaster assistance, and consider other impacts on the capacity of a jurisdiction to respond to disasters. In determining the capacity of a jurisdiction to respond to disasters, and prior to the issuance of such a rule, the Administrator shall engage in meaningful consultation with relevant representatives of State, regional, local, and Indian tribal government stakeholders."
 
 \[For definition of "State" as used in section 1239 of Pub. L. 115–254, set out above, see section 1203 of Pub. L. 115–254, set out as a note under section 5122 of this title.\]
 

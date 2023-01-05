@@ -100,7 +100,7 @@ For purposes of this chapter, the term "employer" means the person for whom an i
 
 #### (f) Tips
 
-For purposes of subsection (a), the term "wages" includes tips received by an employee in the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.
+For purposes of subsection (a), the term "wages" includes tips received by an employeein the course of his employment. Such wages shall be deemed to be paid at the time a written statement including such tips is furnished to the employer pursuant to section 6053(a) or (if no statement including such tips is so furnished) at the time received.
 
 #### (g) Crew leader rules to apply
 
@@ -268,7 +268,7 @@ Amendment by section 885(b)(2) of Pub. L. 108–357 applicable to amounts deferr
 
 #### Effective Date of 2003 Amendments
 
-Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) of Pub. L. 108–173, set out as a note under section 62 of this title.
+Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 31, 2003, see section 1201(k) ofPub. L. 108–173, set out as a note under section 62 of this title.
 
 Amendment by Pub. L. 108–121 applicable to taxable years beginning after Dec. 31, 2002, see section 106(c) of Pub. L. 108–121, set out as a note under section 134 of this title.
 
@@ -286,7 +286,7 @@ Amendment by Pub. L. 104–117 applicable to remuneration paid after Mar. 20, 19
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11703(f)(2), Nov. 5, 1990, 104 Stat. 1388–518, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the amendments made by section 1151 of the Tax Reform Act of 1986 \[Pub. L. 99–514, see Effective Date of 1986 Amendment note set out under section 79of this title\] but shall not apply to any amount paid before the date of the enactment of this Act \[Nov. 5, 1990\] which the employer treated as wages for purposes of chapter 24 of the Internal Revenue Code of 1986 when paid."
+Pub. L. 101–508, title XI, §11703(f)(2), Nov. 5, 1990, 104 Stat. 1388–518, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the amendments made by section 1151 of the Tax Reform Act of 1986 \[Pub. L. 99–514, see Effective Date of 1986 Amendment note set out under section 79 of this title\] but shall not apply to any amount paid before the date of the enactment of this Act \[Nov. 5, 1990\] which the employer treated as wages for purposes of chapter 24 of the Internal Revenue Code of 1986 when paid."
 
 #### Effective Date of 1989 Amendments
 
@@ -356,7 +356,7 @@ Amendment by section 313(d)(1), (2) of Pub. L. 89–97 applicable only with resp
 
 #### Effective Date of 1964 Amendment
 
-Amendment by section 204(b) of Pub. L. 88–272 applicable to remuneration paid after Dec. 31, 1963, in the form of group-term life insurance provided after such date, see section 204(d) of Pub. L. 88–272, set out as an Effective Date note under section 79 of this title.
+Amendment by section 204(b) of Pub. L. 88–272 applicable to remuneration paid after Dec. 31, 1963, in theform of group-term life insurance provided after such date, see section 204(d) of Pub. L. 88–272, set out as an Effective Date note under section 79 of this title.
 
 Amendment by section 213(c) of Pub. L. 88–272 applicable to remuneration paid after the seventh day following Feb. 26, 1964, see section 213(d) of Pub. L. 88–272, set out as a note under section 62 of this title.
 

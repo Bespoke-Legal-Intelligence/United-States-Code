@@ -44,7 +44,7 @@
 
 |  |  |
 | :--- | ---: |
-| [3031\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003031%20-%20Time%20limitation%20for%20use%20of%20eligibility%20and%20entitlement%201.md) | Time limitation for use of eligibility and entitlement. |
+| [3031\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003031%20-%20Time%20limitation%20for%20use%20of%20eligibility%20and%20entitlement.md) | Time limitation for use of eligibility and entitlement. |
 | [3032\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003032%20-%20Limitations%20on%20educational%20assistance%20for%20certain%20individuals.md) | Limitations on educational assistance for certain individuals. |
 | [3033\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003033%20-%20Bar%20to%20duplication%20of%20educational%20assistance%20benefits.md) | Bar to duplication of educational assistance benefits. |
 | [3034\.](Subchapter%20004%20%28IV%29%20-%20Time%20Limitation%20for%20Use%20of%20Eligibility%20and%20Entitlement%3B%20General%20and%20Administrative%20Provisions/%C2%A7%2003034%20-%20Program%20administration.md) | Program administration. |
@@ -85,13 +85,71 @@ Pub. L. 102–54, §14(c)(2), June 13, 1991, 105 Stat. 285, substituted "subchap
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### COVID–19 Veteran Rapid Retraining Assistance Program
+#### Veterans Integration to Academic Leadership Program of the Department of Veterans Affairs
 
-Pub. L. 117–2, title VIII, §8006, Mar. 11, 2021, 135 Stat. 113, as amended by Pub. L. 117–16, §2(a), June 8, 2021, 135 Stat. 280, provided that:
+Pub. L. 117–328, div. V, title V, §501, Dec. 29, 2022, 136 Stat. 5513, provided that:
 
 "(a)
 
-In General.—The Secretary of Veterans Affairs shall carry out a program under which the Secretaryshall provide up to 12 months of retraining assistance to an eligible veteran for the pursuit of a covered program of education. Such retraining assistance shall be in addition to any other entitlement to educational assistance or benefits for which a veteran is, or has been, eligible.
+Report.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the House of Representatives and the Senate a report on the Veterans Integration to Academic Leadership program of the Department of Veterans Affairs. The report shall include the following:
+
+&emsp;"(1) The number of medical centers of the Department, institutions of higher learning, non-college degree programs, and student veterans supported by the program, and relevant trends since the program began.
+
+&emsp;"(2) The staff and resources allocated to the program, and relevant trends since the program began.
+
+&emsp;"(3) An assessment of the outcomes and effectiveness of the program in—
+
+&emsp;&emsp;"(A) supporting student veterans;
+
+&emsp;&emsp;"(B) connecting student veterans to needed services of the Department or services provided by non-Department entities;
+
+&emsp;&emsp;"(C) addressing the mental health needs of student veterans;
+
+&emsp;&emsp;"(D) lowering the suicide risk of student veterans; and
+
+&emsp;&emsp;"(E) helping student veterans achieve educational goals.
+
+&emsp;"(4) An assessment of barriers to expanding the program and how the Secretary intends to address such barriers.
+
+&emsp;"(5) An assessment of whether the program should be expanded outside of the Office of Mental Health and Suicide Prevention to support students veterans with needs unrelated to mental health or suicide.
+
+"(b)
+
+Uniform Best Practices, Goals, and Measures.—The Secretary shall establish best practices, goals, and measures for the Veterans Integration to Academic Leadership program of the Department that are uniform among the medical centers of the Department.
+
+"(c)
+
+Outreach.—The Secretary shall conduct outreach among the Armed Forces, veterans service organizations, institutions of higher learning, and non-college degree programs with respect to the Veterans Integration to Academic Leadership program of the Department.
+
+"(d)
+
+Assessment.—The Secretary shall assess the feasibility and advisability of including the suicide rate for student veterans in the National Veteran Suicide Prevention Annual Report of the Office of Mental Health and Suicide Prevention of the Department.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'institution of higher learning' has the meaning given that term in section 3452 of title 38, United States Code.
+
+&emsp;"(2) The term 'student veteran' means the following:
+
+&emsp;&emsp;"(A) A veteran or member of the Armed Forces using educational assistance under any of the following provisions of law:
+
+&emsp;&emsp;&emsp;"(i) Chapter 30, 31, 32, or 33 of title 38, United States Code, or chapter 1606 or 1607 of title 10, United States Code.
+
+&emsp;&emsp;&emsp;"(ii) Section 116 of the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48; 38 U.S.C. 3001 note).
+
+&emsp;&emsp;&emsp;"(iii) Section 8006 of the American Rescue Plan Act of 2021 (Public Law 117–2; 38 U.S.C. 3001 note prec.).
+
+&emsp;&emsp;"(B) A veteran who is enrolled in an institution of higher learning or other training program, without regard to whether the veteran is using educational assistance specified in subparagraph (A)."
+
+#### COVID–19 Veteran Rapid Retraining Assistance Program
+
+Pub. L. 117–2, title VIII, §8006, Mar. 11, 2021, 135 Stat. 113, as amended by Pub. L. 117–16, §2(a), June 8, 2021, 135 Stat. 280; Pub. L. 117–138, §2(a), (b), June 7, 2022, 136 Stat. 1256, 1257, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall carry out a program under which the Secretary shall provide up to 12 months of retraining assistance to an eligible veteran for the pursuit of a covered program of education. Such retraining assistance shall be in addition to any other entitlement to educational assistance or benefits for which a veteran is, or has been, eligible.
 
 "(b)
 
@@ -119,7 +177,7 @@ Treatment of veterans who transfer entitlement.—For purposes of paragraph (1)(
 
 &emsp;"(3)
 
-Failure to complete.—A veteran who receives retraining assistance under this section to pursue a program of education and who fails to complete the program of education shall not be eligible to receive additional assistance under this section.
+Failure to complete.—A veteran who receives retraining assistance under this section to pursue a program of education and who fails to complete the program of education shall not be eligible to receive additional assistance under this section, except for an individual described in subsection (n).
 
 "(c)
 
@@ -203,13 +261,13 @@ Veterans who do not find employment.—In the case of a veteran referred to in s
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the Secretary shall not make a payment to the educational institution under paragraph (1)(C); and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the educational institution may not seek payment from the veteran for any amount that would have been payable under paragraph (1)(C) had the veteran found employment during such 180-day period.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the educational institution may not seek payment from the veteran for any amount thatwould have been payable under paragraph (1)(C) had the veteran found employment during such 180-day period.
 
 &emsp;"(3)
 
 Housing stipend.—For each month that an eligible veteran pursues a covered program of education under the retraining assistance program under this section (other than such a program pursued solely through distance learning on a half-time basis or less), the Secretary shall pay to the veteran a monthly housing stipend in an amount equal to—
 
-&emsp;&emsp;"(A) in the case of a covered program of education leading to a degree, or a covered program ofeducation not leading to a degree, at an institution of higher learning (as that term is defined in section 3452(f) of title 38, United States Code) pursued on more than a half-time basis, the amount specified under subsection (c)(1)(B) of section 3313 of title 38, United States Code;
+&emsp;&emsp;"(A) in the case of a covered program of education leading to a degree, or a covered program of education not leading to a degree, at an institution of higher learning (as that term is defined in section 3452(f) of title 38, United States Code) pursued on more than a half-time basis, the amount specified under subsection (c)(1)(B) of section 3313 of title 38, United States Code;
 
 &emsp;&emsp;"(B) in the case of a covered program of education other than a program of education leading to a degree at an institution other than an institution of higher learning pursued on more than a half-time basis, the amount specified under subsection (g)(3)(A)(ii) of such section; or
 
@@ -281,6 +339,30 @@ Funding.—In addition to amounts otherwise available there is appropriated to t
 
 "(n)
 
+Effects of Closure of an Educational Institution or Disapproval of a Program of Education.—
+
+&emsp;"(1)
+
+In general.—Any payment of retraining assistance under subsection (d)(1) shall not be charged against any entitlement to retraining assistance described in subsection (a) if the Secretary determines that an individual was unable to complete a course or program of education as a result of—
+
+&emsp;&emsp;"(A) the closure of an educational institution; or
+
+&emsp;&emsp;"(B) the disapproval of a program of education by the State approving agency or the Secretary when acting in the role of the State approving agency.
+
+&emsp;"(2)
+
+Period not charged.—The period for which, by reason of this subsection, retraining assistance is not charged shall be equal to the full amount of retraining assistance provided for enrollment in the program of education.
+
+&emsp;"(3)
+
+Halt of payments to certain educational institutions.—In the event of a closure or disapproval, as described in paragraph (1), the educational institution shall not receive any further payments under subsection (d).
+
+&emsp;"(4)
+
+Recovery of funds.—In the event of a closure or disapproval, as described in paragraph (1), any payment already made under subsection (d) to the educational institution shall be considered an overpayment and constitute a liability of such institution to the United States.
+
+"(o)
+
 Definitions.—In this section:
 
 &emsp;"(1) The term 'covered public health emergency' means the declaration—
@@ -296,6 +378,8 @@ Definitions.—In this section:
 &emsp;&emsp;"(B) a member of a reserve component of the Armed Forces who performs active service for a period of 30 days or longer by reason of the covered public health emergency.
 
 &emsp;"(3) The term 'active service' has the meaning given such term in section 101 of title 10, United States Code."
+
+\[Pub. L. 117–138, §2(c), June 7, 2022, 136 Stat. 1257, provided that: "The amendments made by this section \[amending section 8006 of Pub. L. 117–2, set out above\] shall apply as if included in the American Rescue Plan Act of 2021 (Public Law 117–2)."\]
 
 \[Pub. L. 117–16, §2(b), June 8, 2021, 135 Stat. 282, provided that: "The amendments made by subsection (a) \[amending section 8006 of Pub. L. 117–2, set out above\] shall apply as if included in the enactment of the American Rescue Plan Act of 2021 (Public Law 117–2)."\]
 

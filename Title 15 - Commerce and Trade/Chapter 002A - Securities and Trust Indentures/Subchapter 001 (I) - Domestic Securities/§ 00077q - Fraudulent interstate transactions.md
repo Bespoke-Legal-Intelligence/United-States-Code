@@ -20,7 +20,7 @@ The exemptions provided in section 77c of this title shall not apply to the prov
 
 #### (d) Authority with respect to security-based swap agreements
 
-The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 78c(a)(78) of this title) shall be subject to the restrictions and limitations of section 77b–1(b) of this title.
+The authority of the Commission under this section with respect to security-based swapagreements (as defined in section 78c(a)(78) of this title) shall be subject to the restrictions and limitations of section 77b–1(b) of this title.
 
 (May 27, 1933, ch. 38, title I, §17, 48 Stat. 84; Aug. 10, 1954, ch. 667, title I, §10, 68 Stat. 686; Pub. L. 106–554, §1(a)(5) \[title III, §302(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–452; Pub. L. 111–203, title VII, §762(c)(2), July 21, 2010, 124 Stat. 1759.)
 

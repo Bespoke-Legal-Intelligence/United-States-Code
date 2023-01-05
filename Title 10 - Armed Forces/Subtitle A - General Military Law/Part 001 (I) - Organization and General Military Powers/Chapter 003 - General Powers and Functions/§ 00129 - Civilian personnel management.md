@@ -56,7 +56,7 @@ Subsecs. (d) to (f). Pub. L. 114–328, §1101(a)(2), (3), redesignated subsec. 
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–81, §932(1), inserted "the total force management policies and procedures established under section 129a of this title, (2)" after "(1)" and substituted "department, and (3)" for "department and (2)".
 
-Subsec. (d). Pub. L. 112–81, §932(2), substituted "within that budget activity as determined under the totalforce management policies and procedures established under section 129a of this title." for "within that budget activity for which funds are provided for that fiscal year."
+Subsec. (d). Pub. L. 112–81, §932(2), substituted "within that budget activity as determined under the total force management policies and procedures established under section 129a of this title." for "within that budget activity for which funds are provided for that fiscal year."
 
 Subsec. (e). Pub. L. 112–81, §932(3), struck out at end "With respect to the MRTFB structure, the term 'funds made available' includes both direct appropriated funds and funds provided by MRTFB customers."
 
@@ -66,7 +66,7 @@ Subsec. (e). Pub. L. 112–81, §932(3), struck out at end "With respect to the 
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201, §1074(a)(1), substituted "February 10, 1996," for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996".
 
-Pub. L. 104–106, §1031(1), substituted "constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretaries of the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 and that refers specifically to this subsection." for "man-year constraint or limitation."
+Pub. L. 104–106, §1031(1), substituted "constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees. The Secretary of Defense and the Secretariesof the military departments may not be required to make a reduction in the number of full-time equivalent positions in the Department of Defense unless such reduction is necessary due to a reduction in funds available to the Department or is required under a law that is enacted after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 and that refers specifically to this subsection." for "man-year constraint or limitation."
 
 Subsec. (b)(2). Pub. L. 104–106, §1031(2), substituted "any constraint or limitation in terms of man years, end strength, full-time equivalent positions, or maximum number of employees" for "any end-strength".
 

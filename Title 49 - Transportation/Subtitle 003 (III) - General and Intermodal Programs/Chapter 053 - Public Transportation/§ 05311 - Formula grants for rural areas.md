@@ -174,7 +174,7 @@ In general.—16.85 percent of the amount described in subparagraph (A) shall be
 
 &emsp;&emsp;&emsp;(ii)
 
-Land area.—Subject to clause (v), each State shall receive an amount that is equal to 29.68 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shownby the most recent decennial census of population.
+Land area.—Subject to clause (v), each State shall receive an amount that is equal to 29.68 percent of the amount apportioned under clause (i), multiplied by the ratio of the land area in rural areas in that State and divided by the land area in all rural areas in the United States, as shown by the most recent decennial census of population.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -470,7 +470,7 @@ Pub. L. 114–41, §1201(1), substituted "for each fiscal year ending before Oct
 
 Pub. L. 114–21, §1201(1), substituted "and $4,164,384 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and $3,328,767 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
 
-Subsec. (c)(1)(B). Pub. L. 114–94, §3007(a)(1), added subpar. (B) and struck out former subpar. (B), which read as follows: "$25,000,000 for each fiscal year ending beforeOctober 1, 2015, and $4,439,891 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be apportioned as formula grants, as provided in subsection (j)."
+Subsec. (c)(1)(B). Pub. L. 114–94, §3007(a)(1), added subpar. (B) and struck out former subpar. (B), which read as follows: "$25,000,000 for each fiscal year ending before October 1, 2015, and $4,439,891 for the period beginning on October 1, 2015, and ending on December 4, 2015, shall be apportioned as formula grants, as provided in subsection (j)."
 
 Pub. L. 114–87, §1201(2), substituted "and $4,439,891 for the period beginning on October 1, 2015, and ending on December 4, 2015," for "and $3,483,607 for the period beginning on October 1, 2015, and ending on November 20, 2015,".
 
@@ -536,7 +536,7 @@ Subsec. (f)(1). Pub. L. 109–59, §3013(e)(1), inserted heading, struck out "af
 
 Subsec. (f)(1)(E). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation".
 
-Subsec. (f)(2). Pub. L. 109–59, §3013(e)(2), inserted heading and substituted "Secretary, after consultationwith affected intercity bus service providers," for "Secretary of Transportation".
+Subsec. (f)(2). Pub. L. 109–59, §3013(e)(2), inserted heading and substituted "Secretary, after consultation with affected intercity bus service providers," for "Secretary of Transportation".
 
 Subsec. (g). Pub. L. 109–59, §3013(f), substituted "Government" for "Government's" in heading and amended text generally. Prior to amendment, text read as follows:
 

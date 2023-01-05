@@ -50,7 +50,7 @@ Grants to which percentage limitation doesn't apply.—Discretionary grants made
 
 &emsp;&emsp;&emsp;(ii)
 
-Limitation on aggregate amount.—For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percentof the amount appropriated under section 14703 of this title for the fiscal year, except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount.
+Limitation on aggregate amount.—For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percent of the amount appropriated under section 14703 of this title for the fiscal year, except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount.
 
 &emsp;(3)
 
@@ -142,7 +142,7 @@ In subsection (c)(2), the words "or their duly authorized representatives" are o
 
 #### References in Text
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
 #### Amendments
 

@@ -142,7 +142,7 @@ In General.—The Administrator of the Federal Motor Carrier Safety Administrati
 
 &emsp;"(4) prioritize responses to petitions consistent with a petition's potential to reduce crashes, improve enforcement, and reduce unnecessary burdens; and
 
-&emsp;"(5) not later than 60 days after the date of receipt of a petition, publish on a publicly accessible Internet Web site of the Department an updated inventoryof the petitions described in paragraph (1), including any applicable disposition information for those petitions.
+&emsp;"(5) not later than 60 days after the date of receipt of a petition, publish on a publicly accessible Internet Web site of the Department an updated inventory of the petitions described in paragraph (1), including any applicable disposition information for those petitions.
 
 "(b)
 
@@ -226,7 +226,7 @@ Proceedings.—
 
 &emsp;"(1)
 
-In general.—The provisions of this Act shall not affect any proceedings or any application for any license pending before the Office at the time this Act takes effect \[see Effective Date of 1999 Amendment note set out under section 104 of this title\], insofar as those functions are transferred by this Act; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law.
+In general.—The provisions of this Act shall not affect any proceedings or any application for any license pending before the Office at the time this Act takes effect \[see Effective Date of 1999 Amendment note set out under section 104 of this title\], insofar as those functions are transferred by this Act; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued.Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law.
 
 &emsp;"(2)
 

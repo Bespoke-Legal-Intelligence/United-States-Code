@@ -364,7 +364,7 @@ Pub. L. 103–272, §4(s), July 5, 1994, 108 Stat. 1371, provided that the amend
 
 #### Short Title of 2020 Amendment
 
-Pub. L. 116–260, div. R, §1(a), Dec. 27, 2020, 134 Stat. 2210, provided that: "This division \[enacting sections60142, 60143, and 60303 of this title, amending sections 6107, 60102, 60105, 60108, 60109, 60117, 60118, 60122, 60125, 60129, 60130 and 60134 of this title, enacting provisions set out as notes under this section and sections 60102, 60103, 60105, 60108, and 60109 of this title, and amending provisions set out as notes under this section and section 60109 of this title\] may be cited as the 'Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2020' or the 'PIPES Act of 2020'."
+Pub. L. 116–260, div. R, §1(a), Dec. 27, 2020, 134 Stat. 2210, provided that: "This division \[enacting sections 60142, 60143, and 60303 of this title, amending sections 6107, 60102, 60105, 60108, 60109, 60117, 60118, 60122, 60125, 60129, 60130 and 60134 of this title, enacting provisions set out as notes under this section and sections 60102, 60103, 60105, 60108, and 60109 of this title, and amending provisions set out as notes under this section and section 60109 of this title\] may be cited as the 'Protecting our Infrastructure of Pipelines and Enhancing Safety Act of 2020' or the 'PIPES Act of 2020'."
 
 Pub. L. 116–260, div. R, title II, §201, Dec. 27, 2020, 134 Stat. 2237, provided that: "This title \[amending sections 60102, 60105, and 60109 of this title and enacting provisions set out as notes under sections 60103 and 60105 of this title\] may be cited as the 'Leonel Rondon Pipeline Safety Act'."
 
@@ -450,7 +450,7 @@ Continued service agreement.—The Secretary shall ensure that the incentives de
 
 &emsp;"(3)
 
-Approval.—The Secretary shall request, as necessary, the approval of the Office of PersonnelManagement to use the incentives described in paragraph (1)."
+Approval.—The Secretary shall request, as necessary, the approval of the Office of Personnel Management to use the incentives described in paragraph (1)."
 
 #### Technical Assistance Program
 
@@ -556,7 +556,7 @@ Program Plan.—
 
 &emsp;"(1)
 
-In general.—Not later than 1 year after the date of enactment of this section \[Dec. 17, 2002\], the Secretary of Transportation, in coordination with the Secretary of Energy and the Director of the National Institute of Standards and Technology, shall prepare and transmit to Congress a 5-year program plan to guide activities under this section. Such program plan shall be submitted to the Technical Pipeline Safety Standards Committee and the Technical Hazardous Liquid Pipeline Safety Standards Committee for review, and the report to Congress shall include the comments of the committees. The 5-year program plan shall be based on the memorandum of understanding under subsection (b) and take into account related activities of other Federal agencies.
+In general.—Not later than 1 year after the date of enactment of this section \[Dec. 17, 2002\], the Secretary of Transportation, in coordination with theSecretary of Energy and the Director of the National Institute of Standards and Technology, shall prepare and transmit to Congress a 5-year program plan to guide activities under this section. Such program plan shall be submitted to the Technical Pipeline Safety Standards Committee and the Technical Hazardous Liquid Pipeline Safety Standards Committee for review, and the report to Congress shall include the comments of the committees. The 5-year program plan shall be based on the memorandum of understanding under subsection (b) and take into account related activities of other Federal agencies.
 
 &emsp;"(2)
 

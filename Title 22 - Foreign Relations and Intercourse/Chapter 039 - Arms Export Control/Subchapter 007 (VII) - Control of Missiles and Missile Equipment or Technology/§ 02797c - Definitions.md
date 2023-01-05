@@ -8,7 +8,7 @@ For purposes of this subchapter—
 
 &emsp;(2) the term "Missile Technology Control Regime" or "MTCR" means the policy statement, between the United States, the United Kingdom, the Federal Republic of Germany, France, Italy, Canada, and Japan, announced on April 16, 1987, to restrict sensitive missile-relevant transfers based on the MTCR Annex, and any amendments thereto;
 
-&emsp;(3) the term "MTCR adherent" means a country that participates in the MTCR or that, pursuant to an international understanding to which the United States is a party, controls MTCR equipment or technology in accordance with the criteria and standards set forth in the MTCR;
+&emsp;(3) the term "MTCR adherent" means a country that participates in the MTCR orthat, pursuant to an international understanding to which the United States is a party, controls MTCR equipment or technology in accordance with the criteria and standards set forth in the MTCR;
 
 &emsp;(4) the term "MTCR Annex" means the Guidelines and Equipment and Technology Annex of the MTCR, and any amendments thereto;
 

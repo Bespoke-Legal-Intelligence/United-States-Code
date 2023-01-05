@@ -18,5 +18,5 @@ Based on 44 U.S. Code, 1964 ed., §171 (Dec. 10, 1877, ch. 6, 20 Stat. 5).
 
 #### Change of Name
 
-"Government Publishing Office" substituted for "Government Printing Office" in text on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
+"Government Publishing Office" substituted for "Government Printing Office" in text on authority ofsection 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of this title.
 

@@ -139,7 +139,7 @@ Criteria for selection.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Chairman and the Administrator shall select participants for the exchange program established under subsection (a) from among mid-career employees and based on—
+In general.—The Chairman and the Administrator shall select participants for the exchangeprogram established under subsection (a) from among mid-career employees and based on—
 
 &emsp;&emsp;&emsp;"(i) the qualifications and desire to participate in the program of the employee; and
 
@@ -147,7 +147,7 @@ In general.—The Chairman and the Administrator shall select participants for t
 
 &emsp;&emsp;"(B)
 
-Department of defense.—In selecting participants from the Department of Defense for theexchange program established under subsection (a), the Chairman shall ensure that there is a mix of military personnel and civilian employees of the Department.
+Department of defense.—In selecting participants from the Department of Defense for the exchange program established under subsection (a), the Chairman shall ensure that there is a mix of military personnel and civilian employees of the Department.
 
 "(d)
 

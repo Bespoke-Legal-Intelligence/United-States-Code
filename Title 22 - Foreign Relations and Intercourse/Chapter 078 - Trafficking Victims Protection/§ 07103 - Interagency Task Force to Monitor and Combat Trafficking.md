@@ -92,15 +92,25 @@ The Task Force shall carry out the following activities:
 
 &emsp;&emsp;&emsp;(vi) the number of individuals required by a court order to pay restitution in connection with a violation of each offense under title 18, the amount of restitution required to be paid under each such order, and the amount of restitution actually paid pursuant to each such order;
 
-&emsp;&emsp;&emsp;(vii) the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense;
+&emsp;&emsp;&emsp;(vii) the age, gender, race, country of origin, country of citizenship, and description of the role in the offense of individuals convicted under each offense; and
 
-&emsp;&emsp;&emsp;(viii) the number of convictions obtained under chapter 77 of title 18, aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim; and <sup>4</sup>
+&emsp;&emsp;&emsp;(viii) the number of convictions obtained under chapter 77 of title 18, aggregated separately by the form of offense committed with respect to the victim, including recruiting, enticing, harboring, transporting, providing, obtaining, advertising, maintaining, patronizing, or soliciting a human trafficking victim;
 
-&emsp;&emsp;(R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) <sup>3</sup> of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible; and
+&emsp;&emsp;(R) the activities undertaken by the Department of Justice and the Department of Health and Human Services to meet the specific needs of minor victims of domestic trafficking, including actions taken pursuant to subsection (f) and section 20702(a) <sup>3</sup> of title 34, and the steps taken to increase cooperation among Federal agencies to ensure the effective and efficient use of programs for which the victims are eligible;
 
-&emsp;&emsp;(S) <sup>5</sup> tactics and strategies employed by human trafficking task forces sponsored by the Department of Justice to reduce demand for trafficking victims.
+&emsp;&emsp;(S) tactics and strategies employed by human trafficking task forces sponsored by the Department of Justice to reduce demand for trafficking victims;
 
-&emsp;&emsp;(S) <sup>5</sup> the efforts of the United States to eliminate money laundering related to human trafficking and the number of investigations, arrests, indictments, and convictions in money laundering cases with a nexus to human trafficking.
+&emsp;&emsp;(T) the efforts of the United States to eliminate money laundering related to human trafficking and the number of investigations, arrests, indictments, and convictions in money laundering cases with a nexus to human trafficking;
+
+&emsp;&emsp;(U) with respect to applications described in subparagraph (B), (C), (D), or (F), when available, if the application was denied, the reason for the denial and the length of time it took for the denial to be issued; and
+
+&emsp;&emsp;(V) disaggregated data regarding—
+
+&emsp;&emsp;&emsp;(i) the number of victims trafficked by third parties and by family members;
+
+&emsp;&emsp;&emsp;(ii) victims trafficked by victim age; and
+
+&emsp;&emsp;&emsp;(iii) victims trafficked by the type of trafficking.
 
 #### (e) Office To Monitor and Combat Trafficking
 
@@ -152,7 +162,7 @@ Each regional bureau in the Department of State shall contribute to the realizat
 
 &emsp;Not later than 90 days after December 19, 2003, the President shall promulgate regulations to implement this section, including regulations to carry out paragraph (4).
 
-(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, §104(a), title II, §205, Jan. 10, 2006, 119 Stat. 3564, 3571; Pub. L. 110–457, title I, §§101, 102, title II, §231, title III, §304(a), Dec. 23, 2008, 122 Stat. 5045, 5072, 5087; Pub. L. 112–239, div. A, title XVII, §1707, Jan. 2, 2013, 126 Stat. 2098; Pub. L. 113–4, title XII, §§1201, 1203(a), 1231, Mar. 7, 2013, 127 Stat. 136, 138, 144; Pub. L. 114–22, title VI, §602, May 29, 2015, 129 Stat. 259; Pub. L. 115–392, §§16, 18(a), Dec. 21, 2018, 132 Stat. 5257, 5258; Pub. L. 115–425, title I, §121(a), title II, §201, Jan. 8, 2019, 132 Stat. 5478, 5482; Pub. L. 116–92, div. A, title IX, §902(85), div. C, title XXXV, §3562, div. F, title LXXI, §7154(b), Dec. 20, 2019, 133 Stat. 1553, 2009, 2260.)
+(Pub. L. 106–386, div. A, §105, Oct. 28, 2000, 114 Stat. 1473; Pub. L. 108–193, §6(a)(1), (b)(1), (c)(1), Dec. 19, 2003, 117 Stat. 2880, 2881; Pub. L. 109–164, title I, §104(a), title II, §205, Jan. 10, 2006, 119 Stat. 3564, 3571; Pub. L. 110–457, title I, §§101, 102, title II, §231, title III, §304(a), Dec. 23, 2008, 122 Stat. 5045, 5072, 5087; Pub. L. 112–239, div. A, title XVII, §1707, Jan. 2, 2013, 126 Stat. 2098; Pub. L. 113–4, title XII, §§1201, 1203(a), 1231, Mar. 7, 2013, 127 Stat. 136, 138, 144; Pub. L. 114–22, title VI, §602, May 29, 2015, 129 Stat. 259; Pub. L. 115–392, §§16, 18(a), Dec. 21, 2018, 132 Stat. 5257, 5258; Pub. L. 115–425, title I, §121(a), title II, §201, Jan. 8, 2019, 132 Stat. 5478, 5482; Pub. L. 116–92, div. A, title IX, §902(85), div. C, title XXXV, §3562, div. F, title LXXI, §7154(b), Dec. 20, 2019, 133 Stat. 1553, 2009, 2260; Pub. L. 117–347, title IV, §404, Jan. 5, 2023, 136 Stat. 6208.)
 
 #### <b>Editorial Notes</b>
 
@@ -171,6 +181,18 @@ Section 20702(a) of title 34, referred to in subsec. (d)(7)(R), was amended gene
 Executive Order No. 13257, referred to in subsec. (g)(2)(A), is set out as a note below.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (d)(7)(Q)(vii). Pub. L. 117–347, §404(1)(A), inserted "and" at end.
+
+Subsec. (d)(7)(Q)(viii). Pub. L. 117–347, §404(1)(B), struck out "and" at end.
+
+Subsec. (d)(7)(R). Pub. L. 117–347, §404(2), struck out "and" at end.
+
+Subsec. (d)(7)(S). Pub. L. 117–347, §404(3), substituted semicolon for period in subpar. (S) relating to tactics and strategies employed by human trafficking task forces.
+
+Subsec. (d)(7)(T). Pub. L. 117–347, §404(4), (5), redesignated subpar. (S) relating to efforts of the United States to eliminate money laundering as (T) and substituted semicolon for period at end.
+
+Subsec. (d)(7)(U), (V). Pub. L. 117–347, §404(6), added subpars. (U) and (V).
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–92, §3562, inserted "the Secretary of Commerce," after "the Secretary of Education,".
 
@@ -246,7 +268,7 @@ Pub. L. 108–193, §6(b)(2), Dec. 19, 2003, 117 Stat. 2881, provided that: "The
 
 #### Senior Policy Operating Group
 
-Pub. L. 108–7, div. B, title IV, §406, Feb. 20, 2003, 117 Stat. 92, required the Interagency Task Force to Monitor and Combat Trafficking to establish a Senior Policy Operating Group, prior to repeal by Pub. L. 108–193, §6(c)(2), Dec. 19, 2003, 117 Stat. 2881. See subsec. (f) of this section.
+Pub. L. 108–7, div. B, title IV, §406, Feb. 20, 2003, 117 Stat. 92, required the Interagency Task Force to Monitor and Combat Trafficking to establish a Senior Policy Operating Group, prior to repeal by Pub. L. 108–193, §6(c)(2), Dec. 19, 2003, 117 Stat. 2881. See subsec. (g) of this section.
 
 #### <b>Executive Documents</b>
 
@@ -254,7 +276,7 @@ Pub. L. 108–7, div. B, title IV, §406, Feb. 20, 2003, 117 Stat. 92, required 
 
 Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended by Ex. Ord. No. 13286, §5, Feb. 28, 2003, 68 F.R. 10619; Ex. Ord. No. 13333, Mar. 18, 2004, 69 F.R. 13455, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trafficking Victims Protection Act of 2000, (22 U.S.C. 7101 <i>et seq</i>.) (the "Act"), and section 301 of title 3, United States Code, and in order tocombat trafficking in persons, a contemporary manifestation of slavery whose victims are predominantly women and children, to ensure just and effective punishment of traffickers, and to protect their victims, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trafficking Victims Protection Act of 2000, (22 U.S.C. 7101 <i>et seq</i>.) (the "Act"), and section 301 of title 3, United States Code, and in order to combat trafficking in persons, a contemporary manifestation of slavery whose victims are predominantly women and children, to ensure just and effective punishment of traffickers, and to protect their victims, it is hereby ordered as follows:
 
 Section 1. (a) The President's Interagency Task Force to Monitor and Combat Trafficking in Persons is hereby established.
 
@@ -349,6 +371,4 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 
 <i><sup>4</sup></i><i> So in original. The word "and" probably should not appear.</i>
-
-<i><sup>5</sup></i><i> So in original. Two subpars. (S) have been enacted.</i>
 

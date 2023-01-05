@@ -2,7 +2,7 @@
 
 (a)
 
-General.—The Secretary of Transportation shall provide financial assistance to aState, as provided under this chapter, for a rail freight assistance project of the State when a rail carrier subject to part A of subtitle IV of this title maintains a rail line in the State. The assistance is for the cost of—
+General.—The Secretary of Transportation shall provide financial assistance to a State, as provided under this chapter, for a rail freight assistance project of the State when a rail carrier subject to part A of subtitle IV of this title maintains a rail line in the State. The assistance is for the cost of—
 
 &emsp;(1) acquiring, in any way the State considers appropriate, an interest in a rail line or rail property to maintain existing, or to provide future, rail freight transportation, but only if the Surface Transportation Board has authorized, or exempted from the requirements of that authorization, the abandonment of, or the discontinuance of rail transportation on, the rail line related to the project;
 

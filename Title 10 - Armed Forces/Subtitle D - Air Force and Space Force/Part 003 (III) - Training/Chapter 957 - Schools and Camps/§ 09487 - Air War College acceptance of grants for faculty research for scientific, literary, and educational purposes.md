@@ -2,7 +2,7 @@
 
 (a)
 
-Acceptance of Research Grants.—The Secretary of the Air Force may authorize the Commandant of the Air War College to accept qualifying research grants. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor of the College for a scientific, literary, or educational purpose.
+Acceptance of Research Grants.—The Secretary of the Air Force may authorize the Commandant of the Air War College to accept qualifying research grants. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor ofthe College for a scientific, literary, or educational purpose.
 
 (b)
 
@@ -18,7 +18,7 @@ Administration of Grant Funds.—The Secretary shall establish an account for ad
 
 (e)
 
-Related Expenses.—Subject to such limitations as may be provided in appropriationsActs, appropriations available for the Air War College may be used to pay expenses incurred by the College in applying for, and otherwise pursuing, the award of qualifying research grants.
+Related Expenses.—Subject to such limitations as may be provided in appropriations Acts, appropriations available for the Air War College may be used to pay expenses incurred by the College in applying for, and otherwise pursuing, the award of qualifying research grants.
 
 (f)
 

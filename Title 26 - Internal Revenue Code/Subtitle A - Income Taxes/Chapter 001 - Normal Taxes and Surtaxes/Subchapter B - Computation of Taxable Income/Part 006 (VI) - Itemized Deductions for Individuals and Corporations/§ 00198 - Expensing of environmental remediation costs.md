@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (4) Appropriate State agency
 
-&emsp;For purposes of paragraph (3), the chief executive officer of each State may, in consultation with the Administrator of the Environmental Protection Agency, designate the appropriate State environmental agency within 60 days of the date of the enactment of this section. If the chief executive officer of aState has not designated an appropriate environmental agency within such 60-day period, the appropriate environmental agency for such State shall be designated by the Administrator of the Environmental Protection Agency.
+&emsp;For purposes of paragraph (3), the chief executive officer of each State may, in consultation with the Administrator of the Environmental Protection Agency, designate the appropriate State environmental agency within 60 days of the date of the enactment of this section. If the chief executive officer of a State has not designated an appropriate environmental agency within such 60-day period, the appropriate environmental agency for such State shall be designated by the Administrator of the Environmental Protection Agency.
 
 #### (d) Hazardous substance
 

@@ -90,7 +90,7 @@ A State desiring to receive a grant under this section shall submit an applicati
 
 &emsp;&emsp;&emsp;(viii) other information as appropriate; and
 
-&emsp;&emsp;(D) a plan, based on the information gathered as a result of the activities described insubparagraphs (A), (B), and (C), to improve and streamline the State assessment system, including activities such as—
+&emsp;&emsp;(D) a plan, based on the information gathered as a result of the activities described in subparagraphs (A), (B), and (C), to improve and streamline the State assessment system, including activities such as—
 
 &emsp;&emsp;&emsp;(i) eliminating any unnecessary assessments, which may include paying the cost associated with terminating procurement contracts;
 

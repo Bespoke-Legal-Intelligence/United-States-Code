@@ -18,7 +18,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (c) Terminal and supplementary reports
 
-(1) Each administrator of an employee pension benefit plan which is winding up its affairs (without regard to the number of participants remaining in the plan) shall, in accordance with regulations prescribed by the Secretary, file such terminal reports as the Secretary may consider necessary. A copy of such report shall also be filed with the Pension Benefit Guaranty Corporation.
+(1) Each administrator of an employee pension benefit plan which is winding up its affairs\(without regard to the number of participants remaining in the plan) shall, in accordance with regulations prescribed by the Secretary, file such terminal reports as the Secretary may consider necessary. A copy of such report shall also be filed with the Pension Benefit Guaranty Corporation.
 
 (2) The Secretary may require terminal reports to be filed with regard to any employee welfare benefit plan which is winding up its affairs in accordance with regulations promulgated by the Secretary.
 
@@ -60,7 +60,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 #### (3) Definitions
 
-&emsp;For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on July 31, 2015) shall have the same meaning as when used in such section.
+&emsp;For purposes of paragraph (1), any term used in such paragraph which is also used in section 420 of title 26 (as in effect on December 29, 2022) shall have the same meaning as when used in such section.
 
 #### (f) Defined benefit plan funding notices
 
@@ -78,7 +78,7 @@ The administrator shall, in accordance with section 1024(a) of this title, file 
 
 &emsp;&emsp;A plan funding notice under paragraph (1) shall include—
 
-&emsp;&emsp;&emsp;(i)(I) in the case of a single-employer plan, a statement as to whether the plan's funding target attainment percentage (as defined in section 1083(d)(2) of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), or
+&emsp;&emsp;&emsp;(i)(I) in the case of a single-employer plan, a statement as to whether the plan's funding target attainment percentage (asdefined in section 1083(d)(2) of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), or
 
 &emsp;&emsp;&emsp;(II) in the case of a multiemployer plan, a statement as to whether the plan's funded percentage (as defined in section 1085(i) <sup>1</sup> of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages),
 
@@ -272,7 +272,7 @@ The Secretary shall, by regulation, require multiple employer welfare arrangemen
 
 #### (4) Changes in length of blackout period
 
-&emsp;If, following the furnishing of the notice pursuant to this subsection, there is a change in the beginning date or length of the blackout period (specified in such notice pursuant to paragraph (2)(A)(iii)), the administrator shall provide affected participants and beneficiaries notice of the change as soon as reasonably practicable. In relation to the extended blackout period, such notice shall meet the requirements of paragraph (2)(D) and shall specify any material change in the matters referred to in clauses (i) through (v) of paragraph (2)(A).
+&emsp;If, following the furnishing of the notice pursuant to this subsection, there is a change in the beginning date or length of the blackout period (specified in such notice pursuant to paragraph (2)(A)(iii)), the administrator shall provide affected participants and beneficiaries notice of the change as soon as reasonably practicable. In relation to the extended blackout period, such notice shall meet the requirements of paragraph (2)(D) and shall specifyany material change in the matters referred to in clauses (i) through (v) of paragraph (2)(A).
 
 #### (5) Regulatory exceptions
 
@@ -346,7 +346,7 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 &emsp;&emsp;(G) any periodic actuarial report (including any sensitivity testing) received by the plan for any plan year which has been in the plan's possession for at least 30 days,
 
-&emsp;&emsp;(H) any quarterly, semi-annual, or annual financial report prepared for the plan by any plan investment manager or advisor or other fiduciary which has been in the plan's possession for at least 30 days,
+&emsp;&emsp;(H) any quarterly, semi-annual, or annual financial report prepared for the plan by any plan investment manager or advisor or otherfiduciary which has been in the plan's possession for at least 30 days,
 
 &emsp;&emsp;(I) audited financial statements of the plan for any plan year,
 
@@ -378,7 +378,7 @@ The plan administrator of a single-employer plan shall provide a written notice 
 
 #### (1) In general
 
-&emsp;The plan sponsor or administrator of a multiemployer plan shall, upon written request,furnish to any employer who has an obligation to contribute to the plan a notice of—
+&emsp;The plan sponsor or administrator of a multiemployer plan shall, upon written request, furnish to any employer who has an obligation to contribute to the plan a notice of—
 
 &emsp;&emsp;(A) the estimated amount which would be the amount of such employer's withdrawal liability under part 1 of subtitle E of subchapter III if such employer withdrew on the last day of the plan year preceding the date of the request, and
 
@@ -416,7 +416,77 @@ Not later than 30 days before the first date on which an applicable individual o
 
 &emsp;&emsp;<b>For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see section 1204 of this title.</b>
 
-(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 108(a)(1), (11), formerly §107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §§101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, 122 Stat. 5097, 5104, 5105; Pub. L. 111–148, title VI, §6606, Mar. 23, 2010, 124 Stat. 781; Pub. L. 112–141, div. D, title II, §§40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, 126 Stat. 848, 859, 863; Pub. L. 113–97, title I, §104(a)(1), (b), Apr. 7, 2014, 128 Stat. 1120; Pub. L. 113–159, title II, §2003(b)(2)(A), Aug. 8, 2014, 128 Stat. 1849; Pub. L. 113–235, div. O, title I, §111(a), (b), title II, §201(a)(4), Dec. 16, 2014, 128 Stat. 2792, 2793, 2799; Pub. L. 114–41, title II, §2007(b)(1), July 31, 2015, 129 Stat. 459; Pub. L. 114–74, title V, §504(b)(2)(A), Nov. 2, 2015, 129 Stat. 594; Pub. L. 117–2, title IX, §9706(b)(3)(A), Mar. 11, 2021, 135 Stat. 201; Pub. L. 117–58, div. H, title VI, §80602(b)(2)(A), Nov. 15, 2021, 135 Stat. 1339.)
+(Pub. L. 93–406, title I, §101, Sept. 2, 1974, 88 Stat. 840; Pub. L. 100–203, title IX, §9304(d), Dec. 22, 1987, 101 Stat. 1330–348; Pub. L. 101–239, title VII, §§7881(b)(5)(A), 7894(b)(2), Dec. 19, 1989, 103 Stat. 2438, 2448; Pub. L. 101–508, title XII, §12012(d)(1), Nov. 5, 1990, 104 Stat. 1388–572; Pub. L. 103–66, title IV, §4301(b)(1), Aug. 10, 1993, 107 Stat. 375; Pub. L. 103–465, title VII, §731(c)(4)(A), Dec. 8, 1994, 108 Stat. 5004; Pub. L. 104–188, title I, §1421(d)(1), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 104–191, title I, §101(e)(1), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(B), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061; Pub. L. 105–200, title IV, §401(h)(1)(A), July 16, 1998, 112 Stat. 668; Pub. L. 106–170, title V, §535(a)(2)(A), Dec. 17, 1999, 113 Stat. 1934; Pub. L. 107–204, title III, §306(b)(1), July 30, 2002, 116 Stat. 780; Pub. L. 108–218, title I, §103(a), title II, §204(b)(1), Apr. 10, 2004, 118 Stat. 602, 609; Pub. L. 108–357, title VII, §709(a)(1), Oct. 22, 2004, 118 Stat. 1551; Pub. L. 109–280, title I, §§103(b)(1), 108(a)(1), (11), formerly §107(a)(1), (11), title V, §§501(a), 502(a)(1), (b)(1), 503(c)(2), 507(a), 509(a), Aug. 17, 2006, 120 Stat. 815, 818, 819, 936, 939, 940, 944, 948, 952, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §§101(c)(1)(A), 105(a), (b)(1), (g), Dec. 23, 2008, 122 Stat. 5097, 5104, 5105; Pub. L. 111–148, title VI, §6606, Mar. 23, 2010, 124 Stat. 781; Pub. L. 112–141, div. D, title II, §§40211(b)(2)(A), 40241(b)(1), 40242(e)(14), July 6, 2012, 126 Stat. 848, 859, 863; Pub. L. 113–97, title I, §104(a)(1), (b), Apr. 7, 2014, 128 Stat. 1120; Pub. L. 113–159, title II, §2003(b)(2)(A), Aug. 8, 2014, 128 Stat. 1849; Pub. L. 113–235, div. O, title I, §111(a), (b), title II, §201(a)(4), Dec. 16, 2014, 128 Stat. 2792, 2793, 2799; Pub. L. 114–41, title II, §2007(b)(1), July 31, 2015, 129 Stat. 459; Pub. L. 114–74, title V, §504(b)(2)(A), Nov. 2, 2015, 129 Stat. 594; Pub. L. 117–2, title IX, §9706(b)(3)(A), Mar. 11, 2021, 135 Stat. 201; Pub. L. 117–58, div. H, title VI, §80602(b)(2)(A), Nov. 15, 2021, 135 Stat. 1339; Pub. L. 117–328, div. T, title I, §127(c)(2), title III, §343(a), title VI, §606(b)(1), Dec. 29, 2022, 136 Stat. 5324, 5378, 5397.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–328, div. T, title III, §343, Dec. 29, 2022, 136 Stat. 5378, provided that, applicable with respect to plan years beginning after Dec. 31, 2023, subsection (f)(2)(B) of this section is amended—</i>
+
+<i>(1) in clause (i)(I), by striking "funding target attainment percentage (as defined in section 1083(d)(2) of this title)" and inserting "percentage of plan liabilities funded (as described in clause (ii)(I)(bb))";</i>
+
+<i>(2) in clause (ii)(I)—</i>
+
+<i>(A) by striking ", a statement of";</i>
+
+<i>(B) by striking item (aa);</i>
+
+<i>(C) by redesignating item (bb) as item (aa);</i>
+
+<i>(D) in item (aa), as so redesignated—</i>
+
+<i>(i) by inserting "a statement of" before "the value",</i>
+
+<i>(ii) by inserting ", and for the preceding 2 plan years as of the last day of each such plan year," before "determined using",</i>
+
+<i>(iii) by striking "and" at the end; and</i>
+
+<i>(E) by adding at the end the following:</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(bb) for purposes of the statement in subparagraph (B)(i)(I), the percentage of plan liabilities funded, calculated as the ratio between the value of the plan's assets and liabilities, as determined under item (aa), for the plan year to which the notice relates and for the 2 preceding plan years, and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(cc) if the information in (aa) and (bb) is presented in tabular form, a statement that describes that in the event of a plan termination the corporation's calculation of plan liabilities may be greater and that references the section of the notice with the information required under clause (x), and";</i>
+
+<i>(3) in clause (ii)(II), by striking "subclause (I)(bb)" and inserting "subclause (I)(aa)",</i>
+
+<i>(4) in clause (iii), in the matter preceding subclause (I), by inserting "for the plan year to which the notice relates as of the last day of such plan year and the preceding 2 plan years, in tabular format," after "participants";</i>
+
+<i>(5) in clause (iv)—</i>
+
+<i>(A) by striking "plan and the asset" and inserting "plan, the asset"; and</i>
+
+<i>(B) by inserting ", and the average return on assets for the plan year," after "assets)";</i>
+
+<i>(6) by redesignating clauses (ix) through (xi) as clause (x) through (xii), respectively;</i>
+
+<i>(7) by inserting after clause (viii) the following:</i>
+
+&emsp;&emsp;&emsp;<i>"(ix) in the case of a single-employer plan, a statement as to whether the plan's funded status, based on the plan's liabilities described under subclause (II) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), that includes—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(I) the plan's assets, as of the last day of the plan year and for the 2 preceding plan years, as determined under clause (ii)(I)(aa),</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(II) the plan's liabilities, as of the last day of the plan year and for the 2 preceding plan years, as determined under clause (ii)(1)(aa), and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(III) the funded status of the plan, determined as the ratio of the plan's assets and liabilities calculated under subclauses (I) and (II), for the plan year to which the notice relates, and for the 2 preceding plan years,"; and</i>
+
+<i>(8) in clause (x), as so redesignated, by striking the comma at the end and inserting the following: "and a statement that, in the case of a single-employer plan—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(I) if plan assets are determined to be sufficient to pay vested benefits that are not</i><i>guaranteed by the Pension Benefit Guaranty Corporation, participants and beneficiaries may receive benefits in excess of the guaranteed amount, and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(II) such a determination generally uses assumptions that result in a plan having a lower funded status as compared to the plan's funded status disclosed in this notice."</i>
+
+<i>See 2022 Amendment notes below.</i>
+
+<i>Pub. L. 117–328, div. T, title I, §127(c)(2), (g), Dec. 29, 2022, 136 Stat. 5324, 5330, provided that, applicable to plan years beginning after Dec. 31, 2023, this section is amended—</i>
+
+<i>(A) by redesignating subsection (n) as subsection (o); and</i>
+
+<i>(B) by inserting after subsection (m) the following:</i>
+
+#### <i>"(n) Pension-linked emergency savings accounts</i>
+
+<i>"Nothing in this section shall preclude the Secretary from providing, by regulations or otherwise, simplified reporting procedures or requirements regarding such a pension-linked emergency savings account."</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -441,6 +511,32 @@ The Cooperative and Small Employer Charity Pension Flexibility Act, referred to 
 The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to in subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the general amendment of subsec. (k)(1) by Pub. L. 113–235, §111(a). See 2014 Amendment note below.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(3). Pub. L. 117–328, §606(b)(1), substituted "(as in effect on December 29, 2022)" for "(as in effect on July 31, 2015)".
+
+Subsec. (f)(2)(B)(i)(I). Pub. L. 117–328, §343(a)(1), substituted "percentage of plan liabilities funded (as described in clause (ii)(I)(bb))" for "funding target attainment percentage (as defined in section 1083(d)(2) of this title)".
+
+Subsec. (f)(2)(B)(ii)(I). Pub. L. 117–328, §343(a)(2)(A), struck out ", a statement of" after "single-employer plan" in introductory provisions.
+
+Subsec. (f)(2)(B)(ii)(I)(aa). Pub. L. 117–328, §343(a)(2)(B)–(D), redesignated item (bb) as (aa), inserted "a statement of" before "the value" and ", and for the preceding 2 plan years as of the last day of each such plan year," before "determined using", struck out "and" at end, and struck out former item (aa) which read as follows: "the total assets (separately stating the prefunding balance and the funding standard carryover balance) and liabilities of the plan, determined in the same manner as under section 1083 of this title, for the plan year to which the notice relates and for the 2 preceding plan years, as reported in the annual report for each such plan year, and".
+
+Subsec. (f)(2)(B)(ii)(I)(bb), (cc). Pub. L. 117–328, §343(a)(2)(E), added items (bb) and (cc). Former item (bb) redesignated (aa).
+
+Subsec. (f)(2)(B)(ii)(II). Pub. L. 117–328, §343(a)(3), substituted "subclause (I)(aa)" for "subclause (I)(bb)".
+
+Subsec. (f)(2)(B)(iii). Pub. L. 117–328, §343(a)(4), inserted "for the plan year to which the notice relates as of the last day of such plan year and the preceding 2 plan years, in tabular format," after "participants" in introductory provisions.
+
+Subsec. (f)(2)(B)(iv). Pub. L. 117–328, §343(a)(5), substituted "plan, the asset" for "plan and the asset" and inserted ", and the average return on assets for the plan year," after "assets)".
+
+Subsec. (f)(2)(B)(ix). Pub. L. 117–328, §343(a)(7), added cl. (ix). Former cl. (ix) redesignated (x).
+
+Subsec. (f)(2)(B)(x). Pub. L. 117–328, §343(a)(8), substituted "apply and a statement that, in the case of a single-employer plan—" for "apply," and added subcls. (I) and (II).
+
+Pub. L. 117–328, §343(a)(6), redesignated cl. (ix) as (x). Former cl. (x) redesignated (xi).
+
+Subsec. (f)(2)(B)(xi), (xii). Pub. L. 117–328, §343(a)(6), redesignated cls. (x) and (xi) as (xi) and (xii), respectively.
+
+Subsecs. (n), (o). Pub. L. 117–328, §127(c)(2), added subsec. (n) and redesignated former subsec. (n) as (o).
 
 <b>2021</b>—Subsec. (f)(2)(D)(i)(I), (II). Pub. L. 117–58, §80602(b)(2)(A)(i), substituted ", the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act" for "and the American Rescue Plan Act of 2021".
 
@@ -584,6 +680,14 @@ Subsec. (d)(1). Pub. L. 101–239, §7881(b)(5)(A), substituted "an employer mai
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by section 127(c)(2) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as a note under section 72 of Title 26, Internal Revenue Code.
+
+Pub. L. 117–328, div. T, title III, §343(b), Dec. 29, 2022, 136 Stat. 5380, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to plan years beginning after December 31, 2023."
+
+Amendment by section 606(b)(1) of Pub. L. 117–328 applicable to transfers made after Dec. 29, 2022, see section 606(c) of Pub. L. 117–328, set out as a note under section 420 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 117–58 applicable to plan years beginning after Dec. 31, 2021, see section 80602(c) of Pub. L. 117–58, set out as a note under section 430 of Title 26, Internal Revenue Code.
@@ -714,7 +818,7 @@ Pub. L. 101–508, title XII, §12012(e), Nov. 5, 1990, 104 Stat. 1388–573, pr
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(b)(5)(A) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(b)(5)(A) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7894(b)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
@@ -732,7 +836,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
-For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
+For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub.L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.
 
 #### Statements
 

@@ -34,7 +34,7 @@ In general.—In carrying out the program established by paragraph (1), the Secr
 
 &emsp;&emsp;(i) plans for electrification;
 
-&emsp;&emsp;(ii) plans for oil and gas permitting, renewable energy permitting, energy efficiency,electricity generation, transmission planning, water planning, and other planning relating to energy issues;
+&emsp;&emsp;(ii) plans for oil and gas permitting, renewable energy permitting, energy efficiency, electricity generation, transmission planning, water planning, and other planning relating to energy issues;
 
 &emsp;&emsp;(iii) plans for the development of energy resources and to ensure the protection of natural, historic, and cultural resources; and
 
@@ -88,7 +88,7 @@ Technical and scientific resources.—In addition to providing grants to Indian 
 
 (C) In providing a grant under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Director shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Director determines to be appropriate.
 
-(D) The Secretary of Energy may reduce any applicable cost share required of an Indian tribe, intertribal organization, or tribal energy development organization in order to receive a grant under this subsection to not less than 10 percent if the Indian tribe, intertribal organization, or tribal energy development organization meets criteria developed by the Secretary of Energy, including financial need.
+(D) The Secretary of Energy may reduce any applicable cost share required of an Indian tribe, intertribal organization, or tribal energy development organization in order to receive a grantunder this subsection to not less than 10 percent if the Indian tribe, intertribal organization, or tribal energy development organization meets criteria developed by the Secretary of Energy, including financial need.
 
 (E) Section 16352 of title 42 shall not apply to assistance provided under this subsection.
 
@@ -98,7 +98,7 @@ Technical and scientific resources.—In addition to providing grants to Indian 
 
 #### (c) Department of Energy loan guarantee program
 
-(1) Subject to paragraphs (2) and (4), the Secretary of Energy may provide loan guarantees (as defined in section 661a of title 2) for an amount equal to not more than 90 percent of the unpaid principal and interest due on any loan made to an Indian tribe or a tribal energy development organization for energy development.
+(1) Subject to paragraphs (2) and (4), the Secretary of Energy may provide loan guarantees (as defined in section 661a of title 2, except that a loan guarantee may guarantee any debt obligation of a non-Federal borrower to any Eligible Lender (as defined in section 609.2 of title 10, Code of Federal Regulations)) for the unpaid principal and interest due on any loan made to an Indian tribe or a tribal energy development organization for energy development.
 
 (2) In providing a loan guarantee under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Secretary of Energy shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Secretary determines to be appropriate.
 
@@ -110,7 +110,7 @@ Technical and scientific resources.—In addition to providing grants to Indian 
 
 &emsp;(C) a tribal energy development organization, from funds of the tribal energy development organization.
 
-(4) The aggregate outstanding amount guaranteed by the Secretary of Energy at any timeunder this subsection shall not exceed $2,000,000,000.
+(4) The aggregate outstanding amount guaranteed by the Secretary of Energy at any time under this subsection shall not exceed $20,000,000,000.
 
 (5) Not later than 1 year after December 18, 2018, the Secretary of Energy shall issue such regulations as the Secretary of Energy determines are necessary to carry out this subsection.
 
@@ -128,7 +128,7 @@ Technical and scientific resources.—In addition to providing grants to Indian 
 
 &emsp;(B) obtain less than prevailing market terms and conditions.
 
-(Pub. L. 102–486, title XXVI, §2602, as added Pub. L. 109–58, title V, §503(a), Aug. 8, 2005, 119 Stat. 765; amended Pub. L. 115–325, title I, §§101, 104, 105(b), Dec. 18, 2018, 132 Stat. 4445, 4455, 4456; Pub. L. 116–260, div. Z, title VIII, §8013(b), (c), Dec. 27, 2020, 134 Stat. 2592, 2593.)
+(Pub. L. 102–486, title XXVI, §2602, as added Pub. L. 109–58, title V, §503(a), Aug. 8, 2005, 119 Stat. 765; amended Pub. L. 115–325, title I, §§101, 104, 105(b), Dec. 18, 2018, 132 Stat. 4445, 4455, 4456; Pub. L. 116–260, div. Z, title VIII, §8013(b), (c), Dec. 27, 2020, 134 Stat. 2592, 2593; Pub. L. 117–169, title V, §50145(b), Aug. 16, 2022, 136 Stat. 2046.)
 
 #### <b>Editorial Notes</b>
 
@@ -141,6 +141,10 @@ August 8, 2005, referred to in subsec. (c)(7), was in the original "the date of 
 A prior section 3502, Pub. L. 102–486, title XXVI, §2602, Oct. 24, 1992, 106 Stat. 3113, related to tribal consultation in implementing provisions, prior to the general amendment of this chapter by Pub. L. 109–58.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(1). Pub. L. 117–169 substituted ", except that a loan guarantee may guarantee any debt obligation of a non-Federal borrower to any Eligible Lender (as defined in section 609.2 of title 10, Code of Federal Regulations)) for" for ") for an amount equal to not more than 90 percent of".
+
+Subsec. (c)(4). Pub. L. 117–169, §50145(b)(2), substituted "$20,000,000,000" for "$2,000,000,000".
 
 <b>2020</b>—Subsec. (b)(5)(D), (E). Pub. L. 116–260, §8013(b), added subpars. (D) and (E).
 
@@ -167,4 +171,10 @@ Subsec. (c)(3). Pub. L. 115–325, §101(c)(2)(A), substituted "guaranteed" for 
 Subsec. (c)(3)(C). Pub. L. 115–325, §101(c)(2)(B)–(D), added subpar. (C).
 
 Subsec. (c)(5). Pub. L. 115–325, §101(c)(3), substituted "Not later than 1 year after December 18, 2018, the Secretary of Energy shall" for "The Secretary of Energy may".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Tribal Energy Loan Guarantee Program
+
+Pub. L. 117–328, div. D, title III, Dec. 29, 2022, 136 Stat. 4637, provided in part: "That in this fiscal year and subsequent fiscal years, under section 2602(c) of the Energy Policy Act of 1992 (25 U.S.C. 3502(c)), the Secretary of Energy may also provide direct loans, as defined in section 502 of the Congressional Budget Act of 1974 (2 U.S.C. 661a): <i>Provided further</i>, That such direct loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest: <i>Provided further</i>, That any funds previously appropriated for the cost of loan guarantees under section 2602(c) of the Energy Policy Act of 1992 (25 U.S.C. 3502(c)) may also be used, in this fiscal year and subsequent fiscal years, for the cost of direct loans provided under such section of such Act".
 

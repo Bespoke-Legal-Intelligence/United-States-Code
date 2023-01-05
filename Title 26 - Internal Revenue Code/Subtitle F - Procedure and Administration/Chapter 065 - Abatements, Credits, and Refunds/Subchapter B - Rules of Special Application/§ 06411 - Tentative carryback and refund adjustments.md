@@ -2,7 +2,7 @@
 
 #### (a) Application for adjustment
 
-A taxpayer may file an application for a tentative carryback adjustment of the tax for the prior taxable year affected by a net operating loss carryback provided in section 172(b), by a business credit carryback provided in section 39, or by a capital loss carryback provided in subsection (a)(1) or (c) of section 1212, from any taxable year. The application shall be verified in the manner prescribed by section 6065 in the case of a return of such taxpayer and shall be filed, on or after the date of filing for the return for the taxable year of the net operating loss, net capital loss, or unused business credit from which the carryback results and within a period of 12 months after such taxable year or, with respect to any portion of a business credit carryback attributable to a net operating loss carryback or a net capital loss carryback from a subsequent taxable year, in the manner and form required by regulations prescribed by the Secretary. The applications shall set forth in such detail and with such supporting data and explanation as such regulations shall require—
+A taxpayer may file an application for a tentative carryback adjustment of the tax for theprior taxable year affected by a net operating loss carryback provided in section 172(b), by a business credit carryback provided in section 39, or by a capital loss carryback provided in subsection (a)(1) or (c) of section 1212, from any taxable year. The application shall be verified in the manner prescribed by section 6065 in the case of a return of such taxpayer and shall be filed, on or after the date of filing for the return for the taxable year of the net operating loss, net capital loss, or unused business credit from which the carryback results and within a period of 12 months after such taxable year or, with respect to any portion of a business credit carryback attributable to a net operating loss carryback or a net capital loss carryback from a subsequent taxable year, in the manner and form required by regulations prescribed by the Secretary. The applications shall set forth in such detail and with such supporting data and explanation as such regulations shall require—
 
 &emsp;(1) The amount of the net operating loss, net capital loss, or unused business credit;
 
@@ -40,7 +40,7 @@ If the corporation seeking a tentative carryback adjustment under this section, 
 
 &emsp;&emsp;&emsp;(i) the amount of the tax for such taxable year computed without regard to the deduction described in section 1341(a)(2),
 
-&emsp;&emsp;&emsp;(ii) the amount of the tax for all prior taxable years for which the decrease in taxprovided in section 1341(a)(5)(B) was computed,
+&emsp;&emsp;&emsp;(ii) the amount of the tax for all prior taxable years for which the decrease in tax provided in section 1341(a)(5)(B) was computed,
 
 &emsp;&emsp;&emsp;(iii) the amount determined under section 1341(a)(5)(B),
 
@@ -90,7 +90,7 @@ Subsec. (a)(1). Pub. L. 98–369, §474(r)(37)(A), substituted "unused research 
 
 Subsecs. (b), (c). Pub. L. 98–369, §474(r)(37)(B), substituted "unused research credit, or unused business credit" for "unused investment credit, unused work incentive program credit, unused new employee credit, unused research credit, or unused employee stock ownership credit" wherever appearing.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–34, §331(d)(2)(B), inserted in introductory provisions "by an employee stock ownership credit carryback provided by section 44G(b)(2)" after "section 44F(g)(2)," and substituted "unused research credit, or unused employee stock ownership credit" for "or unused research credit", "a research credit carryback, or employee stock ownership credit carryback" for "or a research credit carryback", and "new employee credit carryback, or, in the case of anemployee stock ownership credit carryback, to an investment credit carryback, a new employee credit carryback or a research and experimental credit carryback)" for "new employee credit carryback)" and in par. (1) substituted "unused research credit, or unused employee stock ownership credit" for "or unused research credit".
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §331(d)(2)(B), inserted in introductory provisions "by an employee stock ownership credit carryback provided by section 44G(b)(2)" after "section 44F(g)(2)," and substituted "unused research credit, or unused employee stock ownership credit" for "or unused research credit", "a research credit carryback, or employee stock ownership credit carryback" for "or a research credit carryback", and "new employee credit carryback, or, in the case of an employee stock ownership credit carryback, to an investment credit carryback, a new employee credit carryback or a research and experimental credit carryback)" for "new employee credit carryback)" and in par. (1) substituted "unused research credit, or unused employee stock ownership credit" for "or unused research credit".
 
 Pub. L. 97–34, §221(b)(2)(B), inserted in introductory provision "by a research credit carryback provided in section 44F(g)(2)," after "section 53(b)," and substituted "unused new employee credit, or unused research credit" for "or unused new employee credit", "a new employee credit carryback, or a research credit carryback" for "or a new employee credit carryback", and "work incentive program carryback, or, in the case of a research credit carryback, to an investment credit carryback, a work incentive program carryback, or new employee credit carryback)" for "work incentive program carryback)" and in par. (1) substituted "unused new employee credit, or unused research credit" for "or unused new employee credit".
 
@@ -162,7 +162,7 @@ Amendment by section 474(r)(37) of Pub. L. 98–369 applicable to taxable years 
 
 Amendment by section 714(n)(2)(B) of Pub. L. 98–369 effective as if included in the provision of the Tax Equity and Fiscal Responsibility Act of 1982, Pub. L. 97–248, to which such amendment relates, see section 715 of Pub. L. 98–369, set out as a note under section 31 of this title.
 
-Notwithstanding section 715 of Pub. L. 98–369, amendment by section 714(n)(2)(B) of Pub. L. 98–369 applicableonly to applications filed after July 18, 1984, see section 1875(d)(3) of Pub. L. 99–514, set out as a note under section 6611 of this title.
+Notwithstanding section 715 of Pub. L. 98–369, amendment by section 714(n)(2)(B) of Pub. L. 98–369 applicable only to applications filed after July 18, 1984, see section 1875(d)(3) of Pub. L. 99–514, set out as a note under section 6611 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title V, §504(c), Nov. 6, 1978, 92 Stat. 2881, provided that: "The amendments made by this section \[amending this section and sections 6213 and 6501 of this title\] shall apply to tentative refund claims filed on and after the date of the enactment of this Act \[Nov. 6, 1978\]."
+Pub. L. 95–600, title V, §504(c), Nov. 6, 1978, 92 Stat. 2881, provided that: "The amendments made by thissection \[amending this section and sections 6213 and 6501 of this title\] shall apply to tentative refund claims filed on and after the date of the enactment of this Act \[Nov. 6, 1978\]."
 
 #### Effective Date of 1977 Amendment
 

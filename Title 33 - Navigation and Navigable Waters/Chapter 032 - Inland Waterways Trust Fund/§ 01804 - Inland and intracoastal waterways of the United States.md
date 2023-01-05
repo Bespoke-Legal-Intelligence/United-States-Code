@@ -6,7 +6,7 @@ For purposes of section 4042 of title 26 (relating to tax on fuel used in commer
 
 &emsp;(2) Allegheny River: From confluence with the Monongahela River to form the Ohio River at RM 0 to the head of the existing project at East Brady, Pennsylvania, RM 72.
 
-&emsp;(3) Apalachicola-Chattahoochee and Flint Rivers: Apalachicola River from mouth at Apalachicola Bay (intersection with the Gulf Intracoastal Waterway) RM 0 to junction withChattachoochee <sup>2</sup> and Flint Rivers at RM 107.8. Chattachoochee <sup>2</sup> River from junction with Apalachicola and Flint Rivers at RM 0 to Columbus, Georgia, at RM 155 and Flint River, from junction with Apalachicola and Chattahoochee Rivers at RM 0 to Bainbridge, Georgia, at RM 28.
+&emsp;(3) Apalachicola-Chattahoochee and Flint Rivers: Apalachicola River from mouth at Apalachicola Bay (intersection with the Gulf Intracoastal Waterway) RM 0 to junction with Chattachoochee <sup>2</sup> and Flint Rivers at RM 107.8. Chattachoochee <sup>2</sup> River from junction with Apalachicola and Flint Rivers at RM 0 to Columbus, Georgia, at RM 155 and Flint River, from junction with Apalachicola and Chattahoochee Rivers at RM 0 to Bainbridge, Georgia, at RM 28.
 
 &emsp;(4) Arkansas River (McClellan-Kerr Arkansas River Navigation System): From junction with Mississippi River at RM 0 to port of Catoosa, Oklahoma, at RM 448.2.
 

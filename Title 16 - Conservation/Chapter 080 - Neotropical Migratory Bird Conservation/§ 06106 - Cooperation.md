@@ -40,19 +40,17 @@ In carrying out this chapter, the Secretary shall—
 
 &emsp;&emsp;Minutes of each meeting of the advisory group shall be kept by the Secretary and shall be made available to the public.
 
-#### (3) Exemption from Federal Advisory Committee Act
+#### (3) Exemption from chapter 10 of title 5
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
+&emsp;Chapter 10 of title 5 shall not apply to the advisory group.
 
-(Pub. L. 106–247, §7, July 20, 2000, 114 Stat. 595; Pub. L. 109–363, title III, §302(f)(1), Oct. 17, 2006, 120 Stat. 2076.)
+(Pub. L. 106–247, §7, July 20, 2000, 114 Stat. 595; Pub. L. 109–363, title III, §302(f)(1), Oct. 17, 2006, 120 Stat. 2076; Pub. L. 117–286, §4(a)(128), Dec. 27, 2022, 136 Stat. 4319.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3). Pub. L. 117–286 substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2006</b>—Subsec. (b)(1). Pub. L. 109–363 inserted at end "The advisory group as a whole shall have expertise in the methods and procedures set forth in section 6103(2) of this title in each country and region of the Western Hemisphere".
 
@@ -60,7 +58,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 #### Encouragement To Convene
 
-Pub. L. 109–363, title III, §302(f)(2), Oct. 17, 2006, 120 Stat. 2076, provided that: "The Secretary of the Interior is encouraged to convene an advisory group under section 7(b)(1) of such Act \[Pub. L. 106–247, subsec. (b)(1) of this section\] by not later than 6 months after the effective date of this Act \[Oct. 17, 2006\]. This paragraphshall not be considered to authorize delay of the schedule previously established by the United States Fish and Wildlife Service for the submission, judging, and awarding of grants."
+Pub. L. 109–363, title III, §302(f)(2), Oct. 17, 2006, 120 Stat. 2076, provided that: "The Secretary of the Interior is encouraged to convene an advisory group under section 7(b)(1) of such Act \[Pub. L. 106–247, subsec. (b)(1) of this section\] by not later than 6 months after the effective date of this Act \[Oct. 17, 2006\]. This paragraph shall not be considered to authorize delay of the schedule previously established by the United States Fish and Wildlife Service for the submission, judging, and awarding of grants."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

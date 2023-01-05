@@ -40,7 +40,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 #### (1) In general
 
-&emsp;Each recipient shall assure that contributions equal to not less than 33 percent of the grant amounts made available under this section, excluding any amounts provided for post-sale operating expense, shall be provided from non-Federal sources to carry out the homeownership program.
+&emsp;Each recipient shall assure that contributions equal to not less than 33 percent of thegrant amounts made available under this section, excluding any amounts provided for post-sale operating expense, shall be provided from non-Federal sources to carry out the homeownership program.
 
 #### (2) Form
 
@@ -78,7 +78,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(D) a description of the proposed homeownership program, consistent with section 12874 <sup>1</sup> of this title and the other requirements of this part, specifying the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating the program will comply with the affordability requirements under section 12874(b) <sup>1</sup> of this title;
 
-&emsp;&emsp;(E) identification and description of the property involved, and a description of thecomposition of the tenants, including family size and income;
+&emsp;&emsp;(E) identification and description of the property involved, and a description of the composition of the tenants, including family size and income;
 
 &emsp;&emsp;(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of other resources that are expected to be made available in support of the homeownership program;
 
@@ -110,7 +110,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 &emsp;(5) national geographic diversity among housing for which applicants are selected to receive assistance;
 
-&emsp;(6) the extent to which a sufficient supply of affordable rental housing of the type assisted under this title <sup>1</sup> exists in the locality, so that the implementation of the homeownership program will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units; and
+&emsp;(6) the extent to which a sufficient supply of affordable rental housing of the type assisted under this title <sup>1</sup> exists in the locality, so that the implementation of the homeownershipprogram will not appreciably reduce the number of such rental units available to residents currently residing in such units or eligible for residency in such units; and
 
 &emsp;(7) such other factors as the Secretary determines to be appropriate for purposes of carrying out the program established by the <sup>3</sup> part in an effective and efficient manner.
 
@@ -128,11 +128,11 @@ Section 12872 of this title, referred to in subsec. (b)(6), was in the original 
 
 Section 12874 of this title and section 12874(b) of this title, referred to in subsec. (d)(2)(D), were in the original "section 324" and "section 324(b)", respectively, and were translated as reading "section 424" and "section 424(b)", respectively, meaning section 424 of Pub. L. 101–625, to reflect the probable intent of Congress. Section 324 of Pub. L. 101–625, which proposed an amendment to section 1709 of Title 12, never took effect pursuant to section 351 of Pub. L. 101–625. Such section 324 did not contain a subsec. (b).
 
-The Fair Housing Act, referred to in subsec. (d)(2)(M), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+The Fair Housing Act, referred to in subsec. (d)(2)(M), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (d)(2)(M), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(2)(M), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (d)(2)(M), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (d)(2)(M), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
 This title, referred to in subsec. (d)(6), means title IV of Pub. L. 101–625, known as the Homeownership and Opportunity Through HOPE Act, and probably should have been "this subtitle", meaning subtitle B (§§421–431) of title IV of Pub. L. 101–625, which is classified principally to this part. For complete classification of title IV of Pub. L. 101–625 to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
 

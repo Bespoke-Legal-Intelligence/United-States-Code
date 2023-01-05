@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) is not on a foreign voyage.
 
-&emsp;(5) a fish tender vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that—
+&emsp;(5) a fish tender vessel of not more than 500 gross tons as measured under section 14502 ofthis title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that—
 
 &emsp;&emsp;(A)(i) was constructed, under construction, or under contract to be constructed as a fish tender vessel before January 1, 1980; or
 
@@ -152,7 +152,7 @@ Pub. L. 107–295, title IV, §436(b), (c), Nov. 25, 2002, 116 Stat. 2129, provi
 
 "(b)
 
-Implementation.—Except as provided in subsection (c), a fish tender vessel that before January 1,2003, transported cargo (not including fishery related products) in the Aleutian trade is subject to chapter 51 of title 46, United States Code (as amended by subsection (a) of this section \[amending this section\]).
+Implementation.—Except as provided in subsection (c), a fish tender vessel that before January 1, 2003, transported cargo (not including fishery related products) in the Aleutian trade is subject to chapter 51 of title 46, United States Code (as amended by subsection (a) of this section \[amending this section\]).
 
 "(c)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a system meeting the requirements of this section under which residents of each State may apply for enrollment in, receive a determination of eligibility for participation in, and continue participation in, applicable State health subsidy programs. Such system shall ensure that if an individual applying to an Exchange is found through screening to be eligible for medical assistance under the State medicaid plan under title XIX <sup>1</sup> \[42 U.S.C. 1396 et seq.\], or eligible for enrollment under a State children's health insurance program (CHIP) under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], the individual is enrolled for assistance under such plan or program.
+The Secretary shall establish a system meeting the requirements of this section under whichresidents of each State may apply for enrollment in, receive a determination of eligibility for participation in, and continue participation in, applicable State health subsidy programs. Such system shall ensure that if an individual applying to an Exchange is found through screening to be eligible for medical assistance under the State medicaid plan under title XIX <sup>1</sup> \[42 U.S.C. 1396 et seq.\], or eligible for enrollment under a State children's health insurance program (CHIP) under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], the individual is enrolled for assistance under such plan or program.
 
 #### (b) Requirements relating to forms and notice
 
@@ -36,7 +36,7 @@ The Secretary shall establish a system meeting the requirements of this section 
 
 #### (1) Development of secure interfaces
 
-&emsp;Each State shall develop for all applicable State health subsidy programs a secure, electronic interface allowing an exchange of data\(including information contained in the application forms described in subsection (b)) that allows a determination of eligibility for all such programs based on a single application. Such interface shall be compatible with the method established for data verification under section 18081(c)(4) of this title.
+&emsp;Each State shall develop for all applicable State health subsidy programs a secure, electronic interface allowing an exchange of data (including information contained in the application forms described in subsection (b)) that allows a determination of eligibility for all such programs based on a single application. Such interface shall be compatible with the method established for data verification under section 18081(c)(4) of this title.
 
 #### (2) Data matching program
 
@@ -72,7 +72,7 @@ The Secretary shall establish a system meeting the requirements of this section 
 
 #### (4) Secretarial standards
 
-&emsp;The Secretary shall, after consultation with persons in possession of the data to be matched and representatives of applicable State health subsidy programs, promulgate standards governing the timing, contents, and procedures for data matching described in this subsection. Such standards shall take into account administrative and other costs and the value of data matching to the establishment, verification, and updating of eligibility for applicable State health subsidy programs.
+&emsp;The Secretary shall, after consultation with persons in possession of the data to be matched and representatives of applicable State health subsidy programs, promulgate standards governing the timing, contents, and procedures for data matching described in this subsection. Such standards shall take into account administrative and other costs and thevalue of data matching to the establishment, verification, and updating of eligibility for applicable State health subsidy programs.
 
 #### (d) Administrative authority
 

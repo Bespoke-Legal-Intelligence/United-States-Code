@@ -18,7 +18,7 @@ Not later than 1 year after January 6, 2017, the Director of the Foundation shal
 
 #### References in Text
 
-The Intergovernmental Personnel Act of 1970, referred to in subsecs. (a) and (b), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which is classified principally to chapter 62 (§4701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.
+The Intergovernmental Personnel Act of 1970, referred to in subsecs. (a) and (b), is Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which is classified principally tochapter 62 (§4701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of this title and Tables.
 
 #### Codification
 

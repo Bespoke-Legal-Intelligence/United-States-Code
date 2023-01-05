@@ -24,7 +24,7 @@ Any payment made to the United States by the Bank as a distribution of net incom
 
 #### Codification
 
-Subsecs. (a) to (c) were in the original (A) to (C), respectively, and pars. (1) and (2) of subsec. (a) were in the original (i) and (ii), respectively, and were editorially redesignated for purposes of codification.
+Subsecs. (a) to (c) were in the original (A) to (C), respectively, and pars. (1) and (2) of subsec. (a) were inthe original (i) and (ii), respectively, and were editorially redesignated for purposes of codification.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

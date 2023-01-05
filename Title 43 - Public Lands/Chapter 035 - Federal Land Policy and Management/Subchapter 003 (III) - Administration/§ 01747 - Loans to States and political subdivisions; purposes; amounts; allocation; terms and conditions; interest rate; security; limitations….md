@@ -20,7 +20,7 @@
 
 (10) No person in the United States shall, on the grounds of race, color, religion, national origin, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity funded in whole or part with funds made available under this section.
 
-(11) All amounts collected in connection with loans made pursuant to this section, including interest payments or repayments of principal on loans, fees, and other moneys, derived in connection with this section, shall be deposited in the Treasury as miscellaneous receipts.
+(11) All amounts collected in connection with loans made pursuant to this section, including interest payments or repayments of principal onloans, fees, and other moneys, derived in connection with this section, shall be deposited in the Treasury as miscellaneous receipts.
 
 (Pub. L. 94–579, title III, §317(c), Oct. 21, 1976, 90 Stat. 2771; Pub. L. 95–352, §1(f), Aug. 20, 1978, 92 Stat. 515.)
 
@@ -28,7 +28,7 @@
 
 #### References in Text
 
-Act of February 25, 1920, as amended, referred to in par. (1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
+Act of February 25, 1920, as amended, referred to in par. (1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.
 
 #### Codification
 

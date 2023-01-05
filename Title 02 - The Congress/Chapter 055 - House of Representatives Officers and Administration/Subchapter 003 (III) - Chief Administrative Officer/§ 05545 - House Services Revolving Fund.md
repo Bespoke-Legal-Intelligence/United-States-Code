@@ -18,9 +18,13 @@ There is hereby established in the Treasury of the United States a revolving fun
 
 &emsp;(7) The collection of a service fee from vendors of the Master Web Services Agreement or the Technology Services Contract for failure to abide by and maintain House of Representatives security policies.
 
+&emsp;(8) The operation of the House Dry Cleaning and Laundry Service.
+
+&emsp;(9) Other activities related to the operation of services offered by the House of Representatives, as approved by the Committee on Appropriations of the House of Representatives.
+
 #### (b) Use of amounts in Fund
 
-Amounts in the Revolving Funds <sup>2</sup> shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer's jurisdiction, which is approved by the Committee on Appropriations of the House of Representatives.
+Amounts in the Revolving Funds <sup>2</sup> shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer's jurisdiction, upon notification provided by the Chief Administrative Officer to the Committee on Appropriations of the House of Representatives.
 
 #### (c) Transfer authority
 
@@ -48,7 +52,7 @@ house beauty shop" in the matter relating to administrative provisions for the H
 
 This section shall take effect October 1, 2004, and shall apply with respect to fiscal year 2005 and each succeeding fiscal year.
 
-(Pub. L. 108–447, div. G, title I, §105, Dec. 8, 2004, 118 Stat. 3175; Pub. L. 109–13, div. A, title III, §3401(b), May 11, 2005, 119 Stat. 272; Pub. L. 110–161, div. H, title I, §104(a), Dec. 26, 2007, 121 Stat. 2225; Pub. L. 111–8, div. G, title I, §102(b), Mar. 11, 2009, 123 Stat. 817; Pub. L. 115–141, div. I, title I, §118(a), Mar. 23, 2018, 132 Stat. 777.)
+(Pub. L. 108–447, div. G, title I, §105, Dec. 8, 2004, 118 Stat. 3175; Pub. L. 109–13, div. A, title III, §3401(b), May 11, 2005, 119 Stat. 272; Pub. L. 110–161, div. H, title I, §104(a), Dec. 26, 2007, 121 Stat. 2225; Pub. L. 111–8, div. G, title I, §102(b), Mar. 11, 2009, 123 Stat. 817; Pub. L. 115–141, div. I, title I, §118(a), Mar. 23, 2018, 132 Stat. 777; Pub. L. 117–328, div. I, title I, §115(a), (b), Dec. 29, 2022, 136 Stat. 4923.)
 
 #### <b>Editorial Notes</b>
 
@@ -66,6 +70,10 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(8), (9). Pub. L. 117–328, §115(a), added pars. (8) and (9).
+
+Subsec. (b). Pub. L. 117–328, §115(b), substituted "upon notification provided by the Chief Administrative Officer to" for "which is approved by".
+
 <b>2018</b>—Subsec. (a)(7). Pub. L. 115–141 added par. (7).
 
 <b>2009</b>—Subsec. (a)(6). Pub. L. 111–8 added par. (6).
@@ -75,6 +83,10 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 <b>2005</b>—Subsec. (a)(5). Pub. L. 109–13 added par. (5).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. I, title I, §115(c), Dec. 29, 2022, 136 Stat. 4923, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2023 and each succeeding fiscal year."
 
 #### Effective Date of 2018 Amendment
 
@@ -86,7 +98,7 @@ Pub. L. 111–8, div. G, title I, §102(c), Mar. 11, 2009, 123 Stat. 817, provid
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–161, div. H, title I, §104(b), Dec. 26, 2007, 121 Stat. 2225, provided that: "The amendments made bythis section \[amending this section\] shall apply with respect to fiscal year 2008 and each succeeding fiscal year."
+Pub. L. 110–161, div. H, title I, §104(b), Dec. 26, 2007, 121 Stat. 2225, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 2008 and each succeeding fiscal year."
 
 #### Effective Date of 2005 Amendment
 

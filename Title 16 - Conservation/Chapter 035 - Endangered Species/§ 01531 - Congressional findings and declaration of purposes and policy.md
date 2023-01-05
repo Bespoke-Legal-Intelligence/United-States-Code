@@ -80,13 +80,13 @@ Pub. L. 115–334, title II, §2407, Dec. 20, 2018, 132 Stat. 4573, provided tha
 
 In General.—The Secretary \[of Agriculture\] and the Secretary of the Interior shall continue to carry out the Working Lands for Wildlife model of conservation on working landscapes, as implemented on the day before the date of enactment of this Act \[Dec. 20, 2018\], in accordance with—
 
-&emsp;"(1) the document entitled 'Partnership Agreement Between the United States Department of Agriculture Natural Resources Conservation Service andthe United States Department of the Interior Fish and Wildlife Service', numbered A–3A7516–937, and formalized by the Chief of the Natural Resources Conservation Service on September 15, 2016, and by the Director of the United States Fish and Wildlife Service on August 4, 2016, as in effect on September 15, 2016; and
+&emsp;"(1) the document entitled 'Partnership Agreement Between the United States Department of Agriculture Natural Resources Conservation Service and the United States Department of the Interior Fish and Wildlife Service', numbered A–3A7516–937, and formalized by the Chief of the Natural Resources Conservation Service on September 15, 2016, and by the Director of the United States Fish and Wildlife Service on August 4, 2016, as in effect on September 15, 2016; and
 
 &emsp;"(2) United States Fish and Wildlife Service Director's Order No. 217, dated August 9, 2016, as in effect on August 9, 2016.
 
 "(b)
 
-Expansion of Model.—The Secretary and the Secretary of the Interior may expand the conservation model described in subsection (a) through a new partnership agreement between the Farm Service Agency and the United States Fish and Wildlife Service for the purpose of carrying out conservation activities for species conservation.
+Expansion of Model.—The Secretary and the Secretary of the Interior may expand the conservationmodel described in subsection (a) through a new partnership agreement between the Farm Service Agency and the United States Fish and Wildlife Service for the purpose of carrying out conservation activities for species conservation.
 
 "(c)
 
@@ -178,7 +178,7 @@ Sec. 4. <i>Functions</i>. Consistent with the authorities and responsibilities o
 
 (b) not later than 90 days from the date of this order, review the Strategy to Combat Transnational Organized Crime of July 19, 2011, and, if appropriate, make recommendations regarding the inclusion of crime related to wildlife trafficking as an implementation element for the Federal Government's transnational organized crime strategy;
 
-(c) coordinate efforts among and consult with agencies, as appropriate and consistent with the Department of State's foreign affairs role, regarding work with foreign nations and international bodies that monitor and aid in enforcement against crime related to wildlife trafficking; and
+(c) coordinate efforts among and consult with agencies, as appropriate and consistent with the Department of State's foreign affairs role, regarding workwith foreign nations and international bodies that monitor and aid in enforcement against crime related to wildlife trafficking; and
 
 (d) carry out other functions necessary to implement this order.
 
@@ -194,7 +194,7 @@ Sec. 6. <i>General Provisions</i>. (a) This order shall be implemented consisten
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(d) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the "Act"), may apply to the Advisory Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
+(d) Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] (the "Act"), may apply to the Advisory Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
 
 (e) The Department of the Interior shall provide funding and administrative support for the Task Force and Advisory Council to the extent permitted by law and consistent with existing appropriations.
 
@@ -204,5 +204,5 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Advisory Council on Wildlife Trafficking
 
-Term of Advisory Council on Wildlife Trafficking extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Council on Wildlife Trafficking extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 

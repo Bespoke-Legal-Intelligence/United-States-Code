@@ -62,7 +62,7 @@ This section shall not be construed to require any State to participate in the p
 
 &emsp;&emsp;(B) how the participation of chiropractic doctors and pharmacists in the Loan Repayment Program might affect the designation of health professional shortage areas; and
 
-&emsp;&emsp;(C) whether adding chiropractic doctors and pharmacists as permanent members of the National Health Service Corps would befeasible and would enhance the effectiveness of the National Health Service Corps.
+&emsp;&emsp;(C) whether adding chiropractic doctors and pharmacists as permanent members of the National Health Service Corps would be feasible and would enhance the effectiveness of the National Health Service Corps.
 
 #### (g) Authorization of appropriations
 

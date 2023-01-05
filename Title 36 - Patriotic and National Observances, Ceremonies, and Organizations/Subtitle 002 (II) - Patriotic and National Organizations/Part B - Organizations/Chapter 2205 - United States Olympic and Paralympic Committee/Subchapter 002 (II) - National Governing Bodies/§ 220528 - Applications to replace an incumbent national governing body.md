@@ -136,7 +136,7 @@ Subsec. (c)(1)(B). Pub. L. 116–189, §4(a)(10)(B), which directed the general 
 
 Subsec. (c)(2). Pub. L. 105–277, §142(p)(2), (3), substituted "certified" for "registered" and substituted "body and with any other organization that has filed an application." for "body."
 
-Subsec. (d). Pub. L. 105–277, §142(p)(4), (5), inserted "open to the public" after "formal hearing" and inserted after second sentence "The corporation also shall send written notice, including a copy of the application, at least 30 days prior to the date of the hearing to all amateur sports organizations known to the corporation in that sport."
+Subsec. (d). Pub. L. 105–277, §142(p)(4), (5), inserted "open to the public" after "formal hearing" and inserted after second sentence "The corporation alsoshall send written notice, including a copy of the application, at least 30 days prior to the date of the hearing to all amateur sports organizations known to the corporation in that sport."
 
 Subsec. (f)(4). Pub. L. 105–277, §142(p)(6), substituted "title and notify such national governing body of such probation and of the actions needed to comply with such requirements." for "title."
 

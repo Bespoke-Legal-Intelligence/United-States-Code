@@ -14,7 +14,7 @@ The Act of March first, nineteen hundred and eleven, referred to in text, is act
 
 #### Transfer of Functions
 
-Functions of Secretary of Agriculture with respect to uses of mineral deposits under this section transferred to Secretary of the Interior by section 402 of Reorg. Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees, which provided that mineral development on such lands shall be authorized by Secretary of the Interior only when he is advised by Secretary of Agriculture that such development will not interfere with purposes for which land was acquired and only in accordance with such conditions as may be specified by Secretary of Agriculture in order to protect such purposes.
+Functions of Secretary of Agriculture with respect to uses of mineral deposits under this section transferred to Secretary of the Interior by section 402 of Reorg.Plan No. 3 of 1946, set out in the Appendix to Title 5, Government Organization and Employees, which provided that mineral development on such lands shall be authorized by Secretary of the Interior only when he is advised by Secretary of Agriculture that such development will not interfere with purposes for which land was acquired and only in accordance with such conditions as may be specified by Secretary of Agriculture in order to protect such purposes.
 
 For provisions concerning crediting and distribution of revenues and access to title records, see text of Reorg. Plan No. 3 of 1946.
 

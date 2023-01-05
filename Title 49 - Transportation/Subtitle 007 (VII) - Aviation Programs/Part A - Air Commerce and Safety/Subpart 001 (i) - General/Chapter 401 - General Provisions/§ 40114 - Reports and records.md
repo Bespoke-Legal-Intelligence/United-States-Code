@@ -8,7 +8,7 @@ Written Reports.—(1) Except as provided in this part, the Secretary of Transpo
 
 (b)
 
-Public Records.—Except as provided in subpart II of this part, copies of tariffs and arrangements filed with the Secretary under subpart II, and the statistics, tables, and figures contained in reports made to the Secretary under subpart II, are public records. The Secretary is the custodian of those records. A public record, or a copy or extract of it, certified by the Secretary under the seal of the Departmentof Transportation is competent evidence in an investigation by the Secretary and in a judicial proceeding.
+Public Records.—Except as provided in subpart II of this part, copies of tariffs and arrangements filed with the Secretary under subpart II, and the statistics, tables, and figures contained in reports made to the Secretary under subpart II, are public records. The Secretary is the custodian of those records. A public record, or a copy or extract of it, certified by the Secretary under the seal of the Department of Transportation is competent evidence in an investigation by the Secretary and in a judicial proceeding.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1110.)
 
@@ -68,7 +68,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 49 App.:1551(b)(1)(E).
 
-In subsection (a), the word "Administrator" in section 313(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 753) is retained on authority of 49:106(g).
+In subsection (a), the word "Administrator" in section 313(b) of the Federal Aviation Act of 1958 (PublicLaw 85–726, 72 Stat. 753) is retained on authority of 49:106(g).
 
 In subsection (a)(1), the words "otherwise", "requirement in the premises", and "shall be entered of record" are omitted as surplus.
 

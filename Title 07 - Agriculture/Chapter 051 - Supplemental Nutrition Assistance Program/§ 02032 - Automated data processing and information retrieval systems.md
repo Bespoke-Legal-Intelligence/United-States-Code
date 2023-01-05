@@ -50,7 +50,7 @@
 
 Not later than October 1, 1993, the Secretary shall report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the extent to which State agencies have developed and are operating effective systems that support supplemental nutrition assistance program delivery in compliance with this chapter and regulations issued under this chapter.
 
-(Pub. L. 88–525, §23, as added Pub. L. 101–624, title XVII, §1763(a), Nov. 28, 1990, 104 Stat. 3805;amended Pub. L. 110–234, title IV, §4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(b), June 18, 2008, 122 Stat. 1664, 1853.)
+(Pub. L. 88–525, §23, as added Pub. L. 101–624, title XVII, §1763(a), Nov. 28, 1990, 104 Stat. 3805; amended Pub. L. 110–234, title IV, §4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(b), June 18, 2008, 122 Stat. 1664, 1853.)
 
 #### <b>Editorial Notes</b>
 

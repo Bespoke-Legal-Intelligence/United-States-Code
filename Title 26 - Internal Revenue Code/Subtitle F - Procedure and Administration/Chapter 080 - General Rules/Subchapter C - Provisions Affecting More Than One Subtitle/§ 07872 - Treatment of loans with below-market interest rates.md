@@ -330,7 +330,7 @@ For purposes of this section—
 
 &emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—
 
-&emsp;&emsp;(A) regulations providing that where, by reason of varying rates of interest, conditional interest payments, waivers of interest, disposition of the lender's or borrower'sinterest in the loan, or other circumstances, the provisions of this section do not carry out the purposes of this section, adjustments to the provisions of this section will be made to the extent necessary to carry out the purposes of this section,
+&emsp;&emsp;(A) regulations providing that where, by reason of varying rates of interest, conditional interest payments, waivers of interest, disposition of the lender's or borrower's interest in the loan, or other circumstances, the provisions of this section do not carry out the purposes of this section, adjustments to the provisions of this section will be made to the extent necessary to carry out the purposes of this section,
 
 &emsp;&emsp;(B) regulations for the purpose of assuring that the positions of the borrower and lender are consistent as to the application (or nonapplication) of this section, and
 
@@ -422,7 +422,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 Pub. L. 109–432, div. A, title IV, §425(b), Dec. 20, 2006, 120 Stat. 2974, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 209 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\]."
 
-Amendment by Pub. L. 109–222 applicable to calendar years beginning after Dec. 31, 2005, with respect toloans made before, on, or after such date, see section 209(c) of Pub. L. 109–222, set out as a note under section 142 of this title.
+Amendment by Pub. L. 109–222 applicable to calendar years beginning after Dec. 31, 2005, with respect to loans made before, on, or after such date, see section 209(c) of Pub. L. 109–222, set out as a note under section 142 of this title.
 
 #### Effective Date of 1997 Amendment
 

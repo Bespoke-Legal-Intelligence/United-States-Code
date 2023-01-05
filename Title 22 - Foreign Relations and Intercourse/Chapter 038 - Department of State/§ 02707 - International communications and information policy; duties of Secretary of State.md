@@ -36,7 +36,7 @@ Subsec. (b)(1). Pub. L. 103–236, §162(k)(1)(B)(iv), added par. (1). Former pa
 
 Subsec. (b)(2). Pub. L. 103–236, §162(k)(1)(B)(ii), (iii), (v), redesignated par. (1) as (2), struck out "with the bureaus and offices of the Department of State and" after "continuing liaison", inserted "and with the Federal Communications Commission, as appropriate" before semicolon, and struck out former par. (2) which read as follows: "in accordance with such authority as may be delegated by the President pursuant to Executive order, chair such agency and interagency meetings as may be necessary to coordinate actions on pending issues to ensure proper policy coordination;".
 
-Subsec. (b)(3). Pub. L. 103–236, §162(k)(1)(B)(vi), substituted "any senior interagency policymaking groupon international telecommunications and information policy and chair such interagency meetings as may be necessary to coordinate actions on pending issues;" for "the Senior Interagency Group on International Communications and Information Policy".
+Subsec. (b)(3). Pub. L. 103–236, §162(k)(1)(B)(vi), substituted "any senior interagency policymaking group on international telecommunications and information policy and chair such interagency meetings as may be necessary to coordinate actions on pending issues;" for "the Senior Interagency Group on International Communications and Information Policy".
 
 <b>1987</b>—Subsec. (b). Pub. L. 100–204 inserted after second sentence "The Coordinator shall be compensated at the annual rate of pay for positions authorized by section 5315 of title 5."
 

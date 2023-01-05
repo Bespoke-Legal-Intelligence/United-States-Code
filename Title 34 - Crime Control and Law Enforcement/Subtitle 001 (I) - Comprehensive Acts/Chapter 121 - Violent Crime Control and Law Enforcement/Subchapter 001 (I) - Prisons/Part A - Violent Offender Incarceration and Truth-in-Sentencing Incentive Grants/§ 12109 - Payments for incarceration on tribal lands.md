@@ -54,7 +54,7 @@ Not later than 1 year after July 29, 2010, the Attorney General, in coordination
 
 &emsp;(2) an assessment and consideration of the construction of Federal detention facilities in Indian country; and
 
-&emsp;(3) any other alternatives as the Attorney General, in coordination with the Bureau ofIndian Affairs and in consultation with Indian tribes, determines to be necessary.
+&emsp;(3) any other alternatives as the Attorney General, in coordination with the Bureau of Indian Affairs and in consultation with Indian tribes, determines to be necessary.
 
 (Pub. L. 103–322, title II, §20109, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–20; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; amended Pub. L. 111–211, title II, §244, July 29, 2010, 124 Stat. 2294.)
 

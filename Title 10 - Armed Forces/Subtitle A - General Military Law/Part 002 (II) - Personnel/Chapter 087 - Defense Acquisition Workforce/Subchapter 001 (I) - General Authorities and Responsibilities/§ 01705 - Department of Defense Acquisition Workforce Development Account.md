@@ -192,7 +192,7 @@ Subsec. (d)(2)(B). Pub. L. 111–84, §832(d)(1), (2)(A), substituted "Subject t
 
 Pub. L. 111–84, §832(c), inserted ", from amounts available to such military department or Defense Agency, as the case may be, for contract services for operation and maintenance," after "remit to the Secretary of Defense".
 
-Subsec. (d)(2)(C), (D). Pub. L. 111–84, §832(e), added subpars. (C) and (D) and struck out former subpars. (C) and (D), which established applicable percentages forfiscal years 2008 to 2010 and thereafter and authorized the Secretary of Defense to reduce such percentages under certain circumstances and to a certain limit.
+Subsec. (d)(2)(C), (D). Pub. L. 111–84, §832(e), added subpars. (C) and (D) and struck out former subpars. (C) and (D), which established applicable percentages for fiscal years 2008 to 2010 and thereafter and authorized the Secretary of Defense to reduce such percentages under certain circumstances and to a certain limit.
 
 Subsec. (d)(3). Pub. L. 111–84, §832(a)(2), added par. (3).
 
@@ -248,7 +248,7 @@ Pub. L. 110–181, div. A, title VIII, §852(b), Jan. 28, 2008, 122 Stat. 250, p
 
 #### Guidance
 
-Pub. L. 115–91, div. A, title VIII, §843(a)(2), Dec. 12, 2017, 131 Stat. 1480, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Secretary of Defense shall issue, and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the policy guidance required by subparagraph (E) of section 1705(e)(3) of title 10, United States Code, as added by paragraph (1)."
+Pub. L. 115–91, div. A, title VIII, §843(a)(2), Dec. 12, 2017, 131 Stat. 1480, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec.12, 2017\], the Secretary of Defense shall issue, and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the policy guidance required by subparagraph (E) of section 1705(e)(3) of title 10, United States Code, as added by paragraph (1)."
 
 #### Plan Required for Temporary Members of Defense Acquisition Workforce
 

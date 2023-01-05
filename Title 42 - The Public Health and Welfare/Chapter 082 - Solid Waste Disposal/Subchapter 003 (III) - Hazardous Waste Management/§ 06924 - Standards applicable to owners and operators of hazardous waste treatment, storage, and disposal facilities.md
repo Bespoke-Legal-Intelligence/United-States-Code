@@ -54,7 +54,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 &emsp;(B) placement in such owner or operator's landfill will not present a risk of contamination of any underground source of drinking water.
 
-> As used in subparagraph (B), the term "underground source of drinking water" has the same meaning as provided in regulations under the Safe Drinking Water Act (title XIV of the Public Health Service Act) \[42 U.S.C. 300f et seq.\].
+> As used in subparagraph (B), the term "underground source of drinking water" has the samemeaning as provided in regulations under the Safe Drinking Water Act (title XIV of the Public Health Service Act) \[42 U.S.C. 300f et seq.\].
 
 (4) No determination made by the Administrator under subsection (d), (e), or (g) of this section regarding any hazardous waste to which such subsection (d), (e), or (g) applies shall affect the prohibition contained in paragraph (1) of this subsection.
 
@@ -156,7 +156,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 > The prohibition contained in this subparagraph shall continue to apply until the Administrator promulgates regulations or makes a determination under paragraph (5) for the waste concerned.
 
-(B) If the Administrator fails (by the date 55 months after November 8, 1984) to promulgate regulations or make a determination under paragraph (5) for any hazardous waste which is included in the first two-thirds of the schedule published under this subsection, such hazardous waste may be disposed of in a landfill or surface impoundment only if—
+(B) If the Administrator fails (by the date 55 months after November 8, 1984) to promulgateregulations or make a determination under paragraph (5) for any hazardous waste which is included in the first two-thirds of the schedule published under this subsection, such hazardous waste may be disposed of in a landfill or surface impoundment only if—
 
 &emsp;(i) such facility is in compliance with the requirements of subsection (o) which are applicable to new facilities (relating to minimum technological requirements); and
 
@@ -174,7 +174,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (8) Solid waste that otherwise qualifies under paragraph (7) shall nevertheless be required to meet any applicable specific methods of treatment specified for such waste by the Administrator under subsection (m), including those specified in the rule promulgated by the Administrator June 1, 1990, prior to management in a land-based unit as part of a treatment system specified in paragraph (7)(A). No solid waste may qualify under paragraph (7) that would generate toxic gases, vapors, or fumes due to the presence of cyanide when exposed to pH conditions between 2.0 and 12.5.
 
-(9) Solid waste identified as hazardous based on one or more characteristics alone shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f), or any requirement promulgated under subsection (m) if thewaste no longer exhibits a hazardous characteristic at the point of injection in any Class I injection well permitted under section 300h–1 of this title.
+(9) Solid waste identified as hazardous based on one or more characteristics alone shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f), or any requirement promulgated under subsection (m) if the waste no longer exhibits a hazardous characteristic at the point of injection in any Class I injection well permitted under section 300h–1 of this title.
 
 (10) Not later than five years after March 26, 1996, the Administrator shall complete a study of hazardous waste managed pursuant to paragraph (7) or (9) to characterize the risks to human health or the environment associated with such management. In conducting this study, the Administrator shall evaluate the extent to which risks are adequately addressed under existing State or Federal programs and whether unaddressed risks could be better addressed under such laws or programs. Upon receipt of additional information or upon completion of such study and as necessary to protect human health and the environment, the Administrator may impose additional requirements under existing Federal laws, including subsection (m)(1), or rely on other State or Federal programs or authorities to address such risks. In promulgating any treatment standards pursuant to subsection (m)(1) under the previous sentence, the Administrator shall take into account the extent to which treatment is occurring in land-based units as part of a treatment system specified in paragraph (7)(A).
 
@@ -188,7 +188,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (3) The Administrator, after notice and opportunity for comment and after consultation with appropriate State agencies in all affected States, may on a case-by-case basis grant an extension of the effective date which would otherwise apply under subsection (d), (e), (f), or (g) or under paragraph (2) for up to one year, where the applicant demonstrates that there is a binding contractual commitment to construct or otherwise provide such alternative capacity but due to circumstances beyond the control of such applicant such alternative capacity cannot reasonably be made available by such effective date. Such extension shall be renewable once for no more than one additional year.
 
-(4) Whenever another effective date (hereinafter referred to as a "variance") is established under paragraph (2), or an extension is granted under paragraph (3), with respect to any hazardous waste, during the period for which such variance or extension is in effect, such hazardous waste may be disposed of in a landfill or surface impoundment only if such facility is in compliance with the requirements of subsection (o).
+(4) Whenever another effective date (hereinafter referred to as a "variance") is established under paragraph (2), or an extension is grantedunder paragraph (3), with respect to any hazardous waste, during the period for which such variance or extension is in effect, such hazardous waste may be disposed of in a landfill or surface impoundment only if such facility is in compliance with the requirements of subsection (o).
 
 #### (i) Publication of determination
 
@@ -210,7 +210,7 @@ The use of waste or used oil or other material, which is contaminated or mixed w
 
 (1) Simultaneously with the promulgation of regulations under subsection (d), (e), (f), or (g) prohibiting one or more methods of land disposal of a particular hazardous waste, and as appropriate thereafter, the Administrator shall, after notice and an opportunity for hearings and after consultation with appropriate Federal and State agencies, promulgate regulations specifying those levels or methods of treatment, if any, which substantially diminish the toxicity of the waste or substantially reduce the likelihood of migration of hazardous constituents from the waste so that short-term and long-term threats to human health and the environment are minimized.
 
-(2) If such hazardous waste has been treated to the level or by a method specified in regulations promulgated under this subsection, such waste or residue thereof shall not be subject to any prohibition promulgated under subsection (d), (e), (f), or (g) and may be disposed of in a land disposal facility which meets the requirements of this subchapter. Any regulation promulgatedunder this subsection for a particular hazardous waste shall become effective on the same date as any applicable prohibition promulgated under subsection (d), (e), (f), or (g).
+(2) If such hazardous waste has been treated to the level or by a method specified in regulations promulgated under this subsection, such waste or residue thereof shall not be subject to any prohibition promulgated under subsection (d), (e), (f), or (g) and may be disposed of in a land disposal facility which meets the requirements of this subchapter. Any regulation promulgated under this subsection for a particular hazardous waste shall become effective on the same date as any applicable prohibition promulgated under subsection (d), (e), (f), or (g).
 
 #### (n) Air emissions
 
@@ -284,7 +284,7 @@ The standards under this section concerning ground water monitoring which are ap
 
 > as may be necessary to protect human health and the environment. Such standards may include any of the requirements set forth in paragraphs (1) through (7) of subsection (a) as may be appropriate. Nothing in this subsection shall be construed to affect or impair the provisions of section 6921(b)(3) of this title. For purposes of this subsection, the term "hazardous waste listed under section 6921 of this title" includes any commercial chemical product which is listed under section 6921 of this title and which, in lieu of its original intended use, is (i) produced for use as (or as a component of) a fuel, (ii) distributed for use as a fuel, or (iii) burned as a fuel.
 
-(2)(A) This subsection, subsection (r), and subsection (s) shall not apply to petroleum refinery wastes containing oil which are converted into petroleum coke at the same facility at which such wastes were generated, unless the resulting coke product would exceed one or more characteristics by which a substance would be identified as a hazardous waste under section 6921 of this title.
+(2)(A) This subsection, subsection (r), and subsection (s) shall not apply to petroleum refinery wastes containing oil which are converted into petroleum coke at the same facility at which such wastes were generated, unless the resultingcoke product would exceed one or more characteristics by which a substance would be identified as a hazardous waste under section 6921 of this title.
 
 (B) The Administrator may exempt from the requirements of this subsection, subsection (r), or subsection (s) facilities which burn de minimis quantities of hazardous waste as fuel, as defined by the Administrator, if the wastes are burned at the same facility at which such wastes are generated; the waste is burned to recover useful energy, as determined by the Administrator on the basis of the design and operating characteristics of the facility and the heating value and other characteristics of the waste; and the waste is burned in a type of device determined by the Administrator to be designed and operated at a destruction and removal efficiency sufficient such that protection of human health and environment is assured.
 
@@ -308,7 +308,7 @@ The standards under this section concerning ground water monitoring which are ap
 
 &emsp;(B) contaminants are removed; and
 
-&emsp;(C) such refining waste containing oil is converted along with normal process streams intopetroleum-derived fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard Industrial Classification Manual.
+&emsp;(C) such refining waste containing oil is converted along with normal process streams into petroleum-derived fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard Industrial Classification Manual.
 
 (3) Unless the Administrator determines otherwise as may be necessary to protect human health and the environment, this subsection shall not apply to fuels produced from oily materials, resulting from normal petroleum refining, production and transportation practices, if (A) contaminants are removed; and (B) such oily materials are converted along with normal process streams into petroleum-derived fuel products at a facility at which crude oil is refined into petroleum products and which is classified as a number SIC 2911 facility under the Office of Management and Budget Standard Industrial Classification Manual.
 
@@ -322,7 +322,7 @@ Not later than fifteen months after November 8, 1984, the Administrator shall pr
 
 (2) In any case where the owner or operator is in bankruptcy, reorganization, or arrangement pursuant to the Federal Bankruptcy Code or where (with reasonable diligence) jurisdiction in any State court or any Federal Court cannot be obtained over an owner or operator likely to be solvent at the time of judgment, any claim arising from conduct for which evidence of financial responsibility must be provided under this section may be asserted directly against the guarantor providing such evidence of financial responsibility. In the case of any action pursuant to this subsection, such guarantor shall be entitled to invoke all rights and defenses which would have been available to the owner or operator if any action had been brought against the owner or operator by the claimant and which would have been available to the guarantor if an action had been brought against the guarantor by the owner or operator.
 
-(3) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financial responsibility to the owner or operator under this chapter. Nothing in this subsection shall be construed to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
+(3) The total liability of any guarantor shall be limited to the aggregate amount which the guarantor has provided as evidence of financial responsibility to the owner or operator under this chapter. Nothing in this subsection shall beconstrued to limit any other State or Federal statutory, contractual or common law liability of a guarantor to its owner or operator including, but not limited to, the liability of such guarantor for bad faith either in negotiating or in failing to negotiate the settlement of any claim. Nothing in this subsection shall be construed to diminish the liability of any person under section 9607 or 9611 of this title or other applicable law.
 
 (4) For the purpose of this subsection, the term "guarantor" means any person, other than the owner or operator, who provides evidence of financial responsibility for an owner or operator under this section.
 
@@ -362,11 +362,11 @@ If (1) solid waste from the extraction, beneficiation or processing of ores and 
 
 Section 6922(5) of this title, referred to in subsec. (a)(2), was redesignated section 6922(a)(5) of this title, by Pub. L. 98–616, title II, §224(a)(1), Nov. 8, 1984, 98 Stat. 3253.
 
-The Safe Drinking Water Act, referred to in subsec. (c)(3), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under section 201 of this title and Tables.
+The Safe Drinking Water Act, referred to in subsec. (c)(3), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under section 201 of this title and Tables.
 
 Section 6979a of this title, referred to in subsec. (f)(4), was in the original a reference to section 7010 of Pub. L. 89–272, which was renumbered section 3020 of Pub. L. 89–272 by Pub. L. 99–339, title II, §201(c), June 19, 1986, 100 Stat. 654, and transferred to section 6939b of this title.
 
-The Paperwork Reduction Act of 1980, referred to in subsec. (g)(3), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (g)(3), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of Title 44 and Tables.
 
 The Federal Bankruptcy Code, referred to in subsec. (t)(2), probably means a reference to Title 11, Bankruptcy.
 

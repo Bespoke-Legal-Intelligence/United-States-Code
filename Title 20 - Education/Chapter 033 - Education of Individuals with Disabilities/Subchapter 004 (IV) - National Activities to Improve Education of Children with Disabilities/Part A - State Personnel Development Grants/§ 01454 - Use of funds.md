@@ -104,7 +104,7 @@ A State educational agency that receives a grant under this part shall use the g
 
 &emsp;(5) Reforming tenure systems, implementing teacher testing for subject matter knowledge, and implementing teacher testing for State certification or licensing, consistent with title II of the Higher Education Act of 1965 \[20 U.S.C. 1021 et seq.\].
 
-&emsp;(6) Funding projects to promote reciprocity of teacher certification or licensing betweenor among States for special education teachers, except that no reciprocity agreement developed under this paragraph or developed using funds provided under this part may lead to the weakening of any State teaching certification or licensing requirement.
+&emsp;(6) Funding projects to promote reciprocity of teacher certification or licensing between or among States for special education teachers, except that no reciprocity agreement developed under this paragraph or developed using funds provided under this part may lead to the weakening of any State teaching certification or licensing requirement.
 
 &emsp;(7) Assisting local educational agencies to serve children with disabilities through the development and use of proven, innovative strategies to deliver intensive professional development programs that are both cost effective and easily accessible, such as strategies that involve delivery through the use of technology, peer networks, and distance learning.
 
@@ -142,11 +142,11 @@ Public Law 95–134, permitting the consolidation of grants to the outlying area
 
 Section 7801 of this title, referred to in subsec. (a)(1)(B), was in the original "section 8101 of such Act", which was translated as meaning section 8101 of the Elementary and Secondary Education Act of 1965, to reflect the probable intent of Congress.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title II of the Act is classified generally to subchapter II (§1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Section 6613(c)(18) of this title (as such section was in effect on the day before December 10, 2015), referred to in subsec. (b)(10), means section 6613(c)(18) of this title prior to repeal by Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1913. Section 2002 of Pub. L. 114–95 enacted a new section 6613 of this title.
 
-Public Law 95–134, referred to in subsec. (e), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants to the outlying areas are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
+Public Law 95–134, referred to in subsec. (e), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159. Provisions relating to consolidation of grants to the outlying areas are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
 
 #### Prior Provisions
 

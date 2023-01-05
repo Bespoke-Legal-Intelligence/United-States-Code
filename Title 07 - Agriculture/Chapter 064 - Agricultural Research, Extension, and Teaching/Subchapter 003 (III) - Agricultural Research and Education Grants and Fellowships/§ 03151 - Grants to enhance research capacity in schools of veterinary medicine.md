@@ -26,7 +26,7 @@ Except with respect to the States of Alaska and Hawaii, the Secretary shall give
 
 Funds appropriated to carry out this section for any fiscal year shall be apportioned and distributed as follows:
 
-&emsp;(1) Five per centum shall be retained by the Department of Agriculture for administration,program assistance to eligible States, and program coordination.
+&emsp;(1) Five per centum shall be retained by the Department of Agriculture for administration, program assistance to eligible States, and program coordination.
 
 &emsp;(2) The remainder shall be apportioned and distributed by the Secretary to those States which have applied for funds under this section on such basis as the Secretary may deem appropriate.
 

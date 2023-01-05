@@ -8,7 +8,7 @@ As used in this section—
 
 &emsp;&emsp;(A) a securities commission (or any agency or office performing like functions) of a State that the Office determines has adopted rules on the appropriate use of designations in the offer or sale of securities or the provision of investment advice that meet or exceed the minimum requirements of the NASAA Model Rule on the Use of Senior-Specific Certifications and Professional Designations (or any successor thereto);
 
-&emsp;&emsp;(B) the insurance commission (or any agency or office performing like functions) of any State that the Office determines has—
+&emsp;&emsp;(B) the insurance commission (or any agency or office performing like functions)of any State that the Office determines has—
 
 &emsp;&emsp;&emsp;(i) adopted rules on the appropriate use of designations in the sale of insurance products that, to the extent practicable, conform to the minimum requirements of the National Association of Insurance Commissioners Model Regulation on the Use of Senior-Specific Certifications and Professional Designations in the Sale of Life Insurance and Annuities (or any successor thereto); and
 

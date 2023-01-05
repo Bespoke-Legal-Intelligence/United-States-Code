@@ -16,7 +16,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;To facilitate a merger or consolidation of a qualifying insured System bank, the sale of assets of such insured System bank to another insured System bank, the assumption of such insured System bank's liabilities by such other insured System bank, or the acquisition of the stock of such insured System bank by such other insured System bank, the Corporation, in its sole discretion and on such terms and conditions as the Board of Directors may prescribe, may—
+&emsp;&emsp;To facilitate a merger or consolidation of a qualifying insured System bank, the sale of assets of such insured System bank to another insured System bank, the assumption of such insured System bank's liabilities by such other insured System bank, or the acquisition of the stock of such insured System bank by such other insured System bank, the Corporation, in its sole discretionand on such terms and conditions as the Board of Directors may prescribe, may—
 
 &emsp;&emsp;&emsp;(i) purchase any such assets or assume any such liabilities;
 

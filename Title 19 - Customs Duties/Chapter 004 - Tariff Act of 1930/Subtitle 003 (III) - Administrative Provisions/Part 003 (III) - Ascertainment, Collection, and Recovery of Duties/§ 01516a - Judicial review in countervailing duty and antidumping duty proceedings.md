@@ -458,7 +458,7 @@ For purposes of this section—
 
 Section 1303 of this title, referred to in subsec. (d), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
 
-The North American Free Trade Agreement Implementation Act, referred to in subsec. (g)(4)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The North American Free Trade Agreement Implementation Act, referred to in subsec. (g)(4)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 The United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsec. (g)(4)(A), is Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, which is set out as a note under section 2112 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -696,7 +696,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Pub. L. 96–542, §3, Dec. 17, 1980, 94 Stat. 3210, provided that: "The amendments made by this Act \[amending this section and provisions set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure\] shall be effective as of November 1, 1980."
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of title 28.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending onor commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as a note under section 251 of title 28.
 
 #### Effective Date; Transitional Rules
 

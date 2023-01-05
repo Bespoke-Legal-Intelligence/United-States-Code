@@ -32,7 +32,7 @@ Not later than 180 days after December 27, 2020, the Assistant Secretary shall e
 
 #### (B) Accounting mechanism
 
-&emsp;&emsp;The Office shall develop a streamlined accounting mechanism by which any agency offering a Federal broadband support program and the Commission for any Universal Service Fund Program shall provide the information described in subparagraph (A) in a standardized and efficient fashion.
+&emsp;&emsp;The Office shall develop a streamlined accounting mechanism by which any agencyoffering a Federal broadband support program and the Commission for any Universal Service Fund Program shall provide the information described in subparagraph (A) in a standardized and efficient fashion.
 
 #### (C) Report
 
@@ -110,7 +110,7 @@ In this section:
 
 &emsp;&emsp;(A) The Telecommunications and Technology Program of the Appalachian Regional Commission.
 
-&emsp;&emsp;(B) The Telecommunications Infrastructure Loan and Loan Guarantee Program established under the Rural Electrification Act of 1936 \[7 U.S.C. 901 et seq.\], the rural broadband access program established under title VI of that Act (7 U.S.C. 950bb et seq.), the initiative under section 306F of that Act (7 U.S.C. 936f), the Community Connect Grant Program established under section 604 of that Act (7 U.S.C. 950bb–3), the broadband loan and grant pilot program authorized under section 779 of division A of the Consolidated Appropriations Act, 2018 (Public Law 115–141; 132 Stat. 399) (commonly known as the "Rural eConnectivity Pilot Program" or the "ReConnect Program"), and the Distance Learning and Telemedicine Program under chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 950aaa et seq.).
+&emsp;&emsp;(B) The Telecommunications Infrastructure Loan and Loan Guarantee Program established under the Rural Electrification Act of 1936 \[7 U.S.C. 901 et seq.\], the rural broadband access program established under title VI of that Act (7 U.S.C. 950bb et seq.), the initiative under section 306F of that Act (7 U.S.C. 936f), the Community Connect Grant Program established under section 604 of that Act (7 U.S.C. 950bb–3), the broadbandloan and grant pilot program authorized under section 779 of division A of the Consolidated Appropriations Act, 2018 (Public Law 115–141; 132 Stat. 399) (commonly known as the "Rural eConnectivity Pilot Program" or the "ReConnect Program"), and the Distance Learning and Telemedicine Program under chapter 1 of subtitle D of title XXIII of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 950aaa et seq.).
 
 &emsp;&emsp;(C) Community facility direct and guaranteed loans under section 1926(a) of title 7, community facility grants under paragraph (19), (20), or (21) of section 1926(a) of title 7, and the Rural Community Development Initiative authorized under the heading "Rural Housing Service—Rural Community Facilities Program Account" under title III of division B of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94; 133 Stat. 2629).
 

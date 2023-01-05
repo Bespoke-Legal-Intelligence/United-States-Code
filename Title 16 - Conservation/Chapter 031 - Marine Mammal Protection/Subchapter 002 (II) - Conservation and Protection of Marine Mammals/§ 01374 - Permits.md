@@ -2,7 +2,7 @@
 
 #### (a) Issuance
 
-The Secretary may issue permits which authorize the taking or importation of any marinemammal. Permits for the incidental taking of marine mammals in the course of commercial fishing operations may only be issued as specifically provided for in sections <sup>1</sup> 1371(a)(5) or 1416 of this title, or subsection (h) of this section.
+The Secretary may issue permits which authorize the taking or importation of any marine mammal. Permits for the incidental taking of marine mammals in the course of commercial fishing operations may only be issued as specifically provided for in sections <sup>1</sup> 1371(a)(5) or 1416 of this title, or subsection (h) of this section.
 
 #### (b) Requisite provisions
 
@@ -62,7 +62,7 @@ Any permit issued under this section shall—
 
 > the Secretary may revoke the permit in accordance with subsection (e), seize the marine mammal, or cooperate with other persons authorized to hold marine mammals under this chapter for disposition of the marine mammal. The Secretary may recover from the person expenses incurred by the Secretary for that seizure.
 
-(E) No marine mammal held pursuant to a permit issued under subparagraph (A), or by a person exercising rights under subparagraph (C), may be sold, purchased, exported, or transported unless the Secretary is notified of such action no later than 15 days before such action, and such action is for purposes of public display, scientific research, or enhancing the survival or recovery of a species or stock. The Secretary mayonly require the notification to include the information required for the inventory established under paragraph (10).
+(E) No marine mammal held pursuant to a permit issued under subparagraph (A), or by a person exercising rights under subparagraph (C), may be sold, purchased, exported, or transported unless the Secretary is notified of such action no later than 15 days before such action, and such action is for purposes of public display, scientific research, or enhancing the survival or recovery of a species or stock. The Secretary may only require the notification to include the information required for the inventory established under paragraph (10).
 
 (3)(A) The Secretary may issue a permit under this paragraph for scientific research purposes to an applicant which submits with its permit application information indicating that the taking is required to further a bona fide scientific purpose. The Secretary may issue a permit under this paragraph before the end of the public review and comment period required under subsection (d)(2) if delaying issuance of the permit could result in injury to a species, stock, or individual, or in loss of unique research opportunities.
 
@@ -108,7 +108,7 @@ Any permit issued under this section shall—
 
 &emsp;(iv) the export and subsequent import are not likely to contribute to illegal trade in bear parts.
 
-(B) The Secretary shall establish and charge a reasonable fee for permits issued under this paragraph. All fees collected under this paragraph shall be available to the Secretary until expended for use in developing and implementing cooperative research and management programs for the conservation of polar bears inAlaska and Russia pursuant to section 1383(d) of this title.
+(B) The Secretary shall establish and charge a reasonable fee for permits issued under this paragraph. All fees collected under this paragraph shall be available to the Secretary until expended for use in developing and implementing cooperative research and management programs for the conservation of polar bears in Alaska and Russia pursuant to section 1383(d) of this title.
 
 (C)(i) The Secretary shall undertake a scientific review of the impact of permits issued under this paragraph on the polar bear population stocks in Canada within 2 years after April 30, 1994. The Secretary shall provide an opportunity for public comment during the course of such review, and shall include a response to such public comment in the final report on such review.
 
@@ -166,7 +166,7 @@ Any permit issued under this section shall—
 
 #### (d) Application procedures; notice; hearing; review
 
-(1) The Secretary shall prescribe such procedures as are necessary to carry out this section,including the form and manner in which application for permits may be made.
+(1) The Secretary shall prescribe such procedures as are necessary to carry out this section, including the form and manner in which application for permits may be made.
 
 (2) The Secretary shall publish notice in the Federal Register of each application made for a permit under this section. Such notice shall invite the submission from interested parties, within thirty days after the date of the notice, of written data or views, with respect to the taking or importation proposed in such application.
 
@@ -220,7 +220,7 @@ The Secretary shall establish and charge a reasonable fee for permits issued und
 
 #### References in Text
 
-7 U.S.C. 2131 et seq., referred to in subsec. (c)(2)(A)(ii), is the classification for Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, known as the Animal Welfare Act, which is classified generally to chapter 54 (§2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
+7 U.S.C. 2131 et seq., referred to in subsec. (c)(2)(A)(ii), is the classification for Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, known as the Animal Welfare Act, which is classified generally to chapter 54 (§2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2131 of Title 7 and Tables.
 
 #### Amendments
 

@@ -36,7 +36,7 @@ The Secretary is authorized to issue final regulations without first issuing pro
 
 Subsec. (e). Pub. L. 100–435, §105(b), added subsec. (e).
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–77 substituted provisions relating to period ending on date specified in former section 212 of Pub. L. 98–8 for provisions relating to period beginning October 1, 1983 and ending September 30, 1987, and substituted "fiscal year ending September 30, 1988" for "fiscal year ending September 30, 1987".
+<b>1987</b>—Subsec. (c). Pub. L. 100–77 substituted provisions relating to period ending on date specified in former section 212 of Pub. L. 98–8 for provisions relating to period beginning October 1, 1983 and ending September 30,1987, and substituted "fiscal year ending September 30, 1988" for "fiscal year ending September 30, 1987".
 
 <b>1985</b>—Subsec. (c). Pub. L. 99–198, §1570(1), substituted "the period beginning October 1, 1983, and ending September 30, 1987" for "the fiscal years ending September 30, 1984, and September 30, 1985", "as early as feasible but not later than the beginning of the fiscal year ending September 30, 1987" for "prior to the beginning of the fiscal year ending September 30, 1985", and "such fiscal year" for "second twelve months".
 

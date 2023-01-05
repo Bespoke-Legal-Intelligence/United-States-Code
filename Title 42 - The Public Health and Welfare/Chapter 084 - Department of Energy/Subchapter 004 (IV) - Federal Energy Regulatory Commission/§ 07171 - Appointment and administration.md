@@ -38,7 +38,7 @@ In carrying out any of its functions, the Commission shall have the powers autho
 
 #### (h) Principal office of Commission
 
-The principal office of the Commission shall be in or near the District of Columbia, where its general sessions shall be held, but the Commission may sit anywhere in the United States.
+The principal office of the Commission shall be in or near the District of Columbia, where itsgeneral sessions shall be held, but the Commission may sit anywhere in the United States.
 
 #### (i) Commission deemed agency; attorney for Commission
 
@@ -122,7 +122,7 @@ In each annual authorization and appropriation request under this chapter, the S
 
 #### References in Text
 
-This chapter, referred to in subsecs. (i) and (j), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsecs. (i) and (j), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 
@@ -181,6 +181,10 @@ Report.—The Commission shall transmit the study and the model regulations to C
 Pub. L. 99–500, §101(e) \[title III\], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, §101(e) \[title III\], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: "That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account \[Federal Energy Regulatory Commission, Salaries and Expenses\], and may remain available until expended: <i>Provided further</i>, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. D, title III, Dec. 29, 2022, 136 Stat. 4642.
+
+Pub. L. 117–103, div. D, title III, Mar. 15, 2022, 136 Stat. 231.
 
 Pub. L. 116–260, div. D, title III, Dec. 27, 2020, 134 Stat. 1372.
 

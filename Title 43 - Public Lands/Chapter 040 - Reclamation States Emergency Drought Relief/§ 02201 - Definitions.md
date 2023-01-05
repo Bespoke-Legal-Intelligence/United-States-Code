@@ -16,13 +16,13 @@ As used in this chapter:
 
 Act of June 17, 1902, referred to in par. (2), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this title and Tables.
 
-The Small Reclamation Projects Act of 1956, referred to in par. (3), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§422a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 422k of this title and Tables.
+The Small Reclamation Projects Act of 1956, referred to in par. (3), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, which is classified generally to subchapter IV (§422a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 422k of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
-Pub. L. 102–250, §1, Mar. 5, 1992, 106 Stat. 53, provided that: "This Act \[enacting this chapter\] may be cited as the 'Reclamation States Emergency Drought Relief Act of 1991'."
+Pub. L. 102–250, §1, Mar. 5, 1992, 106 Stat. 53, provided that: "This Act \[enacting this chapter\] may be cited asthe 'Reclamation States Emergency Drought Relief Act of 1991'."
 
 #### <b>Executive Documents</b>
 
@@ -38,7 +38,7 @@ Section 1. <i>Purpose</i>. Our Nation must sustain and expand efforts to reduce 
 
 Among other actions, this memorandum institutionalizes the National Drought Resilience Partnership (NDRP), which builds upon the National Integrated Drought Information System, an interagency program led by the Department of Commerce. The NDRP was outlined in the President's Climate Action Plan to better coordinate Federal support for drought-related efforts, help communities reduce the impact of current drought events, and prepare for future droughts. In sustaining this focused collaboration, the NDRP will provide the Federal Government with a lasting platform that enables locally and regionally driven priorities and needs to guide coordinated Federal activities.
 
-Sec. 2. <i>Policy</i>. It is the policy of the Federal Government to coordinate and use applicable Federal investments, assets, and expertise to promote drought resilience and complement drought preparedness, planning, and implementation efforts of State, regional, tribal, and local institutions. In addition, where appropriate, the Federal Government shall seek partnerships with such institutions and the private sector in order to increase and diversify our Nation's water resources through the development and deployment of new technologies and improved access to alternative water supplies. Agencies shall also work with State, regional,tribal, and local institutions to support their efforts to maintain and enhance the long-term health and resilience of working lands and ecosystems. In carrying out this memorandum, executive departments and agencies (agencies) shall continue to recognize the primacy of States, regions, tribes, and local water users in building their resilience to drought.
+Sec. 2. <i>Policy</i>. It is the policy of the Federal Government to coordinate and use applicable Federal investments, assets, and expertise to promote drought resilience and complement drought preparedness, planning, and implementation efforts of State, regional, tribal, and local institutions. In addition, where appropriate, the Federal Government shall seek partnerships with such institutions and the private sector in order to increase and diversify our Nation's water resources through the development and deployment of new technologies and improved access to alternative water supplies. Agencies shall also work with State, regional, tribal, and local institutions to support their efforts to maintain and enhance the long-term health and resilience of working lands and ecosystems. In carrying out this memorandum, executive departments and agencies (agencies) shall continue to recognize the primacy of States, regions, tribes, and local water users in building their resilience to drought.
 
 Sec. 3. <i>Drought Resilience Goals</i>. (a) The heads of agencies shall, to the extent permitted by law and to the maximum extent possible, carry out the policy described in section 2 of this memorandum by implementing policies and taking actions to achieve the following drought resilience goals:
 
@@ -174,7 +174,7 @@ Sec. 6. <i>Regional Coordination and Implementation</i>.
 
 Sec. 7. <i>Definitions</i>. (a) "Agencies" means any authority of the United States that is an "agency" under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies.
 
-(b) "Critical infrastructure" has the meaning provided in section 1016(e) of the USA Patriot Act of 2001 (42 U.S.C. 5195c(e)), namely, systems and assets, whether physical or virtual, so vital to the United States that the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters.
+(b) "Critical infrastructure" has the meaning provided in section 1016(e) of the USA Patriot Act of 2001 (42 U.S.C. 5195c(e)), namely, systems and assets, whether physical or virtual, so vital to the United Statesthat the incapacity or destruction of such systems and assets would have a debilitating impact on security, national economic security, national public health or safety, or any combination of those matters.
 
 (c) "Drought" has the meaning provided in section 2(1) of the National Integrated Drought Information System Act of 2006 (15 U.S.C. 313d note), namely, a deficiency in precipitation that leads to a deficiency in surface or subsurface water supplies (including rivers, streams, wetlands, groundwater, soil moisture, reservoir supplies, lake levels, and snow pack); and that causes or may cause substantial economic or social impacts or substantial physical damage or injury to individuals, property, or the environment.
 

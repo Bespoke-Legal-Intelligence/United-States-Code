@@ -1,6 +1,6 @@
 ### §3113. Definitions
 
-As used in this Act, the term "subsistence uses" means the customary and traditional usesby rural Alaska residents of wild, renewable resources for direct personal or family consumption as food, shelter, fuel, clothing, tools, or transportation; for the making and selling of handicraft articles out of nonedible byproducts of fish and wildlife resources taken for personal or family consumption; for barter, or sharing for personal or family consumption; and for customary trade. For the purposes of this section, the term—
+As used in this Act, the term "subsistence uses" means the customary and traditional uses by rural Alaska residents of wild, renewable resources for direct personal or family consumption as food, shelter, fuel, clothing, tools, ortransportation; for the making and selling of handicraft articles out of nonedible byproducts of fish and wildlife resources taken for personal or family consumption; for barter, or sharing for personal or family consumption; and for customary trade. For the purposes of this section, the term—
 
 &emsp;(1) "family" means all persons related by blood, marriage, or adoption, or any person living within the household on a permanent basis; and
 
@@ -16,7 +16,7 @@ As used in this Act, the term "subsistence uses" means the customary and traditi
 
 #### References in Text
 
-This Act, referred to in provision preceding par. (1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in provision preceding par. (1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 #### Amendments
 

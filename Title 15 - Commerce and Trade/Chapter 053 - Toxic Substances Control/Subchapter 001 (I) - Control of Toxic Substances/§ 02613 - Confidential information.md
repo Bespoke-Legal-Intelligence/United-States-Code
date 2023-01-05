@@ -42,7 +42,7 @@ Except as provided in this section, the Administrator shall not disclose informa
 
 #### (A) In general
 
-&emsp;&emsp;If the Administrator promulgates a rule pursuant to section 2605(a) of this title that establishes a ban or phase-out of a chemical substance or mixture, the protection from disclosure of any information under this section with respect to the chemical substance or mixture shall be presumed to no longer apply, subject to subsection (g)(1)(E) and subparagraphs (B) and (C) of this paragraph.
+&emsp;&emsp;If the Administrator promulgates a rule pursuant to section 2605(a) of this title thatestablishes a ban or phase-out of a chemical substance or mixture, the protection from disclosure of any information under this section with respect to the chemical substance or mixture shall be presumed to no longer apply, subject to subsection (g)(1)(E) and subparagraphs (B) and (C) of this paragraph.
 
 #### (B) Limitations
 
@@ -94,7 +94,7 @@ Except as provided in this section, the Administrator shall not disclose informa
 
 #### (C) Additional requirements for claims regarding chemical identity information
 
-&emsp;&emsp;In the case of a claim under subparagraph (A) for protection from disclosure of a specific chemical identity, the claim shall include a structurally descriptive genericname for the chemical substance that the Administrator may disclose to the public, subject to the condition that such generic name shall—
+&emsp;&emsp;In the case of a claim under subparagraph (A) for protection from disclosure of a specific chemical identity, the claim shall include a structurally descriptive generic name for the chemical substance that the Administrator may disclose to the public, subject to the condition that such generic name shall—
 
 &emsp;&emsp;&emsp;(i) be consistent with guidance developed by the Administrator under paragraph (4)(A); and
 
@@ -244,7 +244,7 @@ Information described in subsection (a)—
 
 #### (C) No limit on number of extensions
 
-&emsp;&emsp;There shall be no limit on the number of extensions granted under this paragraph, ifthe Administrator determines that the relevant request under subparagraph (B)(i)—
+&emsp;&emsp;There shall be no limit on the number of extensions granted under this paragraph, if the Administrator determines that the relevant request under subparagraph (B)(i)—
 
 &emsp;&emsp;&emsp;(i) establishes the need to extend the period; and
 
@@ -318,7 +318,7 @@ Information described in subsection (a)—
 
 #### (i) Fifteen day notification
 
-&emsp;&emsp;&emsp;For information the Administrator intends to disclose under subsections (d)(3), (d)(4), (d)(5), and (j), the Administrator shall not disclose the information until the date that is 15 days after the date on which the person that asserted the claim or submitted the request receives notification under subparagraph (A), except that, with respect to information to be disclosed under subsection (d)(3), if the Administrator determines that disclosure of the information is necessary to protect against an imminent and substantial harm to health or the environment, no prior notification shall be necessary.
+&emsp;&emsp;&emsp;For information the Administrator intends to disclose under subsections (d)(3), (d)(4), (d)(5), and (j), the Administrator shall not disclose the information until the date that is 15 days after the date on which the person that asserted the claimor submitted the request receives notification under subparagraph (A), except that, with respect to information to be disclosed under subsection (d)(3), if the Administrator determines that disclosure of the information is necessary to protect against an imminent and substantial harm to health or the environment, no prior notification shall be necessary.
 
 #### (ii) Notification as soon as practicable
 
@@ -380,7 +380,7 @@ Information described in subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (C) and paragraph (2), an individual described in subparagraph\(B) shall be fined under title 18 or imprisoned for not more than 1 year, or both.
+&emsp;&emsp;Subject to subparagraph (C) and paragraph (2), an individual described in subparagraph (B) shall be fined under title 18 or imprisoned for not more than 1 year, or both.
 
 #### (B) Description
 

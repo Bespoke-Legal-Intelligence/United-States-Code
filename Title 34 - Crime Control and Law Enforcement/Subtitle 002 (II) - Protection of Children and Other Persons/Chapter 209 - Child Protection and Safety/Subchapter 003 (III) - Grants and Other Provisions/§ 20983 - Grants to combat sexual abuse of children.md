@@ -12,7 +12,7 @@ The Bureau of Justice Assistance is authorized to make grants under this section
 
 Grants under this section may be used by the law enforcement agency to—
 
-&emsp;(1) hire additional law enforcement personnel or train existing staff to combat thesexual abuse of children through community education and outreach, investigation of complaints, enforcement of laws relating to sex offender registries, and management of released sex offenders;
+&emsp;(1) hire additional law enforcement personnel or train existing staff to combat the sexual abuse of children through community education and outreach, investigation of complaints, enforcement of laws relating to sex offender registries, and management of released sex offenders;
 
 &emsp;(2) investigate the use of the Internet to facilitate the sexual abuse of children; and
 

@@ -208,7 +208,7 @@ Pub. L. 106–462, title I, §101, Nov. 7, 2000, 114 Stat. 1991, provided that: 
 
 &emsp;"(5) the trust periods for trust allotments have been extended indefinitely;
 
-&emsp;"(6) because of the inheritance provisions in the original treaties or allotment Acts, the ownership of many of the trust allotments that have remained in trust status has become fractionated into hundreds or thousands of undivided interests, many of which represent 2 percent or less of the total interests;
+&emsp;"(6) because of the inheritance provisions in the original treaties or allotment Acts, the ownership of many of the trust allotments that have remained intrust status has become fractionated into hundreds or thousands of undivided interests, many of which represent 2 percent or less of the total interests;
 
 &emsp;"(7) Congress has authorized the acquisition of lands in trust for individual Indians, and many of those lands have also become fractionated by subsequent inheritance;
 

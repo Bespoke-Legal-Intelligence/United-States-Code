@@ -50,7 +50,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 #### (1) In general
 
-&emsp;In order to rapidly and effectively identify recipients of a food to prevent or mitigate a foodborne illness outbreak and to address credible threats of serious adverse health consequences or death to humans or animals as a result of such food being adulterated under section 342 of this title or misbranded under section 343(w) of this title, not later than 2 years after January 4, 2011, the Secretary shall publish a notice of proposed rulemaking to establish recordkeeping requirements, in addition to the requirements under section 350c of this title and subpart J of part 1 of title 21, Code of Federal Regulations (or any successor regulations), for facilities that manufacture, process, pack, or hold foods that the Secretary designates under paragraph (2) as high-risk foods. The Secretary shall set an appropriate effective date of such additional requirements for foods designated as high risk that takes into account the length of time necessary to comply with such requirements. Such requirements shall—
+&emsp;In order to rapidly and effectively identify recipients of a food to prevent or mitigate a foodborne illness outbreak and to address credible threats of serious adverse health consequences or death to humans or animals as aresult of such food being adulterated under section 342 of this title or misbranded under section 343(w) of this title, not later than 2 years after January 4, 2011, the Secretary shall publish a notice of proposed rulemaking to establish recordkeeping requirements, in addition to the requirements under section 350c of this title and subpart J of part 1 of title 21, Code of Federal Regulations (or any successor regulations), for facilities that manufacture, process, pack, or hold foods that the Secretary designates under paragraph (2) as high-risk foods. The Secretary shall set an appropriate effective date of such additional requirements for foods designated as high risk that takes into account the length of time necessary to comply with such requirements. Such requirements shall—
 
 &emsp;&emsp;(A) relate only to information that is reasonably available and appropriate;
 
@@ -128,7 +128,7 @@ The Secretary, in consultation with the Secretary of Agriculture, shall, as appr
 
 #### (A) Farm to school programs
 
-&emsp;&emsp;In establishing requirements under this subsection, the Secretary shall, in consultation with the Secretary of Agriculture, consider the impact of requirements on farm to school or farm to institution programs of the Department of Agriculture and other farm to school and farm to institution programs outside such agency, and shall modifythe requirements under this subsection, as appropriate, with respect to such programs so that the requirements do not place undue burdens on farm to school or farm to institution programs.
+&emsp;&emsp;In establishing requirements under this subsection, the Secretary shall, in consultation with the Secretary of Agriculture, consider the impact of requirements on farm to school or farm to institution programs of the Department of Agriculture and other farm to school and farm to institution programs outside such agency, and shall modify the requirements under this subsection, as appropriate, with respect to such programs so that the requirements do not place undue burdens on farm to school or farm to institution programs.
 
 #### (B) Identity-preserved labels with respect to farm sales of food that is produced and packaged on a farm
 
@@ -252,7 +252,7 @@ Notwithstanding any other provision of law, the regulations promulgated under su
 
 Section 105, referred to in subsec. (d)(6)(D)(ii)(II), means section 105 of Pub. L. 111–353.
 
-Section 350g of this title, referred to in subsec. (i), was in the original "section 103", meaning section 103 of Pub. L. 111–353, which enacted section 350g of this title, amended section 331 of this title, and enacted provisions set out as notes under sections 342, 350d, and350g of this title, and was translated as section 350g of this title to reflect the probable intent of Congress because section 350g(n) of this title directs the Secretary of Health and Human Services to define "small business" and "very small business".
+Section 350g of this title, referred to in subsec. (i), was in the original "section 103", meaning section 103 of Pub. L. 111–353, which enacted section 350g of this title, amended section 331 of this title, and enacted provisions set out as notes under sections 342, 350d, and 350g of this title, and was translated as section 350g of this title to reflect the probable intent of Congress because section 350g(n) of this title directs the Secretary of Health and Human Services to define "small business" and "very small business".
 
 #### Codification
 

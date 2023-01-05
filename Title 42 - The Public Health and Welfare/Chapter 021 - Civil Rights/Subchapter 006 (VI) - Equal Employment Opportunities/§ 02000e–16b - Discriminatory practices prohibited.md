@@ -2,7 +2,7 @@
 
 #### (a) Practices
 
-All personnel actions affecting the Presidential appointees described in section 1219 <sup>1</sup> oftitle 2 or the State employees described in section 2000e–16c of this title shall be made free from any discrimination based on—
+All personnel actions affecting the Presidential appointees described in section 1219 <sup>1</sup> of title 2 or the State employees described in section 2000e–16c of this title shall be made free from any discrimination based on—
 
 &emsp;(1) race, color, religion, sex, or national origin, within the meaning of section 2000e–16 of this title;
 
@@ -29,6 +29,8 @@ The remedies referred to in sections 1219(a)(1) <sup>1</sup> of title 2 and 200
 Section 1219 of title 2, referred to in text, was repealed by Pub. L. 104–331, §5(a), Oct. 26, 1996, 110 Stat. 4072.
 
 #### Codification
+
+Section was enacted as part of the Government Employee Rights Act of 1991, and not as part of the Civil Rights Act of 1964, title VII of which comprises this subchapter.
 
 Section was formerly classified to section 1202 of Title 2, The Congress.
 

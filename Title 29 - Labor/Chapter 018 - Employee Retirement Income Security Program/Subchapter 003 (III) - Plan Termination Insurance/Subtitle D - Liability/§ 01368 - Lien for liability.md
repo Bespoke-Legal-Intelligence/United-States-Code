@@ -30,7 +30,7 @@ The lien imposed by subsection (a) arises on the date of termination of a plan, 
 
 (2) In a case under title 11 or in insolvency proceedings, the lien imposed under subsection (a) shall be treated in the same manner as a tax due and owing to the United States for purposes of title 11 or section 3713 of title 31.
 
-(3) For purposes of applying section 6323(a) of title 26 to determine the priority between the lien imposed under subsection (a) and a Federaltax lien, each lien shall be treated as a judgment lien arising as of the time notice of such lien is filed.
+(3) For purposes of applying section 6323(a) of title 26 to determine the priority between the lien imposed under subsection (a) and a Federal tax lien, each lien shall be treated as a judgment lien arising as of the time notice of such lien is filed.
 
 (4) For purposes of this subsection, notice of the lien imposed by subsection (a) shall be filed in the same manner as under section 6323(f) and (g) of title 26.
 
@@ -42,7 +42,7 @@ The lien imposed by subsection (a) arises on the date of termination of a plan, 
 
 #### (e) Release or subordination
 
-If the corporation determines that release of the lien or subordination of the lien to any other creditor of the liable person would not adversely affect the collection of the liability imposed under section 1362, 1363, or 1364 of this title, or that the amount realizable by the corporation from the property to which the lien attaches will ultimately be increased by such release or subordination, and that the ultimate collection of the liability will be facilitated by such release or subordination, the corporation may issue a certificate of release or subordination of the lien with respect to such property, or any part thereof.
+If the corporation determines that release of the lien or subordination of the lien to any other creditor of the liable person would not adverselyaffect the collection of the liability imposed under section 1362, 1363, or 1364 of this title, or that the amount realizable by the corporation from the property to which the lien attaches will ultimately be increased by such release or subordination, and that the ultimate collection of the liability will be facilitated by such release or subordination, the corporation may issue a certificate of release or subordination of the lien with respect to such property, or any part thereof.
 
 #### (f) Definitions
 
@@ -100,7 +100,7 @@ Pub. L. 101–239, title VII, §7894(g)(4)(B), Dec. 19, 1989, 103 Stat. 2451, pr
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L. 100–203, as amended, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 100–203 applicable with respect to plan terminations under section 1341 of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 17, 1987, and plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 1342 of this title after that date, see section 9312(d)(1) of Pub. L.100–203, as amended, set out as a note under section 1301 of this title.
 
 #### Effective Date of 1986 Amendment
 

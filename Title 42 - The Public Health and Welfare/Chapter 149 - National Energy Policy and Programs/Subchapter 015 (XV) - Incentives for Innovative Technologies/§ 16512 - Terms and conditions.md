@@ -18,6 +18,10 @@ Except for division C of Public Law 108–324 \[15 U.S.C. 720 et seq.\], the Sec
 
 &emsp;&emsp;(B) a combination of one or more appropriations and one or more payments from the borrower under this subsection has been made that is sufficient to cover the cost of the guarantee.
 
+#### (3) Source of payments
+
+&emsp;The source of a payment received from a borrower under subparagraph (A) or (B) of paragraph (2) may not be a loan or other debt obligation that is made or guaranteed by the Federal Government.
+
 #### (c) Amount
 
 Unless otherwise provided by law, a guarantee by the Secretary shall not exceed an amount equal to 80 percent of the project cost of the facility that is the subject of the guarantee, as estimated at the time at which the guarantee is issued.
@@ -36,7 +40,7 @@ Unless otherwise provided by law, a guarantee by the Secretary shall not exceed 
 
 &emsp;&emsp;&emsp;(i) the strength of the contractual terms of the eligible project (if commercially reasonably available);
 
-&emsp;&emsp;&emsp;(ii) the forecast of noncontractual cash flows supported by market projectionsfrom reputable sources, as determined by the Secretary;
+&emsp;&emsp;&emsp;(ii) the forecast of noncontractual cash flows supported by market projections from reputable sources, as determined by the Secretary;
 
 &emsp;&emsp;&emsp;(iii) cash sweeps and other structure enhancements;
 
@@ -184,7 +188,7 @@ The Secretary shall consult with the Secretary of the Treasury regarding any res
 
 #### (2) Transmission
 
-&emsp;Not later than 30 days after receiving information on a proposed guarantee from the Secretary, the Secretary of the Treasury shall transmit the written analysis of the financial terms and conditions of the proposed guarantee required under paragraph (1) to the Secretary.
+&emsp;Not later than 30 days after receiving information on a proposed guarantee from the Secretary, the Secretary of the Treasury shalltransmit the written analysis of the financial terms and conditions of the proposed guarantee required under paragraph (1) to the Secretary.
 
 #### (3) Explanation
 
@@ -214,7 +218,7 @@ In carrying out this subchapter, the Secretary shall—
 
 &emsp;(2) conduct outreach, including through conferences and online programs, to disseminate information to potential applicants;
 
-&emsp;(3) conduct outreach to encourage participation of supporting finance institutions and private lenders in eligible projects.
+&emsp;(3) conduct outreach to encourage participation of supporting finance institutions and private lenders in eligible projects and projects described in section 16517(a) of this title.
 
 #### (p) Coordination
 
@@ -264,21 +268,23 @@ For each project selected for a guarantee under this subchapter, the Secretary s
 
 &emsp;In carrying out a project receiving a loan guarantee under this subchapter, State energy financing institutions may enter into partnerships with private entities, Tribal entities, and Alaska Native corporations.
 
-#### (3) Prohibition on use of appropriated funds
-
-&emsp;Amounts appropriated to the Department of Energy before November 15, 2021, shall not be available to be used for the cost of loan guarantees for projects receiving financing support or credit enhancements under this subsection.
-
-(Pub. L. 109–58, title XVII, §1702, Aug. 8, 2005, 119 Stat. 1117; Pub. L. 111–85, title III, §310, Oct. 28, 2009, 123 Stat. 2873; Pub. L. 112–74, div. B, title III, §305(1), Dec. 23, 2011, 125 Stat. 877; Pub. L. 116–260, div. Z, title IX, §9010(a), Dec. 27, 2020, 134 Stat. 2603; Pub. L. 117–58, div. D, title IV, §40401(a)(1), (3), (c)(2), Nov. 15, 2021, 135 Stat. 1033, 1034, 1037.)
+(Pub. L. 109–58, title XVII, §1702, Aug. 8, 2005, 119 Stat. 1117; Pub. L. 111–85, title III, §310, Oct. 28, 2009, 123 Stat. 2873; Pub. L. 112–74, div. B, title III, §305(1), Dec. 23, 2011, 125 Stat. 877; Pub. L. 116–260, div. Z, title IX, §9010(a), Dec. 27, 2020, 134 Stat. 2603; Pub. L. 117–58, div. D, title IV, §40401(a)(1), (3), (c)(2), Nov. 15, 2021, 135 Stat. 1033, 1034, 1037; Pub. L. 117–169, title V, §§50141(f), 50144(d), Aug. 16, 2022, 136 Stat. 2044, 2045; Pub. L. 117–328, div. D, title III, §308, Dec. 29, 2022, 136 Stat. 4645.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Division C of Public Law 108–324, referred to in subsec. (a), is division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, known as the Alaska Natural Gas Pipeline Act, which is classified principally to chapter 15D (§720 et seq.) of Title 15, Commerce and Trade. For complete classification of division C to the Code, see Short Title note set out under section 720 of Title 15 and Tables.
+Division C of Public Law 108–324, referred to in subsec. (a), is division C of Pub. L. 108–324, Oct. 13, 2004, 118Stat. 1255, known as the Alaska Natural Gas Pipeline Act, which is classified principally to chapter 15D (§720 et seq.) of Title 15, Commerce and Trade. For complete classification of division C to the Code, see Short Title note set out under section 720 of Title 15 and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3). Pub. L. 117–169, §50141(f), added par. (3).
+
+Subsec. (o)(3). Pub. L. 117–169, §50144(d), inserted "and projects described in section 16517(a) of this title" before period at end.
+
+Subsec. (r)(3). Pub. L. 117–328 struck out par. (3). Text read as follows: "Amounts appropriated to the Department of Energy before November 15, 2021, shall not be available to be used for the cost of loan guarantees for projects receiving financing support or credit enhancements under this subsection."
 
 <b>2021</b>—Subsec. (a). Pub. L. 117–58, §40401(c)(2)(A), inserted ", including projects receiving financial support or credit enhancements from a State energy financing institution," after "for projects".
 

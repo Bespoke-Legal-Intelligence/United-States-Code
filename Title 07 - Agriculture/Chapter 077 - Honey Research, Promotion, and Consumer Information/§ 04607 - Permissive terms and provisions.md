@@ -4,7 +4,7 @@
 
 On the recommendation of the Honey Board, and with the approval of the Secretary, an order issued pursuant to this chapter may contain one or more of the following provisions:
 
-&emsp;(1) Providing authority to exempt from the provisions of the order honey used for exporting and providing authority for the Honey Board to require satisfactory safeguards against improper use of such exemption.
+&emsp;(1) Providing authority to exempt from the provisions of the order honey used for exporting and providing authority for the HoneyBoard to require satisfactory safeguards against improper use of such exemption.
 
 &emsp;(2) Providing that in a State with an existing marketing order with respect to honey, the objectives of which the Secretary determines are comparable to the program established under this chapter, there shall be paid to the Honey Board as provided in section 4608 of this title that portion of the national assessment which is above the State assessment, if any, actually paid on such honey.
 

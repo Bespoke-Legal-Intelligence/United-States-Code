@@ -20,7 +20,7 @@ The President may declare a natural gas supply emergency (or extend a previously
 
 #### (2) Extensions
 
-&emsp;Nothing in this subsection shall prohibit the President from extending, under subsection (a), any emergency (or extension thereof), previously declared under subsection (a), upon the expiration of such declaration of emergency (or extension thereof) under paragraph (1)(B).
+&emsp;Nothing in this subsection shall prohibit the President from extending, under subsection (a), any emergency (or extension thereof), previously declared under subsection (a), uponthe expiration of such declaration of emergency (or extension thereof) under paragraph (1)(B).
 
 (Pub. L. 95–621, title III, §301, Nov. 9, 1978, 92 Stat. 3381.)
 

@@ -58,6 +58,14 @@ A prior section 3069 was renumbered section 7069 of this title.
 
 Subsec. (b)(2). Pub. L. 116–283 substituted "sections 3201 through 3205" for "section 2304".
 
+<b>2016</b>—Subsec. (c). Pub. L. 114–328 designated existing provisions as par. (1), inserted ", except as provided in paragraph (2)," after "but", and added par. (2).
+
+<b>2003</b>—Subsec. (e)(2). Pub. L. 108–136 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "The term 'congressional defense committees' means—
+
+&emsp;"(i) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+&emsp;"(ii) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment

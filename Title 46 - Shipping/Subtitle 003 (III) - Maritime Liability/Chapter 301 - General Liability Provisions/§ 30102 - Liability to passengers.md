@@ -2,7 +2,7 @@
 
 (a)
 
-Liability.—The owner and master of a vessel, and the vessel, are liable for personal injuryto a passenger or damage to a passenger's baggage caused by—
+Liability.—The owner and master of a vessel, and the vessel, are liable for personal injury to a passenger or damage to a passenger's baggage caused by—
 
 &emsp;(1) a neglect or failure to comply with part B or F of subtitle II of this title; or
 

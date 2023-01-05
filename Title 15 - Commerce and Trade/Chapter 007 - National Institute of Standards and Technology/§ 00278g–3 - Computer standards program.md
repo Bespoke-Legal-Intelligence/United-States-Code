@@ -6,7 +6,7 @@ The Institute shall—
 
 &emsp;(1) have the mission of developing standards, guidelines, and associated methods and techniques for information systems;
 
-&emsp;(2) develop standards and guidelines, including minimum requirements, for information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency, other than national security systems (as defined in section 3552(b)(5) <sup>1</sup> of title 44);
+&emsp;(2) develop standards and guidelines, including minimum requirements, for information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency, other than national security systems (as defined in section 3552(b)(6) of title 44);
 
 &emsp;(3) develop standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems;
 
@@ -24,9 +24,11 @@ The standards and guidelines required by subsection (a) shall include, at a mini
 
 &emsp;(C) minimum information security requirements for information and information systems in each such category;
 
-&emsp;(2) a definition of and guidelines concerning detection and handling of information security incidents; and
+&emsp;(2) a definition of and guidelines concerning detection and handling of information security incidents;
 
-&emsp;(3) guidelines developed in coordination with the National Security Agency for identifying an information system as a national security system consistent with applicable requirements for national security systems, issued in accordance with law and as directed by the President.
+&emsp;(3) guidelines developed in coordination with the National Security Agency for identifying an information system as a national security system consistent with applicable requirements for national security systems, issued in accordance with law and as directed by the President; and
+
+&emsp;(4) performance standards and guidelines for high risk biometric identification systems, including facial recognition systems, accounting for various use cases, types of biometric identification systems, and relevant operational conditions.
 
 #### (c) Development of standards and guidelines
 
@@ -40,11 +42,7 @@ In developing standards and guidelines required by subsections (a) and (b), the 
 
 &emsp;(2) provide the public with an opportunity to comment on proposed standards and guidelines;
 
-&emsp;(3) submit to the Director of the Office of Management and Budget for promulgation under section 11331 of title 40—
-
-&emsp;&emsp;(A) standards, as required under subsection (b)(1)(A), no later than 12 months after November 25, 2002; and
-
-&emsp;&emsp;(B) minimum information security requirements for each category, as required under subsection (b)(1)(C), no later than 36 months after November 25, 2002;
+&emsp;(3) submit such standards and guidelines to the Secretary of Commerce for promulgation under section 11331 of title 40;
 
 &emsp;(4) issue guidelines as required under subsection (b)(1)(B), no later than 18 months after November 25, 2002;
 
@@ -58,7 +56,7 @@ In developing standards and guidelines required by subsections (a) and (b), the 
 
 The Institute shall—
 
-&emsp;(1) submit standards developed pursuant to subsection (a), along with recommendations as to the extent to which these should be made compulsory and binding, to the Director of the Office of Management and Budget for promulgation under section 11331 of title 40;
+&emsp;(1) submit standards developed pursuant to subsection (a), along with recommendations as to the extent to which these should be made compulsory and binding, to the Secretary of Commerce for promulgation under section 11331 of title 40;
 
 &emsp;(2) provide assistance to agencies regarding—
 
@@ -72,7 +70,7 @@ The Institute shall—
 
 &emsp;&emsp;(A) to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;
 
-&emsp;&emsp;(B) to review and determine prevalent information security challenges and deficiencies identified by agencies or the Institute, including any challenges or deficiencies described in any of the annual reports under section 3553 or 3554 of title 44,and in any of the reports and the independent evaluations under section 3555 of that title, that may undermine the effectiveness of agency information security programs and practices; and
+&emsp;&emsp;(B) to review and determine prevalent information security challenges and deficiencies identified by agencies or the Institute, including any challenges or deficiencies described in any of the annual reports under section 3553 or 3554 of title 44, and in any of the reports and the independent evaluations under section 3555 of that title, that may undermine the effectiveness of agency information security programs and practices; and
 
 &emsp;&emsp;(C) to evaluate the effectiveness and sufficiency of, and challenges to, Federal agencies' implementation of standards and guidelines developed under this section and policies and standards promulgated under section 11331 of title 40;
 
@@ -84,7 +82,7 @@ The Institute shall—
 
 &emsp;(7) periodically assess the effectiveness of standards and guidelines developed under this section and undertake revisions as appropriate;
 
-&emsp;(8) solicit and consider the recommendations of the Information Security and Privacy Advisory Board, established by section 278g–4 of this title, regarding standards and guidelines developed under subsection (a) and submit such recommendations to the Director of the Office of Management and Budget with such standards submitted to the Director; and
+&emsp;(8) solicit and consider the recommendations of the Information Security and Privacy Advisory Board, established by section 278g–4 of this title, regarding standards and guidelines developed under subsection (a) and submit such recommendations to the Secretary of Commerce with such standards submitted to the Secretary; and
 
 &emsp;(9) prepare an annual public report on activities undertaken in the previous year, and planned for the coming year, to carry out responsibilities under this section.
 
@@ -110,27 +108,37 @@ As used in this section—
 
 &emsp;(1) the term "agency" has the same meaning as provided in section 3502(1) of title 44;
 
-&emsp;(2) the term "information security" has the same meaning as provided in section 3552(b)(2) <sup>2</sup> of such title;
+&emsp;(2) the term "information security" has the same meaning as provided in section 3552(b)(2) <sup>1</sup> of such title;
 
 &emsp;(3) the term "information system" has the same meaning as provided in section 3502(8) of such title;
 
 &emsp;(4) the term "information technology" has the same meaning as provided in section 11101 of title 40; and
 
-&emsp;(5) the term "national security system" has the same meaning as provided in section 3552(b)(5) <sup>1</sup> of such title.<sup>3</sup>
+&emsp;(5) the term "national security system" has the same meaning as provided in section 3552(b)(5) <sup>2</sup> of such title.<sup>3</sup>
 
-(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–274, title II, §204, Dec. 18, 2014, 128 Stat. 2980; Pub. L. 113–283, §2(e)(4), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 114–329, title I, §104(b)(3), Jan. 6, 2017, 130 Stat. 2976; Pub. L. 116–283, div. H, title XCIV, §9402(a), Jan. 1, 2021, 134 Stat. 4810.)
+(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–274, title II, §204, Dec. 18, 2014, 128 Stat. 2980; Pub. L. 113–283, §2(e)(4), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 114–329, title I, §104(b)(3), Jan. 6, 2017, 130 Stat. 2976; Pub. L. 116–283, div. H, title XCIV, §9402(a), Jan. 1, 2021, 134 Stat. 4810; Pub. L. 117–167, div. B, title II, §§10227, 10246(a)(2), (g), Aug. 9, 2022, 136 Stat. 1481, 1491, 1494.)
 
 #### <b>Editorial Notes</b>
 
 #### Codification
 
-November 25, 2002, referred to in subsec. (c)(3) and (4), was in the original "the date of the enactment of this section" in subsec. (c)(3) and "the date of the enactment of this Act" in subsec. (c)(4), which were translated as meaning the date of enactment of Pub. L. 107–296, which enacted the text of this section, to reflect the probable intent of Congress.
+November 25, 2002, referred to in subsec. (c)(4), was in the original "the date of the enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 107–296, which enacted the text of this section, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
 A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–167, §10246(g), substituted "section 3552(b)(6) of title 44" for "section 3552(b)(5) of title 44".
+
+Subsec. (b)(4). Pub. L. 117–167, §10227, added par. (4).
+
+Subsec. (c)(3). Pub. L. 117–167, §10246(a)(2)(A), amended par. (3) generally. Prior to amendment, par. (3) required Institute to submit standards and minimum information security requirements to Director of Office of Management and Budget for promulgation under section 11331 of title 40.
+
+Subsec. (d)(1). Pub. L. 117–167, §10246(a)(2)(B)(i), substituted "Secretary of Commerce" for "Director of the Office of Management and Budget".
+
+Subsec. (d)(8). Pub. L. 117–167, §10246(a)(2)(B)(ii), which directed the substitution of "Secretary of Commerce with such standards submitted to the Secretary" for "Director of Management and Budget with such standards submitted to the Director" was executed by making the substitution for "Director of the Office of Management and Budget with such standards submitted to the Director" to reflect the probable intent of Congress.
 
 <b>2021</b>—Subsec. (a)(5). Pub. L. 116–283 added par. (5).
 
@@ -342,7 +350,7 @@ Subsecs. (e), (f). Pub. L. 107–305, §§9, 10, added subsecs. (e) and (f).
 
 Subsec. (a)(4). Pub. L. 104–106, §5607(a)(1)(B), substituted "section 1441 of title 40" for "section 759(d) of title 40".
 
-Subsec. (b)(2). Pub. L. 104–106, §5607(a)(2)(A), (C), redesignated par. (3) as (2) and struck out former par. (2)which read as follows: "to make recommendations, as appropriate, to the Administrator of General Services on policies and regulations proposed pursuant to section 1441 of title 40;".
+Subsec. (b)(2). Pub. L. 104–106, §5607(a)(2)(A), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "to make recommendations, as appropriate, to the Administrator of General Services on policies and regulations proposed pursuant to section 1441 of title 40;".
 
 Subsec. (b)(3). Pub. L. 104–106, §5607(a)(2)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
@@ -372,9 +380,9 @@ Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see secti
 
 Pub. L. 116–283, div. H, title XCIV, §9402(b), Jan. 1, 2021, 134 Stat. 4810, provided that: "Not later than three years after the date of the enactment of this Act \[Jan. 1, 2021\] and pursuant to section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3), the Director of the National Institute of Standards and Technology shall publish standards and guidelines for improving cybersecurity awareness of employees and contractors of Federal agencies."
 
-<i><sup>1</sup></i><i> So in original. Probably should be "3552(b)(6)".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "3552(b)(3)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be "3552(b)(3)".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "3552(b)(6)".</i>
 
 <i><sup>3</sup></i><i> So in original. "Such title" probably means title 44.</i>
 

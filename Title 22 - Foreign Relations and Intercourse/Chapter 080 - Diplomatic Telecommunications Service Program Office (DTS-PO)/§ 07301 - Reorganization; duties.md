@@ -14,7 +14,7 @@ The duties of the DTS–PO include implementing a program for the establishment 
 
 #### References in Text
 
-Title V of Public Law 102–140, referred to in subsec. (a), is Pub. L. 102–140, title V, Oct. 28, 1991, 105 Stat. 816, known as the Department of State and Related Agencies Appropriations Act, 1992, which enacted provisions listed in a table under section 269a of this title. For complete classification of title V to the Code, see Tables.
+Title V of Public Law 102–140, referred to in subsec. (a), is Pub. L. 102–140, title V, Oct. 28, 1991, 105 Stat. 816, known as the Department of State and Related Agencies Appropriations Act, 1992, which enacted provisionslisted in a table under section 269a of this title. For complete classification of title V to the Code, see Tables.
 
 #### Prior Provisions
 

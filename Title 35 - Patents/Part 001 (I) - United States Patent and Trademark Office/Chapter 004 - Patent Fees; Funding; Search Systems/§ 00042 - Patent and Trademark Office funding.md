@@ -46,7 +46,7 @@ Section 31 of the Trademark Act of 1946, referred to in subsec. (c)(3)(B), is cl
 
 Subsec. (c)(3)(B). Pub. L. 112–274, §1(j)(2), substituted "a proportionate share of the administrative costs of the Office" for "a share of the administrative costs of the Office relating to trademarks".
 
-<b>2011</b>—Subsec. (c). Pub. L. 112–29 designated existing provisions as par. (1), substituted "shall, subject to paragraph (3), be available" for "shall be available", struck out at end "All fees available to the Director under section 31 of the Trademark Act of 1946 shall be used only for the processing of trademark registrations and for other activities, services, and materials relating to trademarks and to cover a proportionate share of the administrative costs of the Patent and Trademark Office.", and added pars. (2) and (3).
+<b>2011</b>—Subsec. (c). Pub. L. 112–29 designated existing provisions as par. (1), substituted "shall, subject to paragraph (3), be available" for "shall be available", struck out at end "All fees available to the Director under section 31 of the Trademark Act of 1946 shall be used only for the processing of trademark registrations and for other activities, services, and materials relating to trademarks and to cover a proportionate share ofthe administrative costs of the Patent and Trademark Office.", and added pars. (2) and (3).
 
 <b>2002</b>—Subsecs. (a), (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 

@@ -134,7 +134,7 @@ Limits on local educational agency awards.—For the purposes of making an award
 
 &emsp;"(2)
 
-Adjustments to state allocations.—In determining grant amounts for each State educational agency under section 5221(a)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7351(a)(2)) for each fiscal year during the period described in subsection (c), the Secretary of Education shall reduce the amount that the State educational agency would otherwise receive by the combined amount of any reductions in grant awards required under paragraph (1) for such year for the local educational agencies described in subsection (a)(2) that are served by the State educational agency.
+Adjustments to state allocations.—In determining grant amounts for each State educational agency under section 5221(a)(2) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7351(a)(2)) for each fiscal year during the period described in subsection (c), the Secretary of Education shall reduce the amount that the State educational agencywould otherwise receive by the combined amount of any reductions in grant awards required under paragraph (1) for such year for the local educational agencies described in subsection (a)(2) that are served by the State educational agency.
 
 "(c)
 

@@ -8,7 +8,7 @@ Upon the request of the Secretary of Commerce, the Secretary of a military depar
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–513 substituted "of members of the armed forces to National Oceanic and Atmospheric" for"to Environmental Science Services" in section catchline, and substituted "National Oceanic and Atmospheric" for "Environmental Science Services" in text.
+<b>1980</b>—Pub. L. 96–513 substituted "of members of the armed forces to National Oceanic and Atmospheric" for "to Environmental Science Services" in section catchline, and substituted "National Oceanic and Atmospheric" for "Environmental Science Services" in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

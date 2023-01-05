@@ -28,5 +28,5 @@ Section 403(b) of Pub. L. 97–253, as amended by Pub. L. 98–21, title I, §11
 
 "(1) Except as provided in paragraph (2), the amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to amounts payable for periods beginning after May 31, 1983.
 
-"(2) In the cases of individuals to whom pension is payable under sections 521, 541, and 542 \[now 1521, 1541, and 1542\] of title 38, United States Code, the amendment made by subsection (a)(1) shall take effect on the first day after May 31, 1983, that an increase is made inmaximum annual rates of pension pursuant to section 3112 \[now 5312\] of title 38, United States Code."
+"(2) In the cases of individuals to whom pension is payable under sections 521, 541, and 542 \[now 1521, 1541, and 1542\] of title 38, United States Code, the amendment made by subsection (a)(1) shall take effect on the first day after May 31, 1983, that an increase is made in maximum annual rates of pension pursuant to section 3112 \[now 5312\] of title 38, United States Code."
 

@@ -22,13 +22,13 @@ As used in this chapter—
 
 (j) The term "Federal Trade Commission Act" means the Act of Congress entitled "An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes", approved September 26, 1914, as amended \[15 U.S.C. 41 et seq.\].
 
-(June 30, 1953, ch. 164, §2, 67 Stat. 111; Pub. L. 90–189, §1, Dec. 14, 1967, 81 Stat. 568; Pub. L.110–314, title II, §204(c)(2)(A), Aug. 14, 2008, 122 Stat. 3042.)
+(June 30, 1953, ch. 164, §2, 67 Stat. 111; Pub. L. 90–189, §1, Dec. 14, 1967, 81 Stat. 568; Pub. L. 110–314, title II, §204(c)(2)(A), Aug. 14, 2008, 122 Stat. 3042.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in par. (j), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in par. (j), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Amendments
 

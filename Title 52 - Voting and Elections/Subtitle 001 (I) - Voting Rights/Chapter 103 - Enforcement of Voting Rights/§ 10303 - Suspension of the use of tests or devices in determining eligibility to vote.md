@@ -24,7 +24,7 @@
 
 (2) To assist the court in determining whether to issue a declaratory judgment under this subsection, the plaintiff shall present evidence of minority participation, including evidence of the levels of minority group registration and voting, changes in such levels over time, and disparities between minority-group and non-minority-group participation.
 
-(3) No declaratory judgment shall issue under this subsection with respect to such State or political subdivision if such plaintiff and governmental units within its territory have, during the period beginning ten years before the date the judgment is issued, engaged in violations of any provision of the Constitution or laws of the United States or any State or political subdivision with respect to discrimination in voting on account of race or color or (in the case of a State or subdivision seeking a declaratory judgment under the second sentence of this subsection) in contravention of the guarantees of subsection (f)(2) unless the plaintiff establishes that any such violations were trivial, were promptly corrected, and were not repeated.
+(3) No declaratory judgment shall issue under this subsection with respect to such State or political subdivision if such plaintiff and governmental units within its territory have, during the period beginning ten years before the date the judgment is issued, engaged in violations ofany provision of the Constitution or laws of the United States or any State or political subdivision with respect to discrimination in voting on account of race or color or (in the case of a State or subdivision seeking a declaratory judgment under the second sentence of this subsection) in contravention of the guarantees of subsection (f)(2) unless the plaintiff establishes that any such violations were trivial, were promptly corrected, and were not repeated.
 
 (4) The State or political subdivision bringing such action shall publicize the intended commencement and any proposed settlement of such action in the media serving such State or political subdivision and in appropriate United States post offices. Any aggrieved party may as of right intervene at any stage in such action.
 
@@ -46,7 +46,7 @@ A determination or certification of the Attorney General or of the Director of t
 
 #### (c) "Test or device" defined
 
-The phrase "test or device" shall mean any requirement that a person as a prerequisite for voting or registration for voting (1) demonstrate the ability to read, write, understand, or interpret any matter, (2) demonstrate any educational achievement or his knowledge of any particular subject, (3) possess good moral character, or (4) prove his qualifications by the voucher of registered voters or members of any other class.
+The phrase "test or device" shall mean any requirement that a person as a prerequisite for voting or registration for voting (1) demonstratethe ability to read, write, understand, or interpret any matter, (2) demonstrate any educational achievement or his knowledge of any particular subject, (3) possess good moral character, or (4) prove his qualifications by the voucher of registered voters or members of any other class.
 
 #### (d) Required frequency, continuation and probable recurrence of incidents of denial or abridgement to constitute forbidden use of tests or devices
 
@@ -82,7 +82,7 @@ Section was formerly classified to section 1973b of Title 42, The Public Health 
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, formerly classified to section 1973b of Title 42, The Public Health and Welfare, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, formerly classified to section 1973b of Title 42, The Public Health and Welfare, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 

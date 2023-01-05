@@ -16,7 +16,7 @@ There is jurisdiction over an offense under this section if—
 
 &emsp;(4) the offense or the prohibited drug activity occurs in whole or in part outside of the United States (including on the high seas), and a perpetrator of the offense or the prohibited drug activity is a national of the United States or a legal entity organized under the laws of the United States (including any of its States, districts, commonwealths, territories, or possessions); or
 
-&emsp;(5) after the conduct required for the offense occurs an offender is brought into or found in the United States, even if the conduct required for the offense occurs outside the United States.
+&emsp;(5) after the conduct required for the offense occurs an offender is brought into or found inthe United States, even if the conduct required for the offense occurs outside the United States.
 
 #### (c) Proof requirements
 

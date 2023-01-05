@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;To be eligible to receive a subgrant under this section, a local educational agency shall submit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require.
+&emsp;To be eligible to receive a subgrant under this section, a local educational agency shallsubmit an application to the State educational agency at such time, in such manner, and containing such information as the State educational agency may reasonably require.
 
 #### (2) Contents of application
 

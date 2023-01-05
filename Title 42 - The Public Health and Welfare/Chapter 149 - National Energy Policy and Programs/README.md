@@ -642,6 +642,7 @@
 | [16514\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016514%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [16515\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016515%20-%20Limitation%20on%20commitments%20to%20guarantee%20loans.md) | Limitation on commitments to guarantee loans. |
 | [16516\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016516%20-%20Omitted.md) | Omitted. |
+| [16517\.](Subchapter%20015%20%28XV%29%20-%20Incentives%20for%20Innovative%20Technologies/%C2%A7%2016517%20-%20Energy%20infrastructure%20reinvestment%20financing.md) | Energy infrastructure reinvestment financing. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

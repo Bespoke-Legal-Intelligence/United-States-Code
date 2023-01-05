@@ -1,6 +1,6 @@
 ### §531. Original appointments of commissioned officers
 
-(a)(1) Original appointments in the grades of second lieutenant, first lieutenant, and captain in the Regular Army, Regular Air Force, and Regular Marine Corps in the grades of ensign, lieutenant (junior grade), and lieutenant in theRegular Navy, and in the equivalent grades in the Regular Space Force shall be made by the President alone.
+(a)(1) Original appointments in the grades of second lieutenant, first lieutenant, and captain in the Regular Army, Regular Air Force, and Regular Marine Corps in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy, and in the equivalent grades in the Regular Space Force shall be made by the President alone.
 
 (2) Original appointments in the grades of major, lieutenant colonel, and colonel in the Regular Army, Regular Air Force, and Regular Marine Corps in the grades of lieutenant commander, commander, and captain in the Regular Navy, and in the equivalent grades in the Regular Space Force shall be made by the President, by and with the advice and consent of the Senate.
 
@@ -68,7 +68,7 @@ Ex. Ord. No. 13384, July 27, 2005, 70 F.R. 43739, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Assignment of Functions to the Secretary of Defense</i>. The Secretary of Defense shall perform thefunctions of the President under the following provisions of title 10, United States Code:
+Section 1. <i>Assignment of Functions to the Secretary of Defense</i>. The Secretary of Defense shall perform the functions of the President under the following provisions of title 10, United States Code:
 
 (a) subsection 531(a)(1); and
 

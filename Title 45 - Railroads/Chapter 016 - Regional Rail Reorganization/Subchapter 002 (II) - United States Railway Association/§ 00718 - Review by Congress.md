@@ -6,7 +6,7 @@ The Board of Directors of the Association shall deliver the final system plan ad
 
 #### (b) Revised plan
 
-If either the House or the Senate passes a resolution of disapproval under subsection (a) of this section, the Association, with the cooperation and assistance of the Secretary and the Office, shall prepare, determine, and adopt a revised final system plan. Each such revised plan shall be submitted to Congress for review pursuant to subsection (a) of this section.
+If either the House or the Senate passes a resolution of disapproval under subsection (a) of this section, the Association, with the cooperation and assistance of the Secretary and the Office,shall prepare, determine, and adopt a revised final system plan. Each such revised plan shall be submitted to Congress for review pursuant to subsection (a) of this section.
 
 #### (c) Computation
 
@@ -54,7 +54,7 @@ Section 778 of this title, referred to in subsec. (d)(3)(D), was repealed by Pub
 
 #### Change of Name
 
-Committee on Interstate and Foreign Commerce of the House of Representatives changed to Committee onEnergy and Commerce immediately prior to noon on Jan. 3, 1981, by House Resolution No. 549, Ninety-sixth Congress, Mar. 25, 1980. Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives, in case of provisions of law relating to railroads, railway labor, or railroad retirement and unemployment, by section 1(c)(1) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interstate and Foreign Commerce of the House of Representatives changed to Committee on Energy and Commerce immediately prior to noon on Jan. 3, 1981, by House Resolution No. 549, Ninety-sixth Congress, Mar. 25, 1980. Committee on Energy and Commerce of House of Representatives treated as referringto Committee on Transportation and Infrastructure of House of Representatives, in case of provisions of law relating to railroads, railway labor, or railroad retirement and unemployment, by section 1(c)(1) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 Committee on Commerce of the Senate abolished and replaced by Committee on Commerce, Science, and Transportation of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 

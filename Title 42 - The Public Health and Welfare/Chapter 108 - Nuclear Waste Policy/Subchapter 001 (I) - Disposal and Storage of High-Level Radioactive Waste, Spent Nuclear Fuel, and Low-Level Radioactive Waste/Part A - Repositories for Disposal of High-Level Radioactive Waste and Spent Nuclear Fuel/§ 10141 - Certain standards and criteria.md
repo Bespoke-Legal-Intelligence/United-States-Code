@@ -14,7 +14,7 @@ Not later than 1 year after January 7, 1983, the Administrator, pursuant to auth
 
 &emsp;(iii) applications for authorization for closure and decommissioning of such repositories.
 
-(B) Such criteria shall provide for the use of a system of multiple barriers in the design of the repository and shall include such restrictions on the retrievability of the solidified high-level radioactive waste and spent fuel emplaced in the repository as the Commission deems appropriate.
+(B) Such criteria shall provide for the use of a system of multiple barriers in the design of therepository and shall include such restrictions on the retrievability of the solidified high-level radioactive waste and spent fuel emplaced in the repository as the Commission deems appropriate.
 
 (C) Such requirements and criteria shall not be inconsistent with any comparable standards promulgated by the Administrator under subsection (a).
 
@@ -32,7 +32,7 @@ The promulgation of standards or criteria in accordance with the provisions of t
 
 The Atomic Energy Act of 1954, referred to in subsec. (b)(1)(A), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-The Energy Reorganization Act of 1974, referred to in subsec. (b)(1)(A), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Energy Reorganization Act of 1974, referred to in subsec. (b)(1)(A), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

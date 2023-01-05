@@ -94,7 +94,7 @@ Prior sections 5111 and 5112 were repealed by Pub. L. 89–718, §34(a), Nov. 2,
 
 Section 5111, acts Aug. 10, 1956, ch. 1041, 70A Stat. 284; Sept. 7, 1962, Pub. L. 87–649, §14(c)(14), 76 Stat. 501, created an Office of Naval Material, established position of Chief of Naval Material, and set out powers and duties of Chief of Naval Materials.
 
-Section 5112, act Aug. 10, 1956, ch. 1041, 70A Stat. 284, provided for detailing of an officer as Vice Chief ofNaval Material to serve in event of absence or disability of Chief of Naval Material.
+Section 5112, act Aug. 10, 1956, ch. 1041, 70A Stat. 284, provided for detailing of an officer as Vice Chief of Naval Material to serve in event of absence or disability of Chief of Naval Material.
 
 Prior sections 5131 and 5132 were renumbered sections 8071 and 8072 of this title, respectively.
 
@@ -110,7 +110,7 @@ Prior sections 5137 and 5138 were renumbered sections 8077 and 8088 of this titl
 
 A prior section 5139 was renumbered section 8079 of this title.
 
-Another prior section 5139, acts Aug. 10, 1956, ch. 1041, 70A Stat. 287; Sept. 7, 1962, Pub. L. 87–649, §6(c)(1), 76 Stat. 494, established position of Chief of Medical Service Corps within Bureau of Medicine and Surgery, prior to repeal by Pub. L. 96–513, title III, §352(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2902, 2955, eff. Sept. 15, 1981.
+Another prior section 5139, acts Aug. 10, 1956, ch. 1041, 70A Stat. 287; Sept. 7, 1962, Pub. L. 87–649, §6(c)(1), 76Stat. 494, established position of Chief of Medical Service Corps within Bureau of Medicine and Surgery, prior to repeal by Pub. L. 96–513, title III, §352(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2902, 2955, eff. Sept. 15, 1981.
 
 A prior section 5140, acts Aug. 10 1956, ch. 1041, 70A Stat. 287; Aug. 21, 1957, Pub. L. 85–155, title II, §201(23), 71 Stat. 385; Sept. 7, 1962, Pub. L. 87–649, §6(c)(2), 76 Stat. 494; Sept. 30, 1966, Pub. L. 89–609, §1(6), 80 Stat. 853; Nov. 8, 1967, Pub. L. 90–130, §1(14)(A), 81 Stat. 376, established position of Director of Nurse Corps within Bureau of Medicine and Surgery, prior to repeal by Pub. L. 96–513, title III, §352(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2902, 2955, effective Sept. 15, 1981.
 
@@ -168,7 +168,7 @@ Prior sections 5231 to 5234 were repealed by Pub. L. 96–513, title III, §331,
 
 Section 5231, acts Aug. 10, 1956, ch. 1041, 70A Stat. 294; July 30, 1977, Pub. L. 95–79, title VIII, §811(b)(1), (2), 91 Stat. 336; Oct. 20, 1978, Pub. L. 95–485, title VIII, §818(a), 92 Stat. 1626, related to designation by President of officers on active list of Navy above the grade of captain and, in time of war or national emergency, above the grade of commander for fleet commands and other high positions. See section 601 of this title.
 
-Section 5232, acts Aug. 10, 1956, ch. 1041, 70A Stat. 295; July 30, 1977, Pub. L. 95–79, title VIII, §811(b)(3), (4), 91Stat. 336; Oct. 20, 1978, Pub. L. 95–485, title VIII, §818(b), 92 Stat. 1626, related to designation by President of officers on active list of Marine Corps above the grade of colonel and, in time of war or national emergency, above the grade of lieutenant colonel for appropriate higher commands or performance of duty of great importance and responsibility. See section 601 of this title.
+Section 5232, acts Aug. 10, 1956, ch. 1041, 70A Stat. 295; July 30, 1977, Pub. L. 95–79, title VIII, §811(b)(3), (4), 91 Stat. 336; Oct. 20, 1978, Pub. L. 95–485, title VIII, §818(b), 92 Stat. 1626, related to designation by President of officers on active list of Marine Corps above the grade of colonel and, in time of war or national emergency, above the grade of lieutenant colonel for appropriate higher commands or performance of duty of great importance and responsibility. See section 601 of this title.
 
 Section 5233, acts Aug. 10, 1956, ch. 1041, 70A Stat. 295; May 20, 1958, Pub. L. 85–422, §6(4), 72 Stat. 129; related to retirement of an officer serving or having served in a grade to which appointed under former sections 5231 or 5232 of this title. See section 601 of this title.
 
@@ -180,7 +180,7 @@ Section 5251, act Aug. 10, 1956, ch. 1041, 70A Stat. 295, related to administrat
 
 Section 5252, act Aug. 10, 1956, ch. 1041, 70A Stat. 296, related to administration of Marine Corps Reserve by Commandant of Marine Corps and Marine Corps Reserve Policy Board. See sections 10109 and 10304 of this title.
 
-Prior sections 5401 to 5409 were repealed by Pub. L. 96–513, title III, §311(a), title VII, §701, Dec. 12, 1980, 94 Stat. 2889, 2955, effective Sept. 15, 1981. See section 521 et seq. of this title.
+Prior sections 5401 to 5409 were repealed by Pub. L. 96–513, title III, §311(a), title VII, §701, Dec. 12, 1980, 94Stat. 2889, 2955, effective Sept. 15, 1981. See section 521 et seq. of this title.
 
 Section 5401, act Aug. 10, 1956, ch. 1041, 70A Stat. 297, prescribed authorized strength of Regular Navy in enlisted members.
 
@@ -212,7 +212,7 @@ Prior sections 5413 and 5414 were repealed by Pub. L. 103–337, div. A, title X
 
 Section 5413, act Aug. 10, 1956, ch. 1041, 70A Stat. 299, related to authorized strengths of Naval Reserve and Marine Corps Reserve. See section 12001(a) of this title.
 
-Section 5414, added Pub. L. 85–861, §1(110)(A), Sept. 2, 1958, 72 Stat. 1490; amended Pub. L. 86–559, §1(33), (34), June 30, 1960, 74 Stat. 273; Pub. L. 96–513, title V, §513(8)(B), Dec. 12, 1980, 94 Stat. 2931; Pub. L. 102–190, div. A, title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1506, related to authorized strength of Naval Reserve and Marine Corps Reserve in officers in active status in grades above chief warrant officer, W–5. See section 12003 of this title.
+Section 5414, added Pub. L. 85–861, §1(110)(A), Sept. 2, 1958, 72 Stat. 1490; amended Pub. L. 86–559, §1(33), (34), June 30, 1960, 74 Stat. 273; Pub. L. 96–513, title V, §513(8)(B), Dec. 12, 1980, 94 Stat. 2931; Pub. L. 102–190, div. A, title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1506, related to authorized strength of Naval Reserve and Marine Corps Reserve in officers in active status in grades above chief warrant officer, W–⁠5. See section 12003 of this title.
 
 Prior sections 5415 to 5417 were repealed by Pub. L. 96–513, title III, §§311(a), 312, Dec. 12, 1980, 94 Stat. 2889, 2955, effective Sept. 15, 1981. See section 521 et seq. of this title.
 
@@ -230,7 +230,7 @@ Section 5442, acts Aug. 10, 1956, ch. 1041, 70A Stat. 300; Pub. L. 90–386, §1
 
 Section 5443, acts Aug. 10, 1956, ch. 1041, 70A Stat. 302; Aug. 3, 1961, Pub. L. 87–123, §5(6), 75 Stat. 265; Nov. 2, 1966, Pub. L. 89–731, §1, 80 Stat. 1160; Dec. 12, 1980, Pub. L. 96–513, title III, §313(c), 94 Stat. 2891, related to number of officers in Marine Corps on active duty who may serve in grades of brigadier general and major general.
 
-Section 5444, acts Aug. 10, 1956, ch. 1041, 70A Stat. 304; Aug. 21, 1957, Pub. L. 85–155, title II, §201(1)–(3), 71 Stat. 381; Nov. 8, 1967, Pub. L. 90–130, §1(17)(A), (B), 81 Stat. 376; Dec. 12, 1980, Pub. L. 96–513, title III, §302, title V, §503(19), 94 Stat. 2888, 2912; July 10, 1981, Pub. L. 97–22, §§6(b), 10(a)(3), 95 Stat. 130, 136; Dec. 1, 1981, Pub. L. 97–86, title IV, §405(b)(1)–(3), (7)(A), 95 Stat. 1105, 1106;Nov. 8, 1985, Pub. L. 99–145, title V, §514(b)(1)–(3), (7)(A), 99 Stat. 628, 629, related to total number of officers who may serve on active duty in Navy in grades of rear admiral (lower half) and rear admiral in staff corps.
+Section 5444, acts Aug. 10, 1956, ch. 1041, 70A Stat. 304; Aug. 21, 1957, Pub. L. 85–155, title II, §201(1)–(3), 71 Stat. 381; Nov. 8, 1967, Pub. L. 90–130, §1(17)(A), (B), 81 Stat. 376; Dec. 12, 1980, Pub. L. 96–513, title III, §302, title V, §503(19), 94 Stat. 2888, 2912; July 10, 1981, Pub. L. 97–22, §§6(b), 10(a)(3), 95 Stat. 130, 136; Dec. 1, 1981, Pub. L. 97–86, title IV, §405(b)(1)–(3), (7)(A), 95 Stat. 1105, 1106; Nov. 8, 1985, Pub. L. 99–145, title V, §514(b)(1)–(3), (7)(A), 99 Stat. 628, 629, related to total number of officers who may serve on active duty in Navy in grades of rear admiral (lower half) and rear admiral in staff corps.
 
 A prior section 5445, act Aug. 10, 1956, ch. 1041, 70A Stat. 306, related to suspension of sections 5442, 5443, and 5444 of this title, prior to repeal by Pub. L. 96–513, title III, §313(d)(1), title VII, §701, Dec. 12, 1980, 94 Stat. 2892, 2955, effective Sept. 15, 1981. See section 526 of this title.
 
@@ -258,9 +258,9 @@ Prior sections 5456 to 5458 were repealed by Pub. L. 103–337, div. A, title XV
 
 Section 5456, act Aug. 10, 1956, ch. 1041, 70A Stat. 313, related to authorized strengths of Naval Reserve and Marine Corps Reserve. See section 12001(b) of this title.
 
-Section 5457, added Pub. L. 85–861, §1(113)(A), Sept. 2, 1958, 72 Stat. 1491; amended Pub. L. 86–559, §1(35), (36), June 30, 1960, 74 Stat. 273; Pub. L. 92–559, Oct. 25, 1972, 86 Stat. 1173; Pub. L. 96–107, title III, §302(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title III, §313(e), title V, §513(9)(B), Dec. 12, 1980, 94 Stat. 2892, 2931; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 101–189, div. A, title VII, §712, Nov. 29, 1989, 103 Stat. 1477; Pub. L. 102–190, div. A, title X, §1061(a)(22)(B), title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1473, 1506, related to authorized strength of Naval Reserve in officers in active status in grades above chief warrant officer, W–5. See sections 12004(a), (c), and (e)(2) and 12005(b) and (d)(2) of this title.
+Section 5457, added Pub. L. 85–861, §1(113)(A), Sept. 2, 1958, 72 Stat. 1491; amended Pub. L. 86–559, §1(35), (36), June 30, 1960, 74 Stat. 273; Pub. L. 92–559, Oct. 25, 1972, 86 Stat. 1173; Pub. L. 96–107, title III, §302(b), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title III, §313(e), title V, §513(9)(B), Dec. 12, 1980, 94 Stat. 2892, 2931; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 101–189, div. A, title VII, §712, Nov. 29, 1989, 103 Stat. 1477; Pub. L. 102–190, div. A, title X, §1061(a)(22)(B), title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1473, 1506, related to authorized strength of Naval Reserve in officers in active status in grades above chief warrant officer, W–⁠5. See sections 12004(a), (c), and (e)(2) and 12005(b) and (d)(2) of this title.
 
-Section 5458, added Pub. L. 85–861, §1(113)(A), Sept. 2, 1958, 72 Stat. 1492; amended Pub. L. 86–559, §1(37)–(39), June 30, 1960, 74 Stat. 273; Pub. L. 96–107, title III, §302(c), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title V, §513(9)(C), Dec. 12, 1980, 94 Stat. 2931; Pub. L. 102–190, div. A, title X, §1061(a)(22)(C), title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1473, 1506, related to authorized strength of Marine Corps Reserve in officers in active status in grades above chief warrant officer, W–5. See sections 12004(a), (d), (e)(2) and 12005(c), (d)(2) of this title.
+Section 5458, added Pub. L. 85–861, §1(113)(A), Sept. 2, 1958, 72 Stat. 1492; amended Pub. L. 86–559, §1(37)–(39), June 30, 1960, 74 Stat. 273; Pub. L. 96–107, title III, §302(c), Nov. 9, 1979, 93 Stat. 806; Pub. L. 96–513, title V, §513(9)(C), Dec. 12, 1980, 94 Stat. 2931; Pub. L. 102–190, div. A, title X, §1061(a)(22)(C), title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1473, 1506, related to authorized strength of Marine Corps Reserve in officers in active status in grades above chief warrant officer, W–⁠5. See sections 12004(a), (d), (e)(2) and 12005(c), (d)(2) of this title.
 
 Prior sections 5501 to 5503 were renumbered sections 8111 to 8113 of this title, respectively.
 
@@ -410,7 +410,7 @@ Section 5663, act Aug. 10, 1956, ch. 1041, 70A Stat. 335, excluded from applicat
 
 Section 5664, act Aug. 10, 1956, ch. 1041, 70A Stat. 336, related to assignment of running mates to women officers on active list of Navy appointed under section 5590 of this title in any staff corps.
 
-A prior section 5665, added Pub. L. 85–861, §1(125)(A), Sept. 2, 1958, 72 Stat. 1496; amended Pub. L. 96–513, title III, §332, Dec. 12, 1980, 94 Stat. 2897; Pub. L. 102–190, div. A, title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1506, related to running mates for Naval Reserve and Marine Corps Reserve active status officers in permanent grades above chief warrant officer, W–5, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1629(b)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14306 of this title.
+A prior section 5665, added Pub. L. 85–861, §1(125)(A), Sept. 2, 1958, 72 Stat. 1496; amended Pub. L. 96–513, title III, §332, Dec. 12, 1980, 94 Stat. 2897; Pub. L. 102–190, div. A, title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1506, related to running mates for Naval Reserve and Marine Corps Reserve active status officers in permanent grades above chief warrant officer, W–⁠5, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1629(b)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14306 of this title.
 
 A prior section 5666, act Aug. 10, 1956, ch. 1041, 70A Stat. 336, provided that appointments for limited duration would not be considered for purposes of the chapter, prior to repeal by Pub. L. 96–513, title III, §332, Dec. 12, 1980, 94 Stat. 2897, effective Sept. 15, 1981.
 
@@ -436,7 +436,7 @@ Section 5709, acts Aug. 10, 1956, ch. 1041, 70A Stat. 344; Aug. 3, 1961, Pub. L.
 
 Section 5710, act Aug. 10, 1956, ch. 1041, 70A Stat. 344, directed submission of selection board reports to either Secretary of Navy or President. See section 617 of this title.
 
-Section 5711, acts Aug. 10, 1956, ch. 1041, 70A Stat. 345; Nov. 8, 1967, Pub. L. 90–130, §1(18)(M), 81 Stat. 377; Apr. 21, 1976, Pub. L. 94–273, §2(3), 90 Stat. 375, authorized suspension of specific provisions of sections 5701 to 5710 of this title under certain circumstances by President and excluded specific categories of officers from consideration by selection boards. See section 123(a), (b) of this title.
+Section 5711, acts Aug. 10, 1956, ch. 1041, 70A Stat. 345; Nov. 8, 1967, Pub. L. 90–130, §1(18)(M), 81 Stat. 377; Apr. 21, 1976, Pub. L. 94–273, §2(3), 90 Stat. 375, authorized suspension of specific provisions of sections 5701 to 5710of this title under certain circumstances by President and excluded specific categories of officers from consideration by selection boards. See section 123(a), (b) of this title.
 
 A prior section 5721, added Pub. L. 96–513, title III, §334, Dec. 12, 1980, 94 Stat. 2897; amended Pub. L. 98–94, title IV, §403, Sept. 24, 1983, 97 Stat. 629; Pub. L. 98–525, title V, §514, Oct. 19, 1984, 98 Stat. 2522; Pub. L. 99–661, div. A, title V, §503, Nov. 14, 1986, 100 Stat. 3864; Pub. L. 100–180, div. A, title V, §501(a), Dec. 4, 1987, 101 Stat. 1085; Pub. L. 101–189, div. A, title V, §512(a), Nov. 29, 1989, 103 Stat. 1439; Pub. L. 102–484, div. A, title V, §507, Oct. 23, 1992, 106 Stat. 2405; Pub. L. 103–160, div. A, title V, §508(a), Nov. 30, 1993, 107 Stat. 1647; Pub. L. 104–106, div. A, title V, §508(a), (b), (d), Feb. 10, 1996, 110 Stat. 296, 297; Pub. L. 104–201, div. A, title V, §503, Sept. 23, 1996, 110 Stat. 2511; Pub. L. 107–314, div. A, title X, §1041(a)(20), Dec. 2, 2002, 116 Stat. 2645, related to temporary promotions of certain Navy lieutenants with critical skills, prior to repeal by Pub. L. 115–232, div. A, title V, §503(b)(1), Aug. 13, 2018, 132 Stat. 1742.
 
@@ -534,7 +534,7 @@ Section 5789, act Aug. 10, 1956, ch. 1041, 70A Stat. 367, authorized promotion o
 
 Section 5790, act Aug. 10, 1956, ch. 1041, 70A Stat. 368, authorized advancement in rank of officers of Navy or of Marine Corps by not more than 30 numbers on lineal list for conduct in battle or extraordinary heroism. See section 619 et seq. of this title.
 
-Section 5791, acts Aug. 10, 1956, ch. 1041, 70A Stat. 368; Sept. 28, 1971, Pub. L. 92–129, title VI, §603(c), 85 Stat. 362; Sept. 19, 1978, Pub. L. 95–377, §6(b), 92 Stat. 721, vested power to make appointments under former sections 5751 to 5793, except for former sections 5787 and5787d, of this title in President, by and with advice and consent of Senate. See section 624 of this title.
+Section 5791, acts Aug. 10, 1956, ch. 1041, 70A Stat. 368; Sept. 28, 1971, Pub. L. 92–129, title VI, §603(c), 85 Stat. 362; Sept. 19, 1978, Pub. L. 95–377, §6(b), 92 Stat. 721, vested power to make appointments under former sections 5751 to 5793, except for former sections 5787 and 5787d, of this title in President, by and with advice and consent of Senate. See section 624 of this title.
 
 Section 5792, acts Aug. 10 1956, ch. 1041, 70A Stat. 368; Nov. 2, 1966, Pub. L. 89–718, §4, 80 Stat. 1115, dispensed with need for an oath of office upon promotion to a higher grade in the case of an officer of the naval service who had served continuously since subscribing to the oath of office prescribed in section 3331 of title 5. See section 626 of this title.
 
@@ -544,7 +544,7 @@ Prior sections 5861 and 5862 were repealed by Pub. L. 96–513, title III, §333
 
 Section 5861, acts Aug. 10, 1956, ch. 1041, 70A Stat. 368; Sept. 2, 1958, Pub. L. 85–861, §1(129), 72 Stat. 1497, required an officer of Regular Navy or of Regular Marine Corps to pass a physical examination as prescribed by Secretary of Navy in order to qualify for promotion to a grade above ensign in Navy or second lieutenant in Marine Corps. See section 624 of this title.
 
-Section 5862, acts Aug. 10, 1956, ch. 1041, 70A Stat. 369; Sept. 2, 1958, Pub. L. 85–861, §1(131), 72 Stat. 1498, related to mental, moral, and professional qualifications required to be demonstrated by officers on active list of Navy or Marine Corps in order to be promoted to grades of lieutenant (junior grade) or above in Navy or first lieutenant or above in Marine Corps. See section 624 of this title.
+Section 5862, acts Aug. 10, 1956, ch. 1041, 70A Stat. 369; Sept. 2, 1958, Pub. L. 85–861, §1(131), 72 Stat. 1498, related to mental, moral, and professional qualifications required to be demonstrated by officers on active list of Navy or Marine Corps in order to be promoted to grades of lieutenant (junior grade) or above in Navy or firstlieutenant or above in Marine Corps. See section 624 of this title.
 
 A prior section 5863, act Aug. 10, 1956, ch. 1041, 70A Stat. 369, related to procedure before examining boards, prior to repeal by Pub. L. 85–861, §36B(14), Sept. 2, 1958, 72 Stat. 1571.
 
@@ -664,7 +664,7 @@ A prior section 6024 was renumbered section 8218 of this title.
 
 A prior section 6025, act Aug. 10, 1956, ch. 1041, 70A Stat. 377, provided qualifications to receive aviation designation of aviation pilot, prior to repeal by Pub. L. 92–168, §2(2), Nov. 24, 1971, 85 Stat. 489. See section 2003 of this title.
 
-A prior section 6026, act Aug. 10, 1956, ch. 1041, 70A Stat. 377, required officers in Supply Corps to give goodand sufficient bonds to account for all public money and property that they receive, prior to repeal by Pub. L. 92–310, title II, §204(a), June 6, 1972, 86 Stat. 202.
+A prior section 6026, act Aug. 10, 1956, ch. 1041, 70A Stat. 377, required officers in Supply Corps to give good and sufficient bonds to account for all public money and property that they receive, prior to repeal by Pub. L. 92–310, title II, §204(a), June 6, 1972, 86 Stat. 202.
 
 A prior section 6027 was renumbered section 8219 of this title.
 
@@ -750,7 +750,7 @@ A prior section 6292 was renumbered section 8317 of this title.
 
 A prior section 6293, act Aug. 10, 1956, ch. 1041, 70A Stat. 392, provided for discharges for minors enlisted in the naval service or in the Regular Navy as seamen, seamen apprentices or seamen recruits. See section 1170 of this title, prior to repeal by Pub. L. 90–235, §3(a)(2), Jan. 2, 1968, 81 Stat. 757.
 
-A prior section 6294, act Aug. 10, 1956, ch. 1041, 70A Stat. 392, authorized Secretary of Navy to terminate enlistment of and discharge any enlisted woman in Regular Navy or Regular Marine Corps, prior to repeal by Pub. L. 96–513, title III, §373(g), Dec. 12, 1980, 94 Stat. 2903, effective Sept. 15, 1981.
+A prior section 6294, act Aug. 10, 1956, ch. 1041, 70A Stat. 392, authorized Secretary of Navy to terminateenlistment of and discharge any enlisted woman in Regular Navy or Regular Marine Corps, prior to repeal by Pub. L. 96–513, title III, §373(g), Dec. 12, 1980, 94 Stat. 2903, effective Sept. 15, 1981.
 
 Prior sections 6295 to 6298 were repealed by Pub. L. 90–235, §§3(a)(2), (b)(1), 8(3), Jan. 2, 1968, 81 Stat. 757, 758, 764.
 
@@ -812,7 +812,7 @@ Section 6386, acts Aug. 10, 1956, ch. 1041, 70A Stat. 408; Apr. 21, 1976, Pub. L
 
 Section 6387, acts Aug. 10, 1956, ch. 1041, 70A Stat. 408; Aug. 11, 1959, Pub. L. 86–155, §6, 73 Stat. 337; June 30, 1960, Pub. L. 86–558, 74 Stat. 263; Oct. 13, 1964, Pub. L. 88–647, title III, §301(16), 78 Stat. 1072, related to computation of total commissioned service for regular Navy male line officers and regular Marine Corps male officers.
 
-Section 6388, acts Aug. 10, 1956, ch. 1041, 70A Stat. 409; Aug. 21, 1957, Pub. L. 85–155, title II, §201(20), 71 Stat. 385; Sept. 30, 1966, Pub. L. 89–609, §1(20), (21), 80 Stat. 853; Sept. 20, 1968, Pub. L. 90–502, §1, 82 Stat. 852; Dec. 24, 1970, Pub. L. 91–582, §1, 84 Stat. 1574, related to computation of total commissioned service for certain Regular Navy staff corps officers.
+Section 6388, acts Aug. 10, 1956, ch. 1041, 70A Stat. 409; Aug. 21, 1957, Pub. L. 85–155, title II, §201(20), 71 Stat.385; Sept. 30, 1966, Pub. L. 89–609, §1(20), (21), 80 Stat. 853; Sept. 20, 1968, Pub. L. 90–502, §1, 82 Stat. 852; Dec. 24, 1970, Pub. L. 91–582, §1, 84 Stat. 1574, related to computation of total commissioned service for certain Regular Navy staff corps officers.
 
 A prior section 6389 was renumbered section 8373 of this title.
 
@@ -820,7 +820,7 @@ A prior section 6390, acts Aug. 10, 1956, ch. 1041, 70A Stat. 410; May 20, 1958,
 
 Prior section 6391 and 6392 were repealed by Pub. L. 103–337, div. A, title XVI, §1629(b)(3), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996.
 
-Section 6391, added Pub. L. 85–861, §1(144)(B), Sept. 2, 1958, 72 Stat. 1510; amended Pub. L. 86–559, §1(47), June 30, 1960, 74 Stat. 275; Pub. L. 102–190, div. A, title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 104–106, div. A, title XV, §1501(c)(25), Feb. 10, 1996, 110 Stat. 499, related to transfer to Retired Reserve of officers in Naval Reserve or Marine Corps Reserve above chief warrant officer, W–5, on becoming 62 years of age with provisions for deferral of retirement until age 64. See section 14512(b) of this title.
+Section 6391, added Pub. L. 85–861, §1(144)(B), Sept. 2, 1958, 72 Stat. 1510; amended Pub. L. 86–559, §1(47), June 30, 1960, 74 Stat. 275; Pub. L. 102–190, div. A, title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 104–106, div. A, title XV, §1501(c)(25), Feb. 10, 1996, 110 Stat. 499, related to transfer to Retired Reserve of officers in Naval Reserve or Marine Corps Reserve above chief warrant officer, W–⁠5, on becoming 62 years of age with provisions for deferral of retirement until age 64. See section 14512(b) of this title.
 
 Section 6392, added Pub. L. 100–180, div. A, title VII, §717(b)(1), Dec. 4, 1987, 101 Stat. 1114; amended Pub. L. 101–189, div. A, title VII, §§710(b), 711(b), Nov. 29, 1989, 103 Stat. 1476, 1477, related to retention in active status of certain reserve officers. See section 14703(a)(2), (b) of this title.
 
@@ -854,7 +854,7 @@ A prior section 6403, added Pub. L. 85–861, §1(144)(E), Sept. 2, 1958, 72 Sta
 
 A prior section 6404 was renumbered section 8374 of this title.
 
-A prior section 6405, act Aug. 10, 1956, ch. 1041, 70A Stat. 415, provided that an officer of Regular Navy,other than a retired officer, who accepted an appointment in the Foreign Service was considered as having resigned from the Navy, prior to repeal by Pub. L. 90–235, §4(a)(12), Jan. 2, 1968, 81 Stat. 760. See section 973 of this title.
+A prior section 6405, act Aug. 10, 1956, ch. 1041, 70A Stat. 415, provided that an officer of Regular Navy, other than a retired officer, who accepted an appointment in the Foreign Service was considered as having resigned from the Navy, prior to repeal by Pub. L. 90–235, §4(a)(12), Jan. 2, 1968, 81 Stat. 760. See section 973 of this title.
 
 A prior section 6406, acts Aug. 10, 1956, ch. 1041, 70A Stat. 415; Pub. L. 87–649, §14c(47), Sept. 6, 1962, 76 Stat. 501, authorized Secretary of Navy to furlough any officer of Regular Navy or Regular Marine Corps, other than a retired officer, prior to repeal by Pub. L. 91–482, §1(a), Oct. 21, 1970, 84 Stat. 1082.
 
@@ -928,7 +928,7 @@ Prior sections 6970a to 6974 were renumbered sections 8470a to 8474 of this titl
 
 A prior section 6975 was renumbered section 8475 of this title.
 
-Another prior section 6975, added Pub. L. 103–337, div. A, title V, §556(b)(1), Oct. 5, 1994, 108 Stat. 2774, related to position of athletic director of Naval Academy and to administration of nonappropriated fund account for athletics program of Naval Academy, prior to repeal by Pub. L. 104–106, div. A, title V, §533(b), Feb. 10, 1996, 110Stat. 315; Pub. L. 105–85, div. A, title X, §1073(d)(1)(C), Nov. 18, 1997, 111 Stat. 1905, effective Oct. 5, 1994.
+Another prior section 6975, added Pub. L. 103–337, div. A, title V, §556(b)(1), Oct. 5, 1994, 108 Stat. 2774, related to position of athletic director of Naval Academy and to administration of nonappropriated fund account for athletics program of Naval Academy, prior to repeal by Pub. L. 104–106, div. A, title V, §533(b), Feb. 10, 1996, 110 Stat. 315; Pub. L. 105–85, div. A, title X, §1073(d)(1)(C), Nov. 18, 1997, 111 Stat. 1905, effective Oct. 5, 1994.
 
 Prior sections 6976 to 6981 were renumbered sections 8476 to 8481 of this title, respectively.
 

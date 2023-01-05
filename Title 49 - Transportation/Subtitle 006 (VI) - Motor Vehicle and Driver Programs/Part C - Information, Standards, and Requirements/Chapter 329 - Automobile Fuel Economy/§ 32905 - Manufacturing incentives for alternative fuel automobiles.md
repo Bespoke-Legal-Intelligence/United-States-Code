@@ -34,7 +34,7 @@ Electric Dual Fueled Automobiles.—
 
 &emsp;(1)
 
-In general.—At the request of the manufacturer, the Administrator may measure the fuel economy for any model of dual fueled automobile manufactured after model year 2015 that is capable of operating on electricity in addition to gasoline or diesel fuel, obtains its electricity from a source external to the vehicle, and meets the minimum driving range requirements established by the Secretary for dual fueled electric automobiles, by dividing 1.0 by the sum of—
+In general.—At the request of the manufacturer, the Administrator may measure the fuel economy for any model of dual fueled automobile manufactured after model year 2015 that is capable of operating on electricity in addition to gasoline or diesel fuel, obtains its electricity from a source external to the vehicle, and meets the minimum driving rangerequirements established by the Secretary for dual fueled electric automobiles, by dividing 1.0 by the sum of—
 
 &emsp;&emsp;(A) the percentage utilization of the model on gasoline or diesel fuel, as determined by a formula based on the model's alternative fuel range, divided by the fuel economy measured under section 32904(c); and
 

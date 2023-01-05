@@ -6,7 +6,7 @@ The Congress finds that the growth in size, scope, and numbers of employee benef
 
 #### (b) Protection of interstate commerce and beneficiaries by requiring disclosure and reporting, setting standards of conduct, etc., for fiduciaries
 
-It is hereby declared to be the policy of this chapter to protect interstate commerce and theinterests of participants in employee benefit plans and their beneficiaries, by requiring the disclosure and reporting to participants and beneficiaries of financial and other information with respect thereto, by establishing standards of conduct, responsibility, and obligation for fiduciaries of employee benefit plans, and by providing for appropriate remedies, sanctions, and ready access to the Federal courts.
+It is hereby declared to be the policy of this chapter to protect interstate commerce and the interests of participants in employee benefit plans and their beneficiaries, by requiring the disclosure and reporting to participants and beneficiaries of financial and other information with respect thereto, by establishing standards of conduct, responsibility, and obligation for fiduciaries of employee benefit plans, and by providing for appropriate remedies, sanctions, and ready access to the Federal courts.
 
 #### (c) Protection of interstate commerce, the Federal taxing power, and beneficiaries by vesting of accrued benefits, setting minimum standards of funding, requiring termination insurance
 
@@ -96,7 +96,7 @@ Requirement of Joint and Survivor Annuity and Preretirement Survivor Annuity.—
 
 &emsp;"(1)
 
-Requirement that participant have at least 1 hour of service or paid leave on or after date ofenactment.—The amendments made by sections 103 and 203 \[amending section 1055 of this title and section 401 of Title 26 and enacting section 417 of Title 26\] shall apply only in the case of participants who have at least 1 hour of service under the plan on or after the date of the enactment of this Act \[Aug. 23, 1984\] or have at least 1 hour of paid leave on or after such date of enactment.
+Requirement that participant have at least 1 hour of service or paid leave on or after date of enactment.—The amendments made by sections 103 and 203 \[amending section 1055 of this title and section 401 of Title 26 and enacting section 417 of Title 26\] shall apply only in the case of participants who have at least 1 hour of service under the plan on or after the date of the enactment of this Act \[Aug. 23, 1984\] or have at least 1 hour of paid leave on or after such date of enactment.
 
 &emsp;"(2)
 
@@ -194,7 +194,7 @@ Penalty.—If any plan fails to meet the requirements of clause (i), such plan s
 
 Responsibilities of secretary of labor.—The Secretary of Labor shall take such steps (by public announcements and otherwise) as may be necessary or appropriate to bring to public attention the provisions of this subsection.
 
-"(f) The amendments made by section 301 of this Act \[amending section 1054 of this title and sections 401 and411 of Title 26\] shall not apply to the termination of a defined benefit plan if such termination—
+"(f) The amendments made by section 301 of this Act \[amending section 1054 of this title and sections 401 and 411 of Title 26\] shall not apply to the termination of a defined benefit plan if such termination—
 
 &emsp;"(1) is pursuant to a resolution directing the termination of such plan which was adopted by the Board of Directors of a corporation on July 17, 1984, and
 
@@ -318,7 +318,7 @@ Except as otherwise provided in Section 105 of this Plan, all authority of the S
 
 #### Sec. 103. Coordination Concerning Certain Fiduciary Actions
 
-In the case of fiduciary actions which are subject to Part 4 of Subtitle B of Title I of ERISA \[29 U.S.C. 1101 et seq.\], the Secretary of the Treasury shall notify the Secretary of Labor prior to the time of commencing any proceeding to determine whether the action violates the exclusive benefit rule of subsection 401(a) of the Code \[26 U.S.C. 401(a)\], but not later than prior to issuing a preliminary notice of intent to disqualify under that rule, and the Secretary of the Treasury shall not issue a determination that a plan or trust does not satisfy the requirements of subsection 401(a) by reason of the exclusive benefit rule of subsection 401(a), unless within 90 days after the date on which the Secretary of the Treasury notifies the Secretary of Labor of pending action, the Secretary of Labor certifies that he has no objection to the disqualification or the Secretary of Labor fails to respond to the Secretary of the Treasury. The requirements of this paragraph do not apply in the case of any termination or jeopardy assessment under sections 6851 or 6861 of the Code \[26 U.S.C. 6851 or 6861\] that has been approved in advance by the Commissioner of Internal Revenue, or, as delegated, the Assistant Commissioner for Employee Plans and Exempt Organizations.
+In the case of fiduciary actions which are subject to Part 4 of Subtitle B of Title I of ERISA \[29 U.S.C. 1101 et seq.\], the Secretary of the Treasury shall notify the Secretary of Labor prior to the time of commencing any proceeding to determine whether the action violates the exclusive benefit rule of subsection 401(a) of the Code \[26 U.S.C. 401(a)\], but not later than prior to issuing a preliminary notice of intent to disqualify under that rule, and the Secretary of the Treasury shall not issue a determination that a plan or trust does not satisfy the requirements of subsection 401(a)by reason of the exclusive benefit rule of subsection 401(a), unless within 90 days after the date on which the Secretary of the Treasury notifies the Secretary of Labor of pending action, the Secretary of Labor certifies that he has no objection to the disqualification or the Secretary of Labor fails to respond to the Secretary of the Treasury. The requirements of this paragraph do not apply in the case of any termination or jeopardy assessment under sections 6851 or 6861 of the Code \[26 U.S.C. 6851 or 6861\] that has been approved in advance by the Commissioner of Internal Revenue, or, as delegated, the Assistant Commissioner for Employee Plans and Exempt Organizations.
 
 #### Sec. 104. Enforcement by the Secretary of Labor
 
@@ -358,13 +358,13 @@ The provisions of this Reorganization Plan shall become effective at such time o
 
 \[Amendment by section 108(c) of Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under section 1021 of this title.\]
 
-\[For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under section 401 of Title 26, Internal Revenue Code.\]
+\[For special rules on applicability of amendments by subtitles A (§§101–108) and B (§§111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280,set out as notes under section 401 of Title 26, Internal Revenue Code.\]
 
 #### Message of the President
 
 > To the Congress of the United States:
 
-Today I am submitting to the Congress my fourth Reorganization Plan for 1978. This proposal is designed to simplify and improve the unnecessarily complex administrative requirements of the Employee Retirement Income Security Act of 1974 (ERISA) \[see Short Title note set out under this section\]. The new plan willeliminate overlap and duplication in the administration of ERISA and help us achieve our goal of well regulated private pension plans.
+Today I am submitting to the Congress my fourth Reorganization Plan for 1978. This proposal is designed to simplify and improve the unnecessarily complex administrative requirements of the Employee Retirement Income Security Act of 1974 (ERISA) \[see Short Title note set out under this section\]. The new plan will eliminate overlap and duplication in the administration of ERISA and help us achieve our goal of well regulated private pension plans.
 
 ERISA was an essential step in the protection of worker pension rights. Its administrative provisions, however, have resulted in bureaucratic confusion and have been justifiably criticized by employers and unions alike. The biggest problem has been overlapping jurisdictional authority. Under current ERISA provisions, the Departments of Treasury and Labor both have authority to issue regulations and decisions.
 
@@ -400,7 +400,7 @@ The White House, August 10, 1978.
 
 #### Executive Order No. 12071
 
-Ex. Ord. No. 12071, July 12, 1978, 43 F.R. 30259, which established the President's Commission on Pension Policy and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §1, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12071, July 12, 1978, 43 F.R. 30259, which established the President's Commission on Pension Policy and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §1, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 12108. Effective Date of ERISA Transfers
 
@@ -412,7 +412,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12262
 
-Ex. Ord. No. 12262, Jan. 7, 1981, 46 F.R. 2313, which established the Interagency Employee Benefit Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §9, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12262, Jan. 7, 1981, 46 F.R. 2313, which established the Interagency Employee Benefit Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §9, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13847. Strengthening Retirement Security in America
 
@@ -424,7 +424,7 @@ Section 1. <i>Policy</i>. It shall be the policy of the Federal Government to ex
 
 Regulatory burdens and complexity can be costly and discourage employers, especially small businesses, from offering workplace retirement plans to their employees. Businesses are sensitive to the overall expense of setting up such plans. A recent survey by the Pew Charitable Trusts found that 71 percent of small- and medium-sized businesses that do not offer retirement plans were deterred from doing so by high costs; 37 percent cited high costs as their main reason for not offering such a plan. Federal agencies should revise or eliminate rules and regulations that impose unnecessary costs and burdens on businesses, especially small businesses, and that hinder formation of workplace retirement plans.
 
-Expanding access to multiple employer plans (MEPs), under which employees of different private-sector employers may participate in a single retirement plan, is an efficient way to reduce administrative costs of retirement plan establishment and maintenance andwould encourage more plan formation and broader availability of workplace retirement plans, especially among small employers.
+Expanding access to multiple employer plans (MEPs), under which employees of different private-sector employers may participate in a single retirement plan, is an efficient way to reduce administrative costs of retirement plan establishment and maintenance and would encourage more plan formation and broader availability of workplace retirement plans, especially among small employers.
 
 Similarly, reducing the number and complexity of employee benefit plan notices and disclosures currently required would ease regulatory burdens. The costs and potential liabilities for employers and plan fiduciaries of complying with existing disclosure requirements may discourage plan formation or maintenance. Improving the effectiveness of required notices and disclosures and reducing their cost to employers promote retirement security by expanding access to workplace retirement plans.
 

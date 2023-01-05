@@ -6,7 +6,7 @@ Except as provided in sections 4181 and 4182 of this title, this chapter may not
 
 #### (b) Obligations under repealed provisions
 
-Notwithstanding the amendments made by this subchapter, any obligation of the Secretary made under or pursuant to title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\], or section 2 of the HUD Demonstration Act of 1993 shall continue to be governed by the provisions of such Acts (as in effect before the date of the effectiveness of the amendments made by this subchapter).
+Notwithstanding the amendments made by this subchapter, any obligation of the Secretarymade under or pursuant to title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\], title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11360 et seq.\], or section 2 of the HUD Demonstration Act of 1993 shall continue to be governed by the provisions of such Acts (as in effect before the date of the effectiveness of the amendments made by this subchapter).
 
 (Pub. L. 104–330, title V, §507, Oct. 26, 1996, 110 Stat. 4045; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 109–281, §2(d)(2), Sept. 22, 2006, 120 Stat. 1181.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Except as provided in subsection (b), whoever, being an officer, director, or employee of a financial institution, makes or grants any loan or gratuity, to any examiner or assistant examiner who examines or has authority to examine such bank, branch, agency, organization, corporation, association, or institution—
+In General.—Except as provided in subsection (b), whoever, being an officer, director,or employee of a financial institution, makes or grants any loan or gratuity, to any examiner or assistant examiner who examines or has authority to examine such bank, branch, agency, organization, corporation, association, or institution—
 
 &emsp;(1) shall be fined under this title, imprisoned not more than 1 year, or both; and
 
@@ -20,7 +20,7 @@ Definitions.—In this section:
 
 Examiner.—The term "examiner" means any person—
 
-&emsp;&emsp;(A) appointed by a Federal financial institution regulatory agency or pursuant to thelaws of any State to examine a financial institution; or
+&emsp;&emsp;(A) appointed by a Federal financial institution regulatory agency or pursuant to the laws of any State to examine a financial institution; or
 
 &emsp;&emsp;(B) elected under the law of any State to conduct examinations of any financial institutions.
 

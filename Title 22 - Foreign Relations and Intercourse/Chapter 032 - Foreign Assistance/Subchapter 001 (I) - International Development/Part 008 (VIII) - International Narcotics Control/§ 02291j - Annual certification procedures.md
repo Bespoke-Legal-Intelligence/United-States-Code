@@ -92,11 +92,11 @@ Not later than November 1 of each year, the President shall notify the appropria
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (g), is section 601(b) of Pub. L. 94–329, title VI, June 30, 1976, 90 Stat. 765, which is not classified to the Code.
 
-This chapter, referred to in subsec. (h), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (h), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–177, §722(b)(1), substituted "major illicit drug producing country, majordrug-transit country, or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title" for "major illicit drug producing country or major drug-transit country".
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–177, §722(b)(1), substituted "major illicit drug producing country, major drug-transit country, or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title" for "major illicit drug producing country or major drug-transit country".
 
 Subsec. (a)(2). Pub. L. 109–177, §722(b)(2), inserted "or country identified pursuant to clause (i) or (ii) of section 2291h(a)(8)(A) of this title" after "(as determined under subsection (h))".
 
@@ -186,7 +186,7 @@ Determination of President of the United States, No. 2007–14, Feb. 28, 2007, 7
 
 Memorandum for the Secretary of State
 
-Pursuant to section 490(b)(1)(A) of the Foreign Assistance Act, I hereby determine that the top five exporting and importing countries of pseudoephedrine andephedrine in 2005 (Belgium, China, Germany, India, Indonesia, Mexico, Singapore, South Africa, South Korea, Switzerland, Taiwan, and the United Kingdom) have cooperated fully with the United States or have taken adequate steps on their own to achieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances.
+Pursuant to section 490(b)(1)(A) of the Foreign Assistance Act, I hereby determine that the top five exporting and importing countries of pseudoephedrine and ephedrine in 2005 (Belgium, China, Germany, India, Indonesia, Mexico, Singapore, South Africa, South Korea, Switzerland, Taiwan, and the United Kingdom) have cooperated fully with the United States or have taken adequate steps on their own to achieve full compliance with the goals and objectives established by the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances.
 
 You are directed to publish this determination in the Federal Register, and are authorized and directed to transmit to the Congress the report under section 722 of the Combat Methamphetamine Epidemic Act \[of 2005\].
 

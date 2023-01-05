@@ -32,7 +32,7 @@ Such regulations shall provide that—
 
 #### (c) Continuation of existing coverage
 
-Notwithstanding any provision of this section to the contrary, any bank or association that on December 24, 1980, is offering insurance coverages not authorized by this section may continue to sell such coverages for a period of notmore than one year from such date and may continue to service such coverages until their expiration.
+Notwithstanding any provision of this section to the contrary, any bank or association that on December 24, 1980, is offering insurance coverages not authorized by this section may continue to sell such coverages for a period of not more than one year from such date and may continue to service such coverages until their expiration.
 
 (Pub. L. 92–181, title IV, §4.29, as added Pub. L. 96–592, title IV, §404, Dec. 24, 1980, 94 Stat. 3448; amended Pub. L. 100–233, title IV, §422(a), Jan. 6, 1988, 101 Stat. 1655; Pub. L. 100–399, title IV, §411, Aug. 17, 1988, 102 Stat. 1003; Pub. L. 101–624, title XVIII, §1834, Nov. 28, 1990, 104 Stat. 3833.)
 

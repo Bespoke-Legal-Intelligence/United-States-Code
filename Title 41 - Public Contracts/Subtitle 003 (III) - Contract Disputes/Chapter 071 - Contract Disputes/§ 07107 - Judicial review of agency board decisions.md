@@ -22,7 +22,7 @@ Tennessee valley authority.—Notwithstanding paragraph (1), a decision of the b
 
 &emsp;(3)
 
-Review of arbitration.—An award by an arbitrator under this chapter shall be reviewed pursuant to sections 9 to 13 of title 9, exceptthat the court may set aside or limit any award that is found to violate limitations imposed by Federal statute.
+Review of arbitration.—An award by an arbitrator under this chapter shall be reviewed pursuant to sections 9 to 13 of title 9, except that the court may set aside or limit any award that is found to violate limitations imposed by Federal statute.
 
 (b)
 
@@ -122,7 +122,7 @@ In subsection (a)(2)(B), the words "in any case" are omitted as unnecessary.
 
 In subsection (d), the words "United States Court of Federal Claims" are substituted for "United States Claims Court" because of section 902(b)(1) of the Federal Courts Administration Act of 1992 (Pub. L. 102–572, 106 Stat. 4516, 28 U.S.C. 171 note).
 
-In subsection (f)(1), (3), and (4), the words "agency board" are substituted for "board of contract appeals" to eliminate unnecessary words and for consistency with the definition of "agency board" in section 7101 of the revised title.
+In subsection (f)(1), (3), and (4), the words "agency board" are substituted for "board of contract appeals" to eliminate unnecessary words and for consistencywith the definition of "agency board" in section 7101 of the revised title.
 
 In subsection (f)(1), the words "under consideration" are substituted for "at issue" to avoid potential confusion with the words "issue described in paragraph (2)".
 

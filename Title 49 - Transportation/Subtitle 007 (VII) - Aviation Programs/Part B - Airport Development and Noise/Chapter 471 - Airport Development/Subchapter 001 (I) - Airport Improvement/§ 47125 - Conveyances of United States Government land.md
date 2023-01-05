@@ -60,7 +60,7 @@ Pub. L. 112–95, title VIII, §817, Feb. 14, 2012, 126 Stat. 127, as amended by
 
 "(a)
 
-In General.—Subject to subsection (b), the Secretary of Transportation is authorized to grant to an airport, city, or county a release from any of the terms, conditions, reservations, or restrictions contained in a deed under which the United States conveyed to the airport, city, or county an interest in real property for airport purposes pursuant to section 16 of the Federal Airport Act (60 Stat. 179), section 23 of the Airport and Airway Development Act of 1970 (84 Stat. 232), or section 47125 of title 49, United States Code.
+In General.—Subject to subsection (b), the Secretary of Transportation is authorized to grant to an airport, city, or county a release from any of the terms,conditions, reservations, or restrictions contained in a deed under which the United States conveyed to the airport, city, or county an interest in real property for airport purposes pursuant to section 16 of the Federal Airport Act (60 Stat. 179), section 23 of the Airport and Airway Development Act of 1970 (84 Stat. 232), or section 47125 of title 49, United States Code.
 
 "(b)
 

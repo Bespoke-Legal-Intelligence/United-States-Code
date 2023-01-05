@@ -44,7 +44,7 @@ Medals struck under this section and sold to the Secretary of Health and Human S
 
 #### (2) Design in advance of order
 
-&emsp;Notwithstanding paragraph (1), the Secretary of the Treasury may begin designing the medal at any time after October 14, 2008, and take such other action as may be necessary to be prepared to strike such medals upon receiving the certification described in such paragraph, including preparing dies and striking test pieces.
+&emsp;Notwithstanding paragraph (1), the Secretary of the Treasury may begin designing the medal at any time after October 14, 2008, and take such other action as may be necessary to be prepared to strike such medalsupon receiving the certification described in such paragraph, including preparing dies and striking test pieces.
 
 (Pub. L. 110–413, §4, Oct. 14, 2008, 122 Stat. 4339.)
 

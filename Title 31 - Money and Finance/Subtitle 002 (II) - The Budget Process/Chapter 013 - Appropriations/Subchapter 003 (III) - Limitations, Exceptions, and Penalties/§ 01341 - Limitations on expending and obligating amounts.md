@@ -2,7 +2,7 @@
 
 (a)(1) Except as specified in this subchapter or any other provision of law, an officer or employee of the United States Government or of the District of Columbia government may not—
 
-&emsp;(A) make or authorize an expenditure or obligation exceeding an amount available in an appropriation or fund for the expenditure or obligation;
+&emsp;(A) make or authorize an expenditure or obligation exceeding an amount available in anappropriation or fund for the expenditure or obligation;
 
 &emsp;(B) involve either government in a contract or obligation for the payment of money before an appropriation is made unless authorized by law;
 

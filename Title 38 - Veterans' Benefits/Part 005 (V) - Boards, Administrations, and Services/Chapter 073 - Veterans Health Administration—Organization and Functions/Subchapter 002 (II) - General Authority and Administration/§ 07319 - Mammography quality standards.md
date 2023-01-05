@@ -18,7 +18,7 @@
 
 #### References in Text
 
-Section 354 of the Public Health Service Act, referred to in text, is section 354 of act July 1, 1944, ch. 373,which is classified to section 263b of Title 42, The Public Health and Welfare.
+Section 354 of the Public Health Service Act, referred to in text, is section 354 of act July 1, 1944, ch. 373, which is classified to section 263b of Title 42, The Public Health and Welfare.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

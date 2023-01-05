@@ -14,7 +14,7 @@ Every person who provides minimum essential coverage to an individual during a c
 
 &emsp;&emsp;(B) contains—
 
-&emsp;&emsp;&emsp;(i) the name, address and TIN of the primary insured and the name and TIN of each other individual obtaining coverage under the policy,
+&emsp;&emsp;&emsp;(i) the name, address and TIN of the primary insured and the name and TIN ofeach other individual obtaining coverage under the policy,
 
 &emsp;&emsp;&emsp;(ii) the dates during which such individual was covered under minimum essential coverage during the calendar year,
 

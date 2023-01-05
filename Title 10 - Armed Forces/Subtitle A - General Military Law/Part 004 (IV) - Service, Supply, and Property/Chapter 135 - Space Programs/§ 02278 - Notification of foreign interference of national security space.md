@@ -12,7 +12,7 @@ Notice Required.—The Commander of the United States Space Command shall, with 
 
 Notification Description.—A notification described in this subsection is a written notification that includes—
 
-&emsp;(1) the name and a brief description of the national security space capability that was impacted by an attempt by a foreign actor to disrupt, degrade, or destroy a United States national security space capability;
+&emsp;(1) the name and a brief description of the national security space capability that wasimpacted by an attempt by a foreign actor to disrupt, degrade, or destroy a United States national security space capability;
 
 &emsp;(2) a description of such attempt, including the foreign actor, the date and time of such attempt, and any related capability outage and the mission impact of such outage; and
 

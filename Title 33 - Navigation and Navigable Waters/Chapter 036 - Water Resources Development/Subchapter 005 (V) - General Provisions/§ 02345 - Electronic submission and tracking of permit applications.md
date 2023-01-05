@@ -24,7 +24,7 @@
 
 #### (3) Improving existing data systems
 
-&emsp;The Secretary shall seek to incorporate the electronic system required under paragraph (1) into existing systems and databases of the Corps of Engineers to the maximum extent practicable.
+&emsp;The Secretary shall seek to incorporate the electronic system required under paragraph (1)into existing systems and databases of the Corps of Engineers to the maximum extent practicable.
 
 #### (4) Protection of information
 
@@ -78,11 +78,11 @@ All permit decisions and jurisdictional determinations made by the Secretary sha
 
 #### (1) In general
 
-&emsp;The Secretary shall develop and implement, to the maximum extent practicable, the electronic system required under subsection (a) not later than 2 years after December 16, 2016.
+&emsp;The Secretary shall develop and implement, to the maximum extent practicable, the electronic system required under subsection (a) not later than 2 years after December 23, 2022.
 
-#### (2) Report on electronic system implementation
+#### (2) Update on electronic system implementation
 
-&emsp;Not later than 180 days after the expiration of the deadline under paragraph (1), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the measures implemented and barriers faced in carrying out this section.
+&emsp;The Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a quarterly update describing the status of the implementation of this section.
 
 #### (g) Applicability
 
@@ -92,7 +92,7 @@ The requirements described in subsections (c), (d), and (e) shall apply to permi
 
 This section shall not preclude the submission to the Secretary, acting through the Chief of Engineers, of a physical copy of a permit application or a request for a jurisdictional determination.
 
-(Pub. L. 110–114, title II, §2040, Nov. 8, 2007, 121 Stat. 1100; Pub. L. 114–322, title I, §1134(a), Dec. 16, 2016, 130 Stat. 1654.)
+(Pub. L. 110–114, title II, §2040, Nov. 8, 2007, 121 Stat. 1100; Pub. L. 114–322, title I, §1134(a), Dec. 16, 2016, 130 Stat. 1654; Pub. L. 117–263, div. H, title LXXXI, §8226, Dec. 23, 2022, 136 Stat. 3764.)
 
 #### <b>Editorial Notes</b>
 
@@ -101,6 +101,10 @@ This section shall not preclude the submission to the Secretary, acting through 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(1). Pub. L. 117–263, §8226(1), substituted "December 23, 2022" for "December 16, 2016".
+
+Subsec. (f)(2). Pub. L. 117–263, §8226(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Not later than 180 days after the expiration of the deadline under paragraph (1), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing the measures implemented and barriers faced in carrying out this section."
 
 <b>2016</b>—Pub. L. 114–322 amended section generally. Prior to amendment, section related to electronic submission of permit applications.
 

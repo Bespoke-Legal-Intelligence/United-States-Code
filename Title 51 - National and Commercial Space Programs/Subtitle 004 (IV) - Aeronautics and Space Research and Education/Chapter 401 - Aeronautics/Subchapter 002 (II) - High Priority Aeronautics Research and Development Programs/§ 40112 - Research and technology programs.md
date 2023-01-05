@@ -6,17 +6,59 @@ Supersonic Transport Research and Development.—The Administrator may establish
 
 (b)
 
-Rotorcraft and Other Runway-Independent Air Vehicles.—The Administrator may establish a rotorcraft and other runway-independent air vehicles initiative with the objective of developing and demonstrating improved safety, noise, and environmental impact in a relevant environment.
+Research and Development Initiative on Reduction of Greenhouse Gas and Noise Emissions From Aircraft.—
+
+&emsp;(1)
+
+In general.—The Administrator shall establish an initiative to research, develop, and demonstrate new technologies and concepts—
+
+&emsp;&emsp;(A) to reduce greenhouse gas emissions from aviation, including carbon dioxide, nitrogen oxides, other greenhouse gases, water vapor, black carbon and sulfate aerosols, and increased cloudiness due to contrail formation;
+
+&emsp;&emsp;(B) to reduce aviation noise emissions; and
+
+&emsp;&emsp;(C) to enable associated aircraft performance characteristics.
+
+&emsp;(2)
+
+Goals.—The goals of the initiative required by paragraph (1) shall be—
+
+&emsp;&emsp;(A) to ensure United States leadership in research and technology innovation leading to substantial reductions in aviation noise and greenhouse gas emissions;
+
+&emsp;&emsp;(B) to enhance and expand basic research, and the translation of basic research into applications, that may lead to transformational advances in reducing aviation noise and greenhouse gas emissions;
+
+&emsp;&emsp;(C) to accelerate research and development that contributes to maturing new technologies for reducing aircraft noise and greenhouse gas emissions; and
+
+&emsp;&emsp;(D) to obtain and disseminate associated testing and performance data that facilitates the incorporation of new technologies into commercial aircraft development as soon as practicable.
+
+&emsp;(3)
+
+Objectives.—The objectives of the initiative established under paragraph (1) and the goals described in paragraph (2) shall include—
+
+&emsp;&emsp;(A) as soon as practicable, a reduction of greenhouse gas emissions from new aircraft by at least 50 percent, as compared to the highest-performing aircraft technologies in service as of December 31, 2021;
+
+&emsp;&emsp;(B) noise levels from aircraft throughout all phases of flight that do not exceed ambient noise levels in the absence of flight operations in the vicinity of the flight route;
+
+&emsp;&emsp;(C) net-zero greenhouse gas emissions from aircraft by 2050; and
+
+&emsp;&emsp;(D) demonstration of new technologies developed pursuant to such initiative on—
+
+&emsp;&emsp;&emsp;(i) regional aircraft intended to enter into service by 2030; and
+
+&emsp;&emsp;&emsp;(ii) single-aisle aircraft designed to accommodate more than 125 passengers intended to enter into service by 2040.
 
 (c)
 
-Hypersonics Research.—The Administrator may establish a hypersonics research program with the objective of exploring the science and technology of hypersonic flight using air-breathing propulsion concepts, through a mix of theoretical work, basic and applied research, and development of flight research demonstration vehicles. The program may also include the transition to the hypersonic range of Mach 3 to Mach 5.
+Rotorcraft and Other Runway-Independent Air Vehicles.—The Administrator may establish a rotorcraft and other runway-independent air vehicles initiative with the objective of developing and demonstrating improved safety, noise, and environmental impact in a relevant environment.
 
 (d)
 
-Revolutionary Aeronautical Concepts.—The Administrator may establish a research program which covers a unique range of subsonic, fixed wing vehicles and propulsion concepts. This research is intended to push technology barriers beyond current subsonic technology. Propulsion concepts include advanced materials, morphing engines, hybrid engines, and fuel cells.
+Hypersonics Research.—The Administrator may establish a hypersonics research program with the objective of exploring the science and technology of hypersonic flight using air-breathing propulsion concepts, through a mix of theoretical work, basic and applied research, and development of flight research demonstration vehicles. The program may also include the transition to the hypersonic range of Mach 3 to Mach 5.
 
 (e)
+
+Revolutionary Aeronautical Concepts.—The Administrator may establish a research program which covers a unique range of subsonic, fixed wing vehicles and propulsion concepts. This research is intended to push technology barriers beyond current subsonic technology. Propulsion concepts include advanced materials, morphing engines, hybrid engines, and fuel cells.
+
+(f)
 
 Fuel Cell-Powered Aircraft Research.—
 
@@ -28,7 +70,7 @@ Objective.—The Administrator may establish a fuel cell-powered aircraft resear
 
 Approach.—The Administrator may establish a program of competitively awarded grants available to teams of researchers that may include the participation of individuals from universities, industry, and government for the conduct of this research.
 
-(f)
+(g)
 
 Mars Aircraft Research.—
 
@@ -40,7 +82,7 @@ Objective.—The Administrator may establish a Mars Aircraft project whose objec
 
 Approach.—The Administrator may establish a program of competitively awarded grants available to teams of researchers that may include the participation of individuals from universities, industry, and government for the conduct of this research.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3379.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3379; Pub. L. 117–167, div. B, title VII, §10833(a), Aug. 9, 2022, 136 Stat. 1749.)
 
 Historical and Revision Notes
 
@@ -78,7 +120,71 @@ Pub. L. 109–155, title IV, §422(b)–(g), Dec. 30, 2005, 119 Stat. 2925.
 
 42 U.S.C. 16722(g).
 
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsecs. (b) to (g). Pub. L. 117–167 added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Technology Focus Areas, Implementation, and Annual Report for the Research and Development Initiative
+
+Pub. L. 117–167, div. B, title VII, §10833(b)–(d), Aug. 9, 2022, 136 Stat. 1750, 1751, provided that:
+
+"(b)
+
+Technology Focus Areas.—In carrying out the research and development initiative established under section 40112(b) of title 51, United States Code, the Administrator \[of the National Aeronautics and Space Administration\] shall advance research, development, and demonstration projects on promising technologies such as—
+
+&emsp;"(1) advanced subsonic propulsion technology, design, and integration;
+
+&emsp;"(2) electric and hybrid-electric propulsion, including battery electric and hydrogen fuel cell electric systems;
+
+&emsp;"(3) airframe concepts and configurations;
+
+&emsp;"(4) analysis of technology options, including cost-benefit analysis of greenhouse gas and noise emissions reduction technologies;
+
+&emsp;"(5) analytical tools for system-level and system-of-systems-level modeling and integration;
+
+&emsp;"(6) airspace operations improvements;
+
+&emsp;"(7) noise emissions reduction; and
+
+&emsp;"(8) any other effort, as determined by the \[National Aeronautics and Space\] Administration, that contributes to a sustainable future for aviation.
+
+"(c)
+
+Implementation.—In implementing the initiative established under section 40112(b) of title 51, United States Code, the Administrator shall, to the extent practicable—
+
+&emsp;"(1) ensure that testing and performance data integrates the results of community acceptance surveys conducted by the Federal Aviation Administration and other relevant studies, including studies on the impacts of new noise effects from novel propulsion systems and from airspace operations changes;
+
+&emsp;"(2) provide testing and performance data on the technologies described in subsection (b) of this section to the Administrator of the Federal Aviation Administration to facilitate the work of the Federal Aviation Administration in identifying new requirements for policy, infrastructure, and administrative capacity necessary to enable the safe integration of such technologies on aircraft;
+
+&emsp;"(3) pursue partnerships with organizations, current commercial production aircraft providers, academic institutions, small businesses, and new entrants, including partnerships to advance research and development activities related to both regional aircraft and aircraft designed to accommodate more than 125 passengers;
+
+&emsp;"(4) include universities, academic institutions, and other research organizations in the partnerships described in paragraph (3);
+
+&emsp;"(5) expand basic research;
+
+&emsp;"(6) ensure equity in research sponsorship of, and partnership opportunities with, underrepresented students, faculty, and minority-serving-institutions \[sic\];
+
+&emsp;"(7) continue to coordinate with the Secretary of Energy on battery technology research;
+
+&emsp;"(8) make available the research and development carried out under the initiative established under subsection (b) of section 40112 of title 51, United States Code, to help enable an industry-wide shift toward aircraft concepts that reduce greenhouse gas emissions and aircraft noise to achieve the goals and objectives under paragraphs (2) and (3) of that subsection; and
+
+&emsp;"(9) continue to support research, development, and demonstration of aircraft concepts, including systems architecture, materials and components, integration of systems and airframe structures, human factors, airspace planning and operations, and the integration of related advanced technologies and concepts, with the goal of carrying out test flights with integrated subsystems by 2025.
+
+"(d)
+
+Annual Report.—Not later than 1 year after the date of the enactment of this Act \[Aug. 9, 2022\], and annually thereafter, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives\] a report on the progress of the efforts carried out under the initiative established under subsection (b) of section 40112 of title 51, United States Code, including—
+
+&emsp;"(1) the status of progress on such initiative;
+
+&emsp;"(2) an updated, anticipated timeframe for readiness of technologies and aircraft to be adopted by industry with the emissions reduction levels directed under that subsection; and
+
+&emsp;"(3) an identification of fundamental aeronautics research activities contributing to achieving the goals and objectives of such initiative, as described in paragraphs (2) and (3) of that subsection, and a description of any obstacles to achieving such goals and objectives."
+
+\[For definition of "minority-serving institution" as used in section 10833(b)–(d) of Pub. L. 117–167, set out above, see section 18901 of Title 42, The Public Health and Welfare.\]
 
 #### National Aero-Space Plane Program
 

@@ -50,7 +50,7 @@
 
 #### Amendments
 
-<b>2019</b>—Subsec. (c)(1)(C). Pub. L. 116–92, §733(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "six members appointed by the exofficio members of the Council designated in clauses (A) and (B)."
+<b>2019</b>—Subsec. (c)(1)(C). Pub. L. 116–92, §733(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "six members appointed by the ex officio members of the Council designated in clauses (A) and (B)."
 
 Subsec. (c)(2). Pub. L. 116–92, §733(b), substituted "except that any person" for "except that—
 

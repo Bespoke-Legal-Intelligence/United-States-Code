@@ -10,5 +10,33 @@
 
 (b) By no later than the date that is 1 year after October 30, 1990, the President shall submit to the Congress a report containing recommendations for amendments to Federal laws that are needed to bring such laws into compliance with the provisions of this chapter.
 
-(Pub. L. 101–477, title I, §106, Oct. 30, 1990, 104 Stat. 1156.)
+#### (c) Evaluation; report
+
+Not later than 1 year after January 5, 2023, the President shall—
+
+&emsp;(1) require the heads of the various Federal departments, agencies, and instrumentalities to carry out an evaluation described in subsection (a)(1); and
+
+&emsp;(2) submit to Congress a report that describes—
+
+&emsp;&emsp;(A) the results of the evaluations; and
+
+&emsp;&emsp;(B) the recommendations of the Secretary of the Interior, the Secretary of Health and Human Services, and the Secretary of Education, after consultation with Indian tribes, traditional leaders, and representatives of Native American language communities, for amendments to Federal laws that are needed—
+
+&emsp;&emsp;&emsp;(i) to bring the Federal laws into compliance with this chapter;
+
+&emsp;&emsp;&emsp;(ii) to improve interagency coordination for purposes of supporting revitalization, maintenance, and use of Native American languages; and
+
+&emsp;&emsp;&emsp;(iii) to reduce duplication, inefficiencies, and barriers Native American language communities face in accessing Federal programs to support efforts to revitalize, maintain, or increase the use of Native American languages.
+
+(Pub. L. 101–477, title I, §106, Oct. 30, 1990, 104 Stat. 1156; Pub. L. 117–337, §2(a), Jan. 5, 2023, 136 Stat. 6153.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+This chapter, referred to in subsec. (c)(2)(B)(i), was in the original "this Act" and was translated as reading "this title", meaning title I of Pub. L. 101–477, known as the Native American Languages Act, which is classified generally to this chapter, to reflect the probable intent of Congress.
+
+#### Amendments
+
+<b>2023</b>—Subsec. (c). Pub. L. 117–337 added subsec. (c).
 

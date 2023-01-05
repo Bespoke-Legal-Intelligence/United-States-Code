@@ -8,7 +8,7 @@ Subject to subsection (b), any commodity or crop may be planted on base acres on
 
 #### (1) General limitation
 
-&emsp;The planting of an agricultural commodity specified in paragraph (3) shall be prohibited on base acres unless the commodity, if planted, is destroyed before harvest.
+&emsp;The planting of an agricultural commodity specified in paragraph (3) shall be prohibitedon base acres unless the commodity, if planted, is destroyed before harvest.
 
 #### (2) Treatment of trees and other perennials
 

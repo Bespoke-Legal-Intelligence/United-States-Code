@@ -2,7 +2,7 @@
 
 #### (a) Powers
 
-(1) The Secretary of Commerce, acting through the Director of the National Technical Information Service (hereafter in this section referred to as the "Director") is authorized to do the following:
+(1) The Secretary of Commerce, acting through the Director of the National TechnicalInformation Service (hereafter in this section referred to as the "Director") is authorized to do the following:
 
 &emsp;(A) Enter into such contracts, cooperative agreements, joint ventures, and other transactions, in accordance with all relevant provisions of Federal law applicable to such contracts and agreements, and under reasonable terms and conditions, as may be necessary in the conduct of the business of the National Technical Information Service (hereafter in this section referred to as the "Service").
 
@@ -66,7 +66,7 @@ The Secretary of Commerce, acting through the Service, shall—
 
 #### (f) Notification of Congress
 
-(1) The Secretary of Commerce and the Director shall keep the appropriate committees of Congress fully and currently informed about all activities related to the carrying out of the functions of the Service, including changes in fee policies.
+(1) The Secretary of Commerce and the Director shall keep the appropriate committees ofCongress fully and currently informed about all activities related to the carrying out of the functions of the Service, including changes in fee policies.
 
 (2) Within 90 days after October 24, 1988, the Secretary of Commerce shall submit to the Congress a report on the current fee structure of the Service, including an explanation of the basis for the fees, taking into consideration all applicable costs, and the adequacy of the fees, along with reasons for the declining sales at the Service of scientific, technical, and engineering publications. Such report shall explain any actions planned or taken to increase such sales at reasonable fees.
 
@@ -126,11 +126,11 @@ Subsec. (a)(4) of this section repealed subsec. (h) of section 3710 of this titl
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### National Technical Information Service Revolving Fund
 
-Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1853, provided that: "For establishment of a National TechnicalInformation Service Revolving Fund, $8,000,000 without fiscal year limitation: <i>Provided</i>, That unexpended balances in Information Products and Services shall be transferred to and merged with this account, to remain available until expended. Notwithstanding 15 U.S.C. 1525 and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by 31 U.S.C. 9103."
+Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1853, provided that: "For establishment of a National Technical Information Service Revolving Fund, $8,000,000 without fiscal year limitation: <i>Provided</i>, That unexpended balances in Information Products and Services shall be transferred to and merged with this account, to remain available until expended. Notwithstanding 15 U.S.C. 1525 and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by 31 U.S.C. 9103."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

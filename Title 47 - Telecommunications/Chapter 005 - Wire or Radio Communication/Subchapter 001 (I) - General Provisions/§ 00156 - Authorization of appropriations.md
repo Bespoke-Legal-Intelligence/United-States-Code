@@ -20,7 +20,7 @@ The sum appropriated in any fiscal year to carry out the activities described in
 
 <b>1990</b>—Pub. L. 101–396 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated for the administration of this chapter by the Commission $107,250,000 for fiscal year 1988 and $109,250,000 for fiscal year 1989, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1988 and 1989."
 
-<b>1988</b>—Pub. L. 100–594 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated for the administration of this chapter by the Commission $98,100,000 for fiscal year 1986 and $97,600,000 for fiscal year 1987, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1986 and 1987."
+<b>1988</b>—Pub. L. 100–594 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated for the administration ofthis chapter by the Commission $98,100,000 for fiscal year 1986 and $97,600,000 for fiscal year 1987, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1986 and 1987."
 
 <b>1986</b>—Pub. L. 99–272 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated for the administration of this chapter by the Commission $91,156,000, together with such sums as may be necessary for increases resulting from adjustments in salary, pay, retirement, other employee benefits required by law, and other nondiscretionary costs, for each of the fiscal years 1984 and 1985."
 
@@ -30,7 +30,7 @@ The sum appropriated in any fiscal year to carry out the activities described in
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–141, div. P, title I, §103, Mar. 23, 2018, 132 Stat. 1086, provided that: "This title \[enacting section 159a of this title, amending this section and sections 158, 159, and 309 of this title, enacting provisions set out as notes under sections 158 and 159 of this title, and repealing provisions set out as a note under this section\]and the amendments made by this title shall take effect on October 1, 2018."
+Pub. L. 115–141, div. P, title I, §103, Mar. 23, 2018, 132 Stat. 1086, provided that: "This title \[enacting section 159a of this title, amending this section and sections 158, 159, and 309 of this title, enacting provisions set out as notes under sections 158 and 159 of this title, and repealing provisions set out as a note under this section\] and the amendments made by this title shall take effect on October 1, 2018."
 
 #### Effective Date of 1988 Amendment
 

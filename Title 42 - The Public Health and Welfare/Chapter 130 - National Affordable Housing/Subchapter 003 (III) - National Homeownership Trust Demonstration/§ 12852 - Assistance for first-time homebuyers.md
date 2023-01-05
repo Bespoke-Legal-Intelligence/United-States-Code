@@ -90,7 +90,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (3) Repayment upon increased income
 
-&emsp;If the aggregate annual income of the homebuyer (and family of the homebuyer) assisted under this subchapter exceeds the applicable maximum income allowable under subsection (b)(2) for any 2-year period after such assistance is provided, the Board of Directors may provide for the repayment, on a monthly basis, of all or a portion of such assistance payments, based on the amount of assistance provided and the income of the homebuyer (and family of the homebuyer).
+&emsp;If the aggregate annual income of the homebuyer (and family of the homebuyer) assistedunder this subchapter exceeds the applicable maximum income allowable under subsection (b)(2) for any 2-year period after such assistance is provided, the Board of Directors may provide for the repayment, on a monthly basis, of all or a portion of such assistance payments, based on the amount of assistance provided and the income of the homebuyer (and family of the homebuyer).
 
 #### (4) Repayment if property ceases to be principal residence
 
@@ -150,7 +150,7 @@ Amounts available in any fiscal year for assistance under this subchapter shall 
 
 #### References in Text
 
-The National Housing Act, referred to in subsec. (b)(2)(B), (5), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (b)(2)(B), (5), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 #### Amendments
 

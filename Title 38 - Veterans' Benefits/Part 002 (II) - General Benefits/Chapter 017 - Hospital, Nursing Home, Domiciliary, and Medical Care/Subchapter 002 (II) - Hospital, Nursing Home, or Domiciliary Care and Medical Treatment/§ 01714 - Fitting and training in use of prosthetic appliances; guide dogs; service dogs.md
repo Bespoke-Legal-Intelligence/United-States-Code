@@ -1,6 +1,6 @@
 ### §1714. Fitting and training in use of prosthetic appliances; guide dogs; service dogs
 
-(a)(1) Any veteran who is entitled to a prosthetic appliance shall be furnished such fittingand training, including institutional training, in the use of such appliance as may be necessary, whether in a Department facility or other training institution, or by outpatient treatment, including such service under contract, and including travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from such veteran's home to such hospital or training institution.
+(a)(1) Any veteran who is entitled to a prosthetic appliance shall be furnished such fitting and training, including institutional training, in the use of such appliance as may be necessary, whether in a Department facility or other training institution, or by outpatient treatment, including such service under contract, and including travel and incidental expenses (under the terms and conditions set forth in section 111 of this title) to and from such veteran's home to such hospital or training institution.
 
 (2) In furnishing prosthetic appliances under paragraph (1), the Secretary shall ensure women veterans are able to access clinically appropriate prosthetic appliances through each medical facility of the Department.
 
@@ -28,7 +28,7 @@
 
 &emsp;(C) meets such other requirements as the Secretary may prescribe.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §614; Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, §210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, §201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered §1714 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–135, title II, §201(a), (b)(1), Jan. 23, 2002, 115 Stat. 2456, 2457; Pub. L. 111–117, div. E, title II, §229, Dec. 16, 2009, 123 Stat. 3307; Pub. L. 116–315, title V, §5108(a), Jan. 5, 2021, 134 Stat. 5032; Pub. L. 117–37, §3(a), Aug. 25, 2021, 135 Stat. 331.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1143, §614; Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181; Pub. L. 94–581, title II, §210(a)(5), Oct. 21, 1976, 90 Stat. 2862; Pub. L. 96–151, title II, §201(c), Dec. 20, 1979, 93 Stat. 1093; renumbered §1714 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406;Pub. L. 107–135, title II, §201(a), (b)(1), Jan. 23, 2002, 115 Stat. 2456, 2457; Pub. L. 111–117, div. E, title II, §229, Dec. 16, 2009, 123 Stat. 3307; Pub. L. 116–315, title V, §5108(a), Jan. 5, 2021, 134 Stat. 5032; Pub. L. 117–37, §3(a), Aug. 25, 2021, 135 Stat. 331.)
 
 #### <b>Editorial Notes</b>
 
@@ -202,7 +202,7 @@ Definitions.—In this section:
 
 #### Provision by Department of Veterans Affairs of Prosthetic Appliances Through Non-Department Providers During Public Health Emergency
 
-Pub. L. 116–136, div. B, title X, §20007, Mar. 27, 2020, 134 Stat. 587, provided that: "The Secretary of VeteransAffairs shall ensure that, to the extent practicable, veterans who are receiving or are eligible to receive a prosthetic appliance under section 1714 or 1719 of title 38, United States Code, are able to receive such an appliance that the Secretary determines is needed from a non-Department of Veterans Affairs provider under a contract with the Department during a public health emergency."
+Pub. L. 116–136, div. B, title X, §20007, Mar. 27, 2020, 134 Stat. 587, provided that: "The Secretary of Veterans Affairs shall ensure that, to the extent practicable, veterans who are receiving or are eligible to receive a prosthetic appliance under section 1714 or 1719 of title 38, United States Code, are able to receive such an appliance that the Secretary determines is needed from a non-Department of Veterans Affairs provider under a contract with the Department during a public health emergency."
 
 \[For definition of "public health emergency" as used in section 20007 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out as a note under section 303 of this title.\]
 

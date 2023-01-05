@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (d) Statements to be furnished to individuals with respect to whom information is required
 
-Every person required to make a return under subsection (a) shall furnish to each individualwhose name is required to be set forth in such return under subparagraph (A) of subsection (b)(2) a written statement showing—
+Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return under subparagraph (A) of subsection (b)(2) a written statement showing—
 
 &emsp;(1) the name, address, and phone number of the information contact of the person required to make such return, and
 
@@ -136,7 +136,7 @@ Subsec. (d)(2). Pub. L. 105–206, §3712(b)(1), struck out "aggregate" before "
 
 Subsec. (e). Pub. L. 105–206, §3712(b)(2), inserted "(without regard to subsection (g)(2) thereof)" after "section 25A".
 
-<b>1997</b>—Subsec. (a)(2). Pub. L. 105–34, §202(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "which is engaged in a trade or business and which, in the course of such trade or business, makes payments during any calendar year to any individualwhich constitute reimbursements or refunds (or similar amounts) of qualified tuition and related expenses of such individual,".
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–34, §202(c)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "which is engaged in a trade or business and which, in the course of such trade or business, makes payments during any calendar year to any individual which constitute reimbursements or refunds (or similar amounts) of qualified tuition and related expenses of such individual,".
 
 Subsec. (b)(2)(A). Pub. L. 105–34, §202(c)(2)(A), inserted "or interest" after "payments".
 

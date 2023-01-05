@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-An underwriter, placement agent, initial purchaser, or sponsor, or any affiliate or subsidiary of any such entity, of an asset-backed security (as such term is defined in section 78c of this title, which for the purposes of this section shall include a synthetic asset-backed security), shall not, at any time for a period ending on the date that is one year after the date of the first closing of the sale of the asset-backed security, engage in any transaction that would involve or result in any material conflict of interest with respect to any investor in a transaction arising out of such activity.
+An underwriter, placement agent, initial purchaser, or sponsor, or any affiliate or subsidiary of any such entity, of an asset-backed security\(as such term is defined in section 78c of this title, which for the purposes of this section shall include a synthetic asset-backed security), shall not, at any time for a period ending on the date that is one year after the date of the first closing of the sale of the asset-backed security, engage in any transaction that would involve or result in any material conflict of interest with respect to any investor in a transaction arising out of such activity.
 
 #### (b) Rulemaking
 
@@ -12,7 +12,7 @@ Not later than 270 days after July 21, 2010, the Commission shall issue rules fo
 
 The prohibitions of subsection (a) shall not apply to—
 
-&emsp;(1) risk-mitigating hedging activities in connection with positions or holdings arising outof the underwriting, placement, initial purchase, or sponsorship of an asset-backed security, provided that such activities are designed to reduce the specific risks to the underwriter, placement agent, initial purchaser, or sponsor associated with positions or holdings arising out of such underwriting, placement, initial purchase, or sponsorship; or
+&emsp;(1) risk-mitigating hedging activities in connection with positions or holdings arising out of the underwriting, placement, initial purchase, or sponsorship of an asset-backed security, provided that such activities are designed to reduce the specific risks to the underwriter, placement agent, initial purchaser, or sponsor associated with positions or holdings arising out of such underwriting, placement, initial purchase, or sponsorship; or
 
 &emsp;(2) purchases or sales of asset-backed securities made pursuant to and consistent with—
 

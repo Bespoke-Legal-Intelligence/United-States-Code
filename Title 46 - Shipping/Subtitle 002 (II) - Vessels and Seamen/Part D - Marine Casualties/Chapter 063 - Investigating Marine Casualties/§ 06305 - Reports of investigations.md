@@ -2,7 +2,7 @@
 
 (a) The Secretary shall prescribe regulations about the form and manner of reports of investigations conducted under this part.
 
-(b) Reports of investigations conducted under this part shall be made available to the public. This subsection does not require the release of information described by section 552(b) of title 5 or protected from disclosure by another law of the United States.
+(b) Reports of investigations conducted under this part shall be made available to the public.This subsection does not require the release of information described by section 552(b) of title 5 or protected from disclosure by another law of the United States.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 538; Pub. L. 105–383, title III, §305, Nov. 13, 1998, 112 Stat. 3420.)
 

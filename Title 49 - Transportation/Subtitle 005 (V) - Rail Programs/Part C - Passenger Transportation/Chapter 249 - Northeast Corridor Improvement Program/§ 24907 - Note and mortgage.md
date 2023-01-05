@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—To secure amounts expended by the United States Government to acquire and improve rail property designatedunder section 206(c)(1)(C) and (D) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 716(c)(1)(C) and (D)), the Secretary of Transportation may obtain a note of indebtedness from, and make a mortgage agreement with, Amtrak to establish a mortgage lien on the property for the Government. The note and mortgage may not supersede section 24903.
+General Authority.—To secure amounts expended by the United States Government to acquire and improve rail property designated under section 206(c)(1)(C) and (D) of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 716(c)(1)(C) and (D)), the Secretary of Transportation may obtain a note of indebtedness from, and make a mortgage agreement with, Amtrak to establish a mortgage lien on the property for the Government. The note and mortgage may not supersede section 24903.
 
 (b)
 
@@ -50,7 +50,7 @@ In subsection (c), the words "to any party for any damages, or in any other matt
 
 #### References in Text
 
-The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (b), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 45 and Tables.
+The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (b), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, which is classified principally to chapter 16 (§701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 45 and Tables.
 
 #### Amendments
 

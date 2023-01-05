@@ -12,7 +12,7 @@ The Secretary of the Interior is authorized to cooperate with the Secretary of A
 
 <b>2005</b>—Pub. L. 109–59 substituted "to supplement the 57 percent of the balance of each annual appropriation to be apportioned among the States under section 777c(b) of this title" for "in carrying on the research program of the Fish and Wildlife Service in respect to fish of material value for sport or recreation" before period at end.
 
-<b>1984</b>—Pub. L. 98–369 inserted "the Mayor of the District of Columbia," after "the Secretary of Agricultureof Puerto Rico,", "for the District of Columbia one-third of 1 per centum," after "for Puerto Rico 1 per centum," and "the District of Columbia," after "Puerto Rico," in two places.
+<b>1984</b>—Pub. L. 98–369 inserted "the Mayor of the District of Columbia," after "the Secretary of Agriculture of Puerto Rico,", "for the District of Columbia one-third of 1 per centum," after "for Puerto Rico 1 per centum," and "the District of Columbia," after "Puerto Rico," in two places.
 
 <b>1980</b>—Pub. L. 96–597 inserted references to the Governor and the Commonwealth of the Northern Mariana Islands.
 

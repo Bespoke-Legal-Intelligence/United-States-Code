@@ -32,7 +32,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 &emsp;&emsp;(D) Provide technical assistance with respect to the exchange of such information (including facilitating the development of materials for such technical assistance).
 
-&emsp;(9) Carry out programs to improve access to health care services for individuals with limited proficiency in speaking the English language. Activities under the preceding sentence shall include developing and evaluating model projects.
+&emsp;(9) Carry out programs to improve access to health care services for individuals with limited proficiency in speaking the English language. Activities under the preceding sentenceshall include developing and evaluating model projects.
 
 &emsp;(10) Advise in matters related to the development, implementation, and evaluation of health professions education in decreasing disparities in health care outcomes, including cultural competency as a method of eliminating health disparities.
 
@@ -182,11 +182,11 @@ Pub. L. 101–557, title IV, §401(a)(2), Nov. 15, 1990, 104 Stat. 2771, provide
 
 #### Transfer of Functions
 
-Pub. L. 111–148, title X, §10334(a)(2), Mar. 23, 2010, 124 Stat. 971, provided that: "There are transferred to the Office of Minority Health in the office of the Secretary of Health and Human Services, all duties, responsibilities, authorities, accountabilities, functions, staff, funds, award mechanisms, and other entities under theauthority of the Office of Minority Health of the Public Health Service as in effect on the date before the date of enactment of this Act \[Mar. 23, 2010\], which shall continue in effect according to the terms in effect on the date before such date of enactment, until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, a court of competent jurisdiction, or by operation of law."
+Pub. L. 111–148, title X, §10334(a)(2), Mar. 23, 2010, 124 Stat. 971, provided that: "There are transferred to the Office of Minority Health in the office of the Secretary of Health and Human Services, all duties, responsibilities, authorities, accountabilities, functions, staff, funds, award mechanisms, and other entities under the authority of the Office of Minority Health of the Public Health Service as in effect on the date before the date of enactment of this Act \[Mar. 23, 2010\], which shall continue in effect according to the terms in effect on the date before such date of enactment, until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary, a court of competent jurisdiction, or by operation of law."
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

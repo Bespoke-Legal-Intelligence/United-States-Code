@@ -12,7 +12,7 @@ Section 141 of this title, referred to in text, was repealed by Pub. L. 94–579
 
 #### Codification
 
-Act Aug. 24, 1912, substituted "metalliferous minerals" for "minerals other than coal, oil, gas, and phosphates" in the first clause of this section, and "June 25, 1910" for "the passage of this Act" in the second proviso of this section.
+Act Aug. 24, 1912, substituted "metalliferous minerals" for "minerals other than coal, oil, gas, andphosphates" in the first clause of this section, and "June 25, 1910" for "the passage of this Act" in the second proviso of this section.
 
 In the last proviso of this section, "national forest" substituted for "forest reserve", in view of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, providing that forest reserves should be known as national forests.
 

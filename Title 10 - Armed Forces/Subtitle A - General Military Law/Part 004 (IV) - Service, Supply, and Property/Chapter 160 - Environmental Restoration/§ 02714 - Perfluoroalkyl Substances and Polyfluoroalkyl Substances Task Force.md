@@ -32,15 +32,19 @@ Duties.—The duties of the PFAS Task Force are the following:
 
 &emsp;(1) Monitoring the health aspects of exposure to perfluoroalkyl substances and polyfluoroalkyl substances, as found by the Secretary of Health and Human Services.
 
-&emsp;(2) Identifying, and funding the procurement of, an effective alternative to firefightingfoam containing perfluoroalkyl substances or polyfluoroalkyl substances.
+&emsp;(2) Identifying, and funding the procurement of, an effective alternative to firefighting foam containing perfluoroalkyl substances or polyfluoroalkyl substances.
 
 &emsp;(3) Coordinating within the Department of Defense with respect to mitigating the effects of the release of perfluoroalkyl substances and polyfluoroalkyl substances.
 
 &emsp;(4) Assessing the perceptions of Congress and the public of the efforts of the Department of Defense with respect to mitigating the effects of the release of perfluoroalkyl substances and polyfluoroalkyl substances from activities of the Department.
 
+&emsp;(5) Supporting research efforts relating to perfluoroalkyl substances or polyfluoroalkyl substances.
+
+&emsp;(6) Establishing practices to ensure the timely and complete dissemination of research findings and related data relating to perfluoroalkyl substances or polyfluoroalkyl substances to the general public.
+
 (f)
 
-Report.—Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, and quarterly thereafter, the Chairman of the PFAS Task Force shall submit to Congress a report on the activities of the task force.
+Report.—Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, and quarterly thereafter, the Chairman of the PFASTask Force shall submit to Congress a report on the activities of the task force.
 
 (g)
 
@@ -50,11 +54,15 @@ Definitions.—In this section:
 
 &emsp;(2) The term "polyfluoroalkyl substance" means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
 
-(Added Pub. L. 117–81, div. A, title III, §341(a), Dec. 27, 2021, 135 Stat. 1641.)
+(Added Pub. L. 117–81, div. A, title III, §341(a), Dec. 27, 2021, 135 Stat. 1641; amended Pub. L. 117–263, div. A, title III, §341(b), Dec. 23, 2022, 136 Stat. 2529.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (f), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (e)(5), (6). Pub. L. 117–263 added pars. (5) and (6).
 

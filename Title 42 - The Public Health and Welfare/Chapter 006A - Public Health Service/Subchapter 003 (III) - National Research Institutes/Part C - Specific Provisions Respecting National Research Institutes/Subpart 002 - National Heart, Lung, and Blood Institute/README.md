@@ -17,3 +17,4 @@ subpart 2—national heart, lung, and blood institute
 - [&sect; 00285b&#8211;7b - Coordination of Federal asthma activities](%C2%A7%2000285b%E2%80%937b%20-%20Coordination%20of%20Federal%20asthma%20activities.md)
 - [&sect; 00285b&#8211;7c - Tuberculosis](%C2%A7%2000285b%E2%80%937c%20-%20Tuberculosis.md)
 - [&sect; 00285b&#8211;8 - Congenital heart disease](%C2%A7%2000285b%E2%80%938%20-%20Congenital%20heart%20disease.md)
+- [&sect; 00285b&#8211;9 - HHS valvular heart disease activities](%C2%A7%2000285b%E2%80%939%20-%20HHS%20valvular%20heart%20disease%20activities.md)

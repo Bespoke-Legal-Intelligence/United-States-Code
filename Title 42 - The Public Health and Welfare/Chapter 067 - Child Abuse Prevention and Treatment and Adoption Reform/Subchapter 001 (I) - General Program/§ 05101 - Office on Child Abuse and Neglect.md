@@ -14,7 +14,7 @@ The purpose of the Office established under subsection (a) shall be to execute a
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–235 amended section generally, substituting provisions relating to Office on Child Abuseand Neglect for provisions relating to National Center on Child Abuse and Neglect.
+<b>1996</b>—Pub. L. 104–235 amended section generally, substituting provisions relating to Office on Child Abuse and Neglect for provisions relating to National Center on Child Abuse and Neglect.
 
 <b>1988</b>—Pub. L. 100–294 amended section generally, substituting provisions relating to establishment, appointment of Director, and other staff and resources of National Center on Child Abuse and Neglect for provisions relating to establishment, functions, grant and contract authority, staff and resource availability, and use of funds of National Center on Child Abuse and Neglect. See sections 5105 to 5106d of this title.
 
@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 95–266, §101(3), added subsec. (d).
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114—22, title VIII, §801, May 29, 2015, 129 Stat. 263, provided that: "This title \[amending sections 5106a and 5106g of this title, enacting provisions set out as a note under section 5106a of this title, and amending provisions set out as a note under this section\] may be cited as the 'Ensuring a Better Response for Victims of Child Sex Trafficking'."
+Pub. L. 114—22, title VIII, §801, May 29, 2015, 129 Stat. 263, provided that: "This title \[amending sections 5106a and 5106g of this title, enacting provisions set out as a note under section 5106a of this title, and amending provisions set out as a note under this section\] may becited as the 'Ensuring a Better Response for Victims of Child Sex Trafficking'."
 
 #### Short Title of 2010 Amendment
 
@@ -86,7 +86,7 @@ Pub. L. 101–126, §1, Oct. 25, 1989, 103 Stat. 764, provided that: "This Act \
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–294, §1, Apr. 25, 1988, 102 Stat. 102, provided that: "This Act \[enacting sections 5106a to 5106h and 10413 of this title, amending this section and sections5102 to 5106, 5113, 5115, 10402, 10409, and 10410 of this title, repealing section 10411 of this title, and enacting provisions set out as notes under this section and section 5105 of this title\] may be referred to as the 'Child Abuse Prevention, Adoption, and Family Services Act of 1988'."
+Pub. L. 100–294, §1, Apr. 25, 1988, 102 Stat. 102, provided that: "This Act \[enacting sections 5106a to 5106h and 10413 of this title, amending this section and sections 5102 to 5106, 5113, 5115, 10402, 10409, and 10410 of this title, repealing section 10411 of this title, and enacting provisions set out as notes under this section and section 5105 of this title\] may be referred to as the 'Child Abuse Prevention, Adoption, and Family Services Act of 1988'."
 
 #### Short Title of 1986 Amendment
 

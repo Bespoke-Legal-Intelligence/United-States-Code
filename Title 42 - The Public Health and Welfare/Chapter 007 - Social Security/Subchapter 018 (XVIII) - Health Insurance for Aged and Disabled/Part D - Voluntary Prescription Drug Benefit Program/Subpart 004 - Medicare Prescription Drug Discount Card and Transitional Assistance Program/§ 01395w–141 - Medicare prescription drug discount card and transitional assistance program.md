@@ -52,7 +52,7 @@
 
 #### (3) Voluntary nature of program
 
-&emsp;Nothing in this section shall be construed as requiring a discount card eligible individual toenroll in an endorsed discount card program under this section.
+&emsp;Nothing in this section shall be construed as requiring a discount card eligible individual to enroll in an endorsed discount card program under this section.
 
 #### (4) Glossary and definitions of terms
 
@@ -144,7 +144,7 @@ For purposes of this section:
 
 #### (B) Use of standard enrollment form
 
-&emsp;&emsp;An enrollment in an endorsed program shall only be effected through completion of a standard enrollment form specified by the Secretary. Each sponsor of an endorsed program shall transmit to the Secretary (in aform and manner specified by the Secretary) information on individuals who complete such enrollment forms and, to the extent provided under subsection (f), information regarding certification as a transitional assistance eligible individual.
+&emsp;&emsp;An enrollment in an endorsed program shall only be effected through completion of a standard enrollment form specified by the Secretary. Each sponsor of an endorsed program shall transmit to the Secretary (in a form and manner specified by the Secretary) information on individuals who complete such enrollment forms and, to the extent provided under subsection (f), information regarding certification as a transitional assistance eligible individual.
 
 #### (C) Enrollment only in one program
 
@@ -338,7 +338,7 @@ For purposes of this section:
 
 #### (B) Treatment of self-certification
 
-&emsp;&emsp;The Secretary shall treat a certification under subparagraph (A) that is verified under paragraph (3) as a determination thatthe individual involved is a transitional assistance eligible individual or special transitional assistance eligible individual (as the case may be) for the entire period of the enrollment of the individual in any endorsed program.
+&emsp;&emsp;The Secretary shall treat a certification under subparagraph (A) that is verified under paragraph (3) as a determination that the individual involved is a transitional assistance eligible individual or special transitional assistance eligible individual (as the case may be) for the entire period of the enrollment of the individual in any endorsed program.
 
 #### (3) Verification
 
@@ -394,7 +394,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) to have payment made of any annual enrollment fee charged under subsection (c)(2) for enrollment under the program; and
 
-&emsp;&emsp;(B) to have payment made, up to the amount specified in paragraph (2), under such endorsed program of 90 percent (or 95 percent in the case of a special transitional assistance eligible individual) of the costs incurred for covered discount card drugs obtained through the program taking into account the negotiated price (if any) for the drug under the program.
+&emsp;&emsp;(B) to have payment made, up to the amount specified in paragraph (2), under such endorsed program of 90 percent (or 95 percent in the case of a special transitional assistance eligible individual) of the costsincurred for covered discount card drugs obtained through the program taking into account the negotiated price (if any) for the drug under the program.
 
 #### (2) Limitation on dollar amount
 
@@ -472,7 +472,7 @@ For purposes of this section:
 
 #### (B) American Indians
 
-&emsp;&emsp;The Secretary shall establish procedures and may waive requirements of this section to ensure that, for purposes of providing transitional assistance, pharmacies operated by the Indian Health Service, Indian tribes and tribal organizations, and urban Indian organizations (as defined in section 1603 of title 25) have the opportunity to participate in the pharmacy networks of at least two endorsed programs in each of the 50 States and the District of Columbia where such a pharmacy operates.
+&emsp;&emsp;The Secretary shall establish procedures and may waive requirements of this section to ensure that, for purposes of providing transitional assistance, pharmacies operated by the Indian Health Service, Indian tribes and tribal organizations, and urban Indian organizations (as defined in section 1603 oftitle 25) have the opportunity to participate in the pharmacy networks of at least two endorsed programs in each of the 50 States and the District of Columbia where such a pharmacy operates.
 
 #### (6) No impact on benefits under other programs
 
@@ -546,7 +546,7 @@ For purposes of this section:
 
 #### (5) Grievance mechanism
 
-&emsp;Each prescription drug card sponsor shall provide meaningful procedures for hearing and resolving grievances between the sponsor (including any entity or individual through which the sponsor carries out the endorsed discount card program) and enrollees in endorsed discount card programs of the sponsor under this section in a manner similar to that required under section 1395w–22(f) of this title.
+&emsp;Each prescription drug card sponsor shall provide meaningful procedures for hearing and resolving grievances between the sponsor (including any entity or individual through which the sponsor carries out the endorsed discount card program) and enrollees in endorseddiscount card programs of the sponsor under this section in a manner similar to that required under section 1395w–22(f) of this title.
 
 #### (6) Confidentiality of enrollee records
 
@@ -702,7 +702,7 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 
 #### Rules for Implementation
 
-Pub. L. 108–173, title I, §105(c), Dec. 8, 2003, 117 Stat. 2166, provided that: "The following rules shall apply tothe medicare prescription drug discount card and transitional assistance program under section 1860D–31 of the Social Security Act \[42 U.S.C. 1395w–141\], as added by section 101(a):
+Pub. L. 108–173, title I, §105(c), Dec. 8, 2003, 117 Stat. 2166, provided that: "The following rules shall apply to the medicare prescription drug discount card and transitional assistance program under section 1860D–31 of the Social Security Act \[42 U.S.C. 1395w–141\], as added by section 101(a):
 
 &emsp;"(1) In promulgating regulations pursuant to subsection (a)(2)(B) of such section 1860D–31 \[42 U.S.C. 1395w–141(a)(2)(B)\]—
 

@@ -74,7 +74,7 @@ In this section:
 
 #### (2) Targeting
 
-&emsp;Not less than 60 percent of amounts made to each eligible entity allocated amounts under subsection (d) or (f) shall be used for qualified expenses that assist homeowners having incomes equal to or less than 100 percent of the area median income for their household size or equal to or less than 100 percent of the median income for the United States, as determined by the Secretary of Housing and Urban Development, whichever is greater. The eligible entity shall prioritize remaining funds to socially disadvantaged individuals.
+&emsp;Not less than 60 percent of amounts made to each eligible entity allocated amounts undersubsection (d) or (f) shall be used for qualified expenses that assist homeowners having incomes equal to or less than 100 percent of the area median income for their household size or equal to or less than 100 percent of the median income for the United States, as determined by the Secretary of Housing and Urban Development, whichever is greater. The eligible entity shall prioritize remaining funds to socially disadvantaged individuals.
 
 #### (d) Allocation of Funds
 
@@ -132,7 +132,7 @@ In this section:
 
 #### (2) Allocation and payment
 
-&emsp;The Secretary shall allocate the funds set aside under paragraph (1) using the allocation formulas described in clauses (i) and (ii) of section 9058a(b)(2)(A) of this title, and shall make payments of such amounts beginning no later than 45 days after March 11, 2021, to entities eligible for payment under clauses (i) and (ii) of section 9058a(b)(2)(A) of this title that notify the Secretary that they request to receive payments allocated from the Fund by the Secretary for purposes described under subsection (c) and will use such payments in compliance with this section.
+&emsp;The Secretary shall allocate the funds set aside under paragraph (1) using the allocation formulas described in clauses (i) and (ii) of section 9058a(b)(2)(A) of this title, and shall make payments of such amounts beginning no later than 45 days after March 11, 2021, to entities eligible for payment under clauses (i) and (ii)of section 9058a(b)(2)(A) of this title that notify the Secretary that they request to receive payments allocated from the Fund by the Secretary for purposes described under subsection (c) and will use such payments in compliance with this section.
 
 #### (3) Adjustment
 

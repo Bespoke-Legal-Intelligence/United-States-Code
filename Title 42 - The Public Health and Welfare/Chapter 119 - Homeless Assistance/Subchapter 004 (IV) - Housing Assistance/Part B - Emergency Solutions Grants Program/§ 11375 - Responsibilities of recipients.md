@@ -22,7 +22,7 @@ Each recipient shall certify to the Secretary that—
 
 &emsp;&emsp;(B) in the case of assistance involving rehabilitation (other than major rehabilitation or conversion), maintain any building for which assistance is used under this part as a shelter for homeless individuals and families for not less than a 3-year period; or
 
-&emsp;&emsp;(C) in the case of assistance involving solely activities described in paragraphs (2) and (3) of section 11374(a) <sup>1</sup> of this title, provide services or shelter to homeless individuals and families for the period during which such assistance is provided, without regard to a particular site or structure as long as the same general population is served;
+&emsp;&emsp;(C) in the case of assistance involving solely activities described in paragraphs (2) and (3) of section 11374(a) <sup>1</sup> of this title, provideservices or shelter to homeless individuals and families for the period during which such assistance is provided, without regard to a particular site or structure as long as the same general population is served;
 
 &emsp;(2) any renovation carried out with assistance under this part shall be sufficient to ensure that the building involved is safe and sanitary;
 
@@ -52,7 +52,7 @@ If an individual or family who receives assistance under this part from a recipi
 
 The Secretary shall ensure that recipients of funds under this part ensure the consistent participation by emergency shelters and homelessness prevention and rehousing programs in any applicable community-wide homeless management information system.
 
-(Pub. L. 100–77, title IV, §416, formerly §415, July 22, 1987, 101 Stat. 497; Pub. L. 100–628, title IV,§424, Nov. 7, 1988, 102 Stat. 3232; Pub. L. 101–625, title VIII, §832(e)(1), (2), (h), Nov. 28, 1990, 104 Stat. 4360, 4362; Pub. L. 102–550, title XIV, §1402(b)–(d), Oct. 28, 1992, 106 Stat. 4012, 4013; Pub. L. 104–330, title V, §506(a)(5), Oct. 26, 1996, 110 Stat. 4044; renumbered §416 and amended Pub. L. 111–22, div. B, title II, §§1201(3), 1203, May 20, 2009, 123 Stat. 1678, 1680.)
+(Pub. L. 100–77, title IV, §416, formerly §415, July 22, 1987, 101 Stat. 497; Pub. L. 100–628, title IV, §424, Nov. 7, 1988, 102 Stat. 3232; Pub. L. 101–625, title VIII, §832(e)(1), (2), (h), Nov. 28, 1990, 104 Stat. 4360, 4362; Pub. L. 102–550, title XIV, §1402(b)–(d), Oct. 28, 1992, 106 Stat. 4012, 4013; Pub. L. 104–330, title V, §506(a)(5), Oct. 26, 1996, 110 Stat. 4044; renumbered §416 and amended Pub. L. 111–22, div. B, title II, §§1201(3), 1203, May 20, 2009, 123 Stat. 1678, 1680.)
 
 #### <b>Editorial Notes</b>
 
@@ -88,7 +88,7 @@ Pub. L. 101–625, §832(e)(2)(C), added par. (4) relating to matching funds obt
 
 Subsec. (c)(5). Pub. L. 101–625, §832(e)(2)(C), added par. (5).
 
-<b>1988</b>—Subsec. (c)(1). Pub. L. 100–628 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "it will maintain any building for which assistance is used under this part as a shelter for homeless individuals for not less than a 3-year period or for not less than a 10-year period if such assistance is used for the major rehabilitation or conversion of such building;".
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–628 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "it will maintain any building for which assistance isused under this part as a shelter for homeless individuals for not less than a 3-year period or for not less than a 10-year period if such assistance is used for the major rehabilitation or conversion of such building;".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

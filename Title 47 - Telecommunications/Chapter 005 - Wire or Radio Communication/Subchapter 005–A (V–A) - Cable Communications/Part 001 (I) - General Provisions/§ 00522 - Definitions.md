@@ -4,7 +4,7 @@ For purposes of this subchapter—
 
 &emsp;(1) the term "activated channels" means those channels engineered at the headend of a cable system for the provision of services generally available to residential subscribers of the cable system, regardless of whether such services actually are provided, including any channel designated for public, educational, or governmental use;
 
-&emsp;(2) the term "affiliate", when used in relation to any person, means another person who owns or controls, is owned or controlled by, oris under common ownership or control with, such person;
+&emsp;(2) the term "affiliate", when used in relation to any person, means another person who owns or controls, is owned or controlled by, or is under common ownership or control with, such person;
 
 &emsp;(3) the term "basic cable service" means any service tier which includes the retransmission of local television broadcast signals;
 
@@ -22,7 +22,7 @@ For purposes of this subchapter—
 
 &emsp;(8) the term "Federal agency" means any agency of the United States, including the Commission;
 
-&emsp;(9) the term "franchise" means an initial authorization, or renewal thereof (including a renewal of an authorization which has been granted subject to section 546 of this title), issued by a franchising authority, whether such authorization is designated as a franchise, permit, license, resolution, contract, certificate, agreement, or otherwise, which authorizes the construction or operation of a cable system;
+&emsp;(9) the term "franchise" means an initial authorization, or renewal thereof (including a renewal of an authorization which has been granted subject to section 546 of this title), issued by a franchising authority, whether such authorization is designated as a franchise, permit, license, resolution, contract,certificate, agreement, or otherwise, which authorizes the construction or operation of a cable system;
 
 &emsp;(10) the term "franchising authority" means any governmental entity empowered by Federal, State, or local law to grant a franchise;
 

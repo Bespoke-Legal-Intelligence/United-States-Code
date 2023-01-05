@@ -22,7 +22,7 @@
 
 #### (3) Requirement for implementing arrangements
 
-&emsp;Subject to the requirements of this chapter, the Governance Board shall determine thewritten implementing arrangements and other relevant and appropriate governance processes and procedures to manage, oversee, resource, or otherwise administer the DTS–PO.
+&emsp;Subject to the requirements of this chapter, the Governance Board shall determine the written implementing arrangements and other relevant and appropriate governance processes and procedures to manage, oversee, resource, or otherwise administer the DTS–PO.
 
 #### (b) Membership
 

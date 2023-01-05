@@ -32,13 +32,13 @@ In order to carry out the purposes of this section, the agency primarily respons
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
 <b>1978</b>—Subsecs. (a), (b), (c), (e). Pub. L. 95–424 inserted "and part 1 of this subchapter" after "this part".
 
-<b>1968</b>—Subsec. (c). Pub. L. 90–554, §106(a), emphasized research designed to increase understanding of ways in which development assistance can support democratic social and political trends in recipient countries.
+<b>1968</b>—Subsec. (c). Pub. L. 90–554, §106(a), emphasized research designed to increase understanding of ways inwhich development assistance can support democratic social and political trends in recipient countries.
 
 Subsec. (e). Pub. L. 90–554, §106(b), added subsec. (e).
 

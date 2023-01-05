@@ -30,7 +30,7 @@ Any panel constituted in furtherance of the study to be conducted under subsecti
 
 #### (d) Findings and recommendations
 
-The Secretary shall request the National Academy of Sciences or the National Academy of Education to submit an interim report of its findings and recommendations to the President and Congress not later than 12 months, and a final report not later than 24 months, from the date of the completion of procurement relating to the study.
+The Secretary shall request the National Academy of Sciences or the National Academyof Education to submit an interim report of its findings and recommendations to the President and Congress not later than 12 months, and a final report not later than 24 months, from the date of the completion of procurement relating to the study.
 
 #### (e) Funding
 
@@ -42,5 +42,5 @@ From funds appropriated to the Secretary for research related to individuals wit
 
 #### References in Text
 
-The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(4), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to this chapter (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(4), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), which is classified principally to this chapter (except subchapters V (§5931 et seq.) and IX (§6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 

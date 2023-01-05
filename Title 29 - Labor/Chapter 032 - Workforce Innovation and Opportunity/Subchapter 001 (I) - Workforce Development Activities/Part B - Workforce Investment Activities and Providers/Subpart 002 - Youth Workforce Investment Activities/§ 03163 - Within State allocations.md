@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Governor shall reserve not more than 15 percent of each of the amounts allotted to the State under section 3162(b)(1)(C) of this title and paragraphs (1)(B) and (2)(B) of section 3172(b) of this title for a fiscal year for statewide workforce investment activities.
+&emsp;The Governor shall reserve not more than 15 percent of each of the amounts allotted to theState under section 3162(b)(1)(C) of this title and paragraphs (1)(B) and (2)(B) of section 3172(b) of this title for a fiscal year for statewide workforce investment activities.
 
 #### (2) Use of funds
 

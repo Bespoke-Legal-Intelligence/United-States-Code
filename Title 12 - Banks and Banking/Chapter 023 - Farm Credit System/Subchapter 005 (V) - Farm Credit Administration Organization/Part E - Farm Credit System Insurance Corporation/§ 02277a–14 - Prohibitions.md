@@ -28,7 +28,7 @@
 
 #### (2) Liability of directors
 
-&emsp;Each director or officer of any insured System bank who willfully participates in thedeclaration or payment of any dividend or interest or in any distribution in violation of this subsection shall be fined not more than $1,000, imprisoned not more than 1 year, or both.
+&emsp;Each director or officer of any insured System bank who willfully participates in the declaration or payment of any dividend or interest or in any distribution in violation of this subsection shall be fined not more than $1,000, imprisoned not more than 1 year, or both.
 
 #### (3) Applicability
 

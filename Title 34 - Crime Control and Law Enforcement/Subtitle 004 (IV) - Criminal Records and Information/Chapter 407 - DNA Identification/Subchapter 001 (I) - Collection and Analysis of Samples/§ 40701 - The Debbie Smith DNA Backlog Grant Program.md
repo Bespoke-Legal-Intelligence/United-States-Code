@@ -164,7 +164,7 @@ The Attorney General may distribute not more than 1 percent of the grant amounts
 
 &emsp;(2) in the form of additional grants to States, units of local government, or nonprofit professional organizations of persons actively involved in forensic science and nationally recognized within the forensic science community—
 
-&emsp;&emsp;(A) to defray the costs of external audits of laboratories operated by such State or unitof local government, which participates in the National DNA Index System, to determine whether the laboratory is in compliance with quality assurance standards;
+&emsp;&emsp;(A) to defray the costs of external audits of laboratories operated by such State or unit of local government, which participates in the National DNA Index System, to determine whether the laboratory is in compliance with quality assurance standards;
 
 &emsp;&emsp;(B) to assess compliance with any plans submitted to the National Institute of Justice, which detail the use of funds received by States or units of local government under this Act; and
 
@@ -234,7 +234,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 #### (A) In general
 
-&emsp;&emsp;For not less than 12 months after the completion of an initial count of sexual assault evidence that is awaiting testing during an audit referred to in paragraph (1)(A), a State or unit of local government that receives agrant award under subsection (a)(7) shall, not less than every 60 days, submit a report to the Department of Justice, on a form prescribed by the Attorney General, which shall contain the information required under subparagraph (B).
+&emsp;&emsp;For not less than 12 months after the completion of an initial count of sexual assault evidence that is awaiting testing during an audit referred to in paragraph (1)(A), a State or unit of local government that receives a grant award under subsection (a)(7) shall, not less than every 60 days, submit a report to the Department of Justice, on a form prescribed by the Attorney General, which shall contain the information required under subparagraph (B).
 
 #### (B) Contents of reports
 
@@ -314,7 +314,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "possession", used with respect to possession of a sample of sexualassault evidence by a State or unit of local government, includes possession by an individual who is acting as an agent of the State or unit of local government for the collection of the sample.
+&emsp;&emsp;&emsp;The term "possession", used with respect to possession of a sample of sexual assault evidence by a State or unit of local government, includes possession by an individual who is acting as an agent of the State or unit of local government for the collection of the sample.
 
 #### (ii) Rule of construction
 
@@ -350,7 +350,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 &emsp;In this subsection, the terms "awaiting testing" and "possession" have the meanings given those terms in subsection (n).
 
-(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X, §§1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, §2, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 115–107, §3(a), Jan. 8, 2018, 131 Stat. 2266; Pub. L. 115–257, §2(a), Oct. 9, 2018, 132 Stat. 3660; Pub. L. 116–104, §2, Dec. 30, 2019, 133 Stat. 3272.)
+(Pub. L. 106–546, §2, Dec. 19, 2000, 114 Stat. 2726; Pub. L. 108–405, title II, §§202, 206, Oct. 30, 2004, 118 Stat. 2266, 2272; Pub. L. 109–162, title X, §1003, Jan. 5, 2006, 119 Stat. 3085; Pub. L. 110–360, §2, Oct. 8, 2008, 122 Stat. 4008; Pub. L. 112–253, §6, Jan. 10, 2013, 126 Stat. 2409; Pub. L. 113–4, title X,§§1002, 1004, 1006, Mar. 7, 2013, 127 Stat. 127, 131, 134; Pub. L. 113–182, §2, Sept. 29, 2014, 128 Stat. 1918; Pub. L. 115–107, §3(a), Jan. 8, 2018, 131 Stat. 2266; Pub. L. 115–257, §2(a), Oct. 9, 2018, 132 Stat. 3660; Pub. L. 116–104, §2, Dec. 30, 2019, 133 Stat. 3272.)
 
 #### Amendment of Section
 
@@ -454,7 +454,7 @@ Subsec. (b)(7). Pub. L. 108–405, §202(b)(2), added par. (7).
 
 Subsec. (c). Pub. L. 108–405, §202(b)(3), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "A State that proposes to allocate grant amounts under paragraph (4) or (5) of subsection (b) of this section for the purposes specified in paragraph (2) or (3) of subsection (a) of this section shall use such allocated amounts to conduct or facilitate DNA analyses of those samples that relate to crimes in connection with which there are no suspects."
 
-Subsec. (d)(1). Pub. L. 108–405, §202(a)(4)(A), substituted "A plan pursuant to subsection (b)(1)" for "The plan" in introductory provisions and struck out "within the State" after "local government" in subpars. (A) and (B).
+Subsec. (d)(1). Pub. L. 108–405, §202(a)(4)(A), substituted "A plan pursuant to subsection (b)(1)" for"The plan" in introductory provisions and struck out "within the State" after "local government" in subpars. (A) and (B).
 
 Subsec. (d)(2)(A). Pub. L. 108–405, §202(a)(4)(B), inserted "and units of local government" after "States".
 
@@ -612,7 +612,7 @@ Findings.—Congress finds that—
 
 &emsp;"(4) DNA testing was not widely available in cases tried prior to 1994;
 
-&emsp;"(5) new forensic DNA testing procedures have made it possible to get results from minute samplesthat could not previously be tested, and to obtain more informative and accurate results than earlier forms of forensic DNA testing could produce, resulting in some cases of convicted inmates being exonerated by new DNA tests after earlier tests had failed to produce definitive results;
+&emsp;"(5) new forensic DNA testing procedures have made it possible to get results from minute samples that could not previously be tested, and to obtain more informative and accurate results than earlier forms of forensic DNA testing could produce, resulting in some cases of convicted inmates being exonerated by new DNA tests after earlier tests had failed to produce definitive results;
 
 &emsp;"(6) DNA testing can and has resulted in the post-conviction exoneration of more than 75 innocent men and women, including some under sentence of death;
 

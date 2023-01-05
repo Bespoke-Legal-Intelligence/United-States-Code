@@ -10,9 +10,9 @@ Section 1c, act Nov. 11, 1943, ch. 298, §3, 57 Stat. 587, provided for chiefs o
 
 Section 1d, act Nov. 11, 1943, ch. 298, §4, 57 Stat. 587, provided for temporary promotions in regular corps in time of war. See section 211 of this title.
 
-Section 1e, act Nov. 11, 1943, ch. 298, §5, 58 Stat. 588, provided for review of record of officers above grade of assistant surgeon and their separation from service. See section 211 of this title.
+Section 1e, act Nov. 11, 1943, ch. 298, §5, 58 Stat. 588, provided for review of record of officers above grade ofassistant surgeon and their separation from service. See section 211 of this title.
 
-Section 1f, act Nov. 11, 1943, ch. 298, §6, 58 Stat. 588, provided for an acting Surgeon General during absenceof Surgeon General and Assistant to Surgeon General. See section 206 of this title.
+Section 1f, act Nov. 11, 1943, ch. 298, §6, 58 Stat. 588, provided for an acting Surgeon General during absence of Surgeon General and Assistant to Surgeon General. See section 206 of this title.
 
 Section 1g, act Nov. 11, 1943, ch. 298, §7, 57 Stat. 588, provided for death and disability benefits of commissioned officers during war and for transfer of Service to military forces. See sections 213 and 217 of this title.
 

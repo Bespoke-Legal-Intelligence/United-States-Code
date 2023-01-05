@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(i) there is a direct or indirect transfer of money or other property by a partner to a partnership,
 
-&emsp;&emsp;&emsp;(ii) there is a related direct or indirect transfer of money or other property by thepartnership to such partner (or another partner), and
+&emsp;&emsp;&emsp;(ii) there is a related direct or indirect transfer of money or other property by the partnership to such partner (or another partner), and
 
 &emsp;&emsp;&emsp;(iii) the transfers described in clauses (i) and (ii), when viewed together, are properly characterized as a sale or exchange of property,
 

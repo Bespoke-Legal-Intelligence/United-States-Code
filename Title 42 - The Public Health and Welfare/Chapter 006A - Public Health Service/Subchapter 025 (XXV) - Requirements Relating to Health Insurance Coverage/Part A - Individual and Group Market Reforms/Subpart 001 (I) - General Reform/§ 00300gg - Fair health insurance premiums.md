@@ -62,7 +62,7 @@ Pub. L. 111–148, title I, §1255, formerly §1253, title X, §10103(e), (f)(1)
 
 &emsp;"(1) section 1251 \[enacting section 18011 of this title\] shall take effect on the date of enactment of this Act \[Mar. 23, 2010\]; and
 
-&emsp;"(2) the provisions of section 2704 of the Public Health Service Act \[42 U.S.C. 300gg–3\] (as amended by section 1201), as they apply to enrollees who are under 19 years of age, shall become effective for plan years beginning on or after the date that is 6 months after the date of enactment of this Act \[Mar. 23, 2010\].. \[sic\]"
+&emsp;"(2) the provisions of section 2704 of the Public Health Service Act \[42 U.S.C. 300gg–3\] (as amended bysection 1201), as they apply to enrollees who are under 19 years of age, shall become effective for plan years beginning on or after the date that is 6 months after the date of enactment of this Act \[Mar. 23, 2010\].. \[sic\]"
 
 Pub. L. 104–191, title I, §102(c), Aug. 21, 1996, 110 Stat. 1976, provided that:
 
@@ -114,7 +114,7 @@ Transitional rule.—In the case of an individual who seeks to establish credita
 
 Special rule for collective bargaining agreements.—Except as provided in paragraph (2)(B), in the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\] (other than section 2701(e) \[now 2704(e)\] thereof \[42 U.S.C. 300gg–3(e)\]) shall not apply to plan years beginning before the later of—
 
-&emsp;"(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extensionthereof agreed to after the date of the enactment of this Act), or
+&emsp;"(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
 
 &emsp;"(B) July 1, 1997.
 
@@ -150,7 +150,7 @@ Severability.—If any provision of this title or the application of such provis
 
 #### Health Coverage Availability Studies
 
-Pub. L. 104–191, title I, §191, Aug. 21, 1996, 110 Stat. 1987, directed the Secretary of Health and Human Services to provide for a study on the effectiveness of the provisions of title I of Pub. L. 104–191 and the various State laws, in ensuring the availability of reasonably priced health coverage to employers and individuals and a study on access to, and choice of, health care providers and the cost and cost-effectiveness to health insurance issuers of providing access to out-of-network providers, and the potential impact of providing such access on the cost and quality of health insurance coverage, and to report to the appropriate committees of Congress on each of such studies not later than Jan. 1, 2000.
+Pub. L. 104–191, title I, §191, Aug. 21, 1996, 110 Stat. 1987, directed the Secretary of Health and Human Services to provide for a study on the effectiveness of the provisions of title I of Pub. L. 104–191 and the various State laws, in ensuring the availability of reasonably priced health coverage to employers and individuals and a study on access to, and choice of, health care providers and the cost and cost-effectiveness to health insurance issuers of providing access to out-of-networkproviders, and the potential impact of providing such access on the cost and quality of health insurance coverage, and to report to the appropriate committees of Congress on each of such studies not later than Jan. 1, 2000.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) make any change with respect to the terms or conditions of service in the armed forces of individual members of the armed forces; or
 
-&emsp;(4) to use any military installation, facility, reservation, vessel, or other property of the United States for any meeting, march, picketing, demonstration, or other similar activity for the purpose of engaging in any activity prohibited by this subsection or by subsection (b) or (d).
+&emsp;(4) to use any military installation, facility, reservation, vessel, or other property of theUnited States for any meeting, march, picketing, demonstration, or other similar activity for the purpose of engaging in any activity prohibited by this subsection or by subsection (b) or (d).
 
 (d) It shall be unlawful for any military labor organization to represent, or attempt to represent, any member of the armed forces before any civilian officer or employee, or any member of the armed forces, in connection with any grievance or complaint of any such member arising out of the terms or conditions of service of such member in the armed forces.
 
@@ -48,7 +48,7 @@
 
 &emsp;(1) negotiate or bargain on behalf of the United States concerning the terms or conditions of military service of members of the armed forces with any person who represents or purports to represent members of the armed forces, or
 
-&emsp;(2) permit or authorize the use of any military installation, facility, reservation, vessel, or other property of the United States for any meeting, march, picketing, demonstration, orother similar activity which is for the purpose of engaging in any activity prohibited by subsection (b), (c), or (d).
+&emsp;(2) permit or authorize the use of any military installation, facility, reservation, vessel, or other property of the United States for any meeting, march, picketing, demonstration, or other similar activity which is for the purpose of engaging in any activity prohibited by subsection (b), (c), or (d).
 
 > Nothing in this subsection shall prevent commanders or supervisors from giving consideration to the views of any member of the armed forces presented individually or as a result of participation on command-sponsored or authorized advisory councils, committees, or organizations.
 

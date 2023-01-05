@@ -124,7 +124,7 @@
 
 #### (i) 1st calendar year
 
-&emsp;&emsp;&emsp;With respect to compensation paid in calendar months before the end of the firstfull calendar year in which the employer is subject to this chapter, the contribution rate shall be the average contribution rate paid by all employers during the 3 calendar years preceding the calendar year before the calendar year in which the compensation is paid. The average contribution rate shall be determined—
+&emsp;&emsp;&emsp;With respect to compensation paid in calendar months before the end of the first full calendar year in which the employer is subject to this chapter, the contribution rate shall be the average contribution rate paid by all employers during the 3 calendar years preceding the calendar year before the calendar year in which the compensation is paid. The average contribution rate shall be determined—
 
 &emsp;&emsp;&emsp;&emsp;(I) by dividing the aggregate contributions paid by all employers under this subsection in those 3 calendar years by the aggregate compensation with respect to which such contributions were paid; and
 
@@ -208,7 +208,7 @@
 
 #### (6) Reserve balance
 
-&emsp;An employer's reserve balance as of any given June 30 shall be determined by subtracting the employer's cumulative benefitbalance as of such June 30, computed under paragraph (7), from the employer's net cumulative contribution balance as of such June 30, computed under paragraph (8). An employer's reserve balance may be either positive or negative, depending upon whether or not that employer's net cumulative contribution balance exceeds the employer's cumulative benefit balance.
+&emsp;An employer's reserve balance as of any given June 30 shall be determined by subtracting the employer's cumulative benefit balance as of such June 30, computed under paragraph (7), from the employer's net cumulative contribution balance as of such June 30, computed under paragraph (8). An employer's reserve balance may be either positive or negative, depending upon whether or not that employer's net cumulative contribution balance exceeds the employer's cumulative benefit balance.
 
 #### (7) Cumulative benefit balance
 
@@ -288,7 +288,7 @@
 
 #### (A) Step 1
 
-&emsp;&emsp;Compute the balance to the credit of the account as of the close of business on the preceding June 30, including any amounts in the account attributable to loans made under section 360(d) of this title before October 1, 1985, but disregarding the obligation to repay such loans and interest thereon. In determining such balance as of June 30 of any year, so much of the balance to the credit of the railroad unemployment insurance administration fund as of the close of business on such date as is in excess of $6,000,000 shall be deemed to be part of the balance to the credit of such account. There will be a pooled credit ratio for the calendar year only if that balance is in excess of the greater of $250,000,000 or of the amount that bears the same ratio to $250,000,000 as the systemcompensation base as of that June 30 bears to the system compensation base as of June 30, 1991, as computed in accordance with paragraph (11).
+&emsp;&emsp;Compute the balance to the credit of the account as of the close of business on the preceding June 30, including any amounts in the account attributable to loans made under section 360(d) of this title before October 1, 1985, but disregarding the obligation to repay such loans and interest thereon. In determining such balance as of June 30 of any year, so much of the balance to the credit of the railroad unemployment insurance administration fund as of the close of business on such date as is in excess of $6,000,000 shall be deemed to be part of the balance to the credit of such account. There will be a pooled credit ratio for the calendar year only if that balance is in excess of the greater of $250,000,000 or of the amount that bears the same ratio to $250,000,000 as the system compensation base as of that June 30 bears to the system compensation base as of June 30, 1991, as computed in accordance with paragraph (11).
 
 #### (B) Step 2
 
@@ -350,7 +350,7 @@
 
 &emsp;&emsp;&emsp;All benefits paid to an employee who had more than 1 base-year employer shall be charged to the cumulative benefit balances of the employee's base year employers—
 
-&emsp;&emsp;&emsp;&emsp;(I) in reverse chronological order of the employee's employment with each suchemployer in the base year if the employer at the time of the claim was the last base year employer, and the amount charged to each employer shall not exceed the compensation paid by that employer to the employee in the base year; and
+&emsp;&emsp;&emsp;&emsp;(I) in reverse chronological order of the employee's employment with each such employer in the base year if the employer at the time of the claim was the last base year employer, and the amount charged to each employer shall not exceed the compensation paid by that employer to the employee in the base year; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in all other cases, in the same ratio as the compensation paid to such employee by the employer bears to the total of such compensation paid to such employees by all such employers in the base year.
 
@@ -416,7 +416,7 @@
 
 &emsp;&emsp;(ii) ending on that June 30.
 
-&emsp;(B) The amount computed under subparagraph (A) shall be increased to an amount that bears the same ratio to the amount so computed as 12 bears to the number of calendar quarters on which the computation is based.
+&emsp;(B) The amount computed under subparagraph (A) shall be increased to an amount thatbears the same ratio to the amount so computed as 12 bears to the number of calendar quarters on which the computation is based.
 
 #### (b) Employee representative contribution
 
@@ -470,7 +470,7 @@ The contributions required by this chapter shall be collected by the Board and s
 
 #### (j) Time for payment; failure to pay promptly
 
-The contributions required by this chapter shall be collected and paid quarterly or at such other times and in such manner and under suchconditions not inconsistent with this chapter as may be prescribed by regulations of the Board, and shall not be deducted, in whole or in part, from the compensation of employees in the employer's employ. If a contribution required by this chapter is not paid when due, there shall be added to the amount payable (except in the case of adjustments made in accordance with the provisions of this chapter) interest at the rate of 1 per centum per month or fraction of a month from the date the contribution became due until paid. Any interest collected pursuant to this subsection shall be credited to the account.
+The contributions required by this chapter shall be collected and paid quarterly or at such other times and in such manner and under such conditions not inconsistent with this chapter as may be prescribed by regulations of the Board, and shall not be deducted, in whole or in part, from the compensation of employees in the employer's employ. If a contribution required by this chapter is not paid when due, there shall be added to the amount payable (except in the caseof adjustments made in accordance with the provisions of this chapter) interest at the rate of 1 per centum per month or fraction of a month from the date the contribution became due until paid. Any interest collected pursuant to this subsection shall be credited to the account.
 
 #### (k) Application of other laws; authority of Board
 
@@ -486,7 +486,7 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 
 Section 516(b) of the Railroad Unemployment Insurance and Retirement Improvement Act of 1988, referred to in subsec. (a)(8)(A)(ii), probably means section 7106(b) of Pub. L. 100–647, title VII, Nov. 10, 1988, 102 Stat. 3773, which is set out as a note under section 3321 of Title 26, Internal Revenue Code.
 
-The Railroad Retirement Tax Act, referred to in subsec. (k), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
+The Railroad Retirement Tax Act, referred to in subsec. (k), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, which is classified generally to chapter 22 (§3201 et seq.) of Title 26. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
 
 #### Amendments
 
@@ -508,7 +508,7 @@ Pub. L. 100–647, §7102(d)(1), redesignated former subsec. (f) as (i).
 
 Subsecs. (j), (k). Pub. L. 100–647, §7102(d)(1), redesignated former subsecs. (g) and (h) as (j) and (k), respectively.
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–79, §503(a)(1), amended provisions preceding table generally. Prior to amendment, such provisions read as follows: "Every employer shall pay a contribution, with respect to having employees in his service, equal to the percentage determined as set forth below of so much of the compensation as is not in excess of $300 for any calendar month paid by him to any employee for services rendered to him after June 30, 1939, and before July 1, 1954, and is not in excess of $350 for any calendar month paid by him to any employee for services rendered to him after June 30, 1954, and before June 1, 1959, and is not in excess of $400 for any calendar month paid by him to any employee for services rendered to him after May 31, 1959: <i>Provided, however</i>, That if compensation is paid to an employee by more than one employer with respect to any such calendar month, the contributions required by this subsection shall apply to not more than $300 for any month before July 1, 1954, and to not more than $350 for any month after June 30, 1954, and before June 1, 1959, and to not more than $400 for any month after May 31, 1959, of the aggregate compensation paid to said employee by all said employers with respect to such calendar month, and each employer other than a subordinate unit of a national railway-labor-organization employer shall be liable for that proportion of the contribution with respect to such compensation paid by all such employers which the compensation paid by him after December 31, 1946, to the employee for services during any calendar month after 1946 bears to thetotal compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month; and in the event that the compensation so paid by such employers to the employee for services rendered during such month is less than $300 if such month is before July 1, 1954, or less than $350 if such month is after June 30, 1954, and before June 1, 1959, or less than $400 if such month is after May 31, 1959, each subordinate unit of a national railway-labor-organization employer shall be liable for such proportion of any additional contribution as the compensation paid by such employer after December 31, 1946, to such employee for services rendered during such month bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month:
+<b>1983</b>—Subsec. (a). Pub. L. 98–79, §503(a)(1), amended provisions preceding table generally. Prior to amendment, such provisions read as follows: "Every employer shall pay a contribution, with respect to having employees in his service, equal to the percentage determined as set forth below of so much of the compensation as is not in excess of $300 for any calendar month paid by him to any employee for services rendered to him after June 30, 1939, and before July 1, 1954, and is not in excess of $350 for any calendar month paid by him to any employee for services rendered to him after June 30, 1954, and before June 1, 1959, and is not in excess of $400 for any calendar month paid by him to any employee for services rendered to him after May 31, 1959: <i>Provided, however</i>, That if compensation is paid to an employee by more than one employer with respect to any such calendar month, the contributions required by this subsection shall apply to not more than $300 for any month before July 1, 1954, and to not more than $350 for any month after June 30, 1954, and before June 1, 1959, and to not more than $400 for any month after May 31, 1959, of the aggregate compensation paid to said employee by all said employers with respect to such calendar month, and each employer other than a subordinate unit of a national railway-labor-organization employer shall be liable for that proportion of the contribution with respect to such compensation paid by all such employers which the compensation paid by him after December 31, 1946, to the employee for services during any calendar month after 1946 bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month; and in the event that the compensation so paid by such employers to the employee for services rendered during such month is less than $300 if such month is before July 1, 1954, or lessthan $350 if such month is after June 30, 1954, and before June 1, 1959, or less than $400 if such month is after May 31, 1959, each subordinate unit of a national railway-labor-organization employer shall be liable for such proportion of any additional contribution as the compensation paid by such employer after December 31, 1946, to such employee for services rendered during such month bears to the total compensation paid by all such employers after December 31, 1946, to such employee for services rendered during such month:
 
 "1. With respect to compensation paid prior to January 1, 1948, the rate shall be 3 per centum;
 

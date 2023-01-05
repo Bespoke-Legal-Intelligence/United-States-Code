@@ -14,7 +14,7 @@ Section 603, acts Jan. 22, 1932, ch. 8, §3, formerly §4, 47 Stat. 5; July 21, 
 
 Section 603a, act Jan. 31, 1935, ch. 2, §1, 49 Stat. 1, related to salaries of officers and employees. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208.
 
-Section 603b, act June 30, 1949, ch. 286, title III, §301, 63 Stat. 375, provided for distribution of administrative expenses to the accounts of the Corporation in accordance with generally recognized accounting practices, which Corporation was abolished by section 6 of Reorg. Plan. No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
+Section 603b, act June 30, 1949, ch. 286, title III, §301, 63 Stat. 375, provided for distribution of administrative expenses to the accounts of the Corporation in accordance with generally recognized accounting practices, which Corporation was abolished by section 6 of Reorg. Plan. No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
 Section 603c, acts June 30, 1949, ch. 286, title III, §301, 63 Stat. 375; June 30, 1949, ch. 288, title I, §105, 63 Stat. 381, proscribed the use of funds of the Corporation for surplus property or for benefit of other agencies, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
@@ -24,7 +24,7 @@ Section 604a, act Jan. 20, 1934, ch. 3, §2, 48 Stat. 319, related to time limit
 
 Section 604b, act Jan. 31, 1935, ch. 2, §2, 49 Stat. 2, related to limitation on disbursement of funds under commitment. It was repealed by act of June 30, 1947, ch. 166, title II, §206(m), 61 Stat. 208, as amended May 27, 1948, ch. 334, §6, 62 Stat. 265.
 
-Section 605, acts Jan. 22, 1932, ch. 8, §5, formerly §6, 47 Stat. 8; May 20, 1933, ch. 35, §2, 48 Stat. 73; June 19, 1934, ch. 653, §2, 48 Stat. 1107; June 25, 1940, ch. 427, §3(a), 54 Stat. 573; Sept. 18, 1940, ch. 722, title III, §331(a), (b), 54 Stat. 955; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), (e), 61 Stat.202, 208, authorized and directed the Federal Reserve banks to act as custodians and fiscal agents for the Corporation, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
+Section 605, acts Jan. 22, 1932, ch. 8, §5, formerly §6, 47 Stat. 8; May 20, 1933, ch. 35, §2, 48 Stat. 73; June 19, 1934, ch. 653, §2, 48 Stat. 1107; June 25, 1940, ch. 427, §3(a), 54 Stat. 573; Sept. 18, 1940, ch. 722, title III, §331(a), (b), 54 Stat. 955; renumbered and amended June 30, 1947, ch. 166, title I, §1, title II, §206(a), (e), 61 Stat. 202, 208, authorized and directed the Federal Reserve banks to act as custodians and fiscal agents for the Corporation, which Corporation was abolished by section 6 of Reorg. Plan No. 1 of 1957, eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647. Reorg. Plan No. 1 of 1957 is set out preceding section 601 of this title.
 
 Section 605a, act July 21, 1932, ch. 520, §1, 47 Stat. 709, related to loans to States and municipalities for unemployment relief purposes. It was repealed by act of June 30, 1947, ch. 166, title II, §206(a), 61 Stat. 208.
 
@@ -58,7 +58,7 @@ Section 606, acts Jan. 22, 1932, ch. 8, §7, 47 Stat. 8; June 30, 1947, ch. 166,
 
 Section 606a, act Jan. 22, 1932, ch. 8, §5e, as added June 16, 1934, ch. 546, §3, 48 Stat. 971; Jan. 31, 1935, ch. 2, §6, 49 Stat. 3, which related to loans on or purchase of assets of closed financial institutions, was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5.
 
-Section 606b, act Jan. 22, 1932, ch. 8, §5d, as added June 19, 1934, ch. 653, §5, 48 Stat. 1108; amended Jan. 31, 1935, ch. 2, §10, 49 Stat. 4; Apr. 13, 1938, ch. 140, 52 Stat. 212; June 25, 1940, ch. 427, §§5, 6(c), 54 Stat. 573, 574; Sept. 26, 1940, ch. 734, §1, 54 Stat. 961; June 10, 1941, ch. 190, §4, 55 Stat. 249; June 11, 1942, ch. 404, §9, 56 Stat. 355, which provided for loans to States, municipalities, public agencies, and business enterprises, was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5. Act June 30, 1947, ch. 166, title II, §206(x), (z), 61 Stat. 209, repealed acts Mar. 27, 1942, ch. 198, §1, 56 Stat. 174; Aug. 7, 1946, ch. 811, §1, 60 Stat. 901 formerly cited to section 606b of this title.
+Section 606b, act Jan. 22, 1932, ch. 8, §5d, as added June 19, 1934, ch. 653, §5, 48 Stat. 1108; amended Jan. 31, 1935, ch. 2, §10, 49 Stat. 4; Apr. 13, 1938, ch. 140, 52 Stat. 212; June 25, 1940, ch. 427, §§5, 6(c), 54 Stat. 573, 574; Sept. 26, 1940, ch. 734, §1, 54 Stat. 961; June 10, 1941, ch. 190, §4,55 Stat. 249; June 11, 1942, ch. 404, §9, 56 Stat. 355, which provided for loans to States, municipalities, public agencies, and business enterprises, was omitted by act June 30, 1947, ch. 166, title I, §1, 61 Stat. 202, which generally amended the Reconstruction Finance Corporation Act, act Jan. 22, 1932, ch. 8, 47 Stat. 5. Act June 30, 1947, ch. 166, title II, §206(x), (z), 61 Stat. 209, repealed acts Mar. 27, 1942, ch. 198, §1, 56 Stat. 174; Aug. 7, 1946, ch. 811, §1, 60 Stat. 901 formerly cited to section 606b of this title.
 
 Section 606b–1, act Jan. 22, 1932, ch. 8, §5f, as added Mar. 27, 1942, ch. 198, §2, 56 Stat. 175, related to transfer of real estate to Corporation by Government agencies. It was repealed by act of June 30, 1947, ch. 166, title II, §206(x), 61 Stat. 209.
 
@@ -72,7 +72,7 @@ Section 606b–5, act Aug. 7, 1946, ch. 811, §3, 60 Stat. 902, authorized exten
 
 Section 606c, act June 19, 1934, ch. 653, §13, 48 Stat. 1112, related to loans for organizing farmers' mineral rights pools. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 
-Section 606d, acts June 19, 1934, ch. 653, §14, 48 Stat. 1112; Jan. 31, 1935, ch. 2, §12, 49 Stat. 5; Sept. 16, 1940, ch.721, 54 Stat. 897, related to loans to aid mining, milling and smelting industry. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
+Section 606d, acts June 19, 1934, ch. 653, §14, 48 Stat. 1112; Jan. 31, 1935, ch. 2, §12, 49 Stat. 5; Sept. 16, 1940, ch. 721, 54 Stat. 897, related to loans to aid mining, milling and smelting industry. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 
 Section 606e, act June 19, 1934, ch. 653, §15, 48 Stat. 1112, related to loans to aid fishing industry. It was repealed by act of June 30, 1947, ch. 166, title II, §206(k), 61 Stat. 208.
 

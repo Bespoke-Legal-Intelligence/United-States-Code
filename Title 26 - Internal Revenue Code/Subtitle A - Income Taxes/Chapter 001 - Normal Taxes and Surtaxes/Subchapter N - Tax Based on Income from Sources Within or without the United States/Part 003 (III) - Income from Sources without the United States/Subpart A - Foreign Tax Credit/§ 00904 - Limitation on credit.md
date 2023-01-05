@@ -88,7 +88,7 @@ The total amount of the credit taken under section 901(a) shall not exceed the s
 
 #### (c) Carryback and carryover of excess tax paid
 
-Any amount by which all taxes paid or accrued to foreign countries or possessions of the United States for any taxable year for which the taxpayer chooses to have the benefits of this subpart exceed the limitation under subsection (a) shall be deemed taxes paid or accrued to foreign countries or possessions of the United States in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that order and to the extent not deemed taxes paid or accrued in a prior taxable year, in the amount by which the limitation under subsection (a) for such preceding or succeeding taxable year exceeds the sum of the taxes paid or accrued to foreign countries or possessions of the United States for such preceding or succeeding taxable year and the amount of the taxes for any taxable year earlier than the current taxable year which shall be deemed to have been paid or accrued in such preceding or subsequent taxable year (whether or not the taxpayer chooses to have the benefits of this subpart with respect to such earlier taxable year). Such amount deemed paid or accrued in any year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions of the United States. This subsection shall not apply to taxes paid or accrued with respect to amounts described in subsection (d)(1)(A).
+Any amount by which all taxes paid or accrued to foreign countries or possessions of the United States for any taxable year for which the taxpayer chooses to have the benefits of this subpart exceed the limitation under subsection (a) shall be deemed taxes paid or accrued to foreign countries or possessions of the UnitedStates in the first preceding taxable year and in any of the first 10 succeeding taxable years, in that order and to the extent not deemed taxes paid or accrued in a prior taxable year, in the amount by which the limitation under subsection (a) for such preceding or succeeding taxable year exceeds the sum of the taxes paid or accrued to foreign countries or possessions of the United States for such preceding or succeeding taxable year and the amount of the taxes for any taxable year earlier than the current taxable year which shall be deemed to have been paid or accrued in such preceding or subsequent taxable year (whether or not the taxpayer chooses to have the benefits of this subpart with respect to such earlier taxable year). Such amount deemed paid or accrued in any year may be availed of only as a tax credit and not as a deduction and only if the taxpayer for such year chooses to have the benefits of this subpart as to taxes paid or accrued for that year to foreign countries or possessions of the United States. This subsection shall not apply to taxes paid or accrued with respect to amounts described in subsection (d)(1)(A).
 
 #### (d) Separate application of section with respect to certain categories of income
 
@@ -170,7 +170,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (iii) Pass-thru entities
 
-&emsp;&emsp;&emsp;The Secretary shall by regulation specify for purposes of this subparagraph the treatment of financial services income received or accrued by partnerships and by other pass-thru entities which are not members of a financial services group.
+&emsp;&emsp;&emsp;The Secretary shall by regulation specify for purposes of this subparagraph thetreatment of financial services income received or accrued by partnerships and by other pass-thru entities which are not members of a financial services group.
 
 #### (D) Financial services income
 
@@ -246,7 +246,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (I) Related person
 
-&emsp;&emsp;For purposes of this paragraph, the term "related person" has the meaning given such term by section 954(d)(3), except that such section shall be applied by substituting "the person with respect to whom the determination is being made" for "controlled foreign corporation" each place it appears.
+&emsp;&emsp;For purposes of this paragraph, the term "related person" has the meaning given suchterm by section 954(d)(3), except that such section shall be applied by substituting "the person with respect to whom the determination is being made" for "controlled foreign corporation" each place it appears.
 
 #### (J) Foreign branch income
 
@@ -528,7 +528,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 #### (F) Dispositions
 
-&emsp;&emsp;If any separate limitation loss for any taxable year is allocated against any separate limitation income for such taxable year, except to the extent provided in regulations, rules similar to the rules of paragraph (3) shall apply to any disposition of property if gain from such disposition would be in the income category with respect to which there was such separate limitation loss.
+&emsp;&emsp;If any separate limitation loss for any taxable year is allocated against any separate limitation income for such taxable year, except to the extent provided in regulations, rules similar to the rules of paragraph (3)shall apply to any disposition of property if gain from such disposition would be in the income category with respect to which there was such separate limitation loss.
 
 #### (g) Recharacterization of overall domestic loss
 
@@ -620,7 +620,7 @@ Any amount by which all taxes paid or accrued to foreign countries or possession
 
 &emsp;&emsp;(A) is paid or accrued by a United States-owned foreign corporation during any taxable year,
 
-&emsp;&emsp;(B) is paid or accrued to a United States shareholder (as defined in section 951(b)) or a related person (within the meaning of section 267(b)) to such a shareholder, and
+&emsp;&emsp;(B) is paid or accrued to a United States shareholder (as defined in section 951(b)) or arelated person (within the meaning of section 267(b)) to such a shareholder, and
 
 &emsp;&emsp;(C) is properly allocable (under regulations prescribed by the Secretary) to income of such foreign corporation for the taxable year from sources within the United States,
 
@@ -758,7 +758,7 @@ If 2 or more domestic corporations would be members of the same affiliated group
 
 For increase of limitation under subsection (a) for taxes paid with respect to amounts received which were included in the gross income of the taxpayer for a prior taxable year as a United States shareholder with respect to a controlled foreign corporation, see section 960(c).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 287; Pub. L. 85–866, title I, §42(a), Sept. 2, 1958, 72 Stat. 1639; Pub. L. 86–780, §1, Sept. 14, 1960, 74 Stat. 1010; Pub. L. 87–834, §§10(a), 12(b)(2), Oct. 16, 1962, 76 Stat. 1002, 1031; Pub. L. 88–272, title II, §234(b)(6), Feb. 26, 1964, 78 Stat. 116; Pub. L. 89–809, title I, §106(c)(1), Nov. 13, 1966, 80 Stat. 1570; Pub. L. 91–172, title V, §506(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 92–178, title V, §502(b)(2)–(4), Dec. 10, 1971, 85 Stat. 549; Pub. L. 94–455, title V, §503(b)(1), title X, §§1031(a), 1032(a), 1034(a), 1051(e), title XIX, §1901(b)(10)(B), Oct. 4, 1976, 90 Stat. 1562, 1620, 1624, 1629, 1646, 1795; Pub. L. 95–30, title I, §102(b)(11), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §§403(c)(4), 421(e)(6), title VII, §701(q)(2), (u)(2)(A)–(C), (3)(A), (4)(A), (B), (8)(C), Nov. 6, 1978, 92 Stat. 2868, 2876, 2910, 2913, 2916; Pub. L. 96–222, title I, §104(a)(3)(D), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–248, title II, §211(c)(2), Sept. 3, 1982, 96 Stat. 449; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §§121(a), 122(a), title IV, §474(r)(21), title VIII, §801(d)(2), July 18, 1984, 98 Stat. 638, 643, 843, 995; Pub. L. 99–514, title I, §104(b)(13), title VII, §701(e)(4)(H), title XII, §§1201(a), (b), (d)(1)–(3), 1203(a), 1211(b)(3), 1235(f)(4), title XVIII, §§1810(a)(1)(A), (b)(1)–(4)(A), 1876(d)(2), 1899A(24), Oct. 22, 1986, 100 Stat. 2105, 2343, 2520, 2525, 2531, 2536, 2575, 2821, 2823, 2899, 2959; Pub. L. 100–647, title I, §§1003(b)(2), 1012(a)(1)(A), (2)–(4), (6)–(11), (c), (p)(11), (29), (q)(12), (bb)(4)(A), title II, §2004(l), Nov. 10, 1988, 102 Stat. 3383, 3493–3497, 3517, 3521, 3525, 3534, 3606; Pub. L. 101–239, title VII, §§7402(a), 7811(i)(1), Dec. 19, 1989, 103 Stat. 2357,2409; Pub. L. 101–508, title XI, §§11101(d)(5), 11801(a)(31), Nov. 5, 1990, 104 Stat. 1388–405, 1388–521; Pub. L. 103–66, title XIII, §§13227(d), 13235(a)(2), Aug. 10, 1993, 107 Stat. 494, 504; Pub. L. 104–188, title I, §§1501(b)(1), (12), 1703(i)(1), 1704(t)(36), Aug. 20, 1996, 110 Stat. 1825, 1826, 1876, 1889; Pub. L. 105–34, title III, §311(c)(3), title XI, §§1101(a), 1105(a), (b), 1111(b), 1163(b), Aug. 5, 1997, 111 Stat. 835, 963, 967, 969, 987; Pub. L. 106–170, title V, §501(b)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(b)(2)(G), 202(f)(2)(C), title VI, §618(b)(2)(D), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–147, title IV, §417(23)(B), title VI, §601(b)(1), Mar. 9, 2002, 116 Stat. 57, 59; Pub. L. 108–311, title III, §312(b)(1), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title IV, §§402(a), 403(a)–(b)(5), 404(a)–(f), 413(c)(14), (15), 417(a), title VIII, §895(a), Oct. 22, 2004, 118 Stat. 1491–1495, 1508, 1512, 1647; Pub. L. 109–135, title IV, §§402(i)(3)(G), 403(k), (o), Dec. 21, 2005, 119 Stat. 2614, 2625, 2626; Pub. L. 110–172, §11(f)(3), (g)(10), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 111–5, div. B, title I, §§1004(b)(5), 1142(b)(1)(E), 1144(b)(1)(E), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(K), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–226, title II, §§213(a), 217(c)(2), Aug. 10, 2010, 124 Stat. 2398, 2402; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(K), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 113–295, div. A, title II, §§219(c), 221(a)(72), Dec. 19, 2014, 128 Stat. 4035, 4049; Pub. L. 115–97, title I, §§13001(b)(2)(M), 14101(d), 14201(b)(2), 14301(c)(15)–(19), 14302(a), (b), 14304(a), Dec. 22, 2017, 131 Stat. 2097, 2191, 2212, 2223, 2225; Pub. L. 115–141, div. U, title IV, §401(a)(157), (d)(1)(D)(xiii), (xiv), Mar. 23, 2018, 132 Stat. 1191, 1208.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 287; Pub. L. 85–866, title I, §42(a), Sept. 2, 1958, 72 Stat. 1639; Pub. L. 86–780, §1, Sept. 14, 1960, 74 Stat. 1010; Pub. L. 87–834, §§10(a), 12(b)(2), Oct. 16, 1962, 76 Stat. 1002, 1031; Pub. L. 88–272, title II, §234(b)(6), Feb. 26, 1964, 78 Stat. 116; Pub. L. 89–809, title I, §106(c)(1), Nov. 13, 1966, 80 Stat. 1570; Pub. L. 91–172, title V, §506(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 92–178, title V, §502(b)(2)–(4), Dec. 10, 1971, 85 Stat. 549; Pub. L. 94–455, title V, §503(b)(1), title X, §§1031(a), 1032(a), 1034(a), 1051(e), title XIX, §1901(b)(10)(B), Oct. 4, 1976, 90 Stat. 1562, 1620, 1624, 1629, 1646, 1795; Pub. L. 95–30, title I, §102(b)(11), May 23, 1977, 91 Stat. 138; Pub. L. 95–600, title IV, §§403(c)(4), 421(e)(6), title VII, §701(q)(2), (u)(2)(A)–(C), (3)(A), (4)(A), (B), (8)(C), Nov. 6, 1978, 92 Stat. 2868, 2876, 2910, 2913, 2916; Pub. L. 96–222, title I, §104(a)(3)(D), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–248, title II, §211(c)(2), Sept. 3, 1982, 96 Stat. 449; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title I, §§121(a), 122(a), title IV, §474(r)(21), title VIII, §801(d)(2), July 18, 1984, 98 Stat. 638, 643, 843, 995; Pub. L. 99–514, title I, §104(b)(13), title VII, §701(e)(4)(H), title XII, §§1201(a), (b), (d)(1)–(3), 1203(a), 1211(b)(3), 1235(f)(4), title XVIII, §§1810(a)(1)(A), (b)(1)–(4)(A), 1876(d)(2), 1899A(24), Oct. 22, 1986, 100 Stat. 2105, 2343, 2520, 2525, 2531, 2536, 2575, 2821, 2823, 2899, 2959; Pub. L. 100–647, title I, §§1003(b)(2), 1012(a)(1)(A), (2)–(4), (6)–(11), (c), (p)(11), (29), (q)(12), (bb)(4)(A), title II, §2004(l), Nov. 10, 1988, 102 Stat. 3383, 3493–3497, 3517, 3521, 3525, 3534, 3606; Pub. L. 101–239, title VII, §§7402(a), 7811(i)(1), Dec. 19, 1989, 103 Stat. 2357, 2409; Pub. L. 101–508, title XI, §§11101(d)(5), 11801(a)(31), Nov. 5, 1990, 104 Stat. 1388–405, 1388–521; Pub. L. 103–66, title XIII, §§13227(d), 13235(a)(2), Aug. 10, 1993, 107 Stat. 494, 504; Pub. L. 104–188, title I, §§1501(b)(1), (12), 1703(i)(1), 1704(t)(36), Aug. 20, 1996, 110 Stat. 1825, 1826, 1876, 1889; Pub. L. 105–34, title III, §311(c)(3), title XI, §§1101(a), 1105(a), (b), 1111(b), 1163(b), Aug. 5, 1997, 111 Stat. 835, 963, 967, 969, 987; Pub. L. 106–170, title V, §501(b)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(b)(2)(G), 202(f)(2)(C), title VI, §618(b)(2)(D), June 7, 2001, 115 Stat. 46, 49, 108; Pub. L. 107–147, title IV, §417(23)(B), title VI, §601(b)(1), Mar. 9, 2002, 116 Stat. 57, 59; Pub. L. 108–311, title III, §312(b)(1), Oct. 4, 2004, 118 Stat. 1181; Pub. L. 108–357, title IV, §§402(a), 403(a)–(b)(5), 404(a)–(f), 413(c)(14), (15), 417(a), title VIII, §895(a), Oct. 22, 2004, 118 Stat. 1491–1495, 1508, 1512, 1647; Pub. L. 109–135, title IV, §§402(i)(3)(G), 403(k), (o), Dec. 21, 2005, 119 Stat. 2614, 2625, 2626; Pub. L. 110–172, §11(f)(3), (g)(10), Dec. 29, 2007, 121 Stat. 2489, 2490; Pub. L. 111–5, div. B, title I, §§1004(b)(5), 1142(b)(1)(E), 1144(b)(1)(E), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(K), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–226, title II, §§213(a), 217(c)(2), Aug. 10, 2010, 124 Stat. 2398, 2402; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(K), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 113–295, div. A, title II, §§219(c), 221(a)(72), Dec. 19, 2014, 128 Stat. 4035, 4049; Pub. L. 115–97, title I, §§13001(b)(2)(M), 14101(d), 14201(b)(2), 14301(c)(15)–(19), 14302(a), (b), 14304(a), Dec. 22, 2017, 131 Stat. 2097, 2191, 2212, 2223, 2225; Pub. L. 115–141, div. U, title IV, §401(a)(157),\(d)(1)(D)(xiii), (xiv), Mar. 23, 2018, 132 Stat. 1191, 1208.)
 
 #### <b>Editorial Notes</b>
 
@@ -892,7 +892,7 @@ Subsec. (d)(2)(C). Pub. L. 108–357, §404(d), added subpar. (C). Former subpar
 
 Subsec. (d)(2)(C)(iii). Pub. L. 108–357, §403(b)(2), inserted "and" at end of subcl. (I), redesignated subcl. (III) as (II), and struck out former subcl. (II) which read as follows: "any dividend from a noncontrolled section 902 corporation out of earnings and profits accumulated in taxable years beginning before January 1, 2003, and".
 
-Subsec. (d)(2)(D). Pub. L. 108–357, §404(d), redesignated subpar. (C) as (D) and struck out heading and text of former subpar. (D). Text read as follows: "The term 'shipping income' means any income received or accrued by any person which is of a kind which would be foreign base company shipping income (as defined insection 954(f) as in effect before its repeal). Such term does not include any financial services income."
+Subsec. (d)(2)(D). Pub. L. 108–357, §404(d), redesignated subpar. (C) as (D) and struck out heading and text of former subpar. (D). Text read as follows: "The term 'shipping income' means any income received or accrued by any person which is of a kind which would be foreign base company shipping income (as defined in section 954(f) as in effect before its repeal). Such term does not include any financial services income."
 
 Pub. L. 108–357, §403(b)(3), substituted "Such term does not include any financial services income" for "Such term does not include any dividend from a noncontrolled section 902 corporation out of earnings and profits accumulated in taxable years beginning before January 1, 2003 and does not include any financial services income".
 
@@ -1118,7 +1118,7 @@ Subsecs. (h), (i). Pub. L. 98–369, §121(a), redesignated former subsecs. (g) 
 
 <b>1980</b>—Subsec. (b)(3)(F). Pub. L. 96–222, §104(a)(3)(D)(i), redesignated subpar. (E) "Rate differential portion", added by Pub. L. 95–600, as (F).
 
-<b>1978</b>—Subsec. (b)(2). Pub. L. 95–600, §§403(c)(4)(A), 701(u)(2)(A), (3)(A), in subpar. (A) substituted "this section" for "subsection (a)", "the rate differential portion" for "three eighths" wherever appearing, and "for purposes of determining taxable income from sources without the United States, any net capital loss (andany amount which is a short term capital loss under section 1212(a))" for "any net capital loss".
+<b>1978</b>—Subsec. (b)(2). Pub. L. 95–600, §§403(c)(4)(A), 701(u)(2)(A), (3)(A), in subpar. (A) substituted "this section" for "subsection (a)", "the rate differential portion" for "three eighths" wherever appearing, and "for purposes of determining taxable income from sources without the United States, any net capital loss (and any amount which is a short term capital loss under section 1212(a))" for "any net capital loss".
 
 Subsec. (b)(3). Pub. L. 95–600, §§403(c)(4)(B), 701(u)(2)(B), (C), as amended by Pub. L. 96–222, §104(a)(3)(D)(ii), substituted "There" for "For purposes of this paragraph, there", added subpar. (D), redesignated former subpar. (D), relating to section 1231 gains, as subpar. (E), and added another subpar. (E), relating to rate differential portion. See 1980 Amendment note above.
 
@@ -1218,7 +1218,7 @@ Amendment by Pub. L. 111–148 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2009 Amendment
 
-Amendment by section 1004(b)(5) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
+Amendment by section 1004(b)(5) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008,see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
 Amendment by section 1142(b)(1)(E) of Pub. L. 111–5 applicable to vehicles acquired after Feb. 17, 2009, see section 1142(c) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of this title.
 
@@ -1362,7 +1362,7 @@ Substantial disposition.—For purposes of this paragraph, a taxpayer shall be t
 
 \["(b)
 
-Effective Date.—The repeal made by subsection (a) \[amending section 1201(e) of Pub. L. 99–514,set out above\] shall apply to taxable years beginning after December 31, 1989.
+Effective Date.—The repeal made by subsection (a) \[amending section 1201(e) of Pub. L. 99–514, set out above\] shall apply to taxable years beginning after December 31, 1989.
 
 \["(c)
 
@@ -1390,7 +1390,7 @@ Amendment by section 1211(b)(3) of Pub. L. 99–514 applicable to taxable years 
 
 Amendment by section 1235(f)(4) of Pub. L. 99–514 applicable to taxable years of foreign corporations beginning after Dec. 31, 1986, see section 1235(h) of Pub. L. 99–514, set out as an Effective Date note under section 1291 of this title.
 
-Pub. L. 99–514, title XVIII, §1810(a)(1)(B), Oct. 22, 1986, 100 Stat. 2822, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect on March 28, 1985. In the case of any taxable year ending after such date of any corporation treated as a United States-owned foreign corporation by reason of the amendment made by subparagraph (A)—
+Pub. L. 99–514, title XVIII, §1810(a)(1)(B), Oct. 22, 1986, 100 Stat. 2822, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect on March 28, 1985. In the case of any taxable year ending after such date of any corporation treated as aUnited States-owned foreign corporation by reason of the amendment made by subparagraph (A)—
 
 &emsp;"(i) only income received or accrued by such corporation after such date shall be taken into account under section 904(g) of the Internal Revenue Code of 1954 \[now 1986\]; except that
 
@@ -1574,7 +1574,7 @@ Amendment by Pub. L. 98–21 applicable to taxable years beginning after Dec. 31
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, except that former subsec. (f)(4), which had provided for the determination of foreign oil related loss where section 907 of this title was applicable, shall continue to apply in certain instances where the taxpayer has had a foreign loss froman activity not related to oil and gas, see section 211(e) of Pub. L. 97–248, set out as a note under section 907 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, except that former subsec. (f)(4), which had provided for the determination of foreign oil related loss where section 907 of this title was applicable, shall continue to apply in certain instances where the taxpayer has had a foreign loss from an activity not related to oil and gas, see section 211(e) of Pub. L. 97–248, set out as a note under section 907 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -1652,7 +1652,7 @@ Substantial worthlessness before enactment.—The amendments made by subsection 
 
 "(4)
 
-Limitation based on deficit in earnings and profits.—If paragraph (3) would apply to a taxpayerbut for the fact that the loss is sustained after December 31, 1976, and if the loss is sustained in a taxable year beginning before January 1, 1979, the amendments made by subsection (a) \[amending this section\] shall not apply to such loss to the extent that there was on December 31, 1975, a deficit in earnings and profits in the corporation from which the loss arose. For purposes of the preceding sentence, there shall be taken into account only earnings and profits of the corporation which (A) were accumulated in taxable years of the corporation beginning after December 31, 1962, and during the period in which the stock of such corporation from which the loss arose was held by the taxpayer and (B) are attributable to such stock.
+Limitation based on deficit in earnings and profits.—If paragraph (3) would apply to a taxpayer but for the fact that the loss is sustained after December 31, 1976, and if the loss is sustained in a taxable year beginning before January 1, 1979, the amendments made by subsection (a) \[amending this section\] shall not apply to such loss to the extent that there was on December 31, 1975, a deficit in earnings and profits in the corporation from which the loss arose. For purposes of the preceding sentence, there shall be taken into account only earnings and profits of the corporation which (A) were accumulated in taxable years of the corporation beginning after December 31, 1962, and during the period in which the stock of such corporation from which the loss arose was held by the taxpayer and (B) are attributable to such stock.
 
 "(5)
 
@@ -1680,7 +1680,7 @@ No recapture during transition period.—In any case to which this paragraph app
 
 Recapture of loss after the transition period.—In any case to which this paragraph applies—
 
-&emsp;&emsp;"(i) for purposes of determining the liability for tax of the taxpayer for taxable years beginning after December 31, 1978, section 904(f) of the Internal Revenue Code of 1986 \[subsec. (f) of this section\] shall be applied with respect to the loss described in subparagraph (A)(i) under the principles of section 904(a)(1) of such Code (as in effect before the enactment of this Act \[Oct. 4, 1976\]); but
+&emsp;&emsp;"(i) for purposes of determining the liability for tax of the taxpayer for taxable years beginningafter December 31, 1978, section 904(f) of the Internal Revenue Code of 1986 \[subsec. (f) of this section\] shall be applied with respect to the loss described in subparagraph (A)(i) under the principles of section 904(a)(1) of such Code (as in effect before the enactment of this Act \[Oct. 4, 1976\]); but
 
 &emsp;&emsp;"(ii) in the case of any taxpayer and any possession, the aggregate amount to which such section 904(f) applies by reason of clause (i) shall not exceed the sum of the net incomes of all affiliated corporations from such possession for taxable years of such affiliated corporations beginning after December 31, 1975, and before January 1, 1979.
 
@@ -1728,7 +1728,7 @@ Pub. L. 85–866, title I, §42(c), Sept. 2, 1958, 72 Stat. 1640, provided that:
 
 #### Savings Provision
 
-For provisions that nothing in amendment by section 401(d)(1)(D)(xiii), (xiv) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction,or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by section 401(d)(1)(D)(xiii), (xiv) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 For provisions that nothing in amendment by section 11801(a)(31) of Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 

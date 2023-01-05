@@ -30,7 +30,7 @@ The Committee shall—
 
 #### (2) Development
 
-&emsp;The Committee shall develop, and update as required under paragraph (4), in coordinationwith the National Economic Council, a strategic plan to improve Government coordination and provide long-term guidance for Federal programs and activities in support of United States manufacturing competitiveness, including advanced manufacturing research and development.
+&emsp;The Committee shall develop, and update as required under paragraph (4), in coordination with the National Economic Council, a strategic plan to improve Government coordination and provide long-term guidance for Federal programs and activities in support of United States manufacturing competitiveness, including advanced manufacturing research and development.
 
 #### (3) Contents
 
@@ -74,7 +74,7 @@ The Committee shall—
 
 #### (5) Requirement to consider strategy in the budget
 
-&emsp;In preparing the budget for a fiscal year under section 1105(a) of title 31, the President shall include information regarding the consistency of the budget with the goals and recommendations included in the strategic plan developed under this subsection applying to that fiscal year.
+&emsp;In preparing the budget for a fiscal year under section 1105(a) of title 31, the Presidentshall include information regarding the consistency of the budget with the goals and recommendations included in the strategic plan developed under this subsection applying to that fiscal year.
 
 #### (6) AMP steering committee input
 

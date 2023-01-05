@@ -44,9 +44,9 @@ For the purpose of performing functions under this chapter outside the United St
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b), (d), (e)(1), (2), (4), was in the original "this Act", meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b), (d), (e)(1), (2), (4), was in the original "this Act", meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (g)(4), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (g)(4), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Codification
 
@@ -118,7 +118,7 @@ Section 1. <i>Department of State</i>. (a) The following functions conferred upo
 
 Sec. 2. <i>United States Information Agency</i>. (a) Subject to the provisions of Section 6 of this order, the following functions conferred upon the President by the Act are hereby delegated to the Director of the United States Information Agency:
 
-(1) The functions so conferred by Sections 102(a)(2)(iii) and (b)(1) \[section 2452(a)(2)(iii), (b)(1) of this title\]; Section 102(b)(2) \[section 2452(b)(2) of this title\] to the extent that it authorizes the type of centers now supported by the United States Information Agency abroad and designated as binational, community, or student centers; section 102(b)(4) \[section 2452(b)(4) of this title\] exclusive of professorships and lectureships; and Sections 102(b)(7) and (8) of the Act \[section 2452(b)(7), (8) of this title\]; all of the foregoing notwithstanding the provisions of Section 1(a)(2) of this order.
+(1) The functions so conferred by Sections 102(a)(2)(iii) and (b)(1) \[section 2452(a)(2)(iii), (b)(1) ofthis title\]; Section 102(b)(2) \[section 2452(b)(2) of this title\] to the extent that it authorizes the type of centers now supported by the United States Information Agency abroad and designated as binational, community, or student centers; section 102(b)(4) \[section 2452(b)(4) of this title\] exclusive of professorships and lectureships; and Sections 102(b)(7) and (8) of the Act \[section 2452(b)(7), (8) of this title\]; all of the foregoing notwithstanding the provisions of Section 1(a)(2) of this order.
 
 (2) The functions so conferred by Section 104(e)(4) of the Act \[subsec. (e)(4) of this section\] (the provisions of Sections 1(a)(4) and 3(b) of this order notwithstanding).
 
@@ -164,7 +164,7 @@ Sec. 8. <i>Waivers</i>. (a) It is hereby determined that the performance by any 
 
 (1) Section 15 of the Administrative Expenses Act of 1946 (c. 744, August 2, 1946; 60 Stat. 810), as amended (5 U.S.C. 55a) \[section 3109(b) of Title 5, Government Organization and Employees\] (experts and consultants; but the compensation paid individuals in pursuance of this paragraph shall not exceed the rate of $100.00 per diem.
 
-(2) Section 16(a) of the Administrative Expenses Act of 1946 (c. 744, August 2, 1946; 60 Stat. 810; 5 U.S.C. 78)\[section 1343, 1344, and 1349(b) of Title 31, Money and Finance\] to the extent that it pertains to hiring automobiles and aircraft.
+(2) Section 16(a) of the Administrative Expenses Act of 1946 (c. 744, August 2, 1946; 60 Stat. 810; 5 U.S.C. 78) \[section 1343, 1344, and 1349(b) of Title 31, Money and Finance\] to the extent that it pertains to hiring automobiles and aircraft.
 
 (3) Section 3648 of the Revised Statutes, as amended (31 U.S.C. 529) \[section 3324(a) and (b) of Title 31\] (advance of funds).
 

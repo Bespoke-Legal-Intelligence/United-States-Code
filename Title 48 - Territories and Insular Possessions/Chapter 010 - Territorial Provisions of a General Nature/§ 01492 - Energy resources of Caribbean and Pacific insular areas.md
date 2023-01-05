@@ -52,7 +52,7 @@ The Secretary of Energy or any administrative official who may succeed him, with
 
 &emsp;(C) drafting long-term energy transmission line plans for such insular areas with the objective that the maximum percentage feasible of electric power transmission and distribution lines in each insular area be protected from damage caused by hurricanes and typhoons.
 
-(2) In carrying out this subsection, the Secretary of Energy shall identify and evaluate the strategies or projects with the greatest potential for reducing the dependence on importedfossil fuels as used for the generation of electricity, including strategies and projects for—
+(2) In carrying out this subsection, the Secretary of Energy shall identify and evaluate the strategies or projects with the greatest potential for reducing the dependence on imported fossil fuels as used for the generation of electricity, including strategies and projects for—
 
 &emsp;(A) improved supply-side efficiency of centralized electrical generation, transmission, and distribution systems;
 

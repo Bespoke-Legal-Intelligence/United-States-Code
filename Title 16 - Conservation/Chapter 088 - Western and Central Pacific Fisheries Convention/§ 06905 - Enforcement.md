@@ -6,7 +6,7 @@ The Secretary may—
 
 &emsp;(1) administer and enforce this chapter and any regulations issued under this chapter, except to the extent otherwise provided for in this Act;
 
-&emsp;(2) request and utilize on a reimbursed or non-reimbursed basis the assistance, services,personnel, equipment, and facilities of other Federal departments and agencies in—
+&emsp;(2) request and utilize on a reimbursed or non-reimbursed basis the assistance, services, personnel, equipment, and facilities of other Federal departments and agencies in—
 
 &emsp;&emsp;(A) the administration and enforcement of this chapter; and
 

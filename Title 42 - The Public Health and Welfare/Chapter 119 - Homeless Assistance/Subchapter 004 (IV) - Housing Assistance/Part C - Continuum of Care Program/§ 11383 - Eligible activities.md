@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Grants awarded under section 11382 of this title to qualified applicants shall be used to carry out projects that serve homeless individuals or families that consist of one or more of the following eligible activities:
+Grants awarded under section 11382 of this title to qualified applicants shall be used tocarry out projects that serve homeless individuals or families that consist of one or more of the following eligible activities:
 
 &emsp;(1) Construction of new housing units to provide transitional or permanent housing.
 
@@ -31,6 +31,20 @@ Grants awarded under section 11382 of this title to qualified applicants shall b
 &emsp;(11) In the case of a collaborative applicant that is a unified funding agency under section 11360a(g) of this title, payment of administrative costs related to meeting the requirements of that section, for which the unified funding agency may use not more than 3 percent of the total funds made available in the geographic area under this part for such costs, in addition to funds used under paragraph (10).
 
 &emsp;(12) Payment of administrative costs to project sponsors, for which each project sponsor may use not more than 10 percent of the total funds made available to that project sponsor through this part for such costs.
+
+&emsp;(13) <sup>1</sup> Facilitating and coordinating activities to ensure compliance with subsection (e) of section 12491 of title 34 and monitoring compliance with the confidentiality protections of subsection (c)(4) of such section.
+
+&emsp;(13) <sup>1</sup> Projects in rural areas that consist of one or more of the following activities:
+
+&emsp;&emsp;(A) Payment of short-term emergency lodging, including in motels or shelters, directly or through vouchers.
+
+&emsp;&emsp;(B) Repairs to units—
+
+&emsp;&emsp;&emsp;(i) in which homeless individuals and families will be housed; or
+
+&emsp;&emsp;&emsp;(ii) which are currently not fit for human habitation.
+
+&emsp;&emsp;(C) Staff training, professional development, skill development, and staff retention activities.
 
 #### (b) Minimum grant terms
 
@@ -88,7 +102,7 @@ Any project that receives assistance under subsection (a) and that provides proj
 
 Provision of permanent housing rental assistance shall be administered by a State, unit of general local government, private nonprofit organization, or public housing agency.
 
-(Pub. L. 100–77, title IV, §423, as added Pub. L. 111–22, div. B, title III, §1302, May 20, 2009, 123 Stat. 1684; amended Pub. L. 114–94, div. G, title LXXIX, §79001, Dec. 4, 2015, 129 Stat. 1792.)
+(Pub. L. 100–77, title IV, §423, as added Pub. L. 111–22, div. B, title III, §1302, May 20, 2009, 123 Stat. 1684; amended Pub. L. 114–94, div. G, title LXXIX, §79001, Dec. 4, 2015, 129 Stat. 1792; Pub. L. 117–103, div. W, title VI, §605(a)(2), Mar. 15, 2022, 136 Stat. 886; Pub. L. 117–263, div. E, title LVII, §5707, Dec. 23, 2022, 136 Stat. 3419.)
 
 #### <b>Editorial Notes</b>
 
@@ -104,15 +118,25 @@ Another prior section 11383, Pub. L. 100–77, title IV, §423, July 22, 1987, 1
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(13). Pub. L. 117–263 added par. (13) relating to the eligibility of certain projects in rural areas.
+
+Pub. L. 117–103 added par. (13) relating to facilitating and coordinating activities to ensure compliance with section 12491(e) of title 34.
+
 <b>2015</b>—Subsec. (g). Pub. L. 114–94 inserted "private nonprofit organization," after "unit of general local government,".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+
 #### Effective Date
 
-Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certainfinal regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
 
 #### Definition
 
 For provisions relating to definition of "local government" as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note under section 11360 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two pars. (13) have been enacted.</i>
 

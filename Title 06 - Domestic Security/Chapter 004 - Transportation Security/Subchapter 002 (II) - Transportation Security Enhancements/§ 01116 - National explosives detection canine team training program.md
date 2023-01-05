@@ -70,7 +70,7 @@ There are authorized to be appropriated to the Secretary such sums as may be nec
 
 #### (1) In general
 
-&emsp;In order to enhance the screening of air cargo and ensure that third party explosivesdetection canine assets are leveraged for such purpose, the Administrator shall, not later than 180 days after October 5, 2018—
+&emsp;In order to enhance the screening of air cargo and ensure that third party explosives detection canine assets are leveraged for such purpose, the Administrator shall, not later than 180 days after October 5, 2018—
 
 &emsp;&emsp;(A) develop and issue standards for the use of such third party explosives detection canine assets for the primary screening of air cargo;
 
@@ -188,7 +188,7 @@ Termination.—The working group established under subsection (a) shall terminat
 
 "(h)
 
-Nonapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under this Act \[see Short Title of 2018 Amendment note set out under section 40101 of Title 49\].
+Nonapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall not apply to the working group established under this Act \[see Short Title of 2018 Amendment note set out under section 40101 of Title 49\].
 
 #### "SEC. 1928. THIRD PARTY DOMESTIC CANINES.
 
@@ -302,7 +302,7 @@ Nondeployable canines.—Any certified canine provided to the TSA under clause (
 
 &emsp;&emsp;"(C)
 
-Handlers.—Not later than 30 days before a canine begins training to become a certified canineunder subparagraph (B), the airport shall notify the TSA of such training and the Administrator shall assign a TSA canine handler to participate in the training with that canine, as appropriate.
+Handlers.—Not later than 30 days before a canine begins training to become a certified canine under subparagraph (B), the airport shall notify the TSA of such training and the Administrator shall assign a TSA canine handler to participate in the training with that canine, as appropriate.
 
 &emsp;&emsp;"(D)
 
@@ -338,7 +338,7 @@ Increased Capacity.—
 
 &emsp;"(1)
 
-In general.—Before the date the Inspector General of the Department \[of Homeland Security\] submits the report under section 1970 \[132 Stat. 3612\], the Administrator \[of the Transportation Security Administration\] may increase the number of State and local surface and maritime transportation canines by not more than 70 explosives detection canine teams.
+In general.—Before the date the Inspector General of the Department \[of Homeland Security\]submits the report under section 1970 \[132 Stat. 3612\], the Administrator \[of the Transportation Security Administration\] may increase the number of State and local surface and maritime transportation canines by not more than 70 explosives detection canine teams.
 
 &emsp;"(2)
 

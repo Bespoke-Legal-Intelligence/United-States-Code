@@ -8,7 +8,7 @@ Employment Skills Verification.—(1) The Secretary of Defense and the Secretary
 
 &emsp;(A) establish a database to record all training performed by members of the Army, Navy, Air Force, Marine Corps, and Space Force that may have application to employment in the civilian sector; and
 
-&emsp;(B) make unclassified information regarding such information available to States and other potential employers referred to in subsection (c) so that State and other entities may allow military training to satisfy licensing or certification requirements to engage in a civilian profession.
+&emsp;(B) make unclassified information regarding such information available to States and otherpotential employers referred to in subsection (c) so that State and other entities may allow military training to satisfy licensing or certification requirements to engage in a civilian profession.
 
 (3) The Secretary of Defense shall ensure that a certification or verification of job skills and experience required by paragraph (1) is rendered in such a way that States and other potential employers can confirm the accuracy and authenticity of the certification or verification.
 
@@ -34,7 +34,7 @@ Employment Preference by Nonappropriated Fund Instrumentalities.—The Secretary
 
 (e)
 
-Employment Skills Training.—(1) The Secretary concerned may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector.
+Employment Skills Training; Skillbridge.—(1) The Secretary concerned may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector. Such a program shall be known as "Skillbridge".
 
 (2) A member of the armed forces is an eligible member for purposes of a program under this subsection if the member—
 
@@ -46,11 +46,15 @@ Employment Skills Training.—(1) The Secretary concerned may carry out one or m
 
 (4) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary concerned.
 
-(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395; Pub. L. 116–92, div. A, title V, §562, Dec. 20, 2019, 133 Stat. 1395; Pub. L. 116–283, div. A, title V, §572, title IX, §924(b)(1)(J), (3)(R), Jan. 1, 2021, 134 Stat. 3643, 3820, 3821.)
+(Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 103–337, div. A, title V, §542(a)(2), Oct. 5, 1994, 108 Stat. 2767; Pub. L. 105–85, div. A, title X, §1073(a)(21), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–81, div. A, title V, §551, Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title X, §1076(f)(13), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title V, §542(a)–(c), Dec. 12, 2017, 131 Stat. 1394, 1395; Pub. L. 116–92, div. A, title V, §562, Dec. 20, 2019, 133 Stat. 1395; Pub. L. 116–283, div. A, title V, §572, title IX, §924(b)(1)(J), (3)(R), Jan. 1, 2021, 134 Stat. 3643, 3820, 3821; Pub. L. 117–263, div. A, title V, §561(a), Dec. 23, 2022, 136 Stat. 2598.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–263, §561(a)(1), inserted "; Skillbridge" after "Training" in heading.
+
+Subsec. (e)(1). Pub. L. 117–263, §561(a)(2), inserted at end "Such a program shall be known as 'Skillbridge'."
 
 <b>2021</b>—Subsecs. (a)(2)(A), (c)(2)(A)(ii). Pub. L. 116–283, §924(b)(1)(J), substituted "Marine Corps, and Space Force" for "and Marine Corps".
 
@@ -95,6 +99,14 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+
+#### Regulations
+
+Pub. L. 117–263, div. A, title V, §561(b), Dec. 23, 2022, 136 Stat. 2598, provided that: "To carry out Skillbridge, the Secretary of Defense shall, not later than September 30, 2023—
+
+&emsp;"(1) update Department of Defense Instruction 1322.29, titled 'Job Training, Employment Skills Training, Apprenticeships, and Internships (JTEST-AI) for Eligible Service Members'; and
+
+&emsp;"(2) develop a funding plan for Skillbridge that includes funding lines across the future-years defense program under section 221 of title 10, United States Code."
 
 #### Authority To Expand Eligibility for the United States Military Apprenticeship Program
 
@@ -348,7 +360,7 @@ In General.—(1) To be eligible for participation in a program of job training 
 
 &emsp;"(ii) was discharged or released from active duty because of a service-connected disability.
 
-"(3) For purposes of paragraph (1), an eligible person shall be considered to be unemployed during any period such person is without a job and wants and is available for work. In determining whether a person is unemployed for purposes of paragraph (1), the implementing official shall not take into consideration part-time or temporary employment, as defined by such official.
+"(3) For purposes of paragraph (1), an eligible person shall be considered to be unemployed during any periodsuch person is without a job and wants and is available for work. In determining whether a person is unemployed for purposes of paragraph (1), the implementing official shall not take into consideration part-time or temporary employment, as defined by such official.
 
 "(b)
 
@@ -432,7 +444,7 @@ Certification.—An application under subsection (c) shall include a certificati
 
 &emsp;"(10) That the employer will keep records adequate to show the progress made by each eligible person participating in the program and otherwise to demonstrate compliance with the requirements established under this subtitle.
 
-&emsp;"(11) That the employer will furnish each participating eligible person, before the eligible person's entry into training, with a copy of the employer's certification under this subsection and will obtain and retain the eligible person's signed acknowledgment of having received such certification.
+&emsp;"(11) That the employer will furnish each participating eligible person, before the eligible person'sentry into training, with a copy of the employer's certification under this subsection and will obtain and retain the eligible person's signed acknowledgment of having received such certification.
 
 &emsp;"(12) That, as applicable, the employer will provide each participating eligible person with the full opportunity to participate in a personal interview pursuant to section 4493(b)(1)(B) during the eligible person's normal workday.
 
@@ -502,13 +514,13 @@ Overpayments.—(1)(A) Whenever the implementing official finds that an overpaym
 
 "(2) Whenever such official finds that an overpayment under this subtitle has been made to an employer on behalf of an eligible person as a result of a certification by the eligible person, or as a result of information provided to an employer or contained in an application submitted by the eligible person, which was willfully or negligently false in any material respect, the amount of such overpayment shall constitute a liability of the eligible person to the United States.
 
-"(3) Any overpayment referred to in paragraph (1) or (2) may be recovered in the same manner as any otherdebt due the United States. Any overpayment recovered shall be credited to funds available to make payments under this subtitle. If there are no such funds, any overpayment recovered shall be deposited into the Treasury.
+"(3) Any overpayment referred to in paragraph (1) or (2) may be recovered in the same manner as any other debt due the United States. Any overpayment recovered shall be credited to funds available to make payments under this subtitle. If there are no such funds, any overpayment recovered shall be deposited into the Treasury.
 
 "(4) Any overpayment referred to in paragraph (1) or (2) may be waived, in whole or in part, in accordance with the terms and conditions set forth in section 5302 of title 38, United States Code.
 
 "(e)
 
-Limitations.—(1) Payment may not be made to an employer for a period of training under this subtitle on behalf of an eligible person until the implementing official has received—
+Limitations.—(1) Payment may not be made to an employer for a period of training under this subtitleon behalf of an eligible person until the implementing official has received—
 
 &emsp;"(A) from the eligible person, a certification that the eligible person was employed full time by the employer in a program of job training during such period; and
 
@@ -576,7 +588,7 @@ Department of Labor.—Functions may be administered under subsections (b) and (
 
 "(a)
 
-Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period of time described in paragraph (2) and to such eligible person under chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
+Veterans Education Programs.—(1) Assistance may not be paid under this subtitle to an employer on behalf of an eligible person for any period of time described in paragraph (2) and to such eligible personunder chapter 30, 31, 32, 35, or 36 of title 38, United States Code, or chapter 106 of title 10, United States Code, for the same period of time.
 
 "(2) A period of time referred to in paragraph (1) is the period of time beginning on the date on which the eligible person enters into an approved program of job training of an employer for purposes of assistance under this subtitle and ending on the last date for which such assistance is payable.
 

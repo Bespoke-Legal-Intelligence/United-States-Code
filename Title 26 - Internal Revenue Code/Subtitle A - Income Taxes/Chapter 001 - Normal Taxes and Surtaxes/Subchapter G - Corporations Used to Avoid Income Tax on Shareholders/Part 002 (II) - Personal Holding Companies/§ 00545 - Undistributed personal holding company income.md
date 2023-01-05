@@ -34,7 +34,7 @@ For the purposes of subsection (a), the taxable income shall be adjusted as foll
 
 #### (6) Expenses and depreciation applicable to property of the taxpayer
 
-&emsp;The aggregate of the deductions allowed under section 162 (relating to trade or business expenses) and section 167 (relating to depreciation), which are allocable to the operation and maintenance of property owned or operated by the corporation, shall be allowed only in an amount equal to the rent or other compensation received for the use of, or the right to use, the property, unless it is established (under regulations prescribed by the Secretary) to the satisfaction of the Secretary—
+&emsp;The aggregate of the deductions allowed under section 162 (relating to trade or businessexpenses) and section 167 (relating to depreciation), which are allocable to the operation and maintenance of property owned or operated by the corporation, shall be allowed only in an amount equal to the rent or other compensation received for the use of, or the right to use, the property, unless it is established (under regulations prescribed by the Secretary) to the satisfaction of the Secretary—
 
 &emsp;&emsp;(A) that the rent or other compensation received was the highest obtainable, or, if none was received, that none was obtainable;
 
@@ -92,7 +92,7 @@ Subsec. (c)(5). Pub. L. 94–455, §1901(b)(20)(B)(iii), substituted "subsection
 
 <b>1969</b>—Subsec. (b)(2). Pub. L. 91–172 substituted "section 170(b)(1)(A), (B), and (D)", "section 170(b)(2) and (d)(1)" for "section 170(b)(1)(A) and (B)" and "section 170(b)(2) and (5)", respectively, in provisions of first sentence setting out the sections appropriate to the computation of the deduction, and in provisions of second sentence describing applicability of terms for purposes of this paragraph, substituted "contribution base" and "section 170(b)(2) and (d)(1)" for "adjusted gross income" and "the first sentence of section 170(b)(2) and (5)," respectively.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–809, §104(h)(3)(A), substituted "in the manner provided in subsections (b), (c), and (d)" for "in the manner provided in subsection (b) and (c)" and inserted provisions governing the case of a personal holding company which is a foreign corporation, not more than 10 percent in value of the outstanding stock of which is owned (within the meaning of section 958(a)) during the last half of the taxable year by United States persons.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809, §104(h)(3)(A), substituted "in the manner provided in subsections (b), (c),and (d)" for "in the manner provided in subsection (b) and (c)" and inserted provisions governing the case of a personal holding company which is a foreign corporation, not more than 10 percent in value of the outstanding stock of which is owned (within the meaning of section 958(a)) during the last half of the taxable year by United States persons.
 
 Subsec. (b)(9). Pub. L. 89–719 substituted "section 6323(f)" for "section 6323(a)(1), (2), or (3)".
 

@@ -40,9 +40,17 @@
 
 #### <b>DIVISION B—SYSTEM UNITS AND RELATED AREAS—RESERVED</b>
 
-## Subtitle II—Outdoor Recreation Programs
+#### <b>DIVISION C—NATIONAL HERITAGE AREAS</b>
 
 |  |  |  |
+| :--- | :---: | ---: |
+| [<b>1201.</b>](Subtitle%20001%20%28I%29%20-%20National%20Park%20System/Division%20C%20-%20National%20Heritage%20Areas/Chapter%201201%20-%20National%20Heritage%20Area%20System/README.md) | <b>National Heritage Area System</b> | <b>120101</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+## Subtitle II—Outdoor Recreation Programs
+
+| Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>2001.</b>](Subtitle%20002%20%28II%29%20-%20Outdoor%20Recreation%20Programs/Chapter%202001%20-%20Coordination%20of%20Programs/README.md) | <b>Coordination of Programs</b> | <b>200101</b> |
 | [<b>2003.</b>](Subtitle%20002%20%28II%29%20-%20Outdoor%20Recreation%20Programs/Chapter%202003%20-%20Land%20and%20Water%20Conservation%20Fund/README.md) | <b>Land and Water Conservation Fund</b> | <b>200301</b> |
@@ -128,6 +136,7 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>3085.</b>](Subtitle%20003%20%28III%29%20-%20National%20Preservation%20Programs/Division%20B%20-%20Organizations%20and%20Programs/Subdivision%20001%20-%20Administered%20by%20National%20Park%20Service/Chapter%203085%20-%20National%20Women%27s%20Rights%20History%20Project/README.md) | <b>National Women's Rights History Project</b> | <b>308501</b> |
+| [<b>3086.</b>](Subtitle%20003%20%28III%29%20-%20National%20Preservation%20Programs/Division%20B%20-%20Organizations%20and%20Programs/Subdivision%20001%20-%20Administered%20by%20National%20Park%20Service/Chapter%203086%20-%20United%20States%20African-American%20Burial%20Grounds%20Preservation%20Program/README.md) | <b>United States African-American Burial Grounds Preservation Program</b> | <b>308601</b> |
 | [<b>3087.</b>](Subtitle%20003%20%28III%29%20-%20National%20Preservation%20Programs/Division%20B%20-%20Organizations%20and%20Programs/Subdivision%20001%20-%20Administered%20by%20National%20Park%20Service/Chapter%203087%20-%20National%20Maritime%20Heritage/README.md) | <b>National Maritime Heritage</b> | <b>308701</b> |
 | [<b>3089.</b>](Subtitle%20003%20%28III%29%20-%20National%20Preservation%20Programs/Division%20B%20-%20Organizations%20and%20Programs/Subdivision%20001%20-%20Administered%20by%20National%20Park%20Service/Chapter%203089%20-%20Save%20America%27s%20Treasures%20Program/README.md) | <b>Save America's Treasures Program</b> | <b>308901</b> |
 | [<b>3091.</b>](Subtitle%20003%20%28III%29%20-%20National%20Preservation%20Programs/Division%20B%20-%20Organizations%20and%20Programs/Subdivision%20001%20-%20Administered%20by%20National%20Park%20Service/Chapter%203091%20-%20Commemoration%20of%20Former%20Presidents/README.md) | <b>Commemoration of Former Presidents</b> | <b>309101</b> |
@@ -164,6 +173,10 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2023</b>—Pub. L. 117–339, §2(d), Jan. 5, 2023, 136 Stat. 6163, which directed amendment of the analysis for subtitle I of this title by adding item for division C and chapter 1201, was executed to this analysis to reflect the probable intent of Congress.
+
+<b>2022</b>—Pub. L. 117–328, div. DD, title VI, §643(b), Dec. 29, 2022, 136 Stat. 5614, added item for chapter 3086.
 
 <b>2020</b>—Pub. L. 116–152, §2(b), Aug. 4, 2020, 134 Stat. 685, which directed amendment of the analysis for subtitle II of this title by adding item for chapter 2004, was executed to this analysis to reflect the probable intent of Congress.
 

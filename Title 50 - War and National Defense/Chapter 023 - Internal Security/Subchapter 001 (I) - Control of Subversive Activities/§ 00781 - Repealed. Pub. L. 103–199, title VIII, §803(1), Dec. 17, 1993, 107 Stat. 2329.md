@@ -10,7 +10,7 @@ Act Sept. 23, 1950, ch. 1024, 64 Stat. 987, provided that: "This Act \[enacting 
 
 Act Sept. 23, 1950, ch. 1024, title I, §1(a), 64 Stat. 987, which provided that title I of act Sept. 23, 1950, which enacted this subchapter and section 1507 of Title 18, Crimes and Criminal Procedure, amended sections 137 to 137–8, 156, 456, 457, 704, 705, 725, 729, 733, 734, and 735 of Title 8, Aliens and Nationality, section 793 of Title 18, and sections 611 and 618 of Title 22, Foreign Relations and Intercourse, and enacted provisions set out as notes under section 781 of this title and section 792 of Title 18, be cited as the "Subversive Activities Control Act of 1950", was repealed by Pub. L. 103–199, title VIII, §803(1), Dec. 17, 1993, 107 Stat. 2329.
 
-Act Aug. 24, 1954, ch. 886, §1, 68 Stat. 775, provided: "That this Act \[enacting sections 792a and subchapter IV of this chapter, amending sections 782, 784, 785, 789 to 792, and 793 of this title, and enacting a provision set out as a note under section 841 of this title\] may be cited as the 'Communist Control Act of 1954'."
+Act Aug. 24, 1954, ch. 886, §1, 68 Stat. 775, provided: "That this Act \[enacting sections 792a and subchapter IV of this chapter, amending sections 782, 784, 785, 789to 792, and 793 of this title, and enacting a provision set out as a note under section 841 of this title\] may be cited as the 'Communist Control Act of 1954'."
 
 #### Separability
 

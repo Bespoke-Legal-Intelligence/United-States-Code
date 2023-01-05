@@ -56,7 +56,7 @@ Pub. L. 93–86, §1(8), Aug. 10, 1973, 87 Stat. 224, provided that the amendmen
 
 #### Effective and Termination Dates of 1970 Amendment
 
-Pub. L. 91–524, title IV, §401, Nov. 30, 1970, 84 Stat. 1362, as amended by Pub. L. 93–86, §1(8), Aug. 10, 1973, 87 Stat. 224, provided that the amendment made by section 401 is effective only with respect to the 1971 through 1977 crops of wheat.
+Pub. L. 91–524, title IV, §401, Nov. 30, 1970, 84 Stat. 1362, as amended by Pub. L. 93–86, §1(8), Aug. 10, 1973, 87Stat. 224, provided that the amendment made by section 401 is effective only with respect to the 1971 through 1977 crops of wheat.
 
 #### Effective and Termination Dates of 1965 Amendment
 

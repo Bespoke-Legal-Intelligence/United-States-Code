@@ -282,13 +282,13 @@ Special rule for computing extraordinary dividend.—In determining a taxpayer's
 
 Subsec. (d)(3). Pub. L. 105–34, §1604(d)(1), substituted "subsection (a)" for "subsection (a)(2)".
 
-Subsec. (e)(1). Pub. L. 105–34, §1011(b), amended heading and text of par. (1) generally. Prior to amendment,text read as follows: "Except as otherwise provided in regulations, in the case of any redemption of stock which is—
+Subsec. (e)(1). Pub. L. 105–34, §1011(b), amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "Except as otherwise provided in regulations, in the case of any redemption of stock which is—
 
 &emsp;"(A) part of a partial liquidation (within the meaning of section 302(e)) of the redeeming corporation, or
 
 &emsp;"(B) not pro rata as to all shareholders,
 
-> any amount treated as a dividend under section 301 with respect to such redemption shall be treated as an extraordinary dividend to which paragraphs (1) and (2) of subsection (a) apply without regard to the period the taxpayer held such stock."
+> any amount treated as a dividend under section 301 with respect to such redemption shall be treated as anextraordinary dividend to which paragraphs (1) and (2) of subsection (a) apply without regard to the period the taxpayer held such stock."
 
 Subsec. (e)(1)(A)(iii). Pub. L. 105–34, §1013(b), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "which would not have been treated (in whole or in part) as a dividend if any options had not been taken into account under section 318(a)(4)."
 

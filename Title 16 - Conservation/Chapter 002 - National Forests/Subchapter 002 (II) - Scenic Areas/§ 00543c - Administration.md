@@ -74,7 +74,7 @@ Nothing in sections 543 to 543h of this title shall be construed to reserve any 
 
 #### (i) Rights-of-way of city of Los Angeles
 
-(1) The Act entitled "An Act authorizing and directing the Secretary of the Interior to sell to the city of Los Angeles, California, certain public lands in California; and granting rights-of-way over public lands and reserved lands to thecity of Los Angeles in Mono County in the State of California", approved June 23, 1936 (49 Stat. 1892), is hereby repealed.
+(1) The Act entitled "An Act authorizing and directing the Secretary of the Interior to sell to the city of Los Angeles, California, certain public lands in California; and granting rights-of-way over public lands and reserved lands to the city of Los Angeles in Mono County in the State of California", approved June 23, 1936 (49 Stat. 1892), is hereby repealed.
 
 (2) The Secretary and the Secretary of the Interior shall grant and convey rights-of-way easements, at no cost, to the city of Los Angeles for those rights-of-way on public lands and national forest lands in Mono County, California, as described and set forth in maps and accompanying descriptions which were—
 

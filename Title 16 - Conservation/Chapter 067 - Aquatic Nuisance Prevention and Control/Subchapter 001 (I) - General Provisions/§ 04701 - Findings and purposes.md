@@ -60,7 +60,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to prevent unintentional introduction and dispersal of nonindigenous species into waters of the United States through ballast water management and other requirements;
 
-&emsp;(2) to coordinate federally conducted, funded or authorized research, prevention <sup>1</sup> control, information dissemination and other activities regarding the zebra mussel and other aquatic nuisance species;
+&emsp;(2) to coordinate federally conducted, funded, or authorized research, prevention control, information dissemination and other activities regarding the zebra mussel and other aquatic nuisance species;
 
 &emsp;(3) to develop and carry out environmentally sound control methods to prevent, monitor and control unintentional introductions of nonindigenous species from pathways other than ballast water exchange;
 
@@ -68,7 +68,7 @@ The purposes of this chapter are—
 
 &emsp;(5) to establish a program of research and technology development and assistance to States in the management and removal of zebra mussels.
 
-(Pub. L. 101–646, title I, §1002, Nov. 29, 1990, 104 Stat. 4761; Pub. L. 104–182, title III, §308(a), Aug. 6, 1996, 110 Stat. 1689; Pub. L. 104–332, §2(a)(1), (h)(1), Oct. 26, 1996, 110 Stat. 4073, 4091.)
+(Pub. L. 101–646, title I, §1002, Nov. 29, 1990, 104 Stat. 4761; Pub. L. 104–182, title III, §308(a), Aug. 6, 1996, 110 Stat. 1689; Pub. L. 104–332, §2(a)(1), (h)(1), Oct. 26, 1996, 110 Stat. 4073, 4091; Pub. L. 117–263, div. K, title CXIII, §11327(e)(1), Dec. 23, 2022, 136 Stat. 4098.)
 
 #### <b>Editorial Notes</b>
 
@@ -77,6 +77,8 @@ The purposes of this chapter are—
 This chapter, referred to in subsec. (b), was in the original "this Act", which, to reflect the probable intent of Congress, was translated as reading "this title" meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(2). Pub. L. 117–263 inserted comma after "funded".
 
 <b>1996</b>—Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §1002, which enacted this section.
 
@@ -96,7 +98,7 @@ Subsec. (a)(6) to (15). Pub. L. 104–332, §2(a)(1)(B)(ii), (C), (D), added par
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–332, §1(a), Oct. 26, 1996, 110 Stat. 4073, provided that: "This Act \[enacting sections 4713 and 4714 ofthis title, amending sections 941 to 941g, 4701, 4702, 4711, 4712, 4721 to 4728, 4741 and 4751 of this title, section 42 of Title 18, Crimes and Criminal Procedure, and section 2761 of Title 33, Navigation and Navigable Waters, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section, section 941 of this title, and section 2701 of Title 33\] may be cited as the 'National Invasive Species Act of 1996'."
+Pub. L. 104–332, §1(a), Oct. 26, 1996, 110 Stat. 4073, provided that: "This Act \[enacting sections 4713 and 4714 of this title, amending sections 941 to 941g, 4701, 4702, 4711, 4712, 4721 to 4728, 4741 and 4751 of this title, section 42 of Title 18, Crimes and Criminal Procedure, and section 2761 of Title 33, Navigation and Navigable Waters, enacting provisions set out as a note under this section, and amending provisions set out as notes under this section, section 941 of this title, and section 2701 of Title 33\] may be cited as the 'National Invasive Species Act of 1996'."
 
 #### Short Title
 
@@ -104,7 +106,7 @@ Pub. L. 101–646, title I, §1001, Nov. 29, 1990, 104 Stat. 4761, as amended by
 
 #### Invasive Species in Alpine Lakes Pilot Program
 
-Pub. L. 116–260, div. AA, title V, §507, Dec. 27, 2020, 134 Stat. 2749, provided that:
+Pub. L. 116–260, div. AA, title V, §507, Dec. 27, 2020, 134 Stat. 2749, as amended by Pub. L. 117–263, div. H, title LXXXI, §8382(b), Dec. 23, 2022, 136 Stat. 3828, provided that:
 
 "(a)
 
@@ -120,7 +122,7 @@ Partnerships.—The Secretary of the Interior, acting through the Director of th
 
 "(c)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out the pilot program $25,000,000 for the period of fiscal years 2022 through 2024."
+Authorization of Appropriations.—There is authorized to be appropriated to carry out the pilot program $25,000,000 for the period of fiscal years 2022 through 2028."
 
 #### Aquatic Invasive Species Prevention
 
@@ -171,6 +173,4 @@ Pub. L. 104–332, §3, Oct. 26, 1996, 110 Stat. 4092, provided that: "Nothing i
 #### Report on Establishment of Program
 
 Pub. L. 102–567, title II, §203(b), Oct. 29, 1992, 106 Stat. 4281, provided that: "Not later than one year after the date of the enactment of this Act \[Oct. 29, 1992\], the Secretary of Commerce shall submit a report to the Congress on progress toward establishing a nonindigenous aquatic nuisance prevention and control program within the National Oceanic and Atmospheric Administration and projected funding for such a program for the following five fiscal years."
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

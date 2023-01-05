@@ -32,7 +32,7 @@ Except as provided in subsection (b), no deduction shall be allowed under this c
 
 &emsp;&emsp;(C) are of a character which, if expended incident to the creation of a partnership having an ascertainable life, would be amortized over such life.
 
-(Added Pub. L. 94–455, title II, §213(b)(1), Oct. 4, 1976, 90 Stat. 1547; amended Pub. L. 108–357, titleVIII, §902(c), Oct. 22, 2004, 118 Stat. 1651; Pub. L. 109–135, title IV, §403(ll), Dec. 21, 2005, 119 Stat. 2632.)
+(Added Pub. L. 94–455, title II, §213(b)(1), Oct. 4, 1976, 90 Stat. 1547; amended Pub. L. 108–357, title VIII, §902(c), Oct. 22, 2004, 118 Stat. 1651; Pub. L. 109–135, title IV, §403(ll), Dec. 21, 2005, 119 Stat. 2632.)
 
 #### <b>Editorial Notes</b>
 

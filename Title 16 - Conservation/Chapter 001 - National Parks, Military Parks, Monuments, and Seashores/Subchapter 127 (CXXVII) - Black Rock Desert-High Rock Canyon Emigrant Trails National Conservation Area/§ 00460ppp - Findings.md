@@ -6,7 +6,7 @@ The Congress finds the following:
 
 &emsp;(2) The relative absence of development in the Black Rock Desert and high <sup>2</sup> Rock Canyon areas from emigrant times to the present day offers a unique opportunity to capture the terrain, sights, and conditions of the overland trails as they were experienced by the emigrants and to make available to both present and future generations of Americans the opportunity of experiencing emigrant conditions in an unaltered setting.
 
-&emsp;(3) The Black Rock Desert and High Rock Canyon areas are unique segments of the Northern Great Basin and contain broad representation of the Great Basin's land forms and plant and animal species, including golden eagles and other birds of prey, sage grouse,mule deer, pronghorn antelope, bighorn sheep, free roaming horses and burros, threatened fish and sensitive plants.
+&emsp;(3) The Black Rock Desert and High Rock Canyon areas are unique segments of the Northern Great Basin and contain broad representation of the Great Basin's land forms and plant and animal species, including golden eagles and other birds of prey, sage grouse, mule deer, pronghorn antelope, bighorn sheep, free roaming horses and burros, threatened fish and sensitive plants.
 
 &emsp;(4) The Black Rock-High Rock region contains a number of cultural and natural resources that have been declared eligible for National Historic Landmark and Natural Landmark status, including a portion of the 1843–44 John Charles Fremont exploration route, the site of the death of Peter Lassen, early military facilities, and examples of early homesteading and mining.
 
@@ -24,7 +24,7 @@ The Congress finds the following:
 
 #### Short Title
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§1\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–353, provided that: "This Act \[S. 2273, as enacted by section 1(a)(4)\[div. B, title I, §125\] of Pub. L. 106–554, enacting this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the 'Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area Act of 2000'."
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§1\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–353, provided that: "This Act \[S. 2273, as enacted by section 1(a)(4)\[div. B, title I, §125\] of Pub. L. 106–554, enactingthis subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the 'Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area Act of 2000'."
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

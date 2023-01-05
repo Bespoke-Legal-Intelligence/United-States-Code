@@ -54,7 +54,7 @@ In this part—
 
 &emsp;&emsp;(B) a woman who has given birth to a child after or while awaiting her sentencing hearing and who expresses a willingness to assume responsibility for the housing, health, and safety of that child,
 
-> &emsp;a parent who, in the best interest of a child, has arranged for the temporary care of thechild in the home of a relative or other responsible adult shall not for that reason be excluded from the category "primary caretaker".
+> &emsp;a parent who, in the best interest of a child, has arranged for the temporary care of the child in the home of a relative or other responsible adult shall not for that reason be excluded from the category "primary caretaker".
 
 &emsp;"State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 

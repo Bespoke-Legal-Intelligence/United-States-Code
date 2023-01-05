@@ -64,7 +64,7 @@ Marketing of PreCheck Program.—Not later than 90 days after the date of enactm
 
 Identity Verification Enhancement.—The Administrator shall—
 
-&emsp;(1) coordinate with the heads of appropriate components of the Department to leverage Department-held data and technologies to verify the identity and citizenship of individuals enrolling in the PreCheck Program;
+&emsp;(1) coordinate with the heads of appropriate components of the Department to leverage Department-held data and technologies to verifythe identity and citizenship of individuals enrolling in the PreCheck Program;
 
 &emsp;(2) partner with the private sector to use biometrics and authentication standards, such as relevant standards developed by the National Institute of Standards and Technology, to facilitate enrollment in the program; and
 
@@ -122,7 +122,7 @@ The date of enactment of the TSA Modernization Act, referred to in subsecs. (b) 
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–254 amended section generally. Prior to amendment, section related to establishment ofpilot program under which the screening of passengers and property was to be conducted by a qualified private screening company.
+<b>2018</b>—Pub. L. 115–254 amended section generally. Prior to amendment, section related to establishment of pilot program under which the screening of passengers and property was to be conducted by a qualified private screening company.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -222,7 +222,7 @@ Members.—The working group shall be comprised of representatives of Category X
 
 &emsp;"(3)
 
-Nonapplicability of faca.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established under this subsection.
+Nonapplicability of faca.—The Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall not apply to the working group established under this subsection.
 
 "(g)
 
@@ -252,7 +252,7 @@ Long-term strategy.—Not later than 180 days after the date of enactment of thi
 
 Considerations.—In developing the strategy under paragraph (1), the Administrator shall consider the following:
 
-&emsp;&emsp;"(A) Partnering with air carriers (as the term is defined in section 40102 of title 49, United States Code) to incorporate PreCheck Program promotion opportunities in the reservation process describedin section 1560.101 of title 49, Code of Federal Regulations;\[.\]
+&emsp;&emsp;"(A) Partnering with air carriers (as the term is defined in section 40102 of title 49, United States Code) to incorporate PreCheck Program promotion opportunities in the reservation process described in section 1560.101 of title 49, Code of Federal Regulations;\[.\]
 
 &emsp;&emsp;"(B) Including in the PreCheck Program of \[sic\] an individual who—
 

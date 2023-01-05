@@ -56,7 +56,7 @@ In this chapter:
 
 &emsp;&emsp;(A) land within the National Forest System, as defined in section 1609(a) of this title exclusive of the National Grasslands and land utilization projects designated as National Grasslands administered pursuant to the Act of July 22, 1937 (7 U.S.C. 1010–1012); and
 
-&emsp;&emsp;(B) such portions of the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site land valuable for timber, that shall be managed, except as provided in the former section 3 of the Act of August 28, 1937 (50 Stat. 875; 43 U.S.C. 1181c), for permanent forest production.
+&emsp;&emsp;(B) such portions of the revested Oregon and California Railroad and reconveyed CoosBay Wagon Road grant land as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site land valuable for timber, that shall be managed, except as provided in the former section 3 of the Act of August 28, 1937 (50 Stat. 875; 43 U.S.C. 1181c), for permanent forest production.
 
 #### (8) 50-percent adjusted share
 
@@ -88,7 +88,7 @@ In this chapter:
 
 #### (10) 50-percent payment
 
-&emsp;The term "50-percent payment" means the payment that is the sum of the 50-percent share otherwise paid to a county pursuant to title II of the Act of August 28, 1937 (chapter876; 50 Stat. 875; 43 U.S.C. 1181f),<sup>2</sup> and the payment made to a county pursuant to the Act of May 24, 1939 (chapter 144; 53 Stat. 753; 43 U.S.C. 1181f–1 et seq.) <sup>2</sup>.
+&emsp;The term "50-percent payment" means the payment that is the sum of the 50-percent share otherwise paid to a county pursuant to title II of the Act of August 28, 1937 (chapter 876; 50 Stat. 875; 43 U.S.C. 1181f),<sup>2</sup> and the payment made to a county pursuant to the Act of May 24, 1939 (chapter 144; 53 Stat. 753; 43 U.S.C. 1181f–1 et seq.) <sup>2</sup>.
 
 #### (11) Full funding amount
 

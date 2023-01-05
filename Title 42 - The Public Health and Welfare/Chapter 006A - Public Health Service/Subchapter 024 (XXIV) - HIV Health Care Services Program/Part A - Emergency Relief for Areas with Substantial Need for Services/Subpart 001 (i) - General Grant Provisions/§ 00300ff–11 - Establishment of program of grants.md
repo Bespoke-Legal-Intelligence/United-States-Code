@@ -84,7 +84,7 @@ Pub. L. 104–146, §13, May 20, 1996, 110 Stat. 1374, provided that:
 
 "(a)
 
-In General.—Except as provided in subsection (b), this Act \[enacting sections 300ff–27a, 300ff–31, 300ff–33 to 300ff–37, 300ff–77, 300ff–78, and 300ff–101 of this title, amending this section and sections 294n, 300d, 300ff–12 to 300ff–17, 300ff–21 to 300ff–23, 300ff–26 to 300ff–29, 300ff–47 to 300ff–49, 300ff–51, 300ff–52, 300ff–54, 300ff–55, 300ff–64, 300ff–71, 300ff–74, 300ff–76, and 300ff–84 of this title, transferring section 294n of this title to section 300ff–111 of this title, repealing sections 300ff–18 and 300ff–30 of this title, and enacting provisions set out as notes under sections 201, 300cc, and 300ff–33 of this title and section 4103 of Title 5, Government Organization and Employees\], and the amendments made by this Act, shall become effective on October 1, 1996.
+In General.—Except as provided in subsection (b), this Act \[enacting sections 300ff–27a, 300ff–31, 300ff–33 to 300ff–37, 300ff–77, 300ff–78, and 300ff–101 of this title, amending this section and sections 294n, 300d, 300ff–12 to 300ff–17, 300ff–21 to 300ff–23, 300ff–26 to 300ff–29, 300ff–47 to 300ff–49, 300ff–51, 300ff–52, 300ff–54, 300ff–55, 300ff–64, 300ff–71, 300ff–74, 300ff–76, and 300ff–84of this title, transferring section 294n of this title to section 300ff–111 of this title, repealing sections 300ff–18 and 300ff–30 of this title, and enacting provisions set out as notes under sections 201, 300cc, and 300ff–33 of this title and section 4103 of Title 5, Government Organization and Employees\], and the amendments made by this Act, shall become effective on October 1, 1996.
 
 "(b)
 

@@ -48,7 +48,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 #### (c) Application and contract forms
 
-(1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under subsection (l) in the case of the individual's breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps <sup>2</sup> of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
+(1) In disseminating application forms and contract forms to individuals desiring to participate in the Loan Repayment Program, the Secretary shall include with such forms a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitledunder subsection (l) in the case of the individual's breach of the contract. The Secretary shall provide such individuals with sufficient information regarding the advantages and disadvantages of service as a commissioned officer in the Regular or Reserve Corps <sup>2</sup> of the Public Health Service or a civilian employee of the Indian Health Service to enable the individual to make a decision on an informed basis.
 
 (2) The application form, contract form, and all other information furnished by the Secretary under this section shall be written in a manner calculated to be understood by the average individual applying to participate in the Loan Repayment Program.
 
@@ -120,7 +120,7 @@ The written contract referred to in this section between the Secretary and an in
 
 #### (g) Loan repayment purposes; maximum amount; tax liability reimbursement; schedule of payments
 
-(1) A loan repayment provided for an individual under a written contract under the Loan Repayment Program shall consist of payment, in accordance with paragraph (2), on behalf of the individual of the principal, interest, and related expenses on government and commercial loans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for—
+(1) A loan repayment provided for an individual under a written contract under the LoanRepayment Program shall consist of payment, in accordance with paragraph (2), on behalf of the individual of the principal, interest, and related expenses on government and commercial loans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for—
 
 &emsp;(A) tuition expenses;
 
@@ -234,7 +234,7 @@ The Secretary shall submit to the President, for inclusion in each report requir
 
 &emsp;(6) the amount of scholarship grants provided under section 1613a of this title, in total and by health profession;
 
-&emsp;(7) the number of providers of health care that will be needed by Indian health programs,by location and profession, during the three fiscal years beginning after the date the report is filed; and
+&emsp;(7) the number of providers of health care that will be needed by Indian health programs, by location and profession, during the three fiscal years beginning after the date the report is filed; and
 
 &emsp;(8) the measures the Secretary plans to take to fill the health professional positions maintained by the Service or by tribes or tribal or Indian organizations for which recruitment or retention is difficult.
 
@@ -254,7 +254,7 @@ Section 254d(i)(4) of title 42, referred to in subsec. (a)(2)(B), was redesignat
 
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–573, §106(a)(1), substituted "health professionals" for "physicians, dentists, nurses, nurse practitioners, physician assistants, clinical and counseling psychologists, graduates of schools of public health, graduates of schools of social work, and other health professionals".
 
-Subsec. (b)(1)(A)(i). Pub. L. 102–573, §106(a)(2)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "as a full-time student in the final year of a course of study or program in an accredited institution, as determined by the Secretary, within any State; or".
+Subsec. (b)(1)(A)(i). Pub. L. 102–573, §106(a)(2)(A)(i), amended cl. (i) generally. Prior to amendment, cl. (i)read as follows: "as a full-time student in the final year of a course of study or program in an accredited institution, as determined by the Secretary, within any State; or".
 
 Subsec. (b)(1)(A)(ii). Pub. L. 102–573, §106(a)(2)(A)(ii), substituted "a health profession" for "medicine, osteopathy, dentistry, or other health profession".
 

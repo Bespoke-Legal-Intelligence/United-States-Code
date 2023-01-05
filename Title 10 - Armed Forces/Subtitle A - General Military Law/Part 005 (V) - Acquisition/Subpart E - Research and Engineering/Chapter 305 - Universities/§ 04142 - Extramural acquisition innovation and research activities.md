@@ -38,7 +38,7 @@ Activities.—The activities described in this subsection are as follows:
 
 &emsp;(5) On an ongoing basis, a review of the implementation of recommendations contained in relevant Department of Defense and private sector studies on acquisition policies and practices, including—
 
-&emsp;&emsp;(A) for recommendations for the enactment of legislation, identify the extent towhich the recommendations have been enacted into law by Congress;
+&emsp;&emsp;(A) for recommendations for the enactment of legislation, identify the extent to which the recommendations have been enacted into law by Congress;
 
 &emsp;&emsp;(B) for recommendations for the issuance of regulations, identify the extent to which the recommendations have been adopted through the issuance or revision of regulations;
 

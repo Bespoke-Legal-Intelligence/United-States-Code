@@ -136,7 +136,7 @@ In this section:
 
 #### (3) Coordination of plans
 
-&emsp;Pursuant to section 6922(d)(6) of this title, as added by section 12202, the Secretary shall, as appropriate, assist in coordinating with other appropriate Federal, State, regional, or local officials in the exercising of the plans developed under paragraph (2).
+&emsp;Pursuant to section 6922(d)(6) of this title, as added by section 12202, the Secretary shall, as appropriate, assist in coordinating with other appropriate Federal, State, regional, or localofficials in the exercising of the plans developed under paragraph (2).
 
 #### (c) National Plant Diagnostic Network
 
@@ -180,7 +180,7 @@ In this section:
 
 #### (5) Authorization of appropriations
 
-&emsp;In addition to the amount authorized to carry out this subtitle under section 12205,<sup>1</sup>there is authorized to be appropriated to carry out this subsection $15,000,000 for each of fiscal years 2019 through 2023.
+&emsp;In addition to the amount authorized to carry out this subtitle under section 12205,<sup>1</sup> there is authorized to be appropriated to carry out this subsection $15,000,000 for each of fiscal years 2019 through 2023.
 
 #### (d) National Plant Disease Recovery System
 

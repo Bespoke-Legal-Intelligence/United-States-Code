@@ -44,11 +44,11 @@ The Attorney General shall require each applicant under this section to identify
 
 #### (e) Reports
 
-An entity that receives a grant under subsection (a) during a fiscal year shall, not later than the last day of the following fiscal year, submit to the Attorney General a report that describes and assesses the uses of that grant during that fiscal year and that identifies the progress of the grantee toward achieving its strategic performance outcomes.
+An entity that receives a grant under subsection (a) during a fiscal year shall, not laterthan the last day of the following fiscal year, submit to the Attorney General a report that describes and assesses the uses of that grant during that fiscal year and that identifies the progress of the grantee toward achieving its strategic performance outcomes.
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to the Attorney General to carry out this section$15,000,000 for each of fiscal years 2019 through 2023.
+There are authorized to be appropriated to the Attorney General to carry out this section $15,000,000 for each of fiscal years 2019 through 2023.
 
 (Pub. L. 110–199, title II, §211, Apr. 9, 2008, 122 Stat. 679; Pub. L. 114–255, div. B, title XIV, §14009(b), Dec. 13, 2016, 130 Stat. 1297; Pub. L. 115–391, title V, §502(f)(1), Dec. 21, 2018, 132 Stat. 5230.)
 

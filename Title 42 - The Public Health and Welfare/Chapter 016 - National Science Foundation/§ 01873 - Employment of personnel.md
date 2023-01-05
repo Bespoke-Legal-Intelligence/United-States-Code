@@ -26,11 +26,11 @@ In making contracts or other arrangements for scientific or engineering research
 
 #### (f) Transfer of research and education funds of other Government departments or agencies
 
-Funds available to any department or agency of the Government for scientific or engineeringresearch or education, or the provision of facilities therefor, shall be available for transfer, with the approval of the head of the department or agency involved, in whole or in part, to the Foundation for such use as is consistent with the purposes for which such funds were provided, and funds so transferred shall be expendable by the Foundation for the purposes for which the transfer was made.
+Funds available to any department or agency of the Government for scientific or engineering research or education, or the provision of facilities therefor, shall be available for transfer, with the approval of the head of the department or agency involved, in whole or in part, to the Foundation for such use as is consistent with the purposes for which such funds were provided, and funds so transferred shall be expendable by the Foundation for the purposes for which the transfer was made.
 
 #### (g) "United States" defined
 
-For purposes of this chapter, the term "United States" when used in a geographical sense means the States, the District of Columbia, the Commonwealth of Puerto Rico, and all territories and possessions of the United States.
+For purposes of this chapter, the term "United States" when used in a geographical sense means the States, the District of Columbia, theCommonwealth of Puerto Rico, and all territories and possessions of the United States.
 
 #### (h) Expiration of authorization
 
@@ -146,11 +146,11 @@ Pub. L. 94–471, §7, Oct. 11, 1976, 90 Stat. 2056, provided that:
 
 &emsp;"(G) will develop joint educational programs with nearby undergraduate institutions of higher education which have a substantial minority student enrollment.
 
-"(3) The Director, in consultation with groups which have been active in seeking greater recognition of thescientific and technical capabilities of minorities, shall establish criteria for the award of the grants, and shall report to the Committee on Science and Technology of the House of Representatives \[now Committee on Science, Space, and Technology\] and the Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\] of the Senate on the results of activities including an evaluation and assessment of the entire program carried out under this subsection, not later than March 1, 1977."
+"(3) The Director, in consultation with groups which have been active in seeking greater recognition of the scientific and technical capabilities of minorities, shall establish criteria for the award of the grants, and shall report to the Committee on Science and Technology of the House of Representatives \[now Committee on Science, Space, and Technology\] and the Committee on Labor and Public Welfare \[now Committee on Health, Education, Labor, and Pensions\] of the Senate on the results of activities including an evaluation and assessment of the entire program carried out under this subsection, not later than March 1, 1977."
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
-Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
+Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organizationof the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
 
 #### <b>Executive Documents</b>
 

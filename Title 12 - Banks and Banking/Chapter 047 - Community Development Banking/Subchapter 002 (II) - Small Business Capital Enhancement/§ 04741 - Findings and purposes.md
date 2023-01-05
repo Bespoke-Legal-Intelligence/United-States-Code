@@ -142,7 +142,7 @@ Insured depository institution.—The term 'insured depository institution' has 
 
 &emsp;"(14)
 
-Minority-owned and women-owned business.—The terms 'minority-owned business' and'women-owned business' shall have the meaning given the terms 'minority-owned business' and 'women's business', respectively, under section 21A(r)(4) of the Federal Home Loan Bank Act (12 U.S.C. 1441A(r)(4)).
+Minority-owned and women-owned business.—The terms 'minority-owned business' and 'women-owned business' shall have the meaning given the terms 'minority-owned business' and 'women's business', respectively, under section 21A(r)(4) of the Federal Home Loan Bank Act (12 U.S.C. 1441A(r)(4)).
 
 &emsp;"(15)
 
@@ -214,7 +214,7 @@ Use of Fund.—
 
 &emsp;"(1)
 
-In general.—Subject to paragraph (2), the Fund shall be available to the Secretary, without further appropriation or fiscal year limitation, for the costs of purchases (including commitments to purchase), and modifications of such purchases, of preferred stock and other financial instruments from eligible institutions on such terms and conditions as are determined by the Secretary in accordance with this subtitle. For purposes of this paragraph and with respect to an eligible institution, the term 'other financial instruments' shall include only debt instruments for which such eligible institution is fully liable or equity equivalent capital of the eligible institution. Such debt instruments may be subordinated to the claims of other creditors of the eligible institution.
+In general.—Subject to paragraph (2), the Fund shall be available to the Secretary, without further appropriation or fiscal year limitation, for the costs of purchases (including commitments to purchase), and modifications of such purchases, of preferred stock and other financial instruments from eligible institutions on such terms and conditions as are determined by the Secretary in accordance with this subtitle. For purposes of this paragraph and with respect to an eligible institution, the term 'other financial instruments' shall include only debt instruments for which such eligible institution is fully liable or equity equivalent capital of the eligible institution.Such debt instruments may be subordinated to the claims of other creditors of the eligible institution.
 
 &emsp;"(2)
 
@@ -276,7 +276,7 @@ Treatment of holding companies.—In the case of an eligible institution that is
 
 &emsp;&emsp;"(D)
 
-Treatment of applicants that are institutions controlled by holding companies.—If an eligible institution that applies to receive a capitalinvestment under the Program is under the control of a bank holding company or a savings and loan holding company, then the Secretary may use the Fund to purchase preferred stock or other financial instruments from the top-tier bank holding company or savings and loan holding company of such eligible institution, as applicable. For purposes of this subparagraph, the term 'control' with respect to a bank holding company shall have the same meaning as in section 2(a)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(2)(a)(2)). For purposes of this subparagraph, the term 'control' with respect to a savings and loan holding company shall have the same meaning as in 10(a)(2) of the Home Owners' Loan Act (12 U.S.C. 1467a(a)(2)).
+Treatment of applicants that are institutions controlled by holding companies.—If an eligible institution that applies to receive a capital investment under the Program is under the control of a bank holding company or a savings and loan holding company, then the Secretary may use the Fund to purchase preferred stock or other financial instruments from the top-tier bank holding company or savings and loan holding company of such eligible institution, as applicable. For purposes of this subparagraph, the term 'control' with respect to a bank holding company shall have the same meaning as in section 2(a)(2) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(2)(a)(2)). For purposes of this subparagraph, the term 'control' with respect to a savings and loan holding company shall have the same meaning as in 10(a)(2) of the Home Owners' Loan Act (12 U.S.C. 1467a(a)(2)).
 
 &emsp;&emsp;"(E)
 
@@ -560,7 +560,7 @@ Required Certifications.—
 
 &emsp;"(1)
 
-Eligible institution certification.—Each eligible institution that participates in the Program must certify that such institution is in compliance with the requirements of section 103.121 of title 31, Code of Federal Regulations, a regulation that, at a minimum, requires financial institutions, as that term is defined in 31 U.S.C. 5312(a)(2) and (c)(1)(A), to implement reasonable procedures to verify the identity of any person seeking to open an account, to the extent reasonable and practicable, maintain records of the information used to verify the person's identity, and determine whether the person appears on any lists of known or suspected terrorists or terroristorganizations provided to the financial institution by any government agency.
+Eligible institution certification.—Each eligible institution that participates in the Program must certify that such institution is in compliance with the requirements of section 103.121 of title 31, Code of Federal Regulations, a regulation that, at a minimum, requires financial institutions, as that term is defined in 31 U.S.C. 5312(a)(2) and (c)(1)(A), to implement reasonable procedures to verify the identity of any person seeking to open an account, to the extent reasonable and practicable, maintain records of the information used to verify the person's identity, and determine whether the person appears on any lists of known or suspected terrorists or terrorist organizations provided to the financial institution by any government agency.
 
 &emsp;"(2)
 
@@ -608,7 +608,7 @@ Change in Law.—If, after a capital investment has been made in an eligible ins
 
 "(a)
 
-Study.—The Secretary shall conduct a study of the impact of the Program on women-owned businesses, veteran-owned businesses, and minority-owned businesses.
+Study.—The Secretary shall conduct a study of the impact of the Program on women-owned businesses,veteran-owned businesses, and minority-owned businesses.
 
 "(b)
 

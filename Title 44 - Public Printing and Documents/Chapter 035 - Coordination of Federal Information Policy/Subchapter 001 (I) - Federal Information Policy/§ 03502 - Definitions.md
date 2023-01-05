@@ -30,7 +30,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(A) means the obtaining, causing to be obtained, soliciting, or requiring the disclosure to third parties or the public, of facts or opinions by or for an agency, regardless of form or format, calling for either—
 
-&emsp;&emsp;&emsp;(i) answers to identical questions posed to, or identical reporting or recordkeeping requirements imposed on, ten or more persons, other than agencies, instrumentalities, or employees of the United States; or
+&emsp;&emsp;&emsp;(i) answers to identical questions posed to, or identical reporting or recordkeepingrequirements imposed on, ten or more persons, other than agencies, instrumentalities, or employees of the United States; or
 
 &emsp;&emsp;&emsp;(ii) answers to questions posed to agencies, instrumentalities, or employees of the United States which are to be used for general statistical purposes; and
 
@@ -132,7 +132,7 @@ Pub. L. 111–203, §315, inserted "Office of the Comptroller of the Currency," 
 
 #### Effective Date of 2019 Amendment
 
-Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set outas a note under section 306 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 115–435 effective 180 days after Jan. 14, 2019, see section 403 of Pub. L. 115–435, set out as a note under section 306 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2010 Amendment
 

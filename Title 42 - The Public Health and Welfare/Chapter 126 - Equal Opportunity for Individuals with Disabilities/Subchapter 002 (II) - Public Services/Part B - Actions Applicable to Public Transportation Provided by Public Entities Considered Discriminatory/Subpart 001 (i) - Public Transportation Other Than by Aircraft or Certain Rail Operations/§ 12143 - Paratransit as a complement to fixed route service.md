@@ -36,7 +36,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 #### (4) Undue financial burden limitation
 
-&emsp;The regulations issued under this section shall provide that, if the public entity is able to demonstrate to the satisfaction of the Secretary that the provision of paratransit and other special transportation services otherwise required under this section would imposean undue financial burden on the public entity, the public entity, notwithstanding any other provision of this section (other than paragraph (5)), shall only be required to provide such services to the extent that providing such services would not impose such a burden.
+&emsp;The regulations issued under this section shall provide that, if the public entity is able to demonstrate to the satisfaction of the Secretary that the provision of paratransit and other special transportation services otherwise required under this section would impose an undue financial burden on the public entity, the public entity, notwithstanding any other provision of this section (other than paragraph (5)), shall only be required to provide such services to the extent that providing such services would not impose such a burden.
 
 #### (5) Additional services
 

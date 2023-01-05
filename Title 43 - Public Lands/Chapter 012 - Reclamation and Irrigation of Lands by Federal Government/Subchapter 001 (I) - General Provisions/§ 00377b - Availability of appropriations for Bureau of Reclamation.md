@@ -4,7 +4,7 @@ Appropriations for the Bureau of Reclamation in this Act or in subsequent Energy
 
 Sums appropriated in this Act or in subsequent Energy and Water Development Appropriations Acts which are expended in the performance of reimbursable functions of the Bureau of Reclamation shall be returnable to the extent and in the manner provided by law.
 
-No part of any appropriation for the Bureau of Reclamation, contained in this Act, in any prior Act, or in subsequent Energy and Water Development Appropriations Acts which representsamounts earned under the terms of a contract but remaining unpaid, shall be obligated for any other purpose, regardless of when such amounts are to be paid: <i>Provided</i>, That the incurring of any obligation prohibited by this paragraph shall be deemed a violation of section 1341 of title 31.
+No part of any appropriation for the Bureau of Reclamation, contained in this Act, in any prior Act, or in subsequent Energy and Water Development Appropriations Acts which represents amounts earned under the terms of a contract but remaining unpaid, shall be obligated for any other purpose, regardless of when such amounts are to be paid: <i>Provided</i>, That the incurring of any obligation prohibited by this paragraph shall be deemed a violation of section 1341 of title 31.
 
 None of the funds made available by this or any other Act or by any subsequent Act shall on and after October 2, 1992, be used by the Bureau of Reclamation for contracts for surveying and mapping services unless such contracts for which a solicitation is issued after the date of this Act <sup>2</sup> are awarded in accordance with title IX of the Federal Property and Administrative Service <sup>3</sup> Act of 1949.<sup>2</sup>
 
@@ -42,21 +42,21 @@ administrative provisions" in title II of Pub. L. 102–377, Oct. 2, 1992, 106 S
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Operations and Maintenance Costs of Certain Bureau of Reclamation Dikes
+#### Operations and Maintenance Costs of Certain Bureau of Reclamation Dams and Dikes
 
-Pub. L. 115–270, title IV, §4309, Oct. 23, 2018, 132 Stat. 3889, provided that:
+Pub. L. 115–270, title IV, §4309, Oct. 23, 2018, 132 Stat. 3889, as amended by Pub. L. 117–263, div. E, title LIX, §5944, Dec. 23, 2022, 136 Stat. 3472, provided that:
 
 "(a)
 
-In General.—Notwithstanding any other provision of law (including regulations), effective beginning on the date of enactment of this section \[Oct. 23, 2018\], the Federal share of the operations and maintenance costs of a dike described in subsection (b) shall be 100 percent.
+In General.—Notwithstanding any other provision of law (including regulations), effective during the one-year period beginning on the date of the enactment of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 \[Dec. 23, 2022\], the Federal share of the dam safety modifications costs of a dam or dike described in subsection (b), including repairing or replacing a gate or ancillary gate components, shall be 100 percent.
 
 "(b)
 
-Description of Dikes.—A dike referred to in subsection (a) is a dike—
+Description of Dams and Dikes.—A dam or dike referred to in subsection (a) is a dam or dike—
 
-&emsp;"(1) that is owned by the Bureau of Reclamation on the date of enactment of this section;
+&emsp;"(1) that is owned by the Bureau of Reclamation on the date of enactment of this section \[Oct. 23, 2018\];
 
-&emsp;"(2) the construction of which was completed not later than December 31, 1945;
+&emsp;"(2) the construction of which was completed not later than December 31, 1948;
 
 &emsp;"(3) a corrective action study for which was completed not later than December 31, 2015; and
 

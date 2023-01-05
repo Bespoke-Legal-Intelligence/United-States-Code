@@ -6,7 +6,7 @@ The Attorney General may provide a grant to a national private, nonprofit organi
 
 #### (b) Application
 
-To request a grant under this section, an organization described in subsection (a) shall submit an application to the Attorney General in such form and containing such information as the Attorney General may require.
+To request a grant under this section, an organization described in subsection (a) shall submit an application to the Attorney General in suchform and containing such information as the Attorney General may require.
 
 #### (c) Use of funds
 

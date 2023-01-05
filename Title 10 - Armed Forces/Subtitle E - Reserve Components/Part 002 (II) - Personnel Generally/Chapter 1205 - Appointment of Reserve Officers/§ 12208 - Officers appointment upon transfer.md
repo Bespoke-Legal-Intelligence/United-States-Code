@@ -6,7 +6,7 @@
 
 (c) This section does not change any term of service under an appointment, enlistment, or agreement, including an agreement made before or at the time when the member entered upon a program authorized by an armed force.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §595; Pub. L. 96–513, title V, §511(17), Dec. 12, 1980, 94 Stat.2921; renumbered §12208, Pub. L. 103–337, div. A, title XVI, §1662(c)(2), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(ix), Dec. 23, 2016, 130 Stat. 2418.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 25, §595; Pub. L. 96–513, title V, §511(17), Dec. 12, 1980, 94 Stat. 2921; renumbered §12208, Pub. L. 103–337, div. A, title XVI, §1662(c)(2), Oct. 5, 1994, 108 Stat. 2990; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(ix), Dec. 23, 2016, 130 Stat. 2418.)
 
 Historical and Revision Notes
 

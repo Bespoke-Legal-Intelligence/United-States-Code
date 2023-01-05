@@ -8,7 +8,7 @@ It is the sense of Congress that—
 
 &emsp;(2) creating such a program would enhance the ability of the elements of the intelligence community to recruit, hire, and retain highly qualified personnel, including with respect to mission-critical and hard-to-fill positions;
 
-&emsp;(3) such a program, including with respect to eligibility requirements, should be designed so as to maximize the ability of the elements of the intelligence community to recruit, hire, and retain highly qualified personnel, including with respect to mission-critical and hard-to-fill positions; and
+&emsp;(3) such a program, including with respect to eligibility requirements, should be designed soas to maximize the ability of the elements of the intelligence community to recruit, hire, and retain highly qualified personnel, including with respect to mission-critical and hard-to-fill positions; and
 
 &emsp;(4) to the extent possible, such a program should be uniform throughout the intelligence community and publicly promoted by each element of the intelligence community to both current employees of the element as well as to prospective employees of the element.
 
@@ -112,7 +112,7 @@ Appropriate Congressional Committees Defined.—In this section, the term 'appro
 
 &emsp;"(5) with respect to an element of the intelligence community within the Department of Homeland Security, the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives;
 
-&emsp;"(6) with respect to an element of the intelligence community within the Department of State, the Committee on Foreign Relations of the Senate andthe Committee on Foreign Affairs of the House of Representatives;
+&emsp;"(6) with respect to an element of the intelligence community within the Department of State, the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives;
 
 &emsp;"(7) with respect to an element of the intelligence community within the Department of Energy, the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives; and
 

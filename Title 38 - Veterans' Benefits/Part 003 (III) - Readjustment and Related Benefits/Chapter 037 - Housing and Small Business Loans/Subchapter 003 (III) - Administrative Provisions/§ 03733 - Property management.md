@@ -102,7 +102,7 @@ Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted "3710(a)" for "1810(a)"
 
 Subsec. (a)(2). Pub. L. 102–54, §2(a), added par. (2) and struck out former par. (2) which read as follows: "In carrying out paragraph (1) of this subsection, the Secretary, to the maximum extent consistent with that paragraph and with maintaining the effective functioning of the loan guaranty program under this chapter, shall minimize the number of loans made by the Secretary to finance purchases of real property from the Secretary described in that paragraph."
 
-Subsec. (a)(3). Pub. L. 102–54, §2(a), added par. (3) and struck out former par. (3) which authorized sales before Oct. 1, 1990, of notes for loans under subsec. (a)(1) and required Secretary to make reports of such sales to Committees on Veterans' Affairs of Senate and House of Representatives.
+Subsec. (a)(3). Pub. L. 102–54, §2(a), added par. (3) and struck out former par. (3) which authorized sales beforeOct. 1, 1990, of notes for loans under subsec. (a)(1) and required Secretary to make reports of such sales to Committees on Veterans' Affairs of Senate and House of Representatives.
 
 Subsec. (a)(6). Pub. L. 102–83, §5(c)(1), substituted "3724(a)" for "1824(a)".
 
@@ -146,7 +146,7 @@ Subsec. (d). Pub. L. 100–322, §415(b)(5)(B), (C), as amended by Pub. L. 102�
 
 <b>1987</b>—Subsec. (a)(1) \[formerly §1816(d)(1)\]. Pub. L. 100–198, §6(a)(1), and Pub. L. 100–203, §7003(a), amended par. (1) identically, substituting "not more than 65 percent, nor less than 50 percent" for "not more than 75 percent, nor less than 60 percent". See 1988 Amendment note above.
 
-Subsec. (a)(3) \[formerly §1816(d)(3)\]. Pub. L. 100–203, §7001, added subpars. (A) and (B), redesignated existingprovisions as subpar. (C), substituted "Beginning on October 1, 1989, the Administrator may sell any note evidencing" for "The Administrator may sell any note securing", and redesignated cls. (A) and (B) as (i) and (ii), respectively. See 1988 Amendment note above.
+Subsec. (a)(3) \[formerly §1816(d)(3)\]. Pub. L. 100–203, §7001, added subpars. (A) and (B), redesignated existing provisions as subpar. (C), substituted "Beginning on October 1, 1989, the Administrator may sell any note evidencing" for "The Administrator may sell any note securing", and redesignated cls. (A) and (B) as (i) and (ii), respectively. See 1988 Amendment note above.
 
 Pub. L. 100–136 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Notes securing such loans may be sold with recourse only to the extent that the Administrator determines that selling such notes with recourse is necessary in order to maintain the effective functioning of the loan guaranty program under this chapter." See 1988 Amendment note above.
 

@@ -50,11 +50,11 @@
 
 #### (A) General rule
 
-&emsp;&emsp;Except to the extent provided otherwise under a written election under subparagraph (B) or (C), if at the time of retirement a participant or former participant is married (or has a former spouse who has not remarried before attaining age 55), the participant shall receive a reduced annuity and provide a survivor annuity for the participant's spouse under this subsection or former spouse under section 2032(b) of this title, or a combination of such annuities, as the case may be.
+&emsp;&emsp;Except to the extent provided otherwise under a written election under subparagraph\(B) or (C), if at the time of retirement a participant or former participant is married (or has a former spouse who has not remarried before attaining age 55), the participant shall receive a reduced annuity and provide a survivor annuity for the participant's spouse under this subsection or former spouse under section 2032(b) of this title, or a combination of such annuities, as the case may be.
 
 #### (B) Joint election for waiver or reduction of spouse survivor annuity
 
-&emsp;&emsp;A married participant or former participant and the participant's spouse may jointly elect in writing at the time of retirement to waive a survivor annuity for that spouse under this section or to reduce such survivor annuity under this section by designating a portion of the annuity of the participant asthe base for the survivor annuity. If the marriage is dissolved following an election for such a reduced annuity and the spouse qualifies as a former spouse, the base used in calculating any annuity of the former spouse under section 2032(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
+&emsp;&emsp;A married participant or former participant and the participant's spouse may jointly elect in writing at the time of retirement to waive a survivor annuity for that spouse under this section or to reduce such survivor annuity under this section by designating a portion of the annuity of the participant as the base for the survivor annuity. If the marriage is dissolved following an election for such a reduced annuity and the spouse qualifies as a former spouse, the base used in calculating any annuity of the former spouse under section 2032(b) of this title may not exceed the portion of the participant's annuity designated under this subparagraph.
 
 #### (C) Joint election of participant and former spouse
 
@@ -180,7 +180,7 @@
 
 &emsp;(A) In the case of a child annuity payable under paragraph (1), upon the death of a surviving spouse or the termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse or child had not survived the retired participant.
 
-&emsp;(B) In the case of a child annuity payable under paragraph (2), upon the death of a surviving spouse or former spouse or termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the retired participant. If the annuity of a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities of all currently eligible children were then being initiated.
+&emsp;(B) In the case of a child annuity payable under paragraph (2), upon the death of a surviving spouse or former spouse or termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the retired participant. If the annuity of a surviving child who has notbeen receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities of all currently eligible children were then being initiated.
 
 #### (5) "Former spouse" defined
 
@@ -190,7 +190,7 @@
 
 #### (1) Commencement
 
-&emsp;An annuity payable to a child under subsection (d), or under section 2052(c) of this title, shall begin on the day after the date onwhich the participant or retired participant dies or, in the case of an individual over the age of 18 who is not a child within the meaning of section 2002(b) of this title, shall begin or resume on the first day of the month in which the individual later becomes or again becomes a student as described in section 2002(b) of this title. Such annuity may not commence until any lump-sum that has been paid is returned to the fund.
+&emsp;An annuity payable to a child under subsection (d), or under section 2052(c) of this title, shall begin on the day after the date on which the participant or retired participant dies or, in the case of an individual over the age of 18 who is not a child within the meaning of section 2002(b) of this title, shall begin or resume on the first day of the month in which the individual later becomes or again becomes a student as described in section 2002(b) of this title. Such annuity may not commence until any lump-sum that has been paid is returned to the fund.
 
 #### (2) Termination
 

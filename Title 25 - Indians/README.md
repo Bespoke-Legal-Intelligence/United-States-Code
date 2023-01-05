@@ -38,6 +38,7 @@
 | [<b>31.</b>](Chapter%20031%20-%20Native%20American%20Languages/README.md) | <b>Native American Languages</b> | <b>2901</b> |
 | [<b>32.</b>](Chapter%20032%20-%20Native%20American%20Graves%20Protection%20and%20Repatriation/README.md) | <b>Native American Graves Protection and Repatriation</b> | <b>3001</b> |
 | [<b>32A.</b>](Chapter%20032A%20-%20Cultural%20and%20Heritage%20Cooperation%20Authority/README.md) | <b>Cultural and Heritage Cooperation Authority</b> | <b>3051</b> |
+| [<b>32B.</b>](Chapter%20032B%20-%20Safeguard%20Tribal%20Objects%20of%20Patrimony/README.md) | <b>Safeguard Tribal Objects of Patrimony</b> | <b>3071</b> |
 | [<b>33.</b>](Chapter%20033%20-%20National%20Indian%20Forest%20Resources%20Management/README.md) | <b>National Indian Forest Resources Management</b> | <b>3101</b> |
 | [<b>34.</b>](Chapter%20034%20-%20Indian%20Child%20Protection%20and%20Family%20Violence%20Prevention/README.md) | <b>Indian Child Protection and Family Violence Prevention</b> | <b>3201</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Indian%20Higher%20Education%20Programs/README.md) | <b>Indian Higher Education Programs</b> | <b>3301</b> |
@@ -4916,6 +4917,7 @@ omitted
 - [Chapter 031 - Native American Languages](Chapter%20031%20-%20Native%20American%20Languages/README.md)
 - [Chapter 032 - Native American Graves Protection and Repatriation](Chapter%20032%20-%20Native%20American%20Graves%20Protection%20and%20Repatriation/README.md)
 - [Chapter 032A - Cultural and Heritage Cooperation Authority](Chapter%20032A%20-%20Cultural%20and%20Heritage%20Cooperation%20Authority/README.md)
+- [Chapter 032B - Safeguard Tribal Objects of Patrimony](Chapter%20032B%20-%20Safeguard%20Tribal%20Objects%20of%20Patrimony/README.md)
 - [Chapter 033 - National Indian Forest Resources Management](Chapter%20033%20-%20National%20Indian%20Forest%20Resources%20Management/README.md)
 - [Chapter 034 - Indian Child Protection and Family Violence Prevention](Chapter%20034%20-%20Indian%20Child%20Protection%20and%20Family%20Violence%20Prevention/README.md)
 - [Chapter 035 - Indian Higher Education Programs](Chapter%20035%20-%20Indian%20Higher%20Education%20Programs/README.md)

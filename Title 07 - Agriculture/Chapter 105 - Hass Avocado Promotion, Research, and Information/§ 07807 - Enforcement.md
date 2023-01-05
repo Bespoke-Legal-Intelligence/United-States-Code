@@ -50,7 +50,7 @@ A civil action brought under subsection (a) shall be referred to the Attorney Ge
 
 #### (B) Copy of record
 
-&emsp;&emsp;The Secretary shall promptly file in the court a certified copy of the record on which the Secretary found that the person had committed a violation.
+&emsp;&emsp;The Secretary shall promptly file in the court a certified copy of the record on whichthe Secretary found that the person had committed a violation.
 
 #### (2) Standard of review
 

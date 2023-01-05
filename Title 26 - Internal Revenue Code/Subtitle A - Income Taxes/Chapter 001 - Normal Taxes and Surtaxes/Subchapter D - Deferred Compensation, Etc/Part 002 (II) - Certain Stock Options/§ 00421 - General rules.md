@@ -18,7 +18,7 @@ If the transfer of a share of stock to an individual pursuant to his exercise of
 
 #### (1) In general
 
-&emsp;If an option to which this part applies is exercised after the death of the employee by the estate of the decedent, or by a person who acquired the right to exercise such option by bequest or inheritance or by reason of the death of the decedent, the provisions of subsection (a) shall apply to the same extent as if the option had been exercised by the decedent, except that—
+&emsp;If an option to which this part applies is exercised after the death of the employee by theestate of the decedent, or by a person who acquired the right to exercise such option by bequest or inheritance or by reason of the death of the decedent, the provisions of subsection (a) shall apply to the same extent as if the option had been exercised by the decedent, except that—
 
 &emsp;&emsp;(A) the holding period and employment requirements of sections 422(a) and 423(a) shall not apply, and
 
@@ -88,7 +88,7 @@ Subsec. (d)(7). Pub. L. 85–866, §26(a)(2), added par. (7).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title II, §251(d), Oct. 22, 2004, 118 Stat. 1459, provided that: "The amendments made by this section \[amending this section, sections 423, 3121, 3231, and 3306 of this title, and section 409 of Title 42, The Public Health and Welfare\] shall apply to stock acquired pursuant to options exercised after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title II, §251(d), Oct. 22, 2004, 118 Stat. 1459, provided that: "The amendments made by this section \[amending this section, sections 423, 3121, 3231, and 3306 of this title, and section 409 of Title 42, ThePublic Health and Welfare\] shall apply to stock acquired pursuant to options exercised after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 Pub. L. 108–357, title VIII, §905(b), Oct. 22, 2004, 118 Stat. 1653, provided that: "The amendment made by this section \[amending this section\] shall apply to sales after the date of the enactment of this Act \[Oct. 22, 2004\]."
 

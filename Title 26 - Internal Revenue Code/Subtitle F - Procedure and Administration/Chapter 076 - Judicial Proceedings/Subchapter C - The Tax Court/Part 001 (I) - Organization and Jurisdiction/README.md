@@ -11,6 +11,7 @@
 | [7445\.](%C2%A7%2007445%20-%20Offices.md) | Offices. |
 | [7446\.](%C2%A7%2007446%20-%20Times%20and%20places%20of%20sessions.md) | Times and places of sessions. |
 | [7447\.](%C2%A7%2007447%20-%20Retirement.md) | Retirement. |
+| [7447A.](%C2%A7%2007447A%20-%20Retirement%20for%20special%20trial%20judges.md) | Retirement for special trial judges. |
 | [7448\.](%C2%A7%2007448%20-%20Annuities%20to%20surviving%20spouses%20and%20dependent%20children%20of%20judges%20and%20special%20trial%20judges.md) | Annuities to surviving spouses and dependent children of judges and special trial judges. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,6 +19,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. T, title VII, §702(c), Dec. 29, 2022, 136 Stat. 5404, added item 7447A.
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(326), Mar. 23, 2018, 132 Stat. 1200, substituted "Annuities to surviving spouses and dependent children of judges and special trial judges" for "Annuities of surviving spouses and dependent children" in item 7448.
 
@@ -47,4 +50,5 @@ Pub. L. 109–280, title VIII, §854(c)(2), Aug. 17, 2006, 120 Stat. 1018, which
 - [&sect; 07445 - Offices](%C2%A7%2007445%20-%20Offices.md)
 - [&sect; 07446 - Times and places of sessions](%C2%A7%2007446%20-%20Times%20and%20places%20of%20sessions.md)
 - [&sect; 07447 - Retirement](%C2%A7%2007447%20-%20Retirement.md)
+- [&sect; 07447A - Retirement for special trial judges](%C2%A7%2007447A%20-%20Retirement%20for%20special%20trial%20judges.md)
 - [&sect; 07448 - Annuities to surviving spouses and dependent children of judges and special trial judges](%C2%A7%2007448%20-%20Annuities%20to%20surviving%20spouses%20and%20dependent%20children%20of%20judges%20and%20special%20trial%20judges.md)

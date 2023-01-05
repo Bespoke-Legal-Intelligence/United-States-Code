@@ -36,15 +36,15 @@ There are transferred to, and vested in, the Secretary those functions of the Se
 
 #### References in Text
 
-The Bonneville Project Act of 1937, referred to in subsec. (a)(1)(C), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
+The Bonneville Project Act of 1937, referred to in subsec. (a)(1)(C), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
 
-The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1)(C), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 838 of Title 16 and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1)(C), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§838 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 838 of Title 16 and Tables.
 
 Act of June 18, 1954, as amended by the Act of December 23, 1963, referred to in subsec. (a)(1)(E), is act June 18, 1954, ch. 310, 68 Stat. 255, which was not classified to the Code.
 
 Paragraphs (1)(E) and (1)(F) of this subsection, referred to in subsec. (a)(3), were redesignated as pars. (1)(D) and (1)(E) of this subsection, respectively, by Pub. L. 104–58, title I, §104(h)(1)(B), Nov. 28, 1995, 109 Stat. 560.
 
-Act of May 15, 1910, referred to in subsec. (d), as amended, probably means act May 16, 1910, ch. 240, 36 Stat. 369, which is classified to sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
+Act of May 15, 1910, referred to in subsec. (d), probably means act May 16, 1910, ch. 240, 36 Stat. 369, which is classified to sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -120,7 +120,7 @@ Contributed Funds.—Notwithstanding any other provision of law, the Alaska Powe
 
 Federal Power Act.—(1) After the sales authorized by this Act occur, Eklutna and Snettisham, including future modifications, shall continue to be exempt from the requirements of Part I of the Federal Power Act (16 U.S.C. 791a et seq.), except as provided in subsection (b).
 
-"(2) The exemption provided by paragraph (1) shall not affect the Memorandum of Agreement entered into among the State of Alaska, the Eklutna Purchasers, the Alaska Energy Authority, and Federal fish and wildlife agencies regarding the protection, mitigation of, damages to, and enhancement of fish and wildlife, dated August 7, 1991, which remains in full force and effect.
+"(2) The exemption provided by paragraph (1) shall not affect the Memorandum of Agreement entered intoamong the State of Alaska, the Eklutna Purchasers, the Alaska Energy Authority, and Federal fish and wildlife agencies regarding the protection, mitigation of, damages to, and enhancement of fish and wildlife, dated August 7, 1991, which remains in full force and effect.
 
 "(3) Nothing in this title or the Federal Power Act preempts the State of Alaska from carrying out the responsibilities and authorities of the Memorandum of Agreement.
 
@@ -200,7 +200,7 @@ Pub. L. 102–377, title V, §505, Oct. 2, 1992, 106 Stat. 1343, provided that: 
 
 #### Transfers to Secretary of the Interior of Certain Fossil Energy Research and Development Authorities
 
-Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841, provided: "That there are transferred to, and vested in, the Secretary of the Interior all functions vested in, or delegated to, the Secretary of Energy and the Department of Energy under or with respect to (1) the Act of May 16, 1910 \[30 U.S.C. 1, 3, 5–7\], and other authorities formerly exercised by the Bureau of Mines \[now United States Bureau of Mines\], but limited to research and development relating to increased efficiency of production technology of solid fuel minerals; (2) section 908 ofthe Surface Mining Control and Reclamation Act of 1977, relating to research and development concerning alternative coal mining technologies (30 U.S.C. 1328); (3) sections 5(g)(2), 8(a)(4), 8(a)(9), 27(b)(2)(3) of the Outer Continental Shelf Lands Act (43 U.S.C. 1334(g)(2) and 1337(a)(4) and 1337(a)(9) \[and 1353(b)(2) and (3)\]); and (4) section 105 of the Energy Policy and Conservation Act (42 U.S.C. 6213): <i>Provided further</i>, That the personnel employed, personnel positions, equipment, facilities, and unexpended balances of the aforementioned transferred programs shall be merged with the 'Mines and minerals' account of the Bureau of Mines."
+Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841, provided: "That there are transferred to, and vested in, the Secretary of the Interior all functions vested in, or delegated to, the Secretary of Energy and the Department of Energy under or with respect to (1) the Act of May 16, 1910 \[30 U.S.C. 1, 3, 5–7\], and other authorities formerly exercised by the Bureau of Mines \[now United States Bureau of Mines\], but limited to research and development relating to increased efficiency of production technology of solid fuel minerals; (2) section 908 of the Surface Mining Control and Reclamation Act of 1977, relating to research and development concerning alternative coal mining technologies (30 U.S.C. 1328); (3) sections 5(g)(2), 8(a)(4), 8(a)(9), 27(b)(2)(3) of the Outer Continental Shelf Lands Act (43 U.S.C. 1334(g)(2) and 1337(a)(4) and 1337(a)(9) \[and 1353(b)(2) and (3)\]); and (4) section 105 of the Energy Policy and Conservation Act (42 U.S.C. 6213): <i>Provided further</i>, That the personnel employed, personnel positions, equipment, facilities, and unexpended balances of the aforementioned transferred programs shall be merged with the 'Mines and minerals' account of the Bureau of Mines."
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

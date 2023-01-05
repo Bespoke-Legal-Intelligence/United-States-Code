@@ -44,7 +44,7 @@ Notwithstanding subsection (a), in providing farmer program loan guarantees unde
 
 #### (5) Relationship to other requirements
 
-&emsp;Neither this subsection nor subsection (d) shall affect the responsibility of the Secretaryto certify eligibility, review financial information, and otherwise assess an application.
+&emsp;Neither this subsection nor subsection (d) shall affect the responsibility of the Secretary to certify eligibility, review financial information, and otherwise assess an application.
 
 #### (d) Preferred Certified Lenders Program
 
@@ -118,7 +118,7 @@ Pub. L. 100–233, title VI, §624, Jan. 6, 1988, 101 Stat. 1685, provided that:
 
 #### Study and Report to Congress Before Issuance of Certain Final Regulations
 
-Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that: "Not later than 60 days before theSecretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of the enactment of this Act \[Jan. 6, 1988\], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act."
+Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that: "Not later than 60 days before the Secretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of the enactment of this Act \[Jan. 6, 1988\], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act."
 
 #### Availability of Funds for Continuing Assistance to Delinquent Borrowers; Prohibition on Use of Funds
 

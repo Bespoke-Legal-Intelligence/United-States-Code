@@ -1,6 +1,6 @@
 ### §1740. Copies of consular papers
 
-Copies of all official documents and papers in the office of any consul or vice consul of theUnited States, and of all official entries in the books or records of any such office, authenticated by the consul or vice consul, shall be admissible equally with the originals.
+Copies of all official documents and papers in the office of any consul or vice consul of the United States, and of all official entries in the books or records of any such office, authenticated by the consul or vice consul, shall be admissible equally with the originals.
 
 (June 25, 1948, ch. 646, 62 Stat. 947.)
 

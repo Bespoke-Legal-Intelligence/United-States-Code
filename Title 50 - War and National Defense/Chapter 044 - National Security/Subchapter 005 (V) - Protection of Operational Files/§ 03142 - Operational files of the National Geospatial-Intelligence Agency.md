@@ -48,7 +48,7 @@
 
 &emsp;(iv)(I) When a complainant alleges that requested records were improperly withheld because of improper exemption of operational files, NGA shall meet its burden under section 552(a)(4)(B) of title 5 by demonstrating to the court by sworn written submission that exempted operational files likely to contain responsive records currently perform the functions set forth in paragraph (2).
 
-&emsp;(II) The court may not order NGA to review the content of any exempted operational file or files in order to make the demonstration required under subclause (I), unless the complainant disputes NGA's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence.
+&emsp;(II) The court may not order NGA to review the content of any exempted operational fileor files in order to make the demonstration required under subclause (I), unless the complainant disputes NGA's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence.
 
 &emsp;(v) In proceedings under clauses (iii) and (iv), the parties may not obtain discovery pursuant to rules 26 through 36 of the Federal Rules of Civil Procedure, except that requests for admissions may be made pursuant to rules 26 and 36.
 
@@ -130,5 +130,5 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Treatment of Certain Transferred Records
 
-Pub. L. 106–120, title V, §501(b), Dec. 3, 1999, 113 Stat. 1619, as amended by Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, provided that: "Any record transferred to the National Geospatial-Intelligence Agency from exempted operational files of the Central Intelligence Agency covered by section 701(a) of the National Security Act of 1947 (50 U.S.C. 431(a)) \[now 50 U.S.C. 3141(a)\] shall be placed in the operational files of the National Geospatial-Intelligence Agency that are established pursuant to section 105B \[now 702\] ofthe National Security Act of 1947 \[50 U.S.C. 3142\], as added by subsection (a)."
+Pub. L. 106–120, title V, §501(b), Dec. 3, 1999, 113 Stat. 1619, as amended by Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, provided that: "Any record transferred to the National Geospatial-Intelligence Agency from exempted operational files of the Central Intelligence Agency covered by section 701(a) of the National Security Act of 1947 (50 U.S.C. 431(a)) \[now 50 U.S.C. 3141(a)\] shall be placed in the operational files of the National Geospatial-Intelligence Agency that are established pursuant to section 105B \[now 702\] of the National Security Act of 1947 \[50 U.S.C. 3142\], as added by subsection (a)."
 

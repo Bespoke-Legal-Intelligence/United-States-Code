@@ -5,7 +5,7 @@ Part A—Cybersecurity and Infrastructure Security
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00651 - Definitions](%C2%A7%2000651%20-%20Definitions.md)
+- [&sect; 00651 - Definition](%C2%A7%2000651%20-%20Definition.md)
 - [&sect; 00652 - Cybersecurity and Infrastructure Security Agency](%C2%A7%2000652%20-%20Cybersecurity%20and%20Infrastructure%20Security%20Agency.md)
 - [&sect; 00652a - Sector Risk Management Agencies](%C2%A7%2000652a%20-%20Sector%20Risk%20Management%20Agencies.md)
 - [&sect; 00653 - Cybersecurity Division](%C2%A7%2000653%20-%20Cybersecurity%20Division.md)
@@ -30,3 +30,8 @@ Part A—Cybersecurity and Infrastructure Security
 - [&sect; 00665g - State and Local Cybersecurity Grant Program](%C2%A7%2000665g%20-%20State%20and%20Local%20Cybersecurity%20Grant%20Program.md)
 - [&sect; 00665h - National Cyber Exercise Program](%C2%A7%2000665h%20-%20National%20Cyber%20Exercise%20Program.md)
 - [&sect; 00665i - CyberSentry program](%C2%A7%2000665i%20-%20CyberSentry%20program.md)
+- [&sect; 00665j - Ransomware threat mitigation activities](%C2%A7%2000665j%20-%20Ransomware%20threat%20mitigation%20activities.md)
+- [&sect; 00665k - Federal Clearinghouse on School Safety Evidence-based Practices](%C2%A7%2000665k%20-%20Federal%20Clearinghouse%20on%20School%20Safety%20Evidence-based%20Practices.md)
+- [&sect; 00665l - School and daycare protection](%C2%A7%2000665l%20-%20School%20and%20daycare%20protection.md)
+- [&sect; 00665m - President's Cup Cybersecurity Competition](%C2%A7%2000665m%20-%20President%27s%20Cup%20Cybersecurity%20Competition.md)
+- [&sect; 00665n - Industrial Control Systems Cybersecurity Training Initiative](%C2%A7%2000665n%20-%20Industrial%20Control%20Systems%20Cybersecurity%20Training%20Initiative.md)

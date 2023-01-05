@@ -30,7 +30,7 @@
 
 #### (A) Group 1
 
-&emsp;&emsp;Subject to the numerical limitation established under subparagraph (C), in the case of an alien who has established, at the time of application for temporary residence under paragraph (1), that the alien performed seasonal agricultural services in the United States for at least 90 man-days during each of the 12-month periods ending on May 1, 1984, 1985, and 1986, the adjustment shall occur on the first day after the end of the one-year period that begins on the later of (I) the date the alien was granted such temporary resident status, or (II) the day after the last day of the application period described in paragraph (1)(A).
+&emsp;&emsp;Subject to the numerical limitation established under subparagraph (C), in the case of an alien who has established, at the time of application for temporary residence under paragraph (1), that the alien performed seasonal agricultural services in the United States for at least 90 man-days during each of the 12-month periods ending on May 1,1984, 1985, and 1986, the adjustment shall occur on the first day after the end of the one-year period that begins on the later of (I) the date the alien was granted such temporary resident status, or (II) the day after the last day of the application period described in paragraph (1)(A).
 
 #### (B) Group 2
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(i) An alien applying for adjustment of status under subsection (a)(1) has the burden of proving by a preponderance of the evidence that the alien has worked the requisite number of man-days (as required under subsection (a)(1)(B)(ii)).
 
-&emsp;&emsp;(ii) If an employer or farm labor contractor employing such an alien has kept proper and adequate records respecting such employment, the alien's burden of proof under clause (i) may be met by securing timely production of those records under regulations to be promulgated by the Attorney General.
+&emsp;&emsp;(ii) If an employer or farm labor contractor employing such an alien has kept proper and adequate records respecting such employment, the alien's burden of proof under clause (i) may be met by securingtimely production of those records under regulations to be promulgated by the Attorney General.
 
 &emsp;&emsp;(iii) An alien can meet such burden of proof if the alien establishes that the alien has in fact performed the work described in subsection (a)(1)(B)(ii) by producing sufficient evidence to show the extent of that employment as a matter of just and reasonable inference. In such a case, the burden then shifts to the Attorney General to disprove the alien's evidence with a showing which negates the reasonableness of the inference to be drawn from the evidence.
 
@@ -114,7 +114,7 @@
 
 &emsp;&emsp;&emsp;(ii) make any publication whereby the information furnished by any particular individual can be identified; or
 
-&emsp;&emsp;&emsp;(iii) permit anyone other than the sworn officers and employees of the Departmentor bureau or agency or, with respect to applications filed with a designated entity, that designated entity, to examine individual applications.
+&emsp;&emsp;&emsp;(iii) permit anyone other than the sworn officers and employees of the Department or bureau or agency or, with respect to applications filed with a designated entity, that designated entity, to examine individual applications.
 
 #### (B) Required disclosures
 
@@ -194,7 +194,7 @@
 
 &emsp;&emsp;(A) may not be excluded or deported, and
 
-&emsp;&emsp;(B) shall be granted authorization to engage in employment in the United Statesand be provided an "employment authorized" endorsement or other appropriate work permit.
+&emsp;&emsp;(B) shall be granted authorization to engage in employment in the United States and be provided an "employment authorized" endorsement or other appropriate work permit.
 
 #### (2) During application period
 
@@ -260,13 +260,13 @@ In this section, the term "seasonal agricultural services" means the performance
 
 This chapter, referred to in subsecs. (a)(3)(A) and (d)(3)(A), was in the original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-Public Law 89–732, referred to in subsec. (b)(2)(B), is Pub. L. 89–732, Nov. 2, 1966, 80 Stat. 1161, as amended, which is set out as a note under section 1255 of this title.
+Public Law 89–732, referred to in subsec. (b)(2)(B), is Pub. L. 89–732, Nov. 2, 1966, 80 Stat. 1161, which is set out as a note under section 1255 of this title.
 
-Public Law 95–145, referred to in subsec. (b)(2)(B), is Pub. L. 95–145, Oct. 28, 1977, 91 Stat. 1223, as amended. Title I of Pub. L. 95–145 is set out as a note under section 1255 of this title. Title II of Pub. L. 95–145 amended Pub. L. 94–23, which was set out as a note under section 2601 of Title 22, Foreign Relations and Intercourse, and was repealed by Pub. L. 96–212, title III, §312(c), Mar. 17, 1980, 94 Stat. 117.
+Public Law 95–145, referred to in subsec. (b)(2)(B), is Pub. L. 95–145, Oct. 28, 1977, 91 Stat. 1223. Title I of Pub. L. 95–145 is set out as a note under section 1255 of this title. Title II of Pub. L. 95–145 amended Pub. L. 94–23, which was set out as a note under section 2601 of Title 22, Foreign Relations and Intercourse, and was repealed by Pub. L. 96–212, title III, §312(c), Mar. 17, 1980, 94 Stat. 117.
 
 Section 1105a of this title, referred to in subsec. (e)(3)(A), was repealed by Pub. L. 104–208, div. C, title III, §306(b), Sept. 30, 1996, 110 Stat. 3009–612.
 
-The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Social Security Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

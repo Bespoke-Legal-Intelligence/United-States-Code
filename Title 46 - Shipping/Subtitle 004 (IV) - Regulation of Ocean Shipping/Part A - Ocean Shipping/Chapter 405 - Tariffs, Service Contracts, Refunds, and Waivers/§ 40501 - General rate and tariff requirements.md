@@ -6,7 +6,7 @@ Automated Tariff System.—
 
 &emsp;(1)
 
-In general.—Each common carrier and conference shall keep open to public inspection in an automated tariff system, tariffs showing all its rates, charges, classifications, rules, and practices between all points or ports on its own route and on any through transportation route that has been established. However, a common carrier is not required to stateseparately or otherwise reveal in tariffs the inland divisions of a through rate.
+In general.—Each common carrier and conference shall keep open to public inspection in an automated tariff system, tariffs showing all its rates, charges, classifications, rules, and practices between all points or ports on its own route and on any through transportation route that has been established. However, a common carrier is not required to state separately or otherwise reveal in tariffs the inland divisions of a through rate.
 
 &emsp;(2)
 

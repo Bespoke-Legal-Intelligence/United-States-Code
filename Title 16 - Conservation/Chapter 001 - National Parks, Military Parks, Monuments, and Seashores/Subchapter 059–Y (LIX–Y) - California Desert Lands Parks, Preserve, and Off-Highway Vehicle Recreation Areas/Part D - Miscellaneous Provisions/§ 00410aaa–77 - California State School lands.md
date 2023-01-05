@@ -38,7 +38,7 @@ Within six months after October 31, 1994, the Secretary shall send to the Commis
 
 &emsp;(C) the Commission has not notified the Secretary within six months that it wishes to consider entering into an exchange for such lands or interests therein.
 
-(2) If the Commission notifies the Secretary that it wishes to consider an exchange for suchlands or interests therein, the Secretary shall attempt to conclude such exchange in accordance with the provisions of this section as quickly as possible.
+(2) If the Commission notifies the Secretary that it wishes to consider an exchange for such lands or interests therein, the Secretary shall attempt to conclude such exchange in accordance with the provisions of this section as quickly as possible.
 
 (3) If an agreement is reached and executed with the Commission, then upon notice to the head of the agency having administrative jurisdiction over such lands or interests therein, the Secretary shall be vested with administrative jurisdiction over such land or interests therein for the purpose of concluding such exchange.
 
@@ -56,9 +56,9 @@ The provisions of this section shall not apply to the disposal of property under
 
 This Act, referred to in subsecs. (a)(1) and (b)(1), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under section 410aaa of this title.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(2)(C), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(2)(C), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (d), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of Title 10 and Tables.
+The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (d), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623. Title II of the Act is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of Title 10 and Tables.
 
 The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which amended section 2687 of Title 10 and enacted provisions set out as a note under section 2687 of Title 10.
 

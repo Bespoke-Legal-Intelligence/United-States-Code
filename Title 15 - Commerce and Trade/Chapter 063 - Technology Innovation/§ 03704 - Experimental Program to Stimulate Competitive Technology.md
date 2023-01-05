@@ -92,7 +92,7 @@ To the extent practicable, in carrying out subsection (a), the Secretary shall c
 
 #### (D) Institutional diversity
 
-&emsp;&emsp;In awarding grants, cooperative agreements, and contracts to eligible institutions, the Secretary shall ensure, to the extent practicable, that awards are made to alltypes of institutions eligible for assistance under this subsection.
+&emsp;&emsp;In awarding grants, cooperative agreements, and contracts to eligible institutions, the Secretary shall ensure, to the extent practicable, that awards are made to all types of institutions eligible for assistance under this subsection.
 
 #### (E) Need
 
@@ -250,7 +250,7 @@ Subsec. (b). Pub. L. 100–519, §201(b), amended subsec. (b) generally. Prior t
 
 Subsec. (c). Pub. L. 100–519, §201(c)(2), substituted "Under Secretary, as appropriate," for "Assistant Secretary, on a continuing basis," in introductory provisions.
 
-Subsec. (c)(1) to (9). Pub. L. 100–519, §201(c)(1), (2), added pars. (1) to (4) and redesignated former pars. (1)to (5) as (5) to (9), respectively. Former pars. (6) to (9) redesignated (10) to (13), respectively.
+Subsec. (c)(1) to (9). Pub. L. 100–519, §201(c)(1), (2), added pars. (1) to (4) and redesignated former pars. (1) to (5) as (5) to (9), respectively. Former pars. (6) to (9) redesignated (10) to (13), respectively.
 
 Subsec. (c)(10). Pub. L. 100–519, §201(c)(1), (3), redesignated former par. (6) as (10) and substituted "Under Secretary" for "Assistant Secretary". Former par. (10) redesignated (14).
 

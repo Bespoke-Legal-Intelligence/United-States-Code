@@ -32,7 +32,7 @@ No suit, action, or other proceeding commenced by or against any officer in the 
 
 #### (1) Substitution of parties
 
-&emsp;If, before the effective date of this subchapter, USIA or the Broadcasting Board of Governors, or any officer thereof in the official capacity of such officer, is a party to asuit which is related to the functions transferred by this part, then effective on such date such suit shall be continued with the Broadcasting Board of Governors or other appropriate official of the Board substituted or added as a party.
+&emsp;If, before the effective date of this subchapter, USIA or the Broadcasting Board of Governors, or any officer thereof in the official capacity of such officer, is a party to a suit which is related to the functions transferred by this part, then effective on such date such suit shall be continued with the Broadcasting Board of Governors or other appropriate official of the Board substituted or added as a party.
 
 #### (2) Liability of the Board
 
@@ -60,5 +60,5 @@ This part, referred to in subsecs. (b) to (e), was in the original "this chapter
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 

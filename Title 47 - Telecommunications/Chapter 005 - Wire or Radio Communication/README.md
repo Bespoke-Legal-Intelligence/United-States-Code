@@ -154,7 +154,8 @@
 | [341\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000341%20-%20Carriage%20of%20television%20signals%20to%20certain%20subscribers.md) | Carriage of television signals to certain subscribers. |
 | [342\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000342%20-%20Process%20for%20issuing%20qualified%20carrier%20certification.md) | Process for issuing qualified carrier certification. |
 | [343\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000343%20-%20Conditions%20on%20commercial%20terrestrial%20operations.md) | Conditions on commercial terrestrial operations. |
-| [344\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000344%20-%20Telecommunications%20interagency%20working%20group.md) | Telecommunications interagency working group. |
+| [344\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000344%20-%20Repealed.%20Pub.%20L.%20117%E2%80%9358%2C%20div.%20F%2C%20title%20VI%2C%20%C2%A760602%28b%29%2C%20Nov.%2015%2C%202021%2C%20135%20Stat.%201249.md) | Repealed. |
+| [345\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000345%20-%20Protection%20of%20survivors%20of%20domestic%20violence%2C%20human%20trafficking%2C%20and%20related%20crimes.md) | Protection of survivors of domestic violence, human trafficking, and related crimes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

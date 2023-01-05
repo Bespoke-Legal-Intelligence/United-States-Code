@@ -144,7 +144,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of subsection (a)(1) and determining the closely held business amount (but not for purposes of subsection (g)), the value of any interest in a closely held business shall not include the value of that portion of such interest which is attributable to passive assets held by the business.
+&emsp;&emsp;For purposes of subsection (a)(1) and determining the closely held business amount\(but not for purposes of subsection (g)), the value of any interest in a closely held business shall not include the value of that portion of such interest which is attributable to passive assets held by the business.
 
 #### (B) Passive asset defined
 
@@ -180,7 +180,7 @@
 
 #### (i) Stock in qualifying lending and finance business treated as stock in an active trade or business company
 
-&emsp;&emsp;&emsp;For purposes of this section, any asset used in a qualifying lending and financebusiness shall be treated as an asset which is used in carrying on a trade or business.
+&emsp;&emsp;&emsp;For purposes of this section, any asset used in a qualifying lending and finance business shall be treated as an asset which is used in carrying on a trade or business.
 
 #### (ii) 5-year deferral for principal not to apply
 
@@ -308,7 +308,7 @@ If the time for payment of any amount of tax has been extended under this sectio
 
 &emsp;&emsp;&emsp;(ii) the amount of tax imposed for the taxable year on the estate under chapter 1; and
 
-&emsp;&emsp;&emsp;(iii) the amount of the tax imposed by section 2001 (including interest) paid bythe executor during the taxable year (other than any amount paid pursuant to this paragraph).
+&emsp;&emsp;&emsp;(iii) the amount of the tax imposed by section 2001 (including interest) paid by the executor during the taxable year (other than any amount paid pursuant to this paragraph).
 
 &emsp;&emsp;(C) For purposes of this paragraph, if any stock in a corporation is treated as stock in another corporation by reason of subsection (b)(8)(A), any dividends paid by such other corporation to the corporation shall be treated as paid to the estate of the decedent to the extent attributable to the stock qualifying under subsection (a)(1).
 
@@ -446,7 +446,7 @@ Subsec. (g)(1)(A). Pub. L. 97–34, §422(c)(1), redesignated cl. (i) as cl. (i)
 
 Subsec. (g)(1)(D). Pub. L. 97–34, §422(c)(3), inserted provision for application of a similar rule in the case of a series of subsequent transfers of the property by reason of death so long as each transfer is to a member of the family of the transferor in such transfer.
 
-Subsec. (g)(3). Pub. L. 97–34, §422(c)(2), substituted as heading "Failure to make payment of principal or interest" for "Failure to pay installment", designated existing provisions as subpar. (A), and in subpar. (A) as so designated, substituted "Except as provided in subparagraph (B), if any payment of principal or interest" for "If any installment" and "extension of time" for "extension of time for the payment of such installment", and added subpar. (B).
+Subsec. (g)(3). Pub. L. 97–34, §422(c)(2), substituted as heading "Failure to make payment of principal or interest" for "Failure to pay installment", designatedexisting provisions as subpar. (A), and in subpar. (A) as so designated, substituted "Except as provided in subparagraph (B), if any payment of principal or interest" for "If any installment" and "extension of time" for "extension of time for the payment of such installment", and added subpar. (B).
 
 <b>1978</b>—Subsec. (b)(2)(D). Pub. L. 95–600, §512(a), added subpar. (D).
 
@@ -476,7 +476,7 @@ Amendment by Pub. L. 99–514 applicable to generation-skipping transfers (withi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 544(b)(4) of Pub. L. 98–369 applicable to estates of decedents which are required tofile returns on a date (including any extensions) after July 18, 1984, see section 544(d) of Pub. L. 98–369, set out as a note under section 2002 of this title.
+Amendment by section 544(b)(4) of Pub. L. 98–369 applicable to estates of decedents which are required to file returns on a date (including any extensions) after July 18, 1984, see section 544(d) of Pub. L. 98–369, set out as a note under section 2002 of this title.
 
 Pub. L. 98–369, div. A, title X, §1021(e), July 18, 1984, 98 Stat. 1026, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 

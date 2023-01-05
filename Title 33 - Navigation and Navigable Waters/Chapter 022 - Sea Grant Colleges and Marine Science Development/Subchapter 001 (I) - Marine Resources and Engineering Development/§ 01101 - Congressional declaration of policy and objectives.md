@@ -1,6 +1,6 @@
 ### §1101. Congressional declaration of policy and objectives
 
-(a) It is hereby declared to be the policy of the United States to develop, encourage, and maintain a coordinated, comprehensive, and long-range national program in marine science for the benefit of mankind to assist in protection ofhealth and property, enhancement of commerce, transportation, and national security, rehabilitation of our commercial fisheries, and increased utilization of these and other resources.
+(a) It is hereby declared to be the policy of the United States to develop, encourage, and maintain a coordinated, comprehensive, and long-range national program in marine science for the benefit of mankind to assist in protection of health and property, enhancement of commerce, transportation, and national security, rehabilitation of our commercial fisheries, and increased utilization of these and other resources.
 
 (b) The marine science activities of the United States should be conducted so as to contribute to the following objectives:
 

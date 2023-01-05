@@ -72,7 +72,7 @@ Pub. L. 109–364, div. A, title VIII, §802(c), Oct. 17, 2006, 120 Stat. 2313, 
 
 Pub. L. 111–383, div. A, title VIII, §824(a), Jan. 7, 2011, 124 Stat. 4269, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense shall review guidance issued by the military departments on the implementation of section 2320(e) of title 10, United States Code \[see 10 U.S.C. 3774(a), (b)\], to ensure that such guidance is consistent with the guidance issued by the Under Secretary of Defense for Acquisition, Technology, and Logistics and the requirements of this section \[amending former sections 2320 and 2321 of this title\]. Such guidance shall be designed to ensure that the United States—
 
-&emsp;"(1) preserves the option of competition for contracts for the production and sustainment of systems or subsystems that are developed exclusively with Federal funds as defined in accordance with the amendments made by this section; and
+&emsp;"(1) preserves the option of competition for contracts for the production and sustainment of systemsor subsystems that are developed exclusively with Federal funds as defined in accordance with the amendments made by this section; and
 
 &emsp;"(2) is not required to pay more than once for the same technical data."
 

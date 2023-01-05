@@ -18,7 +18,7 @@
 
 &emsp;(G) Effective international cooperation is necessary to control the illicit cultivation, production, and smuggling of, trafficking in, and abuse of narcotic and psychotropic drugs.
 
-(2) In order to promote such cooperation, the President is authorized to conclude agreements, including reciprocal maritime agreements, with other countries to facilitate control of the production, processing, transportation, and distribution of narcotics analgesics, including opium and its derivatives, other narcotic and psychotropic drugs, and other controlled substances.
+(2) In order to promote such cooperation, the President is authorized to conclude agreements,including reciprocal maritime agreements, with other countries to facilitate control of the production, processing, transportation, and distribution of narcotics analgesics, including opium and its derivatives, other narcotic and psychotropic drugs, and other controlled substances.
 
 (3) In order to promote international cooperation in combatting international trafficking in illicit narcotics, it shall be the policy of the United States to use its voice and vote in multilateral development banks to promote the development and implementation in the major illicit drug producing countries of programs for the reduction and eventual eradication of narcotic drugs and other controlled substances, including appropriate assistance in conjunction with effective programs of illicit crop eradication.
 
@@ -64,7 +64,7 @@
 
 #### (1) Monitoring
 
-&emsp;The President, with the assistance of appropriate Federal agencies, shall monitor any useunder this part of a herbicide for aerial eradication in order to determine the impact of such use on the environment and on the health of individuals.
+&emsp;The President, with the assistance of appropriate Federal agencies, shall monitor any use under this part of a herbicide for aerial eradication in order to determine the impact of such use on the environment and on the health of individuals.
 
 #### (2) Annual reports
 
@@ -90,9 +90,11 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;&emsp;(B) in which 1,000 hectares or more of illicit coca is cultivated or harvested during a year;
 
-&emsp;&emsp;(C) in which 5,000 hectares or more of illicit cannabis is cultivated or harvested during a year, unless the President determines that such illicit cannabis production does not significantly affect the United States; or
+&emsp;&emsp;(C) in which 5,000 hectares or more of illicit cannabis is cultivated or harvested during a year, unless the President determines that such illicit cannabis production does not significantly affect the United States;
 
-&emsp;&emsp;(D) that is a significant source of illicit synthetic opioids significantly affecting the United States;
+&emsp;&emsp;(D) that is a significant source of illicit synthetic opioids significantly affecting the United States; or
+
+&emsp;&emsp;(E) that is a significant direct source of covered synthetic drugs or psychotropic drugs or other controlled substances, including precursor chemicals when those chemicals are used in the production of such drugs and substances, significantly affecting the United States;
 
 &emsp;(3) the term "narcotic and psychotropic drugs and other controlled substances" has the same meaning as is given by any applicable international narcotics control agreement or domestic law of the country or countries concerned;
 
@@ -122,43 +124,53 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;&emsp;(G) global health assistance authorized under sections 2151b through 2151b–4 of this title.
 
-&emsp;(5) the term "major drug-transit country" means a country—
-
-&emsp;&emsp;(A) that is a significant direct source of illicit narcotic or psychotropic drugs or other controlled substances significantly affecting the United States; or
-
-&emsp;&emsp;(B) through which are transported such drugs or substances; and
+&emsp;(5) the term "major drug-transit country" means a country through which are transported covered synthetic drugs or psychotropic drugs or other controlled substances significantly affecting the United States;
 
 &emsp;(6) the term "precursor chemical" has the same meaning as the term "listed chemical" has under paragraph (33) of section 802 of title 21;
 
-&emsp;(7) the term "major money laundering country" means a country whose financial institutions engage in currency transactions involving significant amounts of proceeds from international narcotics trafficking; and
+&emsp;(7) the term "major money laundering country" means a country whose financial institutions engage in currency transactions involving significant amounts of proceeds from international narcotics trafficking;
 
-&emsp;(8) the term "appropriate congressional committees" means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
+&emsp;(8) the term "appropriate congressional committees" means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and
 
-(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83,title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820; Pub. L. 115–254, div. F, title VI, §1470(j)(3), Oct. 5, 2018, 132 Stat. 3517; Pub. L. 117–81, div. F, title LXVI, §6610(b), Dec. 27, 2021, 135 Stat. 2447.)
+&emsp;(9) the term "covered synthetic drug" has the meaning given that term in section 5558 of the FENTANYL Results Act.
+
+(Pub. L. 87–195, pt. I, §481, as added Pub. L. 92–352, title V, §503, July 13, 1972, 86 Stat. 496; amended Pub. L. 93–189, §11(a), Dec. 17, 1973, 87 Stat. 719; Pub. L. 94–329, title V, §504(b), June 30, 1976, 90 Stat. 764; Pub. L. 95–384, §§3, 4, Sept. 26, 1978, 92 Stat. 730; Pub. L. 96–92, §3(b), Oct. 29, 1979, 93 Stat. 702; Pub. L. 97–113, title V, §502(a)(1), (b), title VII, §734(a)(1), Dec. 29, 1981, 95 Stat. 1538, 1539, 1560; Pub. L. 98–164, title X, §1003, Nov. 22, 1983, 97 Stat. 1053; Pub. L. 99–83, title VI, §§604–606, 618, Aug. 8, 1985, 99 Stat. 228, 229, 233; Pub. L. 99–570, title II, §§2005, 2008, 2009, 2017, Oct. 27, 1986, 100 Stat. 3207–61, 3207–64, 3207–68; Pub. L. 100–202, §101(e) \[title V, §585(a)\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–184; Pub. L. 100–204, title VIII, §805, Dec. 22, 1987, 101 Stat. 1397; Pub. L. 100–461, title V, §578(e)(2), (g)(1), (3), (h), (i), Oct. 1, 1988, 102 Stat. 2268–47, 2268–48; Pub. L. 100–690, title IV, §4202(b), 4401–4403, 4405(a), 4407(a), (b)(1), 4502, 4802(b), Nov. 18, 1988, 102 Stat. 4267, 4275–4277, 4281, 4285, 4294; Pub. L. 101–231, §§15, 17(a)–(f), Dec. 13, 1989, 103 Stat. 1963–1965; Pub. L. 102–550, title XV, §1519, Oct. 28, 1992, 106 Stat. 4060; Pub. L. 102–583, §§4(a)–(d), 5(b), 6(b)(1)–(3), 11(a), Nov. 2, 1992, 106 Stat. 4914, 4915, 4931, 4932, 4934; Pub. L. 103–447, title I, §101(a), (b), Nov. 2, 1994, 108 Stat. 4691; Pub. L. 104–164, title I, §131(a), July 21, 1996, 110 Stat. 1429; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820; Pub. L. 115–254, div. F, title VI, §1470(j)(3), Oct. 5, 2018, 132 Stat. 3517; Pub. L. 117–81, div. F, title LXVI, §6610(b), Dec. 27, 2021, 135 Stat. 2447; Pub. L. 117–263, div. E, title LV, §5555(b), Dec. 23, 2022, 136 Stat. 3343.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
+The National Narcotics Leadership Act of 1988, referred to in subsec. (b)(1), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181. Chapter 1 of the Act was classified principally to subchapter I (§1501 et seq.) of chapter 20 of Title 21, Food and Drugs, prior to repeal by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188. For complete classification of this Act to the Code, see Tables.
 
 Executive Order Number 12333, referred to in subsec. (b)(2), is set out as a note under section 3001 of Title 50, War and National Defense.
 
-This chapter, referred to in subsec. (e)(4)(A), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (e)(4)(A), was in the original "this Act", meaning Pub. L. 87–195, Sept.4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (e)(4)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (e)(4)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Food for Peace Act, referred to in subsec. (e)(4)(C), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The Export-Import Bank Act of 1945, referred to in subsec. (e)(4)(D), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
+The Export-Import Bank Act of 1945, referred to in subsec. (e)(4)(D), is act July 31, 1945, ch. 341, 59 Stat. 526, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
 
 The Victims of Trafficking and Violence Protection Act of 2000, referred to in subsec. (e)(4)(F), is Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+
+Section 5558 of the FENTANYL Results Act, referred to in subsec. (e)(9), is section 5558 of subtitle C of title LV of div. E of Pub. L. 117–263, which is set out as a note under section 2291l of this title.
 
 #### Prior Provisions
 
 A prior section 481 of Pub. L. 87–195, pt. I, as added Pub. L. 92–226, pt. I, §109, Feb. 7, 1972, 86 Stat. 24, contained similar subject matter, prior to repeal by section 503 of Pub. L. 92–352.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(2)(E). Pub. L. 117–263, §5555(b)(1), added subpar. (E).
+
+Subsec. (e)(5). Pub. L. 117–263, §5555(b)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "the term 'major drug-transit country' means a country—
+
+&emsp;"(A) that is a significant direct source of illicit narcotic or psychotropic drugs or other controlled substances significantly affecting the United States; or
+
+&emsp;"(B) through which are transported such drugs or substances; and".
+
+Subsec. (e)(9). Pub. L. 117–263, §5555(b)(3)–(5), added par. (9).
 
 <b>2021</b>—Subsec. (e)(2). Pub. L. 117–81, §6610(b)(1)(A), struck out "in which" before dash at end of introductory provisions.
 
@@ -196,7 +208,7 @@ Subsec. (a)(1). Pub. L. 102–583, §4(a), added par. (1) and struck out former 
 
 &emsp;"(C) the international community should provide assistance, where appropriate, to those producer and transit countries which require assistance in discharging these primary obligations;
 
-&emsp;"(D) international narcotics control programs should include, as a priority, the progressive elimination of the illicit cultivation of the crops from which narcotic and psychotropic drugs are derived, and should also include the suppression of the illicitmanufacture of and traffic in narcotic and psychotropic drugs;
+&emsp;"(D) international narcotics control programs should include, as a priority, the progressive elimination of the illicit cultivation of the crops from which narcotic and psychotropic drugs are derived, and should also include the suppression of the illicit manufacture of and traffic in narcotic and psychotropic drugs;
 
 &emsp;"(E) the objective of the United States in dealing with the problem of international money laundering should be to ensure that countries adopt comprehensive domestic measures against money laundering and cooperative with each other in narcotics money laundering investigations, prosecutions, and related forfeiture actions; and
 
@@ -324,7 +336,7 @@ Subsec. (h)(6)(B). Pub. L. 100–690, §4407(a), (b)(1)(B)(i), (ii), redesignate
 
 Subsec. (h)(6)(B)(ii). Pub. L. 100–690, §4407(b)(1)(B)(iii), which directed substitution of "resolutions" for "resolution" was executed by making the substitution the first place it appears, thus correcting grammatical error, as the probable intent of Congress.
 
-Subsec. (i)(4)(vi). Pub. L. 100–690, §4802(b), made technical amendment to reference to section 2151b(c)(2) ofthis title to correct reference to corresponding section of original act.
+Subsec. (i)(4)(vi). Pub. L. 100–690, §4802(b), made technical amendment to reference to section 2151b(c)(2) of this title to correct reference to corresponding section of original act.
 
 Subsec. (i)(4)(vii). Pub. L. 100–690, §4403, substituted "2151x(b)(2) of this title (but any such assistance shall be subject to the prior notification procedures applicable to reprogrammings pursuant to section 2394–1 of this title)," for "2151x of this title;".
 
@@ -388,7 +400,7 @@ Subsecs. (f) to (j). Pub. L. 98–164, §1003(b), added subsecs. (f) to (j).
 
 <b>1981</b>—Subsec. (c)(2). Pub. L. 97–113, §734(a)(1), struck out par. (2) which provided for a Presidential study of multilateral narcotics control activities and transmission of this study to the Speaker of the House and the President of the Senate no later than June 30, 1977.
 
-Subsec. (d). Pub. L. 97–113, §502(a)(1), substituted provisions requiring the Secretary of State to inform the Secretary of Health and Human Services of any use of herbicides to eradicate marihuana in a program receiving assistance under this part, directing the Secretary of Health and Human Services to monitor the impact on the health of persons using such marihuana and if he determines their exposure to the herbicide harms their health, report to Congress such determination with any recommendations, urging the President to use not less than $100,000 to develop a substance that clearly and readily warns potential marihuana users that the marihuana has been sprayed with paraquat or other herbicide harmful to the health of the persons using it, and directing the Secretary of Agriculture, if such a substance is developed, to use such substance in conjunction with the spraying of paraquat or other herbicide for provisions prohibiting the use of funds under this part for spraying a herbicide to eradicate marihuana if that practice is likely to seriously harm the health of users of the sprayed marihuana, except if the substance is used with a substance that will clearly and readily warn potential users of the sprayed marihuana of the use of herbicide, and requiring the Secretary of State to submit a report to Congress not later than January1 of each year detailing efforts taken to ensure compliance with this subsection.
+Subsec. (d). Pub. L. 97–113, §502(a)(1), substituted provisions requiring the Secretary of State to inform the Secretary of Health and Human Services of any use of herbicides to eradicate marihuana in a program receiving assistance under this part, directing the Secretary of Health and Human Services to monitor the impact on the health of persons using such marihuana and if he determines their exposure to the herbicide harms their health, report to Congress such determination with any recommendations, urging the President to use not less than $100,000 to develop a substance that clearly and readily warns potential marihuana users that the marihuana has been sprayed with paraquat or other herbicide harmful to the health of the persons using it, and directing the Secretary of Agriculture, if such a substance is developed, to use such substance in conjunction with the spraying of paraquat or other herbicide for provisions prohibiting the use of funds under this part for spraying a herbicide to eradicate marihuana if that practice is likely to seriously harm the health of users of the sprayed marihuana, except if the substance is used with a substance that will clearly and readily warn potential users of the sprayed marihuana of the use of herbicide, and requiring the Secretary of State to submit a report to Congress not later than January 1 of each year detailing efforts taken to ensure compliance with this subsection.
 
 Subsec. (e). Pub. L. 97–113, §502(b), added subsec. (e).
 
@@ -423,6 +435,10 @@ Pub. L. 100–202, §101(e) \[title V, §585(b)\], Dec. 22, 1987, 101 Stat. 1329
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+#### Rule of Construction
+
+Nothing in subtitle C (§§5551–5558) of title LV of div. E of Pub. L. 117–263, or the amendments made by that subtitle, to be construed as affecting the prioritization of extradition requests, see section 5557 of Pub. L. 117–263, set out as a note under section 2291l of this title.
 
 #### Prevention of Smuggling of Methamphetamine Into the United States From Mexico
 
@@ -488,7 +504,7 @@ Negotiations.—(1) The Attorney General shall enter into negotiations with the 
 
 "(b)
 
-Reports.—Not later than one year after the date of enactment of this Act \[Nov. 5, 1990\], the Attorney General shall submit an interim report to the Judiciary Committee and the Foreign Relations Committee of the Senate on progress in the negotiations. Not later than eighteen months from the date of enactment, the Attorney General shall submit a final report to the aforementioned Senate Committees on the result of negotiations identifying countries with which agreements have not been reached and which have jurisdiction over companies believed to be engaged in the manufacture, marketing, sale or purchase of precursor and/or essential chemicals used in illicit manufacture of controlled substances.
+Reports.—Not later than one year after the date of enactment of this Act \[Nov. 5, 1990\], the AttorneyGeneral shall submit an interim report to the Judiciary Committee and the Foreign Relations Committee of the Senate on progress in the negotiations. Not later than eighteen months from the date of enactment, the Attorney General shall submit a final report to the aforementioned Senate Committees on the result of negotiations identifying countries with which agreements have not been reached and which have jurisdiction over companies believed to be engaged in the manufacture, marketing, sale or purchase of precursor and/or essential chemicals used in illicit manufacture of controlled substances.
 
 "(c)
 
@@ -558,7 +574,7 @@ Pub. L. 101–167, title V, §569(d), Nov. 21, 1989, 103 Stat. 1244, provided th
 
 &emsp;"(A) Those funds may be transferred to and consolidated with the funds made available to carry out section 481 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291\] in order to provide additional narcotics control assistance for those countries. Funds transferred under this paragraph may only be used to provide increased funds for activities previously justified to the Congress. Transfers may be made under this paragraph without regard to the 20-percent increase limitation contained in section 610 of the Foreign Assistance Act \[22 U.S.C. 2360\].
 
-&emsp;"(B) Any such funds not used under subparagraph (A) shall be reprogrammed within the account for which they were appropriated (subject to the regular reprogramming procedures of the Committees on Appropriations) in order to provide additional security assistance for those countries.
+&emsp;"(B) Any such funds not used under subparagraph (A) shall be reprogrammed within the account forwhich they were appropriated (subject to the regular reprogramming procedures of the Committees on Appropriations) in order to provide additional security assistance for those countries.
 
 "(2) As used in this section, the term 'security assistance' means economic support fund assistance, foreign military financing, and international military education and training."
 
@@ -626,7 +642,7 @@ Pub. L. 107–68, title I, §103, Nov. 12, 2001, 115 Stat. 568, provided that:
 
 "(b) This section shall apply to pay periods beginning on or after October 1, 2001."
 
-Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392,title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119, title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
+Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119, title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
 
 "(a)
 
@@ -644,7 +660,7 @@ Duties.—The Caucus is authorized and directed—
 
 Membership.—(1) The Caucus shall be composed of 12 members as follows:
 
-&emsp;"(A) 7 Members of the Senate appointed by the President of the Senate, 4 of whom (including the member designated as Chairman) shall be selected from the majority party of the Senate, after consultation with the majority leader, and 3 of whom (including the member designated as Cochairman) shall be selected from the minority party of the Senate, after consultation with the minority leader.
+&emsp;"(A) 7 Members of the Senate appointed by the President of the Senate, 4 of whom (including themember designated as Chairman) shall be selected from the majority party of the Senate, after consultation with the majority leader, and 3 of whom (including the member designated as Cochairman) shall be selected from the minority party of the Senate, after consultation with the minority leader.
 
 &emsp;"(B) 5 members of the public to be appointed by the President after consultation with the members of the appropriate congressional committees.
 
@@ -728,7 +744,7 @@ Pub. L. 94–329, title IV, §408, June 30, 1976, 90 Stat. 759, as amended by Pu
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 #### Delegation of Presidential Authorities Under International Narcotics Control Act of 1990
 

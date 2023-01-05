@@ -6,7 +6,7 @@ For the purpose of this subchapter—
 
 &emsp;(2) the term "nonprofit organization" means an organization in which no part of its net earnings inures to the benefit of any private stockholder or stockholders, individual or individuals and, if a private entity, which is not disqualified for tax exemption under section 501(c)(3) of title 26 by reason of attempting to influence legislation and does not participate in or intervene in (including the publishing or distribution of statements) any political campaign on behalf of any candidate for public office; such organizations may include States and units of local government (including public agencies or special authorities thereof), regional organizations of local governments and nonprofit societies, neighborhood groups, institutions, organizations, associations or museums;
 
-&emsp;(3) the term "project" means a program or activity intended to carry out the purposes of this subchapter, including programs for neighborhood and community-based arts programs, urban design, user needs design, and the encouragement of the preservation of historic or other structures which have neighborhood or community significance;
+&emsp;(3) the term "project" means a program or activity intended to carry out the purposes of this subchapter, including programs for neighborhood and community-based arts programs, urban design, user needs design, and the encouragement of the preservation of historic orother structures which have neighborhood or community significance;
 
 &emsp;(4) the term "Secretary" means the Secretary of Housing and Urban Development;
 

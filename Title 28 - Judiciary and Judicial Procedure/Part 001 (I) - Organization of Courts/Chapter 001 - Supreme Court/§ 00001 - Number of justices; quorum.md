@@ -12,6 +12,14 @@ Appointment of "judges of the Supreme Court" by the President by and with the ad
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 117–354, §1, Jan. 5, 2023, 136 Stat. 6270, provided that: "This Act \[enacting section 540D of this title and section 20306 of Title 34, Crime Control and Law Enforcement, amending sections 20301 to 20305 of Title 34, and repealing section 20306 of Title 34\] may be cited as the 'Respect for Child Survivors Act'."
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–252, §1, Dec. 20, 2022, 136 Stat. 2359, provided that: "This Act \[amending provisions set out as a note preceding section 81 of this title\] may be cited as the 'Pro bono Work to Empower and Represent Act of 2021' or the 'POWER 2.0 Act'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 116–325, §1, Jan. 12, 2021, 134 Stat. 5086, provided that: "This Act \[amending sections 375, 589a, and 1930 of this title and section 330 of Title 11, Bankruptcy, and enacting provisions set out as notes under sections 152, 589a, and 1930 of this title and section 330 of Title 11\] may be cited as the 'Bankruptcy Administration Improvement Act of 2020'."
@@ -22,7 +30,7 @@ Pub. L. 116–73, §1, Nov. 26, 2019, 133 Stat. 1154, provided that: "This Act \
 
 #### Short Title of 2018 Amendment
 
-Pub. L. 115–332, §1, Dec. 19, 2018, 132 Stat. 4487, provided that: "This Act \[amending section 1631 of this title\] may be cited as the 'Protecting Access to the Courts for Taxpayers Act'."
+Pub. L. 115–332, §1, Dec. 19, 2018, 132 Stat. 4487, provided that: "This Act \[amending section 1631 of thistitle\] may be cited as the 'Protecting Access to the Courts for Taxpayers Act'."
 
 #### Short Title of 2017 Amendment
 
@@ -96,7 +104,7 @@ Pub. L. 105–315, §1, Oct. 30, 1998, 112 Stat. 2993, provided that: "This Act 
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–317, §1(a), Oct. 19, 1996, 110 Stat. 3847, provided that: "This Act \[enacting sections 258 and 1932 ofthis title, amending sections 112, 125, 134, 251, 253, 331, 332, 371, 376, 601, 621, 627, 636, 753, 954, 1332, 1404, 1406, 1442, 1446, 1827, 1914, 1931, and 1963 of this title, sections 3154, 3401, and 3603 of Title 18, Crimes and Criminal Procedure, sections 1983 and 1988 of Title 42, The Public Health and Welfare, and sections 719, 743, 745, 1104, and 1105 of Title 45, Railroads, enacting provisions set out as notes under sections 258, 1332, 1404, 1827, 1914, 1931, and 2412 of this title and section 719 of Title 45, and amending provisions set out as notes under sections 133, 152, 471, and 1913 of this title\] may be cited as the 'Federal Courts Improvement Act of 1996'."
+Pub. L. 104–317, §1(a), Oct. 19, 1996, 110 Stat. 3847, provided that: "This Act \[enacting sections 258 and 1932 of this title, amending sections 112, 125, 134, 251, 253, 331, 332, 371, 376, 601, 621, 627, 636, 753, 954, 1332, 1404, 1406, 1442, 1446, 1827, 1914, 1931, and 1963 of this title, sections 3154, 3401, and 3603 of Title 18, Crimes and Criminal Procedure, sections 1983 and 1988 of Title 42, The Public Health and Welfare, and sections 719, 743, 745, 1104, and 1105 of Title 45, Railroads, enacting provisions set out as notes under sections 258, 1332, 1404, 1827, 1914, 1931, and 2412 of this title and section 719 of Title 45, and amending provisions set out as notes under sections 133, 152, 471, and 1913 of this title\] may be cited as the 'Federal Courts Improvement Act of 1996'."
 
 #### Short Title of 1994 Amendments
 
@@ -216,7 +224,7 @@ Pub. L. 89–504, title II, §201, July 18, 1966, 80 Stat. 293, provided that: "
 
 #### Short Title of 1964 Amendment
 
-Pub. L. 88–426, title IV, §401, Aug. 14, 1964, 78 Stat. 433, provided that: "This title \[amending sections 5, 44, 135, 173, 213, 252, 603, and 792 of this title, section 867 of Title 10, Armed Forces, section 68 of former Title 11, Bankruptcy, and section 7443 of Title 26, Internal Revenue Code, and enacting provisions set out as notes under sections 603, 604 and 753 of this title\] may be cited as the 'Federal Judicial Salary Act of 1964'."
+Pub. L. 88–426, title IV, §401, Aug. 14, 1964, 78 Stat. 433, provided that: "This title \[amending sections 5, 44, 135, 173, 213, 252, 603, and 792 of this title, section 867 of Title 10, Armed Forces, section 68 of former Title 11, Bankruptcy, and section 7443 of Title 26, Internal Revenue Code, and enacting provisions set out as notes undersections 603, 604 and 753 of this title\] may be cited as the 'Federal Judicial Salary Act of 1964'."
 
 #### Gifts to the United States Supreme Court
 

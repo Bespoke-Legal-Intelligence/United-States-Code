@@ -6,7 +6,7 @@
 
 Section 2662, act Aug. 1, 1956, ch. 841, title I, §1 \[part\], 70 Stat. 890; as renumbered title I and amended Aug. 24, 1982, Pub. L. 97–241, title II, §202(a), 96 Stat. 282, which related to establishment, maintenance, and operation of passport and despatch agencies, was amended generally by Pub. L. 103–236 and transferred to section 2651a of this title.
 
-Section was formerly classified to section 170f of Title 5 prior to the general revision and enactment ofTitle 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+Section was formerly classified to section 170f of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 Similar provisions were contained in the following prior Department of State Appropriation Acts:
 

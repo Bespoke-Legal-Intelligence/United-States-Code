@@ -16,7 +16,7 @@
 
 #### (3) Relation to other uses
 
-&emsp;An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the PublicHealth Service Act \[42 U.S.C. 201 et seq.\] referred to in paragraph (2)(A).
+&emsp;An emergency use authorized under paragraph (1) for a product is in addition to any other use that is authorized for the product under a section of this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\] referred to in paragraph (2)(A).
 
 #### (4) Definitions
 
@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) an agent or agents that may cause, or are otherwise associated with, an imminently life-threatening and specific risk to United States military forces;
 
-&emsp;&emsp;(C) a determination by the Secretary that there is a public health emergency, or a significant potential for a public health emergency, that affects, or has a significant potential to affect, national security or the health and security of United States citizens living abroad, and that involves a biological, chemical, radiological, or nuclear agent or agents, or a disease or condition that may be attributable to such agent or agents; or
+&emsp;&emsp;(C) a determination by the Secretary that there is a public health emergency, or a significant potential for a public health emergency, that affects, or has a significant potential to affect, national security or the health and security of United States citizens living abroad, and that involves a biological,chemical, radiological, or nuclear agent or agents, or a disease or condition that may be attributable to such agent or agents; or
 
 &emsp;&emsp;(D) the identification of a material threat pursuant to section 319F–2 of the Public Health Service Act \[42 U.S.C. 247d–6b\] sufficient to affect national security or the health and security of United States citizens living abroad.
 
@@ -220,11 +220,11 @@ An authorization of a product under this section shall state—
 
 #### (1) Publication
 
-&emsp;The Secretary shall promptly publish in the Federal Register a notice of each authorization, and each termination or revocation of an authorization under this section, and an explanation of the reasons therefor (which may include a summary of data or information that has been submitted to the Secretary in an application under section 355(i) <sup>1</sup> 360b(j), or 360j(g) of this title, even if such summary may indirectly reveal the existence of such application). The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration.
+&emsp;The Secretary shall promptly publish on the internet website of the Food and Drug Administration and in the Federal Register a notice of each authorization, and each termination or revocation of an authorization under this section, and an explanation of the reasons therefor (which may include a summary of data or information that has been submitted to the Secretary in an application, request, or submission under this section or section 355(b), 355(i), 355(j), 360b(b), 360b(j), 360b(n), 360e, 360(k), 360c(f)(2), 360j(g), 360j(m), 360ccc, or 360ccc–1 of this title, or section 351(a) or 351(k) of the Public Health Service Act \[42 U.S.C. 262(a), (k)\], even if such summary may reveal the existence of such an application, request, or submission, or data contained in such application, request, or submission). The Secretary shall make any revisions to an authorization under this section available on the Internet Web site of the Food and Drug Administration, which may include a summary of the data and information supporting such revisions.
 
 #### (2) Confidential information
 
-&emsp;Nothing in this section alters or amends section 1905 of title 18 or section 552(b)(4) of title 5.
+&emsp;Nothing in this section alters or amends section 1905 of title 18 or section 552(b)(4) of title 5. Information made publicly available by the Secretary in accordance with paragraph (1) shall be considered a disclosure authorized by law for purposes of section 1905 of title 18 <sup>1</sup>
 
 #### (i) Actions committed to agency discretion
 
@@ -236,7 +236,7 @@ The following applies with respect to this section:
 
 &emsp;(1) Nothing in this section impairs the authority of the President as Commander in Chief of the Armed Forces of the United States under article II, section 2 of the United States Constitution.
 
-&emsp;(2) Nothing in this section impairs the authority of the Secretary of Defense with respect to the Department of Defense, including the armed forces, under other provisions of Federal law.
+&emsp;(2) Nothing in this section impairs the authority of the Secretary of Defense with respect to the Department of Defense, includingthe armed forces, under other provisions of Federal law.
 
 &emsp;(3) Nothing in this section (including any exercise of authority by a manufacturer under subsection (e)(2)) impairs the authority of the United States to use or manage quantities of a product that are owned or controlled by the United States (including quantities in the stockpile maintained under section 319F–2 of the Public Health Service Act \[42 U.S.C. 247d–6b\]).
 
@@ -268,15 +268,21 @@ Nothing in this section provides the Secretary any authority to require any pers
 
 &emsp;A determination under this subsection shall be effective for purposes of section 353 of the Public Health Service Act \[42 U.S.C. 263a\] notwithstanding any other provision of that section during the effective period of the relevant declaration under subsection (b).
 
-(June 25, 1938, ch. 675, §564, as added Pub. L. 108–136, div. A, title XVI, §1603(a), Nov. 24, 2003, 117 Stat. 1684; amended Pub. L. 108–276, §4(a), July 21, 2004, 118 Stat. 853; Pub. L. 113–5, title III, §302(a), Mar. 13, 2013, 127 Stat. 179; Pub. L. 114–255, div. A, title III, §3088(a), Dec. 13, 2016, 130 Stat. 1148; Pub. L. 115–92, §1(a), Dec. 12, 2017, 131 Stat. 2023.)
+(June 25, 1938, ch. 675, §564, as added Pub. L. 108–136, div. A, title XVI, §1603(a), Nov. 24, 2003, 117 Stat. 1684; amended Pub. L. 108–276, §4(a), July 21, 2004, 118 Stat. 853; Pub. L. 113–5, title III, §302(a), Mar. 13, 2013, 127 Stat. 179; Pub. L. 114–255, div. A, title III, §3088(a), Dec. 13, 2016, 130 Stat. 1148; Pub. L. 115–92, §1(a), Dec. 12, 2017, 131 Stat. 2023; Pub. L. 117–328, div. FF, title II, §2504, Dec. 29, 2022, 136 Stat. 5802.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which isclassified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h)(1). Pub. L. 117–328, §2504(1)(A), (C), inserted "on the internet website of the Food and Drug Administration and" after "promptly publish" and ", which may include a summary of the data and information supporting such revisions" before period at end of second sentence.
+
+Pub. L. 117–328, §2504(1)(B), which directed substitution of "application, request, or submission under this section or section 355(b), 355(i), 355(j), 360b(b), 360b(j), 360b(n), 360e, 360(k), 360c(f)(2), 360j(g), 360j(m), 360ccc, or 360ccc–1 of this title, or section 351(a) or 351(k) of the Public Health Service Act, even if such summary may reveal the existence of such an application, request, or submission, or data contained in such application, request, or submission" for "application under section 355(i), 360b(j), or 360j(g) of this title, even if such summary may indirectly reveal the existence of such application", was executed by making the substitution for "application under section 355(i) 360b(j), or 360j(g) of this title, even if such summary may indirectly reveal the existence of such application", to reflect the probable intent of Congress.
+
+Subsec. (h)(2). Pub. L. 117–328, §2504(2), inserted at end "Information made publicly available by the Secretary in accordance with paragraph (1) shall be considered a disclosure authorized by law for purposes of section 1905 of title 18".
 
 <b>2017</b>—Subsec. (b)(1)(B). Pub. L. 115–92, §1(a)(1)(A), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "a determination by the Secretary of Defense that there is a military emergency, or a significant potential for a military emergency, involving a heightened risk to United States military forces of attack with a biological, chemical, radiological, or nuclear agent or agents;".
 
@@ -354,7 +360,7 @@ Subsec. (j)(4). Pub. L. 113–5, §302(a)(8), added par. (4).
 
 Subsec. (m). Pub. L. 113–5, §302(a)(9), added subsec. (m).
 
-<b>2004</b>—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (l) for similar former provisions, except for additional provisions in subsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
+<b>2004</b>—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (l) for similar former provisions, except for additional provisions insubsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
 
 #### <b>Executive Documents</b>
 
@@ -374,5 +380,5 @@ The Secretary of Health and Human Services is authorized and directed to publish
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

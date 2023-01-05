@@ -1,6 +1,6 @@
 ### §2099. Prohibitions against issuance of license
 
-The Commission shall not license any person to transfer or deliver, receive possession of or title to, or import into or export from the United States any source material if, in the opinion of the Commission, the issuance of a license to such person for such purpose would be inimical to the common defense and security or the health and safety of the public.
+The Commission shall not license any person to transfer or deliver, receive possession of ortitle to, or import into or export from the United States any source material if, in the opinion of the Commission, the issuance of a license to such person for such purpose would be inimical to the common defense and security or the health and safety of the public.
 
 (Aug. 1, 1946, ch. 724, title I, §69, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 934; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 

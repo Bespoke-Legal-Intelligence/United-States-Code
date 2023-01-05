@@ -28,13 +28,13 @@ Specific Powers.—The Office—
 
 &emsp;&emsp;(F) provide for the development of a performance-based process that includes quantitative and qualitative measures and standards for evaluating cost-effectiveness and is consistent with the principles of impartiality and competitiveness; and
 
-&emsp;&emsp;(G) may, subject to any conditions prescribed by the Director and at the request of the patent applicant, provide for prioritization of examination of applications for products, processes, or technologies thatare important to the national economy or national competitiveness without recovering the aggregate extra cost of providing such prioritization, notwithstanding section 41 or any other provision of law;
+&emsp;&emsp;(G) may, subject to any conditions prescribed by the Director and at the request of the patent applicant, provide for prioritization of examination of applications for products, processes, or technologies that are important to the national economy or national competitiveness without recovering the aggregate extra cost of providing such prioritization, notwithstanding section 41 or any other provision of law;
 
 &emsp;(3) may acquire, construct, purchase, lease, hold, manage, operate, improve, alter, and renovate any real, personal, or mixed property, or any interest therein, as it considers necessary to carry out its functions;
 
 &emsp;(4)(A) may make such purchases, contracts for the construction, maintenance, or management and operation of facilities, and contracts for supplies or services, without regard to the provisions of subtitle I and chapter 33 of title 40, division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.); and
 
-&emsp;(B) may enter into and perform such purchases and contracts for printing services, including the process of composition, platemaking, presswork, silk screen processes, binding, microform, and the products of such processes, as it considers necessary to carry out the functions of the Office, without regard to sections 501 through 517 and 1101 through 1123 of title 44;
+&emsp;(B) may enter into and perform such purchases and contracts for printing services, including the process of composition, platemaking, presswork, silk screen processes, binding, microform, and the products of such processes, as it considers necessary to carryout the functions of the Office, without regard to sections 501 through 517 and 1101 through 1123 of title 44;
 
 &emsp;(5) may use, with their consent, services, equipment, personnel, and facilities of other departments, agencies, and instrumentalities of the Federal Government, on a reimbursable basis, and cooperate with such other departments, agencies, and instrumentalities in the establishment and use of services, equipment, and facilities of the Office;
 
@@ -129,6 +129,62 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
+
+#### Updates to the Patent Pro Bono Programs
+
+Pub. L. 117–328, div. W, §105, Dec. 29, 2022, 136 Stat. 5520, provided that:
+
+"(a)
+
+Study and Updates.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Dec. 29, 2022\], the Director shall—
+
+&emsp;&emsp;"(A) complete a study of the patent pro bono programs; and
+
+&emsp;&emsp;"(B) submit the results of the study required under subparagraph (A) to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+
+&emsp;"(2)
+
+Scope of the study.—The study required under paragraph (1)(A) shall—
+
+&emsp;&emsp;"(A) assess—
+
+&emsp;&emsp;&emsp;"(i) whether the patent pro bono programs, as in effect on the date on which the study is commenced, are sufficiently serving prospective and existing participants;
+
+&emsp;&emsp;&emsp;"(ii) whether the patent pro bono programs are sufficiently funded to serve prospective participants;
+
+&emsp;&emsp;&emsp;"(iii) whether any participation requirement of the patent pro bono programs, including any requirement to demonstrate knowledge of the patent system, serves as a deterrent for prospective participants;
+
+&emsp;&emsp;&emsp;"(iv) the degree to which prospective inventors are aware of the patent pro bono programs;
+
+&emsp;&emsp;&emsp;"(v) what factors, if any, deter attorneys from participating in the patent pro bono programs;
+
+&emsp;&emsp;&emsp;"(vi) whether the patent pro bono programs would be improved by expanding those programs to include non-attorney advocates; and
+
+&emsp;&emsp;&emsp;"(vii) any other issue the Director determines appropriate; and
+
+&emsp;&emsp;"(B) make recommendations for such administrative and legislative action as may be appropriate.
+
+"(b)
+
+Use of Results.—Upon completion of the study required under subsection (a), the Director shall work with the Pro Bono Advisory Council, the operators of the patent pro bono programs, and intellectual property law associations across the United States to update the patent pro bono programs in response to the findings of the study.
+
+"(c)
+
+Expansion of Income Eligibility.—
+
+&emsp;"(1)
+
+In general.—The Director shall work with and support, including by providing financial support to, existing patent pro bono programs and intellectual property law associations across the United States to expand eligibility for the patent pro bono programs to an individual living in a household, the gross household income of which is not more than 400 percent of the Federal poverty line.
+
+&emsp;"(2)
+
+Rule of construction.—Nothing in paragraph (1) may be construed to prevent a patent pro bono program from electing to establish a higher eligibility level, as compared to the level described in that paragraph."
+
+\[For definitions of terms used in section 105 of div. W of Pub. L. 117–328, set out above, see section 102 of div. W of Pub. L. 117–328, set out as a Definitions note under section 1 of this title.\]
 
 #### Temporary Authority of Director of the USPTO During the COVID–19 Emergency
 

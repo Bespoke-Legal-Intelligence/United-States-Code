@@ -12,7 +12,7 @@ Section was formerly classified to section 404h–1 of this title prior to edito
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–277 substituted "three years." for "two years." and inserted at end "A non-reimbursabledetail made under this section shall not be considered an augmentation of the appropriations of the receiving element of the intelligence community."
+<b>2013</b>—Pub. L. 112–277 substituted "three years." for "two years." and inserted at end "A non-reimbursable detail made under this section shall not be considered an augmentation of the appropriations of the receiving element of the intelligence community."
 
 <b>2011</b>—Pub. L. 112–18 amended section generally. Prior to amendment, text read as follows: "Except as provided in section 402c(g)(2) of this title and section 404h of this title, and notwithstanding any other provision of law, an officer or employee of the United States or member of the Armed Forces may be detailed to the staff of an element of the intelligence community funded through the National Intelligence Program from another element of the intelligence community or from another element of the United States Government on a reimbursable or nonreimbursable basis, as jointly agreed to by the head of the receiving element and the head of the detailing element, for a period not to exceed 2 years."
 

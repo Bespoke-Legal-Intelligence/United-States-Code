@@ -54,7 +54,7 @@ The rights created by this section are in addition to the rights of any person u
 
 The economic data and economic assumptions used by the Director of OMB in computing the figures specified in any report issued by the Director of OMB under section 904 of this title, shall not be subject to review in any judicial or administrative proceeding.
 
-(Pub. L. 99–177, title II, §274, Dec. 12, 1985, 99 Stat. 1098; Pub. L. 100–119, title I, §102(b)(9), (10), Sept. 29, 1987, 101 Stat. 774, 775; Pub. L. 105–33, title X, §10211, Aug. 5, 1997, 111 Stat. 711.)
+(Pub. L. 99–177, title II, §274, Dec. 12, 1985, 99 Stat. 1098; Pub. L. 100–119, title I, §102(b)(9), (10),Sept. 29, 1987, 101 Stat. 774, 775; Pub. L. 105–33, title X, §10211, Aug. 5, 1997, 111 Stat. 711.)
 
 #### <b>Editorial Notes</b>
 

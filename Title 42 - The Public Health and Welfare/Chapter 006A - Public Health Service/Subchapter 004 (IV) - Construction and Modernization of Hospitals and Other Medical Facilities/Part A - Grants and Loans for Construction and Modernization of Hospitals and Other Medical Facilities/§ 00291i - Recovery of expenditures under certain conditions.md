@@ -30,7 +30,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 &emsp;(i) in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984, thirty days after such date or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b),
 
-&emsp;(ii) in the case of a facility with respect to which notice is provided in accordance withsubsection (b), upon the expiration of 180 days after the receipt of such notice, or
+&emsp;(ii) in the case of a facility with respect to which notice is provided in accordance with subsection (b), upon the expiration of 180 days after the receipt of such notice, or
 
 &emsp;(iii) in the case of a facility with respect to which such notice is not provided as prescribed by subsection (b), on the date of the sale, transfer, or change of use for which such notice was to be provided,
 
@@ -52,7 +52,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 #### (e) Lien
 
-The right of recovery of the United States under subsection (a) shall not constitute a lien on any facility with respect to which funds have been paid under section 291f of this title.
+The right of recovery of the United States under subsection (a) shall not constitute a lienon any facility with respect to which funds have been paid under section 291f of this title.
 
 (July 1, 1944, ch. 373, title VI, §609, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 456; amended Pub. L. 91–296, title I §116(d), June 30, 1970, 84 Stat. 342; Pub. L. 98–369, div. B, title III, §2381(a), July 18, 1984, 98 Stat. 1112.)
 

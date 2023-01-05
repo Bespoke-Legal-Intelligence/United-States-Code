@@ -84,7 +84,7 @@ In this section:
 
 To the maximum extent practicable, each institution of higher education receiving Federal financial assistance shall—
 
-&emsp;(1) disclose, on the institution's Internet course schedule and in a manner of the institution's choosing, the International Standard Book Number and retail price information of required and recommended college textbooks and supplemental materials for each course listed in the institution's course schedule usedfor preregistration and registration purposes, except that—
+&emsp;(1) disclose, on the institution's Internet course schedule and in a manner of the institution's choosing, the International Standard Book Number and retail price information of required and recommended college textbooks and supplemental materials for each course listed in the institution's course schedule used for preregistration and registration purposes, except that—
 
 &emsp;&emsp;(A) if the International Standard Book Number is not available for such college textbook or supplemental material, then the institution shall include in the Internet course schedule the author, title, publisher, and copyright date for such college textbook or supplemental material; and
 

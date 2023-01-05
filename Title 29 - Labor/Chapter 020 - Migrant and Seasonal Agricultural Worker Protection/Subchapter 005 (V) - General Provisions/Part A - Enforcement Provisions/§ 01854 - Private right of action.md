@@ -2,7 +2,7 @@
 
 #### (a) Maintenance of civil action in district court by aggrieved person
 
-Any person aggrieved by a violation of this chapter or any regulation under this chapter by a farm labor contractor, agricultural employer, agricultural association, or other person may file suit in any district court of the United States having jurisdiction of the parties, without respect to the amount in controversy and without regard to the citizenship of the parties and without regard to exhaustion of any alternative administrative remedies provided herein.
+Any person aggrieved by a violation of this chapter or any regulation under this chapter bya farm labor contractor, agricultural employer, agricultural association, or other person may file suit in any district court of the United States having jurisdiction of the parties, without respect to the amount in controversy and without regard to the citizenship of the parties and without regard to exhaustion of any alternative administrative remedies provided herein.
 
 #### (b) Appointment of attorney and commencement of action
 
@@ -28,7 +28,7 @@ If the court finds in an action which is brought by or for a worker under subsec
 
 &emsp;(1)(A) the defendant in the action violated section 1841(b) of this title by knowingly requiring or permitting a driver to drive a vehicle for the transportation of migrant or seasonal agricultural workers while under the influence of alcohol or a controlled substance (as defined in section 802 of title 21) and the defendant had actual knowledge of the driver's condition, and
 
-&emsp;(B) such violation resulted in injury to or death of the migrant or seasonal worker by orfor whom the action was brought and such injury or death arose out of and in the course of employment as determined under the State workers' compensation law,
+&emsp;(B) such violation resulted in injury to or death of the migrant or seasonal worker by or for whom the action was brought and such injury or death arose out of and in the course of employment as determined under the State workers' compensation law,
 
 &emsp;(2)(A) the defendant violated a safety standard prescribed by the Secretary under section 1841(b) of this title which the defendant was determined in a previous judicial or administrative proceeding to have violated, and
 

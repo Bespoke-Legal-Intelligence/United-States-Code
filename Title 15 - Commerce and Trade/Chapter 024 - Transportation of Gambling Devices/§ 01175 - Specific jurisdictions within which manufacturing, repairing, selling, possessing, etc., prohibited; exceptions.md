@@ -12,7 +12,7 @@ It shall be unlawful to manufacture, recondition, repair, sell, transport, posse
 
 &emsp;&emsp;(A) the repair, transport, possession, or use of a gambling device on a vessel that is not within the boundaries of any State or possession of the United States;
 
-&emsp;&emsp;(B) the transport or possession, on a voyage, of a gambling device on a vessel that iswithin the boundaries of any State or possession of the United States, if—
+&emsp;&emsp;(B) the transport or possession, on a voyage, of a gambling device on a vessel that is within the boundaries of any State or possession of the United States, if—
 
 &emsp;&emsp;&emsp;(i) use of the gambling device on a portion of that voyage is, by reason of subparagraph (A), not a violation of this section; and
 

@@ -40,7 +40,7 @@ The Secretary may, by regulation, require any lessee operating under an approved
 
 #### (f) Drilling permits issued and exploration plans approved within 90-day period after September 18, 1978
 
-(1) Exploration activities pursuant to any lease for which a drilling permit has been issuedor for which an exploration plan has been approved, prior to ninety days after September 18, 1978, shall be considered in compliance with this section, except that the Secretary may, in accordance with section 1334(a)(1)(B) of this title, order a suspension or temporary prohibition of any exploration activities and require a revised exploration plan.
+(1) Exploration activities pursuant to any lease for which a drilling permit has been issued or for which an exploration plan has been approved, prior to ninety days after September 18, 1978, shall be considered in compliance with this section, except that the Secretary may, in accordance with section 1334(a)(1)(B) of this title, order a suspension or temporary prohibition of any exploration activities and require a revised exploration plan.
 
 (2) The Secretary may require the holder of a lease described in paragraph (1) of this subsection to supply a general statement in accordance with subsection (c)(4) of this section, or to submit other information.
 
@@ -58,7 +58,7 @@ Any permit for geological explorations authorized by this section shall be issue
 
 #### (h) Lands beneath navigable waters adjacent to Phillip Burton Wilderness
 
-The Secretary shall not issue a lease or permit for, or otherwise allow, exploration, development, or production activities within fifteen miles of the boundaries of the Phillip Burton Wilderness as depicted on a map entitled "Wilderness Plan, Point Reyes National Seashore", numbered 612–90,000–B and dated September 1976, unless the State of California issues a lease or permit for, or otherwise allows, exploration, development, or production activities on lands beneath navigable waters (as such term is defined in section 1301 of this title) of such State which are adjacent to such Wilderness.
+The Secretary shall not issue a lease or permit for, or otherwise allow, exploration, development, or production activities within fifteen miles of the boundaries of the Phillip Burton Wilderness as depicted on a map entitled "Wilderness Plan, Point Reyes National Seashore", numbered 612–90,000–B and dated September 1976, unless the State of California issues a lease orpermit for, or otherwise allows, exploration, development, or production activities on lands beneath navigable waters (as such term is defined in section 1301 of this title) of such State which are adjacent to such Wilderness.
 
 (Aug. 7, 1953, ch. 345, §11, 67 Stat. 469; Pub. L. 95–372, title II, §206, Sept. 18, 1978, 92 Stat. 647; Pub. L. 99–68, §1(c), July 19, 1985, 99 Stat. 166.)
 

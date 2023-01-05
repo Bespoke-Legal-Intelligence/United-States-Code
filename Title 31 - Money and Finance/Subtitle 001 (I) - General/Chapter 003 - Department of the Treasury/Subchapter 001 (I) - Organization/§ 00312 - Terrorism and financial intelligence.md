@@ -136,7 +136,7 @@ Other functions and duties.—The OIA shall—
 
 &emsp;(5)
 
-Duties of the assistant secretary.—The Assistant Secretary for Intelligence and Analysis shall serve as the Senior Officer Intelligence Community, and shall represent the Department in intelligence community fora, including the National Foreign Intelligence Board committees and the Intelligence Community Management Staff.
+Duties of the assistant secretary.—The Assistant Secretary for Intelligence and Analysis shall serve as the Senior Officer Intelligence Community, and shall represent the Department in intelligence community fora,including the National Foreign Intelligence Board committees and the Intelligence Community Management Staff.
 
 (c)
 

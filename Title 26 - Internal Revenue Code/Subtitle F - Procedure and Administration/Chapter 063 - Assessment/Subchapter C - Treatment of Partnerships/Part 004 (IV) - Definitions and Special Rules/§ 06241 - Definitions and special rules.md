@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (A) Suspension of period of limitations on making adjustment, assessment, or collection
 
-&emsp;&emsp;The running of any period of limitations provided in this subchapter on making apartnership adjustment (or provided by section 6501 or 6502 on the assessment or collection of any imputed underpayment determined under this subchapter) shall, in a case under title 11 of the United States Code, be suspended during the period during which the Secretary is prohibited by reason of such case from making the adjustment (or assessment or collection) and—
+&emsp;&emsp;The running of any period of limitations provided in this subchapter on making a partnership adjustment (or provided by section 6501 or 6502 on the assessment or collection of any imputed underpayment determined under this subchapter) shall, in a case under title 11 of the United States Code, be suspended during the period during which the Secretary is prohibited by reason of such case from making the adjustment (or assessment or collection) and—
 
 &emsp;&emsp;&emsp;(i) for adjustment or assessment, 60 days thereafter, and
 
@@ -46,7 +46,7 @@ For purposes of this subchapter—
 
 #### (B) Suspension of period of limitation for filing for judicial review
 
-&emsp;&emsp;The running of the period specified in section 6234 shall, in a case under title 11 of the United States Code, be suspended during the period during which the partnership is prohibited by reason of such case from filing a petition under section 6234 and for 60 days thereafter.
+&emsp;&emsp;The running of the period specified in section 6234 shall, in a case under title 11 of theUnited States Code, be suspended during the period during which the partnership is prohibited by reason of such case from filing a petition under section 6234 and for 60 days thereafter.
 
 #### (7) Treatment where partnership ceases to exist
 
@@ -112,7 +112,7 @@ For purposes of this subchapter—
 
 #### (B) Passive foreign investment companies
 
-&emsp;&emsp;For purposes of subparagraph (A), in the case of a passive foreign investment company (as defined in section 1297), each taxpayer that makes an election under section 1295 with respect to such company shall be treated in the same manner as United Statesshareholders under subparagraph (A), except that such taxpayer's pro rata share with respect to the passive foreign investment company shall be determined under rules similar to the rules of section 1293(b).
+&emsp;&emsp;For purposes of subparagraph (A), in the case of a passive foreign investment company (as defined in section 1297), each taxpayer that makes an election under section 1295 with respect to such company shall be treated in the same manner as United States shareholders under subparagraph (A), except that such taxpayer's pro rata share with respect to the passive foreign investment company shall be determined under rules similar to the rules of section 1293(b).
 
 #### (C) Regulations or other guidance
 

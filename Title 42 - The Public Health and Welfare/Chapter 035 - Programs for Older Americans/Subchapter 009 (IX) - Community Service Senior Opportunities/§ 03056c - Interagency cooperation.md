@@ -18,7 +18,7 @@ The Secretary shall consult and cooperate with the Secretary of Health and Human
 
 &emsp;The Secretary shall consult with the Secretary of Education to promote and coordinate efforts to carry out projects under this subchapter jointly with activities in which eligible individuals may participate that are carried out under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.).
 
-(Pub. L. 89–73, title V, §505, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2575; amended Pub. L. 113–128, title V, §512(w)(5), July 22, 2014, 128 Stat. 1715.)
+(Pub. L. 89–73, title V, §505, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2575;amended Pub. L. 113–128, title V, §512(w)(5), July 22, 2014, 128 Stat. 1715.)
 
 #### <b>Editorial Notes</b>
 

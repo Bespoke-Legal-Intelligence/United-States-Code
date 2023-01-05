@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In an emergency area and during an emergency period, the Secretary shall have the authority to waive such requirements of this subchapter to improve the health and safety of those receiving care under this subchapter and the general public, except that the Secretary may not expend more than 5 percent of the fundsallocated under this subchapter for sections 300ff–29a of this title and section <sup>1</sup> 300ff–13(b) of this title.
+In an emergency area and during an emergency period, the Secretary shall have the authority to waive such requirements of this subchapter to improve the health and safety of those receiving care under this subchapter and the general public, except that the Secretary may not expend more than 5 percent of the funds allocated under this subchapter for sections 300ff–29a of this title and section <sup>1</sup> 300ff–13(b) of this title.
 
 #### (b) Emergency area and emergency period
 
@@ -44,7 +44,7 @@ A prior section 300ff–83, act July 1, 1944, ch. 373, title XXVI, §2683, as ad
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect onSept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 

@@ -56,17 +56,15 @@ Biennial Reports to Congress.—(1) Not later than 90 days after the receipt of 
 
 (f)
 
-Applicability of Federal Advisory Committee Act.—(1) Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Committee under this section.
+Applicability of Chapter 10
 
-(2) Section 14 of such Act shall not apply to the Committee.
+of Title 5.—(1) Except as provided in paragraph (2), the provisions of chapter 10 of title 5 shall apply to the activities of the Committee under this section.
 
-(Added Pub. L. 110–389, title II, §214(a), Oct. 10, 2008, 122 Stat. 4152.)
+(2) Section 1013 of title 5 shall not apply to the Committee.
+
+(Added Pub. L. 110–389, title II, §214(a), Oct. 10, 2008, 122 Stat. 4152; amended Pub. L. 117–286, §4(a)(218), Dec. 27, 2022, 136 Stat. 4330.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
@@ -82,7 +80,7 @@ Another prior section 620C, added Pub. L. 100–6, §2(a), Feb. 12, 1987, 101 St
 
 Prior sections 621 to 624 were renumbered sections 1721 to 1724 of this title, respectively.
 
-Prior section 625, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144; Pub. L. 91–24, §6(a), June 11, 1969, 83 Stat. 34, related to arrests for crimes in hospital and domiciliaryreservations, prior to repeal by Pub. L. 93–43, §§4(b), 10(a), June 18, 1973, 87 Stat. 79, 88, effective June 18, 1973.
+Prior section 625, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1144; Pub. L. 91–24, §6(a), June 11, 1969, 83 Stat. 34, related to arrests for crimes in hospital and domiciliary reservations, prior to repeal by Pub. L. 93–43, §§4(b), 10(a), June 18, 1973, 87 Stat. 79, 88, effective June 18, 1973.
 
 Prior sections 626 to 631 were renumbered sections 1726 to 1731 of this title, respectively.
 
@@ -97,4 +95,12 @@ Prior sections 633 to 635 and 641 to 643 were renumbered sections 1733 to 1735 a
 Prior section 644, added Pub. L. 91–178, §2(a), Dec. 30, 1969, 83 Stat. 836; amended Pub. L. 93–82, title IV, §403(b), Aug. 2, 1973, 87 Stat. 196, authorized appropriations to be used for making grants to States which had submitted and had approved applications for assistance in remodeling, modification, or alteration of existing hospital or domiciliary facilities in State homes providing care and treatment for veterans, prior to repeal by Pub. L. 95–62, §§2, 5, July 5, 1977, 91 Stat. 262, 263, effective Oct. 1, 1977, but with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under prior section 644 and with additional provision for the modification of the terms and conditions of both grants made under that section prior to Oct. 1, 1977, and of grants made under subchapter III of chapter 81 of this title prior to Oct. 1, 1977.
 
 Prior sections 651 to 654 and 661 to 664 were renumbered sections 1751 to 1754 and 1761 to 1764 of this title, respectively.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–286, §4(a)(218)(A), substituted "Chapter 10 of Title 5" for "Federal Advisory Committee Act" in heading.
+
+Subsec. (f)(1). Pub. L. 117–286, §4(a)(218)(B), substituted "chapter 10 of title 5" for "the Federal Advisory Committee Act (5 U.S.C. App.)".
+
+Subsec. (f)(2). Pub. L. 117–286, §4(a)(218)(C), substituted "Section 1013 of title 5" for "Section 14 of such Act".
 

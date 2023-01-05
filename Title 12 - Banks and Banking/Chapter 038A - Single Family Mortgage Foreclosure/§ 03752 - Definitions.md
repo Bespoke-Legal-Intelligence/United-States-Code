@@ -20,7 +20,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (5) Mortgagor
 
-&emsp;The term "mortgagor" means the obligor, grantor, or trustee named in the mortgageagreement and, unless the context otherwise indicates, includes the current owner of record of the security property whether or not such owner is personally liable on the mortgage debt.
+&emsp;The term "mortgagor" means the obligor, grantor, or trustee named in the mortgage agreement and, unless the context otherwise indicates, includes the current owner of record of the security property whether or not such owner is personally liable on the mortgage debt.
 
 #### (6) Owner
 
@@ -74,7 +74,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### References in Text
 
-The National Housing Act, referred to in par. (10)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Titles I and II of the Act are classified generally to subchapters I (§1702 et seq.) and II (§1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in par. (10)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the Act are classified generally to subchapters I (§1702 et seq.) and II (§1707 et seq.), respectively, ofchapter 13 of this title. For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
 #### Codification
 

@@ -54,7 +54,7 @@
 
 &emsp;(B)(i) Except as provided in clause (ii), this paragraph applies only with respect to an annuitant under section 8412, 8413, or 8414.
 
-&emsp;(ii) This paragraph does not apply with respect to an annuitant under subsection (d) or (e) of section 8412 or (in the case of an annuitant separated from service as a military reserve technician as a result of disability) under section 8414(c).
+&emsp;(ii) This paragraph does not apply with respect to an annuitant under subsection (d)(1) or (e) of section 8412 or (in the case of an annuitant separated from service as a military reserve technician as a result of disability) under section 8414(c).
 
 &emsp;(4) The first increase (if any) made under subsection (b) to an annuity which is payable from the Fund to a widow or widower whose annuity is computed under section 8442(g) shall be equal to the product (adjusted to the nearest one-tenth of 1 percent) of—
 
@@ -70,15 +70,25 @@
 
 (e) The $15,000 amount referred to in section 8442(b)(1)(A)(ii) shall be increased at the same time that, and by the same percent as the percentage by which, annuities under subchapter III of chapter 83 are increased.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 572; amended Pub. L. 99–556, title I, §117(b), Oct. 27, 1986, 100 Stat. 3134.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 572; amended Pub. L. 99–556, title I, §117(b), Oct. 27, 1986, 100 Stat. 3134; Pub. L. 117–225, §3(b)(2)(A)(vi), Dec. 9, 2022, 136 Stat. 2296.)
+
+#### Applicability of Amendment
+
+<i>For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under section 8336 of this title.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2022</b>—Subsec. (c)(3)(B)(ii). Pub. L. 117–225 inserted "(1)" after "subsection (d)".
+
 <b>1986</b>—Subsec. (b)(3). Pub. L. 99–556 inserted provision relating to the computation of any amount under section 8443(a)(2).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers an illness or injury described in certain Code provisions on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under section 8336 of this title.
 
 #### Delay in Cost-of-Living Adjustments During Fiscal Years 1994, 1995, and 1996
 

@@ -56,7 +56,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (B) Affiliated groups
 
-&emsp;&emsp;If more than 1 insured from an affiliated group are named insureds on a single nonadmitted insurance contract, the term "home State" means the home State, as determined pursuant to subparagraph (A), of the member of the affiliated group that has the largest percentage of premium attributed to it under such insurance contract.
+&emsp;&emsp;If more than 1 insured from an affiliated group are named insureds on a single nonadmitted insurance contract, the term "home State" means the home State, as determined pursuant to subparagraph (A), of the member of the affiliated group that hasthe largest percentage of premium attributed to it under such insurance contract.
 
 #### (7) Independently procured insurance
 

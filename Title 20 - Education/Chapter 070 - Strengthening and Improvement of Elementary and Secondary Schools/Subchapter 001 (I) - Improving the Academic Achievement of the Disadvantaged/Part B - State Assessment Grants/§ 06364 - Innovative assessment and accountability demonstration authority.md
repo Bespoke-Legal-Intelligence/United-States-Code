@@ -158,7 +158,7 @@ Upon completion and publication of the report described in subsection (c), the S
 
 &emsp;&emsp;(D) If the innovative assessment system will initially be administered in a subset of local educational agencies—
 
-&emsp;&emsp;&emsp;(i) a description of the local educational agencies within the State educational agency that will participate, including what criteria the State has for approving any additional local educational agencies to participate during the demonstration authority period;
+&emsp;&emsp;&emsp;(i) a description of the local educational agencies within the State educationalagency that will participate, including what criteria the State has for approving any additional local educational agencies to participate during the demonstration authority period;
 
 &emsp;&emsp;&emsp;(ii) assurances from such local educational agencies that such agencies will comply with the requirements of this subsection;
 
@@ -218,7 +218,7 @@ The Secretary shall withdraw the authorization for demonstration authority provi
 
 &emsp;(2) includes all students attending schools participating in the innovative assessment system in a State that has demonstration authority, including each of the subgroups of students, as defined under section 6311(c)(2) of this title;
 
-&emsp;(3) provides an unbiased, rational, and consistent determination of progress toward the goals described under section 6311(c)(4)(A)(i) of this title for all students, which are comparable to measures of academic achievement under section 6311(c)(4)(B)(i) of this title across the State in which the local educational agencies are located;
+&emsp;(3) provides an unbiased, rational, and consistent determination of progress toward the goals described under section 6311(c)(4)(A)(i) of this title for all students, which are comparable to measures of academic achievement under section 6311(c)(4)(B)(i) of this titleacross the State in which the local educational agencies are located;
 
 &emsp;(4) presents a high-quality plan to transition to full statewide use of the innovative assessment system by the end of the State's approved demonstration authority period or 2-year extension, if the innovative assessment system will initially be administered in a subset of local educational agencies; and
 
@@ -260,7 +260,7 @@ The Secretary shall withdraw the authorization for demonstration authority provi
 
 &emsp;&emsp;(A) the State has met all of the requirements of this section, except transition to full statewide use of the innovative assessment system; and
 
-&emsp;&emsp;(B) the State continues to comply with the other requirements of this section, and demonstrates a high-quality plan for transitionto statewide use of the innovative assessment system in a reasonable period of time.
+&emsp;&emsp;(B) the State continues to comply with the other requirements of this section, and demonstrates a high-quality plan for transition to statewide use of the innovative assessment system in a reasonable period of time.
 
 #### (k) Available funds
 

@@ -14,7 +14,7 @@ There is established in the Department a National Advisory Committee on Institut
 
 &emsp;&emsp;(B) six members shall be appointed by the Speaker of the House of Representatives, three of whom shall be appointed on the recommendation of the majority leader of the House of Representatives, and three of whom shall be appointed on the recommendation of the minority leader of the House of Representatives; and
 
-&emsp;&emsp;(C) six members shall be appointed by the President pro tempore of the Senate, threeof whom shall be appointed on the recommendation of the majority leader of the Senate, and three of whom shall be appointed on the recommendation of the minority leader of the Senate.
+&emsp;&emsp;(C) six members shall be appointed by the President pro tempore of the Senate, three of whom shall be appointed on the recommendation of the majority leader of the Senate, and three of whom shall be appointed on the recommendation of the minority leader of the Senate.
 
 #### (2) Qualifications
 
@@ -94,9 +94,9 @@ The Committee shall—
 
 &emsp;The Secretary shall designate an employee of the Department to serve as the Secretary's designee to the Committee, and the Chairperson shall invite the Secretary's designee to attend all meetings of the Committee.
 
-#### (4) Federal Advisory Committee Act
+#### (4) Chapter 10 of title 5
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee, except that section 14 of such Act shall not apply.
+&emsp;Chapter 10 of title 5 shall apply to the Committee, except that section 1013 of title 5 shall not apply.
 
 #### (e) Report and notice
 
@@ -116,7 +116,7 @@ The Committee shall—
 
 #### (2) Report
 
-&emsp;Not later than the last day of each fiscal year, the Committee shall make available anannual report to the Secretary, the authorizing committees, and the public. The annual report shall contain—
+&emsp;Not later than the last day of each fiscal year, the Committee shall make available an annual report to the Secretary, the authorizing committees, and the public. The annual report shall contain—
 
 &emsp;&emsp;(A) a detailed summary of the agenda and activities of, and the findings and recommendations made by, the Committee during the fiscal year preceding the fiscal year in which the report is made;
 
@@ -130,13 +130,9 @@ The Committee shall—
 
 The Committee shall terminate on September 30, 2021.
 
-(Pub. L. 89–329, title I, §114, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1592; amended Pub. L. 110–315, title I, §106(a), Aug. 14, 2008, 122 Stat. 3090; Pub. L. 113–174, §1, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 114–113, div. H, title III, §309, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–31, div. H, title III, §308, May 5, 2017, 131 Stat. 552; Pub. L. 115–141, div. H, title III, §308, Mar. 23, 2018, 132 Stat. 750; Pub. L. 115–245, div. B, title III, §306, Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–94, div. A, title III, §305, Dec. 20, 2019, 133 Stat. 2595; Pub. L. 116–260, div. H, title III, §305, Dec. 27, 2020, 134 Stat. 1608.)
+(Pub. L. 89–329, title I, §114, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1592; amended Pub. L. 110–315, title I, §106(a), Aug. 14, 2008, 122 Stat. 3090; Pub. L. 113–174, §1, Sept. 26, 2014, 128 Stat. 1900; Pub. L. 114–113, div. H, title III, §309, Dec. 18, 2015, 129 Stat. 2638; Pub. L. 115–31, div. H, title III, §308, May 5, 2017, 131 Stat. 552; Pub. L. 115–141, div. H, title III, §308, Mar. 23, 2018, 132 Stat. 750; Pub. L. 115–245, div. B, title III, §306, Sept. 28, 2018, 132 Stat. 3105; Pub. L. 116–94, div. A, title III, §305, Dec. 20, 2019, 133 Stat. 2595; Pub. L. 116–260, div. H, title III, §305, Dec. 27, 2020, 134 Stat. 1608; Pub. L. 117–286, §4(a)(146), Dec. 27, 2022, 136 Stat. 4322.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (d)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
@@ -145,6 +141,8 @@ Provisions similar to this section were contained in section 1145 of this title 
 A prior section 1011c, Pub. L. 89–329, title I, §124, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 463, related to local applications for grants, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(4). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5 shall apply to the Committee, except that section 1013 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee, except that section 14 of such Act" in text.
 
 <b>2020</b>—Subsec. (f). Pub. L. 116–260 substituted "2021" for "2020".
 
@@ -167,6 +165,14 @@ Pub. L. 115–141 substituted "2018" for "2017".
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–315, title I, §106(c), Aug. 14, 2008, 122 Stat. 3093, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2009."
+
+#### Termination of Committee
+
+Pub. L. 117–328, div. H, title III, §305, Dec. 29, 2022, 136 Stat. 4897, provided that: "Section 114(f) of the HEA\[Higher Education Act of 1965\] (20 U.S.C. 1011c(f)) shall be applied by substituting '2023' for '2021'."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–103, div. H, title III, §305, Mar. 15, 2022, 136 Stat. 484.
 
 #### Transition
 

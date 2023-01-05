@@ -110,7 +110,7 @@ The services of a schoolwide program under this section may be delivered by nonp
 
 &emsp;Nothing in this subsection shall be construed to impose on any State any requirement or rule regarding dual or concurrent enrollment programs that is inconsistent with State law.
 
-(Pub. L. 89–10, title I, §1114, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1471;amended Pub. L. 109–270, §2(f)(3), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title I, §1008, Dec. 10, 2015, 129 Stat. 1862.)
+(Pub. L. 89–10, title I, §1114, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1471; amended Pub. L. 109–270, §2(f)(3), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title I, §1008, Dec. 10, 2015, 129 Stat. 1862.)
 
 #### <b>Editorial Notes</b>
 
@@ -130,7 +130,7 @@ Subsec. (b). Pub. L. 114–95, §1008(2), added subsec. (b) and struck out forme
 
 Subsecs. (c) to (e). Pub. L. 114–95, §1008(3), added subsecs. (c) to (e) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: "A school that is eligible for a schoolwide program under this section may use funds made available under this part to establish or enhance prekindergarten programs for children below the age of 6, such as Even Start programs or Early Reading First programs."
 
-<b>2006</b>—Subsec. (b)(2)(B)(v). Pub. L. 109–270 substituted "the Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
+<b>2006</b>—Subsec. (b)(2)(B)(v). Pub. L. 109–270 substituted "the Carl D. Perkins Career and Technical EducationAct of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

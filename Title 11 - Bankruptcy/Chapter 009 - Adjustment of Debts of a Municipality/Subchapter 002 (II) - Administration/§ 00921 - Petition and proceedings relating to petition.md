@@ -8,7 +8,7 @@
 
 (d) If the petition is not dismissed under subsection (c) of this section, the court shall order relief under this chapter notwithstanding section 301(b).
 
-(e) The court may not, on account of an appeal from an order for relief, delay any proceeding under this chapter in the case in which the appeal is being taken; nor shall any court order a stay of such proceeding pending such appeal.The reversal on appeal of a finding of jurisdiction does not affect the validity of any debt incurred that is authorized by the court under section 364(c) or 364(d) of this title.
+(e) The court may not, on account of an appeal from an order for relief, delay any proceeding under this chapter in the case in which the appeal is being taken; nor shall any court order a stay of such proceeding pending such appeal. The reversal on appeal of a finding of jurisdiction does not affect the validity of any debt incurred that is authorized by the court under section 364(c) or 364(d) of this title.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2622; Pub. L. 98–353, title III, §494, July 10, 1984, 98 Stat. 383; Pub. L. 109–8, title V, §501(a), Apr. 20, 2005, 119 Stat. 118.)
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

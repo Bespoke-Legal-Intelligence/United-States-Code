@@ -30,7 +30,7 @@ For purposes of subsection (a)(2), a service has actually been provided when the
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–200 reenacted section catchline without change, added subsecs. (a) to (c), redesignatedformer subsec. (c) as (d) and inserted heading, and struck out former subsec. (a) relating to statistics on need for and actual provision of services and subsec. (b) relating to types of services.
+<b>1998</b>—Pub. L. 105–200 reenacted section catchline without change, added subsecs. (a) to (c), redesignated former subsec. (c) as (d) and inserted heading, and struck out former subsec. (a) relating to statistics on need for and actual provision of services and subsec. (b) relating to types of services.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–193, §108(c)(16), substituted "assistance under State programs funded under part A of this subchapter and for families not receiving such assistance)" for "aid under plans approved under part A of this subchapter and for families not receiving such aid)".
 

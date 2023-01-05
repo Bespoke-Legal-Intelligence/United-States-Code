@@ -32,5 +32,5 @@ Dec. 29, 1979, Pub. L. 96–165, §9(b), (c), 93 Stat. 1271.
 
 &nbsp;
 
-In subsection (b), the words "with the secretary of state or other designated official" are substituted for "in the office of the secretary" for clarity and consistency in the revised title. The words "local, State, or regional", "post office", and "authorized" are omitted as unnecessary. The words "in that State, territory, or possession" are added (the 2d time they appear), and the words "legal process" are substituted for "local process", for clarity and consistency in the revised title.
+In subsection (b), the words "with the secretary of state or other designated official" are substituted for "in the office of the secretary" for clarity and consistency in the revised title. The words "local, State, or regional", "post office", and "authorized" are omitted as unnecessary. The words "in that State, territory, or possession" are added (the 2d time they appear), and the words "legal process" are substituted for "localprocess", for clarity and consistency in the revised title.
 

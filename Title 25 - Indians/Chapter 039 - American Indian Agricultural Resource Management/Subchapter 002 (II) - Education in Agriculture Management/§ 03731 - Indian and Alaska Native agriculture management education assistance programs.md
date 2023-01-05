@@ -32,7 +32,7 @@
 
 &emsp;(A) The Secretary shall continue the established specific programs in agriculture and natural resources education at Southwestern Indian Polytechnic Institute (SIPI) and at Haskell Indian Junior College.
 
-&emsp;(B) The Secretary shall develop and maintain a cooperative program with the tribally controlled community colleges to coordinate course requirements, texts, and provide direct technical assistance so that a significant portion of the college credits in both the Haskell and Southwestern Indian Polytechnic Institute programs can be met through local program work at participating tribally controlled community colleges.
+&emsp;(B) The Secretary shall develop and maintain a cooperative program with the tribally controlled community colleges to coordinate course requirements, texts, and provide directtechnical assistance so that a significant portion of the college credits in both the Haskell and Southwestern Indian Polytechnic Institute programs can be met through local program work at participating tribally controlled community colleges.
 
 &emsp;(C) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement an informational and educational program to provide practical training and assistance in creating or maintaining a successful agricultural enterprise, assessing sources of commercial credit, developing markets, and other subjects of importance in agricultural pursuits.
 
@@ -58,7 +58,7 @@
 
 &emsp;(C) a tribal agriculture or related program.
 
-(3) The Secretary shall not deny scholarship assistance under this subsection solely on thebasis of an applicant's scholastic achievement if the applicant has been admitted to and remains in good standing in an accredited post secondary <sup>1</sup> or graduate institution.
+(3) The Secretary shall not deny scholarship assistance under this subsection solely on the basis of an applicant's scholastic achievement if the applicant has been admitted to and remains in good standing in an accredited post secondary <sup>1</sup> or graduate institution.
 
 #### (d) Educational outreach
 
@@ -302,7 +302,7 @@ Lump-sum credit for annual leave.—In the case of any individual who, at the ti
 
 &emsp;&emsp;&emsp;"(ii)
 
-Retirement credit for sick leave.—In the case of any individual who, at the time of becoming subject to the demonstration project, has any sick leave which would be creditable under section 8339(m) of title 5, United States Code (hadsuch individual then separated from service), any sick leave standing to such individual's credit at the time of separation shall, if separation occurs while the demonstration project is still ongoing, be so creditable, but only to the extent that it does not exceed the amount of creditable sick leave that stood to such individual's credit at the time such individual became subject to the demonstration project.
+Retirement credit for sick leave.—In the case of any individual who, at the time of becoming subject to the demonstration project, has any sick leave which would be creditable under section 8339(m) of title 5, United States Code (had such individual then separated from service), any sick leave standing to such individual's credit at the time of separation shall, if separation occurs while the demonstration project is still ongoing, be so creditable, but only to the extent that it does not exceed the amount of creditable sick leave that stood to such individual's credit at the time such individual became subject to the demonstration project.
 
 &emsp;&emsp;"(C)
 

@@ -24,7 +24,7 @@
 
 (D) The Attorney General shall prepare and submit annually to the Congress statements of financial condition of the Immigration Enforcement Account, including beginning account balance, revenues, withdrawals, and ending account balance and projection for the ensuing fiscal year.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §280, 66 Stat. 230; Pub. L. 101–649, title V, §542(a), Nov. 29, 1990, 104 Stat. 5057; Pub. L. 103–416, title II, §219(s), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title III, §§308(g)(4)(C), 382(a), Sept. 30, 1996, 110 Stat. 3009–623, 3009–651.)
+(June 27, 1952, ch. 477, title II, ch. 8, §280, 66 Stat. 230; Pub. L. 101–649, title V, §542(a), Nov. 29, 1990, 104 Stat. 5057; Pub. L. 103–416, title II, §219(s), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div.C, title III, §§308(g)(4)(C), 382(a), Sept. 30, 1996, 110 Stat. 3009–623, 3009–651.)
 
 #### <b>Editorial Notes</b>
 

@@ -60,7 +60,7 @@ Use of previous fiscal year's apportionment.—Notwithstanding subparagraph (A),
 
 &emsp;&emsp;(F)
 
-Special rule for fiscal years 2018 through 2020.—Notwithstanding subparagraph (A) and subject to subparagraph (G), the Secretary shall apportion to a sponsor of an airport under that subparagraph <sup>1</sup> for each of fiscal years 2018 through 2020 an amount based on the number of passenger boardings at the airport during calendar year 2012 if the airport—
+Special rule for fiscal years 2018 through 2020.—Notwithstanding subparagraph (A) and subject to subparagraph (G), the Secretary shall apportion to a sponsor of an airport under that subparagraph <sup>1</sup> for each of fiscal years 2018 through 2020 an amount based on the number of passengerboardings at the airport during calendar year 2012 if the airport—
 
 &emsp;&emsp;&emsp;(i) had 10,000 or more passenger boardings during calendar year 2012;
 
@@ -234,7 +234,7 @@ In general.—Subject to paragraph (3), an amount that would be apportioned unde
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount that otherwise would be apportioned under this section; over
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount equal to the amount specified in subclause (I) multiplied bythe percentage of the total passenger boardings at the applicable airport that are comprised of interisland passengers; and
+&emsp;&emsp;&emsp;&emsp;(II) the amount equal to the amount specified in subclause (I) multiplied by the percentage of the total passenger boardings at the applicable airport that are comprised of interisland passengers; and
 
 &emsp;&emsp;(B) in the case of a charge of more than $3.00—
 
@@ -338,7 +338,7 @@ In subsection (c)(1)(A), the words "during the prior calendar year" are substitu
 
 In subsection (c)(2)(A), the word "cargo" is substituted for "property (including mail)" for consistency in the revised title.
 
-In subsection (c)(3), the words "The total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of the amount subject to apportionment for a fiscal year" are substituted for 49 App.:2206(b)(2)(A) and (3)(A) for clarity and to eliminate unnecessary words. The words "If this paragraph requires reduction of an amount that otherwise would be apportioned under this subsection" are substituted for "In any case in which apportionments in a fiscal year would be reduced by subparagraph (A)" for clarity.
+In subsection (c)(3), the words "The total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of theamount subject to apportionment for a fiscal year" are substituted for 49 App.:2206(b)(2)(A) and (3)(A) for clarity and to eliminate unnecessary words. The words "If this paragraph requires reduction of an amount that otherwise would be apportioned under this subsection" are substituted for "In any case in which apportionments in a fiscal year would be reduced by subparagraph (A)" for clarity.
 
 In subsection (d)(2)(A), the words "the Commonwealth of" are omitted as surplus.
 
@@ -451,7 +451,7 @@ Subsec. (d). Pub. L. 106–181, §104(c), amended heading and text of subsec. (d
 
 Subsec. (e). Pub. L. 106–181, §104(d)(1), substituted "Supplemental" for "Alternative" in heading.
 
-Subsec. (e)(1). Pub. L. 106–181, §104(d)(2), (5), inserted heading, realigned margins, and in introductory provisions substituted "Notwithstanding" for "Instead ofapportioning amounts for airports in Alaska under" and "airports in Alaska" for "those airports".
+Subsec. (e)(1). Pub. L. 106–181, §104(d)(2), (5), inserted heading, realigned margins, and in introductory provisions substituted "Notwithstanding" for "Instead of apportioning amounts for airports in Alaska under" and "airports in Alaska" for "those airports".
 
 Subsec. (e)(2). Pub. L. 106–181, §104(d)(3), (5), inserted heading and realigned margins.
 

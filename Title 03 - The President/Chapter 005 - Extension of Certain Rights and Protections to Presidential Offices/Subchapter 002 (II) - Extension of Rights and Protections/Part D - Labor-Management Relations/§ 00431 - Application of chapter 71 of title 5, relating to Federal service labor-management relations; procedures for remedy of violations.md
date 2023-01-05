@@ -30,7 +30,7 @@ Specific Regulations Regarding Applications to Certain Employing Offices.—
 
 &emsp;(1)
 
-Regulations required.—The Authority shall issue regulations on the manner and the extent to which the requirements and exemptions of chapter 71 of title 5 should apply to covered employees who are employed in the offices listed in paragraph (2). The regulations shall, to the greatest extent practicable, be consistent with the provisions and purposes ofchapter 71 of title 5 and of this chapter, and shall be the same as the substantive regulations issued by the Authority under such chapter, except—
+Regulations required.—The Authority shall issue regulations on the manner and the extent to which the requirements and exemptions of chapter 71 of title 5 should apply to covered employees who are employed in the offices listed in paragraph (2). The regulations shall, to the greatest extent practicable, be consistent with the provisions and purposes of chapter 71 of title 5 and of this chapter, and shall be the same as the substantive regulations issued by the Authority under such chapter, except—
 
 &emsp;&emsp;(A) to the extent the Authority may determine, for good cause shown and stated together with the regulation, that a modification of such regulations would be more effective for the implementation of the rights and protections under this section; and
 

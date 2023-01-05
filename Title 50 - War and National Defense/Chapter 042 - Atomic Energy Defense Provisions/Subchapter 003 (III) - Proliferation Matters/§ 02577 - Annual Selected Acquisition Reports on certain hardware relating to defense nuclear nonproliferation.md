@@ -8,7 +8,7 @@
 
 #### (2) Matters included
 
-&emsp;The information contained in the Selected Acquisition Report for a fiscal year for a covered hardware project shall be the information contained in the Selected Acquisition Report for such fiscal year for a major defense acquisition program under section 4351 of title 10 expressed in terms of the covered hardware project.
+&emsp;The information contained in the Selected Acquisition Report for a fiscal year for a covered hardware project shall be the information contained in the Selected Acquisition Report for such fiscal year for a major defense acquisition program under section 4351 of title 10 or any successor system, expressed in terms of the covered hardware project.
 
 #### (b) Covered hardware project defined
 
@@ -18,11 +18,13 @@ In this section, the term "covered hardware project" means a project carried out
 
 &emsp;(2) exceeds $500,000,000 in total program cost over the course of five years.
 
-(Pub. L. 107–314, div. D, title XLIII, §4311, as added Pub. L. 115–91, div. C, title XXXI, §3131(a), Dec. 12, 2017, 131 Stat. 1894; amended Pub. L. 117–81, div. A, title XVII, §1702(k)(3)(A), Dec. 27, 2021, 135 Stat. 2160.)
+(Pub. L. 107–314, div. D, title XLIII, §4311, as added Pub. L. 115–91, div. C, title XXXI, §3131(a), Dec. 12, 2017, 131 Stat. 1894; amended Pub. L. 117–81, div. A, title XVII, §1702(k)(3)(A), Dec. 27, 2021, 135 Stat. 2160; Pub. L. 117–263, div. A, title VIII, §809(c)(2), Dec. 23, 2022, 136 Stat. 2706.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–263 inserted "or any successor system," before "expressed in terms".
 
 <b>2021</b>—Subsec. (a)(2). Pub. L. 117–81 substituted "section 4351" for "section 2432".
 

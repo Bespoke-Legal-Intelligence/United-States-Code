@@ -52,7 +52,7 @@ In this section:
 
 &emsp;The term "industrial research and assessment center" means—
 
-&emsp;&emsp;(A) an institution of higher education-based industrial research and assessment center that is funded by the Secretary under subsection (b); and
+&emsp;&emsp;(A) an institution of higher education-based industrial research and assessmentcenter that is funded by the Secretary under subsection (b); and
 
 &emsp;&emsp;(B) an industrial research and assessment center at a trade school, community college, or union training program that is funded by the Secretary under subsection (f).
 

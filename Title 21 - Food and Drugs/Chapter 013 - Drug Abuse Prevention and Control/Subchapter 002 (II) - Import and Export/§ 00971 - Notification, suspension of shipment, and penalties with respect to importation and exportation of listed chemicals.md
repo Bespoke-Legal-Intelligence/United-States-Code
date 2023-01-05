@@ -120,11 +120,11 @@ Pub. L. 100–690, title VI, §6053(b), Nov. 18, 1988, 102 Stat. 4315, provided 
 
 &emsp;"(B) forward any comments and recommendations for modifications to the Attorney General.
 
-"(3) Not later than 60 days after the date of the enactment of this Act, the Attorney General shall publish the proposed final regulations required by the amendment made by subsection (a).
+"(3) Not later than 60 days after the date of the enactment of this Act, the Attorney General shall publishthe proposed final regulations required by the amendment made by subsection (a).
 
 "(4) Not later than 120 days after the date of the enactment of this Act, the Attorney General shall promulgate final regulations required by the amendment made by subsection (a).
 
-"(5) Subsection (a) of section 1018 of the Controlled Substances Import and Export Act \[subsection (a) ofthis section\], as added by subsection (a) of this section, shall take effect 90 days after the promulgation of the final regulations under paragraph (4).
+"(5) Subsection (a) of section 1018 of the Controlled Substances Import and Export Act \[subsection (a) of this section\], as added by subsection (a) of this section, shall take effect 90 days after the promulgation of the final regulations under paragraph (4).
 
 "(6) Each regulated person shall provide to the Attorney General the identity of any regular customer or regular supplier of the regulated person not later than 30 days after the promulgation of the final regulations under paragraph (4). Not later than 60 days after the end of such 30-day period, each regular customer and regular supplier so identified shall be a regular customer or regular supplier for purposes of any applicable exception from the requirement of subsection (a) of such section 1018, unless the the \[sic\] Attorney General otherwise notifies the regulated person in writing."
 

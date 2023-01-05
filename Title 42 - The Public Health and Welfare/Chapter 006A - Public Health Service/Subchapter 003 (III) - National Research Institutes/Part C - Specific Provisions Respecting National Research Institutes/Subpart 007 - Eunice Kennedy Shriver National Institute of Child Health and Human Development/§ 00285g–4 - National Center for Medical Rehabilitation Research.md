@@ -28,7 +28,7 @@ The general purpose of the Center is the conduct, support, and coordination of r
 
 &emsp;(F) support medical rehabilitation research and training centers.
 
-> The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under subparagraph (E).
+> Chapter 10 of title 5 shall not apply to the duration of a peer review group appointed under subparagraph (E).
 
 (2) In carrying out this section, the Director of the Center may make grants and enter into cooperative agreements and contracts.
 
@@ -100,7 +100,7 @@ The general purpose of the Center is the conduct, support, and coordination of r
 
 #### (g) Review and coordination of medical rehabilitation research programs
 
-(1) The Secretary and the heads of other Federal agencies shall jointly review the programscarried out (or proposed to be carried out) by each such official with respect to medical rehabilitation research and, as appropriate, enter into agreements preventing duplication among such programs.
+(1) The Secretary and the heads of other Federal agencies shall jointly review the programs carried out (or proposed to be carried out) by each such official with respect to medical rehabilitation research and, as appropriate, enter into agreements preventing duplication among such programs.
 
 (2) The Secretary shall, as appropriate, enter into interagency agreements relating to the coordination of medical rehabilitation research conducted by agencies of the National Institutes of Health and other agencies of the Federal Government.
 
@@ -108,19 +108,19 @@ The general purpose of the Center is the conduct, support, and coordination of r
 
 For purposes of this section, the term "medical rehabilitation research" means the science of mechanisms and interventions that prevent, improve, restore, or replace lost, underdeveloped, or deteriorating function.
 
-(July 1, 1944, ch. 373, title IV, §452, as added Pub. L. 101–613, §3(a), Nov. 16, 1990, 104 Stat. 3227; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685; Pub. L. 114–255, div. A, title II, §2040(a), (b)(1), Dec. 13, 2016, 130 Stat. 1069, 1070.)
+(July 1, 1944, ch. 373, title IV, §452, as added Pub. L. 101–613, §3(a), Nov. 16, 1990, 104 Stat. 3227; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685; Pub. L. 114–255, div. A, title II, §2040(a), (b)(1), Dec. 13, 2016, 130 Stat. 1069, 1070; Pub. L. 117–286, §4(a)(234), Dec. 27, 2022, 136 Stat. 4331.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, referred to in subsecs. (d)(3)(A) and (f)(1), probably means the date of enactment of the National Institutes of Health Amendments of 1990, Pub. L. 101–613, which was approved Nov. 16, 1990.
 
 Section 284b of this title, referred to in subsec. (d)(3)(B), was repealed by Pub. L. 109–482, title I, §104(b)(1)(C), Jan. 15, 2007, 120 Stat. 3693.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(1). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "The Federal Advisory Committee Act" in concluding provisions.
 
 <b>2016</b>—Pub. L. 114–255, §2040(b)(1), made technical amendment to directory language of Pub. L. 101–613, §3(a), which enacted this section.
 
@@ -152,7 +152,7 @@ Subsecs. (g), (h). Pub. L. 114–255, §2040(a)(6), added subsecs. (g) and (h).
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 
 #### Transfer of Functions
 
@@ -164,7 +164,7 @@ Pub. L. 101–613, §3(b), Nov. 16, 1990, 104 Stat. 3230, which required the Sec
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

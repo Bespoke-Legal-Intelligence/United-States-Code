@@ -10,7 +10,7 @@ Requirements.—(1) A notice of removal of a criminal prosecution shall be filed
 
 (2) A notice of removal of a criminal prosecution shall include all grounds for such removal. A failure to state grounds that exist at the time of the filing of the notice shall constitute a waiver of such grounds, and a second notice may be filed only on grounds not existing at the time of the original notice. For good cause shown, the United States district court may grant relief from the limitations of this paragraph.
 
-(3) The filing of a notice of removal of a criminal prosecution shall not prevent the State court in which such prosecution is pending from proceeding further, except that a judgment ofconviction shall not be entered unless the prosecution is first remanded.
+(3) The filing of a notice of removal of a criminal prosecution shall not prevent the State court in which such prosecution is pending from proceeding further, except that a judgment of conviction shall not be entered unless the prosecution is first remanded.
 
 (4) The United States district court in which such notice is filed shall examine the notice promptly. If it clearly appears on the face of the notice and any exhibits annexed thereto that removal should not be permitted, the court shall make an order for summary remand.
 

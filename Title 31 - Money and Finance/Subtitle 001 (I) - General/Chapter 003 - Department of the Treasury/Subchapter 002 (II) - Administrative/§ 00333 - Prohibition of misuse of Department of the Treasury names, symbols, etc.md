@@ -32,7 +32,7 @@ In general.—The Secretary of the Treasury may impose a civil penalty on any pe
 
 &emsp;(2)
 
-Amount of penalty.—The amount of the civil penalty imposed by paragraph (1) shallnot exceed $5,000 for each use of any material in violation of subsection (a). If such use is in a broadcast or telecast, the preceding sentence shall be applied by substituting "$25,000" for "$5,000".
+Amount of penalty.—The amount of the civil penalty imposed by paragraph (1) shall not exceed $5,000 for each use of any material in violation of subsection (a). If such use is in a broadcast or telecast, the preceding sentence shall be applied by substituting "$25,000" for "$5,000".
 
 &emsp;(3)
 

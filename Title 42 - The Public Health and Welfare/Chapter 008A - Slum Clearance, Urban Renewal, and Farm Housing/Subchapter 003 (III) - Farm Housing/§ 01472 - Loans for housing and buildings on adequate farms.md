@@ -32,7 +32,7 @@ The instruments under which the loan is made and the security given shall—
 
 &emsp;(2) provide for the repayment of principal and interest in accordance with schedules and repayment plans prescribed by the Secretary, except that any prepayment of a loan made or insured under section 1484 or 1485 of this title shall be subject to the provisions of subsection (c);
 
-&emsp;(3) except for guaranteed loans, contain the agreement of the borrower that he will, at the request of the Secretary, proceed with diligence to refinance the balance of the indebtedness through cooperative or other responsible private credit sources whenever the Secretarydetermines, in the light of the borrower's circumstances, including his earning capacity and the income from the farm, that he is able to do so upon reasonable terms and conditions;
+&emsp;(3) except for guaranteed loans, contain the agreement of the borrower that he will, at the request of the Secretary, proceed with diligence to refinance the balance of the indebtedness through cooperative or other responsible private credit sources whenever the Secretary determines, in the light of the borrower's circumstances, including his earning capacity and the income from the farm, that he is able to do so upon reasonable terms and conditions;
 
 &emsp;(4) be in such form and contain such covenants as the Secretary shall prescribe to secure the payment of the loan with interest, protect the security, and assure that the farm will be maintained in repair and that waste and exhaustion of the farm will be prevented.
 
@@ -140,7 +140,7 @@ Restriction on subsequent transfers.—Except as provided in subparagraph (B)(ii
 
 (F)
 
-General restriction on prepayments and refinancings.—Following the transfer of the maximum number of dwelling units set forth in subparagraph (H)(i) in any fiscal year or the maximum number of dwelling units for which budget authority is available in any fiscal year, the Secretary may not accept in such fiscal yearany offer to prepay, or request refinancing in accordance with subsection (b)(3) of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, except in accordance with subparagraph (G). The limitation established in this subparagraph shall not apply to an offer to prepay, or request to refinance, if, following the date on which such offer or request is made (or following February 5, 1988, whichever occurs later) a 15-month period expires during which no budget authority is available to carry out this paragraph. For purposes of this subparagraph, the Secretary shall allocate budget authority under this paragraph in the order in which offers to prepay, or request to refinance, are made.
+General restriction on prepayments and refinancings.—Following the transfer of the maximum number of dwelling units set forth in subparagraph (H)(i) in any fiscal year or the maximum number of dwelling units for which budget authority is available in any fiscal year, the Secretary may not accept in such fiscal year any offer to prepay, or request refinancing in accordance with subsection (b)(3) of, any loan made or insured under section 1484 or 1485 of this title pursuant to a contract entered into prior to December 15, 1989, except in accordance with subparagraph (G). The limitation established in this subparagraph shall not apply to an offer to prepay, or request to refinance, if, following thedate on which such offer or request is made (or following February 5, 1988, whichever occurs later) a 15-month period expires during which no budget authority is available to carry out this paragraph. For purposes of this subparagraph, the Secretary shall allocate budget authority under this paragraph in the order in which offers to prepay, or request to refinance, are made.
 
 (G)
 
@@ -212,7 +212,7 @@ On and after November 30, 1983—
 
 &emsp;(B) the manufactured home, or the manufactured home and lot, meets the installation, structural, and site requirements which would apply under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\]; and
 
-&emsp;(C) the manufactured home meets the energy conserving requirements established under paragraph (2), or until the energy conserving requirements are established under paragraph (2), the manufactured home meetsthe energy conserving requirements applicable to housing other than manufactured housing financed under this subchapter.
+&emsp;(C) the manufactured home meets the energy conserving requirements established under paragraph (2), or until the energy conserving requirements are established under paragraph (2), the manufactured home meets the energy conserving requirements applicable to housing other than manufactured housing financed under this subchapter.
 
 (2) Energy conserving requirements established by the Secretary for the purpose of paragraph (1)(C) shall—
 
@@ -468,7 +468,7 @@ This chapter, referred to in subsec. (h)(15)(A), appearing in the original is un
 
 #### Amendments
 
-<b>2018</b>—Subsec. (i)(1). Pub. L. 115–141 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with such lender's participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan."
+<b>2018</b>—Subsec. (i)(1). Pub. L. 115–141 added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Secretary may assess and collect a fee for a lender to access the automated underwriting systems of the Department in connection with suchlender's participation in the single family loan program under this section and only in an amount necessary to cover the costs of information technology enhancements, improvements, maintenance, and development for automated underwriting systems used in connection with the single family loan program under this section, except that such fee shall not exceed $50 per loan."
 
 <b>2016</b>—Subsec. (h)(18). Pub. L. 114–201, §201, added par. (18).
 
@@ -622,7 +622,7 @@ Proposed regulations and comment period.—Not later than 120 days after the dat
 
 "(2)
 
-Implementation.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Agriculture shall issue final regulations to implement the amendments made by this section. The Secretary shall provide for the regulations to take effect not later than 30 days after the date on which the regulations are issued.
+Implementation.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Agriculture shall issue final regulations to implement the amendments made by this section. The Secretaryshall provide for the regulations to take effect not later than 30 days after the date on which the regulations are issued.
 
 "(3)
 
@@ -704,11 +704,11 @@ Purpose.—The purpose of this section \[amending this section and section 1701x
 
 #### Rural Housing Guaranteed Loan Demonstration
 
-Pub. L. 100–242, title III, §304, Feb. 5, 1988, 101 Stat. 1894, as amended by Pub. L. 100–628, title X, §1041(a), (b), Nov. 7, 1988, 102 Stat. 3272, provided for establishment by Secretary of Agriculture of a rural housing guaranteed loan demonstration to provide guaranteed loans in accordance with section 1487(d) of this title and last sentence of section 1490(a)(1)(A) of this title, authorized amount available for such loans, established loan criteria, directed Secretary to submit to Congress, as soon as practicable after Sept. 30, 1989, an interim report setting forth findings and recommendations as a result of the demonstration and a final report on such findings and recommendations as soon as practicable after Sept. 30, 1991, prohibited Secretary from providing any guaranteed loans after Sept. 30, 1991, except pursuant to a commitment entered into on or before suchdate, and excluded applicability of subsec. (d) of this section and second sentence of section 1487(e) of this title to loan demonstration.
+Pub. L. 100–242, title III, §304, Feb. 5, 1988, 101 Stat. 1894, as amended by Pub. L. 100–628, title X, §1041(a), (b), Nov. 7, 1988, 102 Stat. 3272, provided for establishment by Secretary of Agriculture of a rural housing guaranteed loan demonstration to provide guaranteed loans in accordance with section 1487(d) of this title and last sentence of section 1490(a)(1)(A) of this title, authorized amount available for such loans, established loan criteria, directed Secretary to submit to Congress, as soon as practicable after Sept. 30, 1989, an interim report setting forth findings and recommendations as a result of the demonstration and a final report on such findings and recommendations as soon as practicable after Sept. 30, 1991, prohibited Secretary from providing any guaranteed loans after Sept. 30, 1991, except pursuant to a commitment entered into on or before such date, and excluded applicability of subsec. (d) of this section and second sentence of section 1487(e) of this title to loan demonstration.
 
 #### Prohibition on Acceptance of Prepayment of Certain Loans
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, as amended by Pub. L. 100–122, §2(d), Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, provided that: "The limitations on loan prepayments contained in section 634 of the Agriculture, Rural Development, and Related Agencies Appropriations Act, 1987 \[section 101(a) \[title VI, §634\] of Pub. L. 99–500 and 99–591, set out below\] shall remain in effect through March 15, 1988."
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 428, as amended by Pub. L. 100–122, §2(d), Sept. 30, 1987, 101Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327, provided that: "The limitations on loan prepayments contained in section 634 of the Agriculture, Rural Development, and Related Agencies Appropriations Act, 1987 \[section 101(a) \[title VI, §634\] of Pub. L. 99–500 and 99–591, set out below\] shall remain in effect through March 15, 1988."
 
 Pub. L. 99–500, §101(a) \[title VI, §634\], Oct. 18, 1986, 100 Stat. 1783, 1783–34, and Pub. L. 99–591, §101(a) \[title VI, §634\], Oct. 30, 1986, 100 Stat. 3341, 3341–34, provided that: "Notwithstanding any other provision of law, including section 502(c)(2) of the Housing Act of 1949 (42 U.S.C. 1471 et seq.) \[subsec. (c)(2) of this section\], none of the funds appropriated under this or any other Act shall be used prior to June 30, 1987 to accept prepayment of any loan made under section 515 of the Housing Act of 1949 \[section 1485 of this title\], unless such loan was made at least twenty years prior to the date of prepayment or, for loans made before December 21, 1979, the Secretary makes a determination that a supply of adequate, comparable housing is available in the community, or that prepayment of such loans will not result in a substantial increase in rents to tenants in residence upon date of prepayment or displacement of such tenants."
 

@@ -66,7 +66,7 @@ Of the amounts made available under subsection (a) for the period of fiscal year
 
 #### (1) Submission of list of projects to congress
 
-&emsp;Until the date on which all of the amounts made available to carry out subsection\(b)(1)(A)(i) are expended, not later than 90 days before the end of each fiscal year, the Secretary of the Interior and the Secretary of Agriculture shall submit to the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate and the Committee on Natural Resources and the Committee on Appropriations of the House of Representatives a list of projects to be funded under that subsection in the subsequent fiscal year, including—
+&emsp;Until the date on which all of the amounts made available to carry out subsection (b)(1)(A)(i) are expended, not later than 90 days before the end of each fiscal year, the Secretary of the Interior and the Secretary of Agriculture shall submit to the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate and the Committee on Natural Resources and the Committee on Appropriations of the House of Representatives a list of projects to be funded under that subsection in the subsequent fiscal year, including—
 
 &emsp;&emsp;(A) a detailed description of each project; and
 
@@ -74,7 +74,7 @@ Of the amounts made available under subsection (a) for the period of fiscal year
 
 #### (2) Alternate allocation
 
-&emsp;Appropriations Acts may provide for alternate allocation of amounts made available under subsection (b)(1), consistent with the allocations under subparagraph (B) of that subsection.
+&emsp;Appropriations Acts may provide for alternate allocation of amounts made availableunder subsection (b)(1), consistent with the allocations under subparagraph (B) of that subsection.
 
 #### (3) Lack of alternate allocations
 

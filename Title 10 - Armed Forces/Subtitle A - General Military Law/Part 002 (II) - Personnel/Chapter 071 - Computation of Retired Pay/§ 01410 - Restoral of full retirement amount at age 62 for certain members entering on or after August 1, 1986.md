@@ -4,7 +4,7 @@ In the case of a member or former member who first became a member of a uniforme
 
 &emsp;(1) increases in the retired pay of the member or former member under section 1401a(b) of this title had been computed as provided in paragraph (2) of that section (rather than under paragraph (3) of that section); and
 
-&emsp;(2) in the case of a member whose retired pay was subject to section 1409(b)(2) of thistitle, no reduction in the member's retired pay had been made under that section.
+&emsp;(2) in the case of a member whose retired pay was subject to section 1409(b)(2) of this title, no reduction in the member's retired pay had been made under that section.
 
 (Added Pub. L. 99–348, title I, §103, July 1, 1986, 100 Stat. 685; amended Pub. L. 100–224, §2, Dec. 30, 1987, 101 Stat. 1536; Pub. L. 101–189, div. A, title VI, §651(b)(4), Nov. 29, 1989, 103 Stat. 1460; Pub. L. 106–65, div. A, title VI, §§641(c), 643(b)(3)(A), Oct. 5, 1999, 113 Stat. 662, 664; Pub. L. 110–181, div. A, title VI, §661(b)(3), Jan. 28, 2008, 122 Stat. 178; Pub. L. 113–67, div. A, title IV, §403(b), Dec. 26, 2013, 127 Stat. 1186; Pub. L. 114–92, div. A, title VI, §631(d)(1), Nov. 25, 2015, 129 Stat. 845.)
 

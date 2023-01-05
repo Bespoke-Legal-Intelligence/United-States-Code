@@ -4,15 +4,15 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish, within 90 days of December 19, 2007, a Smart Grid Advisory Committee (either as an independent entity or as a designated sub-part of a larger advisory committee on electricity matters). The Smart Grid Advisory Committee shall include eight or more members appointed by the Secretary who have sufficient experience and expertise to represent the full range of smart grid technologies and services, to represent both private and non-Federal public sector stakeholders. One member shall be appointed by the Secretary to Chair the Smart Grid Advisory Committee.
+&emsp;The Secretary shall establish, within 90 days of December 19, 2007, a Smart Grid Advisory Committee (either as an independent entity or as a designated sub-part of a larger advisory committee on electricity matters). The Smart Grid Advisory Committee shall include eightor more members appointed by the Secretary who have sufficient experience and expertise to represent the full range of smart grid technologies and services, to represent both private and non-Federal public sector stakeholders. One member shall be appointed by the Secretary to Chair the Smart Grid Advisory Committee.
 
 #### (2) Mission
 
 &emsp;The mission of the Smart Grid Advisory Committee shall be to advise the Secretary, the Assistant Secretary, and other relevant Federal officials concerning the development of smart grid technologies, the progress of a national transition to the use of smart-grid technologies and services, the evolution of widely-accepted technical and practical standards and protocols to allow interoperability and inter-communication among smart-grid capable devices, and the optimum means of using Federal incentive authority to encourage such progress.
 
-#### (3) Applicability of Federal Advisory Committee Act
+#### (3) Applicability of chapter 10 of title 5
 
-&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Smart Grid Advisory Committee.
+&emsp;Chapter 10 of title 5 shall apply to the Smart Grid Advisory Committee.
 
 #### (b) Smart Grid Task Force
 
@@ -28,13 +28,13 @@
 
 There are authorized to be appropriated for the purposes of this section such sums as are necessary to the Secretary to support the operations of the Smart Grid Advisory Committee and Smart Grid Task Force for each of fiscal years 2008 through 2020.
 
-(Pub. L. 110–140, title XIII, §1303, Dec. 19, 2007, 121 Stat. 1784.)
+(Pub. L. 110–140, title XIII, §1303, Dec. 19, 2007, 121 Stat. 1784; Pub. L. 117–286, §4(a)(281), Dec. 27, 2022, 136 Stat. 4336.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (a)(3). Pub. L. 117–286 substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -34,7 +34,7 @@ Whenever a compromise is made by the Secretary in any case, there shall be place
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The submission of any periodic payment offer-in-compromise shall be accompanied by the payment of the amount of the first proposed installment.
+&emsp;&emsp;&emsp;The submission of any periodic payment offer-in-compromise shall be accompaniedby the payment of the amount of the first proposed installment.
 
 #### (ii) Failure to make installment during pendency of offer
 
@@ -44,7 +44,7 @@ Whenever a compromise is made by the Secretary in any case, there shall be place
 
 #### (A) Use of payment
 
-&emsp;&emsp;The application of any payment made under this subsection to the assessed tax orother amounts imposed under this title with respect to such tax may be specified by the taxpayer.
+&emsp;&emsp;The application of any payment made under this subsection to the assessed tax or other amounts imposed under this title with respect to such tax may be specified by the taxpayer.
 
 #### (B) Application of user fee
 
@@ -104,7 +104,7 @@ Any offer-in-compromise submitted under this section shall be deemed to be accep
 
 Notwithstanding any other provision of this section, if the Secretary determines that any portion of an application for an offer-in-compromise or installment agreement submitted under this section or section 6159 meets the requirement of clause (i) or (ii) of section 6702(b)(2)(A), then the Secretary may treat such portion as if it were never submitted and such portion shall not be subject to any further administrative or judicial review.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 849; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title V, §503(a), July 30, 1996, 110 Stat. 1461; Pub. L. 105–206, title III, §3462(a), (c)(1), July 22, 1998, 112 Stat. 764, 766; Pub. L. 109–222, title V, §509(a), (b), May 17, 2006, 120 Stat. 362, 363; Pub. L. 109–432, div. A, title IV, §407(d), Dec. 20, 2006, 120 Stat. 2962; Pub. L. 113–295, div. A, title II, §220(y), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 116–25, title I, §§1001(b)(1)(F), 1102(a), July 1, 2019, 133 Stat. 985, 986.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 849; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–168, title V, §503(a), July 30, 1996, 110 Stat. 1461; Pub. L. 105–206, title III,§3462(a), (c)(1), July 22, 1998, 112 Stat. 764, 766; Pub. L. 109–222, title V, §509(a), (b), May 17, 2006, 120 Stat. 362, 363; Pub. L. 109–432, div. A, title IV, §407(d), Dec. 20, 2006, 120 Stat. 2962; Pub. L. 113–295, div. A, title II, §220(y), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 116–25, title I, §§1001(b)(1)(F), 1102(a), July 1, 2019, 133 Stat. 985, 986.)
 
 #### <b>Editorial Notes</b>
 

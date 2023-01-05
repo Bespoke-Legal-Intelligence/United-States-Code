@@ -16,6 +16,10 @@ This title, referred to in text, is title I of div. A of Pub. L. 116–136, Mar.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–165, §1, Aug. 5, 2022, 136 Stat. 1363, provided that: "This Act \[amending sections 636, 9009, and 9009b of this title\] may be cited as the 'COVID–19 EIDL Fraud Statute of Limitations Act of 2022'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 117–2, §1, Mar. 11, 2021, 135 Stat. 4, provided that: "This Act \[see Tables for classification\] may be cited as the 'American Rescue Plan Act of 2021'."
@@ -40,7 +44,7 @@ Pub. L. 116–136, div. A, title IV, §4001, Mar. 27, 2020, 134 Stat. 469, provi
 
 #### Definitions
 
-Pub. L. 116–260, div. N, title III, §302, Dec. 27, 2020, 134 Stat. 1993, provided that: "In this Act \[probably means"this title", title III of div. N of Pub. L. 116–260, see Tables for classification\]:
+Pub. L. 116–260, div. N, title III, §302, Dec. 27, 2020, 134 Stat. 1993, provided that: "In this Act \[probably means "this title", title III of div. N of Pub. L. 116–260, see Tables for classification\]:
 
 &emsp;"(1)
 

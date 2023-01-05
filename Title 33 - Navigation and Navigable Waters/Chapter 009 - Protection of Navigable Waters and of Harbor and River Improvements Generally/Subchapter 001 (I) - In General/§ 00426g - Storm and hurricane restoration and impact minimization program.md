@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) shall be complete; and
 
-&emsp;&emsp;(B) shall not commit the United States to any additional improvement to ensure the successful operation of the project; except for participation in periodic beach nourishment in accordance with—
+&emsp;&emsp;(B) shall not commit the United States to any additional improvement to ensure thesuccessful operation of the project; except for participation in periodic beach nourishment in accordance with—
 
 &emsp;&emsp;&emsp;(i) section 426e of this title; and
 
@@ -118,7 +118,7 @@
 
 &emsp;After carrying out the initial construction and evaluation of the performance and cost of a project under the demonstration program, the Secretary may—
 
-&emsp;&emsp;(A) amend, at the request of a non-Federal interest of the project, the partnership agreement for a federally authorized shore protection project in existence on the date on which initial construction of the project under the demonstration program is complete to incorporate the project constructed under the demonstration program as a feature of the shore protection project, with the future cost sharing of the project constructed under the demonstration program to be determined by the project purposes of the shore protection project; or
+&emsp;&emsp;(A) amend, at the request of a non-Federal interest of the project, the partnership agreement for a federally authorized shore protection project in existence on the date on which initial construction of the project under the demonstration program is complete to incorporate the project constructed under the demonstration program as a feature of the shore protection project, with thefuture cost sharing of the project constructed under the demonstration program to be determined by the project purposes of the shore protection project; or
 
 &emsp;&emsp;(B) transfer all interest in and responsibility for the completed project constructed under the demonstration program to a non-Federal interest or another Federal agency.
 
@@ -200,7 +200,7 @@ Pub. L. 91–611, title I, §112(c), Dec. 31, 1970, 84 Stat. 1821, provided that
 
 #### Transfer of Functions
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department ofthe Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 #### Hurricane and Storm Damage Protection Program
 

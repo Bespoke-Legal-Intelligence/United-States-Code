@@ -14,7 +14,7 @@ As used in this subchapter—
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted ", fire fighting, and emergency services, including basic medical support, basic and advanced life support, hazardous material containment and confinement, and special rescue events involving vehicular and water mishaps, and trench, building, and confined space extractions" for "and fire fighting".
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted ", fire fighting, and emergency services, including basic medical support, basic and advanced life support, hazardousmaterial containment and confinement, and special rescue events involving vehicular and water mishaps, and trench, building, and confined space extractions" for "and fire fighting".
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -60,7 +60,7 @@ Required elements.—A program under subsection (a) shall include elements that 
 
 &emsp;(3)
 
-Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military.—In order to meet the requirement in paragraph (2)(A) with respect to particular national security forces under a program under subsection (a), the Secretary of Defense shall certify, prior to the initiation of the program, that the Department of Defense or the Department of State is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, training that includes a comprehensive curriculum on thelaw of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military, as applicable, to such national security forces.
+Observance of and respect for the law of armed conflict, human rights and fundamental freedoms, the rule of law, and civilian control of the military.—In order to meet the requirement in paragraph (2)(A) with respect to particular national security forces under a program under subsection (a), the Secretary of Defense shall certify, prior to the initiation of the program, that the Department of Defense or the Department of State is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, training that includes a comprehensive curriculum on the law of armed conflict, human rights and fundamental freedoms, and the rule of law, and that enhances the capacity to exercise responsible civilian control of the military, as applicable, to such national security forces.
 
 &emsp;(4)
 
@@ -114,7 +114,7 @@ Notice and Wait on Activities Under Programs.—Not later than 15 days before in
 
 (f)
 
-Quarterly Monitoring Reports.—The Director of the Defense Security Cooperation Agency shall, on a quarterly basis, submit to the appropriate committees of Congress a report setting forth, for the preceding calendar quarter, the following:
+Semi-Annual Monitoring Reports.—The Director of the Defense Security Cooperation Agency shall, on a semi-annual basis, submit to the appropriate committees of Congress a report setting forth, for the preceding 180 days, the following:
 
 &emsp;(1) Information, by recipient country, of the delivery and execution status of all defense articles, training, defense services, supplies (including consumables), and small-scale construction under programs under subsection (a).
 
@@ -128,7 +128,7 @@ Funding.—
 
 &emsp;(1)
 
-Sole source of funds.—Amounts for programs carried out pursuant to subsection (a) in a fiscal year, and for other purposes in connection with such programs as authorized by this section, may be derived only fromamounts authorized to be appropriated for such fiscal year for the Department of Defense for operation and maintenance, Defense-wide, and available for the Defense Security Cooperation Agency for such programs and purposes.
+Sole source of funds.—Amounts for programs carried out pursuant to subsection (a) in a fiscal year, and for other purposes in connection with such programs as authorized by this section, may be derived only from amounts authorized to be appropriated for such fiscal year for the Department of Defense for operation and maintenance, Defense-wide, and available for the Defense Security Cooperation Agency for such programs and purposes.
 
 &emsp;(2)
 
@@ -140,9 +140,9 @@ In general.—Amounts available in a fiscal year to carry out the authority in s
 
 &emsp;&emsp;(B)
 
-Achievement of full operational capacity.—If, in accordance with subparagraph (A), equipment or training is delivered under a program under the authority in subsection (a) in the fiscal year after the fiscal year in which the program begins, amounts for defense articles, training, defense services, supplies (including consumables), and small-scale construction associated with such equipment or training and necessary to ensure that the recipient unit achieves full operational capability for such equipment or training may be used in the fiscal year in which the foreign country takes receipt of such equipment and in the next two fiscal years.
+Achievement of full operational capacity.—If, in accordance with subparagraph (A), equipment or training is delivered undera program under the authority in subsection (a) in the fiscal year after the fiscal year in which the program begins, amounts for defense articles, training, defense services, supplies (including consumables), and small-scale construction associated with such equipment or training and necessary to ensure that the recipient unit achieves full operational capability for such equipment or training may be used in the fiscal year in which the foreign country takes receipt of such equipment and in the next two fiscal years.
 
-(Added Pub. L. 114–328, div. A, title XII, §1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, §1204(b), Dec. 12, 2017, 131 Stat. 1643; Pub. L. 115–232, div. A, title XII, §§1201, 1203(c), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 116–92, div. A, title XII, §1201, Dec. 20, 2019, 133 Stat. 1620; Pub. L. 116–283, div. A, title XII, §1201, Jan. 1, 2021, 134 Stat. 3908.)
+(Added Pub. L. 114–328, div. A, title XII, §1241(d)(1), Dec. 23, 2016, 130 Stat. 2500; amended Pub. L. 115–91, div. A, title XII, §1204(b), Dec. 12, 2017, 131 Stat. 1643; Pub. L. 115–232, div. A, title XII, §§1201, 1203(c), Aug. 13, 2018, 132 Stat. 2016; Pub. L. 116–92, div. A, title XII, §1201, Dec. 20, 2019, 133 Stat. 1620; Pub. L. 116–283, div. A, title XII, §1201, Jan. 1, 2021, 134 Stat. 3908; Pub. L. 117–263, div. A, title XII, §1202(c), Dec. 23, 2022, 136 Stat. 2823.)
 
 #### <b>Editorial Notes</b>
 
@@ -155,6 +155,8 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(5), (9)(A), is Pu
 A prior section 333 was renumbered section 253 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–263 substituted "Semi-Annual" for "Quarterly" in heading and "a semi-annual" for "a quarterly" and "180 days" for "calendar quarter" in introductory provisions.
 
 <b>2021</b>—Subsec. (a)(7), (8). Pub. L. 116–283, §1201(1), (2), added par. (7) and redesignated former par. (7) as (8).
 
@@ -179,6 +181,58 @@ Subsec. (c)(3). Pub. L. 115–91, §1204(b)(2), in heading, substituted "Observa
 Subsec. (c)(4). Pub. L. 115–91, §1204(b)(3), substituted "that the Department of Defense or another department or agency is already undertaking, or will undertake as part of the security sector assistance provided to the foreign country concerned, a program of institutional capacity building with appropriate institutions of such foreign country to enhance the capacity of such foreign country to organize, administer, employ, manage, maintain, sustain, or oversee the national security forces of such foreign country." for "that the Department is already undertaking, or will undertake as part of the program, a program of institutional capacity building with appropriate institutions of such foreign country that is complementary to the program with respect to such foreign country under subsection (a)." and struck out at end "The purpose of the program of institutional capacity building shall be to enhance the capacity of such foreign country to exercise responsible civilian control of the national security forces of such foreign country."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Military Cybersecurity Cooperation With Hashemite Kingdom of Jordan
+
+Pub. L. 117–263, div. A, title XV, §1508, Dec. 23, 2022, 136 Stat. 2885, provided that:
+
+"(a)
+
+Requirement.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense, acting through the Under Secretary of Defense for Policy, in concurrence with the Secretary of State and in coordination with the Commander of the United States Cyber Command and the Commander of the United States Central Command, shall seek to engage the Ministry of Defense of the Hashemite Kingdom of Jordan for the purpose of expanding cooperation of military cybersecurity activities.
+
+"(b)
+
+Cooperation Efforts.—In expanding the cooperation of military cybersecurity activities between the Department of Defense and the Ministry of Defense of the Hashemite Kingdom of Jordan under subsection (a), the Secretary of Defense may carry out the following efforts:
+
+&emsp;"(1) Bilateral cybersecurity training activities and exercises.
+
+&emsp;"(2) Efforts to—
+
+&emsp;&emsp;"(A) actively defend military networks, infrastructure, and systems;
+
+&emsp;&emsp;"(B) eradicate malicious cyber activity that has compromised those networks, infrastructure, and systems; and
+
+&emsp;&emsp;"(C) leverage United States commercial and military cybersecurity technology and services to harden and defend those networks, infrastructure, and systems.
+
+&emsp;"(3) Establishment of a regional cybersecurity center.
+
+"(c)
+
+Briefings.—
+
+&emsp;"(1)
+
+Requirement.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, in coordination with the Secretary of State, shall provide to the appropriate congressional committees a briefing on the implementation of this section.
+
+&emsp;"(2)
+
+Contents.—The briefing under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An overview of efforts undertaken pursuant to this section.
+
+&emsp;&emsp;"(B) A description of the feasibility and advisability of expanding the cooperation of militarycybersecurity activities between the Department of Defense and the Ministry of Defense of the Hashemite Kingdom of Jordan.
+
+&emsp;&emsp;"(C) Identification of any challenges and resources that need to be addressed so as to expand such cooperation.
+
+&emsp;&emsp;"(D) Any other matter the Secretary determines relevant.
+
+"(d)
+
+Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+&emsp;"(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;"(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives."
 
 #### Pilot Program To Improve Cyber Cooperation with Vietnam, Thailand, and Indonesia
 
@@ -212,7 +266,7 @@ Design of pilot program.—Not later than June 1, 2021, the Secretary of Defense
 
 &emsp;"(2)
 
-Progress report.—Not later than December 31, 2021, and annually thereafter until the date onwhich the pilot program terminates under subsection (e), the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate committees of Congress a report on the pilot program that includes—
+Progress report.—Not later than December 31, 2021, and annually thereafter until the date on which the pilot program terminates under subsection (e), the Secretary of Defense, with the concurrence of the Secretary of State, shall submit to the appropriate committees of Congress a report on the pilot program that includes—
 
 &emsp;&emsp;"(A) a description of the activities conducted and the results of such activities;
 
@@ -282,7 +336,7 @@ In general.—Training may be provided under subsection (a) to the national secu
 
 &emsp;"(2)
 
-Eligible countries.—Before providing training under subsection (a), the Secretary of Defense shall, in coordination with the Secretary of State, submit to the Committees on Armed Services of the Senate and the House of Representatives a list of the countries determined pursuant to paragraph (1) to be eligible for the provision of training under subsection (a).
+Eligible countries.—Before providing training under subsection (a), the Secretary of Defense shall,in coordination with the Secretary of State, submit to the Committees on Armed Services of the Senate and the House of Representatives a list of the countries determined pursuant to paragraph (1) to be eligible for the provision of training under subsection (a).
 
 "(d)
 
@@ -324,7 +378,7 @@ Procedures to be included.—The regulations required under subparagraph (A) sha
 
 &emsp;&emsp;"(C)
 
-Quarterly report.—The Secretary of Defense shall submit to the congressional defensecommittees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, on a quarterly basis, a report that includes a description of each waiver of the requirement of reimbursement of incremental expenses under subparagraph (B)(i) that was in effect at any time during the preceding calendar quarter.
+Quarterly report.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, on a quarterly basis, a report that includes a description of each waiver of the requirement of reimbursement of incremental expenses under subparagraph (B)(i) that was in effect at any time during the preceding calendar quarter.
 
 &emsp;&emsp;"(D)
 
@@ -352,7 +406,7 @@ Termination of Authority.—The authority under this section shall terminate on 
 
 #### Indo-Pacific Maritime Security Initiative
 
-Pub. L. 114–92, div. A, title XII, §1263, Nov. 25, 2015, 129 Stat. 1073, as amended by Pub. L. 114–328, div. A, title XII, §1289, Dec. 23, 2016, 130 Stat. 2555; Pub. L. 115–232, div. A, title XII, §1252, Aug. 13, 2018, 132 Stat. 2053; Pub. L. 116–92, div. A, title XII, §§1251, 1252(a), Dec. 20, 2019, 133 Stat. 1666–1668; Pub. L. 117–81, div. A, title XII, §1241, Dec. 27, 2021, 135 Stat. 1976, provided that:
+Pub. L. 114–92, div. A, title XII, §1263, Nov. 25, 2015, 129 Stat. 1073, as amended by Pub. L. 114–328, div. A, title XII, §1289, Dec. 23, 2016, 130 Stat. 2555; Pub. L. 115–232, div. A, title XII, §1252, Aug. 13, 2018, 132 Stat. 2053; Pub. L. 116–92, div. A, title XII, §§1251, 1252(a), Dec. 20, 2019, 133 Stat. 1666–1668; Pub. L. 117–81, div. A, title XII, §1241, Dec. 27, 2021, 135 Stat. 1976; Pub. L. 117–263, div. A, title XII, §1252, Dec. 23, 2022, 136 Stat. 2850, provided that:
 
 "(a)
 
@@ -400,11 +454,11 @@ Priorities for Assistance and Training.—In developing programs for assistance 
 
 "(e)
 
-Incremental Expenses of Personnel of Recipient Countries for Training.—If the Secretary of Defense determines that the payment of incremental expenses (as defined in section 301 of title 10, United States Code) in connection with training described in subsection (a)(1)(B) will facilitate the participation in such training of organization personnel of recipient countries described in subsection (b), the Secretary may use amounts available under subsection (f) for assistance and training under subsection (a) for the payment of such incremental expenses.
+Incremental Expenses of Personnel of Recipient Countries for Training.—If the Secretary of Defense determines that the payment of incremental expenses (as defined in section 301 of title 10, United States Code) in connection with training described insubsection (a)(1)(B) will facilitate the participation in such training of organization personnel of recipient countries described in subsection (b), the Secretary may use amounts available under subsection (f) for assistance and training under subsection (a) for the payment of such incremental expenses.
 
 "(f)
 
-Availability of Funds.—Of the amounts authorized to be appropriated for each of fiscal years 2022 through 2027 for the Department of Defense, Operation and Maintenance, Defense-wide, $50,000,000 may be made available for the provision of assistance and training under subsection (a).
+Availability of Funds for Coast Guard Personnel and Capabilities.—The Secretary of Defense may use funds made available under this section to facilitate the participation of Coast Guard personnel in, and the use of Coast Guard capabilities for, training, exercises, and other activities with foreign countries under this section.
 
 "(g)
 

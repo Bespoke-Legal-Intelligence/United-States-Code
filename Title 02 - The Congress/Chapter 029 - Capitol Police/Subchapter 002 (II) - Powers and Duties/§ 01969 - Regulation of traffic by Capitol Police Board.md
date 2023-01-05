@@ -22,7 +22,7 @@ It shall be the duty of the Mayor of the District of Columbia, or any officer or
 
 #### References in Text
 
-The District of Columbia Traffic Act of 1925, as amended, referred to in subsec. (a), is act Mar. 3, 1925, ch. 443, 43 Stat. 1119, as amended, which is not classified to the Code.
+The District of Columbia Traffic Act of 1925, referred to in subsec. (a), is act Mar. 3, 1925, ch. 443, 43 Stat. 1119, as amended, which is not classified to the Code.
 
 #### Codification
 
@@ -40,7 +40,7 @@ Subsec. (c). Act July 11, 1947, §2, authorized certain traffic regulations to b
 
 #### Change of Name
 
-"District of Columbia Court of General Sessions" changed to "Superior Court of the District of Columbia" pursuant to Pub. L. 91–358, which provided that such change is effective first day of seventh calendar month which begins after July 29, 1970.
+"District of Columbia Court of General Sessions" changed to "Superior Court of the District of Columbia" pursuant to Pub. L. 91–358, which provided thatsuch change is effective first day of seventh calendar month which begins after July 29, 1970.
 
 Pub. L. 87–873, §1, Oct. 23, 1962, 76 Stat. 1171 and Pub. L. 88–60, §1, July 8, 1963, 77 Stat. 77, both redesignated the "Municipal Court for the District of Columbia" as the "District of Columbia Court of General Sessions".
 

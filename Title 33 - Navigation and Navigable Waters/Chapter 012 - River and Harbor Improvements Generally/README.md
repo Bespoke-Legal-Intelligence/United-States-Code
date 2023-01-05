@@ -92,6 +92,7 @@
 | [583\.](Subchapter%20002%20%28II%29%20-%20Pay%20and%20Allowances%3B%20Traveling%20Expenses%20and%20Subsistence/%C2%A7%2000583%20-%20Payment%20of%20allowances%2C%20etc.%2C%20incident%20to%20change%20of%20station%20of%20Engineer%20officers%20from%20appropriation%20for%20improvements.md) | Payment of allowances, etc., incident to change of station of Engineer officers from appropriation for improvements. |
 | [583a.](Subchapter%20002%20%28II%29%20-%20Pay%20and%20Allowances%3B%20Traveling%20Expenses%20and%20Subsistence/%C2%A7%2000583a%20-%20Payment%20of%20pay%20and%20allowances%20of%20officers%20of%20Corps%20of%20Engineers%20from%20appropriation%20for%20improvements.md) | Payment of pay and allowances of officers of Corps of Engineers from appropriation for improvements. |
 | 584, 584a. | Repealed. |
+| [585\.](Subchapter%20002%20%28II%29%20-%20Pay%20and%20Allowances%3B%20Traveling%20Expenses%20and%20Subsistence/%C2%A7%2000585%20-%20Reserve%20component%20training%20at%20water%20resources%20development%20projects.md) | Reserve component training at water resources development projects. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

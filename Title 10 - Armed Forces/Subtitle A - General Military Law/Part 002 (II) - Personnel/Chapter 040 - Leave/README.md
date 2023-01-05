@@ -15,7 +15,7 @@
 | [708\.](%C2%A7%2000708%20-%20Educational%20leave%20of%20absence.md) | Educational leave of absence. |
 | [709\.](%C2%A7%2000709%20-%20Emergency%20leave%20of%20absence.md) | Emergency leave of absence. |
 | [709a.](%C2%A7%2000709a%20-%20Expenses%20incurred%20in%20connection%20with%20leave%20canceled%20due%20to%20contingency%20operations%20reimbursement.md) | Expenses incurred in connection with leave canceled due to contingency operations: reimbursement. |
-| [710\.](%C2%A7%2000710%20-%20Career%20flexibility%20to%20enhance%20retention%20of%20members.md) | Career flexibility to enhance retention of members. |
+| [710\.](%C2%A7%2000710%20-%20Career%20flexibility%20to%20enhance%20retention%20of%20members.md) | Career flexibility to enhance retention of members.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

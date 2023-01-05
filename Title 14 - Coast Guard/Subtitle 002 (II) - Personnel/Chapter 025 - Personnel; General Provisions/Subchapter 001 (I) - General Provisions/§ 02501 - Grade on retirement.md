@@ -6,7 +6,7 @@ Commissioned Officers.—
 
 &emsp;(1)
 
-In general.—A commissioned officer who is retired under any provision of this title, shall be retired from active service with the highest grade held by the commissioned officer for not less than six months while on active duty in which, as determined by the Secretary, the commissioned officer's performance of duty was satisfactory.
+In general.—A commissioned officer who is retired under any provision of this title, shall be retired from active service with thehighest grade held by the commissioned officer for not less than six months while on active duty in which, as determined by the Secretary, the commissioned officer's performance of duty was satisfactory.
 
 &emsp;(2)
 

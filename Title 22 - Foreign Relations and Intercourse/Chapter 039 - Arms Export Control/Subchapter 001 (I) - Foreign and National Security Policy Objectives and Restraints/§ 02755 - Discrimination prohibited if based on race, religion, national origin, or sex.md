@@ -38,13 +38,13 @@ The President shall promptly transmit reports to the Speaker of the House of Rep
 
 (C) The term "certification", as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
 
-(Pub. L. 90–629, ch. 1, §5, as added Pub. L. 94–329, title III, §302(b), June 30, 1976, 90 Stat. 752; amended Pub. L. 95–105, title I, §109(a)(5), Aug. 17, 1977, 91 Stat. 846; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–236, title I, §162(f), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 111–266, title I, §104(b), Oct. 8, 2010, 124 Stat. 2799; Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
+(Pub. L. 90–629, ch. 1, §5, as added Pub. L. 94–329, title III, §302(b), June 30, 1976, 90 Stat. 752; amended Pub. L. 95–105, title I, §109(a)(5), Aug. 17, 1977, 91 Stat. 846; Pub. L. 99–514, §2, Oct. 22,1986, 100 Stat. 2095; Pub. L. 103–236, title I, §162(f), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 111–266, title I, §104(b), Oct. 8, 2010, 124 Stat. 2799; Pub. L. 113–276, title II, §208(a)(1), Dec. 18, 2014, 128 Stat. 2992.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (d)(3)(B), (C), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 729, which made provision for expedited procedures in the Senate, and was not classified to the Code.
 

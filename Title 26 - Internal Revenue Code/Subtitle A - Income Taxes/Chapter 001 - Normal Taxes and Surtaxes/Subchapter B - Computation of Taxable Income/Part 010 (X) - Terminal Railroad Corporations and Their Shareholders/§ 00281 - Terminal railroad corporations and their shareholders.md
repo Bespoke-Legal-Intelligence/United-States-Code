@@ -46,7 +46,7 @@ For purposes of this section—
 
 &emsp;The term "related terminal income" means the income (determined in accordance with regulations prescribed by the Secretary) of a terminal railroad corporation derived—
 
-&emsp;&emsp;(A) from services or facilities of a character ordinarily and regularly provided by terminal railroad corporations for railroad corporations or for the employees, passengers, or shippers of railroad corporations;
+&emsp;&emsp;(A) from services or facilities of a character ordinarily and regularly provided by terminal railroad corporations for railroadcorporations or for the employees, passengers, or shippers of railroad corporations;
 
 &emsp;&emsp;(B) from the use by persons other than railroad corporations of portions of a facility, or a service, which is used primarily for railroad purposes;
 

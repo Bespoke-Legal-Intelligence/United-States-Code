@@ -8,7 +8,7 @@ As used in this chapter:
 
 &emsp;&emsp;(A) subject to regulation under subchapter I of chapter 135 of title 49; and
 
-&emsp;&emsp;(B) is <sup>1</sup> registered under chapter 139 of such title, in order to engage in the business oftransporting and protecting currency, bullion, securities, precious metals, supplemental nutrition assistance program benefits, and other articles of unusual value in interstate commerce.
+&emsp;&emsp;(B) is <sup>1</sup> registered under chapter 139 of such title, in order to engage in the business of transporting and protecting currency, bullion, securities, precious metals, supplemental nutrition assistance program benefits, and other articles of unusual value in interstate commerce.
 
 &emsp;(3) The term "State" means any State of the United States or the District of Columbia.
 

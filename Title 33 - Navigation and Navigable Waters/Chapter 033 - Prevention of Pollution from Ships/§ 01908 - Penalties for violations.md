@@ -16,7 +16,7 @@ A person who is found by the Secretary, or the Administrator as provided for in 
 
 #### (c) Abatement of civil penalties; collection by Attorney General
 
-The Secretary, or the Administrator as provided for in this chapter, may compromise, modify, or remit, with or without conditions, any civil penalty which is subject to assessment or which has been assessed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary, or the Administrator as provided for in this chapter, may refer the matter to the Attorney General of the United States for collection in any appropriate district court of the United States.
+The Secretary, or the Administrator as provided for in this chapter, may compromise, modify, or remit, with or without conditions, anycivil penalty which is subject to assessment or which has been assessed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary, or the Administrator as provided for in this chapter, may refer the matter to the Attorney General of the United States for collection in any appropriate district court of the United States.
 
 #### (d) Liability in rem; district court jurisdiction
 
@@ -48,7 +48,7 @@ In subsec. (e), "section 60105 of title 46" substituted for "section 4197 of the
 
 <b>2008</b>—Pub. L. 110–280, §10(1), substituted "MARPOL Protocol," for "MARPOL Protocol,," wherever appearing in subsecs. (a), (b), and (d).
 
-Subsec. (b). Pub. L. 110–280, §10(2)(C), in concluding provisions, inserted "or the Administrator as providedfor in this chapter" after "Secretary," and ", or the Administrator as provided for in this chapter," after "Secretary" in two places.
+Subsec. (b). Pub. L. 110–280, §10(2)(C), in concluding provisions, inserted "or the Administrator as provided for in this chapter" after "Secretary," and ", or the Administrator as provided for in this chapter," after "Secretary" in two places.
 
 Pub. L. 110–280, §10(2)(A), in introductory provisions, inserted "or the Administrator as provided for in this chapter," after "Secretary,".
 
@@ -88,7 +88,7 @@ Subsec. (f). Pub. L. 100–220, §2105(b), substituted "to the government of the
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of this title.
+Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L.101–380, set out as an Effective Date note under section 2701 of this title.
 
 #### Effective Date of 1987 Amendment
 

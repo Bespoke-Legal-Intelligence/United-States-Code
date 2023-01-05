@@ -2,7 +2,7 @@
 
 #### (a) Withdrawal of American sovereignty
 
-On the 4th day of July immediately following the expiration of a period of ten years from the date of the inauguration of the new government under the constitution provided for in this Act, the President of the United States shall by proclamation withdraw and surrender all right of possession, supervision, jurisdiction, control, or sovereignty then existing and exercised by the United States in and over the territory and people of the Philippine Islands, including all military and other reservations of the Government of the United States in the Philippines (except such naval reservations and fueling stations as are reserved under section 1391 of this title), and, on behalf of the United States, shall recognize the independence of the Philippine Islands as a separate and self-governing nation and acknowledge the authority and control over the same of the government instituted by the people thereof, under the constitution then in force.
+On the 4th day of July immediately following the expiration of a period of ten years from thedate of the inauguration of the new government under the constitution provided for in this Act, the President of the United States shall by proclamation withdraw and surrender all right of possession, supervision, jurisdiction, control, or sovereignty then existing and exercised by the United States in and over the territory and people of the Philippine Islands, including all military and other reservations of the Government of the United States in the Philippines (except such naval reservations and fueling stations as are reserved under section 1391 of this title), and, on behalf of the United States, shall recognize the independence of the Philippine Islands as a separate and self-governing nation and acknowledge the authority and control over the same of the government instituted by the people thereof, under the constitution then in force.
 
 #### (b) Naval reservations and fueling stations
 
@@ -24,7 +24,7 @@ The President of the United States is authorized and empowered to enter into neg
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is act Mar. 24, 1934, ch. 84, 48 Stat. 456, as amended, which enacted sections 1281a, 1391, 1393 to 1395 of this title, and section 1248 of Title 48, Territories and Insular Possessions, amended sections 1231 to 1234, 1237, 1238, 1239, 1241 to 1243, 1245, and 1247 of Title 48, and enacted a provision set out as a note under section 1391 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), is act Mar. 24, 1934, ch. 84, 48 Stat. 456, which enacted sections 1281a, 1391, 1393 to 1395 of this title, and section 1248 of Title 48, Territories and Insular Possessions, amended sections 1231 to 1234, 1237, 1238, 1239, 1241 to 1243, 1245, and 1247 of Title 48, and enacted a provision set out as a note under section 1391 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

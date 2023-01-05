@@ -20,7 +20,7 @@ The Secretary shall make the grants to States from the allotments made under sub
 
 &emsp;&emsp;(iii) the amount such State received under this section for fiscal year 2001.
 
-&emsp;(B) If there are insufficient funds in a fiscal year to allot to each State the minimum amount under subparagraph (A), the Secretary shall ratably reduce the allotments to all States based on the proportionate share that each State received under this subsection for the preceding fiscal year.
+&emsp;(B) If there are insufficient funds in a fiscal year to allot to each State the minimumamount under subparagraph (A), the Secretary shall ratably reduce the allotments to all States based on the proportionate share that each State received under this subsection for the preceding fiscal year.
 
 #### (2) Reservations
 
@@ -82,7 +82,7 @@ Grants under this section shall be used for the following:
 
 &emsp;&emsp;For the State to be eligible under subparagraph (B) to receive funds under this part, the school described in such subparagraph shall—
 
-&emsp;&emsp;&emsp;(i) provide written notice, at the time any child or youth seeks enrollment in such school, and at least twice annually while the child or youth is enrolled in such school, to the parent or guardian of the child or youth (or, in the case of an unaccompanied youth, the youth) that—
+&emsp;&emsp;&emsp;(i) provide written notice, at the time any child or youth seeks enrollment in such school, and at least twice annually while the child or youth is enrolled in such school, to the parent or guardian of thechild or youth (or, in the case of an unaccompanied youth, the youth) that—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall be signed by the parent or guardian (or, in the case of an unaccompanied youth, the youth);
 
@@ -148,7 +148,7 @@ Grants under this section shall be used for the following:
 
 #### (i) Preparation
 
-&emsp;&emsp;&emsp;The Secretary shall prepare a report on the separate schools and local educationalagencies described in subparagraph (B) that receive funds under this part in accordance with this paragraph. The report shall contain, at a minimum, information on—
+&emsp;&emsp;&emsp;The Secretary shall prepare a report on the separate schools and local educational agencies described in subparagraph (B) that receive funds under this part in accordance with this paragraph. The report shall contain, at a minimum, information on—
 
 &emsp;&emsp;&emsp;&emsp;(I) compliance with all requirements of this paragraph;
 
@@ -274,7 +274,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;&emsp;(II) If the child's or youth's living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing the child's or youth's education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child or youth with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
 
-&emsp;&emsp;&emsp;(iv) The State and the local educational agencies in the State will adopt policies and practices to ensure participation by liaisons described in clause (ii) in professional development and other technical assistance activities provided pursuant to paragraphs (5) and (6) of subsection (f), as determined appropriate by the Office of the Coordinator.
+&emsp;&emsp;&emsp;(iv) The State and the local educational agencies in the State will adopt policies and practices to ensure participation by liaisons described in clause (ii) in professional development and other technical assistance activities provided pursuant toparagraphs (5) and (6) of subsection (f), as determined appropriate by the Office of the Coordinator.
 
 &emsp;&emsp;(K) A description of how youths described in section 11434a(2) of this title will receive assistance from counselors to advise such youths, and prepare and improve the readiness of such youths for college.
 
@@ -466,7 +466,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (A) In general
 
-&emsp;&emsp;Each State educational agency and local educational agency that receives assistance under this part shall review and revise any policies that may act as barriers to the identification of homeless children and youths or the enrollment of homeless children andyouths in schools that are selected under paragraph (3).
+&emsp;&emsp;Each State educational agency and local educational agency that receives assistance under this part shall review and revise any policies that may act as barriers to the identification of homeless children and youths or the enrollment of homeless children and youths in schools that are selected under paragraph (3).
 
 #### (B) Consideration
 

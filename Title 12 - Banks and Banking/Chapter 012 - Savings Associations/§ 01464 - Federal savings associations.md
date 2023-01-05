@@ -202,7 +202,7 @@ To the extent specified in regulations of the Comptroller, a Federal savings ass
 
 #### (C) Investments in personal property
 
-&emsp;&emsp;Investments in tangible personal property, including vehicles, manufactured homes,machinery, equipment, or furniture, for rental or sale. Investments under this subparagraph may not exceed 10 percent of the assets of the Federal savings association.
+&emsp;&emsp;Investments in tangible personal property, including vehicles, manufactured homes, machinery, equipment, or furniture, forrental or sale. Investments under this subparagraph may not exceed 10 percent of the assets of the Federal savings association.
 
 #### (D) Consumer loans and certain securities
 

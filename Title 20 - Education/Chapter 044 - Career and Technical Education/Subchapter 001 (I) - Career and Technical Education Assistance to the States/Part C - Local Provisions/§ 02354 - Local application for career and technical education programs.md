@@ -2,7 +2,7 @@
 
 #### (a) Local application required
 
-Any eligible recipient desiring financial assistance under this part shall, in accordance with requirements established by the eligible agency (in consultation with such other educational training entities as the eligible agencydetermines to be appropriate) submit a local application to the eligible agency. Such local application shall cover the same period of time as the period of time applicable to the State plan submitted under section 2342 of this title.
+Any eligible recipient desiring financial assistance under this part shall, in accordance with requirements established by the eligible agency (in consultation with such other educational training entities as the eligible agency determines to be appropriate) submit a local application to the eligible agency. Such local application shall cover the same period of time as the period of time applicable to the State plan submitted under section 2342 of this title.
 
 #### (b) Contents
 
@@ -16,7 +16,7 @@ The eligible agency shall determine the requirements for local applications, exc
 
 &emsp;&emsp;(B) a description of any new programs of study the eligible recipient will develop and submit to the State for approval; and
 
-&emsp;&emsp;(C) how students, including students who are members of special populations, will learn about their school's career and technical education course offerings and whether each course is part of a career and technical education program of study;
+&emsp;&emsp;(C) how students, including students who are members of special populations, willlearn about their school's career and technical education course offerings and whether each course is part of a career and technical education program of study;
 
 &emsp;(3) a description of how the eligible recipient, in collaboration with local workforce development boards and other local workforce agencies, one-stop delivery systems described in section 3151(e)(2) of title 29, and other partners, will provide—
 
@@ -136,7 +136,7 @@ A prior section 2354, Pub. L. 88–210, title I, §134, as added Pub. L. 105–3
 
 <b>2018</b>—Pub. L. 115–224, §133(1), substituted "Local application" for "Local plan" in section catchline.
 
-Subsec. (a). Pub. L. 115–224, §133(2), substituted "Local Application" for "Local plan" in heading and"local application" for "local plan" in two places in text.
+Subsec. (a). Pub. L. 115–224, §133(2), substituted "Local Application" for "Local plan" in heading and "local application" for "local plan" in two places in text.
 
 Subsecs. (b) to (e). Pub. L. 115–224, §133(3), added subsecs. (b) to (e) and struck out former subsec. (b) which related to contents of local plans.
 

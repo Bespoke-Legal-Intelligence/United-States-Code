@@ -206,7 +206,7 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 #### Effective Date
 
-Pub. L. 101–121, title III, §319(d), Oct. 23, 1989, 103 Stat. 756, provided that: "Section 1352 of title 31, United States Code (as added by subsection (a)), shall take effect with respect to Federal contracts, grants, loans, cooperative agreements, loan insurance commitments, and loan guaranty commitments that are entered into or made more than 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]."
+Pub. L. 101–121, title III, §319(d), Oct. 23, 1989, 103 Stat. 756, provided that: "Section 1352 of title 31, UnitedStates Code (as added by subsection (a)), shall take effect with respect to Federal contracts, grants, loans, cooperative agreements, loan insurance commitments, and loan guaranty commitments that are entered into or made more than 60 days after the date of the enactment of this Act \[Oct. 23, 1989\]."
 
 #### First Report on May 31, 1990; Content
 

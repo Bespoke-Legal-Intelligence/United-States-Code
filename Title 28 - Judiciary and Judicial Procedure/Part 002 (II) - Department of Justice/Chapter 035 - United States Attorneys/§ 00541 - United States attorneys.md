@@ -54,7 +54,7 @@ Words "The President may appoint, by and with the advice and consent of the Sena
 
 Words "including the District of Columbia" were omitted, because the District is made a judicial district by section 88 of this title. District of Columbia Code, 1940 ed., §11–1001, provided for appointment of an "attorney of the United States for the District" by the President, subject to Senate confirmation.
 
-Words "learned in the law" were omitted as unnecessary. Such requirement is not made of United States judges and no reason appears to make a distinction respecting United States attorneys.
+Words "learned in the law" were omitted as unnecessary. Such requirement is not made of United Statesjudges and no reason appears to make a distinction respecting United States attorneys.
 
 Parts of section 863 of title 48, U.S.C., 1940 ed., remain in said title 48. For remainder thereof, see Distribution Table. Other provisions of section 643 of such title are incorporated in sections 133, 504 \[now 541 and 544\], and 541 \[see 561\] of this title.
 

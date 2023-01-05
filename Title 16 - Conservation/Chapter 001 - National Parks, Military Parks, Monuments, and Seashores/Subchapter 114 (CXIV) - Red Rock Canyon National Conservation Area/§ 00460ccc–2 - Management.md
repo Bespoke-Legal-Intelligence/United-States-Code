@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Bureau of Land Management, shall, subject to valid existing rights, manage the conservation area to conserve, protect, and enhance the resources described in section 460ccc–1 of this title, in accordance with this subchapter, the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\], and other applicable laws. The Secretary shall only allow such uses of the conservation area as he finds will further the purposes for which the conservation area is established.
+The Secretary, acting through the Director of the Bureau of Land Management, shall, subjectto valid existing rights, manage the conservation area to conserve, protect, and enhance the resources described in section 460ccc–1 of this title, in accordance with this subchapter, the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\], and other applicable laws. The Secretary shall only allow such uses of the conservation area as he finds will further the purposes for which the conservation area is established.
 
 #### (b) Hunting
 
@@ -28,5 +28,5 @@ The Secretary may limit visitation and use of the conservation area as the Secre
 
 #### References in Text
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 

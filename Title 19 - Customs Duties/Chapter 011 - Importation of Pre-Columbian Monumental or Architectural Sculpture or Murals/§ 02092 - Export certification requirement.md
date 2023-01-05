@@ -2,7 +2,7 @@
 
 #### (a) Issuance by country of export
 
-No pre-Columbian monumental or architectural sculpture or mural which is exported\(whether or not such exportation is to the United States) from the country of origin after the effective date of the regulation listing such sculpture or mural pursuant to section 2091 of this title may be imported into the United States unless the government of the country of origin of such sculpture or mural issues a certificate, in a form acceptable to the Secretary, which certifies that such exportation was not in violation of the laws of that country.
+No pre-Columbian monumental or architectural sculpture or mural which is exported (whether or not such exportation is to the United States) from the country of origin after the effective date of the regulation listing such sculpture or mural pursuant to section 2091 of this title may be imported into the United States unless the government of the country of origin of such sculpture or mural issues a certificate, in a form acceptable to the Secretary, which certifies that such exportation was not in violation of the laws of that country.
 
 #### (b) Procedure when certificate lacking
 

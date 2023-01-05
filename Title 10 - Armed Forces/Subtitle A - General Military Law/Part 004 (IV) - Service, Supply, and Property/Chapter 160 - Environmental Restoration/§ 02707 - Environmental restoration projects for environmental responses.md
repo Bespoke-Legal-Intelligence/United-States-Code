@@ -6,7 +6,7 @@ Environmental Restoration Projects Authorized.—The Secretary of Defense or the
 
 (b)
 
-Treatment of Project.—Any construction, development, conversion, or extension of a structure, and any installation of equipment, that is included in an environmental restoration project under this section may not be considered military construction (as that term is defined in section 2801(a) of this title).
+Treatment of Project.—Any construction, development, conversion, or extension of astructure, and any installation of equipment, that is included in an environmental restoration project under this section may not be considered military construction (as that term is defined in section 2801(a) of this title).
 
 (c)
 

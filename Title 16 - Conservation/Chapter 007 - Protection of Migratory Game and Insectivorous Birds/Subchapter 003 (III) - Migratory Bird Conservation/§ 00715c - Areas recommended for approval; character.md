@@ -1,6 +1,6 @@
 ### §715c. Areas recommended for approval; character
 
-The Secretary of the Interior may not recommend any area for purchase or rental under the terms of this subchapter unless the Secretary of the Interior—
+The Secretary of the Interior may not recommend any area for purchase or rental underthe terms of this subchapter unless the Secretary of the Interior—
 
 &emsp;(1) has determined that such area is necessary for the conservation of migratory birds; and
 

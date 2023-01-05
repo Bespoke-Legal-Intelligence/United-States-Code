@@ -20,7 +20,7 @@ An individual may enroll under this section only in such manner and form as may 
 
 #### (c) Period of enrollment; scope of coverage
 
-The provisions of section 1395p of this title (except subsection (f) thereof), section 1395q of this title, subsection (b) of section 1395r of this title, and subsections (f) and (h) of section 1395s of this title shall apply to persons authorized to enroll under this section except that—
+The provisions of section 1395p of this title (except subsections (f) and (o) thereof), section 1395q of this title, subsection (b) of section 1395r of this title, and subsections (f) and (h) of section 1395s of this title shall apply to persons authorized to enroll under this section except that—
 
 &emsp;(1) individuals who meet the conditions of subsection (a)(1), (3), and (4) on or before the last day of the seventh month after October 1972 may enroll under this part and (if not already so enrolled) may also enroll under part B during an initial general enrollment period which shall begin on the first day of the second month which begins after October 30, 1972, and shall end on the last day of the tenth month after October 1972;
 
@@ -58,7 +58,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 (2) The Secretary shall, during September of each year <sup>1</sup> determine and promulgate the dollar amount which shall be applicable for premiums for months occurring in the following year. Subject to paragraphs (4) and (5), the amount of an individual's monthly premium under this section shall be equal to the monthly actuarial rate determined under paragraph (1) for that following year. Any amount determined under the preceding sentence which is not a multiple of $1 shall be rounded to the nearest multiple of $1 (or, if it is a multiple of 50 cents but not a multiple of $1, to the next higher multiple of $1).
 
-(3) Whenever the Secretary promulgates the dollar amount which shall be applicable as the monthly premium under this section, he shall, at the time such promulgation is announced,issue a public statement setting forth the actuarial assumptions and bases employed by him in arriving at the amount of an adequate actuarial rate for individuals 65 and older as provided in paragraph (1).
+(3) Whenever the Secretary promulgates the dollar amount which shall be applicable as the monthly premium under this section, he shall, at the time such promulgation is announced, issue a public statement setting forth the actuarial assumptions and bases employed by him in arriving at the amount of an adequate actuarial rate for individuals 65 and older as provided in paragraph (1).
 
 (4)(A) In the case of an individual described in subparagraph (B), the monthly premium for a month shall be reduced by the applicable reduction percent specified in the following table:
 
@@ -100,7 +100,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 (C) For purposes of subparagraph (B)(i)(I), the term "qualified State or local government retirement system" means a retirement system that—
 
-&emsp;(i) is established or maintained by a State or political subdivision thereof, or an agency or instrumentality of one or more States or political subdivisions thereof;
+&emsp;(i) is established or maintained by a State or political subdivision thereof, or an agency orinstrumentality of one or more States or political subdivisions thereof;
 
 &emsp;(ii) covers positions of some or all employees of such a State, subdivision, agency, or instrumentality; and
 
@@ -132,7 +132,7 @@ Amounts paid to the Secretary for coverage under this section shall be deposited
 
 (B) For purposes of this subsection, section 1395v(d)(1) of this title shall be applied by substituting "section 1395i–2 of this title" for "section 1395r of this title" and "subsection (c)(6) (with reference to subsection (b) of section 1395r of this title)" for "subsection (b)".
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat. 1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425; Pub. L. 106–554, §1(a)(6) \[title III, §331(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502; Pub. L. 108–173, title I, §101(e)(5), title VII, §736(a)(7), Dec. 8, 2003, 117 Stat. 2151, 2355.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat. 1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425; Pub. L. 106–554, §1(a)(6) \[title III, §331(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502; Pub. L. 108–173, title I, §101(e)(5), title VII, §736(a)(7), Dec. 8, 2003, 117 Stat. 2151, 2355; Pub. L. 117–108, title I, §101(b)(2)(A), Apr. 6, 2022, 136 Stat. 1136.)
 
 #### <b>Editorial Notes</b>
 
@@ -141,6 +141,8 @@ Amounts paid to the Secretary for coverage under this section shall be deposited
 The Internal Revenue Code of 1986, referred to in subsec. (d)(6)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–108 substituted "(except subsections (f) and (o) thereof)" for "(except subsection (f) thereof)" in introductory provisions.
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–173, §101(e)(5), inserted at end of concluding provisions "Except as otherwise provided, any reference to an individual entitled to benefits under this part includes an individual entitled to benefits under this part pursuant to an enrollment under this section or section 1395i–2a of this title."
 
@@ -240,7 +242,7 @@ Amendment by section 2354(b)(3), (4) of Pub. L. 98–369 effective July 18, 1984
 
 #### Effective Date of 1983 Amendment; Transitional Rule
 
-Amendment by Pub. L. 98–21 applicable to premiums for months beginning with January 1984, but for months after June 1983 and before January 1984, the monthly premium for June 1983 shall apply to individuals enrolled under parts A and B of this subchapter, see section 606(c) of Pub. L. 98–21, set out as a note under section 1395r of this title.
+Amendment by Pub. L. 98–21 applicable to premiums for months beginning with January 1984, but formonths after June 1983 and before January 1984, the monthly premium for June 1983 shall apply to individuals enrolled under parts A and B of this subchapter, see section 606(c) of Pub. L. 98–21, set out as a note under section 1395r of this title.
 
 #### Special Enrollment Provisions for Merchant Seamen
 

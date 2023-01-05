@@ -14,7 +14,7 @@ The Secretary shall issue regulations to carry out the purposes of this section,
 
 #### (d) Exception
 
-For purposes of applying section 4980E to a contribution to a health savings account of anemployee who is not a highly compensated employee (as defined in section 414(q)), highly compensated employees shall not be treated as comparable participating employees.
+For purposes of applying section 4980E to a contribution to a health savings account of an employee who is not a highly compensated employee (as defined in section 414(q)), highly compensated employees shall not be treated as comparable participating employees.
 
 (Added Pub. L. 108–173, title XII, §1201(d)(4)(A), Dec. 8, 2003, 117 Stat. 2478; amended Pub. L. 109–432, div. A, title III, §306(a), Dec. 20, 2006, 120 Stat. 2951.)
 

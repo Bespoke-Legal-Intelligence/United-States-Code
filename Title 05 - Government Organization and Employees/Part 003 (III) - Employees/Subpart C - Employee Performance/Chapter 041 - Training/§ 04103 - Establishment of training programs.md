@@ -74,6 +74,72 @@ Subsec. (b)(3). Pub. L. 103–226, §2(a)(2)(B)(ii), redesignated par. (3) as (2
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
+#### Ensuring Anti-Trafficking-In-Persons Trainings and Provisions Into Codes of Conduct of All Federal Departments and Executive Agencies
+
+Pub. L. 117–348, title I, §122, Jan. 5, 2023, 136 Stat. 6217, provided that:
+
+"(a)
+
+Findings.—Congress finds the following:
+
+&emsp;"(1) Human trafficking is inimical to every Federal agency's core values and inherently harmful and dehumanizing.
+
+&emsp;"(2) Through the adoption of a Code of Conduct, Federal agencies hold their personnel to similar standards that are required of contractors and subcontractors of the agency under Federal law.
+
+&emsp;"(3) Human trafficking is a violation of human rights and against Federal law.
+
+&emsp;"(4) The United States Government seeks to deter activities that would facilitate or support trafficking in persons.
+
+"(b)
+
+Sense of Congress on Implementation of Anti-trafficking-in-persons Policies.—It is the sense of Congress that—
+
+&emsp;"(1) beginning not later than 18 months after the date of the enactment of this Act \[Jan. 5, 2023\], the head of every Federal agency should incorporate a module on human trafficking into its staff training requirements and menu of topics to be covered in the annual ethics training of such agency;
+
+&emsp;"(2) such staff trainings should teach employees how to prevent, identify, and report trafficking in persons;
+
+&emsp;"(3) Federal agencies that already provide counter trafficking-in-persons training for staff should share their curricula with agencies that do not have such curricula;
+
+&emsp;"(4) the head of each agency should inform all candidates for employment about the anti-trafficking provisions in the Code of Conduct of the agency;
+
+&emsp;"(5) employees of each Federal agency should sign acknowledgment of the agency's Code of Conduct, which should be kept in the file of the employee; and
+
+&emsp;"(6) a violation of the Code of Conduct should lead to disciplinary action, up to and including termination of employment.
+
+"(c)
+
+Policy for Executive Branch Employees.—The President shall take such steps as may be necessary to ensure that each officer and employee (including temporary employees, persons stationed abroad while working for the United States, and detailees from other agencies of the Federal Government) of an agency in the executive branch of the Federal Government is subject to a policy with a minimum standard that contains—
+
+&emsp;"(1) a prohibition from engaging in human trafficking while employed by the Government in a full-time or part-time capacity;
+
+&emsp;"(2) a requirement that all Federal personnel, without regard to whether the person is stationed abroad, be sensitized to human trafficking and the ethical conduct requirements that prohibit the procurement of trafficking in persons;
+
+&emsp;"(3) a requirement that all such personnel be equipped with the necessary knowledge and tools to prevent, recognize, report, and address human trafficking offenses through a training for new personnel and through regular refresher courses offered every 2 years; and
+
+&emsp;"(4) a requirement that all such personnel report to the applicable inspector general and agency trafficking in persons point of contact any suspected cases of misconduct, waste, fraud, or abuse relating to trafficking in persons.
+
+"(d)
+
+Timing.—The policy described in subsection (c)—
+
+&emsp;"(1) shall be established or integrated into all applicable employee codes of conduct not later than 18 months after the date of the enactment of this Act \[Jan. 5, 2023\];
+
+&emsp;"(2) may not replace any preexisting code of conduct that contains more robust requirements than the requirements described in subsection (c); and
+
+&emsp;"(3) shall be signed by all personnel described in subsection (c) not later than 2 years after such date of enactment.
+
+"(e)
+
+Reporting.—The Office of Inspector General of a Federal department or agency, in consultation with the head of such agency, shall submit an annual report to Congress, which shall be publicly accessible, containing—
+
+&emsp;"(1) the number of suspected violations reported;
+
+&emsp;"(2) the number of investigations;
+
+&emsp;"(3) the status and outcomes of such investigations; and
+
+&emsp;"(4) any recommended actions to improve the programs and operations of such agency."
+
 #### Optional Participation of Federal Employees in AIDS Training Programs
 
 Pub. L. 104–146, §9, May 20, 1996, 110 Stat. 1373, provided that:
@@ -240,7 +306,7 @@ Advances in technology and increased skills needs are changing the workplace at 
 
 To help us meet these goals, I am creating a task force on Federal training technology, directing Federal agencies to take certain steps to enhance employees' training opportunities through the use of training technology, and an advisory committee on the use of training technology, which also will explore options for financing the training and post-secondary education needed to upgrade skills and gain new knowledge.
 
-Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in furtherance of the purposes of Chapter 41 of title 5, United States Code, the Government Employees Training Act of 1958 (Public Law 85–507 \[see Tables for classification\]), as amended, and Executive Order 11348, "Providing for the Further Training of Government Employees," \[set out above\] and in order to make effective use of technology to improve training opportunities for Federal Government employees, it is ordered as follows:
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], and in furtherance of the purposes of Chapter 41 of title 5, United States Code, the Government Employees Training Act of 1958 (Public Law 85–507 \[see Tables for classification\]), as amended, and Executive Order 11348, "Providing for the Further Training of Government Employees," \[set out above\] and in order to make effective use of technology to improve training opportunities for Federal Government employees, it is ordered as follows:
 
 Section 1. <i>Establishment of the President's Task Force on Federal Training Technology</i>. (a) The "President's Task Force on Federal Training Technology" (Task Force) is established. The Task Force shall provide leadership regarding the effective use of technology in training and education; make training opportunities an integral part of continuing employment in the Federal Government; and facilitate the ongoing coordination of Federal activities concerning the use of technology in training. The Task Force shall consist of the heads of the following departments and agencies or their representatives: the Departments of State, the Treasury, Defense, Justice, Interior, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, Energy, and Education; the Office of Personnel Management, General Services Administration, Environmental Protection Agency, National Aeronautics and Space and Administration, Small Business Administration, and Social Security Administration; a representative from the Small Agency Council; and representatives from other relevant agencies and related Federal councils, as determined by the Chair and Vice Chair of the Task Force.
 
@@ -286,7 +352,7 @@ Sec. 3. <i>Duties of All Federal Agencies</i>. (a) Each Federal agency shall, to
 
 Sec. 4. <i>Duties of Specific Federal Agencies</i>. (a) In light of the Office of Personnel Management's responsibility for developing Government-wide training policy, coordinating and managing training policy programs, and providing technical assistance to Federal agencies, the Office of Personnel Management or other appropriate agency as determined by the Task Force shall:
 
-&emsp;(1) in consultation with the Task Force, the Department of Defense, the National Institute of Standards and Technology, the Department of Labor, and other appropriate agencies as determined by OPM, publish the standards for training software and associated services recommended by the Task Force; and
+&emsp;(1) in consultation with the Task Force, the Department of Defense, the National Institute of Standards and Technology, the Department of Labor, and other appropriate agencies as determined by OPM, publishthe standards for training software and associated services recommended by the Task Force; and
 
 &emsp;(2) ensure that qualification standards for civil service positions, where appropriate, reflect standard industry certification practices.
 

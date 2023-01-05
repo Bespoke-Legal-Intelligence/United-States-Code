@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(3) although these records are also exchanged for legally authorized, noncriminal justice uses, such as governmental licensing and employment background checks, the purposes for and procedures by which they are exchanged vary widely from State to State;
 
-&emsp;(4) an interstate and Federal-State compact is necessary to facilitate authorized interstate criminal history record exchanges for noncriminal justice purposes on a uniform basis, while permitting each State to effectuate its own dissemination policy within its own borders; and
+&emsp;(4) an interstate and Federal-State compact is necessary to facilitate authorized interstate criminal history record exchanges for noncriminal justice purposes on a uniform basis, while permitting each State to effectuate itsown dissemination policy within its own borders; and
 
 &emsp;(5) such a compact will allow Federal and State records to be provided expeditiously to governmental and nongovernmental agencies that use such records in accordance with pertinent Federal and State law, while simultaneously enhancing the accuracy of the records and safeguarding the information contained therein from unauthorized disclosure or use.
 
@@ -19,4 +19,10 @@ Congress finds that—
 #### Codification
 
 Section was formerly classified to section 14611 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of subtitle A of title II of Pub. L. 105–251, which is classified to this subchapter, as the "National Crime Prevention and Privacy Compact Act of 1998", see section 211 of Pub. L. 105–251, set out as a Short Title of 1998 Act note under section 10101 of this title.
 

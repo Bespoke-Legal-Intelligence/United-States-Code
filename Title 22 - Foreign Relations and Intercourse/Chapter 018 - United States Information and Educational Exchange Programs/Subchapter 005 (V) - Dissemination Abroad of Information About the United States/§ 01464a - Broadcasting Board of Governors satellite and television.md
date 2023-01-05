@@ -58,7 +58,7 @@ Subsec. (e)(1). Pub. L. 105–277, §1335(a)(1)(B), (D), substituted "Broadcasti
 
 Subsec. (e)(2). Pub. L. 105–277, §1335(a)(1)(D), substituted "the United States International Television Service" for "USIA–TV", wherever appearing.
 
-Pub. L. 105–277, §1335(a)(1)(A), (B), in first sentence, substituted "Broadcasting Board of Governors" for "United States Information Agency", and in last sentence, substituted "Broadcasting Board of Governors"for "Director of the United States Information Agency" after "statement by the" and for "United States Information Agency" after "available to the".
+Pub. L. 105–277, §1335(a)(1)(A), (B), in first sentence, substituted "Broadcasting Board of Governors" for "United States Information Agency", and in last sentence, substituted "Broadcasting Board of Governors" for "Director of the United States Information Agency" after "statement by the" and for "United States Information Agency" after "available to the".
 
 Subsec. (e)(3). Pub. L. 105–277, §1335(a)(1)(B), substituted "Broadcasting Board of Governors" for "United States Information Agency".
 
@@ -66,7 +66,7 @@ Subsec. (e)(3). Pub. L. 105–277, §1335(a)(1)(B), substituted "Broadcasting Bo
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 

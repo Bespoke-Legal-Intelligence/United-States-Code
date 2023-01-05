@@ -6,7 +6,7 @@ Section, act Aug. 16, 1954, ch. 736, 68A Stat. 152, related to prepaid income.
 
 #### Effective Date of Repeal
 
-Repeal effective with respect to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 3 of act June 15, 1955, set out as an EffectiveDate of 1955 Amendment note under section 381 of this title.
+Repeal effective with respect to taxable years beginning after Dec. 31, 1953, and ending after Aug. 16, 1954, see section 3 of act June 15, 1955, set out as an Effective Date of 1955 Amendment note under section 381 of this title.
 
 #### Savings Provision
 

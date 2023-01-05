@@ -12,19 +12,23 @@ The Secretary shall include in the database maintained under subsection (a), for
 
 &emsp;(2) the initial cost estimate of the Corps of Engineers;
 
-&emsp;(3) the total cost;
+&emsp;(3) the total cost, including a separate line item for all Federal costs associated with the disposal of dredged material;
 
 &emsp;(4) the party and vessel carrying out the work; and
 
 &emsp;(5) the number of private contractor bids received and the bid amounts, including bids that did not win the final contract award.
 
-(Pub. L. 114–322, title I, §1133, Dec. 16, 2016, 130 Stat. 1654.)
+(Pub. L. 114–322, title I, §1133, Dec. 16, 2016, 130 Stat. 1654; Pub. L. 117–263, div. H, title LXXXI, §8207, Dec. 23, 2022, 136 Stat. 3756.)
 
 #### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(3). Pub. L. 117–263 inserted ", including a separate line item for all Federal costs associated with the disposal of dredged material" before semicolon at end.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

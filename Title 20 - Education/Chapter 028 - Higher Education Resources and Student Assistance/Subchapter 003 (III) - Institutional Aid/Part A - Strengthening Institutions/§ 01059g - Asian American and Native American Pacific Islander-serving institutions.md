@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Asian American and Native American Pacific Islander-serving institution
 
-&emsp;The term "Asian American and Native American Pacific Islander-serving institution" means an institution of higher education that—
+&emsp;The term "Asian American and Native American Pacific Islander-serving institution"means an institution of higher education that—
 
 &emsp;&emsp;(A) is an eligible institution under section 1058(b) of this title; and
 
@@ -66,7 +66,7 @@ In this section:
 
 #### (1) Institutional eligibility
 
-&emsp;Each Asian American and Native American Pacific Islander-serving institution desiring toreceive assistance under this section shall submit to the Secretary such enrollment data as may be necessary to demonstrate that the institution is an Asian American and Native American Pacific Islander-serving institution as defined in subsection (b), along with such other information and data as the Secretary may reasonably require.
+&emsp;Each Asian American and Native American Pacific Islander-serving institution desiring to receive assistance under this section shall submit to the Secretary such enrollment data as may be necessary to demonstrate that the institution is an Asian American and Native American Pacific Islander-serving institution as defined in subsection (b), along with such other information and data as the Secretary may reasonably require.
 
 #### (2) Applications
 

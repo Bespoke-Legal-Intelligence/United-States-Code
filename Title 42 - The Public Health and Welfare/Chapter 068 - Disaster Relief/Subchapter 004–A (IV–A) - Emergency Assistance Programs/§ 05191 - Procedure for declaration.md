@@ -2,7 +2,7 @@
 
 #### (a) Request and declaration
 
-All requests for a declaration by the President that an emergency exists shall be made by theGovernor of the affected State. Such a request shall be based on a finding that the situation is of such severity and magnitude that effective response is beyond the capabilities of the State and the affected local governments and that Federal assistance is necessary. As a part of such request, and as a prerequisite to emergency assistance under this chapter, the Governor shall take appropriate action under State law and direct execution of the State's emergency plan. The Governor shall furnish information describing the State and local efforts and resources which have been or will be used to alleviate the emergency, and will define the type and extent of Federal aid required. Based upon such Governor's request, the President may declare that an emergency exists.
+All requests for a declaration by the President that an emergency exists shall be made by the Governor of the affected State. Such a request shall be based on a finding that the situation is of such severity and magnitude that effective response is beyond the capabilities of the State and the affected local governments and that Federal assistance is necessary. As a part of such request, and as a prerequisite to emergency assistance under this chapter, the Governor shall take appropriate action under State law and direct execution of the State's emergency plan. The Governor shall furnish information describing the State and local efforts and resources which have been or will be used to alleviate the emergency, and will define the type and extent of Federal aid required. Based upon such Governor's request, the President may declare that an emergency exists.
 
 #### (b) Certain emergencies involving Federal primary responsibility
 
@@ -28,7 +28,7 @@ The President may exercise any authority vested in him by section 5192 of this t
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Prior Provisions
 

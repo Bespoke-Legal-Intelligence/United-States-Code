@@ -166,6 +166,7 @@
 | [7274g.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274g%20-%20Environmental%20restoration%20and%20waste%20management%20five-year%20plan%20and%20budget%20reports.md) | Environmental restoration and waste management five-year plan and budget reports. |
 | 7274h to 7274k. Transferred or Repealed. |  |
 | 7274<i>l.</i> | Authority to transfer certain Department of Energy property. |
+| 7274l–1. | Vesting title in property interests related to energy development, demonstration, and deployment programs funded under Department of Energy appropriations. |
 | 7274m to 7274s. Transferred. |  |
 | [7275\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007275%20-%20Definitions.md) | Definitions. |
 | [7276\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007276%20-%20Regulations%20to%20require%20integrated%20resource%20planning.md) | Regulations to require integrated resource planning. |
@@ -265,6 +266,8 @@
 | [7381b.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20A%20-%20Science%20Education%20Enhancement/%C2%A7%2007381b%20-%20Laboratory%20cooperative%20science%20centers%20and%20other%20authorized%20education%20activities.md) | Laboratory cooperative science centers and other authorized education activities. |
 | [7381c.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20A%20-%20Science%20Education%20Enhancement/%C2%A7%2007381c%20-%20Education%20partnerships.md) | Education partnerships. |
 | 7381c–1. | Partnerships with historically Black colleges and universities, Hispanic-serving institutions, and tribal colleges. |
+| 7381c–2. | Broadening participation for teachers and scientists. |
+| 7381c–3. | Expanding opportunities for highly skilled science, technology, engineering, and mathematics (STEM) professionals. |
 | [7381d.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20A%20-%20Science%20Education%20Enhancement/%C2%A7%2007381d%20-%20Definitions.md) | Definitions. |
 | [7381e.](Subchapter%20013%20%28XIII%29%20-%20Department%20of%20Energy%20Science%20Education%20Programs/Part%20A%20-%20Science%20Education%20Enhancement/%C2%A7%2007381e%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 

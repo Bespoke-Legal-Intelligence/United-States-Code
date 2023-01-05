@@ -66,7 +66,7 @@ Certification of Enrollment by Committee on House Oversight.—The enrollment of
 
 "For purposes of this joint resolution, the term 'appropriation measure' means a bill or joint resolution that includes provisions making general or continuing appropriations for the fiscal year ending September 30, 1997."
 
-Pub. L. 104–129, Apr. 9, 1996, 110 Stat. 1199, provided: "That the provisions of sections 106 and 107 of title 1, United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of H.R. 3019 \[Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321\] and the enrollment of H.R. 3136 \[Pub. L. 104–121, Mar. 29, 1996, 110 Stat. 847\], each of the One Hundred Fourth Congress. The enrollment of either such bill shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment."
+Pub. L. 104–129, Apr. 9, 1996, 110 Stat. 1199, provided: "That the provisions of sections 106 and 107 of title 1,United States Code, are waived with respect to the printing (on parchment or otherwise) of the enrollment of H.R. 3019 \[Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321\] and the enrollment of H.R. 3136 \[Pub. L. 104–121, Mar. 29, 1996, 110 Stat. 847\], each of the One Hundred Fourth Congress. The enrollment of either such bill shall be in such form as the Committee on House Oversight of the House of Representatives certifies to be a true enrollment."
 
 Pub. L. 104–56, title II, §§201, 202, Nov. 20, 1995, 109 Stat. 553, provided that:
 
@@ -280,7 +280,7 @@ Certification by President; Legal Effect.—Upon certification by the President 
 
 "(d)
 
-Archives.—A printed enrollment certified by the President under subsection (c) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this Act for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, United States Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
+Archives.—A printed enrollment certified by the President under subsection (c) shall be transmitted to the Archivist of the United States, who shall preserve it with the hand enrollment. In preparing this Act for publication in slip form and in the United States Statutes at Large pursuant to section 112 of title 1, UnitedStates Code, the Archivist of the United States shall use the printed enrollment certified by the President under subsection (c) in lieu of the hand enrollment.
 
 "(e)
 

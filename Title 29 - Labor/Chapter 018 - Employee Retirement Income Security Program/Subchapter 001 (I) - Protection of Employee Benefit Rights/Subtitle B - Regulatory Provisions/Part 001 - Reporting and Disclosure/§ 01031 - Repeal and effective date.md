@@ -2,7 +2,7 @@
 
 (a)(1) The Welfare and Pension Plans Disclosure Act \[29 U.S.C. 301 et seq.\] is repealed except that such Act shall continue to apply to any conduct and events which occurred before the effective date of this part.
 
-(2)(A) Section 664 of title 18 is amended by striking out "any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act" and inserting in lieu thereof "any employee benefit plan subject to any provisions of title I of the Employee Retirement Income Security Act of 1974".
+(2)(A) Section 664 of title 18 is amended by striking out "any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act" and inserting in lieu thereof "any employee benefit plan subject to any provisions oftitle I of the Employee Retirement Income Security Act of 1974".
 
 (B)(i) Section 1027 of such title 18 is amended by striking out "Welfare and Pension Plans Disclosure Act" and inserting in lieu thereof "title I of the Employee Retirement Income Security Act of 1974", and by striking out "Act" each place it appears and inserting in lieu thereof "title".
 
@@ -20,29 +20,33 @@ employee retirement income security act of 1974".
 
 (b)(1) Except as provided in paragraph (2), this part (including the amendments and repeals made by subsection (a)) shall take effect on January 1, 1975.
 
-(2) In the case of a plan which has a plan year which begins before January 1, 1975, and ends after December 31, 1974, the Secretary may postpone by regulation the effective date of the repeal of any provision of the Welfare and Pension Plans Disclosure Act (and of any amendment made by subsection (a)(2)) and the effective dateof any provision of this part, until the beginning of the first plan year of such plan which begins after January 1, 1975.
+(2) In the case of a plan which has a plan year which begins before January 1, 1975, and ends after December 31, 1974, the Secretary may postpone by regulation the effective date of the repeal of any provision of the Welfare and Pension Plans Disclosure Act (and of any amendment made by subsection (a)(2)) and the effective date of any provision of this part, until the beginning of the first plan year of such plan which begins after January 1, 1975.
 
 (c) The provisions of this subchapter authorizing the Secretary to promulgate regulations shall take effect on September 2, 1974.
 
 (d) Subsections (b) and (c) shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974.
 
-(Pub. L. 93–406, title I, §111, Sept. 2, 1974, 88 Stat. 851; Pub. L. 101–239, title VII, §7894(h)(1), Dec. 19, 1989, 103 Stat. 2451.)
+(Pub. L. 93–406, title I, §112, formerly §111, Sept. 2, 1974, 88 Stat. 851; Pub. L. 101–239, title VII, §7894(h)(1), Dec. 19, 1989, 103 Stat. 2451; renumbered §112, Pub. L. 117–328, div. T, title III, §320(a)(1), Dec. 29, 2022, 136 Stat. 5354.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Welfare and Pension Plans Disclosure Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 85–836, Aug. 28, 1958, 72 Stat. 997, as amended, which was classified generally to chapter 10 (§301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+The Welfare and Pension Plans Disclosure Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 85–836, Aug. 28, 1958, 72 Stat. 997, which was classified generally to chapter 10 (§301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Title I of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(A) to (C), means title I of Pub. L. 93–406, which enacted this subchapter, amended section 441 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 664, 1027, and 1954 of Title 18, Crimes and Criminal Procedure, and repealed sections 301 to 309 of this title.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(B)(ii), (iii), (D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Titles I, III, and IV of such act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(B)(ii), (iii), (D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Titles I, III, and IV of such act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 
 <b>1989</b>—Subsec. (d). Pub. L. 101–239 added subsec. (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 320(c) of Pub. L. 117–328, set out as a note under section 414 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

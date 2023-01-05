@@ -8,7 +8,7 @@ In this subpart:
 
 &emsp;The term "affiliated individual" means, with respect to an individual—
 
-&emsp;&emsp;(A) a spouse, parent, brother, sister, or child of that individual, or an individual to whom that individual stands in loco parentis; or
+&emsp;&emsp;(A) a spouse, parent, sibling, or child of that individual, or an individual to whom that individual stands in loco parentis; or
 
 &emsp;&emsp;(B) any individual, tenant, or lawful occupant living in the household of that individual.
 
@@ -20,13 +20,13 @@ In this subpart:
 
 &emsp;The term "covered housing program" means—
 
-&emsp;&emsp;(A) the program under section 1701q of title 12;
+&emsp;&emsp;(A) the program under section 1701q of title 12, including the direct loan program under such section;
 
 &emsp;&emsp;(B) the program under section 811 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 8013);
 
 &emsp;&emsp;(C) the program under subtitle D of title VIII of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12901 et seq.);
 
-&emsp;&emsp;(D) the program under subtitle A of title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11360 et seq.);
+&emsp;&emsp;(D) the programs under title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11360 et seq.);
 
 &emsp;&emsp;(E) the program under subtitle A of title II of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12741 et seq.);
 
@@ -36,9 +36,21 @@ In this subpart:
 
 &emsp;&emsp;(H) the programs under sections 1437d and 1437f of title 42;
 
-&emsp;&emsp;(I) rural housing assistance provided under sections 1484, 1485, 1486, 1490m, and 1490p–2 of title 42; and
+&emsp;&emsp;(I) rural housing assistance provided under sections 1484, 1485, 1486, 1490m, 1490p–2, and 1490r of title 42;
 
-&emsp;&emsp;(J) the low income housing tax credit program under section 42 of title 26.
+&emsp;&emsp;(J) the low income housing tax credit program under section 42 of title 26;
+
+&emsp;&emsp;(K) the provision of assistance from the Housing Trust Fund established under section 4568 of title 12;
+
+&emsp;&emsp;(L) the provision of assistance for housing under the Comprehensive Service Programs for Homeless Veterans program under subchapter II of chapter 20 of title 38;
+
+&emsp;&emsp;(M) the provision of assistance for housing and facilities under the grant program for homeless veterans with special needs under section 2061 of title 38;
+
+&emsp;&emsp;(N) the provision of assistance for permanent housing under the program for financial assistance for supportive services for very low-income veteran families in permanent housing under section 2044 of title 38;
+
+&emsp;&emsp;(O) the provision of transitional housing assistance for victims of domestic violence, dating violence, sexual assault, or stalking under the grant program under subpart 4 of part B; and
+
+&emsp;&emsp;(P) any other Federal housing programs providing affordable housing to low- and moderate-income persons by means of restricted rents or rental assistance, or more generally providing affordable housing opportunities, as identified by the appropriate agency through regulations, notices, or any other means.
 
 #### (b) Prohibited basis for denial or termination of assistance or eviction
 
@@ -68,7 +80,7 @@ In this subpart:
 
 #### (ii) Effect of eviction on other tenants
 
-&emsp;&emsp;&emsp;If public housing agency or owner or manager of housing assisted under a covered housing program evicts, removes, or terminates assistance to an individual under clause (i), and the individual is the sole tenant eligible to receive assistance under a covered housing program, the public housing agency or owner or manager of housing assisted under the covered housing program shall provide any remaining tenant or resident an opportunity to establisheligibility for the covered housing program. If a tenant or resident described in the preceding sentence cannot establish eligibility, the public housing agency or owner or manager of the housing shall provide the tenant or resident a reasonable time, as determined by the appropriate agency, to find new housing or to establish eligibility for housing under another covered housing program.
+&emsp;&emsp;&emsp;If public housing agency or owner or manager of housing assisted under a covered housing program evicts, removes, or terminates assistance to an individual under clause (i), and the individual is the sole tenant eligible to receive assistance under a covered housing program, the public housing agency or owner or manager of housing assisted under the covered housing program shall provide any remaining tenant or resident an opportunity to establish eligibility for the covered housing program. If a tenant or resident described in the preceding sentence cannot establish eligibility, the public housing agency or owner or manager of the housing shall provide the tenant or resident a reasonable time, as determined by the appropriate agency, to find new housing or to establish eligibility for housing under another covered housing program.
 
 #### (C) Rules of construction
 
@@ -82,7 +94,7 @@ In this subpart:
 
 &emsp;&emsp;&emsp;(ii) to limit any otherwise available authority of a public housing agency or owner or manager of housing assisted under a covered housing program to evict or terminate assistance to a tenant for any violation of a lease not premised on the act of violence in question against the tenant or an affiliated person of the tenant, if the public housing agency or owner or manager does not subject an individual who is or has been a victim of domestic violence, dating violence, or stalking to a more demanding standard than other tenants in determining whether to evict or terminate;
 
-&emsp;&emsp;&emsp;(iii) to limit the authority to terminate assistance to a tenant or evict a tenant from housing assisted under a covered housing program if a public housing agency or owner or manager of the housing can demonstrate that an actual and imminent threat to other tenants or individuals employed at or providing service to the property would be present if the assistance is not terminated or the tenant is not evicted; or
+&emsp;&emsp;&emsp;(iii) to limit the authority to terminate assistance to a tenant or evict a tenantfrom housing assisted under a covered housing program if a public housing agency or owner or manager of the housing can demonstrate that an actual and imminent threat to other tenants or individuals employed at or providing service to the property would be present if the assistance is not terminated or the tenant is not evicted; or
 
 &emsp;&emsp;&emsp;(iv) to supersede any provision of any Federal, State, or local law that provides greater protection than this section for victims of domestic violence, dating violence, sexual assault, or stalking.
 
@@ -134,7 +146,7 @@ In this subpart:
 
 &emsp;&emsp;(C) a record of a Federal, State, tribal, territorial, or local law enforcement agency, court, or administrative agency; or
 
-&emsp;&emsp;(D) at the discretion of a public housing agency or owner or manager of housing assisted under a covered housing program, astatement or other evidence provided by an applicant or tenant.
+&emsp;&emsp;(D) at the discretion of a public housing agency or owner or manager of housing assisted under a covered housing program, a statement or other evidence provided by an applicant or tenant.
 
 #### (4) Confidentiality
 
@@ -202,7 +214,7 @@ The Secretary of Housing and Urban Development shall establish policies and proc
 
 The appropriate agency with respect to each covered housing program shall implement this section, as this section applies to the covered housing program.
 
-(Pub. L. 103–322, title IV, §41411, as added Pub. L. 113–4, title VI, §601(a)(4), Mar. 7, 2013, 127 Stat. 102; amended Pub. L. 114–324, §6, Dec. 16, 2016, 130 Stat. 1951.)
+(Pub. L. 103–322, title IV, §41411, as added Pub. L. 113–4, title VI, §601(a)(4), Mar. 7, 2013, 127 Stat. 102; amended Pub. L. 114–324, §6, Dec. 16, 2016, 130 Stat. 1951; Pub. L. 117–103, div. W, title VI, §601, Mar. 15, 2022, 136 Stat. 881.)
 
 #### <b>Editorial Notes</b>
 
@@ -210,7 +222,7 @@ The appropriate agency with respect to each covered housing program shall implem
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(3)(C), (E), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle A of title II of the Act is classified generally to part A (§12741 et seq.) of subchapter II of chapter 130 of Title 42, The Public Health and Welfare. Subtitle D of title VIII of the Act, known as the AIDS Housing Opportunity Act, is classified generally to chapter 131 (§12901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of Title 42 and Tables.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(3)(D), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle A of title IV of the Act is classified generally to part A (§11360 et seq.) of subchapter IV of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(3)(D), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Title IV of the Act is classified principally to subchapter IV (§11360 et seq.) of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 #### Codification
 
@@ -218,5 +230,21 @@ Section was formerly classified to section 14043e–11 of Title 42, The Public H
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(1)(A). Pub. L. 117–103, §601(1), substituted "sibling," for "brother, sister,".
+
+Subsec. (a)(3)(A). Pub. L. 117–103, §601(2)(A), inserted ", including the direct loan program under such section" before semicolon at end.
+
+Subsec. (a)(3)(D). Pub. L. 117–103, §601(2)(B), substituted "the programs under" for "the program under subtitle A of".
+
+Subsec. (a)(3)(I). Pub. L. 117–103, §601(2)(C)(i), substituted "sections 1484, 1485, 1486, 1490m, 1490p–2, and 1490r of title 42" for "sections 1484, 1485, 1486, 1490m, and 1490p–2 of title 42".
+
+Subsec. (a)(3)(K) to (P). Pub. L. 117–103, §601(2)(C)(ii), (D), (E), added subpars. (K) to (P).
+
 <b>2016</b>—Subsec. (b)(3)(B)(ii). Pub. L. 114–324 inserted "or resident" after "any remaining tenant" in first sentence and "or resident" after "tenant" in two places in second sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 

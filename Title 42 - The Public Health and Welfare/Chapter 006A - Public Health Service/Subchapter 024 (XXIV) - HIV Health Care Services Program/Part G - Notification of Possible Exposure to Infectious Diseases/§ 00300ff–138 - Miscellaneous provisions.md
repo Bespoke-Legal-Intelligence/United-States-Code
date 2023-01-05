@@ -22,7 +22,7 @@ In any case in which the Secretary determines that, wholly or partially as a res
 
 #### (f) Continued application of State and local law
 
-Nothing in this part shall be construed to limit the application of State or local laws thatrequire the provision of data to public health authorities.
+Nothing in this part shall be construed to limit the application of State or local laws that require the provision of data to public health authorities.
 
 (July 1, 1944, ch. 373, title XXVI, §2695G, as added Pub. L. 111–87, §13, Oct. 30, 2009, 123 Stat. 2902.)
 

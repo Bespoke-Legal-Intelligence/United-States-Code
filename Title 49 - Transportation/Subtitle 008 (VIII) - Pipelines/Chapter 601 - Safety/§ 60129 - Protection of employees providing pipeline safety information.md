@@ -18,7 +18,7 @@ In general.—No employer may discharge any employee or otherwise discriminate a
 
 &emsp;&emsp;(E) provided, caused to be provided, or is about to provide or cause to be provided, testimony in any proceeding described in subparagraph (D); or
 
-&emsp;&emsp;(F) assisted or participated or is about to assist or participate in any manner in such a proceeding or in any other manner in such a proceeding or in any other action to carry out the purposes of this chapter or any other Federal law relating to pipeline safety.
+&emsp;&emsp;(F) assisted or participated or is about to assist or participate in any manner in such a proceeding or in any other manner in such a proceeding or in any other action to carryout the purposes of this chapter or any other Federal law relating to pipeline safety.
 
 &emsp;(2)
 

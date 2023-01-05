@@ -54,7 +54,7 @@
 
 #### (2) Dealers and distributors
 
-&emsp;(A) Any registrant, wholesaler, dealer, or other distributor (hereinafter in this paragraph referred to as a "seller") of a registered pesticide who distributes or sells the pesticide directly to any person not described as an end user in paragraph (1)(C) shall, with respect to any quantity of the pesticide that such person cannot use or resell as a result of the suspension or cancellation of the pesticide, reimburse such person for the cost of first acquiring the pesticide from the seller (other than the cost of transportation, if any), unless the seller provided to the person at the time of distribution or sale a notice, in writing, that the pesticide is not subject to reimbursement by the seller.
+&emsp;(A) Any registrant, wholesaler, dealer, or other distributor (hereinafter in this paragraph referred to as a "seller") of a registered pesticide who distributes or sells the pesticide directly to any person not described as an end user in paragraph (1)(C) shall, with respect to any quantity of the pesticide that such person cannot use or resell as a result of the suspension or cancellation of the pesticide, reimburse such person for the cost of first acquiring the pesticide from the seller (other than the cost of transportation, if any), unless the seller provided to the person at the time of distribution or sale a notice, in writing, thatthe pesticide is not subject to reimbursement by the seller.
 
 &emsp;(B) If—
 

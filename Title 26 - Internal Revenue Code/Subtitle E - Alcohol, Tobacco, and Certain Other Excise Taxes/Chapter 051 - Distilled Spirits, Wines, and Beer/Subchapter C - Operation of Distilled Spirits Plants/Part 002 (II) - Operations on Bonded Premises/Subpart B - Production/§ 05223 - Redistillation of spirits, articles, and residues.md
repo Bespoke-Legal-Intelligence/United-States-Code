@@ -2,7 +2,7 @@
 
 #### (a) Spirits on bonded premises
 
-The proprietor of a distilled spirits plant authorized to produce distilled spirits may, undersuch regulations as the Secretary shall prescribe, redistill any distilled spirits which have not been withdrawn from bonded premises.
+The proprietor of a distilled spirits plant authorized to produce distilled spirits may, under such regulations as the Secretary shall prescribe, redistill any distilled spirits which have not been withdrawn from bonded premises.
 
 #### (b) Distilled spirits returned for redistillation
 

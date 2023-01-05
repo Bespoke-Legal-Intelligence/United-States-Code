@@ -24,7 +24,7 @@
 
 #### (b) Mandatory reporting by Director of National Intelligence
 
-Except as provided in subsection (d), the Director of National Intelligence shall annuallymake publicly available on an Internet Web site a report that identifies, for the preceding 12-month period—
+Except as provided in subsection (d), the Director of National Intelligence shall annually make publicly available on an Internet Web site a report that identifies, for the preceding 12-month period—
 
 &emsp;(1) the total number of orders issued pursuant to subchapters I and II and sections 1881b and 1881c of this title and a good faith estimate of—
 
@@ -86,7 +86,7 @@ The annual reports required by subsections (a) and (b) shall be made publicly av
 
 #### (A) Federal Bureau of Investigation
 
-&emsp;&emsp;Paragraphs (2)(B), (2)(C), and (6)(C) of subsection (b) shall not apply to information or records held by, or queries conducted by, the Federal Bureau of Investigation, except with respect to information required under paragraph (2) relating to orders issued under section 1881a(f)(2) of this title.
+&emsp;&emsp;Paragraphs (2)(B), (2)(C), and (6)(C) of subsection (b) shall not apply to information or records held by, or queries conducted by, the Federal Bureau of Investigation, except withrespect to information required under paragraph (2) relating to orders issued under section 1881a(f)(2) of this title.
 
 #### (B) Electronic mail address and telephone numbers
 

@@ -58,7 +58,7 @@ In developing any regulation under this section, the Secretary shall consult wit
 
 &emsp;(C) may be terminated by the Secretary at an earlier date by publication in the Federal Register of a notice of termination if the Secretary determines that the reasons for the emergency action no longer exist.
 
-(4) If the Secretary finds that the incidental mortality and serious injury of marine mammals in the yellowfin tuna fishery in the eastern tropical Pacific Ocean is continuing to have a significant adverse impact on a stock or species, the Secretary may extend the emergency regulations for such additional periods as may be necessary.
+(4) If the Secretary finds that the incidental mortality and serious injury of marine mammals in the yellowfin tuna fishery in the eastern tropical Pacific Ocean is continuing to have asignificant adverse impact on a stock or species, the Secretary may extend the emergency regulations for such additional periods as may be necessary.
 
 (5) Within 120 days after the Secretary notifies the United States Commissioners to the Inter-American Tropical Tuna Commission of the Secretary's determination under paragraph (1)(A), the United States Commissioners shall call for a special meeting of the Commission to address the actions necessary to reduce incidental mortality and serious injury and mitigate the adverse impact which resulted in the determination. The Commissioners shall report the results of the special meeting in writing to the Secretary and to the Secretary of State. In their report, the Commissioners shall—
 
@@ -74,7 +74,7 @@ In developing any regulation under this section, the Secretary shall consult wit
 
 #### References in Text
 
-The Endangered Species Act, referred to in subsec. (a)(2)(A), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act, referred to in subsec. (a)(2)(A), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Prior Provisions
 

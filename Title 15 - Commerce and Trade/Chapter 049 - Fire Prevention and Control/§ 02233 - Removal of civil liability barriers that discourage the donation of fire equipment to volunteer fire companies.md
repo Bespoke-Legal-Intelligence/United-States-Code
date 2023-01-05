@@ -56,5 +56,5 @@ This section applies only to liability for injury, damage, loss, or death caused
 
 #### Codification
 
-Section was enacted as part of the USA PATRIOT Improvement and Reauthorization Act of 2005, and notas part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
+Section was enacted as part of the USA PATRIOT Improvement and Reauthorization Act of 2005, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
 

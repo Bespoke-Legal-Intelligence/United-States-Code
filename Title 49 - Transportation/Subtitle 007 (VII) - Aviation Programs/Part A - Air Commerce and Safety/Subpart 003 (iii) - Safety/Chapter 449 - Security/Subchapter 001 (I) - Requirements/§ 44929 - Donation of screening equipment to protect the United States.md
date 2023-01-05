@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to subsection (b), the Administrator is authorized to donate security screening equipment to a foreign last point of departure airport operator if such equipment can be reasonably expected to mitigate a specific vulnerability to the security of the United States or United States citizens.
+In General.—Subject to subsection (b), the Administrator is authorized to donate security screening equipment to a foreign last point ofdeparture airport operator if such equipment can be reasonably expected to mitigate a specific vulnerability to the security of the United States or United States citizens.
 
 (b)
 

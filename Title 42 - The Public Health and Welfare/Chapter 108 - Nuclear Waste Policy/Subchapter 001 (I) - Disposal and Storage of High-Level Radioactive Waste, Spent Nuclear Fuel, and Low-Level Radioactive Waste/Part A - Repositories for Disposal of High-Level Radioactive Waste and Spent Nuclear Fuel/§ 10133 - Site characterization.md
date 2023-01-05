@@ -20,7 +20,7 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 &emsp;&emsp;(v) any other information required by the Commission;
 
-&emsp;(B) a description of the possible form or packaging for the high-level radioactive waste and spent nuclear fuel to be emplaced in such repository, a description, to the extent practicable, of the relationship between such waste form or packaging and the geologic medium of such site, and a description of the activitiesbeing conducted by the Secretary with respect to such possible waste form or packaging or such relationship; and
+&emsp;(B) a description of the possible form or packaging for the high-level radioactive wasteand spent nuclear fuel to be emplaced in such repository, a description, to the extent practicable, of the relationship between such waste form or packaging and the geologic medium of such site, and a description of the activities being conducted by the Secretary with respect to such possible waste form or packaging or such relationship; and
 
 &emsp;(C) a conceptual repository design that takes into account likely site-specific requirements.
 
@@ -68,7 +68,7 @@ Each activity of the Secretary under this section that is in compliance with the
 
 Subsection (b)(1), referred to in subsec. (a), probably means subsec. (b)(1) of section 10132 of this title, which relates to nomination of repository sites for radioactive waste and submission of environmental assessments for those sites.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### Amendments
 
@@ -80,7 +80,7 @@ Subsec. (b)(1). Pub. L. 100–202 and Pub. L. 100–203, §5011(f)(1), amended p
 
 Subsec. (b)(2). Pub. L. 100–202 and Pub. L. 100–203, §5011(f)(2), amended par. (2) identically, substituting "the Yucca Mountain site" for "any candidate site".
 
-Subsec. (b)(3). Pub. L. 100–202 and Pub. L. 100–203, §5011(f)(3), amended par. (3) identically, substituting "the Yucca Mountain site" for "a candidate site", striking "either" before "the Governor", and substituting "the State of Nevada" for "the State in which such candidate site is located, or the governing body of the affected Indian tribe where such candidate site is located, as the case may be".
+Subsec. (b)(3). Pub. L. 100–202 and Pub. L. 100–203, §5011(f)(3), amended par. (3) identically, substituting "the Yucca Mountain site" for "a candidate site",striking "either" before "the Governor", and substituting "the State of Nevada" for "the State in which such candidate site is located, or the governing body of the affected Indian tribe where such candidate site is located, as the case may be".
 
 Subsec. (c)(1). Pub. L. 100–202 and Pub. L. 100–203, §5011(g)(1), amended par. (1) identically, substituting "the Yucca Mountain site" for "any candidate site", "suitability of such site" for "suitability of such candidate site", and "repository at such site" for "repository at such candidate site".
 

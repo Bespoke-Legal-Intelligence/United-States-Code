@@ -18,7 +18,7 @@ Pub. L. 109–424 and title VIII of Pub. L. 109–479 enacted substantially iden
 
 #### Short Title of 2017 Amendment
 
-Pub. L. 115–25, title V, §501, Apr. 18, 2017, 131 Stat. 115, provided that: "This title \[enacting sections 3206a and 3208 of this title, amending this section and sections 3202 to 3207 of this title, and enacting and repealing provisions set out as notes under this section\] may becited as the 'Tsunami Warning, Education, and Research Act of 2017'."
+Pub. L. 115–25, title V, §501, Apr. 18, 2017, 131 Stat. 115, provided that: "This title \[enacting sections 3206a and 3208 of this title, amending this section and sections 3202 to 3207 of this title, and enacting and repealing provisions set out as notes under this section\] may be cited as the 'Tsunami Warning, Education, and Research Act of 2017'."
 
 #### Short Title
 

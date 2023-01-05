@@ -80,7 +80,7 @@ Service Development Plans.—For each corridor proposal selected for development
 
 &emsp;&emsp;&emsp;(iii) the proposed Federal funding levels;
 
-&emsp;&emsp;(B) specifies the order in which Federal funding will be sought for the capital projects identified under subparagraph (A), after considering the appropriate sequence and phasing of projects based on the anticipated availability of funds; and
+&emsp;&emsp;(B) specifies the order in which Federal funding will be sought for the capitalprojects identified under subparagraph (A), after considering the appropriate sequence and phasing of projects based on the anticipated availability of funds; and
 
 &emsp;&emsp;(C) is developed in consultation with the entities listed in subsection (e);
 

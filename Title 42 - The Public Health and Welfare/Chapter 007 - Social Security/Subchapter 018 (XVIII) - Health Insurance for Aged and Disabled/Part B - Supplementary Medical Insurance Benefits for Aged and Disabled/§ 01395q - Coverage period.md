@@ -74,7 +74,7 @@ Notwithstanding subsection (a), in the case of an individual who enrolls during 
 
 In the case of an individual described in section 1395o(b)(1) of this title, the following rules shall apply:
 
-&emsp;(1) In the case of such an individual who is deemed to have enrolled in part B for coverage of immunosuppressive drugs under section 1395p(n)(3) of this title, such individual's coverage period shall begin on the first day of the month in which the individual first satisfies section 1395o(b) of this title.
+&emsp;(1) In the case of such an individual who is deemed to have enrolled in part B for coverage of immunosuppressive drugs under section 1395p(n)(3) of this title, such individual's coverage period shall begin on the first day of themonth in which the individual first satisfies section 1395o(b) of this title.
 
 &emsp;(2) In the case of such an individual who enrolls (or reenrolls, if applicable) in part B for coverage of immunosuppressive drugs under paragraph (2) or (4) of section 1395p(n) of this title, such individual's coverage period shall begin on January 1, 2023, or the month following the month in which the individual so enrolls (or reenrolls), whichever is later.
 
@@ -84,11 +84,17 @@ In the case of an individual described in section 1395o(b)(1) of this title, the
 
 &emsp;(5) The Secretary may conduct public education activities to raise awareness of the availability of more comprehensive, individual health insurance coverage (as defined in section 300gg–91 of this title) for individuals eligible under section 1395o(b) of this title to enroll or to be deemed enrolled in the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465; Pub. L. 108–173, title VII, §736(b)(6), Dec. 8, 2003, 117 Stat. 2356; Pub. L. 109–171, title V, §5115(a)(2)(B), Feb. 8, 2006, 120 Stat. 46; Pub. L. 116–260, div. CC, title I, §120(a)(1), (2)(B), title IV, §402(a)(2)(B)(i), (c), Dec. 27, 2020, 134 Stat. 2953, 2954, 2999, 3000.)
+#### (i) Coverage period for certain Postal Service annuitants and family members
+
+Notwithstanding subsection (a), in the case of an individual who enrolls during the special enrollment period pursuant to section 1395p(o) of this title, the coverage period shall begin on January 1, 2025.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1838, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 305; amended Pub. L. 90–248, title I, §145(c), Jan. 2, 1968, 81 Stat. 859; Pub. L. 92–603, title II, §§201(c)(3), 206(b), (c), 257(a), Oct. 30, 1972, 86 Stat. 1373, 1378, 1447; Pub. L. 96–499, title IX, §§945(c)(1), 947(b), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 97–35, title XXI, §§2106(b)(2), 2151(a)(3), Aug. 13, 1981, 95 Stat. 792, 802; Pub. L. 98–369, div. B, title III, §2338(c), July 18, 1984, 98 Stat. 1092; Pub. L. 99–272, title IX, §9201(c)(2), Apr. 7, 1986, 100 Stat. 171; Pub. L. 99–509, title IX, §9344(b)(1), Oct. 21, 1986, 100 Stat. 2042; Pub. L. 103–432, title I, §147(f)(1)(B), Oct. 31, 1994, 108 Stat. 4430; Pub. L. 105–33, title IV, §4581(b)(2), Aug. 5, 1997, 111 Stat. 465; Pub. L. 108–173, title VII, §736(b)(6), Dec. 8, 2003, 117 Stat. 2356; Pub. L. 109–171, title V, §5115(a)(2)(B), Feb. 8, 2006, 120 Stat. 46; Pub. L. 116–260, div. CC, title I, §120(a)(1), (2)(B), title IV, §402(a)(2)(B)(i), (c), Dec. 27, 2020, 134 Stat. 2953, 2954, 2999, 3000; Pub. L. 117–108, title I, §101(b)(2)(B), Apr. 6, 2022, 136 Stat. 1136.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (i). Pub. L. 117–108 added subsec. (i).
 
 <b>2020</b>—Subsec. (a)(2). Pub. L. 116–260, §120(a)(1)(A), amended par. (2) generally. Prior to amendment, par. (2) related to coverage period for individuals enrolling pursuant to section 1395p(d) of this title.
 

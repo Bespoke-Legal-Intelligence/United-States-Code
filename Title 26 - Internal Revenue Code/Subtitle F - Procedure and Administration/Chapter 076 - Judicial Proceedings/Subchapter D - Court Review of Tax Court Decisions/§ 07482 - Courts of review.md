@@ -62,7 +62,7 @@
 
 #### (1) To affirm, modify, or reverse
 
-&emsp;Upon such review, such courts shall have power to affirm or, if the decision of the TaxCourt is not in accordance with law, to modify or to reverse the decision of the Tax Court, with or without remanding the case for a rehearing, as justice may require.
+&emsp;Upon such review, such courts shall have power to affirm or, if the decision of the Tax Court is not in accordance with law, to modify or to reverse the decision of the Tax Court, with or without remanding the case for a rehearing, as justice may require.
 
 #### (2) To make rules
 
@@ -134,7 +134,7 @@ Subsec. (b)(2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 
 <b>1969</b>—Subsec. (c). Pub. L. 91–172 substituted "section 2072 of title 28" for "section 2074 of title 28" in par. (2) and struck out provision for the applicability of rules adopted under authority of section 1141(c)(2) of the Internal Revenue Act of 1939 until such time as rules prescribed by the Supreme Court under section 2072 of title 28 become effective and, in par. (4), substituted "notice of appeal" for "petition".
 
-<b>1966</b>—Subsec. (b)(1). Pub. L. 89–713 substituted provisions requiring that appeals from Tax Court decisions be made to the Court of Appeals for the circuit in which the taxpayer resides, in the case of a taxpayer other than a corporation, and, in the case of appeals by corporations, to the Court of Appeals for the circuit in which the corporation has its principal place of business or principal office or agency for provisions prescribing review by the Court of Appeals for the circuit in which was located the office to which was made the return of the tax in respect of which the liability arose, and inserted provision for the time of determining legal residence, place of business, or principal office or agency.
+<b>1966</b>—Subsec. (b)(1). Pub. L. 89–713 substituted provisions requiring that appeals from Tax Court decisions be made to the Court of Appeals for the circuit in which the taxpayer resides, in the case of a taxpayer other than a corporation, and, in the case of appeals bycorporations, to the Court of Appeals for the circuit in which the corporation has its principal place of business or principal office or agency for provisions prescribing review by the Court of Appeals for the circuit in which was located the office to which was made the return of the tax in respect of which the liability arose, and inserted provision for the time of determining legal residence, place of business, or principal office or agency.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

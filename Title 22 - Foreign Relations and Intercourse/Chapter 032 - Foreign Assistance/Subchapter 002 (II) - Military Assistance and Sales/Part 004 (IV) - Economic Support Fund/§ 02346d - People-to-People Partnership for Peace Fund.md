@@ -120,7 +120,7 @@ Pub. L. 116–260, div. K, title VIII, Dec. 27, 2020, 134 Stat. 1815, provided t
 
 "Sec. 8005. (a)
 
-Establishment.—Beginning on the date that is 180 days after the date of the enactment of this Act \[Dec. 27, 2020\], the Chief Executive Officer of the United States International Development Finance Corporation (referred to in this section as the 'Chief Executive Officer' and the 'Corporation', respectively) is authorized to establish a program to provide investments in, and support to, entities that carry out projects that contribute to the development of the Palestinian private sector economy in the West Bank and Gaza. The program established under this subsection shall be known as the 'Joint Investment for Peace Initiative' (referred to in this section as the 'Initiative') and shall be subject to all existing terms, conditions, restrictions, oversight requirements, and applicable provisions of law, including the Better Utilization of Investments Leading to Development Act of 2018 (22 U.S.C. 9611 et seq) \[div. F of Pub. L. 115–254, 22 U.S.C. 9601 et seq.\], including through strict adherence to the less-developed country focus under section 1412(c) of such Act \[22 U.S.C. 9612(c)\].
+Establishment.—Beginning on the date that is 180 days after the date of the enactment of this Act \[Dec. 27, 2020\], the Chief Executive Officer of the United States International Development Finance Corporation (referred to in this section as the 'Chief Executive Officer' and the 'Corporation', respectively) is authorized to establish a program to provide investments in, and support to, entities that carry out projects that contribute to the development of the Palestinian private sector economy in the West Bank andGaza. The program established under this subsection shall be known as the 'Joint Investment for Peace Initiative' (referred to in this section as the 'Initiative') and shall be subject to all existing terms, conditions, restrictions, oversight requirements, and applicable provisions of law, including the Better Utilization of Investments Leading to Development Act of 2018 (22 U.S.C. 9611 et seq) \[div. F of Pub. L. 115–254, 22 U.S.C. 9601 et seq.\], including through strict adherence to the less-developed country focus under section 1412(c) of such Act \[22 U.S.C. 9612(c)\].
 
 "(b)
 
@@ -150,7 +150,7 @@ Annual Report.—
 
 &emsp;"(1)
 
-In general.—Not later than December 31, 2021, and each December 31 thereafter until December 31,2031, the Chief Executive Officer shall submit to the appropriate congressional committees a report that describes the following:
+In general.—Not later than December 31, 2021, and each December 31 thereafter until December 31, 2031, the Chief Executive Officer shall submit to the appropriate congressional committees a report that describes the following:
 
 &emsp;&emsp;"(A) The extent to which the Initiative has contributed to promoting and supporting Palestinian economic development.
 
@@ -256,7 +256,7 @@ Consultation Requirement.—Not later than 90 days after enactment of this Act, 
 
 "(c)
 
-Administrative Expenses.—Not more than 5 percent of amounts authorized to be appropriated by subsection (a) for a fiscal year should be made availablefor administrative expenses to carry out section 535 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346d\] (as added by section 8004 of this Act \[probably means "this title"\]).
+Administrative Expenses.—Not more than 5 percent of amounts authorized to be appropriated by subsection (a) for a fiscal year should be made available for administrative expenses to carry out section 535 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2346d\] (as added by section 8004 of this Act \[probably means "this title"\]).
 
 "(d)
 

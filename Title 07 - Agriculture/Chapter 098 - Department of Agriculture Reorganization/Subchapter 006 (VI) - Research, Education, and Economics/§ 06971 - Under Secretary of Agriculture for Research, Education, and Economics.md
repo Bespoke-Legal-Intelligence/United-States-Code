@@ -190,7 +190,7 @@ The Under Secretary shall—
 
 &emsp;&emsp;&emsp;(i) Each program providing funding to any of the 1994 Institutions under sections 533, 534(a), and 535 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382).
 
-&emsp;&emsp;&emsp;(ii) The program established under section 536 of the Equity in EducationalLand-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382) providing research grants for 1994 Institutions.
+&emsp;&emsp;&emsp;(ii) The program established under section 536 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382) providing research grants for 1994 Institutions.
 
 &emsp;&emsp;&emsp;(iii) Each program established under subsections (b) and (c) of section 343 of this title.
 
@@ -268,7 +268,7 @@ The Under Secretary shall—
 
 #### (A) Establishment
 
-&emsp;&emsp;The Secretary shall establish within the Department an agency to be known as the"National Institute of Food and Agriculture".
+&emsp;&emsp;The Secretary shall establish within the Department an agency to be known as the "National Institute of Food and Agriculture".
 
 #### (B) Transfer of authorities
 

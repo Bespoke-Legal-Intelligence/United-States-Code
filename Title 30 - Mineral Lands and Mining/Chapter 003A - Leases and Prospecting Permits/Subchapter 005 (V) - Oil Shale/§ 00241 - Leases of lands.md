@@ -4,7 +4,7 @@
 
 (1) The Secretary of the Interior is hereby authorized to lease to any person or corporation qualified under this chapter any deposits of oil shale, and gilsonite (including all vein-type solid hydrocarbons) belonging to the United States and the surface of so much of the public lands containing such deposits, or land adjacent thereto, as may be required for the extraction and reduction of the leased minerals, under such rules and regulations, not inconsistent with this chapter, as he may prescribe.
 
-(2) No lease hereunder shall exceed 5,760 acres of land, to be described by the legal subdivisions of the public-land surveys, or if unsurveyed, to be surveyed by the United States, at the expense of the applicant, in accordance with regulations to be prescribed by the Secretary of the Interior.
+(2) No lease hereunder shall exceed 5,760 acres of land, to be described by the legal subdivisionsof the public-land surveys, or if unsurveyed, to be surveyed by the United States, at the expense of the applicant, in accordance with regulations to be prescribed by the Secretary of the Interior.
 
 (3) Leases may be for indeterminate periods, upon such conditions as may be imposed by the Secretary of the Interior, including covenants relative to methods of mining, prevention of waste, and productive development.
 

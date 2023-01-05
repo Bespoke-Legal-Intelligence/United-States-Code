@@ -8,7 +8,7 @@ Establishment.—The Secretary shall establish and implement a congestion mitiga
 
 Eligible Projects.—Except as provided in subsections (d) and (m)(1)(B)(ii), a State may obligate funds apportioned to it under section 104(b)(4) for the congestion mitigation and air quality improvement program only for a transportation project or program if the project or program is for an area in the State that is or was designated as a nonattainment area for ozone, carbon monoxide, or particulate matter under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)) and classified pursuant to section 181(a), 186(a), 188(a), or 188(b) of the Clean Air Act (42 U.S.C. 7511(a), 7512(a), 7513(a), or 7513(b)) or is or was designated as a nonattainment area under such section 107(d) after December 31, 1997, or is required to prepare, and file with the Administrator of the Environmental Protection Agency, maintenance plans under the Clean Air Act (42 U.S.C. 7401 et seq.) and—
 
-&emsp;(1)(A)(i) if the Secretary, after consultation with the Administrator determines, on the basis of information published by the Environmental Protection Agency pursuant to section108(f)(1)(A) of the Clean Air Act (other than clause (xvi)) that the project or program is likely to contribute to—
+&emsp;(1)(A)(i) if the Secretary, after consultation with the Administrator determines, on the basis of information published by the Environmental Protection Agency pursuant to section 108(f)(1)(A) of the Clean Air Act (other than clause (xvi)) that the project or program is likely to contribute to—
 
 &emsp;&emsp;(I) the attainment of a national ambient air quality standard in the designated nonattainment area; or
 
@@ -70,7 +70,7 @@ Projects for pm–10 nonattainment areas.—A State may obligate funds apportion
 
 &emsp;(2)
 
-Electric vehicle and natural gas vehicle infrastructure.—A State may obligate funds apportioned under section 104(b)(4) for a project or program to establish electric vehicle charging stations or natural gas vehicle refueling stations for the use of battery powered or natural gas fueled trucks or other motor vehicles at any location in the State (giving priority to corridors designated under section151) except that such stations may not be established or supported where commercial establishments serving motor vehicle users are prohibited by section 111 of title 23, United States Code.
+Electric vehicle and natural gas vehicle infrastructure.—A State may obligate funds apportioned under section 104(b)(4) for a project or program to establish electric vehicle charging stations or natural gas vehicle refueling stations for the use of battery powered or natural gas fueled trucks or other motor vehicles at any location in the State (giving priority to corridors designated under section 151) except that such stations may not be established or supported where commercial establishments serving motor vehicle users are prohibited by section 111 of title 23, United States Code.
 
 &emsp;(3)
 
@@ -78,7 +78,7 @@ HOV facilities.—No funds may be provided under this section for a project whic
 
 &emsp;(4)
 
-Locks and dams; marine highways.—For each fiscal year, a State may not obligate more than 10 percent of the funds apportioned to the State under section 104(b)(4) for projects described in paragraphs (10) and (11) of subsection (b).
+Locks and dams; marine highways.—For each fiscal year, a State may not obligate more than 10 percent of the funds apportioned to the State under section 104(b)(4) for projectsdescribed in paragraphs (10) and (11) of subsection (b).
 
 (d)
 
@@ -252,7 +252,7 @@ In general.—For any State that has a nonattainment or maintenance area for fin
 
 &emsp;&emsp;(A) reduce such fine particulate matter emissions in such area, including diesel replacements or retrofits; and
 
-&emsp;&emsp;(B) to the extent practicable, prioritize benefits to disadvantaged communities orlow-income populations living in, or immediately adjacent to, such area.
+&emsp;&emsp;(B) to the extent practicable, prioritize benefits to disadvantaged communities or low-income populations living in, or immediately adjacent to, such area.
 
 &emsp;(2)
 
@@ -266,7 +266,7 @@ nonattainment and maintenance in low population density states.—
 
 &emsp;&emsp;(A)
 
-Exception.—In any State with a population density of 80 or fewer persons per square mile of land area, based on the most recent decennial census, the requirements under subsection (g)(3) and paragraphs (1) and (2) of this subsection shall not apply to a nonattainment or maintenance area in the State if—
+Exception.—In any State with a population density of 80 or fewer persons persquare mile of land area, based on the most recent decennial census, the requirements under subsection (g)(3) and paragraphs (1) and (2) of this subsection shall not apply to a nonattainment or maintenance area in the State if—
 
 &emsp;&emsp;&emsp;(i) the nonattainment or maintenance area does not have projects that are part of the emissions analysis of a metropolitan transportation plan or transportation improvement program; and
 
@@ -348,11 +348,11 @@ No time limitation.—Operating assistance provided under paragraph (1) shall ha
 
 #### References in Text
 
-The Clean Air Act, referred to in subsecs. (b), (d)(1), (3), (f)(5), and (g)(3), (4), is act July 14, 1955, ch. 360, 69Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Section 108(f)(1)(A) of the Act is classified to section 7408(f)(1)(A) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsecs. (b), (d)(1), (3), (f)(5), and (g)(3), (4), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Section 108(f)(1)(A) of the Act is classified to section 7408(f)(1)(A) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 The date of enactment of this paragraph, referred to in subsec. (b)(5), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
-Sections 104(b)(2), 133, and 149(c)(2), as in effect on the day before the date of enactment of the MAP–21, referred to in subsec. (d)(2), mean section 104(b)(2) of this title, section 133 of this title, and subsec. (c)(2) of this section, respectively, as in effect on the day before the date of enactment of Pub. L. 112–141, which amended section 104 generally, made numerous amendments to section 133, and redesignated subsec. (c) of this section as (d) and struck it out. The date of enactment of the MAP–21 is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
+Sections 104(b)(2), 133, and 149(c)(2), as in effect on the day before the date of enactment of the MAP–21, referred to in subsec. (d)(2), mean section 104(b)(2) of this title, section 133 of this title, and subsec. (c)(2) of this section, respectively, as in effect on the day before the date of enactment of Pub. L. 112–141, which amended section 104 generally, made numerous amendments to section 133, and redesignated subsec. (c) of this section as (d) and struck it out. The date of enactment of theMAP–21 is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
 The day before the date of enactment of MAP–21, referred to in subsec. (d)(3), means the day before the date of enactment of Pub. L. 112–141. See note above.
 
@@ -430,7 +430,7 @@ Subsec. (m). Pub. L. 114–94, §1114(7), substituted "section 104(b)(4)" for "s
 
 <b>2014</b>—Subsec. (m). Pub. L. 113–76 substituted "for which CMAQ funding was made available, obligated or expended in fiscal year 2012, and shall have no imposed time limitation" for "that was previously eligible under this section".
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–141, §1113(a)(1), (5), in introductory provisions, substituted "in subsection (d)" for "in subsection (c)" and "section 104(b)(4)" for "section 104(b)(2)" and struck out concluding provisions which read as follows: "No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times. In areas of a State which are nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2)without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses."
+<b>2012</b>—Subsec. (b). Pub. L. 112–141, §1113(a)(1), (5), in introductory provisions, substituted "in subsection (d)" for "in subsection (c)" and "section 104(b)(4)" for "section 104(b)(2)" and struck out concluding provisions which read as follows: "No funds may be provided under this section for a project which will result in the construction of new capacity available to single occupant vehicles unless the project consists of a high occupancy vehicle facility available to single occupant vehicles only at other than peak travel times. In areas of a State which are nonattainment for ozone or carbon monoxide, or both, and for PM–10 resulting from transportation activities, the State may obligate such funds for any project or program under paragraph (1) or (2) without regard to any limitation of the Department of Transportation relating to the type of ambient air quality standard such project or program addresses."
 
 Subsec. (b)(5). Pub. L. 112–141, §1113(a)(2), inserted "add turning lanes," after "improve intersections," and substituted "paragraph, including programs or projects to improve incident and emergency response or improve mobility, such as through real-time traffic, transit, and multimodal traveler information;" for "paragraph;".
 
@@ -532,7 +532,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1995 Amendment
 
-Amendment by section 405(b) of Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
+Amendment by section 405(b) of Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set outas an Effective Date note under section 1301 of Title 49, Transportation.
 
 Pub. L. 104–88, title IV, §405(a), Dec. 29, 1995, 109 Stat. 956, provided that the amendment made by section 405(a)(2) is effective Nov. 28, 1995.
 

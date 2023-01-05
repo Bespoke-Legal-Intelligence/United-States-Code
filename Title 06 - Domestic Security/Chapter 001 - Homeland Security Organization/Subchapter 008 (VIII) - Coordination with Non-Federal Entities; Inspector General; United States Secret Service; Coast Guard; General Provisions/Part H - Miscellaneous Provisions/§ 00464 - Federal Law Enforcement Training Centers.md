@@ -70,7 +70,7 @@ The Director shall—
 
 &emsp;&emsp;&emsp;(i) execute strategic partnerships with State and local law enforcement to provide such law enforcement with specific training, including maritime law enforcement training; and
 
-&emsp;&emsp;&emsp;(ii) coordinate with the Director of Cybersecurity and Infrastructure Security and with private sector stakeholders, including critical infrastructure owners and operators, to provide training pertinent to improving coordination, security, and resiliency of critical infrastructure.
+&emsp;&emsp;&emsp;(ii) coordinate with the Director of the Cybersecurity and Infrastructure Security Agency and with private sector stakeholders, including critical infrastructure owners and operators, to provide training pertinent to improving coordination, security, and resiliency of critical infrastructure.
 
 #### (B) Provision of information
 
@@ -136,7 +136,7 @@ The Director shall—
 
 #### (B) No reduction in retirement pay
 
-&emsp;&emsp;A Federal annuitant employed pursuant to this paragraph shall not be subject to any reduction in pay for annuity allocable to theperiod of actual employment under the provisions of section 8344 or 8468 of title 5 or similar provision of any other retirement system for employees.
+&emsp;&emsp;A Federal annuitant employed pursuant to this paragraph shall not be subject to any reduction in pay for annuity allocable to the period of actual employment under the provisions of section 8344 or 8468 of title 5 or similar provision of any other retirement system for employees.
 
 #### (C) Re-employed annuitants
 
@@ -250,11 +250,13 @@ In this section:
 
 No funds are authorized to carry out this section. This section shall be carried out using amounts otherwise appropriated or made available for such purpose.
 
-(Pub. L. 107–296, title VIII, §884, Nov. 25, 2002, 116 Stat. 2247; Pub. L. 111–245, §2(a)(3), Sept. 30, 2010, 124 Stat. 2621; Pub. L. 114–285, §2(a), Dec. 16, 2016, 130 Stat. 1453; Pub. L. 115–278, §2(g)(5)(A), Nov. 16, 2018, 132 Stat. 4178.)
+(Pub. L. 107–296, title VIII, §884, Nov. 25, 2002, 116 Stat. 2247; Pub. L. 111–245, §2(a)(3), Sept. 30, 2010, 124 Stat. 2621; Pub. L. 114–285, §2(a), Dec. 16, 2016, 130 Stat. 1453; Pub. L. 115–278, §2(g)(5)(A), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 117–263, div. G, title LXXI, §7143(c)(2), Dec. 23, 2022, 136 Stat. 3662.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(4)(A)(ii). Pub. L. 117–263 substituted "Director of the Cybersecurity and Infrastructure Security Agency" for "Director of Cybersecurity and Infrastructure Security".
 
 <b>2018</b>—Subsec. (d)(4)(A)(ii). Pub. L. 115–278 substituted "Director of Cybersecurity and Infrastructure Security" for "Under Secretary responsible for overseeing critical infrastructure protection, cybersecurity, and other related programs of the Department".
 
@@ -267,6 +269,10 @@ No funds are authorized to carry out this section. This section shall be carried
 #### Change of Name
 
 Government Printing Office redesignated Government Publishing Office. See section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
+
+#### Rule of Construction
+
+Nothing in amendment made by Pub. L. 117–263 to be construed to alter the authorities, responsibilities, functions, or activities of any agency (as such term is defined in 44 U.S.C. 3502) or officer or employee of the United States on or before Dec. 23, 2022, see section7143(f)(1) of Pub. L. 117–263, set out in a note under section 650 of this title.
 
 #### Standards for Measuring and Assessing the Quality and Effectiveness of Federal Law Enforcement Training
 

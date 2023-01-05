@@ -38,7 +38,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 #### (1) In general
 
-&emsp;In accordance with paragraph (4), the Administrator may impose on users such reasonable service fees as the Administrator determines to be necessary to pay costs incurred in developing, operating, maintaining, and upgrading the system, including any costs incurred in collecting and processing data from any paper manifest submitted to the system after the date on which the system enters operation.
+&emsp;In accordance with paragraph (4), the Administrator may impose on users such reasonable service fees as the Administrator determines to be necessary to pay costs incurred in developing, operating, maintaining, and upgrading the system, including any costs incurred in collecting and processing data from any paper manifest submitted to the systemafter the date on which the system enters operation.
 
 #### (2) Collection of fees
 
@@ -270,7 +270,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 #### (h) Requirement of compliance with respect to certain States
 
-In any case in which the State in which waste is generated, or the State in which waste will betransported to a designated facility, requires that the waste be tracked through a hazardous waste manifest, the designated facility that receives the waste shall, regardless of the State in which the facility is located—
+In any case in which the State in which waste is generated, or the State in which waste will be transported to a designated facility, requires that the waste be tracked through a hazardous waste manifest, the designated facility that receives the waste shall, regardless of the State in which the facility is located—
 
 &emsp;(1) complete the facility portion of the applicable manifest;
 

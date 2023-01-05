@@ -66,7 +66,7 @@ Composition.—The membership of the Advisory Committee shall consist of individ
 
 &emsp;&emsp;(C)
 
-Representation.—The membership of the Advisory Committee shall include representatives of air carriers, all-cargo air transportation, indirect air carriers, labor organizations representing air carrier employees, labor organizations representing transportation security officers, aircraft manufacturers, airport operators, airport construction and maintenance contractors, labor organizations representing employeesof airport construction and maintenance contractors, general aviation, privacy organizations, the travel industry, airport-based businesses (including minority-owned small businesses), businesses that conduct security screening operations at airports, aeronautical repair stations, passenger advocacy groups, the aviation security technology industry (including screening technology and biometrics), victims of terrorist acts against aviation, and law enforcement and security experts.
+Representation.—The membership of the Advisory Committee shall include representatives of air carriers, all-cargo air transportation, indirect air carriers, labor organizations representing air carrier employees, labor organizations representing transportation security officers, aircraft manufacturers, airport operators, airport construction and maintenance contractors, labor organizations representing employees of airport construction and maintenance contractors, general aviation, privacy organizations, the travel industry, airport-based businesses (including minority-owned small businesses), businesses that conduct security screening operations at airports, aeronautical repair stations, passenger advocacy groups, the aviation security technology industry (including screening technology and biometrics), victims of terrorist acts against aviation, and law enforcement and security experts.
 
 &emsp;(2)
 
@@ -150,7 +150,9 @@ Subject Matter Experts.—Each subcommittee under this section shall include sub
 
 (f)
 
-Nonapplicability of FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee and its subcommittees.
+Nonapplicability of Chapter 10
+
+of Title 5.—Chapter 10 of title 5 shall not apply to the Advisory Committee and its subcommittees.
 
 (g)
 
@@ -176,15 +178,13 @@ In general.—The term "perimeter security" means procedures or systems to monit
 
 Inclusions.—The term "perimeter security" includes the fence area surrounding an airport, access gates, and access controls.
 
-(Added Pub. L. 113–238, §2(a), Dec. 18, 2014, 128 Stat. 2842; amended Pub. L. 114–190, title III, §3411, July 15, 2016, 130 Stat. 662; Pub. L. 115–254, div. K, title I, §1991(d)(37), Oct. 5, 2018, 132 Stat. 3641.)
+(Added Pub. L. 113–238, §2(a), Dec. 18, 2014, 128 Stat. 2842; amended Pub. L. 114–190, title III, §3411, July 15, 2016, 130 Stat. 662; Pub. L. 115–254, div. K, title I, §1991(d)(37), Oct. 5, 2018, 132 Stat. 3641; Pub. L. 117–286, §4(a)(317), Dec. 27, 2022, 136 Stat. 4340.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–286 substituted "Chapter 10 of Title 5" for "FACA" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2018</b>—Pub. L. 115–254, §1991(d)(37)(B), substituted "Administrator" for "Assistant Secretary" wherever appearing.
 

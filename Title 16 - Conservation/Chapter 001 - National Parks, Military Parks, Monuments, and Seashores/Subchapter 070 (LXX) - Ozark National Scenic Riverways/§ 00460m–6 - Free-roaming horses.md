@@ -6,7 +6,7 @@ The Secretary, in accordance with this section, shall allow free-roaming horses 
 
 #### (b) Removal of horses
 
-The Secretary may not remove, or assist in, or permit the removal of any free-roaming horsesfrom Federal lands within the boundary of the Ozark National Scenic Riverways unless—
+The Secretary may not remove, or assist in, or permit the removal of any free-roaming horses from Federal lands within the boundary of the Ozark National Scenic Riverways unless—
 
 &emsp;(1) the entity with whom the Secretary has entered into the agreement under subsection (a), following notice and a 90-day response period, substantially fails to meet the terms and conditions of the agreement;
 

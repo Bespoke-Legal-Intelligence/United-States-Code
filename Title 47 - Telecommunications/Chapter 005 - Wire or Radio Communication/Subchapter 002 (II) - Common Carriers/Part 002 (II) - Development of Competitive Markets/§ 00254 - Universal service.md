@@ -74,7 +74,7 @@ After the date on which Commission regulations implementing this section take ef
 
 #### (f) State authority
 
-A State may adopt regulations not inconsistent with the Commission's rules to preserve and advance universal service. Every telecommunications carrier that provides intrastate telecommunications services shall contribute, on an equitable and nondiscriminatory basis, in a manner determined by the State to the preservation and advancement of universal service in that State. A State may adopt regulations to provide for additional definitions and standards to preserve and advance universal service within that State only to the extent that such regulations adopt additional specific, predictable, and sufficient mechanisms to support such definitions or standards that do not rely on or burden Federal universal service support mechanisms.
+A State may adopt regulations not inconsistent with the Commission's rules to preserve and advance universal service. Every telecommunications carrier that provides intrastate telecommunications services shall contribute, on an equitable and nondiscriminatory basis, in a manner determined by the State to the preservation and advancement of universal service inthat State. A State may adopt regulations to provide for additional definitions and standards to preserve and advance universal service within that State only to the extent that such regulations adopt additional specific, predictable, and sufficient mechanisms to support such definitions or standards that do not rely on or burden Federal universal service support mechanisms.
 
 #### (g) Interexchange and interstate services
 
@@ -86,7 +86,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 #### (A) Health care providers for rural areas
 
-&emsp;&emsp;A telecommunications carrier shall, upon receiving a bona fide request, provide telecommunications services which are necessary for the provision of health care services in a State, including instruction relating to such services, to any public or nonprofit health care provider that serves persons who reside in rural areas in that State at rates that are reasonably comparable to rates charged for similar services in urban areas in that State. A telecommunications carrier providing service under this paragraph shall be entitled to have an amountequal to the difference, if any, between the rates for services provided to health care providers for rural areas in a State and the rates for similar services provided to other customers in comparable rural areas in that State treated as a service obligation as a part of its obligation to participate in the mechanisms to preserve and advance universal service.
+&emsp;&emsp;A telecommunications carrier shall, upon receiving a bona fide request, provide telecommunications services which are necessary for the provision of health care services in a State, including instruction relating to such services, to any public or nonprofit health care provider that serves persons who reside in rural areas in that State at rates that are reasonably comparable to rates charged for similar services in urban areas in that State. A telecommunications carrier providing service under this paragraph shall be entitled to have an amount equal to the difference, if any, between the rates for services provided to health care providers for rural areas in a State and the rates for similar services provided to other customers in comparable rural areas in that State treated as a service obligation as a part of its obligation to participate in the mechanisms to preserve and advance universal service.
 
 #### (B) Educational providers and libraries
 
@@ -148,7 +148,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;&emsp;(ii) is enforcing the operation of such technology protection measure during any use of such computers by minors; and
 
-&emsp;&emsp;&emsp;(iii) as part of its Internet safety policy is educating minors about appropriate online behavior, including interacting with other individuals on social networkingwebsites and in chat rooms and cyberbullying awareness and response.
+&emsp;&emsp;&emsp;(iii) as part of its Internet safety policy is educating minors about appropriate online behavior, including interacting with other individuals on social networking websites and in chat rooms and cyberbullying awareness and response.
 
 #### (C) Certification with respect to adults
 
@@ -190,7 +190,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) for the second program year after the effective date of this subsection in which it is applying for funds under this subsection, shall certify that it is in compliance with subparagraphs (B) and (C).
 
-> &emsp;&emsp;&emsp;&emsp;Any school that is unable to certify compliance with such requirements in such second program year shall be ineligible for services at discount rates or funding in lieu of services at such rates under this subsection for such second year and all subsequent program years under this subsection, until such time as such school comes into compliance with this paragraph.
+> &emsp;&emsp;&emsp;&emsp;Any school that is unable to certify compliance with such requirements in such second program year shall be ineligible for services at discount rates or funding in lieu of services at such rates under this subsection for such second year andall subsequent program years under this subsection, until such time as such school comes into compliance with this paragraph.
 
 #### (III) Waivers
 
@@ -368,7 +368,7 @@ Within 6 months after February 8, 1996, the Commission shall adopt rules to requ
 
 &emsp;&emsp;&emsp;(i) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion;
 
-&emsp;&emsp;&emsp;(ii) depicts, describes, or represents, in a patently offensive way with respect towhat is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and
+&emsp;&emsp;&emsp;(ii) depicts, describes, or represents, in a patently offensive way with respect to what is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and
 
 &emsp;&emsp;&emsp;(iii) taken as a whole, lacks serious literary, artistic, political, or scientific value as to minors.
 
@@ -424,7 +424,7 @@ A telecommunications carrier may not use services that are not competitive to su
 
 #### (3) Availability for review
 
-&emsp;Each Internet safety policy adopted under this subsection shall be made available to the Commission, upon request of the Commission, by the school, school board, local educational agency, library, or other authority responsible for adopting such Internet safety policy for purposes of the review of such Internet safety policy by the Commission.
+&emsp;Each Internet safety policy adopted under this subsection shall be made available to the Commission, upon request of the Commission, by the school, school board, local educational agency, library, or other authority responsible for adopting such Internet safety policy forpurposes of the review of such Internet safety policy by the Commission.
 
 #### (4) Effective date
 
@@ -508,7 +508,7 @@ Pub. L. 114–182, title II, §202(b), June 22, 2016, 130 Stat. 512, provided th
 
 #### Separability
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: "If any provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 \[47 U.S.C. 254(h)\], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby."
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that: "Ifany provision of paragraph (5) or (6) of section 254(h) of the Communications Act of 1934 \[47 U.S.C. 254(h)\], as amended by this section, or the application thereof to any person or circumstance is held invalid, the remainder of such paragraph and the application of such paragraph to other persons or circumstances shall not be affected thereby."
 
 #### Funding for E-Rate Support for Emergency Educational Connections and Devices
 
@@ -656,7 +656,7 @@ Evaluation of applications.—
 
 &emsp;&emsp;"(A)
 
-Public notice.—Not later than 10 days after the date of enactment of this Act \[Dec. 27, 2020\], the Commission shall issue a Public Notice establishing a 10-day period during which the Commission will seek comments on—
+Public notice.—Not later than 10 days after the date of enactment of this Act \[Dec. 27, 2020\], theCommission shall issue a Public Notice establishing a 10-day period during which the Commission will seek comments on—
 
 &emsp;&emsp;&emsp;"(i) the metrics the Commission should use to evaluate applications for funding under this section; and
 
@@ -768,7 +768,7 @@ Three-Judge District Court Hearing.—Notwithstanding any other provision of law
 
 "(b)
 
-Appellate Review.—Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under subsection (a) holding this title or an amendment made by this title, or any provision thereof, unconstitutional shall be reviewable as a matter of right by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order."
+Appellate Review.—Notwithstanding any other provision of law, an interlocutory or final judgment, decree, or order of the court of three judges in an action under subsection (a) holding this title or an amendment made by this title, or any provision thereof, unconstitutional shall be reviewable as a matter ofright by direct appeal to the Supreme Court. Any such appeal shall be filed not more than 20 days after entry of such judgment, decree, or order."
 
 #### Universal Service Fund Payment Schedule
 

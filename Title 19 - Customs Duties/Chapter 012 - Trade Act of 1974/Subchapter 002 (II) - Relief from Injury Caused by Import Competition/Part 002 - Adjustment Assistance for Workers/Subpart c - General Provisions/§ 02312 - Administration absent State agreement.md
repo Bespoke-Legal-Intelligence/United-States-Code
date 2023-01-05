@@ -2,7 +2,7 @@
 
 #### (a) Promulgation of regulations; fair hearing
 
-In any State where there is no agreement in force between a State or its agency under section 2311 of this title, the Secretary shall arrange under regulations prescribed by him forperformance of all necessary functions under subpart B of this part, including provision for a fair hearing for any worker whose application for payments is denied.
+In any State where there is no agreement in force between a State or its agency under section 2311 of this title, the Secretary shall arrange under regulations prescribed by him for performance of all necessary functions under subpart B of this part, including provision for a fair hearing for any worker whose application for payments is denied.
 
 #### (b) Review of final determination
 
@@ -14,5 +14,5 @@ A final determination under subsection (a) with respect to entitlement to progra
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after June 30, 2022, except as otherwise provided, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.
 

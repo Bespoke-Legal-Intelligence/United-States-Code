@@ -42,7 +42,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (ii) Notice and opportunity to provide missing information
 
-&emsp;&emsp;&emsp;Before imposing a reduction under clause (i) on the basis of a hospital's failure to provide information described in clause (i)(II), the Secretary shall provide notice to the hospital of such failure and the Secretary's intention to impose such reduction and shall provide the hospital with the opportunity to provide the required information within a period of 30 days beginning on the date of such notice. If the hospital provides such information within such period, no reduction shall be made under clause (i) on the basis of the previous failure to provide such information.
+&emsp;&emsp;&emsp;Before imposing a reduction under clause (i) on the basis of a hospital's failure to provide information described in clause (i)(II), the Secretary shall provide notice to the hospital of such failure andthe Secretary's intention to impose such reduction and shall provide the hospital with the opportunity to provide the required information within a period of 30 days beginning on the date of such notice. If the hospital provides such information within such period, no reduction shall be made under clause (i) on the basis of the previous failure to provide such information.
 
 #### (B) Annual report
 
@@ -56,7 +56,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 &emsp;&emsp;&emsp;(iv) The changes in residency training for residents described in subparagraph (C) which the hospital has made during such residency academic year (except that the first report submitted by the hospital under this subparagraph shall be for such changes since the first year in which the hospital received payment under this section), including—
 
-&emsp;&emsp;&emsp;&emsp;(I) changes in curricula, training experiences, and types of training programs,and benefits that have resulted from such changes; and
+&emsp;&emsp;&emsp;&emsp;(I) changes in curricula, training experiences, and types of training programs, and benefits that have resulted from such changes; and
 
 &emsp;&emsp;&emsp;&emsp;(II) changes for purposes of training the residents in the measurement and improvement of the quality and safety of patient care.
 
@@ -208,7 +208,7 @@ In this section:
 
 #### (2) Children's hospital
 
-&emsp;The term "children's hospital" means a hospital with a Medicare payment agreement andwhich is excluded from the Medicare inpatient prospective payment system pursuant to section 1395ww(d)(1)(B)(iii) of this title and its accompanying regulations.
+&emsp;The term "children's hospital" means a hospital with a Medicare payment agreement and which is excluded from the Medicare inpatient prospective payment system pursuant to section 1395ww(d)(1)(B)(iii) of this title and its accompanying regulations.
 
 #### (3) Direct graduate medical education costs
 
@@ -258,7 +258,7 @@ In this section:
 
 #### (B) Quality bonus system
 
-&emsp;&emsp;For purposes of distributing the remaining amounts described in subparagraph (A), the Secretary may establish a quality bonus system, whereby the Secretary distributes bonus payments to hospitals participating in the program under this subsection or subsection (a) that meet standards specified by the Secretary, which may include a focus on quality measurement and improvement, interpersonal and communications skills, delivering patient-centered care, and practicing in integrated health systems, including training in community-based settings. In developing such standards, the Secretary shall collaborate with relevant stakeholders, including program accrediting bodies, certifying boards, training programs, health care organizations, health care purchasers, and patient and consumer groups.
+&emsp;&emsp;For purposes of distributing the remaining amounts described in subparagraph (A), the Secretary may establish a quality bonus system, whereby the Secretary distributesbonus payments to hospitals participating in the program under this subsection or subsection (a) that meet standards specified by the Secretary, which may include a focus on quality measurement and improvement, interpersonal and communications skills, delivering patient-centered care, and practicing in integrated health systems, including training in community-based settings. In developing such standards, the Secretary shall collaborate with relevant stakeholders, including program accrediting bodies, certifying boards, training programs, health care organizations, health care purchasers, and patient and consumer groups.
 
 (July 1, 1944, ch. 373, title III, §340E, as added Pub. L. 106–129, §4, Dec. 6, 1999, 113 Stat. 1671; amended Pub. L. 106–310, div. A, title XX, §2001, Oct. 17, 2000, 114 Stat. 1155; Pub. L. 108–490, §1(a), Dec. 23, 2004, 118 Stat. 3972; Pub. L. 109–307, §2, Oct. 6, 2006, 120 Stat. 1721; Pub. L. 113–98, §§2, 3, Apr. 7, 2014, 128 Stat. 1140; Pub. L. 115–241, §2, Sept. 18, 2018, 132 Stat. 2892.)
 

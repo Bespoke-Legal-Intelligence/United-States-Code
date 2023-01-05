@@ -24,7 +24,7 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

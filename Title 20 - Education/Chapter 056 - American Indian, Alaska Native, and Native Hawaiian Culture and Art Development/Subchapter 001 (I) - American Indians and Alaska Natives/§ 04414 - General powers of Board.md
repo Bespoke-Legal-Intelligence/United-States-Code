@@ -18,7 +18,7 @@ In carrying out the provisions of this chapter, the Board shall have the power, 
 
 &emsp;(7) to use the United States mails on the same terms and conditions as the executive departments of the United States Government;
 
-&emsp;(8) to obtain the services of experts and consultants in accordance with the provisions ofsection 3109 of title 5 and to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
+&emsp;(8) to obtain the services of experts and consultants in accordance with the provisions of section 3109 of title 5 and to accept and utilize the services of voluntary and noncompensated personnel and reimburse them for travel expenses, including per diem, as authorized by section 5703 of title 5;
 
 &emsp;(9) to solicit, accept, and dispose of gifts, bequests, devises of money, securities, and other properties of whatever character, for the benefit of the Institute;
 
@@ -28,7 +28,7 @@ In carrying out the provisions of this chapter, the Board shall have the power, 
 
 &emsp;(12) to the extent not already provided by law, to obtain insurance to cover all activities of the Institute, including coverage relating to property and liability, or make other provisions against losses;
 
-&emsp;(13) to use any funds or property received by the Institute to carry out the purpose of this chapter, including the authority to designate on an annual basis a portion, not to exceed 10 percent, of the funds appropriated pursuant to section 4451 of this title for investment, without regard to any other provision of law regarding investment or disposition of federally appropriated funds, on a short-term basis for the purpose of maximizing yield and liquidity of such funds; and
+&emsp;(13) to use any funds or property received by the Institute to carry out the purpose of thischapter, including the authority to designate on an annual basis a portion, not to exceed 10 percent, of the funds appropriated pursuant to section 4451 of this title for investment, without regard to any other provision of law regarding investment or disposition of federally appropriated funds, on a short-term basis for the purpose of maximizing yield and liquidity of such funds; and
 
 &emsp;(14) to exercise all other lawful powers necessarily or reasonably related to the establishment of the Institute in order to carry out the provisions of this chapter and the exercise of the powers, purposes, functions, duties, and authorized activities of the Institute.
 

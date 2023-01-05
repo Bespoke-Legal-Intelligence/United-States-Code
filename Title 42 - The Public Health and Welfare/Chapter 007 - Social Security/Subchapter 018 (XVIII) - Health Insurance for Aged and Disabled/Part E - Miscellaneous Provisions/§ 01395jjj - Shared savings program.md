@@ -66,7 +66,7 @@
 
 #### (C) Quality performance standards
 
-&emsp;&emsp;The Secretary shall establish quality performance standards to assess the quality of care furnished by ACOs. The Secretary shallseek to improve the quality of care furnished by ACOs over time by specifying higher standards, new measures, or both for purposes of assessing such quality of care.
+&emsp;&emsp;The Secretary shall establish quality performance standards to assess the quality of care furnished by ACOs. The Secretary shall seek to improve the quality of care furnished by ACOs over time by specifying higher standards, new measures, or both for purposes of assessing such quality of care.
 
 #### (D) Other reporting requirements
 
@@ -94,7 +94,7 @@
 
 #### (A) Choice of prospective assignment
 
-&emsp;&emsp;For each agreement period (effective for agreements entered into or renewed on or after January 1, 2020), in the case where an ACO established under the program is in a Track that provides for the retrospective assignment of Medicare fee-for-service beneficiaries to the ACO, the Secretary shall permit the ACO to choose to have Medicare fee-for-service beneficiaries assigned prospectively, rather than retrospectively, to the ACO for an agreement period.
+&emsp;&emsp;For each agreement period (effective for agreements entered into or renewed on or after January 1, 2020), in the case where anACO established under the program is in a Track that provides for the retrospective assignment of Medicare fee-for-service beneficiaries to the ACO, the Secretary shall permit the ACO to choose to have Medicare fee-for-service beneficiaries assigned prospectively, rather than retrospectively, to the ACO for an agreement period.
 
 #### (B) Assignment based on voluntary identification by medicare fee-for-service beneficiaries
 
@@ -134,7 +134,7 @@
 
 #### (ii) Establish and update benchmark
 
-&emsp;&emsp;&emsp;The Secretary shall estimate a benchmark for each agreement period for eachACO using the most recent available 3 years of per-beneficiary expenditures for parts A and B services for Medicare fee-for-service beneficiaries assigned to the ACO. Such benchmark shall be adjusted for beneficiary characteristics and such other factors as the Secretary determines appropriate and updated by the projected absolute amount of growth in national per capita expenditures for parts A and B services under the original Medicare fee-for-service program, as estimated by the Secretary. Such benchmark shall be reset at the start of each agreement period.
+&emsp;&emsp;&emsp;The Secretary shall estimate a benchmark for each agreement period for each ACO using the most recent available 3 years of per-beneficiary expenditures for parts A and B services for Medicare fee-for-service beneficiaries assigned to the ACO. Such benchmark shall be adjusted for beneficiary characteristics and such other factors as the Secretary determines appropriate and updated by the projected absolute amount of growth in national per capita expenditures for parts A and B services under the original Medicare fee-for-service program, as estimated by the Secretary. Such benchmark shall be reset at the start of each agreement period.
 
 #### (2) Payments for shared savings
 
@@ -292,7 +292,7 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 #### (B) Scope
 
-&emsp;&emsp;An ACO Beneficiary Incentive Program established under this subsection shall provide incentive payments to all of the following Medicare fee-for-service beneficiaries whoare furnished qualifying services by the ACO:
+&emsp;&emsp;An ACO Beneficiary Incentive Program established under this subsection shall provide incentive payments to all of the following Medicare fee-for-service beneficiaries who are furnished qualifying services by the ACO:
 
 &emsp;&emsp;&emsp;(i) With respect to the Track 2 and Track 3 payment models described in section 425.600(a) of title 42, Code of Federal Regulations (or in any successor regulation), Medicare fee-for-service beneficiaries who are preliminarily prospectively or prospectively assigned (or otherwise assigned, as determined by the Secretary) to the ACO.
 
@@ -318,7 +318,7 @@ During the period beginning on March 23, 2010, and ending on the date the progra
 
 &emsp;&emsp;&emsp;(iii) made for each qualifying service furnished to such a beneficiary described in clause (i) or (ii) of subparagraph (B) during a period specified by the Secretary; and
 
-&emsp;&emsp;&emsp;(iv) made no later than 30 days after a qualifying service is furnished to such a beneficiary described in clause (i) or (ii) of subparagraph (B).
+&emsp;&emsp;&emsp;(iv) made no later than 30 days after a qualifying service is furnished to such abeneficiary described in clause (i) or (ii) of subparagraph (B).
 
 #### (E) No separate payments from the Secretary
 

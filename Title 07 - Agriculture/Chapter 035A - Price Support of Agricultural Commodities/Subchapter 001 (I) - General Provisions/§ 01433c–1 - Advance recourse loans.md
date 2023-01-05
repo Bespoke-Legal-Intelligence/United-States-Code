@@ -12,7 +12,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 &emsp;&emsp;(B) to producers of peanuts who are on a farm for which a marketing quota or poundage quota has been established on an amount of the commodity equal to one-half of the farm marketing quota or poundage quota for the commodity, as determined by the Secretary; and
 
-&emsp;&emsp;(C) to producers of other commodities on an amount of the commodity equal to one-half of the farm yield for the commoditymultiplied by the farm acreage intended to be planted to the commodity for harvest in 1986, as determined by the Secretary.
+&emsp;&emsp;(C) to producers of other commodities on an amount of the commodity equal to one-half of the farm yield for the commodity multiplied by the farm acreage intended to be planted to the commodity for harvest in 1986, as determined by the Secretary.
 
 &emsp;(3) An advance recourse loan under section 424 \[7 U.S.C. 1433c\] shall come due at such time immediately following harvest as the Secretary determines appropriate. Each loan contract entered into under section 424 shall specify the date on which the loan is to come due.
 
@@ -36,7 +36,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 #### (b) Use of Commodity Credit Corporation, Agricultural Stabilization and Conservation Service, and county committees
 
-The Secretary shall carry out the program provided for under section 424 \[7 U.S.C. 1433c\] through the Commodity Credit Corporation, using the services of the Agricultural Stabilization and Conservation Service and the county committees established under section 590h(b) of title 16 to make determinations of eligibility with respect to the credit test under subsection (a)(1), and determinations as to the sufficiency of security under subsection (a)(6). The Secretary may use such committees for such other purposes as the Secretary determines appropriate in carrying out section 424.
+The Secretary shall carry out the program provided for under section 424 \[7 U.S.C. 1433c\] through the Commodity Credit Corporation, using the services of the Agricultural Stabilization and Conservation Service and the county committees established under section 590h(b) of title 16 to make determinations of eligibility with respect to the credit test under subsection (a)(1), and determinations as to the sufficiencyof security under subsection (a)(6). The Secretary may use such committees for such other purposes as the Secretary determines appropriate in carrying out section 424.
 
 #### (c) Regulations
 
@@ -48,7 +48,7 @@ It is further the sense of Congress that the Secretary of Agriculture issue or, 
 
 #### References in Text
 
-The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Codification
 

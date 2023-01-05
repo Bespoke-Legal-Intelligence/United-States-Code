@@ -142,7 +142,7 @@ Composition.—The advisory board established under subparagraph (A) shall be co
 
 &emsp;"(6)
 
-Contributed funds.—Notwithstanding section 3302 of title 31, United States Code, the Secretary may, only to the extent provided in advance in appropriations Acts, accept or retain funds contributed by any person, government entity, or organization for purposes of carrying out this subsection. Such funds shall be available, subject to appropriation, without fiscal year limitation.
+Contributed funds.—Notwithstanding section 3302 of title 31, United States Code, the Secretary may, only to the extent provided in advance in appropriations Acts, accept or retain funds contributed byany person, government entity, or organization for purposes of carrying out this subsection. Such funds shall be available, subject to appropriation, without fiscal year limitation.
 
 &emsp;"(7)
 
@@ -166,7 +166,7 @@ Classification.—Grants shall be awarded under this subsection only for project
 
 "(b)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out this sectionnot less than $6,000,000 for each of fiscal years 2022 through 2026.
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section not less than $6,000,000 for each of fiscal years 2022 through 2026.
 
 "(c)
 
@@ -218,7 +218,7 @@ Program Authority.—If recommended as a result of the report required by subsec
 
 #### United States-Israel Cooperation To Counter Unmanned Aerial Systems
 
-Pub. L. 116–92, div. A, title XII, §1278, Dec. 20, 2019, 133 Stat. 1702, provided that:
+Pub. L. 116–92, div. A, title XII, §1278, Dec. 20, 2019, 133 Stat. 1702, as amended by Pub. L. 117–263, div. A, title XII, §1277, Dec. 23, 2022, 136 Stat. 2867, provided that:
 
 "(a)
 
@@ -226,7 +226,7 @@ Authority to Establish Capabilities to Counter Unmanned Aerial Systems.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense, upon request of the Ministry of Defense of Israel and in consultation with the Secretary of State and the Director of National Intelligence, is authorized to carry out research, development, test, and evaluation activities, on a joint basis with Israel, to establish capabilities for countering unmanned aerial systems that threaten the United States or Israel. Any activities carried out pursuant to such authority shall be conducted in a manner that appropriately protects sensitive technology and information and the national security interests of the United States and Israel.
+In general.—The Secretary of Defense, upon request of the Ministry of Defense of Israel and in consultation with the Secretary of State and the Director of National Intelligence, is authorized to carry out research, development, test, and evaluation activities, on a joint basis with Israel, to establish capabilities for countering unmanned aerial systems, including directed energy capabilities, that threaten the United States or Israel. Any activities carried out pursuant to such authority shall be conducted in a manner that appropriately protects sensitive technology and information and the national security interests of the United States and Israel.
 
 &emsp;"(2)
 
@@ -264,11 +264,11 @@ In general.—Except as provided in subparagraph (B), support may not be provide
 
 &emsp;&emsp;"(B)
 
-Exception.—Subject to paragraph (4), the Secretary may use amounts available to the Secretary in excess of the amount contributed by the Government of Israel to provide support under this subsection for costs associated with any unique national requirement identified by the United States with respect to countering unmanned aerial systems.
+Exception.—Subject to paragraph (4), the Secretary may use amounts available to the Secretary in excess of the amount contributed by the Government of Israel to provide support under this subsection for costs associated with any unique national requirement identified by the United States with respect to countering unmanned aerial systems, including directed energy capabilities.
 
 &emsp;"(4)
 
-Annual limitation on amount.—The amount of support provided under this subsection in any year may not exceed $25,000,000.
+Annual limitation on amount.—The amount of support provided under this subsection in any year may not exceed $40,000,000.
 
 &emsp;"(5)
 
@@ -292,7 +292,7 @@ Appropriate Committees of Congress Defined.—In this section, the term 'appropr
 
 "(f)
 
-Sunset.—The authority in this section to carry out activities described in subsection (a), and to provide support described in subsection (b), shall expire on December 31, 2024."
+Sunset.—The authority in this section to carry out activities described in subsection (a), and to provide support described in subsection (b), shall expire on December 31, 2026."
 
 #### United States-Israel Anti-Tunnel Cooperation
 

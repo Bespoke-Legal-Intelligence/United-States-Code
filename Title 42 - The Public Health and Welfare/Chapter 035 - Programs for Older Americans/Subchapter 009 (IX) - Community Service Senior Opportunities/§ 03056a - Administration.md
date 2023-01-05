@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(B) any recommendations for redistribution of positions to underserved areas as vacancies occur in previously encumbered positions in other areas; and
 
-&emsp;&emsp;(C) in the case of any increase in funding that may be available for use in the State under this subchapter for the fiscal year, any recommendations for distribution of newly available positions in excess of those available during the preceding year to underserved areas.
+&emsp;&emsp;(C) in the case of any increase in funding that may be available for use in the Stateunder this subchapter for the fiscal year, any recommendations for distribution of newly available positions in excess of those available during the preceding year to underserved areas.
 
 #### (6) Combined State plan
 
@@ -178,7 +178,7 @@ Another prior section 503 of Pub. L. 89–73 was classified to section 3041b of 
 
 <b>2016</b>—Subsec. (a)(3). Pub. L. 114–144, §6(b)(1)(B), substituted "paragraph (8)" for "paragraph (7)".
 
-Subsec. (a)(4)(F). Pub. L. 114–144, §6(b)(1)(C), added subpar. (F) and struck out former subpar. (F) which read as follows: "plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act."
+Subsec. (a)(4)(F). Pub. L. 114–144, §6(b)(1)(C), added subpar. (F) and struck out former subpar. (F) whichread as follows: "plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Innovation and Opportunity Act."
 
 Subsec. (a)(6). Pub. L. 114–144, §6(b)(1)(D), added par. (6). Former par. (6) redesignated (7).
 

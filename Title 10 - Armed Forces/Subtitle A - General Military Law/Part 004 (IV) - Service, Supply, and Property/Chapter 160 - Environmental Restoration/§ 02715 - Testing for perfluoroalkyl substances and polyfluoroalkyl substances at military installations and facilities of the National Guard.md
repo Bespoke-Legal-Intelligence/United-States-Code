@@ -40,7 +40,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 #### Public Disclosure of Results of Department of Defense Testing of Water for Perfluoroalkyl or Polyfluoroalkyl Substances
 
-Pub. L. 117–81, div. A, title III, §345, Dec. 27, 2021, 135 Stat. 1645, provided that:
+Pub. L. 117–81, div. A, title III, §345, Dec. 27, 2021, 135 Stat. 1645, as amended by Pub. L. 117–263, div. A, title III, §344, Dec. 23, 2022, 136 Stat. 2530, provided that:
 
 "(a)
 
@@ -56,7 +56,7 @@ In general.—Except as provided in paragraph (2), not later than 20 days after 
 
 &emsp;"(2)
 
-Consent by private property owners.—The Secretary of Defense may not publicly disclose the results of testing for perfluoroalkyl or polyfluoroalkyl substances conducted on private property without the consent of the property owner.
+Consent by private property owners.—The Secretary of Defense may not publicly disclose personally identifiable information in connection with the results of testing for perfluoroalkyl or polyfluoroalkyl substances conducted on private property without the consent of the property owner.
 
 "(b)
 

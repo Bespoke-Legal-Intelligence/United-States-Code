@@ -68,7 +68,7 @@ Pub. L. 115–407, title V, §502, Dec. 31, 2018, 132 Stat. 5376, provided that:
 
 #### Oversight of Electronic Health Record Modernization Program
 
-Pub. L. 115–407, title V, §503, Dec. 31, 2018, 132 Stat. 5376, provided that:
+Pub. L. 115–407, title V, §503, Dec. 31, 2018, 132 Stat. 5376, as amended by Pub. L. 117–154, §2(a), June 23, 2022, 136 Stat. 1303, provided that:
 
 "(a)
 
@@ -132,7 +132,7 @@ Quarterly Updates.—Not later than 30 days after the end of each fiscal quarter
 
 "(c)
 
-Contracts.—Not later than 5 days after awarding a contract, order, or agreement, including any modifications thereto, under the Electronic Health Record Modernization Program, the Secretary shall submit to the appropriate congressional committees a copy of the entire such contract, order, agreement, or modification.
+Contracts.—Not later than 5 days after awarding a contract, order, or agreement, including anymodifications thereto, under the Electronic Health Record Modernization Program, the Secretary shall submit to the appropriate congressional committees a copy of the entire such contract, order, agreement, or modification.
 
 "(d)
 
@@ -162,6 +162,36 @@ Event described.—An event described in this paragraph is any of the following 
 
 "(e)
 
+Quarterly Reports.—
+
+&emsp;"(1)
+
+Reports on costs of ehrm program.—Not later than 90 days after the date of the enactment of the VA Electronic Health Record Transparency Act of 2021 \[June 23, 2022\], and every 30 days after the last day of each fiscal quarter thereafter until the termination date specified in paragraph (3), the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the costs of the Electronic Health Record Modernization program of the Department of Veterans Affairs. Each such report shall include, for the period covered by the report and for the total period beginning on the date of the enactment of the VA Electronic Health Record Transparency Act of 2021 and ending on the date of the submittal of the report, a description of all actual expenses of, and driven by, such program, including any such expenses paid using—
+
+&emsp;&emsp;"(A) any funds appropriated for the Department of Veterans Affairs, for any source or account, expended by any organizational element of the Department or by the Federal Electronic Health Record Modernization Office for the Electronic Health Record Modernization Program;
+
+&emsp;&emsp;"(B) any funds, from any source or account, expended by any organizational element of the Department for physical or technology infrastructure modifications, enhancements, improvements, or expansions at a facility of the Department necessitated by, or related or pertaining to, the Electronic Health Record Modernization Program; and
+
+&emsp;&emsp;"(C) any funds, from any source or account, expended by any organizational element of the Department or by the Federal Electronic Health Record Modernization Office for consultants, support contractors, or experts related or pertaining to the Electronic Health Record Modernization Program.
+
+&emsp;"(2)
+
+Reports on performance metrics and outcomes.—Not later than 90 days after the date of the enactment of the VA Electronic Health Record Transparency Act of 2021, and every 30 days after the last day of each fiscal quarter thereafter until the termination date specified in paragraph (3), the Secretary of Veterans Affairs shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the performance metrics and outcomes of the Electronic Health Record Modernization Program. Each such report shall include, for the period covered by the report—
+
+&emsp;&emsp;"(A) a list of the quality, performance, safety, or value metrics, key performance indicators, and other diagnostic or evaluation criteria in use to assess the Electronic Health Record Modernization Program and the electronic health record system, in general and at individual facilities, with respect to veterans, employees of the Department, and Departmental operations;
+
+&emsp;&emsp;"(B) an explanation of any change to any of such metrics, indicators, and criteria compared to the metrics, indicators, and criteria included in any previous report submitted under this paragraph;
+
+&emsp;&emsp;"(C) the data supporting or demonstrating each such metric, indicator, and criteria compared to the data supporting or demonstrating such metric, indicator, or criteria as included in the previous report submitted under this paragraph; and
+
+&emsp;&emsp;"(D) a list of patient safety reports, incidents, alerts, or disclosures at each facility of the Department where the electronic health record system has been implemented.
+
+&emsp;"(3)
+
+Termination date.—The requirement to submit a report under paragraph (1) shall terminate on the date that is 90 days after the date on which the Secretary submits to the Committees on Veterans' Affairs of the Senate and House of Representatives certification that the Electronic Health Record Modernization program has been fully implemented.
+
+"(f)
+
 Definitions.—In this section:
 
 &emsp;"(1) The term 'appropriate congressional committees' means—
@@ -174,23 +204,33 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(A) any activities by the Department of Veterans Affairs to procure or implement an electronic health or medical record system to replace any or all of the Veterans Information Systems and Technology Architecture, the Computerized Patient Record System, the Joint Legacy Viewer, or the Enterprise Health Management Platform; and
 
-&emsp;&emsp;"(B) any contracts or agreements entered into by the Secretary of Veterans Affairs to carry out, support, or analyze the activities under subparagraph (A)."
+&emsp;&emsp;"(B) any contracts or agreements entered into by the Secretary of Veterans Affairs to carry out, support, or analyze the activities under subparagraph (A).
+
+&emsp;"(3) The term 'electronic health record system' means the electronic health record system implemented pursuant to the Electronic Health Record Modernization Program.
+
+&emsp;"(4) The term 'Federal Electronic Health Record Management Office' means the office established under section 1635(b) of the Wounded Warrior Act (title XVI of Public Law 110–181; 10 U.S.C. 1071 note).
+
+&emsp;"(5) The term 'facility of the Department' includes a joint facility of the Department of Veterans Affairs and the Department of Defense."
 
 #### Discontinuation of Use of Social Security Numbers To Identify Individuals in Department of Veterans Affairs Information Systems
 
-Pub. L. 116–260, div. J, title II, §237, Dec. 27, 2020, 134 Stat. 1681, provided that:
+Pub. L. 117–328, div. J, title II, §237, Dec. 29, 2022, 136 Stat. 4965, provided that:
 
 "(a) Except as provided in subsection (b), the Secretary of Veterans Affairs, in consultation with the Secretary of Defense and the Secretary of Labor, shall discontinue using Social Security account numbers to identify individuals in all information systems of the Department of Veterans Affairs as follows:
 
-&emsp;"(1) For all veterans submitting to the Secretary of Veterans Affairs new claims for benefits under laws administered by the Secretary, not later than March 23, 2023.
+&emsp;"(1) For all veterans submitting to the Secretary of Veterans Affairs new claims for benefits under lawsadministered by the Secretary, not later than March 23, 2023.
 
 &emsp;"(2) For all individuals not described in paragraph (1), not later than March 23, 2026.
 
 "(b) The Secretary of Veterans Affairs may use a Social Security account number to identify an individual in an information system of the Department of Veterans Affairs if and only if the use of such number is required to obtain information the Secretary requires from an information system that is not under the jurisdiction of the Secretary.
 
-"(c) The matter in subsections (a) and (b) shall supersede section 238 of \[div. F of\] Public Law 116–94 \[see below\]."
+"(c) The matter in subsections (a) and (b) shall supersede section 238 of division F of Public Law 116–94 \[see below\]."
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 117–103, div. J, title II, §237, Mar. 15, 2022, 136 Stat. 556.
+
+Pub. L. 116–260, div. J, title II, §237, Dec. 27, 2020, 134 Stat. 1681.
 
 Pub. L. 116–94, div. F, title II, §238, Dec. 20, 2019, 133 Stat. 2804.
 

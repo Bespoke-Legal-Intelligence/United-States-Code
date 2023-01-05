@@ -20,7 +20,7 @@ The Commissioner of Social Security may enter into an agreement with any State (
 
 #### (c) Special disposition of administration fees
 
-Administration fees, upon collection, shall be credited to a special fund established in the Treasury of the United States for State recognition payments for certain World War II veterans. The amounts so credited, to the extent and in the amounts provided in advance in appropriations Acts, shall be available to defray expenses incurred in carrying out this subchapter.
+Administration fees, upon collection, shall be credited to a special fund established in theTreasury of the United States for State recognition payments for certain World War II veterans. The amounts so credited, to the extent and in the amounts provided in advance in appropriations Acts, shall be available to defray expenses incurred in carrying out this subchapter.
 
 (Aug. 14, 1935, ch. 531, title VIII, §810A, as added Pub. L. 106–554, §1(a)(1) \[title V, §518(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–73.)
 

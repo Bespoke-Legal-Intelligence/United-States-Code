@@ -84,7 +84,7 @@ In addition to the report required by subsection (a), the President, at the time
 
 &emsp;(ii) If an office of the Inspector General has been established at the United Nations, a discussion of whether the Inspector General is keeping the Secretary General and the members of the General Assembly fully informed about problems, deficiencies, the necessity for corrective action, and the progress of corrective action.
 
-&emsp;(iii) For purposes of this subparagraph, the term "office of the Inspector General" means an independent office (or other independent entity) established by the United Nations to conduct and supervise objective audits, inspections, and investigations relating to the programs and operations of the United Nations.
+&emsp;(iii) For purposes of this subparagraph, the term "office of the Inspector General" means an independent office (or other independent entity) established by the United Nations toconduct and supervise objective audits, inspections, and investigations relating to the programs and operations of the United Nations.
 
 &emsp;(B) A description of the status of efforts to reduce the United States peacekeeping assessment rate.
 

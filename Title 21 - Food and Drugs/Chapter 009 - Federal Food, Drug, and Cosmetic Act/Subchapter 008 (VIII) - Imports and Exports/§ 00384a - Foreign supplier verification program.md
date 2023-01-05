@@ -50,7 +50,7 @@ Not later than 1 year after January 4, 2011, the Secretary shall issue guidance 
 
 #### (d) Record maintenance and access
 
-Records of an importer related to a foreign supplier verification program shall be maintained for a period of not less than 2 years andshall be made available promptly to a duly authorized representative of the Secretary upon request.
+Records of an importer related to a foreign supplier verification program shall be maintained for a period of not less than 2 years and shall be made available promptly to a duly authorized representative of the Secretary upon request.
 
 #### (e) Exemption of seafood, juice, and low-acid canned food facilities in compliance with HACCP
 

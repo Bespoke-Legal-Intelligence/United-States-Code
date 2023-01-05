@@ -22,7 +22,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 &emsp;(ii) 10 percent for Flue-cured tobacco from the 1982 through 1984 crops.
 
-(B) The purchasers of the stocks of Flue-cured tobacco from the 1976 through 1984 crops shall pay the full carrying charges that have accrued to such tobacco from the date of the offer made under this section to the date that such tobacco is removed from the inventory of the association.
+(B) The purchasers of the stocks of Flue-cured tobacco from the 1976 through 1984 crops shallpay the full carrying charges that have accrued to such tobacco from the date of the offer made under this section to the date that such tobacco is removed from the inventory of the association.
 
 (2)(A) The stocks of Burley tobacco from the 1982 crop shall be offered for sale at the listed base price in effect as of July 1, 1985.
 
@@ -128,7 +128,7 @@ The limitations on disclosure set forth in subsections (c) and (d) of section 13
 
 #### References in Text
 
-This subtitle, referred to in subsecs. (c)(3) and (d)(2)(A)(ii), is subtitle B (§§1101–1112) of title I of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 83, which enacted sections 1314g, 1314h, and 1445–3 of this title, amended sections 511d, 1301, 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacted provisions set out asnotes under sections 1301, 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title. For complete classification of this subtitle to the Code, see Tables.
+This subtitle, referred to in subsecs. (c)(3) and (d)(2)(A)(ii), is subtitle B (§§1101–1112) of title I of Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 83, which enacted sections 1314g, 1314h, and 1445–3 of this title, amended sections 511d, 1301, 1312, 1314c, 1314e, 1372, 1445, 1445–1, and 1445–2 of this title, and enacted provisions set out as notes under sections 1301, 1314c, 1314e, 1314g, 1314h, 1372, 1445, 1445–1, and 1445–2 of this title. For complete classification of this subtitle to the Code, see Tables.
 
 Section 1314g of this title, referred to in subsec. (e), was repealed by Pub. L. 108–357, title VI, §611(a), Oct. 22, 2004, 118 Stat. 1522.
 

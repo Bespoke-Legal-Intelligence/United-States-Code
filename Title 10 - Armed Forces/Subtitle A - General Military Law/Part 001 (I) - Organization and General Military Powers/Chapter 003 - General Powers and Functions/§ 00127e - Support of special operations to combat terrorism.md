@@ -32,7 +32,7 @@ Notification.—
 
 &emsp;(1)
 
-In general.—Not later than 15 days before exercising the authority in this section to make funds available to initiate support of anapproved military operation or changing the scope or funding level of any support for such an operation by $1,000,000 or an amount equal to 20 percent of such funding level (whichever is less), or not later than 48 hours after exercising such authority if the Secretary determines that extraordinary circumstances that impact the national security of the United States exist, the Secretary shall notify the congressional defense committees of the use of such authority with respect to that operation. Any such notification shall be in writing.
+In general.—Not later than 15 days before exercising the authority in this section to make funds available to initiate support of an approved military operation or changing the scope or funding level of any support for such an operation by $1,000,000 or an amount equal to 20 percent of such funding level (whichever is less), or not later than 48 hours after exercising such authority if the Secretary determines that extraordinary circumstances that impact the national security of the United States exist, the Secretary shall notify the congressional defense committees of the use of such authority with respect to that operation. Any such notification shall be in writing.
 
 &emsp;(2)
 
@@ -48,7 +48,7 @@ Elements.—A notification required by this subsection shall include the followi
 
 &emsp;&emsp;(E) A detailed description of the legal and operational authorities related to the authorized ongoing operation, including relevant execute orders issued by the Secretary of Defense and combatant commanders related to the authorized ongoing operation, including an identification of operational activities United States Special Operations Forces are authorized to conduct under such execute orders.
 
-&emsp;&emsp;(F) The duration for which the support is expected to be provided and an identification of the timeframe in which the provision of support will be reviewed by the combatant commander for a determination regarding the necessity of continuation of support.
+&emsp;&emsp;(F) The duration for which the support is expected to be provided and an identification of the timeframe in which the provision of support will be reviewed by the combatantcommander for a determination regarding the necessity of continuation of support.
 
 &emsp;&emsp;(G) A description of the entities with which the recipients of support are engaged in hostilities and whether each such entity is covered under an authorization for use of military force.
 
@@ -112,7 +112,7 @@ Elements.—Each report required by this subsection shall include, for the perio
 
 &emsp;&emsp;(B) A description of the support or facilitation provided by such foreign forces, irregular forces, groups, or individuals to United States special operations forces.
 
-&emsp;&emsp;(C) The type of recipients that were provided support under this section, identifiedby authorized category (foreign forces, irregular forces, groups, or individuals).
+&emsp;&emsp;(C) The type of recipients that were provided support under this section, identified by authorized category (foreign forces, irregular forces, groups, or individuals).
 
 &emsp;&emsp;(D) The total amount obligated for support under this section, including budget details.
 

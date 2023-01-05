@@ -68,7 +68,7 @@
 
 #### (D) Time for awarding loans and grants
 
-&emsp;&emsp;The Secretary shall not later than July 1, 2013, award the loans and grants under the CO–OP program and begin the distribution of amounts awarded under such loans and grants.
+&emsp;&emsp;The Secretary shall not later than July 1, 2013, award the loans and grants under theCO–OP program and begin the distribution of amounts awarded under such loans and grants.
 
 #### (3) Repayment of loans and grants
 
@@ -104,9 +104,9 @@
 
 &emsp;&emsp;&emsp;Each member shall receive travel expenses, including per diem in lieu of subsistence under subchapter I of chapter 57 of title 5.
 
-#### (E) Application of FACA
+#### (E) Application of chapter 10 of title 5
 
-&emsp;&emsp;The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the advisory board, except that section 14 of such Act shall not apply.
+&emsp;&emsp;Chapter 10 of title 5 shall apply to the advisory board, except that section 1013 of title 5 shall not apply.
 
 #### (F) Termination
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 #### (6) Coordination with State insurance reforms
 
-&emsp;An organization shall not be treated as a qualified nonprofit health insurance issuer unless the organization does not offer a health plan in a State until that State has in effect (or the Secretary has implemented for the State) the market reforms required by part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\] (as amended by subtitles A and C of this Act).
+&emsp;An organization shall not be treated as a qualified nonprofit health insurance issuer unless the organization does not offer a health plan in a State until that State has in effect (or the Secretary has implemented for the State) the market reforms required by part A of title XXVII of the Public Health ServiceAct \[42 U.S.C. 300gg et seq.\] (as amended by subtitles A and C of this Act).
 
 #### (d) Establishment of private purchasing council
 
@@ -210,13 +210,11 @@ There are hereby appropriated, out of any funds in the Treasury not otherwise ap
 
 &emsp;The Comptroller General shall, not later than December 31 of each even-numbered year (beginning with 2014), report to the appropriate committees of the Congress the results of the study conducted under paragraph (1), including any recommendations for administrative or legislative changes the Comptroller General determines necessary or appropriate to increase competition in the health insurance market.
 
-(Pub. L. 111–148, title I, §1322, title X, §10104(l), Mar. 23, 2010, 124 Stat. 187, 902.)
+(Pub. L. 111–148, title I, §1322, title X, §10104(l), Mar. 23, 2010, 124 Stat. 187, 902; Pub. L. 117–286, §4(a)(282), Dec. 27, 2022, 136 Stat. 4337.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (b)(4)(E), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Public Health Service Act, referred to in subsec. (c)(6), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§300gg et seq.) of subchapter XXV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
@@ -229,6 +227,8 @@ This Act, referred to in subsec. (i)(1), is Pub. L. 111–148, Mar. 23, 2010, 12
 Section is comprised of section 1322 of Pub. L. 111–148. Subsec. (h) of section 1322 of Pub. L. 111–148 amended sections 501, 4958, and 6033 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(4)(E). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5 shall apply to the advisory board, except that section 1013 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to theadvisory board, except that section 14 of such Act" in text.
 
 <b>2010</b>—Subsec. (b)(3), (4). Pub. L. 111–148, §10104(l), added par. (3) and redesignated former par. (3) as (4).
 

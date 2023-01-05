@@ -1,6 +1,6 @@
 ### §8297. Additional awards
 
-Not more than one Navy cross, distinguished-service medal, silver star medal, distinguished flying cross, or Navy and Marine Corps Medalmay be awarded to a person. However, for each succeeding act or service that would otherwise justify the award of such a medal or cross, the President may award a suitable bar, emblem, or insignia to be worn with the decoration and corresponding rosette or other device.
+Not more than one Navy cross, distinguished-service medal, silver star medal, distinguished flying cross, or Navy and Marine Corps Medal may be awarded to a person. However, for each succeeding act or service that would otherwise justify the award of such a medal or cross, the President may award a suitable bar, emblem, or insignia to be worn with the decoration and corresponding rosette or other device.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 390, §6247; Pub. L. 113–66, div. A, title V, §561(b), Dec. 26, 2013, 127 Stat. 766; renumbered §8297, Pub. L. 115–232, div. A, title VIII, §807(b)(13), Aug. 13, 2018, 132 Stat. 1836.)
 

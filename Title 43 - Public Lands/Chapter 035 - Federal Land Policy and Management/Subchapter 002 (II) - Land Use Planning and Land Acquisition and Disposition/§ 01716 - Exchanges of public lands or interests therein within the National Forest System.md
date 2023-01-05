@@ -18,7 +18,7 @@ Lands acquired by the Secretary by exchange under this section which are within 
 
 (2) If within one hundred and eighty days after the submission of an appraisal or appraisals for review and approval by the Secretary concerned, the Secretary concerned and the other party or parties involved cannot agree to accept the findings of an appraisal or appraisals, the appraisal or appraisals shall be submitted to an arbitrator appointed by the Secretary from a list of arbitrators submitted to him by the American Arbitration Association for arbitration to be conducted in accordance with the real estate valuation arbitration rules of the American Arbitration Association. Such arbitration shall be binding for a period of not to exceed two years on the Secretary concerned and the other party or parties involved in the exchange insofar as concerns the value of the lands which were the subject of the appraisal or appraisals.
 
-(3) Within thirty days after the completion of the arbitration, the Secretary concerned and the other party or parties involved in the exchange shall determine whether to proceed with the exchange, modify the exchange to reflect the findings of the arbitration or any other factors, or to withdraw from the exchange. A decision towithdraw from the exchange may be made by either the Secretary concerned or the other party or parties involved.
+(3) Within thirty days after the completion of the arbitration, the Secretary concerned and theother party or parties involved in the exchange shall determine whether to proceed with the exchange, modify the exchange to reflect the findings of the arbitration or any other factors, or to withdraw from the exchange. A decision to withdraw from the exchange may be made by either the Secretary concerned or the other party or parties involved.
 
 (4) Instead of submitting the appraisal to an arbitrator, as provided in paragraph (2) of this section,<sup>1</sup> the Secretary concerned and the other party or parties involved in an exchange may mutually agree to employ a process of bargaining or some other process to determine the values of the properties involved in the exchange.
 
@@ -54,7 +54,7 @@ Until such time as new and comprehensive rules and regulations governing exchang
 
 &emsp;(A) the combined value of the lands or interests therein to be transferred from Federal ownership by the Secretary concerned in such exchange is not more than $150,000; and
 
-&emsp;(B) the Secretary concerned finds in accordance with the regulations to be promulgatedpursuant to subsection (f) of this section that a determination of approximately equal value can be made without formal appraisals, as based on a statement of value made by a qualified appraiser and approved by an authorized officer; and
+&emsp;(B) the Secretary concerned finds in accordance with the regulations to be promulgated pursuant to subsection (f) of this section that a determination of approximately equal value can be made without formal appraisals, as based on a statement of value made by a qualified appraiser and approved by an authorized officer; and
 
 &emsp;(C) the definition of and procedure for determining "approximately equal value" has been set forth in regulations by the Secretary concerned and the Secretary concerned documents how such determination was made in the case of the particular exchange involved.
 
@@ -72,7 +72,7 @@ Until such time as new and comprehensive rules and regulations governing exchang
 
 #### References in Text
 
-This Act, referred to in subsecs. (a), (b), (d)(1), (e), (f)(1), (2)(B)(ii), (g), (h)(1), and (i), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (b), (d)(1), (e), (f)(1), (2)(B)(ii), (g), (h)(1), and (i), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 Act of January 22, 1983 (commonly known as the "Small Tracts Act"), referred to in subsec. (h)(2), is Pub. L. 97–465, Jan. 12, 1983, 96 Stat. 2535, which enacted sections 521c to 521i of Title 16, Conservation, and amended section 484a of Title 16. For complete classification of this Act to the Code, see Tables.
 
@@ -114,7 +114,7 @@ Purposes.—The purposes of this Act \[see Short Title of 1988 Amendment note se
 
 &emsp;&emsp;"(B) establishing procedures and guidelines for the resolution of appraisal disputes.\[;\]
 
-&emsp;"(2) to provide sufficient resources to the Secretaries of the Interior and Agriculture to ensure thatland exchange activities can proceed consistent with the public interest; and
+&emsp;"(2) to provide sufficient resources to the Secretaries of the Interior and Agriculture to ensure that land exchange activities can proceed consistent with the public interest; and
 
 &emsp;"(3) to require a study and report concerning improvements in the handling of certain information related to Federal and other lands."
 

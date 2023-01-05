@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 90–278, §1, Mar. 30, 1968, 82 Stat. 69, which related to actions by the Confederated Tribes ofthe Colville Reservation and the Yakima Tribes of Indians of the Yakima Reservation to determine title to judgment fund, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 90–278, §1, Mar. 30, 1968, 82 Stat. 69, which related to actions by the Confederated Tribes of the Colville Reservation and the Yakima Tribes of Indians of the Yakima Reservation to determine title to judgment fund, was omitted from the Code as being of special and not general application.
 

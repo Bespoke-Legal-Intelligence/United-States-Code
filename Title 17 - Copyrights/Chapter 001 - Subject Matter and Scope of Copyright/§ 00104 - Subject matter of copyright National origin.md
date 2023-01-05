@@ -106,7 +106,7 @@ NOW, THEREFORE, I, LYNDON B. JOHNSON, President of the United States of America,
 
 It shall be understood that the term of copyright in any case is not and cannot be altered or affected by this proclamation. It shall also be understood that, as provided by Section 9(b) of Title 17, United States Code \[section 9(b) of former Title 17\], no liability shall attach under that title for lawful uses made or acts done prior to the effective date of this proclamation in connection with the above-described works, or with respect to the continuance for one year subsequent to such date of any business undertaking or enterprise lawfully undertaken prior to such date involving expenditure or contractual obligation in connection with the exploitation, production, reproduction, circulation or performance of any such works.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this twelfth day of July in the year of our Lord nineteen hundred and sixty-seven, and of the Independence of the United States of America the one hundred and ninety-second.
+IN WITNESS WHEREOF, I have hereunto set my hand this twelfth day of July in the year of our Lordnineteen hundred and sixty-seven, and of the Independence of the United States of America the one hundred and ninety-second.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

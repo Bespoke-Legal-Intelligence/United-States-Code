@@ -10,7 +10,7 @@ Subject to the availability of appropriations, the Administrator shall provide f
 
 #### (b) Coordination
 
-As a condition of accepting funds under subsection (a), the State, unit of local government,or Indian Tribe and the appropriate research center that receive funds under that subsection shall establish a formal research relationship for the purpose of coordinating efforts under this section.
+As a condition of accepting funds under subsection (a), the State, unit of local government, or Indian Tribe and the appropriate research center that receive funds under that subsection shall establish a formal research relationship for the purpose of coordinating efforts under this section.
 
 #### (c) Authorization of appropriations
 

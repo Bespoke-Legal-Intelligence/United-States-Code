@@ -28,7 +28,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), if a defendant files a motion to dismiss undersubsection (a), no discovery shall be permitted in connection with the action that is the subject of the motion, other than discovery necessary to determine a motion to dismiss for lack of jurisdiction, until such time as the court rules on the motion to dismiss.
+&emsp;&emsp;Except as provided in subparagraph (B), if a defendant files a motion to dismiss under subsection (a), no discovery shall be permitted in connection with the action that is the subject of the motion, other than discovery necessary to determine a motion to dismiss for lack of jurisdiction, until such time as the court rules on the motion to dismiss.
 
 #### (B) Discovery
 
@@ -86,7 +86,7 @@ The following rules shall apply to any proceeding on a motion to dismiss filed b
 
 #### (2) Discovery made prior to a ruling on a motion for summary judgment
 
-&emsp;If, under applicable rules, the court permits discovery prior to a ruling on a motion for summary judgment governed by section 1604(d) of this title, such discovery shall be limited solely to establishing whether a genuine issue of material fact exists as to the applicable elements set forth in paragraphs (1) and (2) of section 1604(d) of this title.
+&emsp;If, under applicable rules, the court permits discovery prior to a ruling on a motion for summary judgment governed by section 1604(d) of this title, such discovery shall belimited solely to establishing whether a genuine issue of material fact exists as to the applicable elements set forth in paragraphs (1) and (2) of section 1604(d) of this title.
 
 #### (3) Discovery with respect to a biomaterials supplier
 
@@ -98,7 +98,7 @@ An order granting a motion to dismiss or for summary judgment pursuant to this s
 
 #### (f) Manufacturer conduct of litigation
 
-The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendantunder this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicable contractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
+The manufacturer of an implant that is the subject of an action covered under this chapter shall be permitted to conduct litigation on any motion for summary judgment or dismissal filed by a biomaterials supplier who is a defendant under this section on behalf of such supplier if the manufacturer and any other defendant in such action enter into a valid and applicable contractual agreement under which the manufacturer agrees to bear the cost of such litigation or to conduct such litigation.
 
 (Pub. L. 105–230, §6, Aug. 13, 1998, 112 Stat. 1526.)
 

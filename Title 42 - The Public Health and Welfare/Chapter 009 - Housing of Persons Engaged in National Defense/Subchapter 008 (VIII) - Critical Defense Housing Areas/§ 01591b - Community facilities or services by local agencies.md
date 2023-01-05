@@ -8,13 +8,13 @@ In order to assure that community facilities or services required in connection 
 
 #### (b) Certification of necessity for grants or other payments
 
-&emsp;no grant or other payment shall be made pursuant to subchapter IX of this chapter for the provision, or for the operation and maintenance, of community facilities or equipment therefor, or for the provision of community services, required in connection with national defense activities in such area unless the chief executive officer of the appropriate political subdivision certifies, and the Secretary of Housing and Urban Development finds, that such community facilities or services cannot otherwise be provided when needed, or operated and maintained, as the case may be, without the imposition of an increased excessive tax burden or an unusual or excessive increase in the debt limit of the appropriate local agency; and
+&emsp;no grant or other payment shall be made pursuant to subchapter IX of this chapter for the provision, or for the operation and maintenance, of community facilities or equipment therefor, or for the provision of community services, required in connection with national defense activities in such area unless the chief executive officer of the appropriate political subdivision certifies, and the Secretary ofHousing and Urban Development finds, that such community facilities or services cannot otherwise be provided when needed, or operated and maintained, as the case may be, without the imposition of an increased excessive tax burden or an unusual or excessive increase in the debt limit of the appropriate local agency; and
 
 #### (c) Maintenance and operation of facilities
 
 &emsp;no community facilities or services shall be provided, and no community facilities shall be maintained and operated, by the United States directly except where the appropriate local agency is demonstrably unable to provide such facilities and services, or to maintain or operate such community facilities and services adequately with its own personnel, with loans, grants, or payments authorized to be made pursuant to subchapter IX of this chapter.
 
-For the purposes of this section, the term "chief executive officer of the appropriate political subdivision" shall mean appropriate principal executive officer or governing body having primary responsibility with respect to the community facility or service involved, but shallnot, in any case, mean any public housing authority, or its governing body, or any of its officers, acting in such capacity.
+For the purposes of this section, the term "chief executive officer of the appropriate political subdivision" shall mean appropriate principal executive officer or governing body having primary responsibility with respect to the community facility or service involved, but shall not, in any case, mean any public housing authority, or its governing body, or any of its officers, acting in such capacity.
 
 (Sept. 1, 1951, ch. 378, title I, §103, 65 Stat. 294; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 

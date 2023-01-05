@@ -14,13 +14,17 @@ In this section:
 
 #### (3) Map
 
-&emsp;The term "Map" means the map entitled "Ste. Genevieve National Historical Park Proposed Boundary Addition", numbered 571/149,942, and dated December 2018.
+&emsp;The term "Map" means the map entitled "Ste. Genevieve National Historical Park Proposed Boundary Addition", numbered 571/177,464, and dated September 2021.
 
-#### (4) Special resource study
+#### (4) Secretary
+
+&emsp;The term "Secretary" means the Secretary of the Interior.
+
+#### (5) Special resource study
 
 &emsp;The term "special resource study" means the study entitled "Ste. Genevieve Final Special Resources Study and Environmental Assessment, Missouri" and dated May 2016.
 
-#### (5) State
+#### (6) State
 
 &emsp;The term "State" means the State of Missouri.
 
@@ -44,7 +48,13 @@ The boundaries of the Historical Park shall be the boundaries generally depicted
 
 #### (d) Availability of Map
 
-The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+#### (1) In general
+
+&emsp;The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+#### (2) Authority to correct errors
+
+&emsp;The Secretary may correct any clerical or typographical errors in the Map.
 
 #### (e) Acquisition authority
 
@@ -61,6 +71,18 @@ The Map shall be on file and available for public inspection in the appropriate 
 #### (2) Boundary revision
 
 &emsp;On the acquisition of any property within the Historic District under paragraph (1), the Secretary shall revise the boundary of the Historical Park to include the property.
+
+#### (3) Visitor center
+
+&emsp;The Secretary—
+
+&emsp;&emsp;(A) may acquire, by donation, the land (including any improvements to the land) owned by the city of Ste. Genevieve, Missouri, and used as the visitor center for the Historical Park, as generally depicted on the Map as "Proposed Boundary Addition"; and
+
+&emsp;&emsp;(B) on acquisition of the land described in subparagraph (A), shall revise the boundary of the Historical Park to include the acquired land.
+
+#### (4) Administrative facilities
+
+&emsp;The Secretary may acquire, by purchase from a willing seller or by donation, not more than 20 acres of land in the vicinity of the Historical Park for administrative facilities for the Historical Park.
 
 #### (f) Administration
 
@@ -98,7 +120,7 @@ The Map shall be on file and available for public inspection in the appropriate 
 
 #### (2) Right of access
 
-&emsp;A cooperative agreement entered into under paragraph (1) shall provide that the Secretary, acting through the Director of the National Park Service, shall have the right of access at all reasonable times to all public portions of the property covered by the agreement for the purposes of—
+&emsp;A cooperative agreement entered into under paragraph (1) shall provide that the Secretary, acting through the Director of the NationalPark Service, shall have the right of access at all reasonable times to all public portions of the property covered by the agreement for the purposes of—
 
 &emsp;&emsp;(A) conducting visitors through the property; and
 
@@ -130,7 +152,7 @@ The Map shall be on file and available for public inspection in the appropriate 
 
 Nothing in this section authorizes the Secretary to assume overall financial responsibility for the operation, maintenance, or management of the Historic District.
 
-(Pub. L. 115–141, div. G, title I, §121(a)(2) \[div. B, title VII, §7134\], Mar. 23, 2018, 132 Stat. 661, 1225A–5; Pub. L. 116–9, title II, §2109(a), Mar. 12, 2019, 133 Stat. 731.)
+(Pub. L. 115–141, div. G, title I, §121(a)(2) \[div. B, title VII, §7134\], Mar. 23, 2018, 132 Stat. 661, 1225A–5; Pub. L. 116–9, title II, §2109(a), Mar. 12, 2019, 133 Stat. 731; Pub. L. 117–328, div. DD, title VI, §617, Dec. 29, 2022, 136 Stat. 5605.)
 
 #### <b>Editorial Notes</b>
 
@@ -141,6 +163,14 @@ Section was formerly classified to section 460cccc of this title.
 Section is based on section 7134 of S. 1460, One Hundred Fifteenth Congress, as placed on the calendar of the Senate on June 29, 2017, which was enacted into law by Pub. L. 115–141.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(3). Pub. L. 117–328, §617(a)(1), substituted "numbered 571/177,464, and dated September 2021" for "numbered 571/149,942, and dated December 2018".
+
+Subsec. (a)(4) to (6). Pub. L. 117–328, §617(a)(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (d). Pub. L. 117–328, §617(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (e)(3), (4). Pub. L. 117–328, §617(c), added pars. (3) and (4).
 
 <b>2019</b>—Subsec. (a)(3). Pub. L. 116–9 substituted " 'Ste. Genevieve National Historical Park Proposed Boundary Addition', numbered 571/149,942, and dated December 2018" for " 'Ste. Genevieve National Historical Park Proposed Boundary' ".
 

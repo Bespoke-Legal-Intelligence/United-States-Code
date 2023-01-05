@@ -24,7 +24,7 @@ The Office established under subsection (a) shall—
 
 Ex. Ord. No. 13629, Oct. 26, 2012, 77 F.R. 66353, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to advance the Federal Government's use of local partnerships to address homeland security challenges, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance the Federal Government's use of local partnerships to address homeland security challenges, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. The purpose of this order is to maximize the Federal Government's ability to develop local partnerships in the United States to support homeland security priorities. Partnerships are collaborative working relationships in which the goals, structure, and roles and responsibilities of the relationships are mutually determined. Collaboration enables the Federal Government and its partners to use resources more efficiently, build on one another's expertise, drive innovation, engage in collective action, broaden investments to achieve shared goals, and improve performance. Partnerships enhance our ability to address homeland security priorities, from responding to natural disasters to preventing terrorism, by utilizing diverse perspectives, skills, tools, and resources.
 
@@ -38,7 +38,7 @@ Sec. 2. <i>White House Homeland Security Partnership Council and Steering Commit
 
 (i) Pursuant to the nomination process established in subsection (b)(ii) of this section, the Council shall be composed of Federal officials who are from field offices of the executive departments, agencies, and bureaus (agencies) that are members of the Steering Committee established in subsection (c) of this section, and who have demonstrated an ability to develop, sustain, and institutionalize local partnerships to address policy priorities.
 
-(ii) The nomination process and selection criteria for members of the Council shall be established by the Steering Committee. Based on those criteria, agency heads may select and present to the Steering Committee their nominee or nominees to represent them on the Council. The Steering Committee shall consider all of the nominees and decide by consensus which of the nominees shall participate on the Council. Each member agency on the Steering Committee, with the exception of the Office of the Director of National Intelligence, may have at least one representative on the Council.
+(ii) The nomination process and selection criteria for members of the Council shall be established by theSteering Committee. Based on those criteria, agency heads may select and present to the Steering Committee their nominee or nominees to represent them on the Council. The Steering Committee shall consider all of the nominees and decide by consensus which of the nominees shall participate on the Council. Each member agency on the Steering Committee, with the exception of the Office of the Director of National Intelligence, may have at least one representative on the Council.
 
 (c) <i>Steering Committee</i>. There is also established a Steering Committee, chaired by the Chair of the Council, to provide guidance to the Council and perform other functions as set forth in this order. The Steering Committee shall include a representative at the Deputy agency head level, or that representative's designee, from the following agencies:
 

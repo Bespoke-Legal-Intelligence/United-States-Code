@@ -32,7 +32,7 @@ With respect to a loan made under section 636(b)(2) of this title in response to
 
 &emsp;(2) the requirement that an applicant needs to be in business for the 1-year period before the disaster, except that no waiver may be made for a business that was not in operation on January 31, 2020; and
 
-&emsp;(3) the requirement in the flush matter following subparagraph (E) of section 636(b)(2) ofthis title, as so redesignated by subsection (f) of this section,<sup>2</sup> that an applicant be unable to obtain credit elsewhere.
+&emsp;(3) the requirement in the flush matter following subparagraph (E) of section 636(b)(2) of this title, as so redesignated by subsection (f) of this section,<sup>2</sup> that an applicant be unable to obtain credit elsewhere.
 
 #### (d) Approval and ability to repay for small dollar loans
 
@@ -104,7 +104,11 @@ With respect to a loan made under section 636(b)(2) of this title in response to
 
 &emsp;The authority to carry out grants under this subsection shall terminate on December 31, 2021.
 
-(Pub. L. 116–136, div. A, title I, §1110, Mar. 27, 2020, 134 Stat. 306; Pub. L. 116–139, div. A, §101(b), (c), Apr. 24, 2020, 134 Stat. 620, 621; Pub. L. 116–260, div. N, title III, §§332, 333(c), Dec. 27, 2020, 134 Stat. 2045, 2046.)
+#### (9) Statute of limitations
+
+&emsp;Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to the use of an advance received under this subsection shall be filed not later than 10 years after the offense was committed.
+
+(Pub. L. 116–136, div. A, title I, §1110, Mar. 27, 2020, 134 Stat. 306; Pub. L. 116–139, div. A, §101(b), (c), Apr. 24, 2020, 134 Stat. 620, 621; Pub. L. 116–260, div. N, title III, §§332, 333(c), Dec. 27, 2020, 134 Stat. 2045, 2046; Pub. L. 117–165, §2(b), Aug. 5, 2022, 136 Stat. 1363.)
 
 #### <b>Editorial Notes</b>
 
@@ -113,6 +117,8 @@ With respect to a loan made under section 636(b)(2) of this title in response to
 Section is comprised of section 1110 of Pub. L. 116–136. Subsec. (f) of section 1110 of Pub. L. 116–136 amended section 636 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(9). Pub. L. 117–165 added par. (9).
 
 <b>2020</b>—Subsec. (a)(1). Pub. L. 116–260, §332(1), substituted "December 31, 2021" for "December 31, 2020".
 
@@ -126,7 +132,7 @@ Subsec. (d)(1), (2). Pub. L. 116–260, §332(2), added pars. (1) and (2) and st
 
 Subsec. (e)(1). Pub. L. 116–260, §332(3)(A), designated existing provisions as subpar. (A), inserted heading, struck out "within 3 days after the Administrator receives an application from such applicant" after "to such applicant", and added subpar. (B).
 
-Subsec. (e)(6). Pub. L. 116–260, §333(c), struck out par. (6). Text read as follows: "If an applicant that receives an advance under this subsection transfers into, or is approved for, the loan program under section 636(a) ofthis title, the advance amount shall be reduced from the loan forgiveness amount for a loan for payroll costs made under such section 636(a) of this title."
+Subsec. (e)(6). Pub. L. 116–260, §333(c), struck out par. (6). Text read as follows: "If an applicant that receives an advance under this subsection transfers into, or is approved for, the loan program under section 636(a) of this title, the advance amount shall be reduced from the loan forgiveness amount for a loan for payroll costs made under such section 636(a) of this title."
 
 Subsec. (e)(7). Pub. L. 116–260, §332(3)(B), substituted "$40,000,000,000" for "$20,000,000,000".
 

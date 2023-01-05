@@ -34,7 +34,7 @@ The Director may accept and utilize the voluntary services of individuals and re
 
 The Director may use experts and consultants, including panels of experts, who may be employed as authorized under section 3109 of title 5.
 
-(Pub. L. 94–462, title II, §206, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295; amended Pub. L. 105–128, §2, Dec. 1, 1997, 111 Stat. 2548; Pub. L. 111–340, title I, §103, Dec. 22, 2010, 124 Stat. 3596.)
+(Pub. L. 94–462, title II, §206, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–295; amended Pub. L. 105–128, §2, Dec. 1, 1997, 111 Stat. 2548;Pub. L. 111–340, title I, §103, Dec. 22, 2010, 124 Stat. 3596.)
 
 #### <b>Editorial Notes</b>
 

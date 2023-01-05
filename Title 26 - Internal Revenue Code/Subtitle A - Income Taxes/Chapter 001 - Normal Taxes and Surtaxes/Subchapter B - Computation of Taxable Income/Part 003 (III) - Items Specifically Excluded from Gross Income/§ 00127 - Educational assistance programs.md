@@ -112,7 +112,7 @@ Subsecs. (d), (e). Pub. L. 107–16, §411(a), redesignated subsec. (e) as (d) a
 
 <b>1999</b>—Subsec. (d). Pub. L. 106–170 substituted "December 31, 2001" for "May 31, 2000".
 
-<b>1997</b>—Subsec. (d). Pub. L. 105–34 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "This section shall not apply to taxable years beginning after May 31, 1997. In the case of any taxable year beginning in 1997, only expenses paid with respect to courses beginning before July 1, 1997, shall be taken into account in determining the amount excluded under this section."
+<b>1997</b>—Subsec. (d). Pub. L. 105–34 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "This section shall not apply to taxable years beginning after May 31, 1997. In the case of any taxable year beginning in 1997, only expenses paid withrespect to courses beginning before July 1, 1997, shall be taken into account in determining the amount excluded under this section."
 
 <b>1996</b>—Subsec. (c)(1). Pub. L. 104–188, §1202(b), in closing provisions, inserted before period at end ", and such term also does not include any payment for, or the provision of any benefits with respect to, any graduate level course of a kind normally taken by an individual pursuing a program leading to a law, business, medical, or other advanced academic or professional degree".
 
@@ -150,7 +150,7 @@ Subsec. (d). Pub. L. 100–647, §4001(a), substituted "1988" for "1987".
 
 Subsec. (b)(1). Pub. L. 99–514, §1151(c)(4)(A), added par. (1) and struck out former par (1) which read as follows: "For purposes of this section an educational assistance program is a separate written plan of an employer for the exclusive benefit of his employees to provide such employees with educational assistance. The program must meet the requirements of paragraphs (2) through (6) of this subsection."
 
-Subsec. (b)(2). Pub. L. 99–514, §1151(g)(3), substituted "For purposes of this paragraph, there may be excludedfrom consideration employees who may be excluded from consideration under section 89(h)." for "For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers."
+Subsec. (b)(2). Pub. L. 99–514, §1151(g)(3), substituted "For purposes of this paragraph, there may be excluded from consideration employees who may be excluded from consideration under section 89(h)." for "For purposes of this paragraph, there shall be excluded from consideration employees not included in the program who are included in a unit of employees covered by an agreement which the Secretary of Labor finds to be a collective bargaining agreement between employee representatives and one or more employers, if there is evidence that educational assistance benefits were the subject of good faith bargaining between such employee representatives and such employer or employers."
 
 Pub. L. 99–514, §1114(b)(4), substituted "highly compensated employees (within the meaning of section 414(q))" for "officers, owners, or highly compensated,".
 
@@ -204,7 +204,7 @@ Graduate education.—The amendment made by subsection (b) \[amending this secti
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13101(c)(1), Aug. 10, 1993, 107 Stat. 420, provided that: "The amendments made by subsection (a) \[amending this section and repealing provisions set out below\] shall apply to taxable years ending after June 30, 1992."
+Pub. L. 103–66, title XIII, §13101(c)(1), Aug. 10, 1993, 107 Stat. 420, provided that: "The amendments made bysubsection (a) \[amending this section and repealing provisions set out below\] shall apply to taxable years ending after June 30, 1992."
 
 #### Effective Date of 1991 Amendment
 

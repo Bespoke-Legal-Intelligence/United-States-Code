@@ -26,7 +26,7 @@ The partnership agreement may without limitation (1) permit each of the stockhol
 
 #### (g) Liability of corporation as general partner; treatment of interest of limited partner in partnership
 
-A corporation which is a limited partner in the partnership shall not become liable as a general partner by reason of the fact that (1) such corporation is a holder of shares of voting stock of the corporation constituting not more than 5 per centum of the total number of outstanding shares of such stock and exercises any of the rights (including voting rights) of a holder of such shares, and/or (2) a person who is an officer or director of such corporation (or of another corporation which controls or is subject to the control of, or is under common control with, such corporation) is a director of the corporation and performs the duties of that office. The interest of a limited partner in the partnership shall not be treated as a stock interest in the corporation, notwithstanding that such interest of a limited partner may be proportionate to his stock interest in the corporation.
+A corporation which is a limited partner in the partnership shall not become liable as a general partner by reason of the fact that (1) such corporation is a holder of shares of voting stock of the corporation constituting not more than 5 per centum of the total number of outstanding shares of such stock and exercises any of the rights (including voting rights) of a holder of such shares, and/or (2) a person who is an officer or director of such corporation (or of another corporation which controls or is subject to the control of, or is under common control with, such corporation) is a director of the corporation and performs the duties of that office. The interest of a limited partner in the partnership shall not be treated as a stock interest in the corporation, notwithstanding that such interestof a limited partner may be proportionate to his stock interest in the corporation.
 
 #### (h) Execution of certificate of partnership and amendments
 
@@ -38,7 +38,7 @@ The certificate of the partnership and any amendment thereof required by the Dis
 
 #### References in Text
 
-The District of Columbia Uniform Limited Partnership Act, referred to in subsecs. (a) and (h), is Pub. L. 87–716, Sept. 28, 1962, 76 Stat. 655, as amended, which is not classified to the Code.
+The District of Columbia Uniform Limited Partnership Act, referred to in subsecs. (a) and (h), is Pub. L. 87–716, Sept. 28, 1962, 76 Stat. 655, which is not classified to the Code.
 
-The District of Columbia Uniform Partnership Act, referred to in subsec. (b), is Pub. L. 87–709, Sept. 27, 1962, 76 Stat. 636, as amended, which is not classified to the Code.
+The District of Columbia Uniform Partnership Act, referred to in subsec. (b), is Pub. L. 87–709, Sept. 27, 1962, 76 Stat. 636, which is not classified to the Code.
 

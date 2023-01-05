@@ -30,17 +30,35 @@ Reports Required.—(1) For each assessment conducted under subsection (a), the 
 
 (d)
 
-Quarterly Briefings.—Not less than once every quarter, the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff shall jointly provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on any known or suspected critical intelligence parameter breaches that were identified during the previous quarter, including an assessment of any known or suspected impacts of such breaches to the mission effectiveness of military capabilities as of the date of the briefing or thereafter.
+Quarterly Briefings.—(1) Not less than once every quarter, the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff shall jointly provide to the Committees on Armed Services of the House of Representatives and the Senate—
+
+&emsp;(A) a briefing on any intrusion or anomaly in the nuclear command, control, and communications system that was identified during the previous quarter, including—
+
+&emsp;&emsp;(i) an assessment of any known, suspected, or potential impacts of such intrusions and anomalies to the mission effectiveness of military capabilities as of the date of the briefing; and
+
+&emsp;&emsp;(ii) with respect to cyber intrusions of contractor networks known or suspected to have resulted in the loss or compromise of design information regarding the nuclear command, control, and communications system; or
+
+&emsp;(B) if no such intrusion or anomaly occurred with respect to the quarter to be covered by that briefing, a notification of such lack of intrusions and anomalies.
+
+(2) In this subsection:
+
+&emsp;(A) The term "anomaly" means a malicious, suspicious or abnormal cyber incident that potentially threatens the national security or interests of the United States, or that is likely to result in demonstrable harm to the national security of the United States.
+
+&emsp;(B) The term "intrusion" means an unauthorized and malicious cyber incident that compromises a nuclear command, control, and communications system by breaking the security of such a system or causing it to enter into an insecure state.
 
 (e)
 
-Termination.—The requirements of this section shall terminate on December 31, 2027.
+Termination.—The requirements of this section shall terminate on December 31, 2032.
 
-(Added Pub. L. 115–91, div. A, title XVI, §1651(a), Dec. 12, 2017, 131 Stat. 1756; amended Pub. L. 117–81, div. A, title XV, §1534, Dec. 27, 2021, 135 Stat. 2054.)
+(Added Pub. L. 115–91, div. A, title XVI, §1651(a), Dec. 12, 2017, 131 Stat. 1756; amended Pub. L. 117–81, div. A, title XV, §1534, Dec. 27, 2021, 135 Stat. 2054; Pub. L. 117–263, div. A, title XVI, §1636(a), (b), Dec. 23, 2022, 136 Stat. 2940.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–263, §1636(a), amended subsec. (d) generally. Prior to amendment, text read as follows: "Not less than once every quarter, the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff shall jointly provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on any known or suspected critical intelligence parameter breaches that were identified during the previous quarter, including an assessment of any known or suspected impacts of such breaches to the mission effectiveness of military capabilities as of the date of the briefing or thereafter."
+
+Subsec. (e). Pub. L. 117–263, §1636(b), substituted "December 31, 2032" for "December 31, 2027".
 
 <b>2021</b>—Subsec. (c). Pub. L. 117–81, §1534(1), substituted "Reports" for "Report" in heading.
 

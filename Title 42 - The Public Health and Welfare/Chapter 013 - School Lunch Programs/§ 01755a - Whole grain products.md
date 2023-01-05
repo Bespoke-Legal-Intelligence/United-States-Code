@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to encourage greater awareness and interest in the numberand variety of whole grain products available to schoolchildren, as recommended by the 2005 Dietary Guidelines for Americans.
+The purpose of this section is to encourage greater awareness and interest in the number and variety of whole grain products available to schoolchildren, as recommended by the 2005 Dietary Guidelines for Americans.
 
 #### (b) Definition of eligible whole grains and whole grain products
 
@@ -56,5 +56,5 @@ Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out a
 
 #### Definition of "Secretary"
 
-"Secretary" as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
+"Secretary" means the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
 

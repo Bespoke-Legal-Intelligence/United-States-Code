@@ -9,12 +9,15 @@
 | [25\.](%C2%A7%2000025%20-%20Declaration%20in%20lieu%20of%20oath.md) | Declaration in lieu of oath. |
 | [26\.](%C2%A7%2000026%20-%20Effect%20of%20defective%20execution.md) | Effect of defective execution. |
 | [27\.](%C2%A7%2000027%20-%20Revival%20of%20applications%3B%20reinstatement%20of%20reexamination%20proceedings.md) | Revival of applications; reinstatement of reexamination proceedings. |
+| [28\.](%C2%A7%2000028%20-%20Award%20of%20certificates%20to%20accelerate%20certain%20matters%20at%20the%20Patent%20and%20Trademark%20Office.md) | Award of certificates to accelerate certain matters at the Patent and Trademark Office. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–245, §2(c), Dec. 20, 2022, 136 Stat. 2344, added item 28.
 
 <b>2012</b>—Pub. L. 112–211, title II, §201(b)(2), Dec. 18, 2012, 126 Stat. 1534, added item 27.
 
@@ -36,3 +39,4 @@
 - [&sect; 00025 - Declaration in lieu of oath](%C2%A7%2000025%20-%20Declaration%20in%20lieu%20of%20oath.md)
 - [&sect; 00026 - Effect of defective execution](%C2%A7%2000026%20-%20Effect%20of%20defective%20execution.md)
 - [&sect; 00027 - Revival of applications; reinstatement of reexamination proceedings](%C2%A7%2000027%20-%20Revival%20of%20applications%3B%20reinstatement%20of%20reexamination%20proceedings.md)
+- [&sect; 00028 - Award of certificates to accelerate certain matters at the Patent and Trademark Office](%C2%A7%2000028%20-%20Award%20of%20certificates%20to%20accelerate%20certain%20matters%20at%20the%20Patent%20and%20Trademark%20Office.md)

@@ -18,7 +18,7 @@
 
 #### (3) Timing of report
 
-&emsp;Beginning in 2003, the Secretary shall submit the biennial report required by this subsection not later than April 1 of every otheryear, and shall include in each such report the funding level, the status of ongoing evaluations, findings to date, and the nature of any technical assistance provided to States under subsection (d).
+&emsp;Beginning in 2003, the Secretary shall submit the biennial report required by this subsection not later than April 1 of every other year, and shall include in each such report the funding level, the status of ongoing evaluations, findings to date, and the nature of any technical assistance provided to States under subsection (d).
 
 #### (b) Coordination of evaluations
 
@@ -54,7 +54,7 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 #### (2) Program components
 
-&emsp;The family recovery and reunification program conducted under the project shall adhere closely to the elements and protocol determined to be most effective in other recovery coaching programs that have been rigorously evaluated and shown to increase family reunification and protect children and, consistent with such elements and protocol, shall provide such items and services as—
+&emsp;The family recovery and reunification program conducted under the project shall adhere closely to the elements and protocol determined to be most effective in other recovery coaching programs that have been rigorously evaluated and shown to increase family reunification and protect children and, consistentwith such elements and protocol, shall provide such items and services as—
 
 &emsp;&emsp;(A) assessments to evaluate the needs of the parent or guardian;
 
@@ -82,7 +82,7 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 &emsp;&emsp;In identifying 1 or more entities to conduct the evaluation of the family recovery and reunification program, the Secretary shall—
 
-&emsp;&emsp;&emsp;(i) determine that the area or areas in which the program will be conducted havesufficient substance use disorder treatment providers and other resources (other than those provided with funds made available to carry out the project) to successfully conduct the program;
+&emsp;&emsp;&emsp;(i) determine that the area or areas in which the program will be conducted have sufficient substance use disorder treatment providers and other resources (other than those provided with funds made available to carry out the project) to successfully conduct the program;
 
 &emsp;&emsp;&emsp;(ii) determine that the area or areas in which the program will be conducted have enough potential program participants, and will serve a sufficient number of parents or guardians and their children, so as to allow for the formation of a control group, evaluation results to be adequately powered, and preliminary results of the evaluation to be available within 4 years of the program's implementation;
 
@@ -108,7 +108,7 @@ To the extent funds are available therefor, the Secretary shall provide technica
 
 #### (C) Impact study
 
-&emsp;&emsp;The impact study component of the evaluation shall determine the impacts of the family recovery and reunification program conducted under the project on the parents and guardians and their children participating in the program. The impact study component shall—
+&emsp;&emsp;The impact study component of the evaluation shall determine the impacts of the family recovery and reunification program conducted under the project on the parentsand guardians and their children participating in the program. The impact study component shall—
 
 &emsp;&emsp;&emsp;(i) be conducted using an experimental design that uses a random assignment research methodology;
 

@@ -16,7 +16,7 @@
 
 #### (2) Description of countervailing duty orders
 
-&emsp;A countervailing duty order described in this paragraph is an order issued under section1303 <sup>1</sup> of this title or section 1671(c) of this title with respect to which the requirement of an affirmative determination of material injury was not applicable at the time such order was issued.
+&emsp;A countervailing duty order described in this paragraph is an order issued under section 1303 <sup>1</sup> of this title or section 1671(c) of this titlewith respect to which the requirement of an affirmative determination of material injury was not applicable at the time such order was issued.
 
 #### (3) Requirements of request for investigation
 
@@ -86,7 +86,7 @@
 
 #### (4) Countervailing duty orders with respect to which no request for injury investigation is made
 
-&emsp;If, with respect to a countervailing duty order described in subsection (a), a request for an investigation is not made within the time required by subsection (a)(3), the Commissionshall notify the administering authority that a negative determination has been made under subsection (a) and the provisions of paragraph (3)(B) shall apply with respect to the order.
+&emsp;If, with respect to a countervailing duty order described in subsection (a), a request for an investigation is not made within the time required by subsection (a)(3), the Commission shall notify the administering authority that a negative determination has been made under subsection (a) and the provisions of paragraph (3)(B) shall apply with respect to the order.
 
 #### (c) Pending and suspended countervailing duty investigations
 
@@ -150,7 +150,7 @@ Section effective, except as otherwise provided, on the date on which the WTO Ag
 
 #### Uruguay Round Agreements: Entry Into Force
 
-The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect tothe United States on Jan. 1, 1995. See note set out under section 3511 of this title.
+The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

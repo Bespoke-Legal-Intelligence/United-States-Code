@@ -2,7 +2,7 @@
 
 #### (a) National coordinator within Department of Justice
 
-The Attorney General shall designate an employee of the Office of Justice Programs of theDepartment of Justice to act as the national coordinator of the Ashanti Alert communications network.
+The Attorney General shall designate an employee of the Office of Justice Programs of the Department of Justice to act as the national coordinator of the Ashanti Alert communications network.
 
 #### (b) Duties of the Coordinator
 
@@ -92,7 +92,7 @@ In acting as the national coordinator of the Ashanti Alert communications networ
 
 &emsp;&emsp;&emsp;(ii) the number of missing adults located successfully;
 
-&emsp;&emsp;&emsp;(iii) the average period of time between the issuance of an Ashanti Alert and thelocation of the missing adult for whom the Alert was issued;
+&emsp;&emsp;&emsp;(iii) the average period of time between the issuance of an Ashanti Alert and the location of the missing adult for whom the Alert was issued;
 
 &emsp;&emsp;&emsp;(iv) the State or Tribal agency or authority issuing Ashanti Alerts, and the process by which Ashanti Alerts are disseminated;
 

@@ -2,7 +2,7 @@
 
 #### (a) Beryllium
 
-A covered beryllium employee shall, in the absence of substantial evidence to the contrary, bedetermined to have been exposed to beryllium in the performance of duty for the purposes of the compensation program if, and only if, the covered beryllium employee was—
+A covered beryllium employee shall, in the absence of substantial evidence to the contrary, be determined to have been exposed to beryllium in the performance of duty for the purposes of the compensation program if, and only if, the covered beryllium employee was—
 
 &emsp;(1) employed at a Department of Energy facility; or
 
@@ -72,5 +72,5 @@ Section 7(b) of the Orphan Drug Act, referred to in subsec. (c)(3)(A), is sectio
 
 #### Delegation of Functions
 
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 13179, Dec. 7, 2000,65 F.R. 77487, set out as a note under section 7384 of this title.
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 13179, Dec. 7, 2000, 65 F.R. 77487, set out as a note under section 7384 of this title.
 

@@ -18,7 +18,7 @@ Any applicant, other than a State educational agency that submits a plan or appl
 
 &emsp;(4) the applicant will cooperate in carrying out any evaluation of each such program conducted by or for the State educational agency, the Secretary, or other Federal officials;
 
-&emsp;(5) the applicant will use such fiscal control and fund accounting procedures as will ensureproper disbursement of, and accounting for, Federal funds paid to the applicant under each such program;
+&emsp;(5) the applicant will use such fiscal control and fund accounting procedures as will ensure proper disbursement of, and accounting for, Federal funds paid to the applicant under each such program;
 
 &emsp;(6) the applicant will—
 

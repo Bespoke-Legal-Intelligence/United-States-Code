@@ -6,7 +6,7 @@ Whenever the Secretary of Agriculture has reason to believe that:
 
 &emsp;(a) The current average farm price for any basic agricultural commodity is less than the fair exchange value thereof, or the average farm price of such commodity is likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, and
 
-&emsp;(b) The conditions of and factors relating to the production, marketing, and consumption of such commodity are such that the exercise of any one or more of the powers conferred upon the Secretary under subsections (2) and (3) of this section would tend to effectuate the declared policy of this chapter,
+&emsp;(b) The conditions of and factors relating to the production, marketing, and consumption of such commodity are such that the exercise of any one or more of the powers conferred upon the Secretary under subsections (2) and\(3) of this section would tend to effectuate the declared policy of this chapter,
 
 > he shall cause an immediate investigation to be made to determine such facts. If, upon the basis of such investigation, the Secretary finds the existence of such facts, he shall proclaim such determination and shall exercise such one or more of the powers conferred upon him under subsections (2) and (3) of this section as he finds, upon the basis of an investigation, administratively practicable and best calculated to effectuate the declared policy of this chapter.
 
@@ -32,7 +32,7 @@ Subject to the provisions of subsection (1) of this section, the Secretary of Ag
 
 Whenever, during a period during which any of the powers conferred in subsection (2) or (3) is being exercised, the Secretary of Agriculture has reason to believe that, with respect to any basic agricultural commodity:
 
-&emsp;(a) The current average farm price for such commodity is not less than the fair exchange value thereof, and the average farm price for such commodity is not likely to be less than the fair exchange value thereof for the periodin which the production of such commodity during the current or next succeeding marketing year is normally marketed, or
+&emsp;(a) The current average farm price for such commodity is not less than the fair exchange value thereof, and the average farm price for such commodity is not likely to be less than the fair exchange value thereof for the period in which the production of such commodity during the current or next succeeding marketing year is normally marketed, or
 
 &emsp;(b) The conditions of and factors relating to the production, marketing, and consumption of such commodity are such that none of the powers conferred in subsections (2) and (3), and no combination of such powers, would, if exercised, tend to effectuate the declared policy of this chapter,
 

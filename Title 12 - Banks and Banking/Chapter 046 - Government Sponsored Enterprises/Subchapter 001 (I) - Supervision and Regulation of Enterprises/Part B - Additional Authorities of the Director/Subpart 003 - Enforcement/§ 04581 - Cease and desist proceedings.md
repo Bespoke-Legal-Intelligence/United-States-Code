@@ -44,7 +44,7 @@ Section 4547 of this title, referred to in subsecs. (a)(1) and (b)(2)(A), was re
 
 #### Prior Provisions
 
-A prior section 4581, Pub. L. 102–550, title XIII, §1341, Oct. 28, 1992, 106 Stat. 3964, related to cease-and-desistproceedings, prior to repeal by Pub. L. 110–289, div. A, title I, §1130(c)(1), July 30, 2008, 122 Stat. 2708.
+A prior section 4581, Pub. L. 102–550, title XIII, §1341, Oct. 28, 1992, 106 Stat. 3964, related to cease-and-desist proceedings, prior to repeal by Pub. L. 110–289, div. A, title I, §1130(c)(1), July 30, 2008, 122 Stat. 2708.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

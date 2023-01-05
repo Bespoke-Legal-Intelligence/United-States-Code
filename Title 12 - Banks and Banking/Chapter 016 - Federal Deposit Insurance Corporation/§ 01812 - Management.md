@@ -90,7 +90,7 @@
 
 #### (2) "Employee of the Corporation" defined
 
-&emsp;For purposes of this subsection, the term "employee of the Corporation" includes any employee of the Office of the Comptroller ofthe Currency or of the Consumer Financial Protection Bureau who serves as a deputy or assistant to a member of the Board of Directors of the Corporation in connection with activities of the Corporation.
+&emsp;For purposes of this subsection, the term "employee of the Corporation" includes any employee of the Office of the Comptroller of the Currency or of the Consumer Financial Protection Bureau who serves as a deputy or assistant to a member of the Board of Directors of the Corporation in connection with activities of the Corporation.
 
 #### (3) Effect on other law
 

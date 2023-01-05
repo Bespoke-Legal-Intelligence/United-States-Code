@@ -12,7 +12,7 @@ The southeast quarter section 27, south half northeast quarter section 27, all p
 
 All of section 36, southeast quarter section 35, southeast quarter northeast quarter section 35, all lying and being situated in township 2 south, range 20 west;
 
-Northeast quarter section 2, north half southeast quarter section 2, north half section 1, north half southwest quarter section 1, north half southeast quarter section 1, all lying and being situated in township 3 south, range 20 west;
+Northeast quarter section 2, north half southeast quarter section 2, north half section 1,north half southwest quarter section 1, north half southeast quarter section 1, all lying and being situated in township 3 south, range 20 west;
 
 North half section 6, north half southwest quarter section 6, northwest quarter southeast quarter section 6, all lying and being situated in township 3 south, range 19 west;
 

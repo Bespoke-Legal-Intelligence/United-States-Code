@@ -8,7 +8,7 @@ The Tax Court is authorized to impose a fee in an amount not in excess of $60 to
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this title, in any case (including by reason of alapse in appropriations) in which a filing location is inaccessible or otherwise unavailable to the general public on the date a petition is due, the relevant time period for filing such petition shall be tolled for the number of days within the period of inaccessibility plus an additional 14 days.
+&emsp;Notwithstanding any other provision of this title, in any case (including by reason of a lapse in appropriations) in which a filing location is inaccessible or otherwise unavailable to the general public on the date a petition is due, the relevant time period for filing such petition shall be tolled for the number of days within the period of inaccessibility plus an additional 14 days.
 
 #### (2) Filing location
 

@@ -34,7 +34,7 @@ Qualifying Military Offenses.—The offenses that shall be treated for purposes 
 
 (e)
 
-Expungement.—(1) The Secretary of Defense shall promptly expunge, from the index described in subsection (a) of section 210304 of the Violent Crime Control and Law Enforcement Act of 1994, the DNA analysis of a person included in the index on the basis of a qualifying military offense if the Secretary receives, for each conviction of the person of a qualifying offense, a certified copy of a final court order establishing that such conviction has been overturned.
+Expungement.—(1) The Secretary of Defense shall promptly expunge, from the index described in subsection (a) of section 210304 of the Violent Crime Control and Law Enforcement Act of 1994, the DNA analysis of a person included in the index on the basis of a qualifying military offense if the Secretary receives, foreach conviction of the person of a qualifying offense, a certified copy of a final court order establishing that such conviction has been overturned.
 
 (2) For purposes of paragraph (1), the term "qualifying offense" means any of the following offenses:
 

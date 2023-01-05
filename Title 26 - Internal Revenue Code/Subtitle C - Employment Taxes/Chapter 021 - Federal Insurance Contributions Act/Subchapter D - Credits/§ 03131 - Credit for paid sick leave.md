@@ -8,7 +8,7 @@ In the case of an employer, there shall be allowed as a credit against applicabl
 
 #### (1) Wages taken into account
 
-&emsp;The amount of qualified sick leave wages taken into account under subsection (a), plus any increases under subsection (e), with respect to any individual shall not exceed $200 ($511 in the case of any day any portion of which is paid sick time described in paragraph (1), (2), or (3) of section 5102(a) of the Emergency Paid Sick Leave Act, applied with the modification described in subsection (c)(2)(A)(i)) for any day (or portion thereof) for which the individual is paid qualified sick leave wages.
+&emsp;The amount of qualified sick leave wages taken into account under subsection (a), plus any increases under subsection (e), with respect to any individual shall not exceed $200\($511 in the case of any day any portion of which is paid sick time described in paragraph (1), (2), or (3) of section 5102(a) of the Emergency Paid Sick Leave Act, applied with the modification described in subsection (c)(2)(A)(i)) for any day (or portion thereof) for which the individual is paid qualified sick leave wages.
 
 #### (2) Overall limitation on number of days taken into account
 
@@ -232,7 +232,7 @@ The Emergency Paid Sick Leave Act and such Act, referred to in subsecs. (b)(1), 
 
 The National Apprenticeship Act, referred to in subsec. (e)(3)(B), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
 
-Section 2301 of the CARES Act, referred to in subsec. (f)(3), is section 2301 of title II of div. A of Pub. L. 116–136, which is set out as a note under section 3111 of this title.
+Section 2301 of the CARES Act, referred to in subsec. (f)(3), is section 2301 of title II of div. A of Pub. L.116–136, which is set out as a note under section 3111 of this title.
 
 Section 7 of the Small Business Act, referred to in subsec. (f)(7)(A)(i), (B), is classified to section 636 of Title 15, Commerce and Trade.
 

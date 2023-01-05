@@ -46,7 +46,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (B) The Secretary may review and revise the test procedures established under subparagraph (A).
 
-(C) For purposes of section 6317(a) of this title, the test procedures established under subparagraph (A) shall be considered to be the testing requirements prescribed by the Secretary undersection 6317(a)(1) of this title for distribution transformers for which the Secretary makes a determination that energy conservation standards would—
+(C) For purposes of section 6317(a) of this title, the test procedures established under subparagraph (A) shall be considered to be the testing requirements prescribed by the Secretary under section 6317(a)(1) of this title for distribution transformers for which the Secretary makes a determination that energy conservation standards would—
 
 &emsp;(i) be technologically feasible and economically justified; and
 
@@ -108,7 +108,7 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 #### (e) Amendment of standard
 
-(1) In the case of any amended test procedure which is prescribed pursuant to this section, theSecretary shall determine, in the rulemaking carried out with respect to prescribing such procedure, to what extent, if any, the proposed test procedure would alter the measured energy efficiency, measured energy use, or measured water use of any covered product as determined under the existing test procedure.
+(1) In the case of any amended test procedure which is prescribed pursuant to this section, the Secretary shall determine, in the rulemaking carried out with respect to prescribing such procedure, to what extent, if any, the proposed test procedure would alter the measured energy efficiency, measured energy use, or measured water use of any covered product as determined under the existing test procedure.
 
 (2) If the Secretary determines that the amended test procedure will alter the measured efficiency or measured use, the Secretary shall amend the applicable energy conservation standard during the rulemaking carried out with respect to such test procedure. In determining the amended energy conservation standard, the Secretary shall measure, pursuant to the amended test procedure, the energy efficiency, energy use, or water use of a representative sample of covered products that minimally comply with the existing standard. The average of such energy efficiency, energy use, or water use levels determined under the amended test procedure shall constitute the amended energy conservation standard for the applicable covered products.
 

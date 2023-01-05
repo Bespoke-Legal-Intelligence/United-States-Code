@@ -64,7 +64,7 @@ Amounts made available under this subchapter may not be used to construct or rep
 
 #### Prior Provisions
 
-A prior section 467j, Pub. L. 92–367, §11, as added Pub. L. 99–662, title XII, §1201(b), Nov. 17, 1986, 100 Stat. 4262; amended Pub. L. 102–580, title II, §209(b), Oct. 31, 1992, 106 Stat. 4830, related to training for State dam safety inspectors, prior to repeal by Pub. L. 104–303, title II, §215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
+A prior section 467j, Pub. L. 92–367, §11, as added Pub. L. 99–662, title XII, §1201(b), Nov. 17, 1986, 100 Stat. 4262;amended Pub. L. 102–580, title II, §209(b), Oct. 31, 1992, 106 Stat. 4830, related to training for State dam safety inspectors, prior to repeal by Pub. L. 104–303, title II, §215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
 
 A prior section 14 of Pub. L. 92–367 was classified to section 467m of this title prior to repeal by Pub. L. 104–303.
 

@@ -8,7 +8,7 @@ On and after December 26, 2007, funds available to conduct appeals under section
 
 &emsp;(3) any reference to section 1202 of such title I \[34 U.S.C. 10282\] shall be deemed to be a reference to paragraphs (2) and (3) of such section 1202:
 
-> <i>Provided further</i>, That, on and after January 2, 2013, no appeal shall bring any final determination of the Bureau before any court for review unless notice of appeal is filed (within the time specified herein and in the manner prescribed for appeal to United States courts of appeals from United States district courts) not later than 90 days after the date on which the Bureauserves notice of the final determination: <i>Provided further</i>, That any regulations promulgated by the Bureau under such part (or any such statute) before, on, or after January 2, 2013, shall apply to any matter pending on, or filed or accruing after, the effective date specified in the regulations.
+> <i>Provided further</i>, That, on and after January 2, 2013, no appeal shall bring any final determination of the Bureau before any court for review unless notice of appeal is filed (within the time specified herein and in the manner prescribed for appeal to United States courts of appeals from United States district courts) not later than 90 days after the date on which the Bureau serves notice of the final determination: <i>Provided further</i>, That any regulations promulgated by the Bureau under such part (or any such statute) before, on, or after January 2, 2013, shall apply to any matter pending on, or filed or accruing after, the effective date specified in the regulations.
 
 (Pub. L. 110–161, div. B, title II, Dec. 26, 2007, 121 Stat. 1912; Pub. L. 112–239, div. A, title X, §1086(c), Jan. 2, 2013, 126 Stat. 1968.)
 
@@ -32,7 +32,7 @@ Section was formerly classified to section 3796c–2 of Title 42, The Public Hea
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, or filed or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
+Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters pending on Jan. 2, 2013, orfiled or accruing after that date, with certain exceptions, see section 1086(d) of Pub. L. 112–239, set out as a note under section 10251 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

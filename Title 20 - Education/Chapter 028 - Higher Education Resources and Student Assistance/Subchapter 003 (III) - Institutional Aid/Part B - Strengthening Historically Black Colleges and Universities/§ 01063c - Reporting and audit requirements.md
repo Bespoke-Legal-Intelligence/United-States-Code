@@ -14,7 +14,7 @@ Each recipient of a grant under this part shall keep such records as the Secreta
 
 #### (b) Use of unexpended funds
 
-Any funds paid to an institution and not expended or used for the purposes for which the funds were paid during the five-year period following the date of the initial grant award, may be carried over and expended during the succeeding five-year period, if such funds were obligated for a purpose for which the funds were paid during the five-year period following the date of the initial grant award.
+Any funds paid to an institution and not expended or used for the purposes for which the funds were paid during the five-year period following the date of the initial grant award, maybe carried over and expended during the succeeding five-year period, if such funds were obligated for a purpose for which the funds were paid during the five-year period following the date of the initial grant award.
 
 (Pub. L. 89–329, title III, §327, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1298; amended Pub. L. 100–50, §2(a)(11), June 3, 1987, 101 Stat. 335; Pub. L. 110–315, title III, §312, Aug. 14, 2008, 122 Stat. 3180.)
 

@@ -60,7 +60,7 @@ Property.—The term "property" means any interest in property except—
 
 &emsp;&emsp;(iii) minerals in land or portions of land withdrawn or reserved from the public domain which the Secretary of the Interior determines are suitable for disposition under the public land mining and mineral leasing laws; and
 
-&emsp;&emsp;(iv) land withdrawn or reserved from the public domain except land or portions of land so withdrawn or reserved which the Secretary, with the concurrence of the Administrator, determines are not suitable for return to the public domain for disposition under the general public land laws because the lands are substantially changed in character by improvements or otherwise;
+&emsp;&emsp;(iv) land withdrawn or reserved from the public domain except land or portions of land so withdrawn or reserved which theSecretary, with the concurrence of the Administrator, determines are not suitable for return to the public domain for disposition under the general public land laws because the lands are substantially changed in character by improvements or otherwise;
 
 &emsp;&emsp;(B) naval vessels that are battleships, cruisers, aircraft carriers, destroyers, or submarines; and
 
@@ -68,7 +68,7 @@ Property.—The term "property" means any interest in property except—
 
 &emsp;(10)
 
-Surplus property.—The term "surplus property" means excess property that the Administrator determines is not required tomeet the needs or responsibilities of all federal agencies.
+Surplus property.—The term "surplus property" means excess property that the Administrator determines is not required to meet the needs or responsibilities of all federal agencies.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1063; Pub. L. 111–350, §5(l)(2), Jan. 4, 2011, 124 Stat. 3850; Pub. L. 114–318, §3(b)(2), Dec. 16, 2016, 130 Stat. 1613.)
 

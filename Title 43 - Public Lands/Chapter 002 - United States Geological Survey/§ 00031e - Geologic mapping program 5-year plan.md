@@ -14,7 +14,7 @@ The 5-year plan shall identify—
 
 &emsp;&emsp;(A) the role of the Survey in the capacity of overall management lead, including the responsibility for developing the national geologic mapping program that meets Federal needs while fostering State needs;
 
-&emsp;&emsp;(B) the responsibilities of the State geological surveys, with emphasis on mechanisms that incorporate the needs, missions,capabilities, and requirements of the State geological surveys, into the nationwide geologic mapping program;
+&emsp;&emsp;(B) the responsibilities of the State geological surveys, with emphasis on mechanisms that incorporate the needs, missions, capabilities, and requirements of the Stategeological surveys, into the nationwide geologic mapping program;
 
 &emsp;&emsp;(C) mechanisms for identifying short- and long-term priorities for each component of the geologic mapping program, including—
 

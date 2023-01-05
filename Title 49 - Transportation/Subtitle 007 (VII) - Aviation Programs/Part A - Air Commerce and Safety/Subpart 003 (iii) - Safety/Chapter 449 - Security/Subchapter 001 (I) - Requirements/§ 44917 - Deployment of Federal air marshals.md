@@ -10,7 +10,7 @@ In General.—The Administrator of the Transportation Security Administration un
 
 &emsp;(3) shall provide for appropriate training, supervision, and equipment of Federal air marshals;
 
-&emsp;(4) shall require air carriers providing flights described in paragraph (1) to provide seating for a Federal air marshal on any such flight without regard to the availability of seats on the flight and at no cost to the United States Government or the marshal;
+&emsp;(4) shall require air carriers providing flights described in paragraph (1) to provide seating for a Federal air marshal on any such flight without regard to the availability of seats onthe flight and at no cost to the United States Government or the marshal;
 
 &emsp;(5) may require air carriers to provide, on a space-available basis, to an off-duty Federal air marshal a seat on a flight to the airport nearest the marshal's home at no cost to the marshal or the United States Government if the marshal is traveling to that airport after completing his or her security duties;
 

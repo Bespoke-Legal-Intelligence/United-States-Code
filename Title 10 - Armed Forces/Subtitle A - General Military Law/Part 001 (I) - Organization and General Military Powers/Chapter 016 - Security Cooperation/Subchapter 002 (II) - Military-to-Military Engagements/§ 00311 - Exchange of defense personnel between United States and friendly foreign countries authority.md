@@ -10,7 +10,7 @@ Authority To Enter Into International Exchange Agreements.—(1) The Secretary o
 
 &emsp;(B) military and civilian personnel of the defense or security ministry of that foreign government or international or regional security organization.
 
-(3) An exchange of personnel under an international defense personnel exchange agreementunder this section may only be made with the concurrence of the Secretary of State to the extent the exchange is with either of the following:
+(3) An exchange of personnel under an international defense personnel exchange agreement under this section may only be made with the concurrence of the Secretary of State to the extent the exchange is with either of the following:
 
 &emsp;(A) A non-defense security ministry of a foreign government.
 
@@ -81,6 +81,130 @@ Subsec. (c). Pub. L. 114–328, §1242(b)(3), substituted "In the case of" for "
 Subsec. (f). Pub. L. 114–328, §1242(b)(4), inserted "defense or security ministry of that" after "military personnel of the".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Defense Operational Resilience International Cooperation Pilot Program
+
+Pub. L. 117–263, div. A, title XII, §1212, Dec. 23, 2022, 136 Stat. 2834, provided that:
+
+"(a)
+
+Establishment.—The Secretary of Defense, in consultation with the Secretary of State and in coordination with the commanders of the geographic combatant commands, may establish a pilot program, to be known as the 'Defense Operational Resilience International Cooperation Pilot Program' (in this section referred to as the 'pilot program') to support engagement with military forces of partner countries on defense-related environmental and operational energy issues in support of the theater campaign plans of the geographic combatant commands.
+
+"(b)
+
+Duration.—The Secretary of Defense may carry out the pilot program during the period beginning on the date of the enactment of this Act \[Dec. 23, 2022\] and ending on December 31, 2025.
+
+"(c)
+
+Limitations.—
+
+&emsp;"(1)
+
+Purposes.—The pilot program shall be limited to the following purposes:
+
+&emsp;&emsp;"(A) To build military-to-military relationships in support of the efforts of the Department of Defense to engage in long-term strategic competition.
+
+&emsp;&emsp;"(B) To sustain the mission capability and forward posture of the Armed Forces of the United States.
+
+&emsp;&emsp;"(C) To enhance the capability, capacity, and resilience of the military forces of partner countries.
+
+&emsp;"(2)
+
+Prohibited assistance.—The Secretary may not use the pilot program to provide assistance that is in violation of section 362 of title 10, United States Code, or otherwise prohibited by law.
+
+&emsp;"(3)
+
+Security cooperation.—The Secretary shall plan and prioritize assistance, training, and exercises with partner countries pursuant to the pilot program in a manner that is consistent with applicable guidance relating to security cooperation program and activities of the Department of Defense.
+
+"(d)
+
+Funding.—Of amounts authorized to be appropriated by this Act \[see Tables for classification\] for each of fiscal years 2023 through 2025 and available for operation and maintenance, the Secretary may make available $10,000,000 to support the pilot program, which shall be allocated in accordance with the priorities of the commanders of the geographic combatant commands.
+
+"(e)
+
+Annual Report.—
+
+&emsp;"(1)
+
+In general.—With respect to each year the Secretary carries out the pilot program, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on obligations and expenditures made to carry out the pilot program during the fiscal year that precedes the year during which each such report is submitted.
+
+&emsp;"(2)
+
+Deadline.—The Secretary shall submit each such report not later than March 1 of each year during which the Secretary has authority to carry out the pilot program.
+
+&emsp;"(3)
+
+Elements.—Each such report shall include the following:
+
+&emsp;&emsp;"(A) An accounting of each obligation and expenditure made to carry out the pilot program, disaggregated, where applicable, by partner country and military force of a partner country.
+
+&emsp;&emsp;"(B) An explanation of the manner in which each such obligation or expenditure—
+
+&emsp;&emsp;&emsp;"(i) supports the national defense of the United States; and
+
+&emsp;&emsp;&emsp;"(ii) is in accordance with limitations described in subsection (c).
+
+&emsp;&emsp;"(C) Any other matter the Secretary determines to be relevant.
+
+"(f)
+
+Temporary Cessation of Authorization.—No funds authorized to be appropriated or otherwise made available for any of fiscal years 2023 through 2025 for the Department of Defense may be made available for the 'Defense Environmental International Cooperation Program'. During the period specified in subsection (b), all activities and functions of the 'Defense Environmental International Cooperation Program' may only be carried out under the pilot program."
+
+#### Pilot Program To Develop Young Civilian Defense Leaders in the Indo-Pacific Region
+
+Pub. L. 117–263, div. A, title XII, §1261, Dec. 23, 2022, 136 Stat. 2856, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense may establish, using existing authorities of the Department of Defense, a pilot program to enhance engagement of the Department with young civilian defense and security leaders in the Indo-Pacific region.
+
+"(b)
+
+Purposes.—The activities of the pilot program under subsection (a) shall include training of, and engagement with, young civilian leaders from foreign partner ministries of defense and other appropriate ministries with a national defense mission in the Indo-Pacific region for purposes of—
+
+&emsp;"(1) enhancing bilateral and multilateral cooperation between—
+
+&emsp;&emsp;"(A) civilian leaders in the Department; and
+
+&emsp;&emsp;"(B) civilian leaders in foreign partner ministries of defense; and
+
+&emsp;"(2) building the capacity of young civilian leaders in foreign partner ministries of defense to promote civilian control of the military, respect for human rights, and adherence to the law of armed conflict.
+
+"(c)
+
+Priority.—In carrying out the pilot program under subsection (a), the Secretary of Defense shall prioritize engagement with civilian defense leaders from foreign partner ministries of defense who are 40 years of age or younger.
+
+"(d)
+
+Briefings.—
+
+&emsp;"(1)
+
+Design of pilot program.—Not later than June 1, 2023, the Secretary of Defense, in consultation with the Secretary of State, shall provide a briefing to the appropriate committees of Congress on the design of the pilot program under subsection (a).
+
+&emsp;"(2)
+
+Progress briefing.—Not later than December 31, 2023, and annually thereafter until the date on which the pilot program terminates under subsection (e), the Secretary of Defense, in consultation with the Secretary of State, shall provide a briefing to the appropriate committees of Congress on the pilot program that includes—
+
+&emsp;&emsp;"(A) a description of the activities conducted and the results of such activities;
+
+&emsp;&emsp;"(B) an identification of existing authorities used to carry out the pilot program;
+
+&emsp;&emsp;"(C) any recommendations related to new authorities or modifications to existing authorities necessary to more effectively achieve the objectives of the pilot program; and
+
+&emsp;&emsp;"(D) any other matter the Secretary of Defense considers relevant.
+
+"(e)
+
+Termination.—The pilot program under subsection (a) shall terminate on December 31, 2026.
+
+"(f)
+
+Appropriate Committees of Congress Defined.—In this section, the term 'appropriate committees of Congress' means—
+
+&emsp;"(1) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+&emsp;"(2) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives."
 
 #### Limitation on Military-to-Military Exchanges and Contacts With Chinese People's Liberation Army
 

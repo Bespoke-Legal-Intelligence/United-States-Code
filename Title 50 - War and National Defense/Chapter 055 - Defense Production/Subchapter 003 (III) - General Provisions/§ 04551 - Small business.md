@@ -18,7 +18,7 @@ Information about this chapter and activities undertaken in accordance with this
 
 #### (e) Allocations under section 4511
 
-Whenever the President makes a determination to exercise any authority to allocate any material pursuant to section 4511 of this title, small business concerns shall be accorded, to theextent practicable, a fair share of such material, in proportion to the share received by such business concerns under normal conditions, giving such special consideration as may be possible to emerging small business concerns.
+Whenever the President makes a determination to exercise any authority to allocate any material pursuant to section 4511 of this title, small business concerns shall be accorded, to the extent practicable, a fair share of such material, in proportion to the share received by such business concerns under normal conditions, giving such special consideration as may be possible to emerging small business concerns.
 
 (Sept. 8, 1950, ch. 932, title VII, §701, 64 Stat. 815; July 31, 1951, ch. 275, title I, §108, 65 Stat. 138; June 30, 1953, ch. 171, §7, 67 Stat. 130; Aug. 9, 1955, ch. 655, §§4, 5, 69 Stat. 580; Pub. L. 96–294, title I, §105(c), June 30, 1980, 94 Stat. 633; Pub. L. 102–558, title I, §131, Oct. 28, 1992, 106 Stat. 4209.)
 

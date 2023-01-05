@@ -20,7 +20,7 @@ Additional Authority to Accept Gifts to Benefit Certain Members, Dependents, and
 
 &emsp;(D) survivors of such members or employees who are killed.
 
-(2) The Secretary concerned may not accept a gift of services from a foreign government or international organization under this subsection. A gift of real property, personal property, or money from a foreign government or international organization may be accepted under this subsection only if the gift is not designated for a specific individual.
+(2) The Secretary concerned may not accept a gift of services from a foreign government or international organization under this subsection. A gift of real property, personal property, or money from a foreign government or international organization may be acceptedunder this subsection only if the gift is not designated for a specific individual.
 
 (3) The Secretary of Defense shall prescribe regulations specifying the conditions that may be attached to a gift, devise, or bequest accepted under this subsection.
 
@@ -98,7 +98,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "Secretary concerned" includes the Secretary of Defense.
 
-&emsp;(2) The term "services" includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
+&emsp;(2) The term "services" includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequestof real property or personal property under subsection (a) or (b).
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, §593(a), Jan. 28, 2008, 122 Stat. 138; Pub. L. 112–239, div. A, title V, §587(a), div. B, title XXVIII, §2852(a), Jan. 2, 2013, 126 Stat. 1768, 2160; Pub. L. 114–92, div. B, title XXVIII, §2812, Nov. 25, 2015, 129 Stat. 1174; Pub. L. 116–283, div. B, title XXVIII, §2821, Jan. 1, 2021, 134 Stat. 4330.)
 
@@ -176,7 +176,7 @@ Subsec. (i)(2). Pub. L. 112–239, §587(a), inserted "education," before "moral
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1980 Amendment
 

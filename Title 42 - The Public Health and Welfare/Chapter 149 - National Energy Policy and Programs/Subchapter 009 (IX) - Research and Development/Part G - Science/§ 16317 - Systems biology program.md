@@ -32,7 +32,7 @@ The program shall have the goal of developing technologies and methods based on 
 
 #### (1) Development of plan
 
-&emsp;Not later than 1 year after August 8, 2005, the Secretary shall prepare and transmit toCongress a research plan describing how the program authorized pursuant to this section will be undertaken to accomplish the program goals established in subsection (b).
+&emsp;Not later than 1 year after August 8, 2005, the Secretary shall prepare and transmit to Congress a research plan describing how the program authorized pursuant to this section will be undertaken to accomplish the program goals established in subsection (b).
 
 #### (2) Review of plan
 
@@ -58,37 +58,119 @@ Within the funds authorized to be appropriated pursuant to this part, amounts sh
 
 #### (f) Bioenergy research centers
 
-#### (1) Establishment of centers
+#### (1) In general
 
-&emsp;In carrying out the program under subsection (a), the Secretary shall establish at least 7 bioenergy research centers, which may be of varying size.
+&emsp;In carrying out the program under section 18644(a) of this title, the Director shall supportup to 6 bioenergy research centers to conduct fundamental research in plant and microbial systems biology, biological imaging and analysis, and genomics, and to accelerate advanced research and development of advanced biofuels, bioenergy or biobased materials, chemicals, and products that are produced from a variety of regionally diverse feedstocks, and to facilitate the translation of research results to industry. The activities of the centers authorized under this subsection may include—
 
-#### (2) Geographic distribution
+&emsp;&emsp;(A) accelerating the domestication of bioenergy-relevant plants, microbes, and associated microbial communities to enable high-impact, value-added coproduct development at multiple points in the bioenergy supply chain;
 
-&emsp;The Secretary shall establish at least 1 bioenergy research center in each Petroleum Administration for Defense District or Subdistrict of a Petroleum Administration for Defense District.
+&emsp;&emsp;(B) developing the science and technological advances to ensure process sustainability is considered in the creation of advanced biofuels and bioproducts from lignocellulosic biomass; and
 
-#### (3) Goals
+&emsp;&emsp;(C) using the latest tools in genomics, molecular biology, catalysis science, chemical engineering, systems biology, and computational and robotics technologies to sustainably produce and transform biomass into advanced biofuels and bioproducts.
 
-&emsp;The goals of the centers established under this subsection shall be to accelerate basic transformational research and development of biofuels, including biological processes.
-
-#### (4) Selection and duration
+#### (2) Selection and duration
 
 #### (A) In general
 
-&emsp;&emsp;A center under this subsection shall be selected on a competitive basis for a period of 5 years.
+&emsp;&emsp;A center established under paragraph (1) shall be selected on a competitive, merit-reviewed basis for a period of not more than 5 years, subject to the availability of appropriations, beginning on the date of establishment of that center.
 
-#### (B) Reapplication
+#### (B) Applications
 
-&emsp;&emsp;After the end of the period described in subparagraph (A), a grantee may reapply for selection on a competitive basis.
+&emsp;&emsp;The Director shall consider applications from National Laboratories, multi-institutional collaborations, and other appropriate entities.
 
-#### (5) Inclusion
+#### (C) Existing centers
 
-&emsp;A center that is in existence on December 19, 2007—
+&emsp;&emsp;A center already in existence on August 9, 2022, may continue to receive support for a period of not more than 5 years beginning on the date of establishment of that center.
 
-&emsp;&emsp;(A) shall be counted towards the requirement for establishment of at least 7 bioenergy research centers; and
+#### (D) New centers
 
-&emsp;&emsp;(B) may continue to receive support for a period of 5 years beginning on the date of establishment of the center.
+&emsp;&emsp;The Director shall select any new center pursuant to paragraph (1) on a competitive, merit-reviewed basis, with special consideration for applications from an institution of higher education (as defined in section 1001 of title 20) that is located in an eligible jurisdiction (as defined in section 13503(b)(3)(A) of this title).
 
-(Pub. L. 109–58, title IX, §977, Aug. 8, 2005, 119 Stat. 903; Pub. L. 110–140, title II, §§232(a), 233, Dec. 19, 2007, 121 Stat. 1537.)
+#### (3) Renewal
+
+&emsp;After the end of the applicable period described in paragraph (2), the Director may renew support for a center for a period of not more than 5 years on a merit-reviewed basis. For a center in operation for 10 years after its previous selection on a competitive, merit-reviewed basis, the Director may renew support for the center on a competitive, merit-reviewed basis for a period of not more than 5 years, and may subsequently provide an additional renewal on a merit-reviewed basis for a period of not more than 5 years.
+
+#### (4) Activities
+
+&emsp;Centers shall undertake research activities to accelerate the production of advanced biofuels and bioproducts from biomass resources by identifying the most suitable species of plants for use as energy crops; and improving methods of breeding, propagation, planting, producing, harvesting, storage and processing. Activities may include the following:
+
+&emsp;&emsp;(A) Research activities to increase sustainability, including—
+
+&emsp;&emsp;&emsp;(i) advancing knowledge of how bioenergy crop interactions with biotic and abiotic environmental factors influence crop growth, yield, and quality;
+
+&emsp;&emsp;&emsp;(ii) identifying the most impactful research areas that address the economics of advanced biofuels and bioproducts production; and
+
+&emsp;&emsp;&emsp;(iii) utilizing multiscale modeling to advance predictive understanding of advanced biofuel cropping ecosystems.
+
+&emsp;&emsp;(B) Research activities to further feedstock development, including lignocellulosic, algal, gaseous wastes including carbon oxides and methane, and direct air capture of single carbon gases via plants and microbes, including—
+
+&emsp;&emsp;&emsp;(i) developing genetic and genomic tools, high-throughput analytical tools, and biosystems design approaches to enhance bioenergy feedstocks and their associated microbiomes;
+
+&emsp;&emsp;&emsp;(ii) conducting field testing of new potential bioenergy feedstock crops under environmentally benign and geographically diverse conditions to assess viability and robustness; and
+
+&emsp;&emsp;&emsp;(iii) developing quantitative models informed by experimentation to predict how bioenergy feedstocks perform under diverse conditions.
+
+&emsp;&emsp;(C) Research activities to improve lignocellulosic deconstruction and separation methods, including—
+
+&emsp;&emsp;&emsp;(i) developing feedstock-agnostic deconstruction processes capable of efficiently fractionating biomass into targeted output streams;
+
+&emsp;&emsp;&emsp;(ii) gaining a detailed understanding of plant cell wall biosynthesis, composition, structure, and properties during deconstruction; and
+
+&emsp;&emsp;&emsp;(iii) improving enzymes and approaches for biomass breakdown and cellulose, hemicellulose, and lignin processing.
+
+&emsp;&emsp;(D) Research activities to improve the feedstock conversion process for advanced biofuels and bioproducts, including—
+
+&emsp;&emsp;&emsp;(i) developing high-throughput methods to screen or select high-performance microbial strains and communities to improve product formation rates, yields, and selectivity;
+
+&emsp;&emsp;&emsp;(ii) establishing a broad set of platform microorganisms and microbial communities suitable for metabolic engineering to produce advanced biofuels and bioproducts and high-throughput methods for experimental validation of gene function;
+
+&emsp;&emsp;&emsp;(iii) developing techniques to enhance microbial robustness for tolerating toxins to improve advanced biofuel and bioproduct yields and to gain a better understanding of the cellular and molecular bases of tolerance for major chemical classes of inhibitors found in these processes;
+
+&emsp;&emsp;&emsp;(iv) advancing technologies for the use of batch, continuous, and consolidated bioprocessing;
+
+&emsp;&emsp;&emsp;(v) identifying, creating, and optimizing microbial and chemical pathways to produce promising, atom-economical intermediates and final bioproducts from biomass with considerations given to environmentally benign processes;
+
+&emsp;&emsp;&emsp;(vi) developing high-throughput, real-time, in situ analytical techniques to understand and characterize the pre- and post-bioproduct separation streams in detail;
+
+&emsp;&emsp;&emsp;(vii) creating methodologies for efficiently identifying viable target molecules, identifying high-value bioproducts in existing biomass streams, and utilizing current byproduct streams;
+
+&emsp;&emsp;&emsp;(viii) identifying and improving plant feedstocks with enhanced extractable levels of desired bioproducts or bioproduct precursors, including lignin streams; and
+
+&emsp;&emsp;&emsp;(ix) developing integrated biological and chemical catalytic approaches to valorize and produce a diverse portfolio of advanced biofuels and bioproducts.
+
+#### (5) Industry partnerships
+
+&emsp;Centers shall establish industry partnerships to translate research results to commercial applications.
+
+#### (6) Coordination
+
+&emsp;In coordination with the Bioenergy Technologies Office of the Department, the Secretary shall support interdisciplinary research activities to improve the capacity, efficiency, resilience, security, reliability, and affordability, of the production and use of advanced biofuels and bioproducts, as well as activities to enable positive impacts and avoid the potential negative impacts that the production and use of advanced biofuels and bioproducts may have on ecosystems, people, and historically marginalized communities.
+
+#### (7) Funding
+
+&emsp;Of the funds authorized to be appropriated under subsection (k) of section 18644 of this title for a fiscal year, there is authorized to be appropriated to the Secretary to carry out this subsection $30,000,000 per center established under paragraph (1) for each of fiscal years 2023 through 2027.
+
+#### (8) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Advanced biofuel
+
+&emsp;&emsp;The term "advanced biofuel" has the meaning given the term in section 8101 of title 7.
+
+#### (B) Bioenergy
+
+&emsp;&emsp;The term "bioenergy" means energy derived from biofuels.
+
+#### (C) Biomass
+
+&emsp;&emsp;The term "biomass" has the meaning given the term in section 15852(b) of this title.
+
+#### (D) Bioproduct
+
+&emsp;&emsp;The term "bioproduct" has the meaning given the term "biobased product" in section 8101 of title 7.
+
+(Pub. L. 109–58, title IX, §977, Aug. 8, 2005, 119 Stat. 903; Pub. L. 110–140, title II, §§232(a), 233, Dec. 19, 2007, 121 Stat. 1537; Pub. L. 117–167, div. B, title I, §10103(e), Aug. 9, 2022, 136 Stat. 1430.)
 
 #### <b>Editorial Notes</b>
 
@@ -97,6 +179,8 @@ Within the funds authorized to be appropriated pursuant to this part, amounts sh
 This part, referred to in subsec. (d), was in the original "this subtitle", meaning subtitle G (§§971–984A) of title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 898, which enacted this part and amended section 5523 of Title 15, Commerce and Trade. For complete classification of subtitle G to the Code, see Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f). Pub. L. 117–167 added subsec. (f) and struck out former subsec. (f) which related to establishment of at least 7 bioenergy research centers to carry out the program under subsec. (a) of this section.
 
 <b>2007</b>—Subsec. (a)(1). Pub. L. 110–140, §232(a)(1), substituted "computational biology, and environmental science" for "and computational biology".
 

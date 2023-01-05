@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary, consistent with section 1665a of this title, acting through the Service, Indian Tribes, and Tribal Organizations, is authorized to establish and operate fetal alcohol spectrum disorders programs as provided in this section for the purposes of meeting thehealth status objectives specified in section 1602 of this title.
+&emsp;The Secretary, consistent with section 1665a of this title, acting through the Service, Indian Tribes, and Tribal Organizations, is authorized to establish and operate fetal alcohol spectrum disorders programs as provided in this section for the purposes of meeting the health status objectives specified in section 1602 of this title.
 
 #### (2) Use of funds
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-As part of the Office of Energy Efficiency and Renewable Energy of the Department of Energy, the Secretary, on the request of a manufacturer, shall carry out onsite technical assessments to identify opportunities for—
+As part of the Office of Energy Efficiency and Renewable Energy of the Department of Energy,the Secretary, on the request of a manufacturer, shall carry out onsite technical assessments to identify opportunities for—
 
 &emsp;(1) maximizing the energy efficiency of industrial processes and cross-cutting systems;
 

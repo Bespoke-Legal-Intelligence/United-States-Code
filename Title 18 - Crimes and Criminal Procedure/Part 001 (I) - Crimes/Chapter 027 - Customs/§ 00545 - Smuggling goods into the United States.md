@@ -1,6 +1,6 @@
 ### §545. Smuggling goods into the United States
 
-Whoever knowingly and willfully, with intent to defraud the United States, smuggles, or clandestinely introduces or attempts to smuggle or clandestinely introduce into the United States any merchandise which should have been invoiced, or makes out or passes, or attempts to pass, through the customhouse any false, forged, or fraudulent invoice, or other document or paper; or
+Whoever knowingly and willfully, with intent to defraud the United States, smuggles, or clandestinely introduces or attempts to smuggle orclandestinely introduce into the United States any merchandise which should have been invoiced, or makes out or passes, or attempts to pass, through the customhouse any false, forged, or fraudulent invoice, or other document or paper; or
 
 Whoever fraudulently or knowingly imports or brings into the United States, any merchandise contrary to law, or receives, conceals, buys, sells, or in any manner facilitates the transportation, concealment, or sale of such merchandise after importation, knowing the same to have been imported or brought into the United States contrary to law—
 

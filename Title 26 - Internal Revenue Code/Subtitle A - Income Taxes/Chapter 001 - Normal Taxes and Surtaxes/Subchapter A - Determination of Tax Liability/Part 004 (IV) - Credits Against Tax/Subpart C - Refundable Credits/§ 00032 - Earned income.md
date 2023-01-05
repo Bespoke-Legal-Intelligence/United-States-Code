@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the credit percentage of so much of the taxpayer's earned income for the taxable year as does not exceed the earned income amount.
+&emsp;In the case of an eligible individual, there shall be allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to the credit percentage of so much of the taxpayer's earned income for thetaxable year as does not exceed the earned income amount.
 
 #### (2) Limitation
 
@@ -115,7 +115,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "qualifying child" means a qualifying child of the taxpayer (as definedin section 152(c), determined without regard to paragraph (1)(D) thereof and section 152(e)).
+&emsp;&emsp;The term "qualifying child" means a qualifying child of the taxpayer (as defined in section 152(c), determined without regard to paragraph (1)(D) thereof and section 152(e)).
 
 #### (B) Married individual
 
@@ -359,7 +359,7 @@ The Social Security Act, referred to in subsecs. (c)(2)(B)(v), (m), and (n)(1)(D
 
 The United States Housing Act of 1937, referred to in subsec. (l)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note under section 1437 of Title 42 and Tables.
 
-The Housing Act of 1949, referred to in subsec. (l)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (l)(2), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
 Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (l)(3), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted section 1701s of Title 12, Banks and Banking, and amended sections 1451 and 1465 of Title 42.
 
@@ -381,7 +381,7 @@ A prior section 32 was renumbered section 33 of this title.
 
 Subsec. (c)(1)(E)(ii). Pub. L. 117–2, §9623(b)(2), struck out "(within the meaning of section 7703)" after "is married".
 
-Subsec. (c)(1)(F). Pub. L. 117–2, §9622(a), struck out subpar. (F). Text read as follows: "No credit shall be allowed under this section to any eligible individual who has one or more qualifying children if no qualifying child of such individual is taken into account under subsection (b) by reason of paragraph (3)(D)."
+Subsec. (c)(1)(F). Pub. L. 117–2, §9622(a), struck out heading and text of subpar. (F). Text read as follows: "No credit shall be allowed under this section to any eligible individual who has one or more qualifying children if no qualifying child of such individual is taken into account under subsection (b) by reason of paragraph (3)(D)."
 
 Subsec. (d). Pub. L. 117–2, §9623(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -641,9 +641,9 @@ Subsec. (i)(1). Pub. L. 103–66, §13131(c)(1), added par. (1) and struck out t
 
 Subsec. (i)(2), (3). Pub. L. 103–66, §13131(c), redesignated par. (3) as (2) and struck out former par. (2) which defined terms for purposes of the inflation adjustment in par. (1).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §11111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "In the case of an eligible individual, there is allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to 14 percent of so much of the earned income for the taxable year as does not exceed $5,714."
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §11111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a)read as follows: "In the case of an eligible individual, there is allowed as a credit against the tax imposed by this subtitle for the taxable year an amount equal to 14 percent of so much of the earned income for the taxable year as does not exceed $5,714."
 
-Subsec. (b). Pub. L. 101–508, §11111(a), substituted heading for one which read "Limitation" and amendedsubsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The amount of the credit allowable to a taxpayer under subsection (a) for any taxable year shall not exceed the excess (if any) of—
+Subsec. (b). Pub. L. 101–508, §11111(a), substituted heading for one which read "Limitation" and amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The amount of the credit allowable to a taxpayer under subsection (a) for any taxable year shall not exceed the excess (if any) of—
 
 &emsp;"(1) the maximum credit allowable under subsection (a) to any taxpayer, over
 
@@ -733,13 +733,13 @@ Subsec. (c)(1). Pub. L. 95–600, §104(e), amended par. (1) generally, substitu
 
 Subsec. (c)(1)(C). Pub. L. 95–615, §202(f)(5), which directed the amendment of subsec. (c)(1)(B) by substituting "(relating to income earned by employees in certain camps)" for "(relating to earned income from sources without the United States)", was executed to subsec. (c)(1)(C) to reflect the probable intent of Congress and the general amendment of subsec. (c)(1) by Pub. L. 95–600 which enacted provisions formerly contained in subsec. (c)(1)(B) in subsec. (c)(1)(C).
 
-Subsec. (c)(2)(B). Pub. L. 95–600, §104(d), redesignated cls. (ii) to (iv) as (i) to (iii), respectively. Former cl. (i), which provided that amounts be taken into account only if includible in the gross income of the taxpayer for the taxable year, was struck out.
+Subsec. (c)(2)(B). Pub. L. 95–600, §104(d), redesignated cls. (ii) to (iv) as (i) to (iii), respectively. Former cl. (i),which provided that amounts be taken into account only if includible in the gross income of the taxpayer for the taxable year, was struck out.
 
 Subsec. (f). Pub. L. 95–600, §104(c), added subsec. (f).
 
 Subsec. (h). Pub. L. 95–600, §105(a), added subsec. (h).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §401(c)(1)(B), substituted "is allowed" for "shall be allowed" and struckout provisions relating to the application of the six-month rule.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §401(c)(1)(B), substituted "is allowed" for "shall be allowed" and struck out provisions relating to the application of the six-month rule.
 
 Subsec. (b). Pub. L. 94–455, §401(c)(1)(B), struck out provisions relating to the application of the six-month rule.
 
@@ -821,7 +821,7 @@ Amendment by section 205 of Pub. L. 108–311 applicable to taxable years beginn
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–147, title IV, §416(a)(2), Mar. 9, 2002, 116 Stat. 55, provided that: "The amendment made by thissubsection \[amending this section\] shall take effect as if included in section 474 of the Tax Reform Act of 1984 \[Pub. L. 98–369\]."
+Pub. L. 107–147, title IV, §416(a)(2), Mar. 9, 2002, 116 Stat. 55, provided that: "The amendment made by this subsection \[amending this section\] shall take effect as if included in section 474 of the Tax Reform Act of 1984 \[Pub. L. 98–369\]."
 
 #### Effective Date of 2001 Amendment
 
@@ -933,7 +933,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by sections 104(b)(1)(B) and 111(a)–(d)(1) of Pub. L. 99–514 applicable to taxable years beginningafter Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by sections 104(b)(1)(B) and 111(a)–(d)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 1272(d)(4) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
@@ -1009,7 +1009,7 @@ In general.—For purposes of this section, the term 'earned income' has the mea
 
 &emsp;"(2)
 
-Application to joint returns.—For purposes of subsection (a), in the case of a joint return, the earned income of the taxpayer for the first taxable year beginning in 2019 shall be the sum of the earned income of each spouse for such taxable year.
+Application to joint returns.—For purposes of subsection (a), in the case of a joint return, theearned income of the taxpayer for the first taxable year beginning in 2019 shall be the sum of the earned income of each spouse for such taxable year.
 
 "(c)
 
@@ -1017,7 +1017,7 @@ Special Rules.—
 
 &emsp;"(1)
 
-Errors treated as mathematical errors.—For purposes of section 6213 of the Internal RevenueCode of 1986, an incorrect use on a return of earned income pursuant to subsection (a) shall be treated as a mathematical or clerical error.
+Errors treated as mathematical errors.—For purposes of section 6213 of the Internal Revenue Code of 1986, an incorrect use on a return of earned income pursuant to subsection (a) shall be treated as a mathematical or clerical error.
 
 &emsp;"(2)
 
@@ -1143,7 +1143,7 @@ Secretary of the Treasury, or Secretary's delegate, to establish taxpayer awaren
 
 #### Employee Notification
 
-Pub. L. 99–514, title I, §111(e), Oct. 22, 1986, 100 Stat. 2108, provided that: "The Secretary of the Treasury is directed to require, under regulations, employers to notify any employee who has not had any tax withheld from wages (other than an employee whose wages areexempt from withholding pursuant to section 3402(n) of the Internal Revenue Code of 1986) that such employee may be eligible for a refund because of the earned income credit."
+Pub. L. 99–514, title I, §111(e), Oct. 22, 1986, 100 Stat. 2108, provided that: "The Secretary of the Treasury isdirected to require, under regulations, employers to notify any employee who has not had any tax withheld from wages (other than an employee whose wages are exempt from withholding pursuant to section 3402(n) of the Internal Revenue Code of 1986) that such employee may be eligible for a refund because of the earned income credit."
 
 #### Disregard of Refund for Determination of Eligibility for Federal Benefits or Assistance
 

@@ -20,7 +20,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 &emsp;&emsp;(i) in an accredited (as determined by the Secretary) educational institution in a State; and
 
-&emsp;&emsp;(ii) in the final year of a course of a study or program, offered by such institution and approved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession;
+&emsp;&emsp;(ii) in the final year of a course of a study or program, offered by such institution andapproved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession;
 
 &emsp;(2) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps <sup>1</sup> of the Service or be eligible for selection for civilian service in the Corps; and
 
@@ -64,7 +64,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 (2) In providing contracts under the Loan Repayment Program, the Secretary shall give priority—
 
-&emsp;(A) to any application for such a contract submitted by an individual whose training isin a health profession or specialty determined by the Secretary to be needed by the Corps;
+&emsp;(A) to any application for such a contract submitted by an individual whose training is in a health profession or specialty determined by the Secretary to be needed by the Corps;
 
 &emsp;(B) to any application for such a contract submitted by an individual who has (and whose spouse, if any, has) characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) is completed; and
 
@@ -234,7 +234,7 @@ Subsec. (f)(2). Pub. L. 101–597, §202(e), inserted before semicolon at end ",
 
 Subsec. (g)(1). Pub. L. 101–597, §202(f)(1), inserted "regarding the undergraduate or graduate education of the individual (or both), which loans were made" after "loans received by the individual".
 
-Subsec. (g)(2)(A). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in cls. (ii) and (iii).
+Subsec. (g)(2)(A). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage areafor reference to health manpower shortage area in cls. (ii) and (iii).
 
 Pub. L. 101–597, §202(f)(2)(A), substituted "For each year" for "Except as provided in subparagraph (B) and paragraph (3), for each year" and "$35,000" for "$20,000", inserted at end "In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—", and added immediately thereafter cls. (i) to (iii).
 

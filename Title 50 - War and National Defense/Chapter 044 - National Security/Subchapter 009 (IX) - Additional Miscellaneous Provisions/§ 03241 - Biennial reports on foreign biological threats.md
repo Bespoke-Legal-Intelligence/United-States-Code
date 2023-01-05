@@ -1,0 +1,78 @@
+### §3241. Biennial reports on foreign biological threats
+
+#### (a) Reports
+
+On a biennial basis until the date that is 10 years after March 15, 2022, the Director of National Intelligence shall submit to the congressional intelligence committees a comprehensive report on the activities, prioritization, and responsibilities of the intelligence community with respect to foreign biological threats emanating from the territory of, or sponsored by, a covered country.
+
+#### (b) Matters included
+
+Each report under subsection (a) shall include, with respect to foreign biological threats emanating from the territory of, or sponsored by, a covered country, the following:
+
+&emsp;(1) A detailed description of all activities relating to such threats undertaken by each element of the intelligence community, and an assessment of any gaps in such activities.
+
+&emsp;(2) A detailed description of all duties and responsibilities relating to such threats explicitly authorized or otherwise assigned, exclusively or jointly, to each element of the intelligence community, and an assessment of any identified gaps in such duties or responsibilities.
+
+&emsp;(3) A description of the coordination among the relevant elements of the intelligence community with respect to the activities specified in paragraph (1) and the duties and responsibilities specified in paragraph (2).
+
+&emsp;(4) An inventory of the strategies, plans, policies, and interagency agreements of the intelligence community relating to the collection, monitoring, analysis, mitigation, and attribution of such threats, and an assessment of any identified gaps therein.
+
+&emsp;(5) A description of the coordination and interactions among the relevant elements of the intelligence community and non-intelligence community partners.
+
+&emsp;(6) An assessment of foreign malign influence efforts relating to such threats, including any foreign academics engaged in such efforts, and a description of how the intelligence community contributes to efforts by non-intelligence community partners to counter such foreign malign influence.
+
+#### (c) Form
+
+Each report submitted under subsection (a) may be submitted in classified form, but if so submitted shall include an unclassified executive summary.
+
+#### (d) Definitions
+
+In this section:
+
+#### (1) Covered country
+
+&emsp;The term "covered country" means—
+
+&emsp;&emsp;(A) China;
+
+&emsp;&emsp;(B) Iran;
+
+&emsp;&emsp;(C) North Korea;
+
+&emsp;&emsp;(D) Russia; and
+
+&emsp;&emsp;(E) any other foreign country—
+
+&emsp;&emsp;&emsp;(i) from which the Director of National Intelligence determines a biological threat emanates; or
+
+&emsp;&emsp;&emsp;(ii) that the Director determines has a known history of, or has been assessed as having conditions present for, infectious disease outbreaks or epidemics.
+
+#### (2) Foreign biological threat
+
+&emsp;The term "foreign biological threat" means biological warfare, bioterrorism, naturally occurring infectious diseases, or accidental exposures to biological materials, without regard to whether the threat originates from a state actor, a non-state actor, natural conditions, or an undetermined source.
+
+#### (3) Foreign malign influence
+
+&emsp;The term "foreign malign influence" has the meaning given such term in section 3059(e) <sup>1</sup> of this title.
+
+#### (4) Non-intelligence community partner
+
+&emsp;The term "non-intelligence community partner" means a Federal department or agency that is not an element of the intelligence community.
+
+(July 26, 1947, ch. 343, title XI, §1111, as added Pub. L. 117–103, div. X, title VIII, §821(a), Mar. 15, 2022, 136 Stat. 1019.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 3059(e) of this title, referred to in subsec. (d)(3), was redesignated as section 3059(f) of this title by Pub. L. 117–263, div. F, title LXIII, §6307(b)(1), Dec. 23, 2022, 136 Stat. 3505.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### First Report
+
+Pub. L. 117–103, div. X, title VIII, §821(b), Mar. 15, 2022, 136 Stat. 1020, provided that: "Not later than 120 days after the date of the enactment of this Act \[Mar. 15, 2022\], the Director of National Intelligence shall submit to the congressional intelligence committees the first report required under section 1111 of the National Security Act of 1947 \[50 U.S.C. 3241\], as added by subsection (a)."
+
+\[For definition of "congressional intelligence committees" as used in section 821(b) of div. X of Pub. L. 117–103, set out above, see section 2 of div. X of Pub. L. 117–103, set out as a note under section 3003 of this title.\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

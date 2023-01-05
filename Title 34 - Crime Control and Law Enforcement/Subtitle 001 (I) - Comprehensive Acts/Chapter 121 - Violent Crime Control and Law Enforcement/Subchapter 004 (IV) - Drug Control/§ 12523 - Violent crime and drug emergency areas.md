@@ -56,7 +56,7 @@ The President may—
 
 #### (2) Extension
 
-&emsp;The chief executive officer of a jurisdiction may apply to the President for an extension of assistance beyond 1 year. The President may extend the provision of Federal assistance for not more than an additional 180 days.
+&emsp;The chief executive officer of a jurisdiction may apply to the President for an extension ofassistance beyond 1 year. The President may extend the provision of Federal assistance for not more than an additional 180 days.
 
 #### (i) Regulations
 

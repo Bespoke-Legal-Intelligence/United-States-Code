@@ -16,7 +16,7 @@ In this section:
 
 #### (B) Medical treatments, services, and items described
 
-&emsp;&emsp;The medical treatments, services, and items described in this subparagraph are health care interventions, protocols for treatment, care management, and delivery, procedures, medical devices, diagnostic tools, pharmaceuticals (including drugs and biologicals), integrative health practices, and any other strategies or items being used in the treatment, management, and diagnosis of, or prevention of illness or injury in, individuals.
+&emsp;&emsp;The medical treatments, services, and items described in this subparagraph are health care interventions, protocols fortreatment, care management, and delivery, procedures, medical devices, diagnostic tools, pharmaceuticals (including drugs and biologicals), integrative health practices, and any other strategies or items being used in the treatment, management, and diagnosis of, or prevention of illness or injury in, individuals.
 
 #### (3) Conflict of interest
 
@@ -46,7 +46,7 @@ In this section:
 
 #### (c) Purpose
 
-The purpose of the Institute is to assist patients, clinicians, purchasers, and policy-makersin making informed health decisions by advancing the quality and relevance of evidence concerning the manner in which diseases, disorders, and other health conditions can effectively and appropriately be prevented, diagnosed, treated, monitored, and managed through research and evidence synthesis that considers variations in patient subpopulations, and the dissemination of research findings with respect to the relative health outcomes, clinical effectiveness, and appropriateness of the medical treatments, services, and items described in subsection (a)(2)(B).
+The purpose of the Institute is to assist patients, clinicians, purchasers, and policy-makers in making informed health decisions by advancing the quality and relevance of evidence concerning the manner in which diseases, disorders, and other health conditions can effectively and appropriately be prevented, diagnosed, treated, monitored, and managed through research and evidence synthesis that considers variations in patient subpopulations, and the dissemination of research findings with respect to the relative health outcomes, clinical effectiveness, and appropriateness of the medical treatments, services, and items described in subsection (a)(2)(B).
 
 #### (d) Duties
 
@@ -178,7 +178,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 &emsp;&emsp;Subject to subparagraph (D), the methodology committee shall work to develop and improve the science and methods of comparative clinical effectiveness research by, not later than 18 months after the establishment of the Institute, directly or through subcontract, developing and periodically updating the following:
 
-&emsp;&emsp;&emsp;(i) Methodological standards for research. Such methodological standards shall provide specific criteria for internal validity, generalizability, feasibility, and timeliness of research and for health outcomes measures, risk adjustment, and other relevant aspects of research and assessment with respect to the design of research. Any methodological standards developed and updated under this subclause <sup>3</sup> shall be scientifically based and include methods by which new information, data, or advances in technology are considered and incorporated into ongoing research projects by the Institute, as appropriate. The process for developing and updating such standards shall include input from relevant experts, stakeholders, and decisionmakers, and shall provide opportunities for public comment. Such standards shall also include methods by which patient subpopulations can be accounted for and evaluated in different types of research. As appropriate, such standards shall build on existing work on methodological standards for defined categories of health interventions and for each of the major categories of comparative clinical effectiveness research methods (determined as of March 23, 2010).
+&emsp;&emsp;&emsp;(i) Methodological standards for research. Such methodological standards shall provide specific criteria for internal validity, generalizability, feasibility, and timeliness of research and for health outcomes measures, risk adjustment, and other relevant aspects of research and assessment with respect to the design of research. Any methodological standards developed and updated under this subclause <sup>3</sup> shall be scientifically based and include methods by which new information, data, or advances in technology are considered and incorporated into ongoing research projects by the Institute, as appropriate. The process for developing and updating such standards shall include input from relevant experts, stakeholders, and decisionmakers, and shall provide opportunities for public comment. Such standards shall also include methods by which patient subpopulations can be accounted for and evaluated in different types of research. As appropriate, such standardsshall build on existing work on methodological standards for defined categories of health interventions and for each of the major categories of comparative clinical effectiveness research methods (determined as of March 23, 2010).
 
 &emsp;&emsp;&emsp;(ii) A translation table that is designed to provide guidance and act as a reference for the Board to determine research methods that are most likely to address each specific research question.
 
@@ -248,7 +248,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 &emsp;&emsp;(C) any administrative activities conducted by the Institute during the preceding year;
 
-&emsp;&emsp;(D) the names of individuals contributing to any peer-review process under paragraph (7), without identifying them with a particular research project; and
+&emsp;&emsp;(D) the names of individuals contributing to any peer-review process under paragraph\(7), without identifying them with a particular research project; and
 
 &emsp;&emsp;(E) any other relevant information (including information on the membership of the Board, expert advisory panels, methodology committee, and the executive staff of the Institute, any conflicts of interest with respect to these individuals, and any bylaws adopted by the Board during the preceding year).
 
@@ -288,7 +288,7 @@ The purpose of the Institute is to assist patients, clinicians, purchasers, and 
 
 #### (2) Qualifications
 
-&emsp;The Board shall represent a broad range of perspectives and collectively have scientific expertise in clinical health sciences research, including epidemiology, decisions sciences, health economics, and statistics. In appointing the Board, the Comptroller General of the United States shall consider and disclose any conflicts of interest in accordance with subsection (h)(4)(B). Members of the Board shall be recused from relevant Institute activitiesin the case where the member (or an immediate family member of such member) has a real conflict of interest directly related to the research project or the matter that could affect or be affected by such participation.
+&emsp;The Board shall represent a broad range of perspectives and collectively have scientific expertise in clinical health sciences research, including epidemiology, decisions sciences, health economics, and statistics. In appointing the Board, the Comptroller General of the United States shall consider and disclose any conflicts of interest in accordance with subsection (h)(4)(B). Members of the Board shall be recused from relevant Institute activities in the case where the member (or an immediate family member of such member) has a real conflict of interest directly related to the research project or the matter that could affect or be affected by such participation.
 
 #### (3) Terms; vacancies
 
@@ -398,7 +398,7 @@ The Institute,<sup>5</sup> its Board or staff, shall be prohibited from acceptin
 
 &emsp;&emsp;(A) to permit the Institute to mandate coverage, reimbursement, or other policies for any public or private payer; or
 
-&emsp;&emsp;(B) as preventing the Secretary from covering the routine costs of clinical care received by an individual entitled to, or enrolled for, benefits under subchapter XVIII, XIX, or XXI in the case where such individual is participating in a clinical trial andsuch costs would otherwise be covered under such subchapter with respect to the beneficiary.
+&emsp;&emsp;(B) as preventing the Secretary from covering the routine costs of clinical care received by an individual entitled to, or enrolled for, benefits under subchapter XVIII, XIX, or XXI in the case where such individual is participating in a clinical trial and such costs would otherwise be covered under such subchapter with respect to the beneficiary.
 
 (Aug. 14, 1935, ch. 531, title XI, §1181, as added and amended Pub. L. 111–148, title VI, §6301(a), title X, §10602, Mar. 23, 2010, 124 Stat. 727, 1005; Pub. L. 116–94, div. N, title I, §104(d)–(h), Dec. 20, 2019, 133 Stat. 3098, 3099.)
 
@@ -434,7 +434,7 @@ Subsec. (h)(4)(A)(ii). Pub. L. 116–94, §104(g)(2)(A), substituted "Board" for
 
 Subsec. (h)(4)(B). Pub. L. 116–94, §104(g)(2)(B), struck out "and of the Government Accountability Office" after "Institute".
 
-<b>2010</b>—Subsec. (d)(2)(B)(ii)(IV). Pub. L. 111–148, §10602(1)(A), inserted ", as described in subparagraph (A)(ii)," after "original research" and ", as long as the researcher enters into a data use agreement with the Institute for use of the data from the original research, as appropriate" after "publication".
+<b>2010</b>—Subsec. (d)(2)(B)(ii)(IV). Pub. L. 111–148, §10602(1)(A), inserted ", as described in subparagraph\(A)(ii)," after "original research" and ", as long as the researcher enters into a data use agreement with the Institute for use of the data from the original research, as appropriate" after "publication".
 
 Subsec. (d)(2)(B)(iv). Pub. L. 111–148, §10602(1)(B), amended cl. (iv) generally. Prior to amendment, text read as follows: "Any research published under clause (ii)(IV) shall be within the bounds of and entirely consistent with the evidence and findings produced under the contract with the Institute under this subparagraph. If the Institute determines that those requirements are not met, the Institute shall not enter into another contract with the agency, instrumentality, or entity which managed or conducted such research for a period determined appropriate by the Institute (but not less than 5 years)."
 

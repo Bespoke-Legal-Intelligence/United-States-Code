@@ -24,7 +24,7 @@ In this section:
 
 &emsp;The term "restraints" means—
 
-&emsp;&emsp;(A) any physical restraint that is a mechanical or personal restriction that immobilizes or reduces the ability of an individual to move his or her arms, legs, or head freely, not including devices, such as orthopedically prescribed devices, surgical dressings or bandages, protective helmets, or any other methods that involves the physical holding of a resident for the purpose of conducting routine physical examinations or tests or to protect the resident from falling out of bed or to permit the resident to participate in activities without the risk of physical harm to the resident (such term does not include a physical escort); and
+&emsp;&emsp;(A) any physical restraint that is a mechanical or personal restriction that immobilizes or reduces the ability of an individual to move his or her arms, legs, or head freely, not including devices, such as orthopedically prescribed devices, surgical dressings or bandages, protective helmets, or any other methods that involves the physical holding of a resident for the purpose of conducting routine physical examinations or tests or to protect the resident from falling out of bed or to permit the resident to participate inactivities without the risk of physical harm to the resident (such term does not include a physical escort); and
 
 &emsp;&emsp;(B) a drug or medication that is used as a restraint to control behavior or restrict the resident's freedom of movement that is not a standard treatment for the resident's medical or psychiatric condition.
 

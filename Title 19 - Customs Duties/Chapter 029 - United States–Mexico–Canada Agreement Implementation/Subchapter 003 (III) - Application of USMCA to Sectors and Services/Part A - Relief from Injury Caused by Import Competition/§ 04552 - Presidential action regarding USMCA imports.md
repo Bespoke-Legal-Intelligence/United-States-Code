@@ -20,7 +20,7 @@ In determining the nature and extent of action to be taken under chapter 1 of ti
 
 &emsp;&emsp;(A) the President may take appropriate action under such chapter 1 to include those imports in the action; and
 
-&emsp;&emsp;(B) any entity that is representative of an industry for which such action is being taken may request the International TradeCommission to conduct an investigation of the surge in such imports.
+&emsp;&emsp;(B) any entity that is representative of an industry for which such action is being taken may request the International Trade Commission to conduct an investigation of the surge in such imports.
 
 #### (2) Investigation
 
@@ -40,7 +40,7 @@ Any action taken under this section proclaiming a quantitative restriction shall
 
 #### References in Text
 
-The Trade Act of 1974, referred to in subsecs. (a) to (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsecs. (a) to (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 #### Codification
 

@@ -26,7 +26,7 @@ To the extent consistent with the provisions of this subchapter, the Corporation
 
 (1)(A) The Corporation shall have authority to insure the compliance of recipients and their employees with the provisions of this subchapter and the rules, regulations, and guidelines promulgated pursuant to this subchapter, and to terminate, after a hearing in accordance with section 2996j of this title, financial support to a recipient which fails to comply.
 
-(B) No question of whether representation is authorized under this subchapter, or the rules, regulations or guidelines promulgated pursuantto this subchapter, shall be considered in, or affect the final disposition of, any proceeding in which a person is represented by a recipient or an employee of a recipient. A litigant in such a proceeding may refer any such question to the Corporation which shall review and dispose of the question promptly, and take appropriate action. This subparagraph shall not preclude judicial review available under applicable law.
+(B) No question of whether representation is authorized under this subchapter, or the rules, regulations or guidelines promulgated pursuant to this subchapter, shall be considered in, or affect the final disposition of, any proceeding in which a person is represented by a recipient or an employee of a recipient. A litigant in such a proceeding may refer any such question to the Corporation which shall review and dispose of the question promptly, and take appropriate action. This subparagraph shall not preclude judicial review available under applicable law.
 
 (2) If a recipient finds that any of its employees has violated or caused the recipient to violate the provisions of this subchapter or the rules, regulations, and guidelines promulgated pursuant to this subchapter, the recipient shall take appropriate remedial or disciplinary action in accordance with the types of procedures prescribed in the provisions of section 2996j of this title.
 
@@ -62,7 +62,7 @@ The Corporation shall not itself—
 
 #### (e) Political activities of Corporation employees and staff attorneys
 
-(1) Employees of the Corporation or of recipients shall not at any time intentionally identifythe Corporation or the recipient with any partisan or nonpartisan political activity associated with a political party or association, or the campaign of any candidate for public or party office.
+(1) Employees of the Corporation or of recipients shall not at any time intentionally identify the Corporation or the recipient with any partisan or nonpartisan political activity associated with a political party or association, or the campaign of any candidate for public or party office.
 
 (2) Employees of the Corporation and staff attorneys shall be deemed to be State or local employees for purposes of chapter 15 of title 5, except that no staff attorney may be a candidate in a partisan political election.
 
@@ -76,7 +76,7 @@ If an action is commenced by the Corporation or by a recipient and a final order
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Amendments
 

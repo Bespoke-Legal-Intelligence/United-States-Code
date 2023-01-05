@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary may enter into a contract or other agreement with an academic institution or other qualified entity, asdetermined by the Secretary, to carry out statistical analyses and data evaluation as required of the Secretary by law.".<sup>1</sup>
+In General.—The Secretary may enter into a contract or other agreement with an academic institution or other qualified entity, as determined by the Secretary, to carry out statistical analyses and data evaluation as required of the Secretary by law.".<sup>1</sup>
 
 (b)
 

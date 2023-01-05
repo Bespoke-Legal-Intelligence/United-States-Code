@@ -20,5 +20,5 @@ A prior section 795l, Pub. L. 93–112, title VI, §607, formerly §626, as adde
 
 Another prior section 795l, Pub. L. 93–112, title VI, §633, as added Pub. L. 102–569, title VI, §621(a), Oct. 29, 1992, 106 Stat. 4440; amended Pub. L. 103–73, title I, §113, Aug. 11, 1993, 107 Stat. 728, related to availability of services, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 795i of this title.
 
-Another prior section 795l, Pub. L. 93–112, title VI, §633, as added Pub. L. 99–506, title VII, §704(a)(1), Oct.21, 1986, 100 Stat. 1834; amended Pub. L. 100–630, title II, §207(e), Nov. 7, 1988, 102 Stat. 3313, provided for allotments to States, unused funds, and planning grants, prior to repeal by Pub. L. 102–569, §621(a).
+Another prior section 795l, Pub. L. 93–112, title VI, §633, as added Pub. L. 99–506, title VII, §704(a)(1), Oct. 21, 1986, 100 Stat. 1834; amended Pub. L. 100–630, title II, §207(e), Nov. 7, 1988, 102 Stat. 3313, provided for allotments to States, unused funds, and planning grants, prior to repeal by Pub. L. 102–569, §621(a).
 

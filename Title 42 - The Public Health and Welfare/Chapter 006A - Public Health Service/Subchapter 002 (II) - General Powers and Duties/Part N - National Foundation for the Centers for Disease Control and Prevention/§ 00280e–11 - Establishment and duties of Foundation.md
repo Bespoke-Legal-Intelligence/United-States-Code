@@ -84,7 +84,7 @@ In carrying out subsection (b), the Foundation may provide for the following wit
 
 #### (3) Chair
 
-&emsp;The Board shall, from among the members of the Board, designate an individual to serve as the chair of the Board (in this subsection referred to as the "Chair").
+&emsp;The Board shall, from among the members of the Board, designate an individual to serveas the chair of the Board (in this subsection referred to as the "Chair").
 
 #### (4) Appointments, vacancies, and terms
 
@@ -140,7 +140,7 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 &emsp;In the case of any individual who is not an employee of the Federal Government and who serves in association with the Centers for Disease Control and Prevention pursuant to financial support from the Foundation, the Foundation shall negotiate a memorandum of understanding with the individual and the Director of the Centers for Disease Control and Prevention specifying that the individual—
 
-&emsp;&emsp;(A) shall be subject to the ethical and procedural standards regulating Federal employment, scientific investigation, and research findings (including publications and patents) that are required of individuals employed by the Centers for Disease Control and Prevention, including standards under this chapter, the Ethics in Government Act, and the Technology Transfer Act; <sup>1</sup> and
+&emsp;&emsp;(A) shall be subject to the ethical and procedural standards regulating Federal employment, scientific investigation, and research findings (including publications and patents) that are required of individuals employed by the Centers for Disease Control and Prevention, including standards under this chapter, chapter 131 of title 5, and the Technology Transfer Act; <sup>1</sup> and
 
 &emsp;&emsp;(B) shall be subject to such ethical and procedural standards under chapter 11 of title 18 (relating to conflicts of interest), as the Director of such Centers determines is appropriate, except such memorandum may not provide that the individual shall be subject to the standards of section 209 of title 18.
 
@@ -200,7 +200,7 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 &emsp;(D) For the purposes described in subparagraph (B)—
 
-&emsp;&emsp;(i) any portion of the grant made under subparagraph (A)(i) for fiscal year 1993 thatremains unobligated after the entity receiving the grant completes the duties established in subsection (j)(9) for the entity shall be available to the committee established under such subsection; and
+&emsp;&emsp;(i) any portion of the grant made under subparagraph (A)(i) for fiscal year 1993 that remains unobligated after the entity receiving the grant completes the duties established in subsection (j)(9) for the entity shall be available to the committee established under such subsection; and
 
 &emsp;&emsp;(ii) any portion of a grant under subparagraph (A) made for fiscal year 1993 or 1994 that remains unobligated after such committee completes the duties established in such subsection for the committee shall be available to the Foundation.
 
@@ -286,15 +286,13 @@ In carrying out subsection (e)(2), the Director shall carry out the following fu
 
 &emsp;(C) The Secretary may make a grant referred to in subparagraph (A) only if the applicant for the grant makes an agreement that the grant will not be expended for any purpose other than carrying out subparagraph (B). Such a grant may be made only if an application for the grant is submitted to the Secretary containing such agreement, and the application is in such form, is made in such manner, and contains such other agreements and such assurances and information as the Secretary determines to be necessary to carry out this paragraph.
 
-(July 1, 1944, ch. 373, title III, §399G, formerly §399F, as added Pub. L. 102–531, title II, §201, Oct. 27, 1992, 106 Stat. 3474; renumbered §399G, Pub. L. 106–310, div. A, title V, §502(3), Oct. 17, 2000, 114 Stat. 1115; amended Pub. L. 109–245, §1, July 26, 2006, 120 Stat. 575.)
+(July 1, 1944, ch. 373, title III, §399G, formerly §399F, as added Pub. L. 102–531, title II, §201, Oct. 27, 1992, 106 Stat. 3474; renumbered §399G, Pub. L. 106–310, div. A, title V, §502(3), Oct. 17, 2000, 114 Stat. 1115; amended Pub. L. 109–245, §1, July 26, 2006, 120 Stat. 575; Pub. L. 117–286, §4(c)(38), Dec. 27, 2022, 136 Stat. 4358.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Ethics in Government Act, referred to in subsec. (h)(4)(A), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
-
-The Technology Transfer Act, referred to in subsec. (h)(4)(A), may mean the Federal Technology Transfer Act of 1986, Pub. L. 99–502, Oct. 20, 1986, 100 Stat. 1785, as amended, or the National Competitiveness Technology Transfer Act of 1989, part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, Nov. 29, 1989, 103 Stat. 1674. For complete classification of these Acts to the Code, see Short Title of 1986 Amendment note and Short Title of 1989 Amendment note both set out under section 3701 of Title 15, Commerce and Trade, and Tables.
+The Technology Transfer Act, referred to in subsec. (h)(4)(A), may mean the Federal Technology TransferAct of 1986, Pub. L. 99–502, Oct. 20, 1986, 100 Stat. 1785, or the National Competitiveness Technology Transfer Act of 1989, part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, Nov. 29, 1989, 103 Stat. 1674. For complete classification of these Acts to the Code, see Short Title of 1986 Amendment note and Short Title of 1989 Amendment note both set out under section 3701 of Title 15, Commerce and Trade, and Tables.
 
 #### Codification
 
@@ -305,6 +303,8 @@ Section was formerly classified to section 280d–11 of this title prior to renu
 A prior section 399G of act July 1, 1944, was renumbered section 399H and was classified to section 280f of this title, prior to being omitted from the Code.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h)(4)(A). Pub. L. 117–286 substituted "chapter 131 of title 5," for "the Ethics in Government Act,".
 
 <b>2006</b>—Subsec. (h)(2)(A). Pub. L. 109–245, §1(a), substituted "In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual until such time as the private funding for such individual ends." for "In the case of an individual, such Director may accept the services provided under the preceding sentence by the individual for not more than 2 years."
 

@@ -234,7 +234,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Regulations
 
-Pub. L. 104–88, title IV, §403(b), Dec. 29, 1995, 109 Stat. 956, provided that: "The initial regulations requiredunder section 31310(h) of title 49, United States Code, shall be issued not later than 1 year after the date of the enactment of this Act \[Dec. 29, 1995\]."
+Pub. L. 104–88, title IV, §403(b), Dec. 29, 1995, 109 Stat. 956, provided that: "The initial regulations required under section 31310(h) of title 49, United States Code, shall be issued not later than 1 year after the date of the enactment of this Act \[Dec. 29, 1995\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

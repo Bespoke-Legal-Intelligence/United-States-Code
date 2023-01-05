@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-For purposes of section 38, the enhanced oil recovery credit for any taxable year is an amount equal to 15 percent of the taxpayer's qualified enhanced oil recovery costs for such taxable year.
+For purposes of section 38, the enhanced oil recovery credit for any taxable year is an amountequal to 15 percent of the taxpayer's qualified enhanced oil recovery costs for such taxable year.
 
 #### (b) Phase-out of credit as crude oil prices increase
 
@@ -150,7 +150,7 @@ Subsec. (c)(5). Pub. L. 109–135 reenacted heading without change and amended t
 
 &emsp;"(1)
 
-In general.—The term 'Alaska natural gas' means natural gas entering the Alaska natural gaspipeline (as defined in section 168(i)(16) (determined without regard to subparagraph (B) thereof)) which is produced from a well—
+In general.—The term 'Alaska natural gas' means natural gas entering the Alaska natural gas pipeline (as defined in section 168(i)(16) (determined without regard to subparagraph (B) thereof)) which is produced from a well—
 
 &emsp;&emsp;"(A) located in the area of the State of Alaska lying north of 64 degrees North latitude, determined by excluding the area of the Alaska National Wildlife Refuge (including the continental shelf thereof within the meaning of section 638(1)), and
 
@@ -195,6 +195,8 @@ Special rule for significant expansion of projects.—For purposes of section 43
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2022</b>—Internal Revenue Notice 2022–19.
 
 <b>2021</b>—Internal Revenue Notice 2021–47.
 

@@ -174,7 +174,7 @@ Level IV of the Executive Schedule, referred to in subsec. (f)(2), is set out un
 
 Subsecs. (c) to (e). Pub. L. 114–328, §820(a)(1)(C), added subsecs. (c) to (e). Former subsecs. (c) to (e) redesignated (f) to (h), respectively.
 
-Subsec. (f). Pub. L. 114–328, §820(a)(1)(B), (D), redesignated subsec. (c) as (f) and amended it generally. Priorto amendment, text read as follows: "The Administrator, after consultation with the Board, may—
+Subsec. (f). Pub. L. 114–328, §820(a)(1)(B), (D), redesignated subsec. (c) as (f) and amended it generally. Prior to amendment, text read as follows: "The Administrator, after consultation with the Board, may—
 
 &emsp;"(1) appoint an executive secretary and 2 additional staff members without regard to the provisions of title 5 governing appointments in the competitive service; and
 

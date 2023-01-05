@@ -23,6 +23,7 @@
 | [<b>43.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20043%20-%20Recreational%20Vessels/README.md) | <b>Recreational Vessels</b> | <b>4301</b> |
 | [<b>45.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20045%20-%20Uninspected%20Commercial%20Fishing%20Industry%20Vessels/README.md) | <b>Uninspected Commercial Fishing Industry Vessels</b> | <b>4501</b> |
 | [<b>47.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20047%20-%20Abandonment%20of%20Barges/README.md) | <b>Abandonment of Barges</b> | <b>4701</b> |
+| [<b>49.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20049%20-%20Oceangoing%20Non-Passenger%20Commercial%20Vessels/README.md) | <b>Oceangoing Non-Passenger Commercial Vessels</b> | <b>4901</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -125,6 +126,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. K, title CXVI, §11607(b), Dec. 23, 2022, 136 Stat. 4151, added item 49.
 
 <b>2018</b>—Pub. L. 115–282, title VI, §601(b), Dec. 4, 2018, 132 Stat. 4289, added item for part K.
 

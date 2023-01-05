@@ -6,7 +6,7 @@ Subsequent to October 13, 1980, the owner of improved property on the date of it
 
 #### (b) Displaced person; waiver of benefits
 
-No property owner who elects to retain a right of use and occupancy under this section shall beconsidered a displaced person as defined in section 4601(6) of title 42. Such owners shall be considered to have waived any benefits which would otherwise accrue to them under sections 4623 to 4626 of title 42.
+No property owner who elects to retain a right of use and occupancy under this section shall be considered a displaced person as defined in section 4601(6) of title 42. Such owners shall be considered to have waived any benefits which would otherwise accrue to them under sections 4623 to 4626 of title 42.
 
 (Apr. 17, 1954, ch. 153, §3, as added Pub. L. 96–442, §2, Oct. 13, 1980, 94 Stat. 1886.)
 

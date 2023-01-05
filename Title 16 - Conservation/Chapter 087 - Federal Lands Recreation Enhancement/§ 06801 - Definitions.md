@@ -24,7 +24,7 @@ In this chapter:
 
 #### (6) National Parks and Federal Recreational Lands Pass
 
-&emsp;The term "National Parks and Federal Recreational Lands Pass" means the interagencynational pass authorized by section 6804 of this title.
+&emsp;The term "National Parks and Federal Recreational Lands Pass" means the interagency national pass authorized by section 6804 of this title.
 
 #### (7) Passholder
 

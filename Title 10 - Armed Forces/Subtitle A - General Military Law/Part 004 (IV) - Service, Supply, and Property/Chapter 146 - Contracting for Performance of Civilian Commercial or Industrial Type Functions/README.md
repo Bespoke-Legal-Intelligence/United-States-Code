@@ -16,7 +16,7 @@
 | [2470\.](%C2%A7%2002470%20-%20Depot-level%20activities%20of%20the%20Department%20of%20Defense%20authority%20to%20compete%20for%20maintenance%20and%20repair%20workloads%20of%20other%20Federal%20agencies.md) | Depot-level activities of the Department of Defense: authority to compete for maintenance and repair workloads of other Federal agencies. |
 | \[2471. | Repealed.\] |
 | [2472\.](%C2%A7%2002472%20-%20Prohibition%20on%20management%20of%20depot%20employees%20by%20end%20strength.md) | Prohibition on management of depot employees by end strength. |
-| \[2473. | Repealed.\] |
+| [2473\.](%C2%A7%2002473%20-%20Annual%20five-year%20plans%20on%20improvement%20of%20depot%20infrastructure.md) | Annual five-year plans on improvement of depot infrastructure. |
 | [2474\.](%C2%A7%2002474%20-%20Centers%20of%20Industrial%20and%20Technical%20Excellence%20designation%3B%20public-private%20partnerships.md) | Centers of Industrial and Technical Excellence: designation; public-private partnerships. |
 | [2475\.](%C2%A7%2002475%20-%20Consolidation%2C%20restructuring%2C%20or%20reengineering%20of%20organizations%2C%20functions%2C%20or%20activities%20notification%20requirements.md) | Consolidation, restructuring, or reengineering of organizations, functions, or activities: notification requirements. |
 | [2476\.](%C2%A7%2002476%20-%20Minimum%20capital%20investment%20for%20certain%20depots.md) | Minimum capital investment for certain depots. |
@@ -26,6 +26,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. A, title III, §373, Dec. 23, 2022, 136 Stat. 2540, added item 2473. Item was added after item 2472 to reflect the probable intent of Congress, notwithstanding directory language conforming this analysis to the addition of section 2473 after section "2742" of this title.
 
 <b>2014</b>—Pub. L. 113–291, div. A, title X, §1060(a)(2)(B), Dec. 19, 2014, 128 Stat. 3502, struck out item 2462 "Reports on public-private competition".
 
@@ -47,7 +49,7 @@ Pub. L. 109–163, div. A, title III, §341(g)(4), Jan. 6, 2006, 119 Stat. 3200,
 
 <b>2001</b>—Pub. L. 107–107, div. A, title X, §1048(e)(10)(B), Dec. 28, 2001, 115 Stat. 1228, struck out item 2468 "Military installations: authority of base commanders over contracting for commercial activities".
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title III, §§341(g)(2), 353(b), 354(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64, 1654A–73, 1654A–75, added items 2461a and 2475 and struck out item 2471 "Persons outside the Department of Defense: lease of excess depot-level equipment and facilities by".
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title III, §§341(g)(2), 353(b), 354(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64, 1654A–73, 1654A–75, added items 2461a and 2475 andstruck out item 2471 "Persons outside the Department of Defense: lease of excess depot-level equipment and facilities by".
 
 <b>1999</b>—Pub. L. 106–65, div. A, title III, §342(b)(2), Oct. 5, 1999, 113 Stat. 569, added item 2467 and struck former item 2467 "Cost comparisons: requirements with respect to retirement costs and consultation with employees".
 
@@ -89,7 +91,7 @@ Pub. L. 104–106, div. A, title III, §311(f)(2), Feb. 10, 1996, 110 Stat. 248,
 - [&sect; 02470 - Depot-level activities of the Department of Defense authority to compete for maintenance and repair workloads of other Federal agencies](%C2%A7%2002470%20-%20Depot-level%20activities%20of%20the%20Department%20of%20Defense%20authority%20to%20compete%20for%20maintenance%20and%20repair%20workloads%20of%20other%20Federal%20agencies.md)
 - [&sect; 02471 - Repealed. Pub. L. 106&#8211;398, &sect;1 \[\[div. A\], title III, &sect;341(g)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A&#8211;64](%C2%A7%2002471%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5B%5Bdiv.%20A%5D%2C%20title%20III%2C%20%C2%A7341%28g%29%281%29%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%9364.md)
 - [&sect; 02472 - Prohibition on management of depot employees by end strength](%C2%A7%2002472%20-%20Prohibition%20on%20management%20of%20depot%20employees%20by%20end%20strength.md)
-- [&sect; 02473 - Repealed. Pub. L. 111&#8211;383, div. A, title VIII, &sect;822(a), Jan. 7, 2011, 124 Stat. 4268](%C2%A7%2002473%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93383%2C%20div.%20A%2C%20title%20VIII%2C%20%C2%A7822%28a%29%2C%20Jan.%207%2C%202011%2C%20124%20Stat.%204268.md)
+- [&sect; 02473 - Annual five-year plans on improvement of depot infrastructure](%C2%A7%2002473%20-%20Annual%20five-year%20plans%20on%20improvement%20of%20depot%20infrastructure.md)
 - [&sect; 02474 - Centers of Industrial and Technical Excellence designation; public-private partnerships](%C2%A7%2002474%20-%20Centers%20of%20Industrial%20and%20Technical%20Excellence%20designation%3B%20public-private%20partnerships.md)
 - [&sect; 02475 - Consolidation, restructuring, or reengineering of organizations, functions, or activities notification requirements](%C2%A7%2002475%20-%20Consolidation%2C%20restructuring%2C%20or%20reengineering%20of%20organizations%2C%20functions%2C%20or%20activities%20notification%20requirements.md)
 - [&sect; 02476 - Minimum capital investment for certain depots](%C2%A7%2002476%20-%20Minimum%20capital%20investment%20for%20certain%20depots.md)

@@ -30,7 +30,7 @@ Authority To Transfer Funds.—(1) The Director of the National Geospatial-Intel
 
 &emsp;(B) shall expend such funds, in accordance with the Central Intelligence Agency Act of 1949 (50 U.S.C. 3501 et seq.), to provide administrative and contract services or detail personnel to the National Geospatial-Intelligence Agency under this section.
 
-(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2680; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, §931(b)(2), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(c), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L.113–291, div. A, title X, §1071(c)(7), Dec. 19, 2014, 128 Stat. 3509.)
+(Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2680; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, §931(b)(2), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(c), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475; Pub. L. 113–291, div. A, title X, §1071(c)(7), Dec. 19, 2014, 128 Stat. 3509.)
 
 #### <b>Editorial Notes</b>
 

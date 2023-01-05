@@ -2,7 +2,7 @@
 
 (a)
 
-Oversight and Accountability Measures.—Each Secretary concerned shall prescribe regulations to effectively oversee and manage military housing privatization projects carried out under this subchapter during the course ofthe construction or renovation of the housing units. The regulations shall include the following requirements for each privatization project:
+Oversight and Accountability Measures.—Each Secretary concerned shall prescribe regulations to effectively oversee and manage military housing privatization projects carried out under this subchapter during the course of the construction or renovation of the housing units. The regulations shall include the following requirements for each privatization project:
 
 &emsp;(1) The installation asset manager shall conduct monthly site visits and provide quarterly reports on the progress of the construction or renovation of the housing units. The reports shall be submitted quarterly to the assistant secretary for installations and environment of the respective military department.
 

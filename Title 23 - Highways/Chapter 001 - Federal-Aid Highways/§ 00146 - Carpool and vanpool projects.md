@@ -4,7 +4,7 @@
 
 (b) A project authorized by this section shall be subject to and carried out in accordance with all provisions of this title, except those provisions which the Secretary determines are inconsistent with this section.
 
-(Added Pub. L. 95–599, title I, §126(a), Nov. 6, 1978, 92 Stat. 2705; amended Pub. L. 105–178, titleI, §1103(l)(1), June 9, 1998, 112 Stat. 125; Pub. L. 112–141, div. A, title I, §1105(b), July 6, 2012, 126 Stat. 432.)
+(Added Pub. L. 95–599, title I, §126(a), Nov. 6, 1978, 92 Stat. 2705; amended Pub. L. 105–178, title I, §1103(l)(1), June 9, 1998, 112 Stat. 125; Pub. L. 112–141, div. A, title I, §1105(b), July 6, 2012, 126 Stat. 432.)
 
 #### <b>Editorial Notes</b>
 

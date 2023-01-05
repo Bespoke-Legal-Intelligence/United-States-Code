@@ -14,7 +14,7 @@ The funds provided by appropriation or transfer from other accounts for any fisc
 
 #### (b) Delivery of commodities
 
-The Secretary shall deliver, to each State participating in the school lunch program under this chapter, commodities valued at the total level of assistance authorized under subsection (c) <sup>1</sup> for each school year for the school lunch program in the State, not later than September 30 of the following school year.
+The Secretary shall deliver, to each State participating in the school lunch program under this chapter, commodities valued at the total level of assistance authorized under subsection (c) <sup>1</sup> for each school year for the school lunchprogram in the State, not later than September 30 of the following school year.
 
 #### (c) Level of commodity assistance; computation of index; calculation of total assistance to each State; emphasis on high protein foods; per meal value of donated foods
 
@@ -108,7 +108,7 @@ Beginning with the school year ending June 30, 1981, the Secretary shall not off
 
 #### References in Text
 
-The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1771 of this title and Tables.
 
 Subsection (c), referred to in subsec. (b), was repealed and subsec. (e) was redesignated (c) by Pub. L. 105–336, title I, §101(a), Oct. 31, 1998, 112 Stat. 3144.
 
@@ -210,7 +210,7 @@ Pub. L. 107–171, title IV, §4301(b), May 13, 2002, 116 Stat. 330, provided th
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–336, title IV, §401, Oct. 31, 1998, 112 Stat. 3170, provided that: "Except as otherwise provided in this Act \[see Short Title of 1998 Amendment note set out under section 1751 of this title\], this Act and the amendments made by this Act shall take effect on October 1, 1998."
+Pub. L. 105–336, title IV, §401, Oct. 31, 1998, 112 Stat. 3170, provided that: "Except as otherwise provided inthis Act \[see Short Title of 1998 Amendment note set out under section 1751 of this title\], this Act and the amendments made by this Act shall take effect on October 1, 1998."
 
 #### Effective Date of 1994 Amendment
 

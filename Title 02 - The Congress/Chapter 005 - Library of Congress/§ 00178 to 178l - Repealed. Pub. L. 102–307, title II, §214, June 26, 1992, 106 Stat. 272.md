@@ -16,7 +16,7 @@ Section 178f, Pub. L. 100–446, title I, §7, Sept. 27, 1988, 102 Stat. 1785, r
 
 Section 178g, Pub. L. 100–446, title I, §8, Sept. 27, 1988, 102 Stat. 1785; Pub. L. 102–378, §5(c), Oct. 2, 1992, 106 Stat. 1358, related to establishment of National Film Preservation Board.
 
-Section 178h, Pub. L. 100–446, title I, §9, Sept. 27, 1988, 102 Stat. 1787, related to staff of National Film RegistryBoard and authority of Board to procure services of experts and consultants.
+Section 178h, Pub. L. 100–446, title I, §9, Sept. 27, 1988, 102 Stat. 1787, related to staff of National Film Registry Board and authority of Board to procure services of experts and consultants.
 
 Section 178i, Pub. L. 100–446, title I, §10, Sept. 27, 1988, 102 Stat. 1787, related to powers of National Film Registry Board.
 

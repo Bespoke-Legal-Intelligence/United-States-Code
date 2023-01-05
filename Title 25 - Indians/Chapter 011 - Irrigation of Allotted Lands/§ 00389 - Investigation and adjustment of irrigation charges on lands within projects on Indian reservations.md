@@ -20,7 +20,7 @@ In accordance with sections 389 to 389e of this title, the order of the Secretar
 
 #### Oroville-Tonasket Irrigation District
 
-Action of the Secretary of the Interior taken on May 19, 1942, pursuant to authority contained in sections 389 to 389e of this title with respect to lands within theOroville-Tonasket Irrigation District was confirmed by Congress in act Dec. 24, 1942, ch. 816, 56 Stat. 1082.
+Action of the Secretary of the Interior taken on May 19, 1942, pursuant to authority contained in sections 389 to 389e of this title with respect to lands within the Oroville-Tonasket Irrigation District was confirmed by Congress in act Dec. 24, 1942, ch. 816, 56 Stat. 1082.
 
 #### Uintah Indian Irrigation Project
 

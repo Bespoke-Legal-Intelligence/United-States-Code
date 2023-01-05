@@ -52,7 +52,7 @@ The period described in subsection (a) (including an extension period under this
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–141, §206(k)(1), inserted "or section 905(c)" after "Except as otherwise provided in this section" and substituted "subchapter" for "subpart" in introductory provisions.
+<b>2018</b>—Subsec. (a). Pub. L. 115–141, §206(k)(1), inserted "or section 905(c)" after "Except as otherwise providedin this section" and substituted "subchapter" for "subpart" in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 115–141, §206(k)(2), substituted "section 6225(c)(7))" for "section 6225(c)(7)".
 

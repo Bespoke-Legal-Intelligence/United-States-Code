@@ -100,13 +100,13 @@ Each satellite carrier that proposes to commence the retransmission of a station
 
 &emsp;(1) not less than 60 days before commencing such retransmission, provide a written notice to any television broadcast station in such local market of such proposal; and
 
-&emsp;(2) designate on such carrier's website all significantly viewed signals carried pursuant to section 340 of this title and the communities in which the signals are carried.
+&emsp;(2) designate on such carrier's website all significantly viewed signals carried pursuantto section 340 of this title and the communities in which the signals are carried.
 
 #### (h) Additional corresponding changes in regulations
 
 #### (1) Community-by-community elections
 
-&emsp;The Commission shall, no later than October 30, 2005, revise section 76.66 of its regulations\(47 CFR 76.66), concerning satellite broadcast signal carriage, to permit (at the next cycle of elections under section 325 of this title) a television broadcast station that is located in a local market into which a satellite carrier retransmits a television broadcast station pursuant to section 338 of this title, to elect, with respect to such satellite carrier, between retransmission consent pursuant to such section 325 of this title and mandatory carriage pursuant to section 338 of this title separately for each county within such station's local market, if—
+&emsp;The Commission shall, no later than October 30, 2005, revise section 76.66 of its regulations (47 CFR 76.66), concerning satellite broadcast signal carriage, to permit (at the next cycle of elections under section 325 of this title) a television broadcast station that is located in a local market into which a satellite carrier retransmits a television broadcast station pursuant to section 338 of this title, to elect, with respect to such satellite carrier, between retransmission consent pursuant to such section 325 of this title and mandatory carriage pursuant to section 338 of this title separately for each county within such station's local market, if—
 
 &emsp;&emsp;(A) the satellite carrier has notified the station, pursuant to paragraph (3), that it intends to carry another affiliate of the same network pursuant to this section during the relevant election period in the station's local market; or
 
@@ -168,7 +168,7 @@ As used in this section:
 
 #### References in Text
 
-Section 119(a)(4)(A) and section 119(a)(12) of title 17, referred to in subsec. (e)(2), were redesignated as sections 119(a)(3)(A) and 119(a)(11) of title 17, respectively, by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224. Section 119(a)(3) of title 17 was repealed and section 119(a)(4) was redesignated as section 119(a)(3) byPub. L. 116–94, div. P, title XI, §1102(a)(1)(B), (C), Dec. 20, 2019, 133 Stat. 3202. Section 119(a)(11) of title 17 was redesignated as section 119(a)(8) by Pub. L. 116–94, div. P, title XI, §1102(a)(1)(C), Dec. 20, 2019, 133 Stat. 3202.
+Section 119(a)(4)(A) and section 119(a)(12) of title 17, referred to in subsec. (e)(2), were redesignated as sections 119(a)(3)(A) and 119(a)(11) of title 17, respectively, by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224. Section 119(a)(3) of title 17 was repealed and section 119(a)(4) was redesignated as section 119(a)(3) by Pub. L. 116–94, div. P, title XI, §1102(a)(1)(B), (C), Dec. 20, 2019, 133 Stat. 3202. Section 119(a)(11) of title 17 was redesignated as section 119(a)(8) by Pub. L. 116–94, div. P, title XI, §1102(a)(1)(C), Dec. 20, 2019, 133 Stat. 3202.
 
 #### Amendments
 

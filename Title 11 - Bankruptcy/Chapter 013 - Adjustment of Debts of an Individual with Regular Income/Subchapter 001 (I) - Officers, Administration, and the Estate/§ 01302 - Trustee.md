@@ -110,7 +110,7 @@ Pub. L. 99–554, §228(2), struck out subsec. (e) which read as follows:
 
 &emsp;"(B) a percentage fee, not to exceed ten percent, based on such maximum annual compensation and the actual, necessary expenses incurred by such individual as standing trustee.
 
-"(2) Such individual shall collect such percentage fee from all payments under plans in the cases under thischapter for which such individual serves as standing trustee. Such individual shall pay annually to the Treasury—
+"(2) Such individual shall collect such percentage fee from all payments under plans in the cases under this chapter for which such individual serves as standing trustee. Such individual shall pay annually to the Treasury—
 
 &emsp;"(A) any amount by which the actual compensation received by such individual exceeds five percent of all such payments made under plans in cases under this chapter for which such individual serves as standing trustee; and
 

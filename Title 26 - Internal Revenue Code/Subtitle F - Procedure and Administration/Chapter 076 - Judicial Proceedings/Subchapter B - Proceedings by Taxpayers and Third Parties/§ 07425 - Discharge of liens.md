@@ -16,7 +16,7 @@ Notwithstanding subsection (a) a sale of property on which the United States has
 
 &emsp;(1) shall, except as otherwise provided, be made subject to and without disturbing such lien or title, if notice of such lien was filed or such title recorded in the place provided by law for such filing or recording more than 30 days before such sale and the United States is not given notice of such sale in the manner prescribed in subsection (c)(1); or
 
-&emsp;(2) shall have the same effect with respect to the discharge or divestment of such lien or such title of the United States, as may be provided with respect to such matters by the local law of the place where such property is situated, if—
+&emsp;(2) shall have the same effect with respect to the discharge or divestment of such lien orsuch title of the United States, as may be provided with respect to such matters by the local law of the place where such property is situated, if—
 
 &emsp;&emsp;(A) notice of such lien or such title was not filed or recorded in the place provided by law for such filing more than 30 days before such sale,
 

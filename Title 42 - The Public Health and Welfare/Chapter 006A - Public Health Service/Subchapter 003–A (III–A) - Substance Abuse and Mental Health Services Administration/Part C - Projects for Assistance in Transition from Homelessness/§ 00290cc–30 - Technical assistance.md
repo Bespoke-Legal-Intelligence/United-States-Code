@@ -12,7 +12,7 @@ The Secretary, acting through the Assistant Secretary, shall provide technical a
 
 <b>1992</b>—Pub. L. 102–352 repealed Pub. L. 102–321, §163(a)(3), which directed the substitution of "the Administrator of the Substance Abuse and Mental Health Services Administration" for "the National Institute of Mental Health, the National Institute on Alcohol Abuse and Alcoholism, and the National Institute on Drug Abuse".
 
-Pub. L. 102–321, §162(2), which directed the substitution of "through the agencies of the Administration" for "through the National" and all that followed through "Abuse", was not executed because the word "Abuse" appeared in two places and because of the amendment by Pub. L. 114–255, which presumed thatthe substitution did not take place. See 2016 Amendment note above.
+Pub. L. 102–321, §162(2), which directed the substitution of "through the agencies of the Administration" for "through the National" and all that followed through "Abuse", was not executed because the word "Abuse" appeared in two places and because of the amendment by Pub. L. 114–255, which presumed that the substitution did not take place. See 2016 Amendment note above.
 
 <b>1990</b>—Pub. L. 101–645 amended section generally, substituting provision relating to technical assistance for provision relating to disbursement and availability of funds.
 

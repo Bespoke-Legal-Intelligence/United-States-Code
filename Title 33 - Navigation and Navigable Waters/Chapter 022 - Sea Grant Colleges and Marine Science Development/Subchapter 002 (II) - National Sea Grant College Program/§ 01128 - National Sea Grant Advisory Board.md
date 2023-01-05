@@ -32,7 +32,7 @@ There shall be an independent committee to be known as the National Sea Grant Ad
 
 (3) Any individual appointed to a partial or full term may be reappointed for one additional full term. The Director may extend the term of office of a voting member of the Board once by up to 1 year.
 
-(4) The Board shall select one voting member to serve as the Chairman and another voting member to serve as the Vice Chairman. The ViceChairman shall act as Chairman in the absence or incapacity of the Chairman.
+(4) The Board shall select one voting member to serve as the Chairman and another voting member to serve as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman.
 
 (5) Voting members of the Board shall—
 

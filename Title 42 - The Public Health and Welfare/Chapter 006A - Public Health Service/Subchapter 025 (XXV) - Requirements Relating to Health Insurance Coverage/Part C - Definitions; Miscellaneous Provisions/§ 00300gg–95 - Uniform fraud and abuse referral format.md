@@ -2,13 +2,7 @@
 
 The Secretary shall request the National Association of Insurance Commissioners to develop a model uniform report form for private health insurance issuer <sup>1</sup> seeking to refer suspected fraud and abuse to State insurance departments or other responsible State agencies for investigation. The Secretary shall request that the National Association of Insurance Commissioners develop recommendations for uniform reporting standards for such referrals.
 
-(July 1, 1944, ch. 373, title XXVII, §2794, as added Pub. L. 111–148, title VI, §6603, Mar. 23, 2010, 124 Stat. 780.)
-
-#### <b>Editorial Notes</b>
-
-#### Codification
-
-Another section 2794 of act July 1, 1944, is classified to section 300gg–94 of this title.
+(July 1, 1944, ch. 373, title XXVII, §2795, formerly §2794, as added Pub. L. 111–148, title VI, §6603, Mar. 23, 2010, 124 Stat. 780; renumbered §2795, Pub. L. 117–328, div. FF, title I, §1331(b), Dec. 29, 2022, 136 Stat. 5698.)
 
 <i><sup>1</sup></i><i> So in original. Probably should be "issuers".</i>
 

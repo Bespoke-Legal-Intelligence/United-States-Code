@@ -118,7 +118,7 @@ Each application for assistance under this section shall identify with specifici
 
 #### (2) Continuation award
 
-&emsp;When a parent organization requests a continuation award under this section, the board of directors shall submit to the Secretary a written review of the parent training and information program conducted by the parent organization during the preceding fiscal year.
+&emsp;When a parent organization requests a continuation award under this section, the boardof directors shall submit to the Secretary a written review of the parent training and information program conducted by the parent organization during the preceding fiscal year.
 
 (Pub. L. 91–230, title VI, §671, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2788.)
 

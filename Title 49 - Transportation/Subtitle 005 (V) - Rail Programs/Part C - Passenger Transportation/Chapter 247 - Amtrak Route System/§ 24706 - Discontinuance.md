@@ -126,7 +126,7 @@ Subsec. (b)(1). Pub. L. 114–94, §11316(n)(1)(B), struck out "section 24704 or
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–432 added subsec. (c).
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–134, §101(c)(1)–(3), substituted "180 days" for "90 days" and "or discontinuing service over a route," for "24707(a) or (b) of this title," and inserted "or assume" after "agree to share".
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–134, §101(c)(1)–(3), substituted "180 days" for "90 days" and "or discontinuingservice over a route," for "24707(a) or (b) of this title," and inserted "or assume" after "agree to share".
 
 Subsec. (a)(2). Pub. L. 105–134, §101(c)(4), which directed substitution of "paragraph (1)" for "section 24707(a) or (b) of this title", was executed by making the substitution for "24707(a) or (b) of this title" to reflect the probable intent of Congress.
 

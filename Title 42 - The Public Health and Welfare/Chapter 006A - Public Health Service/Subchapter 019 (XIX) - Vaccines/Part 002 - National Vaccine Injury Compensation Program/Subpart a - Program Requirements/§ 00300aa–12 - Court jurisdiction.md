@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The United States Court of Federal Claims and the United States Court of Federal Claims special masters shall, in accordance with this section, have jurisdiction over proceedings to determine if a petitioner under section 300aa–11 of this title is entitled to compensation under the Program and the amount of such compensation. The United States Court of Federal Claims may issue and enforce such orders as the court deems necessary to assure the prompt payment of any compensation awarded.
+The United States Court of Federal Claims and the United States Court of Federal Claims special masters shall, in accordance with this section, have jurisdiction over proceedings to determine if a petitioner under section 300aa–11 of this title is entitled to compensation under the Program and the amount of such compensation. The United States Court of Federal Claimsmay issue and enforce such orders as the court deems necessary to assure the prompt payment of any compensation awarded.
 
 #### (b) Parties
 
@@ -22,7 +22,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (3) A special master's office shall be terminated if the judges of the United States Court of Federal Claims determine, upon advice of the chief special master, that the services performed by that office are no longer needed.
 
-(4) The appointment of any individual as a special master shall be for a term of 4 years, subject to termination under paragraphs (2) and (3). Individuals serving as special masters on December 19, 1989, shall serve for 4 years from the date of their original appointment, subject to termination under paragraphs (2) and (3). The chief special master in office on December 19,1989, shall continue to serve as chief special master for the balance of the master's term, subject to termination under paragraphs (2) and (3).
+(4) The appointment of any individual as a special master shall be for a term of 4 years, subject to termination under paragraphs (2) and (3). Individuals serving as special masters on December 19, 1989, shall serve for 4 years from the date of their original appointment, subject to termination under paragraphs (2) and (3). The chief special master in office on December 19, 1989, shall continue to serve as chief special master for the balance of the master's term, subject to termination under paragraphs (2) and (3).
 
 (5) The compensation of the special masters shall be determined by the judges of the United States Court of Federal Claims, upon advice of the chief special master. The salary of the chief special master shall be the annual rate of basic pay for level IV of the Executive Schedule, as prescribed by section 5315, title 5. The salaries of the other special masters shall not exceed the annual rate of basic pay of level V of the Executive Schedule, as prescribed by section 5316, title 5.
 
@@ -82,7 +82,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 (C) In conducting a proceeding on a petition a special master shall suspend the proceedings one time for 30 days on the motion of either party. After a motion for suspension is granted, further motions for suspension by either party may be granted by the special master, if the special master determines the suspension is reasonable and necessary, for an aggregate period not to exceed 150 days.
 
-(D) If, in reviewing proceedings on petitions for vaccine-related injuries or deaths associated with the administration of vaccines before October 1, 1988, the chief special master determines that the number of filings and resultant workload place an undue burden on the parties or the special master involved in such proceedings, the chief special master may, in the interest of justice, suspend proceedings on any petition for upto 30 months (but for not more than 6 months at a time) in addition to the suspension time under subparagraph (C).
+(D) If, in reviewing proceedings on petitions for vaccine-related injuries or deaths associated with the administration of vaccines before October 1, 1988, the chief special master determines that the number of filings and resultant workload place an undue burden on the parties or the special master involved in such proceedings, the chief special master may, in the interest of justice, suspend proceedings on any petition for up to 30 months (but for not more than 6 months at a time) in addition to the suspension time under subparagraph (C).
 
 (4)(A) Except as provided in subparagraph (B), information submitted to a special master or the court in a proceeding on a petition may not be disclosed to a person who is not a party to the proceeding without the express written consent of the person who submitted the information.
 
@@ -118,7 +118,7 @@ The findings of fact and conclusions of law of the United States Court of Federa
 
 If—
 
-&emsp;(1) a special master fails to make a decision on a petition within the 240 days prescribed by subsection (d)(3)(A)(ii) (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D), and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C)), or
+&emsp;(1) a special master fails to make a decision on a petition within the 240 days prescribed by subsection (d)(3)(A)(ii) (excluding (A) any period of suspension under subsection (d)(3)(C) or\(d)(3)(D), and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C)), or
 
 &emsp;(2) the United States Court of Federal Claims fails to enter a judgment under this section on a petition within 420 days (excluding (A) any period of suspension under subsection (d)(3)(C) or (d)(3)(D), and (B) any days the petition is before a special master as a result of a remand under subsection (e)(2)(C)) after the date on which the petition was filed,
 
@@ -144,7 +144,7 @@ A prior section 2112 of act July 1, 1944, was successively renumbered by subsequ
 
 <b>1993</b>—Subsec. (d)(3)(D). Pub. L. 103–66 substituted "30 months (but for not more than 6 months at a time)" for "540 days".
 
-<b>1992</b>—Subsecs. (a), (c) to (g). Pub. L. 102–572 substituted "United States Court of Federal Claims" for"United States Claims Court" and "Court of Federal Claims" for "Claims Court", wherever appearing.
+<b>1992</b>—Subsecs. (a), (c) to (g). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" and "Court of Federal Claims" for "Claims Court", wherever appearing.
 
 <b>1991</b>—Subsec. (d)(3)(D). Pub. L. 102–168, §201(c), (h)(2), realigned margin and substituted "540 days" for "180 days".
 
@@ -228,7 +228,7 @@ For applicability of amendments by Pub. L. 101–239 to petitions filed after De
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Referenceto OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Termination of Reporting Requirements
 

@@ -26,7 +26,7 @@ Prohibition on Sale or Transfer of Confidential Phone Records Information.—
 
 Prohibition on Purchase or Receipt of Confidential Phone Records Information.—
 
-&emsp;(1) Except as otherwise permitted by applicable law, whoever, in interstate or foreign commerce, knowingly and intentionally purchases or receives, or attempts to purchase or receive, confidential phone records information of a covered entity, without prior authorization from the customer to whom such confidential phone records information relates, orknowing or having reason to know such information was obtained fraudulently, shall be fined under this title, imprisoned not more than 10 years, or both.
+&emsp;(1) Except as otherwise permitted by applicable law, whoever, in interstate or foreign commerce, knowingly and intentionally purchases or receives, or attempts to purchase or receive, confidential phone records information of a covered entity, without prior authorization from the customer to whom such confidential phone records information relates, or knowing or having reason to know such information was obtained fraudulently, shall be fined under this title, imprisoned not more than 10 years, or both.
 
 &emsp;(2) For purposes of this subsection, the exceptions specified in section 222(d) of the Communications Act of 1934 shall apply for the use of confidential phone records information by any covered entity, as defined in subsection (h).
 
@@ -108,5 +108,5 @@ Pub. L. 109–476, §2, Jan. 12, 2007, 120 Stat. 3568, provided that: "Congress 
 
 &emsp;&emsp;"(C) gaining unauthorized Internet access to account data by improperly activating a consumer's account management features on a phone company's webpage or contracting with an Internet-based data broker who trafficks in such records; and
 
-&emsp;"(5) the unauthorized disclosure of telephone records not only assaults individual privacy but, insome instances, may further acts of domestic violence or stalking, compromise the personal safety of law enforcement officers, their families, victims of crime, witnesses, or confidential informants, and undermine the integrity of law enforcement investigations."
+&emsp;"(5) the unauthorized disclosure of telephone records not only assaults individual privacy but, in some instances, may further acts of domestic violence or stalking, compromise the personal safety of law enforcement officers, their families, victims of crime, witnesses, or confidential informants, and undermine the integrity of law enforcement investigations."
 

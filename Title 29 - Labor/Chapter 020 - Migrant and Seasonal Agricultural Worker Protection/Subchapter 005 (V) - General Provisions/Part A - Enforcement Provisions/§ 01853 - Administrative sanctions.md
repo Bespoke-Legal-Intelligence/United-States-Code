@@ -14,7 +14,7 @@
 
 #### (c) Judicial review
 
-Any person against whom an order imposing a civil money penalty has been entered after an agency hearing under this section may obtainreview by the United States district court for any district in which he is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within thirty days from the date of such order, and simultaneously sending a copy of such notice by registered mail to the Secretary. The Secretary shall promptly certify and file in such court the record upon which the penalty was imposed. The findings of the Secretary shall be set aside only if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5. Any final decision, order, or judgment of such District Court concerning such review shall be subject to appeal as provided in chapter 83 of title 28.
+Any person against whom an order imposing a civil money penalty has been entered after an agency hearing under this section may obtain review by the United States district court for any district in which he is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within thirty days from the date of such order, and simultaneously sending a copy of such notice by registered mail to the Secretary. The Secretary shall promptly certify and file in such court the record upon which the penalty was imposed. The findings of the Secretary shall be set aside only if found to be unsupported by substantial evidence as provided by section 706(2)(E) of title 5. Any final decision, order, or judgment of such District Court concerning such review shall be subject to appeal as provided in chapter 83 of title 28.
 
 #### (d) Failure to pay assessment; maintenance of action
 
@@ -30,7 +30,7 @@ All penalties collected under authority of this section shall be paid into the T
 
 #### References in Text
 
-The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, as amended, which was classified generally to chapter 52 (§2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, §523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
+The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, §523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

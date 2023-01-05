@@ -6,7 +6,7 @@ Policy.—It is the policy of Congress that the amount of appropriated funds ava
 
 (b)
 
-Responsibility for Allocations of Certain Funds.—The Secretary of Defense shall be responsible for the allocation of Office of the Secretary of Defense level funds for military child development programs for children from birth through 12 years of age, and may not delegate such responsibility to the military departments.
+Responsibility for Allocations of Certain Funds.—The Secretary of Defense shall be responsible for the allocation of Office of the Secretary of Defense level funds for militarychild development programs for children from birth through 12 years of age, and may not delegate such responsibility to the military departments.
 
 (Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 332; amended Pub. L. 116–283, div. A, title V, §584, Jan. 1, 2021, 134 Stat. 3654.)
 
@@ -22,13 +22,57 @@ Provisions similar to those in this subchapter were contained in Pub. L. 101–1
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Public Reporting on Certain Military Child Care Programs
+
+Pub. L. 117–263, div. A, title V, §579C, Dec. 23, 2022, 136 Stat. 2608, provided that: "Not later than September 30, 2023, and each calendar quarter thereafter, the Secretary of Defense shall post, on a publicly accessible website of the Department of Defense, information regarding the Military Child Care in Your Neighborhood and Military Child Care in Your Neighborhood-Plus programs, disaggregated by State, ZIP code, and Armed Force. Such information shall include whether each such provider is nationally accredited or rated by the Quality Rating and Improvement System of the State."
+
+#### Authority for Department of Defense Program To Promote Early Literacy Among Certain Young Children
+
+Pub. L. 117–263, div. A, title VII, §722, Dec. 23, 2022, 136 Stat. 2663, provided that:
+
+"(a)
+
+Authority.—The Secretary of Defense may carry out a program to promote early literacy among young children in child development centers and libraries located on installations of the Department of Defense.
+
+"(b)
+
+Activities.—Activities under the program under subsection (a) shall include the following:
+
+&emsp;"(1) The provision of training on early literacy promotion to appropriate personnel of the Department.
+
+&emsp;"(2) The purchase and distribution of age-appropriate books to covered caregivers assigned to or serving at an installation of the Department with a child development center or library at which the Secretary is carrying out the program.
+
+&emsp;"(3) The dissemination to covered caregivers of education materials on early literacy.
+
+&emsp;"(4) Such other activities as the Secretary determines appropriate.
+
+"(c)
+
+Locations.—In carrying out the program under subsection (a), the Secretary may conduct the activities under subsection (b) at any child development center or library located on an installation of the Department.
+
+"(d)
+
+Briefing.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on the extent to which the authority under subsection (a) is used, including—
+
+&emsp;"(1) a description of any activities carried out under the program so authorized; and
+
+&emsp;"(2) an evaluation of the potential expansion of such program to be included as a part of the pediatric primary care of young children and to be carried out in military medical treatment facilities.
+
+"(b) \[sic\]
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered caregiver' means a member of the Armed Forces who is a caregiver of a young child.
+
+&emsp;"(2) The term 'young child' means any child from birth to the age of five years old, inclusive."
+
 #### Improvement of Department of Defense Child Development Centers and Increased Availability of Child Care for Children of Military Personnel
 
 Pub. L. 117–81, div. B, title XXVIII, §2816, Dec. 27, 2021, 135 Stat. 2194, provided that:
 
 "(a)
 
-Safety Inspection of Child Development Centers.—Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], each Secretary of a military department shall complete an inspection of all facilities under the jurisdiction of that Secretary usedas a child development center to identify any unresolved safety issues, including lead, asbestos, and mold, that adversely impact the facilities.
+Safety Inspection of Child Development Centers.—Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], each Secretary of a military department shall complete an inspection of all facilities under the jurisdiction of that Secretary used as a child development center to identify any unresolved safety issues, including lead, asbestos, and mold, that adversely impact the facilities.
 
 "(b)
 

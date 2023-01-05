@@ -46,7 +46,7 @@
 
 > Section 3624 is applicable to an order placing a juvenile under detention.
 
-(d)(1) The court, in ordering a term of official detention, may include the requirement that thejuvenile be placed on a term of juvenile delinquent supervision after official detention.
+(d)(1) The court, in ordering a term of official detention, may include the requirement that the juvenile be placed on a term of juvenile delinquent supervision after official detention.
 
 (2) The term of juvenile delinquent supervision that may be ordered for a juvenile found to be a juvenile delinquent may not extend—
 

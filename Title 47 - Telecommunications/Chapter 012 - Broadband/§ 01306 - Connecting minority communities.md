@@ -100,7 +100,7 @@ In this section:
 
 #### (13) Pilot Program
 
-&emsp;The term "Pilot Program" means the Connecting Minority Communities Pilot Program established under the rules promulgated by the Assistant Secretary under subsection (c)(1).
+&emsp;The term "Pilot Program" means the Connecting Minority Communities Pilot Programestablished under the rules promulgated by the Assistant Secretary under subsection (c)(1).
 
 #### (14) Tribal College or University
 
@@ -174,7 +174,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after the date on which the Assistant Secretary establishesthe Office under paragraph (1), and annually thereafter, the Assistant Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—
+&emsp;&emsp;Not later than 1 year after the date on which the Assistant Secretary establishes the Office under paragraph (1), and annually thereafter, the Assistant Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—
 
 &emsp;&emsp;&emsp;(i) for the year covered by the report, details the work of the Office in expanding access to fixed and mobile broadband internet access service—
 

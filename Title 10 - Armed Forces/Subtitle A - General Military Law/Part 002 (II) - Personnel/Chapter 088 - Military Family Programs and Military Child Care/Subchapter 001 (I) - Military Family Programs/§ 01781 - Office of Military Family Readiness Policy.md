@@ -254,7 +254,7 @@ Communication Strategy.—Not later than 180 days after the date of the enactmen
 
 "(c)
 
-Review.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defenseshall conduct a review of current programs, policies, services, resources, and practices of the Department for military families as outlined in recommendation four of the report described in subsection (a).
+Review.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall conduct a review of current programs, policies, services, resources, and practices of the Department for military families as outlined in recommendation four of the report described in subsection (a).
 
 "(d)
 
@@ -462,7 +462,7 @@ Contents.—Each application submitted under paragraph (1) shall include the fol
 
 "(c)
 
-Use of Support.—Support provided by the Secretary of Defense to an organization pursuant to subsection (a) shall be used by the organization to supportattendance at a camp, or camp-like setting, of children of military families described in subsection (a)."
+Use of Support.—Support provided by the Secretary of Defense to an organization pursuant to subsection (a) shall be used by the organization to support attendance at a camp, or camp-like setting, of children of military families described in subsection (a)."
 
 #### Establishment of Online Resources To Provide Information About Benefits and Services Available to Members of the Armed Forces and Their Families
 
@@ -680,7 +680,7 @@ Sec. 2. <i>Mission and Functions of the Working Group</i>. (a) The Working Group
 
 (b) Within 30 days of the date of this memorandum, the Working Group shall develop an initial 3-year strategic action plan that details broad approaches to be taken to enhance access to services and benefits. This initial plan shall be supplemented by a more detailed plan, to be published within 120 days of the date of this memorandum that discusses the steps to be taken in greater detail. The Working Group shall also report periodically on its accomplishments and ongoing initiatives.
 
-Sec. 3. <i>Outreach</i>. Consistent with the objectives of this memorandum and applicable law, the Working Group shall seek the views of representatives of privateand nonprofit organizations; veterans and military service organizations; State, tribal, and local government agencies; elected officials; and other interested persons to inform the Working Group's plans.
+Sec. 3. <i>Outreach</i>. Consistent with the objectives of this memorandum and applicable law, the Working Group shall seek the views of representatives of private and nonprofit organizations; veterans and military service organizations; State, tribal, and local government agencies; elected officials; and other interested persons to inform the Working Group's plans.
 
 Sec. 4. <i>General Provisions</i>. (a) The heads of agencies shall assist and provide information to the Working Group, consistent with applicable law, as may be necessary to carry out the functions of the Working Group. Each agency and office shall bear its own expense for carrying out activities related to the Working Group.
 

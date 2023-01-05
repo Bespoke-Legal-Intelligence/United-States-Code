@@ -6,7 +6,7 @@ Prohibition on Requiring Submission of Political Information.—The head of an a
 
 &emsp;(1) as part of a solicitation, request for bid, request for proposal, or any other form of communication designed to solicit offers in connection with the award of a contract for procurement of property or services; or
 
-&emsp;(2) during the course of contract performance as part of the process associated with modifying a contract or exercising a contract option.
+&emsp;(2) during the course of contract performance as part of the process associated withmodifying a contract or exercising a contract option.
 
 (b)
 
@@ -18,7 +18,7 @@ Rule of Construction.—Nothing in this section shall be construed as—
 
 &emsp;(1) waiving, superseding, restricting, or limiting the application of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101 et seq.) or preventing Federal regulatory or law enforcement agencies from collecting or receiving information authorized by law; or
 
-&emsp;(2) precluding the Defense Contract Audit Agency from accessing and reviewing certain information, including political information,for the purpose of identifying unallowable costs and administering cost principles established pursuant to subchapter I of chapter 273 of this title.
+&emsp;(2) precluding the Defense Contract Audit Agency from accessing and reviewing certain information, including political information, for the purpose of identifying unallowable costs and administering cost principles established pursuant to subchapter I of chapter 273 of this title.
 
 (d)
 

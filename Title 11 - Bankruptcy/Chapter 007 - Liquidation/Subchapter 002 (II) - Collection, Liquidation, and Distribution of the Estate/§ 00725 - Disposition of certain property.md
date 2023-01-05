@@ -1,6 +1,6 @@
 ### §725. Disposition of certain property
 
-After the commencement of a case under this chapter, but before final distribution of property of the estate under section 726 of this title, the trustee, after notice and a hearing, shall dispose of any property in which an entity other than the estate has an interest, such as a lien, and that has not been disposed of under another section of this title.
+After the commencement of a case under this chapter, but before final distribution of property of the estate under section 726 of this title, the trustee, after notice and a hearing, shall dispose of any property in which an entity other thanthe estate has an interest, such as a lien, and that has not been disposed of under another section of this title.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2607; Pub. L. 98–353, title III, §478, July 10, 1984, 98 Stat. 381.)
 

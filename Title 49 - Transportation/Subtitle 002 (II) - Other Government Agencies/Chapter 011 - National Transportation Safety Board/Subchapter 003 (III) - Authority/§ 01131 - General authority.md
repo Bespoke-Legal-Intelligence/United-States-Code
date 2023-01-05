@@ -12,7 +12,7 @@ General.—(1) The National Transportation Safety Board shall investigate or hav
 
 &emsp;(D) a pipeline accident in which there is a fatality, substantial property damage, or significant injury to the environment;
 
-&emsp;(E) a major marine casualty (except a casualty involving only public vessels) occurring on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988, or involving a vessel of the United States (as defined in section 2101(46) <sup>1</sup> of title 46), under regulations prescribed jointly by the Board and the head of the department in which the Coast Guard is operating; and
+&emsp;(E) a major marine casualty (except a casualty involving only public vessels) occurring on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988, or involving a vessel of the United States (as defined in section 116 of title 46), under regulations prescribed jointly by the Board and the head of the department in which the Coast Guard is operating; and
 
 &emsp;(F) any other accident related to the transportation of individuals or property when the Board decides—
 
@@ -22,7 +22,7 @@ General.—(1) The National Transportation Safety Board shall investigate or hav
 
 &emsp;&emsp;(iii) the investigation of the accident would carry out this chapter.
 
-(2)(A) Subject to the requirements of this paragraph, an investigation by the Board underparagraph (1)(A)–(D) or (F) of this subsection has priority over any investigation by another department, agency, or instrumentality of the United States Government. The Board shall provide for appropriate participation by other departments, agencies, or instrumentalities in the investigation. However, those departments, agencies, or instrumentalities may not participate in the decision of the Board about the probable cause of the accident.
+(2)(A) Subject to the requirements of this paragraph, an investigation by the Board under paragraph (1)(A)–(D) or (F) of this subsection has priority over any investigation by another department, agency, or instrumentality of the United States Government. The Board shall provide for appropriate participation by other departments, agencies, or instrumentalities in the investigation. However, those departments, agencies, or instrumentalities may not participate in the decision of the Board about the probable cause of the accident.
 
 (B) If the Attorney General, in consultation with the Chairman of the Board, determines and notifies the Board that circumstances reasonably indicate that the accident may have been caused by an intentional criminal act, the Board shall relinquish investigative priority to the Federal Bureau of Investigation. The relinquishment of investigative priority by the Board shall not otherwise affect the authority of the Board to continue its investigation under this section.
 
@@ -48,13 +48,13 @@ Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When asked 
 
 (d)
 
-Accidents Involving Public Aircraft.—The Board, in furtherance of its investigative duties with respect to public aircraft accidents under subsection (a)(1)(A) of this section, shall have the same duties and powers as are specified for civil aircraft accidents under sections 1132(a), 1132(b), and 1134(a), (b), (d), and (f) of this title.
+Accidents Involving Public Aircraft.—The Board, in furtherance of its investigative duties with respect to public aircraft accidentsunder subsection (a)(1)(A) of this section, shall have the same duties and powers as are specified for civil aircraft accidents under sections 1132(a), 1132(b), and 1134(a), (b), (d), and (f) of this title.
 
 (e)
 
 Accident Reports.—The Board shall report on the facts and circumstances of each accident investigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public at reasonable cost.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §3(c), Oct. 25, 1994, 108 Stat. 4237; Pub. L. 106–424, §§6(a), 7, Nov. 1, 2000, 114 Stat. 1885, 1886; Pub. L. 108–168, §7, Dec. 6, 2003, 117 Stat. 2034; Pub. L. 109–443, §9(b), (c), Dec. 21, 2006, 120 Stat. 3301; Pub. L. 115–254, div. C, §1113(b), Oct. 5, 2018, 132 Stat. 3438.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §3(c), Oct. 25, 1994, 108 Stat. 4237; Pub. L. 106–424, §§6(a), 7, Nov. 1, 2000, 114 Stat. 1885, 1886; Pub. L. 108–168, §7, Dec. 6, 2003, 117 Stat. 2034; Pub. L. 109–443, §9(b), (c), Dec. 21, 2006, 120 Stat. 3301; Pub. L. 115–254, div. C, §1113(b), Oct. 5, 2018, 132 Stat. 3438; Pub. L. 117–263, div. K, title CXVI, §11601(c)(3), Dec. 23, 2022, 136 Stat. 4146.)
 
 Historical and Revision Notes
 
@@ -146,9 +146,9 @@ In subsection (d), the words "in writing" in 49 App.:1903(a)(2) are omitted as s
 
 Presidential Proclamation No. 5928, referred to in subsec. (a)(1)(E), is set out as a note under section 1331 of Title 43, Public Lands.
 
-Section 2101(46) of title 46, referred to in subsec. (a)(1)(E), was repealed and reenacted as section 116 of title 46 by Pub. L. 109–304, §§4, 15(2)(A), Oct. 6, 2006, 120 Stat. 1486, 1702.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(E). Pub. L. 117–263 substituted "section 116" for "section 2101(46)".
 
 <b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–254 substituted "a public aircraft as defined by section 40102(a) of this title" for "a public aircraft as defined by section 40102(a)(37) of this title".
 
@@ -178,7 +178,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Revision of 1977 Agreement
 
-Pub. L. 108–168, §3(b), Dec. 6, 2003, 117 Stat. 2033, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 6, 2003\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this section \[amending section 1136 of this title\] and shall submit a copy of the revised agreement to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate."
+Pub. L. 108–168, §3(b), Dec. 6, 2003, 117 Stat. 2033, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 6, 2003\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account theamendments made by this section \[amending section 1136 of this title\] and shall submit a copy of the revised agreement to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate."
 
 Pub. L. 106–424, §6(b), Nov. 1, 2000, 114 Stat. 1886, provided that: "Not later than 1 year after the date of the enactment of this Act \[Nov. 1, 2000\], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this Act \[see Short Title of 2000 Amendment note set out under section 1101 of this title\]."
 
@@ -189,6 +189,4 @@ Pub. L. 106–424, §8, Nov. 1, 2000, 114 Stat. 1886, provided that: "Not later 
 &emsp;"(1) to redefine or clarify the standards used to determine when the National Transportation Safety Board will lead an investigation; and
 
 &emsp;"(2) to develop new standards to determine when a major marine accident involves significant safety issues relating to Coast Guard safety functions."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

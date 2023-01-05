@@ -1,6 +1,6 @@
 ### §78. Gross up for deemed paid foreign tax credit
 
-If a domestic corporation chooses to have the benefits of subpart A of part III of subchapter N\(relating to foreign tax credit) for any taxable year, an amount equal to the taxes deemed to be paid by such corporation under subsections (a), (b), and (d) of section 960 (determined without regard to the phrase "80 percent of" in subsection (d)(1) thereof) for such taxable year shall be treated for purposes of this title (other than sections 245 and 245A) as a dividend received by such domestic corporation from the foreign corporation.
+If a domestic corporation chooses to have the benefits of subpart A of part III of subchapter N (relating to foreign tax credit) for any taxable year, an amount equal to the taxes deemed to be paid by such corporation under subsections (a), (b), and (d) of section 960 (determined without regard to the phrase "80 percent of" in subsection (d)(1) thereof) for such taxable year shall be treated for purposes of this title (other than sections 245 and 245A) as a dividend received by such domestic corporation from the foreign corporation.
 
 (Added Pub. L. 87–834, §9(b), Oct. 16, 1962, 76 Stat. 1001; amended Pub. L. 94–455, title X, §1033(b)(1), Oct. 4, 1976, 90 Stat. 1628; Pub. L. 115–97, title I, §14301(c)(1), Dec. 22, 2017, 131 Stat. 2222.)
 

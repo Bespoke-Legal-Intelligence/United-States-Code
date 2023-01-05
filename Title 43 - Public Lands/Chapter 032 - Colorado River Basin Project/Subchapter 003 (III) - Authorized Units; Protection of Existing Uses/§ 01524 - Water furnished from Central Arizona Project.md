@@ -36,9 +36,9 @@ In times of shortage or reduction of main stream Colorado River water for the Ce
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1), (f)(1), was in the original "this Act", meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
+This chapter, referred to in subsecs. (b)(1), (f)(1), was in the original "this Act", meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of this title and Tables.
 
-The Boulder Canyon Project Act, referred to in subsec. (c), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 617t of this title and Tables.
+The Boulder Canyon Project Act, referred to in subsec. (c), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 617t of this title and Tables.
 
 #### Codification
 
@@ -56,7 +56,7 @@ Subsec. (f)(2), (3). Pub. L. 108–451, §212(d)(2), (3), redesignated par. (3) 
 
 #### Transportation of Water Pumped Within Boundary
 
-Pub. L. 102–575, title XXXVII, §3710(k), Oct. 30, 1992, 106 Stat. 4751, provided in part that: "This subsection \[amending this section\] does not authorize transportation of water pumped within the exterior boundary of a Federal reclamation project established prior to September 30, 1968, pursuant to the Act of June 17, 1902 (32Stat. 388; 43 U.S.C. 391) \[see Short Title note set out under section 371 of this title\], as amended and supplemented, across project boundaries."
+Pub. L. 102–575, title XXXVII, §3710(k), Oct. 30, 1992, 106 Stat. 4751, provided in part that: "This subsection \[amending this section\] does not authorize transportation of water pumped within the exterior boundary of a Federal reclamation project established prior to September 30, 1968, pursuant to the Act of June 17, 1902 (32 Stat. 388; 43 U.S.C. 391) \[see Short Title note set out under section 371 of this title\], as amended and supplemented, across project boundaries."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

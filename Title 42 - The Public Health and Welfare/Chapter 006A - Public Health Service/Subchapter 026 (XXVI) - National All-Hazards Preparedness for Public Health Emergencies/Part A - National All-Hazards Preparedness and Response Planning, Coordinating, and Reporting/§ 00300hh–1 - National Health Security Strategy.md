@@ -128,7 +128,7 @@ Subsec. (b)(9), (10). Pub. L. 116–22, §101(2)(D), added pars. (9) and (10).
 
 Subsec. (b)(1)(A). Pub. L. 113–5, §101(a)(2)(A), inserted ", including drills and exercises to ensure medical surge capacity for events without notice" after "through drills and exercises".
 
-Subsec. (b)(3). Pub. L. 113–5, §101(a)(2)(B)(i), in introductory provisions, substituted "and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care," for "facilities), and trauma care" and inserted "(including related availability, accessibility, and coordination)" after "public health emergencies".
+Subsec. (b)(3). Pub. L. 113–5, §101(a)(2)(B)(i), in introductory provisions, substituted "and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care," for "facilities),and trauma care" and inserted "(including related availability, accessibility, and coordination)" after "public health emergencies".
 
 Subsec. (b)(3)(A). Pub. L. 113–5, §101(a)(2)(B)(ii), inserted "and trauma" after "medical".
 

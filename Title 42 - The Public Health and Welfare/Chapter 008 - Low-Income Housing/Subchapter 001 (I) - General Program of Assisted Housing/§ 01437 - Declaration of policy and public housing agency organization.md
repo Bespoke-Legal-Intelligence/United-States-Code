@@ -38,7 +38,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;&emsp;(i) the agency has provided reasonable notice to the resident advisory board of the opportunity of not less than 1 resident described in paragraph (1) to serve on the board of directors or similar governing body of the public housing agency pursuant to such paragraph; and
 
-&emsp;&emsp;&emsp;(ii) within a reasonable time after receipt by the resident advisory board established by the agency pursuant to section 1437c–1(e) of this title of notice under clause (i), the public housing agency has not been notified of the intention of anyresident to participate on the board of directors.
+&emsp;&emsp;&emsp;(ii) within a reasonable time after receipt by the resident advisory board established by the agency pursuant to section 1437c–1(e) of this title of notice under clause (i), the public housing agency has not been notified of the intention of any resident to participate on the board of directors.
 
 #### (3) Exception for certain jurisdictions
 
@@ -140,7 +140,7 @@ Pub. L. 110–289, div. B, title VII, §2701, July 30, 2008, 122 Stat. 2863, pro
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–186, title IV, §401, Dec. 16, 2003, 117 Stat. 2693, provided that: "This title \[amending section 1437v of this title and enacting provisions set out as a note under section 1437v of this title\] may be cited as the 'HOPE VI Program Reauthorization and Small Community Mainstreet Rejuvenation and Housing Act of 2003'."
+Pub. L. 108–186, title IV, §401, Dec. 16, 2003, 117 Stat. 2693, provided that: "This title \[amending section 1437vof this title and enacting provisions set out as a note under section 1437v of this title\] may be cited as the 'HOPE VI Program Reauthorization and Small Community Mainstreet Rejuvenation and Housing Act of 2003'."
 
 #### Short Title of 2002 Amendment
 
@@ -180,7 +180,7 @@ In general.—In accordance with section 201(b)(2) of the United States Housing 
 
 Effective date.—Paragraph (1) shall take effect as if such provision were enacted upon the date of the enactment of the Cranston-Gonzalez National Affordable Housing Act \[Nov. 28, 1990\]."
 
-Pub. L. 101–625, title IV, §419, Nov. 28, 1990, 104 Stat. 4161, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subtitle \[subtitle A (§§411–419) of title IV of Pub. L. 101–625, enacting subchapter II–A of this chapter and amending sections 1437c, 1437f, 1437l, 1437p, 1437r, and1437s of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that nothing in this title \[see Short Title note set out under section 1437aaa of this title\] affects the program under section 202 of such Act \[former 42 U.S.C. 1437bb\]."
+Pub. L. 101–625, title IV, §419, Nov. 28, 1990, 104 Stat. 4161, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by this subtitle \[subtitle A (§§411–419) of title IV of Pub. L. 101–625, enacting subchapter II–A of this chapter and amending sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that nothing in this title \[see Short Title note set out under section 1437aaa of this title\] affects the program under section 202 of such Act \[former 42 U.S.C. 1437bb\]."
 
 Pub. L. 101–625, title V, §527, Nov. 28, 1990, 104 Stat. 4216, provided that: "In accordance with section 201(b)(2) of the United States Housing Act of 1937 (\[former\] 42 U.S.C. 1437aa(b)(2)), the provisions of this subtitle \[subtitle A (§§501–527) of title V of Pub. L. 101–625, see Tables for classification\] that modify the public housing program under title I of the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority, except that sections 502 and 510 \[amending sections 1437d and 1437l of this title and enacting provisions set out as notes under section 1437d of this title\] shall not apply."
 
@@ -192,7 +192,7 @@ Pub. L. 101–235, title I, §104(c), Dec. 15, 1989, 103 Stat. 1998, provided th
 
 #### Reports on Number and Cost of Federally Assisted Units
 
-Pub. L. 110–161, div. K, title II, §211, Dec. 26, 2007, 121 Stat. 2433, which directed the Secretary of Housing and Urban Development to submit an annual report to the House and Senate Committees on Appropriations regarding the number of Federally assisted units under lease and the per unit cost of such units, was repealed by Pub. L. 115–31, div. K, title II, §238, May 5, 2017, 131 Stat. 789.
+Pub. L. 110–161, div. K, title II, §211, Dec. 26, 2007, 121 Stat. 2433, which directed the Secretary of Housing andUrban Development to submit an annual report to the House and Senate Committees on Appropriations regarding the number of Federally assisted units under lease and the per unit cost of such units, was repealed by Pub. L. 115–31, div. K, title II, §238, May 5, 2017, 131 Stat. 789.
 
 #### Funding of Certain Public Housing
 
@@ -250,7 +250,7 @@ Pub. L. 105–276, title V, §517, Oct. 21, 1998, 112 Stat. 2550, provided that:
 
 &emsp;"(1) develop an action plan and list of recommendations for the improvement of means of providing severe mental illness treatment to families and individuals receiving housing assistance under the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\], including public housing residents, residents of multifamily housing assisted with project-based assistance under section 8 of such Act \[42 U.S.C. 1437f\], and recipients of tenant-based assistance under such section; and
 
-&emsp;"(2) develop and disseminate a list of current practices among public housing agencies and owners ofassisted housing that serve to benefit persons in need of mental health care."
+&emsp;"(2) develop and disseminate a list of current practices among public housing agencies and owners of assisted housing that serve to benefit persons in need of mental health care."
 
 #### Annual Report
 

@@ -12,7 +12,7 @@ As used in this chapter, the term—
 
 &emsp;(5) "manufacturer" means any person engaged in manufacturing or assembling manufactured homes, including any person engaged in importing manufactured homes for resale;
 
-&emsp;(6) "manufactured home" means a structure, transportable in one or more sections, which, in the traveling mode, is eight body feet or more in width or forty body feet or more in length, or, when erected on site, is three hundred twenty or more square feet, and which is built on a permanent chassis and designed to be used as a dwelling with or without a permanent foundation when connected to the required utilities, and includes the plumbing, heating, air-conditioning, and electrical systems contained therein; except that such term shall include any structure which meets all the requirements of this paragraph except the size requirements and with respect to which the manufacturer voluntarily files a certification required by the Secretary and complieswith the standards established under this chapter; and except that such term shall not include any self-propelled recreational vehicle;
+&emsp;(6) "manufactured home" means a structure, transportable in one or more sections, which, in the traveling mode, is eight body feet or more in width or forty body feet or more in length, or, when erected on site, is three hundred twenty or more square feet, and which is built on a permanent chassis and designed to be used as a dwelling with or without a permanent foundation when connected to the required utilities, and includes the plumbing, heating, air-conditioning, and electrical systems contained therein; except that such term shall include any structure which meets all the requirements of this paragraph except the size requirements and with respect to which the manufacturer voluntarily files a certification required by the Secretary and complies with the standards established under this chapter; and except that such term shall not include any self-propelled recreational vehicle;
 
 &emsp;(7) "Federal manufactured home construction and safety standard" means a reasonable standard for the construction, design, and performance of a manufactured home which meets the needs of the public including the need for quality, durability, and safety;
 
@@ -26,7 +26,7 @@ As used in this chapter, the term—
 
 &emsp;(12) "State" includes each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Canal Zone, and American Samoa;
 
-&emsp;(13) "United States district courts" means the Federal district courts of the United States and the United States courts of the Commonwealth of Puerto Rico, Guam, the Virgin Islands, the Canal Zone, and American Samoa;
+&emsp;(13) "United States district courts" means the Federal district courts of the United States and the United States courts of theCommonwealth of Puerto Rico, Guam, the Virgin Islands, the Canal Zone, and American Samoa;
 
 &emsp;(14) "administering organization" means the recognized, voluntary, private sector, consensus standards body with specific experience in developing model residential building codes and standards involving all disciplines regarding construction and safety that administers the consensus standards through a development process;
 

@@ -10,6 +10,7 @@
 | [1686\.](%C2%A7%2001686%20-%20Interpretation%20with%20respect%20to%20living%20facilities.md) | Interpretation with respect to living facilities. |
 | [1687\.](%C2%A7%2001687%20-%20Interpretation%20of%20program%20or%20activity.md) | Interpretation of "program or activity". |
 | [1688\.](%C2%A7%2001688%20-%20Neutrality%20with%20respect%20to%20abortion.md) | Neutrality with respect to abortion. |
+| [1689\.](%C2%A7%2001689%20-%20Task%20Force%20on%20Sexual%20Violence%20in%20Education.md) | Task Force on Sexual Violence in Education. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -26,3 +27,4 @@
 - [&sect; 01686 - Interpretation with respect to living facilities](%C2%A7%2001686%20-%20Interpretation%20with%20respect%20to%20living%20facilities.md)
 - [&sect; 01687 - Interpretation of program or activity](%C2%A7%2001687%20-%20Interpretation%20of%20program%20or%20activity.md)
 - [&sect; 01688 - Neutrality with respect to abortion](%C2%A7%2001688%20-%20Neutrality%20with%20respect%20to%20abortion.md)
+- [&sect; 01689 - Task Force on Sexual Violence in Education](%C2%A7%2001689%20-%20Task%20Force%20on%20Sexual%20Violence%20in%20Education.md)

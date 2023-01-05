@@ -80,7 +80,7 @@ Amounts in the Black Lung Disability Trust Fund shall be available, as provided 
 
 #### References in Text
 
-The Black Lung Benefits Act, referred to in subsecs. (b)(2)(A), (B) and (d), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended. Part C of the Act isclassified generally to part C (§931 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. Sections 402(i), 422, 423, 424(b), 427(a), 431, 432, and 433 of the Act are classified to sections 902(i), 932, 933, 934(b), 937(a), 941, 942, and 943, respectively, of Title 30. Section 435 of the Act was classified to section 945 of Title 30, prior to repeal by Pub. L. 107–275, §2(c)(1), Nov. 2, 2002, 116 Stat. 1926. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
+The Black Lung Benefits Act, referred to in subsecs. (b)(2)(A), (B) and (d), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792. Part C of the Act is classified generally to part C (§931 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. Sections 402(i), 422, 423, 424(b), 427(a), 431, 432, and 433 of the Act are classified to sections 902(i), 932, 933, 934(b), 937(a), 941, 942, and 943, respectively, of Title 30. Section 435 of the Act was classified to section 945 of Title 30, prior to repeal by Pub. L. 107–275, §2(c)(1), Nov. 2, 2002, 116 Stat. 1926. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
 
 The date of enactment of the Black Lung Benefits Revenue Act of 1981, referred to in subsec. (d)(1)(A), is the date of enactment of Pub. L. 97–119, which was approved Dec. 29, 1981.
 
@@ -144,7 +144,7 @@ Refinancing of outstanding principal of repayable advances and unpaid interest o
 
 Transfer to general fund.—On the refinancing date, the Trust Fund shall repay the market value of the outstanding repayable advances, plus accrued interest, by transferring into the general fund of the Treasury the following sums:
 
-&emsp;&emsp;"(i) The proceeds from obligations that the Trust Fund shall issue to the Secretary of the Treasury in such amounts as the Secretaries of Labor and the Treasury shall determine and bearing interest at the Treasury rate, and that shall be in such forms and denominations and be subject to such other terms and conditions, including maturity, as the Secretary of the Treasury shall prescribe.
+&emsp;&emsp;"(i) The proceeds from obligations that the Trust Fund shall issue to the Secretary of the Treasury in such amounts as the Secretaries of Labor and the Treasury shall determine and bearing interest at the Treasury rate, and that shall be in such forms and denominations and be subject to such otherterms and conditions, including maturity, as the Secretary of the Treasury shall prescribe.
 
 &emsp;&emsp;"(ii) All, or that portion, of the appropriation made to the Trust Fund pursuant to paragraph (3) that is needed to cover the difference defined in that paragraph.
 
@@ -173,6 +173,10 @@ Prepayment of trust fund obligations.—The Trust Fund is authorized to repay an
 Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part that: "In fiscal year 2009 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund ('Fund'), to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 \[now 1986\]; and interest on advances, as authorized by section 9501(c)(2) of that Act."
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. H, title I, Dec. 29, 2022, 136 Stat. 4843.
+
+Pub. L. 117–103, div. H, title I, Mar. 15, 2022, 136 Stat. 431.
 
 Pub. L. 116–260, div. H, title I, Dec. 27, 2020, 134 Stat. 1556.
 

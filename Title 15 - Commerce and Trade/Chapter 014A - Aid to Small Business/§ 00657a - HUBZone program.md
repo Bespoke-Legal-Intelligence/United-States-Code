@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established within the Administration a program (to be known as the HUBZone program) to be carried out by the Administrator to provide for Federal contracting assistance, including promoting economic development in economically distressed areas (as defined in section 636(m)(11)),<sup>1</sup> to qualified HUBZone smallbusiness concerns in accordance with this section.
+There is established within the Administration a program (to be known as the HUBZone program) to be carried out by the Administrator to provide for Federal contracting assistance, including promoting economic development in economically distressed areas (as defined in section 636(m)(11)),<sup>1</sup> to qualified HUBZone small business concerns in accordance with this section.
 
 #### (b) Definitions relating to HUBZones
 
@@ -74,7 +74,7 @@ In this section:
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;For any metropolitan statistical area in the Commonwealth of Puerto Rico, the term "qualified census tract" has the meaning given that term in section 42(d)(5)(B)(ii) of title 26 as applied without regard to subclause (II) of such section and that is reflected in the online tool described under clause (i), except that this clause shall only apply—
+&emsp;&emsp;&emsp;For any metropolitan statistical area in the Commonwealth of Puerto Rico, the term "qualified census tract" has themeaning given that term in section 42(d)(5)(B)(ii) of title 26 as applied without regard to subclause (II) of such section and that is reflected in the online tool described under clause (i), except that this clause shall only apply—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 years after the date that the Administrator implements this clause, or
 
@@ -142,7 +142,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the term "qualified disaster area" means any census tract or nonmetropolitan county located in an area where a major disaster has occurred or an area in which a catastrophic incident has occurred if such census tract or nonmetropolitan county ceased to be qualified under subparagraph (A) or (B), as applicable, during the period beginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred.
+&emsp;&emsp;&emsp;Subject to clause (ii), the term "qualified disaster area" means any census tract or nonmetropolitan county located in an area where a major disaster has occurred or an area in which a catastrophic incidenthas occurred if such census tract or nonmetropolitan county ceased to be qualified under subparagraph (A) or (B), as applicable, during the period beginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred.
 
 #### (ii) Duration
 
@@ -298,7 +298,7 @@ In this section:
 
 #### (C) Procurement of commodities for international food aid export operations
 
-&emsp;&emsp;The price evaluation preference for purchases of agricultural commodities by the Secretary of Agriculture for export operations through international food aid programs administered by the Farm Service Agency shall be 5 percent on the first portion of a contract to be awarded that is not greater than 20 percent of the total volume of each commodity being procured in a single invitation.
+&emsp;&emsp;The price evaluation preference for purchases of agricultural commodities by the Secretary of Agriculture for export operations through international food aid programs administered by the Farm ServiceAgency shall be 5 percent on the first portion of a contract to be awarded that is not greater than 20 percent of the total volume of each commodity being procured in a single invitation.
 
 #### (D) Treatment of preference
 
@@ -526,7 +526,7 @@ Section effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a
 
 #### Initial Limited Applicability
 
-Pub. L. 105–135, title VI, §602(b)(2), Dec. 2, 1997, 111 Stat. 2631, as amended by Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §212\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, limited the applicability of 15 U.S.C. 657a to certain procurements beginning on Dec. 2, 1997, and ending on Sept. 30, 2000.
+Pub. L. 105–135, title VI, §602(b)(2), Dec. 2, 1997, 111 Stat. 2631, as amended by Pub. L. 106–113, div. B,§1000(a)(5) \[title II, §212\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, limited the applicability of 15 U.S.C. 657a to certain procurements beginning on Dec. 2, 1997, and ending on Sept. 30, 2000.
 
 #### Construction of 2017 Amendment
 

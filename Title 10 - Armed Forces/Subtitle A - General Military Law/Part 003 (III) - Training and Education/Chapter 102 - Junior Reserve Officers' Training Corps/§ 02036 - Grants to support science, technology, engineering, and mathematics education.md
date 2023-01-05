@@ -30,7 +30,7 @@ Activities.—Activities funded with grants under this section may include the f
 
 (d)
 
-Preference.—In making any grants under this section, the Secretary shall give preference to eligible entities that are eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.).
+Preference.—In making any grants under this section, the Secretary shall give preferenceto eligible entities that are eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6311 et seq.).
 
 (e)
 

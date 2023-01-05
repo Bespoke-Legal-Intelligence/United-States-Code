@@ -62,9 +62,11 @@ In general.—In this chapter, the term "vessel without nationality" includes—
 
 &emsp;&emsp;(A) a vessel aboard which the master or individual in charge makes a claim of registry that is denied by the nation whose registry is claimed;
 
-&emsp;&emsp;(B) a vessel aboard which the master or individual in charge fails, on request of an officer of the United States authorized to enforce applicable provisions of United States law, to make a claim of nationality or registry for that vessel; and
+&emsp;&emsp;(B) a vessel aboard which the master or individual in charge fails, on request of an officer of the United States authorized to enforce applicable provisions of United States law, to make a claim of nationality or registry for that vessel;
 
-&emsp;&emsp;(C) a vessel aboard which the master or individual in charge makes a claim of registry and for which the claimed nation of registrydoes not affirmatively and unequivocally assert that the vessel is of its nationality.
+&emsp;&emsp;(C) a vessel aboard which the master or individual in charge makes a claim of registry and for which the claimed nation of registry does not affirmatively and unequivocally assert that the vessel is of its nationality; and
+
+&emsp;&emsp;(D) a vessel aboard which no individual, on request of an officer of the United States authorized to enforce applicable provisions of United States law, claims to be the master or is identified as the individual in charge, and that has no other claim of nationality or registry under paragraph (1) or (2) of subsection (e).
 
 &emsp;(2)
 
@@ -92,7 +94,7 @@ Semi-submersible vessel.—The term "semi-submersible vessel" means any watercra
 
 Submersible vessel.—The term "submersible vessel" means a vessel that is capable of operating completely below the surface of the water, including both manned and unmanned watercraft.
 
-(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title III, §303, July 11, 2006, 120 Stat. 527; Pub. L. 110–181, div. C, title XXXV, §3525(a)(6), (b), Jan. 28, 2008, 122 Stat. 601; Pub. L. 110–407, title II, §203, Oct. 13, 2008, 122 Stat. 4300.)
+(Pub. L. 109–304, §10(2), Oct. 6, 2006, 120 Stat. 1685; Pub. L. 109–241, title III, §303, July 11, 2006, 120 Stat. 527; Pub. L. 110–181, div. C, title XXXV, §3525(a)(6), (b), Jan. 28, 2008, 122 Stat. 601; Pub. L. 110–407, title II, §203, Oct. 13, 2008, 122 Stat. 4300; Pub. L. 117–263, div. K, title CXV, §11519, Dec. 23, 2022, 136 Stat. 4142.)
 
 Historical and Revision Notes
 
@@ -135,6 +137,8 @@ In subsection (d)(1)(B), the word "authorized" is substituted for "empowered" fo
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(1)(D). Pub. L. 117–263 added subpar. (D).
 
 <b>2008</b>—Pub. L. 110–181, §3525(b), repealed Pub. L. 109–241, §303. See 2006 Amendment note below.
 

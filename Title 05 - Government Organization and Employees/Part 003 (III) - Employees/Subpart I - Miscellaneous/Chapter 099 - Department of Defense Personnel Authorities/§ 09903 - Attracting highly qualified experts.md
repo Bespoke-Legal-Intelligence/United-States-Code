@@ -18,7 +18,7 @@ Authority.—Under the program, the Secretary may—
 
 Limitation on Term of Appointment.—(1) Except as provided in paragraph (2), the service of an employee under an appointment made pursuant to this section may not exceed 5 years.
 
-(2) The Secretary may, in the case of a particular employee, extend the period to which service is limited under paragraph (1) by up to 1 additional year if the Secretary determines that such action is necessary to promote the Department of Defense's national security missions.
+(2) The Secretary may, in the case of a particular employee, extend the period to which service is limited under paragraph (1) by up to 1 additional year if the Secretary determines thatsuch action is necessary to promote the Department of Defense's national security missions.
 
 (d)
 
@@ -60,7 +60,7 @@ Savings Provisions.—In the event that the Secretary terminates this program, i
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(2). Pub. L. 112–81, §1105(1), amended par. (2) generally. Prior to amendment, par. (2) read asfollows: "An employee appointed under this section is not eligible for any bonus, monetary award, or other monetary incentive for service except for payments authorized under this section."
+<b>2011</b>—Subsec. (d)(2). Pub. L. 112–81, §1105(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "An employee appointed under this section is not eligible for any bonus, monetary award, or other monetary incentive for service except for payments authorized under this section."
 
 Subsec. (d)(3). Pub. L. 112–81, §1105(2), inserted at end "In computing an employee's total annual compensation for purposes of the preceding sentence, any payment referred to in paragraph (2)(B) shall be excluded."
 

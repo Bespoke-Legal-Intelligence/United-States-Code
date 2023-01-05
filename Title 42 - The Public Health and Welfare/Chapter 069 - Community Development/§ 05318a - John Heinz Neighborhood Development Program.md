@@ -40,7 +40,7 @@ For the purposes of this section:
 
 &emsp;(3) The term "neighborhood development funding organization" means—
 
-&emsp;&emsp;(A) a depository institution the accounts of which are insured pursuant to the FederalDeposit Insurance Act \[12 U.S.C. 1811 et seq.\] or the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], and any subsidiary (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]) thereof;
+&emsp;&emsp;(A) a depository institution the accounts of which are insured pursuant to the Federal Deposit Insurance Act \[12 U.S.C. 1811 et seq.\] or the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], and any subsidiary (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]) thereof;
 
 &emsp;&emsp;(B) a depository institution holding company and any subsidiary thereof (as such term is defined in section 3(w) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(w)\]); or
 
@@ -52,7 +52,7 @@ For the purposes of this section:
 
 (1) The Secretary shall carry out, in accordance with this section, a program to support eligible neighborhood development activities by providing Federal matching funds to eligible neighborhood development organizations on the basis of the monetary support such organizations have received from individuals, businesses, and nonprofit or other organizations in their neighborhoods, and from neighborhood development funding organizations, prior to receiving assistance under this section.
 
-(2) The Secretary shall accept applications from eligible neighborhood development organizations for participation in the program. Eligible organizations may participate in more than one year of the program, but shall be required to submit a new application and to compete in the selection process for each program year. For fiscal year 1993 and thereafter, not more than 50 percent of the grants may be for multiyear awards.
+(2) The Secretary shall accept applications from eligible neighborhood development organizations for participation in the program. Eligible organizations may participate in more than one year of the program, but shall be required tosubmit a new application and to compete in the selection process for each program year. For fiscal year 1993 and thereafter, not more than 50 percent of the grants may be for multiyear awards.
 
 (3) From the pool of eligible neighborhood development organizations submitting applications for participation in a given program year, the Secretary shall select participating organizations in an appropriate number through a competitive selection process. To be selected, an applicant shall—
 
@@ -104,7 +104,7 @@ The Secretary shall consult with an informal working group representative of eli
 
 (5) The Secretary shall insure that—
 
-&emsp;(A) grants and other forms of assistance may be made available under this section only if the application contains a certification by the unit of general local government within which the neighborhood to be assisted is located that such assistance is not inconsistent with the comprehensive housing affordability strategy of such unit approved under section 12705 of this title or the statement of community development activities and community development plans of the unit submitted under section 5304(m) of this title, except that the failure of a unit of general local government to respond to a request for a certification within thirty days after the request is made shall be deemed to be a certification; and
+&emsp;(A) grants and other forms of assistance may be made available under this section only if the application contains a certification by the unit of general local government within which the neighborhood to be assisted is located that such assistance is not inconsistent with the comprehensive housing affordability strategyof such unit approved under section 12705 of this title or the statement of community development activities and community development plans of the unit submitted under section 5304(m) of this title, except that the failure of a unit of general local government to respond to a request for a certification within thirty days after the request is made shall be deemed to be a certification; and
 
 &emsp;(B) eligible neighborhood development activities comply with all applicable provisions of the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\].
 
@@ -132,11 +132,11 @@ This section may be cited as the "John Heinz Neighborhood Development Act".
 
 #### References in Text
 
-The Federal Deposit Insurance Act, referred to in subsec. (a)(3)(A), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a)(3)(A), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
-The Federal Credit Union Act, referred to in subsec. (a)(3)(A), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(3)(A), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of Title 12. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (e)(5)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (e)(5)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 #### Codification
 
@@ -176,7 +176,7 @@ Subsec. (e)(1). Pub. L. 102–550, §832(f)(4), inserted ", and from neighborho
 
 Subsec. (e)(3). Pub. L. 102–550, §832(b)(4), inserted before period ", except that, if appropriations for this section exceed $3,000,000, the Secretary may pay not more than $75,000 to any participating neighborhood development organization".
 
-Subsec. (e)(5)(A). Pub. L. 102–550, §832(c), substituted "comprehensive housing affordability strategy of such unit approved under section 12705 of this title or the statement of community development activities and community development plans of the unit submitted under section 5304(m) of this title" for "housing and community development plans of such unit".
+Subsec. (e)(5)(A). Pub. L. 102–550, §832(c), substituted "comprehensive housing affordability strategy of suchunit approved under section 12705 of this title or the statement of community development activities and community development plans of the unit submitted under section 5304(m) of this title" for "housing and community development plans of such unit".
 
 Subsec. (e)(6)(C). Pub. L. 102–550, §832(b)(5)(A), inserted "and" after "programs;".
 

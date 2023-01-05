@@ -2,7 +2,7 @@
 
 (1) The Administrator is authorized to award scholarships in accordance with the provisions of this section for undergraduate study by persons who plan to enter an occupation involving the operation and maintenance of treatment works. Such scholarships shall be awarded for such periods as the Administrator may determine but not to exceed four academic years.
 
-(2) The Administrator shall allocate scholarships under this section among institutions ofhigher education with programs approved under the provisions of this section for the use of individuals accepted into such programs in such manner and according to such plan as will insofar as practicable—
+(2) The Administrator shall allocate scholarships under this section among institutions of higher education with programs approved under the provisions of this section for the use of individuals accepted into such programs in such manner and according to such plan as will insofar as practicable—
 
 &emsp;(A) provide an equitable distribution of such scholarships throughout the United States; and
 

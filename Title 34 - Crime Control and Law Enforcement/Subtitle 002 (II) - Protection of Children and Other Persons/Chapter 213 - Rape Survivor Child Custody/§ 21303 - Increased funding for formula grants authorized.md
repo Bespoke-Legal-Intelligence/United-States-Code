@@ -1,6 +1,6 @@
 ### §21303. Increased funding for formula grants authorized
 
-The Attorney General shall increase the amount provided to a State under the covered formula grants in accordance with this chapter if the State has in place a law that allows the mother of any child that was conceived through rape to seek court-ordered termination of the parental rights of her rapist with regard to that child, which the court is authorized to grant upon clear and convincing evidence of rape.
+The Attorney General shall increase the amount provided to a State under the covered formula grants in accordance with this chapterif the State has in place a law that allows the mother of any child that was conceived through rape to seek court-ordered termination of the parental rights of her rapist with regard to that child, which the court is authorized to grant upon clear and convincing evidence of rape.
 
 (Pub. L. 114–22, title IV, §404, May 29, 2015, 129 Stat. 257.)
 

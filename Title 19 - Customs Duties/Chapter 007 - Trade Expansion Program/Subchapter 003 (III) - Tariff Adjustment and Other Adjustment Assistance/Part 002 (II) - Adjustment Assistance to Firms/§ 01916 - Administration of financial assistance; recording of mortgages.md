@@ -2,7 +2,7 @@
 
 #### (a) Guarantees, agreements for deferred participation, and loans
 
-In making and administering guarantees, agreements for deferred participation, and loans under section 1914 <sup>1</sup> of this title, the Secretary of Commerce may—
+In making and administering guarantees, agreements for deferred participation, and loansunder section 1914 <sup>1</sup> of this title, the Secretary of Commerce may—
 
 &emsp;(1) require security for any such guarantee, agreement, or loan, and enforce, waive, or subordinate such security;
 

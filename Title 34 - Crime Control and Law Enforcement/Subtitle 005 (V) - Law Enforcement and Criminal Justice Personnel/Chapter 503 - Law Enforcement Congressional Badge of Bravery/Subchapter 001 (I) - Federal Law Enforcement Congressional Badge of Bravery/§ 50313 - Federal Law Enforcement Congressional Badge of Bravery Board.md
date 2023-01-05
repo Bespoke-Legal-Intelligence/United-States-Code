@@ -80,7 +80,7 @@ The Federal Board shall do the following:
 
 #### (A) In general
 
-&emsp;&emsp;The Federal Board may hold hearings, sit and act at times and places, take testimony,and receive evidence as the Federal Board considers appropriate to carry out the duties of the Federal Board under this subchapter. The Federal Board may administer oaths or affirmations to witnesses appearing before it.
+&emsp;&emsp;The Federal Board may hold hearings, sit and act at times and places, take testimony, and receive evidence as the Federal Board considers appropriate to carry out the duties of the Federal Board under this subchapter. The Federal Board may administer oaths or affirmations to witnesses appearing before it.
 
 #### (B) Witness expenses
 
@@ -110,7 +110,7 @@ The Federal Board shall do the following:
 
 #### (3) Travel expenses
 
-&emsp;Each Federal Board member shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
+&emsp;Each Federal Board member shall receive travel expenses, including per diem in lieu ofsubsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
 
 (Pub. L. 110–298, title I, §103, July 31, 2008, 122 Stat. 2987.)
 

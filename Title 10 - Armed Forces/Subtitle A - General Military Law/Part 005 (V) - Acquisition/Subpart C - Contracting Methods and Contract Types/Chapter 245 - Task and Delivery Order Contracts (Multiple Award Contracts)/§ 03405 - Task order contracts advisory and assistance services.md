@@ -92,7 +92,7 @@ Inapplicability to Certain Contracts.—This section does not apply to a contrac
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1820(d)(1), (2), renumbered section 2304b of this title as this section, moved subsec. (i)to the beginning of the section and redesignated it as (a), and redesignated former subsecs. (a) to (h) as (b) to (i), respectively.
+<b>2021</b>—Pub. L. 116–283, §1820(d)(1), (2), renumbered section 2304b of this title as this section, moved subsec. (i) to the beginning of the section and redesignated it as (a), and redesignated former subsecs. (a) to (h) as (b) to (i), respectively.
 
 Subsec. (b)(1). Pub. L. 116–283, §1820(d)(3), substituted "section 3406" for "section 2304c" and "section 3401" for "section 2304d".
 

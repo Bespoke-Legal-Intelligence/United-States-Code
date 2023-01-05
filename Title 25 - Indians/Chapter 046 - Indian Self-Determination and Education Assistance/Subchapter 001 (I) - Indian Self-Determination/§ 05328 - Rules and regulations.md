@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretaries of the Interior and of Health and Human Services to promulgate; time restriction
 
-(1) Except as may be specifically authorized in this subsection, or in any other provision of thischapter, the Secretary of the Interior and the Secretary of Health and Human Services may not promulgate any regulation, nor impose any nonregulatory requirement, relating to self-determination contracts or the approval, award, or declination of such contracts, except that the Secretary of the Interior and the Secretary of Health and Human Services may promulgate regulations under this chapter relating to chapter 171 of title 28, commonly known as the "Federal Tort Claims Act", chapter 71 of title 41, declination and waiver procedures, appeal procedures, reassumption procedures, discretionary grant procedures for grants awarded under section 5322 of this title, property donation procedures arising under section 5324(f) of this title, internal agency procedures relating to the implementation of this chapter, retrocession and tribal organization relinquishment procedures, contract proposal contents, conflicts of interest, construction, programmatic reports and data requirements, procurement standards, property management standards, and financial management standards.
+(1) Except as may be specifically authorized in this subsection, or in any other provision of this chapter, the Secretary of the Interior and the Secretary of Health and Human Services may not promulgate any regulation, nor impose any nonregulatory requirement, relating to self-determination contracts or the approval, award, or declination of such contracts, except that the Secretary of the Interior and the Secretary of Health and Human Services may promulgate regulations under this chapter relating to chapter 171 of title 28, commonly known as the "Federal Tort Claims Act", chapter 71 of title 41, declination and waiver procedures, appeal procedures, reassumption procedures, discretionary grant procedures for grants awarded under section 5322 of this title, property donation procedures arising under section 5324(f) of this title, internal agency procedures relating to the implementation of this chapter, retrocession and tribal organization relinquishment procedures, contract proposal contents, conflicts of interest, construction, programmatic reports and data requirements, procurement standards, property management standards, and financial management standards.
 
 (2)(A) The regulations promulgated under this chapter, including the regulations referred to in this subsection, shall be promulgated—
 
@@ -30,7 +30,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 &emsp;(ii) the recommendations of the Administrative Conference of the United States numbered 82–4 and 85–5 entitled "Procedures for Negotiating Proposed Regulations" under sections 305.82–4 and 305.85–5 of title 1, Code of Federal Regulations, and any successor recommendation or law (including any successor regulation).
 
-(B) The tribal participants in the negotiation process referred to in subparagraph (A) shall be nominated by and shall represent the groups described in this paragraph and shall include tribal representatives from all geographic regions.
+(B) The tribal participants in the negotiation process referred to in subparagraph (A) shall benominated by and shall represent the groups described in this paragraph and shall include tribal representatives from all geographic regions.
 
 (C) The negotiations referred to in subparagraph (B) shall be conducted in a timely manner. Proposed regulations to implement the amendments made by the Indian Self-Determination Contract Reform Act of 1994 shall be published in the Federal Register by the Secretary of the Interior and the Secretary of Health and Human Services not later than 180 days after October 25, 1994.
 
@@ -42,7 +42,7 @@ The Secretary of the Interior and the Secretary of Health and Human Services are
 
 The Secretary may, with respect to a contract entered into under this chapter, make exceptions in the regulations promulgated to carry out this chapter, or waive such regulations, if the Secretary finds that such exception or waiver is in the best interest of the Indians served by the contract or is consistent with the policies of this chapter, and is not contrary to statutory law. In reviewing each request, the Secretary shall follow the timeline, findings, assistance, hearing, and appeal procedures set forth in section 5321 of this title.
 
-(Pub. L. 93–638, title I, §107, Jan. 4, 1975, 88 Stat. 2212; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–472, title II, §207, Oct. 5, 1988, 102 Stat. 2295; Pub. L. 101–644, title II, §203(f), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §105, Oct. 25, 1994, 108 Stat. 4269;Pub. L. 103–435, §22(a)(1), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–133, §1, Apr. 25, 1996, 110 Stat. 1320; Pub. L. 104–287, §6(e), Oct. 11, 1996, 110 Stat. 3399.)
+(Pub. L. 93–638, title I, §107, Jan. 4, 1975, 88 Stat. 2212; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–472, title II, §207, Oct. 5, 1988, 102 Stat. 2295; Pub. L. 101–644, title II, §203(f), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §105, Oct. 25, 1994, 108 Stat. 4269; Pub. L. 103–435, §22(a)(1), Nov. 2, 1994, 108 Stat. 4575; Pub. L. 103–437, §10(c)(2), Nov. 2, 1994, 108 Stat. 4589; Pub. L. 104–133, §1, Apr. 25, 1996, 110 Stat. 1320; Pub. L. 104–287, §6(e), Oct. 11, 1996, 110 Stat. 3399.)
 
 #### <b>Editorial Notes</b>
 
@@ -90,7 +90,7 @@ Subsecs. (d), (e). Pub. L. 103–413, §105(2), added subsecs. (d) and (e).
 
 Subsec. (b). Pub. L. 100–472, §207(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-"(1) Within six months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall each to the extent practicable, consult with national and regional Indian organizations to consider and formulate appropriate rules and regulations to implement the provisions of this chapter.
+"(1) Within six months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall each to the extent practicable,consult with national and regional Indian organizations to consider and formulate appropriate rules and regulations to implement the provisions of this chapter.
 
 "(2) Within seven months from January 4, 1975, the Secretary of the Interior and the Secretary of Health and Human Services shall each present the proposed rules and regulations to the Committees on Interior and Insular Affairs of the United States Senate and House of Representatives.
 

@@ -112,7 +112,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "incurred cost audit" means an audit of charges to the Government by a contractor under a flexibly priced contract.
 
-&emsp;(3) The term "flexibly priced contract" has the meaning given the term "flexibly-priced contracts and subcontracts" in part 30 of the Federal Acquisition Regulation (section 30.001 of title 48, Code of Federal Regulations).
+&emsp;(3) The term "flexibly priced contract" has the meaning given the term "flexibly-pricedcontracts and subcontracts" in part 30 of the Federal Acquisition Regulation (section 30.001 of title 48, Code of Federal Regulations).
 
 &emsp;(4) The term "generally accepted government auditing standards" means the generally accepted government auditing standards of the Comptroller General of the United States.
 

@@ -224,7 +224,7 @@ The term "special combat pay" means pay received by a member of the Armed Forces
 
 #### Amendment of Section
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(l)(2), Dec. 27, 2020, 134 Stat. 3137, 3163, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(l)(2), Dec. 27, 2020, 134 Stat. 3137, 3163; Pub. L. 117–103, div. R, §102(a), (c)(1)(A)(iii), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
 
 #### §1087vv. Definitions
 
@@ -370,7 +370,7 @@ The term "special combat pay" means pay received by a member of the Armed Forces
 
 <i>(4) Notwithstanding paragraph (1), payments made and services provided under part E of title IV of the Social Security Act to or on behalf of any child or youth over whom the State agency has responsibility for placement, care, or supervision, including the value of vouchers for education and training and amounts expended for room and board for youth who are not in foster care but are receiving services under section 477 of such Act, shall not be treated as other financial assistance for purposes of section 1087kk(a)(3) of this title.</i>
 
-<i>(5) Notwithstanding paragraph (1), emergency financial assistance provided to the student for unexpected expenses that are a component of the stu</i><i>dent's cost of attendance, and not otherwise considered when the determination of the student's need is made, shall not be treated as other financial assistance for purposes of section 1087kk(a)(3) of this title.</i>
+<i>(5) Notwithstanding paragraph (1), emergency financial assistance provided to the student for unexpected expenses that are a component of the student's cost of attendance, and not otherwise considered when the determination of the student's need is made, shall not be treated as other financial assistance for purposes of section 1087kk(a)(3) of this title.</i>
 
 #### <i>(j) Dependents</i>
 
@@ -426,7 +426,7 @@ The National and Community Service Act of 1990, referred to in subsecs. (a)(2), 
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(I), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
-The Social Security Act, referred to in subsecs. (b)(2)(B) and (e)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and E of title IV of the Act are classified generally to parts A (§601 et seq.) and E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (b)(2)(B) and (e)(5), is act Aug. 14, 1935, ch. 531, 49 Stat.620. Parts A and E of title IV of the Act are classified generally to parts A (§601 et seq.) and E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 903 of the Department of Defense Authorization Act, 1981, referred to in subsec. (c)(2)(J), is section 903 of Pub. L. 96–342, which is set out as a note under section 2141 of Title 10, Armed Forces.
 
@@ -504,7 +504,7 @@ Subsec. (j). Pub. L. 109–171, §8019(e)(1), struck out "; tuition prepayment 
 
 Subsec. (j)(2), (3). Pub. L. 109–171, §8019(e)(2)–(4), struck out par. (2), redesignated par. (3) as (2), and added par. (3). Prior to amendment, par. (2) read as follows:
 
-"(2)(A) Except as provided in subparagraph (B), for purposes of determining a student's eligibility for funds under this subchapter, tuition prepayment plans shall reduce the cost of attendance (as determined under section 1087ll of this title) by the amount of the prepayment, and shall not be considered estimated financial assistance.
+"(2)(A) Except as provided in subparagraph (B), for purposes of determining a student's eligibility for fundsunder this subchapter, tuition prepayment plans shall reduce the cost of attendance (as determined under section 1087ll of this title) by the amount of the prepayment, and shall not be considered estimated financial assistance.
 
 "(B) If the institutional expense covered by the prepayment must be part of the student's cost of attendance for accounting purposes, the prepayment shall be considered estimated financial assistance."
 
@@ -558,7 +558,7 @@ Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title. Implementation of amendment by Pub. L. 116–260 allowed on or after July 1, 2023, see section 102(c)(1)(A)(iii) of Pub. L. 117–103, set out as an On-Time Effective Date Permitted note under section 1070a of this title.
 
 #### Effective Date of 2014 Amendment
 

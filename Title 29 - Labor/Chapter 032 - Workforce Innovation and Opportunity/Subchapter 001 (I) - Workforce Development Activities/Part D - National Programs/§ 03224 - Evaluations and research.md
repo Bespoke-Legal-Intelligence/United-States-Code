@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(B) the effectiveness of the performance accountability measures relating to such programs and activities;
 
-&emsp;&emsp;(C) the effectiveness of the structure and mechanisms for delivery of services through such programs and activities, including the coordination and integration of services through such programs and activities;
+&emsp;&emsp;(C) the effectiveness of the structure and mechanisms for delivery of services throughsuch programs and activities, including the coordination and integration of services through such programs and activities;
 
 &emsp;&emsp;(D) the impact of such programs and activities on the community, businesses, and participants involved;
 
@@ -184,7 +184,7 @@ This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 
 
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 

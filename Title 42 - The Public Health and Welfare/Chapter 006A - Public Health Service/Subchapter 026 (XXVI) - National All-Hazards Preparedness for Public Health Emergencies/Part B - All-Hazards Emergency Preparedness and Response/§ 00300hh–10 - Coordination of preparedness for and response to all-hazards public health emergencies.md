@@ -10,7 +10,7 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (1) Leadership
 
-&emsp;Serve as the principal advisor to the Secretary on all matters related to Federal public health and medical preparedness and response for public health emergencies.
+&emsp;Serve as the principal advisor to the Secretary on all matters related to Federal public health and medical preparedness and response for public health emergencies and, consistent with the National Response Framework and other applicable provisions of law, assist the Secretary in carrying out the functions under section 300hh of this title.
 
 #### (2) Personnel
 
@@ -36,11 +36,17 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (D) Policy coordination and strategic direction
 
-&emsp;&emsp;Provide integrated policy coordination and strategic direction, before, during, and following public health emergencies, with respect to all matters related to Federal public health and medical preparedness and execution and deployment of the Federal response for public health emergencies and incidents covered by the National Response Plan described in section 314(a)(6) of title 6, or any successor plan; and such Federal responses covered by the National Cybersecurity Incident Response Plan developed under section 660(c) <sup>1</sup> of title 6, including public health emergencies or incidents related to cybersecurity threats that present a threat to national health security.
+&emsp;&emsp;Provide integrated policy coordination and strategic direction, before, during, and following public health emergencies, with respect to all matters related to Federal public health and medical preparedness and execution and deployment of the Federal response for public health emergencies and incidents covered by the National Response Plan described in section 314(a)(6) of title 6, or any successor plan; and such Federal responses covered by the National Cybersecurity Incident Response Plan developed under section 660(b) of title 6, including public health emergencies or incidents related to cybersecurity threats that present a threat to national health security.
 
 #### (E) Identification of inefficiencies
 
-&emsp;&emsp;Identify and minimize gaps, duplication, and other inefficiencies in medical and public health preparedness and response activities and the actions necessary to overcome these obstacles.
+&emsp;&emsp;Identify and minimize gaps, duplication, and other inefficiencies in medical and public health preparedness and response activities and recommend actions necessary to overcome these obstacles, such as—
+
+&emsp;&emsp;&emsp;(i) improving coordination with relevant Federal officials;
+
+&emsp;&emsp;&emsp;(ii) partnering with other public or private entities to leverage capabilities maintained by such entities, as appropriate and consistent with this subsection; and
+
+&emsp;&emsp;&emsp;(iii) coordinating efforts to support or establish new capabilities, as appropriate.
 
 #### (F) Coordination of grants and agreements
 
@@ -52,11 +58,17 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 #### (G) Drill and operational exercises
 
-&emsp;&emsp;Carry out drills and operational exercises, in consultation with the Department of Homeland Security, the Department of Defense, the Department of Veterans Affairs, and other applicable Federal departments and agencies, as necessary and appropriate, to identify, inform, and address gaps in and policies related to all-hazards medical and public health preparedness and response, including exercises based on—
+&emsp;&emsp;Carry out drills and operational exercises each year, including national-level and State-level full-scale exercises not less than once every 4 years, in consultation with the Department of Homeland Security, the Department of Defense, the Department of Veterans Affairs, and other applicable Federal departments and agencies, as necessary and appropriate, to identify, inform, and address gaps in and policies related to all-hazards medical and public health preparedness and response, including exercises—
 
-&emsp;&emsp;&emsp;(i) identified threats for which countermeasures are available and for which no countermeasures are available; and
+&emsp;&emsp;&emsp;(i) based on <sup>1</sup>
 
-&emsp;&emsp;&emsp;(ii) unknown threats for which no countermeasures are available.
+&emsp;&emsp;&emsp;&emsp;(I) identified threats for which countermeasures are available and for which no countermeasures are available; and
+
+&emsp;&emsp;&emsp;&emsp;(II) unknown threats for which no countermeasures are available;
+
+&emsp;&emsp;&emsp;(ii) that assess the ability of the Strategic National Stockpile, as appropriate, to provide medical countermeasures, medical products, and other supplies, including ancillary medical supplies, to support the response to a public health emergency or potential public health emergency, including a threat that requires the large-scale and simultaneous deployment of stockpiles and a long-term public health and medical response; and
+
+&emsp;&emsp;&emsp;(iii) conducted in coordination with State and local health officials.
 
 #### (H) National security priority
 
@@ -66,9 +78,23 @@ Subject to the authority of the Secretary, the Assistant Secretary for Preparedn
 
 &emsp;&emsp;Coordinate with the Director of the Centers for Disease Control and Prevention, the Director of National Intelligence, the Secretary of Homeland Security, the Assistant to the President for National Security Affairs, the Secretary of Defense, and other relevant Federal officials, such as the Secretary of Agriculture, to maintain a current assessment of national security threats and inform preparedness and response capabilities based on the range of the threats that have the potential to result in a public health emergency.
 
+#### (J) Medical product and supply capacity planning
+
+&emsp;&emsp;Coordinate efforts within the Department of Health and Human Services to support—
+
+&emsp;&emsp;&emsp;(i) preparedness for medical product and medical supply needs directly related to responding to chemical, biological, radiological, or nuclear threats, including emerging infectious diseases, and incidents covered by the National Response Framework, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) sharing information, including with appropriate stakeholders, related to the anticipated need for, and availability of, such products and supplies during such responses;
+
+&emsp;&emsp;&emsp;&emsp;(II) supporting activities, which may include public-private partnerships, to maintain capacity of medical products and medical supplies, as applicable and appropriate; and
+
+&emsp;&emsp;&emsp;&emsp;(III) planning for potential surges in medical supply needs for purposes of a response to such a threat; and
+
+&emsp;&emsp;&emsp;(ii) situational awareness with respect to anticipated need for, and availability of, such medical products and medical supplies within the United States during a response to such a threat.
+
 #### (5) Logistics
 
-&emsp;In coordination with the Secretary of Veterans Affairs, the Secretary of Homeland Security, the General Services Administration, and other public and private entities, provide logistical support for medical and public health aspects of Federal responses to public health emergencies. Such logistical support shall include working with other relevant Federal, State, local, Tribal, and territorial public health officials and private sector entities to identify the critical infrastructure assets, systems, and networks needed for the properfunctioning of the health care and public health sectors that need to be maintained through any emergency or disaster, including entities capable of assisting with, responding to, and mitigating the effect of a public health emergency, including a public health emergency determined by the Secretary pursuant to section 247d(a) of this title or an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act or the National Emergencies Act, including by establishing methods to exchange critical information and deliver products consumed or used to preserve, protect, or sustain life, health, or safety, and sharing of specialized expertise.
+&emsp;In coordination with the Secretary of Veterans Affairs, the Secretary of Homeland Security, the General Services Administration, and other public and private entities, provide logistical support for medical and public health aspects of Federal responses to public health emergencies. Such logistical support shall include working with other relevant Federal, State, local, Tribal, and territorial public health officials and private sector entities to identify the critical infrastructure assets, systems, and networks needed for the proper functioning of the health care and public health sectors that need to be maintained through any emergency or disaster, including entities capable of assisting with, responding to, and mitigating the effect of a public health emergency, including a public health emergency determined by the Secretary pursuant to section 247d(a) of this title or an emergency or major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act or the National Emergencies Act, including by establishing methods to exchange critical information and deliver products consumed or used to preserve, protect, or sustain life, health, or safety, and sharing of specialized expertise.
 
 #### (6) Leadership
 
@@ -164,7 +190,7 @@ The Assistant Secretary for Preparedness and Response shall—
 
 &emsp;&emsp;&emsp;(i) a list of such countermeasures and products necessary to address the needs of pediatric populations;
 
-&emsp;&emsp;&emsp;(ii) a description of measures taken to coordinate with the Office of Pediatric Therapeutics of the Food and Drug Administration to maximize the labeling, dosages, and formulations of such countermeasures and products for pediatric populations;
+&emsp;&emsp;&emsp;(ii) a description of measures taken to coordinate with the Office of PediatricTherapeutics of the Food and Drug Administration to maximize the labeling, dosages, and formulations of such countermeasures and products for pediatric populations;
 
 &emsp;&emsp;&emsp;(iii) a description of existing gaps in the Strategic National Stockpile and the development of such countermeasures and products to address the needs of pediatric populations; and
 
@@ -180,7 +206,7 @@ The Assistant Secretary for Preparedness and Response shall—
 
 &emsp;&emsp;&emsp;(iv) whether, with respect to each procurement that is approved by the President under section 247d–6b(c)(6) of this title, a contract was entered into within one year after such approval by the President; and
 
-&emsp;&emsp;&emsp;(v) with respect to section 247d–6a(d) of this title, for the 2-year period for whichthe report is submitted, the number of persons who were paid amounts totaling $100,000 or greater and the number of persons who were paid amounts totaling at least $50,000 but less than $100,000; and
+&emsp;&emsp;&emsp;(v) with respect to section 247d–6a(d) of this title, for the 2-year period for which the report is submitted, the number of persons who were paid amounts totaling $100,000 or greater and the number of persons who were paid amounts totaling at least $50,000 but less than $100,000; and
 
 &emsp;&emsp;(K) be made publicly available.
 
@@ -228,15 +254,53 @@ In carrying out subsections (b)(7) and (d), the Secretary shall ensure that info
 
 #### (C) Documentation required
 
-&emsp;&emsp;The Assistant Secretary for Preparedness and Response, in accordance with subsection (b)(7), shall document amounts expended for purposes of carrying out this subsection, including amounts appropriated under the heading "Public Health and Social Services Emergency Fund" under the heading "Office of the Secretary" under title II of division H of the Consolidated Appropriations Act, 2018 (Public Law 115–141) and allocated to carrying out section 247d–7e(c)(4)(F) of this title.
+&emsp;&emsp;The Assistant Secretary for Preparedness and Response, in accordance with subsection (b)(7), shall document amounts expended for purposes of carrying out this subsection, including amounts appropriated under the heading "Public Health and Social Services Emergency Fund" under the heading "Officeof the Secretary" under title II of division H of the Consolidated Appropriations Act, 2018 (Public Law 115–141) and allocated to carrying out section 247d–7e(c)(4)(F) of this title.
 
-(July 1, 1944, ch. 373, title XXVIII, §2811, as added Pub. L. 109–417, title I, §102(a)(3), Dec. 19, 2006, 120 Stat. 2833; amended Pub. L. 113–5, title I, §102(a), Mar. 13, 2013, 127 Stat. 163; Pub. L. 114–255, div. A, title III, §3083, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §302(a), (b), title IV, §§401, 402(b), 404(b), title V, §501, title VII, §703(b), June 24, 2019, 133 Stat. 934, 942, 943, 948, 950, 963.)
+#### (g) Appearances before Congress
+
+#### (1) In general
+
+&emsp;Each fiscal year, the Assistant Secretary for Preparedness and Response shall appear before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives at hearings, on topics such as—
+
+&emsp;&emsp;(A) coordination of Federal activities to prepare for, and respond to, public health emergencies;
+
+&emsp;&emsp;(B) activities and capabilities of the Strategic National Stockpile, including whether, and the degree to which, recommendations made pursuant to section 300hh–10a(c)(1)(A) of this title have been met;
+
+&emsp;&emsp;(C) support for State, local, and Tribal public health and medical preparedness;
+
+&emsp;&emsp;(D) activities implementing the countermeasures budget plan described under subsection (b)(7), including—
+
+&emsp;&emsp;&emsp;(i) any challenges in meeting the full range of identified medical countermeasure needs; and
+
+&emsp;&emsp;&emsp;(ii) progress in supporting advanced research, development, and procurement of medical countermeasures, pursuant to subsection (b)(3);
+
+&emsp;&emsp;(E) the strategic direction of, and activities related to, the sustainment of manufacturing surge capacity and capabilities for medical countermeasures pursuant to section 247d–7e of this title and the distribution and deployment of such countermeasures;
+
+&emsp;&emsp;(F) any additional objectives, activities, or initiatives that have been carried out or are planned by the Assistant Secretary for Preparedness and Response and associated challenges, as appropriate;
+
+&emsp;&emsp;(G) the specific all-hazards threats that the Assistant Secretary for Preparedness and Response is preparing to address, or that are being addressed, through the activities described in subparagraphs (A) through (F); and
+
+&emsp;&emsp;(H) objectives, activities, or initiatives related to the coordination and consultation required under subsections (b)(4)(H) and (b)(4)(I), in a manner consistent with paragraph (3), as appropriate.
+
+#### (2) Clarifications
+
+#### (A) Waiver authority
+
+&emsp;&emsp;The Chair of the Committee on Health, Education, Labor, and Pensions of the Senate or the Chair of the Committee on Energy and Commerce of the House of Representatives may waive the requirements of paragraph (1) for the applicable fiscal year with respect to the applicable Committee.
+
+#### (B) Scope of requirements
+
+&emsp;&emsp;The requirements of this subsection shall not be construed to impact the appearance of other Federal officials or the Assistant Secretary at hearings of either Committee described in paragraph (1) at other times and for purposes other than the times and purposes described in paragraph (1) <sup>3</sup>
+
+#### (3) Closed hearings
+
+&emsp;Information that is not appropriate for disclosure during an open hearing under paragraph (1) in order to protect national security may instead be discussed in a closed hearing that immediately follows such open hearing.
+
+(July 1, 1944, ch. 373, title XXVIII, §2811, as added Pub. L. 109–417, title I, §102(a)(3), Dec. 19, 2006, 120 Stat. 2833; amended Pub. L. 113–5, title I, §102(a), Mar. 13, 2013, 127 Stat. 163; Pub. L. 114–255, div. A, title III, §3083, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §302(a), (b), title IV, §§401, 402(b), 404(b), title V, §501, title VII, §703(b), June 24, 2019, 133 Stat. 934, 942, 943, 948, 950, 963; Pub. L. 117–263, div. G, title LXXI, §7143(d)(4), Dec. 23, 2022, 136 Stat. 3663; Pub. L. 117–328, div. FF, title II, §2103(b)(2), (c), Dec. 29, 2022, 136 Stat. 5712, 5713.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-Section 660(c) of title 6, referred to in subsec. (b)(4)(D), was in the original "section 228(c) of the Homeland Security Act of 2002", and was translated as meaning section 2210(c) of the Homeland Security Act of 2002 to reflect the probable intent of Congress. Section 228 of the Homeland Security Act of 2002, meaning section 228 of Pub. L. 107–296, was renumbered section 2210 of Pub. L. 107–296 by Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and transferred to section 660 of Title 6, Domestic Security. Pub. L. 107–296 no longer contains a section 228.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(4)(H), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
@@ -251,6 +315,18 @@ The Consolidated Appropriations Act, 2018, referred to in subsec. (f)(2)(C), is 
 A prior section 2811 of act July 1, 1944, was renumbered section 2812 and is classified to section 300hh–11 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1). Pub. L. 117–328, §2103(b)(2)(A), inserted "and, consistent with the National Response Framework and other applicable provisions of law, assist the Secretary in carrying out the functions under section 300hh of this title" after "emergencies".
+
+Subsec. (b)(4)(D). Pub. L. 117–263 substituted "section 660(b) of title 6" for "section 228(c) of the Homeland Security Act of 2002 (6 U.S.C. 149(c))".
+
+Subsec. (b)(4)(E). Pub. L. 117–328, §2103(b)(2)(B)(i), substituted "recommend actions necessary to overcome these obstacles, such as—" and cls. (i) to (iii) for "the actions necessary to overcome these obstacles."
+
+Subsec. (b)(4)(G). Pub. L. 117–328, §2103(b)(2)(B)(ii), inserted "each year, including national-level and State-level full-scale exercises not less than once every 4 years" after "operational exercises", substituted "exercises—" and "(i) based on" for "exercises based on—", added cls. (ii) and (iii), and redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i).
+
+Subsec. (b)(4)(J). Pub. L. 117–328, §2103(b)(2)(B)(iii), added subpar. (J).
+
+Subsec. (g). Pub. L. 117–328, §2103(c), added subsec. (g).
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–22, §401(1), inserted "utilize experience related to public health emergency preparedness and response, biodefense, medical countermeasures, and other relevant topics to" after "shall" in introductory provisions.
 
@@ -312,7 +388,9 @@ Pub. L. 113–5, title I, §102(b), Mar. 13, 2013, 127 Stat. 168, provided that:
 
 &emsp;"(2) the coordination of efforts between the Department of Health and Human Services and the Department of Defense to address countermeasure needs for various segments of the population."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
 
 <i><sup>2</sup></i><i> So in original. The word "section" probably should appear.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 

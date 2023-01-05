@@ -44,7 +44,7 @@
 
 (2) Paragraph (1) shall apply only to payments made by the Executive Director after the date on which the Executive Director receives written notice of the election, decree, order, or agreement, and such additional information and documentation as the Executive Director may require.
 
-(3) The amount of the survivor annuity payable from the Thrift Savings Fund to a former spouse of a deceased employee, Member, former employee, or former Member under this section may not exceed the excess, if any, of—
+(3) The amount of the survivor annuity payable from the Thrift Savings Fund to a formerspouse of a deceased employee, Member, former employee, or former Member under this section may not exceed the excess, if any, of—
 
 &emsp;(A) the amount of the survivor annuity determined for a surviving spouse of the deceased employee, Member, former employee, or former Member under the method described in subsection (b)(1), over
 
@@ -82,7 +82,7 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(1)\]\], substituted "may withdraw all or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election" for "may make an election under subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made undersubsection (b)(1) or (b)(2) of such section" and inserted at end "A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B)."
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(1)\]\], substituted "may withdraw all or part of a Thrift Savings Fund account under subsection (b)(2), (3), or (4) of section 8433 of this title or change a withdrawal election" for "may make an election under subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2) of such section" and inserted at end "A married employee or Member (or former employee or Member) may make a withdrawal from a Thrift Savings Fund account under subsection (c)(1) of section 8433 of this title only if the employee or Member (or former employee or Member) satisfies the requirements of subparagraph (B)."
 
 Subsec. (c)(1). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(2)(A)\]\], substituted "An election or change of election" for "An election, change of election, or modification of the commencement date of a deferred annuity" and "or transfer" for "modification, or transfer".
 
@@ -98,7 +98,7 @@ Subsec. (g). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(
 
 Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §204(4)(B)\]\], which directed insertion of "and (h)" after "8344(g)" was executed by making the insertion after "8433(g)" to reflect the probable intent of Congress.
 
-<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–226, §9(d)(1), substituted "subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2)" for "subsection (b)(3), (b)(4), (c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)".
+<b>1994</b>—Subsec. (a)(1)(A). Pub. L. 103–226, §9(d)(1), substituted "subsection (b)(3) or (b)(4) of section 8433 of this title or change an election previously made under subsection (b)(1) or (b)(2)" for "subsection (b)(3), (b)(4),\(c)(3), or (c)(4) of section 8433 of this title or change an election previously made under subsection (b)(1), (b)(2), (c)(1), or (c)(2)".
 
 Subsec. (a)(1)(B). Pub. L. 103–226, §9(i)(9), substituted "subsection (b)" for "subsection (c)".
 

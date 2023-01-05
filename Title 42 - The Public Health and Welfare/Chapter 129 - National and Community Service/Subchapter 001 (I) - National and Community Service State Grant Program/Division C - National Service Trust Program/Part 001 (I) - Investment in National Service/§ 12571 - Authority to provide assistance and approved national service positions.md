@@ -2,7 +2,7 @@
 
 #### (a) Provision of assistance
 
-Subject to the availability of appropriations for this purpose, the Corporation for Nationaland Community Service may make grants to States, subdivisions of States, territories, Indian tribes, public or private nonprofit organizations, and institutions of higher education for the purpose of assisting the recipients of the grants—
+Subject to the availability of appropriations for this purpose, the Corporation for National and Community Service may make grants to States, subdivisions of States, territories, Indian tribes, public or private nonprofit organizations, and institutions of higher education for the purpose of assisting the recipients of the grants—
 
 &emsp;(1) to carry out full- or part-time national service programs, including summer programs, described in subsection (a), (b), or (c) of section 12572 of this title; and
 
@@ -80,7 +80,7 @@ As part of the provision of assistance under subsection (a), and in providing ap
 
 #### (3) Cost of health care
 
-&emsp;In providing a payment in cash under paragraph (2)(A) as part of providing for the remaining share of the cost of carrying out a national service program, the program maycount not more than 85 percent of the cost of providing a health care policy described in section 12594(d)(2) of this title toward such share.
+&emsp;In providing a payment in cash under paragraph (2)(A) as part of providing for the remaining share of the cost of carrying out a national service program, the program may count not more than 85 percent of the cost of providing a health care policy described in section 12594(d)(2) of this title toward such share.
 
 #### (4) Waiver
 
@@ -182,9 +182,13 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 
 #### Overall Minimum Share Requirement
 
-Pub. L. 116–260, div. H, title IV, §402, Dec. 27, 2020, 134 Stat. 1614, provided that: "AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) \[42 U.S.C. 12571(e)\] or the member support Federal share limitations in section 140 of the 1990 Act \[National and Community Service Act of 1990, 42 U.S.C. 12594\], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations."
+Pub. L. 117–328, div. H, title IV, §402, Dec. 29, 2022, 136 Stat. 4900, provided that: "AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) \[42 U.S.C. 12571(e)\] or the member support Federal share limitations in section 140 of the 1990 Act \[National and Community Service Act of 1990, 42 U.S.C. 12594\], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–103, div. H, title IV, §402, Mar. 15, 2022, 136 Stat. 488.
+
+Pub. L. 116–260, div. H, title IV, §402, Dec. 27, 2020, 134 Stat. 1614.
 
 Pub. L. 116–94, div. A, title IV, §402, Dec. 20, 2019, 133 Stat. 2599.
 

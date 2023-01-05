@@ -10,7 +10,7 @@
 
 (2) The members appointed from the Senate and House of Representatives shall be appointed for a term of two years at the beginning of each Congress, shall be eligible for reappointment, and shall serve until their successors are appointed.
 
-(3) The Board of Trustees shall have the power to fill any vacancy in the membership of the Board except for public members. Nine trustees shall constitute a quorum to transact business. The Board of Trustees, by vote of a majority of its membership, is authorized to remove any member of their body (except the public members) who may refuse or neglect to discharge the duties of a trustee, or whose removal would, in the judgment of said majority, be to the interest and welfare of said corporation.
+(3) The Board of Trustees shall have the power to fill any vacancy in the membership of the Board except for public members. Nine trusteesshall constitute a quorum to transact business. The Board of Trustees, by vote of a majority of its membership, is authorized to remove any member of their body (except the public members) who may refuse or neglect to discharge the duties of a trustee, or whose removal would, in the judgment of said majority, be to the interest and welfare of said corporation.
 
 #### (b) Powers of Board
 

@@ -114,7 +114,7 @@ In subsection (d)(3), the words "beginning with the date of transmission of the 
 
 Section 40119 of this title, referred to in subsec. (c)(2)(B)(i), (3), was repealed by Pub. L. 115–254, div. K, title I, §1991(c)(3), Oct. 5, 2018, 132 Stat. 3627.
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(2)(B)(vi), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (c)(2)(B)(vi), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
 
@@ -194,7 +194,7 @@ Public notice and comment.—The Administrator shall publish the report in the F
 
 "(b)
 
-Report to Congress Containing Recommendations of Administrator.—Not later than 60 days after the last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—
+Report to Congress Containing Recommendations of Administrator.—Not later than 60 days afterthe last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—
 
 &emsp;"(1) a report containing the recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and
 
@@ -262,7 +262,7 @@ Exclusion.—The terms do not include a reduction in personnel resulting from wo
 
 #### Program Authorizations
 
-Pub. L. 112–95, title IX, §901(c), Feb. 14, 2012, 126 Stat. 137, provided that: "From the other accounts describedin the national aviation research plan required under section 44501(c) of title 49, United States Code, the following research and development activities are authorized:
+Pub. L. 112–95, title IX, §901(c), Feb. 14, 2012, 126 Stat. 137, provided that: "From the other accounts described in the national aviation research plan required under section 44501(c) of title 49, United States Code, the following research and development activities are authorized:
 
 &emsp;"(1) Runway Incursion Reduction.
 

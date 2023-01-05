@@ -36,7 +36,7 @@ The Secretary shall establish curriculum at the George P. Shultz National Foreig
 
 #### Codification
 
-Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as partof the Foreign Service Act of 1980 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

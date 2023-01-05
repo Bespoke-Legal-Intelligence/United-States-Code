@@ -126,7 +126,7 @@ Sec. 2. <i>Codes and Concurrent Requirements</i>. (a) Commencing within 90 days 
 
 (e) Each agency that leases space in a building to be constructed for the predominant use of an agency above 5,000 rentable square feet in the wildland-urban interface in an area of greater than moderate wildfire risk is strongly encouraged to ensure that the building is designed and constructed in accord with the IWUIC, or an equivalent code.
 
-(f) Each agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance premiums, of a newly constructed building or of an alteration of an existing building above 5,000 gross square feet within the wildland-urban interface at moderate or greater wildfire risk shall consider updating its procedures for providing the assistance to be consistent with sections 2(a) and 2(b) of this order, to ensure appropriate consideration of wildfire-resistant design and construction.
+(f) Each agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing,through loan or mortgage insurance premiums, of a newly constructed building or of an alteration of an existing building above 5,000 gross square feet within the wildland-urban interface at moderate or greater wildfire risk shall consider updating its procedures for providing the assistance to be consistent with sections 2(a) and 2(b) of this order, to ensure appropriate consideration of wildfire-resistant design and construction.
 
 (g) To the extent permitted by law, the heads of all agencies may:
 

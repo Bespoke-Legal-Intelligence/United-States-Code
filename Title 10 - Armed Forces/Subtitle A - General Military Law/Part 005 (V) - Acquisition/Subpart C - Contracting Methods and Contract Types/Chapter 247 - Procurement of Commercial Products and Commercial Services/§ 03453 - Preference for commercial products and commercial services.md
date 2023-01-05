@@ -130,6 +130,58 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under section 453b of Title 6, Domestic Security.
 
+#### Increase in Air Force and Navy Use of Used Commercial Dual-Use Parts in Certain Aircraft and Engines
+
+Pub. L. 117–263, div. A, title I, §161, Dec. 23, 2022, 136 Stat. 2461, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of the Air Force, with respect to the Air Force, and the Secretary of the Navy, with respect to the Navy, shall develop and implement processes and procedures for—
+
+&emsp;"(1) the acquisition of used, overhauled, reconditioned, and remanufactured commercial dual-use parts; and
+
+&emsp;"(2) the use of such commercial dual-use parts in all—
+
+&emsp;&emsp;"(A) commercial derivative aircraft and engines; and
+
+&emsp;&emsp;"(B) aircraft used by the Air Force or Navy that are based on the design of commercial products.
+
+"(b)
+
+Procurement of Parts.—The processes and procedures implemented under subsection (a) shall provide that commercial dual-use parts shall be acquired—
+
+&emsp;"(1) pursuant to competitive procedures (as defined in section 3012 of title 10, United States Code); and
+
+&emsp;"(2) only from suppliers that provide parts that possess an Authorized Release Certificate Federal Aviation Administration Form 8130-3 Airworthy Approval Tag from a certified repair station pursuant to part 145 of title 14, Code of Federal Regulations.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Commercial derivative.—The term 'commercial derivative' means an item procured by the Department of Defense that is or was produced using the same or similar production facilities, a common supply chain, and the same or similar production processes that are used for the production of the item as predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes.
+
+&emsp;"(2)
+
+Commercial dual-use part.—The term 'commercial dual-use part' means a product that is—
+
+&emsp;&emsp;"(A) a commercial product;
+
+&emsp;&emsp;"(B) dual-use;
+
+&emsp;&emsp;"(C) described in subsection (b)(2); and
+
+&emsp;&emsp;"(D) not a life-limited part.
+
+&emsp;"(3)
+
+Commercial product.—The term 'commercial product' has the meaning given such term in section 103 of title 41, United States Code.
+
+&emsp;"(4)
+
+Dual-use.—The term 'dual-use' has the meaning given such term in section 4801 of title 10, United States Code."
+
 #### Use of Commercial Items in Distributed Common Ground Systems
 
 Pub. L. 115–91, div. A, title XVI, §1698, Dec. 12, 2017, 131 Stat. 1794, provided that:
@@ -228,7 +280,7 @@ Definition.—In this subsection, the term 'commercial product' has the meaning 
 
 #### Preference for Commercial Services
 
-Pub. L. 114–328, div. A, title VIII, §876, Dec. 23, 2016, 130 Stat. 2311, as amended by Pub. L. 116–92, div. A, title IX, §902(59), Dec. 20, 2019, 133 Stat. 1550, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall revise the guidance issued pursuant to section 855 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2377 note) to provide that—
+Pub. L. 114–328, div. A, title VIII, §876, Dec. 23, 2016, 130 Stat. 2311, as amended by Pub. L. 116–92, div. A, titleIX, §902(59), Dec. 20, 2019, 133 Stat. 1550, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of Defense shall revise the guidance issued pursuant to section 855 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2377 note) to provide that—
 
 &emsp;"(1) the head of an agency may not enter into a contract in excess of $10,000,000 for facilities-related services, knowledge-based services (except engineering services), construction services, medical services, or transportation services that are not commercial services unless the service acquisition executive of the military department concerned, the head of the Defense Agency concerned, the commander of the combatant command concerned, or the Under Secretary of Defense for Acquisition and Sustainment (as applicable) determines in writing that no commercial services are suitable to meet the agency's needs as provided in section 2377(c)(2) of title 10, United States Code \[now 10 U.S.C. 3453(c)(2)\]; and
 

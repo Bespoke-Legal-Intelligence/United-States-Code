@@ -24,7 +24,7 @@ Prohibitions.—A person may not—
 
 &emsp;(8) operate an airport without an airport operating certificate required under section 44706 of this title or in violation of a term of the certificate;
 
-&emsp;(9) manufacture, deliver, sell, or offer for sale any aviation fuel or additive in violation of a regulation prescribed under section 44714 of this title; or
+&emsp;(9) manufacture, deliver, sell, or offer for sale any aviation fuel or additive in violationof a regulation prescribed under section 44714 of this title; or
 
 &emsp;(10) violate section 44732 or any regulation issued thereunder.
 

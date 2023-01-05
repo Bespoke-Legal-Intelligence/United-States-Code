@@ -60,7 +60,7 @@ FinCEN identifier.—The term "FinCEN identifier" means the unique identifying n
 
 &emsp;(7)
 
-Foreign person.—The term "foreign person" means a person who is not a United States person, as defined in section 7701(a) of the Internal Revenue Code of 1986.
+Foreign person.—The term "foreign person" means a person who is not a UnitedStates person, as defined in section 7701(a) of the Internal Revenue Code of 1986.
 
 &emsp;(8)
 
@@ -114,7 +114,7 @@ Reporting company.—The term "reporting company"—
 
 &emsp;&emsp;&emsp;&emsp;(III) section 202(a) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2(a));
 
-&emsp;&emsp;&emsp;(iv) a Federal credit union or a State credit union (as those terms are defined insection 101 of the Federal Credit Union Act (12 U.S.C. 1752));
+&emsp;&emsp;&emsp;(iv) a Federal credit union or a State credit union (as those terms are defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752));
 
 &emsp;&emsp;&emsp;(v) a bank holding company (as defined in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841)) or a savings and loan holding company (as defined in section 10(a) of the Home Owners' Loan Act (12 U.S.C. 1467a(a)));
 
@@ -308,7 +308,7 @@ Reporting requirement for exempt entities having an ownership interest.—If an 
 
 &emsp;&emsp;(C)
 
-Reporting requirement for certain pooled investment vehicles.—Any corporation, limited liability company, or other similar entity that is an exempt entity described in subsection (a)(11)(B)(xviii) and is formed under the laws of a foreign country shall file with FinCEN a written certification that provides identification information of an individual that exercises substantial control over the pooled investment vehicle in the same manner as required under this subsection.
+Reporting requirement for certain pooled investment vehicles.—Any corporation, limited liability company, or othersimilar entity that is an exempt entity described in subsection (a)(11)(B)(xviii) and is formed under the laws of a foreign country shall file with FinCEN a written certification that provides identification information of an individual that exercises substantial control over the pooled investment vehicle in the same manner as required under this subsection.
 
 &emsp;&emsp;(D)
 
@@ -462,7 +462,7 @@ Appropriate protocols.—The Secretary of the Treasury shall establish by regula
 
 &emsp;&emsp;&emsp;(v) who are authorized by agreement with the Secretary to access the information;
 
-&emsp;&emsp;(H) require the requesting agency to establish and maintain, to the satisfaction of the Secretary, a permanent system of standardized records with respect to an auditable trail of each request for beneficial ownership information submitted to the Secretary by the agency, including the reason for the request, the name of the individual who made the request, the date of the request, any disclosure of beneficial ownership information made by or to the agency, and any other information the Secretary of the Treasury determines is appropriate;
+&emsp;&emsp;(H) require the requesting agency to establish and maintain, to the satisfaction of the Secretary, a permanent system of standardized records with respect to an auditable trail of each request for beneficial ownership information submitted to the Secretary by the agency, including the reason for the request, the name of the individual who made the request, the date of the request, any disclosure of beneficial ownership informationmade by or to the agency, and any other information the Secretary of the Treasury determines is appropriate;
 
 &emsp;&emsp;(I) require that the requesting agency receiving beneficial ownership information from the Secretary conduct an annual audit to verify that the beneficial ownership information received from the Secretary has been accessed and used appropriately, and in a manner consistent with this paragraph and provide the results of that audit to the Secretary upon request;
 
@@ -542,7 +542,7 @@ Department of the treasury testimony.—
 
 &emsp;&emsp;(A)
 
-In general.—Not later than March 31 of each year for 5 years beginning in 2022, the Director shall be made available to testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, or an appropriate subcommittee thereof, regarding FinCEN issues, including, specifically, issues relating to—
+In general.—Not later than March 31 of each year for 5 years beginning in 2022, the Director shall be made available to testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, or an appropriate subcommittee thereof, regardingFinCEN issues, including, specifically, issues relating to—
 
 &emsp;&emsp;&emsp;(i) anticipated plans, goals, and resources necessary for operations of FinCEN in implementing the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
 
@@ -614,7 +614,7 @@ In general.—As a condition of the funds made available under this section, eac
 
 &emsp;&emsp;(B)
 
-Notification from the department of the treasury.—A notification under clause (i) or (ii) of subparagraph (A) shall explicitly state that the notification is on behalf of the Department of the Treasury for the purpose of preventing money laundering, the financing of terrorism, proliferation financing, serious tax fraud, and other financial crime by requiring nonpublic registration of business entities formed or registered to do business in the United States.
+Notification from the department of the treasury.—A notification under clause\(i) or (ii) of subparagraph (A) shall explicitly state that the notification is on behalf of the Department of the Treasury for the purpose of preventing money laundering, the financing of terrorism, proliferation financing, serious tax fraud, and other financial crime by requiring nonpublic registration of business entities formed or registered to do business in the United States.
 
 (f)
 
@@ -664,7 +664,7 @@ Unauthorized disclosure or use violations.—Any person that violates paragraph 
 
 &emsp;&emsp;&emsp;(ii)(I) shall be fined not more than $250,000, or imprisoned for not more than 5 years, or both; or
 
-&emsp;&emsp;&emsp;(II) while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be finednot more than $500,000, imprisoned for not more than 10 years, or both.
+&emsp;&emsp;&emsp;(II) while violating another law of the United States or as part of a pattern of any illegal activity involving more than $100,000 in a 12-month period, shall be fined not more than $500,000, imprisoned for not more than 10 years, or both.
 
 &emsp;&emsp;(C)
 
@@ -716,7 +716,7 @@ Treasury office of inspector general investigation in the event of a cybersecuri
 
 &emsp;&emsp;(A)
 
-In general.—In the event of a cybersecurity breach that results in substantial unauthorized access and disclosure of sensitive beneficial ownership information, the Inspector General of the Department of the Treasury shall conduct an investigation into FinCEN cybersecurity practices that, to the extent possible, determines any vulnerabilities within FinCEN information security and confidentiality protocols and provides recommendations for fixing those deficiencies.
+In general.—In the event of a cybersecurity breach that results in substantial unauthorized access and disclosure of sensitive beneficial ownership information, the Inspector General of the Department of the Treasury shall conduct an investigationinto FinCEN cybersecurity practices that, to the extent possible, determines any vulnerabilities within FinCEN information security and confidentiality protocols and provides recommendations for fixing those deficiencies.
 
 &emsp;&emsp;(B)
 
@@ -796,7 +796,7 @@ Pub. L. 116–283, div. F, title LXIV, §6402, Jan. 1, 2021, 134 Stat. 4604, pro
 
 &emsp;&emsp;"(E) bring the United States into compliance with international anti-money laundering and countering the financing of terrorism standards;
 
-&emsp;"(6) beneficial ownership information collected under the amendments made by this title is sensitive information and will be directly available only to authorized government authorities, subject to effective safeguards and controls, to—
+&emsp;"(6) beneficial ownership information collected under the amendments made by this title is sensitiveinformation and will be directly available only to authorized government authorities, subject to effective safeguards and controls, to—
 
 &emsp;&emsp;"(A) facilitate important national security, intelligence, and law enforcement activities; and
 
@@ -828,7 +828,7 @@ In general.—Not later than 2 years after the date of enactment of this Act \[J
 
 "(2)
 
-Applicability.—The revision required under paragraph (1) shall not apply to a covered contractor or subcontractor, as defined in section 847\[(a)(3)\] of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) \[10 U.S.C. 4819 note\], that is subject to the beneficial ownership disclosure and review requirements under that section."
+Applicability.—The revision required under paragraph (1) shall not apply to a covered contractor or subcontractor, as defined in section 847\[(a)(3)\] of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) \[10 U.S.C. 2509 note\], that is subject to the beneficial ownership disclosure and review requirements under that section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

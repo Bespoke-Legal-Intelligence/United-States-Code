@@ -98,13 +98,13 @@ Each rural-serving institution of higher education desiring a grant under this s
 
 A rural-serving institution of higher education that receives a grant under this section shall use grant funds for at least three of the following four purposes:
 
-&emsp;(1) To improve postsecondary enrollment rates for rural secondary school students atrural-serving institutions of higher education, which may include—
+&emsp;(1) To improve postsecondary enrollment rates for rural secondary school students at rural-serving institutions of higher education, which may include—
 
 &emsp;&emsp;(A) programs to provide students and families with counseling related to applying for postsecondary education, and Federal and State financial assistance for postsecondary education;
 
 &emsp;&emsp;(B) programs that provide students and families of rural high schools access and exposure to campuses, classes, programs, and internships of rural-serving institutions of higher education, including covering the cost of transportation to and from such institutions; and
 
-&emsp;&emsp;(C) other initiatives that assist students and families in applying for and developing interest in attending rural-serving institutions of higher education.
+&emsp;&emsp;(C) other initiatives that assist students and families in applying for and developinginterest in attending rural-serving institutions of higher education.
 
 &emsp;(2) To increase enrollment rates of nontraditional students in degree programs at rural-serving institutions of higher education, which may include—
 

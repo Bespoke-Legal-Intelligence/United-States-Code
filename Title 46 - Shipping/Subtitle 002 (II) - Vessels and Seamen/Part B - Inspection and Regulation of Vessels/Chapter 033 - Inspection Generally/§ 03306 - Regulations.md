@@ -48,7 +48,7 @@
 
 (k)(1) Each vessel of the United States that is constructed under a contract entered into after the date of enactment of the Maritime Safety Act of 2010, or that is delivered after January 1, 2011, with an aggregate capacity of 600 cubic meters or more of oil fuel, shall comply with the requirements of Regulation 12A under Annex I to the Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973, entitled "Oil Fuel Tank Protection".
 
-(2) The Secretary may prescribe regulations to apply the requirements described in Regulation 12A to vessels described in paragraph (1) that are not otherwise subject to that convention. Any such regulation shall be considered to be an interpretive rule for the purposes of section 553 of title 5.
+(2) The Secretary may prescribe regulations to apply the requirements described in Regulation 12A to vessels described in paragraph (1) that are not otherwise subject to that convention. Anysuch regulation shall be considered to be an interpretive rule for the purposes of section 553 of title 5.
 
 (3) In this subsection the term "oil fuel" means any oil used as fuel in connection with the propulsion and auxiliary machinery of the vessel in which such oil is carried.
 
@@ -74,7 +74,7 @@ Regulations.—The Secretary shall prescribe additional regulations to secure th
 
 &emsp;(2)
 
-Comprehensive review.—In order to prescribe the regulations under paragraph (1), the Secretary shall conduct a comprehensive review of all requirements (including calculations), in existence on the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, that apply to coveredsmall passenger vessels, with respect to fire detection, protection, and suppression systems, and avenues of egress, on board such vessels.
+Comprehensive review.—In order to prescribe the regulations under paragraph (1), the Secretary shall conduct a comprehensive review of all requirements (including calculations), in existence on the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, that apply to covered small passenger vessels, with respect to fire detection, protection, and suppression systems, and avenues of egress, on board such vessels.
 
 &emsp;(3)
 
@@ -142,7 +142,7 @@ Definition of covered small passenger vessel.—In this subsection, the term "co
 
 &emsp;&emsp;(B) does not include a ferry (as defined in section 2101) or fishing vessel (as defined in section 2101).
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 98–364, title IV, §402(5), July 17, 1984, 98 Stat. 446; Pub. L. 103–206, title V, §512(a), Dec. 20, 1993, 107 Stat. 2442; Pub. L. 104–324, title VI, §604(a), (c), title VII, §712, Oct. 19, 1996, 110 Stat. 3930, 3931, 3936; Pub. L. 108–293, title IV, §415(b), Aug. 9, 2004, 118 Stat. 1047; Pub. L. 109–304, §15(12), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 111–281, title VI, §612, Oct. 15, 2010, 124 Stat. 2970; Pub. L. 115–232, div. C, title XXXV, §3542(b), Aug. 13, 2018, 132 Stat. 2324; Pub. L. 115–265, title II, §206(a)(1), Oct. 11, 2018, 132 Stat. 3746; Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8441(a), Jan. 1, 2021, 134 Stat. 4742.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 513; Pub. L. 98–364, title IV, §402(5), July 17, 1984, 98 Stat. 446; Pub. L. 103–206, title V, §512(a), Dec. 20, 1993, 107Stat. 2442; Pub. L. 104–324, title VI, §604(a), (c), title VII, §712, Oct. 19, 1996, 110 Stat. 3930, 3931, 3936; Pub. L. 108–293, title IV, §415(b), Aug. 9, 2004, 118 Stat. 1047; Pub. L. 109–304, §15(12), Oct. 6, 2006, 120 Stat. 1703; Pub. L. 111–281, title VI, §612, Oct. 15, 2010, 124 Stat. 2970; Pub. L. 115–232, div. C, title XXXV, §3542(b), Aug. 13, 2018, 132 Stat. 2324; Pub. L. 115–265, title II, §206(a)(1), Oct. 11, 2018, 132 Stat. 3746; Pub. L. 116–283, div. G, title LVXXXIV \[LXXXIV\], §8441(a), Jan. 1, 2021, 134 Stat. 4742.)
 
 Historical and Revision Notes
 
@@ -306,6 +306,306 @@ Pub. L. 115–265, title II, §206(a)(2), Oct. 11, 2018, 132 Stat. 3746, provide
 
 \[For definition of "Secretary" as used in section 206(a)(2) of Pub. L. 115–265, set out above, see section 203 of Pub. L. 115–265, set out as a note under section 2101 of this title.\]
 
+#### Oil Spill Response; Exceptions to Regulations for Towing Vessels
+
+Pub. L. 117–263, div. K, title CXIII, §11316, Dec. 23, 2022, 136 Stat. 4089, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Secretary shall review existing Coast Guard policies with respect to exceptions to the applicability of subchapter M of chapter I of title 46, Code of Federal Regulations (or successor regulations), for—
+
+&emsp;"(1) an oil spill response vessel, or a vessel of opportunity, while such vessel is—
+
+&emsp;&emsp;"(A) towing boom for oil spill response; or
+
+&emsp;&emsp;"(B) participating in an oil response exercise; and
+
+&emsp;"(2) a fishing vessel while that vessel is operating as a vessel of opportunity.
+
+"(b)
+
+Policy.—Not later than 180 days after the conclusion of the review required under subsection (a), the Secretary shall revise or issue any necessary policy to clarify the applicability of subchapter M of chapter I of title 46, Code of Federal Regulations (or successor regulations) to the vessels described in subsection (a). Such a policy shall ensure safe and effective operation of such vessels.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Fishing vessel; oil spill response vessel.—The terms 'fishing vessel' and 'oil spill response vessel' have the meanings given such terms in section 2101 of title 46, United States Code.
+
+&emsp;"(2)
+
+Vessel of opportunity.—The term 'vessel of opportunity' means a vessel engaged in spill response activities that is normally and substantially involved in activities other than spill response and not a vessel carrying oil as a primary cargo."
+
+\[For definition of "Secretary" as used in section 11316 of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under section 106 of Title 14, Coast Guard.\]
+
+#### Requirements for DUKW Amphibious Passenger Vessels
+
+Pub. L. 117–263, div. K, title CXV, §11502, Dec. 23, 2022, 136 Stat. 4127, provided that:
+
+"(a)
+
+Rulemaking Required.—
+
+&emsp;"(1)
+
+In general.—Not later than 6 months after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant \[of the Coast Guard\] shall initiate a rulemaking to establish additional safety standards for DUKW amphibious passenger vessels.
+
+&emsp;"(2)
+
+Deadline for regulations.—The regulations issued under paragraph (1) shall take effect not later than 18 months after the Commandant promulgates a final rule pursuant to such paragraph.
+
+"(b)
+
+Requirements.—The regulations required under subsection (a) shall include the following:
+
+&emsp;"(1) A requirement that operators of DUKW amphibious passenger vessels provide reserve buoyancy for such vessels through passive means, including watertight compartmentalization, built-in flotation, or such other means as determined appropriate by the Commandant, in order to ensure that such vessels remain afloat and upright in the event of flooding, including when carrying a full complement of passengers and crew.
+
+&emsp;"(2) An identification, in consultation with the Under Secretary of Commerce for Oceans and Atmosphere, of limiting environmental conditions, such as weather, in which DUKW amphibious passenger vessels may safely operate and a requirement that such limiting conditions be described in the certificate of inspection of each DUKW amphibious passenger vessel.
+
+&emsp;"(3) Requirements that an operator of a DUKW amphibious passenger vessel—
+
+&emsp;&emsp;"(A) proceed to the nearest harbor or safe refuge in any case in which a watch or warning is issued for wind speeds exceeding the wind speed equivalent used to certify the stability of such DUKW amphibious passenger vessel; and
+
+&emsp;&emsp;"(B) maintain and monitor a weather monitor radio receiver at the operator station of the vessel that is automatically activated by the warning alarm device of the National Weather Service.
+
+&emsp;"(4) A requirement that—
+
+&emsp;&emsp;"(A) operators of DUKW amphibious passenger vessels inform passengers that seat belts may not be worn during waterborne operations;
+
+&emsp;&emsp;"(B) before the commencement of waterborne operations, a crew member shall visually check that the seatbelt of each passenger is unbuckled; and
+
+&emsp;&emsp;"(C) operators or crew maintain a log recording the actions described in subparagraphs (A) and (B).
+
+&emsp;"(5) A requirement for annual training for operators and crew of DUKW amphibious passenger vessels, including—
+
+&emsp;&emsp;"(A) training for personal flotation and seat belt requirements, verifying the integrity of the vessel at the onset of each waterborne departure, identification of weather hazards, and use of National Weather Service resources prior to operation; and
+
+&emsp;&emsp;"(B) training for crew to respond to emergency situations, including flooding, engine compartment fires, man-overboard situations, and in water emergency egress procedures.
+
+"(c)
+
+Consideration.—In issuing the regulations required under subsection (a), the Commandant shall consider whether personal flotation devices should be required for the duration of the waterborne transit of a DUKW amphibious passenger vessel.
+
+"(d)
+
+Waiver.—The Commandant may waive the reserve buoyancy requirements described in subsection (b)(1) for a DUKW amphibious passenger vessel if the Commandant certifies in writing, using the best available science, to the appropriate congressional committees that such requirement is not practicable or technically or practically achievable for such vessel.
+
+"(e)
+
+Notice to Passengers.—A DUKW amphibious passenger vessel that receives a waiver under subsection (d) shall provide a prominently displayed notice on its website, ticket counter, and each ticket for passengers that the vessel is exempt from meeting Coast Guard safety compliance standards concerning reserve buoyancy.
+
+"(f)
+
+Interim Requirements.—Prior to issuing final regulations pursuant to subsection (a) and not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Commandant shall require that operators of DUKW amphibious passenger vessels implement the following requirements:
+
+&emsp;"(1) Remove the canopies and any window coverings of such vessels for waterborne operations, or install in such vessels a canopy that does not restrict horizontal or vertical escape by passengers in the event of flooding or sinking.
+
+&emsp;"(2) If a canopy and window coverings are removed from any such vessel pursuant to paragraph (1), require that all passengers wear a personal flotation device approved by the Coast Guard before the onset of waterborne operations of such vessel.
+
+&emsp;"(3) Reengineer such vessels to permanently close all unnecessary access plugs and reduce all through-hull penetrations to the minimum number and size necessary for operation.
+
+&emsp;"(4) Install in such vessels independently powered electric bilge pumps that are capable of dewatering such vessels at the volume of the largest remaining penetration in order to supplement an operable Higgins pump or a dewatering pump of equivalent or greater capacity.
+
+&emsp;"(5) Install in such vessels not fewer than 4 independently powered bilge alarms.
+
+&emsp;"(6) Conduct an in-water inspection of any such vessel after each time a through-hull penetration of such vessel has been removed or uncovered.
+
+&emsp;"(7) Verify through an in-water inspection the watertight integrity of any such vessel at the outset of each waterborne departure of such vessel.
+
+&emsp;"(8) Install underwater LED lights that activate automatically in an emergency.
+
+&emsp;"(9) Otherwise comply with any other provisions of relevant Coast Guard guidance or instructions in the inspection, configuration, and operation of such vessels.
+
+"(g)
+
+Implementation.—The Commandant shall implement the interim requirements under subsection (f) without regard to chapters 5 and 6 of title 5, United States Code, and Executive Order Nos. 12866 and 13563 (5 U.S.C. 601 note).
+
+"(h)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means the Committee Transportation and Infrastructure ofthe House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+&emsp;"(2)
+
+DUKW amphibious passenger vessel.—The term 'DUKW amphibious passenger vessel' means a vessel that uses, modifies, or is derived from the GMC DUKW–353 design, and which is operating as a small passenger vessel in waters subject to the jurisdiction of the United States, as defined in section 2.38 of title 33, Code of Federal Regulations (or a successor regulation)."
+
+#### Historic Wood Sailing Vessels
+
+Pub. L. 117–263, div. K, title CXV, §11505, Dec. 23, 2022, 136 Stat. 4134, provided that:
+
+"(a)
+
+Report on Historic Wood Sailing Vessels.—
+
+&emsp;"(1)
+
+In general.—Not later than 1 year after the date of enactment of this Act \[Dec. 23, 2022\], the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report evaluating the practicability of the application of section 3306(n)(3)(A)(v) of title 46, United States Code, to historic wood sailing vessels.
+
+&emsp;"(2)
+
+Elements.—The report required under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) An assessment of the compliance, as of the date on which the report is submitted under paragraph (1), of historic wood sailing vessels with section 3306(n)(3)(A)(v) of title 46, United States Code.
+
+&emsp;&emsp;"(B) An assessment of the safety record of historic wood sailing vessels.
+
+&emsp;&emsp;"(C) An assessment of any risk that modifying the requirements under such section would have on the safety of passengers and crew of historic wood sailing vessels.
+
+&emsp;&emsp;"(D) An evaluation of the economic practicability of requiring the compliance of historic wood sailing vessels with such section and whether such compliance would meaningfully improve safety of passengers and crew in a manner that is both feasible and economically practicable.
+
+&emsp;&emsp;"(E) Any recommendations to improve safety in addition to, or in lieu of, applying such section to historic wood sailing vessels.
+
+&emsp;&emsp;"(F) Any other recommendations as the Comptroller General determines are appropriate with respect to the applicability of such section to historic wood sailing vessels.
+
+&emsp;&emsp;"(G) An assessment to determine if historic wood sailing vessels could be provided an exemption to such section and the changes to legislative or rulemaking requirements, including modifications to section 177.500(q) of title 46, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Dec. 23, 2022\]), that are necessary to provide the Commandant \[of the Coast Guard\] the authority to make such exemption or to otherwise provide for such exemption.
+
+"(b)
+
+Consultation.—In completing the report required under subsection (a), the Comptroller General may consult with—
+
+&emsp;"(1) the National Transportation Safety Board;
+
+&emsp;"(2) the Coast Guard; and
+
+&emsp;"(3) the maritime industry, including relevant federally funded research institutions, nongovernmental organizations, and academia.
+
+"(c)
+
+Waiver for Covered Historic Vessels.—The captain of a port may waive the requirements of section 3306(n)(3)(A)(v) of title 46, United States Code, with respect to covered historic vessels for not more than 2 years after the date on which the report required under subsection (a) is submitted.
+
+"(d)
+
+Waiver for Other Historic Wood Sailing Vessels.—
+
+&emsp;"(1)
+
+In general.—The captain of a port may, upon the request of the owner or operator of a historic wood sailing vessel that is not a covered historic vessel, waive the requirements of section 3306(n)(3)(A)(v) of title 46, United States Code, with respect to the historic wood sailing vessel for not more than 2 years after date on which the report required under subsection (a) is submitted, if the captain of the port—
+
+&emsp;&emsp;"(A) determines that it is technically infeasible for the historic wood sailing vessel to comply with the requirements described in section 3306(n)(3)(A)(v) of title 46, United States Code, due to its age; and
+
+&emsp;&emsp;"(B) approves the alternative arrangements proposed for the historic wood sailing vessel in accordance with paragraph (2).
+
+&emsp;"(2)
+
+Request and alternative arrangements.—An owner or operator of a historic wood sailing vessel requesting a waiver under paragraph (1) shall submit such a request to the captain of a port that includes the alternative arrangements the owner or operator will take to ensure an equivalent level of safety, to the maximum extent practicable, to the requirements under section 3306(n)(3)(A)(v) of title 46, United States Code.
+
+"(e)
+
+Savings Clause.—Nothing in this section shall limit any authority available, as of the date of enactment of this Act \[Dec. 23, 2022\], to the captain of a port with respect to safety measures or any other authority as necessary for the safety of historic wood sailing vessels.
+
+"(f)
+
+Notice to Passengers.—Any vessel that receives a waiver under subsection (c) or subsection (d) shall, beginning on the date on which the requirements under section 3306(n)(3)(v) of title 46, United States Code, take effect, provide a prominently displayed notice on its website, ticket counter, and each ticket for a passenger that the vessel is exempt from meeting the Coast Guard safety compliance standards concerning egress as described under such section.
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered historic vessels.—The term 'covered historic vessels' means each of the following:
+
+&emsp;&emsp;"(A) Adventuress (Official Number 210877).
+
+&emsp;&emsp;"(B) American Eagle (Official Number 229913).
+
+&emsp;&emsp;"(C) Angelique (Official Number 623562).
+
+&emsp;&emsp;"(D) Heritage (Official Number 649561).
+
+&emsp;&emsp;"(E) J \& E Riggin (Official Number 226422).
+
+&emsp;&emsp;"(F) Ladona (Official Number 222228).
+
+&emsp;&emsp;"(G) Lady Washington (Official Number 944970).
+
+&emsp;&emsp;"(H) Lettie G. Howard (Official Number 222838).
+
+&emsp;&emsp;"(I) Lewis R. French (Official Number 015801).
+
+&emsp;&emsp;"(J) Mary Day (Official Number 288714).
+
+&emsp;&emsp;"(K) Stephen Taber (Official Number 115409).
+
+&emsp;&emsp;"(L) Victory Chimes (Official Number 136784).
+
+&emsp;&emsp;"(M) Grace Bailey (Official Number 085754).
+
+&emsp;&emsp;"(N) Mercantile (Official Number 214388).
+
+&emsp;&emsp;"(O) Mistress (Official Number 509004).
+
+&emsp;&emsp;"(P) Wendameen (Official Number 210173).
+
+&emsp;"(2)
+
+Historic wood sailing vessel.—The term 'historic wood sailing vessel' means a covered small passenger vessel, as defined in section 3306(n)(5) of title 46, United States Code, that—
+
+&emsp;&emsp;"(A) has overnight passenger accommodations;
+
+&emsp;&emsp;"(B) is a wood sailing vessel;
+
+&emsp;&emsp;"(C) has a hull constructed of wood;
+
+&emsp;&emsp;"(D) is principally equipped for propulsion by sail, even if the vessel has an auxiliary means of production;
+
+&emsp;&emsp;"(E) has no fewer than three masts; and
+
+&emsp;&emsp;"(F) was constructed before 1986."
+
+#### Alcohol at Sea
+
+Pub. L. 117–263, div. K, title CXVI, §11606, Dec. 23, 2022, 136 Stat. 4149, provided that:
+
+"(a)
+
+In General.—The Commandant \[of the Coast Guard\] shall seek to enter into an agreement with the National Academy of Sciences not later than 1 year after the date of enactment of this Act \[Dec. 23, 2022\] under which the National Academy of Sciences shall prepare an assessment to determine safe levels of alcohol consumption and possession by crew members aboard vessels of the United States engaged in commercial service, except when such possession is associated with the commercial sale to individuals aboard the vessel who are not crew members.
+
+"(b)
+
+Assessment.—The assessment prepared pursuant to subsection (a) shall—
+
+&emsp;"(1) take into account the safety and security of every individual on the vessel;
+
+&emsp;"(2) take into account reported incidences of sexual harassment or sexual assault, as defined in section 2101 of title 46, United States Code; and
+
+&emsp;"(3) provide any appropriate recommendations for any changes to laws, regulations, or employer policies.
+
+"(c)
+
+Submission.—Upon completion of the assessment under this section, the National Academy of Sciences shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Transportation and Infrastructure of the House of Representatives, the Commandant, and the Secretary the assessment prepared pursuant to subsection (a).
+
+"(d)
+
+Regulations.—The Commandant—
+
+&emsp;"(1) shall, not later than 180 days after receiving the submission of the assessment under subsection (c), review the changes to regulations recommended in such assessment; and
+
+&emsp;"(2) taking into account the safety and security of every individual on vessels of the United States engaged in commercial service, may issue regulations relating to alcohol consumption on such vessels.
+
+"(e)
+
+Savings Clause.—To the extent the Commandant issues regulations establishing safe levels of alcohol consumption in accordance with subsection (d), the Commandant may not issue regulations which prohibit—
+
+&emsp;"(1) the owner or operator of a vessel from imposing additional restrictions on the consumption of alcohol, including the prohibition of the consumption of alcohol on such vessels; and
+
+&emsp;"(2) possession of alcohol associated with the commercial sale to individuals aboard the vessel who are not crew members.
+
+"(f)
+
+Report Required.—If, by the date that is 2 years after the receipt of the assessment under subsection (c), the Commandant does not issue regulations under subsection (d), the Commandant shall provide a report by such date to the committees described in subsection (c)—
+
+&emsp;"(1) containing the rationale for not issuing such regulations; and
+
+&emsp;"(2) providing other recommendations as necessary to ensure safety at sea."
+
+\[For definition of "Secretary" as used in section 11606 of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under section 106 of Title 14, Coast Guard.\]
+
 #### Negotiations To Amend International Regulations Related to Vessel Equipment
 
 Pub. L. 115–265, title II, §206(b), Oct. 11, 2018, 132 Stat. 3746, provided that: "Not later than 1 year after the date of the enactment of this Act \[Oct. 11, 2018\], the Commandant \[of the Coast Guard\] shall seek to enter into negotiations through the International Maritime Organization to amend regulation 25 of chapter II–1 of the International Convention for the Safety of Life at Sea to require a high-water alarm sensor in each cargo hold of a freight vessel (as that term is defined in section 2101 of title 46, United States Code), that connects with audible and visual alarms on the navigation bridge of the vessel."
@@ -324,5 +624,5 @@ Pub. L. 104–324, title VI, §604(b), Oct. 19, 1996, 110 Stat. 3931, provided t
 
 #### International Convention for Safety of Life at Sea
 
-For International Conventions for the Safety of Life at Sea to which the United States has been a party, seesection 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
+For International Conventions for the Safety of Life at Sea to which the United States has been a party, see section 1602 of Title 33, Navigation and Navigable Waters, and notes thereunder.
 

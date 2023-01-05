@@ -24,7 +24,7 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 #### Effective Date
 
-Pub. L. 99–659, title III, §310, Nov. 14, 1986, 100 Stat. 3736, provided that: "This title \[enacting this chapterand repealing chapter 10D (§779 et seq.) of this title\] takes effect October 1, 1987."
+Pub. L. 99–659, title III, §310, Nov. 14, 1986, 100 Stat. 3736, provided that: "This title \[enacting this chapter and repealing chapter 10D (§779 et seq.) of this title\] takes effect October 1, 1987."
 
 #### Short Title
 

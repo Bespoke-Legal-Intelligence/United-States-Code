@@ -16,7 +16,7 @@ For purposes of this subchapter, the following terms apply:
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original "this title", meaning title XII of Pub. L. 110–53,Aug. 3, 2007, 121 Stat. 381, which enacted this subchapter, amended section 114 of Title 49, Transportation, and enacted provisions set out as a note under section 114 of Title 49. For complete classification of title XII to the Code, see Tables.
+This subchapter, referred to in text, was in the original "this title", meaning title XII of Pub. L. 110–53, Aug. 3, 2007, 121 Stat. 381, which enacted this subchapter, amended section 114 of Title 49, Transportation, and enacted provisions set out as a note under section 114 of Title 49. For complete classification of title XII to the Code, see Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -24,7 +24,7 @@
 
 #### (b) Administrative review of proposed denial, suspension, modification, or revocation
 
-Any applicant, licensee, or permittee, as the case may be, who makes a timely request undersubsection (a) for review of a denial of issuance or transfer, or a suspension or revocation, of a license for exploration or permit for commercial recovery, or a suspension or modification of particular activities under such a license or permit, is entitled to an adjudication on the record after an opportunity for an agency hearing with respect to such denial or suspension, revocation, or modification.
+Any applicant, licensee, or permittee, as the case may be, who makes a timely request under subsection (a) for review of a denial of issuance or transfer, or a suspension or revocation, of a license for exploration or permit for commercial recovery, or a suspension or modification of particular activities under such a license or permit, is entitled to an adjudication on the record after an opportunity for an agency hearing with respect to such denial or suspension, revocation, or modification.
 
 #### (c) Effect on activities; emergency orders
 

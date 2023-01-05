@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to assist in the preservation and interpretation of, and education concerning, the Creole culture and diverse history of the Natchitoches region, and to provide technical assistance to a broad range of public and privatelandowners and preservation organizations, there is hereby established the Cane River Creole National Historical Park in the State of Louisiana (hereinafter in this subchapter referred to as the "historical park").
+In order to assist in the preservation and interpretation of, and education concerning, the Creole culture and diverse history of the Natchitoches region, and to provide technical assistance to a broad range of public and private landowners and preservation organizations, there is hereby established the Cane River Creole National Historical Park in the State of Louisiana (hereinafter in this subchapter referred to as the "historical park").
 
 #### (b) Area included
 
@@ -16,7 +16,15 @@ The historical park shall consist of lands and interests therein as follows:
 
 &emsp;(4) Not to exceed 10 acres of land that the Secretary may designate for an interpretive visitor center complex to serve the needs of the historical park and heritage area established in part B of this subchapter.
 
-(Pub. L. 103–449, title III, §303, Nov. 2, 1994, 108 Stat. 4758.)
+&emsp;(5) The approximately 46.1 acres of land identified as "Proposed Addition", as generally depicted on the map entitled "Cane River Creole National Historical Park Proposed Addition—Magnolia Plantation Unit", numbered 494/176,958, and dated October 2021.
+
+(Pub. L. 103–449, title III, §303, Nov. 2, 1994, 108 Stat. 4758; Pub. L. 117–328, div. DD, title VI, §614, Dec. 29, 2022, 136 Stat. 5604.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(5). Pub. L. 117–328 added par. (5).
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Badin-Roque".</i>
 

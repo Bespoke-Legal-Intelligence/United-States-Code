@@ -26,7 +26,7 @@ The Technical Working Group shall be responsible for the following:
 
 &emsp;&emsp;(C) the applied and basic research activities that will lead to improved brown tree snake control, interdiction and eradication efforts conducted by Federal, State, territorial, and local governments; and
 
-&emsp;&emsp;(D) the programs and activities for brown tree snake control, interdiction, researchand eradication that have been funded, implemented, and planned by Federal, State, territorial, and local governments.
+&emsp;&emsp;(D) the programs and activities for brown tree snake control, interdiction, research and eradication that have been funded, implemented, and planned by Federal, State, territorial, and local governments.
 
 #### (2) Priorities
 

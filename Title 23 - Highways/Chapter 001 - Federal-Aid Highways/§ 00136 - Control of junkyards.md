@@ -2,7 +2,7 @@
 
 (a) The Congress hereby finds and declares that the establishment and use and maintenance of junkyards in areas adjacent to the Interstate System and the primary system should be controlled in order to protect the public investment in such highways, to promote the safety and recreational value of public travel, and to preserve natural beauty.
 
-(b) Federal-aid highway funds apportioned on or after January 1, 1968, to any State which the Secretary determines has not made provision for effective control of the establishment and maintenance along the Interstate System and the primary system of outdoor junkyards, which are within one thousand feet of the nearest edge of the right-of-way and visible from the main traveled way of the system, shall be reduced byamounts equal to 7 percent of the amounts which would otherwise be apportioned to such State under paragraphs (1) through (6) of section 104(b), until such time as such State shall provide for such effective control. Any amount which is withheld from apportionment to any State hereunder shall be reapportioned to the other States. Whenever he determines it to be in the public interest, the Secretary may suspend, for such periods as he deems necessary, the application of this subsection to a State.
+(b) Federal-aid highway funds apportioned on or after January 1, 1968, to any State which the Secretary determines has not made provision for effective control of the establishment and maintenance along the Interstate System and the primary system of outdoor junkyards, which are within one thousand feet of the nearest edge of the right-of-way and visible from the main traveled way of the system, shall be reduced by amounts equal to 7 percent of the amounts which would otherwise be apportioned to such State under paragraphs (1) through (6) of section 104(b), until such time as such State shall provide for such effective control. Any amount which is withheld from apportionment to any State hereunder shall be reapportioned to the other States. Whenever he determines it to be in the public interest, the Secretary may suspend, for such periods as he deems necessary, the application of this subsection to a State.
 
 (c) Effective control means that by January 1, 1968, such junkyards shall be screened by natural objects, plantings, fences, or other appropriate means so as not to be visible from the main traveled way of the system, or shall be removed from sight.
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 90–495 effective August 23, 1968, see section 37 of Pub. 
 
 #### Acquisition of Dwellings
 
-Prohibition against the use of eminent domain to acquire any dwelling (including related buildings) under the terms of Pub. L. 89–285, see section 305 of Pub. L. 89–285, set out as a note under section 131 of this title.
+Prohibition against the use of eminent domain to acquire any dwelling (including related buildings) underthe terms of Pub. L. 89–285, see section 305 of Pub. L. 89–285, set out as a note under section 131 of this title.
 
 #### Taking of Private Property Without Just Compensation
 

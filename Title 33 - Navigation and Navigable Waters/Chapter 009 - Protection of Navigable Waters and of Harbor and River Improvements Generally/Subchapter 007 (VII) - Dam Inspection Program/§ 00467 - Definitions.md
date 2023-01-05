@@ -100,7 +100,7 @@ In this subchapter, the following definitions apply:
 
 #### (12) Rehabilitation
 
-&emsp;The term "rehabilitation" means the repair, replacement, reconstruction, or removal of adam that is carried out to meet applicable State dam safety and security standards.
+&emsp;The term "rehabilitation" means the repair, replacement, reconstruction, or removal of a dam that is carried out to meet applicable State dam safety and security standards.
 
 #### (13) State
 
@@ -186,7 +186,7 @@ Pub. L. 92–367, §1, as added by Pub. L. 104–303, title II, §215(c)(1), Oct
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the FederalEmergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Administrator of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

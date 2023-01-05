@@ -8,7 +8,7 @@
 
 #### (2) Transfer of liability
 
-&emsp;When tobacco products and cigarette papers and tubes are transferred, without payment of tax, pursuant to section 5704, the liability for tax shall be transferred in accordance with the provisions of this paragraph. When tobacco products and cigarette papers and tubes are transferred between the bonded premises of manufacturers and export warehouse proprietors, the transferee shall become liable for the tax upon receipt by him of such articles, and the transferor shall thereupon be relieved of his liability for such tax. When tobaccoproducts and cigarette papers and tubes are released in bond from customs custody for transfer to the bonded premises of a manufacturer of tobacco products or cigarette papers and tubes, the transferee shall become liable for the tax on such articles upon release from customs custody, and the importer shall thereupon be relieved of his liability for such tax. All provisions of this chapter applicable to tobacco products and cigarette papers and tubes in bond shall be applicable to such articles returned to bond upon withdrawal from the market or returned to bond after previous removal for a tax-exempt purpose.
+&emsp;When tobacco products and cigarette papers and tubes are transferred, without payment of tax, pursuant to section 5704, the liability for tax shall be transferred in accordance with the provisions of this paragraph. When tobacco products and cigarette papers and tubes are transferred between the bonded premises of manufacturers and export warehouse proprietors, the transferee shall become liable for the tax upon receipt by him of such articles, and the transferor shall thereupon be relieved of his liability for such tax. When tobacco products and cigarette papers and tubes are released in bond from customs custody for transfer to the bonded premises of a manufacturer of tobacco products or cigarette papers and tubes, the transferee shall become liable for the tax on such articles upon release from customs custody, and the importer shall thereupon be relieved of his liability for such tax. All provisions of this chapter applicable to tobacco products and cigarette papers and tubes in bond shall be applicable to such articles returned to bond upon withdrawal from the market or returned to bond after previous removal for a tax-exempt purpose.
 
 #### (b) Method of payment of tax
 
@@ -66,7 +66,7 @@
 
 #### (F) Special rule for unlawfully manufactured tobacco products
 
-&emsp;&emsp;In the case of any tobacco products, cigarette paper, or cigarette tubes manufactured in the United States at any place other than the premises of a manufacturer of tobacco products, cigarette paper, or cigarette tubesthat has filed the bond and obtained the permit required under this chapter, tax shall be due and payable immediately upon manufacture.
+&emsp;&emsp;In the case of any tobacco products, cigarette paper, or cigarette tubes manufactured in the United States at any place other than the premises of a manufacturer of tobacco products, cigarette paper, or cigarette tubes that has filed the bond and obtained the permit required under this chapter, tax shall be due and payable immediately upon manufacture.
 
 #### (3) Payment by electronic fund transfer
 
@@ -90,7 +90,7 @@ Whenever any tax required to be paid by this chapter is not paid in full at the 
 
 <b>1994</b>—Subsec. (b)(2)(D). Pub. L. 103–465, §712(c)(1), added subpar. (D). Former subpar. (D) redesignated (E).
 
-Subsec. (b)(2)(E). Pub. L. 103–465, §712(c), redesignated subpar. (D) as (E), substituted "due date" for "14th day" in heading, and inserted "(or the immediately following day where the due date described in subparagraph (D) falls on a Sunday)" before period at end.
+Subsec. (b)(2)(E). Pub. L. 103–465, §712(c), redesignated subpar. (D) as (E), substituted "due date" for "14thday" in heading, and inserted "(or the immediately following day where the due date described in subparagraph (D) falls on a Sunday)" before period at end.
 
 <b>1988</b>—Subsec. (b)(2)(B)(i), (ii), (C). Pub. L. 100–647 substituted "the 14th day after the last day of the semimonthly period during which" for "the 14th day after the date on which".
 

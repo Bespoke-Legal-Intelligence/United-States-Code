@@ -64,7 +64,7 @@ In this section:
 
 &emsp;Subject to paragraph (2), the issuance of a sundry notice or right-of-way for a gathering line and associated field compression or pumping unit that is located on Federal land or Indian land and that services any oil or gas well may be considered by the Secretary to be an action that is categorically excluded (as defined in section 1508.1 of title 40, Code of Federal Regulations (as in effect on November 15, 2021)) for purposes of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) if the gathering line and associated field compression or pumping unit—
 
-&emsp;&emsp;(A) are within a field or unit for which an approved land use plan or an environmental document prepared pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) analyzed transportation of oil, natural gas, or produced water from 1 or more oil or gas wells in the field or unit as a reasonably foreseeable activity;
+&emsp;&emsp;(A) are within a field or unit for which an approved land use plan or an environmental document prepared pursuant to the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) analyzed transportation of oil,natural gas, or produced water from 1 or more oil or gas wells in the field or unit as a reasonably foreseeable activity;
 
 &emsp;&emsp;(B) are located adjacent to or within—
 

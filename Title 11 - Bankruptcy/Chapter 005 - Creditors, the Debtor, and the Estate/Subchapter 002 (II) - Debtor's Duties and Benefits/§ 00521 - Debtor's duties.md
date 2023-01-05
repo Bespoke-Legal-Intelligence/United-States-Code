@@ -226,7 +226,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 Pub. L. 109–8, title III, §315(c), Apr. 20, 2005, 119 Stat. 91, provided that:
 
-"(1) Not later than 180 days after the date of the enactment of this Act \[Apr. 20, 2005\], the Director of the Administrative Office of the United States Courts shall establish procedures for safeguarding the confidentiality of any tax information required to be provided under this section.
+"(1) Not later than 180 days after the date of the enactment of this Act \[Apr. 20, 2005\], the Director of theAdministrative Office of the United States Courts shall establish procedures for safeguarding the confidentiality of any tax information required to be provided under this section.
 
 "(2) The procedures under paragraph (1) shall include restrictions on creditor access to tax information that is required to be provided under this section.
 

@@ -12,7 +12,7 @@ As used in this subchapter—
 
 (3) The term "replacement" as used in this subchapter means those expenditures for obtaining and installing equipment, accessories, or appurtenances during the useful life of the treatment works necessary to maintain the capacity and performance for which such works are designed and constructed.
 
-(June 30, 1948, ch. 758, title II, §212, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 844; amended Pub. L. 95–217, §37, Dec. 27, 1977, 91 Stat. 1581; Pub. L. 97–117, §8(d), Dec. 29, 1981, 95 Stat. 1626; Pub. L. 113–121, title V, §5012(a), June 10, 2014, 128 Stat. 1328.)
+(June 30, 1948, ch. 758, title II, §212, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 844; amended Pub. L. 95–217, §37, Dec. 27, 1977, 91 Stat. 1581; Pub. L. 97–117, §8(d), Dec. 29, 1981, 95Stat. 1626; Pub. L. 113–121, title V, §5012(a), June 10, 2014, 128 Stat. 1328.)
 
 #### <b>Editorial Notes</b>
 

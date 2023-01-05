@@ -78,7 +78,7 @@ Exemption for Nonprofit Libraries, Archives, and Educational Institutions.—(1)
 
 &emsp;(B) shall, for repeated or subsequent offenses, in addition to the civil remedies under section 1203, forfeit the exemption provided under paragraph (1).
 
-(4) This subsection may not be used as a defense to a claim under subsection (a)(2) or (b), nor may this subsection permit a nonprofit library, archives, or educational institution to manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, component, or part thereof, which circumvents a technological measure.
+(4) This subsection may not be used as a defense to a claim under subsection (a)(2) or (b), nor may this subsection permit a nonprofit library, archives, or educational institution tomanufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, component, or part thereof, which circumvents a technological measure.
 
 (5) In order for a library or archives to qualify for the exemption under this subsection, the collections of that library or archives shall be—
 
@@ -114,7 +114,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;(2)
 
-Permissible acts of encryption research.—Notwithstanding the provisions ofsubsection (a)(1)(A), it is not a violation of that subsection for a person to circumvent a technological measure as applied to a copy, phonorecord, performance, or display of a published work in the course of an act of good faith encryption research if—
+Permissible acts of encryption research.—Notwithstanding the provisions of subsection (a)(1)(A), it is not a violation of that subsection for a person to circumvent a technological measure as applied to a copy, phonorecord, performance, or display of a published work in the course of an act of good faith encryption research if—
 
 &emsp;&emsp;(A) the person lawfully obtained the encrypted copy, phonorecord, performance, or display of the published work;
 
@@ -140,7 +140,7 @@ Use of technological means for research activities.—Notwithstanding the provis
 
 &emsp;&emsp;(A) develop and employ technological means to circumvent a technological measure for the sole purpose of that person performing the acts of good faith encryption research described in paragraph (2); and
 
-&emsp;&emsp;(B) provide the technological means to another person with whom he or she is working collaboratively for the purpose of conducting the acts of good faith encryption research described in paragraph (2) or for the purpose of having that other person verify his or her acts of good faith encryption research described in paragraph (2).
+&emsp;&emsp;(B) provide the technological means to another person with whom he or she is workingcollaboratively for the purpose of conducting the acts of good faith encryption research described in paragraph (2) or for the purpose of having that other person verify his or her acts of good faith encryption research described in paragraph (2).
 
 &emsp;(5)
 
@@ -240,7 +240,7 @@ Certain encoding restrictions.—No person shall apply the automatic gain contro
 
 &emsp;&emsp;(A) of a single transmission, or specified group of transmissions, of live events or of audiovisual works for which a member of the public has exercised choice in selecting the transmissions, including the content of the transmissions or the time of receipt of such transmissions, or both, and as to which such member is charged a separate fee for each such transmission or specified group of transmissions;
 
-&emsp;&emsp;(B) from a copy of a transmission of a live event or an audiovisual work if such transmission is provided by a channel or service where payment is made by a member of thepublic for such channel or service in the form of a subscription fee that entitles the member of the public to receive all of the programming contained in such channel or service;
+&emsp;&emsp;(B) from a copy of a transmission of a live event or an audiovisual work if such transmission is provided by a channel or service where payment is made by a member of the public for such channel or service in the form of a subscription fee that entitles the member of the public to receive all of the programming contained in such channel or service;
 
 &emsp;&emsp;(C) from a physical medium containing one or more prerecorded audiovisual works; or
 
@@ -312,7 +312,7 @@ Repeal and Replace.—As of the date of the enactment of this Act \[Aug. 1, 2014
 
 "(b)
 
-Rulemaking.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall determine, consistent with the requirements set forth under section 1201(a)(1) of title 17, United States Code, whether to extend the exemption for the class of works described in section 201.40(b)(3) of title 37, Code of Federal Regulations, as amended by subsection (a), to include any other category of wireless devices in addition to wireless telephone handsets. The determination shall bemade in the first rulemaking under section 1201(a)(1)(C) of title 17, United States Code, that begins on or after the date of enactment of this Act.
+Rulemaking.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall determine, consistent with the requirements set forth under section 1201(a)(1) of title 17, United States Code, whether to extend the exemption for the class of works described in section 201.40(b)(3) of title 37, Code of Federal Regulations, as amended by subsection (a), to include any other category of wireless devices in addition to wireless telephone handsets. The determination shall be made in the first rulemaking under section 1201(a)(1)(C) of title 17, United States Code, that begins on or after the date of enactment of this Act.
 
 "(c)
 

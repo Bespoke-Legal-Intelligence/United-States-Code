@@ -38,7 +38,7 @@ Notwithstanding any other provision of law, the Secretary is authorized to accep
 
 Notwithstanding the provisions of subsection (a) of this section, the United States hereby conveys to the city of New York all rights to the methane gas and associated byproducts resulting from solid waste decomposition on the area within the Jamaica Bay Unit known as the Fountain Avenue Landfill site, subject to payments to the United States of 50 per centum of the revenue received by the city of New York, if any, from the development of such rights. The Secretary shall grant to the City, its lessee or assignee, all rights-of-way and other permits necessary from the Department of the Interior to extract and transport the gas from the site: <i>Provided</i>, That the rights-of-way and other permits shall provide for reasonable restoration of the site, including removal of any processing or storage facilities used in the disposal, development, or extraction of the gas, access by the Secretary to the site for safety and other recreation area purposes, and such other reasonable conditions as the Secretary deems necessary to further purposes of the recreation area. All such payments to the United States shall be credited to the appropriations of the National Park Service for the development and improvement of Gateway National Recreation Area.
 
-#### (j) Authority to grant easements and rights-of-way
+#### (j) <sup>2</sup> Authority to grant easements and rights-of-way
 
 #### (1) In general
 
@@ -48,17 +48,29 @@ Notwithstanding the provisions of subsection (a) of this section, the United Sta
 
 &emsp;The Secretary may grant such an easement or right-of-way without charge for the value of the right so conveyed, except for reimbursement of costs incurred by the United States for processing the application therefore and managing such right. Amounts received as such reimbursement shall be credited to the relevant appropriation account.
 
-(Pub. L. 92–592, §3, Oct. 27, 1972, 86 Stat. 1309; Pub. L. 96–344, §11(1), Sept. 8, 1980, 94 Stat. 1136; Pub. L. 97–232, §1, Aug. 9, 1982, 96 Stat. 259; Pub. L. 106–132, §1, Dec. 7, 1999, 113 Stat. 1681; Pub. L. 116–9, title II, §2405, Mar. 12, 2019, 133 Stat. 748.)
+#### (j) <sup>2</sup> Authority to grant easements and rights-of-way permit
+
+#### (1) In general
+
+&emsp;The Secretary of the Interior may grant, to any State or local government, an easement or right-of-way permit over Federal lands within Golden Gate National Recreation Area for operation and maintenance of projects for control and prevention of flooding and shoreline erosion and associated structures for continued public access.
+
+#### (2) Charges and reimbursements of costs
+
+&emsp;The Secretary may grant such an easement or right-of-way permit without charge for the value of the use so conveyed, except for reimbursement of costs incurred by the United States for processing the application therefore and managing such use. Amounts received as such reimbursement shall be credited to the relevant appropriation account.
+
+(Pub. L. 92–592, §3, Oct. 27, 1972, 86 Stat. 1309; Pub. L. 96–344, §11(1), Sept. 8, 1980, 94 Stat. 1136; Pub. L. 97–232, §1, Aug. 9, 1982, 96 Stat. 259; Pub. L. 106–132, §1, Dec. 7, 1999, 113 Stat. 1681; Pub. L. 116–9, title II, §2405, Mar. 12, 2019, 133 Stat. 748; Pub. L. 117–328, div. G, title IV, §444, Dec. 29, 2022, 136 Stat. 4833.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes andCriminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Amendments
 
-<b>2019</b>—Subsec. (j). Pub. L. 116–9 added subsec. (j).
+<b>2022</b>—Subsec. (j). Pub. L. 117–328 added at end subsec. (j) relating to authority to grant easements and rights-of-way permits.
+
+<b>2019</b>—Subsec. (j). Pub. L. 116–9 added subsec. (j) relating to authority to grant easements and rights-of-way.
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–132 designated existing provisions as par. (1) and added par. (2).
 
@@ -67,4 +79,6 @@ The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in su
 <b>1980</b>—Subsec. (b). Pub. L. 96–344 struck out "constructed" after "visitor center" and inserted provision authorizing the Secretary to inform the public of the contributions of Representative Ryan to the creation of the recreation area by means of signs, markers, etc., and to take such additional action, not later than Dec. 31, 1980, as deemed appropriate to recognize and commemorate the contributions of Representative Ryan to the recreation area.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. There are two subsecs. (j).</i>
 

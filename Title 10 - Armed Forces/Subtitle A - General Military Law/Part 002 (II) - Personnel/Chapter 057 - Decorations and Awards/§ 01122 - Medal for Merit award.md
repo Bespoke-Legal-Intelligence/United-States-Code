@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 July 20, 1942, ch. 508, §2 (less (1)), 56 Stat. 663.
 
-The words "in existence on July 20, 1942" are inserted for clarity and refer to the war in existence on the date of enactment of the source statute. The words "as then constituted" are inserted for clarity, since the United Nations organization in existence on July 20, 1942, was not the present United Nations organization. The words "There is created", "rules and", and "the proclamation of an emergency by the President on" are omitted as surplusage.
+The words "in existence on July 20, 1942" are inserted for clarity and refer to the war in existence on the date of enactment of the source statute. The words "as then constituted" are inserted for clarity, since the United Nations organization in existence on July 20, 1942, wasnot the present United Nations organization. The words "There is created", "rules and", and "the proclamation of an emergency by the President on" are omitted as surplusage.
 
 #### <b>Executive Documents</b>
 

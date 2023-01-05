@@ -92,7 +92,7 @@
 
 #### (B) Other considerations
 
-&emsp;&emsp;In deciding whether to use its discretion under subparagraph (A), the Board shall also consider whether the foreign bank has adopted and implements procedures to combat money laundering. The Board may also take into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
+&emsp;&emsp;In deciding whether to use its discretion under subparagraph (A), the Board shall also consider whether the foreign bank has adopted and implements procedures to combat money laundering. The Board may alsotake into account whether the home country of the foreign bank is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering.
 
 #### (C) Additional conditions
 
@@ -148,7 +148,7 @@
 
 #### (5) Recommendation to agency for termination of a Federal branch or agency
 
-&emsp;The Board may transmit to the Comptroller of the Currency a recommendation that the license of any Federal branch or Federal agency of a foreign bank be terminated in accordance with section 3102(i) of this title if the Board has reasonable cause to believe that such foreign bank or any affiliate of such foreign bank has engaged in conduct for which the activities of any State branch or agency may be terminated under paragraph (1).
+&emsp;The Board may transmit to the Comptroller of the Currency a recommendation that the license of any Federal branch or Federal agency of a foreign bank be terminated in accordance with section 3102(i) of this title if the Board has reasonable cause to believe that such foreign bank or any affiliate of such foreign bankhas engaged in conduct for which the activities of any State branch or agency may be terminated under paragraph (1).
 
 #### (6) Enforcement of orders
 
@@ -240,7 +240,7 @@ The Board shall request and consider any views of the appropriate State bank sup
 
 #### (j) Study on equivalence of foreign bank capital
 
-Not later than 180 days after December 19, 1991, the Board and the Secretary of the Treasury shall jointly submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives a report—
+Not later than 180 days after December 19, 1991, the Board and the Secretary of the Treasury shall jointly submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance andUrban Affairs of the House of Representatives a report—
 
 &emsp;(1) analyzing the capital standards contained in the framework for measurement of capital adequacy established by the Supervisory Committee of the Bank for International Settlements, foreign regulatory capital standards that apply to foreign banks conducting banking operations in the United States, and the relationship of the Basle and foreign standards to risk-based capital and leverage requirements for United States banks; and
 

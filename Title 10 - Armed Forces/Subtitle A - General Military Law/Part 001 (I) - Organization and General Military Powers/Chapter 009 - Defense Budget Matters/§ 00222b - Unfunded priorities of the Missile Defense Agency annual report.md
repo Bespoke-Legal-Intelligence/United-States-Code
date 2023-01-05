@@ -38,7 +38,7 @@ Unfunded Priority Defined.—In this section, the term "unfunded priority", in t
 
 &emsp;(3) would have been recommended for funding through the budget referred to in paragraph (1) by the Director of the Missile Defense Agency in connection with the budget if additional resources had been available for the budget to fund the program, activity, or mission requirement.
 
-(Added and amended Pub. L. 115–232, div. A, title XVI, §1677(a), (b)(1), Aug. 13, 2018, 132 Stat. 2160,2161; Pub. L. 116–92, div. A, title XVII, §1731(a)(13), Dec. 20, 2019, 133 Stat. 1813.)
+(Added and amended Pub. L. 115–232, div. A, title XVI, §1677(a), (b)(1), Aug. 13, 2018, 132 Stat. 2160, 2161; Pub. L. 116–92, div. A, title XVII, §1731(a)(13), Dec. 20, 2019, 133 Stat. 1813.)
 
 #### <b>Editorial Notes</b>
 

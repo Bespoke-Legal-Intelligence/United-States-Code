@@ -16,7 +16,7 @@ A map and legal description filed under subsection (a) shall have the same force
 
 #### (c) Public availability
 
-Each map and legal description filed under subsection (a) shall be filed and made availablefor public inspection in the Office of the Chief of the Forest Service.
+Each map and legal description filed under subsection (a) shall be filed and made available for public inspection in the Office of the Chief of the Forest Service.
 
 (Pub. L. 109–382, title II, §222, Dec. 1, 2006, 120 Stat. 2676.)
 

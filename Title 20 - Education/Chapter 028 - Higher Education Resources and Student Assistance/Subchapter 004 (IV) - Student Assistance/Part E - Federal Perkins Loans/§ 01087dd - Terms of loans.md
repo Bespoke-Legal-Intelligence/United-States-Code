@@ -32,7 +32,7 @@
 
 (1) Any agreement between an institution and a student for a loan from a student loan fund assisted under this part—
 
-&emsp;(A) shall be evidenced by note or other written instrument which, except as provided in paragraph (2), provides for repayment of the principal amount of the loan, together with interest thereon, in equal installments (or, if the borrower so requests, in graduated periodic installments determined in accordance with such schedules as may be approved by the Secretary) payable quarterly, bimonthly, or monthly, at the option of the institution, over a period beginning nine months after the date on which the student ceases to carry, at an institution of higher education or a comparable institution outside the United States approved for this purpose by the Secretary, at least one-half the normal full-time academic workload, and ending 10 years and 9 months after such date except that such period may begin earlier than 9 months after such date upon the request of the borrower;
+&emsp;(A) shall be evidenced by note or other written instrument which, except as provided in paragraph (2), provides for repayment of the principal amount of the loan, together with interest thereon, in equal installments (or, if the borrower so requests, in graduated periodic installments determined in accordance with such schedules as may be approved by theSecretary) payable quarterly, bimonthly, or monthly, at the option of the institution, over a period beginning nine months after the date on which the student ceases to carry, at an institution of higher education or a comparable institution outside the United States approved for this purpose by the Secretary, at least one-half the normal full-time academic workload, and ending 10 years and 9 months after such date except that such period may begin earlier than 9 months after such date upon the request of the borrower;
 
 &emsp;(B) shall include provision for acceleration of repayment of the whole, or any part, of such loan, at the option of the borrower;
 
@@ -146,7 +146,7 @@ An agreement under this part for payment of Federal capital contributions shall 
 
 #### (1) In general
 
-&emsp;If a student borrower who received a loan made under this part on or after January 1, 1986, is unable to complete the program in which such student is enrolled due to the closure of the institution, then the Secretary shall discharge the borrower's liability on the loan (including the interest and collection fees) and shall subsequently pursue any claim available to such borrower against the institution and the institution's affiliates and principals, or settle the loan obligation pursuant to the financial responsibility standards described in section 1099c(c) of this title.
+&emsp;If a student borrower who received a loan made under this part on or after January 1, 1986, is unable to complete the program in which such student is enrolled due to the closure of the institution, then the Secretaryshall discharge the borrower's liability on the loan (including the interest and collection fees) and shall subsequently pursue any claim available to such borrower against the institution and the institution's affiliates and principals, or settle the loan obligation pursuant to the financial responsibility standards described in section 1099c(c) of this title.
 
 #### (2) Assignment
 
@@ -208,7 +208,7 @@ An agreement under this part for payment of Federal capital contributions shall 
 
 #### (1) Authority
 
-&emsp;Using funds received by transfer to the Secretary under section 2174 of title 10 or section 3078 of title 33 for the payment of interest on a loan made under this part to a member of the Armed Forces or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
+&emsp;Using funds received by transfer to the Secretary under section 2174 of title 10 or section 3078 of title 33 for the payment of interest on a loan made under this part to a member of the Armed Forces or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any fundsother than funds that have been so transferred.
 
 #### (2) Forbearance
 
@@ -328,7 +328,7 @@ Subsecs. (e), (f). Pub. L. 102–325, §464(h), added subsecs. (e) and (f).
 
 <b>1989</b>—Subsec. (c)(2)(A)(i). Pub. L. 101–239 inserted before semicolon at end ", except that no borrower shall be eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program".
 
-<b>1988</b>—Subsec. (c)(2)(A)(v). Pub. L. 100–369 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification wastranslated as "title 26" thus requiring no change in text.
+<b>1988</b>—Subsec. (c)(2)(A)(v). Pub. L. 100–369 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1987</b>—Subsec. (c)(2)(A)(vi). Pub. L. 100–50 inserted "or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training" before semicolon at end.
 
@@ -370,7 +370,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–325, title IV, §468, July 23, 1992, 106 Stat. 585, as amended by Pub. L. 102–394, title III, §307(a), Oct. 6, 1992, 106 Stat. 1820, provided that: "The changes made in part E of title IV of the Act \[20 U.S.C. 1087aa et seq.\] by the amendments made by this part \[part E (§§461–468) of title IV of Pub. L. 102–325, enacting section 1087ii of this title and amending sections 1087aa to 1087gg of this title\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except that—
+Pub. L. 102–325, title IV, §468, July 23, 1992, 106 Stat. 585, as amended by Pub. L. 102–394, title III, §307(a), Oct.6, 1992, 106 Stat. 1820, provided that: "The changes made in part E of title IV of the Act \[20 U.S.C. 1087aa et seq.\] by the amendments made by this part \[part E (§§461–468) of title IV of Pub. L. 102–325, enacting section 1087ii of this title and amending sections 1087aa to 1087gg of this title\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except that—
 
 &emsp;"(1) the changes in section 463(a)(2)(B) \[20 U.S.C. 1087cc(a)(2)(B)\], relating to the matching of Federal capital contributions, shall apply to funds provided for such program for the award years beginning on or after July 1, 1993;
 

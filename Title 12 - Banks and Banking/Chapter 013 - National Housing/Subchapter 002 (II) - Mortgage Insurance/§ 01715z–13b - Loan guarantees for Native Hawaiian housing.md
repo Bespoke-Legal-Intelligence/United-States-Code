@@ -10,7 +10,7 @@ In this section:
 
 #### (2) Eligible entity
 
-&emsp;The term "eligible entity" means a Native Hawaiian family, the Department of HawaiianHome Lands, the Office of Hawaiian Affairs, and private nonprofit or private for-profit organizations experienced in the planning and development of affordable housing for Native Hawaiians.
+&emsp;The term "eligible entity" means a Native Hawaiian family, the Department of Hawaiian Home Lands, the Office of Hawaiian Affairs, and private nonprofit or private for-profit organizations experienced in the planning and development of affordable housing for Native Hawaiians.
 
 #### (3) Family
 
@@ -232,7 +232,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (3) Payment on loans made in good faith
 
-&emsp;Notwithstanding paragraphs (1) and (2), if a loan was made in good faith, the Secretary may not refuse to pay a lender or holder of a valid guarantee on that loan, without regard to whether the lender or holder is barred under this subsection.
+&emsp;Notwithstanding paragraphs (1) and (2), if a loan was made in good faith, the Secretary may not refuse to pay a lender or holder of avalid guarantee on that loan, without regard to whether the lender or holder is barred under this subsection.
 
 #### (i) Payment under guarantee
 
@@ -382,7 +382,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (l) Applicability of civil rights statutes
 
-To the extent that the requirements of title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) or of the Fair Housing Act \[42 U.S.C. 3601 et seq.\] apply to a guarantee provided under this subsection, nothing in the requirements concerning discrimination on the basis of race shallbe construed to prevent the provision of the guarantee to an eligible entity on the basis that the entity serves Native Hawaiian families or is a Native Hawaiian family.
+To the extent that the requirements of title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.) or of the Fair Housing Act \[42 U.S.C. 3601 et seq.\] apply to a guarantee provided under this subsection, nothing in the requirements concerning discrimination on the basis of race shall be construed to prevent the provision of the guarantee to an eligible entity on the basis that the entity serves Native Hawaiian families or is a Native Hawaiian family.
 
 (Pub. L. 102–550, title I, §184A, as added Pub. L. 106–568, title II, §204, Dec. 27, 2000, 114 Stat. 2895, and Pub. L. 106–569, title V, §514, Dec. 27, 2000, 114 Stat. 2989.)
 
@@ -390,15 +390,15 @@ To the extent that the requirements of title VI of the Civil Rights Act of 1964 
 
 #### References in Text
 
-The Hawaiian Homes Commission Act, 1920, referred to in subsec. (a)(1), (5), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code. Section 204 of the Act was classified to section 698 of Title 48.
+The Hawaiian Homes Commission Act, 1920, referred to in subsec. (a)(1), (5), is act July 9, 1921, ch. 42, 42 Stat. 108, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code. Section 204 of the Act was classified to section 698 of Title 48.
 
-The National Housing Act, referred to in subsecs. (c)(4)(B)(i) and (h)(2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§1701 et seq.). Title II of the Act is classified generally to this subchapter (§1707 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
+The National Housing Act, referred to in subsecs. (c)(4)(B)(i) and (h)(2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). Title II of the Act is classified generally to this subchapter (§1707 et seq.). For complete classification of this Act to the Code, see section 1701 of this title and Tables.
 
-The Housing Act of 1949, referred to in subsec. (c)(4)(B)(iii), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
+The Housing Act of 1949, referred to in subsec. (c)(4)(B)(iii), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (l), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (l), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Fair Housing Act, referred to in subsec. (l), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (l), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Codification
 

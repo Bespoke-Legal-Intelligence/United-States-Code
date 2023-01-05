@@ -76,6 +76,156 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] ofPub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of Title 44, Public Printing and Documents.
 
+#### Operational Testing for Commercial Cybersecurity Capabilities
+
+Pub. L. 117–263, div. A, title XV, §1514, Dec. 23, 2022, 136 Stat. 2895, provided that:
+
+"(a)
+
+Development and Submission of Plans.—Not later than February 1, 2024, the Chief Information Officer of the Department of Defense and the Chief Information Officers of the military departments shall develop and submit plans described in subsection (b) to the Director of Operational Test and Evaluation who may approve the implementation of the plans pursuant to subsection (c).
+
+"(b)
+
+Plans Described.—The plans described in this subsection are plans that—
+
+&emsp;"(1) ensure covered cybersecurity capabilities are appropriately tested, evaluated, and proven operationally effective, suitable, and survivable prior to operation on a Department of Defense network; and
+
+&emsp;"(2) specify how test results will be expeditiously provided to the Director of Operational Test and Evaluation.
+
+"(c)
+
+Assessment.—In reviewing the plans submitted under subsection (a), the Director of Operational Test and Evaluation shall conduct an assessment that includes consideration of the following:
+
+&emsp;"(1) Threat-realistic operational testing, including representative environments, variation of operational conditions, and inclusion of a realistic opposing force.
+
+&emsp;"(2) The use of Department of Defense cyber red teams, as well as any enabling contract language required to permit threat-representative red team assessments.
+
+&emsp;"(3) Collaboration with the personnel using the commercial cybersecurity capability regarding the results of the testing to improve operators' ability to recognize and defend against cyberattacks.
+
+&emsp;"(4) The extent to which additional resources may be needed to remediate any shortfalls in capability to make the commercial cybersecurity capability effective, suitable, and cyber survivable in an operational environment of the Department.
+
+&emsp;"(5) Identification of training requirements, and changes to training, sustainment practices, or concepts of operation or employment that may be needed to ensure the effectiveness, suitability, and cyber survivability of the commercial cybersecurity capability.
+
+"(d)
+
+Policies and Regulations.—Not later than February 1, 2024, the Secretary of Defense shall issue such policies and guidance and prescribe such regulations as the Secretary determines necessary to carry out this section.
+
+"(e)
+
+Reports.—Not later than January 31, 2025, and not less frequently than annually thereafter until January 31, 2030, the Director shall include in each annual report required by section 139(h) of title 10, United States Code, the following:
+
+&emsp;"(1) The status of the plans developed under subsection (a).
+
+&emsp;"(2) The number and type of test and evaluation events completed in the past year for such plans, disaggregated by component of the Department, and including resources devoted to each event.
+
+&emsp;"(3) The results from such test and evaluation events, including any resource shortfalls affecting the number of commercial cybersecurity capabilities that could be assessed.
+
+&emsp;"(4) A summary of identified categories of common gaps and shortfalls found during testing.
+
+&emsp;"(5) The extent to which entities responsible for developing and testing commercial cybersecurity capabilities have responded to recommendations made by the Director in an effort to gain favorable determinations.
+
+&emsp;"(6) Any identified lessons learned that would impact training, sustainment, or concepts of operation or employment decisions relating to the assessed commercial cybersecurity capabilities.
+
+"(f)
+
+Definition.—In this section, the term 'covered cybersecurity capabilities' means any of the following:
+
+&emsp;"(1) Commercial products (as defined in section 103 of title 41, United States Code) acquired and deployed by the Department of Defense to satisfy the cybersecurity requirements of one or more Department components.
+
+&emsp;"(2) Commercially available off-the-shelf items (as defined in section 104 of title 41, United States Code) acquired and deployed by the Department of Defense to satisfy the cybersecurity requirements of one or more Department components.
+
+&emsp;"(3) Noncommercial items acquired through the Adaptive Acquisition Framework and deployed by the Department of Defense to satisfy the cybersecurity requirements of one or more Department components."
+
+#### Plan for Commercial Cloud Test and Evaluation
+
+Pub. L. 117–263, div. A, title XV, §1553, Dec. 23, 2022, 136 Stat. 2920, provided that:
+
+"(a)
+
+Policy and Plan.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense, in consultation with commercial industry, shall implement a policy and plan for test and evaluation of the cybersecurity of the clouds of commercial cloud service providers that provide, or are intended to provide, storage or computing of classified data of the Department of Defense.
+
+"(b)
+
+Contents.—The policy and plan under subsection (a) shall include the following:
+
+&emsp;"(1) A requirement that, beginning on the date of the enactment of this Act, future contracts with cloud service providers for storage or computing of classified data of the Department include provisions that permit the Secretary to conduct independent, threat-realistic assessments of the commercial cloud infrastructure, including with respect to—
+
+&emsp;&emsp;"(A) the storage, compute, and enabling elements, including the control plane and virtualization hypervisor for mission elements of the Department supported by the cloud provider; and
+
+&emsp;&emsp;"(B) the supporting systems used in the fulfillment, facilitation, or operations relating to the mission of the Department under the contract, including the interfaces with these systems.
+
+&emsp;"(2) An explanation as to how the Secretary intends to proceed on amending existing contracts with cloud service providers to permit the same level of assessments required for future contracts under paragraph (1).
+
+&emsp;"(3) Identification and description of any proposed tiered test and evaluation requirements aligned with different impact and classification levels.
+
+"(c)
+
+Waiver Authority.—The Secretary may include in the policy and plan under subsection (a) an authority to waive any requirement under subsection (b) if the waiver is jointly approved by the Chief Information Officer of the Department of Defense and the Director of Operational Test and Evaluation.
+
+"(d)
+
+Submission.—Not later than 180 days after the date of enactment of this Act, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the policy and plan under subsection (a).
+
+"(e)
+
+Threat-realistic Assessment Defined.—In this section, the term 'threat-realistic assessments' means, with respect to commercial cloud infrastructure, activities that—
+
+&emsp;"(1) are designed to accurately emulate cyber threats from advanced nation state adversaries, such as Russia and China; and
+
+&emsp;"(2) include cooperative penetration testing and no-notice threat-emulation activities where personnel of the Department of Defense attempt to penetrate and gain control of the cloud-provider facilities, networks, systems, and defenses associated with, orwhich enable, the supported missions of the Department."
+
+#### Assessments of Weapons Systems Vulnerabilities to Radio-Frequency Enabled Cyber Attacks
+
+Pub. L. 117–263, div. A, title XV, §1559, Dec. 23, 2022, 136 Stat. 2926, provided that:
+
+"(a)
+
+Assessments.—The Secretary of Defense shall ensure that the activities required by and conducted pursuant to section 1647 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 1118) \[10 U.S.C. 2224 note\], section 1637 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 221 note), and the amendments made by section 1712 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 4087 \[amending section 1647 of Pub. L. 114–92 and section 1640 of Pub. L. 115–91, set out as notes under this section\]) include regular assessments of the vulnerabilities to and mission risks presented by radio-frequency enabled cyber attacks with respect to the operational technology embedded in weapons systems, aircraft, ships, ground vehicles, space systems, sensors, and datalink networks of the Department of Defense.
+
+"(b)
+
+Elements.—The assessments under subsection (a) with respect to vulnerabilities and risks described in such subsection shall include—
+
+&emsp;"(1) identification of such vulnerabilities and risks;
+
+&emsp;"(2) ranking of vulnerability, severity, and priority;
+
+&emsp;"(3) development and selection of options, with associated costs and schedule, to correct such vulnerabilities, including installation of intrusion detection capabilities;
+
+&emsp;"(4) an evaluation of the cybersecurity sufficiency for Military Standard 1553; and
+
+&emsp;"(5) development of integrated risk-based plans to implement the corrective actions selected.
+
+"(c)
+
+Development of Corrective Actions.—In developing corrective actions under subsection (b)(3), the assessments under subsection (a) shall—
+
+&emsp;"(1) consider the missions supported by the assessed weapons systems, aircraft, ships, ground vehicles, space systems, sensors, or datalink networks, as the case may be, to ensure that the corrective actions focus on the vulnerabilities that create the greatest risks to the missions;
+
+&emsp;"(2) be shared and coordinated with the principal staff assistant with primary responsibility for the strategic cybersecurity program; and
+
+&emsp;"(3) address requirements for deployed and nondeployed members of the Armed Forces to analyze data collected on the weapons systems and respond to attacks.
+
+"(d)
+
+Intelligence Informed Assessments.—The assessments under subsection (a) shall be informed by intelligence, if available, and technical judgment regarding potential threats to embedded operational technology during operations of the Armed Forces.
+
+"(e)
+
+Coordination.—
+
+&emsp;"(1)
+
+Coordination and integration of activities.—The assessments under subsection (a) shall be fully coordinated and integrated with activities described in such subsection.
+
+&emsp;"(2)
+
+Coordination of organizations.—The Secretary shall ensure that the organizations conducting the assessments under subsection (a) in the military departments, the United States Special Operations Command, and the Defense Agencies coordinate with each other and share best practices, vulnerability analyses, and technical solutions with the principal staff assistant with primary responsibility for the Strategic Cybersecurity Program.
+
+"(f)
+
+Briefings.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] briefings from the organizations specified under subsection (e)(2), as appropriate, on the activities and plans required under this section."
+
 #### Coordination Between United States Cyber Command and Private Sector
 
 Pub. L. 117–81, div. A, title XV, §1508, Dec. 27, 2021, 135 Stat. 2032, provided that:
@@ -250,11 +400,11 @@ In general.—Not later than 270 days after the date of the enactment of this Ac
 
 &emsp;"(2)
 
-Briefing.—Not later than 300 days after the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the roles and responsibilities established under paragraph (1)."
+Briefing.—Not later than 300 days after the date of the enactment of this Act, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the roles and responsibilities established under pa(ragraph (1)."
 
 #### Zero Trust Strategy, Principles, Model Architecture, and Implementation Plans
 
-Pub. L. 117–81, div. A, title XV, §1528, Dec. 27, 2021, 135 Stat. 2044, provided that:
+Pub. L. 117–81, div. A, title XV, §1528, Dec. 27, 2021, 135 Stat. 2044, as amended by Pub. L. 117–263, div. A, title XV, §1501(c)(2), Dec. 23, 2022, 136 Stat. 2879, provided that:
 
 "(a)
 
@@ -402,7 +552,7 @@ In general.—The Chief Information Officer of the Department of Defense shall�
 
 &emsp;"(2)
 
-Assessments of funding.—Not later than March 31, 2024, and annually thereafter, each Principal Cyber Advisor of a military service shall include in the annual budget certification of such military service, as required by section 1657(d) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 391 note), an assessment of the adequacy of funding requested for each proposed budget for the purposes of carrying out the implementation plan for such military service under subsection (d)(1).
+Assessments of funding.—Not later than March 31, 2024, and annually thereafter, each Principal Cyber Advisor of a military service shall include in the annual budget certification of such military service, as required by section 392a(c)(4) of title 10, United States Code, an assessment of the adequacy of funding requested for each proposed budget for the purposes of carrying out the implementation plan for such military service under subsection (d)(1).
 
 "(f)
 
@@ -540,7 +690,7 @@ Responsibilities.—As the coordinating authority for cybersecurity issues relat
 
 &emsp;"(3) The Under Secretary of Defense for Intelligence and Security's policies and programs germane to physical security, information security, industrial security, acquisition security and cybersecurity, all source intelligence, classified threat intelligence sharing related to defense industrial base cybersecurity activities, counterintelligence, and foreign ownership control or influence, including the Defense Intelligence Agency and National Security Agency support provided to the Department of Defense – Defense Industrial Base Collaborative Information Sharing Environment and cyber intrusion damage assessment analysis as part of defense industrial base cybersecurity activities.
 
-&emsp;"(4) The Department of Defense Chief Information Officer's policies and programs for cybersecurity standards and integrating cybersecurity threat intelligence-sharing activities and enhancing Department of Defense and defense industrial base cyber situational awareness.
+&emsp;"(4) The Department of Defense Chief Information Officer's policies and programs for cybersecuritystandards and integrating cybersecurity threat intelligence-sharing activities and enhancing Department of Defense and defense industrial base cyber situational awareness.
 
 &emsp;"(5) The Under Secretary of Defense for Research and Engineering's policies and programs germane to protection planning requirements of emerging technologies as such relate to cybersecurity assessment and assistance, and industrial base health and security.
 
@@ -630,7 +780,7 @@ Requirements.—
 
 Development of metrics.—(A) Not later than July 1, 2021, the Chief Information Officer and the Commander shall jointly develop metrics described in subsection (a) to carry out the pilot program under such subsection.
 
-&emsp;"(B) The Chief Information Officer and the Commander shall ensure that the metrics developed under subparagraph (A) are commensurate with the representative timelines of nation-state and non-nation-state actors when gaining access to, and compromising, Department networks.
+&emsp;"(B) The Chief Information Officer and the Commander shall ensure that the metrics developed undersubparagraph (A) are commensurate with the representative timelines of nation-state and non-nation-state actors when gaining access to, and compromising, Department networks.
 
 &emsp;"(2)
 
@@ -686,7 +836,7 @@ Requirements.—In carrying out subsection (a), the Secretary shall—
 
 &emsp;"(1) consider using the Big Data Platform instances that host cybersecurity metadata for storage and analysis of all user activity monitoring data collected across the Department of Defense Information Network at all security classification levels;
 
-&emsp;"(2) develop policies and procedures governing access to user activity monitoring data or data derivedfrom user activity monitoring by cybersecurity operators; and
+&emsp;"(2) develop policies and procedures governing access to user activity monitoring data or data derived from user activity monitoring by cybersecurity operators; and
 
 &emsp;"(3) develop processes and capabilities for using metadata on host and network activity for user activity monitoring in support of the insider threat mission.
 
@@ -850,7 +1000,7 @@ Elements.—The assessment required under section \[sic\] (a) shall include eval
 
 &emsp;"(1) Existing defense industrial base cybersecurity threat hunting policies and programs, including the threat hunting elements at each level of the compliance-based Cybersecurity Maturity Model Certification program of the Department of Defense, including requirements germane to continuous monitoring, discovery, and investigation of anomalous activity indicative of a cybersecurity incident.
 
-&emsp;"(2) The suitability of a continuous cybersecurity threat hunting program, as a supplement to the cyber hygiene requirements of the Cybersecurity Maturity Model Certification, including consideration of the following:
+&emsp;"(2) The suitability of a continuous cybersecurity threat hunting program, as a supplement to the cyberhygiene requirements of the Cybersecurity Maturity Model Certification, including consideration of the following:
 
 &emsp;&emsp;"(A) Collection and analysis of metadata on network activity to detect possible intrusions.
 
@@ -908,7 +1058,7 @@ Consultation.—In conducting the assessment required under subsection (a), the 
 
 "(d)
 
-Determination and Briefing.—Upon completion of the assessment required under subsection (a), the Secretary of Defense shall make a determination regarding the establishment of a defense industrial basecybersecurity threat hunting program and provide a briefing to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives on—
+Determination and Briefing.—Upon completion of the assessment required under subsection (a), the Secretary of Defense shall make a determination regarding the establishment of a defense industrial base cybersecurity threat hunting program and provide a briefing to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives on—
 
 &emsp;"(1) the findings of the Secretary with respect to such assessment and such determination; and
 
@@ -1416,7 +1566,7 @@ Pub. L. 115–232, div. A, title XVI, §1655, Aug. 13, 2018, 132 Stat. 2149, pro
 
 Disclosure Required.—Subject to the regulations issued under subsection (b), the Department of Defense may not use a product, service, or system procured or acquired after the date of the enactment of this Act \[Aug. 13, 2018\] relating to information or operational technology, cybersecurity, an industrial control system, or weapons system provided by a person unless that person discloses to the Secretary of Defense the following:
 
-&emsp;"(1) Whether, and if so, when, within five years before or at any time after the date of the enactment of this Act, the person has allowed a foreign government to review the code of a non-commercial product, system, or service developed for the Department,or whether the person is under any obligation to allow a foreign person or government to review the code of a non-commercial product, system, or service developed for the Department as a condition of entering into an agreement for sale or other transaction with a foreign government or with a foreign person on behalf of such a government.
+&emsp;"(1) Whether, and if so, when, within five years before or at any time after the date of the enactment of this Act, the person has allowed a foreign government to review the code of a non-commercial product, system, or service developed for the Department, or whether the person is under any obligation to allow a foreign person or government to review the code of a non-commercial product, system, or service developed for the Department as a condition of entering into an agreement for sale or other transaction with a foreign government or with a foreign person on behalf of such a government.
 
 &emsp;"(2) Whether, and if so, when, within five years before or at any time after the date of the enactment of this Act, the person has allowed a foreign government listed in section 1654 \[of Pub. L. 115–232, 10 U.S.C. 394 note\] to review the source code of a product, system, or service that the Department is using or intends to use, or is under any obligation to allow a foreign person or government to review the source code of a product, system, or service that the Department is using or intends to use as a condition of entering into an agreement for sale or other transaction with a foreign government or with a foreign person on behalf of such a government.
 
@@ -1458,7 +1608,7 @@ Exemption of Open Source Software.—This section shall not apply to open source
 
 Establishment of Registry.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall—
 
-&emsp;"(1) establish within the operational capabilities of the Committee for National Security Systems (CNSS) or within such other agency as the Secretary considers appropriate a registry containing the information disclosed under subsection (a); and
+&emsp;"(1) establish within the operational capabilities of the Committee for National Security Systems\(CNSS) or within such other agency as the Secretary considers appropriate a registry containing the information disclosed under subsection (a); and
 
 &emsp;"(2) upon request, make such information available to any agency conducting a procurement pursuant to the Federal Acquisition Regulations or the Defense Federal Acquisition Regulations.
 
@@ -1564,7 +1714,7 @@ Elements.—The plan required under subparagraph (A) shall include, at a minimum
 
 &emsp;&emsp;&emsp;"(ii) A description of any updates or changes to such strategy that have been made since it was first issued, as well as any expected updates or changes resulting from the designation of the designated senior official.
 
-&emsp;&emsp;&emsp;"(iii) A description of the role of the Department of Defense as part of a broader whole-of-Government strategy for strategic communications, including a description of any assumptions about the roles and contributions of other departments and agencies of the Federal Government with respect to such a strategy.
+&emsp;&emsp;&emsp;"(iii) A description of the role of the Department of Defense as part of a broader whole-of-Government strategy for strategic communications, including a description of any assumptionsabout the roles and contributions of other departments and agencies of the Federal Government with respect to such a strategy.
 
 &emsp;&emsp;&emsp;"(iv) Defined actions, performance metrics, and projected timelines for achieving each of the 15 tasks specified in the strategy described in subparagraph (A)(i).
 
@@ -1608,7 +1758,7 @@ Pub. L. 115–91, div. A, title XVI, §1639, Dec. 12, 2017, 131 Stat. 1744, prov
 
 "(a)
 
-In General.—Not later than January 1, 2018, the Secretary of Defense shall make such changes to the cybersecurity scorecard as are necessary to ensure that the Secretary measures the progress of each element ofthe Department of Defense in securing the industrial control systems of the Department against cyber threats, including such industrial control systems as supervisory control and data acquisition systems, distributed control systems, programmable logic controllers, and platform information technology.
+In General.—Not later than January 1, 2018, the Secretary of Defense shall make such changes to the cybersecurity scorecard as are necessary to ensure that the Secretary measures the progress of each element of the Department of Defense in securing the industrial control systems of the Department against cyber threats, including such industrial control systems as supervisory control and data acquisition systems, distributed control systems, programmable logic controllers, and platform information technology.
 
 "(b)
 
@@ -1616,7 +1766,7 @@ Cybersecurity Scorecard Defined.—In this section, the term 'cybersecurity scor
 
 #### Strategic Cybersecurity Program
 
-Pub. L. 115–91, div. A, title XVI, §1640, Dec. 12, 2017, 131 Stat. 1745, as amended by Pub. L. 116–283, div. A, title XVII, §1712(b), Jan. 1, 2021, 134 Stat. 4087; Pub. L. 117–81, div. A, title XV, §1525, Dec. 27, 2021, 135 Stat. 2043, provided that:
+Pub. L. 115–91, div. A, title XVI, §1640, Dec. 12, 2017, 131 Stat. 1745, as amended by Pub. L. 116–283, div. A, title XVII, §1712(b), Jan. 1, 2021, 134 Stat. 4087; Pub. L. 117–81, div. A, title XV, §1525, Dec. 27, 2021, 135 Stat. 2043; Pub. L. 117–263, div. A, title XV, §1503, Dec. 23, 2022, 136 Stat. 2880, provided that:
 
 "(a)
 
@@ -1656,7 +1806,7 @@ Designation of mission elements of the program.—The Under Secretary of Defense
 
 &emsp;"(2)
 
-Office of the under secretary of defense for acquisition and sustainment.—The Office of the Under Secretary of Defense for Acquisition and Sustainment shall serve as the office of primary responsibility for the Program, providing policy, direction, and oversight regarding the execution of the National Security Agency program manager's responsibilities described in paragraph (5).
+Office of primary responsibility.—Not later than 30 days after the date of the enactment of the \[James M. Inhofe\] National Defense Authorization Act for Fiscal Year 2023 \[Dec. 23, 2022\], the Secretary of Defense shall designate a principal staff assistantfrom within the Office of the Secretary of Defense whose office shall serve as the office of primary responsibility for the Program, providing policy, direction, and oversight regarding the execution of the responsibilities of the program manager described in paragraph (5).
 
 &emsp;"(3)
 
@@ -1702,7 +1852,7 @@ Integration With Other Efforts.—The Under Secretary of Defense for Acquisition
 
 "(e)
 
-Briefing.—Not later than December 1, 2021, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the establishment of theProgram, and the plans, funding, and staffing of the Program.
+Briefing.—Not later than December 1, 2021, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the establishment of the Program, and the plans, funding, and staffing of the Program.
 
 "(f)
 
@@ -1884,7 +2034,7 @@ In general.—Not later than 30 days after the date on which the Secretary submi
 
 &emsp;"(2)
 
-Locations.—The Secretary shall carry out the pilot program under paragraph (1) at not fewer than two military installations selected by the Secretary from among military installations that support the most critical mission-essential functions of the Department of Defense as identified in the plan under subsection (a).
+Locations.—The Secretary shall carry out the pilot program under paragraph (1) at not fewer than two military installations selected by the Secretary from among military installations that support themost critical mission-essential functions of the Department of Defense as identified in the plan under subsection (a).
 
 &emsp;"(3)
 
@@ -2016,7 +2166,7 @@ Effective date.—Paragraph (1) shall apply—
 
 #### Acquisition Authority of the Commander of United States Cyber Command
 
-Pub. L. 114–92, div. A, title VIII, §807, Nov. 25, 2015, 129 Stat. 886, as amended by Pub. L. 115–232, div. A, title XVI, §1635, Aug. 13, 2018, 132 Stat. 2125; Pub. L. 116–92, div. A, title VIII, §821, Dec. 20, 2019, 133 Stat. 1490; Pub. L. 116–283, div. A, title XVII, §1711, Jan. 1, 2021, 134 Stat. 4086, provided that:
+Pub. L. 114–92, div. A, title VIII, §807, Nov. 25, 2015, 129 Stat. 886, as amended by Pub. L. 115–232, div. A, titleXVI, §1635, Aug. 13, 2018, 132 Stat. 2125; Pub. L. 116–92, div. A, title VIII, §821, Dec. 20, 2019, 133 Stat. 1490; Pub. L. 116–283, div. A, title XVII, §1711, Jan. 1, 2021, 134 Stat. 4086, provided that:
 
 "(a)
 
@@ -2094,7 +2244,7 @@ Budget.—In addition to the activities of a combatant command for which funding
 
 "(e)
 
-Rule of Construction Regarding Intelligence and Special Activities.—Nothing in this section shall be construed to constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a noticeto the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.).
+Rule of Construction Regarding Intelligence and Special Activities.—Nothing in this section shall be construed to constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.).
 
 "(f)
 
@@ -2192,7 +2342,7 @@ Report.—The Secretary, acting through the Under Secretary of Defense for Acqui
 
 &emsp;"(3) A description of joint and common cyber vulnerability mitigation solutions and efforts, including solutions and efforts across the doctrine, organization, training, materiel, leadership and education, personnel, and facilities of the Department.
 
-&emsp;"(4) A description of lessons learned and best practices regarding evaluations of the cybervulnerabilities and cyber vulnerability mitigation efforts relating to major weapon systems, including an identification of useful tools and technologies for discovering and mitigating vulnerabilities, such as those specified in section 1657 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) \[132 Stat. 2151\], and steps taken to institutionalize the use of these tools and technologies.
+&emsp;"(4) A description of lessons learned and best practices regarding evaluations of the cyber vulnerabilities and cyber vulnerability mitigation efforts relating to major weapon systems, including an identification of useful tools and technologies for discovering and mitigating vulnerabilities, such as those specified in section 1657 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) \[132 Stat. 2151\], and steps taken to institutionalize the use of these tools and technologies.
 
 &emsp;"(5) A description of efforts to share lessons learned and best practices regarding evaluations of the cyber vulnerabilities and cyber vulnerability mitigation efforts of major weapon systems across the Department.
 
@@ -2242,7 +2392,7 @@ Agent of a Foreign Power.—In this section, the term 'agent of a foreign power'
 
 #### Authorities, Capabilities, and Oversight of the United States Cyber Command
 
-Pub. L. 113–66, div. A, title IX, §932, Dec. 26, 2013, 127 Stat. 829, as amended by Pub. L. 116–283, div. A, title XVII, §1713(a), Jan. 1, 2021, 134 Stat. 4089; Pub. L. 117–81, div. A, title XV, §1503(a), Dec. 27, 2021, 135 Stat. 2021, provided that:
+Pub. L. 113–66, div. A, title IX, §932, Dec. 26, 2013, 127 Stat. 829, as amended by Pub. L. 116–283, div. A, title XVII, §1713(a), Jan. 1, 2021, 134 Stat. 4089; Pub. L. 117–81, div. A, title XV, §1503(a), Dec. 27, 2021, 135 Stat. 2021; Pub. L. 117–263, div. A, title X, §1081(d), title XV, §1501(a), (b)(2)(A), (B), Dec. 23, 2022, 136 Stat. 2797, 2877, 2878, provided that:
 
 "(a)
 
@@ -2264,43 +2414,13 @@ Elements.—Each range adapted under paragraph (1) shall have the capability to 
 
 &emsp;&emsp;"(B) must be compromised or neutralized immediately without regard to whether the adversary can detect or attribute the attack.
 
-"(c)
-
-Principal Cyber Advisor.—
-
-&emsp;"(1)
-
-Designation.—(A) The Secretary shall designate, from among the personnel of the Office of the Under Secretary of Defense for Policy, a Principal Cyber Advisor to act as the principal advisor to the Secretary on military cyber forces and activities.
-
-&emsp;"(B) The Secretary may only designate an official under this paragraph if such official was appointed to the position in which such official serves by and with the advice and consent of the Senate.
-
-&emsp;"(2)
-
-Responsibilities.—The Principal Cyber Advisor shall be responsible for the following:
-
-&emsp;&emsp;"(A) Acting as the principal advisor to the Secretary on military cyber forces and activities.
-
-&emsp;&emsp;"(B) Overall integration of Cyber Operations Forces activities relating to cyberspace operations, including associated policy and operational considerations, resources, personnel, technology development and transition, and acquisition.
-
-&emsp;&emsp;"(C) Assessing and overseeing the implementation of the cyber strategy of the Department and execution of the cyber posture review of the Department on behalf of the Secretary.
-
-&emsp;&emsp;"(D) Coordinating activities pursuant to subparagraphs (A) and (B) of subsection (c)(3) with the Principal Information Operations Advisor, the Chief Information Officer of the Department, and other officials as determined by the Secretary of Defense, to ensure the integration of activities in support of cyber, information, and electromagnetic spectrum operations.
-
-&emsp;&emsp;"(E) Such other matters relating to the offensive military cyber forces of the Department as the Secretary shall specify for the purposes of this subsection.
-
-&emsp;"(3)
-
-Cross-functional team.—Consistent with section 911 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 10 U.S.C. 111 note), the Principal Cyber Advisor shall—
-
-&emsp;&emsp;"(A) integrate the cyber expertise and perspectives of appropriate organizations within the Office of the Secretary of Defense, Joint Staff, military departments, the Defense Agencies and Field Activities, and combatant commands, by establishing and maintaining a full-time cross-functional team of subject matter experts from those organizations; and
-
-&emsp;&emsp;"(B) select team members, and designate a team leader, from among those personnel nominated by the heads of such organizations.
+"\[(c) Transferred to section 392a(a) of this title.\]
 
 "(d)
 
 Training of Cyber Personnel.—The Secretary shall establish and maintain training capabilities and facilities in the Armed Forces and, as the Secretary considers appropriate, at the United States Cyber Command, to support the needs of the Armed Forces and the United States Cyber Command for personnel who are assigned offensive and defensive cyber missions in the Department of Defense."
 
-Pub. L. 114–328, div. A, title XVI, §1643(b), Dec. 23, 2016, 130 Stat. 2602, provided that: "The Principal Cyber Advisor, acting through the cross-functional team established by section 932(c)(3) of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 10 U.S.C. 2224 note) \[set out above\] and in consultation with the Commander of the United States Cyber Command, shall supervise—
+Pub. L. 114–328, div. A, title XVI, §1643(b), Dec. 23, 2016, 130 Stat. 2602, as amended by Pub. L. 117–263, div. A, title XV, §1501(c)(3), Dec. 23, 2022, 136 Stat. 2879, provided that: "The Principal Cyber Advisor to the Secretary of Defense, acting through the cross-functional team under section 392a(a)(3) of title 10, United States Code, and in consultation with the Commander of the United States Cyber Command, shall supervise—
 
 &emsp;"(1) the development of training standards for computer network operations tool developers for military, civilian, and contractor personnel supporting the cyber mission forces;
 
@@ -2500,7 +2620,7 @@ Pub. L. 112–81, div. A, title IX, §953, Dec. 31, 2011, 125 Stat. 1550, provid
 
 "(a)
 
-In General.—The Secretary of Defense shall develop and implement a plan to augment the cybersecurity strategy of the Department of Defensethrough the acquisition of advanced capabilities to discover and isolate penetrations and attacks that were previously unknown and for which signatures have not been developed for incorporation into computer intrusion detection and prevention systems and anti-virus software systems.
+In General.—The Secretary of Defense shall develop and implement a plan to augment the cybersecurity strategy of the Department of Defense through the acquisition of advanced capabilities to discover and isolate penetrations and attacks that were previously unknown and for which signatures have not been developed for incorporation into computer intrusion detection and prevention systems and anti-virus software systems.
 
 "(b)
 

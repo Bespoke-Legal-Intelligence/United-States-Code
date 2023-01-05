@@ -164,7 +164,7 @@ Compounded basis.—The adjustment made each fiscal year after fiscal year 2020 
 
 #### (B) Reduction of workload-based increase by amount of certain excess collections
 
-&emsp;&emsp;For each of fiscal years 2021 through 2023, if application of the workload adjustment under subparagraph (A) increases the fee revenue amounts otherwise established for the fiscal year under subsection (b), as adjusted for inflation under paragraph (2), such fee revenue increase shall be reduced by the amount of any excess collections, as described in subsection (g)(4), for the second preceding fiscal year, up to the amount of such fee revenue increase.
+&emsp;&emsp;For each of fiscal years 2021 through 2023, if application of the workload adjustmentunder subparagraph (A) increases the fee revenue amounts otherwise established for the fiscal year under subsection (b), as adjusted for inflation under paragraph (2), such fee revenue increase shall be reduced by the amount of any excess collections, as described in subsection (g)(4), for the second preceding fiscal year, up to the amount of such fee revenue increase.
 
 #### (C) Rule of application
 
@@ -184,7 +184,7 @@ Compounded basis.—The adjustment made each fiscal year after fiscal year 2020 
 
 &emsp;The Secretary shall grant a waiver from or a reduction of one or more fees assessed under subsection (a) where the Secretary finds that—
 
-&emsp;&emsp;(A) the assessment of the fee would present a significant barrier to innovation becauseof limited resources available to such person or other circumstances;
+&emsp;&emsp;(A) the assessment of the fee would present a significant barrier to innovation because of limited resources available to such person or other circumstances;
 
 &emsp;&emsp;(B) the fees to be paid by such person will exceed the anticipated present and future costs incurred by the Secretary in conducting the process for the review of animal drug applications for such person;
 
@@ -232,7 +232,7 @@ Compounded basis.—The adjustment made each fiscal year after fiscal year 2020 
 
 #### (e) Effect of failure to pay fees
 
-An animal drug application or supplemental animal drug application submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational animal drug submission under section 379j–11(5)(B) of this title that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any animal drug application, supplemental animal drug application or investigational animal drug submission from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
+An animal drug application or supplemental animal drug application submitted by a personsubject to fees under subsection (a) shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid. An investigational animal drug submission under section 379j–11(5)(B) of this title that is submitted by a person subject to fees under subsection (a) shall be considered incomplete and shall not be accepted for review by the Secretary until all fees owed by such person have been paid. The Secretary may discontinue review of any animal drug application, supplemental animal drug application or investigational animal drug submission from a person if such person has not submitted for payment all fees owed under this section by 30 days after the date upon which they are due.
 
 #### (f) Assessment of fees
 
@@ -288,7 +288,7 @@ An animal drug application or supplemental animal drug application submitted by 
 
 &emsp;&emsp;Subject to subparagraph (B)—
 
-&emsp;&emsp;&emsp;(i) for fiscal year 2021, the amount of fees otherwise authorized to be collected under this section shall be increased by the amount, if any, by which the amount collected under this section and appropriated for fiscal year 2019 falls below the amount of fees authorized for fiscal year 2019 under paragraph (3);
+&emsp;&emsp;&emsp;(i) for fiscal year 2021, the amount of fees otherwise authorized to be collected under this section shall be increased by the amount, if any, by which the amount collected under this section and appropriated for fiscal year 2019 falls below the amountof fees authorized for fiscal year 2019 under paragraph (3);
 
 &emsp;&emsp;&emsp;(ii) for fiscal year 2022, the amount of fees otherwise authorized to be collected under this section shall be increased by the amount, if any, by which the amount collected under this section and appropriated for fiscal year 2020 falls below the amount of fees authorized for fiscal year 2020 under paragraph (3); and
 

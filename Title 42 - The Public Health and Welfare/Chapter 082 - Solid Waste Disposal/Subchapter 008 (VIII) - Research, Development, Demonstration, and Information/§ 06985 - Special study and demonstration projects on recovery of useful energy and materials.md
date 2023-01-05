@@ -20,7 +20,7 @@ The Administrator shall conduct studies and develop recommendations for administ
 
 &emsp;(8) the legal constraints and institutional barriers to the acquisition of land needed for solid waste management, including land for facilities and disposal sites;
 
-&emsp;(9) in consultation with the Secretary of Agriculture, agricultural waste management problems and practices, the extent of reuse and recovery of resources in such wastes, the prospects for improvement, Federal, State, and local regulations governing such practices, and the economic, social, and environmental consequences of such practices; and
+&emsp;(9) in consultation with the Secretary of Agriculture, agricultural waste management problems and practices, the extent of reuse and recovery of resources in such wastes, the prospects for improvement, Federal, State,and local regulations governing such practices, and the economic, social, and environmental consequences of such practices; and
 
 &emsp;(10) in consultation with the Secretary of the Interior, mining waste management problems, and practices, including an assessment of existing authorities, technologies, and economics, and the environmental and public health consequences of such practices.
 

@@ -3,21 +3,15 @@
 | Sec. |  |
 | :--- | ---: |
 | [2301\.](%C2%A7%2002301%20-%20Flags.md) | Flags. |
-| [2302\.](%C2%A7%2002302%20-%20Funeral%20expenses.md) | Funeral expenses. |
-| [2303\.](%C2%A7%2002303%20-%20Death%20in%20Department%20facility%3B%20plot%20allowance.md) | Death in Department facility; plot allowance. |
+| \[2302. | Repealed.\] |
+| [2303\.](%C2%A7%2002303%20-%20Death%20from%20non-service-connected%20disability%3B%20plot%20allowance.md) | Death from non-service-connected disability; plot allowance. |
 | [2304\.](%C2%A7%2002304%20-%20Claims%20for%20reimbursement.md) | Claims for reimbursement. |
 | [2305\.](%C2%A7%2002305%20-%20Persons%20eligible%20under%20prior%20law.md) | Persons eligible under prior law. |
 | [2306\.](%C2%A7%2002306%20-%20Headstones%2C%20markers%2C%20and%20burial%20receptacles.md) | Headstones, markers, and burial receptacles. |
 | [2307\.](%C2%A7%2002307%20-%20Death%20from%20service-connected%20disability.md) | Death from service-connected disability. |
-| [2308\.](%C2%A7%2002308%20-%20Transportation%20of%20deceased%20veteran%20to%20a%20national%20cemetery.md) | Transportation of deceased veteran to a national cemetery. |
+| [2308\.](%C2%A7%2002308%20-%20Transportation%20of%20deceased%20veteran%20to%20a%20national%20cemetery%20or%20a%20covered%20veterans%27%20cemetery.md) | Transportation of deceased veteran to a national cemetery or a covered veterans' cemetery. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 116–315, title II, §2202(c), (d), Jan. 5, 2021, 134 Stat. 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, this analysis is amended by striking items 2302 and 2303 and inserting new item 2303 "Death from non-service-</i><i>connected disability; plot allowance". See 2021 Amendment note below.</i>
-
-<i>Pub. L. 116–315, title II, §2201(d), (e), Jan. 5, 2021, 134 Stat. 4983, provided that, effective on the date that is two years after Jan. 5, 2021, this analysis is amended by striking item 2308 and inserting new item 2308 "Transportation of deceased veteran to a national cemetery or a covered veterans' cemetery". See 2021 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -43,10 +37,10 @@ Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404, substituted "Depa
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02301 - Flags](%C2%A7%2002301%20-%20Flags.md)
-- [&sect; 02302 - Funeral expenses](%C2%A7%2002302%20-%20Funeral%20expenses.md)
-- [&sect; 02303 - Death in Department facility; plot allowance](%C2%A7%2002303%20-%20Death%20in%20Department%20facility%3B%20plot%20allowance.md)
+- [&sect; 02302 - Repealed. Pub. L. 116&#8211;315, title II, &sect;2202(a)(2), Jan. 5, 2021, 134 Stat. 4984](%C2%A7%2002302%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93315%2C%20title%20II%2C%20%C2%A72202%28a%29%282%29%2C%20Jan.%205%2C%202021%2C%20134%20Stat.%204984.md)
+- [&sect; 02303 - Death from non-service-connected disability; plot allowance](%C2%A7%2002303%20-%20Death%20from%20non-service-connected%20disability%3B%20plot%20allowance.md)
 - [&sect; 02304 - Claims for reimbursement](%C2%A7%2002304%20-%20Claims%20for%20reimbursement.md)
 - [&sect; 02305 - Persons eligible under prior law](%C2%A7%2002305%20-%20Persons%20eligible%20under%20prior%20law.md)
 - [&sect; 02306 - Headstones, markers, and burial receptacles](%C2%A7%2002306%20-%20Headstones%2C%20markers%2C%20and%20burial%20receptacles.md)
 - [&sect; 02307 - Death from service-connected disability](%C2%A7%2002307%20-%20Death%20from%20service-connected%20disability.md)
-- [&sect; 02308 - Transportation of deceased veteran to a national cemetery](%C2%A7%2002308%20-%20Transportation%20of%20deceased%20veteran%20to%20a%20national%20cemetery.md)
+- [&sect; 02308 - Transportation of deceased veteran to a national cemetery or a covered veterans' cemetery](%C2%A7%2002308%20-%20Transportation%20of%20deceased%20veteran%20to%20a%20national%20cemetery%20or%20a%20covered%20veterans%27%20cemetery.md)

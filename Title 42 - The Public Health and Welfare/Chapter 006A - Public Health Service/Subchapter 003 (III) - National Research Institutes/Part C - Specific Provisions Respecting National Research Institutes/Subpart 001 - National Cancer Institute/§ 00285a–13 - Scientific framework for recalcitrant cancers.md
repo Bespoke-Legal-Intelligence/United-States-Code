@@ -112,7 +112,7 @@ For each recalcitrant cancer identified under subsection (b), the Director of th
 
 #### (2) Additional one-time report for certain frameworks
 
-&emsp;For each recalcitrant cancer identified under subsection (b)(1), the Director of the Institute shall, not later than 6 years after the initial development of a scientific frameworkunder subsection (a), submit a report to the Congress on the effectiveness of the framework (including the update required by subsection (a)(3)(A)(ii)) in improving the prevention, detection, diagnosis, and treatment of such cancer.
+&emsp;For each recalcitrant cancer identified under subsection (b)(1), the Director of the Institute shall, not later than 6 years after the initial development of a scientific framework under subsection (a), submit a report to the Congress on the effectiveness of the framework (including the update required by subsection (a)(3)(A)(ii)) in improving the prevention, detection, diagnosis, and treatment of such cancer.
 
 #### (e) Recommendations for exception funding
 

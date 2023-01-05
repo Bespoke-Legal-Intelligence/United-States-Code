@@ -74,7 +74,7 @@ In this chapter, the following definitions shall apply:
 
 &emsp;&emsp;(B) the use of a health care provider's hands or fingers or the use of medical devices in the course of appropriate medical treatment unrelated to prison rape; or
 
-&emsp;&emsp;(C) the use of a health care provider's hands or fingers and the use of instruments to perform body cavity searches in order to maintain security and safety within the prison or detention facility, provided that the search is conducted in a manner consistent with constitutional requirements.
+&emsp;&emsp;(C) the use of a health care provider's hands or fingers and the use of instruments to perform body cavity searches in order to maintain security and safety within theprison or detention facility, provided that the search is conducted in a manner consistent with constitutional requirements.
 
 (Pub. L. 108–79, §10, Sept. 4, 2003, 117 Stat. 987.)
 

@@ -62,7 +62,7 @@ Are Allowed.—(A) Except as provided under subparagraph (B), no task or deliver
 
 Regulations.—The regulations implementing this subsection shall—
 
-&emsp;&emsp;(A) establish a preference for awarding, to the maximum extent practicable, multiple task or delivery order contracts for the same or similar services or property under the authority of paragraph (1)(B); and
+&emsp;&emsp;(A) establish a preference for awarding, to the maximum extent practicable, multipletask or delivery order contracts for the same or similar services or property under the authority of paragraph (1)(B); and
 
 &emsp;&emsp;(B) establish criteria for determining when award of multiple task or delivery order contracts would not be in the best interest of the Federal Government.
 
@@ -136,5 +136,5 @@ For effective date and applicability of section, see section 10001 of Pub. L. 10
 
 #### Provisions Not Affected by Pub. L. 103–355
 
-This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, andWorks, see section 1004(d) of Pub. L. 103–355, set out as a note preceding section 3401 of this title.
+This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note preceding section 3401 of this title.
 

@@ -12,6 +12,10 @@ To facilitate the administration of the programs and activities of the Forest Se
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Inapplicability of Chapter 63 of Title 31
+
+Chapter 63 of title 31 not applicable to an agreement entered into under this section, see section 1011a(d)(2) of this title.
+
 #### Forest Service Partnership Agreements
 
 Pub. L. 113–76, div. G, title IV, §426, Jan. 17, 2014, 128 Stat. 344, provided that:
@@ -28,7 +32,7 @@ Agreements Authorized.—The Secretary of Agriculture may enter into an agreemen
 
 &emsp;"(4) To operate facilities (including providing the services of Forest Service employees to staff facilities) in any public or private building or on land not under the jurisdiction, custody, or control of the Administrator of General Services for the sale or distribution of educational and interpretive materials, products, programs, and services, pertaining to National Forest System lands, private lands, and lands administered by other public entities.
 
-&emsp;"(5) To sell health and safety products, visitor convenience items, or other similar items (as determinedby the Secretary) in facilities not under the jurisdiction, custody, or control of the Administrator of General Services on or in the vicinity of National Forest System lands.
+&emsp;"(5) To sell health and safety products, visitor convenience items, or other similar items (as determined by the Secretary) in facilities not under the jurisdiction, custody, or control of the Administrator of General Services on or in the vicinity of National Forest System lands.
 
 &emsp;"(6) To collect funds on behalf of cooperators from the sale of materials, products, programs, and services, as authorized by a preceding paragraph, when the collection of such funds is incidental to other duties of Forest Service employees.
 
@@ -40,9 +44,15 @@ Treatment of Contributions of Volunteers.—The Forest Service may consider the 
 
 Duration.—The authority provided by subsections (a) and (b) expires September 30, 2019."
 
-\[Pub. L. 116–260, div. G, title IV, §427, Dec. 27, 2020, 134 Stat. 1542, provided that: "Section 426 of division G of Public Law 113–76 (16 U.S.C. 565a–1 note) \[set out above\] shall be applied by substituting 'September 30, 2021' for 'September 30, 2019'."\]
+\[Pub. L. 117–328, div. G, title IV, §425, Dec. 29, 2022, 136 Stat. 4826, provided that: "Section 426 of division G of Public Law 113–76 (16 U.S.C. 565a–1 note) \[set out above\] shall be applied by substituting 'September 30, 2023' for 'September 30, 2019'."\]
 
-\[Pub. L. 116–94, div. D, title IV, §430, Dec. 20, 2019, 133 Stat. 2749, provided that: "Section 426 of division G of Public Law 113–76 (16 U.S.C. 565a–1 note) \[set out above\] shall be applied by substituting 'September 30, 2020' for 'September 30, 2019'."\]
+\[Similar provisions were contained in the following prior appropriation acts:
+
+\[Pub. L. 117–103, div. G, title IV, §425, Mar. 15, 2022, 136 Stat. 415.\]
+
+\[Pub. L. 116–260, div. G, title IV, §427, Dec. 27, 2020, 134 Stat. 1542.\]
+
+\[Pub. L. 116–94, div. D, title IV, §430, Dec. 20, 2019, 133 Stat. 2749.\]
 
 #### Mutual Benefit of Agreements to Forest Service and Other Parties
 

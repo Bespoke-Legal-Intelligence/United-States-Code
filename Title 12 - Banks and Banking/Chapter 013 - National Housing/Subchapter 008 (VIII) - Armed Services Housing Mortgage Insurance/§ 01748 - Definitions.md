@@ -16,7 +16,7 @@ As used in this subchapter—
 
 (g) The term "State" includes the several States, and Puerto Rico, the District of Columbia, Guam, the Virgin Islands, the Canal Zone, and Midway Island.
 
-(June 27, 1934, ch. 847, title VIII, §801, as added Aug. 8, 1949, ch. 403, §1, 63 Stat. 570; amended July 14, 1952, ch. 723, §10(a)(2), 66 Stat. 603; Aug. 11, 1955, ch. 783, title IV, §401, 69 Stat. 646; Aug. 7, 1956, ch. 1029, title V, §501, 70 Stat. 1109; Pub. L. 86–70, §10(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §6, July 12, 1960, 74 Stat. 411; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17.)
+(June 27, 1934, ch. 847, title VIII, §801, as added Aug. 8, 1949, ch. 403, §1, 63 Stat. 570; amended July 14, 1952, ch. 723, §10(a)(2), 66 Stat. 603; Aug. 11, 1955, ch. 783, title IV, §401, 69 Stat. 646; Aug.7, 1956, ch. 1029, title V, §501, 70 Stat. 1109; Pub. L. 86–70, §10(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §6, July 12, 1960, 74 Stat. 411; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17.)
 
 #### <b>Editorial Notes</b>
 

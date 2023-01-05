@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The purpose of this section is to enable the Attorney General to award grants to increase the availability of civil and criminal legal assistance necessary to provide effective aid to adult and youth victims of domestic violence, dating violence, stalking, or sexual assault who are seeking relief in legal matters relating to or arising out of that abuse or violence, at minimal or no cost to the victims. Criminal legal assistance provided for under this section shall be limited to criminal matters relating to or arising out of domestic violence, sexual assault, dating violence, and stalking.
+The purpose of this section is to enable the Attorney General to award grants to increase the availability of civil and criminal legal assistance necessary to provide effective aid to adult and youth victims of domestic violence, dating violence, stalking, or sexual assault who are seeking relief in legal matters relating to or arising out of that abuse or violence, at minimal or no cost to the victims. When legal assistance to a dependent is necessary for the safety of a victim, such assistance may be provided. Criminal legal assistance provided for under this section shall be limited to criminal matters relating to or arising out of domestic violence, sexual assault, dating violence, and stalking.
 
 #### (b) Definitions and grant conditions
 
@@ -22,19 +22,27 @@ The Attorney General may award grants under this subsection to private nonprofit
 
 To be eligible for a grant under subsection (c), applicants shall certify in writing that—
 
-&emsp;(1) any person providing legal assistance through a program funded under subsection (c) this section—" <sup>1</sup>
+&emsp;(1) any person providing legal assistance through a program funded under this section—
 
-&emsp;&emsp;(A) has demonstrated expertise in providing legal assistance to victims of domestic violence, dating violence, sexual assault, or stalking in the targeted population; or
+&emsp;&emsp;(A)(i) is a licensed attorney or is working under the direct supervision of a licensed attorney;
 
-&emsp;&emsp;(B)(i) is partnered with an entity or person that has demonstrated expertise described in subparagraph (A); and
+&emsp;&emsp;(ii) in immigration proceedings, is a Board of Immigration Appeals accredited representative;
 
-&emsp;&emsp;(ii) has completed, or will complete, training in connection with domestic violence, dating violence, stalking, or sexual assault and related legal issues, including training on evidence-based risk factors for domestic and dating violence homicide;
+&emsp;&emsp;(iii) in Veterans' Administration claims, is an accredited representative; or
 
-&emsp;(2) any training program conducted in satisfaction of the requirement of paragraph (1) has been or will be developed with input from and in collaboration with a tribal, State, territorial, or local domestic violence, dating violence, sexual assault or stalking victim service provider or coalition, as well as appropriate tribal, State, territorial, and local law enforcement officials;
+&emsp;&emsp;(iv) is any person who functions as an attorney or lay advocate in Tribal court; and
+
+&emsp;&emsp;(B)(i) has demonstrated expertise in providing legal assistance to victims of domestic violence, dating violence, sexual assault, or stalking in the targeted population; or
+
+&emsp;&emsp;(ii)(I) is partnered with an entity or person that has demonstrated expertise described in clause (i); and
+
+&emsp;&emsp;(II) has completed, or will complete, training in connection with domestic violence, dating violence, stalking, or sexual assault and related legal issues, including training on evidence-based risk factors for domestic and dating violence homicide;
+
+&emsp;(2) any training program conducted in satisfaction of the requirement of paragraph (1) has been or will be developed with input from and in collaboration with a tribal, State, territorial, local, or culturally specific domestic violence, dating violence, sexual assault or stalking victim service provider or coalition, as well as appropriate tribal, State, territorial, and local law enforcement officials;
 
 &emsp;(3) any person or organization providing legal assistance through a program funded under subsection (c) has informed and will continue to inform State, local, or tribal domestic violence, dating violence, or sexual assault programs and coalitions, as well as appropriate State and local law enforcement officials of their work; and
 
-&emsp;(4) the grantee's organizational policies do not require mediation or counseling involving offenders and victims physically together, in cases where sexual assault, domestic violence, dating violence, or child sexual abuse is an issue.
+&emsp;(4) the grantee's organizational policies do not require mediation or counseling involving offenders and victims physically together, in cases where sexual assault, domestic violence, dating violence, stalking, or child sexual abuse is an issue.
 
 #### (e) Evaluation
 
@@ -44,7 +52,7 @@ The Attorney General may evaluate the grants funded under this section through c
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to carry out this section $57,000,000 for each of fiscal years 2014 through 2018.
+&emsp;There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2023 through 2027.
 
 #### (2) Allocation of funds
 
@@ -58,7 +66,7 @@ The Attorney General may evaluate the grants funded under this section through c
 
 &emsp;&emsp;&emsp;Not less than 7 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 10452 of this title.
 
-#### (ii) Applicability of part <sup>2</sup>
+#### (ii) Applicability of part <sup>1</sup>
 
 &emsp;&emsp;&emsp;The requirements of this section shall not apply to funds allocated for the program described in clause (i).
 
@@ -70,7 +78,7 @@ The Attorney General may evaluate the grants funded under this section through c
 
 &emsp;Amounts made available under this section shall be used to supplement and not supplant other Federal, State, and local funds expended to further the purpose of this section.
 
-(Pub. L. 106–386, div. B, title II, §1201, Oct. 28, 2000, 114 Stat. 1504; Pub. L. 108–405, title II, §205, Oct. 30, 2004, 118 Stat. 2271; Pub. L. 109–162, title I, §103, title IX, §906(f), formerly §906(g), Jan. 5, 2006, 119 Stat. 2978, 3082, renumbered §906(f), Pub. L. 109–271, §7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §7(d)(1), Aug. 12, 2006, 120 Stat. 765; Pub. L. 113–4, title I, §103, Mar. 7, 2013, 127 Stat. 73.)
+(Pub. L. 106–386, div. B, title II, §1201, Oct. 28, 2000, 114 Stat. 1504; Pub. L. 108–405, title II, §205, Oct. 30, 2004, 118 Stat. 2271; Pub. L. 109–162, title I, §103, title IX, §906(f), formerly §906(g), Jan. 5, 2006, 119 Stat. 2978, 3082, renumbered §906(f), Pub. L. 109–271, §7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §7(d)(1), Aug. 12, 2006, 120 Stat. 765; Pub. L. 113–4, title I, §103, Mar. 7, 2013, 127 Stat. 73; Pub. L. 117–103, div. W, title I, §103, Mar. 15, 2022, 136 Stat. 850.)
 
 #### <b>Editorial Notes</b>
 
@@ -83,6 +91,16 @@ The reference to "part" in subsec. (f)(2)(B)(ii) heading, appearing in the origi
 Section was formerly classified to section 3796gg–6 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–103, §103(1), inserted "When legal assistance to a dependent is necessary for the safety of a victim, such assistance may be provided." after "no cost to the victims."
+
+Subsec. (d)(1). Pub. L. 117–103, §103(2)(A), amended par. (1) generally. Prior to amendment, par. (1) related to any person providing legal assistance through a program funded under subsection (c) of this section.
+
+Subsec. (d)(2). Pub. L. 117–103, §103(2)(B), substituted "local, or culturally specific" for "or local".
+
+Subsec. (d)(4). Pub. L. 117–103, §103(2)(C), inserted "stalking," after "dating violence,".
+
+Subsec. (f)(1). Pub. L. 117–103, §103(3), substituted "$60,000,000" for "$57,000,000" and "2023 through 2027" for "2014 through 2018".
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–4, §103(1), substituted "relating to or arising out of" for "arising as a consequence of" and inserted "or arising out of" after "criminal matters relating to".
 
@@ -104,7 +122,7 @@ Subsec. (b). Pub. L. 109–162, §103(2), reenacted subsec. heading without chan
 
 Subsec. (c). Pub. L. 109–162, §103(3), inserted "and tribal organizations, territorial organizations" after "Indian tribal governments" in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 109–162, §103(4), added par. (2) and struck out former par. (2) which read as follows:"any training program conducted in satisfaction of the requirement of paragraph (1) has been or will be developed with input from and in collaboration with a State, local, or tribal domestic violence, dating violence, or sexual assault program or coalition, as well as appropriate State and local law enforcement officials;".
+Subsec. (d)(2). Pub. L. 109–162, §103(4), added par. (2) and struck out former par. (2) which read as follows: "any training program conducted in satisfaction of the requirement of paragraph (1) has been or will be developed with input from and in collaboration with a State, local, or tribal domestic violence, dating violence, or sexual assault program or coalition, as well as appropriate State and local law enforcement officials;".
 
 Subsec. (e). Pub. L. 109–162, §103(5), which directed amendment identical to that made by Pub. L. 108–405, §205(5), was not executed. See 2004 Amendment note below.
 
@@ -138,6 +156,10 @@ Subsec. (f)(2)(A). Pub. L. 108–405, §205(6), inserted "dating violence," afte
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
@@ -146,7 +168,5 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 10261 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be "subsection (c) of this section", and the closing quotation marks probably should not appear.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

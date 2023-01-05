@@ -194,7 +194,7 @@
 
 #### (3) Needs substantial intervention
 
-&emsp;Notwithstanding paragraph (1) or (2), at any time that the Secretary determines that a State needs substantial intervention in implementing the requirements of this subchapter or that there is a substantial failure to comply with any condition of a State educationalagency's or local educational agency's eligibility under this subchapter, the Secretary shall take 1 or more of the following actions:
+&emsp;Notwithstanding paragraph (1) or (2), at any time that the Secretary determines that a State needs substantial intervention in implementing the requirements of this subchapter or that there is a substantial failure to comply with any condition of a State educational agency's or local educational agency's eligibility under this subchapter, the Secretary shall take 1 or more of the following actions:
 
 &emsp;&emsp;(A) Recover funds under section 452 of the General Education Provisions Act \[20 U.S.C. 1234a\].
 
@@ -216,7 +216,7 @@
 
 #### (5) Report to Congress
 
-&emsp;The Secretary shall report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate within 30 days of taking enforcement action pursuant to paragraph (1), (2), or (3), on the specific action taken and the reasons why enforcement action was taken.
+&emsp;The Secretary shall report to the Committee on Education and the Workforce of the Houseof Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate within 30 days of taking enforcement action pursuant to paragraph (1), (2), or (3), on the specific action taken and the reasons why enforcement action was taken.
 
 #### (6) Nature of withholding
 
@@ -284,7 +284,7 @@ The Secretary shall—
 
 #### References in Text
 
-The General Education Provisions Act, referred to in subsec. (g), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
+The General Education Provisions Act, referred to in subsec. (g), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
 #### Prior Provisions
 

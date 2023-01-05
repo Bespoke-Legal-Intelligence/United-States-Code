@@ -2,7 +2,7 @@
 
 #### (a) Reimbursable fees
 
-In any case on or after June 15, 1994, in which a vessel of the United States exercising its right of passage is charged a fee by the government of a foreign country to engage in transit passage between points in the United States (including a point in the exclusive economic zone or in an area over which jurisdiction is in dispute), and such fee is regarded by the United States as being inconsistent with international law, the Secretary of State shall, subject to the availability of appropriated funds, reimburse the vessel owner for the amount of any such fee paid under protest.
+In any case on or after June 15, 1994, in which a vessel of the United States exercising its rightof passage is charged a fee by the government of a foreign country to engage in transit passage between points in the United States (including a point in the exclusive economic zone or in an area over which jurisdiction is in dispute), and such fee is regarded by the United States as being inconsistent with international law, the Secretary of State shall, subject to the availability of appropriated funds, reimburse the vessel owner for the amount of any such fee paid under protest.
 
 #### (b) Documentation
 
@@ -54,7 +54,7 @@ Pub. L. 104–43, title IV, §401, Nov. 3, 1995, 109 Stat. 388, provided that: "
 
 &emsp;"(8) the Secretary of State should seek to recover from Canada any amounts paid by the United States to reimburse vessel owners who paid the transit license fee;
 
-&emsp;"(9) the United States should review its current policy with respect to anchorage by commercial fishing vessels of Canada in waters of the United States off Alaska, including waters in and near the DixonEntrance, and should accord such vessels the same treatment that commercial fishing vessels of the United States are accorded for anchorage in the waters of Canada off British Columbia;
+&emsp;"(9) the United States should review its current policy with respect to anchorage by commercial fishing vessels of Canada in waters of the United States off Alaska, including waters in and near the Dixon Entrance, and should accord such vessels the same treatment that commercial fishing vessels of the United States are accorded for anchorage in the waters of Canada off British Columbia;
 
 &emsp;"(10) the President should ensure that, consistent with international law, the United States Coast Guard has available adequate resources in the Pacific Northwest and Alaska to provide for the safety of United States citizens, the enforcement of United States law, and to protect the rights of the United States and keep the peace among vessels operating in disputed waters;
 

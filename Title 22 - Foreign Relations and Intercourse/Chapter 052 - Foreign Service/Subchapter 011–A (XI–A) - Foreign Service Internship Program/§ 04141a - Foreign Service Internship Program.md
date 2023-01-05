@@ -6,7 +6,7 @@ In consultation with the heads of other agencies utilizing the Foreign Service s
 
 #### (b) Foreign Service Internship Program
 
-The program shall introduce interns to the practice of diplomacy and the unique rewards of the Foreign Service. The program shall consist of three successive summer internships of not less than eight weeks duration in each year to be completed over the course of not more than four years. Special emphasis shall be given topreparing the intern for the Foreign Service examination process. In each year not less than 10 interns shall enter the program.
+The program shall introduce interns to the practice of diplomacy and the unique rewards of the Foreign Service. The program shall consist of three successive summer internships of not less than eight weeks duration in each year to be completed over the course of not more than four years. Special emphasis shall be given to preparing the intern for the Foreign Service examination process. In each year not less than 10 interns shall enter the program.
 
 #### (c) Eligibility to participate
 

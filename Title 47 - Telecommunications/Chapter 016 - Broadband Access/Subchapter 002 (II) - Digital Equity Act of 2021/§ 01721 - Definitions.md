@@ -106,7 +106,7 @@ In this subchapter:
 
 #### (12) Digital literacy
 
-&emsp;The term "digital literacy" means the skills associated with using technology to enable users to find, evaluate, organize, create, and communicate information.
+&emsp;The term "digital literacy" means the skills associated with using technology to enableusers to find, evaluate, organize, create, and communicate information.
 
 #### (13) Disability
 
@@ -116,7 +116,7 @@ In this subchapter:
 
 &emsp;The term "eligible State" means—
 
-&emsp;&emsp;(A) with respect to planning grants made available under section 60304(c)(3), a Statewith respect to which the Assistant Secretary has approved an application submitted to the Assistant Secretary under section 1723(c)(3)(C) of this title; and
+&emsp;&emsp;(A) with respect to planning grants made available under section 60304(c)(3), a State with respect to which the Assistant Secretary has approved an application submitted to the Assistant Secretary under section 1723(c)(3)(C) of this title; and
 
 &emsp;&emsp;(B) with respect to capacity grants awarded under section 1723(d) of this title, a State with respect to which the Assistant Secretary has approved an application submitted to the Assistant Secretary under section 1723(d)(2) of this title, including approval of the State Digital Equity Plan developed by the State under section 1723(c) of this title.
 

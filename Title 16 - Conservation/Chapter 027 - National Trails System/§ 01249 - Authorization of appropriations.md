@@ -86,5 +86,5 @@ Pub. L. 98–11, title I, §101, Mar. 28, 1983, 97 Stat. 42, provided that: "Aut
 
 #### Appropriations for Overmountain Victory National Historic Trail and Ice Age National Scenic Trail; Effective Date; Contract Authority
 
-Pub. L. 96–370, §2, Oct. 3, 1980, 94 Stat. 1360, provided that: "Authorizations of moneys to be appropriated under this Act \[amending sections 1244 and 1249 of this title\] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority to enter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts."
+Pub. L. 96–370, §2, Oct. 3, 1980, 94 Stat. 1360, provided that: "Authorizations of moneys to be appropriated under this Act \[amending sections 1244 and 1249 of this title\] shall be effective on October 1, 1981. Notwithstanding any other provision of this Act, authority toenter into contracts, to incur obligations, or to make payments under this Act shall be effective only to the extent, and in such amounts, as are provided in advance in appropriation Acts."
 

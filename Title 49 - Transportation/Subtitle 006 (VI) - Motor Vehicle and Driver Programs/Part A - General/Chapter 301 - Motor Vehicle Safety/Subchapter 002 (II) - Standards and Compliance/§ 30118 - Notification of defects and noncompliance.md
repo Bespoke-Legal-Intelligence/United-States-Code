@@ -46,7 +46,7 @@ In general.—Each manufacturer that is conducting a campaign under subsection (
 
 Requirements.—Except as otherwise provided in this subsection, each report under this subsection shall comply with the requirements of section 573.7 of title 49, Code of Federal Regulations (or a successor regulation).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 950; Pub. L. 106–346, §101(a) \[title III, §364\], Oct. 23, 2000, 114 Stat. 1356, 1356A–37; Pub. L. 106–414, §2, Nov. 1, 2000, 114 Stat. 1800; Pub. L. 114–94, div. B, title XXIV, §24104(b), Dec. 4, 2015, 129 Stat. 1703; Pub. L. 117–58, div. B, title IV, §24202(a), Nov. 15, 2021, 135 Stat. 819.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 950; Pub. L. 106–346, §101(a) \[title III, §364\], Oct. 23, 2000, 114 Stat. 1356, 1356A–37; Pub. L. 106–414, §2,Nov. 1, 2000, 114 Stat. 1800; Pub. L. 114–94, div. B, title XXIV, §24104(b), Dec. 4, 2015, 129 Stat. 1703; Pub. L. 117–58, div. B, title IV, §24202(a), Nov. 15, 2021, 135 Stat. 819.)
 
 Historical and Revision Notes
 

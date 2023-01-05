@@ -58,7 +58,8 @@
 | [1088\.](%C2%A7%2001088%20-%20Air%20evacuation%20patients%20furnished%20subsistence.md) | Air evacuation patients: furnished subsistence. |
 | [1089\.](%C2%A7%2001089%20-%20Defense%20of%20certain%20suits%20arising%20out%20of%20medical%20malpractice.md) | Defense of certain suits arising out of medical malpractice. |
 | [1090\.](%C2%A7%2001090%20-%20Identifying%20and%20treating%20drug%20and%20alcohol%20dependence.md) | Identifying and treating drug and alcohol dependence. |
-| [1090a.](%C2%A7%2001090a%20-%20Commanding%20officer%20and%20supervisor%20referrals%20of%20members%20for%20mental%20health%20evaluations.md) | Commanding officer and supervisor referrals of members for mental health evaluations. |
+| [1090a.](%C2%A7%2001090a%20-%20Identifying%20and%20treating%20eating%20disorders.1.md) | Identifying and treating eating disorders. |
+| [1090b.](%C2%A7%2001090b%20-%20Commanding%20officer%20and%20supervisor%20referrals%20of%20members%20for%20mental%20health%20evaluations.md) | Commanding officer and supervisor referrals of members for mental health evaluations. |
 | [1091\.](%C2%A7%2001091%20-%20Personal%20services%20contracts.md) | Personal services contracts. |
 | [1092\.](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md) | Studies and demonstration projects relating to delivery of health and medical care. |
 | [1092a.](%C2%A7%2001092a%20-%20Persons%20entering%20the%20armed%20forces%20baseline%20health%20data.md) | Persons entering the armed forces: baseline health data. |
@@ -98,10 +99,6 @@
 | [1110b.](%C2%A7%2001110b%20-%20TRICARE%20program%20extension%20of%20dependent%20coverage.md) | TRICARE program: extension of dependent coverage. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 117–81, div. A, title VII, §701(c)(2), (d), Dec. 27, 2021, 135 Stat. 1779, provided that, effective Oct. 1, 2022, this analysis is amended by striking item 1090a and inserting new items 1090a "Identifying and treating eating disorders" and 1090b "Commanding officer and supervisor referrals of members for mental health evaluations". See 2021 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -260,7 +257,8 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01088 - Air evacuation patients furnished subsistence](%C2%A7%2001088%20-%20Air%20evacuation%20patients%20furnished%20subsistence.md)
 - [&sect; 01089 - Defense of certain suits arising out of medical malpractice](%C2%A7%2001089%20-%20Defense%20of%20certain%20suits%20arising%20out%20of%20medical%20malpractice.md)
 - [&sect; 01090 - Identifying and treating drug and alcohol dependence](%C2%A7%2001090%20-%20Identifying%20and%20treating%20drug%20and%20alcohol%20dependence.md)
-- [&sect; 01090a - Commanding officer and supervisor referrals of members for mental health evaluations](%C2%A7%2001090a%20-%20Commanding%20officer%20and%20supervisor%20referrals%20of%20members%20for%20mental%20health%20evaluations.md)
+- [&sect; 01090a - Identifying and treating eating disorders.1](%C2%A7%2001090a%20-%20Identifying%20and%20treating%20eating%20disorders.1.md)
+- [&sect; 01090b - Commanding officer and supervisor referrals of members for mental health evaluations](%C2%A7%2001090b%20-%20Commanding%20officer%20and%20supervisor%20referrals%20of%20members%20for%20mental%20health%20evaluations.md)
 - [&sect; 01091 - Personal services contracts](%C2%A7%2001091%20-%20Personal%20services%20contracts.md)
 - [&sect; 01092 - Studies and demonstration projects relating to delivery of health and medical care](%C2%A7%2001092%20-%20Studies%20and%20demonstration%20projects%20relating%20to%20delivery%20of%20health%20and%20medical%20care.md)
 - [&sect; 01092a - Persons entering the armed forces baseline health data](%C2%A7%2001092a%20-%20Persons%20entering%20the%20armed%20forces%20baseline%20health%20data.md)

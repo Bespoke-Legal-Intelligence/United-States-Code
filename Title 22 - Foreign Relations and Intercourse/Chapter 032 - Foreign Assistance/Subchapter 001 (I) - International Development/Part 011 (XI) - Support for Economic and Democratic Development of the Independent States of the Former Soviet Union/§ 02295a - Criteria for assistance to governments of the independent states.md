@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In providing assistance under this part for the government of any independent state of theformer Soviet Union, the President shall take into account not only relative need but also the extent to which that independent state is acting to—
+In providing assistance under this part for the government of any independent state of the former Soviet Union, the President shall take into account not only relative need but also the extent to which that independent state is acting to—
 
 &emsp;(1) make significant progress toward, and is committed to the comprehensive implementation of, a democratic system based on principles of the rule of law, individual freedoms, and representative government determined by free and fair elections;
 
@@ -108,7 +108,7 @@ Assistance prohibited by subsection (b) or any similar provision of law, other t
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Cooperative Threat Reduction Act of 1993, referred to in subsec. (d)(3)(G), is title XII of div. A of Pub. L. 103–160, Nov. 30, 1993, 107 Stat. 1777, which is classified generally to chapter 68A (§5951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5951 of this title and Tables.
 
@@ -140,7 +140,7 @@ Pub. L. 102–511, title II, §202, Oct. 24, 1992, 106 Stat. 3331, provided that
 
 "(a)
 
-Prohibition.—Except as provided in subsections (b) and (c), an agency, instrumentality, or other governmental entity of an independent state of the former Soviet Union shall not be eligible to receive assistance under chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\] if—
+Prohibition.—Except as provided in subsections (b) and (c), an agency, instrumentality, or other governmental entity of an independent state of the formerSoviet Union shall not be eligible to receive assistance under chapter 11 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2295 et seq.\] if—
 
 &emsp;"(1) on the date of enactment of this Act \[Oct. 24, 1992\], there is outstanding a final judgment by a court of competent jurisdiction in that independent state that that governmental entity is withholding unlawfully books or other documents of religious or historical significance that are the property of United States persons; and
 

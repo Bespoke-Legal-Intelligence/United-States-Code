@@ -36,7 +36,7 @@ Each program agency shall, through the programs and activities administered unde
 
 #### (4) Priority for participants without high school diplomas
 
-&emsp;A program agency shall give priority to participants who have not obtained a high school diploma or the equivalent of such diploma, in providing services under this subsection.
+&emsp;A program agency shall give priority to participants who have not obtained a high schooldiploma or the equivalent of such diploma, in providing services under this subsection.
 
 #### (d) Standards and procedures
 

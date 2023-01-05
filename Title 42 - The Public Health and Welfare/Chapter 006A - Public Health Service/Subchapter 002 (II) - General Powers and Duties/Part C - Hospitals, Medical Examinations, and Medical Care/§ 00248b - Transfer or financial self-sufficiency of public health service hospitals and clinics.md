@@ -34,7 +34,7 @@ Paragraph (1) shall not apply in the case of a proposal for the transfer of a di
 
 #### (e) Establishment of identifiable administrative unit
 
-There is established, within the Office of the Assistant Secretary for Health of the Department of Health and Human Services, an identifiable administrative unit which shall have directresponsibility and authority for overseeing the activities under this section.
+There is established, within the Office of the Assistant Secretary for Health of the Department of Health and Human Services, an identifiable administrative unit which shall have direct responsibility and authority for overseeing the activities under this section.
 
 #### (f) Finding of financial self-sufficiency
 

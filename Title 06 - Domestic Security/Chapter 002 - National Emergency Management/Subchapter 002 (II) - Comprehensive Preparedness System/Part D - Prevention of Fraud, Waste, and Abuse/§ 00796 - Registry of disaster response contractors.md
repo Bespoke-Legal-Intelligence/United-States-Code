@@ -42,7 +42,7 @@ In this section—
 
 #### (A) Submission
 
-&emsp;&emsp;Information maintained in the registry shall be submitted on a voluntary basis andbe kept current by the submitting business concerns.
+&emsp;&emsp;Information maintained in the registry shall be submitted on a voluntary basis and be kept current by the submitting business concerns.
 
 #### (B) Attestation
 
@@ -70,5 +70,5 @@ In this section—
 
 #### References in Text
 
-The Small Business Act, referred to in subsec. (a)(2), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (a)(2), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384,which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 

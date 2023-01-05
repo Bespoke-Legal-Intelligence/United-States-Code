@@ -6,7 +6,7 @@ The National Academy of Sciences shall conduct a study and provide recommendatio
 
 #### (b) Payment of decontamination and decommissioning costs
 
-The costs of all decontamination and decommissioning activities of the Department shall be paid from the Fund until such time as the Secretary certifies and the Congress concurs, by law, that such activities are complete.
+The costs of all decontamination and decommissioning activities of the Department shall bepaid from the Fund until such time as the Secretary certifies and the Congress concurs, by law, that such activities are complete.
 
 #### (c) Payment of remedial action costs
 

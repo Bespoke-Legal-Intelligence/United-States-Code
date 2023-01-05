@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 (f) The term "food" means (1) articles used for food or drink for man or other animals, (2) chewing gum, and (3) articles used for components of any such article.
 
-(g)(1) The term "drug" means (A) articles recognized in the official United States Pharmacopoeia,<sup>1</sup> official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement forwhich a truthful and not misleading statement is made in accordance with section 343(r)(6) of this title is not a drug under clause (C) solely because the label or the labeling contains such a statement.
+(g)(1) The term "drug" means (A) articles recognized in the official United States Pharmacopoeia,<sup>1</sup> official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement for which a truthful and not misleading statement is made in accordance with section 343(r)(6) of this title is not a drug under clause (C) solely because the label or the labeling contains such a statement.
 
 (2) The term "counterfeit drug" means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
 
@@ -36,7 +36,7 @@ For the purposes of this chapter—
 
 (j) The term "official compendium" means the official United States Pharmacopoeia, official Homoeopathic Pharmacopoeia of the United States, official National Formulary, or any supplement to any of them.
 
-(k) The term "label" means a display of written, printed, or graphic matter upon the immediate container of any article; and a requirement made by or under authority of this chapter that any word, statement, or other information appear on the label shall not be considered to be complied with unless such word, statement, or other information also appears on the outside container or wrapper, if any there be, of the retail package of such article, or is easily legible through the outside container or wrapper.
+(k) The term "label" means a display of written, printed, or graphic matter upon the immediate container of any article; and a requirement made by or under authority of this chapterthat any word, statement, or other information appear on the label shall not be considered to be complied with unless such word, statement, or other information also appears on the outside container or wrapper, if any there be, of the retail package of such article, or is easily legible through the outside container or wrapper.
 
 (l) The term "immediate container" does not include package liners.
 
@@ -52,7 +52,7 @@ For the purposes of this chapter—
 
 &emsp;(2) Any drug (except a new animal drug or an animal feed bearing or containing a new animal drug) the composition of which is such that such drug, as a result of investigations to determine its safety and effectiveness for use under such conditions, has become so recognized, but which has not, otherwise than in such investigations, been used to a material extent or for a material time under such conditions.
 
-(q)(1)(A) Except as provided in clause (B), the term "pesticide chemical" means any substance that is a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], including all activeand inert ingredients of such pesticide. Notwithstanding any other provision of law, the term "pesticide" within such meaning includes ethylene oxide and propylene oxide when such substances are applied on food.
+(q)(1)(A) Except as provided in clause (B), the term "pesticide chemical" means any substance that is a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], including all active and inert ingredients of such pesticide. Notwithstanding any other provision of law, the term "pesticide" within such meaning includes ethylene oxide and propylene oxide when such substances are applied on food.
 
 (B) In the case of the use, with respect to food, of a substance described in clause (A) to prevent, destroy, repel, or mitigate microorganisms (including bacteria, viruses, fungi, protozoa, algae, and slime), the following applies for purposes of clause (A):
 
@@ -66,7 +66,7 @@ For the purposes of this chapter—
 
 &emsp;(ii) The definition in such clause for the term "pesticide chemical" does not include the substance if the substance is a food contact substance as defined in section 348(h)(6) of this title, and any of the following circumstances exist: The substance is included for such use in an object that has a food contact surface but is not intended to have an ongoing effect on any portion of the object; the substance is included for such use in an object that has a food contact surface and is intended to have an ongoing effect on a portion of the object but not on the food contact surface; or the substance is included for such use in or is applied for such use on food packaging (without regard to whether the substance is intended to have an ongoing effect on any portion of the packaging). The food contact substance is not excluded under this subclause from such definition if any of the following circumstances exist: The substance is applied for such use on a semipermanent or permanent food contact surface (other than being applied on food packaging); or the substance is included for such use in an object that has a semipermanent or permanent food contact surface (other than being included in food packaging) and the substance is intended to have an ongoing effect on the food contact surface.
 
-> With respect to the definition of the term "pesticide" that is applicable to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], this clause does not exclude any substance from such definition.
+> With respect to the definition of the term "pesticide" that is applicable to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C.136 et seq.\], this clause does not exclude any substance from such definition.
 
 (2) The term "pesticide chemical residue" means a residue in or on raw agricultural commodity or processed food of—
 
@@ -118,7 +118,7 @@ For the purposes of this chapter—
 
 > Provided that any drug intended for minor use or use in a minor species that is not the subject of a final regulation published by the Secretary through notice and comment rulemaking finding that the criteria of paragraphs (1) and (2) have not been met (or that the exception to the criterion in paragraph (1) has been met) is a new animal drug.
 
-(w) The term "animal feed", as used in paragraph (w) <sup>2</sup> of this section, in section 360b of this title, and in provisions of this chapter referring to such paragraph or section, means an article which is intended for use for food for animals other than man and which is intended for use as a substantial source of nutrients in the diet of the animal, and is not limited to a mixture intended to be the sole ration of the animal.
+(w) The term "animal feed", as used in paragraph (w) <sup>2</sup> of this section, in section 360b of this title, and in provisions of this chapter referring to such paragraph or section, means an articlewhich is intended for use for food for animals other than man and which is intended for use as a substantial source of nutrients in the diet of the animal, and is not limited to a mixture intended to be the sole ration of the animal.
 
 (x) The term "informal hearing" means a hearing which is not subject to section 554, 556, or 557 of title 5 and which provides for the following:
 
@@ -228,7 +228,7 @@ For the purposes of this chapter—
 
 &emsp;(2) includes any nonradioactive reagent, reagent kit, ingredient, nuclide generator, accelerator, target material, electronic synthesizer, or other apparatus or computer program to be used in the preparation of such a drug.
 
-(jj) The term "antibiotic drug" means any drug (except drugs for use in animals other than humans) composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other drugintended for human use containing any quantity of any chemical substance which is produced by a micro-organism and which has the capacity to inhibit or destroy micro-organisms in dilute solution (including a chemically synthesized equivalent of any such substance) or any derivative thereof.
+(jj) The term "antibiotic drug" means any drug (except drugs for use in animals other than humans) composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other drug intended for human use containing any quantity of any chemical substance which is produced by a micro-organism and which has the capacity to inhibit or destroy micro-organisms in dilute solution (including a chemically synthesized equivalent of any such substance) or any derivative thereof.
 
 (kk)
 
@@ -254,7 +254,7 @@ Priority supplement.—The term "priority supplement" means a drug application r
 
 (qq) The term "major food allergen" means any of the following:
 
-&emsp;(1) Milk, egg, fish (e.g., bass, flounder, or cod), Crustacean shellfish (e.g., crab, lobster, or shrimp), tree nuts (e.g., almonds, pecans, or walnuts), wheat, peanuts, and soybeans.
+&emsp;(1) Milk, egg, fish (e.g., bass, flounder, or cod), Crustacean shellfish (e.g., crab, lobster, or shrimp), tree nuts (e.g., almonds, pecans, or walnuts), wheat, peanuts, soybeans, and sesame.
 
 &emsp;(2) A food ingredient that contains protein derived from a food specified in paragraph (1), except the following:
 
@@ -262,7 +262,7 @@ Priority supplement.—The term "priority supplement" means a drug application r
 
 &emsp;&emsp;(B) A food ingredient that is exempt under paragraph (6) or (7) of section 343(w) of this title.
 
-(rr)(1) The term "tobacco product" means any product made or derived from tobacco that is intended for human consumption, including any component, part, or accessory of a tobacco product (except for raw materials other than tobacco used in manufacturing a component, part, or accessory of a tobacco product).
+(rr)(1) The term "tobacco product" means any product made or derived from tobacco, or containing nicotine from any source, that is intended for human consumption, including any component, part, or accessory of a tobacco product (except for raw materials other than tobacco used in manufacturing a component, part, or accessory of a tobacco product).
 
 (2) The term "tobacco product" does not mean an article that is a drug under subsection (g)(1), a device under subsection (h), or a combination product described in section 353(g) of this title.
 
@@ -270,27 +270,37 @@ Priority supplement.—The term "priority supplement" means a drug application r
 
 (4) A tobacco product shall not be marketed in combination with any other article or product regulated under this chapter (including a drug, biologic, food, cosmetic, medical device, or a dietary supplement).
 
-(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783; Pub. L. 114–255, div. A, title III, §3060(d), Dec. 13, 2016, 130 Stat. 1133; Pub. L. 116–304, §2(b), Jan. 5, 2021, 134 Stat. 4916; Pub. L. 117–11, §2(a), Apr. 23, 2021, 135 Stat. 262.)
+(5) The term "tobacco product" does not mean an article that is a food under paragraph (f), if such article contains no nicotine, or no more than trace amounts of naturally occurring nicotine.
 
-#### Amendment of Subsection (qq)(1)
+(ss) The term "critical food" means a food that is—
 
-<i>Pub. L. 117–11, §2, Apr. 23, 2021, 135 Stat. 262, provided that, applicable to any food that is introduced or delivered for introduction into interstate commerce on or after Jan. 1, 2023, subsection (qq)(1) of this section is amended by striking "and soybeans" and inserting "soybeans, and sesame". See 2021 Amendment note below.</i>
+&emsp;(1) an infant formula; or
+
+&emsp;(2) a medical food, as defined in section 360ee(b)(3) of this title.
+
+(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783; Pub. L. 114–255, div. A, title III, §3060(d), Dec. 13, 2016, 130 Stat. 1133; Pub. L. 116–304, §2(b), Jan. 5, 2021, 134 Stat. 4916; Pub. L. 117–11, §2(a), Apr. 23, 2021, 135 Stat. 262; Pub. L. 117–103, div. P, title I, §111(a), Mar. 15, 2022, 136 Stat. 789; Pub. L. 117–328, div. FF, title III, §3401(a)(2), Dec. 29, 2022, 136 Stat. 5838.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Food and Drugs Act of June 30, 1906, as amended, referred to in par. (p)(1), and the Food and Drug Act ofJune 30, 1906, as amended, referred to in par. (v)(1), is act June 30, 1906, ch. 3915, 34 Stat. 768, which was classified to subchapter I (§1 et seq.) of chapter 1 of this title, was repealed (except for section 14a which was transferred to section 376 of this title) by act June 25, 1938, ch. 675, §1002(a), formerly §902(a), 52 Stat. 1059; renumbered §1002(a), Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784, and is covered by this chapter.
+The Food and Drugs Act of June 30, 1906, as amended, referred to in par. (p)(1), and the Food and Drug Act of June 30, 1906, as amended, referred to in par. (v)(1), is act June 30, 1906, ch. 3915, 34 Stat. 768, which was classified to subchapter I (§1 et seq.) of chapter 1 of this title, was repealed (except for section 14a which was transferred to section 376 of this title) by act June 25, 1938, ch. 675, §1002(a), formerly §902(a), 52 Stat. 1059; renumbered §1002(a), Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784, and is covered by this chapter.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (q)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Poultry Products Inspection Act, referred to in par. (s)(4), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
+The Poultry Products Inspection Act, referred to in par. (s)(4), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 451 of this title and Tables.
 
 The Meat Inspection Act of March 4, 1907, as amended and extended, referred to in par. (s)(4), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which are classified generally to subchapters I to IV (§601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
 Section 101(4) of the Food and Drug Administration Modernization Act of 1997, referred to in par. (kk), is section 101(4) of Pub. L. 105–115, which is set out as a note under section 379g of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (rr)(1). Pub. L. 117–103, §111(a)(1), inserted ", or containing nicotine from any source," after "from tobacco".
+
+Subsec. (rr)(5). Pub. L. 117–103, §111(a)(2), added par. (5).
+
+Subsec. (ss). Pub. L. 117–328 added subsec. (ss).
 
 <b>2021</b>—Par. (h). Pub. L. 116–304 redesignated introductory provisions as subpar. (1) and former subpars. (1) to (3) as cls. (A) to (C), respectively, of subpar. (1) and added subpar. (2).
 
@@ -420,6 +430,10 @@ Par. (u). Pub. L. 86–618, §101(b), redesignated par. (t) as (u) and inserted 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–103, div. P, title I, §111(c), Mar. 15, 2022, 136 Stat. 789, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 387a of this title\] shall take effect 30 days after the date of enactment of this Act \[Mar. 15, 2022\]."
+
 #### Effective Date of 2021 Amendment
 
 Pub. L. 117–11, §2(b), Apr. 23, 2021, 135 Stat. 262, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any food that is introduced or delivered for introduction into interstate commerce on or after January 1, 2023."
@@ -502,7 +516,7 @@ Amendments by Pub. L. 101–535 not to be construed to alter authority of Secret
 
 Pub. L. 91–513, title II, §702, Oct. 27, 1970, 84 Stat. 1283, as amended by Pub. L. 93–481, §2, Oct. 26, 1974, 88 Stat. 1455, provided that:
 
-"(a) Prosecutions for any violation of law occurring prior to the effective date \[see Effective Date of 1970 Amendment note above\] of section 701 \[repealing section 360a of this title, and amending sections 321, 331,333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare\] shall not be affected by the repeals or amendments made by such section, or abated by reason thereof.
+"(a) Prosecutions for any violation of law occurring prior to the effective date \[see Effective Date of 1970 Amendment note above\] of section 701 \[repealing section 360a of this title, and amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare\] shall not be affected by the repeals or amendments made by such section, or abated by reason thereof.
 
 "(b) Civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of section 701 shall not be affected by the repeals or amendments made by such section, or abated by reason thereof.
 
@@ -517,6 +531,8 @@ Secretary and Department of Health, Education, and Welfare redesignated Secretar
 Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Federal Food, Drug, and Cosmetic Act, to the extent such functions related to administration and enforcement of the Poison Prevention Packaging Act of 1970 (15 U.S.C. 1471 et seq.), transferred to Consumer Product Safety Commission by section 2079 of Title 15, Commerce and Trade.
 
 #### Regulation of Tobacco
+
+Pub. L. 117–103, div. P, title I, §111(e), Mar. 15, 2022, 136 Stat. 790, provided that: "Effective 30 days after the date of enactment of this Act \[Mar. 15, 2022\], with respect to any regulation promulgated or related guidance issued, in whole or part, under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) before the date that is 30 days after such date of enactment, theterm 'tobacco product' shall have the meaning of, and shall be deemed amended to reflect the meaning of, such term as defined in section 201(rr) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(rr)), as amended by subsection (a). Products that are tobacco products under such section 201(rr), as so amended, shall be subject to all requirements of regulations for tobacco products. The Secretary of Health and Human Services shall publish a notice in the Federal Register to update the Code of Federal Regulations to reflect such deemed amendment to existing regulations and guidance."
 
 Pub. L. 105–115, title IV, §422, Nov. 21, 1997, 111 Stat. 2380, provided that: "Nothing in this Act \[see Short Title of 1997 Amendment note set out under section 301 of this title\] or the amendments made by this Act shall be construed to affect the question of whether the Secretary of Health and Human Services has any authority to regulate any tobacco product, tobacco ingredient, or tobacco additive. Such authority, if any, shall be exercised under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] as in effect on the day before the date of the enactment of this Act \[Nov. 21, 1997\]."
 
@@ -578,7 +594,7 @@ Pub. L. 89–74, §10, July 15, 1965, 79 Stat. 235, provided that:
 
 "(a) Nothing in this Act \[enacting section 360a of this title, amending sections 321, 331, 333, 334, 360, and 372 of this title and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 321, 352, and 360a of this title\] shall be construed as authorizing the manufacture, compounding, processing, possession, sale, delivery, or other disposal of any drug in any State in contravention of the laws of such State.
 
-"(b) No provision of this Act nor any amendment made by it shall be construed as indicating an intent on the part of the Congress to occupy the field in which such provision or amendment operates to the exclusion of any State law on the same subject matter, unless there is a direct and positive conflict between such provision or amendment and such State law so that the two cannot be reconciled or consistently stand together.
+"(b) No provision of this Act nor any amendment made by it shall be construed as indicating an intent on the part of the Congress to occupy the field in which such provision or amendment operates to the exclusionof any State law on the same subject matter, unless there is a direct and positive conflict between such provision or amendment and such State law so that the two cannot be reconciled or consistently stand together.
 
 "(c) No amendment made by this Act shall be construed to prevent the enforcement in the courts of any State of any statute of such State prescribing any criminal penalty for any act made criminal by any such amendment."
 

@@ -114,7 +114,7 @@ Limitation.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), the share of the total amount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share apportioned to the area under this subsection in the previous fiscal year.
+In general.—Except as provided in subparagraph (B), the share of the totalamount apportioned under this subsection that is apportioned to an area under this subsection shall not decrease by more than 0.25 percentage points compared to the share apportioned to the area under this subsection in the previous fiscal year.
 
 &emsp;&emsp;(B)
 

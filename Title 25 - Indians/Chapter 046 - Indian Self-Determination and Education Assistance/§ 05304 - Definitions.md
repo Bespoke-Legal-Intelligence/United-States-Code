@@ -12,7 +12,7 @@ For purposes of this chapter, the term—
 
 &emsp;(e) "Indian tribe" or "Indian Tribe" means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\], which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians;
 
-&emsp;(f) "indirect costs" means costs incurred for a common or joint purpose benefiting more than one contract objective, or which are not readily assignable to the contract objectives specifically benefited without effort disproportionate to the results achieved;
+&emsp;(f) "indirect costs" means costs incurred for a common or joint purpose benefiting morethan one contract objective, or which are not readily assignable to the contract objectives specifically benefited without effort disproportionate to the results achieved;
 
 &emsp;(g) "indirect cost rate" means the rate arrived at through negotiation between an Indian tribe or tribal organization and the appropriate Federal agency;
 
@@ -26,7 +26,7 @@ For purposes of this chapter, the term—
 
 &emsp;&emsp;(2) except as provided in section 5328(a)(1) of this title, subject to any Federal procurement law (including regulations);
 
-&emsp;(k) "State education agency" means the State board of education or other agency or officer primarily responsible for supervisionby the State of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law;
+&emsp;(k) "State education agency" means the State board of education or other agency or officer primarily responsible for supervision by the State of public elementary and secondary schools, or, if there is no such officer or agency, an officer or agency designated by the Governor or by State law;
 
 &emsp;(l) "Tribal organization" or "tribal organization" means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: <i>Provided</i>, That in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each such Indian tribe shall be a prerequisite to the letting or making of such contract or grant; and
 
@@ -74,7 +74,7 @@ Subsec. (j). Pub. L. 101–644, §202(2), substituted "contract (or grant or coo
 
 Pub. L. 101–301, §2(a)(2), (3), substituted "under this chapter" for "pursuant to this Act" in two places and struck out "the" before "Secretary".
 
-<b>1988</b>—Pub. L. 100–472 amended section generally, substituting subsecs. (a) to (l) for former subsecs. (a) to (d) and (f) which defined "Indian", "Indian tribe", "Tribal organization", "Secretary", and "State education agency".
+<b>1988</b>—Pub. L. 100–472 amended section generally, substituting subsecs. (a) to (l) for former subsecs. (a) to (d)and (f) which defined "Indian", "Indian tribe", "Tribal organization", "Secretary", and "State education agency".
 
 Subsec. (h). Pub. L. 100–581, §208(a)(1), substituted "by a tribal organization" for "by tribal organization".
 

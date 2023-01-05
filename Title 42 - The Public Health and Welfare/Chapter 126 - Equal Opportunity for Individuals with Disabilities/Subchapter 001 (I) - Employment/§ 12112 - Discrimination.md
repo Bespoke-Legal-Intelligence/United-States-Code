@@ -10,7 +10,7 @@ As used in subsection (a), the term "discriminate against a qualified individual
 
 &emsp;(1) limiting, segregating, or classifying a job applicant or employee in a way that adversely affects the opportunities or status of such applicant or employee because of the disability of such applicant or employee;
 
-&emsp;(2) participating in a contractual or other arrangement or relationship that has the effect of subjecting a covered entity's qualified applicant or employee with a disability to the discrimination prohibited by this subchapter (such relationship includes a relationship with an employment or referral agency, labor union, an organization providing fringe benefits to an employee of the covered entity, or an organization providing training and apprenticeship programs);
+&emsp;(2) participating in a contractual or other arrangement or relationship that has the effect of subjecting a covered entity's qualifiedapplicant or employee with a disability to the discrimination prohibited by this subchapter (such relationship includes a relationship with an employment or referral agency, labor union, an organization providing fringe benefits to an employee of the covered entity, or an organization providing training and apprenticeship programs);
 
 &emsp;(3) utilizing standards, criteria, or methods of administration—
 
@@ -76,7 +76,7 @@ As used in subsection (a), the term "discriminate against a qualified individual
 
 #### (3) Employment entrance examination
 
-&emsp;A covered entity may require a medical examination after an offer of employment hasbeen made to a job applicant and prior to the commencement of the employment duties of such applicant, and may condition an offer of employment on the results of such examination, if—
+&emsp;A covered entity may require a medical examination after an offer of employment has been made to a job applicant and prior to the commencement of the employment duties of such applicant, and may condition an offer of employment on the results of such examination, if—
 
 &emsp;&emsp;(A) all entering employees are subjected to such an examination regardless of disability;
 
@@ -114,7 +114,7 @@ This chapter, referred to in subsec. (d)(3)(B)(iii), was in the original "this A
 
 #### Constitutionality
 
-For constitutionality of certain provisions of this subchapter, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For the constitutionality of certain provisions of this subchapter, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 

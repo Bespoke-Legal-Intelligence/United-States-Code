@@ -38,7 +38,7 @@ The land management goals of a project under subsection (b) may include any of t
 
 #### (1) Procurement procedure
 
-&emsp;A source for performance of an agreement or contract under subsection (b) shall be selected on a best-value basis, including consideration of source under other public and private agreements or contracts.
+&emsp;A source for performance of an agreement or contract under subsection (b) shall be selectedon a best-value basis, including consideration of source under other public and private agreements or contracts.
 
 #### (2) Contract for sale of property
 
@@ -218,7 +218,7 @@ Pub. L. 115–141, div. O, title II, §207, Mar. 23, 2018, 132 Stat. 1065, provi
 
 "(a)
 
-In General.—The Secretary of Agriculture and the Secretary of the Interior may award contracts or agreements under section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511 \[6591c\]), for terms not to exceed 20 years on areas where the majority of Federal lands are in Fire Regime Groups I, II, or III.
+In General.—The Secretary of Agriculture and the Secretary of the Interior may award contracts or agreements under section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511 \[6591c\]), for termsnot to exceed 20 years on areas where the majority of Federal lands are in Fire Regime Groups I, II, or III.
 
 "(b)
 

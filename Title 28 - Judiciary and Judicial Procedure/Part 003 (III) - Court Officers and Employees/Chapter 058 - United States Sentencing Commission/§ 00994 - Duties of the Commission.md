@@ -50,7 +50,7 @@
 
 &emsp;(7) the current incidence of the offense in the community and in the Nation as a whole.
 
-(d) The Commission in establishing categories of defendants for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, with respect to a defendant,have any relevance to the nature, extent, place of service, or other incidents <sup>2</sup> of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
+(d) The Commission in establishing categories of defendants for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, with respect to a defendant, have any relevance to the nature, extent, place of service, or other incidents <sup>2</sup> of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
 
 &emsp;(1) age;
 
@@ -218,7 +218,7 @@ Subsec. (p). Pub. L. 100–690, §7109, amended subsec. (p) generally. Prior to 
 
 <b>1987</b>—Subsec. (r). Pub. L. 100–182, §23(a), substituted "two years" for "one year".
 
-Subsec. (s). Pub. L. 100–182, §23(b), struck out at end: "Within one hundred and eighty days of the filing ofsuch petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices."
+Subsec. (s). Pub. L. 100–182, §23(b), struck out at end: "Within one hundred and eighty days of the filing of such petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices."
 
 Subsec. (w). Pub. L. 100–182, §16(b), inserted "(other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline)" after "each sentence imposed".
 
@@ -260,9 +260,11 @@ Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirement that the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirementthat the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines
+
+Pub. L. 117–159, div. A, title II, §12004(a)(5), June 25, 2022, 136 Stat. 1328.—Increased penalties for an offense under section 932 or 933 of title 18 and other offenses applicable to the straw purchases and trafficking of firearms.
 
 Pub. L. 112–269, §3, Jan. 14, 2013, 126 Stat. 2442.—Transmission or attempted transmission of stolen trade secrets outside of the United States; economic espionage.
 
@@ -310,7 +312,7 @@ Pub. L. 109–76, §3, Sept. 29, 2005, 119 Stat. 2035.—False testimony and obs
 
 Pub. L. 109–9, title I, §105, Apr. 27, 2005, 119 Stat. 222.—Intellectual property rights crimes.
 
-Pub. L. 108–482, title II, §204(b), Dec. 23, 2004, 118 Stat. 3917.—Online felony offenses involving use of a domainname registered with materially false contact information.
+Pub. L. 108–482, title II, §204(b), Dec. 23, 2004, 118 Stat. 3917.—Online felony offenses involving use of a domain name registered with materially false contact information.
 
 Pub. L. 108–458, title VI, §6703(b), Dec. 17, 2004, 118 Stat. 3766.—False testimony and obstruction of justice involving international or domestic terrorism.
 

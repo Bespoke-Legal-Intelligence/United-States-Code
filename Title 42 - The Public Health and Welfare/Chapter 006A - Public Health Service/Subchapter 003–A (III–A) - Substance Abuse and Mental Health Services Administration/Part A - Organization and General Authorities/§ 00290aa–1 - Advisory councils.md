@@ -94,7 +94,7 @@
 
 #### (4) Compensation
 
-&emsp;Members of an advisory council who are officers or employees of the United States shall not receive any compensation for service on the advisory council. The remaining members of an advisory council shall receive, for each day (including travel time) they are engagedin the performance of the functions of the advisory council, compensation at rates not to exceed the daily equivalent to the annual rate in effect for grade GS–18 of the General Schedule.
+&emsp;Members of an advisory council who are officers or employees of the United States shall not receive any compensation for service on the advisory council. The remaining members of an advisory council shall receive, for each day (including travel time) they are engaged in the performance of the functions of the advisory council, compensation at rates not to exceed the daily equivalent to the annual rate in effect for grade GS–18 of the General Schedule.
 
 #### (c) Terms of office
 
@@ -160,7 +160,7 @@ Pub. L. 102–321 amended section generally, substituting provisions relating to
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–381 made technical amendment to reference to section 300aaa of this title to reflect renumbering of corresponding section of original act.
 
-<b>1988</b>—Subsec. (b)(2)(A). Pub. L. 100–527 substituted "Chief Medical Director of the Department of VeteransAffairs" for "Chief Medical Director of the Veterans' Administration".
+<b>1988</b>—Subsec. (b)(2)(A). Pub. L. 100–527 substituted "Chief Medical Director of the Department of Veterans Affairs" for "Chief Medical Director of the Veterans' Administration".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, suchcouncil is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

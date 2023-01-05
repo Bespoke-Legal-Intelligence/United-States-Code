@@ -52,7 +52,7 @@ Nothing in this section shall be construed as supporting the restriction of cove
 
 &emsp;Each State with a State plan or waiver approved under subchapter XIX shall annually report (separately or as part of the annual report required under section 1320b–9a(c) of this title), to the Secretary on the—
 
-&emsp;&emsp;(A) State-specific adult health quality measures applied by the State under such plan, including measures described in subsection (b)(5) and, beginning with the report for 2024, all behavioral health measures included in the core set of adult health quality measures maintained under such subsection (b)(5) and any updates or changes to such measures (as required under subsection (b)(3)); and
+&emsp;&emsp;(A) State-specific adult health quality measures applied by the State under suchplan, including measures described in subsection (b)(5) and, beginning with the report for 2024, all behavioral health measures included in the core set of adult health quality measures maintained under such subsection (b)(5) and any updates or changes to such measures (as required under subsection (b)(3)); and
 
 &emsp;&emsp;(B) State-specific information on the quality of health care furnished to Medicaid eligible adults under such plan, including information collected through external quality reviews of managed care organizations under section 1396u–2 of this title and benchmark plans under section 1396u–7 of this title.
 

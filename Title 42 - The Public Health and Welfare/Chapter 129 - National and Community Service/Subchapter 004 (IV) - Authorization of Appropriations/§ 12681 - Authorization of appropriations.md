@@ -132,7 +132,7 @@ Division K of subchapter I, referred to in subsec. (a)(6), was in the original "
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–13, §1841(1), added subsec. (a) and struck out former subsec. (a) which authorized appropriations for subchapter I of this chapter.
 
-Subsecs. (b) to (d). Pub. L. 111–13, §1841(2), (3), redesignated subsec. (c) as (b) and struck out former subsec.\(b), which authorized appropriations for subchapter II of this chapter, and subsec. (d), which specified the budget function for the appropriations authorized in this section.
+Subsecs. (b) to (d). Pub. L. 111–13, §1841(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b), which authorized appropriations for subchapter II of this chapter, and subsec. (d), which specified the budget function for the appropriations authorized in this section.
 
 <b>1993</b>—Pub. L. 103–82 amended section generally, substituting subsecs. (a) to (d) for former subsecs. (a) and (b) which authorized appropriations to carry out subchapter I for fiscal year 1993 and subchapter II for fiscal years 1991 to 1993.
 

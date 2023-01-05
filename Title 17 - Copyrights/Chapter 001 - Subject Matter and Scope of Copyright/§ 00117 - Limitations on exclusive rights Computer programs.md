@@ -4,7 +4,7 @@
 
 Making of Additional Copy or Adaptation by Owner of Copy.—Notwithstanding the provisions of section 106, it is not an infringement for the owner of a copy of a computer program to make or authorize the making of another copy or adaptation of that computer program provided:
 
-&emsp;(1) that such a new copy or adaptation is created as an essential step in the utilization of the computer program in conjunction with a machine and that it is used in no other manner, or
+&emsp;(1) that such a new copy or adaptation is created as an essential step in the utilization of the computer program in conjunction with amachine and that it is used in no other manner, or
 
 &emsp;(2) that such new copy or adaptation is for archival purposes only and that all archival copies are destroyed in the event that continued possession of the computer program should cease to be rightful.
 
@@ -36,7 +36,7 @@ Definitions.—For purposes of this section—
 
 As the program for general revision of the copyright law has evolved, it has become increasingly apparent that in one major area the problems are not sufficiently developed for a definitive legislative solution. This is the area of computer uses of copyrighted works: the use of a work "in conjunction with automatic systems capable of storing, processing, retrieving, or transferring information." The Commission on New Technological Uses is, among other things, now engaged in making a thorough study of the emerging patterns in this field and it will, on the basis of its findings, recommend definitive copyright provisions to deal with the situation.
 
-Since it would be premature to change existing law on computer uses at present, the purpose of section 117 is to preserve the status quo. It is intended neither to cut off any rights that may now exist, nor to createnew rights that might be denied under the Act of 1909 or under common law principles currently applicable.
+Since it would be premature to change existing law on computer uses at present, the purpose of section 117 is to preserve the status quo. It is intended neither to cut off any rights that may now exist, nor to create new rights that might be denied under the Act of 1909 or under common law principles currently applicable.
 
 The provision deals only with the exclusive rights of a copyright owner with respect to computer uses, that is, the bundle of rights specified for other types of uses in section 106 and qualified in sections 107 through 116 and 118. With respect to the copyright-ability of computer programs, the ownership of copyrights in them, the term of protection, and the formal requirements of the remainder of the bill, the new statute would apply.
 

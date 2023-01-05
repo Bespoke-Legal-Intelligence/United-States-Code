@@ -24,7 +24,7 @@
 
 #### (B) Continual reporting
 
-&emsp;&emsp;A person that is registered as a security-based swap dealer or major security-basedswap participant shall continue to submit to the Commission reports that contain such information pertaining to the business of the person as the Commission may require.
+&emsp;&emsp;A person that is registered as a security-based swap dealer or major security-based swap participant shall continue to submit to the Commission reports that contain such information pertaining to the business of the person as the Commission may require.
 
 #### (3) Expiration
 
@@ -100,7 +100,7 @@
 
 #### (C) Capital
 
-&emsp;&emsp;In setting capital requirements for a person that is designated as a security-based swap dealer or a major security-based swap participant for a single type or single class or category of security-based swap or activities, the prudential regulator and the Commission shall take into account the risks associated with other types of security-based swaps or classes of security-based swaps or categories of security-based swaps engaged in and the other activities conducted by that person that are not otherwise subject to regulation applicable to that person by virtue of the status of the person.
+&emsp;&emsp;In setting capital requirements for a person that is designated as a security-based swap dealer or a major security-based swap participant for a single type or single classor category of security-based swap or activities, the prudential regulator and the Commission shall take into account the risks associated with other types of security-based swaps or classes of security-based swaps or categories of security-based swaps engaged in and the other activities conducted by that person that are not otherwise subject to regulation applicable to that person by virtue of the status of the person.
 
 #### (3) Standards for capital and margin
 
@@ -174,7 +174,7 @@
 
 #### (1) In general
 
-&emsp;Each registered security-based swap dealer and major security-based swap participant shall maintain daily trading records of the security-based swaps of the registered security-based swap dealer and major security-based swap participant and all related records (including related cash or forward transactions) and recorded communications, including electronic mail, instant messages, and recordings of telephone calls, for such period as may be required by the Commission by rule or regulation.
+&emsp;Each registered security-based swap dealer and major security-based swap participantshall maintain daily trading records of the security-based swaps of the registered security-based swap dealer and major security-based swap participant and all related records (including related cash or forward transactions) and recorded communications, including electronic mail, instant messages, and recordings of telephone calls, for such period as may be required by the Commission by rule or regulation.
 
 #### (2) Information requirements
 

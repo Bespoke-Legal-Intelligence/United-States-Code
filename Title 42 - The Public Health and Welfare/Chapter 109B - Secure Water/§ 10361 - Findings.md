@@ -4,7 +4,7 @@ Congress finds that—
 
 &emsp;(1) adequate and safe supplies of water are fundamental to the health, economy, security, and ecology of the United States;
 
-&emsp;(2) systematic data-gathering with respect to, and research and development of, the water resources of the United States will help ensure the continued existence of sufficient quantities of water to support—
+&emsp;(2) systematic data-gathering with respect to, and research and development of, the waterresources of the United States will help ensure the continued existence of sufficient quantities of water to support—
 
 &emsp;&emsp;(A) increasing populations;
 

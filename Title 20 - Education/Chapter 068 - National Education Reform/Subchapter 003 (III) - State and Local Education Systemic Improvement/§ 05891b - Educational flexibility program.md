@@ -130,7 +130,7 @@
 
 #### (i) Annual reports
 
-&emsp;&emsp;&emsp;The State educational agency shall submit to the Secretary an annual report on the results of such oversight and the impact of the waivers on school and student performance.
+&emsp;&emsp;&emsp;The State educational agency shall submit to the Secretary an annual report onthe results of such oversight and the impact of the waivers on school and student performance.
 
 #### (ii) Performance data
 
@@ -182,7 +182,7 @@
 
 &emsp;&emsp;&emsp;Following the expiration of an approved educational flexibility program for a State that is designated an Ed-Flex Partnership State, the Secretary shall have not more than 180 days to complete a review of the performance of the State educational agency in granting waivers of Federal statutory or regulatory requirements as described in paragraph (1)(A) to determine if the State educational agency—
 
-&emsp;&emsp;&emsp;&emsp;(I) has achieved, or is making substantial progress towards achieving, the objectives described in the application submitted pursuant to paragraph (3)(A)(iii) and the specific long-term goals andmeasurements of interim progress established under section 1111(c)(4)(A)(i) of the Elementary and Secondary Education Act of 1965; and
+&emsp;&emsp;&emsp;&emsp;(I) has achieved, or is making substantial progress towards achieving, the objectives described in the application submitted pursuant to paragraph (3)(A)(iii) and the specific long-term goals and measurements of interim progress established under section 1111(c)(4)(A)(i) of the Elementary and Secondary Education Act of 1965; and
 
 &emsp;&emsp;&emsp;&emsp;(II) demonstrates that local educational agencies, educational service agencies, or schools affected by the waiver authority or waivers have achieved, or are making progress toward achieving, the desired goals described in the application submitted pursuant to paragraph (4)(A)(iii).
 
@@ -198,7 +198,7 @@
 
 #### (ii) Timing for renewal
 
-&emsp;&emsp;&emsp;The Secretary shall either approve or deny the request for renewal by not later than 90 days after completing the performance review of the State described in subparagraph (B).
+&emsp;&emsp;&emsp;The Secretary shall either approve or deny the request for renewal by not laterthan 90 days after completing the performance review of the State described in subparagraph (B).
 
 #### (iii) Determination
 

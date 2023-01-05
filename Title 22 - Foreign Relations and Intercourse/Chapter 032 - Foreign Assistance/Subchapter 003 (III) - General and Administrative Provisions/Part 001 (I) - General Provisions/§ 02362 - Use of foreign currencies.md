@@ -10,7 +10,7 @@ Any Act of the Congress making appropriations to carry out programs under this c
 
 As used in this subsection, the term "excess foreign currencies" means foreign currencies or credits owned by or owed to the United States which are, under applicable agreements with the foreign country concerned, available for the use of the United States Government and are determined by the President to be excess to the normal requirements of departments and agencies of the United States for such currencies or credits and are not prohibited from use under this subsection by an agreement entered into with the foreign country concerned.
 
-The President shall take all appropriate steps to assure that, to the maximum extent possible, United States-owned foreign currencies are utilized in lieu of dollars. Dollar funds made available pursuant to this chapter shall not be expended for goods and services when United States-owned foreign currencies are available for such purposes unless the administrative official approving the voucher certifies as to the reason for the use of dollars in each case.
+The President shall take all appropriate steps to assure that, to the maximum extent possible, United States-owned foreign currencies are utilized in lieu of dollars. Dollar funds made available pursuant to this chapter shall not be expended for goods and services when UnitedStates-owned foreign currencies are available for such purposes unless the administrative official approving the voucher certifies as to the reason for the use of dollars in each case.
 
 #### (c) Voluntary family planning programs; limitation
 
@@ -20,17 +20,17 @@ In addition to funds otherwise available, excess foreign currencies, as defined 
 
 In furnishing assistance under this chapter to the government of any country in which the United States owns excess foreign currencies as defined in subsection (b) of this section, except those currencies generated under the Food for Peace Act, as amended \[7 U.S.C. 1691 et seq.\], the President shall endeavor to obtain from the recipient country an agreement for the release, on such terms and conditions as the President shall determine, of an amount of such currencies up to the equivalent of the dollar value of assistance furnished by the United States for programs as may be mutually agreed upon by the recipient country and the United States to carry out the purposes for which new funds authorized by this chapter would themselves be available.
 
-(Pub. L. 87–195, pt. III, §612, Sept. 4, 1961, 75 Stat. 443; Pub. L. 88–205, pt. III, §301(d), Dec. 16, 1963, 77 Stat. 385; Pub. L. 88–633, pt. III, §301(c), Oct. 7, 1964, 78 Stat. 1012; Pub. L. 88–638, §2(1), Oct. 8,1964, 78 Stat. 1037; Pub. L. 89–171, pt. III, §301(b), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(e), Sept. 19, 1966, 80 Stat. 805; Pub. L. 91–175, pt. III, §302, Dec. 30, 1969, 83 Stat. 820; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
+(Pub. L. 87–195, pt. III, §612, Sept. 4, 1961, 75 Stat. 443; Pub. L. 88–205, pt. III, §301(d), Dec. 16, 1963, 77 Stat. 385; Pub. L. 88–633, pt. III, §301(c), Oct. 7, 1964, 78 Stat. 1012; Pub. L. 88–638, §2(1), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–171, pt. III, §301(b), Sept. 6, 1965, 79 Stat. 659; Pub. L. 89–583, pt. III, §301(e), Sept. 19, 1966, 80 Stat. 805; Pub. L. 91–175, pt. III, §302, Dec. 30, 1969, 83 Stat. 820; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(Q), June 18, 2008, 122 Stat. 1820.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b), and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b), and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Mutual Security Act of 1954, referred to in subsec. (a), is act Aug. 26, 1954, ch. 937, 68 Stat. 832, as amended by acts July 8, 1955, ch. 301, 69 Stat. 283; July 18, 1956, ch. 627, §§2 to 11, 70 Stat. 555; Aug. 14, 1957, Pub. L. 85–141, 71 Stat. 355; June 30, 1958, Pub. L. 85–477, ch. 1, §§101 to 103, ch. II, §§201 to 205, ch. III, §301, ch. IV, §401, ch. V, §501, 72 Stat. 261; July 24, 1959, Pub. L. 86–108, §2, ch. 1, §101, ch. II, §§201 to 205(a) to (i), (k) to (n), ch. III, §301, ch. IV, §401(a) to (k), (m), 73 Stat. 246; May 14, 1960, Pub. L. 86–472, ch. I to V, 74 Stat. 134, which was principally classified to chapter 24 (§1750 et seq.) of this title and which was repealed by act July 18, 1956, ch. 627, §8(m), 70 Stat. 559, Pub. L. 85–141, §§2(e), 3, 4(b), 11(d), Aug. 14, 1957, 71 Stat. 356, Pub. L. 86–108, ch. II, §§205(j), ch. IV, 401(1), July 24, 1959, 73 Stat. 250, Pub. L. 86–472, ch. II, §§203(d), 204(k), May 14, 1960, 74 Stat. 138, Pub. L. 87–195, pt. III, §642(a)(2), Sept. 4, 1961, 75 Stat. 460, Pub. L. 94–329, title II, §212(b)(1), June 30, 1976, 90 Stat. 745, Pub. L. 104–127, title II, §228, Apr. 4, 1996, 110 Stat. 963, except for sections 1754, 1783, 1796, 1853, 1928, and 1937 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1754 of this title and Tables.
 
-The Food for Peace Act, as amended, referred to in subsec. (d), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
+The Food for Peace Act, referred to in subsec. (d), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
 #### Amendments
 
@@ -60,7 +60,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Separate Accounts for Local Currencies and Cash Transfers
 
-Pub. L. 116–260, div. K, title VII, §7026, Dec. 27, 2020, 134 Stat. 1737, provided that:
+Pub. L. 117–328, div. K, title VII, §7026, Dec. 29, 2022, 136 Stat. 5019, provided that:
 
 "(a)
 
@@ -68,7 +68,7 @@ Separate Accounts for Local Currencies.—
 
 &emsp;"(1)
 
-Agreements.—If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961 under agreements which result in the generation of local currencies of that country, the Administrator of the United States Agency for International Development shall—
+Agreements.—If assistance is furnished to the government of a foreign country under chapters 1 and 10 of part I \[22 U.S.C. 2151 et seq., 2293 et seq.\] or chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance Act of 1961 under agreements which resultin the generation of local currencies of that country, the Administrator of the United States Agency for International Development shall—
 
 &emsp;&emsp;"(A) require that local currencies be deposited in a separate account established by that government;
 
@@ -110,7 +110,7 @@ In general.—If assistance is made available to the government of a foreign cou
 
 &emsp;"(2)
 
-Applicability of other provisions of law.—Such funds may be obligated and expended notwithstanding provisions of law which are inconsistent with the nature of this assistance including provisions which are referenced in the Joint Explanatory Statement of the Committee of Conference accompanying House Joint Resolution 648 (House Report No. 98–1159).
+Applicability of other provisions of law.—Such funds may be obligated and expended notwithstanding provisions of law which are inconsistent with the nature of this assistance, including provisions which are referenced in the Joint Explanatory Statement of the Committee of Conference accompanying House Joint Resolution 648 (House Report No. 98–1159).
 
 &emsp;"(3)
 
@@ -121,6 +121,10 @@ Notification.—At least 15 days prior to obligating any such cash transfer or n
 Exemption.—Nonproject sector assistance funds may be exempt from the requirements of paragraph (1) only through the regular notification procedures of the Committees on Appropriations."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–103, div. K, title VII, §7026, Mar. 15, 2022, 136 Stat. 609.
+
+Pub. L. 116–260, div. K, title VII, §7026, Dec. 27, 2020, 134 Stat. 1737.
 
 Pub. L. 116–94, div. G, title VII, §7026, Dec. 20, 2019, 133 Stat. 2859.
 

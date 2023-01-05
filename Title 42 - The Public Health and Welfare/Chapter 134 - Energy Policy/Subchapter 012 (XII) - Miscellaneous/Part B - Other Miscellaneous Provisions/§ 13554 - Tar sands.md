@@ -2,7 +2,7 @@
 
 #### (a) Policy
 
-It is the policy of the United States to promote the development and production, by allmeans consistent with sound engineering, economic, and environmental practices, of deposits of tar sands.
+It is the policy of the United States to promote the development and production, by all means consistent with sound engineering, economic, and environmental practices, of deposits of tar sands.
 
 #### (b) "Tar sands" defined
 

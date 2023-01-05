@@ -24,6 +24,94 @@ Pub. L. 101–510, div. A, title XII, §1201, Nov. 5, 1990, 104 Stat. 1638, prov
 
 Pub. L. 101–510, div. A, title XII, §1210(a), Nov. 5, 1990, 104 Stat. 1667, provided that: "Unless otherwise provided in this title \[see Short Title note above\] and in subsection (b) \[set out below\], the Secretary of Defense shall promulgate regulations to implement this title and the amendments made by this title not later than one year after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
+#### Acquisition Workforce Incentives Relating to Training on, and Agreements With, Certain Start-Up Businesses
+
+Pub. L. 117–263, div. A, title VIII, §834, Dec. 23, 2022, 136 Stat. 2713, provided that:
+
+"(a)
+
+Training.—
+
+&emsp;"(1)
+
+Curricula.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Director of the Acquisition Innovation Research Center shall make recommendations on one or more curricula for members of the acquisition workforce on financing and operations of start-up businesses, which may include the development of new curricula, the modification of existing curricula, or the adoption of curricula from another agency, academia, or the private sector.
+
+&emsp;"(2)
+
+Elements.—Courses under curricula recommended under paragraph (1) shall be offered with varying course lengths and level of study.
+
+&emsp;"(3)
+
+Incentives.—The Secretary of Defense shall develop a program to offer incentives to a member of the acquisition workforce that completes a curriculum developed, modified, or adopted under paragraph (1).
+
+&emsp;"(4)
+
+Additional training materials.—In recommending curricula under paragraph (1), the Director of the Acquisition Innovation Research Center shall consider and incorporate appropriate training materials from university, college, trade-school, or private-sector curricula in business, law, or public policy.
+
+"(b)
+
+Exchanges.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense shall establish a pilot program under which the Secretary shall, in accordance with section 1599g of title 10, United States Code, arrange for the temporary assignment of—
+
+&emsp;&emsp;"(A) one or more members of the acquisition workforce to a start-up business; or
+
+&emsp;&emsp;"(B) an employee of a start-up business to an office of the Department of Defense.
+
+&emsp;"(2)
+
+Priority.—The Secretary shall prioritize for participation in the pilot program described under paragraph (1)(A) members of the acquisition workforce who have completed a curriculum required under paragraph (1) \[probably means par. (1) of subsec. (a)\].
+
+&emsp;"(3)
+
+Termination.—The Secretary may not carry out the pilot program authorized by this subsection after the date that is three years after the date of the enactment of this Act.
+
+"(c)
+
+Conferences.—The Secretary of Defense shall identify existing conferences sponsored by the Department of Defense that might be expanded to include opportunities for sharing knowledge and best practices on software acquisition issues. Such opportunities shall maximize participation between members of the acquisition workforce, employees of start-up businesses, and investors in start-up businesses.
+
+"(d)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+Establishment.—Not later than 18 months after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall establish a pilot program to test the feasibility of innovative approaches to negotiating and establishing intellectual property and data rights in agreements with start-up businesses for the procurement of software and software-embedded systems.
+
+&emsp;"(2)
+
+Authority.—To the maximum extent practicable, the Secretary shall—
+
+&emsp;&emsp;"(A) ensure that a member of the acquisition workforce who has completed a curriculum required under subsection (a) is able to exercise authority to apply an approach described in paragraph (1); and
+
+&emsp;&emsp;"(B) provide incentives to such member to exercise such authority.
+
+&emsp;"(3)
+
+Elements.—An approach described in paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) Flexible and tailored requirements relating to the acquisition and licensing of intellectual property and data rights in the software and software-embedded systems to be acquired under the agreement.
+
+&emsp;&emsp;"(B) An identification and definition of the technical interoperability standards required for such software and software-embedded systems.
+
+&emsp;&emsp;"(C) Flexible mechanisms for access and delivery of code for such software, including documentation of the costs and benefits of each such mechanism.
+
+&emsp;"(4)
+
+Termination.—The Secretary may not carry out the pilot program authorized by this subsection after the date that is 5 years after the date of the enactment of this Act.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'Acquisition Innovation Research Center' means the acquisition research organization within a civilian college or university that is described under section 4142(a) of title 10, United States Code.
+
+&emsp;"(2) The term 'acquisition workforce' has the meaning given in section 101 of title 10, United States Code.
+
+&emsp;"(3) The term 'start-up business' means a small business that has been in existence for 5 years or less."
+
 #### Continuation of Pay
 
 Pub. L. 116–283, div. A, title XI, §1114(c)(2), Jan. 1, 2021, 134 Stat. 3895, provided that: "The repeal in paragraph (1) \[repealing section 1111 of Pub. L. 114–92, formerly set out as a note below\] shall not be interpreted to prohibit the payment of basic pay at rates fixed under such section 1111 before the date of the enactment of this Act \[Jan. 1, 2021\] for positions having terms that continue after that date."
@@ -80,7 +168,7 @@ Implementation.—Not later than 180 days after the date of the enactment of thi
 
 #### Pilot Program on Temporary Exchange of Financial Management and Acquisition Personnel
 
-Pub. L. 114–92, div. A, title XI, §1110, Nov. 25, 2015, 129 Stat. 1030, as amended by Pub. L. 116–283, div. A, title XVIII, §1806(e)(3)(A), Jan. 1, 2021, 134 Stat. 4156, provided that:
+Pub. L. 114–92, div. A, title XI, §1110, Nov. 25, 2015, 129 Stat. 1030, as amended by Pub. L. 116–283, div. A, title XVIII, §1806(e)(3)(A), Jan. 1, 2021, 134 Stat. 4156; Pub. L. 117–286, §4(c)(19), Dec. 27, 2022, 136 Stat. 4356, provided that:
 
 "(a)
 
@@ -152,7 +240,7 @@ Terms and Conditions for Private Sector Employees.—An employee of a nontraditi
 
 &emsp;&emsp;"(D) chapter 171 and section 1346(b) of title 28, United States Code (popularly known as the Federal Tort Claims Act), and any other Federal tort liability statute;
 
-&emsp;&emsp;"(E) the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.);
+&emsp;&emsp;"(E) chapter 131 of title 5, United States Code;
 
 &emsp;&emsp;"(F) chapter 21 of title 41, United States Code; and
 
@@ -262,7 +350,7 @@ Pub. L. 110–181, div. A, title II, §231, Jan. 28, 2008, 122 Stat. 45, as amen
 
 #### Requirements for Senior Department of Defense Officials Seeking Employment With Defense Contractors
 
-Pub. L. 110–181, div. A, title VIII, §847, Jan. 28, 2008, 122 Stat. 243, as amended by Pub. L. 113–291, div. A, title VIII, §855, title X, §1071(b)(2)(C), Dec. 19, 2014, 128 Stat. 3460, 3506, provided that:
+Pub. L. 110–181, div. A, title VIII, §847, Jan. 28, 2008, 122 Stat. 243, as amended by Pub. L. 113–291, div. A, title VIII, §855, title X, §1071(b)(2)(C), Dec. 19, 2014, 128 Stat. 3460, 3506; Pub. L. 117–263, div. A, title VIII, §821, Dec. 23, 2022, 136 Stat. 2709, provided that:
 
 "(a)
 
@@ -290,15 +378,7 @@ Administrative actions.—In the event that an official or former official of th
 
 "(b)
 
-Recordkeeping Requirement.—
-
-&emsp;"(1)
-
-Database.—Each request for a written opinion made pursuant to this section, and each written opinion provided pursuant to such a request, shall be retained by the Department of Defense in a central database or repository maintained by the General Counsel of the Department for not less than five years beginning on the date on which the written opinion was provided.
-
-&emsp;"(2)
-
-Inspector general review.—The Inspector General of the Department of Defense shall conduct periodic reviews to ensure that written opinions are being provided and retained in accordance with the requirements of this section. The first such review shall be conducted no later than two years after the date of the enactment of this Act \[Jan. 28, 2008\].
+Recordkeeping Requirement.—Each request for a written opinion made pursuant to this section, and each written opinion provided pursuant to such a request, shall be retained by the Department of Defense in a central database or repository maintained by the General Counsel of the Department for not less than five years beginning on the date on which the written opinion was provided.
 
 "(c)
 

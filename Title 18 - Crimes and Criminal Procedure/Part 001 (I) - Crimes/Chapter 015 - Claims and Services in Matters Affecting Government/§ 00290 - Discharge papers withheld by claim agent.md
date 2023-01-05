@@ -16,7 +16,7 @@ To clarify meaning of "executive department" word "executive" before "department
 
 Words "bounty", before "pension", and "or land warrant", before "of any such soldier", were deleted as obsolete. According to regulations, Circular 1151, January 8, 1929, issued by the Secretary of the Interior and the General Land Office (see 43 CFR 131.1–131.2) "warrants for bounty lands were and are issued by the Commissioner of Pensions (Administrator of Veterans' Affairs) for services in wars or battles prior to March 3, 1855 only." Further, it is stated that "Warrants can not now be 'located' upon the public lands. The locating privilege was denied except in the state of Missouri after the passage of the act of March 2, 1889 (25 Stat. 854; 43 U.S.C. §700), and there are no lands known to the General Land Office to be subject to warrant location in Missouri."
 
-Words "and honorably discharged" were omitted as unnecessary and words "or for his dependents or beneficiaries" were inserted after "United States" so as toembrace an important class of persons who employ attorneys or agents in the collection of claims permitted by statute.
+Words "and honorably discharged" were omitted as unnecessary and words "or for his dependents or beneficiaries" were inserted after "United States" so as to embrace an important class of persons who employ attorneys or agents in the collection of claims permitted by statute.
 
 Minor changes of phraseology were also made.
 

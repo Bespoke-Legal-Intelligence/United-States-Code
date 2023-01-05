@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 108–357, §833(c)(3), added subsec. (d).
 
 Subsec. (e). Pub. L. 108–357, §833(c)(4), added subsec. (e).
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–369 inserted at end "Paragraph (1)(B) shall not apply to any distributedproperty which is an interest in another partnership with respect to which the election provided in section 754 is not in effect."
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 inserted at end "Paragraph (1)(B) shall not apply to any distributed property which is an interest in another partnership with respect to which the election provided in section 754 is not in effect."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

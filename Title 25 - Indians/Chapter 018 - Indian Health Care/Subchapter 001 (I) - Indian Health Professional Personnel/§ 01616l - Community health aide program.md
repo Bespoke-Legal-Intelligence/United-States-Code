@@ -76,7 +76,7 @@ The Secretary, acting through the Community Health Aide Program of the Service, 
 
 #### (3) Report
 
-&emsp;The neutral panel shall submit to the Secretary, the Committee on Indian Affairs of the Senate, and the Committee on Natural Resources of the House of Representatives a report describing the results of the study under paragraph (2), including a description of—
+&emsp;The neutral panel shall submit to the Secretary, the Committee on Indian Affairs of theSenate, and the Committee on Natural Resources of the House of Representatives a report describing the results of the study under paragraph (2), including a description of—
 
 &emsp;&emsp;(A) any determination of the neutral panel under paragraph (2)(C); and
 

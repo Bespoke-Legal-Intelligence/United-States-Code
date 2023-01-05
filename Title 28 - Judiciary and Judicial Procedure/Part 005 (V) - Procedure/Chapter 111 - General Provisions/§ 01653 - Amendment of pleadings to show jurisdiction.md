@@ -8,7 +8,7 @@ Defective allegations of jurisdiction may be amended, upon terms, in the trial o
 
 Based on title 28, U.S.C., 1940 ed., §399 (Mar. 3, 1911, ch. 231, §274c, as added Mar. 3, 1915, ch. 90, 38 Stat. 956).
 
-Section was extended to permit amendment of all jurisdictional allegations instead of merely allegations of diversity of citizenship as provided by section 399 of title 28, U.S.C., 1940 ed.
+Section was extended to permit amendment of all jurisdictional allegations instead of merely allegations ofdiversity of citizenship as provided by section 399 of title 28, U.S.C., 1940 ed.
 
 Changes were made in phraseology.
 

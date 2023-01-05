@@ -34,7 +34,7 @@
 
 #### (4) Action by State commission
 
-&emsp;(A) The State commission shall limit its consideration of any petition under paragraph\(1) (and any response thereto) to the issues set forth in the petition and in the response, if any, filed under paragraph (3).
+&emsp;(A) The State commission shall limit its consideration of any petition under paragraph (1) (and any response thereto) to the issues set forth in the petition and in the response, if any, filed under paragraph (3).
 
 &emsp;(B) The State commission may require the petitioning party and the responding party to provide such information as may be necessary for the State commission to reach a decision on the unresolved issues. If any party refuses or fails unreasonably to respond on a timely basis to any reasonable request from the State commission, then the State commission may proceed on the basis of the best information available to it from whatever source derived.
 
@@ -88,7 +88,7 @@ In resolving by arbitration under subsection (b) any open issues and imposing co
 
 #### (3) Wholesale prices for telecommunications services
 
-&emsp;For the purposes of section 251(c)(4) of this title, a State commission shall determine wholesale rates on the basis of retail rates charged to subscribers for the telecommunications service requested, excluding the portion thereof attributable to any marketing, billing, collection, and other costs that will be avoided by the local exchange carrier.
+&emsp;For the purposes of section 251(c)(4) of this title, a State commission shall determinewholesale rates on the basis of retail rates charged to subscribers for the telecommunications service requested, excluding the portion thereof attributable to any marketing, billing, collection, and other costs that will be avoided by the local exchange carrier.
 
 #### (e) Approval by State commission
 
@@ -172,5 +172,5 @@ For purposes of this section, the term "incumbent local exchange carrier" has th
 
 #### References in Text
 
-This chapter, referred to in subsec. (g), was in the original "this Act", meaning act June 19, 1934, ch. 652,48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (g), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 

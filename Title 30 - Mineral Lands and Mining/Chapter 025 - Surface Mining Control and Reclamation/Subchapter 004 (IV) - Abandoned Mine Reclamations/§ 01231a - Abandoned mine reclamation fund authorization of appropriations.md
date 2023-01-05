@@ -8,7 +8,7 @@ There is authorized to be appropriated, for deposit into the Abandoned Mine Recl
 
 #### (1) In general
 
-&emsp;Subject to subsection (g), amounts made available under subsection (a) shall be used to provide, as expeditiously as practicable, to States and Indian Tribes described in paragraph (2) annual grants for abandoned mineland and water reclamation projects under the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201 et seq.).
+&emsp;Subject to subsection (g), amounts made available under subsection (a) shall be used to provide, as expeditiously as practicable, to States and Indian Tribes described in paragraph (2) annual grants for abandoned mine land and water reclamation projects under the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201 et seq.).
 
 #### (2) Eligible grant recipients
 
@@ -26,7 +26,43 @@ There is authorized to be appropriated, for deposit into the Abandoned Mine Recl
 
 #### (c) Covered activities
 
-Grants under subsection (b)(1) shall only be used for activities described in subsections (a) and (b) of section 403 and section 410 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1233, 1240).
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), grants under subsection (b)(1) shall only be used for activities described in subsections (a) and (b)of section 403 and section 410 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1233, 1240).
+
+#### (2) Long-term abandoned mine land reclamation
+
+#### (A) In general
+
+&emsp;&emsp;Not more than 30 percent of the total amount of a grant made annually under subsection (b)(1) may be retained by the recipient of the grant if those amounts are deposited into a long-term abandoned mine land reclamation fund established under State law, from which amounts (together with all interest earned on the amounts) are expended by the State or Indian Tribe, as applicable, for—
+
+&emsp;&emsp;&emsp;(i) the abatement of the causes and the treatment of the effects of acid mine drainage resulting from coal mining practices, including for the costs of building, operating, maintaining, and rehabilitating acid mine drainage treatment systems;
+
+&emsp;&emsp;&emsp;(ii) the prevention, abatement, and control of subsidence; or
+
+&emsp;&emsp;&emsp;(iii) the prevention, abatement, and control of coal mine fires.
+
+#### (B) Reporting requirements
+
+&emsp;&emsp;Each recipient of a grant under subsection (b)(1) that deposits grant amounts into a long-term abandoned mine land reclamation fund under subparagraph (A) shall—
+
+&emsp;&emsp;&emsp;(i) offer amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1233(c)) to reflect the use of the amounts for—
+
+&emsp;&emsp;&emsp;&emsp;(I) acid mine drainage abatement and treatment;
+
+&emsp;&emsp;&emsp;&emsp;(II) subsidence prevention, abatement, and control; and
+
+&emsp;&emsp;&emsp;&emsp;(III) coal mine fire prevention, abatement, and control; and
+
+&emsp;&emsp;&emsp;(ii) include in the annual grant report of the recipient information on the status and balance of amounts in the long-term abandoned mine land reclamation fund.
+
+#### (C) Term
+
+&emsp;&emsp;Amounts retained under subparagraph (A) shall not be subject to—
+
+&emsp;&emsp;&emsp;(i) subsection (d)(4)(B); or
+
+&emsp;&emsp;&emsp;(ii) any other limitation on the length of the term of an annual grant under subsection (b)(1).
 
 #### (d) Allocation
 
@@ -72,9 +108,9 @@ In addition to the priorities described in section 403(a) of the Surface Mining 
 
 #### (g) Reservation
 
-Of the funds made available under subsection (a), $25,000,000 shall be made available to the Secretary of the Interior to provide States and Indian Tribes with the financial and technical assistance necessary for the purpose of making amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1233(c)).
+Of the funds made available under subsection (a), $25,000,000 shall be made available to the Secretary of the Interior to provide States andIndian Tribes with the financial and technical assistance necessary for the purpose of making amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1233(c)).
 
-(Pub. L. 117–58, div. D, title VII, §40701, Nov. 15, 2021, 135 Stat. 1091.)
+(Pub. L. 117–58, div. D, title VII, §40701, Nov. 15, 2021, 135 Stat. 1091; Pub. L. 117–328, div. DD, title VIII, §801, Dec. 29, 2022, 136 Stat. 5622.)
 
 #### <b>Editorial Notes</b>
 
@@ -86,11 +122,15 @@ The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (
 
 Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 
+#### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–328 designated existing provisions as par. (1), inserted heading, substituted "Except as provided in paragraph (2), grants under" for "Grants under", and added par. (2).
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Wage Rate Requirements
 
-For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction,alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 
 #### Definitions
 

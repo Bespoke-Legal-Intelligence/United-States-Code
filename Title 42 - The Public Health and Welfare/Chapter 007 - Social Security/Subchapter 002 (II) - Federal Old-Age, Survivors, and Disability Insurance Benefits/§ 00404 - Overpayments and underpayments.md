@@ -16,7 +16,7 @@
 
 > &emsp;until section 402(x)(1) of this title no longer applies, or would no longer apply in the case of benefits that have terminated.
 
-&emsp;(iii) Nothing in clause (ii) shall be construed to limit the Commissioner's authority to withhold amounts, make adjustments, or recover amounts due under this subchapter, subchapter VIII or subchapter XVI that would be deducted from a payment that would otherwise be payable to such person but for such clause.
+&emsp;(iii) Nothing in clause (ii) shall be construed to limit the Commissioner's authority towithhold amounts, make adjustments, or recover amounts due under this subchapter, subchapter VIII or subchapter XVI that would be deducted from a payment that would otherwise be payable to such person but for such clause.
 
 (2) Notwithstanding any other provision of this section, when any payment of more than the correct amount is made to or on behalf of an individual who has died, and such payment—
 
@@ -124,7 +124,7 @@ Subsec. (f)(1). Pub. L. 106–169, §203(c), substituted "3711(f)" for "3711(e)"
 
 <b>1998</b>—Subsec. (g). Pub. L. 105–306 added subsec. (g).
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–134, which directed that subsec. (f) be amended to read as follows: "(f)(1) With respect to any deliquent amount, the Commissioner ofSocial Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, as in effect immediately after April 26, 1996.", was executed by substituting the new language for par. (1) only to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: "With respect to any delinquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, and 3718 of title 31 as in effect on October 1, 1994."
+<b>1996</b>—Subsec. (f). Pub. L. 104–134, which directed that subsec. (f) be amended to read as follows: "(f)(1) With respect to any deliquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, as in effect immediately after April 26, 1996.", was executed by substituting the new language for par. (1) only to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: "With respect to any delinquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, and 3718 of title 31 as in effect on October 1, 1994."
 
 Subsec. (f)(1). Pub. L. 104–316 substituted "sections 3711(e)" for "sections 3711(f)".
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 101–508 effective Jan. 1, 1991, and inapplicable to refun
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable with respect to determinations made on or after July 1, 1990,see section 10305(f) of Pub. L. 101–239, set out as a note under section 403 of this title.
+Amendment by Pub. L. 101–239 applicable with respect to determinations made on or after July 1, 1990, see section 10305(f) of Pub. L. 101–239, set out as a note under section 403 of this title.
 
 #### Effective Date of 1986 Amendment
 

@@ -32,13 +32,17 @@ For purposes of this section, the term "special IRP tax" means a tax imposed by�
 
 &emsp;(2) section 4974.
 
-#### (f) Cross references
+#### (f) 403(b) multiple employer plans treated as one plan
+
+In the case of annuity contracts to which this section applies and to which section 403(b) applies by reason of the plan under which such contracts are purchased meeting the requirements of paragraph (15) thereof, such plan shall be treated as a single plan for purposes of this section.
+
+#### (g) Cross references
 
 &emsp;&emsp;<b>For provisions relating to penalties for failure to file a return required by this section, see section 6652(e).</b>
 
 &emsp;&emsp;<b>For coordination between the Department of the Treasury and the Department of Labor with respect to the information required under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.</b>
 
-(Added Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 945; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §157(k)(1), Nov. 6, 1978, 92 Stat. 2809; Pub. L. 98–369, div. A, title IV, §491(d)(48), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XV, §1501(d)(1)(D), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 115–141, div. U, title IV, §401(a)(264), Mar. 23, 2018, 132 Stat. 1197.)
+(Added Pub. L. 93–406, title II, §1031(a), Sept. 2, 1974, 88 Stat. 945; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §157(k)(1), Nov. 6, 1978, 92 Stat. 2809; Pub. L. 98–369, div. A, title IV, §491(d)(48), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XV, §1501(d)(1)(D), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 115–141, div. U, title IV, §401(a)(264), Mar. 23, 2018, 132 Stat. 1197; Pub. L. 117–328, div. T, title I, §106(c), Dec. 29, 2022, 136 Stat. 5287.)
 
 #### <b>Editorial Notes</b>
 
@@ -47,6 +51,8 @@ For purposes of this section, the term "special IRP tax" means a tax imposed by�
 Section 3004 of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f), is classified to section 1204 of Title 29, Labor.
 
 #### Amendments
+
+<b>2022</b>—Subsecs. (f), (g). Pub. L. 117–328 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–141 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: "section 408(f),".
 
@@ -61,6 +67,10 @@ Subsecs. (d) to (f). Pub. L. 95–600 added subsecs. (d) and (e) and redesignate
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 106(h)(1) of Pub. L. 117–328, set out as a note under section 403 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -78,17 +88,31 @@ Pub. L. 95–600, title I, §157(k)(3), Nov. 6, 1978, 92 Stat. 2809, provided th
 
 Section effective Sept. 2, 1974, except that the requirements of subsec. (a) shall apply only with respect to plan years beginning after Sept. 2, 1974, see section 1034 of Pub. L. 93–406, set out as a note under section 6057 of this title.
 
+#### Updated Forms
+
+Pub. L. 117–328, div. T, title I, §103(c)(2), Dec. 29, 2022, 136 Stat. 5285, provided that: "The Secretary of the Treasury shall amend the forms relating to reports required under section 6058 of the Internal Revenue Code of 1986 to require—
+
+&emsp;"(A) separate reporting of the aggregate amount of contributions received by the plan during the year under section 6433 of the Internal Revenue Code of 1986 (as added by this section), and
+
+&emsp;"(B) similar reporting with respect to individual retirement accounts (as defined in section 408 of such Code) and individual retirement annuities (as defined in section 408(b) of such Code)."
+
+\[Pub. L. 117–328, div. T, title I, §103(f), Dec. 29, 2022, 136 Stat. 5286, provided that section 103(c)(2) of Pub. L. 117–328, set out above, is applicable to taxable years beginning after Dec. 31, 2026.\]
+
 #### Combined Annual Report for Group of Plans
 
-Pub. L. 116–94, div. O, title II, §202(a)–(c), (e), Dec. 20, 2019, 133 Stat. 3162, 3163, provided that:
+Pub. L. 116–94, div. O, title II, §202(a)–(c), (e), Dec. 20, 2019, 133 Stat. 3162, 3163, as amended by Pub. L. 117–328, div. T, title III, §345(a), Dec. 29, 2022, 136 Stat. 5380, provided that:
 
 "(a)
 
-In General.—The Secretary of the Treasury and the Secretary of Labor shall, in cooperation, modify the returns required under section 6058 of the Internal Revenue Code of 1986 and the reports required by section 104 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1024) so that all members of a group of plans described in subsection (c) may file a single aggregated annual return or report satisfying the requirements of both such sections.
+In General.—The Secretary of the Treasury and the Secretary of Labor shall, in cooperation, modify the returns required under section 6058 of the Internal Revenue Code of 1986 and the reports required by section 104 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1024) so that—
+
+&emsp;"(1) all members of a group of plans described in subsection (c) may file a single aggregated annual return or report satisfying the requirements of both such sections; and
+
+&emsp;"(2) any opinions required by section 103(a)(3) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1023(a)(3)) shall relate only to each individual plan which would otherwise be subject to the requirements of such section 103(a)(3).
 
 "(b)
 
-Administrative Requirements.—In developing the consolidated return or report under subsection (a), the Secretary of the Treasury and the Secretary of Labor may require such return or report to include any information regarding each plan in the group as such Secretaries determine is necessary or appropriate for the enforcement and administration of the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and shall require such information as will enable a participant in a plan to identify any aggregated return or report filed with respect to the plan.
+Administrative Requirements.—In developing the consolidated return or report under subsection (a),the Secretary of the Treasury and the Secretary of Labor may require such return or report to include any information regarding each plan in the group as such Secretaries determine is necessary or appropriate for the enforcement and administration of the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and shall require such information as will enable a participant in a plan to identify any aggregated return or report filed with respect to the plan.
 
 "(c)
 
@@ -113,6 +137,8 @@ Plans Described.—A group of plans is described in this subsection if all plans
 "(e)
 
 Effective Date.—The modification required by subsection (a) shall be implemented not later than January 1, 2022, and shall apply to returns and reports for plan years beginning after December 31, 2021."
+
+\[Pub. L. 117–328, div. T, title III, §345(b), Dec. 29, 2022, 136 Stat. 5381, provided that: "The amendments made by this section \[amending section 202(a) of Pub. L. 116–94, set out above\] shall take effect on the date of the enactment of this Act \[Dec. 29, 2022\]."\]
 
 #### Reporting Simplification
 

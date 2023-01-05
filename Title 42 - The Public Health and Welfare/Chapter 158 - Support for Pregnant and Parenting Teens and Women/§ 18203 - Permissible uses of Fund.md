@@ -8,7 +8,7 @@ A State shall use amounts received under a grant under section 18202 of this tit
 
 #### (1) In general
 
-&emsp;A State may use amounts received under a grant under section 18202 of this title to make funding available to eligible institutions of higher education to enable the eligible institutions to establish, maintain, or operate pregnant and parenting student services. Suchfunding shall be used to supplement, not supplant, existing funding for such services.
+&emsp;A State may use amounts received under a grant under section 18202 of this title to make funding available to eligible institutions of higher education to enable the eligible institutions to establish, maintain, or operate pregnant and parenting student services. Such funding shall be used to supplement, not supplant, existing funding for such services.
 
 #### (2) Application
 
@@ -90,7 +90,7 @@ A State shall use amounts received under a grant under section 18202 of this tit
 
 #### (c) Support for pregnant and parenting teens
 
-A State may use amounts received under a grant under section 18202 of this title to makefunding available to eligible high schools and community service centers to establish, maintain or operate pregnant and parenting services in the same general manner and in accordance with all conditions and requirements described in subsection (b), except that paragraph (3) of such subsection shall not apply for purposes of this subsection.
+A State may use amounts received under a grant under section 18202 of this title to make funding available to eligible high schools and community service centers to establish, maintain or operate pregnant and parenting services in the same general manner and in accordance with all conditions and requirements described in subsection (b), except that paragraph (3) of such subsection shall not apply for purposes of this subsection.
 
 #### (d) Improving services for pregnant women who are victims of domestic violence, sexual violence, sexual assault, and stalking
 

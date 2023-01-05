@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (B) Investment in employer securities
 
-&emsp;&emsp;The requirements of this subparagraph are met if, within 90 days after the transfer (orsuch longer period as the Secretary may prescribe), the amount transferred is invested in employer securities (as defined in section 409(l)) or used to repay loans used to purchase such securities.
+&emsp;&emsp;The requirements of this subparagraph are met if, within 90 days after the transfer (or such longer period as the Secretary may prescribe), the amount transferred is invested in employer securities (as defined in section 409(l)) or used to repay loans used to purchase such securities.
 
 #### (C) Allocation requirements
 
@@ -304,7 +304,7 @@ Exception.—The amendments made by this subtitle shall not apply to any reversi
 
 &emsp;"(1) in the case of plans subject to title IV of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1301 et seq.\], a notice of intent to terminate under such title was provided to participants (or if no participants, to the Pension Benefit Guaranty Corporation) before October 1, 1990,
 
-&emsp;"(2) in the case of plans subject to title I \[29 U.S.C. 1001 et seq.\] (and not to title IV) of such Act, a notice of intent to reduce future accruals under section 204(h) of such Act \[29 U.S.C. 1054(h)\] was provided toparticipants in connection with the termination before October 1, 1990,
+&emsp;"(2) in the case of plans subject to title I \[29 U.S.C. 1001 et seq.\] (and not to title IV) of such Act, a notice of intent to reduce future accruals under section 204(h) of such Act \[29 U.S.C. 1054(h)\] was provided to participants in connection with the termination before October 1, 1990,
 
 &emsp;"(3) in the case of plans not subject to title I or IV of such Act, a request for a determination letter with respect to the termination was filed with the Secretary of the Treasury or the Secretary's delegate before October 1, 1990, or
 

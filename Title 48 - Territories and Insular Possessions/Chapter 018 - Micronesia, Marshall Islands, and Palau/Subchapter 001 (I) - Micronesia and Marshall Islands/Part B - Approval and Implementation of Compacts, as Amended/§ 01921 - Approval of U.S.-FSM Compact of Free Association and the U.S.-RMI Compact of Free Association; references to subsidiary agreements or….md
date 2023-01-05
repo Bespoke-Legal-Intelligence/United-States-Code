@@ -32,7 +32,7 @@ The Compact of Free Association, as amended with respect to the Republic of the 
 
 &emsp;&emsp;(ii) Article III and IV of the agreement referred to in section 462(b)(6) of the U.S.-FSM Compact.
 
-&emsp;&emsp;(iii) Articles VI, XV, and XVII of the agreement referred to in section 462(b)(7) ofthe U.S.-FSM Compact and U.S.-RMI Compact.
+&emsp;&emsp;(iii) Articles VI, XV, and XVII of the agreement referred to in section 462(b)(7) of the U.S.-FSM Compact and U.S.-RMI Compact.
 
 #### (e) Subsidiary agreements deemed bilateral
 
@@ -80,7 +80,7 @@ Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2723, which enacted this part and pr
 
 "Whereas the United States, in accordance with section 231 of the Compact of Free Association entered into negotiations with the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands to provide continued United States assistance and to reaffirm its commitment to this close and beneficial relationship; and
 
-"Whereas these negotiations, in accordance with section 431 of the Compact, resulted in the 'Compact of Free Association, as amended between the Government of the United States of America and the Government ofthe Federated States of Micronesia' \[set out below\], and the 'Compact of Free Association, as amended between the Government of the United States of America and the Government of the Republic of the Marshall Islands' \[set out below\], which, together with their related agreements, were signed by the Government of the United States and the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands on May 14, and April 30, 2003, respectively".
+"Whereas these negotiations, in accordance with section 431 of the Compact, resulted in the 'Compact of Free Association, as amended between the Government of the United States of America and the Government of the Federated States of Micronesia' \[set out below\], and the 'Compact of Free Association, as amended between the Government of the United States of America and the Government of the Republic of the Marshall Islands' \[set out below\], which, together with their related agreements, were signed by the Government of the United States and the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands on May 14, and April 30, 2003, respectively".
 
 #### Compact of Free Association, as Amended, Between the Government of the United States of America and the Government of the Federated States of Micronesia
 

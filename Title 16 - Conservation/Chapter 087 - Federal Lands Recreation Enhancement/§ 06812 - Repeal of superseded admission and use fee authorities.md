@@ -2,7 +2,7 @@
 
 #### (a) Land and Water Conservation Fund Act
 
-Subsections (a), (b), (c), (d), (e), (f), (g), and (i) (except for paragraph (1)(C)) of section 4 <sup>1</sup> of theLand and Water Conservation Fund Act of 1965 are repealed, except that the Secretary may continue to issue Golden Eagle Passports, Golden Age Passports, and Golden Access Passports under such section until the date the notice required by section 6804(a)(3) of this title is published in the Federal Register regarding the establishment of the National Parks and Federal Recreational Lands Pass.
+Subsections (a), (b), (c), (d), (e), (f), (g), and (i) (except for paragraph (1)(C)) of section 4 <sup>1</sup> of the Land and Water Conservation Fund Act of 1965 are repealed, except that the Secretary may continue to issue Golden Eagle Passports, Golden Age Passports, and Golden Access Passports under such section until the date the notice required by section 6804(a)(3) of this title is published in the Federal Register regarding the establishment of the National Parks and Federal Recreational Lands Pass.
 
 #### (b) Recreational fee demonstration program
 
@@ -58,11 +58,11 @@ Section 315 of the Department of the Interior and Related Agencies Appropriation
 
 The National Parks Omnibus Management Act of 1998, referred to in subsecs. (d) and (e)(2), is Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3497. Section 502 of the Act was classified to section 5982 of this title, and title VI of the Act was classified generally to subchapter V (§5991 et seq.) of chapter 79 of this title, prior to repeal by subsec. (d) of this section. For complete classification of this Act to the Code, see Tables.
 
-This chapter, referred to in subsecs. (e) and (f), was in the original "this Act", and was translated as reading "this title", meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the FederalLands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
+This chapter, referred to in subsecs. (e) and (f), was in the original "this Act", and was translated as reading "this title", meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–287, §5(d)(37)(A), which directed amendment of "subsection (A)" by striking out "(16 U.S.C. 460l–6a et seq.)", was executed by striking out that language after "1965" in subsec. (a) to reflect the probable intent of Congress.
+<b>2014</b>—Subsec. (a). Pub. L. 113–287, §5(d)(37)(A), which directed amendment of "subsection (A)" by strikingout "(16 U.S.C. 460l–6a et seq.)", was executed by striking out that language after "1965" in subsec. (a) to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 113–287, §5(d)(37)(B), struck out "; 16 U.S.C. 460l–6a" after "Public Law 104–134".
 

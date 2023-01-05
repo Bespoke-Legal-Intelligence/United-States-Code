@@ -20,7 +20,7 @@ Each application under this section shall require the approval of the Attorney G
 
 &emsp;(1) the identity of the Federal officer seeking to use the pen register or trap and trace device covered by the application;
 
-&emsp;(2) a certification by the applicant that the information likely to be obtained is foreign intelligence information not concerning a United States person or is relevant to an ongoing investigation to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solelyupon the basis of activities protected by the first amendment to the Constitution; and
+&emsp;(2) a certification by the applicant that the information likely to be obtained is foreign intelligence information not concerning a United States person or is relevant to an ongoing investigation to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution; and
 
 &emsp;(3) a specific selection term to be used as the basis for the use of the pen register or trap and trace device.
 
@@ -84,11 +84,11 @@ Each application under this section shall require the approval of the Attorney G
 
 (1) Except as provided in paragraph (2), an order issued under this section shall authorize the installation and use of a pen register or trap and trace device for a period not to exceed 90 days. Extensions of such an order may be granted, but only upon an application for an order under this section and upon the judicial finding required by subsection (d). The period of extension shall be for a period not to exceed 90 days.
 
-(2) In the case of an application under subsection (c) where the applicant has certified that the information likely to be obtained is foreign intelligence information not concerning a United States person, an order, or an extension of an order, under this section may be for a period not to exceed one year.
+(2) In the case of an application under subsection (c) where the applicant has certified that the information likely to be obtained is foreign intelligence information not concerning a United States person, an order, or an extensionof an order, under this section may be for a period not to exceed one year.
 
 #### (f) Cause of action barred
 
-No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) thatfurnishes any information, facilities, or technical assistance under subsection (d) in accordance with the terms of an order issued under this section.
+No cause of action shall lie in any court against any provider of a wire or electronic communication service, landlord, custodian, or other person (including any officer, employee, agent, or other specified person thereof) that furnishes any information, facilities, or technical assistance under subsection (d) in accordance with the terms of an order issued under this section.
 
 #### (g) Furnishing of results
 

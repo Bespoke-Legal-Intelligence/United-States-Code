@@ -82,7 +82,7 @@ Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (a), i
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, in third sentence of concluding provisions, substituted "administratively (including travel by the employee to such event and the return of the employee from such event to the employee's official duty station)." for "administratively."
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, in third sentence of concluding provisions, substituted "administratively (including travel by the employee to such event and thereturn of the employee from such event to the employee's official duty station)." for "administratively."
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, which directed the amendment of subsec. (a) by inserting after the fourth sentence "For employees serving outside the United States in areas where Sunday is a routine workday and another day of the week is officially recognized as the day of rest and worship, the Secretary of State may designate the officially recognized day of rest and worship as the day with respect to which the preceding sentence shall apply instead of Sunday.", was executed by making the insertion after the first sentence of the concluding provisions, to reflect the probable intent of Congress.
 

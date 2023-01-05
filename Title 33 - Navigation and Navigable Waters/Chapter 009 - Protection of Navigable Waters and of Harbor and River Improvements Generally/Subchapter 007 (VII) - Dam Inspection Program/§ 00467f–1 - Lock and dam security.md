@@ -2,7 +2,7 @@
 
 #### (a) Standards
 
-The Secretary, in consultation with the Federal Emergency Management Agency, the Tennessee Valley Authority, and the Coast Guard, shall develop standards for the security of locks and dams, including the testing and certification of vessel exclusion barriers.
+The Secretary, in consultation with the Federal Emergency Management Agency, the Tennessee Valley Authority, and the Coast Guard,shall develop standards for the security of locks and dams, including the testing and certification of vessel exclusion barriers.
 
 #### (b) Site surveys
 

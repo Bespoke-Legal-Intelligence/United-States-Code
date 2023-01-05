@@ -26,7 +26,7 @@ In general.—To be eligible for assistance under the TIFIA program, a project s
 
 &emsp;&emsp;&emsp;(iii) an investment grade rating from at least 2 rating agencies on debt senior to the Federal credit instrument; and
 
-&emsp;&emsp;&emsp;(iv) an investment-grade rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than$150,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.
+&emsp;&emsp;&emsp;(iv) an investment-grade rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $150,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.
 
 &emsp;&emsp;(B)
 
@@ -96,7 +96,7 @@ Public sponsorship of private entities.—In the case of a project that is under
 
 &emsp;(8)
 
-Applications where obligor will be identified later.—A State, local government, agency or instrumentality of a State or local government, or public authority may submit to the Secretary an application under paragraph (4), under which a private party to a public-private partnership will be—
+Applications where obligor will be identified later.—A State, local government,agency or instrumentality of a State or local government, or public authority may submit to the Secretary an application under paragraph (4), under which a private party to a public-private partnership will be—
 
 &emsp;&emsp;(A) the obligor; and
 
@@ -192,7 +192,7 @@ Written determination.—If payment and performance security is required to be f
 
 &emsp;&emsp;(C)
 
-No determination or applicable requirements.—If there are no payment and performance security requirements applicable to the obligor, the security under section 3131(b) of title 40 or an equivalent State or local requirement, as determined by the Secretary, shall be required.
+No determination or applicable requirements.—If there are no payment and performance security requirements applicable to the obligor, the security under section 3131(b) of title 40 or an equivalent State orlocal requirement, as determined by the Secretary, shall be required.
 
 (d)
 
@@ -224,7 +224,7 @@ Development Phase Activities.—Any credit instrument secured under the TIFIA pr
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (c)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241.Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (c)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(B), (2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 

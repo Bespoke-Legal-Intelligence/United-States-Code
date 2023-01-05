@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 1 year after December 27, 2020, and not later than June 1 of each year thereafter, a group health plan or health insurance issuer offering group or individual health insurance coverage (except for a church plan) shall submit to the Secretary, the Secretary of Labor, and the Secretary of the Treasury the following information with respect to the health plan or coverage in the previous plan year:
+Not later than 1 year after December 27, 2020, and not later than June 1 of each year thereafter, a group health plan or health insurance issuer offering group or individual health insurance coverage (except for a church plan) shall submit to the Secretary, the Secretary of Labor,and the Secretary of the Treasury the following information with respect to the health plan or coverage in the previous plan year:
 
 &emsp;(1) The beginning and end dates of the plan year.
 

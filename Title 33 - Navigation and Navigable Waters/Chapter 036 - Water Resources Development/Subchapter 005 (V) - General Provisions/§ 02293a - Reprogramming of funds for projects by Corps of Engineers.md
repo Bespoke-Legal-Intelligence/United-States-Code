@@ -8,5 +8,5 @@ None of the funds made available before, on, or after June 15, 2006, in an appro
 
 #### Codification
 
-Section was enacted as part of the Emergency Supplemental Appropriations Act for Defense, the Global War on Terror, and Hurricane Recovery, 2006, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Emergency Supplemental Appropriations Act for Defense, the GlobalWar on Terror, and Hurricane Recovery, 2006, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 

@@ -12,7 +12,7 @@ Conduct of Review.—Each quadrennial quality of life review shall be conducted 
 
 &emsp;(1) to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 3043);
 
-&emsp;(2) to identify actions that are needed in order to provide members of the armed forces with the quality of life reasonably necessaryto encourage the successful execution of the full range of missions that the members are called on to perform under the national security strategy; and
+&emsp;(2) to identify actions that are needed in order to provide members of the armed forces with the quality of life reasonably necessary to encourage the successful execution of the full range of missions that the members are called on to perform under the national security strategy; and
 
 &emsp;(3) to identify other actions that have the potential for improving the quality of life of the members of the armed forces.
 
@@ -52,7 +52,7 @@ Considerations.—The Secretary shall consider addressing the following matters 
 
 (d)
 
-Submission to Congressional Committees.—(1) The Secretary shall submit a report on each quadrennial quality of life review to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report shall include the following:
+Submission to Congressional Committees.—(1) The Secretary shall submit a reporton each quadrennial quality of life review to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The report shall include the following:
 
 &emsp;(A) The assumptions used in the review.
 

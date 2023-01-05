@@ -12,6 +12,10 @@ This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 408
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–263, div. H, title LXXXI, §8001(a), Dec. 23, 2022, 136 Stat. 3691, provided that: "This title \[see Tables for classification\] may be cited as the 'Water Resources Development Act of 2022'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–260, div. AA, §1(a), Dec. 27, 2020, 134 Stat. 2615, provided that: "This division \[see Tables for classification\] may be cited as the 'Water Resources Development Act of 2020'."
@@ -54,7 +58,7 @@ Pub. L. 102–580, §1(a), Oct. 31, 1992, 106 Stat. 4797, provided that: "This A
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–640, §1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: "This Act \[enacting sections 59bb and 2316 to 2324 of this title, amending sections 579a, 652, 701n, 709a, 2213, 2215, 2232, 2238, 2281, 2309a, and 2314a of this title, section 460tt of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, repealing sections 579 and 2239 of this title, enacting provisions set out as notes under this section, sections426e, 1252, 1268, 2213, 2232, 2239, 2313, and 2317 of this title, and section 1405c of Title 48, Territories and Insular Possessions, and amending provisions set out as notes under sections 2294 and 2314 of this title and section 460d of Title 16\] may be cited as the 'Water Resources Development Act of 1990'."
+Pub. L. 101–640, §1(a), Nov. 28, 1990, 104 Stat. 4604, provided that: "This Act \[enacting sections 59bb and 2316 to 2324 of this title, amending sections 579a, 652, 701n, 709a, 2213, 2215, 2232, 2238, 2281, 2309a, and 2314a of this title, section 460tt of Title 16, Conservation, and section 1962d–16 of Title 42, The Public Health and Welfare, repealing sections 579 and 2239 of this title, enacting provisions set out as notes under this section, sections 426e, 1252, 1268, 2213, 2232, 2239, 2313, and 2317 of this title, and section 1405c of Title 48, Territories and Insular Possessions, and amending provisions set out as notes under sections 2294 and 2314 of this title and section 460d of Title 16\] may be cited as the 'Water Resources Development Act of 1990'."
 
 #### Short Title of 1988 Amendment
 
@@ -64,11 +68,11 @@ Pub. L. 100–676, §1(a), Nov. 17, 1988, 102 Stat. 4012, provided that: "This A
 
 Pub. L. 99–662, §1(a), Nov. 17, 1986, 100 Stat. 4082, provided that: "This Act \[enacting this chapter and sections 59n–1, 59v, 59w, 403b, 426n, 426o, 467f to 467n, 555a, 579a, 652, 701b–12, 709b, 988a, and 1414a of this title, sections 460tt of Title 16, Conservation, sections 4461, 4462, 9505, and 9506 of Title 26, Internal Revenue Code, section 483d of former Title 40, Public Buildings, Property, and Works, and sections 1962d–11b and 1962d–20 of Title 42, The Public Health and Welfare, amending sections 409, 414, 415, 426g, 426i, 426j, 426m, 467, 467b, 555, 557, 603a, 610, 701a–1, 701g, 701n, 701r, 701s, 984, and 1804 of this title, section 3036 of Title 10, Armed Forces, sections 460ee and 1002 of Title 16, section 4042 of Title 26, sections 1962d–5a, 1962d–5b, 1962d–5d, 1962d–5f, and 1962d–16 of Title 42, sections 390 and 390b of Title 43, Public Lands, and section 1121–1 of Title 46, Appendix, Shipping, repealing sections 1801 and 1802 of this title, enacting provisions set out as notes under this section, sections 426, 426g, 467, 661, 984, 988, 1414a, and 2294 of this title, sections 460d and 1004 of Title 16, sections 1, 4042, 4461, 9505, and 9506 of Title 26, sections 1962d–5b, 1962d–20, and 10301 of Title 42, and section 390b of Title 43, and amending provisions set out as a note under section 1962b–3 of Title 42\] may be cited as the 'Water Resources Development Act of 1986'."
 
-Pub. L. 99–662, title II, §215, Nov. 17, 1986, 100 Stat. 4109, provided that: "This title \[enacting subchapter II of this chapter\] may be cited as the 'Harbor Development and Navigation Improvement Act of 1986'."
+Pub. L. 99–662, title II, §215, Nov. 17, 1986, 100 Stat. 4109, provided that: "This title \[enacting subchapter IIof this chapter\] may be cited as the 'Harbor Development and Navigation Improvement Act of 1986'."
 
 #### Pilot Programs on the Formulation of Corps of Engineers Projects in Rural Communities and Economically Disadvantaged Communities
 
-Pub. L. 116–260, div. AA, title I, §118, Dec. 27, 2020, 134 Stat. 2629, provided that:
+Pub. L. 116–260, div. AA, title I, §118, Dec. 27, 2020, 134 Stat. 2629, as amended by Pub. L. 117–263, div. H, title LXXXI, §8118(a), Dec. 23, 2022, 136 Stat. 3710, provided that:
 
 "(a)
 
@@ -86,11 +90,11 @@ In general.—Not later than 180 days after the date of enactment of this Act \[
 
 Participation in pilot program.—In carrying out paragraph (1), the Secretary shall—
 
-&emsp;&emsp;"(A) publish a notice in the Federal Register that requests from non-Federal interests proposals for the potential feasibility study of a flood risk management project or hurricane and storm damage risk reduction project for an economically disadvantaged community;
+&emsp;&emsp;"(A) annually publish a notice in the Federal Register that requests from non-Federal interests proposals for the potential feasibility study of a flood risk management project or hurricane and storm damage risk reduction project for an economically disadvantaged community;
 
 &emsp;&emsp;"(B) upon request of a non-Federal interest for such a project, provide technical assistance to such non-Federal interest in the formulation of a proposal for a potential feasibility study to be submitted to the Secretary under the pilot program; and
 
-&emsp;&emsp;"(C) review such proposals and select 10 feasibility studies for such projects to be carried out by the Secretary, in coordination with the non-Federal interest, under this pilot program.
+&emsp;&emsp;"(C) review such proposals and, subject to the availability of appropriations, annually select 10 feasibility studies for such projects to be carried out by the Secretary, in coordination with the non-Federal interest, under this pilot program.
 
 &emsp;"(3)
 
@@ -130,7 +134,7 @@ In general.—Not later than 180 days after the date of enactment of this Act, t
 
 &emsp;"(2)
 
-Considerations.—In carrying out this subsection, the Secretary may make a recommendation to Congress on up to 10 projects, without demonstrating that the project is justified solely by national economic development benefits, if the Secretary determines that—
+Considerations.—In carrying out this subsection, the Secretary may make a recommendation to Congress on up to 10 projects annually, without demonstrating that the project is justified solely by national economic development benefits, if the Secretary determines that—
 
 &emsp;&emsp;"(A) the community to be served by the project is an economically disadvantaged community or a rural community;
 
@@ -238,7 +242,7 @@ Savings provision.—Nothing in this section authorizes the elimination of any e
 
 #### Continuing Authority Programs
 
-Pub. L. 116–260, div. AA, title I, §165, Dec. 27, 2020, 134 Stat. 2668, provided that:
+Pub. L. 116–260, div. AA, title I, §165, Dec. 27, 2020, 134 Stat. 2668, as amended by Pub. L. 117–263, div. H, title LXXXI, §8118(b), Dec. 23, 2022, 136 Stat. 3711, provided that:
 
 "(a)
 
@@ -254,7 +258,7 @@ Participation in pilot program.—In carrying out paragraph (1), the Secretary s
 
 &emsp;&emsp;"(A) publish a notice in the Federal Register that requests non-Federal interest proposals for a project under a continuing authority program for an economically disadvantaged community; and
 
-&emsp;&emsp;"(B) review such proposals and select a total of 10 projects, taking into consideration geographic diversity among the selected projects.
+&emsp;&emsp;"(B) review such proposals and select a total of 20 projects, taking into consideration geographic diversity among the selected projects.
 
 &emsp;"(3)
 
@@ -290,7 +294,7 @@ Regional sediment management.—Notwithstanding section 204(g) of the Water Reso
 
 &emsp;"(5)
 
-Small flood control projects.—Notwithstanding section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), there is authorized to be appropriated to carry out such section $69,250,000 for each of fiscal years 2021 through 2024.
+Small flood control projects.—Notwithstanding section 205 of the Flood Control Act of 1948\(33 U.S.C. 701s), there is authorized to be appropriated to carry out such section $69,250,000 for each of fiscal years 2021 through 2024.
 
 &emsp;"(6)
 
@@ -384,7 +388,7 @@ Purposes.—The purposes of the pilot program are—
 
 &emsp;&emsp;"(B) to evaluate the technical, financial, and organizational efficiencies of a non-Federal interest carrying out a feasibility study of 1 or more projects; and
 
-&emsp;&emsp;"(C) to evaluate alternatives for the decentralization of the project planning, management, andoperational decisionmaking process of the Corps of Engineers.
+&emsp;&emsp;"(C) to evaluate alternatives for the decentralization of the project planning, management, and operational decisionmaking process of the Corps of Engineers.
 
 &emsp;"(3)
 
@@ -532,7 +536,7 @@ In general.—In carrying out the pilot program, the Secretary shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) not more than 5 projects that have been authorized for construction, but did not receive the authorization prior to the date of enactment of this Act;
 
-&emsp;&emsp;&emsp;"(ii) notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the identification of each project under the pilot program;
+&emsp;&emsp;&emsp;"(ii) notify the Committee on Environment and Public Works of the Senate and the Committee onTransportation and Infrastructure of the House of Representatives on the identification of each project under the pilot program;
 
 &emsp;&emsp;&emsp;"(iii) in collaboration with the non-Federal interest, develop a detailed project management plan for each identified project that outlines the scope, budget, design, and construction resource requirements necessary for the non-Federal interest to execute the project, or a separable element of the project;
 
@@ -618,11 +622,11 @@ New project partnership agreements.—The Secretary may not enter into a project
 
 #### Water Infrastructure Public-Private Partnership Pilot Program
 
-Pub. L. 113–121, title V, §5014, June 10, 2014, 128 Stat. 1329, provided that:
+Pub. L. 113–121, title V, §5014, June 10, 2014, 128 Stat. 1329, as amended by Pub. L. 117–263, div. H, title LXXXI, §8147, Dec. 23, 2022, 136 Stat. 3730, provided that:
 
 "(a)
 
-In General.—The Secretary \[of the Army\] shall establish a pilot program to evaluate the cost effectiveness and project delivery efficiency of allowing non-Federal pilot applicants to carry out authorized water resources development projects for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, aquatic ecosystem restoration, and hurricane and storm damage reduction.
+In General.—The Secretary \[of the Army\] shall establish a pilot program to evaluate the cost effectiveness and project delivery efficiency of allowing non-Federal pilot applicants to carry out authorized water resources development projects for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, ecosystem restoration, and hurricane and storm damage reduction.
 
 "(b)
 
@@ -640,7 +644,7 @@ Subsequent Appropriations.—Any activity undertaken under this section is autho
 
 Administration.—In carrying out the pilot program established under subsection (a), the Secretary shall—
 
-&emsp;"(1) identify for inclusion in the program at least 15 projects that are authorized for construction for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, or hurricane and storm damage reduction;
+&emsp;"(1) identify for inclusion in the program at least 15 projects that are authorized for construction for coastal harbor improvement, channel improvement, inland navigation, flood damage reduction, ecosystem restoration, or hurricane and storm damage reduction;
 
 &emsp;"(2) notify in writing the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of each project identified under paragraph (1);
 
@@ -748,7 +752,7 @@ Cost Share.—Nothing in this section affects a cost-sharing requirement under F
 
 "(n)
 
-Report.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report describing the results of the pilot program established under subsection (a), including any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis.
+Report.—Not later than 3 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report describing the resultsof the pilot program established under subsection (a), including any recommendations of the Secretary concerning whether the program or any component of the program should be implemented on a national basis.
 
 "(o)
 
@@ -861,6 +865,8 @@ Considerations.—In defining the term 'economically disadvantaged community' un
 Public Comment.—In developing the guidance under subsection (a), the Secretary shall provide notice and an opportunity for public comment."
 
 #### "Secretary" Defined
+
+Pub. L. 117–263, div. H, title LXXXI, §8002, Dec. 23, 2022, 136 Stat. 3694, provided that: "In this title \[see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 
 Pub. L. 116–260, div. AA, §2, Dec. 27, 2020, 134 Stat. 2618, provided that: "In this Act \[div. AA of Pub. L. 116–260, see Tables for classification\], the term 'Secretary' means the Secretary of the Army."
 

@@ -82,7 +82,7 @@ Each serious adverse event report under this section shall be submitted to the S
 
 #### (1) Maintenance
 
-&emsp;The responsible person shall maintain records related to each report of an adverse event received by the responsible person for a period of 6 years.
+&emsp;The responsible person shall maintain records related to each report of an adverseevent received by the responsible person for a period of 6 years.
 
 #### (2) Records inspection
 

@@ -24,7 +24,7 @@ Subsec. (c). Pub. L. 110–246, §3005(2), struck out subsec. (c) which related 
 
 <b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions outlining eligibility of developing countries for assistance under this subchapter and factors in determining priority for assistance.
 
-<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing Commodity Credit Corporation to finance sales fromits own and private stocks, and allowing it, upon request, to serve as purchasing and/or shipping agent.
+<b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing Commodity Credit Corporation to finance sales from its own and private stocks, and allowing it, upon request, to serve as purchasing and/or shipping agent.
 
 <b>1977</b>—Pub. L. 95–113 inserted provisions authorizing the Corporation, when requested by the purchaser of commodities, to serve as the purchasing or shipping agent, or both, in arranging the purchasing or shipping of the commodities.
 
@@ -34,7 +34,7 @@ Pub. L. 95–88 struck out proviso prohibiting the financing by the Commodity Cr
 
 <b>1966</b>—Pub. L. 89–808 incorporated provisions formerly constituting subsec. (a)(2), and struck out other provisions of subsec. (a) and (a)(1) relating to availability of stocks acquired in price support operations and ocean freight charges, such charges now covered by section 1708 of this title, and subsec. (b) for letters of commitment against funds or guaranties and establishment of accounts.
 
-<b>1964</b>—Subsec. (a). Pub. L. 88–638 authorized Commodity Credit Corporation to finance ocean freight charges incurred under agreements entered into after Dec. 31, 1964, to extent such charges are higher because of requirement that commodities be shipped in United States flag vessels, and provided that such agreements require balance of such charges to be paid in dollars.
+<b>1964</b>—Subsec. (a). Pub. L. 88–638 authorized Commodity Credit Corporation to finance ocean freight charges incurred under agreements entered into after Dec. 31, 1964, to extent such charges are higher becauseof requirement that commodities be shipped in United States flag vessels, and provided that such agreements require balance of such charges to be paid in dollars.
 
 <b>1955</b>—Subsec. (a). Act Apr. 25, 1955, struck out requirement that exporters of privately owned stocks acquire an equivalent quantity of Commodity Credit Corporation stocks.
 

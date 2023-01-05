@@ -11,7 +11,7 @@
 | [9037\.](%C2%A7%2009037%20-%20Judge%20Advocate%20General%2C%20Deputy%20Judge%20Advocate%20General%20appointment%3B%20duties.md) | Judge Advocate General, Deputy Judge Advocate General: appointment; duties. |
 | [9038\.](%C2%A7%2009038%20-%20Office%20of%20Air%20Force%20Reserve%20appointment%20of%20Chief.md) | Office of Air Force Reserve: appointment of Chief. |
 | [9039\.](%C2%A7%2009039%20-%20Chief%20of%20Chaplains%20appointment%3B%20duties.md) | Chief of Chaplains: appointment; duties. |
-| [9040\.](%C2%A7%2009040%20-%20Oversight%20of%20nuclear%20deterrence%20mission.md) | Oversight of nuclear deterrence mission.<br> |
+| [9040\.](%C2%A7%2009040%20-%20Oversight%20of%20nuclear%20deterrence%20mission.md) | Oversight of nuclear deterrence mission. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -58,13 +58,13 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (5) Indirect sales or offers for sale
 
-&emsp;If the foreign like product is sold or, in the absence of sales, offered for sale through an affiliated party, the prices at which the foreign like product is sold (or offered for sale) bysuch affiliated party may be used in determining normal value.
+&emsp;If the foreign like product is sold or, in the absence of sales, offered for sale through an affiliated party, the prices at which the foreign like product is sold (or offered for sale) by such affiliated party may be used in determining normal value.
 
 #### (6) Adjustments
 
 &emsp;The price described in paragraph (1)(B) shall be—
 
-&emsp;&emsp;(A) increased by the cost of all containers and coverings and all other costs, charges, and expenses incident to placing the subject merchandise in condition packed ready for shipment to the United States;
+&emsp;&emsp;(A) increased by the cost of all containers and coverings and all other costs, charges,and expenses incident to placing the subject merchandise in condition packed ready for shipment to the United States;
 
 &emsp;&emsp;(B) reduced by—
 
@@ -122,7 +122,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (i) Review
 
-&emsp;&emsp;&emsp;In a review conducted under section 1675 of this title involving a specific exporter, there are reasonable grounds to believe or suspect that sales of the foreign like product have been made at prices that are less than the cost of production of the product if the administering authority disregardedsome or all of the exporter's sales pursuant to paragraph (1) in the investigation or, if a review has been completed, in the most recently completed review.
+&emsp;&emsp;&emsp;In a review conducted under section 1675 of this title involving a specific exporter, there are reasonable grounds to believe or suspect that sales of the foreign like product have been made at prices that are less than the cost of production of the product if the administering authority disregarded some or all of the exporter's sales pursuant to paragraph (1) in the investigation or, if a review has been completed, in the most recently completed review.
 
 #### (ii) Requests for information
 
@@ -200,7 +200,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (5) Discretion to disregard certain price or cost values
 
-&emsp;In valuing the factors of production under paragraph (1) for the subject merchandise, the administering authority may disregard priceor cost values without further investigation if the administering authority has determined that broadly available export subsidies existed or particular instances of subsidization occurred with respect to those price or cost values or if those price or cost values were subject to an antidumping order.
+&emsp;In valuing the factors of production under paragraph (1) for the subject merchandise, the administering authority may disregard price or cost values without further investigation if the administering authority has determined that broadly available export subsidies existed or particular instances of subsidization occurred with respect to those price or cost values or if those price or cost values were subject to an antidumping order.
 
 #### (d) Special rule for certain multinational corporations
 
@@ -292,7 +292,7 @@ Subsec. (b)(2)(A). Pub. L. 114–27, §505(a), added subpar. (A) and struck out 
 
 Subsec. (c)(5). Pub. L. 114–27, §505(b), added par. (5).
 
-Subsec. (e). Pub. L. 114–27, §504(c)(2), in concluding provisions, substituted "For purposes of paragraph (1), if a particular market situation exists such that the cost of materials and fabrication or other processing of any kind does not accurately reflect the cost of production in the ordinary course of trade, the administering authority may use another calculation methodology under this part or any other calculation methodology.For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition that is remitted or refunded upon exportation of the subject merchandise produced from such materials." for "For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials."
+Subsec. (e). Pub. L. 114–27, §504(c)(2), in concluding provisions, substituted "For purposes of paragraph (1), if a particular market situation exists such that the cost of materials and fabrication or other processing of any kind does not accurately reflect the cost of production in the ordinary course of trade, the administering authority may use another calculation methodology under this part or any other calculation methodology. For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition that is remitted or refunded upon exportation of the subject merchandise produced from such materials." for "For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remittedor refunded upon exportation of the subject merchandise produced from such materials."
 
 Subsec. (e)(1). Pub. L. 114–27, §504(c)(1), substituted "trade" for "business".
 

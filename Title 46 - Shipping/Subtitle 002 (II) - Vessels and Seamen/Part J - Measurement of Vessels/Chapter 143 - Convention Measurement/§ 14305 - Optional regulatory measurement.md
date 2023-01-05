@@ -1,6 +1,6 @@
 ### §14305. Optional regulatory measurement
 
-(a) On request of the owner of a vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States, the Secretary also shall measure the vessel under chapter 145 of this title. The tonnages determined under that chapter shall be used in applying—
+(a) On request of the owner of a vessel measured under this chapter that is of United Statesregistry or nationality, or a vessel operated under the authority of the United States, the Secretary also shall measure the vessel under chapter 145 of this title. The tonnages determined under that chapter shall be used in applying—
 
 &emsp;(1) parts A, B, C, E, F, and G of this subtitle and section 12116 of this title;
 
@@ -10,7 +10,7 @@
 
 &emsp;(4) section 4(a)(3) <sup>1</sup> of the Ports and Waterways Safety Act (33 U.S.C. 1223(a)(3));
 
-&emsp;(5) section 30506 of this title;
+&emsp;(5) section 30524 of this title;
 
 &emsp;(6) sections 12118 and 12132 of this title;
 
@@ -34,7 +34,7 @@
 
 (b) As long as the owner of a vessel has a request in effect under subsection (a) of this section, the tonnages determined under that request shall be used in applying the other provisions of law described in subsection (a) to that vessel.
 
-(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921; Pub. L. 109–304, §15(26), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 111–281, title III, §303(f), Oct. 15, 2010, 124 Stat. 2925; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8503(a)(2), Jan. 1, 2021, 134 Stat. 4747.)
+(Pub. L. 99–509, title V, §5101(3), Oct. 21, 1986, 100 Stat. 1921; Pub. L. 109–304, §15(26), Oct. 6, 2006, 120 Stat. 1704; Pub. L. 111–281, title III, §303(f), Oct. 15, 2010, 124 Stat. 2925; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8503(a)(2), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 117–263, div. K, title CXV, §11503(f)(1), Dec. 23, 2022, 136 Stat. 4131.)
 
 #### Historical and Revision Notes
 
@@ -42,7 +42,7 @@
 
 Source: International Convention on Tonnage Measurement of Ships.
 
-Section 14305 requires that the Secretary measure a vessel under chapter 145 (Regulatory Measurement) of this title (in addition to measuring it under the Convention) at the request of the owner. For vessels that have obtained a regulatory tonnage measurementunder this section, the Secretary is required to use the regulatory tonnage measurement to determine the application of those laws listed in section 14305(a) and those not listed by the Secretary by regulation, as provided in section 14302(c). It is the intent of the Committee to list in section 14305(a) certain U.S. tonnage-based laws that would impose increased regulatory burdens on industry if the Convention measurement were used for applicability determinations.
+Section 14305 requires that the Secretary measure a vessel under chapter 145 (Regulatory Measurement) of this title (in addition to measuring it under the Convention) at the request of the owner. For vessels that have obtained a regulatory tonnage measurement under this section, the Secretary is required to use the regulatory tonnage measurement to determine the application of those laws listed in section 14305(a) and those not listed by the Secretary by regulation, as provided in section 14302(c). It is the intent of the Committee to list in section 14305(a) certain U.S. tonnage-based laws that would impose increased regulatory burdens on industry if the Convention measurement were used for applicability determinations.
 
 Clause (1) of section 14305(a) includes the following parts of subtitle II of title 46, U.S.C.:
 
@@ -72,7 +72,7 @@ The International Convention for the Safety of Life at Sea: IMCO Resolution A.49
 
 The International Convention on Standards of Training, Certification, and Watchkeeping for Seafarers, 1978: IMO Resolution A.540 (XIII) of November 17, 1983, provides "that the revised interim scheme for tonnage measurement for certain ships adopted by resolution A.494 (XII), \[described above\] should also be applicable in respect of the provision of the International Convention, and Watchkeeping for Seafarers, 1978."
 
-The International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 Relating to the International Convention for the Prevention of Pollution from Ships, 1973: IMO Resolution A.541 (XIII) of November 17, 1983, provides that:
+The International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 Relating to the International Convention for thePrevention of Pollution from Ships, 1973: IMO Resolution A.541 (XIII) of November 17, 1983, provides that:
 
 &emsp;At the request of a shipowner, the Administration may allow a ship of less than 400 tons gross tonnage (measured under the previous national tonnage rules) the keel of which is laid on or before 31 December 1985 and which is required to be measured under the provisions of the International Convention on Tonnage Measurement of Ships, 1969, to use the gross tonnage measured under the national tonnage rules which were in effect prior to the coming into force of the 1969 Tonnage Convention, for the purpose of application of the provisions of MARPOL 73/78. Such tonnage, however, shall not be shown on the 1969 Tonnage Certificate.
 
@@ -92,7 +92,7 @@ Section 4 of the Bridge to Bridge Radiotelephone Act (33 U.S.C. 1203(a)), referr
 
 Section 4(a)(3) of the Ports and Waterways Safety Act (33 U.S.C. 1223(a)(3)), referred to in subsec. (a)(4), is section 4(a)(3) of Pub. L. 92–340, which was classified to section 1223(a)(3) of Title 33, Navigation and Navigable Waters, prior to repeal by Pub. L. 115–282, title IV, §402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding section 101 of this title and section 70001 of this title.
 
-Sections 351, 352, 355, and 356 of the Ship Radio Act (47 U.S.C. 351, 352, 354, and 354a), referred to in subsec. (a)(8), probably means sections 351, 352, 355, and 356 of the Communications Act of 1934, June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which are classified to sections 351, 352, 354, and 354a, respectively, of Title 47, Telecommunications.
+Sections 351, 352, 355, and 356 of the Ship Radio Act (47 U.S.C. 351, 352, 354, and 354a), referred to in subsec. (a)(8), probably means sections 351, 352, 355, and 356 of the Communications Act of 1934, June 19, 1934, ch. 652, 48 Stat. 1064, which are classified to sections 351, 352, 354, and 354a, respectively, of Title 47, Telecommunications.
 
 The Officers' Competency Certificates Convention, 1936, referred to in subsec. (a)(10), is set out in 54 Stat. Pt. 2, p. 1683.
 
@@ -102,9 +102,11 @@ For provisions relating to the International Convention for the Prevention of Po
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(5). Pub. L. 117–263 substituted "section 30524" for "section 30506".
+
 <b>2021</b>—Subsec. (a)(10). Pub. L. 116–283 substituted "section 8304" for "sections 8303 and 8304".
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–281 substituted "vessel measured under this chapter that is of United Statesregistry or nationality, or a vessel operated under the authority of the United States," for "documented vessel measured under this chapter," in introductory provisions.
+<b>2010</b>—Subsec. (a). Pub. L. 111–281 substituted "vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States," for "documented vessel measured under this chapter," in introductory provisions.
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–304, §15(26)(A), substituted "of this subtitle and section 12116" for "and sections 12106(c) and 12108(c)".
 

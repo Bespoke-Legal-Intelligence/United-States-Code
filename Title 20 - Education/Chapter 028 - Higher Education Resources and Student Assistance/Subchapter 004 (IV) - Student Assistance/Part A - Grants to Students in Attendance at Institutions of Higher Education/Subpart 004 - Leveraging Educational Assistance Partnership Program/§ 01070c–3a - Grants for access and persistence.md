@@ -82,7 +82,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (iii) Effect on need analysis
 
-&emsp;&emsp;&emsp;For the purpose of calculating a student's need in accordance with part F, anin-kind contribution described in clause (ii) shall not be considered an asset or income of the student or the student's parent.
+&emsp;&emsp;&emsp;For the purpose of calculating a student's need in accordance with part F, an in-kind contribution described in clause (ii) shall not be considered an asset or income of the student or the student's parent.
 
 #### (c) Application for allotment
 
@@ -234,7 +234,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) with respect to which attendance is permitted under subsection (d)(1)(C)(ii);
 
-&emsp;&emsp;&emsp;&emsp;(VI) information on any additional requirements (such as a student pledge detailing student responsibilities) that the State may impose for receipt of a grant for access and persistence under this section; and
+&emsp;&emsp;&emsp;&emsp;(VI) information on any additional requirements (such as a student pledge detailing student responsibilities) that theState may impose for receipt of a grant for access and persistence under this section; and
 
 &emsp;&emsp;&emsp;&emsp;(VII) instructions on how to apply for a grant for access and persistence and an explanation that a student is required to file a Free Application for Federal Student Aid authorized under section 1090(a) of this title to be eligible for such grant and assistance from other Federal and State financial aid programs; and
 
@@ -304,7 +304,7 @@ Not later than three years after August 14, 2008, and annually thereafter, the S
 
 #### Amendment of Section
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(3), (5), Dec. 27, 2020, 134 Stat. 3137, 3200, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended:</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(3), (5), Dec. 27, 2020, 134 Stat. 3137, 3200; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended:</i>
 
 <i>(1) by striking "an expected family contribution" each place the term appears and inserting "a student aid index"; and</i>
 
@@ -338,7 +338,7 @@ Subsecs. (f), (g). Pub. L. 106–554, §1(a)(1) \[title III, §316(3)\], which d
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2009 Amendment
 

@@ -4,7 +4,7 @@
 
 (1) Not later than 60 days after the Commission receives from a person a complete written request concerning the application of this Act, chapter 95 or chapter 96 of title 26, or a rule or regulation prescribed by the Commission, with respect to a specific transaction or activity by the person, the Commission shall render a written advisory opinion relating to such transaction or activity to the person.
 
-(2) If an advisory opinion is requested by a candidate, or any authorized committee of such candidate, during the 60-day period before any election for Federal office involving the requesting party, the Commission shall render a written advisory opinion relating to such request no later than 20 days after the Commission receives a complete written request.
+(2) If an advisory opinion is requested by a candidate, or any authorized committee of suchcandidate, during the 60-day period before any election for Federal office involving the requesting party, the Commission shall render a written advisory opinion relating to such request no later than 20 days after the Commission receives a complete written request.
 
 #### (b) Procedures applicable to initial proposal of rules or regulations, and advisory opinions
 
@@ -18,7 +18,7 @@ Any rule of law which is not stated in this Act or in chapter 95 or chapter 96 o
 
 &emsp;(B) any person involved in any specific transaction or activity which is indistinguishable in all its material aspects from the transaction or activity with respect to which such advisory opinion is rendered.
 
-(2) Notwithstanding any other provisions of law, any person who relies upon any provision or finding of an advisory opinion in accordance with the provisions of paragraph (1) and who acts in good faith in accordance with the provisions and findings of such advisory opinion shall not, as a result of any such act, be subject toany sanction provided by this Act or by chapter 95 or chapter 96 of title 26.
+(2) Notwithstanding any other provisions of law, any person who relies upon any provision or finding of an advisory opinion in accordance with the provisions of paragraph (1) and who acts in good faith in accordance with the provisions and findings of such advisory opinion shall not, as a result of any such act, be subject to any sanction provided by this Act or by chapter 95 or chapter 96 of title 26.
 
 #### (d) Requests made public; submission of written comments by interested public
 
@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 96–187, §107, added subsec. (d).
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–283, §108(a), added national committees of political parties to the enumeration of persons and political bodies authorized to request advisory opinions, substituted the application of general rules of law as stated in the Act or in chapter 95 or 96 of title 26 or as prescribed by rules or regulations of the Commission to specific factual situations for the resolution of the question of whether or not any specific transaction or activity by an individual, candidate, or political committee would constitute a violation of the Act as the subject matter of advisory opinions, and inserted requirement that rules or regulations forming the basis for rules of law be rules or regulations proposed pursuant to section 438(c) of this title and that advisory opinions be issued only in accordance with the provisions of this section.
 
-Subsec. (b). Pub. L. 94–283, §108(a), designated existing provisions as par. (1), substituted provisions that any person who relies upon any finding or provision of an advisory opinion in accordance with the provisions of paragraph (2) and who acts in good faith in accordance with the provisions and findings of the advisory opinion shall not, as a result of that act, be subject to any sanctions provided by the Act or by chapter 95 or 96 of title 26 for provisions that any person with respect to whom an advisory opinion was rendered under subsection (a) who acted in good faith in accordance with the provisions and findings of an advisory opinion would be presumed to be in compliance with the Act, and added par. (2).
+Subsec. (b). Pub. L. 94–283, §108(a), designated existing provisions as par. (1), substituted provisions thatany person who relies upon any finding or provision of an advisory opinion in accordance with the provisions of paragraph (2) and who acts in good faith in accordance with the provisions and findings of the advisory opinion shall not, as a result of that act, be subject to any sanctions provided by the Act or by chapter 95 or 96 of title 26 for provisions that any person with respect to whom an advisory opinion was rendered under subsection (a) who acted in good faith in accordance with the provisions and findings of an advisory opinion would be presumed to be in compliance with the Act, and added par. (2).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

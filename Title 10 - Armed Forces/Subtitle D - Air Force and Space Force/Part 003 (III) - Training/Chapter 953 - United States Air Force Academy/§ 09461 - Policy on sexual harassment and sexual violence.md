@@ -54,7 +54,7 @@ Annual Assessment.—(1) The Secretary of Defense, through the Secretary of the 
 
 (d)
 
-Annual Report.—(1) The Secretary of the Air Force shall direct the Superintendent of the Academy to submit to the Secretary a report onsexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year.
+Annual Report.—(1) The Secretary of the Air Force shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year.
 
 (2) Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:
 
@@ -94,7 +94,7 @@ Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual A
 
 &emsp;&emsp;(iii) to take all necessary and appropriate action to effectuate the cadet's enrollment in the institution of higher education to which the cadet wishes to transfer and to process the cadet for participation in the relevant Senior Reserve Officers' Training Corps program as expeditiously as possible.
 
-(3) If the Superintendent of the United States Air Force Academy denies a request for transfer under this subsection, the cadet may request review of the denial by the Secretary of the Air Force, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
+(3) If the Superintendent of the United States Air Force Academy denies a request for transferunder this subsection, the cadet may request review of the denial by the Secretary of the Air Force, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
 
 (4) The Secretary concerned shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
 

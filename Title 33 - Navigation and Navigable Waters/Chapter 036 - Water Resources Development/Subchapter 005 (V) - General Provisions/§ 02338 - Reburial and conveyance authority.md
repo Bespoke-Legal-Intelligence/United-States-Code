@@ -22,7 +22,7 @@ In this section, the term "Indian tribe" has the meaning given the term in secti
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), notwithstanding any other provision of law, the Secretary may convey to an Indian tribe for use as a cemetery an area at a civil works project that is identified and set aside by the Secretary under subsection (b)(1).
+&emsp;Subject to paragraph (2), notwithstanding any other provision of law, the Secretary mayconvey to an Indian tribe for use as a cemetery an area at a civil works project that is identified and set aside by the Secretary under subsection (b)(1).
 
 #### (2) Retention of necessary property interests
 

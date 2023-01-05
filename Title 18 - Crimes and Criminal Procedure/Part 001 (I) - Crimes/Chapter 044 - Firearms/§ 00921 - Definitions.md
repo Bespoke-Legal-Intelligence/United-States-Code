@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade; or
 
-&emsp;(C) any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol, which is designed to use black powder, or a black powdersubstitute, and which cannot use fixed ammunition. For purposes of this subparagraph, the term "antique firearm" shall not include any weapon which incorporates a firearm frame or receiver, any firearm which is converted into a muzzle loading weapon, or any muzzle loading weapon which can be readily converted to fire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
+&emsp;(C) any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol, which is designed to use black powder, or a black powder substitute, and which cannot use fixed ammunition. For purposes of this subparagraph, the term "antique firearm" shall not include any weapon which incorporates a firearm frame or receiver, any firearm which is converted into a muzzle loading weapon, or any muzzle loading weapon which can be readily converted tofire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
 
 (17)(A) The term "ammunition" means ammunition or cartridge cases, primers, bullets, or propellent powder designed for use in any firearm.
 
@@ -92,7 +92,7 @@
 
 &emsp;(B) as applied to a manufacturer of ammunition, a person who devotes time, attention, and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
 
-&emsp;(C) as applied to a dealer in firearms, as defined in section 921(a)(11)(A), a person who devotes time, attention, and labor to dealing in firearms as a regular course of trade or business with the principal objective of livelihood and profit through the repetitive purchase and resale of firearms, but such term shall not include a person who makes occasional sales, exchanges, or purchases of firearms for the enhancement of a personal collection or for a hobby, or who sells all or part of his personal collection of firearms;
+&emsp;(C) as applied to a dealer in firearms, as defined in section 921(a)(11)(A), a person who devotes time, attention, and labor to dealing in firearms as a regular course of trade or business to predominantly earn a profit through the repetitive purchase and resale of firearms, but such term shall not include a person who makes occasional sales, exchanges, or purchases of firearms for the enhancement of a personal collection or for a hobby, or who sells all or part of his personal collection of firearms;
 
 &emsp;(D) as applied to a dealer in firearms, as defined in section 921(a)(11)(B), a person who devotes time, attention, and labor to engaging in such activity as a regular course of trade or business with the principal objective of livelihood and profit, but such term shall not include a person who makes occasional repairs of firearms, or who occasionally fits special barrels, stocks, or trigger mechanisms to firearms;
 
@@ -100,7 +100,7 @@
 
 &emsp;(F) as applied to an importer of ammunition, a person who devotes time, attention, and labor to importing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition imported.
 
-(22) The term "with the principal objective of livelihood and profit" means that the intent underlying the sale or disposition of firearms is predominantly one of obtaining livelihood and pecuniary gain, as opposed to other intents, such as improving or liquidating a personal firearms collection: <i>Provided</i>, That proof of profit shall not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism. For purposes of this paragraph, the term "terrorism" means activity, directed against United States persons, which—
+(22) The term "to predominantly earn a profit" means that the intent underlying the sale or disposition of firearms is predominantly one of obtaining pecuniary gain, as opposed to other intents, such as improving or liquidating a personal firearms collection: <i>Provided</i>, That proof of profit shall not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism. For purposes of this paragraph, the term "terrorism" means activity, directed against United States persons, which—
 
 &emsp;(A) is committed by an individual who is not a national or permanent resident alien of the United States;
 
@@ -114,37 +114,51 @@
 
 &emsp;&emsp;(iii) to affect the conduct of a government by assassination or kidnapping.
 
-(23) The term "machinegun" has the meaning given such term in section 5845(b) of the National Firearms Act (26 U.S.C. 5845(b)).
+(23) The term "with the principal objective of livelihood and profit" means that the intent underlying the sale or disposition of firearms is predominantly one of obtaining livelihood and pecuniary gain, as opposed to other intents, such as improving or liquidating a personal firearms collection: <i>Provided</i>, That proof of profit shall not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism. For purposes of this paragraph, the term "terrorism" means activity, directed against United States persons, which—
 
-(24) The terms "firearm silencer" and "firearm muffler" mean any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or firearm muffler, and any part intended only for use in such assembly or fabrication.
+&emsp;(A) is committed by an individual who is not a national or permanent resident alien of the United States;
 
-(25) The term "school zone" means—
+&emsp;(B) involves violent acts or acts dangerous to human life which would be a criminal violation if committed within the jurisdiction of the United States; and
+
+&emsp;(C) is intended—
+
+&emsp;&emsp;(i) to intimidate or coerce a civilian population;
+
+&emsp;&emsp;(ii) to influence the policy of a government by intimidation or coercion; or
+
+&emsp;&emsp;(iii) to affect the conduct of a government by assassination or kidnapping.
+
+(24) The term "machinegun" has the meaning given such term in section 5845(b) of the National Firearms Act (26 U.S.C. 5845(b)).
+
+(25) The terms "firearm silencer" and "firearm muffler" mean any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or firearm muffler, and any part intended only for use in such assembly or fabrication.
+
+(26) The term "school zone" means—
 
 &emsp;(A) in, or on the grounds of, a public, parochial or private school; or
 
 &emsp;(B) within a distance of 1,000 feet from the grounds of a public, parochial or private school.
 
-(26) The term "school" means a school which provides elementary or secondary education, as determined under State law.
+(27) The term "school" means a school which provides elementary or secondary education, as determined under State law.
 
-(27) The term "motor vehicle" has the meaning given such term in section 13102 of title 49, United States Code.
+(28) The term "motor vehicle" has the meaning given such term in section 13102 of title 49, United States Code.
 
-(28) The term "semiautomatic rifle" means any repeating rifle which utilizes a portion of the energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
+(29) The term "semiautomatic rifle" means any repeating rifle which utilizes a portion of the energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
 
-(29) The term "handgun" means—
+(30) The term "handgun" means—
 
 &emsp;(A) a firearm which has a short stock and is designed to be held and fired by the use of a single hand; and
 
 &emsp;(B) any combination of parts from which a firearm described in subparagraph (A) can be assembled.
 
-\[(30), (31) Repealed. Pub. L. 103–322, title XI, §110105(2), Sept. 13, 1994, 108 Stat. 2000.\]
+\[(31) Repealed. Pub. L. 103–322, title XI, §110105(2), Sept. 13, 1994, 108 Stat. 2000.\]
 
 (32) The term "intimate partner" means, with respect to a person, the spouse of the person, a former spouse of the person, an individual who is a parent of a child of the person, and an individual who cohabitates or has cohabited with the person.
 
-(33)(A) Except as provided in subparagraph (C),<sup>2</sup> the term "misdemeanor crime of domestic violence" means an offense that—
+(33)(A) Except as provided in subparagraphs (B) and (C), the term "misdemeanor crime of domestic violence" means an offense that—
 
-&emsp;(i) is a misdemeanor under Federal, State, or Tribal <sup>3</sup> law; and
+&emsp;(i) is a misdemeanor under Federal, State, Tribal, or local law; and
 
-&emsp;(ii) has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, or by a person similarly situated to a spouse, parent, or guardian of the victim.
+&emsp;(ii) has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, by a person similarly situated to a spouse, parent, or guardian of the victim, or by a person who has a current or recent former dating relationship with the victim.
 
 (B)(i) A person shall not be considered to have been convicted of such an offense for purposes of this chapter, unless—
 
@@ -158,6 +172,8 @@
 
 (ii) A person shall not be considered to have been convicted of such an offense for purposes of this chapter if the conviction has been expunged or set aside, or is an offense for which the person has been pardoned or has had civil rights restored (if the law of the applicable jurisdiction provides for the loss of civil rights under such an offense) unless the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms.
 
+(C) A person shall not be considered to have been convicted of a misdemeanor crime of domestic violence against an individual in a dating relationship for purposes of this chapter if the conviction has been expunged or set aside, or is an offense for which the person has been pardoned or has had firearm rights restored unless the expungement, pardon, or restoration of rights expressly provides that the person may not ship, transport, possess, or receive firearms: <i>Provided</i>, That, in the case of a person who has not more than 1 conviction of a misdemeanor crime of domestic violence against an individual in a dating relationship, and is not otherwise prohibited under this chapter, the person shall not be disqualified from shipping, transport, possession, receipt, or purchase of a firearm under this chapter if 5 years have elapsed from the later of the judgment of conviction or the completion of the person's custodial or supervisory sentence, if any, and the person has not subsequently been convicted of another such offense, a misdemeanor under Federal, State, Tribal, or local law which has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, or any other offense that would disqualify the person under section 922(g). The national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901) shall be updated to reflect the status of the person. Restoration under this subparagraph is not available for a current or former spouse, parent, or guardian of the victim, a person with whom the victim shares a child in common, a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, or a person similarly situated to a spouse, parent, or guardian of the victim.
+
 (34) The term "secure gun storage or safety device" means—
 
 &emsp;(A) a device that, when installed on a firearm, is designed to prevent the firearm from being operated without first deactivating the device;
@@ -168,9 +184,23 @@
 
 (35) The term "body armor" means any product sold or offered for sale, in interstate or foreign commerce, as personal protective body covering intended to protect against gunfire, regardless of whether the product is to be worn alone or is sold as a complement to another product or garment.
 
+(36) The term "local law enforcement authority" means a bureau, office, department or other authority of a State or local government or Tribe that has jurisdiction to investigate a violation or potential violation of, or enforce, a State, local, or Tribal law.
+
+(37)(A) The term "dating relationship" means a relationship between individuals who have or have recently had a continuing serious relationship of a romantic or intimate nature.
+
+(B) Whether a relationship constitutes a dating relationship under subparagraph (A) shall be determined based on consideration of—
+
+&emsp;(i) the length of the relationship;
+
+&emsp;(ii) the nature of the relationship; and
+
+&emsp;(iii) the frequency and type of interaction between the individuals involved in the relationship.
+
+(C) A casual acquaintanceship or ordinary fraternization in a business or social context does not constitute a dating relationship under subparagraph (A).
+
 (b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub.L. 107–273, div. C, title I, §11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, §1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–162, title IX, §908(a), Jan. 5, 2006, 119 Stat. 3083; Pub. L. 115–232, div. A, title VIII, §809(e)(2), Aug. 13, 2018, 132 Stat. 1842.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110105(2), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2000, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, §11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, §1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276; Pub. L. 109–162, title IX, §908(a), Jan. 5, 2006, 119 Stat. 3083; Pub. L. 115–232, div. A, title VIII, §809(e)(2), Aug. 13, 2018, 132 Stat. 1842; Pub. L. 117–103, div. W, title XI, §§1101(b), 1104(a), Mar. 15, 2022, 136 Stat. 919, 921; Pub. L. 117–159, div. A, title II, §§12002, 12005(a), (c), June 25, 2022, 136 Stat. 1324, 1332.)
 
 #### <b>Editorial Notes</b>
 
@@ -179,6 +209,24 @@
 For definition of Canal Zone, referred to in subsec. (a)(2), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(21)(C). Pub. L. 117–159, §12002(1), substituted "to predominantly earn a profit" for "with the principal objective of livelihood and profit".
+
+Subsec. (a)(22) to (30). Pub. L. 117–159, §12002(2), (3), added par. (22) and redesignated former pars. (22) to (29) as (23) to (30), respectively.
+
+Subsec. (a)(33)(A). Pub. L. 117–159, §12005(c)(1)(A), substituted "subparagraphs (B) and (C)" for "subparagraph (C)" in introductory provisions.
+
+Subsec. (a)(33)(A)(i). Pub. L. 117–159, §12005(c)(1)(B), which directed substitution of "State," for "State,," in cl. (ii) of par. (33)(A), was executed in cl. (i) of par. (33)(A) to reflect the probable intent of Congress.
+
+Pub. L. 117–103, §1104(a), substituted ", Tribal, or local law" for "or Tribal law".
+
+Subsec. (a)(33)(A)(ii). Pub. L. 117–159, §12005(a)(1), substituted "by a person similarly" for "or by a person similarly" and inserted ", or by a person who has a current or recent former dating relationship with the victim" before period at end.
+
+Subsec. (a)(33)(C). Pub. L. 117–159, §12005(c)(2), added subpar. (C).
+
+Subsec. (a)(36). Pub. L. 117–103, §1101(b), added par. (36).
+
+Subsec. (a)(37). Pub. L. 117–159, §12005(a)(2), added par. (37).
 
 <b>2018</b>—Subsec. (a)(4). Pub. L. 115–232 substituted "section 7684(2), 7685, or 7686 of title 10" for "section 4684(2), 4685, or 4686 of title 10" in concluding provisions.
 
@@ -262,6 +310,12 @@ Subsec. (b). Pub. L. 90–618 substituted provisions determining that a member o
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–159, div. A, title II, §12005(b), June 25, 2022, 136 Stat. 1332, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply to any conviction of a misdemeanor crime of domestic violence entered before the date of enactment of this Act \[June 25, 2022\]."
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of Title 10, Armed Forces.
@@ -276,7 +330,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §119(e)\], Oct. 21, 1998, 112 St
 
 #### Effective Date of 1995 Amendment
 
-Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
+Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an EffectiveDate note under section 1301 of Title 49, Transportation.
 
 #### Effective and Termination Dates of 1994 Amendment
 
@@ -342,7 +396,7 @@ Pub. L. 101–647, title XVII, §1702(a), Nov. 29, 1990, 104 Stat. 4844, provide
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–649, §1, Nov. 10, 1988, 102 Stat. 3816, provided that: "This Act \[amending sections 922, 924, and 925 of this title and enacting provisions set out as notes under section 922 of this title and section 1356 of former Title 49, Transportation\] may be cited as the 'Undetectable Firearms Act of 1988'."
+Pub. L. 100–649, §1, Nov. 10, 1988, 102 Stat. 3816, provided that: "This Act \[amending sections 922, 924, and 925 of this title and enacting provisions set out as notesunder section 922 of this title and section 1356 of former Title 49, Transportation\] may be cited as the 'Undetectable Firearms Act of 1988'."
 
 #### Short Title of 1986 Amendments
 
@@ -443,8 +497,4 @@ Pub. L. 90–351, title IV, §904, June 19, 1968, 82 Stat. 234, as amended by Pu
 Pub. L. 99–408, §10, Aug. 28, 1986, 100 Stat. 922, provided that: "For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, 'handgun' means any firearm including a pistol or revolver designed to be fired by the use of a single hand. The term also includes any combination of parts from which a handgun can be assembled."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
-
-<i><sup>2</sup></i><i> So in original. No subparagraph (C) has been enacted.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
 

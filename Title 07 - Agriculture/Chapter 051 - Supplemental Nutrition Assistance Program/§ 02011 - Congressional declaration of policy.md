@@ -48,11 +48,11 @@ Pub. L. 103–66, title XIII, §13901(a), Aug. 10, 1993, 107 Stat. 672, provided
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided that: "This title \[enacting section2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title\] may be cited as the 'Mickey Leland Memorial Domestic Hunger Relief Act'."
+Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided that: "This title \[enacting section 2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title\] may be cited as the 'Mickey Leland Memorial Domestic Hunger Relief Act'."
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–435, §1(a), Sept. 19, 1988, 102 Stat. 1645, provided that: "This Act \[amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section 713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 612c and 2012 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title\] may be cited as the 'Hunger Prevention Act of 1988'."
+Pub. L. 100–435, §1(a), Sept. 19, 1988, 102 Stat. 1645, provided that: "This Act \[amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section 713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, The Public Healthand Welfare, enacting provisions set out as notes under sections 612c and 2012 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title\] may be cited as the 'Hunger Prevention Act of 1988'."
 
 Pub. L. 100–232, §1, Jan. 5, 1988, 101 Stat. 1566, provided that: "This Act \[amending section 2014 of this title and enacting provisions set out as a note under section 612c of this title\] may be cited as the 'Charitable Assistance and Food Bank Act of 1987'."
 
@@ -122,7 +122,7 @@ Allocation of funds.—Funds described in paragraph (1) shall be made available 
 
 "(d)
 
-Certain Exclusions From Snap Income.—A Federal pandemic unemployment compensation payment made to an individual under section 2104 of the Coronavirus Aid, Relief, and Economic Security Act\(Public Law 116–136) \[15 U.S.C. 9023\] shall not be regarded as income and shall not be regarded as a resource for the month of receipt and the following 9 months, for the purpose of determining eligibility of such individual or any other individual for benefits or assistance, or the amount of benefits or assistance, under any programs authorized under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
+Certain Exclusions From Snap Income.—A Federal pandemic unemployment compensation payment made to an individual under section 2104 of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136) \[15 U.S.C. 9023\] shall not be regarded as income and shall not be regarded as a resource for the month of receipt and the following 9 months, for the purpose of determining eligibility of such individual or any other individual for benefits or assistance, or the amount of benefits or assistance, under any programs authorized under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
 
 "(e)
 
@@ -172,7 +172,7 @@ Report.—Not later than July 31, 2021, the Secretary shall submit to the Commit
 
 #### Assistance for Households During School Closures
 
-Pub. L. 116–127, div. A, title I, §1101, Mar. 18, 2020, 134 Stat. 179, as amended by Pub. L. 116–159, div. D, title VI, §4601, Oct. 1, 2020, 134 Stat. 744; Pub. L. 116–260, div. N, title VII, §721, Dec. 27, 2020, 134 Stat. 2096; Pub. L. 117–2, title I, §1108, Mar. 11, 2021, 135 Stat. 18, provided that:
+Pub. L. 116–127, div. A, title I, §1101, Mar. 18, 2020, 134 Stat. 179, as amended by Pub. L. 116–159, div. D, title VI, §4601, Oct. 1, 2020, 134 Stat. 744; Pub. L. 116–260, div. N, title VII, §721, Dec. 27, 2020, 134 Stat. 2096; Pub. L. 117–2, title I, §1108, Mar. 11, 2021, 135 Stat. 18; Pub. L. 117–328, div. HH, title IV, §§502(d), 503(a), Dec. 29, 2022, 136 Stat. 5994, provided that:
 
 "(a)
 
@@ -216,7 +216,7 @@ Assistance for Children in Child Care.—
 
 &emsp;"(1)
 
-In general.—Beginning on October 1, 2020, subject to an approved State agency plan under subsection (b) or an approved amendment to such a plan, in any case in which, during a public health emergency designation, a covered child care facility is closed or has reduced attendance or hours for at least 5 consecutive days, or 1 or more schools in the area of a covered child care facility or the area of a child's residence are closed or have reduced attendance or hours for at least 5 consecutive days, each household containing at least 1 child enrolled in such a coveredchild care facility and either the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) or a Department of Agriculture grant-funded nutrition assistance program in the Commonwealth of the Northern Mariana Islands, Puerto Rico, or American Samoa shall be eligible to receive assistance, in accordance with paragraph (2), until covered child care facilities or schools in the area reopen or operate at full attendance and hours, as applicable, as determined by the State agency.
+In general.—Beginning on October 1, 2020, subject to an approved State agency plan under subsection (b) or an approved amendment to such a plan, in any case in which, during a public health emergency designation, a covered child care facility is closed or has reduced attendance or hours for at least 5 consecutive days, or 1 or more schools in the area of a covered child care facility or the area of a child's residence are closed or have reduced attendance or hours for at least 5 consecutive days, each household containing at least 1 child enrolled in such a covered child care facility and either the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) or a Department of Agriculture grant-funded nutrition assistance program in the Commonwealth of the Northern Mariana Islands, Puerto Rico, or American Samoa shall be eligible to receive assistance, in accordance with paragraph (2), until covered child care facilities or schools in the area reopen or operate at full attendance and hours, as applicable, as determined by the State agency.
 
 &emsp;"(2)
 
@@ -232,7 +232,23 @@ Deemed population.—For purposes of an approved State agency plan described in 
 
 "(i)
 
-Emergencies During Summer.—The Secretary of Agriculture may permit a State agency to extend a State agency plan approved under subsection (b) for not more than 90 days for the purpose of operating the plan during a covered summer period, during which time schools participating in the school lunch program under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) and covered child care facilities shall be deemed closed for purposes of this section.
+Emergencies During Summer.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Agriculture may approve or permit a State agency to extend a State agency plan approved under subsection (b) for not more than 90 days for the purpose of operating the plan during a covered summer period, during which time schools participating in the school lunch program under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) and covered child care facilities shall be deemed closed for purposes of this section.
+
+&emsp;"(2)
+
+Limitation.—A State shall not provide benefits during a covered summer period pursuant to paragraph (1) to children who, at the end of the school year immediately preceding the covered summer period, attended a school that did not participate in the school lunch program or school breakfast program described in that paragraph.
+
+&emsp;"(3)
+
+Other assistance not required.—A State shall not be required to provide assistance under subsection (a) or (h) in order to provide assistance under this subsection.
+
+&emsp;"(4)
+
+Summer 2023.—Any benefits issued to households during a covered summer period pursuant to paragraph (1) in summer 2023 shall not exceed $120 per child for the covered summer period, except that benefits may be proportionately higher consistent with any adjustments established under section 12(f) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(f)).
 
 "(j)
 
@@ -280,7 +296,7 @@ Funding.—There are hereby appropriated to the Secretary of Agriculture such am
 
 #### SNAP Waivers
 
-Pub. L. 116–127, div. B, title III, Mar. 18, 2020, 134 Stat. 187, as amended by Pub. L. 116–159, div. D, title VI, §4603(a)(3), Oct. 1, 2020, 134 Stat. 746, provided that:
+Pub. L. 116–127, div. B, title III, Mar. 18, 2020, 134 Stat. 187, as amended by Pub. L. 116–159, div. D, title VI, §4603(a)(3), Oct. 1, 2020, 134 Stat. 746; Pub. L. 117–328, div. HH, title IV, §503(b), Dec. 29, 2022, 136 Stat. 5994, provided that:
 
 #### "SEC. 2301. SNAP FLEXIBILITY FOR LOW-INCOME JOBLESS WORKERS
 
@@ -294,7 +310,7 @@ Pub. L. 116–127, div. B, title III, Mar. 18, 2020, 134 Stat. 187, as amended b
 
 &emsp;"(1) shall provide, at the request of a State agency (as defined in section 3 of the Food and Nutrition Act of 2008 \[7 U.S.C. 2012\]) that provides sufficient data (as determined by the Secretary through guidance) supporting such request, for emergency allotments to households participating in the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\] to address temporary food needs not greater than the applicable maximum monthly allotment for the household size; and
 
-&emsp;"(2) may adjust, at the request of State agencies or by guidance in consultation with one or more State agencies, issuance methods and application and reporting requirements under the Food and Nutrition Act of 2008 to be consistent with what is practicable under actual conditions in affected areas. (In making this adjustment, the Secretary shall consider the availability of offices and personnel in State agencies, any conditions that make reliance on electronic benefit transfer systems described in section 7(h) of the Food and Nutrition Act of 2008 \[7 U.S.C. 2016(h)\] impracticable, any disruptions of transportation and communication facilities, and any health considerations that warrant alternative approaches.)
+&emsp;"(2) may adjust, at the request of State agencies or by guidance in consultation with one or more Stateagencies, issuance methods and application and reporting requirements under the Food and Nutrition Act of 2008 to be consistent with what is practicable under actual conditions in affected areas. (In making this adjustment, the Secretary shall consider the availability of offices and personnel in State agencies, any conditions that make reliance on electronic benefit transfer systems described in section 7(h) of the Food and Nutrition Act of 2008 \[7 U.S.C. 2016(h)\] impracticable, any disruptions of transportation and communication facilities, and any health considerations that warrant alternative approaches.)
 
 "(b) Not later than 10 days after the date of the receipt or issuance of each document listed in paragraphs (1), (2), or (3) of this subsection, the Secretary of Agriculture shall make publicly available on the website of the Department the following documents:
 
@@ -312,7 +328,11 @@ Report.—Not later than June 30, 2022, the Secretary of Agriculture shall submi
 
 &emsp;"(2) An evaluation of the use of all waivers, adjustments, and other flexibilities in the operation of the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)), in effect under this Act \[div. B of Pub. L. 116–127, see Tables for classification\], the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), or any other Act, to respond to the COVID–19 public health emergency; and
 
-&emsp;"(3) A recommendation of any additional waivers or flexibilities needed in the operation of the supplemental nutrition assistance program to respond to public health emergencies with pandemic potential."
+&emsp;"(3) A recommendation of any additional waivers or flexibilities needed in the operation of the supplemental nutrition assistance program to respond to public health emergencies with pandemic potential.
+
+"(d)
+
+Sunset.—The authority under subsection (a)(1) shall expire after the issuance of February 2023 benefits under that subsection."
 
 #### Study of National Database for Federal Means-Tested Public Assistance Programs
 

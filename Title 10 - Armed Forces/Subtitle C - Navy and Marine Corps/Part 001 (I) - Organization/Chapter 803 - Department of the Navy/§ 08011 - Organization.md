@@ -8,7 +8,7 @@ The Department of the Navy is separately organized under the Secretary of the Na
 
 #### 1956 Act
 
-The Act of July 26, 1947, ch. 343, as amended (5 U.S.C. 411a(a)) which is the National Security Act of 1947, defined "Department of the Navy". The Acts of Mar. 5, 1948, ch. 98 (5 U.S.C. 423a(a)), and Aug. 2, 1946, ch. 756 (5 U.S.C. 421g) defined "Naval Establishment". The terms "Department of the Navy" and "Naval Establishment"are considered to be synonymous. All three definitions were considered, but the phraseology adopted is that of the National Security Act of 1947. The phrase "as a service in the Navy" is substituted for "as a part of the Navy" to conform to the provisions of title 14.
+The Act of July 26, 1947, ch. 343, as amended (5 U.S.C. 411a(a)) which is the National Security Act of 1947, defined "Department of the Navy". The Acts of Mar. 5, 1948, ch. 98 (5 U.S.C. 423a(a)), and Aug. 2, 1946, ch. 756 (5 U.S.C. 421g) defined "Naval Establishment". The terms "Department of the Navy" and "Naval Establishment" are considered to be synonymous. All three definitions were considered, but the phraseology adopted is that of the National Security Act of 1947. The phrase "as a service in the Navy" is substituted for "as a part of the Navy" to conform to the provisions of title 14.
 
 1962
 

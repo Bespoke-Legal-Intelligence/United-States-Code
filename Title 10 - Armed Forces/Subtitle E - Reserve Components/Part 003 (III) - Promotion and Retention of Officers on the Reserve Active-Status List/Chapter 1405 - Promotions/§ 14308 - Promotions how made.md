@@ -18,7 +18,7 @@ Promotion; How Made; Order.—(1) Officers on a promotion list for a competitive
 
 (C) The Secretary of a military department may make a recommendation to the President for approval of an all-fully-qualified-officers list only when the Secretary determines that all officers on the list are needed in the next higher grade to accomplish mission objectives.
 
-(D) For purposes of this paragraph, an all-fully-qualified-officers list is a list of all officers on the reserve active-status list in a grade who the Secretary of the military department concerned determines—
+(D) For purposes of this paragraph, an all-fully-qualified-officers list is a list of all officerson the reserve active-status list in a grade who the Secretary of the military department concerned determines—
 
 &emsp;(i) are fully qualified for promotion to the next higher grade; and
 
@@ -48,15 +48,23 @@ Army Reserve and Air Force Reserve Promotions To Fill Vacancies.—Subject to th
 
 (f)
 
-Effective Date of Promotion After Federal Recognition.—(1) The effective date of apromotion of a reserve commissioned officer of the Army or the Air Force who is extended Federal recognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
+Effective Date of Promotion After Federal Recognition.—(1) The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federal recognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
 
-(2) If the Secretary concerned determines that there was an undue delay in extending Federal recognition in the next higher grade in the Army National Guard or the Air National Guard to a reserve commissioned officer of the Army or the Air Force, and the delay was not attributable to the action (or inaction) of such officer, the effective date of the promotion concerned under paragraph (1) may be adjusted to a date determined by the Secretary concerned, but not earlier than the effective date of the State promotion.
+(2) If there is a delay in extending Federal recognition in the next higher grade in the Army National Guard or the Air National Guard to a reserve commissioned officer of the Army or the Air Force that exceeds 100 days from the date the National Guard Bureau deems such officer's application for Federal recognition to be completely submitted by the State and ready for review at the National Guard Bureau, and the delay was not attributable to the action or inaction of such officer—
+
+&emsp;(A) in the event of State promotion with an effective date before January 1, 2024, the effective date of the promotion concerned under paragraph (1) may be adjusted to a date determined by the Secretary concerned, but not earlier than the effective date of the State promotion; and
+
+&emsp;(B) in the event of State promotion with an effective date on or after January 1, 2024, the effective date of the promotion concerned under paragraph (1) shall be adjusted by the Secretary concerned to the later of—
+
+&emsp;&emsp;(i) the date the National Guard Bureau deems such officer's application for Federal recognition to be completely submitted by the State and ready for review at the National Guard Bureau; and
+
+&emsp;&emsp;(ii) the date on which the officer occupies a billet in the next higher grade.
 
 (g)
 
 Army and Air Force General Officer Promotions.—A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2937; amended Pub. L. 105–85, div. A, title V, §514(c), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §§505(b)(1), 506(b), Dec. 28, 2001, 115 Stat. 1086, 1089; Pub. L. 109–364, div. A, title V, §511(d)(2), Oct. 17, 2006, 120 Stat. 2183; Pub. L. 114–92, div. A, title V, §502(b), Nov. 25, 2015, 129 Stat. 806; Pub. L. 115–232, div. A, title V, §518(a), Aug. 13, 2018, 132 Stat. 1754; Pub. L. 116–92, div. A, title V, §510(c), Dec. 20, 2019, 133 Stat. 1347.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2937; amended Pub. L. 105–85, div. A, title V, §514(c), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 107–107, div. A, title V, §§505(b)(1), 506(b), Dec. 28, 2001, 115 Stat. 1086, 1089; Pub. L. 109–364, div. A, title V, §511(d)(2), Oct. 17, 2006, 120 Stat. 2183; Pub. L. 114–92, div. A, title V, §502(b), Nov. 25, 2015, 129 Stat. 806; Pub. L. 115–232, div. A, title V, §518(a), Aug. 13, 2018, 132 Stat. 1754; Pub. L. 116–92, div. A, title V, §510(c), Dec. 20, 2019, 133 Stat. 1347; Pub. L. 117–263, div. A, title V, §513, Dec. 23, 2022, 136 Stat. 2565.)
 
 #### <b>Editorial Notes</b>
 
@@ -65,6 +73,8 @@ Army and Air Force General Officer Promotions.—A reserve officer of the Army o
 Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(2). Pub. L. 117–263 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"If the Secretary concerned determines that there was an undue delay in extending Federal recognition in the next higher grade in the Army National Guard or the Air National Guard to a reserve commissioned officer of the Army or the Air Force, and the delay was not attributable to the action (or inaction) of such officer, the effective date of the promotion concerned under paragraph (1) may be adjusted to a date determined by the Secretary concerned, but not earlier than the effective date of the State promotion."
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92 inserted "or based on particular merit, as determined by the promotion board" after "reserve active-status list".
 

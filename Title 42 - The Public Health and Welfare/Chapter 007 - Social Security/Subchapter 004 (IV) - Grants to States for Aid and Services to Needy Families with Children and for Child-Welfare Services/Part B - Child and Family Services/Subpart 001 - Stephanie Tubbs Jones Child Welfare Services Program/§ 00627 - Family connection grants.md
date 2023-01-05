@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services may make matching grants to State, local, or tribal child welfare agencies, private nonprofit organizations that have experience in working with foster children or children in kinship care arrangements, and institutions of higher education (as defined under section 1001 of title 20), for the purpose of helping children who are in, or at risk of entering, foster care reconnect with family members through the implementation of—
+The Secretary of Health and Human Services may make matching grants to State, local, or tribal child welfare agencies, private nonprofitorganizations that have experience in working with foster children or children in kinship care arrangements, and institutions of higher education (as defined under section 1001 of title 20), for the purpose of helping children who are in, or at risk of entering, foster care reconnect with family members through the implementation of—
 
 &emsp;(1) a kinship navigator program to assist kinship caregivers in learning about, finding, and using programs and services to meet the needs of the children they are raising and their own needs, and to promote effective partnerships among public and private agencies to ensure kinship caregiver families are served, which program—
 
@@ -44,7 +44,7 @@ The Secretary of Health and Human Services may make matching grants to State, lo
 
 #### (b) Applications
 
-An entity desiring to receive a matching grant under this section shall submit to the Secretaryan application, at such time, in such manner, and containing such information as the Secretary may require, including—
+An entity desiring to receive a matching grant under this section shall submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;(1) a description of how the grant will be used to implement 1 or more of the activities described in subsection (a);
 

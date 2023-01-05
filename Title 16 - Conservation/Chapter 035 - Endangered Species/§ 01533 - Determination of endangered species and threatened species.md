@@ -56,7 +56,7 @@
 
 &emsp;(ii) identified as in danger of extinction, or likely to become so within the foreseeable future, by any State agency or by any agency of a foreign nation that is responsible for the conservation of fish or wildlife or plants.
 
-(2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact,of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
+(2) The Secretary shall designate critical habitat, and make revisions thereto, under subsection (a)(3) on the basis of the best scientific data available and after taking into consideration the economic impact, the impact on national security, and any other relevant impact, of specifying any particular area as critical habitat. The Secretary may exclude any area from critical habitat if he determines that the benefits of such exclusion outweigh the benefits of specifying such area as part of the critical habitat, unless he determines, based on the best scientific and commercial data available, that the failure to designate such area as critical habitat will result in the extinction of the species concerned.
 
 (3)(A) To the maximum extent practicable, within 90 days after receiving the petition of an interested person under section 553(e) of title 5, to add a species to, or to remove a species from, either of the lists published under subsection (c), the Secretary shall make a finding as to whether the petition presents substantial scientific or commercial information indicating that the petitioned action may be warranted. If such a petition is found to present such information, the Secretary shall promptly commence a review of the status of the species concerned. The Secretary shall promptly publish each finding made under this subparagraph in the Federal Register.
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(III) notice that such one-year period is being extended under subparagraph (B)(i), or
 
-&emsp;&emsp;(IV) notice that the proposed regulation is being withdrawn under subparagraph (B)(ii), together with the finding on which such withdrawal is based; or
+&emsp;&emsp;(IV) notice that the proposed regulation is being withdrawn under subparagraph (B)(ii),together with the finding on which such withdrawal is based; or
 
 &emsp;(ii) subject to subparagraph (C), if a designation of critical habitat is involved, either—
 
@@ -188,7 +188,7 @@ The Secretary may, by regulation of commerce or taking, and to the extent he dee
 
 &emsp;&emsp;(iii) estimates of the time required and the cost to carry out those measures needed to achieve the plan's goal and to achieve intermediate steps toward that goal.
 
-(2) The Secretary, in developing and implementing recovery plans, may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to the Federal Advisory Committee Act.
+(2) The Secretary, in developing and implementing recovery plans, may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to chapter 10 of title 5.
 
 (3) The Secretary shall report every two years to the Committee on Environment and Public Works of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives on the status of efforts to develop and implement recovery plans for all species listed pursuant to this section and on the status of all species for which such plans have been developed.
 
@@ -214,13 +214,13 @@ The Secretary shall establish, and publish in the Federal Register, agency guide
 
 &emsp;(4) a system for developing and implementing, on a priority basis, recovery plans under subsection (f) of this section.
 
-> The Secretary shall provide to the public notice of, and opportunity to submit written commentson, any guideline (including any amendment thereto) proposed to be established under this subsection.
+> The Secretary shall provide to the public notice of, and opportunity to submit written comments on, any guideline (including any amendment thereto) proposed to be established under this subsection.
 
 #### (i) Submission to State agency of justification for regulations inconsistent with State agency's comments or petition
 
-If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) files comments disagreeing with all or part of the proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3), the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
+If, in the case of any regulation proposed by the Secretary under the authority of this section, a State agency to which notice thereof was given in accordance with subsection (b)(5)(A)(ii) files comments disagreeing with all or part ofthe proposed regulation, and the Secretary issues a final regulation which is in conflict with such comments, or if the Secretary fails to adopt a regulation pursuant to an action petitioned by a State agency under subsection (b)(3), the Secretary shall submit to the State agency a written justification for his failure to adopt regulations consistent with the agency's comments or petition.
 
-(Pub. L. 93–205, §4, Dec. 28, 1973, 87 Stat. 886; Pub. L. 94–359, §1, July 12, 1976, 90 Stat. 911; Pub. L. 95–632, §§11, 13, Nov. 10, 1978, 92 Stat. 3764, 3766; Pub. L. 96–159, §3, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, §2(a), Oct. 13, 1982, 96 Stat. 1411; Pub. L. 100–478, title I, §§1002–1004, Oct. 7, 1988, 102 Stat. 2306, 2307; Pub. L. 108–136, div. A, title III, §318, Nov. 24, 2003, 117 Stat. 1433.)
+(Pub. L. 93–205, §4, Dec. 28, 1973, 87 Stat. 886; Pub. L. 94–359, §1, July 12, 1976, 90 Stat. 911; Pub. L. 95–632, §§11, 13, Nov. 10, 1978, 92 Stat. 3764, 3766; Pub. L. 96–159, §3, Dec. 28, 1979, 93 Stat. 1225; Pub. L. 97–304, §2(a), Oct. 13, 1982, 96 Stat. 1411; Pub. L. 100–478, title I, §§1002–1004, Oct. 7, 1988, 102 Stat. 2306, 2307; Pub. L. 108–136, div. A, title III, §318, Nov. 24, 2003, 117 Stat. 1433; Pub. L. 117–286, §4(a)(113), Dec. 27, 2022, 136 Stat. 4318.)
 
 #### <b>Editorial Notes</b>
 
@@ -230,9 +230,9 @@ Reorganization Plan Numbered 4 of 1970, referred to in subsec. (a)(2), is Reorg.
 
 This chapter, referred to in subsecs. (b)(4), (8), (e)(C), and (g)(1), was in the original "this Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. This chapter, referred to in subsec. (b)(3)(B)(iii)(II), was in the original "the Act" and was translated as if it read "this Act", to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(2). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act."
 
 <b>2003</b>—Subsec. (a)(3). Pub. L. 108–136, §318(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If a corporation, in any taxable year, files with the Secretary a statement, as provided in subsection (b), with respect to an expected net operating loss carryback from such taxable year, the time for payment of all or part of any tax imposed by subtitle A for the taxable year immediately preceding such taxable year shall be extended, to the extent and subject to the conditions and limitations hereinafter provided in this section.
+If a corporation, in any taxable year, files with the Secretary a statement, as provided insubsection (b), with respect to an expected net operating loss carryback from such taxable year, the time for payment of all or part of any tax imposed by subtitle A for the taxable year immediately preceding such taxable year shall be extended, to the extent and subject to the conditions and limitations hereinafter provided in this section.
 
 #### (b) Contents of statement
 
@@ -22,7 +22,7 @@ The statement shall be filed at such time and in such manner and form as the Sec
 
 #### (c) Amount to which extension relates and installment payments
 
-The amount the time for payment of which may be extended under subsection (a) with respect to any tax shall not exceed the amount of such tax shown on the return, increased by any amount assessed as a deficiency (or as interest or addition to the tax) prior to the date of filing the statement and decreased by any amountpaid or required to be paid prior to the date of such filing, and the total amount of the tax the time for payment of which may be extended shall not exceed the amount stated under subsection (b)(3). For purposes of this subsection, an amount shall not be considered as required to be paid unless shown on the return or assessed as a deficiency (or as interest or addition to the tax), and an amount assessed as a deficiency (or as interest or addition to the tax) shall be considered to be required to be paid prior to the date of filing of the statement if the 10th day after notice and demand for its payment occurs prior to such date. If an extension of time under this section relates to only a part of the tax, the time for payment of the remainder shall be the date on which payment would have been required if such remainder had been the tax.
+The amount the time for payment of which may be extended under subsection (a) with respect to any tax shall not exceed the amount of such tax shown on the return, increased by any amount assessed as a deficiency (or as interest or addition to the tax) prior to the date of filing the statement and decreased by any amount paid or required to be paid prior to the date of such filing, and the total amount of the tax the time for payment of which may be extended shall not exceed the amount stated under subsection (b)(3). For purposes of this subsection, an amount shall not be considered as required to be paid unless shown on the return or assessed as a deficiency (or as interest or addition to the tax), and an amount assessed as a deficiency (or as interest or addition to the tax) shall be considered to be required to be paid prior to the date of filing of the statement if the 10th day after notice and demand for its payment occurs prior to such date. If an extension of time under this section relates to only a part of the tax, the time for payment of the remainder shall be the date on which payment would have been required if such remainder had been the tax.
 
 #### (d) Period of extension
 

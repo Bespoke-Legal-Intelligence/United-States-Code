@@ -328,7 +328,7 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1861(r)(1) of the Act is classified to section 1395x(r)(1) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1861(r)(1) of the Act is classified to section 1395x(r)(1) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -394,7 +394,7 @@ Continuation of existing policies.—In the case of any contract issued before J
 
 "(3)
 
-Exchanges of existing policies.—If, after the date of enactment of this Act \[Aug. 21, 1996\] and before January 1, 1998, a contract providing for long-term care insurance coverage is exchanged solely for a qualified long-term care insurance contract (as defined in section 7702B(b) of such Code), no gain or loss shall be recognized on the exchange. If, in addition to a qualified long-term care insurance contract, money or other property is received in the exchange, then any gain shall be recognized to the extent of the sum of the money and the fair market value of the other property received. For purposes of this paragraph, the cancellation of a contract providing for long-term care insurance coverage and reinvestment of the cancellation proceeds in a qualified long-term care insurance contract within 60 days thereafter shall be treated as an exchange.
+Exchanges of existing policies.—If, after the date of enactment of this Act \[Aug. 21, 1996\] and beforeJanuary 1, 1998, a contract providing for long-term care insurance coverage is exchanged solely for a qualified long-term care insurance contract (as defined in section 7702B(b) of such Code), no gain or loss shall be recognized on the exchange. If, in addition to a qualified long-term care insurance contract, money or other property is received in the exchange, then any gain shall be recognized to the extent of the sum of the money and the fair market value of the other property received. For purposes of this paragraph, the cancellation of a contract providing for long-term care insurance coverage and reinvestment of the cancellation proceeds in a qualified long-term care insurance contract within 60 days thereafter shall be treated as an exchange.
 
 "(4)
 
@@ -408,7 +408,7 @@ Issuance of certain riders permitted.—For purposes of applying sections 101(f)
 
 "(5)
 
-Application of per diem limitation to existing contracts.—The amount of per diem payments made under a contract issued on or before July 31, 1996, with respect to an insured which are excludable from grossincome by reason of section 7702B of the Internal Revenue Code of 1986 (as added by this section) shall not be reduced under subsection (d)(2)(B) thereof by reason of reimbursements received under a contract issued on or before such date. The preceding sentence shall cease to apply as of the date (after July 31, 1996) such contract is exchanged or there is any contract modification which results in an increase in the amount of such per diem payments or the amount of such reimbursements."
+Application of per diem limitation to existing contracts.—The amount of per diem payments made under a contract issued on or before July 31, 1996, with respect to an insured which are excludable from gross income by reason of section 7702B of the Internal Revenue Code of 1986 (as added by this section) shall not be reduced under subsection (d)(2)(B) thereof by reason of reimbursements received under a contract issued on or before such date. The preceding sentence shall cease to apply as of the date (after July 31, 1996) such contract is exchanged or there is any contract modification which results in an increase in the amount of such per diem payments or the amount of such reimbursements."
 
 #### Long-Term Care Study Request
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) after June 30, 1985, serves at least two years of continuous active duty in the Armed Forces, subject to subsection (b) of this section, characterized by the Secretary concerned as honorable service; and
 
-&emsp;&emsp;&emsp;(ii) after June 30, 1985, subject to subsection (b) of this section and beginning within one year after completion of such two years of service, serves at least four continuous years in the Selected Reserve during which the individual participates satisfactorily in training as prescribed by the Secretary concerned; or
+&emsp;&emsp;&emsp;(ii) after June 30, 1985, subject to subsection (b) of this section and beginningwithin one year after completion of such two years of service, serves at least four continuous years in the Selected Reserve during which the individual participates satisfactorily in training as prescribed by the Secretary concerned; or
 
 &emsp;&emsp;(C) as of December 31, 1989, was eligible for educational assistance under chapter 34 of this title and—
 
@@ -32,7 +32,7 @@
 
 &emsp;(3) who, after completion of the service described in clause (1) of this subsection—
 
-&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retiredlist, or is transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service; or
+&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retired list, or is transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service; or
 
 &emsp;&emsp;(B) continues on active duty or in the Selected Reserve;
 
@@ -86,7 +86,7 @@
 
 (2) The initial service referred to in paragraph (1) is the initial obligated period of active duty (described in subparagraph (A)(i) or (B)(i) of subsection (a)(1)) or the period of service in the Selected Reserve (described in subparagraphs (A)(ii) or (B)(ii) of subsection (a)(1)).
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2555, §1412; amended Pub. L. 99–145, title VI, §674(2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(2), 307(a)(2), 321(2), Oct. 28, 1986, 100 Stat. 3269, 3277; Pub. L. 100–48, §3(b), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(b)(1), 103(b)(1), 104(b), 105, 111(a)(2)(B), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4171; Pub. L. 101–237, title IV, §§409, 423(a)(1), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2090, 2092; Pub. L. 101–510, div. A, title V, §562(a)(3), Nov. 5, 1990, 104 Stat. 1574; renumbered §3012 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–484, div. D, title XLIV, §4419(b), Oct. 23, 1992, 106 Stat. 2718; Pub. L. 102–568, title III, §§302(a)(2), 303(a)(2), Oct. 29, 1992, 106 Stat. 4326, 4327; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–446, title XII, §1201(f)(2), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(b), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(b), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §704, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 106–419, title I, §§102(b), 103(b), 105(a)(2), title IV, §404(a)(6), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829, 1865; Pub. L. 107–14, §7(c)(2), June 5, 2001, 115 Stat. 32; Pub. L. 107–103, title I, §§105(b), 106(a), Dec. 27, 2001, 115 Stat. 982, 983; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 108–454, title I, §109(b), Dec. 10, 2004, 118 Stat. 3604; Pub. L. 109–233, title V, §503(3), June 15, 2006, 120 Stat. 416; Pub. L. 110–317, §6(c)(2), Aug. 29, 2008, 122 Stat. 3529.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2555, §1412; amended Pub. L. 99–145, title VI, §674(2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(2), 307(a)(2), 321(2), Oct. 28, 1986, 100 Stat. 3269, 3277; Pub. L. 100–48, §3(b), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(b)(1), 103(b)(1), 104(b), 105, 111(a)(2)(B), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4171; Pub. L. 101–237, title IV, §§409, 423(a)(1), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2090, 2092; Pub. L. 101–510, div. A, title V, §562(a)(3), Nov. 5, 1990, 104 Stat. 1574; renumbered §3012 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–484, div. D, title XLIV, §4419(b), Oct. 23, 1992, 106 Stat. 2718; Pub. L. 102–568, title III, §§302(a)(2), 303(a)(2), Oct. 29, 1992, 106 Stat. 4326, 4327; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–446, title XII, §1201(f)(2), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(b), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(b), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §704, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 106–419, title I, §§102(b), 103(b), 105(a)(2), title IV, §404(a)(6), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829, 1865; Pub. L. 107–14, §7(c)(2), June 5, 2001, 115 Stat. 32; Pub. L. 107–103, title I,§§105(b), 106(a), Dec. 27, 2001, 115 Stat. 982, 983; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 108–454, title I, §109(b), Dec. 10, 2004, 118 Stat. 3604; Pub. L. 109–233, title V, §503(3), June 15, 2006, 120 Stat. 416; Pub. L. 110–317, §6(c)(2), Aug. 29, 2008, 122 Stat. 3529.)
 
 #### <b>Editorial Notes</b>
 
@@ -198,7 +198,7 @@ Subsec. (a)(1)(B). Pub. L. 99–576, §307(a)(2), inserted "and was on active du
 
 Subsec. (b)(1). Pub. L. 99–576, §321(2)(B), inserted "such" after "three and one-half years of".
 
-Subsec. (c). Pub. L. 99–576, §303(a)(2), substituted "Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual" for "Anyamounts withheld from basic pay under this paragraph shall revert to the Treasury".
+Subsec. (c). Pub. L. 99–576, §303(a)(2), substituted "Any amount by which the basic pay of an individual is reduced under this subsection shall revert to the Treasury and shall not, for purposes of any Federal law, be considered to have been received by or to be within the control of such individual" for "Any amounts withheld from basic pay under this paragraph shall revert to the Treasury".
 
 <b>1985</b>—Subsec. (a)(1)(B). Pub. L. 99–145 struck out "and without a break in service on active duty since December 31, 1976," after "chapter 34 of this title".
 

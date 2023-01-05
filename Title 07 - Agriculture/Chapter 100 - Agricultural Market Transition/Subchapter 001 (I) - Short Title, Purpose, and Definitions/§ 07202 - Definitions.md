@@ -52,7 +52,7 @@ In this chapter:
 
 #### (12) Producer
 
-&emsp;The term "producer" means an owner, operator, landlord, tenant, or sharecropper who shares in the risk of producing a crop and who is entitled to share in the crop available for marketing from the farm, or would have shared had the crop been produced. In determining whether a grower of hybrid seed is a producer, the Secretary shall not take into consideration the existence of a hybrid seed contract.
+&emsp;The term "producer" means an owner, operator, landlord, tenant, or sharecropper who shares in the risk of producing a crop and who is entitled to share in the crop available formarketing from the farm, or would have shared had the crop been produced. In determining whether a grower of hybrid seed is a producer, the Secretary shall not take into consideration the existence of a hybrid seed contract.
 
 #### (13) Secretary
 
@@ -74,7 +74,7 @@ In this chapter:
 
 For definition of "this chapter", referred to in text, see note set out under section 7201 of this title.
 
-The Agricultural Act of 1949, referred to in pars. (1), (2), and (4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title V of the Act, which was classified generally to subchapter IV (§1461 et seq.) of chapter 35A of this title, was omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in pars. (1), (2), and (4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of this title. Title V of the Act, which was classified generally to subchapter IV (§1461 et seq.) of chapter 35A of this title, was omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 Section 505 of the Agricultural Act of 1949 (7 U.S.C. 1465), referred to in par. (9), was omitted from the Code.
 

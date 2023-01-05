@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;(A) Except as otherwise provided in this paragraph, each local educational agencywhich is eligible for a grant under section 6333 of this title for any fiscal year is eligible for an additional grant under this section for that fiscal year if the number of children counted under section 6333(c) of this title in the agency exceeds either—
+&emsp;(A) Except as otherwise provided in this paragraph, each local educational agency which is eligible for a grant under section 6333 of this title for any fiscal year is eligible for an additional grant under this section for that fiscal year if the number of children counted under section 6333(c) of this title in the agency exceeds either—
 
 &emsp;&emsp;(i) 6,500; or
 

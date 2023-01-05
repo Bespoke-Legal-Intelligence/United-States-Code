@@ -40,7 +40,7 @@ If the Secretary determines that—
 
 > &emsp;whichever first occurs).
 
-(3) No charge shall be made to any person (other than a manufacturer, importer, distributor or retailer) for availing himself of any remedy, described in paragraph (2) and providedunder an order issued under paragraph (1), and the person subject to the order shall reimburse each person (other than a manufacturer, importer, distributor, or retailer) who is entitled to such a remedy for any reasonable and foreseeable expenses actually incurred by such person in availing himself of such remedy.
+(3) No charge shall be made to any person (other than a manufacturer, importer, distributor or retailer) for availing himself of any remedy, described in paragraph (2) and provided under an order issued under paragraph (1), and the person subject to the order shall reimburse each person (other than a manufacturer, importer, distributor, or retailer) who is entitled to such a remedy for any reasonable and foreseeable expenses actually incurred by such person in availing himself of such remedy.
 
 #### (c) Reimbursement
 
@@ -68,7 +68,7 @@ Compliance with an order issued under this section shall not relieve any person 
 
 &emsp;&emsp;(I) not include recall of a device from individuals, and
 
-&emsp;&emsp;(II) not include recall of a device from device user facilities if the Secretary determines that the risk of recalling such device from the facilities presents a greater health risk than the health risk of not recalling the device from use, and
+&emsp;&emsp;(II) not include recall of a device from device user facilities if the Secretary determines that the risk of recalling such devicefrom the facilities presents a greater health risk than the health risk of not recalling the device from use, and
 
 &emsp;(ii) shall provide for notice to individuals subject to the risks associated with the use of such device.
 

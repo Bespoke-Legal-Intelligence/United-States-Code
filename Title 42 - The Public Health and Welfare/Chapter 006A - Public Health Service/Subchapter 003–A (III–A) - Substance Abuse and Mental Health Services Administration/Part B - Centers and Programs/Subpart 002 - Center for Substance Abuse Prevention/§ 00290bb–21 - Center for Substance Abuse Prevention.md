@@ -12,9 +12,9 @@ The Director of the Prevention Center shall—
 
 &emsp;(2) coordinate the findings of research sponsored by agencies of the Service on the prevention of drug and alcohol abuse;
 
-&emsp;(3) collaborate with the Director of the National Institute on Drug Abuse, the Director of the National Institute on Alcohol Abuse and Alcoholism, and States to promote the studyof substance abuse prevention and the dissemination and implementation of research findings that will improve the delivery and effectiveness of substance abuse prevention activities;
+&emsp;(3) collaborate with the Director of the National Institute on Drug Abuse, the Director of the National Institute on Alcohol Abuse and Alcoholism, and States to promote the study of substance abuse prevention and the dissemination and implementation of research findings that will improve the delivery and effectiveness of substance abuse prevention activities;
 
-&emsp;(4) develop effective drug and alcohol abuse prevention literature (including educational information on the effects of drugs abused by individuals, including drugs that are emerging as abused drugs);
+&emsp;(4) develop effective drug and alcohol abuse prevention literature (including educationalinformation on the effects of drugs abused by individuals, including drugs that are emerging as abused drugs);
 
 &emsp;(5) in cooperation with the Secretary of Education, assure the widespread dissemination of prevention materials among States, political subdivisions, and school systems;
 
@@ -82,7 +82,7 @@ Subsec. (b)(5). Pub. L. 114–255, §6007(b)(3)(B), redesignated par. (4) as (5)
 
 Subsec. (b)(6). Pub. L. 114–255, §6007(b)(3)(B), (E), redesignated par. (5) as (6) and substituted "health professionals who provide substance use and misuse prevention and treatment services" for "substance abuse counselors" and "illicit drug use education and prevention" for "drug abuse education, prevention,". Former par. (6) redesignated (7).
 
-Subsec. (b)(7). Pub. L. 114–255, §6007(b)(3)(B), (F), redesignated par. (6) as (7) and amended par. (7) generally. Prior to amendment, par. (7) read as follows: "in cooperation with the Director of the Centers for Disease Control and Prevention, develop educational materials to reduce the risks of acquired immune deficiency syndrome among intravenous drug abusers;". Former par. (7) redesignated (8).
+Subsec. (b)(7). Pub. L. 114–255, §6007(b)(3)(B), (F), redesignated par. (6) as (7) and amended par. (7) generally. Prior to amendment, par. (7) read as follows: "in cooperation with the Director of the Centers for Disease Control and Prevention, develop educational materialsto reduce the risks of acquired immune deficiency syndrome among intravenous drug abusers;". Former par. (7) redesignated (8).
 
 Subsec. (b)(8). Pub. L. 114–255, §6007(b)(3)(B), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 

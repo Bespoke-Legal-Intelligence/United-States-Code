@@ -52,7 +52,7 @@ A prior section 2515, Pub. L. 87–293, title I, §16, Sept. 22, 1961, 75 Stat. 
 
 #### Effective Date
 
-Pub. L. 102–565, §2(b), Oct. 28, 1992, 106 Stat. 4266, provided that: "The amendment made by subsection (a)\[enacting this section\] applies with respect to each fiscal year after fiscal year 1992."
+Pub. L. 102–565, §2(b), Oct. 28, 1992, 106 Stat. 4266, provided that: "The amendment made by subsection (a) \[enacting this section\] applies with respect to each fiscal year after fiscal year 1992."
 
 #### Repeals; Amendments and Application of Amendments Unaffected; Continuation of Determinations, Authorization, Regulations, Orders, Contracts, Agreements, and Other Actions
 

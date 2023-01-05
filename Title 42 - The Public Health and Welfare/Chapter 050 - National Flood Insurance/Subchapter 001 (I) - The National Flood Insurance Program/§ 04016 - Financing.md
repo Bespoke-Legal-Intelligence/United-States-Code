@@ -2,7 +2,7 @@
 
 #### (a) Authority to issue notes and other obligations
 
-All authority which was vested in the Housing and Home Finance Administrator by virtue of section 2414(e) of this title (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in section 4026 of this title, and $1,000,000,000 thereafter; except that, through September 30, 2021, clause (2) of this sentence shall be applied by substituting "$30,425,000,000" for "$1,500,000,000". The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
+All authority which was vested in the Housing and Home Finance Administrator by virtue of section 2414(e) of this title (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in section 4026 of this title, and $1,000,000,000 thereafter; except that, through September 30, 2023, clause (2) of this sentence shall be applied by substituting "$30,425,000,000" for "$1,500,000,000". The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
 
 #### (b) Deposit of borrowed funds
 
@@ -28,7 +28,7 @@ In connection with any funds borrowed by the Administrator under the authority e
 
 &emsp;(3) the Committee on Financial Services of the House of Representatives.
 
-(Pub. L. 90–448, title XIII, §1309, Aug. 1, 1968, 82 Stat. 577; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 93–234, title I, §104, Dec. 31, 1973, 87 Stat. 979; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §204(g), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 104–208, div. A, title V, Sept. 30, 1996, 110 Stat. 3009–521; Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1377; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2502; Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1088; Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–47; Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 689; Pub. L. 108–3, §2(a)(1), Jan. 13, 2003, 117 Stat. 7; Pub. L. 108–171, §2(a)(2), Dec. 6, 2003, 117 Stat. 2064; Pub. L. 108–199, div. H, §136(a)(2), Jan. 23, 2004, 118 Stat. 442; Pub. L. 108–264, title I, §101(a), June 30, 2004, 118 Stat. 714; Pub. L. 109–65, §2, Sept. 20, 2005, 119 Stat. 1998; Pub. L. 109–106, §2, Nov. 21, 2005, 119 Stat. 2288; Pub. L. 109–208, §2, Mar. 23, 2006, 120 Stat. 317; Pub. L. 111–196, §2(b), July 2, 2010, 124 Stat. 1352; Pub. L. 111–250, §2(b), Sept. 30, 2010, 124 Stat. 2630; Pub. L. 112–74, div. D, title V, §573, Dec. 23, 2011, 125 Stat. 985; Pub. L. 112–123, §1(b), May 31, 2012, 126 Stat. 365; Pub. L. 112–141, div. F, title II, §§100203(a), 100213(a), 100238(b)(1), July 6, 2012, 126 Stat. 916, 923, 958; Pub. L. 113–1, §1(a), Jan. 6, 2013, 127 Stat. 3; Pub. L. 115–225, §2(a), July 31, 2018, 132 Stat. 1624; Pub. L. 115–281, §2(a), Dec. 1, 2018, 132 Stat. 4191; Pub. L. 115–396, §2(a), Dec. 21, 2018, 132 Stat. 5296; Pub. L. 116–19, §2(a), May 31, 2019, 133 Stat. 870; Pub. L. 116–20, title XII, §1207(a), June 6, 2019, 133 Stat. 901; Pub. L. 116–159, div. A, §146(a), Oct. 1, 2020, 134 Stat. 718.)
+(Pub. L. 90–448, title XIII, §1309, Aug. 1, 1968, 82 Stat. 577; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 93–234, title I, §104, Dec. 31, 1973, 87 Stat. 979; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §204(g), Oct. 17, 1984, 98 Stat. 2233; Pub. L. 104–208, div. A, title V, Sept. 30, 1996, 110 Stat. 3009–521; Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1377; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2502; Pub. L. 106–74, title III, Oct. 20, 1999, 113 Stat. 1088; Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–47; Pub. L. 107–73, title III, Nov. 26, 2001, 115 Stat. 689; Pub. L. 108–3, §2(a)(1), Jan. 13, 2003, 117 Stat. 7; Pub. L. 108–171, §2(a)(2), Dec. 6, 2003, 117 Stat. 2064; Pub. L. 108–199, div. H, §136(a)(2), Jan. 23, 2004, 118 Stat. 442; Pub. L. 108–264, title I, §101(a), June 30, 2004, 118 Stat. 714; Pub. L. 109–65, §2, Sept. 20, 2005, 119 Stat. 1998; Pub. L. 109–106, §2, Nov. 21, 2005, 119 Stat. 2288; Pub. L. 109–208, §2, Mar. 23, 2006, 120 Stat. 317; Pub. L. 111–196, §2(b), July 2, 2010, 124 Stat. 1352; Pub. L. 111–250, §2(b), Sept. 30, 2010, 124 Stat. 2630; Pub. L. 112–74, div. D, title V, §573, Dec. 23, 2011, 125 Stat. 985; Pub. L. 112–123, §1(b), May 31, 2012, 126 Stat. 365; Pub. L. 112–141, div. F, title II, §§100203(a), 100213(a), 100238(b)(1), July 6, 2012, 126 Stat. 916, 923, 958; Pub. L. 113–1, §1(a), Jan. 6, 2013, 127 Stat. 3; Pub. L. 115–225, §2(a), July 31, 2018, 132 Stat. 1624; Pub. L. 115–281, §2(a), Dec. 1, 2018, 132 Stat. 4191; Pub. L. 115–396, §2(a), Dec. 21, 2018, 132 Stat. 5296; Pub. L. 116–19, §2(a), May 31, 2019, 133 Stat. 870; Pub. L. 116–20, title XII, §1207(a), June 6, 2019, 133 Stat. 901; Pub. L. 116–159, div. A, §146(a), Oct. 1, 2020, 134 Stat. 718; Pub. L. 117–103, div. O, title I, §101(a), Mar. 15, 2022, 136 Stat. 787; Pub. L. 117–328, div. AA, title IX, §901(a), Dec. 29, 2022, 136 Stat. 5551.)
 
 #### <b>Editorial Notes</b>
 
@@ -39,6 +39,10 @@ Section 1303 of this Act, referred to in subsec. (a), means section 1303 of Pub.
 This chapter, referred to in subsec. (a), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–328 substituted "September 30, 2023" for "September 30, 2022".
+
+Pub. L. 117–103 substituted "September 30, 2022" for "September 30, 2021".
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–159 substituted "September 30, 2021" for "September 30, 2019".
 
@@ -110,6 +114,10 @@ Reference to the Director of the Federal Emergency Management Agency in any law,
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. AA, title IX, §901(c), Dec. 29, 2022, 136 Stat. 5551, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 4026 of this title\] shall take effect as if enacted on September 30, 2022."
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–159, div. A, §146(c), Oct. 1, 2020, 134 Stat. 718, provided that:
@@ -130,7 +138,7 @@ Pub. L. 115–396, §2(c), Dec. 21, 2018, 132 Stat. 5296, provided that: "If thi
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–196, §2(c), July 2, 2010, 124 Stat. 1352, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 4026 of this title\] shall be considered to have taken effect on May 31, 2010."
+Pub. L. 111–196, §2(c), July 2, 2010, 124 Stat. 1352, provided that: "The amendments made by subsections (a)and (b) \[amending this section and section 4026 of this title\] shall be considered to have taken effect on May 31, 2010."
 
 #### Effective Date of 2004 Amendment
 
@@ -144,7 +152,7 @@ Pub. L. 108–3, §2(b), Jan. 13, 2003, 117 Stat. 7, provided that: "The amendme
 
 #### Effective Date
 
-Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in noevent more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
+Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under section 4001 of this title.
 
 #### Transfer of Functions
 

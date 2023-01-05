@@ -64,7 +64,7 @@ As used in this chapter:
 
 #### (14) Qualified State soybean board
 
-&emsp;The term "qualified State soybean board" means a State soybean promotion entity that is authorized by State law. If no such entity exists in a State, the term "qualified State soybean board" means a soybean producer-governed entity—
+&emsp;The term "qualified State soybean board" means a State soybean promotion entity thatis authorized by State law. If no such entity exists in a State, the term "qualified State soybean board" means a soybean producer-governed entity—
 
 &emsp;&emsp;(A) that is organized and operating within a State;
 

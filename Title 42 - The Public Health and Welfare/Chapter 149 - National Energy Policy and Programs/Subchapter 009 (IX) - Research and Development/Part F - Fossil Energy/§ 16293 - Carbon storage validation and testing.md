@@ -102,7 +102,7 @@ In this section:
 
 &emsp;&emsp;(B) identifies the remaining challenges in achieving large-scale carbon sequestration that is reliable and safe for the environment and public health; and
 
-&emsp;&emsp;(C) creates a roadmap for carbon storage research and development activities of the Department through 2025, with the goal of reducing economic and policy barriers to commercial carbon sequestration.
+&emsp;&emsp;(C) creates a roadmap for carbon storage research and development activities of theDepartment through 2025, with the goal of reducing economic and policy barriers to commercial carbon sequestration.
 
 #### (d) Integrated storage
 
@@ -124,7 +124,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a commercialization program under which the Secretaryshall provide funding for the development of new or expanded commercial large-scale carbon sequestration projects and associated carbon dioxide transport infrastructure, including funding for the feasibility, site characterization, permitting, and construction stages of project development.
+&emsp;The Secretary shall establish a commercialization program under which the Secretary shall provide funding for the development of new or expanded commercial large-scale carbon sequestration projects and associated carbon dioxide transport infrastructure, including funding for the feasibility, site characterization, permitting, and construction stages of project development.
 
 #### (2) Applications; selection
 

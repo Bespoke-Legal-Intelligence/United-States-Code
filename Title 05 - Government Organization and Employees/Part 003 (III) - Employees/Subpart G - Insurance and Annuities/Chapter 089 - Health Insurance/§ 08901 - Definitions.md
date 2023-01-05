@@ -136,7 +136,7 @@ Aug. 31, 1964, Pub. L. 88–531, §1, 78 Stat. 737.
 
 July 1, 1960, Pub. L. 86–568, §115(d) "(f) (1st sentence, less words between 1st and 2d commas)", 74 Stat. 303.
 
-The definition of "employee" in section 2105 of this title is broad enough to cover the officers and employees covered by former section 3001 with the exception of a Member of Congress, the President, an individual employed by the government of the District of Columbia, an individual employed by Gallaudet College, a United States commissioner, and an Official Reporter of Debates of the Senate and an individual employed by him. The first five have been added in paragraphs (1)(B), (D), (E), (F), and (G). The latter are covered by the definition of "Congressional employee" in section 2107 of this title and are included by the addition of a Congressional employee in paragraph (1)(C).
+The definition of "employee" in section 2105 of this title is broad enough to cover the officers and employees covered by former section 3001 with the exception ofa Member of Congress, the President, an individual employed by the government of the District of Columbia, an individual employed by Gallaudet College, a United States commissioner, and an Official Reporter of Debates of the Senate and an individual employed by him. The first five have been added in paragraphs (1)(B), (D), (E), (F), and (G). The latter are covered by the definition of "Congressional employee" in section 2107 of this title and are included by the addition of a Congressional employee in paragraph (1)(C).
 
 In paragraph (1)(ii), the words "the United States" are substituted for "a State of the United States or the District of Columbia".
 
@@ -244,7 +244,7 @@ Amendment by section 2(75)(A) of Pub. L. 102–378 effective Nov. 5, 1990, and a
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or CoastGuard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1986 Amendments
 
@@ -330,7 +330,7 @@ Transfers to the Employees Health Benefits Fund.—
 
 &emsp;"(1)
 
-In general.—The Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\] shall transfer to the Employees Health Benefits Fund established undersection 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Overseas Private Investment Corporation, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section.
+In general.—The Overseas Private Investment Corporation \[now the United States International Development Finance Corporation\] shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Overseas Private Investment Corporation, to be necessary toreimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section.
 
 &emsp;"(2)
 
@@ -416,7 +416,7 @@ Pub. L. 104–37, title VI, §601, Oct. 21, 1995, 109 Stat. 328, provided that:
 
 "(b)(1) An individual who, on September 30, 1995, is covered by a health benefits plan administered by the Farm Credit Administration may enroll in an approved health benefits plan described under section 8903 or 8903a of title 5, United States Code—
 
-&emsp;"(A) either as an individual or for self and family, if such individual is an employee, annuitant, orformer spouse as defined under section 8901 of such title; and
+&emsp;"(A) either as an individual or for self and family, if such individual is an employee, annuitant, or former spouse as defined under section 8901 of such title; and
 
 &emsp;"(B) for coverage effective on and after September 30, 1995.
 

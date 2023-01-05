@@ -46,7 +46,7 @@ Contractual obligation.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law (including regulations), the authorization by the Secretary, or the Secretary of the appropriate Federalland management agency if the agency is the contracting office, of engineering and related work for the development, design, and acquisition associated with a construction project, whether performed by contract or agreement authorized by law, or the approval by the Secretary of plans, specifications, and estimates for construction of a project, shall be considered to constitute a contractual obligation of the Federal Government to pay the total eligible cost of—
+In general.—Notwithstanding any other provision of law (including regulations), the authorization by the Secretary, or the Secretary of the appropriate Federal land management agency if the agency is the contracting office, of engineering and related work for the development, design, and acquisition associated with a construction project, whether performed by contract or agreement authorized by law, or the approval by the Secretary of plans, specifications, and estimates for construction of a project, shall be considered to constitute a contractual obligation of the Federal Government to pay the total eligible cost of—
 
 &emsp;&emsp;&emsp;(i) any project funded under this title; and
 
@@ -254,7 +254,7 @@ Subsec. (f). Pub. L. 117–58, §11305(a), added subsec. (f).
 
 Subsec. (c)(6)(C). Pub. L. 114–94, §1117(a), added subpar. (C).
 
-Subsec. (c)(7), (8). Pub. L. 114–94, §1120(2), added pars. (7) and (8) and struck out former par. (7). Prior to amendment, text of par. (7) read as follows: "To implement the activities described in this subsection, including direct support of transportation planning activities among Federal land management agencies, the Secretary may use not more than 5 percent for each fiscalyear of the funds authorized for programs under sections 203 and 204."
+Subsec. (c)(7), (8). Pub. L. 114–94, §1120(2), added pars. (7) and (8) and struck out former par. (7). Prior to amendment, text of par. (7) read as follows: "To implement the activities described in this subsection, including direct support of transportation planning activities among Federal land management agencies, the Secretary may use not more than 5 percent for each fiscal year of the funds authorized for programs under sections 203 and 204."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

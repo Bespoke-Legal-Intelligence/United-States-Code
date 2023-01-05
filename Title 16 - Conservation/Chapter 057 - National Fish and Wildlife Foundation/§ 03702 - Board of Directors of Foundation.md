@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Foundation shall have a governing Board of Directors (referred to in this chapter as the "Board"), which shall consist of 30 Directors appointed in accordance with subsection (b), each of whom shall be a United States citizen.
+&emsp;The Foundation shall have a governing Board of Directors (referred to in this chapteras the "Board"), which shall consist of 30 Directors appointed in accordance with subsection (b), each of whom shall be a United States citizen.
 
 #### (2) Representation of diverse points of view
 

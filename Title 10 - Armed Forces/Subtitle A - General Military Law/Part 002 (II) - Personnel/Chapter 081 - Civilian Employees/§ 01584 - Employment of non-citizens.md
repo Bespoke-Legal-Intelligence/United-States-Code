@@ -30,7 +30,7 @@ The words "appointment or" are omitted as surplusage.
 
 <b>1996</b>—Pub. L. 104–106 struck out subsec. (a) heading "Waiver of employment restrictions for certain personnel", designated subsec. (a) as entire section, and struck out subsec. (b) which read as follows: "
 
-Notice to Congress of Certain Salary Increases.—The Secretary of Defense shall notify the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives when any salary increase granted to direct and indirect hire foreign national employees of the Department of Defense overseas, stated as a percentage, is greater than the higher of the following percentages:
+Notice to Congress of Certain Salary Increases.—The Secretary of Defense shall notify the Committees on Armed Services and the Committees on Appropriationsof the Senate and House of Representatives when any salary increase granted to direct and indirect hire foreign national employees of the Department of Defense overseas, stated as a percentage, is greater than the higher of the following percentages:
 
 &emsp;"(1) The percentage pay increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5.
 
@@ -50,9 +50,13 @@ Amendment by section 1482(b) of Pub. L. 101–510 effective Oct. 1, 1991, see se
 
 #### Citizenship Requirement Not Applicable
 
-Pub. L. 116–260, div. C, title VIII, §8002, Dec. 27, 2020, 134 Stat. 1302, provided that: "During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: <i>Provided</i>, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[div. C of Pub. L. 116–260, see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: <i>Provided further</i>, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]: <i>Provided further</i>, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey."
+Pub. L. 117–328, div. C, title VIII, §8002, Dec. 29, 2022, 136 Stat. 4584, provided that: "During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: <i>Provided</i>, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[div. C of Pub. L. 117–328, see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: <i>Provided further</i>, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]: <i>Provided further</i>, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–103, div. C, title VIII, §8002, Mar. 15, 2022, 136 Stat. 172.
+
+Pub. L. 116–260, div. C, title VIII, §8002, Dec. 27, 2020, 134 Stat. 1302.
 
 Pub. L. 116–93, div. A, title VIII, §8002, Dec. 20, 2019, 133 Stat. 2334.
 

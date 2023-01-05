@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The total of the amounts which are treated under section 666 as having been distributed by a trust in a preceding taxable year shall be included in the income of a beneficiary of the trust when paid, credited, or required to be distributed to the extent that such total would have been included in the income of such beneficiary under section 662(a)(2) (and, with respect to any tax-exempt interest to which section 103 applies, under section 662(b)) if such total had been paid to such beneficiary on the last day of such preceding taxable year. The tax imposed bythis subtitle on a beneficiary for a taxable year in which any such amount is included in his income shall be determined only as provided in this section and shall consist of the sum of—
+The total of the amounts which are treated under section 666 as having been distributed by a trust in a preceding taxable year shall be included in the income of a beneficiary of the trust when paid, credited, or required to be distributed to the extent that such total would have been included in the income of such beneficiary under section 662(a)(2) (and, with respect to any tax-exempt interest to which section 103 applies, under section 662(b)) if such total had been paid to such beneficiary on the last day of such preceding taxable year. The tax imposed by this subtitle on a beneficiary for a taxable year in which any such amount is included in his income shall be determined only as provided in this section and shall consist of the sum of—
 
 &emsp;(1) a partial tax computed on the taxable income reduced by an amount equal to the total of such amounts, at the rate and in the manner as if this section had not been enacted,
 
@@ -68,7 +68,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (2) Accumulation distributions from trust not taken into account unless they equal or exceed $1,000
 
-&emsp;For purposes of paragraph (1), an accumulation distribution from a trust to a beneficiaryshall be taken into account only if such distribution, when added to any prior accumulation distributions from such trust which are deemed under section 666(a) to have been distributed to such beneficiary for the same prior taxable year of the beneficiary, equals or exceeds $1,000.
+&emsp;For purposes of paragraph (1), an accumulation distribution from a trust to a beneficiary shall be taken into account only if such distribution, when added to any prior accumulation distributions from such trust which are deemed under section 666(a) to have been distributed to such beneficiary for the same prior taxable year of the beneficiary, equals or exceeds $1,000.
 
 #### (d) Special rules for foreign trust
 
@@ -80,7 +80,7 @@ The total of the amounts which are treated under section 666 as having been dist
 
 #### (B) Deduction in lieu of credit
 
-&emsp;&emsp;If the beneficiary did not choose the benefits of subpart A of part III of subchapter N with respect to the computation year, the beneficiary may in lieu of treating the amounts described in subparagraph (A) (without regard to subparagraph (C)) as a credit may treat such amounts as a deduction in computing the beneficiary's taxable income under subsection (b)(1)(C) for the computation year.
+&emsp;&emsp;If the beneficiary did not choose the benefits of subpart A of part III of subchapter Nwith respect to the computation year, the beneficiary may in lieu of treating the amounts described in subparagraph (A) (without regard to subparagraph (C)) as a credit may treat such amounts as a deduction in computing the beneficiary's taxable income under subsection (b)(1)(C) for the computation year.
 
 #### (C) Limitation on credit; retention of character
 
@@ -126,7 +126,7 @@ Subsec. (e). Pub. L. 95–600, §701(r)(1), added subsec. (e).
 
 <b>1969</b>—Subsec. (a). Pub. L. 91–172 incorporated existing provisions of first sentence in provisions designated as subsec. (a), included distributions made under section 669 of this title, and struck out provisions for credit of taxes imposed on the trust against tax of beneficiary. See subsec. (b) of this section.
 
-Subsec. (b). Pub. L. 91–172 incorporated provision of first sentence for credit of taxes imposed on the trust against tax of beneficiary, and provided for interest free credit and method of computation of its amount. The second sentence had provided that the amount of taxes which may not be refunded or credited to the trust shall be an amount equal to the excess of (1) the taxes imposed on the trust for any preceding taxable year (computed without regard to the accumulation distribution for the taxable year) over (2) the amount of taxes for such preceding taxable year imposed on the undistributed portion of distributable net income of thetrust for such preceding taxable year after the application of this subpart on account of the accumulation distribution determined for such taxable year.
+Subsec. (b). Pub. L. 91–172 incorporated provision of first sentence for credit of taxes imposed on the trust against tax of beneficiary, and provided for interest free credit and method of computation of its amount. The second sentence had provided that the amount of taxes which may not be refunded or credited to the trust shall be an amount equal to the excess of (1) the taxes imposed on the trust for any preceding taxable year (computed without regard to the accumulation distribution for the taxable year) over (2) the amount of taxes for such preceding taxable year imposed on the undistributed portion of distributable net income of the trust for such preceding taxable year after the application of this subpart on account of the accumulation distribution determined for such taxable year.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

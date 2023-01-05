@@ -18,9 +18,11 @@ In order to carry out the purposes of this chapter, there is established in the 
 
 &emsp;(7) a program of working with private, not-for-profit groups through contracts, grants, or cooperative agreements, as authorized by section 2452 of this title, so as to provide financial assistance to nongovernmental organizations engaged in implementing and enhancing exchange-of-persons programs;
 
-&emsp;(8) the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons under the age of 21 years and of students at an institution of higher education (as defined in section 1001 of title 20) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries; and
+&emsp;(8) the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons under the age of 21 years and of students at an institution of higher education (as defined in section 1001 of title 20) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries;
 
-&emsp;(9) the Arts America program which promotes a greater appreciation and understanding of American art abroad by supporting exhibitions and tours by American artists in other countries.
+&emsp;(9) the Arts America program which promotes a greater appreciation and understanding of American art abroad by supporting exhibitions and tours by American artists in other countries; and
+
+&emsp;(10) exchange programs, including in coordination and consultation with the private sector, focused on music and the performing arts that provide opportunities for foreign nationals and Americans to build cross-cultural understanding and advance peace abroad.
 
 #### (b) Revocation or diminution of grants
 
@@ -30,7 +32,7 @@ In order to carry out the purposes of this chapter, there is established in the 
 
 #### (c) Program requirements
 
-The President shall insure that all programs under the authority of the Bureau shall maintain their nonpolitical character and shall be balanced and representative of the diversity of American political, social, and cultural life. The President shall insure that academic and cultural programs under the authority of the Bureau shall maintain their scholarly integrity and shall meet the highest standards of academic excellence or artistic achievement.
+The President shall insure that all programs under the authority of the Bureau shall maintain their nonpolitical character and shall be balanced and representative of the diversity of American political, social, and cultural life. ThePresident shall insure that academic and cultural programs under the authority of the Bureau shall maintain their scholarly integrity and shall meet the highest standards of academic excellence or artistic achievement.
 
 #### (d) Administration of programs
 
@@ -102,21 +104,23 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 (11) With respect to any report issued under paragraph (6), a member may submit dissenting views to be submitted as part of the report of the Working Group.
 
-(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, §102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2414, Oct. 21, 1998, 112 Stat. 2681–832; Pub. L. 107–228, div. A, title II, §§221, 229, Sept. 30, 2002, 116 Stat. 1367, 1371.)
+(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, §102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2414, Oct. 21, 1998, 112 Stat. 2681–832; Pub. L. 107–228, div. A, title II, §§221, 229, Sept. 30, 2002, 116 Stat. 1367, 1371; Pub. L. 117–263, div. I, title XCVI, §9604(b)(2), Dec. 23, 2022, 136 Stat. 3912.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original "this Act", meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original "this Act", meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
-The FREEDOM Support Act, referred to in subsec. (d)(2), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The FREEDOM Support Act, referred to in subsec. (d)(2), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
-The Support for East European Democracy Act, referred to in subsec. (d)(2), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+The Support for East European Democracy Act, referred to in subsec. (d)(2), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to chapter 63 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(10). Pub. L. 117–263 added par. (10).
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–228, §221, designated existing provisions as par. (1) and added par. (2).
 
@@ -159,6 +163,28 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 Pub. L. 101–246, title II, §222(b), Feb. 16, 1990, 104 Stat. 56, provided that: "There are hereby transferred to the Office of Citizen Exchanges on the date of enactment of this Act \[Feb. 16, 1990\] all functions carried out by the Office of Private Sector Programs on the day before such date."
+
+#### Private Sector Partnerships
+
+Pub. L. 117–263, div. I, title XCVI, §9604(c), Dec. 23, 2022, 136 Stat. 3912, provided that:
+
+"(1)
+
+In general.—The Secretary \[of State\] should continue—
+
+&emsp;"(A) to partner with the private sector in support of music-related exchange programs implemented by the Bureau of Educational and Cultural Affairs (referred to in this section as the 'ECA');
+
+&emsp;"(B) to leverage private sector expertise in developing and implementing such programs; and
+
+&emsp;"(C) to expand networking and mentorship opportunities for program participants.
+
+"(2)
+
+Authorization of certain partnerships.—The Secretary is authorized to partner with the private sector to recognize musicians—
+
+&emsp;"(A) whose works or performances have advanced peace abroad; and
+
+&emsp;"(B) who could contribute to networking and mentorship opportunities for participants of music-related exchange programs implemented by ECA."
 
 #### Information on Educational Opportunities for Children With Special Education Needs Consistent With the Individuals With Disabilities Education Act
 

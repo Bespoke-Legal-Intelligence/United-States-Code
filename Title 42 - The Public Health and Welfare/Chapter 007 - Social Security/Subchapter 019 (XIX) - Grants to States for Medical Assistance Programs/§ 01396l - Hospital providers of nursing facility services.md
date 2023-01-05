@@ -4,7 +4,7 @@
 
 (b)(1) Except as provided in paragraph (3), payment to any such hospital, for any nursing facility services furnished pursuant to subsection (a), shall be at a rate equal to the average rate per patient-day paid for routine services during the previous calendar year under the State plan to nursing facilities, respectively,<sup>1</sup> located in the State in which the hospital is located. The reasonable cost of ancillary services shall be determined in the same manner as the reasonable cost of ancillary services provided for inpatient hospital services.
 
-(2) With respect to any period for which a hospital has an agreement under section 1395tt of this title, in order to allocate routine costs between hospital and long-term care services, the total reimbursement for routine services due from all classes of long-term care patients (including subchapter XVIII, this subchapter, and private pay patients) shall be subtracted from the hospital total routine costs before calculations are made to determine reimbursement for routine hospital services under the State plan.
+(2) With respect to any period for which a hospital has an agreement under section 1395tt ofthis title, in order to allocate routine costs between hospital and long-term care services, the total reimbursement for routine services due from all classes of long-term care patients (including subchapter XVIII, this subchapter, and private pay patients) shall be subtracted from the hospital total routine costs before calculations are made to determine reimbursement for routine hospital services under the State plan.
 
 (3) Payment to all such hospitals, for any nursing facility services furnished pursuant to subsection (a), may be made at a payment rate established by the State in accordance with the requirements of section 1396a(a)(13)(A) of this title.
 
@@ -38,7 +38,7 @@ Pub. L. 98–369, div. B, title III, §2369(b), July 18, 1984, 98 Stat. 1110, pr
 
 #### Effective Date
 
-Section effective on date on which final regulations to implement the section are first issued, see section904(d) of Pub. L. 96–499, set out as an Effective Date note under section 1395tt of this title.
+Section effective on date on which final regulations to implement the section are first issued, see section 904(d) of Pub. L. 96–499, set out as an Effective Date note under section 1395tt of this title.
 
 <i><sup>1</sup></i><i> So in original, ", respectively," probably should not appear.</i>
 

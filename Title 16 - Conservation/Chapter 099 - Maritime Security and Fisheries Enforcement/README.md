@@ -19,6 +19,7 @@
 | [8015\.](Subchapter%20001%20%28I%29%20-%20Programs%20to%20Combat%20IUU%20Fishing%20and%20Increase%20Maritime%20Security/%C2%A7%2008015%20-%20Improvement%20of%20transparency%20and%20traceability%20programs.md) | Improvement of transparency and traceability programs. |
 | [8016\.](Subchapter%20001%20%28I%29%20-%20Programs%20to%20Combat%20IUU%20Fishing%20and%20Increase%20Maritime%20Security/%C2%A7%2008016%20-%20Technology%20programs.md) | Technology programs. |
 | [8017\.](Subchapter%20001%20%28I%29%20-%20Programs%20to%20Combat%20IUU%20Fishing%20and%20Increase%20Maritime%20Security/%C2%A7%2008017%20-%20Savings%20clause.md) | Savings clause. |
+| [8018\.](Subchapter%20001%20%28I%29%20-%20Programs%20to%20Combat%20IUU%20Fishing%20and%20Increase%20Maritime%20Security/%C2%A7%2008018%20-%20Capacity%20building%20in%20foreign%20fisheries.md) | Capacity building in foreign fisheries. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

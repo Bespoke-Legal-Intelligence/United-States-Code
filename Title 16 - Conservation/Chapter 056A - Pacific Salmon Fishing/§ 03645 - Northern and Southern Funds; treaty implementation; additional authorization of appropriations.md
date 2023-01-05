@@ -66,13 +66,13 @@ Fund Management.—
 
 #### References in Text
 
-Public Law 93–205, referred to in subsec. (b)(1)(B)(iii), (3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, known as the Endangered Species Act of 1973, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+Public Law 93–205, referred to in subsec. (b)(1)(B)(iii), (3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, known as the Endangered Species Act of 1973, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 #### Codification
 
 Section is comprised of section 16 of Pub. L. 99–5. Section 16(c) of Pub. L. 99–5 amended section 3632 of this title.
 
-Pub. L. 109–479, §302(d)(1), which directed that the text of section 623 of title VI of H.R. 3421 (113 Stat. 1501A–56), as introduced on November 17, 1999, enacted into law by section 1000(a)(1) of Pub. L. 106–113 andamended by Pub. L. 106–533, 114 Stat. 2762A–108, be transferred to and renumbered as section 16 of the Pacific Salmon Treaty Act, was executed by transferring Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623\], as amended by Pub. L. 106–553, §1(a)(2) \[title VI, §628\], to and renumbering it as section 16 of Pub. L. 99–5, which is the Pacific Salmon Treaty Act of 1985, to reflect the probable intent of Congress. See source credit above.
+Pub. L. 109–479, §302(d)(1), which directed that the text of section 623 of title VI of H.R. 3421 (113 Stat. 1501A–56), as introduced on November 17, 1999, enacted into law by section 1000(a)(1) of Pub. L. 106–113 and amended by Pub. L. 106–533, 114 Stat. 2762A–108, be transferred to and renumbered as section 16 of the Pacific Salmon Treaty Act, was executed by transferring Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623\], as amended by Pub. L. 106–553, §1(a)(2) \[title VI, §628\], to and renumbering it as section 16 of Pub. L. 99–5, which is the Pacific Salmon Treaty Act of 1985, to reflect the probable intent of Congress. See source credit above.
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Subsec. (d). Pub. L. 106–553, §1(a)(2) \[title VI, §628(b)\], added subsec. 
 
 &emsp;"(2) For salmon habitat restoration, salmon stock enhancement, salmon research, and implementation of the 1999 Pacific Salmon Treaty Agreement and related agreements, there is authorized to be appropriated in fiscal year 2000, $50,000,000 to the States of California, Oregon, Washington, and Alaska. The State of Alaska may allocate a portion of any funds it receives under this subsection to eligible activities outside Alaska.
 
-&emsp;"(3) For salmon habitat restoration, salmon stock enhancement, salmon research, and implementation of the 1999 Pacific Salmon Treaty Agreement and related agreements, there is authorized to be appropriated $6,000,000 in fiscal year 2000 to the Pacific Coastal tribes (as defined by the Secretary of Commerce) and $2,000,000 in fiscal year 2000 to the Columbia River tribes (as defined by the Secretary of Commerce).
+&emsp;"(3) For salmon habitat restoration, salmon stock enhancement, salmon research, and implementationof the 1999 Pacific Salmon Treaty Agreement and related agreements, there is authorized to be appropriated $6,000,000 in fiscal year 2000 to the Pacific Coastal tribes (as defined by the Secretary of Commerce) and $2,000,000 in fiscal year 2000 to the Columbia River tribes (as defined by the Secretary of Commerce).
 
 > Funds appropriated to the States under the authority of this section shall be subject to a 25 percent non-Federal match requirement. In addition, not more than 3 percent of such funds shall be available for administrative expenses, with the exception of funds used in the Washington State for the Forest and Fish Agreement."
 

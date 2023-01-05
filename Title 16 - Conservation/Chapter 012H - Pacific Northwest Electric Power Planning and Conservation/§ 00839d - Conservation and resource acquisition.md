@@ -2,7 +2,7 @@
 
 #### (a) Conservation measures; resources
 
-(1) The Administrator shall acquire such resources through conservation, implement all such conservation measures, and acquire such renewable resources which are installed by a residential or small commercial consumer to reduce load, as the Administrator determines are consistent with the plan, or if no plan is in effect with the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title and, in the case of major resources, in accordance with subsection (c) of this section. Such conservation measures and such resources may include, but are not limited to—
+(1) The Administrator shall acquire such resources through conservation, implement allsuch conservation measures, and acquire such renewable resources which are installed by a residential or small commercial consumer to reduce load, as the Administrator determines are consistent with the plan, or if no plan is in effect with the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title and, in the case of major resources, in accordance with subsection (c) of this section. Such conservation measures and such resources may include, but are not limited to—
 
 &emsp;(A) loans and grants to consumers for insulation or weatherization, increased system efficiency, and waste energy recovery by direct application,
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(ii) if no plan is in effect, a finding that the proposal is either consistent or inconsistent with the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title or notwithstanding its inconsistency, a finding that it is needed to meet the Administrator's obligations under this chapter.
 
-> &emsp;In the case of subsection (f) of this section, such decision shall be treated as satisfying the applicable requirements of this subsection and of subsection (f) of this section, if it includes a finding of probable consistency, based upon the Administrator's evaluation of information available at the time of completion of the hearing under this paragraph. Such decision shall include the reasons for such finding.
+> &emsp;In the case of subsection (f) of this section, such decision shall be treated as satisfying the applicable requirements of this subsection andof subsection (f) of this section, if it includes a finding of probable consistency, based upon the Administrator's evaluation of information available at the time of completion of the hearing under this paragraph. Such decision shall include the reasons for such finding.
 
 (2) Within sixty days of the receipt of the Administrator's decision pursuant to paragraph (1)(D) of this subsection, the Council may determine by a majority vote of all members of the Council, and notify the Administrator—
 
@@ -98,7 +98,7 @@ The Administrator is authorized to acquire a resource, other than a major resour
 
 &emsp;(ii) such investigation subsequently demonstrates, as determined by the Administrator, that such resource does not meet the criteria of section 839b(e)(1) of this title and the considerations of section 839b(e)(2) of this title or is not acceptable because of environmental impacts, or
 
-&emsp;(iii) after such investigation the Administrator determines not to acquire the resourceand the sponsor determines not to construct the resource.
+&emsp;(iii) after such investigation the Administrator determines not to acquire the resource and the sponsor determines not to construct the resource.
 
 (2) The Administrator may exercise the authority of this subsection only after he determines that the failure to do so would result in inequitable hardship to the consumers of such sponsors. The Administrator may provide reimbursement under this subsection only for expenses incurred after December 5, 1980.
 
@@ -138,7 +138,7 @@ At the request of the appropriate State, any environmental impact statement whic
 
 #### (i) Contracts
 
-Contracts for the acquisition of resources and for billing credits for major resources, including conservation activities, entered into pursuant tothis section shall contain such terms and conditions, applicable after the contract is entered into, as will—
+Contracts for the acquisition of resources and for billing credits for major resources, including conservation activities, entered into pursuant to this section shall contain such terms and conditions, applicable after the contract is entered into, as will—
 
 &emsp;(1) insure timely construction, scheduling, completion, and operation of resources,
 

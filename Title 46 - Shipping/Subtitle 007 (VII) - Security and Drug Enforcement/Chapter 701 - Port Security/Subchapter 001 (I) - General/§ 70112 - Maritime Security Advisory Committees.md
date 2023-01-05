@@ -10,7 +10,7 @@ Establishment.—There is established a National Maritime Security Advisory Comm
 
 &emsp;(2)
 
-Function.—The Committee shall advise the Secretary on matters relating to national maritime security, including on enhancing thesharing of information related to cybersecurity risks that may cause a transportation security incident, between relevant Federal agencies and—
+Function.—The Committee shall advise the Secretary on matters relating to national maritime security, including on enhancing the sharing of information related to cybersecurity risks that may cause a transportation security incident, between relevant Federal agencies and—
 
 &emsp;&emsp;(A) State, local, and tribal governments;
 
@@ -124,7 +124,7 @@ Chairperson and vice chairperson.—
 
 &emsp;&emsp;(A)
 
-In general.—Each committee established under this subsection shall elect 1 of the committee's members as the Chairperson and 1 of the committee's members as the Vice Chairperson.
+In general.—Each committee established under this subsection shall elect 1 ofthe committee's members as the Chairperson and 1 of the committee's members as the Vice Chairperson.
 
 &emsp;&emsp;(B)
 
@@ -140,7 +140,7 @@ In general.—The Secretary shall, and the head of any other interested Federal 
 
 &emsp;&emsp;(B)
 
-Role.—The Secretary's designated representative to a committee established under this subsection shall act as the executive secretary of the committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
+Role.—The Secretary's designated representative to a committee established under this subsection shall act as the executive secretary of the committee and shall perform the duties set forth in section 1009(c) of title 5.
 
 &emsp;(5)
 
@@ -152,7 +152,7 @@ Compensation and expenses.—
 
 &emsp;&emsp;(A)
 
-In general.—A member of a committee established under this subsection,when attending meetings of the committee or when otherwise engaged in the business of the committee, is entitled to receive—
+In general.—A member of a committee established under this subsection, when attending meetings of the committee or when otherwise engaged in the business of the committee, is entitled to receive—
 
 &emsp;&emsp;&emsp;(i) compensation at a rate fixed by the Secretary, not exceeding the daily equivalent of the current rate of basic pay in effect for GS–15 of the General Schedule under section 5332 of title 5 including travel time; and
 
@@ -164,17 +164,19 @@ Status.—A member of a committee established under this subsection shall not be
 
 &emsp;(7)
 
-FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to a committee established under this subsection.
+Chapter 10
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2081; amended Pub. L. 108–293, title VIII, §806, Aug. 9, 2004, 118 Stat. 1082; Pub. L. 109–241, title IX, §901(m), July 11, 2006, 120 Stat. 565; Pub. L. 111–281, title VIII, §810, Oct. 15, 2010, 124 Stat. 2995; Pub. L. 115–254, div. J, §1805(c)(1), Oct. 5, 2018, 132 Stat. 3534; Pub. L. 115–282, title VI, §602(a), Dec. 4, 2018, 132 Stat. 4290.)
+of title 5.—Chapter 10 of title 5 does not apply to a committee established under this subsection.
+
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2081; amended Pub. L. 108–293, title VIII, §806, Aug. 9, 2004, 118 Stat. 1082; Pub. L. 109–241, title IX, §901(m), July 11, 2006, 120 Stat. 565; Pub. L. 111–281, title VIII, §810, Oct. 15, 2010, 124 Stat. 2995; Pub. L. 115–254, div. J, §1805(c)(1), Oct. 5, 2018, 132 Stat. 3534; Pub. L. 115–282, title VI, §602(a), Dec. 4, 2018, 132 Stat. 4290; Pub. L. 117–286, §4(a)(294), (295), Dec. 27, 2022, 136 Stat. 4338.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (b)(4)(B), (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(4)(B). Pub. L. 117–286, §4(a)(294), substituted "section 1009(c) of title 5." for "section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.)."
+
+Subsec. (b)(7). Pub. L. 117–286, §4(a)(295), substituted "Chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2018</b>—Pub. L. 115–282, §602(a), amended section generally. Prior to amendment, section required Secretary to establish a National Maritime Security Advisory Committee and authorized Secretary to establish an Area Maritime Security Advisory Committee for any port area of the United States.
 
@@ -218,7 +220,7 @@ Pub. L. 115–254, div. J, §1805(a), Oct. 5, 2018, 132 Stat. 3533, provided tha
 
 Maritime Cybersecurity Risk Assessment Model.—The Secretary of Homeland Security, through the Commandant of the Coast Guard and the Under Secretary responsible for overseeing the critical infrastructure protection, cybersecurity, and other related programs of the Department of Homeland Security, shall—
 
-&emsp;"(1) not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], coordinate with the National Maritime Security Advisory Committee, the Area Maritime Security Advisory Committees, and other maritime stakeholders, as necessary, to develop and implement a maritime cybersecurity risk assessment model, consistent with the activities described in section 2(e) of the National Institute of Standards and Technology Act (15 U.S.C. 272(e)), to evaluate current and future cybersecurity risks that have the potential to affect the marine transportation system or that would cause a transportation security incident (as defined in section 70101 of title 46, United States Code) in ports; and
+&emsp;"(1) not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], coordinate with the National Maritime Security Advisory Committee, the Area Maritime Security Advisory Committees, and other maritime stakeholders, as necessary, to develop and implement a maritime cybersecurity risk assessment model, consistent with the activities described in section 2(e) of the National Institute ofStandards and Technology Act (15 U.S.C. 272(e)), to evaluate current and future cybersecurity risks that have the potential to affect the marine transportation system or that would cause a transportation security incident (as defined in section 70101 of title 46, United States Code) in ports; and
 
 &emsp;"(2) not less than biennially thereafter, evaluate the effectiveness of the cybersecurity risk assessment model established under paragraph (1)."
 

@@ -18,7 +18,7 @@ In all cases of sale pursuant to section 6335 of property (other than real prope
 
 #### (4) As receipts
 
-&emsp;If the subject of sale is securities or other evidences of debt, shall be a good and valid receipt to the person holding the same, as against any person holding or claiming to holdpossession of such securities or other evidences of debt; and
+&emsp;If the subject of sale is securities or other evidences of debt, shall be a good and valid receipt to the person holding the same, as against any person holding or claiming to hold possession of such securities or other evidences of debt; and
 
 #### (5) As authority for transfer of title to motor vehicle
 
@@ -34,7 +34,7 @@ In the case of the sale of real property pursuant to section 6335—
 
 #### (2) Deed as conveyance of title
 
-&emsp;If the proceedings of the Secretary as set forth have been substantially in accordance with the provisions of law, such deed shall be considered and operate as a conveyance of all the right, title, and interest the party delinquent had in and to the real property thus sold at the time the lien of the United States attached thereto.
+&emsp;If the proceedings of the Secretary as set forth have been substantially in accordancewith the provisions of law, such deed shall be considered and operate as a conveyance of all the right, title, and interest the party delinquent had in and to the real property thus sold at the time the lien of the United States attached thereto.
 
 #### (c) Effect of junior encumbrances
 

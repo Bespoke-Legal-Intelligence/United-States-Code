@@ -54,7 +54,7 @@ Periodic Reports.—The uniform forms for periodic reports required under subsec
 
 &emsp;(3) number of full-time employees as of the date of the order for relief and at the end of each reporting period since the case was filed;
 
-&emsp;(4) cash receipts, cash disbursements and profitability of the debtor for the most recentperiod and cumulatively since the date of the order for relief;
+&emsp;(4) cash receipts, cash disbursements and profitability of the debtor for the most recent period and cumulatively since the date of the order for relief;
 
 &emsp;(5) compliance with title 11, whether or not tax returns and tax payments since the date of the order for relief have been timely filed and made;
 

@@ -36,15 +36,15 @@ The program described in subsection (a) shall focus on the following activities:
 
 &emsp;&emsp;(G) additional sources of weather data and information, including commercial observing systems.
 
-&emsp;(4) <sup>1</sup> A technology transfer initiative, carried out jointly and in coordination with the Director of the National Weather Service, and in cooperation with the United States weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into operations of the National Weather Service and to establish a process to sunset outdated and expensive operational methods and tools to enable cost-effective transfer of new methods and tools into operations.
+&emsp;(4) A technology transfer initiative, carried out jointly and in coordination with the Director of the National Weather Service, and in cooperation with the United States weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into operations of the National Weather Service and to establish a process to sunset outdated and expensive operational methods and tools to enable cost-effective transfer of new methods and tools into operations.
 
-&emsp;(4) <sup>1</sup> Advancing weather modeling skill, reclaiming and maintaining international leadership in the area of numerical weather prediction, and improving the transition of research into operations by—
+&emsp;(5) Advancing weather modeling skill, reclaiming and maintaining international leadership in the area of numerical weather prediction, and improving the transition of research into operations by—
 
 &emsp;&emsp;(A) leveraging the weather enterprise to provide expertise on removing barriers to improving numerical weather prediction;
 
 &emsp;&emsp;(B) enabling scientists and engineers to effectively collaborate in areas important for improving operational global numerical weather prediction skill, including model development, data assimilation techniques, systems architecture integration, and computational efficiencies;
 
-&emsp;&emsp;(C) strengthening the National Oceanic and Atmospheric Administration's ability to undertake research projects in pursuit of substantial advancements in weather forecast skill;
+&emsp;&emsp;(C) strengthening the National Oceanic and Atmospheric Administration's ability toundertake research projects in pursuit of substantial advancements in weather forecast skill;
 
 &emsp;&emsp;(D) utilizing and leverage existing resources across the National Oceanic and Atmospheric Administration enterprise; and
 
@@ -60,7 +60,7 @@ The program described in subsection (a) shall focus on the following activities:
 
 #### (1) In general
 
-&emsp;In carrying out the program under this section, the Assistant Administrator for Oceanicand Atmospheric Research shall collaborate with and support the non-Federal weather research community, which includes institutions of higher education, private entities, and nongovernmental organizations, by making funds available through competitive grants, contracts, and cooperative agreements.
+&emsp;In carrying out the program under this section, the Assistant Administrator for Oceanic and Atmospheric Research shall collaborate with and support the non-Federal weather research community, which includes institutions of higher education, private entities, and nongovernmental organizations, by making funds available through competitive grants, contracts, and cooperative agreements.
 
 #### (2) Sense of Congress
 
@@ -70,13 +70,13 @@ The program described in subsection (a) shall focus on the following activities:
 
 Each year, concurrent with the annual budget request submitted by the President to Congress under section 1105 of title 31 for the National Oceanic and Atmospheric Administration, the Under Secretary shall submit to Congress a description of current and planned activities under this section.
 
-(Pub. L. 115–25, title I, §102, Apr. 18, 2017, 131 Stat. 92; Pub. L. 115–423, §4(a), Jan. 7, 2019, 132 Stat. 5456.)
+(Pub. L. 115–25, title I, §102, Apr. 18, 2017, 131 Stat. 92; Pub. L. 115–423, §4(a), Jan. 7, 2019, 132 Stat. 5456; Pub. L. 117–263, div. J, title CVI, §10601(c)(8), Dec. 23, 2022, 136 Stat. 3997.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2019</b>—Subsec. (b)(4). Pub. L. 115–423 added par. (4) relating to advancing weather modeling skill.
+<b>2022</b>—Subsec. (b)(4), (5). Pub. L. 117–263 redesignated par. (4) relating to advancing weather modeling skill as (5).
 
-<i><sup>1</sup></i><i> So in original. Two pars. (4) have been enacted.</i>
+<b>2019</b>—Subsec. (b)(4). Pub. L. 115–423 added par. (4) relating to advancing weather modeling skill.
 

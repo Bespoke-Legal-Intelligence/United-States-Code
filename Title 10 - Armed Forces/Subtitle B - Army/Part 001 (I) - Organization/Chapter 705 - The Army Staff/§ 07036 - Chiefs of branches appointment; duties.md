@@ -96,7 +96,7 @@ June 3, 1916, ch. 134, §11 (1st 17 words); restated June 4, 1920, ch. 227, subc
 
 Aug. 7, 1947, ch. 512, §513(a) (less 5th sentence), (b), 61 Stat. 901.
 
-In subsection (b), all references to the appointment of assistant chiefs are omitted as covered by sections 3037 and 3040 of this title. All references to the grade of brigadier general are omitted, since 10:21f(b) specifies the grade of major general for the offices. 10:559g(a) (4th sentence) is omitted as surplusage, since the appointment is to a permanent grade. 10:559g(a) (6th and 7th sentences) is omitted as executed. 10:559g(a) (last sentence) is omitted, since the revised section applies only to the officers named in subsection (a). The words "except the Judge Advocate General" are inserted for clarity. The eight words before clause (1), and clauses (1) and (2), are substituted for the words "as prescribed in section 559g of this title", in 10:21f(b), and 10:559g(a) (1st sentence). The second sentence is substituted for 10:559g(a) (2d sentence) and 10:21f(b) (1st 15 words). The words "selected and", in 10:21f(b), are omitted as surplusage. The words "arms, or services", in 10:559g(a) are omitted as obsolete, since sections 3063 and 3064 of this title designate the former arms and services as "branches".
+In subsection (b), all references to the appointment of assistant chiefs are omitted as covered by sections 3037 and 3040 of this title. All references to the grade of brigadier general are omitted, since 10:21f(b) specifies the grade of major general for the offices. 10:559g(a) (4th sentence) is omitted as surplusage, since the appointment is to a permanent grade. 10:559g(a) (6th and 7thsentences) is omitted as executed. 10:559g(a) (last sentence) is omitted, since the revised section applies only to the officers named in subsection (a). The words "except the Judge Advocate General" are inserted for clarity. The eight words before clause (1), and clauses (1) and (2), are substituted for the words "as prescribed in section 559g of this title", in 10:21f(b), and 10:559g(a) (1st sentence). The second sentence is substituted for 10:559g(a) (2d sentence) and 10:21f(b) (1st 15 words). The words "selected and", in 10:21f(b), are omitted as surplusage. The words "arms, or services", in 10:559g(a) are omitted as obsolete, since sections 3063 and 3064 of this title designate the former arms and services as "branches".
 
 In subsection (c), the words "normally holds office" are substituted for the words "shall normally continue in that assignment for a tour of duty". The words "appointment" and "office" are substituted for the words "assignment" and "tour of duty" whenever they are used in that sense.
 
@@ -180,6 +180,42 @@ Subsec. (d)(3). Pub. L. 104–201 substituted "In this subsection" for "For purp
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
+#### Workforce Planning
+
+Pub. L. 117–263, div. H, title LXXXI, §8116, Dec. 23, 2022, 136 Stat. 3709, provided that:
+
+"(a)
+
+Authorization.—The Secretary \[of the Army\] is authorized to carry out activities, at Federal expense—
+
+&emsp;"(1) to foster, enhance, and support science, technology, engineering, and math education and awareness; and
+
+&emsp;"(2) to recruit individuals for careers at the Corps of Engineers.
+
+"(b)
+
+Partnering Entities.—In carrying out activities under this section, the Secretary may enter into partnerships with—
+
+&emsp;"(1) public elementary and secondary schools, including charter schools;
+
+&emsp;"(2) community colleges;
+
+&emsp;"(3) technical schools; and
+
+&emsp;"(4) colleges and universities, including historically Black colleges and universities.
+
+"(c)
+
+Prioritization.—The Secretary shall, to the maximum extent practicable, prioritize the recruitment of individuals under this section that are from economically disadvantaged communities (as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 \[div. AA of Pub. L. 116–260\] (33 U.S.C. 2201 note)), including economically disadvantaged communities located in urban and rural areas.
+
+"(d)
+
+Definition of Historically Black College or University.—In this section, the term 'historically Black college or university' has the meaning given the term 'part B institution' in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
+
+"(e)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2023 through 2027."
+
 #### Veterans' Curation Program
 
 Pub. L. 114–189, July 6, 2016, 130 Stat. 613, provided that:
@@ -222,7 +258,7 @@ In General.—On the third Tuesday of January of each year beginning January 200
 
 &emsp;"(1) the expenditures by the Corps for the preceding fiscal year and estimated expenditures by the Corps for the current fiscal year; and
 
-&emsp;"(2) for projects and activities that are not scheduled for completion in the current fiscal year, the estimated expenditures by the Corps necessary in thefollowing fiscal year for each project or activity to maintain the same level of effort being achieved in the current fiscal year.
+&emsp;"(2) for projects and activities that are not scheduled for completion in the current fiscal year, the estimated expenditures by the Corps necessary in the following fiscal year for each project or activity to maintain the same level of effort being achieved in the current fiscal year.
 
 "(b)
 

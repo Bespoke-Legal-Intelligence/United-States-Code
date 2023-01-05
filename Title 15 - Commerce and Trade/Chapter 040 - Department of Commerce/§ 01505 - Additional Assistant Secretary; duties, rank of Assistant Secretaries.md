@@ -14,7 +14,7 @@ Section was formerly classified to section 592a of Title 5 prior to the general 
 
 #### Prior Provisions
 
-Prior provisions for an additional Assistant Secretary of Commerce were contained in act May 20, 1926, ch. 344, §8 (1st sentence), 44 Stat. 573, as amended June 23, 1938, ch. 601, §1107(k), 52 Stat. 1029. Said position wasterminated by section 592a–1 of former Title 5, Executive Departments and Government Officers and Employees. Section 8 of act May 20, 1926, was subsequently repealed by Pub. L. 85–726, title XIV, §1401(a), Aug. 23, 1958, 72 Stat. 806, and Pub. L. 97–195, §1(c)(2), June 16, 1982, 96 Stat. 115.
+Prior provisions for an additional Assistant Secretary of Commerce were contained in act May 20, 1926, ch. 344, §8 (1st sentence), 44 Stat. 573, as amended June 23, 1938, ch. 601, §1107(k), 52 Stat. 1029. Said position was terminated by section 592a–1 of former Title 5, Executive Departments and Government Officers and Employees. Section 8 of act May 20, 1926, was subsequently repealed by Pub. L. 85–726, title XIV, §1401(a), Aug. 23, 1958, 72 Stat. 806, and Pub. L. 97–195, §1(c)(2), June 16, 1982, 96 Stat. 115.
 
 #### <b>Executive Documents</b>
 

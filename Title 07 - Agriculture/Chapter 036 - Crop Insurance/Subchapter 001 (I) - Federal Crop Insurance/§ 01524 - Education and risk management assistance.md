@@ -128,7 +128,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §11125(a)(1), substituted "paragraph (4), the Secretary" for "paragraph (5)—", struck out subpar. (A) and "(B) the Secretary" before ", acting through", and substituted "paragraph (2)" for "paragraph (3)". Prior to amendment, subpar. (A) read as follows: "the Corporation shall carry out the program established under paragraph (2); and".
+<b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §11125(a)(1), substituted "paragraph (4), the Secretary" for "paragraph (5)—", struck out subpar. (A) and "(B) the Secretary" before ", acting through", and substituted "paragraph (2)" for "paragraph (3)". Prior to amendment, subpar.\(A) read as follows: "the Corporation shall carry out the program established under paragraph (2); and".
 
 Subsec. (a)(2). Pub. L. 115–334, §11125(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The Corporation shall establish a program under which crop insurance education and information is provided to producers in States in which (as determined by the Secretary)—
 

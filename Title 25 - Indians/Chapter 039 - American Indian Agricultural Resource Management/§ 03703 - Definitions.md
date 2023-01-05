@@ -48,7 +48,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(C) protection against agricultural pests, including development, implementation, and evaluation of integrated pest management programs to control noxious weeds, undesirable vegetation, and vertebrate or invertebrate agricultural pests;
 
-&emsp;&emsp;(D) administration and supervision of agricultural leasing and permitting activities, including determination of proper land use, carrying capacities, and proper stocking rates of livestock, appraisal, advertisement,negotiation, contract preparation, collecting, recording, and distributing lease rental receipts;
+&emsp;&emsp;(D) administration and supervision of agricultural leasing and permitting activities, including determination of proper land use, carrying capacities, and proper stocking rates of livestock, appraisal, advertisement, negotiation, contract preparation, collecting, recording, and distributing lease rental receipts;
 
 &emsp;&emsp;(E) technical assistance to individuals and tribes engaged in agricultural production or agribusiness; and
 
@@ -70,5 +70,5 @@ For the purposes of this chapter:
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 

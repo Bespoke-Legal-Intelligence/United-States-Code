@@ -44,13 +44,13 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 #### (2) Limitations on expenditures
 
-#### (A) $1,000,000,000 per incident, etc.
+#### (A) $1,500,000,000 per incident, etc.
 
 &emsp;&emsp;The maximum amount which may be paid from the Oil Spill Liability Trust Fund with respect to—
 
-&emsp;&emsp;&emsp;(i) any single incident shall not exceed $1,000,000,000, and
+&emsp;&emsp;&emsp;(i) any single incident shall not exceed $1,500,000,000, and
 
-&emsp;&emsp;&emsp;(ii) natural resource damage assessments and claims in connection with any single incident shall not exceed $500,000,000.
+&emsp;&emsp;&emsp;(ii) natural resource damage assessments and claims in connection with any single incident shall not exceed $750,000,000.
 
 #### (B) $30,000,000 minimum balance
 
@@ -80,7 +80,7 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 &emsp;&emsp;Interest on advances made pursuant to this subsection shall be—
 
-&emsp;&emsp;&emsp;(i) at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding, and
+&emsp;&emsp;&emsp;(i) at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to thecurrent average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding, and
 
 &emsp;&emsp;&emsp;(ii) compounded annually.
 
@@ -102,17 +102,17 @@ There are hereby appropriated to the Oil Spill Liability Trust Fund amounts equi
 
 Any reference in this section to the Oil Pollution Act of 1990 or any other Act referred to in a subparagraph of subsection (c)(1) shall be treated as a reference to such Act as in effect on the date of the enactment of this subsection.
 
-(Added Pub. L. 99–509, title VIII, §8033(a), Oct. 21, 1986, 100 Stat. 1959, §9507; renumbered §9509, Pub. L. 99–509, title VIII, §8033(c)(2)(B), Oct. 21, 1986, 100 Stat. 1962; amended Pub. L. 100–647, title I, §1018(u)(20), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 101–239, title VII, §§7505(d)(2), 7811(m)(3), Dec. 19, 1989, 103 Stat. 2364, 2412; Pub. L. 101–380, title IX, §9001, Aug. 18, 1990, 104 Stat. 573.)
+(Added Pub. L. 99–509, title VIII, §8033(a), Oct. 21, 1986, 100 Stat. 1959, §9507; renumbered §9509, Pub. L. 99–509, title VIII, §8033(c)(2)(B), Oct. 21, 1986, 100 Stat. 1962; amended Pub. L. 100–647, title I, §1018(u)(20), Nov. 10, 1988, 102 Stat. 3591; Pub. L. 101–239, title VII, §§7505(d)(2), 7811(m)(3), Dec. 19, 1989, 103 Stat. 2364, 2412; Pub. L. 101–380, title IX, §9001, Aug. 18, 1990, 104 Stat. 573; Pub. L. 117–263, div. K, title CXIII, §11312, Dec. 23, 2022, 136 Stat. 4086.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Oil Pollution Act of 1990, referred to in subsecs. (b)(2), (3), (5)–(7), (c)(1), (e)(2), and (f), is Pub. L. 101–380,Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. Sections 1006, 1012, 1015, and 6002 of the Act are classified to sections 2706, 2712, 2715, and 2752 of Title 33, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
+The Oil Pollution Act of 1990, referred to in subsecs. (b)(2), (3), (5)–(7), (c)(1), (e)(2), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§2701 et seq.) of Title 33, Navigation and Navigable Waters. Sections 1006, 1012, 1015, and 6002 of the Act are classified to sections 2706, 2712, 2715, and 2752 of Title 33, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 33 and Tables.
 
 Section 311 of the Federal Water Pollution Control Act, referred to in subsecs. (b)(4), (8) and (c)(1)(C), (D), is classified to section 1321 of Title 33. Subsec. (d) of section 311, which related to maritime disaster discharges, was amended generally by Pub. L. 101–380, title IV, §4201(b), Aug. 18, 1990, 104 Stat. 525. Subsec. (k) of section 311 was repealed by Pub. L. 101–380, title II, §2002(b)(2), Aug. 18, 1990, 104 Stat. 507.
 
-The Deepwater Port Act of 1974, referred to in subsec. (b)(5), (8), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§1501 et seq.) of Title 33. Section 18 of the Act was classified to section 1517 of Title 33 prior to its repeal by Pub. L. 101–380, title II, §2003(a)(2), Aug. 18, 1990, 104 Stat. 507. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
+The Deepwater Port Act of 1974, referred to in subsec. (b)(5), (8), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§1501 et seq.) of Title 33. Section 18 of the Act was classified to section 1517 of Title 33 prior to its repeal by Pub. L. 101–380, title II, §2003(a)(2), Aug. 18, 1990, 104 Stat. 507. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
 
 Section 302 of the Outer Continental Shelf Lands Act Amendments of 1978, referred to in subsec. (b)(6), was classified to section 1812 of Title 43, Public Lands, prior to its repeal by Pub. L. 101–380, title II, §2004, Aug. 18, 1990, 104 Stat. 507.
 
@@ -125,6 +125,8 @@ Sections 5 and 7 of the Intervention on the High Seas Act, referred to in subsec
 The date of the enactment of this subsection, referred to in subsec. (f), probably means the date of enactment of Pub. L. 101–380, which was approved Aug. 18, 1990, and which amended subsec. (f) generally.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(2)(A). Pub. L. 117–263 substituted "$1,500,000,000" for "$1,000,000,000" in heading and in cl. (i), and substituted "$750,000,000" for "$500,000,000" in cl. (ii).
 
 <b>1990</b>—Subsec. (b)(2) to (8). Pub. L. 101–380, §9001(a), added pars. (2) to (8) and struck out former pars. (2) to (5) which read as follows:
 

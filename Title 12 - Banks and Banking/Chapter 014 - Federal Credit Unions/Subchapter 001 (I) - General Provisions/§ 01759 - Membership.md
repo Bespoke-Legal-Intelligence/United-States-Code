@@ -120,7 +120,7 @@ Subject to the other provisions of this section, the membership of any Federal c
 
 #### (1) Definition of well-defined local community, neighborhood, or rural district
 
-&emsp;The Board shall prescribe, by regulation, a definition for the term "well-defined localcommunity, neighborhood, or rural district" for purposes of—
+&emsp;The Board shall prescribe, by regulation, a definition for the term "well-defined local community, neighborhood, or rural district" for purposes of—
 
 &emsp;&emsp;(A) making any determination with regard to the field of membership of a credit union described in subsection (b)(3); and
 

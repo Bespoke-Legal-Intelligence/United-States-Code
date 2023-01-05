@@ -100,5 +100,5 @@ Grace period during first year.—
 
 #### Reports to Congress
 
-Pub. L. 99–661, div. A, title VII, §701(c)(1), Nov. 14, 1986, 100 Stat. 3898, required Secretary of Defense, not later than July 1, 1987, to submit to Congress a report detailing any plans to establish or implement a system of health care enrollment (other than as required under section 702(a)(2)(C)) under section 1099(a) of this title and the plan of the Secretary for completing implementation of such system.
+Pub. L. 99–661, div. A, title VII, §701(c)(1), Nov. 14, 1986, 100 Stat. 3898, required Secretary of Defense, notlater than July 1, 1987, to submit to Congress a report detailing any plans to establish or implement a system of health care enrollment (other than as required under section 702(a)(2)(C)) under section 1099(a) of this title and the plan of the Secretary for completing implementation of such system.
 

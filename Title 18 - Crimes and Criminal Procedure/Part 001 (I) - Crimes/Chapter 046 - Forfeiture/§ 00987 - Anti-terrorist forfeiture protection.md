@@ -18,7 +18,7 @@ Clarifications.—
 
 &emsp;(1)
 
-Protection of rights.—The exclusion of certain provisions of Federal law from the definition of the term "civil forfeiture statute" in section 983(i) of title 18, United States Code,shall not be construed to deny an owner of property the right to contest the confiscation of assets of suspected international terrorists under—
+Protection of rights.—The exclusion of certain provisions of Federal law from the definition of the term "civil forfeiture statute" in section 983(i) of title 18, United States Code, shall not be construed to deny an owner of property the right to contest the confiscation of assets of suspected international terrorists under—
 
 &emsp;&emsp;(A) subsection (a) of this section;
 

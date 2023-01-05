@@ -22,11 +22,11 @@ Regulations which take effect pursuant to this section shall have the force and 
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of thischapter. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of this chapter. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of this chapter, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
-Section enacted as part of the International Development and Food Assistance Act of 1978, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
+Section enacted as part of the International Development and Food Assistance Act of 1978, and not as partof the Foreign Assistance Act of 1961 which comprises this chapter.
 
 #### Amendments
 

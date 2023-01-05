@@ -1,10 +1,10 @@
 ### §70051. Regulation of anchorage and movement of vessels during national emergency
 
-Whenever the President by proclamation or Executive order declares a national emergency to exist by reason of actual or threatened war, insurrection, or invasion, or disturbance or threatened disturbance of the international relations of the United States, or whenever the Attorney General determines that an actual or anticipated mass migration of aliens en route to, or arriving off the coast of, the United States presents urgent circumstances requiring an immediate Federal response, the Secretary of the department in which the Coast Guard is operating may make, subject to the approval of the President, rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, may inspect such vessel at any time, place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of the rights and obligations of the United States, may take, by and with the consent of the President, for such purposes, full possession and control of such vessel and remove therefrom the officers and crew thereof and all other persons not specially authorized by him to go or remain on board thereof.
+Whenever the President by proclamation or Executive order declares a national emergency to exist by reason of actual or threatened war, insurrection, or invasion, or disturbance or threatened disturbance of the international relations of the United States, or whenever the Attorney General determines that an actual or anticipated mass migration of aliens en route to, or arriving off the coast of, the United States presents urgent circumstances requiring an immediate Federal response, the Secretary of the department in which the Coast Guard is operating may make, subject to the approval of the President, rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, may inspect such vessel at any time, place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of the rightsand obligations of the United States, may take, by and with the consent of the President, for such purposes, full possession and control of such vessel and remove therefrom the officers and crew thereof and all other persons not specially authorized by him to go or remain on board thereof.
 
 Whenever the President finds that the security of the United States is endangered by reason of actual or threatened war, or invasion, or insurrection, or subversive activity, or of disturbances or threatened disturbances of the international relations of the United States, the President is authorized to institute such measures and issue such rules and regulations—
 
-&emsp;(a) to govern the anchorage and movement of any foreign-flag vessels in the territorial waters of the United States, to inspect suchvessels at any time, to place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of rights and obligations of the United States, may take for such purposes full possession and control of such vessels and remove therefrom the officers and crew thereof, and all other persons not especially authorized by him to go or remain on board thereof;
+&emsp;(a) to govern the anchorage and movement of any foreign-flag vessels in the territorial waters of the United States, to inspect such vessels at any time, to place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of rights and obligations of the United States, may take for such purposes full possession and control of such vessels and remove therefrom the officers and crew thereof, and all other persons not especially authorized by him to go or remain on board thereof;
 
 &emsp;(b) to safeguard against destruction, loss, or injury from sabotage or other subversive acts, accidents, or other causes of similar nature, vessels, harbors, ports, and waterfront facilities in the United States and all territory and water, continental or insular, subject to the jurisdiction of the United States.
 
@@ -44,7 +44,7 @@ Sec. 2. The Secretary is authorized to inspect any vessel, foreign or domestic, 
 
 Sec. 3. The Secretary may request assistance from such departments, agencies, officers, or instrumentalities of the United States as the Secretary deems necessary to carry out the purposes of this proclamation. Such departments, agencies, officers, or instrumentalities shall, consistent with other provisions of law and to the extent practicable, provide requested assistance.
 
-Sec. 4. The Secretary may seek assistance from State and local authorities in carrying out the purposes of this proclamation. Because State and local assistancemay be essential for an effective response to this emergency, I urge all State and local officials to cooperate with Federal authorities and to take all actions within their lawful authority necessary to prevent the unauthorized departure of vessels intending to enter Cuban territorial waters.
+Sec. 4. The Secretary may seek assistance from State and local authorities in carrying out the purposes of this proclamation. Because State and local assistance may be essential for an effective response to this emergency, I urge all State and local officials to cooperate with Federal authorities and to take all actions within their lawful authority necessary to prevent the unauthorized departure of vessels intending to enter Cuban territorial waters.
 
 Sec. 5. All powers and authorities delegated by this proclamation to the Secretary may be delegated by the Secretary to other officers and agents of the United States Government unless otherwise prohibited by law.
 
@@ -58,9 +58,9 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 6867
 
-Notice of President of the United States, dated Feb. 24, 2021, 86 F.R. 11601, provided:
+Notice of President of the United States, dated Feb. 23, 2022, 87 F.R. 10685, provided:
 
-On March 1, 1996, by Proclamation 6867, a national emergency was declared to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Cuban government of two unarmed United States-registered, civilian aircraft in international airspace north of Cuba. On February 26, 2004, by Proclamation 7757 \[46 U.S.C. 70051 note\], the national emergency was expanded to deny monetary and material support to the Cuban government. On February 24, 2016, by Proclamation 9398, and on February 22, 2018, by Proclamation 9699 \[46 U.S.C. 70051 notes\], the national emergency was further modified based on continued disturbances or threatened disturbances of the international relations of the United States related to Cuba. The Cuban government has not demonstrated that it will refrain from the use of excessive force against United States vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba.
+On March 1, 1996, by Proclamation 6867, a national emergency was declared to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Cuban government of two unarmed, United States-registered civilian aircraft in international airspace north of Cuba. On February 26, 2004, by Proclamation 7757 \[46 U.S.C. 70051 note\], the national emergency was expanded to deny monetary and material support to the Cuban government. On February 24, 2016, by Proclamation 9398, and on February 22, 2018, by Proclamation 9699 \[46 U.S.C. 70051 notes\], the national emergency was further modified based on continued disturbances or threatened disturbances of the international relations of the United States related to Cuba. The Cuban government has not demonstrated that it will refrain from the use of excessive force against United States vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba.
 
 Further, the unauthorized entry of any United States-registered vessel into Cuban territorial waters continues to be detrimental to the foreign policy of the United States because such entry could facilitate a mass migration from Cuba. It continues to be United States policy that a mass migration from Cuba would endanger United States national security by posing a disturbance or threatened disturbance of the international relations of the United States.
 
@@ -71,6 +71,8 @@ This notice shall be published in the Federal Register and transmitted to the Co
 J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 6867 were contained in the following:
+
+Notice of President of the United States, dated Feb. 24, 2021, 86 F.R. 11601.
 
 Notice of President of the United States, dated Feb. 25, 2020, 85 F.R. 11825.
 
@@ -124,13 +126,13 @@ By the authority vested in me by the Constitution and the laws of the United Sta
 
 WHEREAS the United States has determined that Cuba is a state-sponsor of terrorism and it is subject to the restrictions of \[former\] section 6(j)(1)(A) of the Export Administration Act of 1979 \[former 50 U.S.C. 4605(j)(1)(A)\], section 620A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2371\], and section 40 of the Arms Export Control Act \[22 U.S.C. 2780\];
 
-WHEREAS the Cuban government has demonstrated a ready and reckless willingness to use excessive force, including deadly force, against U.S. citizens, in the ostensible enforcement of its sovereignty, including the February 1996 shoot-down of two unarmed U.S.-registered civilian aircraft in international airspace, resulting in the deaths of three American citizens and one other individual;
+WHEREAS the Cuban government has demonstrated a ready and reckless willingness to use excessive force,including deadly force, against U.S. citizens, in the ostensible enforcement of its sovereignty, including the February 1996 shoot-down of two unarmed U.S.-registered civilian aircraft in international airspace, resulting in the deaths of three American citizens and one other individual;
 
 WHEREAS the Cuban government has demonstrated a ready and reckless willingness to use excessive force, including deadly force, against U.S. citizens and its own citizens, including on July 13, 1995, when persons in U.S.-registered vessels that entered into Cuban territorial waters suffered injury as a result of the reckless use of force against them by the Cuban military, and including the July 1994 sinking of an unarmed Cuban-registered vessel, resulting in the deaths of 41 Cuban citizens;
 
 WHEREAS the Cuban government has impounded U.S.-registered vessels in Cuban ports and forced the owners, as a condition of release, to violate U.S. law by requiring payments to be made to the Cuban government;
 
-WHEREAS the entry of any U.S.-registered vessels into Cuban territorial waters could result in injury to,or loss of life of, persons engaged in that conduct, due to the potential use of excessive force, including deadly force, against them by the Cuban military, and could threaten a disturbance of international relations;
+WHEREAS the entry of any U.S.-registered vessels into Cuban territorial waters could result in injury to, or loss of life of, persons engaged in that conduct, due to the potential use of excessive force, including deadly force, against them by the Cuban military, and could threaten a disturbance of international relations;
 
 WHEREAS the unauthorized entry of vessels subject to the jurisdiction of the United States into Cuban territorial waters is in violation of U.S. law and contrary to U.S. policy;
 
@@ -166,7 +168,7 @@ IN WITNESS WHEREOF, I have hereunto set my hand this twenty-sixth day of Februar
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Provisions of Proc. No. 7757 superseded to the extent of inconsistency with provisions of Procs. No. 9398 and 9699, see Sec. 6 of Proc. No. 9398 and Sec. 6 of Proc. No. 9699, set out below.\]
+\[Provisions of Proc. No. 7757 superseded to the extent of inconsistency with provisions of Procs. No. 9398 and9699, see Sec. 6 of Proc. No. 9398 and Sec. 6 of Proc. No. 9699, set out below.\]
 
 #### Proc. No. 9398. Modifying and Continuing the National Emergency With Respect to Cuba and Continuing To Authorize the Regulation of the Anchorage and Movement of Vessels
 
@@ -263,4 +265,42 @@ Sec. 7. This proclamation shall be immediately transmitted to the Congress and p
 IN WITNESS WHEREOF, I have hereunto set my hand this twenty-second day of February, in the year of our Lord two thousand eighteen, and of the Independence of the United States of America the two hundred and forty-second.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Proc. No. 10371. Declaration of National Emergency and Invocation of Emergency Authority Relating to the Regulation of the Anchorage and Movement of Russian-Affiliated Vessels to United States Ports
+
+Proc. No. 10371, Apr. 21, 2022, 87 F.R. 24265, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.) and section 1 of title II of Public Law 65–24, ch. 30, June 15, 1917, as amended (Magnuson Act) (46 U.S.C. 70051), I, JOSEPH R. BIDEN JR., President of the United States of America, hereby find and proclaim that:
+
+The policies and actions of the Government of the Russian Federation to continue the premeditated, unjustified, unprovoked, and brutal war against Ukraine constitute a national emergency by reason of a disturbance or threatened disturbance of international relations of the United States. In order to address this national emergency and secure the observance of the rights and obligations of the United States, I hereby authorize the Secretary of Homeland Security (Secretary) to make and issue such rules and regulations as the Secretary may find appropriate to regulate the anchorage and movement of Russian-affiliated vessels, and delegate to the Secretary my authority to approve such rules and regulations, as authorized by the Magnuson Act.
+
+Section 1. I hereby prohibit Russian-affiliated vessels from entering into United States ports.
+
+Sec. 2. The prohibition of section 1 of this proclamation applies except:
+
+(a) to Russian-affiliated vessels used in the transport of source material, special nuclear material, and nuclear byproduct material for which, and for such time as, the Secretary of Energy, in consultation with the Secretary of State and the Secretary of Commerce, determines that no viable source of supply is available that would not require transport by Russian-affiliated vessels; and
+
+(b) to Russian-affiliated vessels requesting only to enter United States ports due to force majeure, solely to allow seafarers of any nationality to disembark or embark for purposes of conducting crew changes, emergency medical care, or for other humanitarian need.
+
+Sec. 3. For the purposes of this proclamation:
+
+(a) the term "Russian-affiliated vessels" means:
+
+(i) vessels of Russian registry (i.e., the vessel is Russian flagged);
+
+(ii) vessels that are Russian owned (i.e., the legal title of ownership of the vessel that appears on the ship's registration documents is the Government of the Russian Federation or a Russian company, citizen, or permanent resident); or
+
+(iii) vessels that are Russian operated (i.e., a Russian company, citizen, or permanent resident is responsible for the commercial decisions concerning the employment of a ship and decides how and where that asset is employed).
+
+(b) the term "byproduct material" has the same meaning given to that term in section 11(e) of the Atomic Energy Act of 1954, as amended (AEA) (42 U.S.C. 2014(e)).
+
+(c) the term "source material" has the same meaning given to that term in section 11(z) of the AEA (42 U.S.C. 2014(z)).
+
+(d) the term "special nuclear material" has the same meaning given to that term in section 11(aa) of the AEA (42 U.S.C. 2014(aa)).
+
+Sec. 4. The prohibition set forth in this proclamation shall be effective as of 12:01 a.m. eastern daylight time on April 28, 2022, and shall be immediately transmitted to the Congress and published in the Federal Register.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this twenty-first day of April, in the year of our Lord two thousand twenty-two, and of the Independence of the United States of America the two hundred and forty-sixth.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

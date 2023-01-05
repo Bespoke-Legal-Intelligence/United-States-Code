@@ -16,15 +16,35 @@ Report on Foreign Laws and Practices.—The Commission shall include in its annu
 
 &emsp;(4) any recommendations for additional legislation to offset those conditions;
 
-&emsp;(5) a list of petitions filed under section 42302(b) of this title that the Commission rejected and the reasons for each rejection; and
+&emsp;(5) a list of petitions filed under section 42302(b) of this title that the Commission rejected and the reasons for each rejection;
 
-&emsp;(6) an analysis of the impacts on competition for the purchase of certain covered services by alliances of ocean common carriers acting pursuant to an agreement under this part <sup>1</sup> between or among ocean common carriers, including a summary of actions, including corrective actions, taken by the Commission to promote such competition.
+&emsp;(6) an analysis of the impacts on competition for the purchase of certain covered services by alliances of ocean common carriers acting pursuant to an agreement under this part <sup>1</sup> between or among ocean common carriers, including a summary of actions, including corrective actions, taken by the Commission to promote such competition; and
+
+&emsp;(7) an identification of any otherwise concerning practices by ocean common carriers, particularly such carriers that are controlled carriers, that are—
+
+&emsp;&emsp;(A) State-owned or State-controlled enterprises; or
+
+&emsp;&emsp;(B) owned or controlled by, a subsidiary of, or otherwise related legally or financially (other than a minority relationship or investment) to a corporation based in a country—
+
+&emsp;&emsp;&emsp;(i) identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 (19 U.S.C. 1677(18))) as of the date of enactment of this paragraph;
+
+&emsp;&emsp;&emsp;(ii) identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 (19 U.S.C. 2242) as a priority foreigncountry under subsection (a)(2) of that section; or
+
+&emsp;&emsp;&emsp;(iii) subject to monitoring by the United States Trade Representative under section 306 of the Trade Act of 1974 (19 U.S.C. 2416).
 
 (c)
 
 Definition of Certain Covered Services.—In this section, the term "certain covered services" has the meaning given the term in section 40102.
 
-(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1489, §306; Pub. L. 115–282, title VII, §703, Dec. 4, 2018, 132 Stat. 4294; renumbered §46106, Pub. L. 116–283, div. G, title LVXXXVI \[LXXXVI\], §8605(a)(3), Jan. 1, 2021, 134 Stat. 4765.)
+(d)
+
+Public Disclosures.—The Federal Maritime Commission shall publish, and annually update, on the website of the Commission—
+
+&emsp;(1) all findings by the Commission of false detention and demurrage invoice information by common carriers under section 41104(a)(15) of this title; and
+
+&emsp;(2) all penalties imposed or assessed against common carriers, as applicable, under sections 41107, 41108, and 41109, listed by each common carrier.
+
+(Pub. L. 109–304, §4, Oct. 6, 2006, 120 Stat. 1489, §306; Pub. L. 115–282, title VII, §703, Dec. 4, 2018, 132 Stat. 4294; renumbered §46106, Pub. L. 116–283, div. G, title LVXXXVI \[LXXXVI\], §8605(a)(3), Jan. 1, 2021, 134 Stat. 4765; Pub. L. 117–146, §§6, 14, June 16, 2022, 136 Stat. 1274, 1279.)
 
 Historical and Revision Notes
 
@@ -52,7 +72,17 @@ In subsection (a), the words "a statement of all receipts under this chapter" ar
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The reference to "this part", referred to in subsec. (b)(6), was added when this section was numbered as section 306 of this title and was in subtitle I, which does not contain parts. After section 306 was renumbered as this section, it was transferred into part D of subtitle IV, but it is unclear whether the reference to "this part" was intended to take on the reference to such part D upon the transfer.
+
+The date of enactment of this paragraph, referred to in subsec. (b)(7)(B)(i), is the date of enactment of Pub. L. 117–146, which was approved June 16, 2022.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(7). Pub. L. 117–146, §14, added par. (7).
+
+Subsec. (d). Pub. L. 117–146, §6, added subsec. (d).
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 306 of this title as this section.
 
@@ -60,5 +90,5 @@ In subsection (a), the words "a statement of all receipts under this chapter" ar
 
 Subsec. (c). Pub. L. 115–282, §703(2), added subsec. (c).
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

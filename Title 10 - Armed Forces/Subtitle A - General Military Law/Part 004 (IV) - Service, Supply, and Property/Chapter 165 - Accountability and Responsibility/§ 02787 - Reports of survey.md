@@ -8,7 +8,7 @@ Action on Reports of Survey.—Under regulations prescribed pursuant to subsecti
 
 Finality of Action.—(1) Action taken under subsection (a) is final except as provided in paragraph (2).
 
-(2) An action holding a person pecuniarily liable for loss, spoilage, destruction, or damage isnot final until approved by a person designated to do so by the Secretary of a military department, commander of a combatant command, or Director of a Defense Agency, as the case may be, who has jurisdiction of the person held pecuniarily liable. The person designated to provide final approval shall be an officer of an armed force, or a civilian employee, under the jurisdiction of the official making the designation.
+(2) An action holding a person pecuniarily liable for loss, spoilage, destruction, or damage is not final until approved by a person designated to do so by the Secretary of a military department, commander of a combatant command, or Director of a Defense Agency, as the case may be, who has jurisdiction of the person held pecuniarily liable. The person designated to provide final approval shall be an officer of an armed force, or a civilian employee, under the jurisdiction of the official making the designation.
 
 (c)
 

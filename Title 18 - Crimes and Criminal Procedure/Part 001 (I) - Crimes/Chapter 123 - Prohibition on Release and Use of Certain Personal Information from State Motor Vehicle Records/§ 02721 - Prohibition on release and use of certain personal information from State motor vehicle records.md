@@ -50,13 +50,13 @@ Resale or Redisclosure.—An authorized recipient of personal information (excep
 
 (d)
 
-Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statementto the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
+Waiver Procedures.—A State motor vehicle department may establish and carry out procedures under which the department or its agents, upon receiving a request for personal information that does not fall within one of the exceptions in subsection (b), may mail a copy of the request to the individual about whom the information was requested, informing such individual of the request, together with a statement to the effect that the information will not be released unless the individual waives such individual's right to privacy under this section.
 
 (e)
 
 Prohibition on Conditions.—No State may condition or burden in any way the issuance of an individual's motor vehicle record as defined in 18 U.S.C. 2725(1) to obtain express consent. Nothing in this paragraph shall be construed to prohibit a State from charging an administrative fee for issuance of a motor vehicle record.
 
-(Added Pub. L. 103–322, title XXX, §300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L. 104–287, §1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, §604(b)(46), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–69, title III, §350(c), (d), Oct. 9, 1999, 113 Stat. 1025; Pub. L. 106–346, §101(a) \[title III, §309(c)–(e)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–24.)
+(Added Pub. L. 103–322, title XXX, §300002(a), Sept. 13, 1994, 108 Stat. 2099; amended Pub. L.104–287, §1, Oct. 11, 1996, 110 Stat. 3388; Pub. L. 104–294, title VI, §604(b)(46), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 106–69, title III, §350(c), (d), Oct. 9, 1999, 113 Stat. 1025; Pub. L. 106–346, §101(a) \[title III, §309(c)–(e)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–24.)
 
 #### <b>Editorial Notes</b>
 
@@ -64,7 +64,7 @@ Prohibition on Conditions.—No State may condition or burden in any way the iss
 
 The Anti Car Theft Act of 1992, referred to in subsec. (b), is Pub. L. 102–519, Oct. 25, 1992, 106 Stat. 3384. For complete classification of titles I and IV of the Act to the Code, see Tables.
 
-The Automobile Information Disclosure Act, referred to in subsec. (b), is Pub. L. 85–506, July 7, 1958, 72 Stat. 325, as amended, which is classified generally to chapter 28 (§1231 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1231 of Title 15 and Tables.
+The Automobile Information Disclosure Act, referred to in subsec. (b), is Pub. L. 85–506, July 7, 1958, 72 Stat. 325, which is classified generally to chapter 28 (§1231 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1231 of Title 15 and Tables.
 
 The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 

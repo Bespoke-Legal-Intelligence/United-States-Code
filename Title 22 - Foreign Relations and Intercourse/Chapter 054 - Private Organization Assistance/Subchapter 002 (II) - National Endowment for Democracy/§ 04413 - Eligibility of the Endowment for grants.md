@@ -26,7 +26,7 @@ Grants may be made to the Endowment under this subchapter only if the Endowment 
 
 (1) The accounts of the Endowment shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The audits shall be conducted at the place or places where the accounts of the Endowment are normally kept. All books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Endowment and necessary to facilitate the audits shall be made available to the person or persons conducting the audits; and full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians shall be afforded to such person or persons.
 
-(2) The report of each such independent audit shall be included in the annual report required by subsection (h). The audit report shall set forth the scope of the audit and include suchstatements as are necessary to present fairly the Endowment's assets and liabilities, surplus or deficit, with an analysis of the changes therein during the year, supplemented in reasonable detail by a statement of the Endowment's income and expenses during the year, and a statement of the application of funds, together with the independent auditor's opinion of those statements.
+(2) The report of each such independent audit shall be included in the annual report required by subsection (h). The audit report shall set forth the scope of the audit and include such statements as are necessary to present fairly the Endowment's assets and liabilities, surplus or deficit, with an analysis of the changes therein during the year, supplemented in reasonable detail by a statement of the Endowment's income and expenses during the year, and a statement of the application of funds, together with the independent auditor's opinion of those statements.
 
 #### (f) Audit of financial transactions; reporting requirements
 
@@ -52,7 +52,7 @@ Not later than February 1 of each year, the Endowment shall submit an annual rep
 
 After January 31, 1993, no member of the Board of the Endowment may be a member of the board of directors or an officer of any grantee of the National Endowment for Democracy which receives more than 5 percent of the funds of the Endowment for any fiscal year.
 
-(Pub. L. 98–164, title V, §504, Nov. 22, 1983, 97 Stat. 1040; Pub. L. 99–93, title II, §210(b), (d), Aug. 16, 1985, 99 Stat. 432; Pub. L. 100–204, title II, §211, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 102–138, title II, §§211(d), 215, Oct. 28, 1991, 105 Stat. 695, 697; Pub. L. 103–236, title II, §228, Apr. 30, 1994, 108 Stat. 423; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 98–164, title V, §504, Nov. 22, 1983, 97 Stat. 1040; Pub. L. 99–93, title II, §210(b), (d), Aug. 16, 1985, 99 Stat. 432; Pub. L. 100–204, title II, §211, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 102–138,title II, §§211(d), 215, Oct. 28, 1991, 105 Stat. 695, 697; Pub. L. 103–236, title II, §228, Apr. 30, 1994, 108 Stat. 423; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### <b>Editorial Notes</b>
 

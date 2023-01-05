@@ -122,7 +122,7 @@ In accordance with any applicable laws and subject to such terms and conditions 
 
 &emsp;&emsp;&emsp;&emsp;(I) the Secretary determines, upon adjudication of the water rights by the Colorado Water Conservation Board, that the Board holds water rights sufficient in priority, amount, and timing to fulfill the purposes of the Wilderness; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the Secretary has entered into a perpetual agreement with the Colorado Water Conservation Board to ensure the full exercise, protection, and enforcement of the State water rights within the Wilderness to reliably fulfill the purposes of the Wilderness.
+&emsp;&emsp;&emsp;&emsp;(II) the Secretary has entered into a perpetual agreement with the ColoradoWater Conservation Board to ensure the full exercise, protection, and enforcement of the State water rights within the Wilderness to reliably fulfill the purposes of the Wilderness.
 
 #### (ii) Adjudication
 

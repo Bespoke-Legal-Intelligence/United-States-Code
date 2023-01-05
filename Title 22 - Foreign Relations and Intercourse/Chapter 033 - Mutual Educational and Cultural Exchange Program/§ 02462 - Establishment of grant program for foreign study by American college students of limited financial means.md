@@ -32,7 +32,7 @@ An individual referred to in subsection (a) is an individual who—
 
 #### References in Text
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (a), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (a), is Pub. L. 87–256, Sept.21, 1961, 75 Stat. 527, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 This Act, referred to in subsec. (a), probably means title III of Pub. L. 106–309, Oct. 17, 2000, 114 Stat. 1094, known as the International Academic Opportunity Act of 2000, which enacted this section and provisions set out as notes under this section. For complete classification of this Act to the Code, see Tables.
 
@@ -46,7 +46,7 @@ Section was enacted as part of the International Academic Opportunity Act of 200
 
 #### International Academic Opportunity
 
-Pub. L. 106–309, title III, Oct. 17, 2000, 114 Stat. 1094, provided that:
+Pub. L. 106–309, title III, Oct. 17, 2000, 114 Stat. 1094, as amended by Pub. L. 117–263, div. I, title XCVII, §9716(e), Dec. 23, 2022, 136 Stat. 3922, provided that:
 
 #### "SEC. 301. SHORT TITLE.
 
@@ -60,17 +60,7 @@ Pub. L. 106–309, title III, Oct. 17, 2000, 114 Stat. 1094, provided that:
 
 "\[Enacted this section.\]
 
-#### "SEC. 304. REPORT TO CONGRESS.
-
-"The Secretary of State shall report annually to the Congress concerning the grant program established under this title. Each such report shall include the following information for the preceding year:
-
-&emsp;"(1) The number of participants.
-
-&emsp;"(2) The institutions of higher education in the United States that participants attended.
-
-&emsp;"(3) The institutions of higher education outside the United States participants attended during their study abroad.
-
-&emsp;"(4) The areas of study of participants.
+#### "\[SEC. 304. Repealed. Pub. L. 117–263, div. I, title XCVII, §9716(e), Dec. 23, 2022, 136 Stat. 3922.\]
 
 #### "SEC. 305. AUTHORIZATION OF APPROPRIATIONS.
 

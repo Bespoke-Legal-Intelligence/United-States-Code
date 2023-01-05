@@ -30,7 +30,7 @@
 
 &emsp;(2) A veteran shall be considered as living with a spouse, even though they reside apart, unless they are estranged.
 
-(i) If the veteran is entitled under this section to pension on the basis of such veteran's ownservice and is also entitled to pension on the basis of any other person's service, the Secretary shall pay such veteran only the greater benefit.
+(i) If the veteran is entitled under this section to pension on the basis of such veteran's own service and is also entitled to pension on the basis of any other person's service, the Secretary shall pay such veteran only the greater benefit.
 
 (j) A veteran meets the service requirements of this section if such veteran served in the active military, naval, air, or space service—
 
@@ -42,7 +42,7 @@
 
 &emsp;(4) for an aggregate of ninety days or more in two or more separate periods of service during more than one period of war.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, §521; Pub. L. 86–211, §3(a), Aug. 29, 1959, 73 Stat. 433; Pub. L. 87–101, §1, July 21, 1961, 75 Stat. 218; Pub. L. 88–664, §§3(a), (b), 5, 6(a), 7, Oct. 13, 1964, 78 Stat. 1094, 1095; Pub. L. 90–77, title I, §104, title II, §202(a)–(c), Aug. 31, 1967, 81 Stat. 179, 182; Pub. L. 90–275, §1(a), (b), Mar. 28, 1968, 82 Stat. 64, 65; Pub. L. 91–588, §§1(a), (b), 3(b), 9(c), Dec. 24, 1970, 84 Stat. 1580, 1583, 1584; Pub. L. 92–198, §§1(a), (b), 5(b), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, §1(a), (b), Dec. 6, 1973, 87 Stat. 694; Pub. L. 93–527, §2, Dec. 21, 1974, 88 Stat. 1702; Pub. L. 94–169, title I, §§102, 106(18), Dec. 23, 1975, 89 Stat. 1014, 1018; Pub. L. 94–432, title II, §202, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 95–204, title I, §101, Dec. 2, 1977, 91 Stat. 1455; Pub. L. 95–588, title I, §106(a), Nov. 4, 1978, 92 Stat. 2500; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1521 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, §207(b)(1), Dec. 27, 2001, 115 Stat. 991; Pub. L. 111–275, title VI, §608(a), Oct. 13, 2010, 124 Stat. 2886; Pub. L. 112–154, title V, §508(a), Aug. 6, 2012, 126 Stat. 1194; Pub. L. 116–283, div. A, title IX, §926(a)(19), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1136, §521; Pub. L. 86–211, §3(a), Aug. 29, 1959, 73 Stat. 433; Pub. L. 87–101, §1, July 21, 1961, 75 Stat. 218; Pub. L. 88–664, §§3(a), (b), 5, 6(a), 7, Oct. 13, 1964, 78 Stat. 1094, 1095; Pub. L. 90–77, title I, §104, title II, §202(a)–(c), Aug. 31, 1967, 81 Stat. 179, 182; Pub. L. 90–275, §1(a), (b), Mar. 28, 1968, 82 Stat. 64, 65;Pub. L. 91–588, §§1(a), (b), 3(b), 9(c), Dec. 24, 1970, 84 Stat. 1580, 1583, 1584; Pub. L. 92–198, §§1(a), (b), 5(b), Dec. 15, 1971, 85 Stat. 663, 664; Pub. L. 93–177, §1(a), (b), Dec. 6, 1973, 87 Stat. 694; Pub. L. 93–527, §2, Dec. 21, 1974, 88 Stat. 1702; Pub. L. 94–169, title I, §§102, 106(18), Dec. 23, 1975, 89 Stat. 1014, 1018; Pub. L. 94–432, title II, §202, Sept. 30, 1976, 90 Stat. 1369; Pub. L. 95–204, title I, §101, Dec. 2, 1977, 91 Stat. 1455; Pub. L. 95–588, title I, §106(a), Nov. 4, 1978, 92 Stat. 2500; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §1521 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 107–103, title II, §207(b)(1), Dec. 27, 2001, 115 Stat. 991; Pub. L. 111–275, title VI, §608(a), Oct. 13, 2010, 124 Stat. 2886; Pub. L. 112–154, title V, §508(a), Aug. 6, 2012, 126 Stat. 1194; Pub. L. 116–283, div. A, title IX, §926(a)(19), Jan. 1, 2021, 134 Stat. 3830.)
 
 #### <b>Editorial Notes</b>
 
@@ -122,7 +122,7 @@ Subsec. (e). Pub. L. 95–204, §101(6), substituted "$61" for "$57".
 
 Subsec. (b)(3). Pub. L. 94–432, §202(2), substituted "$3,540" for "$3,300".
 
-Subsec. (c)(1). Pub. L. 94–432, §202(3), increased monthly rate of pension by $13 from $186 to $199, from $191 to $204, and from $196 to $209, of a veteran with 1, 2, and 3 dependents, substituting "he or she" for "such veteran" in three places, substituted $700 to $1100 for $700 to $1,300, $1,100 to $2,400 for $1,300 to $2,800, $2,400 to $3,100 for $2,800 to $3,200, $3,100 to $3,500 for $3,200 to $3,800, and $3,700 to $4,760 for $3,800 to $4,500, and inserted ".07" ranging from $3,500 to $3,700.
+Subsec. (c)(1). Pub. L. 94–432, §202(3), increased monthly rate of pension by $13 from $186 to $199, from$191 to $204, and from $196 to $209, of a veteran with 1, 2, and 3 dependents, substituting "he or she" for "such veteran" in three places, substituted $700 to $1100 for $700 to $1,300, $1,100 to $2,400 for $1,300 to $2,800, $2,400 to $3,100 for $2,800 to $3,200, $3,100 to $3,500 for $3,200 to $3,800, and $3,700 to $4,760 for $3,800 to $4,500, and inserted ".07" ranging from $3,500 to $3,700.
 
 Subsec. (c)(3). Pub. L. 94–432, §202(4), substituted "$4,760" for "$4,500".
 
@@ -320,7 +320,7 @@ Pub. L. 95–588, title III, §306, Nov. 4, 1978, 92 Stat. 2508, as amended by P
 
 "(B) Any veteran eligible to make an election under subparagraph (A) who is married to another veteran who is also eligible to make such an election may not make such an election unless both such veterans make such an election.
 
-"(3) Any person eligible to make an election under paragraph (2) who does not make such an election shall continue to receive pension at the monthly rate being paid to such person on December 31, 1978, subject to all provisions of law applicable to basic eligibility for andpayment of pension under section 9(b) of the Veterans' Pension Act of 1959 Pub. L. 86–211, §9(b), Aug. 29, 1959, 73 Stat. 436 \[formerly set out below\], as in effect on December 31, 1978, except that pension may not be paid to such person if such person's annual income (determined in accordance with the applicable provisions of law, as in effect on December 31, 1978) exceeds $3,534, in the case of a veteran or surviving spouse without dependents or in the case of a child, or $5,098, in the case of a veteran or surviving spouse with one or more dependents, as each such amount is increased from time to time under paragraph (4).
+"(3) Any person eligible to make an election under paragraph (2) who does not make such an election shall continue to receive pension at the monthly rate being paid to such person on December 31, 1978, subject to all provisions of law applicable to basic eligibility for and payment of pension under section 9(b) of the Veterans' Pension Act of 1959 Pub. L. 86–211, §9(b), Aug. 29, 1959, 73 Stat. 436 \[formerly set out below\], as in effect on December 31, 1978, except that pension may not be paid to such person if such person's annual income (determined in accordance with the applicable provisions of law, as in effect on December 31, 1978) exceeds $3,534, in the case of a veteran or surviving spouse without dependents or in the case of a child, or $5,098, in the case of a veteran or surviving spouse with one or more dependents, as each such amount is increased from time to time under paragraph (4).
 
 "(4) Whenever there is an increase under section 5312 \[formerly 3112\] of title 38, United States Code (as added by section 304 of this Act), in the maximum annual rates of pension under sections 1521, 1541, and 1542 \[formerly 521, 541, and 542\] of such title, as in effect after December 31, 1978, the Secretary shall, effective on the date of such increase under such section 5312 \[formerly 3112\], increase the annual income limitations in effect under paragraph (3) by the same percentage as the percentage by which the maximum annual rates under such sections 1521, 1542, and 1543 \[formerly 521, 542, and 543\] are increased.
 
@@ -328,7 +328,7 @@ Pub. L. 95–588, title III, §306, Nov. 4, 1978, 92 Stat. 2508, as amended by P
 
 &emsp;"(1) a claim for pension is pending in the Veterans' Administration on December 31, 1978;
 
-&emsp;"(2) a claim for pension is filed by a veteran after December 31, 1978, and within one year after the date on which such veteran became totally and permanently disabled, if such veteran became totally and permanently disabled before January 1, 1979; or
+&emsp;"(2) a claim for pension is filed by a veteran after December 31, 1978, and within one year after the dateon which such veteran became totally and permanently disabled, if such veteran became totally and permanently disabled before January 1, 1979; or
 
 &emsp;"(3) a claim for pension is filed by a surviving spouse or by a child after December 31, 1978, and within one year after the date of death of the veteran through whose relationship such claim is made, if the death of such veteran occurred before January 1, 1979;
 
@@ -370,7 +370,7 @@ Pub. L. 90–275, §3, Mar. 28, 1968, 82 Stat. 67, provided that:
 
 &emsp;"(3) during each successive calendar year, at the rate for the next $100 annual income limitation higher than the one applied for the preceding year, until the rate corresponding to actual countable income is reached.
 
-"(b) Subsection (a) shall not apply for any period during which annual income of such person, exclusive of anincrease in monthly insurance benefits provided by the Social Security Amendments of 1967 \[see Short Title note set out under section 302 of Title 42\], exceeds the amount of annual income upon which was based the pension or dependency and indemnity compensation payable to the person immediately prior to receipt of the increase."
+"(b) Subsection (a) shall not apply for any period during which annual income of such person, exclusive of an increase in monthly insurance benefits provided by the Social Security Amendments of 1967 \[see Short Title note set out under section 302 of Title 42\], exceeds the amount of annual income upon which was based the pension or dependency and indemnity compensation payable to the person immediately prior to receipt of the increase."
 
 \[Provisions of section 3 of Pub. L. 90–275 effective on first day of first calendar month following month of initial payment of increases in monthly insurance benefits provided by Social Security Amendments of 1967 \[see Short Title note set out under section 302 of Title 42\], see section 6(b) of Pub. L. 90–275, set out as an Effective Date of 1968 Amendment note above.\]
 
@@ -378,7 +378,7 @@ Pub. L. 90–275, §3, Mar. 28, 1968, 82 Stat. 67, provided that:
 
 Pub. L. 90–275, §4, Mar. 28, 1968, 82 Stat. 68, as amended by Pub. L. 91–588, §5; Pub. L. 92–198, §4; Pub. L. 93–527, §6; Pub. L. 94–169, §107; Pub. L. 94–432, §206; Pub. L. 95–204, §105, provided that: "The income limitations governing payment of pension under the first sentence of section 9(b) of the Veterans' Pension Act of 1959 \[formerly set out in a Savings Provision note above\] hereafter shall be $3,300 and $4,760 instead of $3,100 and $4,460, respectively."
 
-Pub. L. 90–275, §4, Mar. 28, 1968, 82 Stat. 68, as originally enacted, was eff. Jan. 1, 1969, pursuant to Pub. L. 90–275, §6(a). Subsequent amendments to said section 4 by Pub. L. 91–588, Pub. L. 92–198, and Pub. L. 94–169 were effective Jan. 1, 1971, Jan. 1, 1972, and for a period beginning Jan. 1, 1976 and ending Sept. 30, 1976, respectively. Pub. L. 94–432, §§101, 405(b) amended said section 4 of Pub. L. 90–275 and section 107 of Pub. L. 94–169 to be effective Jan. 1, 1976 and Jan. 1, 1977, respectively. Pub. L. 95–204, §302 amended said section 4 of Pub. L. 90–275 to be effective Jan. 1, 1978.
+Pub. L. 90–275, §4, Mar. 28, 1968, 82 Stat. 68, as originally enacted, was eff. Jan. 1, 1969, pursuant to Pub. L. 90–275, §6(a). Subsequent amendments to said section 4 by Pub. L. 91–588, Pub. L. 92–198, and Pub. L. 94–169 wereeffective Jan. 1, 1971, Jan. 1, 1972, and for a period beginning Jan. 1, 1976 and ending Sept. 30, 1976, respectively. Pub. L. 94–432, §§101, 405(b) amended said section 4 of Pub. L. 90–275 and section 107 of Pub. L. 94–169 to be effective Jan. 1, 1976 and Jan. 1, 1977, respectively. Pub. L. 95–204, §302 amended said section 4 of Pub. L. 90–275 to be effective Jan. 1, 1978.
 
 #### Aid and Attendance Allowance for Widows of Veterans of All Periods of War
 

@@ -116,7 +116,7 @@ The Debt Collection Improvement Act of 1996, referred to in subsec. (d)(6), is s
 
 #### Prior Provisions
 
-A prior section 3056l, Pub. L. 89–73, title V, §514, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2282, related to competitive requirements relating to grant awards, prior to the general amendment of this subchapter by Pub. L. 109–365.
+A prior section 3056l, Pub. L. 89–73, title V, §514, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114Stat. 2282, related to competitive requirements relating to grant awards, prior to the general amendment of this subchapter by Pub. L. 109–365.
 
 #### Amendments
 

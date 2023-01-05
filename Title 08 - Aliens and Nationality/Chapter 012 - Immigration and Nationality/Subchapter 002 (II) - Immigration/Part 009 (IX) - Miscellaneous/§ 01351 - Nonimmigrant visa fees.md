@@ -102,7 +102,7 @@ Pub. L. 103–236, title I, §140(a), Apr. 30, 1994, 108 Stat. 399, as amended b
 
 "(2) Fees collected under the authority of paragraph (1) shall be deposited as an offsetting collection to any Department of State appropriation, to recover the costs of providing consular services. Such fees shall remain available for obligation until expended.
 
-"(3) For the fiscal year 2003, any amount that exceeds $460,000,000 may be made available only if a notification is submitted to Congress in accordance with the procedures applicable to reprogramming notifications under section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\]."
+"(3) For the fiscal year 2003, any amount that exceeds $460,000,000 may be made available only if a notification is submitted to Congress in accordance with the procedures applicable to reprogramming notifications undersection 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\]."
 
 Provisions directing the continuing effect for specific periods of authorities provided under section 140(a) of Pub. L. 103–236, set out above, were contained in the following appropriation acts:
 

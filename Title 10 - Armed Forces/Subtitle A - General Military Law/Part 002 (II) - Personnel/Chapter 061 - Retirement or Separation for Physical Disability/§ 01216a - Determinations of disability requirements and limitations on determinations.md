@@ -4,7 +4,7 @@
 
 Utilization of VA Schedule for Rating Disabilities in Determinations of Disability.—(1) In making a determination of disability of a member of the armed forces for purposes of this chapter, the Secretary concerned—
 
-&emsp;(A) shall, to the extent feasible, utilize the schedule for rating disabilities in use by the Department of Veterans Affairs, including any applicable interpretation of the schedule by the United States Court of Appeals for Veterans Claims; and
+&emsp;(A) shall, to the extent feasible, utilize the schedule for rating disabilities in use by theDepartment of Veterans Affairs, including any applicable interpretation of the schedule by the United States Court of Appeals for Veterans Claims; and
 
 &emsp;(B) except as provided in paragraph (2), may not deviate from the schedule or any such interpretation of the schedule.
 

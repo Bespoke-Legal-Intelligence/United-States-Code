@@ -1,6 +1,6 @@
 ### §§241 to 250. Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862
 
-Section 241, R.S. §2139; acts Feb. 27, 1877, ch. 69, §1, 19 Stat. 244; July 23, 1892, ch. 234, 27 Stat. 260; June 15,1938, ch. 435, §1, 52 Stat. 696, related to sale of intoxicating liquor. See sections 1154 and 1156 of Title 18, Crimes and Criminal Procedure.
+Section 241, R.S. §2139; acts Feb. 27, 1877, ch. 69, §1, 19 Stat. 244; July 23, 1892, ch. 234, 27 Stat. 260; June 15, 1938, ch. 435, §1, 52 Stat. 696, related to sale of intoxicating liquor. See sections 1154 and 1156 of Title 18, Crimes and Criminal Procedure.
 
 Section 241a, act Mar. 1, 1895, ch. 145, §8, 28 Stat. 697, related to punishment for sale of intoxicating liquors. See section 1155 of Title 18.
 

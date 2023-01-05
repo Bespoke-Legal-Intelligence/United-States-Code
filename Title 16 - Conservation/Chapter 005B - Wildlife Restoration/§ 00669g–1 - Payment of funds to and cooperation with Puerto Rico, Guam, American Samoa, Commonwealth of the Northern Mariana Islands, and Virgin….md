@@ -8,13 +8,13 @@ The Secretary of the Interior is authorized to cooperate with the Secretary of A
 
 #### References in Text
 
-The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
+The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
 
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–396 inserted reference to hunter safety programs as provided by section 669g(b) of this title.
 
-<b>1984</b>—Pub. L. 98–347 inserted "the Governor of American Samoa," after "the Governor of Guam,", "American Samoa," after "Puerto Rico, Guam," in twoplaces, and "for American Samoa one-sixth of one per centum," after "for Guam one-sixth of 1 per centum,".
+<b>1984</b>—Pub. L. 98–347 inserted "the Governor of American Samoa," after "the Governor of Guam,", "American Samoa," after "Puerto Rico, Guam," in two places, and "for American Samoa one-sixth of one per centum," after "for Guam one-sixth of 1 per centum,".
 
 <b>1980</b>—Pub. L. 96–597 inserted references to Governor and Commonwealth of the Northern Mariana Islands.
 

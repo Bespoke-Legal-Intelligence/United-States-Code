@@ -130,7 +130,7 @@ Section 101(f) of this Act, referred to in subsec. (f), is section 101(f) of the
 
 #### Codification
 
-Section was enacted as part of the Ticket to Work and Work Incentives Improvement Act of 1999, and not as part of the Social Security Act which comprises this chapter.
+Section was enacted as part of the Ticket to Work and Work Incentives Improvement Act of 1999, and notas part of the Social Security Act which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

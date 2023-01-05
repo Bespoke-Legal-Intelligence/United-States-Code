@@ -56,7 +56,7 @@ The Secretary may provide technical assistance for the Department, either direct
 
 #### (B) Objections
 
-&emsp;&emsp;No objection to the action of the Secretary shall be considered by the court unless the Department has registered the objection before the Secretary.
+&emsp;&emsp;No objection to the action of the Secretary shall be considered by the court unless theDepartment has registered the objection before the Secretary.
 
 #### (3) Disposition
 

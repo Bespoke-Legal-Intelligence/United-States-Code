@@ -46,7 +46,7 @@ Section 6714, Pub. L. 89–10, title II, §2344, as added Pub. L. 107–110, tit
 
 Section 6715, Pub. L. 89–10, title II, §2345, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1664, related to cooperative civic education and economic education exchange programs.
 
-Section 6716, Pub. L. 89–10, title II, §2346, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1666,authorized appropriations to carry out subpart 3 of part C of former subchapter II of this chapter.
+Section 6716, Pub. L. 89–10, title II, §2346, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1666, authorized appropriations to carry out subpart 3 of part C of former subchapter II of this chapter.
 
 Section 6721, Pub. L. 89–10, title II, §2351, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1666, related to establishment of the Teaching American History Grant Program.
 
@@ -60,7 +60,7 @@ A prior section 6733, Pub. L. 89–10, title II, §2363, as added Pub. L. 107–
 
 A prior section 6734, Pub. L. 89–10, title II, §2364, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1668, which related to applicability, was renumbered section 8554 of title VIII of Pub. L. 89–10 by Pub. L. 114–95, title II, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089, and transferred to section 7944 of this title.
 
-A prior section 6735, Pub. L. 89–10, title II, §2365, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1668, which related to preemption and election of State nonapplicability, was renumbered section 8555 of title VIII of Pub. L. 89–10 by Pub. L. 114–95, title II, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089, and transferred to section 7945 of this title.
+A prior section 6735, Pub. L. 89–10, title II, §2365, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1668, which related to preemption and election of State nonapplicability, was renumbered section 8555 of title VIII of Pub. L. 89–10 by Pub. L. 114–95, title II,§2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089, and transferred to section 7945 of this title.
 
 A prior section 6736, Pub. L. 89–10, title II, §2366, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1668, which related to limitation on liability for teachers, was renumbered section 8556 of title VIII of Pub. L. 89–10 by Pub. L. 114–95, title II, §2001(a)(3)(A), (B), (D), title VIII, §8001(a)(7), Dec. 10, 2015, 129 Stat. 1913, 2088, 2089, and transferred to section 7946 of this title.
 

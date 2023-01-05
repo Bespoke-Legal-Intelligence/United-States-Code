@@ -8,11 +8,13 @@
 
 #### (2) Denial of port privileges
 
-&emsp;The Secretary of the Treasury shall, in accordance with international law—
+&emsp;The Secretary of Homeland Security shall, in accordance with international law—
 
-&emsp;&emsp;(A) withhold or revoke the clearance required by section 60105 of title 46 for any large-scale driftnet fishing vessel that is documented under the laws of the United States or of a nation included on a list published under paragraph (1) or, as appropriate, for fishing vessels of a nation that receives a negative certification under section 1826j(d) of this title or section 1826k(c) of this title; and
+&emsp;&emsp;(A) withhold or revoke the clearance required by section 60105 of title 46 for any large-scale driftnet fishing vessel of a nation that receives a negative certification under section 1826j(d) or 1826k(c) of this title, or fishing vessels of a nation that has been listed pursuant to section 1826j(b) of this title or section 1826k(a) of this title in 2 or more consecutive reports for the same type of fisheries activity, as described under section 1826h of this title, until a positive certification has been received;
 
-&emsp;&emsp;(B) deny entry of that vessel to any place in the United States and to the navigable waters of the United States, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action.
+&emsp;&emsp;(B) withhold or revoke the clearance required by section 60105 of title 46 for fishing vessels of a nation that has been listed pursuant to section 1826j(a) or 1826k(a) of this title in 2 or more consecutive reports as described under section 1826h of this title; and
+
+&emsp;&emsp;(C) deny entry of that vessel to any place in the United States and to the navigable waters of the United States, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action.
 
 #### (3) Notification of nation
 
@@ -82,7 +84,7 @@
 
 &emsp;&emsp;Certification by the Secretary of Commerce under subparagraph (B) is deemed to be a certification under section 1978(a) of title 22.
 
-(Pub. L. 102–582, title I, §101, Nov. 2, 1992, 106 Stat. 4901; Pub. L. 109–479, title IV, §403(b)(1), Jan. 12, 2007, 120 Stat. 3632; Pub. L. 114–81, title I, §102(a), Nov. 5, 2015, 129 Stat. 656.)
+(Pub. L. 102–582, title I, §101, Nov. 2, 1992, 106 Stat. 4901; Pub. L. 109–479, title IV, §403(b)(1), Jan. 12, 2007, 120 Stat. 3632; Pub. L. 114–81, title I, §102(a), Nov. 5, 2015, 129 Stat. 656; Pub. L. 117–263, div. K, title CXIII, §11336, Dec. 23, 2022, 136 Stat. 4101.)
 
 #### <b>Editorial Notes</b>
 
@@ -92,11 +94,15 @@ This Act, referred to in subsec. (a)(3)(B), is Pub. L. 102–582, Nov. 2, 1992, 
 
 #### Codification
 
-In subsec. (a)(2)(A), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
-
 Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–263 amended par. (2) generally. Prior to amendment, text read as follows:"The Secretary of the Treasury shall, in accordance with international law—
+
+&emsp;"(A) withhold or revoke the clearance required by section 60105 of title 46 for any large-scale driftnet fishing vessel that is documented under the laws of the United States or of a nation included on a list published under paragraph (1) or, as appropriate, for fishing vessels of a nation that receives a negative certification under section 1826j(d) of this title or section 1826k(c) of this title; and
+
+&emsp;"(B) deny entry of that vessel to any place in the United States and to the navigable waters of the United States, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action."
 
 <b>2015</b>—Subsec. (a)(2). Pub. L. 114–81, §102(a)(1), struck out "recognized principles of" after "in accordance with" in introductory provisions.
 
@@ -117,6 +123,12 @@ Subsec. (b)(4)(A)(i). Pub. L. 114–81, §102(a)(8), (9), struck out "or illegal
 <b>2007</b>—Subsec. (b)(1)(A)(i), (B), (2), (4)(A)(i). Pub. L. 109–479 inserted "or illegal, unreported, or unregulated fishing" after "driftnet fishing".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Regulations
+
+Pub. L. 117–263, div. K, title CXIII, §11341, Dec. 23, 2022, 136 Stat. 4105, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 23, 2022\], the Secretary shall promulgate such regulations as may be necessary to carry out this subtitle \[subtitle E (§§11329–11341) of title CXIII of div. K of Pub. L. 117–263, see Tables for classification\] and the amendments made by this subtitle."
+
+\[For definition of "Secretary" as used in section 11341 of Pub. L. 117–263, set out above, see section 11329 of Pub. L. 117–263, set out as a note under section 1885a of this title.\]
 
 #### High Seas Driftnet Fisheries Enforcement; Congressional Statement of Findings and Policy
 

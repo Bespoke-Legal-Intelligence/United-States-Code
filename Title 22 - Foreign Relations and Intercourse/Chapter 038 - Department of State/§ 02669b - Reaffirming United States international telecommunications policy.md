@@ -12,7 +12,7 @@ In order to achieve the policy set forth in subsection (a), the Diplomatic Telec
 
 &emsp;(2) make every effort to ensure and promote the participation in the competition for such procurement of commercial private sector providers of satellite space segment who have no ownership or other connection with an intergovernmental satellite organization; and
 
-&emsp;(3) implement the competitive procedures required by paragraphs (1) and (2) at the prime contracting level and, to the maximum extent practicable, the subcontracting level.
+&emsp;(3) implement the competitive procedures required by paragraphs (1) and (2) at the primecontracting level and, to the maximum extent practicable, the subcontracting level.
 
 (Pub. L. 105–277, div. G, subdiv. B, title XXII, §2218, Oct. 21, 1998, 112 Stat. 2681–816.)
 

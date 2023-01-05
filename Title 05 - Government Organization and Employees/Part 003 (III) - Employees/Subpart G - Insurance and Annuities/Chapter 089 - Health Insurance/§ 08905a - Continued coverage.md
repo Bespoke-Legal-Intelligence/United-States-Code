@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) on the day before so ceasing to meet the requirements referred to in subparagraph (A), was covered under a health benefits plan under this chapter as a member of the family of an employee or annuitant; and
 
-&emsp;&emsp;(C) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract); and
+&emsp;&emsp;(C) would not otherwise be eligible for any benefits under this chapter (determinedwithout regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract); and
 
 &emsp;(3) any employee who—
 
@@ -60,7 +60,7 @@
 
 > &emsp;except that if a parent fails to provide the notice required under paragraph (1)(B)(i) in timely fashion, the 60-day period under this subparagraph shall be based on the date under clause (i), irrespective of whether or not any notice under paragraph (1)(B)(ii) is provided.
 
-(d)(1)(A) Except as provided in paragraphs (4), (5), and (6), an individual receiving continuedcoverage under this section shall be required to pay currently into the Employees Health Benefits Fund, under arrangements satisfactory to the Office, an amount equal to the sum of—
+(d)(1)(A) Except as provided in paragraphs (4), (5), and (6), an individual receiving continued coverage under this section shall be required to pay currently into the Employees Health Benefits Fund, under arrangements satisfactory to the Office, an amount equal to the sum of—
 
 &emsp;(i) the employee and agency contributions which would be required in the case of an employee enrolled in the same health benefits plan and level of benefits; and
 
@@ -122,7 +122,7 @@
 
 (e)(1) Continued coverage under this section may not extend beyond—
 
-&emsp;(A) in the case of an individual whose continued coverage is based on separation fromservice, the date which is 18 months after the effective date of the separation;
+&emsp;(A) in the case of an individual whose continued coverage is based on separation from service, the date which is 18 months after the effective date of the separation;
 
 &emsp;(B) in the case of an individual whose continued coverage is based on ceasing to meet the requirements for being considered an unmarried dependent child, the date which is 36 months after the date on which the individual first ceases to meet those requirements, subject to paragraph (2); or
 
@@ -150,7 +150,7 @@
 
 (2) The terms and conditions for coverage under the regulations shall include—
 
-&emsp;(A) consistent with subsection (c), any necessary notification provisions, and provisions under which an election period of at least 60 days' duration is afforded;
+&emsp;(A) consistent with subsection (c), any necessary notification provisions, and provisionsunder which an election period of at least 60 days' duration is afforded;
 
 &emsp;(B) terms and conditions identical to those under subsection (d), except that contributions to the Employees Health Benefits Fund shall be made through such agency as the Office by regulation prescribes;
 
@@ -218,7 +218,7 @@ Subsec. (d)(4)(B)(ii). Pub. L. 107–314, §1103(2), substituted "2007" and "200
 
 Subsec. (d)(2). Pub. L. 106–117, §1106(2), substituted "(1), (4), or (5)" for "(1) or (4)".
 
-Subsec. (d)(4)(A). Pub. L. 106–65, §3244, inserted ", or the Department of Energy due to a reduction in force resulting from the establishment of the National Nuclear Security Administration" after "reduction in force" in introductory provisions.
+Subsec. (d)(4)(A). Pub. L. 106–65, §3244, inserted ", or the Department of Energy due to a reduction in forceresulting from the establishment of the National Nuclear Security Administration" after "reduction in force" in introductory provisions.
 
 Subsec. (d)(4)(B). Pub. L. 106–65, §1104(c), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 

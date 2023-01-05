@@ -12,7 +12,7 @@
 
 #### (b) With respect to Overseas Private Investment Corporation
 
-There are transferred to the Administrator of the Agency for International Development all functions of the Director of the United States International Development Cooperation Agencyas of the day before the effective date of this subchapter with respect to the Overseas Private Investment Corporation.
+There are transferred to the Administrator of the Agency for International Development all functions of the Director of the United States International Development Cooperation Agency as of the day before the effective date of this subchapter with respect to the Overseas Private Investment Corporation.
 
 #### (c) Other activities
 
@@ -29,6 +29,8 @@ Executive Order No. 12163, referred to in subsec. (a), is Ex. Ord. No. 12163, Se
 For the effective date of this subchapter, referred to in subsecs. (a)(1) and (b), meaning the effective date of title XIV of subdiv. A of div. G of Pub. L. 105–277, see section 1401 of Pub. L. 105–277, set out as a note under section 6561 of this title.
 
 Reorganization Plan Numbered 2 of 1979, referred to in subsec. (c), is Reorg. Plan No. 2 of 1979, 44 F.R. 41165, 93 Stat. 1378, effective Oct. 1, 1979, pursuant to Ex. Ord. No. 12163, which was set out as a note under section 2381 of this title, prior to repeal by Pub. L. 105–277, div. G, subdiv. A, title XIV, §§1401, 1422(a)(1), Oct. 21, 1998, 112 Stat. 2681–790, 2681–792.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

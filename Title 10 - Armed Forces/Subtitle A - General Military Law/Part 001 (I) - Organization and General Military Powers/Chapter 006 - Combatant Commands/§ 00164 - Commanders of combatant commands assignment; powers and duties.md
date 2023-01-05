@@ -44,7 +44,7 @@ Command Authority of Combatant Commanders.—(1) Unless otherwise directed by th
 
 &emsp;(F) coordinating and approving those aspects of administration and support (including control of resources and equipment, internal organization, and training) and discipline necessary to carry out missions assigned to the command; and
 
-&emsp;(G) exercising the authority with respect to selecting subordinate commanders, selectingcombatant command staff, suspending subordinates, and convening courts-martial, as provided in subsections (e), (f), and (g) of this section and section 822(a) of this title, respectively.
+&emsp;(G) exercising the authority with respect to selecting subordinate commanders, selecting combatant command staff, suspending subordinates, and convening courts-martial, as provided in subsections (e), (f), and (g) of this section and section 822(a) of this title, respectively.
 
 (2)(A) The Secretary of Defense shall ensure that a commander of a combatant command has sufficient authority, direction, and control over the commands and forces assigned to the command to exercise effective command over those commands and forces. In carrying out this subparagraph, the Secretary shall consult with the Chairman of the Joint Chiefs of Staff.
 

@@ -58,7 +58,7 @@ Subsec. (a)(2). Pub. L. 116–283, §924(b)(1)(B), substituted "Marine Corps, an
 
 Subsec. (b)(1). Pub. L. 116–283, §924(b)(4)(C), substituted "Regular Marine Corps, or Regular Space Force" for "or Regular Marine Corps" in introductory provisions.
 
-Subsec. (b)(1)(D). Pub. L. 116–283, §502(a), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "Additional credit for special training or experience in a particular officer career field as designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned."
+Subsec. (b)(1)(D). Pub. L. 116–283, §502(a), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "Additional credit for special training or experience in a particular officer career field as designated by the Secretary concerned, if such training orexperience is directly related to the operational needs of the armed force concerned."
 
 Subsec. (b)(2). Pub. L. 116–283, §924(b)(14), substituted ", captain in the Navy, or an equivalent grade in the Space Force" for "or captain in the Navy".
 
@@ -68,7 +68,7 @@ Subsec. (f). Pub. L. 116–283, §924(b)(4)(C), substituted "Regular Marine Corp
 
 Subsec. (b)(1)(D). Pub. L. 115–232, §502(a)(1)(A), added subpar. (D) and struck out former subpar. (D) which read as follows: "Additional credit, in unusual cases, based on special experience in a particular field."
 
-Subsec. (b)(2). Pub. L. 115–232, §502(a)(1)(B), substituted "The amount" for "Except as authorized bythe Secretary concerned in individual cases and under regulations prescribed by the Secretary of Defense in the case of a medical or dental officer, the amount" and "in the grade of colonel in the Army, Air Force, or Marine Corps or captain in the Navy" for "in the grade of major in the Army, Air Force, or Marine Corps or lieutenant commander in the Navy".
+Subsec. (b)(2). Pub. L. 115–232, §502(a)(1)(B), substituted "The amount" for "Except as authorized by the Secretary concerned in individual cases and under regulations prescribed by the Secretary of Defense in the case of a medical or dental officer, the amount" and "in the grade of colonel in the Army, Air Force, or Marine Corps or captain in the Navy" for "in the grade of major in the Army, Air Force, or Marine Corps or lieutenant commander in the Navy".
 
 Subsec. (c). Pub. L. 115–232, §502(a)(2)(A), struck out "or (g)" after "subsection (b)" in introductory provisions.
 

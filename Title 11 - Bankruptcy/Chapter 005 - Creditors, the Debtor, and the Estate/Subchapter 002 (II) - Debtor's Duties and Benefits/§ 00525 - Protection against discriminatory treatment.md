@@ -1,6 +1,6 @@
 ### §525. Protection against discriminatory treatment
 
-(a) Except as provided in the Perishable Agricultural Commodities Act, 1930, the Packers and Stockyards Act, 1921, and section 1 of the Act entitled "An Act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1944, and for other purposes," approved July 12, 1943, a governmental unit may not deny, revoke, suspend, or refuse to renew a license, permit, charter, franchise, or other similar grant to, condition such a grant to, discriminate with respect to such a grant against, deny employment to, terminate the employment of, or discriminate with respect to employmentagainst, a person that is or has been a debtor under this title or a bankrupt or a debtor under the Bankruptcy Act, or another person with whom such bankrupt or debtor has been associated, solely because such bankrupt or debtor is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, has been insolvent before the commencement of the case under this title, or during the case but before the debtor is granted or denied a discharge, or has not paid a debt that is dischargeable in the case under this title or that was discharged under the Bankruptcy Act.
+(a) Except as provided in the Perishable Agricultural Commodities Act, 1930, the Packers and Stockyards Act, 1921, and section 1 of the Act entitled "An Act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1944, and for other purposes," approved July 12, 1943, a governmental unit may not deny, revoke, suspend, or refuse to renew a license, permit, charter, franchise, or other similar grant to, condition such a grant to, discriminate with respect to such a grant against, deny employment to, terminate the employment of, or discriminate with respect to employment against, a person that is or has been a debtor under this title or a bankrupt or a debtor under the Bankruptcy Act, or another person with whom such bankrupt or debtor has been associated, solely because such bankrupt or debtor is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, has been insolvent before the commencement of the case under this title, or during the case but before the debtor is granted or denied a discharge, or has not paid a debt that is dischargeable in the case under this title or that was discharged under the Bankruptcy Act.
 
 (b) No private employer may terminate the employment of, or discriminate with respect to employment against, an individual who is or has been a debtor under this title, a debtor or bankrupt under the Bankruptcy Act, or an individual associated with such debtor or bankrupt, solely because such debtor or bankrupt—
 
@@ -40,13 +40,13 @@ The Packers and Stockyards Act, 1921, referred to in subsec. (a), is act Aug. 15
 
 Section 1 of the Act entitled "An Act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1944, and for other purposes," approved July 12, 1943, referred to in subsec. (a), is classified to section 204 of Title 7.
 
-The Bankruptcy Act, referred to in text, is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11.
+The Bankruptcy Act, referred to in text, is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11.
 
 The Higher Education Act of 1965, referred to in subsec. (c)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
 
-<b>2020</b>—Subsec. (d). Pub. L. 116–260, §1001(c)(2), struck out subsec. (d) which read as follows: "A person may not be denied relief under sections 4022 through 4024 ofthe CARES Act (15 U.S.C. 9056, 9057, 9058) because the person is or has been a debtor under this title."
+<b>2020</b>—Subsec. (d). Pub. L. 116–260, §1001(c)(2), struck out subsec. (d) which read as follows: "A person may not be denied relief under sections 4022 through 4024 of the CARES Act (15 U.S.C. 9056, 9057, 9058) because the person is or has been a debtor under this title."
 
 Pub. L. 116–260, §1001(c)(1), added subsec. (d).
 
@@ -76,5 +76,5 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

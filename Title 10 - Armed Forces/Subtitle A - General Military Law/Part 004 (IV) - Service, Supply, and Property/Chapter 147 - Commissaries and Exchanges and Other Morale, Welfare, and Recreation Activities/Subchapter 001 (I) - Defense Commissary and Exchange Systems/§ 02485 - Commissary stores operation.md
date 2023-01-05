@@ -62,7 +62,7 @@ Donation of Unusable Food.—(1) The Secretary of Defense may donate food descri
 
 (g)
 
-Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a charge for the collection of a check accepted at a commissary store that is not honored by the financial institution on which the check is drawn. The imposition and amounts of charges shall beconsistent with practices of commercial grocery stores regarding dishonored checks.
+Collection of Dishonored Checks.—(1) The Secretary of Defense may impose a charge for the collection of a check accepted at a commissary store that is not honored by the financial institution on which the check is drawn. The imposition and amounts of charges shall be consistent with practices of commercial grocery stores regarding dishonored checks.
 
 (2)(A) The following persons are liable to the United States for the amount of a check referred to in paragraph (1) that is returned unpaid to the United States, together with any charge imposed under that paragraph:
 
@@ -112,7 +112,7 @@ Release of Certain Commercially Valuable Information to Public.—(1) The Secret
 
 Expert Commercial Advice.—The Secretary of Defense may enter into a contract with an entity to obtain expert commercial advice, commercial assistance, or other similar services not otherwise carried out by the Defense Commissary Agency, to implement section 2481(c), subsections (i) and (j) of section 2484, and section 2487(c) of this title.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 141, §2482; Pub. L. 100–456, div. A, title III, §321, Sept. 29, 1988, 102 Stat. 1952; Pub. L. 104–106, div. A, title III, §331(a), Feb. 10, 1996, 110 Stat. 260; Pub. L. 104–201, div. A, title III, §341(b), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–261, div. A, title III, §§361(b), 363(a), Oct. 17, 1998, 112 Stat. 1984, 1985; Pub. L. 108–136, div. A, title VI, §653, Nov. 24, 2003, 117 Stat. 1522; renumbered §2485 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (6), (7), Oct. 28, 2004, 118 Stat. 1964, 1968; Pub. L. 109–163, div. A, title VI, §672, Jan. 6, 2006, 119 Stat. 3319; Pub. L. 111–350, §5(b)(35), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title X, §1061(16), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 114–328, div. A, title VI, §661(e), Dec. 23, 2016, 130 Stat. 2172.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 141, §2482; Pub. L. 100–456, div. A, title III, §321, Sept. 29, 1988, 102 Stat. 1952; Pub. L. 104–106, div. A, title III, §331(a), Feb. 10, 1996, 110 Stat. 260; Pub. L. 104–201, div. A, title III, §341(b), Sept. 23, 1996, 110 Stat. 2489; Pub. L. 105–261, div. A, title III, §§361(b), 363(a), Oct. 17, 1998, 112 Stat. 1984, 1985; Pub. L. 108–136, div. A, title VI, §653, Nov. 24, 2003, 117 Stat. 1522; renumbered §2485 and amended Pub. L. 108–375, div. A, title VI, §651(a)(2), (6),\(7), Oct. 28, 2004, 118 Stat. 1964, 1968; Pub. L. 109–163, div. A, title VI, §672, Jan. 6, 2006, 119 Stat. 3319; Pub. L. 111–350, §5(b)(35), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 112–81, div. A, title X, §1061(16), Dec. 31, 2011, 125 Stat. 1583; Pub. L. 114–328, div. A, title VI, §661(e), Dec. 23, 2016, 130 Stat. 2172.)
 
 Historical and Revision Notes
 
@@ -134,7 +134,7 @@ This section is codified as permanent law on the basis of an opinion of the Assi
 
 #### Prior Provisions
 
-A prior section 2485, added Pub. L. 99–145, title XIV, §1460(a), Nov. 8, 1985, 99 Stat. 764; amended Pub. L.101–510, div. A, title III, §324(a), (b)(1), Nov. 5, 1990, 104 Stat. 1530; Pub. L. 104–201, div. A, title III, §365, Sept. 23, 1996, 110 Stat. 2494, related to donation of unusable food from commissary stores and other activities, prior to repeal by Pub. L. 108–375, div. A, title VI, §651(a)(1), Oct. 28, 2004, 118 Stat. 1964.
+A prior section 2485, added Pub. L. 99–145, title XIV, §1460(a), Nov. 8, 1985, 99 Stat. 764; amended Pub. L. 101–510, div. A, title III, §324(a), (b)(1), Nov. 5, 1990, 104 Stat. 1530; Pub. L. 104–201, div. A, title III, §365, Sept. 23, 1996, 110 Stat. 2494, related to donation of unusable food from commissary stores and other activities, prior to repeal by Pub. L. 108–375, div. A, title VI, §651(a)(1), Oct. 28, 2004, 118 Stat. 1964.
 
 A prior section 2486 was renumbered section 2484 of this title.
 

@@ -50,7 +50,7 @@ Children's metal jewelry.—Not later than 120 days after August 14, 2008, the C
 
 &emsp;&emsp;(v)
 
-Baby bouncers, walkers, and jumpers.—Not later than 210 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation of third party conformity assessment bodies to assess conformity with parts 1500.18(a)(6) and 1500.86(a) of such title.<sup>1</sup>
+Baby bouncers, walkers, and jumpers.—Not later than 210 days after August 14, 2008, the Commission shall publish notice of the requirements for accreditation ofthird party conformity assessment bodies to assess conformity with parts 1500.18(a)(6) and 1500.86(a) of such title.<sup>1</sup>
 
 &emsp;&emsp;(vi)
 
@@ -138,7 +138,7 @@ The Commission may by rule require the use and prescribe the form and content of
 
 &emsp;&emsp;&emsp;(iii) The extent to which products with a substantial number of different components subject to third party testing may be evaluated to show compliance with an applicable rule, ban, standard, or regulation by third party testing of a subset of such components selected by a third party conformity assessment body.
 
-&emsp;&emsp;&emsp;(iv) The extent to which manufacturers with a substantial number of substantiallysimilar products subject to third party testing may reasonably make use of sampling procedures that reduce the overall test burden without compromising the benefits of third party testing.
+&emsp;&emsp;&emsp;(iv) The extent to which manufacturers with a substantial number of substantially similar products subject to third party testing may reasonably make use of sampling procedures that reduce the overall test burden without compromising the benefits of third party testing.
 
 &emsp;&emsp;&emsp;(v) The extent to which evidence of conformity with other national or international governmental standards may provide assurance of conformity to consumer product safety rules, bans, standards, or regulations applicable under this chapter.
 
@@ -264,7 +264,7 @@ In this section:
 
 #### (1) Children's product safety rule
 
-&emsp;The term "children's product safety rule" means a consumer product safety rule underthis chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission, including a rule declaring a consumer product to be a banned hazardous product or substance.
+&emsp;The term "children's product safety rule" means a consumer product safety rule under this chapter or similar rule, regulation, standard, or ban under any other Act enforced by the Commission, including a rule declaring a consumer product to be a banned hazardous product or substance.
 
 #### (2) Third party conformity assessment body
 
@@ -294,7 +294,7 @@ In this section:
 
 &emsp;&emsp;Upon request, the Commission may accredit a conformity assessment body that is owned, managed, or controlled by a manufacturer or private labeler as a third party conformity assessment body if the Commission by order finds that—
 
-&emsp;&emsp;&emsp;(i) accreditation of the conformity assessment body would provide equal or greater consumer safety protection than the manufacturer's or private labeler's use of an independent third party conformity assessment body; and
+&emsp;&emsp;&emsp;(i) accreditation of the conformity assessment body would provide equal or greater consumer safety protection than the manufacturer's or private labeler's useof an independent third party conformity assessment body; and
 
 &emsp;&emsp;&emsp;(ii) the conformity assessment body has established procedures to ensure that—
 

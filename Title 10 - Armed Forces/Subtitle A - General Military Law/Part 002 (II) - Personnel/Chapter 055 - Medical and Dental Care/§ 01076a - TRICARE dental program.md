@@ -22,7 +22,63 @@ Plan for ready reserve dependents.—A dental benefits plan for eligible depende
 
 (b)
 
-Administration of Plans.—The plans established under this section shall be administered under regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries.
+Administration of Plans.—
+
+&emsp;(1)
+
+In general.—The plans established under this section shall be administered under regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries.
+
+&emsp;(2)
+
+Premium sharing plans.—Effective as of January 1, 2026, the regulations prescribed pursuant to paragraph (1) shall include, with respect to premium sharing plans referred to in subsection (d)(1), the following elements:
+
+&emsp;&emsp;(A) A third party administrator shall manage the administrative features of such plans, including eligibility, enrollment, plan change and premium payment processes, submission of qualifying life events changes, and address changes.
+
+&emsp;&emsp;(B) Such plans shall include the following three enrollment options:
+
+&emsp;&emsp;&emsp;(i) Self.
+
+&emsp;&emsp;&emsp;(ii) Self plus one.
+
+&emsp;&emsp;&emsp;(iii) Family.
+
+&emsp;&emsp;(C) In the United States, to the extent practicable, individuals eligible to enroll in such a plan shall be offered options to enroll in plans of not fewer than two and not more than four dental insurance carriers.
+
+&emsp;&emsp;(D) To the extent practicable, each carrier described in subparagraph (C)—
+
+&emsp;&emsp;&emsp;(i) shall manage dental care delivery matters, including claims adjudication (with required electronic submission of claims), coordination of benefits, covered services, enrollment verification, and provider networks;
+
+&emsp;&emsp;&emsp;(ii) shall, in addition to offering a standard option plan, offer a non-standard option plan;
+
+&emsp;&emsp;&emsp;(iii) may offer a non-standard option plan managed as a dental health maintenance organization plan;
+
+&emsp;&emsp;&emsp;(iv) shall establish and operate dental provider networks that provide—
+
+&emsp;&emsp;&emsp;&emsp;(I) accessible care with a prevention or wellness focus;
+
+&emsp;&emsp;&emsp;&emsp;(II) continuity of care;
+
+&emsp;&emsp;&emsp;&emsp;(III) coordinated care (including appropriate dental and medical referrals);
+
+&emsp;&emsp;&emsp;&emsp;(IV) patient-centered care (including effective communications, individualized care, and shared decision-making); and
+
+&emsp;&emsp;&emsp;&emsp;(V) high-quality, safe care;
+
+&emsp;&emsp;&emsp;(v) shall develop and implement adult and pediatric dental quality measures, including effective measurements for—
+
+&emsp;&emsp;&emsp;&emsp;(I) access to care;
+
+&emsp;&emsp;&emsp;&emsp;(II) continuity of care;
+
+&emsp;&emsp;&emsp;&emsp;(III) cost;
+
+&emsp;&emsp;&emsp;&emsp;(IV) adverse patient events;
+
+&emsp;&emsp;&emsp;&emsp;(V) oral health outcomes; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) patient experience; and
+
+&emsp;&emsp;&emsp;(vi) may conduct in the provider networks established and operated by the carrier under clause (iv), to the extent practicable, pilot programs on the development of a model of care based on the model of care commonly referred to as patient-centered dental homes.
 
 (c)
 
@@ -42,15 +98,23 @@ Premiums.—
 
 Premium sharing plans.—(A) The dental insurance plan established under subsection (a)(1) and the dental benefits plans established under subsection (a)(3) are premium sharing plans.
 
-&emsp;(B) Members enrolled in a premium sharing plan for themselves or for their dependents shall be required to pay a share of the premium charged for the benefits provided under the plan. The member's share of the premium charge may not exceed $20 per month for the enrollment.
+&emsp;(B) Members enrolled in a premium sharing plan for themselves or for their dependents shall be required to pay a share of the premium charged for the benefits provided under the plan. During the period preceding January 1, 2026, the member's share of the premium charge may not exceed $20 per month for the enrollment.
 
-&emsp;(C) Effective as of January 1 of each year, the amount of the premium required under subparagraph (A) shall be increased by the percent equal to the lesser of—
+&emsp;(C) Effective as of January 1 of each year during the period preceding January 1, 2026, the amount of the premium required under subparagraph (A) shall be increased by the percent equal to the lesser of—
 
 &emsp;&emsp;(i) the percent by which the rates of basic pay of members of the uniformed services are increased on such date; or
 
 &emsp;&emsp;(ii) the sum of one-half percent and the percent computed under section 5303(a) of title 5 for the increase in rates of basic pay for statutory pay systems for pay periods beginning on or after such date.
 
-&emsp;(D) The Secretary of Defense may reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4 if the Secretary determines that such a reduction is appropriate to assist such members to participate in a dental plan referred to in subparagraph (A).
+&emsp;(D) During the period preceding January 1, 2026, the Secretary of Defense may reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4 if the Secretary determines that such a reduction is appropriate to assist such members to participate in a dental plan referred to in subparagraph (A).
+
+&emsp;(E) Beginning on January 1, 2026, the amount of the premium required under subparagraph (A)—
+
+&emsp;&emsp;(i) for standard option plans, shall be established by the Secretary annually such that in the aggregate (taking into account the adjustments under subparagraph (F) and subsection (e)(3),<sup>1</sup> the Secretary's share of each premium is 60 percent of the premium for each enrollment category (self, self plus one, and family, respectively) of each standard option plan; and
+
+&emsp;&emsp;(ii) for non-standard option plans, shall be equal to the amount determined under clause (i) plus 100 percent of the additional premium amount applicable to such non-standard option plan.
+
+&emsp;(F) Beginning on January 1, 2026, the Secretary of Defense shall reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4.
 
 &emsp;(2)
 
@@ -76,13 +140,15 @@ Copayments Under Premium Sharing Plans.—(1) Except as provided pursuant to par
 
 (B) The waiver under subparagraph (A) may apply only with respect to charges for coverage of dental care required for readiness.
 
+(3) Beginning on January 1, 2026, the Secretary of Defense shall reduce copayments required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4.
+
 (f)
 
 Transfer of Members.—If a member whose dependents are enrolled in the plan established under subsection (a)(3) is transferred to a duty station where dental care is provided to the member's eligible dependents under a program other than that plan, the member may discontinue participation under the plan. If the member is later transferred to a duty station where dental care is not provided to such member's eligible dependents except under the plan established under subsection (a)(3), the member may re-enroll the dependents in that plan.
 
 (g)
 
-Care Outside the United States.—The Secretary of Defense may exercise the authority provided under subsection (a) to establish dental insurance plans and dental benefits plans for dental benefits provided outside the United States for the eligible members and dependents of members of the uniformed services. In the case of such an overseas dental plan, the Secretary may waive or reduce any copayments required by subsection (e) to the extent the Secretary determines appropriate for the effective and efficient operation of the plan.
+Care Outside the United States.—The Secretary of Defense may exercise the authority provided under subsection (a) to establish dental insurance plans and dental benefits plans for dental benefits provided outside the United States for the eligible members and dependents of members of the uniformed services. In thecase of such an overseas dental plan, the Secretary may waive or reduce any copayments required by subsection (e) to the extent the Secretary determines appropriate for the effective and efficient operation of the plan.
 
 (h)
 
@@ -94,7 +160,7 @@ Authority Subject to Appropriations.—The authority of the Secretary of Defense
 
 (j)
 
-Limitation on Reduction of Benefits.—The Secretary of Defense may not reduce benefits provided under a plan established under this section until—
+Limitation on Reduction of Benefits.—During the period preceding January 1, 2026, the Secretary of Defense may not reduce benefits provided under a plan established under this section, and on or after January 1, 2026, the Secretary may not reduce benefits provided under a standard option plan under this section, until—
 
 &emsp;(1) the Secretary provides notice of the Secretary's intent to reduce such benefits to the Committees on Armed Services of the Senate and the House of Representatives; and
 
@@ -122,7 +188,15 @@ Eligible Dependent Defined.—(1) In this section, the term "eligible dependent"
 
 &emsp;&emsp;(ii) The date on which such dependent attains 23 years of age.
 
-(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, §701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, §713(b), Aug. 13, 2018, 132 Stat. 1811; Pub. L. 116–283, div. A, title VII, §711(b)—(d), Jan. 1, 2021, 134 Stat. 3691.)
+(l)
+
+Definitions.—In this section:
+
+&emsp;(1) The term "non-standard option plan" means a high option dental insurance plan that includes covered services in addition to, or provides greater coverage with respect to, services covered under a standard option plan.
+
+&emsp;(2) The term "standard option plan" means a dental insurance plan that provides for the coverage of preventive services, basic restorative services, and specialty dental care services at a level that is at least commensurate with the coverage of the same services provided under the premium sharing plans under this section during the period preceding January 1, 2026.
+
+(Added Pub. L. 106–65, div. A, title VII, §711(a), Oct. 5, 1999, 113 Stat. 685; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §704(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–174; Pub. L. 107–314, div. A, title VII, §703, Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–375, div. A, title VII, §711, Oct. 28, 2004, 118 Stat. 1984; Pub. L. 109–163, div. A, title VII, §713, Jan. 6, 2006, 119 Stat. 3343; Pub. L. 110–417, \[div. A\], title VII, §735(b), Oct. 14, 2008, 122 Stat. 4514; Pub. L. 111–84, div. A, title VII, §704, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 111–383, div. A, title VII, §703, Jan. 7, 2011, 124 Stat. 4245; Pub. L. 112–239, div. A, title VII, §701(b), Jan. 2, 2013, 126 Stat. 1798; Pub. L. 115–232, div. A, title VII, §713(b), Aug. 13, 2018, 132 Stat. 1811; Pub. L. 116–283, div. A, title VII, §711(b)—(d), Jan. 1, 2021, 134 Stat. 3691; Pub. L. 117–263, div. A, title VII, §701(a), Dec. 23, 2022, 136 Stat. 2644.)
 
 #### <b>Editorial Notes</b>
 
@@ -132,7 +206,23 @@ A prior section 1076a, added Pub. L. 99–145, title VI, §651(a)(1), Nov. 8, 19
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §711(d), struck out at end "During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretaryconcerned, shall not terminate earlier than 180 days after the date on which the member is separated."
+<b>2022</b>—Subsec. (b). Pub. L. 117–263, §701(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (d)(1)(B). Pub. L. 117–263, §701(a)(2)(A), substituted "During the period preceding January 1, 2026, the member's" for "The member's".
+
+Subsec. (d)(1)(C). Pub. L. 117–263, §701(a)(2)(B), substituted "of each year during the period preceding January 1, 2026," for "of each year," in introductory provisions.
+
+Subsec. (d)(1)(D). Pub. L. 117–263, §701(a)(2)(C), substituted "During the period preceding January 1, 2026, the Secretary of Defense" for "The Secretary of Defense".
+
+Subsec. (d)(1)(E), (F). Pub. L. 117–263, §701(a)(2)(D), added subpars. (E) and (F).
+
+Subsec. (e)(3). Pub. L. 117–263, §701(a)(3), added par. (3).
+
+Subsec. (j). Pub. L. 117–263, §701(a)(4), substituted "During the period preceding January 1, 2026, the Secretary of Defense may not reduce benefits provided under a plan established under this section, and on or after January 1, 2026, the Secretary may not reducebenefits provided under a standard option plan under this section, until" for "The Secretary of Defense may not reduce benefits provided under a plan established under this section until" in introductory provisions.
+
+Subsec. (l). Pub. L. 117–263, §701(a)(5), added subsec. (l).
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 116–283, §711(d), struck out at end "During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated."
 
 Subsec. (b). Pub. L. 116–283, §711(c), repealed Pub. L. 115–232, §713(b). See 2018 Amendment note below.
 
@@ -174,6 +264,14 @@ Pub. L. 116–283, §711(b), amended subsec. (b) generally. Prior to amendment, 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Rulemaking
+
+Pub. L. 117–263, div. A, title VII, §701(b), Dec. 23, 2022, 136 Stat. 2646, provided that: "Pursuant to the authority under section 1076a(b)(1) of title 10, United States Code, as amended by subsection (a), the Secretary of Defense shall—
+
+&emsp;"(1) not later than January 1, 2025, prescribe an interim final rule to carry out the amendments made by subsection (a) \[amending this section\]; and
+
+&emsp;"(2) after prescribing the interim final rule under subparagraph (A) \[sic; probably should be "paragraph (1)"\] and considering public comments with respect to such interim final rule, prescribe a final rule, effective on January 1, 2026, to carry out such amendments."
+
 #### Transition of Administration of TRICARE Dental Plans
 
 Pub. L. 115–232, div. A, title VII, §713(d), Aug. 13, 2018, 132 Stat. 1812, which related to transition of administration of TRICARE dental plans, was repealed by Pub. L. 116–283, div. A, title VII, §711(c), Jan. 1, 2021, 134 Stat. 3691.
@@ -196,9 +294,11 @@ Covered Members.—A member referred to in subsection (a) is a member of the uni
 
 "(c)
 
-Report on Advisability of Expansion.—Not later than February 28, 1994, the Secretary shall submit to Congress a report evaluating the advisability of expanding the enrollment eligibility of members of the uniformed services in the dependents' dental program in the manner authorized in subsection (a). The report shall include an analysis of the cost implications for such an expansion to the Federal Government, beneficiaries under the dependents' dental program, and contractors under the program.
+Report on Advisability of Expansion.—Not later than February 28, 1994, the Secretary shall submitto Congress a report evaluating the advisability of expanding the enrollment eligibility of members of the uniformed services in the dependents' dental program in the manner authorized in subsection (a). The report shall include an analysis of the cost implications for such an expansion to the Federal Government, beneficiaries under the dependents' dental program, and contractors under the program.
 
 "(d)
 
 Notification of Exercise of Authority.—The Secretary shall notify Congress of any decision to expand the enrollment eligibility of dependents in the dependents' dental program as provided in subsection (a) not later than 30 days before such expansion takes effect."
+
+<i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

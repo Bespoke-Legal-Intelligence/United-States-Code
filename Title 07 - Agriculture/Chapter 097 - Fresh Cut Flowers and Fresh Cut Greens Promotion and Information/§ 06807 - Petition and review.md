@@ -38,7 +38,7 @@
 
 #### (c) Enforcement
 
-The pendency of proceedings instituted under this section shall not impede, hinder, or delay the Attorney General or the Secretary from obtaining relief under section 6808 of this title.
+The pendency of proceedings instituted under this section shall not impede, hinder, or delaythe Attorney General or the Secretary from obtaining relief under section 6808 of this title.
 
 (Pub. L. 103–190, §8, Dec. 14, 1993, 107 Stat. 2285.)
 

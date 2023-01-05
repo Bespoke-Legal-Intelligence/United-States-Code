@@ -8,7 +8,7 @@ It is unlawful for any person—
 
 &emsp;(2) to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce—
 
-&emsp;&emsp;(A) any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State or in violation of any foreign law;
+&emsp;&emsp;(A) any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State or in violation of any foreign law; or
 
 &emsp;&emsp;(B) any plant—
 
@@ -24,9 +24,7 @@ It is unlawful for any person—
 
 &emsp;&emsp;&emsp;(ii) taken, possessed, transported, or sold without the payment of appropriate royalties, taxes, or stumpage fees required for the plant by any law or regulation of any State or any foreign law; or
 
-&emsp;&emsp;&emsp;(iii) taken, possessed, transported, or sold in violation of any limitation under any law or regulation of any State, or under any foreign law, governing the export or transshipment of plants; or
-
-&emsp;&emsp;(C) any prohibited wildlife species (subject to subsection (e));
+&emsp;&emsp;&emsp;(iii) taken, possessed, transported, or sold in violation of any limitation under any law or regulation of any State, or under any foreign law, governing the export or transshipment of plants;
 
 &emsp;(3) within the special maritime and territorial jurisdiction of the United States (as defined in section 7 of title 18)—
 
@@ -48,7 +46,7 @@ It is unlawful for any person—
 
 &emsp;&emsp;&emsp;(iii) taken, possessed, transported, or sold in violation of any limitation under any law or regulation of any State, or under any foreign law, governing the export or transshipment of plants; or
 
-&emsp;(4) to attempt to commit any act described in paragraphs (1) through (3).
+&emsp;(4) to attempt to commit any act described in paragraphs (1) through (3) or subsection (e).
 
 #### (b) Marking offenses
 
@@ -84,43 +82,63 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 &emsp;(2) transported in interstate or foreign commerce.
 
-#### (e) Nonapplicability of prohibited wildlife species offense
+#### (e) Captive wildlife offense
 
 #### (1) In general
 
-&emsp;Subsection (a)(2)(C) does not apply to importation, exportation, transportation, sale, receipt, acquisition, or purchase of an animal of a prohibited wildlife species, by a person that, under regulations prescribed under paragraph (3), is described in paragraph (2) with respect to that species.
+&emsp;Except as provided in paragraph (2), it is unlawful for any person to—
 
-#### (2) Persons described
+&emsp;&emsp;(A) import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce, or in a manner substantially affecting interstate or foreign commerce; or
 
-&emsp;A person is described in this paragraph, if the person—
+&emsp;&emsp;(B) breed or possess;
 
-&emsp;&emsp;(A) is licensed or registered, and inspected, by the Animal and Plant Health Inspection Service or any other Federal agency with respect to that species;
+> &emsp;any prohibited wildlife species.
 
-&emsp;&emsp;(B) is a State college, university, or agency, State-licensed wildlife rehabilitator, or State-licensed veterinarian;
+#### (2) Limitation on application
 
-&emsp;&emsp;(C) is an accredited wildlife sanctuary that cares for prohibited wildlife species and—
+&emsp;Paragraph (1) does not apply to—
 
-&emsp;&emsp;&emsp;(i) is a corporation that is exempt from taxation under section 501(a) of title 26 anddescribed in sections 501(c)(3) and 170(b)(1)(A)(vi) of such title;
+&emsp;&emsp;(A) an entity exhibiting animals to the public under a Class C license from the Department of Agriculture, or a Federal facility registered with the Department of Agriculture that exhibits animals, if such entity or facility holds such license or registration in good standing and if the entity or facility—
 
-&emsp;&emsp;&emsp;(ii) does not commercially trade in animals listed in section 3371(g) of this title, including offspring, parts, and byproducts of such animals;
+&emsp;&emsp;&emsp;(i) does not allow any individual to come into direct physical contact with a prohibited wildlife species, unless that individual is—
 
-&emsp;&emsp;&emsp;(iii) does not propagate animals listed in section 3371(g) of this title; and
+&emsp;&emsp;&emsp;&emsp;(I) a trained professional employee or contractor of the entity or facility (or an accompanying employee receiving professional training);
 
-&emsp;&emsp;&emsp;(iv) does not allow direct contact between the public and animals; or
+&emsp;&emsp;&emsp;&emsp;(II) a licensed veterinarian (or a veterinary student accompanying such a veterinarian); or
 
-&emsp;&emsp;(D) has custody of the animal solely for the purpose of expeditiously transporting the animal to a person described in this paragraph with respect to the species.
+&emsp;&emsp;&emsp;&emsp;(III) directly supporting conservation programs of the entity or facility, the contact is not in the course of commercial activity (which may be evidenced by advertisement or promotion of such activity or other relevant evidence), and the contact is incidental to humane husbandry conducted pursuant to a species-specific, publicly available, peer-edited population management and care plan that has been provided to the Secretary with justifications that the plan—
 
-#### (3) Regulations
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) reflects established conservation science principles;
 
-&emsp;Not later than 180 days after December 19, 2003, the Secretary, in cooperation with the Director of the Animal and Plant Health Inspection Service, shall promulgate regulations describing the persons described in paragraph (2).
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) incorporates genetic and demographic analysis of a multi-institution population of animals covered by the plan; and
 
-#### (4) State authority
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) promotes animal welfare by ensuring that the frequency of breeding is appropriate for the species; and
 
-&emsp;Nothing in this subsection preempts or supersedes the authority of a State to regulate wildlife species within that State.
+&emsp;&emsp;&emsp;(ii) ensures that during public exhibition of a lion (Panthera leo), tiger (Panthera tigris), leopard (Panthera pardus), snow leopard (Uncia uncia), jaguar (Panthera onca), cougar (Puma concolor), or any hybrid thereof, the animal is at least 15 feet from members of the public unless there is a permanent barrier sufficient to prevent public contact;
 
-#### (5) Authorization of appropriations
+&emsp;&emsp;(B) a State college, university, or agency, or a State-licensed veterinarian;
 
-&emsp;There is authorized to be appropriated to carry out subsection (a)(2)(C) $3,000,000 for each of fiscal years 2004 through 2008.
+&emsp;&emsp;(C) a wildlife sanctuary that cares for prohibited wildlife species, and—
+
+&emsp;&emsp;&emsp;(i) is a corporation that is exempt from taxation under section 501(a) of title 26 and described in sections 501(c)(3) and 170(b)(1)(A)(vi) of such title;
+
+&emsp;&emsp;&emsp;(ii) does not commercially trade in any prohibited wildlife species, including offspring, parts, and byproducts of such animals;
+
+&emsp;&emsp;&emsp;(iii) does not breed any prohibited wildlife species;
+
+&emsp;&emsp;&emsp;(iv) does not allow direct contact between the public and any prohibited wildlife species; and
+
+&emsp;&emsp;&emsp;(v) does not allow the transportation and display of any prohibited wildlife species off-site;
+
+&emsp;&emsp;(D) has custody of any prohibited wildlife species solely for the purpose of expeditiously transporting the prohibited wildlife species to a person described in this paragraph with respect to the species; or
+
+&emsp;&emsp;(E) an entity or individual that is in possession of any prohibited wildlife species that was born before December 20, 2022, and—
+
+&emsp;&emsp;&emsp;(i) not later than 180 days after December 20, 2022, the entity or individual registers each individual animal of each prohibited wildlife species possessed by the entity or individual with the United States Fish and Wildlife Service;
+
+&emsp;&emsp;&emsp;(ii) does not breed, acquire, or sell any prohibited wildlife species after December 20, 2022; and
+
+&emsp;&emsp;&emsp;(iii) does not allow direct contact between the public and prohibited wildlife species.
 
 #### (f) Plant declarations
 
@@ -184,7 +202,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 &emsp;&emsp;(C) to limit the scope of the exclusion provided by paragraph (3), if the limitations in scope are warranted as a result of the review.
 
-(Pub. L. 97–79, §3, Nov. 16, 1981, 95 Stat. 1074; Pub. L. 100–653, title I, §101, Nov. 14, 1988, 102Stat. 3825; Pub. L. 108–191, §3(a), Dec. 19, 2003, 117 Stat. 2871; Pub. L. 110–234, title VIII, §8204(b), May 22, 2008, 122 Stat. 1292; Pub. L. 110–246, §4(a), title VIII, §8204(b), June 18, 2008, 122 Stat. 1664, 2053.)
+(Pub. L. 97–79, §3, Nov. 16, 1981, 95 Stat. 1074; Pub. L. 100–653, title I, §101, Nov. 14, 1988, 102 Stat. 3825; Pub. L. 108–191, §3(a), Dec. 19, 2003, 117 Stat. 2871; Pub. L. 110–234, title VIII, §8204(b), May 22, 2008, 122 Stat. 1292; Pub. L. 110–246, §4(a), title VIII, §8204(b), June 18, 2008, 122 Stat. 1664, 2053; Pub. L. 117–243, §3, Dec. 20, 2022, 136 Stat. 2336.)
 
 #### <b>Editorial Notes</b>
 
@@ -199,6 +217,12 @@ The date of enactment of this subsection, referred to in subsec. (f)(1), (4), is
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2)(C). Pub. L. 117–243, §3(1)(A), struck out subpar. (C) which read as follows: "any prohibited wildlife species (subject to subsection (e));".
+
+Subsec. (a)(4). Pub. L. 117–243, §3(1)(B), substituted "(1) through (3) or subsection (e)" for "(1) through (3)".
+
+Subsec. (e). Pub. L. 117–243, §3(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to nonapplicability of prohibited wildlife species offense.
 
 <b>2008</b>—Subsec. (a)(2)(B). Pub. L. 110–246, §8204(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: "any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or".
 

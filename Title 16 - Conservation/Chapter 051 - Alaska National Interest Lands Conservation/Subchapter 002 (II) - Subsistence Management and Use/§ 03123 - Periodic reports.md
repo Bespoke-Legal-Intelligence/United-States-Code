@@ -1,6 +1,6 @@
 ### §3123. Periodic reports
 
-Within four years after December 2, 1980, and within every three-year period thereafter, the Secretary, in consultation with the Secretary of Agriculture, shall prepare and submit a report to the President of the Senate and the Speaker of the House of Representatives on the implementation of this subchapter. The report shall include—
+Within four years after December 2, 1980, and within every three-year period thereafter, theSecretary, in consultation with the Secretary of Agriculture, shall prepare and submit a report to the President of the Senate and the Speaker of the House of Representatives on the implementation of this subchapter. The report shall include—
 
 &emsp;(1) an evaluation of the results of the monitoring undertaken by the Secretary as required by section 3116 of this title;
 

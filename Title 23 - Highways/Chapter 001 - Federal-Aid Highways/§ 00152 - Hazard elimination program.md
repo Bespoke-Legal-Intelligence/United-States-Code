@@ -76,7 +76,7 @@ Subsec. (c). Pub. L. 95–599 reenacted subsec. (c) without substantive change.
 
 Subsec. (d). Pub. L. 95–599 substituted provisions prescribing the Federal share payable on account of any project under this section for provisions relating to apportionment of funds made available under subsec. (b) to the States. See subsec. (e) of this section.
 
-Subsec. (e). Pub. L. 95–599 substituted provisions relating to apportionment of funds to the States under this section for provisions relating to progress reports required of the States under this section. See subsec. (g).
+Subsec. (e). Pub. L. 95–599 substituted provisions relating to apportionment of funds to the States underthis section for provisions relating to progress reports required of the States under this section. See subsec. (g).
 
 Subsecs. (f) to (h). Pub. L. 95–599 added subsecs. (f) and (g) and redesignated former subsec. (f) as (h).
 

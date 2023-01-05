@@ -30,7 +30,7 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L.102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
+Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendment made by Pub. L. 102–321, see section 3(1) of Pub. L. 102–352, set out as a note under section 285n of this title.
 
 #### Effective Date
 

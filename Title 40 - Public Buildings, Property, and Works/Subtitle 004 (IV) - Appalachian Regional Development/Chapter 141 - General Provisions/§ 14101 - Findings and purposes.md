@@ -36,7 +36,7 @@ Findings and Purpose.—
 
 &emsp;(1)
 
-Findings.—Congress further finds and declares that while substantial progress has been made in fulfilling many of the objectives of this subtitle, rapidly changing national and global economies over the decade ending November 13, 1998, have created new problems and challenges for rural areas throughout the United States and especially for the Appalachian region.
+Findings.—Congress further finds and declares that while substantial progress has beenmade in fulfilling many of the objectives of this subtitle, rapidly changing national and global economies over the decade ending November 13, 1998, have created new problems and challenges for rural areas throughout the United States and especially for the Appalachian region.
 
 &emsp;(2)
 

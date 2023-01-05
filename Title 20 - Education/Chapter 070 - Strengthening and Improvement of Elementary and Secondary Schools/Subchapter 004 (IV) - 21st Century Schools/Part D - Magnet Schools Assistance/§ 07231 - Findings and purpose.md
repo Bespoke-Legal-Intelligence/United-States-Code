@@ -18,7 +18,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(C) to continue to desegregate and diversify schools by supporting magnet schools, recognizing that segregation exists between minority and nonminority students as well as among students of different minority groups.
 
-&emsp;(5) Desegregation efforts through magnet school programs are a significant part of our Nation's effort to achieve voluntary desegregation in schools and help to ensure equal educational opportunities for all students.
+&emsp;(5) Desegregation efforts through magnet school programs are a significant part of ourNation's effort to achieve voluntary desegregation in schools and help to ensure equal educational opportunities for all students.
 
 #### (b) Purpose
 

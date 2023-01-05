@@ -28,6 +28,10 @@ Subsec. (b). Pub. L. 95–625, §551(3), substituted ", scenic and historic" fo
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 117–345, §1, Jan. 5, 2023, 136 Stat. 6196, provided that: "This Act \[amending section 1244 of this title\] may be cited as the 'Butterfield Overland National Historic Trail Designation Act'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–111, §1, Jan. 27, 2020, 134 Stat. 8, provided that: "This Act \[amending section 1244 of this title\] may be cited as the 'Emancipation National Historic Trail Study Act'."
@@ -116,7 +120,7 @@ Section 1. <i>Federal Agency Duties</i>. Federal agencies will, to the extent pe
 
 (g) Fostering volunteer programs and opportunities to engage volunteers in all aspects of trail planning, development, maintenance, management, and education as outlined in 16 U.S.C. 1250;
 
-(h) Encouraging participation of qualified youth conservation or service corps, as outlined in 41 \[42\] U.S.C. 12572 and 42 U.S.C. 12656, to perform construction and maintenance of trails and trail-related projects, as encouraged in sections 1108(g) and 1112(e) of the Transportation Equity Act for the 21st Century \[23 U.S.C. 133 note, 206 note\], and also in trail planning protection, operations, and education;
+(h) Encouraging participation of qualified youth conservation or service corps, as outlined in 41 \[42\] U.S.C.12572 and 42 U.S.C. 12656, to perform construction and maintenance of trails and trail-related projects, as encouraged in sections 1108(g) and 1112(e) of the Transportation Equity Act for the 21st Century \[23 U.S.C. 133 note, 206 note\], and also in trail planning protection, operations, and education;
 
 (i) Promoting trails for safe transportation and recreation within communities;
 

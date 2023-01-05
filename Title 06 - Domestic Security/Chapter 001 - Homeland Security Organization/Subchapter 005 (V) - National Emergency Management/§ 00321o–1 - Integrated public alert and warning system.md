@@ -80,7 +80,7 @@ In this section—
 
 #### (4) Advice to the administrator
 
-&emsp;In accordance with the Federal Advisory Committee Act (5 U.S.C. App.), the Administrator may obtain advice from a single individual or non-consensus advice from each of the several members of a group without invoking that Act.
+&emsp;In accordance with the Federal Advisory Committee Act (5 U.S.C. App.),<sup>1</sup> the Administrator may obtain advice from a single individual or non-consensus advice from each of the several members of a group without invoking that Act.
 
 #### (c) Incident management and warning tool validation
 
@@ -114,7 +114,7 @@ On and after the date that is 60 days after the date on which the Administrator 
 
 #### (A) Authority
 
-&emsp;&emsp;On and after the date that is 120 days after December 20, 2019, the authority to originate an alert warning the public of a missile launch directed against a State using the public alert and warning system shall reside primarily with the Federal Government.
+&emsp;&emsp;On and after the date that is 120 days after December 20, 2019, the authority to originate an alert warning the public of a missilelaunch directed against a State using the public alert and warning system shall reside primarily with the Federal Government.
 
 #### (B) Delegation of authority
 
@@ -144,7 +144,7 @@ On and after the date that is 60 days after the date on which the Administrator 
 
 &emsp;Not later than 1 year after December 20, 2019, the Secretary shall—
 
-&emsp;&emsp;(A) examine the feasibility of establishing an alert designation under the public alert and warning system that would be used to alert and warn the public of a missile threat while concurrently alerting a State warningpoint so that a State may activate related protective action plans; and
+&emsp;&emsp;(A) examine the feasibility of establishing an alert designation under the public alert and warning system that would be used to alert and warn the public of a missile threat while concurrently alerting a State warning point so that a State may activate related protective action plans; and
 
 &emsp;&emsp;(B) submit a report of the findings under subparagraph (A), including of the costs and timeline for taking action to implement an alert designation described in subparagraph (A), to—
 
@@ -214,9 +214,11 @@ Each State shall be given a reasonable amount of time to comply with any new rul
 
 Section 2(b)(7)(B) of the Integrated Public Alert and Warning System Modernization Act of 2015, referred to in subsec. (b)(2), is section 2(b)(7)(B) of Pub. L. 114–143, Apr. 11, 2016, 130 Stat. 332, which relates to submission of reports by the National Advisory Council and is not classified to the Code.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

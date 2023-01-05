@@ -8,7 +8,7 @@ The immediate government and military command of the Coast Guard Academy shall b
 
 This section does not change the present method of administration of the Academy. It makes statutory what has been administrative regulation heretofore, and it is believed highly desirable to make the control of an institution of such national interest as the Academy the subject of a statute.
 
-This section is new. There is no provision in existing law which establishes the Academy and sets it up as an operating unit. Nor is there any provision which creates the office of Superintendent of the Academy, or prescribes his duties and functions. Heretofore this has been accomplished by regulations, and the laws whichdeal with the Academy assume its existence as a going institution and assume the existence of the Superintendent with certain defined functions and duties. This section continues the Academy as previously established, provides for the appointment of the Superintendent by the Commandant, and defines in general terms his functions. The Academy would thus be placed on a definite statutory basis, and the office of Superintendent would be a statutory position, but the present administration of the Academy would in no way be interfered with. 81st Congress, House Report No. 557.
+This section is new. There is no provision in existing law which establishes the Academy and sets it up as an operating unit. Nor is there any provision which creates the office of Superintendent of the Academy, or prescribes his duties and functions. Heretofore this has been accomplished by regulations, and the laws which deal with the Academy assume its existence as a going institution and assume the existence of the Superintendent with certain defined functions and duties. This section continues the Academy as previously established, provides for the appointment of the Superintendent by the Commandant, and defines in general terms his functions. The Academy would thus be placed on a definite statutory basis, and the office of Superintendent would be a statutory position, but the present administration of the Academy would in no way be interfered with. 81st Congress, House Report No. 557.
 
 #### <b>Editorial Notes</b>
 
@@ -17,6 +17,20 @@ This section is new. There is no provision in existing law which establishes the
 <b>2018</b>—Pub. L. 115–282 renumbered section 181 of this title as this section.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Cadet Pregnancy Policy Improvements
+
+Pub. L. 117–263, div. K, title CXIV, §11403, Dec. 23, 2022, 136 Stat. 4109, provided that:
+
+"(a)
+
+Regulations Required.—Not later than 18 months after the date of enactment of this Act \[Dec. 23, 2022\], the Secretary, in consultation with the Secretary of Defense, shall prescribe regulations for the Coast Guard Academy consistent with regulations required to be promulgated by section 559(a) of the National Defense Authorization Act of 2022 (Public Law 117–81) \[probably means section 559A(a) of the National Defense Authorization Act for Fiscal Year 2022 (Pub. L. 117–81), set out as a note under section 7431 of Title 10, Armed Forces\].
+
+"(b)
+
+Briefing.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the development of the regulations required by subsection (a)."
+
+\[For definition of "Secretary" as used in section 11403 of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under section 106 of this title.\]
 
 #### Coast Guard Academy Study
 

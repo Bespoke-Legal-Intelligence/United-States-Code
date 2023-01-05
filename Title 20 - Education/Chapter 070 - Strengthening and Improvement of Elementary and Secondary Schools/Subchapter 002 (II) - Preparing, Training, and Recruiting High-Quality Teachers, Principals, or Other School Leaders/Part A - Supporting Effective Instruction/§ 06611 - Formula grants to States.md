@@ -54,7 +54,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 &emsp;&emsp;&emsp;(iv) for fiscal year 2020 through fiscal year 2022—
 
-&emsp;&emsp;&emsp;&emsp;(I) an amount that bears the same relationship to 20 percent of the excess amount as the number of individuals aged 5 through 17 in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined; and
+&emsp;&emsp;&emsp;&emsp;(I) an amount that bears the same relationship to 20 percent of the excessamount as the number of individuals aged 5 through 17 in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined; and
 
 &emsp;&emsp;&emsp;&emsp;(II) an amount that bears the same relationship to 80 percent of the excess amount as the number of individuals aged 5 through 17 from families with incomes below the poverty line in the State, as determined by the Secretary on the basis of the most recent satisfactory data, bears to the number of those individuals in all such States, as so determined.
 
@@ -170,7 +170,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 &emsp;&emsp;&emsp;(xv) Providing training for all school personnel, including teachers, principals, other school leaders, specialized instructional support personnel, and paraprofessionals, regarding how to prevent and recognize child sexual abuse.
 
-&emsp;&emsp;&emsp;(xvi) Supporting opportunities for principals, other school leaders, teachers, paraprofessionals, early childhood education program directors, and other early childhood education program providers to participate in joint efforts to address the transition to elementary school, including issues related to school readiness.
+&emsp;&emsp;&emsp;(xvi) Supporting opportunities for principals, other school leaders, teachers,paraprofessionals, early childhood education program directors, and other early childhood education program providers to participate in joint efforts to address the transition to elementary school, including issues related to school readiness.
 
 &emsp;&emsp;&emsp;(xvii) Developing and providing professional development and other comprehensive systems of support for teachers, principals, or other school leaders to promote high-quality instruction and instructional leadership in science, technology, engineering, and mathematics subjects, including computer science.
 
@@ -208,7 +208,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 &emsp;&emsp;(H) An assurance that the State educational agency will work in consultation with the entity responsible for teacher, principal, or other school leader professional standards, certification, and licensing for the State, and encourage collaboration between educator preparation programs, the State, and local educational agencies to promote the readiness of new educators entering the profession.
 
-&emsp;&emsp;(I) An assurance that the State educational agency will comply with section7881 of this title (regarding participation by private school children and teachers).
+&emsp;&emsp;(I) An assurance that the State educational agency will comply with section 7881 of this title (regarding participation by private school children and teachers).
 
 &emsp;&emsp;(J) A description of how the State educational agency will improve the skills of teachers, principals, or other school leaders in order to enable them to identify students with specific learning needs, particularly children with disabilities, English learners, students who are gifted and talented, and students with low literacy levels, and provide instruction based on the needs of such students.
 

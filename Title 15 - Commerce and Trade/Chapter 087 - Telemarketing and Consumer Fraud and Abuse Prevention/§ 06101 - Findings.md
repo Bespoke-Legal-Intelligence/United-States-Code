@@ -18,7 +18,7 @@ The Congress makes the following findings:
 
 #### Short Title of 2001 Amendment
 
-Pub. L. 107–56, title X, §1011(a), Oct. 26, 2001, 115 Stat. 396, provided that: "This section \[amending sections6102 and 6106 of this title and sections 917 and 2325 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Crimes Against Charitable Americans Act of 2001'."
+Pub. L. 107–56, title X, §1011(a), Oct. 26, 2001, 115 Stat. 396, provided that: "This section \[amending sections 6102 and 6106 of this title and sections 917 and 2325 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Crimes Against Charitable Americans Act of 2001'."
 
 #### Short Title of 2000 Amendment
 

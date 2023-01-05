@@ -58,7 +58,7 @@ Tenth. To prescribe by its Board of Directors such rules and regulations as it m
 
 #### (E) Rule of construction
 
-&emsp;&emsp;Subparagraph (D) shall not be construed as limiting the right of the Corporation to invoke the jurisdiction of any United States district court in any action described in such subparagraph if the institution of which the Corporation has been appointed receiver could have invoked the jurisdiction of such court.
+&emsp;&emsp;Subparagraph (D) shall not be construed as limiting the right of the Corporation to invoke the jurisdiction of any United Statesdistrict court in any action described in such subparagraph if the institution of which the Corporation has been appointed receiver could have invoked the jurisdiction of such court.
 
 #### (3) Service of process
 
@@ -80,7 +80,7 @@ Section is derived from subsec. (j) of former section 264 of this title. See Cod
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–325 in par. Fourth inserted "by and through its own attorneys," after "complain and defend,".
 
-<b>1991</b>—Subsec. (b)(2)(B). Pub. L. 102–242 inserted before period at end "before the end of the 90-day period beginning on the date the action, suit, or proceeding isfiled against the Corporation or the Corporation is substituted as a party".
+<b>1991</b>—Subsec. (b)(2)(B). Pub. L. 102–242 inserted before period at end "before the end of the 90-day period beginning on the date the action, suit, or proceeding is filed against the Corporation or the Corporation is substituted as a party".
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–73, §209(2), designated existing provisions as subsec. (a) and inserted heading.
 

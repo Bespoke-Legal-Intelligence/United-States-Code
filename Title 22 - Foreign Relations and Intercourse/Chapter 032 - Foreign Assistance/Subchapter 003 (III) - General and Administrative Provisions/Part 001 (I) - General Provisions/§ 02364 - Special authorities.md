@@ -18,7 +18,7 @@
 
 (B) If the authority of this subsection is used both to authorize a sale under the Arms Export Control Act and to authorize funds to be used under the Arms Export Control Act or under this chapter with respect to the financing of that sale, then the use of the funds shall be counted against the limitation in subparagraph (A)(ii) and the portion, if any, of the sale which is not so financed shall be counted against the limitation in subparagraph (A)(i).
 
-(C) Not more than $50,000,000 of the $250,000,000 limitation provided in subparagraph (A)(ii) may be allocated to any one country in any fiscal year unless that country is a victim of active aggression, and not more than $500,000,000 of the aggregate limitation of $1,000,000,000 provided in subparagraphs (A)(i) and (A)(ii) may be allocated to any one country in any fiscal year.
+(C) Not more than $50,000,000 of the $250,000,000 limitation provided in subparagraph (A)(ii) may be allocated to any one country in any fiscal year unless that country is a victim of activeaggression, and not more than $500,000,000 of the aggregate limitation of $1,000,000,000 provided in subparagraphs (A)(i) and (A)(ii) may be allocated to any one country in any fiscal year.
 
 (5) The authority of this section may not be used to waive the limitations on transfers contained in section 2360(a) of this title.
 
@@ -36,9 +36,9 @@ The President is authorized to use amounts not to exceed $50,000,000 of the fund
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (c), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (a)(1), (2), (4)(A), (B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(1), (2), (4)(A), (B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 

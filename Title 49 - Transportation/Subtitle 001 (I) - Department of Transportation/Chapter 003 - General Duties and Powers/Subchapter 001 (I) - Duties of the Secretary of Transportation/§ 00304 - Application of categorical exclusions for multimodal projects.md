@@ -6,7 +6,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Cooperating authority.—The term "cooperating authority" means a Department of Transportation operating administration orsecretarial office that has expertise but is not the lead authority with respect to a proposed multimodal project.
+Cooperating authority.—The term "cooperating authority" means a Department of Transportation operating administration or secretarial office that has expertise but is not the lead authority with respect to a proposed multimodal project.
 
 &emsp;(2)
 
@@ -110,7 +110,7 @@ Use of categorical exclusion.—In a case described in paragraph (1), the 1 or m
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

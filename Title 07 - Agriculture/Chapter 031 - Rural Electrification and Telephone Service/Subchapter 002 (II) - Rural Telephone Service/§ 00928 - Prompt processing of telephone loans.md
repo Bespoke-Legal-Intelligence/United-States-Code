@@ -6,7 +6,7 @@ Within ten days after the end of the second and fourth calendar quarters of each
 
 &emsp;(2) stating the reasons for the failure to finally act upon the completed applications within such ninety-day period.
 
-(May 20, 1936, ch. 432, title II, §207, as added Pub. L. 101–624, title XXIII, §2358, Nov. 28, 1990, 104 Stat. 4041; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 115–334, title VI, §6602(b)(6), Dec. 20, 2018, 132 Stat. 4776.)
+(May 20, 1936, ch. 432, title II, §207, as added Pub. L. 101–624, title XXIII, §2358, Nov. 28, 1990, 104Stat. 4041; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 115–334, title VI, §6602(b)(6), Dec. 20, 2018, 132 Stat. 4776.)
 
 #### <b>Editorial Notes</b>
 

@@ -36,7 +36,7 @@
 
 #### (2) Plan
 
-&emsp;Each application submitted under paragraph (1) shall contain a 5-year plan for carrying out the activities described in this section in a manner that addresses the priorities established under section 9606 of this title and addresses the needs of all States (and to the extent practicable, of local educational agencies) within the region to be served by the comprehensive center, on an ongoing basis.
+&emsp;Each application submitted under paragraph (1) shall contain a 5-year plan for carrying outthe activities described in this section in a manner that addresses the priorities established under section 9606 of this title and addresses the needs of all States (and to the extent practicable, of local educational agencies) within the region to be served by the comprehensive center, on an ongoing basis.
 
 #### (d) Allocation
 
@@ -48,7 +48,7 @@ Each comprehensive center established under this section shall work with State e
 
 &emsp;(1) schools in the region with high percentages or numbers of students from low-income families, as determined under section 1113(a)(5) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6313(a)(5)), including such schools in rural and urban areas, and schools receiving assistance under title I of that Act (20 U.S.C. 6301 et seq.);
 
-&emsp;(2) local educational agencies in the region in which high percentages or numbers ofschool-age children are from low-income families, as determined under section 1124(c)(1)(A) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333(c)(1)(A)), including such local educational agencies in rural and urban areas; and
+&emsp;(2) local educational agencies in the region in which high percentages or numbers of school-age children are from low-income families, as determined under section 1124(c)(1)(A) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333(c)(1)(A)), including such local educational agencies in rural and urban areas; and
 
 &emsp;(3) schools in the region that are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(d)\].
 
@@ -138,7 +138,7 @@ Each comprehensive center established under this section shall submit to the Sec
 
 #### References in Text
 
-The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(2)(A) and (b)(1), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, as amended, which was classified principally to subchapter IX (§6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941(h) of the Act was classified to section 6041(h) of this title prior to repeal. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
+The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(2)(A) and (b)(1), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, which was classified principally to subchapter IX (§6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941(h) of the Act was classified to section 6041(h) of this title prior to repeal. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
 
 Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (b)(1), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§8621 et seq.), B (§8651 et seq.), C (§8671 et seq.), and D (§8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§6053 et seq.), H (§6054 et seq.), I (§6055 et seq.), and J (§6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985.
 
@@ -160,7 +160,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

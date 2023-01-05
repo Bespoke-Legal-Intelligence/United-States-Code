@@ -14,7 +14,7 @@ Except as provided in subsection (f)(1)(B)(ii)—
 
 #### (2) Capital gain
 
-&emsp;In the case of an electing Settlement Trust with a net capital gain for the taxable year, atax is hereby imposed on such gain at the rate of tax which would apply to such gain if the taxpayer were subject to a tax on its other taxable income at only the lowest rate specified in section 1(c).
+&emsp;In the case of an electing Settlement Trust with a net capital gain for the taxable year, a tax is hereby imposed on such gain at the rate of tax which would apply to such gain if the taxpayer were subject to a tax on its other taxable income at only the lowest rate specified in section 1(c).
 
 > Any such tax shall be in lieu of the income tax otherwise imposed by this chapter on such income or gain.
 
@@ -90,7 +90,7 @@ Amounts distributed by an electing Settlement Trust during any taxable year shal
 
 &emsp;&emsp;(B) at any time after such disposition of stock is first permitted, such corporation transfers assets to a Settlement Trust,
 
-> &emsp;paragraph (1)(B) shall be applied to such trust on and after the date of the transfer in thesame manner as if the trust permitted dispositions of beneficial interests in the trust in a manner not permitted by such section 7(h).
+> &emsp;paragraph (1)(B) shall be applied to such trust on and after the date of the transfer in the same manner as if the trust permitted dispositions of beneficial interests in the trust in a manner not permitted by such section 7(h).
 
 #### (3) Certain distributions
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (1) Electing Settlement Trust
 
-&emsp;The term "electing Settlement Trust" means a Settlement Trust which has made the election, effective for a taxable year, described in subsection (c).
+&emsp;The term "electing Settlement Trust" means a Settlement Trust which has made theelection, effective for a taxable year, described in subsection (c).
 
 #### (2) Native Corporation
 

@@ -8,7 +8,7 @@ The Secretary may enter into cooperation agreements with non-Federal interests w
 
 Each strategy developed under subsection (a) shall—
 
-&emsp;(1) include assessments of sediment rates and composition, sediment reduction options, dredging practices, long-term management of any dredged material disposal facilities, remediation of such facilities, and alternative disposal and reuse options;
+&emsp;(1) include assessments of sediment rates and composition, sediment reduction options,dredging practices, long-term management of any dredged material disposal facilities, remediation of such facilities, and alternative disposal and reuse options;
 
 &emsp;(2) include a timetable for implementation of the strategy; and
 

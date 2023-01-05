@@ -190,7 +190,7 @@ Pub. L. 104–188, title I, §1805(b), Aug. 20, 1996, 110 Stat. 1895, provided t
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1008(e)(5)(B), Nov. 10, 1988, 102 Stat. 3440, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 806 of the Reform Act \[Pub. L. 99–514\], except that section 806(e)(1) \[set out as a note under section 1378 of this title\] shall be applied by substituting 'December 31, 1987' for 'December 31, 1986'. For purposes of section806(e)(2) of the Reform Act \[set out as a note under section 1378 of this title\]—
+Pub. L. 100–647, title I, §1008(e)(5)(B), Nov. 10, 1988, 102 Stat. 3440, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 806 of the Reform Act \[Pub. L. 99–514\], except that section 806(e)(1) \[set out as a note under section 1378 of this title\] shall be applied by substituting 'December 31, 1987' for 'December 31, 1986'. For purposes of section 806(e)(2) of the Reform Act \[set out as a note under section 1378 of this title\]—
 
 &emsp;"(i) a participant in a common trust fund shall be treated in the same manner as a partner, and
 

@@ -22,13 +22,13 @@ Exceptions.—The Secretary of Defense may permit a variation from the guideline
 
 (d)
 
-Involuntary Reductions of Civilian Positions.—The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department,Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.
+Involuntary Reductions of Civilian Positions.—The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.
 
 (e)
 
 Consideration of Employee Performance in Reductions.—The Secretary of Defense shall establish procedures to provide that, in implementing any reduction in force for civilian positions in the Department of Defense in the competitive service or the excepted service, the determination of which employees shall be separated from employment in the Department shall, among other factors as determined by the Secretary, account for employee performance, as determined under any applicable performance management system.
 
-(Added Pub. L. 101–510, div. A, title III, §322(a)(1), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L. 102–484, div. A, title III, §371(a), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 103–35, title II, §201(d)(1), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title III, §363, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 112–81, div. A, title IX, §933(b), Dec. 31, 2011, 125 Stat. 1544; Pub. L. 114–92, div. A, title XI, §1101(a), Nov. 25, 2015, 129 Stat. 1022; Pub. L. 115–91, div. A, title X, §1051(a)(6)(A), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 117–81, div. A, title XI, §1105, Dec. 27, 2021, 135 Stat. 1950.)
+(Added Pub. L. 101–510, div. A, title III, §322(a)(1), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L. 102–484, div. A, title III, §371(a), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 103–35, title II, §201(d)(1), May 31, 1993, 107 Stat. 98; Pub. L. 103–160, div. A, title III, §363, Nov. 30, 1993, 107 Stat. 1628; Pub. L. 112–81, div. A, title IX, §933(b),Dec. 31, 2011, 125 Stat. 1544; Pub. L. 114–92, div. A, title XI, §1101(a), Nov. 25, 2015, 129 Stat. 1022; Pub. L. 115–91, div. A, title X, §1051(a)(6)(A), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 117–81, div. A, title XI, §1105, Dec. 27, 2021, 135 Stat. 1950.)
 
 #### <b>Editorial Notes</b>
 

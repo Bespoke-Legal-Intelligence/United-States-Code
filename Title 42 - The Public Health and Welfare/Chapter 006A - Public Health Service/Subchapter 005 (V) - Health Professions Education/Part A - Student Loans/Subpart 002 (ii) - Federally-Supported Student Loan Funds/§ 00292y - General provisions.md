@@ -38,7 +38,7 @@ Allotments to a loan fund of a school shall be paid to it from time to time in s
 
 #### (2) Minimum requirements
 
-&emsp;(A) Subject to subparagraph (B), the Secretary may make a Federal capital contribution pursuant to paragraph (1) only if the school of medicine or osteopathic medicine involved meets the conditions described in subparagraph (A) of section 292s(b)(2) of this title or the conditions described in subparagraph (C) of such section.
+&emsp;(A) Subject to subparagraph (B), the Secretary may make a Federal capital contribution pursuant to paragraph (1) only if theschool of medicine or osteopathic medicine involved meets the conditions described in subparagraph (A) of section 292s(b)(2) of this title or the conditions described in subparagraph (C) of such section.
 
 &emsp;(B) For purposes of subparagraph (A), the conditions referred to in such subparagraph shall be applied with respect to graduates of the school involved whose date of graduation occurred approximately 3 years before June 30 of the fiscal year preceding the fiscal year for which the Federal capital contribution involved is made.
 

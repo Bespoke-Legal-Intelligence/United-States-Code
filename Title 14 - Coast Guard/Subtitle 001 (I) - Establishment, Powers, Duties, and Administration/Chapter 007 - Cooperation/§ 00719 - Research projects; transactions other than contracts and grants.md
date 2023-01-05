@@ -44,11 +44,11 @@ Conditions.—
 
 &emsp;(1)
 
-In general.—The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1),<sup>2</sup> and no transaction entered into under subsection (a), provides for research that duplicates research being conducted under existing programs carried out by the Coast Guard.
+In general.—The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1),<sup>2</sup> and no transaction entered into under subsection (a), provides for researchthat duplicates research being conducted under existing programs carried out by the Coast Guard.
 
 &emsp;(2)
 
-Other agreements not feasible.—A cooperative agreement containing a clause described in subsection (c)(1),<sup>1</sup> or under a transaction authorized by subsection (a), may be used for a research project only if the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
+Other agreements not feasible.—A cooperative agreement containing a clause described in subsection (c)(1),<sup>2</sup> or under a transaction authorized by subsection (a), may be used for a research project only if the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
 
 (d)
 
@@ -64,7 +64,7 @@ Protection of Certain Information From Disclosure.—
 
 &emsp;(1)
 
-In general.—Disclosure of information described in paragraph (2) is not required, andmay not be compelled, under section 552 of title 5 for 5 years after the date on which the information is received by the Coast Guard.
+In general.—Disclosure of information described in paragraph (2) is not required, and may not be compelled, under section 552 of title 5 for 5 years after the date on which the information is received by the Coast Guard.
 
 &emsp;(2)
 

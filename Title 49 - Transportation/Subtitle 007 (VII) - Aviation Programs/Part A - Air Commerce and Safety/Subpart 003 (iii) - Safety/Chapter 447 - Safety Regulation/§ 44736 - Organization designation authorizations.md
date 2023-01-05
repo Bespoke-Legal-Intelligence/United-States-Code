@@ -314,7 +314,7 @@ Resolving classification of information.—If the review panel and a holder of a
 
 &emsp;&emsp;"(D)
 
-Applicable law.—Public Law 92–463 \[Federal Advisory Committee Act, 5 U.S.C. App.\] shall not apply to the panel established under this subsection.
+Applicable law.—Public Law 92–463 \[Federal Advisory Committee Act, see 5 U.S.C. 1001 et seq.\] shall not apply to the panel established under this subsection.
 
 &emsp;&emsp;"(E)
 
@@ -440,7 +440,7 @@ Definitions.—The definitions contained in section 44736 of title 49, United St
 
 "(g)
 
-Applicable Law.—Public Law 92–463 \[Federal Advisory Committee Act, 5 U.S.C. App.\] shall not apply to the Panel.
+Applicable Law.—Public Law 92–463 \[Federal Advisory Committee Act, see 5 U.S.C. 1001 et seq.\] shall not apply to the Panel.
 
 "(h)
 

@@ -10,7 +10,7 @@ The Secretary of Health and Human Services (in this section referred to as the "
 
 (2) For purposes of this section, a nonprofit organization is any organization (including a community development corporation) exempt from taxation under section 501(a) of title 26 by reason of paragraph (3) or (4) of section 501(c) of such title.
 
-(3) A low-income individual eligible to participate in a project conducted under this section is any individual eligible to receive assistanceunder the program funded part <sup>1</sup> A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] of the State in which the individual resides and any other individual whose income level does not exceed 100 percent of the official poverty line as defined by the Office of Management and Budget and revised in accordance with section 9902(2) of this title.
+(3) A low-income individual eligible to participate in a project conducted under this section is any individual eligible to receive assistance under the program funded part <sup>1</sup> A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] of the State in which the individual resides and any other individual whose income level does not exceed 100 percent of the official poverty line as defined by the Office of Management and Budget and revised in accordance with section 9902(2) of this title.
 
 #### (c) Content of applications; selection priority
 
@@ -40,7 +40,7 @@ For the purpose of conducting projects under this section, there is authorized t
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (b)(3), (c)(1)(C), (2), and (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(3), (c)(1)(C), (2), and (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 
@@ -82,7 +82,7 @@ Subsec. (e). Pub. L. 101–508, §5063(2), substituted "September 30 of the fisc
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisionsrelating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
+Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -34,7 +34,7 @@ Applicability.—(1) An agreement entered into with a shipbuilder under subsecti
 
 &emsp;(B) A contract that is awarded during the term of the agreement.
 
-(2) In a shipbuilding capability preservation agreement applicable to a shipbuilder, the Secretary may agree to apply the cost reimbursement rules set forth in subsection (b) to allocations of indirect costs to private sector workperformed by the shipbuilder only with respect to costs that the shipbuilder incurred on or after November 18, 1997, under a contract between the shipbuilder and a private sector customer of the shipbuilder that became effective on or after January 26, 1996.
+(2) In a shipbuilding capability preservation agreement applicable to a shipbuilder, the Secretary may agree to apply the cost reimbursement rules set forth in subsection (b) to allocations of indirect costs to private sector work performed by the shipbuilder only with respect to costs that the shipbuilder incurred on or after November 18, 1997, under a contract between the shipbuilder and a private sector customer of the shipbuilder that became effective on or after January 26, 1996.
 
 (Added Pub. L. 105–85, div. A, title X, §1027(a)(1), Nov. 18, 1997, 111 Stat. 1878, §7315; amended Pub. L. 106–65, div. A, title X, §1066(a)(29), Oct. 5, 1999, 113 Stat. 772; renumbered §8685, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–283, div. A, title XVIII, §1867(e)(3), Jan. 1, 2021, 134 Stat. 4282.)
 

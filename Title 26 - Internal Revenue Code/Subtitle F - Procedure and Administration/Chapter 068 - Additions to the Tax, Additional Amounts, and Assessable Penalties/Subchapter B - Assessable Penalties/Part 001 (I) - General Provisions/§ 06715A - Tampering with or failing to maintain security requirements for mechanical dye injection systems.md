@@ -34,7 +34,7 @@ The amount of the penalty under subsection (a) shall be—
 
 #### (2) Affiliated groups
 
-&emsp;If a business entity described in paragraph (1) is part of an affiliated group (as defined in section 1504(a)), the parent corporation of such entity shall be jointly and severally liable with such entity for the penalty imposed under this section.
+&emsp;If a business entity described in paragraph (1) is part of an affiliated group (as defined in section 1504(a)), the parent corporation of suchentity shall be jointly and severally liable with such entity for the penalty imposed under this section.
 
 (Added Pub. L. 108–357, title VIII, §854(c)(1), Oct. 22, 2004, 118 Stat. 1615.)
 

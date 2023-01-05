@@ -22,3 +22,4 @@
 - [&sect; 00467j - Authorization of appropriations](%C2%A7%2000467j%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00467k to 467m - Repealed. Pub. L. 104&#8211;303, title II, &sect;215(c)(2), Oct. 12, 1996, 110 Stat. 3685](%C2%A7%2000467k%20to%20467m%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93303%2C%20title%20II%2C%20%C2%A7215%28c%29%282%29%2C%20Oct.%2012%2C%201996%2C%20110%20Stat.%203685.md)
 - [&sect; 00467n - Recovery of dam modification costs required for safety purposes](%C2%A7%2000467n%20-%20Recovery%20of%20dam%20modification%20costs%20required%20for%20safety%20purposes.md)
+- [&sect; 00467o - National low-head dam inventory](%C2%A7%2000467o%20-%20National%20low-head%20dam%20inventory.md)

@@ -40,7 +40,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term "routinely deployable unit" means a unit that normally deploys from its permanent home station on a periodic or rotating basis to meet peacetime operational requirements that, or to participate in scheduled training exercises that, routinely require deployments outside the United States and its territories. Such term includes a unit that is alerted for deployment outside the United States and its territories during an actual execution of a contingency plan or in support of a crisis operation.
 
-(Added Pub. L. 106–65, div. A, title X, §1044(a), Oct. 5, 1999, 113 Stat. 761; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
+(Added Pub. L. 106–65, div. A, title X, §1044(a), Oct. 5, 1999, 113 Stat. 761; amended Pub. L.107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### <b>Editorial Notes</b>
 

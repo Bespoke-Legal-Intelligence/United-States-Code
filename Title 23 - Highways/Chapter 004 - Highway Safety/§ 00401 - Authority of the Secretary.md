@@ -18,7 +18,7 @@ The Secretary is authorized and directed to assist and cooperate with other Fede
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–363, §3(c), July 17, 1984, 98 Stat. 436, provided that: "The amendments made by subsections (a)and (b) \[amending this section and section 402 of this title\] shall apply to fiscal years beginning after the date of enactment of this Act \[July 17, 1984\]."
+Pub. L. 98–363, §3(c), July 17, 1984, 98 Stat. 436, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 402 of this title\] shall apply to fiscal years beginning after the date of enactment of this Act \[July 17, 1984\]."
 
 #### Short Title of 1991 Amendment
 
@@ -326,7 +326,7 @@ Pub. L. 97–424, title II, §207, Jan. 6, 1983, 96 Stat. 2139, provided that: "
 
 #### National Driver Registration
 
-Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary ofTransportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
+Pub. L. 97–364, title II, §§201–211, Oct. 25, 1982, 96 Stat. 1740–1748, as amended by Pub. L. 100–223, title III, §305, Dec. 30, 1987, 101 Stat. 1525; Pub. L. 100–342, §4(b), June 22, 1988, 102 Stat. 626; Pub. L. 101–380, title IV, §4105(a), Aug. 18, 1990, 104 Stat. 512; Pub. L. 102–240, title II, §2007, Dec. 18, 1991, 105 Stat. 2080, directed Secretary of Transportation to establish and maintain a National Driver Register to assist States in exchange of information on motor vehicle driving records of individuals and provided for reports by State officials, accessibility of Register information, a pilot test program, criminal penalties, an advisory committee, and a report to Congress by the Secretary, prior to repeal by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and Pub. L. 103–429, §8(10), Oct. 31, 1994, 108 Stat. 4390, and was restated in part in chapter 303 of Title 49, Transportation.
 
 #### Pilot Projects for Highway Safety Education and Information
 
@@ -348,7 +348,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 "(g) The Secretary of Transportation shall submit a report to the Congress on July 1 of each year in which the campaign is in progress on the results of such evaluation and on the steps being taken by the Secretary of Transportation to implement the recommendations of such evaluation.
 
-"(h) For the purpose of carrying out subsections (d), (e), (f), and (g) of this section, there is authorized to be appropriated out of the Highway Trust Fund, $10,000,000, to remain available until expended. None of the amounts authorized by this subsection shall be available for obligation for any education or information program conducted in connection with the implementation of Federal Motor Vehicle Safety Standard 208 (49 C.F.R. 571.208).
+"(h) For the purpose of carrying out subsections (d), (e), (f), and (g) of this section, there is authorized to beappropriated out of the Highway Trust Fund, $10,000,000, to remain available until expended. None of the amounts authorized by this subsection shall be available for obligation for any education or information program conducted in connection with the implementation of Federal Motor Vehicle Safety Standard 208 (49 C.F.R. 571.208).
 
 "(i) All provisions of chapter 1 of title 23, United States Code, that are applicable to Federal-aid primary highway funds, other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that the funds authorized to be appropriated to carry out this section shall not be subject to any obligation limitation."
 
@@ -372,7 +372,7 @@ Pub. L. 93–87, title II, §214, Aug. 13, 1973, 87 Stat. 289, authorized the ap
 
 #### Highway Safety Needs Study
 
-Pub. L. 93–87, title II, §225, Aug. 13, 1973, 87 Stat. 292, mandated a study by the Secretary of Transportationof highway safety needs of the States, including those of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands and other territories, in order to evaluate continuing safety programs and furnish Congress with information necessary for authorization of appropriations for continuing safety programs, the results of such study, estimates and recommendations to be submitted to Congress not later than Jan. 10, 1976.
+Pub. L. 93–87, title II, §225, Aug. 13, 1973, 87 Stat. 292, mandated a study by the Secretary of Transportation of highway safety needs of the States, including those of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands and other territories, in order to evaluate continuing safety programs and furnish Congress with information necessary for authorization of appropriations for continuing safety programs, the results of such study, estimates and recommendations to be submitted to Congress not later than Jan. 10, 1976.
 
 #### National Highway Traffic Safety Administration; Creation; Appointment of Administrator and Deputy Administrator; Duties; Retroactive Effect
 
@@ -394,7 +394,7 @@ Pub. L. 89–564, title II, §202, Sept. 9, 1966, 80 Stat. 736, as amended by Pu
 
 #### Detailed Cost Estimate of Highway Safety Act of 1966
 
-Pub. L. 89–564, title II, §207, Sept. 9, 1966, 80 Stat. 737, directed Secretary, in cooperation with the Governors of appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
+Pub. L. 89–564, title II, §207, Sept. 9, 1966, 80 Stat. 737, directed Secretary, in cooperation with the Governorsof appropriate State highway safety agencies, make a detailed estimate of the cost of carrying out the Highway Safety Act of 1966 in order to provide a basis for evaluating continuing programs under the Act and to furnish Congress information necessary for authorization of appropriations for fiscal years beginning after June 30, 1969, such estimates to be submitted to Congress not later than Jan. 10, 1968.
 
 #### Interstate Compacts for Highway Safety
 

@@ -38,7 +38,7 @@ At the request of a grantee under this subchapter, the Administrator is authoriz
 
 #### (1) Agreement
 
-&emsp;Consistent with State law, an applicant who proposes to construct waste water treatment works may enter into an agreement with the Administrator under this subsection providing for the preparation of construction plans and specifications and the erection of such treatment works, in lieu of proceeding under the other provisions of this section.
+&emsp;Consistent with State law, an applicant who proposes to construct waste water treatment works may enter into an agreement with the Administrator under this subsection providingfor the preparation of construction plans and specifications and the erection of such treatment works, in lieu of proceeding under the other provisions of this section.
 
 #### (2) Limitation on projects
 
@@ -104,7 +104,7 @@ Subsec. (f). Pub. L. 100–4, §204, added subsec. (f).
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–483 substituted "$4,000,000" and "$5,000,000" for "$2,000,000" and "$3,000,000", respectively.
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–217, §18, provided that, in the case of a treatment works that has an estimated total cost of $2,000,000 or less (as determined by the Administrator), and the population of the applicant municipality is twenty-five thousand or less (according to the most recent United States census), upon completion of an approved facility plan, a single grant may be awarded for the combined Federal share of the cost of preparing construction plans and specifications, and the building and erection of the treatment works, and that, if any State is found by the Administrator to have unusually high costs of construction, the Administrator may authorize a single grant where the estimated total cost of the treatment works does not exceed $3,000,000.
+<b>1977</b>—Subsec. (a). Pub. L. 95–217, §18, provided that, in the case of a treatment works that has an estimated total cost of $2,000,000 or less (as determined by the Administrator), and the population of the applicant municipality is twenty-five thousand or less (according to the most recent United States census), upon completion of an approved facility plan, a single grant may be awarded for the combined Federal share of the cost of preparing construction plans and specifications, and the building and erection of the treatment works, and that, if any State is found by the Administrator tohave unusually high costs of construction, the Administrator may authorize a single grant where the estimated total cost of the treatment works does not exceed $3,000,000.
 
 Subsec. (e). Pub. L. 95–217, §19, added subsec. (e).
 

@@ -16,7 +16,7 @@ In this chapter:
 
 #### (3) Community conservation
 
-&emsp;The term "community conservation" means an approach to conservation that recognizesthe rights of local people to manage, or benefit directly and indirectly from wildlife and other natural resources in a long-term biologically viable manner and includes—
+&emsp;The term "community conservation" means an approach to conservation involving local communities that recognizes the rights of local people to manage, or benefit directly and indirectly from wildlife and other natural resources in a long-term biologically viable manner and includes—
 
 &emsp;&emsp;(A) devolving management and governance to local communities to create positive conditions for resource use that takes into account current and future ecological requirements; and
 
@@ -24,7 +24,11 @@ In this chapter:
 
 #### (4) Country of concern
 
-&emsp;The term "country of concern" refers to a foreign country specially designated by the Secretary of State pursuant to subsection (b) of section 7621 of this title as a major source of wildlife trafficking products or their derivatives, a major transit point of wildlife trafficking products or their derivatives, or a major consumer of wildlife trafficking products, in which the government has actively engaged in or knowingly profited from the trafficking of endangered or threatened species.
+&emsp;The term "country of concern" means a foreign country specially designated by the Secretary of State pursuant to section 7621(b) of this title as a major source of wildlife trafficking products or their derivatives, a major transit point of wildlife trafficking products or their derivatives, or a major consumer of wildlife trafficking products, in which—
+
+&emsp;&emsp;(A) the government has actively engaged in, or knowingly profited from, the trafficking of protected species; or
+
+&emsp;&emsp;(B) the government facilitates such trafficking through conduct that may include a persistent failure to make serious and sustained efforts to prevent and prosecute such trafficking.
 
 #### (5) Focus country
 
@@ -48,17 +52,17 @@ In this chapter:
 
 #### (10) Security force
 
-&emsp;The term "security force" means a military, law enforcement, gendarmerie, park ranger, or any other security force with a responsibility for protecting wildlife and natural habitats.
+&emsp;The term "security force" means a military, law enforcement, gendarmerie, park ranger, orany other security force with a responsibility for protecting wildlife and natural habitats.
 
 #### (11) Task Force
 
-&emsp;The term "Task Force" means the Presidential Task Force on Wildlife Trafficking, as established by Executive Order 13648 (78 Fed. Reg. 40621) and modified by section 7621 <sup>1</sup> of this title.
+&emsp;The term "Task Force" means the Presidential Task Force on Wildlife Trafficking, as established by Executive Order 13648 (78 Fed. Reg. 40621) and modified by section 7631 of this title.
 
 #### (12) Wildlife trafficking
 
 &emsp;The term "wildlife trafficking" refers to the poaching or other illegal taking of protected or managed species and the illegal trade in wildlife and their related parts and products.
 
-(Pub. L. 114–231, §2, Oct. 7, 2016, 130 Stat. 949.)
+(Pub. L. 114–231, §2, Oct. 7, 2016, 130 Stat. 949; Pub. L. 117–263, div. E, title LIX, §5943(b), Dec. 23, 2022, 136 Stat. 3470.)
 
 #### <b>Editorial Notes</b>
 
@@ -68,13 +72,17 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 Executive Order 13648, referred to in pars. (2) and (11), is Ex. Ord. No. 13648, July 1, 2013, 78 F.R. 40621, which is set out as a note under section 1531 of this title.
 
-Section 7621 of this title, referred to in par. (11), was in the original a reference to "section 201" but probably should be a reference "section 301", meaning section 301 of Pub. L. 114–231, which is classified to section 7631 of this title and relates to the Presidential Task Force on Wildlife Trafficking.
+#### Amendments
+
+<b>2022</b>—Par. (3). Pub. L. 117–263, §5943(b)(1), inserted "involving local communities" after "approach to conservation" in introductory provisions.
+
+Par. (4). Pub. L. 117–263, §5943(b)(2), amended par. (4) generally. Prior to amendment, text read as follows: "The term 'country of concern' refers to a foreign country specially designated by the Secretary of State pursuant to subsection (b) of section 7621 of this title as a major source of wildlife trafficking products or their derivatives, a major transit point of wildlife trafficking products or their derivatives, or a major consumer of wildlife trafficking products, in which the government has actively engaged in or knowingly profited from the trafficking of endangered or threatened species."
+
+Par. (11). Pub. L. 117–263, §5943(b)(3), substituted "section 7631" for "section 7621".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
 Pub. L. 114–231, §1(a), Oct. 7, 2016, 130 Stat. 949, provided that: "This Act \[enacting this chapter and amending section 1956 of Title 18, Crimes and Criminal Procedure, and section 1978 of Title 22, Foreign Relations and Intercourse\] may be cited as the 'Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016'."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

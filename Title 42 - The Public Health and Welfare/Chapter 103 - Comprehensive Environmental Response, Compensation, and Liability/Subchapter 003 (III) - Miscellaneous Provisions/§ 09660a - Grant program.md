@@ -18,5 +18,5 @@ Grants shall be awarded to nonprofit organizations which demonstrate experience 
 
 #### Codification
 
-Section was enacted as part of the Superfund Amendments and Reauthorization Act of 1986, and not as partof the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 which comprises this chapter.
+Section was enacted as part of the Superfund Amendments and Reauthorization Act of 1986, and not as part of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 which comprises this chapter.
 

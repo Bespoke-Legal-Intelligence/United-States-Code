@@ -10,7 +10,7 @@ For the purpose of this chapter—
 
 &emsp;(4) "local government" means a city, town, county, or other subdivision or district of a State, including agencies, instrumentalities, and authorities of any of the foregoing and any combination of such units or combination of such units and a State. A "general local government" means a city, town, county, or comparable general-purpose political subdivision of a State; and
 
-&emsp;(5) Notwithstanding the population requirements of sections 4723(a) and 4743(c) of this title, a "local government" and a "general local government" also mean the recognized governing body of an Indian tribe, band, pueblo, or other organized group or community, including any Alaska Native village, as defined in the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\], which performs substantial governmental functions. The requirements of sections 4723(c) and 4743(d) of this title, relating to reviews by the Governor of a State, do not apply to grant applications from the governing body of an Indian tribe, although nothing in this chapter is intended to discourage or prohibit voluntary communication and cooperation between Indian tribes and State and local governments.
+&emsp;(5) Notwithstanding the population requirements of sections 4723(a) and 4743(c) of this title, a "local government" and a "general local government" also mean the recognized governing body of an Indian tribe, band, pueblo, or other organized group or community, including any Alaska Native village, as defined in the Alaska Native Claims Settlement Act (85 Stat. 688) \[43 U.S.C. 1601 et seq.\], which performs substantial governmental functions. The requirements of sections 4723(c) and 4743(d) of this title, relating to reviews by the Governor of a State, do not apply to grant applications from the governing body of an Indian tribe, although nothing in this chapter is intended to discourage or prohibit voluntarycommunication and cooperation between Indian tribes and State and local governments.
 
 (Pub. L. 91–648, title V, §502, Jan. 5, 1971, 84 Stat. 1925; Pub. L. 93–638, title I, §104(d), formerly §105(d), Jan. 4, 1975, 88 Stat. 2208, renumbered §104(d), Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §602(d), Oct. 13, 1978, 92 Stat. 1189; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783.)
 
@@ -20,7 +20,7 @@ For the purpose of this chapter—
 
 This chapter, referred to in text, means the provisions of subchapters I, II, III, and IV of this chapter. See section 4761 of this title.
 
-The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
 

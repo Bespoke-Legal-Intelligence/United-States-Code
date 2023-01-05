@@ -20,7 +20,7 @@ In case any person with whom an order is placed pursuant to the provisions of su
 
 &emsp;(4) to furnish the quantity, kind, and quality of articles or materials ordered at such price as shall be negotiated between such person and the Government agency concerned; or in the event of failure to negotiate a price, to furnish the quantity, kind, and quality of articles or materials ordered at such price as he may subsequently be determined to be entitled to receive under subsection (d);
 
-> the President is authorized to take immediate possession of any plant, mine, or other facility of such person and to operate it, through any Government agency, for the production of such articles or materials as may be required by the Government.
+> the President is authorized to take immediate possession of any plant, mine, or other facilityof such person and to operate it, through any Government agency, for the production of such articles or materials as may be required by the Government.
 
 #### (d) Payment of compensation by United States
 

@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the Commodity Futures Trading Commission, with respect to any entity for which the Commodity Futures Trading Commission is the primary financial regulatory agency, as defined in section 5301 of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) the Securities and Exchange Commission, with respect to any entity forwhich the Securities and Exchange Commission is the primary financial regulatory agency, as defined in section 5301 of this title.
+&emsp;&emsp;&emsp;&emsp;(IV) the Securities and Exchange Commission, with respect to any entity for which the Securities and Exchange Commission is the primary financial regulatory agency, as defined in section 5301 of this title.
 
 #### (ii) Coordination, consistency, and comparability
 
@@ -144,11 +144,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) such name does not contain the word "bank";
 
-&emsp;&emsp;&emsp;(vii) no director or employee of the banking entity takes or retains an equity interest, partnership interest, or other ownership interest in the hedge fund or private equity fund, except for any director or employee of the banking entity who is directly engaged in providing investment advisory or other services to the hedge fund or private equity fund; and
+&emsp;&emsp;&emsp;(vii) no director or employee of the banking entity takes or retains an equityinterest, partnership interest, or other ownership interest in the hedge fund or private equity fund, except for any director or employee of the banking entity who is directly engaged in providing investment advisory or other services to the hedge fund or private equity fund; and
 
 &emsp;&emsp;&emsp;(viii) the banking entity discloses to prospective and actual investors in the fund, in writing, that any losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity, and otherwise complies with any additional rules of the appropriate Federal banking agencies, the Securities and Exchange Commission, or the Commodity Futures Trading Commission, as provided in subsection (b)(2), designed to ensure that losses in such hedge fund or private equity fund are borne solely by investors in the fund and not by the banking entity.
 
-&emsp;&emsp;(H) Proprietary trading conducted by a banking entity pursuant to paragraph (9) or (13) of section 1843(c) of this title, provided that the trading occurs solely outside of the United States and that the banking entity isnot directly or indirectly controlled by a banking entity that is organized under the laws of the United States or of one or more States.
+&emsp;&emsp;(H) Proprietary trading conducted by a banking entity pursuant to paragraph (9) or (13) of section 1843(c) of this title, provided that the trading occurs solely outside of the United States and that the banking entity is not directly or indirectly controlled by a banking entity that is organized under the laws of the United States or of one or more States.
 
 &emsp;&emsp;(I) The acquisition or retention of any equity, partnership, or other ownership interest in, or the sponsorship of, a hedge fund or a private equity fund by a banking entity pursuant to paragraph (9) or (13) of section 1843(c) of this title solely outside of the United States, provided that no ownership interest in such hedge fund or private equity fund is offered for sale or sold to a resident of the United States and that the banking entity is not directly or indirectly controlled by a banking entity that is organized under the laws of the United States or of one or more States.
 
@@ -202,7 +202,7 @@
 
 #### (iii) Capital
 
-&emsp;&emsp;&emsp;For purposes of determining compliance with applicable capital standards under paragraph (3), the aggregate amount of the outstanding investments by a banking entity under this paragraph, including retained earnings, shall be deducted from the assets and tangible equity of the banking entity, and the amount of the deduction shall increase commensurate with the leverage of the hedge fund or private equity fund.
+&emsp;&emsp;&emsp;For purposes of determining compliance with applicable capital standards underparagraph (3), the aggregate amount of the outstanding investments by a banking entity under this paragraph, including retained earnings, shall be deducted from the assets and tangible equity of the banking entity, and the amount of the deduction shall increase commensurate with the leverage of the hedge fund or private equity fund.
 
 #### (C) Extension
 
@@ -252,7 +252,7 @@
 
 #### (1) Limitation on contrary authority
 
-&emsp;Except as provided in this section, notwithstanding any other provision of law, the prohibitions and restrictions under this section shall apply to activities of a banking entity or nonbank financial company supervised by the Board, even if such activities are authorized for a banking entity or nonbank financial company supervised by the Board.
+&emsp;Except as provided in this section, notwithstanding any other provision of law, the prohibitions and restrictions under this sectionshall apply to activities of a banking entity or nonbank financial company supervised by the Board, even if such activities are authorized for a banking entity or nonbank financial company supervised by the Board.
 
 #### (2) Sale or securitization of loans
 
@@ -336,7 +336,7 @@ In this section, the following definitions shall apply:
 
 #### References in Text
 
-Section 8 of the International Banking Act, referred to in subsec. (b)(2)(B)(i)(II), probably means section 8 ofPub. L. 95–369, known as the International Banking Act of 1978, which enacted section 3106 of this title and amended section 1841 of this title.
+Section 8 of the International Banking Act, referred to in subsec. (b)(2)(B)(i)(II), probably means section 8 of Pub. L. 95–369, known as the International Banking Act of 1978, which enacted section 3106 of this title and amended section 1841 of this title.
 
 The Farm Credit Act of 1971, referred to in subsec. (d)(1)(A), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 

@@ -28,161 +28,303 @@
 
 #### (b) University and science education
 
-(1) The Secretary shall support programs for improvements and upgrading of university research reactors and associated instrumentation and equipment. Within 1 year after October 24, 1992, the Secretary shall submit to the Congress a report on the condition and status of university research reactors, which includes a 5-year plan for upgrading and improving such facilities, instrumentation capabilities, and related equipment.
+#### (1) University research reactors
 
-(2) The Secretary shall develop a method to evaluate the effectiveness of science and mathematics education programs provided by the Department of Energy and its laboratories, including specific evaluation criteria.
+&emsp;The Secretary shall support programs for improvements and upgrading of university research reactors and associated instrumentation and equipment. Within 1 year after October 24, 1992, the Secretary shall submit to the Congress a report on the condition and status of university research reactors, which includes a 5-year plan for upgrading and improving such facilities, instrumentation capabilities, and related equipment.
 
-(3)
+#### (2) Method to evaluate effectiveness of education programs
 
-Established program to stimulate competitive research.—
+&emsp;The Secretary shall develop a method to evaluate the effectiveness of science and mathematics education programs provided by the Department of Energy and its laboratories, including specific evaluation criteria.
 
-&emsp;(A)
+#### (3) Established program to stimulate competitive research
 
-Definitions.—In this paragraph:
+#### (A) Definitions
 
-&emsp;&emsp;(i)
+&emsp;&emsp;In this paragraph:
 
-Eligible jurisdiction.—The term "eligible jurisdiction" means a State that is determined to be eligible for a grant under this paragraph in accordance with subparagraph (D).
+#### (i) Eligible jurisdiction
 
-&emsp;&emsp;(ii)
+&emsp;&emsp;&emsp;The term "eligible jurisdiction" means a State that is determined to be eligible for a grant under this paragraph in accordance with subparagraph (D).
 
-EPSCoR.—The term "EPSCoR" means the Established Program to Stimulate Competitive Research operated under subparagraph (B).
+#### (ii) EPSCoR
 
-&emsp;&emsp;(iii)
+&emsp;&emsp;&emsp;The term "EPSCoR" means the Established Program to Stimulate Competitive Research operated under subparagraph (B).
 
-National laboratory.—The term "National Laboratory" has the meaning given the term in section 15801 of this title.
+#### (iii) National Laboratory
 
-&emsp;&emsp;(iv)
+&emsp;&emsp;&emsp;The term "National Laboratory" has the meaning given the term in section 15801 of this title.
 
-State.—The term "State" means—
+#### (iv) State
 
-&emsp;&emsp;&emsp;(I) a State;
+&emsp;&emsp;&emsp;The term "State" means—
 
-&emsp;&emsp;&emsp;(II) the District of Columbia;
+&emsp;&emsp;&emsp;&emsp;(I) a State;
 
-&emsp;&emsp;&emsp;(III) the Commonwealth of Puerto Rico;
+&emsp;&emsp;&emsp;&emsp;(II) the District of Columbia;
 
-&emsp;&emsp;&emsp;(IV) Guam; and
+&emsp;&emsp;&emsp;&emsp;(III) the Commonwealth of Puerto Rico;
 
-&emsp;&emsp;&emsp;(V) the United States Virgin Islands.
+&emsp;&emsp;&emsp;&emsp;(IV) Guam; and
 
-&emsp;(B)
+&emsp;&emsp;&emsp;&emsp;(V) the United States Virgin Islands.
 
-Program operation.—The Secretary shall operate an Established Program to Stimulate Competitive Research.
+#### (B) Program operation
 
-&emsp;(C)
+&emsp;&emsp;The Secretary shall operate an Established Program to Stimulate Competitive Research.
 
-Objectives.—The objectives of EPSCoR shall be—
+#### (C) Objectives
 
-&emsp;&emsp;(i) to increase the number of researchers in eligible jurisdictions, especially at institutions of higher education, capable of performing nationally competitive science and engineering research in support of the mission of the Department of Energy in the areas of applied energy research, environmental management, and basic science;
+&emsp;&emsp;The objectives of EPSCoR shall be—
 
-&emsp;&emsp;(ii) to improve science and engineering research and education programs at institutions of higher education in eligible jurisdictions and enhance the capabilities of eligible jurisdictions to develop, plan, and execute research that is competitive, including through investing in research equipment and instrumentation; and
+&emsp;&emsp;&emsp;(i) to increase the number of researchers in eligible jurisdictions, especially at institutions of higher education, capable of performing nationally competitive science and engineering research in support of the mission of the Department of Energy in the areas of applied energy research, environmental management, and basic science;
 
-&emsp;&emsp;(iii) to increase the probability of long-term growth of competitive funding to eligible jurisdictions.
+&emsp;&emsp;&emsp;(ii) to improve science and engineering research and education programs at institutions of higher education in eligible jurisdictions and enhance the capabilities of eligible jurisdictions to develop, plan, and execute research that is competitive, including through investing in research equipment and instrumentation; and
 
-&emsp;(D)
+&emsp;&emsp;&emsp;(iii) to increase the probability of long-term growth of competitive funding to eligible jurisdictions.
 
-Eligible jurisdictions.—
+#### (D) Eligible jurisdictions
 
-&emsp;&emsp;(i)
+#### (i) In general
 
-In general.—The Secretary may establish criteria for determining whether a State is eligible for a grant under this paragraph.
+&emsp;&emsp;&emsp;The Secretary may establish criteria for determining whether a State is eligible for a grant under this paragraph.
 
-&emsp;&emsp;(ii)
+#### (ii) Requirement
 
-Requirement.—Except as provided in clause (iii), in establishing criteria under clause (i), the Secretary shall ensure that a State is eligible for a grant under this paragraph if the State, as determined by the Secretary, is a State that—
+&emsp;&emsp;&emsp;Except as provided in clause (iii), in establishing criteria under clause (i), the Secretary shall ensure that a State is eligible for a grant under this paragraph if the State, as determined by the Secretary, is a State that—
 
-&emsp;&emsp;&emsp;(I) historically has received relatively little Federal research and development funding; and
+&emsp;&emsp;&emsp;&emsp;(I) historically has received relatively little Federal research and development funding; and
 
-&emsp;&emsp;&emsp;(II) has demonstrated a commitment—
+&emsp;&emsp;&emsp;&emsp;(II) has demonstrated a commitment—
 
-&emsp;&emsp;&emsp;&emsp;(aa) to develop the research bases in the State; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) to develop the research bases in the State; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) to improve science and engineering research and education programs at institutions of higher education in the State.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) to improve science and engineering research and education programs at institutions of higher education in the State.
 
-&emsp;&emsp;(iii)
+#### (iii) Eligibility under NSF EPSCoR
 
-Eligibility under nsf epscor.—At the election of the Secretary, or if the Secretary declines to establish criteria under clause (i), the Secretary may continue to use the eligibility criteria in use on January 1, 2021, or any successor criteria.
+&emsp;&emsp;&emsp;At the election of the Secretary, or if the Secretary declines to establish criteriaunder clause (i), the Secretary may continue to use the eligibility criteria in use on January 1, 2021, or any successor criteria.
 
-&emsp;(E)
+#### (E) Grants
 
-Grants in areas of applied energy research, environmental management, and basic science.—
+#### (i) In general
 
-&emsp;&emsp;(i)
+&emsp;&emsp;&emsp;EPSCoR shall make grants to eligible jurisdictions to carry out and support applied energy research and research in all areas of environmental management and basic science sponsored by the Department of Energy, including—
 
-In general.—EPSCoR shall make grants to eligible jurisdictions to carry out and support applied energy research and research in all areas of environmental management and basic science sponsored by the Department of Energy, including—
+&emsp;&emsp;&emsp;&emsp;(I) energy efficiency, fossil energy, renewable energy, nuclear energy, and other applied energy research;
 
-&emsp;&emsp;&emsp;(I) energy efficiency, fossil energy, renewable energy, and other applied energy research;
+&emsp;&emsp;&emsp;&emsp;(II) electricity delivery research;
 
-&emsp;&emsp;&emsp;(II) electricity delivery research;
+&emsp;&emsp;&emsp;&emsp;(III) cybersecurity, energy security, and emergency response;
 
-&emsp;&emsp;&emsp;(III) cybersecurity, energy security, and emergency response;
+&emsp;&emsp;&emsp;&emsp;(IV) environmental management; and
 
-&emsp;&emsp;&emsp;(IV) environmental management; and
+&emsp;&emsp;&emsp;&emsp;(V) scientific research, including—
 
-&emsp;&emsp;&emsp;(V) basic science research.
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) advanced scientific computing research;
 
-&emsp;&emsp;(ii)
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) basic energy sciences;
 
-Activities.—EPSCoR shall make grants under this subparagraph for activities consistent with the objectives described in subparagraph (C) in the areas of applied energy research, environmental management, and basic science described in clause (i), including—
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) biological and environmental research;
 
-&emsp;&emsp;&emsp;(I) to support research that is carried out in partnership with the National Laboratories;
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) fusion energy sciences;
 
-&emsp;&emsp;&emsp;(II) to provide for graduate traineeships;
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) high energy physics;
 
-&emsp;&emsp;&emsp;(III) to support research by early career faculty; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) nuclear physics;
 
-&emsp;&emsp;&emsp;(IV) to improve research capabilities through biennial research implementation grants.
+&emsp;&emsp;&emsp;&emsp;&emsp;(gg) isotope research, development, and production;
 
-&emsp;&emsp;(iii)
+&emsp;&emsp;&emsp;&emsp;&emsp;(hh) accelerator research, development, and production; and
 
-No cost sharing.—EPSCoR shall not impose any cost-sharing requirement with respect to a grant made under this subparagraph, but may require letters of commitment from National Laboratories.
+&emsp;&emsp;&emsp;&emsp;&emsp;(ii) other areas of research funded by the Office of Science, as determined by the Secretary.
 
-&emsp;(F)
+#### (ii) Activities
 
-Other activities.—EPSCoR may carry out such activities as may be necessary to meet the objectives described in subparagraph (C) in the areas of applied energy research, environmental management, and basic science described in subparagraph (E)(i).
+&emsp;&emsp;&emsp;EPSCoR shall make grants under this subparagraph for activities consistent with the objectives described in subparagraph (C) in the areas of applied energy research, environmental management, and basic science described in clause (i), including—
 
-&emsp;(G)
+&emsp;&emsp;&emsp;&emsp;(I) to support research that is carried out in partnership with the National Laboratories;
 
-Program implementation.—
+&emsp;&emsp;&emsp;&emsp;(II) to provide for undergraduate scholarships, graduate fellowships, and traineeships;
 
-&emsp;&emsp;(i)
+&emsp;&emsp;&emsp;&emsp;(III) to support research by early career faculty and staff;
 
-In general.—Not later than 270 days after January 1, 2021, the Secretary shall submit to the Committees on Energy and Natural Resources and Appropriations of the Senate and the Committees on Energy and Commerce and Appropriations of the House of Representatives a plan describing how the Secretary shall implement EPSCoR.
+&emsp;&emsp;&emsp;&emsp;(IV) to improve research capabilities through annual research implementation grants;
 
-&emsp;&emsp;(ii)
+&emsp;&emsp;&emsp;&emsp;(V) to develop research clusters for particular areas of expertise; and
 
-Contents of plan.—The plan described in clause (i) shall include a description of—
+&emsp;&emsp;&emsp;&emsp;(VI) to diversify the future workforce.
 
-&emsp;&emsp;&emsp;(I) the management structure of EPSCoR, which shall ensure that all research areas and activities described in this paragraph are incorporated into EPSCoR;
+#### (iii) No cost sharing
 
-&emsp;&emsp;&emsp;(II) efforts to conduct outreach to inform eligible jurisdictions and faculty of changes to, and opportunities under, EPSCoR;
+&emsp;&emsp;&emsp;EPSCoR shall not impose any cost-sharing requirement with respect to a grant made under this subparagraph, but may require letters of commitment from National Laboratories.
 
-&emsp;&emsp;&emsp;(III) how EPSCoR plans to increase engagement with eligible jurisdictions, faculty, and State committees, including by holding regular workshops, to increase participation in EPSCoR; and
+#### (F) Research capability enhancement
 
-&emsp;&emsp;&emsp;(IV) any other issues relating to EPSCoR that the Secretary determines appropriate.
+#### (i) Scholarships and fellowships
 
-&emsp;(H)
+#### (I) In general
 
-Program evaluation.—
+&emsp;&emsp;&emsp;&emsp;Pursuant to subparagraph (E)(ii), the Secretary shall award grants to institutions of higher education in eligible jurisdictions for those institutions of higher education to provide scholarships and fellowships.
 
-&emsp;&emsp;(i)
+#### (II) Grant
 
-In general.—Not later than 5 years after January 1, 2021, the Secretary shall contract with a federally funded research and development center, the National Academy of Sciences, or a similar organization to carry out an assessment of the effectiveness of EPSCoR, including an assessment of—
+&emsp;&emsp;&emsp;&emsp;A scholarship or fellowship awarded by an institution of higher education in an eligible jurisdiction using a grant provided under subclause (I)—
 
-&emsp;&emsp;&emsp;(I) the tangible progress made towards achieving the objectives described in subparagraph (C);
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) in the case of an undergraduate scholarship—
 
-&emsp;&emsp;&emsp;(II) the impact of research supported by EPSCoR on the mission of the Department of Energy; and
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) shall be for a period of 1 year; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) may be competitively renewable on an annual basis; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) in the case of a graduate level fellowship, shall be for a period of not more than 5 years.
+
+#### (ii) Early career capacity development
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Pursuant to subparagraph (E)(ii), the Secretary shall award grants to early career faculty and staff at institutions of higher education in eligible jurisdictions—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) to support investigator-initiated research, including associated research equipment and instrumentation;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) to support activities associated with identifying and responding to funding opportunities;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) to secure technical assistance for the pursuit of funding opportunities; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) to develop and enhance collaboration among National Laboratories, Department of Energy programs, the private sector, and other relevant entities.
+
+#### (II) Grants
+
+&emsp;&emsp;&emsp;&emsp;A grant awarded under subclause (I) shall be—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for a period of not more than 5 years; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) competitively renewable for an additional 5-year period.
+
+#### (iii) Research capacity development
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Pursuant to subparagraph (E)(ii), the Secretary shall award competitive grants to institutions of higher education in eligible jurisdictions for research capacity development and implementation, including—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) developing expertise in key technology areas, including associated equipment and instrumentation;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) developing and acquiring novel, state-of-the-art instruments and equipment that range in cost from $500,000 to $20,000,000;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) enhancing collaboration with National Laboratories, the Department of Energy, and the private sector through faculty or staff placement programs; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) supporting formal partnership programs with institutions of higher education and National Laboratories.
+
+#### (II) Grants
+
+&emsp;&emsp;&emsp;&emsp;A grant awarded under subclause (I) shall be—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) for a period of not more than 5 years; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) renewable for an additional 5-year period.
+
+#### (III) Equipment and instrumentation
+
+&emsp;&emsp;&emsp;&emsp;To the maximum extent practicable, the Secretary shall ensure that research equipment and instrumentation developed or acquired pursuant to a grant awarded under subclause (I) may sustain continued operation and be maintained without the need for additional or subsequent funding under this section.
+
+#### (G) Program implementation
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 270 days after January 1, 2021, the Secretary shall submit to the Committees on Energy and Natural Resources and Appropriations of the Senate and the Committees on Energy and Commerce and Appropriations of the House of Representatives a plan describing how the Secretary shall implement EPSCoR.
+
+#### (ii) Contents of plan
+
+&emsp;&emsp;&emsp;The plan described in clause (i) shall include a description of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the management structure of EPSCoR, which shall ensure that all research areas and activities described in this paragraph are incorporated into EPSCoR;
+
+&emsp;&emsp;&emsp;&emsp;(II) efforts to conduct outreach to inform eligible jurisdictions and faculty of changes to, and opportunities under, EPSCoR;
+
+&emsp;&emsp;&emsp;&emsp;(III) how EPSCoR plans to increase engagement with eligible jurisdictions, faculty, and State committees, including by holding regular workshops, to increase participation in EPSCoR; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) any other issues relating to EPSCoR that the Secretary determines appropriate.
+
+#### (iii) Update
+
+&emsp;&emsp;&emsp;Not later than 270 days after August 9, 2022, the Secretary shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) update the plan submitted under clause (i); and
+
+&emsp;&emsp;&emsp;&emsp;(II) submit the updated plan to the committees described in that clause.
+
+#### (H) Program evaluation
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Not later than 5 years after January 1, 2021, the Secretary shall contract with a federally funded research and development center, the National Academy of Sciences, or a similar organization to carry out an assessment of the effectiveness of EPSCoR, including an assessment of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the tangible progress made towards achieving the objectives described in subparagraph (C);
+
+&emsp;&emsp;&emsp;&emsp;(II) the impact of research supported by EPSCoR on the mission of the Department of Energy; and
 
 &emsp;&emsp;&emsp;&emsp;(III) any other issues relating to EPSCoR that the Secretary determines appropriate.
 
-&emsp;&emsp;(ii)
+#### (ii) Limitation
 
-Limitation.—The organization with which the Secretary contracts under clause (i) shall not be a National Laboratory.
+&emsp;&emsp;&emsp;The organization with which the Secretary contracts under clause (i) shall not be a National Laboratory.
 
-&emsp;&emsp;(iii)
+#### (iii) Report
 
-Report.—Not later than 6 years after January 1, 2021, the Secretary shall submit to the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate and the Committee on Science, Space and Technology and the Committee on Appropriations of the House of Representatives a report describing the results of the assessment carried out under clause (i), including recommendations for improvements that would enable the Secretary to achieve the objectives described in subparagraph (C).
+&emsp;&emsp;&emsp;Not later than 6 years after January 1, 2021, the Secretary shall submit to the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate and the Committee on Science, Space and Technology and the Committee on Appropriations of the House of Representatives a report describing the results of the assessment carried out under clause (i), including recommendations for improvements that would enable the Secretary to achieve the objectives described in subparagraph (C).
+
+#### (iv) Annual report
+
+&emsp;&emsp;&emsp;At the end of each fiscal year, the Secretary shall submit to the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report that includes—
+
+&emsp;&emsp;&emsp;&emsp;(I) the total amount of expenditures made by the Department to carry out EPSCoR in each eligible jurisdiction for each of the 3 most recent fiscal years for which such information is available;
+
+&emsp;&emsp;&emsp;&emsp;(II)(aa) the number of EPSCoR awards made to institutions of higher education located in eligible jurisdictions; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) the amount and type of each award;
+
+&emsp;&emsp;&emsp;&emsp;(III) the number of awards that are not EPSCoR awards made by the Secretary to institutions of higher education located in eligible jurisdictions;
+
+&emsp;&emsp;&emsp;&emsp;(IV)(aa) the number of representatives of institutions of higher education in eligible jurisdictions serving on each Office of Science advisory committee; and
+
+&emsp;&emsp;&emsp;&emsp;(bb) for each such advisory committee, the percentage of committee membership that those individuals constitute; and
+
+&emsp;&emsp;&emsp;&emsp;(V) the number of individuals from institutions of higher education in eligible jurisdictions serving on peer review committees.
+
+#### (I) Funding
+
+#### (i) Authorization of appropriations
+
+&emsp;&emsp;&emsp;There are authorized to be appropriated to the Secretary to carry out EPSCoR, to remain available until expended—
+
+&emsp;&emsp;&emsp;&emsp;(I) $50,000,000 for fiscal year 2023;
+
+&emsp;&emsp;&emsp;&emsp;(II) $50,000,000 for fiscal year 2024;
+
+&emsp;&emsp;&emsp;&emsp;(III) $75,000,000 for fiscal year 2025;
+
+&emsp;&emsp;&emsp;&emsp;(IV) $100,000,000 for fiscal year 2026; and
+
+&emsp;&emsp;&emsp;&emsp;(V) $100,000,000 for fiscal year 2027.
+
+#### (ii) Grants to consortia
+
+&emsp;&emsp;&emsp;In the case of an EPSCoR grant awarded to a consortium that contains institutionsof higher education that are not located in eligible jurisdictions, the Secretary may count—
+
+&emsp;&emsp;&emsp;&emsp;(I) the full amount of funds expended to provide the grant towards meeting the funding requirement in clause (iii) if the lead entity of the consortium is an institution of higher education located in an eligible jurisdiction; and
+
+&emsp;&emsp;&emsp;&emsp;(II) only the funds provided to institutions of higher education located in eligible jurisdictions towards meeting the funding requirement in clause (iii) if the lead entity of the consortium is an institution of higher education that is not located in an eligible jurisdiction.
+
+#### (iii) Additional funds for eligible jurisdictions
+
+&emsp;&emsp;&emsp;In addition to funds authorized to be appropriated under clause (i), the Secretary, to the maximum extent practicable while maintaining the competitive, merit-based award processes of the Office of Science, shall ensure that, of the research and development funds of the Office of Science that are awarded by the Secretary each year to institutions of higher education, not less than 10 percent is awarded to institutions of higher education in eligible jurisdictions pursuant to the evaluation and selection criteria in section 605.10 of title 10, Code of Federal Regulations (or successor regulations).
+
+#### (iv) Additional funds for equipment and instrumentation
+
+&emsp;&emsp;&emsp;In addition to funds authorized to be appropriated under clause (i), there is authorized to be appropriated to the Secretary to award grants under subparagraph (F)(iii)(I) for the purpose described in item (bb) of that subparagraph $25,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
+
+#### (v) Accounting
+
+&emsp;&emsp;&emsp;To the maximum extent practicable, the Secretary shall ensure that each program within the Department of Energy that endorses an EPSCoR grant awardee shall contribute funding to the award to acknowledge the research benefits to the mission of that program.
 
 #### (c) Technology transfer
 
@@ -204,17 +346,41 @@ The Secretary shall support technology transfer activities conducted by the Nati
 
 &emsp;&emsp;(C) Providing engineering design and construction services for those facilities which require modification or additions in order to meet the needs of new or expanded programs.
 
-> &emsp;Such plan shall include plans for new facilities and facility modifications which will be required to meet the Department of Energy's changing missions of the twenty-first century,including schedules and estimates for implementation, and including a section outlining long-term funding requirements consistent with anticipated budgets and annual authorization of appropriations. Such plan shall address the coordination of modernization and consolidation of facilities in order to meet changing mission requirements, and shall provide for annual reports to Congress on accomplishments, conformance to schedules, commitments, and expenditures.
+> &emsp;Such plan shall include plans for new facilities and facility modifications which will be required to meet the Department of Energy's changing missions of the twenty-first century, including schedules and estimates for implementation, and including a section outlining long-term funding requirements consistent with anticipated budgets and annual authorization of appropriations. Such plan shall address the coordination of modernization and consolidation of facilities in order to meet changing mission requirements, and shall provide for annual reports to Congress on accomplishments, conformance to schedules, commitments, and expenditures.
 
 #### (e) Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary for Supporting Research and Technical Analysis, including Basic Energy Sciences, Energy Research Analysis, University and Science Education, Technology Transfer, Advisory and Oversight Program Direction, and Facilities Support for Multiprogram Energy Laboratories, $966,804,000 for fiscal year 1993 and such sums as may be necessary for fiscal year 1994.
 
-(Pub. L. 102–486, title XXII, §2203, Oct. 24, 1992, 106 Stat. 3087; Pub. L. 105–245, title III, §309(b)(2)(F), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 116–260, div. Z, title IX, §9011, Dec. 27, 2020, 134 Stat. 2606; Pub. L. 116–283, div. H, title XCIV, §9411, Jan. 1, 2021, 134 Stat. 4815.)
+(Pub. L. 102–486, title XXII, §2203, Oct. 24, 1992, 106 Stat. 3087; Pub. L. 105–245, title III, §309(b)(2)(F), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 116–260, div. Z, title IX, §9011, Dec. 27, 2020, 134 Stat. 2606; Pub. L. 116–283, div. H, title XCIV, §9411, Jan. 1, 2021, 134 Stat. 4815; Pub. L. 117–167, div. B, title I, §10113(a)–(e), (g), Aug. 9, 2022, 136 Stat. 1464–1468.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1), (2). Pub. L. 117–167, §10113(g), inserted headings.
+
+Subsec. (b)(3)(E). Pub. L. 117–167, §10113(a)(1), struck out "in areas of applied energy research, environmental management, and basic science" after "Grants" in heading.
+
+Subsec. (b)(3)(E)(i)(I). Pub. L. 117–167, §10113(a)(2)(A), inserted "nuclear energy," before "and".
+
+Subsec. (b)(3)(E)(i)(V). Pub. L. 117–167, §10113(a)(2)(B), added subcl. (V) and struck out former subcl. (V) which read as follows: "basic science research."
+
+Subsec. (b)(3)(E)(ii)(II). Pub. L. 117–167, §10113(a)(3)(A), substituted "undergraduate scholarships, graduate fellowships, and" for "graduate".
+
+Subsec. (b)(3)(E)(ii)(III). Pub. L. 117–167, §10113(a)(3)(B), substituted "and staff;" for "; and".
+
+Subsec. (b)(3)(E)(ii)(IV). Pub. L. 117–167, §10113(a)(3)(C), substituted "annual" for "biennial" and semicolon for period at end.
+
+Subsec. (b)(3)(E)(ii)(V), (VI). Pub. L. 117–167, §10113(a)(3)(D), added subcls. (V) and (VI).
+
+Subsec. (b)(3)(F). Pub. L. 117–167, §10113(b), added subpar. (F) and struck out former subpar. (F). Prior to amendment, text read as follows: "EPSCoR may carry out such activities as may be necessary to meet the objectives described in subparagraph (C) in the areas of applied energy research, environmental management, and basic science described in subparagraph (E)(i)."
+
+Subsec. (b)(3)(G)(iii). Pub. L. 117–167, §10113(c), added cl. (iii).
+
+Subsec. (b)(3)(H)(iv). Pub. L. 117–167, §10113(d), added cl. (iv).
+
+Subsec. (b)(3)(I). Pub. L. 117–167, §10113(e), added subpar. (I).
 
 <b>2021</b>—Subsec. (b)(3). Pub. L. 116–283 added par. (3) identical to the par. (3) appearing in the amendment by Pub. L. 116–260. See 2020 Amendment note below.
 

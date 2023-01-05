@@ -1,6 +1,6 @@
 ### §3100. Purposes
 
-The purposes of this chapter are to provide for all services and assistance necessary to enable veterans with service-connected disabilities to achieve maximum independence in daily living and, to the maximum extent feasible, to become employable and to obtain and maintain suitable employment.
+The purposes of this chapter are to provide for all services and assistance necessary to enable veterans with service-connected disabilities to achieve maximum independence in daily living and, to the maximum extent feasible, to becomeemployable and to obtain and maintain suitable employment.
 
 (Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2172, §1500; renumbered §3100, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406.)
 

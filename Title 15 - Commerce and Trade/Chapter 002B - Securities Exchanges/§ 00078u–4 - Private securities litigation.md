@@ -42,7 +42,7 @@
 
 #### (ii) Multiple actions
 
-&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the sameclaim or claims arising under this chapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
+&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this chapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
 
 #### (iii) Additional notices may be required under Federal rules
 
@@ -104,7 +104,7 @@
 
 #### (7) Disclosure of settlement terms to class members
 
-&emsp;Any proposed or final settlement agreement that is published or otherwise disseminated to the class shall include each of the following statements, along with a cover page summarizing the information contained in such statements:
+&emsp;Any proposed or final settlement agreement that is published or otherwise disseminated tothe class shall include each of the following statements, along with a cover page summarizing the information contained in such statements:
 
 #### (A) Statement of plaintiff recovery
 
@@ -172,7 +172,7 @@
 
 &emsp;&emsp;&emsp;(i) to conduct a reasonable investigation of the rated security with respect to the factual elements relied upon by its own methodology for evaluating credit risk; or
 
-&emsp;&emsp;&emsp;(ii) to obtain reasonable verification of such factual elements (which verification may be based on a sampling technique that does not amount to an audit) from other sources that the credit rating agency considered to be competent and that were independent of the issuer and underwriter.
+&emsp;&emsp;&emsp;(ii) to obtain reasonable verification of such factual elements (which verificationmay be based on a sampling technique that does not amount to an audit) from other sources that the credit rating agency considered to be competent and that were independent of the issuer and underwriter.
 
 #### (3) Motion to dismiss; stay of discovery
 
@@ -242,7 +242,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), in any private action arising under this chapter in which the plaintiff seeks to establish damages by reference to the market price of a security, the award of damages to the plaintiff shall notexceed the difference between the purchase or sale price paid or received, as appropriate, by the plaintiff for the subject security and the mean trading price of that security during the 90-day period beginning on the date on which the information correcting the misstatement or omission that is the basis for the action is disseminated to the market.
+&emsp;Except as provided in paragraph (2), in any private action arising under this chapter inwhich the plaintiff seeks to establish damages by reference to the market price of a security, the award of damages to the plaintiff shall not exceed the difference between the purchase or sale price paid or received, as appropriate, by the plaintiff for the subject security and the mean trading price of that security during the 90-day period beginning on the date on which the information correcting the misstatement or omission that is the basis for the action is disseminated to the market.
 
 #### (2) Exception
 
@@ -314,7 +314,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (ii) Other plaintiffs
 
-&emsp;&emsp;&emsp;With respect to any plaintiff not described in subclauses (I) and (II) of clause\(i), each covered person shall be liable for the uncollectible share in proportion to the percentage of responsibility of that covered person, except that the total liability of a covered person under this clause may not exceed 50 percent of the proportionate share of that covered person, as determined under paragraph (3)(B).
+&emsp;&emsp;&emsp;With respect to any plaintiff not described in subclauses (I) and (II) of clause (i), each covered person shall be liable for the uncollectible share in proportion to the percentage of responsibility of that covered person, except that the total liability of a covered person under this clause may not exceed 50 percent of the proportionate share of that covered person, as determined under paragraph (3)(B).
 
 #### (iii) Net worth
 

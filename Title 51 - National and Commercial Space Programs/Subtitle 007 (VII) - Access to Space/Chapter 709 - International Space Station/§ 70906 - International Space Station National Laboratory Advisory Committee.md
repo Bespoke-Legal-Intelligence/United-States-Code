@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—Not later than one year after October 15, 2008, the Administrator shall establish under the Federal Advisory Committee Act a committee to be known as the "International Space Station National Laboratory Advisory Committee" (hereafter in this section referred to as the "Committee").
+Establishment.—Not later than one year after October 15, 2008, the Administrator shall establish under chapter 10 of title 5 a committee to be known as the "International Space Station National Laboratory Advisory Committee" (hereafter in this section referred to as the "Committee").
 
 (b)
 
@@ -26,13 +26,13 @@ In general.—The Committee shall monitor, assess, and make recommendations rega
 
 &emsp;(2)
 
-Annual report.—The Committee shall submit to the Administrator, on an annualbasis or more frequently as considered necessary by a majority of the members of the Committee, a report containing the assessments and recommendations required by paragraph (1).
+Annual report.—The Committee shall submit to the Administrator, on an annual basis or more frequently as considered necessary by a majority of the members of the Committee, a report containing the assessments and recommendations required by paragraph (1).
 
 (d)
 
 Duration.—The Committee shall exist for the life of the International Space Station.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3438.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3438; Pub. L. 117–286, §4(a)(327), Dec. 27, 2022, 136 Stat. 4342.)
 
 Historical and Revision Notes
 
@@ -54,7 +54,7 @@ In subsection (a), the date "October 15, 2008" is substituted for "the date of e
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (a). Pub. L. 117–286 substituted "chapter 10 of title 5" for "the Federal Advisory Committee Act".
 

@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Charter school.—The term "charter school" has the meaning given that term in section 4310 of the Elementary and Secondary Education Act of 1965.
+Charter school.—The term "charter school" has the meaning given that term insection 4310 of the Elementary and Secondary Education Act of 1965.
 
 &emsp;(2)
 
@@ -100,7 +100,7 @@ Eligible members.—The following members of the armed forces are eligible for s
 
 Submission of applications.—(A) Selection of eligible members of the armed forces to participate in the Program shall be made on the basis of applications submitted to the Secretary within the time periods specified in subparagraph (B). An application shall be in such form and contain such information as the Secretary may require.
 
-&emsp;(B) In the case of an eligible member of the armed forces described in subparagraph (A)(i), (A)(iii), (B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, transferred to the Retired Reserve, or separated or released from active duty, whichever applies to the member.
+&emsp;(B) In the case of an eligible member of the armed forces described in subparagraph (A)(i), (A)(iii), (B), or (C) of paragraph (1), an application shall be considered to be submitted on atimely basis if the application is submitted not later than three years after the date on which the member is retired, transferred to the Retired Reserve, or separated or released from active duty, whichever applies to the member.
 
 &emsp;(3)
 
@@ -166,7 +166,7 @@ Violation of participation agreement; exceptions.—A participant shall not be c
 
 &emsp;(3)
 
-Stipend and bonus for participants.—(A) Subject to subparagraph (C), the Secretary may pay to a participant a stipend to cover expenses incurred by the participant to obtain the required educational level, certification, or licensing. Such stipend may not exceed $5,000 and may vary by participant.
+Stipend and bonus for participants.—(A) Subject to subparagraph (C), the Secretarymay pay to a participant a stipend to cover expenses incurred by the participant to obtain the required educational level, certification, or licensing. Such stipend may not exceed $5,000 and may vary by participant.
 
 &emsp;(B)(i) Subject to subparagraph (C), the Secretary may pay a bonus to a participant who agrees in the participation agreement under paragraph (1) to accept full-time employment as an elementary school teacher, secondary school teacher, or career or technical teacher for not less than three school years in an eligible school.
 

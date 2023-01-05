@@ -24,7 +24,7 @@ The Secretary shall conduct a program of research, development, demonstration, a
 
 &emsp;&emsp;(B) assist in device and system design, installation, operation, and maintenance; and
 
-&emsp;&emsp;(C) reduce costs, limit outages, and increase unit and plant efficiencies, including by examining the impact of changing waterand electricity demand on hydropower generation, flexibility, and provision of grid services;
+&emsp;&emsp;(C) reduce costs, limit outages, and increase unit and plant efficiencies, including by examining the impact of changing water and electricity demand on hydropower generation, flexibility, and provision of grid services;
 
 &emsp;(3) study, in conjunction with other relevant Federal agencies as appropriate, methods to improve the hydropower licensing process, including by compiling current and accepted best practices, public comments, and methodologies to assess the full range of potential environmental and economic impacts;
 
@@ -84,7 +84,7 @@ The Secretary shall conduct a program of research, development, demonstration, a
 
 &emsp;(10) advance efficient and reliable integration of hydropower and pumped storage systems with the electric grid by—
 
-&emsp;&emsp;(A) improving methods for operational forecasting of renewable energy systems to identify opportunities for hydropower applications in pumped storage and hybrid energy systems, including forecasting of seasonal and annual energy storage;
+&emsp;&emsp;(A) improving methods for operational forecasting of renewable energy systems toidentify opportunities for hydropower applications in pumped storage and hybrid energy systems, including forecasting of seasonal and annual energy storage;
 
 &emsp;&emsp;(B) considering aggregating small distributed hydropower assets; and
 

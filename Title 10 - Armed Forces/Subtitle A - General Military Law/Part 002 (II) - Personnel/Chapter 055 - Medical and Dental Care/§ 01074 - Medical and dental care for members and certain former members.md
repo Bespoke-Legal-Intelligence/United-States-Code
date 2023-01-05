@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) the request for orders has been approved;
 
-&emsp;&emsp;(iii) the orders are to be issued but have not been issued or the orders have been issued but the member has not entered active duty; and
+&emsp;&emsp;(iii) the orders are to be issued but have not been issued or the orders have beenissued but the member has not entered active duty; and
 
 &emsp;&emsp;(iv) the member does not have health care insurance and is not covered by any other health benefits plan.
 
@@ -60,9 +60,9 @@
 
 &emsp;(B) 180 days before the date on which the period of active duty is to commence under such order for that member.
 
-(2) In this subsection, the term "delayed-effective-date active-duty order" means an order to active duty for a period of more than 30 days under section 12304b of this title or a provisionof law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
+(2) In this subsection, the term "delayed-effective-date active-duty order" means an order to active duty for a period of more than 30 days under section 12304b of this title or a provision of law referred to in section 101(a)(13)(B) of this title that provides for active-duty service to begin under such order on a date after the date of the issuance of the order.
 
-(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A, title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L. 110–181, div. A, title VI, §647(b), title XVI, §1633(a), Jan. 28, 2008, 122 Stat. 161, 459; Pub. L. 111–84, div. A, title VII, §702, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 115–91, div. A, title V, §511(a), Dec. 12, 2017, 131 Stat. 1376.)
+(Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(2), Sept. 30, 1966, 80 Stat. 862; Pub. L. 96–513, title V, §511(36), (37), Dec. 12, 1980, 94 Stat. 2923; Pub. L. 98–525, title XIV, §1401(e)(1), Oct. 19, 1984, 98 Stat. 2616; Pub. L. 98–557, §19(3), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 101–189, div. A, title VII, §729, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1481, 1603; Pub. L. 101–510, div. A, title XIV, §1484(j)(1), Nov. 5, 1990, 104 Stat. 1718; Pub. L. 104–106, div. A,title VII, §723, Feb. 10, 1996, 110 Stat. 377; Pub. L. 104–201, div. A, title VII, §725(d), Sept. 23, 1996, 110 Stat. 2596; Pub. L. 105–85, div. A, title VII, §731(a)(1), Nov. 18, 1997, 111 Stat. 1810; Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–106, title I, §1116, Nov. 6, 2003, 117 Stat. 1218; Pub. L. 108–136, div. A, title VII, §§703, 708, Nov. 24, 2003, 117 Stat. 1527, 1530; Pub. L. 108–375, div. A, title VII, §703, Oct. 28, 2004, 118 Stat. 1982; Pub. L. 109–163, div. A, title VII, §743(a), Jan. 6, 2006, 119 Stat. 3360; Pub. L. 110–181, div. A, title VI, §647(b), title XVI, §1633(a), Jan. 28, 2008, 122 Stat. 161, 459; Pub. L. 111–84, div. A, title VII, §702, Oct. 28, 2009, 123 Stat. 2373; Pub. L. 115–91, div. A, title V, §511(a), Dec. 12, 2017, 131 Stat. 1376.)
 
 Historical and Revision Notes
 
@@ -156,7 +156,7 @@ Pub. L. 104–106 added subsec. (d).
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–189, §1621(a)(2), substituted "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".
 
-Subsec. (c). Pub. L. 101–189, §729, inserted at end "If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modifications considered appropriate by the Secretary) as apply under that program."
+Subsec. (c). Pub. L. 101–189, §729, inserted at end "If a private facility or health care provider providing care under this subsection is a health care provider under the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense, after consultation with the other administering Secretaries, may by regulation require the private facility or health care provider to provide such care in accordance with the same payment rules (subject to any modificationsconsidered appropriate by the Secretary) as apply under that program."
 
 <b>1984</b>—Subsecs. (a), (b). Pub. L. 98–557 substituted reference to administering Secretaries for reference to Secretary of Defense and Secretary of Health and Human Services wherever appearing.
 
@@ -205,6 +205,26 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 #### Effective Date of 1966 Amendment
 
 For effective date of amendment by Pub. L. 89–614, see section 3 of Pub. L. 89–614, set out as a note under section 1071 of this title.
+
+#### Guidance for Addressing Healthy Relationships and Intimate Partner Violence Through TRICARE Program
+
+Pub. L. 117–263, div. A, title VII, §748, Dec. 23, 2022, 136 Stat. 2689, provided that:
+
+"(a)
+
+Guidance.—The Secretary of Defense shall disseminate guidance on the implementation through the TRICARE program of—
+
+&emsp;"(1) education on healthy relationships and intimate partner violence; and
+
+&emsp;"(2) protocols for—
+
+&emsp;&emsp;"(A) the routine assessment of intimate partner violence and sexual assault; and
+
+&emsp;&emsp;"(B) the promotion of, and strategies for, trauma-informed care plans.
+
+"(b)
+
+Briefing.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on the implementation of this section."
 
 #### Registry of Certain TRICARE Beneficiaries Diagnosed With COVID–19
 
@@ -478,7 +498,7 @@ Pub. L. 112–239, div. A, title III, §313(a), Jan. 2, 2013, 126 Stat. 1692, pr
 
 "(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall issue guidance to the militarydepartments and appropriate defense agencies regarding environmental exposures on military installations.
+In general.—Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall issue guidance to the military departments and appropriate defense agencies regarding environmental exposures on military installations.
 
 "(2)
 
@@ -608,7 +628,7 @@ Periodic and Final Reports.—After the third, seventh, eleventh, and fifteenth 
 
 &emsp;"(1) Current information on the cumulative outcomes of the study.
 
-&emsp;"(2) Such recommendations as the Secretary of Defense and the Secretary of Veterans Affairs jointly consider appropriate based on the outcomes of thestudy, including recommendations for legislative, programmatic, or administrative action to improve long-term care and rehabilitation programs and services for members of the Armed Forces with traumatic brain injuries."
+&emsp;"(2) Such recommendations as the Secretary of Defense and the Secretary of Veterans Affairs jointly consider appropriate based on the outcomes of the study, including recommendations for legislative, programmatic, or administrative action to improve long-term care and rehabilitation programs and services for members of the Armed Forces with traumatic brain injuries."
 
 #### Standards and Tracking of Access to Health Care Services for Wounded, Injured, or Ill Servicemembers Returning to the United States From a Combat Zone
 
@@ -714,7 +734,7 @@ Use of existing materials.—In developing the curricula, the Traumatic Brain In
 
 &emsp;"(5)
 
-Deadline for development.—The Traumatic Brain Injury Family Caregiver Panel shall develop the curricula not later than one year after the date of the enactment of this Act \[Oct. 17, 2006\].
+Deadline for development.—The Traumatic Brain Injury Family Caregiver Panel shall developthe curricula not later than one year after the date of the enactment of this Act \[Oct. 17, 2006\].
 
 "(c)
 
@@ -732,7 +752,7 @@ Dissemination mechanisms.—The Secretary of Defense shall develop mechanisms fo
 
 &emsp;"(2)
 
-Use of existing mechanisms.—In developing such mechanisms, the Secretary may use and enhance existing mechanisms, including the MilitarySeverely Injured Center (authorized under section 564 of this Act \[10 U.S.C. 113 note\]) and the programs for service to severely injured members established by the military departments.
+Use of existing mechanisms.—In developing such mechanisms, the Secretary may use and enhance existing mechanisms, including the Military Severely Injured Center (authorized under section 564 of this Act \[10 U.S.C. 113 note\]) and the programs for service to severely injured members established by the military departments.
 
 "(d)
 
@@ -774,7 +794,7 @@ Composition.—The members of the Committee are as follows:
 
 &emsp;&emsp;"(A) The Under Secretary of Defense for Personnel and Readiness, who shall chair the Committee.
 
-&emsp;&emsp;"(B) The Vice Chief of Staff of the Army, the Vice Chief of Naval Operations, the Vice Chief of Staff of the Air Force, and the Assistant Commandant of the Marine Corp.
+&emsp;&emsp;"(B) The Vice Chief of Staff of the Army, the Vice Chief of Naval Operations, the Vice Chief of Staff of the Air Force, and the Assistant Commandant of the Marine Corp \[sic\].
 
 &emsp;&emsp;"(C) The Assistant Secretary of Defense for Health Affairs.
 
@@ -952,7 +972,7 @@ Health Care at Mobilization Installations.—The Secretary of Defense shall take
 
 "(b)
 
-Mobilization Installations.—For purposes of this section, the term 'mobilization installation' meansa military installation at which members of the Armed Forces, in connection with a contingency operation or during a national emergency—
+Mobilization Installations.—For purposes of this section, the term 'mobilization installation' means a military installation at which members of the Armed Forces, in connection with a contingency operation or during a national emergency—
 
 &emsp;"(1) are mobilized;
 
@@ -1042,7 +1062,7 @@ Pub. L. 107–314, div. A, title VII, §709, Dec. 2, 2002, 116 Stat. 2586, direc
 
 #### Health Care at Former Uniformed Services Treatment Facilities for Active Duty Members Stationed at Certain Remote Locations
 
-Pub. L. 106–65, div. A, title VII, §706, Oct. 5, 1999, 113 Stat. 684, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VII, §722(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185, provided that:
+Pub. L. 106–65, div. A, title VII, §706, Oct. 5, 1999, 113 Stat. 684, as amended by Pub. L. 106–398, §1 \[\[div. A\],title VII, §722(a)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–185, provided that:
 
 "(a)
 
@@ -1142,7 +1162,7 @@ Pub. L. 105–85, div. A, title VII, §§761, 762, 770, Nov. 18, 1997, 111 Stat.
 
 &emsp;"(2) The term 'Persian Gulf War' has the meaning given that term in section 101 of title 38, United States Code.
 
-&emsp;"(3) The term 'Persian Gulf veteran' means an individual who served on active duty in the Armed Forcesin the Southwest Asia theater of operations during the Persian Gulf War.
+&emsp;"(3) The term 'Persian Gulf veteran' means an individual who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
 
 &emsp;"(4) The term 'contingency operation' has the meaning given that term in section 101(a) of title 10, United States Code, and includes a humanitarian operation, peacekeeping operation, or similar operation.
 
@@ -1230,7 +1250,7 @@ Compatibility of Department of Defense and Department of Veterans Affairs Regist
 
 "(d)
 
-Presumptions on Behalf of Service Member.—(1) A member of the Armed Forces who is a PersianGulf veteran, who has symptoms of illness, and who the Secretary concerned finds may have become ill as a result of serving on active duty in the Southwest Asia theater of operations during the Persian Gulf War shall be considered for Department of Defense purposes to have become ill as a result of serving in that theater of operations.
+Presumptions on Behalf of Service Member.—(1) A member of the Armed Forces who is a Persian Gulf veteran, who has symptoms of illness, and who the Secretary concerned finds may have become ill as a result of serving on active duty in the Southwest Asia theater of operations during the Persian Gulf War shall be considered for Department of Defense purposes to have become ill as a result of serving in that theater of operations.
 
 "(2) A member of the Armed Forces who is a Persian Gulf veteran and who reports being ill as a result of serving on active duty in the Southwest Asia theater of operations during the Persian Gulf War shall be considered for Department of Defense purposes to have become ill as a result of serving in that theater of operations until such time as the weight of medical evidence establishes other cause or causes of the member's illness.
 
@@ -1376,7 +1396,7 @@ Contents of Registry.—(1) The Registry shall include—
 
 "(d)
 
-Medical Examination.—Upon the request of any member listed in the Registry pursuant to subsection (a)(1), the Secretary of the military department concerned shall, if medically appropriate, furnish a pulmonary function examination and chest x-ray to such person.
+Medical Examination.—Upon the request of any member listed in the Registry pursuant to subsection\(a)(1), the Secretary of the military department concerned shall, if medically appropriate, furnish a pulmonary function examination and chest x-ray to such person.
 
 "(e)
 

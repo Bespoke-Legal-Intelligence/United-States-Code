@@ -99,7 +99,7 @@ Pub. L. 110–432, div. B, title III, §303(b), Oct. 16, 2008, 122 Stat. 4951, w
 
 <b>1996</b>—Pub. L. 104–287, §5(56)(B), Oct. 11, 1996, 110 Stat. 3394, added item for chapter 283.
 
-<b>1994</b>—Pub. L. 103–440, title I, §103(b)(1), Nov. 2, 1994, 108 Stat. 4618, added part D and item for chapter 261, struck out former part D "MISCELLANEOUS" and former item for chapter 261 "Law Enforcement . . . 26101", and added part E and item for chapter 281.
+<b>1994</b>—Pub. L. 103–440, title I, §103(b)(1), Nov. 2, 1994, 108 Stat. 4618, added part D and item for chapter 261,struck out former part D "MISCELLANEOUS" and former item for chapter 261 "Law Enforcement . . . 26101", and added part E and item for chapter 281.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Railroad Rehabilitation and Improvement Financing".</i>
 

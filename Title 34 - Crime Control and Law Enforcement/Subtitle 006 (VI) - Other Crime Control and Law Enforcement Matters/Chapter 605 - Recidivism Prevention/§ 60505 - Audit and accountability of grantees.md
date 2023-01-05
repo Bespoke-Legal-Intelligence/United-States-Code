@@ -10,7 +10,7 @@ In this section—
 
 &emsp;(3) the term "nonprofit", when used with respect to an organization, means an organization that is described in section 501(c)(3) of title 26, and is exempt from taxation under section 501(a) of such title; and
 
-&emsp;(4) the term "unresolved audit finding" means an audit report finding in a final audit report of the Inspector General of the Department of Justice that a covered grantee has used grant funds awarded to that grantee under a covered grant program for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved during a 12-month period prior to the date on which the final audit report is issued.
+&emsp;(4) the term "unresolved audit finding" means an audit report finding in a final auditreport of the Inspector General of the Department of Justice that a covered grantee has used grant funds awarded to that grantee under a covered grant program for an unauthorized expenditure or otherwise unallowable cost that is not closed or resolved during a 12-month period prior to the date on which the final audit report is issued.
 
 #### (b) Audit requirement
 

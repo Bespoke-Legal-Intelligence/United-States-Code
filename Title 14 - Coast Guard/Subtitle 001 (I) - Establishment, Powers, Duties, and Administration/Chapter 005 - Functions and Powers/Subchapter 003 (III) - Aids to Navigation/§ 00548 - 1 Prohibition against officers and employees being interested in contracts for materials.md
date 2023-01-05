@@ -1,0 +1,8 @@
+### §548.<sup>1</sup> Prohibition against officers and employees being interested in contracts for materials
+
+No officer, enlisted member, or civilian member of the Coast Guard in any manner connected with the construction, operation, or maintenance of lighthouses, shall be interested, either directly or indirectly, in any contract for labor, materials, or supplies for the construction, operation, or maintenance of lighthouses, or in any patent, plan, or mode of construction or illumination, or in any article of supply for the construction, operation, or maintenance of lighthouses.
+
+(Added Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8509(b), Jan. 1, 2021, 134 Stat. 4756.)
+
+<i><sup>1</sup></i><i> Another section 548 is set out after section 550 of this title.</i>
+

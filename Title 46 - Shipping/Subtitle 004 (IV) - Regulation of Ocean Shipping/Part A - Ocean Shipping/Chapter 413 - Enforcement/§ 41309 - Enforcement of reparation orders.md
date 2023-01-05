@@ -2,11 +2,11 @@
 
 (a)
 
-Civil Action.—If a person does not comply with an order of the Federal Maritime Commission for the payment of reparation, the person to whom the award was made may seek enforcement of the order in a district court of the United States having jurisdiction over the parties.
+Civil Action.—If a person does not comply with an order of the Federal Maritime Commission for the payment of a refund of money or reparation, the person to which the refund or reparation was awarded may seek enforcement of the order in a district court of the United States having jurisdiction over the parties.
 
 (b)
 
-Parties and Service of Process.—All parties in whose favor the Commission has made an award of reparation by a single order may be joined as plaintiffs, and all other parties in the order may be joined as defendants, in a single action in a judicial district in which any one plaintiff could maintain an action against any one defendant. Service of process against a defendant not found in that district may be made in a district in which any office of that defendant is located or in which any port of call on a regular route operated by that defendant is located. Judgment may be entered for any plaintiff against the defendant liable to that plaintiff.
+Parties and Service of Process.—All parties in whose favor the Commission has ordered a refund of money or any other award of reparation by a single order may be joined as plaintiffs, and all other parties in the order (except for the Commission or any component of the Commission) may be joined as defendants, in a single action in a judicial district in which any one plaintiff could maintain an action against any one defendant. Service of process against a defendant not found in that district may be made in a district in which any office of that defendant is located or in which any port of call on a regular route operated by that defendant is located. Judgment may be entered for any plaintiff against the defendant liable to that plaintiff.
 
 (c)
 
@@ -20,7 +20,7 @@ Costs and Attorney Fees.—The plaintiff is not liable for costs of the action o
 
 Time Limit on Bringing Actions.—An action under this section to enforce an order of the Commission must be brought within 3 years after the date the order was violated.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1548.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1548; Pub. L. 117–146, §13, June 16, 2022, 136 Stat. 1279.)
 
 Historical and Revision Notes
 
@@ -53,4 +53,12 @@ Pub. L. 98–237, §14(d), (e), Mar. 20, 1984, 98 Stat. 83, 84.
 41309(e)
 
 46 App.:1713(e).
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–146, §13(1), substituted "a refund of money or reparation, the person to which the refund or reparation was awarded" for "reparation, the person to whom the award was made".
+
+Subsec. (b). Pub. L. 117–146, §13(2), substituted "ordered a refund of money or any other award of reparation" for "made an award of reparation" and inserted "(except for the Commission or any component of the Commission)" after "parties in the order".
 

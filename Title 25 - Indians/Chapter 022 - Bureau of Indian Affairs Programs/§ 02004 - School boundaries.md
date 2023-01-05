@@ -30,7 +30,7 @@ In any case where there is more than one Bureau-funded school located on an Indi
 
 #### (1) In general
 
-&emsp;The Secretary shall not deny funding to a Bureau-funded school for any eligible Indianstudent attending the school solely because that student's home or domicile is outside of the geographical attendance area established for that school under this section.
+&emsp;The Secretary shall not deny funding to a Bureau-funded school for any eligible Indian student attending the school solely because that student's home or domicile is outside of the geographical attendance area established for that school under this section.
 
 #### (2) Transportation
 

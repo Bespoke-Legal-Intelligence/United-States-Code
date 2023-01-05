@@ -14,10 +14,14 @@
 | [2056b.](%C2%A7%2002056b%20-%20Mandatory%20toy%20safety%20standards.md) | Mandatory toy safety standards. |
 | [2056c.](%C2%A7%2002056c%20-%20Sulfur%20content%20in%20drywall%20standard.md) | Sulfur content in drywall standard. |
 | [2056d.](%C2%A7%2002056d%20-%20Performance%20standards%20to%20protect%20against%20portable%20fuel%20container%20explosions%20near%20open%20flames%20or%20other%20ignition%20sources.md) | Performance standards to protect against portable fuel container explosions near open flames or other ignition sources. |
+| [2056e.](%C2%A7%2002056e%20-%20Consumer%20product%20safety%20standard%20for%20button%20cell%20or%20coin%20batteries%20and%20consumer%20products%20containing%20such%20batteries.md) | Consumer product safety standard for button cell or coin batteries and consumer products containing such batteries. |
+| [2056f.](%C2%A7%2002056f%20-%20Consumer%20product%20safety%20standard%20to%20protect%20against%20tip-over%20of%20clothing%20storage%20units.md) | Consumer product safety standard to protect against tip-over of clothing storage units. |
 | [2057\.](%C2%A7%2002057%20-%20Banned%20hazardous%20products.md) | Banned hazardous products. |
 | [2057a.](%C2%A7%2002057a%20-%20Banning%20of%20butyl%20nitrite.md) | Banning of butyl nitrite. |
 | [2057b.](%C2%A7%2002057b%20-%20Banning%20of%20isopropal%20nitrite%20and%20other%20nitrites.md) | Banning of isopropal nitrite and other nitrites. |
 | [2057c.](%C2%A7%2002057c%20-%20Prohibition%20on%20sale%20of%20certain%20products%20containing%20specified%20phthalates.md) | Prohibition on sale of certain products containing specified phthalates. |
+| [2057d.](%C2%A7%2002057d%20-%20Banning%20of%20inclined%20sleepers%20for%20infants.md) | Banning of inclined sleepers for infants. |
+| [2057e.](%C2%A7%2002057e%20-%20Banning%20of%20crib%20bumpers.md) | Banning of crib bumpers. |
 | [2058\.](%C2%A7%2002058%20-%20Procedure%20for%20consumer%20product%20safety%20rules.md) | Procedure for consumer product safety rules. |
 | [2059\.](%C2%A7%2002059%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XII%2C%20%C2%A71210%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20721.md) | Repealed. |
 | [2060\.](%C2%A7%2002060%20-%20Judicial%20review%20of%20consumer%20product%20safety%20rules.md) | Judicial review of consumer product safety rules. |
@@ -52,6 +56,7 @@
 | [2087\.](%C2%A7%2002087%20-%20Whistleblower%20protection.md) | Whistleblower protection. |
 | [2088\.](%C2%A7%2002088%20-%20Financial%20responsibility.md) | Financial responsibility. |
 | [2089\.](%C2%A7%2002089%20-%20All-terrain%20vehicles.md) | All-terrain vehicles. |
+| [2090\.](%C2%A7%2002090%20-%20Grant%20program%20for%20carbon%20monoxide%20poisoning%20prevention.md) | Grant program for carbon monoxide poisoning prevention. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -72,10 +77,14 @@
 - [&sect; 02056b - Mandatory toy safety standards](%C2%A7%2002056b%20-%20Mandatory%20toy%20safety%20standards.md)
 - [&sect; 02056c - Sulfur content in drywall standard](%C2%A7%2002056c%20-%20Sulfur%20content%20in%20drywall%20standard.md)
 - [&sect; 02056d - Performance standards to protect against portable fuel container explosions near open flames or other ignition sources](%C2%A7%2002056d%20-%20Performance%20standards%20to%20protect%20against%20portable%20fuel%20container%20explosions%20near%20open%20flames%20or%20other%20ignition%20sources.md)
+- [&sect; 02056e - Consumer product safety standard for button cell or coin batteries and consumer products containing such batteries](%C2%A7%2002056e%20-%20Consumer%20product%20safety%20standard%20for%20button%20cell%20or%20coin%20batteries%20and%20consumer%20products%20containing%20such%20batteries.md)
+- [&sect; 02056f - Consumer product safety standard to protect against tip-over of clothing storage units](%C2%A7%2002056f%20-%20Consumer%20product%20safety%20standard%20to%20protect%20against%20tip-over%20of%20clothing%20storage%20units.md)
 - [&sect; 02057 - Banned hazardous products](%C2%A7%2002057%20-%20Banned%20hazardous%20products.md)
 - [&sect; 02057a - Banning of butyl nitrite](%C2%A7%2002057a%20-%20Banning%20of%20butyl%20nitrite.md)
 - [&sect; 02057b - Banning of isopropal nitrite and other nitrites](%C2%A7%2002057b%20-%20Banning%20of%20isopropal%20nitrite%20and%20other%20nitrites.md)
 - [&sect; 02057c - Prohibition on sale of certain products containing specified phthalates](%C2%A7%2002057c%20-%20Prohibition%20on%20sale%20of%20certain%20products%20containing%20specified%20phthalates.md)
+- [&sect; 02057d - Banning of inclined sleepers for infants](%C2%A7%2002057d%20-%20Banning%20of%20inclined%20sleepers%20for%20infants.md)
+- [&sect; 02057e - Banning of crib bumpers](%C2%A7%2002057e%20-%20Banning%20of%20crib%20bumpers.md)
 - [&sect; 02058 - Procedure for consumer product safety rules](%C2%A7%2002058%20-%20Procedure%20for%20consumer%20product%20safety%20rules.md)
 - [&sect; 02059 - Repealed. Pub. L. 97&#8211;35, title XII, &sect;1210, Aug. 13, 1981, 95 Stat. 721](%C2%A7%2002059%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9335%2C%20title%20XII%2C%20%C2%A71210%2C%20Aug.%2013%2C%201981%2C%2095%20Stat.%20721.md)
 - [&sect; 02060 - Judicial review of consumer product safety rules](%C2%A7%2002060%20-%20Judicial%20review%20of%20consumer%20product%20safety%20rules.md)
@@ -110,3 +119,4 @@
 - [&sect; 02087 - Whistleblower protection](%C2%A7%2002087%20-%20Whistleblower%20protection.md)
 - [&sect; 02088 - Financial responsibility](%C2%A7%2002088%20-%20Financial%20responsibility.md)
 - [&sect; 02089 - All-terrain vehicles](%C2%A7%2002089%20-%20All-terrain%20vehicles.md)
+- [&sect; 02090 - Grant program for carbon monoxide poisoning prevention](%C2%A7%2002090%20-%20Grant%20program%20for%20carbon%20monoxide%20poisoning%20prevention.md)

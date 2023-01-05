@@ -1,6 +1,6 @@
 ### §5313. Reports on domestic coins and currency transactions
 
-(a) When a domestic financial institution is involved in a transaction for the payment, receipt, or transfer of United States coins or currency (or other monetary instruments the Secretary of the Treasury prescribes), in an amount, denomination, or amount and denomination, or under circumstances the Secretary prescribes by regulation, the institution and any other participant in the transaction the Secretary may prescribe shall file a report on the transaction at the time and in the way the Secretary prescribes. A participant acting for another person shall make the report as the agent or bailee ofthe person and identify the person for whom the transaction is being made.
+(a) When a domestic financial institution is involved in a transaction for the payment, receipt, or transfer of United States coins or currency (or other monetary instruments the Secretary of the Treasury prescribes), in an amount, denomination, or amount and denomination, or under circumstances the Secretary prescribes by regulation, the institution and any other participant in the transaction the Secretary may prescribe shall file a report on the transaction at the time and in the way the Secretary prescribes. A participant acting for another person shall make the report as the agent or bailee of the person and identify the person for whom the transaction is being made.
 
 (b) The Secretary may designate a domestic financial institution as an agent of the United States Government to receive a report under this section. However, the Secretary may designate a domestic financial institution that is not insured, chartered, examined, or registered as a domestic financial institution only if the institution consents. The Secretary may suspend or revoke a designation for a violation of this subchapter or a regulation under this subchapter (except a violation of section 5315 of this title or a regulation prescribed under section 5315), section 411 <sup>1</sup> of the National Housing Act (12 U.S.C. 1730d), or section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b).
 
@@ -44,7 +44,7 @@ Discretionary Exemptions From Reporting Requirements.—
 
 &emsp;(1)
 
-In general.—The Secretary of the Treasury may exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and a qualified business customer of the institution on the basis of information submitted to the Secretary by the institution in accordance with procedures which the Secretary shall establish.
+In general.—The Secretary of the Treasury may exempt, pursuant to section 5318(a)(6), a depository institution from the reporting requirements of subsection (a) with respect to transactions between the depository institution and a qualified business customerof the institution on the basis of information submitted to the Secretary by the institution in accordance with procedures which the Secretary shall establish.
 
 &emsp;(2)
 
@@ -250,7 +250,7 @@ Study required.—The Secretary shall conduct a study of—
 
 &emsp;"(2)
 
-Report required.—The Secretary of the Treasury shall submit a report to the Congress before the end of the 1-year period beginning on the date of enactment of this Act \[Oct. 26, 2001\] containing the findings and conclusions of the Secretary with regard to the study required under subsection (a), and such recommendations for legislative or administrative action as the Secretary determines to be appropriate."
+Report required.—The Secretary of the Treasury shall submit a report to the Congress before theend of the 1-year period beginning on the date of enactment of this Act \[Oct. 26, 2001\] containing the findings and conclusions of the Secretary with regard to the study required under subsection (a), and such recommendations for legislative or administrative action as the Secretary determines to be appropriate."
 
 #### Report Reduction Goal; Streamlined Currency Transaction Reports
 

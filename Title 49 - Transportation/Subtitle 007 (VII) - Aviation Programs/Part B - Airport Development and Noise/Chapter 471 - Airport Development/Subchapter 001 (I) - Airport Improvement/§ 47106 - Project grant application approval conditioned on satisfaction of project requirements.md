@@ -84,7 +84,7 @@ Withholding Approval.—(1) The Secretary may withhold approval of an applicatio
 
 &emsp;(B) the hearing officer if the officer decides an extension is necessary because the sponsor did not follow the schedule the officer established.
 
-(3) A person adversely affected by an order of the Secretary withholding approval may obtainreview of the order by filing a petition in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the project is located. The action must be brought not later than 60 days after the order is served on the petitioner.
+(3) A person adversely affected by an order of the Secretary withholding approval may obtain review of the order by filing a petition in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the project is located. The action must be brought not later than 60 days after the order is served on the petitioner.
 
 (e)
 
@@ -330,5 +330,5 @@ Pub. L. 106–181, title V, §514(d), Apr. 5, 2000, 114 Stat. 144, provided that
 
 #### Compliance With Requirements
 
-Pub. L. 106–181, title VII, §737, Apr. 5, 2000, 114 Stat. 172, provided that: "Notwithstanding any other provision of law, in order to avoid unnecessary duplication of expense and effort, the Secretary \[of Transportation\] may authorize the use, in whole or in part, of a completed environmental assessment or environmental impact study for new construction projects on the air operations area of an airport, if the completed assessment or study was for a project at the airport that is substantially similar in nature to the new project. Any such authorized use shall meet all requirements of Federal law for the completion of such an assessment or study."
+Pub. L. 106–181, title VII, §737, Apr. 5, 2000, 114 Stat. 172, provided that: "Notwithstanding any other provision of law, in order to avoid unnecessary duplication of expense and effort, the Secretary \[of Transportation\]may authorize the use, in whole or in part, of a completed environmental assessment or environmental impact study for new construction projects on the air operations area of an airport, if the completed assessment or study was for a project at the airport that is substantially similar in nature to the new project. Any such authorized use shall meet all requirements of Federal law for the completion of such an assessment or study."
 

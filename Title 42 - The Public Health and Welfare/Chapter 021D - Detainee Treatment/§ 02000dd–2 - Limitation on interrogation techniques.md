@@ -52,7 +52,7 @@
 
 #### (ii) Recommendations
 
-&emsp;&emsp;&emsp;The report required by clause (i) may include recommendations for revisions toArmy Field Manual 2–22.3 based on the body of research commissioned by the High-Value Detainee Interrogation Group.
+&emsp;&emsp;&emsp;The report required by clause (i) may include recommendations for revisions to Army Field Manual 2–22.3 based on the body of research commissioned by the High-Value Detainee Interrogation Group.
 
 #### (iii) Availability to the public
 

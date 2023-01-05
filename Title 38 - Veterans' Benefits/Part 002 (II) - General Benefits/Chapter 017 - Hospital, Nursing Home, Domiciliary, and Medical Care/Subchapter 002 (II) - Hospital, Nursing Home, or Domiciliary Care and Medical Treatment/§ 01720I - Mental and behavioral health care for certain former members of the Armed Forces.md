@@ -94,7 +94,7 @@ Annual Reports.—(1) Not later than February 15 each year, the Secretary shall 
 
 &emsp;(F) Such other information as the Secretary considers appropriate.
 
-(Added Pub. L. 115–141, div. J, title II, §258(a), Mar. 23, 2018, 132 Stat. 826, §1712I; renumbered§1720I, Pub. L. 115–182, title V, §511, June 6, 2018, 132 Stat. 1481; amended Pub. L. 115–251, title II, §205, Sept. 29, 2018, 132 Stat. 3173; Pub. L. 116–171, title I, §104, Oct. 17, 2020, 134 Stat. 782; Pub. L. 116–283, div. A, title IX, §926(a)(29), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 115–141, div. J, title II, §258(a), Mar. 23, 2018, 132 Stat. 826, §1712I; renumbered §1720I, Pub. L. 115–182, title V, §511, June 6, 2018, 132 Stat. 1481; amended Pub. L. 115–251, title II, §205, Sept. 29, 2018, 132 Stat. 3173; Pub. L. 116–171, title I, §104, Oct. 17, 2020, 134 Stat. 782; Pub. L. 116–283, div. A, title IX, §926(a)(29), Jan. 1, 2021, 134 Stat. 3830.)
 
 #### <b>Editorial Notes</b>
 

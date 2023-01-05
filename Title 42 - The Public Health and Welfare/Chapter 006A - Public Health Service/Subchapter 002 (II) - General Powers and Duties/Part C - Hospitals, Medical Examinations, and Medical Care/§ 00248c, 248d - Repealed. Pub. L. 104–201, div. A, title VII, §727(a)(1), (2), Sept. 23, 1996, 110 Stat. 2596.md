@@ -12,7 +12,7 @@ Repeal effective Oct. 1, 1997, see section 727(b) of Pub. L. 104–201, set out 
 
 #### Equitable Implementation of Uniform Cost Sharing Requirements for Uniformed Services Treatment Facilities
 
-Pub. L. 104–106, div. A, title VII, §726, Feb. 10, 1996, 110 Stat. 379, provided that the uniform managed care benefit fee and copayment schedule developed by Secretary of Defense for use in all managed care initiatives of military health service system be extended to managed care program of Uniformed Services Treatment Facility only after the later of the implementation of the TRICARE regional program covering service area of Facility or Oct. 1, 1996, and provided for evaluation of such extension by Comptroller General, prior to repeal by Pub. L. 104–201, div. A, title VII, §727(a)(4), Sept. 23, 1996, 110 Stat. 2596.
+Pub. L. 104–106, div. A, title VII, §726, Feb. 10, 1996, 110 Stat. 379, provided that the uniform managed care benefit fee and copayment schedule developed by Secretary of Defense for use in all managed care initiatives of military health service system be extended to managedcare program of Uniformed Services Treatment Facility only after the later of the implementation of the TRICARE regional program covering service area of Facility or Oct. 1, 1996, and provided for evaluation of such extension by Comptroller General, prior to repeal by Pub. L. 104–201, div. A, title VII, §727(a)(4), Sept. 23, 1996, 110 Stat. 2596.
 
 #### Managed-Care Delivery and Reimbursement Model for the Uniformed Services Treatment Facilities
 

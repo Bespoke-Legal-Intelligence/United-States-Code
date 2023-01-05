@@ -33,7 +33,7 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 32,000 | 2,330 | 1,315 | 460&nbsp;&nbsp; |
 | 34,000 | 2,450 | 1,385 | 470&nbsp;&nbsp; |
 | 36,000 | 2,570 | 1,455 | 480&nbsp;&nbsp; |
-| 38,000 | 2,670 | 1,527 | 490&nbsp;&nbsp; |
+| 38,000 | 2,670 | 1,527 | 490   |
 | 40,000 | 2,770 | 1,590 | 500&nbsp;&nbsp; |
 | 42,000 | 2,837 | 1,655 | 505&nbsp;&nbsp; |
 | &nbsp; |  |  |  |
@@ -90,7 +90,7 @@ Limitations.—(1) Of the total number of members of a reserve component who are
 | 32,000 | 2,271 | 2,210 | 608&nbsp;&nbsp; |
 | 34,000 | 2,404 | 2,338 | 630&nbsp;&nbsp; |
 | 36,000 | 2,537 | 2,466 | 653&nbsp;&nbsp; |
-| 38,000 | 2,670 | 2,595 | 676   |
+| 38,000 | 2,670 | 2,595 | 676&nbsp;&nbsp; |
 | 40,000 | 2,803 | 2,723 | 698&nbsp;&nbsp; |
 
 (2) Of the total number of members of the Navy Reserve who are serving on full-time reserve component duty at the end of any fiscal year, the number of those members who may be serving in each of the grades of lieutenant commander, commander, and captain may not, as of the end of that fiscal year, exceed the number determined in accordance with the following table:
@@ -136,7 +136,7 @@ Full-Time Reserve Component Duty Defined.—In this section, the term "full-time
 
 &emsp;(1) Active duty described in sections 10211, 10302, 10303, 10304, 10305, 12310, or 12402 of this title.
 
-&emsp;(2) Full-time National Guard duty (other than for training) under section 502(f) of title 32, except for duty under section 115(b)(1)(B) and (C) of this title and section 115(i)(9) of this title.
+&emsp;(2) Full-time National Guard duty (other than for training) under section 502(f) of title32, except for duty under section 115(b)(1)(B) and (C) of this title and section 115(i)(9) of this title.
 
 &emsp;(3) Active duty described in section 708 of title 32.
 
@@ -180,7 +180,7 @@ Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title IV, §424(a)\], added su
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 524 of this title as this section and amended section catchline generally striking out at end "in grades of major, lieutenant colonel, and colonel and Navy grades of lieutenant commander, commander, and captain".
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–160, in table, increased fiscal year limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 595 to 636 and in grade of Colonel or Navy Captain from 227 to 274. Army, Navy, and Marine Corps figures remained unchanged.
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, in table, increased fiscal year limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 595 to 636 and in grade of Colonel or NavyCaptain from 227 to 274. Army, Navy, and Marine Corps figures remained unchanged.
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–190, in table, increased fiscal year limitation on number of reserve officers in the Army in grade of Colonel or Navy Captain from 364 to 372, and increased such limitation on number of reserve officers in the Air Force in grade of Lieutenant Colonel or Commander from 532 to 595 and in grade of Colonel or Navy Captain from 194 to 227. Navy and Marine Corps figures remained unchanged.
 
@@ -196,7 +196,7 @@ Pub. L. 100–180, §413(b)(1), in table, changed fiscal year limitation on numb
 
 <b>1984</b>—Pub. L. 98–525, §414(a)(4)(B)(i), inserted references to National Guard and to full-time National Guard duty in section catchline.
 
-Subsec. (a). Pub. L. 98–525, §414(a)(4)(A), inserted "or full-time National Guard duty" after "Marine Corpswho may be on active duty" and inserted "or full-time National Guard duty (other than for training) under section 502(f) of title 32".
+Subsec. (a). Pub. L. 98–525, §414(a)(4)(A), inserted "or full-time National Guard duty" after "Marine Corps who may be on active duty" and inserted "or full-time National Guard duty (other than for training) under section 502(f) of title 32".
 
 Pub. L. 98–525, §413(b), increased fiscal year limitation on number of reserve officers in grade of major or lieutenant commander, lieutenant colonel or commander, and colonel or Navy captain who may be on active duty to, respectively: Army, to 2,261, 1,121, and 345 from 1,948, 967, and 338; Air Force, to 471, 293, and 172 from 408, 303, and 171; Marine Corps, to 100, 50, and 25 from 95, 48, and 23. Figures for the Navy remained unchanged.
 

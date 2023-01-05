@@ -38,7 +38,7 @@ If the Secretary has reason to believe that a health care entity has failed to r
 
 #### (B) Effective date of election
 
-&emsp;&emsp;An election under State law is not effective, for purposes of,<sup>1</sup> for actions commencedbefore the effective date of the State law, which may not be earlier than the date of the enactment of that law.
+&emsp;&emsp;An election under State law is not effective, for purposes of,<sup>1</sup> for actions commenced before the effective date of the State law, which may not be earlier than the date of the enactment of that law.
 
 (Pub. L. 99–660, title IV, §411, Nov. 14, 1986, 100 Stat. 3784; Pub. L. 100–177, title IV, §402(c), as added Pub. L. 101–239, title VI, §6103(e)(6)(A), Dec. 19, 1989, 103 Stat. 2208.)
 
@@ -46,7 +46,7 @@ If the Secretary has reason to believe that a health care entity has failed to r
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. Title VII of this Act relates to equal employment opportunities, and is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. Title VII of this Act relates to equal employment opportunities, and is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
 The Civil Rights Acts, referred to in subsec. (a)(1), are classified generally to chapter 21 (§1981 et seq.) of this title.
 

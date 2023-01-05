@@ -4,7 +4,7 @@ In this chapter (other than subchapter III):
 
 #### (1) Agricultural Act of 1949
 
-&emsp;The term "Agricultural Act of 1949" means the Agricultural Act of 1949 (7 U.S.C. 1421 etseq.), as in effect prior to the suspensions under section 7301 of this title.
+&emsp;The term "Agricultural Act of 1949" means the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), as in effect prior to the suspensions under section 7301 of this title.
 
 #### (2) Base acres
 
@@ -86,7 +86,7 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 Subchapter III, referred to in text, was in the original "subtitle C", meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
-The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
 

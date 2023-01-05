@@ -38,7 +38,7 @@ A recipient of a performance award under subsection (a) may use the award for an
 
 #### (e) Federal share
 
-Notwithstanding section 3144 of this title, the funds of a performance award may be used topay up to 100 percent of the cost of an eligible project or activity.
+Notwithstanding section 3144 of this title, the funds of a performance award may be used to pay up to 100 percent of the cost of an eligible project or activity.
 
 #### (f) Treatment in meeting non-Federal share requirements
 

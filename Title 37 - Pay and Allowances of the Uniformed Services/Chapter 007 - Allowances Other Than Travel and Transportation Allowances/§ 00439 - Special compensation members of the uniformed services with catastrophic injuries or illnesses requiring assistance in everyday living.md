@@ -64,5 +64,5 @@ Regulations.—The Secretary of Defense (or the Secretary of Homeland Security, 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c). Pub. L. 111–383 amended subsec. (c) generally. Prior to amendment, subsec. (c) related tothe amount of monthly special compensation payable to a member under subsec. (a).
+<b>2011</b>—Subsec. (c). Pub. L. 111–383 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to the amount of monthly special compensation payable to a member under subsec. (a).
 

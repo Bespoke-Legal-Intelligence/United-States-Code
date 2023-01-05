@@ -82,7 +82,7 @@ In this subchapter:
 
 #### (8) Locally led planning process
 
-&emsp;The term "planning process" means actions taken by a locally led council to develop and carry out an effective area plan in a designated area, including development of thearea plan, goals, purposes, policies, implementation activities, evaluations and reviews, and the opportunity for public participation in the actions.
+&emsp;The term "planning process" means actions taken by a locally led council to develop and carry out an effective area plan in a designated area, including development of the area plan, goals, purposes, policies, implementation activities, evaluations and reviews, and the opportunity for public participation in the actions.
 
 #### (9) Nonprofit organization
 

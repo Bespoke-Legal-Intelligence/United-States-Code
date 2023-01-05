@@ -56,7 +56,7 @@ After January 3, 1975, (A) products of a nonmarket economy country may be eligib
 
 #### (e) Countries not covered
 
-This section shall not apply to any country the products of which are eligible for the rates set forth in rate column numbered 1 of the Tariff Schedules of the United States on January 3, 1975.
+This section shall not apply to any country the products of which are eligible for the ratesset forth in rate column numbered 1 of the Tariff Schedules of the United States on January 3, 1975.
 
 (Pub. L. 93–618, title IV, §402, Jan. 3, 1975, 88 Stat. 2056; Pub. L. 96–39, title XI, §1106(f)(1), July 26, 1979, 93 Stat. 312; Pub. L. 101–382, title I, §132(a)(1), (2), Aug. 20, 1990, 104 Stat. 643, 644; Pub. L. 105–206, title V, §5003(b)(2)(A), July 22, 1998, 112 Stat. 789.)
 
@@ -94,7 +94,7 @@ Pub. L. 101–382, title I, §132(d), Aug. 20, 1990, 104 Stat. 647, provided tha
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 2191 to 2194, 2435, and 2437 of this title\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 2191 to 2194, 2435, and 2437 of this title\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\].
 
 "(2)
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L
 
 #### Delegation of Functions
 
-Functions of President under subsec. (d)(1) of this section delegated to Secretary of State by section 1(a)(i) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (d)(1) of this section delegated to Secretary of State by section1(a)(i) of Ex. Ord. No. 13346, July 8, 2004, 69 F.R. 41905, set out as a note under section 301 of Title 3, The President.
 
 For delegation of congressional reporting functions of President under subsec. (b) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under section 301 of Title 3, The President.
 

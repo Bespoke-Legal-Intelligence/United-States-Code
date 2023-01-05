@@ -6,7 +6,7 @@ Prohibition.—It shall be unlawful to cause the beam of a laser pointer to stri
 
 (b)
 
-Exceptions.—This section shall not apply to a member or element of the Department ofDefense or Department of Homeland Security acting in an official capacity for the purpose of research, development, operations, testing, or training.
+Exceptions.—This section shall not apply to a member or element of the Department of Defense or Department of Homeland Security acting in an official capacity for the purpose of research, development, operations, testing, or training.
 
 (c)
 

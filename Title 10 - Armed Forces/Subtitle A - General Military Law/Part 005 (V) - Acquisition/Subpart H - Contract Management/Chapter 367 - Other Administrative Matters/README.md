@@ -201,7 +201,7 @@ Report.—Not later than September 30, 2017, and annually thereafter for the nex
 
 &emsp;&emsp;"(D) recommendations for any changes to the acquisition and contracting practices of the Department of Defense and the AbilityOne Commission to improve the delivery of goods and services to the Department of Defense; and
 
-&emsp;&emsp;"(E) recommendations for administrative safeguards to ensure the Department of Defense and the AbilityOne Commission are in compliance with the requirements of the Javits-Wagner-O'Day Act \[see 41 U.S.C. 8501 et seq.\], Federal civil rights law, andregulations and policy related to the performance of contracts of the Department of Defense with qualified nonprofit agencies and the contracts of the AbilityOne Commission with central nonprofit agencies.
+&emsp;&emsp;"(E) recommendations for administrative safeguards to ensure the Department of Defense and the AbilityOne Commission are in compliance with the requirements of the Javits-Wagner-O'Day Act \[see 41 U.S.C. 8501 et seq.\], Federal civil rights law, and regulations and policy related to the performance of contracts of the Department of Defense with qualified nonprofit agencies and the contracts of the AbilityOne Commission with central nonprofit agencies.
 
 "(j)
 
@@ -209,7 +209,7 @@ Sunset.—The Panel shall terminate on the date of submission of the last annual
 
 "(k)
 
-Inapplicability of FACA.—The requirements of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Panel established pursuant to subsection (a).
+Inapplicability of FACA.—The requirements of the Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall not apply to the Panel established pursuant to subsection (a).
 
 "(l)
 

@@ -20,7 +20,7 @@ Administrative Provisions.—(1) An insurance company that issues a policy for p
 
 (d)
 
-Reinsurance.—The Secretary shall arrange with each insurance company issuing any policy for purposes of subsection (a) to reinsure, under conditions approved by the Secretary, portions of the total amount of the insurance under such policy or policies with such other insurance companies (which meet qualifying criteria prescribed by the Secretary) as may elect to participate in such reinsurance.
+Reinsurance.—The Secretary shall arrange with each insurance company issuing any policy for purposes of subsection (a) to reinsure, under conditions approved by the Secretary, portions of the total amount of the insurance under suchpolicy or policies with such other insurance companies (which meet qualifying criteria prescribed by the Secretary) as may elect to participate in such reinsurance.
 
 (e)
 

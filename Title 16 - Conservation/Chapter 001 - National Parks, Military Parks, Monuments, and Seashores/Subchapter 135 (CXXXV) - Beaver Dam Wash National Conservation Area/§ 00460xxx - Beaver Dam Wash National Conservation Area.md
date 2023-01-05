@@ -74,7 +74,7 @@ Subject to valid existing rights, there is established in the State the Beaver D
 
 #### (4) Grazing
 
-&emsp;The grazing of livestock in the National Conservation Area, where established beforeMarch 30, 2009, shall be permitted to continue—
+&emsp;The grazing of livestock in the National Conservation Area, where established before March 30, 2009, shall be permitted to continue—
 
 &emsp;&emsp;(A) subject to—
 

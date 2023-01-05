@@ -86,7 +86,7 @@ The Trade Representative shall publish in the Federal Register a list of foreign
 
 #### (1) In general
 
-&emsp;By no later than the date that is 30 days after the date on which the annual report is submitted to Congressional committees under section 2241(b) of this title, the Trade Representative shall identify any act, policy, or practice of Canada which—
+&emsp;By no later than the date that is 30 days after the date on which the annual report issubmitted to Congressional committees under section 2241(b) of this title, the Trade Representative shall identify any act, policy, or practice of Canada which—
 
 &emsp;&emsp;(A) affects cultural industries,
 
@@ -166,7 +166,7 @@ Not later than 30 days after the date on which the Trade Representative submits 
 
 &emsp;(3) a description of the action plans developed under subsection (g) and any actions taken by foreign countries under such plans.
 
-(Pub. L. 93–618, title I, §182, as added Pub. L. 100–418, title I, §1303(b), Aug. 23, 1988, 102 Stat. 1179; amended Pub. L. 103–182, title V, §513, Dec. 8, 1993, 107 Stat. 2156; Pub. L. 103–465, title III, §313, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(8)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 114–125, title VI, §610(a), (b)(1), Feb. 24, 2016, 130 Stat. 191;Pub. L. 116–113, title V, §506(a), Jan. 29, 2020, 134 Stat. 78.)
+(Pub. L. 93–618, title I, §182, as added Pub. L. 100–418, title I, §1303(b), Aug. 23, 1988, 102 Stat.1179; amended Pub. L. 103–182, title V, §513, Dec. 8, 1993, 107 Stat. 2156; Pub. L. 103–465, title III, §313, Dec. 8, 1994, 108 Stat. 4938; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(8)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 114–125, title VI, §610(a), (b)(1), Feb. 24, 2016, 130 Stat. 191; Pub. L. 116–113, title V, §506(a), Jan. 29, 2020, 134 Stat. 78.)
 
 #### <b>Editorial Notes</b>
 
@@ -240,7 +240,7 @@ Pub. L. 100–418, title I, §1303(a), Aug. 23, 1988, 102 Stat. 1179, provided t
 
 &emsp;"(A) international protection of intellectual property rights is vital to the international competitiveness of United States persons that rely on protection of intellectual property rights; and
 
-&emsp;"(B) the absence of adequate and effective protection of United States intellectual property rights, and the denial of fair and equitable market access, seriously impede the ability of the United States persons that rely on protection of intellectual property rights to export and operate overseas, thereby harming the economic interests of the United States.
+&emsp;"(B) the absence of adequate and effective protection of United States intellectual property rights, and the denial of fair and equitable market access, seriously impede the ability of the United States persons that rely on protection of intellectual propertyrights to export and operate overseas, thereby harming the economic interests of the United States.
 
 "(2) The purpose of this section \[enacting this section and this note\] is to provide for the development of an overall strategy to ensure adequate and effective protection of intellectual property rights and fair and equitable market access for United States persons that rely on protection of intellectual property rights."
 

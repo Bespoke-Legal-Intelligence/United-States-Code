@@ -38,7 +38,7 @@ The period of ineligibility referred to in subsections (a) and (b) shall be susp
 
 &emsp;(B) has otherwise been rehabilitated; or
 
-&emsp;(C) has made a good faith effort to gain admission to a supervised drug rehabilitation program, but is unable to do so because of inaccessibility or unavailability of such a program, or the inability of the individual to pay for such a program.
+&emsp;(C) has made a good faith effort to gain admission to a supervised drug rehabilitationprogram, but is unable to do so because of inaccessibility or unavailability of such a program, or the inability of the individual to pay for such a program.
 
 #### (d) Definitions
 

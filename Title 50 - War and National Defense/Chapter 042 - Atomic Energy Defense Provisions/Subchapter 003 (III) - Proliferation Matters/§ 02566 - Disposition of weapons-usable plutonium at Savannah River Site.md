@@ -44,7 +44,7 @@
 
 (6)(A) Upon making a determination under paragraph (4) or (5), the Secretary shall submit to Congress a report on the options for removing from the State of South Carolina an amount of defense plutonium or defense plutonium materials equal to the amount of defense plutonium or defense plutonium materials transferred to the State of South Carolina after April 15, 2002.
 
-(B) Each report under subparagraph (A) shall include an analysis of each option set forth in the report, including the cost and schedule for implementation of such option, and any requirements under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) relating to consideration or selection of such option.
+(B) Each report under subparagraph (A) shall include an analysis of each option set forth in the report, including the cost and schedule for implementation of such option, and any requirements under the National Environmental PolicyAct of 1969 (42 U.S.C. 4321 et seq.) relating to consideration or selection of such option.
 
 (C) Upon submittal of a report under subparagraph (A), the Secretary shall commence any analysis that may be required under the National Environmental Policy Act of 1969 in order to select among the options set forth in the report.
 
@@ -112,13 +112,13 @@ In this section:
 
 &emsp;The terms "defense plutonium" and "defense plutonium materials" mean weapons-usable plutonium.
 
-(Pub. L. 107–314, div. D, title XLIII, §4306, formerly div. C, title XXXI, §3182, Dec. 2, 2002, 116 Stat. 2747; renumbered div. D, title XLIII, §4306, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(7)(A), Nov. 24, 2003, 117 Stat. 1763; amended Pub. L. 109–103, title III, §313, Nov. 19, 2005, 119 Stat. 2280; Pub. L. 112–239, div. C, title XXXI, §3116, Jan. 2, 2013, 126 Stat. 2172; Pub. L. 113–291, div. C, title XXXI, §3142(f), Dec. 19, 2014, 128 Stat. 3900.)
+(Pub. L. 107–314, div. D, title XLIII, §4306, formerly div. C, title XXXI, §3182, Dec. 2, 2002, 116Stat. 2747; renumbered div. D, title XLIII, §4306, by Pub. L. 108–136, div. C, title XXXI, §3141(f)(7)(A), Nov. 24, 2003, 117 Stat. 1763; amended Pub. L. 109–103, title III, §313, Nov. 19, 2005, 119 Stat. 2280; Pub. L. 112–239, div. C, title XXXI, §3116, Jan. 2, 2013, 126 Stat. 2172; Pub. L. 113–291, div. C, title XXXI, §3142(f), Dec. 19, 2014, 128 Stat. 3900.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (b)(6)(B), (C) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (b)(6)(B), (C) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 

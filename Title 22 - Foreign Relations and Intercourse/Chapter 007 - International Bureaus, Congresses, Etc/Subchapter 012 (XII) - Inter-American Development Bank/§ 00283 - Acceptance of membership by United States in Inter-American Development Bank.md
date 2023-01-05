@@ -12,7 +12,7 @@ Pub. L. 86–147, §1, Aug. 7, 1959, 73 Stat. 299, provided that: "This Act \[en
 
 #### Proposals for Joint Act by Participants in Inter-American Development Bank for Increased Exploration and Exploitation of Energy and Mineral Resources of Western Hemisphere
 
-Pub. L. 96–259, title I, §102, June 3, 1980, 94 Stat. 430, which required Presidential evaluation and report on aproposal for joint action by countries of Western Hemisphere and other countries which participate in Inter-American Development Bank to increase exploration for and exploitation of energy and mineral resources of Western Hemisphere through multilateral incentives, administered by Inter-American Development Bank, was repealed by Pub. L. 101–240, title V, §541(d)(6), Dec. 19, 1989, 103 Stat. 2518.
+Pub. L. 96–259, title I, §102, June 3, 1980, 94 Stat. 430, which required Presidential evaluation and report on a proposal for joint action by countries of Western Hemisphere and other countries which participate in Inter-American Development Bank to increase exploration for and exploitation of energy and mineral resources of Western Hemisphere through multilateral incentives, administered by Inter-American Development Bank, was repealed by Pub. L. 101–240, title V, §541(d)(6), Dec. 19, 1989, 103 Stat. 2518.
 
 #### Par Value Modification
 

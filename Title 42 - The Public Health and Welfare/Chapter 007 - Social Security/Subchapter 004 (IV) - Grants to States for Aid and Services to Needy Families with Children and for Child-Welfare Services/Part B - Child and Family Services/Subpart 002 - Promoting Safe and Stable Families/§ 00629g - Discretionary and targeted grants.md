@@ -2,7 +2,7 @@
 
 #### (a) Limitations on authorization of appropriations
 
-In addition to any amount appropriated pursuant to section 629f of this title, there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2017 through 2021.
+In addition to any amount appropriated pursuant to section 629f of this title, there are authorized to be appropriated to carry out this section $200,000,000 for each of fiscal years 2017 through 2023.
 
 #### (b) Reservation of certain amounts
 
@@ -32,7 +32,7 @@ From the amount (if any) appropriated pursuant to subsection (a) for a fiscal ye
 
 #### (2) Territories
 
-&emsp;From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subection <sup>1</sup> (b) for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
+&emsp;From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subection <sup>1</sup> (b) for thefiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
 
 #### (3) Other States
 
@@ -106,13 +106,13 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (A) In general
 
-&emsp;&emsp;In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2017 through 2021 under section 629f(b)(5) of this title, to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $250,000 and not more than $1,000,000 per grant per fiscal year.
+&emsp;&emsp;In addition to amounts authorized to be appropriated to carry out this section, the Secretary shall award grants under this subsection, from the amounts reserved for each of fiscal years 2017 through 2023 under section 629f(b)(5) of this title, to regional partnerships that satisfy the requirements of this subsection, in amounts that are not less than $250,000 and not more than $1,000,000 per grant per fiscal year.
 
 #### (B) Required minimum period of approval; planning
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A grant shall be awarded under this subsection for a period of not less than 2, and not more than 5, fiscal years, subject to clauses (ii) and (iii).
+&emsp;&emsp;&emsp;A grant shall be awarded under this subsection for a period of not less than 2, andnot more than 5, fiscal years, subject to clauses (ii) and (iii).
 
 #### (ii) Extension of grant
 
@@ -194,7 +194,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (7) Considerations in awarding grants
 
-&emsp;In awarding grants under this subsection, the Secretary shall take into consideration the extent to which applicant regional partnerships—
+&emsp;In awarding grants under this subsection, the Secretary shall take into considerationthe extent to which applicant regional partnerships—
 
 &emsp;&emsp;(A) demonstrate that substance abuse by parents or caretakers has had a substantial impact on the number of out-of-home placements for children, or the number of children who are at risk of being placed in an out-of-home placement, in the partnership region;
 
@@ -228,7 +228,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (i) Semiannual reports
 
-&emsp;&emsp;&emsp;Not later than September 30 of each fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and every 6 months thereafter, the grant recipient shall submit to the Secretary a report on the services providedand activities carried out during the reporting period, progress made in achieving the goals of the program, the number of children, adults, and families receiving services, and such additional information as the Secretary determines is necessary. The report due not later than September 30 of the last such fiscal year shall include, at a minimum, data on each of the performance indicators included in the evaluation of the regional partnership.
+&emsp;&emsp;&emsp;Not later than September 30 of each fiscal year in which a recipient of a grant under this subsection is paid funds under the grant, and every 6 months thereafter, the grant recipient shall submit to the Secretary a report on the services provided and activities carried out during the reporting period, progress made in achieving the goals of the program, the number of children, adults, and families receiving services, and such additional information as the Secretary determines is necessary. The report due not later than September 30 of the last such fiscal year shall include, at a minimum, data on each of the performance indicators included in the evaluation of the regional partnership.
 
 #### (ii) Incorporation of information related to performance indicators
 
@@ -246,7 +246,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (10) Limitation on use of funds for administrative expenses of the Secretary
 
-&emsp;Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection for each of fiscal years 2017 through 2021 may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.
+&emsp;Not more than 5 percent of the amounts appropriated or reserved for awarding grants under this subsection for each of fiscal years 2017 through 2023 may be used by the Secretary for salaries and Department of Health and Human Services administrative expenses in administering this subsection.
 
 #### (g) Funding for the development of an electronic interstate case-processing system to expedite the interstate placement of children in foster care or guardianship, or for adoption
 
@@ -296,7 +296,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 #### (6) Data integration
 
-&emsp;The Secretary, in consultation with the Secretariat for the Interstate Compact on the Placement of Children and the States, shallassess how the electronic interstate case-processing system developed pursuant to paragraph (4) could be used to better serve and protect children that come to the attention of the child welfare system, by—
+&emsp;The Secretary, in consultation with the Secretariat for the Interstate Compact on the Placement of Children and the States, shall assess how the electronic interstate case-processing system developed pursuant to paragraph (4) could be used to better serve and protect children that come to the attention of the child welfare system, by—
 
 &emsp;&emsp;(A) connecting the system with other data systems (such as systems operated by State law enforcement and judicial agencies, systems operated by the Federal Bureau of Investigation for the purposes of the Innocence Lost National Initiative, and other systems);
 
@@ -304,7 +304,7 @@ The rules of subsections (b) and (c) of section 629d of this title shall apply i
 
 &emsp;&emsp;(C) improving the ability of States to quickly comply with background check requirements of section 671(a)(20) of this title, including checks of child abuse and neglect registries as required by section 671(a)(20)(B) of this title.
 
-(Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §§102(a)(2), 103(c)(1), (2), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50722(c), (d), 50723, 50752(b)(2), Feb. 9, 2018, 132 Stat. 246–248, 263.)
+(Aug. 14, 1935, ch. 531, title IV, §437, as added Pub. L. 107–133, title I, §106(b), Jan. 17, 2002, 115 Stat. 2417; amended Pub. L. 109–288, §§3(b), 4(b)(2), 5(a)(2), (b)(2), 6(f)(5), Sept. 28, 2006, 120 Stat. 1234, 1238, 1242, 1243, 1247; Pub. L. 110–234, title IV, §4002(b)(1)(D), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(D), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 112–34, title I, §§102(a)(2), 103(c)(1), (2), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50722(c), (d), 50723, 50752(b)(2), Feb. 9, 2018, 132 Stat. 246–248, 263; Pub. L. 117–328, div. FF, title VI, §6103(b)(2)–(4), Dec. 29, 2022, 136 Stat. 5965.)
 
 #### <b>Editorial Notes</b>
 
@@ -321,6 +321,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 437 of act Aug. 14, 1935, was classified to section 637 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments
+
+<b>2022</b>—Subsecs. (a), (f)(3)(A), (10). Pub. L. 117–328 substituted "2023" for "2021".
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–123, §50752(b)(2), substituted "2017 through 2021" for "2012 through 2016".
 

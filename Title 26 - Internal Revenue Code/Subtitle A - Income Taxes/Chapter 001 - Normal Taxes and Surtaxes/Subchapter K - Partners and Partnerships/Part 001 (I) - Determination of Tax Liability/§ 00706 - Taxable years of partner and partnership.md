@@ -94,7 +94,7 @@ In computing the taxable income of a partner for a taxable year, the inclusions 
 
 #### (B) Allocable cash basis item
 
-&emsp;&emsp;For purposes of this paragraph, the term "allocable cash basis item" means any ofthe following items with respect to which the partnership uses the cash receipts and disbursements method of accounting:
+&emsp;&emsp;For purposes of this paragraph, the term "allocable cash basis item" means any of the following items with respect to which the partnership uses the cash receipts and disbursements method of accounting:
 
 &emsp;&emsp;&emsp;(i) Interest.
 

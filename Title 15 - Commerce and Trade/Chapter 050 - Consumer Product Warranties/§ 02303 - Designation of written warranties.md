@@ -14,7 +14,7 @@ This section and sections 2302 and 2304 of this title shall not apply to stateme
 
 #### (c) Exemptions by Commission
 
-In addition to exercising the authority pertaining to disclosure granted in section 2302 of this title, the Commission may by rule determine when a written warranty does not have tobe designated either "full (statement of duration)" or "limited" in accordance with this section.
+In addition to exercising the authority pertaining to disclosure granted in section 2302 of this title, the Commission may by rule determine when a written warranty does not have to be designated either "full (statement of duration)" or "limited" in accordance with this section.
 
 #### (d) Applicability to consumer products costing more than $10 and not designated as full warranties
 

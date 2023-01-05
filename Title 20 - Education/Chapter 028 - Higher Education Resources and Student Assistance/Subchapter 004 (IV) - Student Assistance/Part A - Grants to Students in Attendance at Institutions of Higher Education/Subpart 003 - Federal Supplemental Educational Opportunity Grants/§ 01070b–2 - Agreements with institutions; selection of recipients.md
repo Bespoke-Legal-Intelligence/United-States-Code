@@ -44,13 +44,13 @@ If the institution's allocation under this subpart is directly or indirectly bas
 
 #### (e) Use and transfer of funds for administrative expenses
 
-An agreement entered into pursuant to this section shall provide that funds granted to an institution of higher education may be used only to make payments to students participating in a grant program authorized under this subpart, except that an institution may use a portion of the sums allocated to it under this subpart to meet administrative expenses in accordance with section 1096 of this title.
+An agreement entered into pursuant to this section shall provide that funds granted to aninstitution of higher education may be used only to make payments to students participating in a grant program authorized under this subpart, except that an institution may use a portion of the sums allocated to it under this subpart to meet administrative expenses in accordance with section 1096 of this title.
 
 (Pub. L. 89–329, title IV, §413C, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1329; amended Pub. L. 102–325, title IV, §403(d)–(f), July 23, 1992, 106 Stat. 506; Pub. L. 103–208, §2(b)(25), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §406(b), Oct. 7, 1998, 112 Stat. 1665; Pub. L. 116–260, div. FF, title VII, §704(2), Dec. 27, 2020, 134 Stat. 3199.)
 
 #### Amendment of Subsection (c)(2)(B)
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(2), Dec. 27, 2020, 134 Stat. 3137, 3199, provided that, effective July 1, 2023, except as oth</i><i>erwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended by striking "expected family contributions" each place the term appears and inserting "student aid indexes". See 2020 Amendment note below.</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(2), Dec. 27, 2020, 134 Stat. 3137, 3199; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended by striking "expected family contributions" each place the term appears and inserting "student aid indexes". See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -84,7 +84,7 @@ Subsec. (e). Pub. L. 102–325, §403(f), struck out before period at end ", an
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 

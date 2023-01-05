@@ -16,7 +16,7 @@ In conducting the program authorized by this section, the Secretary shall—
 
 #### (c) Innovative energy technologies
 
-The Secretary is authorized to evaluate any reasonable new or improved technology, including basic research on highly innovative energy technologies, that could lead or contribute tothe development of economic hydrogen production, storage, and utilization.
+The Secretary is authorized to evaluate any reasonable new or improved technology, including basic research on highly innovative energy technologies, that could lead or contribute to the development of economic hydrogen production, storage, and utilization.
 
 #### (d) Renewable energy systems; hybrid systems
 
@@ -28,7 +28,7 @@ The Secretary is authorized to arrange for tests and demonstrations and to disse
 
 #### (f) Federal funding
 
-The Secretary shall carry out the research and development activities authorized under this section only through the funding of research and development proposals submitted by interested persons according to such procedures as the Secretary may require and evaluate on a competitive basis using peer review. Such funding shall be in the form of a grant agreement, procurement contract, or cooperative agreement (as those terms are used in chapter 63 of title 31).
+The Secretary shall carry out the research and development activities authorized under this section only through the funding of research anddevelopment proposals submitted by interested persons according to such procedures as the Secretary may require and evaluate on a competitive basis using peer review. Such funding shall be in the form of a grant agreement, procurement contract, or cooperative agreement (as those terms are used in chapter 63 of title 31).
 
 #### (g) Non-Federal funding
 

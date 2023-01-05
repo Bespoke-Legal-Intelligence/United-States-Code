@@ -28,7 +28,7 @@ The Committee shall designate as National Geospatial Data Asset data themes the 
 
 &emsp;To assist in fulfilling the responsibilities under paragraph (2) with respect to a National Geospatial Data Asset data theme, the lead covered agencies shall—
 
-&emsp;&emsp;(A) provide leadership and facilitate the development and implementation ofgeospatial data standards for the National Geospatial Data Asset data theme, with a particular emphasis on a data content standard for the National Geospatial Data Asset data theme, including by—
+&emsp;&emsp;(A) provide leadership and facilitate the development and implementation of geospatial data standards for the National Geospatial Data Asset data theme, with a particular emphasis on a data content standard for the National Geospatial Data Asset data theme, including by—
 
 &emsp;&emsp;&emsp;(i) assessing existing standards;
 

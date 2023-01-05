@@ -12,7 +12,7 @@ Delivery of notices.—A notice under paragraph (1) shall be delivered by any fo
 
 (5) If such request is made by such store, concern, or State agency, such information as may be submitted by the store, concern, or State agency, as well as such other information as may be available, shall be reviewed by the person or persons designated by the Secretary, who shall, subject to the right of judicial review hereinafter provided, make a determination which shall be final and which shall take effect thirty days after the date of the delivery or service of such final notice of determination.
 
-(6) Determinations regarding claims made pursuant to section 2025(c) of this title (including determinations as to whether there is good cause for not imposing all or a portion of the penalty) shall be made on the record after opportunity for an agency hearing in accordancewith section <sup>1</sup> 556 and 557 of title 5 in which one or more administrative law judges appointed pursuant to section 3105 of such title shall preside over the taking of evidence.
+(6) Determinations regarding claims made pursuant to section 2025(c) of this title (including determinations as to whether there is good cause for not imposing all or a portion of the penalty) shall be made on the record after opportunity for an agency hearing in accordance with section <sup>1</sup> 556 and 557 of title 5 in which one or more administrative law judges appointed pursuant to section 3105 of such title shall preside over the taking of evidence.
 
 (7) Such judges shall have authority to issue and enforce subpoenas in the manner prescribed in sections <sup>2</sup> 499m(c) and (d) of this title and to appoint expert witnesses under the provisions of Rule 706 of the Federal Rules of Evidence.
 
@@ -64,7 +64,7 @@ Subsec. (b). Pub. L. 110–246, §4002(a)(7), substituted "any allotments" for "
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–193 designated first through seventeenth sentences as pars. (1) to (17), respectively, and added par. (18).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66 inserted "(including determinations as to whether there is good cause fornot imposing all or a portion of the penalty)" after "Determinations regarding claims made pursuant to section 2025(c) of this title" in sixth sentence and struck out at end "Notwithstanding the administrative or judicial review procedures set forth in this subsection, determinations by the Secretary concerning whether a State agency had good cause for its failure to meet error rate tolerance levels established under section 2025(c) of this title are final."
+<b>1993</b>—Subsec. (a). Pub. L. 103–66 inserted "(including determinations as to whether there is good cause for not imposing all or a portion of the penalty)" after "Determinations regarding claims made pursuant to section 2025(c) of this title" in sixth sentence and struck out at end "Notwithstanding the administrative or judicial review procedures set forth in this subsection, determinations by the Secretary concerning whether a State agency had good cause for its failure to meet error rate tolerance levels established under section 2025(c) of this title are final."
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–435 inserted provisions relating to judicial review and determinations regarding excessive payment error rate claims pursuant to section 2025(c) of this title.
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 103–66 effective Oct. 1, 1991, see section 13971(b)(1)(A)
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–435 effective Oct. 1, 1985, with respect to claims under section 2025(c) of this title for quality control review periods after such date, except as otherwise provided, see section 701(b)(5)(C), (D) of Pub. L. 100–435, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 100–435 effective Oct. 1, 1985, with respect to claims under section 2025(c) of this titlefor quality control review periods after such date, except as otherwise provided, see section 701(b)(5)(C), (D) of Pub. L. 100–435, set out as a note under section 2012 of this title.
 
 #### Effective Date of 1982 Amendment
 

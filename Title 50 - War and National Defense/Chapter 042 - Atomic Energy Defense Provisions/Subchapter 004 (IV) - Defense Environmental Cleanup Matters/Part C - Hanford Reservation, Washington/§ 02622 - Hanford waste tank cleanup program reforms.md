@@ -12,7 +12,7 @@ The Secretary of Energy shall establish an office at the Hanford Reservation, Ri
 
 (3)(A) The Assistant Secretary of Energy for Environmental Management shall delegate in writing responsibility for the management of the River Protection Project, Richland, Washington, to the head of the Office.
 
-(B) Such delegation shall include, at a minimum, authorities for contracting, financialmanagement, safety, and general program management that are equivalent to the authorities of managers of other operations offices of the Department of Energy.
+(B) Such delegation shall include, at a minimum, authorities for contracting, financial management, safety, and general program management that are equivalent to the authorities of managers of other operations offices of the Department of Energy.
 
 (C) The head of the Office shall, to the maximum extent possible, coordinate all activities of the Office with the manager of the Richland Operations Office of the Department of Energy.
 

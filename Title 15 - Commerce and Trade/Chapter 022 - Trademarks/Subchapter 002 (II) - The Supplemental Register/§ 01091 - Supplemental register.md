@@ -18,7 +18,7 @@ For the purposes of registration on the supplemental register, a mark may consis
 
 #### References in Text
 
-Paragraph (b) of section 1 of the Act of March 19, 1920, referred to in subsec. (a), is paragraph (b) of section 1 of act Mar. 19, 1920, ch. 104, 41 Stat. 533, which was classified to section 121(b) of this title, and repealed by actJuly 5, 1946, ch. 540, §46(a), 60 Stat. 444, insofar as inconsistent.
+Paragraph (b) of section 1 of the Act of March 19, 1920, referred to in subsec. (a), is paragraph (b) of section 1 of act Mar. 19, 1920, ch. 104, 41 Stat. 533, which was classified to section 121(b) of this title, and repealed by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444, insofar as inconsistent.
 
 #### Prior Provisions
 

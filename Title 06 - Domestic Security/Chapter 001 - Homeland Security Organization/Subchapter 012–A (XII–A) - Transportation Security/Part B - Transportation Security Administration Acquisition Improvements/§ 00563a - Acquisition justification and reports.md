@@ -12,7 +12,7 @@ Before the Administration implements any security-related technology acquisition
 
 &emsp;(4) an analysis of alternative security solutions, including policy or procedure solutions, to determine if the proposed security-related technology acquisition is the most effective and cost-efficient solution based on cost-benefit considerations;
 
-&emsp;(5) an assessment of the potential privacy and civil liberties implications of the proposedacquisition that includes, to the extent practicable, consultation with organizations that advocate for the protection of privacy and civil liberties;
+&emsp;(5) an assessment of the potential privacy and civil liberties implications of the proposed acquisition that includes, to the extent practicable, consultation with organizations that advocate for the protection of privacy and civil liberties;
 
 &emsp;(6) a determination that the proposed acquisition is consistent with fair information practice principles issued by the Privacy Officer of the Department;
 

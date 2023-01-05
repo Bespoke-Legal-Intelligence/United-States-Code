@@ -20,7 +20,7 @@ The Secretary may—
 
 <b>1978</b>—Subsec. (b)(1). Pub. L. 95–613 inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1979, 1980, and 1981.
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–83 in par. (1) substituted provisions authorizing appropriations for fiscal yearsending Sept. 30, 1977 and 1978, for prior such authorization for fiscal year 1977, and in par. (2) prohibited use of funds for administration of this section.
+<b>1977</b>—Subsec. (b). Pub. L. 95–83 in par. (1) substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1977 and 1978, for prior such authorization for fiscal year 1977, and in par. (2) prohibited use of funds for administration of this section.
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–63, §202(c), revised structure of provisions, inserted authorization for Secretary to conduct research, and struck out authority for grants and contracts in research training in specified fields.
 

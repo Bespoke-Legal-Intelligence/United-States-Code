@@ -24,7 +24,7 @@ In this chapter:
 
 #### (6) Convention Area
 
-&emsp;The term "Convention Area" means the waters of the Northwest Atlantic Ocean north of35°00′ N and west of a line extending due north from 35°00′ N and 42°00′ W to 59°00′ N, thence due west to 44°00′ W, and thence due north to the coast of Greenland, and the waters of the Gulf of St. Lawrence, Davis Strait and Baffin Bay south of 78°10′ N.
+&emsp;The term "Convention Area" means the waters of the Northwest Atlantic Ocean north of 35°00′ N and west of a line extending due north from 35°00′ N and 42°00′ W to 59°00′ N, thence due west to 44°00′ W, and thence due north to the coast of Greenland, and the waters of the Gulf of St. Lawrence, Davis Strait and Baffin Bay south of 78°10′ N.
 
 #### (7) Council
 

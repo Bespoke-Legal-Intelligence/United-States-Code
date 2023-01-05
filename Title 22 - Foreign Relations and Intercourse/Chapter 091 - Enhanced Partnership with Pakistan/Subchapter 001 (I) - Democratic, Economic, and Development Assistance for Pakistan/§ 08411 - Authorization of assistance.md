@@ -60,7 +60,7 @@ Activities that may be supported by assistance under subsection (a) include the 
 
 &emsp;(4) To support investments in people, particularly women and children, including—
 
-&emsp;&emsp;(A) promoting modern, public primary and secondary education and vocational and technical training, including programs to assist in the development of modern, nationwide school curriculums for public, private, and religious schools; support for the proper oversight of all educational institutions, including religious schools, as required by Pakistani law; initiatives to enhance access to education and vocational and technical training for women and girls and to increase women's literacy, with a special emphasis on helping girls stay in school; and construction and maintenance of libraries and public schools;
+&emsp;&emsp;(A) promoting modern, public primary and secondary education and vocational and technical training, including programs to assist in the development of modern, nationwide school curriculums for public, private, and religious schools; support for the properoversight of all educational institutions, including religious schools, as required by Pakistani law; initiatives to enhance access to education and vocational and technical training for women and girls and to increase women's literacy, with a special emphasis on helping girls stay in school; and construction and maintenance of libraries and public schools;
 
 &emsp;&emsp;(B) programs relating to higher education to ensure a breadth and consistency of Pakistani graduates, including through public-private partnerships;
 
@@ -118,7 +118,7 @@ For fiscal years 2010 through 2014, the President shall notify the appropriate c
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c)(5), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c)(5), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424,which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -128,7 +128,7 @@ Pub. L. 116–338, Jan. 13, 2021, 134 Stat. 5122, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
-"This Act may be cited as the 'Malala Yousafzai Scholarship Act'."
+"This Act may be cited as the 'Malala Yousafzai Scholarship Act'.
 
 #### "SEC. 2. FINDINGS.
 
@@ -206,7 +206,7 @@ Other scholarships.—The USAID Administrator shall make every effort to award 5
 
 "(c)
 
-Leveraging Investment.—The USAID Administrator shall, to the greatest extent practicable, consult with and leverage investments by the Pakistani private sector and Pakistani diaspora communities in the United States as part of USAID's greater effort to improve the quality of, expand access to, and ensure sustainability of education programs in Pakistan.
+Leveraging Investment.—The USAID Administrator shall, to the greatest extent practicable, consult with and leverage investments by the Pakistani privatesector and Pakistani diaspora communities in the United States as part of USAID's greater effort to improve the quality of, expand access to, and ensure sustainability of education programs in Pakistan.
 
 #### "SEC. 5. ANNUAL CONGRESSIONAL BRIEFING.
 

@@ -40,7 +40,7 @@
 
 (2) Subject to paragraphs (3) and (5)(C) of this subsection, the Secretary shall accord priority to applications in the following order:
 
-&emsp;(A) An application from a State that has made sufficient funds available for the projectfor which the grant is requested so that such project may proceed upon approval of the grant without further action required by the State to make such funds available for such purpose.
+&emsp;(A) An application from a State that has made sufficient funds available for the project for which the grant is requested so that such project may proceed upon approval of the grant without further action required by the State to make such funds available for such purpose.
 
 &emsp;(B) An application from a State for a project at an existing facility to remedy a condition or conditions that have been cited by an accrediting institution, by the Secretary, or by a local licensing or approving body of the State as being threatening to the lives or safety of the patients in the facility.
 
@@ -86,7 +86,7 @@
 
 (f) Any amendment of any application, whether or not approved, shall be subject to approval in the same manner as an original application.
 
-(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5035; amended Pub. L. 89–311, §7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(e), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §§206(b), 210(e)(10), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 95–62, §3(7)–(12), July 5, 1977, 91 Stat. 262, 263; Pub. L. 97–295, §4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, §105(3), Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §205, Dec. 3, 1985, 99 Stat. 953; Pub. L. 99–576, title II, §224(b), (c), Oct. 28, 1986, 100 Stat. 3262, 3263; Pub. L. 100–322, title II, §206, May 20, 1988, 102 Stat. 513; renumbered §8135 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(7), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §§403(a), 404(a), Nov. 4, 1992, 106 Stat. 4954; Pub. L. 103–446, title XII, §1201(d)(18), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–262, title III, §342(b)(3), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title II, §207(b), Nov. 30, 1999, 113 Stat. 1565; Pub. L. 107–217, §3(j)(4), Aug. 21, 2002, 116 Stat. 1300.)
+(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5035; amended Pub. L. 89–311, §7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(e), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §§206(b), 210(e)(10), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 95–62, §3(7)–(12), July 5, 1977, 91 Stat. 262, 263; Pub. L. 97–295, §4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, §105(3), Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §205, Dec. 3, 1985, 99 Stat. 953; Pub. L. 99–576, title II, §224(b), (c), Oct. 28, 1986, 100 Stat. 3262, 3263; Pub. L. 100–322, title II, §206, May 20, 1988, 102 Stat. 513; renumbered §8135 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(7), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §§403(a), 404(a), Nov. 4, 1992, 106 Stat. 4954; Pub. L. 103–446, title XII, §1201(d)(18), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–262, title III,§342(b)(3), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title II, §207(b), Nov. 30, 1999, 113 Stat. 1565; Pub. L. 107–217, §3(j)(4), Aug. 21, 2002, 116 Stat. 1300.)
 
 #### <b>Editorial Notes</b>
 
@@ -152,7 +152,7 @@ Subsec. (d). Pub. L. 99–576, §224(c), struck out par. (1) designation, substi
 
 Subsec. (b). Pub. L. 99–166, §205(b), designated existing provisions as par. (1), redesignated cls. (1) to (4) as (A) to (D), respectively, and added par. (2).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–528, §105(3)(A), inserted "(or acquisition of a facility to be used as a State homefacility)" after "State home facilities" in provisions preceding par. (1).
+<b>1984</b>—Subsec. (a). Pub. L. 98–528, §105(3)(A), inserted "(or acquisition of a facility to be used as a State home facility)" after "State home facilities" in provisions preceding par. (1).
 
 Subsec. (a)(1). Pub. L. 98–528, §105(3)(B), inserted "(or of the estimated cost of facility acquisition and construction)" after "cost of construction".
 
@@ -170,7 +170,7 @@ Subsec. (d)(1). Pub. L. 98–528, §105(3)(H), inserted "(or of the estimated co
 
 <b>1982</b>—Subsecs. (a)(1), (4), (b)(2), (d)(1). Pub. L. 97–295 substituted "percent" for "per centum" wherever appearing.
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–62, §3(7), (8), substituted "State home facilities must submit" for "State home facilities for furnishing nursing home care must submit" in provisions preceding par. (1) and, "to furnish to veterans the level of care for which such application is made and that not more than 25 per centum of the bed occupancy at any one time will consist of patients who are not receiving such level of care as war veterans" for "to furnish nursing home care to veterans and that not more than 10 per centum of the bed occupancy at any one time will consist of patients who are not receiving nursing home care as veterans" in par. (4).
+<b>1977</b>—Subsec. (a). Pub. L. 95–62, §3(7), (8), substituted "State home facilities must submit" for "State home facilities for furnishing nursing home care must submit" in provisions preceding par. (1) and, "to furnish to veterans the level of care for which such application is made and that not more than 25 per centum of the bedoccupancy at any one time will consist of patients who are not receiving such level of care as war veterans" for "to furnish nursing home care to veterans and that not more than 10 per centum of the bed occupancy at any one time will consist of patients who are not receiving nursing home care as veterans" in par. (4).
 
 Subsec. (b)(3). Pub. L. 95–62, §3(9), substituted "reasonable assurances under subsection (a) of this section as the Administrator" for "reasonable assurances as to use, title, financial support, reports and access to records, and payment of prevailing rates of wages, as the Administrator".
 
@@ -232,7 +232,7 @@ Pub. L. 106–117, title II, §207(c), Nov. 30, 1999, 113 Stat. 1566, provided t
 
 &emsp;"(A) the term 'fiscal year 1999 priority one project' means a project on the list of approved projects established by the Secretary on October 29, 1998, under section 8135(b)(4) of title 38, United States Code, as in effect on that date that (pursuant to section 8135(b)(2)(A) of that title) is in the grouping of projects on that list designated as Priority Group 1;
 
-&emsp;"(B) the term 'fiscal year 2000 priority one project' means a project on the list of approved projects established by the Secretary on November 3, 1999, under section 8135(b)(4) of title 38, United States Code, as ineffect on that date that (pursuant to section 8135(b)(2)(A) of that title) is in the grouping of projects on that list designated as Priority Group 1; and
+&emsp;"(B) the term 'fiscal year 2000 priority one project' means a project on the list of approved projects established by the Secretary on November 3, 1999, under section 8135(b)(4) of title 38, United States Code, as in effect on that date that (pursuant to section 8135(b)(2)(A) of that title) is in the grouping of projects on that list designated as Priority Group 1; and
 
 &emsp;"(C) the term 'State home grant program' means the grant program under subchapter III of chapter 81 of title 38, United States Code."
 

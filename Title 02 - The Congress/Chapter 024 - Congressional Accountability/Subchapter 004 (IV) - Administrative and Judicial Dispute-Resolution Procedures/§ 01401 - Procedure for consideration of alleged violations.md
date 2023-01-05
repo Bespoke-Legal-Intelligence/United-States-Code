@@ -22,7 +22,7 @@ Except as otherwise provided, the procedure for consideration of an alleged viol
 
 &emsp;Notwithstanding paragraph (2), (3), or (4) of subsection (a), if the covered employee files such a civil action—
 
-&emsp;&emsp;(A) the preliminary review of the claim by the hearing officer as provided in section1402a of this title shall terminate upon the filing of the action by the covered employee; and
+&emsp;&emsp;(A) the preliminary review of the claim by the hearing officer as provided in section 1402a of this title shall terminate upon the filing of the action by the covered employee; and
 
 &emsp;&emsp;(B) the procedure for consideration of the alleged violation shall not include any further review of the claim by the hearing officer as provided in section 1402a of this title.
 
@@ -36,7 +36,7 @@ Except as otherwise provided, the procedure for consideration of an alleged viol
 
 #### (c) Special rule for Architect of the Capitol and Capitol Police
 
-In the case of an employee of the Office of the Architect of the Capitol or of the Capitol Police, the Office, after receiving a claim filed under section 1402 of this title, may recommend that the employee use the grievance procedures of the Architect of the Capitol or the Capitol Police for resolution of the employee's grievance for a specific period of time. Any deadline in this chapter relating to a claim for which the employee is using the grievance procedures, that has not already passed by the first day of that specific period, shall be stayed during that specific period.
+In the case of an employee of the Office of the Architect of the Capitol or of the Capitol Police, the Office, after receiving a claim filed under section 1402 of this title, may recommend that the employee use the grievance procedures of the Architect of the Capitol or the Capitol Police for resolution of the employee's grievance for a specific period of time. Any deadline in this chapter relating to a claim for which the employee is using the grievance procedures, thathas not already passed by the first day of that specific period, shall be stayed during that specific period.
 
 #### (d) Election of remedies for Library of Congress
 
@@ -84,7 +84,7 @@ Nothing in this chapter may be construed to limit the authority of any individua
 
 Any party in any of the procedures provided under this subchapter, as well as any counsel or other person representing a party in any of such procedures, shall have an obligation to ensure that, to the best of the party's knowledge, information, and belief, as formed after an inquiry which is reasonable under the circumstances, each of the following is correct:
 
-&emsp;(1) No pleading, written motion, or other paper is presented for any improper purpose,such as to harass, cause unnecessary delay, or needlessly increase the cost of resolution of the matter.
+&emsp;(1) No pleading, written motion, or other paper is presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of resolution of the matter.
 
 &emsp;(2) The claims, defenses, and other legal contentions the party advocates are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law.
 

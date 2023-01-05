@@ -23,3 +23,4 @@
 - [&sect; 01724 - Secretarial and delegated States' actions and limitation periods](%C2%A7%2001724%20-%20Secretarial%20and%20delegated%20States%27%20actions%20and%20limitation%20periods.md)
 - [&sect; 01725 - Assessments](%C2%A7%2001725%20-%20Assessments.md)
 - [&sect; 01726 - Alternatives for marginal properties](%C2%A7%2001726%20-%20Alternatives%20for%20marginal%20properties.md)
+- [&sect; 01727 - Royalties on all extracted methane](%C2%A7%2001727%20-%20Royalties%20on%20all%20extracted%20methane.md)

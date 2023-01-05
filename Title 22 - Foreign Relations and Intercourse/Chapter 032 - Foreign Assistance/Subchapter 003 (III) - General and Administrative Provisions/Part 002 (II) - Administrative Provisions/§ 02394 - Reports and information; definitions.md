@@ -36,7 +36,7 @@ In order that the Congress and the American people may be better and more curren
 
 &emsp;(6) the dollar value of all official development assistance, security assistance, international disaster assistance, refugee assistance, and international narcotics control assistance provided by each government of a country which is a member of the Organization for Economic Cooperation and Development or of the Organization of Petroleum Exporting Countries;
 
-&emsp;(7) the percentage which each type of assistance described in paragraph (6) represents of (A) the gross national product of each country referred to in paragraph (6), and (B) the budget of the government of such country, as well as the per capita contribution for each country for each type of assistance described in paragraph (6);
+&emsp;(7) the percentage which each type of assistance described in paragraph (6) represents of\(A) the gross national product of each country referred to in paragraph (6), and (B) the budget of the government of such country, as well as the per capita contribution for each country for each type of assistance described in paragraph (6);
 
 &emsp;(8) the amount of all foreign currencies acquired without payment of dollars on hand of each foreign country as of September 30 of the preceding fiscal year;
 
@@ -64,9 +64,9 @@ For purposes of this section—
 
 The Food for Peace Act, referred to in subsec. (a)(4), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The Export-Import Bank Act of 1945, referred to in subsec. (a)(4), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
+The Export-Import Bank Act of 1945, referred to in subsec. (a)(4), is act July 31, 1945, ch. 341, 59 Stat. 526, which is classified generally to subchapter I (§635 et seq.) of chapter 6A of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
 
-This chapter, referred to in subsecs. (a)(5)(A), (10), (b)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a)(5)(A), (10), (b)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
@@ -84,7 +84,7 @@ Subsec. (a)(1)(B). Pub. L. 97–113, §733(2), struck out "the progress developi
 
 Subsec. (a)(2)(F). Pub. L. 97–113, §733(3), added subpar. (F).
 
-Subsec. (a)(4). Pub. L. 97–113, §733(4), struck out requirement that the report include the status of each loan and each contract of guaranty or insurance theretofore made under this chapter, predecessor Acts, or any Act authorizing international security assistance, with respect to which there remained outstanding any unpaid obligation or potential liability, and the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guarantee in connection with any such procurement,theretofore made under the Arms Export Control Act with respect to which there remained outstanding any unpaid obligation or potential liability.
+Subsec. (a)(4). Pub. L. 97–113, §733(4), struck out requirement that the report include the status of each loan and each contract of guaranty or insurance theretofore made under this chapter, predecessor Acts, or any Act authorizing international security assistance, with respect to which there remained outstanding any unpaid obligation or potential liability, and the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guarantee in connection with any such procurement, theretofore made under the Arms Export Control Act with respect to which there remained outstanding any unpaid obligation or potential liability.
 
 Subsec. (a)(7). Pub. L. 97–113, §733(5), struck out "and" after the semicolon.
 
@@ -160,11 +160,11 @@ Amendment by Pub. L. 90–629 effective July 1, 1968, see section 41 of Pub. L. 
 
 #### Savings Provision
 
-Determinations, authorizations, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of any provisionof former subsec. (g) of this section as continuing in full force and effect until modified by appropriate authority, see section 46 of Pub. L. 90–629, set out as a note under former section 2341 of this title.
+Determinations, authorizations, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of any provision of former subsec. (g) of this section as continuing in full force and effect until modified by appropriate authority, see section 46 of Pub. L. 90–629, set out as a note under former section 2341 of this title.
 
 #### Annual Report on Economic and Social Growth
 
-Pub. L. 104–107, title V, §574, Feb. 12, 1996, 110 Stat. 749, required the President to submit to the appropriate congressional committees an annual report providing a concise overview of the prospects for economic and social growth in countries receiving economic assistance under title II of Pub. L. 104–107, prior to repeal by Pub. L. 107–228, div. A, title VI, §671(2), Sept. 30, 2002, 116 Stat. 1407.
+Pub. L. 104–107, title V, §574, Feb. 12, 1996, 110 Stat. 749, required the President to submit to the appropriate congressional committees an annual report providing a concise overview of the prospects for economic and social growth in countries receiving economic assistance under title II of Pub. L. 104–107, prior to repeal by Pub.L. 107–228, div. A, title VI, §671(2), Sept. 30, 2002, 116 Stat. 1407.
 
 #### Progress Report of Implementation of Immunization and Oral Rehydration Promotion Programs
 

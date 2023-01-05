@@ -20,7 +20,7 @@ The Fair Labor Standards Act of 1938, as amended, referred to in text, is act Ju
 
 The Walsh-Healey and Bacon-Davis Acts, referred to in text, are defined for purposes of this chapter in section 262 of this title.
 
-The effective date of the Fair Labor Standards Amendments of 1974, referred to in subsec. (d), meansMay 1, 1974, except as otherwise specifically provided, under provisions of section 29(a) of Pub. L. 93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
+The effective date of the Fair Labor Standards Amendments of 1974, referred to in subsec. (d), means May 1, 1974, except as otherwise specifically provided, under provisions of section 29(a) of Pub. L. 93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
 
 #### Amendments
 

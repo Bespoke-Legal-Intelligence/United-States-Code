@@ -2,7 +2,7 @@
 
 Authority of any entity established under this chapter shall extend to civil justice matters only to the extent that such civil justice matters bear directly and substantially upon criminal justice matters or are inextricably intertwined with criminal justice matters.
 
-(Pub. L. 90–351, title I, §818, formerly §825, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1214; renumbered §818, Pub. L. 98–473, title II, §609B(f), Oct. 12, 1984, 98 Stat. 2093.)
+(Pub. L. 90–351, title I, §818, formerly §825, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat.1214; renumbered §818, Pub. L. 98–473, title II, §609B(f), Oct. 12, 1984, 98 Stat. 2093.)
 
 #### <b>Editorial Notes</b>
 

@@ -102,7 +102,7 @@ Committee Personnel Matters.—A member of the Committee shall be allowed travel
 
 (i)
 
-Federal Advisory Committee Act Exemption.—Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+Federal Advisory Committee Act Exemption.—Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply to the Committee.
 
 (j)
 
@@ -142,7 +142,7 @@ Definitions.—In this section:
 
 Section 20003 of the Coronavirus Aid, Relief, and Economic Security Act, referred to in subsec. (d)(1)(B), is section 20003 of Pub. L. 116–136, div. B, title X, Mar. 27, 2020, 134 Stat. 585, which is set out as a Definition of "Public Health Emergency" note under section 303 of this title.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 1013 of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -161,4 +161,6 @@ Deadline for Initial Appointments.—Not later than 90 days after the date on wh
 "(d)
 
 Initial Meeting.—Not later than 90 days after the date on which the Secretary establishes the advisory committee required by such section, such advisory committee shall hold its first meeting."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

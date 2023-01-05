@@ -60,7 +60,7 @@
 
 &emsp;(3) prescribe regulations to carry out his functions, powers, and duties under this title.
 
-(Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1035, §3013; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, §901,Nov. 24, 2003, 117 Stat. 1558; Pub. L. 114–328, div. A, title IX, §931(a), Dec. 23, 2016, 130 Stat. 2362; renumbered §7013, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 117–81, div. A, title IX, §901(c), Dec. 27, 2021, 135 Stat. 1868.)
+(Added Pub. L. 99–433, title V, §501(a)(5), Oct. 1, 1986, 100 Stat. 1035, §3013; amended Pub. L. 99–661, div. A, title V, §534, Nov. 14, 1986, 100 Stat. 3873; Pub. L. 108–136, div. A, title IX, §901, Nov. 24, 2003, 117 Stat. 1558; Pub. L. 114–328, div. A, title IX, §931(a), Dec. 23, 2016, 130 Stat. 2362; renumbered §7013, Pub. L. 115–232, div. A, title VIII, §808(a), Aug. 13, 2018, 132 Stat. 1838; Pub. L. 117–81, div. A, title IX, §901(c), Dec. 27, 2021, 135 Stat. 1868.)
 
 #### <b>Editorial Notes</b>
 
@@ -86,6 +86,92 @@ Amendment by Pub. L. 117–81 applicable with respect to appointments made on or
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
+#### Pilot Programs for Tactical Vehicle Safety Data Collection
+
+Pub. L. 117–263, div. A, title III, §389, Dec. 23, 2022, 136 Stat. 2547, provided that:
+
+"(a)
+
+In General.—Not later than October 1, 2023, the Secretary of the Army and the Secretary of the Navy shall each initiate a pilot program to evaluate the utility of using data recorders to monitor, assess, and improve readiness and the safe operation of military tactical vehicles in the Army and the Marine Corps, respectively.
+
+"(b)
+
+Duration.—Each pilot program initiated under subsection (a) shall be carried out for a period of not less than two years.
+
+"(c)
+
+Requirements.—In carrying out a pilot program under this section, the Secretary of the Army and the Secretary of the Navy each shall—
+
+&emsp;"(1) select not fewer than one military installation in the United States under the jurisdiction of the Secretary that contains the necessary forces, equipment, and maneuver training ranges to collect data on drivers and military tactical vehicles during training and routine operation at which to carry out the pilot program;
+
+&emsp;"(2) install data recorders on a sufficient number of each type of military tactical vehicle specified in subsection (d) to gain statistically significant results;
+
+&emsp;"(3) select a data recorder capable of collecting and exporting telemetry data, event data, and driver identification data during operation and accidents;
+
+&emsp;"(4) establish and maintain a data repository for operation and event data captured by the data recorder; and
+
+&emsp;"(5) establish processes to leverage operation and event data to improve individual vehicle operator performance, identify installation hazards that threaten safe vehicle operation, and identify vehicle-type specific operating conditions that increase the risk of accidents or mishaps.
+
+"(d)
+
+Military Tactical Vehicles Specified.—Military tactical vehicles specified in this subsection are the following:
+
+&emsp;"(1) High Mobility Multipurpose Wheeled Vehicles.
+
+&emsp;"(2) Family of Medium Tactical Vehicles.
+
+&emsp;"(3) Medium Tactical Vehicle Replacements.
+
+&emsp;"(4) Heavy Expanded Mobility Tactical Trucks.
+
+&emsp;"(5) Light Armored Vehicles.
+
+&emsp;"(6) Stryker armored combat vehicles.
+
+&emsp;"(7) Such other military tactical vehicles as the Secretary of the Army or the Secretary of the Navy considers appropriate.
+
+"(e)
+
+Cyber Risk Exemption.—The Secretary of the Army or the Secretary of the Navy, as the case may be, may exempt from a pilot program under this section a military tactical vehicle specified under subsection (d) if that Secretary submits to the Committees on Armed Services of the House of Representatives and the Senate a certification that, with respect to inclusion of the military tactical vehicle, there is a high potential of cyber risk as a result of the absence of a cross-domain solution capable of segregating classified and unclassified data.
+
+"(f)
+
+Implementation Plan.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of the Army and the Secretary of the Navy shall each—
+
+&emsp;"(1) develop plans for implementing the pilot programs under this section; and
+
+&emsp;"(2) provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on those plans and the estimated cost of implementing those plans.
+
+"(g)
+
+Report Required.—Not later than December 15, 2024, the Secretary of the Army and the Secretary of the Navy shall each submit to the congressional defense committees a report on the respective pilot programs carried out under this section by the Secretaries, including—
+
+&emsp;"(1) insights and findings regarding the utility of using data recorders to monitor, assess, and improve readiness and the safe operation of military tactical vehicles;
+
+&emsp;"(2) adjustments made, or to be made, to the implementation plans developed under subsection (f); and
+
+&emsp;"(3) any other matters determined appropriate by the Secretaries.
+
+"(h)
+
+Assessment Required.—Not later than December 15, 2025, the Secretary of the Army and the Secretary of the Navy shall jointly submit to the congressional defense committees an assessment of the pilot programs carried out under this section, including—
+
+&emsp;"(1) insights and findings regarding the utility of using data recorders to monitor, assess, and improve readiness and the safe operation of military tactical vehicles;
+
+&emsp;"(2) an assessment of the utility of establishing an enduring program to use data recorders to monitor, assess, and improve readiness and the safe operation of military tactical vehicles;
+
+&emsp;"(3) an assessment of the scope, size, and estimated cost of such an enduring program; and
+
+&emsp;"(4) such other matters as the Secretary of the Army and the Secretary of the Navy determine appropriate."
+
+#### Gender-Neutral Fitness Physical Readiness Standards for Military Occupational Specialties of the Army
+
+Pub. L. 117–263, div. A, title V, §528, Dec. 23, 2022, 136 Stat. 2572, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of the Army shall—
+
+&emsp;"(1) establish gender-neutral physical readiness standards that ensure soldiers can perform the duties of their respective military occupational specialties; and
+
+&emsp;"(2) provide to the Committees on Armed Services of the Senate and House of Representatives a briefing describing the methodology used to determine the standards established under paragraph (1)."
+
 #### Access to Tour of Duty System
 
 Pub. L. 117–81, div. A, title V, §513, Dec. 27, 2021, 135 Stat. 1683, provided that:
@@ -104,7 +190,7 @@ Exception.—The Secretary of the Army may restrict access to the Tour of Duty s
 
 "(b)
 
-Tour of Duty System Defined.—In this Act \[Pub. L. 117–81, see Tables for classification\], the term 'Tour of Duty system' means the online system of listings for opportunities to serve on active duty for members of the reserve components of the Army and through which such a member may apply for such an opportunity, known as 'Tour of Duty', or any successor to such system."
+Tour of Duty System Defined.—In this Act \[Pub. L. 117–81, see Tables for classification\], the term 'Tour of Duty system' means the online system of listings for opportunities to serve on active duty for members of the reserve components of the Army andthrough which such a member may apply for such an opportunity, known as 'Tour of Duty', or any successor to such system."
 
 #### Pilot Program on Use of Retired Senior Enlisted Members of the Army National Guard as Army National Guard Recruiters
 
@@ -214,7 +300,7 @@ Elements of the Program.—The Global Cultural Knowledge Network shall include t
 
 "(d)
 
-Directive Required.—The Secretary of the Army shall issue a directive within one year after the date of the enactment of this Act \[Dec. 23, 2016\] for the governance of the Global Cultural Knowledge Network, including oversight and process controls for auditing the activities of personnel of the Network, the employment of the Global Cultural Knowledge Network by operational forces, and processes for requesting support by operational Army units and other Department of Defense and Federal entities.
+Directive Required.—The Secretary of the Army shall issue a directive within one year after the date of the enactment of this Act \[Dec. 23, 2016\] for the governance of the Global Cultural Knowledge Network,including oversight and process controls for auditing the activities of personnel of the Network, the employment of the Global Cultural Knowledge Network by operational forces, and processes for requesting support by operational Army units and other Department of Defense and Federal entities.
 
 "(e)
 
@@ -326,7 +412,7 @@ Report.—Not later than 180 days after the date on which the Secretary of the A
 
 #### Army Transformation to Brigade Structure
 
-Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: "The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated force has been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated."
+Pub. L. 108–375, div. A, title V, §595(c), Oct. 28, 2004, 118 Stat. 1937, provided that: "The Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives an annual report on the status of the internal transformation of the Army from a division-orientated force to a brigade-orientated force. Such report shall be submitted not later than March 31 of each year, except that the requirement to submit such annual report shall terminate when the Secretary of the Army submits to those committees the Secretary's certification that the transformation of the Army to a brigade-orientated forcehas been completed. Upon the submission of such certification, the Secretary shall publish in the Federal Register notice of that certification and that the statutory requirement to submit an annual report under this subsection has terminated."
 
 #### Demonstration Project for Use of Army Installations To Provide Prerelease Employment Training to Nonviolent Offenders in State Penal Systems
 
@@ -370,5 +456,5 @@ Report.—Not later than two years after the date of the enactment of this Act \
 
 #### Order of Succession
 
-For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, listed ina table under section 3345 of Title 5, Government Organization and Employees.
+For order of succession in event of death, permanent disability, or resignation of Secretary of the Army, see Ex. Ord. No. 12908, Apr. 22, 1994, 59 F.R. 21907, listed in a table under section 3345 of Title 5, Government Organization and Employees.
 

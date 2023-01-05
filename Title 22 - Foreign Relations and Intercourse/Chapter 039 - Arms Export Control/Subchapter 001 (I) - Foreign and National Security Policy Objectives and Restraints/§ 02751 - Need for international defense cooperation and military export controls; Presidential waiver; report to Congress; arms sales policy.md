@@ -4,9 +4,9 @@ As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 
 
 The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
 
-Accordingly, it remains the policy of the United States to facilitate the common defenseby entering into international arrangements with friendly countries which further the objective of applying agreed resources of each country to programs and projects of cooperative exchange of data, research, development, production, procurement, and logistics support to achieve specific national defense requirements and objectives of mutual concern. To this end, this chapter authorizes sales by the United States Government to friendly countries having sufficient wealth to maintain and equip their own military forces at adequate strength, or to assume progressively larger shares of the costs thereof, without undue burden to their economies, in accordance with the restraints and control measures specified herein and in furtherance of the security objectives of the United States and of the purposes and principles of the United Nations Charter.
+Accordingly, it remains the policy of the United States to facilitate the common defense by entering into international arrangements with friendly countries which further the objective of applying agreed resources of each country to programs and projects of cooperative exchange of data, research, development, production, procurement, and logistics support to achieve specific national defense requirements and objectives of mutual concern. To this end, this chapter authorizes sales by the United States Government to friendly countries having sufficient wealth to maintain and equip their own military forces at adequate strength, or to assume progressively larger shares of the costs thereof, without undue burden to their economies, in accordance with the restraints and control measures specified herein and in furtherance of the security objectives of the United States and of the purposes and principles of the United Nations Charter.
 
-It is the sense of the Congress that all such sales be approved only when they are consistent with the foreign policy interests of the United States, the purposes of the foreign assistance program of the United States as embodied in the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], the extent and character of the military requirement, and the economic and financial capability of the recipient country, with particular regard being given, where appropriate, to proper balance among such sales, grant military assistance, and economic assistance as well as to the impact of the sales on programs of social and economic development and on existing or incipient arms races.
+It is the sense of the Congress that all such sales be approved only when they are consistent with the foreign policy interests of the United States, the purposes of the foreign assistance program of the United States as embodied in the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], the extent and character of the military requirement, and the economic and financial capability of the recipient country,with particular regard being given, where appropriate, to proper balance among such sales, grant military assistance, and economic assistance as well as to the impact of the sales on programs of social and economic development and on existing or incipient arms races.
 
 It shall be the policy of the United States to exert leadership in the world community to bring about arrangements for reducing the international trade in implements of war and to lessen the danger of outbreak of regional conflict and the burdens of armaments. United States programs for or procedures governing the export, sale, and grant of defense articles and defense services to foreign countries and international organizations shall be administered in a manner which will carry out this policy.
 
@@ -28,11 +28,11 @@ It is the sense of the Congress that the President maintain adherence to a polic
 
 #### References in Text
 
-The Arms Control and Disarmament Act, referred to in text, is Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, as amended, which is classified generally to chapter 35 (§2551 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2551 of this title, and Tables.
+The Arms Control and Disarmament Act, referred to in text, is Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, which is classified generally to chapter 35 (§2551 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2551 of this title, and Tables.
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Foreign Assistance Act of 1961, as amended, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, as amended, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -54,7 +54,7 @@ Pub. L. 94–329, title II, §201(b), June 30, 1976, 90 Stat. 734, provided that
 
 #### References to Present Instead of Past Provisions; Specific Application of Other Provisions to This Chapter
 
-Pub. L. 90–629, ch. 4, §45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: "References in law to the provisions of law repealed by subsection (a) of this section \[repealing sections 2341 to 2343, 2344(b)(3), 2345, 2394(g), and 2399a of this title\] shall hereafter \[on and after Oct. 22, 1968\] be deemed to be references to this Act \[this chapter\] or appropriate provisions of this Act. Except for the laws specified in section 44 \[section 2793 of this title\], no other provision of law shall be deemed to apply to this Act unless it refers specifically to this Act or refers generally to sales of defense articles and defense services under any Act."
+Pub. L. 90–629, ch. 4, §45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: "References in law to the provisions of law repealed by subsection (a) of this section \[repealing sections 2341 to 2343, 2344(b)(3), 2345, 2394(g), and 2399a of this title\] shall hereafter \[on and after Oct. 22, 1968\] be deemed to be references to this Act \[this chapter\] or appropriate provisions of this Act. Except for the laws specified in section 44 \[section 2793 of this title\], no other provision of law shall be deemed to apply to thisAct unless it refers specifically to this Act or refers generally to sales of defense articles and defense services under any Act."
 
 #### Effective Date
 
@@ -148,7 +148,7 @@ In general.—The Secretary of Defense and Secretary of State should jointly tak
 
 &emsp;&emsp;"(D) strengthen the effectiveness of the U.S.-India Defense Trade and Technology Initiative and the durability of the Department of Defense's 'India Rapid Reaction Cell';
 
-&emsp;&emsp;"(E) collaborate with the Government of India to develop mutually agreeable mechanisms to verify the security of defense articles, defense services, and related technology, such as appropriate cyber security and end use monitoring arrangements, consistent with United States export control laws and policy, and to advance the Communications Interoperability and Security Memorandum of Agreement and The Basic Exchange and Cooperation Agreement for Geospatial Cooperation;
+&emsp;&emsp;"(E) collaborate with the Government of India to develop mutually agreeable mechanisms to verify the security of defense articles, defense services,and related technology, such as appropriate cyber security and end use monitoring arrangements, consistent with United States export control laws and policy, and to advance the Communications Interoperability and Security Memorandum of Agreement and The Basic Exchange and Cooperation Agreement for Geospatial Cooperation;
 
 &emsp;&emsp;"(F) promote policies that will encourage the efficient review and authorization of defense sales and exports to India;
 
@@ -358,7 +358,7 @@ Review.—The President shall periodically review the items subject to the regis
 
 &emsp;"(2)
 
-Exemption.—The President may exempt an item from the registration and monitoring requirements under subsection (c) beginning on the date that is 30 days after the date on which the President provides notice of the proposed exemption to thespecified congressional committees in accordance with the procedures applicable to reprogramming notifications under section 634A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–1(a)). Such notice shall describe any controls to be imposed on such item under any other provision of law.
+Exemption.—The President may exempt an item from the registration and monitoring requirements under subsection (c) beginning on the date that is 30 days after the date on which the President provides notice of the proposed exemption to the specified congressional committees in accordance with the procedures applicable to reprogramming notifications under section 634A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–1(a)). Such notice shall describe any controls to be imposed on such item under any other provision of law.
 
 "(e)
 
@@ -520,7 +520,7 @@ Airworthiness Certification of Missile Defense Systems for Commercial Aircraft.�
 
 &emsp;"(1)
 
-In general.—As soon as practicable, but not later than the date of completion of Phase II of the Department of Homeland Security's counter-man-portable air defense system (MANPADS) development and demonstration program, the Administrator of the Federal Aviation Administration shall establish a process for conducting airworthiness and safety certification of missile defense systems for commercial aircraft certified as effective and functional by the Department of Homeland Security. The process shall require a certification by the Administrator that such systems can be safely integrated into aircraft systems and ensure airworthiness and aircraft system integrity.
+In general.—As soon as practicable, but not later than the date of completion of Phase II of the Department of Homeland Security's counter-man-portable air defense system (MANPADS) development and demonstration program, the Administrator of theFederal Aviation Administration shall establish a process for conducting airworthiness and safety certification of missile defense systems for commercial aircraft certified as effective and functional by the Department of Homeland Security. The process shall require a certification by the Administrator that such systems can be safely integrated into aircraft systems and ensure airworthiness and aircraft system integrity.
 
 &emsp;"(2)
 
@@ -606,7 +606,7 @@ Policy.—It is the policy of Congress that bilateral exchanges and trade in def
 
 "(b)
 
-Requirement.—The Secretary of State shall ensure that any license application submitted for the export of defense articles or defense services to Australiaor the United Kingdom is expeditiously processed by the Department of State, in consultation with the Department of Defense, without referral to any other Federal department or agency, except where the item is classified or exceptional circumstances apply.
+Requirement.—The Secretary of State shall ensure that any license application submitted for the export of defense articles or defense services to Australia or the United Kingdom is expeditiously processed by the Department of State, in consultation with the Department of Defense, without referral to any other Federal department or agency, except where the item is classified or exceptional circumstances apply.
 
 "(c)
 
@@ -932,7 +932,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Delegation of Functions</i>. The following functions conferred upon the President by the Act, and related laws, are delegated as follows:
 
-(a) Those under section 3 of the Act (22 U.S.C. 2753), with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) (22 U.S.C. 2753(a)(1), (b), (c)(3), (c)(4), and (f)), to the Secretary of State. The Secretary of State, in the implementation of the delegated functions under sections 3(a) and (d) of the Act (22 U.S.C. 2753(a) and\(d)), is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under section 3(a)(1) of the Act (22 U.S.C. 2753(a)(1)), whether the proposed transfer will strengthen the security of the United States and promote world peace.
+(a) Those under section 3 of the Act (22 U.S.C. 2753), with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) (22 U.S.C. 2753(a)(1), (b), (c)(3), (c)(4), and (f)), to the Secretary of State. The Secretary of State, in the implementation of the delegated functions under sections 3(a) and (d) of the Act (22 U.S.C. 2753(a) and (d)), is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under section 3(a)(1) of the Act (22 U.S.C. 2753(a)(1)), whether the proposed transfer will strengthen the security of the United States and promote world peace.
 
 (b) Those under section 5 (22 U.S.C. 2755) to the Secretary of State.
 

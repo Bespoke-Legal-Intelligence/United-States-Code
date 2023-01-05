@@ -8,7 +8,7 @@ Regular Members.—A regular enlisted member who is selected to be involuntarily
 
 Reserve Members in Active Status.—A reserve enlisted member serving in an active status who is selected to be involuntarily separated (other than for physical disability or for cause), or whose term of enlistment expires and who is denied reenlistment (other than for physical disability or for cause), and who on the date on which the member is to be discharged or transferred from an active status is entitled to be credited with at least 18 but less than 20 years of service computed under section 12732 of this title, may not be discharged, denied reenlistment, or transferred from an active status without the member's consent before the earlier of the following:
 
-&emsp;(1) If as of the date on which the member is to be discharged or transferred from an active status the member has at least 18, but less than 19, years of service computed under section 12732 of this title—
+&emsp;(1) If as of the date on which the member is to be discharged or transferred from an active status the member has at least 18, but lessthan 19, years of service computed under section 12732 of this title—
 
 &emsp;&emsp;(A) the date on which the member is entitled to be credited with 20 years of service computed under section 12732 of this title; or
 
@@ -30,7 +30,7 @@ Reserve Members in Active Status.—A reserve enlisted member serving in an acti
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted "section 12732" for "section 1332" wherever appearing.
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–160 added subsec. (b) and struck out heading and text of former subsec. (b) which provided that a reserve enlisted member serving on active duty who was selected to be involuntarily separated, or whose term of enlistment expired and who wasdenied reenlistment, and who on the date on which the member was to be discharged or released from active duty was entitled to be credited with at least 18 but less than 20 years of service computed under section 1332 of this title, could not be discharged or released from active duty without the member's consent before the earlier of certain dates.
+<b>1993</b>—Subsec. (b). Pub. L. 103–160 added subsec. (b) and struck out heading and text of former subsec. (b) which provided that a reserve enlisted member serving on active duty who was selected to be involuntarily separated, or whose term of enlistment expired and who was denied reenlistment, and who on the date on which the member was to be discharged or released from active duty was entitled to be credited with at least 18 but less than 20 years of service computed under section 1332 of this title, could not be discharged or released from active duty without the member's consent before the earlier of certain dates.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

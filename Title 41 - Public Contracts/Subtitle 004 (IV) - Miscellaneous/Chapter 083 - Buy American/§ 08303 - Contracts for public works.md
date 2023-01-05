@@ -102,7 +102,7 @@ Subsec. (b)(3). Pub. L. 117–58, §70922(e)(2)(A)(i), (iii), in heading, substi
 
 Subsec. (c). Pub. L. 117–58, §70922(b)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 117–58, §70922(b)(1), (e)(2)(B), redesignated subsec. (c) as (d) and substituted "Federalagency" for "department, bureau, agency, or independent establishment" in two places.
+Subsec. (d). Pub. L. 117–58, §70922(b)(1), (e)(2)(B), redesignated subsec. (c) as (d) and substituted "Federal agency" for "department, bureau, agency, or independent establishment" in two places.
 
 #### <b>Executive Documents</b>
 

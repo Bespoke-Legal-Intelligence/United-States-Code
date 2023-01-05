@@ -46,7 +46,7 @@ The words "for all purposes" and "to the contrary", in each source credit; "by t
 
 #### Effective Date of 2019 Amendment
 
-Amendment by Pub. L. 116–92 applicable to any claim filed under section 2733a of this title, on or after Jan. 1, 2020, and any claim filed in calendar year 2020 deemed to be filed within the time period specified in section2733a(b)(4) of this title if it is filed within three years after it accrues, see section 731(d) of Pub. L. 116–92, set out as an Effective Date note under section 2733a of this title.
+Amendment by Pub. L. 116–92 applicable to any claim filed under section 2733a of this title, on or after Jan. 1, 2020, and any claim filed in calendar year 2020 deemed to be filed within the time period specified in section 2733a(b)(4) of this title if it is filed within three years after it accrues, see section 731(d) of Pub. L. 116–92, set out as an Effective Date note under section 2733a of this title.
 
 #### Effective Date of 1964 Amendment
 
@@ -54,5 +54,5 @@ Pub. L. 88–558, §5, Aug. 31, 1964, 78 Stat. 768, provided that the amendment 
 
 #### Repeals
 
-The directory language of, but not the amendment made by, Pub. L. 88–558, Aug. 31, 1964, 78 Stat. 767, cited as a credit to this section and in the Effective Date of 1964 Amendment note above, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
+The directory language of, but not the amendment made by, Pub. L. 88–558, Aug. 31, 1964, 78 Stat. 767, cited as a credit to this section and in the Effective Date of1964 Amendment note above, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.
 

@@ -44,7 +44,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 &emsp;The drug—
 
-&emsp;&emsp;(A) is not identified (directly or as part of a category of drugs) on a list published by the Secretary, through the process described in subsection (c), of drugs or categories of drugs that present demonstrable difficulties for compounding that are reasonably likelyto lead to an adverse effect on the safety or effectiveness of the drug or category of drugs, taking into account the risks and benefits to patients; or
+&emsp;&emsp;(A) is not identified (directly or as part of a category of drugs) on a list published by the Secretary, through the process described in subsection (c), of drugs or categories of drugs that present demonstrable difficulties for compounding that are reasonably likely to lead to an adverse effect on the safety or effectiveness of the drug or category of drugs, taking into account the risks and benefits to patients; or
 
 &emsp;&emsp;(B) is compounded in accordance with all applicable conditions identified on the list described in subparagraph (A) as conditions that are necessary to prevent the drug or category of drugs from presenting the demonstrable difficulties described in subparagraph (A).
 
@@ -136,7 +136,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (A) In general
 
-&emsp;&emsp;Upon initially registering as an outsourcing facility, once during the monthof June of each year, and once during the month of December of each year, each outsourcing facility that registers with the Secretary under paragraph (1) shall submit to the Secretary a report—
+&emsp;&emsp;Upon initially registering as an outsourcing facility, once during the month of June of each year, and once during the month of December of each year, each outsourcing facility that registers with the Secretary under paragraph (1) shall submit to the Secretary a report—
 
 &emsp;&emsp;&emsp;(i) identifying the drugs compounded by such outsourcing facility during the previous 6-month period; and
 
@@ -186,7 +186,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (5) Adverse event reporting
 
-&emsp;Outsourcing facilities shall submit adverse event reports to the Secretary in accordance with the content and format requirements established through guidance or regulation under section 310.305 of title 21, Code of Federal Regulations (or any successor regulations).
+&emsp;Outsourcing facilities shall submit adverse event reports to the Secretary in accordancewith the content and format requirements established through guidance or regulation under section 310.305 of title 21, Code of Federal Regulations (or any successor regulations).
 
 #### (c) Regulations
 
@@ -220,7 +220,7 @@ Sections 352(f)(1), 355, and 360eee–1 of this title shall not apply to a drug 
 
 #### (4) Updates
 
-&emsp;The Secretary shall review, and update as necessary, the regulations containing the listsof drugs, categories of drugs, or conditions described in subsection (a)(6) regularly, but not less than once every 4 years. Nothing in the previous sentence prohibits submissions to the Secretary, before or during any 4-year period described in such sentence, requesting updates to such lists.
+&emsp;The Secretary shall review, and update as necessary, the regulations containing the lists of drugs, categories of drugs, or conditions described in subsection (a)(6) regularly, but not less than once every 4 years. Nothing in the previous sentence prohibits submissions to the Secretary, before or during any 4-year period described in such sentence, requesting updates to such lists.
 
 #### (d) <sup>2</sup> Definitions
 

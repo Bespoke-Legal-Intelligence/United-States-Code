@@ -48,7 +48,7 @@ Brief summary report.—Not later than 15 days after granting Milestone A approv
 
 &emsp;&emsp;&emsp;(ii) the planned dates for each program milestone and initial operational capability.
 
-&emsp;&emsp;(C) The independent estimated cost for the program established pursuant to section3221(b)(6) of this title, and any independent estimated schedule for the program, including—
+&emsp;&emsp;(C) The independent estimated cost for the program established pursuant to section 3221(b)(6) of this title, and any independent estimated schedule for the program, including—
 
 &emsp;&emsp;&emsp;(i) as assessment of the major contributors to the program acquisition unit cost and total life-cycle cost; and
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title III, §322(f), Jan. 2, 2013, 126 Stat. 1695, provided that: "This section \[enacting sections 2460 and 2464 of this title, amending this section and sections 2366b, 2460, and 2464 of this title, repealing sections 2460 and 2464 of this title, and amending provisions set out as a note under this section\] and the amendments made by this section shall take effect on December 31, 2011, the date of the enactment of the National Defense Authorization Act for Fiscal Year2012 \[Pub. L. 112–81\], immediately after the enactment of that Act."
+Pub. L. 112–239, div. A, title III, §322(f), Jan. 2, 2013, 126 Stat. 1695, provided that: "This section \[enacting sections 2460 and 2464 of this title, amending this section and sections 2366b, 2460, and 2464 of this title, repealing sections 2460 and 2464 of this title, and amending provisions set out as a note under this section\] and the amendments made by this section shall take effect on December 31, 2011, the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012 \[Pub. L. 112–81\], immediately after the enactment of that Act."
 
 Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(10) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 

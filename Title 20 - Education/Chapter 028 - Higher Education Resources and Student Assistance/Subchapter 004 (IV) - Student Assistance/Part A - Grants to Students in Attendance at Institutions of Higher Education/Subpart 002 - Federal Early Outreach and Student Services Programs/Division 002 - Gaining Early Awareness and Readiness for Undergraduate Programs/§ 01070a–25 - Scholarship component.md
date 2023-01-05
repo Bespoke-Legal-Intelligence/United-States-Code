@@ -118,7 +118,7 @@ Pub. L. 110–315, title IV, §404(i), as added by Pub. L. 111–39, title IV, �
 
 "(1)
 
-In general.—The amendments made by subsection (e) \[amending this section\] shall apply to grants made under chapter 2 of subpart 2 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a–21 et seq.) on or after the date of enactment of this Act \[Aug. 14, 2008\], except that a recipient of a grant under such chapter that is made prior to such date may elect to apply the requirements contained inthe amendments made by subsection (e) to that grant if the grant recipient informs the Secretary of the election.
+In general.—The amendments made by subsection (e) \[amending this section\] shall apply to grants made under chapter 2 of subpart 2 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a–21 et seq.) on or after the date of enactment of this Act \[Aug. 14, 2008\], except that a recipient of a grant under such chapter that is made prior to such date may elect to apply the requirements contained in the amendments made by subsection (e) to that grant if the grant recipient informs the Secretary of the election.
 
 "(2)
 

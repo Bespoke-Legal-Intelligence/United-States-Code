@@ -60,7 +60,7 @@
 
 Pub. L. 103–322, §330016(1)(H), substituted "shall be fined under this title" for "shall be fined not more than $1,000" before ", or imprisoned not more than one year" in concluding provisions.
 
-Pub. L. 103–322, §320103(c)(4)–(6), in concluding provisions, inserted "from the acts committed in violationof this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill," after "death results" and substituted "shall be fined under this title or imprisoned for any term of years or for life, or both" for "shall be subject to imprisonment for any term of years or for life".
+Pub. L. 103–322, §320103(c)(4)–(6), in concluding provisions, inserted "from the acts committed in violation of this section or if such acts include kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill," after "death results" and substituted "shall be fined under this title or imprisoned for any term of years or for life, or both" for "shall be subject to imprisonment for any term of years or for life".
 
 Pub. L. 103–322, §320103(c)(3), which provided for amendment identical to Pub. L. 103–322, §330016(1)(L), above, was repealed by Pub. L. 104–294, §604(b)(14)(C).
 

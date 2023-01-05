@@ -10,7 +10,7 @@ Subject to the authority, direction, and control of the Secretary of Defense, th
 
 <b>2019</b>—Pub. L. 116–92 substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics" in section catchline and in text.
 
-<b>2001</b>—Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for"Under Secretary of Defense for Acquisition and Technology" in section catchline and in text.
+<b>2001</b>—Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology" in section catchline and in text.
 
 <b>1998</b>—Pub. L. 105–261 inserted at end "The Under Secretary shall prescribe policies and requirements for the educational programs of the defense acquisition university structure established under section 1746 of this title."
 

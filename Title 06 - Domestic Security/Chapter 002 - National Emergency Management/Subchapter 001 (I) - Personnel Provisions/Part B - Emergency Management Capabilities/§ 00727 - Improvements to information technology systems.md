@@ -2,7 +2,7 @@
 
 #### (a) Measures to improve information technology systems
 
-The Administrator, in coordination with the Chief Information Officer of the Department,shall take appropriate measures to update and improve the information technology systems of the Agency, including measures to—
+The Administrator, in coordination with the Chief Information Officer of the Department, shall take appropriate measures to update and improve the information technology systems of the Agency, including measures to—
 
 &emsp;(1) ensure that the multiple information technology systems of the Agency (including the National Emergency Management Information System, the Logistics Information Management System III, and the Automated Deployment Database) are, to the extent practicable, fully compatible and can share and access information, as appropriate, from each other;
 

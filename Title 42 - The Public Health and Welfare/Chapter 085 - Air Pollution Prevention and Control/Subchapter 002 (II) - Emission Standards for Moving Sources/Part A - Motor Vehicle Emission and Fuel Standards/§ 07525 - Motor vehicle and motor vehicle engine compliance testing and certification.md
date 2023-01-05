@@ -20,7 +20,7 @@
 
 &emsp;(ii) the manufacturer of the exempted specially produced motor vehicle installs the engine in accordance with such instructions and certifies such installation in accordance with subparagraph (E);
 
-&emsp;(iii) the installation instructions include emission control warranty information from the engine manufacturer in compliance with section 7541 of this title, including where warranty repairs can be made, emission control labels to be affixed to the vehicle, and the certificate of conformity number for the applicable vehicle in which the engine was originally intended or the applicable Executive order number for the engine; and
+&emsp;(iii) the installation instructions include emission control warranty information from the engine manufacturer in compliance withsection 7541 of this title, including where warranty repairs can be made, emission control labels to be affixed to the vehicle, and the certificate of conformity number for the applicable vehicle in which the engine was originally intended or the applicable Executive order number for the engine; and
 
 &emsp;(iv) the manufacturer of the exempted specially produced motor vehicle does not produce more than 325 such vehicles in the calendar year in which the vehicle is produced.
 
@@ -66,7 +66,7 @@
 
 (1) In order to determine whether new motor vehicles or new motor vehicle engines being manufactured by a manufacturer do in fact conform with the regulations with respect to which the certificate of conformity was issued, the Administrator is authorized to test such vehicles or engines. Such tests may be conducted by the Administrator directly or, in accordance with conditions specified by the Administrator, by the manufacturer.
 
-(2)(A)(i) If, based on tests conducted under paragraph (1) on a sample of new vehicles or engines covered by a certificate of conformity, theAdministrator determines that all or part of the vehicles or engines so covered do not conform with the regulations with respect to which the certificate of conformity was issued and with the requirements of section 7521(a)(4) of this title, he may suspend or revoke such certificate in whole or in part, and shall so notify the manufacturer. Such suspension or revocation shall apply in the case of any new motor vehicles or new motor vehicle engines manufactured after the date of such notification (or manufactured before such date if still in the hands of the manufacturer), and shall apply until such time as the Administrator finds that vehicles and engines manufactured by the manufacturer do conform to such regulations and requirements. If, during any period of suspension or revocation, the Administrator finds that a vehicle or engine actually conforms to such regulations and requirements, he shall issue a certificate of conformity applicable to such vehicle or engine.
+(2)(A)(i) If, based on tests conducted under paragraph (1) on a sample of new vehicles or engines covered by a certificate of conformity, the Administrator determines that all or part of the vehicles or engines so covered do not conform with the regulations with respect to which the certificate of conformity was issued and with the requirements of section 7521(a)(4) of this title, he may suspend or revoke such certificate in whole or in part, and shall so notify the manufacturer. Such suspension or revocation shall apply in the case of any new motor vehicles or new motor vehicle engines manufactured after the date of such notification (or manufactured before such date if still in the hands of the manufacturer), and shall apply until such time as the Administrator finds that vehicles and engines manufactured by the manufacturer do conform to such regulations and requirements. If, during any period of suspension or revocation,the Administrator finds that a vehicle or engine actually conforms to such regulations and requirements, he shall issue a certificate of conformity applicable to such vehicle or engine.
 
 (ii) If, based on tests conducted under paragraph (1) on any new vehicle or engine, the Administrator determines that such vehicle or engine does not conform with such regulations and requirements, he may suspend or revoke such certificate insofar as it applies to such vehicle or engine until such time as he finds such vehicle or engine actually so conforms with such regulations and requirements, and he shall so notify the manufacturer.
 
@@ -168,7 +168,7 @@ Subsec. (g)(3)(D). Pub. L. 95–190 inserted "shall" before "be".
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Effective Date
 
@@ -176,7 +176,7 @@ Pub. L. 91–604, §8(b), Dec. 31, 1970, 84 Stat. 1698, provided that: "The amen
 
 #### Regulations
 
-Pub. L. 114–94, div. B, title XXIV, §24405(c), Dec. 4, 2015, 129 Stat. 1725, provided that: "Not later than 12 months after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary of Transportation and the Administrator of the Environmental Protection Agency shall issue such regulations as may be necessary to implement the amendments made by subsections (a) \[amending section 30114 of Title 49, Transportation\] and (b) \[amending this section\], respectively."
+Pub. L. 114–94, div. B, title XXIV, §24405(c), Dec. 4, 2015, 129 Stat. 1725, provided that: "Not later than 12 months after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary of Transportation and the Administrator of the Environmental Protection Agency shallissue such regulations as may be necessary to implement the amendments made by subsections (a) \[amending section 30114 of Title 49, Transportation\] and (b) \[amending this section\], respectively."
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

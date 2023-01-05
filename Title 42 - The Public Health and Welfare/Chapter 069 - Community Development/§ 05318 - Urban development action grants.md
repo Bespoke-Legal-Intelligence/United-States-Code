@@ -24,7 +24,7 @@ Applications for assistance under this section shall—
 
 &emsp;(2) set forth the activities for which assistance is sought, including (A) an estimate of the costs and general location of the activities; (B) a summary of the public and private resources which are expected to be made available in connection with the activities, including how the activities will take advantage of unique opportunities to attract private investment; and (C) an analysis of the economic benefits which the activities are expected to produce;
 
-&emsp;(3) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has held public hearings to obtain the views of citizens, particularly residents of the area in which the proposed activities are to be carried out; (B) has analyzed the impact of these proposed activities on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood in which they are to be carried out; and (C) has made available the analysis described in clause (B) to any interested person or organization residing or located in the neighborhood in which the proposed activities are to be carried out; and
+&emsp;(3) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has held public hearings to obtain the views of citizens, particularly residents of the area in which the proposed activities are to be carried out; (B) has analyzed the impact of these proposed activities on the residents, particularly those of low and moderate income, of the residentialneighborhood, and on the neighborhood in which they are to be carried out; and (C) has made available the analysis described in clause (B) to any interested person or organization residing or located in the neighborhood in which the proposed activities are to be carried out; and
 
 &emsp;(4) contain a certification satisfactory to the Secretary that the applicant, prior to submission of its application, (A) has identified all properties, if any, which are included on the National Register of Historic Places and which, as determined by the applicant, will be affected by the project for which the application is made; (B) has identified all other properties, if any, which will be affected by such project and which, as determined by the applicant, may meet the criteria established by the Secretary of the Interior for inclusion on such Register, together with documentation relating to the inclusion of such properties on the Register; (C) has determined the effect, as determined by the applicant, of the project on the properties identified pursuant to clauses (A) and (B); and (D) will comply with the requirements of section 5320 of this title.
 
@@ -70,7 +70,7 @@ Applications for assistance under this section shall—
 
 > &emsp;If a city or urban county has submitted and has pending more than one application, the additional consideration provided by subparagraph (D) of the preceding sentence shall be available only to the project in such city or urban county which received the highest number of points under subparagraph (C) of such sentence.
 
-(2) For the purpose of making grants with respect to areas described in subsection (b)(2), the Secretary shall establish selection criteria, which must include (A) factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration among eligible areas, and (B) such other criteria as the Secretary may determine, including at a minimum the criteria listed in paragraph (1)(C) of this subsection.
+(2) For the purpose of making grants with respect to areas described in subsection (b)(2), the Secretary shall establish selection criteria, which must include (A) factors determined to be relevant by the Secretary in assessing the comparative degree of economic deterioration among eligible areas, and (B) such other criteriaas the Secretary may determine, including at a minimum the criteria listed in paragraph (1)(C) of this subsection.
 
 (3) The Secretary shall award points to each application as follows:
 
@@ -176,7 +176,7 @@ Not less than 25 per centum of the funds made available for grants under this se
 
 #### (j) Grant contingent on factors related to non-Federal funds
 
-A grant may be made under this section only where the Secretary determines that there is a strong probability that (1) the non-Federal investment in the project would not be made without the grant, and (2) the grant would not substitute for non-Federal funds which are otherwise available to the project.
+A grant may be made under this section only where the Secretary determines that there is astrong probability that (1) the non-Federal investment in the project would not be made without the grant, and (2) the grant would not substitute for non-Federal funds which are otherwise available to the project.
 
 #### (k) Duty of Secretary to minimize amount
 
@@ -218,7 +218,7 @@ For fiscal years 1988 and 1989, the maximum grant amount for any project under t
 
 #### (t) UDAG retention program
 
-If a grant or a portion of a grant under this section remains unexpended upon the issuanceof a notice implementing this subsection, the grantee may enter into an agreement, as provided under this subsection, with the Secretary to receive a percentage of the grant amount and relinquish all claims to the balance of the grant within 90 days of the issuance of notice implementing this subsection (or such later date as the Secretary may approve). The Secretary shall not recapture any funds obligated pursuant to this section during a period beginning on April 11, 1994, until 90 days after the issuance of a notice implementing this subsection. A grantee may receive as a grant under this subsection—
+If a grant or a portion of a grant under this section remains unexpended upon the issuance of a notice implementing this subsection, the grantee may enter into an agreement, as provided under this subsection, with the Secretary to receive a percentage of the grant amount and relinquish all claims to the balance of the grant within 90 days of the issuance of notice implementing this subsection (or such later date as the Secretary may approve). The Secretary shall not recapture any funds obligated pursuant to this section during a period beginning on April 11, 1994, until 90 days after the issuance of a notice implementing this subsection. A grantee may receive as a grant under this subsection—
 
 &emsp;(1) 33 percent of such unexpended amounts if—
 
@@ -446,7 +446,7 @@ Social services.—A description of the social and supportive services to be mad
 
 &emsp;"(8)
 
-Supplemental resources.—A description of any funds, assistance, in-kind contributions, andother resources to be made available in connection with the demonstration program, including the sources and amounts of any private capital resources and non-Federal funds required under section 1103(h).
+Supplemental resources.—A description of any funds, assistance, in-kind contributions, and other resources to be made available in connection with the demonstration program, including the sources and amounts of any private capital resources and non-Federal funds required under section 1103(h).
 
 &emsp;"(9)
 
@@ -474,7 +474,7 @@ Review and Approval.—
 
 &emsp;"(1)
 
-Submission.—Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], a governing board shall submit a new town plan under this section to the chief executive officers of each unit of general local government within whose boundaries is located any portion of the new town demonstration area described under the plan of the board.
+Submission.—Not later than the expiration of the 6-month period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], a governing board shall submit a new town plan under this section to the chief executive officers of each unit of generallocal government within whose boundaries is located any portion of the new town demonstration area described under the plan of the board.
 
 &emsp;"(2)
 
@@ -730,7 +730,7 @@ Relocation assistance.—Relocation payments and assistance for individuals, fam
 
 &emsp;"(6)
 
-Payment of administrative expenses.—Payment of reasonable administrative costs associatedwith activities assisted under this section and any expenses of developing the new town plan under section 1102.
+Payment of administrative expenses.—Payment of reasonable administrative costs associated with activities assisted under this section and any expenses of developing the new town plan under section 1102.
 
 "(f)
 

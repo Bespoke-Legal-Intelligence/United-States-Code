@@ -6,7 +6,7 @@ Not later than November 1, 2020, the Secretary shall submit to the Committee on 
 
 #### (b) Update
 
-Not later than the last day of the 1-year period following March 27, 2020, the Secretary shall update and submit to the Committee on Transportation and the Committee on Financial Services and Infrastructure of the House of Representatives and the Committee on Commerce, Science,and Transportation and the Committee on Banking, Housing, and Urban Affairs of the Senate the report described in subsection (a).
+Not later than the last day of the 1-year period following March 27, 2020, the Secretary shall update and submit to the Committee on Transportation and the Committee on Financial Services and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Banking, Housing, and Urban Affairs of the Senate the report described in subsection (a).
 
 (Pub. L. 116–136, div. A, title IV, §4118, Mar. 27, 2020, 134 Stat. 501.)
 

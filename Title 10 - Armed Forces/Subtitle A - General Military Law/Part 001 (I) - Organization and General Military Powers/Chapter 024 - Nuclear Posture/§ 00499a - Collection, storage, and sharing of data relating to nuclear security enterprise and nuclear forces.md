@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation, and the Administratorfor Nuclear Security, acting through the Director for Cost Estimating and Program Evaluation, shall collect and store cost, programmatic, and technical data relating to programs and projects of the nuclear security enterprise and nuclear forces.
+In General.—The Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation, and the Administrator for Nuclear Security, acting through the Director for Cost Estimating and Program Evaluation, shall collect and store cost, programmatic, and technical data relating to programs and projects of the nuclear security enterprise and nuclear forces.
 
 (b)
 

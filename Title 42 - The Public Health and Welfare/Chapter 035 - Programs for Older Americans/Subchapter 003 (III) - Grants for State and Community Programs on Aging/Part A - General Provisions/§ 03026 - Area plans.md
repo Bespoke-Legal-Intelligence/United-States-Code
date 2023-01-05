@@ -4,11 +4,11 @@
 
 Each area agency on aging designated under section 3025(a)(2)(A) of this title shall, in order to be approved by the State agency, prepare and develop an area plan for a planning and service area for a two-, three-, or four-year period determined by the State agency, with such annual adjustments as may be necessary. Each such plan shall be based upon a uniform format for area plans within the State prepared in accordance with section 3027(a)(1) of this title. Each such plan shall—
 
-&emsp;(1) provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, forthe establishment, maintenance, modernization, or construction of multipurpose senior centers (including a plan to use the skills and services of older individuals in paid and unpaid work, including multigenerational and older individual to older individual work), within the planning and service area covered by the plan, including determining the extent of need for supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals at risk for institutional placement residing in such area, the number of older individuals at risk for institutional placement residing in such area, and the number of older individuals who are Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
+&emsp;(1) provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, for the establishment, maintenance, modernization, or construction of multipurpose senior centers (including a plan to use the skills and services of older individuals in paid and unpaid work, including multigenerational and older individual to older individual work), within the planning and service area covered by the plan, including determining the extent of need for supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income older individuals, including low-income minority older individuals, older individuals with limited English proficiency, and older individuals residing in rural areas) residing in such area, the number of older individuals at risk for institutional placement residing in such area, the number of older individuals at risk for institutional placement residing in such area, and the number of older individuals who are Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
 
 &emsp;(2) provide assurances that an adequate proportion, as required under section 3027(a)(2) of this title, of the amount allotted for part B to the planning and service area will be expended for the delivery of each of the following categories of services—
 
-&emsp;&emsp;(A) services associated with access to services (transportation, health services (including mental and behavioral health services), outreach, information and assistance (which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported programs for which the consumer may be eligible), and case management services);
+&emsp;&emsp;(A) services associated with access to services (transportation, health services (including mental and behavioral health services), outreach, information and assistance (which may include information and assistance to consumers on availability of services under part B and how to receive benefits under and participate in publicly supported programsfor which the consumer may be eligible), and case management services);
 
 &emsp;&emsp;(B) in-home services, including supportive services for families of older individuals with Alzheimer's disease and related disorders with neurological and organic brain dysfunction); <sup>1</sup> and
 
@@ -98,7 +98,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;(G) if there is a significant population of older individuals who are Indians in the planning and service area of the area agency on aging, the area agency on aging shall conduct outreach activities to identify such individuals in such area and shall inform such individuals of the availability of assistance under this chapter;
 
-&emsp;&emsp;(H) in coordination with the State agency and with the State agency responsible for elder abuse prevention services, increasepublic awareness of elder abuse, neglect, and exploitation, and remove barriers to education, prevention, investigation, and treatment of elder abuse, neglect, and exploitation, as appropriate; and
+&emsp;&emsp;(H) in coordination with the State agency and with the State agency responsible for elder abuse prevention services, increase public awareness of elder abuse, neglect, and exploitation, and remove barriers to education, prevention, investigation, and treatment of elder abuse, neglect, and exploitation, as appropriate; and
 
 &emsp;&emsp;(I) to the extent feasible, coordinate with the State agency to disseminate information about the State assistive technology entity and access to assistive technology options for serving older individuals;
 
@@ -240,7 +240,7 @@ Each State, in approving area agency on aging plans under this section, shall wa
 
 #### (d) Transportation services; funds
 
-(1) Subject to regulations prescribed by the Assistant Secretary, an area agency on agingdesignated under section 3025(a)(2)(A) of this title or, in areas of a State where no such agency has been designated, the State agency, may enter into agreements with agencies administering programs under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and titles XIX and XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397 et seq.\] for the purpose of developing and implementing plans for meeting the common need for transportation services of individuals receiving benefits under such Acts and older individuals participating in programs authorized by this subchapter.
+(1) Subject to regulations prescribed by the Assistant Secretary, an area agency on aging designated under section 3025(a)(2)(A) of this title or, in areas of a State where no such agency has been designated, the State agency, may enter into agreements with agencies administering programs under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and titles XIX and XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397 et seq.\] for the purpose of developing and implementing plans for meeting the common need for transportation services of individuals receiving benefits under such Acts and older individuals participating in programs authorized by this subchapter.
 
 (2) In accordance with an agreement entered into under paragraph (1), funds appropriated under this subchapter may be used to purchase transportation services for older individuals and may be pooled with funds made available for the provision of transportation services under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\], and titles XIX and XX of the Social Security Act \[42 U.S.C. 1396 et seq., 1397 et seq.\].
 
@@ -282,11 +282,11 @@ Nothing in this chapter shall restrict an area agency on aging from providing se
 
 #### References in Text
 
-The Economic Opportunity Act of 1964, referred to in subsec. (a)(6)(C)(ii)(I), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. Section 210 of the Act was classified to section 2790 of this title prior to repeal by Pub. L. 97–35. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (a)(6)(C)(ii)(I), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. Section 210 of the Act was classified to section 2790 of this title prior to repeal by Pub. L. 97–35. For complete classification of this Act to the Code, see Tables.
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XX of the Act are classified generally to subchapters XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XX of the Act are classified generally to subchapters XIX (§1396 et seq.) and XX (§1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -394,7 +394,7 @@ Subsec. (a)(5). Pub. L. 106–501, §305(a)(9), added par. (5). Former par. (5) 
 
 Subsec. (a)(6)(A). Pub. L. 106–501, §305(a)(10)(A), (B), redesignated subpar. (C) as (A) and struck out former subpar. (A) which read as follows: "conduct periodic evaluations of, and public hearings on, activities carried out under the area plan and an annual evaluation of the effectiveness of outreach conducted under paragraph (5)(B);".
 
-Subsec. (a)(6)(B). Pub. L. 106–501, §305(a)(10)(A), (B), redesignated subpar. (D) as (B) and struck out former subpar. (B) which read as follows: "furnish appropriate technical assistance, and timely information in a timely manner, to providers of supportive services, nutrition services, or multipurpose senior centers in the planning and service area covered by the area plan;".
+Subsec. (a)(6)(B). Pub. L. 106–501, §305(a)(10)(A), (B), redesignated subpar. (D) as (B) and struck out formersubpar. (B) which read as follows: "furnish appropriate technical assistance, and timely information in a timely manner, to providers of supportive services, nutrition services, or multipurpose senior centers in the planning and service area covered by the area plan;".
 
 Subsec. (a)(6)(C). Pub. L. 106–501, §305(a)(10)(B), (C), redesignated subpar. (E) as (C) and substituted ", assistance to older individuals caring for relatives who are children" for "or adults" in cl. (i). Former subpar. (C) redesignated (A).
 
@@ -436,7 +436,7 @@ Subsec. (a)(13). Pub. L. 106–501, §305(a)(11), (12), redesignated par. (14) a
 
 Subsec. (a)(14). Pub. L. 106–501, §305(a)(13), added par. (14). Former par. (14) redesignated (13).
 
-Subsec. (a)(15). Pub. L. 106–501, §305(a)(13), added par. (15) relating to assurances that preference in receivingservices under this subchapter would not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship not being carried out to implement this subchapter.
+Subsec. (a)(15). Pub. L. 106–501, §305(a)(13), added par. (15) relating to assurances that preference in receiving services under this subchapter would not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship not being carried out to implement this subchapter.
 
 Subsec. (a)(17) to (20). Pub. L. 106–501, §305(a)(14), struck out pars. (17) to (20) which required each area plan to provide: in par. (17), assurances that projects in the planning and service area would reasonably accommodate particular dietary needs of participants, in par. (18), assurances that the area agency on aging would coordinate its services under this subchapter with services provided under subchapter X of this chapter, in par. (19), assurance that the area agency on aging would pursue activities to increase access by older individuals who are Native Americans to all aging programs and benefits provided by the agency, and, in par. (20), that case management services provided under this subchapter through the area agency on aging would be coordinated with and not duplicate other Federal and State programs and would be provided by a public agency or a nonprofit private agency either not providing services other than case management services or located in a rural area and having obtained a waiver of that requirement.
 
@@ -456,7 +456,7 @@ Subsec. (a)(2)(B). Pub. L. 102–375, §904(a)(12)(A)(ii), substituted "older in
 
 Subsec. (a)(3). Pub. L. 102–375, §306(b), designated existing provisions as subpar. (A), inserted "(including multipurpose senior centers operated by organizations referred to in paragraph (6)(E)(ii))" after "centers", and added subpar. (B).
 
-Subsec. (a)(4). Pub. L. 102–375, §306(c)(1), inserted before semicolon at end ", with particular emphasis on linking services available to isolated older individuals and older individuals with Alzheimer's disease or related disorders with neurological and organic brain dysfunction (and the caretakers of individuals with such disease or disorders)".
+Subsec. (a)(4). Pub. L. 102–375, §306(c)(1), inserted before semicolon at end ", with particular emphasis on linking services available to isolated older individualsand older individuals with Alzheimer's disease or related disorders with neurological and organic brain dysfunction (and the caretakers of individuals with such disease or disorders)".
 
 Pub. L. 102–375, §102(b)(4), substituted "information and assistance" for "information and referral".
 
@@ -538,7 +538,7 @@ Subsec. (a)(5)(B). Pub. L. 100–175, §136(b), inserted "and older individuals 
 
 Pub. L. 100–175, §132(b)(2), inserted "older individuals who have greatest economic need (with particular attention to low-income minority individuals), older individuals who have greatest social need (with particular attention to low-income minority individuals)," after "rural elderly".
 
-Subsec. (a)(6)(A). Pub. L. 100–175, §§125, 132(b)(3), inserted ", and public hearings on," after "evaluations of" and "and an annual evaluation of the effectiveness of outreach conducted under paragraph (5)(B)" before semicolon at end.
+Subsec. (a)(6)(A). Pub. L. 100–175, §§125, 132(b)(3), inserted ", and public hearings on," after "evaluationsof" and "and an annual evaluation of the effectiveness of outreach conducted under paragraph (5)(B)" before semicolon at end.
 
 Subsec. (a)(6)(E). Pub. L. 100–175, §126, inserted "or adults, and respite for families," after "for children" and ", adults, and families" after "to children".
 
@@ -624,7 +624,7 @@ Reference to community health center, migrant health center, public housing heal
 
 #### Implementation Information
 
-Pub. L. 100–175, title I, §155(g), Nov. 29, 1987, 101 Stat. 954, directed Commissioner on Aging, not later than Sept. 1, 1988, to analyze and compile information on successful and unsuccessful activities carried out to conduct outreach of the type described in 42 U.S.C. 3026(a)(6)(P) and distribute such information to State agencies on aging for dissemination to interested area agencies on aging to assist such area agencies in designing outreach activities.
+Pub. L. 100–175, title I, §155(g), Nov. 29, 1987, 101 Stat. 954, directed Commissioner on Aging, not later thanSept. 1, 1988, to analyze and compile information on successful and unsuccessful activities carried out to conduct outreach of the type described in 42 U.S.C. 3026(a)(6)(P) and distribute such information to State agencies on aging for dissemination to interested area agencies on aging to assist such area agencies in designing outreach activities.
 
 #### Evaluation of Guidelines
 

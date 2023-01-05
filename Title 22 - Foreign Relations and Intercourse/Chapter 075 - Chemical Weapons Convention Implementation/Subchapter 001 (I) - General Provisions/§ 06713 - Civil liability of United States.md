@@ -6,7 +6,7 @@
 
 #### (A) United States Court of Federal Claims
 
-&emsp;&emsp;The United States Court of Federal Claims shall, subject to subparagraph (B), have jurisdiction of any civil action or claim against the United States for any taking of property without just compensation that occurs by reason of the action of any officer or employee of the Organization for the Prohibition of Chemical Weapons, including any member of an inspection team of the Technical Secretariat, or by reason of the action of any officer or employee of the UnitedStates pursuant to this chapter or the Convention. For purposes of this subsection, action taken pursuant to or under the color of this chapter or the Convention shall be deemed to be action taken by the United States for a public purpose.
+&emsp;&emsp;The United States Court of Federal Claims shall, subject to subparagraph (B), have jurisdiction of any civil action or claim against the United States for any taking of property without just compensation that occurs by reason of the action of any officer or employee of the Organization for the Prohibition of Chemical Weapons, including any member of an inspection team of the Technical Secretariat, or by reason of the action of any officer or employee of the United States pursuant to this chapter or the Convention. For purposes of this subsection, action taken pursuant to or under the color of this chapter or the Convention shall be deemed to be action taken by the United States for a public purpose.
 
 #### (B) District courts
 
@@ -22,7 +22,7 @@
 
 #### (4) Burden of proof
 
-&emsp;In any civil action under paragraph (1), the plaintiff shall have the burden to establish a prima facie case that, due to acts or omissions of any official of the Organization or any member of an inspection team of the Technical Secretariat taken under the color of the Convention, proprietary information of the plaintiff has been divulged or taken without authorization. If the United States Court of Federal Claims finds that the plaintiff has demonstrated such a prima facie case, the burden shall shift to the United States to disprove the plaintiff's claim. In deciding whether the plaintiff has carried its burden, the United States Court of Federal Claims shall consider, among other things—
+&emsp;In any civil action under paragraph (1), the plaintiff shall have the burden to establish a prima facie case that, due to acts or omissions of any official of the Organization or any member of an inspection team of the Technical Secretariat taken under the color of the Convention, proprietary information of the plaintiff has been divulged or taken without authorization. If the United States Court of Federal Claims finds that the plaintiff has demonstrated such a prima facie case, the burden shall shift to the United States to disprove the plaintiff's claim. In deciding whether theplaintiff has carried its burden, the United States Court of Federal Claims shall consider, among other things—
 
 &emsp;&emsp;(A) the value of proprietary information;
 
@@ -128,7 +128,7 @@ In any action under subsection (a) or (b), the United States may not raise sover
 
 #### (v) International financial assistance
 
-&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance byinternational financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
 
 #### (vi) Termination of assistance under Foreign Assistance Act of 1961
 
@@ -202,11 +202,11 @@ In this section, the term "United States confidential business information" mean
 
 This chapter, referred to in text, was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
-The Arms Export Control Act, referred to in subsec. (e)(2)(B)(i), (3)(B)(i), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (e)(2)(B)(i), (3)(B)(i), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), (3)(B)(iv), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 5 and 6 of the Act were classified to sections 4604 and 4605, respectively, of Title 50 prior to repeal.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (e)(3)(B)(vi), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e)(3)(B)(vi), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

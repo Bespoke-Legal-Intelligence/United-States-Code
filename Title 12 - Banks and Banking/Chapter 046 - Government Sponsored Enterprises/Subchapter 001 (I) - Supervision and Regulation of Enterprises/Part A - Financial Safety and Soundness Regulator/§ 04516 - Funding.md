@@ -10,7 +10,7 @@ The Director shall establish and collect from the regulated entities annual asse
 
 &emsp;(3) such amounts in excess of actual expenses for any given year as deemed necessary by the Director to maintain a working capital fund in accordance with subsection (e); and
 
-&emsp;(4) the windup of the affairs of the Office of Federal Housing Enterprise Oversight and theFederal Housing Finance Board under title III of the Federal Housing Finance Regulatory Reform Act of 2008.
+&emsp;(4) the windup of the affairs of the Office of Federal Housing Enterprise Oversight and the Federal Housing Finance Board under title III of the Federal Housing Finance Regulatory Reform Act of 2008.
 
 #### (b) Allocation of annual assessment to enterprises
 
@@ -78,7 +78,7 @@ At the end of each year for which an assessment under this section is made, the 
 
 #### (5) Availability of oversight fund amounts
 
-&emsp;Notwithstanding any other provision of law, any amounts remaining in the Federal Housing Enterprises Oversight Fund established under this section (as in effect before the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, and any amounts remaining from assessments on the Federal Home Loan Banks pursuant to section 1438(b) <sup>2</sup> of this title), shall, upon such effectivedate, be treated for purposes of this subsection as amounts received from assessments under this section.
+&emsp;Notwithstanding any other provision of law, any amounts remaining in the Federal Housing Enterprises Oversight Fund established under this section (as in effect before the effective date of the Federal Housing Finance Regulatory Reform Act of 2008, and any amounts remaining from assessments on the Federal Home Loan Banks pursuant to section 1438(b) <sup>2</sup> of this title), shall, upon such effective date, be treated for purposes of this subsection as amounts received from assessments under this section.
 
 #### (6) Treasury investments
 
@@ -160,7 +160,7 @@ In subsec. (h)(3), "section 6101 of title 41" substituted for "section 3709 of t
 
 Subsec. (b)(2) to (4). Pub. L. 110–289, §1106(2), realigned margins, added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
-Subsec. (c). Pub. L. 110–289, §1106(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The semiannual payments made pursuant to subsection (b) of this section by any enterprise that is not classified (for purposes of subchapter II of this chapter) as adequately capitalized may be increased, as necessary, in the discretion of the Director to pay additional estimated costs of regulation of the enterprise."
+Subsec. (c). Pub. L. 110–289, §1106(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The semiannual payments made pursuant to subsection (b) of this section by any enterprise that is not classified (for purposes of subchapter II of this chapter) as adequately capitalized may be increased, as necessary, in the discretion of the Directorto pay additional estimated costs of regulation of the enterprise."
 
 Subsec. (d). Pub. L. 110–289, §1106(4), substituted "Except with respect to amounts collected pursuant to subsection (a)(3), if" for "If".
 

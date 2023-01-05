@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall establish a grant program for the allocation of fundsbased on risk to implement Area Maritime Transportation Security Plans and facility security plans among port authorities, facility operators, and State and local government agencies required to provide port security services and to train public safety personnel under section 70132 of this title. Before awarding a grant under the program, the Secretary shall provide for review and comment by the appropriate Federal Maritime Security Coordinators and the Maritime Administrator. In administering the grant program, the Secretary shall take into account national economic, energy, and strategic defense concerns based upon the most current risk assessments available.
+In General.—The Secretary shall establish a grant program for the allocation of funds based on risk to implement Area Maritime Transportation Security Plans and facility security plans among port authorities, facility operators, and State and local government agencies required to provide port security services and to train public safety personnel under section 70132 of this title. Before awarding a grant under the program, the Secretary shall provide for review and comment by the appropriate Federal Maritime Security Coordinators and the Maritime Administrator. In administering the grant program, the Secretary shall take into account national economic, energy, and strategic defense concerns based upon the most current risk assessments available.
 
 (b)
 
@@ -156,7 +156,7 @@ Other expenditures.—The Secretary shall, as part of the report required by par
 
 Annual reports.—Annually, beginning 1 year after transmittal of the report required by paragraph (1) until October 1, 2009, the Secretary shall transmit an unclassified annual report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure, on progress in achieving compliance with the correction of Coast Guard identified vulnerabilities in port security and compliance with Area Maritime Transportation Security Plans and facility security plans that—
 
-&emsp;&emsp;(A) identifies any modifications necessary in funding to ensure the correction of Coast Guard identified vulnerabilities and ensure compliance with Area Maritime Transportation Security Plans and facility security plans;
+&emsp;&emsp;(A) identifies any modifications necessary in funding to ensure the correction of Coast Guard identified vulnerabilities and ensurecompliance with Area Maritime Transportation Security Plans and facility security plans;
 
 &emsp;&emsp;(B) includes an assessment of progress in implementing the grant program established by subsection (a);
 
@@ -176,7 +176,7 @@ Investigations.—
 
 In general.—The Secretary shall conduct investigations, fund pilot programs, and award grants, to examine or develop—
 
-&emsp;&emsp;(A) methods or programs to increase the ability to target for inspection vessels, cargo, crewmembers, or passengers that willarrive or have arrived at any port or place in the United States;
+&emsp;&emsp;(A) methods or programs to increase the ability to target for inspection vessels, cargo, crewmembers, or passengers that will arrive or have arrived at any port or place in the United States;
 
 &emsp;&emsp;(B) equipment to detect accurately explosives, chemical, or biological agents that could be used in a transportation security incident against the United States;
 
@@ -270,6 +270,8 @@ The date of enactment of this Act, referred to in subsec. (k)(1), probably means
 
 This Act, referred to in subsec. (k)(1)(B)(iii), probably means the Maritime Transportation Security Act of 2002, which enacted this subtitle, see note below.
 
+With respect to "transportation security cards required by section 70105", referred to in subsec. (k)(1)(B)(iv), amendments made by Pub. L. 117–263 to section 70105 of this title are such that section 70105 now refers to "transportation worker identification credential" rather than "transportation security card". See section 70105 of this title.
+
 The Maritime Transportation Security Act of 2002, referred to in subsec. (k)(3)(D), is Pub. L. 107–295, Nov. 25, 2002, 116 Stat. 2064. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
@@ -336,5 +338,5 @@ Pub. L. 108–293, title VIII, §804(c), Aug. 9, 2004, 118 Stat. 1081, provided 
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

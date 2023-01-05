@@ -38,7 +38,7 @@
 
 #### (1) In general
 
-&emsp;Financial assistance made available under this subchapter may be used by assisted community development financial institutions toserve investment areas or targeted populations by developing or supporting—
+&emsp;Financial assistance made available under this subchapter may be used by assisted community development financial institutions to serve investment areas or targeted populations by developing or supporting—
 
 &emsp;&emsp;(A) commercial facilities that promote revitalization, community stability, or job creation or retention;
 
@@ -174,7 +174,7 @@
 
 #### (D) Consultation with tribal governments
 
-&emsp;&emsp;In reviewing the performance of any assisted community development financial institution, the investment area of which includes an Indian reservation, or the targeted population of which includes an Indian tribe, the Fund shall consult with, and seek input from, any appropriate tribal government.
+&emsp;&emsp;In reviewing the performance of any assisted community development financial institution, the investment area of which includes an Indian reservation, or the targeted population of which includes an Indian tribe,the Fund shall consult with, and seek input from, any appropriate tribal government.
 
 #### (g) Authority to sell equity investments and loans
 
@@ -190,5 +190,5 @@ Nothing in this subchapter shall affect any authority of the appropriate Federal
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 

@@ -20,7 +20,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iii) is incapable of self-support because of a mental or physical incapacity that occurs while a dependent of a member or former member under clause (i) or (ii) and is, or was at the time of the member's or former member's death, in fact dependent on the member or former member for over one-half of the child's support;
 
-&emsp;&emsp;(E) a parent or parent-in-law who is, or was at the time of the member's or formermember's death, in fact dependent on him for over one-half of his support and residing in his household;
+&emsp;&emsp;(E) a parent or parent-in-law who is, or was at the time of the member's or former member's death, in fact dependent on him for over one-half of his support and residing in his household;
 
 &emsp;&emsp;(F) the unremarried former spouse of a member or former member who (i) on the date of the final decree of divorce, dissolution, or annulment, had been married to the member or former member for a period of at least 20 years during which period the member or former member performed at least 20 years of service which is creditable in determining that member's or former member's eligibility for retired or retainer pay, or equivalent pay, and (ii) does not have medical coverage under an employer-sponsored health plan;
 
@@ -62,7 +62,7 @@ In this chapter:
 
 &emsp;&emsp;(D) An unmarried person—
 
-&emsp;&emsp;&emsp;(i) who is placed in the home of the member or former member by a placement agency (recognized by the Secretary of Defense), or by any other source authorized by State or local law to provide adoption placement, in anticipation of the legal adoption of the person by the member or former member; and
+&emsp;&emsp;&emsp;(i) who is placed in the home of the member or former member by a placementagency (recognized by the Secretary of Defense), or by any other source authorized by State or local law to provide adoption placement, in anticipation of the legal adoption of the person by the member or former member; and
 
 &emsp;&emsp;&emsp;(ii) who otherwise meets the requirements specified in paragraph (2)(D).
 
@@ -88,7 +88,7 @@ In this chapter:
 
 &emsp;(10) The term "health care" includes mental health care.
 
-&emsp;(11) The term "TRICARE Extra" means the preferred-provider option of the TRICARE program made available prior to January 1, 2018, under which TRICARE Standard beneficiariesmay obtain discounts on cost sharing as a result of using TRICARE network providers.
+&emsp;(11) The term "TRICARE Extra" means the preferred-provider option of the TRICARE program made available prior to January 1, 2018, under which TRICARE Standard beneficiaries may obtain discounts on cost sharing as a result of using TRICARE network providers.
 
 &emsp;(12) The term "TRICARE Select" means the self-managed, preferred-provider network option under the TRICARE program established by section 1075 of this title.
 
@@ -254,7 +254,7 @@ Pub. L. 107–107, div. A, title VII, §708(a), Dec. 28, 2001, 115 Stat. 1164, p
 
 Pub. L. 101–189, div. A, title VII, §731(e), Nov. 29, 1989, 103 Stat. 1483, provided that:
 
-"(1) In the case of a person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 (Public Law 98–525; 98 Stat.2549) \[set out below\], on September 28, 1988, the Secretary of Defense shall make a conversion health policy available for purchase by the person during the remaining period the person is considered to be a dependent under that section (or within a reasonable time after that period as prescribed by the Secretary of Defense).
+"(1) In the case of a person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 (Public Law 98–525; 98 Stat. 2549) \[set out below\], on September 28, 1988, the Secretary of Defense shall make a conversion health policy available for purchase by the person during the remaining period the person is considered to be a dependent under that section (or within a reasonable time after that period as prescribed by the Secretary of Defense).
 
 "(2) Purchase of a conversion health policy under paragraph (1) by a person shall entitle the person to health care for preexisting conditions in the same manner and to the same extent as provided by section 1086a(b) of title 10, United States Code (as added by subsection (b)), until the end of the one-year period beginning on the later of—
 

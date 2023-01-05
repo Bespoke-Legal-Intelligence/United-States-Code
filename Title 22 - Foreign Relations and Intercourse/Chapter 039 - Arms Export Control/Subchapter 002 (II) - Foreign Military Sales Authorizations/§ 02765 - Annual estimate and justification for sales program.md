@@ -34,9 +34,9 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(11) the status of each loan and each contract of guaranty or insurance theretofore made under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], predecessor Acts, or any Act authorizing international security assistance, with respect to which there remains outstanding any unpaid obligation or potential liability; the status of each extension of credit for the procurement of defense articles or defense services, and of each contract of guaranty in connection with any such procurement, theretofore made under this chapter with respect to which there remains outstanding any unpaid obligation or potential liability;
 
-&emsp;(12)(A) a detailed accounting of all articles, services, credits, guarantees, or any other form of assistance furnished by the United States to each country and international organization, including payments to the United Nations, during the preceding fiscal year for the detection and clearance of landmines, including activities relating to the furnishing ofeducation, training, and technical assistance for the detection and clearance of landmines; and
+&emsp;(12)(A) a detailed accounting of all articles, services, credits, guarantees, or any other form of assistance furnished by the United States to each country and international organization, including payments to the United Nations, during the preceding fiscal year for the detection and clearance of landmines, including activities relating to the furnishing of education, training, and technical assistance for the detection and clearance of landmines; and
 
-&emsp;(B) for each provision of law making funds available or authorizing appropriations for demining activities described in subparagraph (A), an analysis and description of the objectives and activities undertaken during the preceding fiscal year, including the number of personnel involved in performing such activities;
+&emsp;(B) for each provision of law making funds available or authorizing appropriations for demining activities described in subparagraph (A), an analysis and description of the objectives and activities undertaken during the preceding fiscal year, including the number ofpersonnel involved in performing such activities;
 
 &emsp;(13) a list of weapons systems that are significant military equipment (as defined in section 2794(9) of this title), and numbers thereof, that are believed likely to become available for transfer as excess defense articles during the next 12 months; and
 
@@ -74,7 +74,7 @@ This chapter, referred to in subsecs. (a)(1), (5)(B), (6) and (d), was in the or
 
 Subsection (d) of this section, referred to in subsec. (a)(5)(B), probably means the subsec. (d) added by section 112(b) of Pub. L. 99–83, defining cash flow financing.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -106,7 +106,7 @@ Pub. L. 99–83, §113(2), added subsec. (d) relating to transmittal of informat
 
 Subsec. (a)(1). Pub. L. 97–113 added par. (1) which incorporated provisions of former subsec. (d)(1) of this section. See subsec. (d) amendment note. Former par. (1) covered in par. (3).
 
-Subsec. (a)(2). Pub. L. 97–113 added par. (2). Former par. (2), which required the report to contain an estimate of amount of credits and guaranties expected to be extended to each country under sections 2763 and 2764 of this title, covered in par. (5).
+Subsec. (a)(2). Pub. L. 97–113 added par. (2). Former par. (2), which required the report to contain an estimate of amount of credits and guaranties expected tobe extended to each country under sections 2763 and 2764 of this title, covered in par. (5).
 
 Subsec. (a)(3). Pub. L. 97–113 added par. (3) which incorporated provisions of former par. (1) requiring the report to contain an estimate of amounts of expected sales to each country under sections 2761 and 2762 of this title, including detailed explanations of foreign policy and United States national security considerations in expected sales to each country, and (5) requiring inclusion of an arms control impact statement for each purchasing country, covering (A) an analysis of the relationship between expected sales to each country and arms control efforts relating to that country, and (B) the impact of such expected sales on the stability of the region that included the purchasing country. Former par. (3) redesignated (7).
 

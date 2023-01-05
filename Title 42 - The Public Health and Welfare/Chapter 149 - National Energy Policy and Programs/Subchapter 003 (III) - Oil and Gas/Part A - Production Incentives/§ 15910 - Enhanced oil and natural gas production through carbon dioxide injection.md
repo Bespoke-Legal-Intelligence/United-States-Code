@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(i) a description of the project proposed in the application;
 
-&emsp;&emsp;&emsp;(ii) an estimate of the production increase and the duration of the productionincrease from the project, as compared to conventional recovery techniques, including water flooding;
+&emsp;&emsp;&emsp;(ii) an estimate of the production increase and the duration of the production increase from the project, as compared to conventional recovery techniques, including water flooding;
 
 &emsp;&emsp;&emsp;(iii) an estimate of the carbon dioxide sequestered by project, over the life of the project;
 

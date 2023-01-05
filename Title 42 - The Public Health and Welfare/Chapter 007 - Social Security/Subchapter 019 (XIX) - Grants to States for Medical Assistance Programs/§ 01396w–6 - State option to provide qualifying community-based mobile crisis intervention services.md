@@ -36,7 +36,7 @@ For purposes of this section, the term "qualifying community-based mobile crisis
 
 #### (c) Payments
 
-Notwithstanding section 1396d(b) or 1396d(ff) of this title and subject to subsections (y) and (z) of section 1396d of this title, during each of the first 12 fiscal quarters occurring during the period described in subsection (a) that a Statemeets the requirements described in subsection (d), the Federal medical assistance percentage applicable to amounts expended by the State for medical assistance for qualifying community-based mobile crisis intervention services furnished during such quarter shall be equal to 85 percent. In no case shall the application of the previous sentence result in the Federal medical assistance percentage applicable to amounts expended by a State for medical assistance for such qualifying community-based mobile crisis intervention services furnished during a quarter being less than the Federal medical assistance percentage that would apply to such amounts expended by the State for such services furnished during such quarter without application of the previous sentence.
+Notwithstanding section 1396d(b) or 1396d(ff) of this title and subject to subsections (y) and (z) of section 1396d of this title, during each of the first 12 fiscal quarters occurring during the period described in subsection (a) that a State meets the requirements described in subsection (d), the Federal medical assistance percentage applicable to amounts expended by the State for medical assistance for qualifying community-based mobile crisis intervention services furnished during such quarter shall be equal to 85 percent. In no case shall the application of the previous sentence result in the Federal medical assistance percentage applicable to amounts expended by a State for medical assistance for such qualifying community-based mobile crisis intervention services furnished during a quarter being less than the Federal medical assistance percentage that would apply to such amounts expended by the State for such services furnished during such quarter without application of the previous sentence.
 
 #### (d) Requirements
 
@@ -50,7 +50,7 @@ The requirements described in this subsection are the following:
 
 &emsp;&emsp;(B) if the State made qualifying community-based mobile crisis intervention services available in a region of the State in such fiscal year, the State will continue to make such services available in such region under this section during each month occurring during the period described in subsection (a) for which the Federal medical assistance percentage under subsection (c) is applicable with respect to the State.
 
-#### (e) Funding for state planning grants
+#### (e) Funding for State planning grants
 
 There is appropriated, out of any funds in the Treasury not otherwise appropriated, $15,000,000 to the Secretary for purposes of implementing, administering, and making planning grants to States as soon as practicable for purposes of developing a State plan amendment or section 1315, 1396n(b), or 1396n(c) of this title waiver request (or an amendment to such a waiver) to provide qualifying community-based mobile crisis intervention services under this section, to remain available until expended.
 

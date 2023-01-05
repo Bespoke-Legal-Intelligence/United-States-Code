@@ -110,7 +110,7 @@ Each institution of higher education or consortium of such institutions desiring
 
 #### (d) Maintenance of effort
 
-If the Secretary determines that a recipient of funds under this section has failed to maintain the fiscal effort described in subsection (b)(3), then the Secretary may elect not to make grant payments under this section to such recipient.
+If the Secretary determines that a recipient of funds under this section has failed to maintain the fiscal effort described in subsection (b)(3),then the Secretary may elect not to make grant payments under this section to such recipient.
 
 #### (e) Factors for special consideration of applications
 

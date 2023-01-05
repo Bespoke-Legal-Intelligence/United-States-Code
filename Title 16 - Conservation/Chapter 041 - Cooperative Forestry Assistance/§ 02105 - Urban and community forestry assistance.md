@@ -52,9 +52,9 @@ The Secretary is authorized to provide financial, technical, and related assista
 
 #### (d) Program of education and technical assistance
 
-The Secretary, in cooperation with State foresters and State extension directors or equivalent State officials and interested members of the public, including nonprofit private organizations, shall implement a program of educationand technical assistance for urban and community forest resources. The program shall be designed to—
+The Secretary, in cooperation with State foresters and State extension directors or equivalent State officials and interested members of the public, including nonprofit private organizations, shall implement a program of education and technical assistance for urban and community forest resources. The program shall be designed to—
 
-&emsp;(1) assist urban areas and communities in conducting inventories of their forest resources, including inventories of the species, number, location, and health of trees in urban areas and communities, identifying opportunities for the establishment of plantings for the purposes of conserving energy, and determining the status of related resources (including fish and wildlife habitat, water resources, and trails);
+&emsp;(1) assist urban areas and communities in conducting inventories of their forest resources, including inventories of the species,number, location, and health of trees in urban areas and communities, identifying opportunities for the establishment of plantings for the purposes of conserving energy, and determining the status of related resources (including fish and wildlife habitat, water resources, and trails);
 
 &emsp;(2) assist State and local organizations (including community associations and schools) in organizing and conducting urban and community forestry projects and programs;
 
@@ -130,7 +130,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (C) Chairperson
 
-&emsp;&emsp;The Secretary shall select 1 member, from members appointed to the Council, who isnot an officer or employee of the United States nor any State, county, city, or town government, who shall serve as the chairperson of the Council.
+&emsp;&emsp;The Secretary shall select 1 member, from members appointed to the Council, who is not an officer or employee of the United States nor any State, county, city, or town government, who shall serve as the chairperson of the Council.
 
 #### (D) Terms
 
@@ -206,7 +206,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (6) Detail of personnel
 
-&emsp;Upon request of the Council, the Secretary is authorized to detail, on a reimbursable basis, any of the personnel of the Department of Agriculture to the Council to assist the Council in carrying out its duties under this chapter.
+&emsp;Upon request of the Council, the Secretary is authorized to detail, on a reimbursablebasis, any of the personnel of the Department of Agriculture to the Council to assist the Council in carrying out its duties under this chapter.
 
 #### (h) Definitions
 
@@ -256,5 +256,5 @@ Amendment by section 7511(c)(36) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

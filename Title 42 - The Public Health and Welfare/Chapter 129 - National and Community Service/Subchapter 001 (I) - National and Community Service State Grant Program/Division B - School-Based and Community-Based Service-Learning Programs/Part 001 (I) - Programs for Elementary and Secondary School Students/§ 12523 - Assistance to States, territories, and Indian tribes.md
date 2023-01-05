@@ -46,7 +46,7 @@ The Corporation, in consultation with the Secretary of Education, may make allot
 
 &emsp;&emsp;(A) local educational agencies;
 
-&emsp;&emsp;(B) Indian tribes (except that an Indian tribe distributing funds under this paragraphis not eligible to be a recipient of those funds);
+&emsp;&emsp;(B) Indian tribes (except that an Indian tribe distributing funds under this paragraph is not eligible to be a recipient of those funds);
 
 &emsp;&emsp;(C) public or private nonprofit organizations; or
 

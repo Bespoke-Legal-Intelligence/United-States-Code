@@ -32,7 +32,7 @@ The purposes of this section are—
 
 #### (c) Pinelands National Reserve and Federal Project Review Area; establishment; map, availability
 
-There is hereby established the Pinelands National Reserve which shall consist of the approximately 1,000,000-acre area generally depicted on the map entitled "Pinelands National Reserve Boundary Map" numbered NPS/80,011A and dated September 1978. Within the Pinelands National Reserve, there is hereby established the Federal Project Review Area, which shall consist of the approximately 486,000 acre area also depicted on the map. The map shall be on file and available for public inspection in the offices of the Department of the Interior in Washington, and in the offices of the State of New Jersey planning entity established pursuant to subsection (d), and in locations throughout the Pinelands National Reserve as determined by the planning entity.
+There is hereby established the Pinelands National Reserve which shall consist of the approximately 1,000,000-acre area generally depicted on the map entitled "Pinelands National Reserve Boundary Map" numbered NPS/80,011A and dated September 1978. Within the Pinelands National Reserve, there is hereby established the Federal Project Review Area, which shall consist of the approximately 486,000 acre area also depicted on the map. The map shall be onfile and available for public inspection in the offices of the Department of the Interior in Washington, and in the offices of the State of New Jersey planning entity established pursuant to subsection (d), and in locations throughout the Pinelands National Reserve as determined by the planning entity.
 
 #### (d) State planning entity for development of comprehensive management plan; membership; representation of interests; assistance and grants to State
 
@@ -76,7 +76,7 @@ The comprehensive management plan for the Pinelands National Reserve shall inclu
 
 &emsp;&emsp;(B) include a policy for the use of State and local police power responsibilities to the greatest extent practicable to regulate the use of land and water resources in a manner consistent with the purposes of this section; and
 
-&emsp;&emsp;(C) recognize existing economic activities within the area and provide for the protection and enhancement of such activities as farming, forestry, proprietary recreational facilities, and those indigenous industries and commercial and residential developments which are consistent with the findings and purposes of this section.
+&emsp;&emsp;(C) recognize existing economic activities within the area and provide for the protection and enhancement of such activities as farming, forestry, proprietary recreationalfacilities, and those indigenous industries and commercial and residential developments which are consistent with the findings and purposes of this section.
 
 &emsp;(4) A coordination and consistency component which details the ways in which local, State and Federal programs and policies may best be coordinated to promote the goals and policies of the management plan, and which details how land, water and structures managed by governmental or nongovernmental entities in the public interest within the area may be integrated into the management plan.
 
@@ -194,7 +194,7 @@ Nothing in this section shall be construed to limit or prohibit any Federal acti
 
 The Clean Water Act, referred to in subsec. (f)(9), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (f)(9), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+The Safe Drinking Water Act, referred to in subsec. (f)(9), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, §2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to theCode, see Short Title note set out under section 201 of Title 42 and Tables.
 
 The Outer Continental Shelf Lands Act, as amended, referred to in subsec. (k)(1), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 

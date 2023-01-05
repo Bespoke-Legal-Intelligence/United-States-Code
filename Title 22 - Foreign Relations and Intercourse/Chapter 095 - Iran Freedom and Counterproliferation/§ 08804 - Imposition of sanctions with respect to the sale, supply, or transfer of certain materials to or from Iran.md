@@ -66,7 +66,7 @@ Not later than 180 days after January 2, 2013, and every 180 days thereafter, th
 
 #### (f) Exception for persons exercising due diligence
 
-The President may not impose sanctions under subsection (a) or (c) with respect to a person if the President determines that the person has exercised due diligence in establishing and enforcing official policies, procedures, and controls to ensure that the person does not sell, supply, or transfer to or from Iran materials the sale, supply, or transfer of which would subject a person to sanctions under subsection (a) or conduct or facilitate a financial transaction for such a sale, supply, or transfer.
+The President may not impose sanctions under subsection (a) or (c) with respect to a person if the President determines that the person has exercised due diligence in establishing and enforcing official policies, procedures, and controls to ensure that the person does not sell, supply, or transfer to or from Iran materials the sale, supply, or transfer of which would subject a personto sanctions under subsection (a) or conduct or facilitate a financial transaction for such a sale, supply, or transfer.
 
 #### (g) Waiver
 

@@ -182,7 +182,7 @@ In this section:
 
 &emsp;&emsp;Except as provided in subparagraphs (B) and (C), assistance under this section may be used to carry out a project in a proposed service territory only if, as of the date on which the application of the eligible entity is submitted—
 
-&emsp;&emsp;&emsp;(i) not less than 50 percent (in the case of loans or loan guarantees provided in accordance with subsection (g)(1)(A)) of the households in the proposed service territory are unserved or have service levels below the minimum acceptable level of fixed broadband service, whether terrestrial or wireless, established under subsection (e); and
+&emsp;&emsp;&emsp;(i) not less than 50 percent (in the case of loans or loan guarantees provided in accordance with subsection (g)(1)(A)) of the households in the proposed service territory are unserved or have service levels below the minimum acceptable level offixed broadband service, whether terrestrial or wireless, established under subsection (e); and
 
 &emsp;&emsp;&emsp;(ii) broadband service is not provided in any part of the proposed service territory by 3 or more incumbent service providers.
 
@@ -326,7 +326,7 @@ For purposes of determining whether to provide assistance for a project under th
 
 #### (2) Recurring revenue
 
-&emsp;The Secretary shall consider the existing recurring revenues of the entity at the time ofapplication in determining an adequate level of credit support.
+&emsp;The Secretary shall consider the existing recurring revenues of the entity at the time of application in determining an adequate level of credit support.
 
 #### (h) Adequacy of security
 
@@ -498,7 +498,7 @@ Subsec. (d)(2)(B). Pub. L. 113–79, §6104(a)(2)(B)(ii), struck out "25" before
 
 Subsec. (d)(2)(C). Pub. L. 113–79, §6104(a)(2)(B)(iii)(I), struck out "3 or more" before "incumbent" in heading.
 
-Subsec. (d)(2)(C)(i). Pub. L. 113–79, §6104(a)(2)(B)(iii)(II), added cl. (i) and struck out former cl.(i). Prior to amendment, text read as follows: "Except as provided in clause (ii), subparagraph (A)(ii)shall not apply to an incumbent service provider that is upgrading broadband service to the existing territory of the incumbent service provider."
+Subsec. (d)(2)(C)(i). Pub. L. 113–79, §6104(a)(2)(B)(iii)(II), added cl. (i) and struck out former cl.(i). Prior to amendment, text read as follows: "Except as provided in clause (ii), subparagraph (A)(ii) shall not apply to an incumbent service provider that is upgrading broadband service to the existing territory of the incumbent service provider."
 
 Subsec. (d)(3)(B)(iii). Pub. L. 113–79, §6104(a)(2)(C), added cl. (iii).
 

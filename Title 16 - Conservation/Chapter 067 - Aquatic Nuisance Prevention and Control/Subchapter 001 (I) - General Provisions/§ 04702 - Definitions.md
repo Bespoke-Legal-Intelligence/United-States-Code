@@ -10,11 +10,11 @@ As used in this chapter, the term—
 
 &emsp;(4) "Director" means the Director of the United States Fish and Wildlife Service;
 
-&emsp;(5) "exclusive economic zone" means the Exclusive Economic Zone of the United Statesestablished by Proclamation Number 5030, dated March 10, 1983, and the equivalent zone of Canada;
+&emsp;(5) "exclusive economic zone" means the Exclusive Economic Zone of the United States established by Proclamation Number 5030, dated March 10, 1983, and the equivalent zone of Canada;
 
 &emsp;(6) "environmentally sound" methods, efforts, actions or programs means methods, efforts, actions or programs to prevent introductions or control infestations of aquatic nuisance species that minimize adverse impacts to the structure and function of an ecosystem and adverse effects on non-target organisms and ecosystems and emphasize integrated pest management techniques and nonchemical measures;
 
-&emsp;(7) "Great Lakes" means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, Lake Superior, and the connecting channels (Saint Mary's River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canandian <sup>1</sup> Border), and includes all other bodies of water within the drainage basin of such lakes and connecting channels.
+&emsp;(7) "Great Lakes" means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, Lake Superior, and the connecting channels (Saint Mary's River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canadian Border), and includes all other bodies of water within the drainage basin of such lakes and connecting channels.
 
 &emsp;(8) "Great Lakes region" means the 8 States that border on the Great Lakes;
 
@@ -50,17 +50,21 @@ As used in this chapter, the term—
 
 &emsp;(12) "Secretary" means the Secretary of the department in which the Coast Guard is operating;
 
-&emsp;(13) "Task Force" means the Aquatic Nuisance Species Task Force established under section 4721 of this title;
+&emsp;(13) "State" means each of the several States, the District of Columbia, American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, and the Virgin Islands of the United States;
 
-&emsp;(14) "territorial sea" means the belt of the sea measured from the baseline of the United States determined in accordance with international law, as set forth in Presidential Proclamation Number 5928, dated December 27, 1988;
+&emsp;(14) "recreational vessel" has the meaning given that term in section 1362 of title 33;
 
-&emsp;(15) "Under Secretary" means the Under Secretary of Commerce for Oceans and Atmosphere;
+&emsp;(15) "Task Force" means the Aquatic Nuisance Species Task Force established under section 4721 of this title;
 
-&emsp;(16) "waters of the United States" means the navigable waters and the territorial sea of the United States; and
+&emsp;(16) "territorial sea" means the belt of the sea measured from the baseline of the United States determined in accordance with international law, as set forth in Presidential Proclamation Number 5928, dated December 27, 1988;
 
-&emsp;(17) "unintentional introduction" means an introduction of nonindigenous species that occurs as the result of activities other than the purposeful or intentional introduction of the species involved, such as the transport of nonindigenous species in ballast or in water used to transport fish, mollusks or crustaceans for aquaculture or other purposes.
+&emsp;(17) "Under Secretary" means the Under Secretary of Commerce for Oceans and Atmosphere;
 
-(Pub. L. 101–646, title I, §1003, Nov. 29, 1990, 104 Stat. 4762; Pub. L. 102–580, title III, §302(b)(2), Oct. 31, 1992, 106 Stat. 4839; Pub. L. 104–332, §2(a)(2), (h)(1), (3), Oct. 26, 1996, 110 Stat. 4074, 4091.)
+&emsp;(18) "waters of the United States" means the navigable waters and the territorial sea of the United States; and
+
+&emsp;(19) "unintentional introduction" means an introduction of nonindigenous species that occurs as the result of activities other than the purposeful or intentional introduction of the species involved, such as the transport of nonindigenous species in ballast or in water used to transport fish, mollusks or crustaceans for aquaculture or other purposes.
+
+(Pub. L. 101–646, title I, §1003, Nov. 29, 1990, 104 Stat. 4762; Pub. L. 102–580, title III, §302(b)(2), Oct. 31, 1992, 106 Stat. 4839; Pub. L. 104–332, §2(a)(2), (h)(1), (3), Oct. 26, 1996, 110 Stat. 4074, 4091; Pub. L. 117–263, div. K, title CXIII, §11327(a), (e)(2), Dec. 23, 2022, 136 Stat. 4096, 4098.)
 
 #### <b>Editorial Notes</b>
 
@@ -75,6 +79,10 @@ The Alaska Native Claims Settlement Act, referred to in par. (9), is Pub. L. 92�
 Presidential Proclamation Number 5928, referred to in par. (14), is set out under section 1331 of Title 43.
 
 #### Amendments
+
+<b>2022</b>—Par. (7). Pub. L. 117–263, §11327(e)(2), substituted "Canadian" for "Canandian".
+
+Pars. (13) to (19). Pub. L. 117–263, §11327(a), added pars. (13) and (14) and redesignated former pars. (13) to (17) as (15) to (19), respectively.
 
 <b>1996</b>—Pub. L. 104–332, §2(h)(1), (3), made technical amendment to Pub. L. 101–646, §1003, which enacted this section.
 
@@ -103,6 +111,4 @@ Pars. (11) to (17). Pub. L. 104–332, §2(a)(2)(C), redesignated pars. (9) to (
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "Canadian".</i>
 

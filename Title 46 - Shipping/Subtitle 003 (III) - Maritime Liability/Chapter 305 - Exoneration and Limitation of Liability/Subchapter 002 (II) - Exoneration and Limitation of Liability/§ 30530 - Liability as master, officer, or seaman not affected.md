@@ -1,0 +1,30 @@
+### §30530. Liability as master, officer, or seaman not affected
+
+This chapter does not affect the liability of an individual as a master, officer, or seaman, even though the individual is also an owner of the vessel.
+
+(Pub. L. 109–304, §6(c), Oct. 6, 2006, 120 Stat. 1516, §30512; renumbered §30530, Pub. L. 117–263, div. K, title CXV, §11503(a)(3), Dec. 23, 2022, 136 Stat. 4130.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+30512
+
+46 App.:187.
+
+R.S. §4287.
+
+This section is substituted for the source provision for consistency with the restatement of 46 App. U.S.C. 183(a) and 189 in section 30505 and to eliminate unnecessary words. The reference in the source to particular sections is extended to include the entire chapter to simplify the reference and to conform to the obvious original policy and intent of the source provision.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Pub. L. 117–263 renumbered section 30512 of this title as this section.
+

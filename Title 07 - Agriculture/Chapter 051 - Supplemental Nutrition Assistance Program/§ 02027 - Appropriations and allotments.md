@@ -32,7 +32,7 @@ Not later than sixty days after the issuance of a report under subsection (a) of
 
 #### (e) Disposition of funds collected pursuant to claims
 
-Funds collected from claims against households or State agencies, including claims collected pursuant to section 2016(f) <sup>1</sup> of this title,subsections (g) and (h) of section 2020 of this title, subsections (b) and (c) of section 2022 of this title, and section 2025(c)(1) of this title, claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the supplemental nutrition assistance program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under section 2025(c) of this title shall be paid from the appropriation account for the fiscal year in which the funds are provided.
+Funds collected from claims against households or State agencies, including claims collected pursuant to section 2016(f) <sup>1</sup> of this title, subsections (g) and (h) of section 2020 of this title, subsections (b) and (c) of section 2022 of this title, and section 2025(c)(1) of this title, claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the supplemental nutrition assistance program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under section 2025(c) of this title shall be paid from the appropriation account for the fiscal year in which the funds are provided.
 
 #### (f) Transfer of funds
 
@@ -140,7 +140,7 @@ Subsecs. (c), (d). Pub. L. 96–58, §1(4), added subsecs. (c) and (d).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by sections 4001(b), 4002(a)(10), and 4406(a)(1) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

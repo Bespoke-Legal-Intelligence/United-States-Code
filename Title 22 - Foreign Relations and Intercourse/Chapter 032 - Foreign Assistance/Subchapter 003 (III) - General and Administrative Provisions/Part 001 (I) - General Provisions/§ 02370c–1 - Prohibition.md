@@ -32,7 +32,7 @@ Subject to subsections (b) through (f), the authorities contained in sections 23
 
 #### (d) Reinstatement of assistance
 
-The President may provide to a country assistance otherwise prohibited under subsection (a) upon certifying to the appropriate congressional committees that the government of such country—
+The President may provide to a country assistance otherwise prohibited under subsection\(a) upon certifying to the appropriate congressional committees that the government of such country—
 
 &emsp;(1) has implemented measures that include an action plan and actual steps to come into compliance with the standards outlined in subsection (b); and
 

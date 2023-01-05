@@ -14,7 +14,7 @@ In this subpart:
 
 &emsp;&emsp;&emsp;(iii) a third-party provider certified under section 3842(e) of this title (including a certified rangeland professional);
 
-&emsp;&emsp;(B) assesses rangeland or cropland function and describes conservation activities toenhance the economic and ecological management of that land; and
+&emsp;&emsp;(B) assesses rangeland or cropland function and describes conservation activities to enhance the economic and ecological management of that land; and
 
 &emsp;&emsp;(C) can be incorporated into a comprehensive planning document required by the Secretary for enrollment in a conservation program of the Department of Agriculture.
 
@@ -130,7 +130,7 @@ The Organic Foods Production Act of 1990, referred to in par. (4), is title XXI 
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 

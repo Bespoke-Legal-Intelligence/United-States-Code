@@ -66,7 +66,7 @@ The Administrator may enter into an interagency agreement with a Federal agency 
 
 #### (1) In general
 
-&emsp;In cooperation with the Chesapeake Executive Council, the Administrator may providetechnical assistance, and assistance grants, to nonprofit organizations, State and local governments, colleges, universities, and interstate agencies to carry out this section, subject to such terms and conditions as the Administrator considers appropriate.
+&emsp;In cooperation with the Chesapeake Executive Council, the Administrator may provide technical assistance, and assistance grants, to nonprofit organizations, State and local governments, colleges, universities, and interstate agencies to carry out this section, subject to such terms and conditions as the Administrator considers appropriate.
 
 #### (2) Federal share
 
@@ -246,7 +246,7 @@ There are authorized to be appropriated to carry out this section—
 
 #### Codification
 
-November 7, 2000, referred to in subsecs. (h)(2)(C), (D), and (i)(1), was in the original "the date of enactment ofthis section", which was translated as meaning the date of enactment of Pub. L. 106–457, which amended this section generally, to reflect the probable intent of Congress.
+November 7, 2000, referred to in subsecs. (h)(2)(C), (D), and (i)(1), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 106–457, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -688,7 +688,7 @@ Findings.—Congress finds that—
 
 &emsp;"(4) the cooperative program described in paragraph (3) serves as a national and international model for the management of estuaries; and
 
-&emsp;"(5) there is a need to expand Federal support for monitoring, management, and restoration activities in the Chesapeake Bay and the tributaries of the Bayin order to meet and further the original and subsequent goals and commitments of the Chesapeake Bay Program.
+&emsp;"(5) there is a need to expand Federal support for monitoring, management, and restoration activities in the Chesapeake Bay and the tributaries of the Bay in order to meet and further the original and subsequent goals and commitments of the Chesapeake Bay Program.
 
 "(b)
 
@@ -770,7 +770,7 @@ Sec. 206. <i>Strengthen Accountability</i>. The Committee, in collaboration with
 
 #### PART 3—Restore Chesapeake Bay Water Quality
 
-Sec. 301. <i>Water Pollution Control Strategies</i>. In preparing the report required by subsection 202(a) of this order, the Administrator of the EPA (Administrator) shall, after consulting with appropriate State agencies, examine how to make full use of its authorities under the Clean Water Act to protect and restore the Chesapeake Bay and its tributary waters and, as appropriate, shall consider revising any guidance and regulations. The Administrator shall identify pollution control strategies and actions authorized by the EPA's existing authorities to restore the Chesapeake Bay that:
+Sec. 301. <i>Water Pollution Control Strategies</i>. In preparing the report required by subsection 202(a) of this order, the Administrator of the EPA (Administrator) shall, after consulting with appropriate State agencies, examine how to make full use of its authorities under the Clean Water Act to protect and restore the Chesapeake Bay and its tributary waters and, as appropriate, shall consider revising any guidance and regulations.The Administrator shall identify pollution control strategies and actions authorized by the EPA's existing authorities to restore the Chesapeake Bay that:
 
 (a) establish a clear path to meeting, as expeditiously as practicable, water quality and environmental restoration goals for the Chesapeake Bay;
 
@@ -808,7 +808,7 @@ Sec. 502. The Administrator of the EPA shall, within 1 year of the date of this 
 
 #### PART 6—Protect Chesapeake Bay as the Climate Changes
 
-Sec. 601. The Secretaries of Commerce and the Interior shall, to the extent permitted by law, organize and conduct research and scientific assessments to support development of the strategy to adapt to climate change impacts on the Chesapeake Bay watershed as requiredin section 202 of this order and to evaluate the impacts of climate change on the Chesapeake Bay in future years. Such research should include assessment of:
+Sec. 601. The Secretaries of Commerce and the Interior shall, to the extent permitted by law, organize and conduct research and scientific assessments to support development of the strategy to adapt to climate change impacts on the Chesapeake Bay watershed as required in section 202 of this order and to evaluate the impacts of climate change on the Chesapeake Bay in future years. Such research should include assessment of:
 
 (a) the impact of sea level rise on the aquatic ecosystem of the Chesapeake Bay, including nutrient and sediment load contributions from stream banks and shorelines;
 
@@ -850,7 +850,7 @@ Sec. 801. The Secretaries of Commerce and the Interior shall, to the extent perm
 
 #### PART 9—Living Resources Protection and Restoration
 
-Sec. 901. The Secretaries of Commerce and the Interior shall, to the extent permitted by law, identify and prioritize critical living resources of the Chesapeake Bay and its watershed, conduct collaborative research and habitat protection activities that address expected outcomes for these species, and develop a report addressing these topics as required in section 202 of this order. The Secretaries of Commerce and the Interior shall coordinate agency activities related to living resources in estuarine waters to ensure maximum benefit to the Chesapeake Bay resources.
+Sec. 901. The Secretaries of Commerce and the Interior shall, to the extent permitted by law, identify and prioritize critical living resources of the ChesapeakeBay and its watershed, conduct collaborative research and habitat protection activities that address expected outcomes for these species, and develop a report addressing these topics as required in section 202 of this order. The Secretaries of Commerce and the Interior shall coordinate agency activities related to living resources in estuarine waters to ensure maximum benefit to the Chesapeake Bay resources.
 
 #### PART 10—Exceptions
 

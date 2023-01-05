@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(1) mushrooms are an important food that is a valuable part of the human diet;
 
-&emsp;(2) the production of mushrooms plays a significant role in the Nation's economy in that mushrooms are produced by hundreds of mushroom producers, distributed through thousands of wholesale and retail outlets, and consumed by millions of people throughout the United States and foreign countries;
+&emsp;(2) the production of mushrooms plays a significant role in the Nation's economy in thatmushrooms are produced by hundreds of mushroom producers, distributed through thousands of wholesale and retail outlets, and consumed by millions of people throughout the United States and foreign countries;
 
 &emsp;(3) mushroom production benefits the environment by efficiently using agricultural byproducts;
 
@@ -38,11 +38,11 @@ Nothing in this chapter may be construed to provide for the control of productio
 
 #### Constitutionality
 
-For information regarding constitutionality of subtitle B of title XIX of Pub. L. 101–624, which enacted this chapter (sections 6101 et seq.), see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of subtitle B of title XIX of Pub. L. 101–624, which enacted this chapter (sections 6101 et seq.), see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
-Pub. L. 101–624, title XIX, §1921, Nov. 28, 1990, 104 Stat. 3854, provided that: "This subtitle \[subtitle B\(§§1921–1933) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the 'Mushroom Promotion, Research, and Consumer Information Act of 1990'."
+Pub. L. 101–624, title XIX, §1921, Nov. 28, 1990, 104 Stat. 3854, provided that: "This subtitle \[subtitle B (§§1921–1933) of title XIX of Pub. L. 101–624, enacting this chapter\] may be cited as the 'Mushroom Promotion, Research, and Consumer Information Act of 1990'."
 

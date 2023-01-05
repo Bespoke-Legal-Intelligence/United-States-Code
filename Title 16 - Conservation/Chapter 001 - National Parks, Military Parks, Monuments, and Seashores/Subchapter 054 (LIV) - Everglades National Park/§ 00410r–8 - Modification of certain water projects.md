@@ -18,7 +18,7 @@
 
 #### (c) Flood protection; Eight and One-Half Square Mile Area
 
-If the Secretary of the Army makes a determination pursuant to subsection (b) that the "Eight and One-Half Square Mile Area" will be adversely affected, the Secretary of the Army isauthorized and directed to construct a flood protection system for that portion of presently developed land within such area.
+If the Secretary of the Army makes a determination pursuant to subsection (b) that the "Eight and One-Half Square Mile Area" will be adversely affected, the Secretary of the Army is authorized and directed to construct a flood protection system for that portion of presently developed land within such area.
 
 #### (d) Flood protection; adjacent agricultural area
 
@@ -62,7 +62,7 @@ No Federal license, permit, approval, right-of-way or assistance shall be grante
 
 #### (j) Protection of natural values
 
-The Secretary of the Army is directed in analysis, design and engineering associated with the development of a general design memorandum for works and operations in the "C–111 basin" area of the East Everglades, to take all measures which are feasible and consistent with the purposes of the project to protect natural values associated with Everglades National Park. Upon completion of a general design memorandum forthe area, the Secretary shall prepare and transmit a report to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the United States Senate and the Committee on Natural Resources and the Committee on Public Works and Transportation of the United States House of Representatives on the status of the natural resources of the C–111 basin and functionally related lands.
+The Secretary of the Army is directed in analysis, design and engineering associated with the development of a general design memorandum for works and operations in the "C–111 basin" area of the East Everglades, to take all measures which are feasible and consistent with the purposes of the project to protect natural values associated with Everglades National Park. Upon completion of a general design memorandum for the area, the Secretary shall prepare and transmit a report to the Committee on Energy and Natural Resources and the Committee on Environment and Public Works of the United States Senate and the Committee on Natural Resources and the Committee on Public Works and Transportation of the United States House of Representatives on the status of the natural resources of the C–111 basin and functionally related lands.
 
 #### (k) Acquisition of additional lands
 
@@ -74,7 +74,7 @@ The Secretary of the Army is directed in analysis, design and engineering associ
 
 (4) The lands referred to in paragraph (1) are those lands or interests therein adjacent to, or affecting the restoration of natural water flows to, the park or Florida Bay which are located east of the park and known as the Frog Pond, Rocky Glades Agricultural Area, and the Eight-and-One-Half Square-Mile Area.
 
-(Pub. L. 101–229, title I, §104, Dec. 13, 1989, 103 Stat. 1949; Pub. L. 103–219, Mar. 9, 1994, 108 Stat. 98; Pub. L. 103–437, §6(d)(9), Nov. 2, 1994, 108 Stat. 4584.)
+(Pub. L. 101–229, title I, §104, Dec. 13, 1989, 103 Stat. 1949; Pub. L. 103–219, Mar. 9, 1994, 108 Stat.98; Pub. L. 103–437, §6(d)(9), Nov. 2, 1994, 108 Stat. 4584.)
 
 #### <b>Editorial Notes</b>
 

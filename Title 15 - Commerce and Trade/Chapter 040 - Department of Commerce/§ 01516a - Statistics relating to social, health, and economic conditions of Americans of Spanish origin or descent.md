@@ -8,7 +8,7 @@ The Department of Commerce, the Department of Labor, the Department of Health an
 
 #### Change of Name
 
-"Department of Health and Human Services" substituted for "Department of Health, Education, andWelfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Development of Program for the Collection, Analysis and Publication of Data
 

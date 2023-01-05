@@ -48,7 +48,7 @@ Nothing in this section may be construed to affect the application of section 12
 
 In this section, the term "STEM" means the academic and professional disciplines of science, technology, engineering, and mathematics.
 
-(Pub. L. 110–69, title IV, §4002, Aug. 9, 2007, 121 Stat. 600; Pub. L. 111–358, title III, §302, Jan. 4,2011, 124 Stat. 3997; Pub. L. 114–329, title III, §314, Jan. 6, 2017, 130 Stat. 3015.)
+(Pub. L. 110–69, title IV, §4002, Aug. 9, 2007, 121 Stat. 600; Pub. L. 111–358, title III, §302, Jan. 4, 2011, 124 Stat. 3997; Pub. L. 114–329, title III, §314, Jan. 6, 2017, 130 Stat. 3015.)
 
 #### <b>Editorial Notes</b>
 

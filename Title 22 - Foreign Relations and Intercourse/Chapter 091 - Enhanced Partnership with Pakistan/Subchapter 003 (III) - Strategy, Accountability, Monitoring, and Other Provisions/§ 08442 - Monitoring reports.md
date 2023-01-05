@@ -14,7 +14,7 @@ Not later than 180 days after the submission of the Pakistan Assistance Strategy
 
 &emsp;(5) a description of any shortfall in United States financial, physical, technical, or human resources that hinder the effective use and monitoring of such funds;
 
-&emsp;(6) a description of any negative impact, including the absorptive capacity of the regionfor which the resources are intended, of United States bilateral or multilateral assistance and recommendations for modification of funding, if any;
+&emsp;(6) a description of any negative impact, including the absorptive capacity of the region for which the resources are intended, of United States bilateral or multilateral assistance and recommendations for modification of funding, if any;
 
 &emsp;(7) any incidents or reports of waste, fraud, and abuse of expenditures under subchapter I of this chapter;
 

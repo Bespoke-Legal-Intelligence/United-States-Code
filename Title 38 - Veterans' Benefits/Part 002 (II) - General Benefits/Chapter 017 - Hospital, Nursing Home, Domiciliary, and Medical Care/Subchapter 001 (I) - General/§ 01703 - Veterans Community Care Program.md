@@ -16,6 +16,8 @@ In General.—(1) There is established a program to furnish hospital care, medic
 
 (3) A covered veteran may only receive care or services under this section upon the authorization of such care or services by the Secretary.
 
+(4) Nothing in this section shall be construed to authorize the Secretary to suspend the program established under paragraph (1).
+
 (b)
 
 Covered Veterans.—For purposes of this section, a covered veteran is any veteran who—
@@ -87,6 +89,8 @@ Conditions Under Which Care Is Required To Be Furnished Through Non-Department P
 &emsp;&emsp;(v) Such other considerations as the Secretary considers appropriate.
 
 (3) If the Secretary has determined that the Department does not offer the care or services the covered veteran requires under subparagraph (A) of paragraph (1), that the Department does not operate a full-service medical facility in the State in which the covered veteran resides under subparagraph (B) of such paragraph, that the covered veteran is described under subparagraph (C) of such paragraph, or that the Department is not able to furnish care or services in a manner that complies with designated access standards developed by the Secretary under section 1703B of this title under subparagraph (D) of such paragraph, the decision to receive hospital care, medical services, or extended care services under such subparagraphs from a health care provider specified in subsection (c) shall be at the election of the veteran.
+
+(4) In determining under paragraph (1)(D) whether the Department is able to furnish care or services in a manner that complies with designated access standards developed by the Secretary under section 1703B of this title, for purposes of calculating a wait time for a veteran to schedule an appointment at a medical facility of the Department, the Secretary shall measure from the date of request for the appointment, unless a later date has been agreed to by the veteran in consultation with a health care provider of the Department, to the first next available appointment date relevant to the requested medical service.
 
 (e)
 
@@ -176,11 +180,11 @@ Contracts To Establish Networks of Health Care Providers.—(1)(A) The Secretary
 
 (i)
 
-Payment Rates for Care and Services.—(1) Except as provided in paragraph (2), and to the extent practicable, the rate paid for hospital care, medical services, or extended care services under any provision in this title may not exceed the rate paid by the United States to a provider of services (as defined in section 1861(u) of the Social Security Act (42 U.S.C. 1395x(u))) or a supplier (as defined in section 1861(d) of such Act (42 U.S.C. 1395x(d))) under the Medicare program under title XI or title XVIII of the Social Security Act (42 U.S.C. 1301 et seq.), including section 1834 of such Act (42 U.S.C. 1395m), for the same care or services.
+Payment Rates for Care and Services.—(1) Except as provided in paragraph (2), and to the extent practicable, the rate paid for hospital care, medical services, or extended care services under any provision in this title may not exceed the rate paid by the United States to a provider of services (as defined in section 1861(u) of theSocial Security Act (42 U.S.C. 1395x(u))) or a supplier (as defined in section 1861(d) of such Act (42 U.S.C. 1395x(d))) under the Medicare program under title XI or title XVIII of the Social Security Act (42 U.S.C. 1301 et seq.), including section 1834 of such Act (42 U.S.C. 1395m), for the same care or services.
 
 (2)(A) A higher rate than the rate paid by the United States as described in paragraph (1) may be negotiated with respect to the furnishing of care or services to a covered veteran who resides in a highly rural area.
 
-(B) In this paragraph, the term "highly rural area" means an area located in a county thathas fewer than seven individuals residing in that county per square mile.
+(B) In this paragraph, the term "highly rural area" means an area located in a county that has fewer than seven individuals residing in that county per square mile.
 
 (3) With respect to furnishing care or services under this section in Alaska, the Alaska Fee Schedule of the Department of Veterans Affairs shall be followed, except for when another payment agreement, including a contract or provider agreement, is in effect.
 
@@ -244,13 +248,13 @@ Monitoring of Care Provided.—(1)(A) Not later than 540 days after the date of 
 
 &emsp;&emsp;&emsp;(II) scheduling and completing appointments.
 
-&emsp;(B) Report the number of medical service lines the Secretary has determined under subsection (e)(1) not to be providing hospital care, medical services, or extended care services that comply with the standards for quality established by the Secretary.
+&emsp;(B) Report the number of medical service lines the Secretary has determined under subsection (e)(1) not to be providing hospital care, medical services, or extended care servicesthat comply with the standards for quality established by the Secretary.
 
 &emsp;(C) Assess the use of academic affiliates and centers of excellence of the Department to furnish hospital care, medical services, and extended care services to covered veterans under this section.
 
 &emsp;(D) Assess the hospital care, medical services, and extended care services furnished to covered veterans under this section by medical facilities operated by Federal agencies other than the Department.
 
-(3) Not later than 540 days after the date of the enactment of the Caring for Our Veterans Act of2018 and not less frequently than once each year thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the information gathered under paragraph (2).
+(3) Not later than 540 days after the date of the enactment of the Caring for Our Veterans Act of 2018 and not less frequently than once each year thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the information gathered under paragraph (2).
 
 (n)
 
@@ -270,7 +274,7 @@ Definitions.—In this section:
 
 &emsp;(2) The term "medical service line" means a clinic within a Department medical center.
 
-(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, §10(a), Oct. 5, 2011, 125 Stat. 396; Pub. L. 115–182, title I, §101(a)(1), June 6, 2018, 132 Stat. 1395; Pub. L. 115–251, title II, §§201(a), 202, Sept. 29, 2018, 132 Stat. 3171, 3172.)
+(Added Pub. L. 99–272, title XIX, §19012(b)(1), Apr. 7, 1986, 100 Stat. 380, §603; amended Pub. L. 99–166, title I, §102(b)(1), Dec. 3, 1985, 99 Stat. 943; Pub. L. 99–272, title XIX, §19012(c)(5)(A), Apr. 7, 1986, 100 Stat. 382; Pub. L. 100–322, title I, §§101(e)(3), 104, 112(a), May 20, 1988, 102 Stat. 492, 493, 499; Pub. L. 100–687, div. B, title XV, §1503(a)(1), Nov. 18, 1988, 102 Stat. 4133; Pub. L. 102–54, §14(b)(9), June 13, 1991, 105 Stat. 283; renumbered §1703 and amended Pub. L. 102–83, §§4(a)(1), (3)–(5), (b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 102–585, title V, §501, Nov. 4, 1992, 106 Stat. 4955; Pub. L. 104–262, title I, §104(b), Oct. 9, 1996, 110 Stat. 3184; Pub. L. 108–422, title VI, §601, Nov. 30, 2004, 118 Stat. 2396; Pub. L. 109–13, div. A, title VI, §6080, May 11, 2005, 119 Stat. 302; Pub. L. 110–387, title VIII, §802, Oct. 10, 2008, 122 Stat. 4141; Pub. L. 112–37, §10(a), Oct. 5, 2011, 125 Stat. 396; Pub. L. 115–182, title I, §101(a)(1), June 6, 2018, 132 Stat. 1395; Pub. L. 115–251, title II, §§201(a), 202, Sept. 29, 2018, 132 Stat. 3171, 3172; Pub. L. 117–328, div. U, title I, §§121, 125(b), Dec. 29, 2022, 136 Stat. 5415, 5418.)
 
 #### <b>Editorial Notes</b>
 
@@ -285,6 +289,10 @@ For the effective date specified in section 101(b) of the Caring for Our Veteran
 Section 372 of the National Organ Transplantation Act, referred to in subsec. (l)(2)(B), probably means section 372 of the Public Health Service Act, act July 1, 1944, ch. 373, which was enacted by section 201 of the National Organ Transplant Act, Pub. L. 98–507, and is classified to section 274 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(4). Pub. L. 117–328, §125(b), added par. (4).
+
+Subsec. (d)(4). Pub. L. 117–328, §121, added par. (4).
 
 <b>2018</b>—Pub. L. 115–182 amended section generally. Prior to amendment, section related to contracts for hospital care and medical services in non-Department facilities.
 
@@ -316,7 +324,7 @@ Subsec. (a)(7). Pub. L. 104–262, §104(b)(3), substituted "1712(a)(1)(F)" for 
 
 Pub. L. 102–83, §4(a)(5), substituted "non-Department" for "non-Veterans' Administration" in section catchline.
 
-Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted "1710 or 1712" for "610 or 612" in introductory provisions, "1712(a)(1)(B)" for "612(a)(1)(B)" in par. (2)(A), "1712(a)" for "612(a)" and "1712(a)(5)(B)" for "612(a)(5)(B)" in par. (2)(B), "1712(a)(3)" for "612(a)(3)" in par. (2)(C), "1720" for "620" in par. (3), and "1712(b)(1)(F)" for "612(b)(1)(F)" in par. (7).
+Subsec. (a). Pub. L. 102–83, §5(c)(1), substituted "1710 or 1712" for "610 or 612" in introductory provisions, "1712(a)(1)(B)" for "612(a)(1)(B)" in par. (2)(A), "1712(a)"for "612(a)" and "1712(a)(5)(B)" for "612(a)(5)(B)" in par. (2)(B), "1712(a)(3)" for "612(a)(3)" in par. (2)(C), "1720" for "620" in par. (3), and "1712(b)(1)(F)" for "612(b)(1)(F)" in par. (7).
 
 Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" for "Administrator" in introductory provisions and in par. (2)(C).
 
@@ -418,6 +426,182 @@ Appropriate committees of congress defined.—In this paragraph, the term 'appro
 
 &emsp;&emsp;"(ii) the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives."
 
+#### Plan Regarding Informing Veterans of Expected Wait Times for Appointments for Care
+
+Pub. L. 117–328, div. U, title I, §122, Dec. 29, 2022, 136 Stat. 5415, provided that:
+
+"(a)
+
+In General.—Not later than October 1, 2023, the Secretary of Veterans Affairs shall develop a plan to ensure that veterans eligible for care or services pursuant to section 1703(d)(1) of title 38, United States Code, including veterans making their own appointments using advanced technology, are informed of the expected number of days between the date on which the veteran requested care until—
+
+&emsp;"(1) the date on which the veteran will be able to receive care through a non-Department of Veterans Affairs provider under such section;
+
+&emsp;"(2) the date on which the veteran will be able to receive care through a provider of the Department;
+
+&emsp;"(3) the date on which—
+
+&emsp;&emsp;"(A) the Department will schedule an appointment for care through a non-Department provider under such section; or
+
+&emsp;&emsp;"(B) for veterans making their own appointments using advanced technology, the veteran would be able to schedule an appointment for care through a provider of the Department or through a non-Department provider under such section;
+
+&emsp;"(4) the date on which the Department will schedule an appointment for care through a provider of the Department.
+
+"(b)
+
+Implementation.—The Secretary shall implement the plan required under subsection (a) not later than three years after the date of the enactment of this Act \[Dec. 29, 2022\].
+
+"(c)
+
+Matters To Be Included.—The Secretary shall include in the plan required under subsection (a) a list of the information technology systems, contracting mechanisms, staff, legislative authorities, pilot programs, and other components that the Secretary determines necessary to implement the plan within the three-year implementation deadline under subsection (b), as well as their associated milestones and resource requirements.
+
+"(d)
+
+Updates.—Not less frequently than quarterly, the Secretary shall brief the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives and submit to those committees a report in writing regarding the status of the implementation of the plan required under subsection (a), to include an assessment of the progress of the Secretary in meeting the three-year implementation deadline under subsection (b)."
+
+#### Community Care Self-Scheduling Pilot Program
+
+Pub. L. 117–328, div. U, title I, §§131–134, Dec. 29, 2022, 136 Stat. 5419–5422, provided that:
+
+#### "SEC. 131. DEFINITIONS.
+
+"In this chapter \[chapter 3 (§§131–134) of title I of div. U of Pub. L. 117–328, enacting this note\]:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Veterans' Affairs and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives.
+
+&emsp;"(2)
+
+Covered veteran.—The term 'covered veteran' means a covered veteran under section 1703(b) of title 38, United States Code.
+
+&emsp;"(3)
+
+Pilot program.—The term 'pilot program' means the pilot program required under section 132(a).
+
+&emsp;"(4)
+
+Veterans community care program.—The term 'Veterans Community Care Program' means the program to furnish hospital care, medical services, and extended care services to covered veterans under section 1703 of title 38, United States Code.
+
+#### "SEC. 132. PILOT PROGRAM ESTABLISHING COMMUNITY CARE APPOINTMENT SELF-SCHEDULING TECHNOLOGY.
+
+"(a)
+
+Pilot Program.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs shall commence a pilot program under which covered veterans eligible for hospital care, medical services, or extended care services under subsection (d)(1) of section 1703 of title 38, United States Code, may use a technology that has the capabilities specified in section 133(a) to schedule and confirm medical appointments with health care providers participating in the Veterans Community Care Program.
+
+"(b)
+
+Expansion or Development of New Technology.—In carrying out the pilot program, the Secretary may expand capabilities of an existing appointment self-scheduling technology of the Department of Veterans Affairs or purchase a new appointment self-scheduling technology.
+
+"(c)
+
+Competition.—In contracting for the expansion of capabilities of an existing appointment self-scheduling technology of the Department or the purchase of a new appointment self-scheduling technology under the pilot program, the Secretary shall comply with section 3301 of title 41, United States Code, and award any such contract not later than 270 days after the date of the enactment of this Act.
+
+"(d)
+
+Selection of Locations.—The Secretary shall select not fewer than two Veterans Integrated Services Networks of the Department in which to carry out the pilot program.
+
+"(e)
+
+Duration of Pilot Program.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the Secretary shall carry out the pilot program for an 18-month period.
+
+&emsp;"(2)
+
+Extension.—The Secretary may extend the duration of the pilot program and may expand the selection of Veterans Integrated Services Networks under subsection (d) if the Secretary determines that the pilot program is reducing the wait times of veterans seeking hospital care, medical services, or extended care services under the Veterans Community Care Program.
+
+"(f)
+
+Outreach.—The Secretary shall ensure that veterans participating in the Veterans Community Care Program in Veterans Integrated Services Networks in which the pilot program is being carried out are informed about the pilot program.
+
+#### "SEC. 133. APPOINTMENT SELF-SCHEDULING CAPABILITIES.
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall ensure that the appointment self-scheduling technology used in the pilot program includes the following capabilities:
+
+&emsp;"(1) Capability to self-schedule, modify, and cancel appointments directly online for primary care, specialty care, and mental health care under the Veterans Community Care Program with regard to each category of eligibility under section 1703(d)(1) of title 38, United States Code.
+
+&emsp;"(2) Capability to support appointments for the provision of health care under the Veterans Community Care Program regardless of whether such care is provided in person or through telehealth services.
+
+&emsp;"(3) Not fewer than two of the following capabilities:
+
+&emsp;&emsp;"(A) Capability to view appointment availability in real time to the extent practicable.
+
+&emsp;&emsp;"(B) Capability to load relevant patient information from the Decision Support Tool of the Department or any other information technology system of the Department used to determine the eligibility of veterans for health care under section 1703(d)(1) of title 38, United States Code.
+
+&emsp;&emsp;"(C) Capability to search for providers and facilities participating in the Veterans Community Care Program based on distance from the residential address of a veteran.
+
+&emsp;&emsp;"(D) Capability to filter provider results by clinical expertise, ratings, reviews, sex, languages spoken, and other criteria as determined by the Secretary.
+
+&emsp;&emsp;"(E) Capability to provide telephonic and electronic contact information for all such providers that do not offer online scheduling at the time.
+
+&emsp;&emsp;"(F) Capability to store and print authorization letters for veterans for health care under the Veterans Community Care Program.
+
+&emsp;&emsp;"(G) Capability to provide prompts or reminders to veterans to schedule initial appointments or follow-up appointments.
+
+&emsp;&emsp;"(H) Capability to be used 24 hours per day, seven days per week.
+
+&emsp;&emsp;"(I) Capability to ensure veterans who self-schedule appointments through the appointment self-scheduling technology have scheduled such appointment with a provider possessing the required specialty and clinical expertise.
+
+&emsp;&emsp;"(J) Capability to integrate with the Veterans Health Information Systems and Technology Architecture of the Department and the health record deployed by the Electronic Health Record Modernization program, or any successor information technology system or health record of the Department.
+
+&emsp;&emsp;"(K) Capability to integrate with information technology systems of Third Party Administrators.
+
+"(b)
+
+Independent Validation and Verification.—
+
+&emsp;"(1)
+
+In general.—The Comptroller General of the United States shall evaluate whether the appointment self-scheduling technology used in the pilot program includes the capabilities required under subsection (a) and successfully performs such capabilities.
+
+&emsp;"(2)
+
+Briefing.—Not later than 30 days after the date on which the Comptroller General completes the evaluation under paragraph (1), the Comptroller General shall brief the appropriate congressional committees on such evaluation.
+
+"(c)
+
+Certification.—Not later than 18 months after commencement of the pilot program, the Secretary shall certify to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives whether the appointment self-scheduling technology used in the pilot program and any other patient self-scheduling technology developed or used by the Department of Veterans Affairs to schedule appointments under the Veterans Community Care Program as of the date of the certification includes the capabilities required under subsection (a).
+
+"(d)
+
+Third Party Administrator Defined.—In this section, the term 'Third Party Administrator' means an entity that manages a provider network and performs administrative services related to such network within the Veterans Community Care Program under section 1703 of title 38, United States Code.
+
+#### "SEC. 134. REPORT.
+
+"Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, the Secretary of Veterans Affairs shall submit to the appropriate congressional committees a report that includes—
+
+&emsp;"(1) an assessment by the Secretary of the pilot program during the 180-day period preceding the date of the report, including—
+
+&emsp;&emsp;"(A) the cost of the pilot program;
+
+&emsp;&emsp;"(B) the volume of usage of the appointment self-scheduling technology under the pilot program;
+
+&emsp;&emsp;"(C) the quality of the pilot program;
+
+&emsp;&emsp;"(D) patient satisfaction with the pilot program;
+
+&emsp;&emsp;"(E) benefits to veterans of using the pilot program;
+
+&emsp;&emsp;"(F) the feasibility of allowing self-scheduling for different specialties under the pilot program;
+
+&emsp;&emsp;"(G) participation in the pilot program by health care providers under the Veterans Community Care Program; and
+
+&emsp;&emsp;"(H) such other findings and conclusions with respect to the pilot program as the Secretary considers appropriate; and
+
+&emsp;"(2) such recommendations as the Secretary considers appropriate regarding—
+
+&emsp;&emsp;"(A) extension of the pilot program to other or all Veterans Integrated Service Networks of the Department of Veterans Affairs; and
+
+&emsp;&emsp;"(B) making the pilot program permanent."
+
 #### Support by Department of Veterans Affairs of Maternity Care Coordination
 
 Pub. L. 117–69, §§2, 3, Nov. 30, 2021, 135 Stat. 1495, 1496, provided that:
@@ -440,7 +624,7 @@ Pregnancy-associated death.—The term 'pregnancy-associated death' means the de
 
 &emsp;"(4)
 
-Pregnancy-related death.—The term 'pregnancy-related death' means the death of a pregnantor postpartum individual that occurs during pregnancy or within one year following pregnancy from a pregnancy complication, a chain of events initiated by pregnancy, or the aggravation of an unrelated condition by the physiologic effects of pregnancy.
+Pregnancy-related death.—The term 'pregnancy-related death' means the death of a pregnant or postpartum individual that occurs during pregnancy or within one year following pregnancy from a pregnancy complication, a chain of events initiated by pregnancy, or the aggravation of an unrelated condition by the physiologic effects of pregnancy.
 
 &emsp;"(5)
 
@@ -704,7 +888,7 @@ Covered Veterans.—For purposes of the pilot program under this section, a cove
 
 "(c)
 
-Covered Health Services.—For purposes of the pilot program under this section, a covered health service with respect to a covered veteran is any hospital care, medical service, rehabilitative service, or preventative health service that is authorized to be provided by the Secretary to the veteran under chapter 17of title 38, United States Code, or any other provision of law.
+Covered Health Services.—For purposes of the pilot program under this section, a covered health service with respect to a covered veteran is any hospital care, medical service, rehabilitative service, or preventative health service that is authorized to be provided by the Secretary to the veteran under chapter 17 of title 38, United States Code, or any other provision of law.
 
 "(d)
 

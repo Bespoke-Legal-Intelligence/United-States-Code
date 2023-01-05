@@ -80,7 +80,7 @@ Tiered testing.—When requiring the development of new information under this s
 
 #### (c) Exemption
 
-(1) Any person required by a rule or order under subsection (a) to conduct tests and submit information on a chemical substance or mixture may apply to the Administrator (in such formand manner as the Administrator shall prescribe) for an exemption from such requirement.
+(1) Any person required by a rule or order under subsection (a) to conduct tests and submit information on a chemical substance or mixture may apply to the Administrator (in such form and manner as the Administrator shall prescribe) for an exemption from such requirement.
 
 (2) If, upon receipt of an application under paragraph (1), the Administrator determines that—
 
@@ -122,7 +122,7 @@ Tiered testing.—When requiring the development of new information under this s
 
 #### (d) Notice
 
-Upon the receipt of any information pursuant to a rule, order, or consent agreement under subsection (a), the Administrator shall publish a notice of the receipt of such information in the Federal Register within 15 days of its receipt. Subject to section 2613 of this title, each such notice shall (1) identify the chemical substanceor mixture for which information has been received; (2) list the uses or intended uses of such substance or mixture and the information required by the applicable protocols and methodologies for the development of information; and (3) describe the nature of the information developed. Except as otherwise provided in section 2613 of this title, such information shall be made available by the Administrator for examination by any person.
+Upon the receipt of any information pursuant to a rule, order, or consent agreement under subsection (a), the Administrator shall publish a notice of the receipt of such information in the Federal Register within 15 days of its receipt. Subject to section 2613 of this title, each such notice shall (1) identify the chemical substance or mixture for which information has been received; (2) list the uses or intended uses of such substance or mixture and the information required by the applicable protocols and methodologies for the development of information; and (3) describe the nature of the information developed. Except as otherwise provided in section 2613 of this title, such information shall be made available by the Administrator for examination by any person.
 
 #### (e) Priority list
 
@@ -166,13 +166,13 @@ Upon the receipt of any information pursuant to a rule, order, or consent agreem
 
 &emsp;(viii) One member appointed by the Secretary of Commerce from officers or employees of the Department of Commerce.
 
-&emsp;(ix) One member appointed by the Chairman of the Consumer Product Safety Commissionfrom Commissioners or employees of the Commission.
+&emsp;(ix) One member appointed by the Chairman of the Consumer Product Safety Commission from Commissioners or employees of the Commission.
 
 &emsp;(x) One member appointed by the Commissioner of Food and Drugs from employees of the Food and Drug Administration.
 
 (B)(i) An appointed member may designate an individual to serve on the committee on the member's behalf. Such a designation may be made only with the approval of the applicable appointing authority and only if the individual is from the entity from which the member was appointed.
 
-(ii) No individual may serve as a member of the committee for more than four years in the aggregate. If any member of the committee leaves the entity from which the member was appointed, such member may not continue as a member of the committee, and the member's position shall be considered to be vacant. A vacancy in the committee shall be filled in the same manner in which the original appointment was made.
+(ii) No individual may serve as a member of the committee for more than four years in theaggregate. If any member of the committee leaves the entity from which the member was appointed, such member may not continue as a member of the committee, and the member's position shall be considered to be vacant. A vacancy in the committee shall be filled in the same manner in which the original appointment was made.
 
 (iii) Initial appointments to the committee shall be made not later than the 60th day after January 1, 1977. Not later than the 90th day after such date the members of the committee shall hold a meeting for the selection of a chairperson from among their number.
 
@@ -224,7 +224,7 @@ A person intending to manufacture or process a chemical substance for which noti
 
 &emsp;To promote the development and timely incorporation of new scientifically valid test methods and strategies that are not based on vertebrate animals, the Administrator shall—
 
-&emsp;&emsp;(A) not later than 2 years after June 22, 2016, develop a strategic plan to promote the development and implementation of alternative test methods and strategies to reduce, refine, or replace vertebrate animal testing and provide information of equivalent or better scientific quality and relevance for assessing risks of injury to health or the environment of chemical substances or mixtures through, for example—
+&emsp;&emsp;(A) not later than 2 years after June 22, 2016, develop a strategic plan to promote thedevelopment and implementation of alternative test methods and strategies to reduce, refine, or replace vertebrate animal testing and provide information of equivalent or better scientific quality and relevance for assessing risks of injury to health or the environment of chemical substances or mixtures through, for example—
 
 &emsp;&emsp;&emsp;(i) computational toxicology and bioinformatics;
 
@@ -276,7 +276,7 @@ A person intending to manufacture or process a chemical substance for which noti
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Amendments
 

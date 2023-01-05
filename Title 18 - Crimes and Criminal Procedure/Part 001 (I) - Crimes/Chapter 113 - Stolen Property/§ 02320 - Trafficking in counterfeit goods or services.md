@@ -82,13 +82,13 @@ Definitions.—For the purposes of this section—
 
 &emsp;&emsp;&emsp;(iv) the use of which is likely to cause confusion, to cause mistake, or to deceive; or
 
-&emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of section 220506 of title 36;
+&emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishablefrom, a designation as to which the remedies of the Lanham Act are made available by reason of section 220506 of title 36;
 
 > &emsp;but such term does not include any mark or designation used in connection with goods or services, or a mark or designation applied to labels, patches, stickers, wrappers, badges, emblems, medallions, charms, boxes, containers, cans, cases, hangtags, documentation, or packaging of any type or nature used in connection with such goods or services, of which the manufacturer or producer was, at the time of the manufacture or production in question, authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
 
 &emsp;(2) the term "financial gain" includes the receipt, or expected receipt, of anything of value;
 
-&emsp;(3) the term "Lanham Act" means the Act entitled "An Act to provide for the registration and protection of trademarks used incommerce, to carry out the provisions of certain international conventions, and for other purposes", approved July 5, 1946 (15 U.S.C. 1051 et seq.);
+&emsp;(3) the term "Lanham Act" means the Act entitled "An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes", approved July 5, 1946 (15 U.S.C. 1051 et seq.);
 
 &emsp;(4) the term "counterfeit military good or service" means a good or service that uses a counterfeit mark on or in connection with such good or service and that—
 
@@ -158,7 +158,7 @@ Another section 2320 was renumbered section 2321 of this title.
 
 <b>2016</b>—Subsec. (a)(4). Pub. L. 114–154, §3(2)(A), added par. (4) and struck out former par. (4) which read as follows: "traffics in a counterfeit drug,".
 
-Subsec. (b)(3). Pub. L. 114–154, §3(2)(B), substituted "drug that uses a counterfeit mark on or in connectionwith the drug" for "counterfeit drug" in introductory provisions.
+Subsec. (b)(3). Pub. L. 114–154, §3(2)(B), substituted "drug that uses a counterfeit mark on or in connection with the drug" for "counterfeit drug" in introductory provisions.
 
 Subsec. (f)(6). Pub. L. 114–154, §3(2)(C), added par. (6) and struck out former par. (6) which defined "counterfeit drug".
 

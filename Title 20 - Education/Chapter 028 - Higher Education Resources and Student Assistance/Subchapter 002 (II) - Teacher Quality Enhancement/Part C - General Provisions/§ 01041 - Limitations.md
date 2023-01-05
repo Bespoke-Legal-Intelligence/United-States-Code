@@ -14,7 +14,7 @@ Nothing in this subchapter shall be construed to permit, allow, encourage, or au
 
 #### (d) Rule of construction
 
-Nothing in this subchapter shall be construed to alter or otherwise affect the rights, remedies, and procedures afforded to the employees of local educational agencies under Federal, State, or local laws (including applicable regulations or court orders) or under the terms of collective bargaining agreements, memoranda of understanding, or other agreements between such employees and their employers.
+Nothing in this subchapter shall be construed to alter or otherwise affect the rights, remedies, and procedures afforded to the employees oflocal educational agencies under Federal, State, or local laws (including applicable regulations or court orders) or under the terms of collective bargaining agreements, memoranda of understanding, or other agreements between such employees and their employers.
 
 (Pub. L. 89–329, title II, §261, as added Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3166.)
 

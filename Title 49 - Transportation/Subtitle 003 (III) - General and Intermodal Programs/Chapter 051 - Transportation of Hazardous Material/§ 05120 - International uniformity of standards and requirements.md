@@ -54,5 +54,5 @@ Subsec. (c)(1). Pub. L. 109–59, §7126, substituted "Secretary to prescribe" f
 
 Pub. L. 109–59, §7117(b)(1), inserted "or requirement" after "standard" wherever appearing.
 
-Subsec. (c)(2). Pub. L. 109–59, §7117(b)(2), struck out "included in a standard" before "adopted" and inserted"standard or" before "requirement" wherever appearing.
+Subsec. (c)(2). Pub. L. 109–59, §7117(b)(2), struck out "included in a standard" before "adopted" and inserted "standard or" before "requirement" wherever appearing.
 

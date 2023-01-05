@@ -204,5 +204,5 @@ Application.—This subsection shall apply beginning 180 days after the date of 
 
 "(f)
 
-Briefings.—The Maritime Administrator shall, upon request, provide briefings to the Committee on Transportation and Infrastructure, the Committee on Natural Resources, and the Committee on Armed Services of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate, on the progress made in recycling vessels, problems encountered with recycling vessels, issues relating to vesselrecycling, and other issues relating to vessel recycling and disposal."
+Briefings.—The Maritime Administrator shall, upon request, provide briefings to the Committee on Transportation and Infrastructure, the Committee on Natural Resources, and the Committee on Armed Services of the House of Representatives, and the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate, on the progress made in recycling vessels, problems encountered with recycling vessels, issues relating to vessel recycling, and other issues relating to vessel recycling and disposal."
 

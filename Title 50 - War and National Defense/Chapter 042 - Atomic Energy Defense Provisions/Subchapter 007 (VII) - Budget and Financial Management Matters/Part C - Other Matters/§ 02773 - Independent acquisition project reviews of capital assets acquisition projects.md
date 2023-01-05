@@ -6,7 +6,7 @@ The appropriate head shall ensure that an independent entity conducts reviews of
 
 #### (b) Pre-critical decision 1 reviews
 
-In addition to any other matters, with respect to each review of a capital assets acquisition project under subsection (a) that has notreached critical decision 1 approval in the acquisition process, such review shall include—
+In addition to any other matters, with respect to each review of a capital assets acquisition project under subsection (a) that has not reached critical decision 1 approval in the acquisition process, such review shall include—
 
 &emsp;(1) a review using best practices of the analysis of alternatives for the project; and
 

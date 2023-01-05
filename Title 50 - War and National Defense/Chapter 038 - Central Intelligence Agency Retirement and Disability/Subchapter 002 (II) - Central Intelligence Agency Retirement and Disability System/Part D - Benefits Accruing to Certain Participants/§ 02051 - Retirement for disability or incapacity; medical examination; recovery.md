@@ -50,7 +50,7 @@
 
 #### (4) Termination of disability annuity
 
-&emsp;Payment of the annuity shall continue until a date one year after the date of examinationshowing recovery or until the date of reinstatement or reappointment in the Agency, whichever is earlier.
+&emsp;Payment of the annuity shall continue until a date one year after the date of examination showing recovery or until the date of reinstatement or reappointment in the Agency, whichever is earlier.
 
 #### (5) Payment of fees
 
@@ -100,7 +100,7 @@
 
 #### (1) Refund to Department of Labor
 
-&emsp;If an individual is entitled to an annuity under this subchapter and the individual receives a lump-sum payment for compensation under section 8135 of title 5 based on the disability or death of the same person, so much of the compensation as has been paid for a period extended beyond the date payment of the annuity commences, as determined by the Secretary of Labor, shall be refunded to the Department for credit to the Employees' Compensation Fund. Before the individual may receive the annuity, the individual shall—
+&emsp;If an individual is entitled to an annuity under this subchapter and the individual receives a lump-sum payment for compensation under section 8135 of title 5 based on the disability or death of the same person, so much of the compensation as has been paid for a period extended beyond the date payment of the annuity commences, as determined by theSecretary of Labor, shall be refunded to the Department for credit to the Employees' Compensation Fund. Before the individual may receive the annuity, the individual shall—
 
 &emsp;&emsp;(A) refund to the Secretary of Labor the amount representing the commuted compensation payments for the extended period; or
 
@@ -112,7 +112,7 @@
 
 #### (3) Prorating deduction
 
-&emsp;If the Secretary finds that the financial circumstances of an individual entitled to an annuity under this subchapter warrant deferredrefunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Secretary determines appropriate.
+&emsp;If the Secretary finds that the financial circumstances of an individual entitled to an annuity under this subchapter warrant deferred refunding, deductions from the annuity may be prorated against and paid from accruing payments in such manner as the Secretary determines appropriate.
 
 (Pub. L. 88–643, title II, §231, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3220; amended Pub. L. 103–178, title II, §202(a)(8), Dec. 3, 1993, 107 Stat. 2026.)
 

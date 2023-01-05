@@ -8,7 +8,7 @@ Not later than 60 days after October 21, 1998, the President shall transmit to t
 
 &emsp;(2) with respect to the Agency for International Development, the consolidation and streamlining of the Agency and the transfer of certain functions of the Agency to the Department in accordance with section 6581 of this title;
 
-&emsp;(3) the termination of functions of each covered agency as may be necessary to effectuate the reorganization under this chapter, and the termination of the affairs of each agency abolished under this chapter;
+&emsp;(3) the termination of functions of each covered agency as may be necessary to effectuatethe reorganization under this chapter, and the termination of the affairs of each agency abolished under this chapter;
 
 &emsp;(4) the transfer to the Department of the functions and personnel of each covered agency consistent with the provisions of this chapter; and
 
@@ -60,7 +60,7 @@ In addition to applicable provisions of subsection (c), the reorganization plan 
 
 #### (e) Modification of plan
 
-The President may, on the basis of consultations with the appropriate congressional committees, modify or revise any part of the plan transmitted under subsection (a) until that partof the plan becomes effective in accordance with subsection (g).
+The President may, on the basis of consultations with the appropriate congressional committees, modify or revise any part of the plan transmitted under subsection (a) until that part of the plan becomes effective in accordance with subsection (g).
 
 #### (f) Report
 

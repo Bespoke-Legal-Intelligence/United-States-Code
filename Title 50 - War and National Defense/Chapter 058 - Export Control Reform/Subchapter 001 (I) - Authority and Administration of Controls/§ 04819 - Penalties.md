@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;It shall be unlawful for a person to violate, attempt to violate, conspire to violate, orcause a violation of this subchapter or of any regulation, order, license, or other authorization issued under this subchapter, including any of the unlawful acts described in paragraph (2).
+&emsp;It shall be unlawful for a person to violate, attempt to violate, conspire to violate, or cause a violation of this subchapter or of any regulation, order, license, or other authorization issued under this subchapter, including any of the unlawful acts described in paragraph (2).
 
 #### (2) Specific unlawful acts
 

@@ -28,13 +28,13 @@ For the purposes of this section—
 
 #### (2) Boundaries
 
-&emsp;(A) The recreation area shall be comprised of the lands, waters, and submerged lands generally depicted on the map entitled "Proposed Boston Harbor Islands NRA", numbered BOHA 80,002, and dated September 1996. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service. After advising the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, in writing, the Secretary may make minor revisions of theboundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+&emsp;(A) The recreation area shall be comprised of the lands, waters, and submerged lands generally depicted on the map entitled "Proposed Boston Harbor Islands NRA", numbered BOHA 80,002, and dated September 1996. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service. After advising the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, in writing, the Secretary may make minor revisions of the boundaries of the recreation area when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
 &emsp;(B) The recreation area shall include the following:
 
 &emsp;&emsp;(i) The areas depicted on the map referenced in subparagraph (A).
 
-&emsp;&emsp;(ii) Landside points required for access, visitor services, and administration in the city of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt's Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
+&emsp;&emsp;(ii) Landside points required for access, visitor services, and administration in thecity of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt's Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
 
 #### (3) Land acquisition
 
@@ -98,7 +98,7 @@ For the purposes of this section—
 
 #### (1) Establishment
 
-&emsp;There is hereby established the Boston Harbor Islands Partnership whose purpose shall beto coordinate the activities of Federal, State, and local authorities and the private sector in the development and implementation of an integrated resource management plan for the recreation area.
+&emsp;There is hereby established the Boston Harbor Islands Partnership whose purpose shall be to coordinate the activities of Federal, State, and local authorities and the private sector in the development and implementation of an integrated resource management plan for the recreation area.
 
 #### (2) Membership
 
@@ -176,7 +176,7 @@ For the purposes of this section—
 
 #### (14) Obtaining property
 
-&emsp;The Partnership may obtain by purchase, rental, donation, or otherwise, such property,facilities, and services as may be needed to carry out its duties, except that the Partnership may not acquire any real property or interest in real property.
+&emsp;The Partnership may obtain by purchase, rental, donation, or otherwise, such property, facilities, and services as may be needed to carry out its duties, except that the Partnership may not acquire any real property or interest in real property.
 
 #### (15) Cooperative agreements
 
@@ -248,15 +248,15 @@ For the purposes of this section—
 
 #### (2) Membership
 
-&emsp;The Advisory Council shall consist of not fewer than 18 individuals, to be appointed bythe Secretary, acting through the Director of the National Park Service. The Secretary shall appoint no fewer than three individuals to represent each of the following categories of entities: municipalities; educational and cultural institutions; environmental organizations; business and commercial entities, including those related to transportation, tourism and the maritime industry; and Boston Harbor-related advocacy organizations; and organizations representing Native American interests.
+&emsp;The Advisory Council shall consist of not fewer than 18 individuals, to be appointed by the Secretary, acting through the Director of the National Park Service. The Secretary shall appoint no fewer than three individuals to represent each of the following categories of entities: municipalities; educational and cultural institutions; environmental organizations; business and commercial entities, including those related to transportation, tourism and the maritime industry; and Boston Harbor-related advocacy organizations; and organizations representing Native American interests.
 
 #### (3) Procedures
 
 &emsp;Each meeting of the Advisory Council and its committees shall be open to the public.
 
-#### (4) FACA
+#### (4) Chapter 10 of title 5
 
-&emsp;The provisions of section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), are hereby waived with respect to the Advisory Council.
+&emsp;The provisions of section 1013 of title 5 are hereby waived with respect to the Advisory Council.
 
 #### (h) Authorization of appropriations
 
@@ -268,7 +268,7 @@ For the purposes of this section—
 
 &emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
-(Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567; Pub. L. 111–11, title VII, §7109, Mar. 30, 2009, 123 Stat. 1197; Pub. L. 111–281, title IX, §903(a)(8), Oct. 15, 2010, 124 Stat. 3010.)
+(Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567; Pub. L. 111–11, title VII, §7109, Mar. 30, 2009, 123 Stat. 1197; Pub. L. 111–281, title IX, §903(a)(8), Oct. 15, 2010, 124 Stat. 3010; Pub. L. 117–286, §4(a)(93), Dec. 27, 2022, 136 Stat. 4316.)
 
 #### <b>Editorial Notes</b>
 
@@ -278,9 +278,9 @@ The Act entitled "An Act to establish a National Park Service, and for other pur
 
 The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in subsec. (d)(1), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (g)(4). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "FACA" in heading and "section 1013 of title 5" for "section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)," in text.
 
 <b>2010</b>—Subsec. (e)(2)(B). Pub. L. 111–281 made technical amendment to directory language of Pub. L. 109–241, §902(h)(1). See 2006 Amendment note below.
 

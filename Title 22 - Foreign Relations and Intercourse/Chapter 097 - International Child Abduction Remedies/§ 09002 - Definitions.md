@@ -8,7 +8,7 @@ For the purposes of this chapter—
 
 &emsp;(3) the term "Parent Locator Service" means the service established by the Secretary of Health and Human Services under section 653 of title 42;
 
-&emsp;(4) the term "petitioner" means any person who, in accordance with this chapter, files a petition in court seeking relief under the Convention;
+&emsp;(4) the term "petitioner" means any person who, in accordance with this chapter, files apetition in court seeking relief under the Convention;
 
 &emsp;(5) the term "person" includes any individual, institution, or other legal entity or body;
 

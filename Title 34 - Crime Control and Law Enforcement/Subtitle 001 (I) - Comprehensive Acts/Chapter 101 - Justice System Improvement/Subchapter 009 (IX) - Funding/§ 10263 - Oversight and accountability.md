@@ -52,7 +52,7 @@ All grants awarded by the Department of Justice that are authorized under this A
 
 #### (B) Written approval
 
-&emsp;&emsp;Written approval under subparagraph (A) shall include a written estimate of all costsassociated with the conference, including the cost of all food and beverages, audio/visual equipment, honoraria for speakers, and any entertainment.
+&emsp;&emsp;Written approval under subparagraph (A) shall include a written estimate of all costs associated with the conference, including the cost of all food and beverages, audio/visual equipment, honoraria for speakers, and any entertainment.
 
 #### (C) Report
 

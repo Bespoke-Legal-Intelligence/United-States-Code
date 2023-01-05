@@ -12,11 +12,11 @@ In this section:
 
 &emsp;The term "personal technology devices" means technology devices used by personnel of the intelligence community outside of the scope of their employment with elements of the intelligence community, including networks to which such devices connect.
 
-#### (b) Authority to provide cyber protection support
+#### (b) Requirement to provide cyber protection support
 
 #### (1) In general
 
-&emsp;Subject to a determination by the Director of National Intelligence, the Director may provide cyber protection support for the personal technology devices and personal accounts of the personnel described in paragraph (2).
+&emsp;Subject to a determination by the Director of National Intelligence, the Director shall offer cyber protection support for the personal technology devices and personal accounts of the personnel described in paragraph (2) and shall provide such support to any such personnel who request.
 
 #### (2) At-risk personnel
 
@@ -46,7 +46,15 @@ Not later than 180 days after December 20, 2019, the Director shall submit to th
 
 &emsp;(2) guidance for the use of cyber protection support and tracking of support requests for personnel receiving cyber protection support under subsection (b).
 
-(Pub. L. 116–92, div. E, title LXIII, §6308, Dec. 20, 2019, 133 Stat. 2189.)
+(Pub. L. 116–92, div. E, title LXIII, §6308, Dec. 20, 2019, 133 Stat. 2189; Pub. L. 117–263, div. F, title LXIII, §6308(a), Dec. 23, 2022, 136 Stat. 3506.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–263, §6308(a)(2), substituted "Requirement" for "Authority" in heading.
+
+Subsec. (b)(1). Pub. L. 117–263, §6308(a)(1), substituted "shall offer" for "may provide" and inserted at end "and shall provide such support to any such personnel who request".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

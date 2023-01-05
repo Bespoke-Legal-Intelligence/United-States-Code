@@ -10,7 +10,7 @@ Any action or proceeding against a national banking association for which the Fe
 
 The last sentence of R.S. §5198, as added by act Feb. 18, 1875, ch. 80, §1, 18 Stat. 320, appears to have been derived from act June 3, 1864, ch. 106, §57, 13 Stat. 116, which was the National Bank Act. See section 38 of this title.
 
-Section is comprised of last sentence of R.S. §5198 as added by act Feb. 18, 1875, ch. 80, §1, 18 Stat. 320. The remaining sentences of R.S. §5198 are classified to section 86 of this title.
+Section is comprised of last sentence of R.S. §5198 as added by act Feb. 18, 1875, ch. 80, §1, 18 Stat. 320. Theremaining sentences of R.S. §5198 are classified to section 86 of this title.
 
 Act Mar. 3, 1911, conferred powers and duties of former circuit courts on district courts.
 

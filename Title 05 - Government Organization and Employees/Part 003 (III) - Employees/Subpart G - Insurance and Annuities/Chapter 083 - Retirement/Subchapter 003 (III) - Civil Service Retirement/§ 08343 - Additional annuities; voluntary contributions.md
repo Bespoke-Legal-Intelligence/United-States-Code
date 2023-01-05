@@ -42,7 +42,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### 1967 Act
 
-This section amends 5 U.S.C. 8343(a)(1) for consistency within the subchapter and to reflect that it is the individual, rather than the position, that is subject to the subchapter.
+This section amends 5 U.S.C. 8343(a)(1) for consistency within the subchapter and to reflect that it is theindividual, rather than the position, that is subject to the subchapter.
 
 #### <b>Editorial Notes</b>
 

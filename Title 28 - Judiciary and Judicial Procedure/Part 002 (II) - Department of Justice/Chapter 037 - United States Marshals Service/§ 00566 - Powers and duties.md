@@ -100,7 +100,7 @@ Sec. 4. <i>Expanding the Federal Government's Protection of Judges, Prosecutors,
 
 (c) The Attorney General and Secretary of Homeland Security shall coordinate a review within the executive branch to assess the feasibility, as appropriate and consistent with applicable law, of facilitating the removal of, or minimizing the availability of, personally identifiable information appearing in public sources of judges, prosecutors, and law enforcement officers employed by the Federal Government, and shall use the results of this review to inform such persons of related security vulnerabilities.
 
-(d) Within 30 days of the date of this order, the Attorney General shall assess the need to revise subsection0.111(e) of title 28, Code of Federal Regulations, to protect Federal prosecutors. If any revision is needed, the Attorney General shall take immediate steps to issue a proposed rule that would amend section 0.111(e) accordingly.
+(d) Within 30 days of the date of this order, the Attorney General shall assess the need to revise subsection 0.111(e) of title 28, Code of Federal Regulations, to protect Federal prosecutors. If any revision is needed, the Attorney General shall take immediate steps to issue a proposed rule that would amend section 0.111(e) accordingly.
 
 (e) The heads of all agencies shall examine the extent to which they collect personally identifiable information from judges, prosecutors, or law enforcement officers, and as appropriate and consistent with applicable law, allow such persons to provide a Post Office box address in lieu of home address information.
 

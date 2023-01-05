@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of any dividend on debt-financed portfolio stock, there shall be substituted for the percentage which (but for this subsection) would be used in determining the amount of the deduction allowable under section 243 or 245(a) a percentage equal to the product of—
+In the case of any dividend on debt-financed portfolio stock, there shall be substituted for the percentage which (but for this subsection)would be used in determining the amount of the deduction allowable under section 243 or 245(a) a percentage equal to the product of—
 
 &emsp;(1) 50 percent (65 percent in the case of any dividend from a 20-percent owned corporation as defined in section 243(c)(2)), and
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (ii) Bank holding company
 
-&emsp;&emsp;&emsp;The term "bank holding company" means a bank holding company (withinthe meaning of section 2(a) of the Bank Holding Company Act of 1956).
+&emsp;&emsp;&emsp;The term "bank holding company" means a bank holding company (within the meaning of section 2(a) of the Bank Holding Company Act of 1956).
 
 #### (4) Treatment of certain preferred stock
 
@@ -110,7 +110,7 @@ The regulations prescribed for purposes of this section under section 7701(f) sh
 
 #### References in Text
 
-The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 15 and Tables.
 
 Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (c)(3)(B)(ii), is classified to section 1841(a) of Title 12, Banks and Banking.
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
 
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

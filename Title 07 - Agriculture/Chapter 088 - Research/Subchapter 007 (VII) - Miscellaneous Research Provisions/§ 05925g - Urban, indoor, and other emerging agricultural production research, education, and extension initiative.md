@@ -36,7 +36,7 @@ The Secretary may give priority to grant proposals that involve—
 
 #### (1) Mandatory funding
 
-&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $10,000,000 for fiscal year 2019, to remain available until expended.
+&emsp;Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry outthis section $10,000,000 for fiscal year 2019, to remain available until expended.
 
 #### (2) Authorization of appropriations
 

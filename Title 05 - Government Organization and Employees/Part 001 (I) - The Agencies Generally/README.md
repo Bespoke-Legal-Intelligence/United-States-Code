@@ -4,6 +4,7 @@
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20Organization/README.md) | <b>Organization</b> | <b>101</b> |
 | [<b>3.</b>](Chapter%20003%20-%20Powers/README.md) | <b>Powers</b> | <b>301</b> |
+| [<b>4.</b>](Chapter%20004%20-%20Inspectors%20General/README.md) | <b>Inspectors General</b> | <b>401</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Administrative%20Procedure/README.md) | <b>Administrative Procedure</b> | <b><sup>1</sup></b><b> 501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,12 +20,15 @@
 | [<b>7.</b>](Chapter%20007%20-%20Judicial%20Review/README.md) | <b>Judicial Review</b> | <b>701</b> |
 | [<b>8.</b>](Chapter%20008%20-%20Congressional%20Review%20of%20Agency%20Rulemaking/README.md) | <b>Congressional Review of Agency Rulemaking</b> | <b>801</b> |
 | [<b>9.</b>](Chapter%20009%20-%20Executive%20Reorganization/README.md) | <b>Executive Reorganization</b> | <b>901</b> |
+| [<b>10.</b>](Chapter%20010%20-%20Federal%20Advisory%20Committees/README.md) | <b>Federal Advisory Committees</b> | <b>1001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–286, §4(d)(2), Dec. 27, 2022, 136 Stat. 4359, added items for chapters 4 and 10.
 
 <b>1996</b>—Pub. L. 104–121, title II, §253, Mar. 29, 1996, 110 Stat. 874, added item for chapter 8.
 
@@ -39,8 +43,10 @@
 
 - [Chapter 001 - Organization](Chapter%20001%20-%20Organization/README.md)
 - [Chapter 003 - Powers](Chapter%20003%20-%20Powers/README.md)
+- [Chapter 004 - Inspectors General](Chapter%20004%20-%20Inspectors%20General/README.md)
 - [Chapter 005 - Administrative Procedure](Chapter%20005%20-%20Administrative%20Procedure/README.md)
 - [Chapter 006 - The Analysis of Regulatory Functions](Chapter%20006%20-%20The%20Analysis%20of%20Regulatory%20Functions/README.md)
 - [Chapter 007 - Judicial Review](Chapter%20007%20-%20Judicial%20Review/README.md)
 - [Chapter 008 - Congressional Review of Agency Rulemaking](Chapter%20008%20-%20Congressional%20Review%20of%20Agency%20Rulemaking/README.md)
 - [Chapter 009 - Executive Reorganization](Chapter%20009%20-%20Executive%20Reorganization/README.md)
+- [Chapter 010 - Federal Advisory Committees](Chapter%20010%20-%20Federal%20Advisory%20Committees/README.md)

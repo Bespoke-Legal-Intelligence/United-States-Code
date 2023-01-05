@@ -2,7 +2,7 @@
 
 (a)
 
-Policies Required.—The Secretary of Defense shall establish policies with respect to the appropriate mechanisms and procedures that the Secretaries of the military departments shall establish relating to the activities of special trial counsel, including expected milestones for such Secretaries to fully implement such mechanisms and procedures. The policies shall—
+Policies Required.—The Secretary of Defense shall establish policies with respect to the appropriate mechanisms and procedures that the Secretaries of the military departments shall establish relating to the activities of special trial counsel, including expected milestones for such Secretaries to fully implement such mechanisms and procedures. Subject to subsection (c), the policies shall—
 
 &emsp;(1) provide for the establishment of a dedicated office within each military service from which office the activities of the special trial counsel of the military service concerned shall be supervised and overseen;
 
@@ -30,11 +30,31 @@ Uniformity.—The Secretary of Defense shall ensure that any lack of uniformity 
 
 (c)
 
-Military Service Defined.—In this section, the term "military service" means theArmy, Navy, Air Force, Marine Corps, and Space Force.
+Special Trial Counsel of Department of the Air Force.—In establishing policies under subsection (a), the Secretary of Defense shall—
 
-(Added Pub. L. 117–81, div. A, title V, §532(a), Dec. 27, 2021, 135 Stat. 1694.)
+&emsp;(1) in lieu of providing for separate offices for the Air Force and Space Force under subsection (a)(1), provide for the establishment of a single dedicated office from which office the activities of the special trial counsel of the Department of the Air Force shall be supervised and overseen; and
+
+&emsp;(2) in lieu of providing for separate lead special trial counsels for the Air Force and Space Force under subsection (a)(2), provide for the appointment of one lead special trial counsel who shall be responsible for the overall supervision and oversight of the activities of the special trial counsel of the Department of the Air Force.
+
+(d)
+
+Military Service Defined.—In this section, the term "military service" means the Army, Navy, Air Force, Marine Corps, and Space Force.
+
+(Added Pub. L. 117–81, div. A, title V, §532(a), Dec. 27, 2021, 135 Stat. 1694; amended Pub. L. 117–263, div. A, title V, §545(a), Dec. 23, 2022, 136 Stat. 2584.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–263, §545(a)(1), substituted "Subject to subsection (c), the policies shall" for "The policies shall" in introductory provisions.
+
+Subsecs. (c), (d). Pub. L. 117–263, §545(a)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–263, div. A, title V, §545(b), Dec. 23, 2022, 136 Stat. 2584, provided that: "The amendments made subsection (a) \[amending this section\] shall take effect immediately after the coming into effect of the amendments made by section 532 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1694) \[enacting this section\] as provided in section 539C of that Act (10 U.S.C. 801 note)."
 
 #### Effective Date
 

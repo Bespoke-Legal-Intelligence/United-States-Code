@@ -30,7 +30,7 @@ Not later than 180 days after December 20, 2018, and every year thereafter, the 
 
 #### Codification
 
-Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the FederalLand Policy and Management Act of 1976 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

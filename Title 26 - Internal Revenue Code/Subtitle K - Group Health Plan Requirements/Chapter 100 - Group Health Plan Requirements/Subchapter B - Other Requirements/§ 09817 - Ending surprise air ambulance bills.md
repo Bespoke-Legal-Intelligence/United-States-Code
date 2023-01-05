@@ -108,7 +108,7 @@ In the case of a participant or beneficiary in a group health plan who receives 
 
 #### (D) Effects of determination
 
-&emsp;&emsp;The provisions of section 9816(c)(5)(E)) <sup>1</sup> shall apply with respect to a determination of a certified IDR entity under subparagraph\(A), the notification submitted with respect to such determination, the services with respect to such notification, and the parties to such notification in the same manner as such provisions apply with respect to a determination of a certified IDR entity under section 9816(c)(5)(E), the notification submitted with respect to such determination, the items and services with respect to such notification, and the parties to such notification.
+&emsp;&emsp;The provisions of section 9816(c)(5)(E)) <sup>1</sup> shall apply with respect to a determination of a certified IDR entity under subparagraph (A), the notification submitted with respect to such determination, the services with respect to such notification, and the parties to such notification in the same manner as such provisions apply with respect to a determination of a certified IDR entity under section 9816(c)(5)(E), the notification submitted with respect to such determination, the items and services with respect to such notification, and the parties to such notification.
 
 #### (E) Costs of independent dispute resolution process
 

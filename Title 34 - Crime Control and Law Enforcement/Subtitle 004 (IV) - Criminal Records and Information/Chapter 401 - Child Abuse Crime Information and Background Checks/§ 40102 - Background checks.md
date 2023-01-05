@@ -24,7 +24,7 @@ The procedures established under subsection (a) shall require—
 
 &emsp;&emsp;(D) notifies the covered individual of the covered individual's rights under paragraph (2); and
 
-&emsp;&emsp;(E) notifies the covered individual that prior to the completion of the backgroundcheck the qualified entity may choose to deny the covered individual access to a person to whom the qualified entity provides care;
+&emsp;&emsp;(E) notifies the covered individual that prior to the completion of the background check the qualified entity may choose to deny the covered individual access to a person to whom the qualified entity provides care;
 
 &emsp;(2) that the State, or in a State that does not have in effect procedures described in subsection (a)(1), the designated entity, ensures that—
 
@@ -134,7 +134,7 @@ Subsec. (f). Pub. L. 115–141, §101(a)(1)(G), added subsec. (f).
 
 <b>1998</b>—Subsec. (a)(3). Pub. L. 105–251, §222(a), added par. (3).
 
-Subsec. (b)(5). Pub. L. 105–251, §222(b), inserted before period at end ", except that this paragraph does not apply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3)".
+Subsec. (b)(5). Pub. L. 105–251, §222(b), inserted before period at end ", except that this paragraph does notapply to any request by a qualified entity for a national criminal fingerprint background check pursuant to subsection (a)(3)".
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §320928(a)(1), substituted "the provider's fitness to have responsibility for the safety and well-being of children, the elderly, or individuals with disabilities" for "an individual's fitness to have responsibility for the safety and well-being of children".
 
@@ -256,7 +256,7 @@ Determinations of fitness.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—Consistent with the privacy protections delineated in the National Child Protection Act \[of 1993\] (42 U.S.C. 5119 \[et seq.\]) \[now 34 U.S.C. 40101 et seq.\], the National Center forMissing and Exploited Children may make a determination whether the criminal history record information received in response to the criminal history background checks conducted under this paragraph indicates that the provider or volunteer has a criminal history record that renders the provider or volunteer unfit to provide care to children based upon criteria established jointly by, the National Center for Missing and Exploited Children, the Boys and Girls Clubs of America, the National Mentoring Partnership, and the National Council of Youth Sports.
+In general.—Consistent with the privacy protections delineated in the National Child Protection Act \[of 1993\] (42 U.S.C. 5119 \[et seq.\]) \[now 34 U.S.C. 40101 et seq.\], the National Center for Missing and Exploited Children may make a determination whether the criminal history record information received in response to the criminal history background checks conducted under this paragraph indicates that the provider or volunteer has a criminal history record that renders the provider or volunteer unfit to provide care to children based upon criteria established jointly by, the National Center for Missing and Exploited Children, the Boys and Girls Clubs of America, the National Mentoring Partnership, and the National Council of Youth Sports.
 
 &emsp;&emsp;&emsp;"(ii)
 

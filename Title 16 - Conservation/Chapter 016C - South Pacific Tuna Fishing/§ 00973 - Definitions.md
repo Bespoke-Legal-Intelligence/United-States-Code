@@ -26,7 +26,7 @@ As used in this chapter—
 
 &emsp;&emsp;(F) aircraft use, relating to the activities described in this paragraph except for flights in emergencies involving the health or safety of crew members or the safety of a vessel.
 
-&emsp;(7) The term "fishing vessel" or "vessel" means any boat, ship, or other craft which isused for, equipped to be used for, or of a type normally used for commercial fishing, and which is documented under the laws of the United States.
+&emsp;(7) The term "fishing vessel" or "vessel" means any boat, ship, or other craft which is used for, equipped to be used for, or of a type normally used for commercial fishing, and which is documented under the laws of the United States.
 
 &emsp;(8) The term "Licensing Area" means all waters in the Treaty Area except for—
 

@@ -112,7 +112,7 @@ Facility Management, Operation, Monitoring, and Enforcement.—
 
 &emsp;(1)
 
-In general.—A public authority that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) shall submitto the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify to the Secretary that the authority will carry out the following responsibilities with respect to the facility:
+In general.—A public authority that allows vehicles to use a HOV facility under paragraph (4) or (5) of subsection (b) shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify to the Secretary that the authority will carry out the following responsibilities with respect to the facility:
 
 &emsp;&emsp;(A) Establishing, managing, and supporting a performance monitoring, evaluation, and reporting program for the facility that provides for continuous monitoring, assessment, and reporting on the impacts that the vehicles may have on the operation of the facility and adjacent highways and submitting to the Secretary annual reports of those impacts.
 
@@ -312,7 +312,7 @@ Subsec. (f)(5). Pub. L. 114–94, §1411(b)(6)(C), (E), added par. (5) and struc
 
 "(A)
 
-In general.—The term 'State agency', as used with respect to a HOV facility, means an agency of a State or local government having jurisdiction over the operation of the facility.
+In general.—The term 'State agency', as used with respect to a HOV facility, means an agency of aState or local government having jurisdiction over the operation of the facility.
 
 "(B)
 

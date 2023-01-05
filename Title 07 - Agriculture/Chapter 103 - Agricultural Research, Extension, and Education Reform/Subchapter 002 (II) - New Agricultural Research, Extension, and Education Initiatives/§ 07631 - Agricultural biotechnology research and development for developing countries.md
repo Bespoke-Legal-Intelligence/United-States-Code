@@ -38,7 +38,7 @@ In this section, the term "eligible entity" means—
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section for each of fiscal years 2002 through 2012.
 
-(Pub. L. 105–185, title IV, §411, as added Pub. L. 107–171, title VII, §7505, May 13, 2002, 116 Stat. 466; amended Pub. L. 110–234, title VII, §7310,May 22, 2008, 122 Stat. 1243; Pub. L. 110–246, §4(a), title VII, §7310, June 18, 2008, 122 Stat. 1664, 2004.)
+(Pub. L. 105–185, title IV, §411, as added Pub. L. 107–171, title VII, §7505, May 13, 2002, 116 Stat. 466; amended Pub. L. 110–234, title VII, §7310, May 22, 2008, 122 Stat. 1243; Pub. L. 110–246, §4(a), title VII, §7310, June 18, 2008, 122 Stat. 1664, 2004.)
 
 #### <b>Editorial Notes</b>
 

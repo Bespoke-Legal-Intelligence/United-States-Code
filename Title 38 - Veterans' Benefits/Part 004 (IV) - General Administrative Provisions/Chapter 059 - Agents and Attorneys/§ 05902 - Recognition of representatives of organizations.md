@@ -1,6 +1,6 @@
 ### §5902. Recognition of representatives of organizations
 
-(a)(1) The Secretary may recognize representatives of the American National Red Cross, the American Legion, the Disabled American Veterans, the United Spanish War Veterans, the Veterans of Foreign Wars, and such other organizations as the Secretary may approve, in the preparation, presentation, and prosecution of claims under laws administered by the Secretary.
+(a)(1) The Secretary may recognize representatives of the American National Red Cross, theAmerican Legion, the Disabled American Veterans, the United Spanish War Veterans, the Veterans of Foreign Wars, and such other organizations as the Secretary may approve, in the preparation, presentation, and prosecution of claims under laws administered by the Secretary.
 
 (2) The Secretary may, in the discretion of the Secretary, furnish, if available, space and office facilities for the use of paid full-time representatives of national organizations so recognized.
 

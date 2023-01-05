@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(iv) sets forth all of the transactions of the plaintiff in the security that is the subject of the complaint during the class period specified in the complaint;
 
-&emsp;&emsp;&emsp;(v) identifies any other action under this subchapter, filed during the 3-year period preceding the date on which the certification is signed by the plaintiff, in which the plaintiff has sought to serve, or served, as a representative party on behalf of a class; and
+&emsp;&emsp;&emsp;(v) identifies any other action under this subchapter, filed during the 3-year periodpreceding the date on which the certification is signed by the plaintiff, in which the plaintiff has sought to serve, or served, as a representative party on behalf of a class; and
 
 &emsp;&emsp;&emsp;(vi) states that the plaintiff will not accept any payment for serving as a representative party on behalf of a class beyond the plaintiff's pro rata share of any recovery, except as ordered or approved by the court in accordance with paragraph (4).
 
@@ -34,7 +34,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 20 days after the date on which the complaint is filed, the plaintiffor plaintiffs shall cause to be published, in a widely circulated national business-oriented publication or wire service, a notice advising members of the purported plaintiff class—
+&emsp;&emsp;&emsp;Not later than 20 days after the date on which the complaint is filed, the plaintiff or plaintiffs shall cause to be published, in a widely circulated national business-oriented publication or wire service, a notice advising members of the purported plaintiff class—
 
 &emsp;&emsp;&emsp;&emsp;(I) of the pendency of the action, the claims asserted therein, and the purported class period; and
 
@@ -92,7 +92,7 @@
 
 #### (4) Recovery by plaintiffs
 
-&emsp;The share of any final judgment or of any settlement that is awarded to a representative party serving on behalf of a class shall be equal, on a per share basis, to the portion of the final judgment or settlement awarded to all other members of the class. Nothing in this paragraph shall be construed to limit the award of reasonable costs and expenses (including lost wages) directly relating to the representation of the class to any representative party serving on behalf of the class.
+&emsp;The share of any final judgment or of any settlement that is awarded to a representativeparty serving on behalf of a class shall be equal, on a per share basis, to the portion of the final judgment or settlement awarded to all other members of the class. Nothing in this paragraph shall be construed to limit the award of reasonable costs and expenses (including lost wages) directly relating to the representation of the class to any representative party serving on behalf of the class.
 
 #### (5) Restrictions on settlements under seal
 
@@ -160,7 +160,7 @@
 
 #### (4) Circumvention of stay of discovery
 
-&emsp;Upon a proper showing, a court may stay discovery proceedings in any private action in a State court as necessary in aid of its jurisdiction, or to protect or effectuate its judgments, in an action subject to a stay of discovery pursuant to this subsection.
+&emsp;Upon a proper showing, a court may stay discovery proceedings in any private action ina State court as necessary in aid of its jurisdiction, or to protect or effectuate its judgments, in an action subject to a stay of discovery pursuant to this subsection.
 
 #### (c) Sanctions for abusive litigation
 
@@ -170,7 +170,7 @@
 
 #### (2) Mandatory sanctions
 
-&emsp;If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules ofCivil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making a finding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
+&emsp;If the court makes a finding under paragraph (1) that a party or attorney violated any requirement of Rule 11(b) of the Federal Rules of Civil Procedure as to any complaint, responsive pleading, or dispositive motion, the court shall impose sanctions on such party or attorney in accordance with Rule 11 of the Federal Rules of Civil Procedure. Prior to making a finding that any party or attorney has violated Rule 11 of the Federal Rules of Civil Procedure, the court shall give such party or attorney notice and an opportunity to respond.
 
 #### (3) Presumption in favor of attorneys' fees and costs
 

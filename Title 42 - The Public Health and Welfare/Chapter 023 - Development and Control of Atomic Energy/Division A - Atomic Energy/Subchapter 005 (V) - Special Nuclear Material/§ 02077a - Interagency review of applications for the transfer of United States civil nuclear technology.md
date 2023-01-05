@@ -1,6 +1,6 @@
 ### §2077a. Interagency review of applications for the transfer of United States civil nuclear technology
 
-#### (a) Annual Reports on transfers to covered foreign countries
+#### (a) Annual reports on transfers to covered foreign countries
 
 At the same time as the President submits to Congress the annual budget request under section 1105 of title 31 for a fiscal year, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
 
@@ -54,7 +54,7 @@ At the same time as the President submits to Congress the annual budget request 
 
 #### (2) Submission to Congress
 
-&emsp;The Secretary of Energy, jointly with the Director of National Intelligence, shall includethe results of consultations conducted under paragraph (1) in each report under subsection (a) and each notification under subsection (b)(2).
+&emsp;The Secretary of Energy, jointly with the Director of National Intelligence, shall include the results of consultations conducted under paragraph (1) in each report under subsection (a) and each notification under subsection (b)(2).
 
 #### (d) Report on compliance of covered foreign countries and end-users
 
@@ -120,7 +120,11 @@ Not later than 60 days after November 25, 2015, the Secretary of Energy shall is
 
 &emsp;In this subsection, the term "sensitive items" means goods, services, and technologies described in section 2(a) of the Iran, North Korea, and Syria Nonproliferation Act (Public Law 106–178; 50 U.S.C. 1701 note).
 
-#### (i) Definitions
+#### (i) Combination of reports
+
+The Secretary of Energy may submit the annual reports required by subsections (a), (d), and (e) as a single annual report, including by providing portions of the information so required as an annex to the single annual report.
+
+#### (j) Definitions
 
 In this section:
 
@@ -136,9 +140,9 @@ In this section:
 
 #### (2) Covered foreign country
 
-&emsp;The term "covered foreign country" means a foreign country that is a nuclear-weapon state, as defined by Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and MoscowJuly 1, 1968, but does not include the United States, the United Kingdom, or France.
+&emsp;The term "covered foreign country" means a foreign country that is a nuclear-weapon state, as defined by Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and Moscow July 1, 1968, but does not include the United States, the United Kingdom, or France.
 
-(Pub. L. 114–92, div. C, title XXXI, §3136, Nov. 25, 2015, 129 Stat. 1209; Pub. L. 115–232, div. C, title XXXI, §3116(c), Aug. 13, 2018, 132 Stat. 2291; Pub. L. 117–81, div. C, title XXXI, §3131(b), Dec. 27, 2021, 135 Stat. 2230.)
+(Pub. L. 114–92, div. C, title XXXI, §3136, Nov. 25, 2015, 129 Stat. 1209; Pub. L. 115–232, div. C, title XXXI, §3116(c), Aug. 13, 2018, 132 Stat. 2291; Pub. L. 117–81, div. C, title XXXI, §3131(b), Dec. 27, 2021, 135 Stat. 2230; Pub. L. 117–263, div. C, title XXXI, §3131(b), Dec. 23, 2022, 136 Stat. 3059.)
 
 #### <b>Editorial Notes</b>
 
@@ -148,7 +152,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 117–81 substituted "Annual Reports" for "Report" in heading, "At the same time as the President submits to Congress the annual budget request under section 1105 of title 31 for a fiscal year," for "Not less frequently than every 90 days," in introductory provisions, and "the preceding year" for "the preceding 90 days" in par. (1).
+<b>2022</b>—Subsecs. (i), (j). Pub. L. 117–263 added subsec. (i) and redesignated former subsec. (i) as (j).
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–81 substituted "Annual reports" for "Report" in heading, "At the same time as the President submits to Congress the annual budget request under section 1105 of title 31 for a fiscal year," for "Not less frequently than every 90 days," in introductory provisions, and "the preceding year" for "the preceding 90 days" in par. (1).
 
 <b>2018</b>—Subsec. (e)(2)(C) to (E). Pub. L. 115–232 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 

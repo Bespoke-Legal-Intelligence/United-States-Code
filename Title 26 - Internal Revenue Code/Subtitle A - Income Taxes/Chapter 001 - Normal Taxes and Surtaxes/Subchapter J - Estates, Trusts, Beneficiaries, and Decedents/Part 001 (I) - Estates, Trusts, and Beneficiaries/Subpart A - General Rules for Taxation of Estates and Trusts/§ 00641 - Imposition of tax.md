@@ -44,7 +44,7 @@ The taxable income of an estate or trust shall be computed in the same manner as
 
 &emsp;&emsp;&emsp;(iv) Any interest expense paid or accrued on indebtedness incurred to acquire stock in an S corporation.
 
-> &emsp;&emsp;No deduction or credit shall be allowed for any amount not described in this paragraph,and no item described in this paragraph shall be apportioned to any beneficiary.
+> &emsp;&emsp;No deduction or credit shall be allowed for any amount not described in this paragraph, and no item described in this paragraph shall be apportioned to any beneficiary.
 
 &emsp;&emsp;(D) No amount shall be allowed under paragraph (1) or (2) of section 1211(b).
 

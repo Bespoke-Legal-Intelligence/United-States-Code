@@ -4,7 +4,7 @@
 
 #### (1) Aliens treated as applicants for admission
 
-&emsp;An alien present in the United States who has not been admitted or who arrives in the United States (whether or not at a designated port of arrival and including an alien who is brought to the United States after having been interdicted in international or United States waters) shall be deemed for purposes of this chapter an applicant for admission.
+&emsp;An alien present in the United States who has not been admitted or who arrives in theUnited States (whether or not at a designated port of arrival and including an alien who is brought to the United States after having been interdicted in international or United States waters) shall be deemed for purposes of this chapter an applicant for admission.
 
 #### (2) Stowaways
 
@@ -68,7 +68,7 @@
 
 #### (III) Review of determination
 
-&emsp;&emsp;&emsp;&emsp;The Attorney General shall provide by regulation and upon the alien's request for prompt review by an immigration judge of a determination under subclause (I) that the alien does not have a credible fear of persecution. Such review shall include an opportunity for the alien to be heard and questioned by the immigration judge, either in person or by telephonic or video connection. Review shall be concluded as expeditiously as possible, to the maximum extent practicable within 24 hours, but in no case later than 7 days after the date of the determination under subclause (I).
+&emsp;&emsp;&emsp;&emsp;The Attorney General shall provide by regulation and upon the alien's requestfor prompt review by an immigration judge of a determination under subclause (I) that the alien does not have a credible fear of persecution. Such review shall include an opportunity for the alien to be heard and questioned by the immigration judge, either in person or by telephonic or video connection. Review shall be concluded as expeditiously as possible, to the maximum extent practicable within 24 hours, but in no case later than 7 days after the date of the determination under subclause (I).
 
 #### (IV) Mandatory detention
 
@@ -124,7 +124,7 @@
 
 #### (C) Treatment of aliens arriving from contiguous territory
 
-&emsp;&emsp;In the case of an alien described in subparagraph (A) who is arriving on land (whether or not at a designated port of arrival) from a foreign territory contiguous tothe United States, the Attorney General may return the alien to that territory pending a proceeding under section 1229a of this title.
+&emsp;&emsp;In the case of an alien described in subparagraph (A) who is arriving on land (whether or not at a designated port of arrival) from a foreign territory contiguous to the United States, the Attorney General may return the alien to that territory pending a proceeding under section 1229a of this title.
 
 #### (3) Challenge of decision
 
@@ -134,7 +134,7 @@
 
 #### (1) Removal without further hearing
 
-&emsp;If an immigration officer or an immigration judge suspects that an arriving alien may be inadmissible under subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title, the officer or judge shall—
+&emsp;If an immigration officer or an immigration judge suspects that an arriving alien may beinadmissible under subparagraph (A) (other than clause (ii)), (B), or (C) of section 1182(a)(3) of this title, the officer or judge shall—
 
 &emsp;&emsp;(A) order the alien removed, subject to review under paragraph (2);
 
@@ -196,7 +196,7 @@ This chapter, referred to in subsecs. (a)(1) and (d)(3), (4)(A), was in the orig
 
 <b>2008</b>—Subsec. (b)(1)(G). Pub. L. 110–229 added subpar. (G).
 
-<b>1996</b>—Pub. L. 104–208, §302(a), amended section generally, revising and restating former subsecs. (a) to (d)relating to inspection of aliens arriving in the United States, powers of immigration officers, detention of aliens for further inquiry, temporary and permanent exclusion of aliens, and collateral attacks on orders of exclusion and deportation.
+<b>1996</b>—Pub. L. 104–208, §302(a), amended section generally, revising and restating former subsecs. (a) to (d) relating to inspection of aliens arriving in the United States, powers of immigration officers, detention of aliens for further inquiry, temporary and permanent exclusion of aliens, and collateral attacks on orders of exclusion and deportation.
 
 Pub. L. 104–208, §371(b)(4), substituted "an immigration judge" for "a special inquiry officer", "immigration judge" for "special inquiry officer", and "immigration judges" for "special inquiry officers", wherever appearing in subsecs. (a) to (c).
 

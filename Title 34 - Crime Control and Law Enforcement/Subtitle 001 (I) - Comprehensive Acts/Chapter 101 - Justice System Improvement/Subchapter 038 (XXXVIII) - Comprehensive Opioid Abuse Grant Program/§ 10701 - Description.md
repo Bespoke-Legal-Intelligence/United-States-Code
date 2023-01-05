@@ -16,9 +16,11 @@ From amounts made available to carry out this subchapter, the Attorney General m
 
 &emsp;&emsp;(E) a veterans treatment court program, including the activities described in subsection (i) of section 10651 of this title;
 
-&emsp;&emsp;(F) a focus on parents whose incarceration could result in their children entering the child welfare system; and
+&emsp;&emsp;(F) a focus on parents whose incarceration could result in their children entering the child welfare system;
 
-&emsp;&emsp;(G) a community-based substance use diversion program sponsored by a law enforcement agency.
+&emsp;&emsp;(G) a community-based substance use diversion program sponsored by a law enforcement agency; and
+
+&emsp;&emsp;(H) a pilot program for rural areas to implement community response programs that focus on reducing opioid overdose deaths, which may include presenting alternatives to incarceration, as described in subsection (f).
 
 &emsp;(2) In the case of a State, facilitating or enhancing planning and collaboration between State criminal justice agencies and State substance abuse agencies in order to more efficiently and effectively carry out activities or services described in any paragraph of this subsection that address problems related to opioid abuse.
 
@@ -28,7 +30,7 @@ From amounts made available to carry out this subchapter, the Attorney General m
 
 &emsp;(5) Developing, implementing, or expanding a medication-assisted treatment program used or operated by a criminal justice agency, which may include training criminal justice agency personnel on medication-assisted treatment, and carrying out the activities described in subchapter XVIII of this chapter.
 
-&emsp;(6) In the case of a State, developing, implementing, or expanding a prescription drug monitoring program to collect and analyze data related to the prescribing of schedules II, III, and IV controlled substances through a centralized database administered by an authorized State agency, which includes tracking the dispensation of such substances, and providing for interoperability and data sharing with each other such program in each other State, and with any interstate entity that shares information between such programs.
+&emsp;(6) In the case of a State, developing, implementing, or expanding a prescription drugmonitoring program to collect and analyze data related to the prescribing of schedules II, III, and IV controlled substances through a centralized database administered by an authorized State agency, which includes tracking the dispensation of such substances, and providing for interoperability and data sharing with each other such program in each other State, and with any interstate entity that shares information between such programs.
 
 &emsp;(7) Developing, implementing, or expanding a program to prevent and address opioid abuse by juveniles.
 
@@ -66,11 +68,31 @@ Not more than 10 percent of a grant made under this subchapter may be used for c
 
 The period of a grant made under this subchapter may not be longer than 4 years, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General.
 
-(Pub. L. 90–351, title I, §3021, as added Pub. L. 114–198, title II, §201(a)(1), July 22, 2016, 130 Stat. 711.)
+#### (f) Rural pilot program
+
+#### (1) In general
+
+&emsp;The pilot program described under this subsection shall make grants to rural areas to implement community response programs to reduce opioid overdose deaths. Grants issued under this subsection shall be jointly operated by units of local government, in collaboration with public safety and public health agencies or public safety, public health and behavioral health collaborations. A community response program under this subsection shall identify gaps in community prevention, treatment, and recovery services for individuals who encounter the criminal justice system and shall establish treatment protocols to address identified shortcomings. The Attorney General, through the Office of Justice Programs, shall increase the amount provided as a grant under this section for a pilot program by no more than five percent for each of the two years following certification by the Attorney General of the submission of data by the rural area on the prescribing of schedules II, III, and IV controlled substances to a prescription drug monitoring program, or any other centralized database administered by an authorized State agency, which includes tracking the dispensation of such substances, and providing for interoperability and data sharing with each other such program (including an electronic health records system) in each other State, and with any interstate entity that shares information between such programs.
+
+#### (2) Rules of construction
+
+&emsp;Nothing in this subsection shall be construed to—
+
+&emsp;&emsp;(A) direct or encourage a State to use a specific interstate data sharing program; or
+
+&emsp;&emsp;(B) limit or prohibit the discretion of a prescription drug monitoring program for interoperability connections to other programs (including electronic health records systems, hospital systems, pharmacy dispensing systems, or health information exchanges).
+
+(Pub. L. 90–351, title I, §3021, as added Pub. L. 114–198, title II, §201(a)(1), July 22, 2016, 130 Stat. 711; amended Pub. L. 117–250, §2, Dec. 20, 2022, 136 Stat. 2352.)
 
 #### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was formerly classified to section 3797ff of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(H). Pub. L. 117–250, §2(1), added subpar. (H).
+
+Subsec. (f). Pub. L. 117–250, §2(2), added subsec. (f).
 

@@ -2,7 +2,7 @@
 
 #### (a) Cooperative agreements and grants for establishing and supporting
 
-(1) The Director of the Institute may enter into cooperative agreements with and make grants to public or private nonprofit entities (including university medical centers) to pay all or part of the cost of planning, establishing, or strengthening, and providing basic operating support (including staffing) for centers for basic and clinical research (including multidisciplinary research) into, training in, and demonstration of advanced diagnostic, prevention, and treatment methods for Alzheimer's disease.
+(1) The Director of the Institute may enter into cooperative agreements with and makegrants to public or private nonprofit entities (including university medical centers) to pay all or part of the cost of planning, establishing, or strengthening, and providing basic operating support (including staffing) for centers for basic and clinical research (including multidisciplinary research) into, training in, and demonstration of advanced diagnostic, prevention, and treatment methods for Alzheimer's disease.
 
 (2) A cooperative agreement or grant under paragraph (1) shall be entered into in accordance with policies established by the Director of NIH and after consultation with the Institute's advisory council.
 
@@ -58,7 +58,7 @@ Pub. L. 100–175, title III, Nov. 29, 1987, 101 Stat. 972, provided that:
 
 "(a)
 
-In General.—The Director of the National Institute on Aging shall provide for the conduct of clinicaltrials on the efficacy of the use of such promising therapeutic agents as have been or may be discovered and recommended for further scientific analysis by the National Institute on Aging and the Food and Drug Administration to treat individuals with Alzheimer's disease, to retard the progression of symptoms of Alzheimer's disease, or to improve the functioning of individuals with such disease.
+In General.—The Director of the National Institute on Aging shall provide for the conduct of clinical trials on the efficacy of the use of such promising therapeutic agents as have been or may be discovered and recommended for further scientific analysis by the National Institute on Aging and the Food and Drug Administration to treat individuals with Alzheimer's disease, to retard the progression of symptoms of Alzheimer's disease, or to improve the functioning of individuals with such disease.
 
 "(b)
 

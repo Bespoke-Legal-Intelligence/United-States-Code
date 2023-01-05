@@ -2,7 +2,7 @@
 
 (a)
 
-Interlocutory Appeal.—Except as provided in subsection (b), in a trial by militarycommission under this chapter, the United States may take an interlocutory appeal to the United States Court of Military Commission Review of any order or ruling of the military judge—
+Interlocutory Appeal.—Except as provided in subsection (b), in a trial by military commission under this chapter, the United States may take an interlocutory appeal to the United States Court of Military Commission Review of any order or ruling of the military judge—
 
 &emsp;(1) that terminates proceedings of the military commission with respect to a charge or specification;
 

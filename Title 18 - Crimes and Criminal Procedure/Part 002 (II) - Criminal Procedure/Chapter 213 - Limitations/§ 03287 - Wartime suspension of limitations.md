@@ -4,7 +4,7 @@ When the United States is at war or Congress has enacted a specific authorizatio
 
 Definitions of terms in section 103 <sup>1</sup> of title 41 shall apply to similar terms used in this section. For purposes of applying such definitions in this section, the term "war" includes a specific authorization for the use of the Armed Forces, as described in section 5(b) of the War Powers Resolution (50 U.S.C. 1544(b)).
 
-(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 110–329, div. C, title VIII, §8117, Sept. 30, 2008, 122 Stat. 3647; Pub. L. 110–417, \[div. A\], title VIII, §855, Oct. 14, 2008, 122 Stat. 4545; Pub. L. 111–84, div. A, title X, §1073(c)(7), Oct. 28, 2009, 123 Stat. 2475.)
+(June 25, 1948, ch. 645, 62 Stat. 828; Pub. L. 110–329, div. C, title VIII, §8117, Sept. 30, 2008, 122Stat. 3647; Pub. L. 110–417, \[div. A\], title VIII, §855, Oct. 14, 2008, 122 Stat. 4545; Pub. L. 111–84, div. A, title X, §1073(c)(7), Oct. 28, 2009, 123 Stat. 2475.)
 
 #### Historical and Revision Notes
 

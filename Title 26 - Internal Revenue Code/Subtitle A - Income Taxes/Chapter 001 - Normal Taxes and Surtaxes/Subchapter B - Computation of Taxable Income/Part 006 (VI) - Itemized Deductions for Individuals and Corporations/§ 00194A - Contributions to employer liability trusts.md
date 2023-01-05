@@ -36,7 +36,7 @@ Pub. L. 96–364, title II, §210, Sept. 26, 1980, 94 Stat. 1291, provided that:
 
 "(a) Except as otherwise provided in this section, the amendments made by this title \[amending sections 401, 404, 411 to 414, 4971, and 4975 of this title\] shall take effect on the date of the enactment of this Act \[Sept. 26, 1980\].
 
-"(b) Subpart C of part I of subchapter D of chapter 1 of such Code (as added by this Act) \[sections 418 to 418E of this title\] shall take effect, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of—
+"(b) Subpart C of part I of subchapter D of chapter 1 of such Code (as added by this Act) \[sections 418 to 418E of this title\] shall take effect, with respect to eachplan, on the first day of the first plan year beginning on or after the earlier of—
 
 &emsp;"(1) the date on which the last collective-bargaining agreement providing for employer contributions under the plan, which was in effect on the date of the enactment of this Act \[Sept. 26, 1980\], expires, without regard to extensions agreed to after such date of enactment, or
 

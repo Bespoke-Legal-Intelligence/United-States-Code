@@ -64,7 +64,7 @@ Definitions.—For purposes of this section:
 
 &emsp;"(1)
 
-Real estate investment trust.—The term 'real estate investment trust' has the meaning given such term by section 856(a) of the Internal Revenue Code of 1986.
+Real estate investment trust.—The term 'real estate investment trust' has the meaning givensuch term by section 856(a) of the Internal Revenue Code of 1986.
 
 &emsp;"(2)
 

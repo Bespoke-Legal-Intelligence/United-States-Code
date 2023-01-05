@@ -6,7 +6,7 @@ Section, Pub. L. 86–645, title III, §301, July 14, 1960, 74 Stat. 502, declar
 
 #### Effective Date of Repeal
 
-Repeal not applicable to any State so long as sections 4630 and 4655 of title 42 are not applicable in such State; but such sections completely applicable to all States after July 1, 1972, but until such date applicable to a State to extent the State is able under its laws to comply with such sections, see section 221 of Pub. L. 91–646, set out as an Effective Date note under section 4601 of Title 42, The Public Health and Welfare.
+Repeal not applicable to any State so long as sections 4630 and 4655 of title 42 are not applicable in such State; but such sections completely applicable to all States after July 1, 1972, but until such date applicable to aState to extent the State is able under its laws to comply with such sections, see section 221 of Pub. L. 91–646, set out as an Effective Date note under section 4601 of Title 42, The Public Health and Welfare.
 
 #### Savings Provision
 

@@ -12,7 +12,7 @@
 
 (5)(A) The Director shall receive compensation at an annual rate of pay that is equal to the maximum rate of pay in effect under section 4575(f) of this title.
 
-(B) The Deputy Director shall receive compensation at an annual rate of pay that is $1,000less than the annual rate of pay received by the Director, as determined under subparagraph (A).
+(B) The Deputy Director shall receive compensation at an annual rate of pay that is $1,000 less than the annual rate of pay received by the Director, as determined under subparagraph (A).
 
 #### (b) Personnel
 
@@ -20,7 +20,7 @@ The Director shall appoint and fix the compensation of such personnel as may be 
 
 #### (c) Experts and consultants
 
-In carrying out the duties and functions of the Office, the Director may procure the temporary (not to exceed one year) or intermittent services of experts or consultants or organizations thereof by contract as independent contractors, or, in the case of individual experts or consultants, by employment at rates of pay not in excess of the daily equivalent of the highest rate of basic pay payable under the General Schedule of section 5332 of title 5.
+In carrying out the duties and functions of the Office, the Director may procure the temporary (not to exceed one year) or intermittent services of experts or consultants or organizations thereof by contract as independent contractors, or, in the case of individual experts or consultants, by employment at rates of pay not in excess of the daily equivalent of the highest rate of basic paypayable under the General Schedule of section 5332 of title 5.
 
 #### (d) Relationship to executive branch
 
@@ -44,11 +44,11 @@ There are authorized to be appropriated to the Office for each fiscal year such 
 
 #### References in Text
 
-This Act, referred to in subsec. (f), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (f), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31, and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
-Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, which was classified to section 921 ofthis title, to subsec. (g) (now (f)) of this section, relating to revenue estimates.
+Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, which was classified to section 921 of this title, to subsec. (g) (now (f)) of this section, relating to revenue estimates.
 
 #### Amendments
 
@@ -64,7 +64,7 @@ Pub. L. 101–508, §12302(b), transferred section 273 of Pub. L. 99–177, whic
 
 <b>1997</b>—Subsec. (a)(3). Pub. L. 105–33, §10102(a), substituted "The term of office of the Director shall be 4 years and shall expire on January 3 of the year preceding each Presidential election." for "The term of office of the Director first appointed shall expire at noon on January 3, 1979, and the terms of office of Directors subsequently appointed shall expire at noon on January 3 of each fourth year thereafter."
 
-Subsec. (e). Pub. L. 105–33, §10102(b), inserted "and" before "the Library", struck out "and the Office of Technology Assessment," after "Library of Congress,", inserted "and" before "the Librarian", and struck out ", and the Technology Assessment Board" after "Librarian of Congress".
+Subsec. (e). Pub. L. 105–33, §10102(b), inserted "and" before "the Library", struck out "and the Office ofTechnology Assessment," after "Library of Congress,", inserted "and" before "the Librarian", and struck out ", and the Technology Assessment Board" after "Librarian of Congress".
 
 Subsecs. (f), (g). Pub. L. 105–33, §10102(c), redesignated subsec. (g), relating to revenue estimates, as (f).
 

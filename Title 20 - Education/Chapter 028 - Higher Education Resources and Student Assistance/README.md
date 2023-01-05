@@ -189,8 +189,8 @@
 | [1063a.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/%C2%A7%2001063a%20-%20Applications.md) | Applications. |
 | [1063b.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/%C2%A7%2001063b%20-%20Professional%20or%20graduate%20institutions.md) | Professional or graduate institutions. |
 | [1063c.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/%C2%A7%2001063c%20-%20Reporting%20and%20audit%20requirements.md) | Reporting and audit requirements. |
-| [1063d.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/%C2%A7%2001063d%20-%20Strengthening%20HBCUS%20through%20Federal%20agency%20plans.md) | Strengthening HBCUS through Federal agency plans. |
-| [1063e.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/%C2%A7%2001063e%20-%20President%27s%20Board%20of%20Advisors%20on%20HBCUS.md) | President's Board of Advisors on HBCUS. |
+| [1063d.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/%C2%A7%2001063d%20-%20Strengthening%20HBCUs%20through%20Federal%20agency%20plans.md) | Strengthening HBCUs through Federal agency plans. |
+| [1063e.](Subchapter%20003%20%28III%29%20-%20Institutional%20Aid/Part%20B%20-%20Strengthening%20Historically%20Black%20Colleges%20and%20Universities/%C2%A7%2001063e%20-%20President%27s%20Board%20of%20Advisors%20on%20HBCUs.md) | President's Board of Advisors on HBCUs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1037,6 +1037,7 @@
 | 1161l–3. | Education Disaster and Emergency Relief Loan Program. |
 | 1161l–4. | Guidance on mental health disclosures for student safety. |
 | 1161l–5. | Rule of construction. |
+| 1161l–6. | Online survey tool for campus safety. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

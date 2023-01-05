@@ -74,7 +74,7 @@ A violation of a regulation issued under subsection (a) or (b) shall be punishab
 
 &emsp;(A) uses a radiation source that could be replaced with an economically and technically equivalent (or improved) process that does not require the use of a radiation source; or
 
-&emsp;(B) may be used with a radiation source that would pose a lower risk to public health andsafety in the event of an accident or attack involving the radiation source.
+&emsp;(B) may be used with a radiation source that would pose a lower risk to public health and safety in the event of an accident or attack involving the radiation source.
 
 (3) Not later than 2 years after August 8, 2005, the Commission shall submit to Congress the results of the study under paragraph (1).
 
@@ -146,7 +146,7 @@ A violation of a regulation issued under subsection (a) or (b) shall be punishab
 
 &emsp;(viii) the creation of, or modifications to, procedures for improving the security of use, transportation, and storage of radiation sources, including—
 
-&emsp;&emsp;(I) periodic audits or inspections by the Commission to ensure that radiation sources are properly secured and can be fully accounted for;
+&emsp;&emsp;(I) periodic audits or inspections by the Commission to ensure that radiation sourcesare properly secured and can be fully accounted for;
 
 &emsp;&emsp;(II) evaluation of the security measures by the Commission;
 
@@ -162,7 +162,7 @@ A violation of a regulation issued under subsection (a) or (b) shall be punishab
 
 #### (g) Action by Commission
 
-Not later than 60 days after the date of receipt by Congress and the President of a report undersubsection (f)(3)(B), the Commission, in accordance with the recommendations of the task force, shall—
+Not later than 60 days after the date of receipt by Congress and the President of a report under subsection (f)(3)(B), the Commission, in accordance with the recommendations of the task force, shall—
 
 &emsp;(1) take any action the Commission determines to be appropriate, including revising the system of the Commission for licensing radiation sources; and
 

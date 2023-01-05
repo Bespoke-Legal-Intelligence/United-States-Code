@@ -76,7 +76,7 @@ Section 1083(h)(2)(C)(iv) of this title, referred to in subsec. (d)(3), was in t
 
 <b>2006</b>—Subsec. (b)(1). Pub. L. 109–280, §505(a), added par. (1) and struck out former par. (1) which read as follows: "the aggregate unfunded vested benefits at the end of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of plans maintained by the contributing sponsor and the members of its controlled group exceed $50,000,000 (disregarding plans with no unfunded vested benefits);".
 
-Subsec. (b)(2). Pub. L. 109–280, §108(b)(3), formerly §107(b)(3), as renumbered by Pub. L. 111–192, substituted"1083(k)(1)(A) and (B)" for "1082(f)(1)(A) and (B)" and "430(k)(1)(A) and (B)" for "412(n)(1)(A) and (B)".
+Subsec. (b)(2). Pub. L. 109–280, §108(b)(3), formerly §107(b)(3), as renumbered by Pub. L. 111–192, substituted "1083(k)(1)(A) and (B)" for "1082(f)(1)(A) and (B)" and "430(k)(1)(A) and (B)" for "412(n)(1)(A) and (B)".
 
 Subsecs. (d), (e). Pub. L. 109–280, §505(b), added subsecs. (d) and (e).
 
@@ -88,7 +88,7 @@ Committee on Education and the Workforce of House of Representatives changed to 
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L.113–97, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 2012 Amendment
 

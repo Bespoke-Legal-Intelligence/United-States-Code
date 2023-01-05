@@ -32,7 +32,7 @@ There is established a Health Information Technology Advisory Committee (referre
 
 &emsp;&emsp;&emsp;(iii) The facilitation of secure access by an individual to such individual's protected health information and access to such information by a family member, caregiver, or guardian acting on behalf of a patient, including due to age-related and other disability, cognitive impairment, or dementia.
 
-&emsp;&emsp;&emsp;(iv) Subject to subparagraph (D), any other target area that the HIT Advisory Committee identifies as an appropriate target area to be considered under this subparagraph.
+&emsp;&emsp;&emsp;(iv) Subject to subparagraph (D), any other target area that the HIT AdvisoryCommittee identifies as an appropriate target area to be considered under this subparagraph.
 
 #### (C) Additional target areas
 
@@ -96,7 +96,7 @@ There is established a Health Information Technology Advisory Committee (referre
 
 #### (4) Forum
 
-&emsp;The HIT Advisory Committee shall serve as a forum for the participation of a broad range of stakeholders with specific expertise in policies, including technical expertise, relating to the matters described in paragraphs (1), (2), and (3) to provide input on the development, harmonization, and recognition of standards, implementation specifications, and certification criteria necessary for the development and adoption of health information technology infrastructure nationally and locally that allows for the electronic access, exchange, and use of health information.
+&emsp;The HIT Advisory Committee shall serve as a forum for the participation of a broad range of stakeholders with specific expertise in policies, including technical expertise, relating tothe matters described in paragraphs (1), (2), and (3) to provide input on the development, harmonization, and recognition of standards, implementation specifications, and certification criteria necessary for the development and adoption of health information technology infrastructure nationally and locally that allows for the electronic access, exchange, and use of health information.
 
 #### (5) Schedule
 
@@ -208,15 +208,15 @@ There is established a Health Information Technology Advisory Committee (referre
 
 &emsp;For the purposes of carrying out this section, the Secretary may provide or ensure that financial assistance is provided by the HIT Advisory Committee to defray in whole or in part any membership fees or dues charged by such Committee to those consumer advocacy groups and not-for-profit entities that work in the public interest as a party of their mission.
 
-#### (e) Application of FACA
+#### (e) Application of chapter 10 of title 5
 
-The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14 of such Act, shall apply to the HIT Advisory Committee.
+Chapter 10 of title 5, other than section 1013 of title 5, shall apply to the HIT Advisory Committee.
 
 #### (f) Publication
 
 The Secretary shall provide for publication in the Federal Register and the posting on the Internet website of the Office of the National Coordinator for Health Information Technology of all policy recommendations made by the HIT Advisory Committee under this section.
 
-(July 1, 1944, ch. 373, title XXX, §3002, as added Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.)
+(July 1, 1944, ch. 373, title XXX, §3002, as added Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168; amended Pub. L. 117–286, §4(a)(246), Dec. 27, 2022, 136 Stat. 4332.)
 
 #### <b>Editorial Notes</b>
 
@@ -224,11 +224,13 @@ The Secretary shall provide for publication in the Federal Register and the post
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(2)(B)(ii), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 
 A prior section 300jj–12, act July 1, 1944, ch. 373, title XXX, §3002, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 234, related to the establishment, duties, and membership of the HIT Policy Committee, prior to repeal by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5, other than section 1013 of title 5," for "The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14 of such Act," in text.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

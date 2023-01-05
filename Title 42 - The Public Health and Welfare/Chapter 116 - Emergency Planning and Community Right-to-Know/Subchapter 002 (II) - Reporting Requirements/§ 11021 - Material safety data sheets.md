@@ -44,7 +44,7 @@ The Administrator may establish threshold quantities for hazardous chemicals bel
 
 #### (2) To public
 
-&emsp;A local emergency planning committee, upon request by any person, shall make available a material safety data sheet to the person in accordance with section 11044 of this title. If the local emergency planning committee does not have the requested material safety data sheet, the committee shall request the sheet from the facility owner or operator and then make the sheet available to the person in accordance with section 11044 of this title.
+&emsp;A local emergency planning committee, upon request by any person, shall make available a material safety data sheet to the person in accordance with section 11044 of this title. If the local emergency planning committeedoes not have the requested material safety data sheet, the committee shall request the sheet from the facility owner or operator and then make the sheet available to the person in accordance with section 11044 of this title.
 
 #### (d) Initial submission and updating
 
@@ -76,5 +76,5 @@ For purposes of this section, the term "hazardous chemical" has the meaning give
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), (2)(A)(i), (B) and (d)(1)(B), isPub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), (2)(A)(i), (B) and (d)(1)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 

@@ -36,7 +36,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 &emsp;&emsp;(ii) any applicable procedures for granting a request by a parent for reasonable access to such survey within a reasonable period of time after the request is received.
 
-&emsp;&emsp;(B) Arrangements to protect student privacy that are provided by the agency in the event of the administration or distribution of a survey to a student containing one or more of the following items (including the right of a parent of a student to inspect, upon the request of the parent, any survey containing one or more of such items):
+&emsp;&emsp;(B) Arrangements to protect student privacy that are provided by the agency in the event of the administration or distributionof a survey to a student containing one or more of the following items (including the right of a parent of a student to inspect, upon the request of the parent, any survey containing one or more of such items):
 
 &emsp;&emsp;&emsp;(i) Political affiliations or beliefs of the student or the student's parent.
 
@@ -112,7 +112,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 &emsp;&emsp;&emsp;(iii) Curriculum and instructional materials used by elementary schools and secondary schools.
 
-&emsp;&emsp;&emsp;(iv) Tests and assessments used by elementary schools and secondary schools to provide cognitive, evaluative, diagnostic, clinical, aptitude, or achievement information about students (or to generate other statistically useful data for the purpose of securing such tests and assessments) and the subsequent analysis and public release of the aggregate data from such tests and assessments.
+&emsp;&emsp;&emsp;(iv) Tests and assessments used by elementary schools and secondary schools to provide cognitive, evaluative, diagnostic, clinical, aptitude, or achievement information about students (or to generate otherstatistically useful data for the purpose of securing such tests and assessments) and the subsequent analysis and public release of the aggregate data from such tests and assessments.
 
 &emsp;&emsp;&emsp;(v) The sale by students of products or services to raise funds for school-related or education-related activities.
 
@@ -192,7 +192,7 @@ Educational agencies and institutions shall give parents and students effective 
 
 #### (e) Enforcement
 
-The Secretary shall take such action as the Secretary determines appropriate to enforce this section, except that action to terminate assistance provided under an applicable programshall be taken only if the Secretary determines that—
+The Secretary shall take such action as the Secretary determines appropriate to enforce this section, except that action to terminate assistance provided under an applicable program shall be taken only if the Secretary determines that—
 
 &emsp;(1) there has been a failure to comply with such section; and
 
@@ -208,7 +208,7 @@ The Secretary shall establish or designate an office and review board within the
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(5)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(5)(A)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(5)(D), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title IV of the Act is classified generally to part A (§7101 et seq.) of subchapter IV of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 

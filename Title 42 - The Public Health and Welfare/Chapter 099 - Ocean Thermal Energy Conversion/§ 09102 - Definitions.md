@@ -12,7 +12,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(5) "coastal State" means a State in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or one or more of the Great Lakes;
 
-&emsp;(6) "construction" means any activities conducted at sea to supervise, inspect, actually build, or perform other functions incidental tothe building, repairing, or expanding of an ocean thermal energy conversion facility or plantship or any of its components, including but not limited to, piledriving, emplacement of mooring devices, emplacement of cables and pipelines, and deployment of the cold water pipe, and alterations, modifications, or additions to an ocean thermal energy conversion facility or plantship;
+&emsp;(6) "construction" means any activities conducted at sea to supervise, inspect, actually build, or perform other functions incidental to the building, repairing, or expanding of an ocean thermal energy conversion facility or plantship or any of its components, including but not limited to, piledriving, emplacement of mooring devices, emplacement of cables and pipelines, and deployment of the cold water pipe, and alterations, modifications, or additions to an ocean thermal energy conversion facility or plantship;
 
 &emsp;(7) "facility" means an ocean thermal energy conversion facility;
 

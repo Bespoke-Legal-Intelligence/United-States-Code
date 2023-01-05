@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(iii) environmental risks associated with potential deployment of clean hydrogen technologies in those regions, and ways to mitigate those risks;
 
-&emsp;&emsp;(D) approaches, including substrategies, that reflect geographic diversity across thecountry, to advance clean hydrogen based on resources, industry sectors, environmental benefits, and economic impacts in regional economies;
+&emsp;&emsp;(D) approaches, including substrategies, that reflect geographic diversity across the country, to advance clean hydrogen based on resources, industry sectors, environmental benefits, and economic impacts in regional economies;
 
 &emsp;&emsp;(E) identifying opportunities to use, and barriers to using, existing infrastructure, including all components of the natural gas infrastructure system, the carbon dioxide pipeline infrastructure system, end-use local distribution networks, end-use power generators, LNG terminals, industrial users of natural gas, and residential and commercial consumers of natural gas, for clean hydrogen deployment;
 

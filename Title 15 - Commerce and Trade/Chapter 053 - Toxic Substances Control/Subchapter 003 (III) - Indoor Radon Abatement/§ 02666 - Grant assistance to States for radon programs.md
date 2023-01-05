@@ -48,7 +48,7 @@ Beginning in fiscal year 1991, the Administrator shall give a preference for gra
 
 #### (e) Priority activities and projects
 
-The Administrator shall support eligible activities contained in State applications with the full amount of available funds. In the event that State applications for funds exceed the total funds available in a fiscal year, the Administrator shall give priority to activities orprojects proposed by States based on each of the following criteria:
+The Administrator shall support eligible activities contained in State applications with the full amount of available funds. In the event that State applications for funds exceed the total funds available in a fiscal year, the Administrator shall give priority to activities or projects proposed by States based on each of the following criteria:
 
 &emsp;(1) The seriousness and extent of the radon contamination problem to be addressed.
 

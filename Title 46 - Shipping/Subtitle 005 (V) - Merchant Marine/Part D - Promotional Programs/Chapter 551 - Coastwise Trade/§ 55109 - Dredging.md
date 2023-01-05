@@ -50,7 +50,7 @@ Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1711, repealed section 1 of act
 
 Pub. L. 102–587, title V, §5501(a)(2), (3), Nov. 4, 1992, 106 Stat. 5084, as amended by Pub. L. 109–304, §17(i), Oct. 6, 2006, 120 Stat. 1709, provided that:
 
-"(2) The amendment made by paragraph (1) \[amending section 292 of the former Appendix to this title,from which this section was derived\] does not apply to—
+"(2) The amendment made by paragraph (1) \[amending section 292 of the former Appendix to this title, from which this section was derived\] does not apply to—
 
 &emsp;"(A)(i) the vessel STUYVESANT, official number 648540;
 

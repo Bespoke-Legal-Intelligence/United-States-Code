@@ -44,7 +44,7 @@ In awarding grants under this chapter, Local Councils shall give preference to s
 
 #### (3) Requirement
 
-&emsp;The State shall award grants to Local Councils only for purposes that are consistent with the performance goals established under paragraph (2).
+&emsp;The State shall award grants to Local Councils only for purposes that are consistent withthe performance goals established under paragraph (2).
 
 #### (4) Report
 

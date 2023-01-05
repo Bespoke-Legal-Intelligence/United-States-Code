@@ -12,3 +12,4 @@
 - [&sect; 08015 - Improvement of transparency and traceability programs](%C2%A7%2008015%20-%20Improvement%20of%20transparency%20and%20traceability%20programs.md)
 - [&sect; 08016 - Technology programs](%C2%A7%2008016%20-%20Technology%20programs.md)
 - [&sect; 08017 - Savings clause](%C2%A7%2008017%20-%20Savings%20clause.md)
+- [&sect; 08018 - Capacity building in foreign fisheries](%C2%A7%2008018%20-%20Capacity%20building%20in%20foreign%20fisheries.md)

@@ -24,7 +24,7 @@ For purposes of section 38, the nonconventional source production credit determi
 
 #### (2) Credit and phaseout adjustment based on inflation
 
-&emsp;The $3 amount in subsection (a) and the $23.50 and $6 amounts in paragraph (1) shalleach be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. In the case of gas from a tight formation, the $3 amount in subsection (a) shall not be adjusted.
+&emsp;The $3 amount in subsection (a) and the $23.50 and $6 amounts in paragraph (1) shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. In the case of gas from a tight formation, the $3 amount in subsection (a) shall not be adjusted.
 
 #### (3) Credit reduced for grants, tax-exempt bonds, and subsidized energy financing
 
@@ -124,7 +124,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall, not later than April 1 of each calendar year, determine and publishin the Federal Register the inflation adjustment factor and the reference price for the preceding calendar year in accordance with this paragraph.
+&emsp;&emsp;The Secretary shall, not later than April 1 of each calendar year, determine and publish in the Federal Register the inflation adjustment factor and the reference price for the preceding calendar year in accordance with this paragraph.
 
 #### (B) Inflation adjustment factor
 
@@ -206,7 +206,7 @@ Notwithstanding subsection (e)—
 
 #### (B) Extension period to commence with unadjusted credit amount
 
-&emsp;&emsp;For purposes of applying subsection (b)(2) to the $3 amount in subsection (a), in thecase of fuels sold after 2005, subsection (d)(2)(B) shall be applied by substituting "2004" for "1979".
+&emsp;&emsp;For purposes of applying subsection (b)(2) to the $3 amount in subsection (a), in the case of fuels sold after 2005, subsection (d)(2)(B) shall be applied by substituting "2004" for "1979".
 
 #### (C) Denial of double benefit
 
@@ -372,7 +372,7 @@ Pub. L. 109–432, div. A, title II, §211(c), Dec. 20, 2006, 120 Stat. 2948, pr
 
 #### Effective Date of 2005 Amendments
 
-Amendment by section 402(g) of Pub. L. 109–135 effective as if included in the provision of the Energy PolicyAct of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
+Amendment by section 402(g) of Pub. L. 109–135 effective as if included in the provision of the Energy Policy Act of 2005, Pub. L. 109–58, to which such amendment relates, see section 402(m)(1) of Pub. L. 109–135, set out as an Effective and Termination Dates of 2005 Amendments note under section 23 of this title.
 
 Pub. L. 109–58, title XIII, §1321(b), Aug. 8, 2005, 119 Stat. 1011, provided that: "The amendment made by this section \[amending this section\] shall apply to fuel produced and sold after December 31, 2005, in taxable years ending after such date."
 
@@ -426,7 +426,7 @@ Pub. L. 99–514, title XVIII, §1879(c)(2), Oct. 22, 1986, 100 Stat. 2906, prov
 
 Amendment by section 474(h) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
-Amendment by section 612(e)(1) of Pub. L. 98–369 applicable to interest paid or accrued after Dec. 31, 1984, on indebtedness incurred after Dec. 31, 1984, see section 612(g) of Pub. L. 98–369, set out as an Effective Date note under section 25 of this title.
+Amendment by section 612(e)(1) of Pub. L. 98–369 applicable to interest paid or accrued after Dec. 31, 1984,on indebtedness incurred after Dec. 31, 1984, see section 612(g) of Pub. L. 98–369, set out as an Effective Date note under section 25 of this title.
 
 Pub. L. 98–369, title VII, §722(d)(3), July 18, 1984, 98 Stat. 974, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years ending after December 31, 1979."
 
@@ -464,7 +464,7 @@ Pub. L. 101–508, title XI, §11821(b), Nov. 5, 1990, 104 Stat. 1388–558, pro
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 
-For applicability of amendment by section 701(c)(3) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title Iof Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
+For applicability of amendment by section 701(c)(3) of Pub. L. 99–514 notwithstanding any treaty obligation of the United States in effect on Oct. 22, 1986, with provision that for such purposes any amendment by title I of Pub. L. 100–647 be treated as if it had been included in the provision of Pub. L. 99–514 to which such amendment relates, see section 1012(aa)(2), (4) of Pub. L. 100–647, set out as a note under section 861 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -473,6 +473,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Inflation Adjusted Items and Reference Price for Certain Years
 
 Provisions relating to inflation adjustment of items in this section and reference price for certain years were contained in the following:
+
+<b>2021</b>—Internal Revenue Notice 2022—17.
 
 <b>2020</b>—Internal Revenue Notice 2021–29.
 

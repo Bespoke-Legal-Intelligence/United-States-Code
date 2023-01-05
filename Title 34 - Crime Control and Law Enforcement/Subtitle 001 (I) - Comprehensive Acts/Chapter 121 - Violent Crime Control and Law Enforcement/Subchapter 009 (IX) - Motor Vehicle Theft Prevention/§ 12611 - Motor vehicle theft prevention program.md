@@ -78,7 +78,7 @@ The voluntary consent form used to enroll in the program shall—
 
 &emsp;&emsp;(B) be in a prominent format to be determined by the Attorney General; and
 
-&emsp;&emsp;(C) explain the possibility that if the motor vehicle is operated under the specified conditions, the vehicle may be stopped by law enforcement officials even if the officials have no other basis for believing that the vehicle is being operated unlawfully.
+&emsp;&emsp;(C) explain the possibility that if the motor vehicle is operated under the specifiedconditions, the vehicle may be stopped by law enforcement officials even if the officials have no other basis for believing that the vehicle is being operated unlawfully.
 
 #### (3) Fine for failure to provide notice
 

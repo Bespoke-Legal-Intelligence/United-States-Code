@@ -8,7 +8,7 @@
 
 #### (2) Statements by beneficiaries
 
-&emsp;Each person required to file a return under section 6018(b) shall furnish to the Secretary and to each other person who holds a legal or beneficial interest in the property to which such return relates a statement identifying the information described in paragraph (1).
+&emsp;Each person required to file a return under section 6018(b) shall furnish to the Secretary and to each other person who holds a legal or beneficial interest in the property to whichsuch return relates a statement identifying the information described in paragraph (1).
 
 #### (3) Time for furnishing statement
 

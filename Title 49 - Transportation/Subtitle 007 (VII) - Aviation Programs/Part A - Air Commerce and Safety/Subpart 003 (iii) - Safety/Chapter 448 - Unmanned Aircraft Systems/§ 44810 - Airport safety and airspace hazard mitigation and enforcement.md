@@ -18,7 +18,7 @@ Contents.—The plan shall provide for the development of policies, procedures, 
 
 &emsp;(3)
 
-Aviation rulemaking committee.—The Administrator shall charter an aviation rulemaking committee to make recommendations for such a plan and any standards that the Administrator determines may need to be developed with respect to such technologies or systems. The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to an aviation rulemaking committee chartered under this paragraph.
+Aviation rulemaking committee.—The Administrator shall charter an aviation rulemaking committee to make recommendations for such a plan and any standards that the Administrator determines may need to be developed with respect to such technologies or systems. The Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply to an aviation rulemaking committee chartered under this paragraph.
 
 &emsp;(4)
 
@@ -34,15 +34,15 @@ Authority.—Under the testing and evaluation in subsection (c), the Administrat
 
 (e)
 
-Aip Funding Eligibility.—Upon the certification, permitting, authorizing, or allowing of such technologies and systems that have been successfully tested under this section, an airport sponsor may apply for a grant under subchapter I of chapter 471 to purchase an unmanned aircraft detection and mitigation system. For purposes of this subsection, purchasing an unmanned aircraft detection and mitigation system shall be considered airport development (as defined in section 47102).
+Aip Funding Eligibility.—Upon the certification, permitting, authorizing, or allowing ofsuch technologies and systems that have been successfully tested under this section, an airport sponsor may apply for a grant under subchapter I of chapter 471 to purchase an unmanned aircraft detection and mitigation system. For purposes of this subsection, purchasing an unmanned aircraft detection and mitigation system shall be considered airport development (as defined in section 47102).
 
 (f)
 
-Briefing.—The Administrator shall annually brief the appropriate committees of Congress, including the Committee on Judiciary <sup>1</sup> of the House of Representatives and the Committee on the Judiciary of the Senate, on the implementation of this section.
+Briefing.—The Administrator shall annually brief the appropriate committees of Congress, including the Committee on Judiciary <sup>2</sup> of the House of Representatives and the Committee on the Judiciary of the Senate, on the implementation of this section.
 
 (g)
 
-Applicability of Other Laws.—Section 46502 of this title, section 32 of title 18, United States Code (commonly known as the Aircraft Sabotage Act), section 1031 of title 18, United States Code (commonly known as the Computer Fraud and Abuse Act of 1986),<sup>2</sup> sections 2510–2522 of title 18, United States Code (commonly known as the Wiretap Act), and sections 3121–3127 of title 18, United States Code (commonly known as the Pen/Trap Statute), shall not apply to activities authorized by the Administrator pursuant to subsection <sup>3</sup> (c) and (d).
+Applicability of Other Laws.—Section 46502 of this title, section 32 of title 18, United States Code (commonly known as the Aircraft Sabotage Act), section 1031 of title 18, United States Code (commonly known as the Computer Fraud and Abuse Act of 1986),<sup>1</sup> sections 2510–2522 of title 18, United States Code (commonly known as the Wiretap Act), and sections 3121–3127 of title 18, United States Code (commonly known as the Pen/Trap Statute), shall not apply to activities authorized by the Administrator pursuant to subsection <sup>3</sup> (c) and (d).
 
 (h)
 
@@ -60,7 +60,7 @@ Non-delegation.—The Administrator shall not delegate any authority granted to 
 
 The Aircraft Sabotage Act, referred to in subsec. (g), is part B (§§2011–2015) of chapter XX of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2187. Section 2013(b) of the Act generally amended section 32 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 31 of Title 18 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 The Computer Fraud and Abuse Act of 1986, referred to in subsec. (g), is Pub. L. 99–474, §1, Oct. 16, 1986, 100 Stat. 1213, which amended section 1030 of Title 18, Crimes and Criminal Procedure. Section 1031 of Title 18 was enacted by Pub. L. 100–700, known as the Major Fraud Act of 1988.
 
@@ -84,7 +84,7 @@ Reporting.—As part of the pilot program, the Administrator shall establish and
 
 "(c)
 
-Report to Congress.—Not later than 1 year after the date of enactment of the FAA Reauthorization Act of 2018 \[Oct. 5, 2018\], and annually thereafter through the duration of the pilot program established in subsection (a), the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senateand Committee on Transportation and Infrastructure of the House of Representatives\] a report on the following:
+Report to Congress.—Not later than 1 year after the date of enactment of the FAA Reauthorization Act of 2018 \[Oct. 5, 2018\], and annually thereafter through the duration of the pilot program established in subsection (a), the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the following:
 
 &emsp;"(1) The number of unauthorized unmanned aircraft operations detected in restricted airspace, including in and around airports, together with a description of such operations.
 
@@ -106,9 +106,9 @@ Civil Penalties.—\[Amended section 46301 of this title.\]
 
 Rule of Construction.—Nothing in this section shall be construed to limit the authority of the Administrator to pursue an enforcement action for a violation of this subtitle or any other applicable provision of aviation safety law or regulation using remote detection or identification or other technology following the sunset of the pilot program."
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "the".</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be "subsections".</i>
 

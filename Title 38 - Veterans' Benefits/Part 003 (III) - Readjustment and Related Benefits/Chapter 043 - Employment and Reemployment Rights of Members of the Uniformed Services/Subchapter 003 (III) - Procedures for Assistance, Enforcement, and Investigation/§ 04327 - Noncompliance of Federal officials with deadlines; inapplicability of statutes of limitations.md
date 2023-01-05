@@ -14,7 +14,7 @@ Effect of Noncompliance of Federal Officials With Deadlines.—(1) The inability
 
 &emsp;&emsp;(iii) to obtain any type of assistance or relief authorized by this chapter;
 
-&emsp;(C) shall not deprive a Federal court, the Merit Systems Protection Board, or a State court of jurisdiction over an action or complaint filed by the Attorney General, the Special Counsel, or a person under section 4323 or 4324 of this title; and
+&emsp;(C) shall not deprive a Federal court, the Merit Systems Protection Board, or a Statecourt of jurisdiction over an action or complaint filed by the Attorney General, the Special Counsel, or a person under section 4323 or 4324 of this title; and
 
 &emsp;(D) shall not constitute a defense, including a statute of limitations period, that any employer (including a State, a private employer, or a Federal executive agency) or the Office of Personnel Management may raise in an action filed by the Attorney General, the Special Counsel, or a person under section 4323 or 4324 of this title.
 

@@ -77,7 +77,7 @@
 
 &emsp;(B) the date on which the employee or Member making the deposit first becomes an employee or Member following the period of military service for which such deposit is due,
 
-> shall include interest on such amount computed and compounded annually beginning on the date of the expiration of the two-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall be equal to the interest rate that is applicable for such year under section 8334(e).
+> shall include interest on such amount computed and compounded annually beginning on the date of the expiration of the two-year period. The interest rate that is applicable in computing interest in any year under this paragraph shall beequal to the interest rate that is applicable for such year under section 8334(e).
 
 (3) Any payment received by an agency, the Secretary of the Senate, or the Chief Administrative Officer of the House of Representatives under this subsection shall be immediately remitted to the Office for deposit in the Treasury of the United States to the credit of the Fund.
 
@@ -253,7 +253,7 @@ Amendment by Pub. L. 107–135 effective 60 days after Jan. 23, 2002, and applic
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–107 applicable only to separations from service as an employee of the UnitedStates on or after Dec. 28, 2001, see section 1132(c) of Pub. L. 107–107, set out as a note under section 8332 of this title.
+Amendment by Pub. L. 107–107 applicable only to separations from service as an employee of the United States on or after Dec. 28, 2001, see section 1132(c) of Pub. L. 107–107, set out as a note under section 8332 of this title.
 
 #### Effective Date of 2000 Amendments
 
@@ -281,7 +281,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, and applicable with respec
 
 #### Authorization of Payments
 
-Payments from the Office of Personnel Management authorized by section 3(b) of Pub. L. 115–352, which amended this section, to be paid from the Civil Service Retirement and Disability Fund, see section 3(c) of Pub. L. 115–352, set out as a note under section 8334 of this title.
+Payments from the Office of Personnel Management authorized by section 3(b) of Pub. L. 115–352, whichamended this section, to be paid from the Civil Service Retirement and Disability Fund, see section 3(c) of Pub. L. 115–352, set out as a note under section 8334 of this title.
 
 #### No Reduction in Agency Contributions
 

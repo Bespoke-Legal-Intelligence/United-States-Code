@@ -24,7 +24,7 @@ The regulations referred to in subsection (a) shall—
 
 &emsp;(2) specify the requirements subject to review (which shall include determining whether the State program is in conformity with the requirement of section 671(a)(27) of this title), and the criteria to be used to measure conformity with such requirements and to determine whether there is a substantial failure to so conform;
 
-&emsp;(3) specify the method to be used to determine the amount of any Federal matchingfunds to be withheld (subject to paragraph (4)) due to the State program's failure to so conform, which ensures that—
+&emsp;(3) specify the method to be used to determine the amount of any Federal matching funds to be withheld (subject to paragraph (4)) due to the State program's failure to so conform, which ensures that—
 
 &emsp;&emsp;(A) such funds will not be withheld with respect to a program, unless it is determined that the program fails substantially to so conform;
 

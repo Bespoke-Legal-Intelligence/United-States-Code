@@ -32,7 +32,7 @@ Long Range Review of Effectiveness.—(1) Not later than December 31, 1999, the 
 
 &emsp;(ii) base that finding on information collected and analyzed under section 33112 <sup>1</sup> of this title;
 
-&emsp;(iii) consider the effectiveness, the extent of use, and the extent to which civil and criminalpenalties under section 33115(b) of this title and section 2322 of title 18 on chop shops have been effective in substantially inhibiting operation of chop shops and motor vehicle theft;
+&emsp;(iii) consider the effectiveness, the extent of use, and the extent to which civil and criminal penalties under section 33115(b) of this title and section 2322 of title 18 on chop shops have been effective in substantially inhibiting operation of chop shops and motor vehicle theft;
 
 &emsp;(iv) base that finding on the 3-year and 5-year reports issued by the Secretary under section 33113 of this title; and
 

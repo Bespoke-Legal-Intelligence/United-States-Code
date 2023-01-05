@@ -154,7 +154,7 @@ Section 7325c, Pub. L. 89–10, title V, §6164, formerly title VI, §6164, as a
 
 Prior sections 7331 and 7332 were omitted in the general amendment of former subchapter VI by Pub. L. 107–110.
 
-Section 7331, Pub. L. 89–10, title VI, §6201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3709; amended Pub. L. 105–278, §2(1), Oct. 22, 1998, 112 Stat. 2682, related to State uses of funds.
+Section 7331, Pub. L. 89–10, title VI, §6201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3709;amended Pub. L. 105–278, §2(1), Oct. 22, 1998, 112 Stat. 2682, related to State uses of funds.
 
 Section 7332, Pub. L. 89–10, title VI, §6202, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3710, related to State applications.
 

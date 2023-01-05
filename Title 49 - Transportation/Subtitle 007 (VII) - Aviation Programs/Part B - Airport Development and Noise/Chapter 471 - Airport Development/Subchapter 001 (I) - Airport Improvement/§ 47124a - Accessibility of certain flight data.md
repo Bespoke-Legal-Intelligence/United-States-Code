@@ -62,7 +62,7 @@ Nonapplicability.—Subparagraph (A) shall not apply to any contract or agreemen
 
 (d)
 
-Protection of Certain Data.—The Administrator of the Federal Aviation Administration may withhold information that would otherwise be required to be made available under section <sup>1</sup> only if—
+Protection of Certain Data.—The Administrator of the Federal Aviation Administrationmay withhold information that would otherwise be required to be made available under section <sup>1</sup> only if—
 
 &emsp;(1) the Administrator determines, based on information in the possession of the Administrator, that the Administrator may withhold the information in accordance with section 552a of title 5, United States Code; or
 

@@ -150,7 +150,7 @@ Pub. L. 101–513, title V, §599C, Nov. 5, 1990, 104 Stat. 2064, as amended by 
 
 #### Hostage Relief
 
-Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, known asthe "Hostage Relief Act of 1980", provided for benefits for United States civil service and uniformed service personnel who were placed in a captive status during a hostage period beginning on Nov. 4, 1979, due to the seizure of the United States Embassy in Iran.
+Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, known as the "Hostage Relief Act of 1980", provided for benefits for United States civil service and uniformed service personnel who were placed in a captive status during a hostage period beginning on Nov. 4, 1979, due to the seizure of the United States Embassy in Iran.
 
 #### <b>Executive Documents</b>
 
@@ -160,5 +160,5 @@ Ex. Ord. No. 12268, Jan. 15, 1981, 46 F.R. 4671, provided for the implementation
 
 #### Executive Order No. 12313
 
-Ex. Ord. No. 12313, July 13, 1981, 46 F.R. 36689, designated Jan. 11, 1981, as date on which all citizens and resident aliens of the United States who had been placed in captive status as a result of seizure of United States Embassy in Iran were returned to United States or otherwise accounted for and were no longer under foreign control.
+Ex. Ord. No. 12313, July 13, 1981, 46 F.R. 36689, designated Jan. 11, 1981, as date on which all citizens andresident aliens of the United States who had been placed in captive status as a result of seizure of United States Embassy in Iran were returned to United States or otherwise accounted for and were no longer under foreign control.
 

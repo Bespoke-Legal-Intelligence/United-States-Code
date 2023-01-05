@@ -56,7 +56,7 @@ In order to be eligible for a grant under this section, the chief executive offi
 
 &emsp;&emsp;(C) the number of mentor-child matches proposed to be established and maintained annually under the program;
 
-&emsp;&emsp;(D) such information as the Secretary may require concerning the methods to be used to recruit, screen support, and oversee individuals participating as mentors, (which methods shall include criminal background checks on the individuals), and to evaluate outcomes for participating children, including information necessary to demonstrate compliance with requirements established by the Secretary for the program; and
+&emsp;&emsp;(D) such information as the Secretary may require concerning the methods to be usedto recruit, screen support, and oversee individuals participating as mentors, (which methods shall include criminal background checks on the individuals), and to evaluate outcomes for participating children, including information necessary to demonstrate compliance with requirements established by the Secretary for the program; and
 
 &emsp;&emsp;(E) such other information as the Secretary may require.
 
@@ -148,7 +148,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (B) Limitation
 
-&emsp;&emsp;An organization that provides mentoring services may not be an eligible entity for purposes of being awarded a cooperative agreement under this subsection.
+&emsp;&emsp;An organization that provides mentoring services may not be an eligible entity forpurposes of being awarded a cooperative agreement under this subsection.
 
 #### (3) Application requirements
 
@@ -232,7 +232,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (A) Total payment amount; 12-month service period
 
-&emsp;&emsp;The voucher shall specify the total amount to be paid a provider of mentoring services for providing the child on whose behalf the voucher is issued with mentoring services for a 12-month period.
+&emsp;&emsp;The voucher shall specify the total amount to be paid a provider of mentoringservices for providing the child on whose behalf the voucher is issued with mentoring services for a 12-month period.
 
 #### (B) Periodic payments as services provided
 
@@ -270,7 +270,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall enter into a contract with an independent, private organization toevaluate and prepare a report on the first 2 fiscal years in which the demonstration project is conducted under this subsection.
+&emsp;&emsp;The Secretary shall enter into a contract with an independent, private organization to evaluate and prepare a report on the first 2 fiscal years in which the demonstration project is conducted under this subsection.
 
 #### (B) Deadline for report
 
@@ -312,7 +312,7 @@ In awarding grants under this section, the Secretary shall take into considerati
 
 #### (A) Research, technical assistance, and evaluation
 
-&emsp;&emsp;The Secretary shall reserve 4 percent of the amount appropriated for each fiscal year under paragraph (1) for expenditure by the Secretary for research, technical assistance, and evaluation related to programs under this section.
+&emsp;&emsp;The Secretary shall reserve 4 percent of the amount appropriated for each fiscal yearunder paragraph (1) for expenditure by the Secretary for research, technical assistance, and evaluation related to programs under this section.
 
 #### (B) Service delivery demonstration project
 
@@ -354,7 +354,7 @@ Pub. L. 109–288, §8(a)(1), substituted "2007 through 2011" for "2002 through 
 
 Subsec. (g). Pub. L. 109–288, §8(b)(1)(B), added subsec. (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 109–288, §8(b)(2)(C), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: "The Secretary shall conduct an evaluation of the programs conducted pursuantto this section, and submit to the Congress not later than April 15, 2005, a report on the findings of the evaluation."
+Subsec. (h). Pub. L. 109–288, §8(b)(2)(C), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: "The Secretary shall conduct an evaluation of the programs conducted pursuant to this section, and submit to the Congress not later than April 15, 2005, a report on the findings of the evaluation."
 
 Pub. L. 109–288, §8(b)(1)(A), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 

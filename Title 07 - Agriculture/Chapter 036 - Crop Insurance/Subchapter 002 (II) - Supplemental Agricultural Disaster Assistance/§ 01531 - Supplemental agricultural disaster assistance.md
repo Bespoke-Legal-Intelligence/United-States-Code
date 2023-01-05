@@ -168,7 +168,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall use such sums as are necessary from the Trust Fund to make cropdisaster assistance payments to eligible producers on farms in disaster counties that have incurred crop production losses or crop quality losses, or both, during the crop year.
+&emsp;&emsp;The Secretary shall use such sums as are necessary from the Trust Fund to make crop disaster assistance payments to eligible producers on farms in disaster counties that have incurred crop production losses or crop quality losses, or both, during the crop year.
 
 #### (B) Crop loss
 
@@ -390,7 +390,7 @@ In this section:
 
 #### (ii) Exclusion
 
-&emsp;&emsp;&emsp;The term "eligible livestock producer" does not include an owner, cash or share lessee, or contract grower of livestock that rents or leases pastureland or grazing land owned by another person on a rate-of-gain basis.
+&emsp;&emsp;&emsp;The term "eligible livestock producer" does not include an owner, cash or share lessee, or contract grower of livestock that rents or leases pastureland or grazing landowned by another person on a rate-of-gain basis.
 
 #### (D) Normal carrying capacity
 
@@ -484,7 +484,7 @@ In this section:
 
 #### (II) D3
 
-&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land or pastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having at least a D3 (extreme drought) intensity in any area of the county at any time during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph—
+&emsp;&emsp;&emsp;&emsp;An eligible livestock producer that owns or leases grazing land orpastureland that is physically located in a county that is rated by the U.S. Drought Monitor as having at least a D3 (extreme drought) intensity in any area of the county at any time during the normal grazing period for the county, as determined by the Secretary, shall be eligible to receive assistance under this paragraph—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) in an amount equal to 2 monthly payments using the monthly payment rate determined under subparagraph (B); or
 
@@ -558,7 +558,7 @@ In this section:
 
 #### (B) Relationship to supplemental revenue assistance
 
-&emsp;&emsp;An eligible livestock producer that receives assistance under this subsection may not also receive assistance for losses to crops on the same land with the same intended use under subsection (b).
+&emsp;&emsp;An eligible livestock producer that receives assistance under this subsection maynot also receive assistance for losses to crops on the same land with the same intended use under subsection (b).
 
 #### (7) Authorization of appropriations
 
@@ -612,7 +612,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) under paragraph (3) to eligible orchardists and nursery tree growers that planted trees for commercial purposes but lost the trees as a result of a natural disaster, as determined by the Secretary; and
 
-&emsp;&emsp;&emsp;(ii) under paragraph (3)(B) to eligible orchardists and nursery tree growers that have a production history for commercial purposes on planted or existing trees butlost the trees as a result of a natural disaster, as determined by the Secretary.
+&emsp;&emsp;&emsp;(ii) under paragraph (3)(B) to eligible orchardists and nursery tree growers that have a production history for commercial purposes on planted or existing trees but lost the trees as a result of a natural disaster, as determined by the Secretary.
 
 #### (B) Limitation
 
@@ -682,7 +682,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may provide equitable relief to eligible producers on a farm that are otherwise ineligible or unintentionally fail to meet the requirements of paragraph (1) for 1or more crops on a farm on a case-by-case basis, as determined by the Secretary.
+&emsp;&emsp;The Secretary may provide equitable relief to eligible producers on a farm that are otherwise ineligible or unintentionally fail to meet the requirements of paragraph (1) for 1 or more crops on a farm on a case-by-case basis, as determined by the Secretary.
 
 #### (B) 2008 crop year
 
@@ -744,7 +744,7 @@ In this section:
 
 #### (F) Lack of access
 
-&emsp;&emsp;Notwithstanding any other provision of this section, the Secretary may provide assistance (including multiyear assistance)under this section to eligible producers on a farm that—
+&emsp;&emsp;Notwithstanding any other provision of this section, the Secretary may provide assistance (including multiyear assistance) under this section to eligible producers on a farm that—
 
 &emsp;&emsp;&emsp;(i) suffered a production loss or multiyear production losses due to a natural cause during the 2008 crop year; and
 
@@ -822,7 +822,7 @@ Section 2(a) of Pub. L. 110–398, which directed amendment of section 531 of th
 
 #### Amendments
 
-<b>2014</b>—Subsec. (d)(3)(A). Pub. L. 113–79 struck out cl. (i) designation and heading, redesignated subcls. (I) and\(II) as cls. (i) and (ii), respectively, and struck out former cl. (ii). Text read as follows: "An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.)."
+<b>2014</b>—Subsec. (d)(3)(A). Pub. L. 113–79 struck out cl. (i) designation and heading, redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, and struck out former cl. (ii). Text read as follows: "An eligible livestock producer may not receive assistance under this subsection for grazing losses that occur on land used for haying or grazing under the conservation reserve program established under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831 et seq.)."
 
 <b>2013</b>—Subsec. (a)(5). Pub. L. 112–240, §702(a)(1), struck out "under" first time appearing after "established" in introductory provisions, redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and realigned margins.
 
@@ -862,7 +862,7 @@ Pub. L. 110–398, §2(a)(1)(B), substituted "under—" for "section 7912 of thi
 
 Subsec. (a)(5). Pub. L. 110–398, §2(a)(1)(E), redesignated par. (4) as (5). Former par. (5) redesignated (7).
 
-Subsec. (a)(5)(B)(ii). Pub. L. 110–398, §2(a)(1)(C), substituted "the actual production on the farm is less than 50 percent of the normal production on the farm." for ", the total loss of production of the farm relating to weather is greater than 50 percent of the normal production of the farm, as determined by the Secretary."
+Subsec. (a)(5)(B)(ii). Pub. L. 110–398, §2(a)(1)(C), substituted "the actual production on the farm is less than 50 percent of the normal production on the farm." for ", the total loss of production of the farm relating toweather is greater than 50 percent of the normal production of the farm, as determined by the Secretary."
 
 Subsec. (a)(6). Pub. L. 110–398, §2(a)(1)(G), added par. (6). Former par. (6) redesignated (8).
 
@@ -918,7 +918,7 @@ Subsec. (g)(1)(A). Pub. L. 110–398, §2(a)(6)(A)(ii), inserted ", excluding g
 
 Subsec. (g)(2). Pub. L. 110–398, §2(a)(6)(B), substituted "each crop planted" for "each crop grazed, planted,".
 
-Subsec. (g)(4). Pub. L. 110–398, §2(a)(6)(C), (D), substituted "Waivers for certain crop years" for "Waiver for 2008 crop year" in par. heading, designated existingprovisions as subpar. (A) and inserted subpar. heading, and added subpar. (B).
+Subsec. (g)(4). Pub. L. 110–398, §2(a)(6)(C), (D), substituted "Waivers for certain crop years" for "Waiver for 2008 crop year" in par. heading, designated existing provisions as subpar. (A) and inserted subpar. heading, and added subpar. (B).
 
 Subsec. (g)(6). Pub. L. 110–398, §2(a)(5), added par. (6).
 

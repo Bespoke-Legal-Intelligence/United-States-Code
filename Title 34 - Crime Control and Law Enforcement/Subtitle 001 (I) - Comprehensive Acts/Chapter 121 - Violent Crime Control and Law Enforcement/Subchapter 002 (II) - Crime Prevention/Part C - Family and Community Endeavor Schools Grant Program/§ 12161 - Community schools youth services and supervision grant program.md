@@ -50,7 +50,7 @@ In this section—
 
 #### (A) Allocations for States and Indian country
 
-&emsp;&emsp;For any fiscal year in which the sums appropriated to carry out this section equal or exceed $20,000,000, from the sums appropriated to carry out this subsection, the Secretary shall allocate, for grants under subparagraph (B) to community-based organizations in each State, an amount bearing the same ratio to such sums as the number of children in the State who are from familieswith incomes below the poverty line bears to the number of children in all States who are from families with incomes below the poverty line. In view of the extraordinary need for assistance in Indian country, an appropriate amount of funds available under this part shall be made available for such grants in Indian country.
+&emsp;&emsp;For any fiscal year in which the sums appropriated to carry out this section equal or exceed $20,000,000, from the sums appropriated to carry out this subsection, the Secretary shall allocate, for grants under subparagraph (B) to community-based organizations in each State, an amount bearing the same ratio to such sums as the number of children in the State who are from families with incomes below the poverty line bears to the number of children in all States who are from families with incomes below the poverty line. In view of the extraordinary need for assistance in Indian country, an appropriate amount of funds available under this part shall be made available for such grants in Indian country.
 
 #### (B) Grants to community-based organizations from allocations
 
@@ -66,7 +66,7 @@ In this section—
 
 #### (3) Administrative costs
 
-&emsp;The Secretary may use not more than 3 percent of the funds appropriated to carry out this section in any fiscal year for administrative costs.
+&emsp;The Secretary may use not more than 3 percent of the funds appropriated to carry outthis section in any fiscal year for administrative costs.
 
 #### (d) Program requirements
 
@@ -156,7 +156,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(vii) other organizations that the community-based organization determines to be appropriate;
 
-&emsp;&emsp;(F) contain an assurance that the community-based organization will use grant funds received under this section to provide children in the eligible community with activities and services that shall include supervised sports programs, and extracurricular and academic programs, in accordance with subparagraphs (A) and (B) of subsection (d)(2);
+&emsp;&emsp;(F) contain an assurance that the community-based organization will use grant funds received under this section to provide children in the eligible community with activities and services that shall include supervised sports programs, and extracurricularand academic programs, in accordance with subparagraphs (A) and (B) of subsection (d)(2);
 
 &emsp;&emsp;(G) contain a list of the activities and services that will be offered through the program for which the grant is sought and sponsored by private nonprofit organizations, individuals, and groups serving the eligible community, including—
 

@@ -6,7 +6,7 @@
 
 (c) The Office shall determine questions of disability and dependency arising under this subchapter. Except to the extent provided under subsection (d) of this section, the decisions of the Office concerning these matters are final and conclusive and are not subject to review. The Office may direct at any time such medical or other examinations as it considers necessary to determine the facts concerning disability or dependency of an individual receiving or applying for annuity under this subchapter. The Office may suspend or deny annuity for failure to submit to examination.
 
-(d)(1) Subject to paragraph (2) of this subsection, an administrative action or order affecting the rights or interests of an individual orof the United States under this subchapter may be appealed to the Merit Systems Protection Board under procedures prescribed by the Board.
+(d)(1) Subject to paragraph (2) of this subsection, an administrative action or order affecting the rights or interests of an individual or of the United States under this subchapter may be appealed to the Merit Systems Protection Board under procedures prescribed by the Board.
 
 (2) In the case of any individual found by the Office to be disabled in whole or in part on the basis of the individual's mental condition, and that finding was made pursuant to an application by an agency for purposes of disability retirement under section 8337(a) of this title, the procedures under section 7701 of this title shall apply and the decision of the Board shall be subject to judicial review under section 7703 of this title.
 
@@ -26,7 +26,7 @@
 
 (l) The Director or Acting Director of the Botanic Garden may exclude from the operation of this subchapter an employee under the Botanic Garden whose employment is temporary or of uncertain duration.
 
-(m) Notwithstanding any other provision of law, for the purpose of ensuring the accuracy of information used in the administration of this chapter, at the request of the Director of the Office of Personnel Management—
+(m) Notwithstanding any other provision of law, for the purpose of ensuring the accuracy ofinformation used in the administration of this chapter, at the request of the Director of the Office of Personnel Management—
 
 &emsp;(1) the Secretary of Defense or the Secretary's designee shall provide information on retired or retainer pay provided under title 10;
 
@@ -152,7 +152,7 @@ Subsec. (q)(2)(B). Pub. L. 107–107, §1131(a)(2), struck out "vested" before "
 
 <b>1996</b>—Subsec. (q)(1). Pub. L. 104–106, §1043(a)(1)(A), struck out "of the Department of Defense or the Coast Guard" after "an employee" in introductory provisions and substituted "1 year" for "3 days" in subpar. (C).
 
-Subsec. (q)(2)(C). Pub. L. 104–106, §1043(a)(1)(B), substituted "1 year" for "3 days" and struck out "in theDepartment of Defense or the Coast Guard, respectively," after "to a position".
+Subsec. (q)(2)(C). Pub. L. 104–106, §1043(a)(1)(B), substituted "1 year" for "3 days" and struck out "in the Department of Defense or the Coast Guard, respectively," after "to a position".
 
 <b>1994</b>—Subsec. (m)(3). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary of Health and Human Services".
 
@@ -294,7 +294,7 @@ Transfers of contributions.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—If an individual makes an election under this paragraph to be transferred back to a retirement system in which such individual previously participated (in this section referred to as the 'previous system'), all individual contributions (including interest) and Government contributions to the retirement system in which such individual is then currently participating (in this section referred to as the 'current system'), excluding those made to the Thrift Savings Plan or any other defined contribution plan, which are attributable to periods of service performed since the move on which the election is based, shall be paid to the fund, account, or other repository for contributions made under the previous system. For purposes of this section, the term 'current system' shall be considered also to include any retirement system (besides the one in which the individual is participating at the time of making the election) in which such individual previously participated since the move on which the election is based.
+In general.—If an individual makes an election under this paragraph to be transferred back to a retirement system in which such individual previously participated (in this section referred to as the 'previous system'), all individualcontributions (including interest) and Government contributions to the retirement system in which such individual is then currently participating (in this section referred to as the 'current system'), excluding those made to the Thrift Savings Plan or any other defined contribution plan, which are attributable to periods of service performed since the move on which the election is based, shall be paid to the fund, account, or other repository for contributions made under the previous system. For purposes of this section, the term 'current system' shall be considered also to include any retirement system (besides the one in which the individual is participating at the time of making the election) in which such individual previously participated since the move on which the election is based.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -330,7 +330,7 @@ Election.—An individual described in clause (i) may, instead of making an elec
 
 &emsp;&emsp;&emsp;"(iii)
 
-Qualifying nafi service.—For purposes of this subparagraph, the term 'qualifying NAFIservice' means any service which, but for this subparagraph, would be creditable for purposes of any retirement system established for employees described in section 2105(c) of title 5, United States Code.
+Qualifying nafi service.—For purposes of this subparagraph, the term 'qualifying NAFI service' means any service which, but for this subparagraph, would be creditable for purposes of any retirement system established for employees described in section 2105(c) of title 5, United States Code.
 
 &emsp;&emsp;&emsp;"(iv)
 

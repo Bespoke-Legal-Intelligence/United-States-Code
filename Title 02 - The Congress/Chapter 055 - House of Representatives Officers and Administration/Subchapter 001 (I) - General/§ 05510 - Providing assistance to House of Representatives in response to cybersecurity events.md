@@ -52,5 +52,5 @@ In this section, each of the terms "Executive department", "military department"
 
 #### References in Text
 
-Section 113 of the Legislative Branch Appropriations Act, 2017, referred to in subsec. (d), is section 113 of title I of div. I of Pub. L. 115–31, May 5, 2017, 131 Stat. 576, which is not classified to the Code.
+Section 113 of the Legislative Branch Appropriations Act, 2017, referred to in subsec. (d), is section 113 oftitle I of div. I of Pub. L. 115–31, May 5, 2017, 131 Stat. 576, which is not classified to the Code.
 

@@ -8,7 +8,7 @@ Establishment and Administration.—(1) The Secretary of Defense may operate an 
 
 (b)
 
-Purpose.—The purpose of the Institute is to provide professional education and training to eligible personnel of countries of the Western Hemisphere within the context of the democratic principles set forth in the Charter of the Organization of American States (such charter being a treaty to which the United States is aparty), while fostering mutual knowledge, transparency, confidence, and cooperation among the participating countries and promoting democratic values, respect for human rights, and knowledge and understanding of United States customs and traditions.
+Purpose.—The purpose of the Institute is to provide professional education and training to eligible personnel of countries of the Western Hemisphere within the context of the democratic principles set forth in the Charter of the Organization of American States (such charter being a treaty to which the United States is a party), while fostering mutual knowledge, transparency, confidence, and cooperation among the participating countries and promoting democratic values, respect for human rights, and knowledge and understanding of United States customs and traditions.
 
 (c)
 
@@ -50,7 +50,7 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 &emsp;(D) One person designated by the Secretary of State.
 
-&emsp;(E) The senior military officer responsible for training and doctrine for the Army or, if the Secretary of the Navy or the Secretary of the Air Force is designated as the executive agent of the Secretary of Defense under subsection (a)(2), the senior military officer responsible for training and doctrine for the Navy or Marine Corps or for the Air Force or Space Force, respectively, or a designee of the senior military officer concerned.
+&emsp;(E) The senior military officer responsible for training and doctrine for the Army or, if the Secretary of the Navy or the Secretary of the Air Force is designated as the executive agent of the Secretary of Defense under subsection (a)(2), the senior military officer responsible for training and doctrine for theNavy or Marine Corps or for the Air Force or Space Force, respectively, or a designee of the senior military officer concerned.
 
 &emsp;(F) The commanders of the combatant commands having geographic responsibility for the Western Hemisphere, or the designees of those officers.
 
@@ -82,7 +82,7 @@ Board of Visitors.—(1) There shall be a Board of Visitors for the Institute. T
 
 &emsp;(B) in the case of other members of the Board and advisers, as authorized under section 5703 of title 5 for employees serving without pay.
 
-(9) The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14 (relating to termination after two years), shall apply to the Board.
+(9) Chapter 10 of title 5, other than section 1013 of title 5 (relating to termination after two years), shall apply to the Board.
 
 (f)
 
@@ -92,7 +92,7 @@ Authority To Accept Foreign Gifts and Donations.—(1) The Secretary of Defense 
 
 (3) The Secretary of Defense shall notify Congress if the total amount of money accepted under paragraph (1) exceeds $1,000,000 in any fiscal year. Any such notice shall list each of the contributors of such money and the amount of each contribution in such fiscal year.
 
-(4) For the purposes of this subsection, a foreign gift or donation is a gift or donation of funds, materials (including research materials), property, or services (including lecture servicesand faculty services) from a foreign government, a foundation or other charitable organization in a foreign country, or an individual in a foreign country.
+(4) For the purposes of this subsection, a foreign gift or donation is a gift or donation of funds, materials (including research materials), property, or services (including lecture services and faculty services) from a foreign government, a foundation or other charitable organization in a foreign country, or an individual in a foreign country.
 
 (g)
 
@@ -110,15 +110,13 @@ Tuition.—Tuition fees charged for persons who attend the Institute may not inc
 
 Annual Report.—Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a detailed report on the activities of the Institute during the preceding year. The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board's report. The report shall be prepared in consultation with the Secretary of State.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §911(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226, §2166; amended Pub. L. 107–107, div. A, title X, §1048(a)(16), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title IX, §932, Dec. 2, 2002, 116 Stat. 2625; Pub. L. 110–181, div. A, title IX, §956, Jan. 28, 2008, 122 Stat. 296; renumbered §343 and amended Pub. L. 114–328, div. A, title XII, §1241(f), Dec. 23, 2016, 130 Stat. 2507; Pub. L. 116–283, div. A, title IX, §924(b)(12), Jan. 1, 2021, 134 Stat. 3823.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §911(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–226, §2166; amended Pub. L. 107–107, div. A, title X, §1048(a)(16), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 107–314, div. A, title IX, §932, Dec. 2, 2002, 116 Stat. 2625; Pub. L. 110–181, div. A, title IX, §956, Jan. 28, 2008, 122 Stat. 296; renumbered §343 and amended Pub. L. 114–328, div. A, title XII, §1241(f), Dec. 23, 2016, 130 Stat. 2507; Pub. L. 116–283, div. A, title IX, §924(b)(12), Jan. 1, 2021, 134 Stat. 3823; Pub. L. 117–286, §4(a)(45), Dec. 27, 2022, 136 Stat. 4310.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (e)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(9). Pub. L. 117–286 substituted "Chapter 10 of title 5, other than section 1013 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14".
 
 <b>2021</b>—Subsec. (e)(1)(E). Pub. L. 116–283 inserted "or Space Force" after "for the Air Force".
 

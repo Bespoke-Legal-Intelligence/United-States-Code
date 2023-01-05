@@ -48,7 +48,7 @@ A contract under this section for management of a public housing project by a re
 
 #### (1) Waiver of regulatory requirements
 
-&emsp;Upon the request of any resident management corporation and public housing agency,and after notice and an opportunity to comment is afforded to the affected tenants, the Secretary may waive (for both the resident management corporation and the public housing agency) any requirement established by the Secretary (and not specified in any statute) that the Secretary determines to unnecessarily increase the costs or restrict the income of a public housing project.
+&emsp;Upon the request of any resident management corporation and public housing agency, and after notice and an opportunity to comment is afforded to the affected tenants, the Secretary may waive (for both the resident management corporation and the public housing agency) any requirement established by the Secretary (and not specified in any statute) that the Secretary determines to unnecessarily increase the costs or restrict the income of a public housing project.
 
 #### (2) Waiver to permit employment
 
@@ -80,7 +80,7 @@ A contract under this section for management of a public housing project by a re
 
 #### (4) Calculation of Operating Fund allocation
 
-&emsp;Notwithstanding any provision of section 1437g of this title or any regulation under such section, and subject to the exception provided in paragraph (3), the portion of the amount received by a public housing agency under section 1437g of this title that is due to an allocation from the Operating Fund and that is allocated to a public housing project managed by a resident management corporation shall not be less than the public housing agency per unit monthly amount provided in the previous year as determined on an individual project basis.
+&emsp;Notwithstanding any provision of section 1437g of this title or any regulation under suchsection, and subject to the exception provided in paragraph (3), the portion of the amount received by a public housing agency under section 1437g of this title that is due to an allocation from the Operating Fund and that is allocated to a public housing project managed by a resident management corporation shall not be less than the public housing agency per unit monthly amount provided in the previous year as determined on an individual project basis.
 
 #### (5) Calculation of total income
 

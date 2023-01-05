@@ -26,7 +26,7 @@
 | [129c.](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md) | Medical personnel: limitations on reductions. |
 | [129d.](%C2%A7%2000129d%20-%20Disclosure%20to%20litigation%20support%20contractors.md) | Disclosure to litigation support contractors. |
 | [130\.](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md) | Authority to withhold from public disclosure certain technical data. |
-| \[130a. | Repealed.\] |
+| [130a.](%C2%A7%2000130a%20-%20Department%20of%20Defense%20support%20for%20funerals%20and%20memorial%20events%20for%20Members%20and%20former%20Members%20of%20Congress.md) | Department of Defense support for funerals and memorial events for Members and former Members of Congress. |
 | [130b.](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md) | Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information. |
 | [130c.](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md) | Nondisclosure of information: certain sensitive information of foreign governments and international organizations. |
 | [130d.](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md) | Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel. |
@@ -43,6 +43,8 @@
 
 #### Amendments
 
+<b>2022</b>—Pub. L. 117–263, div. A, title X, §1042(b), Dec. 23, 2022, 136 Stat. 2770, added item 130a.
+
 <b>2021</b>—Pub. L. 116–283, div. A, title IX, §911(a)(2), title X, §1052(b), Jan. 1, 2021, 134 Stat. 3801, 3850, added items 125a and 127f.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title X, §1081(a)(2), title XVI, §1631(c)(1), Aug. 13, 2018, 132 Stat. 1983, 2123, struck out item 130g "Authorities concerning military cyber operations" and made technical correction to and struck out items 130j "Notification requirements for sensitive military cyber operations" and 130k "Notification requirements for cyber weapons".
@@ -55,7 +57,7 @@
 
 <b>2014</b>—Pub. L. 113–291, div. A, title X, §1071(f)(2), Dec. 19, 2014, 128 Stat. 3510, substituted "Treatment under Freedom of Information Act of certain critical infrastructure security information" for "Treatment under Freedom of Information Act of critical infrastructure security information" in item 130e and "Congressional notification of sensitive military operations" for "Congressional notification regarding sensitive military operations" in item 130f.
 
-<b>2013</b>—Pub. L. 113–66, div. A, title X, §§1041(a)(2), 1091(a)(2), Dec. 26, 2013, 127 Stat. 857, 875, added item 130f and substituted "Treatment under Freedom of Information Act of critical infrastructure security information" for "Treatment under Freedom of Information Act of certain critical infrastructure security information" in item 130e.
+<b>2013</b>—Pub. L. 113–66, div. A, title X, §§1041(a)(2), 1091(a)(2), Dec. 26, 2013, 127 Stat. 857, 875, added item 130fand substituted "Treatment under Freedom of Information Act of critical infrastructure security information" for "Treatment under Freedom of Information Act of certain critical infrastructure security information" in item 130e.
 
 <b>2011</b>—Pub. L. 112–81, div. A, title VIII, §802(a)(2), title IX, §931(b), title X, §1091(b), Dec. 31, 2011, 125 Stat. 1485, 1543, 1605, added items 129d and 130e and substituted "General policy for total force management" for "General personnel policy" in item 129a.
 
@@ -134,7 +136,7 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 - [&sect; 00129c - Medical personnel limitations on reductions](%C2%A7%2000129c%20-%20Medical%20personnel%20limitations%20on%20reductions.md)
 - [&sect; 00129d - Disclosure to litigation support contractors](%C2%A7%2000129d%20-%20Disclosure%20to%20litigation%20support%20contractors.md)
 - [&sect; 00130 - Authority to withhold from public disclosure certain technical data](%C2%A7%2000130%20-%20Authority%20to%20withhold%20from%20public%20disclosure%20certain%20technical%20data.md)
-- [&sect; 00130a - Repealed. Pub. L. 110&#8211;181, div. A, title IX, &sect;901(a)(1), Jan. 28, 2008, 122 Stat. 272](%C2%A7%2000130a%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93181%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28a%29%281%29%2C%20Jan.%2028%2C%202008%2C%20122%20Stat.%20272.md)
+- [&sect; 00130a - Department of Defense support for funerals and memorial events for Members and former Members of Congress](%C2%A7%2000130a%20-%20Department%20of%20Defense%20support%20for%20funerals%20and%20memorial%20events%20for%20Members%20and%20former%20Members%20of%20Congress.md)
 - [&sect; 00130b - Personnel in overseas, sensitive, or routinely deployable units nondisclosure of personally identifying information](%C2%A7%2000130b%20-%20Personnel%20in%20overseas%2C%20sensitive%2C%20or%20routinely%20deployable%20units%20nondisclosure%20of%20personally%20identifying%20information.md)
 - [&sect; 00130c - Nondisclosure of information certain sensitive information of foreign governments and international organizations](%C2%A7%2000130c%20-%20Nondisclosure%20of%20information%20certain%20sensitive%20information%20of%20foreign%20governments%20and%20international%20organizations.md)
 - [&sect; 00130d - Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel](%C2%A7%2000130d%20-%20Treatment%20under%20Freedom%20of%20Information%20Act%20of%20certain%20confidential%20information%20shared%20with%20State%20and%20local%20personnel.md)

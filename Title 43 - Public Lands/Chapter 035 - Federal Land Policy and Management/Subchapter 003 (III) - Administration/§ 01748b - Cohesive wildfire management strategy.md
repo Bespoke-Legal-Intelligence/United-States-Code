@@ -98,7 +98,7 @@ Sec. 3. <i>Coordination and Efficient Processes</i>. Effective Federal agency co
 
 (iv) Immediately prioritizing efforts to reduce the time required to comply with consultation obligations under the Endangered Species Act of 1973 (16 U.S.C. 1531 <i>et seq</i>.).
 
-Sec. 4. <i>Unmanned Aerial Systems</i>. To reduce fire and forest health risks as described in section 1 of this order, the Secretaries shall, in coordination with the Administrator of the Federal Aviation Administration, maximize appropriate use of unmanned aerial systems to accelerate forest management and support firefighting and post-fire rehabilitation in forests, rangelands, and other Federal lands.
+Sec. 4. <i>Unmanned Aerial Systems</i>. To reduce fire and forest health risks as described in section 1 of this order, the Secretaries shall, in coordination with the Administrator of the Federal Aviation Administration,maximize appropriate use of unmanned aerial systems to accelerate forest management and support firefighting and post-fire rehabilitation in forests, rangelands, and other Federal lands.
 
 Sec. 5. <i>Wildfire Strategy</i>. (a) In collaboration with Federal, State, tribal, and local partners, the Secretaries shall jointly develop, by December 31, 2020, a strategy to support local Federal land managers in project decision-making and inform local fire management decisions related to forests, rangelands, and other Federal lands, thereby protecting habitats and communities, and reducing risks to physical infrastructure.
 
@@ -198,7 +198,7 @@ Sec. 6. <i>Report</i>. Within 1 year of the date of this order, and annually the
 
 Sec. 7. <i>Administration</i>. The Department of Agriculture shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative support as needed for the Wildland Fire Subcabinet to implement this order. The Departments of the Interior and Agriculture shall consult with WFLC, as appropriate, to effectively carry out the requirements of this order.
 
-Sec. 8. <i>Federal Advisory Committee Act</i>. The members of the Wildland Fire Subcabinet should, pursuant to and consistent with the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in the interest of obtaining advice or recommendations for the Wildland Fire Subcabinet, use their advisory committees, as appropriate.
+Sec. 8. <i>Federal Advisory Committee Act</i>. The members of the Wildland Fire Subcabinet should, pursuant to and consistent with the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], and in the interest of obtaining advice or recommendations for the Wildland Fire Subcabinet, use their advisory committees, as appropriate.
 
 Sec. 9. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

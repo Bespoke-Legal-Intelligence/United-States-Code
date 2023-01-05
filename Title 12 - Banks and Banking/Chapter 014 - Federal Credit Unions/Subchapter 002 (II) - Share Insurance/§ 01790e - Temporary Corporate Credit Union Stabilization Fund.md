@@ -40,7 +40,7 @@ Money in the Stabilization Fund shall be available upon requisition by the Board
 
 #### (1) Assessments relating to expenditures under subsection (b)
 
-&emsp;In order to make expenditures, as described in subsection (b), the Board may assess a special premium with respect to each insured credit union in an aggregate amount that is reasonably calculated to make any pending or future expenditure described in subsection (b), which premium shall be due and payable not later than 60 days after the date of the assessment. In setting the amount of any assessment under this subsection, the Board shall take into consideration any potential impact on credit union earnings that such an assessment may have.
+&emsp;In order to make expenditures, as described in subsection (b), the Board may assess a special premium with respect to each insured credit union in an aggregate amount that is reasonably calculated to make any pending orfuture expenditure described in subsection (b), which premium shall be due and payable not later than 60 days after the date of the assessment. In setting the amount of any assessment under this subsection, the Board shall take into consideration any potential impact on credit union earnings that such an assessment may have.
 
 #### (2) Special premiums relating to repayments under subsection (c)(3)
 
@@ -48,7 +48,7 @@ Money in the Stabilization Fund shall be available upon requisition by the Board
 
 #### (3) Computation
 
-&emsp;Any assessment or premium charge for an insured credit union under this subsection shall be stated as a percentage of its insuredshares, as represented on the previous call report of that insured credit union. The percentage shall be identical for each insured credit union. Any insured credit union that fails to make timely payment of the assessment or special premium is subject to the procedures and penalties described under subsections (d), (e), and (f) of section 1782 of this title.
+&emsp;Any assessment or premium charge for an insured credit union under this subsection shall be stated as a percentage of its insured shares, as represented on the previous call report of that insured credit union. The percentage shall be identical for each insured credit union. Any insured credit union that fails to make timely payment of the assessment or special premium is subject to the procedures and penalties described under subsections (d), (e), and (f) of section 1782 of this title.
 
 #### (e) Distributions from Insurance Fund
 

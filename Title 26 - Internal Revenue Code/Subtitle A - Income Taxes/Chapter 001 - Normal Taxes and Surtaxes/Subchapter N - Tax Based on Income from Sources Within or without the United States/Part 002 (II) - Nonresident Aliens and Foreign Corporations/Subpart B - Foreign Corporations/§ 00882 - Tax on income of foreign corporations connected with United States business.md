@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A foreign corporation engaged in trade or business within the United States during the taxable year shall be taxable as provided in section 11 or 59A,<sup>1</sup> on its taxable income which is effectively connected with the conduct of a trade or business within the United States.
+&emsp;A foreign corporation engaged in trade or business within the United States during the taxable year shall be taxable as provided in section 11, 55, or 59A,<sup>1</sup> on its taxable income which is effectively connected with the conduct of a trade or business within the United States.
 
 #### (2) Determination of taxable income
 
@@ -36,7 +36,7 @@ In the case of a foreign corporation, except where the context clearly indicates
 
 #### (2) Deductions and credits allowed only if return filed
 
-&emsp;A foreign corporation shall receive the benefit of the deductions and credits allowed to it in this subtitle only by filing or causing to be filed with the Secretary a true and accurate return, in the manner prescribed in subtitle F, including therein all the information which the Secretary may deem necessary for the calculation of such deductions and credits. The preceding sentence shall not apply for purposes of the tax imposed by section 541 (relating to personal holding company tax), and shall not be construed to deny the credit provided by section 33 for tax withheld at source or the credit provided by section 34 for certain uses of gasoline.
+&emsp;A foreign corporation shall receive the benefit of the deductions and credits allowed to itin this subtitle only by filing or causing to be filed with the Secretary a true and accurate return, in the manner prescribed in subtitle F, including therein all the information which the Secretary may deem necessary for the calculation of such deductions and credits. The preceding sentence shall not apply for purposes of the tax imposed by section 541 (relating to personal holding company tax), and shall not be construed to deny the credit provided by section 33 for tax withheld at source or the credit provided by section 34 for certain uses of gasoline.
 
 #### (3) Foreign tax credit
 
@@ -74,11 +74,13 @@ In the case of a corporation created or organized in, or under the law of, a pos
 
 If any foreign corporation has no office or place of business in the United States but has an agent in the United States, the return required under section 6012 shall be made by the agent.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 282; Pub. L. 89–809, title I, §104(b)(1), Nov. 13, 1966, 80 Stat. 1555; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §301(b)(13), Nov. 6, 1978, 92 Stat. 2822; Pub. L. 96–499, title XI, §1122(c)(2), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 97–424, title V, §515(b)(6)(F), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IV, §474(r)(19), July 18, 1984, 98 Stat. 843; Pub. L. 99–514, title VII, §701(e)(4)(F), title XII, §1236(a), Oct. 22, 1986, 100 Stat. 2343, 2576; Pub. L. 100–647, title I, §1012(s)(2)(B), title II, §2001(c)(2), title VI, §6133(a), Nov. 10, 1988, 102 Stat. 3527, 3594, 3721; Pub. L. 113–295, div. A, title II, §221(a)(12)(F), Dec. 19, 2014, 128 Stat. 4038; Pub. L. 115–97, title I, §§12001(b)(14), 13001(b)(2)(L), 14401(d)(2), Dec. 22, 2017, 131 Stat. 2094, 2097, 2233.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 282; Pub. L. 89–809, title I, §104(b)(1), Nov. 13, 1966, 80 Stat. 1555; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §301(b)(13), Nov. 6, 1978, 92 Stat. 2822; Pub. L. 96–499, title XI, §1122(c)(2), Dec. 5, 1980, 94 Stat. 2687; Pub. L. 97–424, title V, §515(b)(6)(F), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IV, §474(r)(19), July 18, 1984, 98 Stat. 843; Pub. L. 99–514, title VII, §701(e)(4)(F), title XII, §1236(a), Oct. 22, 1986, 100 Stat. 2343, 2576; Pub. L. 100–647, title I, §1012(s)(2)(B), title II, §2001(c)(2), title VI, §6133(a), Nov. 10, 1988, 102 Stat. 3527, 3594, 3721; Pub. L. 113–295, div. A, title II, §221(a)(12)(F), Dec. 19, 2014, 128 Stat. 4038; Pub. L. 115–97, title I, §§12001(b)(14), 13001(b)(2)(L), 14401(d)(2), Dec. 22, 2017, 131 Stat. 2094, 2097, 2233; Pub. L. 117–169, title I, §10101(a)(4)(E), Aug. 16, 2022, 136 Stat. 1822.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–169 inserted ", 55," after "section 11".
 
 <b>2017</b>—Subsec. (a)(1). Pub. L. 115–97, §14401(d)(2), which directed insertion of "or 59A," after "section 11,", was executed by making the insertion after "section 11" to reflect the probable intent of Congress and the amendment by Pub. L. 115–97, §12001(b)(14). See below.
 
@@ -104,13 +106,17 @@ Subsec. (e). Pub. L. 99–514, §1236(a), inserted "The preceding sentence shall
 
 <b>1980</b>—Subsec. (a)(3). Pub. L. 96–499 added par. (3).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–600 substituted in subsec. (a) heading "Imposition of tax" for "Normal tax and surtax" and in par. (1) heading "In general" for "Imposition of tax".
+<b>1978</b>—Subsec. (a). Pub. L. 95–600 substituted in subsec. (a) heading "Imposition of tax" for "Normal tax andsurtax" and in par. (1) heading "In general" for "Imposition of tax".
 
 <b>1976</b>—Subsecs. (c)(1)(A), (2), (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1966</b>—Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, introduced the concept of taxable income effectively connected with the conduct of a trade or business within the United States into provisions dealing with the imposition of tax, substituted a concept of gross income that included gross income derived from sources within the United States not effectively connected with the conduct of a trade or business within the United States and gross income effectively connected with the conduct of a trade or business within the United States for a concept of gross income that included only gross income from sources within the United States, and inserted provisions for an election to treat real property income as income connected with United States business, treatment of interest on United States obligations received by banks organized in possessions, and the returns of tax by agents, and inserted cross reference to section 906(b)(1).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under section 11 of this title.
 
 #### Effective Date of 2017 Amendment
 

@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Expenditures for educational services and other benefits provided under this section for eligible private school children, their teachers, and other educational personnel serving those children shall be equal, taking into account the number and educationalneeds of the children to be served, to the expenditures for participating public school children.
+&emsp;&emsp;Expenditures for educational services and other benefits provided under this section for eligible private school children, their teachers, and other educational personnel serving those children shall be equal, taking into account the number and educational needs of the children to be served, to the expenditures for participating public school children.
 
 #### (B) Obligation of funds
 
@@ -106,7 +106,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If the consultation required under this section is with a local educational agency or educational service agency, a private school official shall have the right to file a complaint with the State educational agency that the consultation required under this section was not meaningful and timely, did not give due consideration to the views of the private school official, or did not make a decision that treats the private school or its students equitably as required by this section.
+&emsp;&emsp;If the consultation required under this section is with a local educational agency or educational service agency, a private school official shall have the right to file a complaint with the State educational agency that the consultation required under thissection was not meaningful and timely, did not give due consideration to the views of the private school official, or did not make a decision that treats the private school or its students equitably as required by this section.
 
 #### (B) Procedure
 

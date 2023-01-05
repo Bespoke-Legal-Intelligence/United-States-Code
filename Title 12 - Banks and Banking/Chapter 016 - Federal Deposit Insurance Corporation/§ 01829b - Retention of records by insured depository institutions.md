@@ -6,7 +6,7 @@
 
 &emsp;Congress finds that—
 
-&emsp;&emsp;(A) adequate records maintained by insured depository institutions have a high degree of usefulness in criminal, tax, and regulatory investigations or proceedings, and that, given the threat posed to the securityof the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against domestic and international terrorism; and
+&emsp;&emsp;(A) adequate records maintained by insured depository institutions have a high degree of usefulness in criminal, tax, and regulatory investigations or proceedings, and that, given the threat posed to the security of the Nation on and after the terrorist attacks against the United States on September 11, 2001, such records may also have a high degree of usefulness in the conduct of intelligence or counterintelligence activities, including analysis, to protect against domestic and international terrorism; and
 
 &emsp;&emsp;(B) microfilm or other reproductions and other records made by insured depository institutions of checks, as well as records kept by such institutions, of the identity of persons maintaining or authorized to act with respect to accounts therein, have been of particular value in proceedings described in subparagraph (A).
 
@@ -62,7 +62,7 @@ Each insured depository institution shall make, to the extent that the regulatio
 
 #### (e) Identity of persons making reportable currency and foreign transactions
 
-Subject to the requirements of any regulations prescribed jointly by the Secretary andthe Board under paragraph (2) or (3) of subsection (b), whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
+Subject to the requirements of any regulations prescribed jointly by the Secretary and the Board under paragraph (2) or (3) of subsection (b), whenever any individual engages (whether as principal, agent, or bailee) in any transaction with an insured depository institution which is required to be reported or recorded under subchapter II of chapter 53 of title 31, the insured depository institution shall require and retain such evidence of the identity of that individual as the Secretary may prescribe as appropriate under the circumstances.
 
 #### (f) Additions to or substitutes for required records
 
@@ -134,7 +134,7 @@ Subsec. (j)(1). Pub. L. 102–550, §1535(b), inserted ", or any person who wil
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that isinconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of this title.
+Amendment by Pub. L. 108–458 effective as if included in Pub. L. 107–56, as of the date of enactment of such Act, and no amendment made by Pub. L. 107–56 that is inconsistent with such amendment to be deemed to have taken effect, see section 6205 of Pub. L. 108–458, set out as a note under section 1828 of this title.
 
 #### Effective Date of 2001 Amendment
 

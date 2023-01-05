@@ -26,7 +26,7 @@
 
 #### (ii) Denial of consent
 
-&emsp;&emsp;&emsp;If the Pueblo denies consent for a new use within 30 days after receipt by the Pueblo of the proposed record of decisionor decision notice, the new use shall not be authorized.
+&emsp;&emsp;&emsp;If the Pueblo denies consent for a new use within 30 days after receipt by the Pueblo of the proposed record of decision or decision notice, the new use shall not be authorized.
 
 #### (iii) Failure to respond
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;In the case of a conflict described in paragraph (1)—
 
-&emsp;&emsp;&emsp;(i) the party identifying the conflict shall notify the other party in writing addressed to the Governor of the Pueblo or the Regional Forester, as appropriate, specifying the nature of the dispute; and
+&emsp;&emsp;&emsp;(i) the party identifying the conflict shall notify the other party in writing addressed to the Governor of the Pueblo orthe Regional Forester, as appropriate, specifying the nature of the dispute; and
 
 &emsp;&emsp;&emsp;(ii) the Governor of the Pueblo or the Regional Forester shall attempt to resolve the dispute for a period of at least 30 days after notice has been provided before bringing a civil action in the United States District Court for the District of New Mexico.
 

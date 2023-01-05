@@ -46,7 +46,7 @@
 
 (d) The Chief Information Officer of the Department of Defense shall report directly to the Secretary of Defense in the performance of duties under this section.
 
-(Added and amended Pub. L. 113–291, div. A, title IX, §901(b)(1), (j)(1)(B), Dec. 19, 2014, 128 Stat. 3463, 3467; Pub. L. 114–328, div. A, title IX, §902(a), Dec. 23, 2016, 130 Stat. 2343; Pub. L. 115–91, div. A, title IX, §909(a)–(d), title X,§1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1514, 1515, 1597; Pub. L. 115–232, div. A, title IX, §903, Aug. 13, 2018, 132 Stat. 1922; Pub. L. 116–92, div. A, title IX, §903(a)(1), title XVI, §1662(b), Dec. 20, 2019, 133 Stat. 1555, 1772; Pub. L. 116–283, div. A, title X, §1081(a)(9), Jan. 1, 2021, 134 Stat. 3871; Pub. L. 117–81, div. A, title XV, §1523, Dec. 27, 2021, 135 Stat. 2042.)
+(Added and amended Pub. L. 113–291, div. A, title IX, §901(b)(1), (j)(1)(B), Dec. 19, 2014, 128 Stat. 3463, 3467; Pub. L. 114–328, div. A, title IX, §902(a), Dec. 23, 2016, 130 Stat. 2343; Pub. L. 115–91, div. A, title IX, §909(a)–(d), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1514, 1515, 1597; Pub. L. 115–232, div. A, title IX, §903, Aug. 13, 2018, 132 Stat. 1922; Pub. L. 116–92, div. A, title IX, §903(a)(1), title XVI, §1662(b), Dec. 20, 2019, 133 Stat. 1555, 1772; Pub. L. 116–283, div. A, title X, §1081(a)(9), Jan. 1, 2021, 134 Stat. 3871; Pub. L. 117–81, div. A, title XV, §1523, Dec. 27, 2021, 135 Stat. 2042.)
 
 #### <b>Editorial Notes</b>
 
@@ -66,7 +66,7 @@ Subsec. (b)(1)(C). Pub. L. 117–81, §1523(1), struck out "(other than with res
 
 Subsec. (b)(1)(D). Pub. L. 117–81, §1523(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "exercises authority, direction, and control over the Information Assurance Directorate of the National Security Agency;".
 
-Subsecs. (c), (d). Pub. L. 116–283 redesignated subsec. (c) relating to the direct report of the Chief Information Officer to the Secretary of Defense as (d) and struck out former subsec. (d) which read as follows: "The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title. The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense."
+Subsecs. (c), (d). Pub. L. 116–283 redesignated subsec. (c) relating to the direct report of the Chief Information Officer to the Secretary of Defense as (d) and struck out former subsec. (d) which read as follows:"The Chief Information Officer of the Department of Defense takes precedence in the Department of Defense with the officials serving in positions specified in section 131(b)(4) of this title. The officials serving in positions specified in such section and the Chief Information Officer take precedence among themselves in the order prescribed by the Secretary of Defense."
 
 <b>2019</b>—Subsec. (b)(1)(A) to (C). Pub. L. 116–92, §903(a)(1), struck out "systems and" after "business".
 
@@ -132,7 +132,7 @@ Requirements for Chief Information Officer.—The Chief Information Officer of t
 
 "(c)
 
-Annual Notices.—Not later than January 1, 2022, and not less frequently than once each year thereafter until January 1, 2026, the Chief Information Officer andthe Joint Staff Director shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] notification of all—
+Annual Notices.—Not later than January 1, 2022, and not less frequently than once each year thereafter until January 1, 2026, the Chief Information Officer and the Joint Staff Director shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] notification of all—
 
 &emsp;"(1) delays to or planned delays of Armed Force and Defense Agency and Field Activity funding and deployment of modernized cryptographic algorithms, keys, and equipment over the previous year; and
 

@@ -8,7 +8,7 @@
 
 #### (2) Filing and handling fees
 
-&emsp;A person submitting a petition to the Secretary under paragraph (1) shall include a filing fee of $60 per petition. If the Secretary determines under paragraph (1) that the facts contained in the petition warrant further action, the person or persons submitting the petition shall submit to the Secretary a handling fee of $300. The Secretary may not forward a copy of the complaint to the commission merchant, dealer, or broker involved until after the Secretary receives the required handling fee. The Secretary shall deposit fees submitted under this paragraph into the Perishable Agricultural Commodities Act Fund provided for by section 499c(b) of this title. The Secretary may alter the fees specified in this paragraph by rulemaking under section 553 of title 5.
+&emsp;A person submitting a petition to the Secretary under paragraph (1) shall include a filing fee of $60 per petition. If the Secretary determines under paragraph (1) that the facts contained in the petition warrant further action, the person or persons submitting the petition shall submit to the Secretary a handling fee of $300. The Secretary may not forward a copy of the complaint to the commission merchant, dealer, or broker involveduntil after the Secretary receives the required handling fee. The Secretary shall deposit fees submitted under this paragraph into the Perishable Agricultural Commodities Act Fund provided for by section 499c(b) of this title. The Secretary may alter the fees specified in this paragraph by rulemaking under section 553 of title 5.
 
 #### (b) Disciplinary violations
 
@@ -88,7 +88,7 @@ Subsec. (e). Act Apr. 13, 1934, §10, among other changes, inserted "formal" bef
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–352, §3, Oct. 18, 1982, 96 Stat. 1667, provided that: "The amendment made by section 2 \[amendingthis section\] shall not apply with respect to complaints made under section 6(e) of the Perishable Agricultural Commodities Act, 1930 \[7 U.S.C. 499f(e)\], before the date of enactment of this Act \[Oct. 18, 1982\]."
+Pub. L. 97–352, §3, Oct. 18, 1982, 96 Stat. 1667, provided that: "The amendment made by section 2 \[amending this section\] shall not apply with respect to complaints made under section 6(e) of the Perishable Agricultural Commodities Act, 1930 \[7 U.S.C. 499f(e)\], before the date of enactment of this Act \[Oct. 18, 1982\]."
 
 #### Effective Date of 1981 Amendment
 

@@ -74,7 +74,7 @@ Upon determining under subsection (b) or (c) that the Corporation is within leve
 
 #### Amendments
 
-<b>2018</b>—Subsec. (e). Pub. L. 115–334 struck out subsec. (e). Text read as follows: "Notwithstanding paragraphs (1) and (2) of subsection (a), during the period beginning on December 13, 1991, and ending on the effective date of the risk based capital regulation issued by the Director under section 2279bb–1 of this title, the Corporation shall be classified as within level I if the Corporation equals or exceeds the minimum capital level established under section 2279bb–2 of this title."
+<b>2018</b>—Subsec. (e). Pub. L. 115–334 struck out subsec. (e). Text read as follows: "Notwithstanding paragraphs (1) and (2) of subsection (a), during the period beginningon December 13, 1991, and ending on the effective date of the risk based capital regulation issued by the Director under section 2279bb–1 of this title, the Corporation shall be classified as within level I if the Corporation equals or exceeds the minimum capital level established under section 2279bb–2 of this title."
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–105 substituted "during the period beginning on December 13, 1991, and ending on the effective date of the risk based capital regulation issued by the Director under section 2279bb–1 of this title," for "during the 30-month period beginning on December 13, 1991,".
 

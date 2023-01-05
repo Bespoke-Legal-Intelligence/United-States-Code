@@ -80,7 +80,7 @@ In subsection (a)(3), the words "fraudulently obtained" are substituted for "thu
 
 In subsection (d)(1), the word "several" is omitted as unnecessary. The words "the District Court of the United States for the District of Columbia" in section 209(c) of the Federal Property and Administrative Services Act of 1949 are omitted as included in "a district court of the United States" because of sections 88 and 132(a) of title 28.
 
-Subsection (d)(2) is substituted for "\[D\]istrict courts . . . within whose jurisdictional limits the person, or persons, doing or committing such act, or any one of them, resides or shall be found, shall wheresoever such act may have been done or committed, have full power and jurisdiction to hear, try, and determine such suit" for clarity and to use terminology consistent with title 28, especially 28:1331 and 1391(b).
+Subsection (d)(2) is substituted for "\[D\]istrict courts . . . within whose jurisdictional limits the person, orpersons, doing or committing such act, or any one of them, resides or shall be found, shall wheresoever such act may have been done or committed, have full power and jurisdiction to hear, try, and determine such suit" for clarity and to use terminology consistent with title 28, especially 28:1331 and 1391(b).
 
 In subsection (d)(3), the words "A defendant that does not reside and may not be found in the court's judicial district" are substituted for "and such person or persons as are not inhabitants of or found within the district in which suit is brought" for clarity and to use terminology consistent with title 28, especially 28:1331 and 1391(b).
 

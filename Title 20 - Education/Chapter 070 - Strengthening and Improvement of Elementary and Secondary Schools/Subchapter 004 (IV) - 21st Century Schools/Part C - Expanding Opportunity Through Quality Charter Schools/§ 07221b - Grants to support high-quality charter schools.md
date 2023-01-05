@@ -40,7 +40,7 @@ From the amount available under section 7221a(b)(3) of this title, the Secretary
 
 #### (2) Contracts and grants
 
-&emsp;A State entity may use a grant received under this section to carry out the activities described in subsection (b)(2) directly orthrough grants, contracts, or cooperative agreements.
+&emsp;A State entity may use a grant received under this section to carry out the activities described in subsection (b)(2) directly or through grants, contracts, or cooperative agreements.
 
 #### (3) Rule of construction
 
@@ -48,7 +48,7 @@ From the amount available under section 7221a(b)(3) of this title, the Secretary
 
 &emsp;&emsp;Nothing in this chapter shall prohibit the Secretary from awarding grants to State entities, or prohibit State entities from awarding subgrants to eligible applicants, that use a weighted lottery to give slightly better chances for admission to all, or a subset of, educationally disadvantaged students if—
 
-&emsp;&emsp;&emsp;(i) the use of weighted lotteries in favor of such students is not prohibited by State law, and such State law is consistent with laws described in section 7221i(2)(G) of this title; and
+&emsp;&emsp;&emsp;(i) the use of weighted lotteries in favor of such students is not prohibited by Statelaw, and such State law is consistent with laws described in section 7221i(2)(G) of this title; and
 
 &emsp;&emsp;&emsp;(ii) such weighted lotteries are not used for the purpose of creating schools exclusively to serve a particular subset of students.
 
@@ -140,7 +140,7 @@ From the amount available under section 7221a(b)(3) of this title, the Secretary
 
 #### (f) Applications
 
-A State entity desiring to receive a grant under this section shall submit an application to the Secretary at such time and in such manner as the Secretary may require. The application shall include the following:
+A State entity desiring to receive a grant under this section shall submit an application tothe Secretary at such time and in such manner as the Secretary may require. The application shall include the following:
 
 #### (1) Description of program
 
@@ -194,7 +194,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 &emsp;&emsp;&emsp;(xii)(I) in the case of a State entity not described in subclause (II), a description of how the State entity will provide oversight of authorizing activity, including how the State will help ensure better authorizing, such as by establishing authorizing standards that may include approving, monitoring, and re-approving or revoking the authority of an authorized public chartering agency based on the performance of the charter schools authorized by such agency in the areas of student achievement, student safety, financial and operational management, and compliance with all applicable statutes and regulations; and
 
-&emsp;&emsp;&emsp;(II) in the case of a State entity described in subsection (a)(4), a description of how the State entity will work with theState to support the State's system of technical assistance and oversight, as described in subclause (I), of the authorizing activity of authorized public chartering agencies; and
+&emsp;&emsp;&emsp;(II) in the case of a State entity described in subsection (a)(4), a description of how the State entity will work with the State to support the State's system of technical assistance and oversight, as described in subclause (I), of the authorizing activity of authorized public chartering agencies; and
 
 &emsp;&emsp;&emsp;(xiii) work with eligible applicants receiving a subgrant under the State entity's program to support the opening of new charter schools or charter school models described in clause (i) that are high schools;
 
@@ -252,7 +252,7 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 &emsp;&emsp;&emsp;(iii) holding charter schools accountable to the academic, financial, and operational quality controls agreed to between the charter school and the authorized public chartering agency involved, such as through renewal, non-renewal, or revocation of the school's charter;
 
-&emsp;&emsp;(F) the State entity will work to ensure that charter schools are included with the traditional public schools in decisionmaking about the public school system in the State; and
+&emsp;&emsp;(F) the State entity will work to ensure that charter schools are included with the traditional public schools in decisionmakingabout the public school system in the State; and
 
 &emsp;&emsp;(G) the State entity will ensure that each charter school receiving funds under the State entity's program makes publicly available, consistent with the dissemination requirements of the annual State report card under section 6311(h) of this title, including on the website of the school, information to help parents make informed decisions about the education options available to their children, including—
 
@@ -328,13 +328,13 @@ A State entity desiring to receive a grant under this section shall submit an ap
 
 &emsp;&emsp;(D) The State entity is located in a State that uses best practices from charter schools to help improve struggling schools and local educational agencies.
 
-&emsp;&emsp;(E) The State entity supports charter schools that serve at-risk students throughactivities such as dropout prevention, dropout recovery, or comprehensive career counseling services.
+&emsp;&emsp;(E) The State entity supports charter schools that serve at-risk students through activities such as dropout prevention, dropout recovery, or comprehensive career counseling services.
 
 &emsp;&emsp;(F) The State entity has taken steps to ensure that all authorizing public chartering agencies implement best practices for charter school authorizing.
 
 #### (h) Local uses of funds
 
-An eligible applicant receiving a subgrant under this section shall use such funds to support the activities described in subsection (b)(1), which shall include one or more of the following activities:
+An eligible applicant receiving a subgrant under this section shall use such funds to support the activities described in subsection (b)(1),which shall include one or more of the following activities:
 
 &emsp;(1) Preparing teachers, school leaders, and specialized instructional support personnel, including through paying the costs associated with—
 

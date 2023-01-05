@@ -36,7 +36,7 @@ Section was formerly classified to section 3433 of this title prior to renumberi
 
 #### Amendments
 
-<b>2020</b>—Subsec. (a). Pub. L. 116–113, §504(d)(3), in introductory provisions, substituted "under paragraph 13 of article 10.12, and the allegations before the committee include a matter referred to in paragraph 13(a)(i) of article 10.12, for the purposes of carrying out its functions and duties under Annex 10–B.3, the committee—" for"under paragraph 13 of article 1904, and the allegations before the committee include a matter referred to in paragraph 13(a)(i) of article 1904, for the purposes of carrying out its functions and duties under Annex 1904.13, the committee—".
+<b>2020</b>—Subsec. (a). Pub. L. 116–113, §504(d)(3), in introductory provisions, substituted "under paragraph 13 of article 10.12, and the allegations before the committee include a matter referred to in paragraph 13(a)(i) of article 10.12, for the purposes of carrying out its functions and duties under Annex 10–B.3, the committee—" for "under paragraph 13 of article 1904, and the allegations before the committee include a matter referred to in paragraph 13(a)(i) of article 1904, for the purposes of carrying out its functions and duties under Annex 1904.13, the committee—".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -16,7 +16,7 @@ The Corporation shall deposit in the Insurance Fund all premium payments receive
 
 #### (2) Other mandatory uses
 
-&emsp;Beginning January 1, 1993, the Corporation shall use amounts in the Insurance Fund toensure the retirement of eligible borrower stock at par value under section 2162 of this title.
+&emsp;Beginning January 1, 1993, the Corporation shall use amounts in the Insurance Fund to ensure the retirement of eligible borrower stock at par value under section 2162 of this title.
 
 #### (3) Permissive uses
 

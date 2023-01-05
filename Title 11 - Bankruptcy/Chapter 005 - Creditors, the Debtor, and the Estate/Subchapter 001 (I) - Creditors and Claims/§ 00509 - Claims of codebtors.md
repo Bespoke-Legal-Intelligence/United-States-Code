@@ -14,7 +14,7 @@
 
 &emsp;(2) as between the debtor and such entity, such entity received the consideration for the claim held by such creditor.
 
-(c) The court shall subordinate to the claim of a creditor and for the benefit of such creditor an allowed claim, by way of subrogation under this section, or for reimbursement or contribution, of an entity that is liable with the debtor on, or that has secured, such creditor's claim, until such creditor's claim is paid in full, either through payments under this title or otherwise.
+(c) The court shall subordinate to the claim of a creditor and for the benefit of such creditor anallowed claim, by way of subrogation under this section, or for reimbursement or contribution, of an entity that is liable with the debtor on, or that has secured, such creditor's claim, until such creditor's claim is paid in full, either through payments under this title or otherwise.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2585; Pub. L. 98–353, title III, §450, July 10, 1984, 98 Stat. 375.)
 

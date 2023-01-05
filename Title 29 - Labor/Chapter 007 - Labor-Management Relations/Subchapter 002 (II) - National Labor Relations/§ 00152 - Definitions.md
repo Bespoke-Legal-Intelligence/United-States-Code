@@ -26,7 +26,7 @@ When used in this subchapter—
 
 &emsp;(12) The term "professional employee" means—
 
-&emsp;&emsp;(a) any employee engaged in work (i) predominantly intellectual and varied in character as opposed to routine mental, manual, mechanical, or physical work; (ii) involving the consistent exercise of discretion and judgment in its performance; (iii) of such a character that the output produced or the result accomplished cannot be standardized in relation to a given period of time; (iv) requiring knowledge of an advanced type in a field of science or learning customarily acquired by a prolonged course of specialized intellectual instruction and study in an institution of higher learning or a hospital, as distinguished from a general academic education or from an apprenticeship or from training in the performance of routine mental, manual, or physical processes; or
+&emsp;&emsp;(a) any employee engaged in work (i) predominantly intellectual and varied in character as opposed to routine mental, manual,mechanical, or physical work; (ii) involving the consistent exercise of discretion and judgment in its performance; (iii) of such a character that the output produced or the result accomplished cannot be standardized in relation to a given period of time; (iv) requiring knowledge of an advanced type in a field of science or learning customarily acquired by a prolonged course of specialized intellectual instruction and study in an institution of higher learning or a hospital, as distinguished from a general academic education or from an apprenticeship or from training in the performance of routine mental, manual, or physical processes; or
 
 &emsp;&emsp;(b) any employee, who (i) has completed the courses of specialized intellectual instruction and study described in clause (iv) of paragraph (a), and (ii) is performing related work under the supervision of a professional person to qualify himself to become a professional employee as defined in paragraph (a).
 
@@ -40,7 +40,7 @@ When used in this subchapter—
 
 #### References in Text
 
-The Railway Labor Act, referred to in pars. (2) and (3), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in pars. (2) and (3), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 #### Amendments
 

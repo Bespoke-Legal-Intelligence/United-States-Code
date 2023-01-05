@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) under which, not less frequently than once every 90 days, such plan or such issuer (as applicable) verifies and updates the provider directory information included on the database described in paragraph (4) of such plan or issuer of each health care provider and health care facility included in such database;
 
-&emsp;&emsp;(B) that establishes a procedure for the removal of such a provider or facility with respect to which such plan or issuer has beenunable to verify such information during a period specified by the plan or issuer; and
+&emsp;&emsp;(B) that establishes a procedure for the removal of such a provider or facility with respect to which such plan or issuer has been unable to verify such information during a period specified by the plan or issuer; and
 
 &emsp;&emsp;(C) that provides for the update of such database within 2 business days of such plan or issuer receiving from such a provider or facility information pursuant to section 300gg–139 of this title.
 

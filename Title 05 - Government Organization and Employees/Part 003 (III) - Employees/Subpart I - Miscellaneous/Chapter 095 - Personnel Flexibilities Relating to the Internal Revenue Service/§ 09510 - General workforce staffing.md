@@ -18,7 +18,7 @@
 
 (3) Within each quality category established under paragraph (1), preference eligibles shall be listed ahead of individuals who are not preference eligibles. For other than scientific and professional positions at or higher than GS–9 (or equivalent), preference eligibles who have a compensable service-connected disability of 10 percent or more, and who meet the minimum qualification standards, shall be listed in the highest quality category.
 
-(4) An appointing authority may select any applicant from the highest quality category or, if fewer than three candidates have been assignedto the highest quality category, from a merged category consisting of the highest and second highest quality categories.
+(4) An appointing authority may select any applicant from the highest quality category or, if fewer than three candidates have been assigned to the highest quality category, from a merged category consisting of the highest and second highest quality categories.
 
 (5) Notwithstanding paragraph (4), the appointing authority may not pass over a preference eligible in the same or higher category from which selection is made unless the requirements of section 3317(b) or 3318(c), as applicable, are satisfied.
 

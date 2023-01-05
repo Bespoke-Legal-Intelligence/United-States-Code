@@ -16,7 +16,7 @@ For purposes of subsection (a)—
 
 #### (1) Section 303 redemption needs
 
-&emsp;The term "section 303 redemption needs" means, with respect to the taxable year of the corporation in which a shareholder of the corporation died or any taxable year thereafter, the amount needed (or reasonably anticipated to be needed) to make a redemption of stock included in the gross estate of the decedent\(but not in excess of the maximum amount of stock to which section 303(a) may apply).
+&emsp;The term "section 303 redemption needs" means, with respect to the taxable year of the corporation in which a shareholder of the corporation died or any taxable year thereafter, the amount needed (or reasonably anticipated to be needed) to make a redemption of stock included in the gross estate of the decedent (but not in excess of the maximum amount of stock to which section 303(a) may apply).
 
 #### (2) Excess business holdings redemption needs
 

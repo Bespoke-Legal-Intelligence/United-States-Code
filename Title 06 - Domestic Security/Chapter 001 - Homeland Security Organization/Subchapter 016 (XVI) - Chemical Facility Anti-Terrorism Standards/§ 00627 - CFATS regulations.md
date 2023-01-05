@@ -12,7 +12,7 @@ The Secretary may, in accordance with chapter 5 of title 5, promulgate regulatio
 
 #### (2) Repeal
 
-&emsp;Not later than 30 days after December 18, 2014, the Secretary shall repeal any existing CFATS regulation that the Secretary determines is duplicative of, or conflicts with, this subchapter.
+&emsp;Not later than 30 days after December 18, 2014, the Secretary shall repeal any existingCFATS regulation that the Secretary determines is duplicative of, or conflicts with, this subchapter.
 
 #### (c) Authority
 

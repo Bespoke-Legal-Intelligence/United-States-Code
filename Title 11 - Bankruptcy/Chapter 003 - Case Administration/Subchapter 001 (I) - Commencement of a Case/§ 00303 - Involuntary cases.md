@@ -6,7 +6,7 @@
 
 &emsp;(1) by three or more entities, each of which is either a holder of a claim against such person that is not contingent as to liability or the subject of a bona fide dispute as to liability or amount, or an indenture trustee representing such a holder, if such noncontingent, undisputed claims aggregate at least $10,000 <sup>1</sup> more than the value of any lien on property of the debtor securing such claims held by the holders of such claims;
 
-&emsp;(2) if there are fewer than 12 such holders, excluding any employee or insider of such person and any transferee of a transfer that isvoidable under section 544, 545, 547, 548, 549, or 724(a) of this title, by one or more of such holders that hold in the aggregate at least $10,000 <sup>1</sup> of such claims;
+&emsp;(2) if there are fewer than 12 such holders, excluding any employee or insider of such person and any transferee of a transfer that is voidable under section 544, 545, 547, 548, 549, or 724(a) of this title, by one or more of such holders that hold in the aggregate at least $10,000 <sup>1</sup> of such claims;
 
 &emsp;(3) if such person is a partnership—
 
@@ -74,7 +74,7 @@
 
 #### legislative statements
 
-Section 303(b)(1) is modified to make clear that unsecured claims against the debtor must be determined bytaking into account liens securing property held by third parties.
+Section 303(b)(1) is modified to make clear that unsecured claims against the debtor must be determined by taking into account liens securing property held by third parties.
 
 Section 303(b)(3) adopts a provision contained in the Senate amendment indicating that an involuntary petition may be commenced against a partnership by fewer than all of the general partners in such partnership. Such action may be taken by fewer than all of the general partners notwithstanding a contrary agreement between the partners or State or local law.
 
@@ -90,7 +90,7 @@ The exceptions contained in current law that prohibit involuntary cases against 
 
 The provisions for involuntary chapter 11 cases is a slight change from present law, based on the proposed consolidation of the reorganization chapters. Currently, involuntary cases are permitted under chapters X and XII \[chapters 10 and 12 of former title 11\] but not under chapter XI \[chapter 11 of former title 11\]. The consolidation requires a single rule for all kinds of reorganization proceedings. Because the assets of an insolvent debtor belong equitably to his creditors, the bill permits involuntary cases in order that creditors may realize on their assets through reorganization as well as through liquidation.
 
-Subsection (b) of the section specifies who may file an involuntary petition. As under current law, if the debtor has more than 12 creditors, three creditors must join in the involuntary petition. The dollar amount limitation is changed from current law to $5,000. The new amount applies both to liquidation and reorganization cases in order that there not be an artificial difference between the two chapters that would provide an incentive for one or the other. Subsection (b)(1) makes explicit the right of an indenture trustee to be one of the three petitioning creditors on behalf of the creditors the trustee represents under the indenture. If all of the general partners in a partnership are in bankruptcy, then the trustee of a single general partner may file an involuntary petition against the partnership. Finally, a foreign representative may file an involuntary case concerning the debtor in the foreign proceeding, in order to administer assets in this country. This subsection is not intended to overrule Bankruptcy Rule 104(d), which places certain restrictions on the transfer of claims for the purpose of commencing an involuntary case. That Rule will be continued under section 405(d) of this bill.
+Subsection (b) of the section specifies who may file an involuntary petition. As under current law, if the debtor has more than 12 creditors, three creditors must join in the involuntary petition. The dollar amount limitation is changed from current law to $5,000. The new amount applies both to liquidation and reorganization cases in order that there not be an artificial difference between the two chapters that would provide an incentive for one or the other. Subsection (b)(1) makes explicit the right of an indenture trustee to be one of the three petitioning creditors on behalf of the creditors the trustee represents under the indenture. If all of the general partners in a partnership are in bankruptcy, then the trustee of a single general partner may file an involuntary petition against the partnership. Finally, a foreign representative may file an involuntary case concerning the debtor in the foreign proceeding, in order to administer assets in this country. This subsection is not intended to overrule Bankruptcy Rule 104(d), which places certain restrictions on the transfer of claims for the purpose of commencingan involuntary case. That Rule will be continued under section 405(d) of this bill.
 
 Subsection (c) permits creditors other than the original petitioning creditors to join in the petition with the same effect as if the joining creditor had been one of the original petitioning creditors. Thus, if the claim of one of the original petitioning creditors is disallowed, the case will not be dismissed for want of three creditors or want of $5,000 in petitioning claims if the joining creditor suffices to fulfill the statutory requirements.
 
@@ -168,7 +168,7 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 #### Effective Date of 1984 Amendment
 
-Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, and amendment by section 426(b) of Pub.L. 98–353 effective July 10, 1984, see section 552(a), (b) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, and amendment by section 426(b) of Pub. L. 98–353 effective July 10, 1984, see section 552(a), (b) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### <b>Court Rules and Judicial Documents</b>
 
@@ -176,7 +176,9 @@ Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect 
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(1), (2), dollar amount "15,775" was adjusted to "16,750". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (b)(1), (2), dollar amount "16,750" was adjusted to "18,600". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(1), (2), dollar amount "15,775" was adjusted to "16,750".
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(1), (2), dollar amount "15,325" was adjusted to "15,775".
 

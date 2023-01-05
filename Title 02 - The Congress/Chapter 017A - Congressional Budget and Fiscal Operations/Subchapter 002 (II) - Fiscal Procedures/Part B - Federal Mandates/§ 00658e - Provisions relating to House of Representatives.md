@@ -24,7 +24,7 @@ It shall not be in order in the House of Representatives to consider a rule or o
 
 #### (5) Effect on amendment in order as original text
 
-&emsp;The disposition of the question of consideration under this subsection with respect to abill or joint resolution shall be considered also to determine the question of consideration under this subsection with respect to an amendment made in order as original text.
+&emsp;The disposition of the question of consideration under this subsection with respect to a bill or joint resolution shall be considered also to determine the question of consideration under this subsection with respect to an amendment made in order as original text.
 
 (Pub. L. 93–344, title IV, §426, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 59.)
 

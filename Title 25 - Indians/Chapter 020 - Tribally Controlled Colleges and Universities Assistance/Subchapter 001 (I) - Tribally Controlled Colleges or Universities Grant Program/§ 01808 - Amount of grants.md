@@ -12,7 +12,7 @@
 
 #### (2) Exception
 
-&emsp;The amount of a grant under paragraph (1) shall not exceed an amount equal to the total cost of the education program provided by the applicable tribally controlled college or university.
+&emsp;The amount of a grant under paragraph (1) shall not exceed an amount equal to the totalcost of the education program provided by the applicable tribally controlled college or university.
 
 #### (b) Advance installment payments; adjustments; methods of payment; interest or investment income; types of investments
 

@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-The Secretary shall ensure that the Health Resources and Services Administration, the Centers for Disease Control and Prevention, the Substance Abuse and Mental Health Services Administration, and the Centers for Medicare \& Medicaid Services coordinate the planning, funding, and implementation of Federal HIVprograms (including all minority AIDS initiatives of the Public Health Service, including under section 300ff–121 of this title) to enhance the continuity of care and prevention services for individuals with HIV/AIDS or those at risk of such disease. The Secretary shall consult with other Federal agencies, including the Department of Veterans Affairs, as needed and utilize planning information submitted to such agencies by the States and entities eligible for assistance under this subchapter.
+The Secretary shall ensure that the Health Resources and Services Administration, the Centers for Disease Control and Prevention, the Substance Abuse and Mental Health Services Administration, and the Centers for Medicare \& Medicaid Services coordinate the planning, funding, and implementation of Federal HIV programs (including all minority AIDS initiatives of the Public Health Service, including under section 300ff–121 of this title) to enhance the continuity of care and prevention services for individuals with HIV/AIDS or those at risk of such disease. The Secretary shall consult with other Federal agencies, including the Department of Veterans Affairs, as needed and utilize planning information submitted to such agencies by the States and entities eligible for assistance under this subchapter.
 
 #### (b) Report
 
@@ -34,5 +34,5 @@ A prior section 300ff–81, act July 1, 1944, ch. 373, title XXVI, §2681, as ad
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effectiveSept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

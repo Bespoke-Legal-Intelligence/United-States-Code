@@ -28,7 +28,7 @@ To the extent necessary to accomplish the purpose specified in subsection (a), t
 
 &emsp;&emsp;&emsp;(i) pursuant to an appropriate State emergency preparedness plan; or
 
-&emsp;&emsp;&emsp;(ii) in the case of a public health emergency described in subsection (g)(1)(B) thatinvolves a pandemic infectious disease, pursuant to a State pandemic preparedness plan or a plan referred to in clause (i), whichever is applicable in the State;
+&emsp;&emsp;&emsp;(ii) in the case of a public health emergency described in subsection (g)(1)(B) that involves a pandemic infectious disease, pursuant to a State pandemic preparedness plan or a plan referred to in clause (i), whichever is applicable in the State;
 
 &emsp;(4) sanctions under section 1395nn(g) of this title (relating to limitations on physician referral);
 
@@ -132,9 +132,9 @@ For purposes of this section:
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(7), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
-The National Emergencies Act, referred to in subsec. (g)(1)(A)(i), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (g)(1)(A)(i), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(1)(A)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(1)(A)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Prior Provisions
 
@@ -218,7 +218,7 @@ Enforcement.—The provisions of subsection (a) shall be applied by the Secretar
 
 "(c)
 
-Implementation.—The Secretary of Health and Human Services, Secretary of Labor, and Secretary ofthe Treasury may implement the provisions of this section through sub-regulatory guidance, program instruction or otherwise.
+Implementation.—The Secretary of Health and Human Services, Secretary of Labor, and Secretary of the Treasury may implement the provisions of this section through sub-regulatory guidance, program instruction or otherwise.
 
 "(d)
 

@@ -14,7 +14,7 @@ The length and other terms of the contract shall be designed to promote orderly 
 
 #### (d) Advertisement of sales; exceptions
 
-The Secretary of Agriculture shall advertise all sales unless he determines that extraordinary conditions exist, as defined by regulation, or that the appraised value of the sale is less than $10,000. If, upon proper offering, no satisfactory bid is received for a sale, or the bidderfails to complete the purchase, the sale may be offered and sold without further advertisement.
+The Secretary of Agriculture shall advertise all sales unless he determines that extraordinary conditions exist, as defined by regulation, or that the appraised value of the sale is less than $10,000. If, upon proper offering, no satisfactory bid is received for a sale, or the bidder fails to complete the purchase, the sale may be offered and sold without further advertisement.
 
 #### (e) Bidding methods; purposes; oral auction procedures; monitoring and enforcement for prevention of collusive practices
 
@@ -70,7 +70,7 @@ The Secretary of Agriculture shall develop utilization standards, methods of mea
 
 (1) For sales of timber which include a provision for purchaser credit for construction of permanent roads with an estimated cost in excess of $20,000, the Secretary of Agriculture shall promulgate regulations requiring that the notice of sale afford timber purchasers qualifying as "small business concerns" under the Small Business Act, as amended \[15 U.S.C. 631 et seq.\], and the regulations issued thereunder, an estimate of the cost and the right, when submitting a bid, to elect that the Secretary build the proposed road.
 
-(2) If the purchaser makes such an election, the price subsequently paid for the timber shallinclude all of the estimated cost of the road. In the notice of sale, the Secretary of Agriculture shall set a date when such road shall be completed which shall be applicable to either construction by the purchaser or the Secretary, depending on the election. To accomplish requested work, the Secretary is authorized to use from any receipts from the sale of timber a sum equal to the estimate for timber purchaser credits, and such additional sums as may be appropriated for the construction of roads, such funds to be available until expended, to construct a road that meets the standards specified in the notice of sale.
+(2) If the purchaser makes such an election, the price subsequently paid for the timber shall include all of the estimated cost of the road. In the notice of sale, the Secretary of Agriculture shall set a date when such road shall be completed which shall be applicable to either construction by the purchaser or the Secretary, depending on the election. To accomplish requested work, the Secretary is authorized to use from any receipts from the sale of timber a sum equal to the estimate for timber purchaser credits, and such additional sums as may be appropriated for the construction of roads, such funds to be available until expended, to construct a road that meets the standards specified in the notice of sale.
 
 (3) The provisions of this subsection shall become effective on October 1, 1976.
 
@@ -80,9 +80,9 @@ The Secretary of Agriculture shall develop utilization standards, methods of mea
 
 #### References in Text
 
-The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (a) and (c), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (a) and (c), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (a), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (a), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 This Act, referred to in subsec. (e)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, known as the National Forest Management Act of 1976. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
@@ -220,7 +220,7 @@ No surrender of claims.—Operation of this section shall not have the effect of
 
 Release of liability.—In the written request for any option provided under subsections (b) and (c), a timber purchaser shall release the United States from all liability, including further consideration or compensation, resulting from—
 
-&emsp;&emsp;"(A) the cancellation of a qualifying contract of the purchaser or rate redetermination under subsection (b)(1), the substitution of a Producer Price Index under subsection (b)(2), the modification of the contract under subsection (b)(3) or a determination by the Secretary not to provide the cancellation, redetermination, substitution, or modification; or
+&emsp;&emsp;"(A) the cancellation of a qualifying contract of the purchaser or rate redetermination under subsection (b)(1), the substitution of a Producer Price Index under subsection (b)(2), the modification ofthe contract under subsection (b)(3) or a determination by the Secretary not to provide the cancellation, redetermination, substitution, or modification; or
 
 &emsp;&emsp;"(B) the modification of the term of a timber sale contract (including a qualifying contract) of the purchaser under subsection (c) or a determination by the Secretary not to provide the modification.
 

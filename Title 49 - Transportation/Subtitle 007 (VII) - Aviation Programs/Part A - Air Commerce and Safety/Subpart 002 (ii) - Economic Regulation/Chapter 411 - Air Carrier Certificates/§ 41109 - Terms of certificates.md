@@ -14,7 +14,7 @@ General.—(1) Each certificate issued under section 41102 of this title shall s
 
 (4) A certificate issued under section 41102 of this title to provide foreign charter air transportation shall specify the places between which the air carrier is authorized to provide the transportation only to the extent the Secretary considers practicable and otherwise only shall specify each geographical area in which, or between which, the transportation may be provided.
 
-(5) As prescribed by regulation by the Secretary, an air carrier other than a charter aircarrier may provide charter trips or other special services without regard to the places named or type of transportation specified in its certificate.
+(5) As prescribed by regulation by the Secretary, an air carrier other than a charter air carrier may provide charter trips or other special services without regard to the places named or type of transportation specified in its certificate.
 
 (b)
 

@@ -46,7 +46,7 @@ Subsec. (b)(3). Pub. L. 115–282, §123(b)(2), substituted "section 5102(a)(1)"
 
 Subsec. (b)(3). Pub. L. 114–120, §102(f)(2), substituted "under section 2902(a)(1)" for "under section 663(a)(1)".
 
-<b>2014</b>—Pub. L. 113–281 amended section generally. Prior to amendment, section related to submission of report, not later than Dec. 31, 2011, to appropriate congressional committees on the employment during the preceding year by Coast Guard contractors of individuals who were Coast Guard officials in the previous 5-year period.
+<b>2014</b>—Pub. L. 113–281 amended section generally. Prior to amendment, section related to submission of report,not later than Dec. 31, 2011, to appropriate congressional committees on the employment during the preceding year by Coast Guard contractors of individuals who were Coast Guard officials in the previous 5-year period.
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–213 struck out "and annually thereafter," after "December 31, 2011,".
 

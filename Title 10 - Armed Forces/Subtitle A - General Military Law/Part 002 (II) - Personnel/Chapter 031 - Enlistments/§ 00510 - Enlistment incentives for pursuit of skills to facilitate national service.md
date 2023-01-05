@@ -6,7 +6,7 @@ Enlistment Incentive Program.—The Secretary of Defense shall carry out an enli
 
 (b)
 
-National Call to Service Participant.—In this section, the term "National Call to Service participant" means a person who has not previously served in the armed forces who enters into an original enlistment pursuant to a written agreement with the Secretary of a military department (in such form and manner as may be prescribed by that Secretary) under which the person agrees to perform a period of national service as specified in subsection (c).
+National Call to Service Participant.—In this section, the term "National Call to Service participant" means a person who has not previously served in the armed forces who enters into an original enlistment pursuant to a written agreement with the Secretary of a military department (in such form and manner as may be prescribed by that Secretary) under which theperson agrees to perform a period of national service as specified in subsection (c).
 
 (c)
 
@@ -52,7 +52,7 @@ Election of Incentive.—A National Call to Service participant shall elect in t
 
 Payment of Bonus Amounts.—(1) Payment to a National Call to Service participant of the bonus elected by the National Call to Service participant under subsection (e)(1) shall be made in such time and manner as the Secretary of Defense shall prescribe.
 
-(2)(A) Payment of outstanding principal and interest on the qualifying student loans of a National Call to Service participant, as elected under subsection (e)(2), shall be made in suchtime and manner as the Secretary of Defense shall prescribe.
+(2)(A) Payment of outstanding principal and interest on the qualifying student loans of a National Call to Service participant, as elected under subsection (e)(2), shall be made in such time and manner as the Secretary of Defense shall prescribe.
 
 (B) Payment under this paragraph of the outstanding principal and interest on the qualifying student loans of a National Call to Service participant shall be made to the holder of such student loans, as identified by the National Call to Service participant to the Secretary of the military department concerned for purposes of such payment.
 
@@ -66,7 +66,7 @@ Coordination With Montgomery GI Bill Benefits.—(1)(A) Subject to subparagraph 
 
 (2)(A) Educational assistance under paragraphs (3) or (4) of subsection (e) shall be provided through the Department of Veterans Affairs under an agreement to be entered into by the Secretary of Defense and the Secretary of Veterans Affairs. The agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Secretary of Veterans Affairs for the making of payments under this section.
 
-(B) Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term "eligible veteran" and the term "person", as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section to refer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
+(B) Except as otherwise provided in this section, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II <sup>1</sup> of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term "eligible veteran" and the term "person", as used in those provisions, shall be deemed for the purpose of the application of those provisions to this section torefer to a person eligible for educational assistance under paragraph (3) or (4) of subsection (e).
 
 (3)(A) Except as provided in paragraph (1), nothing in this section shall prohibit a National Call to Service participant who satisfies through service under subsection (c) the eligibility requirements for educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38 from an entitlement to such educational assistance under chapter 1606 of this title or basic educational assistance under chapter 30 of title 38, as the case may be.
 
@@ -104,7 +104,9 @@ Definitions.—In this section:
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsec. (l)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle C of title I ofthe Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+Subchapters I and II of chapter 36 of title 38, referred to in subsec. (h)(2)(B), were redesignated subchapters II (§3670 et seq.) and III (§3680 et seq.), respectively, of chapter 36 of title 38 by Pub. L. 117–333, §2(a)(1), Jan. 5, 2023, 136 Stat. 6122.
+
+The National and Community Service Act of 1990, referred to in subsec. (l)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle C of title I of the Act is classified generally to division C (§12571 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -153,4 +155,6 @@ Pub. L. 107–314, div. A, title V, §531(d), Dec. 2, 2002, 116 Stat. 2544, dire
 #### Effectiveness Reports
 
 Pub. L. 107–314, div. A, title V, §531(e), Dec. 2, 2002, 116 Stat. 2545, provided that: "Not later than March 31, 2005, and March 31, 2007, the Secretary of Defense shall submit to the committees specified in subsection (d) reports on the effectiveness of the program under section 510 of title 10, United States Code, as added by subsection (a), in attracting new recruits to national service."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

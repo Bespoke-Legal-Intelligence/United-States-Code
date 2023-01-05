@@ -50,7 +50,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 &emsp;&emsp;&emsp;(iii) any financial instrument the value of which is determined substantially by reference to marketable securities,
 
-&emsp;&emsp;&emsp;(iv) except to the extent provided in regulations prescribed by the Secretary, any interest in a precious metal which, as of the date of the distribution, is actively traded (within the meaning of section 1092(d)(1)) unless such metal was produced, used, or held in the active conduct of a trade or business by the partnership,
+&emsp;&emsp;&emsp;(iv) except to the extent provided in regulations prescribed by the Secretary, any interest in a precious metal which, as of the date of the distribution, is activelytraded (within the meaning of section 1092(d)(1)) unless such metal was produced, used, or held in the active conduct of a trade or business by the partnership,
 
 &emsp;&emsp;&emsp;(v) except as otherwise provided in regulations prescribed by the Secretary, interests in any entity if substantially all of the assets of such entity consist (directly or indirectly) of marketable securities, money, or both, and
 
@@ -132,7 +132,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 &emsp;&emsp;&emsp;&emsp;(II) a partner who contributes to a partnership an interest in another partnership shall be treated as contributing a proportionate share of the assets of the other partnership.
 
-&emsp;&emsp;&nbsp;If the preceding sentence does not apply under such regulations with respect to any interest held by a partnership in another partnership, the interest in such other partnership shall be treated as if it were specified in a subclause of clause (i).
+&emsp;&emsp;&nbsp;If the preceding sentence does not apply under such regulations with respect to anyinterest held by a partnership in another partnership, the interest in such other partnership shall be treated as if it were specified in a subclause of clause (i).
 
 #### (4) Basis of securities distributed
 

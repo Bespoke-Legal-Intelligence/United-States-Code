@@ -8,7 +8,7 @@ The Secretary of Agriculture is authorized to purchase such financial and credit
 
 #### Codification
 
-Section was enacted as part of the Department of Agriculture Organic Act of 1944, and not as part of theRural Electrification Act of 1936 which constitutes this chapter.
+Section was enacted as part of the Department of Agriculture Organic Act of 1944, and not as part of the Rural Electrification Act of 1936 which constitutes this chapter.
 
 #### Amendments
 

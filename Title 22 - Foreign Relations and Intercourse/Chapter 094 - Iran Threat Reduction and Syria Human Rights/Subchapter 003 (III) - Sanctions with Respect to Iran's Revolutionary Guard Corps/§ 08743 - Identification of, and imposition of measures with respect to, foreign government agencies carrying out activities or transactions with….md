@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 120 days after August 10, 2012, and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report that identifies each agency of the government of a foreign country (other than Iran) that the President determines knowingly and materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, or knowingly and materially engaged in a significant transaction with, any person described in paragraph (2).
+&emsp;Not later than 120 days after August 10, 2012, and every 180 days thereafter, the President shall submit to the appropriate congressionalcommittees a report that identifies each agency of the government of a foreign country (other than Iran) that the President determines knowingly and materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services in support of, or knowingly and materially engaged in a significant transaction with, any person described in paragraph (2).
 
 #### (2) Person described
 
@@ -64,7 +64,7 @@
 
 The President may terminate any measures imposed with respect to an agency pursuant to subsection (b) if the President determines and notifies the appropriate congressional committees that—
 
-&emsp;(1)(A) a person described in subparagraph (A) or (B) of subsection (a)(2) with respect towhich the agency is carrying out activities or transactions is no longer designated pursuant to subparagraph (A) or (B) of subsection (a)(2); or
+&emsp;(1)(A) a person described in subparagraph (A) or (B) of subsection (a)(2) with respect to which the agency is carrying out activities or transactions is no longer designated pursuant to subparagraph (A) or (B) of subsection (a)(2); or
 
 &emsp;(B) any person described in subparagraph (C) of subsection (a)(2) with respect to which the agency is carrying out activities or transactions is no longer acting on behalf of or at the direction of, or owned or controlled by, any person described in subparagraph (A) or (B) of subsection (a)(2);
 

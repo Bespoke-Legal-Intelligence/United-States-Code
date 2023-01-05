@@ -76,7 +76,7 @@ If the Secretary determines that use of a market mechanism under subsection (b) 
 
 #### (A) De minimis
 
-&emsp;&emsp;The Secretary shall establish de minimis exceptions to the requirements of this subsection, based on the size of the cumulativetransactions of troubled assets purchased from any one financial institution for the duration of the program, at not more than $100,000,000.
+&emsp;&emsp;The Secretary shall establish de minimis exceptions to the requirements of this subsection, based on the size of the cumulative transactions of troubled assets purchased from any one financial institution for the duration of the program, at not more than $100,000,000.
 
 #### (B) Other exceptions
 

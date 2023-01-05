@@ -2,13 +2,13 @@
 
 (a)(1) Upon receipt of the report of a selection board submitted to him under section 617(a) of this title, the Secretary of the military department concerned shall review the report to determine whether the board has acted contrary to law or regulation or to guidelines furnished the board under section 615(b) of this title. Following such review, unless the Secretary concerned makes a determination as described in paragraph (2), the Secretary shall submit the report as required by subsection (b) or (c), as appropriate.
 
-(2) If, on the basis of a review of the report under paragraph (1), the Secretary of the military department concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under section 615(b) of this title, the Secretary shall return the report, together with a written explanation of the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this paragraph, the selection board (or a subsequent selection board convened under section 611(a) of this title for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with section 617 of this title.
+(2) If, on the basis of a review of the report under paragraph (1), the Secretary of the military department concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under section 615(b) of this title, the Secretary shall return the report, together with a written explanation of the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this paragraph, the selection board (or a subsequent selection board convened under section 611(a) of this title for the same grade and competitive category) shall conduct such proceedings as maybe necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with section 617 of this title.
 
 (b)(1) After completing the requirements of subsection (a), the Secretary concerned, in the case of the report of a selection board that considered officers who are serving on, or have served on, the Joint Staff or are joint qualified officers, shall submit the report to the Chairman of the Joint Chiefs of Staff.
 
 (2) The Chairman, in accordance with guidelines furnished to the Chairman by the Secretary of Defense, shall review the report for the purpose of determining if—
 
-&emsp;(A) the selection board acted consistent with the guidelines of the Secretary of Defense under section 615(c) of this title to ensure that selection boards give appropriate consideration to the performance of officers who areserving on, or have served on, the Joint Staff or are joint qualified officers; and
+&emsp;(A) the selection board acted consistent with the guidelines of the Secretary of Defense under section 615(c) of this title to ensure that selection boards give appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers; and
 
 &emsp;(B) the selection board otherwise gave appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers.
 
@@ -112,7 +112,7 @@ Section effective Sept. 15, 1981, but the authority to prescribe regulations und
 
 #### Delegation of Functions
 
-Functions of President under subsec. (b)(1) to approve, modify, or disapprove report of a selection board delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§1(a), 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (b)(1) to approve, modify, or disapprove report of a selection board delegated to Secretary of Defense to perform, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, see Ex. Ord. No. 12396, §§1(a), 3, Dec. 9, 1982, 47 F.R. 55897, 55898,set out as a note under section 301 of Title 3, The President.
 
 Nothing in section 1 of Ex. Ord. No. 12396 deemed to delegate authority vested in President by subsec. (c) of this section to remove a name from a selection board report, see section 1(g) of Ex. Ord. No. 12396.
 

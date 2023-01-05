@@ -234,7 +234,11 @@ The Secretary shall prescribe such regulations or other guidance as the Secretar
 
 &emsp;(7) to allow for transfers from one ABLE account to another ABLE account.
 
-(Added Pub. L. 113–295, div. B, title I, §102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, §303(a)–(c), Dec. 18, 2015, 129 Stat. 3087; Pub. L. 115–97, title I, §11024(a), Dec. 22, 2017, 131 Stat. 2075; Pub. L. 115–141, div. U, title I, §101(o), title IV, §401(a)(129), (130), Mar. 23, 2018, 132 Stat. 1166, 1190.)
+(Added Pub. L. 113–295, div. B, title I, §102(a), Dec. 19, 2014, 128 Stat. 4056; amended Pub. L. 114–113, div. Q, title III, §303(a)–(c), Dec. 18, 2015, 129 Stat. 3087; Pub. L. 115–97, title I, §11024(a), Dec. 22, 2017, 131 Stat. 2075; Pub. L. 115–141, div. U, title I, §101(o), title IV, §401(a)(129), (130), Mar. 23, 2018, 132 Stat. 1166, 1190; Pub. L. 117–328, div. T, title I, §124(a), Dec. 29, 2022, 136 Stat. 5314.)
+
+#### Amendment of Subsection (e)
+
+<i>Pub. L. 117–328, div. T, title I, §124, Dec. 29, 2022, 136 Stat. 5314, provided that, applicable to taxable years beginning after Dec. 31, 2025, paragraphs (1)(A) and (2)(A)(i)(II) of subsection (e) of this section are amended by striking "age 26" and inserting "age 46". See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -245,6 +249,8 @@ The Stephen Beck, Jr., ABLE Act of 2014, referred to in subsec. (d)(4), is div. 
 The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(1)(A), (2)(A)(i)(II). Pub. L. 117–328 substituted "age 46" for "age 26".
 
 <b>2018</b>—Subsec. (c)(1)(D). Pub. L. 115–141, §101(o), struck out subpar. (D) which related to operating rules.
 
@@ -270,13 +276,17 @@ Subsec. (e)(7). Pub. L. 114–113, §303(b)(2), struck out par. (7). Text read a
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. T, title I, §124(b), Dec. 29, 2022, 136 Stat. 5314, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2025."
+
 #### Effective Date of 2018 Amendment
 
 Amendment by section 101(o) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 22, 2017, see section 11024(c)of Pub. L. 115–97, set out as a note under section 25B of this title.
+Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 22, 2017, see section 11024(c) of Pub. L. 115–97, set out as a note under section 25B of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -288,7 +298,7 @@ Section applicable to taxable years beginning after Dec. 31, 2014, see section 1
 
 #### Regulations
 
-Pub. L. 113–295, div. B, title I, §102(f)(2), Dec. 19, 2014, 128 Stat. 4062, provided that: "The Secretary of the Treasury (or the Secretary's designee) shall promulgate the regulations or other guidance required under section 529A(g) of the Internal Revenue Code of 1986, as added by subsection (a), not later than 6 months after the date of the enactment of this Act \[Dec. 19, 2014\]."
+Pub. L. 113–295, div. B, title I, §102(f)(2), Dec. 19, 2014, 128 Stat. 4062, provided that: "The Secretary of the Treasury (or the Secretary's designee) shall promulgate the regulations or other guidance required undersection 529A(g) of the Internal Revenue Code of 1986, as added by subsection (a), not later than 6 months after the date of the enactment of this Act \[Dec. 19, 2014\]."
 
 #### Purposes
 

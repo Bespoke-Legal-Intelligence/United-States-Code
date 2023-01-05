@@ -16,13 +16,13 @@ For purposes of this part, the term "qualifying event" means, with respect to an
 
 > In the case of an event described in paragraph (6), a loss of coverage includes a substantial elimination of coverage with respect to a qualified beneficiary described in section 1167(3)(C) of this title within one year before or after the date of commencement of the proceeding.
 
-(Pub. L. 93–406, title I, §603, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 229; amended Pub. L. 99–509, title IX, §9501(a)(2), Oct. 21, 1986, 100 Stat. 2076.)
+(Pub. L. 93–406, title I, §603, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat.229; amended Pub. L. 99–509, title IX, §9501(a)(2), Oct. 21, 1986, 100 Stat. 2076.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in par. (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 

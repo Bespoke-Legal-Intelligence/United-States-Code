@@ -8,7 +8,7 @@
 
 &emsp;(B) The Administrator of the National Oceanic and Atmospheric Administration, or his designee.
 
-(2) Other members of the Advisory Board shall be appointed from among persons eminent in the fields of basic sciences, engineering, ocean and environmental sciences, education, research management, international and security affairs, health physics, health sciences, or social sciences, with due regard given to the equitable representation of scientists and engineers who are women or who represent minority groups. At least one member of the Advisory Board shall be a representative of environmental public interest groups and one member shall be a representative of the interests of State governments.
+(2) Other members of the Advisory Board shall be appointed from among persons eminent in thefields of basic sciences, engineering, ocean and environmental sciences, education, research management, international and security affairs, health physics, health sciences, or social sciences, with due regard given to the equitable representation of scientists and engineers who are women or who represent minority groups. At least one member of the Advisory Board shall be a representative of environmental public interest groups and one member shall be a representative of the interests of State governments.
 
 (3) The Secretary of Defense and the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency, shall request—
 
@@ -30,17 +30,15 @@
 
 (g) The Advisory Board shall assist and advise the Council in identifying the environmental data and analytical assistance activities that should be covered by the policies and procedures prescribed pursuant to section 2902(d)(1) of this title.
 
-(h) Each member of the Advisory Board shall be required to file a financial disclosure reportunder title I of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+(h) Each member of the Advisory Board shall be required to file a financial disclosure report under subchapter I of chapter 131 of title 5.
 
-(Added Pub. L. 101–510, div. A, title XVIII, §1801(a)(1), Nov. 5, 1990, 104 Stat. 1756; amended Pub. L. 102–190, div. A, title II, §257(b), Dec. 5, 1991, 105 Stat. 1331; Pub. L. 105–85, div. A, title III, §341, Nov. 18, 1997, 111 Stat. 1686; Pub. L. 106–398, §1 \[\[div. A\], title III, §313(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–55.)
+(Added Pub. L. 101–510, div. A, title XVIII, §1801(a)(1), Nov. 5, 1990, 104 Stat. 1756; amended Pub. L. 102–190, div. A, title II, §257(b), Dec. 5, 1991, 105 Stat. 1331; Pub. L. 105–85, div. A, title III, §341, Nov. 18, 1997, 111 Stat. 1686; Pub. L. 106–398, §1 \[\[div. A\], title III, §313(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–55; Pub. L. 117–286, §4(c)(21), Dec. 27, 2022, 136 Stat. 4356.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Ethics in Government Act of 1978, referred to in subsec. (h), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–286 substituted "subchapter I of chapter 131 of title 5." for "title I of the Ethics in Government Act of 1978 (5 U.S.C. App.)."
 
 <b>2000</b>—Subsecs. (h), (i). Pub. L. 106–398 redesignated subsec. (i) as (h) and struck out former subsec. (h) which read as follows: "Not later than March 15 of each year, the Advisory Board shall submit to the Congress an annual report setting forth its actions during the year preceding the year in which the report is submitted and any recommendations, including recommendations on projects, programs, and information exchange and recommendations for legislation, that the Advisory Board considers appropriate regarding the Strategic Environmental Research and Development Program."
 
@@ -62,5 +60,5 @@ Pub. L. 101–510, div. A, title XVIII, §1801(d), Nov. 5, 1990, 104 Stat. 1758,
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

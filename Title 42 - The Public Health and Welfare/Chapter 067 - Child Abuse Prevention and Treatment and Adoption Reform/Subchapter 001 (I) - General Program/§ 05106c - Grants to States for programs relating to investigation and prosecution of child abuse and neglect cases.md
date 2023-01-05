@@ -2,7 +2,7 @@
 
 #### (a) Grants to States
 
-The Secretary, in consultation with the Attorney General, is authorized to make grants to the States for the purpose of assisting States in developing, establishing, and operating programs designed to improve—
+The Secretary, in consultation with the Attorney General, is authorized to make grants to theStates for the purpose of assisting States in developing, establishing, and operating programs designed to improve—
 
 &emsp;(1) the assessment and investigation of suspected child abuse and neglect cases, including cases of suspected child sexual abuse and exploitation, in a manner that limits additional trauma to the child and the child's family;
 
@@ -38,7 +38,7 @@ In order for a State to qualify for assistance under this section, such State sh
 
 &emsp;&emsp;(A) individuals representing the law enforcement community;
 
-&emsp;&emsp;(B) judges and attorneys involved in both civil and criminal court proceedings relatedto child abuse and neglect (including individuals involved with the defense as well as the prosecution of such cases);
+&emsp;&emsp;(B) judges and attorneys involved in both civil and criminal court proceedings related to child abuse and neglect (including individuals involved with the defense as well as the prosecution of such cases);
 
 &emsp;&emsp;(C) child advocates, including both attorneys for children and, where such programs are in operation, court appointed special advocates;
 

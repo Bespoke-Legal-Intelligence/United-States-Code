@@ -196,7 +196,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 &emsp;&emsp;&emsp;&emsp;(II) that assures individuals that information on the availability of the career services will be available regardless of where the individuals initially enter the statewide workforce development system, including information made available through an access point described in subclause (I);
 
-&emsp;&emsp;(C) may have specialized centers to address special needs, such as the needs of dislocated workers, youth, or key industry sectors or clusters; and
+&emsp;&emsp;(C) may have specialized centers to address special needs, such as the needs of dislocatedworkers, youth, or key industry sectors or clusters; and
 
 &emsp;&emsp;(D) as applicable and practicable, shall make programs, services, and activities accessible to individuals through electronic means in a manner that improves efficiency, coordination, and quality in the delivery of one-stop partner services.
 
@@ -256,7 +256,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (5) Review and update
 
-&emsp;The criteria and procedures established under this subsection shall be reviewed and updated by the State board or the local board, as the case may be, as part of the biennial process for review and modification of State and local plans described in sections 3112(c)(2) and 3123(a) of this title.
+&emsp;The criteria and procedures established under this subsection shall be reviewed and updated by the State board or the local board, as the case may be, as part of the biennial process for review and modification of Stateand local plans described in sections 3112(c)(2) and 3123(a) of this title.
 
 #### (h) Funding of one-stop infrastructure
 
@@ -298,11 +298,11 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), the Governor, after consultation with chief elected officials, local boards, and the State board, shall determine the portion of funds to be provided under subparagraph (B) by each one-stop partner from each program described in subparagraph (B). In making such determination for the purpose of determining funding contributions, for funding pursuant to clause (i)(II) or (ii) of paragraph (1)(A) by each partner, the Governor shall calculate amounts forthe proportionate use of the one-stop centers in the State, consistent with chapter II of title 2, Code of Federal Regulations (or any corresponding similar regulation or ruling), taking into account the costs of administration of the one-stop delivery system for purposes not related to one-stop centers, for each partner. The Governor shall exclude from such determination of funds the amounts for proportionate use of one-stop centers attributable to the programs of one-stop partners for those local areas of the State where the costs of infrastructure of one-stop centers are funded under the option described in paragraph (1)(A)(i)(I). The Governor shall also take into account the statutory requirements for each partner program and the partner program's ability to fulfill such requirements.
+&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), the Governor, after consultation with chief elected officials, local boards, and the State board, shall determine the portion of funds to be provided under subparagraph (B) by each one-stop partner from each program described in subparagraph (B). In making such determination for the purpose of determining funding contributions, for funding pursuant to clause (i)(II) or (ii) of paragraph (1)(A) by each partner, the Governor shall calculate amounts for the proportionate use of the one-stop centers in the State, consistent with chapter II of title 2, Code of Federal Regulations (or any corresponding similar regulation or ruling), taking into account the costs of administration of the one-stop delivery system for purposes not related to one-stop centers, for each partner. The Governor shall exclude from such determination of funds the amounts for proportionate use of one-stop centers attributable to the programs of one-stop partners for those local areas of the State where the costs of infrastructure of one-stop centers are funded under the option described in paragraph (1)(A)(i)(I). The Governor shall also take into account the statutory requirements for each partner program and the partner program's ability to fulfill such requirements.
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;In a State in which the State constitution or a State statute places policymaking authority that is independent of the authority of the Governor in an entity or official with respect to the funds provided for adult education and literacy activities authorized under subchapter II, postsecondary career and technical education activities authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or vocational rehabilitation services offered under a provision covered by section 3102(13)(D) of this title, the determination described in clause (i) with respect to the programs authorized under that subchapter, Act, or provision shall be made by the chief officer of the entity, or the official, with such authority in consultation with the Governor.
+&emsp;&emsp;&emsp;In a State in which the State constitution or a State statute places policymaking authority that is independent of the authority of the Governor in an entity or official with respect to the funds provided for adult education and literacy activities authorized under subchapter II,postsecondary career and technical education activities authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or vocational rehabilitation services offered under a provision covered by section 3102(13)(D) of this title, the determination described in clause (i) with respect to the programs authorized under that subchapter, Act, or provision shall be made by the chief officer of the entity, or the official, with such authority in consultation with the Governor.
 
 #### (D) Limitations
 
@@ -346,7 +346,7 @@ Consistent with an approved State plan, the local board for a local area, with t
 
 #### (iv) Native American programs
 
-&emsp;&emsp;&emsp;One-stop partners for Native American programs established under section 3221 of this title shall not be subject to the provisions of this subsection (other than this clause) or subsection (i). For purposes of subsection (c)(2)(A)(ii)(II), the method for determining the appropriate portion of funds to be provided by such partners to pay for the costs of infrastructure of a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for theone-stop center and shall be stated in the memorandum.
+&emsp;&emsp;&emsp;One-stop partners for Native American programs established under section 3221 of this title shall not be subject to the provisions of this subsection (other than this clause) or subsection (i). For purposes of subsection (c)(2)(A)(ii)(II), the method for determining the appropriate portion of funds to be provided by such partners to pay for the costs of infrastructure of a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for the one-stop center and shall be stated in the memorandum.
 
 #### (E) Appeal by one-stop partners
 
@@ -392,7 +392,7 @@ The Rehabilitation Act of 1973, referred to in subsecs. (b)(1)(B)(iv) and (f), i
 
 The Older Americans Act of 1965, referred to in subsecs. (b)(1)(B)(v) and (h)(2)(D)(i)(II), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. Title V of the Act, known as the Community Service Senior Opportunities Act, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(1)(B)(vi) and (h)(2)(C)(ii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see ShortTitle note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(1)(B)(vi) and (h)(2)(C)(ii), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 The Trade Act of 1974, referred to in subsec. (b)(1)(B)(vii), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 2 of title II of the Act is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
@@ -402,7 +402,7 @@ Section 60532 of title 34, referred to in subsec. (b)(1)(B)(xii), was repealed b
 
 The Social Security Act, referred to in subsec. (b)(1)(B)(xiii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-This Act, referred to in subsecs. (b)(1)(C)(i) and (f)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (b)(1)(C)(i) and (f)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous othersections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The National and Community Service Act of 1990, referred to in subsec. (b)(2)(B)(vi), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 

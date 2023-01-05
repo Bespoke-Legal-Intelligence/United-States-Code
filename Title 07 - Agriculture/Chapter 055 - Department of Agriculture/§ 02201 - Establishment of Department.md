@@ -60,7 +60,7 @@ Pub. L. 86–509, June 11, 1960, 74 Stat. 205, which enacted provisions of Reorg
 
 "(e) The functions of the Secretary of the Interior under the Act of April 21, 1926 (44 Stat. 303), except section 2 thereof, with respect to exchanges of privately owned lands for national forest lands or timber in New Mexico and Arizona.
 
-"(f) The functions of the Secretary of the Interior under section 2 of the Act of May 26, 1926 (44 Stat. 655; 16 U.S.C. 38), with respect to exchanges of lands held in private or State ownership for national forest lands or timber in Montana.
+"(f) The functions of the Secretary of the Interior under section 2 of the Act of May 26, 1926 (44 Stat. 655;16 U.S.C. 38), with respect to exchanges of lands held in private or State ownership for national forest lands or timber in Montana.
 
 "(g) The functions of the Secretary of the Interior under the Act of June 15, 1926 (44 Stat. 746), with respect to exchanges of State lands for national forest lands in New Mexico.
 

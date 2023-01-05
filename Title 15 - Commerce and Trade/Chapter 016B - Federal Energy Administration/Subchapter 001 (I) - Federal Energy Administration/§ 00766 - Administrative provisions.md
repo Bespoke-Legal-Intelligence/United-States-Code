@@ -16,7 +16,7 @@ Any officer or agency authorized to issue any rule or regulation, or any order h
 
 #### (c) Judicial review of administrative rulemaking; filing of petition in United States Court of Appeals
 
-Judicial review of administrative rulemaking of general and national applicability done under this chapter, except that done pursuant to the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>1</sup> may be obtained only by filing a petition for review in the United States Court of Appeals for the District of Columbia within thirty days from the date of promulgation of any such rule, regulation, or order, and judicial review of administrative rulemaking of general, but less than national, applicability done under this chapter, except that done pursuant to the Emergency Petroleum Allocation Act of 1973,<sup>1</sup> may be obtained only by filing a petition for review in the United States Court of Appeals for the appropriate circuit within thirty days from the date of promulgation of any such rule, regulation, or order, the appropriate circuit being defined as the circuit which contains the area or the greater part of the area within which the rule, regulation, or order is to have effect.
+Judicial review of administrative rulemaking of general and national applicability done under this chapter, except that done pursuant to the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\],<sup>1</sup> may be obtained only by filing a petition for review in the United States Court of Appeals for the District of Columbia within thirty days from the date of promulgation of any such rule, regulation, or order, and judicial review of administrative rulemaking of general, but less than national, applicability done under this chapter, except that done pursuant to the Emergency Petroleum Allocation Act of 1973,<sup>1</sup> may be obtained only by filing a petition for review in the United States Court of Appeals for the appropriate circuit within thirty days from the date of promulgation of any such rule, regulation, or order, the appropriate circuit being defined as the circuit which contains the area or the greater part of the area withinwhich the rule, regulation, or order is to have effect.
 
 #### (d) to (k) Repealed or Redesignated. Pub. L. 95–91, title VII, §709(a)(2)(B), (C), (F), (G), Aug. 4, 1977, 91 Stat. 608
 
@@ -30,7 +30,7 @@ Effective beginning July 1, 1977, amounts authorized to be appropriated under th
 
 #### References in Text
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
 #### Amendments
 

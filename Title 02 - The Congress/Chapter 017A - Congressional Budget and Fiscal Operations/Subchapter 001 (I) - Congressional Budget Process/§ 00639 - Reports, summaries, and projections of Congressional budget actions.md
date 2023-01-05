@@ -98,7 +98,7 @@ Subsec. (a)(2). Pub. L. 101–508, §13206(b), inserted "(or fiscal years)" afte
 
 Subsec. (b)(1). Pub. L. 101–508, §13206(c), substituted "for each fiscal year covered by a concurrent resolution on the budget" for "for a fiscal year" in first sentence, and "the first fiscal year covered by the appropriate concurrent resolution" for "such fiscal year" in second sentence.
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–177, in amending subsec. (a) generally, designated existing provisions as par. (1),substituted provisions relating to reports on legislation providing new budget authority, new spending authority, or new credit authority, or providing an increase or decrease in revenues or tax expenditures, for provisions relating to reports on legislation providing new budget authority or tax expenditures, and added par. (2).
+<b>1985</b>—Subsec. (a). Pub. L. 99–177, in amending subsec. (a) generally, designated existing provisions as par. (1), substituted provisions relating to reports on legislation providing new budget authority, new spending authority, or new credit authority, or providing an increase or decrease in revenues or tax expenditures, for provisions relating to reports on legislation providing new budget authority or tax expenditures, and added par. (2).
 
 Subsec. (b). Pub. L. 99–177, in amending subsec. (b) generally, designated existing provisions as par. (1), substituted provisions relating to issuance of reports on a monthly basis and contents of such reports, for provisions relating to issuance of reports on a periodic basis and contents of such reports, and added par. (2).
 

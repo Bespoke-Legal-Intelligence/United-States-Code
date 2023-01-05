@@ -90,7 +90,7 @@ The Secretary shall ensure that the programs under this section are administered
 
 #### Prior Provisions
 
-Prior sections 7301 to 7301b were repealed by Pub. L. 114–95, §5, title V, §5001(b)(1), Dec. 10, 2015, 129 Stat. 1806, 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+Prior sections 7301 to 7301b were repealed by Pub. L. 114–95, §5, title V, §5001(b)(1), Dec. 10, 2015, 129 Stat.1806, 2040, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
 
 Section 7301, Pub. L. 89–10, title V, §6111, formerly title VI, §6111, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1873; renumbered title V, §6111, Pub. L. 114–95, title V, §5001(a), Dec. 10, 2015, 129 Stat. 2039, related to grants for State assessments and related activities.
 

@@ -8,7 +8,7 @@ In financing any forest development road pursuant to section 535 of this title, 
 
 (1) Whenever the Secretary of Agriculture makes a determination that a forest development road referred to in subsection (a) shall be constructed or paid for, in whole or in part, by a purchaser of national forest timber or other forest products, the Secretary shall include notice of the determination in the notice of sale of the timber or other forest products. The notice of sale shall contain, or announce the availability of, sufficient information related to the road described in the notice to permit a prospective bidder on the sale to calculate the likely cost that would be incurred by the bidder to construct or finance the construction of the road so that the bidder may reflect such cost in the bid.
 
-(2) If there is an increase or decrease in the cost of roads constructed by the timber purchaser, caused by variations in quantities, changes or modifications subsequent to the sale of timber made in accordance with applicable timber sale contract provisions, then an adjustment to the price paid for timber harvested by the purchaser shall be made. The adjustment shall be applied by the Secretary as soon as practicable after any such design change is implemented.
+(2) If there is an increase or decrease in the cost of roads constructed by the timber purchaser, caused by variations in quantities, changes or modifications subsequent to the sale of timber made in accordance with applicabletimber sale contract provisions, then an adjustment to the price paid for timber harvested by the purchaser shall be made. The adjustment shall be applied by the Secretary as soon as practicable after any such design change is implemented.
 
 #### (c) Special election by small business concerns
 
@@ -26,7 +26,7 @@ For any forest development road that is to be constructed or paid for by a purch
 
 #### (f) Treatment of road value
 
-For any forest development road that is constructed or paid for by a purchaser of national forest timber or other forest products, the estimated cost of the road construction, including subsequent design changes, shall be considered to be money received for purposes of the payments required to be made under section 500 ofthis title. To the extent that the appraised value of road construction determined under this subsection reflects funds contributed by the Secretary of Agriculture to build the road to a higher standard pursuant to subsection (e), the Secretary shall modify the appraisal of the road construction to exclude the effect of the Federal funds.
+For any forest development road that is constructed or paid for by a purchaser of national forest timber or other forest products, the estimated cost of the road construction, including subsequent design changes, shall be considered to be money received for purposes of the payments required to be made under section 500 of this title. To the extent that the appraised value of road construction determined under this subsection reflects funds contributed by the Secretary of Agriculture to build the road to a higher standard pursuant to subsection (e), the Secretary shall modify the appraisal of the road construction to exclude the effect of the Federal funds.
 
 #### (g) Effective date
 

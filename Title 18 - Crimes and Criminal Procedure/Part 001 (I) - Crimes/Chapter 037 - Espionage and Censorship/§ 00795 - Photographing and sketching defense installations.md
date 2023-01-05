@@ -36,7 +36,7 @@ AND WHEREAS section 797 of title 18 of the United States Code provides:
 
 NOW, THEREFORE, by virtue of the authority vested in me by the foregoing statutory provisions, and in the interests of national defense, I hereby define the following as vital military and naval installations or equipment requiring protection against the general dissemination of information relative thereto:
 
-1\. All military, naval, or air-force installations and equipment which are now classified, designated, or marked under the authority or at the direction of the President, the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force as "top secret", "secret", "confidential", or "restricted", and all military, naval, or air-force installations and equipment which may hereafter be so classified, designated, or marked with the approval or at the direction of the President, and located within:
+1\. All military, naval, or air-force installations and equipment which are now classified, designated, ormarked under the authority or at the direction of the President, the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, or the Secretary of the Air Force as "top secret", "secret", "confidential", or "restricted", and all military, naval, or air-force installations and equipment which may hereafter be so classified, designated, or marked with the approval or at the direction of the President, and located within:
 
 (a) Any military, naval, or air-force reservation, post, arsenal, proving ground, range, mine field, camp, base, airfield, fort, yard, station, district, or area.
 

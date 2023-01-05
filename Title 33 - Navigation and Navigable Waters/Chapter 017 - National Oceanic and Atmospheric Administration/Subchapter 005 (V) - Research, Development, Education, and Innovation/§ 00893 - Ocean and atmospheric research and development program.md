@@ -12,11 +12,11 @@ The Administrator shall implement programs and activities—
 
 &emsp;(2) to promote United States leadership in oceanic and atmospheric science and competitiveness in the applied uses of such knowledge, including for the development and expansion of economic opportunities; and
 
-&emsp;(3) to advance ocean, coastal, Great Lakes, and atmospheric research and development, including potentially transformational research, in collaboration with other relevant Federal agencies, academic institutions, the private sector, and nongovernmental programs, consistent with NOAA's mission to understand, observe, and model the Earth's atmosphere and biosphere, including the oceans, in an integrated manner.
+&emsp;(3) to advance ocean, coastal, Great Lakes, and atmospheric research and development, including potentially transformational research, in collaboration with other relevant Federal agencies, academic institutions, theprivate sector, and nongovernmental programs, consistent with NOAA's mission to understand, observe, and model the Earth's atmosphere and biosphere, including the oceans, in an integrated manner.
 
 #### (c) Report
 
-No later than 12 months after January 4, 2011, the Administrator, in consultation with the National Science Foundation or other such agencies with mature transformational research portfolios, shall develop and submit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science and Technology that describes NOAA's strategy for enhancing transformational research in its research and development portfolio to increase United Statescompetitiveness in oceanic and atmospheric science and technology. The report shall—
+No later than 12 months after January 4, 2011, the Administrator, in consultation with the National Science Foundation or other such agencies with mature transformational research portfolios, shall develop and submit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Science and Technology that describes NOAA's strategy for enhancing transformational research in its research and development portfolio to increase United States competitiveness in oceanic and atmospheric science and technology. The report shall—
 
 &emsp;(1) define "transformational research";
 

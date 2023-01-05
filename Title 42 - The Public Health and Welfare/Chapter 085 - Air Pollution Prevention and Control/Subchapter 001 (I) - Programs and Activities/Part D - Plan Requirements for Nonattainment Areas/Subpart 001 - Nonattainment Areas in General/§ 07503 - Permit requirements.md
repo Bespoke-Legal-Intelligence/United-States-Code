@@ -8,7 +8,7 @@ The permit program required by section 7502(b)(6) <sup>1</sup> of this title sh
 
 &emsp;&emsp;(A) by the time the source is to commence operation, sufficient offsetting emissions reductions have been obtained, such that total allowable emissions from existing sources in the region, from new or modified sources which are not major emitting facilities, and from the proposed source will be sufficiently less than total emissions from existing sources (as determined in accordance with the regulations under this paragraph) prior to the application for such permit to construct or modify so as to represent (when considered together with the plan provisions required under section 7502 of this title) reasonable further progress (as defined in section 7501 of this title); or
 
-&emsp;&emsp;(B) in the case of a new or modified major stationary source which is located in a zone (within the nonattainment area) identified by the Administrator, in consultation with the Secretary of Housing and Urban Development, as a zone to which economic development should be targeted, that emissions of such pollutant resulting from the proposednew or modified major stationary source will not cause or contribute to emissions levels which exceed the allowance permitted for such pollutant for such area from new or modified major stationary sources under section 7502(c) of this title;
+&emsp;&emsp;(B) in the case of a new or modified major stationary source which is located in a zone (within the nonattainment area) identified by the Administrator, in consultation with the Secretary of Housing and Urban Development, as a zone to which economic development should be targeted, that emissions of such pollutant resulting from the proposed new or modified major stationary source will not cause or contribute to emissions levels which exceed the allowance permitted for such pollutant for such area from new or modified major stationary sources under section 7502(c) of this title;
 
 &emsp;(2) the proposed source is required to comply with the lowest achievable emission rate;
 
@@ -66,7 +66,7 @@ Subsec. (a)(1)(A). Pub. L. 101–549, §102(c)(4), inserted "sufficient offsetti
 
 Subsec. (a)(1)(B). Pub. L. 101–549, §102(c)(5), inserted at beginning "in the case of a new or modified major stationary source which is located in a zone (within the nonattainment area) identified by the Administrator, in consultation with the Secretary of Housing and Urban Development, as a zone to which economic development should be targeted," and substituted "7502(c)" for "7502(b)".
 
-Subsec. (a)(4). Pub. L. 101–549, §102(c)(6), inserted at beginning "the Administrator has not determined that", substituted "not being adequately implemented" for "being carried out", and substituted "; and" for period at end.
+Subsec. (a)(4). Pub. L. 101–549, §102(c)(6), inserted at beginning "the Administrator has not determinedthat", substituted "not being adequately implemented" for "being carried out", and substituted "; and" for period at end.
 
 Subsec. (a)(5). Pub. L. 101–549, §102(c)(7), added par. (5).
 

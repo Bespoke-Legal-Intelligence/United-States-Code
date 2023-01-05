@@ -10,3 +10,4 @@
 - [Part C - Miscellaneous Authorities](Part%20C%20-%20Miscellaneous%20Authorities/README.md)
 - [Part D - Prevention of Fraud, Waste, and Abuse](Part%20D%20-%20Prevention%20of%20Fraud%2C%20Waste%2C%20and%20Abuse/README.md)
 - [Part E - Authorization of Appropriations](Part%20E%20-%20Authorization%20of%20Appropriations/README.md)
+- [Part F - Global Catastrophic Risk Management](Part%20F%20-%20Global%20Catastrophic%20Risk%20Management/README.md)

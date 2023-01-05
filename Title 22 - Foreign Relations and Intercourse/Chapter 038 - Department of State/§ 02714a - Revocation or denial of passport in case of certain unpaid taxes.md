@@ -48,7 +48,7 @@
 
 #### (B) Emergency and humanitarian situations
 
-&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary of State may issue a passport, in emergency circumstances or for humanitarian reasons, to an individual described in subparagraph (A).
+&emsp;&emsp;Notwithstanding subparagraph (A), the Secretary of State may issue a passport, inemergency circumstances or for humanitarian reasons, to an individual described in subparagraph (A).
 
 #### (2) Revocation
 

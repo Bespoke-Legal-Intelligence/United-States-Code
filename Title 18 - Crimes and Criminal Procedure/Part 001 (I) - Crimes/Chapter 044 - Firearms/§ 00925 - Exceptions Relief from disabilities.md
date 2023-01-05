@@ -20,7 +20,7 @@
 
 &emsp;(2) is an unserviceable firearm, other than a machinegun as defined in section 5845(b) of the Internal Revenue Code of 1986 (not readily restorable to firing condition), imported or brought in as a curio or museum piece;
 
-&emsp;(3) is of a type that does not fall within the definition of a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 and is generally recognized as particularly suitable for or readily adaptable to sporting purposes, excluding surplus military firearms, except in any case where the Attorney General has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrel of such firearm which would be prohibited if assembled; or
+&emsp;(3) is of a type that does not fall within the definition of a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 and is generally recognized as particularly suitable for or readily adaptable to sporting purposes, excluding surplus military firearms, except in any case where the Attorney General has not authorized the importation of the firearm pursuant to this paragraph, it shall be unlawful to import any frame, receiver, or barrelof such firearm which would be prohibited if assembled; or
 
 &emsp;(4) was previously taken out of the United States or a possession by the person who is bringing in the firearm or ammunition.
 
@@ -38,7 +38,7 @@
 
 #### Amendment of Section
 
-<i>Pub. L. 100–649, §2(f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112</i><i>Stat. 2681–480, 2681–528; Pub. L. 108–174, §1(1), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, §1, Dec. 9, 2013, 127 Stat. 656, provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking "and provisions relating to firearms subject to the prohibitions of section 922(p)" in par. (1), striking ", except for provisions relating to firearms subject to the prohibitions of section 922(p)," in par. (2), and striking "except for provisions relating to firearms subject to the prohibitions of section 922(p)," in pars. (3) and (4) and subsection (f) of this section is repealed.</i>
+<i>Pub. L. 100–649, §2(f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, §101(h) \[title VI, §649\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, §1(1), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, §1, Dec. 9, 2013, 127 Stat. 656, provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking "and provisions relating to firearms subject to the prohibitions of section 922(p)" in par. (1), striking ", except for provisions relating to firearms subject to the prohibitions of section 922(p)," in par. (2), and striking "except for provisions relating to firearms subject to the prohibitions of section 922(p)," in pars. (3) and (4) and subsection (f) of this section is repealed.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -110,7 +110,7 @@ Pub. L. 104–106, div. A, title XVI, §1624(c), Feb. 10, 1996, 110 Stat. 522, p
 
 #### Effective Date of 1988 Amendment; Sunset Provision
 
-Amendment by section 2(c) of Pub. L. 100–649 effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(C), (E) effective 35 years after such effective date, see section 2(f) of Pub. L. 100–649, asamended, set out as a note under section 922 of this title.
+Amendment by section 2(c) of Pub. L. 100–649 effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(C), (E) effective 35 years after such effective date, see section 2(f) of Pub. L. 100–649, as amended, set out as a note under section 922 of this title.
 
 #### Effective Date of 1986 Amendment
 

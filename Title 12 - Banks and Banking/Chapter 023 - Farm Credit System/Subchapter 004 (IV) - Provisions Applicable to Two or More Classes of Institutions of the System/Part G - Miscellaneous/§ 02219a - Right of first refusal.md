@@ -30,7 +30,7 @@ Agricultural real estate that is acquired by an institution of the System as a r
 
 #### (A) Duties of institution
 
-&emsp;&emsp;An institution of the System that rejects an offer from the previous owner to purchasethe property at a price less than the appraised value may not sell the property to any other person—
+&emsp;&emsp;An institution of the System that rejects an offer from the previous owner to purchase the property at a price less than the appraised value may not sell the property to any other person—
 
 &emsp;&emsp;&emsp;(i) at a price equal to, or less than, that offered by the previous owner; or
 
@@ -112,7 +112,7 @@ Notwithstanding any other provision of this section, a System institution shall 
 
 #### (g) Mailing of notice
 
-Notwithstanding any other provision of this section, each certified mail notice requirementin this section shall be fully satisfied by mailing one certified mail notice to the last known address of the previous owner.
+Notwithstanding any other provision of this section, each certified mail notice requirement in this section shall be fully satisfied by mailing one certified mail notice to the last known address of the previous owner.
 
 #### (h) State laws
 

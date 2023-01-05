@@ -20,7 +20,7 @@ Program Required; Covered Conflicts.—The Secretary of Defense shall implement 
 
 Implementation.—(1) The Secretary of Defense shall implement the program within the Department of Defense through the designated Agency Director.
 
-(2)(A) The Secretary shall assign or detail to the designated Defense Agency on a full-time basis a senior medical examiner from the personnel of the Armed Forces Medical ExaminerSystem. The primary duties of the medical examiner so assigned or detailed shall include the identification of remains in support of the function of the designated Agency Director to account for unaccounted for persons covered by subsection (a).
+(2)(A) The Secretary shall assign or detail to the designated Defense Agency on a full-time basis a senior medical examiner from the personnel of the Armed Forces Medical Examiner System. The primary duties of the medical examiner so assigned or detailed shall include the identification of remains in support of the function of the designated Agency Director to account for unaccounted for persons covered by subsection (a).
 
 (B) In carrying out functions under this chapter, the medical examiner so assigned or detailed shall report to the designated Agency Director.
 
@@ -66,7 +66,7 @@ Review of Status Requirements.—(1) If new information (as described in paragra
 
 &emsp;(A) is found or received after November 18, 1997, by a United States intelligence agency, by a Department of Defense agency, or by a person specified in section 1504(g) of this title; or
 
-&emsp;(B) is identified after November 18, 1997, in records of the United States as information that could be relevant to the case of one or more unaccounted for persons covered by subsection (a).
+&emsp;(B) is identified after November 18, 1997, in records of the United States as information that could be relevant to the case of one ormore unaccounted for persons covered by subsection (a).
 
 (f)
 

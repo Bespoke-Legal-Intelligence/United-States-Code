@@ -32,7 +32,7 @@ Pub. L. 101–647, title XXXVI, §3631, Nov. 29, 1990, 104 Stat. 4966, provided 
 
 &emsp;"(B) a judgment for a debt.
 
-"(2) All notices, writs, orders, and judgments in effect in such actions shall continue in effect until superseded or modified in an action under chapter 176 of title 28 of the United States Code, as added by title I of this Act \[subtitle A of this title\].
+"(2) All notices, writs, orders, and judgments in effect in such actions shall continue in effect until supersededor modified in an action under chapter 176 of title 28 of the United States Code, as added by title I of this Act \[subtitle A of this title\].
 
 "(3) For purposes of this subsection—
 

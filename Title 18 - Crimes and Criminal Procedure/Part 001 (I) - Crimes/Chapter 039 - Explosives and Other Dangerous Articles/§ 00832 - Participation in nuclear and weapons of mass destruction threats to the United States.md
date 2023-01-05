@@ -1,6 +1,6 @@
 ### §832. Participation in nuclear and weapons of mass destruction threats to the United States
 
-(a) Whoever, within the United States or subject to the jurisdiction of the United States, willfully participates in or knowingly provides material support or resources (as defined in section 2339A) to a nuclear weapons program or other weapons of mass destruction program of a foreign terrorist power, or attempts or conspires to do so, shall be imprisoned for not more than 20 years.
+(a) Whoever, within the United States or subject to the jurisdiction of the United States,willfully participates in or knowingly provides material support or resources (as defined in section 2339A) to a nuclear weapons program or other weapons of mass destruction program of a foreign terrorist power, or attempts or conspires to do so, shall be imprisoned for not more than 20 years.
 
 (b) There is extraterritorial Federal jurisdiction over an offense under this section.
 

@@ -18,5 +18,5 @@ Pub. L. 100–203, title I, §1506(c), Dec. 22, 1987, 101 Stat. 1330–29, provi
 
 #### Operating Expenses
 
-Pub. L. 100–203, title I, §1506(b), Dec. 22, 1987, 101 Stat. 1330–29, provided that: "No funds may be appropriatedfor operating expenses of the Commodity Credit Corporation except as authorized under section 2 of Public Law 87–155 \[15 U.S.C. 713a–11\] to reimburse the Corporation for net realized losses."
+Pub. L. 100–203, title I, §1506(b), Dec. 22, 1987, 101 Stat. 1330–29, provided that: "No funds may be appropriated for operating expenses of the Commodity Credit Corporation except as authorized under section 2 of Public Law 87–155 \[15 U.S.C. 713a–11\] to reimburse the Corporation for net realized losses."
 

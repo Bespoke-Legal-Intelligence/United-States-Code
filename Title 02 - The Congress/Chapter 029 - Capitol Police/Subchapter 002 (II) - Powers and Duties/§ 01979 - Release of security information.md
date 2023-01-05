@@ -4,7 +4,7 @@
 
 In this section, the term "security information" means information that—
 
-&emsp;(1) is sensitive with respect to the policing, protection, physical security, intelligence, counterterrorism actions, or emergency preparedness and response relating to Congress, any statutory protectee of the Capitol Police, and the Capitol buildings and grounds; and
+&emsp;(1) is sensitive with respect to the policing, protection, physical security, intelligence, counterterrorism actions, or emergency preparedness and response relating to Congress,any statutory protectee of the Capitol Police, and the Capitol buildings and grounds; and
 
 &emsp;(2) is obtained by, on behalf of, or concerning the Capitol Police Board, the Capitol Police, or any incident command relating to emergency response.
 
@@ -34,7 +34,7 @@ This section shall take effect on December 8, 2004, and apply with respect to—
 
 #### References in Text
 
-This Act, referred to in subsec. (e)(1), is div. G of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3166, as amended, known as the Legislative Branch Appropriations Act, 2005, which was enacted Dec. 8, 2004.
+This Act, referred to in subsec. (e)(1), is div. G of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3166, known as the Legislative Branch Appropriations Act, 2005, which was enacted Dec. 8, 2004.
 
 #### Codification
 

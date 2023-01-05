@@ -40,7 +40,7 @@ For the purpose of carrying out activities under this section to evaluate and ad
 
 &emsp;&emsp;&emsp;(vii) For fiscal year 2013, $54,105,000.
 
-&emsp;&emsp;(B) For grants used for supplemental support education and outreach services to increase the number of eligible racial and ethnic minorities who have access to treatment through the program under section 300ff–26 of this title for therapeutics, the Secretary shall, of the amount appropriated for a fiscal year under subsection (a), reserve the following, as applicable:
+&emsp;&emsp;(B) For grants used for supplemental support education and outreach services to increase the number of eligible racial and ethnic minorities who have access to treatment through the program under section 300ff–26 of this title for therapeutics, the Secretaryshall, of the amount appropriated for a fiscal year under subsection (a), reserve the following, as applicable:
 
 &emsp;&emsp;&emsp;(i) For fiscal year 2007, $7,000,000.
 

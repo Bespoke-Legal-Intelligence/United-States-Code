@@ -194,7 +194,7 @@ Subsec. (g). Pub. L. 116–260, §273(a)(3), added subsec. (g) and struck out fo
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. N, title II, §273(c), Dec. 27, 2020, 134 Stat. 1978, provided that: "The amendments madeby this section \[amending this section and provisions set out as a note under this section\] shall take effect as if included in section 2201 of the CARES Act \[Pub. L. 116–136, enacting this section, amending sections 6211 and 6213 of this title and section 1324 of Title 31, Money and Finance, and enacting provisions set out as notes under this section\]."
+Pub. L. 116–260, div. N, title II, §273(c), Dec. 27, 2020, 134 Stat. 1978, provided that: "The amendments made by this section \[amending this section and provisions set out as a note under this section\] shall take effect as if included in section 2201 of the CARES Act \[Pub. L. 116–136, enacting this section, amending sections 6211 and 6213 of this title and section 1324 of Title 31, Money and Finance, and enacting provisions set out as notes under this section\]."
 
 #### Treatment of Possessions
 
@@ -298,7 +298,7 @@ In general.—The credit allowed by subsection (a) shall be treated as allowed b
 
 &emsp;&emsp;"(B)
 
-Appropriations.—For purposes of section 1324(b)(2) of title 31, United States Code, the credit allowed by subsection (a) shall be treated in the same manner \[as\] a refund from the credit allowedunder \[former\] section 36A of the Internal Revenue Code of 1986 (as added by this Act).
+Appropriations.—For purposes of section 1324(b)(2) of title 31, United States Code, the credit allowed by subsection (a) shall be treated in the same manner \[as\] a refund from the credit allowed under \[former\] section 36A of the Internal Revenue Code of 1986 (as added by this Act).
 
 &emsp;"(2)
 

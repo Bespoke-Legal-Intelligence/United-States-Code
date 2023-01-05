@@ -22,7 +22,7 @@ There is established the United States Commission on International Religious Fre
 
 #### (2) Selection
 
-&emsp;Members of the Commission shall be selected among distinguished individuals noted for their knowledge and experience in fields relevant to the issue of international religious freedom, including foreign affairs, direct experience abroad, human rights, and international law.
+&emsp;Members of the Commission shall be selected among distinguished individuals noted for their knowledge and experience in fields relevant to the issue of international religiousfreedom, including foreign affairs, direct experience abroad, human rights, and international law.
 
 #### (3) Time of appointment
 
@@ -86,7 +86,7 @@ The Administrator of General Services shall provide to the Commission on a reimb
 
 #### (i) Funding
 
-Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission. Members of the Commission shall comply with the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the "Federal Travel Regulation") and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.
+Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees ofagencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission. Members of the Commission shall comply with the requirements set forth in chapters 300 through 304 of title 41, Code of Federal Regulations (commonly known as the "Federal Travel Regulation") and the Department of State Standardized Regulations governing authorized travel at government expense, including regulations concerning the mode of travel, lodging and per diem expenditures, reimbursement payments, and expense reporting and documentation requirements.
 
 #### (j) Removal
 

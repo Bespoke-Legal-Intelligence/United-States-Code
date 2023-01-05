@@ -16,7 +16,7 @@ Covered Health Care Services.—Health care services described in this subsectio
 
 (c)
 
-Exception Based on Medical Necessity.—Pursuant to such regulations as the Secretary shall prescribe to carry out this section, the Secretary may furnish more than seven days of health care services described in subsection (b), and may furnish transportation necessary to receive such services, to a newborn child based on medical necessity if the child is in need of additional care, including if the child has been discharged or released from a hospital and requires readmittance to ensure the health and welfare of the child.
+Exception Based on Medical Necessity.—Pursuant to such regulations as the Secretary shall prescribe to carry out this section, the Secretary may furnish more than seven days of health care services described in subsection (b), and may furnish transportation necessary to receive such services, to a newborn child based onmedical necessity if the child is in need of additional care, including if the child has been discharged or released from a hospital and requires readmittance to ensure the health and welfare of the child.
 
 (d)
 
@@ -40,7 +40,7 @@ Reimbursement or Payment for Health Care Services or Transportation.—(1) Pursu
 
 (3) In this subsection, the term "covered entity" means any individual, transportation carrier, organization, or other entity that furnished or paid for health care services or transportation under this section.
 
-(Added Pub. L. 111–163, title II, §206(a), May 5, 2010, 124 Stat. 1145; amended Pub. L. 116–283, div.H, title XCI, §9102, Jan. 1, 2021, 134 Stat. 4781; Pub. L. 116–315, title III, §3006(a), Jan. 5, 2021, 134 Stat. 4994.)
+(Added Pub. L. 111–163, title II, §206(a), May 5, 2010, 124 Stat. 1145; amended Pub. L. 116–283, div. H, title XCI, §9102, Jan. 1, 2021, 134 Stat. 4781; Pub. L. 116–315, title III, §3006(a), Jan. 5, 2021, 134 Stat. 4994.)
 
 #### <b>Editorial Notes</b>
 

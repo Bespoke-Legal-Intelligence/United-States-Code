@@ -40,7 +40,7 @@
 
 (3) In selecting among applicants for grants under subsection (a), the Secretary shall give priority to private entities that have experience in providing the services described in such subsection.
 
-(Pub. L. 93–415, title III, §311, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(1), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(c), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §651, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(a), (b), Nov. 18, 1988, 102 Stat. 4452; Pub. L. 102–586, §3(b), Nov. 4, 1992, 106 Stat. 5018; Pub. L. 106–71, §3(b), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–96, title I, §§103, 104, Oct. 10, 2003, 117 Stat. 1168; Pub. L. 110–378, §3(a), Oct. 8, 2008, 122 Stat. 4068.)
+(Pub. L. 93–415, title III, §311, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(1), Oct. 3, 1977, 91Stat. 1058; Pub. L. 96–509, §18(c), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §651, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(a), (b), Nov. 18, 1988, 102 Stat. 4452; Pub. L. 102–586, §3(b), Nov. 4, 1992, 106 Stat. 5018; Pub. L. 106–71, §3(b), Oct. 12, 1999, 113 Stat. 1035; Pub. L. 108–96, title I, §§103, 104, Oct. 10, 2003, 117 Stat. 1168; Pub. L. 110–378, §3(a), Oct. 8, 2008, 122 Stat. 4068.)
 
 #### <b>Editorial Notes</b>
 
@@ -72,7 +72,7 @@ Subsec. (b)(2). Pub. L. 102–586, §3(b)(2)(A), substituted "$100,000" for "$75
 
 Subsec. (b)(3). Pub. L. 102–586, §3(b)(2)(B), substituted "1992" for "1988" in two places.
 
-Subsecs. (c), (d). Pub. L. 102–586, §3(b)(3), added subsecs. (c) and (d) and struck out former subsec. (c) whichread as follows: "The Secretary is authorized to provide on-the-job training to local runaway and homeless youth center personnel and coordinated networks of local law enforcement, social service, and welfare personnel to assist such personnel in recognizing and providing for learning disabled and other handicapped juveniles."
+Subsecs. (c), (d). Pub. L. 102–586, §3(b)(3), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: "The Secretary is authorized to provide on-the-job training to local runaway and homeless youth center personnel and coordinated networks of local law enforcement, social service, and welfare personnel to assist such personnel in recognizing and providing for learning disabled and other handicapped juveniles."
 
 <b>1988</b>—Pub. L. 100–690, §7271(a), substituted "Authority to make grants" for "Grants and technical assistance" in section catchline.
 

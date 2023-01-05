@@ -74,7 +74,7 @@ In any judicial proceeding in which review is sought of a determination under th
 
 &emsp;(C) the major legal interpretations and policy considerations underlying the proposed rule.
 
-> The statement shall also set forth or summarize and provide a reference to any pertinent findings, recommendations, and comments by the Scientific Review Committee established under section 7409(d) of this title and the National Academy of Sciences, and, if the proposal differs in any important respect from any of these recommendations, an explanation of the reasons for such differences. All data, information, and documents referred to in this paragraph on which the proposed rule relies shall be included in the docket on the date of publication of the proposed rule.
+> The statement shall also set forth or summarize and provide a reference to any pertinent findings, recommendations, and comments by the Scientific Review Committee established under section 7409(d) of this title and the National Academy of Sciences, and, if the proposal differs in any important respect from any of these recommendations, an explanation of the reasons for such differences. All data, information, and documents referred to in this paragraph on whichthe proposed rule relies shall be included in the docket on the date of publication of the proposed rule.
 
 (4)(A) The rulemaking docket required under paragraph (2) shall be open for inspection by the public at reasonable times specified in the notice of proposed rulemaking. Any person may copy documents contained in the docket. The Administrator shall provide copying facilities which may be used at the expense of the person seeking copies, but the Administrator may waive or reduce such expenses in such instances as the public interest requires. Any person may request copies by mail if the person pays the expenses, including personnel costs to do the copying.
 
@@ -222,7 +222,7 @@ Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise express
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### Pending Actions and Proceedings
 

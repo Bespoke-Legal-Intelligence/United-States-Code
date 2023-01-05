@@ -74,7 +74,7 @@ If a corporation receives a distribution from a regulated investment company or 
 
 Subsec. (c). Pub. L. 105–277, §3001(a), added subsec. (c).
 
-<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1804(e)(6)(A), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: "the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and the owner of at least 80 percent of the total number of shares of all other classes of stock (except nonvoting stock which is limited and preferred as to dividends); and either".
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–514, §1804(e)(6)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the corporation receiving such property was, on the date of the adoption of the plan of liquidation, and has continued to be at all times until the receipt of the property, the owner of stock (in such other corporation) possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and the owner of at least 80 percent of the total number of shares of all other classes of stock (except nonvoting stock which is limited and preferred as to dividends); and either".
 
 Subsec. (c). Pub. L. 99–514, §631(e)(2), struck out subsec. (c) containing special rule for indebtedness of subsidiary to parent in relation to complete liquidations of subsidiaries.
 

@@ -1,10 +1,10 @@
-### §1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam
+### §1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in certain locations
 
 (a)(1) For the purposes of section 1110 of this title, and subject to section 1113 of this title—
 
-&emsp;(A) a disease specified in paragraph (2) of this subsection becoming manifest as specified in that paragraph in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975; and
+&emsp;(A) a disease specified in paragraph (2) of this subsection becoming manifest as specified in that paragraph in a veteran who performed covered service; and
 
-&emsp;(B) each additional disease (if any) that (i) the Secretary determines in regulations prescribed under this section warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent, and (ii) becomes manifest within the period (if any) prescribed in such regulations in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and while so serving was exposed to that herbicide agent,
+&emsp;(B) each additional disease (if any) that (i) the Secretary determines in regulations prescribed under this section warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent, and (ii) becomes manifest within the period (if any) prescribed in such regulations in a veteran who performed covered service, and while so serving was exposed to that herbicide agent,
 
 > shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of evidence of such disease during the period of such service.
 
@@ -14,11 +14,11 @@
 
 &emsp;(B) Each soft-tissue sarcoma becoming manifest to a degree of disability of 10 percent or more other than osteosarcoma, chondrosarcoma, Kaposi's sarcoma, or mesothelioma.
 
-&emsp;(C) Chloracne or another acneform disease consistent with chloracne becoming manifest to a degree of disability of 10 percent or more within one year after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
+&emsp;(C) Chloracne or another acneform disease consistent with chloracne becoming manifest to a degree of disability of 10 percent or more within one year after the last date on which the veteran performed covered service.
 
 &emsp;(D) Hodgkin's disease becoming manifest to a degree of disability of 10 percent or more.
 
-&emsp;(E) Porphyria cutanea tarda becoming manifest to a degree of disability of 10 percent or more within a year after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
+&emsp;(E) Porphyria cutanea tarda becoming manifest to a degree of disability of 10 percent or more within a year after the last date on which the veteran performed covered service.
 
 &emsp;(F) Respiratory cancers (cancer of the lung, bronchus, larynx, or trachea) becoming manifest to a degree of disability of 10 percent or more.
 
@@ -32,39 +32,61 @@
 
 &emsp;(K) Hypothyroidism.
 
+&emsp;(L) Monoclonal gammopathy of undetermined significance.
+
+&emsp;(M) Hypertension.
+
 (3) For purposes of this section, the term "herbicide agent" means a chemical in an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
-(b)(1) Whenever the Secretary determines, on the basis of sound medical and scientific evidence, that a positive association exists between (A) the exposure of humans to an herbicide agent, and (B) the occurrence of a disease in humans, the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for that disease for the purposes of this section.
+(b) The Secretary shall ensure that any determination made on or after the date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 regarding a presumption of service connection based on exposure to an herbicide agent under this section is made pursuant to subchapter VII of this chapter, including with respect to assessing reports received by the Secretary from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991 (Public Law 102–4).
 
-(2) In making determinations for the purpose of this subsection, the Secretary shall take into account (A) reports received by the Secretary from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991, and (B) all other sound medical and scientific information and analyses available to the Secretary. In evaluating any study for the purpose of making such determinations, the Secretary shall take into consideration whether the results are statistically significant, are capable of replication, and withstand peer review.
+(c) For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who performed covered service,<sup>1</sup> shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
 
-(3) An association between the occurrence of a disease in humans and exposure to an herbicide agent shall be considered to be positive for the purposes of this section if the credible evidence for the association is equal to or outweighs the credible evidence against the association.
+(d) In this section, the term "covered service" means active military, naval, air, or space service—
 
-(c)(1)(A) Not later than 60 days after the date on which the Secretary receives a report from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991, the Secretary shall determine whether a presumption of service connection is warranted for each disease covered by the report. If the Secretary determines that such a presumption is warranted, the Secretary, not later than 60 days after making the determination, shall issue proposed regulations setting forth the Secretary's determination.
+&emsp;(1) performed in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975;
 
-(B) If the Secretary determines that a presumption of service connection is not warranted, the Secretary, not later than 60 days after making the determination, shall publish in the Federal Register a notice of that determination. The notice shall include an explanation of the scientific basis for that determination. If the disease already is included in regulations providing for a presumption of service connection, the Secretary, not later than 60 days after publication of the notice of a determination that the presumption is not warranted, shall issue proposed regulations removing the presumption for the disease.
+&emsp;(2) performed in Thailand at any United States or Royal Thai base during the period beginning on January 9, 1962, and ending on June 30, 1976, without regard to where on thebase the veteran was located or what military job specialty the veteran performed;
 
-(2) Not later than 90 days after the date on which the Secretary issues any proposed regulations under this subsection, the Secretary shall issue final regulations. Such regulations shall be effective on the date of issuance.
+&emsp;(3) performed in Laos during the period beginning on December 1, 1965, and ending on September 30, 1969;
 
-(d) Whenever a disease is removed from regulations prescribed under this section—
+&emsp;(4) performed in Cambodia at Mimot or Krek, Kampong Cham Province during the period beginning on April 16, 1969, and ending on April 30, 1969; or
 
-&emsp;(1) a veteran who was awarded compensation for such disease on the basis of the presumption provided in subsection (a) before the effective date of the removal shall continue to be entitled to receive compensation on that basis; and
+&emsp;(5) performed on Guam or American Samoa, or in the territorial waters thereof, during the period beginning on January 9, 1962, and ending on July 31, 1980, or served on Johnston Atoll or on a ship that called at Johnston Atoll during the period beginning on January 1, 1972, and ending on September 30, 1977.
 
-&emsp;(2) a survivor of a veteran who was awarded dependency and indemnity compensation for the death of a veteran resulting from such disease on the basis of such presumption shall continue to be entitled to receive dependency and indemnity compensation on such basis.
-
-(e) Subsections (b) through (d) shall cease to be effective on September 30, 2015.
-
-(f) For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
-
-(Added Pub. L. 102–4, §2(a)(1), Feb. 6, 1991, 105 Stat. 11, §316; renumbered §1116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §505, title XII, §1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685; Pub. L. 104–275, title V, §505(b), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title IV, §404(a)(1), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–103, title II, §201(a)(1)(A), (b)–(c)(2)(A), (d)(1), Dec. 27, 2001, 115 Stat. 987, 988; Pub. L. 116–283, div. H, title XCI, §9109, Jan. 1, 2021, 134 Stat. 4785.)
+(Added Pub. L. 102–4, §2(a)(1), Feb. 6, 1991, 105 Stat. 11, §316; renumbered §1116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §505, title XII, §1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685; Pub. L. 104–275, title V, §505(b), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title IV, §404(a)(1), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–103, title II, §201(a)(1)(A), (b)–(c)(2)(A), (d)(1), Dec. 27, 2001, 115 Stat. 987, 988; Pub. L. 116–283, div. H, title XCI, §9109, Jan. 1, 2021, 134 Stat. 4785; Pub. L. 117–168, title II, §202(d)(1), title IV, §§403(b), (d), 404(b), (c), Aug. 10, 2022, 136 Stat. 1775, 1780–1782.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 3 of the Agent Orange Act of 1991, referred to in subsecs. (b)(2) and (c)(1)(A), is section 3 of Pub. L. 102–4, which is set out below.
+The date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, referred to in subsec. (b), is the date of enactment of Pub. L. 117–168, which was approved Aug. 10, 2022.
+
+Section 3 of the Agent Orange Act of 1991, referred to in subsec. (b), is section 3 of Pub. L. 102–4, which is set out as a note below.
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–168, §403(d), substituted "certain locations" for "the Republic of Vietnam" in section catchline.
+
+Subsec. (a)(1). Pub. L. 117–168, §403(b)(1), which directed substitution of "performed covered service" for ", during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975", wherever appearing in section, was executed by making the substitution for ", during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" in subpars. (A) and (B) to reflect the probable intent of Congress.
+
+Subsec. (a)(2)(C), (E). Pub. L. 117–168, §403(b)(2), which directed substitution of "performed covered service" for "performed active military, naval, air, or space service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" wherever appearing in section, was executed by making the substitution for "performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" to reflect the probable intent of Congress.
+
+Subsec. (a)(2)(L). Pub. L. 117–168, §404(b), added subpar. (L).
+
+Subsec. (a)(2)(M). Pub. L. 117–168, §404(c), added subpar. (M).
+
+Subsec. (b). Pub. L. 117–168, §202(d)(1)(A), (B), added subsec. (b) and struck out former subsec. (b) which required the Secretary to prescribe regulations based on determination of a positive association between the occurrence of a disease in humans and exposure to an herbicide agent.
+
+Subsec. (c). Pub. L. 117–168, §403(b)(1), which directed substitution of "performed covered service" for ", during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975", wherever appearing in section, was executed by making the substitution for ", during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975" to reflect the probable intent of Congress.
+
+Pub. L. 117–168, §202(d)(1)(A), (C), redesignated subsec. (f) as (c) and struck out former subsec. (c) which related to determinations of presumption of service connection between diseases and exposure to herbicide agents and issuance of regulations based on such determinations.
+
+Subsec. (d). Pub. L. 117–168, §§202(d)(1)(A), 403(b)(3), added subsec. (d) and struck out former subsec. (d) which provided for continuation of compensation if a disease was determined no longer to be presumed as service connected.
+
+Subsec. (e). Pub. L. 117–168, §202(d)(1)(A), struck out subsec. (e). Text read as follows: "Subsections (b) through (d) shall cease to be effective on September 30, 2015."
+
+Subsec. (f). Pub. L. 117–168, §202(d)(1)(C), redesignated subsec. (f) as (c).
 
 <b>2021</b>—Subsec. (a)(2)(I) to (K). Pub. L. 116–283 added subpars. (I) to (K).
 
@@ -102,6 +124,78 @@ Subsec. (a)(1). Pub. L. 102–83, §5(c)(1), substituted "1110" for "310" and "1
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–168, title IV, §403(e), Aug. 10, 2022, 136 Stat. 1781, provided that: "The amendments made by this section \[amending this section and section 1710 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2022\] and shall apply as follows:
+
+&emsp;"(1) On the date of the enactment of this Act for claimants for dependency and indemnity compensation under chapter 13 of title 38, United States Code, and for veterans whom the Secretary of Veterans Affairs determines are—
+
+&emsp;&emsp;"(A) terminally ill;
+
+&emsp;&emsp;"(B) homeless;
+
+&emsp;&emsp;"(C) under extreme financial hardship;
+
+&emsp;&emsp;"(D) more than 85 years old; or
+
+&emsp;&emsp;"(E) capable of demonstrating other sufficient cause.
+
+&emsp;"(2) On October 1, 2022, for everyone not described in paragraph (1)."
+
+Pub. L. 117–168, title IV, §404(d), Aug. 10, 2022, 136 Stat. 1782, provided that:
+
+"(1)
+
+Monoclonal gammopathy of undetermined significance.—
+
+&emsp;"(A)
+
+In general.—The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2022\] and shall apply as follows:
+
+&emsp;&emsp;"(i) On the date of the enactment of this Act for claimants for dependency and indemnity compensation under chapter 13 of title 38, United States Code, and for veterans whom the Secretary of Veterans Affairs determines are—
+
+&emsp;&emsp;&emsp;"(I) terminally ill;
+
+&emsp;&emsp;&emsp;"(II) homeless;
+
+&emsp;&emsp;&emsp;"(III) under extreme financial hardship;
+
+&emsp;&emsp;&emsp;"(IV) more than 85 years old; or
+
+&emsp;&emsp;&emsp;"(V) capable of demonstrating other sufficient cause.
+
+&emsp;&emsp;"(ii) On October 1, 2022, for everyone not described in clause (i).
+
+&emsp;"(B)
+
+Retroactive application.—Notwithstanding any Federal court decisions or settlements in effect on the day before the date of the enactment of this Act, the Secretary of Veterans Affairs shall award retroactive claims for a condition under section 1116(a)(2)(L) of title 38, United States Code, as added by subsection (b) of this section, only to claimants for dependency and indemnity compensation under chapter 13 of such title described in subparagraph (A)(i) of this paragraph.
+
+"(2)
+
+Hypertension.—
+
+&emsp;"(A)
+
+In general.—The amendment made by subsection (c) \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2022\] and shall apply as follows:
+
+&emsp;&emsp;"(i) On the date of the enactment of this Act for claimants for dependency and indemnity compensation under chapter 13 of title 38, United States Code, and for veterans whom the Secretary of Veterans Affairs determines are—
+
+&emsp;&emsp;&emsp;"(I) terminally ill;
+
+&emsp;&emsp;&emsp;"(II) homeless;
+
+&emsp;&emsp;&emsp;"(III) under extreme financial hardship;
+
+&emsp;&emsp;&emsp;"(IV) more than 85 years old; or
+
+&emsp;&emsp;&emsp;"(V) capable of demonstrating other sufficient cause.
+
+&emsp;&emsp;"(ii) On October 1, 2026, for everyone not described in subparagraph (A).
+
+&emsp;"(B)
+
+Retroactive application.—Notwithstanding any Federal court decisions or settlements in effect on the day before the date of the enactment of this Act, the Secretary of Veterans Affairs shall award retroactive claims for a condition under section 1116(a)(2)(M) of title 38, United States Code, as added by subsection (c) of this section, only to claimants for dependency and indemnity compensation under chapter 13 of such title described in subparagraph (A)(i) of this paragraph."
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–103, title II, §201(a)(1)(B), Dec. 27, 2001, 115 Stat. 987, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect January 1, 2002."
@@ -132,7 +226,7 @@ Elements.—The report required by subsection (a) shall include the following:
 
 &emsp;"(3) A description of the expected effect of repealing the manifestation period from such subparagraphs, including the expected effect on the number of claims for benefits the Department will receive, an estimate of the cost to the Department of such repeal, and a review of the scientific evidence regarding such repeal.
 
-&emsp;"(4) A review of all claims submitted to the Secretary for compensation under chapter 11 of such title that are associated with a disease described in subsection (a)(2), including the type of proof presented to establish a service connection for the manifestation of the disease based on exposure to a herbicide agent.
+&emsp;"(4) A review of all claims submitted to the Secretary for compensation under chapter 11 of such title that are associated with a disease described insubsection (a)(2), including the type of proof presented to establish a service connection for the manifestation of the disease based on exposure to a herbicide agent.
 
 &emsp;"(5) Recommendations on how the Department can better adjudicate claims for benefits, including compensation, submitted to the Department that are associated with a disease described in paragraph (2) of subsection (a) for veterans described in paragraph (1) of such subsection.
 
@@ -258,7 +352,7 @@ Certification.—
 
 &emsp;"(1)
 
-In general.—Not later than 90 days after receiving the results of the assessment and determination under subsection (c), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a certification of the understanding of the Secretary, based on such results and determination, regarding the feasibility of conducting further research regarding health conditions of descendants of veterans with toxic exposure that is expressed by such results and determination.
+In general.—Not later than 90 days after receiving the results of the assessment and determination under subsection (c), the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the Houseof Representatives a certification of the understanding of the Secretary, based on such results and determination, regarding the feasibility of conducting further research regarding health conditions of descendants of veterans with toxic exposure that is expressed by such results and determination.
 
 &emsp;"(2)
 
@@ -366,7 +460,7 @@ Compensation.—The Chair may fix the compensation of the executive director and
 
 "(a)
 
-In General.—Unless the Secretary of Veterans Affairs certifies under section 632(d) that the results of the assessment and determination under section 632(c) indicate that it is not feasible to conduct further research regarding health conditions of descendants of veterans with toxic exposure, not later than 1 year after receiving such results and determination, the Secretary shall (in consultation with the advisory board established under section 633 (in this section referred to as the 'Advisory Board')) enter into an agreement with one or more research entities identifiedunder section 632(b)(6) (excluding an entity of the Department of Veterans Affairs) to conduct research on health conditions of descendants of veterans with toxic exposure while serving as members of the Armed Forces (in this section referred to as the 'research entity or entities').
+In General.—Unless the Secretary of Veterans Affairs certifies under section 632(d) that the results of the assessment and determination under section 632(c) indicate that it is not feasible to conduct further research regarding health conditions of descendants of veterans with toxic exposure, not later than 1 year after receiving such results and determination, the Secretary shall (in consultation with the advisory board established under section 633 (in this section referred to as the 'Advisory Board')) enter into an agreement with one or more research entities identified under section 632(b)(6) (excluding an entity of the Department of Veterans Affairs) to conduct research on health conditions of descendants of veterans with toxic exposure while serving as members of the Armed Forces (in this section referred to as the 'research entity or entities').
 
 "(b)
 
@@ -390,7 +484,7 @@ Availability of Records.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense, the Secretary of Veterans Affairs, and the head of each Federal agency identified under section 632(b)(3)(E) shall make available to the research entity or entities records held by the Department of Veterans Affairs, the Department of Defense, the Armed Forces, that Federal agency, or any other source under the jurisdiction of any such Federal agency or the Armed Forces, as appropriate, that the research entity or entities determine are necessary to carry out this section.
+In general.—The Secretary of Defense, the Secretary of Veterans Affairs, and the head of eachFederal agency identified under section 632(b)(3)(E) shall make available to the research entity or entities records held by the Department of Veterans Affairs, the Department of Defense, the Armed Forces, that Federal agency, or any other source under the jurisdiction of any such Federal agency or the Armed Forces, as appropriate, that the research entity or entities determine are necessary to carry out this section.
 
 &emsp;"(2)
 
@@ -450,7 +544,7 @@ Agreement.—The Secretary shall seek to enter into an agreement with the Nation
 
 "(c)
 
-Review of Scientific Evidence.—Under an agreement between the Secretary and the National Academy of Sciences under this section, the Academyshall review and summarize the scientific evidence, and assess the strength thereof, concerning the association between exposure to an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the Vietnam era and each disease suspected to be associated with such exposure.
+Review of Scientific Evidence.—Under an agreement between the Secretary and the National Academy of Sciences under this section, the Academy shall review and summarize the scientific evidence, and assess the strength thereof, concerning the association between exposure to an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the Vietnam era and each disease suspected to be associated with such exposure.
 
 "(d)
 
@@ -466,7 +560,7 @@ Scientific Determinations Concerning Diseases.—(1) For each disease reviewed, 
 
 "(e)
 
-Recommendations for Additional Scientific Studies.—The Academy shall make any recommendations it has for additional scientific studies to resolve areas of continuing scientific uncertainty relating to herbicide exposure. In making recommendations for further study, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from additional studies, and the cost and feasibility of carrying out such additional studies.
+Recommendations for Additional Scientific Studies.—The Academy shall make any recommendations it has for additional scientific studies to resolve areas of continuing scientific uncertainty relating to herbicide exposure. In making recommendations forfurther study, the Academy shall consider the scientific information that is currently available, the value and relevance of the information that could result from additional studies, and the cost and feasibility of carrying out such additional studies.
 
 "(f)
 
@@ -524,7 +618,7 @@ Pub. L. 102–4, §6, Feb. 6, 1991, 105 Stat. 15, as amended by Pub. L. 102–83
 
 "(a)
 
-In General.—Subject to subsections (d) and (e), the Secretary of Veterans Affairs shall compile and analyze, on a continuing basis, all clinical data that (1) is obtained by the Department of Veterans Affairs inconnection with examinations and treatment furnished to veterans by the Department after November 3, 1981, by reason of eligibility provided in section 1710(e)(1)(A) of title 38, United States Code, and (2) is likely to be scientifically useful in determining the association, if any, between the disabilities of veterans referred to in such section and exposure to dioxin or any other toxic substance referred to in such section or between such disabilities and active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
+In General.—Subject to subsections (d) and (e), the Secretary of Veterans Affairs shall compile and analyze, on a continuing basis, all clinical data that (1) is obtained by the Department of Veterans Affairs in connection with examinations and treatment furnished to veterans by the Department after November 3, 1981, by reason of eligibility provided in section 1710(e)(1)(A) of title 38, United States Code, and (2) is likely to be scientifically useful in determining the association, if any, between the disabilities of veterans referred to in such section and exposure to dioxin or any other toxic substance referred to in such section or between such disabilities and active military, naval, or air service in the Republic of Vietnam during the Vietnam era.
 
 "(b)
 
@@ -540,7 +634,7 @@ Annual Report.—The Secretary shall submit to the Committees on Veterans' Affai
 
 &emsp;"(5) other explanations for the incidence of such disabilities considered reasonable by the Secretary; and
 
-&emsp;"(6) the Secretary's views on the scientific validity of drawing conclusions from the incidence of such disabilities, as evidenced by the data compiled under subsection (a), about any association between such disabilities and exposure to dioxin or any other toxic substance referred to in section 1710(e)(1)(A) of title 38, United States Code, or between such disabilities and active military, naval, or air service, in the Republic of Vietnam during the Vietnam era.
+&emsp;"(6) the Secretary's views on the scientific validity of drawing conclusions from the incidence of such disabilities, as evidenced by the data compiled under subsection (a), about any association between suchdisabilities and exposure to dioxin or any other toxic substance referred to in section 1710(e)(1)(A) of title 38, United States Code, or between such disabilities and active military, naval, or air service, in the Republic of Vietnam during the Vietnam era.
 
 "(c)
 
@@ -640,7 +734,7 @@ Effective Date.—(1) This section shall take effect at the end of the 90-day pe
 
 &emsp;"(B) notifies the Committees on Veterans' Affairs of the Senate and House of Representatives of the Secretary's determination and the reasons therefor.
 
-"(2) In making a determination under this subsection, the Secretary shall give great weight to the views and recommendations of the Academy expressed in that report with respect to the implementation of this section."
+"(2) In making a determination under this subsection, the Secretary shall give great weight to theviews and recommendations of the Academy expressed in that report with respect to the implementation of this section."
 
 #### Blood Testing of Certain Vietnam-Era Veterans
 
@@ -714,7 +808,7 @@ Approval of Protocol.—(1) The study required by subsection (a) shall be conduc
 
 "(c)
 
-OTA Reports.—(1) Concurrent with the approval or disapproval of any protocol under subsection (b)(1),the Director shall submit to the appropriate committees of the Congress a report—
+OTA Reports.—(1) Concurrent with the approval or disapproval of any protocol under subsection (b)(1), the Director shall submit to the appropriate committees of the Congress a report—
 
 &emsp;"(A) explaining the reasons for the Director's approval or disapproval of the protocol, as the case may be; and
 
@@ -781,4 +875,6 @@ Definitions.—For the purposes of this section:
 #### Agent Orange Study; Report to Congressional Committees
 
 Pub. L. 96–151, title III, §307, Dec. 20, 1979, 93 Stat. 1097, as amended by Pub. L. 97–72, title IV, §401, Nov. 3, 1981, 95 Stat. 1061; Pub. L. 98–542, §8(a), Oct. 24, 1984, 98 Stat. 2731, directed that a protocol be designed for an epidemiological study of the long-term health effects of Agent Orange on Armed Forces personnel who served in Vietnam, and that reports be submitted to Congress describing results with comments and recommendations.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-During each of the 2002 through 2023 fiscal years, the Secretary shall provide payments to producers that enter into contracts with the Secretary under the program.
+During each of the 2002 through 2031 fiscal years, the Secretary shall provide payments to producers that enter into contracts with the Secretary under the program.
 
 #### (b) Practices and term
 
@@ -90,7 +90,7 @@ If the Secretary determines that the environmental values of two or more applica
 
 #### (6) Other payments
 
-&emsp;A producer shall not be eligible for payments for practices on eligible land under the program if the producer receives payments or other benefits for the same practice on the same land under another program under this subchapter.
+&emsp;A producer shall not be eligible for payments for practices on eligible land under theprogram if the producer receives payments or other benefits for the same practice on the same land under another program under this subchapter.
 
 #### (7) Increased payments for high-priority practices
 
@@ -136,9 +136,9 @@ If the Secretary determines that the environmental values of two or more applica
 
 &emsp;&emsp;For each of fiscal years 2014 through 2018, at least 5 percent of the funds made available for payments under the program shall be targeted at practices benefitting wildlife habitat under subsection (g).
 
-#### (B) Fiscal years 2019 through 2023
+#### (B) Fiscal years 2019 through 2031
 
-&emsp;&emsp;For each of fiscal years 2019 through 2023, at least 10 percent of the funds made available for payments under the program shall be targeted at practices benefitting wildlife habitat under subsection (g).
+&emsp;&emsp;For each of fiscal years 2019 through 2031, at least 10 percent of the funds made available for payments under the program shall be targeted at practices benefitting wildlife habitat under subsection (g).
 
 #### (g) Wildlife habitat incentive program
 
@@ -164,7 +164,7 @@ If the Secretary determines that the environmental values of two or more applica
 
 #### (3) Maximum term
 
-&emsp;In the case of a contract under the program entered into solely for the establishment of 1or more annual management practices for the benefit of wildlife as described in paragraph (1), notwithstanding any maximum contract term established by the Secretary, the contract shall have a term that does not exceed 10 years.
+&emsp;In the case of a contract under the program entered into solely for the establishment of 1 or more annual management practices for the benefit of wildlife as described in paragraph (1), notwithstanding any maximum contract term established by the Secretary, the contract shall have a term that does not exceed 10 years.
 
 #### (4) Included practices
 
@@ -258,7 +258,7 @@ If the Secretary determines that the environmental values of two or more applica
 
 #### (B) Technical assistance
 
-&emsp;&emsp;In applying the limitations under subparagraph (A), the Secretary shall not take intoaccount payments received for technical assistance.
+&emsp;&emsp;In applying the limitations under subparagraph (A), the Secretary shall not take into account payments received for technical assistance.
 
 #### (4) Exclusion of certain organic certification costs
 
@@ -348,7 +348,7 @@ If the Secretary determines that the environmental values of two or more applica
 
 &emsp;&emsp;&emsp;(ii) in the case of practice payments under paragraph (2)(A)(ii)(II), make those payments as soon as practicable on the implementation of an incentive practice.
 
-(Pub. L. 99–198, title XII, §1240B, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 254; amended Pub. L. 108–447, div. A, title VII, §794(a), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, §1203(a), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, §2503, May 22, 2008, 122 Stat. 1059; Pub. L. 110–246, §4(a), title II, §2503, June 18, 2008, 122 Stat. 1664, 1787; Pub. L. 112–55, div. A, title VII, §716(c), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, §750(a), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, §2203, Feb. 7, 2014, 128 Stat. 729; Pub. L. 115–123, div. F,§60102(a), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, §§2301(d)(1)(F), 2304, Dec. 20, 2018, 132 Stat. 4554, 4556.)
+(Pub. L. 99–198, title XII, §1240B, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 254; amended Pub. L. 108–447, div. A, title VII, §794(a), Dec. 8, 2004, 118 Stat. 2852; Pub. L. 109–171, title I, §1203(a), Feb. 8, 2006, 120 Stat. 6; Pub. L. 110–234, title II, §2503, May 22, 2008, 122 Stat. 1059; Pub. L. 110–246, §4(a), title II, §2503, June 18, 2008, 122 Stat. 1664, 1787; Pub. L. 112–55, div. A, title VII, §716(c), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, §750(a), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, §2203, Feb. 7, 2014, 128 Stat. 729; Pub. L. 115–123, div. F, §60102(a), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, §§2301(d)(1)(F), 2304, Dec. 20, 2018, 132 Stat. 4554, 4556; Pub. L. 117–169, title II, §21001(c)(1), Aug. 16, 2022, 136 Stat. 2017.)
 
 #### <b>Editorial Notes</b>
 
@@ -367,6 +367,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 3839aa–2, Pub. L. 99–198, title XII, §1240B, as added Pub. L. 104–127, title III, §334, Apr. 4, 1996, 110 Stat. 998, related to establishment and administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–169, §21001(c)(1)(A), substituted "2031" for "2023".
+
+Subsec. (f)(2)(B). Pub. L. 117–169, §21001(c)(1)(B), substituted "2031" for "2023" in heading and text.
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334, §2304(a), substituted "2023" for "2019".
 
@@ -438,7 +442,7 @@ Subsec. (g). Pub. L. 113–79, §2203(5), added subsec. (g) and struck out forme
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–55 substituted "2014" for "2012".
 
-<b>2008</b>—Pub. L. 110–246, §2503, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to provision of cost-share payments and incentive payments, application and term of a contract, bidding down, payment amounts, incentivepayments, modification or termination of contracts, allocation of funding for fiscal years 2002 through 2007, and funding for federally recognized Native American Indian Tribes and Alaska Native Corporations.
+<b>2008</b>—Pub. L. 110–246, §2503, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to provision of cost-share payments and incentive payments, application and term of a contract, bidding down, payment amounts, incentive payments, modification or termination of contracts, allocation of funding for fiscal years 2002 through 2007, and funding for federally recognized Native American Indian Tribes and Alaska Native Corporations.
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–171 substituted "2010" for "2007".
 

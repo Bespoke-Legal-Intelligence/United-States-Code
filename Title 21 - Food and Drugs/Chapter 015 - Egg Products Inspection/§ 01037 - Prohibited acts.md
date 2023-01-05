@@ -22,7 +22,7 @@
 
 &emsp;(2) forge or alter any official device, mark, or certificate;
 
-&emsp;(3) without authorization from the Secretary, use any official device, mark, or certificate, or simulation thereof, or detach, deface, or destroy any official device or mark; or use any labeling or container ordered to be withheld from use under section 1036 of this title after final judicial affirmance of such order or expiration of the time for appeal if no appeal is taken under said section;
+&emsp;(3) without authorization from the Secretary, use any official device, mark, or certificate, or simulation thereof, or detach, deface, or destroy any official device or mark; or use any labeling or container ordered to be withheld from use under section 1036 of thistitle after final judicial affirmance of such order or expiration of the time for appeal if no appeal is taken under said section;
 
 &emsp;(4) contrary to the regulations prescribed by the Secretary, fail to use, or to detach, deface, or destroy any official device, mark, or certificate;
 

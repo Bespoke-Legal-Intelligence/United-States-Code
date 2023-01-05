@@ -1,6 +1,6 @@
 ### §460uu–2. Management
 
-The Secretary, acting through the Director of the National Park Service, shall manage the monument in accordance with the provisions of this subchapter, the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.),<sup>1</sup> and other provisions of law applicable to units of the National Park System. The Secretary shall protect, manage, and administer the monument for the purposes of preserving the scenery and the natural, historic, and cultural resources of the monument and providing for the public understanding and enjoyment of the same in such a manner as to perpetuate these qualities for future generations.
+The Secretary, acting through the Director of the National Park Service, shall manage the monument in accordance with the provisions of this subchapter, the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1 et seq.),<sup>1</sup> and other provisions of law applicable to units of the National Park System. The Secretary shall protect, manage, and administer the monument for the purposes of preserving the scenery and the natural, historic, and cultural resources of the monument and providing for the public understanding and enjoyment of the same in such a manner asto perpetuate these qualities for future generations.
 
 (Pub. L. 100–225, title I, §103, Dec. 31, 1987, 101 Stat. 1539.)
 

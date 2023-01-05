@@ -72,7 +72,7 @@ The regulations under subsection (b) shall—
 
 #### (2) Applicability
 
-&emsp;This subsection applies to transportation that occurs on or after the effective date ofthe regulations promulgated under subsection (b).
+&emsp;This subsection applies to transportation that occurs on or after the effective date of the regulations promulgated under subsection (b).
 
 #### (f) Assistance of other agencies
 

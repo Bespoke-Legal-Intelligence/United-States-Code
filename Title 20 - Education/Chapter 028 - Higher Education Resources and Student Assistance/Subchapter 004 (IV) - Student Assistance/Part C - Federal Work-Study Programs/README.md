@@ -18,7 +18,7 @@ Work-Study Programs" in part heading.
 
 A prior part C of this subchapter, consisting of part D of title IV of Pub. L. 89–329, was redesignated part D of this subchapter.
 
-A prior part C of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1249, consisting of sections 441 and 442, was repealed by Pub. L. 90–575, title I, §131(a), Oct. 16, 1968,82 Stat. 1028, in order to accommodate the redesignation and transfer of former part C of title I of Pub. L. 88–452. See Codification note above. Prior section 441 made various amendments to parts C and D of title I of Pub. L. 88–452, and, notwithstanding the repeal of section 441, those amendments were not struck out. Prior section 442 was classified to section 2757 of Title 42, The Public Health and Welfare.
+A prior part C of title IV of Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1249, consisting of sections 441 and 442, was repealed by Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, in order to accommodate the redesignation and transfer of former part C of title I of Pub. L. 88–452. See Codification note above. Prior section 441 made various amendments to parts C and D of title I of Pub. L. 88–452, and, notwithstanding the repeal of section 441, those amendments were not struck out. Prior section 442 was classified to section 2757 of Title 42, The Public Health and Welfare.
 
 
 ---

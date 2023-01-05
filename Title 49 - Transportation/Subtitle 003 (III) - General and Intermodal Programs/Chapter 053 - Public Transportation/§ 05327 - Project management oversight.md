@@ -152,7 +152,7 @@ Subsec. (f). Pub. L. 112–141, §20020(2), struck out subsec. (f). Text read as
 
 Subsec. (c). Pub. L. 109–59, §3026(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) specified limitations on use of available amounts for certain purposes.
 
-<b>1998</b>—Subsec. (c)(2). Pub. L. 105–178, §3024(a), substituted "enter into contracts" for "make contracts"and inserted "and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section" before period at end of first sentence.
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–178, §3024(a), substituted "enter into contracts" for "make contracts" and inserted "and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section" before period at end of first sentence.
 
 Subsec. (f). Pub. L. 105–178, §3024(b), added subsec. (f).
 

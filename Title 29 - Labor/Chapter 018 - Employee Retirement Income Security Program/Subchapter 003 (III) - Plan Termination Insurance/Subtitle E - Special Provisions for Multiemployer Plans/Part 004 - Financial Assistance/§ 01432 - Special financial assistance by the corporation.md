@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The corporation shall provide special financial assistance to an eligible multiemployer plan under this section, upon the applicationof a plan sponsor of such a plan for such assistance.
+&emsp;The corporation shall provide special financial assistance to an eligible multiemployer plan under this section, upon the application of a plan sponsor of such a plan for such assistance.
 
 #### (2) Inapplicability of certain repayment obligation
 
@@ -30,7 +30,7 @@
 
 #### (c) Applications for special financial assistance
 
-Within 120 days of March 11, 2021, the corporation shall issue regulations or guidance setting forth requirements for special financial assistance applications under this section. In such regulations or guidance, the corporation shall—
+Within 120 days of March 11, 2021, the corporation shall issue regulations or guidance settingforth requirements for special financial assistance applications under this section. In such regulations or guidance, the corporation shall—
 
 &emsp;(1) limit the materials required for a special financial assistance application to the minimum necessary to make a determination on the application;
 
@@ -72,7 +72,7 @@ Within 120 days of March 11, 2021, the corporation shall issue regulations or gu
 
 #### (4) Changes in assumptions
 
-&emsp;If a plan determines that use of one or more prior assumptions is unreasonable, the plan may propose in its application to change such assumptions, provided that the plan disclosessuch changes in its application and describes why such assumptions are no longer reasonable. The corporation shall accept such changed assumptions unless it determines the changes are unreasonable, individually or in the aggregate. The plan may not propose a change to the interest rate otherwise required under this subsection for eligibility or financial assistance amount.
+&emsp;If a plan determines that use of one or more prior assumptions is unreasonable, the plan may propose in its application to change such assumptions, provided that the plan discloses such changes in its application and describes why such assumptions are no longer reasonable. The corporation shall accept such changed assumptions unless it determines the changes are unreasonable, individually or in the aggregate. The plan may not propose a change to the interest rate otherwise required under this subsection for eligibility or financial assistance amount.
 
 #### (f) Application deadline
 
@@ -126,7 +126,7 @@ Special financial assistance received under this section and any earnings thereo
 
 #### (1) In general
 
-&emsp;The corporation, in consultation with the Secretary of the Treasury, may impose, byregulation or other guidance, reasonable conditions on an eligible multiemployer plan that receives special financial assistance relating to increases in future accrual rates and any retroactive benefit improvements, allocation of plan assets, reductions in employer contribution rates, diversion of contributions to, and allocation of expenses to, other benefit plans, and withdrawal liability.
+&emsp;The corporation, in consultation with the Secretary of the Treasury, may impose, by regulation or other guidance, reasonable conditions on an eligible multiemployer plan that receives special financial assistance relating to increases in future accrual rates and any retroactive benefit improvements, allocation of plan assets, reductions in employer contribution rates, diversion of contributions to, and allocation of expenses to, other benefit plans, and withdrawal liability.
 
 #### (2) Limitation
 
@@ -148,7 +148,7 @@ Special financial assistance received under this section and any earnings thereo
 
 #### (5) Insolvent plans
 
-&emsp;An eligible multiemployer plan receiving special financial assistance under this section that subsequently becomes insolvent will be subject to the current rules and guarantee for insolvent plans.
+&emsp;An eligible multiemployer plan receiving special financial assistance under this section that subsequently becomes insolvent will besubject to the current rules and guarantee for insolvent plans.
 
 #### (6) Ineligibility for other assistance
 

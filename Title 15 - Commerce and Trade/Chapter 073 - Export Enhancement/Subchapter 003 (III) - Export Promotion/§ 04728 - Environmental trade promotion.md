@@ -52,7 +52,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;&emsp;(B) trade associations in the environmental sector;
 
-&emsp;&emsp;(C) private sector organizations involved in the promotion of environmental exports,including products that comply with United States environmental, safety, and related requirements;
+&emsp;&emsp;(C) private sector organizations involved in the promotion of environmental exports, including products that comply with United States environmental, safety, and related requirements;
 
 &emsp;&emsp;(D) States (as defined in section 4721(i)(5) <sup>1</sup> of this title) and associations representing the States; and
 
@@ -180,7 +180,7 @@ Subsecs. (f) to (k). Pub. L. 103–392, §402(b), added subsecs. (f) to (k).
 
 #### Report on Insurance Feasibility
 
-Section 204(b) of Pub. L. 102–429 directed that, not later than 1 year after Oct. 21, 1992, chairperson ofTrade Promotion Coordinating Committee, after consultation with appropriate departments and agencies of the United States Government, submit a report to Congress that analyzes (1) the extent to which Federal investment insurance and export financing programs sufficiently protect against business failures or default on obligations arising from changes by a foreign government in its environmental laws or regulations, and (2) the advisability and feasibility of expanding coverage of such programs, or creating new programs, to address such risks.
+Section 204(b) of Pub. L. 102–429 directed that, not later than 1 year after Oct. 21, 1992, chairperson of Trade Promotion Coordinating Committee, after consultation with appropriate departments and agencies of the United States Government, submit a report to Congress that analyzes (1) the extent to which Federal investment insurance and export financing programs sufficiently protect against business failures or default on obligations arising from changes by a foreign government in its environmental laws or regulations, and (2) the advisability and feasibility of expanding coverage of such programs, or creating new programs, to address such risks.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

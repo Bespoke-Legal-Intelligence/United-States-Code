@@ -70,7 +70,7 @@
 
 &emsp;&emsp;&emsp;(iii) has minimal life safety risk; or
 
-&emsp;&emsp;(C) if the project study does not include an environmental impact statement and is aproject study pursued under section 701s of this title, section 701g of this title, section 701r of this title, section 577(a) of this title, section 426g of this title, section 426i of this title, section 603a of this title, section 2309a of this title, or section 2330 of this title.
+&emsp;&emsp;(C) if the project study does not include an environmental impact statement and is a project study pursued under section 701s of this title, section 701g of this title, section 701r of this title, section 577(a) of this title, section 426g of this title, section 426i of this title, section 603a of this title, section 2309a of this title, or section 2330 of this title.
 
 #### (6) Determination of total cost
 
@@ -106,7 +106,7 @@
 
 #### (4) Limitation on multiple peer review
 
-&emsp;Nothing in this subsection shall be construed to require the Chief of Engineers to conduct multiple peer reviews for a project study.
+&emsp;Nothing in this subsection shall be construed to require the Chief of Engineers toconduct multiple peer reviews for a project study.
 
 #### (c) Establishment of panels
 
@@ -148,7 +148,7 @@ A panel of experts established for a peer review for a project study under this 
 
 &emsp;(4) provide timely written and oral comments to the Chief of Engineers throughout the development of the project study, as requested; and
 
-&emsp;(5) submit to the Chief of Engineers a final report containing the panel's economic, engineering, and environmental analysis of the project study, including the panel's assessment of the adequacy and acceptability of the economic, engineering, and environmental methods, models, and analyses used by theChief of Engineers, to accompany the publication of the report of the Chief of Engineers for the project.
+&emsp;(5) submit to the Chief of Engineers a final report containing the panel's economic, engineering, and environmental analysis of the project study, including the panel's assessment of the adequacy and acceptability of the economic, engineering, and environmental methods, models, and analyses used by the Chief of Engineers, to accompany the publication of the report of the Chief of Engineers for the project.
 
 #### (e) Duration of project study peer reviews
 
@@ -214,9 +214,9 @@ This section shall apply to—
 
 &emsp;Not later than 6 years after November 8, 2007, the Chief of Engineers shall update the report under paragraph (1) taking into account any further information on implementation of this section and submit such updated report to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-#### (j) Nonapplicability of FACA
+#### (j) Nonapplicability of chapter 10 of title 5
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a peer review panel established under this section.
+Chapter 10 of title 5 shall not apply to a peer review panel established under this section.
 
 #### (k) Savings clause
 
@@ -256,7 +256,7 @@ In this section, the following definitions apply:
 
 &emsp;The term "total cost", as used with respect to a water resources project, means the cost of construction (including planning and designing) of the project. In the case of a project for hurricane and storm damage reduction or flood damage reduction that includes periodic nourishment over the life of the project, the term includes the total cost of the nourishment.
 
-(Pub. L. 110–114, title II, §2034, Nov. 8, 2007, 121 Stat. 1086; Pub. L. 113–121, title I, §1044, June 10, 2014, 128 Stat. 1250; Pub. L. 115–270, title I, §1141, Oct. 23, 2018, 132 Stat. 3785.)
+(Pub. L. 110–114, title II, §2034, Nov. 8, 2007, 121 Stat. 1086; Pub. L. 113–121, title I, §1044, June 10, 2014, 128 Stat. 1250; Pub. L. 115–270, title I, §1141, Oct. 23, 2018, 132 Stat. 3785; Pub. L. 117–286, §4(a)(203), Dec. 27, 2022, 136 Stat. 4328.)
 
 #### <b>Editorial Notes</b>
 
@@ -264,13 +264,13 @@ In this section, the following definitions apply:
 
 The Endangered Species Act of 1973, referred to in subsec. (a)(5)(A)(iv), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (j). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2018</b>—Subsec. (h)(2). Pub. L. 115–270 substituted "17 years" for "12 years".
 
@@ -280,7 +280,7 @@ Subsec. (b)(3), (4). Pub. L. 113–121, §1044(b), added par. (3) and redesignat
 
 Subsec. (c)(4). Pub. L. 113–121, §1044(c), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: "Upon identification of a project study for peer review under this section, but prior to initiation of the review, the Chief of Engineers shall notify the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of the review."
 
-Subsec. (f)(2), (3). Pub. L. 113–121, §1044(d), added pars. (2) and (3) and struck out former par. (2) which related to public availability and transmittal to Congress of a report on a project study from a panel of experts under this section.
+Subsec. (f)(2), (3). Pub. L. 113–121, §1044(d), added pars. (2) and (3) and struck out former par. (2) which related to public availability and transmittal to Congress of areport on a project study from a panel of experts under this section.
 
 Subsec. (h)(2). Pub. L. 113–121, §1044(e), substituted "12 years" for "7 years".
 

@@ -8,7 +8,7 @@ There is hereby established within the Department of the Treasury the Office of 
 
 #### (1) In general
 
-&emsp;The head of the Office of the Special Inspector General for Pandemic Recovery shall bethe Special Inspector General for Pandemic Recovery (referred to in this section as the "Special Inspector General"), who shall be appointed by the President, by and with the advice and consent of the Senate.
+&emsp;The head of the Office of the Special Inspector General for Pandemic Recovery shall be the Special Inspector General for Pandemic Recovery (referred to in this section as the "Special Inspector General"), who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 #### (2) Nomination
 
@@ -16,7 +16,7 @@ There is hereby established within the Department of the Treasury the Office of 
 
 #### (3) Removal
 
-&emsp;The Special Inspector General shall be removable from office in accordance with the provisions of section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).
+&emsp;The Special Inspector General shall be removable from office in accordance with the provisions of section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).<sup>1</sup>
 
 #### (4) Political activity
 
@@ -24,13 +24,13 @@ There is hereby established within the Department of the Treasury the Office of 
 
 #### (5) Basic pay
 
-&emsp;The annual rate of basic pay of the Special Inspector General shall be the annual rate of basic pay for an Inspector General under section 3(e) of the Inspector General Act of 1978 (5 U.S.C. App.).
+&emsp;The annual rate of basic pay of the Special Inspector General shall be the annual rate of basic pay for an Inspector General under section 3(e) of the Inspector General Act of 1978 (5 U.S.C. App.).<sup>1</sup>
 
 #### (c) Duties
 
 #### (1) In general
 
-&emsp;It shall be the duty of the Special Inspector General to, in accordance with section 4(b)(1) of the Inspector General Act of 1978 (5 U.S.C. App.), conduct, supervise, and coordinate audits and investigations of the making, purchase, management, and sale of loans, loan guarantees, and other investments made by the Secretary of the Treasury under any program established by the Secretary under this Act, and the management by the Secretary of any program established under this Act, including by collecting and summarizing the following information:
+&emsp;It shall be the duty of the Special Inspector General to, in accordance with section 4(b)(1) of the Inspector General Act of 1978 (5 U.S.C. App.),<sup>1</sup> conduct, supervise, and coordinate audits and investigations of the making, purchase, management, and sale of loans, loan guarantees, and other investments made by the Secretary of the Treasury under any program established by the Secretary under this Act, and the management by the Secretary of any program established under this Act, including by collecting and summarizing the following information:
 
 &emsp;&emsp;(A) A description of the categories of the loans, loan guarantees, and other investments made by the Secretary.
 
@@ -48,17 +48,17 @@ There is hereby established within the Department of the Treasury the Office of 
 
 #### (3) Additional duties and responsibilities
 
-&emsp;In addition to the duties described in paragraphs (1) and (2), the Special Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978 (5 U.S.C. App.).
+&emsp;In addition to the duties described in paragraphs (1) and (2), the Special Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978 (5 U.S.C. App.).<sup>1</sup>
 
 #### (d) Powers and authorities
 
 #### (1) In general
 
-&emsp;In carrying out the duties of the Special Inspector General under subsection (c), the Special Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+&emsp;In carrying out the duties of the Special Inspector General under subsection (c), the Special Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).<sup>1</sup>
 
 #### (2) Treatment of Office
 
-&emsp;The Office of the Special Inspector General for Pandemic Recovery shall be considered to be an office described in section 6(f)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) and shall be exempt from an initial determination by the Attorney General under section 6(f)(2) of that Act.
+&emsp;The Office of the Special Inspector General for Pandemic Recovery shall be considered to be an office described in section 6(f)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) <sup>1</sup> and shall be exempt from an initial determination by the Attorney General under section 6(f)(2) of that Act.
 
 #### (e) Personnel, facilities, and other resources
 
@@ -68,7 +68,7 @@ There is hereby established within the Department of the Treasury the Office of 
 
 #### (2) Experts and consultants
 
-&emsp;The Special Inspector General may obtain services as authorized under section 3109 of title 5 at daily rates not to exceed the equivalent rate prescribed for grade GS–15 of the General Schedule by section 5332 of that title.
+&emsp;The Special Inspector General may obtain services as authorized under section 3109 oftitle 5 at daily rates not to exceed the equivalent rate prescribed for grade GS–15 of the General Schedule by section 5332 of that title.
 
 #### (3) Contracts
 
@@ -78,7 +78,7 @@ There is hereby established within the Department of the Treasury the Office of 
 
 #### (A) In general
 
-&emsp;&emsp;Upon request of the Special Inspector General for information or assistance from anydepartment, agency, or other entity of the Federal Government, the head of that department, agency, or entity shall, to the extent practicable and not in contravention of any existing law, furnish that information or assistance to the Special Inspector General, or an authorized designee.
+&emsp;&emsp;Upon request of the Special Inspector General for information or assistance from any department, agency, or other entity of the Federal Government, the head of that department, agency, or entity shall, to the extent practicable and not in contravention of any existing law, furnish that information or assistance to the Special Inspector General, or an authorized designee.
 
 #### (B) Refusal to provide requested information
 
@@ -122,7 +122,7 @@ The Office of the Special Inspector General shall terminate on the date 5 years 
 
 #### (i) Council of the Inspectors General on integrity and efficiency
 
-The Special Inspector General shall be a member of the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) until the date of termination of the Office of the Special Inspector General.
+The Special Inspector General shall be a member of the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) <sup>1</sup> until the date of termination of the Office of the Special Inspector General.
 
 #### (j) Corrective responses to audit problems
 
@@ -138,7 +138,9 @@ The Secretary shall—
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsecs. (b) to (d) and (i), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsecs. (b) to (d) and (i), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§401 et seq.) of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. Sections 3, 4, 6, and 11 of the Act were repealed and restated as sections 403, 404, 406, and 424, respectively, of Title 5. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 This Act, referred to in subsec. (c)(1), probably means subtitle A (§§4001–4029) of title IV of div. A of Pub. L. 116–136, known as the Coronavirus Economic Stabilization Act of 2020, which is classified principally to this part. For complete classification of this Act to the Code, see section 4001 of Pub. L. 116–136, set out as a Short Title note under section 9001 of this title, and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

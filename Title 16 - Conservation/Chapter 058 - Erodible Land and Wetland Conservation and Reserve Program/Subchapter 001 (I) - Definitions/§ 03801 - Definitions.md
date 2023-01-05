@@ -198,7 +198,7 @@ Subsec. (a)(9)(C). Pub. L. 104–127, §301(c), added subpar. (C).
 
 Subsec. (a)(10) to (18). Pub. L. 104–127, §301(a)(1), redesignated pars. (8) to (16) as (10) to (18), respectively.
 
-<b>1990</b>—Subsec. (a)(16). Pub. L. 101–624 substituted introductory provisions and subpars. (A) to (C) for "The term 'wetland', except when such term is part of the term 'converted wetland', means land that has a predominance of hydric soils and that is inundated orsaturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions."
+<b>1990</b>—Subsec. (a)(16). Pub. L. 101–624 substituted introductory provisions and subpars. (A) to (C) for "The term 'wetland', except when such term is part of the term 'converted wetland', means land that has a predominance of hydric soils and that is inundated or saturated by surface or groundwater at a frequency and duration sufficient to support, and that under normal circumstances does support, a prevalence of hydrophytic vegetation typically adapted for life in saturated soil conditions."
 
 <b>1986</b>—Subsec. (a)(16). Pub. L. 99–349 inserted provision that for purposes of this Act, and any other Act, the term "wetland" shall not include lands in Alaska identified as having high potential for agricultural development which have a predominance of permafrost soils.
 
@@ -230,7 +230,7 @@ Pub. L. 110–234, title II, §2904, May 22, 2008, 122 Stat. 1091, and Pub. L. 1
 
 "(a)
 
-Issuance.—Except as otherwise provided in this title \[see Tables for classification\] or an amendment made by this title, not later than 90 days after the date of enactment of this Act \[June 18, 2008\], the Secretary of Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title.
+Issuance.—Except as otherwise provided in this title \[see Tables for classification\] or an amendment made by this title, not later than 90 days after the date of enactment of this Act \[June 18, 2008\], the Secretaryof Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title.
 
 "(b)
 
@@ -298,7 +298,7 @@ Interim Administration.—Subject to subsection (d), the Secretary \[of Agricult
 
 "(b)
 
-Regional Conservation Partnership Program.—Notwithstanding subsection (e) of section 1271E of the Food Security Act of 1985 (16 U.S.C. 3871e) (as amended by section 2706), and subject to subsection (d),for fiscal year 2019, the Secretary may use an availability of program funding announcement consistent with the amendments made by subtitle G \[subtitle G (§§2701–2707) of title II of Pub. L. 115–334, amending sections 3871 to 3871f of this title\] to carry out the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 (16 U.S.C. 3871 et seq.) without issuing a regulation.
+Regional Conservation Partnership Program.—Notwithstanding subsection (e) of section 1271E of the Food Security Act of 1985 (16 U.S.C. 3871e) (as amended by section 2706), and subject to subsection (d), for fiscal year 2019, the Secretary may use an availability of program funding announcement consistent with the amendments made by subtitle G \[subtitle G (§§2701–2707) of title II of Pub. L. 115–334, amending sections 3871 to 3871f of this title\] to carry out the regional conservation partnership program under subtitle I of title XII of the Food Security Act of 1985 (16 U.S.C. 3871 et seq.) without issuing a regulation.
 
 "(c)
 
@@ -364,7 +364,7 @@ Pub. L. 107–171, title II, subtitle G, May 13, 2002, 116 Stat. 275, which rela
 
 #### Cranberry Acreage Reserve Program
 
-Pub. L. 107–171, title X, §10608, May 13, 2002, 116 Stat. 515, which authorized the Secretary of Agriculture to establish a program to purchase permanent easements in wetlands or buffer strips that were used or had a history of being used for the cultivation of cranberries and that were located in environmentally sensitive areas,was repealed by Pub. L. 115–334, title II, §2812, Dec. 20, 2018, 132 Stat. 4602.
+Pub. L. 107–171, title X, §10608, May 13, 2002, 116 Stat. 515, which authorized the Secretary of Agriculture to establish a program to purchase permanent easements in wetlands or buffer strips that were used or had a history of being used for the cultivation of cranberries and that were located in environmentally sensitive areas, was repealed by Pub. L. 115–334, title II, §2812, Dec. 20, 2018, 132 Stat. 4602.
 
 #### <b>Executive Documents</b>
 

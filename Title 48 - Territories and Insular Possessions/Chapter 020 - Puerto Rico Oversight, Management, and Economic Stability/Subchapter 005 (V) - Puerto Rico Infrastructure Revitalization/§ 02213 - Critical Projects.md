@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) the status of the project if it is existing or ongoing; and
 
-&emsp;&emsp;(F) in addition to the requirements found in subparagraphs (A) through (E), the Revitalization Coordinator may require such submission to include any or all of the following criteria that assess how the project will—
+&emsp;&emsp;(F) in addition to the requirements found in subparagraphs (A) through (E), the Revitalization Coordinator may require suchsubmission to include any or all of the following criteria that assess how the project will—
 
 &emsp;&emsp;&emsp;(i) reduce reliance on oil for electric generation in Puerto Rico;
 
@@ -68,7 +68,7 @@
 
 #### (2) Public involvement
 
-&emsp;Immediately following the completion of the Critical Project Report, the Revitalization Coordinator shall make such Critical Project Report public and allow a period of 30 days for the submission of comments by residents of Puerto Rico specifically on matters relating to the designation of a project as a Critical Project. The Revitalization Coordinator shall respond to the comments within 30 days ofclosing the coming <sup>2</sup> period and make the responses publicly available.
+&emsp;Immediately following the completion of the Critical Project Report, the Revitalization Coordinator shall make such Critical Project Report public and allow a period of 30 days for the submission of comments by residents of Puerto Rico specifically on matters relating to the designation of a project as a Critical Project. The Revitalization Coordinator shall respond to the comments within 30 days of closing the coming <sup>2</sup> period and make the responses publicly available.
 
 #### (3) Submission to Oversight Board
 

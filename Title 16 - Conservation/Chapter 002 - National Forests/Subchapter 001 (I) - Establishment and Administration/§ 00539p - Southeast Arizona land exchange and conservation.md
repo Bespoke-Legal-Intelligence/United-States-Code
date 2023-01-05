@@ -166,7 +166,7 @@ In this section:
 
 #### (C) Termination
 
-&emsp;&emsp;The authorization for Resolution Copper to undertake mineral exploration activities under this paragraph shall remain in effect until the Oak Flat Withdrawal Area land is conveyed to Resolution Copper in accordance with this section.
+&emsp;&emsp;The authorization for Resolution Copper to undertake mineral exploration activitiesunder this paragraph shall remain in effect until the Oak Flat Withdrawal Area land is conveyed to Resolution Copper in accordance with this section.
 
 #### (7) Costs
 
@@ -234,7 +234,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) the approximately 160 acres of land located in Gila and Pinal Counties, Arizona, identified as "Lands to DOI" as generally depicted on the map entitled "Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Dripping Springs" and dated July 6, 2011; and
 
-&emsp;&emsp;&emsp;(iii) the approximately 940 acres of land located in Santa Cruz County, Arizona, identified as "Lands to DOI" as generally depicted on the map entitled "Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Appleton Ranch" and dated July 6, 2011.
+&emsp;&emsp;&emsp;(iii) the approximately 940 acres of land located in Santa Cruz County, Arizona,identified as "Lands to DOI" as generally depicted on the map entitled "Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Appleton Ranch" and dated July 6, 2011.
 
 #### (2) Management of acquired land
 
@@ -408,7 +408,7 @@ Subject to valid existing rights, Apache Leap and any land acquired by the Unite
 
 #### (B) Withdrawal
 
-&emsp;&emsp;On December 19, 2014, if the Federal land or any Federal interest in the non-Federal land to be exchanged under subsection (c) is not withdrawn or segregated from entry and appropriation under a public land law (including mining and mineral leasing laws and the Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.)), the land or interest shall be withdrawn, without further action required by the Secretary concerned, from entry and appropriation. The withdrawal shall be terminated—
+&emsp;&emsp;On December 19, 2014, if the Federal land or any Federal interest in the non-Federalland to be exchanged under subsection (c) is not withdrawn or segregated from entry and appropriation under a public land law (including mining and mineral leasing laws and the Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.)), the land or interest shall be withdrawn, without further action required by the Secretary concerned, from entry and appropriation. The withdrawal shall be terminated—
 
 &emsp;&emsp;&emsp;(i) on the date of consummation of the land exchange; or
 

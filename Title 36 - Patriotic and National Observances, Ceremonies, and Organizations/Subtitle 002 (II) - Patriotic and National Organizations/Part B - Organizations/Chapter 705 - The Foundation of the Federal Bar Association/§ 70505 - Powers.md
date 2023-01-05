@@ -54,7 +54,7 @@ In clause (4), the words "make contracts" are substituted for "contract and be c
 
 Clause (5) is substituted for "take and hold by lease, gift, purchase, grant, devise, bequest, or otherwise, any property, real or personal, or mixed, necessary for carrying into effect the purposes of the corporation" and "transfer, lease, or convey real or personal property" for consistency in the revised title and to eliminate unnecessary words. The words "subject to applicable provisions of law of any State (1) governing the amount or kind of real and personal property which may be held by, or (2) otherwise limiting or controlling the ownership of real and personal property by, a corporation operating in such State" are omitted as unnecessary.
 
-In clause (6), the words "for the purposes of the corporation" are omitted as unnecessary. The words"issue instruments of indebtedness, and secure its obligations by granting security interests in its property" are substituted for "issue bonds or other evidences of indebtedness therefor, and secure the same by mortgage or pledge" for consistency in the revised title. The words "subject to applicable Federal or State laws" are omitted as unnecessary.
+In clause (6), the words "for the purposes of the corporation" are omitted as unnecessary. The words "issue instruments of indebtedness, and secure its obligations by granting security interests in its property" are substituted for "issue bonds or other evidences of indebtedness therefor, and secure the same by mortgage or pledge" for consistency in the revised title. The words "subject to applicable Federal or State laws" are omitted as unnecessary.
 
 In clause (7), the words "complain and defend in any court of competent jurisdiction" are omitted as unnecessary.
 

@@ -48,7 +48,7 @@
 
 #### (C) Responsibility for services for the blind
 
-&emsp;&emsp;If the State has designated only 1 State agency pursuant to subparagraph (A), the State may assign responsibility for the part of the plan under which vocational rehabilitation services are provided for individuals who are blind to an organizational unit of the designated State agency and assign responsibility for the rest of the plan to another organizational unit of the designated State agency, with the provisions of subparagraph (B) applying separately to each of the designated State units.
+&emsp;&emsp;If the State has designated only 1 State agency pursuant to subparagraph (A), theState may assign responsibility for the part of the plan under which vocational rehabilitation services are provided for individuals who are blind to an organizational unit of the designated State agency and assign responsibility for the rest of the plan to another organizational unit of the designated State agency, with the provisions of subparagraph (B) applying separately to each of the designated State units.
 
 #### (3) Non-Federal share
 
@@ -204,7 +204,7 @@
 
 #### (A) Development and implementation
 
-&emsp;&emsp;The State plan shall include an assurance that an individualized plan for employment meeting the requirements of section 722(b) of this title will be developed and implemented in a timely manner for an individual subsequent to the determination of the eligibility of the individual for services under this subchapter, except that in a State operating under an order of selection described in paragraph (5), the plan will be developed and implemented only for individuals meeting the order of selection criteria of the State.
+&emsp;&emsp;The State plan shall include an assurance that an individualized plan for employmentmeeting the requirements of section 722(b) of this title will be developed and implemented in a timely manner for an individual subsequent to the determination of the eligibility of the individual for services under this subchapter, except that in a State operating under an order of selection described in paragraph (5), the plan will be developed and implemented only for individuals meeting the order of selection criteria of the State.
 
 #### (B) Provision of services
 
@@ -218,7 +218,7 @@
 
 #### (B) Annual reporting
 
-&emsp;&emsp;In specifying the information to be submitted in the reports, the Commissioner shall require annual reporting of information, on eligible individuals receiving the services, that is necessary to assess the State's performance on the standards and indicators described in section 726(a) of this title that are determined by the Secretary to be relevant in assessing the performance of designated State units in carrying out thevocational rehabilitation program established under this subchapter.
+&emsp;&emsp;In specifying the information to be submitted in the reports, the Commissioner shall require annual reporting of information, on eligible individuals receiving the services, that is necessary to assess the State's performance on the standards and indicators described in section 726(a) of this title that are determined by the Secretary to be relevant in assessing the performance of designated State units in carrying out the vocational rehabilitation program established under this subchapter.
 
 #### (C) Additional data
 
@@ -256,7 +256,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the number who ended their participation in the program and who were employed 6 months and 12 months after securing or regaining employment, or, in the case of individuals whose employment outcome was to retain or advance in employment, who were employed 6 months and 12 months after achieving their employment outcome, including—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the number who earned the minimum wage rate specified in section 6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) or another wage level set by the Commissioner, during such employment; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the number who earned the minimum wage rate specified in section6(a)(1) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)(1)) or another wage level set by the Commissioner, during such employment; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the number who received employment benefits from an employer during such employment.
 
@@ -314,7 +314,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the promotion of equal, effective, and meaningful participation by individuals with disabilities in workforce development activities in the State through the promotion of program accessibility (including programmatic accessibility and physical accessibility), the use of nondiscriminatory policies and procedures, and the provision of reasonable accommodations, auxiliary aids and services, and rehabilitation technology, for individuals with disabilities;
 
-&emsp;&emsp;&emsp;(ii) use of information and financial management systems that link all components of the statewide workforce development system, that link the components to other electronic networks, including nonvisual electronic networks, and that relate to such subjects as employment statistics, and information on job vacancies, career planning, and workforce investment activities;
+&emsp;&emsp;&emsp;(ii) use of information and financial management systems that link all components of the statewide workforce development system, that link the components to other electronic networks, including nonvisual electronic networks, and that relate to such subjects as employment statistics,and information on job vacancies, career planning, and workforce investment activities;
 
 &emsp;&emsp;&emsp;(iii) use of customer service features such as common intake and referral procedures, customer databases, resource information, and human services hotlines;
 
@@ -366,7 +366,7 @@
 
 #### (H) Cooperative agreement with recipients of grants for services to American Indians
 
-&emsp;&emsp;In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreement with each grant recipient in the State that receives funds under part C. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
+&emsp;&emsp;In applicable cases, the State plan shall include an assurance that the State has entered into a formal cooperative agreementwith each grant recipient in the State that receives funds under part C. The agreement shall describe strategies for collaboration and coordination in providing vocational rehabilitation services to American Indians who are individuals with disabilities, including—
 
 &emsp;&emsp;&emsp;(i) strategies for interagency referral and information sharing that will assist in eligibility determinations and the development of individualized plans for employment;
 
@@ -548,7 +548,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The State plan shall include an assurance that the designated State agency will implement an information and referral system adequate to ensure that individuals with disabilities will be provided accurate vocational rehabilitation information and guidance, using appropriate modes of communication, to assist such individuals in preparing for, securing, retaining, or regaining employment, and will be appropriately referred to Federal and State programs (other than the vocational rehabilitation program carried out under this subchapter), includingother components of the statewide workforce development system in the State.
+&emsp;&emsp;The State plan shall include an assurance that the designated State agency will implement an information and referral system adequate to ensure that individuals with disabilities will be provided accurate vocational rehabilitation information and guidance, using appropriate modes of communication, to assist such individuals in preparing for, securing, retaining, or regaining employment, and will be appropriately referred to Federal and State programs (other than the vocational rehabilitation program carried out under this subchapter), including other components of the statewide workforce development system in the State.
 
 #### (B) Referrals
 
@@ -602,7 +602,7 @@
 
 #### (B) More than one designated State agency
 
-&emsp;&emsp;In the case of a State that, under subsection (a)(2), designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State Rehabilitation Council for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for both agencies if neither agency meets the requirements of subparagraph (A)(i).
+&emsp;&emsp;In the case of a State that, under subsection (a)(2), designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State Rehabilitation Council for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for bothagencies if neither agency meets the requirements of subparagraph (A)(i).
 
 #### (22) Supported employment State plan supplement
 
@@ -616,7 +616,7 @@
 
 #### (A) Contracts with for-profit organizations
 
-&emsp;&emsp;The State plan shall provide that the designated State agency has the authority toenter into contracts with for-profit organizations for the purpose of providing, as vocational rehabilitation services, on-the-job training and related programs for individuals with disabilities under part A of subchapter VI, upon a determination by such agency that such for-profit organizations are better qualified to provide such rehabilitation services than nonprofit agencies and organizations.
+&emsp;&emsp;The State plan shall provide that the designated State agency has the authority to enter into contracts with for-profit organizations for the purpose of providing, as vocational rehabilitation services, on-the-job training and related programs for individuals with disabilities under part A of subchapter VI, upon a determination by such agency that such for-profit organizations are better qualified to provide such rehabilitation services than nonprofit agencies and organizations.
 
 #### (B) Cooperative agreements with private nonprofit organizations
 
@@ -658,11 +658,11 @@ Nothing in this part shall be construed to reduce the obligation under the Indiv
 
 For the effective date of the Workforce Innovation and Opportunity Act, referred to in subsec. (a)(1)(B), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
-The Architectural Barriers Act of 1968, referred to in subsec. (a)(6)(C), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
+The Architectural Barriers Act of 1968, referred to in subsec. (a)(6)(C), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4151 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(6)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(6)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(7)(A)(ii), (15)(A)(ii) and (c), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(7)(A)(ii), (15)(A)(ii) and (c), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7)(A)(v)(II), (10)(D)(i), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of this title, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
@@ -718,7 +718,7 @@ Subsec. (a)(10)(C)(ii)(I). Pub. L. 113–128, §412(a)(6)(B)(iii)(I), substitute
 
 Subsec. (a)(10)(C)(ii)(IV) to (VI). Pub. L. 113–128, §412(a)(6)(B)(iii)(II), (III), added subcls. (IV) to (VI).
 
-Subsec. (a)(10)(C)(iv)(I). Pub. L. 113–128, §412(a)(6)(B)(iv), inserted "and, for those who achieved employment outcomes, the average length of time to obtain employment" before semicolon.
+Subsec. (a)(10)(C)(iv)(I). Pub. L. 113–128, §412(a)(6)(B)(iv), inserted "and, for those who achievedemployment outcomes, the average length of time to obtain employment" before semicolon.
 
 Subsec. (a)(10)(D)(i). Pub. L. 113–128, §412(a)(6)(C), substituted "title I of the Workforce Innovation and Opportunity Act" for "title I of the Workforce Investment Act of 1998".
 
@@ -740,7 +740,7 @@ Subsec. (a)(11)(A)(v). Pub. L. 113–128, §412(a)(7)(A)(v), substituted "workfo
 
 Subsec. (a)(11)(B). Pub. L. 113–128, §412(a)(7)(B), substituted "workforce development system" for "workforce investment system".
 
-Subsec. (a)(11)(C). Pub. L. 113–128, §412(a)(7)(C), inserted "the State programs carried out under section3003 of this title," after "including" and ", noneducational agencies serving out-of-school youth," after "Agriculture" and substituted "such Federal, State, and local agencies and programs" for "such agencies and programs" and "workforce development system" for "workforce investment system".
+Subsec. (a)(11)(C). Pub. L. 113–128, §412(a)(7)(C), inserted "the State programs carried out under section 3003 of this title," after "including" and ", noneducational agencies serving out-of-school youth," after "Agriculture" and substituted "such Federal, State, and local agencies and programs" for "such agencies and programs" and "workforce development system" for "workforce investment system".
 
 Subsec. (a)(11)(D). Pub. L. 113–128, §412(a)(7)(D), inserted ", including pre-employment transition services," after "vocational rehabilitation services" in introductory provisions and ", which may be provided using alternative means for meeting participation (such as video conferences and conference calls)," after "consultation and technical assistance" in cl. (i) and substituted "implementation" for "completion" in cl. (ii).
 

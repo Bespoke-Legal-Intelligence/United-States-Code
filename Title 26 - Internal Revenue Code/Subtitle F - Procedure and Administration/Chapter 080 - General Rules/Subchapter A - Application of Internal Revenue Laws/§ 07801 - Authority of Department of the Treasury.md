@@ -32,7 +32,7 @@ Nothing in this section or section 301(f) of title 31 shall be considered to aff
 
 #### References in Text
 
-The Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, which is classified principally to chapter 1 (§101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables. The effective date of the Act is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6.
+The Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is Pub. L. 107–296, Nov. 25, 2002, 116Stat. 2135, which is classified principally to chapter 1 (§101 et seq.) of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Title 6 and Tables. The effective date of the Act is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6.
 
 #### Amendments
 
@@ -44,7 +44,7 @@ The Homeland Security Act of 2002, referred to in subsec. (a)(2)(B), is Pub. L. 
 
 Subsec. (c). Pub. L. 97–258, §2(f)(1), inserted "or section 301(f) of title 31" after "Nothing in this section".
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "Secretary of the Treasury" for "Secretary" in four places, in par. (1) after "prescribed by the", in par. (2) after"prescribed by the" and in third sentence thereof "The", and in par. (3) before "may appoint and fix".
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "Secretary of the Treasury" for "Secretary" in four places, in par. (1) after "prescribed by the", in par. (2) after "prescribed by the" and in third sentence thereof "The", and in par. (3) before "may appoint and fix".
 
 <b>1964</b>—Subsec. (b)(2). Pub. L. 88–426 struck out provisions which prescribed compensation of Assistant General Counsel.
 
@@ -117,6 +117,10 @@ Pub. L. 114–113, div. Q, title IV, §402, Dec. 18, 2015, 129 Stat. 3117, provi
 Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in part: "That not later than 14 days after the end of each quarter of each fiscal year, the Internal Revenue Service shall submit a report to the House and Senate Committees on Appropriations and the Comptroller General of the United States detailing the cost and schedule performance for its major information technology investments, including the purpose and life-cycle stages of the investments; the reasons for any cost and schedule variances; the risks of such investments and strategies the Internal Revenue Service is using to mitigate such risks; and the expected developmental milestones to be achieved and costs to be incurred in the next quarter".
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. E, title I, Dec. 29, 2022, 136 Stat. 4656.
+
+Pub. L. 117–103, div. E, title I, Mar. 15, 2022, 136 Stat. 246.
 
 Pub. L. 116–260, div. E, title I, Dec. 27, 2020, 134 Stat. 1386, 1387.
 
@@ -266,7 +270,7 @@ Pub. L. 116–25, title I, §1302, July 1, 2019, 133 Stat. 993, provided that:
 
 In General.—Not later than September 30, 2020, the Secretary of the Treasury (or the Secretary's delegate) shall submit to Congress a comprehensive written plan to redesign the organization of the Internal Revenue Service. Such plan shall—
 
-&emsp;"(1) ensure the successful implementation of the priorities specified by Congress in this Act \[see Short Title of 2019 Amendment note set out under section 1 of this title\];
+&emsp;"(1) ensure the successful implementation of the priorities specified by Congress in this Act \[see ShortTitle of 2019 Amendment note set out under section 1 of this title\];
 
 &emsp;"(2) prioritize taxpayer services to ensure that all taxpayers easily and readily receive the assistance that they need;
 
@@ -286,7 +290,7 @@ Pub. L. 105–206, title I, §1001, July 22, 1998, 112 Stat. 689, provided that:
 
 In General.—The Commissioner of Internal Revenue shall develop and implement a plan to reorganize the Internal Revenue Service. The plan shall—
 
-&emsp;"(1) supersede any organization or reorganization of the Internal Revenue Service based on any statute orreorganization plan applicable on the effective date of this section;
+&emsp;"(1) supersede any organization or reorganization of the Internal Revenue Service based on any statute or reorganization plan applicable on the effective date of this section;
 
 &emsp;"(2) eliminate or substantially modify the existing organization of the Internal Revenue Service which is based on a national, regional, and district structure;
 
@@ -460,7 +464,7 @@ Report.—The Commissioner shall not later than March 1 of each year report the 
 
 #### National Commission on Restructuring Internal Revenue Service
 
-Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a),Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
+Pub. L. 104–52, title VI, §637, Nov. 19, 1995, 109 Stat. 509, as amended by Pub. L. 104–134, title II, §2904(a), Apr. 26, 1996, 110 Stat. 1321–333; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §643(a)–(e)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
 
 "(a)
 
@@ -576,7 +580,7 @@ In general.—(A) The Commission or, on the authorization of the Commission, any
 
 &emsp;&emsp;"(i) hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, administer such oaths, and
 
-&emsp;&emsp;"(ii) require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member may deem advisable.
+&emsp;&emsp;"(ii) require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence,memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member may deem advisable.
 
 &emsp;"(B) Subpoenas issued under subparagraph (A)(ii) may be issued under the signature of the Co-Chairs of the Commission, the chairman of any designated subcommittee, or any designated member, and may be served by any person designated by such Co-Chairs, subcommittee chairman, or member. The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section.
 

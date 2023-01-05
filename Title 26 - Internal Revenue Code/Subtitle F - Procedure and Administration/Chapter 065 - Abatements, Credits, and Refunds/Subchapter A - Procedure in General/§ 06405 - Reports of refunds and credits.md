@@ -2,7 +2,7 @@
 
 #### (a) By Treasury to Joint Committee
 
-No refund or credit of any income, war profits, excess profits, estate, or gift tax, or any tax imposed with respect to public charities, private foundations, operators' trust funds, pension plans, or real estate investment trusts under chapter 41, 42, 43, or 44, in excess of $2,000,000 ($5,000,000 in the case of a C corporation) shall be made until after the expiration of 30 days from the date upon which a report giving the name of the person to whom the refund or credit is to be made, the amount of such refund or credit, and a summary of the facts and the decision of the Secretary, is submitted to the Joint Committee on Taxation.
+No refund or credit of any income, war profits, excess profits, estate, or gift tax, or any tax imposed with respect to public charities, private foundations, operators' trust funds, pension plans, or real estate investment trusts under chapter 41, 42, 43, or 44, in excess of $2,000,000 ($5,000,000 in the case of a C corporation) shall bemade until after the expiration of 30 days from the date upon which a report giving the name of the person to whom the refund or credit is to be made, the amount of such refund or credit, and a summary of the facts and the decision of the Secretary, is submitted to the Joint Committee on Taxation.
 
 #### (b) Tentative adjustments
 
@@ -50,7 +50,7 @@ Pub. L. 113–295, div. A, title III, §301(b), Dec. 19, 2014, 128 Stat. 4055, p
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §305(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\], except that such amendment shall not apply with respect to any refund or credit with respect to a report that has been made before suchdate of the enactment under section 6405 of the Internal Revenue Code of 1986."
+Pub. L. 106–554, §1(a)(7) \[title III, §305(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\], except that such amendment shall not apply with respect to any refund or credit with respect to a report that has been made before such date of the enactment under section 6405 of the Internal Revenue Code of 1986."
 
 #### Effective Date of 1990 Amendment
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made after Dec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
+Amendment by Pub. L. 95–227 applicable with respect to contributions, acts, and expenditures made afterDec. 31, 1977, in and for taxable years beginning after such date, see section 4(f) of Pub. L. 95–227, set out as an Effective Date note under section 192 of this title.
 
 #### Effective Date of 1976 Amendment
 

@@ -48,7 +48,7 @@
 
 #### (c) Limitation on use of funds
 
-(1) Funds made available under this section to fire departments for salaries and benefits to hire new, additional firefighters shall not be used tosupplant State or local funds, or, in the case of Indian tribal governments, funds supplied by the Bureau of Indian Affairs, but shall be used to increase the amount of funds that would, in the absence of Federal funds received under this section, be made available from State or local sources, or in the case of Indian tribal governments, from funds supplied by the Bureau of Indian Affairs.
+(1) Funds made available under this section to fire departments for salaries and benefits to hire new, additional firefighters shall not be used to supplant State or local funds, or, in the case of Indian tribal governments, funds supplied by the Bureau of Indian Affairs, but shall be used to increase the amount of funds that would, in the absence of Federal funds received under this section, be made available from State or local sources, or in the case of Indian tribal governments, from funds supplied by the Bureau of Indian Affairs.
 
 (2) No grant shall be awarded pursuant to this section to a municipality or other recipient whose annual budget at the time of the application for fire-related programs and emergency response has been reduced below 80 percent of the average funding level in the 3 years prior to the date of the application for the grant.
 
@@ -210,7 +210,7 @@ Subsec. (a)(1)(B). Pub. L. 112–239, §1804(a)(1), amended subpar. (B) generall
 
 "(ii) Grantees are required to commit to retaining for at least 1 year beyond the termination of their grants those firefighters hired under this paragraph."
 
-Subsec. (a)(1)(E). Pub. L. 112–239, §1804(a)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "The portion of the costs of hiring firefighters provided by a grant under this paragraph may not exceed—
+Subsec. (a)(1)(E). Pub. L. 112–239, §1804(a)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E)read as follows: "The portion of the costs of hiring firefighters provided by a grant under this paragraph may not exceed—
 
 &emsp;"(i) 90 percent in the first year of the grant;
 

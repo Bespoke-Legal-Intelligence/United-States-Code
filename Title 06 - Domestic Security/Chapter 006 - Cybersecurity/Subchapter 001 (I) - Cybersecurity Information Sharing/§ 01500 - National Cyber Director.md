@@ -130,7 +130,7 @@ There is established, within the Executive Office of the President, the Office o
 
 #### (2) Rules of construction regarding details
 
-&emsp;Nothing in paragraph (1)(C) may be construed as imposing any limitation on anyother authority for reimbursable or nonreimbursable details. A nonreimbursable detail made pursuant to such paragraph shall not be considered an augmentation of the appropriations of the receiving element of the Office of the National Cyber Director.
+&emsp;Nothing in paragraph (1)(C) may be construed as imposing any limitation on any other authority for reimbursable or nonreimbursable details. A nonreimbursable detail made pursuant to such paragraph shall not be considered an augmentation of the appropriations of the receiving element of the Office of the National Cyber Director.
 
 #### (f) Rules of construction
 
@@ -188,9 +188,13 @@ Section is comprised of section 1752 of Pub. L. 116–283. Subsec. (d) of sectio
 
 #### Amendments
 
-<b>2021</b>—Subsec. (e)(1). Pub. L. 117–81, §1552(3), added subpar. (C) and redesignated former subpars. (C) to (H) as (D) to (I), respectively.
+<b>2021</b>—Subsec. (e). Pub. L. 117–81, §1552(1), (2), (4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (8) as subpars. (A) to (H), respectively, of par. (1) and realigned margins, and added par. (2).
 
-Pub. L. 117–81, §1552(1), (2), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (8) as subpars. (A) to (H), respectively, of par. (1), and realigned margins.
+Subsec. (e)(1)(C) to (I). Pub. L. 117–81, §1552(3), added subpar. (C) and redesignated former subpars. (C) to (H) (as redesignated by section 1552(1) of Pub. L. 117–81, see above) as (D) to (I), respectively.
 
-Subsec. (e)(2). Pub. L. 117–81, §1552(4), added par. (2).
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–260, §1, Dec. 21, 2022, 136 Stat. 2389, provided that: "This Act \[enacting section 1526 of this title and provisions set out as notes under section 1526 of this title\] may be cited as the 'Quantum Computing Cybersecurity Preparedness Act'."
 

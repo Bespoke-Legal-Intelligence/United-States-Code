@@ -18,7 +18,7 @@ Authority pursuant to direction of secretary.—The Office, pursuant to the dire
 
 &emsp;&emsp;(A) to monitor all aspects of the insurance industry, including identifying issues or gaps in the regulation of insurers that could contribute to a systemic crisis in the insurance industry or the United States financial system;
 
-&emsp;&emsp;(B) to monitor the extent to which traditionally underserved communities and consumers, minorities (as such term is defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note)), and low- and moderate-income persons have access to affordable insurance products regarding all lines of insurance, except health insurance;
+&emsp;&emsp;(B) to monitor the extent to which traditionally underserved communities and consumers, minorities (as such term is defined in section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1811 note)), and low-and moderate-income persons have access to affordable insurance products regarding all lines of insurance, except health insurance;
 
 &emsp;&emsp;(C) to recommend to the Financial Stability Oversight Council that it designate an insurer, including the affiliates of such insurer, as an entity subject to regulation as a nonbank financial company supervised by the Board of Governors pursuant to title I of the Dodd-Frank Wall Street Reform and Consumer Protection Act;
 
@@ -146,7 +146,7 @@ Notice of potential inconsistency.—Before making any determination under parag
 
 &emsp;&emsp;(B)
 
-Scope of review.—For purposes of this subsection, any determination of the Director regarding State insurance measures, and any preemption under paragraph (1) as a result of such determination, shall be limited to the subject matter contained within the covered agreement involved and shallachieve a level of protection for insurance or reinsurance consumers that is substantially equivalent to the level of protection achieved under State insurance or reinsurance regulation.
+Scope of review.—For purposes of this subsection, any determination of the Director regarding State insurance measures, and any preemption under paragraph (1) as a result of such determination, shall be limited to the subject matter contained within the covered agreement involved and shall achieve a level of protection for insurance or reinsurance consumers that is substantially equivalent to the level of protection achieved under State insurance or reinsurance regulation.
 
 &emsp;&emsp;(C)
 
@@ -176,7 +176,7 @@ Applicability of Administrative Procedures Act.—Determinations of inconsistenc
 
 (h)
 
-Regulations, Policies, and Procedures.—The Secretary may issue orders, regulations, policies, and procedures to implement this section.
+Regulations, Policies, and Procedures.—The Secretary may issue orders, regulations,policies, and procedures to implement this section.
 
 (i)
 
@@ -232,7 +232,7 @@ Reports on U.S. and Global Reinsurance Market.—The Director shall submit to th
 
 &emsp;(1) a report received not later than September 30, 2012, describing the breadth and scope of the global reinsurance market and the critical role such market plays in supporting insurance in the United States; and
 
-&emsp;(2) a report received not later than January 1, 2013, and updated not later than January 1, 2015, describing the impact of part II of the Nonadmitted and Reinsurance Reform Act of2010 on the ability of State regulators to access reinsurance information for regulated companies in their jurisdictions.
+&emsp;(2) a report received not later than January 1, 2013, and updated not later than January 1, 2015, describing the impact of part II of the Nonadmitted and Reinsurance Reform Act of 2010 on the ability of State regulators to access reinsurance information for regulated companies in their jurisdictions.
 
 (p)
 
@@ -362,7 +362,7 @@ Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement 
 
 The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(C), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title I of the Act, known as the Financial Stability Act of 2010, is classified principally to subchapter I (§5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
-The Terrorism Risk Insurance Act of 2002, referred to in subsec. (c)(1)(D), is Pub. L. 107–297, Nov. 26, 2002, 116 Stat. 2322. Title I of the Act, relating to the Terrorism Insurance Program, is set out as a note under section 6701 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6701 of Title 15 and Tables.
+The Terrorism Risk Insurance Act of 2002, referred to in subsec. (c)(1)(D), is Pub. L. 107–297, Nov. 26, 2002, 116 Stat. 2322. Title I of the Act, relating to the Terrorism Insurance Program, is set out as a note under section 6701 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of2002 Amendment note set out under section 6701 of Title 15 and Tables.
 
 The Financial Stability Act of 2010, referred to in subsec. (c)(3), is title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to subchapter I (§5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
@@ -450,7 +450,7 @@ Notice and comment.—
 
 &emsp;&emsp;&emsp;"(i)
 
-Notice.—The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, and the Director of the Federal Insurance Office shall provide public notice before the date on which drafting a report required under subparagraph (A) is commenced and after the date on which the draft of the report is completed.
+Notice.—The Secretary of the Treasury, the Chairman of the Board of Governors of theFederal Reserve System, and the Director of the Federal Insurance Office shall provide public notice before the date on which drafting a report required under subparagraph (A) is commenced and after the date on which the draft of the report is completed.
 
 &emsp;&emsp;&emsp;"(ii)
 

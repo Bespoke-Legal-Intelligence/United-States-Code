@@ -70,13 +70,13 @@ For the purposes of implementation of the Civil Rights Act of 1964 \[42 U.S.C. 2
 
 The Food and Nutrition Act of 2008, referred to in subsec. (b), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 5(a) of the Act is classified to section 2014(a) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 502 of P.L. 100–656, referred to in subsec. (e)(4)(B), is section 502 of title V of Pub. L. 100–656, Nov. 15, 1988, 102 Stat. 3881, which amended section 644(g) of Title 15, Commerce and Trade.
+Section 502 of P.L. 100–656, referred to in subsec. (e)(4)(B), is section 502 of title V of Pub. L. 100–656, Nov.15, 1988, 102 Stat. 3881, which amended section 644(g) of Title 15, Commerce and Trade.
 
-Public Law 105–178, referred to in subsec. (e)(4)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended, known as the Transportation Equity Act for the 21st Century. The Disadvantaged Business Enterprise provisions of the Act were contained in section 1101(b), formerly set out as a note under section 101 of Title 23, Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of Title 23 and Tables.
+Public Law 105–178, referred to in subsec. (e)(4)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, known as the Transportation Equity Act for the 21st Century. The Disadvantaged Business Enterprise provisions of the Act were contained in section 1101(b), formerly set out as a note under section 101 of Title 23, Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of Title 23 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 #### Codification
 
@@ -90,7 +90,7 @@ Subsec. (f) amended section 1702(3), (4) of Title 30, Mineral Lands and Mining, 
 
 Pub. L. 110–246, §4002(b)(1)(A), (2)(GG), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (c)(1). Pub. L. 110–246, §4002(b)(1)(A), (2)(GG), which directed substitution of "supplemental nutritionassistance program" for "food stamp program", was executed by making the substitution for "Food Stamp Program" to reflect the probable intent of Congress.
+Subsec. (c)(1). Pub. L. 110–246, §4002(b)(1)(A), (2)(GG), which directed substitution of "supplemental nutrition assistance program" for "food stamp program", was executed by making the substitution for "Food Stamp Program" to reflect the probable intent of Congress.
 
 <b>2002</b>—Subsec. (e)(4). Pub. L. 107–117 added par. (4).
 

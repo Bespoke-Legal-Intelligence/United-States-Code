@@ -118,11 +118,7 @@ Pub. L. 115–91, §555(d)(1), substituted "armed forces" for "Armed Forces".
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–92, div. A, title XVII, §1702(c)(2), Dec. 20, 2019, 133 Stat. 1796, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on December 30, 2021."
-
-#### Termination of Reporting Requirements
-
-For termination, effective Dec. 30, 2021, of provisions in subsec. (d) of this section requiring submittal of annual report to Congress, see section 1702(a), (b) of Pub. L. 116–92, set out as a note under section 111 of this title.
+Pub. L. 116–92, div. A, title XVII, §1702(c)(2), Dec. 20, 2019, 133 Stat. 1796, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall take effect on December 30, 2021."
 
 #### Coordination of Amendments by Pub. L. 117–81
 

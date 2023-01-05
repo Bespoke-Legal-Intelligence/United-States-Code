@@ -88,7 +88,19 @@
 | [8166\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008166%20-%20Construction%20standards.md) | Construction standards. |
 | [8167\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008167%20-%20Exemption%20from%20State%20and%20local%20taxes.md) | Exemption from State and local taxes. |
 | [8168\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008168%20-%20Annual%20reports.md) | Annual reports. |
-| [8169\.](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/%C2%A7%2008169%20-%20Expiration.md) | Expiration. |
+| \[8169. | Repealed.\] |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER VI—INFORMATION TECHNOLOGY PROJECTS AND ACTIVITIES
+
+|  |  |
+| :--- | ---: |
+| [8171\.](Subchapter%20006%20%28VI%29%20-%20Information%20Technology%20Projects%20and%20Activities/%C2%A7%2008171%20-%20Definitions.md) | Definitions. |
+| [8172\.](Subchapter%20006%20%28VI%29%20-%20Information%20Technology%20Projects%20and%20Activities/%C2%A7%2008172%20-%20Management%20of%20major%20information%20technology%20projects.md) | Management of major information technology projects. |
+| [8173\.](Subchapter%20006%20%28VI%29%20-%20Information%20Technology%20Projects%20and%20Activities/%C2%A7%2008173%20-%20Information%20technology%20activities%20of%20the%20Financial%20Services%20Center.md) | Information technology activities of the Financial Services Center. |
+| [8174\.](Subchapter%20006%20%28VI%29%20-%20Information%20Technology%20Projects%20and%20Activities/%C2%A7%2008174%20-%20Submission%20of%20annual%20reviews%20of%20information%20technology.md) | Submission of annual reviews of information technology. |
+| [8175\.](Subchapter%20006%20%28VI%29%20-%20Information%20Technology%20Projects%20and%20Activities/%C2%A7%2008175%20-%20Information%20technology%20matters%20to%20be%20included%20in%20budget%20justification%20materials%20for%20the%20Department.md) | Information technology matters to be included in budget justification materials for the Department. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -99,6 +111,10 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. U, title IV, §403(b), Dec. 29, 2022, 136 Stat. 5490, added heading for subchapter VI and items 8171 to 8175.
+
+Pub. L. 117–168, §1(b)(2), title VII, §705(d), Aug. 10, 2022, 136 Stat. 1759, 1800, which directed amendment of the analyses of this title to conform to additions or amendments of section and unit headings, was executed to this analysis by striking out item 8169 "Expiration" to conform to the repeal of section 8169 of this title, to reflect the probable intent of Congress.
 
 <b>2021</b>—Pub. L. 117–81, div. A, title VII, §714(b)(2), Dec. 27, 2021, 135 Stat. 1787, which directed amendment of the table of sections at the beginning of subchapter I of chapter 81 by adding item 8111B, was executed to the table of sections at the beginning of this chapter to reflect the probable intent of Congress.
 
@@ -174,3 +190,4 @@ Pub. L. 100–322, title IV, §403(a)(2), May 20, 1988, 102 Stat. 545, added ite
 - [Subchapter 003 (III) - State Home Facilities for Furnishing Domiciliary, Nursing Home, and Hospital Care](Subchapter%20003%20%28III%29%20-%20State%20Home%20Facilities%20for%20Furnishing%20Domiciliary%2C%20Nursing%20Home%2C%20and%20Hospital%20Care/README.md)
 - [Subchapter 004 (IV) - Sharing of Medical Facilities, Equipment, and Information](Subchapter%20004%20%28IV%29%20-%20Sharing%20of%20Medical%20Facilities%2C%20Equipment%2C%20and%20Information/README.md)
 - [Subchapter 005 (V) - Enhanced-Use Leases of Real Property](Subchapter%20005%20%28V%29%20-%20Enhanced-Use%20Leases%20of%20Real%20Property/README.md)
+- [Subchapter 006 (VI) - Information Technology Projects and Activities](Subchapter%20006%20%28VI%29%20-%20Information%20Technology%20Projects%20and%20Activities/README.md)

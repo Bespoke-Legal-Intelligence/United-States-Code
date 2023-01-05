@@ -162,7 +162,7 @@ In this chapter:
 
 #### References in Text
 
-Section 212(d) of the Education for Economic Security Act, referred to in par. (3), is section 212(d) of title II of Pub. L. 98–377, Aug. 11, 1984, 98 Stat. 1282, whichwas classified to section 3972(d) of this title, prior to repeal by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
+Section 212(d) of the Education for Economic Security Act, referred to in par. (3), is section 212(d) of title II of Pub. L. 98–377, Aug. 11, 1984, 98 Stat. 1282, which was classified to section 3972(d) of this title, prior to repeal by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
 
 The Head Start Act, referred to in par. (8)(A), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
@@ -218,7 +218,7 @@ Section 1010, Pub. L. 89–329, title I, §113, formerly §110, Nov. 8, 1965, 79
 
 <b>2015</b>—Pars. (9) to (11), (16). Pub. L. 114–95, §9215(oo)(1)(A)–(D), made technical amendments to references in original act which appear in text as references to section 7801 of this title.
 
-Par. (20). Pub. L. 114–95, §9215(oo)(1)(E), which directed technical amendment in par. (21) to reference inoriginal act which appears in text as reference to section 7801 of this title, was executed by making the amendment in par. (20), to reflect the probable intent of Congress. The reference did not appear in par. (21).
+Par. (20). Pub. L. 114–95, §9215(oo)(1)(E), which directed technical amendment in par. (21) to reference in original act which appears in text as reference to section 7801 of this title, was executed by making the amendment in par. (20), to reflect the probable intent of Congress. The reference did not appear in par. (21).
 
 <b>2008</b>—Pub. L. 110–315, §103(a)(2), reordered pars. in alphabetical order based on headings of pars. and renumbered pars. as so reordered, resulting in pars. (1) to (22) being redesignated as (2), (4), (6), (9) to (13), (15) to (20), (22), (21), (1), (3), (7), (5), (8), and (14), respectively.
 

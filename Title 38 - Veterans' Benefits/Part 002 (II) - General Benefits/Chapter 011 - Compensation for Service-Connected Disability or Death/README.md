@@ -21,11 +21,13 @@
 | [1113\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001113%20-%20Presumptions%20rebuttable.md) | Presumptions rebuttable. |
 | [1114\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001114%20-%20Rates%20of%20wartime%20disability%20compensation.md) | Rates of wartime disability compensation. |
 | [1115\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001115%20-%20Additional%20compensation%20for%20dependents.md) | Additional compensation for dependents. |
-| [1116\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001116%20-%20Presumptions%20of%20service%20connection%20for%20diseases%20associated%20with%20exposure%20to%20certain%20herbicide%20agents%3B%20presumption%20of%20exposure%20for%20veterans%E2%80%A6.md) | Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam. |
+| [1116\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001116%20-%20Presumptions%20of%20service%20connection%20for%20diseases%20associated%20with%20exposure%20to%20certain%20herbicide%20agents%3B%20presumption%20of%20exposure%20for%20veterans%E2%80%A6.md) | Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in certain locations. |
 | [1116A.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001116A%20-%20Presumptions%20of%20service%20connection%20for%20veterans%20who%20served%20offshore%20of%20the%20Republic%20of%20Vietnam.md) | Presumptions of service connection for veterans who served offshore of the Republic of Vietnam. |
 | [1116B.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001116B%20-%20Presumption%20of%20herbicide%20exposure%20for%20certain%20veterans%20who%20served%20in%20Korea.md) | Presumption of herbicide exposure for certain veterans who served in Korea. |
 | [1117\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001117%20-%20Compensation%20for%20disabilities%20occurring%20in%20Persian%20Gulf%20War%20veterans.md) | Compensation for disabilities occurring in Persian Gulf War veterans. |
 | [1118\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001118%20-%20Presumptions%20of%20service%20connection%20for%20illnesses%20associated%20with%20service%20in%20the%20Persian%20Gulf%20during%20the%20Persian%20Gulf%20War.md) | Presumptions of service connection for illnesses associated with service in the Persian Gulf during the Persian Gulf War. |
+| [1119\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001119%20-%20Presumptions%20of%20toxic%20exposure.md) | Presumptions of toxic exposure. |
+| [1120\.](Subchapter%20002%20%28II%29%20-%20Wartime%20Disability%20Compensation/%C2%A7%2001120%20-%20Presumption%20of%20service%20connection%20for%20certain%20diseases%20associated%20with%20exposure%20to%20burn%20pits%20and%20other%20toxins.md) | Presumption of service connection for certain diseases associated with exposure to burn pits and other toxins. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -79,13 +81,40 @@
 | [1163\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001163%20-%20Trial%20work%20periods%20and%20vocational%20rehabilitation%20for%20certain%20veterans%20with%20total%20disability%20ratings.md) | Trial work periods and vocational rehabilitation for certain veterans with total disability ratings. |
 | [1164\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001164%20-%20Presumptions%20of%20service-connection%20for%20Coronavirus%20Disease%202019.md) | Presumptions of service-connection for Coronavirus Disease 2019. |
 | [1165\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001165%20-%20Choice%20of%20sex%20of%20medical%20examiner%20for%20certain%20disabilities.md) | Choice of sex of medical examiner for certain disabilities. |
-| [1166\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001166%20-%20Specialized%20teams%20to%20evaluate%20claims%20involving%20military%20sexual%20trauma.md) | Specialized teams to evaluate claims involving military sexual trauma. |
+| [1166\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001166%20-%20Claims%20involving%20military%20sexual%20trauma.md) | Claims involving military sexual trauma. |
+| 1167\.<sup>1</sup> | Outreach pursuant to changes in presumptions of service connection. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| [1168\.](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/%C2%A7%2001168%20-%20Medical%20nexus%20examinations%20for%20toxic%20exposure%20risk%20activities.md) | Medical nexus examinations for toxic exposure risk activities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER VII—DETERMINATIONS RELATING TO PRESUMPTIONS OF SERVICE CONNECTION BASED ON TOXIC EXPOSURE
+
+|  |  |
+| :--- | ---: |
+| [1171\.](Subchapter%20007%20%28VII%29%20-%20Determinations%20Relating%20to%20Presumptions%20of%20Service%20Connection%20Based%20on%20Toxic%20Exposure/%C2%A7%2001171%20-%20Procedures%20to%20determine%20presumptions%20of%20service%20connection%20based%20on%20toxic%20exposure%3B%20definitions.md) | Procedures to determine presumptions of service connection based on toxic exposure; definitions. |
+| [1172\.](Subchapter%20007%20%28VII%29%20-%20Determinations%20Relating%20to%20Presumptions%20of%20Service%20Connection%20Based%20on%20Toxic%20Exposure/%C2%A7%2001172%20-%20Annual%20notice%20and%20opportunity%20for%20public%20comment.md) | Annual notice and opportunity for public comment. |
+| [1173\.](Subchapter%20007%20%28VII%29%20-%20Determinations%20Relating%20to%20Presumptions%20of%20Service%20Connection%20Based%20on%20Toxic%20Exposure/%C2%A7%2001173%20-%20Formal%20evaluation%20of%20recommendations.md) | Formal evaluation of recommendations. |
+| [1174\.](Subchapter%20007%20%28VII%29%20-%20Determinations%20Relating%20to%20Presumptions%20of%20Service%20Connection%20Based%20on%20Toxic%20Exposure/%C2%A7%2001174%20-%20Regulations%20regarding%20presumptions%20of%20service%20connection%20based%20on%20toxic%20exposure.md) | Regulations regarding presumptions of service connection based on toxic exposure. |
+| [1175\.](Subchapter%20007%20%28VII%29%20-%20Determinations%20Relating%20to%20Presumptions%20of%20Service%20Connection%20Based%20on%20Toxic%20Exposure/%C2%A7%2001175%20-%20Authority%20to%20modify%20process%3B%20congressional%20oversight.md) | Authority to modify process; congressional oversight. |
+| [1176\.](Subchapter%20007%20%28VII%29%20-%20Determinations%20Relating%20to%20Presumptions%20of%20Service%20Connection%20Based%20on%20Toxic%20Exposure/%C2%A7%2001176%20-%20Agreement%20with%20National%20Academies%20of%20Sciences%2C%20Engineering%2C%20and%20Medicine%20concerning%20toxic%20exposures.md) | Agreement with National Academies of Sciences, Engineering, and Medicine concerning toxic exposures. |
+| 1167\.<sup>2</sup> | Mental health consultations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. V, title IV, §404(a)(2), Dec. 29, 2022, 136 Stat. 5512, added item 1167 "Mental health consultations" at end of chapter analysis.
+
+Pub. L. 117–271, §1(b)(2), Dec. 27, 2022, 136 Stat. 4180, added item 1166 and struck out former item 1166 "Specialized teams to evaluate claims involving military sexual trauma".
+
+Pub. L. 117–168, §1(b)(2), title II, §§202(a), 203(a), title III, §§302, 303, title IV, §§403(d), 406(b), Aug. 10, 2022, 136 Stat. 1759, 1766, 1775, 1777, 1779, 1781, 1784, added items 1119, 1120, 1167, and 1168, item for subchapter VII, and items 1171 to 1176 and substituted "certain locations" for "the Republic of Vietnam" in item 1116.
 
 <b>2021</b>—Pub. L. 117–16, §7(a)(1), (b)(3), June 8, 2021, 135 Stat. 284, 285, renumbered item 1164 "Specialized teams to evaluate claims involving military sexual trauma" as 1166 and made technical amendment to directory language of Pub. L. 116–315, §4101(b). See Amendment note below.
 
@@ -137,6 +166,110 @@ Pub. L. 102–4, §2(a)(2), Feb. 6, 1991, 105 Stat. 13, added item 316.
 
 <b>1960</b>—Pub. L. 86–501, §2, June 10, 1960, 74 Stat. 195, added item 359.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Fairly Assessing Service-Related Toxic Exposure Residuals Presumptions
+
+Pub. L. 117–168, title VI, Aug. 10, 2022, 136 Stat. 1792, provided that:
+
+#### "SEC. 601. SHORT TITLE; DEFINITIONS.
+
+"(a)
+
+Short Title.—This title may be cited as the 'Fairly Assessing Service-related Toxic Exposure Residuals Presumptions Act of 2022' or the 'FASTER Presumption Act of 2022'.
+
+"(b)
+
+Definitions.—In this title, the terms 'active military, naval, air, or space service', 'toxic exposure', and 'toxic-exposed veteran' have the meanings given those terms in section 101 of title 38, United States Code, as amended by section 102.
+
+#### "SEC. 602. PUBLICATION OF LIST OF RESOURCES OF DEPARTMENT OF VETERANS AFFAIRS FOR TOXIC-EXPOSED VETERANS AND VETERANS WHO REPORT TOXIC EXPOSURES AND OUTREACH PROGRAM FOR SUCH VETERANS AND CAREGIVERS AND SURVIVORS OF SUCH VETERANS.
+
+"(a)
+
+Publication of List of Resources.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act \[Aug. 10, 2022\], and annually thereafter, the Secretary of Veterans Affairs shall publish a list of resources of the Department of Veterans Affairs for—
+
+&emsp;&emsp;"(A) toxic-exposed veterans and veterans who report toxic exposure;
+
+&emsp;&emsp;"(B) families and caregivers of such veterans; and
+
+&emsp;&emsp;"(C) survivors of such veterans who are receiving death benefits under the laws administered by the Secretary.
+
+&emsp;"(2)
+
+Update.—The Secretary shall periodically update the list published under paragraph (1).
+
+"(b)
+
+Outreach.—The Secretary shall develop, with input from the community, an informative outreach program for veterans on illnesses that may be related to toxic exposures, including outreach with respect to benefits and support programs.
+
+#### "SEC. 603. INCORPORATION OF TOXIC EXPOSURE SCREENING FOR VETERANS.
+
+"(a)
+
+In General.—Beginning not later than 90 days after the date of the enactment of this Act \[Aug. 10, 2022\], the Secretary of Veterans Affairs shall incorporate a screening to help determine potential toxic exposures during active military, naval, air, or space service as part of a health care screening furnished by the Department of Veterans Affairs to veterans enrolled in the system of annual patient enrollment of the Department established and operated under section 1705 of title 38, United States Code, to improve understanding by the Department of toxic exposures while serving in the Armed Forces.
+
+"(b)
+
+Timing.—The Secretary shall ensure that a veteran described in subsection (a) completes the screening required under such subsection not less frequently than once every five years.
+
+"(c)
+
+Determination of Questions.—
+
+&emsp;"(1)
+
+In general.—The questions included in the screening required under subsection (a) shall be determined by the Secretary with input from medical professionals.
+
+&emsp;"(2)
+
+Specific questions.—At a minimum, the screening required under subsection (a) shall, with respect to a veteran, include—
+
+&emsp;&emsp;"(A) a question about the potential exposure of the veteran to an open burn pit; and
+
+&emsp;&emsp;"(B) a question regarding toxic exposures that are commonly associated with service in the Armed Forces.
+
+&emsp;"(3)
+
+Open burn pit defined.—In this subsection, the term 'open burn pit' means an area of land that—
+
+&emsp;&emsp;"(A) is designated by the Secretary of Defense to be used for disposing solid waste by burning in the outdoor air; and
+
+&emsp;&emsp;"(B) does not contain a commercially manufactured incinerator or other equipment specifically designed and manufactured for the burning of solid waste.
+
+"(d)
+
+Print Material.—In developing the screening established under subsection (a), the Secretary shall ensure that print materials complementary to such screening that outline related resources for veterans are available at each medical center of the Department to veterans who may not have access to the internet.
+
+"(e)
+
+Screening Updates.—The Secretary shall consider updates to the content of the screening required under subsection (a) not less frequently than biennially to ensure the screening contains the most current information.
+
+#### "SEC. 604. TRAINING FOR PERSONNEL OF THE DEPARTMENT OF VETERANS AFFAIRS WITH RESPECT TO VETERANS WHO REPORT TOXIC EXPOSURES.
+
+"(a)
+
+Health Care Personnel.—The Secretary of Veterans Affairs shall provide to health care personnel of the Department of Veterans Affairs education and training to identify, treat, and assess the impact on veterans of illnesses related to toxic exposures and inform such personnel of how to ask for additional information from veterans regarding different toxic exposures.
+
+"(b)
+
+Benefits Personnel.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall incorporate a training program for processors of claims under the laws administered by the Secretary who review claims for disability benefits relating to service-connected disabilities based on toxic exposures.
+
+&emsp;"(2)
+
+Annual training.—Training provided to processors under paragraph (1) shall be provided not less frequently than annually."
+
+<i><sup>1</sup></i><i> So in original. Another item 1167 follows item 1176.</i>
+
+<i><sup>2</sup></i><i> So in original. Second section 1167 added by Pub. L. 117–328 in subchapter VI of this chapter, but item added at end of this analysis.</i>
+
 
 ---
 
@@ -148,3 +281,4 @@ Pub. L. 102–4, §2(a)(2), Feb. 6, 1991, 105 Stat. 13, added item 316.
 - [Subchapter 004 (IV) - Peacetime Disability Compensation](Subchapter%20004%20%28IV%29%20-%20Peacetime%20Disability%20Compensation/README.md)
 - [Subchapter 005 (V) - Peacetime Death Compensation](Subchapter%20005%20%28V%29%20-%20Peacetime%20Death%20Compensation/README.md)
 - [Subchapter 006 (VI) - General Compensation Provisions](Subchapter%20006%20%28VI%29%20-%20General%20Compensation%20Provisions/README.md)
+- [Subchapter 007 (VII) - Determinations Relating to Presumptions of Service Connection Based on Toxic Exposure](Subchapter%20007%20%28VII%29%20-%20Determinations%20Relating%20to%20Presumptions%20of%20Service%20Connection%20Based%20on%20Toxic%20Exposure/README.md)

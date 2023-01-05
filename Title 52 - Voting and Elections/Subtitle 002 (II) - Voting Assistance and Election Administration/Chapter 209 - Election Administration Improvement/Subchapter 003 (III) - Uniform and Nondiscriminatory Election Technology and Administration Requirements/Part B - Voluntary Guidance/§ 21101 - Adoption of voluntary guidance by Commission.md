@@ -16,7 +16,7 @@ The Commission shall adopt the recommendations under this section not later than
 
 #### (c) Quadrennial update
 
-The Commission shall review and update recommendations adopted with respect to section21081 of this title no less frequently than once every 4 years.
+The Commission shall review and update recommendations adopted with respect to section 21081 of this title no less frequently than once every 4 years.
 
 (Pub. L. 107–252, title III, §311, Oct. 29, 2002, 116 Stat. 1715.)
 

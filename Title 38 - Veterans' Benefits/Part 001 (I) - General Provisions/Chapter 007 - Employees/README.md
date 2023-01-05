@@ -6,7 +6,9 @@
 | :--- | ---: |
 | [701\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000701%20-%20Placement%20of%20employees%20in%20military%20installations.md) | Placement of employees in military installations. |
 | [703\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000703%20-%20Miscellaneous%20authorities%20respecting%20employees.md) | Miscellaneous authorities respecting employees. |
+| [704\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000704%20-%20Waiver%20of%20pay%20limitation%20for%20certain%20employees.md) | Waiver of pay limitation for certain employees. |
 | [705\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000705%20-%20Telephone%20service%20for%20medical%20officers%20and%20facility%20directors.md) | Telephone service for medical officers and facility directors. |
+| [706\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000706%20-%20Additional%20authority%20relating%20to%20recruitment%20and%20retention%20of%20personnel.md) | Additional authority relating to recruitment and retention of personnel. |
 | [707\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000707%20-%20Benefits%20for%20employees%20at%20overseas%20offices%20who%20are%20United%20States%20citizens.md) | Benefits for employees at overseas offices who are United States citizens. |
 | [709\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000709%20-%20Employment%20restrictions.md) | Employment restrictions. |
 | [711\.](Subchapter%20001%20%28I%29%20-%20General%20Employee%20Matters/%C2%A7%2000711%20-%20Grade%20reductions.md) | Grade reductions. |
@@ -47,6 +49,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–168, §1(b)(2), title IX, §§907, 909, Aug. 10, 2022, 136 Stat. 1759, 1813, 1815, added items 704 and 706.
 
 <b>2018</b>—Pub. L. 115–407, title V, §501(b), Dec. 31, 2018, 132 Stat. 5376, which directed adding item 728 after item 728, was executed by adding item 728 after item 727 to reflect the probable intent of Congress.
 

@@ -38,7 +38,7 @@ No proclamation pursuant to subsection (a) shall be made—
 
 #### (d) Review of developments with respect to industries concerned; annual report to President; advice of probable economic effect; considerations; investigations; hearings
 
-(1) So long as any increase in, or imposition of, any duty or other import restriction pursuant to this section or pursuant to section 7 of the Trade Agreements Extension Act of 1951 remains in effect, the United States International Trade Commission shall keep under review developments with respect to the industry concerned, and shall make annual reports to the President concerning such developments.
+(1) So long as any increase in, or imposition of, any duty or other import restriction pursuant to this section or pursuant to section 7 ofthe Trade Agreements Extension Act of 1951 remains in effect, the United States International Trade Commission shall keep under review developments with respect to the industry concerned, and shall make annual reports to the President concerning such developments.
 
 (2) Upon request of the President or upon its own motion, the United States International Trade Commission shall advise the President of its judgment as to the probable economic effect on the industry concerned of the reduction or termination of the increase in, or imposition of, any duty or other import restriction pursuant to this section or section 7 of the Trade Agreements Extension Act of 1951.
 

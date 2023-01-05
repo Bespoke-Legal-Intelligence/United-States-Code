@@ -12,11 +12,11 @@
 
 #### (2) Registration
 
-&emsp;An entity (referred to in this section as the "registrant") shall submit a registration under paragraph (1) to the Secretary containing information necessary to notify the Secretary of the name and address of each facility at which, and all trade names under which, the registrant conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and, when determined necessary by the Secretary through guidance, the general food category (as identified under section 170.3 of title 21, Code of Federal Regulations, or any other food categories as determined appropriate by the Secretary, including by guidance) of any food manufactured, processed, packed, or held at such facility. The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter. The registrant shall notify the Secretary in a timely manner of changes to such information.
+&emsp;An entity (referred to in this section as the "registrant") shall submit a registration under paragraph (1) to the Secretary containing information necessary to notify the Secretary of the name and address of each facility at which, and all trade names under which, the registrant conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and, when determined necessary by the Secretarythrough guidance, the general food category (as identified under section 170.3 of title 21, Code of Federal Regulations, or any other food categories as determined appropriate by the Secretary, including by guidance) of any food manufactured, processed, packed, or held at such facility. The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter. The registrant shall notify the Secretary in a timely manner of changes to such information.
 
 #### (3) Biennial registration renewal
 
-&emsp;During the period beginning on October 1 and ending on December 31 of each even-numbered year, a registrant that has submitted a registration under paragraph (1) shall submit to the Secretary a renewal registration containing the information described in paragraph (2). The Secretary shall provide for anabbreviated registration renewal process for any registrant that has not had any changes to such information since the registrant submitted the preceding registration or registration renewal for the facility involved.
+&emsp;During the period beginning on October 1 and ending on December 31 of each even-numbered year, a registrant that has submitted a registration under paragraph (1) shall submit to the Secretary a renewal registration containing the information described in paragraph (2). The Secretary shall provide for an abbreviated registration renewal process for any registrant that has not had any changes to such information since the registrant submitted the preceding registration or registration renewal for the facility involved.
 
 #### (4) Procedure
 
@@ -86,7 +86,7 @@ For purposes of this section:
 
 &emsp;(2) The term "domestic facility" means a facility located in any of the States or Territories.
 
-&emsp;(3)(A) The term "foreign facility" means a facility that manufacturers, processes, packs, or holds food, but only if food from such facility is exported to the United States without further processing or packaging outside the United States.
+&emsp;(3)(A) The term "foreign facility" means a facility that manufacturers,<sup>1</sup> processes, packs, or holds food, but only if food from such facility is exported to the United States without further processing or packaging outside the United States.
 
 &emsp;(B) A food may not be considered to have undergone further processing or packaging for purposes of subparagraph (A) solely on the basis that labeling was added or that any similar activity of a de minimis nature was carried out with respect to the food.
 
@@ -164,7 +164,7 @@ Authority with respect to certain facilities.—
 
 &emsp;&emsp;"(i)
 
-In general.—In promulgating the regulations under subparagraph (A), the Secretary shall consider the results of the science-based risk analysis conducted under subparagraph (C), and shall exempt certain facilities from the requirements in section 418 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350g\] (as added by this section), including hazard analysis and preventive controls, and the mandatory inspection frequency in section 421 of such Act \[21 U.S.C. 350j\] (as added by section 201), or modify the requirements in such sections 418 or 421, as the Secretary determines appropriate, if such facilities are engaged only in specific types of on-farm manufacturing, processing, packing, or holding activities that the Secretary determines to be low risk involving specific foods the Secretary determines to be low risk.
+In general.—In promulgating the regulations under subparagraph (A), the Secretary shall consider the results of the science-based risk analysis conducted under subparagraph (C), and shall exempt certain facilities from the requirements in section 418 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350g\] (as added by this section), including hazard analysis and preventive controls, and the mandatory inspection frequency in section 421 of such Act \[21 U.S.C. 350j\] (as added by section 201), or modify the requirements in such sections418 or 421, as the Secretary determines appropriate, if such facilities are engaged only in specific types of on-farm manufacturing, processing, packing, or holding activities that the Secretary determines to be low risk involving specific foods the Secretary determines to be low risk.
 
 &emsp;&emsp;"(ii)
 
@@ -197,4 +197,6 @@ Pub. L. 111–353, title I, §102(b)(2), Jan. 4, 2011, 124 Stat. 3888, provided 
 #### Electronic Filing
 
 Pub. L. 107–188, title III, §305(d), June 12, 2002, 116 Stat. 668, provided that: "For the purpose of reducing paperwork and reporting burdens, the Secretary of Health and Human Services may provide for, and encourage the use of, electronic methods of submitting to the Secretary registrations required pursuant to this section \[enacting this section, amending sections 331 and 381 of this title, and enacting provisions set out as a note under this section\]. In providing for the electronic submission of such registrations, the Secretary shall ensure adequate authentication protocols are used to enable identification of the registrant and validation of the data as appropriate."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "manufactures,".</i>
 

@@ -188,7 +188,7 @@
 
 #### (2) Repayment
 
-&emsp;In the case of individuals who have received amounts of pandemic emergency unemployment compensation under this section to which they were not entitled, the State shallrequire such individuals to repay the amounts of such pandemic emergency unemployment compensation to the State agency, except that the State agency may waive such repayment if it determines that—
+&emsp;In the case of individuals who have received amounts of pandemic emergency unemployment compensation under this section to which they were not entitled, the State shall require such individuals to repay the amounts of such pandemic emergency unemployment compensation to the State agency, except that the State agency may waive such repayment if it determines that—
 
 &emsp;&emsp;(A) the payment of such pandemic emergency unemployment compensation was without fault on the part of any such individual; and
 
@@ -272,7 +272,7 @@ Pub. L. 116–260, div. N, title II, §206(d), Dec. 27, 2020, 134 Stat. 1956, pr
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection\] shall apply as if included in the enactment of the CARES Act (Public Law 116–136), except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act \[Dec. 27, 2020\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply as if included in the enactment of the CARES Act (Public Law 116–136), except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act \[Dec. 27, 2020\].
 
 "(2)
 

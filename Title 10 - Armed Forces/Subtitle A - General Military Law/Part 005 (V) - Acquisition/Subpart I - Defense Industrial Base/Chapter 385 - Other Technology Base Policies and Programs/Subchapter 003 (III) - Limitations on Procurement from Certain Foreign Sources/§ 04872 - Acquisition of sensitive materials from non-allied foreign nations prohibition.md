@@ -20,7 +20,7 @@ Applicability.—Subsection (a) shall apply to prime contracts and subcontracts 
 
 Exceptions.—Subsection (a) does not apply under the following circumstances:
 
-&emsp;(1) If the Secretary of Defense determines that covered materials of satisfactory qualityand quantity, in the required form, cannot be procured as and when needed at a reasonable price.
+&emsp;(1) If the Secretary of Defense determines that covered materials of satisfactory quality and quantity, in the required form, cannot be procured as and when needed at a reasonable price.
 
 &emsp;(2) To the procurement of an end item described in subsection (a)(1) or the sale of any covered material described under subsection (a)(1) by the Secretary outside of the United States for use outside of the United States.
 
@@ -32,7 +32,7 @@ Exceptions.—Subsection (a) does not apply under the following circumstances:
 
 &emsp;&emsp;&emsp;(ii) a mill product, such as bar, billet, slab, wire, cube, sphere, block, blank, plate, or sheet, that has not been incorporated into an end item, subsystem, assembly, or component;
 
-&emsp;&emsp;(B) an electronic device, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to section 187 of this title, determines that the domestic availability of a particular electronic device is critical to national security; or
+&emsp;&emsp;(B) an electronic device, unless the Secretary of Defense, upon the recommendation of the Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–1), determines that the domestic availability of a particular electronic device is critical to national security; or
 
 &emsp;&emsp;(C) a neodymium-iron-boron magnet manufactured from recycled material if the milling of the recycled material and sintering of the final magnet takes place in the United States.
 
@@ -70,7 +70,7 @@ Covered nation.—The term "covered nation" means—
 
 End item.—The term "end item" has the meaning given in section 4863(m) of this title.
 
-(Added Pub. L. 115–232, div. A, title VIII, §871(a), Aug. 13, 2018, 132 Stat. 1904, §2533c; amended Pub. L. 116–92, div. A, title VIII, §849, Dec. 20, 2019, 133 Stat. 1508; renumbered §4872 and amended Pub. L. 116–283, div. A, title VIII, §844(a), title XVIII, §1870(d)(2), (3), Jan. 1, 2021, 134 Stat. 3766, 4286; Pub. L. 117–81, div. A, title XVII, §1701(t)(2)(B), (C), (3), Dec. 27, 2021, 135 Stat. 2150.)
+(Added Pub. L. 115–232, div. A, title VIII, §871(a), Aug. 13, 2018, 132 Stat. 1904, §2533c; amended Pub. L. 116–92, div. A, title VIII, §849, Dec. 20, 2019, 133 Stat. 1508; renumbered §4872 and amended Pub. L. 116–283, div. A, title VIII, §844(a), title XVIII, §1870(d)(2), (3), Jan. 1, 2021, 134 Stat. 3766, 4286; Pub. L. 117–81, div. A, title XVII, §1701(t)(2)(B), (C), (3), Dec. 27, 2021, 135 Stat. 2150; Pub. L. 117–263, div. A, title XIV, §1411(d)(2)(B), Dec. 23, 2022, 136 Stat. 2872.)
 
 #### Amendment of Subsections (a)(1) and (c)(3)(A)(i)
 
@@ -91,6 +91,8 @@ Pub. L. 116–283, §1870(d)(2), which had initially directed the transfer of se
 Amendments by section 844(a) of Pub. L. 116–283, which were directed to section 2533c of this title effective 5 years after Jan. 1, 2021, are to be executed to this section, to reflect the probable intent of Congress and the renumbering of section 2533c as this section by Pub. L. 116–283, as amended by Pub. L. 117–81, effective Jan. 1, 2022.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(3)(B). Pub. L. 117–263 substituted "Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–1)" for "Strategic Materials Protection Board pursuant to section 187 of this title".
 
 <b>2021</b>—Pub. L. 116–283, §1870(d)(3)(B), as amended by Pub. L. 117–81, §1701(t)(3), amended section catchline generally. Prior to amendment, section catchline read as follows: "Prohibition on acquisition of sensitive materials from non-allied foreign nations".
 

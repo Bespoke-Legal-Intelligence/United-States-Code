@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### References in Text
 
-Subsection (b)(3)(A) of section 857, referred to in subsec. (c)(1)(B), was repealed and subsection (b)(3)(B) wasredesignated (b)(3)(A) by Pub. L. 115–97, title I, §13001(b)(2)(K)(i), Dec. 22, 2017, 131 Stat. 2096.
+Subsection (b)(3)(A) of section 857, referred to in subsec. (c)(1)(B), was repealed and subsection (b)(3)(B) was redesignated (b)(3)(A) by Pub. L. 115–97, title I, §13001(b)(2)(K)(i), Dec. 22, 2017, 131 Stat. 2096.
 
 #### Amendments
 

@@ -14,7 +14,7 @@ Within 15 days after the Secretary receives from the Governor of a State a descr
 
 #### (A) In general
 
-&emsp;&emsp;To be certified as a qualifying State, the mediation program of the State must provide mediation services to persons described in paragraph (2) that are involved in agricultural loans (regardless of whether the loans are made or guaranteed by the Secretary or made by a third party).
+&emsp;&emsp;To be certified as a qualifying State, the mediation program of the State must provide mediation services to persons described in paragraph (2) that are involved in agricultural loans (regardless of whether the loansare made or guaranteed by the Secretary or made by a third party).
 
 #### (B) Other issues
 
@@ -112,7 +112,7 @@ In this section, the term "mediation services", with respect to mediation or a r
 
 The Organic Foods Production Act of 1990, referred to in subsec. (c)(1)(B)(ii), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of this title and Tables.
 
-This Act, referred to in subsec. (c)(2)(B)(i), is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, as amended, known as the Agricultural Credit Act of 1987. Provisions relating to mediation services are contained in title V of the Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (c)(2)(B)(i), is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, known as the Agricultural Credit Act of 1987. Provisions relating to mediation services are contained in title V of the Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

@@ -10,7 +10,7 @@ Any citizen of the United States—
 
 &emsp;(3) who is not placed in another appropriate position in the Government of the United States in the Republic of Panama;
 
-> shall, upon the employee's request, be accorded appropriate assistance for placement in vacantpositions in the Government of the United States in the United States.
+> shall, upon the employee's request, be accorded appropriate assistance for placement in vacant positions in the Government of the United States in the United States.
 
 #### (b) Citizens eliminated from employment with Executive agency or Canal Zone Government as a result of implementation of Panama Canal Treaty of 1977
 

@@ -10,7 +10,7 @@
 
 &emsp;(B) the product of each unit's baseline multiplied by 2.50 lbs/mmBtu divided by 2,000,
 
-> and sum the computations. The Administrator shall adjust the foregoing calculation to reflect projected calendar year 1995 utilization of the units subject to the emissions limitations of this subchapter that the Administrator finds would have occurred in the absence of the imposition of such requirements. Pursuant to subsection (d), the Administrator shall allocate allowances from the reserve established hereinunder until the earlier of such time as all such allowances in the reserve are allocated or December 31, 1999.
+> and sum the computations. The Administrator shall adjust the foregoing calculation to reflect projected calendar year 1995 utilization of the units subject to the emissions limitations ofthis subchapter that the Administrator finds would have occurred in the absence of the imposition of such requirements. Pursuant to subsection (d), the Administrator shall allocate allowances from the reserve established hereinunder until the earlier of such time as all such allowances in the reserve are allocated or December 31, 1999.
 
 (3) In addition to allowances allocated pursuant to paragraph (1), in each calendar year beginning in 1995 and ending in 1999, inclusive, the Administrator shall allocate for each unit on Table A that is located in the States of Illinois, Indiana, or Ohio (other than units at Kyger Creek, Clifty Creek and Joppa Steam), allowances in an amount equal to 200,000 multiplied by the unit's pro rata share of the total number of allowances allocated for all units on Table A in the 3 States (other than units at Kyger Creek, Clifty Creek, and Joppa Steam) pursuant to paragraph (1). Such allowances shall be excluded from the calculation of the reserve under paragraph (2).
 
@@ -44,7 +44,7 @@ The owner or operator of an affected unit under subsection (a) may include in it
 
 &emsp;(A) specify the unit or units proposed for designation as an eligible phase I extension unit;
 
-&emsp;(B) provide a copy of an executed contract, which may be contingent upon the Administrator approving the proposal, for the design engineering, and construction of the qualifying phase I technology for the extension unit, or for the unit or units to which the extension unit's emission reduction obligation is to be transferred;
+&emsp;(B) provide a copy of an executed contract, which may be contingent upon the Administrator approving the proposal, for the designengineering, and construction of the qualifying phase I technology for the extension unit, or for the unit or units to which the extension unit's emission reduction obligation is to be transferred;
 
 &emsp;(C) specify the unit's or units' baseline, actual 1985 emissions rate, allowable 1985 emissions rate, and projected utilization for calendar years 1995 through 1999;
 
@@ -1608,13 +1608,13 @@ S. Oak Creek
 
 &emsp;&emsp;&emsp;(III) Electric utilities subject to the jurisdiction of a State regulatory authority must have such plan approved by such authority. For electric utilities not subject to the jurisdiction of a State regulatory authority such plan shall be approved by the entity with rate-making authority for such utility.
 
-&emsp;&emsp;&emsp;(iv) In the case of qualified energy conservation measures undertaken by a State regulated electric utility, the Secretary of Energy certifies that the State regulatory authority with jurisdiction over the electric rates of such electric utility has established rates and charges which ensure that the net income of such electric utility after implementation of specific cost effective energy conservation measures is at least as high as such net income would have been if the energy conservation measures had not been implemented. Upon the date of any such certification by the Secretary of Energy, all allowances which, butfor this paragraph, would have been allocated under subparagraph (A) before such date, shall be allocated to the electric utility. This clause is not a requirement for qualified renewable energy.
+&emsp;&emsp;&emsp;(iv) In the case of qualified energy conservation measures undertaken by a State regulated electric utility, the Secretary of Energy certifies that the State regulatory authority with jurisdiction over the electric rates of such electric utility has established rates and charges which ensure that the net income of such electric utility after implementation of specific cost effective energy conservation measures is at least as high as such net income would have been if the energy conservation measures had not been implemented. Upon the date of any such certification by the Secretary of Energy, all allowances which, but for this paragraph, would have been allocated under subparagraph (A) before such date, shall be allocated to the electric utility. This clause is not a requirement for qualified renewable energy.
 
 &emsp;&emsp;&emsp;(v) Such utility or any subsidiary of the utility's holding company owns or operates at least one affected unit.
 
 #### (C) Period of applicability
 
-&emsp;&emsp;Allowances under this subsection shall be allocated only with respect to kilowatt hours of electric energy saved by qualified energy conservation measures or generated by qualified renewable energy after January 1, 1992 and before the earlier of (i) December 31, 2000, or (ii) the date on which any electric utility steam generating unit owned or operated by the electric utility to which the allowances are allocated becomes subject to this subchapter (including those sources that elect to become affected by this subchapter, pursuant to section 7651i of this title).
+&emsp;&emsp;Allowances under this subsection shall be allocated only with respect to kilowatthours of electric energy saved by qualified energy conservation measures or generated by qualified renewable energy after January 1, 1992 and before the earlier of (i) December 31, 2000, or (ii) the date on which any electric utility steam generating unit owned or operated by the electric utility to which the allowances are allocated becomes subject to this subchapter (including those sources that elect to become affected by this subchapter, pursuant to section 7651i of this title).
 
 #### (D) Determination of avoided emissions
 

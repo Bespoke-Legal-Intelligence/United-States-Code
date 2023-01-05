@@ -6,7 +6,7 @@ Entitlement.—Except as provided in subsection (c) and in the second sentence o
 
 (b)
 
-Entitlement Limitations.—Whenever the period of entitlement under this section of an eligible veteran who is enrolled in an educational institution regularly operated on the quarter orsemester system ends during a quarter or semester, such period shall be extended to the termination of such unexpired quarter or semester. In educational institutions not operated on the quarter or semester system, whenever the period of eligibility ends after a major portion of the course is completed such period shall be extended to the end of the course or for twelve weeks, whichever is the lesser period.
+Entitlement Limitations.—Whenever the period of entitlement under this section of an eligible veteran who is enrolled in an educational institution regularly operated on the quarter or semester system ends during a quarter or semester, such period shall be extended to the termination of such unexpired quarter or semester. In educational institutions not operated on the quarter or semester system, whenever the period of eligibility ends after a major portion of the course is completed such period shall be extended to the end of the course or for twelve weeks, whichever is the lesser period.
 
 (c)
 
@@ -18,7 +18,7 @@ Duration of Entitlement.—Except as provided in subsection (b) and in subchapte
 
 #### Prior Provisions
 
-Provisions similar to those comprising subsecs. (a) to (c) of this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1176, which was classified to former sections 1610 and 1611(a), 1611(a)(2), (3), and 1611(b) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
+Provisions similar to those comprising subsecs. (a) to (c) of this section were contained in Pub. L. 85–857,Sept. 2, 1958, 72 Stat. 1176, which was classified to former sections 1610 and 1611(a), 1611(a)(2), (3), and 1611(b) of this title, respectively, prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
 

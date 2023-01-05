@@ -24,7 +24,7 @@ Designation of Suicide Prevention Counselors.—In carrying out the comprehensiv
 
 (e)
 
-Best Practices Research.—In carrying out the comprehensive program, the Secretary shall provide for research on best practices for suicide prevention among covered individuals. Research shall be conducted under this subsection in consultation with the heads of the following entities:
+Best Practices Research.—In carrying out the comprehensive program, the Secretaryshall provide for research on best practices for suicide prevention among covered individuals. Research shall be conducted under this subsection in consultation with the heads of the following entities:
 
 &emsp;(1) The Department of Health and Human Services.
 
@@ -72,7 +72,7 @@ Peer Support Counseling Program.—(1) In carrying out the comprehensive program
 
 &emsp;(B) to conduct outreach to covered individuals and the families of covered individuals.
 
-(2) In carrying out the peer support counseling program under this subsection, the Secretary shall provide adequate training for peer counselors, including training carried out under the national program of training required by section304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note).
+(2) In carrying out the peer support counseling program under this subsection, the Secretary shall provide adequate training for peer counselors, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note).
 
 (3) In addition to other locations the Secretary considers appropriate, the Secretary shall carry out the peer support program under this subsection at each Department medical center.
 
@@ -161,6 +161,188 @@ Subsec. (j)(2). Pub. L. 112–239, §730(a)(2), inserted ", including training 
 Subsec. (j)(3). Pub. L. 112–239, §730(a)(3), added par. (3).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Veterans Crisis Line
+
+Pub. L. 117–328, div. V, title II, Dec. 29, 2022, 136 Stat. 5501, provided that:
+
+#### "SEC. 201. VETERANS CRISIS LINE.
+
+"In this title, the term 'Veterans Crisis Line' means the toll-free hotline for veterans established under section 1720F(h) of title 38, United States Code.
+
+#### "subtitle a—veterans crisis line training and quality management
+
+#### "SEC. 211. STAFF TRAINING.
+
+"(a)
+
+Review of Training for Veterans Crisis Line Call Responders.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Veterans Affairs shall enter into an agreement with an organization outside the Department of Veterans Affairs to review the training for Veterans Crisis Line call responders on assisting callers in crisis.
+
+&emsp;"(2)
+
+Completion of review.—The review conducted under paragraph (1) shall be completed not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\].
+
+&emsp;"(3)
+
+Elements of review.—The review conducted under paragraph (1) shall consist of a review of the training provided by the Department on subjects including risk assessment, lethal means assessment, substance use and overdose risk assessment, safety planning, referrals to care, supervisory consultation, and emergency dispatch.
+
+&emsp;"(4)
+
+Update of training.—If any deficiencies in the training for Veterans Crisis Line call responders are found pursuant to the review under paragraph (1), the Secretary shall update such training and associated standards of practice to correct those deficiencies not later than one year after the completion of the review.
+
+"(b)
+
+Retraining Guidelines for Veterans Crisis Line Call Responders.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act, the Secretary shall develop guidelines on retraining and quality management for when a Veterans Crisis Line call responder has an adverse event or when a quality review check by a supervisor of such a call responder denotes that the call responder needs improvement.
+
+&emsp;"(2)
+
+Elements of guidelines.—The guidelines developed under paragraph (1) shall specify the subjects and quantity of retraining recommended and how supervisors should implement increased use of silent monitoring or other performance review mechanisms.
+
+#### "SEC. 212. QUALITY REVIEW AND MANAGEMENT.
+
+"(a)
+
+Monitoring of Calls on Veterans Crisis Line.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Veterans Affairs shall require that not fewer than two calls per month for each Veterans Crisis Line call responder be subject to supervisory silent monitoring, which is used to monitor the quality of conduct by such call responder during the call.
+
+&emsp;"(2)
+
+Benchmarks.—The Secretary shall establish benchmarks for requirements and performance of Veterans Crisis Line call responders on supervisory silent monitored calls.
+
+&emsp;"(3)
+
+Quarterly reports.—Not less frequently than quarterly, the Secretary shall submit to the Office of Mental Health and Suicide Prevention of the Department of Veterans Affairs a report on occurrence and outcomes of supervisory silent monitoring of calls on the Veterans Crisis Line.
+
+"(b)
+
+Quality Management Processes for Veterans Crisis Line.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the leadership for the Veterans Crisis Line, in partnership with the Office of Mental Health and Suicide Prevention of the Department and the National Center for Patient Safety of the Department, shall establish quality managementprocesses and expectations for staff of the Veterans Crisis Line, including with respect to reporting of adverse events and close calls.
+
+"(c)
+
+Annual Common Cause Analysis for Callers to Veterans Crisis Line Who Die by Suicide.—
+
+&emsp;"(1)
+
+In general.—Not less frequently than annually, the Secretary shall perform a common cause analysis for all identified callers to the Veterans Crisis Line that died by suicide during the one-year period preceding the conduct of the analysis before the caller received contact with emergency services and in which the Veterans Crisis Line was the last point of contact.
+
+&emsp;"(2)
+
+Submittal of results.—The Secretary shall submit to the Office of Mental Health and Suicide Prevention of the Department the results of each analysis conducted under paragraph (1).
+
+&emsp;"(3)
+
+Application of themes or lessons.—The Secretary shall apply any themes or lessons learned under an analysis under paragraph (1) to updating training and standards of practice for staff of the Veterans Crisis Line.
+
+#### "SEC. 213. GUIDANCE FOR HIGH-RISK CALLERS.
+
+"(a)
+
+Development of Enhanced Guidance and Procedures for Response to Calls Related to Substance Use and Overdose Risk.—Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs, in consultation with national experts within the Department of Veterans Affairs on substance use disorder and overdose, shall—
+
+&emsp;"(1) develop enhanced guidance and procedures to respond to calls to the Veterans Crisis Line related to substance use and overdose risk;
+
+&emsp;"(2) update training materials for staff of the Veterans Crisis Line in response to such enhanced guidance and procedures; and
+
+&emsp;"(3) update criteria for monitoring compliance with such enhanced guidance and procedures.
+
+"(b)
+
+Review and Improvement of Standards for Emergency Dispatch.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the enactment of this Act, the Secretary shall—
+
+&emsp;&emsp;"(A) review the current emergency dispatch standard operating procedure of the Veterans Crisis Line to identify any additions to such procedure to strengthen communication regarding—
+
+&emsp;&emsp;&emsp;"(i) emergency dispatch for disconnected callers; and
+
+&emsp;&emsp;&emsp;"(ii) the role of social service assistants in requesting emergency dispatch and recording such dispatches; and
+
+&emsp;&emsp;"(B) update such procedure to include the additions identified under subparagraph (A).
+
+&emsp;"(2)
+
+Training.—The Secretary shall ensure that all staff of the Veterans Crisis Line are trained on all updates made under paragraph (1)(B) to the emergency dispatch standard operating procedure of the Veterans Crisis Line.
+
+#### "SEC. 214. OVERSIGHT OF TRAINING OF SOCIAL SERVICE ASSISTANTS AND CLARIFICATION OF JOB RESPONSIBILITIES.
+
+"Not later than one year after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs shall—
+
+&emsp;"(1) establish oversight mechanisms to ensure that social service assistants and supervisory social service assistants working with the Veterans Crisis Line are appropriately trained and implementing guidance of the Department regarding the Veterans Crisis Line; and
+
+&emsp;"(2) refine standard operating procedures to delineate roles and responsibilities for all levels of supervisory social service assistants working with the Veterans Crisis Line.
+
+#### "subtitle b—pilot programs and research on veterans crisis line
+
+#### "SEC. 221. PILOT PROGRAMS.
+
+"(a)
+
+Extended Safety Planning Pilot Program for Veterans Crisis Line.—
+
+&emsp;"(1)
+
+In general.—Commencing not later than 180 days after the date of the enactment of this Act \[Dec. 29, 2022\], the Secretary of Veterans Affairs shall carry out a pilot program to determine whether a lengthier, templated safety plan used in clinical settings could be applied in call centers for the Veterans Crisis Line.
+
+&emsp;"(2)
+
+Briefing.—Not later than two years after the date of the enactment of this Act, the Secretary shall provide to Congress a briefing on the findings of the Secretary under the pilot program conducted under paragraph (1), which shall include any recommendations of the Secretary with respect to the continuation or discontinuation of the pilot program.
+
+"(b)
+
+Crisis Line Facilitation Pilot Program.—
+
+&emsp;"(1)
+
+In general.—Commencing not later than one year after the date of the enactment of this Act, the Secretary shall carry out a pilot program on the use of crisis line facilitation to increase use of the Veterans Crisis Line among high-risk veterans.
+
+&emsp;"(2)
+
+Briefing.—Not later than two years after the date of the enactment of this Act, the Secretary shall provide to Congress a briefing on the findings of the Secretary under the pilot program under paragraph (1), including any recommendations of the Secretary with respect to the continuation or discontinuation of the pilot program.
+
+&emsp;"(3)
+
+Definitions.—In this section:
+
+&emsp;&emsp;"(A) The term 'crisis line facilitation', with respect to a high-risk veteran, means the presentation by a therapist of psychoeducational information about the Veterans Crisis Line and a discussion of the perceived barriers and facilitators to future use of the Veterans Crisis Line for the veteran, which culminates in the veteran calling the Veterans Crisis Line with the therapist to provide firsthand experiences that may counter negative impressions of the Veterans Crisis Line.
+
+&emsp;&emsp;"(B) The term 'high-risk veteran' means a veteran receiving inpatient mental health care following a suicidal crisis.
+
+#### "SEC. 222. AUTHORIZATION OF APPROPRIATIONS FOR RESEARCH ON EFFECTIVENESS AND OPPORTUNITIES FOR IMPROVEMENT OF VETERANS CRISIS LINE.
+
+"There is authorized to be appropriated to the Secretary of Veterans Affairs for fiscal years 2022 and 2023, a total of $5,000,000 for the Mental Illness Research, Education, and Clinical Centers of the Department of Veterans Affairs to conduct research on the effectiveness of the Veterans Crisis Line and areas for improvement for the Veterans Crisis Line.
+
+#### "subtitle c—transition of crisis line number
+
+#### "SEC. 231. FEEDBACK ON TRANSITION OF CRISIS LINE NUMBER.
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall solicit feedback from veterans service organizations on how to conduct outreach to members of the Armed Forces, veterans, their family members, and other members of the military and veterans community on the move to 988 as the new, national three-digit suicide and mental health crisis hotline, which is expected to be implemented by July 2022, to minimize confusion and ensure veterans are aware of their options for reaching the Veterans Crisis Line.
+
+"(b)
+
+Nonapplication of FACA.—The Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall not apply to any feedback solicited under subsection (a).
+
+"(c)
+
+Veterans Service Organization Defined.—In this section, the term 'veterans service organization' means an organization recognized by the Secretary forthe representation of veterans under section 5902 of title 38, United States Code."
+
+#### Department of Veterans Affairs Governors Challenge Program
+
+Pub. L. 117–328, div. V, title III, §303, Dec. 29, 2022, 136 Stat. 5508, provided that: "The Secretary of Veterans Affairs may enter into agreements with States, territories, and American Indian and Alaska Native tribes for the development and implementation of veteran suicide prevention proposals through the Governors Challenge Program."
 
 #### Financial Assistance to Certain Entities To Provide or Coordinate the Provision of Suicide Prevention Services for Eligible Individuals and Their Families
 
@@ -546,7 +728,7 @@ Study of grant program.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 180 days after the commencement of the grant program under thissection, the Secretary shall seek to enter into a contract with an appropriate entity described in paragraph (3) to conduct a study of the grant program.
+In general.—Not later than 180 days after the commencement of the grant program under this section, the Secretary shall seek to enter into a contract with an appropriate entity described in paragraph (3) to conduct a study of the grant program.
 
 &emsp;&emsp;"(B)
 
@@ -860,7 +1042,7 @@ In General.—In the first publication of the Department of Veterans Affairs and
 
 "(b)
 
-Rule of Construction.—Nothing in this section shall be construed to prevent the Secretary of VeteransAffairs and the Secretary of Defense from considering all relevant evidence, as appropriate, in updating the Department of Veterans Affairs and Department of Defense Clinical Practice Guideline for Assessment and Management of Patients at Risk for Suicide, as required under subsection (a), or from ensuring that the final clinical practice guidelines updated under such subsection remain applicable to the patient populations of the Department of Veterans Affairs and the Department of Defense."
+Rule of Construction.—Nothing in this section shall be construed to prevent the Secretary of Veterans Affairs and the Secretary of Defense from considering all relevant evidence, as appropriate, in updating the Department of Veterans Affairs and Department of Defense Clinical Practice Guideline for Assessment and Management of Patients at Risk for Suicide, as required under subsection (a), or from ensuring that the final clinical practice guidelines updated under such subsection remain applicable to the patient populations of the Department of Veterans Affairs and the Department of Defense."
 
 #### Contracts Related to Suicide Prevention and Mental Health Outreach Media
 

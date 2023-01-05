@@ -44,5 +44,5 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Effective Date of 1988 Amendment
 
-For effective date of amendment by section 2613(b)(2) of Pub. L. 100–690, see section 2613(b)(1) of Pub. L. 100–690, set out as an Effect of Enactment of Similar Provisions note under section 285m of this title.
+For effective date of amendment by section 2613(b)(2) of Pub. L. 100–690, see section 2613(b)(1) of Pub. L.100–690, set out as an Effect of Enactment of Similar Provisions note under section 285m of this title.
 

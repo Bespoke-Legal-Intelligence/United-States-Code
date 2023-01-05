@@ -14,7 +14,7 @@ The Secretary shall—
 
 &emsp;(3) submit such findings to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and the Workforce of the House of Representatives; and
 
-&emsp;(4) make publicly available, in a manner consistent with paragraph (2), best practices for implementing evidence-based activities under this subpart, including evidence-based activities, defined for the purpose of this paragraph as activities meeting the requirements of section 7801(21)(A)(i) of this title.
+&emsp;(4) make publicly available, in a manner consistent with paragraph (2), best practicesfor implementing evidence-based activities under this subpart, including evidence-based activities, defined for the purpose of this paragraph as activities meeting the requirements of section 7801(21)(A)(i) of this title.
 
 (Pub. L. 89–10, title II, §2225, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1943.)
 

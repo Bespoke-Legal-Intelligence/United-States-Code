@@ -26,7 +26,7 @@ The Congress finds that—
 
 &emsp;(8) certain activities of the Federal Government have inappropriately altered or assisted in the alteration of wetlands, thereby unnecessarily stimulating and accelerating the loss of these valuable resources and the environmental and economic benefits that they provide; and
 
-&emsp;(9) the existing Federal, State, and private cooperation in wetlands conservation should be strengthened in order to minimize furtherlosses of these valuable areas and to assure their management in the public interest for this and future generations.
+&emsp;(9) the existing Federal, State, and private cooperation in wetlands conservation should be strengthened in order to minimize further losses of these valuable areas and to assure their management in the public interest for this and future generations.
 
 #### (b) Purpose
 

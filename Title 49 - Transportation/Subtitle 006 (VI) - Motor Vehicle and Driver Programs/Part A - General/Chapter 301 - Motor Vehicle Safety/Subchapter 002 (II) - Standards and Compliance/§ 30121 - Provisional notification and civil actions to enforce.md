@@ -36,7 +36,7 @@ Orders to Manufacturers.—If the Secretary prevails in a civil action referred 
 
 (d)
 
-Venue.—Notwithstanding section 30163(c) of this title, a civil action about an order issued under section 30118(b) of this title must be brought in the United States district court for a judicial district in the State in which the manufacturer is incorporated or the District of Columbia. On motion of a party, the court may transfer the action to another district court if good cause is shown. All actions related to the same order under section 30118(b) shall be consolidated in an action in one judicial district under an order of the court in which the first action was brought. If the first action is transferred to another court, that court shall issue the consolidation order.
+Venue.—Notwithstanding section 30163(c) of this title, a civil action about an order issued under section 30118(b) of this title must be brought in the United States district court for a judicial district in the State in which the manufacturer is incorporated or the District of Columbia. On motion of a party, the court maytransfer the action to another district court if good cause is shown. All actions related to the same order under section 30118(b) shall be consolidated in an action in one judicial district under an order of the court in which the first action was brought. If the first action is transferred to another court, that court shall issue the consolidation order.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 954.)
 

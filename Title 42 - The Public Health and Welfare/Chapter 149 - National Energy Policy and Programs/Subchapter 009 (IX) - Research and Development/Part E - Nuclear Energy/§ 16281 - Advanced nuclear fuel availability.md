@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(G) if applicable, shall, prior to acquiring or providing HA–LEU under subparagraph (H), in coordination with the consortium established pursuant to subparagraph (F), develop a schedule for cost recovery of HA–LEU made available to members of the consortium using HA–LEU for commercial use pursuant to subparagraph (H);
 
-&emsp;&emsp;(H) shall, beginning not later than 3 years after the establishment of a consortium under subparagraph (F), have the capability to acquire or provide HA–LEU, in order to make such HA–LEU available to members of the consortium beginning not later than January 1, 2026, in amounts that are consistent, to the extent practicable, with—
+&emsp;&emsp;(H) shall, beginning not later than 3 years after the establishment of a consortium under subparagraph (F), have the capabilityto acquire or provide HA–LEU, in order to make such HA–LEU available to members of the consortium beginning not later than January 1, 2026, in amounts that are consistent, to the extent practicable, with—
 
 &emsp;&emsp;&emsp;(i) the quantities estimated under the surveys conducted under subparagraph (E); plus
 
@@ -76,7 +76,7 @@
 
 #### (A) Sale or transfer to consortium
 
-&emsp;&emsp;The requirements of section 3112 of the USEC Privatization Act (42 U.S.C. 2297h–10), except for the requirements of subparagraph (A) of section 3112(d)(2), shall not apply to the provision of enrichment services, or the sale or transfer of HA–LEU for commercialuse by the Secretary to a member of the consortium under this subsection.
+&emsp;&emsp;The requirements of section 3112 of the USEC Privatization Act (42 U.S.C. 2297h–10), except for the requirements of subparagraph (A) of section 3112(d)(2), shall not apply to the provision of enrichment services, or the sale or transfer of HA–LEU for commercial use by the Secretary to a member of the consortium under this subsection.
 
 #### (B) Demonstration
 

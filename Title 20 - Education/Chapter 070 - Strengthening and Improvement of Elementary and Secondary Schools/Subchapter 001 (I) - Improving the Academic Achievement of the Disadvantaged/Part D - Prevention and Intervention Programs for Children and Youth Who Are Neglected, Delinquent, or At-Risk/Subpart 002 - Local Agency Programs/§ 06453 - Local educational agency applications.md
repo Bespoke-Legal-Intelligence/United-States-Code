@@ -22,7 +22,7 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 &emsp;(8) as appropriate, a description of how the program will involve parents and family members in efforts to improve the educational achievement of their children, assist in dropout prevention activities, and prevent the involvement of their children in delinquent activities;
 
-&emsp;(9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such asprograms under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] and career and technical education programs serving at-risk children and youth;
+&emsp;(9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] and career and technical education programs serving at-risk children and youth;
 
 &emsp;(10) a description of how the program will be coordinated with programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 \[34 U.S.C. 11101 et seq.\] and other comparable programs, if applicable;
 
@@ -38,7 +38,7 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 #### References in Text
 
-The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in par. (10), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, which is classified principally to chapter 111 (§11101 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
 

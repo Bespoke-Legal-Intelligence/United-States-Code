@@ -56,5 +56,5 @@ In subsection (a)(1)(B), the words "safe operating condition" are substituted fo
 
 In subsection (a)(2), before clause (A), the text of 49:26(d) (2d sentence) is omitted because of 5:3101. The text of 49:26(d) (3d sentence) is omitted because of 5:ch. 33. The words "In carrying out this subsection, the Secretary may employ" are substituted for "shall be used for such purpose" for clarity. In clause (A), the words "either directly or indirectly" are omitted as surplus.
 
-In subsection (b), the word "experimentally" is omitted as surplus. The words "signal system" are substituted for "any appliances or systems intended to promote the safety of railway operation" because of the definition of "signal system" in section 20501 of therevised title. The text of 45:36 (last sentence) is omitted because of 49:323.
+In subsection (b), the word "experimentally" is omitted as surplus. The words "signal system" are substituted for "any appliances or systems intended to promote the safety of railway operation" because of the definition of "signal system" in section 20501 of the revised title. The text of 45:36 (last sentence) is omitted because of 49:323.
 

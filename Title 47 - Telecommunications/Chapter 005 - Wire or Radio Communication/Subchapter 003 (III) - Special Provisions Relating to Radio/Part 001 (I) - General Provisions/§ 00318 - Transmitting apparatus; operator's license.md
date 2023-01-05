@@ -18,7 +18,7 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 
 Pub. L. 102–538, §205(1), as amended by Pub. L. 103–414, struck out cl. (3) which read as follows: "stations engaged in broadcasting (other than those engaged primarily in the function of rebroadcasting the signals of broadcast stations),".
 
-<b>1976</b>—Pub. L. 94–335 substituted "engaged primarily in the function of rebroadcasting the signals of broadcast stations" for "engaged solely in the function of rebroadcasting the signals of television broadcast stations" in parenthetical provisions of cl. (3).
+<b>1976</b>—Pub. L. 94–335 substituted "engaged primarily in the function of rebroadcasting the signals of broadcaststations" for "engaged solely in the function of rebroadcasting the signals of television broadcast stations" in parenthetical provisions of cl. (3).
 
 <b>1960</b>—Pub. L. 86–609 inserted "(other than those engaged solely in the function of rebroadcasting the signals of television broadcast stations)" after "engaged in broadcasting".
 

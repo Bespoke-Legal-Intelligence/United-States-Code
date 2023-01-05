@@ -34,7 +34,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) the aggregate of such shareholder's pro rata share of the tested income of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder (determined for each taxable year of such controlled foreign corporation which ends in or with such taxable year of such United States shareholder), over
 
-&emsp;&emsp;(B) the aggregate of such shareholder's pro rata share of the tested loss of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of suchUnited States shareholder (determined for each taxable year of such controlled foreign corporation which ends in or with such taxable year of such United States shareholder).
+&emsp;&emsp;(B) the aggregate of such shareholder's pro rata share of the tested loss of each controlled foreign corporation with respect to which such shareholder is a United States shareholder for such taxable year of such United States shareholder (determined for each taxable year of such controlled foreign corporation which ends in or with such taxable year of such United States shareholder).
 
 #### (2) Tested income; tested loss
 
@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "tested loss" means, with respect to any controlled foreign corporation for any taxable year of such controlled foreign corporation, the excess (if any) of the amount described in subparagraph (A)(ii) over the amount described in subparagraph (A)(i).
+&emsp;&emsp;&emsp;The term "tested loss" means, with respect to any controlled foreign corporation for any taxable year of such controlled foreign corporation, the excess (if any) of the amount described in subparagraph (A)(ii)over the amount described in subparagraph (A)(i).
 
 #### (ii) Coordination with subpart F to deny double benefit of losses
 

@@ -50,7 +50,7 @@ Another prior section 5103 was renumbered section 8303 of this title.
 
 <b>2017</b>—Subsec. (a)(1). Pub. L. 115–55, §2(b)(1), substituted "Except as provided in paragraph (3), the" for "The".
 
-Subsec. (a)(2)(B)(i). Pub. L. 115–55, §2(b)(2), substituted "or a supplemental claim;" for ", a claim forreopening a prior decision on a claim, or a claim for an increase in benefits;".
+Subsec. (a)(2)(B)(i). Pub. L. 115–55, §2(b)(2), substituted "or a supplemental claim;" for ", a claim for reopening a prior decision on a claim, or a claim for an increase in benefits;".
 
 Subsec. (a)(3). Pub. L. 115–55, §2(b)(3), added par. (3).
 
@@ -78,7 +78,7 @@ Pub. L. 112–154, title V, §504(c), Aug. 6, 2012, 126 Stat. 1192, provided tha
 
 "(1)
 
-In general.—The amendments made by subsection (a) \[amending this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Aug. 6, 2012\] and shall apply with respect to notification obligations of the Secretary of Veterans Affairs on or after such date.
+In general.—The amendments made by subsection (a) \[amending this section\] shall take effect onthe date that is 180 days after the date of the enactment of this Act \[Aug. 6, 2012\] and shall apply with respect to notification obligations of the Secretary of Veterans Affairs on or after such date.
 
 "(2)
 

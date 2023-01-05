@@ -16,7 +16,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 110–385, Oct. 10, 2008, 122 Stat. 4102, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 6551 of this title and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title II of Pub. L. 110–385, Oct. 10,2008, 122 Stat. 4102, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 6551 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by "or".</i>
 

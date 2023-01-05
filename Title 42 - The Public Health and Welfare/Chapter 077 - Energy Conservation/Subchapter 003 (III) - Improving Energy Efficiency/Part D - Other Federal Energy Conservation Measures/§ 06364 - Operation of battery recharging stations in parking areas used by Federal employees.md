@@ -12,7 +12,7 @@
 
 #### (C) Use of vendors
 
-&emsp;The Administrator of General Services, with respect to subparagraph (A) or (B), or the head of a Federal agency, with respect to subparagraph (B), may carry out such subparagraph through a contract with a vendor, under such terms and conditions (including terms relating to the allocation between the Federal agency and the vendor of the costs of carrying out thecontract) as the Administrator or the head of the Federal agency, as the case may be, and the vendor may agree to.
+&emsp;The Administrator of General Services, with respect to subparagraph (A) or (B), or the head of a Federal agency, with respect to subparagraph (B), may carry out such subparagraph through a contract with a vendor, under such terms and conditions (including terms relating to the allocation between the Federal agency and the vendor of the costs of carrying out the contract) as the Administrator or the head of the Federal agency, as the case may be, and the vendor may agree to.
 
 #### (2) Imposition of fees to cover costs
 
@@ -56,7 +56,7 @@ Nothing in this subsection—
 
 #### (5) Annual report to Congress
 
-Not later than 2 years after December 4, 2015, and annually thereafter for 10 years, the Administrator of General Services shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report describing—
+Not later than 2 years after December 4, 2015, and annually thereafter for 10 years, the Administrator of General Services shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and theCommittee on Environment and Public Works of the Senate a report describing—
 
 &emsp;(A) the number of battery recharging stations installed by the Administrator on the Administrator's own initiative under this subsection;
 

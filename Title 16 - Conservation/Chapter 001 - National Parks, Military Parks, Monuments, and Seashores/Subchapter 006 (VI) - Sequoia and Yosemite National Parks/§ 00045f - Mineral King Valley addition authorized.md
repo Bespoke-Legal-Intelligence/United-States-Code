@@ -4,7 +4,7 @@
 
 It is the purpose of this section to—
 
-&emsp;(1) assure the preservation for this and future generations of the outstanding naturaland scenic features of the area commonly known as the Mineral King Valley and previously designated as the Sequoia National Game Refuge; and
+&emsp;(1) assure the preservation for this and future generations of the outstanding natural and scenic features of the area commonly known as the Mineral King Valley and previously designated as the Sequoia National Game Refuge; and
 
 &emsp;(2) enhance the ecological values and public enjoyment of such area by adding such area to the Sequoia National Park.
 
@@ -24,11 +24,11 @@ It is the purpose of this section to—
 
 (4) In exercising his authority to acquire property under this section, the Secretary shall give prompt and careful consideration to any offer made by an individual owning property within the park to sell such property if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship. Nothing in this section, or in any other provision of law, shall prevent the Secretary from exercising his authority to acquire property referred to in this subsection at any time after November 10, 1978.
 
-(5) If any individual tract or parcel of land acquired is partly inside and partly outside the boundaries of the park the Secretary may, in order to minimize the payment of severance damages, acquire the whole of the tract or parcel.
+(5) If any individual tract or parcel of land acquired is partly inside and partly outside the boundaries of the park the Secretary may, inorder to minimize the payment of severance damages, acquire the whole of the tract or parcel.
 
 (6) If the management plan prepared under subsection (e) provides for improved access to the area added to the park under this section, the Secretary is authorized to acquire, by donation, purchase with donated or appropriated funds, exchange or transfer from other Federal departments or agencies, the area comprising the road from State Route 198 to, and within, the Mineral King Valley together with a right-of-way for such road of a width sufficient to include improvements to the road and all bridges, ditches, cuts, and fills appurtenant thereto, but not exceeding a maximum average width of two hundred feet. Property acquired from the State or any political subdivision thereof may be acquired by donation only. With regard to routes of access to and within the Mineral King Valley, the Secretary shall take such measures as are necessary to protect against the effects of siltation on the ecosystem of the park.
 
-(7) The Secretary shall report to the committees of the Congress named in subsection (b)(1)the action taken by him pursuant to this subsection. Such report shall contain information sufficient to inform such committees of—
+(7) The Secretary shall report to the committees of the Congress named in subsection (b)(1) the action taken by him pursuant to this subsection. Such report shall contain information sufficient to inform such committees of—
 
 &emsp;(A) the acquisitions made by him pursuant to this subsection during the period covered by such report;
 
@@ -56,7 +56,7 @@ It is the purpose of this section to—
 
 (B) For purposes of insuring such full public participation, the Secretary shall provide reasonable advance notice to State and local governments, interested Federal agencies, private organizations, and the general public of hearings, workshops, meetings, and other opportunities available for such participation. Such notice shall be published in newspapers of general circulation in the localities affected by the development and management of the park, published in the Federal Register, and communicated by other appropriate means. The Western Regional Advisory Committee of the National Park Service (or a subcommittee thereof) shall also be utilized for purposes of facilitating public involvement.
 
-(C) The Secretaries or Directors of all Federal departments, agencies, and commissions having a relevant expertise are hereby authorized and directed to cooperate with the Secretary in his development of such plan and to make such studies as the Secretary may request on a cost reimbursable basis.
+(C) The Secretaries or Directors of all Federal departments, agencies, and commissions having a relevant expertise are hereby authorized anddirected to cooperate with the Secretary in his development of such plan and to make such studies as the Secretary may request on a cost reimbursable basis.
 
 (D) In preparing the comprehensive management plan required by this subsection, the Secretary shall consider technical information and other pertinent data assembled or produced by field studies or investigations conducted separately or jointly by the technical and administrative personnel of the Federal and State agencies involved in order to insure the permanent conservation of wildlife within the area added to the park by this section. Except in emergencies, rules and regulations pertaining to the management of wildlife within the area added to the park by this section shall be put into effect only after consultation with the State of California.
 

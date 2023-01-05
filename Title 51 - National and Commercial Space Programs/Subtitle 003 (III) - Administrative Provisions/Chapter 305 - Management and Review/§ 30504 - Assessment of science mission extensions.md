@@ -6,7 +6,7 @@ Assessments.—
 
 &emsp;(1)
 
-In general.—The Administrator shall carry out triennial reviews within each of the Science divisions to assess the cost and benefits of extending the date of the termination of data collection for those missions that exceed their planned missions' lifetime.
+In general.—The Administrator shall carry out triennial reviews within each of the Science divisions to assess the cost and benefits of extending the date of the termination ofdata collection for those missions that exceed their planned missions' lifetime.
 
 &emsp;(2)
 

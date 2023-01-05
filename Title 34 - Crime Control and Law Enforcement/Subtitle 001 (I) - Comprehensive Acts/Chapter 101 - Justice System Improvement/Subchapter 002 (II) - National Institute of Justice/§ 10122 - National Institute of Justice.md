@@ -72,7 +72,7 @@ Section was formerly classified to section 3722 of Title 42, The Public Health a
 
 #### Prior Provisions
 
-A prior section 202 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 198; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat.198, provided for making of grants to State planning agencies, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 202 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 198; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 198, provided for making of grants to State planning agencies, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 #### Amendments
 

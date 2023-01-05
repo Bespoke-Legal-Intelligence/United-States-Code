@@ -24,7 +24,7 @@ Limitations on Amount of Payment.—(1) A payment under this section may not be 
 
 (e)
 
-Applications.—A payment under this section for any fiscal year with respect to any State home may only be made based upon an application submitted by the State seeking the payment with respect to that State home. Any such application shall describe the nursing shortage at the State home and the employee incentive scholarship program or other employee incentive program described in subsection (c) for which the payment is sought.
+Applications.—A payment under this section for any fiscal year with respect to any State home may only be made based upon an application submitted by the State seeking the payment with respect to that State home. Any such application shall describe the nursingshortage at the State home and the employee incentive scholarship program or other employee incentive program described in subsection (c) for which the payment is sought.
 
 (f)
 

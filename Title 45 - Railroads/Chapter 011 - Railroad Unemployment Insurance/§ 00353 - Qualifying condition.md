@@ -1,6 +1,6 @@
 ### §353. Qualifying condition
 
-An employee shall be a "qualified employee" if the Board finds that his compensation with respect to the base year will have been not less than 2.5 times the monthly compensation base for months in such base year as computed under section 351(i) of this title, and, if such employee has had no compensation prior to such year, that he will have had compensation with respect to each of not less than five months in such year.
+An employee shall be a "qualified employee" if the Board finds that his compensation withrespect to the base year will have been not less than 2.5 times the monthly compensation base for months in such base year as computed under section 351(i) of this title, and, if such employee has had no compensation prior to such year, that he will have had compensation with respect to each of not less than five months in such year.
 
 (June 25, 1938, ch. 680, §3, 52 Stat. 1097; June 20, 1939, ch. 227, §10, 53 Stat. 845; Oct. 10, 1940, ch. 842, §13, 54 Stat. 1097; July 31, 1946, ch. 709, §308, 60 Stat. 737; May 15, 1952, ch. 290, §2, 66 Stat. 73; Aug. 31, 1954, ch. 1164, pt. III, §303, 68 Stat. 1041; Pub. L. 86–28, pt. III, §304, May 19, 1959, 73 Stat. 31; Pub. L. 88–133, title III, §301(a), Oct. 5, 1963, 77 Stat. 222; Pub. L. 90–257, title II, §203, Feb. 15, 1968, 82 Stat. 24; Pub. L. 94–92, title I, §1(f), Aug. 9, 1975, 89 Stat. 463; Pub. L. 98–76, title IV, §411(a)(2), Aug. 12, 1983, 97 Stat. 436; Pub. L. 100–647, title VII, §7202(a), Nov. 10, 1988, 102 Stat. 3776.)
 

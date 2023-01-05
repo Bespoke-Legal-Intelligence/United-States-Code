@@ -36,7 +36,7 @@ Employment by Other Federal Agencies.—The Secretary of Defense shall work with
 
 Private-Sector Employment.—The Secretary of Defense—
 
-&emsp;(1) shall seek to develop partnerships with firms in the private sector to enhance employment opportunities for spouses of members of the armed forces and to provide for improved job portability for such spouses, especially in the case of the spouse of a member of the armed forces accompanying the member to a new geographical area because of a change of permanent duty station of the member; and
+&emsp;(1) shall seek to develop partnerships with firms in the private sector to enhance employment opportunities for spouses of members ofthe armed forces and to provide for improved job portability for such spouses, especially in the case of the spouse of a member of the armed forces accompanying the member to a new geographical area because of a change of permanent duty station of the member; and
 
 &emsp;(2) shall work with the United States Chamber of Commerce and other appropriate private-sector entities to facilitate the formation of such partnerships.
 
@@ -154,7 +154,7 @@ Plan Required.—The Secretary of Defense shall develop a plan to implement the 
 
 "(b)
 
-Implementation; Deadline.—Not later than 18 months after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of Defense shall carry outactivities to implement the plan developed under subsection (a)."
+Implementation; Deadline.—Not later than 18 months after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of Defense shall carry out activities to implement the plan developed under subsection (a)."
 
 #### Pilot Program on Direct Hire Authority for Spouses of Members of the Uniformed Services at Locations Outside the United States
 
@@ -284,7 +284,7 @@ Evaluation; Updates.—Not later than 180 days after the date of the enactment o
 
 "(b)
 
-New Partnerships.—Upon completion of the evaluation under subsection (a), the Secretary, in consultation with the Department of Labor, shall seek to enter into agreements with entities described in paragraphs (1) through (4) of subsection (a) that are located near military installations (as that term is defined in section 2687 of title 10, United States Code).
+New Partnerships.—Upon completion of the evaluation under subsection (a), the Secretary, in consultation with the Department of Labor, shall seek to enter into agreements with entities described in paragraphs (1) through (4) of subsection (a) that are locatednear military installations (as that term is defined in section 2687 of title 10, United States Code).
 
 "(c)
 

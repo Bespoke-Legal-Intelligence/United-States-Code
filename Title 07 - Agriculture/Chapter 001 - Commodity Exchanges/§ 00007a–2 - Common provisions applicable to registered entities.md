@@ -74,7 +74,7 @@
 
 #### (i) Event contracts
 
-&emsp;&emsp;&emsp;In connection with the listing of agreements, contracts, transactions, or swaps in excluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in the price, rate, value, or levels of a commodity described in section 1a(2)(i) <sup>2</sup> of this title), by a designated contract market or swap execution facility, the Commission maydetermine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve—
+&emsp;&emsp;&emsp;In connection with the listing of agreements, contracts, transactions, or swaps in excluded commodities that are based upon the occurrence, extent of an occurrence, or contingency (other than a change in the price, rate, value, or levels of a commodity described in section 1a(2)(i) <sup>2</sup> of this title), by a designated contract market or swap execution facility, the Commission may determine that such agreements, contracts, or transactions are contrary to the public interest if the agreements, contracts, or transactions involve—
 
 &emsp;&emsp;&emsp;&emsp;(I) activity that is unlawful under any Federal or State law;
 
@@ -156,7 +156,7 @@ Subsec. (f)(1). Pub. L. 111–203, §749(c)(2), substituted "section 6d(e) of th
 
 Pub. L. 110–246, §13105(e), substituted "7a–1(c)(2)" for "7a–1(d)(2)".
 
-Subsec. (b)(1). Pub. L. 110–246, §13203(j)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "A contract market or derivatives transaction execution facility may comply with anyapplicable core principle through delegation of any relevant function to a registered futures association or another registered entity."
+Subsec. (b)(1). Pub. L. 110–246, §13203(j)(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "A contract market or derivatives transaction execution facility may comply with any applicable core principle through delegation of any relevant function to a registered futures association or another registered entity."
 
 Subsec. (b)(2), (3). Pub. L. 110–246, §13203(j)(2), (3), substituted "contract market, derivatives transaction execution facility, or electronic trading facility" for "contract market or derivatives transaction execution facility" wherever appearing.
 

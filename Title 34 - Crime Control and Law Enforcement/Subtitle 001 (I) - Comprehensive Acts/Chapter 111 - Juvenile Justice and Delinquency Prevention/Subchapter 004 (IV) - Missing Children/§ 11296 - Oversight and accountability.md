@@ -40,7 +40,7 @@ All grants awarded by the Department of Justice that are authorized under this s
 
 #### (A) Limitation
 
-&emsp;&emsp;No amounts authorized to be appropriated under this subchapter may be used to host or support any expenditure for conferences that uses more than $20,000 unless the Deputy Attorney General or the appropriate Assistant Attorney General, Director, or principal deputy director as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
+&emsp;&emsp;No amounts authorized to be appropriated under this subchapter may be used to host orsupport any expenditure for conferences that uses more than $20,000 unless the Deputy Attorney General or the appropriate Assistant Attorney General, Director, or principal deputy director as the Deputy Attorney General may designate, provides prior written authorization that the funds may be expended to host a conference.
 
 #### (B) Written approval
 

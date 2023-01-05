@@ -54,7 +54,7 @@ Forty-nine annual installments of principal repayments and interest shall be equ
 
 5\. Deferment of annual installments.
 
-(i) In any calendar year after December 31, 1956, in which the Government of the United Kingdom advises the Government of the United States that it finds that a deferment is necessary in view of the present and prospective conditions of international exchange and thelevel of its gold and foreign exchange reserves, the Government of the United Kingdom may defer the payment of the annual installment for that year of principal repayment and interest specified under Section 4. Not more than seven (7) annual installments may be so deferred. The first of any such deferred installments shall be paid on December 31, 2001, and the others shall be paid annually thereafter, in order.
+(i) In any calendar year after December 31, 1956, in which the Government of the United Kingdom advises the Government of the United States that it finds that a deferment is necessary in view of the present and prospective conditions of international exchange and the level of its gold and foreign exchange reserves, the Government of the United Kingdom may defer the payment of the annual installment for that year of principal repayment and interest specified under Section 4. Not more than seven (7) annual installments may be so deferred. The first of any such deferred installments shall be paid on December 31, 2001, and the others shall be paid annually thereafter, in order.
 
 (ii) In addition, the installment of interest in respect of the year 1956 is hereby deferred, in lieu of any right of waiver hitherto existing. This installment shall be paid on December 31 of the year following that in which the last of all other installments, including installments deferred under the preceding paragraph, is due.
 
@@ -68,7 +68,7 @@ Forty-nine annual installments of principal repayments and interest shall be equ
 
 8\. Other exchange arrangements:
 
-(i) Government of the United Kingdom agrees that after the effective date of this Agreement it will not apply exchange controls in such a manner as to restrict (a) payments or transfers in respect of products of the United States permitted to be imported into the United Kingdom or other current transactions between the two countries or (b) the use of sterling balances to the credit of residents of the United States arising out of current transactions. Nothing in this paragraph (i) shall affect the provisions of Article VII of the Articles of Agreement of the International Monetary Fund when those Articles have come into force.
+(i) Government of the United Kingdom agrees that after the effective date of this Agreement it will not apply exchange controls in such a manner as to restrict (a) payments or transfers in respect of products of theUnited States permitted to be imported into the United Kingdom or other current transactions between the two countries or (b) the use of sterling balances to the credit of residents of the United States arising out of current transactions. Nothing in this paragraph (i) shall affect the provisions of Article VII of the Articles of Agreement of the International Monetary Fund when those Articles have come into force.
 
 (ii) The Governments of the United States and the United Kingdom agree that not later than one year after the effective date of this Agreement, unless in exceptional cases a later date is agreed upon after consultation, they will impose no restrictions on payments and transfers for current transactions. The obligations of this paragraph (ii) shall not apply:
 
@@ -100,7 +100,7 @@ For the purposes of this Agreement:
 
 (b) any other part of His Majesty's dominions,
 
-(c) any territory in respect of which a mandate on behalf of the League of Nations has been accepted by HisMajesty and is being exercised by His Majesty's Government in the United Kingdom or in any Dominion,
+(c) any territory in respect of which a mandate on behalf of the League of Nations has been accepted by His Majesty and is being exercised by His Majesty's Government in the United Kingdom or in any Dominion,
 
 (d) any British protectorate or protected State,
 

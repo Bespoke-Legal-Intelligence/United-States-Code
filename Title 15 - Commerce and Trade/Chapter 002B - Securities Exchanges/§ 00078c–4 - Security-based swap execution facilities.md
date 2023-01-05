@@ -184,7 +184,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 &emsp;&emsp;&emsp;(ii) review compliance with the core principles in this subsection;
 
-&emsp;&emsp;&emsp;(iii) in consultation with the board of the facility, a body performing a functionsimilar to that of a board, or the senior officer of the facility, resolve any conflicts of interest that may arise;
+&emsp;&emsp;&emsp;(iii) in consultation with the board of the facility, a body performing a function similar to that of a board, or the senior officer of the facility, resolve any conflicts of interest that may arise;
 
 &emsp;&emsp;&emsp;(iv) be responsible for establishing and administering the policies and procedures required to be established pursuant to this section;
 

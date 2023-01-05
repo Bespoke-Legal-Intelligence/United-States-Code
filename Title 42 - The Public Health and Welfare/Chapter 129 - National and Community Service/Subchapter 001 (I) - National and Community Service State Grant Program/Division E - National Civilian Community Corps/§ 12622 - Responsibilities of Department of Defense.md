@@ -22,7 +22,7 @@
 
 #### (3) Contribution for retired member's pay
 
-&emsp;If a listed individual receiving retired or retainer pay is appointed to a position in thecadre and the rate of pay for that individual is established at the amount equal to the difference between the active duty pay and allowances which that individual would receive if ordered to active duty and the amount of the individual's retired or retainer pay, the Secretary of Defense shall pay, by transfer to the Corporation from amounts available for pay of active duty members of the Armed Forces, the amount equal to 50 percent of that individual's rate of pay for service in the cadre.
+&emsp;If a listed individual receiving retired or retainer pay is appointed to a position in the cadre and the rate of pay for that individual is established at the amount equal to the difference between the active duty pay and allowances which that individual would receive if ordered to active duty and the amount of the individual's retired or retainer pay, the Secretary of Defense shall pay, by transfer to the Corporation from amounts available for pay of active duty members of the Armed Forces, the amount equal to 50 percent of that individual's rate of pay for service in the cadre.
 
 #### (c) Facilities
 

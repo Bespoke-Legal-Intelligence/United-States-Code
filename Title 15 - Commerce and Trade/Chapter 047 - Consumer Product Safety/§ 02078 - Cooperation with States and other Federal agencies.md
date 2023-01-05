@@ -34,7 +34,7 @@ Notwithstanding section 2055(a)(3) of this title, the Commission may provide to 
 
 #### (1) Agreements and conditions
 
-&emsp;Notwithstanding the requirements of subsections (a)(3) and (b) of section 2055 of this title, relating to public disclosure of information, the Commission may make informationobtained by the Commission available to any Federal, State, local, or foreign government agency upon the prior certification of an appropriate official of any such agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement or consumer protection purposes, if—
+&emsp;Notwithstanding the requirements of subsections (a)(3) and (b) of section 2055 of this title, relating to public disclosure of information, the Commission may make information obtained by the Commission available to any Federal, State, local, or foreign government agency upon the prior certification of an appropriate official of any such agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement or consumer protection purposes, if—
 
 &emsp;&emsp;(A) the agency has set forth a bona fide legal basis for its authority to maintain the material in confidence;
 
@@ -58,7 +58,7 @@ Notwithstanding section 2055(a)(3) of this title, the Commission may provide to 
 
 &emsp;&emsp;(A) any material obtained from a foreign government agency, if the foreign government agency has requested confidential treatment, or has precluded such disclosure under other use limitations, as a condition of providing the material;
 
-&emsp;&emsp;(B) any material reflecting a consumer complaint obtained from any other foreign source, if that foreign source supplying the material has requested confidential treatment as a condition of providing the material; or
+&emsp;&emsp;(B) any material reflecting a consumer complaint obtained from any other foreignsource, if that foreign source supplying the material has requested confidential treatment as a condition of providing the material; or
 
 &emsp;&emsp;(C) any material reflecting a consumer complaint submitted to a Commission reporting mechanism sponsored in part by foreign government agencies.
 

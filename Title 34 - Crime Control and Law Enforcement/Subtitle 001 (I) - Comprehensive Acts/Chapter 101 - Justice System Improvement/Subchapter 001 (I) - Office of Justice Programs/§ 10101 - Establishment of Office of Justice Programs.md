@@ -32,11 +32,49 @@ Pub. L. 98–473, title II, §609AA, Oct. 12, 1984, 98 Stat. 2107, provided that
 
 "(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 10281, 10282, and 10284 of this title and enacted provisions set out as a note under section 10281 of this title\] shall take effect on October 1, 1984."
 
+#### Short Title of 2023 Amendment
+
+Pub. L. 117–347, §1, Jan. 5, 2023, 136 Stat. 6199, provided that: "This Act \[see Tables for classification\] may be cited as the 'Abolish Trafficking Reauthorization Act of 2022'."
+
+Pub. L. 117–330, §1, Jan. 5, 2023, 136 Stat. 6114, provided that: "This Act \[enacting section 41313 of this title\] may be cited as the 'Sami's Law'."
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–328, div. MM, §101(a), Dec. 29, 2022, 136 Stat. 6106, provided that: "This section \[amending section 20144 of this title\] may be cited as the 'Fairness for 9/11 Families Act'."
+
+Pub. L. 117–327, §1, Dec. 27, 2022, 136 Stat. 4454, provided that: "This Act \[enacting sections 40506 to 40508 of this title, amending sections 41307 and 41308 of this title, and enacting provisions set out as a note under section 40506 of this title\] may be cited as 'Billy's Law' or the 'Help Find the Missing Act'."
+
+Pub. L. 117–325, §1, Dec. 27, 2022, 136 Stat. 4441, provided that: "This Act \[enacting section 10159 of this title and amending sections 10251 and 10381 of this title and section 3758 of Title 42, The Public Health and Welfare\] may be cited as the 'Law Enforcement De-Escalation Training Act of 2022'."
+
+Pub. L. 117–323, §1, Dec. 27, 2022, 136 Stat. 4437, provided that: "This Act \[amending section 10651 of this title\] may be cited as the 'Justice and Mental Health Collaboration Reauthorization Act of 2022'."
+
+Pub. L. 117–315, §1, Dec. 27, 2022, 136 Stat. 4404, provided that: "This Act \[amending sections 10441 and 12291 of this title\] may be cited as the 'VAWA Technical Amendment Act of 2022'."
+
+Pub. L. 117–262, §1, Dec. 21, 2022, 136 Stat. 2394, provided that: "This Act \[amending section 21117 of this title\] may be cited as the 'Providing Resources, Officers, and Technology to Eradicate Cyber Threats to Our Children Act of 2022' or the 'PROTECT Our Children Act of 2022'."
+
+Pub. L. 117–250, §1, Dec. 20, 2022, 136 Stat. 2352, provided that: "This Act \[amending section 10701 of this title\] may be cited as the 'Rural Opioid Abuse Prevention Act'."
+
+Pub. L. 117–172, §1, Aug. 16, 2022, 136 Stat. 2098, provided that: "This Act \[amending sections 10225, 10281, and 10284 of this title and enacting provisions set out as notes under section 10281 of this title\] may be cited as the 'Public Safety Officer Support Act of 2022'."
+
+Pub. L. 117–170, §1, Aug. 16, 2022, 136 Stat. 2091, provided that: "This Act \[enacting section 10653 of this title, amending section 10651 of this title, and enacting provisions set out as a note under section 10653 of this title\] may be cited as the 'Traumatic Brain Injury and Post-Traumatic Stress Disorder Law Enforcement Training Act' or the 'TBI and PTSD Law Enforcement Training Act'."
+
+Pub. L. 117–164, §1, Aug. 3, 2022, 136 Stat. 1358, provided that: "This Act \[enacting chapter 609 of this title\] may be cited as the 'Homicide Victims' Families' Rights Act of 2021'."
+
+Pub. L. 117–103, div. W, §1, Mar. 15, 2022, 136 Stat. 840, provided that: "This Act \[div. W of Pub. L. 117–103, see Tables for classification\] may be cited as the 'Violence Against Women Act Reauthorization Act of 2022'."
+
+Pub. L. 117–103, div. W, title II, §205(a), Mar. 15, 2022, 136 Stat. 858, provided that: "This section \[enacting part O (§12513) of subchapter III of chapter 121 of this title\] may be cited as the 'Abby Honold Act'."
+
+Pub. L. 117–103, div. W, title XIII, §1316(a), Mar. 15, 2022, 136 Stat. 939, provided that: "This section \[amending section 20102 of this title\] may be cited as the 'Fairness for Rape Kit Backlog Survivors Act of 2022'."
+
+Pub. L. 117–103, div. W, title XIII, §1318(a), Mar. 15, 2022, 136 Stat. 940, provided that: "This section \[amending section 40723 of this title\] may be cited as the 'Supporting Access to Nurse Exams Act' or the 'SANE Act'."
+
+Pub. L. 117–103, div. W, title XV, §1501, Mar. 15, 2022, 136 Stat. 951, provided that: "This title \[enacting section 10462a of this title and section 1161l–6 of Title 20, Education, amending sections 10446 and 10463 to 10465 of this title and section 3772 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under section 10446 of this title\] may be cited as the 'Keeping Children Safe From Family Violence Act' or 'Kayden's Law'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 117–61, §1, Nov. 18, 2021, 135 Stat. 1474, provided that: "This Act \[amending sections 10225, 10281, 10284, 10285, 10288, and 10306 of this title, and enacting and amending provisions set out as notes under section 10281 of this title\] may be cited as the 'Protecting America's First Responders Act of 2021'."
 
-Pub. L. 117–60, §1, Nov. 18, 2021, 135 Stat. 1470, provided that: "This Act \[enacting chapter 509 of this title\] may be cited as the 'Confidentiality Opportunities for Peer Support Counseling Act' or the 'COPS Counseling Act'."
+Pub. L. 117–60, §1, Nov. 18, 2021, 135 Stat. 1470, provided that: "This Act \[enacting chapter 509 of thistitle\] may be cited as the 'Confidentiality Opportunities for Peer Support Counseling Act' or the 'COPS Counseling Act'."
 
 Pub. L. 117–27, §1, July 22, 2021, 135 Stat. 301, provided that: "This Act \[amending sections 20101 to 20103 of this title\] may be cited as the 'VOCA Fix to Sustain the Crime Victims Fund Act of 2021'."
 
@@ -58,7 +96,7 @@ Pub. L. 116–143, §1, June 16, 2020, 134 Stat. 644, provided that: "This Act \
 
 Pub. L. 116–104, §1, Dec. 30, 2019, 133 Stat. 3272, provided that: "This Act \[amending sections 40701, 40722, and 40723 of this title\] may be cited as the 'Debbie Smith Reauthorization Act of 2019'."
 
-Pub. L. 116–69, div. B, title VII, §1701(a), Nov. 21, 2019, 133 Stat. 1140, provided that: "This section \[amendingsection 20144 of this title and enacting provisions set out as notes under section 20144 of this title\] may be cited as the 'United States Victims of State Sponsored Terrorism Fund Clarification Act'."
+Pub. L. 116–69, div. B, title VII, §1701(a), Nov. 21, 2019, 133 Stat. 1140, provided that: "This section \[amending section 20144 of this title and enacting provisions set out as notes under section 20144 of this title\] may be cited as the 'United States Victims of State Sponsored Terrorism Fund Clarification Act'."
 
 Pub. L. 116–32, §1, July 25, 2019, 133 Stat. 1036, provided that: "This Act \[amending sections 10261 and 10491 to 10493 of this title\] may be cited as the 'Supporting and Treating Officers In Crisis Act of 2019'."
 
@@ -112,7 +150,7 @@ Pub. L. 115–50, §1, Aug. 18, 2017, 131 Stat. 1001, provided that: "This Act \
 
 Pub. L. 115–37, §1, June 2, 2017, 131 Stat. 854, provided that: "This Act \[amending section 10381 of this title\] may be cited as the 'American Law Enforcement Heroes Act of 2017'."
 
-Pub. L. 115–36, §1, June 2, 2017, 131 Stat. 849, provided that: "This Act \[enacting section 10288 of this title,amending sections 10282, 10285, and 10302 of this title, and enacting provisions set out as a note under section 10282 of this title\] may be cited as the 'Public Safety Officers' Benefits Improvement Act of 2017'."
+Pub. L. 115–36, §1, June 2, 2017, 131 Stat. 849, provided that: "This Act \[enacting section 10288 of this title, amending sections 10282, 10285, and 10302 of this title, and enacting provisions set out as a note under section 10282 of this title\] may be cited as the 'Public Safety Officers' Benefits Improvement Act of 2017'."
 
 #### Short Title of 2016 Act
 
@@ -164,7 +202,7 @@ Pub. L. 112–189, §1, Oct. 5, 2012, 126 Stat. 1435, provided that: "This Act \
 
 #### Short Title of 2010 Act
 
-Pub. L. 111–341, §1, Dec. 22, 2010, 124 Stat. 3606, provided that: "This Act \[amending provisions set out as a note under section 40102 of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2010'."
+Pub. L. 111–341, §1, Dec. 22, 2010, 124 Stat. 3606, provided that: "This Act \[amending provisions set out asa note under section 40102 of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2010'."
 
 Pub. L. 111–143, §1, Mar. 1, 2010, 124 Stat. 41, provided that: "This Act \[amending provisions set out as a note under section 40102 of this title\] may be cited as the 'Criminal History Background Checks Pilot Extension Act of 2009'."
 
@@ -182,7 +220,7 @@ Pub. L. 110–401, §1(a), Oct. 13, 2008, 122 Stat. 4229, provided that: "This A
 
 Pub. L. 110–400, §1, Oct. 13, 2008, 122 Stat. 4224, provided that: "This Act \[enacting sections 20916 and 20917 of this title, amending section 20981 of this title, and enacting provisions set out as a note under section 20981 of this title\] may be cited as the 'Keeping the Internet Devoid of Sexual Predators Act of 2008' or the 'KIDS Act of 2008'."
 
-Pub. L. 110–378, §1, Oct. 8, 2008, 122 Stat. 4068, provided that: "This Act \[enacting sections 11245 and 11278 of this title and amending sections 11201, 11211, 11212, 11222, 11243, 11261, 11279, and 11280 of this title\] may becited as the 'Reconnecting Homeless Youth Act of 2008'."
+Pub. L. 110–378, §1, Oct. 8, 2008, 122 Stat. 4068, provided that: "This Act \[enacting sections 11245 and 11278 of this title and amending sections 11201, 11211, 11212, 11222, 11243, 11261, 11279, and 11280 of this title\] may be cited as the 'Reconnecting Homeless Youth Act of 2008'."
 
 Pub. L. 110–360, §1, Oct. 8, 2008, 122 Stat. 4008, provided that: "This Act \[amending sections 40701, 40722, and 40723 of this title\] may be cited as the 'Debbie Smith Reauthorization Act of 2008'."
 
@@ -284,9 +322,9 @@ Pub. L. 106–71, §1, Oct. 12, 1999, 113 Stat. 1032, provided that: "This Act \
 
 Pub. L. 105–390, §1, Nov. 13, 1998, 112 Stat. 3495, provided that: "This Act \[amending sections 10301, 10302, 10304, 10306, and 10307 of this title\] may be cited as the 'Police, Fire, and Emergency Officers Educational Assistance Act of 1998'."
 
-Pub. L. 105–251, title I, §101, Oct. 9, 1998, 112 Stat. 1871, provided that: "This title \[enacting section 40301 of this title\] may be cited as the 'Crime Identification Technology Act of 1998'."
+Pub. L. 105–251, title I, §101, Oct. 9, 1998, 112 Stat. 1871, provided that: "This title \[enacting subchapter I of chapter 403 of this title\] may be cited as the 'Crime Identification Technology Act of 1998'."
 
-Pub. L. 105–251, title II, §201, Oct. 9, 1998, 112 Stat. 1874, provided that: "This title \[enacting subchapter II of chapter 403 of this title, amending sections 40102 and 40103 of this title, and enacting provisions set out as a note under this section\] may be cited as the 'National Criminal History Access and Child Protection Act'."
+Pub. L. 105–251, title II, §201, Oct. 9, 1998, 112 Stat. 1874, provided that: "This title \[enacting subchapter II of chapter 403 of this title, amending sections 40102 and 40103 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'National Criminal History Access and Child Protection Act'."
 
 Pub. L. 105–251, title II, §211, Oct. 9, 1998, 112 Stat. 1874, provided that: "This subtitle \[subtitle A (§§211–217) of title II of Pub. L. 105–251, enacting subchapter II of chapter 403 of this title\] may be cited as the 'National Crime Prevention and Privacy Compact Act of 1998'."
 
@@ -298,7 +336,7 @@ Pub. L. 105–180, §1, June 16, 1998, 112 Stat. 511, provided that: "This Act \
 
 #### Short Title of 1996 Act
 
-Pub. L. 104–238, §1, Oct. 3, 1996, 110 Stat. 3114, provided that: "This Act \[enacting part B of subchapter XI of this chapter\] may be cited as the 'Federal Law Enforcement Dependents Assistance Act of 1996'."
+Pub. L. 104–238, §1, Oct. 3, 1996, 110 Stat. 3114, provided that: "This Act \[enacting part B (§10301 et seq.) of subchapter XI of this chapter\] may be cited as the 'Federal Law Enforcement Dependents Assistance Act of 1996'."
 
 Pub. L. 104–132, title II, §231, Apr. 24, 1996, 110 Stat. 1243, provided that: "This subtitle \[subtitle C (§§231–236) of title II of Pub. L. 104–132, enacting sections 20105 and 20142 of this title, amending this section and sections 20102 and 20103 of this title, and enacting provisions set out as notes under section 20102 of this title\] may be cited as the 'Justice for Victims of Terrorism Act of 1996'."
 
@@ -322,7 +360,7 @@ Pub. L. 103–322, title IV, §40301, Sept. 13, 1994, 108 Stat. 1941, provided t
 
 Pub. L. 103–322, title IV, §40401, Sept. 13, 1994, 108 Stat. 1942, provided that: "This subtitle \[subtitle D (§§40401–40422) of title IV of Pub. L. 103–322, enacting part D (§12371 et seq.) of subchapter III of chapter 121 of this title\] may be cited as the 'Equal Justice for Women in the Courts Act of 1994'."
 
-Pub. L. 103–322, title XX, §200101, Sept. 13, 1994, 108 Stat. 2049, provided that: "This subtitle \[subtitle A\(§§200101–200113) of title XX of Pub. L. 103–322, enacting part A (§12551 et seq.) of subchapter VII of chapter 121 of this title\] may be cited as the 'Police Corps Act'."
+Pub. L. 103–322, title XX, §200101, Sept. 13, 1994, 108 Stat. 2049, provided that: "This subtitle \[subtitle A (§§200101–200113) of title XX of Pub. L. 103–322, enacting part A (§12551 et seq.) of subchapter VII of chapter 121 of this title\] may be cited as the 'Police Corps Act'."
 
 Pub. L. 103–322, title XX, §200201, Sept. 13, 1994, 108 Stat. 2057, provided that: "This subtitle \[subtitle B (§§200201–200210) of title XX of Pub. L. 103–322, enacting part B (§12571 et seq.) of subchapter VII of chapter 121 of this title\] may be cited as the 'Law Enforcement Scholarships and Recruitment Act'."
 
@@ -378,7 +416,7 @@ Pub. L. 94–430, §1, Sept. 29, 1976, 90 Stat. 1346, provided: "That this Act \
 
 #### Short Title of 1974 Act
 
-Pub. L. 93–415, §1, Sept. 7, 1974, 88 Stat. 1109, provided: "That this Act \[see Tables for classification\] may be cited as the 'Juvenile Justice and Delinquency Prevention Act of 1974'."
+Pub. L. 93–415, §1, Sept. 7, 1974, 88 Stat. 1109, provided: "That this Act \[see Tables for classification\] may becited as the 'Juvenile Justice and Delinquency Prevention Act of 1974'."
 
 Pub. L. 93–415, title II, §220, as added by Pub. L. 115–385, title II, §204(c)(2), Dec. 21, 2018, 132 Stat. 5131, provided that: "This part \[part B (§§220–223) of title II of Pub. L. 93–415, enacting part B of subchapter II of chapter 111 of this title\] may be cited as the 'Charles Grassley Juvenile Justice and Delinquency Prevention Program'."
 
@@ -402,7 +440,7 @@ Pub. L. 91–644, §1, Jan. 2, 1971, 84 Stat. 1880, provided: "That this Act \[s
 
 #### Short Title of 1968 Act
 
-Pub. L. 90–351, §1, June 19, 1968, 82 Stat. 197, provided: "That this Act \[see Tables for classification\] may becited as the 'Omnibus Crime Control and Safe Streets Act of 1968'."
+Pub. L. 90–351, §1, June 19, 1968, 82 Stat. 197, provided: "That this Act \[see Tables for classification\] may be cited as the 'Omnibus Crime Control and Safe Streets Act of 1968'."
 
 Pub. L. 90–351, title I, §3030, as added by Pub. L. 115–76, §3(a), Nov. 2, 2017, 131 Stat. 1247, provided that: "This part \[part MM (§§3030–3036) of title I of Pub. L. 90–351, enacting subchapter XXXIX of chapter 101 of this title\] may be cited as the 'National White Collar Crime Control Act of 2017'."
 

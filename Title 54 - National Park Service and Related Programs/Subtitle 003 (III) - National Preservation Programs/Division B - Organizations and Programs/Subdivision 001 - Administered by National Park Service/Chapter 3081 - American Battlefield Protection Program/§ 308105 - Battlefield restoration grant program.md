@@ -6,7 +6,7 @@ Establishment.—The Secretary shall establish a battlefield restoration grant p
 
 (b)
 
-Eligible Sites.—The Secretary may make grants under this section for Revolutionary War,War of 1812, and Civil War battlefield sites eligible for assistance under the battlefield acquisition grant program established under section 308103(b).
+Eligible Sites.—The Secretary may make grants under this section for Revolutionary War, War of 1812, and Civil War battlefield sites eligible for assistance under the battlefield acquisition grant program established under section 308103(b).
 
 (c)
 

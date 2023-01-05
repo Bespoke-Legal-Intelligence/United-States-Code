@@ -80,7 +80,7 @@ The Federal Employees' Retirement System Act of 1986, referred to in subsec. (b)
 
 The Foreign Service Act of 1980, referred to in subsecs. (b)(2)(A)(i)(II), (ii)(II) and (d)(1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapters I and II of chapter 8 of title I of the Act are classified generally to parts I (§4041 et seq.) and II (§4071 et seq.), respectively, of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
-Section 10 of the Federal Reserve Act, referred to in subsecs. (b)(2)(A)(i)(III), (ii)(III) and (d)(1)(B), is section 10 of act Dec. 23, 1913, ch. 6, 38 Stat. 260, as amended. For classification of section 10 to the Code, see Codification note set out under section 241 of Title 12, Banks and Banking, and Tables.
+Section 10 of the Federal Reserve Act, referred to in subsecs. (b)(2)(A)(i)(III), (ii)(III) and (d)(1)(B), is section 10 of act Dec. 23, 1913, ch. 6, 38 Stat. 260. For classification of section 10 to the Code, see Codification note set out under section 241 of Title 12, Banks and Banking, and Tables.
 
 Section 2(c) of the Retirement and Survivors' Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsec. (e), is section 2(c) of Pub. L. 100–659, which is set out as a note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
@@ -166,7 +166,7 @@ Pub. L. 106–168, title II, §202(c), Dec. 12, 1999, 113 Stat. 1819, provided t
 
 &emsp;"(1) has at least 5 years of civilian service (other than any service performed in the employ of a Federal Reserve Bank) creditable under the benefit structure for employees of the Board of Governors of the Federal Reserve System appointed before January 1, 1984, that is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act \[Act Dec. 23, 1913, ch. 6, see Codification note set out under 12 U.S.C. 241\];
 
-&emsp;"(2) was subsequently employed subject to the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of suchbenefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of chapter 84 of title 5, United States Code); and
+&emsp;"(2) was subsequently employed subject to the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of such benefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of chapter 84 of title 5, United States Code); and
 
 &emsp;"(3) after service described in paragraph (2), becomes subject to and thereafter entitled to benefits under chapter 84 of title 5, United States Code,
 

@@ -8,7 +8,7 @@ The Board is authorized—
 
 &emsp;(3) to contract with and compensate government and private agencies or persons for research projects and other services, without regard to section 6101(b) to (d) of title 41, and to delegate such contract authority to the Director of the Federal Judicial Center, who is hereby empowered to exercise such delegated authority.
 
-(Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 100–702, title III, §304(a), Nov. 19, 1988, 102 Stat. 4648; Pub. L. 111–350, §5(g)(3), Jan. 4, 2011, 124 Stat. 3848.)
+(Added Pub. L. 90–219, title I, §101, Dec. 20, 1967, 81 Stat. 666; amended Pub. L. 100–702, title III,§304(a), Nov. 19, 1988, 102 Stat. 4648; Pub. L. 111–350, §5(g)(3), Jan. 4, 2011, 124 Stat. 3848.)
 
 #### <b>Editorial Notes</b>
 

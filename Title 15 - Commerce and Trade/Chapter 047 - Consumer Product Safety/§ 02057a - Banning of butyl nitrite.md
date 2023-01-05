@@ -14,7 +14,7 @@ For purposes of this section:
 
 &emsp;(1) The term "butyl nitrite" includes n-butyl nitrite, isobutyl nitrite, secondary butyl nitrite, tertiary butyl nitrite, and mixtures containing these chemicals.
 
-&emsp;(2) The term "commercial purpose" means any commercial purpose other than for the production of consumer products containing butyl nitrite that may be used for inhaling or otherwise introducing butyl nitrite into the human body for euphoric or physical effects.
+&emsp;(2) The term "commercial purpose" means any commercial purpose other than for the production of consumer products containingbutyl nitrite that may be used for inhaling or otherwise introducing butyl nitrite into the human body for euphoric or physical effects.
 
 #### (d) Effective date
 
@@ -26,7 +26,7 @@ This section shall take effect 90 days after November 18, 1988.
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat.1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Codification
 

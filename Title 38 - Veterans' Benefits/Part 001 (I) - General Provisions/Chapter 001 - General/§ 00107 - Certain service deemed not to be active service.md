@@ -1,6 +1,6 @@
 ### §107. Certain service deemed not to be active service
 
-(a) Service before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, shall not be deemed to have been active military, naval, or air service for the purposes of any law of the United States conferring rights, privileges, or benefits upon any person by reason of the service of such person or the service of any other person in the Armed Forces, except benefits under—
+(a) Service before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commanderin Chief, Southwest Pacific Area, or other competent authority in the Army of the United States, shall not be deemed to have been active military, naval, or air service for the purposes of any law of the United States conferring rights, privileges, or benefits upon any person by reason of the service of such person or the service of any other person in the Armed Forces, except benefits under—
 
 &emsp;(1) contracts of National Service Life Insurance entered into before February 18, 1946;
 
@@ -146,7 +146,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(4) Even after hostilities had ceased, wartime service of the new Philippine Scouts continued as a matter of law until the end of 1946, and the force gradually disbanded and was disestablished in 1950.
 
-&emsp;"(5) Filipino veterans who were granted benefits prior to the enactment of the so-called Rescissions Acts of 1946 (Public Laws 79–301 \[60 Stat. 6\] and 79–391 \[60 Stat. 221\]) currently receive full benefits under laws administered by the Secretary of Veterans Affairs, but under section 107 of title 38, United States Code, the service of certain other Filipino veterans is deemed not to be active service for purposes of such laws.
+&emsp;"(5) Filipino veterans who were granted benefits prior to the enactment of the so-called RescissionsActs of 1946 (Public Laws 79–301 \[60 Stat. 6\] and 79–391 \[60 Stat. 221\]) currently receive full benefits under laws administered by the Secretary of Veterans Affairs, but under section 107 of title 38, United States Code, the service of certain other Filipino veterans is deemed not to be active service for purposes of such laws.
 
 &emsp;"(6) These other Filipino veterans only receive certain benefits under title 38, United States Code, and, depending on where they legally reside, are paid such benefit amounts at reduced rates.
 
@@ -184,7 +184,7 @@ Eligible Persons.—An eligible person is any person who—
 
 &emsp;"(1) served—
 
-&emsp;&emsp;"(A) before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President datedJuly 26, 1941, including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States; or
+&emsp;&emsp;"(A) before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States; or
 
 &emsp;&emsp;"(B) in the Philippine Scouts under section 14 of the Armed Forces Voluntary Recruitment Act of 1945 (59 Stat. 538 \[543\])\[enacting section 637 of former Title 10, Army and Air Force\]; and
 

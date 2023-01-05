@@ -104,7 +104,7 @@ In general, the Director shall permit applicants to include in their proposed bu
 
 #### (iii) Uses of funds
 
-&emsp;&emsp;&emsp;A fellowship may include salary and benefits for up to one academic year, expensesto support coursework or equivalent training in artificial intelligence systems, and additional such expenses that the Director deems appropriate.
+&emsp;&emsp;&emsp;A fellowship may include salary and benefits for up to one academic year, expenses to support coursework or equivalent training in artificial intelligence systems, and additional such expenses that the Director deems appropriate.
 
 #### (C) Omitted
 
@@ -184,7 +184,7 @@ Section 5301 of this division, referred to in subsec. (b)(7), means section 5301
 
 #### Codification
 
-Section is comprised of section 5401 of Pub. L. 116–283. Subsec. (e)(2)(C) of section 5401 of Pub. L. 116–283 amended section 1862n–1 of Title 42, The Public Health and Welfare. Subsec. (e)(3)(A) of section 5401 of Pub. L. 116–283 amended section 1862i of Title 42.
+Section is comprised of section 5401 of Pub. L. 116–283. Subsec. (e)(2)(C) of section 5401 of Pub. L. 116–283amended section 1862n–1 of Title 42, The Public Health and Welfare. Subsec. (e)(3)(A) of section 5401 of Pub. L. 116–283 amended section 1862i of Title 42.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

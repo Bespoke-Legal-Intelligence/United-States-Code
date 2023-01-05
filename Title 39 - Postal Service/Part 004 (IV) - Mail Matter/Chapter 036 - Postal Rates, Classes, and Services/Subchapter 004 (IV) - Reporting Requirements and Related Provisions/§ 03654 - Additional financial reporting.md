@@ -8,7 +8,7 @@ Additional Financial Reporting.—
 
 In general.—The Postal Service shall file with the Postal Regulatory Commission beginning with the first full fiscal year following the effective date of this section—
 
-&emsp;&emsp;(A) within 40 days after the end of each fiscal quarter, a quarterly report containing the information required by the Securities and Exchange Commission to be included in quarterly reports under sections 13 and 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m, 78o(d)) on Form 10–Q, as such Form (or any successor form) may be revised from time to time;
+&emsp;&emsp;(A) within 40 days after the end of each fiscal quarter, a quarterly report containing the information required by the Securities and Exchange Commission to be included in quarterly reports under sections 13 and 15(d) of the Securities Exchange Act of 1934 (15U.S.C. 78m, 78o(d)) on Form 10–Q, as such Form (or any successor form) may be revised from time to time;
 
 &emsp;&emsp;(B) within 60 days after the end of each fiscal year, an annual report containing the information required by the Securities and Exchange Commission to be included in annual reports under such sections on Form 10–K, as such Form (or any successor form) may be revised from time to time; and
 
@@ -16,7 +16,7 @@ In general.—The Postal Service shall file with the Postal Regulatory Commissio
 
 &emsp;(2)
 
-Registrant defined.—For purposes of defining the reports required by paragraph (1), the Postal Service shall be deemed to be the"registrant" described in the Securities and Exchange Commission Forms, and references contained in such Forms to Securities and Exchange Commission regulations are incorporated herein by reference, as amended.
+Registrant defined.—For purposes of defining the reports required by paragraph (1), the Postal Service shall be deemed to be the "registrant" described in the Securities and Exchange Commission Forms, and references contained in such Forms to Securities and Exchange Commission regulations are incorporated herein by reference, as amended.
 
 &emsp;(3)
 

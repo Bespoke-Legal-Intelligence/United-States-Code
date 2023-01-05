@@ -44,7 +44,7 @@ Each grant made under this section may be used to pay the Federal share of the c
 
 &emsp;&emsp;(B) interdisciplinary programs which provide business, finance, management, communications systems, and other professional training for foreign language and international studies faculty and degree candidates;
 
-&emsp;&emsp;(C) programs, such as intensive language programs, available to members of the business community and other professionals which are designed to develop or enhancetheir international skills, awareness, and expertise;
+&emsp;&emsp;(C) programs, such as intensive language programs, available to members of the business community and other professionals which are designed to develop or enhance their international skills, awareness, and expertise;
 
 &emsp;&emsp;(D) collaborative programs, activities, or research involving other institutions of higher education, local educational agencies, professional associations, businesses, firms, or consortia thereof, to promote the development of international skills, awareness, and expertise among current and prospective members of the business community and other professionals;
 

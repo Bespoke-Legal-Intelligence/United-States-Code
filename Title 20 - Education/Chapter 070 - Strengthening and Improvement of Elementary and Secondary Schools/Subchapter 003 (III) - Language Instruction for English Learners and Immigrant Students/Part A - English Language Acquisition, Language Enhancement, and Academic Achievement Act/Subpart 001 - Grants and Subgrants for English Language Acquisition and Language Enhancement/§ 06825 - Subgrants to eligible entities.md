@@ -114,7 +114,7 @@ Subject to subsection (c), an eligible entity receiving funds under section 6824
 
 #### (g) Supplement, not supplant
 
-Federal funds made available under this subpart shall be used so as to supplement the level of Federal, State, and local public funds that, in the absence of such availability, would have been expended for programs for English learners and immigrant children and youth and in no case to supplant such Federal, State, and local public funds.
+Federal funds made available under this subpart shall be used so as to supplement the levelof Federal, State, and local public funds that, in the absence of such availability, would have been expended for programs for English learners and immigrant children and youth and in no case to supplant such Federal, State, and local public funds.
 
 (Pub. L. 89–10, title III, §3115, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1697; amended Pub. L. 114–95, title III, §3003(f), Dec. 10, 2015, 129 Stat. 1958.)
 

@@ -214,11 +214,11 @@ In this section:
 
 #### (3) Limitation
 
-&emsp;Student loan payments may be made under this section only with respect to the amountof student loan indebtedness of the eligible employee that is outstanding on the date on which the employee and the employing office enter into a service agreement under this section. Such payments may not be made under this section on a student loan that is in default or arrears.
+&emsp;Student loan payments may be made under this section only with respect to the amount of student loan indebtedness of the eligible employee that is outstanding on the date on which the employee and the employing office enter into a service agreement under this section. Such payments may not be made under this section on a student loan that is in default or arrears.
 
 #### (4) Payment on multiple loans
 
-&emsp;Student loan payments may be made under this section with respect to more than 1 student loan of an eligible employee at the same time or separately, if the total payments on behalf of such employee do not exceed the limits under subsection (c)(2)(A).
+&emsp;Student loan payments may be made under this section with respect to more than 1 student loan of an eligible employee at the same time or separately, if the total payments onbehalf of such employee do not exceed the limits under subsection (c)(2)(A).
 
 #### (5) Treatment of payments
 

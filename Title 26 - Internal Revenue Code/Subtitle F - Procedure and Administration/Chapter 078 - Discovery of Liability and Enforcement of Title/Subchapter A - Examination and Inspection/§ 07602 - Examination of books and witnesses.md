@@ -12,7 +12,7 @@ For the purpose of ascertaining the correctness of any return, making a return w
 
 #### (b) Purpose may include inquiry into offense
 
-The purposes for which the Secretary may take any action described in paragraph (1), (2), or (3) of subsection (a) include the purpose of inquiring into any offense connected with the administration or enforcement of the internal revenue laws.
+The purposes for which the Secretary may take any action described in paragraph (1), (2),or (3) of subsection (a) include the purpose of inquiring into any offense connected with the administration or enforcement of the internal revenue laws.
 
 #### (c) Notice of contact of third parties
 
@@ -24,7 +24,7 @@ The purposes for which the Secretary may take any action described in paragraph 
 
 &emsp;&emsp;(B) except as otherwise provided by the Secretary, is provided to the taxpayer not later than 45 days before the beginning of such period.
 
-> &emsp;Nothing in the preceding sentence shall prevent the issuance of notices to the same taxpayer with respect to the same tax liability with periods specified therein that, in the aggregate, exceed 1 year. A notice shall not be issued under this paragraph unless there is anintent at the time such notice is issued to contact persons other than the taxpayer during the period specified in such notice. The preceding sentence shall not prevent the issuance of a notice if the requirement of such sentence is met on the basis of the assumption that the information sought to be obtained by such contact will not be obtained by other means before such contact.
+> &emsp;Nothing in the preceding sentence shall prevent the issuance of notices to the same taxpayer with respect to the same tax liability with periods specified therein that, in the aggregate, exceed 1 year. A notice shall not be issued under this paragraph unless there is an intent at the time such notice is issued to contact persons other than the taxpayer during the period specified in such notice. The preceding sentence shall not prevent the issuance of a notice if the requirement of such sentence is met on the basis of the assumption that the information sought to be obtained by such contact will not be obtained by other means before such contact.
 
 #### (2) Notice of specific contacts
 

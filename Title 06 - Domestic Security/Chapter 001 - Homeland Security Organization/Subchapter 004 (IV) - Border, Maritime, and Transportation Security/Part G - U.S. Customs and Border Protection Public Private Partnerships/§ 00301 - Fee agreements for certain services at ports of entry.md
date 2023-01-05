@@ -50,9 +50,9 @@ The Commissioner of U.S. Customs and Border Protection, at the request of an ent
 
 &emsp;In addition to costs described in paragraph (1), a fee agreement for U.S. Customs and Border Protection services at an air port of entry referred to in paragraph (2) may provide for the reimbursement of—
 
-&emsp;&emsp;(A) salaries and expenses of not more than five full-time equivalent U.S. Customs andBorder Protection Officers beyond the number of such officers assigned to the port of entry on the date on which the fee agreement was signed;
+&emsp;&emsp;(A) salaries and expenses of not more than five full-time equivalent U.S. Customs and Border Protection Officers beyond the number of such officers assigned to the port of entry on the date on which the fee agreement was signed;
 
-&emsp;&emsp;(B) salaries and expenses of employees of U.S. Customs and Border Protection, other than the officers referred to in subparagraph (A), to support U.S. Customs and Border Protection officers in performing law enforcement functions; and
+&emsp;&emsp;(B) salaries and expenses of employees of U.S. Customs and Border Protection, other than the officers referred to in subparagraph (A), to support U.S. Customs and BorderProtection officers in performing law enforcement functions; and
 
 &emsp;&emsp;(C) other costs incurred by U.S. Customs and Border Protection relating to services described in subparagraph (B), such as temporary placement or permanent relocation of employees, including incentive pay for relocation, as appropriate.
 
@@ -122,7 +122,7 @@ The Commissioner of U.S. Customs and Border Protection shall ensure that each fe
 
 #### (3) Termination by the entity
 
-&emsp;Any entity who has previously entered into an agreement with U.S. Customs and Border Protection for the reimbursement of fees in effect on December 16, 2016, or under the provisions of this section, may request that such agreement be amended to provide for termination upon advance notice, length, and terms that are negotiated between such entity and U.S. Customs and Border Protection.
+&emsp;Any entity who has previously entered into an agreement with U.S. Customs and Border Protection for the reimbursement of fees in effect on December 16, 2016, or under the provisions of this section, may request that such agreement be amended to provide for termination upon advance notice, length, and termsthat are negotiated between such entity and U.S. Customs and Border Protection.
 
 #### (k) Annual report
 

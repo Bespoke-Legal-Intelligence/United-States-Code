@@ -146,7 +146,7 @@ Subsec. (h)(3). Pub. L. 105–178, §1202(a)(5), substituted "motorized wheelcha
 
 Subsec. (h)(4), (5). Pub. L. 105–178, §1202(a)(6), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: "For purposes of this section, a 'bicycle transportation facility' means new or improved lanes, paths, or shoulders for use by bicyclists, traffic control devices, shelters, and parking facilities for bicycles."
+Subsec. (j). Pub. L. 105–178, §1202(a)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: "For purposes of this section, a 'bicycle transportation facility' means new or improved lanes, paths, or shoulders for use by bicyclists,traffic control devices, shelters, and parking facilities for bicycles."
 
 <b>1995</b>—Subsec. (f). Pub. L. 104–59 substituted "determined in accordance with section 120(b)" for "80 percent".
 

@@ -12,7 +12,7 @@
 
 #### (3) Special rule
 
-&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) of the Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
+&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months. Notwithstanding section 422(d) ofthe Higher Education Amendments of 1998, this paragraph shall be effective beginning on February 8, 2006.
 
 #### (4) Amendment to special rule
 
@@ -100,7 +100,7 @@ Subsec. (e). Pub. L. 109–171, §8010(3), struck out ", made to a student to c
 
 <b>1998</b>—Subsec. (a)(3). Pub. L. 105–244, §422(a), (d), temporarily added par. (3) which read as follows: "An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months." See Codification note and 2006 Amendment note above and Effective and Termination Dates of 1998 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 105–244, §422(b), (d), temporarily inserted at end "An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall beexempt from the requirements of this paragraph." See Codification note and 2006 Amendment note above and Effective and Termination Dates of 1998 Amendment note below.
+Subsec. (b)(1). Pub. L. 105–244, §422(b), (d), temporarily inserted at end "An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph." See Codification note and 2006 Amendment note above and Effective and Termination Dates of 1998 Amendment note below.
 
 Subsec. (e). Pub. L. 105–244, §422(c), substituted ", made to a student" for "or made to a student" and inserted before the period at end ", or made to a student to cover the cost of attendance in a program of study abroad approved by the home eligible institution if the home eligible institution has a cohort default rate (as calculated under section 1085(m) of this title) of less than 5 percent".
 
@@ -146,7 +146,7 @@ Amendment by Pub. L. 103–66 effective with respect to loans for which the firs
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title III, §3003(b), Nov. 5, 1990, 104 Stat. 1388–26, provided that: "The amendment made by this section \[amending this section\] shall be effective for loans made on or after the date of enactment of this Act \[Nov. 5, 1990\] to cover the cost of instruction for periods of enrollment beginning on or after January 1, 1991."
+Pub. L. 101–508, title III, §3003(b), Nov. 5, 1990, 104 Stat. 1388–26, provided that: "The amendment made bythis section \[amending this section\] shall be effective for loans made on or after the date of enactment of this Act \[Nov. 5, 1990\] to cover the cost of instruction for periods of enrollment beginning on or after January 1, 1991."
 
 #### Effective Date
 

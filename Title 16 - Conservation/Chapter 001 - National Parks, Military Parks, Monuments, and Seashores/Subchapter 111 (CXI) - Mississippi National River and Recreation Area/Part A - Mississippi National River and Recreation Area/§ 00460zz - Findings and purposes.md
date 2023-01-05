@@ -6,7 +6,7 @@ The Congress finds that:
 
 &emsp;(1) The Mississippi River Corridor within the Saint Paul-Minneapolis Metropolitan Area represents a nationally significant historical, recreational, scenic, cultural, natural, economic, and scientific resource.
 
-&emsp;(2) There is a national interest in the preservation, protection and enhancement of theseresources for the benefit of the people of the United States.
+&emsp;(2) There is a national interest in the preservation, protection and enhancement of these resources for the benefit of the people of the United States.
 
 &emsp;(3) State and local planning efforts along the River Corridor provide a unique foundation for coordinating Federal, State, and local planning and management processes.
 

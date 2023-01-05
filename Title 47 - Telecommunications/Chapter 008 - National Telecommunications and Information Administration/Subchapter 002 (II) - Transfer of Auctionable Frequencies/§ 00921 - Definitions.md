@@ -2,7 +2,7 @@
 
 As used in this subchapter:
 
-&emsp;(1) The term "allocation" means an entry in the National Table of Frequency Allocations of a given frequency band for the purpose of its use by one or more radiocommunication services.
+&emsp;(1) The term "allocation" means an entry in the National Table of Frequency Allocations of a given frequency band for the purpose ofits use by one or more radiocommunication services.
 
 &emsp;(2) The term "assignment" means an authorization given to a station licensee to use specific frequencies or channels.
 
@@ -14,7 +14,7 @@ As used in this subchapter:
 
 #### References in Text
 
-The Communications Act of 1934, referred to in par. (3), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+The Communications Act of 1934, referred to in par. (3), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -132,7 +132,7 @@ In general.—The Commission shall—
 
 &emsp;&emsp;"(A) revise the non-Federal allocation for the covered band to permit flexible-use services; and
 
-&emsp;&emsp;"(B) notwithstanding paragraph (15)(A) of section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)), not later than December 31, 2021, begin a system of competitive bidding under that section to grant new initial licenses for the use of a portion or all of the covered band, subject to flexible-use service rules.
+&emsp;&emsp;"(B) notwithstanding paragraph (15)(A) of section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)), not later than December 31, 2021, begin a system of competitive bidding under that section togrant new initial licenses for the use of a portion or all of the covered band, subject to flexible-use service rules.
 
 &emsp;"(2)
 
@@ -222,7 +222,7 @@ Pub. L. 106–65, div. A, title X, §1062(b), Oct. 5, 1999, 113 Stat. 768, provi
 
 "(1)
 
-In general.—If, in order to make available for other use a band of frequencies of which it is a primaryuser, the Department of Defense is required to surrender use of such band of frequencies, the Department shall not surrender use of such band of frequencies until—
+In general.—If, in order to make available for other use a band of frequencies of which it is a primary user, the Department of Defense is required to surrender use of such band of frequencies, the Department shall not surrender use of such band of frequencies until—
 
 &emsp;"(A) the National Telecommunications and Information Administration, in consultation with the Federal Communications Commission, identifies and makes available to the Department for its primary use, if necessary, an alternative band or bands of frequencies as a replacement for the band to be so surrendered; and
 
@@ -230,7 +230,7 @@ In general.—If, in order to make available for other use a band of frequencies
 
 "(2)
 
-Exception.—Paragraph (1) shall not apply to a band of frequencies that has been identified for reallocation in accordance with title VI of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 (Public Law 105–33, 111 Stat. 258) \[enacting section 337 of this title, amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under section 309 of this title\], other than a band of frequencies that is reclaimed pursuant to subsection (c) \[amending section 923 of this title and enacting provisions set out as a note below\]."
+Exception.—Paragraph (1) shall not apply to a band of frequencies that has been identified for reallocation in accordance with title VI of the OmnibusBudget Reconciliation Act of 1993 (Public Law 103–66; 107 Stat. 379) \[enacting sections 159 and 921 to 927 of this title and amending sections 152, 153, 156, 158, 309, 332, and 903 of this title\] and title III of the Balanced Budget Act of 1997 (Public Law 105–33, 111 Stat. 258) \[enacting section 337 of this title, amending sections 153, 303, 309, and 923 to 925 of this title, and repealing provisions set out as a note under section 309 of this title\], other than a band of frequencies that is reclaimed pursuant to subsection (c) \[amending section 923 of this title and enacting provisions set out as a note below\]."
 
 \[Pub. L. 108–494, title II, §206, Dec. 23, 2004, 118 Stat. 3996, provided that: "Nothing in this title \[see Short Title of 2004 Amendment note set out under section 901 of this title\] is intended to modify section 1062(b) of the National Defense Authorization Act for Fiscal Year 2000 (Public Law 106–65) \[set out above\]."\]
 

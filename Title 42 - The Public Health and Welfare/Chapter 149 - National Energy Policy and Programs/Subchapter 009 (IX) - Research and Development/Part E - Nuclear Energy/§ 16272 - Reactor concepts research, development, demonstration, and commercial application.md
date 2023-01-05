@@ -30,13 +30,27 @@
 
 &emsp;&emsp;(L) resilience.
 
-#### (2) Authorization of appropriations
+#### (2) Isotope demonstration evaluation
 
-&emsp;There are authorized to be appropriated to the Secretary to carry out the program under this subsection $55,000,000 for each of fiscal years 2021 through 2025.
+#### (A) In general
+
+&emsp;&emsp;Not later than 1 year after August 9, 2022, the Secretary, acting through the Assistant Secretary for Nuclear Energy, shall evaluate the technical and economic feasibility of establishing and, if feasible, is authorized to establish an isotope demonstration subprogram of the program established under paragraph (1) to support the development and commercial demonstration of critical radioactive and stable isotope production in existing commercial nuclear power plants.
+
+#### (B) Consultation
+
+&emsp;&emsp;The Secretary, acting through the Assistant Secretary for Nuclear Energy, shall consult with the Director of the Office of Science in carrying out the evaluation under subparagraph (A).
+
+#### (C) Definition of critical radioactive and stable isotope
+
+&emsp;&emsp;In this paragraph, the term "critical radioactive and stable isotope" has the meaning given the term in section 18649(a) of this title.
 
 #### (3) Report
 
 &emsp;The Secretary shall submit annually a public report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate documenting funds spent under the program that describes program activities, objectives, and outcomes, including those that could benefit the entirety of the existing reactor fleet, such as with respect to aging management and related sustainability concerns, and identifying funds awarded to private entities.
+
+#### (4) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to the Secretary to carry out the program under this subsection $55,000,000 for each of fiscal years 2021 through 2025.
 
 #### (b) Advanced reactor technologies
 
@@ -110,7 +124,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall carry out a program of research, development, demonstration, and commercial application to develop nuclear integrated energy systems, composed of 2 or more co-located or jointly operated subsystems of energy generation, energy storage, or other technologies and in which not less than 1 such subsystem is a nuclear energy system, to—
+&emsp;The Secretary shall carry out a program of research, development, demonstration, andcommercial application to develop nuclear integrated energy systems, composed of 2 or more co-located or jointly operated subsystems of energy generation, energy storage, or other technologies and in which not less than 1 such subsystem is a nuclear energy system, to—
 
 &emsp;&emsp;(A) reduce greenhouse gas emissions in both the power and nonpower sectors; and
 
@@ -164,11 +178,17 @@
 
 &emsp;&emsp;(E) $40,000,000 for fiscal year 2025.
 
-(Pub. L. 109–58, title IX, §952, Aug. 8, 2005, 119 Stat. 885; Pub. L. 115–248, §2(b)(1), Sept. 28, 2018, 132 Stat. 3155; Pub. L. 116–260, div. Z, title II, §2003(a), Dec. 27, 2020, 134 Stat. 2459.)
+(Pub. L. 109–58, title IX, §952, Aug. 8, 2005, 119 Stat. 885; Pub. L. 115–248, §2(b)(1), Sept. 28, 2018, 132 Stat. 3155; Pub. L. 116–260, div. Z, title II, §2003(a), Dec. 27, 2020, 134 Stat. 2459; Pub. L. 117–167, div. B, title I, §10110(b), Aug. 9, 2022, 136 Stat. 1454; Pub. L. 117–263, div. E, title LIX, §5914(1), Dec. 23, 2022, 136 Stat. 3449.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–167 added par. (2). Former par. (2) redesignated (4).
+
+Subsec. (a)(2)(A). Pub. L. 117–263 substituted "shall evaluate the technical and economic feasibility of establishing and, if feasible, is authorized to establish" for "shall evaluate the technical and economic feasibility of the establishment of".
+
+Subsec. (a)(4). Pub. L. 117–167 redesignated par. (2) as (4) and transferred it to appear after par. (3).
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to nuclear energy research programs.
 

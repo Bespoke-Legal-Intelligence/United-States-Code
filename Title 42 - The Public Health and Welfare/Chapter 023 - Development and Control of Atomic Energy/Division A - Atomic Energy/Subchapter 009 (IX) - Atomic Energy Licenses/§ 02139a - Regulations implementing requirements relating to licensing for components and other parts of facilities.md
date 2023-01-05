@@ -2,7 +2,7 @@
 
 (a) Omitted
 
-(b) The Commission, not later than one hundred and twenty days after March 10, 1978, shall publish regulations to implement the provisions of subsections (b) and (c) of section 2139 of this title. Among other things, these regulations shall provide for the prior consultation by the Commission with the Department of State, the Department of Energy, the Department of Defense, and the Department of Commerce.
+(b) The Commission, not later than one hundred and twenty days after March 10, 1978, shallpublish regulations to implement the provisions of subsections (b) and (c) of section 2139 of this title. Among other things, these regulations shall provide for the prior consultation by the Commission with the Department of State, the Department of Energy, the Department of Defense, and the Department of Commerce.
 
 (c) The President, within not more than one hundred and twenty days after March 10, 1978, shall publish procedures regarding the control by the Department of Commerce over all export items, other than those licensed by the Commission, which could be, if used for purposes other than those for which the export is intended, of significance for nuclear explosive purposes. Among other things, these procedures shall provide for prior consultations by the Department of Commerce with the Department of State, the Commission, the Department of Energy, and the Department of Defense.
 
@@ -12,7 +12,7 @@
 
 #### References in Text
 
-Commission, referred to in text, is defined as meaning the Nuclear Regulatory Commission by section4(a)(1) of the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, which is classified to section 3203(a)(1) of Title 22, Foreign Relations and Intercourse.
+Commission, referred to in text, is defined as meaning the Nuclear Regulatory Commission by section 4(a)(1) of the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, which is classified to section 3203(a)(1) of Title 22, Foreign Relations and Intercourse.
 
 #### Codification
 

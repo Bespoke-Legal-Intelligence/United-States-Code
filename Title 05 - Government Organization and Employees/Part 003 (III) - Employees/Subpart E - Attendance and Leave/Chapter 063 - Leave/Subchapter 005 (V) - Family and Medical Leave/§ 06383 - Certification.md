@@ -20,7 +20,7 @@
 
 (2) Any health care provider designated or approved under paragraph (1) shall not be employed on a regular basis by the employing agency.
 
-(d)(1) In any case in which the second opinion described in subsection (c) differs from the original certification provided under subsection (a), the employing agency may require, at the expense of the agency, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employing agency and the employee concerning the information certified under subsection (b).
+(d)(1) In any case in which the second opinion described in subsection (c) differs from the original certification provided under subsection (a),the employing agency may require, at the expense of the agency, that the employee obtain the opinion of a third health care provider designated or approved jointly by the employing agency and the employee concerning the information certified under subsection (b).
 
 (2) The opinion of the third health care provider concerning the information certified under subsection (b) shall be considered to be final and shall be binding on the employing agency and the employee.
 

@@ -4,7 +4,7 @@
 
 Applicability of Government-wide Statutes.—(1) No contract for the procurement of a commercial product or commercial service entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation pursuant to section 1906(b) of title 41.
 
-(2) No subcontract under a contract for the procurement of a commercial product or commercial service entered into by the head of anagency shall be subject to any law properly listed in the Federal Acquisition Regulation pursuant to section 1906(c) of title 41.
+(2) No subcontract under a contract for the procurement of a commercial product or commercial service entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation pursuant to section 1906(c) of title 41.
 
 (3) No contract for the procurement of a commercially available off-the-shelf item entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation pursuant to section 1907 of title 41.
 
@@ -28,7 +28,7 @@ Applicability of Defense-unique Statutes to Subcontracts for Commercial Products
 
 Applicability of Defense-unique Statutes to Contracts for Commercially Available, Off-the-shelf Items.—(1) The Defense Federal Acquisition Regulation Supplement shall include a list of provisions of law and of contract clause requirements based on government-wide acquisition regulations, policies, or executive orders not expressly authorized in law that are inapplicable to contracts for the procurement of commercially available off-the-shelf items. A provision of law or contract clause requirement properly included on the list pursuant to paragraph (2) does not apply to Department of Defense contracts for the procurement of commercially available off-the-shelf items. This section does not render a provision of law or contract clause requirement not included on the list inapplicable to contracts for the procurement of commercially available off-the-shelf items.
 
-(2) A provision of law or contract clause requirement described in subsection (e) shall be included on the list of inapplicable provisions of law and contract clause requirements required by paragraph (1) unless the Under Secretary of Defense for Acquisition and Sustainment makes a written determination that it would not be in the best interest of the Department of Defense to exempt contracts for the procurement of commercially available off-the-shelf items from the applicability of the provision or contract clause requirement.
+(2) A provision of law or contract clause requirement described in subsection (e) shall be included on the list of inapplicable provisions of law and contract clause requirements required by paragraph (1) unless the Under Secretary of Defense for Acquisition and Sustainment makes a written determination that it would not be in the best interest of the Department of Defense to exempt contracts for the procurement ofcommercially available off-the-shelf items from the applicability of the provision or contract clause requirement.
 
 (e)
 
@@ -38,7 +38,7 @@ Covered Provision of Law or Contract Clause Requirement.—A provision of law or
 
 &emsp;(2) requires that certain articles be bought from American sources pursuant to section 4862 of this title, or requires that strategic materials critical to national security be bought from American sources pursuant to section 4863 of this title; or
 
-&emsp;(3) specifically refers to this section and provides that, notwithstanding this section, itshall be applicable to contracts for the procurement of commercial products and commercial services.
+&emsp;(3) specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercial products and commercial services.
 
 (Added Pub. L. 103–355, title VIII, §8102, Oct. 13, 1994, 108 Stat. 3390, §2375; amended Pub. L. 105–85, div. A, title X, §1073(a)(51), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 107–107, div. A, title X, §1048(a)(18), Dec. 28, 2001, 115 Stat. 1223; Pub. L. 111–350, §5(b)(21), Jan. 4, 2011, 124 Stat. 3844; Pub. L. 114–328, div. A, title VIII, §874(a), Dec. 23, 2016, 130 Stat. 2308; Pub. L. 115–232, div. A, title VIII, §§836(d)(1), (8)(B), 837(a), Aug. 13, 2018, 132 Stat. 1866, 1868, 1875; Pub. L. 116–92, div. A, title IX, §902(57), Dec. 20, 2019, 133 Stat. 1549; renumbered §3452 and amended Pub. L. 116–283, div. A, title XVIII, §§1821(a)(2), (b)(2), 1870(c)(6)(A), Jan. 1, 2021, 134 Stat. 4195, 4285.)
 
@@ -124,7 +124,7 @@ Subcontracts.—In this subsection, the term 'subcontract' includes a transfer o
 
 #### Provisions Not Affected by Title VIII of Pub. L. 103–355
 
-Pub. L. 103–355, title VIII, §8304, Oct. 13, 1994, 108 Stat. 3398, as amended by Pub. L. 115–232, div. A, title VIII,§812(a)(2)(C)(iii), Aug. 13, 2018, 132 Stat. 1847, provided that: "Nothing in this title \[see Tables for classification\] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
+Pub. L. 103–355, title VIII, §8304, Oct. 13, 1994, 108 Stat. 3398, as amended by Pub. L. 115–232, div. A, title VIII, §812(a)(2)(C)(iii), Aug. 13, 2018, 132 Stat. 1847, provided that: "Nothing in this title \[see Tables for classification\] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
 
 &emsp;"(1) section 7102 of the Federal Acquisition Streamlining Act of 1994 \[Pub. L. 103–355, 15 U.S.C. 644 note\];
 

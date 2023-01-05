@@ -24,7 +24,7 @@
 
 #### (b) Consultation with other agencies
 
-In carrying out their functions under this section, the Secretary of State, the Secretary of Commerce, and the Director of the National Science Foundation shall consult, as appropriate, with the Marine Mammal Commission and with other departments and agencies of the United States.
+In carrying out their functions under this section, the Secretary of State, the Secretary of Commerce, and the Director of the National Science Foundation shall consult, as appropriate, with the Marine Mammal Commissionand with other departments and agencies of the United States.
 
 #### (c) Icebreaking
 

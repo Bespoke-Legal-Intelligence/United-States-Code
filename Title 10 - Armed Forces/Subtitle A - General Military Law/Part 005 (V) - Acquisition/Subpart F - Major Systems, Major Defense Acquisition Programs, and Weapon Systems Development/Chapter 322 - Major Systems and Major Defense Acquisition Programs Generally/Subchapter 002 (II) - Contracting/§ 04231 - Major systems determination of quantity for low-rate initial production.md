@@ -36,7 +36,7 @@ Low-Rate Initial Production of Naval Vessel and Satellite Programs.—With respe
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1847(c)(1)(B), amended section catchline generally. Prior to amendment, sectioncatchline read as follows: "Low-rate initial production of new systems".
+<b>2021</b>—Pub. L. 116–283, §1847(c)(1)(B), amended section catchline generally. Prior to amendment, section catchline read as follows: "Low-rate initial production of new systems".
 
 Pub. L. 116–283, §1847(c)(1)(A), renumbered section 2400 of this title as this section.
 

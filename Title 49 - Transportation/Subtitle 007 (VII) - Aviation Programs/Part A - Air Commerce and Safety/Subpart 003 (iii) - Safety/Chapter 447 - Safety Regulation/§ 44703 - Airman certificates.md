@@ -44,7 +44,7 @@ Appeals.—(1) An individual whose application for the issuance or renewal of an
 
 &emsp;(B) was revoked within one year from the date of the denial.
 
-(2) The Board shall conduct a hearing on the appeal at a place convenient to the place of residence or employment of the applicant. The Board is not bound by findings of fact of the Administrator of the Federal Aviation Administration. At the end of the hearing, the Board shall decide whether the individual meets the applicable regulations and standards. The Administrator is bound by that decision.
+(2) The Board shall conduct a hearing on the appeal at a place convenient to the place of residence or employment of the applicant. The Board is not bound by findings of fact of the Administrator of the Federal Aviation Administration. At the end of the hearing, the Board shalldecide whether the individual meets the applicable regulations and standards. The Administrator is bound by that decision.
 
 (3) A person who is substantially affected by an order of the Board under this subsection, or the Administrator if the Administrator decides that an order of the Board will have a significant adverse impact on carrying out this subtitle, may seek judicial review of the order under section 46110. The Administrator shall be made a party to the judicial review proceedings. The findings of fact of the Board in any such case are conclusive if supported by substantial evidence.
 
@@ -116,7 +116,7 @@ Air carrier and other records.—From any air carrier or other person (except a 
 
 &emsp;&emsp;&emsp;&emsp;(V) section 135.63(a)(4) of such title; and
 
-&emsp;&emsp;&emsp;(ii) other records pertaining to the individual's performance as a pilot that are maintained by the air carrier or person concerning—
+&emsp;&emsp;&emsp;(ii) other records pertaining to the individual's performance as a pilot that aremaintained by the air carrier or person concerning—
 
 &emsp;&emsp;&emsp;&emsp;(I) the training, qualifications, proficiency, or professional competence of the individual, including comments and evaluations made by a check airman designated in accordance with section 121.411, 125.295, or 135.337 of such title;
 
@@ -192,7 +192,7 @@ Privacy protections.—An air carrier that receives the records of an individual
 
 Periodic review.—Not later than 18 months after the date of the enactment of the Pilot Records Improvement Act of 1996, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry—
 
-&emsp;&emsp;(A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, air carrier records, and other records required to be furnished under subparagraphs (A) and (B) of paragraph (1); or
+&emsp;&emsp;(A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, aircarrier records, and other records required to be furnished under subparagraphs (A) and (B) of paragraph (1); or
 
 &emsp;&emsp;(B) reasons why the Administrator does not recommend any proposed changes to the records referred to in subparagraph (A).
 
@@ -356,7 +356,7 @@ Privacy protections.—
 
 &emsp;&emsp;(A)
 
-Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the recordsonly to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;&emsp;(B)
 
@@ -384,7 +384,7 @@ Exceptions.—Clause (i) shall not apply to—
 
 Periodic review.—Not later than 18 months after the date of enactment of this paragraph, and at least once every 3 years thereafter, the Administrator shall transmit to Congress a statement that contains, taking into account recent developments in the aviation industry—
 
-&emsp;&emsp;(A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, air carrier records, and other records required to be included in the database under paragraph (2); or
+&emsp;&emsp;(A) recommendations by the Administrator concerning proposed changes to Federal Aviation Administration records, aircarrier records, and other records required to be included in the database under paragraph (2); or
 
 &emsp;&emsp;(B) reasons why the Administrator does not recommend any proposed changes to the records referred to in subparagraph (A).
 
@@ -668,7 +668,7 @@ Subsec. (h) of this section ceases to be effective beginning on Sept. 9, 2024, s
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
@@ -1052,7 +1052,7 @@ In general.—If the Administrator receives credible or urgent information, incl
 
 &emsp;"(2)
 
-Use of information.—The Administrator may use credible or urgent information received under paragraph (1) to request an individual to provide additional information or to take actions under section 44709(b) of title 49, United States Code."
+Use of information.—The Administrator may use credible or urgent information received underparagraph (1) to request an individual to provide additional information or to take actions under section 44709(b) of title 49, United States Code."
 
 #### Federal Aviation Administration Enforcement Proceedings and Elimination of Deference
 

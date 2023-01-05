@@ -20,7 +20,7 @@ There is established within the Department of the Treasury the Office of Financi
 
 #### (4) Prohibition on dual service
 
-&emsp;The individual serving in the position of Director may not, during such service, also serve as the head of any financial regulatory agency.
+&emsp;The individual serving in the position of Director may not, during such service, also serveas the head of any financial regulatory agency.
 
 #### (5) Responsibilities, duties, and authority
 
@@ -38,7 +38,7 @@ The Director, in consultation with the Chairperson, shall establish the annual b
 
 #### (2) Compensation
 
-&emsp;The Director, in consultation with the Chairperson, shall fix, adjust, and administerthe pay for all employees of the Office, without regard to chapter 51 or subchapter III of chapter 53 of title 5, relating to classification of positions and General Schedule pay rates.
+&emsp;The Director, in consultation with the Chairperson, shall fix, adjust, and administer the pay for all employees of the Office, without regard to chapter 51 or subchapter III of chapter 53 of title 5, relating to classification of positions and General Schedule pay rates.
 
 #### (3), (4) Omitted
 

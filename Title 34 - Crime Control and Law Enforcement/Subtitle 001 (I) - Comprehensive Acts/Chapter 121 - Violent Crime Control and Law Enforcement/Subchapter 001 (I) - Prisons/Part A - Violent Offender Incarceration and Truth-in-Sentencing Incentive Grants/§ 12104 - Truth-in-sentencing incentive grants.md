@@ -8,7 +8,7 @@ To be eligible to receive a grant award under this section, a State shall submit
 
 &emsp;&emsp;(i) require persons convicted of a part 1 violent crime to serve not less than 85 percent of the sentence imposed (without counting time not actually served, such as administrative or statutory incentives for good behavior); or
 
-&emsp;&emsp;(ii) result in persons convicted of a part 1 violent crime serving on average not lessthan 85 percent of the sentence imposed (without counting time not actually served, such as administrative or statutory incentives for good behavior);
+&emsp;&emsp;(ii) result in persons convicted of a part 1 violent crime serving on average not less than 85 percent of the sentence imposed (without counting time not actually served, such as administrative or statutory incentives for good behavior);
 
 &emsp;(B) such State has truth-in-sentencing laws that have been enacted, but not yet implemented, that require such State, not later than 3 years after such State submits an application to the Attorney General, to provide that persons convicted of a part 1 violent crime serve not less than 85 percent of the sentence imposed (without counting time not actually served, such as administrative or statutory incentives for good behavior); or
 

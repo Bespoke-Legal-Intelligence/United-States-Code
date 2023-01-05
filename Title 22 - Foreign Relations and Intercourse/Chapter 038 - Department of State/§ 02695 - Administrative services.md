@@ -28,7 +28,7 @@ Pub. L. 105–277, §1225(f), substituted "and the Agency for International Deve
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 
@@ -38,5 +38,5 @@ Amendment by section 1335(l)(1) of Pub. L. 105–277 effective Oct. 1, 1999, see
 
 #### Effective Date
 
-Pub. L. 95–426, title I, §111(b), Oct. 7, 1978, 92 Stat. 967, provided that: "The amendment made by this section\[enacting this section\] shall take effect on October 1, 1978."
+Pub. L. 95–426, title I, §111(b), Oct. 7, 1978, 92 Stat. 967, provided that: "The amendment made by this section \[enacting this section\] shall take effect on October 1, 1978."
 

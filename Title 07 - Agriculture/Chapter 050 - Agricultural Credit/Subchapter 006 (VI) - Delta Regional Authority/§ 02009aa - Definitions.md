@@ -30,7 +30,7 @@ In this subchapter:
 
 #### References in Text
 
-The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended. Section 4 of the Delta Development Act, which was set out in a note under section 3121 of Title 42, The Public Health and Welfare, was omitted from the Code. See Lower Mississippi Delta Development Commission note under section 3121 of Title 42 and Tables.
+The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246. Section 4 of the Delta Development Act, which was set out in a note under section 3121 of Title 42, The Public Health and Welfare, was omitted from the Code. See Lower Mississippi Delta Development Commission note under section 3121 of Title 42 and Tables.
 
 #### Amendments
 
@@ -58,7 +58,7 @@ Findings.—Congress finds that—
 
 &emsp;"(3) the greatest hope for economic growth and revitalization in the region lies in the development of transportation infrastructure, creation of jobs, expansion of businesses, and development of entrepreneurial local economies;
 
-&emsp;"(4) the economic progress of the region requires an adequate transportation and physical infrastructure, a skilled and trained workforce, and greater opportunities for enterprise development and entrepreneurship;
+&emsp;"(4) the economic progress of the region requires an adequate transportation and physical infrastructure,a skilled and trained workforce, and greater opportunities for enterprise development and entrepreneurship;
 
 &emsp;"(5) a concerted and coordinated effort among Federal, State, and local agencies, the private sector, and nonprofit groups is needed if the region is to achieve its full potential for economic development;
 

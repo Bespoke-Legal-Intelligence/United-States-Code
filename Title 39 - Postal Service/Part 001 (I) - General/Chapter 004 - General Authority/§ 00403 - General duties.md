@@ -1,6 +1,6 @@
 ### §403. General duties
 
-(a) The Postal Service shall plan, develop, promote, and provide adequate and efficient postal services at fair and reasonable rates and fees. The Postal Service shall receive, transmit, and deliver throughout the United States, its territories and possessions, and, pursuant to arrangements entered into under sections 406 and 411 ofthis title, throughout the world, written and printed matter, parcels, and like materials and provide such other services incidental thereto as it finds appropriate to its functions and in the public interest. The Postal Service shall serve as nearly as practicable the entire population of the United States.
+(a) The Postal Service shall plan, develop, promote, and provide adequate and efficient postal services at fair and reasonable rates and fees. The Postal Service shall receive, transmit, and deliver throughout the United States, its territories and possessions, and, pursuant to arrangements entered into under sections 406 and 411 of this title, throughout the world, written and printed matter, parcels, and like materials and provide such other services incidental thereto as it finds appropriate to its functions and in the public interest. The Postal Service shall serve as nearly as practicable the entire population of the United States.
 
 (b) It shall be the responsibility of the Postal Service—
 
@@ -32,7 +32,7 @@ Section effective Jan. 20, 1971, pursuant to Resolution No. 71–10 of the Board
 
 #### Continuation of Mail Delivery Services
 
-Provisions requiring continuation of six-day delivery and rural delivery of mail at not less than the 1983 level were contained in the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
+Provisions requiring continuation of six-day delivery and rural delivery of mail at not less than the 1983 levelwere contained in the Transportation, Treasury, Housing and Urban Development, the Judiciary, and Independent Agencies Appropriations Act, 2006, Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490, and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
 Pub. L. 108–447, div. H, title IV, Dec. 8, 2004, 118 Stat. 3264.
 

@@ -86,7 +86,7 @@ Review.—
 
 &emsp;&emsp;(A)
 
-Appeal to court of appeals.—Any person adversely affected or aggrieved by anorder issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review shall be filed not later than 60 days after the date of the issuance of the final order of the Secretary. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
+Appeal to court of appeals.—Any person adversely affected or aggrieved by an order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review shall be filed not later than 60 days after the date of the issuance of the final order of the Secretary. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
 
 &emsp;&emsp;(B)
 

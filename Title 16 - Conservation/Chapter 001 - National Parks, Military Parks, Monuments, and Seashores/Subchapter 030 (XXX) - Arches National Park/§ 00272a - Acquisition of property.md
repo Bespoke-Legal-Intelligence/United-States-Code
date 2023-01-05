@@ -6,7 +6,7 @@ The Secretary is authorized to acquire by donation, purchase with donated or app
 
 #### (b) Lost Spring Canyon Addition
 
-As soon as practicable after October 30, 1998, the Secretary shall transfer jurisdiction over the Federal land contained in the Lost Spring Canyon Addition from the Bureau of Land Management to the National Park Service.
+As soon as practicable after October 30, 1998, the Secretary shall transfer jurisdiction overthe Federal land contained in the Lost Spring Canyon Addition from the Bureau of Land Management to the National Park Service.
 
 (Pub. L. 92–155, §2, Nov. 12, 1971, 85 Stat. 422; Pub. L. 105–329, §2(b), Oct. 30, 1998, 112 Stat. 3060.)
 

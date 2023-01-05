@@ -6,7 +6,7 @@ So long as that section of the North Slope Haul Road referred to in subsection (
 
 #### (b) Release
 
-The removal of restrictions shall not be conditioned upon repayment by the State of Alaskato the Treasurer of the United States of any Federal-aid highway funds paid on account of the section of highway described in subsection (c), and the obligation of the State of Alaska to repay these amounts is hereby released so long as the road remains closed as set forth in subsection (a).
+The removal of restrictions shall not be conditioned upon repayment by the State of Alaska to the Treasurer of the United States of any Federal-aid highway funds paid on account ofthe section of highway described in subsection (c), and the obligation of the State of Alaska to repay these amounts is hereby released so long as the road remains closed as set forth in subsection (a).
 
 #### (c) Application of section
 

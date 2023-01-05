@@ -2,7 +2,7 @@
 
 #### (a) Overpayments
 
-The Corporation may refund to any insured System bank any premium payment made bythe bank exceeding the amount due the Corporation.
+The Corporation may refund to any insured System bank any premium payment made by the bank exceeding the amount due the Corporation.
 
 #### (b) Underpayments
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Court Reporters.—Under such regulations as the Secretary of Defense may prescribe, the convening authority of a military commission under this chapter shall detail to or employ for the military commission qualified court reporters, who shall prepare a verbatim record of theproceedings of and testimony taken before the military commission.
+Court Reporters.—Under such regulations as the Secretary of Defense may prescribe, the convening authority of a military commission under this chapter shall detail to or employ for the military commission qualified court reporters, who shall prepare a verbatim record of the proceedings of and testimony taken before the military commission.
 
 (b)
 

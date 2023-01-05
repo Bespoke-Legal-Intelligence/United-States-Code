@@ -62,7 +62,7 @@ There is established within the Institute a board to be known as the "National M
 
 #### (2) Authority to adjust terms
 
-&emsp;The terms of the members appointed to the Museum and Library Service Board shall be adjusted by the President as necessary to ensure that the terms of not more than four members expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
+&emsp;The terms of the members appointed to the Museum and Library Service Board shall be adjusted by the President as necessary to ensure that the terms of not more than fourmembers expire in the same year. Such adjustments shall be carried out through designation of the adjusted term at the time of appointment.
 
 #### (3) Vacancies
 

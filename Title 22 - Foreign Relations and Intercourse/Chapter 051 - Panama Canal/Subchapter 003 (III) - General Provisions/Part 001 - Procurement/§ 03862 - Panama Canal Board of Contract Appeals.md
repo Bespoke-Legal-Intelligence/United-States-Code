@@ -14,7 +14,7 @@ Notwithstanding section 7104(b)(1) of title 41 or any other provision of law, th
 
 #### (c) Exclusive jurisdiction to decide protests
 
-The Board shall decide protests submitted to it under this subsection by interested parties inaccordance with subchapter V <sup>1</sup> of title 31. Notwithstanding section 3556 of that title, section 1491(b) of title 28, and any other provision of law, the Board shall have exclusive jurisdiction to decide such protests. For purposes of this subsection—
+The Board shall decide protests submitted to it under this subsection by interested parties in accordance with subchapter V <sup>1</sup> of title 31. Notwithstanding section 3556 of that title, section 1491(b) of title 28, and any other provision of law, the Board shall have exclusive jurisdiction to decide such protests. For purposes of this subsection—
 
 &emsp;(1) except as provided in paragraph (2), each reference to the Comptroller General in sections 3551 through 3555 of title 31, is deemed to be a reference to the Board;
 
@@ -50,7 +50,7 @@ The Board may perform functions similar to those described in this section for s
 
 In subsec. (a)(1), "sections 7105(a), (c) to (e), (g), 7106(a), and 7107(a) of title 41" substituted for "section 8 of the Contract Disputes Act of 1978 (41 U.S.C. 607)", "chapter 71 of title 41" substituted for "the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)", and "that chapter" substituted for "that Act" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b), "section 7104(b)(1) of title 41" substituted for "section 10(a)(1) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a)(1))" and "section 7105(e) of title 41" substituted for "section 8(d) of such Act (41 U.S.C. 607(d))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), "section 7104(b)(1) of title 41" substituted for "section 10(a)(1) of the Contract DisputesAct of 1978 (41 U.S.C. 609(a)(1))" and "section 7105(e) of title 41" substituted for "section 8(d) of such Act (41 U.S.C. 607(d))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

@@ -66,7 +66,7 @@ The cutting, sale, or removal of timber within the Mount Hood National Recreatio
 
 #### (f) Road construction
 
-No new or temporary roads shall be constructed or reconstructed within the MountHood National Recreation Area except as necessary—
+No new or temporary roads shall be constructed or reconstructed within the Mount Hood National Recreation Area except as necessary—
 
 &emsp;(1) to protect the health and safety of individuals in cases of an imminent threat of flood, fire, or any other catastrophic event that, without intervention, would cause the loss of life or property;
 

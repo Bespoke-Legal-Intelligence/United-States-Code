@@ -46,7 +46,7 @@ At the request of any Indian tribe pursuant to a resolution adopted under subsec
 
 #### (d) Grants
 
-(1) The Secretary of the Interior may make grants to Indian tribes adopting a resolution pursuant to subsection (a) to provide technical assistance in the development of a Tribal Action Plan. The Secretary shall allocate funds based on need.
+(1) The Secretary of the Interior may make grants to Indian tribes adopting a resolutionpursuant to subsection (a) to provide technical assistance in the development of a Tribal Action Plan. The Secretary shall allocate funds based on need.
 
 (2) There are authorized to be appropriated for grants under this subsection not more than $2,000,000 for the period of fiscal years 2011 through 2015.
 

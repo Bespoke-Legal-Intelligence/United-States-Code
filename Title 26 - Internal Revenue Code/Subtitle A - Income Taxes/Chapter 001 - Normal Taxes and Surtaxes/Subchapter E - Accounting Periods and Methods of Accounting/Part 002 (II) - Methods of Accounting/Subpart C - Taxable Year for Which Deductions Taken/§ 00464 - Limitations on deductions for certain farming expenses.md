@@ -8,7 +8,7 @@ In the case of any taxpayer to whom subsection (d) applies, a deduction (otherwi
 
 In the case of any taxpayer to whom subsection (d) applies—
 
-&emsp;(1) the cost of poultry (including egg-laying hens and baby chicks) purchased for use in a trade or business (or both for use in a trade or business and for sale) shall be capitalized anddeducted ratably over the lesser of 12 months or their useful life in the trade or business, and
+&emsp;(1) the cost of poultry (including egg-laying hens and baby chicks) purchased for use in a trade or business (or both for use in a trade or business and for sale) shall be capitalized and deducted ratably over the lesser of 12 months or their useful life in the trade or business, and
 
 &emsp;(2) the cost of poultry purchased for sale shall be deducted for the taxable year in which the poultry is sold or otherwise disposed of.
 

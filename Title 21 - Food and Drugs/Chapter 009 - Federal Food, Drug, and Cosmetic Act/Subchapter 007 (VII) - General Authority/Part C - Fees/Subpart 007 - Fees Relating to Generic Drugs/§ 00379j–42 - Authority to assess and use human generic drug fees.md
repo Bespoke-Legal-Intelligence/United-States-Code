@@ -2,7 +2,7 @@
 
 #### (a) Types of fees
 
-Beginning in fiscal year 2018, the Secretary shall assess and collect fees in accordance with this section as follows:
+Beginning in fiscal year 2023, the Secretary shall assess and collect fees in accordance with this section as follows:
 
 #### (1) One-time backlog fee for abbreviated new drug applications pending on October 1, 2012
 
@@ -38,7 +38,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Notice
 
-&emsp;&emsp;Not later than 60 days before the start of each of fiscal years 2018 through 2022, the Secretary shall publish in the Federal Register the amount of the drug master file fee established by this paragraph for such fiscal year.
+&emsp;&emsp;Not later than 60 days before the start of each of fiscal years 2023 through 2027, the Secretary shall publish in the Federal Register the amount of the drug master file fee established by this paragraph for such fiscal year.
 
 #### (D) Availability for reference
 
@@ -84,7 +84,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (B) Notice
 
-&emsp;&emsp;Not later than 60 days before the start of each of fiscal years 2018 through 2022, the Secretary shall publish in the Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
+&emsp;&emsp;Not later than 60 days before the start of each of fiscal years 2023 through 2027, the Secretary shall publish in the Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
 
 #### (C) Fee due date
 
@@ -140,7 +140,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (D) Fee due date
 
-&emsp;&emsp;For each of fiscal years 2018 through 2022, the fees under subparagraph (A) for such fiscal year shall be due on the later of—
+&emsp;&emsp;For each of fiscal years 2023 through 2027, the fees under subparagraph (A) for such fiscal year shall be due on the later of—
 
 &emsp;&emsp;&emsp;(i) the first business day on or after October 1 of each such year; or
 
@@ -158,11 +158,11 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Notice
 
-&emsp;&emsp;Within the timeframe specified in subsection (d)(1), the Secretary shall publish in the Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
+&emsp;&emsp;Within the timeframe specified in subsection (d)(1), the Secretary shall publish inthe Federal Register the amount of the fees under subparagraph (A) for such fiscal year.
 
 #### (D) Fee due date
 
-&emsp;&emsp;For each of fiscal years 2018 through 2022, the fees under subparagraph (A) for such fiscal year shall be due on the later of—
+&emsp;&emsp;For each of fiscal years 2023 through 2027, the fees under subparagraph (A) for such fiscal year shall be due on the later of—
 
 &emsp;&emsp;&emsp;(i) the first business day on or after October 1 of each such fiscal year; or
 
@@ -180,13 +180,19 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (1) In general
 
-#### (A) Fiscal year 2018
+#### (A) Fiscal year 2023
 
-&emsp;&emsp;For fiscal year 2018, fees under subsection (a) shall be established to generate a total estimated revenue amount under such subsection of $493,600,000.
+&emsp;&emsp;For fiscal year 2023, fees under subsection (a) shall be established to generate a total estimated revenue amount under such subsection of $582,500,000.
 
-#### (B) Fiscal years 2019 through 2022
+#### (B) Fiscal years 2024 through 2027
 
-&emsp;&emsp;For each of the fiscal years 2019 through 2022, fees under paragraphs (2) through (5) of subsection (a) shall be established to generate a total estimated revenue amount under such subsection that is equal to $493,600,000, as adjusted pursuant to subsection (c).
+#### (i) In general
+
+&emsp;&emsp;&emsp;For each of the fiscal years 2024 through 2027, fees under paragraphs (2) through (5) of subsection (a) shall be established to generate a total estimated revenue amount under such subsection that is equal to the base revenue amount for the fiscal year under clause (ii), as adjusted pursuant to subsection (c).
+
+#### (ii) Base revenue amount
+
+&emsp;&emsp;&emsp;The base revenue amount for a fiscal year referred to in clause (i) is equal to the total revenue amount established under this paragraph for the previous fiscal year, not including any adjustments made for such previous fiscal year under subsection (c)(3).
 
 #### (2) Types of fees
 
@@ -196,11 +202,11 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;(B) Thirty-three percent shall be derived from fees under subsection (a)(3) (relating to abbreviated new drug applications).
 
-&emsp;&emsp;(C) Twenty percent shall be derived from fees under subsection (a)(4)(A)(i) (relating to generic drug facilities). The amount of the fee for a contract manufacturing organization facility shall be equal to one-third the amount of the fee for a facility that is not a contract manufacturing organization facility. The amount of the fee for a facility located outside the United States and its territories and possessions shall be $15,000 higher than the amount of the fee for a facility located in the United States and its territories and possessions.
+&emsp;&emsp;(C) Twenty percent shall be derived from fees under subsection (a)(4)(A)(i) (relating to generic drug facilities). The amount of the fee for a contract manufacturing organization facility shall be equal to twenty-four percent of the fee for a facility that is not a contract manufacturing organization facility. The amount of the fee for a facility located outside the United States and its territories and possessions shall be $15,000 higher than the amount of the fee for a facility located in the United States and its territories and possessions.
 
-&emsp;&emsp;(D) Seven percent shall be derived from fees under subsection (a)(4)(A)(ii) (relating to active pharmaceutical ingredient facilities). The amount of the fee for a facility located outside the United States and its territories and possessions shall be $15,000 higher than the amount of the fee for a facility located in the United States, including its territories and possessions.
+&emsp;&emsp;(D) Six percent shall be derived from fees under subsection (a)(4)(A)(ii) (relating to active pharmaceutical ingredient facilities). The amount of the fee for a facility located outside the United States and its territories and possessions shall be $15,000 higher than the amount of the fee for a facility located in the United States, including its territories and possessions.
 
-&emsp;&emsp;(E)(i) Thirty-five percent shall be derived from fees under subsection (a)(5) (relating to generic drug applicant program fees). For purposes of this subparagraph, if a person has affiliates, a single program fee shall be assessed with respect to that person, including its affiliates, and may be paid by that person or any one of its affiliates. The Secretary shall determine the fees as follows:
+&emsp;&emsp;(E)(i) Thirty-six percent shall be derived from fees under subsection (a)(5) (relating to generic drug applicant program fees). For purposes of this subparagraph, if a person has affiliates, a single program fee shall be assessed with respect to that person, including its affiliates, and may be paid by that person or any one of its affiliates. The Secretary shall determine the fees as follows:
 
 &emsp;&emsp;&emsp;(I) If a person (including its affiliates) owns at least one but not more than 5 approved abbreviated new drug applications on the due date for the fee under this subsection, the person (including its affiliates) shall be assessed a small business generic drug applicant program fee equal to one-tenth of the large size operation generic drug applicant program fee.
 
@@ -214,23 +220,95 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (1) Inflation adjustment
 
-&emsp;For fiscal year 2019 and subsequent fiscal years, the revenues established in subsection (b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year, to equal the product of the total revenues established in such notice for the prior fiscal year multiplied by an amount equal to the sum of—
+&emsp;For fiscal year 2024 and subsequent fiscal years, the revenues established in subsection\(b) shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year, to equal the base revenue amount for the fiscal year (as specified in subsection (b)(1)(B)(ii)) multiplied by an amount equal to the sum of—
 
 &emsp;&emsp;(A) one;
 
 &emsp;&emsp;(B) the average annual percent change in the cost, per full-time equivalent position of the Food and Drug Administration, of all personnel compensation and benefits paid with respect to such positions for the first 3 years of the preceding 4 fiscal years multiplied by the proportion of personnel compensation and benefits costs to total costs of human generic drug activities for the first 3 years of the preceding 4 fiscal years; and
 
-&emsp;&emsp;(C) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Baltimore, DC–MD–VA–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of human generic drug activities for the first 3 years of the preceding 4 fiscal years.
+&emsp;&emsp;(C) the average annual percent change that occurred in the Consumer Price Index for urban consumers (Washington-Arlington-Alexandria, DC–VA–MD–WV; Not Seasonally Adjusted; All items; Annual Index) for the first 3 years of the preceding 4 years of available data multiplied by the proportion of all costs other than personnel compensation and benefits costs to total costs of human generic drug activities for the first 3 years of the preceding 4 fiscal years.
 
-#### (2) Final year adjustment
+#### (2) Capacity planning adjustment
 
-&emsp;For fiscal year 2022, the Secretary may, in addition to adjustments under paragraph (1), further increase the fee revenues and fees established in subsection (b) if such an adjustment is necessary to provide for not more than 3 months of operating reserves of carryover user fees for human generic drug activities for the first 3 months of fiscal year 2023. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2022. If the Secretary has carryover balances for such activities in excess of 3 months of such operating reserves, the adjustment under this subparagraph shall not be made.
+#### (A) In general
+
+&emsp;&emsp;Beginning with fiscal year 2024, the Secretary shall, in addition to the adjustment under paragraph (1), further increase the fee revenue and fees under this section for a fiscal year, in accordance with this paragraph, to reflect changes in the resource capacity needs of the Secretary for human generic drug activities.
+
+#### (B) Capacity planning methodology
+
+&emsp;&emsp;The Secretary shall establish a capacity planning methodology for purposes of this paragraph, which shall—
+
+&emsp;&emsp;&emsp;(i) be derived from the methodology and recommendations made in the report titled "Independent Evaluation of the GDUFA Resource Capacity Planning Adjustment Methodology: Evaluation and Recommendations" announced in the Federal Register on August 3, 2020 (85 Fed. Reg. 46658); and
+
+&emsp;&emsp;&emsp;(ii) incorporate approaches and attributes determined appropriate by the Secretary, including approaches and attributes made in such report, except that in incorporating such approaches and attributes the workload categories used in forecasting resources shall only be the workload categories specified in section VIII.B.2.e. of the letters described in section 3001(b) of the Generic Drug User Fee Amendments of 2022.
+
+#### (C) Limitations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Under no circumstances shall an adjustment under this paragraph result in fee revenue for a fiscal year that is less than the sum of the amounts under subsection (b)(1)(B)(ii) (the base revenue amount for the fiscal year) and paragraph (1) (the dollar amount of the inflation adjustment for the fiscal year).
+
+#### (ii) Additional limitation
+
+&emsp;&emsp;&emsp;An adjustment under this paragraph shall not exceed 3 percent of the sum described in clause (i) for the fiscal year, except that such limitation shall be 4 percent if—
+
+&emsp;&emsp;&emsp;&emsp;(I) for purposes of a fiscal year 2024 adjustment, the Secretary determines that during the period from April 1, 2021, through March 31, 2023—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the total number of abbreviated new drug applications submitted was greater than or equal to 2,000; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) thirty-five percent or more of abbreviated new drug applications submitted related to complex products (as that term is defined in section XI of the letters described in section 3001(b) of the Generic Drug User Fee Amendments of 2022);
+
+&emsp;&emsp;&emsp;&emsp;(II) for purposes of a fiscal year 2025 adjustment, the Secretary determines that during the period from April 1, 2022, through March 31, 2024—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the total number of abbreviated new drug applications submitted was greater than or equal to 2,300; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) thirty-five percent or more of abbreviated new drug applications submitted related to complex products (as so defined);
+
+&emsp;&emsp;&emsp;&emsp;(III) for purposes of a fiscal year 2026 adjustment, the Secretary determines that during the period from April 1, 2023, through March 31, 2025—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the total number of abbreviated new drug applications submitted was greater than or equal to 2,300; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) thirty-five percent or more of abbreviated new drug applications submitted related to complex products (as so defined); and
+
+&emsp;&emsp;&emsp;&emsp;(IV) for purposes of a fiscal year 2027 adjustment, the Secretary determines that during the period from April 1, 2024, through March 31, 2026—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the total number of abbreviated new drug applications submitted was greater than or equal to 2,300; or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) thirty-five percent or more of abbreviated new drug applications submitted related to complex products (as so defined).
+
+#### (D) Publication in Federal Register
+
+&emsp;&emsp;The Secretary shall publish in the Federal Register notice referred to in subsection (a) the fee revenue and fees resulting from the adjustment and the methodology under this paragraph.
+
+#### (3) Operating reserve adjustment
+
+#### (A) In general
+
+&emsp;&emsp;For fiscal year 2024 and each subsequent fiscal year, the Secretary may, in addition to adjustments under paragraphs (1) and (2),further increase the fee revenue and fees under this section for such fiscal year if such an adjustment is necessary to provide operating reserves of carryover user fees for human generic drug activities for not more than the number of weeks specified in subparagraph (B) with respect to that fiscal year.
+
+#### (B) Number of weeks
+
+&emsp;&emsp;The number of weeks specified in this subparagraph is—
+
+&emsp;&emsp;&emsp;(i) 8 weeks for fiscal year 2024;
+
+&emsp;&emsp;&emsp;(ii) 9 weeks for fiscal year 2025; and
+
+&emsp;&emsp;&emsp;(iii) 10 weeks for each of fiscal year 2026 and 2027.
+
+#### (C) Decrease
+
+&emsp;&emsp;If the Secretary has carryover balances for human generic drug activities in excess of 12 weeks of the operating reserves referred to in subparagraph (A), the Secretary shall decrease the fee revenue and fees referred to in such subparagraph to provide for not more than 12 weeks of such operating reserves.
+
+#### (D) Rationale for adjustment
+
+&emsp;&emsp;If an adjustment under this paragraph is made, the rationale for the amount of the increase or decrease (as applicable) in fee revenue and fees shall be contained in the annual Federal Register notice under subsection (a) publishing the fee revenue and fees for the fiscal year involved.
 
 #### (d) Annual fee setting
 
-#### (1) Fiscal years 2018 through 2022
+#### (1) Fiscal years 2023 through 2027
 
-&emsp;Not more than 60 days before the first day of each of fiscal years 2018 through 2022, the Secretary shall establish the fees described in paragraphs (2) through (5) of subsection (a), based on the revenue amounts established under subsection (b) and the adjustments provided under subsection (c).
+&emsp;Not later than 60 days before the first day of each of fiscal years 2023 through 2027, the Secretary shall establish the fees described in paragraphs (2) through (5) of subsection (a), based on the revenue amounts established under subsection (b) and the adjustments provided under subsection (c).
 
 #### (2) Fee for active pharmaceutical ingredient information not included by reference to Type II active pharmaceutical ingredient drug master file
 
@@ -252,7 +330,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (2) Leasing and necessary equipment
 
-&emsp;Beginning on October 1, 2023, the authorities under section 379j–41(11)(C) <sup>1</sup> of this title shall include only leasing and necessary scientific equipment.
+&emsp;Beginning on October 1, 2023, the authorities under section 379j–41(12)(C) of this title shall include only leasing and necessary scientific equipment.
 
 #### (f) Identification of facilities
 
@@ -320,7 +398,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;(ii) If such fee is not paid within 20 calendar days of the Secretary providing the notification, the abbreviated new drug application or supplement to an abbreviated new drug application shall not be received within the meaning of section 355(j)(5)(A) of this title.
 
-#### (3) Abbreviated new drug application fee and prior approval supplement fee
+#### (3) Abbreviated new drug application fee
 
 &emsp;Failure to pay a fee under subparagraph (A) or (F) of subsection (a)(3) within 20 calendar days of the applicable due date under subparagraph (C) of such subsection shall result in the abbreviated new drug application or the prior approval supplement to an abbreviated new drug application not being received within the meaning of section 355(j)(5)(A) of this title until such outstanding fee is paid.
 
@@ -348,7 +426,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (ii) Nonreceival
 
-&emsp;&emsp;&emsp;If the facility fee is not paid within 20 calendar days of the Secretary providingthe notification under clause (i), the abbreviated new drug application or supplement to an abbreviated new drug application shall not be received within the meaning of section 355(j)(5)(A) of this title.
+&emsp;&emsp;&emsp;If the facility fee is not paid within 20 calendar days of the Secretary providing the notification under clause (i), the abbreviated new drug application or supplement to an abbreviated new drug application shall not be received within the meaning of section 355(j)(5)(A) of this title.
 
 #### (5) Generic drug applicant program fee
 
@@ -360,7 +438,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(ii) Any abbreviated new drug application submitted by the generic drug applicant or an affiliate of such applicant shall not be received, within the meaning of section 355(j)(5)(A) of this title.
 
-&emsp;&emsp;&emsp;(iii) All drugs marketed pursuant to any abbreviated new drug application held by such applicant or an affiliate of such applicant shall be deemed misbranded under section 352(aa) of this title.
+&emsp;&emsp;&emsp;(iii) All drugs marketed pursuant to any abbreviated new drug application held bysuch applicant or an affiliate of such applicant shall be deemed misbranded under section 352(aa) of this title.
 
 #### (B) Application of penalties
 
@@ -390,11 +468,15 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(i) subject to subparagraph (C), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation for such fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) shall be available for a fiscal year beginning after fiscal year 2012 to defray the costs of human generic drug activities (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such activities), only if the Secretary allocates for such purpose an amount for such fiscal year (excluding amounts from fees collected under this section) no less than $97,000,000 multiplied by the adjustment factor defined in section 379j–41(3) of this title applicable to the fiscal year involved.
+&emsp;&emsp;&emsp;(ii) shall be available—
+
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2023, to defray the costs of human generic drug activities (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such activities), only if the Secretary allocates for such purpose an amount for such fiscal year (excluding amounts from fees collected under this section) no less than $97,000,000 multiplied by the adjustment factor defined in section 379j–41(3) of this title applicable to such fiscal year; and
+
+&emsp;&emsp;&emsp;&emsp;(II) for fiscal year 2024 and each subsequent fiscal year, to defray the costs of human generic drug activities (including such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such activities), only if the sum of the amounts allocated by the Secretary for such costs, excluding costs paid from fees collected under this section, plus other costs for the maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, and other necessary materials and supplies in connection with human generic drug activities, is no less than $97,000,000 multiplied by the adjustment factor defined in section 379j–41(3) of this title applicable to the fiscal year involved.
 
 #### (B) Compliance
 
-&emsp;&emsp;The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated for human generic activities are not more than 10 percent below the level specified in such subparagraph.
+&emsp;&emsp;The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated as described in subclause (I) or (II) of such subparagraph, as applicable, are not more than 10 percent below the level specified in such subparagraph.
 
 #### (C) Provision for early payments
 
@@ -402,7 +484,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (3) Authorization of appropriations
 
-&emsp;For each of the fiscal years 2018 through 2022, there is authorized to be appropriated for fees under this section an amount equivalent to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted under subsection (c), if applicable, or as otherwise affected under paragraph (2) of this subsection.
+&emsp;For each of the fiscal years 2023 through 2027, there is authorized to be appropriated for fees under this section an amount equivalent to the total revenue amount determined under subsection (b) for the fiscal year, as adjusted under subsection (c), if applicable, or as otherwise affected under paragraph (2) of this subsection.
 
 #### (j) Collection of unpaid fees
 
@@ -444,19 +526,57 @@ An abbreviated new drug application that is not considered to be received within
 
 &emsp;The Secretary shall specify in guidance the format and method for submission of lists under this subsection.
 
-(June 25, 1938, ch. 675, §744B, as added Pub. L. 112–144, title III, §302, July 9, 2012, 126 Stat. 1011; amended Pub. L. 112–193, §2(b)(2), (3), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 115–52, title III, §303, title IX, §905(b)(3), Aug. 18, 2017, 131 Stat. 1021, 1090.)
+(June 25, 1938, ch. 675, §744B, as added Pub. L. 112–144, title III, §302, July 9, 2012, 126 Stat. 1011; amended Pub. L. 112–193, §2(b)(2), (3), Oct. 5, 2012, 126 Stat. 1443; Pub. L. 115–52, title III, §303, title IX, §905(b)(3), Aug. 18, 2017, 131 Stat. 1021, 1090; Pub. L. 117–180, div. F, title III, §3002, Sept. 30, 2022, 136 Stat. 2155; Pub. L. 117–328, div. FF, title III, §3625(c), Dec. 29, 2022, 136 Stat. 5881.)
 
 #### Termination of Section
 
-<i>For termination of section by section 305(a) of Pub. L. 115–52, see Effective and Termination Dates note below.</i>
+<i>For termination of section by section 3004(a) of Pub. L. 117–180, see Effective and Termination Dates note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 379j–41(11)(C), referred to in subsec. (e)(2), was redesignated section 379j–41(12)(C) by Pub. L. 115–52, title III, §302(2), Aug. 18, 2017, 131 Stat. 1020.
+Section 3001(b) of the Generic Drug User Fee Amendments of 2022, referred to in subsec. (c)(2)(B)(ii), (C)(ii)(I)(bb), is section 3001(b) of title III of div. F of Pub. L. 117–180, which is set out as a note under section 379j–41 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–180, §3002(a)(1), substituted "2023" for "2018" in introductory provisions.
+
+Subsec. (a)(2)(C). Pub. L. 117–180, §3002(a)(2), substituted "2023 through 2027" for "2018 through 2022".
+
+Subsec. (a)(3)(B). Pub. L. 117–180, §3002(a)(3), substituted "2023 through 2027" for "2018 through 2022".
+
+Subsec. (a)(4)(D). Pub. L. 117–180, §3002(a)(4), substituted "2023 through 2027" for "2018 through 2022" in introductory provisions.
+
+Subsec. (a)(5)(D). Pub. L. 117–180, §3002(a)(5), substituted "2023 through 2027" for "2018 through 2022" in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 117–180, §3002(b)(1)(A), substituted "2023" for "2018" in heading and "2023" for "2018" and "$582,500,000" for "$493,600,000" in text.
+
+Subsec. (b)(1)(B). Pub. L. 117–180, §3002(b)(1)(B), amended subpar. (B) generally. Prior to amendment, text read as follows: "For each of the fiscal years 2019 through 2022, fees under paragraphs (2) through (5) of subsection (a) shall be established to generate a total estimated revenue amount under such subsection that is equal to $493,600,000, as adjusted pursuant to subsection (c)."
+
+Subsec. (b)(2)(C). Pub. L. 117–180, §3002(b)(2)(A), substituted "twenty-four percent" for "one-third the amount".
+
+Subsec. (b)(2)(D). Pub. L. 117–180, §3002(b)(2)(B), substituted "Six percent" for "Seven percent".
+
+Subsec. (b)(2)(E)(i). Pub. L. 117–180, §3002(b)(2)(C), substituted "Thirty-six percent" for "Thirty-five percent".
+
+Subsec. (c)(1). Pub. L. 117–180, §3002(c)(1)(A), in introductory provisions, substituted "2024" for "2019" and "to equal the base revenue amount for the fiscal year (as specified in subsection (b)(1)(B)(ii)) multiplied" for "to equal the product of the total revenues established in such notice for the prior fiscal year multiplied".
+
+Subsec. (c)(1)(C). Pub. L. 117–180, §3002(c)(1)(B), substituted "Washington-Arlington-Alexandria, DC–VA–MD–WV" for "Washington-Baltimore, DC–MD–VA–WV".
+
+Subsec. (c)(2), (3). Pub. L. 117–180, §3002(c)(2), added pars. (2) and (3) and struck out former par. (2) which provided for increases in fees in fiscal year 2022 if needed to provide for not more than 3 months of operating reserves for the first 3 months of fiscal year 2023.
+
+Subsec. (d)(1). Pub. L. 117–180, §3002(d), substituted "2023 through 2027" for "2018 through 2022" in heading and "later than 60 days before the first day of each of fiscal years 2023 through 2027" for "more than 60 days before the first day of each of fiscal years 2018 through 2022" in text.
+
+Subsec. (e)(2). Pub. L. 117–328, §3625(c)(1), substituted "379j–41(12)(C) of this title" for "379j–41(11)(C) of this title".
+
+Subsec. (g)(3). Pub. L. 117–180, §3002(e), struck out "and prior approval supplement fee" after "application fee" in heading.
+
+Subsec. (i)(2)(A)(ii). Pub. L. 117–328, §3625(c)(2)(A), substituted "available—" for "available for a fiscal year beginning after fiscal year 2012", designated remainder of existing provisions as subcl. (I), inserted "for fiscal year 2023," before "to defray the costs", substituted "such fiscal year; and" for "the fiscal year involved.", and added subcl. (II).
+
+Subsec. (i)(2)(B). Pub. L. 117–328, §3625(c)(2)(B), substituted "as described in subclause (I) or (II) of such subparagraph, as applicable," for "for human generic activities".
+
+Subsec. (i)(3). Pub. L. 117–180, §3002(f), substituted "fiscal years 2023 through 2027" for "fiscal years 2018 through 2022".
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–52, §303(a)(1), substituted "fiscal year 2018" for "fiscal year 2013" in introductory provisions.
 
@@ -568,13 +688,17 @@ Subsec. (i)(2)(C). Pub. L. 112–193, §2(b)(3), inserted comma after "September
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–180 effective Oct. 1, 2022, with fees under this subpart to be assessed for all abbreviated new drug applications received on or after Oct. 1, 2022, see section 3005 of Pub. L. 117–180, set out as a note under section 379j–41 of this title.
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 303 of Pub. L. 115–52 effective Oct. 1, 2017, with fees under this subpart to be assessed for all abbreviated new drug applications received on or after Oct. 1, 2017, see section 306 of Pub. L. 115–52, set out as a note under section 379j–41 of this title.
 
 #### Effective and Termination Dates
 
-Section ceases to be effective Oct. 1, 2022, see section 305(a) of Pub. L. 115–52, set out as a note under section 379j–41 of this title.
+Section ceases to be effective Oct. 1, 2027, see section 3004(a) of Pub. L. 117–180, set out as a note under section 379j–41 of this title.
 
 Section effective Oct. 1, 2012, with fees under this section and section 379j–41 of this title to be assessed for all human generic drug submissions and Type II active pharmaceutical drug master files received on or after Oct. 1, 2012, see section 305 of Pub. L. 112–144, set out as a note under section 379j–41 of this title.
 
@@ -591,6 +715,4 @@ Pub. L. 112–193, §2(c), Oct. 5, 2012, 126 Stat. 1443, provided that:
 &emsp;"(B) 30 calendar days after publication of the notice referred to in section 744B(a)(3)(B)(i) of such Act.
 
 "(3) Notwithstanding section 744B(a)(4)(D)(i) of such Act, the fee authorized under section 744B(a)(4) of such Act for fiscal year 2013 shall be due not later than 45 days after the publication of the notice under section 744B(a)(4)(C)(i) of such Act."
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

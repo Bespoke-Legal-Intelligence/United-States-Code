@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 98–616, §403(a), added subsec. (c).
 
 Subsec. (d). Pub. L. 98–616, §404, added subsec. (d).
 
-<b>1980</b>—Pub. L. 96–482, §25, designated existing provisions as subsec. (a), substituted "may present" for "is presenting" and "such handling, storage, treatment,transportation or disposal" for "the alleged disposal" and authorized other action to be taken by the Administrator after notice including issuance of protective orders relating to public health and the environment, and added subsec. (b).
+<b>1980</b>—Pub. L. 96–482, §25, designated existing provisions as subsec. (a), substituted "may present" for "is presenting" and "such handling, storage, treatment, transportation or disposal" for "the alleged disposal" and authorized other action to be taken by the Administrator after notice including issuance of protective orders relating to public health and the environment, and added subsec. (b).
 
 <b>1978</b>—Pub. L. 95–609 struck out "for" after "restrain any person".
 

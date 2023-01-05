@@ -12,7 +12,7 @@ Section 205, act July 1, 1879, ch. 60, 21 Stat. 46, related to entries on odd se
 
 Section 206, act May 6, 1886, ch. 88, 24 Stat. 22, related to patents for additional entries within railway limits.
 
-Section 207, act Aug. 21, 1916, ch. 361, 39 Stat. 518, authorized disposition of all agricultural lands withinmilitary reservations in Nevada under homestead and desert-land laws.
+Section 207, act Aug. 21, 1916, ch. 361, 39 Stat. 518, authorized disposition of all agricultural lands within military reservations in Nevada under homestead and desert-land laws.
 
 Section 208, act June 3, 1924, ch. 240, 43 Stat. 357, authorized acquisition of all unreserved public lands within the Columbia or Moses Reserve in Washington to be acquired under laws applicable to public domain.
 

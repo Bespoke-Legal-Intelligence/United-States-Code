@@ -39,3 +39,4 @@
 - [&sect; 00285ee - Fifth capital increase](%C2%A7%2000285ee%20-%20Fifth%20capital%20increase.md)
 - [&sect; 00285ff - Tenth replenishment](%C2%A7%2000285ff%20-%20Tenth%20replenishment.md)
 - [&sect; 00285gg - Eleventh replenishment](%C2%A7%2000285gg%20-%20Eleventh%20replenishment.md)
+- [&sect; 00285hh - Twelfth replenishment](%C2%A7%2000285hh%20-%20Twelfth%20replenishment.md)

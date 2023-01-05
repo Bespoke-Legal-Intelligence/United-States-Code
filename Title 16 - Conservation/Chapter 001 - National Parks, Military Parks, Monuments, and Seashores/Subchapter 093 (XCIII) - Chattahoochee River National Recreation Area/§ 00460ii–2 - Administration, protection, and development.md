@@ -28,7 +28,7 @@ The Act of August 25, 1916 (39 Stat. 535), referred to in subsec. (a), is act Au
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–154, §2(e)(1), substituted "of this subchapter" for "of this subchapter and chapter 43 of this title".
 
-Subsec. (b). Pub. L. 106–154, §2(c), added subsec. (b) and struck out former subsec. (b) which read as follows: "The Secretary is authorized and encouraged to enter into cooperative agreements with the State or its political subdivisions whereby he may assist in the planning for and interpretation of non-Federal publicly owned lands within or adjacent or related to the recreationarea to assure that such lands are used in a manner consistent with the findings and purposes of this subchapter and chapter 43 of this title."
+Subsec. (b). Pub. L. 106–154, §2(c), added subsec. (b) and struck out former subsec. (b) which read as follows: "The Secretary is authorized and encouraged to enter into cooperative agreements with the State or its political subdivisions whereby he may assist in the planning for and interpretation of non-Federal publicly owned lands within or adjacent or related to the recreation area to assure that such lands are used in a manner consistent with the findings and purposes of this subchapter and chapter 43 of this title."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

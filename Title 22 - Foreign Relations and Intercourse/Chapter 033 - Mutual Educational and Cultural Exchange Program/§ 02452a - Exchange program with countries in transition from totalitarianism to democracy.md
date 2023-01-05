@@ -8,7 +8,7 @@ Pursuant to the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C.
 
 &emsp;&emsp;(A) of or for American citizens and nationals in foreign countries; and
 
-&emsp;&emsp;(B) of or for citizens and nationals of foreign countries in American private businesses, trade associations, unions, chambers of commerce, and local, State, and Federal Government agencies, located in or outside the United States; and
+&emsp;&emsp;(B) of or for citizens and nationals of foreign countries in American private businesses, trade associations, unions, chambersof commerce, and local, State, and Federal Government agencies, located in or outside the United States; and
 
 &emsp;(2) by financing visits and interchanges between the United States and countries in transition from totalitarianism to democracy.
 
@@ -24,7 +24,7 @@ The President is authorized to transfer to the appropriate appropriations accoun
 
 #### References in Text
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (a), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (a), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 #### Codification
 

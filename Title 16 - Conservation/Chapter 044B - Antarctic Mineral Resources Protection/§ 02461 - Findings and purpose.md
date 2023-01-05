@@ -8,11 +8,11 @@ Congress finds that—
 
 &emsp;(2) Antarctica is protected by a series of international agreements, including the Antarctic Treaty and associated recommendations, the Convention on the Conservation of Antarctic Seals, and the Convention on the Conservation of Antarctic Marine Living Resources, which are intended to conserve the renewable natural resources of Antarctica and to recognize the importance of Antarctica for the conduct of scientific research;
 
-&emsp;(3) recurring and recent developments in Antarctica, including increased siting of scientific stations, poor waste disposal practices, oil spills, increased tourism, and the over-exploitation of marine living resources, haveraised serious questions about the adequacy and implementation of existing agreements and domestic law to protect the Antarctic environment and its living marine resources;
+&emsp;(3) recurring and recent developments in Antarctica, including increased siting of scientific stations, poor waste disposal practices, oil spills, increased tourism, and the over-exploitation of marine living resources, have raised serious questions about the adequacy and implementation of existing agreements and domestic law to protect the Antarctic environment and its living marine resources;
 
 &emsp;(4) the parties to the Antarctic Treaty have negotiated a Convention on the Regulation of Antarctic Mineral Resources Activities which the United States has signed but not yet ratified;
 
-&emsp;(5) the Convention on the Regulation of Antarctic Mineral Resources Activities does not guarantee the preservation of the fragile environment of Antarctica and could actually stimulate movement toward Antarctic mineral resource activity;
+&emsp;(5) the Convention on the Regulation of Antarctic Mineral Resources Activities does notguarantee the preservation of the fragile environment of Antarctica and could actually stimulate movement toward Antarctic mineral resource activity;
 
 &emsp;(6) the exploitation of mineral resources in Antarctica could lead to additional degradation of the Antarctic environment, including increased risk of oil spills;
 

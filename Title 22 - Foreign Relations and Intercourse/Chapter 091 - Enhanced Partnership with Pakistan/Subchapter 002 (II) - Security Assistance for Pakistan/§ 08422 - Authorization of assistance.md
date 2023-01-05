@@ -70,7 +70,7 @@ It is the sense of Congress that the United States should facilitate Pakistan's 
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The second section 620J of the Foreign Assistance Act of 1961 (as added by Public Law 110–161), referred to in subsec. (b), which is classified to section 2378d of this title, was renumbered section 620M of the Foreign Assistance Act of 1961 by Pub. L. 112–74, div. I, title VII, §7034(k)(1), Dec. 23, 2011, 125 Stat. 1216.
 

@@ -48,7 +48,7 @@ In general.—Except as otherwise provided in sections 620 to 620j of this title
 
 &emsp;&emsp;&emsp;&emsp;(I) for a geographic area, if the Secretary determines that the risk of the unprocessed timber being exported from the area or used in substitution is low;
 
-&emsp;&emsp;&emsp;&emsp;(II) with respect to unprocessed timber originating from private lands located within an approved sourcing area for a person who certifies that the timber willbe processed at a specific domestic processing facility to the extent that the processing does occur; or
+&emsp;&emsp;&emsp;&emsp;(II) with respect to unprocessed timber originating from private lands located within an approved sourcing area for a person who certifies that the timber will be processed at a specific domestic processing facility to the extent that the processing does occur; or
 
 &emsp;&emsp;&emsp;&emsp;(III) as part of a log yard agreement that is consistent with the purposes of the export and substitution restrictions imposed under sections 620 to 620j of this title.
 
@@ -98,7 +98,7 @@ In general.—Except as otherwise provided in sections 620 to 620j of this title
 
 #### (b) Review
 
-The Secretaries of Agriculture and Interior shall, in consultation, review the definition of unprocessed timber under section 620e(7) of this title for purposes of sections 620 to 620j of this title and, not later than 18 months after August 20, 1990, submit to the Congress any recommendations they have with respect to such definition. Specifically, the Secretaries shall report on the effects of maintaining 2 size standards under section 620e(B)(ii) <sup>1</sup> and (iii) of this title.
+The Secretaries of Agriculture and Interior shall, in consultation, review the definition of unprocessed timber under section 620e(7) of thistitle for purposes of sections 620 to 620j of this title and, not later than 18 months after August 20, 1990, submit to the Congress any recommendations they have with respect to such definition. Specifically, the Secretaries shall report on the effects of maintaining 2 size standards under section 620e(B)(ii) <sup>1</sup> and (iii) of this title.
 
 (Pub. L. 101–382, title IV, §495, Aug. 20, 1990, 104 Stat. 725; Pub. L. 105–83, title VI, §605, Nov. 14, 1997, 111 Stat. 1622.)
 

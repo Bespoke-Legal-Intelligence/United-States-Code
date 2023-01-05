@@ -6,7 +6,7 @@ If, after an examination under section 1446 of this title, an application for na
 
 #### (b) Request for hearing before district court
 
-If there is a failure to make a determination under section 1446 of this title before the end ofthe 120-day period after the date on which the examination is conducted under such section, the applicant may apply to the United States district court for the district in which the applicant resides for a hearing on the matter. Such court has jurisdiction over the matter and may either determine the matter or remand the matter, with appropriate instructions, to the Service to determine the matter.
+If there is a failure to make a determination under section 1446 of this title before the end of the 120-day period after the date on which the examination is conducted under such section, the applicant may apply to the United States district court for the district in which the applicant resides for a hearing on the matter. Such court has jurisdiction over the matter and may either determine the matter or remand the matter, with appropriate instructions, to the Service to determine the matter.
 
 #### (c) Appearance of Attorney General
 
@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 97–116, §15(d)(1), struck out "and the witnesses" after 
 
 Subsec. (c). Pub. L. 97–116, §15(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c) which prescribed a waiting period of thirty days after the filing of a petition for naturalization for the holding of a final hearing and permitted waiver of such period by the Attorney General if he determined that a waiver was in the public interest.
 
-Subsec. (d). Pub. L. 97–116, §15(3), (4), redesignated subsec. (e) as (d) and struck out provision permitting the substitution of witnesses if after the petition is filed any of the verifying witnesses appear to be not competent, provided the petitioner acted in good faith in producing such witness. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 97–116, §15(3), (4), redesignated subsec. (e) as (d) and struck out provision permitting the substitution of witnesses if after the petition isfiled any of the verifying witnesses appear to be not competent, provided the petitioner acted in good faith in producing such witness. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 97–116, §15(d)(4), (5), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 

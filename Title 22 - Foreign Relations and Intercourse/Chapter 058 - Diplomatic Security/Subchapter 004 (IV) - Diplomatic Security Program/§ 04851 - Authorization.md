@@ -58,7 +58,7 @@ Of the amount of funds authorized to be appropriated by subsection (a)(1)(A), $3
 
 #### References in Text
 
-The amendment made by paragraph (2), referred to in subsec. (a)(4), is the amendment made by section 401(a)(2) of Pub. L. 99–399 to section 2349aa–4 of this title.
+The amendment made by paragraph (2), referred to in subsec. (a)(4), is the amendment made by section401(a)(2) of Pub. L. 99–399 to section 2349aa–4 of this title.
 
 H.R. 4151 of the 99th Congress (the Omnibus Diplomatic Security and Antiterrorism Act of 1986), referred to in subsec. (a)(4), as enacted into law, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853. The Joint Explanatory Statement of the Committee of Conference to accompany H.R. 4151 is set forth in H. Rept. No. 99–783, 99th Congress.
 
@@ -70,7 +70,7 @@ Section is comprised of section 401 of Pub. L. 99–399. Subsecs. (a)(2) and (h)
 
 <b>1994</b>—Subsec. (a)(3). Pub. L. 103–236, §101(c), struck out heading and text of par. (3). Text read as follows: "There is authorized to be appropriated for the Department of State for 'Acquisition and Maintenance of Buildings Abroad' for each of the fiscal years 1988 through 1990, $417,962,000 to carry out diplomatic security construction, acquisition, and operations pursuant to the Department of State's Supplemental Diplomatic Security Program. Authorizations of appropriations under this paragraph shall remain available until the appropriations are made."
 
-Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows:"Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
+Subsec. (c). Pub. L. 103–236, §122(b), struck out heading and text of subsec. (c). Text read as follows: "Amounts made available for capital projects pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
 
 Subsec. (h)(3). Pub. L. 103–236, §122(b), struck out heading and text of par. (3). Text read as follows: "Amounts made available for furniture, furnishings, and equipment pursuant to subsection (a) of this section shall be treated as a reprogramming of funds under section 2706 of this title and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogramming."
 

@@ -44,7 +44,7 @@ Regulations.—(1) The Secretary of Defense and the Secretary of Homeland Securi
 
 (e)
 
-Expenses Defined.—In this section, the term "expenses" means expenses for class room instruction, hands-on training (and associated materials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
+Expenses Defined.—In this section, the term "expenses" means expenses for class room instruction, hands-on training (and associatedmaterials), manuals, study guides and materials, text books, processing fees, and test fees and related fees.
 
 (Added Pub. L. 109–163, div. A, title V, §538(a), Jan. 6, 2006, 119 Stat. 3250; amended Pub. L. 113–291, div. A, title V, §551(a), Dec. 19, 2014, 128 Stat. 3376; Pub. L. 114–92, div. A, title V, §559, Nov. 25, 2015, 129 Stat. 827; Pub. L. 114–328, div. A, title V, §561, Dec. 23, 2016, 130 Stat. 2137; Pub. L. 115–232, div. A, title V, §556, Aug. 13, 2018, 132 Stat. 1773.)
 
@@ -226,7 +226,7 @@ Construction of Authorities.—Nothing in this section may be construed to—
 
 &emsp;"(1) authorize an officer or employee of the Federal Government to create, endorse, or otherwise incentivize a particular curriculum or degree track; or
 
-&emsp;"(2) require, direct, review, or control a State or educational institution, or the instructional content,curriculum, and related activities of a State or educational institution."
+&emsp;"(2) require, direct, review, or control a State or educational institution, or the instructional content, curriculum, and related activities of a State or educational institution."
 
 #### Enhancement of Mechanisms To Correlate Skills and Training for Military Occupational Specialties With Skills and Training Required for Civilian Certifications and Licenses
 

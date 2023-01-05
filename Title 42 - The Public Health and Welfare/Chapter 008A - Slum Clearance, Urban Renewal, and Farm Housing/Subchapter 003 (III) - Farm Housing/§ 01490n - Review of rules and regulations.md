@@ -2,7 +2,7 @@
 
 #### (a) Publication for public comment in Federal Register
 
-Notwithstanding any other provision of law, no rule or regulation pursuant to this subchapter may become effective unless it has firstbeen published for public comment in the Federal Register for at least 60 days, and published in final form for at least 30 days.
+Notwithstanding any other provision of law, no rule or regulation pursuant to this subchapter may become effective unless it has first been published for public comment in the Federal Register for at least 60 days, and published in final form for at least 30 days.
 
 #### (b) Transmittal to Congressional committee members prior to publication in Federal Register
 

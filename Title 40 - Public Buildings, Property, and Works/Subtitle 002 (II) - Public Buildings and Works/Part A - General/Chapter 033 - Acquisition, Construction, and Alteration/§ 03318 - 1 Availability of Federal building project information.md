@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Not later than 180 days after the date of enactment of this section, and, at a minimum, on a quarterly basis thereafter, the Administrator shall make publicly available on a subpage of the website of the General Services Administration all prospectuses submitted pursuant to sections 3307 and 3316, and associated information subject to the following requirements:
+In General.—Not later than 180 days after the date of enactment of this section, and, at a minimum, on a quarterly basis thereafter, the Administrator shall make publicly available ona subpage of the website of the General Services Administration all prospectuses submitted pursuant to sections 3307 and 3316, and associated information subject to the following requirements:
 
 &emsp;(1) The Administrator shall maintain such information in an easily accessible and readable, organized, downloadable, and searchable format.
 

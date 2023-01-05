@@ -14,7 +14,7 @@ The Program shall encourage the participating agencies to support foundational, 
 
 &emsp;&emsp;(B) to the extent practicable, involve collaborations among researchers in institutions of higher education and industry, and may involve nonprofit research institutions and Federal laboratories, as appropriate;
 
-&emsp;&emsp;(C) to the extent practicable, leverage Federal investments through collaboration withrelated State and private sector initiatives; and
+&emsp;&emsp;(C) to the extent practicable, leverage Federal investments through collaboration with related State and private sector initiatives; and
 
 &emsp;&emsp;(D) include a plan for fostering the transfer of research discoveries and the results of technology demonstration activities, including from institutions of higher education and Federal laboratories, to industry for commercial development.
 

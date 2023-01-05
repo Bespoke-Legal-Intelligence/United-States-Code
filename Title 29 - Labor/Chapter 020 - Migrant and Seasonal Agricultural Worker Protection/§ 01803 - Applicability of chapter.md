@@ -24,7 +24,7 @@ Other exemptions.—(A) Any common carrier which would be a farm labor contracto
 
 &emsp;(F) Any custom poultry harvesting, breeding, debeaking, desexing, or health service operation provided the employees of the operation are not regularly required to be away from their permanent place of residence other than during their normal working hours.
 
-&emsp;(G)(i) Any person whose principal occupation or business is not agricultural employment, when supplying full-time students or other individuals whose principal occupation is not agricultural employment to detassel, rogue, or otherwise engage in the production of seed and to engage in related and incidental agricultural employment, unless such full-time students or other individuals are required to be away from their permanent place of residence overnight or there are individuals under eighteen years of age who are providing transportation on behalf of such person.
+&emsp;(G)(i) Any person whose principal occupation or business is not agricultural employment,when supplying full-time students or other individuals whose principal occupation is not agricultural employment to detassel, rogue, or otherwise engage in the production of seed and to engage in related and incidental agricultural employment, unless such full-time students or other individuals are required to be away from their permanent place of residence overnight or there are individuals under eighteen years of age who are providing transportation on behalf of such person.
 
 &emsp;(ii) Any person to the extent he is supplied with students or other individuals for agricultural employment in accordance with clause (i) of this subparagraph by a person who is exempt under such clause.
 
@@ -42,7 +42,7 @@ Other exemptions.—(A) Any common carrier which would be a farm labor contracto
 
 #### References in Text
 
-That Act, referred to in subsec. (a)(3)(B), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, known as the Labor Management Relations Act, 1947, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
+That Act, referred to in subsec. (a)(3)(B), is act June 23, 1947, ch. 120, 61 Stat. 136, known as the Labor Management Relations Act, 1947, which is classified principally to chapter 7 (§141 et seq.) of this title. For complete classification of this Act to the Code, see section 141 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

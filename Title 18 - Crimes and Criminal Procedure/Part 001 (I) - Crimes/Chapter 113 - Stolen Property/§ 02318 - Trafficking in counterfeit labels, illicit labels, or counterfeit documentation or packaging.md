@@ -168,7 +168,7 @@ Subsec. (a). Pub. L. 108–482, §102(a)(2), added subsec. (a) and struck out fo
 
 Subsec. (b)(2). Pub. L. 108–482, §102(a)(3)(A), struck out "and" after the semicolon at end.
 
-Subsec. (b)(3). Pub. L. 108–482, §102(a)(3)(B), substituted " 'audiovisual work', 'literary work', 'pictorial, graphic, or sculptural work', 'sound recording', 'workof visual art', and 'copyright owner' have" for "and 'audiovisual work' have" and a semicolon for the period at end.
+Subsec. (b)(3). Pub. L. 108–482, §102(a)(3)(B), substituted " 'audiovisual work', 'literary work', 'pictorial, graphic, or sculptural work', 'sound recording', 'work of visual art', and 'copyright owner' have" for "and 'audiovisual work' have" and a semicolon for the period at end.
 
 Subsec. (b)(4) to (6). Pub. L. 108–482, §102(a)(3)(C), added pars. (4) to (6).
 

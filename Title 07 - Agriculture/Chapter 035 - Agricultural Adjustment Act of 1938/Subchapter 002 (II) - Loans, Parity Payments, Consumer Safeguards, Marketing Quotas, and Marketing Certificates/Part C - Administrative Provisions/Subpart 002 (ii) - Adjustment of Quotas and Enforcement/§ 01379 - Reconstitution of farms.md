@@ -20,7 +20,7 @@ In any case in which the ownership of a tract of land is transferred from a pare
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–357 struck out "(a)" before "In any case", struck out ", but this clause (6) shall not be applicable in the case of burley tobacco" before period at end of par. (6), and struck out subsecs. (b) and (c), which related to combination of tracts in contiguous counties, and to burley tobacco poundage quota when a farm is divided through reconstitution, respectively.
+<b>2004</b>—Pub. L. 108–357 struck out "(a)" before "In any case", struck out ", but this clause (6) shall not be applicable in the case of burley tobacco" before period at end of par. (6), and struck out subsecs. (b) and (c),which related to combination of tracts in contiguous counties, and to burley tobacco poundage quota when a farm is divided through reconstitution, respectively.
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–78 inserted "or flue-cured" after "Burley".
 

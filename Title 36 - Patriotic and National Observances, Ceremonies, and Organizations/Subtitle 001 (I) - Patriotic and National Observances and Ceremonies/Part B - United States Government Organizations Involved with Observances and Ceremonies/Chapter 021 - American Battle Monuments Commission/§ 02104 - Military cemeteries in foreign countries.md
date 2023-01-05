@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 Mar. 4, 1923, ch. 283, §2, as added July 25, 1956, ch. 721, §3(a), 70 Stat. 640.
 
-In this section, before clause (1), the words "so established, if any" are omitted as unnecessary. In clause (1), the words "such time as" are omitted as unnecessary. The words "duties and powers" are substituted for "functions" for consistency in the revised title and with other titles of the United States Code. In clause (2), the words "in nature" are omitted as unnecessary.
+In this section, before clause (1), the words "so established, if any" are omitted as unnecessary. In clause\(1), the words "such time as" are omitted as unnecessary. The words "duties and powers" are substituted for "functions" for consistency in the revised title and with other titles of the United States Code. In clause (2), the words "in nature" are omitted as unnecessary.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

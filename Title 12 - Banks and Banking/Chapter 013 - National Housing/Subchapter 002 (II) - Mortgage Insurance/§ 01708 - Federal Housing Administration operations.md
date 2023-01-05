@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(D) projected versus actual loss rates; and
 
-&emsp;&emsp;(E) updated projections of the annual subsidy rates to ensure that increases in risk to the Fund are identified and mitigated by adjustments to underwriting standards, program participation, or premiums, and the financial soundness of the Fund is maintained.
+&emsp;&emsp;(E) updated projections of the annual subsidy rates to ensure that increases in risk tothe Fund are identified and mitigated by adjustments to underwriting standards, program participation, or premiums, and the financial soundness of the Fund is maintained.
 
 > &emsp;The first quarterly report under this paragraph shall be submitted on the last day of the first quarter of fiscal year 2008, or on the last day of the first full calendar quarter following July 30, 2008, whichever is later.
 
@@ -48,7 +48,7 @@
 
 #### (b) Advisory Board
 
-There is created a Federal Housing Administration Advisory Board ("Board") that shall review operation of the Federal Housing Administration, including the activities of the Mortgagee Review Board, and shall provide advice to the Federal Housing Commissioner with respect to the formulation of general policies of the Federal Housing Administration and such other matters as the Federal Housing Commissioner may deem appropriate. The Advisory Board shall, in all other respects, be subject to the provisions of the Federal Advisory Committee Act.
+There is created a Federal Housing Administration Advisory Board ("Board") that shall review operation of the Federal Housing Administration, including the activities of the Mortgagee Review Board, and shall provide advice to the Federal Housing Commissioner with respect to the formulation of general policies of the Federal Housing Administration and such other matters as the Federal Housing Commissioner may deem appropriate. The Advisory Board shall, in all other respects, be subject to the provisions of chapter 10 of title 5.
 
 &emsp;(1) The Advisory Board shall be composed of 15 members to be appointed from among individuals who have substantial expertise and broad experience in housing and mortgage lending of whom—
 
@@ -84,7 +84,7 @@ There is created a Federal Housing Administration Advisory Board ("Board") that 
 
 &emsp;(9) The Board shall meet in Washington, D.C., not less than twice annually, or more frequently if requested by the Federal Housing Commissioner or a majority of the members. The Board shall elect a chair, vice-chair and secretary and adopt methods of procedure. The Board may establish committees and subcommittees as needed.
 
-&emsp;(10) Subject to the provisions of Section 7 of the Federal Advisory Committee Act, all members of the Board may be compensated and shall be entitled to reimbursement from the Department for traveling expenses incurred in attendance at meetings of the Board.
+&emsp;(10) Subject to the provisions of section 1006 of title 5, all members of the Board may be compensated and shall be entitled to reimbursement from the Department for traveling expenses incurred in attendance at meetings of the Board.
 
 &emsp;(11) The Board shall terminate on January 1, 1995.
 
@@ -152,7 +152,7 @@ There is created a Federal Housing Administration Advisory Board ("Board") that 
 
 #### (4) Notice and hearing
 
-&emsp;(A) The Board shall issue a written notice to the mortgagee at least 30 days prior to taking any action against the mortgagee under subparagraph (B), (C), or (D) of paragraph (3). The notice shall state the specific violations which have been alleged, and shall direct the mortgagee to reply in writing to the Board within 30 days. If the mortgagee fails to reply during such period, the Board may make a determination without considering any comments of the mortgagee.
+&emsp;(A) The Board shall issue a written notice to the mortgagee at least 30 days prior to takingany action against the mortgagee under subparagraph (B), (C), or (D) of paragraph (3). The notice shall state the specific violations which have been alleged, and shall direct the mortgagee to reply in writing to the Board within 30 days. If the mortgagee fails to reply during such period, the Board may make a determination without considering any comments of the mortgagee.
 
 &emsp;(B) If the Board takes action against a mortgagee under subparagraph (B), (C), or (D) of paragraph (3), the Board shall promptly notify the mortgagee in writing of the nature, duration, and specific reasons for the action. If, within 30 days of receiving the notice, the mortgagee requests a hearing, the Board shall hold a hearing on the record regarding the violations within 30 days of receiving the request. If a mortgagee fails to request a hearing within such 30-day period, the right of the mortgagee to a hearing shall be considered waived.
 
@@ -262,7 +262,7 @@ Whenever the Secretary has taken any discretionary action to suspend or revoke t
 
 (1) The Secretary shall prescribe standards for the appraisal of all property to be insured by the Federal Housing Administration. Such appraisals shall be performed in accordance with uniform standards, by individuals who have demonstrated competence and whose professional conduct is subject to effective supervision. These standards shall require at a minimum—
 
-&emsp;(A) that the appraisals of properties to be insured by the Federal Housing Administration shall be performed in accordance with generally accepted appraisal standards, such as the appraisal standards promulgated by theAppraisal Foundation a not-for-profit corporation established on November 30, 1987 under the laws of Illinois; and
+&emsp;(A) that the appraisals of properties to be insured by the Federal Housing Administration shall be performed in accordance with generally accepted appraisal standards, such as the appraisal standards promulgated by the Appraisal Foundation a not-for-profit corporation established on November 30, 1987 under the laws of Illinois; and
 
 &emsp;(B) that each appraisal be a written statement used in connection with a real estate transaction that is independently an <sup>5</sup> impartially prepared by a licensed or certified appraiser setting forth an opinion of defined value of an adequately described property as of a specific date, supported by presentation and analysis of relevant market information.
 
@@ -306,7 +306,7 @@ The Secretary shall, by regulation, require each mortgagee approved by the Secre
 
 &emsp;(2) to maintain copies of all such advertisements and promotional materials, in such form and for such period as the Secretary requires.
 
-(June 27, 1934, ch. 847, title II, §202, 48 Stat. 1248; Feb. 3, 1938, ch. 13, §3, 52 Stat. 10; June 3, 1939, ch. 175, §5, 53 Stat. 805; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 101–235, title I, §142, Dec. 15, 1989, 103 Stat. 2030; Pub. L. 101–625, title III, §322, Nov. 28, 1990, 104 Stat. 4134; Pub. L. 102–550, title V, §§502, 518, 519, Oct. 28, 1992, 106 Stat. 3778, 3792; Pub. L. 105–65, title V, §551, Oct. 27, 1997, 111 Stat. 1412; Pub. L. 106–377, §1(a)(1) \[title II, §209(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–25; Pub. L. 110–289, div. A, title IV, §1404, div. B, title I, §§2116(1), (3), 2118(a), July 30, 2008, 122 Stat. 2810, 2832, 2833; Pub. L. 111–22, div. A, title II, §203(a), (b), May 20, 2009, 123 Stat. 1643; Pub. L. 111–203, title III, §373, July 21, 2010, 124 Stat. 1566.)
+(June 27, 1934, ch. 847, title II, §202, 48 Stat. 1248; Feb. 3, 1938, ch. 13, §3, 52 Stat. 10; June 3, 1939, ch. 175, §5, 53 Stat. 805; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; Pub. L. 90–19, §1(a)(3), May 25, 1967, 81 Stat. 17; Pub. L. 101–235, title I, §142, Dec. 15, 1989, 103 Stat. 2030; Pub. L. 101–625, title III, §322, Nov. 28, 1990, 104 Stat. 4134; Pub. L. 102–550, title V, §§502, 518, 519, Oct. 28, 1992, 106 Stat. 3778, 3792; Pub. L. 105–65, title V, §551, Oct. 27, 1997, 111 Stat. 1412; Pub. L. 106–377, §1(a)(1) \[title II, §209(c)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–25; Pub. L. 110–289, div. A, title IV, §1404, div. B, title I, §§2116(1), (3), 2118(a), July 30, 2008, 122 Stat. 2810, 2832, 2833; Pub. L. 111–22, div. A, title II, §203(a), (b), May 20, 2009, 123 Stat. 1643; Pub. L. 111–203, title III, §373, July 21, 2010, 124 Stat. 1566; Pub. L. 117–286, §4(a)(54), Dec. 27, 2022, 136 Stat. 4311.)
 
 #### <b>Editorial Notes</b>
 
@@ -314,13 +314,11 @@ The Secretary shall, by regulation, require each mortgagee approved by the Secre
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (a)(1), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Section 3537b(c) of title 42, referred to in subsec. (b)(5), was in the original "section 112(c) of the Department of Housing and Urban Development Reform Act of 1989", meaning section 112 of Pub. L. 101–235, which does not contain a subsec. (c), but enacted section 13 of the Department of Housing and Urban Development Act, which was classified to section 3537b of title 42 prior to repeal by Pub. L. 104–65, §11(b)(1), Dec. 19, 1995, 109 Stat. 701, and which contained a subsec. (c) relating to registration with the Secretary.
 
 The Equal Credit Opportunity Act, referred to in subsec. (c)(1), (3)(B), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Fair Housing Act, referred to in subsec. (c)(1), (3)(B), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of thisAct to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (c)(1), (3)(B), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 Executive Order 11063, referred to in subsec. (c)(1), (3)(B), is set out as a note under section 1982 of Title 42.
 
@@ -332,9 +330,13 @@ The S.A.F.E. Mortgage Licensing Act of 2008, referred to in subsec. (d)(2)(F), i
 
 #### Codification
 
-Section 1709(s) of this title, which was transferred and redesignated as subsec. (e) of this section by Pub. L. 110–289, div. B, title I, §2116(3), July 30, 2008, 122 Stat. 2832, was based on act June 27, 1934, ch. 847, title II, §203(s), as added Pub. L. 101–235, title I, §135, Dec. 15, 1989, 103 Stat. 2028; amended Pub. L. 108–386, §8(b), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 110–289, div. B, title I, §2116(2), July 30, 2008, 122 Stat. 2832.
+Section 1709(s) of this title, which was transferred and redesignated as subsec. (e) of this section by Pub.L. 110–289, div. B, title I, §2116(3), July 30, 2008, 122 Stat. 2832, was based on act June 27, 1934, ch. 847, title II, §203(s), as added Pub. L. 101–235, title I, §135, Dec. 15, 1989, 103 Stat. 2028; amended Pub. L. 108–386, §8(b), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 110–289, div. B, title I, §2116(2), July 30, 2008, 122 Stat. 2832.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–286, §4(a)(54)(A), substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act." in introductory provisions.
+
+Subsec. (b)(10). Pub. L. 117–286, §4(a)(54)(B), substituted "section 1006 of title 5," for "Section 7 of the Federal Advisory Committee Act,".
 
 <b>2010</b>—Subsec. (f)(5). Pub. L. 111–203, §373(1), added par. (5) and struck out former par. (5) which read as follows: "if the mortgagee is a national bank, or a subsidiary or affiliate of such a bank, the Comptroller of the Currency;".
 

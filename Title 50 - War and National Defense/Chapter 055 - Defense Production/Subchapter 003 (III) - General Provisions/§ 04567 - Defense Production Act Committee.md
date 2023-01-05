@@ -30,7 +30,7 @@ The Chairperson shall appoint one person to coordinate all of the activities of 
 
 The Committee shall issue a report each year by March 31 to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report signed by the Chairperson that contains—
 
-&emsp;(1) a description of the contingency planning by each department, agency, or independent establishment of the Federal Government towhich the President has delegated authority under this chapter for events that might require the use of the priorities and allocations authorities;
+&emsp;(1) a description of the contingency planning by each department, agency, or independent establishment of the Federal Government to which the President has delegated authority under this chapter for events that might require the use of the priorities and allocations authorities;
 
 &emsp;(2) recommendations for the effective use of the priorities and allocations authorities in this chapter in a manner consistent with the statement of policy under section 4502(b) of this title;
 
@@ -42,11 +42,11 @@ The Committee shall issue a report each year by March 31 to the Committee on Ban
 
 &emsp;(6) short attestations signed by each member of the Committee stating their concurrence in the report.
 
-#### (e) Federal Advisory Committee Act
+#### (e) Chapter 10 of title 5
 
-The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+The provisions of chapter 10 of title 5 shall not apply to the Committee.
 
-(Sept. 8, 1950, ch. 932, title VII, §722, as added Pub. L. 102–558, title I, §135, Oct. 28, 1992, 106 Stat. 4212; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 111–67, §11, Sept. 30, 2009, 123 Stat. 2019; Pub. L. 113–172, §2, Sept. 26, 2014, 128 Stat. 1896.)
+(Sept. 8, 1950, ch. 932, title VII, §722, as added Pub. L. 102–558, title I, §135, Oct. 28, 1992, 106 Stat. 4212; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 111–67, §11, Sept. 30, 2009, 123 Stat. 2019; Pub. L. 113–172, §2, Sept. 26, 2014, 128 Stat. 1896; Pub. L. 117–286, §4(a)(323), Dec. 27, 2022, 136 Stat. 4341.)
 
 #### Termination of Section
 
@@ -58,17 +58,17 @@ The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not a
 
 This chapter, referred to in subsecs. (a), (b), and (d), was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 
 Section was formerly classified to section 2171 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
 
+<b>2022</b>—Subsec. (e). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "chapter 10 of title 5" for "the Federal Advisory Committee Act (5 U.S.C. App.)" in text.
+
 <b>2014</b>—Subsec. (a). Pub. L. 113–172, §2(1), substituted "coordinate and plan for" for "advise the President" and "the priorities and allocations authorities" for "the authority".
 
-Subsec. (b)(2). Pub. L. 113–172, §2(2), amended par. (2) generally. Prior to amendment, text read as follows: "The President shall designate 1 member of the Committee as the Chairperson of the Committee."
+Subsec. (b)(2). Pub. L. 113–172, §2(2), amended par. (2) generally. Prior to amendment, text read as follows:"The President shall designate 1 member of the Committee as the Chairperson of the Committee."
 
 Subsec. (c). Pub. L. 113–172, §2(3), amended subsec. (c) generally. Prior to amendment, text read as follows:
 

@@ -94,7 +94,7 @@ In applying section 481(c) with respect to any election under this section which
 
 #### (2) Initial opening balance
 
-&emsp;The opening balance of the account described in paragraph (1) for the first taxable year to which the election applies shall be the largest dollar amount of returned merchandise which would have been taken into account under this section for any of the 3 immediately preceding taxable years if this section had applied to such preceding 3 taxable years. This paragraph and paragraph (3) shall be applied by taking into account only amounts attributable to the trade or business for which such account is established.
+&emsp;The opening balance of the account described in paragraph (1) for the first taxableyear to which the election applies shall be the largest dollar amount of returned merchandise which would have been taken into account under this section for any of the 3 immediately preceding taxable years if this section had applied to such preceding 3 taxable years. This paragraph and paragraph (3) shall be applied by taking into account only amounts attributable to the trade or business for which such account is established.
 
 #### (3) Adjustments in suspense account
 

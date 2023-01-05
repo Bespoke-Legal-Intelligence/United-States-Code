@@ -146,7 +146,7 @@ Section 1291(a) of title 50, appendix, referred to in par. (2)(C)(ix), is sectio
 
 #### Amendments
 
-<b>2010</b>—Par. (2)(iv)(II). Pub. L. 111–282 struck out "a member of the United States Secret Service Uniformed Division," before "a member of the United States Park Police".
+<b>2010</b>—Par. (2)(iv)(II). Pub. L. 111–282 struck out "a member of the United States Secret Service UniformedDivision," before "a member of the United States Park Police".
 
 <b>2008</b>—Par. (2)(xi). Pub. L. 110–181 substituted "section 5544 or 5550b" for "section 5544".
 

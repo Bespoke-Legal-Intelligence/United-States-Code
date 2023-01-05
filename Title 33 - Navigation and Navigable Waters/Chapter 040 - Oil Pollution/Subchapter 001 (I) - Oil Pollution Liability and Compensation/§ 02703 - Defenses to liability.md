@@ -132,7 +132,7 @@ Subsection (a) does not apply with respect to a responsible party who fails or r
 
 #### (ii) Real property purchased on or after May 31, 1997
 
-&emsp;&emsp;&emsp;With respect to real property purchased on or after May 31, 1997, until the Secretary promulgates the regulations described in clause (ii), the procedures of the American Society for Testing and Materials, including the document known as"Standard E1527–97", entitled "Standard Practice for Environmental Site Assessment: Phase I Environmental Site Assessment Process", shall satisfy the requirements in subparagraph (A).
+&emsp;&emsp;&emsp;With respect to real property purchased on or after May 31, 1997, until the Secretary promulgates the regulations described in clause (ii), the procedures of the American Society for Testing and Materials, including the document known as "Standard E1527–97", entitled "Standard Practice for Environmental Site Assessment: Phase I Environmental Site Assessment Process", shall satisfy the requirements in subparagraph (A).
 
 #### (E) Site inspection and title search
 
@@ -152,9 +152,9 @@ Subsection (a) does not apply with respect to a responsible party who fails or r
 
 #### References in Text
 
-The Intervention on the High Seas Act, referred to in subsec. (c)(3), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
+The Intervention on the High Seas Act, referred to in subsec. (c)(3), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, which is classified generally to chapter 28 (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 
-This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
 

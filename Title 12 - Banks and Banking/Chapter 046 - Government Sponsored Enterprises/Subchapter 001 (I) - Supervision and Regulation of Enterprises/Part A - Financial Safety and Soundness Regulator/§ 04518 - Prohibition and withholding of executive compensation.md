@@ -28,7 +28,7 @@ In carrying out subsection (a), the Director may not prescribe or set a specific
 
 &emsp;&emsp;(A) whether there is a reasonable basis to believe that the affiliated party has committed any fraudulent act or omission, breach of trust or fiduciary duty, or insider abuse with regard to the regulated entity that has had a material effect on the financial condition of the regulated entity;
 
-&emsp;&emsp;(B) whether there is a reasonable basis to believe that the affiliated party is substantially responsible for the insolvency of theregulated entity, the appointment of a conservator or receiver for the regulated entity, or the troubled condition of the regulated entity (as defined in regulations prescribed by the Director);
+&emsp;&emsp;(B) whether there is a reasonable basis to believe that the affiliated party is substantially responsible for the insolvency of the regulated entity, the appointment of a conservator or receiver for the regulated entity, or the troubled condition of the regulated entity (as defined in regulations prescribed by the Director);
 
 &emsp;&emsp;(C) whether there is a reasonable basis to believe that the affiliated party has materially violated any applicable provision of Federal or State law or regulation that has had a material effect on the financial condition of the regulated entity;
 
@@ -70,7 +70,7 @@ In carrying out subsection (a), the Director may not prescribe or set a specific
 
 #### (B) Certain payments in contemplation of an event
 
-&emsp;&emsp;Any payment which would be a golden parachute payment but for the fact that such payment was made before the date referred to in subparagraph (A)(ii) shall be treated as a golden parachute payment if the payment was made in contemplation of the occurrence of an event described in any subclause of such subparagraph.
+&emsp;&emsp;Any payment which would be a golden parachute payment but for the fact thatsuch payment was made before the date referred to in subparagraph (A)(ii) shall be treated as a golden parachute payment if the payment was made in contemplation of the occurrence of an event described in any subclause of such subparagraph.
 
 #### (C) Certain payments not included
 

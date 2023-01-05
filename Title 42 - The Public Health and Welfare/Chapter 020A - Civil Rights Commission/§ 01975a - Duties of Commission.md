@@ -46,7 +46,7 @@ The Commission may constitute such advisory committees as it deems advisable. Th
 
 #### (1) Power to hold hearings
 
-&emsp;The Commission, or on the authorization of the Commission, any subcommittee of two or more members of the Commission, at least one of whom shall be of each major political party,may, for the purpose of carrying out this chapter, hold such hearings and act at such times and places as the Commission or such authorized subcommittee deems advisable. Each member of the Commission shall have the power to administer oaths and affirmations in connection with the proceedings of the Commission. The holding of a hearing by the Commission or the appointment of a subcommittee to hold a hearing pursuant to this paragraph must be approved by a majority of the Commission, or by a majority of the members present at a meeting when a quorum is present.
+&emsp;The Commission, or on the authorization of the Commission, any subcommittee of two or more members of the Commission, at least one of whom shall be of each major political party, may, for the purpose of carrying out this chapter, hold such hearings and act at such times and places as the Commission or such authorized subcommittee deems advisable. Each member of the Commission shall have the power to administer oaths and affirmations in connection with the proceedings of the Commission. The holding of a hearing by the Commission or the appointment of a subcommittee to hold a hearing pursuant to this paragraph must be approved by a majority of the Commission, or by a majority of the members present at a meeting when a quorum is present.
 
 #### (2) Power to issue subpoenas
 

@@ -70,7 +70,7 @@ In this section:
 
 #### (2) Decision Point
 
-&emsp;The term "Decision Point" means the date on which the executive boards of the International Bank for Reconstruction and Development and the International Monetary Fund review the debt sustainability analysis for a country and determine that the country is eligible for debt relief under the Enhanced HIPC Initiative.
+&emsp;The term "Decision Point" means the date on which the executive boards of the International Bank for Reconstruction and Development and the International Monetary Fundreview the debt sustainability analysis for a country and determine that the country is eligible for debt relief under the Enhanced HIPC Initiative.
 
 #### (3) Enhanced HIPC Initiative
 

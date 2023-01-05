@@ -108,7 +108,7 @@ In this section:
 
 #### (A) Allocation
 
-&emsp;&emsp;Not less than 67 percent of each grant made under paragraph (1) shall be used bythe eligible entity to provide residential care and services (as described in clauses (i) through (iv) of subparagraph (B)) to minor victims of sex trafficking through qualified nongovernmental organizations.
+&emsp;&emsp;Not less than 67 percent of each grant made under paragraph (1) shall be used by the eligible entity to provide residential care and services (as described in clauses (i) through (iv) of subparagraph (B)) to minor victims of sex trafficking through qualified nongovernmental organizations.
 
 #### (B) Authorized activities
 
@@ -156,6 +156,48 @@ In this section:
 
 &emsp;The Assistant Attorney General shall enter into a contract with an academic or non-profit organization that has experience in issues related to sex trafficking of minors and evaluation of grant programs to conduct an annual evaluation of each grant made under this section to determine the impact and effectiveness of programs funded with the grant.
 
+#### (5) Pilot demonstration program
+
+#### (A) Establishment
+
+&emsp;&emsp;The Assistant Attorney General, in consultation with the Assistant Secretary, shall establish a pilot demonstration program, through which community-based organizations in underserved communities, prioritizing rural communities, in the United States may apply for funding to develop, implement, and build replicable treatment models, based on the type of housing unit that the individual being treated lives in, with supportive services and innovative care, treatment, and services.
+
+#### (B) Population to be served
+
+&emsp;&emsp;The program established pursuant to subparagraph (A) shall primarily serve adolescents and youth who—
+
+&emsp;&emsp;&emsp;(i) are transitioning out of foster care;
+
+&emsp;&emsp;&emsp;(ii) struggle with substance use disorder;
+
+&emsp;&emsp;&emsp;(iii) are pregnant or parenting; or
+
+&emsp;&emsp;&emsp;(iv) have experienced foster care involvement or involvement in the child welfare system, child poverty, child abuse or neglect, human trafficking, juvenile justice involvement, gang involvement, or homelessness.
+
+#### (C) Authorized activities
+
+&emsp;&emsp;Funding provided under subparagraph (A) may be used for—
+
+&emsp;&emsp;&emsp;(i) providing residential care, including temporary or long-term placement as appropriate;
+
+&emsp;&emsp;&emsp;(ii) providing 24-hour emergency social services response;
+
+&emsp;&emsp;&emsp;(iii) providing clothing and other daily necessities needed to keep individuals from returning to living on the street;
+
+&emsp;&emsp;&emsp;(iv) case management services;
+
+&emsp;&emsp;&emsp;(v) mental health counseling, including specialized counseling and substance abuse treatment;
+
+&emsp;&emsp;&emsp;(vi) legal services;
+
+&emsp;&emsp;&emsp;(vii) specialized training for social service providers, public sector personnel, and private sector personnel likely to encounter sex trafficking and labor trafficking victims on issues related to the sex trafficking and labor trafficking of minors; and
+
+&emsp;&emsp;&emsp;(viii) outreach and education programs to provide information about deterrence and prevention of sex trafficking and labor trafficking of minors.
+
+#### (D) Funding priority
+
+&emsp;&emsp;The Assistant Attorney General shall give funding priority to community-based programs that provide crisis stabilization, emergency shelter, and addiction treatment for adolescents and transitional age residential programs that have reputable outcomes.
+
 #### (c) Mandatory exclusion
 
 An eligible entity that receives a grant under this section that is found to have utilized grant funds for any unauthorized expenditure or otherwise unallowable cost shall not be eligible for any grant funds awarded under the grant for 2 fiscal years following the year in which the unauthorized expenditure or unallowable cost is reported.
@@ -196,11 +238,11 @@ There are authorized to be appropriated $8,000,000 to the Attorney General for e
 
 Not later than 30 months after March 7, 2013, the Comptroller General of the United States shall submit a report to Congress that contains—
 
-&emsp;(1) an evaluation of the impact of this section in aiding minor victims of sex traffickingin the jurisdiction of the entity receiving the grant; and
+&emsp;(1) an evaluation of the impact of this section in aiding minor victims of sex trafficking in the jurisdiction of the entity receiving the grant; and
 
 &emsp;(2) recommendations, if any, regarding any legislative or administrative action the Comptroller General determines appropriate.
 
-(Pub. L. 109–164, title II, §202, Jan. 10, 2006, 119 Stat. 3569; Pub. L. 110–457, title III, §302(3), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1241(a), Mar. 7, 2013, 127 Stat. 149; Pub. L. 115–393, title III, §301(e)(1)(A), (3), Dec. 21, 2018, 132 Stat. 5272.)
+(Pub. L. 109–164, title II, §202, Jan. 10, 2006, 119 Stat. 3569; Pub. L. 110–457, title III, §302(3), Dec. 23, 2008, 122 Stat. 5087; Pub. L. 113–4, title XII, §1241(a), Mar. 7, 2013, 127 Stat. 149; Pub. L. 115–393, title III, §301(e)(1)(A), (3), Dec. 21, 2018, 132 Stat. 5272; Pub. L. 117–348, title I, §103, Jan. 5, 2023, 136 Stat. 6215.)
 
 #### <b>Editorial Notes</b>
 
@@ -213,6 +255,8 @@ March 7, 2013, referred to in subsec. (j), was in the original "the date of the 
 Section was formerly classified to section 14044a of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (b)(5). Pub. L. 117–348 added par. (5).
 
 <b>2018</b>—Pub. L. 115–393, §301(e)(1)(A), amended section to read as it read on Mar 6, 2017. See 2013 Amendment note below. Prior to amendment, section consisted of subsecs. (a) to (d) relating to grant programs to develop, expand, and strengthen assistance programs for certain persons subject to trafficking.
 

@@ -48,7 +48,7 @@ Subsection (a) shall apply to—
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–9, §2(b), struck out "amounts in consideration for property," after "salaries, wages,", "gross proceeds," after "emoluments, or other", and "gross proceeds," after "setting forth the amount of such".
+<b>2011</b>—Subsec. (a). Pub. L. 112–9, §2(b), struck out "amounts in consideration for property," after "salaries, wages,", "gross proceeds," after "emoluments, orother", and "gross proceeds," after "setting forth the amount of such".
 
 Subsec. (h). Pub. L. 112–9, §3(a), struck out subsec. (h) which related to treatment of rental property expense payments.
 

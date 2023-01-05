@@ -10,7 +10,7 @@ To the extent there exist within the Area as of February 20, 2003, any valid pri
 
 #### (c) Not precedent
 
-The provisions of sections 539m to 539m–12 of this title creating certain rights and interests inthe National Forest System are uniquely suited to resolve the Pueblo's claim and the geographic and societal situation involved, and shall not be construed as precedent for any other situation involving management of the National Forest System.
+The provisions of sections 539m to 539m–12 of this title creating certain rights and interests in the National Forest System are uniquely suited to resolve the Pueblo's claim and the geographic and societal situation involved, and shall not be construed as precedent for any other situation involving management of the National Forest System.
 
 #### (d) Fish and wildlife
 

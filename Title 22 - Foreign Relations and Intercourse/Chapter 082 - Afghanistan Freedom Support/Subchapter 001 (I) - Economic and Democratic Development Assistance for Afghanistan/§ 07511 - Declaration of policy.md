@@ -122,7 +122,7 @@ Emergency Increase in Effective Police Training and Policing Operations.—
 
 &emsp;"(1)
 
-Congressional finding.—Congress finds that police training programs in Afghanistan have achieved far less return on substantial investment todate and require a substantive review and justification of the means and purposes of such assistance, consequent to any provision of additional resources.
+Congressional finding.—Congress finds that police training programs in Afghanistan have achieved far less return on substantial investment to date and require a substantive review and justification of the means and purposes of such assistance, consequent to any provision of additional resources.
 
 &emsp;"(2)
 

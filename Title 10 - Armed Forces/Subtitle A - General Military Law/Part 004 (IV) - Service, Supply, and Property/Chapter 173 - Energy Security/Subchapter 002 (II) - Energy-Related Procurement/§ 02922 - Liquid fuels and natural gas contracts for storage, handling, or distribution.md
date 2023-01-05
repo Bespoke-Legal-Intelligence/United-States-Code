@@ -64,7 +64,7 @@ In 10:2388(c), the title 31 citation is substituted on authority of Pub. L. 97�
 
 Subsecs. (a), (b). Pub. L. 103–160, §825(a)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 
-"(a) The Secretary of a military department may contract for the storage, handling, and distribution of liquid fuels for periods of not more than five years, with options to renew for additional periods of notmore than five years each, but not for more than a total of 20 years.
+"(a) The Secretary of a military department may contract for the storage, handling, and distribution of liquid fuels for periods of not more than five years, with options to renew for additional periods of not more than five years each, but not for more than a total of 20 years.
 
 "(b) This section applies only to facilities that conform to standards prescribed by the Secretary of Defense for protection, including dispersal, and that are in a program approved by the Secretary of Defense for the protection of petroleum facilities."
 

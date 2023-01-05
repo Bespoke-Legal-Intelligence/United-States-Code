@@ -50,7 +50,7 @@
 
 #### (2) Preliminary assessments
 
-&emsp;For the purpose of establishing priorities under paragraph (1), the Secretary may, with respect to services and procedures utilized in preventing, diagnosing, treating, and clinically managing diseases, disorders, and other health conditions, conduct or support assessments of the extent to which—
+&emsp;For the purpose of establishing priorities under paragraph (1), the Secretary may, withrespect to services and procedures utilized in preventing, diagnosing, treating, and clinically managing diseases, disorders, and other health conditions, conduct or support assessments of the extent to which—
 
 &emsp;&emsp;(A) rates of utilization vary among similar populations for particular diseases, disorders, and other health conditions;
 
@@ -92,7 +92,7 @@ In carrying out this section, the Secretary shall develop—
 
 #### (1) In general
 
-&emsp;The Secretary shall provide for the dissemination of the findings of research and theguidelines described in subsection (a), and for the education of providers and others in the application of such research findings and guidelines.
+&emsp;The Secretary shall provide for the dissemination of the findings of research and the guidelines described in subsection (a), and for the education of providers and others in the application of such research findings and guidelines.
 
 #### (2) Cooperative educational activities
 
@@ -134,7 +134,7 @@ The Secretary may conduct or support research with respect to improving methods 
 
 #### (3) Allocations
 
-&emsp;(A) For each fiscal year, of the amounts transferred or otherwise appropriated to carry out this section, the Secretary shall reserve appropriate amounts for each of the purposes specified in clauses (i) through (iv) of subparagraph (B).
+&emsp;(A) For each fiscal year, of the amounts transferred or otherwise appropriated to carry out this section, the Secretary shall reserveappropriate amounts for each of the purposes specified in clauses (i) through (iv) of subparagraph (B).
 
 &emsp;(B) The purposes referred to in subparagraph (A) are—
 

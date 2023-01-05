@@ -18,7 +18,7 @@ The Secretary shall prepare and prescribe a single application form which—
 
 &emsp;&emsp;(B) the institution to maintain a copy of any contract with a financial aid service provider or loan servicer, and provide a copy of any such contract to the Secretary upon request;
 
-&emsp;(4) requires such other information as the Secretary determines will ensure compliance with the requirements of this subchapter with respect to eligibility, accreditation, administrative capability and financial responsibility; and
+&emsp;(4) requires such other information as the Secretary determines will ensure compliancewith the requirements of this subchapter with respect to eligibility, accreditation, administrative capability and financial responsibility; and
 
 &emsp;(5) provides, at the option of the institution, for participation in one or more of the programs under part B or D.
 
@@ -80,7 +80,7 @@ The Secretary is authorized—
 
 (1) Notwithstanding any other provision of law, the Secretary may, to the extent necessary to protect the financial interest of the United States, require—
 
-&emsp;(A) financial guarantees from an institution participating, or seeking to participate, in a program under this subchapter, or from one ormore individuals who the Secretary determines, in accordance with paragraph (2), exercise substantial control over such institution, or both, in an amount determined by the Secretary to be sufficient to satisfy the institution's potential liability to the Federal Government, student assistance recipients, and other program participants for funds under this subchapter; and
+&emsp;(A) financial guarantees from an institution participating, or seeking to participate, in a program under this subchapter, or from one or more individuals who the Secretary determines, in accordance with paragraph (2), exercise substantial control over such institution, or both, in an amount determined by the Secretary to be sufficient to satisfy the institution's potential liability to the Federal Government, student assistance recipients, and other program participants for funds under this subchapter; and
 
 &emsp;(B) the assumption of personal liability, by one or more individuals who exercise substantial control over such institution, as determined by the Secretary in accordance with paragraph (2), for financial losses to the Federal Government, student assistance recipients, and other program participants for funds under this subchapter, and civil and criminal monetary penalties authorized under this subchapter.
 
@@ -134,7 +134,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (1) General rule
 
-&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter of each such institution for a period not to exceed 6 years.
+&emsp;After the expiration of the certification of any institution under the schedule prescribed under this section (as this section was in effect prior to October 7, 1998), or upon request for initial certification from an institution not previously certified, the Secretary may certify the eligibility for the purposes of any program authorized under this subchapter ofeach such institution for a period not to exceed 6 years.
 
 #### (2) Notification
 
@@ -204,7 +204,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 #### (2) Special rule
 
-&emsp;An institution of higher education that conducts a teach-out through the establishmentof an additional location described in paragraph (1) shall be permitted to establish a permanent additional location at a closed institution and shall not be required—
+&emsp;An institution of higher education that conducts a teach-out through the establishment of an additional location described in paragraph (1) shall be permitted to establish a permanent additional location at a closed institution and shall not be required—
 
 &emsp;&emsp;(A) to meet the requirements of sections 1002(b)(1)(E) and 1002(c)(1)(C) of this title for such additional location; or
 

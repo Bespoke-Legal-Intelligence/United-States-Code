@@ -32,7 +32,7 @@ In awarding grants under subsection (a)(1), the Attorney General shall give pref
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2018 through 2022.
+There are authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2023 through 2027.
 
 #### (e) Grant accountability
 
@@ -76,7 +76,7 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 #### (C) Disclosure
 
-&emsp;&emsp;Each nonprofit organization that is awarded a grant under this section and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shalldisclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subparagraph available for public inspection.
+&emsp;&emsp;Each nonprofit organization that is awarded a grant under this section and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subparagraph available for public inspection.
 
 #### (3) Conference expenditures
 
@@ -120,7 +120,7 @@ All grants awarded by the Attorney General under this section shall be subject t
 
 &emsp;&emsp;(B) the reason the Attorney General awarded multiple grants to the same applicant for a similar purpose.
 
-(Pub. L. 103–322, title XXIV, §240001, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 115–141, div. Q, title I, §102(a), Mar. 23, 2018, 132 Stat. 1116.)
+(Pub. L. 103–322, title XXIV, §240001, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 115–141, div. Q, title I, §102(a), Mar. 23, 2018, 132 Stat. 1116; Pub. L. 117–263, div. E, title LIX, §5903(b), Dec. 23, 2022, 136 Stat. 3441.)
 
 #### <b>Editorial Notes</b>
 
@@ -129,6 +129,8 @@ All grants awarded by the Attorney General under this section shall be subject t
 Section was formerly classified to section 14181 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–263 substituted "2023 through 2027" for "2018 through 2022".
 
 <b>2018</b>—Pub. L. 115–141, §102(a)(1), substituted "Americans" for "Alzheimer's Disease Patient" in section catchline.
 

@@ -84,7 +84,7 @@ The Chairman of the Commission and the Secretary shall enter into a memorandum o
 
 #### (1) Licensing requirement
 
-&emsp;Nothing in this section authorizes the Secretary or any person to construct or operate a nuclear reactor for the purpose of demonstrating the suitability for commercial application of the nuclear reactor unless licensed by the Commission in accordance with section 5842 of this title.
+&emsp;Nothing in this section authorizes the Secretary or any person to construct or operate anuclear reactor for the purpose of demonstrating the suitability for commercial application of the nuclear reactor unless licensed by the Commission in accordance with section 5842 of this title.
 
 #### (2) Financial protection
 

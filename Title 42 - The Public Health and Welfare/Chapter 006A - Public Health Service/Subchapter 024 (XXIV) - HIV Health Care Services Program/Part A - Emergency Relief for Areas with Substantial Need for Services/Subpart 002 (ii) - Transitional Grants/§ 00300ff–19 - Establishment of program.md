@@ -58,7 +58,7 @@ For purposes of this section, the term "transitional area" means, subject to sub
 
 &emsp;&emsp;With respect to section 300ff–13(b) of this title as applied for purposes of subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) The Secretary shall combine amounts available pursuant to such subparagraph with amounts available for carrying out section 300ff–13(b) of this title and shall administer the two programs as a single program.
+&emsp;&emsp;&emsp;(i) The Secretary shall combine amounts available pursuant to such subparagraphwith amounts available for carrying out section 300ff–13(b) of this title and shall administer the two programs as a single program.
 
 &emsp;&emsp;&emsp;(ii) In the single program, the Secretary has discretion in allocating amounts between eligible areas under subpart I and transitional areas under this section, subject to the eligibility criteria that apply under such section, and subject to section 300ff–13(b)(2)(C) of this title (relating to priority in making grants).
 

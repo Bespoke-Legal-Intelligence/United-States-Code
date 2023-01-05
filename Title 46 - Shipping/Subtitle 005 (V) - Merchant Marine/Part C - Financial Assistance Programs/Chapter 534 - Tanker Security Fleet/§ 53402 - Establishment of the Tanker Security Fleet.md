@@ -36,7 +36,7 @@ Requirements Regarding Citizenship of Owners, Charterers, and Operators.—
 
 &emsp;(1)
 
-Vessels owned and operated by section 50501 citizens.—A vessel meets the requirements of this paragraph if, during the period of an operating agreement under this chapter that applies to the vessel, the vessel will beowned and operated by one or more persons that are citizens of the United States under section 50501 of this title.
+Vessels owned and operated by section 50501 citizens.—A vessel meets the requirements of this paragraph if, during the period of an operating agreement under this chapter that applies to the vessel, the vessel will be owned and operated by one or more persons that are citizens of the United States under section 50501 of this title.
 
 &emsp;(2)
 
@@ -86,7 +86,7 @@ Vessels owned by documentation citizens and chartered to section 50501 citizens.
 
 (d)
 
-Request by Secretary of Defense.—The Secretary of Defense shall request that the Secretary of Homeland Security issue any waiver under section 501 of this title that the Secretary of Defense determines is necessary for purposes of this chapter.
+Request by Secretary of Defense.—The Secretary of Defense shall request that the Secretary of Homeland Security issue any waiverunder section 501 of this title that the Secretary of Defense determines is necessary for purposes of this chapter.
 
 (e)
 
@@ -104,7 +104,7 @@ Certificate of inspection.—A vessel used to provide oceangoing transportation 
 
 &emsp;(2)
 
-Continued eligibility for certificate.—Subsection (a) shall not apply to any vesselthat has failed to comply with the applicable international agreements and associated guidelines referred to in paragraph (1)(B).
+Continued eligibility for certificate.—Subsection (a) shall not apply to any vessel that has failed to comply with the applicable international agreements and associated guidelines referred to in paragraph (1)(B).
 
 &emsp;(3)
 

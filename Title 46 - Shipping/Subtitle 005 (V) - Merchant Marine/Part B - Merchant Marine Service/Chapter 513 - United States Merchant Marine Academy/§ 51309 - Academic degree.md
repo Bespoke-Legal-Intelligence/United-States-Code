@@ -14,7 +14,7 @@ In general.—The Superintendent of the United States Merchant Marine Academy ma
 
 &emsp;(2)
 
-Effect of physical disqualification.—An individual not allowed to take the examination for a merchant marine officer's license only because of physical disqualification may not be denied a degree for not taking the examination.
+Effect of physical or psychological disqualification.—An individual not able or allowed to take the examination for a merchant marine officer's license solely due to a documented medical or psychological condition shall not be denied a degree for not taking the examination.
 
 (b)
 
@@ -24,7 +24,11 @@ Master's Degree.—The Superintendent of the Academy may confer a master's degre
 
 Graduation Not Entitlement To Hold License.—Graduation from the Academy does not entitle an individual to hold a license authorizing service on a merchant vessel.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1574; Pub. L. 111–84, div. C, title XXXV, §3514, Oct. 28, 2009, 123 Stat. 2724.)
+(d)
+
+Definition of Documented Medical or Psychological Condition.—In this section the term "documented medical or psychological condition" means, with respect to an individual, a physical disqualification or psychological condition, including a mental health condition arising from sexual assault or sexual harassment, for which the individual has been treated or is being treated by a medical or psychological provider.
+
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1574; Pub. L. 111–84, div. C, title XXXV, §3514, Oct. 28, 2009, 123 Stat. 2724; Pub. L. 117–263, div. C, title XXXV, §3511, Dec. 23, 2022, 136 Stat. 3065.)
 
 Historical and Revision Notes
 
@@ -55,6 +59,10 @@ June 29, 1936, ch. 858, title XIII, §1303(b)(8), as added Pub. L. 96–453, §2
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–263, §3511(1), in heading, inserted "or psychological" after "physical", and, in text, inserted "able or" before "allowed" and substituted "solely due to a documented medical or psychological condition shall" for "only because of physical disqualification may".
+
+Subsec. (d). Pub. L. 117–263, §3511(2), added subsec. (d).
 
 <b>2009</b>—Subsec. (b). Pub. L. 111–84 inserted before last sentence "Nonappropriated funds received for this purpose shall be credited to the Maritime Administration's Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purpose of such receipts. The Superintendent shall maintain a separate and detailed accounting of nonappropriated fund receipts and all associated expenses."
 

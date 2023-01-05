@@ -56,10 +56,6 @@
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, §3001; Pub. L. 97–295, §4(95)(A), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 99–576, title VII, §701(61), Oct. 28, 1986, 100 Stat. 3296; Pub. L. 101–508, title VIII, §8053(a), Nov. 5, 1990, 104 Stat. 1388–352; renumbered §5101 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(1), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 108–183, title VII, §708(c)(2), Dec. 16, 2003, 117 Stat. 2674; Pub. L. 112–154, title V, §502(a), Aug. 6, 2012, 126 Stat. 1190; Pub. L. 114–315, title I, §101(a), Dec. 16, 2016, 130 Stat. 1538; Pub. L. 116–315, title II, §§2006(a), 2202(b)(1)(E), Jan. 5, 2021, 134 Stat. 4975, 4985.)
 
-#### Amendment of Subsection (a)(1)(B)(i)
-
-<i>Pub. L. 116–315, title II, §2202(b)(1)(E), (d), Jan. 5, 2021, 134 Stat. 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, subsection (a)(1)(B)(i) of this section is amended by striking "2302" and inserting "2303". See 2021 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### References in Text
@@ -122,7 +118,7 @@ Pub. L. 116–315, title II, §2006(e), Jan. 5, 2021, 134 Stat. 4977, provided t
 
 #### Temporary Halt on Elimination of Medical Examiner Positions in Department of Veterans Affairs
 
-Pub. L. 116–315, title II, §2002(b), Jan. 5, 2021, 134 Stat. 4968, provided that: "The Secretary of Veterans Affairs shall temporarily suspend the efforts of the Secretary in effect on the day before the date of the enactment of this Act \[Jan. 5, 2021\] to eliminate medical examiner positions in the Department of Veterans Affairs until the number of individuals awaiting a medical examination with respect to medical disability of the individuals for benefits under laws administered by the Secretary that are carried out through the Under Secretary for Benefits is equal to or less than the number of such individuals who were awaiting such a medical examination with respect to such purposes on March 1, 2020."
+Pub. L. 116–315, title II, §2002(b), Jan. 5, 2021, 134 Stat. 4968, provided that: "The Secretary of Veterans Affairs shall temporarily suspend the efforts of the Secretaryin effect on the day before the date of the enactment of this Act \[Jan. 5, 2021\] to eliminate medical examiner positions in the Department of Veterans Affairs until the number of individuals awaiting a medical examination with respect to medical disability of the individuals for benefits under laws administered by the Secretary that are carried out through the Under Secretary for Benefits is equal to or less than the number of such individuals who were awaiting such a medical examination with respect to such purposes on March 1, 2020."
 
 #### Initial Form
 
@@ -222,7 +218,7 @@ Pub. L. 115–55, §§3–6, Aug. 23, 2017, 131 Stat. 1116–1127, provided that
 
 "(a)
 
-Plan Required.—Not later than 90 days after the date of the enactment of this Act \[Aug. 23, 2017\], the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress and the Comptroller General of the United States a comprehensive plan for—
+Plan Required.—Not later than 90 days after the date of the enactment of this Act \[Aug. 23, 2017\], the Secretary of Veterans Affairs shall submit to the appropriate committees of Congress and the ComptrollerGeneral of the United States a comprehensive plan for—
 
 &emsp;"(1) the processing of appeals of decisions on legacy claims that the Secretary considers pending;
 
@@ -320,7 +316,7 @@ Review by Comptroller General of the United States.—
 
 &emsp;"(1)
 
-In general.—Not later than 90 days after the Comptroller General of the United States receives the plan required by subsection (a), the Comptroller General shall—
+In general.—Not later than 90 days after the Comptroller General of the United States receivesthe plan required by subsection (a), the Comptroller General shall—
 
 &emsp;&emsp;"(A) assess such plan; and
 
@@ -624,7 +620,7 @@ Termination of Authority.—The Secretary of Veterans Affairs may not carry out 
 
 &emsp;&emsp;"(X) Of the cases that involve higher-level review, the percentage of decisions that are overturned in whole or in part by the higher-level adjudicator, that are upheld by the higher-level adjudicator, and that are returned for correction of an error.
 
-&emsp;&emsp;"(Y) The frequency by which the Secretary readjudicates a claim pursuant to section 5108 of such title, as amended by section 2(i), and the frequency by which readjudication pursuant to section 5108 ofsuch title, as so amended, results in an award of benefits.
+&emsp;&emsp;"(Y) The frequency by which the Secretary readjudicates a claim pursuant to section 5108 of such title, as amended by section 2(i), and the frequency by which readjudication pursuant to section 5108 of such title, as so amended, results in an award of benefits.
 
 &emsp;&emsp;"(Z) In any case in which the Board decides to screen cases for a purpose described in section 7107(d) of such title, as amended by section 2(t)(1)—
 
@@ -858,7 +854,7 @@ Review and Comprehensive Plan.—Not later than one year after the date of the e
 
 &emsp;"(1) conduct a review of the use of information technology in the Veterans Benefits Administration with respect to the processing of claims for compensation and pension benefits; and
 
-&emsp;"(2) develop a comprehensive plan for the use of such technology in processing such claims so as to reduce subjectivity, avoidable remands, and regionaloffice variances in disability ratings for specific disabilities.
+&emsp;"(2) develop a comprehensive plan for the use of such technology in processing such claims so as to reduce subjectivity, avoidable remands, and regional office variances in disability ratings for specific disabilities.
 
 "(b)
 

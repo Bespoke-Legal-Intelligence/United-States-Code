@@ -112,7 +112,7 @@ Sections 3501 through 3511 of this title, referred to in subsec. (c)(2)(H), was,
 
 <b>2021</b>—Pub. L. 116–283, §1847(b)(1)(A), renumbered section 2431a of this title as this section.
 
-Subsec. (c)(2)(B). Pub. L. 116–283, §1847(b)(2), formerly §1847(b)(2)(B), as redesignated and amended by Pub. L. 117–81, §1701(s)(1), substituted "section 4820 of this title" for "section 2440 of this title".
+Subsec. (c)(2)(B). Pub. L. 116–283, §1847(b)(2), formerly §1847(b)(2)(B), as redesignated and amended by Pub. L.117–81, §1701(s)(1), substituted "section 4820 of this title" for "section 2440 of this title".
 
 Subsec. (c)(2)(D). Pub. L. 116–283, §1847(b)(1)(B)(i)(I), substituted "section 4324" for "section 2337".
 
@@ -122,7 +122,7 @@ Subsec. (c)(2)(H). Pub. L. 116–283, §1847(b)(1)(B)(i)(III), substituted "sect
 
 Subsec. (c)(3). Pub. L. 116–283, §1847(b)(2)(A), which directed the transfer of section 2440 of this title to subsec. (c)(3) of this section and substitution of "section 4811" for "section 2501" in text, was repealed by Pub. L. 117–81, §1701(s)(1)(A).
 
-Subsec. (e). Pub. L. 116–283, §1847(b)(1)(C), which directed amendment of subsec. (e) by striking pars. (1) and (2) and redesignating pars. (3) to (10) as (1) to (8), respectively, was executed by striking pars. (1) and (2)and redesignating former pars. (3) to (9) as (1) to (7), respectively, to reflect the probable intent of Congress, as no par. (10) had been enacted. Prior to amendment, pars. (1) and (2) defined "major defense acquisition program" and "major system", respectively.
+Subsec. (e). Pub. L. 116–283, §1847(b)(1)(C), which directed amendment of subsec. (e) by striking pars. (1) and (2) and redesignating pars. (3) to (10) as (1) to (8), respectively, was executed by striking pars. (1) and (2) and redesignating former pars. (3) to (9) as (1) to (7), respectively, to reflect the probable intent of Congress, as no par. (10) had been enacted. Prior to amendment, pars. (1) and (2) defined "major defense acquisition program" and "major system", respectively.
 
 Subsec. (e)(4). Pub. L. 116–283, §1847(b)(1)(B)(ii)(I), substituted "section 4172(e)(7)" for "section 2366(e)(7)".
 

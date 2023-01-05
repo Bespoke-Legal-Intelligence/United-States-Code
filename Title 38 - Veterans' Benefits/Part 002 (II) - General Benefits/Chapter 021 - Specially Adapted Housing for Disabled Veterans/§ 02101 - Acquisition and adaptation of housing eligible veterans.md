@@ -92,7 +92,7 @@ Subsec. (a)(2)(B)(iii) to (v). Pub. L. 116–154, §2(1)(B)(i), inserted "perman
 
 Subsec. (a)(4). Pub. L. 116–154, §3(b), substituted "120 applications" for "30 applications".
 
-Subsec. (b)(2). Pub. L. 116–154, §2(2), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struckout former subpar. (A) which read as follows: "The disability is due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this subparagraph, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less."
+Subsec. (b)(2). Pub. L. 116–154, §2(2), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "The disability is due to blindness in both eyes, having central visual acuity of 20/200 or less in the better eye with the use of a standard correcting lens. For the purposes of this subparagraph, an eye with a limitation in the fields of vision such that the widest diameter of the visual field subtends an angle no greater than 20 degrees shall be considered as having a central visual acuity of 20/200 or less."
 
 <b>2018</b>—Subsec. (a)(4). Pub. L. 115–251 substituted "In any fiscal year, the Secretary" for "(B) In each of fiscal years 2014 through 2018, the Secretary" and struck out subpar. (A) which read as follows: "Except as provided in subparagraph (B), the Secretary's authority to furnish assistance under paragraph (1) to a disabled veteran described in paragraph (2)(A)(ii) shall apply only with respect to applications for such assistance approved by the Secretary on or before September 30, 2018."
 
@@ -372,7 +372,7 @@ Annual report.—The Secretary shall submit to Congress, on an annual basis, a r
 
 &emsp;&emsp;&emsp;"(v) a description of the housing rehabilitation and modification services provided, costs saved, and actions taken under such program;
 
-&emsp;&emsp;&emsp;"(vi) a description of the outreach initiatives implemented by the Secretary to educate the general public and eligible entities about such program;
+&emsp;&emsp;&emsp;"(vi) a description of the outreach initiatives implemented by the Secretary to educate thegeneral public and eligible entities about such program;
 
 &emsp;&emsp;&emsp;"(vii) a description of the outreach initiatives instituted by grant recipients to engage eligible veterans and veteran service organizations in projects utilizing grant funds under such program;
 

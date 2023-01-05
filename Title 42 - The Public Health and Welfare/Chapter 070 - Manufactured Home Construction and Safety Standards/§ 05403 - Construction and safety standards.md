@@ -230,7 +230,7 @@
 
 #### (1) Regulations
 
-&emsp;The Secretary may issue procedural and enforcement regulations and revisions to existing regulations as necessary to implement the provisions of this chapter. The consensus committee may submit to the Secretary proposed procedural and enforcement regulations andrecommendations for the revision of such regulations.
+&emsp;The Secretary may issue procedural and enforcement regulations and revisions to existing regulations as necessary to implement the provisions of this chapter. The consensus committee may submit to the Secretary proposed procedural and enforcement regulations and recommendations for the revision of such regulations.
 
 #### (2) Interpretative bulletins
 
@@ -288,7 +288,7 @@ Each order establishing a Federal manufactured home construction and safety stan
 
 #### (d) Supremacy of Federal standards
 
-Whenever a Federal manufactured home construction and safety standard established under this chapter is in effect, no State or political subdivision of a State shall have any authority either to establish, or to continue in effect, with respect to any manufactured home covered, any standard regarding the construction or safety applicable to the same aspect of performance of such manufactured home which is not identical to the Federal manufactured home construction and safety standard. Federal preemption under this subsection shall be broadly and liberally construed to ensure that disparate State or local requirements or standards do not affect the uniformity and comprehensiveness of the standards promulgated under this section nor the Federal superintendence of the manufactured housing industry as established by this chapter. Subject to section 5404 of this title, there is reserved to each State the right to establish standards for the stabilizing and support systems of manufactured homes sited within that State, and for the foundations on whichmanufactured homes sited within that State are installed, and the right to enforce compliance with such standards, except that such standards shall be consistent with the purposes of this chapter and shall be consistent with the design of the manufacturer.
+Whenever a Federal manufactured home construction and safety standard established under this chapter is in effect, no State or political subdivision of a State shall have any authority either to establish, or to continue in effect, with respect to any manufactured home covered, any standard regarding the construction or safety applicable to the same aspect of performance of such manufactured home which is not identical to the Federal manufactured home construction and safety standard. Federal preemption under this subsection shall be broadly and liberally construed to ensure that disparate State or local requirements or standards do not affect the uniformity and comprehensiveness of the standards promulgated under this section nor the Federal superintendence of the manufactured housing industry as established by this chapter. Subject to section 5404 of this title, there is reserved to each State the right to establish standards for the stabilizing and support systems of manufactured homes sited within that State, and for the foundations on which manufactured homes sited within that State are installed, and the right to enforce compliance with such standards, except that such standards shall be consistent with the purposes of this chapter and shall be consistent with the design of the manufacturer.
 
 #### (e) Considerations in establishing and interpreting standards and regulations
 
@@ -334,7 +334,7 @@ The Secretary shall develop a new standard for hardboard panel siding on manufac
 
 #### References in Text
 
-The National Housing Act, referred to in subsec. (f)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (f)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the National Housing Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 #### Codification
 

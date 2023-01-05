@@ -16,7 +16,7 @@ As used in this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "facility" means a hospital, outpatient department, clinic, radiology practice, or mobile unit, an office of a physician, or other facility as determined by the Secretary, that conducts breast cancer screening or diagnosis through mammography activities. Such term does not include a facility of the Department of Veterans Affairs.
+&emsp;&emsp;The term "facility" means a hospital, outpatient department, clinic, radiology practice, or mobile unit, an office of a physician,or other facility as determined by the Secretary, that conducts breast cancer screening or diagnosis through mammography activities. Such term does not include a facility of the Department of Veterans Affairs.
 
 #### (B) Activities
 
@@ -86,13 +86,13 @@ As used in this section:
 
 &emsp;The Secretary may issue a temporary renewal certificate, for a period of not to exceed 45 days, to a facility seeking reaccreditation if the accreditation body has issued an accreditation extension, for a period of not to exceed 45 days, for any of the following:
 
-&emsp;&emsp;(A) The facility has submitted the required materials to the accreditation body withinthe established time frames for the submission of such materials but the accreditation body is unable to complete the reaccreditation process before the certification expires.
+&emsp;&emsp;(A) The facility has submitted the required materials to the accreditation body within the established time frames for the submission of such materials but the accreditation body is unable to complete the reaccreditation process before the certification expires.
 
 &emsp;&emsp;(B) The facility has acquired additional or replacement equipment, or has had significant personnel changes or other unforeseen situations that have caused the facility to be unable to meet reaccreditation timeframes, but in the opinion of the accreditation body have not compromised the quality of mammography.
 
 #### (3) Limited provisional certificate
 
-&emsp;The Secretary may, upon the request of an accreditation body, issue a limited provisional certificate to an entity to enable the entity to conduct examinations for educational purposes while an onsite visit from an accreditation body is in progress. Such certificate shall be valid only during the time the site visit team from the accreditation body is physically in the facility, and in no case shall be valid for longer than 72 hours. The issuance of a certificate under this paragraph, shall not preclude the entity from qualifying for a provisional certificate under paragraph (4).
+&emsp;The Secretary may, upon the request of an accreditation body, issue a limited provisional certificate to an entity to enable the entity to conduct examinations for educational purposes while an onsite visit from an accreditation body is in progress. Such certificate shall be valid only during the time the site visit team from the accreditation body is physically in the facility, and in no case shall be valid for longer than 72 hours. The issuance ofa certificate under this paragraph, shall not preclude the entity from qualifying for a provisional certificate under paragraph (4).
 
 #### (4) Provisional certificate
 
@@ -260,7 +260,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(II) be certified as qualified to perform radiological procedures by an organization described in paragraph (2)(A); and
 
-&emsp;&emsp;&emsp;(ii) during the 2-year period beginning October 1, 1994, meet training standards for personnel who perform mammography or meet experience requirements which shall at a minimum include 1 year of experience in the performance of mammography; and
+&emsp;&emsp;&emsp;(ii) during the 2-year period beginning October 1, 1994, meet training standardsfor personnel who perform mammography or meet experience requirements which shall at a minimum include 1 year of experience in the performance of mammography; and
 
 &emsp;&emsp;&emsp;(iii) upon the expiration of such 2-year period meet minimum training standards for personnel who perform mammograms;
 
@@ -330,7 +330,7 @@ As used in this section:
 
 &emsp;&emsp;In conducting inspections, the Secretary or State or local agency acting on behalf of the Secretary—
 
-&emsp;&emsp;&emsp;(i) shall have access to all equipment, materials, records, and information thatthe Secretary or State or local agency considers necessary to determine whether the facility is being operated in accordance with this section; and
+&emsp;&emsp;&emsp;(i) shall have access to all equipment, materials, records, and information that the Secretary or State or local agency considers necessary to determine whether the facility is being operated in accordance with this section; and
 
 &emsp;&emsp;&emsp;(ii) may copy, or require the facility to submit to the Secretary or the State or local agency, any of the materials, records, or information.
 
@@ -408,7 +408,7 @@ As used in this section:
 
 #### (4) Procedures
 
-&emsp;The Secretary shall develop and implement procedures with respect to when and how each of the sanctions is to be imposed under paragraphs (1) through (3). Such procedures shall provide for notice to the owner or operator of the facility and a reasonable opportunity for the owner or operator to respond to the proposed sanctions and appropriate procedures for appealing determinations relating to the imposition of sanctions.
+&emsp;The Secretary shall develop and implement procedures with respect to when and how each of the sanctions is to be imposed under paragraphs (1) through (3). Such procedures shall provide for notice to the owner or operator ofthe facility and a reasonable opportunity for the owner or operator to respond to the proposed sanctions and appropriate procedures for appealing determinations relating to the imposition of sanctions.
 
 #### (i) Suspension and revocation
 
@@ -460,7 +460,7 @@ If the Secretary determines that—
 
 #### (1) Petition
 
-&emsp;If the Secretary imposes a sanction on a facility under subsection (h) or suspends or revokes the certificate of a facility under subsection (i), the owner or operator of the facility may, not later than 60 days after the date the action of the Secretary becomes final, file a petition with the United States court of appeals for the circuit in which the facility is situated for judicial review of the action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary. As soon aspracticable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
+&emsp;If the Secretary imposes a sanction on a facility under subsection (h) or suspends or revokes the certificate of a facility under subsection (i), the owner or operator of the facility may, not later than 60 days after the date the action of the Secretary becomes final, file a petition with the United States court of appeals for the circuit in which the facility is situated for judicial review of the action. As soon as practicable after receipt of the petition, the clerk of the court shall transmit a copy of the petition to the Secretary or other officer designated by the Secretary. As soon as practicable after receipt of the copy, the Secretary shall file in the court the record on which the action of the Secretary is based, as provided in section 2112 of title 28.
 
 #### (2) Additional evidence
 
@@ -766,7 +766,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 1013 of Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

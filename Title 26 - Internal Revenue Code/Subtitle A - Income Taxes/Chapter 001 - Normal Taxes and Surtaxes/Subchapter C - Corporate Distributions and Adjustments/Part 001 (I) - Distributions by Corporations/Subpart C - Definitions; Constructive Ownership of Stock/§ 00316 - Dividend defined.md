@@ -90,5 +90,5 @@ Pub. L. 88–272, title II, §225(l), Feb. 26, 1964, 78 Stat. 94, provided that:
 
 #### Effective Date of 1956 Amendment
 
-Act Mar. 13, 1956, ch. 83, §6, 70 Stat. 49, provided that: "The amendments made by this Act \[amending this section and sections 501, 594, 801 to 805, 811 to 813, 816 to818, 821, 822, 832, 841, 842, 843, 891, 1201, 1504, and 4371 of this title\] shall apply only to taxable years beginning after December 31, 1954."
+Act Mar. 13, 1956, ch. 83, §6, 70 Stat. 49, provided that: "The amendments made by this Act \[amending this section and sections 501, 594, 801 to 805, 811 to 813, 816 to 818, 821, 822, 832, 841, 842, 843, 891, 1201, 1504, and 4371 of this title\] shall apply only to taxable years beginning after December 31, 1954."
 

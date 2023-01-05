@@ -32,7 +32,7 @@
 
 <b>2021</b>—Pub. L. 116–283, div. A, title X, §1081(a)(20), Jan. 1, 2021, 134 Stat. 3871, added item 837 and struck out former item 837 "837. Art. 37. Command influence".
 
-<b>2019</b>—Pub. L. 116–92, div. A, title V, §532(b), Dec. 20, 2019, 133 Stat. 1361, in item 837 substituted "Art. 37.Command influence" for "37. Unlawfully influencing action of court".
+<b>2019</b>—Pub. L. 116–92, div. A, title V, §532(b), Dec. 20, 2019, 133 Stat. 1361, in item 837 substituted "Art. 37. Command influence" for "37. Unlawfully influencing action of court".
 
 <b>2017</b>—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, §5541(4). See 2016 Amendment note below.
 

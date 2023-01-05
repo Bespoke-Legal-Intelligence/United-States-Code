@@ -162,6 +162,94 @@ National Disaster Areas.—Before the 180th day following the date of the enactm
 
 Exceptions.—Regulations issued pursuant to subsection (a) shall not be applicable in the case of aircraft overflights involving an emergency or a ligitimate \[sic\] scientific purpose."
 
+#### Dynamic Airspace Pilot Program
+
+Pub. L. 117–263, div. A, title X, §1093, Dec. 23, 2022, 136 Stat. 2812, provided that:
+
+"(a)
+
+Pilot Program.—
+
+&emsp;"(1)
+
+Pilot program required.—Not later than 90 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Administrator of the Federal Aviation Administration, in coordination with the Secretary of Defense, shall establish a pilot program for the purpose of developing, testing, and assessing dynamic scheduling and management of special activity airspace in order to accommodate emerging military testing and training requirements, including—
+
+&emsp;&emsp;"(A) special activity airspace for use by the Department of Defense for emerging military testing and training requirements of infrequent or limited durations; and
+
+&emsp;&emsp;"(B) streamlining the process for the Department of Defense to request the designation of special activity airspace for activities described in subparagraph (A).
+
+&emsp;"(2)
+
+Development, test, and assessment of dynamic airspace.—Under the pilot program established under paragraph (1), the Administrator and the Secretary shall jointly test not less than two use cases concerning temporary or permanent special activity airspace established by the Federal Aviation Administration for use by the Department of Defense that develop, test, and assess—
+
+&emsp;&emsp;"(A) the availability of such airspace on an infrequent or limited duration necessary to accommodate the Department of Defense's emerging military testing and training requirements; and
+
+&emsp;&emsp;"(B) whether the processes for the Department of Defense to request special activity airspace for infrequent or limited duration military testing and training events meet Department of Defense testing and training requirements.
+
+"(b)
+
+Requirements.—The pilot program established by subsection (a) shall not interfere with—
+
+&emsp;"(1) the public's right of transit consistent with national security;
+
+&emsp;"(2) the use of airspace necessary to ensure the safety of aircraft within the National Airspace System;
+
+&emsp;"(3) the use of airspace necessary to ensure the efficient use of the National Airspace System; and
+
+&emsp;"(4) Department of Defense use of special activity airspace that is established through means other than the pilot program established by subsection (a).
+
+"(c)
+
+Report by the Administrator.—
+
+&emsp;"(1)
+
+In general.—Not later than two years after the date of the establishment of the pilot program under subsection (a)(1), the Administrator shall submit to the appropriate committees of Congress a report on the interim findings of the Administrator with respect to the pilot program.
+
+&emsp;"(2)
+
+Elements.—The report submitted under paragraph (1) shall include an analysis of the following:
+
+&emsp;&emsp;"(A) How the pilot program established under subsection (a)(1) affected policies on establishingand scheduling special activity airspace with an emphasis on the impact of allocation and utilization policies to other nonparticipating aviation users of the National Airspace System.
+
+&emsp;&emsp;"(B) Whether the streamlined processes for dynamic scheduling and management of special activity airspace involved in the pilot program established under subsection (a)(1) contributed to—
+
+&emsp;&emsp;&emsp;"(i) the public's right of transit consistent with national security;
+
+&emsp;&emsp;&emsp;"(ii) the use of airspace necessary to ensure the safety of aircraft within the National Airspace System; and
+
+&emsp;&emsp;&emsp;"(iii) the use of airspace necessary to ensure the efficient use of the National Airspace System.
+
+"(d)
+
+Report by the Secretary of Defense.—Not later than two years after the date of the establishment of the pilot program under subsection (a)(1), the Secretary shall submit to the appropriate committees of Congress a report on the interim findings of the Secretary with respect to the pilot program. Such report shall include an analysis of how the pilot program affected military testing and training.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Commerce, Science, and Transportation, the Committee on Armed Services, and the Committee on Appropriations of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives.
+
+&emsp;"(2) The term 'special activity airspace' means the following airspace with defined dimensions within the National Airspace System wherein limitations may be imposed upon aircraft operations:
+
+&emsp;&emsp;"(A) Restricted areas.
+
+&emsp;&emsp;"(B) Military operations areas.
+
+&emsp;&emsp;"(C) Air traffic control assigned airspace.
+
+&emsp;&emsp;"(D) Warning areas.
+
+&emsp;"(3) The term 'use cases' means a compendium of airspace utilization data collected from the development, testing, and assessment conducted under subsection (a)(1), and other test points or metrics as agreed to by the Administrator and the Secretary, within a specific geographic region as determined by the Administrator and Secretary.
+
+"(f)
+
+Duration.—The pilot program under subsection (a)(1) shall continue for not more than three years after the date on which it is established."
+
 #### Deployment of Real-Time Status of Special Use Airspace
 
 Pub. L. 116–283, div. A, title X, §1085, Jan. 1, 2021, 134 Stat. 3877, provided that: "Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], to the maximum extent practicable, the Administrator of the Federal Aviation Administration, in coordination with the Secretary of Defense, shall enable the automated public dissemination of information on the real-time status of the activation or deactivation of military operations areas and restricted areas in a manner that is similar to the manner that temporary flight restrictions are published and disseminated."
@@ -184,7 +272,7 @@ Resiliency Recommendations.—Not later than 180 days after the date of enactmen
 
 #### Air Shows
 
-Pub. L. 115–254, div. B, title V, §512, Oct. 5, 2018, 132 Stat. 3356, provided that: "On an annual basis, the Administrator \[of the Federal Aviation Administration\] shall work with representatives of \[Federal Aviation\] Administration-approved air shows, the general aviation community, and stadiums and other large outdoor events and venues to identify and resolve, to the maximum extent practicable, scheduling conflicts betweenAdministration-approved air shows and large outdoor events and venues where—
+Pub. L. 115–254, div. B, title V, §512, Oct. 5, 2018, 132 Stat. 3356, provided that: "On an annual basis, the Administrator \[of the Federal Aviation Administration\] shall work with representatives of \[Federal Aviation\] Administration-approved air shows, the general aviation community, and stadiums and other large outdoor events and venues to identify and resolve, to the maximum extent practicable, scheduling conflicts between Administration-approved air shows and large outdoor events and venues where—
 
 &emsp;"(1) flight restrictions will be imposed pursuant to section 521 of title V of division F of Public Law 108–199 (118 Stat. 343) \[set out below\]; or
 
@@ -212,7 +300,7 @@ Pub. L. 115–254, div. B, title V, §547, Oct. 5, 2018, 132 Stat. 3377, provide
 
 "(a)
 
-In General.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall establish a pilot program to provide air traffic control services on a preferential basis to aircraft equipped with certain NextGen \[Next Generation Air Transportation System\] avionics that—
+In General.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall establish a pilot program to provide air traffic controlservices on a preferential basis to aircraft equipped with certain NextGen \[Next Generation Air Transportation System\] avionics that—
 
 &emsp;"(1) lasts at least 2 years; and
 
@@ -308,7 +396,7 @@ Redesign.—The Administrator \[of the Federal Aviation Administration\], with a
 
 "(c)
 
-Report.—Not later than December 31, 2000, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on theAdministrator's comprehensive national airspace redesign. The report shall include projected milestones for completion of the redesign and shall also include a date for completion.
+Report.—Not later than December 31, 2000, the Administrator shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Administrator's comprehensive national airspace redesign. The report shall include projected milestones for completion of the redesign and shall also include a date for completion.
 
 "(d)
 

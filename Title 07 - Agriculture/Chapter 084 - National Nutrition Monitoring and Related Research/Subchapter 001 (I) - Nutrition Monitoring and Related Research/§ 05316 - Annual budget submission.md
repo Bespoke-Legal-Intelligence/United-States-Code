@@ -14,7 +14,7 @@ The President, at the same time as the submission of the annual budget to the Co
 
 Nothing in this subchapter is intended to either—
 
-&emsp;(1) authorize the appropriation or require the expenditure of any funds in excess of the amount of funds that would be authorized or expended for the same purposes in the absence of the coordinated program; or
+&emsp;(1) authorize the appropriation or require the expenditure of any funds in excess of the amount of funds that would be authorized orexpended for the same purposes in the absence of the coordinated program; or
 
 &emsp;(2) limit the authority of any of the participating agencies to request and receive funds for such purposes (for use in the coordinated program) under other laws.
 

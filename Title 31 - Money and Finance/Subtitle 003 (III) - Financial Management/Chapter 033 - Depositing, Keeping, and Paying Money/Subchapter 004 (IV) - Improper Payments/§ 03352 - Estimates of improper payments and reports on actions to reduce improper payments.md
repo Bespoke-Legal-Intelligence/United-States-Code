@@ -44,7 +44,7 @@ Scope.—In conducting a review under paragraph (1), the head of each executive 
 
 &emsp;&emsp;&emsp;(vi) the level, experience, and quality of training for personnel responsible for making program eligibility determinations or certifying that payments are accurate;
 
-&emsp;&emsp;&emsp;(vii) significant deficiencies in the audit report of the executive agency or otherrelevant management findings that might hinder accurate payment certification;
+&emsp;&emsp;&emsp;(vii) significant deficiencies in the audit report of the executive agency or other relevant management findings that might hinder accurate payment certification;
 
 &emsp;&emsp;&emsp;(viii) similarities to other programs or activities that have reported improper payment estimates or been deemed susceptible to significant improper payments;
 
@@ -276,7 +276,7 @@ Procedures.—In conducting a recovery audit under this subsection, the head of 
 
 Recovery audit contracts.—With respect to a recovery audit procured by an executive agency by contract—
 
-&emsp;&emsp;&emsp;(i) subject to subparagraph (B)(iii), and except to the extent such actions are outside the authority of the executive agency under section 7103 of title 41, the head of the executive agency may authorize the contractor to—
+&emsp;&emsp;&emsp;(i) subject to subparagraph (B)(iii), and except to the extent such actions are outside the authority of the executive agency under section 7103 of title 41, the head ofthe executive agency may authorize the contractor to—
 
 &emsp;&emsp;&emsp;&emsp;(I) notify entities, including individuals, of potential overpayments made to those entities;
 
@@ -410,7 +410,7 @@ The date of enactment of this section, referred to in subsecs. (g)(1), (h), and 
 
 Section 2(g) of the Improper Payments Elimination and Recovery Act of 2010, referred to in subsec. (h), is section 2(g) of Pub. L. 111–204, July 22, 2010, 124 Stat. 2228, which was formerly set out as a note under section 3321 of this title, prior to repeal by Pub. L. 116–117, §3(a)(2), Mar. 2, 2020, 134 Stat. 133.
 
-This Act, referred to in subsec. (i)(2)(E)(i)(I), probably means Pub. L. 116–117, which enacted this subchapter,amended section 3562 of this title, section 612 of Title 6, Domestic Security, and section 1397ee of Title 42, The Public Health and Welfare, amended provisions set out as a note under 5701 of Title 5, Government Organization and Employees, and repealed provisions set out as notes under sections 3301 and 3321 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 3301 of this title and Tables.
+This Act, referred to in subsec. (i)(2)(E)(i)(I), probably means Pub. L. 116–117, which enacted this subchapter, amended section 3562 of this title, section 612 of Title 6, Domestic Security, and section 1397ee of Title 42, The Public Health and Welfare, amended provisions set out as a note under 5701 of Title 5, Government Organization and Employees, and repealed provisions set out as notes under sections 3301 and 3321 of this title. For complete classification of this Act to the Code, see Short Title of 2020 Amendment note set out under section 3301 of this title and Tables.
 
 The date of enactment of the Improper Payments Elimination and Recovery Act of 2010, referred to subsec. (i)(2)(G), is the date of enactment of Pub. L. 111–204, which was approved July 22, 2010.
 

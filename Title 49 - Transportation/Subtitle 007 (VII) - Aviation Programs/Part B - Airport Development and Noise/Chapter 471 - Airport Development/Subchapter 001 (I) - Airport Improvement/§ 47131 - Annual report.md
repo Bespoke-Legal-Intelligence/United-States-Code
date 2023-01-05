@@ -12,7 +12,7 @@ General Rule.—Not later than June 1 of each year, the Secretary of Transportat
 
 &emsp;(4) the allocation of appropriations; and
 
-&emsp;(5) a detailed statement listing airports that the Secretary believes are not in compliance with grant assurances or other requirements with respect to airport lands and including the circumstances of such noncompliance, thetimelines for corrective action, and the corrective action the Secretary intends to take to bring the airport sponsor into compliance.
+&emsp;(5) a detailed statement listing airports that the Secretary believes are not in compliance with grant assurances or other requirements with respect to airport lands and including the circumstances of such noncompliance, the timelines for corrective action, and the corrective action the Secretary intends to take to bring the airport sponsor into compliance.
 
 (b)
 

@@ -14,7 +14,7 @@ Any procurement, by any procuring agency, which is subject to regulations of the
 
 &emsp;(A) are not reasonably available within a reasonable period of time;
 
-&emsp;(B) fail to meet the performance standards set forth in the applicable specifications or fail to meet the reasonable performance standards of the procuring agencies; or
+&emsp;(B) fail to meet the performance standards set forth in the applicable specifications orfail to meet the reasonable performance standards of the procuring agencies; or
 
 &emsp;(C) are only available at an unreasonable price. Any determination under subparagraph (B) shall be made on the basis of the guidelines of the National Institute of Standards and Technology in any case in which such material is covered by such guidelines.
 
@@ -44,7 +44,7 @@ All Federal agencies that have the responsibility for drafting or reviewing spec
 
 The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, review not less frequently than once every 5 years, and, if appropriate, revise, in consultation with recyclers and manufacturers of products containing recycled content, not later than 2 years after the completion of the initial review after November 15, 2021, and thereafter, as appropriate, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
 
-&emsp;(1) designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in thecase of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1); and
+&emsp;(1) designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1); and
 
 &emsp;(2) set forth recommended practices with respect to the procurement of recovered materials and items containing such materials and with respect to certification by vendors of the percentage of recovered materials used,
 
@@ -138,7 +138,7 @@ Pub. L. 102–393, title VI, §630, Oct. 6, 1990, 106 Stat. 1773, which directed
 
 #### Amendments
 
-<b>2021</b>—Subsec. (e). Pub. L. 117–58, §70402(c)(1), which directed substitution of "review not less frequently than once every 5 years, and, if appropriate, revise, in consultation with recyclers and manufacturers of products containing recycled content, not later than 2 years after the completion of the initial review after November 15, 2021, and thereafter, as appropriate" for "and from time to time, revise" in introductory provisions, was executed by making the substitution for "and from time to time revise" to reflect the probable intent of Congress.
+<b>2021</b>—Subsec. (e). Pub. L. 117–58, §70402(c)(1), which directed substitution of "review not less frequently than once every 5 years, and, if appropriate, revise, in consultation with recyclers and manufacturers of productscontaining recycled content, not later than 2 years after the completion of the initial review after November 15, 2021, and thereafter, as appropriate" for "and from time to time, revise" in introductory provisions, was executed by making the substitution for "and from time to time revise" to reflect the probable intent of Congress.
 
 Subsecs. (j), (k). Pub. L. 117–58, §70402(c)(2), added subsecs. (j) and (k).
 
@@ -170,7 +170,7 @@ Subsec. (c)(2). Pub. L. 96–482, §22(3), substituted "energy or fuels derived 
 
 Subsec. (c)(3). Pub. L. 96–482, §22(4), substituted subpars. (A) and (B) for provision requiring certification of the percentage of the total material utilized for the performance of the contract which is recovered materials.
 
-Subsec. (d). Pub. L. 96–482, §22(5), in par. (1), substituted provision requiring Federal agencies to eliminate from specifications as expeditiously as possible, but in no event later than 5 years after Oct. 21, 1976, any exclusion of recovered materials and any requirement that items be manufactured from virgin materials for provision that Federal agencies in reviewing specifications, ascertain whether those specifications violate prohibitions in par. (2)(A) to (C), with such review undertaken not later than 18 months after Oct. 21, 1976, and in par. (2), substituted provision that Federalagencies act within 1 year from publication of applicable guidelines under subsec. (e) of this section for provision that in drafting or revising specifications after Oct. 21, 1976, any exclusion of recovered materials be eliminated and specifications not require the item to be manufactured from virgin materials.
+Subsec. (d). Pub. L. 96–482, §22(5), in par. (1), substituted provision requiring Federal agencies to eliminate from specifications as expeditiously as possible, but in no event later than 5 years after Oct. 21, 1976, any exclusion of recovered materials and any requirement that items be manufactured from virgin materials for provision that Federal agencies in reviewing specifications, ascertain whether those specifications violate prohibitions in par. (2)(A) to (C), with such review undertaken not later than 18 months after Oct. 21, 1976, and in par. (2), substituted provision that Federal agencies act within 1 year from publication of applicable guidelines under subsec. (e) of this section for provision that in drafting or revising specifications after Oct. 21, 1976, any exclusion of recovered materials be eliminated and specifications not require the item to be manufactured from virgin materials.
 
 Subsec. (e). Pub. L. 96–482, §22(6), designated provision relating to requirements of guidelines as cl. (2) and subpars. (A) and (C), added cl. (1), subpars. (B) and (C), and provision preceding subpar. (A), and struck out provision requiring information on source of supply.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Charges and Specifications.—Charges and specifications against an accused in a military commission under this chapter shall be signed by a person subject to chapter 47 of this title under oath before a commissioned officer of thearmed forces authorized to administer oaths and shall state—
+Charges and Specifications.—Charges and specifications against an accused in a military commission under this chapter shall be signed by a person subject to chapter 47 of this title under oath before a commissioned officer of the armed forces authorized to administer oaths and shall state—
 
 &emsp;(1) that the signer has personal knowledge of, or reason to believe, the matters set forth therein; and
 

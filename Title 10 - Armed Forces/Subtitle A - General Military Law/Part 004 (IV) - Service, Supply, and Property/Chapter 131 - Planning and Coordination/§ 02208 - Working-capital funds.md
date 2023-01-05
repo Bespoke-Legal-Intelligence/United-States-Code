@@ -10,7 +10,7 @@
 
 (c) Working-capital funds shall be charged, when appropriate, with the cost of—
 
-&emsp;(1) supplies that are procured or otherwise acquired, manufactured, repaired, issued, orused, including the cost of the procurement and qualification of technology-enhanced maintenance capabilities that improve either reliability, maintainability, sustainability, or supportability and have, at a minimum, been demonstrated to be functional in an actual system application or operational environment; and
+&emsp;(1) supplies that are procured or otherwise acquired, manufactured, repaired, issued, or used, including the cost of the procurement and qualification of technology-enhanced maintenance capabilities that improve either reliability, maintainability, sustainability, or supportability and have, at a minimum, been demonstrated to be functional in an actual system application or operational environment; and
 
 &emsp;(2) services or work performed;
 
@@ -68,7 +68,9 @@
 
 &emsp;(B) to the extent that the Secretary determines necessary to support a contingency operation.
 
-(3) The total amount of the advance billings rendered or imposed for all working-capital funds of the Department of Defense in a fiscal year may not exceed $1,000,000,000.
+(3)(A) Except as provided in subparagraph (B), the total amount of the advance billings rendered or imposed for all working-capital funds of the Department of Defense in a fiscal year may not exceed $1,000,000,000.
+
+(B) The dollar limitation under subparagraph (A) shall not apply with respect to advance billing for relief efforts following a declaration of a major disaster or emergency under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
 (4) This subsection shall not apply to advance billing for background investigation and related services performed by the Defense Counterintelligence and Security Agency.
 
@@ -126,7 +128,7 @@ Annual Reports and Budget.—The Secretary of Defense, with respect to each work
 
 &emsp;&emsp;(D) The estimated balance of the subaccount at the end of the fiscal year in which the report is submitted.
 
-&emsp;&emsp;(E) A statement of how much of the estimated balance at the end of the fiscal year in which the report is submitted will be needed to pay outlays in the immediately following fiscal year that are in excess of the amount to be credited to the subaccount in the immediately following fiscal year.
+&emsp;&emsp;(E) A statement of how much of the estimated balance at the end of the fiscal year in which the report is submitted will beneeded to pay outlays in the immediately following fiscal year that are in excess of the amount to be credited to the subaccount in the immediately following fiscal year.
 
 (r)
 
@@ -168,9 +170,9 @@ Use for Unspecified Minor Military Construction Projects to Revitalize and Recap
 
 (3) In this subsection, the term "defense industrial base facility" means any Department of Defense depot, arsenal, shipyard, or plant located within the United States.
 
-(4) The authority to use a working capital fund to fund a project under the authority of this subsection expires on September 30, 2023.
+(4) The authority to use a working capital fund to fund a project under the authority of this subsection expires on September 30, 2025.
 
-(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, §1009, Oct. 28, 2004, 118 Stat. 2037; Pub. L. 111–383, div. A, title XIV, §1403, Jan. 7, 2011, 124 Stat. 4410; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(1), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 114–92, div. A, title XIV, §§1421, 1422, Nov. 25, 2015, 129 Stat. 1083, 1084; Pub. L. 115–91, div. A, title II, §212, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title III, §321, title VIII, §809(a), title XIV, §1422, Aug. 13, 2018, 132 Stat. 1718, 1840, 2093; Pub. L. 116–92, div. A, title III, §352, title XVII, §1731(a)(29), Dec. 20, 2019, 133 Stat. 1320, 1813; Pub. L. 116–283, div. A, title III, §366, Jan. 1, 2021, 134 Stat. 3551.)
+(Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 521; amended Pub. L. 97–295, §1(22), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 98–94, title XII, §1204(a), Sept. 24, 1983, 97 Stat. 683; Pub. L. 98–525, title III, §305, Oct. 19, 1984, 98 Stat. 2513; Pub. L. 100–26, §7(d)(2), Apr. 21, 1987, 101 Stat. 280; Pub. L. 101–510, div. A, title VIII, §801, title XIII, §1301(6), Nov. 5, 1990, 104 Stat. 1588, 1668; Pub. L. 102–172, title VIII, §8137, Nov. 26, 1991, 105 Stat. 1212; Pub. L. 102–484, div. A, title III, §374, Oct. 23, 1992, 106 Stat. 2385; Pub. L. 103–160, div. A, title I, §158(b), Nov. 30, 1993, 107 Stat. 1582; Pub. L. 105–85, div. A, title X, §1011(a), (b), Nov. 18, 1997, 111 Stat. 1873; Pub. L. 105–261, div. A, title X, §§1007(e)(1), 1008(a), Oct. 17, 1998, 112 Stat. 2115; Pub. L. 105–262, title VIII, §8146(d)(1), Oct. 17, 1998, 112 Stat. 2340; Pub. L. 106–65, div. A, title III, §§331(a)(1), 332, title X, §1066(a)(16), Oct. 5, 1999, 113 Stat. 566, 567, 771; Pub. L. 106–398, §1 \[\[div. A\], title III, §341(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–64; Pub. L. 108–375, div. A, title X, §1009, Oct. 28, 2004, 118 Stat. 2037; Pub. L. 111–383, div. A, title XIV, §1403, Jan. 7, 2011, 124 Stat. 4410; Pub. L. 112–81, div. B, title XXVIII, §2802(c)(1), Dec. 31, 2011, 125 Stat. 1684; Pub. L. 114–92, div. A, title XIV, §§1421, 1422, Nov. 25, 2015, 129 Stat. 1083, 1084; Pub. L. 115–91, div. A, title II, §212, Dec. 12, 2017, 131 Stat. 1324; Pub. L. 115–232, div. A, title III, §321, title VIII, §809(a), title XIV, §1422, Aug. 13, 2018, 132 Stat. 1718, 1840, 2093; Pub. L. 116–92, div. A, title III, §352, title XVII, §1731(a)(29), Dec. 20, 2019, 133 Stat. 1320, 1813; Pub. L. 116–283, div. A, title III, §366, Jan. 1, 2021, 134 Stat. 3551; Pub. L. 117–263, div. A, title III, §§354, 372, Dec. 23, 2022, 136 Stat. 2534, 2540.)
 
 Historical and Revision Notes<br>1956
 
@@ -250,11 +252,19 @@ The word "hereafter" is omitted as executed.
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (l)(3)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
 #### Prior Provisions
 
 Provisions similar to those in subsecs. (m) to (q) of this section were contained in section 2216a of this title prior to repeal by Pub. L. 105–261, §1008(b).
 
 #### Amendments
+
+<b>2022</b>—Subsec. (l)(3). Pub. L. 117–263, §354, designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B), the total" for "The total", and added subpar. (B).
+
+Subsec. (u)(4). Pub. L. 117–263, §372, substituted "2025" for "2023".
 
 <b>2021</b>—Subsec. (l)(4), (5). Pub. L. 116–283 added par. (4) and redesignated former par. (4) as (5).
 
@@ -334,7 +344,7 @@ Subsec. (k). Pub. L. 101–510, §1301(6), struck out subsec. (k) which read as 
 
 <b>1984</b>—Subsecs. (i) to (k). Pub. L. 98–525 added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
 
-<b>1983</b>—Subsec. (d). Pub. L. 98–94 substituted "In addition, such amounts may be appropriated for the purpose of providing capital for working-capital funds as have been specifically authorized by law" for "If this method does not, in the determination of the Secretaryof Defense, provide adequate amounts of working capital, such amounts as may be necessary may be appropriated for that purpose".
+<b>1983</b>—Subsec. (d). Pub. L. 98–94 substituted "In addition, such amounts may be appropriated for the purpose of providing capital for working-capital funds as have been specifically authorized by law" for "If this method does not, in the determination of the Secretary of Defense, provide adequate amounts of working capital, such amounts as may be necessary may be appropriated for that purpose".
 
 <b>1982</b>—Subsec. (h). Pub. L. 97–295 inserted provision that supplies available in inventories financed by working capital funds established under this section may be sold to contractors for use in performing contracts with the Department of Defense.
 
@@ -351,6 +361,10 @@ Pub. L. 105–261, div. A, title X, §1007(e)(2), Oct. 17, 1998, 112 Stat. 2115,
 #### Effective Date of 1983 Amendment
 
 Pub. L. 98–94, title XII, §1204(b), Sept. 24, 1983, 97 Stat. 683, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to appropriations for fiscal years beginning after September 30, 1984."
+
+#### Advance Billing for Fiscal Year 2022
+
+Pub. L. 117–103, div. C, title VIII, §8117, Mar. 15, 2022, 136 Stat. 203, provided that: "During fiscal year 2022, the monetary limitation imposed by section 2208(l)(3) of title 10, United States Code\[,\] may be exceeded by up to $1,000,000,000."
 
 #### Advance Billing for Fiscal Year 2020
 
@@ -444,7 +458,7 @@ Pub. L. 109–234, title I, §1206, June 15, 2006, 120 Stat. 430, provided in pa
 
 #### Advance Billing for Fiscal Year 2005
 
-Pub. L. 109–13, div. A, title I, §1005, May 11, 2005, 119 Stat. 243, provided that for fiscal year 2005, the limitation under subsec. (l)(3) of this section on the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense ina fiscal year would be applied by substituting "$1,500,000,000" for "$1,000,000,000".
+Pub. L. 109–13, div. A, title I, §1005, May 11, 2005, 119 Stat. 243, provided that for fiscal year 2005, the limitation under subsec. (l)(3) of this section on the total amount of advance billings rendered or imposed for all working capital funds of the Department of Defense in a fiscal year would be applied by substituting "$1,500,000,000" for "$1,000,000,000".
 
 #### Oversight of Defense Business Operations Fund
 

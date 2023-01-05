@@ -10,7 +10,7 @@ Selection of Conveyee.—(1) If more than one utility or entity referred to in s
 
 (2) Notwithstanding paragraph (1), the Secretary concerned may use procedures other than competitive procedures, but only in accordance with subsections (a), (b), (d), and (e) of section 3204 of this title, to select the conveyee of a utility system (or part of a utility system) under subsection (a).
 
-(3) With respect to the solicitation process used in connection with the conveyance of a utility system (or part of a utility system) under subsection (a), the Secretary concernedshall ensure that the process is conducted in a manner consistent with the laws and regulations of the State in which the utility system is located to the extent necessary to ensure that all interested regulated and unregulated utility companies and other interested entities receive an opportunity to acquire and operate the utility system to be conveyed.
+(3) With respect to the solicitation process used in connection with the conveyance of a utility system (or part of a utility system) under subsection (a), the Secretary concerned shall ensure that the process is conducted in a manner consistent with the laws and regulations of the State in which the utility system is located to the extent necessary to ensure that all interested regulated and unregulated utility companies and other interested entities receive an opportunity to acquire and operate the utility system to be conveyed.
 
 (c)
 
@@ -50,7 +50,7 @@ Additional Terms and Conditions.—(1) The Secretary concerned may require such 
 
 (3) The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with energy resilience and cybersecurity requirements and associated metrics provided to the conveyee to ensure that the reliability of the utility system meets mission requirements.
 
-(4) The Secretary of Defense, in consultation with the Secretaries of the military departments, shall include in the installation energy report submitted under section 2925(a) of this title a description of progress in meeting energy resilience metrics for all conveyance contracts entered into pursuant to this section.
+(4) The Secretary of Defense, in consultation with the Secretaries of the military departments, shall include in the installation energy report submitted under section 2925(a) <sup>1</sup> of this title a description of progress in meeting energy resilience metrics for all conveyance contracts entered into pursuant to this section.
 
 (h)
 
@@ -80,7 +80,7 @@ Utility System Defined.—(1) In this section, the term "utility system" means a
 
 (j)
 
-Conveyance of Additional Utility Infrastructure After Conveyance of a UtilitySystem.—(1) Upon conveyance of a utility system, the Secretary of a military department may convey additional utility infrastructure under the jurisdiction of the Secretary on a military installation to a utility or entity to which a utility system for the installation has been conveyed under subsection (a) if the Secretary determines that—
+Conveyance of Additional Utility Infrastructure After Conveyance of a Utility System.—(1) Upon conveyance of a utility system, the Secretary of a military department may convey additional utility infrastructure under the jurisdiction of the Secretary on a military installation to a utility or entity to which a utility system for the installation has been conveyed under subsection (a) if the Secretary determines that—
 
 &emsp;(A) the additional utility infrastructure cannot operate without being a part of the conveyed utility system or operation of the additional utility infrastructure by the utility or entity would be in the best interest of the Government; and
 
@@ -96,9 +96,13 @@ Improvement of Conveyed Utility Systems.—In the case of a utility system that 
 
 Limitation.—This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
 
-(Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15), div. B, title XXVIII, §2813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418; Pub. L. 108–136, div. A, title X, §1031(a)(32), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, §2823(a)–(d), Jan. 6, 2006, 119 Stat. 3514–3516; Pub. L. 110–417, div. B, title XXVIII, §2813, Oct. 14, 2008, 122 Stat. 4728; Pub. L. 111–84, div. B, title XXVIII, §2821, Oct. 28, 2009, 123 Stat. 2664; Pub. L. 112–81, div. A, title X, §1061(21), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 113–66, div. B, title XXVIII, §2813, Dec. 26, 2013, 127 Stat. 1014; Pub. L. 114–92, div. B, title XXVIII, §2813, Nov. 25, 2015, 129 Stat. 1175; Pub. L. 115–91, div. B, title XXVIII, §2834, Dec. 12, 2017, 131 Stat. 1858; Pub. L. 115–232, div. A, title III, §312(e), Aug. 13, 2018, 132 Stat. 1710; Pub. L. 116–92, div. A, title III, §315, Dec. 20, 2019, 133 Stat. 1304; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), div. B, title XXVIII, §§2823(a), 2824, Jan. 1, 2021, 134 Stat. 4294, 4333.)
+(Added Pub. L. 105–85, div. B, title XXVIII, §2812(a), Nov. 18, 1997, 111 Stat. 1992; amended Pub. L. 106–65, div. A, title X, §1067(1), div. B, title XXVIII, §2812, Oct. 5, 1999, 113 Stat. 774, 851; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(15), div. B, title XXVIII, §2813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291, 1654A–418; Pub. L. 108–136, div. A, title X, §1031(a)(32), Nov. 24, 2003, 117 Stat. 1600; Pub. L. 109–163, div. B, title XXVIII, §2823(a)–(d), Jan. 6, 2006, 119 Stat. 3514–3516; Pub.L. 110–417, div. B, title XXVIII, §2813, Oct. 14, 2008, 122 Stat. 4728; Pub. L. 111–84, div. B, title XXVIII, §2821, Oct. 28, 2009, 123 Stat. 2664; Pub. L. 112–81, div. A, title X, §1061(21), Dec. 31, 2011, 125 Stat. 1584; Pub. L. 113–66, div. B, title XXVIII, §2813, Dec. 26, 2013, 127 Stat. 1014; Pub. L. 114–92, div. B, title XXVIII, §2813, Nov. 25, 2015, 129 Stat. 1175; Pub. L. 115–91, div. B, title XXVIII, §2834, Dec. 12, 2017, 131 Stat. 1858; Pub. L. 115–232, div. A, title III, §312(e), Aug. 13, 2018, 132 Stat. 1710; Pub. L. 116–92, div. A, title III, §315, Dec. 20, 2019, 133 Stat. 1304; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), div. B, title XXVIII, §§2823(a), 2824, Jan. 1, 2021, 134 Stat. 4294, 4333.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 2925(a) of this title, referred to in subsec. (g)(4), was struck out, and a new subsec. (a) of section 2925 of this title relating to annual reports on energy performance, resilience, and readiness of Department of Defense was added, by Pub. L. 117–263, div. A, title III, §314(b)(1)(B), Dec. 23, 2022, 136 Stat. 2504.
 
 #### Prior Provisions
 
@@ -134,7 +138,7 @@ Subsec. (j)(1). Pub. L. 114–92, §2813(2), redesignated subpar. (B) as (A) and
 
 Subsec. (d)(2). Pub. L. 112–81, §1061(21)(B), struck out at end "The economic analysis submitted to the congressional defense committees under subsection (a)(2) for the conveyance of the utility system, or part thereof, with regard to which the utility services contract will be entered into by the Secretary concerned shall include the determination required by this paragraph, an explanation of the need for the longer term contract, and a comparison of costs between a 10-year contract and the longer-term contract."
 
-Subsec. (f). Pub. L. 112–81, §1061(21)(C), struck out subsec. (f). Prior to amendment, text read as follows:"Not later than 30 days after the end of each quarter of a fiscal year, the Secretary shall submit to the congressional defense committees a report on the conveyances made under subsection (a) during such fiscal quarter."
+Subsec. (f). Pub. L. 112–81, §1061(21)(C), struck out subsec. (f). Prior to amendment, text read as follows: "Not later than 30 days after the end of each quarter of a fiscal year, the Secretary shall submit to the congressional defense committees a report on the conveyances made under subsection (a) during such fiscal quarter."
 
 Subsec. (h). Pub. L. 112–81, §1061(21)(D), struck out at end "The Secretary concerned shall consider any such contribution in the economic analysis required under subsection (a)(2)."
 
@@ -207,4 +211,6 @@ Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 #### Sense of Congress Regarding Inclusion of Stormwater Systems and Components Within the Meaning of "Wastewater System" Under the Department of Defense Authority for Conveyance of Utility Systems
 
 Pub. L. 114–328, div. B, title XXVIII, §2813, Dec. 23, 2016, 130 Stat. 2717, provided that: "It is the sense of Congress that the reference to a system for the collection or treatment of wastewater in the definition of 'utility system' in section 2688 of title 10, United States Code, which authorizes the Department of Defense to convey utility systems, includes stormwater systems and components."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

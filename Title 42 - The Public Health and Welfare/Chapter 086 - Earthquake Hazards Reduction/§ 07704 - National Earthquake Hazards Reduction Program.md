@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(VI) Coordinating with the Secretary of Agriculture and the Secretary of the Interior on the use of public lands for earthquake monitoring and research stations, and related data collection.
 
-&emsp;&emsp;&emsp;&emsp;(VII) Coordinating with the Secretary of Transportation and the Secretary of Housing and Urban Development on the effects of earthquakes on transportation and housing stocks.
+&emsp;&emsp;&emsp;&emsp;(VII) Coordinating with the Secretary of Transportation and the Secretary ofHousing and Urban Development on the effects of earthquakes on transportation and housing stocks.
 
 #### (iii) Assistance from Secretary of Agriculture and Secretary of the Interior
 
@@ -128,9 +128,9 @@
 
 &emsp;&emsp;Not later than 1 year after October 25, 2004, and at least once every 2 years thereafter, the Advisory Committee shall report to the Director on its findings of the assessment carried out under subparagraph (B) and its recommendations for ways to improve the Program. In developing recommendations, the Committee shall consider the recommendations of the United States Geological Survey Scientific Earthquake Studies Advisory Committee.
 
-#### (D) Federal Advisory Committee Act application
+#### (D) Application of chapter 10 of title 5
 
-&emsp;&emsp;Section 14 of the Federal Advisory Committee Act (5 App. U.S.C. 14) shall not apply to the Advisory Committee.
+&emsp;&emsp;Section 1013 of title 5 shall not apply to the Advisory Committee.
 
 #### (b) Responsibilities of Program agencies
 
@@ -138,7 +138,7 @@
 
 &emsp;The National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director of the Institute shall—
 
-&emsp;&emsp;(A) ensure that the Program includes the necessary steps to promote the implementation of earthquake hazard reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning <sup>5</sup> constructing, evaluating, and retrofitting buildings and lifeline infrastructure;
+&emsp;&emsp;(A) ensure that the Program includes the necessary steps to promote the implementation of earthquake hazard reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning <sup>5</sup>constructing, evaluating, and retrofitting buildings and lifeline infrastructure;
 
 &emsp;&emsp;(B) support the development of performance-based seismic engineering tools, and work with appropriate groups to promote the commercial application of such tools, through earthquake-related building codes, standards, and construction practices;
 
@@ -174,7 +174,7 @@
 
 #### (3) United States Geological Survey
 
-&emsp;The United States Geological Survey shall report on significant domestic and international earthquakes and conduct research and other activities necessary to characterizeand identify earthquake hazards, assess earthquake risks, monitor seismic activity, and improve earthquake forecasts. In carrying out this paragraph, the Director of the United States Geological Survey shall—
+&emsp;The United States Geological Survey shall report on significant domestic and international earthquakes and conduct research and other activities necessary to characterize and identify earthquake hazards, assess earthquake risks, monitor seismic activity, and improve earthquake forecasts. In carrying out this paragraph, the Director of the United States Geological Survey shall—
 
 &emsp;&emsp;(A) conduct a systematic assessment of the seismic risks in each region of the Nation prone to earthquakes, including, where appropriate, the establishment and operation of intensive monitoring projects on hazardous faults, seismic microzonation studies in urban and other developed areas where earthquake risk is determined to be significant, and engineering seismology studies;
 
@@ -270,7 +270,7 @@
 
 &emsp;&emsp;(C) states the portion of its request for appropriations allocated to each element of the Program.
 
-(Pub. L. 95–124, §5, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 96–472, title I, §101, Oct. 19, 1980, 94 Stat. 2257; Pub. L. 99–105, §§5, 6, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §2, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–707, title I, §109(u), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 101–614, §5, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 105–47, §3, Oct. 1, 1997, 111 Stat. 1162; Pub. L. 106–503, title II, §§206, 208, Nov. 13, 2000, 114 Stat. 2307; Pub. L. 108–360, title I, §103, Oct. 25, 2004, 118 Stat. 1669; Pub. L. 115–307, §§2(c)(1)(B), 3(a)–(b)(4)(A), (c)–(f), 8(a)(1), (c), Dec. 11, 2018, 132 Stat. 4409–4413, 4417.)
+(Pub. L. 95–124, §5, Oct. 7, 1977, 91 Stat. 1099; Pub. L. 96–472, title I, §101, Oct. 19, 1980, 94 Stat. 2257; Pub. L. 99–105, §§5, 6, Sept. 30, 1985, 99 Stat. 475; Pub. L. 100–252, §2, Feb. 29, 1988, 102 Stat. 18; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 100–707, title I, §109(u), Nov. 23, 1988, 102 Stat. 4710; Pub. L. 101–614, §5, Nov. 16, 1990, 104 Stat. 3232; Pub. L. 105–47, §3, Oct. 1, 1997, 111 Stat. 1162; Pub. L. 106–503, title II, §§206, 208, Nov. 13, 2000, 114 Stat. 2307; Pub. L. 108–360, title I, §103, Oct. 25, 2004, 118 Stat. 1669; Pub. L. 115–307, §§2(c)(1)(B), 3(a)–(b)(4)(A), (c)–(f), 8(a)(1), (c), Dec. 11, 2018, 132 Stat. 4409–4413, 4417; Pub. L. 117–286, §4(a)(271), Dec. 27, 2022, 136 Stat. 4335.)
 
 #### <b>Editorial Notes</b>
 
@@ -278,11 +278,11 @@
 
 Paragraph (3)(D), referred to in subsec. (a)(4)(A)(i) to (iii), was amended generally by Pub. L. 115–307, §3(b)(3), Dec. 11, 2018, 132 Stat. 4410, and, as so amended, does not contain a cl. (i)(I). For similar provisions after amendment by Pub. L. 115–307, see cl. (ii)(I)(aa) of par. (3)(D).
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (a)(5)(D), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Section 5133 of this title, referred to in subsec. (b)(2)(B)(ii), was in the original "section 203 of the Disaster Relief Act of 1974 (42 U.S.C. 5133(a))", and was translated as if it had been a reference to section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which was formerly known as the Disaster Relief Act of 1974, to reflect the probable intent of Congress. Subsec. (a) of section 5133 of this title defines "small impoverished community".
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(5)(D). Pub. L. 117–286 substituted "Application of chapter 10 of title 5" for "Federal Advisory Committee Act application" in heading and "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act (5 App. U.S.C. 14)" in text.
 
 <b>2018</b>—Pub. L. 115–307, §2(c)(1)(B), substituted "lifeline infrastructure" for "lifelines" wherever appearing.
 
@@ -428,7 +428,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Real-Time Public Availability of Raw Seismological Data
 
-Pub. L. 107–228, div. B, title XVI, §1602, Sept. 30, 2002, 116 Stat. 1460, provided that: "The head of the Air Force Technical Applications Center shall make available to the public, immediately upon receipt or as soon after receipt as is practicable, all raw seismological dataprovided to the United States Government by any international monitoring organization that is directly responsible for seismological monitoring."
+Pub. L. 107–228, div. B, title XVI, §1602, Sept. 30, 2002, 116 Stat. 1460, provided that: "The head of the Air Force Technical Applications Center shall make available to the public, immediately upon receipt or as soon after receipt as is practicable, all raw seismological data provided to the United States Government by any international monitoring organization that is directly responsible for seismological monitoring."
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1116\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: "The United States Government shall, to the maximum extent practicable, make available to the public in real time, or as quickly as possible, all raw seismological data provided to the United States Government by any international organization that is directly responsible for seismological monitoring."
 
@@ -462,7 +462,7 @@ In general.—The Director shall conduct a program to develop a prototype real-t
 
 &emsp;"(3)
 
-Upgrade of seismic sensors.—In carrying out a program under paragraph (2), in order to increase the accuracy and speed of seismic event analysis to provide for timely warning signals, the Director shall provide for the upgrading of the network of seismic sensors participating in the prototype to increase the capability of the sensors—
+Upgrade of seismic sensors.—In carrying out a program under paragraph (2), in order to increasethe accuracy and speed of seismic event analysis to provide for timely warning signals, the Director shall provide for the upgrading of the network of seismic sensors participating in the prototype to increase the capability of the sensors—
 
 &emsp;&emsp;"(A) to measure accurately large magnitude seismic events (as determined by the Director); and
 
@@ -618,7 +618,7 @@ Sec. 2. <i>Requirements for Earthquake Safety of New Federal Buildings, Improvem
 
 Sec. 3. <i>Codes, Standards, and Concurrent Requirements</i>. (a) Commencing within 90 days after the date of this order, each agency shall ensure that every new building for which the agency has not started programming is in compliance with the earthquake-resistant design provisions of the 2015 editions of the International Building Code (IBC) or the International Residential Code (IRC), nationally recognized building codes promulgated by the International Code Council (ICC), or equivalent codes, consistent with the provisions of and to the extent required by 40 U.S.C. 3312. When the ICC releases a new version of the IRC or IBC, each agency that constructs buildings shall determine whether the new version is a nationally recognized code for the purposes of 40 U.S.C. 3312(b), as expeditiously as practicable, but not later than 2 years after the release of the new version. If an agency determines that a new version is a nationally recognized code, it shall ensure that any building, for which the agency has not started programming, shall be in compliance with that new version or an equivalent code.
 
-(b) Each agency that owns an existing Federal building shall adopt the <i>Standards of Seismic Safety for Existing Federally Owned and Leased Buildings</i> (Standards), which are developed, issued, and maintained by the Interagency Committee on Seismic Safety in Construction (ICSSC), as the minimum level acceptable for managing the earthquake risks in that building. Anyagency that has not adopted the Standards at the time of this order shall adopt the Standards no later than 90 days from the date of this order. All agencies shall adopt subsequent editions of the Standards as expeditiously as practicable, but no later than 2 years following their issuance.
+(b) Each agency that owns an existing Federal building shall adopt the <i>Standards of Seismic Safety for Existing Federally Owned and Leased Buildings</i> (Standards), which are developed, issued, and maintained by the Interagency Committee on Seismic Safety in Construction (ICSSC), as the minimum level acceptable for managing the earthquake risks in that building. Any agency that has not adopted the Standards at the time of this order shall adopt the Standards no later than 90 days from the date of this order. All agencies shall adopt subsequent editions of the Standards as expeditiously as practicable, but no later than 2 years following their issuance.
 
 (c) Each agency that leases space in an existing building shall adopt the Standards as the minimum level acceptable for managing the earthquake risks in that building. This requirement shall apply to existing leases or leases existing at the time of issuance of updated Standards only to the extent appropriate, as determined by the leasing agency. With respect to leases for a building being constructed to accommodate a Federal agency under the authority in 40 U.S.C. 585(a), the leasing agency shall ensure that the building complies with the earthquake-resistant design and construction standards that would apply to a building constructed by the agency pursuant to section 3(a) of this order. With respect to such leases entered into under authority other than 40 U.S.C. 585(a), the leasing agency shall ensure that the building complies with the earthquake-resistant design and construction standards that would apply to a building constructed by the agency pursuant to section 3(a) of this order, to the extent permitted by law.
 

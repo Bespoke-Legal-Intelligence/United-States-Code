@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Whoever invents any new, original and ornamental design for an article ofmanufacture may obtain a patent therefor, subject to the conditions and requirements of this title.
+In General.—Whoever invents any new, original and ornamental design for an article of manufacture may obtain a patent therefor, subject to the conditions and requirements of this title.
 
 (b)
 

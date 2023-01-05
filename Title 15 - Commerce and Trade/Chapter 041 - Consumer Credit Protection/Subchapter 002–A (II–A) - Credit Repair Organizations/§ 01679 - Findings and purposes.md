@@ -28,7 +28,7 @@ A prior title IV of Pub. L. 90–321, May 29, 1968, 82 Stat. 164, as amended by 
 
 #### Effective Date
 
-Pub. L. 90–321, title IV, §413, as added by Pub. L. 104–208, div. A, title II, §2451, Sept. 30, 1996, 110 Stat.3009–462, provided that: "This title \[enacting this subchapter\] shall apply after the end of the 6-month period beginning on the date of the enactment of the Credit Repair Organizations Act \[Sept. 30, 1996\], except with respect to contracts entered into by a credit repair organization before the end of such period."
+Pub. L. 90–321, title IV, §413, as added by Pub. L. 104–208, div. A, title II, §2451, Sept. 30, 1996, 110 Stat. 3009–462, provided that: "This title \[enacting this subchapter\] shall apply after the end of the 6-month period beginning on the date of the enactment of the Credit Repair Organizations Act \[Sept. 30, 1996\], except with respect to contracts entered into by a credit repair organization before the end of such period."
 
 #### Short Title
 

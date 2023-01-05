@@ -78,7 +78,7 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 #### (E) Metals and metal compounds
 
-&emsp;&emsp;In identifying priorities for risk evaluation and conducting risk evaluations of metals and metal compounds, the Administrator shall use the Framework for Metals Risk Assessment of the Office of the Science Advisor, Risk Assessment Forum, and dated March 2007, or a successor document that addresses metals risk assessment and is peer reviewed by the Science Advisory Board.
+&emsp;&emsp;In identifying priorities for risk evaluation and conducting risk evaluations of metals and metal compounds, the Administrator shall use the Framework for Metals Risk Assessment of the Office of the Science Advisor, Risk Assessment Forum, and datedMarch 2007, or a successor document that addresses metals risk assessment and is peer reviewed by the Science Advisory Board.
 
 #### (3) Initiation of risk evaluations; designations
 
@@ -210,13 +210,13 @@ If the Administrator determines in accordance with subsection (b)(4)(A) that the
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administrator shall exempt replacement parts for complex durable goods andcomplex consumer goods that are designed prior to the date of publication in the Federal Register of the rule under subsection (a), unless the Administrator finds that such replacement parts contribute significantly to the risk, identified in a risk evaluation conducted under subsection (b)(4)(A), to the general population or to an identified potentially exposed or susceptible subpopulation.
+&emsp;&emsp;&emsp;The Administrator shall exempt replacement parts for complex durable goods and complex consumer goods that are designed prior to the date of publication in the Federal Register of the rule under subsection (a), unless the Administrator finds that such replacement parts contribute significantly to the risk, identified in a risk evaluation conducted under subsection (b)(4)(A), to the general population or to an identified potentially exposed or susceptible subpopulation.
 
 #### (ii) Definitions
 
 &emsp;&emsp;&emsp;In this subparagraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) the term "complex consumer goods" means electronic or mechanical devices composed of multiple manufactured components, with an intended useful life of 3 or more years, where the product is typically not consumed, destroyed, or discarded after a single use, and the components of which would be impracticable to redesign or replace; and
+&emsp;&emsp;&emsp;&emsp;(I) the term "complex consumer goods" means electronic or mechanicaldevices composed of multiple manufactured components, with an intended useful life of 3 or more years, where the product is typically not consumed, destroyed, or discarded after a single use, and the components of which would be impracticable to redesign or replace; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the term "complex durable goods" means manufactured goods composed of 100 or more manufactured components, with an intended useful life of 5 or more years, where the product is typically not consumed, destroyed, or discarded after a single use.
 
@@ -276,13 +276,13 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 &emsp;(A) prescribe methods for the disposal of polychlorinated biphenyls, and
 
-&emsp;(B) require polychlorinated biphenyls to be marked with clear and adequate warnings, and instructions with respect to their processing,distribution in commerce, use, or disposal or with respect to any combination of such activities.
+&emsp;(B) require polychlorinated biphenyls to be marked with clear and adequate warnings, and instructions with respect to their processing, distribution in commerce, use, or disposal or with respect to any combination of such activities.
 
 > Requirements prescribed by rules under this paragraph shall be consistent with the requirements of paragraphs (2) and (3).
 
 (2)(A) Except as provided under subparagraph (B), effective one year after January 1, 1977, no person may manufacture, process, or distribute in commerce or use any polychlorinated biphenyl in any manner other than in a totally enclosed manner.
 
-(B) The Administrator may by rule authorize the manufacture, processing, distribution in commerce or use (or any combination of such activities) of any polychlorinated biphenyl in a manner other than in a totally enclosed manner if the Administrator finds that such manufacture, processing, distribution in commerce, or use (or combination of such activities) will not present an unreasonable risk of injury to health or the environment.
+(B) The Administrator may by rule authorize the manufacture, processing, distribution in commerce or use (or any combination of suchactivities) of any polychlorinated biphenyl in a manner other than in a totally enclosed manner if the Administrator finds that such manufacture, processing, distribution in commerce, or use (or combination of such activities) will not present an unreasonable risk of injury to health or the environment.
 
 (C) For the purposes of this paragraph, the term "totally enclosed manner" means any manner which will ensure that any exposure of human beings or the environment to a polychlorinated biphenyl will be insignificant as determined by the Administrator by rule.
 
@@ -346,7 +346,7 @@ Variability.—As determined by the Administrator, the compliance dates establis
 
 #### (4) Conditions
 
-&emsp;As part of a rule promulgated under this subsection, the Administrator shall includeconditions, including reasonable recordkeeping, monitoring, and reporting requirements, to the extent that the Administrator determines the conditions are necessary to protect health and the environment while achieving the purposes of the exemption.
+&emsp;As part of a rule promulgated under this subsection, the Administrator shall include conditions, including reasonable recordkeeping, monitoring, and reporting requirements, to the extent that the Administrator determines the conditions are necessary to protect health and the environment while achieving the purposes of the exemption.
 
 #### (h) Chemicals that are persistent, bioaccumulative, and toxic
 

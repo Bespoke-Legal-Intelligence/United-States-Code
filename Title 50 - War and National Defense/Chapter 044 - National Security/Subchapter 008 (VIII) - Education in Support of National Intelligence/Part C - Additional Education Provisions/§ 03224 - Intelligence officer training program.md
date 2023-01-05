@@ -36,7 +36,7 @@ An institution of higher education seeking a grant under this section shall subm
 
 #### (e) Reports
 
-An institution of higher education that receives a grant under this section shall submit tothe Director regular reports regarding the use of such grant, including—
+An institution of higher education that receives a grant under this section shall submit to the Director regular reports regarding the use of such grant, including—
 
 &emsp;(1) a description of the benefits to students who participate in the course of study funded by such grant;
 
@@ -76,13 +76,13 @@ Asian american and native american pacific islander-serving institution.—The t
 
 Study abroad program.—The term "study abroad program" means a program of study that—
 
-&emsp;&emsp;(A) takes places <sup>1</sup> outside the geographical boundaries of the United States;
+&emsp;&emsp;(A) takes place outside the geographical boundaries of the United States;
 
 &emsp;&emsp;(B) focuses on areas of the world that are critical to the national security interests of the United States and are generally underrepresented in study abroad programs at institutions of higher education, including Africa, Asia, Central and Eastern Europe, Eurasia, Latin America, and the Middle East; and
 
 &emsp;&emsp;(C) is a credit or noncredit program.
 
-(July 26, 1947, ch. 343, title X, §1024, as added Pub. L. 111–259, title III, §313(a), Oct. 7, 2010, 124 Stat. 2665; amended Pub. L. 112–18, title III, §304, June 8, 2011, 125 Stat. 226; Pub. L. 113–293, title III, §306, Dec. 19, 2014, 128 Stat. 3997; Pub. L. 114–113, div. M, title VII, §712, Dec. 18, 2015, 129 Stat. 2934.)
+(July 26, 1947, ch. 343, title X, §1024, as added Pub. L. 111–259, title III, §313(a), Oct. 7, 2010, 124 Stat. 2665; amended Pub. L. 112–18, title III, §304, June 8, 2011, 125 Stat. 226; Pub. L. 113–293, title III, §306, Dec. 19, 2014, 128 Stat. 3997; Pub. L. 114–113, div. M, title VII, §712, Dec. 18, 2015, 129 Stat. 2934; Pub. L. 117–263, div. F, title LXVIII, §6824(a)(7), Dec. 23, 2022, 136 Stat. 3615.)
 
 #### <b>Editorial Notes</b>
 
@@ -91,6 +91,8 @@ Study abroad program.—The term "study abroad program" means a program of study
 Section was formerly classified to section 441p of this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g)(7)(A). Pub. L. 117–263 substituted "place" for "places".
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–113, §712(1)(B), substituted "certain minority-serving" for "historically black" in heading.
 
@@ -123,6 +125,4 @@ Pub. L. 108–177, title III, §319, Dec. 13, 2003, 117 Stat. 2614, as amended b
 &emsp;"(3) The Intelligence Community has a significantly lower percentage of women and minorities than the total workforce of the Federal government and the total civilian labor force.
 
 &emsp;"(4) Women and minorities continue to be under-represented in senior grade levels, and in core mission areas, of the intelligence community."
-
-<i><sup>1</sup></i><i> So in original. Probably should be "takes place".</i>
 

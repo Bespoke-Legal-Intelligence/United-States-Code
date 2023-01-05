@@ -28,7 +28,7 @@ Exception for mutual funds, unit investment trusts, employee benefit plans, and 
 
 &emsp;(3)
 
-Authority of supervising ethics office.—The supervising ethics office for the Government Publishing Office under the Ethics in Government Act of 1978 (5 U.S.C. App.) shall have the authority to issue rules and promulgate regulations governing the implementation of this subsection.
+Authority of supervising ethics office.—The supervising ethics office for the Government Publishing Office under the Ethics in Government Act of 1978 (5 U.S.C. App.) <sup>2</sup> shall have the authority to issue rules and promulgate regulations governing the implementation of this subsection.
 
 (c)
 
@@ -54,7 +54,7 @@ The offense described in this section involves no moral turpitude, and therefore
 
 #### References in Text
 
-The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Titles I, IV, and V of the Act were classified principally to the Appendix to Title 5, Government Organization and Employees, and were substantially repealed and restated in chapter 131 (§13101 et seq.) of Title 5 by Pub. L. 117–286, §§3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of the Act into chapter 131 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Amendments
 
@@ -67,4 +67,6 @@ The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" in second par.
 
 <i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

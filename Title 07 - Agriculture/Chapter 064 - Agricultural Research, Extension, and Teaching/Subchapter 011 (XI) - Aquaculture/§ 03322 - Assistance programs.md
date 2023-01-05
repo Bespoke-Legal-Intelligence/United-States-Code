@@ -8,7 +8,7 @@ The Secretary may develop and implement a cooperative research and extension pro
 
 #### (1) In general
 
-&emsp;Subject to paragraph (3), the Secretary may make competitive grants to entities eligible for grants under paragraph (2) for research and extension to facilitate or expand promising advances in the production and marketing of aquacultural food species and products and to enhance the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds.
+&emsp;Subject to paragraph (3), the Secretary may make competitive grants to entities eligible for grants under paragraph (2) for research and extension to facilitate or expand promising advances in the production and marketing of aquacultural food species and products and toenhance the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds.
 
 #### (2) Eligible entities
 
@@ -26,7 +26,7 @@ The Secretary may develop and implement a cooperative research and extension pro
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Secretary shall not make a grant under paragraph (1) unless the State in which the grant recipient is located makes a grant tothat recipient in an amount equal to not less than the amount of the grant under paragraph (1) (of which State amount an in-kind contribution shall not exceed 50 percent).
+&emsp;&emsp;Except as provided in subparagraph (B), the Secretary shall not make a grant under paragraph (1) unless the State in which the grant recipient is located makes a grant to that recipient in an amount equal to not less than the amount of the grant under paragraph (1) (of which State amount an in-kind contribution shall not exceed 50 percent).
 
 #### (B) Federal laboratories
 
@@ -70,7 +70,7 @@ The National Aquaculture Act of 1980, referred to in subsecs. (a) and (c), is Pu
 
 > "for research and extension to facilitate or expand promising advances in the production and marketing of aquacultural food species and products and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds."
 
-<b>2014</b>—Subsec. (b). Pub. L. 113–79, §7128(b)(1)(B), struck out at end of concluding provisions "Except in the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980."
+<b>2014</b>—Subsec. (b). Pub. L. 113–79, §7128(b)(1)(B), struck out at end of concluding provisions "Except in the caseof Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980."
 
 Pub. L. 113–79, §7124(a), inserted "competitive" before "grants" in introductory provisions.
 

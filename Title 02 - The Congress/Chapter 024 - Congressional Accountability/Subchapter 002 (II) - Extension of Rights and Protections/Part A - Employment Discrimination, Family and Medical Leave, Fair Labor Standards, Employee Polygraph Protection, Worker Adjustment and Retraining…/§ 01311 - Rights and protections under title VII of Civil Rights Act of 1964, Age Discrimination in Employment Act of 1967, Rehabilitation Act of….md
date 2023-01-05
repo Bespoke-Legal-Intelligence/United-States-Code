@@ -56,7 +56,7 @@ All personnel actions affecting covered employees shall be made free from any di
 
 #### (3) Intern defined
 
-&emsp;For purposes of this subsection, the term "intern" means an individual who performs service for an employing office which is uncompensated by the United States to earn credit awarded by an educational institution or to learn a trade or occupation, and includes any individual participating in a page program operated by any House of Congress.
+&emsp;For purposes of this subsection, the term "intern" means an individual who performs service for an employing office which is uncompensated by the United States to earn credit awarded by an educational institutionor to learn a trade or occupation, and includes any individual participating in a page program operated by any House of Congress.
 
 #### (e) Effective date
 

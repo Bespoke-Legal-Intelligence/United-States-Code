@@ -2,7 +2,7 @@
 
 #### (a) Submission to Congress
 
-The Secretary of Energy shall submit to Congress each year, at the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, a future-years energy program reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years energy program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years. A future-years energy program shall be included in the fiscal year 2014 budget submission to Congress and every fiscal year thereafter.
+The Secretary of Energy shall submit to Congress each year, at the time that the President'sbudget is submitted to Congress that year under section 1105(a) of title 31, a future-years energy program reflecting the estimated expenditures and proposed appropriations included in that budget. Any such future-years energy program shall cover the fiscal year with respect to which the budget is submitted and at least the four succeeding fiscal years. A future-years energy program shall be included in the fiscal year 2014 budget submission to Congress and every fiscal year thereafter.
 
 #### (b) Elements
 
@@ -10,7 +10,7 @@ Each future-years energy program shall contain the following:
 
 &emsp;(1) The estimated expenditures and proposed appropriations necessary to support programs, projects, and activities of the Secretary of Energy during the 5-fiscal year period covered by the program, expressed in a level of detail comparable to that contained in the budget submitted by the President to Congress under section 1105 of title 31.
 
-&emsp;(2) The estimated expenditures and proposed appropriations shaped by high-level, prioritized program and budgetary guidancethat is consistent with the administration's policies and out year budget projections and reviewed by the Department of Energy's (DOE) senior leadership to ensure that the future-years energy program is consistent and congruent with previously established program and budgetary guidance.
+&emsp;(2) The estimated expenditures and proposed appropriations shaped by high-level, prioritized program and budgetary guidance that is consistent with the administration's policies and out year budget projections and reviewed by the Department of Energy's (DOE) senior leadership to ensure that the future-years energy program is consistent and congruent with previously established program and budgetary guidance.
 
 &emsp;(3) A description of the anticipated workload requirements for each DOE national laboratory during the 5-fiscal year period.
 

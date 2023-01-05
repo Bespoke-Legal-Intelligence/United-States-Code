@@ -44,7 +44,7 @@ The leasing program shall include estimates of the appropriations and staff requ
 
 (1) During the preparation of any proposed leasing program under this section, the Secretary shall invite and consider suggestions for such program from any interested Federal agency, including the Attorney General, in consultation with the Federal Trade Commission, and from the Governor of any State which may become an affected State under such proposed program. The Secretary may also invite or consider any suggestions from the executive of any affected local government in such an affected State, which have been previously submitted to the Governor of such State, and from any other person.
 
-(2) After such preparation and at least sixty days prior to publication of a proposed leasing program in the Federal Register pursuant to paragraph (3) of this subsection, the Secretary shall submit a copy of such proposed program to the Governor of each affected State for review and comment. The Governor may solicit comments from those executives of local governments in his State which he, in his discretion, determines will be affected by the proposed program. If any comment by such Governor is received by the Secretary at least fifteen days prior to submission to the Congress pursuant to such paragraph (3) and includes a request for any modification of such proposed program, the Secretary shall reply in writing, granting or denying such request in whole or in part, or granting such request in such modified form as the Secretary considers appropriate, and stating his reasons therefor. All such correspondence between the Secretary and the Governor of any affected State, together with any additional information and data relating thereto, shall accompany such proposed program when it is submitted to the Congress.
+(2) After such preparation and at least sixty days prior to publication of a proposed leasing program in the Federal Register pursuant to paragraph (3) of this subsection, the Secretary shall submit a copy of such proposed program tothe Governor of each affected State for review and comment. The Governor may solicit comments from those executives of local governments in his State which he, in his discretion, determines will be affected by the proposed program. If any comment by such Governor is received by the Secretary at least fifteen days prior to submission to the Congress pursuant to such paragraph (3) and includes a request for any modification of such proposed program, the Secretary shall reply in writing, granting or denying such request in whole or in part, or granting such request in such modified form as the Secretary considers appropriate, and stating his reasons therefor. All such correspondence between the Secretary and the Governor of any affected State, together with any additional information and data relating thereto, shall accompany such proposed program when it is submitted to the Congress.
 
 (3) Within nine months after September 18, 1978, the Secretary shall submit a proposed leasing program to the Congress, the Attorney General, and the Governors of affected States, and shall publish such proposed program in the Federal Register. Each Governor shall, upon request, submit a copy of the proposed leasing program to the executive of any local government affected by the proposed program.
 
@@ -84,7 +84,17 @@ The Secretary may obtain from public sources, or purchase from private sources, 
 
 The heads of all Federal departments and agencies shall provide the Secretary with any nonpriviledged <sup>1</sup> or nonproprietary information he requests to assist him in preparing the leasing program and may provide the Secretary with any privileged or proprietary information he requests to assist him in preparing the leasing program. Privileged or proprietary information provided to the Secretary under the provisions of this subsection shall remain confidential for such period of time as agreed to by the head of the department or agency from whom the information is requested. In addition, the Secretary shall utilize the existing capabilities and resources of such Federal departments and agencies by appropriate agreement.
 
-(Aug. 7, 1953, ch. 345, §18, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 649.)
+#### (i) Application
+
+This section shall not apply to the scheduling of any lease sale in an area of the outer Continental Shelf that is adjacent to the Commonwealth of Puerto Rico, Guam, American Samoa, the United States Virgin Islands, or the Commonwealth of the Northern Mariana Islands.
+
+(Aug. 7, 1953, ch. 345, §18, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 649; Pub. L. 117–169, title V, §50251(b)(1)(B), Aug. 16, 2022, 136 Stat. 2055.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (i). Pub. L. 117–169 added subsec. (i).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

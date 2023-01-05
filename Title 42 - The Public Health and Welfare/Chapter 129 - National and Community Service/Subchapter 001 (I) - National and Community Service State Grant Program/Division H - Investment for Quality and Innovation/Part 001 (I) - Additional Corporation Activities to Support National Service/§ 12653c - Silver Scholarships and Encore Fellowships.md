@@ -138,7 +138,7 @@
 
 #### (C) Placement and award of Fellowship
 
-&emsp;&emsp;If the Corporation determines that the eligible Encore Fellowship recipient is able tomeet the service needs (including skills and experience to address an area of national need) of the organization that the eligible fellowship recipient requests under subparagraph (A) or (B), the Corporation shall—
+&emsp;&emsp;If the Corporation determines that the eligible Encore Fellowship recipient is able to meet the service needs (including skills and experience to address an area of national need) of the organization that the eligible fellowship recipient requests under subparagraph (A) or (B), the Corporation shall—
 
 &emsp;&emsp;&emsp;(i) approve the placement of the eligible Encore Fellowship recipient with the organization;
 
@@ -168,7 +168,7 @@ The Corporation shall conduct an independent evaluation of the programs authoriz
 
 #### References in Text
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(4), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title II of the Act is classified generally to subchapter II (§5000 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(4), is Pub. L. 93–113, Oct. 1, 1973, 87Stat. 394. Title II of the Act is classified generally to subchapter II (§5000 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Prior Provisions
 

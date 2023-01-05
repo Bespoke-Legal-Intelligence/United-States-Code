@@ -8,7 +8,7 @@
 
 #### Prior Provisions
 
-A prior subchapter VI related to temporary State fiscal relief, prior to repeal by act Aug. 14, 1935, ch. 531, title VI, §601(g), as added Pub. L. 108–27, title IV, §401(b), May 28, 2003, 117 Stat. 768.
+A prior subchapter VI related to temporary State fiscal relief, prior to repeal by act Aug. 14, 1935, ch. 531,title VI, §601(g), as added Pub. L. 108–27, title IV, §401(b), May 28, 2003, 117 Stat. 768.
 
 Another prior subchapter VI related to grants to States for services to the aged, blind, or disabled and consisted of sections 801 to 805, prior to repeal by Pub. L. 93–647, §3(b), Jan. 4, 1975, 88 Stat. 2349.
 
@@ -22,3 +22,4 @@ Another prior subchapter VI related to grants to States for services to the aged
 - [&sect; 00803 - Coronavirus local fiscal recovery fund](%C2%A7%2000803%20-%20Coronavirus%20local%20fiscal%20recovery%20fund.md)
 - [&sect; 00804 - Coronavirus capital projects fund](%C2%A7%2000804%20-%20Coronavirus%20capital%20projects%20fund.md)
 - [&sect; 00805 - Local assistance and Tribal consistency fund](%C2%A7%2000805%20-%20Local%20assistance%20and%20Tribal%20consistency%20fund.md)
+- [&sect; 00806 - Rescission of funds declined by States, territories, or other governmental entities](%C2%A7%2000806%20-%20Rescission%20of%20funds%20declined%20by%20States%2C%20territories%2C%20or%20other%20governmental%20entities.md)

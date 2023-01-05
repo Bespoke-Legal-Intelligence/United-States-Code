@@ -2,7 +2,7 @@
 
 #### (a) Approval of projects; rules and regulations
 
-In order to help retired individuals and working older individuals to share their experiences, abilities, and skills to improve their communities and themselves through service in their communities, the Director is authorized to make grants to State agencies (established or designated pursuant to section 3025(a)(1) of this title) or grants to or contracts with other public and nonprofit private agencies and organizations to pay part or all of the costs for the development or operation, or both, of volunteer service projects under this section, if the Director determines, in accordance with regulations the Director shall prescribe, that—
+In order to help retired individuals and working older individuals to share their experiences, abilities, and skills to improve their communities and themselves through service in their communities, the Director is authorized to make grants to State agencies (established or designated pursuant to section 3025(a)(1) of thistitle) or grants to or contracts with other public and nonprofit private agencies and organizations to pay part or all of the costs for the development or operation, or both, of volunteer service projects under this section, if the Director determines, in accordance with regulations the Director shall prescribe, that—
 
 &emsp;(1) volunteers will not be reimbursed for other than transportation, meals, and other out-of-pocket expenses incident to the provision of services under this part;
 
@@ -22,7 +22,7 @@ The Director shall not award any grant or contract under this part for a project
 
 #### (d) Volunteer service as employment
 
-Notwithstanding any other provision of law, volunteer service under this part shall not bedeemed employment for any purpose which the Director finds is not fully consistent with the provisions and in furtherance of the purpose of this part.
+Notwithstanding any other provision of law, volunteer service under this part shall not be deemed employment for any purpose which the Director finds is not fully consistent with the provisions and in furtherance of the purpose of this part.
 
 #### (e) Duration of grant or contract; competitive process
 

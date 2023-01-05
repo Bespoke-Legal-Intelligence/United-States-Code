@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—In accordance with all applicable Federal law (including regulations), funds made available to carry out this section may be used for the following activities if such activities are related to transportation projects funded under this title:
+In General.—In accordance with all applicable Federal law (including regulations), fundsmade available to carry out this section may be used for the following activities if such activities are related to transportation projects funded under this title:
 
 &emsp;(1) Establishment of plants selected by State and local transportation authorities to perform one or more of the following functions: abatement of stormwater runoff, stabilization of soil, provision of habitat, forage, and migratory way stations for Monarch butterflies, other native pollinators, and honey bees, and aesthetic enhancement.
 
@@ -40,7 +40,7 @@ Condition for activities conducted in advance of project construction.—An acti
 
 #### References in Text
 
-The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, as amended, which is classified principally to chapter 104 (§7701 et seq.) of Title 7, Agriculture. Forcomplete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 7 and Tables.
+The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§7701 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 7 and Tables.
 
 #### Amendments
 

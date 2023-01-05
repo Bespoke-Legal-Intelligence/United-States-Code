@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) assure the meeting of the purposes of sentencing as set forth in section 3553(a)(2) of title 18, United States Code;
 
-&emsp;&emsp;(B) provide certainty and fairness in meeting the purposes of sentencing, avoiding unwarranted sentencing disparities among defendants with similar records who have been found guilty of similar criminal conduct while maintaining sufficient flexibility to permit individualized sentences when warranted by mitigating or aggravating factors not taken into account in the establishment of general sentencing practices; and
+&emsp;&emsp;(B) provide certainty and fairness in meeting the purposes of sentencing, avoiding unwarranted sentencing disparities among defendants with similar records who have beenfound guilty of similar criminal conduct while maintaining sufficient flexibility to permit individualized sentences when warranted by mitigating or aggravating factors not taken into account in the establishment of general sentencing practices; and
 
 &emsp;&emsp;(C) reflect, to the extent practicable, advancement in knowledge of human behavior as it relates to the criminal justice process; and
 
@@ -48,5 +48,5 @@ Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473
 
 #### Composition of Members of Commission During First Five-Year Period
 
-For provisions directing that, notwithstanding the provisions of this section, during the five-year periodfollowing Oct. 12, 1984, the United States Sentencing Commission shall consist of nine members, including two ex officio, nonvoting members, see section 235(b)(5) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
+For provisions directing that, notwithstanding the provisions of this section, during the five-year period following Oct. 12, 1984, the United States Sentencing Commission shall consist of nine members, including two ex officio, nonvoting members, see section 235(b)(5) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of Title 18, Crimes and Criminal Procedure.
 

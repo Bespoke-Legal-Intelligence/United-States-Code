@@ -98,6 +98,92 @@ Pub. L. 115–91, div. A, title X, §1081(d), Dec. 12, 2017, 131 Stat. 1599, pro
 
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under section 2801 of this title.
 
+#### Consideration of Installation of Integrated Solar Roofing To Improve Energy Resiliency of Military Installations
+
+Pub. L. 117–263, div. B, title XXVIII, §2810, Dec. 23, 2022, 136 Stat. 2997, provided that: "The Secretary of Defense shall amend the Unified Facilities Criteria/DoD Building Code (UFC 1–200–01) to require that planning and design for military construction projects inside the United States include consideration of the feasibility and cost-effectiveness of installing integrated solar roofing as part of the project, for the purpose of—
+
+&emsp;"(1) promoting on-installation energy security and energy resilience;
+
+&emsp;"(2) providing grid support to avoid energy disruptions; and
+
+&emsp;"(3) facilitating implementation and greater use of the authority provided by subsection (h) of section 2911 of title 10, United States Code."
+
+#### Revision of Unified Facilities Guide Specifications and Unified Facilities Criteria To Include Specifications on Use of Gas Insulated Switchgear and Criteria and Specifications on Microgrids and Microgrid Converters
+
+Pub. L. 117–263, div. B, title XXVIII, §2811, Dec. 23, 2022, 136 Stat. 2997, provided that:
+
+"(a)
+
+Gas Insulated Switchgear.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Under Secretary of Defense for Acquisition and Sustainment shall modify the Unified Facilities Guide Specifications to include a distinct specification for medium voltage gas insulated switchgear.
+
+"(b)
+
+Microgrids.—Not later than one year after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition and Sustainment shall—
+
+&emsp;"(1) modify the Unified Facilities Criteria to include criteria for microgrids; and
+
+&emsp;"(2) modify the Unified Facilities Guide Specifications to include specifications for microgrids and microgrid controllers."
+
+#### Determination and Notification Relating to Executive Orders That Impact Cost and Scope of Work of Military Construction Projects
+
+Pub. L. 117–263, div. B, title XXVIII, §2812, Dec. 23, 2022, 136 Stat. 2997, provided that:
+
+"(a)
+
+Determination and Update of Form 1391.—Not later than 30 days after the date on which an Executive order is signed by the President, the Secretary concerned shall—
+
+&emsp;"(1) determine whether implementation of the Executive order would cause a cost or scope of work variation for a military construction project under the jurisdiction of the Secretary concerned;
+
+&emsp;"(2) assess the potential for life-cycle cost savings associated with implementation of the Executive order for such a project; and
+
+&emsp;"(3) update the Department of Defense Form 1391 for each such project that has not been submitted for congressional consideration, where such implementation would affect such cost or scope of work variation, including—
+
+&emsp;&emsp;"(A) projects to be commenced in the next fiscal year beginning after the date on which the Executive order was signed; and
+
+&emsp;&emsp;"(B) projects covered by the future-years defense program submitted under section 221 of title 10, United States Code.
+
+"(b)
+
+Notification to Congress.—Not later than 10 days after determining under subsection (a)(1) that implementation of an Executive order would cause a costor scope of work variation for a military construction project, the Secretary concerned shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report indicating the estimated cost increases, scope of work increases, life-cycle costs, and any other impacts of such implementation.
+
+"(c)
+
+Certification.—Along with the submission to Congress of the budget of the President for a fiscal year under section 1105(a) of title 31, United States Code, each Secretary concerned shall certify to Congress that each Department of Defense Form 1391 provided to Congress for that fiscal year for a military construction project has been updated with any cost or scope of work variation specified in subsection (a)(1) with respect to an Executive order signed during the four-year period preceding such certification, including an indication of any cost increases for such project that is directly attributable to such Executive order.
+
+"(d)
+
+Secretary Concerned Defined.—In this section, the term 'Secretary concerned' has the meaning given that term in section 101 of title 10, United States Code."
+
+#### Requirement for Inclusion of Department of Defense Forms 1391 With Annual Budget Submission by President
+
+Pub. L. 117–263, div. B, title XXVIII, §2813, Dec. 23, 2022, 136 Stat. 2998, provided that: "Concurrently with the submission to Congress by the President of the annual budget of the Department of Defense for a fiscal year under section 1105(a) of title 31, United States Code, the President shall include each Department of Defense Form 1391, or successor similar form, for a military construction project to be carried out during that fiscal year."
+
+#### Electrical Charging Capability Construction Requirements Relating to Parking for Federal Government Motor Vehicles
+
+Pub. L. 117–263, div. B, title XXVIII, §2875, Dec. 23, 2022, 136 Stat. 3014, provided that:
+
+"(a)
+
+In General.—If the Secretary concerned develops plans for a project to construct any facility that includes or will include parking for covered motor vehicles, the Secretary concerned shall include in any Department of Defense Form 1391, or successor form, submitted to Congress for that project—
+
+&emsp;"(1) the provision of electric vehicle charging capability at the facility adequate to provide electrical charging, concurrently, for not less than 15 percent of all covered motor vehicles planned to be parked at the facility;
+
+&emsp;"(2) the inclusion of the cost of constructing such capability in the overall cost of the project; and
+
+&emsp;"(3) an analysis of whether a parking structure or lot will be the primary charging area for covered motor vehicles or if another area, such as public works or the motor pool, will be the primary charging area.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered motor vehicle' means a Federal Government motor vehicle, including a motor vehicle leased by the Federal Government.
+
+&emsp;"(2) The term 'Secretary concerned' means—
+
+&emsp;&emsp;"(A) the Secretary of a military department with respect to facilities under the jurisdiction of that Secretary; and
+
+&emsp;&emsp;"(B) the Secretary of Defense with respect to matters concerning the Defense Agencies and facilities of a reserve component owned by a State rather than the United States."
+
 #### Amendment of Unified Facilities Criteria To Require Inclusion of Private Nursing and Lactation Space in Certain Military Construction Projects
 
 Pub. L. 117–81, div. B, title XXVIII, §2841, Dec. 27, 2021, 135 Stat. 2201, provided that:
@@ -182,7 +268,7 @@ Definitions.—In this section:
 
 #### Pilot Program on Increased Use of Sustainable Building Materials in Military Construction
 
-Pub. L. 117–81, div. B, title XXVIII, §2861, Dec. 27, 2021, 135 Stat. 2212, provided that:
+Pub. L. 117–81, div. B, title XXVIII, §2861, Dec. 27, 2021, 135 Stat. 2212, as amended by Pub. L. 117–263, div. B, title XXVIII, §2865, Dec. 23, 2022, 136 Stat. 3011, provided that:
 
 "(a)
 
@@ -198,7 +284,7 @@ Minimum number of projects.—Each Secretary of a military department shall carr
 
 &emsp;"(2)
 
-Project locations.—The pilot program shall be conducted at military installations in the continental United States—
+Project locations.—The pilot program shall be conducted at military installations in the United States—
 
 &emsp;&emsp;"(A) that are identified as vulnerable to extreme weather events; and—
 
@@ -238,7 +324,7 @@ Report elements.—The report shall include the following:
 
 &emsp;&emsp;&emsp;"(iv) Any impact on construction timeliness of using the various sustainable building materials evaluated in the pilot program.
 
-&emsp;&emsp;&emsp;"(v) The cost effectiveness of the military construction projects conducted under the pilot program using sustainable building materials ascompared to other materials historically used in military construction.
+&emsp;&emsp;&emsp;"(v) The cost effectiveness of the military construction projects conducted under the pilot program using sustainable building materials as compared to other materials historically used in military construction.
 
 &emsp;&emsp;"(D) Any updated guidance the Under Secretary of Defense for Acquisition and Sustainment has released in relation to the procurement policy for future military construction projects based on comparable benefits realized from use of sustainable building materials, including guidance on prioritizing sustainable materials in establishing evaluation criteria for military construction project contracts when technically feasible.
 
@@ -252,7 +338,7 @@ Pub. L. 116–283, div. B, title XXVIII, §2865, Jan. 1, 2021, 134 Stat. 4360, p
 
 "(a)
 
-Authorization of Additional Projects.—Each Secretary of a military department shall conduct a pilot program under which the Secretary may carry out military construction projects for child development centers at military installations, as specified in the funding table in section 4601 of a National Defense Authorization Act for a fiscal year covered by the pilot program. The military construction projects authorized under the pilot program are in addition to other military construction projects authorized by this Act or other National Defense Authorization Acts for fiscal years covered by the pilot program.
+Authorization of Additional Projects.—Each Secretary of a military department shall conduct a pilot program under which the Secretary may carryout military construction projects for child development centers at military installations, as specified in the funding table in section 4601 of a National Defense Authorization Act for a fiscal year covered by the pilot program. The military construction projects authorized under the pilot program are in addition to other military construction projects authorized by this Act or other National Defense Authorization Acts for fiscal years covered by the pilot program.
 
 "(b)
 
@@ -348,7 +434,7 @@ Modification.—
 
 &emsp;"(1)
 
-Certification requirement.—The Secretary of Defense shall modify Department of Defense Form 1391 to require, with respect to any proposed major or minor military construction project requiring congressional notification or approval, the inclusion of acertification by the Secretary of Defense or the Secretary of the military department concerned that the proposed military construction project takes into consideration—
+Certification requirement.—The Secretary of Defense shall modify Department of Defense Form 1391 to require, with respect to any proposed major or minor military construction project requiring congressional notification or approval, the inclusion of a certification by the Secretary of Defense or the Secretary of the military department concerned that the proposed military construction project takes into consideration—
 
 &emsp;&emsp;"(A) the potential adverse consequences of long-term changes in environmental conditions, such as increasingly frequent extreme weather events, that could affect the military installation resilience of the installation for which the military construction project is proposed; and
 
@@ -360,7 +446,7 @@ Elements of certification.—As part of the certification required by paragraph 
 
 "(b)
 
-Relation to Recent Modification Requirement.—The modification of Department of Defense Form 1391 required by subsection (a) is in addition to, and expands upon, the modification of Department of Defense Form 1391 with respect to flood risk disclosure for military construction required by section 2805(a) of the Military Construction Authorization Act for Fiscal Year 2019 (division B of Public Law 115–232; 132 Stat. 2262; 10 U.S.C. 2802 note).
+Relation to Recent Modification Requirement.—The modification of Department of Defense Form 1391 required by subsection (a) is in addition to, and expands upon, the modification of Department ofDefense Form 1391 with respect to flood risk disclosure for military construction required by section 2805(a) of the Military Construction Authorization Act for Fiscal Year 2019 (division B of Public Law 115–232; 132 Stat. 2262; 10 U.S.C. 2802 note).
 
 "(c)
 
@@ -468,7 +554,7 @@ Reporting requirements.—For proposed projects that are to be sited within or p
 
 &emsp;"(4)
 
-Minimum flood mitigation requirements.—When mitigating the flood risk of a major or minor military construction project within or partially within the 100-year floodplain or that will be impacted by projected current and future mean sea level fluctuations over the lifetime of the project, the Secretary concerned shall require any mitigation plan to assume—
+Minimum flood mitigation requirements.—When mitigating the flood risk of a major or minor military construction project within or partially within the 100-year floodplain or that will be impacted by projected current and future mean sea levelfluctuations over the lifetime of the project, the Secretary concerned shall require any mitigation plan to assume—
 
 &emsp;&emsp;"(A) an additional 2 feet above the base flood elevation for non-mission critical facilities, as determined by the Secretary;
 
@@ -572,7 +658,7 @@ Additional reports.—Not later than February 1, 2011, and each February 1 there
 
 &emsp;"(6)
 
-Assessment of recommendations.—Not later than 30 days after the date of the submission of each report under paragraph (5), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriationsof the Senate and the House of Representatives\] a report including—
+Assessment of recommendations.—Not later than 30 days after the date of the submission of each report under paragraph (5), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report including—
 
 &emsp;&emsp;"(A) a copy of the panel's assessment;
 

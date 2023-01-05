@@ -26,5 +26,5 @@ Section 1122, act July 9, 1952, ch. 608, pt. VII, §712, 66 Stat. 504, related t
 
 Section 1123, act July 9, 1952, ch. 608, pt. VII, §713, 66 Stat. 504, related to Federal status of personnel ordered to active duty. See sections 12211, 12212, and 12403 of Title 10, Armed Forces.
 
-Section 1124, act July 9, 1952, ch. 608, pt. VII, §714, 66 Stat. 504, related to benefits for members of National Guard of United States. See section 12602 of Title 10, Armed Forces, and section 501(c) of Title 37, Pay and Allowances of the Uniformed Services.
+Section 1124, act July 9, 1952, ch. 608, pt. VII, §714, 66 Stat. 504, related to benefits for members of National Guard of United States. See section 12602 of Title 10,Armed Forces, and section 501(c) of Title 37, Pay and Allowances of the Uniformed Services.
 

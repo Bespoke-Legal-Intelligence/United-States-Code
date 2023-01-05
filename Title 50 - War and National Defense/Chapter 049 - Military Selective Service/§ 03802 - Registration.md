@@ -34,7 +34,7 @@ Under authority vested in the President by the Military Selective Service Act (6
 
 In order to evaluate an annual registration system, existing procedures are being terminated and will be replaced by new procedures which will provide for periodic registration.
 
-NOW, THEREFORE, I, GERALD R. FORD, President of the United States of America, by virtue of the authority vested in me by the Constitution and the statutes of the United States, including the Military Selective Service Act, as amended, do hereby revoke Proclamations No. 2799 of July 20, 1948, No. 2937 of August 16, 1951, No. 2938 of August 16, 1951, No. 2942 of August 30, 1951, No. 2972 of April 17, 1952, No. 3314 of September 14, 1959, and No. 4101 of January 13, 1972; thereby terminating the present procedures for registration under the Military Selective Service Act, as amended.
+NOW, THEREFORE, I, GERALD R. FORD, President of the United States of America, by virtue of the authority vested in me by the Constitution and the statutes of the United States, including the Military Selective Service Act, as amended, do hereby revoke Proclamations No. 2799 of July 20, 1948, No. 2937 of August 16, 1951, No. 2938 of August 16, 1951, No. 2942 of August 30,1951, No. 2972 of April 17, 1952, No. 3314 of September 14, 1959, and No. 4101 of January 13, 1972; thereby terminating the present procedures for registration under the Military Selective Service Act, as amended.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this twenty-ninth day of March in the year of our Lord nineteen hundred seventy-five, and of the Independence of the United States of America the one hundred ninety-ninth.
 

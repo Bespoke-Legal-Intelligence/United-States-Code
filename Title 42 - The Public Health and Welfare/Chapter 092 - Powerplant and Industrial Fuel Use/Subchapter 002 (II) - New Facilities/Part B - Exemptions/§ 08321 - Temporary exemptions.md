@@ -12,7 +12,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 #### (b) Temporary exemption based upon future use of synthetic fuels
 
-After consideration of a petition (and comments thereon) for an exemption for a powerplant from the prohibitions of part A, the Secretary shall, by order, grant an exemption under this subsection for the use of natural gas or petroleum, if he finds that the petitioner has demonstrated that—
+After consideration of a petition (and comments thereon) for an exemption for a powerplant from the prohibitions of part A, the Secretary shall, by order, grant an exemption underthis subsection for the use of natural gas or petroleum, if he finds that the petitioner has demonstrated that—
 
 &emsp;(1) the petitioner will comply with the prohibitions of part A by the end of the proposed exemption by the use of a synthetic fuel derived from coal or another alternate fuel; and
 
@@ -24,7 +24,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 #### (e) Duration of temporary exemptions
 
-(1) Except as provided in paragraph (2), exemptions under this section for any powerplant maynot exceed, taking into account any extension or renewal, 5 years.
+(1) Except as provided in paragraph (2), exemptions under this section for any powerplant may not exceed, taking into account any extension or renewal, 5 years.
 
 (2)(A) An exemption under subsection (a)(1) may be granted for a period of more than 5 years, but may not exceed, taking into account any extension or renewal, 10 years.
 

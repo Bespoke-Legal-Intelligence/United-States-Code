@@ -120,7 +120,7 @@ Section was formerly set out as a note under section 3001 of this title.
 
 #### Amendments
 
-<b>2019</b>—Pub. L. 116–92, §6706(a)(2), inserted ", the People's Republic of China, the Islamic Republic of Iran,the Democratic People's Republic of Korea, or other nation state" after "Russian Federation" in section catchline.
+<b>2019</b>—Pub. L. 116–92, §6706(a)(2), inserted ", the People's Republic of China, the Islamic Republic of Iran, the Democratic People's Republic of Korea, or other nation state" after "Russian Federation" in section catchline.
 
 Pub. L. 116–92, §6706(a)(1), wherever appearing, inserted ", the People's Republic of China, the Islamic Republic of Iran, the Democratic People's Republic of Korea, or other nation state" after "Russian Federation" and ", China, Iran, North Korea, or other nation state" after "Russia".
 

@@ -2,7 +2,7 @@
 
 #### (a) Designation by Secretary; removal from areas designated; "medical facility" defined
 
-(1) For purposes of this subpart the term "health professional shortage area" means (A) an area in an urban or rural area (which need not conform to the geographic boundaries of a political subdivision and which is a rational area for the delivery of health services) which the Secretary determines has a health manpower shortage and which is not reasonably accessible to an adequately served area, (B) a population group which the Secretary determines has such a shortage, or (C) a public or nonprofit private medical facility or other public facility which the Secretary determines has such a shortage. All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. The Secretary shall not remove an area from the areas determined to be health professional shortage areas under subparagraph (A) of the preceding sentence until the Secretary has afforded interested persons and groups in such area an opportunity to provide data and information in support of the designation as a health professional shortage area or a population group described in subparagraph (B) of such sentence or a facility described in subparagraph (C) of such sentence,and has made a determination on the basis of the data and information submitted by such persons and groups and other data and information available to the Secretary.
+(1) For purposes of this subpart the term "health professional shortage area" means (A) an area in an urban or rural area (which need not conform to the geographic boundaries of a political subdivision and which is a rational area for the delivery of health services) which the Secretary determines has a health manpower shortage and which is not reasonably accessible to an adequately served area, (B) a population group which the Secretary determines has such a shortage, or (C) a public or nonprofit private medical facility or other public facility which the Secretary determines has such a shortage. All Federally qualified health centers and rural health clinics, as defined in section 1861(aa) of the Social Security Act (42 U.S.C. 1395x(aa)), that meet the requirements of section 254g of this title shall be automatically designated as having such a shortage. The Secretary shall not remove an area from the areas determined to be health professional shortage areas under subparagraph (A) of the preceding sentence until the Secretary has afforded interested persons and groups in such area an opportunity to provide data and information in support of the designation as a health professional shortage area or a population group described in subparagraph (B) of such sentence or a facility described in subparagraph (C) of such sentence, and has made a determination on the basis of the data and information submitted by such persons and groups and other data and information available to the Secretary.
 
 (2) For purposes of this subsection, the term "medical facility" means a facility for the delivery of health services and includes—
 
@@ -10,7 +10,7 @@
 
 &emsp;(B) such a facility of a State correctional institution or of the Indian Health Service, and a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act \[25 U.S.C. 5321 et seq.\];
 
-&emsp;(C) such a facility used in connection with the delivery of health services under section 248 of this title (relating to hospitals), 249 of this title (relating to care and treatment of persons under quarantine and others), 250 of this title (relating to care and treatment of Federal prisoners), 251 of this title (relating to examination and treatment of certain Federal employees), 252 of this title (relating to examination of aliens), 253 of this title (relating to services to certain Federal employees), 247e of this title (relating to services for persons with Hansen's disease), or 254b(h) of this title (relating to the provision of health services to homeless individuals); and
+&emsp;(C) such a facility used in connection with the delivery of health services under section 248 of this title (relating to hospitals), 249 of this title (relating to care and treatment of persons under quarantine and others), 250 of this title (relating to care and treatment of Federal prisoners), 251 of this title (relating to examination and treatment of certain Federal employees), 252 of this title (relating to examination of aliens), 253 of this title (relating to services to certain Federal employees), 247e of this title (relating to services for persons withHansen's disease), or 254b(h) of this title (relating to the provision of health services to homeless individuals); and
 
 &emsp;(D) a Federal medical facility.
 
@@ -56,7 +56,7 @@ The Secretary shall give written notice of the designation of a health professio
 
 #### (g) Recommendations to Secretary
 
-Any person may recommend to the Secretary the designation of an area, population group,medical facility, or other public facility as a health professional shortage area.
+Any person may recommend to the Secretary the designation of an area, population group, medical facility, or other public facility as a health professional shortage area.
 
 #### (h) Public information programs in designated areas
 
@@ -112,7 +112,7 @@ The Administrator of the Health Resources and Services Administration shall diss
 
 The Indian Self-Determination Act, referred to in subsec. (a)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
@@ -224,7 +224,7 @@ Amendment by section 986(b)(4) of Pub. L. 97–35 effective Oct. 1, 1981, see se
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–142, §7(e)(1), Oct. 25, 1977, 91 Stat. 1194, provided that: "The amendment made by subsection (d) \[amending this section\] shall apply with respect to determinations and designations made on and after the date of the enactment of this Act \[Oct. 25, 1977\]."
+Pub. L. 95–142, §7(e)(1), Oct. 25, 1977, 91 Stat. 1194, provided that: "The amendment made by subsection (d)\[amending this section\] shall apply with respect to determinations and designations made on and after the date of the enactment of this Act \[Oct. 25, 1977\]."
 
 #### Regulations
 

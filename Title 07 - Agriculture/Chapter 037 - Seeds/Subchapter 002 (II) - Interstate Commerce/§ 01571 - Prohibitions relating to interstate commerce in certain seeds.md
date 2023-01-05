@@ -84,7 +84,7 @@ It shall be unlawful for any person to transport or deliver for transportation i
 
 (f) Seed which has been stained to resemble seed stained in accordance with the provisions of this chapter and the regulations made and promulgated thereunder.
 
-(g) Seed which is a mixture of seeds which are required to be stained or which are stained with different colors under the provisions of this chapter and of the regulations made and promulgated thereunder, or which is a mixture of any seed required to be stained under the provisions of this chapter and of the regulationsmade and promulgated thereunder, with seed of the same kind produced in the United States.
+(g) Seed which is a mixture of seeds which are required to be stained or which are stained with different colors under the provisions of this chapter and of the regulations made and promulgated thereunder, or which is a mixture of any seed required to be stained under the provisions of this chapter and of the regulations made and promulgated thereunder, with seed of the same kind produced in the United States.
 
 (h) Screenings of any seed subject to this chapter, unless they are not intended for seeding purposes; and it is stated on the label, if in containers, or on the invoice if in bulk, that they are intended for cleaning, processing, or manufacturing purposes, and not for seeding purposes.
 

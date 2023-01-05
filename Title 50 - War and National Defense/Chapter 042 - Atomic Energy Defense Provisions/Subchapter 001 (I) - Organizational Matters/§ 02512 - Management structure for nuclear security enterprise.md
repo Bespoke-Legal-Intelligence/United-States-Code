@@ -6,7 +6,7 @@ The Administrator shall establish a management structure for the nuclear securit
 
 #### (b) National Nuclear Security Administration Council
 
-(1) The Administrator shall establish a council to be known as the "National Nuclear Security Administration Council". The Council may advise the Administrator on—
+(1) The Administrator shall establish a council to be known as the "National Nuclear SecurityAdministration Council". The Council may advise the Administrator on—
 
 &emsp;(A) scientific and technical issues relating to policy matters;
 
@@ -224,7 +224,7 @@ Elements.—Each report under this subsection shall include, for the calendar ye
 
 &emsp;&emsp;"(D) An assessment of the progress of the Administration in implementing best practices of industry in the operations of the facilities and sites of the Administration.
 
-&emsp;&emsp;"(E) An estimate of the costs to be saved as a result of the best practices of industry implemented by the Administration at the facilities and sites of the Administration, set forth by fiscal year.
+&emsp;&emsp;"(E) An estimate of the costs to be saved as a result of the best practices of industry implementedby the Administration at the facilities and sites of the Administration, set forth by fiscal year.
 
 &emsp;"(3)
 

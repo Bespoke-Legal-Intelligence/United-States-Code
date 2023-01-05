@@ -1,6 +1,6 @@
 ### §5547. Limitation on premium pay
 
-(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a,5546(a) and (b), and 5550 only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
+(a) An employee may be paid premium pay under sections 5542, 5545(a), (b), and (c), 5545a, 5546(a) and (b), and 5550 only to the extent that the payment does not cause the aggregate of basic pay and such premium pay for any pay period for such employee to exceed the greater of—
 
 &emsp;(1) the maximum rate of basic pay payable for GS–15 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law); or
 
@@ -144,17 +144,17 @@ Pub. L. 100–523, §1, Oct. 24, 1988, 102 Stat. 2605, provided: "That this Act 
 
 #### Premium Pay Waiver for Certain Employees Engaged in Emergency Wildland Fire Suppression Activities
 
-Pub. L. 117–43, div. B, title VII, §1701, Sept. 30, 2021, 135 Stat. 367, provided that:
+Pub. L. 117–43, div. B, title VII, §1701, Sept. 30, 2021, 135 Stat. 367, as amended by Pub. L. 117–103, div. HH, title VI, §601, Mar. 15, 2022, 136 Stat. 1116; Pub. L. 117–328, div. G, title IV, §440, Dec. 29, 2022, 136 Stat. 4832, provided that:
 
-"(a)(1) If services performed by the designated employees under paragraph (2) of this subsection at the Department of the Interior or the Department of Agriculture during 2021 are determined by the Secretary of the Interior or the Secretary of Agriculture, as applicable, to be primarily related to emergency wildland fire suppression activities, any premium pay for such services shall be disregarded in calculating the aggregate of such employee's basic pay and premium pay for purposes of a limitation under section 5547(a) of title 5, United States Code, or under any other provision of law, whether such employee's pay is paid on a biweekly or calendar year basis. Any services during 2021 that generate payments payable in 2022 shall be disregarded in applying this subsection.
+"(a)(1) If services performed by the designated employees under paragraph (2) of this subsection at the Department of the Interior or the Department of Agriculture during 2021 or 2022 or 2023 are determined by the Secretary of the Interior or the Secretary of Agriculture, as applicable, to be primarily related to emergency wildland fire suppression activities, any premium pay for such services shall be disregarded in calculating the aggregate of such employee's basic pay and premium pay for purposes of a limitation under section 5547(a) of title 5, United States Code, or under any other provision of law, whether such employee's pay is paid on a biweekly or calendar year basis. Any Services during a given calendar year that generate payments payable in the subsequent calendar year shall be disregarded in applying this subsection.
 
 "(2) The premium pay waiver under paragraph (1) of this subsection shall apply to individuals serving as wildland firefighters and as fire management response officials, including regional fire directors, deputy regional fire directors, agency officials who directly oversee fire operations, and fire management officers, and individuals serving on incident management teams (IMTs), at the National Interagency Fire Center (NIFC), at Geographic Area Coordinating Centers (GACCs), and at Operations centers.
 
 "(3) The Departments of the Interior and Agriculture shall provide a report to Congress detailing the number of positions, including by occupation, grade, and the aggregate pay by type of pay for each individual who receives pay authorized under subsection (a)(1).
 
-"(b) Any overtime pay for services described in subsection (a) that is payable under an authority outside of title 5, United States Code, shall be disregarded in calculating any annual limit on the amount of overtime pay payable in 2021.
+"(b) Any overtime pay for services described in subsection (a) that is payable under an authority outside of title 5, United States Code, shall be disregarded in calculating any annual limit on the amount of overtime pay payable in 2021 or 2022 or 2023.
 
-"(c) Any pay that is disregarded under either subsection (a) or (b) shall be disregarded in calculating such employee's aggregate pay for purposes of applying the limitation in section 5307 of title 5, United States Code, during 2021.
+"(c) Any pay that is disregarded under either subsection (a) or (b) shall be disregarded in calculating such employee's aggregate pay for purposes of applying the limitation in section 5307 of title 5, United States Code, during 2021 or 2022 or 2023.
 
 "(d)(1) Pay that is disregarded under subsection (a) or (b) shall not cause the aggregate of the employee's basic pay and premium pay for the applicable calendar year to exceed the rate of basic pay payable for a position at level II of the Executive Schedule under section 5313 of title 5, United States Code, as in effect at the end of such calendar year.
 
@@ -216,7 +216,7 @@ Overtime Authority.—Any overtime that is funded for such services described in
 
 "(c)
 
-Applicability of Aggregate Limitation on Pay.—In determining whether an employee's pay exceeds the applicable annual rate of basic pay payable under section 5307 of title 5, United States Code, thehead of an Executive agency shall not include pay exempted under this section.
+Applicability of Aggregate Limitation on Pay.—In determining whether an employee's pay exceeds the applicable annual rate of basic pay payable under section 5307 of title 5, United States Code, the head of an Executive agency shall not include pay exempted under this section.
 
 "(d)
 
@@ -228,7 +228,7 @@ Effective Date.—This section shall take effect as if enacted on January 1, 202
 
 #### Overtime Pay for Protective Services
 
-Pub. L. 114–311, Dec. 16, 2016, 130 Stat. 1531, as amended by Pub. L. 115–160, §2(a)(1), Apr. 3, 2018, 132 Stat. 1246; Pub. L. 115–383, §2(a), Dec. 21, 2018, 132 Stat. 5121; Pub. L. 116–269, §2(a), Dec. 30, 2020, 134 Stat. 3323, provided that:
+Pub. L. 114–311, Dec. 16, 2016, 130 Stat. 1531, as amended by Pub. L. 115–160, §2(a)(1), Apr. 3, 2018, 132 Stat. 1246;Pub. L. 115–383, §2(a), Dec. 21, 2018, 132 Stat. 5121; Pub. L. 116–269, §2(a), Dec. 30, 2020, 134 Stat. 3323, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 

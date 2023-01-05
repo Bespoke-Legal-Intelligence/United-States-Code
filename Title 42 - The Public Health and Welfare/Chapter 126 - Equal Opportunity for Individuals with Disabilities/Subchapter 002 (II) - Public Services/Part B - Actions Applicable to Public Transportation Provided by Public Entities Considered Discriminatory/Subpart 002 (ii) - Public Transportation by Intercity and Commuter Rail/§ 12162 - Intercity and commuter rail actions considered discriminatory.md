@@ -136,7 +136,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (1) Remanufacturing
 
-&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section794 of title 29 for a person to remanufacture a rail passenger car for use in intercity or commuter rail transportation so as to extend its usable life for 10 years or more, unless the rail car, to the maximum extent feasible, is made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
+&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to remanufacture a rail passenger car for use in intercity or commuter rail transportation so as to extend its usable life for 10 years or more, unless the rail car, to the maximum extent feasible, is made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
 
 #### (2) Purchase or lease
 
@@ -194,7 +194,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### References in Text
 
-This chapter, referred to in subsec. (e)(2)(C), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsec. (e)(2)(C), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act tothe Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

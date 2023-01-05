@@ -22,7 +22,7 @@ In cl. (f), "section 6101 of title 41" substituted for "section 3709 of the Revi
 
 In cl. (k), "section 501 of title 44" substituted for "section 11 of the Act of March 1, 1919 (44 U.S.C. 111)" on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, which Act enacted Title 44, Public Printing and Documents.
 
-In cl. (k), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4,2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In cl. (k), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 

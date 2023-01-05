@@ -18,7 +18,7 @@ Rates for Guaranteed Service.—
 
 &emsp;(1)
 
-Authority.—Subject to the provisions of paragraph (2) of this subsection, a motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135 may establish rates for the transportation of household goods which guarantee that the carrier will pick up and deliver such household goods at the times specified in the contract for such services and provide apenalty or per diem payment in the event the carrier fails to pick up or deliver such household goods at the specified time. The charges, if any, for such guarantee and penalty provision may vary to reflect one or more options available to meet a particular shipper's needs.
+Authority.—Subject to the provisions of paragraph (2) of this subsection, a motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135 may establish rates for the transportation of household goods which guarantee that the carrier will pick up and deliver such household goods at the times specified in the contract for such services and provide a penalty or per diem payment in the event the carrier fails to pick up or deliver such household goods at the specified time. The charges, if any, for such guarantee and penalty provision may vary to reflect one or more options available to meet a particular shipper's needs.
 
 &emsp;(2)
 

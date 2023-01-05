@@ -72,7 +72,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 &emsp;&emsp;&emsp;&emsp;(II) which is a contract providing a variable rate of interest, the applicable rate of interest for any month in an applicable period shall be such Moody's rate for the third month preceding the first month in such period.
 
-&emsp;&emsp;&nbsp;For purposes of subclause (II), the term "applicable period" means the 12-month period beginning on the date the policy is issued (and each successive 12-month period thereafter) unless the taxpayer elects a number of months (not greater than 12) other than such 12-month period to be its applicable period. Such an election shall be made not later than the 90th day after the date of the enactment of this sentence and, if made, shall apply to the taxpayer's first taxable year ending on or after October 13, 1995, and all subsequent taxable years unless revoked with the consent of the Secretary.
+&emsp;&emsp;&nbsp;For purposes of subclause (II), the term "applicable period" means the 12-month period beginning on the date the policy is issued (and each successive 12-month period thereafter) unless the taxpayer elects a number of months (not greater than 12) other than such 12-month period to be its applicable period. Such an election shall be made not later than the 90th day after the date of the enactment of this sentenceand, if made, shall apply to the taxpayer's first taxable year ending on or after October 13, 1995, and all subsequent taxable years unless revoked with the consent of the Secretary.
 
 #### (3) Key person
 
@@ -158,7 +158,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (E) Master contracts
 
-&emsp;&emsp;If coverage for each insured under a master contract is treated as a separate contract for purposes of sections 817(h), 7702, and 7702A, coverage for each such insured shall be treated as a separate contract for purposes of subparagraph (A). For purposes of the preceding sentence, the term "master contract" shall not include any group life insurance contract (as defined in section 848(e)(2)).
+&emsp;&emsp;If coverage for each insured under a master contract is treated as a separate contract for purposes of sections 817(h), 7702, and 7702A, coverage for each such insured shall be treated as a separate contract for purposes of subparagraph (A). For purposes ofthe preceding sentence, the term "master contract" shall not include any group life insurance contract (as defined in section 848(e)(2)).
 
 #### (5) Exception for policies and contracts held by natural persons; treatment of partnerships and S corporations
 
@@ -206,7 +206,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (7) Interest expense
 
-&emsp;The term "interest expense" means the aggregate amount allowable to the taxpayer as adeduction for interest (within the meaning of section 265(b)(4)) for the taxable year (determined without regard to this subsection, section 265(b), and section 291).
+&emsp;The term "interest expense" means the aggregate amount allowable to the taxpayer as a deduction for interest (within the meaning of section 265(b)(4)) for the taxable year (determined without regard to this subsection, section 265(b), and section 291).
 
 #### (8) Aggregation rules
 

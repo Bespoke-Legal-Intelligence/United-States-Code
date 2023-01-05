@@ -2,7 +2,7 @@
 
 (a) In its direction and supervision of the activities of the Federal Judicial Center, the Board shall—
 
-&emsp;(1) establish such policies and develop such programs for the Federal Judicial Center aswill further achievement of its purpose and performance of its functions;
+&emsp;(1) establish such policies and develop such programs for the Federal Judicial Center as will further achievement of its purpose and performance of its functions;
 
 &emsp;(2) formulate recommendations for improvements in the administration of the courts of the United States, in the training of the personnel of those courts, and in the management of their resources;
 

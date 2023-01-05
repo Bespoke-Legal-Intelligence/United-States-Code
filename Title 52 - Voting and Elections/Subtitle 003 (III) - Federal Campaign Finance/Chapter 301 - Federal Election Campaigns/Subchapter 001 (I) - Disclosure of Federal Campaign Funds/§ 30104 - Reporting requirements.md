@@ -64,7 +64,7 @@ Definition of expenditure from personal funds.—In this subparagraph, the term 
 
 &emsp;(ii)
 
-Declaration of intent.—Not later than the date that is 15 days after the date on which an individual becomes a candidate for the office of Senator, the candidate shall file a declaration stating the total amount of expenditures from personal funds that the candidate intends to make, or to obligate to make, with respect to the election that will exceed the State-by-State competitive and fair campaign formula with—
+Declaration of intent.—Not later than the date that is 15 days after the date on which an individual becomes a candidate for the office of Senator, the candidate shall file a declaration stating the total amount of expenditures from personal funds that the candidate intends to make, or to obligate to make, with respect to the election that willexceed the State-by-State competitive and fair campaign formula with—
 
 &emsp;&emsp;(I) the Commission; and
 
@@ -138,7 +138,7 @@ In general.—The Commission shall—
 
 &emsp;&emsp;(i) promulgate standards to be used by vendors to develop software that—
 
-&emsp;&emsp;&emsp;(I) permits candidates to easily record information concerning receipts and disbursements required to be reported under this Act at the time of the receipt or disbursement;
+&emsp;&emsp;&emsp;(I) permits candidates to easily record information concerning receipts and disbursements required to be reported underthis Act at the time of the receipt or disbursement;
 
 &emsp;&emsp;&emsp;(II) allows the information recorded under subclause (I) to be transmitted immediately to the Commission; and
 
@@ -272,7 +272,7 @@ Each report under this section shall disclose—
 
 &emsp;(A) the information required by subsection (b)(6)(B)(iii), indicating whether the independent expenditure is in support of, or in opposition to, the candidate involved;
 
-&emsp;(B) under penalty of perjury, a certification whether or not such independent expenditure is made in cooperation, consultation, or concert, with, or at the request or suggestion of, any candidate or any authorized committee or agent of such candidate; and
+&emsp;(B) under penalty of perjury, a certification whether or not such independent expenditure is made in cooperation, consultation, or concert, with, or at the request or suggestion of,any candidate or any authorized committee or agent of such candidate; and
 
 &emsp;(C) the identification of each person who made a contribution in excess of $200 to the person filing such statement which was made for the purpose of furthering an independent expenditure.
 
@@ -330,7 +330,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;(E) If the disbursements were paid out of a segregated bank account which consists of funds contributed solely by individuals who are United States citizens or nationals or lawfully admitted for permanent residence (as defined in section 1101(a)(20) of title 8) directly to this account for electioneering communications, the names and addresses of all contributors who contributed an aggregate amount of $1,000 or more to that account during the period beginning on the first day of the preceding calendar year and ending on the disclosure date. Nothing in this subparagraph is to be construed as a prohibition on the use of funds in such a segregated account for a purpose other than electioneering communications.
 
-&emsp;&emsp;(F) If the disbursements were paid out of funds not described in subparagraph (E), the names and addresses of all contributors who contributed an aggregate amount of $1,000 or more to the person making the disbursement during the period beginning on the first day of the preceding calendar year and ending on the disclosure date.
+&emsp;&emsp;(F) If the disbursements were paid out of funds not described in subparagraph (E), thenames and addresses of all contributors who contributed an aggregate amount of $1,000 or more to the person making the disbursement during the period beginning on the first day of the preceding calendar year and ending on the disclosure date.
 
 #### (3) Electioneering communication
 
@@ -424,7 +424,7 @@ Each report under this section shall disclose—
 
 #### (4) Time of filing for expenditures aggregating $1,000
 
-&emsp;Notwithstanding subsection (a)(5), the time at which the statement under paragraph (1) isreceived by the Commission or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.
+&emsp;Notwithstanding subsection (a)(5), the time at which the statement under paragraph (1) is received by the Commission or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.
 
 #### (h) Reports from Inaugural Committees
 
@@ -472,7 +472,7 @@ The Federal Election Commission shall make any report filed by an Inaugural Comm
 
 &emsp;&emsp;(B) shall provide guidance to committees with respect to whether a person is reasonably known by a committee to be a person described in paragraph (7), which shall include a requirement that committees consult the websites maintained by the Secretary of the Senate and the Clerk of the House of Representatives containing information filed pursuant to the Lobbying Disclosure Act of 1995;
 
-&emsp;&emsp;(C) may not exempt the activity of a person described in paragraph (7) from disclosure under this subsection on the grounds that the person is authorized to engage in fundraising for the committee or any other similar grounds; and
+&emsp;&emsp;(C) may not exempt the activity of a person described in paragraph (7) from disclosure under this subsection on the grounds that the person is authorized to engage infundraising for the committee or any other similar grounds; and
 
 &emsp;&emsp;(D) shall provide for the broadest possible disclosure of activities described in this subsection by persons described in paragraph (7) that is consistent with this subsection.
 
@@ -496,7 +496,7 @@ The Federal Election Commission shall make any report filed by an Inaugural Comm
 
 #### (A) Bundled contribution
 
-&emsp;&emsp;The term "bundled contribution" means, with respect to a committee described inparagraph (6) and a person described in paragraph (7), a contribution (subject to the applicable threshold) which is—
+&emsp;&emsp;The term "bundled contribution" means, with respect to a committee described in paragraph (6) and a person described in paragraph (7), a contribution (subject to the applicable threshold) which is—
 
 &emsp;&emsp;&emsp;(i) forwarded from the contributor or contributors to the committee by the person; or
 
@@ -600,7 +600,7 @@ Subsec. (b)(5). Pub. L. 93–443, §204(b)(1), required information respecting g
 
 Subsec. (b)(8). Pub. L. 93–443, §204(b)(2), required the report to disclose the total receipts less transfers between political committees which support the same candidate and which do not support more than one candidate.
 
-Subsec. (b)(9), (10). Pub. L. 93–443, §204(b)(3), substituted "identification" for "full name and mailing address (occupation and the principal place of business, if any)" in pars. (9) and (10).
+Subsec. (b)(9), (10). Pub. L. 93–443, §204(b)(3), substituted "identification" for "full name and mailingaddress (occupation and the principal place of business, if any)" in pars. (9) and (10).
 
 Subsec. (b)(11). Pub. L. 93–443, §204(b)(4), required the report to disclose the total expenditures less transfers between political committees which support the same candidate and which do not support more than one candidate.
 

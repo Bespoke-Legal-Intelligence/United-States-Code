@@ -34,7 +34,7 @@
 
 &emsp;(C) The term "net value", with respect to real property, means the amount equal to (i) the fair market value of the property, minus (ii) the total of the amounts which the Secretary estimates the Secretary would incur (if the Secretary were to acquire and dispose of the property) for property taxes, assessments, liens, property maintenance, property improvement, administration, resale (including losses sustained on the resale of the property), and other costs resulting from the acquisition and disposition of the property, excluding any amount attributed to the cost to the Government of borrowing funds.
 
-&emsp;(D) Except as provided in subparagraph (D) of paragraph (10) of this subsection, the term "total indebtedness", with respect to a defaulted loan, means the amount equal to the total of (i) the unpaid principal of the loan, (ii) the interest on the loan as of the date applicable under paragraph (10) of this subsection, and (iii) such reasonably necessary and proper charges (as specified in the loan instrumentand permitted by regulations prescribed by the Secretary to implement this subsection) associated with liquidation of the loan, including advances for taxes, insurance, and maintenance or repair of the real property securing the loan.
+&emsp;(D) Except as provided in subparagraph (D) of paragraph (10) of this subsection, the term "total indebtedness", with respect to a defaulted loan, means the amount equal to the total of (i) the unpaid principal of the loan, (ii) the interest on the loan as of the date applicable under paragraph (10) of this subsection, and (iii) such reasonably necessary and proper charges (as specified in the loan instrument and permitted by regulations prescribed by the Secretary to implement this subsection) associated with liquidation of the loan, including advances for taxes, insurance, and maintenance or repair of the real property securing the loan.
 
 (2)(A) Except as provided in subparagraph (B) of this paragraph, this subsection applies to any case in which the holder of a defaulted loan undertakes to liquidate the loan by means of a liquidation sale.
 
@@ -156,7 +156,7 @@ Subsec. (c)(1)(C)(ii). Pub. L. 101–237, §308(a), inserted ", excluding any a
 
 Subsec. (c)(11). Pub. L. 101–237, §308(b)(1), substituted "October 1, 1991" for "October 1, 1989".
 
-<b>1988</b>—Pub. L. 100–322, §415(b)(1)(C), (5)(A), redesignated section catchline of section 1816 of this title assection catchline of this section and struck out former catchline which read as follows: "Furnishing information to real estate professionals to facilitate the disposition of properties".
+<b>1988</b>—Pub. L. 100–322, §415(b)(1)(C), (5)(A), redesignated section catchline of section 1816 of this title as section catchline of this section and struck out former catchline which read as follows: "Furnishing information to real estate professionals to facilitate the disposition of properties".
 
 Subsec. (a). Pub. L. 100–322, §415(b)(1)(A), (C), redesignated subsec. (a) of section 1816 of this title as subsec. (a) of this section, and in par. (4)(A)(i)(I) substituted "paragraph (2) of this subsection" for "section 1816(a)(2) of this title".
 
@@ -204,7 +204,7 @@ Pub. L. 101–237, title III, §308(b)(2), Dec. 18, 1989, 103 Stat. 2075, provid
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–198, §4(b), Dec. 21, 1987, 101 Stat. 1316, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on March 1, 1988."
+Pub. L. 100–198, §4(b), Dec. 21, 1987, 101 Stat. 1316, provided that: "The amendment made by subsection (a)\[amending this section\] shall take effect on March 1, 1988."
 
 Pub. L. 100–198, §5(c), Dec. 21, 1987, 101 Stat. 1317, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to defaults which occur more than 60 days after the date of the enactment of this Act \[Dec. 21, 1987\]."
 

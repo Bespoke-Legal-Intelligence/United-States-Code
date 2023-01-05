@@ -28,7 +28,7 @@ This Act, referred to in subsec. (a), means the Nuclear Non-Proliferation Act of
 
 Section was enacted as part of the Nuclear Non-Proliferation Act of 1978, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
-Section 2153b of this title, referred to in subsec. (b), was in the original "section 401", meaning section 401 of Pub. L. 95–242, which amended section 2153 of this title. Section 401 has been translated as section 2153b of this title, which was enacted by section 403 of Pub. L. 95–242, to reflect the probable intent of Congress inview of the reference to the export policy goals which are set forth in section 2153b of this title.
+Section 2153b of this title, referred to in subsec. (b), was in the original "section 401", meaning section 401 of Pub. L. 95–242, which amended section 2153 of this title. Section 401 has been translated as section 2153b of this title, which was enacted by section 403 of Pub. L. 95–242, to reflect the probable intent of Congress in view of the reference to the export policy goals which are set forth in section 2153b of this title.
 
 #### Amendments
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 30 days after the date on which the Assistant Secretary begins awarding grants under section 1723(d) of this title, and not before that date, the Assistant Secretary shall establish in the Department ofCommerce the Digital Equity Competitive Grant Program (referred to in this section as the "Program"), the purpose of which is to award grants to support efforts to achieve digital equity, promote digital inclusion activities, and spur greater adoption of broadband among covered populations.
+&emsp;Not later than 30 days after the date on which the Assistant Secretary begins awarding grants under section 1723(d) of this title, and not before that date, the Assistant Secretary shall establish in the Department of Commerce the Digital Equity Competitive Grant Program (referred to in this section as the "Program"), the purpose of which is to award grants to support efforts to achieve digital equity, promote digital inclusion activities, and spur greater adoption of broadband among covered populations.
 
 #### (2) Consultation; no conflict
 

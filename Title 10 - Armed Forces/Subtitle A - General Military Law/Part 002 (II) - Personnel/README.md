@@ -80,7 +80,7 @@ Pub. L. 104–106, div. A, title V, §§568(a)(2), 569(b)(2), title X, §1061(a)
 
 <b>1991</b>—Pub. L. 102–190, div. A, title X, §1061(a)(26)(C)(ii), Dec. 5, 1991, 105 Stat. 1474, effective Oct. 1, 1993, struck out item for chapter 85 "Procurement Management Personnel".
 
-Pub. L. 102–190, div. A, title XI, §1112(b)(2), Dec. 5, 1991, 105 Stat. 1501, substituted "Original Appointments of Regular Officers in Grades Above Warrant OfficerGrades" for "Appointments in Regular Components" in item for chapter 33 and added item for chapter 33A.
+Pub. L. 102–190, div. A, title XI, §1112(b)(2), Dec. 5, 1991, 105 Stat. 1501, substituted "Original Appointments of Regular Officers in Grades Above Warrant Officer Grades" for "Appointments in Regular Components" in item for chapter 33 and added item for chapter 33A.
 
 Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added item for chapter 85.
 
@@ -96,7 +96,7 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 <b>1981</b>—Pub. L. 97–89, title VII, §701(a)(2), Dec. 4, 1981, 95 Stat. 1160, added item for chapter 83.
 
-<b>1980</b>—Pub. L. 96–513, title V, §§501(1), 511(29), (54)(B), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, added item for chapter 32, substituted "531" for "541" as section number in item for chapter 33, substituted "34" for "35" as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted "Reserve Components: Standards and Procedures for Retention and Promotion" for "Retention of Reserves" in item for chapter 51, added item for chapter 60, substituted "1251" for "1255" as section number in item for chapter 63, substituted "Retirement of Warrant Officers" for "Retirement" in item for chapter 65, substituted "1370" for "1371" as section number in item for chapter 69, and amended item for chapter 73 to read: "Annuities Based on Retired or Retainer Pay".
+<b>1980</b>—Pub. L. 96–513, title V, §§501(1), 511(29), (54)(B), Dec. 12, 1980, 94 Stat. 2907, 2922, 2925, added item for chapter 32, substituted "531" for "541" as section number in item for chapter 33, substituted "34" for "35" as chapter number of chapter relating to appointments as reserve officers, added items for chapters 35 and 36, substituted "Reserve Components: Standards and Procedures for Retention and Promotion" for "Retention of Reserves" in item for chapter 51, added item for chapter 60, substituted "1251" for "1255" as section number in item for chapter 63, substituted "Retirement of Warrant Officers" for "Retirement" in item for chapter 65,substituted "1370" for "1371" as section number in item for chapter 69, and amended item for chapter 73 to read: "Annuities Based on Retired or Retainer Pay".
 
 <b>1972</b>—Pub. L. 92–425, §2, Sept. 21, 1972, 86 Stat. 711, amended item for chapter 73 by inserting "; Survivor Benefit Plan" after "Pay" which could not be executed as directed in view of amendment by Pub. L. 87–381. See 1961 Amendment note below.
 
@@ -113,6 +113,26 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 <b>1958</b>—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "\[No present sections\]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Standardization of Policies Relating to Service in Armed Forces by Individuals Diagnosed With HBV
+
+Pub. L. 117–263, div. A, title VII, §739, Dec. 23, 2022, 136 Stat. 2676, provided that:
+
+"(a)
+
+In General.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense, in coordination with the Secretaries concerned, shall—
+
+&emsp;"(1) review regulations, establish policies, and issue guidance relating to service in the Armed Forces by individuals diagnosed with HBV, consistent with the health care standards and clinical guidelines of the Department of Defense; and
+
+&emsp;"(2) identify areas where the regulations, policies, and guidance of the Department relating to individuals diagnosed with HBV (including with respect to enlistments, assignments, deployments, and retention standards) may be standardized across the Armed Forces.
+
+"(b)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'HBV' means the Hepatitis B Virus.
+
+&emsp;"(2) The term 'Secretary concerned' has the meaning given that term in section 101 of title 10, United States Code."
 
 #### Strategy and Annual Report on Critical Language Proficiency of Special Operations Forces
 
@@ -198,7 +218,7 @@ Briefing.—Not later than one year after the date of the enactment of this Act,
 
 #### Primary Prevention Workforce
 
-Pub. L. 117–81, div. A, title V, §549B, Dec. 27, 2021, 135 Stat. 1722, provided that:
+Pub. L. 117–81, div. A, title V, §549B, Dec. 27, 2021, 135 Stat. 1722, as amended by Pub. L. 117–263, div. A, title V, §547(b), Dec. 23, 2022, 136 Stat. 2585, provided that:
 
 "(a)
 
@@ -252,7 +272,7 @@ In general.—Not later than one year after the date of the enactment of this Ac
 
 &emsp;"(2)
 
-Elements.—Each report submitted under subsection (a) shall include a description of—
+Elements.—Each report submitted under paragraph (1) shall include a description of—
 
 &emsp;&emsp;"(A) expected milestones to implement the prevention workforce in the component at issue;
 
@@ -260,9 +280,21 @@ Elements.—Each report submitted under subsection (a) shall include a descripti
 
 &emsp;&emsp;"(C) additional authorities that may be required to optimize implementation and operation of the workforce.
 
+&emsp;"(3)
+
+Comptroller General report.—Not later than one year after the date of the enactment of this paragraph \[Dec. 23, 2022\], the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that—
+
+&emsp;&emsp;"(A) compares the sexual harassment and prevention training of the Department of Defense with similar programs at other departments and agencies of the Federal Government; and
+
+&emsp;&emsp;"(B) includes relevant data collected by colleges and universities and other relevant outside entities on hazing and bullying and interpersonal and self-directed violence.
+
 "(d)
 
-Operating Capability Deadline.—The Primary Prevention Workforce authorized under this section shall attain initial operating capability in each military department and military service and in the National Guard by not later than the effective date specified in section 539C \[10 U.S.C. 801 note\]."
+Operating Capability Deadline.—The Primary Prevention Workforce authorized under this section shall attain initial operating capability in each military department and military service and in the National Guard by not later than the effective date specified in section 539C \[10 U.S.C. 801 note\].
+
+"(e)
+
+Incorporation of Research and Findings.—The Secretary of Defense shall ensure that the findings and conclusions from the primary prevention research agenda established under section 549A \[10 U.S.C. 1561 note prec.\] are regularly incorporated, as appropriate, within the primary prevention workforce established under subsection (a)."
 
 #### Cadre of Software Development and Acquisition Experts
 
@@ -406,7 +438,7 @@ In General.—Not later than two years after the date of the enactment of this A
 
 "(b)
 
-Information Sharing With Other Federal Agencies.—The Secretary of Defense shall share information on the activities carried out under subsection (a) with the Secretary of Homeland Security, the Attorney General, the Director of National Intelligence,and the heads of such other organizations of the intelligence community as the Secretary determines appropriate, for purposes of—
+Information Sharing With Other Federal Agencies.—The Secretary of Defense shall share information on the activities carried out under subsection (a) with the Secretary of Homeland Security, the Attorney General, the Director of National Intelligence, and the heads of such other organizations of the intelligence community as the Secretary determines appropriate, for purposes of—
 
 &emsp;"(1) making information about the coding language proficiency and artificial intelligence competency tests developed under such subsection available to other Federal national security agencies; and
 
@@ -540,7 +572,7 @@ Elements.—Each briefing under paragraph (1) shall include, for each Armed Forc
 
 &emsp;&emsp;"(A) A description and assessment of the fielding of newest generations of personal protective equipment to members of such Armed Force, including the following:
 
-&emsp;&emsp;&emsp;"(i) The number (aggregated by total number and by sex) of members of such Armed Force issued the Army Soldiers Protective System and the Modular Scalable Vest Generation II body armor as of December 31, 2020.
+&emsp;&emsp;&emsp;"(i) The number (aggregated by total number and by sex) of members of such Armed Forceissued the Army Soldiers Protective System and the Modular Scalable Vest Generation II body armor as of December 31, 2020.
 
 &emsp;&emsp;&emsp;"(ii) The number (aggregated by total number and by sex) of members of such Armed Force issued Marine Corps Plate Carrier Generation III body armor as of that date.
 
@@ -548,7 +580,7 @@ Elements.—Each briefing under paragraph (1) shall include, for each Armed Forc
 
 &emsp;&emsp;"(B) A description and assessment of the barriers, if any, to the fielding of such generations of equipment to such members.
 
-&emsp;&emsp;"(C) A description and assessment of challenges in the fielding of such generations of equipment tosuch members, including cost overruns, contractor delays, and other challenges.
+&emsp;&emsp;"(C) A description and assessment of challenges in the fielding of such generations of equipment to such members, including cost overruns, contractor delays, and other challenges.
 
 "(b)
 
@@ -666,7 +698,7 @@ Partnerships for certain assessments.—As part of the activities, the Secretary
 
 &emsp;&emsp;"(B) The value of real-time data analytics to track the effectiveness of various forms of personal protective equipment to protect against common blast injuries, including traumatic brain injuries.
 
-&emsp;&emsp;"(C) The availability of commercially available off-the-shelf items (as defined in section 104 of title41, United States Code) that may serve as personal protective technology to protect against traumatic brain injury resulting from blasts.
+&emsp;&emsp;"(C) The availability of commercially available off-the-shelf items (as defined in section 104 of title 41, United States Code) that may serve as personal protective technology to protect against traumatic brain injury resulting from blasts.
 
 &emsp;&emsp;"(D) The extent to which the equipment determined through the assessment to be most effective to protect against common blast injuries is readily modifiable for different body types and to provide lightweight material options to enhance maneuverability.
 

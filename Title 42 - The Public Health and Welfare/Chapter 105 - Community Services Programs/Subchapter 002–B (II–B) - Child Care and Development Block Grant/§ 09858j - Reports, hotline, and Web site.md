@@ -66,7 +66,7 @@ Not later than July 31, 2016, and biennially thereafter, the Secretary shall pre
 
 <b>1997</b>—Pub. L. 105–33 substituted "1998" for "1997".
 
-<b>1996</b>—Pub. L. 104–193 substituted "July 31, 1997, and biennially thereafter" for "July 31, 1993, and annually thereafter" and "Committee on Economic and Educational Opportunities" for "Committee on Education and Labor".
+<b>1996</b>—Pub. L. 104–193 substituted "July 31, 1997, and biennially thereafter" for "July 31, 1993, and annuallythereafter" and "Committee on Economic and Educational Opportunities" for "Committee on Education and Labor".
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 

@@ -8,7 +8,7 @@
 
 #### (2) High actuarial risk plans
 
-&emsp;Using the criteria and methods developed under subsection (b), each State shall provide a payment to health plans and health insurance issuers (with respect to health insurance coverage) described in subsection (c) if the actuarial risk of the enrollees of such plans or coverage for a year is greater than the average actuarial risk of all enrollees in all plans andcoverage in such State for such year that are not self-insured group health plans (which are subject to the provisions of the Employee Retirement Income Security Act of 1974).
+&emsp;Using the criteria and methods developed under subsection (b), each State shall provide a payment to health plans and health insurance issuers (with respect to health insurance coverage) described in subsection (c) if the actuarial risk of the enrollees of such plans or coverage for a year is greater than the average actuarial risk of all enrollees in all plans and coverage in such State for such year that are not self-insured group health plans (which are subject to the provisions of the Employee Retirement Income Security Act of 1974).
 
 #### (b) Criteria and methods
 

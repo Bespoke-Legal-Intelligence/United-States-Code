@@ -22,7 +22,7 @@ A coal lease shall be for a term of twenty years and for so long thereafter as c
 
 &emsp;(B) based on commercial quantities, as defined by regulation by the Secretary of the Interior.
 
-(5) The aggregate number of years during the period of any lease for which advance royalties may be accepted in lieu of the condition of continued operation shall not exceed 20 years.
+(5) The aggregate number of years during the period of any lease for which advance royaltiesmay be accepted in lieu of the condition of continued operation shall not exceed 20 years.
 
 (6) <sup>1</sup> The amount of any production royalty paid for any year shall be reduced (but not below 0) by the amount of any advance royalties paid under a lease described in paragraph (5) to the extent that the advance royalties have not been used to reduce production royalties for a prior year.
 

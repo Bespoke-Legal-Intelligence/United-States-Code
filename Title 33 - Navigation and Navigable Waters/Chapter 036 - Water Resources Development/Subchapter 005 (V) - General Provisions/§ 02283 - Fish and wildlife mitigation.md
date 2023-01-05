@@ -112,7 +112,7 @@ In those cases when the Secretary, as part of any report to Congress, recommends
 
 &emsp;(3) such activities are located on lands managed as a national wildlife refuge.
 
-> When benefits of enhancement do not qualify under the preceding sentence, 25 percent of such first costs of enhancement shall be provided by non-Federal interests under a schedule of reimbursement determined by the Secretary. Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project. The non-Federal share of operation, maintenance, and rehabilitation of activities to enhance fish and wildlife resources shall be 25 percent.
+> When benefits of enhancement do not qualify under the preceding sentence, 25 percent of such first costs of enhancement shall be provided by non-Federal interests under a schedule of reimbursement determined by the Secretary. Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kindcontributions, including facilities, supplies, and services that are necessary to carry out the enhancement project. The non-Federal share of operation, maintenance, and rehabilitation of activities to enhance fish and wildlife resources shall be 25 percent.
 
 #### (f) National benefits from enhancement measures for Atchafalaya Floodway System and Mississippi Delta Region projects
 
@@ -170,7 +170,7 @@ The provisions of subsections (a), (b), and (d) shall be deemed to supplement th
 
 &emsp;&emsp;(E) adaptive management procedures, such as protocols that involve monitoring predicted impacts over time and adjusting mitigation measures in response to information gathered through the monitoring;
 
-&emsp;&emsp;(F) acknowledgment of specific statutory or regulatory requirements that must besatisfied when determining appropriate mitigation for certain types of resources; and
+&emsp;&emsp;(F) acknowledgment of specific statutory or regulatory requirements that must be satisfied when determining appropriate mitigation for certain types of resources; and
 
 &emsp;&emsp;(G) any offsetting benefits of self-mitigating projects, such as ecosystem or resource restoration and protection.
 
@@ -248,7 +248,7 @@ The provisions of subsections (a), (b), and (d) shall be deemed to supplement th
 
 #### (k) Measures
 
-The Secretary shall consult with interested members of the public, the Director of the United States Fish and Wildlife Service, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration,States, including State fish and game departments, and interested local governments to identify standard measures under subsection (h)(6)(C) that reflect the best available scientific information for evaluating habitat connectivity.
+The Secretary shall consult with interested members of the public, the Director of the United States Fish and Wildlife Service, the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration, States, including State fish and game departments, and interested local governments to identify standard measures under subsection (h)(6)(C) that reflect the best available scientific information for evaluating habitat connectivity.
 
 (Pub. L. 99–662, title IX, §906, Nov. 17, 1986, 100 Stat. 4186; Pub. L. 102–580, title III, §333(a), Oct. 31, 1992, 106 Stat. 4852; Pub. L. 106–53, title II, §221, Aug. 17, 1999, 113 Stat. 295; Pub. L. 106–541, title II, §224(a), Dec. 11, 2000, 114 Stat. 2597; Pub. L. 110–114, title II, §2036(a), Nov. 8, 2007, 121 Stat. 1092; Pub. L. 113–121, title I, §1040(a), June 10, 2014, 128 Stat. 1239; Pub. L. 114–322, title I, §1162, Dec. 16, 2016, 130 Stat. 1668.)
 
@@ -256,9 +256,9 @@ The Secretary shall consult with interested members of the public, the Director 
 
 #### References in Text
 
-The Endangered Species Act, as amended, referred to in subsec. (e)(2), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act, as amended, referred to in subsec. (e)(2), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
-Public Law 99–88, referred to in subsec. (f), is Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 293, known as the Supplemental Appropriations Act, 1985. Provisions of Pub. L. 99–88 authorizing the project for the Atchafalaya Floodway System, Louisiana, are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+Public Law 99–88, referred to in subsec. (f), is Pub. L. 99–88, Aug. 15, 1985, 99 Stat. 293, known as the Supplemental Appropriations Act, 1985. Provisions of Pub. L. 99–88 authorizing the project for the AtchafalayaFloodway System, Louisiana, are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 The Flood Control Act of 1965, referred to in subsec. (f), is title II of Pub. L. 89–298, Oct. 27, 1965, 79 Stat. 1073. Provisions of that Act authorizing the project for Mississippi Delta Region, Louisiana, are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 

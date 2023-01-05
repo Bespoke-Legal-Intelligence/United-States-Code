@@ -12,7 +12,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(iii) All Policy Framework Papers should articulate the principal poverty, economic, and social measures that the borrowing nation needs to address, and this portion of the Policy Framework Paper (or a summary thereof that includes specific measures and timing) should be made available when the Policy Framework Paper is submitted to the Executive Directors of the Bank and of the Fund for consideration.
 
-&emsp;(iv) In considering whether to allocate resources of the Fund to a borrower, the Fundshould take into consideration the nature of the program and commitment of the borrower to address the issues referred to in clause (iii).
+&emsp;(iv) In considering whether to allocate resources of the Fund to a borrower, the Fund should take into consideration the nature of the program and commitment of the borrower to address the issues referred to in clause (iii).
 
 &emsp;(v) The Fund should establish procedures to enable the Fund to cooperate with the Bank in evaluating the effectiveness of the measures referred to in clause (iii), at the levels of policy, project design, monitoring, and reporting, in the international financial institutions and in the borrowing nations.
 
@@ -36,7 +36,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(ii) to evaluate the social and environmental impacts of the implementation of the policy prescriptions.
 
-&emsp;(C) Such audits would have access to all ongoing programs and activities of the Fund and the ability to review the effects of Fund-supported programs, on a country-by-country basis, with respect to poverty, economic development, and environment.
+&emsp;(C) Such audits would have access to all ongoing programs and activities of the Fund andthe ability to review the effects of Fund-supported programs, on a country-by-country basis, with respect to poverty, economic development, and environment.
 
 &emsp;(D) Such audits should be made public as appropriate with due respect to confidentiality.
 

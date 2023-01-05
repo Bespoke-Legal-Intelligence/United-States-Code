@@ -100,7 +100,7 @@ The Secretary, after consultation with the Assistant Secretary for Health, the S
 
 #### (f) Monitoring at Federal health care facilities
 
-The Secretary shall encourage reporting on aggregate antimicrobial drug use and antimicrobial resistance to antimicrobial drugs and the implementation of antimicrobial stewardship programs by health care facilities of the Department of Defense, the Department of Veterans Affairs, and the Indian Health Service and shall provide technical assistance to the Secretary of Defense and the Secretary of Veterans Affairs, as appropriate and upon request.
+The Secretary shall encourage reporting on aggregate antimicrobial drug use and antimicrobial resistance to antimicrobial drugs and the implementation of antimicrobial stewardship programs by health care facilities of the Department of Defense, the Department of Veterans Affairs, and the Indian Health Service andshall provide technical assistance to the Secretary of Defense and the Secretary of Veterans Affairs, as appropriate and upon request.
 
 #### (g) Report on antimicrobial resistance in humans and use of antimicrobial drugs
 
@@ -148,23 +148,59 @@ The Secretary shall continue to work with State and local public health departme
 
 &emsp;The Secretary shall use available systems, including the National Healthcare Safety Network or other systems identified by the Secretary, to fulfill the requirements or conduct activities under this section.
 
-#### (k) Antimicrobial
+#### (k) Network of antibiotic resistance regional laboratories
+
+#### (1) In general
+
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall, as appropriate, maintain a network of antibiotic resistance laboratory sites to ensure the maintenance of appropriate capabilities, within existing laboratory capacity maintained or supported by the Centers for Disease Control and Prevention, to—
+
+&emsp;&emsp;(A) identify and monitor the emergence and changes in the patterns of antimicrobial-resistant pathogens;
+
+&emsp;&emsp;(B) detect, identify, confirm, and isolate such resistant pathogens, including, as appropriate, performing such activities upon the request of another laboratory and providing related technical assistance, and, as applicable, support efforts to respond to local or regional outbreaks of such resistant pathogens; and
+
+&emsp;&emsp;(C) perform activities to support the diagnosis of such resistant pathogens and determine the susceptibility of relevant pathogen samples to applicable treatments.
+
+#### (2) Geographic distribution
+
+&emsp;The Secretary shall ensure that such capacity and capabilities are appropriately distributed among the geographical regions of the United States.
+
+#### (3) Partnerships and nonduplication of current domestic capacity
+
+&emsp;Activities supported under this subsection may be based in an academic center, a State health department, or other facility operated by a public or private entity that carries out relevant laboratory or public health surveillance activities.
+
+#### (l) International collaboration
+
+#### (1) In general
+
+&emsp;The Secretary, in coordination with heads of other relevant Federal departments and agencies, shall support activities related to addressing antimicrobial resistance internationally, including by—
+
+&emsp;&emsp;(A) supporting basic, translational, epidemiological, and clinical research related to antimicrobial-resistant pathogens, including such pathogens that have not yet been detected in the United States, and improving related public health surveillance systems, and laboratory and other response capacity; and
+
+&emsp;&emsp;(B) providing technical assistance related to antimicrobial resistant infection and control activities.
+
+#### (2) Awards
+
+&emsp;In carrying out paragraph (1), the Secretary may award grants, contracts, or cooperative agreements to public and private entities, including nongovernmental organizations, with applicable expertise, for purposes of supporting new and innovative approaches to the prevention, detection, and mitigation of antimicrobial-resistant pathogens.
+
+#### (m) Antimicrobial
 
 For purposes of subsections (f) through (j), the term "antimicrobial" includes any antibacterial or antifungal drugs, and may include drugs that eliminate or inhibit the growth of other microorganisms, as appropriate.
 
-#### (l) Supplement not supplant
+#### (n) Supplement not supplant
 
 Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities under this section.
 
-#### (m) Authorization of appropriations
+#### (o) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section, $40,000,000 for fiscal year 2001, $25,000,000 for each of the fiscal years 2002 and 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006.
 
-(July 1, 1944, ch. 373, title III, §319E, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318; amended Pub. L. 107–188, title I, §109, June 12, 2002, 116 Stat. 610; Pub. L. 114–255, div. A, title III, §3041(a), Dec. 13, 2016, 130 Stat. 1111.)
+(July 1, 1944, ch. 373, title III, §319E, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318; amended Pub. L. 107–188, title I, §109, June 12, 2002, 116 Stat. 610; Pub. L. 114–255, div. A, title III, §3041(a), Dec. 13, 2016, 130 Stat. 1111; Pub. L. 117–328, div. FF, title II, §2234, Dec. 29, 2022, 136 Stat. 5754.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsecs. (k) to (o). Pub. L. 117–328 added subsecs. (k) and (l) and redesignated former subsecs. (k) to (m) as (m) to (o), respectively.
 
 <b>2016</b>—Subsecs. (f) to (m). Pub. L. 114–255 added subsecs. (f) to (k) and redesignated former subsecs. (f) and (g) as (l) and (m), respectively.
 
@@ -180,7 +216,7 @@ Subsec. (g). Pub. L. 107–188, §109(3), substituted "$25,000,000 for each of t
 
 #### Construction of 2016 Amendment
 
-Nothing in amendment by Pub. L. 114–255 to be construed to restrict the prescribing of antimicrobialdrugs or other products, including drugs approved under section 356(h) of Title 21, Food and Drugs, by health care professionals, or to limit the practice of health care, see section 3043 of Pub. L. 114–255, set out as a note under section 356 of Title 21.
+Nothing in amendment by Pub. L. 114–255 to be construed to restrict the prescribing of antimicrobial drugs or other products, including drugs approved under section 356(h) of Title 21, Food and Drugs, by health care professionals, or to limit the practice of health care, see section 3043 of Pub. L. 114–255, set out as a note under section 356 of Title 21.
 
 #### Additional Strategies for Combating Antibiotic Resistance
 
@@ -220,7 +256,7 @@ Coordination.—The Advisory Council shall, to the greatest extent practicable, 
 
 "(d)
 
-FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities and duties of the Advisory Council.
+FACA.—The Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall apply to the activities and duties of the Advisory Council.
 
 "(e)
 
@@ -292,7 +328,7 @@ Sec. 4. <i>Presidential Advisory Council on Combating Antibiotic-Resistant Bacte
 
 (b) The Secretary shall designate a chairperson from among the members of the Advisory Council.
 
-(c) The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to: preserve the effectiveness of antibiotics by optimizing their use; advance research to develop improved methods for combating antibiotic resistance and conducting antibiotic stewardship; strengthen surveillance of antibiotic-resistant bacterial infections; prevent the transmission of antibiotic-resistant bacterial infections; advance the development of rapid point-of-care and agricultural diagnostics; further research on new treatments for bacterial infections; develop alternatives to antibiotics for agricultural purposes; maximize the dissemination of up-to-date information on the appropriate and proper use of antibiotics to the general public and human and animal healthcare providers; and improve international coordination of efforts to combat antibiotic resistance. The Secretary shall provide the President with all written reports created by the Advisory Council.
+(c) The Advisory Council shall provide advice, information, and recommendations to the Secretary regarding programs and policies intended to: preserve the effectiveness of antibiotics by optimizing their use; advance research to develop improved methods for combating antibiotic resistance and conducting antibiotic stewardship; strengthen surveillance of antibiotic-resistant bacterial infections; prevent the transmission of antibiotic-resistant bacterial infections; advance the development of rapid point-of-care and agricultural diagnostics; further research on new treatments for bacterial infections; develop alternatives to antibiotics for agricultural purposes; maximize the dissemination of up-to-date information on the appropriate and proper use of antibiotics to the general public and human and animal healthcare providers; and improve international coordination of efforts to combat antibiotic resistance. The Secretary shall provide the Presidentwith all written reports created by the Advisory Council.
 
 (d) Task Force agencies shall, to the extent permitted by law, provide the Advisory Council with such information as it may require for purposes of carrying out its functions.
 
@@ -344,13 +380,13 @@ Sec. 10. <i>General Provisions</i>. (a) This order shall be implemented consiste
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(d) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the "Act"), may apply to the Advisory Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
+(d) Insofar as the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] (the "Act"), may apply to the Advisory Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria
 
-Term of Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extension of term of Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria was contained in the following prior Executive Order:
 
@@ -364,7 +400,7 @@ Memorandum for the Secretary of Health and Human Services
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Delegation of Re-establishment Authority</i>. The Secretary of Health and Human Services is delegated the authority under section 9(a)(1) of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), to re-establish the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (Council). In exercising this authority, the Secretary may direct the Council to perform duties consistent with those assigned to the Council in section 505(b) of Public Law 116–22 \[42 U.S.C. 247d–5 note\], and may, at the Secretary's discretion, specify the membership of the Council, consistent with the requirements of the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+Section 1. <i>Delegation of Re-establishment Authority</i>. The Secretary of Health and Human Services is delegated the authority under section 9(a)(1) of the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1008(a)(1)\], to re-establish the Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria (Council). In exercising this authority, the Secretary may direct the Council to perform duties consistent with those assigned to the Council in section 505(b) of Public Law 116–22 \[42 U.S.C. 247d–5 note\], and may, at the Secretary's discretion, specify the membership of the Council, consistent with the requirements of the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\].
 
 Sec. 2. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
 

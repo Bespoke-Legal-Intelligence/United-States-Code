@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;Notwithstanding subparagraph (B)(i)(I) and in implementing the first round of the competitive acquisition programs under this section—
 
-&emsp;&emsp;&emsp;&emsp;(I) the contracts awarded under this section before July 15, 2008, are terminated, no payment shall be made under this subchapter on or after July 15, 2008, based on such a contract, and, to the extent that any damages may be applicable as a result of the termination of such contracts, such damages shall be payablefrom the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title;
+&emsp;&emsp;&emsp;&emsp;(I) the contracts awarded under this section before July 15, 2008, are terminated, no payment shall be made under this subchapter on or after July 15, 2008, based on such a contract, and, to the extent that any damages may be applicable as a result of the termination of such contracts, such damages shall be payable from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) the Secretary shall conduct the competition for such round in a manner so that it occurs in 2009 with respect to the same items and services and the same areas, except as provided in subclauses (III) and (IV);
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) shall provide, by not later than 45 days (in the case of the first round of the competitive acquisition programs as described in subparagraph (B)(i)(I)) or 90 days (in the case of a subsequent round of such programs) after the covered document review date, for notice to the bidder of all such documents that are missing as of the covered document review date; and
 
-&emsp;&emsp;&emsp;&emsp;(II) may not reject the bid on the basis that any covered document is missing or has not been submitted on a timely basis, if all such missing documents identified in the notice provided to the bidder under subclause (I) are submitted to the Secretary not later than 10 business days after the date of such notice.
+&emsp;&emsp;&emsp;&emsp;(II) may not reject the bid on the basis that any covered document is missing orhas not been submitted on a timely basis, if all such missing documents identified in the notice provided to the bidder under subclause (I) are submitted to the Secretary not later than 10 business days after the date of such notice.
 
 #### (ii) Covered document review date
 
@@ -98,7 +98,7 @@
 
 #### (iv) Covered document defined
 
-&emsp;&emsp;&emsp;In this subparagraph, the term "covered document" means a financial, tax, or other document required to be submitted by a bidder as part of an original bid submission under a competitive acquisitionprogram in order to meet required financial standards. Such term does not include other documents, such as the bid itself or accreditation documentation.
+&emsp;&emsp;&emsp;In this subparagraph, the term "covered document" means a financial, tax, or other document required to be submitted by a bidder as part of an original bid submission under a competitive acquisition program in order to meet required financial standards. Such term does not include other documents, such as the bid itself or accreditation documentation.
 
 #### (G) Requiring bid bonds for bidding entities
 
@@ -135,6 +135,10 @@
 #### (C) Off-the-shelf orthotics
 
 &emsp;&emsp;Orthotics described in section 1395x(s)(9) of this title for which payment would otherwise be made under section 1395m(h) of this title which require minimal self-adjustment for appropriate use and do not require expertise in trimming, bending, molding, assembling, or customizing to fit to the individual.
+
+#### (D) Lymphedema compression treatment items
+
+&emsp;&emsp;Lymphedema compression treatment items (as defined in section 1395x(mmm) ofthis title) for which payment would otherwise be made under section 1395m(z) of this title.
 
 #### (3) Exception authority
 
@@ -312,7 +316,7 @@
 
 #### (C) Demonstration of ability to furnish types of diabetic testing strip products
 
-&emsp;&emsp;With respect to bids to furnish diabetic testing strip products on or after January 1, 2019, an entity shall attest to the Secretary that the entity has the ability to obtain aninventory of the types and quantities of diabetic testing strip products that will allow the entity to furnish such products in a manner consistent with its bid and—
+&emsp;&emsp;With respect to bids to furnish diabetic testing strip products on or after January 1, 2019, an entity shall attest to the Secretary that the entity has the ability to obtain an inventory of the types and quantities of diabetic testing strip products that will allow the entity to furnish such products in a manner consistent with its bid and—
 
 &emsp;&emsp;&emsp;(i) demonstrate to the Secretary, through letters of intent with manufacturers, wholesalers, or other suppliers, or other evidence as the Secretary may specify, such ability; or
 
@@ -354,7 +358,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the requirements established under subparagraphs (A) and (B);
 
-&emsp;&emsp;&emsp;&emsp;(II) the right of the individual to purchase diabetic testing strip products from another mail order supplier of such products or a retail pharmacy if the entity is not able to furnish the brand of such product that is compatible with the home blood glucose monitor selected by the individual; and
+&emsp;&emsp;&emsp;&emsp;(II) the right of the individual to purchase diabetic testing strip products from another mail order supplier of suchproducts or a retail pharmacy if the entity is not able to furnish the brand of such product that is compatible with the home blood glucose monitor selected by the individual; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the right of the individual to return diabetic testing strip products furnished to the individual by the entity.
 
@@ -414,9 +418,9 @@
 
 &emsp;&emsp;The Committee shall perform such additional functions to assist the Secretary in carrying out this section as the Secretary may specify.
 
-#### (4) Inapplicability of FACA
+#### (4) Inapplicability of chapter 10 of title 5
 
-&emsp;The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply.
+&emsp;The provisions of chapter 10 of title 5 shall not apply.
 
 #### (5) Termination
 
@@ -432,21 +436,23 @@ Not later than July 1, 2011, the Secretary shall submit to Congress a report on 
 
 The Secretary shall provide for a competitive acquisition ombudsman within the Centers for Medicare \& Medicaid Services in order to respond to complaints and inquiries made by suppliers and individuals relating to the application of the competitive acquisition program under this section. The ombudsman may be within the office of the Medicare Beneficiary Ombudsman appointed under section 1395b–9(c) of this title. The ombudsman shall submit to Congress an annual report on the activities under this subsection, which report shall be coordinated with the report provided under section 1395b–9(c)(2)(C) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title III, §302(b)(1), Dec. 8, 2003, 117 Stat. 2224; Pub. L. 110–275, title I, §§145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, 122 Stat. 2547, 2560, 2565–2568; Pub. L. 111–148, title VI, §6410(a), Mar. 23, 2010, 124 Stat. 773; Pub. L. 114–10, title V, §522(a), (b)(1), Apr. 16, 2015, 129 Stat. 176, 177; Pub. L. 114–255, div. A, title V, §5004(b)(1), Dec. 13, 2016, 130 Stat. 1191; Pub. L. 115–123, div. E, title IV, §50414(a), (b), Feb. 9, 2018, 132 Stat. 221, 222; Pub. L. 116–94, div. N, title I, §106(a), Dec. 20, 2019, 133 Stat. 3101.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title III, §302(b)(1), Dec. 8, 2003, 117 Stat. 2224; Pub. L. 110–275, title I, §§145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, 122 Stat. 2547, 2560, 2565–2568; Pub. L. 111–148, title VI, §6410(a), Mar. 23, 2010, 124 Stat. 773; Pub. L. 114–10, title V, §522(a), (b)(1), Apr. 16, 2015, 129 Stat. 176, 177; Pub. L. 114–255, div. A, title V, §5004(b)(1), Dec. 13, 2016, 130 Stat. 1191; Pub. L. 115–123, div. E, title IV, §50414(a), (b), Feb. 9, 2018, 132 Stat. 221, 222; Pub. L. 116–94, div. N, title I, §106(a), Dec. 20, 2019, 133 Stat. 3101; Pub. L. 117–286, §4(a)(252), Dec. 27, 2022, 136 Stat. 4333; Pub. L. 117–328, div. FF, title IV, §4133(a)(3), Dec. 29, 2022, 136 Stat. 5920.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(2)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
-
-The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(2)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Prior Provisions
 
 A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as added July 1, 1988, Pub. L. 100–360, title II, §202(j), 102 Stat. 719; amended Oct. 13, 1988, Pub. L. 100–485, title VI, §608(d)(5)(I), 102 Stat. 2414, provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by Pub. L. 101–234, title II, §201(a), (c), Dec. 13, 1989, 103 Stat. 1981, effective Jan. 1, 1990.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2)(D). Pub. L. 117–328 added subpar. (D).
+
+Subsec. (c)(4). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "chapter 10 of title 5" for "the Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2019</b>—Subsec. (a)(2)(A). Pub. L. 116–94 inserted ", complex rehabilitative manual wheelchairs (as determined by the Secretary), and certain manual wheelchairs (identified, as of October 1, 2018, by HCPCS codes E1235, E1236, E1237, E1238, and K0008 or any successor to such codes)" after "group 3 or higher" and substituted "such complex rehabilitative power wheelchairs, complex rehabilitative manual wheelchairs, and certain manual wheelchairs" for "such wheelchairs".
 
@@ -456,7 +462,7 @@ Subsec. (b)(10)(C) to (E). Pub. L. 115–123, §50414(a)(1)(B), added subpars. (
 
 Subsec. (b)(11), (12). Pub. L. 115–123, §50414(b), added par. (11) and redesignated former par. (11) as (12).
 
-<b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–255 substituted ", excluding certain" for "and excluding certain" andinserted before period at end ", and excluding drugs and biologicals described in section 1395u(o)(1)(D) of this title".
+<b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–255 substituted ", excluding certain" for "and excluding certain" and inserted before period at end ", and excluding drugs and biologicals described in section 1395u(o)(1)(D) of this title".
 
 <b>2015</b>—Subsec. (a)(1)(G), (H). Pub. L. 114–10, §522(a), added subpars. (G) and (H).
 
@@ -522,7 +528,7 @@ Pub. L. 116–94, div. N, title I, §106(b), Dec. 20, 2019, 133 Stat. 3101, prov
 
 "(1)
 
-In general.—Notwithstanding any other provision of law, the Secretary of Health and Human Services shall not, during the period beginning on January 1, 2020, and ending on June 30, 2021, use information on the payment determined under the competitive acquisition programs under section 1847 of the Social Security Act (42 U.S.C. 1395w–3) to adjust the payment amount that would otherwise be recognized under section 1834(a)(1)(B)(ii) of such Act (42 U.S.C. 1395m(a)(1)(B)(ii)) for wheelchair accessories (including seating systems) and seat and back cushions when furnished in connection with complex rehabilitative manual wheelchairs (as determined by the Secretary), and certain manual wheelchairs (identified, as of October 1, 2018, by HCPCS codes E1235, E1236, E1237, E1238, and K0008 or any successor to such codes).
+In general.—Notwithstanding any other provision of law, the Secretary of Health and Human Services shall not, during the period beginning on January1, 2020, and ending on June 30, 2021, use information on the payment determined under the competitive acquisition programs under section 1847 of the Social Security Act (42 U.S.C. 1395w–3) to adjust the payment amount that would otherwise be recognized under section 1834(a)(1)(B)(ii) of such Act (42 U.S.C. 1395m(a)(1)(B)(ii)) for wheelchair accessories (including seating systems) and seat and back cushions when furnished in connection with complex rehabilitative manual wheelchairs (as determined by the Secretary), and certain manual wheelchairs (identified, as of October 1, 2018, by HCPCS codes E1235, E1236, E1237, E1238, and K0008 or any successor to such codes).
 
 "(2)
 
@@ -550,7 +556,7 @@ Study.—The Comptroller General of the United States shall conduct a study on t
 
 "(B)
 
-Report.—Not later than 1 year after the first date that payments are made under section 1847 of the Social Security Act, the Comptroller General shall submit to Congress a report on the study conducted under subparagraph (A) and shall include in the report suchrecommendations as the Comptroller General determines appropriate.
+Report.—Not later than 1 year after the first date that payments are made under section 1847 of the Social Security Act, the Comptroller General shall submit to Congress a report on the study conducted under subparagraph (A) and shall include in the report such recommendations as the Comptroller General determines appropriate.
 
 "(C)
 

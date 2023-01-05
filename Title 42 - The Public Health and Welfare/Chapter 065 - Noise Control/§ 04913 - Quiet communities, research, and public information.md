@@ -52,11 +52,11 @@ To promote the development of effective State and local noise control programs, 
 
 #### References in Text
 
-The Older Americans Act, referred to in subsec. (g), probably means the Older Americans Act of 1965, Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act, referred to in subsec. (g), probably means the Older Americans Act of 1965, Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 #### Codification
 
-In subsec. (b)(2), "section 44715 of title 49" substituted for reference to section 7 of this Act, meaning section 7 of Pub. L. 92–574, which generally amended section 611 of the Federal Aviation Act of 1958 (49 App. U.S.C. 1431), on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (b)(2), "section 44715 of title 49" substituted for reference to section 7 of this Act, meaning section 7 of Pub. L. 92–574, which generally amended section 611of the Federal Aviation Act of 1958 (49 App. U.S.C. 1431), on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 

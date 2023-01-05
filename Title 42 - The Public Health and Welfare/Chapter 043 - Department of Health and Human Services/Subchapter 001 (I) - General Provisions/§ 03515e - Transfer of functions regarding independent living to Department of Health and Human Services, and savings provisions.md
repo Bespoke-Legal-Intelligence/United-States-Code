@@ -34,11 +34,11 @@ Except where otherwise expressly prohibited by law or otherwise provided by this
 
 #### (f) Rules
 
-The Administrator of the Administration for Community Living is authorized to prescribe, inaccordance with the provisions of chapters 5 and 6 of title 5, such rules and regulations as that Administrator determines necessary or appropriate to administer and manage the functions described in subsection (b) of that Administration.
+The Administrator of the Administration for Community Living is authorized to prescribe, in accordance with the provisions of chapters 5 and 6 of title 5, such rules and regulations as that Administrator determines necessary or appropriate to administer and manage the functions described in subsection (b) of that Administration.
 
 #### (g) Transfer and allocations of appropriations and personnel
 
-Except as otherwise provided in this section, the personnel employed in connection with, and the assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred by subsection (b), subject to section 1531 of title 31, shall be transferred to the Administration for Community Living. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
+Except as otherwise provided in this section, the personnel employed in connection with, andthe assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred by subsection (b), subject to section 1531 of title 31, shall be transferred to the Administration for Community Living. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 #### (h) Incidental transfers
 
@@ -82,13 +82,13 @@ A reference in any other Federal law, Executive order, rule, regulation, or dele
 
 &emsp;(1) the Commissioner of the Rehabilitation Services Administration (with regard to functions transferred under subsection (b)), shall be deemed to refer to the Administrator of the Administration for Community Living; and
 
-&emsp;(2) the Rehabilitation Services Administration (with regard to functions transferredunder subsection (b)), shall be deemed to refer to the Administration for Community Living.
+&emsp;(2) the Rehabilitation Services Administration (with regard to functions transferred under subsection (b)), shall be deemed to refer to the Administration for Community Living.
 
 #### (l) Transition
 
 The Administrator of the Administration for Community Living is authorized to utilize—
 
-&emsp;(1) the services of such officers, employees, and other personnel of the Rehabilitation Services Administration with regard to functions transferred under subsection (b); and
+&emsp;(1) the services of such officers, employees, and other personnel of the RehabilitationServices Administration with regard to functions transferred under subsection (b); and
 
 &emsp;(2) funds appropriated to such functions,
 

@@ -4,7 +4,7 @@
 
 The Secretary shall make grants, in accordance with this section, to the highest State courts in States participating in the program under part E of this subchapter, for the purpose of enabling such courts—
 
-&emsp;(1) to conduct assessments, in accordance with such requirements as the Secretary shall publish, of the role, responsibilities, and effectiveness of State courts in carrying out Statelaws requiring proceedings (conducted by or under the supervision of the courts)—
+&emsp;(1) to conduct assessments, in accordance with such requirements as the Secretary shall publish, of the role, responsibilities, and effectiveness of State courts in carrying out State laws requiring proceedings (conducted by or under the supervision of the courts)—
 
 &emsp;&emsp;(A) that implement this part and part E of this subchapter;
 
@@ -66,9 +66,9 @@ In order to be eligible to receive a grant under this section, a highest State c
 
 #### (d) Federal share
 
-Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2018 through 2022.
+Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2018 through 2023.
 
-(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374; Pub. L. 115–123, div. E, title VII, §§50741(c), 50752(d), (e), Feb. 9, 2018, 132 Stat. 256, 263; Pub. L. 116–260, div. X, §7(d), div. CC, title III, §305(b), Dec. 27, 2020, 134 Stat. 2414, 2994.)
+(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374; Pub. L. 115–123, div. E, title VII, §§50741(c), 50752(d), (e), Feb. 9, 2018, 132 Stat. 256, 263; Pub. L. 116–260, div. X, §7(d), div. CC, title III, §305(b), Dec. 27, 2020, 134 Stat. 2414, 2994; Pub. L. 117–328, div. FF, title VI, §6103(a)(4), Dec. 29, 2022, 136 Stat. 5965.)
 
 #### <b>Editorial Notes</b>
 
@@ -86,17 +86,19 @@ A prior section 438 of act Aug. 14, 1935, was classified to section 638 of this 
 
 #### Amendments
 
+<b>2022</b>—Subsec. (d). Pub. L. 117–328 substituted "2023" for "2022".
+
 <b>2020</b>—Subsec. (a)(2)(A). Pub. L. 116–260, §305(b)(1)(A)(i), inserted "in a timely and complete manner" before ", as set forth".
 
 Subsec. (a)(2)(C). Pub. L. 116–260, §305(b)(1)(A)(ii), substituted ", including by training judges, attorneys, and other legal personnel." for semicolon at end.
 
 Subsec. (a)(3), (4). Pub. L. 116–260, §305(b)(1)(B), struck out pars. (3) and (4) which read as follows:
 
-&emsp;"(3) to ensure that the safety, permanence, and well-being needs of children are met in a timely and complete manner; and
+"(3) to ensure that the safety, permanence, and well-being needs of children are met in a timely and complete manner; and
 
-&emsp;"(4)(A) to provide for the training of judges, attorneys and other legal personnel in child welfare cases; and
+"(4)(A) to provide for the training of judges, attorneys and other legal personnel in child welfare cases; and
 
-&emsp;"(B) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption."
+"(B) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption."
 
 Subsec. (b). Pub. L. 116–260, §305(b)(2), designated par. (1) as text of section and struck out par. (1) heading "In general", redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and realigned margins, in par. (1), struck out "in the case of a grant for the purpose described in subsection (a)(3)," before "a description" and inserted "use not less than 30 percent of grant funds to" before "collaborate", in par. (2), struck out "in the case of a grant for the purpose described in subsection (a)(4)," before "a demonstration", in par. (3), struck out "in the case of a grant for any purpose described in subsection (a)," before "a demonstration", and struck out former par. (2) which related to single grant application.
 
@@ -108,7 +110,7 @@ Subsec. (d). Pub. L. 116–260, §305(b)(4), substituted "2018 through 2022" for
 
 Pub. L. 116–260, §7(d), which directed substitution of "2022" for "2021", was not executed in view of the amendment by Pub. L. 116–260, §305(b)(4), to reflect the probable intent of Congress. See above.
 
-<b>2018</b>—Subsec. (b)(1). Pub. L. 115–123, §50741(c), in introductory provisions, inserted "shall provide for the training of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home," after "with respect to the child,".
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–123, §50741(c), in introductory provisions, inserted "shall provide for thetraining of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home," after "with respect to the child,".
 
 Subsec. (c)(1). Pub. L. 115–123, §50752(d)(1), substituted "2017 through 2021" for "2012 through 2016".
 
@@ -154,7 +156,7 @@ Subsec. (b). Pub. L. 109–171, §7401(a)(2), amended subsec. (b) generally. Pri
 
 Subsec. (b)(1). Pub. L. 109–239, §8(b), as amended by Pub. L. 112–34, §104(e), inserted "shall have in effect a rule requiring State courts to ensure that foster parents, pre-adoptive parents, and relative caregivers of a child in foster care under the responsibility of the State are notified of any proceeding to be held with respect to the child, and" after "highest State court" in introductory provisions.
 
-Subsec. (c). Pub. L. 109–171, §7401(a)(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in subpar. (A), inserted "of thissection for a grant described in subsection (b)(2)(A) of this section" after "subsection (b)" and substituted "subparagraph (B) of this paragraph" for "paragraph (2) of this subsection", in subpar. (B), substituted "this subparagraph" for "this paragraph" and "subparagraph (A) of this paragraph" for "paragraph (1) of this subsection" and inserted "for such a grant" after "subsection (b)", and added par. (2).
+Subsec. (c). Pub. L. 109–171, §7401(a)(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), in subpar. (A), inserted "of this section for a grant described in subsection (b)(2)(A) of this section" after "subsection (b)" and substituted "subparagraph (B) of this paragraph" for "paragraph (2) of this subsection", in subpar. (B), substituted "this subparagraph" for "this paragraph" and "subparagraph (A) of this paragraph" for "paragraph (1) of this subsection" and inserted "for such a grant" after "subsection (b)", and added par. (2).
 
 Subsec. (c)(1)(A). Pub. L. 109–288 substituted "2011" for "2006".
 
@@ -200,7 +202,7 @@ Amendment by section 50741(c) of Pub. L. 115–123 effective as if enacted on Ja
 
 Pub. L. 112–34, title I, §104(e), Sept. 30, 2011, 125 Stat. 376, provided that the amendment by section 104(e) of Pub. L. 112–34 is effective as if included in the enactment of Pub. L. 109–239.
 
-Amendment by section 104(a)–(d) of Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
+Amendment by section 104(a)–(d) of Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments underthis part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
 
 #### Effective Date of 2010 Amendment
 
@@ -248,7 +250,7 @@ Amount.—The amount of the grant awarded to a highest State court under this su
 
 &emsp;&emsp;"(A) $85,000; and
 
-&emsp;&emsp;"(B) the amount that bears the same ratio to the amount reserved under subsection (a) that remainsafter the application of paragraph (1)(A) and subparagraph (A) of this paragraph, as the number of individuals in the State in which the court is located who have not attained 21 years of age bears to the total number of such individuals in all States the highest courts of which were awarded a grant under this subsection (based on the most recent year for which data are available from the Bureau of the Census).
+&emsp;&emsp;"(B) the amount that bears the same ratio to the amount reserved under subsection (a) that remains after the application of paragraph (1)(A) and subparagraph (A) of this paragraph, as the number of individuals in the State in which the court is located who have not attained 21 years of age bears to the total number of such individuals in all States the highest courts of which were awarded a grant under this subsection (based on the most recent year for which data are available from the Bureau of the Census).
 
 &emsp;"(3)
 

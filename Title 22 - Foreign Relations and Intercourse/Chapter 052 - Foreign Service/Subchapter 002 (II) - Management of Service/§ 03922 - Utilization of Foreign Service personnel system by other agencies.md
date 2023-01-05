@@ -6,7 +6,7 @@
 
 &emsp;(A) with respect to personnel of the Foreign Agricultural Service, and
 
-&emsp;(B) with respect to other personnel of the Department of Agriculture to the extent the President determines to be necessary in orderto enable the Department of Agriculture to carry out functions which require service abroad.
+&emsp;(B) with respect to other personnel of the Department of Agriculture to the extent the President determines to be necessary in order to enable the Department of Agriculture to carry out functions which require service abroad.
 
 (3) The Secretary of Commerce may utilize the Foreign Service personnel system in accordance with this chapter—
 
@@ -46,7 +46,7 @@ Pub. L. 105–277, §1335(k)(1), substituted "Broadcasting Board of Governors" f
 
 #### Change of Name
 
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(21) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 "Director of the United States Information Agency" substituted for "Director of the International Communication Agency" in subsec. (a)(1), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title.
 

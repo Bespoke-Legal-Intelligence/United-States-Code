@@ -46,7 +46,9 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;&emsp;(I) relates to the provision of child support, alimony payments, or marital property rights to a spouse, former spouse, child, or other dependent of a participant, and
 
-&emsp;&emsp;(II) is made pursuant to a State domestic relations law (including a community property law).
+&emsp;&emsp;(II) is made pursuant to a State or Tribal domestic relations law (including a community property law).
+
+> &emsp;For purposes of clause (ii)(II), the term "Tribal" with respect to a domestic relations law means such a law which is issued by or under the laws of an Indian tribal government (as defined in section 7701(a)(40) of title 26), a subdivision of such an Indian tribal government, or an agency or instrumentality of either.
 
 (C) A domestic relations order meets the requirements of this subparagraph only if such order clearly specifies—
 
@@ -72,7 +74,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;(II) as if the participant had retired on the date on which such payment is to begin under such order (but taking into account only the present value of benefits actually accrued and not taking into account the present value of any employer subsidy for early retirement), and
 
-&emsp;(III) in any form in which such benefits may be paid under the plan to the participant (other than in the form of a joint and survivor annuity with respect to the alternate payee and his or her subsequent spouse).
+&emsp;(III) in any form in which such benefits may be paid under the plan to the participant\(other than in the form of a joint and survivor annuity with respect to the alternate payee and his or her subsequent spouse).
 
 > For purposes of subclause (II), the interest rate assumption used in determining the present value shall be the interest rate specified in the plan or, if no rate is specified, 5 percent.
 
@@ -180,7 +182,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this part, the fiduciary of a pension plan that issubject to the additional funding requirements of section 1083(j)(4) of this title shall not permit a prohibited payment to be made from a plan during a period in which such plan has a liquidity shortfall (as defined in section 1083(j)(4)(E)(i) of this title).
+&emsp;Notwithstanding any other provision of this part, the fiduciary of a pension plan that is subject to the additional funding requirements of section 1083(j)(4) of this title shall not permit a prohibited payment to be made from a plan during a period in which such plan has a liquidity shortfall (as defined in section 1083(j)(4)(E)(i) of this title).
 
 #### (2) Prohibited payment
 
@@ -210,7 +212,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) In general
 
-&emsp;&emsp;If a participant of a defined benefit plan which is a single-employer plan is entitled to an unpredictable contingent event benefit payable with respect to any event occurring during any plan year, the plan shall provide that such benefit may not be provided if the adjusted funding target attainment percentage for such plan year—
+&emsp;&emsp;If a participant of a defined benefit plan which is a single-employer plan is entitled to an unpredictable contingent event benefit payable with respect to any event occurring during any plan year, the plan shall providethat such benefit may not be provided if the adjusted funding target attainment percentage for such plan year—
 
 &emsp;&emsp;&emsp;(i) is less than 60 percent, or
 
@@ -258,7 +260,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (A) Funding percentage less than 60 percent
 
-&emsp;&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted fundingtarget attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
+&emsp;&emsp;A defined benefit plan which is a single-employer plan shall provide that, in any case in which the plan's adjusted funding target attainment percentage for a plan year is less than 60 percent, the plan may not pay any prohibited payment after the valuation date for the plan year.
 
 #### (B) Bankruptcy
 
@@ -282,7 +284,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (II) Treatment of beneficiaries
 
-&emsp;&emsp;&emsp;&emsp;For purposes of this clause, a participant and any beneficiary on his behalf (including an alternate payee, as defined in subsection (d)(3)(K)) shall be treated as 1 participant. If the accrued benefit of a participant is allocated to such an alternate payee and 1 or more other persons, the amount under clause (i) shall be allocated among such persons in the same manner as the accrued benefit is allocated unless the qualified domestic relations order (as defined in subsection (d)(3)(B)(i)) provides otherwise.
+&emsp;&emsp;&emsp;&emsp;For purposes of this clause, a participant and any beneficiary on his behalf\(including an alternate payee, as defined in subsection (d)(3)(K)) shall be treated as 1 participant. If the accrued benefit of a participant is allocated to such an alternate payee and 1 or more other persons, the amount under clause (i) shall be allocated among such persons in the same manner as the accrued benefit is allocated unless the qualified domestic relations order (as defined in subsection (d)(3)(B)(i)) provides otherwise.
 
 #### (D) Exception
 
@@ -324,7 +326,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;&emsp;&emsp;&emsp;(I) a bond issued by a corporate surety company that is an acceptable surety for purposes of section 1112 of this title,
 
-&emsp;&emsp;&emsp;&emsp;(II) cash, or United States obligations which mature in 3 years or less, held inescrow by a bank or similar financial institution, or
+&emsp;&emsp;&emsp;&emsp;(II) cash, or United States obligations which mature in 3 years or less, held in escrow by a bank or similar financial institution, or
 
 &emsp;&emsp;&emsp;&emsp;(III) such other form of security as is satisfactory to the Secretary of the Treasury and the parties involved.
 
@@ -414,7 +416,7 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 #### (10) Secretarial authority for plans with alternate valuation date
 
-&emsp;In the case of a plan which has designated a valuation date other than the first day of the plan year, the Secretary of the Treasury may prescribe rules for the application of this subsection which are necessary to reflect the alternate valuation date.
+&emsp;In the case of a plan which has designated a valuation date other than the first day of theplan year, the Secretary of the Treasury may prescribe rules for the application of this subsection which are necessary to reflect the alternate valuation date.
 
 #### \[(11) Repealed. Pub. L. 113–295, div. A, title II, §221(a)(57)(G)(ii), Dec. 19, 2014, 128 Stat. 4047\]
 
@@ -422,7 +424,77 @@ In the case of a plan covered by section 1350 of this title, upon termination of
 
 &emsp;This subsection shall not apply to a CSEC plan (as defined in section 1060(f) of this title).
 
-(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299; Pub. L. 113–97, title I, §102(b)(3), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–159, title II, §2003(c)(2), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(ii), (F)(ii), (G)(ii), Dec. 19, 2014, 128 Stat. 4046, 4047.)
+#### (h) Special rules applicable to benefit overpayments
+
+#### (1) General rule
+
+&emsp;In the case of an inadvertent benefit overpayment by any pension plan, the responsible plan fiduciary shall not be considered to have failed to comply with the requirements of this subchapter merely because such fiduciary determines, in the exercise of its discretion, not to seek recovery of all or part of such overpayment from—
+
+&emsp;&emsp;(A) any participant or beneficiary,
+
+&emsp;&emsp;(B) any plan sponsor of, or contributing employer to—
+
+&emsp;&emsp;&emsp;(i) an individual account plan, provided that the amount needed to prevent or restore any impermissible forfeiture from any participant's or beneficiary's account arising in connection with the overpayment is, separately from and independently of the overpayment, allocated to such account pursuant to the nonforfeitability requirements of section 1053 of this title (for example, out of the plan's forfeiture account, additional employer contributions, or recoveries from those responsible for the overpayment), or
+
+&emsp;&emsp;&emsp;(ii) a defined benefit pension plan subject to the funding rules in part 3 of this subtitle B, unless the responsible plan fiduciary determines, in the exercise of its fiduciary discretion, that failure to recover all or part of the overpayment faster than required under such funding rules would materially affect the plan's ability to pay benefits due to other participants and beneficiaries, or
+
+&emsp;&emsp;(C) any fiduciary of the plan, other than a fiduciary (including a plan sponsor or contributing employer acting in a fiduciary capacity) whose breach of its fiduciary duties resulted in such overpayment, provided that if the plan has established prudent procedures to prevent and minimize overpayment of benefits and the relevant plan fiduciaries have followed such procedures, an inadvertent benefit overpayment will not give rise to a breach of fiduciary duty.
+
+#### (2) Reduction in future benefit payments and recovery from responsible party
+
+&emsp;Paragraph (1) shall not fail to apply with respect to any inadvertent benefit overpayment merely because, after discovering such overpayment, the responsible plan fiduciary—
+
+&emsp;&emsp;(A) reduces future benefit payments to the correct amount provided for under the terms of the plan, or
+
+&emsp;&emsp;(B) seeks recovery from the person or persons responsible for the overpayment.
+
+#### (3) Employer funding obligations
+
+&emsp;Nothing in this subsection shall relieve an employer of any obligation imposed on it to make contributions to a plan to meet the minimum funding standards under part 3 of this subtitle B or to prevent or restore an impermissible forfeiture in accordance with section 1053 of this title.
+
+#### (4) Recoupment from participants and beneficiaries
+
+&emsp;If the responsible plan fiduciary, in the exercise of its fiduciary discretion, decides to seek recoupment from a participant or beneficiary of all or part of an inadvertent benefit overpayment made by the plan to such participant or beneficiary, it may do so, subject to the following conditions:
+
+&emsp;&emsp;(A) No interest or other additional amounts (such as collection costs or fees) are sought on overpaid amounts for any period.
+
+&emsp;&emsp;(B) If the plan seeks to recoup past overpayments of a non-decreasing annuity by reducing future benefit payments—
+
+&emsp;&emsp;&emsp;(i) the reduction ceases after the plan has recovered the full dollar amount of the overpayment,
+
+&emsp;&emsp;&emsp;(ii) the amount recouped each calendar year does not exceed 10 percent of the full dollar amount of the overpayment, and
+
+&emsp;&emsp;&emsp;(iii) future benefit payments are not reduced to below 90 percent of the periodic amount otherwise payable under the terms of the plan.
+
+> &emsp;&emsp;Alternatively, if the plan seeks to recoup past overpayments of a non-decreasing annuity through one or more installment payments, the sum of such installment payments in any calendar year does not exceed the sum of the reductions that would be permitted in such year under the preceding sentence.
+
+&emsp;&emsp;(C) If the plan seeks to recoup past overpayments of a benefit other than a non-decreasing annuity, the plan satisfies requirements developed by the Secretary of Labor for purposes of this subparagraph.
+
+&emsp;&emsp;(D) Efforts to recoup overpayments are—
+
+&emsp;&emsp;&emsp;(i) not accompanied by threats of litigation, unless the responsible plan fiduciary makes a determination that there is a reasonable likelihood of success to recover an amount greater than the cost of recovery, and
+
+&emsp;&emsp;&emsp;(ii) not made through a collection agency or similar third party, unless the participant or beneficiary ignores or rejects efforts to recoup the overpayment following either a final judgment in Federal or State court or a settlement between the participant or beneficiary and the plan, in either case authorizing such recoupment.
+
+&emsp;&emsp;(E) Recoupment of past overpayments to a participant is not sought from any beneficiary of the participant, including a spouse, surviving spouse, former spouse, or other beneficiary.
+
+&emsp;&emsp;(F) Recoupment may not be sought if the first overpayment occurred more than 3 years before the participant or beneficiary is first notified in writing of the error, except in the case of fraud or misrepresentation by the participant.
+
+&emsp;&emsp;(G) A participant or beneficiary from whom recoupment is sought is entitled to contest all or part of the recoupment pursuant to the claims procedures of the plan that made the overpayment to the extent such procedures are consistent with section 1133 of this title and in the case of an inadvertent benefit overpayment from a plan to which paragraph (1) applies that is transferred to an eligible retirement plan (as defined in section 402(c)(8)(B) of title 26) by or on behalf of a participant or beneficiary—
+
+&emsp;&emsp;&emsp;(i) such plan shall notify the plan receiving the rollover of such dispute,
+
+&emsp;&emsp;&emsp;(ii) the plan receiving the rollover shall retain such overpayment on behalf of the participant or beneficiary (and shall be entitled to treat such overpayment as plan assets) pending the outcome of such procedures, and
+
+&emsp;&emsp;&emsp;(iii) the portion of such overpayment with respect to which recoupment is sought on behalf of the plan shall be permitted to be returned to such plan if it is determined to be an overpayment (and the plans making and receiving such transfer shall be treated as permitting such transfer).
+
+&emsp;&emsp;(H) In determining the amount of recoupment to seek, the responsible plan fiduciary may take into account the hardship that recoupment likely would impose on the participant or beneficiary.
+
+#### (5) Effect of culpability
+
+&emsp;Subparagraphs (A) through (F) of paragraph (4) shall not apply to protect a participant or beneficiary who is culpable. For purposes of this paragraph, a participant or beneficiary is culpable if the individual bears responsibility for the overpayment (such as through misrepresentations or omissions that led to the overpayment), or if the individual knew that the benefit payment or payments were materially in excess of the correct amount. Notwithstanding the preceding sentence, an individual is not culpable merely because the individual believed the benefit payment or payments were or might be in excess of the correct amount, if the individual raised that question with an authorized plan representative and was told the payment or payments were not in excess of the correct amount.
+
+(Pub. L. 93–406, title I, §206, Sept. 2, 1974, 88 Stat. 864; Pub. L. 98–397, title I, §104(a), Aug. 23, 1984, 98 Stat. 1433; Pub. L. 99–514, title XVIII, §1898(c)(2)(B), (4)(B), (5), (6)(B), (7)(B), Oct. 22, 1986, 100 Stat. 2952–2954; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(c)(8), (9)(A), Dec. 19, 1989, 103 Stat. 2445, 2449; Pub. L. 103–465, title VII, §§761(a)(9)(B)(i), 776(c)(2), Dec. 8, 1994, 108 Stat. 5033, 5048; Pub. L. 105–34, title XV, §1502(a), Aug. 5, 1997, 111 Stat. 1058; Pub. L. 109–280, title I, §§103(a), 108(a)(9), (10), formerly §107(a)(9), (10), title IV, §410(b), Aug. 17, 2006, 120 Stat. 809, 819, 935, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297; Pub. L. 110–458, title I, §101(c)(1)(B)–(G), Dec. 23, 2008, 122 Stat. 5097; Pub. L. 111–192, title II, §203(a)(1), June 25, 2010, 124 Stat. 1299; Pub. L. 113–97, title I, §102(b)(3), Apr. 7, 2014, 128 Stat. 1116; Pub. L. 113–159, title II, §2003(c)(2), Aug. 8, 2014, 128 Stat. 1850; Pub. L. 113–295, div. A, title II, §221(a)(57)(E)(ii), (F)(ii), (G)(ii), Dec. 19, 2014, 128 Stat. 4046, 4047; Pub. L. 117–328, div. T, title III, §§301(a), 339(b), Dec. 29, 2022, 136 Stat. 5335, 5375.)
 
 #### <b>Editorial Notes</b>
 
@@ -435,6 +507,12 @@ The Railroad Retirement Act of 1937, referred to in subsec. (b), is act Aug. 29,
 This chapter, referred to in subsecs. (e)(4) and (g)(5)(C)(i), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(3)(B). Pub. L. 117–328, §339(b)(2), inserted concluding provisions.
+
+Subsec. (d)(3)(B)(ii)(II). Pub. L. 117–328, §339(b)(1), inserted "or Tribal" after "State".
+
+Subsec. (h). Pub. L. 117–328, §301(a), added subsec. (h).
 
 <b>2014</b>—Subsec. (g)(3)(B). Pub. L. 113–159 substituted "of such plan (determined by not taking into account any adjustment of segment rates under section 1083(h)(2)(C)(iv) of this title)" for "of such plan".
 
@@ -508,6 +586,10 @@ Subsec. (d)(3)(N). Pub. L. 99–514, §1898(c)(4)(B), redesignated subpar. (L) a
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by section 339(b) of Pub. L. 117–328 applicable to domestic relations orders received by plan administrators after Dec. 31, 2022, including any such order which is submitted for reconsideration after such date, see section 339(c) of Pub. L. 117–328, set out as a note under section 414 of Title 26, Internal Revenue Code.
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of Title 26, Internal Revenue Code.
@@ -544,7 +626,7 @@ In general.—Except as provided in paragraph (2), the amendments made by this s
 
 Contributing sponsor.—The amendment made by subsection (a)(11) \[amending section 1301 of this title\] shall be effective as if included in the Pension Protection Act \[Pub. L. 100–203, title IX, subtitle D, part II, §§9302–9346\]."
 
-Pub. L. 103–465, title VII, §776(e), Dec. 8, 1994, 108 Stat. 5048, provided that: "The provisions of this section \[enacting section 1350 of this title and amending this section and sections 1303, 1305, and 1341 of this title and section 401 of Title 26, Internal Revenue Code\] shall be effective with respect to distributions that occur in plan years commencing after final regulations implementing these provisions are prescribed by the Pension Benefit Guaranty Corporation." \[Final implementing regulations were issued Nov. 22, 1995, effective for distributions in plan years beginning on or after Jan. 1, 1996. See 60 F.R. 61740.\]
+Pub. L. 103–465, title VII, §776(e), Dec. 8, 1994, 108 Stat. 5048, provided that: "The provisions of this section \[enacting section 1350 of this title and amending this section and sections 1303, 1305, and 1341 of this title andsection 401 of Title 26, Internal Revenue Code\] shall be effective with respect to distributions that occur in plan years commencing after final regulations implementing these provisions are prescribed by the Pension Benefit Guaranty Corporation." \[Final implementing regulations were issued Nov. 22, 1995, effective for distributions in plan years beginning on or after Jan. 1, 1996. See 60 F.R. 61740.\]
 
 #### Effective Date of 1989 Amendment
 

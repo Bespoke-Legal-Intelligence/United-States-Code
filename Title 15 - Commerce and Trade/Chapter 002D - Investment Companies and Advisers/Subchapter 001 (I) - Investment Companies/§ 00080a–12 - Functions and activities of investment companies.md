@@ -46,7 +46,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;(iii) the purchase or acquisition is made pursuant to an arrangement with the issuer of, or principal underwriter for the issuer of, the security whereby such investment company is obligated—
 
-&emsp;&emsp;(aa) either to seek instructions from its security holders with regard to the voting of all proxies with respect to such security and to vote such proxies only in accordance with such instructions, or to vote the shares held by it in the same proportion as the vote of all other holders of such security, and
+&emsp;&emsp;(aa) either to seek instructions from its security holders with regard to the voting of all proxies with respect to such security andto vote such proxies only in accordance with such instructions, or to vote the shares held by it in the same proportion as the vote of all other holders of such security, and
 
 &emsp;&emsp;(bb) in the event that such investment company is not a registered investment company, to refrain substituting such security unless the Commission shall have approved such substitution in the manner provided in section 80a–26 of this title.
 
@@ -68,7 +68,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;&emsp;(aa) securities of the acquired company, the acquiring company does not pay and is not assessed any charges or fees for distribution-related activities, unless the acquiring company does not charge a sales load or other fees or charges for distribution-related activities; or
 
-&emsp;&emsp;(bb) securities of the acquiring company, any sales loads and other distribution-related fees charged, when aggregated withany sales load and distribution-related fees paid by the acquiring company with respect to securities of the acquired company, are not excessive under rules adopted pursuant to section 80a–22(b) of this title or section 80a–22(c) of this title by a securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–3\], or the Commission;
+&emsp;&emsp;(bb) securities of the acquiring company, any sales loads and other distribution-related fees charged, when aggregated with any sales load and distribution-related fees paid by the acquiring company with respect to securities of the acquired company, are not excessive under rules adopted pursuant to section 80a–22(b) of this title or section 80a–22(c) of this title by a securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–3\], or the Commission;
 
 &emsp;(IV) the acquired company has a policy that prohibits it from acquiring any securities of registered open-end investment companies or registered unit investment trusts in reliance on this subparagraph or subparagraph (F); and
 
@@ -84,7 +84,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 (2) It shall be unlawful for any registered investment company and any company or companies controlled by such registered investment company to purchase or otherwise acquire any security (except a security received as a dividend or as a result of a plan of reorganization of any company, other than a plan devised for the purpose of evading the provisions of this paragraph) issued by any insurance company of which such registered investment company and any company or companies controlled by such registered company do not, at the time of such purchase or acquisition, own in the aggregate at least 25 per centum of the total outstanding voting stock, if such registered company and any company or companies controlled by it own in the aggregate, or as a result of such purchase or acquisition will own in the aggregate, more than 10 per centum of the total outstanding voting stock of such insurance company.
 
-(3) It shall be unlawful for any registered investment company and any company or companies controlled by such registered investment company to purchase or otherwise acquire any security issued by or any other interest in the business of any person who is a broker, a dealer, is engaged in the business of underwriting, or is either an investment adviser of an investment company or an investment adviser registered under subchapter II of this chapter, unless (A) such person is a corporation all the outstanding securities of which (other than short-term paper, securities representing bank loans, and directors' qualifying shares) are, or after such acquisition will be, owned by one or more registered investment companies; and (B) such person is primarily engaged in the business of underwriting and distributing securities issued by other persons, selling securities to customers, or any one or more of such or related activities, and the gross income of such person normally is derived principally from such business or related activities.
+(3) It shall be unlawful for any registered investment company and any company or companies controlled by such registered investment company to purchase or otherwise acquire any security issued by or any other interest in thebusiness of any person who is a broker, a dealer, is engaged in the business of underwriting, or is either an investment adviser of an investment company or an investment adviser registered under subchapter II of this chapter, unless (A) such person is a corporation all the outstanding securities of which (other than short-term paper, securities representing bank loans, and directors' qualifying shares) are, or after such acquisition will be, owned by one or more registered investment companies; and (B) such person is primarily engaged in the business of underwriting and distributing securities issued by other persons, selling securities to customers, or any one or more of such or related activities, and the gross income of such person normally is derived principally from such business or related activities.
 
 #### (e) Acquisition of securities issued by corporations in business of underwriting, furnishing capital to industry, etc.
 
@@ -112,7 +112,7 @@ Notwithstanding the provisions of this section any registered investment company
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsec. (d)(1)(B), (E)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (d)(1)(B), (E)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified generally to 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments
 

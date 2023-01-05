@@ -10,7 +10,7 @@ From the sums appropriated under section 10403 of this title and available for g
 
 #### (b) Population
 
-For the purpose of this section, the population of each State, and the total population of all the States, shall be determined by the Secretary on the basis of the most recent census data available to the Secretary, and the Secretary shall use for such purpose, if available, the annual interim current census data produced by the Secretary of Commerce pursuant to section 181 of title 13.
+For the purpose of this section, the population of each State, and the total population of all theStates, shall be determined by the Secretary on the basis of the most recent census data available to the Secretary, and the Secretary shall use for such purpose, if available, the annual interim current census data produced by the Secretary of Commerce pursuant to section 181 of title 13.
 
 #### (c) Ratable reduction
 
@@ -22,7 +22,7 @@ If, at the end of the sixth month of any fiscal year for which sums are appropri
 
 #### (e) Continued availability of funds
 
-All funds allotted to a State for a fiscal year under this section, and made available to such State in a grant under section 10406(a) of this title, shall remain available for obligation by the State until the end of the following fiscal year. All such funds that are not obligated bythe State by the end of the following fiscal year shall be made available to the Secretary for discretionary activities under section 10414 of this title. Such funds shall remain available for obligation, and for expenditure by a recipient of the funds under section 10414 of this title, for not more than 1 year from the date on which the funds are made available to the Secretary.
+All funds allotted to a State for a fiscal year under this section, and made available to such State in a grant under section 10406(a) of this title, shall remain available for obligation by the State until the end of the following fiscal year. All such funds that are not obligated by the State by the end of the following fiscal year shall be made available to the Secretary for discretionary activities under section 10414 of this title. Such funds shall remain available for obligation, and for expenditure by a recipient of the funds under section 10414 of this title, for not more than 1 year from the date on which the funds are made available to the Secretary.
 
 #### (f) Definition
 

@@ -22,7 +22,7 @@ The Secretary may accept a certification, by a Federal, State, or local governme
 
 #### (2) Other determinations
 
-&emsp;In making determinations other than those described in paragraph (1) as to the causationor severity of an injury, the Secretary shall employ a preponderance of the evidence standard and take into consideration all relevant medical and scientific evidence presented for consideration, and may obtain and consider the views of qualified medical experts.
+&emsp;In making determinations other than those described in paragraph (1) as to the causation or severity of an injury, the Secretary shall employ a preponderance of the evidence standard and take into consideration all relevant medical and scientific evidence presented for consideration, and may obtain and consider the views of qualified medical experts.
 
 #### (d) Deadline for filing request
 

@@ -8,7 +8,7 @@ Any person, including the Fund, who pays compensation pursuant to this Act to an
 
 #### (1) In general
 
-&emsp;If a responsible party, a guarantor, or the Fund has made payment to a claimant for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled, subrogation under subsection (a) shall apply only with respect to the portion of the claim reflected in the paid interim claim.
+&emsp;If a responsible party, a guarantor, or the Fund has made payment to a claimant for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled, subrogation under subsection (a) shall apply only withrespect to the portion of the claim reflected in the paid interim claim.
 
 #### (2) Final damages
 
@@ -28,7 +28,7 @@ The head of any department or agency responsible for recovering amounts for whic
 
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 #### Amendments
 

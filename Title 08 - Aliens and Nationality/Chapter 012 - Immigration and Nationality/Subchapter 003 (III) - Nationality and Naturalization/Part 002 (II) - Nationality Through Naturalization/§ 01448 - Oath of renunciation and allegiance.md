@@ -16,7 +16,7 @@ Notwithstanding section 1421(b) of this title, an individual may be granted an e
 
 The Attorney General shall prescribe rules and procedures to ensure that the ceremonies conducted by the Attorney General for the administration of oaths of allegiance under this section are public, conducted frequently and at regular intervals, and are in keeping with the dignity of the occasion.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §337, 66 Stat. 258; Pub. L. 97–116, §18(o), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title IV, §407(c)(18), (d)(15), Nov. 29, 1990, 104 Stat. 5041, 5044; Pub. L. 102–232, title I, §102(b)(2), title III, §305(i), Dec. 12, 1991, 105 Stat. 1736, 1750; Pub. L. 106–448, §1, Nov. 6, 2000, 114 Stat. 1939.)
+(June 27, 1952, ch. 477, title III, ch. 2, §337, 66 Stat. 258; Pub. L. 97–116, §18(o), Dec. 29, 1981, 95Stat. 1621; Pub. L. 101–649, title IV, §407(c)(18), (d)(15), Nov. 29, 1990, 104 Stat. 5041, 5044; Pub. L. 102–232, title I, §102(b)(2), title III, §305(i), Dec. 12, 1991, 105 Stat. 1736, 1750; Pub. L. 106–448, §1, Nov. 6, 2000, 114 Stat. 1939.)
 
 #### <b>Editorial Notes</b>
 
@@ -28,7 +28,7 @@ The Attorney General shall prescribe rules and procedures to ensure that the cer
 
 Pub. L. 102–232, §305(i), struck out "before" after "may be taken".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–649, §407(c)(18), (d)(15)(A), substituted "applied" for "petitioned" and "applicant" for "petitioner" in first sentence, "in a public ceremony before the Attorney General or a courtwith jurisdiction under section 1421(b) of this title" for "in open court", "Attorney General" for "naturalization court" wherever appearing in second and fourth sentences, and "Attorney General" for "court" before "the child" in fourth sentence.
+<b>1990</b>—Subsec. (a). Pub. L. 101–649, §407(c)(18), (d)(15)(A), substituted "applied" for "petitioned" and "applicant" for "petitioner" in first sentence, "in a public ceremony before the Attorney General or a court with jurisdiction under section 1421(b) of this title" for "in open court", "Attorney General" for "naturalization court" wherever appearing in second and fourth sentences, and "Attorney General" for "court" before "the child" in fourth sentence.
 
 Subsec. (b). Pub. L. 101–649, §407(c)(18), (d)(15)(B), substituted "applying" for "petitioning", "applicant" for "petitioner", and "in the same public ceremony in which the oath of allegiance is administered" for "in open court in the court in which the petition for naturalization is made", and struck out "in the court" after "shall be recorded".
 

@@ -72,7 +72,7 @@
 
 #### (D) Identification of disclosure recipients
 
-&emsp;&emsp;At the request of the head of an authorized investigative agency described in subsection (a), or a designee, any person making or intending to make a disclosure under clause (i) or (iii) of subparagraph (A) shall identify to the head of the authorized investigativeagency or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
+&emsp;&emsp;At the request of the head of an authorized investigative agency described in subsection (a), or a designee, any person making or intending to make a disclosure under clause (i) or (iii) of subparagraph (A) shall identify to the head of the authorized investigative agency or such designee the person to whom such disclosure will be made or to whom such disclosure was made prior to the request.
 
 #### (c) Judicial review
 
@@ -106,7 +106,7 @@ An agency receiving records or information pursuant to a request under this sect
 
 #### (g) Construction of section
 
-Nothing in this section may be construed to affect the authority of an investigative agency to obtain information pursuant to the Right to Financial Privacy Act (12 U.S.C. 3401 et seq.) or the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.).
+Nothing in this section may be construed to affect the authority of an investigative agency to obtain information pursuant to the Right to Financial Privacy Act (12 U.S.C. 3401 et seq.) orthe Fair Credit Reporting Act (15 U.S.C. 1681 et seq.).
 
 (July 26, 1947, ch. 343, title VIII, §802, as added Pub. L. 103–359, title VIII, §802(a), Oct. 14, 1994, 108 Stat. 3436; amended Pub. L. 109–177, title I, §116(f), Mar. 9, 2006, 120 Stat. 216; Pub. L. 109–178, §4(e), Mar. 9, 2006, 120 Stat. 281; Pub. L. 114–23, title V, §§502(e), 503(e), June 2, 2015, 129 Stat. 287, 290.)
 
@@ -114,9 +114,9 @@ Nothing in this section may be construed to affect the authority of an investiga
 
 #### References in Text
 
-The Right to Financial Privacy Act, referred to in subsec. (g), probably means the Right to Financial Privacy Act of 1978, which is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, as amended, and is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
+The Right to Financial Privacy Act, referred to in subsec. (g), probably means the Right to Financial Privacy Act of 1978, which is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, and is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
-The Fair Credit Reporting Act, referred to in subsec. (g), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1601 of Title 15 and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (g), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under section 1601 of Title 15 and Tables.
 
 #### Codification
 

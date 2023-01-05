@@ -14,7 +14,7 @@ The following items shall not be included in gross income of a foreign corporati
 
 #### (3) Railroad rolling stock of foreign corporations
 
-&emsp;Earnings derived from payments by a common carrier for the use on a temporary basis (not expected to exceed a total of 90 days in any taxable year) of railroad rolling stock owned by a corporation of a foreign country which grants an equivalent exemption to corporations organized in the United States.
+&emsp;Earnings derived from payments by a common carrier for the use on a temporary basis (not expected to exceed a total of 90 days inany taxable year) of railroad rolling stock owned by a corporation of a foreign country which grants an equivalent exemption to corporations organized in the United States.
 
 #### (4) Special rules
 
@@ -52,13 +52,13 @@ The earnings derived from the ownership or operation of a communications satelli
 
 &emsp;For purposes of paragraph (1), stock owned (directly or indirectly) by or for a corporation, partnership, trust, or estate shall be treated as being owned proportionately by its shareholders, partners, or beneficiaries. Stock considered to be owned by a person by reason of the application of the preceding sentence shall, for purposes of applying such sentence, be treated as actually owned by such person.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 283; Pub. L. 90–622, §1(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L.94–164, §6(a), Dec. 23, 1975, 89 Stat. 975; Pub. L. 99–514, title XII, §1212(c)(3)–(5), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(1), (2)(A), (5), Nov. 10, 1988, 102 Stat. 3499, 3500; Pub. L. 101–239, title VII, §7811(i)(8)(D), (10), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §419(b), Oct. 22, 2004, 118 Stat. 1513.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 283; Pub. L. 90–622, §1(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–164, §6(a), Dec. 23, 1975, 89 Stat. 975; Pub. L. 99–514, title XII, §1212(c)(3)–(5), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(1), (2)(A), (5), Nov. 10, 1988, 102 Stat. 3499, 3500; Pub. L. 101–239, title VII, §7811(i)(8)(D), (10), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 108–357, title IV, §419(b), Oct. 22, 2004, 118 Stat. 1513.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Communications Satellite Act of 1962, referred to in subsec. (b), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended, which is classified generally to chapter 6 (§701 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 47 and Tables.
+The Communications Satellite Act of 1962, referred to in subsec. (b), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, which is classified generally to chapter 6 (§701 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 47 and Tables.
 
 #### Amendments
 

@@ -36,7 +36,7 @@ Standards of Conduct.—While receiving instruction at the National Defense Univ
 
 Use of Funds.—Amounts received by the National Defense University for instruction of students enrolled under this section shall be retained by the university to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the university.
 
-(Added Pub. L. 107–107, div. A, title V, §528(a)(1), Dec. 28, 2001, 115 Stat. 1102; amended Pub. L.111–84, div. A, title V, §526, Oct. 28, 2009, 123 Stat. 2288; Pub. L. 111–383, div. A, title V, §592, Jan. 7, 2011, 124 Stat. 4232.)
+(Added Pub. L. 107–107, div. A, title V, §528(a)(1), Dec. 28, 2001, 115 Stat. 1102; amended Pub. L. 111–84, div. A, title V, §526, Oct. 28, 2009, 123 Stat. 2288; Pub. L. 111–383, div. A, title V, §592, Jan. 7, 2011, 124 Stat. 4232.)
 
 #### <b>Editorial Notes</b>
 

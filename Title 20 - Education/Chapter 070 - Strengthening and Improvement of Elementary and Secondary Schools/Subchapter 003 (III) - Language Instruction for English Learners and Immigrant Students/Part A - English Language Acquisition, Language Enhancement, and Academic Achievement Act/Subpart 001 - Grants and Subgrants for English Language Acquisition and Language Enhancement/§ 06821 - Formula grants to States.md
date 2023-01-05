@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of each State educational agency having a plan approved by the Secretary for afiscal year under section 6823 of this title, the Secretary shall make a grant for the year to the agency for the purposes specified in subsection (b). The grant shall consist of the allotment determined for the State educational agency under subsection (c).
+In the case of each State educational agency having a plan approved by the Secretary for a fiscal year under section 6823 of this title, the Secretary shall make a grant for the year to the agency for the purposes specified in subsection (b). The grant shall consist of the allotment determined for the State educational agency under subsection (c).
 
 #### (b) Use of funds
 
@@ -18,7 +18,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 &emsp;Subject to paragraph (3), each State educational agency receiving a grant under subsection (a) may reserve not more than 5 percent of the agency's allotment under subsection (c) to carry out one or more of the following activities:
 
-&emsp;&emsp;(A) Establishing and implementing, with timely and meaningful consultation with local educational agencies representing the geographic diversity of the State, standardized statewide entrance and exit procedures, including a requirement that all students who may be English learners are assessed for such status within 30 days of enrollment in a school in the State.
+&emsp;&emsp;(A) Establishing and implementing, with timely and meaningful consultation with local educational agencies representing the geographic diversity of the State, standardized statewide entrance and exit procedures, including a requirement that all students who may be English learners are assessed forsuch status within 30 days of enrollment in a school in the State.
 
 &emsp;&emsp;(B) Providing effective teacher and principal preparation, effective professional development activities, and other effective activities related to the education of English learners, which may include assisting teachers, principals, and other educators in—
 
@@ -84,7 +84,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 #### (D) Special rule for Puerto Rico
 
-&emsp;&emsp;The total amount allotted to Puerto Rico for any fiscal year under subparagraph (A) shall not exceed 0.5 percent of the total amount allotted to all States for that fiscal year.
+&emsp;&emsp;The total amount allotted to Puerto Rico for any fiscal year under subparagraph (A)shall not exceed 0.5 percent of the total amount allotted to all States for that fiscal year.
 
 #### (3) Use of data for determinations
 

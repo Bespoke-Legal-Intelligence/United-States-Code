@@ -12,7 +12,7 @@ The reporting requirements of this subchapter are in addition to and not in lieu
 
 (1) The Department of State, the Department of Defense, the Department of Commerce, the Department of Energy, the Commission, and, with regard to subparagraph (B), the Director of Central Intelligence, shall keep the Committees on Foreign Relations and Governmental Affairs of the Senate and the Committee on International Relations of the House of Representatives fully and currently informed with respect to—
 
-&emsp;(A) their activities to carry out the purposes and policies of this chapter and to otherwiseprevent proliferation, including the proliferation of nuclear, chemical, or biological weapons, or their means of delivery; and
+&emsp;(A) their activities to carry out the purposes and policies of this chapter and to otherwise prevent proliferation, including the proliferation of nuclear, chemical, or biological weapons, or their means of delivery; and
 
 &emsp;(B) the current activities of foreign nations which are of significance from the proliferation standpoint.
 
@@ -82,5 +82,5 @@ Requirement to Provide Information.—The head of each department and agency des
 
 "(b)
 
-Issuance of Directives.—Not later than February 1, 2000, the Secretary of State, the Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, the Director of Central Intelligence, and the Chairman of the Nuclear Regulatory Commission shall issue directives, which shall provide access to information, including information contained in special access programs, to implement their responsibilities under subsections (c) and (d) of section 602 of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c) and (d)). Copies of such directives shall be forwarded promptlyto the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives upon the issuance of the directives."
+Issuance of Directives.—Not later than February 1, 2000, the Secretary of State, the Secretary of Defense, the Secretary of Commerce, the Secretary of Energy, the Director of Central Intelligence, and the Chairman of the Nuclear Regulatory Commission shall issue directives, which shall provide access to information, including information contained in special access programs, to implement their responsibilities under subsections (c) and (d) of section 602 of the Nuclear Non-Proliferation Act of 1978 (22 U.S.C. 3282(c) and (d)). Copies of such directives shall be forwarded promptly to the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives upon the issuance of the directives."
 

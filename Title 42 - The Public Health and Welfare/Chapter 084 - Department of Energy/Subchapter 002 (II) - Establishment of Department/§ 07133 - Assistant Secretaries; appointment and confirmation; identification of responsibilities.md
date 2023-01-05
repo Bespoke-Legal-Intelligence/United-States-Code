@@ -18,7 +18,7 @@
 
 &emsp;(3) Environmental responsibilities and functions, including advising the Secretary with respect to the conformance of the Department's activities to environmental protection laws and principles, and conducting a comprehensive program of research and development on the environmental effects of energy technologies and programs.
 
-&emsp;(4) International programs and international policy functions, including those functions which assist in carrying out the international energy purposes described in section 7112 of this title.
+&emsp;(4) International programs and international policy functions, including those functionswhich assist in carrying out the international energy purposes described in section 7112 of this title.
 
 &emsp;(5) Repealed. Pub. L. 106–65, div. C, title XXXII, §3294(b), Oct. 5, 1999, 113 Stat. 970.
 

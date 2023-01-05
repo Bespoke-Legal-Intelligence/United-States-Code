@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) managed forest lands provide habitats for fish and wildlife, as well as aesthetics, outdoor recreation opportunities, and other forest resources;
 
-&emsp;(5) the soil, water, and air quality of the United States can be maintained and improvedthrough good stewardship of privately held forest resources;
+&emsp;(5) the soil, water, and air quality of the United States can be maintained and improved through good stewardship of privately held forest resources;
 
 &emsp;(6) insects and diseases affecting trees occur and sometimes create emergency conditions on all land, whether Federal or non-Federal, and efforts to prevent and control such insects and diseases often require coordinated action by both Federal and non-Federal land managers;
 
@@ -84,7 +84,7 @@ It is the policy of Congress that it is in the national interest for the Secreta
 
 This chapter shall be construed to complement the policies and direction under the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
 
-(Pub. L. 95–313, §2, July 1, 1978, 92 Stat. 365; Pub. L. 101–513, title VI, §611(b)(1), (2), formerly §607(b)(1), (2), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(b)(1), (2), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 101–624, title XII, §1212, Nov. 28, 1990, 104 Stat. 3521; Pub. L. 110–234, title VIII, §8001, May 22, 2008, 122 Stat. 1279; Pub. L. 110–246, §4(a), title VIII, §8001, June 18, 2008, 122 Stat. 1664, 2041.)
+(Pub. L. 95–313, §2, July 1, 1978, 92 Stat. 365; Pub. L. 101–513, title VI, §611(b)(1), (2), formerly§607(b)(1), (2), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(b)(1), (2), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 101–624, title XII, §1212, Nov. 28, 1990, 104 Stat. 3521; Pub. L. 110–234, title VIII, §8001, May 22, 2008, 122 Stat. 1279; Pub. L. 110–246, §4(a), title VIII, §8001, June 18, 2008, 122 Stat. 1664, 2041.)
 
 #### <b>Editorial Notes</b>
 
@@ -162,7 +162,7 @@ Pub. L. 101–624, title XII, subtitle C, Nov. 28, 1990, 104 Stat. 3553–3557, 
 
 &emsp;"(3) authorize the Secretary of Agriculture to provide increased financial and technical assistance to State forestry agencies and others, and enter into cost-sharing agreements with individuals, for the purpose of encouraging owners of nonindustrial private lands to plant and maintain trees and improve forests in rural areas; and
 
-&emsp;"(4) authorize the Secretary of Agriculture to provide increased financial and technical assistance to State forestry agencies and others for the purpose of encouraging units of local government, civic groups, and individuals to plant and maintain trees and improve forests in communities and urban areas.
+&emsp;"(4) authorize the Secretary of Agriculture to provide increased financial and technical assistance to State forestry agencies and others for the purpose ofencouraging units of local government, civic groups, and individuals to plant and maintain trees and improve forests in communities and urban areas.
 
 #### "SEC. 1264. TREE PLANTING FOUNDATION.
 
@@ -280,7 +280,7 @@ Annual Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than 3 months after the conclusion of each fiscal year, the Foundation shall publish an annual report that includes a comprehensive and detailed report of the operations, activities, financial condition, and accomplishments of the Foundation under this subtitle during the fiscal year.
+In general.—Not later than 3 months after the conclusion of each fiscal year, the Foundation shallpublish an annual report that includes a comprehensive and detailed report of the operations, activities, financial condition, and accomplishments of the Foundation under this subtitle during the fiscal year.
 
 &emsp;"(2)
 
@@ -328,9 +328,9 @@ Our Nation is home to hundreds of millions of acres of Federal, State, tribal, a
 
 These facts demonstrate how our Nation has taken advantage of the tremendous economic and environmental benefits associated with tree growth and forestation. By advancing Federal policies conducive to these practices, under my leadership, the United States has promoted greater use of nature-based solutions to address global challenges.
 
-On January 21, 2020, I announced that to further protect the environment, the United States would be joining the World Economic Forum's One Trillion Trees initiative (Initiative), an ambitious global effort to grow and conserve one trillion trees worldwide by 2030. Following through on my commitment, and given the expansive footprint of our Federal forests and woodlands, this order initiates the formation of the UnitedStates One Trillion Trees Interagency Council to further the Federal Government's contribution to the global effort.
+On January 21, 2020, I announced that to further protect the environment, the United States would be joining the World Economic Forum's One Trillion Trees initiative (Initiative), an ambitious global effort to grow and conserve one trillion trees worldwide by 2030. Following through on my commitment, and given the expansive footprint of our Federal forests and woodlands, this order initiates the formation of the United States One Trillion Trees Interagency Council to further the Federal Government's contribution to the global effort.
 
-Sec. 2. <i>United States One Trillion Trees Interagency Council</i>. There is hereby established a United States One Trillion Trees Interagency Council (Council). The Council shall be charged with developing, coordinating, and promoting Federal Government interactions with the Initiative with respect to tree growing, restoration, and conservation, and with coordinating with key stakeholders to help advance the Initiative. The Council shall remain independent from the Initiative.
+Sec. 2. <i>United States One Trillion Trees Interagency Council</i>. There is hereby established a United States One Trillion Trees Interagency Council (Council). The Council shall be charged with developing, coordinating, and promoting Federal Government interactions with the Initiative with respect to tree growing, restoration,and conservation, and with coordinating with key stakeholders to help advance the Initiative. The Council shall remain independent from the Initiative.
 
 The Council shall be co-chaired by the Secretary of the Interior and the Secretary of Agriculture, or by their designees (Co-Chairs). The Assistant to the President for Economic Policy and the Assistant to the President and Deputy Chief of Staff for Policy Coordination, or their designees, shall serve as Vice Chairs.
 

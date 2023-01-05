@@ -66,6 +66,14 @@
 
 &emsp;In carrying out the mission and activities of the Office, the Chief Commercialization Officer shall coordinate with the senior leadership of the Department, other relevant program offices of the Department, National Laboratories, the Technology Transfer Working Group established under subsection (b), the Technology Transfer Policy Board, and other stakeholders (including private industry).
 
+#### (6) Hiring and management
+
+&emsp;To carry out the program authorized in this section, the Under Secretary for Science may appoint personnel using the authorities in section 19321 of this title.
+
+#### (7) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to the Secretary to carry out the activities authorized in this section $20,000,000 for each of fiscal years 2023 through 2027.
+
 #### (b) Technology Transfer Working Group
 
 The Secretary shall establish a Technology Transfer Working Group, which shall consist of representatives of the National Laboratories and single-purpose research facilities, to—
@@ -158,7 +166,7 @@ The Secretary may develop additional programs to—
 
 &emsp;(7) further support the mission and goals of the Office.
 
-(Pub. L. 109–58, title X, §1001, Aug. 8, 2005, 119 Stat. 926; Pub. L. 113–291, div. C, title XXXI, §3144, Dec. 19, 2014, 128 Stat. 3902; Pub. L. 115–246, title I, §102, Sept. 28, 2018, 132 Stat. 3131; Pub. L. 116–260, div. Z, title IX, §§9001, 9003, Dec. 27, 2020, 134 Stat. 2595, 2597; Pub. L. 117–58, div. D, title XII, §41201(g), Nov. 15, 2021, 135 Stat. 1131.)
+(Pub. L. 109–58, title X, §1001, Aug. 8, 2005, 119 Stat. 926; Pub. L. 113–291, div. C, title XXXI, §3144, Dec. 19, 2014, 128 Stat. 3902; Pub. L. 115–246, title I, §102, Sept. 28, 2018, 132 Stat. 3131; Pub. L. 116–260, div. Z, title IX, §§9001, 9003, Dec. 27, 2020, 134 Stat. 2595, 2597; Pub. L. 117–58, div. D, title XII, §41201(i), formerly §41201(g), Nov. 15, 2021, 135 Stat. 1131, renumbered §41201(i), Pub. L. 117–167, div. B, title VI, §10723(3), Aug. 9, 2022, 136 Stat. 1709; Pub. L. 117–167, div. B, title VI, §10722, Aug. 9, 2022, 136 Stat. 1708.)
 
 #### <b>Editorial Notes</b>
 
@@ -168,7 +176,9 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 
 #### Amendments
 
-<b>2021</b>—Subsecs. (f) to (i). Pub. L. 117–58 redesignated subsecs. (f) relating to planning and reporting and (g) relating to additional technology transfer programs as (h) and (i), respectively.
+<b>2022</b>—Subsec. (a)(6), (7). Pub. L. 117–167, §10722, added pars. (6) and (7).
+
+<b>2021</b>—Subsecs. (f) to (i). Pub. L. 117–58, §41201(i), formerly §41201(g), as renumbered by Pub. L. 117–167, §10723(3), redesignated subsecs. (f) relating to planning and reporting and (g) relating to additional technology transfer programs as (h) and (i), respectively.
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–260, §9001(1), added subsec. (a) through par. (4)(B) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary shall appoint a Technology Transfer Coordinator to be the principal advisor to the Secretary on all matters relating to technology transfer and commercialization."
 
@@ -216,7 +226,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 #### Lab Partnering Service Pilot Program
 
-Pub. L. 116–260, div. Z, title IX, §9002, Dec. 27, 2020, 134 Stat. 2596, provided that:
+Pub. L. 116–260, div. Z, title IX, §9002, Dec. 27, 2020, 134 Stat. 2596, as amended by Pub. L. 117–167, div. B, title VI, §10716, Aug. 9, 2022, 136 Stat. 1704, provided that:
 
 "(a)
 
@@ -268,5 +278,9 @@ Evaluation.—Not later than 6 months after the completion of this pilot program
 
 "(g)
 
-Definition.—In this section, the term 'National Laboratory' has the meaning given such term in section 2(3) of the Energy Policy Act of 2005 (42 U.S.C. 15801(3))."
+Definition.—In this section, the term 'National Laboratory' has the meaning given such term in section 2(3) of the Energy Policy Act of 2005 (42 U.S.C. 15801(3)).
+
+"(h)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary $2,000,000 for each of fiscal years 2023 through 2025 to carry out subsections (a), (b), and (c), and $1,700,000 for each of fiscal years 2023 through 2025 for National Laboratory employees to provide services under subsection (d)."
 

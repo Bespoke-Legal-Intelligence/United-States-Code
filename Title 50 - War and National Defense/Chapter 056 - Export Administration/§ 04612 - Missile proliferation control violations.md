@@ -132,7 +132,7 @@ For purposes of this section and subsections (k) and (l) of section 4605 <sup>1
 
 &emsp;&emsp;(ii) all activities of that government affecting the development or production of aircraft, electronics, and space systems or equipment; and
 
-&emsp;(8) the term "otherwise engaged in the trade of" means, with respect to a particular exportor transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
+&emsp;(8) the term "otherwise engaged in the trade of" means, with respect to a particular export or transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
 
 (Pub. L. 96–72, §11B, as added Pub. L. 101–510, div. A, title XVII, §1702(b), Nov. 5, 1990, 104 Stat. 1741.)
 

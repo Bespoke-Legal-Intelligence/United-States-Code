@@ -4,7 +4,7 @@
 
 (b) In evaluating bids or proposals for a contract for the overhaul, repair, or maintenance of a naval vessel, the Secretary of the Navy shall, in determining the cost or price of work to be performed in an area outside the area of the homeport of the vessel, consider foreseeable costs of moving the vessel and its crew from the homeport to the outside area and from the outside area back to the homeport at the completion of the contract.
 
-(c)(1) Before issuing a solicitation for a contract for short-term work for the overhaul, repair, or maintenance of a naval vessel, the Secretary of the Navy shall determine if there is adequate competition available among firms able to perform the work at the homeport of the vessel. If the Secretary determines that there is adequate competition among such firms, the Secretary—
+(c)(1) Before issuing a solicitation for a contract for short-term work for the overhaul, repair, or maintenance of a naval vessel, the Secretary of the Navy shall determine if there is adequate competition available among firms able to perform the work at the homeport of the vessel. If the Secretary determines that there isadequate competition among such firms, the Secretary—
 
 &emsp;(A) shall issue such a solicitation only to firms able to perform the work at the homeport of the vessel; and
 
@@ -56,7 +56,7 @@ Subsecs. (c), (d). Pub. L. 102–484, §1016(b), redesignated subsec. (d) as (c)
 
 <b>1987</b>—Subsec. (d). Pub. L. 100–180 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-"(1) Notwithstanding subsections (b) and (c), the Secretary may award a contract for short-term work forthe overhaul, repair, or maintenance of a naval vessel only to a contractor that is able to perform the work at the homeport of the vessel, if the Secretary determines that adequate competition is available among firms able to perform the work at the homeport of the vessel.
+"(1) Notwithstanding subsections (b) and (c), the Secretary may award a contract for short-term work for the overhaul, repair, or maintenance of a naval vessel only to a contractor that is able to perform the work at the homeport of the vessel, if the Secretary determines that adequate competition is available among firms able to perform the work at the homeport of the vessel.
 
 "(2) In this subsection, the term 'short-term work' means work that will be for a period of six months or less."
 

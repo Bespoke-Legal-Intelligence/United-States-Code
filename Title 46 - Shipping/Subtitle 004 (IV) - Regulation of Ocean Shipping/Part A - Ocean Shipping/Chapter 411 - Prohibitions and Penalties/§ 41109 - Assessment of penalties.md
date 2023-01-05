@@ -2,15 +2,57 @@
 
 (a)
 
-General Authority.—Until a matter is referred to the Attorney General, the Federal Maritime Commission may, after notice and opportunity for a hearing, assess a civil penalty provided for in this part. The Commission may compromise, modify, or remit, with or without conditions, a civil penalty.
+General Authority.—Until a matter is referred to the Attorney General, the Federal Maritime Commission may—
+
+&emsp;(1) after notice and opportunity for a hearing, in accordance with this part—
+
+&emsp;&emsp;(A) assess a civil penalty; or
+
+&emsp;&emsp;(B) in addition to, or in lieu of, assessing a civil penalty under subparagraph (A), order a refund of money (including additional amounts in accordance with section 41305(c)), subject to subsection (b)(2); and
+
+&emsp;(2) compromise, modify, or remit, with or without conditions, a civil penalty or refund imposed under paragraph (1).
 
 (b)
 
-Factors in Determining Amount.—In determining the amount of a civil penalty, the Commission shall take into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, ability to pay, and other matters justice may require.
+Determination of Amount.—
+
+&emsp;(1)
+
+Factors for consideration.—In determining the amount of a civil penalty assessed or refund of money ordered pursuant to subsection (a), the Federal Maritime Commission shall take into consideration—
+
+&emsp;&emsp;(A) the nature, circumstances, extent, and gravity of the violation committed;
+
+&emsp;&emsp;(B) with respect to the violator—
+
+&emsp;&emsp;&emsp;(i) the degree of culpability;
+
+&emsp;&emsp;&emsp;(ii) any history of prior offenses;
+
+&emsp;&emsp;&emsp;(iii) the ability to pay; and
+
+&emsp;&emsp;&emsp;(iv) such other matters as justice may require; and
+
+&emsp;&emsp;(C) the amount of any refund of money ordered pursuant to subsection (a)(1)(B).
+
+&emsp;(2)
+
+Commensurate reduction in civil penalty.—
+
+&emsp;&emsp;(A)
+
+In general.—In any case in which the Federal Maritime Commission orders a refund of money pursuant to subsection (a)(1)(B) in addition to assessing a civil penalty pursuant to subsection (a)(1)(A), the amount of the civil penalty assessed shall be decreased by any additional amounts included in the refund of money in excess of the actual injury (as defined in section 41305(a)).
+
+&emsp;&emsp;(B)
+
+Treatment of refunds.—A refund of money ordered pursuant to subsection (a)(1)(B) shall be—
+
+&emsp;&emsp;&emsp;(i) considered to be compensation paid to the applicable claimant; and
+
+&emsp;&emsp;&emsp;(ii) deducted from the total amount of damages awarded to that claimant in a civil action against the violator relating to the applicable violation.
 
 (c)
 
-Exception.—A civil penalty may not be imposed for conspiracy to violate section 41102(a) or 41104(1) or (2) <sup>1</sup> of this title or to defraud the Commission by concealing such a violation.
+Exception.—A civil penalty or refund of money under subparagraph (A) or (B), respectively, of subsection (a)(1) may not be imposed for conspiracy to violate subsection (a) or (d) of section 41102 or paragraph (1) or (2) of section 41104(a) or to defraud the Commission by concealing such a violation.
 
 (d)
 
@@ -18,17 +60,17 @@ Prohibited Basis of Penalty.—The Commission or a court may not order a person 
 
 (e)
 
-Time Limit.—A proceeding to assess a civil penalty under this section must be commenced within 5 years after the date of the violation.
+Time Limit.—A proceeding to assess a civil penalty or order a refund of money under this section must be commenced within 5 years after the date of the violation.
 
 (f)
 
-Review of Civil Penalty.—A person against whom a civil penalty is assessed under this section may obtain review under chapter 158 of title 28.
+Review of Civil Penalty.—A person against whom a civil penalty is assessed, or that is ordered to refund money, under this section may obtain review under chapter 158 of title 28.
 
 (g)
 
-Civil Actions To Collect.—If a person does not pay an assessment of a civil penalty after it has become final or after the appropriate court has entered final judgment in favor of the Commission, the Attorney General at the request of the Commission may seek to collect the amount assessed in an appropriate district court of the United States. The court shall enforce the order of the Commission unless it finds that the order was not regularly made and duly issued.
+Civil Actions To Collect.—If a person does not pay an assessment of a civil penalty or a refund required under this section after it has become final or after the appropriate court has entered final judgment in favor of the Commission, the Attorney General at the request of the Commission may seek to collect the amount assessed in an appropriate district court of the United States. The court shall enforce the order of the Commission unless it finds that the order was not regularly made and duly issued.
 
-(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1544.)
+(Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1544; Pub. L. 117–146, §§8(a)(2), 15(b), June 16, 2022, 136 Stat. 1276, 1279.)
 
 Historical and Revision Notes
 
@@ -72,9 +114,17 @@ Pub. L. 98–237, §13(c)–(f), Mar. 20, 1984, 98 Stat. 82; Pub. L. 105–258, 
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Pars. (1) and (2) of section 41104 of this title, referred to in subsec. (c), were redesignated as pars. (1) and (2), respectively, of section 41104(a) of this title by Pub. L. 115–282, title VII, §708(a)(1), Dec. 4, 2018, 132 Stat. 4295.
+<b>2022</b>—Subsecs. (a), (b). Pub. L. 117–146, §8(a)(2)(A), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to general authority to assess a civil penalty and factors in determining the amount of a civil penalty.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Subsec. (c). Pub. L. 117–146, §15(b), substituted "subsection (a) or (d) of section 41102 or paragraph (1) or (2) of section 41104(a)" for "section 41102(a) or 41104(1) or (2) of this title".
+
+Pub. L. 117–146, §8(a)(2)(B), substituted "or refund of money under subparagraph (A) or (B), respectively, ofsubsection (a)(1) may not be imposed" for "may not be imposed".
+
+Subsec. (e). Pub. L. 117–146, §8(a)(2)(C), inserted "or order a refund of money" after "penalty".
+
+Subsec. (f). Pub. L. 117–146, §8(a)(2)(D), inserted ", or that is ordered to refund money," after "assessed".
+
+Subsec. (g). Pub. L. 117–146, §8(a)(2)(E), inserted "or a refund required under this section" after "penalty".
 

@@ -44,7 +44,7 @@
 
 #### (C) Grants and contracts
 
-&emsp;&emsp;In carrying out this subsection, the Secretary may carry out activities directly or through the award of grants and contracts, and may enter into interagency agreements with other Federal agencies.
+&emsp;&emsp;In carrying out this subsection, the Secretary may carry out activities directly orthrough the award of grants and contracts, and may enter into interagency agreements with other Federal agencies.
 
 #### (b) Advice to the Federal Government
 
@@ -102,43 +102,39 @@
 
 The Secretary may establish 20 officer positions in the Epidemic Intelligence Service Program, in addition to the number of the officer positions offered under such Program in 2006, for individuals who agree to participate, for a period of not less than 2 years, in the Career Epidemiology Field Officer program in a State, local, or tribal health department that serves a health professional shortage area (as defined under section 254e(a) of this title), a medically underserved population (as defined under section 254b(b)(3) of this title), or a medically underserved area or area at high risk of a public health emergency as designated by the Secretary.
 
-#### (d) Centers for Public Health Preparedness; core curricula and training
+#### (d) Centers for Public Health Preparedness and Response
 
 #### (1) In general
 
-&emsp;The Secretary may establish at accredited schools of public health, Centers for Public Health Preparedness (hereafter referred to in this section as the "Centers").
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants, contracts, or cooperative agreements to institutions of higher education, including accredited schools of public health, or other nonprofit private entities to establish or maintain a network of Centers for Public Health Preparedness and Response (referred to in this subsection as "Centers").
 
 #### (2) Eligibility
 
-&emsp;To be eligible to receive an award under this subsection to establish a Center, an accredited school of public health shall agree to conduct activities consistent with the requirements of this subsection.
+&emsp;To be eligible to receive an award under this subsection, an entity shall submit to the Secretary an application containing such information as the Secretary may require, including a description of how the entity will—
 
-#### (3) Core curricula
+&emsp;&emsp;(A) coordinate relevant activities with applicable State, local, and Tribal health departments and officials, health care facilities, and health care coalitions to improve public health preparedness and response, as informed by the public health preparedness and response needs of the community, or communities, involved;
 
-&emsp;The Secretary, in collaboration with the Centers and other public or private entities shall establish core curricula based on established competencies leading to a 4-year bachelor's degree, a graduate degree, a combined bachelor and master's degree, or a certificate program, for use by each Center. The Secretary shall disseminate such curricula to other accredited schools of public health and other health professions schools determined appropriate by the Secretary, for voluntary use by such schools.
+&emsp;&emsp;(B) prioritize efforts to implement evidence-informed or evidence-based practices to improve public health preparedness and response, including by helping to reduce the transmission of emerging infectious diseases; and
 
-#### (4) Core competency-based training program
+&emsp;&emsp;(C) use funds awarded under this subsection, including by carrying out any activities described in paragraph (3).
 
-&emsp;The Secretary, in collaboration with the Centers and other public or private entities shall facilitate the development of a competency-based training program to train public health practitioners. The Centers shall use such training program to train public health practitioners. The Secretary shall disseminate such training program to other accredited schools of public health, health professions schools, and other public or private entities as determined by the Secretary, for voluntary use by such entities.
+#### (3) Use of funds
 
-#### (5) Content of core curricula and training program
+&emsp;The Centers established or maintained under this subsection shall use funds awarded underthis subsection to carry out activities to advance public health preparedness and response capabilities, which may include—
 
-&emsp;The Secretary shall ensure that the core curricula and training program established pursuant to this subsection respond to the needs of State, local, and tribal public health authorities and integrate and emphasize essential public health security capabilities consistent with section 300hh–1(b)(2) of this title.
+&emsp;&emsp;(A) identifying, translating, and disseminating promising research findings or strategies into evidence-informed or evidence-based practices to inform preparedness for, and responses to, chemical, biological, radiological, or nuclear threats, including emerging infectious diseases, and other public health emergencies, which may include conducting research related to public health preparedness and response systems;
 
-#### (6) Academic-workforce communication
+&emsp;&emsp;(B) improving awareness of such evidence-informed or evidence-based practices and other relevant scientific or public health information among health care professionals, public health professionals, other stakeholders, and the public, including through the development, evaluation, and dissemination of trainings and training materials, consistent with section 300hh–1(b)(2) of this title, as applicable and appropriate, and with consideration given to existing training materials, to support preparedness for, and responses to, such threats;
 
-&emsp;As a condition of receiving funding from the Secretary under this subsection, a Center shall collaborate with a State, local, or tribal public health department to—
+&emsp;&emsp;(C) utilizing and expanding relevant technological and analytical capabilities to inform public health and medical preparedness and response efforts;
 
-&emsp;&emsp;(A) define the public health preparedness and response needs of the community involved;
+&emsp;&emsp;(D) expanding activities, including through public-private partnerships, related to public health preparedness and response, including participation in drills and exercises and training public health experts, as appropriate; and
 
-&emsp;&emsp;(B) assess the extent to which such needs are fulfilled by existing preparedness and response activities of such school or health department, and how such activities may be improved;
+&emsp;&emsp;(E) providing technical assistance and expertise that relies on evidence-based practices, as applicable, related to responses to public health emergencies, as appropriate, to State, local, and Tribal health departments and other entities pursuant to paragraph (2)(A).
 
-&emsp;&emsp;(C) prior to developing new materials or trainings, evaluate and utilize relevant materials and trainings developed by others Centers; and
+#### (4) Distribution of awards
 
-&emsp;&emsp;(D) evaluate community impact and the effectiveness of any newly developed materials or trainings.
-
-#### (7) Public health systems research
-
-&emsp;In consultation with relevant public and private entities, the Secretary shall define the existing knowledge base for public health preparedness and response systems, and establish a research agenda based on Federal, State, local, and tribal public health preparedness priorities. As a condition of receiving funding from the Secretary under this subsection, a Center shall conduct public health systems research that is consistent with the agenda described under this paragraph.
+&emsp;In awarding grants, contracts, or cooperative agreements under this subsection, the Secretary shall support not fewer than 10 Centers, subject to the availability of appropriations, and ensure that such awards are equitably distributed among the geographical regions of the United States.
 
 #### (e) Accelerated research and development on priority pathogens and countermeasures
 
@@ -148,7 +144,7 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 &emsp;&emsp;(A) the epidemiology and pathogenesis of such pathogens;
 
-&emsp;&emsp;(B) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the working group established in subsection (a)), in collaboration and coordination with theactivities of the Department of Defense and the Joint Genome Institute of the Department of Energy;
+&emsp;&emsp;(B) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the working group established in subsection (a)), in collaboration and coordination with the activities of the Department of Defense and the Joint Genome Institute of the Department of Energy;
 
 &emsp;&emsp;(C) the development of priority countermeasures; and
 
@@ -186,17 +182,21 @@ The Secretary may establish 20 officer positions in the Epidemic Intelligence Se
 
 &emsp;&emsp;(B) to carry out subsection (c), $3,000,000; and
 
-&emsp;&emsp;(C) to carry out subsection (d), $31,000,000, of which $5,000,000 shall be used to carry out paragraphs (3) through (5) of such subsection.
+&emsp;&emsp;(C) to carry out subsection (d), $31,000,000.
 
 #### (2) Subsequent fiscal years
 
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out this section for fiscal year 2008 and each subsequent fiscal year.
 
-(July 1, 1944, ch. 373, title III, §319F, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2321; amended Pub. L. 107–188, title I, §§104(a) 105, 108, 111(3), 125, June 12, 2002, 116 Stat. 605, 606, 609, 611, 614; Pub. L. 108–276, §2(d), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title III, §§301(d), (e), 304, Dec. 19, 2006, 120 Stat. 2854, 2855, 2859; Pub. L. 113–5, title II, §203(a), Mar. 13, 2013, 127 Stat. 175.)
+(July 1, 1944, ch. 373, title III, §319F, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2321; amended Pub. L. 107–188, title I, §§104(a) 105, 108, 111(3), 125, June 12, 2002, 116Stat. 605, 606, 609, 611, 614; Pub. L. 108–276, §2(d), July 21, 2004, 118 Stat. 842; Pub. L. 109–417, title III, §§301(d), (e), 304, Dec. 19, 2006, 120 Stat. 2854, 2855, 2859; Pub. L. 113–5, title II, §203(a), Mar. 13, 2013, 127 Stat. 175; Pub. L. 117–328, div. FF, title II, §2231(a), Dec. 29, 2022, 136 Stat. 5752.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–328, §2231(a)(1), added subsec. (d) and struck out former subsec. (d) which authorized Secretary to establish Centers for Public Health Preparedness at accredited schools of public health.
+
+Subsec. (f)(1)(C). Pub. L. 117–328, §2231(a)(2), struck out ", of which $5,000,000 shall be used to carry out paragraphs (3) through (5) of such subsection" after "$31,000,000".
 
 <b>2013</b>—Subsec. (a)(5)(B). Pub. L. 113–5 substituted "public health, medical, or dental" for "public health or medical".
 
@@ -232,7 +232,7 @@ Subsec. (h)(4)(B). Pub. L. 108–276, §2(d)(2), substituted "to treat, identify
 
 &emsp;"(3) develop shared standards for equipment to detect and to protect against infection from pathogens likely to be used in a bioterrorist attack on the civilian population; and
 
-&emsp;"(4) coordinate the development, maintenance, and procedures for the release of, strategic reserves ofvaccines, drugs, and medical supplies which may be needed rapidly after a bioterrorist attack upon the civilian population."
+&emsp;"(4) coordinate the development, maintenance, and procedures for the release of, strategic reserves of vaccines, drugs, and medical supplies which may be needed rapidly after a bioterrorist attack upon the civilian population."
 
 Subsec. (b). Pub. L. 107–188, §104(a)(1), (3), added subsec. (b) and struck out former subsec. (b) which related to establishment, functions, membership, and coordination of a working group on the public health and medical consequences of bioterrorism.
 

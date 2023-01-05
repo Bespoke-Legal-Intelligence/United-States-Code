@@ -62,5 +62,5 @@ Pub. L. 112–183, §2, Oct. 5, 2012, 126 Stat. 1422, provided that: "Congress f
 
 &emsp;"(2) Global billfish populations have declined significantly, however, because of overfishing primarily through retention of bycatch by non-United States commercial fishing fleets.
 
-&emsp;"(3) Ending the importation of foreign-caught billfish for sale in the United States aligns with U.S.management measures of billfish and protects the significant economic benefits to the U.S. economy of recreational fishing and marine commerce and the traditional cultural fisheries."
+&emsp;"(3) Ending the importation of foreign-caught billfish for sale in the United States aligns with U.S. management measures of billfish and protects the significant economic benefits to the U.S. economy of recreational fishing and marine commerce and the traditional cultural fisheries."
 

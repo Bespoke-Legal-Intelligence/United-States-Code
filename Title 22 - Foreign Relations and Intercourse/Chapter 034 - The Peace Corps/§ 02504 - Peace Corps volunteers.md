@@ -96,7 +96,7 @@ The costs of packing and unpacking, transporting to and from a place of storage,
 
 (3) If a volunteer dies, the Peace Corps shall take reasonable measures, in accordance with local laws, to preserve any information or material, in any medium or format, that may be relevant to determining the cause or root cause of the death of the volunteer, including personal effects, medication, and other tangible items belonging to the volunteer, as long as such measures do not interfere with the legal procedures of the host country if the government of the host country is exercising jurisdiction over the investigation of such death. The Inspector General of the Peace Corps shall be provided an opportunity to inspect such items before their final disposition.
 
-(4) Consistent with the Inspector General Act of 1978 (5 U.S.C. App.), the Inspector General of the Peace Corps may independently review the facts and circumstances surrounding the death of a volunteer and the actions taken by the Peace Corps in responding to such incident.
+(4) Consistent with the Inspector General Act of 1978 (5 U.S.C. App.),<sup>1</sup> the Inspector General of the Peace Corps may independently review the facts and circumstances surrounding the death of a volunteer and the actions taken by the Peace Corps in responding to such incident.
 
 (5) For the purposes of undertaking a review under this section, an officer or employee of the United States or a member of the Armed Forces may be detailed to the Inspector General of the Peace Corps from another department of the United States Government on a nonreimbursable basis, as jointly agreed to by the Inspector General and the detailing department, for a period not to exceed 1 year. This paragraph may not be construed to limit or modify any other source of authority for reimbursable or nonreimbursable details. A nonreimbursable detail made under this section may not be considered an augmentation of the appropriations of the Peace Corps.
 
@@ -110,19 +110,19 @@ The costs of packing and unpacking, transporting to and from a place of storage,
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (e) to (i), and (n), was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in subsecs. (a), (e) to (i), and (n), was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (c), is classified generally to Title 26, Internal Revenue Code.
 
 The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (e), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 14401 of Title 42 and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (g)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (g)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 The Federal Tort Claims Act, referred to in subsec. (i), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 Subsection (l) of this section, referred to in subsec. (n)(4), was redesignated as subsec. (m) by Pub. L. 115–256, title I, §101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
 
-The Inspector General Act of 1978, referred to in subsec. (p)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (p)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§401 et seq.) of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Amendments
 
@@ -256,7 +256,7 @@ Pub. L. 102–565, §3, Oct. 28, 1992, 106 Stat. 4266, provided that:
 
 "(a)
 
-In General.—The Director of the Peace Corps shall contract with an eligible organization or organizations to conduct before January 1, 1997, a total ofthree evaluations of the health-care needs of the Peace Corps volunteers and the adequacy of the system through which the Peace Corps provides health-care services in meeting those needs.
+In General.—The Director of the Peace Corps shall contract with an eligible organization or organizations to conduct before January 1, 1997, a total of three evaluations of the health-care needs of the Peace Corps volunteers and the adequacy of the system through which the Peace Corps provides health-care services in meeting those needs.
 
 "(b)
 

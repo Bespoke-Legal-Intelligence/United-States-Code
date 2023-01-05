@@ -236,7 +236,7 @@ The Secretary may enter into 1 or more agreements with a State (including a poli
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may delegate any of the management, monitoring, and enforcementresponsibilities of the Secretary under this section to other Federal or State agencies that have the appropriate authority, expertise, and resources necessary to carry out such delegated responsibilities, or to conservation organizations if the Secretary determines the organization has similar expertise and resources.
+&emsp;&emsp;The Secretary may delegate any of the management, monitoring, and enforcement responsibilities of the Secretary under this section to other Federal or State agencies that have the appropriate authority, expertise, and resources necessary to carry out such delegated responsibilities, or to conservation organizations if the Secretary determines the organization has similar expertise and resources.
 
 #### (B) Limitation
 

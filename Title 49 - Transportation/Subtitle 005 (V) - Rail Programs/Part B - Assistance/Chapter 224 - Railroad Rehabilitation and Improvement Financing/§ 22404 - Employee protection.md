@@ -30,9 +30,9 @@ The text of section 836 of Title 45, Railroads, which was transferred to this se
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–58, §21301(a)(6), transferred text of section 836 of Title 45, Railroads, to this section.
+<b>2021</b>—Pub. L. 117–58, §21301(a)(6), transferred text of section 826 of Title 45, Railroads, to this section.
 
-Subsec. (a). Pub. L. 117–58, §21301(f)(1), in first sentence, struck out "not otherwise protected under title V of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 771 et seq.)," after "any employees" and substituted "under this chapter" for "under this title"; in second sentence, substituted "not later than 120 days after February 5, 1976" for "within 120 days after the date of enactment of this title"; and in third sentence, substituted "not later than 150 days after February 5, 1976" for "within 150 days after the date of enactment of this title".
+Subsec. (a). Pub. L. 117–58, §21301(f)(1), in first sentence, struck out "not otherwise protected under titleV of the Regional Rail Reorganization Act of 1973 (45 U.S.C. 771 et seq.)," after "any employees" and substituted "under this chapter" for "under this title"; in second sentence, substituted "not later than 120 days after February 5, 1976" for "within 120 days after the date of enactment of this title"; and in third sentence, substituted "not later than 150 days after February 5, 1976" for "within 150 days after the date of enactment of this title".
 
 Subsec. (b). Pub. L. 117–58, §21301(f)(2)(A), substituted "applicable financial assistance under this chapter" for "applicable financial assistance under this title" and "from financial assistance under this chapter" for "from financial assistance under this title" in introductory provisions.
 

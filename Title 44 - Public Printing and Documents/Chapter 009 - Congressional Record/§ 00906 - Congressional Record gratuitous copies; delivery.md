@@ -72,7 +72,7 @@ In unstitched form, and held in reserve by the Director of the Government Publis
 
 &emsp;to the offices of the superintendent of the Senate and House document rooms, each, three copies of the daily, one semimonthly copy, and one bound copy;
 
-&emsp;to the offices of the superintendents of the Senate and House press galleries, each, twocopies of the daily, one semimonthly copy, and one bound copy;
+&emsp;to the offices of the superintendents of the Senate and House press galleries, each, two copies of the daily, one semimonthly copy, and one bound copy;
 
 &emsp;to the offices of the Legislative Counsel of the Senate and House of Representatives, respectively, and the Architect of the Capitol, each, three copies of the daily, one semimonthly copy, and one bound copy;
 
@@ -114,13 +114,13 @@ In unstitched form, and held in reserve by the Director of the Government Publis
 
 &emsp;to each newspaper correspondent whose name appears in the Congressional Directory, and who makes application, for his personal use and that of the papers he represents, one copy of the daily and one copy of the bound, the same to be sent to the office address of the member of the press or elsewhere as he directs; not to exceed four copies in all may be furnished to members of the same press bureau.
 
-Copies of the daily edition, unless otherwise directed by the Joint Committee on Printing, shall be supplied and delivered promptly on the day after the actual day's proceedings as originally published. Each order for the daily Record shall begin with the current issue, if previous issues of the same session are not available. The apportionment specified for daily copies may not be transferred for the bound form and an allotment of daily copies not used by a Member during a session shall lapse when the session ends.
+Copies of the daily edition, unless otherwise directed by the Joint Committee on Printing,shall be supplied and delivered promptly on the day after the actual day's proceedings as originally published. Each order for the daily Record shall begin with the current issue, if previous issues of the same session are not available. The apportionment specified for daily copies may not be transferred for the bound form and an allotment of daily copies not used by a Member during a session shall lapse when the session ends.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1256; Pub. L. 91–276, June 12, 1970, 84 Stat. 303; Pub. L. 92–373, Aug. 10, 1972, 86 Stat. 528; Pub. L. 93–314, §1(b), June 8, 1974, 88 Stat. 239; Pub. L. 95–94, title IV, §407(a), Aug. 5, 1977, 91 Stat. 683; Pub. L. 96–417, title VI, §601(11), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 97–164, title I, §164(2), Apr. 2, 1982, 96 Stat. 50; Pub. L. 101–510, div. A, title XV, §1533(c)(3), Nov. 5, 1990, 104 Stat. 1736; Pub. L. 102–82, §6, Aug. 6, 1991, 105 Stat. 377; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–337, div. A, title IX, §924(d)(1)(D), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 104–186, title II, §223(7), Aug. 20, 1996, 110 Stat. 1751; Pub. L. 105–368, title V, §512(b)(1)(C), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 113–235, div. H, title I, §1301(c)(1), Dec. 16, 2014, 128 Stat. 2537.)
 
 #### Historical and Revision Notes
 
-Based on 44 U.S. Code, 1964 ed., §183 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 617; June 11, 1896, ch. 420, §1, 29 Stat. 454; Mar. 19, 1896, No. 31, 29 Stat. 468; Feb. 17, 1897, No. 12, 29 Stat. 700; Mar. 26, 1900, No. 15, 31 Stat. 713; Mar. 2, 1901, No. 16, §§1, 2, 31 Stat. 1464; Jan. 30, 1903, ch. 338, 32 Stat. 786; Mar. 1, 1907, ch. 2284, §4, 34 Stat. 1014; Mar. 4, 1909, ch. 317, 35 Stat. 1067; Mar. 4, 1909, No. 25, 35 Stat. 1169; Mar. 3, 1925, ch. 421, §7, 43 Stat. 1106; June 20, 1936, ch. 630, title II, §3, 49 Stat. 1547; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1949, ch. 288, title I, §104(a), 63 Stat. 381; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038; July 2, 1954, ch. 455, title I, §101, 68 Stat. 397; Aug. 1, 1956, ch. 852, §20, 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §33, 73 Stat. 149; July 12, 1960, Pub. L.86–624, §32, 74 Stat. 421; Mar. 21, 1961, Pub. L. 87–2, 75 Stat. 5; July 11, 1961, Pub. L. 87–85, 75 Stat. 202).
+Based on 44 U.S. Code, 1964 ed., §183 (Jan. 12, 1895, ch. 23, §73, 28 Stat. 617; June 11, 1896, ch. 420, §1, 29 Stat. 454; Mar. 19, 1896, No. 31, 29 Stat. 468; Feb. 17, 1897, No. 12, 29 Stat. 700; Mar. 26, 1900, No. 15, 31 Stat. 713; Mar. 2, 1901, No. 16, §§1, 2, 31 Stat. 1464; Jan. 30, 1903, ch. 338, 32 Stat. 786; Mar. 1, 1907, ch. 2284, §4, 34 Stat. 1014; Mar. 4, 1909, ch. 317, 35 Stat. 1067; Mar. 4, 1909, No. 25, 35 Stat. 1169; Mar. 3, 1925, ch. 421, §7, 43 Stat. 1106; June 20, 1936, ch. 630, title II, §3, 49 Stat. 1547; Proc. No. 2695, July 4, 1946, 11 F.R. 7517, 60 Stat. 1352; June 30, 1949, ch. 288, title I, §104(a), 63 Stat. 381; Sept. 26, 1950, ch. 1049, §2(b), 64 Stat. 1038; July 2, 1954, ch. 455, title I, §101, 68 Stat. 397; Aug. 1, 1956, ch. 852, §20, 70 Stat. 911; June 25, 1959, Pub. L. 86–70, §33, 73 Stat. 149; July 12, 1960, Pub. L. 86–624, §32, 74 Stat. 421; Mar. 21, 1961, Pub. L. 87–2, 75 Stat. 5; July 11, 1961, Pub. L. 87–85, 75 Stat. 202).
 
 "House of Representatives Publications Distribution Service" is substituted for "House Folding Room" because of the change of name under authority of Public Law 88–652.
 
@@ -178,7 +178,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, as amended, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a)of Pub. L. 96–417, as amended, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1977 Amendment
 

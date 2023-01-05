@@ -2,7 +2,7 @@
 
 #### (a) Study required
 
-The Director shall conduct an extensive study of the root causes of default and foreclosure of home loans, using as much empirical data as is available.
+The Director shall conduct an extensive study of the root causes of default and foreclosure ofhome loans, using as much empirical data as is available.
 
 #### (b) Preliminary report to Congress
 

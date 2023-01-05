@@ -16,7 +16,7 @@ In general.—Whoever engages in any conduct with intent to convey false or misl
 
 &emsp;(2)
 
-Armed forces.—Any person who makes a false statement, with intent to convey false or misleading information, about the death, injury, capture, or disappearance of a member of the Armed Forces of the United States during a war or armed conflict in which the United States is engaged—
+Armed forces.—Any person who makes a false statement, with intent to convey false or misleading information, about the death, injury, capture, or disappearance of a member ofthe Armed Forces of the United States during a war or armed conflict in which the United States is engaged—
 
 &emsp;&emsp;(A) shall be fined under this title, imprisoned not more than 5 years, or both;
 

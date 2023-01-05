@@ -30,7 +30,7 @@ Nothing in this section shall be construed to limit or otherwise affect the appl
 
 #### (e) Validity of leases
 
-No lease of trust or restricted interests in a parcel of land that is owner-managed under thissection shall be valid or enforceable against the owners of such interests, or against the land, the interest or the United States, unless such lease—
+No lease of trust or restricted interests in a parcel of land that is owner-managed under this section shall be valid or enforceable against the owners of such interests, or against the land, the interest or the United States, unless such lease—
 
 &emsp;(1) is consistent with, and entered into in accordance with, the requirements of this section; or
 
@@ -54,7 +54,7 @@ The Secretary shall not be responsible for the collection of, or accounting for,
 
 #### (1) In general
 
-&emsp;Subject to the provisions of paragraph (2), after the applications of the owners of all of the trust or restricted interests in a parcel of land have been approved by the Secretary pursuant to subsection (d), each such interest shall continue in owner-managed status under this section notwithstanding any subsequent conveyance of the interest in trust or restricted status to another person or the subsequent descent of the interest in trust or restricted status by testate or intestate succession to 1 or more heirs.
+&emsp;Subject to the provisions of paragraph (2), after the applications of the owners of all of the trust or restricted interests in a parcel of land have been approved by the Secretary pursuant to subsection (d), each such interest shall continue in owner-managed status under this section notwithstanding any subsequentconveyance of the interest in trust or restricted status to another person or the subsequent descent of the interest in trust or restricted status by testate or intestate succession to 1 or more heirs.
 
 #### (2) Revocation
 

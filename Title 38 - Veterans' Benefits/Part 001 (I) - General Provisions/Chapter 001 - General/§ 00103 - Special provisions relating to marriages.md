@@ -96,7 +96,7 @@ Subsec. (d)(3). Pub. L. 99–576, §701(2)(F), substituted "surviving spouse" fo
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 116–315, title II, §2003(b)(3), Jan. 5, 2021, 134 Stat. 4970, provided that: "The amendments made by this subsection \[amending this section and section 1562 of this title\] shall apply with respect to payment ofpension under section 1562 of title 38, United States Code, for months beginning after the date of the enactment of this Act \[Jan. 5, 2021\]."
+Pub. L. 116–315, title II, §2003(b)(3), Jan. 5, 2021, 134 Stat. 4970, provided that: "The amendments made by this subsection \[amending this section and section 1562 of this title\] shall apply with respect to payment of pension under section 1562 of title 38, United States Code, for months beginning after the date of the enactment of this Act \[Jan. 5, 2021\]."
 
 #### Effective Date of 2003 Amendment
 

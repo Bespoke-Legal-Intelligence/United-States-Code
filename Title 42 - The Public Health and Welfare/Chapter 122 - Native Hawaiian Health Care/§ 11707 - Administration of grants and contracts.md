@@ -74,7 +74,7 @@ The Secretary shall allow as a cost of any grant made or contract entered into u
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 
@@ -82,7 +82,7 @@ In subsec. (d)(3), "sections 3131 and 3133 of title 40" substituted for "the Act
 
 The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
-Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections. The text of this section isbased on section 8 of Pub. L. 100–579, as subsequently amended.
+Pub. L. 100–579 and Pub. L. 100–690 enacted substantially identical sections. The text of this section is based on section 8 of Pub. L. 100–579, as subsequently amended.
 
 #### Amendments
 

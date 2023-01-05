@@ -10,7 +10,7 @@ The code of conduct referred to in subsection (a) shall, to the maximum extent p
 
 #### (c) Reports
 
-Not later than 180 days after May 11, 2005, and not later than one year after May 11, 2005, thePresident shall transmit to the appropriate congressional committees a report on the implementation of this section.
+Not later than 180 days after May 11, 2005, and not later than one year after May 11, 2005, the President shall transmit to the appropriate congressional committees a report on the implementation of this section.
 
 #### (d) Effective Date
 

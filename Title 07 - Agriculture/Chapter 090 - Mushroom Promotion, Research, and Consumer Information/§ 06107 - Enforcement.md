@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-The several district courts of the United States are vested with jurisdiction specificallyto enforce, and to prevent and restrain any person from violating, any order or regulation made or issued by the Secretary under this chapter.
+The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, any order or regulation made or issued by the Secretary under this chapter.
 
 #### (b) Referral to Attorney General
 
@@ -38,7 +38,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (2) Record
 
-&emsp;The Secretary shall promptly file in such court a certified copy of the record on which the Secretary found that the person had committed a violation.
+&emsp;The Secretary shall promptly file in such court a certified copy of the record on whichthe Secretary found that the person had committed a violation.
 
 #### (3) Standard of review
 

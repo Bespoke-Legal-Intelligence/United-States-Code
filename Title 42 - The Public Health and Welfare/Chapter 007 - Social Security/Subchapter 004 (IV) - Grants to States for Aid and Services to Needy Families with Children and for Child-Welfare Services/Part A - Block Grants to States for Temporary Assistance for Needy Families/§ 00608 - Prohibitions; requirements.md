@@ -240,7 +240,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;On the basis of the assessment made under subsection (a) with respect to an individual, the State agency, in consultation with the individual, may develop an individual responsibility plan for the individual, which—
+&emsp;&emsp;On the basis of the assessment made under subsection (a) with respect to an individual,the State agency, in consultation with the individual, may develop an individual responsibility plan for the individual, which—
 
 &emsp;&emsp;&emsp;(i) sets forth an employment goal for the individual and a plan for moving the individual immediately into private sector employment;
 
@@ -412,7 +412,7 @@ Subsec. (a)(1). Pub. L. 105–33, §5505(a), amended heading and text of par. (1
 
 &emsp;"(B) if the family includes an adult who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government, for 60 months (whether or not consecutive) after the date the State program funded under this part commences (unless an exception described in subparagraph (B), (C), or (D) of paragraph (7) applies)."
 
-Subsec. (a)(3). Pub. L. 105–33, §5505(b), substituted "ceases to receive assistance under" for "leaves" in introductory provisions and cl. (ii) of subpar. (A) and in subpar. (B) and substituted "after such date" for "afterthe date the family leaves the program" in introductory provisions of subpar. (A).
+Subsec. (a)(3). Pub. L. 105–33, §5505(b), substituted "ceases to receive assistance under" for "leaves" in introductory provisions and cl. (ii) of subpar. (A) and in subpar. (B) and substituted "after such date" for "after the date the family leaves the program" in introductory provisions of subpar. (A).
 
 Subsec. (a)(3)(A). Pub. L. 105–33, §5532(b)(2), redesignated cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and added a new cl. (ii).
 
@@ -460,7 +460,7 @@ State option to accelerate effective date.—Notwithstanding paragraph (1), a St
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title V, §5001(h)(2), Aug. 5, 1997, 111 Stat. 593, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
+Pub. L. 105–33, title V, §5001(h)(2), Aug. 5, 1997, 111 Stat. 593, provided that: "The amendments made byparagraph (1) \[amending this section\] shall take effect as if included in the enactment of section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 Amendment by section 5505 of Pub. L. 105–33 effective as if included in section 103(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, at the time such section 103(a) became law, see section 5518(a) of Pub. L. 105–33, set out as a note under section 602 of this title.
 

@@ -46,11 +46,11 @@ Eligible Projects.—Funds apportioned to a State under section 104(b)(2) for th
 
 &emsp;(11) Surface transportation planning programs, highway and transit research and development and technology transfer programs, and workforce development, training, and education under chapter 5 of this title.
 
-&emsp;(12) Surface transportation infrastructure modifications to facilitate direct intermodalinterchange, transfer, and access into and out of a port terminal.
+&emsp;(12) Surface transportation infrastructure modifications to facilitate direct intermodal interchange, transfer, and access into and out of a port terminal.
 
 &emsp;(13) Projects and strategies designed to support congestion pricing, including electronic toll collection and travel demand management strategies and programs.
 
-&emsp;(14) Projects and strategies designed to reduce the number of wildlife-vehicle collisions, including project-related planning, design, construction, monitoring, and preventative maintenance.
+&emsp;(14) Projects and strategies designed to reduce the number of wildlife-vehicle collisions,including project-related planning, design, construction, monitoring, and preventative maintenance.
 
 &emsp;(15) The installation of electric vehicle charging infrastructure and vehicle-to-grid infrastructure.
 
@@ -442,7 +442,7 @@ Set aside.—Notwithstanding subsection (c), in addition to the activities descr
 
 Savings clause.—Amounts allocated under subsection (d) shall not be used to carry out this subsection, except at the request of the applicable metropolitan planning organization.
 
-(Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429, §3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193; Pub. L. 109–59, title I, §1113(a)–(b)(2), (c)–(e), title VI, §6006(a)(2), Aug. 10, 2005, 119 Stat. 1171, 1172, 1872; Pub. L. 112–141, div. A, title I, §§1108, 1519(c)(7), formerly §1519(c)(8), July 6, 2012, 126 Stat. 440, 576, renumbered §1519(c)(7), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1109(b), 1407(b), 1446(d)(5)(C), Dec. 4, 2015, 129Stat. 1338, 1410, 1438; Pub. L. 117–58, div. A, title I, §§11109(a), (b)(1), 11508(d)(2), Nov. 15, 2021, 135 Stat. 461, 465, 588.)
+(Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429, §3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193; Pub. L. 109–59, title I, §1113(a)–(b)(2), (c)–(e), title VI, §6006(a)(2), Aug. 10, 2005, 119 Stat. 1171, 1172, 1872; Pub. L. 112–141, div. A, title I, §§1108, 1519(c)(7), formerly §1519(c)(8), July 6, 2012, 126 Stat. 440, 576, renumbered §1519(c)(7), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §§1109(b), 1407(b), 1446(d)(5)(C), Dec. 4, 2015, 129 Stat. 1338, 1410, 1438; Pub. L. 117–58, div. A, title I, §§11109(a), (b)(1), 11508(d)(2), Nov. 15, 2021, 135 Stat. 461, 465, 588.)
 
 #### <b>Editorial Notes</b>
 
@@ -524,7 +524,7 @@ Subsec. (h)(1)(A). Pub. L. 117–58, §11109(b)(1)(A)(ii), substituted "the Secr
 
 &emsp;"(ii) $850,000,000 for each of fiscal years 2018 through 2020; and".
 
-Subsec. (h)(2). Pub. L. 117–58, §11109(b)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Funds reserved for a State under paragraph (1) shall be obligated within that State in the manner described in subsection (d), exceptthat, for purposes of this paragraph (after funds are made available under paragraph (5))—
+Subsec. (h)(2). Pub. L. 117–58, §11109(b)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Funds reserved for a State under paragraph (1) shall be obligated within that State in the manner described in subsection (d), except that, for purposes of this paragraph (after funds are made available under paragraph (5))—
 
 &emsp;"(A) for each fiscal year, the percentage referred to in paragraph (1)(A) of that subsection shall be deemed to be 50 percent; and
 
@@ -612,7 +612,7 @@ Subsec. (b)(7). Pub. L. 112–141, §1108(a)(6), added par. (7) and struck out f
 
 Pub. L. 112–141, §1108(a)(3), redesignated par. (4) as (7). Former par. (7) redesignated (10).
 
-Subsec. (b)(8) to (10). Pub. L. 112–141, §1108(a)(3), redesignated pars. (5) to (7) as (8) to (10), respectively.Former pars. (8) to (10) redesignated (11) to (13), respectively.
+Subsec. (b)(8) to (10). Pub. L. 112–141, §1108(a)(3), redesignated pars. (5) to (7) as (8) to (10), respectively. Former pars. (8) to (10) redesignated (11) to (13), respectively.
 
 Subsec. (b)(11). Pub. L. 112–141, §1108(a)(3), (7), redesignated par. (8) as (11) and substituted "alternatives" for "enhancement activities". Former par. (11) redesignated (14).
 
@@ -678,7 +678,7 @@ Subsec. (d)(3)(D). Pub. L. 105–178, §1108(b)(1), substituted "Hawaii and Alas
 
 Subsec. (d)(5)(C). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted "State transportation department" for "State highway department".
 
-Subsec. (e)(2). Pub. L. 105–178, §1108(c), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The Governor of each State shall certify before the beginning of each quarter of a fiscal year that the State will meet all the requirements of this section and shall notify the Secretary of theamount of obligations expected to be incurred for surface transportation program projects during such quarter. A State may request adjustment to the obligation amounts later in each of such quarters. Acceptance of the notification and certification shall be deemed a contractual obligation of the United States for the payment of the surface transportation program funds expected to be obligated by the State in such quarter for projects not subject to review by the Secretary under this chapter."
+Subsec. (e)(2). Pub. L. 105–178, §1108(c), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "The Governor of each State shall certify before the beginning of each quarter of a fiscal year that the State will meet all the requirements of this section and shall notify the Secretary of the amount of obligations expected to be incurred for surface transportation program projects during such quarter. A State may request adjustment to the obligation amounts later in each of such quarters. Acceptance of the notification and certification shall be deemed a contractual obligation of the United States for the payment of the surface transportation program funds expected to be obligated by the State in such quarter forprojects not subject to review by the Secretary under this chapter."
 
 Subsec. (e)(3)(A). Pub. L. 105–178, §1108(d), struck out at end "Payments shall not exceed the Federal share of costs incurred as of the date the State requests payments."
 

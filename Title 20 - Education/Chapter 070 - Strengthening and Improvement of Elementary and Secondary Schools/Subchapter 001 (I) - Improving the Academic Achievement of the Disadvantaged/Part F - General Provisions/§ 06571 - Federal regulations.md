@@ -28,9 +28,9 @@ The Secretary may issue, in accordance with subsections (b) through (d) and subj
 
 &emsp;Such process—
 
-&emsp;&emsp;(A) shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.); and
+&emsp;&emsp;(A) shall not be subject to chapter 10 of title 5; and
 
-&emsp;&emsp;(B) shall, unless otherwise provided as described in subsection (c), follow the provisions of subchapter III of chapter 5 of title V <sup>1</sup> (commonly known as the "Negotiated Rulemaking Act of 1990").
+&emsp;&emsp;(B) shall, unless otherwise provided as described in subsection (c), follow the provisions of subchapter III of chapter 5 of titleV <sup>1</sup> (commonly known as the "Negotiated Rulemaking Act of 1990").
 
 #### (c) Alternative process for certain exceptions
 
@@ -76,13 +76,9 @@ Regulations to carry out this subchapter may not require local programs to follo
 
 Nothing in this section affects the applicability of subchapter II of chapter 5, and chapter 7, of title 5 (commonly known as the "Administrative Procedure Act") or chapter 8 of title 5 (commonly known as the "Congressional Review Act").
 
-(Pub. L. 89–10, title I, §1601, formerly §1901, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1617; renumbered §1601 and amended Pub. L. 114–95, title I, §§1501(a)(4), 1601(a), Dec. 10, 2015, 129 Stat. 1906, 1910.)
+(Pub. L. 89–10, title I, §1601, formerly §1901, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1617; renumbered §1601 and amended Pub. L. 114–95, title I, §§1501(a)(4), 1601(a), Dec. 10, 2015, 129 Stat. 1906, 1910; Pub. L. 117–286, §4(a)(152), Dec. 27, 2022, 136 Stat. 4322.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (b)(4)(A), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
@@ -91,6 +87,8 @@ A prior section 1601 of Pub. L. 89–10 was classified to section 6511 of this t
 Another prior section 1601 of Pub. L. 89–10 was classified to section 6511 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(4)(A). Pub. L. 117–286 substituted "chapter 10 of title 5;" for "the Federal Advisory Committee Act (5 U.S.C. App.);".
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–95, §1601(a)(1), inserted ", in accordance with subsections (b) through (d) and subject to section 6311(e) of this title," after "may issue".
 
@@ -108,7 +106,7 @@ Subsec. (b)(4). Pub. L. 114–95, §1601(a)(2)(D), added par. (4) and struck out
 
 Subsec. (b)(5). Pub. L. 114–95, §1601(a)(2)(E), struck out par. (5). Text read as follows: "In an emergency situation in which regulations to carry out this subchapter must be issued within a very limited time to assist State educational agencies and local educational agencies with the operation of a program under this subchapter, the Secretary may issue proposed regulations without following such process but shall, immediately thereafter and before issuing final regulations, conduct regional meetings to review such proposed regulations."
 
-Subsecs. (c), (d). Pub. L. 114–95, §1601(a)(3)–(5), added subsec. (c), redesignated former subsec. (c) as (d), and in subsec. (d) substituted "this subchapter" for "this part".
+Subsecs. (c), (d). Pub. L. 114–95, §1601(a)(3)–(5), added subsec. (c), redesignated former subsec. (c) as (d), andin subsec. (d) substituted "this subchapter" for "this part".
 
 Subsec. (e). Pub. L. 114–95, §1601(a)(6), added subsec. (e).
 

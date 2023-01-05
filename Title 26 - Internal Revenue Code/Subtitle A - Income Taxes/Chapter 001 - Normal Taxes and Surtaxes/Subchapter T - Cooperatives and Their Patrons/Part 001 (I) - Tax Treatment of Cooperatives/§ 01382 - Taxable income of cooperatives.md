@@ -2,7 +2,7 @@
 
 #### (a) Gross income
 
-Except as provided in subsection (b), the gross income of any organization to which this part applies shall be determined without any adjustment (as a reduction in gross receipts, an increase in cost of goods sold, or otherwise) by reason of any allocation or distribution to a patron out of the net earnings of such organization or by reason of any amount paid to a patron as a per-unit retain allocation (as defined in section 1388(f)).
+Except as provided in subsection (b), the gross income of any organization to which this part applies shall be determined without any adjustment (as a reduction in gross receipts, an increase in cost of goods sold, or otherwise) byreason of any allocation or distribution to a patron out of the net earnings of such organization or by reason of any amount paid to a patron as a per-unit retain allocation (as defined in section 1388(f)).
 
 #### (b) Patronage dividends and per-unit retain allocations
 
@@ -56,7 +56,7 @@ If any portion of the earnings from business done with or for patrons is includi
 
 &emsp;&emsp;(B) with respect to the pool, the organization has entered into an agreement with the United States or any of its agencies which includes provisions to the effect that—
 
-&emsp;&emsp;&emsp;(i) the United States or such agency shall provide a loan to the organizationwith the products comprising the pool serving as collateral for such loan,
+&emsp;&emsp;&emsp;(i) the United States or such agency shall provide a loan to the organization with the products comprising the pool serving as collateral for such loan,
 
 &emsp;&emsp;&emsp;(ii) the organization shall use an amount equal to the proceeds of such loan to make price support advances to eligible producers (as determined by the United States or such agency), to defray costs of handling, processing, and storing such products, or to pay all or part of any administrative costs associated with the price support program,
 

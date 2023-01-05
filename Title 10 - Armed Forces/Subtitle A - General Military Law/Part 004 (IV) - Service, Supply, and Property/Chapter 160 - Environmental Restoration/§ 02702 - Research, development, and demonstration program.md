@@ -34,7 +34,7 @@ In general.—The Secretary shall develop, collect, evaluate, and disseminate in
 
 Role of epa.—The functions of the Secretary under paragraph (1) shall be carried out in cooperation and consultation with the Administrator. To the extent appropriate and agreed upon by the Administrator and the Secretary, the Administrator shall evaluate and disseminate such information through the office of technology demonstration of the Environmental Protection Agency.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1721; amended Pub. L. 108–375, div. A, title X, §1084(d)(25), Oct. 28, 2004, 118 Stat. 2063.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1721; amended Pub. L. 108–375,div. A, title X, §1084(d)(25), Oct. 28, 2004, 118 Stat. 2063.)
 
 #### <b>Editorial Notes</b>
 

@@ -14,7 +14,7 @@ In undertaking the consideration and making the determination under section 2621
 
 #### (b) Time-of-day rates
 
-In undertaking the consideration and making the determination required under section 2621 of this title with respect to the standard for time-of-day rates established by section 2621(d)(3) of this title and the standard for time-based metering and communications established by section 2621(d)(14) of this title, a time-of-day rate charged by an electric utility for providing electric service to each class of electric consumers shall be determined to be cost-effective with respect to each such class if the long-run benefits of such rate to the electric utility and its electric consumers in the class concerned are likely to exceed the metering and communications costs and other costs associated with the use of such rates.
+In undertaking the consideration and making the determination required under section 2621 ofthis title with respect to the standard for time-of-day rates established by section 2621(d)(3) of this title and the standard for time-based metering and communications established by section 2621(d)(14) of this title, a time-of-day rate charged by an electric utility for providing electric service to each class of electric consumers shall be determined to be cost-effective with respect to each such class if the long-run benefits of such rate to the electric utility and its electric consumers in the class concerned are likely to exceed the metering and communications costs and other costs associated with the use of such rates.
 
 #### (c) Load management techniques
 
@@ -62,7 +62,7 @@ Separate metering shall be determined appropriate for any new building for purpo
 
 > Such summary may be transmitted together with such consumer's billing or in such other manner as the State regulatory authority or nonregulated electric utility deems appropriate.
 
-(3) For purposes of the standard for information to consumers established by section 2623(b)(3) of this title, each electric utility, on request of an electric consumer of such utility,shall transmit to such consumer a clear and concise statement of the actual consumption (or degree-day adjusted consumption) of electric energy by such consumer for each billing period during the prior year (unless such consumption data is not reasonably ascertainable by the utility).
+(3) For purposes of the standard for information to consumers established by section 2623(b)(3) of this title, each electric utility, on request of an electric consumer of such utility, shall transmit to such consumer a clear and concise statement of the actual consumption (or degree-day adjusted consumption) of electric energy by such consumer for each billing period during the prior year (unless such consumption data is not reasonably ascertainable by the utility).
 
 #### (g) Procedures for termination of electric service
 
@@ -114,7 +114,7 @@ In making a determination with respect to the standard established by section 26
 
 #### References in Text
 
-The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
 
 #### Amendments
 

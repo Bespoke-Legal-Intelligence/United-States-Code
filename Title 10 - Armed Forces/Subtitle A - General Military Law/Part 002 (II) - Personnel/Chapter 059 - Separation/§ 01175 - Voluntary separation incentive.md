@@ -1,6 +1,6 @@
 ### §1175. Voluntary separation incentive
 
-(a)(1) Consistent with this section and the availability of appropriations for this purpose,the Secretary of Defense and the Secretary of Homeland Security may provide a financial incentive to members of the armed forces described in subsection (b) for voluntary appointment, enlistment, or transfer to a reserve component, requested and approved under subsection (c).
+(a)(1) Consistent with this section and the availability of appropriations for this purpose, the Secretary of Defense and the Secretary of Homeland Security may provide a financial incentive to members of the armed forces described in subsection (b) for voluntary appointment, enlistment, or transfer to a reserve component, requested and approved under subsection (c).
 
 (2)(A) Except as provided in subparagraph (B), a financial incentive provided a member under this section shall be paid for the period equal to twice the number of years of service of the member, computed as provided in subsection (e)(5).
 
@@ -92,19 +92,19 @@
 
 (i) The Secretary of Defense and the Secretary of Homeland Security may issue such regulations as may be necessary to carry out this section.
 
-(j) A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 474 and 476 <sup>1</sup> of title 37, and section 503(c) <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 476 note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
+(j) A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 452 and 453(c) of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; 37 U.S.C. 476 <sup>1</sup> note) for members of the armed forces who are involuntarily separated within the meaning of section 1141 of this title.
 
-(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, §906(c)(1), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–32, title III, §318(b), June 24, 2009, 123 Stat. 1874; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Added Pub. L. 102–190, div. A, title VI, §662(a)(1), Dec. 5, 1991, 105 Stat. 1396; amended Pub. L. 102–484, div. A, title X, §1052(16), div. D, title XLIV, §§4405(b), 4406(a), (b), 4422(b), Oct. 23, 1992, 106 Stat. 2499, 2706, 2707, 2719; Pub. L. 103–160, div. A, title V, §§502, 561(h), Nov. 30, 1993, 107 Stat. 1644, 1668; Pub. L. 103–337, div. A, title V, §542(c), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 105–261, div. A, title V, §§561(b), 563(a), (b), Oct. 17, 1998, 112 Stat. 2025, 2028; Pub. L. 106–398, §1 \[\[div. A\], title V, §§571(b), 572(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title IX, §906(c)(1), Jan. 28, 2008, 122 Stat. 277; Pub. L. 111–32, title III, §318(b), June 24, 2009, 123 Stat. 1874; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 117–263, div. A, title VI, §626(c)(3), Dec. 23, 2022, 136 Stat. 2628.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Sections 474 and 476 of title 37, referred to in subsec. (j), were repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
-
-Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (j), is section 503(c) of Pub. L. 101–510, div. A, title V, Nov. 5, 1990, 104 Stat. 1558, which was formerly set out as a note under section 476 of Title 37, Pay and Allowances of the Uniformed Services, prior to being omitted from the Code as obsolete.
+Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (j), is section 503(c) of Pub. L. 101–510, div. A, title V, Nov. 5, 1990, 104 Stat. 1558, which was formerly set out as a note under section 476 of Title 37, Pay and Allowances of the Uniformed Services, prior to transfer and is now set out as a note under section 453 of Title 37.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (j). Pub. L. 117–263 substituted "sections 452 and 453(c)" for "sections 474 and 476".
 
 <b>2013</b>—Subsec. (j). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
@@ -162,7 +162,7 @@ Subsec. (j). Pub. L. 102–484, §4405(b), added subsec. (j).
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date of 2009 Amendment
 
@@ -182,7 +182,7 @@ Pub. L. 105–261, div. A, title V, §563(c), Oct. 17, 1998, 112 Stat. 2028, pro
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated afterSept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
+Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
 
 #### Effective Date of 1992 Amendment
 

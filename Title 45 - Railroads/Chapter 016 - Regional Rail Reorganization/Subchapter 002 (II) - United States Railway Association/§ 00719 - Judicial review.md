@@ -30,7 +30,7 @@ Within 90 days after its effective date, the Association shall deliver a certifi
 
 &emsp;(2) which rail properties of the respective railroads in reorganization in the region or person leased,<sup>1</sup> operated, or controlled by such railroads in reorganization are to be conveyed to profitable railroads, in accordance with the final system plan;
 
-&emsp;(3) the amount, terms, and value of the securities of the Corporation or any subsidiarythereof (including any certificates of value of the Association) to be exchanged for those rail properties to be transferred to the Corporation or any subsidiary thereof pursuant to the final system plan, and as indicated in paragraph (1) of this subsection; and
+&emsp;(3) the amount, terms, and value of the securities of the Corporation or any subsidiary thereof (including any certificates of value of the Association) to be exchanged for those railproperties to be transferred to the Corporation or any subsidiary thereof pursuant to the final system plan, and as indicated in paragraph (1) of this subsection; and
 
 &emsp;(4) that the transfer of rail properties in exchange for securities of the Corporation or any subsidiary thereof (including any certificates of value of the Association) and other benefits is fair and equitable and in the public interest.
 
@@ -68,7 +68,7 @@ Within 90 days after its effective date, the Association shall deliver a certifi
 
 #### (f) Disposition of cash deposits
 
-Whenever the compensation which is deposited with the special court under section 743(a) of this title is in the form of cash, such cash shall be invested and reinvested upon such terms and conditions as the special court shall determine, pending the making of the findings referred to in paragraphs (1), (2), and (3) of section 743(c) of this title. Notwithstanding section 743(c)(4) of this title, the special court may order (1) the income from such investments, (2) the dividends or interest, if any, received on any securities or obligations deposited with the special court under such section 743(a) of this title, and (3) the income, if any, received with respect to any other form of compensation so deposited, to be distributed to the trustee of each railroad in reorganization and to any person leased, operated or controlled by such a railroad which conveyed the right, title, and interest in the rail properties with respect to which such cash, securities, obligations, or other compensation have been so deposited with the special court. Notwithstanding section 743(c)(4) of this title, the special court may, within 90 days after the date of conveyance of rail properties pursuant to section 743(b) of this title, order up to 25 percent of any cash (including investments made with cash) and other compensation deposited with the special court to be distributed to such trustee or person. On petition of the applicable trustee or person, the special court may order such additional distributions as it finds reasonableand appropriate, prior to the making of the findings referred to in paragraphs (1), (2), and (3) of such section 743(c) of this title.
+Whenever the compensation which is deposited with the special court under section 743(a) of this title is in the form of cash, such cash shall be invested and reinvested upon such terms and conditions as the special court shall determine, pending the making of the findings referred to in paragraphs (1), (2), and (3) of section 743(c) of this title. Notwithstanding section 743(c)(4) of this title, the special court may order (1) the income from such investments, (2) the dividends or interest, if any, received on any securities or obligations deposited with the special court under such section 743(a) of this title, and (3) the income, if any, received with respect to any other form of compensation so deposited, to be distributed to the trustee of each railroad in reorganization and to any person leased, operated or controlled by such a railroad which conveyed the right, title, and interest in the rail properties with respect to which such cash, securities, obligations, or other compensation have been so deposited with the special court. Notwithstanding section 743(c)(4) of this title, the special court may, within 90 days after the date of conveyance of rail properties pursuant to section 743(b) of this title, order up to 25 percent of any cash (including investments made with cash) and other compensation deposited with the special court to be distributed to such trustee or person. On petition of the applicable trustee or person, the special court may order such additional distributions as it finds reasonable and appropriate, prior to the making of the findings referred to in paragraphs (1), (2), and (3) of such section 743(c) of this title.
 
 #### (g) Stay of court proceedings
 
@@ -80,7 +80,7 @@ The special court may stay or enjoin any action or proceeding in any State court
 
 #### References in Text
 
-Section 77 of the Bankruptcy Act, referred to in subsec. (b)(1), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
+Section 77 of the Bankruptcy Act, referred to in subsec. (b)(1), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
 Section 605 of the Federal Courts Improvement Act of 1996, referred to in subsec. (b)(2)(F), is section 605 of Pub. L. 104–317, title VI, Oct. 19, 1996, 110 Stat. 3858, which amended this section and sections 743, 745, 1104, and 1105 of this title and enacted provisions set out as notes under this section.
 
@@ -140,7 +140,7 @@ Application of National Environmental Policy Act to actions of Commission not af
 
 #### Rules of the Special Court, Regional Rail Reorganization Act of 1973
 
-Rules of the Special Court, Regional Rail Reorganization Act of 1973, formerly set out under this section, were omitted because the Special Court was abolished effective 90 days after Oct. 19, 1996. See subsec. (b)(2) of this section.
+Rules of the Special Court, Regional Rail Reorganization Act of 1973, formerly set out under this section, were omitted because the Special Court was abolishedeffective 90 days after Oct. 19, 1996. See subsec. (b)(2) of this section.
 
 <i><sup>1</sup></i><i> See Codification note below.</i>
 

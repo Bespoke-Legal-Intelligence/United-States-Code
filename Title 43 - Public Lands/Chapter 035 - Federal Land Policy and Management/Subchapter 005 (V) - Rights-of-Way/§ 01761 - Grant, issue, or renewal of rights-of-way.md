@@ -14,7 +14,7 @@ The Secretary, with respect to the public lands (including public lands, as defi
 
 &emsp;(5) systems for transmission or reception of radio, television, telephone, telegraph, and other electronic signals, and other means of communication;
 
-&emsp;(6) roads, trails, highways, railroads, canals, tunnels, tramways, airways, livestock driveways, or other means of transportation except where such facilities are constructed andmaintained in connection with commercial recreation facilities on lands in the National Forest System; or
+&emsp;(6) roads, trails, highways, railroads, canals, tunnels, tramways, airways, livestock driveways, or other means of transportation except where such facilities are constructed and maintained in connection with commercial recreation facilities on lands in the National Forest System; or
 
 &emsp;(7) such other necessary transportation or other systems or facilities which are in the public interest and which require rights-of-way over, upon, under, or through such lands.
 
@@ -54,7 +54,7 @@ The Secretary, with respect to the public lands (including public lands, as defi
 
 (3)(A) Except as otherwise provided in this subsection, the Secretary of Agriculture may terminate or suspend an easement issued pursuant to this subsection in accordance with the procedural and other provisions of section 1766 of this title. An easement issued pursuant to this subsection shall terminate if the water system for which such easement was issued is used for any purpose other than agricultural irrigation or livestock watering use. For purposes of subparagraph (D) of paragraph (1) of this subsection, non-use of a water system for agricultural irrigation or livestock watering purposes for any continuous five-year period shall constitute a rebuttable presumption of abandonment of the facilities comprising such system.
 
-(B) Nothing in this subsection shall be deemed to be an assertion by the United States of anyright or claim with regard to the reservation, acquisition, or use of water. Nothing in this subsection shall be deemed to confer on the Secretary of Agriculture any power or authority to regulate or control in any manner the appropriation, diversion, or use of water for any purpose (nor to diminish any such power or authority of such Secretary under applicable law) or to require the conveyance or transfer to the United States of any right or claim to the appropriation, diversion, or use of water.
+(B) Nothing in this subsection shall be deemed to be an assertion by the United States of any right or claim with regard to the reservation, acquisition, or use of water. Nothing in this subsection shall be deemed to confer on the Secretary of Agriculture any power or authority to regulate or control in any manner the appropriation, diversion, or use of water for any purpose (nor to diminish any such power or authority of such Secretary under applicable law) or to require the conveyance or transfer to the United States of any right or claim to the appropriation, diversion, or use of water.
 
 (C) Except as otherwise provided in this subsection, all rights-of-way issued pursuant to this subsection are subject to all conditions and requirements of this Act.
 
@@ -70,9 +70,9 @@ With respect to any project or portion thereof that was licensed pursuant to, or
 
 #### References in Text
 
-The Federal Power Act, referred to in subsecs. (a)(4) and (d), is act June 20, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. Part I of the Act is classified generally to subchapter I (§791a et seq.) of chapter 12 of Title 16. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+The Federal Power Act, referred to in subsecs. (a)(4) and (d), is act June 20, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. Part I of the Act is classified generally to subchapter I (§791a et seq.) of chapter 12 of Title 16. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
-This Act, referred to in subsecs. (b)(1) and (c)(3)(C), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (b)(1) and (c)(3)(C), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

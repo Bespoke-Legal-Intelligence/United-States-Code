@@ -72,7 +72,7 @@ In considering whether to designate an area under this section as a high intensi
 
 #### (3) Board representation
 
-&emsp;None of the funds appropriated under this section may be expended for any high intensity drug trafficking area, or for a partnership or region of a high intensity drug trafficking area, if the Executive Board for such area, region, or partnership, does not apportion an equal number of votes between representatives of participating Federal agencies and representatives of participating State, local, and tribal agencies. Where it is impractical for an equal number of representatives of Federal agencies and State, local, and tribal agencies to attend a meeting of an Executive Board in person, the Executive Board may use a system of proxy votes or weighted votes to achieve the voting balance required by this paragraph.
+&emsp;None of the funds appropriated under this section may be expended for any high intensity drug trafficking area, or for a partnership or region of a high intensity drug trafficking area, if the Executive Board for such area, region, or partnership, does not apportion an equal number of votes between representatives of participating Federal agencies and representatives of participating State, local, andtribal agencies. Where it is impractical for an equal number of representatives of Federal agencies and State, local, and tribal agencies to attend a meeting of an Executive Board in person, the Executive Board may use a system of proxy votes or weighted votes to achieve the voting balance required by this paragraph.
 
 #### (4) No agency relationship
 

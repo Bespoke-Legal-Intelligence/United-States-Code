@@ -58,6 +58,7 @@
 | [<b>46A.</b>](Chapter%20046A%20-%20Foreign%20Direct%20Investment%20and%20International%20Financial%20Data/README.md) | <b>Foreign Direct Investment and International Financial Data</b> | <b>3141</b> |
 | [<b>47.</b>](Chapter%20047%20-%20Nuclear%20Non-Proliferation/README.md) | <b>Nuclear Non-Proliferation</b> | <b>3201</b> |
 | [<b>48.</b>](Chapter%20048%20-%20Taiwan%20Relations/README.md) | <b>Taiwan Relations</b> | <b>3301</b> |
+| [<b>48A.</b>](Chapter%20048A%20-%20Taiwan%20Enhanced%20Resilience/README.md) | <b>Taiwan Enhanced Resilience</b> | <b>3351</b> |
 | [<b>49.</b>](Chapter%20049%20-%20Support%20of%20Peace%20Treaty%20Between%20Egypt%20and%20Israel/README.md) | <b>Support of Peace Treaty Between Egypt and Israel</b> | <b>3401</b> |
 | [<b>50.</b>](Chapter%20050%20-%20Institute%20for%20Scientific%20and%20Technological%20Cooperation/README.md) | <b>Institute for Scientific and Technological Cooperation</b> | <b>3501</b> |
 | [<b>51.</b>](Chapter%20051%20-%20Panama%20Canal/README.md) | <b>Panama Canal</b> | <b>3601</b> |
@@ -122,6 +123,9 @@
 | [<b>105.</b>](Chapter%20105%20-%20Global%20Fragility/README.md) | <b>Global Fragility</b> | <b>9801</b> |
 | [<b>106.</b>](Chapter%20106%20-%20Championing%20American%20Business%20Through%20Diplomacy/README.md) | <b>Championing American Business Through Diplomacy</b> | <b>9901</b> |
 | [<b>107.</b>](Chapter%20107%20-%20Sudan%20Democratic%20Transition%2C%20Accountability%2C%20and%20Fiscal%20Transparency/README.md) | <b>Sudan Democratic Transition, Accountability, and Fiscal Transparency</b> | <b>10001</b> |
+| [<b>108.</b>](Chapter%20108%20-%20Global%20Magnitsky%20Human%20Rights%20Accountability/README.md) | <b>Global Magnitsky Human Rights Accountability</b> | <b>10101</b> |
+| [<b>109.</b>](Chapter%20109%20-%20Burma%20Unified%20Through%20Rigorous%20Military%20Accountability/README.md) | <b>Burma Unified through Rigorous Military Accountability</b> | <b>10201</b> |
+| [<b>110.</b>](Chapter%20110%20-%20Information%20Security%20and%20Cyber%20Diplomacy/README.md) | <b>Information Security and Cyber Diplomacy</b> | <b>10301</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -185,6 +189,7 @@
 - [Chapter 046A - Foreign Direct Investment and International Financial Data](Chapter%20046A%20-%20Foreign%20Direct%20Investment%20and%20International%20Financial%20Data/README.md)
 - [Chapter 047 - Nuclear Non-Proliferation](Chapter%20047%20-%20Nuclear%20Non-Proliferation/README.md)
 - [Chapter 048 - Taiwan Relations](Chapter%20048%20-%20Taiwan%20Relations/README.md)
+- [Chapter 048A - Taiwan Enhanced Resilience](Chapter%20048A%20-%20Taiwan%20Enhanced%20Resilience/README.md)
 - [Chapter 049 - Support of Peace Treaty Between Egypt and Israel](Chapter%20049%20-%20Support%20of%20Peace%20Treaty%20Between%20Egypt%20and%20Israel/README.md)
 - [Chapter 050 - Institute for Scientific and Technological Cooperation](Chapter%20050%20-%20Institute%20for%20Scientific%20and%20Technological%20Cooperation/README.md)
 - [Chapter 051 - Panama Canal](Chapter%20051%20-%20Panama%20Canal/README.md)
@@ -249,3 +254,6 @@
 - [Chapter 105 - Global Fragility](Chapter%20105%20-%20Global%20Fragility/README.md)
 - [Chapter 106 - Championing American Business Through Diplomacy](Chapter%20106%20-%20Championing%20American%20Business%20Through%20Diplomacy/README.md)
 - [Chapter 107 - Sudan Democratic Transition, Accountability, and Fiscal Transparency](Chapter%20107%20-%20Sudan%20Democratic%20Transition%2C%20Accountability%2C%20and%20Fiscal%20Transparency/README.md)
+- [Chapter 108 - Global Magnitsky Human Rights Accountability](Chapter%20108%20-%20Global%20Magnitsky%20Human%20Rights%20Accountability/README.md)
+- [Chapter 109 - Burma Unified Through Rigorous Military Accountability](Chapter%20109%20-%20Burma%20Unified%20Through%20Rigorous%20Military%20Accountability/README.md)
+- [Chapter 110 - Information Security and Cyber Diplomacy](Chapter%20110%20-%20Information%20Security%20and%20Cyber%20Diplomacy/README.md)

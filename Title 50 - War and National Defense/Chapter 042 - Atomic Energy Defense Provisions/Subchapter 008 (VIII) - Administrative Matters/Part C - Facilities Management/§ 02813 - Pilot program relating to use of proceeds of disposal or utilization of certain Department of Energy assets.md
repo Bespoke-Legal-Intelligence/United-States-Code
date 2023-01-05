@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to encourage the Secretary of Energy to dispose of or otherwise utilize certain assets of the Department of Energy by making available to the Secretary theproceeds of such disposal or utilization for purposes of defraying the costs of such disposal or utilization.
+The purpose of this section is to encourage the Secretary of Energy to dispose of or otherwise utilize certain assets of the Department of Energy by making available to the Secretary the proceeds of such disposal or utilization for purposes of defraying the costs of such disposal or utilization.
 
 #### (b) Use of proceeds to defray costs
 

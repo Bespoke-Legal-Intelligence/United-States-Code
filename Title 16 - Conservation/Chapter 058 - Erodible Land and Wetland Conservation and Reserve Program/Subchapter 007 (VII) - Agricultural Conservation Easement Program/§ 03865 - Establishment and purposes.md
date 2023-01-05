@@ -22,7 +22,7 @@ The purposes of the program are to—
 
 #### References in Text
 
-Sections 3837, 3838n, and 3838i of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–79, titleII, §§2703(a), 2704(a), 2705(a), Feb. 7, 2014, 128 Stat. 767, 768.
+Sections 3837, 3838n, and 3838i of this title, referred to in subsec. (b)(1), were repealed by Pub. L. 113–79, title II, §§2703(a), 2704(a), 2705(a), Feb. 7, 2014, 128 Stat. 767, 768.
 
 #### Amendments
 

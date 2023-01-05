@@ -24,7 +24,7 @@ In this section:
 
 #### (b) Required disclosures
 
-Each State or local government that receives a homeland security grant shall, not later than12 months after the later of October 13, 2006, and the date of receipt of such grant, and every 12 months thereafter until all funds provided under such grant are expended, submit a report to the Secretary that contains a list of all expenditures made by such State or local government using funds from such grant.
+Each State or local government that receives a homeland security grant shall, not later than 12 months after the later of October 13, 2006, and the date of receipt of such grant, and every 12 months thereafter until all funds provided under such grant are expended, submit a report to the Secretary that contains a list of all expenditures made by such State or local government using funds from such grant.
 
 (Pub. L. 109–347, title VII, §702, Oct. 13, 2006, 120 Stat. 1943.)
 

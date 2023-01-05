@@ -12,7 +12,7 @@ The Secretary shall provide support and technical assistance to a State educatio
 
 #### (1) In general
 
-&emsp;The Secretary shall, before the next school year that begins after December 10, 2015, update and disseminate nationwide the public notice described in this subsection (as in effect prior to such date) of the educational rights of homeless children and youths.
+&emsp;The Secretary shall, before the next school year that begins after December 10, 2015, update and disseminate nationwide the public notice described in this subsection (as in effectprior to such date) of the educational rights of homeless children and youths.
 
 #### (2) Dissemination
 

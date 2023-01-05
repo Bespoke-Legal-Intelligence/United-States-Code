@@ -18,13 +18,13 @@ Unless otherwise prescribed by the Secretary—
 
 #### (c) Delinquent Internal Revenue officers and employees
 
-If any officer or employee of the Treasury Department acting in connection with the internal revenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay the amount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
+If any officer or employee of the Treasury Department acting in connection with the internalrevenue laws fails to account for and pay over any amount of money or property collected or received by him in connection with the internal revenue laws, the Secretary shall issue notice and demand to such officer or employee for payment of the amount which he failed to account for and pay over, and, upon failure to pay the amount demanded within the time specified in such notice, the amount so demanded shall be deemed imposed upon such officer or employee and assessed upon the date of such notice and demand, and the provisions of chapter 64 and all other provisions of law relating to the collection of assessed taxes shall be applicable in respect of such amount.
 
 #### (d) Prohibition on rehiring employees involuntarily separated
 
 The Commissioner may not hire any individual previously employed by the Commissioner who was removed for misconduct under this subchapter or chapter 43 or chapter 75 of title 5, United States Code, or whose employment was terminated under section 1203 of the Internal Revenue Service Restructuring and Reform Act of 1998 (26 U.S.C. 7804 note).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 916; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title I, §1104(a), July22, 1998, 112 Stat. 710; Pub. L. 116–25, title III, §3001(a), July 1, 2019, 133 Stat. 1014.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 916; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title I, §1104(a), July 22, 1998, 112 Stat. 710; Pub. L. 116–25, title III, §3001(a), July 1, 2019, 133 Stat. 1014.)
 
 #### <b>Editorial Notes</b>
 
@@ -246,7 +246,7 @@ Taxpayer Service.—The Internal Revenue Service shall use the fair and equitabl
 
 "(c)
 
-Certification.—Each appropriate supervisor shall certify quarterly by letter to the Commissioner ofInternal Revenue whether or not tax enforcement results are being used in a manner prohibited by subsection (a).
+Certification.—Each appropriate supervisor shall certify quarterly by letter to the Commissioner of Internal Revenue whether or not tax enforcement results are being used in a manner prohibited by subsection (a).
 
 "(d)
 

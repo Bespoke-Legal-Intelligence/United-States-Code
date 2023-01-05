@@ -60,7 +60,7 @@
 
 &emsp;&emsp;"(III) any combination of words that would imply to a reasonable observer that the manufacturer, distributor, or retailer has a sponsorship that would violate section 897.34(c).
 
-"(D) Distribution of samples of smokeless tobacco under this subparagraph permitted to be taken out of the qualified adult-only facility shall be limited to 1 package per adult consumer containing no more than 0.53 ounces (15 grams) of smokeless tobacco. If such package of smokeless tobacco contains individual portions of smokeless tobacco, the individual portions of smokeless tobacco shall not exceed 8 individual portions and the collective weight of such individual portions shall not exceed 0.53 ounces (15 grams). Any manufacturer, distributor, or retailer who distributes or causes to be distributed free samples also shall take reasonable steps to ensure that the above amounts are limited to one such package per adult consumer per day.
+"(D) Distribution of samples of smokeless tobacco under this subparagraph permitted to be taken out of the qualified adult-only facility shall be limited to 1 package per adult consumer containing no more than 0.53 ounces (15 grams)of smokeless tobacco. If such package of smokeless tobacco contains individual portions of smokeless tobacco, the individual portions of smokeless tobacco shall not exceed 8 individual portions and the collective weight of such individual portions shall not exceed 0.53 ounces (15 grams). Any manufacturer, distributor, or retailer who distributes or causes to be distributed free samples also shall take reasonable steps to ensure that the above amounts are limited to one such package per adult consumer per day.
 
 "(3) Notwithstanding subparagraph (2), no manufacturer, distributor, or retailer may distribute or cause to be distributed any free samples of smokeless tobacco—
 
@@ -110,7 +110,7 @@ As of June 22, 2009, the following documents issued by the Food and Drug Adminis
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1)(A), is act June 25, 1938, ch. 675, 52Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. Chapter 9 \[IX\] of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of this title. Chapter 9 \[IX\] of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 This division, referred to in subsec. (a)(2)(A), (5), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776, known as the Family Smoking Prevention and Tobacco Control Act. For complete classification of division A to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
 

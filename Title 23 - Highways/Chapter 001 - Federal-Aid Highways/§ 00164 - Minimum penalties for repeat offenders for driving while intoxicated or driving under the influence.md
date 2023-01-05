@@ -68,7 +68,7 @@ Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a Stat
 
 &emsp;&emsp;(A) to be used for alcohol- or multiple substance-impaired driving countermeasures; or
 
-&emsp;&emsp;(B) to be directed to State and local law enforcement agencies for enforcement of laws prohibiting driving while intoxicated, driving while multiple substance-impaired, or driving under the influence and other related laws (including regulations), including the purchase of equipment, the training of officers, and the use of additional personnel for specific alcohol-impaired driving countermeasures, dedicated to enforcement of the laws (including regulations).
+&emsp;&emsp;(B) to be directed to State and local law enforcement agencies for enforcement of laws prohibiting driving while intoxicated, driving while multiple substance-impaired, or driving under the influence and other related laws (including regulations), including the purchase of equipment, the training of officers, and the use of additional personnel for specific alcohol- or multiple substance-impaired driving countermeasures, dedicated to enforcement of the laws (including regulations).
 
 &emsp;(2)
 

@@ -132,7 +132,7 @@ Sec. 4. <i>Assessing the Domestic and Economic Impacts of Undermining Hydraulic 
 
 (i) the economic impacts of prohibiting, or sharply restricting, the use of hydraulic fracturing and other technologies, including the following:
 
-&emsp;(A) any loss of jobs, wages, benefits, and other economic opportunities by Americans who work in or are indirectly benefited by the energy industry and other industries (including mining for sand and other minerals);
+&emsp;(A) any loss of jobs, wages, benefits, and other economic opportunities by Americans who work in or are indirectly benefited by the energy industry andother industries (including mining for sand and other minerals);
 
 &emsp;(B) any increases in energy prices (including the prices of gasoline, electricity, heating, and air conditioning) for Americans (including senior citizens and other persons on fixed incomes) and businesses;
 

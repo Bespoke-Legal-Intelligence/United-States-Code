@@ -2,7 +2,7 @@
 
 #### (a) Payments to providers of services or other person regarded as payment to individuals
 
-Any payment under this subchapter to any provider of services or other person with respect to any items or services furnished any individual shall be regarded as a payment to such individual.
+Any payment under this subchapter to any provider of services or other person with respectto any items or services furnished any individual shall be regarded as a payment to such individual.
 
 #### (b) Incorrect payments on behalf of individuals; payment adjustment
 
@@ -22,7 +22,7 @@ Where—
 
 #### (c) Exception to subsection (b) payment adjustment
 
-There shall be no adjustment as provided in subsection (b) (nor shall there be recovery) in any case where the incorrect payment has been made (including payments under section 1395f(e) of this title) with respect to an individual who is without fault or where the adjustment (or recovery) would be made by decreasing payments to which another person who is without fault is entitled as provided in subsection (b)(4), if such adjustment (or recovery) would defeat the purposes of subchapter II or subchapter XVIII or would be against equity and good conscience. Adjustment or recovery of an incorrect payment (or only such part of an incorrect payment as the Secretary determines to be inconsistentwith the purposes of this subchapter) against an individual who is without fault shall be deemed to be against equity and good conscience if (A) the incorrect payment was made for expenses incurred for items or services for which payment may not be made under this subchapter by reason of the provisions of paragraph (1) or (9) of section 1395y(a) of this title and (B) if the Secretary's determination that such payment was incorrect was made subsequent to the fifth year following the year in which notice of such payment was sent to such individual; except that the Secretary may reduce such five-year period to not less than one year if he finds such reduction is consistent with the objectives of this subchapter.
+There shall be no adjustment as provided in subsection (b) (nor shall there be recovery) in any case where the incorrect payment has been made (including payments under section 1395f(e) of this title) with respect to an individual who is without fault or where the adjustment (or recovery) would be made by decreasing payments to which another person who is without fault is entitled as provided in subsection (b)(4), if such adjustment (or recovery) would defeat the purposes of subchapter II or subchapter XVIII or would be against equity and good conscience. Adjustment or recovery of an incorrect payment (or only such part of an incorrect payment as the Secretary determines to be inconsistent with the purposes of this subchapter) against an individual who is without fault shall be deemed to be against equity and good conscience if (A) the incorrect payment was made for expenses incurred for items or services for which payment may not be made under this subchapter by reason of the provisions of paragraph (1) or (9) of section 1395y(a) of this title and (B) if the Secretary's determination that such payment was incorrect was made subsequent to the fifth year following the year in which notice of such payment was sent to such individual; except that the Secretary may reduce such five-year period to not less than one year if he finds such reduction is consistent with the objectives of this subchapter.
 
 #### (d) Liability of certifying or disbursing officer for failure to recoup
 

@@ -26,7 +26,7 @@ The Secretary is directed to promulgate regulations exempting from any labeling 
 
 #### (c) Sales restrictions
 
-(1) No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d), the term "drug sample" means a unit of a drug, subject to subsection (b), which is not intended to be sold and is intended to promote thesale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
+(1) No person may sell, purchase, or trade or offer to sell, purchase, or trade any drug sample. For purposes of this paragraph and subsection (d), the term "drug sample" means a unit of a drug, subject to subsection (b), which is not intended to be sold and is intended to promote the sale of the drug. Nothing in this paragraph shall subject an officer or executive of a drug manufacturer or distributor to criminal liability solely because of a sale, purchase, trade, or offer to sell, purchase, or trade in violation of this paragraph by other employees of the manufacturer or distributor.
 
 (2) No person may sell, purchase, or trade, offer to sell, purchase, or trade, or counterfeit any coupon. For purposes of this paragraph, the term "coupon" means a form which may be redeemed, at no cost or at a reduced cost, for a drug which is prescribed in accordance with subsection (b).
 
@@ -162,7 +162,7 @@ Costs.—
 
 &emsp;(A)
 
-Authorized fees of secretary.—If a State does not establish a licensing program for persons engaged in the wholesale distribution of a drug subject to subsection (b), the Secretary shall license a person engaged in wholesale distribution located in such State and may collect a reasonable fee in such amount necessary to reimburse the Secretary for costs associated with establishing and administering the licensure program and conducting periodic inspections under this section. The Secretary shall adjust fee rates as needed on an annual basis to generate only the amount of revenue needed to perform this service. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount providedin advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
+Authorized fees of secretary.—If a State does not establish a licensing program for persons engaged in the wholesale distribution of a drug subject to subsection (b), the Secretary shall license a person engaged in wholesale distribution located in such State and may collect a reasonable fee in such amount necessary to reimburse the Secretary for costs associated with establishing and administering the licensure program and conducting periodic inspections under this section. The Secretary shall adjust fee rates as needed on an annual basis to generate only the amount of revenue needed to perform this service. Fees authorized under this paragraph shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary maybe transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation.
 
 &emsp;(B)
 
@@ -236,7 +236,7 @@ State licensing fees.—Nothing in this chapter shall prohibit States from colle
 
 (5)
 
-Third-party logistics providers.—Notwithstanding paragraphs (1) through (4), each entity that meets the definition of a third-party logistics provider under section 360eee(22) of thistitle shall obtain a license as a third-party logistics provider as described in section 360eee–3(a) of this title and is not required to obtain a license as a wholesale distributor if the entity never assumes an ownership interest in the product it handles.
+Third-party logistics providers.—Notwithstanding paragraphs (1) through (4), each entity that meets the definition of a third-party logistics provider under section 360eee(22) of this title shall obtain a license as a third-party logistics provider as described in section 360eee–3(a) of this title and is not required to obtain a license as a wholesale distributor if the entity never assumes an ownership interest in the product it handles.
 
 (6)
 
@@ -354,7 +354,7 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 &emsp;(iv) for which the applicant submitting the application or request described in subparagraph (A) has not obtained a right of reference or use from the person by or for whom the investigations described in clause (iii) were conducted.
 
-(C) The following provisions shall apply with respect to an application or request described insubparagraph (A) to the same extent and in the same manner as if such application or request were an application described in section 355(b)(2) of this title that referenced the approved drug:
+(C) The following provisions shall apply with respect to an application or request described in subparagraph (A) to the same extent and in thesame manner as if such application or request were an application described in section 355(b)(2) of this title that referenced the approved drug:
 
 &emsp;(i) Subparagraphs (A), (B), (C), and (D) of section 355(c)(3) of this title.
 
@@ -442,7 +442,43 @@ Affiliate.—For purposes of this subsection, the term "affiliate" means a busin
 
 &emsp;(D) The terms "premarket review" and "reviews" include all activities of the Food and Drug Administration conducted prior to approval or clearance of an application, notification, or request for classification submitted under section 355, 360(k), 360c(f)(2), 360e, or 360j of this title or under section 351 of the Public Health Service Act \[42 U.S.C. 262\], including with respect to investigational use of the product.
 
-(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, title I, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub. L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat. 3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611; Pub. L. 108–282, title I, §102(b)(5)(F), Aug. 2, 2004, 118 Stat. 903; Pub. L. 113–54, title II, §204(a)(1)–(4), (b), Nov. 27, 2013, 127 Stat. 630–635; Pub. L. 114–255, div. A, title III, §3038(a), Dec. 13, 2016, 130 Stat. 1105.)
+#### (h) Regulation of certain products as drugs
+
+(1) Any contrast agent, radioactive drug, or OTC monograph drug shall be deemed to be a drug under section 321(g) of this title and not a device under section 321(h) of this title.
+
+(2) For purposes of this subsection:
+
+&emsp;(A) The term "contrast agent" means an article that is intended for use in conjunction with a medical imaging device, and—
+
+&emsp;&emsp;(i) is a diagnostic radiopharmaceutical, as defined in sections 315.2 and 601.31 of title 21, Code of Federal Regulations (or any successor regulations); or
+
+&emsp;&emsp;(ii) is a diagnostic agent that improves the visualization of structure or function within the body by increasing the relative difference in signal intensity within the target tissue, structure, or fluid.
+
+&emsp;(B) The term "radioactive drug" has the meaning given such term in section 310.3(n) of title 21, Code of Federal Regulations (or any successor regulations), except that such term does not include—
+
+&emsp;&emsp;(i) an implant or article similar to an implant;
+
+&emsp;&emsp;(ii) an article that applies radiation from outside of the body; or
+
+&emsp;&emsp;(iii) the radiation source of an article described in clause (i) or (ii).
+
+&emsp;(C) The term "OTC monograph drug" has the meaning given such term in section 379j–71 of this title.
+
+(3) Nothing in this subsection shall be construed as allowing for the classification of a product as a drug (as defined in section 321(g) of this title) if such product—
+
+&emsp;(A) is not described in paragraph (1); and
+
+&emsp;(B) meets the definition of a device under section 321(h) of this title,
+
+> unless another provision of this chapter otherwise indicates a different classification.
+
+(4) The Secretary shall waive the application fee under sections 379h and 379j–42 of this title for applications for drugs that are—
+
+&emsp;(A) on September 30, 2022, legally marketed as devices; and
+
+&emsp;(B) deemed drugs pursuant to paragraph (1) <sup>5</sup>
+
+(June 25, 1938, ch. 675, §503, 52 Stat. 1051; Oct. 26, 1951, ch. 578, §1, 65 Stat. 648; Pub. L. 87–781, title I, §104(e)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–601, §6(e), formerly §7(e), Dec. 30, 1970, 84 Stat. 1673, renumbered Pub. L. 97–35, title XII, §1205(c), Aug. 13, 1981, 95 Stat. 716; Pub. L. 100–293, §§4–6, Apr. 22, 1988, 102 Stat. 96–98; Pub.L. 100–670, title I, §105, Nov. 16, 1988, 102 Stat. 3983; Pub. L. 101–629, §16(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–108, §2(d), Aug. 17, 1991, 105 Stat. 550; Pub. L. 102–300, §6(d), June 16, 1992, 106 Stat. 240; Pub. L. 102–353, §§2(a)–(c), 4, Aug. 26, 1992, 106 Stat. 941, 942; Pub. L. 104–250, §5(a), Oct. 9, 1996, 110 Stat. 3155; Pub. L. 105–115, title I, §§123(e), 126(a), (c)(1), (2), Nov. 21, 1997, 111 Stat. 2324, 2327, 2328; Pub. L. 107–250, title II, §204, Oct. 26, 2002, 116 Stat. 1611; Pub. L. 108–282, title I, §102(b)(5)(F), Aug. 2, 2004, 118 Stat. 903; Pub. L. 113–54, title II, §204(a)(1)–(4), (b), Nov. 27, 2013, 127 Stat. 630–635; Pub. L. 114–255, div. A, title III, §3038(a), Dec. 13, 2016, 130 Stat. 1105; Pub. L. 117–328, div. FF, title III, §3621, Dec. 29, 2022, 136 Stat. 5877.)
 
 #### <b>Editorial Notes</b>
 
@@ -459,6 +495,8 @@ Section 357 of this title, referred to in subsec. (g)(9)(C)(i), was repealed by 
 In subsec. (b)(5), "sections 4721, 6001, and 6151 of title 26" and "section 4761 of title 26" substituted for "section 3220 of the Internal Revenue Code (26 U.S.C. 3220)" and "section 3238(b) of the Internal Revenue Code (26 U.S.C. 3238(b))", respectively, on authority of section 7852(b) of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–328 added subsec. (h).
 
 <b>2016</b>—Subsec. (g)(1). Pub. L. 114–255, §3038(a)(4), added par. (1) and struck out former par. (1) which read as follows: "The Secretary shall in accordance with this subsection assign an agency center to regulate products that constitute a combination of a drug, device, or biological product. The Secretary shall determine the primary mode of action of the combination product. If the Secretary determines that the primary mode of action is that of—
 
@@ -518,7 +556,7 @@ Subsec. (b)(4). Pub. L. 105–115, §126(a), amended par. (4) generally. Prior t
 
 Subsec. (g)(4)(A). Pub. L. 105–115, §123(e)(1), substituted "section 351(i)" for "section 351(a)" and "262(i)" for "262(a)".
 
-Subsec. (g)(4)(B)(iii). Pub. L. 105–115, §123(e)(2), substituted "biologics license application under subsection (a)" for "product or establishment license under subsection (a) or (d)".
+Subsec. (g)(4)(B)(iii). Pub. L. 105–115, §123(e)(2), substituted "biologics license application under subsection\(a)" for "product or establishment license under subsection (a) or (d)".
 
 <b>1996</b>—Subsec. (f)(1)(A). Pub. L. 104–250 inserted ", other than a veterinary feed directive drug intended for use in animal feed or an animal feed bearing or containing a veterinary feed directive drug," after "other than man" in introductory provisions.
 
@@ -644,7 +682,7 @@ Plan.—The plan described in subsection (a) shall—
 
 "(d)
 
-Limitation on the Authority of the Secretary.—The Secretary of the Department of Health and Human Services shall have no authority to implement the proposed rule described in subsection (a), or to develop any similar regulation, policy statement, or other guideline specifying a uniform content or format for written information voluntarily provided to consumers about prescription drugs if, (1) not later than 120 days after the date of enactment of this Act \[Aug. 6, 1996\], the national organizations described in subsection (a) develop and submit to the Secretary for Health and Human Services a comprehensive, long-range action plan (as described in subsection (a)) which shall be acceptable to the Secretary of Health and Human Services; (2) the aforementioned plan is submitted to the Secretary of Health and Human Servicesfor review and acceptance: <i>Provided</i>, That the Secretary shall give due consideration to the submitted plan and that any such acceptance shall not be arbitrarily withheld; and (3) the implementation of (a) a plan accepted by the Secretary commences within 30 days of the Secretary's acceptance of such plan, or (b) the plan submitted to the Secretary commences within 60 days of the submission of such plan if the Secretary fails to take any action on the plan within 30 days of the submission of the plan. The Secretary shall accept, reject or suggest modifications to the plan submitted within 30 days of its submission. The Secretary may confer with and assist private parties in the development of the plan described in subsections (a) and (b).
+Limitation on the Authority of the Secretary.—The Secretary of the Department of Health and Human Services shall have no authority to implement the proposed rule described in subsection (a), or to develop any similar regulation, policy statement, or other guideline specifying a uniform content or format for written information voluntarily provided to consumers about prescription drugs if, (1) not later than 120 days after the date of enactment of this Act \[Aug. 6, 1996\], the national organizations described in subsection (a) develop and submit to the Secretary for Health and Human Services a comprehensive, long-range action plan (as described in subsection (a)) which shall be acceptable to the Secretary of Health and Human Services; (2) the aforementioned plan is submitted to the Secretary of Health and Human Services for review and acceptance: <i>Provided</i>, That the Secretary shall give due consideration to the submitted plan and that any such acceptance shall not be arbitrarily withheld; and (3) the implementation of (a) a plan accepted by the Secretary commences within 30 days of the Secretary's acceptance of such plan, or (b) the plan submitted to the Secretary commences within 60 days of the submission of such plan if the Secretary fails to take any action on the plan within 30 days of the submission of the plan. The Secretary shall accept, reject or suggest modifications to the plan submitted within 30 days of its submission. The Secretary may confer with and assist private parties in the development of the plan described in subsections (a) and (b).
 
 "(e)
 
@@ -683,4 +721,6 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 <i><sup>3</sup></i><i> So in original. The semicolon probably should be a period.</i>
 
 <i><sup>4</sup></i><i> See References in Text note below.</i>
+
+<i><sup>5</sup></i><i> So in original. Probably should be followed by a period.</i>
 

@@ -52,7 +52,7 @@ Subsec. (a). Pub. L. 103–337, §1675(d)(2), substituted "573, 1407, 1409, or 1
 
 Subsec. (b)(3), (4). Pub. L. 103–337, §1627, as amended by Pub. L. 104–106, added pars. (3) and (4).
 
-<b>1984</b>—Pub. L. 98–525 substituted "(a) Except as provided in subsection (b), a reserve commissioned officer"for "A reserve commissioned officer, other than a commissioned warrant officer,", struck out the comma before "may", and added subsec. (b).
+<b>1984</b>—Pub. L. 98–525 substituted "(a) Except as provided in subsection (b), a reserve commissioned officer" for "A reserve commissioned officer, other than a commissioned warrant officer,", struck out the comma before "may", and added subsec. (b).
 
 <b>1975</b>—Pub. L. 93–586 inserted reference to chapter 21 of title 14.
 

@@ -30,7 +30,7 @@ Nothing in this part shall be construed to require a nonbank financial company s
 
 #### (4) Parent company reports
 
-&emsp;The Board of Governors may, from time to time, require reports under oath from a company that controls an intermediate holding company, and from the appropriate officers or directors of such company, solely for purposes of ensuring compliance with the provisions of this section, including assessing the ability of the company to serve as a source of strength to its subsidiary intermediate holding company pursuant to paragraph (3) and enforcing such compliance.
+&emsp;The Board of Governors may, from time to time, require reports under oath from a company that controls an intermediate holding company, and from the appropriate officers or directors of such company, solely for purposesof ensuring compliance with the provisions of this section, including assessing the ability of the company to serve as a source of strength to its subsidiary intermediate holding company pursuant to paragraph (3) and enforcing such compliance.
 
 #### (5) Limited parent company enforcement
 
@@ -52,7 +52,7 @@ The Board of Governors—
 
 &emsp;(1) shall promulgate regulations to establish the criteria for determining whether to require a nonbank financial company supervised by the Board of Governors to establish an intermediate holding company under subsection (b); and
 
-&emsp;(2) may promulgate regulations to establish any restrictions or limitations on transactions between an intermediate holding company or a nonbank financial company supervised by the Board of Governors and its affiliates, as necessary to prevent unsafe and unsound practices in connection with transactions between such company, or any subsidiary thereof, and its parent company or affiliates that are notsubsidiaries of such company, except that such regulations shall not restrict or limit any transaction in connection with the bona fide acquisition or lease by an unaffiliated person of assets, goods, or services.
+&emsp;(2) may promulgate regulations to establish any restrictions or limitations on transactions between an intermediate holding company or a nonbank financial company supervised by the Board of Governors and its affiliates, as necessary to prevent unsafe and unsound practices in connection with transactions between such company, or any subsidiary thereof, and its parent company or affiliates that are not subsidiaries of such company, except that such regulations shall not restrict or limit any transaction in connection with the bona fide acquisition or lease by an unaffiliated person of assets, goods, or services.
 
 (Pub. L. 111–203, title I, §167, July 21, 2010, 124 Stat. 1432.)
 

@@ -30,11 +30,11 @@
 
 &emsp;(C) is designated for limited duty under subsection (a) of section 8146 of this title; and
 
-&emsp;(D) is serving in the grade of lieutenant commander or commander, or in the grade ofmajor or lieutenant colonel, under a temporary appointment under subsection (d) of section 8146 of this title.
+&emsp;(D) is serving in the grade of lieutenant commander or commander, or in the grade of major or lieutenant colonel, under a temporary appointment under subsection (d) of section 8146 of this title.
 
 (d) To be eligible for an appointment under this section a member must have the qualifications specified in section 532(a) of this title and have completed at least 8 years of active naval service, excluding active duty for training in a reserve component.
 
-(e) Each officer appointed under this section is known as an officer designated for limited duty. He may not suffer any reduction in the pay and allowances to which he was entitled at the time of his appointment because of his former permanent status.
+(e) Each officer appointed under this section is known as an officer designated for limited duty. He may not suffer any reduction in the pay andallowances to which he was entitled at the time of his appointment because of his former permanent status.
 
 (f) Any officer designated for limited duty, upon his application and upon determination by the Secretary of the Navy that he is qualified, may—
 

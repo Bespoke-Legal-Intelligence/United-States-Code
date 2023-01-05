@@ -22,7 +22,7 @@ In addition to the credit allowed under subsection (a), a taxpayer may credit ag
 
 (2) If an advance or advances have been made to the unemployment account of a State under title XII of the Social Security Act, then the total credits (after applying subsections (a) and (b) and paragraph (1) of this subsection) otherwise allowable under this section for the taxable year in the case of a taxpayer subject to the unemployment compensation law of such State shall be reduced—
 
-&emsp;(A)(i) in the case of a taxable year beginning with the second consecutive January 1 as of the beginning of which there is a balance of such advances, by 5 percent of the tax imposed by section 3301 with respect to the wages paidby such taxpayer during such taxable year which are attributable to such State; and
+&emsp;(A)(i) in the case of a taxable year beginning with the second consecutive January 1 as of the beginning of which there is a balance of such advances, by 5 percent of the tax imposed by section 3301 with respect to the wages paid by such taxpayer during such taxable year which are attributable to such State; and
 
 &emsp;(ii) in the case of any succeeding taxable year beginning with a consecutive January 1 as of the beginning of which there is a balance of such advances, by an additional 5 percent, for each such succeeding taxable year, of the tax imposed by section 3301 with respect to the wages paid by such taxpayer during such taxable year which are attributable to such State;
 
@@ -142,7 +142,7 @@ Subject to the limits provided by subsection (c), if—
 
 &emsp;&emsp;The benefit cost ratio for any calendar year is the percentage determined by dividing—
 
-&emsp;&emsp;&emsp;(i) the sum of the total of the compensation paid under the State unemployment compensation law during such calendaryear and any interest paid during such calendar year on advances made to the State under title XII of the Social Security Act, by
+&emsp;&emsp;&emsp;(i) the sum of the total of the compensation paid under the State unemployment compensation law during such calendar year and any interest paid during such calendar year on advances made to the State under title XII of the Social Security Act, by
 
 &emsp;&emsp;&emsp;(ii) the total amount of the remuneration subject to contributions under the State unemployment compensation law with respect to such calendar year (determined without regard to any limitation on the amount of remuneration subject to contribution under the State law).
 
@@ -208,7 +208,7 @@ Subject to the limits provided by subsection (c), if—
 
 #### (B) Treatment of certain reductions
 
-&emsp;&emsp;Any reduction in the State's balance under section 901(d)(1) of the Social Security Actshall not be treated as a repayment made by such State.
+&emsp;&emsp;Any reduction in the State's balance under section 901(d)(1) of the Social Security Act shall not be treated as a repayment made by such State.
 
 #### (4) Reports
 
@@ -224,7 +224,7 @@ If a certified professional employer organization (as defined in section 7705), 
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (c)(2), (f)(2)(D), (5)(A)(i), (8)(B), and (g)(2)(A), (B), (3)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XII of the Social Security Act is classified generally to subchapter XII (§1321 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 901(d)(1) and 1202(b)(8)(B) of the Social Security Act are classified to sections 1101(d)(1) and 1322(b)(8)(B), respectively, of Title 42. For complete classification of this act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (c)(2), (f)(2)(D), (5)(A)(i), (8)(B), and (g)(2)(A), (B), (3)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XII of the Social Security Act is classified generally to subchapter XII (§1321 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 901(d)(1) and 1202(b)(8)(B) of the Social Security Act are classified to sections 1101(d)(1) and 1322(b)(8)(B), respectively, of Title 42. For complete classification of this act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 239 of the Trade Act of 1974, referred to in subsec. (c)(3)(A), (B), is classified to subsec. (c)(3) of this section and to section 2311 of Title 19, Customs Duties.
 
@@ -362,7 +362,7 @@ Pub. L. 87–321, §1(b), Sept. 26, 1961, 75 Stat. 683, provided that: "The amen
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Construction
 
@@ -474,7 +474,7 @@ Qualified small business provision.—For purposes of this paragraph, the term '
 
 Definition.—For purposes of this paragraph, the term 'wages' means the remuneration subject to contributions under the State unemployment compensation law, except that for purposes of subparagraph (D) the amount of total wages paid by an employer shall be determined without regard to any limitation on the amount subject to contribution."
 
-\[Pub. L. 98–601, §1(b), Oct. 30, 1984, 98 Stat. 3148, provided that: "The amendment made by subsection (a)\[amending section 271(d) of Pub. L. 97–248, set out above\] shall apply to remuneration paid after December 31, 1984."\]
+\[Pub. L. 98–601, §1(b), Oct. 30, 1984, 98 Stat. 3148, provided that: "The amendment made by subsection (a) \[amending section 271(d) of Pub. L. 97–248, set out above\] shall apply to remuneration paid after December 31, 1984."\]
 
 #### Findings of Secretary of Labor Concerning Steps Taken by States as Prerequisite to Suspension Until January 1, 1980, of Automatic Increases in Federal Unemployment Tax
 

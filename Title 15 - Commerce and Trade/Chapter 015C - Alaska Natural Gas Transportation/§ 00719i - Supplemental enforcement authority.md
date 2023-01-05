@@ -10,7 +10,7 @@ In addition to remedies available under other applicable provisions of law, when
 
 #### (b) Specificity of compliance order
 
-Any order issued under subsection (a) shall state with reasonable specificity the nature of the violation and a time of compliance, not to exceed 30 days, which the officer or agency, as the case may be, determines is reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
+Any order issued under subsection (a) shall state with reasonable specificity the nature of the violation and a time of compliance, not toexceed 30 days, which the officer or agency, as the case may be, determines is reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
 
 #### (c) Appropriate relief and jurisdiction of civil action
 

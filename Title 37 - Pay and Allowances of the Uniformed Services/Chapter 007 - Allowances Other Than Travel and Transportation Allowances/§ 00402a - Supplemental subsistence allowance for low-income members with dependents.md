@@ -88,7 +88,7 @@ The Child Nutrition Act of 1966, referred to in subsec. (f)(2)(B), is Pub. L. 89
 
 The Head Start Act, referred to in subsec. (f)(2)(C), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The Child Care and Development Block Grant Act of 1990, referred to in subsec. (f)(2)(D), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 9857(a) of Title 42 and Tables.
+The Child Care and Development Block Grant Act of 1990, referred to in subsec. (f)(2)(D), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. Forcomplete classification of this Act to the Code, see section 9857(a) of Title 42 and Tables.
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (f)(3), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, which is classified principally to subchapter II (§8621 et seq.) of chapter 94 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
@@ -114,7 +114,7 @@ Subsec. (b)(1). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted "Fo
 
 Subsec. (h)(2). Pub. L. 110–246, §4002(b)(1)(B), (2)(T), substituted "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
-Subsec. (h)(3). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted "supplemental nutrition assistanceprogram" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
+Subsec. (h)(3). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(T), substituted "supplemental nutrition assistance program" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
 <b>2006</b>—Subsec. (b)(3)(B). Pub. L. 109–364, §1071(c)(6), substituted "title" for "section".
 

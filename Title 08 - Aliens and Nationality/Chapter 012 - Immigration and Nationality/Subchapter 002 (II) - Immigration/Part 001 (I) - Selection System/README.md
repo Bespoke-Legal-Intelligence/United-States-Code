@@ -9,6 +9,7 @@ Part I—Selection System
 - [&sect; 01151a - Repealed. Pub. L. 94&#8211;571, &sect;7(g), Oct. 20, 1976, 90 Stat. 2706](%C2%A7%2001151a%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93571%2C%20%C2%A77%28g%29%2C%20Oct.%2020%2C%201976%2C%2090%20Stat.%202706.md)
 - [&sect; 01152 - Numerical limitations on individual foreign states](%C2%A7%2001152%20-%20Numerical%20limitations%20on%20individual%20foreign%20states.md)
 - [&sect; 01153 - Allocation of immigrant visas](%C2%A7%2001153%20-%20Allocation%20of%20immigrant%20visas.md)
+- [&sect; 01153a - Transparency](%C2%A7%2001153a%20-%20Transparency.md)
 - [&sect; 01154 - Procedure for granting immigrant status](%C2%A7%2001154%20-%20Procedure%20for%20granting%20immigrant%20status.md)
 - [&sect; 01155 - Revocation of approval of petitions; effective date](%C2%A7%2001155%20-%20Revocation%20of%20approval%20of%20petitions%3B%20effective%20date.md)
 - [&sect; 01156 - Unused immigrant visas](%C2%A7%2001156%20-%20Unused%20immigrant%20visas.md)

@@ -4,7 +4,7 @@ Grants under this section may only be used for the following activities:
 
 #### (1) Housing information services
 
-&emsp;To provide (or contract to provide) counseling, information, and referral services to assist eligible persons to locate, acquire, finance, and maintain housing and meet their housing needs.
+&emsp;To provide (or contract to provide) counseling, information, and referral services toassist eligible persons to locate, acquire, finance, and maintain housing and meet their housing needs.
 
 #### (2) Resource identification
 

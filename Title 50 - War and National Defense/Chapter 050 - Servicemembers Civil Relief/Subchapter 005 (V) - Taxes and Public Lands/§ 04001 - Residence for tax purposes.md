@@ -8,13 +8,17 @@
 
 #### (2) Spouses
 
-#### (A) In general
+&emsp;A spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember's military orders.
 
-&emsp;&emsp;A spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember's military orders if the residence or domicile, as the case may be, is the same for the servicemember and the spouse.
+#### (3) Election
 
-#### (B) Election
+&emsp;For any taxable year of the marriage, a servicemember and the spouse of such servicemember may elect to use for purposes of taxation, regardless of the date on which the marriage of the servicemember and the spouse occurred, any of the following:
 
-&emsp;&emsp;For any taxable year of the marriage, the spouse of a servicemember may elect to use the same residence for purposes of taxation as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.
+&emsp;&emsp;(A) The residence or domicile of the servicemember.
+
+&emsp;&emsp;(B) The residence or domicile of the spouse.
+
+&emsp;&emsp;(C) The permanent duty station of the servicemember.
 
 #### (b) Military service compensation
 
@@ -22,7 +26,7 @@ Compensation of a servicemember for military service shall not be deemed to be i
 
 #### (c) Income of a military spouse
 
-Income for services performed by the spouse of a servicemember shall not be deemed to be income for services performed or from sources within a tax jurisdiction of the United States if the spouse is not a resident or domiciliary of the jurisdiction in which the income is earned because the spouse is in the jurisdiction solely to be with the servicemember serving in compliance with military orders.
+Income for services performed by the spouse of a servicemember shall not be deemed to be income for services performed or from sources within a tax jurisdiction of the United States ifthe spouse is not a resident or domiciliary of the jurisdiction in which the income is earned because the spouse is in the jurisdiction solely to be with the servicemember serving in compliance with military orders.
 
 #### (d) Personal property
 
@@ -66,7 +70,7 @@ For purposes of this section:
 
 &emsp;The term "tax jurisdiction" means a State or a political subdivision of a State.
 
-(Oct. 17, 1940, ch. 888, title V, §511, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2858; amended Pub. L. 111–97, §3(a), Nov. 11, 2009, 123 Stat. 3008; Pub. L. 115–407, title III, §302(a), Dec. 31, 2018, 132 Stat. 5373.)
+(Oct. 17, 1940, ch. 888, title V, §511, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2858; amended Pub. L. 111–97, §3(a), Nov. 11, 2009, 123 Stat. 3008; Pub. L. 115–407, title III, §302(a), Dec. 31, 2018, 132 Stat. 5373; Pub. L. 117–333, §18, Jan. 5, 2023, 136 Stat. 6137.)
 
 #### <b>Editorial Notes</b>
 
@@ -87,6 +91,8 @@ Section 513, act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1190, related to defer
 Section 514, act Oct. 17, 1940, ch. 888, art. V, as added Oct. 6, 1942, ch. 581, §17, 56 Stat. 777; amended July 3, 1944, ch. 397, §1, 58 Stat. 722; Pub. L. 87–771, Oct. 9, 1962, 76 Stat. 768; Pub. L. 102–12, §9(24), Mar. 18, 1991, 105 Stat. 41, related to residence for tax purposes. See section 4001 of this title.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (a)(2), (3). Pub. L. 117–333 added pars. (2) and (3) and struck out former par. (2) which related to residence of spouses of servicemembers for tax purposes.
 
 <b>2018</b>—Subsec. (a)(2). Pub. L. 115–407 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 

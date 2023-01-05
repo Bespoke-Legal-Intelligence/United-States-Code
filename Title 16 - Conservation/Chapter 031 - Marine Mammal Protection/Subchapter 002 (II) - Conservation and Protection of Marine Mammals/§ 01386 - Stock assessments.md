@@ -58,7 +58,7 @@ Not later than August 1, 1994, the Secretary shall, in consultation with the app
 
 &emsp;(A) population estimates and the population status and trends of such stocks;
 
-&emsp;(B) uncertainties and research needed regarding stock separation, abundance, ortrends, and factors affecting the distribution, size, or productivity of the stock;
+&emsp;(B) uncertainties and research needed regarding stock separation, abundance, or trends, and factors affecting the distribution, size, or productivity of the stock;
 
 &emsp;(C) uncertainties and research needed regarding the species, number, ages, gender, and reproductive status of marine mammals;
 
@@ -68,7 +68,7 @@ Not later than August 1, 1994, the Secretary shall, in consultation with the app
 
 &emsp;(F) any other issue which the Secretary or the groups consider appropriate.
 
-(2) The scientific review groups established under this subsection shall not be subject to the Federal Advisory Committee Act (5 App. U.S.C.).
+(2) The scientific review groups established under this subsection shall not be subject to chapter 10 of title 5.
 
 (3) Members of the scientific review groups shall serve without compensation, but may be reimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their obligations.
 
@@ -78,11 +78,11 @@ Not later than August 1, 1994, the Secretary shall, in consultation with the app
 
 This section shall not affect or otherwise modify the provisions of section 1371(b) of this title.
 
-(Pub. L. 92–522, title I, §117, as added Pub. L. 103–238, §10, Apr. 30, 1994, 108 Stat. 543.)
+(Pub. L. 92–522, title I, §117, as added Pub. L. 103–238, §10, Apr. 30, 1994, 108 Stat. 543; amended Pub. L. 117–286, §4(a)(108), Dec. 27, 2022, 136 Stat. 4317.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (d)(2). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 App. U.S.C.)."
 

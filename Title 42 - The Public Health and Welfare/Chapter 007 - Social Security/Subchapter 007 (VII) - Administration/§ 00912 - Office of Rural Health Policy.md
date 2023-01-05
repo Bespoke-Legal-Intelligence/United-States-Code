@@ -16,7 +16,7 @@
 
 &emsp;(3) coordinate the activities within the Department that relate to rural health care,
 
-&emsp;(4) provide information to the Secretary and others in the Department with respect to the activities, of other Federal departments and agencies, that relate to rural health care, including activities relating to rural mentalhealth, rural infant mortality, and rural occupational safety and preventive health promotion, and
+&emsp;(4) provide information to the Secretary and others in the Department with respect to the activities, of other Federal departments and agencies, that relate to rural health care, including activities relating to rural mental health, rural infant mortality, and rural occupational safety and preventive health promotion, and
 
 &emsp;(5) administer grants, cooperative agreements, and contracts to provide technical assistance and other activities as necessary to support activities related to improving health care in rural areas.
 

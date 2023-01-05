@@ -28,7 +28,7 @@
 
 (c) With respect to any covered drug the price of which is determined in accordance with a pharmaceutical pricing agreement entered into pursuant to subsection (a)(2), beginning on or after January 1, 1993, the manufacturer shall provide a discount in an amount equal to the amount by which the change in non-Federal price exceeds the amount equal to—
 
-&emsp;(1) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the last day of the month preceding the month during which the contract for the covered drug goes into effect (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such periodis not available, during such period as the Secretary considers appropriate); multiplied by
+&emsp;(1) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the last day of the month preceding the month during which the contract for the covered drug goes into effect (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period as the Secretary considers appropriate); multiplied by
 
 &emsp;(2) the percentage increase in the Consumer Price Index for all urban consumers (U.S. city average) between the last month of the period described in paragraph (1) and the last month preceding the month during which the contract goes into effect for which Consumer Price Index data is available.
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;(C) any biological product identified under section 600.3 of title 21, Code of Federal Regulations.
 
-&emsp;(3) The term "depot" means a centralized commodity management system throughwhich covered drugs procured by an agency of the Federal Government are—
+&emsp;(3) The term "depot" means a centralized commodity management system through which covered drugs procured by an agency of the Federal Government are—
 
 &emsp;&emsp;(A) received, stored, and delivered through—
 
@@ -114,13 +114,13 @@
 
 (2) In this subsection, the term "contract year" means any one-year period for which a multi-year contract described in subsection (d) is in effect.
 
-(Added Pub. L. 102–585, title VI, §603(a)(1), Nov. 4, 1992, 106 Stat. 4971; amended Pub. L. 103–18, §1(a), Apr. 12, 1993, 107 Stat. 53; Pub. L. 103–446, title XII, §1201(e)(27), (f)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 104–106, div. A, title VII, §737(a), Feb. 10, 1996, 110 Stat. 383; Pub. L. 105–115, title I, §125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.)
+(Added Pub. L. 102–585, title VI, §603(a)(1), Nov. 4, 1992, 106 Stat. 4971; amended Pub. L. 103–18, §1(a), Apr. 12, 1993, 107 Stat. 53; Pub. L. 103–446, title XII, §1201(e)(27), (f)(6), Nov. 2, 1994, 108 Stat. 4686, 4687; Pub. L. 104–106, div. A, title VII,§737(a), Feb. 10, 1996, 110 Stat. 383; Pub. L. 105–115, title I, §125(b)(2)(E), Nov. 21, 1997, 111 Stat. 2325.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(4)(A), (e)(2), (g)(1), and (h)(2)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. Section 1927 of the Act is classified to section 1396r–8 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (a)(4)(A), (e)(2), (g)(1), and (h)(2)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. Section 1927 of the Act is classified to section 1396r–8 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The Public Health Service Act, referred to in subsec. (a)(4)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§201 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 

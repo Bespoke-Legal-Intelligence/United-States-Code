@@ -34,7 +34,7 @@ Public notice of appointment.—The head of any department or agency who appoint
 
 &emsp;(B)
 
-Financial disclosure.—Any individual appointed under this subsection who is not required to file a financial disclosure report pursuant to section 101 of the Ethics in Government Act of 1978, shall file a confidential financial disclosure report pursuant to section 107 of that Act with the appointing department or agency.
+Financial disclosure.—Any individual appointed under this subsection who is not required to file a financial disclosure report pursuant to section 13103 of title 5, shall file a confidential financial disclosure report pursuant to section 13109 of title 5 with the appointing department or agency.
 
 (6) The Director of the Office of Personnel Management shall carry out a biennial survey of appointments made under this subsection and shall report his or her findings to the President and make such recommendations as he or she may deem proper.
 
@@ -54,13 +54,13 @@ The President is further authorized to provide for the establishment and trainin
 
 #### (f) Use of confidential information for speculation
 
-Whoever, being an officer or employee of the United States or any department or agency thereof (including any Member of the Senate or House of Representatives), receives, by virtue of his office or employment, confidential information, and (1) uses such information in speculating directly or indirectly on any commodity exchange, or (2) discloses such information for the purpose of aiding any other person so to speculate, shall be fined not more than $10,000 or imprisoned not more than one year, or both. Asused in this section, the term "speculate" shall not include a legitimate hedging transaction, or a purchase or sale which is accompanied by actual delivery of the commodity.
+Whoever, being an officer or employee of the United States or any department or agency thereof (including any Member of the Senate or House of Representatives), receives, by virtue of his office or employment, confidential information, and (1) uses such information in speculating directly or indirectly on any commodity exchange, or (2) discloses such information for the purpose of aiding any other person so to speculate, shall be fined not more than $10,000 or imprisoned not more than one year, or both. As used in this section, the term "speculate" shall not include a legitimate hedging transaction, or a purchase or sale which is accompanied by actual delivery of the commodity.
 
 #### (g) Printing and distribution of reports
 
 The President, when he deems such action necessary, may make provision for the printing and distribution of reports, in such number and in such manner as he deems appropriate, concerning the actions taken to carry out the objectives of this chapter.
 
-(Sept. 8, 1950, ch. 932, title VII, §710, 64 Stat. 819; July 31, 1951, ch. 275, title I, §109(f), 65 Stat. 139; June 28, 1955, ch. 189, §12(c)(1), 69 Stat. 180; Aug. 9, 1955, ch. 655, §§7, 8, 69 Stat. 582, 583; Pub. L. 94–152, §5, Dec. 16, 1975, 89 Stat. 820; Pub. L. 102–558, title I, §143, Oct. 28, 1992, 106 Stat. 4217; Pub. L. 111–67, §10, Sept. 30, 2009, 123 Stat. 2019.)
+(Sept. 8, 1950, ch. 932, title VII, §710, 64 Stat. 819; July 31, 1951, ch. 275, title I, §109(f), 65 Stat. 139; June 28, 1955, ch. 189, §12(c)(1), 69 Stat. 180; Aug. 9, 1955, ch. 655, §§7, 8, 69 Stat. 582, 583; Pub. L. 94–152, §5, Dec. 16, 1975, 89 Stat. 820; Pub. L. 102–558, title I, §143, Oct. 28, 1992, 106 Stat. 4217; Pub. L. 111–67, §10, Sept. 30, 2009, 123 Stat. 2019; Pub. L. 117–286, §4(c)(47), Dec. 27, 2022, 136 Stat. 4359.)
 
 #### Termination of Section
 
@@ -72,8 +72,6 @@ The President, when he deems such action necessary, may make provision for the p
 
 This chapter, referred to in subsecs. (b), (c), and (g), was in the original "this Act" or "the Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
 
-Sections 101 and 107 of the Ethics in Government Act of 1978, referred to in subsec. (b)(5)(B), are sections 101 and 107 of Pub. L. 95–521, which are set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 
 Section was formerly classified to section 2160 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -81,6 +79,8 @@ Section was formerly classified to section 2160 of the former Appendix to this t
 In subsec. (c), "section 3109 of title 5" substituted for "section 55a of title 5 of the United States Code" as if it had been a reference to section 15 of act Aug. 2, 1946, ch. 744, 60 Stat. 810, on which section 55a of title 5 was based, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(5)(B). Pub. L. 117–286 substituted "section 13103 of title 5," for "section 101 of the Ethics in Government Act of 1978," and "section 13109 of title 5" for "section 107 of that Act".
 
 <b>2009</b>—Subsec. (b)(2)(iii). Pub. L. 111–67, §10(1)(A), struck out cl. (iii), which read as follows: "In the appointment of personnel and in assignment of their duties, the head of the department or agency involved shall take steps to avoid, to as great an extent as possible, any conflict between the governmental duties and the private interests of such personnel."
 

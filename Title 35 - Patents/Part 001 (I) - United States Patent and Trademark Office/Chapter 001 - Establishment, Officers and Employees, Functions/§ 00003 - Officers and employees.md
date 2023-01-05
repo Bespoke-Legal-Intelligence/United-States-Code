@@ -6,7 +6,7 @@ Under Secretary and Director.—
 
 &emsp;(1)
 
-In general.—The powers and duties of the United States Patent and Trademark Office shall be vested in an Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this title referred to as the "Director"), who shall be a citizen of the United States and who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall be a person who has a professional background and experience in patent or trademark law.
+In general.—The powers and duties of the United States Patent and Trademark Office shall be vested in an Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this title referred to as the "Director"), who shall be a citizen of theUnited States and who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall be a person who has a professional background and experience in patent or trademark law.
 
 &emsp;(2)
 

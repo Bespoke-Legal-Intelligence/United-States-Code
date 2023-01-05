@@ -4,13 +4,13 @@
 
 #### (1) In general
 
-&emsp;Information acquired from an acquisition conducted under section 1881a of this title shall be deemed to be information acquired from an electronic surveillance pursuant to subchapter I for purposes of section 1806 of this title, except for the purposes of subsection (j) of such section.
+&emsp;Information acquired from an acquisition conducted under section 1881a of this titleshall be deemed to be information acquired from an electronic surveillance pursuant to subchapter I for purposes of section 1806 of this title, except for the purposes of subsection (j) of such section.
 
 #### (2) United States persons
 
 #### (A) In general
 
-&emsp;&emsp;Any information concerning a United States person acquired under section 1881a of this title shall not be used in evidenceagainst that United States person pursuant to paragraph (1) in any criminal proceeding unless—
+&emsp;&emsp;Any information concerning a United States person acquired under section 1881a of this title shall not be used in evidence against that United States person pursuant to paragraph (1) in any criminal proceeding unless—
 
 &emsp;&emsp;&emsp;(i) the Federal Bureau of Investigation obtained an order of the Foreign Intelligence Surveillance Court to access such information pursuant to section 1881a(f)(2) of this title; or
 

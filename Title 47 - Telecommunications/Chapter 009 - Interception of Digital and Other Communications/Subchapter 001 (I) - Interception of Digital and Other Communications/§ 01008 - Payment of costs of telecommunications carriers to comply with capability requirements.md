@@ -60,7 +60,7 @@ If a carrier has requested payment in accordance with procedures promulgated pur
 
 &emsp;&emsp;(A) permit recovery from the Federal Government of—
 
-&emsp;&emsp;&emsp;(i) the direct costs of developing the modifications described in subsection (a), of providing the capabilities requested under subsection (b)(2), or of providing the capacities requested under section 1003(e) of this title, but only to the extent that such costs have not been recovered from any other governmental or nongovernmental entity;
+&emsp;&emsp;&emsp;(i) the direct costs of developing the modifications described in subsection (a), of providing the capabilities requested under subsection (b)(2), or of providing thecapacities requested under section 1003(e) of this title, but only to the extent that such costs have not been recovered from any other governmental or nongovernmental entity;
 
 &emsp;&emsp;&emsp;(ii) the costs of training personnel in the use of such capabilities or capacities; and
 
@@ -80,5 +80,5 @@ If a carrier has requested payment in accordance with procedures promulgated pur
 
 #### References in Text
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 

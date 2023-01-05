@@ -54,7 +54,7 @@ Duties and Powers.—When carrying out subsection (a) of this section, the Admin
 
 &emsp;(2) consider the reasonable probable future use of the underlying land in making an award for a condemnation of an interest in airspace;
 
-&emsp;(3) construct, or acquire an interest in, a public building (as defined in section 3301(a) oftitle 40) only under a delegation of authority from the Administrator of General Services; and
+&emsp;(3) construct, or acquire an interest in, a public building (as defined in section 3301(a) of title 40) only under a delegation of authority from the Administrator of General Services; and
 
 &emsp;(4) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
 
@@ -136,7 +136,7 @@ General rule.—Except as provided in paragraph (2), a proposal in the possessio
 
 &emsp;(2)
 
-Exception.—Paragraph (1) shall not apply to any portion of a proposal of an offerorthe disclosure of which is authorized by the Administrator pursuant to procedures published in the Federal Register. The Administrator shall provide an opportunity for public comment on the procedures for a period of not less than 30 days beginning on the date of such publication in order to receive and consider the views of all interested parties on the procedures. The procedures shall not take effect before the 60th day following the date of such publication.
+Exception.—Paragraph (1) shall not apply to any portion of a proposal of an offeror the disclosure of which is authorized by the Administrator pursuant to procedures published in the Federal Register. The Administrator shall provide an opportunity for public comment on the procedures for a period of not less than 30 days beginning on the date of such publication in order to receive and consider the views of all interested parties on the procedures. The procedures shall not take effect before the 60th day following the date of such publication.
 
 &emsp;(3)
 
@@ -220,7 +220,7 @@ The Competition in Contracting Act, referred to in subsec. (d)(2)(E), probably m
 
 The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (d)(3)(B), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
-The Office of Federal Procurement Policy Act, referred to in subsec. (d)(3)(B), (C), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, which was classified principally to chapter 7 (§401 et seq.) of former Title 41, Public Contracts, and was substantially repealed and restated in division B (§1101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 27(e)(3)(A)(iv) of the Act was repealed and restated as section 2105(c)(1)(D) of Title 41. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+The Office of Federal Procurement Policy Act, referred to in subsec. (d)(3)(B)–(D), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, which was classified principally to chapter 7 (§401 et seq.) of former Title 41, Public Contracts, and was substantially repealed and restated in division B (§1101 et seq.) of subtitle I of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. Section 27(e)(3)(A)(iv) of the Act was repealed and restated as section 2105(c)(1)(D) of Title 41. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
 The Buy American Act, referred to in subsec. (d)(5)(A), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of this Act to the Code, see Short Title of 1933 Act note set out under section 101 of Title 41 and Tables. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
 
@@ -306,7 +306,7 @@ Pub. L. 106–181, title VII, §704, Apr. 5, 2000, 114 Stat. 157, authorized the
 
 #### Assessment of Acquisition Management System
 
-Pub. L. 104–264, title II, §251, Oct. 9, 1996, 110 Stat. 3236, provided that: "Not later than April 1, 1999, the Administrator \[of the Federal Aviation Administration\] shall employ outside experts to provide an independent evaluation of the effectiveness of the Administration's \[Federal Aviation Administration\] acquisition management system within 3 months after such date. The Administrator shall transmit a copy of the evaluation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee onTransportation and Infrastructure of the House of Representatives."
+Pub. L. 104–264, title II, §251, Oct. 9, 1996, 110 Stat. 3236, provided that: "Not later than April 1, 1999, the Administrator \[of the Federal Aviation Administration\] shall employ outside experts to provide an independent evaluation of the effectiveness of the Administration's \[Federal Aviation Administration\] acquisition management system within 3 months after such date. The Administrator shall transmit a copy of the evaluation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives."
 
 Pub. L. 104–205, title III, §351, Sept. 30, 1996, 110 Stat. 2979, provided that: "Not later than December 31, 1997, the Administrator of the Federal Aviation Administration shall—
 

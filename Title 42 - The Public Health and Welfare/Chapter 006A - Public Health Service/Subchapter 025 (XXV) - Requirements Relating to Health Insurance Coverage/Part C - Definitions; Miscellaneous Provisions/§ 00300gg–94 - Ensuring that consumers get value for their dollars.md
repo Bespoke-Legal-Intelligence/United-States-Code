@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Out of all funds in the Treasury not otherwise appropriated, there are appropriated tothe Secretary $250,000,000, to be available for expenditure for grants under paragraph (1) and subparagraph (B).
+&emsp;&emsp;Out of all funds in the Treasury not otherwise appropriated, there are appropriated to the Secretary $250,000,000, to be available for expenditure for grants under paragraph (1) and subparagraph (B).
 
 #### (B) Further availability for insurance reform and consumer protection
 
@@ -60,13 +60,31 @@
 
 &emsp;&emsp;&emsp;(ii) no State qualifying for a grant under paragraph (1) shall receive less than $1,000,000, or more than $5,000,000 for a grant year.
 
+#### (3) Parity implementation
+
+#### (A) In general
+
+&emsp;&emsp;Beginning during the first fiscal year that begins after December 29, 2022, the Secretary shall, out of funds made available pursuant to subparagraph (C), award grants to eligible States to enforce and ensure compliance with the mental health and substance use disorder parity provisions of section 300gg–26 of this title.
+
+#### (B) Eligible State
+
+&emsp;&emsp;A State shall be eligible for a grant awarded under this paragraph only if such State—
+
+&emsp;&emsp;&emsp;(i) submits to the Secretary an application for such grant at such time, in such manner, and containing such information as specified by the Secretary; and
+
+&emsp;&emsp;&emsp;(ii) agrees to request and review from health insurance issuers offering group or individual health insurance coverage the comparative analyses and other information required of such health insurance issuers under subsection (a)(8)(A) of section 300gg–26 of this title relating to the design and application of nonquantitative treatment limitations imposed on mental health or substance use disorder benefits.
+
+#### (C) Authorization of appropriations
+
+&emsp;&emsp;There are authorized to be appropriated $10,000,000 for each of the first five fiscal years beginning after December 29, 2022, to remain available until expended, for purposes of awarding grants under subparagraph (A).
+
 #### (d) Medical reimbursement data centers
 
 #### (1) Functions
 
 &emsp;A center established under subsection (c)(1)(C) shall—
 
-&emsp;&emsp;(A) develop fee schedules and other database tools that fairly and accurately reflect market rates for medical services and the geographic differences in those rates;
+&emsp;&emsp;(A) develop fee schedules and other database tools that fairly and accurately reflectmarket rates for medical services and the geographic differences in those rates;
 
 &emsp;&emsp;(B) use the best available statistical methods and data processing technology to develop such fee schedules and other database tools;
 
@@ -84,15 +102,17 @@
 
 &emsp;Nothing in this subsection shall be construed to permit a center established under subsection (c)(1)(C) to compel health insurance issuers to provide data to the center.
 
-(July 1, 1944, ch. 373, title XXVII, §2794, as added and amended Pub. L. 111–148, title I, §1003, title X, §10101(i), Mar. 23, 2010, 124 Stat. 139, 891.)
+(July 1, 1944, ch. 373, title XXVII, §2794, as added and amended Pub. L. 111–148, title I, §1003, title X, §10101(i), Mar. 23, 2010, 124 Stat. 139, 891; Pub. L. 117–328, div. FF, title I, §1331(a), Dec. 29, 2022, 136 Stat. 5698.)
 
 #### <b>Editorial Notes</b>
 
-#### Codification
+#### Prior Provisions
 
-Another section 2794 of act July 1, 1944, is classified to section 300gg–95 of this title.
+A prior section 2794 of act July 1, 1944, was renumbered section 2795 and is classified to section 300gg–95 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(3). Pub. L. 117–328 added par. (3).
 
 <b>2010</b>—Subsec. (c)(1)(C). Pub. L. 111–148, §10101(i)(1), added subpar. (C).
 

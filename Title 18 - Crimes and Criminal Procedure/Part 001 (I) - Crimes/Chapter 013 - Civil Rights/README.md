@@ -11,12 +11,15 @@
 | [247\.](%C2%A7%2000247%20-%20Damage%20to%20religious%20property%3B%20obstruction%20of%20persons%20in%20the%20free%20exercise%20of%20religious%20beliefs.md) | Damage to religious property; obstruction of persons in the free exercise of religious beliefs. |
 | [248\.](%C2%A7%2000248%20-%20Freedom%20of%20access%20to%20clinic%20entrances.md) | Freedom of access to clinic entrances. |
 | [249\.](%C2%A7%2000249%20-%20Hate%20crime%20acts.md) | Hate crime acts. |
+| [250\.](%C2%A7%2000250%20-%20Penalties%20for%20civil%20rights%20offenses%20involving%20sexual%20misconduct.md) | Penalties for civil rights offenses involving sexual misconduct. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–103, div. W, title XII, §1202(a)(2), Mar. 15, 2022, 136 Stat. 924, added item 250.
 
 <b>2009</b>—Pub. L. 111–84, div. E, §4707(b), Oct. 28, 2009, 123 Stat. 2841, added item 249.
 
@@ -46,3 +49,4 @@ Pub. L. 100–346, §3, June 24, 1988, 102 Stat. 645, added item 247.
 - [&sect; 00247 - Damage to religious property; obstruction of persons in the free exercise of religious beliefs](%C2%A7%2000247%20-%20Damage%20to%20religious%20property%3B%20obstruction%20of%20persons%20in%20the%20free%20exercise%20of%20religious%20beliefs.md)
 - [&sect; 00248 - Freedom of access to clinic entrances](%C2%A7%2000248%20-%20Freedom%20of%20access%20to%20clinic%20entrances.md)
 - [&sect; 00249 - Hate crime acts](%C2%A7%2000249%20-%20Hate%20crime%20acts.md)
+- [&sect; 00250 - Penalties for civil rights offenses involving sexual misconduct](%C2%A7%2000250%20-%20Penalties%20for%20civil%20rights%20offenses%20involving%20sexual%20misconduct.md)

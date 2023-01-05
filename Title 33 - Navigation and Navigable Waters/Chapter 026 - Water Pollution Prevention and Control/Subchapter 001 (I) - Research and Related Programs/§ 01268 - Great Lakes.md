@@ -46,7 +46,7 @@
 
 #### (b) Great Lakes National Program Office
 
-The Great Lakes National Program Office (previously established by the Administrator) is hereby established within the Agency. The Program Office shall be headed by a Director who, by reason of management experience and technical expertise relating to the Great Lakes, is highly qualified to direct the development of programs and plans on a variety of Great Lakes issues. The Great Lakes National Program Office shall be located in a Great Lakes State.
+The Great Lakes National Program Office (previously established by the Administrator) is hereby established within the Agency. The Program Office shall be headed by a Director who, by reason of management experience and technical expertise relating to the Great Lakes, is highly qualified to direct the development ofprograms and plans on a variety of Great Lakes issues. The Great Lakes National Program Office shall be located in a Great Lakes State.
 
 #### (c) Great Lakes management
 
@@ -70,7 +70,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;(B) By June 30, 1992, the Administrator, in consultation with the Program Office, shall publish in the Federal Register, pursuant to this section and the Administrator's authority under this chapter, final water quality guidance for the Great Lakes System.
 
-&emsp;(C) Within two years after such Great Lakes guidance is published, the Great Lakes States shall adopt water quality standards, antidegradation policies, and implementation procedures for waters within the Great Lakes System which are consistent with such guidance. If a Great Lakes State fails to adoptsuch standards, policies, and procedures, the Administrator shall promulgate them not later than the end of such two-year period. When reviewing any Great Lakes State's water quality plan, the agency shall consider the extent to which the State has complied with the Great Lakes guidance issued pursuant to this section.
+&emsp;(C) Within two years after such Great Lakes guidance is published, the Great Lakes States shall adopt water quality standards, antidegradation policies, and implementation procedures for waters within the Great Lakes System which are consistent with such guidance. If a Great Lakes State fails to adopt such standards, policies, and procedures, the Administrator shall promulgate them not later than the end of such two-year period. When reviewing any Great Lakes State's water quality plan, the agency shall consider the extent to which the State has complied with the Great Lakes guidance issued pursuant to this section.
 
 #### (3) Remedial Action Plans
 
@@ -276,7 +276,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (8) Administrator's responsibility
 
-&emsp;The Administrator shall ensure that the Program Office enters into agreements with the various organizational elements of the Agency involved in Great Lakes activities and the appropriate State agencies specifically delineating—
+&emsp;The Administrator shall ensure that the Program Office enters into agreements withthe various organizational elements of the Agency involved in Great Lakes activities and the appropriate State agencies specifically delineating—
 
 &emsp;&emsp;(A) the duties and responsibilities of each such element in the Agency with respect to the Great Lakes;
 
@@ -362,7 +362,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (II) Credit
 
-&emsp;&emsp;&emsp;&emsp;A project agreement described in subparagraph (D)(iii) may provide, with respect to a project, that the Administrator shall credit toward the non-Federal share of the cost of the project the value of an in-kind contribution made by the non-Federal sponsor, if the Administrator determines that the material or service provided as the in-kind contribution is integral to the project.
+&emsp;&emsp;&emsp;&emsp;A project agreement described in subparagraph (D)(iii) may provide, with respect to a project, that the Administrator shall credit toward the non-Federal share of the cost of the project the value of an in-kind contribution made by the non-Federal sponsor, if the Administrator determines that the material orservice provided as the in-kind contribution is integral to the project.
 
 #### (III) Work performed before project agreement
 
@@ -482,7 +482,7 @@ Report.—Not later than 1 year after November 27, 2002, the Administrator shall
 
 #### (3) Health research report
 
-&emsp;(A) Not later than September 30, 1994, the Program Office, in consultation with the Research Office, the Agency for Toxic Substances and Disease Registry, and Great Lakes States shall submit to the Congress a report assessing the adverse effects of water pollutants in the Great Lakes System on the health of persons in Great Lakes States and the health of fish, shellfish, and wildlife in the Great Lakes System. In conducting research in support of thisreport, the Administrator may, where appropriate, provide for research to be conducted under cooperative agreements with Great Lakes States.
+&emsp;(A) Not later than September 30, 1994, the Program Office, in consultation with the Research Office, the Agency for Toxic Substances and Disease Registry, and Great Lakes States shall submit to the Congress a report assessing the adverse effects of water pollutants in the Great Lakes System on the health of persons in Great Lakes States and the health of fish, shellfish, and wildlife in the Great Lakes System. In conducting research in support of this report, the Administrator may, where appropriate, provide for research to be conducted under cooperative agreements with Great Lakes States.
 
 &emsp;(B) There is authorized to be appropriated to the Administrator to carry out this section not to exceed $3,000,000 for each of fiscal years 1992, 1993, and 1994.
 

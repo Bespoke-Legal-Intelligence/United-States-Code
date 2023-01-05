@@ -102,9 +102,9 @@
 
 &emsp;&emsp;If a health care provider or health information technology developer makes information available based on a good faith reliance on consultations with the Office for Civil Rights of the Department of Health and Human Services pursuant to a referral under subparagraph (A), with respect to such information, the health care provider or developer shall not be liable for such disclosure or disclosures made pursuant to subparagraph (A).
 
-#### (4) Application of authorities under inspector general act of 1978
+#### (4) Application of authorities under Inspector General Act of 1978
 
-&emsp;In carrying out this subsection, the Inspector General shall have the same authorities as provided under section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+&emsp;In carrying out this subsection, the Inspector General shall have the same authorities as provided under section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).<sup>1</sup>
 
 #### (c) Identifying barriers to exchange of certified health information technology
 
@@ -118,13 +118,13 @@
 
 #### (3) Referral
 
-&emsp;The National Coordinator and the Office for Civil Rights of the Department of Health and Human Services may refer to the Inspector General instances or patterns of refusal to exchange health information with an individual or entity using certified electronic health record technology that is technically capable of trusted exchange and under conditions when exchange is legally permissible.
+&emsp;The National Coordinator and the Office for Civil Rights of the Department of Health and Human Services may refer to the Inspector General instances or patterns of refusal to exchange health information with an individual or entity using certified electronic health record technology that is technically capableof trusted exchange and under conditions when exchange is legally permissible.
 
 #### (d) Additional provisions
 
 #### (1) Information sharing provisions
 
-&emsp;The National Coordinator may serve as a technical consultant to the Inspector Generaland the Federal Trade Commission for purposes of carrying out this section. The National Coordinator may, notwithstanding any other provision of law, share information related to claims or investigations under subsection (b) with the Federal Trade Commission for purposes of such investigations and shall share information with the Inspector General, as required by law.
+&emsp;The National Coordinator may serve as a technical consultant to the Inspector General and the Federal Trade Commission for purposes of carrying out this section. The National Coordinator may, notwithstanding any other provision of law, share information related to claims or investigations under subsection (b) with the Federal Trade Commission for purposes of such investigations and shall share information with the Inspector General, as required by law.
 
 #### (2) Protection from disclosure of information
 
@@ -164,7 +164,7 @@
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(3)(A), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
 
-Section 6 of the Inspector General Act of 1978, referred to in subsec. (b)(4), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 6 of the Inspector General Act of 1978, referred to in subsec. (b)(4), is section 6 of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 406 of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4218, 4361.
 
 #### Amendments
 
@@ -175,4 +175,6 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (b)(4), i
 #### Effective Date of 2021 Amendment
 
 Pub. L. 116–321, §2(b), Jan. 5, 2021, 134 Stat. 5073, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the 21st Century Cures Act (Public Law 114–255)."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -146,7 +146,7 @@ Prior sections 1109 to 1109e, 1110 to 1110e, 1111 to 1111h, 1112 to 1112e, and 1
 
 Section 1109, Pub. L. 89–329, title V, §561, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 700, set forth purpose of class size demonstration grant program.
 
-A prior section 1109, Pub. L. 89–329, title V, §541, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100Stat. 1503; amended Pub. L. 100–50, §16(1), June 3, 1987, 101 Stat. 358; Pub. L. 101–226, §20, Dec. 12, 1989, 103 Stat. 1936, related to purpose of, and regulations under, leadership in educational administration development program, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 1109, Pub. L. 89–329, title V, §541, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1503; amended Pub. L. 100–50, §16(1), June 3, 1987, 101 Stat. 358; Pub. L. 101–226, §20, Dec. 12, 1989, 103 Stat. 1936, related to purpose of, and regulations under, leadership in educational administration development program, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Another prior section 1109, Pub. L. 89–329, title V, §519, as added Pub. L. 90–35, §4, June 29, 1967, 81 Stat. 88; amended Pub. L. 90–575, title II, §234(a), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(c)(2)(B), June 23, 1972, 86 Stat. 285, authorized allotments and reallotments to States, etc., for grants for implementation of program and set forth criteria for determination of amounts, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
@@ -204,7 +204,7 @@ A prior section 1111b, Pub. L. 89–329, title V, §553, as added Pub. L. 99–4
 
 Section 1111c, Pub. L. 89–329, title V, §574, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 705, related to applications for grants.
 
-A prior section 1111c, Pub. L. 89–329, title V, §554, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100Stat. 1508, related to amount and duration of assistance under Congressional teacher fellowships and relationship of such assistance to other assistance, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 1111c, Pub. L. 89–329, title V, §554, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1508, related to amount and duration of assistance under Congressional teacher fellowships and relationship of such assistance to other assistance, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Section 1111d, Pub. L. 89–329, title V, §575, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 706, related to requirements of recipients of student financial assistance under programs.
 
@@ -320,7 +320,7 @@ Section 1119b–3, Pub. L. 89–329, title V, §544, as added Pub. L. 96–374, 
 
 Section 1119b–4, Pub. L. 89–329, title V, §545, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463, defined "special education".
 
-Section 1119b–5, Pub. L. 89–329, title V, §546, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463, authorized appropriations for fiscal years 1981 to 1985 to carry out grant program for training teachers for handicapped children.
+Section 1119b–5, Pub. L. 89–329, title V, §546, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463,authorized appropriations for fiscal years 1981 to 1985 to carry out grant program for training teachers for handicapped children.
 
 Section 1119c, Pub. L. 89–329, title V, §551, as added Pub. L. 96–374, title V, §506, Oct. 3, 1980, 94 Stat. 1463, stated Congressional findings concerning Federal programs to train education professionals.
 

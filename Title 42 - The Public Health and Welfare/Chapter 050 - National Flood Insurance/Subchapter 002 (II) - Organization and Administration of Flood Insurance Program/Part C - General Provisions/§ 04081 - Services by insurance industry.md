@@ -6,7 +6,7 @@ In administering the flood insurance program under this subchapter, the Administ
 
 #### (b) Certain laws inapplicable to contracting
 
-Any such contracts, agreements, or other arrangements may be entered into without regard to the provisions of section 6101 of title 41 or any other provision of law requiring competitive bidding and without regard to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
+Any such contracts, agreements, or other arrangements may be entered into without regard to the provisions of section 6101 of title 41 or any other provision of law requiring competitive bidding and without regard to the provisions of chapter 10 of title 5.
 
 #### (c) Hold harmless
 
@@ -14,19 +14,17 @@ The Administrator of the Federal Emergency Management Agency shall hold any agen
 
 #### (d) FEMA authority on transfer of policies
 
-Notwithstanding any other provision of this chapter, the Administrator may, at the discretion of the Administrator, refuse to accept the transfer of the administration of policies for coverage under the flood insurance program under this chapter that are written and administered by any insurance company or other insurer, or any insurance agent or broker.
+Notwithstanding any other provision of this chapter, the Administrator may, at the discretion of the Administrator, refuse to accept thetransfer of the administration of policies for coverage under the flood insurance program under this chapter that are written and administered by any insurance company or other insurer, or any insurance agent or broker.
 
 #### (e) Risk transfer
 
 The Administrator may secure reinsurance of coverage provided by the flood insurance program from the private reinsurance and capital markets at rates and on terms determined by the Administrator to be reasonable and appropriate, in an amount sufficient to maintain the ability of the program to pay claims.
 
-(Pub. L. 90–448, title XIII, §1345, Aug. 1, 1968, 82 Stat. 585; Pub. L. 97–35, title III, §341(e), Aug. 13, 1981, 95 Stat. 419; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §574, Sept. 23, 1994, 108 Stat. 2278; Pub. L. 112–141, div. F, title II, §§100238(b)(1), 100245, July 6, 2012, 126 Stat. 958, 966; Pub. L. 113–89, §10, Mar. 21, 2014, 128 Stat. 1025.)
+(Pub. L. 90–448, title XIII, §1345, Aug. 1, 1968, 82 Stat. 585; Pub. L. 97–35, title III, §341(e), Aug. 13, 1981, 95 Stat. 419; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §574, Sept. 23, 1994, 108 Stat. 2278; Pub. L. 112–141, div. F, title II, §§100238(b)(1), 100245, July 6, 2012, 126 Stat. 958, 966; Pub. L. 113–89, §10, Mar. 21, 2014, 128 Stat. 1025; Pub. L. 117–286, §4(a)(263), Dec. 27, 2022, 136 Stat. 4334.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 This chapter, referred to in subsecs. (c) and (d), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
@@ -35,6 +33,8 @@ This chapter, referred to in subsecs. (c) and (d), was in the original a referen
 In subsec. (b), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–89 added subsec. (e).
 
@@ -104,7 +104,7 @@ Submission of Expense Reports.—To develop the methodology established under su
 
 "(d)
 
-FEMA Rulemaking on Reimbursement of Expenses Under the Write Your Own Program.—Not later than 12 months after the date of enactment of this Act \[July 6, 2012\], the Administrator shall issue a rule to formulate revised expense reimbursements to property and casualty insurance companies participating in the Write Your Own program for their expenses (including their operating and administrative expenses for adjustment of claims) in selling, writing, and servicing standard flood insurance policies, including how such companies shall be reimbursed in both catastrophic and noncatastrophic years. Such reimbursements shall be structured to ensure reimbursements track the actual expenses, including standard business costs and operating expenses, of such companies as closely as practicably possible.
+FEMA Rulemaking on Reimbursement of Expenses Under the Write Your Own Program.—Notlater than 12 months after the date of enactment of this Act \[July 6, 2012\], the Administrator shall issue a rule to formulate revised expense reimbursements to property and casualty insurance companies participating in the Write Your Own program for their expenses (including their operating and administrative expenses for adjustment of claims) in selling, writing, and servicing standard flood insurance policies, including how such companies shall be reimbursed in both catastrophic and noncatastrophic years. Such reimbursements shall be structured to ensure reimbursements track the actual expenses, including standard business costs and operating expenses, of such companies as closely as practicably possible.
 
 "(e)
 
@@ -136,7 +136,7 @@ GAO authority.—In conducting the study and report required under paragraph (1)
 
 &emsp;&emsp;"(B) shall determine if—
 
-&emsp;&emsp;&emsp;"(i) the final rule issued pursuant to subsection (d) allows the Federal Emergency ManagementAgency to access adequate information regarding the actual expenses of property and casualty insurance companies participating in the Write Your Own program; and
+&emsp;&emsp;&emsp;"(i) the final rule issued pursuant to subsection (d) allows the Federal Emergency Management Agency to access adequate information regarding the actual expenses of property and casualty insurance companies participating in the Write Your Own program; and
 
 &emsp;&emsp;&emsp;"(ii) the actual reimbursements paid out under the final rule issued pursuant to subsection (d) accurately reflect the expenses reported by property and casualty insurance companies participating in the Write Your Own program, including the standard business costs and operating expenses of such companies; and
 

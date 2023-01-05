@@ -12,7 +12,7 @@ In General.—The Secretary of Transportation may make grants, from amounts set 
 
 Eligibility.—In order to receive a grant under this section, a State or unit of local government must—
 
-&emsp;(1) have the authority to plan and adopt land use control measures, including zoning, in the planning area in and around a large or medium hub airport;
+&emsp;(1) have the authority to plan and adopt land use control measures, including zoning, in theplanning area in and around a large or medium hub airport;
 
 &emsp;(2) enter into an agreement with the airport owner or operator that the development of the land use compatibility plan will be done cooperatively; and
 
@@ -28,7 +28,7 @@ Assurances.—The Secretary shall require a State or unit of local government to
 
 &emsp;&emsp;(B) addresses ways to achieve and maintain compatible land uses, including zoning, building codes, and any other land use compatibility measures under section 47504(a)(2) that are within the authority of the State or unit of local government to implement;
 
-&emsp;&emsp;(C) uses noise contours provided by the airport operator that are consistent with the airport operation and planning, includingany noise abatement measures adopted by the airport operator as part of its own noise mitigation efforts;
+&emsp;&emsp;(C) uses noise contours provided by the airport operator that are consistent with the airport operation and planning, including any noise abatement measures adopted by the airport operator as part of its own noise mitigation efforts;
 
 &emsp;&emsp;(D) does not duplicate, and is not inconsistent with, the airport operator's noise compatibility measures for the same area; and
 

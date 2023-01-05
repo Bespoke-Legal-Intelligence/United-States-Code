@@ -10,7 +10,7 @@
 
 &emsp;(4) there is a national need to examine the disciplines in the social, behavioral, and physical sciences and the arts and humanities with regard to the history, nature, elements, and future of peace processes, and to bring together and develop new and tested techniques to promote peaceful economic, political, social, and cultural relations in the world;
 
-&emsp;(5) existing institutions providing programs in international affairs, diplomacy, conflictresolution, and peace studies are essential to further development of techniques to promote peaceful resolution of international conflict, and the peacemaking activities of people in such institutions, government, private enterprise, and voluntary associations can be strengthened by a national institution devoted to international peace research, education and training, and information services;
+&emsp;(5) existing institutions providing programs in international affairs, diplomacy, conflict resolution, and peace studies are essential to further development of techniques to promote peaceful resolution of international conflict, and the peacemaking activities of people in such institutions, government, private enterprise, and voluntary associations can be strengthened by a national institution devoted to international peace research, education and training, and information services;
 
 &emsp;(6) there is a need for Federal leadership to expand and support the existing international peace and conflict resolution efforts of the Nation and to develop new comprehensive peace education and training programs, basic and applied research projects, and programs providing peace information;
 
@@ -28,7 +28,7 @@
 
 #### References in Text
 
-The Education Amendments of 1978, referred to in subsec. (a)(7), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Part B (§§1511–1519) of title XV of Pub. L. 95–561, which provided for the Commission on Proposals for the National Academy of Peace and Conflict Resolution, was set out as a note under section 1123 of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note under section 6301 of Title 20 and Tables.
+The Education Amendments of 1978, referred to in subsec. (a)(7), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Part B (§§1511–1519) of title XV of Pub. L. 95–561, which provided for the Commission on Proposals for the National Academy of Peace and Conflict Resolution, was set out as a note under section 1123 of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note under section 6301 of Title 20 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

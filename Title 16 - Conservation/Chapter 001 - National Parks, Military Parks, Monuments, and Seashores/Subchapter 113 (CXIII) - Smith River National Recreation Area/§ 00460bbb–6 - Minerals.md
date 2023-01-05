@@ -2,7 +2,7 @@
 
 #### (a) Withdrawal
 
-Subject to valid existing rights, Federal lands within the exterior boundary of the recreation area are hereby withdrawn from all forms of location, entry, and patent under the United States mining laws and from disposition under the mineral leasing laws, including all laws pertaining to geothermal leasing.
+Subject to valid existing rights, Federal lands within the exterior boundary of the recreation area are hereby withdrawn from all forms of location, entry, and patent under the UnitedStates mining laws and from disposition under the mineral leasing laws, including all laws pertaining to geothermal leasing.
 
 #### (b) Patents
 

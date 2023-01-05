@@ -50,13 +50,13 @@ The amount of any money, or the fair market value of any property, received by a
 
 #### (c) Unrealized receivables
 
-For purposes of this subchapter, the term "unrealized receivables" includes, to the extent notpreviously includible in income under the method of accounting used by the partnership, any rights (contractual or otherwise) to payment for—
+For purposes of this subchapter, the term "unrealized receivables" includes, to the extent not previously includible in income under the method of accounting used by the partnership, any rights (contractual or otherwise) to payment for—
 
 &emsp;(1) goods delivered, or to be delivered, to the extent the proceeds therefrom would be treated as amounts received from the sale or exchange of property other than a capital asset, or
 
 &emsp;(2) services rendered, or to be rendered.
 
-> For purposes of this section and sections 731, 732, and 741 (but not for purposes of section 736), such term also includes mining property (as defined in section 617(f)(2)), stock in a DISC (as described in section 992(a)), section 1245 property (as defined in section 1245(a)(3)), stock in certain foreign corporations (as described in section 1248), section 1250 property (as defined in section 1250(c)), farm land (as defined in section 1252(a)), franchises, trademarks, or trade names (referred to in section 1253(a)), and an oil, gas, or geothermal property (described in section 1254) but only to the extent of the amount which would be treated as gain to which section 617(d)(1), 995(c), 1245(a), 1248(a), 1250(a), 1252(a), 1253(a), or 1254(a) would apply if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership at its fair market value. For purposes of this section and sections 731, 732, and 741 (but not for purposes of section 736), such term also includes any market discount bond (as defined in section 1278) and any short-term obligation (as defined in section 1283) but only to the extent of the amount which would be treated as ordinary income if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership.
+> For purposes of this section and sections 731, 732, and 741 (but not for purposes of section 736), such term also includes mining property (as defined in section 617(f)(2)), stock in a DISC (as described in section 992(a)), section 1245 property (as defined in section 1245(a)(3)), stock in certain foreign corporations (as described in section 1248), section 1250 property (as defined in section 1250(c)), farm land (as defined in section 1252(a)), franchises, trademarks, or trade names (referred to in section 1253(a)), and an oil, gas, or geothermal property (described in section 1254) but only to the extent of the amount which would be treated as gain to which section 617(d)(1), 995(c),1245(a), 1248(a), 1250(a), 1252(a), 1253(a), or 1254(a) would apply if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership at its fair market value. For purposes of this section and sections 731, 732, and 741 (but not for purposes of section 736), such term also includes any market discount bond (as defined in section 1278) and any short-term obligation (as defined in section 1283) but only to the extent of the amount which would be treated as ordinary income if (at the time of the transaction described in this section or section 731, 732, or 741, as the case may be) such property had been sold by the partnership.
 
 #### (d) Inventory items
 
@@ -106,7 +106,7 @@ Subsec. (b)(1). Pub. L. 105–34, §1062(b)(1)(A), added subpars. (A) and (B) an
 
 Subsec. (b)(3). Pub. L. 105–34, §1062(b)(1)(B), added par. (3).
 
-Subsec. (d). Pub. L. 105–34, §1062(b)(2), amended heading and text of subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) and (2) relatingto inventory items which have appreciated substantially in value.
+Subsec. (d). Pub. L. 105–34, §1062(b)(2), amended heading and text of subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) and (2) relating to inventory items which have appreciated substantially in value.
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–66, §13262(b)(1), in concluding provisions, substituted "section 731 or 741" for "section 731, 736, or 741" in two places and ", sections 731 and 741 (but not for purposes of section 736)" for "sections 731, 736, and 741" in two places.
 
@@ -122,7 +122,7 @@ Subsec. (e). Pub. L. 103–66, §13262(b)(2)(A), substituted "sections 731 and 7
 
 Pub. L. 99–514, §201(d)(10), struck out "section 1245 recovery property (as defined in section 1245(a)(5))," before "stock in certain foreign corporations" in second sentence.
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–369, §492(b)(4), struck out "farm recapture property (as defined in section 1251(e)(1))," before "farm land", and "1251(c)," after "1250(a)," in second sentence.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, §492(b)(4), struck out "farm recapture property (as defined in section1251(e)(1))," before "farm land", and "1251(c)," after "1250(a)," in second sentence.
 
 Pub. L. 98–369, §43(c)(3), inserted last sentence.
 
@@ -188,7 +188,7 @@ Amendment by section 492(b)(4) of Pub. L. 98–369 applicable to taxable years b
 
 #### Effective Date of 1983 Amendment
 
-Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L.97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
+Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it had been included in the provision of the Economic Recovery Tax Act of 1981, Pub. L. 97–34, to which such amendment relates, see section 109 of Pub. L. 97–448, set out as a note under section 1 of this title.
 
 #### Effective Date of 1978 Amendments
 
@@ -202,7 +202,7 @@ Amendment by section 205(b) of Pub. L. 94–455 effective for taxable years endi
 
 Amendment by section 1042(c)(2) of Pub. L. 94–455 applicable to transfers beginning after Oct. 9, 1975, and to sales, exchanges and distributions taking place after that date, see section 1042(e)(1) of Pub. L. 94–455, set out as a note under section 367 of this title.
 
-Amendment by section 1101(d)(2) of Pub. L. 94–455 applicable to sales, exchanges, or other dispositions after Dec. 31, 1975, in taxable years ending after such date, see section 1101(g)(4) of Pub. L. 94–455, set out as a note under section 995 of this title.
+Amendment by section 1101(d)(2) of Pub. L. 94–455 applicable to sales, exchanges, or other dispositions afterDec. 31, 1975, in taxable years ending after such date, see section 1101(g)(4) of Pub. L. 94–455, set out as a note under section 995 of this title.
 
 Amendment by section 1901(a)(93) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 

@@ -54,7 +54,7 @@
 
 (4) Selection of officers for discharge under this subsection shall be based on the needs of the service.
 
-(e)(1) In the case of action under subsection (b)(4), the Secretary of the military department concerned shall specify the total number of officers described in that subsection that a selection board convened under section 611(b) of this title pursuant to the authority of that subsection may recommend for early retirement or discharge. Officers who are eligible, or are within two years of becoming eligible, to be retired under any provision of law (other than by reasonof eligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484)), if selected by the board, shall be retired or retained until becoming eligible to retire under section 7311, 8323, or 9311 of this title, and those officers who are otherwise ineligible to retire under any provision of law shall, if selected by the board, be discharged.
+(e)(1) In the case of action under subsection (b)(4), the Secretary of the military department concerned shall specify the total number of officers described in that subsection that a selection board convened under section 611(b) of this title pursuant to the authority of that subsection may recommend for early retirement or discharge. Officers who are eligible, or are within two years of becoming eligible, to be retired under any provision of law (other than by reason of eligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484)), if selected by the board, shall be retired or retained until becoming eligible to retire under section 7311, 8323, or 9311 of this title, and those officers who are otherwise ineligible to retire under any provision of law shall, if selected by the board, be discharged.
 
 (2) In the case of action under subsection (b)(4), the Secretary of the military department concerned may submit to a selection board convened pursuant to that subsection—
 
@@ -106,7 +106,7 @@ Subsec. (b)(2)(A). Pub. L. 113–66, §503(a)(1), substituted "have failed of se
 
 Subsec. (b)(2)(B). Pub. L. 113–66, §503(a)(2), substituted "have served on active duty in that grade for at least two years and whose names are not on a list of officers recommended for promotion" for "would be subject to consideration for selection for early retirement under section 638(a)(1)(B) of this title except that they have served on active duty in that grade less than four years (but not less than two years)".
 
-Subsec. (b)(3), (4). Pub. L. 112–239, §502(2), redesignated par. (4) as (3) and struck out former par. (3) whichread as follows: "Suspending section 638(c) of this title."
+Subsec. (b)(3), (4). Pub. L. 112–239, §502(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "Suspending section 638(c) of this title."
 
 Subsec. (c)(4). Pub. L. 112–239, §502(3), added par. (4).
 

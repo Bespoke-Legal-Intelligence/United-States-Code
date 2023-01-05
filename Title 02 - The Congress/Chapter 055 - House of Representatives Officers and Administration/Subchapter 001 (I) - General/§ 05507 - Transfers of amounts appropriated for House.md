@@ -2,7 +2,7 @@
 
 #### (a) Transfers among categories of allowances and expenses
 
-Amounts appropriated for any fiscal year for the House of Representatives under the heading "
+Amounts appropriated for any fiscal year for the House of Representatives under the heading"
 
 allowances and expenses" may be transferred among and merged with the various categories of allowances and expenses under such heading, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
 
@@ -16,7 +16,7 @@ salaries, officers and employees" may be transferred among and merged with the v
 
 (1) Amounts appropriated for any fiscal year for the House of Representatives under the headings specified in paragraph (2) may be transferred among and merged with such headings, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
 
-(2) The headings referred to in paragraph (1) are "House Leadership Offices", "Members' Representational Allowances", "Committee Employees", "Salaries, Officers and Employees", "Allowances and Expenses", the heading for any joint committee under the heading "Joint Items" (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), "Office of the Attending Physician", "Allowance for Compensation of Interns in Member Offices" <sup>1</sup> "Allowance for Compensation of Interns in House Leadership Offices", and "House of Representatives Modernization Initiatives Account".
+(2) The headings referred to in paragraph (1) are "House Leadership Offices", "Members' Representational Allowances", "Committee Employees", "Salaries, Officers and Employees", "Allowances and Expenses", the heading for any joint committee under the heading "Joint Items" (to the extent that amounts appropriated for the joint committee are disbursed by the Chief Administrative Officer of the House of Representatives), "Office of the Attending Physician", "Allowance for Compensation of Interns in Member Offices" <sup>1</sup> "Allowance for Compensation of Interns in House Appropriations Committee Offices", "Allowance for Compensation of Interns in House Standing, Special and Select Committee Offices", "Allowance for Compensation of Interns in House Leadership Offices", and "House of Representatives Modernization Initiatives Account".
 
 #### (d) Transfers to Architect of the Capitol
 
@@ -30,7 +30,7 @@ Amounts appropriated for any fiscal year for the House of Representatives under 
 
 Amounts appropriated for any fiscal year for the House of Representatives under the heading "House Leadership Offices" may be transferred among and merged with the various offices and activities under such heading, effective upon the expiration of the 21-day period (or such alternative period that may be imposed by the Committee on Appropriations of the House of Representatives) which begins on the date such Committee has been notified of the transfer.
 
-(Pub. L. 102–392, title I, §101, Oct. 6, 1992, 106 Stat. 1709; Pub. L. 108–7, div. H, title I, §109(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 111–8, div. G, title I, §§103(a), 105(a), (b), Mar. 11, 2009, 123 Stat. 817, 818; Pub. L. 111–68, div. A, title I, §§104(a), 1304(d), Oct. 1, 2009, 123 Stat. 2029, 2035; Pub. L. 113–76, div. I, title I, §103(a), Jan. 17, 2014, 128 Stat. 422; Pub. L. 115–244, div. B, title I, §119(a), Sept. 21, 2018, 132 Stat. 2930; Pub. L. 116–94, div. E, title I, §§112(b), 113(e), Dec. 20, 2019, 133 Stat. 2759; Pub. L. 116–260, div. I, title I, §115(d), Dec. 27, 2020, 134 Stat. 1637.)
+(Pub. L. 102–392, title I, §101, Oct. 6, 1992, 106 Stat. 1709; Pub. L. 108–7, div. H, title I, §109(a), Feb. 20, 2003, 117 Stat. 355; Pub. L. 111–8, div. G, title I, §§103(a), 105(a), (b), Mar. 11, 2009, 123 Stat. 817, 818; Pub. L. 111–68, div. A, title I, §§104(a), 1304(d), Oct. 1, 2009, 123 Stat. 2029, 2035; Pub. L. 113–76, div. I, title I, §103(a), Jan. 17, 2014, 128 Stat. 422; Pub. L. 115–244, div. B, title I, §119(a), Sept. 21, 2018, 132 Stat. 2930; Pub. L. 116–94, div. E, title I, §§112(b), 113(e), Dec. 20, 2019, 133 Stat. 2759; Pub. L. 116–260, div. I, title I, §115(d), Dec. 27, 2020, 134 Stat. 1637; Pub. L. 117–103, div. I, title I, §113(d), Mar. 15, 2022, 136 Stat. 511.)
 
 #### <b>Editorial Notes</b>
 
@@ -41,6 +41,8 @@ Section was formerly classified to section 95b of this title prior to editorial 
 Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(2). Pub. L. 117–103, which directed insertion of " 'Allowance for Compensation of Interns in House Appropriations Committee Offices', 'Allowance for Compensation of Interns in House Standing, Special and Select Committee Offices'," after " 'Allowance for Compensation of Interns in Member Offices',", was executed by making the insertion after " 'Allowance for Compensation of Interns in Member Offices' " to reflect the probable intent of Congress.
 
 <b>2020</b>—Subsec. (c)(2). Pub. L. 116–260 substituted " 'Allowance for Compensation of Interns in House Leadership Offices', and 'House of Representatives Modernization Initiatives Account'." for ", and 'Allowance for Compensation of Interns in House Leadership Offices'."
 
@@ -82,7 +84,7 @@ Amendment by section 113(e) of Pub. L. 116–94 applicable with respect to fisca
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–244, div. B, title I, §119(b), Sept. 21, 2018, 132 Stat. 2931, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to fiscal year 2019 and each succeeding fiscal year."
+Pub. L. 115–244, div. B, title I, §119(b), Sept. 21, 2018, 132 Stat. 2931, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal year 2019 and each succeeding fiscal year."
 
 #### Effective Date of 2014 Amendment
 

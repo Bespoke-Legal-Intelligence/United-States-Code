@@ -106,7 +106,7 @@ In this section—
 
 &emsp;(2) the term "Commission" means the Federal Communications Commission;
 
-&emsp;(3) the term "Emergency Alert System" means the national public warning system, the rules for which are set forth in part 11 oftitle 47, Code of Federal Regulations (or any successor regulation); and
+&emsp;(3) the term "Emergency Alert System" means the national public warning system, the rules for which are set forth in part 11 of title 47, Code of Federal Regulations (or any successor regulation); and
 
 &emsp;(4) the term "Wireless Emergency Alerts System" means the wireless national public warning system established under the Warning, Alert, and Response Network Act (47 U.S.C. 1201 et seq.), the rules for which are set forth in part 10 of title 47, Code of Federal Regulations (or any successor regulation).
 
@@ -116,7 +116,7 @@ In this section—
 
 #### References in Text
 
-The amendment made by paragraph (1)(B), referred to in subsec. (a)(2), means the amendment made by Pub. L. 116–283, §9201(a)(1)(B) which amended section 1201 of this title.
+The amendment made by paragraph (1)(B), referred to in subsec. (a)(2), means the amendment made by Pub.L. 116–283, §9201(a)(1)(B) which amended section 1201 of this title.
 
 The Warning, Alert, and Response Network Act, referred to in subsec. (f)(4), is title VI of Pub. L. 109–347, Oct. 13, 2006, 120 Stat. 1936, which is classified principally to chapter 11 (§1201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set under section 1201 of this title and Tables.
 

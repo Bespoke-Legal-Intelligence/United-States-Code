@@ -1,6 +1,6 @@
 ### §482m. Teton National Forest in Wyoming; additional lands
 
-The following-described lands of the Jackson Hole National Monument are made a part of theTeton National Forest and shall be administered hereafter in accordance with the laws applicable to said forest:
+The following-described lands of the Jackson Hole National Monument are made a part of the Teton National Forest and shall be administered hereafter in accordance with the laws applicable to said forest:
 
 sixth principal meridian
 

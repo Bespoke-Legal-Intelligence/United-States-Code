@@ -6,7 +6,7 @@ Any person who violates a provision of section 1681a of this title shall, in add
 
 #### (b) Forfeitures
 
-Any tobacco product, cigarette papers, or tube, or any smokeless tobacco product, that was imported into the United States or is sought to be imported into the United States in violation of, or without meeting the requirements of, section 1681a of this title shall be forfeited to the United States, or to any State in which such tobacco product, cigarette papers, or tube is found. Notwithstanding any other provision of law, any product forfeited to the United States, or to any State, pursuant to this subtitle shall be destroyed.
+Any tobacco product, cigarette papers, or tube, or any smokeless tobacco product, that was imported into the United States or is sought to be imported into the United States in violation of, or without meeting the requirements of,section 1681a of this title shall be forfeited to the United States, or to any State in which such tobacco product, cigarette papers, or tube is found. Notwithstanding any other provision of law, any product forfeited to the United States, or to any State, pursuant to this subtitle shall be destroyed.
 
 (June 17, 1930, ch. 497, title VIII, §803, as added Pub. L. 106–476, title IV, §4004(a), Nov. 9, 2000, 114 Stat. 2180; amended Pub. L. 109–432, div. C, title IV, §401(d), (e)(1), (3), Dec. 20, 2006, 120 Stat. 3048, 3049.)
 

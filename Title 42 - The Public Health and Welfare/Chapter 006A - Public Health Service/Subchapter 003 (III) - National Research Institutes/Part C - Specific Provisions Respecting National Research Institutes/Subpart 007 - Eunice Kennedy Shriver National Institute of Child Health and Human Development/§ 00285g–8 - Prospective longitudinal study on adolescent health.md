@@ -16,7 +16,7 @@ Not later than October 1, 1993, the Director of the Institute shall commence a s
 
 #### (2) Population-specific analyses
 
-&emsp;The study required in subsection (a) shall be conducted with respect to the population ofadolescents who are female, the population of adolescents who are male, various socioeconomic populations of adolescents, and various racial and ethnic populations of adolescents. The study shall be designed and conducted in a manner sufficient to provide for a valid analysis of whether there are significant differences among such populations in health status and whether and to what extent any such differences are due to factors particular to the populations involved.
+&emsp;The study required in subsection (a) shall be conducted with respect to the population of adolescents who are female, the population of adolescents who are male, various socioeconomic populations of adolescents, and various racial and ethnic populations of adolescents. The study shall be designed and conducted in a manner sufficient to provide for a valid analysis of whether there are significant differences among such populations in health status and whether and to what extent any such differences are due to factors particular to the populations involved.
 
 #### (c) Coordination with Women's Health Initiative
 

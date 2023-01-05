@@ -6,7 +6,7 @@ Environmental Restoration Program.—
 
 &emsp;(1)
 
-In general.—The Secretary of Defense shall carry out a program of environmental restoration at facilities under the jurisdiction of the Secretary. The program shall be known as the "Defense Environmental Restoration Program".
+In general.—The Secretary of Defense shall carry out a program of environmental restoration at facilities under the jurisdiction of the Secretary and at State-owned National Guard facilities. The program shall be known as the "Defense Environmental Restoration Program".
 
 &emsp;(2)
 
@@ -43,6 +43,8 @@ Basic responsibility.—The Secretary shall carry out (in accordance with the pr
 &emsp;&emsp;(B) Each facility or site which was under the jurisdiction of the Secretary and owned by, leased to, or otherwise possessed by the United States at the time of actions leading to contamination by hazardous substances or pollutants or contaminants.
 
 &emsp;&emsp;(C) Each vessel owned or operated by the Department of Defense.
+
+&emsp;&emsp;(D) Each State-owned National Guard facility being used for training the National Guard pursuant to chapter 5 of title 32 with funds provided by the Secretary of Defense or the Secretary of a military department at the time of actions leading to contamination by hazardous substances or pollutants or contaminants.
 
 &emsp;(2)
 
@@ -112,11 +114,11 @@ Limitation of accrual of rights of action under bonds.—If, under applicable Fe
 
 &emsp;(3)
 
-Liability of sureties under bonds.—If, under applicable Federal law, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program, unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety's liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
+Liability of sureties under bonds.—If, under applicable Federal law, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program,unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety's liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
 
 &emsp;(4)
 
-Nonpreemption.—Nothing in this section shall be construed as preempting, limiting, superseding, affecting, applying to, or modifyingany State laws, regulations, requirements, rules, practices, or procedures. Nothing in this section shall be construed as affecting, applying to, modifying, limiting, superseding, or preempting any rights, authorities, liabilities, demands, actions, causes of action, losses, judgment, claims, statutes of limitation, or obligations under Federal or State law, which do not arise on or under the bond.
+Nonpreemption.—Nothing in this section shall be construed as preempting, limiting, superseding, affecting, applying to, or modifying any State laws, regulations, requirements, rules, practices, or procedures. Nothing in this section shall be construed as affecting, applying to, modifying, limiting, superseding, or preempting any rights, authorities, liabilities, demands, actions, causes of action, losses, judgment, claims, statutes of limitation, or obligations under Federal or State law, which do not arise on or under the bond.
 
 (j)
 
@@ -138,7 +140,7 @@ Program Manager.—(1) The Secretary of Defense shall designate a program manage
 
 (4) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 <sup>1</sup> of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
 
-(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 116–92, div. A, title III, §316(c), Dec. 20, 2019, 133 Stat. 1304.)
+(Added Pub. L. 99–499, title II, §211(a)(1)(B), Oct. 17, 1986, 100 Stat. 1719; amended Pub. L. 101–510, div. A, title XIV, §1481(i)(1), Nov. 5, 1990, 104 Stat. 1708; Pub. L. 102–190, div. A, title III, §336(a), Dec. 5, 1991, 105 Stat. 1342; Pub. L. 102–484, div. A, title III, §331(b), title X, §1052(35), Oct. 23, 1992, 106 Stat. 2373, 2501; Pub. L. 103–35, title II, §201(d)(6), May 31, 1993, 107 Stat. 99; Pub. L. 103–337, div. A, title III, §§322, 323, Oct. 5, 1994, 108 Stat. 2711; Pub. L. 104–106, div. A, title III, §321(a)(1), title XV, §1504(a)(1), div. D, title XLIII, §4321(b)(22), Feb. 10, 1996, 110 Stat. 251, 513, 673; Pub. L. 104–201, div. A, title III, §329, Sept. 23, 1996, 110 Stat. 2483; Pub. L. 107–107, div. A, title III, §314, Dec. 28, 2001, 115 Stat. 1053; Pub. L. 107–217, §3(b)(17), Aug. 21, 2002, 116 Stat. 1296; Pub. L. 107–314, div. A, title III, §§311, 312, 313(c)(2), div. B, title XXVIII, §2812(c), Dec. 2, 2002, 116 Stat. 2506, 2508, 2709; Pub. L. 108–375, div. A, title X, §1084(d)(24), Oct. 28, 2004, 118 Stat. 2062; Pub. L. 109–163, div. A, title III, §312(a), Jan. 6, 2006, 119 Stat. 3190; Pub. L. 109–284, §2, Sept. 27, 2006, 120 Stat. 1211; Pub. L. 109–364, div. A, title III, §§311, 312, Oct. 17, 2006, 120 Stat. 2137; Pub. L. 111–84, div. A, title X, §1073(a)(28), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 111–383, div. A, title X, §1075(b)(46)(B), Jan. 7, 2011, 124 Stat. 4371; Pub. L. 112–239, div. B, title XXVII, §2711(c)(4)(A), Jan. 2, 2013, 126 Stat. 2144; Pub. L. 113–291, div. A, title IX, §901(n)(2), Dec. 19, 2014, 128 Stat. 3469; Pub. L. 116–92, div. A, title III, §316(c), Dec. 20, 2019, 133 Stat. 1304; Pub. L. 117–263, div. A, title III, §313(b), (c), Dec. 23, 2022, 136 Stat. 2503.)
 
 #### <b>Editorial Notes</b>
 
@@ -153,6 +155,10 @@ Provisions similar to those in subsecs. (f) and (g) of this section were contain
 A prior section 2701 was renumbered section 2721 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–263, §313(b), inserted "and at State-owned National Guard facilities" after "jurisdiction of the Secretary".
+
+Subsec. (c)(1)(D). Pub. L. 117–263, §313(c), added subpar. (D).
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–92 inserted "or pollutants or contaminants" after "hazardous substances" wherever appearing.
 
@@ -176,7 +182,7 @@ Subsec. (i)(1). Pub. L. 109–284 substituted "sections 3131 and 3133 of title 4
 
 Subsec. (k)(1). Pub. L. 109–364, §311(1), substituted "designate" for "establish" and inserted "research," after "characterization,".
 
-Subsec. (k)(2) to (4). Pub. L. 109–364, §311(2), (3), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: "The authority to establish the program manager may be delegated to the Secretary of a military department,who may delegate the authority to the Under Secretary of that military department. The authority may not be further delegated.".
+Subsec. (k)(2) to (4). Pub. L. 109–364, §311(2), (3), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: "The authority to establish the program manager may be delegated to the Secretary of a military department, who may delegate the authority to the Under Secretary of that military department. The authority may not be further delegated.".
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–375, §1084(d)(24)(A), inserted "(42 U.S.C. 9620)" before period at end.
 
@@ -262,7 +268,43 @@ For effective date and applicability of amendment by section 4321(b)(22) of Pub.
 
 #### Savings Clause
 
-Nothing in amendments by section 316 of Pub. L. 116–92 to affect any requirement or authority under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.), see section 316(d) of Pub. L. 116–92, set out as a note under section 2700 of this title.
+Nothing in amendments by section 316 of Pub. L. 116–92 to affect any requirement or authority under theComprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601 et seq.), see section 316(d) of Pub. L. 116–92, set out as a note under section 2700 of this title.
+
+#### Guidance and Target Goal Relating to Formerly Used Defense Sites Programs
+
+Pub. L. 117–263, div. A, title III, §326, Dec. 23, 2022, 136 Stat. 2518, provided that:
+
+"(a)
+
+Guidance Relating to Site Prioritization.—The Assistant Secretary of Defense for Energy, Installations, and Environment shall issue guidance setting forth how, in prioritizing sites for activities funded under the 'Environmental Restoration Account, Formerly Used Defense Sites' account established under section 2703(a)(5) of title 10, United States Code, the Assistant Secretary shall weigh the relative risk or other factors between Installation Restoration Program sites and Military Munitions Response Program sites.
+
+"(b)
+
+Target Goal for Military Munitions Response Program.—The Assistant Secretary of Defense for Energy, Installations, and Environment shall establish a target goal for the completion of the cleanup of all Military Munitions Response Program sites."
+
+#### Annual Briefings on Department of Defense Procurement of Covered Items Containing PFOS or PFOA
+
+Pub. L. 117–263, div. A, title III, §347(b), (c), Dec. 23, 2022, 136 Stat. 2532, provided that:
+
+"(b)
+
+Annual Briefings.—Not later than 270 days after the date of the enactment of this Act \[Dec. 23, 2022\], and annually thereafter, the Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing that includes a description of each of the following:
+
+&emsp;"(1) Steps taken to identify covered items procured by the Department of Defense that contain perfluorooctane sulfonate (PFOS) or perfluorooctanoic acid (PFOA).
+
+&emsp;"(2) Steps taken to identify products and vendors of covered items that do not contain PFOS or PFOA.
+
+&emsp;"(3) Steps taken to limit the procurement by the Department of covered items that contain PFOS or PFOA.
+
+&emsp;"(4) Steps the Secretary intends to take to limit the procurement of covered items that contain PFOS or PFOA.
+
+"(c)
+
+Covered Item Defined.—In this section, the term 'covered item' means—
+
+&emsp;"(1) nonstick cookware or cooking utensils for use in galleys or dining facilities; and
+
+&emsp;"(2) upholstered furniture, carpets, and rugs that have been treated with stain-resistant coatings."
 
 #### Temporary Moratorium on Incineration by Department of Defense of Perfluoroalkyl Substances, Polyfluoroalkyl Substances, and Aqueous Film Forming Foam
 
@@ -274,7 +316,7 @@ Temporary Moratorium.—Beginning not later than 120 days after the date of the 
 
 &emsp;"(1) The date on which the Secretary issues guidance implementing—
 
-&emsp;&emsp;"(A) the interim guidance on the destruction and disposal of PFAS and materials containing PFASpublished by the Administrator of the Environmental Protection Agency under section 7361 of the National Defense Authorization Act for Fiscal Year 2020 (15 U.S.C. 8961); and
+&emsp;&emsp;"(A) the interim guidance on the destruction and disposal of PFAS and materials containing PFAS published by the Administrator of the Environmental Protection Agency under section 7361 of the National Defense Authorization Act for Fiscal Year 2020 (15 U.S.C. 8961); and
 
 &emsp;&emsp;"(B) section 330 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2701 note).
 
@@ -334,7 +376,7 @@ Review Required.—Not later than 180 days of after the date of the enactment of
 
 "(b)
 
-Guidance.—Not later than 90 days after the date on which the Secretary completes the review under subsection (a), the Secretary shall issue guidance on the prevention and mitigation of spills of AFFF based on the results of such review that includes, at a minimum, best practices and recommended requirements to ensure the following:
+Guidance.—Not later than 90 days after the date on which the Secretary completes the review undersubsection (a), the Secretary shall issue guidance on the prevention and mitigation of spills of AFFF based on the results of such review that includes, at a minimum, best practices and recommended requirements to ensure the following:
 
 &emsp;"(1) The supervision by personnel trained in responding to spills of AFFF of each material transfer or maintenance activity of the Department of Defense that may result in such a spill.
 
@@ -401,6 +443,38 @@ Definitions.—In this section:
 &emsp;"(2) The term 'PFAS' means a perfluoroalkyl or polyfluoroalkyl substance with at least one fully fluorinated carbon atom, including the chemical GenX."
 
 #### Contamination by Perfluoroalkyl or Polyfluoroalkyl Substances
+
+Pub. L. 117–263, div. A, title III, §341(a), Dec. 23, 2022, 136 Stat. 2528, provided that:
+
+"(1)
+
+In general.—Beginning not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], \[the\] Secretary of Defense shall publish on the publicly available website established under section 331(b) of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 2701 note) timely and regularly updated information on the research efforts of the Department of Defense relating to perfluoroalkyl substances or polyfluoroalkyl substances, which shall include the following:
+
+&emsp;"(A) A description of any research collaboration or data sharing by the Department with the Department of Veterans Affairs, the Agency for Toxic Substances and Disease Registry, or any other agency (as defined in section 551 of title 5, United States Code), State, academic institution, nongovernmental organization, or other entity.
+
+&emsp;"(B) Regularly updated information on research projects supported or conducted by the Department of Defense pertaining to the development, testing, and evaluation of a fluorine-free firefighting foam or any other alternative to aqueous film forming foam that contains perfluoroalkyl substances or polyfluoroalkyl substances, excluding any proprietary information that is business confidential.
+
+&emsp;"(C) Regularly updated information on research projects supported or conducted by the Department pertaining to the health effects of perfluoroalkyl substances or polyfluoroalkyl substances, including information relating to the impact of such substances on firefighters, veterans, and military families, and excluding any personally identifiable information.
+
+&emsp;"(D) Regularly updated information on research projects supported or conducted by the Department pertaining to treatment options for drinking water, surface water, ground water, and the safe disposal of perfluoroalkyl substances or polyfluoroalkyl substances.
+
+&emsp;"(E) Budget information, including specific spending information for the research projects relating to perfluoroalkyl substances or polyfluoroalkyl substances that are supported or conducted by the Department.
+
+&emsp;"(F) Such other matters as may be relevant to ongoing research projects supported or conducted by the Department to address the use of perfluoroalkyl substances or polyfluoroalkyl substances and the health effects of the use of such substances.
+
+"(2)
+
+Format.—The information published under paragraph (1) shall be made available in a downloadable, machine-readable, open, and user-friendly format.
+
+"(3)
+
+Definitions.—In this subsection:
+
+&emsp;"(A) The term 'military installation' includes active, inactive, and former military installations.
+
+&emsp;"(B) The term 'perfluoroalkyl substance' means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
+
+&emsp;"(C) The term 'polyfluoroalkyl substance' means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms."
 
 Pub. L. 116–92, div. A, title III, §§329–332, Dec. 20, 2019, 133 Stat. 1312, 1313, provided that:
 
@@ -498,7 +572,7 @@ Other authority.—In addition to the requirements for a cooperative agreement u
 
 "(b)
 
-Report.—Beginning on February 1, 2020, if a cooperative agreement is not finalized or amended under subsection (a) within one year after the request from the Governor or chief executive under that subsection, and annually thereafter, the Secretary of Defense shall submit to the appropriate committees and Members of Congress a report—
+Report.—Beginning on February 1, 2020, if a cooperative agreement is not finalized or amended undersubsection (a) within one year after the request from the Governor or chief executive under that subsection, and annually thereafter, the Secretary of Defense shall submit to the appropriate committees and Members of Congress a report—
 
 &emsp;"(1) explaining why the agreement has not been finalized or amended, as the case may be; and
 
@@ -614,7 +688,7 @@ Rule of Construction.—The authority under this section constitutes authority t
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], theSecretary of Defense shall submit to Congress a remediation plan for cleanup of all water at or adjacent to a military installation that is contaminated with PFOA or PFOS.
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense shall submit to Congress a remediation plan for cleanup of all water at or adjacent to a military installation that is contaminated with PFOA or PFOS.
 
 "(b)
 
@@ -750,7 +824,7 @@ Regulations.—
 
 &emsp;"(1)
 
-In general.—Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall prescribe regulations prohibiting the disposal of covered waste in open-air burn pits during contingency operations except in circumstances in which the Secretary determines that no alternative disposal method is feasible. Suchregulations shall apply to contingency operations that are ongoing as of the date of the enactment of this Act, including Operation Iraqi Freedom and Operation Enduring Freedom, and to contingency operations that begin after the date of the enactment of this Act.
+In general.—Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall prescribe regulations prohibiting the disposal of covered waste in open-air burn pits during contingency operations except in circumstances in which the Secretary determines that no alternative disposal method is feasible. Such regulations shall apply to contingency operations that are ongoing as of the date of the enactment of this Act, including Operation Iraqi Freedom and Operation Enduring Freedom, and to contingency operations that begin after the date of the enactment of this Act.
 
 &emsp;"(2)
 
@@ -1040,7 +1114,7 @@ Pub. L. 103–160, div. A, title XIII, §1333, Nov. 30, 1993, 107 Stat. 1798, as
 
 "(a)
 
-Grant Program Authorized.—(1) The Secretary of Defense may establish a program to provide demonstration grants to institutions of higher education to assist such institutions in providing education and training in environmental restoration and hazardous waste management to eligible dislocated defense workers and young adults described in subsection (d). TheSecretary shall award the grants pursuant to a merit-based selection process.
+Grant Program Authorized.—(1) The Secretary of Defense may establish a program to provide demonstration grants to institutions of higher education to assist such institutions in providing education and training in environmental restoration and hazardous waste management to eligible dislocated defense workers and young adults described in subsection (d). The Secretary shall award the grants pursuant to a merit-based selection process.
 
 "(2) A grant provided under this subsection may cover a period of not more than three fiscal years, except that the payments under the grant for the second and third fiscal year shall be subject to the approval of the Secretary and to the availability of appropriations to carry out this section in that fiscal year.
 
@@ -1050,7 +1124,7 @@ Application.—To be eligible for a grant under subsection (a), an institution o
 
 &emsp;"(1) An assurance by the institution of higher education that it will use the grant to supplement and not supplant non-Federal funds that would otherwise be available for the education and training activities funded by the grant.
 
-&emsp;"(2) A proposal by the institution of higher education to provide expertise, training, and education in hazardous materials and waste management and other environmental fields applicable to defense manufacturing sites and Department of Defense and Department of Energy defense facilities.
+&emsp;"(2) A proposal by the institution of higher education to provide expertise, training, and education in hazardous materials and waste management andother environmental fields applicable to defense manufacturing sites and Department of Defense and Department of Energy defense facilities.
 
 "(c)
 
@@ -1578,7 +1652,7 @@ Report.—(1) Not later than 180 days after the date of the enactment of this Ac
 
 "(c)
 
-DOD Requirements for CFCs.—(1) Not later than 30 days after the date of the enactment of this Act\[Nov. 29, 1989\], the Secretary shall establish an advisory committee to be known as the 'CFC Advisory Committee' (hereinafter in this section referred to as the 'Committee'). The Committee shall be composed of not more than 15 members, with an equal number of representatives from the Department of Defense, the Environmental Protection Agency, and defense contractors. Members representing defense contractors shall be contractors that supply the Department of Defense with products or equipment that require the use of CFCs.
+DOD Requirements for CFCs.—(1) Not later than 30 days after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary shall establish an advisory committee to be known as the 'CFC Advisory Committee' (hereinafter in this section referred to as the 'Committee'). The Committee shall be composed of not more than 15 members, with an equal number of representatives from the Department of Defense, the Environmental Protection Agency, and defense contractors. Members representing defense contractors shall be contractors that supply the Department of Defense with products or equipment that require the use of CFCs.
 
 "(2) It shall be the function of the Committee to study (A) the use of CFCs by the Department of Defense and by contractors in the performance of contracts for the Department of Defense, and (B) the cost and feasibility of using alternative compounds for CFCs or using alternative technologies that do not require the use of CFCs.
 

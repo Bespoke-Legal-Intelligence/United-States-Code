@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose of carrying out this part, there are authorized to be appropriated$604,000,000 for fiscal year 2007, $626,300,000 for fiscal year 2008, $649,500,000 for fiscal year 2009, $681,975,000 for fiscal year 2010, $716,074,000 for fiscal year 2011, $751,877,000 for fiscal year 2012, and $789,471,000 for fiscal year 2013. Amounts appropriated under the preceding sentence for a fiscal year are available for obligation by the Secretary until the end of the second succeeding fiscal year.
+For the purpose of carrying out this part, there are authorized to be appropriated $604,000,000 for fiscal year 2007, $626,300,000 for fiscal year 2008, $649,500,000 for fiscal year 2009, $681,975,000 for fiscal year 2010, $716,074,000 for fiscal year 2011, $751,877,000 for fiscal year 2012, and $789,471,000 for fiscal year 2013. Amounts appropriated under the preceding sentence for a fiscal year are available for obligation by the Secretary until the end of the second succeeding fiscal year.
 
 #### (b) Reservation of amounts
 
@@ -64,7 +64,7 @@ Notwithstanding subsection (b):
 
 &emsp;(3) If a metropolitan area is a transitional area under section 300ff–19 of this title for a fiscal year, but for a subsequent fiscal year qualifies as an eligible area under subpart I—
 
-&emsp;&emsp;(A) the amount reserved under subsection (b)(2)(B) of this section for the first suchsubsequent fiscal year of becoming an eligible area is deemed to be reduced by an amount equal to the amount of the grant that, pursuant to section 300ff–13(a) of this title, was made under section 300ff–19(d)(2)(A) of this title for the metropolitan area for the preceding fiscal year; and
+&emsp;&emsp;(A) the amount reserved under subsection (b)(2)(B) of this section for the first such subsequent fiscal year of becoming an eligible area is deemed to be reduced by an amount equal to the amount of the grant that, pursuant to section 300ff–13(a) of this title, was made under section 300ff–19(d)(2)(A) of this title for the metropolitan area for the preceding fiscal year; and
 
 &emsp;&emsp;(B) the amount reserved under subsection (b)(2)(A) for such fiscal year is deemed to be increased by an amount equal to the amount of the reduction under subparagraph (A) for such year.
 

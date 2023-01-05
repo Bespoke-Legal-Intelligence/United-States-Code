@@ -30,7 +30,7 @@ Use of Department of Defense Facilities and Equipment.—Facilities and equipmen
 
 (e)
 
-Notification.—Not later than 30 days before the date on which the Secretary of Defense authorizes participation under subsection (a) in a new multinational center of excellence, theSecretary shall notify the congressional defense committees of such participation.
+Notification.—Not later than 30 days before the date on which the Secretary of Defense authorizes participation under subsection (a) in a new multinational center of excellence, the Secretary shall notify the congressional defense committees of such participation.
 
 (f)
 
@@ -44,15 +44,19 @@ Multinational Center Of Excellence Defined.—In this section, the term "multina
 
 &emsp;&emsp;(C) assist in the development of doctrine;
 
-&emsp;&emsp;(D) validate concepts through experimentation; and
+&emsp;&emsp;(D) validate concepts through experimentation;
 
-&emsp;(2) the European Centre of Excellence for Countering Hybrid Threats, established in 2017 and located in Helsinki, Finland.
+&emsp;(2) the European Centre of Excellence for Countering Hybrid Threats, established in 2017 and located in Helsinki, Finland; and
 
-(Added Pub. L. 110–417, \[div. A\], title XII, §1232(a)(1), Oct. 14, 2008, 122 Stat. 4637, §2350m; amended Pub. L. 112–239, div. A, title X, §1076(f)(25), Jan. 2, 2013, 126 Stat. 1953; renumbered §344 and amended Pub. L. 114–328, div. A, title XII, §1241(g), Dec. 23, 2016, 130 Stat. 2507; Pub. L. 116–283, div. A, title XII, §1206(a), Jan. 1, 2021, 134 Stat. 3912.)
+&emsp;(3) the International Special Training Centre, established in 1979 and located in Pfullendorf, Germany.
+
+(Added Pub. L. 110–417, \[div. A\], title XII, §1232(a)(1), Oct. 14, 2008, 122 Stat. 4637, §2350m; amended Pub. L. 112–239, div. A, title X, §1076(f)(25), Jan. 2, 2013, 126 Stat. 1953; renumbered §344 and amended Pub. L. 114–328, div. A, title XII, §1241(g), Dec. 23, 2016, 130 Stat. 2507; Pub. L. 116–283, div. A, title XII, §1206(a), Jan. 1, 2021, 134 Stat. 3912; Pub. L. 117–263, div. A, title XII, §1203, Dec. 23, 2022, 136 Stat. 2826.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(3). Pub. L. 117–263 added par. (3).
 
 <b>2021</b>—Pub. L. 116–283, §1206(a)(1)–(3), in section catchline, substituted "multinational centers of excellence" for "multinational military centers of excellence" and, in text, substituted "multinational center of excellence" for "multinational military center of excellence" and "multinational centers of excellence" for "multinational military centers of excellence" wherever appearing.
 

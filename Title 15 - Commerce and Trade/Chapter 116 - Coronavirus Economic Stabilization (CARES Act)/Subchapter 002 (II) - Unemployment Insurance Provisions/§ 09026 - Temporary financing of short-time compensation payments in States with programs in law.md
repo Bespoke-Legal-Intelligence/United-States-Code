@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (3), there shall be paid to a State an amount equal to 100 percent of the amount of short-time compensation paid under a short-time compensation program (as defined in section 3306(v) of title 26) under the provisions of the State law.
+&emsp;Subject to paragraph (3), there shall be paid to a State an amount equal to 100 percent of the amount of short-time compensation paid under a short-time compensation program (asdefined in section 3306(v) of title 26) under the provisions of the State law.
 
 #### (2) Terms of payments
 

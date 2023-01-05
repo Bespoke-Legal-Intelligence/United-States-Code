@@ -47,6 +47,8 @@ Use of Funds.—The Secretary, acting through the Administrator of the Health Re
 
 - [&sect; 00294n - Health professions workforce information and analysis](%C2%A7%2000294n%20-%20Health%20professions%20workforce%20information%20and%20analysis.md)
 - [&sect; 00294o - Advisory Council on Graduate Medical Education](%C2%A7%2000294o%20-%20Advisory%20Council%20on%20Graduate%20Medical%20Education.md)
-- [&sect; 00294p - Pediatric rheumatology](%C2%A7%2000294p%20-%20Pediatric%20rheumatology.md)
+- [&sect; 00294p - Training for health care providers](%C2%A7%2000294p%20-%20Training%20for%20health%20care%20providers.md)
 - [&sect; 00294q - National Health Care Workforce Commission](%C2%A7%2000294q%20-%20National%20Health%20Care%20Workforce%20Commission.md)
 - [&sect; 00294r - State health care workforce development grants](%C2%A7%2000294r%20-%20State%20health%20care%20workforce%20development%20grants.md)
+- [&sect; 00294s - Rural maternal and obstetric care training demonstration](%C2%A7%2000294s%20-%20Rural%20maternal%20and%20obstetric%20care%20training%20demonstration.md)
+- [&sect; 00294t - Programs to promote mental health among the health professional workforce](%C2%A7%2000294t%20-%20Programs%20to%20promote%20mental%20health%20among%20the%20health%20professional%20workforce.md)

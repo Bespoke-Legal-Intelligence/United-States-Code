@@ -122,7 +122,7 @@ Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment b
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title IV, §481(b), July 18, 1984, 98 Stat. 847, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to stock issued after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
+Pub. L. 98–369, div. A, title IV, §481(b), July 18, 1984, 98 Stat. 847, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to stock issued after the date of the enactment of this Act \[July 18, 1984\] in taxable years ending after such date."
 
 #### Effective Date of 1978 Amendment
 

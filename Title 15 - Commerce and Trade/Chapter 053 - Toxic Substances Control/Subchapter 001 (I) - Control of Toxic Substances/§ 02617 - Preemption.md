@@ -26,7 +26,7 @@
 
 #### (C) Significant new use
 
-&emsp;&emsp;A statute or administrative action requiring the notification of a use of a chemicalsubstance that the Administrator has specified as a significant new use and for which the Administrator has required notification pursuant to a rule promulgated under section 2604 of this title.
+&emsp;&emsp;A statute or administrative action requiring the notification of a use of a chemical substance that the Administrator has specified as a significant new use and for which the Administrator has required notification pursuant to a rule promulgated under section 2604 of this title.
 
 #### (2) Effective date of preemption
 
@@ -144,7 +144,7 @@ Federal preemption under subsections (a) and (b) of statutes, criminal penalties
 
 &emsp;&emsp;(iii) the State or political subdivision of the State has a concern about the chemical substance or use of the chemical substance based in peer-reviewed science; or
 
-&emsp;&emsp;(B) no later than the date that is 18 months after the date on which the Administrator has initiated the prioritization process for a chemical substance under the rule promulgated pursuant to section 2605(b)(1)(A) of this title, or the date on which the Administrator publishes the scope of the risk evaluation for a chemical substance under section 2605(b)(4)(D) of this title, whichever is sooner, the State or political subdivision of the State has enacted a statute or proposed or finalized an administrative action intended to prohibit or otherwise restrict the manufacture, processing, distribution in commerce, or use of the chemical substance.
+&emsp;&emsp;(B) no later than the date that is 18 months after the date on which the Administrator has initiated the prioritization process for a chemical substance under the rule promulgated pursuant to section 2605(b)(1)(A) of this title, or the date on which the Administrator publishes the scope of the risk evaluation for a chemical substance under section 2605(b)(4)(D) of this title, whichever is sooner, the State or political subdivision of the State has enacted a statute or proposed or finalized an administrative action intended to prohibit or otherwise restrict the manufacture, processing,distribution in commerce, or use of the chemical substance.
 
 #### (3) Determination of a waiver request
 

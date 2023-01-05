@@ -60,5 +60,5 @@ Section effective at end of 90-day period beginning on Oct. 5, 1994, see section
 
 #### Annual Preparation of Future Years Defense Plan
 
-Pub. L. 104–196, §123, Sept. 16, 1996, 110 Stat. 2392, provided that: "The National Guard Bureau shall annuallyprepare a future years defense plan based on the requirement and priorities of the National Guard: <i>Provided</i>, That this plan shall be presented to the committees of Congress concurrent with the President's budget submission for each fiscal year."
+Pub. L. 104–196, §123, Sept. 16, 1996, 110 Stat. 2392, provided that: "The National Guard Bureau shall annually prepare a future years defense plan based on the requirement and priorities of the National Guard: <i>Provided</i>, That this plan shall be presented to the committees of Congress concurrent with the President's budget submission for each fiscal year."
 

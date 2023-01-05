@@ -14,5 +14,5 @@ For the purposes of this subchapter, the term—
 
 #### Short Title
 
-Pub. L. 101–621, §1, Nov. 16, 1990, 104 Stat. 3342, provided that: "This Act \[enacting this subchapter\] may be cited as the 'Red Rock Canyon National Conservation Area Establishment Act of 1990'."
+Pub. L. 101–621, §1, Nov. 16, 1990, 104 Stat. 3342, provided that: "This Act \[enacting this subchapter\] maybe cited as the 'Red Rock Canyon National Conservation Area Establishment Act of 1990'."
 

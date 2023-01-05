@@ -16,7 +16,7 @@ Another section 9132 was renumbered section 9138 of this title.
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283 substituted "Regular Air Force and Regular Space Force: gender-free basis for acceptance of original enlistments" for "Regular Air Force:gender-free basis for acceptance of original enlistments" in section catchline and inserted "or the Regular Space Force" after "Regular Air Force" in introductory provisions.
+<b>2021</b>—Pub. L. 116–283 substituted "Regular Air Force and Regular Space Force: gender-free basis for acceptance of original enlistments" for "Regular Air Force: gender-free basis for acceptance of original enlistments" in section catchline and inserted "or the Regular Space Force" after "Regular Air Force" in introductory provisions.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8252 of this title as this section.
 

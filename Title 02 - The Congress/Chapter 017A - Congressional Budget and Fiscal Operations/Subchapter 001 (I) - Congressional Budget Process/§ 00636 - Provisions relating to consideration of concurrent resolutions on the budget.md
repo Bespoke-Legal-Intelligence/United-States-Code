@@ -2,7 +2,7 @@
 
 #### (a) Procedure in House after report of Committee; debate
 
-(1) When a concurrent resolution on the budget has been reported by the Committee on the Budget of the House of Representatives and has been referred to the appropriate calendar of the House, it shall be in order on any day thereafter, subject to clause 4 of rule XIII of the Rules of the House of Representatives, to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
+(1) When a concurrent resolution on the budget has been reported by the Committee on the Budget of the House of Representatives and has been referred to the appropriate calendar of theHouse, it shall be in order on any day thereafter, subject to clause 4 of rule XIII of the Rules of the House of Representatives, to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
 (2) General debate on any concurrent resolution on the budget in the House of Representatives shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority parties, plus such additional hours of debate as are consumed pursuant to paragraph (3). A motion further to limit debate is not debatable. A motion to recommit the concurrent resolution is not in order, and it is not in order to move to reconsider the vote by which the concurrent resolution is agreed to or disagreed to.
 
@@ -28,7 +28,7 @@
 
 (5) A motion to further limit debate is not debatable. A motion to recommit (except a motion to recommit with instructions to report back within a specified number of days, not to exceed 3, not counting any day on which the Senate is not in session) is not in order. Debate on any such motion to recommit shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the concurrent resolution.
 
-(6) Notwithstanding any other rule, an amendment or series of amendments to a concurrent resolution on the budget proposed in the Senate shall always be in order if such amendment or series of amendments proposes to change any figure or figures then contained in such concurrent resolution so as to make such concurrent resolution mathematically consistent or so as to maintain such consistency.
+(6) Notwithstanding any other rule, an amendment or series of amendments to a concurrentresolution on the budget proposed in the Senate shall always be in order if such amendment or series of amendments proposes to change any figure or figures then contained in such concurrent resolution so as to make such concurrent resolution mathematically consistent or so as to maintain such consistency.
 
 #### (c) Action on conference reports in Senate
 
@@ -54,7 +54,7 @@ It shall not be in order in the Senate to vote on the question of agreeing to—
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d,1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+This Act, referred to in subsec. (b)(4), means Pub. L. 93–344, July 12, 1974, 88 Stat. 297, known as the Congressional Budget and Impoundment Control Act of 1974, which enacted chapters 17, 17A and 17B, and section 190a–3 of this title and sections 11a, 11c, 11d, 1020a of former Title 31, Money and Finance, amended sections 11, 665, 701, 1020, 1151, 1152, 1153, and 1154 of former Title 31, section 105 of Title 1, General Provisions, sections 190b and 190d of this title, repealed sections 571 and 581c–1 of former Title 31 and sections 66 and 81 of this title, and enacted provisions set out as notes under sections 190a–1, 621, 632, and 682 of this title, section 105 of Title 1, and section 1020 of former Title 31. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 
@@ -74,7 +74,7 @@ Subsec. (b)(1). Pub. L. 113–67, §122(6), substituted "section 635" for "secti
 
 Subsec. (c)(2). Pub. L. 101–508, §13209(2), inserted "(or a message between Houses)" after "conference report" wherever appearing.
 
-Subsecs. (d), (e). Pub. L. 101–508, §13210(1), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "If at the end of 7 days (excluding Saturdays, Sundays, and legal holidays) after the conferees of both Houses have been appointed to a committee of conference on a concurrent resolution on the budget, the conferees are unable to reach agreement with respect to all matters in disagreement between the two Houses, then the conferees shall submit to their respective Houses, on the first day thereafter on which their House is in session—
+Subsecs. (d), (e). Pub. L. 101–508, §13210(1), redesignated subsec. (e) as (d) and struck out former subsec.\(d) which read as follows: "If at the end of 7 days (excluding Saturdays, Sundays, and legal holidays) after the conferees of both Houses have been appointed to a committee of conference on a concurrent resolution on the budget, the conferees are unable to reach agreement with respect to all matters in disagreement between the two Houses, then the conferees shall submit to their respective Houses, on the first day thereafter on which their House is in session—
 
 &emsp;"(1) a conference report recommending those matters on which they have agreed and reporting in disagreement those matters on which they have not agreed; or
 

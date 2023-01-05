@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 87–629, §4, Sept. 5, 1962, 76 Stat. 430, which related to sale of trust lands, was omitted fromthe Code as being of special and not general application.
+Section, Pub. L. 87–629, §4, Sept. 5, 1962, 76 Stat. 430, which related to sale of trust lands, was omitted from the Code as being of special and not general application.
 

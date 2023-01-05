@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 88–506, §3, Aug. 30, 1964, 78 Stat. 639, which exempted funds distributed in accordance with this subchapter from Federal and State income taxes, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 88–506, §3, Aug. 30, 1964, 78 Stat. 639, which exempted funds distributed in accordance withthis subchapter from Federal and State income taxes, was omitted from the Code as being of special and not general application.
 

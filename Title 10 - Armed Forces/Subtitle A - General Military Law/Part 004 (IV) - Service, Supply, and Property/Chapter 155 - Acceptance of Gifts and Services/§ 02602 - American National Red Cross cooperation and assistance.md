@@ -10,7 +10,7 @@
 
 &emsp;(3) available office space, warehousing, wharfage, and means of communication, without charge.
 
-(c) No fee may be charged for a passport issued to an employee of the American National RedCross for travel outside the United States to assume or perform duties under this section.
+(c) No fee may be charged for a passport issued to an employee of the American National Red Cross for travel outside the United States to assume or perform duties under this section.
 
 (d) Supplies of the American National Red Cross, including gifts for the use of the armed forces, may be transported at the expense of the United States, if it is determined under regulations prescribed under subsection (a) that they are necessary to the cooperation and assistance accepted under this section.
 

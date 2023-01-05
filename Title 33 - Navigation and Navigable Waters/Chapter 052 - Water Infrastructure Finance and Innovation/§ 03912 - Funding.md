@@ -22,7 +22,7 @@
 
 #### (3) Fiscal years 2022 through 2026
 
-&emsp;There is authorized to be appropriated to the Administrator to carry out this chapter $50,000,000 for each of fiscal years 2022 through 2026, to remain available until expended.
+&emsp;There is authorized to be appropriated to the Administrator to carry out this chapter$50,000,000 for each of fiscal years 2022 through 2026, to remain available until expended.
 
 #### (b) Administrative costs
 

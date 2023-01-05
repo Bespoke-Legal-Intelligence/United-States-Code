@@ -34,7 +34,7 @@
 
 #### (2) Limitation on fund investments
 
-&emsp;Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that, if such Secretary consents thereto, an agreed percentage (not in excess of 60 percent) of the assets of the fund may be invested in the stock of domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange, and must be stock which would be acquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
+&emsp;Amounts in any capital construction fund may be invested only in interest-bearing securities approved by the Secretary; except that, if such Secretary consents thereto, an agreed percentage (not in excess of 60 percent) of the assets of the fund may be invested in the stockof domestic corporations. Such stock must be currently fully listed and registered on an exchange registered with the Securities and Exchange Commission as a national securities exchange, and must be stock which would be acquired by prudent men of discretion and intelligence in such matters who are seeking a reasonable income and the preservation of their capital. If at any time the fair market value of the stock in the fund is more than the agreed percentage of the assets in the fund, any subsequent investment of amounts deposited in the fund, and any subsequent withdrawal from the fund, shall be made in such a way as to tend to restore the fund to a situation in which the fair market value of the stock does not exceed such agreed percentage.
 
 #### (3) Investment in certain preferred stock permitted
 
@@ -130,7 +130,7 @@ For purposes of this section—
 
 #### (2) Penalty for failing to fulfill any substantial obligation
 
-&emsp;Under joint regulations, if the Secretary determines that any substantial obligation under any agreement is not being fulfilled, hemay, after notice and opportunity for hearing to the person maintaining the fund, treat the entire fund or any portion thereof as an amount withdrawn from the fund in a nonqualified withdrawal.
+&emsp;Under joint regulations, if the Secretary determines that any substantial obligation under any agreement is not being fulfilled, he may, after notice and opportunity for hearing to the person maintaining the fund, treat the entire fund or any portion thereof as an amount withdrawn from the fund in a nonqualified withdrawal.
 
 #### (f) Tax treatment of qualified withdrawals
 
@@ -266,13 +266,13 @@ Under joint regulations—
 
 For purposes of this section, any term defined in chapter 535 of title 46, United States Code, which is also used in this section (including the definition of "Secretary") shall have the meaning given such term by such chapter as in effect on the date of the enactment of this section.
 
-(Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI, §11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(D), May 28, 2003, 117 Stat. 758; Pub. L. 109–304, §17(e)(6), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 112–240, title I, §102(c)(1)(D), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 113–295, div. A, title II, §221(a)(117), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 115–97, title I, §13001(b)(2)(Q), (7), Dec. 22, 2017, 131 Stat. 2097, 2098; Pub. L. 115–141, div. U, title IV, §401(a)(352), Mar. 23, 2018, 132 Stat. 1201.)
+(Added Pub. L. 99–514, title II, §261(b), Oct. 22, 1986, 100 Stat. 2208; amended Pub. L. 100–647, title I, §§1002(m)(1), 1018(u)(23), Nov. 10, 1988, 102 Stat. 3382, 3591; Pub. L. 101–508, title XI,§11101(d)(7)(A), Nov. 5, 1990, 104 Stat. 1388–405; Pub. L. 105–34, title III, §311(c)(2), Aug. 5, 1997, 111 Stat. 835; Pub. L. 108–27, title III, §301(a)(2)(D), May 28, 2003, 117 Stat. 758; Pub. L. 109–304, §17(e)(6), Oct. 6, 2006, 120 Stat. 1708; Pub. L. 112–240, title I, §102(c)(1)(D), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 113–295, div. A, title II, §221(a)(117), Dec. 19, 2014, 128 Stat. 4054; Pub. L. 115–97, title I, §13001(b)(2)(Q), (7), Dec. 22, 2017, 131 Stat. 2097, 2098; Pub. L. 115–141, div. U, title IV, §401(a)(352), Mar. 23, 2018, 132 Stat. 1201.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969, referred to in subsec. (g)(3)(C)(iii), was section 606(5) of act June 29, 1936, ch. 858, title VI, 49 Stat. 2004, as amended by acts June 23,1938, ch. 600, §22, 52 Stat. 960; July 17, 1952, ch. 939, §16, 66 Stat. 764; and May 10, 1956, ch. 247, §1, 70 Stat. 148, which was classified to section 1176(5) of former Title 46, Shipping, and was repealed by Pub. L. 91–469, §20(4), Oct. 21, 1970, 84 Stat. 1026. Section 606 of the Merchant Marine Act, 1936 was subsequently transferred to section 1176 of the former Appendix to Title 46 and is now set out as a note under section 53101 of Title 46, Shipping.
+Section 606(5) of the Merchant Marine Act, 1936, as in effect on December 31, 1969, referred to in subsec. (g)(3)(C)(iii), was section 606(5) of act June 29, 1936, ch. 858, title VI, 49 Stat. 2004, as amended by acts June 23, 1938, ch. 600, §22, 52 Stat. 960; July 17, 1952, ch. 939, §16, 66 Stat. 764; and May 10, 1956, ch. 247, §1, 70 Stat. 148, which was classified to section 1176(5) of former Title 46, Shipping, and was repealed by Pub. L. 91–469, §20(4), Oct. 21, 1970, 84 Stat. 1026. Section 606 of the Merchant Marine Act, 1936 was subsequently transferred to section 1176 of the former Appendix to Title 46 and is now set out as a note under section 53101 of Title 46, Shipping.
 
 The date of the enactment of this section, referred to in subsec. (i), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 

@@ -60,7 +60,7 @@
 
 (b)(1) In addition to the authority otherwise provided by this section, each agency Chief Financial Officer—
 
-&emsp;(A) subject to paragraph (2), shall have access to all records, reports, audits, reviews, documents, papers, recommendations, or other material which are the property of the agency or which are available to the agency, and which relate to programs and operations with respect to which that agency Chief Financial Officer has responsibilities under this section;
+&emsp;(A) subject to paragraph (2), shall have access to all records, reports, audits, reviews, documents, papers, recommendations, or othermaterial which are the property of the agency or which are available to the agency, and which relate to programs and operations with respect to which that agency Chief Financial Officer has responsibilities under this section;
 
 &emsp;(B) may request such information or assistance as may be necessary for carrying out the duties and responsibilities provided by this section from any Federal, State, or local governmental entity; and
 
@@ -70,9 +70,9 @@
 
 &emsp;&emsp;(ii) make such payments as may be necessary to carry out the provisions of this section.
 
-(2) Except as provided in paragraph (1)(B), this subsection does not provide to an agency Chief Financial Officer any access greater than permitted under any other law to records, reports, audits, reviews, documents, papers, recommendations, or other material of any Office of Inspector General established under the Inspector General Act of 1978 (5 U.S.C. App.).
+(2) Except as provided in paragraph (1)(B), this subsection does not provide to an agency Chief Financial Officer any access greater than permitted under any other law to records, reports, audits, reviews, documents, papers, recommendations, or other material of any Office of Inspector General established under chapter 4 of title 5.
 
-(Added Pub. L. 101–576, title II, §205(a), Nov. 15, 1990, 104 Stat. 2843.)
+(Added Pub. L. 101–576, title II, §205(a), Nov. 15, 1990, 104 Stat. 2843; amended Pub. L. 117–286, §4(b)(49), Dec. 27, 2022, 136 Stat. 4348.)
 
 #### <b>Editorial Notes</b>
 
@@ -80,5 +80,7 @@
 
 The Federal Managers' Financial Integrity Act of 1982, referred to in subsec. (a)(6)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as section 3512 of this title. Provisions relating to reports on internal accounting and administrative control systems are restated in section 3512(d)(2) and (3) of this title.
 
-The Inspector General Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(2). Pub. L. 117–286 substituted "chapter 4 of title 5." for "the Inspector General Act of 1978 (5 U.S.C. App.)."
 

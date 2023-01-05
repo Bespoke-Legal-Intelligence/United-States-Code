@@ -4,7 +4,7 @@
 
 (b) The requirement for 12 consecutive months of participation required by subsection (a) of this section shall not apply when (1) the participant suspends participation or disenrolls from the program because of personal hardship as defined in regulations issued jointly by the Secretary and the Secretary of Defense, or (2) the participant is discharged or released from active duty.
 
-(c) A participant shall be permitted to suspend participation or disenroll from the program at the end of any 12-consecutive-month period of participation. If participation is suspended, theparticipant shall be eligible to make additional contributions to the program under such terms and conditions as shall be prescribed by regulations issued jointly by the Secretary and the Secretary of Defense.
+(c) A participant shall be permitted to suspend participation or disenroll from the program at the end of any 12-consecutive-month period of participation. If participation is suspended, the participant shall be eligible to make additional contributions to the program under such terms and conditions as shall be prescribed by regulations issued jointly by the Secretary and the Secretary of Defense.
 
 (d) If a participant disenrolls from the program, such participant forfeits any entitlement to benefits under the program except as provided in subsection (e) of this section. A participant who disenrolls from the program is eligible for a refund of such participant's contributions as provided in section 3223 of this title.
 

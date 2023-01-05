@@ -20,7 +20,7 @@
 
 &emsp;(H) The minimum energy efficiency ratio of water-cooled, evaporatively-cooled and water-source central air conditioners and central air conditioning heat pumps at or above 65,000 Btu per hour (cooling capacity) and less than 135,000 Btu per hour (cooling capacity) shall be 10.5 (at a standard rating of 95 degrees F db, outdoor temperature for evaporatively cooled equipment, and 85 degrees Fahrenheit entering water temperature for water source and water-cooled equipment).
 
-&emsp;(I) The minimum coefficient of performance in the heating mode of water-source heat pumps less than 135,000 Btu per hour (cooling capacity) shall be 3.8 (at a standard rating of 70 degrees Fahrenheit entering water).
+&emsp;(I) The minimum coefficient of performance in the heating mode of water-source heat pumps less than 135,000 Btu per hour (coolingcapacity) shall be 3.8 (at a standard rating of 70 degrees Fahrenheit entering water).
 
 (2) Each large commercial package air conditioning and heating equipment (including single package vertical air conditioners and single package vertical heat pumps) manufactured on or after January 1, 1995, but before January 1, 2010, shall meet the following standard levels:
 
@@ -46,7 +46,7 @@
 
 &emsp;(D) The minimum combustion efficiency at the maximum rated capacity of oil-fired packaged boilers with capacity of 300,000 Btu per hour or more shall be 83 percent.
 
-(5) Each storage water heater, instantaneous water heater, and unfired water storage tankmanufactured on or after January 1, 1994, shall meet the following standard levels:
+(5) Each storage water heater, instantaneous water heater, and unfired water storage tank manufactured on or after January 1, 1994, shall meet the following standard levels:
 
 &emsp;(A) Except as provided in subparagraph (G), the maximum standby loss, in percent per hour, of electric storage water heaters shall be 0.30 + (27/Measured Storage Volume \[in gallons\]).
 
@@ -309,7 +309,7 @@ Electric motors.—
 
 &emsp;(A)
 
-General purpose electric motors (subtype i).—Except as provided in subparagraph (B), each general purpose electric motor (subtype I) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19, 2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–12.
+General purpose electric motors (subtype i).—Except as provided in subparagraph (B), each general purpose electric motor (subtype I) with a power rating of 1 horsepower or greater, but not greater than 200 horsepower, manufactured (alone or as a component of another piece of equipment) after the 3-year period beginning on December 19,2007, shall have a nominal full load efficiency that is not less than as defined in NEMA MG–1 (2006) Table 12–12.
 
 &emsp;(B)
 
@@ -335,7 +335,7 @@ design b, general purpose electric motors.—Each NEMA Design B, general purpose
 
 (D) Manufacturers of types or classes of motors developed after October 24, 1992, to which standards under paragraph (1) would be applicable may petition the Secretary for exemptions from compliance with such standards based on the criteria specified in subparagraph (A).
 
-(4)(A) The Secretary shall publish a final rule no later than the end of the 24-month period beginning on the effective date of the standards established under paragraph (1) to determine if such standards should be amended. Such rule shall provide that any amendment shall apply to electric motors manufactured on or after a datewhich is five years after the effective date of the standards established under paragraph (1).
+(4)(A) The Secretary shall publish a final rule no later than the end of the 24-month period beginning on the effective date of the standards established under paragraph (1) to determine if such standards should be amended. Such rule shall provide that any amendment shall apply to electric motors manufactured on or after a date which is five years after the effective date of the standards established under paragraph (1).
 
 (B) The Secretary shall publish a final rule no later than 24 months after the effective date of the previous final rule to determine whether to amend the standards in effect for such product. Any such amendment shall apply to electric motors manufactured after a date which is five years after—
 

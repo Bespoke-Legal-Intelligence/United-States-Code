@@ -53,7 +53,7 @@
 
 #### (A) Average monthly rate
 
-&emsp;&emsp;For purposes of subsection (a)(2), the participation rate for 2-parent families of a State for a fiscal year is the average of the participation rates for 2-parent families of the State for each month in the fiscal year.
+&emsp;&emsp;For purposes of subsection (a)(2), the participation rate for 2-parent families of a State for a fiscal year is the average of theparticipation rates for 2-parent families of the State for each month in the fiscal year.
 
 #### (B) Monthly participation rates
 
@@ -228,7 +228,7 @@ It is the sense of the Congress that the States should require noncustodial, non
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than June 30, 2006, the Secretary shall promulgate regulations to ensure consistent measurement of work participation rates under State programs funded under this part and State programsfunded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), which shall include information with respect to—
+&emsp;&emsp;&emsp;Not later than June 30, 2006, the Secretary shall promulgate regulations to ensure consistent measurement of work participation rates under State programs funded under this part and State programs funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title), which shall include information with respect to—
 
 &emsp;&emsp;&emsp;&emsp;(I) determining whether an activity of a recipient of assistance may be treated as a work activity under subsection (d);
 
@@ -276,7 +276,7 @@ Subsec. (b)(3)(B). Pub. L. 109–171, §7102(a)(2), substituted "and the eligibi
 
 Subsecs. (c)(2)(A)(i), (e)(1), (2). Pub. L. 109–171, §7102(b)(1), inserted "or any other State program funded with qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title)" after "this part".
 
-Subsec. (i). Pub. L. 109–171, §7102(c)(1), amended heading and text generally. Prior to amendment, text read as follows: "During fiscal year 1999, the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate shall holdhearings and engage in other appropriate activities to review the implementation of this section by the States, and shall invite the Governors of the States to testify before them regarding such implementation. Based on such hearings, such Committees may introduce such legislation as may be appropriate to remedy any problems with the State programs operated pursuant to this section."
+Subsec. (i). Pub. L. 109–171, §7102(c)(1), amended heading and text generally. Prior to amendment, text read as follows: "During fiscal year 1999, the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate shall hold hearings and engage in other appropriate activities to review the implementation of this section by the States, and shall invite the Governors of the States to testify before them regarding such implementation. Based on such hearings, such Committees may introduce such legislation as may be appropriate to remedy any problems with the State programs operated pursuant to this section."
 
 <b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 

@@ -24,6 +24,38 @@ A prior section 2271, act Aug. 10, 1956, ch. 1041, 70A Stat. 123, related to com
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Allied Responsive Space Capabilities
+
+Pub. L. 117–263, div. A, title XVI, §1606, Dec. 23, 2022, 136 Stat. 2931, provided that:
+
+"(a)
+
+Initiatives.—The Secretary of the Defense and the Secretary of State shall jointly ensure that responsive space capabilities of the Department of Defense align with initiatives by Five Eyes countries, member states of the North Atlantic Treaty Organization, and other allies to promote a globally responsive space architecture.
+
+"(b)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense and the Secretary of State, in coordination with the Commander of the United States European Command, the Commander of the United States Indo-Pacific Command, and the Commander of the United States Space Command, shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report assessing current investments and partnerships by the United States with allies of the United States with respect to responsive space efforts. The report shall include the following:
+
+&emsp;"(1) An assessment of the benefits of leveraging allied and partner spaceports for responsive launch.
+
+&emsp;"(2) A discussion of current and future plans to engage with allies and partners with respect to activities ensuring rapid reconstitution or augmentation of the space capabilities of the United States and allies.
+
+&emsp;"(3) An assessment of the shared costs and technology between the United States and allies, including if investments from the Pacific Deterrence Initiative and the European Deterrence Initiative could be considered for allied spaceports.
+
+"(c)
+
+Five Eyes Countries Defined.—In this section, the term 'Five Eyes countries' means the following:
+
+&emsp;"(1) Australia.
+
+&emsp;"(2) Canada.
+
+&emsp;"(3) New Zealand.
+
+&emsp;"(4) The United Kingdom.
+
+&emsp;"(5) The United States."
+
 #### Limitation on Use of Commercial Satellite Services and Associated Systems
 
 Pub. L. 117–81, div. A, title XVI, §1607(b), Dec. 27, 2021, 135 Stat. 2079, provided that:
@@ -54,7 +86,7 @@ Classification Review.—The Secretary of Defense shall—
 
 "(b)
 
-Coordination.—The Secretary shall carry out the review under subsection (a)(1) in coordination with the Assistant Secretary of Defense for Space Policy and, as the Secretary determines appropriate, the heads of other elements of the Department of Defense.
+Coordination.—The Secretary shall carry out the review under subsection (a)(1) in coordination withthe Assistant Secretary of Defense for Space Policy and, as the Secretary determines appropriate, the heads of other elements of the Department of Defense.
 
 "(c)
 
@@ -82,7 +114,7 @@ Report.—Not later than January 31, 2021, the Chief of Space Operations, in coo
 
 "(d)
 
-Commercial Space Domain Awareness Services Defined.—In this section, the term 'commercial spacedomain awareness services' means space domain awareness data, processing software, and analytics derived from best-in-breed commercial capabilities to address warfighter requirements in low-Earth orbit and fill gaps in current space domain capabilities of the Space Force, including commercial capabilities to—
+Commercial Space Domain Awareness Services Defined.—In this section, the term 'commercial space domain awareness services' means space domain awareness data, processing software, and analytics derived from best-in-breed commercial capabilities to address warfighter requirements in low-Earth orbit and fill gaps in current space domain capabilities of the Space Force, including commercial capabilities to—
 
 &emsp;"(1) provide conjunction and maneuver alerts;
 
@@ -90,55 +122,55 @@ Commercial Space Domain Awareness Services Defined.—In this section, the term 
 
 &emsp;"(3) detect and track objects smaller than 10 centimeters in size."
 
-#### Tactically Responsive Space Launch Operations
+#### Tactically Responsive Space Capability
 
-Pub. L. 116–283, div. A, title XVI, §1609, Jan. 1, 2021, 134 Stat. 4048, as amended by Pub. L. 117–81, div. A, title XVI, §1605, Dec. 27, 2021, 135 Stat. 2078, provided that:
+Pub. L. 116–283, div. A, title XVI, §1609, Jan. 1, 2021, 134 Stat. 4048, as amended by Pub. L. 117–81, div. A, title XVI, §1605, Dec. 27, 2021, 135 Stat. 2078; Pub. L. 117–263, div. A, title XVI, §1604, Dec. 23, 2022, 136 Stat. 2930, provided that:
 
 "(a)
 
-Program.—The Secretary of the Air Force shall implement a tactically responsive space launch program—
+Program.—The Secretary of the Air Force shall ensure that the Space Force has a tactically responsive space capability that—
 
-&emsp;"(1) to provide long-term continuity for tactically responsive space launch operations across the future-years defense program submitted to Congress under section 221 of title 10, United States Code;
+&emsp;"(1) addresses all lifecycle elements; and
 
-&emsp;"(2) to accelerate the development of—
+&emsp;"(2) addresses rapid deployment and reconstitution requirements—
 
-&emsp;&emsp;"(A) responsive launch concepts of operations;
+&emsp;&emsp;"(A) to provide long-term continuity for tactically responsive space capabilities across the future-years defense program submitted to Congress under section 221 of title 10, United States Code;
 
-&emsp;&emsp;"(B) tactics;
+&emsp;&emsp;"(B) to continue the development of concepts of operations, including with respect to tactics, training, and procedures;
 
-&emsp;&emsp;"(C) training; and
+&emsp;&emsp;"(C) to develop appropriate processes for tactically responsive space launch, including—
 
-&emsp;&emsp;"(D) procedures;
+&emsp;&emsp;&emsp;"(i) mission assurance processes; and
 
-&emsp;"(3) to develop appropriate processes for tactically responsive space launch, including—
+&emsp;&emsp;&emsp;"(ii) command and control, tracking, telemetry, and communications; and
 
-&emsp;&emsp;"(A) mission assurance processes; and
-
-&emsp;&emsp;"(B) command and control, tracking, telemetry, and communications; and
-
-&emsp;"(4) to identify basing capabilities necessary to enable tactically responsive space launch, including mobile launch range infrastructure.
+&emsp;&emsp;"(D) to identify basing requirements necessary to enable tactically responsive space capabilities.
 
 "(b)
+
+Requirements.—The Chief of Space Operations shall establish tactically responsive requirements for all national security space capabilities, if applicable, carried out under title 10, United States Code.
+
+"(c)
 
 Support.—
 
 &emsp;"(1)
 
-Elements.—The Secretary of Defense, in consultation with the Director of National Intelligence, shall support the tactically responsive launch program under subsection (a) during the period covered by the future-years defense program submitted to Congress under section 221 of title 10, United States Code, in 2022 to ensure that the program addresses the following:
+Elements.—The Secretary of Defense, in consultation with the Director of National Intelligence, shall support the tactically responsive space program under subsection (a) during the period covered by the future-years defense program submitted to Congress under section 221 of title 10, United States Code, in 2022 to ensure that the program addresses the following:
 
 &emsp;&emsp;"(A) The ability to rapidly place on-orbit systems to respond to urgent needs of the commanders of the combatant commands or to reconstitute space assets and capabilities to support national security priorities if such assets and capabilities are degraded, attacked, or otherwise impaired, including such assets and capabilities relating to protected communications and intelligence, surveillance, and reconnaissance.
 
-&emsp;&emsp;"(B) The entire launch process, including with respect to launch services, satellite bus and payload availability, and operations and sustainment on-orbit.
+&emsp;&emsp;"(B) The entire end-to-end tactically responsive space capability, including with respect to the launch vehicle, ground infrastructure, bus, payload, operations and on-orbit sustainment.
 
 &emsp;"(2)
 
-Plan.—As a part of the defense budget materials (as defined in section 239 of title 10, United States Code) for fiscal year 2023, the Secretary of Defense, in consultation with the Director of National Intelligence, shall submit to Congress a plan for the tactically responsive launch program to address the elements under paragraph (1). Such plan shall include the following:
+Plan.—As a part of the defense budget materials (as defined in section 239 of title 10, United States Code) for each of fiscal years 2023 through 2026, the Secretary of Defense, in consultation with the Director of National Intelligence, shall submit to Congress a plan for the tactically responsive space program to address the elements under paragraph (1). Such plan shall include the following:
 
-&emsp;&emsp;"(A) Lessons learned from the Space Safari tactically responsive launch-2 mission of the Space Systems Command of the Space Force, and how to incorporate such lessons into future efforts regarding tactically responsive launches.
+&emsp;&emsp;"(A) Lessons learned from the Space Safari tactically responsive launch-2 mission of the Space Systems Command of the Space Force, and how to incorporate such lessons into future efforts regarding tactically responsive capabilities.
 
 &emsp;&emsp;"(B) How to achieve responsive acquisition timelines within the adaptive acquisition framework for space acquisition pursuant to section 807.
 
-&emsp;&emsp;"(C) Plans to address supply chain issues and leverage commercial capabilities to support future reconstitution and urgent space requirements leveraging the tactically responsive launch program under subsection (a)."
+&emsp;&emsp;"(C) Plans to address supply chain issues and leverage commercial capabilities to support future reconstitution and urgent space requirements leveraging the tactically responsive space program under subsection (a)."
 
 #### Space-Based Environmental Monitoring Mission Requirements
 
@@ -348,7 +380,7 @@ Determination.—The Commander may place a contractor on the watch list establis
 
 &emsp;"(2)
 
-Discretion of the commander.—The Commander shall be responsible for determining whichcontractors to place on the watch list, whether an entire company or a specific division should be included, and when to remove a contractor from the list.
+Discretion of the commander.—The Commander shall be responsible for determining which contractors to place on the watch list, whether an entire company or a specific division should be included, and when to remove a contractor from the list.
 
 "(c)
 
@@ -522,7 +554,7 @@ Pub. L. 111–383, div. A, title IX, §911, Jan. 7, 2011, 124 Stat. 4328, as ame
 
 #### Space Protection Strategy
 
-Pub. L. 110–181, div. A, title IX, §911(a)–(f), Jan. 28, 2008, 122 Stat. 279, 280, as amended by Pub. L. 113–66, div. A, title IX, §912(c), Dec. 26, 2013, 127 Stat. 824; Pub. L. 113–291, div. A, title X, §1071(d)(1)(B), title XVI, §1606(e), Dec. 19, 2014, 128 Stat. 3509, 3625; Pub. L. 115–232, div. A, title VIII, §813(b)(1), Aug. 13, 2018, 132 Stat. 1851, provided that:
+Pub. L. 110–181, div. A, title IX, §911(a)–(f), Jan. 28, 2008, 122 Stat. 279, 280, as amended by Pub. L. 113–66,div. A, title IX, §912(c), Dec. 26, 2013, 127 Stat. 824; Pub. L. 113–291, div. A, title X, §1071(d)(1)(B), title XVI, §1606(e), Dec. 19, 2014, 128 Stat. 3509, 3625; Pub. L. 115–232, div. A, title VIII, §813(b)(1), Aug. 13, 2018, 132 Stat. 1851, provided that:
 
 "(a)
 
@@ -556,7 +588,7 @@ Matters Included.—The strategy required by subsection (b) shall include each o
 
 &emsp;"(7) A description of the current processes by which the Department of Defense and the intelligence community program and budget for capabilities (including capabilities that are incorporated into single programs and capabilities that span multiple programs), an assessment of the adequacy of those processes, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in those processes.
 
-&emsp;"(8) A description of the organizational and management structure of the Department of Defense and the intelligence community for addressing policy,planning, acquisition, and operations with respect to capabilities, a description of the roles and responsibilities of each organization, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in that structure.
+&emsp;"(8) A description of the organizational and management structure of the Department of Defense and the intelligence community for addressing policy, planning, acquisition, and operations with respect to capabilities, a description of the roles and responsibilities of each organization, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in that structure.
 
 "(d)
 

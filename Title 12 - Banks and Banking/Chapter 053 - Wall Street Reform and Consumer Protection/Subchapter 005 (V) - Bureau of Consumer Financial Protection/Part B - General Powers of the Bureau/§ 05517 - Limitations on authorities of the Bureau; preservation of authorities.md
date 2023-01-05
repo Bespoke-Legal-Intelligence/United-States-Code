@@ -20,7 +20,7 @@
 
 #### (B) Applicability
 
-&emsp;&emsp;Subparagraph (A) does not apply to any credit transaction or collection of debt, other than as described in subparagraph (C)(i), arising from a transaction described in subparagraph (A)—
+&emsp;&emsp;Subparagraph (A) does not apply to any credit transaction or collection of debt,other than as described in subparagraph (C)(i), arising from a transaction described in subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) in which the merchant, retailer, or seller of nonfinancial goods or services assigns, sells or otherwise conveys to another person such debt owed by the consumer (except for a sale of debt that is delinquent or otherwise in default, as described in subparagraph (A)(iii));
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(B) brings together parties interested in the sale, purchase, lease, rental, or exchange of real property;
 
-&emsp;&emsp;(C) negotiates, on behalf of any party, any portion of a contract relating to the sale, purchase, lease, rental, or exchange of real property (other than in connection with the provision of financing with respect to any such transaction); or
+&emsp;&emsp;(C) negotiates, on behalf of any party, any portion of a contract relating to the sale,purchase, lease, rental, or exchange of real property (other than in connection with the provision of financing with respect to any such transaction); or
 
 &emsp;&emsp;(D) offers to engage in any activity, or act in any capacity, described in subparagraph (A), (B), or (C).
 
@@ -162,7 +162,7 @@
 
 #### (D) Other limitations
 
-&emsp;&emsp;Paragraph (1) does not apply to any person described in paragraph (1)(A) or (1)(B) that is otherwise subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H.
+&emsp;&emsp;Paragraph (1) does not apply to any person described in paragraph (1)(A) or (1)(B) that isotherwise subject to any enumerated consumer law or any law for which authorities are transferred under subtitle F or H.
 
 #### (e) Exclusion for practice of law
 
@@ -180,7 +180,7 @@
 
 #### (3) Existing authority
 
-&emsp;Paragraph (1) shall not be construed so as to limit the authority of the Bureau with respectto any attorney, to the extent that such attorney is otherwise subject to any of the enumerated consumer laws or the authorities transferred under subtitle F or H.
+&emsp;Paragraph (1) shall not be construed so as to limit the authority of the Bureau with respect to any attorney, to the extent that such attorney is otherwise subject to any of the enumerated consumer laws or the authorities transferred under subtitle F or H.
 
 #### (f) Exclusion for persons regulated by a State insurance regulator
 
@@ -230,7 +230,7 @@
 
 #### (iii) Scope of Bureau action
 
-&emsp;&emsp;&emsp;Subject to a request or response pursuant to clause (i) or clause (ii) by the agencies made under this subparagraph, the Bureau may exercise rulemaking authority, and may act to enforce a rule prescribed pursuant to such request or response, in accordance with the provisions of this title.<sup>1</sup> A request or response made by the Secretary and the Secretary of Labor under this subparagraph shall describe the basis for, and scope of, appropriate consumer protection standards to be implemented under this title <sup>1</sup> with respect to the provision of services relating to any specified plan or arrangement.
+&emsp;&emsp;&emsp;Subject to a request or response pursuant to clause (i) or clause (ii) by the agencies made under this subparagraph, the Bureau may exercise rulemaking authority, and may act to enforce a rule prescribed pursuant to such request or response, in accordance with the provisionsof this title.<sup>1</sup> A request or response made by the Secretary and the Secretary of Labor under this subparagraph shall describe the basis for, and scope of, appropriate consumer protection standards to be implemented under this title <sup>1</sup> with respect to the provision of services relating to any specified plan or arrangement.
 
 #### (C) Description of products or services
 
@@ -244,7 +244,7 @@
 
 #### (1) In general
 
-&emsp;No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of any securities commission (or any agency or office performing like functions) of anyState to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State. Except as permitted in paragraph (2) and subsection (f), the Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State, but only to the extent that the person acts in such regulated capacity.
+&emsp;No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of any securities commission (or any agency or office performing like functions) of any State to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State. Except as permitted in paragraph (2) and subsection (f), the Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State, but only to the extent that the person acts in such regulated capacity.
 
 #### (2) Description of activities
 

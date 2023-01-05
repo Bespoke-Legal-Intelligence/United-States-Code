@@ -120,11 +120,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) select individuals from the list prepared by the interagency group under paragraph (2)(B)(ii) to be included in a proposed amendment to such final candidate list; and
 
-&emsp;&emsp;&emsp;&emsp;(III) by no later than July 1 of such calendar year, submit to the appropriate Congressional Committees the proposed amendments to such final candidate list developed by the Trade Representative under subclause (II), along with the information described in paragraph (3)(B)(ii).
+&emsp;&emsp;&emsp;&emsp;(III) by no later than July 1 of such calendar year, submit to the appropriate Congressional Committees the proposedamendments to such final candidate list developed by the Trade Representative under subclause (II), along with the information described in paragraph (3)(B)(ii).
 
 #### (ii) Consultation with Congressional Committees
 
-&emsp;&emsp;&emsp;Upon submission of a proposed amendment under clause (i)(III) to the appropriate Congressional Committees, theTrade Representative shall consult with the appropriate Congressional Committees with regard to the individuals included in the proposed amendment.
+&emsp;&emsp;&emsp;Upon submission of a proposed amendment under clause (i)(III) to the appropriate Congressional Committees, the Trade Representative shall consult with the appropriate Congressional Committees with regard to the individuals included in the proposed amendment.
 
 #### (iii) Adjustment of proposed amendment
 
@@ -222,7 +222,7 @@ At such time as the final candidate lists are submitted under subsection (c)(4)(
 
 Section 105, referred to in subsec. (c)(2)(B)(3), is section 105 of Pub. L. 103–182, title I, Dec. 8, 1993, 107 Stat. 2064, which was classified to section 3315 of this title prior to repeal by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date on which the USMCA entered into force (July 1, 2020), and which related to the United States Section of NAFTA Secretariat. See section 4515(a) of this title.
 
-The Tariff Act of 1930, referred to in subsec. (g), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
+The Tariff Act of 1930, referred to in subsec. (g), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see section 1654 of this title and Tables.
 
 #### Codification
 

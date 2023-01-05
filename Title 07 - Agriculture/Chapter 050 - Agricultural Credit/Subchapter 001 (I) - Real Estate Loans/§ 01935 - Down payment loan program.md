@@ -126,7 +126,7 @@ Subsec. (b)(2). Pub. L. 113–79, §5005(b), struck out second par. (2) which re
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §5004(1), substituted "or ranchers and socially disadvantaged farmers or ranchers" for "and ranchers".
 
-Subsec. (b)(1), (2). Pub. L. 110–246, §5004(2)(A), added par. (1) and par. (2) consisting of subpars. (A) and (B) and struck out former par. (1). Prior to amendment,text of par. (1) read as follows: "Each loan made under this section shall be in an amount equal to 40 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount."
+Subsec. (b)(1), (2). Pub. L. 110–246, §5004(2)(A), added par. (1) and par. (2) consisting of subpars. (A) and (B) and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "Each loan made under this section shall be in an amount equal to 40 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount."
 
 Subsec. (b)(3). Pub. L. 110–246, §5004(2)(B), substituted "20" for "15".
 

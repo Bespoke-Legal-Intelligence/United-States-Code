@@ -6,7 +6,7 @@ The Secretary shall administer the Preserve in accordance with sections 698u to 
 
 #### (b) Application of regulations
 
-With the consent of a private owner of land within the boundaries of the Preserve, the regulations issued by the Secretary concerning the National Park Service that provide for the proper use, management, and protection of persons, property, and natural and cultural resources shall apply to the private land.
+With the consent of a private owner of land within the boundaries of the Preserve, the regulations issued by the Secretary concerning theNational Park Service that provide for the proper use, management, and protection of persons, property, and natural and cultural resources shall apply to the private land.
 
 #### (c) Facilities
 
@@ -72,7 +72,7 @@ The Preserve shall be a unit of the National Park System for all purposes, inclu
 
 &emsp;&emsp;(G) Provisions requiring the Secretary to honor each valid existing oil and gas lease for lands within the boundaries of the Preserve (as described in section 698u–2(b) of this title) that is in effect on November 12, 1996.
 
-&emsp;&emsp;(H) Provisions requiring the Secretary to offer to enter into an agreement with each individual who, as of November 12, 1996, holds rights for cattle grazing within the boundaries of the Preserve (as described in section 698u–2(b) of this title).
+&emsp;&emsp;(H) Provisions requiring the Secretary to offer to enter into an agreement with eachindividual who, as of November 12, 1996, holds rights for cattle grazing within the boundaries of the Preserve (as described in section 698u–2(b) of this title).
 
 #### (4) Hunting and fishing
 

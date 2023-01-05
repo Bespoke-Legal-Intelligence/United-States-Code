@@ -44,7 +44,7 @@ Subsec. (a)(2). Pub. L. 101–508, §11317(a)(2), substituted "10-year period" f
 
 #### Effective Date of 1998 Amendment
 
-Amendments by Pub. L. 105–206 applicable to requests to extend period of limitations made after Dec. 31, 1999, with special provisions relating to requests made on or before such date, see section 3461(c) of Pub. L. 105–206, set out as a note under section 6501 of this title.
+Amendments by Pub. L. 105–206 applicable to requests to extend period of limitations made after Dec. 31, 1999,with special provisions relating to requests made on or before such date, see section 3461(c) of Pub. L. 105–206, set out as a note under section 6501 of this title.
 
 #### Effective Date of 1990 Amendment
 

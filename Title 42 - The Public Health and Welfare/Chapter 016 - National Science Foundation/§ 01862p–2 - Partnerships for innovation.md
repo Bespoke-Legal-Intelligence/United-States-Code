@@ -30,7 +30,7 @@ Proposals funded under this section shall seek—
 
 &emsp;(1) to increase the impact of the most promising research at the institution or institutions of higher education that are members of the partnership through knowledge transfer or commercialization;
 
-&emsp;(2) to increase the engagement of faculty and students across multiple disciplines and departments, including faculty and students in schools of business and other appropriatenon-STEM fields and disciplines in knowledge transfer activities;
+&emsp;(2) to increase the engagement of faculty and students across multiple disciplines and departments, including faculty and students in schools of business and other appropriate non-STEM fields and disciplines in knowledge transfer activities;
 
 &emsp;(3) to enhance education and mentoring of students and faculty in innovation and entrepreneurship through networks, courses, and development of best practices and curricula;
 

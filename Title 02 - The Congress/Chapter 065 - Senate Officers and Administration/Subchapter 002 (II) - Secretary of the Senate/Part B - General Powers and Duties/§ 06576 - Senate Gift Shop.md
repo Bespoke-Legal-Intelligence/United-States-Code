@@ -18,7 +18,7 @@ Office of the Secretary", for amounts used from such account to pay the salaries
 
 (2) The Secretary of the Senate may transfer from the fund to the Capitol Preservation Fund the net profits (as determined by the Secretary) from sales of items by the Senate Gift Shop which are intended to benefit the Capitol Visitor Center.
 
-(3) The Secretary of the Senate may transfer from the fund to the Senate Employee Child Care Center proceeds from the sale of holidayornaments by the Senate Gift Shop for the purpose of funding necessary activities and expenses of the Center, including scholarships, educational supplies, and equipment.
+(3) The Secretary of the Senate may transfer from the fund to the Senate Employee Child Care Center proceeds from the sale of holiday ornaments by the Senate Gift Shop for the purpose of funding necessary activities and expenses of the Center, including scholarships, educational supplies, and equipment.
 
 #### (d) Exception to prohibition of sale or solicitation on Capitol Grounds
 
@@ -30,7 +30,7 @@ To provide capital for the fund, the Secretary of the Senate is authorized to tr
 
 #### (f) Authorization to expend from appropriations account for initial expenses
 
-For the purpose of acquiring supplies, equipment, and meeting other initial expenses in implementing subsection (a), the Secretary of the Senate is authorized, upon October 6, 1992, to expend, from moneys appropriated to the appropriations account, within the contingent fund of the Senate, for expenses of the Secretary of the Senate, by the Legislative Branch Appropriations Act, 1991, such amounts as may be necessary to carry out this section.
+For the purpose of acquiring supplies, equipment, and meeting other initial expenses in implementing subsection (a), the Secretary of theSenate is authorized, upon October 6, 1992, to expend, from moneys appropriated to the appropriations account, within the contingent fund of the Senate, for expenses of the Secretary of the Senate, by the Legislative Branch Appropriations Act, 1991, such amounts as may be necessary to carry out this section.
 
 #### (g) Disbursement on approved voucher
 

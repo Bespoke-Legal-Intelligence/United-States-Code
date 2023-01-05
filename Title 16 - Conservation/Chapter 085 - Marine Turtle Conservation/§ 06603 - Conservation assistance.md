@@ -34,7 +34,7 @@ Subject to the availability of funds and in consultation with other Federal offi
 
 &emsp;&emsp;(E) an estimate of the funds and time required to complete the project;
 
-&emsp;&emsp;(F) evidence of support for the project by appropriate governmental entities of thecountries in which the project will be conducted, if the Secretary determines that such support is required for the success of the project;
+&emsp;&emsp;(F) evidence of support for the project by appropriate governmental entities of the countries in which the project will be conducted, if the Secretary determines that such support is required for the success of the project;
 
 &emsp;&emsp;(G) information regarding the source and amount of matching funding available for the project; and
 

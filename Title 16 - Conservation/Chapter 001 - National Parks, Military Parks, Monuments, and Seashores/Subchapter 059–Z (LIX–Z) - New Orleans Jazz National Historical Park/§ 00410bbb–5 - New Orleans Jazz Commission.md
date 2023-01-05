@@ -54,7 +54,7 @@ The Commission shall—
 
 #### (d) Appointment
 
-Members of the Commission shall be appointed for staggered terms of 3 years, as designated bythe Secretary at the time of the initial appointment.
+Members of the Commission shall be appointed for staggered terms of 3 years, as designated by the Secretary at the time of the initial appointment.
 
 #### (e) Chairman
 

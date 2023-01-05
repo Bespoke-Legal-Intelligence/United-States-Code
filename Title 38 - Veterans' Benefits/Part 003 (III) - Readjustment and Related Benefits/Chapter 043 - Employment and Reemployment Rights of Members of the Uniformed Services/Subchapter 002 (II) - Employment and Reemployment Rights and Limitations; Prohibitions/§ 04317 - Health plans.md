@@ -8,7 +8,7 @@
 
 (2) A person who elects to continue health-plan coverage under this paragraph may be required to pay not more than 102 percent of the full premium under the plan (determined in the same manner as the applicable premium under section 4980B(f)(4) of the Internal Revenue Code of 1986) associated with such coverage for the employer's other employees, except that in the case of a person who performs service in the uniformed services for less than 31 days, such person may not be required to pay more than the employee share, if any, for such coverage.
 
-(3) In the case of a health plan that is a multiemployer plan, as defined in section 3(37) of the Employee Retirement Income Security Act of 1974, any liability under the plan for employer contributions and benefits arising under this paragraph shall be allocated—
+(3) In the case of a health plan that is a multiemployer plan, as defined in section 3(37) of the Employee Retirement Income Security Act of 1974, any liability under the plan for employercontributions and benefits arising under this paragraph shall be allocated—
 
 &emsp;(A) by the plan in such manner as the plan sponsor shall provide; or
 

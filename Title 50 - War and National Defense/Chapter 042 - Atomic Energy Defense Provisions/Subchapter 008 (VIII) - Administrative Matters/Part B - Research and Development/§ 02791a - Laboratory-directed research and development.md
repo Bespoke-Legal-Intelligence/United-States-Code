@@ -8,7 +8,7 @@ Of the funds made available by the Department of Energy for activities at govern
 
 #### References in Text
 
-This Act, referred to in text, is div. C of Pub. L. 111–8, Mar. 11, 2009, 123 Stat. 601, known as the Energy and Water Development and Related Agencies Appropriations Act, 2009. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is div. C of Pub. L. 111–8, Mar. 11, 2009, 123 Stat. 601, known as the Energy andWater Development and Related Agencies Appropriations Act, 2009. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

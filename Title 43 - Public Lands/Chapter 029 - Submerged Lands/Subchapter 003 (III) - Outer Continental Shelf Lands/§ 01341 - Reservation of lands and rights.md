@@ -18,7 +18,7 @@ The United States reserves and retains the right to designate by and through the
 
 #### (e) Source materials essential to production of fissionable materials
 
-All uranium, thorium, and all other materials determined pursuant to paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, to be peculiarly essential tothe production of fissionable material, contained, in whatever concentration, in deposits in the subsoil or seabed of the outer Continental Shelf are reserved for the use of the United States.
+All uranium, thorium, and all other materials determined pursuant to paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, to be peculiarly essential to the production of fissionable material, contained, in whatever concentration, in deposits in the subsoil or seabed of the outer Continental Shelf are reserved for the use of the United States.
 
 #### (f) Helium ownership; rules and regulations governing extraction
 

@@ -22,7 +22,7 @@ An action described in subsection (a) may be taken if—
 
 #### (c) Report
 
-The report referred to in this subsection is a report containing a full and complete statement of the action proposed to be taken and the factsand circumstances relied upon in support of the proposed action.
+The report referred to in this subsection is a report containing a full and complete statement of the action proposed to be taken and the facts and circumstances relied upon in support of the proposed action.
 
 #### (d) Computation of days
 

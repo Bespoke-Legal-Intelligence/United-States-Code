@@ -14,7 +14,7 @@ In general.—The Secretary shall select not fewer than 8 and not more than 14 i
 
 &emsp;(2)
 
-Governmental experts.—The number of members of the Council who are employees of the Federal Government may not exceed the number of members of the Council who are not employees of the Federal Government.
+Governmental experts.—The number of members of the Council who are employees ofthe Federal Government may not exceed the number of members of the Council who are not employees of the Federal Government.
 
 &emsp;(3)
 

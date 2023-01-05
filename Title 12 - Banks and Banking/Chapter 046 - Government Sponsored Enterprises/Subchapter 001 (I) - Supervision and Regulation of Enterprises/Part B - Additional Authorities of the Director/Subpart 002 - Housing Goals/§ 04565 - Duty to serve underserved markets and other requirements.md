@@ -68,7 +68,7 @@ The Director may submit recommendations to the Committee on Financial Services o
 
 &emsp;In determining whether an enterprise has complied with the duty referred to in paragraph (1), the Director shall separately evaluate whether the enterprise has complied with such duty with respect to each of the underserved markets identified in subsection (a), taking into consideration\_\_<sup>2</sup>
 
-&emsp;&emsp;(A) the development of loan products, more flexible underwriting guidelines, andother innovative approaches to providing financing to each of such underserved markets;
+&emsp;&emsp;(A) the development of loan products, more flexible underwriting guidelines, and other innovative approaches to providing financing to each of such underserved markets;
 
 &emsp;&emsp;(B) the extent of outreach to qualified loan sellers and other market participants in each of such underserved markets;
 

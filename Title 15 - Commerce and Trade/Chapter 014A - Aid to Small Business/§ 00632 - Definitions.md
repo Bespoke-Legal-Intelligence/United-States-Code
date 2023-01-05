@@ -66,7 +66,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrator shall establish an alternative size standard for applicants for business loans under section 636(a) of this title and applicants for development company loans under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.), that uses maximum tangible net worth and average net income as an alternative to the use of industry standards.
+&emsp;&emsp;The Administrator shall establish an alternative size standard for applicants for business loans under section 636(a) of this title and applicants for development company loans under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 etseq.), that uses maximum tangible net worth and average net income as an alternative to the use of industry standards.
 
 #### (B) Interim rule
 
@@ -90,7 +90,7 @@
 
 #### (7) Common size standards
 
-&emsp;In carrying out this subsection, the Administrator may establish or approve a single sizestandard for a grouping of 4-digit North American Industry Classification System codes only if the Administrator makes publicly available, not later than the date on which such size standard is established or approved, a justification demonstrating that such size standard is appropriate for each individual industry classification included in the grouping.
+&emsp;In carrying out this subsection, the Administrator may establish or approve a single size standard for a grouping of 4-digit North American Industry Classification System codes only if the Administrator makes publicly available, not later than the date on which such size standard is established or approved, a justification demonstrating that such size standard is appropriate for each individual industry classification included in the grouping.
 
 #### (8) Number of size standards
 
@@ -152,7 +152,7 @@ For purposes of this chapter, any reference to an agency or department of the Un
 
 &emsp;&emsp;(i) which is an employee benefit plan which is designed to invest primarily in qualifying employer securities (as defined in section 4975(e)(8) of title 26),
 
-&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as tothe manner in which voting rights under qualifying employer securities which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of the outstanding common shares voted,
+&emsp;&emsp;(ii) which provides that each participant in the plan is entitled to direct the plan as to the manner in which voting rights under qualifying employer securities which are allocated to the account of such participant are to be exercised with respect to a corporate matter which (by law or charter) must be decided by a majority vote of the outstanding common shares voted,
 
 &emsp;&emsp;(iii) which provides that each participant who is entitled to distribution from the plan has a right, in the case of qualifying employer securities which are not readily tradeable on an established market, to require that the concern repurchase such securities under a fair valuation formula, and
 
@@ -194,7 +194,7 @@ For purposes of section 636 of this title, the term "energy measures" includes�
 
 &emsp;(4) equipment the primary purpose of which is production of energy from wood, biological waste, grain, or other biomass source of energy;
 
-&emsp;(5) equipment the primary purpose of which is industrial cogeneration of energy, district heating, or production of energy from industrial waste;
+&emsp;(5) equipment the primary purpose of which is industrial cogeneration of energy, districtheating, or production of energy from industrial waste;
 
 &emsp;(6) hydroelectric power equipment;
 
@@ -222,7 +222,7 @@ The term "credit elsewhere" means—
 
 #### (i) "Homeowners" defined
 
-For purposes of section 636 of this title, the term "homeowners" includes owners and lesseesof residential property and also includes personal property.
+For purposes of section 636 of this title, the term "homeowners" includes owners and lessees of residential property and also includes personal property.
 
 #### (j) "Small agricultural cooperative" defined
 
@@ -230,7 +230,7 @@ For the purposes of this chapter, the term "small agricultural cooperative" mean
 
 #### (k) "Disaster" defined
 
-(1) For the purposes of this chapter, the term "disaster" means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under section 4107(b) of title 16), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
+(1) For the purposes of this chapter, the term "disaster" means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under the Fishery Resource Disasters Improvement Act), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
 
 (2) For purposes of section 636(b)(2) of this title, the term "disaster" includes—
 
@@ -278,7 +278,7 @@ In this chapter:
 
 For the purposes of this chapter, a small business concern is a small business concern owned and controlled by women if—
 
-&emsp;(1) at least 51 percent of small business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
+&emsp;(1) at least 51 percent of small <sup>3</sup> business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
 
 &emsp;(2) the management and daily business operations of the business are controlled by one or more women.
 
@@ -340,7 +340,7 @@ In this chapter, the following definitions apply:
 
 &emsp;&emsp;&emsp;(II) such veteran had a service-connected disability (as defined in section 101(16) of title 38); and
 
-&emsp;&emsp;&emsp;(III) immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in section 8127(f) of title 38.
+&emsp;&emsp;&emsp;(III) immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in section 657f of this title.
 
 &emsp;&emsp;(ii) The time period described in this clause is the time period beginning on the date of the veteran's death and ending on the earlier of—
 
@@ -402,7 +402,7 @@ As used in section 650 of this title:
 
 #### (1) Small business lending company
 
-&emsp;The term "small business lending company" means a business concern that is authorizedby the Administrator to make loans pursuant to section 636(a) of this title and whose lending activities are not subject to regulation by any Federal or State regulatory agency.
+&emsp;The term "small business lending company" means a business concern that is authorized by the Administrator to make loans pursuant to section 636(a) of this title and whose lending activities are not subject to regulation by any Federal or State regulatory agency.
 
 #### (2) Non-Federally regulated lender
 
@@ -530,11 +530,7 @@ In this chapter, the term "covered territory business" means a small business co
 
 &emsp;(4) The Northern Mariana Islands.
 
-(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L. 104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173; Pub. L. 111–240, title I, §§1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, 124 Stat. 2509, 2521, 2536, 2543–2545, 2550; Pub. L. 112–81, div. E, title LI, §5107(b), Dec. 31, 2011, 125 Stat. 1829; Pub. L. 112–239, div. A, title XVI, §§1661, 1696(b)(1), Jan. 2, 2013, 126 Stat. 2083, 2090; Pub. L. 113–66, div. A, title XVI, §1614(b), Dec. 26, 2013, 127 Stat. 949; Pub. L. 114–92, div. A, title VIII, §§866(a), 869(b), Nov. 25, 2015, 129 Stat. 929, 938; Pub. L. 114–187, title IV, §412(a)(1), June 30, 2016, 130 Stat. 595; Pub. L. 114–328, div. A, title XVIII, §§1831(b), 1832(a), 1833(b), Dec. 23, 2016, 130 Stat. 2658, 2661; Pub. L. 115–91, div. A, title XVII, §§1701(a)(2), (3), 1702(b), Dec. 12, 2017, 131 Stat. 1795, 1796, 1803; Pub. L. 115–189, §§3(e), 4(a)(1), June 21, 2018, 132 Stat. 1496; Pub. L. 115–232, div. A, title VIII, §§861(a), 862(h), Aug. 13, 2018, 132 Stat. 1896, 1900; Pub. L. 115–324, §2, Dec. 17, 2018, 132 Stat. 4444; Pub. L. 116–92, div. A, title VIII, §876, Dec. 20, 2019, 133 Stat. 1528; Pub. L. 116–283, div. A, title VIII, §§862(b)(3)(A), 863(a), 866(a)(1), Jan. 1, 2021, 134 Stat. 3779, 3784, 3785.)
-
-#### Amendment of Subsection (q)(2)
-
-<i>Pub. L. 116–283, div. A, title VIII, §862(b)(3), Jan. 1, 2021, 134 Stat. 3778, provided that, effective on the transfer date (2 years after Jan. 1, 2021), subsection (q)(2)(C)(i)(III) of this section is amended by striking "section 8127(f) of title 38" and inserting "section 657f of this title".</i><i>See 2021 Amendment note and Effective Date of 2021 Amendment note below.</i>
+(Pub. L. 85–536, §2\[3\], July 18, 1958, 72 Stat. 384; Pub. L. 94–305, title I, §112(b), June 4, 1976, 90 Stat. 667; Pub. L. 95–507, title II, §224(b), Oct. 24, 1978, 92 Stat. 1772; Pub. L. 96–302, title V, §504, July 2, 1980, 94 Stat. 851; Pub. L. 96–481, title I, §108, Oct. 21, 1980, 94 Stat. 2323; Pub. L. 97–35, title XIX, §1903, Aug. 13, 1981, 95 Stat. 771; Pub. L. 98–270, title III, §310, Apr. 18, 1984, 98 Stat. 161; Pub. L. 98–362, §6, July 16, 1984, 98 Stat. 434; Pub. L. 98–473, title I, §111A(b), Oct. 12, 1984, 98 Stat. 1966; Pub. L. 99–272, title XVIII, §18016, Apr. 7, 1986, 100 Stat. 371; Pub. L. 99–500, §101(c) \[title X, §921(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–149, and Pub. L. 99–591, §101(c) \[title X, §921(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–149; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–661, div. A, title IX, formerly title IV, §921(f), Nov. 14, 1986, 100 Stat. 3929, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–26, §10(b)(2), Apr. 21, 1987, 101 Stat. 288; Pub. L. 100–456, div. A, title VIII, §845, Sept. 29, 1988, 102 Stat. 2027; Pub. L. 100–590, title I, §119(b), Nov. 3, 1988, 102 Stat. 2999; Pub. L. 100–656, title VII, §732, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 101–510, div. A, title VIII, §806(e)(1), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 102–366, title II, §222(a), Sept. 4, 1992, 106 Stat. 999; Pub. L. 103–355, title IV, §4404(a), title VII, §7106(d), Oct. 13, 1994, 108 Stat. 3349, 3376; Pub. L. 103–403, title III, §301, Oct. 22, 1994, 108 Stat. 4187; Pub. L.104–208, div. D, title I, §104(b)(1), Sept. 30, 1996, 110 Stat. 3009–730; Pub. L. 105–135, title IV, §412, title VI, §602(a), Dec. 2, 1997, 111 Stat. 2617, 2627; Pub. L. 106–50, title I, §103(a), title IV, §401(a), Aug. 17, 1999, 113 Stat. 234, 243; Pub. L. 106–554, §1(a)(9) \[title VI, §§602–604, 611, 612(b)–615(a), title VIII, §806(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701, 2763A–706; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–447, div. K, title I, §§151, 152(a)(1), (3)–(c)(1), 162, Dec. 8, 2004, 118 Stat. 3456, 3457, 3465; Pub. L. 109–59, title X, §10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 109–163, div. A, title VIII, §§844, 845(a)(1), Jan. 6, 2006, 119 Stat. 3389, 3390; Pub. L. 110–186, title II, §205, Feb. 14, 2008, 122 Stat. 629; Pub. L. 110–234, title XII, §§12063(c)(1), 12071, May 22, 2008, 122 Stat. 1408, 1411; Pub. L. 110–246, §4(a), title XII, §§12063(c)(1), 12071, June 18, 2008, 122 Stat. 1664, 2170, 2173; Pub. L. 111–240, title I, §§1116, 1202(b)(1), 1311, 1341, 1342, 1343(b), 1501, Sept. 27, 2010, 124 Stat. 2509, 2521, 2536, 2543–2545, 2550; Pub. L. 112–81, div. E, title LI, §5107(b), Dec. 31, 2011, 125 Stat. 1829; Pub. L. 112–239, div. A, title XVI, §§1661, 1696(b)(1), Jan. 2, 2013, 126 Stat. 2083, 2090; Pub. L. 113–66, div. A, title XVI, §1614(b), Dec. 26, 2013, 127 Stat. 949; Pub. L. 114–92, div. A, title VIII, §§866(a), 869(b), Nov. 25, 2015, 129 Stat. 929, 938; Pub. L. 114–187, title IV, §412(a)(1), June 30, 2016, 130 Stat. 595; Pub. L. 114–328, div. A, title XVIII, §§1831(b), 1832(a), 1833(b), Dec. 23, 2016, 130 Stat. 2658, 2661; Pub. L. 115–91, div. A, title XVII, §§1701(a)(2), (3), 1702(b), Dec. 12, 2017, 131 Stat. 1795, 1796, 1803; Pub. L. 115–189, §§3(e), 4(a)(1), June 21, 2018, 132 Stat. 1496; Pub. L. 115–232, div. A, title VIII, §§861(a), 862(h), Aug. 13, 2018, 132 Stat. 1896, 1900; Pub. L. 115–324, §2, Dec. 17, 2018, 132 Stat. 4444; Pub. L. 116–92, div. A, title VIII, §876, Dec. 20, 2019, 133 Stat. 1528; Pub. L. 116–283, div. A, title VIII, §§862(b)(3)(A), 863(a), 866(a)(1), Jan. 1, 2021, 134 Stat. 3779, 3784, 3785; Pub. L. 117–328, div. S, title II, §204(b), Dec. 29, 2022, 136 Stat. 5270.)
 
 #### <b>Editorial Notes</b>
 
@@ -543,6 +539,8 @@ In this chapter, the term "covered territory business" means a small business co
 The Small Business Investment Act of 1958, referred to in subsec. (a)(5), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689. Title V of the Act is classified generally to subchapter V (§695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
 The Agricultural Marketing Act (12 U.S.C. 1141j), referred to in subsec. (j), is act June 15, 1929, ch. 24, 46 Stat. 11, which is classified generally to chapter 7A (§1141 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1141j(e) of Title 12 and Tables.
+
+The Fishery Resource Disasters Improvement Act, referred to in subsec. (k)(1), is title II of Pub. L. 117–328, div. S, Dec. 29, 2022, 136 Stat. 5261. For complete classification of this Act to the Code, see Short Title of 2022 Amendment note set out under section 1801 of Title 16, Conservation, and Tables.
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (q)(5)(C), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
@@ -561,6 +559,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, which was previously classified to this section. See Codification note set out under section 631 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (k)(1). Pub. L. 117–328 substituted "(as determined by the Secretary of Commerce under the Fishery Resource Disasters Improvement Act)" for "(as determined by the Secretary of Commerce under section 4107(b) of title 16)".
 
 <b>2021</b>—Subsec. (a)(2)(A). Pub. L. 116–283, §863(a)(1), inserted "and subject to the requirements specified under subparagraph (C)" after "paragraph (1)".
 
@@ -728,7 +728,7 @@ Subsec. (p)(5)(A)(i)(I). Pub. L. 106–554, §1(a)(9) \[title VI, §603(a)\], ad
 
 Subsec. (p)(5)(A)(i)(I)(aa). Pub. L. 106–554, §1(a)(9) \[title VI, §614(2)\], substituted "subparagraph (A), (B), or (D)" for "subparagraph (A) or (B)".
 
-Subsec. (p)(5)(A)(i)(II). Pub. L. 106–554, §1(a)(9) \[title VI, §603(a)\], added subcl. (II) and struck out formersubcl. (II) which read as follows: "not less than 35 percent of the employees of the small business concern reside in a HUBZone, and the small business concern will attempt to maintain this employment percentage during the performance of any contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title; and".
+Subsec. (p)(5)(A)(i)(II). Pub. L. 106–554, §1(a)(9) \[title VI, §603(a)\], added subcl. (II) and struck out former subcl. (II) which read as follows: "not less than 35 percent of the employees of the small business concern reside in a HUBZone, and the small business concern will attempt to maintain this employment percentage during the performance of any contract awarded to the small business concern on the basis of a preference provided under section 657a(b) of this title; and".
 
 Subsec. (p)(5)(A)(i)(III)(cc). Pub. L. 106–554, §1(a)(9) \[title VI, §612(b)(1)\], added item (cc).
 
@@ -776,7 +776,7 @@ Pub. L. 100–456 inserted provisions in par. (4)(C) respecting applicability of
 
 Subsecs. (j) to (l). Pub. L. 100–590 added subsec. (k) and redesignated subsec. (j), defining "computer crime", as (l).
 
-<b>1987</b>—Subsec. (a)(3). Pub. L. 100–26, §10(b)(2)(A), substituted "dollar value of the contracts to be awarded in that industry category" for "value of contracts to be awarded under such sections".
+<b>1987</b>—Subsec. (a)(3). Pub. L. 100–26, §10(b)(2)(A), substituted "dollar value of the contracts to be awarded inthat industry category" for "value of contracts to be awarded under such sections".
 
 Subsec. (a)(4)(A)(i). Pub. L. 100–26, §10(b)(2)(B), substituted "paragraph (3)" for "paragraph (3)(A)".
 
@@ -858,7 +858,7 @@ Effective Dates.—Except as otherwise provided in subsection (h), the amendment
 
 "(h)
 
-Initial Review of Size Standards.—(1) Paragraph (2) of section 3(a) of the Small Business Act (as added by subsection (f)) \[15 U.S.C. 632(a)(2)\] shall take effect on the date of the enactment of this Act \[Oct. 18, 1986\].
+Initial Review of Size Standards.—(1) Paragraph (2) of section 3(a) of the Small Business Act (asadded by subsection (f)) \[15 U.S.C. 632(a)(2)\] shall take effect on the date of the enactment of this Act \[Oct. 18, 1986\].
 
 "(2) The first review conducted by the Administrator under such paragraph shall review the periods beginning on October 1, 1983, and ending on September 30, 1986, and shall be completed not later than 180 days after the date of the enactment of this Act.
 
@@ -870,7 +870,7 @@ Pub. L. 98–270, title III, §312, Apr. 18, 1984, 98 Stat. 161, provided that: 
 
 Pub. L. 98–270, title III, §313, Apr. 18, 1984, 98 Stat. 162, provided that: "This title \[amending this section and sections 633, 636, and 647 of this title, enacting provisions set out as notes under sections 632 and 636 of this title, and amending provisions set out as a note under section 631 of this title\] shall take effect October 1, 1983."
 
-Amendment by Pub. L. 98–362 effective Oct. 1, 1984, see section 7(a) of Pub. L. 98–362, set out as an Effectiveand Termination Dates of 1984 Amendments note under section 633 of this title.
+Amendment by Pub. L. 98–362 effective Oct. 1, 1984, see section 7(a) of Pub. L. 98–362, set out as an Effective and Termination Dates of 1984 Amendments note under section 633 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -954,7 +954,7 @@ In general.—Any covered amounts may not be used to carry out section 1111, 111
 
 Definition.—In this subsection, the term 'covered amounts' means—
 
-&emsp;&emsp;"(A) the amounts made available to the Secretary of the Treasury under title I of the Emergency Economic Stabilization Act of 2008 S.C. \[sic\] 5201 etseq.) \[12 U.S.C. 5211 et seq.\] to purchase (under section 101 \[12 U.S.C. 5211\]) or guarantee (under section 102 \[12 U.S.C. 5212\]) assets under that Act \[12 U.S.C. 5201 et seq.\]; and
+&emsp;&emsp;"(A) the amounts made available to the Secretary of the Treasury under title I of the Emergency Economic Stabilization Act of 2008 S.C. \[sic\] 5201 et seq.) \[12 U.S.C. 5211 et seq.\] to purchase (under section 101 \[12 U.S.C. 5211\]) or guarantee (under section 102 \[12 U.S.C. 5212\]) assets under that Act \[12 U.S.C. 5201 et seq.\]; and
 
 &emsp;&emsp;"(B) any revenue increase attributable to any amendment to the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\] made during the period beginning on the date of enactment of this Act \[Sept. 27, 2010\] and ending on December 31, 2010."
 
@@ -1039,4 +1039,6 @@ Pub. L. 111–240, title I, §1001, Sept. 27, 2010, 124 Stat. 2507, provided tha
 <i><sup>1</sup></i><i> So in original. Probably should be a reference to subsec. "(e)" of section 5304, which defines Indian tribe.</i>
 
 <i><sup>2</sup></i><i> So in original. No par. (2) has been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

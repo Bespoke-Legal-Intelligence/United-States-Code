@@ -6,7 +6,7 @@
 
 #### Prior Provisions
 
-A prior section 3843, added Pub. L. 85–861, §1(94), Sept. 2, 1958, 72 Stat. 1483; amended Pub. L. 86–559, §1(23), June 30, 1960, 74 Stat. 271; Pub. L. 99–145, title XIII,§1303(a)(20)(A), Nov. 8, 1985, 99 Stat. 739, related to transfer or discharge of reserve commissioned officers below grade of major general, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996. See sections 14509 and 14510 of this title.
+A prior section 3843, added Pub. L. 85–861, §1(94), Sept. 2, 1958, 72 Stat. 1483; amended Pub. L. 86–559, §1(23), June 30, 1960, 74 Stat. 271; Pub. L. 99–145, title XIII, §1303(a)(20)(A), Nov. 8, 1985, 99 Stat. 739, related to transfer or discharge of reserve commissioned officers below grade of major general, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1629(a)(3), 1691(b)(1), Oct. 5, 1994, 108 Stat. 2963, 3026, effective Oct. 1, 1996. See sections 14509 and 14510 of this title.
 
 #### Amendments
 

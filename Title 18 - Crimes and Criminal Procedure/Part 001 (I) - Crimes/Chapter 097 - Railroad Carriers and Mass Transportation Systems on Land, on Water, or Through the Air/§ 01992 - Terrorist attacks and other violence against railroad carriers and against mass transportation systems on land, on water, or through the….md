@@ -20,7 +20,7 @@ General Prohibitions.—Whoever, in a circumstance described in subsection (c), 
 
 &emsp;(6) with intent to endanger the safety of any person, or with a reckless disregard for the safety of human life, interferes with, disables, or incapacitates any dispatcher, driver, captain, locomotive engineer, railroad conductor, or other person while the person is employed in dispatching, operating, controlling, or maintaining railroad on-track equipment or a mass transportation vehicle;
 
-&emsp;(7) commits an act, including the use of a dangerous weapon, with the intent to causedeath or serious bodily injury to any person who is on property described in subparagraph (A) or (B) of paragraph (4);
+&emsp;(7) commits an act, including the use of a dangerous weapon, with the intent to cause death or serious bodily injury to any person who is on property described in subparagraph (A) or (B) of paragraph (4);
 
 &emsp;(8) surveils, photographs, videotapes, diagrams, or otherwise collects information with the intent to plan or assist in planning any of the acts described in paragraphs (1) through (6);
 
@@ -96,7 +96,7 @@ Definitions.—In this section—
 
 #### References in Text
 
-Section 5302 of title 49, referred to in subsec. (d)(7), was amended generally by Pub. L. 112–141, div. B,§20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer defines the term "mass transportation".
+Section 5302 of title 49, referred to in subsec. (d)(7), was amended generally by Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer defines the term "mass transportation".
 
 #### Prior Provisions
 

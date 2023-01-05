@@ -18,7 +18,7 @@
 
 #### (2) Chief financial officer
 
-&emsp;The Administrator shall appoint a chief financial officer, who shall have the authorityand functions of an agency Chief Financial Officer under section 902 of title 31. In the event of a vacancy in the position of the Administrator or during the absence or disability of the Administrator, the chief financial officer shall perform the duties of the position of Administrator.
+&emsp;The Administrator shall appoint a chief financial officer, who shall have the authority and functions of an agency Chief Financial Officer under section 902 of title 31. In the event of a vacancy in the position of the Administrator or during the absence or disability of the Administrator, the chief financial officer shall perform the duties of the position of Administrator.
 
 #### (3) Other officers and employees
 
@@ -54,7 +54,7 @@ In carrying out the functions of the Fund, the Administrator—
 
 #### (1) Establishment
 
-&emsp;There is established an advisory board to the Fund to be known as the Community Development Advisory Board, which shall be operated in accordance with the provisions of the Federal Advisory Committee Act, except that section 14 of that Act does not apply to the Board.
+&emsp;There is established an advisory board to the Fund to be known as the Community Development Advisory Board, which shall be operated in accordance with the provisions of chapter 10 of title 5, except that section 1013 of title 5 does not apply to the Board.
 
 #### (2) Membership
 
@@ -108,7 +108,7 @@ In carrying out the functions of the Fund, the Administrator—
 
 #### (7) Reimbursement for expenses
 
-&emsp;The members of the Board may receive reimbursement for travel, per diem, and other necessary expenses incurred in the performance of their duties, in accordance with the Federal Advisory Committee Act.
+&emsp;The members of the Board may receive reimbursement for travel, per diem, and other necessary expenses incurred in the performance of their duties, in accordance with chapter 10 of title 5.
 
 #### (8) Costs and expenses
 
@@ -176,19 +176,19 @@ A community development financial institution or other organization that receive
 
 &emsp;For purposes of this subsection, the term "transition period" means the period beginning on September 23, 1994, and ending on the date on which the Administrator is appointed.
 
-(Pub. L. 103–325, title I, §104, Sept. 23, 1994, 108 Stat. 2166; Pub. L. 112–166, §2(w), Aug. 10, 2012, 126 Stat. 1289.)
+(Pub. L. 103–325, title I, §104, Sept. 23, 1994, 108 Stat. 2166; Pub. L. 112–166, §2(w), Aug. 10, 2012, 126 Stat. 1289; Pub. L. 117–286, §4(a)(57), Dec. 27, 2022, 136 Stat. 4311.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (d)(1), (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
 
 #### Codification
 
 Section is comprised of section 104 of Pub. L. 103–325. Subsecs. (e) and (i) of section 104 of Pub. L. 103–325 amended section 9101 of Title 31, Money and Finance, and section 5313 of Title 5, Government Organization and Employees, respectively.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(1). Pub. L. 117–286, §4(a)(57)(A), substituted "chapter 10 of title 5, except that section 1013 of title 5" for "the Federal Advisory Committee Act, except that section 14 of that Act".
+
+Subsec. (d)(7). Pub. L. 117–286, §4(a)(57)(B), substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act."
 
 <b>2012</b>—Subsec. (b)(1). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end of first sentence.
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 
 #### Administration of Fund by Secretary of the Treasury
 
-Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–294; renumbered title I, Pub. L.104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That notwithstanding any other provision of law, for purposes of administering the Community Development Financial Institutions Fund, the Secretary of the Treasury shall have all powers and rights of the Administrator of the CDBFI Act \[12 U.S.C. 4701 et seq.\] and the Fund shall be within the Department of the Treasury."
+Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 1321–257, 1321–294; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That notwithstanding any other provision of law, for purposes of administering the Community Development Financial Institutions Fund, the Secretary of the Treasury shall have all powers and rights of the Administrator of the CDBFI Act \[12 U.S.C. 4701 et seq.\] and the Fund shall be within the Department of the Treasury."
 
 Similar provisions were contained in the following prior appropriations act:
 

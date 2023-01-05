@@ -20,7 +20,7 @@ The text of subsec. (c) of section 2305 of this title, which was transferred to 
 
 #### Prior Provisions
 
-A prior section 3207, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–155, title I, §101(5), Aug. 21, 1957, 71Stat. 376; Pub. L. 90–130, §1(9)(C), (D), Nov. 8, 1967, 81 Stat. 375, prescribed authorized strength of Army Medical Specialist Corps in commissioned officers on active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
+A prior section 3207, act Aug. 10, 1956, ch. 1041, 70A Stat. 173; Pub. L. 85–155, title I, §101(5), Aug. 21, 1957, 71 Stat. 376; Pub. L. 90–130, §1(9)(C), (D), Nov. 8, 1967, 81 Stat. 375, prescribed authorized strength of Army Medical Specialist Corps in commissioned officers on active list of Regular Army, prior to repeal by Pub. L. 96–513, title II, §202, title VII, §701, Dec. 12, 1980, 94 Stat. 2878, 2955, effective Sept. 15, 1981.
 
 #### Amendments
 

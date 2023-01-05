@@ -22,7 +22,7 @@
 
 #### (b) Procedures
 
-Notwithstanding any other provision of Federal or State law, upon the determination of both the Corporation (upon a vote of not fewer than 2/3 of the members of the Corporation then serving) and the Board of Governors (upon a vote of not fewer than 2/3 of the members of the Board of Governors then serving) under subsection (a) that a liquidity event exists that warrants use of the guarantee program authorized under section 5612 of this title, and with the written consent of the Secretary—
+Notwithstanding any other provision of Federal or State law, upon the determination of both the Corporation (upon a vote of not fewer than 2/3 of the members of the Corporation then serving) and the Board of Governors (upon a vote of not fewer than 2/3 of the members of the Board of Governors then serving) under subsection (a) that a liquidity event exists thatwarrants use of the guarantee program authorized under section 5612 of this title, and with the written consent of the Secretary—
 
 &emsp;(1) the Corporation shall take action in accordance with section 5612(a) of this title; and
 
@@ -48,7 +48,7 @@ Notwithstanding any other provision of Federal or State law, upon the determinat
 
 #### (d) Report to Congress
 
-On the earlier of the date of a submission made to Congress under section 5612(c) of this title, or within 30 days of the date of a determination under subsection (a), the Secretaryshall provide written notice of the determination of the Corporation and the Board of Governors to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, including a description of the basis for the determination.
+On the earlier of the date of a submission made to Congress under section 5612(c) of this title, or within 30 days of the date of a determination under subsection (a), the Secretary shall provide written notice of the determination of the Corporation and the Board of Governors to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, including a description of the basis for the determination.
 
 (Pub. L. 111–203, title XI, §1104, July 21, 2010, 124 Stat. 2120.)
 

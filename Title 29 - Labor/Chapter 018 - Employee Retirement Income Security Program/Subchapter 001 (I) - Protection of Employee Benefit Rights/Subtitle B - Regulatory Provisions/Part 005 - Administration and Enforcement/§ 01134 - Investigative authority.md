@@ -8,7 +8,7 @@ The Secretary shall have the power, in order to determine whether any person has
 
 &emsp;(2) to enter such places, inspect such books and records and question such persons as he may deem necessary to enable him to determine the facts relative to such investigation, if he has reasonable cause to believe there may exist a violation of this subchapter or any rule or regulation issued thereunder or if the entry is pursuant to an agreement with the plan.
 
-> The Secretary may make available to any person actually affected by any matter which is thesubject of an investigation under this section, and to any department or agency of the United States, information concerning any matter which may be the subject of such investigation; except that any information obtained by the Secretary pursuant to section 6103(g) of title 26 shall be made available only in accordance with regulations prescribed by the Secretary of the Treasury.
+> The Secretary may make available to any person actually affected by any matter which is the subject of an investigation under this section, and to any department or agency of the United States, information concerning any matter which may be the subject of such investigation; except that any information obtained by the Secretary pursuant to section 6103(g) of title 26 shall be made available only in accordance with regulations prescribed by the Secretary of the Treasury.
 
 #### (b) Frequency of submission of books and records
 
@@ -40,7 +40,7 @@ The Secretary may promulgate a regulation that provides an evidentiary privilege
 
 #### (e) Application of privilege
 
-The privilege established under subsection (d) shall apply to communications related to any investigation, audit, examination, or inquiry conducted or coordinated by any of the agencies. A communication that is privileged under subsection (d) shall not waive any privilege otherwise available to the communicating agency or to any person who provided the information that is communicated.
+The privilege established under subsection (d) shall apply to communications related to anyinvestigation, audit, examination, or inquiry conducted or coordinated by any of the agencies. A communication that is privileged under subsection (d) shall not waive any privilege otherwise available to the communicating agency or to any person who provided the information that is communicated.
 
 (Pub. L. 93–406, title I, §504, Sept. 2, 1974, 88 Stat. 893; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 111–148, title VI, §6607, Mar. 23, 2010, 124 Stat. 781.)
 

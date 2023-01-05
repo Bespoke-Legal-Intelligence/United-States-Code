@@ -34,7 +34,7 @@ State demonstration projects carried out under this section may include projects
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary may competitively award grants or enter intocompetitively awarded cooperative agreements with Governors for use in accordance with demonstration projects that meet the purposes of this section.
+&emsp;In carrying out this section, the Secretary may competitively award grants or enter into competitively awarded cooperative agreements with Governors for use in accordance with demonstration projects that meet the purposes of this section.
 
 #### (2) Application
 

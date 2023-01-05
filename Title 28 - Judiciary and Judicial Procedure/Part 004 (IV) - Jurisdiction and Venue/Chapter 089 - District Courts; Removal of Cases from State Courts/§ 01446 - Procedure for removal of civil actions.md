@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 112–63, §103(b)(3)(C), added subsec. (c) and struck out 
 
 Subsec. (d). Pub. L. 112–63, §103(b)(4)(A), inserted heading.
 
-Subsecs. (e), (f). Pub. L. 112–63, §103(b)(4)(C), (D), redesignated subsec. (f) as (e), inserted heading, and struck out former subsec. (e) which read as follows: "Ifthe defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custody and deliver a copy of the writ to the clerk of such State court."
+Subsecs. (e), (f). Pub. L. 112–63, §103(b)(4)(C), (D), redesignated subsec. (f) as (e), inserted heading, and struck out former subsec. (e) which read as follows: "If the defendant or defendants are in actual custody on process issued by the State court, the district court shall issue its writ of habeas corpus, and the marshal shall thereupon take such defendant or defendants into his custody and deliver a copy of the writ to the clerk of such State court."
 
 Subsec. (g). Pub. L. 112–63, §104, substituted "subsection (b) of this section and paragraph (1) of section 1455(b)" for "subsections (b) and (c)".
 

@@ -14,7 +14,7 @@ Pursuant to the plan approved under subsection (d) and consistent with the provi
 
 #### (d) Development and approval of plan
 
-The Library shall develop a plan for creation of this system, taking into consideration the findings and recommendations of the study directed by House Report No. 103–517 to identify and eliminate redundancies in congressional information systems. This plan must be approved by the Committee on Rules and Administrationof the Senate, the Committee on House Oversight of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives. The Library shall provide these committees with regular status reports on the development of the plan.
+The Library shall develop a plan for creation of this system, taking into consideration the findings and recommendations of the study directed by House Report No. 103–517 to identify and eliminate redundancies in congressional information systems. This plan must be approved by the Committee on Rules and Administration of the Senate, the Committee on House Oversight of the House of Representatives, and the Committees on Appropriations of the Senate and the House of Representatives. The Library shall provide these committees with regular status reports on the development of the plan.
 
 #### (e) Availability of information to public
 

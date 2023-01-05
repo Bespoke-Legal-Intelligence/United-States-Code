@@ -140,7 +140,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (4) National standards and definitions
 
-&emsp;To ensure uniform and consistent data collection for all forest land that is publicly or privately owned and for each State, the Secretary shall develop, in consultation with State foresters and Federal land management agencies not under the jurisdiction of the Secretary, and publish national standards and definitions to be applied in inventorying and analyzing forests and their resources under this subsection. The standards shall include a core set of variables to be measured on all sample plots under paragraph (2) and a standard set of tables to be included in the reports under paragraph (3).
+&emsp;To ensure uniform and consistent data collection for all forest land that is publicly or privately owned and for each State, the Secretary shall develop, in consultation withState foresters and Federal land management agencies not under the jurisdiction of the Secretary, and publish national standards and definitions to be applied in inventorying and analyzing forests and their resources under this subsection. The standards shall include a core set of variables to be measured on all sample plots under paragraph (2) and a standard set of tables to be included in the reports under paragraph (3).
 
 #### (5) Protection for private property rights
 
@@ -212,7 +212,7 @@ Pub. L. 115–334, title VIII, §8632, Dec. 20, 2018, 132 Stat. 4871, provided t
 
 #### Revision of Strategic Plan for Forest Inventory and Analysis
 
-Pub. L. 113–79, title VIII, §8301, Feb. 7, 2014, 128 Stat. 922, which required Secretary of Agriculture to revisestrategic plan for forest inventory and analysis to describe organization, procedures, and funding needed to achieve certain requirements, was repealed by Pub. L. 115–334, title VIII, §8501, Dec. 20, 2018, 132 Stat. 4847.
+Pub. L. 113–79, title VIII, §8301, Feb. 7, 2014, 128 Stat. 922, which required Secretary of Agriculture to revise strategic plan for forest inventory and analysis to describe organization, procedures, and funding needed to achieve certain requirements, was repealed by Pub. L. 115–334, title VIII, §8501, Dec. 20, 2018, 132 Stat. 4847.
 
 #### Southern Forest Regeneration Program
 

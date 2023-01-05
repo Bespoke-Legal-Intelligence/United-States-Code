@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, for any program applying to become a
 
 &emsp;&emsp;(ii) has acquired experience, training, or skills through military service that is applicable to the apprenticeship occupation; and
 
-&emsp;(3) when the Secretary approves the registered apprenticeship program, provide a copyof the program's certificate of registration to the State approving agency designated under chapter 36 of title 38 in the State where the program is located.
+&emsp;(3) when the Secretary approves the registered apprenticeship program, provide a copy of the program's certificate of registration to the State approving agency designated underchapter 36 of title 38 in the State where the program is located.
 
 (Pub. L. 116–134, §2, Mar. 26, 2020, 134 Stat. 276.)
 

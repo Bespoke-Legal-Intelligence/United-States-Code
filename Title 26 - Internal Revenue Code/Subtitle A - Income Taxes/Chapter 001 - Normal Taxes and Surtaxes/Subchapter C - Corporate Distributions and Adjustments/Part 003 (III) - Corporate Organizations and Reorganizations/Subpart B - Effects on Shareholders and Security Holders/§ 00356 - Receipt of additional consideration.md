@@ -88,7 +88,7 @@ Notwithstanding any other provision of this section, to the extent that any of t
 
 &emsp;&emsp;<b>(2) has the effect of the payment of compensation, see section 61(a)(1).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 115; Pub. L. 94–253, §1(c), Mar. 31, 1976, 90 Stat. 296; Pub. L. 97–248, title II, §227(b), Sept. 3, 1982, 96 Stat. 492; Pub. L. 101–508, title XI, §11801(c)(8)(E), Nov. 5,1990, 104 Stat. 1388–524; Pub. L. 105–34, title X, §1014(d), Aug. 5, 1997, 111 Stat. 921.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 115; Pub. L. 94–253, §1(c), Mar. 31, 1976, 90 Stat. 296; Pub. L. 97–248, title II, §227(b), Sept. 3, 1982, 96 Stat. 492; Pub. L. 101–508, title XI, §11801(c)(8)(E), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 105–34, title X, §1014(d), Aug. 5, 1997, 111 Stat. 921.)
 
 #### <b>Editorial Notes</b>
 

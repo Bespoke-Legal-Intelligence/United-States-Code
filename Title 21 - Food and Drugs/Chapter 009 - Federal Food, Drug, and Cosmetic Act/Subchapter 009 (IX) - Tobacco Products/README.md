@@ -35,3 +35,4 @@ A prior subchapter IX of this chapter, consisting of sections 391 to 399a of thi
 - [&sect; 00387s - User fees](%C2%A7%2000387s%20-%20User%20fees.md)
 - [&sect; 00387t - Labeling, recordkeeping, records inspection](%C2%A7%2000387t%20-%20Labeling%2C%20recordkeeping%2C%20records%20inspection.md)
 - [&sect; 00387u - Studies of progress and effectiveness](%C2%A7%2000387u%20-%20Studies%20of%20progress%20and%20effectiveness.md)
+- [&sect; 00387v - Reporting on tobacco regulation activities](%C2%A7%2000387v%20-%20Reporting%20on%20tobacco%20regulation%20activities.md)

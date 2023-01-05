@@ -14,11 +14,11 @@ There is established within the Center an office to be known as the Office of Ra
 
 &emsp;&emsp;(B) The Director shall, with respect to rare diseases, promote coordination and cooperation among the national research institutes and centers and entities whose research is supported by such institutes.
 
-&emsp;&emsp;(C) The Director, in collaboration with the directors of the other relevant institutes andcenters of the National Institutes of Health, may enter into cooperative agreements with and make grants for regional centers of excellence on rare diseases in accordance with section 287a–2 of this title.
+&emsp;&emsp;(C) The Director, in collaboration with the directors of the other relevant institutes and centers of the National Institutes of Health, may enter into cooperative agreements with and make grants for regional centers of excellence on rare diseases in accordance with section 287a–2 of this title.
 
 &emsp;&emsp;(D) The Director shall promote the sufficient allocation of the resources of the National Institutes of Health for conducting and supporting research on rare diseases.
 
-&emsp;&emsp;(E) The Director shall promote and encourage the establishment of a centralized clearinghouse for rare and genetic disease information that will provide understandable information about these diseases to the public, medical professionals, patients and families.
+&emsp;&emsp;(E) The Director shall promote and encourage the establishment of a centralized clearinghouse for rare and genetic diseaseinformation that will provide understandable information about these diseases to the public, medical professionals, patients and families.
 
 #### (2) Principal advisor regarding orphan diseases
 

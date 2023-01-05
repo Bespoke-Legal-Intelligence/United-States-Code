@@ -56,7 +56,7 @@ In this section:
 
 &emsp;&emsp;The term "forest, rangeland, and watershed restoration services" does not include—
 
-&emsp;&emsp;&emsp;(i) construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System road that is—
+&emsp;&emsp;&emsp;(i) construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System or Bureau of Land Management managed road that is—
 
 &emsp;&emsp;&emsp;&emsp;(I) necessary to carry out authorized restoration services pursuant to a good neighbor agreement; and
 
@@ -140,7 +140,7 @@ In this section:
 
 &emsp;Notwithstanding any other provision of law, any payment made by a county to the Secretary under a project conducted under a good neighbor agreement shall not be considered to be monies received from National Forest System land or Bureau of Land Management land, as applicable.
 
-(Pub. L. 113–79, title VIII, §8206, Feb. 7, 2014, 128 Stat. 921; Pub. L. 115–141, div. O, title II, §212, Mar. 23, 2018, 132 Stat. 1073; Pub. L. 115–334, title VIII, §§8624, 8704(b), Dec. 20, 2018, 132 Stat. 4857, 4877.)
+(Pub. L. 113–79, title VIII, §8206, Feb. 7, 2014, 128 Stat. 921; Pub. L. 115–141, div. O, title II, §212, Mar. 23, 2018, 132 Stat. 1073; Pub. L. 115–334, title VIII, §§8624, 8704(b), Dec. 20, 2018, 132 Stat. 4857, 4877; Pub. L. 117–328, div. G, title IV, §439, Dec. 29, 2022, 136 Stat. 4832.)
 
 #### <b>Editorial Notes</b>
 
@@ -153,6 +153,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b)(3), is
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(4)(B)(i). Pub. L. 117–328 inserted "or Bureau of Land Management managed" after "National Forest System" in introductory provisions.
 
 <b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–334, §8624(a)(1), substituted "land, non-Federal land, and land owned by an Indian tribe" for "land and non-Federal land".
 

@@ -72,7 +72,7 @@ Production Certificates.—The Administrator shall issue a production certificat
 
 Airworthiness Certificates.—(1) The registered owner of an aircraft may apply to the Administrator for an airworthiness certificate for the aircraft. The Administrator shall issue an airworthiness certificate when the Administrator finds that the aircraft conforms to its type certificate and, after inspection, is in condition for safe operation. The Administrator shall register each airworthiness certificate and may include appropriate information in the certificate. The certificate number or other individual designation the Administrator requires shall be displayed on the aircraft. The Administrator may include in an airworthiness certificate terms required in the interest of safety.
 
-(2) A person applying for the issuance or renewal of an airworthiness certificate for an aircraft for which ownership has not been recorded under section 44107 or 44110 of this title must submit with the application information relatedto the ownership of the aircraft the Administrator decides is necessary to identify each person having a property interest in the aircraft and the kind and extent of the interest.
+(2) A person applying for the issuance or renewal of an airworthiness certificate for an aircraft for which ownership has not been recorded under section 44107 or 44110 of this title must submit with the application information related to the ownership of the aircraft the Administrator decides is necessary to identify each person having a property interest in the aircraft and the kind and extent of the interest.
 
 (3)
 
@@ -104,7 +104,7 @@ Disclosure of Safety Critical Information.—
 
 &emsp;(1)
 
-In general.—Notwithstanding a delegation described in section 44702(d), the Administrator shall require an applicant for, or holder of, a type certificate for a transport category airplane covered under part 25 of title 14, Code of Federal Regulations, to submit safety critical information with respect to such airplane to the Administrator in such form, manner, or time as the Administrator may require. Such safety critical information shall include—
+In general.—Notwithstanding a delegation described in section 44702(d), the Administrator shall require an applicant for, or holder of, a type certificate for a transport categoryairplane covered under part 25 of title 14, Code of Federal Regulations, to submit safety critical information with respect to such airplane to the Administrator in such form, manner, or time as the Administrator may require. Such safety critical information shall include—
 
 &emsp;&emsp;(A) any design and operational details, intended functions, and failure modes of any system that, without being commanded by the flight crew, commands the operation of any safety critical function or feature required for control of an airplane during flight or that otherwise changes the flight path or airspeed of an airplane;
 
@@ -542,7 +542,7 @@ FAA Review.—Appropriate employees of the Aircraft Certification Service and th
 
 #### Flight Crew Alerting
 
-Pub. L. 116–260, div. V, title I, §116, Dec. 27, 2020, 134 Stat. 2334, provided that:
+Pub. L. 116–260, div. V, title I, §116, Dec. 27, 2020, 134 Stat. 2334, as amended by Pub. L. 117–328, div. O, title V, §501(b), Dec. 29, 2022, 136 Stat. 5231, provided that:
 
 "(a)
 
@@ -550,11 +550,7 @@ In General.—Not later than 1 year after the date of enactment of this title \[
 
 "(b)
 
-Prohibition.—Beginning on the date that is 2 years after the date of enactment of this title, the Administrator may not issue a type certificate for a transport category aircraft unless—
-
-&emsp;"(1) in the case of a transport airplane, such airplane incorporates a flight crew alerting system that, at a minimum, displays and differentiates among warnings, cautions, and advisories, and includes functions to assist the flight crew in prioritizing corrective actions and responding to systems failures; or
-
-&emsp;"(2) in the case of a transport category aircraft other than a transport airplane, the type certificate applicant provides a means acceptable to the Administrator to assist the flight crew in prioritizing corrective actions and responding to systems failures (including by cockpit or flight manual procedures).
+Prohibition.—Beginning on December 27, 2022, the Administrator may not issue a type certificate for a transport category aircraft unless, in the case of a transport category aircraft other than a transport airplane, the type certificate applicant provides a means acceptable to the Administrator to assist the flight crew in prioritizing corrective actions and responding to systems failures (including by cockpit or flight manual procedures).
 
 "(c)
 
@@ -590,7 +586,7 @@ Amended Type Certificate Report and Rulemaking.—
 
 &emsp;"(1)
 
-Briefings.—Not later than 12 months after the date of enactment of this title \[Dec. 27, 2020\], and annually thereafter through fiscal year 2023, the Administrator shall brief the congressional committees ofjurisdiction on the work and status of the development of such recommendations by the Certification Management Team.
+Briefings.—Not later than 12 months after the date of enactment of this title \[Dec. 27, 2020\], and annually thereafter through fiscal year 2023, the Administrator shall brief the congressional committees of jurisdiction on the work and status of the development of such recommendations by the Certification Management Team.
 
 &emsp;"(2)
 
@@ -692,7 +688,7 @@ Contents.—The expert safety review required under paragraph (1) shall include�
 
 &emsp;"(B) a focused review of the assumptions relied on regarding the time for pilot responses to non-normal conditions in designing such aircraft's systems and instrumentation, including responses to safety-significant failure conditions and failure scenarios that trigger multiple, and possibly conflicting, warnings and alerts;
 
-&emsp;"(C) a review of human factors assumptions with applicable operational data, human factors researchand the input of human factors experts and FAA operational data, and as appropriate, recommendations for modifications to existing assumptions;
+&emsp;"(C) a review of human factors assumptions with applicable operational data, human factors research and the input of human factors experts and FAA operational data, and as appropriate, recommendations for modifications to existing assumptions;
 
 &emsp;"(D) a review of revisions made to the airman certification standards for certificates over the last 4 years, including any possible effects on pilot competency in basic manual flying skills;
 
@@ -904,7 +900,7 @@ Contents.—In conducting the assessment, the Administrator shall consider—
 
 "(c)
 
-Recommendations.—In conducting the assessment, the Administrator shall make recommendations to improve efficiency and reduce costs through streamlining and reengineering the certification process undersection 44704 of such title to ensure that the Administrator can conduct certifications and approvals under such section in a manner that supports and enables the development of new products and technologies and the global competitiveness of the United States aviation industry.
+Recommendations.—In conducting the assessment, the Administrator shall make recommendations to improve efficiency and reduce costs through streamlining and reengineering the certification process under section 44704 of such title to ensure that the Administrator can conduct certifications and approvals under such section in a manner that supports and enables the development of new products and technologies and the global competitiveness of the United States aviation industry.
 
 "(d)
 
@@ -952,7 +948,7 @@ Freedom of information act requests.—The Administrator shall make the document
 
 &emsp;"(2)
 
-Trade secrets, commercial, and financial information.—Section 552(b)(4) of such title shall not apply to requests for documents to be made available pursuant to paragraph (1).
+Trade secrets, commercial, and financial information.—Section 552(b)(4) of such title shall notapply to requests for documents to be made available pursuant to paragraph (1).
 
 "(c)
 

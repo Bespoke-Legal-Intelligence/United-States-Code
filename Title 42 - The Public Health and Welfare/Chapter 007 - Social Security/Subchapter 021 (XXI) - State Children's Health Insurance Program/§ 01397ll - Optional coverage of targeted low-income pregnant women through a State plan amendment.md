@@ -18,7 +18,7 @@ A State may only elect the option under subsection (a) if the following conditio
 
 #### (2) No CHIP income eligibility level for pregnant women lower than the State's Medicaid level
 
-&emsp;The State does not apply an effective income level for pregnant women under the State planamendment that is lower than the effective income level (expressed as a percent of the poverty line and considering applicable income disregards) specified under subsection (a)(10)(A)(i)(III), (a)(10)(A)(i)(IV), or (l)(1)(A) of section 1396a of this title, on February 4, 2009, to be eligible for medical assistance as a pregnant woman.
+&emsp;The State does not apply an effective income level for pregnant women under the State plan amendment that is lower than the effective income level (expressed as a percent of the poverty line and considering applicable income disregards) specified under subsection (a)(10)(A)(i)(III), (a)(10)(A)(i)(IV), or (l)(1)(A) of section 1396a of this title, on February 4, 2009, to be eligible for medical assistance as a pregnant woman.
 
 #### (3) No coverage for higher income pregnant women without covering lower income pregnant women
 
@@ -38,7 +38,7 @@ A State may only elect the option under subsection (a) if the following conditio
 
 #### (7) No waiting list for children
 
-&emsp;The State does not impose, with respect to the enrollment under the State child health plan of targeted low-income children during the quarter, any enrollment cap or other numerical limitation on enrollment, any waiting list, any procedures designed to delay the consideration of applications for enrollment, or similar limitation with respect to enrollment.
+&emsp;The State does not impose, with respect to the enrollment under the State child health plan of targeted low-income children during the quarter, any enrollment cap or other numerical limitation on enrollment, any waitinglist, any procedures designed to delay the consideration of applications for enrollment, or similar limitation with respect to enrollment.
 
 #### (c) Option to provide presumptive eligibility
 
@@ -102,7 +102,7 @@ If a child is born to a targeted low-income pregnant woman who was receiving pre
 
 #### Effective Date
 
-Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
+Section effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on orafter that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as a note under section 1396 of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

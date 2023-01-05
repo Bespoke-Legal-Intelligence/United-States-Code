@@ -12,7 +12,7 @@ Property Subject to Sequestration.—(1) Any income from property in which the d
 
 (b)
 
-Availability of Sequestration.—If the requirements of section 3101 are satisfied, a court shall issue a writ authorizing the United Statesto sequester income from property in which the debtor has a substantial nonexempt interest, as security for such judgment (and interest and costs) as the United States may recover on a claim for a debt—
+Availability of Sequestration.—If the requirements of section 3101 are satisfied, a court shall issue a writ authorizing the United States to sequester income from property in which the debtor has a substantial nonexempt interest, as security for such judgment (and interest and costs) as the United States may recover on a claim for a debt—
 
 &emsp;(1) in an action on a contract, express or implied, against the debtor for payment of money, only if the United States shows reasonable cause to believe that—
 

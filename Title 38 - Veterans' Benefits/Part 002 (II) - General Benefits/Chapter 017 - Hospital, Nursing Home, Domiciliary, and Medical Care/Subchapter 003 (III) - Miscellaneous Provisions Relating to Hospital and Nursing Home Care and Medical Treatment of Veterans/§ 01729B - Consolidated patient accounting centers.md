@@ -26,11 +26,11 @@ The date of the enactment of this section, referred to in subsec. (a), is the da
 
 #### Prior Provisions
 
-A prior section 1729B, added Pub. L. 106–117, title II, §202(a), Nov. 30, 1999, 113 Stat. 1561; amended Pub. L.107–103, title V, §509(c), Dec. 27, 2001, 115 Stat. 997; Pub. L. 107–330, title III, §308(g)(7), Dec. 6, 2002, 116 Stat. 2829, related to the Department of Veterans Affairs Health Services Improvement Fund, prior to repeal by Pub. L. 108–7, div. K, title I, §113(a)(1), Feb. 20, 2003, 117 Stat. 482.
+A prior section 1729B, added Pub. L. 106–117, title II, §202(a), Nov. 30, 1999, 113 Stat. 1561; amended Pub. L. 107–103, title V, §509(c), Dec. 27, 2001, 115 Stat. 997; Pub. L. 107–330, title III, §308(g)(7), Dec. 6, 2002, 116 Stat. 2829, related to the Department of Veterans Affairs Health Services Improvement Fund, prior to repeal by Pub. L. 108–7, div. K, title I, §113(a)(1), Feb. 20, 2003, 117 Stat. 482.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Balance
 
-Pub. L. 108–7, div. K, title I, §113(a)(1), Feb. 20, 2003, 117 Stat. 482, repealed former section 1729B of this title and provided that any balance as of Feb. 20, 2003, in the Department of Veterans Affairs Health Services Improvement Fund established under former section 1729B was to be transferred to the Department of Veterans Affairs Medical Care Collections Fund established under section 1729A of this title.
+Pub. L. 108–7, div. K, title I, §113(a)(1), Feb. 20, 2003, 117 Stat. 482, repealed former section 1729B of this title and provided that any balance as of Feb. 20, 2003, in the Department of Veterans Affairs Health Services Improvement Fund established under former section 1729B was to be transferred to the Department of VeteransAffairs Medical Care Collections Fund established under section 1729A of this title.
 

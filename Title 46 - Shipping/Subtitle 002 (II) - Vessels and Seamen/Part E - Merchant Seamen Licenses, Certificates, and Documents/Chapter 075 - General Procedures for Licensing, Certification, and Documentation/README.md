@@ -12,12 +12,15 @@
 | [7508\.](%C2%A7%2007508%20-%20Authority%20to%20extend%20the%20duration%20of%20medical%20certificates.md) | Authority to extend the duration of medical certificates. |
 | [7509\.](%C2%A7%2007509%20-%20Medical%20certification%20by%20trusted%20agents.md) | Medical certification by trusted agents. |
 | [7510\.](%C2%A7%2007510%20-%20Examinations%20for%20merchant%20mariner%20credentials.md) | Examinations for merchant mariner credentials. |
+| [7511\.](%C2%A7%2007511%20-%20Convicted%20sex%20offender%20as%20grounds%20for%20denial.md) | Convicted sex offender as grounds for denial. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. K, title CXVI, §11602(b), Dec. 23, 2022, 136 Stat. 4147, added item 7511.
 
 <b>2016</b>—Pub. L. 114–120, title III, §§309(c), 315(a)(2), Feb. 8, 2016, 130 Stat. 57, 62, added items 7509 and 7510.
 
@@ -46,3 +49,4 @@
 - [&sect; 07508 - Authority to extend the duration of medical certificates](%C2%A7%2007508%20-%20Authority%20to%20extend%20the%20duration%20of%20medical%20certificates.md)
 - [&sect; 07509 - Medical certification by trusted agents](%C2%A7%2007509%20-%20Medical%20certification%20by%20trusted%20agents.md)
 - [&sect; 07510 - Examinations for merchant mariner credentials](%C2%A7%2007510%20-%20Examinations%20for%20merchant%20mariner%20credentials.md)
+- [&sect; 07511 - Convicted sex offender as grounds for denial](%C2%A7%2007511%20-%20Convicted%20sex%20offender%20as%20grounds%20for%20denial.md)

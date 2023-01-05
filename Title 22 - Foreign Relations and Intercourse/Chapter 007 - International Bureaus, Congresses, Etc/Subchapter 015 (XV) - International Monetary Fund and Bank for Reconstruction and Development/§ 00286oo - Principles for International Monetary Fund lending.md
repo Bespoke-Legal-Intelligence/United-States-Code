@@ -18,7 +18,7 @@ It is the policy of the United States to work to implement reforms in the Intern
 
 #### (3) Premium pricing
 
-&emsp;Premium pricing should be introduced for lending from the general resources of the Fund, for greater than 200 percent of a member's quota in the Fund, to discourage excessive use of Fund lending and to encouragemembers to rely on private financing to the maximum extent possible.
+&emsp;Premium pricing should be introduced for lending from the general resources of the Fund, for greater than 200 percent of a member's quota in the Fund, to discourage excessive use of Fund lending and to encourage members to rely on private financing to the maximum extent possible.
 
 #### (4) Redressing misreporting of information
 

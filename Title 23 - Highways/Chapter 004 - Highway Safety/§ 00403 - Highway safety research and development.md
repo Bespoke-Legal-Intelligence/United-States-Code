@@ -88,7 +88,7 @@ Cooperative Research and Evaluation.—
 
 &emsp;(1)
 
-Establishment and funding.—Notwithstanding the apportionment formula set forthin section 402(c)(2), $3,500,000 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in each fiscal year shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
+Establishment and funding.—Notwithstanding the apportionment formula set forth in section 402(c)(2), $3,500,000 of the total amount available for apportionment to the States for highway safety programs under section 402(c) in each fiscal year shall be available for expenditure by the Secretary, acting through the Administrator of the National Highway Traffic Safety Administration, for a cooperative research and evaluation program to research and evaluate priority highway safety countermeasures.
 
 &emsp;(2)
 
@@ -212,7 +212,7 @@ Establishment of program.—Not later than 2 years after the date of enactment o
 
 Eligibility.—To be eligible to receive a grant under the program, a State shall—
 
-&emsp;&emsp;&emsp;(i) submit to the Secretary an application at such time, in such manner, andcontaining such information as the Secretary may require; and
+&emsp;&emsp;&emsp;(i) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require; and
 
 &emsp;&emsp;&emsp;(ii) agree—
 
@@ -278,7 +278,7 @@ In general.—In conducting research under this section, the Secretary shall eva
 
 Treatment.—The research described in paragraph (1) shall be in addition to any other research carried out under this section.
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286, 291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540; Pub. L. 112–141, div. C, title I, §31103, July 6, 2012, 126 Stat. 739; Pub. L. 113–159, title I, §1101(b), Aug. 8, 2014, 128 Stat. 1843; Pub. L. 114–21, title I, §1101(b), May 29, 2015, 129 Stat. 221; Pub. L. 114–41, title I, §1101(b), July 31, 2015, 129 Stat. 448; Pub. L. 114–73, title I, §1101(b), Oct. 29, 2015, 129 Stat. 571; Pub. L. 114–87, title I, §1101(b), Nov. 20, 2015, 129 Stat. 680; Pub. L. 114–94, div. A, title IV, §§4003, 4014(2), div. B, title XXIV, §24202(b), Dec. 4, 2015, 129 Stat. 1500, 1513, 1712; Pub. L. 116–159, div. B, title I, §1103, Oct. 1, 2020, 134 Stat. 726; Pub. L. 117–58, div. B, title IV, §24103, Nov. 15, 2021, 135 Stat. 792.)
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 733; amended Pub. L. 93–87, title II, §§208(a), 220–222, 226(a), Aug. 13, 1973, 87 Stat. 286,291, 292; Pub. L. 102–240, title II, §2003, Dec. 18, 1991, 105 Stat. 2071; Pub. L. 105–178, title II, §2002(a), (b)(1), June 9, 1998, 112 Stat. 325; Pub. L. 109–59, title II, §§2003(a), (b), 2013(e), Aug. 10, 2005, 119 Stat. 1522, 1540; Pub. L. 112–141, div. C, title I, §31103, July 6, 2012, 126 Stat. 739; Pub. L. 113–159, title I, §1101(b), Aug. 8, 2014, 128 Stat. 1843; Pub. L. 114–21, title I, §1101(b), May 29, 2015, 129 Stat. 221; Pub. L. 114–41, title I, §1101(b), July 31, 2015, 129 Stat. 448; Pub. L. 114–73, title I, §1101(b), Oct. 29, 2015, 129 Stat. 571; Pub. L. 114–87, title I, §1101(b), Nov. 20, 2015, 129 Stat. 680; Pub. L. 114–94, div. A, title IV, §§4003, 4014(2), div. B, title XXIV, §24202(b), Dec. 4, 2015, 129 Stat. 1500, 1513, 1712; Pub. L. 116–159, div. B, title I, §1103, Oct. 1, 2020, 134 Stat. 726; Pub. L. 117–58, div. B, title IV, §24103, Nov. 15, 2021, 135 Stat. 792.)
 
 #### <b>Editorial Notes</b>
 
@@ -362,7 +362,7 @@ Subsec. (c). Pub. L. 102–240, §2003(c), substituted "subsections (a) and (b)"
 
 Subsec. (f). Pub. L. 102–240, §2003(b), added subsec. (f) and struck out former subsec. (f) which read as follows: "In addition to the research authorized by subsection (a) of this section, the Secretary shall carry out research, development, and demonstration projects to improve and evaluate the effectiveness of various types of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom. The research, development, and demonstration projects authorized by this subsection may be carried out by the Secretary through grants and contracts with public and private agencies, institutions, and individuals. The Secretary shall report to the Congress by July 1, 1975, and each year thereafter during the continuance of the program, on the research, development, and demonstration projects authorized by this subsection, and shall include in such report an evaluation of the effectiveness of driver education programs in reducing traffic accidents and deaths, injuries, and property damage resulting therefrom."
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–87, §§208(a), 220, designated existing provisions as subsec. (a); substituted in first sentence "this subsection" for "this section"; substituted in second sentence "for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel" for "for (1) grants to Stateor local agencies, institutions, and individuals for training or education of highway safety personnel" and "(6) related activities which the Secretary deems will promote the purposes of this section" for (6) related activities which are deemed by the Secretary to be necessary to carry out the purposes of this section"; and inserted requirement that the Secretary assure that no fees be charged for any meeting or services attendant thereto or other activities relating to training and education of highway safety personnel.
+<b>1973</b>—Subsec. (a). Pub. L. 93–87, §§208(a), 220, designated existing provisions as subsec. (a); substituted in first sentence "this subsection" for "this section"; substituted in second sentence "for making grants to or contracting with State or local agencies, institutions, and individuals for (1) training or education of highway safety personnel" for "for (1) grants to State or local agencies, institutions, and individuals for training or education of highway safety personnel" and "(6) related activities which the Secretary deems will promote the purposes of this section" for (6) related activities which are deemed by the Secretary to be necessary to carry out the purposes of this section"; and inserted requirement that the Secretary assure that no fees be charged for any meeting or services attendant thereto or other activities relating to training and education of highway safety personnel.
 
 Subsecs. (b), (c). Pub. L. 93–87, §208(a), added subsecs. (b) and (c).
 
@@ -408,7 +408,7 @@ Pub. L. 105–178, title IV, §4030, June 9, 1998, 112 Stat. 418, provided that:
 
 "(a)
 
-Study.—Not later than 3 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall offer to enter into an agreement with the Transportation Research Board of the National Academy of Sciences to conduct, subject to the availability of appropriations, a study of the safety issues attendant to the transportation of school children to and from school and school-related activities by various transportation modes.
+Study.—Not later than 3 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall offer to enter into an agreement with the Transportation Research Board of the National Academy of Sciences to conduct, subject to the availability of appropriations, a study of the safety issues attendant to the transportation of school children to and fromschool and school-related activities by various transportation modes.
 
 "(b)
 
@@ -460,7 +460,7 @@ Establishment.—The Secretary, acting through the National Highway Traffic Safe
 
 "(b)
 
-Advisory Committee.—The Secretary shall establish a citizens advisory committee that shall report to Congress annually on the progress of the implementation of subsection (a). Members of the committee shall include 1 member of each of the following: Mothers Against Drunk Driving; a narcotics control organization; American Medical Association; American Bar Association; and such other organizations as the Secretary deems appropriate. The committee shall be subject to the provisions of the \[Federal\] Advisory Committee Act \[5 U.S.C. App.\] and shall terminate 2 years after the date of the enactment of this Act \[Dec. 18, 1991\].
+Advisory Committee.—The Secretary shall establish a citizens advisory committee that shall report to Congress annually on the progress of the implementation of subsection (a). Members of the committee shall include 1 member of each of the following: Mothers Against Drunk Driving; a narcotics control organization; American Medical Association; American Bar Association; and such other organizations as the Secretary deems appropriate. The committee shall be subject to the provisions of the \[Federal\] Advisory Committee Act \[see 5 U.S.C. 1001 et seq.\] and shall terminate 2 years after the date of the enactment of this Act \[Dec. 18, 1991\].
 
 "(c)
 

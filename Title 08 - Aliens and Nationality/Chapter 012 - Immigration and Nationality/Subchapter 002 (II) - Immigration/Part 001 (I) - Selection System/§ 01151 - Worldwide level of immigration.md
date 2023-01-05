@@ -26,7 +26,7 @@ Aliens described in this subsection, who are not subject to the worldwide levels
 
 &emsp;(2)(A)(i)
 
-Immediate relatives.—For purposes of this subsection, the term "immediate relatives" means the children, spouses, and parents of a citizen of the United States, except that, in the case of parents, such citizens shall be at least 21 years of age. In the case of an alien who was the spouse of a citizen of the United States and was not legally separated from the citizen at the time of the citizen's death, the alien (and each child of the alien) shall be considered, for purposes of this subsection, to remain an immediate relative after the date of the citizen's death but only if the spouse files a petition under section 1154(a)(1)(A)(ii) of this title within 2 years after such date and only until the date the spouse remarries. For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section 1154(a)(1)(A) of this title remains an immediate relative in the eventthat the United States citizen spouse or parent loses United States citizenship on account of the abuse.
+Immediate relatives.—For purposes of this subsection, the term "immediate relatives" means the children, spouses, andparents of a citizen of the United States, except that, in the case of parents, such citizens shall be at least 21 years of age. In the case of an alien who was the spouse of a citizen of the United States and was not legally separated from the citizen at the time of the citizen's death, the alien (and each child of the alien) shall be considered, for purposes of this subsection, to remain an immediate relative after the date of the citizen's death but only if the spouse files a petition under section 1154(a)(1)(A)(ii) of this title within 2 years after such date and only until the date the spouse remarries. For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section 1154(a)(1)(A) of this title remains an immediate relative in the event that the United States citizen spouse or parent loses United States citizenship on account of the abuse.
 
 &emsp;(ii) Aliens admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent who is such an immediate relative.
 
@@ -88,11 +88,11 @@ The worldwide level of diversity immigrants is equal to 55,000 for each fiscal y
 
 #### (2) Age on parent's naturalization date
 
-&emsp;In the case of a petition under section 1154 of this title initially filed for an alien child's classification as a family-sponsored immigrant under section 1153(a)(2)(A) of this title, based on the child's parent being lawfully admitted for permanent residence, if the petition is later converted, due to the naturalization of the parent, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i), the determination described in paragraph (1) shall be made using the age of the alien on the date of the parent's naturalization.
+&emsp;In the case of a petition under section 1154 of this title initially filed for an alien child's classification as a family-sponsored immigrant under section 1153(a)(2)(A) of this title, based on the child's parent being lawfully admitted for permanent residence, if the petitionis later converted, due to the naturalization of the parent, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i), the determination described in paragraph (1) shall be made using the age of the alien on the date of the parent's naturalization.
 
 #### (3) Age on marriage termination date
 
-&emsp;In the case of a petition under section 1154 of this title initially filed for an alien's classification as a family-sponsored immigrant under section 1153(a)(3) of this title, based on the alien's being a married son or daughter of a citizen, if the petition is later converted, due to the legal termination of the alien's marriage, to a petition to classify the alien as animmediate relative under subsection (b)(2)(A)(i) or as an unmarried son or daughter of a citizen under section 1153(a)(1) of this title, the determination described in paragraph (1) shall be made using the age of the alien on the date of the termination of the marriage.
+&emsp;In the case of a petition under section 1154 of this title initially filed for an alien's classification as a family-sponsored immigrant under section 1153(a)(3) of this title, based on the alien's being a married son or daughter of a citizen, if the petition is later converted, due to the legal termination of the alien's marriage, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i) or as an unmarried son or daughter of a citizen under section 1153(a)(1) of this title, the determination described in paragraph (1) shall be made using the age of the alien on the date of the termination of the marriage.
 
 #### (4) Application to self-petitions
 
@@ -148,7 +148,7 @@ Subsec. (b). Pub. L. 89–236 substituted provisions defining "immediate relativ
 
 Subsec. (c). Pub. L. 89–236 substituted provisions allowing carryover through June 30, 1968, of quotas for quota areas in effect on June 30, 1965, and redistribution of unused quota numbers, for provisions which limited issuance of immigrant visas.
 
-Subsec. (d). Pub. L. 89–236 substituted provisions creating an immigration pool and allocating its numberswithout reference to the quotas to which an alien is chargeable, for provisions allowing issuance of an immigrant visa to an immigrant as a quota immigrant even though he might be a nonquota immigrant.
+Subsec. (d). Pub. L. 89–236 substituted provisions creating an immigration pool and allocating its numbers without reference to the quotas to which an alien is chargeable, for provisions allowing issuance of an immigrant visa to an immigrant as a quota immigrant even though he might be a nonquota immigrant.
 
 Subsec. (e). Pub. L. 89–236 substituted provisions terminating the immigration pool on June 30, 1968, for provisions permitting reduction of annual quotas based on national origins pursuant to Act of Congress prior to effective date of proclaimed quotas.
 
@@ -348,7 +348,7 @@ Pub. L. 105–100, title II, §203(d), Nov. 19, 1997, 111 Stat. 2199, as amended
 
 "(2) In no case shall the reduction under paragraph (1) for a fiscal year exceed the amount by which—
 
-&emsp;"(A) one-half of the total number of individuals described in subclauses (I), (II), (III), and (IV) of section 309(c)(5)(C)(i) of the Illegal Immigration Reform andImmigrant Responsibility Act of 1996 \[Pub. L. 104–208, set out as a note under section 1101 of this title\] who have adjusted their status to that of aliens lawfully admitted for permanent residence under the Nicaraguan Adjustment and Central American Relief Act \[title II of Pub. L. 105–100, see Short Title of 1997 Amendments note set out under section 1101 of this title\] as of the end of the previous fiscal year; exceeds
+&emsp;"(A) one-half of the total number of individuals described in subclauses (I), (II), (III), and (IV) of section 309(c)(5)(C)(i) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208, set out as a note under section 1101 of this title\] who have adjusted their status to that of aliens lawfully admitted for permanent residence under the Nicaraguan Adjustment and Central American Relief Act \[title II of Pub. L. 105–100, see Short Title of 1997 Amendments note set out under section 1101 of this title\] as of the end of the previous fiscal year; exceeds
 
 &emsp;"(B) the total of the reductions in available visas under this subsection for all previous fiscal years."
 

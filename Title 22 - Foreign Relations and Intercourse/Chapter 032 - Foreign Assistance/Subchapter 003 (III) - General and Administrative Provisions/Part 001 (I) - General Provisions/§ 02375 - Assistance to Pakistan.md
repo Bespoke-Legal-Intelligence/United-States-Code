@@ -10,7 +10,7 @@ The United States reaffirms the commitment made in its 1959 bilateral agreement 
 
 #### (c) Availability; defensive aspects of assistance
 
-Security assistance for Pakistan shall be made available in order to assist Pakistan in dealing with the threat to its security posed by the Soviet presence in Afghanistan. The United States will take appropriate steps to ensure that defense articles provided by the United States to Pakistan are used for defensive purposes.
+Security assistance for Pakistan shall be made available in order to assist Pakistan in dealingwith the threat to its security posed by the Soviet presence in Afghanistan. The United States will take appropriate steps to ensure that defense articles provided by the United States to Pakistan are used for defensive purposes.
 
 #### (d) Waiver of limitations respecting nuclear transfers
 
@@ -54,7 +54,7 @@ Nothing contained herein shall affect sanctions for transfers of missile equipme
 
 For effective date of part B of the Nuclear Proliferation Prevention Act of 1994, referred to in subsec. (d), as the date 60 days after Apr. 30, 1994, see section 831 of Pub. L. 103–236, set out as an Effective Date note under section 6301 of this title.
 
-This chapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
@@ -106,7 +106,7 @@ Congressional Findings.—Congress finds the following:
 
 &emsp;"(2) Since September 11, 2001, the Government of Pakistan has been a critical ally and an important partner in removing the Taliban regime in Afghanistan and combating al Qaeda.
 
-&emsp;"(3) Pakistan has made great sacrifices in the shared struggle against al Qaeda-affiliated terroristgroups, engaging in military operations that have led to the deaths of hundreds of Pakistani security personnel and enduring acts of terrorism that have killed hundreds of Pakistani civilians.
+&emsp;"(3) Pakistan has made great sacrifices in the shared struggle against al Qaeda-affiliated terrorist groups, engaging in military operations that have led to the deaths of hundreds of Pakistani security personnel and enduring acts of terrorism that have killed hundreds of Pakistani civilians.
 
 &emsp;"(4) Publicly-stated goals of the Government of Pakistan and the national interests of the United States are in close agreement in many areas, including—
 
@@ -150,7 +150,7 @@ Statements of Policy.—The following shall be the policy of the United States:
 
 &emsp;"(3) To support robust funding for programs of the United States Agency for International Development and the Department of State that assist the Government of Pakistan in working toward the goals described in subsection (a)(4), as the Government of Pakistan demonstrates a clear commitment to building a moderate, democratic state.
 
-&emsp;"(4) To work with the international community to secure additional financial and political support to effectively implement the policies set forth in this subsection.
+&emsp;"(4) To work with the international community to secure additional financial and political support toeffectively implement the policies set forth in this subsection.
 
 &emsp;"(5) To facilitate a just resolution of the dispute over the territory of Kashmir, to the extent that such facilitation is invited and welcomed by the Governments of Pakistan and India and by the people of Kashmir.
 

@@ -62,7 +62,7 @@ In general.—Except as provided under paragraph (2), a person subject to the ju
 
 &emsp;(2)
 
-Exception.—Paragraph (1) shall not apply to any person who is unable to pay acivil penalty because such person is a debtor in a case under chapter 11 of title 11.
+Exception.—Paragraph (1) shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11.
 
 &emsp;(3)
 

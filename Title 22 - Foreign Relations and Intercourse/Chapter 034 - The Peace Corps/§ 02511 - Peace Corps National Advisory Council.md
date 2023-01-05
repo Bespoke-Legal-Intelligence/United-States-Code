@@ -86,7 +86,7 @@ The Director of the Peace Corps shall make available to the Council such personn
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1) and (d)(1)(A), was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in subsecs. (b)(1) and (d)(1)(A), was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Prior Provisions
 
@@ -104,9 +104,9 @@ For termination, effective May 15, 2000, of provisions in subsec. (i) of this se
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Termination of Similar Advisory Body
 
-Pub. L. 99–83, title XI, §1104(b), Aug. 8, 1985, 99 Stat. 275, provided that: "Any advisory body carrying out functions similar to those assigned to the Peace Corps National Advisory Council provided for in subsection\(a) \[enacting this section\] shall cease to exist sixty days after the date of the enactment of this Act \[Aug. 8, 1985\]."
+Pub. L. 99–83, title XI, §1104(b), Aug. 8, 1985, 99 Stat. 275, provided that: "Any advisory body carrying out functions similar to those assigned to the Peace Corps National Advisory Council provided for in subsection (a) \[enacting this section\] shall cease to exist sixty days after the date of the enactment of this Act \[Aug. 8, 1985\]."
 

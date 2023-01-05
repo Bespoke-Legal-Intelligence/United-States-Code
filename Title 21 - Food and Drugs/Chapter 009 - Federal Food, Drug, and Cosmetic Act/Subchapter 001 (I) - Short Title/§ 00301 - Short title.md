@@ -28,6 +28,24 @@ Act June 23, 1939, ch. 242, §§1, 2, 53 Stat. 853, 854, provided that:
 
 Act June 25, 1938, ch. 675, §1002(a), formerly §902(a), 52 Stat. 1059; renumbered §1002(a), Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784, provided that: "This Act \[enacting this chapter and repealing sections 1 to 5 and 7 to 15 of this title\], shall take effect twelve months after the date of its enactment \[June 25, 1938\]. The Federal Food and Drugs Act of June 30, 1906, as amended (U.S.C., 1934 ed., title 21, secs. 1–15), shall remain in force until such effective date, and, except as otherwise provided in this subsection, is hereby repealed effective upon such date: <i>Provided</i>, That the provisions of section 701 \[section 371 of this title\] shall become effective on the enactment of this Act, and thereafter the Secretary is authorized hereby to (1) conduct hearings and to promulgate regulations which shall become effective on or after the effective date of this Act as the Secretary shall direct, and (2) designate prior to the effective date of this Act food having common or usual names and exempt such food from the requirements of clause (2) of section 403(i) \[section 343(i) of this title\] for a reasonable time to permit the formulation, promulgation, and effective application of definitions and standards of identity therefor as provided by section 401 \[section 341 of this title\]: <i>Provided further</i>, That sections 502(j), 505, and 601(a) \[sections 352(j), 355, 361(a), respectively of this title\], and all other provisions of this Act to the extent that they may relate to the enforcement of such sections, shall take effect on the date of the enactment of this Act, except that in the case of a cosmetic to which the proviso of section 601(a) \[section 361(a) of this title\], relates, such cosmetic shall not, prior to the ninetieth day after such date of enactment, be deemed adulterated by reason of the failure of its label to bear the legend prescribed in such proviso: <i>Provided further</i>, That the Act of March 4, 1923 (U.S.C., 1934 ed., title 21, sec. 6 \[section 321a of this title\]; 42 Stat. 1500, ch. 268), defining butter and providing a standard therefor; the Act of July 24, 1919 (U.S.C., 1934 ed., title 21, sec. 10 \[section 321b of this title\]; 41 Stat. 271, ch. 26\], defining wrapped meats as in package form; and the amendment to the Food and Drugs Act, section 10A, approved August 27, 1935 (U.S.C. 1934 ed., Sup. III, title 21, sec. 14a \[section 372a of this title\]) shall remain in force and effect and be applicable to the provisions of this Act."
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–328, div. FF, title III, §3001, Dec. 29, 2022, 136 Stat. 5807, provided that: "This title \[see Tables for classification\] may be cited as the 'Food and Drug Omnibus Reform Act of 2022'."
+
+Pub. L. 117–328, div. FF, title III, §3501, Dec. 29, 2022, 136 Stat. 5847, provided that: "This subtitle \[subtitle E (§§3501–3508), enacting sections 364 to 364j of this title, amending sections 331, 361, 362, 374, and 381 of this title, and enacting provisions set out as notes under sections 331, 364, 364d, and 364e of this title\] may be cited as the 'Modernization of Cosmetics Regulation Act of 2022'."
+
+Pub. L. 117–180, div. F, §1, Sept. 30, 2022, 136 Stat. 2139, provided that: "This division \[see Tables for classification\] may be cited as the 'FDA User Fee Reauthorization Act of 2022'."
+
+Pub. L. 117–180, div. F, title I, §1001(a), Sept. 30, 2022, 136 Stat. 2140, provided that: "This title \[amending sections 379g, 379h, and 379h–2 of this title, enacting notes set out under sections 379g and 379h–2 of this title, and repealing notes set out under sections 379g and 379h–2 ofthis title\] may be cited as the 'Prescription Drug User Fee Amendments of 2022'."
+
+Pub. L. 117–180, div. F, title II, §2001(a), Sept. 30, 2022, 136 Stat. 2147, provided that: "This title \[amending sections 360d, 360m, and 379i to 379j–1 of this title, enacting notes set out under sections 360d, 379i, and 379j–1 of this title, and repealing provisions set out as notes under sections 379i and 379j–1 of this title\] may be cited as the 'Medical Device User Fee Amendments of 2022'."
+
+Pub. L. 117–180, div. F, title III, §3001(a), Sept. 30, 2022, 136 Stat. 2155, provided that: "This title \[amending sections 379j–42 and 379j–43 of this title, enacting provisions set out as notes under sections 379j–41 and 379j–43 of this title, and repealing provisions set out as notes under sections 379j–41 and 379j–43 of this title\] may be cited as the 'Generic Drug User Fee Amendments of 2022'."
+
+Pub. L. 117–180, div. F, title IV, §4001(a), Sept. 30, 2022, 136 Stat. 2160, provided that: "This title \[amending sections 379j–51 to 379j–53 of this title, enacting provisions set out as notes under sections 379j–51 and 379j–53 of this title, and repealing provisions set out as notes under sections 379j–51 and 379j–53 of this title\] may be cited as the 'Biosimilar User Fee Amendments of 2022'."
+
+Pub. L. 117–101, §1, Mar. 15, 2022, 136 Stat. 47, provided that: "This Act \[amending section 379dd of this title and section 290b of Title 42, The Public Health and Welfare\] may be cited as the 'Supporting the Foundation for the National Institutes of Health and the Reagan-Udall Foundation for the Food and Drug Administration Act'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 117–79, §1, Dec. 23, 2021, 135 Stat. 1533, provided that: "This Act \[enacting section 360ee–1 of this title, section 280g–7b of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 360aa and 360ee of this title\] may be cited as the 'Accelerating Access to Critical Therapies for ALS Act'."
@@ -44,7 +62,7 @@ Pub. L. 115–271, §1(a), Oct. 24, 2018, 132 Stat. 3894, provided that: "This A
 
 Pub. L. 115–271, title III, §3011, Oct. 24, 2018, 132 Stat. 3935, provided that: "This chapter \[chapter 2 (§§3011–3014) of subtitle A of title III of Pub. L. 115–271, enacting sections 360bbb–8d and 384f of this title, amending sections 331 and 381 of this title, and enacting provisions set out as a note under section 331 of this title\] may be cited as the 'Stop Counterfeit Drugs by Regulating and Enhancing Enforcement Now Act' or the 'SCREEN Act'."
 
-Pub. L. 115–271, title III, §3021, Oct. 24, 2018, 132 Stat. 3938, provided that: "This chapter \[chapter 3 (§§3021,3022) of subtitle A of title III of Pub. L. 115–271, enacting section 384g of this title and amending sections 331, 335a, and 381 of this title\] may be cited as the 'Stop Illicit Drug Importation Act of 2018'."
+Pub. L. 115–271, title III, §3021, Oct. 24, 2018, 132 Stat. 3938, provided that: "This chapter \[chapter 3 (§§3021, 3022) of subtitle A of title III of Pub. L. 115–271, enacting section 384g of this title and amending sections 331, 335a, and 381 of this title\] may be cited as the 'Stop Illicit Drug Importation Act of 2018'."
 
 Pub. L. 115–271, title III, §3031, Oct. 24, 2018, 132 Stat. 3940, provided that: "This chapter \[chapter 4 (§§3031, 3032) of subtitle A of title III of Pub. L. 115–271, amending section 355–1 of this title\] may be cited as the 'Securing Opioids and Unused Narcotics with Deliberate Disposal and Packaging Act of 2018' or the 'SOUND Disposal and Packaging Act'."
 
@@ -72,7 +90,7 @@ Pub. L. 115–52, title IV, §401(a), Aug. 18, 2017, 131 Stat. 1028, provided th
 
 Pub. L. 114–229, §1, Sept. 30, 2016, 130 Stat. 943, provided that: "This Act \[amending section 360ff of this title and enacting provisions set out as a note under section 360ff of this title\] may be cited as the 'Advancing Hope Act of 2016'."
 
-Pub. L. 114–146, §1, Apr. 19, 2016, 130 Stat. 357, provided that: "This Act \[amending section 360n of this title\] may be cited as the 'Adding Zika Virus to the FDA Priority Review Voucher Program Act'."
+Pub. L. 114–146, §1, Apr. 19, 2016, 130 Stat. 357, provided that: "This Act \[amending section 360n of this title\]may be cited as the 'Adding Zika Virus to the FDA Priority Review Voucher Program Act'."
 
 #### Short Title of 2015 Amendment
 
@@ -98,7 +116,7 @@ Pub. L. 113–14, §1, June 13, 2013, 127 Stat. 451, provided that: "This Act \[
 
 Pub. L. 113–14, title I, §101(a), June 13, 2013, 127 Stat. 451, provided that: "This title \[amending sections 379j–11 to 379j–13 of this title, enacting provisions set out as notes under sections 379j–11 to 379j–13 of this title, and repealing provisions set out as notes under section 379j–11 of this title\] may be cited as the 'Animal Drug User Fee Amendments of 2013'."
 
-Pub. L. 113–14, title II, §201(a), June 13, 2013, 127 Stat. 464, provided that: "This title \[amending sections 379j–21 and 379j–22 of this title, enacting provisions set out as notes under sections 379j–21 and 379j–22 of this title, and repealing provisions set out as notes under sections 379j–21 and 379j–22 of this title\] may be cited asthe 'Animal Generic Drug User Fee Amendments of 2013'."
+Pub. L. 113–14, title II, §201(a), June 13, 2013, 127 Stat. 464, provided that: "This title \[amending sections 379j–21 and 379j–22 of this title, enacting provisions set out as notes under sections 379j–21 and 379j–22 of this title, and repealing provisions set out as notes under sections 379j–21 and 379j–22 of this title\] may be cited as the 'Animal Generic Drug User Fee Amendments of 2013'."
 
 #### Short Title of 2012 Amendment
 
@@ -150,7 +168,7 @@ Pub. L. 109–43, §1, Aug. 1, 2005, 119 Stat. 439, provided that: "This Act \[a
 
 #### Short Title of 2004 Amendments
 
-Pub. L. 108–282, title I, §101, Aug. 2, 2004, 118 Stat. 891, provided that: "This title \[enacting sections 360ccc to360ccc–2 of this title, amending sections 321, 331, 352, 353, 354, and 360b of this title, enacting provisions set out as notes under sections 360ccc and 393 of this title, and amending provisions set out as a note under section 360b of this title\] may be cited as the 'Minor Use and Minor Species Animal Health Act of 2004'."
+Pub. L. 108–282, title I, §101, Aug. 2, 2004, 118 Stat. 891, provided that: "This title \[enacting sections 360ccc to 360ccc–2 of this title, amending sections 321, 331, 352, 353, 354, and 360b of this title, enacting provisions set out as notes under sections 360ccc and 393 of this title, and amending provisions set out as a note under section 360b of this title\] may be cited as the 'Minor Use and Minor Species Animal Health Act of 2004'."
 
 Pub. L. 108–282, title II, §201, Aug. 2, 2004, 118 Stat. 905, provided that: "This title \[enacting section 374a of this title and section 242r of Title 42, The Public Health and Welfare, amending sections 321, 343, and 343–1 of this title, and enacting provisions set out as notes under sections 321 and 343 of this title and sections 243 and 300d–2 of Title 42\] may be cited as the 'Food Allergen Labeling and Consumer Protection Act of 2004'."
 
@@ -234,7 +252,7 @@ Pub. L. 100–607, title V, §501, Nov. 4, 1988, 102 Stat. 3120, provided that: 
 
 Pub. L. 100–293, §1(a), Apr. 22, 1988, 102 Stat. 95, provided that: "This Act \[amending sections 331, 333, 353, and 381 of this title and enacting provisions set out as notes under section 353 of this title\] may be cited as the 'Prescription Drug Marketing Act of 1987'."
 
-Pub. L. 100–290, §1, Apr. 18, 1988, 102 Stat. 90, provided that: "This Act \[amending sections 360bb and 360ee of this title, enacting provisions set out as a note under section 360aa of this title, and amending provisions set out as a note under section 236 of Title 42, The Public Health and Welfare\] may be cited as the 'Orphan Drug Amendments of 1988'."
+Pub. L. 100–290, §1, Apr. 18, 1988, 102 Stat. 90, provided that: "This Act \[amending sections 360bb and 360ee of this title, enacting provisions set out as a note undersection 360aa of this title, and amending provisions set out as a note under section 236 of Title 42, The Public Health and Welfare\] may be cited as the 'Orphan Drug Amendments of 1988'."
 
 #### Short Title of 1986 Amendment
 
@@ -264,7 +282,7 @@ Pub. L. 96–359, §1, Sept. 26, 1980, 94 Stat. 1190, provided: "That this Act \
 
 #### Short Title of 1977 Amendment
 
-Pub. L. 95–203, §1, Nov. 23, 1977, 91 Stat. 1451, provided that: "This Act \[enacting section 343a of this title,amending sections 321 and 343 of this title, enacting provisions set out as notes under sections 343 and 348 of this title, and amending provisions set out as notes under sections 218 and 289l–1 of Title 42, The Public Health and Welfare\] may be cited as the 'Saccharin Study and Labeling Act'."
+Pub. L. 95–203, §1, Nov. 23, 1977, 91 Stat. 1451, provided that: "This Act \[enacting section 343a of this title, amending sections 321 and 343 of this title, enacting provisions set out as notes under sections 343 and 348 of this title, and amending provisions set out as notes under sections 218 and 289l–1 of Title 42, The Public Health and Welfare\] may be cited as the 'Saccharin Study and Labeling Act'."
 
 #### Short Title of 1976 Amendment
 
@@ -298,7 +316,7 @@ Pub. L. 85–929, §1, Sept. 6, 1958, 72 Stat. 1784, provided: "That this Act \[
 
 #### Severability
 
-Pub. L. 113–54, title I, §106(b), Nov. 27, 2013, 127 Stat. 598, provided that: "If any provision of this Act \[see Short Title of 2013 Amendment note above\] (including the amendments made by this Act) is declared unconstitutional, or the applicability of this Act (including the amendments made by this Act) to any person or circumstance is held invalid, the constitutionality of the remainder of this Act (including the amendments made by this Act) and the applicability thereof to other persons and circumstances shall not be affected."
+Pub. L. 113–54, title I, §106(b), Nov. 27, 2013, 127 Stat. 598, provided that: "If any provision of this Act \[see Short Title of 2013 Amendment note above\] (including the amendments made by this Act) is declared unconstitutional, or the applicability of this Act (including the amendments made by this Act) to any person or circumstance is held invalid, the constitutionality ofthe remainder of this Act (including the amendments made by this Act) and the applicability thereof to other persons and circumstances shall not be affected."
 
 Pub. L. 110–85, title XI, §1105, Sept. 27, 2007, 121 Stat. 975, provided that: "If any provision of this Act \[see Short Title of 2007 Amendment note above\], an amendment made \[by\] this Act, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this Act, the amendments made by this Act, and the application of the provisions of such to any person or circumstances shall not be affected thereby."
 

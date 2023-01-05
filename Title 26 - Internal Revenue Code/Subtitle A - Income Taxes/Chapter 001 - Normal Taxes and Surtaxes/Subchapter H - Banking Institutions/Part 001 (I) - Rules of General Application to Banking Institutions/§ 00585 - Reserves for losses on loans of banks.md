@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) the balance of the reserve at the close of the base year, or
 
-&emsp;&emsp;&emsp;(ii) if the amount of loans outstanding at the close of the taxable year is less thanthe amount of loans outstanding at the close of the base year, the amount which bears the same ratio to loans outstanding at the close of the taxable year as the balance of the reserve at the close of the base year bears to the amount of loans outstanding at the close of the base year.
+&emsp;&emsp;&emsp;(ii) if the amount of loans outstanding at the close of the taxable year is less than the amount of loans outstanding at the close of the base year, the amount which bears the same ratio to loans outstanding at the close of the taxable year as the balance of the reserve at the close of the base year bears to the amount of loans outstanding at the close of the base year.
 
 > &emsp;For purposes of this paragraph, the base year shall be the last taxable year before the most recent adoption of the experience method, except that for taxable years beginning after 1987 the base year shall be the last taxable year beginning before 1988.
 
@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;In the case of a large bank, this section shall not apply (and no deduction shall be allowed under any other provision of this subtitle for any addition to a reserve for bad debts).
+&emsp;In the case of a large bank, this section shall not apply (and no deduction shall be allowedunder any other provision of this subtitle for any addition to a reserve for bad debts).
 
 #### (2) Large banks
 
@@ -124,7 +124,7 @@
 
 #### (C) Coordination with estimated tax payments
 
-&emsp;&emsp;For purposes of applying section 6655(e)(2)(A)(i) with respect to any installment, the determination under subparagraph (B) of whether an adjustment is required tobe taken into account under subparagraph (A) shall be made as of the last day prescribed for payment of such installment.
+&emsp;&emsp;For purposes of applying section 6655(e)(2)(A)(i) with respect to any installment, the determination under subparagraph (B) of whether an adjustment is required to be taken into account under subparagraph (A) shall be made as of the last day prescribed for payment of such installment.
 
 #### (4) Elective cut-off method
 
@@ -136,7 +136,7 @@
 
 &emsp;&emsp;(C) no deduction shall be allowed under this section (or any other provision of this subtitle) for any addition to such reserve for the disqualification year or any subsequent taxable year.
 
-> &emsp;If the amount of the reserve referred to in subparagraph (B) as of the close of any taxable year exceeds the outstanding balance (as of such time) of the loans referred to in subparagraph (B), such excess shall be included in gross income for such taxable year.
+> &emsp;If the amount of the reserve referred to in subparagraph (B) as of the close of any taxableyear exceeds the outstanding balance (as of such time) of the loans referred to in subparagraph (B), such excess shall be included in gross income for such taxable year.
 
 #### (5) Definitions
 

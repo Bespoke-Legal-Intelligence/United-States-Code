@@ -10,7 +10,7 @@ For purposes of this chapter, the State of Alaska shall be divided by the Secret
 
 &emsp;(3) Northwest Alaska Native Association (Kotzebue);
 
-&emsp;(4) Association of Village Council Presidents (southwest coast, all villages in the Bethel area, including all villages on the LowerYukon River and the Lower Kuskokwim River);
+&emsp;(4) Association of Village Council Presidents (southwest coast, all villages in the Bethel area, including all villages on the Lower Yukon River and the Lower Kuskokwim River);
 
 &emsp;(5) Tanana Chiefs' Conference (Koyukuk, Middle and Upper Yukon Rivers, Upper Kuskokwim, Tanana River);
 
@@ -74,7 +74,7 @@ Conditions on certain stock.—
 
 &emsp;&emsp;(I)
 
-In general.—An amendment under clause (i) may provide that Settlement Common Stock issued to a Native pursuant to the amendment (or stock issued in exchangefor that Settlement Common Stock pursuant to subsection (h)(3) or section 1626(c)(3)(D) of this title) shall be subject to 1 or more of the conditions described in subclause (II).
+In general.—An amendment under clause (i) may provide that Settlement Common Stock issued to a Native pursuant to the amendment (or stock issued in exchange for that Settlement Common Stock pursuant to subsection (h)(3) or section 1626(c)(3)(D) of this title) shall be subject to 1 or more of the conditions described in subclause (II).
 
 &emsp;&emsp;(II)
 
@@ -138,7 +138,7 @@ Conditions.—A condition referred to in subclause (I) is a condition that—
 
 &emsp;(D) During any period in which alienability restrictions are in effect, no stock whose issuance is authorized by subparagraph (A) shall be—
 
-&emsp;&emsp;(i) issued to, or for the benefit of, a group of individuals composed only or principally of employees, officers, and directors of the corporation; or
+&emsp;&emsp;(i) issued to, or for the benefit of, a group of individuals composed only or principallyof employees, officers, and directors of the corporation; or
 
 &emsp;&emsp;(ii) issued more than thirteen months after the date on which the vote of the shareholders on the amendment authorizing the issuance of such stock occurred if, as a result of the issuance, the outstanding shares of Settlement Common Stock will represent less than a majority of the total voting power of the corporation for the purpose of electing directors.
 
@@ -354,7 +354,7 @@ The Regional Corporation may undertake on behalf of one or more of the Village C
 
 #### (o) Annual audit; place; availability of papers, things, or property to auditors to facilitate audits; verification of transactions; report to stockholders
 
-The accounts of the Regional Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of the State or the United States. The audits shall be conducted at the place or places where the accounts of the Regional Corporation are normally kept. All books, accounts, financial records, reports, files, and other papers, things, or property belonging to or in use by the Regional Corporation and necessary to facilitate the audits shall be available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agent, and custodians shall be afforded to such person or persons. Each audit report or a fair and reasonably detailed summary thereof shall be transmitted to each stockholder.
+The accounts of the Regional Corporation shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants, certified or licensed by a regulatory authority of the State or the United States. The audits shall be conducted at the place or places where the accounts of the Regional Corporation are normally kept. All books, accounts, financial records, reports,files, and other papers, things, or property belonging to or in use by the Regional Corporation and necessary to facilitate the audits shall be available to the person or persons conducting the audits; and full facilities for verifying transactions with the balances or securities held by depositories, fiscal agent, and custodians shall be afforded to such person or persons. Each audit report or a fair and reasonably detailed summary thereof shall be transmitted to each stockholder.
 
 #### (p) Federal-State conflict of laws
 
@@ -366,7 +366,7 @@ Two or more Regional Corporations may contract with the same business management
 
 #### (r) Benefits for shareholders or immediate families
 
-The authority of a Native Corporation to provide benefits to its shareholders who are Natives or descendants of Natives or to its shareholders'immediate family members who are Natives or descendants of Natives to promote the health, education, or welfare of such shareholders or family members is expressly authorized and confirmed. Eligibility for such benefits need not be based on share ownership in the Native Corporation and such benefits may be provided on a basis other than pro rata based on share ownership.
+The authority of a Native Corporation to provide benefits to its shareholders who are Natives or descendants of Natives or to its shareholders' immediate family members who are Natives or descendants of Natives to promote the health, education, or welfare of such shareholders or family members is expressly authorized and confirmed. Eligibility for such benefits need not be based on share ownership in the Native Corporation and such benefits may be provided on a basis other than pro rata based on share ownership.
 
 (Pub. L. 92–203, §7, Dec. 18, 1971, 85 Stat. 691; Pub. L. 96–487, title XIV, §1401(a), (c), Dec. 2, 1980, 94 Stat. 2491, 2492; Pub. L. 100–241, §§4, 5, 12(a), Feb. 3, 1988, 101 Stat. 1790, 1792, 1810; Pub. L. 102–415, §§4, 8, Oct. 14, 1992, 106 Stat. 2113, 2114; Pub. L. 104–10, §1(a), May 18, 1995, 109 Stat. 155; Pub. L. 104–42, title I, §109(a), Nov. 2, 1995, 109 Stat. 357; Pub. L. 105–333, §§8, 12, Oct. 31, 1998, 112 Stat. 3134, 3135; Pub. L. 106–194, §2, May 2, 2000, 114 Stat. 242; Pub. L. 110–453, title II, §206, Dec. 2, 2008, 122 Stat. 5030.)
 

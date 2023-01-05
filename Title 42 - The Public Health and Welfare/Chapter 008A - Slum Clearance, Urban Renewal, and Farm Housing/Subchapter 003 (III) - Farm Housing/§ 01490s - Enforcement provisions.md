@@ -30,7 +30,7 @@
 
 #### (2) Conditions for renewal or extension
 
-&emsp;The Secretary may require that expiring loan or assistance agreements entered into under this subchapter shall not be renewed or extended unless the owner executes an agreement to comply with additional conditions prescribed by the Secretary, or executes a new loan or assistance agreement in the form prescribed by the Secretary.
+&emsp;The Secretary may require that expiring loan or assistance agreements entered intounder this subchapter shall not be renewed or extended unless the owner executes an agreement to comply with additional conditions prescribed by the Secretary, or executes a new loan or assistance agreement in the form prescribed by the Secretary.
 
 #### (3) Amount
 
@@ -70,7 +70,7 @@
 
 #### (A) Judicial intervention
 
-&emsp;&emsp;If a person or entity fails to comply with a final determination by the Secretary imposing a civil monetary penalty under this subsection, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against such individual or entityand such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorney's fees and other expenses incurred by the United States in connection with the action.
+&emsp;&emsp;If a person or entity fails to comply with a final determination by the Secretary imposing a civil monetary penalty under this subsection, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against such individual or entity and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorney's fees and other expenses incurred by the United States in connection with the action.
 
 #### (B) Reviewability of determination
 

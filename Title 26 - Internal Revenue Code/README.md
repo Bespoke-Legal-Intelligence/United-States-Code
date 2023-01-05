@@ -15673,7 +15673,7 @@ This Table of Contents is inserted for the convenience of users and was not enac
 | [<b>34.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20034%20-%20Taxes%20on%20Certain%20Insurance%20Policies/README.md) | <b>Taxes on certain insurance policies</b> | <b>4371</b> |
 | [<b>35.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20035%20-%20Taxes%20on%20Wagering/README.md) | <b>Taxes on wagering</b> | <b>4401</b> |
 | [<b>36.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20036%20-%20Certain%20Other%20Excise%20Taxes/README.md) | <b>Certain other excise taxes</b> | <b>4461</b> |
-| <b>\[37.</b> | <b>Repealed.\]</b> |  |
+| [<b>37.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20037%20-%20Repurchase%20of%20Corporate%20Stock/README.md) | <b>Repurchase of corporate stock</b> | <b>4501</b> |
 | <b>38.</b> | <b>Environmental taxes</b> | <b>4611</b> |
 | [<b>39.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20039%20-%20Registration-Required%20Obligations/README.md) | <b>Registration-required obligations</b> | <b>4701</b> |
 | [<b>40.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20040%20-%20General%20Provisions%20Relating%20to%20Occupational%20Taxes/README.md) | <b>General provisions relating to occupational taxes</b> | <b>4901</b> |
@@ -15687,6 +15687,7 @@ This Table of Contents is inserted for the convenience of users and was not enac
 | [<b>48.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20048%20-%20Maintenance%20of%20Minimum%20Essential%20Coverage/README.md) | <b>Maintenance of minimum essential coverage</b> | <b>5000A</b> |
 | [<b>49.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20049%20-%20Cosmetic%20Services/README.md) | <b>Cosmetic services</b> | <b>5000B</b> |
 | [<b>50.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20050%20-%20Foreign%20Procurement/README.md) | <b>Foreign procurement</b> | <b>5000C</b> |
+| [<b>50A.</b>](Subtitle%20D%20-%20Miscellaneous%20Excise%20Taxes/Chapter%20050A%20-%20Designated%20Drugs/README.md) | <b>Designated drugs</b> | <b>5000D</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

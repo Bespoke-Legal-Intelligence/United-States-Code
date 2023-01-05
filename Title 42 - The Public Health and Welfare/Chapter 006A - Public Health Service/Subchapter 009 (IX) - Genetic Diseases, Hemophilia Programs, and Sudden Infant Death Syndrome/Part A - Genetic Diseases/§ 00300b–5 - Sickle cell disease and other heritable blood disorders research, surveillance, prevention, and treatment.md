@@ -6,7 +6,7 @@
 
 &emsp;The Secretary may award grants related to heritable blood disorders, including sickle cell disease, for one or more of the following purposes:
 
-&emsp;&emsp;(A) To collect and maintain data on such diseases and conditions, including subtypes as applicable, and their associated health outcomes and complications, including for the purpose of—
+&emsp;&emsp;(A) To collect and maintain data on such diseases and conditions, including subtypesas applicable, and their associated health outcomes and complications, including for the purpose of—
 
 &emsp;&emsp;&emsp;(i) improving national incidence and prevalence data;
 
@@ -158,7 +158,7 @@ Another prior section 300b–5, act July 1, 1944, ch. 373, title XI, §1106, as 
 
 Pub. L. 115–327, §3(a)(1), substituted "sickle cell disease" for "Sickle Cell Disease" wherever appearing.
 
-Subsec. (b)(1)(A). Pub. L. 115–327, §3(a)(2), substituted "shall continue efforts, including by awarding grants, to develop or establish mechanisms to improve the treatment of sickle cell disease, and to improve the prevention and treatment of complications of sickle cell disease, in populations with a high proportion of individuals with sickle cell disease" for "shall conduct a demonstration program by making grants to up to 40 eligible entities for each fiscal year in which the program is conducted under this section for the purpose of developing and establishing systemic mechanisms to improve the prevention and treatment of Sickle Cell Disease".
+Subsec. (b)(1)(A). Pub. L. 115–327, §3(a)(2), substituted "shall continue efforts, including by awarding grants, to develop or establish mechanisms to improve the treatment of sickle cell disease, and to improve the prevention and treatment of complications of sickle cell disease, in populations with a high proportion of individuals with sickle cell disease" for "shall conduct a demonstration program by making grants to up to 40 eligible entities for each fiscal year in which the program is conducted under this section for the purpose of developing and establishing systemic mechanisms toimprove the prevention and treatment of Sickle Cell Disease".
 
 Subsec. (b)(1)(B). Pub. L. 115–327, §3(a)(3), substituted "Geographic diversity" for "Grant award requirements" in heading, struck out cl. (i) designation and heading before "The Administrator shall", and struck out cl. (ii) which related to priority in awarding grants.
 

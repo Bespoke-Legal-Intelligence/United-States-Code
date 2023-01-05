@@ -18,5 +18,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date
 
-Pub. L. 97–60, title II, §203(d), Oct. 14, 1981, 95 Stat. 1007, provided that: "The amendments made by this section \[enacting this section and section 9341a of this title and amending sections 4342, 6953, 6954, and 9342 of this title\] shall take effect with respect to nominations for appointment to the first class admitted to eachAcademy after the date of the enactment of this Act \[Oct. 14, 1981\]."
+Pub. L. 97–60, title II, §203(d), Oct. 14, 1981, 95 Stat. 1007, provided that: "The amendments made by this section \[enacting this section and section 9341a of this title and amending sections 4342, 6953, 6954, and 9342 of this title\] shall take effect with respect to nominations for appointment to the first class admitted to each Academy after the date of the enactment of this Act \[Oct. 14, 1981\]."
 

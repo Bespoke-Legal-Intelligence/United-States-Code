@@ -8,7 +8,7 @@
 
 (2) Any other rule prescribed by a court other than the Supreme Court under subsection (a) shall remain in effect unless modified or abrogated by the Judicial Conference.
 
-(d) Copies of rules prescribed under subsection (a) by a district court shall be furnished to the judicial council, and copies of all rules prescribed by a court other than the Supreme Court under subsection (a) shall be furnished to the Director of the Administrative Office of the United States Courts and made available to the public.
+(d) Copies of rules prescribed under subsection (a) by a district court shall be furnished to the judicial council, and copies of all rules prescribed by a court other than the Supreme Courtunder subsection (a) shall be furnished to the Director of the Administrative Office of the United States Courts and made available to the public.
 
 (e) If the prescribing court determines that there is an immediate need for a rule, such court may proceed under this section without public notice and opportunity for comment, but such court shall promptly thereafter afford such notice and opportunity for comment.
 
@@ -54,7 +54,7 @@ This amendment clarifies section 2071 of title 28, U.S.C., by giving express rec
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–702, title IV, §407, Nov. 19, 1988, 102 Stat. 4652, provided that: "This title \[enacting sections 2072 to 2074 of this title, amending this section, sections 331, 332, 372, 604, 636, and 2077 of this title, section 460n–8 of Title 16, Conservation, and section 3402 of Title 18, Crimes and Criminal Procedure, repealing former section 2072 and section 2076 of this title and sections 3771and 3772 of Title 18, and enacting provisions set out as notes under this section\] shall take effect on December 1, 1988."
+Pub. L. 100–702, title IV, §407, Nov. 19, 1988, 102 Stat. 4652, provided that: "This title \[enacting sections 2072 to 2074 of this title, amending this section, sections 331, 332, 372, 604, 636, and 2077 of this title, section 460n–8 of Title 16, Conservation, and section 3402 of Title 18, Crimes and Criminal Procedure, repealing former section 2072 and section 2076 of this title and sections 3771 and 3772 of Title 18, and enacting provisions set out as notes under this section\] shall take effect on December 1, 1988."
 
 #### Effective Date of 1983 Amendment
 
@@ -70,7 +70,7 @@ Pub. L. 100–702, title IV, §406, Nov. 19, 1988, 102 Stat. 4652, provided that
 
 #### Rulemaking Authority of Supreme Court and Judicial Conference
 
-Pub. L. 109–2, §8, Feb. 18, 2005, 119 Stat. 14, provided that: "Nothing in this Act \[see Short Title of 2005 Amendments note set out under section 1 of this title\] shall restrict in any way the authority of the Judicial Conference and the Supreme Court to propose and prescribe general rules of practice and procedure under chapter 131 of title 28, United States Code."
+Pub. L. 109–2, §8, Feb. 18, 2005, 119 Stat. 14, provided that: "Nothing in this Act \[see Short Title of 2005 Amendments note set out under section 1 of this title\] shall restrict in any way the authority of the JudicialConference and the Supreme Court to propose and prescribe general rules of practice and procedure under chapter 131 of title 28, United States Code."
 
 #### Tax Court Rulemaking Not Affected
 

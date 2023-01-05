@@ -48,7 +48,7 @@ Nutrition Services Transfer Criteria.—During any portion of the COVID–19 pub
 
 "(c)
 
-Home-delivered Nutrition Services Waiver.—For purposes of State agencies' determining the delivery of nutrition services under section 337 of the Older Americans Act of 1965 (42 U.S.C. 3030g), during the period of the COVID–19 public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), the same meaning shall be given to an individual who is unable to obtain nutrition because the individual is practicing social distancing due to the emergency as is given to an individual who is homebound by reason of illness.
+Home-delivered Nutrition Services Waiver.—For purposes of State agencies' determining the delivery of nutrition services under section 337 of the Older Americans Act of 1965 (42 U.S.C. 3030g), during the period of the COVID–19 public health emergency declared under section 319 of the Public Health Service Act (42U.S.C. 247d), the same meaning shall be given to an individual who is unable to obtain nutrition because the individual is practicing social distancing due to the emergency as is given to an individual who is homebound by reason of illness.
 
 "(d)
 

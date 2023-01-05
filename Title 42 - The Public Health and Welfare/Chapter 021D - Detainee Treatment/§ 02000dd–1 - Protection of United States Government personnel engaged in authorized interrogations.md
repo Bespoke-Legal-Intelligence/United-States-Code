@@ -6,7 +6,7 @@ In any civil action or criminal prosecution against an officer, employee, member
 
 #### (b) Counsel
 
-The United States Government shall provide or employ counsel, and pay counsel fees, court costs, bail, and other expenses incident to the representation of an officer, employee, member of the Armed Forces, or other agent described in subsection (a), with respect to any civil action or criminal prosecution or investigation arising out of practices described in that subsection, whether before United States courts or agencies, foreign courts or agencies, or international courts or agencies, under the same conditions, and to the same extent, to which such services and payments are authorized under section 1037 of title 10.
+The United States Government shall provide or employ counsel, and pay counsel fees, courtcosts, bail, and other expenses incident to the representation of an officer, employee, member of the Armed Forces, or other agent described in subsection (a), with respect to any civil action or criminal prosecution or investigation arising out of practices described in that subsection, whether before United States courts or agencies, foreign courts or agencies, or international courts or agencies, under the same conditions, and to the same extent, to which such services and payments are authorized under section 1037 of title 10.
 
 (Pub. L. 109–148, div. A, title X, §1004, Dec. 30, 2005, 119 Stat. 2740; Pub. L. 109–163, div. A, title XIV, §1404, Jan. 6, 2006, 119 Stat. 3475; Pub. L. 109–366, §8(a), Oct. 17, 2006, 120 Stat. 2636; Pub. L. 110–181, div. A, title X, §1063(d)(1), Jan. 28, 2008, 122 Stat. 323; Pub. L. 110–417, \[div. A\], title X, §1061(b)(10), Oct. 14, 2008, 122 Stat. 4613.)
 
@@ -14,7 +14,7 @@ The United States Government shall provide or employ counsel, and pay counsel fe
 
 #### Codification
 
-Pub. L. 109–148 and Pub. L. 109–163 enacted identical sections. The section enacted by Pub. L. 109–148, butnot the section enacted by Pub. L. 109–163, was amended by Pub. L. 109–366, see 2006 Amendment notes below. The text of this section is based on the text of section 1004 of Pub. L. 109–148 as amended by Pub. L. 109–366.
+Pub. L. 109–148 and Pub. L. 109–163 enacted identical sections. The section enacted by Pub. L. 109–148, but not the section enacted by Pub. L. 109–163, was amended by Pub. L. 109–366, see 2006 Amendment notes below. The text of this section is based on the text of section 1004 of Pub. L. 109–148 as amended by Pub. L. 109–366.
 
 #### Amendments
 

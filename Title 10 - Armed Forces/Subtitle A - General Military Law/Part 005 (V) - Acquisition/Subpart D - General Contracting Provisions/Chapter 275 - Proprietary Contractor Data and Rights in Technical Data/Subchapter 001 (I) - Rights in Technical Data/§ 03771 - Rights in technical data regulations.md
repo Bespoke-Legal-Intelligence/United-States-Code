@@ -22,7 +22,7 @@ Required Provisions.—Regulations prescribed under subsection (a) shall include
 
 &emsp;(1)
 
-Development exclusively with federal funds.—In the case of an item or process thatis developed by a contractor or subcontractor exclusively with Federal funds (other than an item or process developed under a contract or subcontract to which regulations under section 9(j)(2) of the Small Business Act (15 U.S.C. 638(j)(2)) apply), the United States shall have the unlimited right to—
+Development exclusively with federal funds.—In the case of an item or process that is developed by a contractor or subcontractor exclusively with Federal funds (other than an item or process developed under a contract or subcontract to which regulations under section 9(j)(2) of the Small Business Act (15 U.S.C. 638(j)(2)) apply), the United States shall have the unlimited right to—
 
 &emsp;&emsp;(A) use technical data pertaining to the item or process; or
 
@@ -92,7 +92,7 @@ Modular system interfaces developed exclusively at private expense or with mixed
 
 &emsp;&emsp;(B) Such modular system interface shall be identified in the contract solicitation and the contract.
 
-&emsp;&emsp;(C) For technical data pertaining to a modular system interface developed exclusively at private expense for which the United States asserts government purposerights, the Secretary of Defense shall negotiate with the contractor the appropriate and reasonable compensation for such technical data.
+&emsp;&emsp;(C) For technical data pertaining to a modular system interface developed exclusively at private expense for which the United States asserts government purpose rights, the Secretary of Defense shall negotiate with the contractor the appropriate and reasonable compensation for such technical data.
 
 &emsp;(8)
 

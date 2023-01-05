@@ -24,7 +24,7 @@ Section 929 of this title, referred to in subsec. (b), was repealed by Pub. L. 1
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a)(1). Pub. L. 106–65, §354(5)(A), substituted "The Director may from time to time, but notmore frequently than once a year, provide for" for "As soon as practicable after November 1, 1978, the Director shall provide for" and "system. Any such study" for "system, which".
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–65, §354(5)(A), substituted "The Director may from time to time, but not more frequently than once a year, provide for" for "As soon as practicable after November 1, 1978, the Director shall provide for" and "system. Any such study" for "system, which".
 
 Subsec. (a)(2). Pub. L. 106–65, §354(5)(B), substituted "Any study under paragraph (1)" for "The study required by this subsection" and struck out "not later than two years after July 1, 1979," after "shall submit a report to the Director".
 

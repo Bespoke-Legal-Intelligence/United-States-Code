@@ -28,5 +28,5 @@ Former subchapter IX of this chapter was redesignated as this subchapter.
 - [&sect; 00399e - Nanotechnology](%C2%A7%2000399e%20-%20Nanotechnology.md)
 - [&sect; 00399f - Ensuring adequate information regarding pharmaceuticals for all populations, particularly underrepresented subpopulations, including&#8230;](%C2%A7%2000399f%20-%20Ensuring%20adequate%20information%20regarding%20pharmaceuticals%20for%20all%20populations%2C%20particularly%20underrepresented%20subpopulations%2C%20including%E2%80%A6.md)
 - [&sect; 00399g - Food and Drug Administration Intercenter Institutes](%C2%A7%2000399g%20-%20Food%20and%20Drug%20Administration%20Intercenter%20Institutes.md)
-- [&sect; 00399h - Grants for studying continuous drug manufacturing](%C2%A7%2000399h%20-%20Grants%20for%20studying%20continuous%20drug%20manufacturing.md)
+- [&sect; 00399h - National Centers of Excellence in Advanced and Continuous Pharmaceutical Manufacturing](%C2%A7%2000399h%20-%20National%20Centers%20of%20Excellence%20in%20Advanced%20and%20Continuous%20Pharmaceutical%20Manufacturing.md)
 - [&sect; 00399i - Food and Drug Administration Working Capital Fund](%C2%A7%2000399i%20-%20Food%20and%20Drug%20Administration%20Working%20Capital%20Fund.md)

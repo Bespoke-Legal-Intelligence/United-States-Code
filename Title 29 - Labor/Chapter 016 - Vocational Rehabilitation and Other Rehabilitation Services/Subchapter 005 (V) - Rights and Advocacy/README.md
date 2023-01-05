@@ -14,6 +14,7 @@
 - [&sect; 00794b - Removal of architectural, transportation, or communication barriers; technical and financial assistance; compensation of experts or&#8230;](%C2%A7%2000794b%20-%20Removal%20of%20architectural%2C%20transportation%2C%20or%20communication%20barriers%3B%20technical%20and%20financial%20assistance%3B%20compensation%20of%20experts%20or%E2%80%A6.md)
 - [&sect; 00794c - Interagency Disability Coordinating Council](%C2%A7%2000794c%20-%20Interagency%20Disability%20Coordinating%20Council.md)
 - [&sect; 00794d - Electronic and information technology](%C2%A7%2000794d%20-%20Electronic%20and%20information%20technology.md)
+- [&sect; 00794d&#8211;1 - Reports on accessibility of electronic information to individuals with disabilities](%C2%A7%2000794d%E2%80%931%20-%20Reports%20on%20accessibility%20of%20electronic%20information%20to%20individuals%20with%20disabilities.md)
 - [&sect; 00794e - Protection and advocacy of individual rights](%C2%A7%2000794e%20-%20Protection%20and%20advocacy%20of%20individual%20rights.md)
 - [&sect; 00794f - Establishment of standards for accessible medical diagnostic equipment](%C2%A7%2000794f%20-%20Establishment%20of%20standards%20for%20accessible%20medical%20diagnostic%20equipment.md)
 - [&sect; 00794g - Limitations on use of subminimum wage](%C2%A7%2000794g%20-%20Limitations%20on%20use%20of%20subminimum%20wage.md)

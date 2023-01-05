@@ -6,7 +6,7 @@ The Board of Directors of the Corporation, with the approval of the Secretary of
 
 #### (b) Board determination
 
-The Board, with the approval of the Secretary of the Treasury, shall select the method of transfer and establish terms and conditions for the transfer that will provide the maximum proceeds to the Treasury of the United States and will provide for the long-term viability of theprivate corporation, the continued operation of the gaseous diffusion plants, and the public interest in maintaining reliable and economical domestic uranium mining and enrichment industries.
+The Board, with the approval of the Secretary of the Treasury, shall select the method of transfer and establish terms and conditions for the transfer that will provide the maximum proceeds to the Treasury of the United States and will provide for the long-term viability of the private corporation, the continued operation of the gaseous diffusion plants, and the public interest in maintaining reliable and economical domestic uranium mining and enrichment industries.
 
 #### (c) Adequate proceeds
 
@@ -26,9 +26,9 @@ Expenses of privatization shall be paid from Corporation revenue accounts in the
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (d), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (d), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (d), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (d), is act June 6, 1934, ch. 404, 48 Stat. 881,which is classified principally to chapter 2B (§78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Codification
 

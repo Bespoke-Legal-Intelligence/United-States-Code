@@ -6,7 +6,7 @@
 
 &emsp;(1) shall be equal to the regular first-class rate of postage, plus a differential of not less than 15 percent;
 
-&emsp;(2) shall be set by the Governors in accordance with such procedures as the Governorsshall by regulation prescribe (in lieu of the procedures under chapter 36); and
+&emsp;(2) shall be set by the Governors in accordance with such procedures as the Governors shall by regulation prescribe (in lieu of the procedures under chapter 36); and
 
 &emsp;(3) shall be offered as an alternative to the regular first-class rate of postage.
 

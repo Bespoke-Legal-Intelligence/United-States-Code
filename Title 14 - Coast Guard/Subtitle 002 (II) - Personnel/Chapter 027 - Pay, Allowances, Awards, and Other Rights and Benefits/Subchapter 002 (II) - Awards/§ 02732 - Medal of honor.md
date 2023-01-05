@@ -20,11 +20,11 @@ The language is parallel to that found in title 34, U.S.C., 1946 ed., §354, pro
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §8506(c), substituted "displays conspicuous" for "distinguishes himself conspicuouslyby" and "such individual's" for "his" in introductory provisions.
+<b>2021</b>—Pub. L. 116–283, §8506(c), substituted "displays conspicuous" for "distinguishes himself conspicuously by" and "such individual's" for "his" in introductory provisions.
 
 Pub. L. 116–283, §8505(a)(25), substituted "an individual" for "a person" in introductory provisions.
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 491 of this title as this section.
 
-<b>1963</b>—Pub. L. 88–77 enlarged the authority to award the medal of honor, which was limited to those cases in which persons, while in the service of the Coast Guard, distinguished themselves in action involving actual conflict with an enemy, or in the line of his profession, and without detriment to the mission of his command or to the command to which attached, to permit its award for distinguished service by members of the Coast Guard while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party, and substituted the requirement that it be of appropriate design, with ribbons and appurtenances, for the requirement that the design be the same as that of the Navy medal of honor.
+<b>1963</b>—Pub. L. 88–77 enlarged the authority to award the medal of honor, which was limited to those cases in which persons, while in the service of the Coast Guard, distinguished themselves in action involving actual conflict with an enemy, or in the line of his profession, and without detriment to the mission of his command or to the command to which attached, to permit itsaward for distinguished service by members of the Coast Guard while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party, and substituted the requirement that it be of appropriate design, with ribbons and appurtenances, for the requirement that the design be the same as that of the Navy medal of honor.
 

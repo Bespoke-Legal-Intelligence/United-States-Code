@@ -32,9 +32,11 @@ Topics for consultation pursuant to this section may include—
 
 &emsp;(5) an assessment of the benefits and risks of therapies to treat rare diseases;
 
-&emsp;(6) the general design of clinical trials for rare disease populations and subpopulations; and
+&emsp;(6) the general design of clinical trials for rare disease populations and subpopulations;
 
-&emsp;(7) the demographics and the clinical description of patient populations.
+&emsp;(7) the demographics and the clinical description of patient populations; and
+
+&emsp;(8) the science of small population studies.
 
 #### (c) Classification as special government employees
 
@@ -86,7 +88,7 @@ Nothing in this section shall be construed to limit the ability of the Secretary
 
 &emsp;The requirements of this subsection shall apply only in instances where the consultation is undertaken solely under the authority of this section. The requirements of this subsection shall not apply to any consultation initiated under any other authority.
 
-(June 25, 1938, ch. 675, §569, as added Pub. L. 112–144, title IX, §903, July 9, 2012, 126 Stat. 1088; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(O), Dec. 13, 2016, 130 Stat. 1154.)
+(June 25, 1938, ch. 675, §569, as added Pub. L. 112–144, title IX, §903, July 9, 2012, 126 Stat. 1088; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(O), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 117–328, div. FF, title III, §3202(e), Dec. 29, 2022, 136 Stat. 5812.)
 
 #### <b>Editorial Notes</b>
 
@@ -95,6 +97,8 @@ Nothing in this section shall be construed to limit the ability of the Secretary
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsecs. (a)(1) and (f)(2), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(8). Pub. L. 117–328 added par. (8).
 
 <b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–255 substituted "subsection (b)" for "subsection (c)" before period in first sentence.
 

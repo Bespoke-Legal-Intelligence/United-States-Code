@@ -18,13 +18,13 @@ Any joint resolution under subsection (a) shall be considered in the Senate in a
 
 For the purpose of expediting the consideration and enactment of joint resolutions under subsection (a), a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
-(Pub. L. 90–629, ch. 6, §63, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 99–247, §1(d), Feb. 12, 1986, 100 Stat. 9;Pub. L. 104–164, title I, §141(e)(2), July 21, 1996, 110 Stat. 1433; Pub. L. 107–228, div. B, title XIV, §1405(a)(3), Sept. 30, 2002, 116 Stat. 1457; Pub. L. 110–429, title II, §203(b)(1), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804.)
+(Pub. L. 90–629, ch. 6, §63, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1525; amended Pub. L. 99–247, §1(d), Feb. 12, 1986, 100 Stat. 9; Pub. L. 104–164, title I, §141(e)(2), July 21, 1996, 110 Stat. 1433; Pub. L. 107–228, div. B, title XIV, §1405(a)(3), Sept. 30, 2002, 116 Stat. 1457; Pub. L. 110–429, title II, §203(b)(1), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (b), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 765, which made provision for expedited procedures in the Senate, and was not classified to the Code.
 

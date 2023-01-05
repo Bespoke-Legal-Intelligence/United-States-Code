@@ -56,7 +56,7 @@ With respect to assessment rates, the order shall contain the following terms:
 
 #### (e) Investment of assessments
 
-Pending disbursement of assessments under a budget approved by the Secretary, the Boardmay invest assessments collected under this section in—
+Pending disbursement of assessments under a budget approved by the Secretary, the Board may invest assessments collected under this section in—
 
 &emsp;(1) obligations of the United States or any agency of the United States;
 

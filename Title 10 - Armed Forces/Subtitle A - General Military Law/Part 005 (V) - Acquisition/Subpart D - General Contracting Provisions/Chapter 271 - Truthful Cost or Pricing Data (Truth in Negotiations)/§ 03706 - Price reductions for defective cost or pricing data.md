@@ -10,7 +10,7 @@ In general.—A prime contract (or change or modification to a prime contract) u
 
 &emsp;(2)
 
-What constitutes defective cost or pricing data.—For the purposes of this chapter, defective cost or pricing data are cost or pricing data which, as of the date of agreement on the price of the contract (or another date agreed upon between the parties), were inaccurate, incomplete, or noncurrent. If for purposes of the preceding sentence the parties agree upon a date other than the date of agreement on the price of the contract, the date agreed upon by the parties shall be as close to the date of agreement on the price of the contract as is practicable.
+What constitutes defective cost or pricing data.—For the purposes of this chapter, defective cost or pricing data are cost or pricing data which, as of the date of agreement on the price of the contract (or another date agreed upon between the parties), were inaccurate, incomplete, or noncurrent. If for purposes of the preceding sentence the parties agree upon a date other than the date of agreement on the price of the contract, the date agreed upon by the parties shall be as close tothe date of agreement on the price of the contract as is practicable.
 
 (b)
 
@@ -26,7 +26,7 @@ Invalid Defenses.—It is not a defense to an adjustment of the price of a contr
 
 &emsp;&emsp;(B) otherwise was in a superior bargaining position with respect to the property or services procured;
 
-&emsp;(2) the contracting officer should have known that the cost and pricing data in issuewere defective even though the contractor or subcontractor took no affirmative action to bring the character of the data to the attention of the contracting officer;
+&emsp;(2) the contracting officer should have known that the cost and pricing data in issue were defective even though the contractor or subcontractor took no affirmative action to bring the character of the data to the attention of the contracting officer;
 
 &emsp;(3) the contract was based on an agreement between the contractor and the United States about the total cost of the contract and there was no agreement about the cost of each item procured under such contract; or
 
@@ -76,7 +76,7 @@ Subsec. (d)(1). Pub. L. 116–283, §1831(g)(5)(A), (B), (D), inserted heading, 
 
 Subsec. (d)(1)(B). Pub. L. 116–283, §1831(g)(5)(E), substituted "subsection (a)(2)" for "paragraph (1)(B)" and "section 3702(c) of this title" for "subsection (a)(3)".
 
-Subsec. (d)(2). Pub. L. 116–283, §1831(g)(5)(F)(i), (ii), substituted "paragraph (1)" for "subparagraph (A)" in introductory provisions and redesignated cls. (i) and (ii) of former section 2306a(e)(4)(B) as subpars. (A) and (B), respectively.
+Subsec. (d)(2). Pub. L. 116–283, §1831(g)(5)(F)(i), (ii), substituted "paragraph (1)" for "subparagraph (A)" in introductory provisions and redesignated cls. (i) and\(ii) of former section 2306a(e)(4)(B) as subpars. (A) and (B), respectively.
 
 Subsec. (d)(2)(A). Pub. L. 116–283, §1831(g)(5)(F)(iii), substituted "section 3702(b) of this title" for "subsection (a)(2)".
 

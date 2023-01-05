@@ -39,4 +39,5 @@
 - [&sect; 00077z&#8211;2 - Application of safe harbor for forward-looking statements](%C2%A7%2000077z%E2%80%932%20-%20Application%20of%20safe%20harbor%20for%20forward-looking%20statements.md)
 - [&sect; 00077z&#8211;2a - Conflicts of interest relating to certain securitizations](%C2%A7%2000077z%E2%80%932a%20-%20Conflicts%20of%20interest%20relating%20to%20certain%20securitizations.md)
 - [&sect; 00077z&#8211;3 - General exemptive authority](%C2%A7%2000077z%E2%80%933%20-%20General%20exemptive%20authority.md)
+- [&sect; 00077z&#8211;4 - Data standards](%C2%A7%2000077z%E2%80%934%20-%20Data%20standards.md)
 - [&sect; 00077aa - Schedule of information required in registration statement](%C2%A7%2000077aa%20-%20Schedule%20of%20information%20required%20in%20registration%20statement.md)

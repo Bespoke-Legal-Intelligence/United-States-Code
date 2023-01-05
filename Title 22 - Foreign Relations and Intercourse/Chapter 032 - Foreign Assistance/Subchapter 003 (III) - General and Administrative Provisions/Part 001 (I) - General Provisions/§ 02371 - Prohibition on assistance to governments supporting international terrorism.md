@@ -30,7 +30,7 @@ A determination made by the Secretary of State under subsection (a) may not be r
 
 Assistance prohibited by subsection (a) may be provided to a country described in that subsection if—
 
-&emsp;(1) the President determines that national security interests or humanitarian reasons justify a waiver of subsection (a), except that humanitarian reasons may not be used to justify assistance under subchapter II of this chapter (including part IV, part VI, and part VIII), or the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\]; and
+&emsp;(1) the President determines that national security interests or humanitarian reasons justify a waiver of subsection (a), except thathumanitarian reasons may not be used to justify assistance under subchapter II of this chapter (including part IV, part VI, and part VIII), or the Export-Import Bank Act of 1945 \[12 U.S.C. 635 et seq.\]; and
 
 &emsp;(2) at least 15 days before the waiver takes effect, the President consults with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate regarding the proposed waiver and submits a report to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate containing—
 
@@ -50,19 +50,19 @@ Assistance prohibited by subsection (a) may be provided to a country described i
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (d), was in the original "this Act" and "the Foreign Assistance Act of 1961", respectively, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (d), was in the original "this Act" and "the Foreign Assistance Act of 1961", respectively, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Food for Peace Act, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The Peace Corps Act, referred to in subsec. (a), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Peace Corps Act, referred to in subsec. (a), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Export-Import Bank Act of 1945, referred to in subsecs. (a) and (d)(1), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to chapter 6A (§635 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
+The Export-Import Bank Act of 1945, referred to in subsecs. (a) and (d)(1), is act July 31, 1945, ch. 341, 59 Stat. 526, which is classified generally to chapter 6A (§635 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 635 of Title 12 and Tables.
 
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
 
-<b>1989</b>—Pub. L. 101–222 amended section generally, in subsec. (a) substituting provisions prohibiting assistance if Secretary of State determines country has repeatedly supported terrorism, for provisions prohibiting assistance if President determines country grantssanctuary to terrorists or otherwise supports terrorism; redesignating subsec. (b) as (d) and inserting provisions prohibiting justification of waiver of assistance under specified Acts and provisions describing contents of report on proposed waiver; adding subsecs. (b) and (c); and striking out subsec. (c) which related to imposition of sanction by other countries.
+<b>1989</b>—Pub. L. 101–222 amended section generally, in subsec. (a) substituting provisions prohibiting assistance if Secretary of State determines country has repeatedly supported terrorism, for provisions prohibiting assistance if President determines country grants sanctuary to terrorists or otherwise supports terrorism; redesignating subsec. (b) as (d) and inserting provisions prohibiting justification of waiver of assistance under specified Acts and provisions describing contents of report on proposed waiver; adding subsecs. (b) and (c); and striking out subsec. (c) which related to imposition of sanction by other countries.
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–190 inserted reference to the Export-Import Bank Act of 1945.
 

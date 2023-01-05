@@ -8,13 +8,17 @@ Beginning in fiscal year 2007 and for each fiscal year thereafter, the Secretary
 
 #### Codification
 
-Section is from the Department of Commerce and Related Agencies Appropriations Act, 2006, which is titleII of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006.
+Section is from the Department of Commerce and Related Agencies Appropriations Act, 2006, which is title II of the Science, State, Justice, Commerce, and Related Agencies Appropriations Act, 2006.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. B, title I, Dec. 29, 2022, 136 Stat. 4517.
+
+Pub. L. 117–103, div. B, title I, Mar. 15, 2022, 136 Stat. 108.
 
 Pub. L. 116–260, div. B, title I, Dec. 27, 2020, 134 Stat. 1241.
 

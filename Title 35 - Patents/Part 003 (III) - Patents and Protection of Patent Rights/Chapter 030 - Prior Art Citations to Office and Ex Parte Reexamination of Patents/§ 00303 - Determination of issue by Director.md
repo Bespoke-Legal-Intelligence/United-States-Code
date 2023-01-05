@@ -24,7 +24,7 @@ Pub. L. 107–273, §13105(a), inserted at end "The existence of a substantial n
 
 Subsec. (b). Pub. L. 107–273, §13206(b)(1)(A), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(9)(A)(ii)\]. See 1999 Amendment note below.
 
-Subsec. (c). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+Subsec. (c). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L.106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
 <b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(9)(A)(i)\], substituted "Director" for "Commissioner" in section catchline.
 

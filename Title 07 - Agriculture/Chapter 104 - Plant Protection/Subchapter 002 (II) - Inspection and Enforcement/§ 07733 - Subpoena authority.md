@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 110–246, §10203(c)(3), in first sentence substituted "te
 
 Subsec. (e). Pub. L. 107–171, §10418(b)(2)(B), inserted "to an agency other than the Office of Administrative Law Judges" after "subpoena is delegated".
 
-Subsec. (f). Pub. L. 107–171, §10418(b)(2)(C), struck out heading and text of subsec. (f). Text read as follows: "Subpoenas for witnesses to attend court in any judicial district or to testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under this chapter may run to any other judicial district."
+Subsec. (f). Pub. L. 107–171, §10418(b)(2)(C), struck out heading and text of subsec. (f). Text read as follows:"Subpoenas for witnesses to attend court in any judicial district or to testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under this chapter may run to any other judicial district."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

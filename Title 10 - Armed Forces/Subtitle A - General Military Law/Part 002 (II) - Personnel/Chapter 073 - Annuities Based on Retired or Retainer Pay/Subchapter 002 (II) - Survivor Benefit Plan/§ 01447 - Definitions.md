@@ -36,7 +36,7 @@ Full amount under standard annuity.—In the case of a person who dies after bec
 
 &emsp;&emsp;(B)
 
-Full amount under reserve-component annuity.—In the case of a person whowould have become eligible for reserve-component retired pay but for the fact that he died before becoming 60 years of age, such term means the amount of monthly retired pay for which the person would have been eligible—
+Full amount under reserve-component annuity.—In the case of a person who would have become eligible for reserve-component retired pay but for the fact that he died before becoming 60 years of age, such term means the amount of monthly retired pay for which the person would have been eligible—
 
 &emsp;&emsp;&emsp;(i) if he had been 60 years of age on the date of his death, for purposes of an annuity to become effective on the day after his death in accordance with a designation made under section 1448(e) of this title; or
 
@@ -84,7 +84,7 @@ In general.—The term "dependent child" means a person who—
 
 &emsp;&emsp;&emsp;(i) is unmarried;
 
-&emsp;&emsp;&emsp;(ii) is (I) under 18 years of age, (II) at least 18, but under 22, years of age and pursuing a full-time course of study or training in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution, or (III) incapable of self support because of a mental or physical incapacity existing before the person's eighteenth birthday or incurred on or after that birthday, but before the person's twenty-second birthday, while pursuing such a full-time course of study or training; and
+&emsp;&emsp;&emsp;(ii) is (I) under 18 years of age, (II) at least 18, but under 22, years of age and pursuing a full-time course of study or training in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution, or (III)incapable of self support because of a mental or physical incapacity existing before the person's eighteenth birthday or incurred on or after that birthday, but before the person's twenty-second birthday, while pursuing such a full-time course of study or training; and
 
 &emsp;&emsp;&emsp;(iii) is the child of a person to whom the Plan applies, including (I) an adopted child, and (II) a stepchild, foster child, or recognized natural child who lived with that person in a regular parent-child relationship.
 
@@ -114,7 +114,7 @@ Final decree.—The term "final decree" means a decree from which no appeal may 
 
 &emsp;&emsp;(C)
 
-Regular on its face.—The term "regular on its face", when used in connectionwith a court order, means a court order that meets the conditions prescribed in section 1408(b)(2) of this title.
+Regular on its face.—The term "regular on its face", when used in connection with a court order, means a court order that meets the conditions prescribed in section 1408(b)(2) of this title.
 
 (Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 706; amended Pub. L. 94–496, §1(1), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §201, Sept. 30, 1978, 92 Stat. 843; Pub. L. 96–402, §2, Oct. 9, 1980, 94 Stat. 1705; Pub. L. 97–252, title X, §1003(a), Sept. 8, 1982, 96 Stat. 735; Pub. L. 98–94, title IX, §941(c)(1), Sept. 24, 1983, 97 Stat. 653; Pub. L. 99–145, title VII, §§719(1), (2), 721(b), Nov. 8, 1985, 99 Stat. 675, 676; Pub. L. 99–348, title III, §301(a)(1), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(A), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title XIV, §1407(a)(1)–(3), Nov. 29, 1989, 103 Stat. 1588; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(i), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title XVI, §1671(d), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2551; Pub. L. 115–91, div. A, title VI, §622(a), Dec. 12, 2017, 131 Stat. 1428; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
@@ -196,7 +196,7 @@ Pub. L. 99–145, title VII, §731, Nov. 8, 1985, 99 Stat. 678, provided that:
 
 "(a)
 
-Effective Date.—Except as otherwise provided in this title, the amendments made by this title \[see Short Title of 1985 Amendment note below\] shall take effect on the first day of the first month beginningmore than 90 days after the date of the enactment of this Act \[Nov. 8, 1985\].
+Effective Date.—Except as otherwise provided in this title, the amendments made by this title \[see Short Title of 1985 Amendment note below\] shall take effect on the first day of the first month beginning more than 90 days after the date of the enactment of this Act \[Nov. 8, 1985\].
 
 "(b)
 

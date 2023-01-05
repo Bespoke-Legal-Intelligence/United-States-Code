@@ -6,7 +6,7 @@
 
 &emsp;The Governor of each State shall, after notice and opportunity for public comment, prepare and submit to the Administrator for approval, a report which—
 
-&emsp;&emsp;(A) identifies those navigable waters within the State which, without additional action to control nonpoint sources of pollution, cannot reasonably be expected to attain or maintain applicable water quality standards or the goals and requirements of this chapter;
+&emsp;&emsp;(A) identifies those navigable waters within the State which, without additional action to control nonpoint sources of pollution, cannot reasonably be expected to attain or maintain applicable water qualitystandards or the goals and requirements of this chapter;
 
 &emsp;&emsp;(B) identifies those categories and subcategories of nonpoint sources or, where appropriate, particular nonpoint sources which add significant pollution to each portion of the navigable waters identified under subparagraph (A) in amounts which contribute to such portion not meeting such water quality standards or such goals and requirements;
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) A schedule containing annual milestones for (i) utilization of the program implementation methods identified in subparagraph (B), and (ii) implementation of the best management practices identified in subparagraph (A) by the categories, subcategories, or particular nonpoint sources designated under paragraph (1)(B). Such schedule shall provide for utilization of the best management practices at the earliest practicable date.
 
-&emsp;&emsp;(D) A certification of the attorney general of the State or States (or the chief attorneyof any State water pollution control agency which has independent legal counsel) that the laws of the State or States, as the case may be, provide adequate authority to implement such management program or, if there is not such adequate authority, a list of such additional authorities as will be necessary to implement such management program. A schedule and commitment by the State or States to seek such additional authorities as expeditiously as practicable.
+&emsp;&emsp;(D) A certification of the attorney general of the State or States (or the chief attorney of any State water pollution control agency which has independent legal counsel) that the laws of the State or States, as the case may be, provide adequate authority to implement such management program or, if there is not such adequate authority, a list of such additional authorities as will be necessary to implement such management program. A schedule and commitment by the State or States to seek such additional authorities as expeditiously as practicable.
 
 &emsp;&emsp;(E) Sources of Federal and other assistance and funding (other than assistance provided under subsections (h) and (i)) which will be available in each of such fiscal years for supporting implementation of such practices and measures and the purposes for which such assistance will be used in each of such fiscal years.
 
@@ -140,7 +140,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (8) Satisfactory progress
 
-&emsp;No grant may be made under this subsection in any fiscal year to a State which in the preceding fiscal year received a grant under this subsection unless the Administrator determines that such State made satisfactory progress in such preceding fiscal year in meeting the schedule specified by such State under subsection (b)(2).
+&emsp;No grant may be made under this subsection in any fiscal year to a State which in the preceding fiscal year received a grant under this subsection unless the Administrator determines that such State made satisfactoryprogress in such preceding fiscal year in meeting the schedule specified by such State under subsection (b)(2).
 
 #### (9) Maintenance of effort
 
@@ -178,7 +178,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (j) Authorization of appropriations
 
-There is authorized to be appropriated to carry out subsections (h) and (i) not to exceed $70,000,000 for fiscal year 1988, $100,000,000 per fiscal year for each of fiscal years 1989 and 1990, and $130,000,000 for fiscal year 1991; except that for each of such fiscal years not to exceed $7,500,000 may be made available to carry out subsection (i). Sums appropriated pursuant to this subsection shall remain available until expended.
+There is authorized to be appropriated to carry out subsections (h) and (i) $200,000,000 for each of fiscal years 2023 through 2027; except that for each of such fiscal years not to exceed $7,500,000 may be made available to carry out subsection (i). Sums appropriated pursuant to this subsection shall remain available until expended.
 
 #### (k) Consistency of other programs and projects with management programs
 
@@ -216,7 +216,7 @@ The Administrator shall collect and make available, through publications and oth
 
 Not less than 5 percent of the funds appropriated pursuant to subsection (j) for any fiscal year shall be available to the Administrator to maintain personnel levels at the Environmental Protection Agency at levels which are adequate to carry out this section in such year.
 
-(June 30, 1948, ch. 758, title III, §319, as added Pub. L. 100–4, title III, §316(a), Feb. 4, 1987, 101 Stat. 52; amended Pub. L. 105–362, title V, §501(c), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
+(June 30, 1948, ch. 758, title III, §319, as added Pub. L. 100–4, title III, §316(a), Feb. 4, 1987, 101 Stat. 52; amended Pub. L. 105–362, title V, §501(c), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361; Pub. L. 117–263, div. H, title LXXXV, §8502, Dec. 23, 2022, 136 Stat. 3856.)
 
 #### <b>Editorial Notes</b>
 
@@ -224,9 +224,11 @@ Not less than 5 percent of the funds appropriated pursuant to subsection (j) for
 
 Executive Order 12372, referred to in subsecs. (b)(2)(F) and (k), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under section 6506 of Title 31, Money and Finance.
 
-The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is Pub. L. 93–320, June 24, 1974, 88 Stat. 266, as amended, which is classified principally to chapter 32A (§1571 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1571 of Title 43 and Tables.
+The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is Pub. L. 93–320, June 24, 1974, 88 Stat. 266, which is classified principally to chapter 32A (§1571 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1571 of Title 43 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (j). Pub. L. 117–263 substituted "subsections (h) and (i) $200,000,000 for each of fiscal years 2023 through 2027" for "subsections (h) and (i) not to exceed $70,000,000 for fiscal year 1988, $100,000,000 per fiscal year for each of fiscal years 1989 and 1990, and $130,000,000 for fiscal year 1991".
 
 <b>2002</b>—Subsecs. (i)(4), (m), (n). Pub. L. 107–303 repealed Pub. L. 105–362, §501(c). See 1998 Amendment note below.
 

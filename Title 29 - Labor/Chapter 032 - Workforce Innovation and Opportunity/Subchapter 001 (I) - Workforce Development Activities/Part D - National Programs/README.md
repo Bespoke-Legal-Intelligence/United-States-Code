@@ -21,3 +21,4 @@ In this part, "Secretary" means the Secretary of Labor, see section 3151(b)(1)(C
 - [&sect; 03226 - YouthBuild program](%C2%A7%2003226%20-%20YouthBuild%20program.md)
 - [&sect; 03226a - Re-enrollment in alternative school by high-school dropout](%C2%A7%2003226a%20-%20Re-enrollment%20in%20alternative%20school%20by%20high-school%20dropout.md)
 - [&sect; 03227 - Authorization of appropriations](%C2%A7%2003227%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 03228 - Worker ownership, readiness, and knowledge](%C2%A7%2003228%20-%20Worker%20ownership%2C%20readiness%2C%20and%20knowledge.md)

@@ -20,7 +20,7 @@
 
 #### (4) No right or obligation
 
-&emsp;Nothing in this section shall be construed to create a legal right for a consultation on any matter or require the Secretary to meet with any particular expert or stakeholder. Nothingin this section shall be construed to alter agreed upon goals and procedures identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2012. Nothing in this section is intended to increase the number of review cycles as in effect before July 9, 2012.
+&emsp;Nothing in this section shall be construed to create a legal right for a consultation on any matter or require the Secretary to meet with any particular expert or stakeholder. Nothing in this section shall be construed to alter agreed upon goals and procedures identified in the letters described in section 101(b) of the Prescription Drug User Fee Amendments of 2012. Nothing in this section is intended to increase the number of review cycles as in effect before July 9, 2012.
 
 #### (5) Financial interest
 

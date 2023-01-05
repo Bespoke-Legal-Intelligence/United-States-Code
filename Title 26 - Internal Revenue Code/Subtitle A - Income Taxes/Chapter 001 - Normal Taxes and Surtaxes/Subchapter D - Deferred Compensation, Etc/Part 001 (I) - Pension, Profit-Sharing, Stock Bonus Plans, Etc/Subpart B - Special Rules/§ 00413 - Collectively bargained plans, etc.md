@@ -34,7 +34,7 @@ If this subsection applies to a plan, notwithstanding any other provision of thi
 
 #### (6) Liability for funding tax
 
-&emsp;For a plan year the liability under section 4971 of each employer who is a party to thecollective bargaining agreement shall be determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary—
+&emsp;For a plan year the liability under section 4971 of each employer who is a party to the collective bargaining agreement shall be determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary—
 
 &emsp;&emsp;(A) first on the basis of their respective delinquencies in meeting required employer contributions under the plan, and
 
@@ -68,7 +68,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (3) Vesting
 
-&emsp;Section 411 shall be applied as if all employers who maintain the plan constituted a single employer, except that the application of any rules with respect to breaks in service shall be made under regulations prescribed by the Secretary of Labor.
+&emsp;Section 411 shall be applied as if all employers who maintain the plan constituted a single employer, except that the application of anyrules with respect to breaks in service shall be made under regulations prescribed by the Secretary of Labor.
 
 #### (4) Funding
 
@@ -102,7 +102,7 @@ In the case of a plan maintained by more than one employer—
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;If this subparagraph applies, the amounts contributed to or under the plan by each employer who maintains the plan (for the portion of the taxable year included within a plan year) shall be considered not to exceed any such limitation if the anticipated employer contributions for such plan year (determined in a reasonablemanner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
+&emsp;&emsp;&emsp;If this subparagraph applies, the amounts contributed to or under the plan by each employer who maintains the plan (for the portion of the taxable year included within a plan year) shall be considered not to exceed any such limitation if the anticipated employer contributions for such plan year (determined in a reasonable manner not inconsistent with regulations prescribed by the Secretary) do not exceed such limitation. If such anticipated contributions exceed such a limitation, the portion of each such employer's contributions which is not deductible under section 404 shall be determined in accordance with regulations prescribed by the Secretary.
 
 #### (7) Allocations
 
@@ -166,7 +166,7 @@ Notwithstanding any other provision of this section, in the case of a CSEC plan�
 
 &emsp;&emsp;For purposes of this subsection, the term "pooled plan provider" means, with respect to any plan, a person who—
 
-&emsp;&emsp;&emsp;(i) is designated by the terms of the plan as a named fiduciary (within the meaningof section 402(a)(2) of the Employee Retirement Income Security Act of 1974), as the plan administrator, and as the person responsible to perform all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—
+&emsp;&emsp;&emsp;(i) is designated by the terms of the plan as a named fiduciary (within the meaning of section 402(a)(2) of the Employee Retirement Income Security Act of 1974), as the plan administrator, and as the person responsible to perform all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the plan meets any requirement applicable under the Employee Retirement Income Security Act of 1974 or this title to a plan described in section 401(a) or to a plan that consists of individual retirement accounts described in section 408 (including by reason of subsection (c) thereof), whichever is applicable, and
 
@@ -194,7 +194,7 @@ Notwithstanding any other provision of this section, in the case of a CSEC plan�
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall issue such guidance as the Secretary determines appropriate to carry out this subsection, including guidance—
+&emsp;&emsp;The Secretary shall issue such guidance as the Secretary determines appropriate tocarry out this subsection, including guidance—
 
 &emsp;&emsp;&emsp;(i) to identify the administrative duties and other actions required to be performed by a pooled plan provider under this subsection,
 
@@ -218,7 +218,7 @@ Notwithstanding any other provision of this section, in the case of a CSEC plan�
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(6) and (e), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Part 1 of subtitle E oftitle IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. Sections 3(43), (44), 402(a)(2), and 412 of the Act are classified to sections 1002(43), (44), 1102(a)(2), and 1112, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(6) and (e), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29, Labor. Sections 3(43), (44), 402(a)(2), and 412 of the Act are classified to sections 1002(43), (44), 1102(a)(2), and 1112, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The date of enactment of the Technical and Miscellaneous Revenue Act of 1988, referred to in subsec. (c)(4)(B), is the date of enactment of Pub. L. 100–647, which was approved Nov. 10, 1988.
 
@@ -260,7 +260,7 @@ Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013,
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1011(h)(10) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1011(h)(10) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title VI, §6058(d), Nov. 10, 1988, 102 Stat. 3699, provided that: "Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to plan years beginning after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
@@ -271,4 +271,20 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pu
 #### Effective Date
 
 Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+
+#### Modification of Model Plan Language, Etc.
+
+Pub. L. 117–328, div. T, title I, §106(f), Dec. 29, 2022, 136 Stat. 5288, provided that:
+
+"(1)
+
+Plan notifications.—The Secretary of the Treasury (or the Secretary's delegate), in consultation with the Secretary of Labor, shall modify the model plan language published under section 413(e)(5) of the Internal Revenue Code of 1986 to include language that requires participating employers be notified that the plan is subject to the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] and that such employer is a plan sponsor with respect to its employees participating in the multiple employer plan and, as such, has certain fiduciary duties with respect to the plan and to its employees.
+
+"(2)
+
+Model plans for multiple employer 403(b) plans.—For plans to which section 403(b)(15)(A) of the Internal Revenue Code of 1986 applies (other than a plan maintained for its employees by a State, a political subdivision of a State, or an agency or instrumentality of any one or more of the foregoing), the Secretary of the Treasury (or the Secretary's delegate), in consultation with the Secretary of Labor, shall publish model plan language similar to model plan language published under section 413(e)(5) of such Code.
+
+"(3)
+
+Educational outreach to employers exempt from tax.—The Secretary of the Treasury (or the Secretary's delegate), in consultation with the Secretary of Labor, shall provide education and outreach to increase awareness to employers described in section 501(c)(3) of the Internal Revenue Code of 1986, and which are exempt from tax under section 501(a) of such Code, that multiple employer plans are subject to the Employee Retirement Income Security Act of 1974 and that such employer is a plan sponsor with respect to its employees participating in the multiple employer plan and, as such, has certain fiduciary duties with respect to the plan and to its employees."
 

@@ -56,7 +56,7 @@ There are authorized to be appropriated to carry out the provisions of this sect
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original "this Act" and was translated as reading "this title", meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title IV to the Code, see Short Title note set out under section 3201 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original "this Act" and was translated as reading "this title", meaning title IV of Pub. L. 101–630, Nov. 28, 1990, 104 Stat. 4544, known as the Indian Child Protection and Family Violence Prevention Act, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of titleIV to the Code, see Short Title note set out under section 3201 of this title and Tables.
 
 The Indian Self-Determination Act, referred to in subsec. (g), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
@@ -68,5 +68,5 @@ The Indian Self-Determination Act, referred to in subsec. (g), is title I of Pub
 
 #### Termination of Advisory Boards
 
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

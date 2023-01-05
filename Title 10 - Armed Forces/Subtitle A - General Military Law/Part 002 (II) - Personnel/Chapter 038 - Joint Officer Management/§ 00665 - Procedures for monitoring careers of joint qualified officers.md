@@ -14,7 +14,7 @@ Procedures.—(1) The Secretary of Defense, with the advice of the Chairman of t
 
 Function of Joint Staff.—The Secretary shall take such action as necessary to enhance the capabilities of the Joint Staff so that it can—
 
-&emsp;(1) monitor the promotions and career assignments of officers designated as a jointqualified officer and of other officers who have served in joint duty assignments; and
+&emsp;(1) monitor the promotions and career assignments of officers designated as a joint qualified officer and of other officers who have served in joint duty assignments; and
 
 &emsp;(2) otherwise advise the Chairman on joint personnel matters.
 

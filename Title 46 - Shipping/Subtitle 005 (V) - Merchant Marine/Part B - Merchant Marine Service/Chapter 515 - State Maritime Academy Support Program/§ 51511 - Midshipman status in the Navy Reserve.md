@@ -26,7 +26,7 @@ June 29, 1936, ch. 858, title XIII, §1304(h), as added Pub. L. 96–453, §2, O
 
 <b>2008</b>—Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §515(g)(2). See 2006 Amendment note below.
 
-Pub. L. 110–181, §3523(a)(1), incorporated the substance of the amendment by Pub. L. 109–163, §515(g)(2), into this section by substituting "Navy Reserve" for "Naval Reserve" wherever appearing in section catchline and text. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Pub. L. 110–181, §3523(a)(1), incorporated the substance of the amendment by Pub. L. 109–163, §515(g)(2), into this section by substituting "Navy Reserve" for"Naval Reserve" wherever appearing in section catchline and text. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–163, §515(g)(2), which directed the amendment of section 1295c of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3523(b). See 2008 Amendment notes and Historical and Revision notes above.
 

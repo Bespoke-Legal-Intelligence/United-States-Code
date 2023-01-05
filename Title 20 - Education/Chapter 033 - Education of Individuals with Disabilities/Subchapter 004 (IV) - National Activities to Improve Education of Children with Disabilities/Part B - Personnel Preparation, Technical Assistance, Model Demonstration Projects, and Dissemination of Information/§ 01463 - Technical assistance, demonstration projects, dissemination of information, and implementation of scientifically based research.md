@@ -24,7 +24,7 @@ Funds received under this section shall be used to support activities to improve
 
 #### (c) Authorized activities
 
-Activities that may be carried out under this section include activities to improve servicesprovided under this chapter, including the practices of professionals and others involved in providing such services to children with disabilities, that promote academic achievement and improve results for children with disabilities through—
+Activities that may be carried out under this section include activities to improve services provided under this chapter, including the practices of professionals and others involved in providing such services to children with disabilities, that promote academic achievement and improve results for children with disabilities through—
 
 &emsp;(1) applying and testing research findings in typical settings where children with disabilities receive services to determine the usefulness, effectiveness, and general applicability of such research findings in such areas as improving instructional methods, curricula, and tools, such as textbooks and media;
 
@@ -40,7 +40,7 @@ Activities that may be carried out under this section include activities to impr
 
 &emsp;(7) promoting change through a multistate or regional framework that benefits States, local educational agencies, and other participants in partnerships that are in the process of achieving systemic-change outcomes;
 
-&emsp;(8) focusing on the needs and issues that are specific to a population of children with disabilities, such as providing single-State and multi-State technical assistance and in-service training—
+&emsp;(8) focusing on the needs and issues that are specific to a population of children with disabilities, such as providing single-State andmulti-State technical assistance and in-service training—
 
 &emsp;&emsp;(A) to schools and agencies serving deaf-blind children and their families;
 
@@ -82,7 +82,7 @@ In carrying out this section, the Secretary shall support projects that link Sta
 
 #### References in Text
 
-The Education Sciences Reform Act of 2002, referred to in subsec. (e), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part D of the Act is classified generally to part D (§9561 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (e), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part D of the Act is classified generally to part D (§9561 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 #### Amendments
 

@@ -28,3 +28,37 @@ Pub. L. 109–155, title IV, §423, Dec. 30, 2005, 119 Stat. 2925.
 
 In subsection (b), the date "December 30, 2005" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Unmanned Aircraft Systems
+
+Pub. L. 117–167, div. B, title VII, §10832, Aug. 9, 2022, 136 Stat. 1748, provided that:
+
+"(a)
+
+Unmanned Aircraft Systems Operation Program.—The Administrator \[of the National Aeronautics and Space Administration\] shall—
+
+&emsp;"(1) research and test capabilities and concepts, including unmanned aircraft systems communications, for integrating unmanned aircraft systems into the national airspace system;
+
+&emsp;"(2) leverage the partnership NASA \[National Aeronautics and Space Administration\] has with industry focused on the advancement of technologies for future air traffic management systems for unmanned aircraft systems; and
+
+&emsp;"(3) continue to leverage the research and testing portfolio of NASA to inform the integration of unmanned aircraft systems into the national airspace system, consistent with public safety and national security objectives.
+
+"(b)
+
+Sense of Congress on Coordination With Federal Aviation Administration.—It is the sense of Congress that—
+
+&emsp;"(1) NASA should continue—
+
+&emsp;&emsp;"(A) to coordinate with the Federal Aviation Administration on research on air traffic management systems for unmanned aircraft systems; and
+
+&emsp;&emsp;"(B) to assist the Federal Aviation Administration in the integration of air traffic management systems for unmanned aircraft systems into the national airspace system; and
+
+&emsp;"(2) the test ranges (as defined in section 44801 of title 49, United States Code) should continue to be leveraged for research on—
+
+&emsp;&emsp;"(A) air traffic management systems for unmanned aircraft systems; and
+
+&emsp;&emsp;"(B) the integration of such systems into the national airspace system."
+
+\[For definition of "unmanned aircraft system" as used in section 10832 of Pub. L. 117–167, set out above, see section 10802 of Pub. L. 117–167, set out as a Definitions note under section 10101 of this title.\]
+

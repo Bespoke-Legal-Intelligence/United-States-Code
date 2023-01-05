@@ -40,11 +40,11 @@ No employer shall be deemed to have violated subsection (a) by employing any emp
 
 As used in this section the "regular rate" at which an employee is employed shall be deemed to include all remuneration for employment paid to, or on behalf of, the employee, but shall not be deemed to include—
 
-&emsp;(1) sums paid as gifts; payments in the nature of gifts made at Christmas time or on other special occasions, as a reward for service, the amounts of which are not measured by or dependent on hours worked, production, or efficiency;
+&emsp;(1) sums paid as gifts; payments in the nature of gifts made at Christmas time or onother special occasions, as a reward for service, the amounts of which are not measured by or dependent on hours worked, production, or efficiency;
 
 &emsp;(2) payments made for occasional periods when no work is performed due to vacation, holiday, illness, failure of the employer to provide sufficient work, or other similar cause; reasonable payments for traveling expenses, or other expenses, incurred by an employee in the furtherance of his employer's interests and properly reimbursable by the employer; and other similar payments to an employee which are not made as compensation for his hours of employment;
 
-&emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) boththe fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
+&emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) both the fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
 
 &emsp;(4) contributions irrevocably made by an employer to a trustee or third person pursuant to a bona fide plan for providing old-age, retirement, life, accident, or health insurance or similar benefits for employees;
 
@@ -70,7 +70,7 @@ As used in this section the "regular rate" at which an employee is employed shal
 
 #### (f) Employment necessitating irregular hours of work
 
-No employer shall be deemed to have violated subsection (a) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
+No employer shall be deemed to have violated subsection (a) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of payfor not more than sixty hours based on the rates so specified.
 
 #### (g) Employment at piece rates
 
@@ -78,7 +78,7 @@ No employer shall be deemed to have violated subsection (a) by employing any emp
 
 &emsp;(1) in the case of an employee employed at piece rates, is computed at piece rates not less than one and one-half times the bona fide piece rates applicable to the same work when performed during nonovertime hours; or
 
-&emsp;(2) in the case of an employee performing two or more kinds of work for which differenthourly or piece rates have been established, is computed at rates not less than one and one-half times such bona fide rates applicable to the same work when performed during nonovertime hours; or
+&emsp;(2) in the case of an employee performing two or more kinds of work for which different hourly or piece rates have been established, is computed at rates not less than one and one-half times such bona fide rates applicable to the same work when performed during nonovertime hours; or
 
 &emsp;(3) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: <i>Provided</i>, That the rate so established shall be authorized by regulation by the Administrator as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtime premiums, in the particular work over a representative period of time;
 
@@ -186,7 +186,7 @@ In the case of an employee of an employer engaged in the business of operating a
 
 &emsp;(B) the hours spent performing such duties are outside of the hours such employee performs other work (including hours for which the agency requires the employee's attendance) pursuant to the employment relationship with such public agency.
 
-> For purposes of this section, the amount paid such employee in accordance with subparagraph\(A) for the performance of court reporting transcript preparation duties, shall not be considered in the calculation of the regular rate at which such employee is employed.
+> For purposes of this section, the amount paid such employee in accordance with subparagraph (A) for the performance of court reporting transcript preparation duties, shall not be considered in the calculation of the regular rate at which such employee is employed.
 
 (7) For purposes of this subsection—
 
@@ -218,21 +218,7 @@ Any employer may employ any employee for a period or periods of not more than 10
 
 &emsp;(3) does not include job specific training.
 
-#### (r) Reasonable break time for nursing mothers
-
-(1) An employer shall provide—
-
-&emsp;(A) a reasonable break time for an employee to express breast milk for her nursing child for 1 year after the child's birth each time such employee has need to express the milk; and
-
-&emsp;(B) a place, other than a bathroom, that is shielded from view and free from intrusion from coworkers and the public, which may be used by an employee to express breast milk.
-
-(2) An employer shall not be required to compensate an employee receiving reasonable break time under paragraph (1) for any work time spent for such purpose.
-
-(3) An employer that employs less than 50 employees shall not be subject to the requirements of this subsection, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer's business.
-
-(4) Nothing in this subsection shall preempt a State law that provides greater protections to employees than the protections provided for under this subsection.
-
-(June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1, 63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; Pub. L. 87–30, §6, May 5, 1961, 75 Stat. 69; Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, Sept. 23, 1966, 80 Stat. 835–837, 841, 842; Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, 88 Stat. 60, 62, 64, 66, 68; Pub. L. 99–150, §§2(a), 3(a)–(c)(1), Nov. 13, 1985, 99 Stat. 787, 789; Pub. L. 101–157, §7, Nov. 17, 1989, 103 Stat. 944; Pub. L. 104–26, §2, Sept. 6, 1995, 109 Stat. 264; Pub. L. 106–202, §2(a), (b), May 18, 2000, 114 Stat. 308, 309; Pub. L. 111–148, title IV, §4207, Mar. 23, 2010, 124 Stat. 577.)
+(June 25, 1938, ch. 676, §7, 52 Stat. 1063; Oct. 29, 1941, ch. 461, 55 Stat. 756; July 20, 1949, ch. 352, §1, 63 Stat. 446; Oct. 26, 1949, ch. 736, §7, 63 Stat. 912; Pub. L. 87–30, §6, May 5, 1961, 75 Stat. 69; Pub. L. 89–601, title II, §§204(c), (d), 212(b), title IV, §§401–403, Sept. 23, 1966, 80 Stat. 835–837, 841, 842; Pub. L. 93–259, §§6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, 88 Stat. 60, 62, 64, 66, 68; Pub. L. 99–150, §§2(a), 3(a)–(c)(1), Nov. 13, 1985, 99 Stat. 787, 789; Pub. L. 101–157, §7, Nov. 17, 1989, 103 Stat. 944; Pub. L. 104–26, §2, Sept. 6, 1995, 109 Stat. 264; Pub. L. 106–202, §2(a), (b), May 18, 2000, 114 Stat. 308, 309; Pub. L. 111–148, title IV, §4207, Mar. 23, 2010, 124 Stat. 577; Pub. L. 117–328, div. KK, §102(a)(1), Dec. 29, 2022, 136 Stat. 6093.)
 
 #### <b>Editorial Notes</b>
 
@@ -240,11 +226,13 @@ Any employer may employ any employee for a period or periods of not more than 10
 
 The Fair Labor Standards Amendments of 1966, referred to in subsec. (a)(2), is Pub. L. 89–601, Sept. 23, 1966, 80 Stat. 830. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 201 of this title and Tables.
 
-The effective date of the Fair Labor Standards Amendments of 1966, referred to in subsec. (a)(2)(A),means the effective date of Pub. L. 89–601, which is Feb. 1, 1967 except as otherwise provided, see section 602 of Pub. L. 89–601, set out as an Effective Date of 1966 Amendment note under section 203 of this title.
+The effective date of the Fair Labor Standards Amendments of 1966, referred to in subsec. (a)(2)(A), means the effective date of Pub. L. 89–601, which is Feb. 1, 1967 except as otherwise provided, see section 602 ofPub. L. 89–601, set out as an Effective Date of 1966 Amendment note under section 203 of this title.
 
 Section 6(c)(3) of the Fair Labor Standards Amendments of 1974, referred to in subsec. (k)(1), is Pub. L. 93–259, §6(c)(3), Apr. 8, 1974, 88 Stat. 61, which is set out as a note under section 213 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (r). Pub. L. 117–328 struck out subsec. (r) which related to reasonable break time for nursing mothers.
 
 <b>2010</b>—Subsec. (r). Pub. L. 111–148 added subsec. (r).
 
@@ -302,7 +290,7 @@ Subsec. (b)(2). Pub. L. 87–30, §6(b), substituted "in excess of the maximum w
 
 Subsec. (d)(5), (7). Pub. L. 87–30, §6(c), (d), substituted "in excess of the maximum workweek applicable to such employee under subsection (a)" for "forty in a workweek" in par. (5) and "the maximum workweek applicable to such employee under subsection (a)" for "forty hours" in par. (7).
 
-Subsec. (e). Pub. L. 87–30, §6(e), substituted "the maximum workweek applicable to such employee under subsection (a)", "subsection (a) or (b) of section 206 of this title (whichever may be applicable" and "such maximum" for "forty hours", "section 206(a) of this title" and "forty in any", respectively.
+Subsec. (e). Pub. L. 87–30, §6(e), substituted "the maximum workweek applicable to such employee under subsection (a)", "subsection (a) or (b) of section 206 of this title (whichever may be applicable" and "suchmaximum" for "forty hours", "section 206(a) of this title" and "forty in any", respectively.
 
 Subsec. (f). Pub. L. 87–30, §6(f), substituted "the maximum workweek applicable to such employee under subsection" for "forty hours" in two places.
 
@@ -325,6 +313,10 @@ Subsecs. (f) and (g). Act Oct. 26, 1949, added subsecs. (f) and (g).
 <b>1941</b>—Subsec. (b)(2) amended by act Oct. 29, 1941.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. KK, §103(a), Dec. 29, 2022, 136 Stat. 6096, provided that: "The amendments made by section 102(a) \[enacting section 218d of this title and amending this section\] shall take effect on the date of enactment of this Act \[Dec. 29, 2022\]."
 
 #### Effective Date of 2000 Amendment
 
@@ -408,7 +400,7 @@ Covered Employee Defined.—In this section, the term 'covered employee' means a
 
 #### Liability of Employers
 
-Pub. L. 106–202, §2(d), May 18, 2000, 114 Stat. 309, provided that: "No employer shall be liable under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] for any failure to include in an employee's regular rate (as defined for purposes of such Act) any income or value derived from employer-provided grants or rights obtained pursuant to any stock option, stock appreciation right, or employee stock purchase program if—
+Pub. L. 106–202, §2(d), May 18, 2000, 114 Stat. 309, provided that: "No employer shall be liable under the FairLabor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] for any failure to include in an employee's regular rate (as defined for purposes of such Act) any income or value derived from employer-provided grants or rights obtained pursuant to any stock option, stock appreciation right, or employee stock purchase program if—
 
 &emsp;"(1) the grants or rights were obtained before the effective date described in subsection (c) \[set out as an Effective Date of 2000 Amendment note above\];
 

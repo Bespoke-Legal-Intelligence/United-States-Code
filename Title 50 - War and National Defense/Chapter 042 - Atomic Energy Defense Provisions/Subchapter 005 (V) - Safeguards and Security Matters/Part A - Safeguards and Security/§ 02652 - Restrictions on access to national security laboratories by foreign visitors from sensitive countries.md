@@ -14,7 +14,7 @@ For purposes of this section:
 
 &emsp;(1) The term "background review", commonly known as an indices check, means a review of information provided by the Director of National Intelligence and the Director of the Federal Bureau of Investigation regarding personal background, including information relating to any history of criminal activity or to any evidence of espionage.
 
-&emsp;(2) The term "sensitive countries list" means the list prescribed by the Secretary of Energy known as the Department of Energy List of Sensitive Countries.
+&emsp;(2) The term "sensitive countries list" means the list prescribed by the Secretary ofEnergy known as the Department of Energy List of Sensitive Countries.
 
 (Pub. L. 107–314, div. D, title XLV, §4502, formerly Pub. L. 106–65, div. C, title XXXI, §3146, Oct. 5, 1999, 113 Stat. 935; renumbered Pub. L. 107–314, div. D, title XLV, §4502, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(3), Nov. 24, 2003, 117 Stat. 1771; Pub. L. 112–239, div. C, title XXXI, §3131(k)(1), (bb)(1)(D), Jan. 2, 2013, 126 Stat. 2182, 2185; Pub. L. 113–66, div. C, title XXXI, §3146(f)(1), Dec. 26, 2013, 127 Stat. 1079.)
 

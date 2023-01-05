@@ -6,7 +6,7 @@ Funds made available under this chapter and the Arms Export Control Act \[22 U.S
 
 #### (b) Liability to contractors
 
-For the purpose of making an equitable settlement of termination claims under extraordinarycontractual relief standards, the President is authorized to adopt as a contract or other obligation of the United States Government, and assume (in whole or in part) any liabilities arising thereunder, any contract with a United States or third-country contractor that had been funded with assistance under such chapter or Act prior to the termination of assistance.
+For the purpose of making an equitable settlement of termination claims under extraordinary contractual relief standards, the President is authorized to adopt as a contract or other obligation of the United States Government, and assume (in whole or in part) any liabilities arising thereunder, any contract with a United States or third-country contractor that had been funded with assistance under such chapter or Act prior to the termination of assistance.
 
 #### (c) Termination expenses
 
@@ -26,15 +26,15 @@ Unless specifically made inapplicable by another provision of law, the provision
 
 #### References in Text
 
-This chapter and such chapter, referred to in subsecs. (a), (b), and (d), were in the original references to this Act and such Act, respectively, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter and such chapter, referred to in subsecs. (a), (b), and (d), were in the original references to this Act and such Act, respectively, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Arms Export Control Act and such Act, referred to in subsecs. (a) and (b), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act and such Act, referred to in subsecs. (a) and (b), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–264 amended section generally. Prior to amendment, section read as follows: "Assistance under any provision of this chapter may, unless sooner terminated by the President, be terminated by concurrent resolution. Funds made available under this chapter shall remain available for a period not to exceed eight months from the date of termination of assistance under this chapter for the necessary expenses of winding up programs related thereto. In order to ensure the effectiveness of assistance under this chapter, such expenses for orderly termination of programs may include the obligation and expenditure of funds to complete the training or studies outside their countries of origin of students whose course of study or training program began before assistance was terminated. Such expenses for orderly termination of programs under the Arms Export Control Act may include the obligation and expenditure of funds to complete the training or studies outside the countries of origin of students whose course of study or training program began before assistance was terminated, as long as the origin country's termination was not a result of activities beyond default of financial responsibilities."
 
-<b>1999</b>—Pub. L. 106–113 inserted at end "Such expenses for orderly termination of programs under the Arms Export Control Act may include the obligation and expenditure of funds to complete the training or studies outside the countries of origin of students whose course of study or training program began before assistance was terminated, as long as the origin country's termination was not a result of activities beyond default of financial responsibilities."
+<b>1999</b>—Pub. L. 106–113 inserted at end "Such expenses for orderly termination of programs under the Arms Export Control Act may include the obligation and expenditure of funds to complete the training or studies outside the countries of origin of students whose courseof study or training program began before assistance was terminated, as long as the origin country's termination was not a result of activities beyond default of financial responsibilities."
 
 <b>1980</b>—Pub. L. 96–533 authorized expenses for termination of programs to include completion of training or studies for students commenced outside their countries of origin prior to such termination.
 

@@ -14,7 +14,7 @@
 
 #### (3) Guidelines for preventing persons with potential biases from participating in determinations
 
-&emsp;Not later than 120 days after November 29, 1999, the Secretary of State (after consultation with the Attorney General) shall issue guidelines to ensure that persons with potential biases against any refugee applicant, including persons employed by, or otherwise subject to influence by, governments known to be involved in persecution on account of religion, race, nationality, membership in a particular social group, or political opinion, shall not in any way be used in processing determinations of refugee status, including interpretation of conversations or examination of documents presented by such applicants.
+&emsp;Not later than 120 days after November 29, 1999, the Secretary of State (after consultation with the Attorney General) shall issue guidelines to ensure that persons with potential biases against any refugee applicant, including persons employed by, or otherwise subject to influence by, governments known to be involved in persecution on account of religion,race, nationality, membership in a particular social group, or political opinion, shall not in any way be used in processing determinations of refugee status, including interpretation of conversations or examination of documents presented by such applicants.
 
 #### (d) Annual consultation
 

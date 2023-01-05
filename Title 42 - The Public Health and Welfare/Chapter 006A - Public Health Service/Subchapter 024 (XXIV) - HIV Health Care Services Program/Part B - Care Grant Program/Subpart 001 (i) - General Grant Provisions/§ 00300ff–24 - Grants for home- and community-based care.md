@@ -16,7 +16,7 @@ In awarding grants under subsection (a), a State shall give priority to entities
 
 &emsp;(1) such entities will participate in HIV care consortia if such consortia exist within the State; and
 
-&emsp;(2) such entities will utilize amounts provided under such grants for the provision of home- and community-based services to low-income individuals with HIV/AIDS.
+&emsp;(2) such entities will utilize amounts provided under such grants for the provision ofhome- and community-based services to low-income individuals with HIV/AIDS.
 
 #### (c) "Home- and community-based health services" defined
 

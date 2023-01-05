@@ -116,7 +116,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 &emsp;&emsp;&emsp;&emsp;(VI) an assessment of the treatment and other services and programs available in the State to effectively carry out any plan of safe care developed, including identification of needed treatment, and other services and programs to ensure the well-being of young children and their families affected by substance use disorder, such as programs carried out under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.) and comprehensive early childhood development services and programs such as Head Start programs;
 
-&emsp;&emsp;&emsp;(ii) a description of how the State plans to use funds for activities described in subparagraph (D) for the purposes of ensuring State compliance with requirements under clauses (ii) and (iii) of section 5106a(b)(2)(B) of this title; and
+&emsp;&emsp;&emsp;(ii) a description of how the State plans to use funds for activities described in subparagraph (D) for the purposes of ensuringState compliance with requirements under clauses (ii) and (iii) of section 5106a(b)(2)(B) of this title; and
 
 &emsp;&emsp;&emsp;(iii) an assurance that the State will comply with requirements to refer a child identified as substance-exposed to early intervention services as required pursuant to a grant under part C of the Individuals with Disabilities Education Act (20 U.S.C. 1431 et seq.).
 
@@ -144,7 +144,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 &emsp;&emsp;&emsp;&emsp;(I) appropriate notification to child protective services is made in a timely manner, as required under section 5106a(b)(2)(B)(ii) of this title;
 
-&emsp;&emsp;&emsp;&emsp;(II) a plan of safe care is in place, in accordance with section 5106a(b)(2)(B)(iii) of this title, before theinfant is discharged from the birth or health care facility; and
+&emsp;&emsp;&emsp;&emsp;(II) a plan of safe care is in place, in accordance with section 5106a(b)(2)(B)(iii) of this title, before the infant is discharged from the birth or health care facility; and
 
 &emsp;&emsp;&emsp;&emsp;(III) such health and related agency professionals are trained on how to follow such protocols and are aware of the supports that may be provided under a plan of safe care.
 
@@ -194,7 +194,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 &emsp;&emsp;The Secretary shall use the amount reserved under subparagraph (B)(i)(I) to provide written guidance and technical assistance to support States in complying with and implementing this paragraph, which shall include—
 
-&emsp;&emsp;&emsp;(i) technical assistance, including programs of in-depth technical assistance, toadditional States, territories, and Indian Tribes and tribal organizations in accordance with the substance-exposed infant initiative developed by the National Center on Substance Abuse and Child Welfare;
+&emsp;&emsp;&emsp;(i) technical assistance, including programs of in-depth technical assistance, to additional States, territories, and Indian Tribes and tribal organizations in accordance with the substance-exposed infant initiative developed by the National Center on Substance Abuse and Child Welfare;
 
 &emsp;&emsp;&emsp;(ii) guidance on the requirements of this Act with respect to infants born with and identified as being affected by substance use or withdrawal symptoms or fetal alcohol spectrum disorder, as described in clauses (ii) and (iii) of section 5106a(b)(2)(B) of this title, including by—
 
@@ -276,7 +276,7 @@ In addition to grants or contracts made under subsection (a), grants or contract
 
 &emsp;&emsp;(ii) encourage qualified grantees to combine the amounts received under the grant with other funds available to such grantees.
 
-&emsp;(5) Such other innovative programs and projects that show promise of preventing andtreating cases of child abuse and neglect as the Secretary may approve.
+&emsp;(5) Such other innovative programs and projects that show promise of preventing and treating cases of child abuse and neglect as the Secretary may approve.
 
 #### (c) Evaluation
 

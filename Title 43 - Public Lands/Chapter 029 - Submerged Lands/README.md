@@ -55,6 +55,7 @@
 | [1356\.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001356%20-%20Documentary%2C%20registry%20and%20manning%20requirements.md) | Documentary, registry and manning requirements. |
 | [1356a.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001356a%20-%20Coastal%20impact%20assistance%20program.md) | Coastal impact assistance program. |
 | [1356b.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001356b%20-%20Transboundary%20hydrocarbon%20agreements.md) | Transboundary hydrocarbon agreements. |
+| [1356c.](Subchapter%20003%20%28III%29%20-%20Outer%20Continental%20Shelf%20Lands/%C2%A7%2001356c%20-%20Wind%20lease%20sales%20for%20areas%20of%20the%20outer%20Continental%20Shelf%20offshore%20of%20territories%20of%20the%20United%20States.md) | Wind lease sales for areas of the outer Continental Shelf offshore of territories of the United States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

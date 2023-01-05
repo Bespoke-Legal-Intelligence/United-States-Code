@@ -2,7 +2,7 @@
 
 #### (a) State acquisition; windfall profits prevention
 
-Each cooperative agreement under section 7913 of this title shall require the State, where determined appropriate by the Secretary with the concurrence of the Commission, to acquire any designated processing site, including where appropriate any interest therein. In determining whether to require the State to acquire a designated processing site or interest therein, consideration shall be given to the prevention of windfall profits.
+Each cooperative agreement under section 7913 of this title shall require the State, where determined appropriate by the Secretary with theconcurrence of the Commission, to acquire any designated processing site, including where appropriate any interest therein. In determining whether to require the State to acquire a designated processing site or interest therein, consideration shall be given to the prevention of windfall profits.
 
 #### (b) Disposition and stabilization site for residual radioactive materials; Federal site available
 

@@ -84,7 +84,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (7) Dispute resolution
 
-&emsp;The Commissioner shall provide for a mechanism for resolving disputes between beneficiaries and employment networks, between program managers and employment networks, and between program managers and providers of services. The Commissioner shall afford a party to such a dispute a reasonable opportunity for a full and fair review of the matter in dispute.
+&emsp;The Commissioner shall provide for a mechanism for resolving disputes between beneficiaries and employment networks, between program managers and employment networks, and between program managers and providers of services. The Commissioner shall afford aparty to such a dispute a reasonable opportunity for a full and fair review of the matter in dispute.
 
 #### (e) Program managers
 
@@ -106,7 +106,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (5) Reasonable access to services
 
-&emsp;The program manager shall take such measures as are necessary to ensure that sufficient employment networks are available and that each beneficiary receiving services under theProgram has reasonable access to employment services, vocational rehabilitation services, and other support services. Services provided under the Program may include case management, work incentives planning, supported employment, career planning, career plan development, vocational assessment, job training, placement, follow-up services, and such other services as may be specified by the Commissioner under the Program. The program manager shall ensure that such services are available in each service area.
+&emsp;The program manager shall take such measures as are necessary to ensure that sufficient employment networks are available and that each beneficiary receiving services under the Program has reasonable access to employment services, vocational rehabilitation services, and other support services. Services provided under the Program may include case management, work incentives planning, supported employment, career planning, career plan development, vocational assessment, job training, placement, follow-up services, and such other services as may be specified by the Commissioner under the Program. The program manager shall ensure that such services are available in each service area.
 
 #### (f) Employment networks
 
@@ -166,7 +166,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;(D) provide a beneficiary the opportunity to amend the individual work plan if a change in circumstances necessitates a change in the plan; and
 
-&emsp;&emsp;(E) make each beneficiary's individual work plan available to the beneficiary in, asappropriate, an accessible format chosen by the beneficiary.
+&emsp;&emsp;(E) make each beneficiary's individual work plan available to the beneficiary in, as appropriate, an accessible format chosen by the beneficiary.
 
 > &emsp;An individual work plan established pursuant to this subsection shall be treated, for purposes of section 51(d)(6)(B)(i) of the Internal Revenue Code of 1986, as an individualized written plan for employment under a State plan for vocational rehabilitation services approved under the Rehabilitation Act of 1973 \[29 U.S.C. 701 et seq.\].
 
@@ -228,7 +228,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;&emsp;(i) in connection with a title II disability beneficiary, the average disability insurance benefit payable under section 423 of this title for all beneficiaries for months during the preceding calendar year; and
 
-&emsp;&emsp;&emsp;(ii) in connection with a title XVI disability beneficiary (who is not concurrently a title II disability beneficiary), the average payment of supplemental security income benefits based on disability payable under subchapter XVI (excluding State supplementation) for months duringthe preceding calendar year to all beneficiaries who have attained 18 years of age but have not attained 65 years of age.
+&emsp;&emsp;&emsp;(ii) in connection with a title XVI disability beneficiary (who is not concurrently a title II disability beneficiary), the average payment of supplemental security income benefits based on disability payable under subchapter XVI (excluding State supplementation) for months during the preceding calendar year to all beneficiaries who have attained 18 years of age but have not attained 65 years of age.
 
 #### (B) Outcome payment period
 
@@ -246,7 +246,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Number and amounts of milestone payments
 
-&emsp;&emsp;The Commissioner shall periodically review the number and amounts of milestone payments established by the Commissioner pursuant to this section to determine whether they provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, taking into account information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, and other reliable sources. The Commissioner may from time to time alter the number and amounts of milestone payments initially established by the Commissioner pursuant to this section to the extent that the Commissioner determines that such an alteration would allow an adequate incentive for employment networks to assist beneficiaries to enter the workforce. Such alteration shall be based on information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, or other reliable sources.
+&emsp;&emsp;The Commissioner shall periodically review the number and amounts of milestone payments established by the Commissioner pursuant to this section to determine whether they provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, taking into account information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, and other reliable sources. The Commissioner may from time to time alter the number and amounts of milestone payments initially established by the Commissioner pursuant to this section to the extent that the Commissioner determines that such analteration would allow an adequate incentive for employment networks to assist beneficiaries to enter the workforce. Such alteration shall be based on information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, or other reliable sources.
 
 #### (C) Report on the adequacy of incentives
 
@@ -276,7 +276,7 @@ During any period for which an individual is using, as defined by the Commission
 
 #### (B) Title XVI disability beneficiaries
 
-&emsp;&emsp;Amounts authorized to be appropriated to the Social Security Administration undersection 1381 of this title shall include amounts necessary to carry out the provisions of this section with respect to title XVI disability beneficiaries.
+&emsp;&emsp;Amounts authorized to be appropriated to the Social Security Administration under section 1381 of this title shall include amounts necessary to carry out the provisions of this section with respect to title XVI disability beneficiaries.
 
 #### (2) Administrative expenses
 
@@ -316,7 +316,7 @@ Not later than 1 year after December 17, 1999, the Commissioner shall prescribe 
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsecs. (c)(1), (2)(A) and (g)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (c)(1), (2)(A) and (g)(1), is Pub. L. 93–112, Sept. 26, 1973,87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified generally to Title 26, Internal Revenue Code.
 

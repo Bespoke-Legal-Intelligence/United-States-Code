@@ -32,7 +32,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;&emsp;&emsp;(ii) who does not have a legal guardian, conservator, or other legal representative, or for whom the legal guardian is the State; and
 
-&emsp;&emsp;&emsp;(iii) with respect to whom a complaint has been received by the system or with respect to whom as a result of monitoring or other activities (either of which result from a complaint or other evidence) there is probable cause to believe that such individual has been subject to abuse or neglect; and
+&emsp;&emsp;&emsp;(iii) with respect to whom a complaint has been received by the system or withrespect to whom as a result of monitoring or other activities (either of which result from a complaint or other evidence) there is probable cause to believe that such individual has been subject to abuse or neglect; and
 
 &emsp;&emsp;(C) any individual with a mental illness, who has a legal guardian, conservator, or other legal representative, with respect to whom a complaint has been received by the system or with respect to whom there is probable cause to believe the health or safety of the individual is in serious and immediate jeopardy, whenever—
 
@@ -52,7 +52,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;&emsp;(C) which shall be chaired by an individual who has received or is receiving mental health services or who is a family member of such an individual;
 
-&emsp;(7) on January 1, 1987, and January 1 of each succeeding year, prepare and transmit to the Secretary and the head of the State mental health agency of the State in which the system is located, and make publicly available, a report describing the activities, accomplishments, and expenditures of the system duringthe most recently completed fiscal year, including a section prepared by the advisory council that describes the activities of the council and its assessment of the operations of the system;
+&emsp;(7) on January 1, 1987, and January 1 of each succeeding year, prepare and transmit to the Secretary and the head of the State mental health agency of the State in which the system is located, and make publicly available, a report describing the activities, accomplishments, and expenditures of the system during the most recently completed fiscal year, including a section prepared by the advisory council that describes the activities of the council and its assessment of the operations of the system;
 
 &emsp;(8) on an annual basis, provide the public with an opportunity to comment on the priorities established by, and the activities of, the system;
 
@@ -88,7 +88,7 @@ The Secretary and the agency of a State which administers its State plan under t
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(5) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (a)(5) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
@@ -122,7 +122,7 @@ Subsec. (c). Pub. L. 100–509, §4(2), added subsec. (c).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant toobligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of this title.
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

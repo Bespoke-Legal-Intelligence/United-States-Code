@@ -70,7 +70,7 @@ Pub. L. 100–418, title I, §1428(a), Aug. 23, 1988, 102 Stat. 1254, provided t
 
 "(3)(A) On the first day after the date of enactment of this Act \[Aug. 23, 1988\] on which the General Agreement on Tariffs and Trade allows any country to impose a fee described in paragraph (1), the President shall submit to the Congress, and publish in the Federal Register, a written statement certifying such allowance.
 
-"(B) On the first day after the date of enactment of this Act on which any foreign country described inparagraph (1)(B) consents to the imposition of such a fee by the United States, the President shall submit to the Congress, and publish in the Federal Register, a written statement certifying such consent.
+"(B) On the first day after the date of enactment of this Act on which any foreign country described in paragraph (1)(B) consents to the imposition of such a fee by the United States, the President shall submit to the Congress, and publish in the Federal Register, a written statement certifying such consent.
 
 "(4) If—
 

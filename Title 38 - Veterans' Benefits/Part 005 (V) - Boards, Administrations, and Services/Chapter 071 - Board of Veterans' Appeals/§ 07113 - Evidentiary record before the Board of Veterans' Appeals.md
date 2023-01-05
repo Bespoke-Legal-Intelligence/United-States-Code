@@ -6,7 +6,7 @@ Cases With No Request for a Hearing or Additional Evidence.—For cases in which
 
 (b)
 
-Cases With a Request for a Hearing.—(1) Except as provided in paragraph (2), for cases inwhich a hearing is requested in the notice of disagreement, the evidentiary record before the Board shall be limited to the evidence of record at the time of the decision of the agency of original jurisdiction on appeal.
+Cases With a Request for a Hearing.—(1) Except as provided in paragraph (2), for cases in which a hearing is requested in the notice of disagreement, the evidentiary record before the Board shall be limited to the evidence of record at the time of the decision of the agency of original jurisdiction on appeal.
 
 (2) The evidentiary record before the Board for cases described in paragraph (1) shall include each of the following, which the Board shall consider in the first instance:
 

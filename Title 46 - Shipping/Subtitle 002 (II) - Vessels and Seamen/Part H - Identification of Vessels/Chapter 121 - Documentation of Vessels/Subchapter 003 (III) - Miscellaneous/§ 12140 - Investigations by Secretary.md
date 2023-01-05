@@ -22,7 +22,7 @@ In general.—For the purposes of any investigation conducted under this section
 
 &emsp;&emsp;&emsp;(i) determines that the subpoena is reasonable and will not interfere with a criminal investigation; or
 
-&emsp;&emsp;&emsp;(ii) fails to make a determination with respect to the subpoena before the date that is 30 days after the date on which the Secretary makes a request under subparagraph (A) with respect to the subpoena.
+&emsp;&emsp;&emsp;(ii) fails to make a determination with respect to the subpoena before the datethat is 30 days after the date on which the Secretary makes a request under subparagraph (A) with respect to the subpoena.
 
 &emsp;(2)
 

@@ -54,7 +54,7 @@ Fiscal years 2001 and 2002.—On October 1, 2000, and October 1, 2001, if a Stat
 
 &emsp;&emsp;(A) to be used for impaired driving countermeasures; or
 
-&emsp;&emsp;(B) to be directed to State and local law enforcement agencies for enforcement oflaws prohibiting driving while intoxicated or driving under the influence and other related laws (including regulations), including the purchase of equipment, the training of officers, and the use of additional personnel for specific impaired driving countermeasures, dedicated to enforcement of the laws (including regulations).
+&emsp;&emsp;(B) to be directed to State and local law enforcement agencies for enforcement of laws prohibiting driving while intoxicated or driving under the influence and other related laws (including regulations), including the purchase of equipment, the training of officers, and the use of additional personnel for specific impaired driving countermeasures, dedicated to enforcement of the laws (including regulations).
 
 &emsp;(2)
 
@@ -66,7 +66,7 @@ Reservation of funds.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—On October 1, 2021, and each October 1 thereafter, in the case of a State described in clause (ii), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1), and paragraph (3).
+In general.—On October 1, 2021, and each October 1 thereafter, in the case of a State described in clause (ii), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the meansby which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1), and paragraph (3).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -146,7 +146,7 @@ A prior section 154, added Pub. L. 93–643, §114(a), Jan. 4, 1975, 88 Stat. 22
 
 Subsec. (c)(2). Pub. L. 117–58, §11131(a)(1), substituted "2022" for "2012" in heading.
 
-Subsec. (c)(2)(A). Pub. L. 117–58, §11131(a)(2), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "On October 1, 2011,and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1) and paragraph (3)."
+Subsec. (c)(2)(A). Pub. L. 117–58, §11131(a)(2), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "On October 1, 2011, and each October 1 thereafter, if a State has not enacted or is not enforcing an open container law described in subsection (b), the Secretary shall reserve an amount equal to 2.5 percent of the funds to be apportioned to the State on that date under each of paragraphs (1) and (2) of section 104(b) until the State certifies to the Secretary the means by which the State will use those reserved funds in accordance with subparagraphs (A) and (B) of paragraph (1) and paragraph (3)."
 
 Subsec. (c)(2)(B). Pub. L. 117–58, §11131(a)(3), substituted "subparagraph (A)(i)" for "subparagraph (A)" in introductory provisions.
 

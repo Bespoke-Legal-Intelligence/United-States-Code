@@ -58,7 +58,7 @@ Rules.—(1) The Court shall prescribe rules, consistent with the provisions of 
 
 (3)(A) In conducting hearings pursuant to paragraph (1), the Court may exercise the authority provided under section 1821 of title 28 to pay the fees and allowances described in that section.
 
-(B) The Court shall have the power provided under section 361 of title 28 to award reimbursement for the reasonable expenses described inthat section. Reimbursements under this subparagraph shall be made from funds appropriated to the Court.
+(B) The Court shall have the power provided under section 361 of title 28 to award reimbursement for the reasonable expenses described in that section. Reimbursements under this subparagraph shall be made from funds appropriated to the Court.
 
 (h)
 

@@ -24,6 +24,7 @@
 - [&sect; 00349 - Bottled drinking water standards; publication in Federal Register](%C2%A7%2000349%20-%20Bottled%20drinking%20water%20standards%3B%20publication%20in%20Federal%20Register.md)
 - [&sect; 00350 - Vitamins and minerals](%C2%A7%2000350%20-%20Vitamins%20and%20minerals.md)
 - [&sect; 00350a - Infant formulas](%C2%A7%2000350a%20-%20Infant%20formulas.md)
+- [&sect; 00350a&#8211;1 - Protecting infants and improving formula supply](%C2%A7%2000350a%E2%80%931%20-%20Protecting%20infants%20and%20improving%20formula%20supply.md)
 - [&sect; 00350b - New dietary ingredients](%C2%A7%2000350b%20-%20New%20dietary%20ingredients.md)
 - [&sect; 00350c - Maintenance and inspection of records](%C2%A7%2000350c%20-%20Maintenance%20and%20inspection%20of%20records.md)
 - [&sect; 00350d - Registration of food facilities](%C2%A7%2000350d%20-%20Registration%20of%20food%20facilities.md)
@@ -36,3 +37,4 @@
 - [&sect; 00350k - Laboratory accreditation for analyses of foods](%C2%A7%2000350k%20-%20Laboratory%20accreditation%20for%20analyses%20of%20foods.md)
 - [&sect; 00350l - Mandatory recall authority](%C2%A7%2000350l%20-%20Mandatory%20recall%20authority.md)
 - [&sect; 00350l&#8211;1 - Annual report to Congress](%C2%A7%2000350l%E2%80%931%20-%20Annual%20report%20to%20Congress.md)
+- [&sect; 00350m - Requirements for critical food](%C2%A7%2000350m%20-%20Requirements%20for%20critical%20food.md)

@@ -170,7 +170,7 @@ Funds and acres not obligated.—In the case of an agreement described in subpar
 
 &emsp;&emsp;&emsp;"(I) the Secretary shall modify the agreement to authorize the entrance into a contract under subchapter B of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa–21 et seq.\] (as added by subsections (a)(2) and (b)); and
 
-&emsp;&emsp;&emsp;"(II) the funds associated with the conservation stewardship program acres allocated under thatagreement, on modification under subclause (I), may be used to enter into conservation stewardship program contracts with producers under subchapter B of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa–21 et seq.\] (as added by subsections (a)(2) and (b)).
+&emsp;&emsp;&emsp;"(II) the funds associated with the conservation stewardship program acres allocated under that agreement, on modification under subclause (I), may be used to enter into conservation stewardship program contracts with producers under subchapter B of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa–21 et seq.\] (as added by subsections (a)(2) and (b)).
 
 "(4)
 
@@ -194,7 +194,7 @@ Pub. L. 113–79, title II, §2101(b), Feb. 7, 2014, 128 Stat. 728, provided tha
 
 "(1)
 
-In general.—The amendment made by this section \[amending sections 3838d to 3838g of this title\] shall not affect the validity or terms of any contract entered into by the Secretary of Agriculture under subchapter B of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3838d et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract.
+In general.—The amendment made by this section \[amending sections 3838d to 3838g of this title\] shall not affect the validity or terms of any contractentered into by the Secretary of Agriculture under subchapter B of chapter 2 of subtitle D of title XII of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3838d et seq.) before the date of enactment of the Agricultural Act of 2014 \[Feb. 7, 2014\], or any payments required to be made in connection with the contract.
 
 "(2)
 

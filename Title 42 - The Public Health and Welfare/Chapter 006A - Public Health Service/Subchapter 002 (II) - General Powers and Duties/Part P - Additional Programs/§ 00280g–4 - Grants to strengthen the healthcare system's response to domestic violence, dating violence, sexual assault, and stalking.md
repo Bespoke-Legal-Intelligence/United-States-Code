@@ -4,11 +4,15 @@
 
 The Secretary shall award grants for—
 
-&emsp;(1) the development or enhancement and implementation of interdisciplinary training for health professionals, public health staff, and allied health professionals;
+&emsp;(1) the development or enhancement and implementation of interdisciplinary training for health professionals, public health staff, community health workers, violence prevention advocates working with health providers, and allied health professionals;
 
-&emsp;(2) the development or enhancement and implementation of education programs for medical, nursing, dental, and other health profession students and residents to prevent and respond to domestic violence, dating violence, sexual assault, and stalking; and
+&emsp;(2) the development or enhancement and implementation of education programs for medical, psychology, dental, social work, nursing, and other health profession students, interns, residents, fellows, or current health care providers (including midwives and doulas);
 
-&emsp;(3) the development or enhancement and implementation of comprehensive statewide strategies to improve the response of clinics, public health facilities, hospitals, and other health settings (including behavioral and mental health programs) to domestic violence, dating violence, sexual assault, and stalking.
+&emsp;(3) the development or enhancement and implementation of comprehensive statewide strategies to improve the capacity of clinics, public health facilities, hospitals, and other health settings (including behavioral and mental health programs) to prevent and respond to domestic violence, dating violence, sexual assault, and stalking;
+
+&emsp;(4) the development or enhancement and implementation of training programs to improve the capacity of early childhood programs to address domestic violence, dating violence, sexual assault, and stalking among families they serve; and
+
+&emsp;(5) the development or enhancement and implementation of comprehensive statewide strategies for health and violence prevention programs to work together to promote primary prevention of domestic violence, dating violence, sexual assault, and stalking.
 
 #### (b) Use of funds
 
@@ -18,25 +22,41 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;(A) fund interdisciplinary training and education programs under paragraphs (1) and (2) of subsection (a) that—
 
-&emsp;&emsp;&emsp;(i) are designed to train medical, psychology, dental, social work, nursing, and other health profession students, interns, residents, fellows, or current health care providers to identify and provide health care services (including mental or behavioral health care services and referrals to appropriate community services) to individuals who are or who have been victims of domestic violence, dating violence, sexual assault, or stalking; and
+&emsp;&emsp;&emsp;(i) are designed to train medical, psychology, dental, social work, nursing, and other health profession students, interns, residents, fellows, or current health care providers to provide universal education on healthy relationships and provide trauma-informed health care services (including mental or behavioral health care services and referrals to appropriate community services) to individuals who are or who have been victims of domestic violence, dating violence, sexual assault, or stalking;
 
-&emsp;&emsp;&emsp;(ii) plan and develop culturally competent clinical training components for integration into approved internship, residency, and fellowship training or continuing medical or other health education training that address physical, mental, and behavioral health issues, including protective factors, related to domestic violence, dating violence, sexual assault, stalking, and other forms of violence and abuse, focus on reducing health disparities and preventing violence and abuse, and include the primacy of victim safety and confidentiality;
+&emsp;&emsp;&emsp;(ii) plan and develop training components that center the experiences of, and are developed in collaboration with, culturally specific individuals and American Indians and Alaska Natives, and include community-defined practices such as the use of doulas, midwives, and traditional healers, for integration into approved internship, residency, and fellowship training or continuing medical or other health education training that address physical, mental, and behavioral health issues, including protective factors, related to domestic violence, dating violence, sexual assault, stalking, and other forms of violence and abuse (including labor and sex trafficking), focus on reducing health inequities and preventing violence and abuse, and include the primacy of victim safety and confidentiality;
 
-&emsp;&emsp;(B) design and implement comprehensive strategies to improve the response of the health care system to domestic or sexual violence in clinical and public health settings, hospitals, clinics, and other health settings (including behavioral and mental health), under subsection (a)(3) through—
+&emsp;&emsp;&emsp;(iii) are designed to be inclusive of the experiences of all individuals, including LGBT individuals, and include training on improving equity and reducing disparities in access to health care services and prevention resources; and
 
-&emsp;&emsp;&emsp;(i) the implementation, dissemination, and evaluation of policies and procedures to guide health professionals and public health staff in identifying and responding to domestic violence, dating violence, sexual assault, and stalking, including strategies to ensure that health information is maintained in a manner that protects the patient's privacy and safety, and safely uses health information technology to improve documentation, identification, assessment, treatment, and follow-up care;
+&emsp;&emsp;&emsp;(iv) include training on the use of a universal prevention education approach to both prevent and respond to domestic violence, dating violence, sexual assault, or stalking in health care settings;
 
-&emsp;&emsp;&emsp;(ii) the development of on-site access to services to address the safety, medical, and mental health needs of patients by increasing the capacity of existing health care professionals and public health staff to address domestic violence, dating violence, sexual assault, and stalking, or by contracting with or hiring domestic or sexual assault advocates to provide such services or to model other services appropriate to the geographic and cultural needs of a site;
+&emsp;&emsp;(B) design and implement comprehensive strategies to improve the capacity of the health care system to prevent and respond to domestic or sexual violence in clinical and public health settings, hospitals, clinics, and other health settings (including behavioral and mental health), under subsection (a)(3) through—
 
-&emsp;&emsp;&emsp;(iii) the development of measures and methods for the evaluation of the practice of identification, intervention, and documentation regarding victims of domestic violence, dating violence, sexual assault, and stalking, including the development and testing of quality improvement measurements, in accordance with the multi-stakeholder and quality measurement processes established under paragraphs (7) and (8) of section 1395aaa(b) of this title and section 1395aaa–1 of this title; and
+&emsp;&emsp;&emsp;(i) the implementation, dissemination, and evaluation of policies and procedures to guide health professionals and public health staff in identifying, responding to, and promoting prevention of domestic violence, dating violence, sexual assault, and stalking during in-person or virtual visits, including strategies to ensure that health information is maintained in a manner that protects the patient's privacy and safety, and safely uses health information technology to improve documentation, identification, assessment, treatment, and follow-up care and to maximize victim choice on the use and sharing of their health information;
 
-&emsp;&emsp;&emsp;(iv) the provision of training and follow-up technical assistance to health care professionals, and public health staff, and allied health professionals to identify, assess, treat, and refer clients who are victims of domestic violence, dating violence, sexual assault, or stalking, including using tools and training materials already developed.
+&emsp;&emsp;&emsp;(ii) the development of services to address the safety, medical, and mental health needs of patients by—
+
+&emsp;&emsp;&emsp;&emsp;(I) increasing the capacity of existing health care professionals (including professionals who specialize in trauma or in substance use disorders) in behavioral and mental health care, community health workers, and public health staff to address domestic violence, dating violence, sexual assault, stalking, and children exposed to violence;
+
+&emsp;&emsp;&emsp;&emsp;(II) contracting with or hiring advocates for victims of domestic violence or sexual assault to provide such services; or
+
+&emsp;&emsp;&emsp;&emsp;(III) providing funding to State domestic and sexual violence coalitions to improve the capacity of such coalitions to coordinate and support health advocates and other health system partnerships;
+
+&emsp;&emsp;&emsp;(iii) the development of measures and methods for the evaluation of the practice of prevention, intervention, and documentation regarding victims of domestic violence, dating violence, sexual assault, and stalking during in-person or virtual visits, including the development and testing of quality improvement measurements, in accordance with the multi-stakeholder and quality measurement processes established under paragraphs (7) and (8) of section 1395aaa(b) of this title and section 1395aaa–1 of this title;
+
+&emsp;&emsp;&emsp;(iv) the provision of training and follow-up technical assistance to health care professionals, and public health staff, and allied health professionals to identify, assess, treat, and refer clients who are victims of domestic violence, dating violence, sexual assault, or stalking, and promote prevention during in-person or virtual visits, including using tools and training materials already developed;
+
+&emsp;&emsp;&emsp;(v) the development, implementation, dissemination, and evaluation of best practices, tools, and training materials, including culturally relevant tools, for mental health, behavioral health, and substance use disorder professionals to identify and respond to domestic violence, sexual violence, stalking, and dating violence; and
+
+&emsp;&emsp;&emsp;(vi) the development and provision of culturally relevant training and follow-up technical assistance to health care professionals, and public health staff, and allied health professionals to identify, assess, treat, and refer clients who are victims of domestic violence, dating violence, sexual assault, or stalking from culturally specific communities and promote prevention, using tools and training materials, developed by and for culturally specific communities, with priority given to trainings provided by culturally specific organizations; and
+
+&emsp;&emsp;(C) design and implement comprehensive strategies to prevent domestic or sexual violence including through the use of universal education in clinical and public health settings, hospitals, clinics and other health settings.
 
 #### (2) Permissible uses
 
-#### (A) Child and elder abuse
+#### (A) Child abuse and abuse in later life
 
-&emsp;&emsp;To the extent consistent with the purpose of this section, a grantee may use amounts received under this section to address, as part of a comprehensive programmatic approach implemented under the grant, issues relating to child or elder abuse.
+&emsp;&emsp;To the extent consistent with the purpose of this section, a grantee may use amounts received under this section to address, as part of a comprehensive programmatic approach implemented under the grant, issues relating to child abuse or abuse in later life.
 
 #### (B) Rural areas
 
@@ -46,13 +66,25 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;Grants funded under subsection (a)(3) may be used for—
 
-&emsp;&emsp;&emsp;(i) the development of training modules and policies that address the overlap of child abuse, domestic violence, dating violence, sexual assault, and stalking and elder abuse, as well as childhood exposure to domestic and sexual violence;
+&emsp;&emsp;&emsp;(i) the development of training modules and policies that address the overlap of child abuse, domestic violence, dating violence, sexual assault, and stalking and abuse in later life, as well as childhood exposure to domestic and sexual violence;
 
-&emsp;&emsp;&emsp;(ii) the development, expansion, and implementation of sexual assault forensic medical examination or sexual assault nurse examiner programs;
+&emsp;&emsp;&emsp;(ii) the development, expansion, and implementation of programs that promote the prevention of sexual assault as well as sexual assault forensic medical examination or sexual assault nurse examiner programs;
 
-&emsp;&emsp;&emsp;(iii) the inclusion of the health effects of lifetime exposure to violence and abuse as well as related protective factors and behavioral risk factors in health professional training schools including medical, dental, nursing, social work, and mental and behavioral health curricula, and allied health service training courses; or
+&emsp;&emsp;&emsp;(iii) the inclusion of the health effects of lifetime exposure to violence and abuse and exposure to violence across generations as well as related protective factors and behavioral risk factors in health professional training schools including medical, dental, nursing, social work, and mental and behavioral health curricula, and allied health service training courses;
 
-&emsp;&emsp;&emsp;(iv) the integration of knowledge of domestic violence, dating violence, sexual assault, and stalking into health care accreditation and professional licensing examinations, such as medical, dental, social work, and nursing boards, and where appropriate, other allied health exams.
+&emsp;&emsp;&emsp;(iv) the integration of knowledge of domestic violence, dating violence, sexual assault, and stalking into health care accreditation and professional licensing examinations, such as medical, dental, mental health, social work, and nursing boards, and where appropriate, other allied health exams and certifications;
+
+&emsp;&emsp;&emsp;(v) providing funding to culturally specific organizations to improve the capacity of such organizations to engage and partner with health care providers to support victims and meet increased referrals from health systems;
+
+&emsp;&emsp;&emsp;(vi) developing a State-level pilot program to—
+
+&emsp;&emsp;&emsp;&emsp;(I) improve the response of substance use disorder treatment programs, harm reduction programs for people who use substances, and systems to domestic violence, dating violence, sexual assault, and stalking;
+
+&emsp;&emsp;&emsp;&emsp;(II) improve the capacity of substance use disorder treatment programs, harm reduction programs for people who use substances, and systems to serve survivors of domestic violence, dating violence, sexual assault, and stalking dealing with substance use disorder; and
+
+&emsp;&emsp;&emsp;&emsp;(III) improve the capacity of domestic violence, dating violence, sexual assault, and stalking programs to serve survivors who have substance use history; or
+
+&emsp;&emsp;&emsp;(vii) developing and utilizing existing technical assistance and training resources to improve the capacity of substance use disorder treatment programs and harm reduction programs for people who use substances to address domestic violence, dating violence, sexual assault, and stalking among patients the programs serve.
 
 #### (c) Requirements for grantees
 
@@ -74,7 +106,13 @@ The Secretary shall award grants for—
 
 #### (A) Preference
 
-&emsp;&emsp;In selecting grant recipients under this section, the Secretary shall give preference to applicants based on the strength of their evaluation strategies, with priority given to outcome based evaluations.
+&emsp;&emsp;In selecting grant recipients under this section, the Secretary shall give preference to applicants based on the strength of their evaluation strategies, with priority given to—
+
+&emsp;&emsp;&emsp;(i) outcome based evaluations;
+
+&emsp;&emsp;&emsp;(ii) culturally specific and population specific organizations; and
+
+&emsp;&emsp;&emsp;(iii) programs developing and implementing community-driven solutions to address domestic violence, dating violence, sexual assault, or stalking.
 
 #### (B) Subsection (a)(1) and (2) grantees
 
@@ -86,9 +124,9 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;&emsp;&emsp;(II) a health care facility or system; or
 
-&emsp;&emsp;&emsp;&emsp;(III) a government or nonprofit entity with a history of effective work in the fields of domestic violence, dating violence, sexual assault, or stalking; and
+&emsp;&emsp;&emsp;&emsp;(III) a government or nonprofit entity, including a culturally specific organization or community-based organization working to address the social determinants of health, with a history of effective work in the fields of domestic violence, dating violence, sexual assault, or stalking; and
 
-&emsp;&emsp;&emsp;(ii) strategies for the dissemination and sharing of curricula and other educational materials developed under the grant, if any, with other interested health professions schools and national resource repositories for materials on domestic violence, dating violence, sexual assault, and stalking.
+&emsp;&emsp;&emsp;(ii) strategies for the dissemination and sharing of curricula and other educationalmaterials developed under the grant, if any, with other interested health professions schools and national resource repositories for materials on domestic violence, dating violence, sexual assault, and stalking.
 
 #### (C) Subsection (a)(3) grantees
 
@@ -96,11 +134,15 @@ The Secretary shall award grants for—
 
 &emsp;&emsp;&emsp;(i) documentation that all training, education, screening, assessment, services, treatment, and any other approach to patient care will be informed by an understanding of violence and abuse victimization and trauma-specific approaches that will be integrated into prevention, intervention, and treatment activities;
 
-&emsp;&emsp;&emsp;(ii) strategies for the development and implementation of policies to prevent and address domestic violence, dating violence, sexual assault, and stalking over the lifespan in health care settings;
+&emsp;&emsp;&emsp;(ii) strategies—
 
-&emsp;&emsp;&emsp;(iii) a plan for consulting with State and tribal domestic violence or sexual assault coalitions, national nonprofit victim advocacy organizations, State or tribal law enforcement task forces (where appropriate), and population specific organizations with demonstrated expertise in domestic violence, dating violence, sexual assault, or stalking;
+&emsp;&emsp;&emsp;&emsp;(I) for the development and implementation of policies to prevent and address domestic violence, dating violence, sexual assault, and stalking over the lifespan and generations in health care settings; and
 
-&emsp;&emsp;&emsp;(iv) with respect to an application for a grant under which the grantee will have contact with patients, a plan, developed in collaboration with local victim service providers, to respond appropriately to and make correct referrals for individuals who disclose that they are victims of domestic violence, dating violence, sexual assault, stalking, or other types of violence, and documentation provided by the grantee of an ongoing collaborative relationship with a local victim service provider; and
+&emsp;&emsp;&emsp;&emsp;(II) to address primary prevention of domestic violence, dating violence, sexual assault, and stalking over the lifespan and generations, including strategies that address related social determinants of health, economic justice, and equity issues, and that are inclusive of LGBT individuals;
+
+&emsp;&emsp;&emsp;(iii) a plan for consulting with State and tribal domestic violence or sexual assault coalitions, national nonprofit victim advocacy organizations, culturally specific organizations, and population specific organizations with demonstrated expertise in domestic violence, dating violence, sexual assault, or stalking;
+
+&emsp;&emsp;&emsp;(iv) with respect to an application for a grant under which the grantee will have contact with patients, a plan, developed in collaboration with local victim service providers (including culturally specific organizations), to respond appropriately to and make correct referrals for individuals who disclose that they are victims of domestic violence, dating violence, sexual assault, stalking, or other types of violence, and documentation provided by the grantee of an ongoing collaborative relationship with a local victim service provider; and
 
 &emsp;&emsp;&emsp;(v) with respect to an application for a grant proposing to fund a program described in subsection (b)(2)(C)(ii), a certification that any sexual assault forensic medical examination and sexual assault nurse examiner programs supported with such grant funds will adhere to the guidelines set forth by the Attorney General.
 
@@ -122,9 +164,9 @@ The Secretary shall award grants for—
 
 &emsp;To be eligible to receive funding under subsection (a)(3), an entity shall be—
 
-&emsp;&emsp;(A) a State department (or other division) of health, a State, tribal, or territorial domestic violence or sexual assault coalition or victim service provider, or any other nonprofit, nongovernmental organization with a history of effective work in the fields of domestic violence, dating violence, sexual assault, or stalking, and health care, including physical or mental health care; or
+&emsp;&emsp;(A) a State department (or other division) of health (including mental health or substance abuse agencies), a State, tribal, or territorial domestic violence or sexual assault coalition or victim service provider, or any other nonprofit, nongovernmental organization with a history of effective work in the fields of domestic violence, dating violence, sexual assault, or stalking, and health care, including physical or behavioral health care and substance use disorder prevention and treatment; or
 
-&emsp;&emsp;(B) a local victim service provider, a local department (or other division) of health, a local health clinic, hospital, or health system, or any other community-based organization with a history of effective work in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care.
+&emsp;&emsp;(B) a local victim service provider, a local department (or other division) of health, a local health clinic, hospital, behavioral health treatment system, or health system, a community-based organization with a history of effective work in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment, or a community-based organization with a history of partnership with programs in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment.
 
 #### (e) Technical assistance
 
@@ -168,13 +210,13 @@ The Secretary shall award grants for—
 
 #### (g) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, $10,000,000 for each of fiscal years 2014 through 2018.
+There is authorized to be appropriated to carry out this section, $20,000,000 for each of fiscal years 2023 through 2027.
 
 #### (h) Definitions
 
-Except as otherwise provided herein, the definitions provided for in section 12291 of title 34 shall apply to this section.
+Except as otherwise provided, the definitions in section 12291 of title 34 shall apply to this section.
 
-(July 1, 1944, ch. 373, title III, §399P, formerly §399O, as added Pub. L. 109–162, title V, §504, Jan. 5, 2006, 119 Stat. 3026; renumbered §399P, Pub. L. 109–450, §4(1), Dec. 22, 2006, 120 Stat. 3342; amended Pub. L. 113–4, title V, §501(a), Mar. 7, 2013, 127 Stat. 96.)
+(July 1, 1944, ch. 373, title III, §399P, formerly §399O, as added Pub. L. 109–162, title V, §504, Jan. 5, 2006, 119 Stat. 3026; renumbered §399P, Pub. L. 109–450, §4(1), Dec. 22, 2006, 120 Stat. 3342; amended Pub. L. 113–4, title V, §501(a), Mar. 7, 2013, 127 Stat. 96; Pub. L. 117–103, div. W, title V, §501, Mar. 15, 2022, 136 Stat. 869.)
 
 #### <b>Editorial Notes</b>
 
@@ -184,9 +226,73 @@ The Family Violence Prevention and Services Act, referred to in subsec. (c)(1)(A
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–103, §501(1)(A), inserted "community health workers, violence prevention advocates working with health providers," after "health staff,".
+
+Subsec. (a)(2). Pub. L. 117–103, §501(1)(B), substituted "for medical, psychology, dental, social work, nursing, and other health profession students, interns, residents, fellows, or current health care providers (including midwives and doulas);" for "for medical, nursing, dental, and other health profession students and residents to prevent and respond to domestic violence, dating violence, sexual assault, and stalking; and".
+
+Subsec. (a)(3). Pub. L. 117–103, §501(1)(C)(i), (ii), substituted "capacity" for "response" and inserted "prevent and respond to" after "(including behavioral and mental health programs) to".
+
+Subsec. (a)(4), (5). Pub. L. 117–103, §501(1)(C)(iii), (D), added pars. (4) and (5).
+
+Subsec. (b)(1)(A)(i). Pub. L. 117–103, §501(2)(A)(i), substituted "to provide universal education on healthy relationships and provide trauma-informed" for "to identify and provide".
+
+Subsec. (b)(1)(A)(ii). Pub. L. 117–103, §501(2)(B), substituted "training components that center the experiences of, and are developed in collaboration with, culturally specific individuals and American Indians and Alaska Natives, and include community-defined practices such as the use of doulas, midwives, and traditional healers," for "culturally competent clinical training components" and "inequities" for "disparities" and inserted "(including labor and sex trafficking)" after "other forms of violence and abuse".
+
+Subsec. (b)(1)(A)(iii), (iv). Pub. L. 117–103, §501(2)(A)(ii), (C), added cls. (iii) and (iv).
+
+Subsec. (b)(1)(B). Pub. L. 117–103, §501(2)(D), substituted "capacity of the health care system to prevent and respond" for "response of the health care system" in introductory provisions.
+
+Subsec. (b)(1)(B)(i). Pub. L. 117–103, §501(2)(E), substituted "identifying, responding to, and promoting prevention of" for "identifying and responding to" and inserted "during in-person or virtual visits" after "and stalking" and "and to maximize victim choice on the use and sharing of their health information" before semicolon at end.
+
+Subsec. (b)(1)(B)(ii). Pub. L. 117–103, §501(2)(F), substituted "services to address the safety, medical, and mental health needs of patients by—" and subcls. (I) to (III) for "on-site access to services to address the safety, medical, and mental health needs of patients by increasing the capacity of existing health care professionals and public health staff to address domestic violence, dating violence, sexual assault, and stalking, or by contracting with or hiring domestic or sexual assault advocates to provide such services or to model other services appropriate to the geographic and cultural needs of a site;".
+
+Subsec. (b)(1)(B)(iii). Pub. L. 117–103, §501(2)(G)(i), (ii), substituted "of prevention" for "of identification" and inserted "during in-person or virtual visits" after "and stalking".
+
+Subsec. (b)(1)(B)(iv). Pub. L. 117–103, §501(2)(H)(i), inserted "and promote prevention during in-person or virtual visits," after "or stalking,".
+
+Subsec. (b)(1)(B)(v), (vi). Pub. L. 117–103, §501(2)(G)(iii), (H)(ii), (I), added cls. (v) and (vi).
+
+Subsec. (b)(1)(C). Pub. L. 117–103, §501(2)(J), added subpar. (C).
+
+Subsec. (b)(2)(A). Pub. L. 117–103, §501(3), substituted "Child abuse and abuse in later life" for "Child and elder abuse" in heading and "child abuse or abuse in later life" for "child or elder abuse" in text.
+
+Subsec. (b)(2)(C)(i). Pub. L. 117–103, §501(4), substituted "abuse in later life" for "elder abuse".
+
+Subsec. (b)(2)(C)(ii). Pub. L. 117–103, §501(5), inserted "programs that promote the prevention of sexual assault as well as" after "implementation of".
+
+Subsec. (b)(2)(C)(iii). Pub. L. 117–103, §501(6)(A), inserted "and exposure to violence across generations" after "abuse".
+
+Subsec. (b)(2)(C)(iv). Pub. L. 117–103, §501(7), inserted "mental health," after "dental," and substituted "exams and certifications;" for "exams.".
+
+Subsec. (b)(2)(C)(v) to (vii). Pub. L. 117–103, §501(6)(B), (8), added cls. (v) to (vii).
+
+Subsec. (c)(3)(A). Pub. L. 117–103, §501(9), substituted "given to—" and cls. (i) to (iii) for "given to outcome based evaluations."
+
+Subsec. (c)(3)(B)(i)(III). Pub. L. 117–103, §501(10), inserted ", including a culturally specific organization or community-based organization working to address the social determinants of health," after "nonprofit entity".
+
+Subsec. (c)(3)(C)(ii). Pub. L. 117–103, §501(11), substituted "strategies—" for "strategies", inserted subcl. (I) designation before "for the development", inserted "and generations" after "lifespan" and added subcl. (II).
+
+Subsec. (c)(3)(C)(iii). Pub. L. 117–103, §501(12), substituted "culturally specific organizations" for "State or tribal law enforcement task forces (where appropriate)".
+
+Subsec. (c)(3)(C)(iv). Pub. L. 117–103, §501(13), inserted "(including culturally specific organizations)" after "service providers".
+
+Subsec. (d)(2)(A). Pub. L. 117–103, §501(14)(C), which directed insertion of "and substance use disorder prevention and treatment" before "the semicolon at the end", was executed by making the insertion before "; or", to reflect the probable intent of Congress.
+
+Pub. L. 117–103, §501(14)(A), (B), inserted "(including mental health or substance abuse agencies)" after "of health" and substituted "or behavioral" for "or mental".
+
+Subsec. (d)(2)(B). Pub. L. 117–103, §501(15), substituted "hospital, behavioral health treatment system, or health system, a community-based" for "hospital, or health system, or any other community-based" and inserted "or substance use disorder prevention and treatment, or a community-based organization with a history of partnership with programs in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment" after "mental health care".
+
+Subsec. (g). Pub. L. 117–103, §501(16), substituted "$20,000,000" for "$10,000,000" and "2023 through 2027" for "2014 through 2018".
+
+Subsec. (h). Pub. L. 117–103, §501(17), struck out "herein" after "otherwise provided" and "provided for" after "definitions".
+
 <b>2013</b>—Pub. L. 113–4 amended section generally. Prior to amendment, section related to grants to foster public health responses to domestic violence, dating violence, sexual assault, and stalking.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Findings
 

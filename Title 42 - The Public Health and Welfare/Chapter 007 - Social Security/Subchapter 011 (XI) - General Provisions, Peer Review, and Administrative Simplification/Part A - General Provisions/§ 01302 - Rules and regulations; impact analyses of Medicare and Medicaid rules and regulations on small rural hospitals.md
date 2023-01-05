@@ -1,6 +1,6 @@
 ### §1302. Rules and regulations; impact analyses of Medicare and Medicaid rules and regulations on small rural hospitals
 
-(a) The Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services, respectively, shall make and publish such rules and regulations, not inconsistent with this chapter, as may be necessary to the efficient administration of the functions with which each is charged under this chapter.
+(a) The Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health andHuman Services, respectively, shall make and publish such rules and regulations, not inconsistent with this chapter, as may be necessary to the efficient administration of the functions with which each is charged under this chapter.
 
 (b)(1) Whenever the Secretary publishes a general notice of proposed rulemaking for any rule or regulation proposed under subchapter XVIII, subchapter XIX, or part B of this subchapter that may have a significant impact on the operations of a substantial number of small rural hospitals, the Secretary shall prepare and make available for public comment an initial regulatory impact analysis. Such analysis shall describe the impact of the proposed rule or regulation on such hospitals and shall set forth, with respect to small rural hospitals, the matters required under section 603 of title 5 to be set forth with respect to small entities. The initial regulatory impact analysis (or a summary) shall be published in the Federal Register at the time of the publication of general notice of proposed rulemaking for the rule or regulation.
 
@@ -24,7 +24,7 @@
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4402(b), Dec. 22, 1987, 101 Stat. 1330–226, provided that: "The amendments made by paragraph (1) \[probably means subsec. (a), amending this section\] shall apply to regulations proposed morethan 30 days after the date of the enactment of this Act \[Dec. 22, 1987\]."
+Pub. L. 100–203, title IV, §4402(b), Dec. 22, 1987, 101 Stat. 1330–226, provided that: "The amendments made by paragraph (1) \[probably means subsec. (a), amending this section\] shall apply to regulations proposed more than 30 days after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 #### Effective Date of 1984 Amendment
 

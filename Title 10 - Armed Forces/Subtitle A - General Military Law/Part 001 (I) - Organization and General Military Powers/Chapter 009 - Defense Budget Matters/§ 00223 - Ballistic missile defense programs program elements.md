@@ -138,7 +138,7 @@ Relationship to Other Law.—Nothing in this provision shall be construed to alt
 
 "(f)
 
-Plan Required.—Not later than March 1, 2008, the Director of the Missile Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for transitioning the Missile Defense Agency from using exclusively research, development, test, and evaluation funds to using procurement, military construction, operations and maintenance, and research, development, test, and evaluation funds for the appropriate budget activities, and fortransitioning from incremental funding to full funding for fiscal years after fiscal year 2010."
+Plan Required.—Not later than March 1, 2008, the Director of the Missile Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for transitioning the Missile Defense Agency from using exclusively research, development, test, and evaluation funds to using procurement, military construction, operations and maintenance, and research, development, test, and evaluation funds for the appropriate budget activities, and for transitioning from incremental funding to full funding for fiscal years after fiscal year 2010."
 
 #### References to New Name for Ballistic Missile Defense Organization
 

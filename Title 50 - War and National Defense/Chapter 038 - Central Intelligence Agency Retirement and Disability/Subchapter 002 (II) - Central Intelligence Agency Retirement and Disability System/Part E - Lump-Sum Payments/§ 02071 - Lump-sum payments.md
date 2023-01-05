@@ -74,7 +74,7 @@ A lump-sum payment authorized by subsection (d) or (e) of this section 2121(d) 
 
 #### (e) Termination of all annuity rights
 
-If all annuity rights under this subchapter based on the service of a deceased participant orannuitant terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid in accordance with subsection (c).
+If all annuity rights under this subchapter based on the service of a deceased participant or annuitant terminate before the total annuity paid equals the lump-sum credit, the difference shall be paid in accordance with subsection (c).
 
 #### (f) Payment of accrued and unpaid annuity when retired participant dies
 

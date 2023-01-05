@@ -6,7 +6,7 @@ Subject to subsection (b), the Secretary shall provide assistance under section 
 
 #### (b) Limitation
 
-An eligible orchardist shall qualify for assistance under subsection (a) only if the tree mortality of the eligible orchardist, as a result of damaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
+An eligible orchardist shall qualify for assistance under subsection (a) only if the tree mortality of the eligible orchardist, as a result ofdamaging weather or related condition, exceeds 15 percent (adjusted for normal mortality).
 
 (Pub. L. 107–171, title X, §10202, May 13, 2002, 116 Stat. 490.)
 

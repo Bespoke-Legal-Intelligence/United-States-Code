@@ -34,7 +34,7 @@ In general.—When the Attorney General determines that an investigation or pros
 
 &emsp;(2)
 
-Members of congress.—When the Attorney General determines that it would be in the public interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney General receives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classifiedas a Class B or C misdemeanor or an infraction.
+Members of congress.—When the Attorney General determines that it would be in the public interest, the Attorney General may conduct a preliminary investigation in accordance with section 592 if the Attorney General receives information sufficient to constitute grounds to investigate whether a Member of Congress may have violated any Federal criminal law other than a violation classified as a Class B or C misdemeanor or an infraction.
 
 (d)
 
@@ -106,7 +106,7 @@ Requirements for recusal determination.—The Attorney General shall, before per
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–409, §4(a)(1), substituted "information sufficient to constitute grounds to investigate" for "specific information" after "the Attorney General receives".
 
-Subsec. (b)(3). Pub. L. 97–409, §3, substituted "who is compensated at or above a rate equivalent to level II"for "and compensated at a rate not less than the annual rate of basic pay provided for level IV".
+Subsec. (b)(3). Pub. L. 97–409, §3, substituted "who is compensated at or above a rate equivalent to level II" for "and compensated at a rate not less than the annual rate of basic pay provided for level IV".
 
 Subsec. (b)(4), (5). Pub. L. 97–409, §3, redesignated as par. (5) "the Director of Central Intelligence" and all that followed through end of par. (4). Former par. (5) redesignated (6).
 
@@ -162,7 +162,7 @@ Regulatory Independent Counsel.—Notwithstanding the restriction in section 593
 
 "(i)
 
-White House Personnel Report.—Section 6 \[enacting provisions set out as a note under section 113 of Title 3, The President\] shall take effect on January 1, 1995."
+White House Personnel Report.—Section 6 \[enacting provisions set out as a note under section 113 ofTitle 3, The President\] shall take effect on January 1, 1995."
 
 #### Effective Date of 1987 Amendment
 
@@ -182,7 +182,7 @@ Pending Proceedings.—With respect to any proceeding under chapter 39 of title 
 
 &emsp;&emsp;"(A) Section 593(f) of title 28, United States Code, as amended by section 2 of this Act, relating to the award of attorneys' fees.
 
-&emsp;&emsp;"(B) Section 594(d)(2) of such title, as added by section 2 of this Act, to the extent that such section 594(d)(2) relates to reports by the Attorney General on expenditures by independent counsel, except that the first such report shall be made onlywith respect to expenditures on or after the date of the enactment of this Act.
+&emsp;&emsp;"(B) Section 594(d)(2) of such title, as added by section 2 of this Act, to the extent that such section 594(d)(2) relates to reports by the Attorney General on expenditures by independent counsel, except that the first such report shall be made only with respect to expenditures on or after the date of the enactment of this Act.
 
 &emsp;&emsp;"(C) Section 594(h)(1)(A) of such title, as added by section 2 of this Act, relating to reports by independent counsel, except that the 6-month periods described in such section 594(h)(1)(A) shall be calculated from the date of the enactment of this Act.
 

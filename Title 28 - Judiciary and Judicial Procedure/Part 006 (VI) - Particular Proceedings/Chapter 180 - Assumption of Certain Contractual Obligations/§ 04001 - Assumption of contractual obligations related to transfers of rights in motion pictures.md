@@ -20,7 +20,7 @@ Assumption of Obligations.—(1) In the case of a transfer of copyright ownershi
 
 &emsp;&emsp;(II) before the motion picture is completed and—
 
-&emsp;&emsp;&emsp;(aa) within 18 months before the filing of an application for copyright registrationfor the motion picture under section 408 of title 17, or
+&emsp;&emsp;&emsp;(aa) within 18 months before the filing of an application for copyright registration for the motion picture under section 408 of title 17, or
 
 &emsp;&emsp;&emsp;(bb) if no such application is filed, within 18 months before the first publication of the motion picture in the United States.
 

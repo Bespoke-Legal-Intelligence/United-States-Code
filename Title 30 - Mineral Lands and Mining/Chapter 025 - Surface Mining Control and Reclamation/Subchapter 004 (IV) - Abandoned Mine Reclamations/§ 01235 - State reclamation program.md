@@ -14,7 +14,7 @@ The Secretary shall not approve, fund, or continue to fund a State abandoned min
 
 #### (d) Approval of State program; withdrawal
 
-If the Secretary determines that a State has developed and submitted a program for reclamation of abandoned mines and has the ability and necessary State legislation to implement theprovisions of this subchapter, sections 1232 and 1240 of this title excepted, the Secretary shall approve such State program and shall grant to the State exclusive responsibility and authority to implement the provisions of the approved program: <i>Provided</i>, That the Secretary shall withdraw such approval and authorization if he determines upon the basis of information provided under this section that the State program is not in compliance with the procedures, guidelines, and requirements established under subsection (a).
+If the Secretary determines that a State has developed and submitted a program for reclamation of abandoned mines and has the ability and necessary State legislation to implement the provisions of this subchapter, sections 1232 and 1240 of this title excepted, the Secretary shall approve such State program and shall grant to the State exclusive responsibility and authority to implement the provisions of the approved program: <i>Provided</i>, That the Secretary shall withdraw such approval and authorization if he determines upon the basis of information provided under this section that the State program is not in compliance with the procedures, guidelines, and requirements established under subsection (a).
 
 #### (e) Contents of State Reclamation Plan
 
@@ -84,5 +84,5 @@ Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. 
 
 #### Grant of Funds to States Under Surface Mining Control and Reclamation Act
 
-Pub. L. 97–377, title I, §150, Dec. 21, 1982, 96 Stat. 1918, provided that: "Within 60 days of receipt of a completeabandoned mine reclamation fund grant application from any eligible State under the provisions of the Surface Mining Control and Reclamation Act (91 Stat. 460) \[Pub. L. 95–87, see Short Title note set out under section 1201 of this title\] the Secretary of Interior shall grant to such State any and all funds available for such purposes in the applicable appropriations Act."
+Pub. L. 97–377, title I, §150, Dec. 21, 1982, 96 Stat. 1918, provided that: "Within 60 days of receipt of a complete abandoned mine reclamation fund grant application from any eligible State under the provisions of the Surface Mining Control and Reclamation Act (91 Stat. 460) \[Pub. L. 95–87, see Short Title note set out under section 1201 of this title\] the Secretary of Interior shall grant to such State any and all funds available for such purposes in the applicable appropriations Act."
 

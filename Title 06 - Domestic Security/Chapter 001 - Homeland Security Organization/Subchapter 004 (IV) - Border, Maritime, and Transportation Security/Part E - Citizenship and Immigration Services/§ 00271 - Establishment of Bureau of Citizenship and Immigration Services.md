@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after the effective date specified in section 455,<sup>1</sup> the Director of the Bureau of Citizenship and Immigration Services shall design and implement a managerial rotation program under which employees of such bureau holding positions involving supervisory or managerial responsibility and classified, in accordance with chapter 51 of title 5, as a GS–14 or above, shall—
+&emsp;&emsp;Not later than 1 year after the effective date specified in section 455,<sup>1</sup> the Director ofthe Bureau of Citizenship and Immigration Services shall design and implement a managerial rotation program under which employees of such bureau holding positions involving supervisory or managerial responsibility and classified, in accordance with chapter 51 of title 5, as a GS–14 or above, shall—
 
 &emsp;&emsp;&emsp;(i) gain some experience in all the major functions performed by such bureau; and
 
@@ -100,7 +100,7 @@ In accordance with subchapter XII (relating to transition provisions), there are
 
 #### (2) Functions
 
-#### (A) In general
+#### (A) <sup>2</sup> In general
 
 &emsp;&emsp;The Budget Officer shall be responsible for—
 
@@ -153,4 +153,6 @@ Pub. L. 107–296, title IV, §455, Nov. 25, 2002, 116 Stat. 2200, provided that
 Pub. L. 110–382, §2(b), Oct. 9, 2008, 122 Stat. 4087, which required the Secretary of Homeland Security, in consultation with the Attorney General, to promulgate rules to carry out the amendment made by section 2(a) of Pub. L. 110–382 no later than 180 days after Oct. 9, 2008, was repealed by Pub. L. 110–382, §4, Oct. 9, 2008, 122 Stat. 4089, effective 5 years after Oct. 9, 2008.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. There is no subpar. (B).</i>
 

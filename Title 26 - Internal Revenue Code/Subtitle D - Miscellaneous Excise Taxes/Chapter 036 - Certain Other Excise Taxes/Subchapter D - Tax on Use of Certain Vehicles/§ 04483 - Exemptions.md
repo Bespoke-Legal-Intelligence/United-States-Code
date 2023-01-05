@@ -90,7 +90,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed by sectio
 
 #### (6) Owner defined
 
-&emsp;For purposes of this subsection, the term "owner" means, with respect to any highwaymotor vehicle, the person described in section 4481(b).
+&emsp;For purposes of this subsection, the term "owner" means, with respect to any highway motor vehicle, the person described in section 4481(b).
 
 #### (e) Reduction in tax for trucks used in logging
 

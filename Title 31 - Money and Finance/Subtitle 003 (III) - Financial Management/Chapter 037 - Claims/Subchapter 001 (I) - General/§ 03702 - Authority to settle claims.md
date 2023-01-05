@@ -156,7 +156,7 @@ Subsec. (b)(1). Pub. L. 104–316, §202(n)(1)(C), in introductory provisions su
 
 Subsec. (b)(2). Pub. L. 104–316, §202(n)(1)(D), substituted "received" for "presented to the Comptroller General" and "in paragraph" for "in clause".
 
-Subsec. (b)(3). Pub. L. 104–316, §202(n)(1)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Comptroller General shall return a claim not received in the time required under this subsection with a copy of this subsection and no further communication is required."
+Subsec. (b)(3). Pub. L. 104–316, §202(n)(1)(E), amended par. (3) generally. Prior to amendment, par. (3) read asfollows: "The Comptroller General shall return a claim not received in the time required under this subsection with a copy of this subsection and no further communication is required."
 
 Subsec. (d). Pub. L. 104–316, §202(n)(1)(F), substituted "official responsible under subsection (a) for settling the claim" for "Comptroller General" before "shall report to Congress" and "official" for "Comptroller General" before "believes" and before period at end.
 

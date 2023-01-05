@@ -8,7 +8,7 @@
 
 &emsp;(3) insufficient resources are being devoted to both research on and development of advanced automobile propulsion system technology;
 
-&emsp;(4) an expanded research and development effort with respect to advance automobile propulsion system technology would complement and stimulate corresponding efforts by the private sector and would encourage automobile manufacturers to consider seriously the incorporation of such advanced technology into automobiles and automobile components; and
+&emsp;(4) an expanded research and development effort with respect to advance automobile propulsion system technology would complement and stimulate corresponding efforts by the private sector and would encourage automobilemanufacturers to consider seriously the incorporation of such advanced technology into automobiles and automobile components; and
 
 &emsp;(5) the Nation's energy and environmental problems are urgent, and therefore advanced automobile propulsion system technology should be developed, tested, demonstrated, and prepared for manufacture within the shortest practicable time.
 

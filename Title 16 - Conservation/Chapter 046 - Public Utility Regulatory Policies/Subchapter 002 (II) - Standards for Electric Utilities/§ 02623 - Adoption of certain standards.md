@@ -8,7 +8,7 @@ Not later than two years after November 9, 1978, each State regulatory authority
 
 &emsp;(2) adopt the standard established by subsection (b)(4) if, and to the extent, such authority or nonregulated electric utility determines that such adoption is appropriate and consistent with otherwise applicable State law.
 
-> For purposes of any determination under paragraphs (1) or (2) and any review of such determination in any court in accordance with section 2633 of this title, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any Stateregulatory authority or nonregulated electric utility from making any determination that it is not appropriate to adopt any such standard, pursuant to its authority under otherwise applicable State law.
+> For purposes of any determination under paragraphs (1) or (2) and any review of such determination in any court in accordance with section 2633 of this title, the purposes of this chapter supplement otherwise applicable State law. Nothing in this subsection prohibits any State regulatory authority or nonregulated electric utility from making any determination that it is not appropriate to adopt any such standard, pursuant to its authority under otherwise applicable State law.
 
 #### (b) Establishment
 

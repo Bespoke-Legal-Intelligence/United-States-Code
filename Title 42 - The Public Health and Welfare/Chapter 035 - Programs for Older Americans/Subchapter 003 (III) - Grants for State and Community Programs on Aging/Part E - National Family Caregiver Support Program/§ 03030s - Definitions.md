@@ -36,7 +36,7 @@ In this part:
 
 #### (b) Rule
 
-In providing services under this part, for family caregivers who provide care for individuals with Alzheimer's disease and related disorders with neurological and organic brain dysfunction, the State involved shall give priority to caregivers who provide care for older individuals with such disease or disorder.
+In providing services under this part, for family caregivers who provide care for individualswith Alzheimer's disease and related disorders with neurological and organic brain dysfunction, the State involved shall give priority to caregivers who provide care for older individuals with such disease or disorder.
 
 (Pub. L. 89–73, title III, §372, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat. 2254; amended Pub. L. 109–365, title III, §320, Oct. 17, 2006, 120 Stat. 2551; Pub. L. 114–144, §4(k)(2), (m), Apr. 19, 2016, 130 Stat. 340, 341; Pub. L. 116–131, title II, §217(a), Mar. 25, 2020, 134 Stat. 260.)
 
@@ -222,7 +222,7 @@ Advisory Council Annual Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than 12 months after the date of enactment of this Act, and annuallythereafter, the Advisory Council shall submit to the Secretary, the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, and make publicly available on the internet website of the Department of Health and Human Services, a report concerning the development, maintenance, and updating of the Strategy, including a description of the outcomes of the recommendations and any priorities included in the initial report pursuant to paragraph (2), as appropriate.
+In general.—Not later than 12 months after the date of enactment of this Act, and annually thereafter, the Advisory Council shall submit to the Secretary, the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, and make publicly available on the internet website of the Department of Health and Human Services, a report concerning the development, maintenance, and updating of the Strategy, including a description of the outcomes of the recommendations and any priorities included in the initial report pursuant to paragraph (2), as appropriate.
 
 &emsp;"(2)
 
@@ -242,7 +242,7 @@ Initial report.—The Advisory Council's initial report under paragraph (1) shal
 
 "(e)
 
-Nonapplicability of FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Council.
+Nonapplicability of FACA.—The Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall not apply to the Advisory Council.
 
 #### "SEC. 5. FUNDING.
 

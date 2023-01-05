@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The head of the employing office of an employee of the Senate may, upon termination of employment of the employee, authorize payment of a lump sum for the accrued annual leave of that employee if—
+The head of the employing office of an employee of the Senate may, upon termination ofemployment of the employee, authorize payment of a lump sum for the accrued annual leave of that employee if—
 
 &emsp;(1) the head of the employing office—
 

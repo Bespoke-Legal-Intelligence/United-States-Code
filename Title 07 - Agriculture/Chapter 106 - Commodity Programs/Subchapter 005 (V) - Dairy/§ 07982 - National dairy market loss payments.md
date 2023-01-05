@@ -52,7 +52,7 @@ Payments to a producer under this section shall be calculated by multiplying (as
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the payment quantity for a producer during the applicablemonth under this section shall be equal to the quantity of eligible production marketed by the producer during the month.
+&emsp;Subject to paragraph (2), the payment quantity for a producer during the applicable month under this section shall be equal to the quantity of eligible production marketed by the producer during the month.
 
 #### (2) Limitation
 

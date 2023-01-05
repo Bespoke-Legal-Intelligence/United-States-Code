@@ -26,7 +26,7 @@ Study Required.—The Board of Governors of the Federal Reserve System and the S
 
 &emsp;"(1) the feasibility and appropriateness of establishing a requirement that, with respect to large insured depository institutions and depository institution holding companies the failure of which could have serious adverse effects on economic conditions or financial stability, such institutions and holding companies maintain some portion of their capital in the form of subordinated debt in order to bring market forces and market discipline to bear on the operation of, and the assessment of the viability of, such institutions and companies and reduce the risk to economic conditions, financial stability, and any deposit insurance fund;
 
-&emsp;"(2) if such requirement is feasible and appropriate, the appropriate amount or percentage of capital thatshould be subordinated debt consistent with such purposes; and
+&emsp;"(2) if such requirement is feasible and appropriate, the appropriate amount or percentage of capital that should be subordinated debt consistent with such purposes; and
 
 &emsp;"(3) the manner in which any such requirement could be incorporated into existing capital standards and other issues relating to the transition to such a requirement.
 

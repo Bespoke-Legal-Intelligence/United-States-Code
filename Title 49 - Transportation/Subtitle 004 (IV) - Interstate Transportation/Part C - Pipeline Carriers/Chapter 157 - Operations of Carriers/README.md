@@ -22,7 +22,7 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–287, §5(43)(A), Oct. 11, 1996, 110 Stat. 3392, struck out duplicative chapter heading and madetechnical amendments to items for subchapters A and B.
+<b>1996</b>—Pub. L. 104–287, §5(43)(A), Oct. 11, 1996, 110 Stat. 3392, struck out duplicative chapter heading and made technical amendments to items for subchapters A and B.
 
 
 ---

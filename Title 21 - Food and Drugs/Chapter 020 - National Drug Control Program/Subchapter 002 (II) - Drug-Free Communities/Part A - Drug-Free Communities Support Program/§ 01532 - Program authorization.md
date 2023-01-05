@@ -106,7 +106,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;&emsp;&emsp;(ii) biennial surveys (or incorporate local surveys in existence at the time of the evaluation) to measure the progress and effectiveness of the coalition; and
 
-&emsp;&emsp;(C) provide assurances that the entity conducting an evaluation under this paragraph, or from which the coalition receives information, has experience—
+&emsp;&emsp;(C) provide assurances that the entity conducting an evaluation under this paragraph,or from which the coalition receives information, has experience—
 
 &emsp;&emsp;&emsp;(i) in gathering data related to substance use and misuse among youth; or
 
@@ -194,7 +194,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (C) No priority for applications
 
-&emsp;&emsp;The Administrator may not afford a higher priority in the award of an additional grant under this paragraph than the Administrator would afford the applicant for the grant if the applicant were submitting an application for an initial grant under paragraph (1) or (2) rather than an application for a grant under this paragraph.
+&emsp;&emsp;The Administrator may not afford a higher priority in the award of an additional grantunder this paragraph than the Administrator would afford the applicant for the grant if the applicant were submitting an application for an initial grant under paragraph (1) or (2) rather than an application for a grant under this paragraph.
 
 #### (D) Renewal grants
 
@@ -271,6 +271,24 @@ Amendment by Pub. L. 116–74 effective as if included in the enactment of subti
 #### Effective Date of 2018 Amendment
 
 Amendment by section 8203(a)(3)(A) of Pub. L. 115–271 effective as if enacted as part of Pub. L. 109–469, see section 8203(a)(3)(B) of Pub. L. 115–271, set out as a note under section 1524 of this title.
+
+#### Waiver of Federal Fund Limitation for the Drug-Free Communities Support Program
+
+Pub. L. 117–103, div. P, title I, §161, Mar. 15, 2022, 136 Stat. 801, provided that:
+
+"(a)
+
+In General.—Subject to subsection (b), if the Administrator of the Drug-Free Communities Support Program determines that, as a result of the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) with respect to COVID–19, an eligible coalition is unable to raise the amount of non-Federal funds, including in-kind contributions, agreed to be raised by the coalition for fiscal year 2020, 2021, or 2022 under an agreement entered into with the Administrator pursuant to paragraph (1)(A) or (3) of section 1032(b) of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1532(b)), the Administrator may, notwithstanding such paragraphs, provide to the eligible coalition the grant or renewal grant, as applicable, for that fiscal year only in an amount—
+
+&emsp;"(1) with respect to an initial grant or renewal grant described under paragraph (1)(A) or (3)(A) of such section, that exceeds the amount of non-Federal funds raised by the eligible coalition, including in-kind contributions, for that fiscal year;
+
+&emsp;"(2) with respect to a renewal grant described under paragraph (3)(D)(i) of such section, that exceeds 125 percent of the amount of non-Federal funds raised by the eligible coalition, including in-kind contributions, for that fiscal year; and
+
+&emsp;"(3) with respect to a renewal grant described under paragraph (3)(D)(ii) of such section, that exceeds 150 percent of the amount of non-Federal funds raised by the eligible coalition, including in-kind contributions, for that fiscal year.
+
+"(b)
+
+Limitation.—The Administrator may not provide a grant or renewal grant to an eligible coalition in an amount exceeding the amount of funds initially agreed to be provided by the Administrator under the applicable agreement."
 
 #### Report to Congress
 

@@ -10,7 +10,7 @@ General rule.—
 
 &emsp;&emsp;(A) In this chapter, the term "long-term lease or charter" (except as provided in paragraph (2)) means a lease, charter, service contract, or conditional sale agreement—
 
-&emsp;&emsp;&emsp;(i) the term of which is for a period of five years or longer or more than one-halfthe useful life of the vessel, aircraft, or combat vehicle; or
+&emsp;&emsp;&emsp;(i) the term of which is for a period of five years or longer or more than one-half the useful life of the vessel, aircraft, or combat vehicle; or
 
 &emsp;&emsp;&emsp;(ii) the initial term of which is for a period of less than five years but which contains an option to renew or extend the agreement for a period which, when added to the initial term (or any previous renewal or extension), is five years or longer.
 

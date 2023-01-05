@@ -16,7 +16,7 @@ The comprehensive policy developed under subsection (a) shall, at minimum, addre
 
 &emsp;&emsp;(A) options and contact information for after-hours contact; and
 
-&emsp;&emsp;(B) a procedure for obtaining assistance and reporting sexual assault while workingin a remote scientific field camp, at sea, or in another field status.
+&emsp;&emsp;(B) a procedure for obtaining assistance and reporting sexual assault while working in a remote scientific field camp, at sea, or in another field status.
 
 &emsp;(4) Easy and ready availability of information described in paragraph (3).
 

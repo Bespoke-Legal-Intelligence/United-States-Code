@@ -16,7 +16,7 @@
 
 #### (2) Administration by contract
 
-&emsp;Except as otherwise specifically provided, the Secretary may administer the programunder this section in accordance with section 1395cc–2 of this title.
+&emsp;Except as otherwise specifically provided, the Secretary may administer the program under this section in accordance with section 1395cc–2 of this title.
 
 #### (3) Definitions
 

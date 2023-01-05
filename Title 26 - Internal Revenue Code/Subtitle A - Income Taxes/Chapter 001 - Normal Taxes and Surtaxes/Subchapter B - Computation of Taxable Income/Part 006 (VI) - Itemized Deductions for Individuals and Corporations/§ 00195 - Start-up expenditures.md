@@ -70,7 +70,7 @@ For purposes of this section—
 
 &emsp;The period selected under subsection (b) shall be adhered to in computing taxable income for the taxable year for which the election is made and all subsequent taxable years.
 
-(Added Pub. L. 96–605, title I, §102(a), Dec. 28, 1980, 94 Stat. 3522; amended Pub. L. 98–369, div.A, title I, §94(a), July 18, 1984, 98 Stat. 614; Pub. L. 108–357, title VIII, §902(a), Oct. 22, 2004, 118 Stat. 1651; Pub. L. 111–240, title II, §2031(a), Sept. 27, 2010, 124 Stat. 2559.)
+(Added Pub. L. 96–605, title I, §102(a), Dec. 28, 1980, 94 Stat. 3522; amended Pub. L. 98–369, div. A, title I, §94(a), July 18, 1984, 98 Stat. 614; Pub. L. 108–357, title VIII, §902(a), Oct. 22, 2004, 118 Stat. 1651; Pub. L. 111–240, title II, §2031(a), Sept. 27, 2010, 124 Stat. 2559.)
 
 #### <b>Editorial Notes</b>
 

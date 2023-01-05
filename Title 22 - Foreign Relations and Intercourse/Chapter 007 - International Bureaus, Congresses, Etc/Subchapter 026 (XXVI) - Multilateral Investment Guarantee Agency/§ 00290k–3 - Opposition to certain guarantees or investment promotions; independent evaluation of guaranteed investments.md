@@ -2,7 +2,7 @@
 
 Consistent with the purposes of section 290k–2 of this title, the Secretary of the Treasury shall—
 
-&emsp;(1) instruct the United States Director to oppose, and to actively seek the concurrence of other members of the Board of Directors in opposing, any guarantee or other investment promotion under consideration by the Agency if the proposed investment would—
+&emsp;(1) instruct the United States Director to oppose, and to actively seek the concurrence ofother members of the Board of Directors in opposing, any guarantee or other investment promotion under consideration by the Agency if the proposed investment would—
 
 &emsp;&emsp;(A) be in any country which is not a beneficiary developing country for purposes of title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] because it has not taken or is not taking steps to afford internationally-recognized workers' rights to workers in that country;
 
@@ -28,7 +28,7 @@ Consistent with the purposes of section 290k–2 of this title, the Secretary of
 
 #### References in Text
 
-The Trade Act of 1974, referred to in par. (1)(A), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in par. (1)(A), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title V of the Trade Act of 1974 is classified generally to subchapter V (§2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
 
 #### Codification
 

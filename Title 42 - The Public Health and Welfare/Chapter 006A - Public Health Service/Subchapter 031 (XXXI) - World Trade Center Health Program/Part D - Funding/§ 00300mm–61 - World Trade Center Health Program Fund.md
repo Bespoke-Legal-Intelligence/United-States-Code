@@ -68,11 +68,15 @@
 
 #### (2) Limitation on mandatory funding
 
-&emsp;This subchapter does not establish any Federal obligation for payment of amounts in excess of the amounts available from the Fund for such purpose.
+&emsp;This subchapter does not establish any Federal obligation for payment of amounts in excess of the amounts available from the Fund for such purpose or as available from the World Trade Center Health Program Supplemental Fund under section 300mm–62 of this title.
 
 #### (3) Limitation on authorization for further appropriations
 
-&emsp;This subchapter does not establish any authorization for appropriation of amounts in excess of the amounts available from the Fund under paragraph (1).
+&emsp;This subchapter does not establish any authorization for appropriation of amounts in excess of the amounts available from the Fund under paragraph (1) or as available from the World Trade Center Health Program Supplemental Fund under section 300mm–62 of this title.
+
+#### (4) Limitation for research cohort for emerging health impacts on youth
+
+&emsp;Notwithstanding paragraph (1), the amounts made available under such paragraph may not be used for fiscal years 2023 through 2032 to carry out subsection (c) of section 300mm–51 of this title.
 
 #### (c) Limits on spending for certain purposes
 
@@ -114,7 +118,7 @@ Of the amounts made available under subsection (b)(1), not more than each of the
 
 &emsp;&emsp;(A) for fiscal year 2016, the amount determined for such fiscal year under subparagraph (C) <sup>1</sup> as in effect on the day before December 18, 2015; and
 
-&emsp;&emsp;(B) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
+&emsp;&emsp;(B) for each subsequent fiscal year, the amount specified under this paragraph forthe previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
 
 #### (6) World Trade Center Health Registry
 
@@ -124,7 +128,7 @@ Of the amounts made available under subsection (b)(1), not more than each of the
 
 &emsp;&emsp;(B) for each subsequent fiscal year, the amount specified under this paragraph for the previous fiscal year increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) as estimated by the Secretary for the 12-month period ending with March of the previous year.
 
-(July 1, 1944, ch. 373, title XXXIII, §3351, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3657; amended Pub. L. 114–113, div. O, title III, §302(a), Dec. 18, 2015, 129 Stat. 2996.)
+(July 1, 1944, ch. 373, title XXXIII, §3351, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3657; amended Pub. L. 114–113, div. O, title III, §302(a), Dec. 18, 2015, 129 Stat. 2996; Pub. L. 117–328, div. FF, title VII, §§7701(b)(4), 7702(b), Dec. 29, 2022, 136 Stat. 5966, 5967.)
 
 #### <b>Editorial Notes</b>
 
@@ -164,7 +168,13 @@ A prior section 300aaa–13, act July 1, 1944, ch. 373, title XXVII, §2714, for
 
 #### Amendments
 
-<b>2015</b>—Subsec. (a)(2). Pub. L. 114–113, §302(a)(1)(A)(i), substituted "fiscal year 2016 and each subsequent fiscal year through fiscal year 2090" for "each of fiscal years 2012 through 2016 (and the last calendar quarter of fiscal year 2011)" in introductory provisions.
+<b>2022</b>—Subsec. (b)(2). Pub. L. 117–328, §7701(b)(4)(A), inserted "or as available from the World Trade Center Health Program Supplemental Fund under section 300mm–62 of this title" before period at end.
+
+Subsec. (b)(3). Pub. L. 117–328, §7701(b)(4)(B), inserted "or as available from the World Trade Center Health Program Supplemental Fund under section 300mm–62 of this title" before period at end.
+
+Subsec. (b)(4). Pub. L. 117–328, §7702(b), added par. (4).
+
+<b>2015</b>—Subsec. (a)(2). Pub. L. 114–113, §302(a)(1)(A)(i), substituted "fiscal year 2016 and each subsequent fiscalyear through fiscal year 2090" for "each of fiscal years 2012 through 2016 (and the last calendar quarter of fiscal year 2011)" in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 114–113, §302(a)(1)(A)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: "the Federal share, consisting of an amount equal to the lesser of—
 
@@ -207,8 +217,6 @@ Subsec. (c)(5)(B), (C). Pub. L. 114–113, §302(a)(3)(E)(i), (ii), redesignated
 Subsec. (c)(6)(A). Pub. L. 114–113, §302(a)(3)(F)(iii), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "for the last calendar quarter of fiscal year 2011, $1,750,000;".
 
 Subsec. (c)(6)(B), (C). Pub. L. 114–113, §302(a)(3)(F)(i), (ii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "for fiscal year 2012, $7,000,000; and".
-
-&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

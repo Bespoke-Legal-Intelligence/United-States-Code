@@ -42,9 +42,11 @@ Presidential appointees.—Of the individuals appointed by the President under p
 
 &emsp;&emsp;(A) at least 2 shall be graduates of the Academy;
 
-&emsp;&emsp;(B) at least 1 shall be a senior corporate officer from a United States maritime shipping company that participates in the Maritime Security Program, or in any Maritime Administration program providing incentives for companies to register their vessels in the United States, and this appointment shall rotate biennially among such companies; and
+&emsp;&emsp;(B) at least 1 shall be a senior corporate officer from a United States maritime shipping company that participates in the Maritime Security Program, or in any Maritime Administration program providing incentives for companies to register their vessels in the United States, and this appointment shall rotate biennially among such companies;
 
-&emsp;&emsp;(C) 1 or more may be a Senate-confirmed Presidential appointee, a member of the Senior Executive Service, or an officer of flag-rank who from <sup>1</sup> the Coast Guard, the National Oceanic and Atmospheric Administration, or any of the military services that commission graduates of the Academy, other than the individuals who are members of the Board under clauses (i) and (ii) of paragraph (1)(F).
+&emsp;&emsp;(C) at least 1 shall be a representative of a maritime labor organization; and
+
+&emsp;&emsp;(D) 1 or more may be a Senate-confirmed Presidential appointee, a member of the Senior Executive Service, or an officer of flag-rank from the Coast Guard, the National Oceanic and Atmospheric Administration, or any of the military services that commission graduates of the Academy, other than the individuals who are members of the Board under clauses (i) and (ii) of paragraph (1)(F).
 
 &emsp;(3)
 
@@ -57,6 +59,10 @@ In general.—Except as provided in subparagraph (B), each member of the Board, 
 &emsp;&emsp;(B)
 
 Continuation of service.—Any member described in subparagraph (A) whose term on the Board has expired, other than a member appointed under any of subparagraphs (A) through (D) of paragraph (1) who is no longer a Member of Congress, shall continue to serve until a successor is appointed.
+
+&emsp;&emsp;(C)
+
+Replacement.—If a member of the Board is replaced, not later than 60 days after the date of the replacement, the Designated Federal Officer selected under subsection (g)(2) shall notify that member.
 
 &emsp;(4)
 
@@ -92,7 +98,7 @@ Participation.—A substitute member of the Board designated under subparagraph 
 
 &emsp;&emsp;&emsp;(ii) shall report to the member that designated the substitute member on the Board's activities not later than 15 days following the substitute member's participation in such activities; and
 
-&emsp;&emsp;&emsp;(iii) shall be permitted by the Board to participate in the preparation of reports described in paragraph <sup>2</sup> (j) related to any proceedings or activities of the Board inwhich such substitute member participates.
+&emsp;&emsp;&emsp;(iii) shall be permitted by the Board to participate in the preparation of reportsdescribed in paragraph <sup>1</sup> (j) related to any proceedings or activities of the Board in which such substitute member participates.
 
 (c)
 
@@ -116,7 +122,7 @@ Meetings.—
 
 &emsp;(1)
 
-In general.—The Board shall meet as provided for in the Charter adopted under paragraph (2)(B), including at least 1 meeting held at the Academy.
+In general.—The Board shall meet as provided for in the Charter adopted under paragraph (2)(B), including at least 1 meeting held at the Academy and 2 additional meetings, which may be held in person or virtually.
 
 &emsp;(2)
 
@@ -125,6 +131,10 @@ Chairperson and charter.—The Designated Federal Officer selected under subsect
 &emsp;&emsp;(A) selecting a Chairperson under subsection (c); and
 
 &emsp;&emsp;(B) adopting an official Charter for the Board, which shall establish the schedule of meetings of the Board.
+
+&emsp;(3)
+
+Scheduling; notification.—When scheduling a meeting of the Board, the Designated Federal Officer shall coordinate, to the greatest extent practicable, with the members of the Board to determine the date and time of the meeting. Members of the Board shall be notified of the date of each meeting not less than 30 days prior to the meeting date.
 
 (e)
 
@@ -142,6 +152,14 @@ Other visits.—In cooperation with the Superintendent, the Board or its members
 
 Access.—While visiting the Academy under this subsection, members of the Board shall have reasonable access to the grounds, facilities, midshipmen, faculty, staff, and other personnel of the Academy for the purpose of carrying out the duties of the Board.
 
+&emsp;(4)
+
+Staff.—One or more staff of each member of the Board may accompany them on Academy visits.
+
+&emsp;(5)
+
+Scheduling; notification.—When scheduling a visit to the Academy, the Designated Federal Officer shall coordinate, to the greatest extent practicable, with the members of the Board to determine the date and time of the visit. Members of the Board shall be notified of the date of each visit not less than 30 days prior to the visit date.
+
 (f)
 
 Responsibility.—The Board shall inquire into the state of morale and discipline, the curriculum, instruction, physical equipment, fiscal affairs, and academic methods of the Academy, and other matters relating to the Academy that the Board decides to consider.
@@ -158,7 +176,7 @@ Department of Transportation Support.—The Secretary of Transportation shall—
 
 (h)
 
-Staff.—Each of the chairman of the Committee on Commerce, Science, and Transportation of the Senate and the chairman of the Committee on Armed Services of the House of Representatives may designate staff members of such Committee to serve, without additional reimbursement (except as provided in subsection (i)), as staff for the Board.
+Staff.—Each of the chairman and ranking member of the Committee on Commerce, Science, and Transportation of the Senate and the chairman and ranking member of the Committee on Armed Services of the House of Representatives may designate staff members of such Committee to serve, without additional reimbursement (except as provided in subsection (i)), as staff for the Board. Such staff may attend meetings and may visit the Academy.
 
 (i)
 
@@ -198,7 +216,7 @@ Submission.—A report submitted to the President under paragraph (1) or (2) sha
 
 &emsp;&emsp;(C) the Committee on Armed Services of the House of Representatives.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1575; Pub. L. 113–291, div. C, title XXXV, §3504(a), Dec. 19, 2014, 128 Stat. 3905.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1575; Pub. L. 113–291, div. C, title XXXV, §3504(a), Dec. 19, 2014, 128 Stat. 3905; Pub. L. 117–263, div. C, title XXXV, §3512, Dec. 23, 2022, 136 Stat. 3065.)
 
 Historical and Revision Notes
 
@@ -221,6 +239,20 @@ The words "Committee on Armed Services" are substituted for "Committee on Mercha
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(2)(C). Pub. L. 117–263, §3512(1)(A)(iii), (iv), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (b)(2)(D). Pub. L. 117–263, §3512(1)(A)(i), (ii), redesignated subpar. (C) as (D) and substituted "flag-rank" for "flag-rank who".
+
+Subsec. (b)(3)(C). Pub. L. 117–263, §3512(1)(B), added subpar. (C).
+
+Subsec. (d)(1). Pub. L. 117–263, §3512(2)(A), inserted "and 2 additional meetings, which may be held in person or virtually" after "Academy".
+
+Subsec. (d)(3). Pub. L. 117–263, §3512(2)(B), added par. (3).
+
+Subsec. (e)(4), (5). Pub. L. 117–263, §3512(3), added pars. (4) and (5).
+
+Subsec. (h). Pub. L. 117–263, §3512(4), inserted "and ranking member" after "chairman" in two places and inserted at end "Such staff may attend meetings and may visit the Academy."
 
 <b>2014</b>—Pub. L. 113–291 amended section generally. Prior to amendment, section related to the Board of Visitors and consisted of subsecs. (a) to (d) relating to establishment of the Board, appointment of board members, designation of staff members to the board, and travel expenses, respectively.
 
@@ -250,7 +282,5 @@ Organization of first meeting.—Such Designated Federal Officer shall organize 
 
 Continuation of Service of Current Members.—Each member of the Board of Visitors serving as a member of the Board on the date of the enactment of this Act shall continue to serve on the Board for the remainder of such member's term."
 
-<i><sup>1</sup></i><i> So in original.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "subsection".</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

@@ -18,7 +18,7 @@ Section 300ff–48, act July 1, 1944, ch. 373, title XXVI, §2648, formerly Pub.
 
 Section 300ff–49, act July 1, 1944, ch. 373, title XXVI, §2649, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 604; amended Pub. L. 101–502, §6(b), Nov. 3, 1990, 104 Stat. 1290; Pub. L. 102–531, title III, §312(d)(33), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §12(c)(6), May 20, 1996, 110 Stat. 1374, related to determination of amount of allotments.
 
-Section 300ff–49a, act July 1, 1944, ch. 373, title XXVI, §2649A, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 605, related to miscellaneous prerequisites for the Secretary to make a grant.
+Section 300ff–49a, act July 1, 1944, ch. 373, title XXVI, §2649A, as added Pub. L. 101–381, title III, §301(a), Aug.18, 1990, 104 Stat. 605, related to miscellaneous prerequisites for the Secretary to make a grant.
 
 Section 300ff–50, act July 1, 1944, ch. 373, title XXVI, §2650, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 606, authorized appropriations.
 

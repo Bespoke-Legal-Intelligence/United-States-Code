@@ -18,7 +18,7 @@ The provisions of sections 1302(b)(3), section <sup>1</sup> 1381(l), and 1384(c
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018, with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
+Amendment by Pub. L. 115–397 effective upon expiration of the 180-day period beginning on Dec. 21, 2018,with provisions for effect on pending proceedings, see section 401 of Pub. L. 115–397, set out as a note under section 1301 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word "section" probably should not appear.</i>
 

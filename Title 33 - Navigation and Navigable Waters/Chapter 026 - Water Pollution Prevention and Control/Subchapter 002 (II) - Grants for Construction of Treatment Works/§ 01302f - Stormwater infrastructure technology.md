@@ -180,7 +180,7 @@ In this section:
 
 #### (d) Report to Congress
 
-Not later than 2 years after the date on which the Administrator first awards a grant underthis section, the Administrator shall submit to Congress a report that includes, with respect to the period covered by the report—
+Not later than 2 years after the date on which the Administrator first awards a grant under this section, the Administrator shall submit to Congress a report that includes, with respect to the period covered by the report—
 
 &emsp;(1) a description of all grants provided under this section;
 

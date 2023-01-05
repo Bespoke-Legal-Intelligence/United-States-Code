@@ -14,7 +14,7 @@ The Commission may use its funds to obtain money from any source under any progr
 
 #### (d) Mail
 
-The Commission may use the United States mails in the same manner and upon the sameconditions as other departments and agencies of the United States.
+The Commission may use the United States mails in the same manner and upon the same conditions as other departments and agencies of the United States.
 
 #### (e) Uses of acquired assets
 

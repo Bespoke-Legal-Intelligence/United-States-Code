@@ -62,7 +62,7 @@ Subsec. (f). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "I
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, setout as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
+Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
 #### Effective Date
 

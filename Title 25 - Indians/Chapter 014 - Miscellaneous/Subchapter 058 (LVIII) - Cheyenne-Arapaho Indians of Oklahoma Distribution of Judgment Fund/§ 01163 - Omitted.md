@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 90–117, §3, Oct. 31, 1967, 81 Stat. 337; Pub. L. 92–439, Sept. 29, 1972, 86 Stat. 742, which relatedto payment of shares of deceased enrollees and minors or persons under legal disability, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 90–117, §3, Oct. 31, 1967, 81 Stat. 337; Pub. L. 92–439, Sept. 29, 1972, 86 Stat. 742, which related to payment of shares of deceased enrollees and minors or persons under legal disability, was omitted from the Code as being of special and not general application.
 

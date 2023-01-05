@@ -14,7 +14,7 @@ Consultation.—Any regulations necessary to effect the application and operatio
 
 (d)
 
-Informed Decisionmaking.—The Office shall ensure that each eligible individual applying for long-term care insurance under this chapter is furnished the information necessary to enable that individual to evaluate the advantages and disadvantages of obtaining long-term care insurance under this chapter, including the following:
+Informed Decisionmaking.—The Office shall ensure that each eligible individual applying for long-term care insurance under this chapter is furnished the information necessary to enable that individual to evaluate the advantages and disadvantages of obtaining long-termcare insurance under this chapter, including the following:
 
 &emsp;(1) The principal long-term care benefits and coverage available under this chapter, and how those benefits and coverage compare to the range of long-term care benefits and coverage otherwise generally available.
 

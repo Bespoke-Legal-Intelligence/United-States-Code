@@ -170,7 +170,7 @@ Pub. L. 108–447, div. H, title I, Dec. 8, 2004, 118 Stat. 3221, provided in pa
 
 #### Reports on Operating Losses
 
-Pub. L. 108–7, div. I, title III, §350, Feb. 20, 2003, 117 Stat. 419, provided that: "On February 15, 2003, and on each year thereafter, the National Railroad PassengerCorporation shall submit to the appropriate Congressional Committees a report detailing the per passenger operating loss on each rail line."
+Pub. L. 108–7, div. I, title III, §350, Feb. 20, 2003, 117 Stat. 419, provided that: "On February 15, 2003, and on each year thereafter, the National Railroad Passenger Corporation shall submit to the appropriate Congressional Committees a report detailing the per passenger operating loss on each rail line."
 
 #### Amtrak To Notify Congress of Lobbying Relationships
 

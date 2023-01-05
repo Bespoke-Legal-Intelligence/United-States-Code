@@ -10,7 +10,7 @@
 
 &emsp;(ii) A disaster or emergency in which the National Disaster Medical System established pursuant to section 2812 of the Public Health Service Act (42 U.S.C. 300hh) <sup>1</sup> is activated by the Secretary of Health and Human Services under that section or as otherwise authorized by law.
 
-(3) The Secretary may give a higher priority to the furnishing of care and services under this section than to the furnishing of care and services to any other group of persons eligible for care and services in medical facilities of the Department with the exception of veterans with service-connected disabilities.
+(3) The Secretary may give a higher priority to the furnishing of care and services under thissection than to the furnishing of care and services to any other group of persons eligible for care and services in medical facilities of the Department with the exception of veterans with service-connected disabilities.
 
 (4) For the purposes of this section, the terms "hospital care", "nursing home care", and "medical services" have the meanings given such terms by sections 1701(5), 101(28), and 1701(6) of this title, respectively, and the term "medical services" includes services under sections 1782 and 1783 of this title.
 
@@ -44,7 +44,7 @@
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 Section 2812 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(ii), is classified to section 300hh–11 of Title 42, The Public Health and Welfare.
 
@@ -102,7 +102,7 @@ Subsecs. (e), (f). Pub. L. 102–83, §4(b)(1), (2)(E), substituted "Secretary" 
 
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto, to the Secretary of Health and Human Services, see title III of Pub. L. 109–295, set out in part as a note under section 300hh–11 of Title 42, The Public Health and Welfare, and section 301(b) of Pub. L. 109–417, set out as a note under section 300hh–11 of Title 42.
 
-For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment ofrelated references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness \[now Assistant Secretary for Preparedness and Response\] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Congressional Findings
 

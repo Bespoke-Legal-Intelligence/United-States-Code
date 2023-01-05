@@ -10,8 +10,6 @@ In this section—
 
 &emsp;(3) the term "agency information system" has the meaning given the term in section 660 of this title; and
 
-&emsp;(4) the terms "cybersecurity risk" and "information system" have the meanings given those terms in section 659 of this title.
-
 #### (b) Requirement
 
 #### (1) In general
@@ -30,7 +28,7 @@ In this section—
 
 In carrying out subsection (b), the Secretary—
 
-&emsp;(1) may access, and the head of an agency may disclose to the Secretary or a private entity providing assistance to the Secretary under paragraph (2), information transiting or traveling to or from an agency information system, regardless of the location from which the Secretary or a private entity providing assistance to the Secretary under paragraph (2) accesses such information, notwithstanding any other provision of law that would otherwise restrict or prevent the head of an agency from disclosing such information to the Secretary or a private entity providing assistance to the Secretary under paragraph (2);
+&emsp;(1) may access, and the head of an agency may disclose to the Secretary or a private entity providing assistance to the Secretary under paragraph (2), information transiting or traveling to or from an agency informationsystem, regardless of the location from which the Secretary or a private entity providing assistance to the Secretary under paragraph (2) accesses such information, notwithstanding any other provision of law that would otherwise restrict or prevent the head of an agency from disclosing such information to the Secretary or a private entity providing assistance to the Secretary under paragraph (2);
 
 &emsp;(2) may enter into contracts or other agreements with, or otherwise request and obtain the assistance of, private entities to deploy, operate, and maintain technologies in accordance with subsection (b);
 
@@ -76,7 +74,7 @@ In carrying out subsection (b), the Secretary shall ensure that—
 
 Not later than 1 year after December 18, 2015, the Privacy Officer appointed under section 142 of this title, in consultation with the Attorney General, shall review the policies and guidelines for the program carried out under this section to ensure that the policies and guidelines are consistent with applicable privacy laws, including those governing the acquisition, interception, retention, use, and disclosure of communications.
 
-(Pub. L. 107–296, title XXII, §2213, formerly title II, §230, as added Pub. L. 114–113, div. N, title II, §223(a)(6), Dec. 18, 2015, 129 Stat. 2964; renumbered title XXII, §2213, and amended Pub. L. 115–278, §2(g)(2)(I), (9)(A)(vii), Nov. 16, 2018, 132 Stat. 4178, 4181.)
+(Pub. L. 107–296, title XXII, §2213, formerly title II, §230, as added Pub. L. 114–113, div. N, title II, §223(a)(6), Dec. 18, 2015, 129 Stat. 2964; renumbered title XXII, §2213, and amended Pub. L. 115–278, §2(g)(2)(I), (9)(A)(vii), Nov. 16, 2018, 132 Stat. 4178, 4181; Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(H), Dec. 23, 2022, 136 Stat. 3660.)
 
 #### <b>Editorial Notes</b>
 
@@ -90,6 +88,8 @@ Section was formerly classified to section 151 of this title prior to renumberin
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(4). Pub. L. 117–263 struck out par. (4) which read as follows: "the terms 'cybersecurity risk' and 'information system' have the meanings given those terms in section 659 of this title."
+
 <b>2018</b>—Subsec. (a)(3). Pub. L. 115–278, §2(g)(9)(A)(vii)(I), substituted "section 660 of this title" for "section 149 of this title".
 
 Subsec. (a)(4). Pub. L. 115–278, §2(g)(9)(A)(vii)(II), substituted "section 659 of this title" for "section 148 of this title".
@@ -98,7 +98,7 @@ Subsec. (a)(4). Pub. L. 115–278, §2(g)(9)(A)(vii)(II), substituted "section 6
 
 #### Competition Relating to Cybersecurity Vulnerabilities
 
-Pub. L. 117–81, div. A, title XV, §1544, Dec. 27, 2021, 135 Stat. 2057, provided that: "The Under Secretary for Science and Technology of the Department of Homeland Security, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency of the Department, may establish an incentive-based program that allows industry, individuals, academia, and others to compete in identifying remediation solutions for cybersecurity vulnerabilities (as such term is defined in section 2209 of the Homeland Security Act of 2002 \[6 U.S.C. 659\]) to information systems (as such term is defined in such section 2209) and industrial control systems, including supervisory control and data acquisition systems."
+Pub. L. 117–81, div. A, title XV, §1544, Dec. 27, 2021, 135 Stat. 2057, provided that: "The Under Secretary forScience and Technology of the Department of Homeland Security, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency of the Department, may establish an incentive-based program that allows industry, individuals, academia, and others to compete in identifying remediation solutions for cybersecurity vulnerabilities (as such term is defined in section 2209 of the Homeland Security Act of 2002 \[6 U.S.C. 659\]) to information systems (as such term is defined in such section 2209) and industrial control systems, including supervisory control and data acquisition systems."
 
 #### Department of Homeland Security Disclosure of Security Vulnerabilities
 
@@ -138,7 +138,7 @@ In general.—In developing the security vulnerability disclosure policy under s
 
 &emsp;"(2)
 
-Nonapplicability of faca.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any consultation under this section.
+Nonapplicability of faca.—The Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\] shall not apply to any consultation under this section.
 
 "(d)
 
@@ -212,7 +212,7 @@ Definitions.—In this section:
 
 &emsp;"(2) The term 'bug bounty program' means a program under which—
 
-&emsp;&emsp;"(A) individuals, organizations, and companies are temporarily authorized to identify and reportvulnerabilities of appropriate information systems of the Department; and
+&emsp;&emsp;"(A) individuals, organizations, and companies are temporarily authorized to identify and report vulnerabilities of appropriate information systems of the Department; and
 
 &emsp;&emsp;"(B) eligible individuals, organizations, and companies receive compensation in exchange for such reports.
 

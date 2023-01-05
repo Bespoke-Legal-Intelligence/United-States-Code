@@ -16,7 +16,7 @@
 
 &emsp;(1) assuring, in accordance with merit principles, admission through impartial and rigorous examination, acquisition of career status only by those who have demonstrated their fitness through successful completion of probationary assignments, effective career development, advancement and retention of the ablest, and separation of those who do not meet the requisite standards of performance;
 
-&emsp;(2) fostering the development and vigorous implementation of policies and procedures, including affirmative action programs, which will facilitate and encourage (A) entry into and advancement in the Foreign Service by persons from all segments of American society, and (B) equal opportunity and fair and equitable treatment for all without regard to political affiliation, race, color, religion, national origin, sex, marital status, age, or handicapping condition;
+&emsp;(2) fostering the development and vigorous implementation of policies and procedures, including affirmative action programs, which will facilitate and encourage (A) entry into and advancement in the Foreign Service by persons from all segments of American society, and (B) equal opportunity and fair and equitable treatment for all without regard to political affiliation, race, color, religion, national origin, sex, marital status, age, or disability;
 
 &emsp;(3) providing for more efficient, economical, and equitable personnel administration through a simplified structure of Foreign Service personnel categories and salaries;
 
@@ -34,17 +34,21 @@
 
 &emsp;(10) otherwise enabling the Foreign Service to serve effectively the interests of the United States and to provide the highest caliber of representation in the conduct of foreign affairs.
 
-(Pub. L. 96–465, title I, §101, Oct. 17, 1980, 94 Stat. 2074.)
+(Pub. L. 96–465, title I, §101, Oct. 17, 1980, 94 Stat. 2074; Pub. L. 117–263, div. I, title XCII, §9219(1), Dec. 23, 2022, 136 Stat. 3878.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Act of May 24, 1924 (commonly known as the Rogers Act), referred to in subsec. (a)(3), is act May 24, 1924, ch. 182, 43 Stat. 140, as amended, which was classified generally to section 1 et seq. of this title and was repealed in large part by section 1131 of title XI of act Aug. 13, 1946, ch. 957, 60 Stat. 1037, known as the Foreign Service Act of 1946, which generally revised the laws relating to the administration of the Foreign Service (see below). For complete classification of Act May 24, 1924 to the Code, see Tables.
+Act of May 24, 1924 (commonly known as the Rogers Act), referred to in subsec. (a)(3), is act May 24, 1924, ch. 182, 43 Stat. 140, which was classified generally to section 1 et seq. of this title and was repealed in large part by section 1131 of title XI of act Aug. 13, 1946, ch. 957, 60 Stat. 1037, known as the Foreign Service Act of 1946, which generally revised the laws relating to the administration of the Foreign Service (see below). For complete classification of Act May 24, 1924 to the Code, see Tables.
 
-The Foreign Service Act of 1946, referred to in subsec. (a)(3), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, as amended, which was classified principally to chapter 14 (§801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
+The Foreign Service Act of 1946, referred to in subsec. (a)(3), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(2). Pub. L. 117–263 substituted "disability" for "handicapping condition".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -268,7 +272,7 @@ Sec. 9. (a) Pursuant to Section 210 of the Act there is established in the Depar
 
 (9) Equal Employment Opportunity Commission, one member;
 
-(c) The membership of the Board shall be selected from among officials who are knowledgeable in matters concerning the management of the Foreign Service. Except for the career members of the Senior Foreign Service from the Department of Agriculture, the Department of Commerce, the United States Information Agency, and the United States Agency for International Development, the members of the Board shall be selected from among those who have the rank of Assistant Secretary or higher or a position of comparable responsibility.
+(c) The membership of the Board shall be selected from among officials who are knowledgeable in matters concerning the management of the Foreign Service. Except for the career members of the Senior Foreign Service from the Department of Agriculture, the Department of Commerce, the United States Information Agency, and the United States Agency for International Development, the members of the Board shallbe selected from among those who have the rank of Assistant Secretary or higher or a position of comparable responsibility.
 
 (d) The Secretary of State may from time to time request the heads of other agencies to designate representatives to participate in the functions of the Board on a regular or occasional basis.
 

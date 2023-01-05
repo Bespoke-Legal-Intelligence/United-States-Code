@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;No employing office shall be closed or a mass layoff ordered within the meaning of section 3 of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2102) until theend of a 60-day period after the employing office serves written notice of such prospective closing or layoff to representatives of covered employees or, if there are no representatives, to covered employees.
+&emsp;No employing office shall be closed or a mass layoff ordered within the meaning of section 3 of the Worker Adjustment and Retraining Notification Act (29 U.S.C. 2102) until the end of a 60-day period after the employing office serves written notice of such prospective closing or layoff to representatives of covered employees or, if there are no representatives, to covered employees.
 
 #### (2) Definitions
 

@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (B) Adjustment to reflect excess or deficit in prior payments
 
-&emsp;&emsp;In the case of any modification of the annual advance amount under subparagraph\(A), the Secretary may adjust the amount of any periodic payment made after the date of such modification to properly take into account the amount by which any periodic payment made before such date was greater than or less than the amount that such payment would have been on the basis of the annual advance amount as so modified.
+&emsp;&emsp;In the case of any modification of the annual advance amount under subparagraph (A), the Secretary may adjust the amount of any periodic payment made after the date of such modification to properly take into account the amount by which any periodic payment made before such date was greater than or less than the amount that such payment would have been on the basis of the annual advance amount as so modified.
 
 #### (4) Determination of status
 

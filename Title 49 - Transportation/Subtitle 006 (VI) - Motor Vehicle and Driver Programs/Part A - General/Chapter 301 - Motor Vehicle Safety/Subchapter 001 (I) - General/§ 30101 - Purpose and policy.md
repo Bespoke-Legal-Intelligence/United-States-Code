@@ -40,7 +40,7 @@ Pub. L. 115–323, §1, Dec. 17, 2018, 132 Stat. 4443, provided that: "This Act 
 
 Pub. L. 115–106, §1, Jan. 8, 2018, 131 Stat. 2265, provided that: "This Act \[amending section 31310 of this title\] may be cited as the 'No Human Trafficking on Our Roads Act'."
 
-Pub. L. 115–105, §1, Jan. 8, 2018, 131 Stat. 2263, provided that: "This Act \[amending section 31305 of this title and enacting and amending provisions set out as notes under section 31149 of this title\] may be cited as the 'Jobs for Our Heroes Act'."
+Pub. L. 115–105, §1, Jan. 8, 2018, 131 Stat. 2263, provided that: "This Act \[amending section 31305 of this titleand enacting and amending provisions set out as notes under section 31149 of this title\] may be cited as the 'Jobs for Our Heroes Act'."
 
 Pub. L. 115–99, §1, Jan. 3, 2018, 131 Stat. 2242, provided that: "This Act \[amending sections 31110 and 31313 of this title and enacting provisions set out as a note under section 102 of this title\] may be cited as the 'Combating Human Trafficking in Commercial Vehicles Act'."
 
@@ -50,7 +50,7 @@ Pub. L. 114–94, div. B, title XXIV, §24109(a), Dec. 4, 2015, 129 Stat. 1706, 
 
 Pub. L. 114–94, div. B, title XXIV, §24321, Dec. 4, 2015, 129 Stat. 1713, provided that: "This part \[part II (§§24321, 24322) of subtitle C of title XXIV of div. B of Pub. L. 114–94, amending section 32302 of this title\] may be cited as the 'Safety Through Informed Consumers Act of 2015'."
 
-Pub. L. 114–94, div. B, title XXIV, §24331, Dec. 4, 2015, 129 Stat. 1713, provided that: "This part \[part III (§§24331–24335) of subtitle C of title XXIV of div. B of Pub. L. 114–94, amending sections 30117 and 32304A of this title and enacting provisions set out as a noteunder section 30119 of this title\] may be cited as the 'Tire Efficiency, Safety, and Registration Act of 2015' or the 'TESR Act'."
+Pub. L. 114–94, div. B, title XXIV, §24331, Dec. 4, 2015, 129 Stat. 1713, provided that: "This part \[part III (§§24331–24335) of subtitle C of title XXIV of div. B of Pub. L. 114–94, amending sections 30117 and 32304A of this title and enacting provisions set out as a note under section 30119 of this title\] may be cited as the 'Tire Efficiency, Safety, and Registration Act of 2015' or the 'TESR Act'."
 
 Pub. L. 114–94, div. B, title XXIV, §24351, Dec. 4, 2015, 129 Stat. 1716, provided that: "This part \[part V (§§24351, 24352) of subtitle C of title XXIV of div. B of Pub. L. 114–94, enacting section 30172 of this title and provisions set out as a note under section 30172 of this title\] may be cited as the 'Motor Vehicle Safety Whistleblower Act'."
 
@@ -126,7 +126,7 @@ In General.—Not later than 1 year after the date of enactment of this Act \[De
 
 "(b)
 
-Rulemaking.—Not later than 2 years after submitting the report required under subsection (a), the Administrator of the National Highway Traffic Safety Administration shall promulgate regulations to establish the appropriate period during which event data recorders installed in passenger motor vehicles may capture and record for retrieval vehicle-related data to the time necessary to provide accident investigators withvehicle-related information pertinent to crashes involving such motor vehicles."
+Rulemaking.—Not later than 2 years after submitting the report required under subsection (a), the Administrator of the National Highway Traffic Safety Administration shall promulgate regulations to establish the appropriate period during which event data recorders installed in passenger motor vehicles may capture and record for retrieval vehicle-related data to the time necessary to provide accident investigators with vehicle-related information pertinent to crashes involving such motor vehicles."
 
 #### National Highway Traffic Safety Administration Outreach to Manufacturer, Dealer, and Mechanic Personnel
 
@@ -226,7 +226,7 @@ Specific procedure.—
 
 &emsp;&emsp;"(A)
 
-Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May 31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advance notice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
+Initiation.—To initiate an action under section 2503, the Secretary shall, not later than May31, 1992, publish in the Federal Register an advance notice of proposed rulemaking or a notice of proposed rulemaking, except that if the Secretary is unable to publish such a notice by such date, the Secretary shall by such date publish in the Federal Register a notice that the Secretary will begin such action by a certain date which may not be later than January 31, 1993 and include in such notice the reasons for the delay. A notice of delayed action shall not be considered agency action subject to judicial review. If the Secretary publishes an advance notice of proposed rulemaking, the Secretary is not required to follow such notice with a notice of proposed rulemaking if the Secretary determines on the basis of such advanced notice and the comments received thereon that the contemplated action should not be taken under the provisions of the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.), including the provisions of section 103 of such Act (\[formerly\] 15 U.S.C. 1392), and if the Secretary publishes the reasons for such determination consistent with chapter 5 of title 5, United States Code.
 
 &emsp;&emsp;"(B)
 

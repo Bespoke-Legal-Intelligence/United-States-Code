@@ -40,7 +40,7 @@
 
 (11) No permit for noncompliance shall be issued under this subsection for any nonpermissible electric face equipment, unless such equipment was being used by an operator in connection with the mining operations in a coal mine on the operative date of this subchapter.
 
-(12) Effective one year after the operative date of this subchapter, all replacement equipment acquired for use in any mine referred to in this subsection shall be permissible and shall be maintained in a permissible condition, and in the event of any major overhaul of any item of equipment in use one year from the operative date of this subchapter such equipment shall be put in, and thereafter maintained in, a permissible condition, unless, in the opinion of the Secretary, such equipment or necessary replacement parts are not available.
+(12) Effective one year after the operative date of this subchapter, all replacement equipment acquired for use in any mine referred to in this subsection shall be permissible and shall be maintained in a permissible condition, and inthe event of any major overhaul of any item of equipment in use one year from the operative date of this subchapter such equipment shall be put in, and thereafter maintained in, a permissible condition, unless, in the opinion of the Secretary, such equipment or necessary replacement parts are not available.
 
 #### (b) Notification of permits
 
@@ -88,7 +88,7 @@ Power wires and cables, except trolley wires, trolley feeder wires, and bare sig
 
 #### (m) Circuit breakers; overload protection for three-phase motors
 
-Automatic circuit-breaking devices or fuses of the correct type and capacity shall be installed so as to protect all electric equipment and circuits against short circuit and overloads. Three-phase motors on all electric equipment shall beprovided with overload protection that will deenergize all three phases in the event that any phase is overloaded.
+Automatic circuit-breaking devices or fuses of the correct type and capacity shall be installed so as to protect all electric equipment and circuits against short circuit and overloads. Three-phase motors on all electric equipment shall be provided with overload protection that will deenergize all three phases in the event that any phase is overloaded.
 
 #### (n) Disconnecting switches for main power circuits; location and installation
 

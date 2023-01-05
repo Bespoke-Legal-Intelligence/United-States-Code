@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) The United States today has the highest per capita rate of death and property loss from fire of all the major industrialized nations in the world.
 
-&emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a public health and safety problem of great dimensions. Fire kills 12,000 and scars and injures 300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
+&emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a public health and safety problem of great dimensions. Fire kills 12,000 and scars and injures300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
 
 &emsp;(4) Such losses of life and property from fire are unacceptable to the Congress.
 
@@ -33,6 +33,10 @@ The Congress finds that—
 The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–246, §1, Dec. 20, 2022, 136 Stat. 2345, provided that: "This Act \[enacting section 2235 of this title\] may be cited as the 'Empowering the U.S. Fire Administration Act'."
 
 #### Short Title of 2018 Amendment
 
@@ -68,7 +72,7 @@ Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: "This Act 
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: "This Act \[enacting sections 2221 and 2228 of this title, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title\] may be cited as the 'Arson Prevention Act of 1994'."
+Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: "This Act \[enacting sections 2221 and 2228 of thistitle, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title\] may be cited as the 'Arson Prevention Act of 1994'."
 
 #### Short Title of 1990 Amendment
 
@@ -150,7 +154,7 @@ Findings.—Congress finds that—
 
 "(b)
 
-Purpose.—It is the purpose of this Act \[see Short Title of 1990 Amendment note above\] to save lives and protect property by promoting fire and life safety in hotels, motels, and all places of public accommodation affecting commerce."
+Purpose.—It is the purpose of this Act \[see Short Title of 1990 Amendment note above\] to save lives andprotect property by promoting fire and life safety in hotels, motels, and all places of public accommodation affecting commerce."
 
 #### Waiver of Federal Liability
 

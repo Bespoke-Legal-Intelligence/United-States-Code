@@ -10,7 +10,7 @@ The purposes of the corporation are those provided in the articles of incorporat
 
 &emsp;(4) To honor the memory of the men and women who gave their lives so that the United States and the world might be free and live by the creation of living memorial, monuments, and other forms of additional educational, cultural, and recreational facilities.
 
-&emsp;(5) To preserve for the people of the United States and posterity of such people the great and basic truths and enduring principles upon which the United States was founded.
+&emsp;(5) To preserve for the people of the United States and posterity of such people the greatand basic truths and enduring principles upon which the United States was founded.
 
 (Added Pub. L. 110–254, §1(a)(2), June 30, 2008, 122 Stat. 2420.)
 

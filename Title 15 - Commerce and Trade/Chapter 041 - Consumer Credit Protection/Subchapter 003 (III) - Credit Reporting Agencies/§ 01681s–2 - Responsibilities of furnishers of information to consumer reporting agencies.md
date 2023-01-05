@@ -82,7 +82,7 @@
 
 #### (ii) Reporting
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), if a furnisher makes an accommodation with respect to 1 or more payments on a credit obligation or account of a consumer, and the consumer makes the payments or is not required to make 1 or more payments pursuant to the accommodation, the furnisher shall—
+&emsp;&emsp;&emsp;Except as provided in clause (iii), if a furnisher makes an accommodation withrespect to 1 or more payments on a credit obligation or account of a consumer, and the consumer makes the payments or is not required to make 1 or more payments pursuant to the accommodation, the furnisher shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) report the credit obligation or account as current; or
 
@@ -208,7 +208,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Bureau, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration, shall prescribe regulationsthat shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
+&emsp;&emsp;The Bureau, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration, shall prescribe regulations that shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
 
 #### (B) Considerations
 
@@ -224,7 +224,7 @@
 
 #### (C) Applicability
 
-&emsp;&emsp;Subparagraphs (D) through (G) shall apply in any circumstance identified under the regulations promulgated under subparagraph (A).
+&emsp;&emsp;Subparagraphs (D) through (G) shall apply in any circumstance identified under theregulations promulgated under subparagraph (A).
 
 #### (D) Submitting a notice of dispute
 
@@ -282,7 +282,7 @@
 
 #### (1) In general
 
-&emsp;After receiving notice pursuant to section 1681i(a)(2) of this title of a dispute with regardto the completeness or accuracy of any information provided by a person to a consumer reporting agency, the person shall—
+&emsp;After receiving notice pursuant to section 1681i(a)(2) of this title of a dispute with regard to the completeness or accuracy of any information provided by a person to a consumer reporting agency, the person shall—
 
 &emsp;&emsp;(A) conduct an investigation with respect to the disputed information;
 
@@ -302,7 +302,7 @@
 
 #### (2) Deadline
 
-&emsp;A person shall complete all investigations, reviews, and reports required under paragraph (1) regarding information provided by the person to a consumer reporting agency, before the expiration of the period under section 1681i(a)(1) of this title within which the consumer reporting agency is required to complete actions required by that section regarding that information.
+&emsp;A person shall complete all investigations, reviews, and reports required under paragraph\(1) regarding information provided by the person to a consumer reporting agency, before the expiration of the period under section 1681i(a)(1) of this title within which the consumer reporting agency is required to complete actions required by that section regarding that information.
 
 #### (c) Limitation on liability
 
@@ -360,7 +360,7 @@ A prior section 623 of Pub. L. 90–321 was renumbered section 625 and is classi
 
 <b>2010</b>—Subsec. (a)(7)(D). Pub. L. 111–203, §1088(a)(11)(A), added subpar. (D) and struck out former subpar. (D) which related to duty of Board to prescribe a model disclosure.
 
-Subsec. (a)(8)(A). Pub. L. 111–203, §1088(a)(11)(B), which directed amendment of subpar. (A) by inserting", in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration," before "shall jointly", was executed by making the insertion before "shall prescribe", to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, §1088(a)(2)(D). See below.
+Subsec. (a)(8)(A). Pub. L. 111–203, §1088(a)(11)(B), which directed amendment of subpar. (A) by inserting ", in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration," before "shall jointly", was executed by making the insertion before "shall prescribe", to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, §1088(a)(2)(D). See below.
 
 Pub. L. 111–203, §1088(a)(2)(D), substituted "The Bureau shall" for "The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly".
 
@@ -382,7 +382,7 @@ Subsec. (a)(9). Pub. L. 108–159, §412(a), added par. (9).
 
 Subsec. (b)(1)(E). Pub. L. 108–159, §314(b), added subpar. (E).
 
-Subsec. (c). Pub. L. 108–159, §312(e)(1), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "Sections 1681n and 1681o of this title do not apply to any failure to comply with subsection (a) of this section, except as provided in section 1681s(c)(1)(B) of this title."
+Subsec. (c). Pub. L. 108–159, §312(e)(1), added subsec. (c) and struck out heading and text of former subsec.\(c). Text read as follows: "Sections 1681n and 1681o of this title do not apply to any failure to comply with subsection (a) of this section, except as provided in section 1681s(c)(1)(B) of this title."
 
 Subsec. (d). Pub. L. 108–159, §312(e)(1), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "Subsection (a) of this section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials and the State officials identified in that section."
 

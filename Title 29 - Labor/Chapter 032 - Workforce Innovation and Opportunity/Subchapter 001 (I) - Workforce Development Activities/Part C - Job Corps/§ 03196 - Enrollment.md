@@ -8,7 +8,7 @@ Enrollment in the Job Corps shall not relieve any individual of obligations unde
 
 No individual may be enrolled in the Job Corps for more than 2 years, except—
 
-&emsp;(1) in a case in which completion of an advanced career training program under section3198(c) of this title would require an individual to participate in the Job Corps for not more than one additional year;
+&emsp;(1) in a case in which completion of an advanced career training program under section 3198(c) of this title would require an individual to participate in the Job Corps for not more than one additional year;
 
 &emsp;(2) in the case of an individual with a disability who would reasonably be expected to meet the standards for a Job Corps graduate, as defined under section 3192(5) of this title, if allowed to participate in the Job Corps for not more than 1 additional year;
 

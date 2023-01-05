@@ -30,7 +30,7 @@ Subsec. (a) of this section, which provided that the President establish quotas 
 
 #### Effective Date
 
-Act Apr. 30, 1946, ch. 244, title V, §512, 60 Stat. 158, provided that: "This Act \[enacting subchapters I to IV of this chapter; sections 2470(a)(2) and 2800(a)(4)(B) of the Internal Revenue Code of 1939; and section 734 of Title 48, Territories and Insular Possessions\] shall take effect on the day after the date of its enactment \[Apr.30, 1946\], except Part 2 of Title II \[enacting sections 1261 to 1266 of this title\], which shall take effect as of January 1, 1946."
+Act Apr. 30, 1946, ch. 244, title V, §512, 60 Stat. 158, provided that: "This Act \[enacting subchapters I to IV of this chapter; sections 2470(a)(2) and 2800(a)(4)(B) of the Internal Revenue Code of 1939; and section 734 of Title 48, Territories and Insular Possessions\] shall take effect on the day after the date of its enactment \[Apr. 30, 1946\], except Part 2 of Title II \[enacting sections 1261 to 1266 of this title\], which shall take effect as of January 1, 1946."
 
 #### Short Title
 

@@ -40,7 +40,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2023, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the crop year following the date of the notice under this section.
+&emsp;&emsp;As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2023, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the cropyear following the date of the notice under this section.
 
 #### (B) Reestimates
 
@@ -62,7 +62,7 @@ In this section:
 
 #### (ii) Preservation of other authorities
 
-&emsp;&emsp;&emsp;Nothing in this section limits the use of other authorities for the disposition of aneligible commodity held in the inventory of the Commodity Credit Corporation for nonfood use or otherwise in a manner that does not increase the net quantity of sugar available for human consumption in the United States market, consistent with section 7272(f)(1) of this title.
+&emsp;&emsp;&emsp;Nothing in this section limits the use of other authorities for the disposition of an eligible commodity held in the inventory of the Commodity Credit Corporation for nonfood use or otherwise in a manner that does not increase the net quantity of sugar available for human consumption in the United States market, consistent with section 7272(f)(1) of this title.
 
 #### (B) Emergency shortages
 
@@ -110,7 +110,7 @@ In this section:
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (b)(5), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part VII of subtitle B of title III of the Act is classified to subpart VII (§1359aa et seq.) of part B of subchapter II of chapter 35 of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (b)(5), is act Feb. 16, 1938, ch. 30, 52 Stat. 31. Part VII of subtitle B of title III of the Act is classified to subpart VII (§1359aa et seq.) of part B of subchapter II of chapter 35 of this title. For complete classificationof this Act to the Code, see section 1281 of this title and Tables.
 
 #### Codification
 

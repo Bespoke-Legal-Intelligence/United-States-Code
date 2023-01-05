@@ -1,6 +1,6 @@
 ### §12321. Reserve Officer Training Corps units: limitation on number of Reserves assigned
 
-The number of members of the reserve components serving on active duty or full-time National Guard duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components who are assigned toduty with a unit of the Reserve Officer Training Corps program may not exceed 275.
+The number of members of the reserve components serving on active duty or full-time National Guard duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components who are assigned to duty with a unit of the Reserve Officer Training Corps program may not exceed 275.
 
 (Added Pub. L. 101–510, div. A, title V, §559(a)(1), Nov. 5, 1990, 104 Stat. 1571, §687; renumbered §690 and amended Pub. L. 102–25, title VII, §704(a)(3)(A), (B), Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–190, div. A, title X, §1061(a)(4)(A), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title V, §512, Oct. 23, 1992, 106 Stat. 2405; Pub. L. 103–160, div. A, title V, §512, Nov. 30, 1993, 107 Stat. 1649; renumbered §12321 and amended Pub. L. 103–337, div. A, title XVI, §1662(e)(2), (3), Oct. 5, 1994, 108 Stat. 2992.)
 

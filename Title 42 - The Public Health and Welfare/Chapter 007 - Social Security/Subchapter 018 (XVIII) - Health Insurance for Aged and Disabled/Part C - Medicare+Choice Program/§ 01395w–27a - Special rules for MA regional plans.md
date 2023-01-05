@@ -36,7 +36,7 @@
 
 #### (D) Market survey and analysis
 
-&emsp;&emsp;Before establishing MA regions, the Secretary shall conduct a market survey andanalysis, including an examination of current insurance markets, to determine how the regions should be established.
+&emsp;&emsp;Before establishing MA regions, the Secretary shall conduct a market survey and analysis, including an examination of current insurance markets, to determine how the regions should be established.
 
 #### (3) National plan
 
@@ -74,7 +74,7 @@ An MA regional plan shall include the following:
 
 &emsp;&emsp;&emsp;(i) its total amount of costs that the organization incurred in providing benefits covered under the original medicare fee-for-service program option for all enrollees under the plan in the region in the year and the portion of such costs that is attributable to administrative expenses described in subparagraph (C); and
 
-&emsp;&emsp;&emsp;(ii) its total amount of costs that the organization incurred in providing rebatable integrated benefits (as defined in subparagraph (D)) and with respect to such benefits the portion of such costs that is attributable to administrative expenses described in subparagraph (C) and not described in clause (i) of this subparagraph.
+&emsp;&emsp;&emsp;(ii) its total amount of costs that the organization incurred in providing rebatableintegrated benefits (as defined in subparagraph (D)) and with respect to such benefits the portion of such costs that is attributable to administrative expenses described in subparagraph (C) and not described in clause (i) of this subparagraph.
 
 #### (C) Allowable costs defined
 
@@ -144,7 +144,7 @@ An MA regional plan shall include the following:
 
 #### (B) Restriction on use of information
 
-&emsp;&emsp;Information disclosed or obtained pursuant to the provisions of this subsection may be used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this subsection.
+&emsp;&emsp;Information disclosed or obtained pursuant to the provisions of this subsection maybe used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this subsection.
 
 #### (d) Organizational and financial requirements
 
@@ -268,7 +268,7 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 &emsp;&emsp;(A) the organization provides assurances satisfactory to the Secretary that the organization will make payment to the hospital for inpatient hospital services of an amount that is not less than the amount that would be payable to the hospital under section 1395ww of this title with respect to such services; and
 
-&emsp;&emsp;(B) with respect to specific inpatient hospital services provided to an enrollee, thehospital demonstrates to the satisfaction of the Secretary that the hospital's costs of such services exceed the payment amount described in subparagraph (A).
+&emsp;&emsp;(B) with respect to specific inpatient hospital services provided to an enrollee, the hospital demonstrates to the satisfaction of the Secretary that the hospital's costs of such services exceed the payment amount described in subparagraph (A).
 
 #### (2) Payment amounts
 

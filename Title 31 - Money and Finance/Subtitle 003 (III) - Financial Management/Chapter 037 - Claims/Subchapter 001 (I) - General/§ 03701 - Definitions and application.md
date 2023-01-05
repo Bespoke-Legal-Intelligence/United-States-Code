@@ -160,7 +160,7 @@ In subsection (a)(3)(B), before clause (i), the word "money" is substituted for 
 
 In subsection (a)(6), 31 App.:952(d)(4)(C) is omitted as unnecessary.
 
-In subsection (b), the words "all . . . from fees, duties, leases, rents, royalties, services, sales of real or personal property, overpayments, fines, penalties, damages, interest, taxes, forfeitures, and other sources" are omitted as surplus.
+In subsection (b), the words "all . . . from fees, duties, leases, rents, royalties, services, sales of real orpersonal property, overpayments, fines, penalties, damages, interest, taxes, forfeitures, and other sources" are omitted as surplus.
 
 In subsection (c), the words "unit of general" are added for consistency in the revised title.
 
@@ -172,7 +172,7 @@ In subsection (d), the word "arising" is omitted as surplus.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(8) and (d)(1), is classified to Title 26, Internal Revenue Code.
 
-The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Sections 204(f) and 1631(b)(4) of the Act are classified to sections 404(f) and 1383(b)(4), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Sections 204(f) and 1631(b)(4) of the Act are classified to sections 404(f) and 1383(b)(4), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 The tariff laws of the United States, referred to in subsec. (d)(3), are classified generally to Title 19, Customs Duties.
 
@@ -236,7 +236,7 @@ Pub. L. 104–134, title III, §31001(b), Apr. 26, 1996, 110 Stat. 1321–358, p
 
 &emsp;"(2) To minimize the costs of debt collection by consolidating related functions and activities and utilizing interagency teams.
 
-&emsp;"(3) To reduce losses arising from debt management activities by requiring proper screening of potential borrowers, aggressive monitoring of all accounts, and sharing of information within and among Federal agencies.
+&emsp;"(3) To reduce losses arising from debt management activities by requiring proper screening of potentialborrowers, aggressive monitoring of all accounts, and sharing of information within and among Federal agencies.
 
 &emsp;"(4) To ensure that the public is fully informed of the Federal Government's debt collection policies and that debtors are cognizant of their financial obligations to repay amounts owed to the Federal Government.
 

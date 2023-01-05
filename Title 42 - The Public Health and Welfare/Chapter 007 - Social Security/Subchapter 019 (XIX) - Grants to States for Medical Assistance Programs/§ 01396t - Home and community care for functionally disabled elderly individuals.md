@@ -80,7 +80,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (B) Specification of assessment instrument
 
-&emsp;&emsp;The State shall specify the instrument to be used in the State in complying with therequirement of subparagraph (A)(iii) which instrument shall be—
+&emsp;&emsp;The State shall specify the instrument to be used in the State in complying with the requirement of subparagraph (A)(iii) which instrument shall be—
 
 &emsp;&emsp;&emsp;(i) one of the instruments designated under subparagraph (C)(ii); or
 
@@ -186,7 +186,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (B) Reduction in payment if failure to maintain effort
 
-&emsp;&emsp;If the amount reported under subparagraph (A) by a State with respect to a fiscal year is less than the amount reported under subparagraph (A) with respect to fiscal year 1989, the Secretary shall provide for a reduction in payments to the State under section 1396b(a) of this title in an amount equal to the difference between the amounts so reported.
+&emsp;&emsp;If the amount reported under subparagraph (A) by a State with respect to a fiscalyear is less than the amount reported under subparagraph (A) with respect to fiscal year 1989, the Secretary shall provide for a reduction in payments to the State under section 1396b(a) of this title in an amount equal to the difference between the amounts so reported.
 
 #### (f) Minimum requirements for home and community care
 
@@ -268,7 +268,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;(C) inform each individual receiving community care under this section in the setting, orally and in writing at the time the individual first receives home and community care in the setting, of the individual's legal rights with respect to such a setting and the care provided in the setting; and
 
-&emsp;&emsp;(D) meet the requirements of paragraphs (2) and (3) of section 1396r(d) of this title (relating to administration and other matters) in the same manner as such requirements apply to nursing facilities under such section; except that, in applying the requirement of section 1396r(d)(2) of this title (relating to life safety code), the Secretary shall provide for the application of such life safety requirements (if any) that are appropriate to the setting.
+&emsp;&emsp;(D) meet the requirements of paragraphs (2) and (3) of section 1396r(d) of this title (relating to administration and other matters)in the same manner as such requirements apply to nursing facilities under such section; except that, in applying the requirement of section 1396r(d)(2) of this title (relating to life safety code), the Secretary shall provide for the application of such life safety requirements (if any) that are appropriate to the setting.
 
 #### (3) Disclosure of ownership and control interests and exclusion of repeated violators
 
@@ -324,7 +324,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (E) Special surveys of compliance
 
-&emsp;&emsp;Where the Secretary has reason to question the compliance of a community care setting with any of the requirements of subsection (g) or (h), the Secretary may conduct a survey of the setting and, on the basis of that survey, make independent and binding determinations concerning the extent to which the setting meets such requirements.
+&emsp;&emsp;Where the Secretary has reason to question the compliance of a community caresetting with any of the requirements of subsection (g) or (h), the Secretary may conduct a survey of the setting and, on the basis of that survey, make independent and binding determinations concerning the extent to which the setting meets such requirements.
 
 #### (4) Investigation of complaints and monitoring of providers and settings
 
@@ -352,7 +352,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 &emsp;&emsp;If a State finds that—
 
-&emsp;&emsp;&emsp;(i) a provider of home or community care has provided care of substandard qualitywith respect to an individual, the State shall make a reasonable effort to notify promptly (I) an immediate family member of each such individual and (II) individuals receiving home or community care from that provider under this subchapter, or
+&emsp;&emsp;&emsp;(i) a provider of home or community care has provided care of substandard quality with respect to an individual, the State shall make a reasonable effort to notify promptly (I) an immediate family member of each such individual and (II) individuals receiving home or community care from that provider under this subchapter, or
 
 &emsp;&emsp;&emsp;(ii) a community care setting is substandard, the State shall make a reasonable effort to notify promptly (I) individuals receiving community care in that setting, and (II) immediate family members of such individuals.
 
@@ -398,7 +398,7 @@ In this subchapter, the term "home and community care" means one or more of the 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall publish, by December 1, 1991, a proposed regulation that sets forthinterim requirements, consistent with subparagraph (B), for the provision of home and community care and for community care settings, including—
+&emsp;&emsp;The Secretary shall publish, by December 1, 1991, a proposed regulation that sets forth interim requirements, consistent with subparagraph (B), for the provision of home and community care and for community care settings, including—
 
 &emsp;&emsp;&emsp;(i) the requirements of subsection (c)(2) (relating to comprehensive functional assessments, including the use of assessment instruments), of subsection (d)(2)(E) (relating to qualifications for qualified case managers), of subsection (f) (relating to minimum requirements for home and community care), of subsection (g) (relating to minimum requirements for small community care settings), and of subsection (h) (relating to minimum requirements for large community care settings), and
 
@@ -434,7 +434,7 @@ States may waive the requirement of section 1396a(a)(1) of this title (related t
 
 #### (1) Limitation on amount
 
-&emsp;The amount of funds that may be expended as medical assistance to carry out the purposes of this section shall be for fiscal year 1991, $40,000,000, for fiscal year 1992, $70,000,000, for fiscal year 1993, $130,000,000, for fiscal year 1994, $160,000,000, and for fiscal year 1995, $180,000,000.
+&emsp;The amount of funds that may be expended as medical assistance to carry out the purposes of this section shall be for fiscal year1991, $40,000,000, for fiscal year 1992, $70,000,000, for fiscal year 1993, $130,000,000, for fiscal year 1994, $160,000,000, and for fiscal year 1995, $180,000,000.
 
 #### (2) Assurance of entitlement to service
 

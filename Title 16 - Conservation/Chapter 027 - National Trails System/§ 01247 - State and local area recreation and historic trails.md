@@ -6,7 +6,7 @@ The Secretary of the Interior is directed to encourage States to consider, in th
 
 #### (b) Secretary of Housing and Urban Development to encourage metropolitan and other urban areas; administrative and financial assistance in connection with recreation and transportation planning; administration of urban open-space program
 
-The Secretary of Housing and Urban Development is directed, in administering the program of comprehensive urban planning and assistance under section 701 <sup>2</sup> of the Housing Act of 1954, to encourage the planning of recreation trails in connection with the recreation and transportation planning for metropolitan and other urban areas. He is further directed, in administering the urban open-space program under title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\], to encourage such recreation trails.
+The Secretary of Housing and Urban Development is directed, in administering the program of comprehensive urban planning and assistance under section 701 <sup>2</sup> of the Housing Act of 1954, to encourage the planning of recreation trails inconnection with the recreation and transportation planning for metropolitan and other urban areas. He is further directed, in administering the urban open-space program under title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\], to encourage such recreation trails.
 
 #### (c) Secretary of Agriculture to encourage States, local agencies, and private interests
 
@@ -28,7 +28,7 @@ Such trails may be designated and suitably marked as parts of the nationwide sys
 
 Section 701 of the Housing Act of 1954, referred to in subsec. (b), was classified to section 461 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
 
-The Housing Act of 1961, referred to in subsec. (b), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 5316 of Title 42 which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
+The Housing Act of 1961, referred to in subsec. (b), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 5316 of Title 42 which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
 The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (d), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45, Railroads, and Tables.
 

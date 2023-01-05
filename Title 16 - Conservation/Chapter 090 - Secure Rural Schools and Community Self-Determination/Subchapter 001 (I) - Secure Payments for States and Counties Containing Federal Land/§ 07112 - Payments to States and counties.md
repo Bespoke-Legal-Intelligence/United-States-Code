@@ -34,7 +34,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (D) Payments for each of fiscal years 2017 through 2020
 
-&emsp;&emsp;The election otherwise required by subparagraph (A) shall not apply for each of fiscal years 2017 through 2020.
+&emsp;&emsp;The election otherwise required by subparagraph (A) shall not apply for each of fiscal years 2017 through 2020.<sup>1</sup>
 
 #### (2) Duration of election
 
@@ -90,7 +90,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (C) Counties with major distributions
 
-&emsp;&emsp;In the case of each eligible county to which $350,000 or more is distributed for anyfiscal year pursuant to paragraph (1)(B) or (2)(B) of subsection (a), the eligible county shall elect to do 1 or more of the following with the balance of any funds not expended pursuant to subparagraph (A):
+&emsp;&emsp;In the case of each eligible county to which $350,000 or more is distributed for any fiscal year pursuant to paragraph (1)(B) or (2)(B) of subsection (a), the eligible county shall elect to do 1 or more of the following with the balance of any funds not expended pursuant to subparagraph (A):
 
 &emsp;&emsp;&emsp;(i) Reserve any portion of the balance for projects in accordance with subchapter II.
 
@@ -108,7 +108,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (F) Payments for each of fiscal years 2017 through 2020
 
-&emsp;&emsp;The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for each of fiscal years 2017 through 2020.
+&emsp;&emsp;The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for each of fiscal years 2017 through 2020.<sup>1</sup>
 
 #### (2) Distribution of funds
 
@@ -136,7 +136,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 &emsp;&emsp;&emsp;(i) the eligible county shall be considered to have elected to expend 80 percent of the funds in accordance with paragraph (1)(A); and
 
-&emsp;&emsp;&emsp;(ii) the remainder shall be available to the Secretary concerned to carry out projects in the eligible county to further the purposes described in section 7122(b) of this title, section 7123(c) of this title, or section 7124(a)(5) of this title.
+&emsp;&emsp;&emsp;(ii) the remainder shall be available to the Secretary concerned to carry out projects in the eligible county to further the purposes described in section 7122(b) ofthis title, section 7123(c) of this title, or section 7124(a)(5) of this title.
 
 #### (C) Effect of late payment for fiscal year 2014
 
@@ -144,7 +144,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (D) Payments for each of fiscal years 2017 through 2020
 
-&emsp;&emsp;This paragraph does not apply for each of fiscal years 2017 through 2020.
+&emsp;&emsp;This paragraph does not apply for each of fiscal years 2017 through 2020.<sup>1</sup>
 
 #### (e) Time for payment
 
@@ -174,7 +174,7 @@ Act of March 1, 1911, referred to in subsec. (f)(2), is act Mar. 1, 1911, ch. 18
 
 #### Prior Provisions
 
-A prior section 102 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal byPub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 102 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
 
@@ -239,4 +239,12 @@ Subsec. (d)(1)(D). Pub. L. 112–141, §100101(a)(3)(C)(ii)(II), redesignated su
 Subsec. (d)(3)(A). Pub. L. 112–141, §100101(a)(3)(C)(ii)(I), added subpar. (A) and struck out former subpar. (A) which related to notification of the Secretary of an election and failure to make an election.
 
 Subsec. (d)(3)(B). Pub. L. 112–141, §100101(a)(3)(C)(ii)(III), added subpar. (B). Former subpar. (B) redesignated subsec. (d)(1)(D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### County Elections for Fiscal Year 2021 Under the Secure Rural Schools and Community Self-Determination Act of 2000
+
+Pub. L. 117–102, §1, Mar. 15, 2022, 136 Stat. 48, provided that: "Sections 102(b)(1)(D), 102(d)(1)(F), and 102(d)(3)(D) of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7112(b)(1)(D), 7112(d)(1)(F), 7112(d)(3)(D)) shall be applied for fiscal year 2021."
+
+<i><sup>1</sup></i><i> See County Elections for Fiscal Year 2021 Under the Secure Rural Schools and Community Self-Determination Act of 2000 note below.</i>
 

@@ -82,7 +82,7 @@
 
 &emsp;No deduction shall be allowed under section 243 <sup>1</sup> 245, or 245A, in respect of any dividend on any share of stock—
 
-&emsp;&emsp;(A) which is held by the taxpayer for 45 days or less during the 91-day period beginning on the date which is 45 days before thedate on which such share becomes ex-dividend with respect to such dividend, or
+&emsp;&emsp;(A) which is held by the taxpayer for 45 days or less during the 91-day period beginning on the date which is 45 days before the date on which such share becomes ex-dividend with respect to such dividend, or
 
 &emsp;&emsp;(B) to the extent that the taxpayer is under an obligation (whether pursuant to a short sale or otherwise) to make related payments with respect to positions in substantially similar or related property.
 
@@ -130,7 +130,7 @@
 
 #### (B) Status must be maintained during holding period
 
-&emsp;&emsp;For purposes of applying paragraph (1) with respect to section 245A, the taxpayer shall be treated as holding the stock referred to in paragraph (1) for any period only if—
+&emsp;&emsp;For purposes of applying paragraph (1) with respect to section 245A, the taxpayershall be treated as holding the stock referred to in paragraph (1) for any period only if—
 
 &emsp;&emsp;&emsp;(i) the specified 10-percent owned foreign corporation referred to in section 245A(a) is a specified 10-percent owned foreign corporation at all times during such period, and
 
@@ -152,7 +152,7 @@ No deduction shall be allowed under section 243 in respect of a dividend from a 
 
 Subsec. (b)(1). Pub. L. 115–97, §14202(b)(2)(B), which directed amendment of par. (1) by substituting "subsection (a) and (b) of section 245, and 250" for "and subsection (a) and (b) of section 245" the second place appearing, was executed by making the substitution for "and subsection (a) or (b) of section 245", to reflect the probable intent of Congress.
 
-Pub. L. 115–97, §14202(b)(2)(A), which directed amendment of par. (1) by substituting ", subsection (a) and (b) of section 245, and section 250" for "and subsection\(a) and (b) of section 245" the first place appearing, was executed by making the substitution for "and subsection (a) or (b) of section 245", to reflect the probable intent of Congress.
+Pub. L. 115–97, §14202(b)(2)(A), which directed amendment of par. (1) by substituting ", subsection (a) and (b) of section 245, and section 250" for "and subsection (a) and (b) of section 245" the first place appearing, was executed by making the substitution for "and subsection (a) or (b) of section 245", to reflect the probable intent of Congress.
 
 Pub. L. 115–97, §13305(b)(1), struck out "199," after "sections 172,".
 
@@ -252,7 +252,7 @@ Amendment by section 11011(d)(2) of Pub. L. 115–97 applicable to taxable years
 
 Amendment by section 13002(c) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13002(f) of Pub. L. 115–97, set out as a note under section 243 of this title.
 
-Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 Amendment by section 14101(b), (c)(1) of Pub. L. 115–97 applicable to distributions made after Dec. 31, 2017, see section 14101(f) of Pub. L. 115–97, set out as an Effective Date note under section 245A of this title.
 
@@ -298,7 +298,7 @@ Transitional rule.—The amendments made by this section shall not apply to divi
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) of Pub. L. 104–188, set out as a note under section 593 of this title.
+Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1995, see section 1616(c) ofPub. L. 104–188, set out as a note under section 593 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -348,7 +348,7 @@ Certain sales made after july 1, 1982.—Paragraph (6) of \[former\] section 936
 
 "(3)
 
-Certain transfers of intangibles made after august 14, 1982.—Subsection (d) \[amending section 367 ofthis title\] shall apply to taxable years ending after August 14, 1982."
+Certain transfers of intangibles made after august 14, 1982.—Subsection (d) \[amending section 367 of this title\] shall apply to taxable years ending after August 14, 1982."
 
 #### Effective Date of 1976 Amendment
 

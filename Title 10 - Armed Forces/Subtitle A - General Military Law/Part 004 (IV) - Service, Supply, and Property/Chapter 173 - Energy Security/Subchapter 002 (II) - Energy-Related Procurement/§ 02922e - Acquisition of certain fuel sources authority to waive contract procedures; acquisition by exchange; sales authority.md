@@ -54,7 +54,7 @@ Subsec. (d). Pub. L. 103–160, §826(c)(2), added subsec. (d). Former subsec. (
 
 Subsec. (e). Pub. L. 103–160, §826(c)(1), (d)(1)(C), redesignated subsec. (d) as (e) and inserted heading.
 
-<b>1990</b>—Subsecs. (d), (e). Pub. L. 101–510 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "The Secretary of Defense shall notify the Congress within 10 days of the date on which any waiver is made under this section and of the reasons for the necessity of exercising such waiver."
+<b>1990</b>—Subsecs. (d), (e). Pub. L. 101–510 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "The Secretary of Defense shallnotify the Congress within 10 days of the date on which any waiver is made under this section and of the reasons for the necessity of exercising such waiver."
 
 <b>1987</b>—Subsec. (e). Pub. L. 100–26 inserted "the term" after "In this section,".
 

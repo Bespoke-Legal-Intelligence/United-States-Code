@@ -18,7 +18,7 @@ Another section 1084(b) of Pub. L. 105–34 amended sections 101 and 264 of this
 
 #### Prior Provisions
 
-A prior section 812, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 127; amended Pub. L. 87–858, §3(d)(1), Oct. 23, 1962, 76 Stat. 1137; Pub. L. 88–571, §1(a), Sept. 2, 1964, 78 Stat. 857; Pub. L. 94–455, title VIII, §806(d)(1), title XIX, §1901(a)(99), Oct. 4, 1976, 90 Stat. 1598, 1781; Pub. L. 97–34, title II, §207(b), Aug. 13, 1981, 95 Stat. 225, related to operations loss deductions, prior to the general revision of this part by Pub. L. 98–369, §211(a).
+A prior section 812, added Pub. L. 86–69, §2(a), June 25, 1959, 73 Stat. 127; amended Pub. L. 87–858, §3(d)(1), Oct.23, 1962, 76 Stat. 1137; Pub. L. 88–571, §1(a), Sept. 2, 1964, 78 Stat. 857; Pub. L. 94–455, title VIII, §806(d)(1), title XIX, §1901(a)(99), Oct. 4, 1976, 90 Stat. 1598, 1781; Pub. L. 97–34, title II, §207(b), Aug. 13, 1981, 95 Stat. 225, related to operations loss deductions, prior to the general revision of this part by Pub. L. 98–369, §211(a).
 
 Another prior section 812, act Aug. 16, 1954, ch. 736, §812, as added Mar. 13, 1956, ch. 83, §2, 70 Stat. 45, related to reserve and other policy liability deduction, prior to the general revision of this part by Pub. L. 86–69, §2(a).
 
@@ -76,7 +76,7 @@ Amendment by section 1602(b)(1) of Pub. L. 104–188 applicable to loans made af
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1018(h)(2), Nov. 10, 1988, 102 Stat. 3583, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effectas if included in the amendments made by section 211 of the Tax Reform Act of 1984 \[Pub. L. 98–369\]."
+Pub. L. 100–647, title I, §1018(h)(2), Nov. 10, 1988, 102 Stat. 3583, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 211 of the Tax Reform Act of 1984 \[Pub. L. 98–369\]."
 
 Amendment by section 2004(p)(2) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provisions of the Revenue Act of 1987, Pub. L. 100–203, title X, to which such amendment relates, see section 2004(u) of Pub. L. 100–647, set out as a note under section 56 of this title.
 
@@ -94,5 +94,5 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

@@ -22,7 +22,7 @@ Within 2 years after October 24, 1992, the Nuclear Regulatory Commission shall e
 
 #### (2) Periodic application for certificate of compliance
 
-&emsp;The Corporation shall apply to the Nuclear Regulatory Commission for a certificate ofcompliance under paragraph (1) periodically, as determined by the Commission, but not less than every 5 years. The Commission shall review any such application and any determination made under subsection (b)(2) shall be based on the results of any such review.
+&emsp;The Corporation shall apply to the Nuclear Regulatory Commission for a certificate of compliance under paragraph (1) periodically, as determined by the Commission, but not less than every 5 years. The Commission shall review any such application and any determination made under subsection (b)(2) shall be based on the results of any such review.
 
 #### (3) Treatment of certificate of compliance
 

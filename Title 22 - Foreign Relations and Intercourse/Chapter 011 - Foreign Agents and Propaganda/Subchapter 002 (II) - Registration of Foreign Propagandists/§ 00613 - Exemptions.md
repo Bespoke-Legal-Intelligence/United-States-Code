@@ -8,7 +8,7 @@ A duly accredited diplomatic or consular officer of a foreign government who is 
 
 #### (b) Officials of foreign government
 
-Any official of a foreign government, if such government is recognized by the United States, who is not a public-relations counsel, publicity agent, information-service employee, or a citizen of the United States, whose name and status and the character of whose duties as such official are of public record in the Department of State, while said official is engaged exclusively in activities which are recognized by the Department of State as being within the scope of the functions of such official;
+Any official of a foreign government, if such government is recognized by the United States,who is not a public-relations counsel, publicity agent, information-service employee, or a citizen of the United States, whose name and status and the character of whose duties as such official are of public record in the Department of State, while said official is engaged exclusively in activities which are recognized by the Department of State as being within the scope of the functions of such official;
 
 #### (c) Staff members of diplomatic or consular officers
 

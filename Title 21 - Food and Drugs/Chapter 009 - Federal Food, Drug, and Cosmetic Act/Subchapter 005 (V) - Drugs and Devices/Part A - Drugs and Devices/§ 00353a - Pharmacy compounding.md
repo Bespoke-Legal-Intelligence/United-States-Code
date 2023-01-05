@@ -42,7 +42,7 @@ Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a dru
 
 &emsp;&emsp;&emsp;(iii) that are accompanied by valid certificates of analysis for each bulk drug substance;
 
-&emsp;&emsp;(B) compounds the drug product using ingredients (other than bulk drug substances)that comply with the standards of an applicable United States Pharmacopoeia or National Formulary monograph, if a monograph exists, and the United States Pharmacopoeia chapter on pharmacy compounding;
+&emsp;&emsp;(B) compounds the drug product using ingredients (other than bulk drug substances) that comply with the standards of an applicable United States Pharmacopoeia or National Formulary monograph, if a monograph exists, and the United States Pharmacopoeia chapter on pharmacy compounding;
 
 &emsp;&emsp;(C) does not compound a drug product that appears on a list published by the Secretary in the Federal Register of drug products that have been withdrawn or removed from the market because such drug products or components of such drug products have been found to be unsafe or not effective; and
 
@@ -104,5 +104,5 @@ Subsecs. (c) to (f). Pub. L. 113–54, §106(a)(2), (3), redesignated subsecs. (
 
 #### Effective Date
 
-Pub. L. 105–115, title I, §127(b), Nov. 21, 1997, 111 Stat. 2330, provided that: "Section 503A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 353a\], added by subsection (a), shall take effect upon the expiration of the1-year period beginning on the date of the enactment of this Act \[Nov. 21, 1997\]."
+Pub. L. 105–115, title I, §127(b), Nov. 21, 1997, 111 Stat. 2330, provided that: "Section 503A of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 353a\], added by subsection (a), shall take effect upon the expiration of the 1-year period beginning on the date of the enactment of this Act \[Nov. 21, 1997\]."
 

@@ -10,7 +10,7 @@ The Congress finds that—
 
 &emsp;(3) the ability of our economy to compete successfully in international markets, the development of new technology, improved working conditions, expanding job opportunities, and an increasing standard of living depend on the availability of adequate capital at reasonable cost to commerce and industry;
 
-&emsp;(4) an important goal of national policy shall be to remove obstacles to the free flow of resources into new investment, particularly those obstacles that hinder the creation and growth of smaller businesses because general national programs and policies to aid and stimulate private enterprise are not sufficient to deal with the special problems and needs of smaller businesses; and
+&emsp;(4) an important goal of national policy shall be to remove obstacles to the free flow of resources into new investment, particularly those obstacles that hinder the creation and growth of smaller businesses because general national programs and policies to aid andstimulate private enterprise are not sufficient to deal with the special problems and needs of smaller businesses; and
 
 &emsp;(5) while private business firms are, and should continue to be, the major source of investment, the investment activities of the Federal, State, and local governments play an important role in affecting the level of output, employment, and productivity and in achieving other national purposes.
 
@@ -34,5 +34,5 @@ Section 1021(i) of this title, referred to in subsec. (b), was in the original "
 
 For definition of "this chapter", referred to in subsec. (c), see References in Text note set out under section 3102 of this title.
 
-The Employment Act of 1946, referred to in subsec. (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
+The Employment Act of 1946, referred to in subsec. (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
 

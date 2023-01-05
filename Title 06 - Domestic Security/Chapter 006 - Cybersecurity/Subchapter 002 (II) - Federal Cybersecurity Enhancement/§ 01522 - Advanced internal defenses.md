@@ -20,7 +20,7 @@ The Director and the Secretary, in consultation with appropriate agencies, shall
 
 #### (c) Improved metrics
 
-The Secretary, in collaboration with the Director, shall review and update the metrics used to measure security under section 3554 of title 44to include measures of intrusion and incident detection and response times.
+The Secretary, in collaboration with the Director, shall review and update the metrics used to measure security under section 3554 of title 44 to include measures of intrusion and incident detection and response times.
 
 #### (d) Transparency and accountability
 

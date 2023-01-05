@@ -48,7 +48,7 @@ In this part—
 
 &emsp;(13) "State-supported route" means a route described in subparagraph (B) or (D) of paragraph (7), or in section 24702, that is operated by Amtrak, excluding those trains operated by Amtrak on the routes described in paragraph (7)(A).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 900; Pub. L. 105–134, title IV, §407, Dec. 2, 1997, 111Stat. 2586; Pub. L. 110–432, div. B, title II, §201(a), Oct. 16, 2008, 122 Stat. 4909; Pub. L. 114–94, div. A, title XI, §11006(a), Dec. 4, 2015, 129 Stat. 1624; Pub. L. 115–420, §7(b)(3)(A)(i)(I), Jan. 3, 2019, 132 Stat. 5446.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 900; Pub. L. 105–134, title IV, §407, Dec. 2, 1997, 111 Stat. 2586; Pub. L. 110–432, div. B, title II, §201(a), Oct. 16, 2008, 122 Stat. 4909; Pub. L. 114–94, div. A, title XI, §11006(a), Dec. 4, 2015, 129 Stat. 1624; Pub. L. 115–420, §7(b)(3)(A)(i)(I), Jan. 3, 2019, 132 Stat. 5446.)
 
 Historical and Revision Notes
 

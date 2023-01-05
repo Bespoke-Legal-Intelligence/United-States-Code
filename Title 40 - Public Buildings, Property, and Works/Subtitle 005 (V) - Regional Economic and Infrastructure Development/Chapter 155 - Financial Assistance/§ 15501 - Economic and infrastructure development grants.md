@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A Commission may make grants to States and local governments, Indian tribes, and public and nonprofit organizationsfor projects, approved in accordance with section 15503—
+In General.—A Commission may make grants to States and local governments, Indian tribes, and public and nonprofit organizations for projects, approved in accordance with section 15503—
 
 &emsp;(1) to develop the transportation infrastructure of its region;
 

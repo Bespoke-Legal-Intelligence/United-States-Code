@@ -214,7 +214,7 @@
 
 #### (B) Requirements may be met separately with respect to excluded group
 
-&emsp;&emsp;If employees not meeting the minimum age or service requirements of subsection (a)(1) (without regard to subparagraph (B) thereof) are covered under a plan of the employer which meets the requirements of paragraph (1) separately with respect to such employees, such employees may be excluded from consideration in determining whether any plan of the employer meets the requirements of paragraph (1).
+&emsp;&emsp;If employees not meeting the minimum age or service requirements of subsection (a)(1) (without regard to subparagraph (B) thereof) are covered under a plan of the employer which meets the requirements of paragraph (1) separately with respect to suchemployees, such employees may be excluded from consideration in determining whether any plan of the employer meets the requirements of paragraph (1).
 
 #### (C) Requirements not treated as being met before entry date
 
@@ -300,7 +300,7 @@
 
 &emsp;&emsp;(D) a plan established and maintained by a society, order, or association described in section 501(c)(8) or (9) if no part of the contributions to or under such plan are made by employers of participants in such plan.
 
-&emsp;(2) A plan described in paragraph (1) shall be treated as meeting the requirements of this section for purposes of section 401(a), except that in the case of a plan described in subparagraph (B), (C), or (D) of paragraph (1), this paragraph shall apply only if such plan meets the requirements of section 401(a)(3) (as in effect on September 1, 1974).
+&emsp;(2) A plan described in paragraph (1) shall be treated as meeting the requirements of thissection for purposes of section 401(a), except that in the case of a plan described in subparagraph (B), (C), or (D) of paragraph (1), this paragraph shall apply only if such plan meets the requirements of section 401(a)(3) (as in effect on September 1, 1974).
 
 #### (d) Election by church to have participation, vesting, funding, etc., provisions apply
 
@@ -310,7 +310,7 @@
 
 #### (2) Election irrevocable
 
-&emsp;An election under this subsection with respect to any church plan shall be binding withrespect to such plan, and, once made, shall be irrevocable.
+&emsp;An election under this subsection with respect to any church plan shall be binding with respect to such plan, and, once made, shall be irrevocable.
 
 (Added Pub. L. 93–406, title II, §1011, Sept. 2, 1974, 88 Stat. 898; amended Pub. L. 94–455, title XIX, §§1901(a)(61), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1774, 1834; Pub. L. 96–605, title II, §225(a), Dec. 28, 1980, 94 Stat. 3529; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–397, title II, §202(a), (d)(1), (e)(1), Aug. 23, 1984, 98 Stat. 1436–1438; Pub. L. 99–509, title IX, §9203(a)(2), Oct. 21, 1986, 100 Stat. 1979; Pub. L. 99–514, title XI, §§1112(a), 1113(c), (d)(A), Oct. 22, 1986, 100 Stat. 2440, 2447; Pub. L. 100–647, title I, §1011(h)(1), (2), (11), title III, §3021(a)(13)(B), Nov. 10, 1988, 102 Stat. 3464, 3467, 3631; Pub. L. 101–239, title VII, §7841(d)(6), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 105–34, title XV, §1505(a)(3), Aug. 5, 1997, 111 Stat. 1063; Pub. L. 109–280, title IV, §402(h)(1), Aug. 17, 2006, 120 Stat. 927.)
 
@@ -318,7 +318,7 @@
 
 #### References in Text
 
-The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended. Title II of the Railway Labor Act was added by act Apr. 10, 1936, ch. 166, 49 Stat. 1189, and is classified generally to subchapter II (§181 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 347, 44 Stat. 577. Title II of the Railway Labor Act was added by act Apr. 10, 1936, ch. 166, 49 Stat. 1189, and is classified generally to subchapter II (§181 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 #### Amendments
 
@@ -394,7 +394,7 @@ Amendment by section 3021(a)(13)(B) of Pub. L. 100–647 effective as if include
 
 #### Effective Date of 1986 Amendments
 
-Amendment by section 1112(a) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, withspecial rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
+Amendment by section 1112(a) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule regarding collective bargaining agreements ratified before Mar. 1, 1986, and with provision for waiver of excise tax on reversions, see section 1112(e) of Pub. L. 99–514, set out as a note under section 401 of this title.
 
 Amendment by section 1113(c), (d)(A) of Pub. L. 99–514 applicable to plan years beginning after Dec. 31, 1988, with special rule for plans maintained pursuant to collective bargaining agreements ratified before Mar. 1, 1986, and not applicable to employees who do not have 1 hour of service in any plan year to which the amendment applies, see section 1113(f) of Pub. L. 99–514, as amended, set out as a note under section 411 of this title.
 
@@ -472,7 +472,7 @@ In general.—In the case of a plan maintained on January 1, 1974, pursuant to o
 
 &emsp;&emsp;"(B)
 
-Waiver of underfunding.—In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary of Labor finds to be collective bargaining agreements between employee representatives and one or more employers, if by reason of subparagraph (A) the requirements of section 401(a)(7) of the Internal Revenue Code of 1986 apply without regard to the amendment of such section 401(a)(7) by section 1016(a)(2)(C) of this Act \[Pub. L. 93–406\], the plan shall not be treated as not meeting such requirements solely by reason of the application of the amendments made by sections 1011 and 1012 of this Act \[enacting this section and section 411 of this title\] or related amendments made by this part.
+Waiver of underfunding.—In the case of a plan maintained on January 1, 1974, pursuant to one or more agreements which the Secretary of Laborfinds to be collective bargaining agreements between employee representatives and one or more employers, if by reason of subparagraph (A) the requirements of section 401(a)(7) of the Internal Revenue Code of 1986 apply without regard to the amendment of such section 401(a)(7) by section 1016(a)(2)(C) of this Act \[Pub. L. 93–406\], the plan shall not be treated as not meeting such requirements solely by reason of the application of the amendments made by sections 1011 and 1012 of this Act \[enacting this section and section 411 of this title\] or related amendments made by this part.
 
 &emsp;&emsp;"(C)
 

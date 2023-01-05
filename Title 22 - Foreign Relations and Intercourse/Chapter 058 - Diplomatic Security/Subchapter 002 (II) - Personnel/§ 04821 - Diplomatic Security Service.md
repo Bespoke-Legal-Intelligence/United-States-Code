@@ -8,11 +8,25 @@ The Secretary of State may establish a Diplomatic Security Service, which shall 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: "There shall be,within the Bureau of Diplomatic Security, the Diplomatic Security Service. The Diplomatic Security Service shall perform such functions as may be assigned to it by the Secretary of State."
+<b>1994</b>—Pub. L. 103–236 amended section generally. Prior to amendment, section read as follows: "There shall be, within the Bureau of Diplomatic Security, the Diplomatic Security Service. The Diplomatic Security Service shall perform such functions as may be assigned to it by the Secretary of State."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+
+#### Sexual Assault Prevention and Response Victim Advocates
+
+Pub. L. 117–263, div. I, title XCII, §9202(c), Dec. 23, 2022, 136 Stat. 3864, provided that: "The Secretary \[of State\] shall ensure that the Diplomatic Security Service's Victims' Resource Advocacy Program—
+
+&emsp;"(1) is appropriately staffed by advocates who are physically present at—
+
+&emsp;&emsp;"(A) the headquarters of the Department \[of State\]; and
+
+&emsp;&emsp;"(B) major domestic and international facilities and embassies, as determined by the Secretary;
+
+&emsp;"(2) considers the logistics that are necessary to allow for the expedient travel of victims from Department facilities that do not have advocates; and
+
+&emsp;"(3) uses funds available to the Department to provide emergency food, shelter, clothing, and transportation for victims involved in matters being investigated by the Diplomatic Security Service."
 

@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(B) into the causes, prevention, and treatment of mental illness.
 
-&emsp;(5) The capability to evaluate effectively the activities of the center, including activities relating to the evaluation of specific efforts toimprove the quality and effectiveness of mental health services provided by the Department at or through individual facilities.
+&emsp;(5) The capability to evaluate effectively the activities of the center, including activities relating to the evaluation of specific efforts to improve the quality and effectiveness of mental health services provided by the Department at or through individual facilities.
 
 (e)(1) In order to provide advice to assist the Secretary and the Under Secretary for Health to carry out their responsibilities under this section, the official within the central office of the Veterans Health Administration responsible for mental health and behavioral sciences matters shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the designation of centers under this section.
 
@@ -60,7 +60,7 @@
 
 (3) The panel shall review each proposal submitted to the panel by the official referred to in paragraph (1) and shall submit to that official its views on the relative scientific and clinical merit of each such proposal. The panel shall specifically determine with respect to each such proposal whether that proposal is among those proposals which have met the highest competitive standards of scientific and clinical merit.
 
-(4) The panel shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+(4) The panel shall not be subject to chapter 10 of title 5.
 
 (f) Clinical and scientific investigation activities at each center established under this section—
 
@@ -82,15 +82,13 @@
 
 (2) In addition to funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1), the Under Secretary for Health shall allocate to such centers from other funds appropriated for that fiscal year generally for the Department of Veterans Affairs medical services account and the Department of Veterans Affairs medical and prosthetics research account such amounts as the Under Secretary for Health determines appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 104–262, title III, §334(a)(1), Oct. 9, 1996, 110 Stat. 3200; amended Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142.)
+(Added Pub. L. 104–262, title III, §334(a)(1), Oct. 9, 1996, 110 Stat. 3200; amended Pub. L. 110–387, title IX, §901(a)(8), Oct. 10, 2008, 122 Stat. 4142; Pub. L. 117–286, §4(a)(220), Dec. 27, 2022, 136 Stat. 4330.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(4). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
 
 <b>2008</b>—Subsec. (j)(2). Pub. L. 110–387 substituted "medical services account" for "medical care account".
 

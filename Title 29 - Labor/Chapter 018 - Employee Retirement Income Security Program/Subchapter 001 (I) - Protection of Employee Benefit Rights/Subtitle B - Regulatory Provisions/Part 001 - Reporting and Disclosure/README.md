@@ -15,4 +15,6 @@ part 1—reporting and disclosure
 - [&sect; 01028 - Reliance on administrative interpretations](%C2%A7%2001028%20-%20Reliance%20on%20administrative%20interpretations.md)
 - [&sect; 01029 - Forms](%C2%A7%2001029%20-%20Forms.md)
 - [&sect; 01030 - Alternative methods of compliance](%C2%A7%2001030%20-%20Alternative%20methods%20of%20compliance.md)
+- [&sect; 01030a - Eliminating unnecessary plan requirements related to unenrolled participants](%C2%A7%2001030a%20-%20Eliminating%20unnecessary%20plan%20requirements%20related%20to%20unenrolled%20participants.md)
 - [&sect; 01031 - Repeal and effective date](%C2%A7%2001031%20-%20Repeal%20and%20effective%20date.md)
+- [&sect; 01032 - Notice and disclosure requirements with respect to lump sums](%C2%A7%2001032%20-%20Notice%20and%20disclosure%20requirements%20with%20respect%20to%20lump%20sums.md)

@@ -56,7 +56,7 @@ Mar. 17, 1964, Pub. L. 88–284, §1(12), (13), 78 Stat. 165.
 
 Sept. 23, 1959, Pub. L. 86–382, §9(b), 73 Stat. 715.
 
-In subsection (a), the words "hereby created" are omitted as executed. The words "hereinafter referred toas the 'Fund' " are omitted as unnecessary. The words "to reimburse the Employees Health Benefits Fund for sums expended by the Commission in administering the provisions of this chapter for the fiscal years 1960 and 1961" in former section 3008(b) are omitted as executed.
+In subsection (a), the words "hereby created" are omitted as executed. The words "hereinafter referred to as the 'Fund' " are omitted as unnecessary. The words "to reimburse the Employees Health Benefits Fund for sums expended by the Commission in administering the provisions of this chapter for the fiscal years 1960 and 1961" in former section 3008(b) are omitted as executed.
 
 In subsection (d), the requirement that the assets and liabilities of plans of organizations that have been merged be transferred at the beginning of the contract term next following the date of the merger or enactment of this subsection is omitted as executed. The next beginning contract term referred to was November 1, 1964, and the transfers have been made. In the last sentence, the word "hereafter" is omitted as unnecessary.
 

@@ -18,7 +18,7 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 
 7\. Thence along Government land and following along rim of the crater and crest of wall of Kaupo Gap to a four inch by four inch redwood post, the direct azimuth and distance being three hundred and fifty-six degrees forty-one minutes ten thousand eight hundred and sixty-seven and nine-tenths feet.
 
-8\. Eighty-six degrees one minute thirty seconds six thousand seven hundred and seventy-seven and four-tenths feet along grant 3457, lot 1, to A. V. Marciel, and the remaining portion of the land of Nuu (R. P. 8049, L. C. A. 6239 Apana 2 to Kalaimoku), passing over a cross on stone at Kauhaokamoa at three thousand four hundred and forty-one and eight-tenths feet and passing over an iron pipe on the west edge of theKoolau Gap at five thousand eight hundred and seventy-four feet.
+8\. Eighty-six degrees one minute thirty seconds six thousand seven hundred and seventy-seven and four-tenths feet along grant 3457, lot 1, to A. V. Marciel, and the remaining portion of the land of Nuu (R. P. 8049, L. C. A. 6239 Apana 2 to Kalaimoku), passing over a cross on stone at Kauhaokamoa at three thousand four hundred and forty-one and eight-tenths feet and passing over an iron pipe on the west edge of the Koolau Gap at five thousand eight hundred and seventy-four feet.
 
 9\. One hundred and thirty-eight degrees forty-two minutes thirty seconds nine thousand five hundred and seventy-four and two-tenths feet along the remaining portion of said land of Nuu to a cross on rock, the true azimuth and distance to Government survey triangulation station Haleakala 2 being one hundred and seventy-nine degrees thirteen minutes fifteen seconds nine hundred and forty-three and two-tenths feet.
 
@@ -32,7 +32,7 @@ Beginning at a triangle on set stone, said mark being the Government survey tria
 
 14\. Two hundred and thirteen degrees forty-six minutes eight thousand two hundred and forty-one and two-tenths feet along the remaining portions of the lands of Kealahou 3 and 4 and Pulehunui to a concrete monument marked Number 19, the true azimuth and distance from said monument to a "K" marked on a large lava rock called Kilohana, at the east corner of the lands of Kealahou 3 and 4, being three hundred and twenty-three degrees fifty-three minutes nine hundred and forty-seven and three-tenths feet.
 
-15\. One hundred and forty-three degrees fifty-three minutes six thousand nine hundred and five and three-tenths feet along the land of Pulehunui to a concrete monument marked Number 20.
+15\. One hundred and forty-three degrees fifty-three minutes six thousand nine hundred andfive and three-tenths feet along the land of Pulehunui to a concrete monument marked Number 20.
 
 16\. One hundred and ninety-nine degrees twenty-three minutes ten thousand seven hundred and twenty-six feet along the remaining portion of the land of Kalialinui to the point of beginning, passing over a concrete monument marked Number 22 at a distance of six thousand four hundred thirty-six and seven-tenths feet; including portions of the lands of Kealahou 3 and 4, Pulehunui, Kalialinui, Kaupo, Nuu, Nakula, Kahikinui and Papaanui, Island of Maui, and containing seventeen thousand one hundred and thirty acres, more or less; and all of those lands lying within the boundary above described are included in and made a part of the Hawaii National Park subject to all laws and regulations pertaining to said park.
 

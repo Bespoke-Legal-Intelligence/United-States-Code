@@ -2,7 +2,7 @@
 
 #### (a) Deauthorization
 
-The barge canal project located between the Gulf of Mexico and the Atlantic Ocean (hereinafter in this section referred to as the "project"), as described in the Act of July 23, 1942 (56 Stat. 703), shall be deauthorized by operation of law immediately upon the Governor and Cabinet of the State of Florida adopting a resolution specifically agreeing on behalf of the State of Florida (hereinafter in this section referred to as the "State") to all of the terms of the agreement prescribed in subsection (b).
+The barge canal project located between the Gulf of Mexico and the Atlantic Ocean (hereinafter in this section referred to as the "project"), as described in the Act of July 23, 1942 (56 Stat. 703), shall be deauthorized by operation of law immediately upon the Governor andCabinet of the State of Florida adopting a resolution specifically agreeing on behalf of the State of Florida (hereinafter in this section referred to as the "State") to all of the terms of the agreement prescribed in subsection (b).
 
 #### (b) Transfer of project lands
 
@@ -48,7 +48,7 @@ In the 24-month period following November 28, 1990, the Secretary shall carry ou
 
 #### (1) In general
 
-&emsp;During the period beginning on November 28, 1992, and ending on September 30, 1993, the Secretary is authorized and directed to offer to enter into a contract with the St. Johns River Water Management District and the Southwest Florida Water Management District of the State of Florida for the continued operation and maintenance by the Secretary of the portions of the project described in subsection (d). The maintenance shall be performed at a level of service that is necessary to ensure safe operating conditions and to prevent deterioration of the structures. No major rehabilitations or renovations shall be performed by the Secretary in such portions of the project during such period.
+&emsp;During the period beginning on November 28, 1992, and ending on September 30, 1993, the Secretary is authorized and directed to offer to enter into a contract with the St. Johns River Water Management District and the Southwest Florida Water Management District of the State of Florida for the continuedoperation and maintenance by the Secretary of the portions of the project described in subsection (d). The maintenance shall be performed at a level of service that is necessary to ensure safe operating conditions and to prevent deterioration of the structures. No major rehabilitations or renovations shall be performed by the Secretary in such portions of the project during such period.
 
 #### (2) Funding
 
@@ -64,7 +64,7 @@ The exact acreage and legal description of the real property to be transferred p
 
 #### References in Text
 
-Act of July 23, 1942, referred to in subsec. (a), is act July 23, 1942, ch. 520, 56 Stat. 703, as amended. See National Defense Pipe Lines note set out preceding section 715 of Title 15, Commerce and Trade.
+Act of July 23, 1942, referred to in subsec. (a), is act July 23, 1942, ch. 520, 56 Stat. 703. See National Defense Pipe Lines note set out preceding section 715 of Title 15, Commerce and Trade.
 
 #### Amendments
 

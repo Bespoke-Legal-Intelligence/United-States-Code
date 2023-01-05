@@ -14,7 +14,7 @@ Findings for Which Judicial Review May Be Sought.—Subsection (a) applies to th
 
 (c)
 
-Subsequent Review.—Appeals from a decision of the district court shall be taken to the appropriate United States court of appeals and to the Supreme Court as provided by law.
+Subsequent Review.—Appeals from a decision of the district court shall be taken to theappropriate United States court of appeals and to the Supreme Court as provided by law.
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 348.)
 

@@ -20,7 +20,7 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;(3)
 
-Qualifications of pipeline operators.—The qualifications applicable to an individual who operates and maintains a pipeline facility shall address the ability to recognize and react appropriately to abnormal operating conditions that may indicate a dangerous situation or a condition exceeding design limits. The operator of a pipeline facility shall ensure that employees who operate and maintain the facility are qualified to operate and maintain the pipeline facilities.
+Qualifications of pipeline operators.—The qualifications applicable to an individual who operates and maintains a pipeline facility shall address the ability to recognize and reactappropriately to abnormal operating conditions that may indicate a dangerous situation or a condition exceeding design limits. The operator of a pipeline facility shall ensure that employees who operate and maintain the facility are qualified to operate and maintain the pipeline facilities.
 
 (b)
 
@@ -136,7 +136,7 @@ Public Safety Program Requirements.—(1) The Secretary shall include in the sta
 
 &emsp;(A) notifies an operator of proposed demolition, excavation, tunneling, or construction near or affecting the facility;
 
-&emsp;(B) requires an operator to identify a pipeline facility that may be affected by the proposed demolition, excavation, tunneling, orconstruction, to prevent damaging the facility; and
+&emsp;(B) requires an operator to identify a pipeline facility that may be affected by the proposed demolition, excavation, tunneling, or construction, to prevent damaging the facility; and
 
 &emsp;(C) the Secretary decides will protect a facility adequately against a hazard caused by demolition, excavation, tunneling, or construction.
 
@@ -202,7 +202,7 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;&emsp;(A) the design and construction of new natural gas transmission pipeline or hazardous liquid pipeline facilities, and
 
-&emsp;&emsp;(B) when the replacement of existing natural gas transmission pipeline or hazardousliquid pipeline facilities or equipment is required, the replacement of such existing facilities be carried out, to the extent practicable, in a manner so as to accommodate the passage through such natural gas transmission pipeline or hazardous liquid pipeline facilities of instrumented internal inspection devices (commonly referred to as "smart pigs"). The Secretary may extend such standards to require existing natural gas transmission pipeline or hazardous liquid pipeline facilities, whose basic construction would accommodate an instrumented internal inspection device to be modified to permit the inspection of such facilities with instrumented internal inspection devices.
+&emsp;&emsp;(B) when the replacement of existing natural gas transmission pipeline or hazardous liquid pipeline facilities or equipment is required, the replacement of such existing facilities be carried out, to the extent practicable, in a manner so as to accommodate the passage through such natural gas transmission pipeline or hazardous liquid pipeline facilities of instrumented internal inspection devices (commonly referred to as "smart pigs"). The Secretary may extend such standards to require existing natural gas transmission pipeline or hazardous liquid pipeline facilities, whose basic construction would accommodate an instrumented internal inspection device to be modified to permit the inspection of such facilities with instrumented internal inspection devices.
 
 &emsp;(2)
 
@@ -268,7 +268,7 @@ Limitation on statutory construction.—Nothing in this subsection authorizes th
 
 (j)
 
-Emergency Flow Restricting Devices.—(1) Not later than October 24, 1994, the Secretary shall survey and assess the effectiveness of emergency flow restricting devices (including remotely controlled valves and check valves) and other procedures, systems, and equipment used to detect and locate hazardous liquid pipeline ruptures and minimize product releases from hazardous liquid pipeline facilities.
+Emergency Flow Restricting Devices.—(1) Not later than October 24, 1994, the Secretary shall survey and assess the effectiveness ofemergency flow restricting devices (including remotely controlled valves and check valves) and other procedures, systems, and equipment used to detect and locate hazardous liquid pipeline ruptures and minimize product releases from hazardous liquid pipeline facilities.
 
 (2) Not later than 2 years after the survey and assessment are completed, the Secretary shall prescribe standards on the circumstances under which an operator of a hazardous liquid pipeline facility must use an emergency flow restricting device or other procedure, system, or equipment described in paragraph (1) of this subsection on the facility.
 
@@ -532,7 +532,7 @@ In general.—Not later than 1 year after the date of enactment of this subsecti
 
 &emsp;&emsp;&emsp;(iv) if the Secretary determines that it is not operationally possible for an operator to implement the requirements under clause (iii), the Secretary shall require such operator to identify actions in their plan that minimize the risk of an overpressurization event.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1304; Pub. L. 104–304, §§4, 20(g), Oct. 12, 1996, 110 Stat. 3794, 3805; Pub. L. 107–355, §§20(a)(1), (2)(A), 23, Dec. 17, 2002, 116 Stat. 3009, 3011; Pub. L. 109–468, §4, Dec. 29, 2006, 120 Stat. 3490; Pub. L. 112–90, §§4, 12, 15, 18(b), 24, Jan. 3, 2012, 125 Stat. 1906, 1913, 1915, 1916, 1919; Pub. L. 113–30, §1, Aug. 9, 2013, 127 Stat. 510; Pub. L. 116–260, div. R, title I, §§113, 118, 121, title II, §§203, 204, 206, Dec. 27, 2020, 134 Stat. 2228, 2234, 2236, 2239–2241.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1304; Pub. L. 104–304, §§4, 20(g), Oct. 12, 1996, 110 Stat.3794, 3805; Pub. L. 107–355, §§20(a)(1), (2)(A), 23, Dec. 17, 2002, 116 Stat. 3009, 3011; Pub. L. 109–468, §4, Dec. 29, 2006, 120 Stat. 3490; Pub. L. 112–90, §§4, 12, 15, 18(b), 24, Jan. 3, 2012, 125 Stat. 1906, 1913, 1915, 1916, 1919; Pub. L. 113–30, §1, Aug. 9, 2013, 127 Stat. 510; Pub. L. 116–260, div. R, title I, §§113, 118, 121, title II, §§203, 204, 206, Dec. 27, 2020, 134 Stat. 2228, 2234, 2236, 2239–2241.)
 
 Historical and Revision Notes
 
@@ -804,7 +804,7 @@ Subsec. (d). Pub. L. 104–304, §4(c), inserted "as required by the standards p
 
 Subsec. (e). Pub. L. 104–304, §4(d)(2), substituted "transportation" for "transmission" in introductory provisions.
 
-Pub. L. 104–304, §4(d)(1), in introductory provisions, directed striking out "and, to the extent the Secretary considers necessary, an operator of a gathering line that is not a regulated gather line (as defined under section 60101(b)(2) of this title)," after "subject to this chapter", which was executed by striking out textwhich read in part "regulated gathering line" instead of "regulated gather line", to reflect the probable intent of Congress.
+Pub. L. 104–304, §4(d)(1), in introductory provisions, directed striking out "and, to the extent the Secretary considers necessary, an operator of a gathering line that is not a regulated gather line (as defined under section 60101(b)(2) of this title)," after "subject to this chapter", which was executed by striking out text which read in part "regulated gathering line" instead of "regulated gather line", to reflect the probable intent of Congress.
 
 Subsec. (f)(1). Pub. L. 104–304, §4(e)(1), added heading and text of par. (1) and struck out former par. (1) which read as follows: "The Secretary shall prescribe minimum safety standards requiring that the design and construction of a new gas pipeline transmission facility or hazardous liquid pipeline facility, and the required replacement of an existing gas pipeline transmission facility, hazardous liquid pipeline facility, or equipment, be carried out, to the extent practicable, in a way that accommodates the passage through the facility of an instrumented internal inspection device (commonly referred to as a 'smart pig'). The Secretary may apply the standard to an existing gas or hazardous liquid transmission facility and require the facility to be changed to allow the facility to be inspected with an instrumented internal inspection device if the basic construction of the facility will accommodate the device."
 
@@ -839,6 +839,8 @@ Requirement.—In carrying out subsection (a), the Secretary shall minimize dupl
 Rule of Construction.—Nothing in this section may be construed to require modification of the inspection or enforcement authority of any Federal agency or State."
 
 #### Rulemaking on Shut-Off Valves and Hazardous Liquid Pipeline Facilities Leak Detection Systems
+
+Pub. L. 117–103, div. L, title I, Mar. 15, 2022, 136 Stat. 720, provided in part: "That the Secretary of Transportation shall issue a final rule on automatic and remote-controlled shut-off valves and hazardous liquid pipeline facilities leak detection systems as required under section 4 \[amending this section\] and section 8 \[enacting provisions set out as a note under section 60108 of this title\] of the Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011 (Public Law 112–90), respectively, not later than 120 days after the date of enactment of this Act \[Mar. 15, 2022\]".
 
 Pub. L. 116–94, div. H, title I, Dec. 20, 2019, 133 Stat. 2968, provided in part: "That no later than 90 days after enactment of this Act \[Dec. 20, 2019\], the Secretary of Transportation shall initiate a rulemaking on automatic and remote-controlled shut-off valves and hazardous liquid pipeline facilities leak detection systems as required under section 4 \[amending this section\] and section 8 \[enacting provisions set out as a note under section 60108 of this title\] of the Pipeline Safety, Regulatory Certainty, and Job Creation Act of 2011 (Public Law 112–90), respectively, and shall issue a final rule no later than one year after enactment of this Act."
 

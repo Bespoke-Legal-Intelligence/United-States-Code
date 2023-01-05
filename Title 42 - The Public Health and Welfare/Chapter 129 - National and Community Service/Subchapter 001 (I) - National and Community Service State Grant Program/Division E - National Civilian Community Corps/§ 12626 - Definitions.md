@@ -88,7 +88,7 @@ Par. (8). Pub. L. 111–13, §1516(2)(F), which directed substitution of "The te
 
 Pub. L. 111–13, §1516(2)(B), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 111–13, §1516(2)(G), substituted "Service-learning" for "Service learning" in heading and"service-learning" for "service learning" in introductory provisions.
+Par. (9). Pub. L. 111–13, §1516(2)(G), substituted "Service-learning" for "Service learning" in heading and "service-learning" for "service learning" in introductory provisions.
 
 Pub. L. 111–13, §1516(2)(A), (B), redesignated par. (8) as (9) and struck out former par. (9). Text read as follows: "The term 'superintendent', with respect to a Corps camp, means the head of the camp under section 12615(d) of this title."
 

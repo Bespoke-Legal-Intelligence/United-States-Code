@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A person that knowingly violates this chapter, or knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided forin this chapter shall be fined under title 18, imprisoned not more than 1 year, or both.
+&emsp;&emsp;A person that knowingly violates this chapter, or knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter shall be fined under title 18, imprisoned not more than 1 year, or both.
 
 #### (B) Movement
 
@@ -62,7 +62,7 @@ The Secretary shall coordinate with the Attorney General to establish guidelines
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this title", meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. Forcomplete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 #### Codification
 

@@ -56,7 +56,7 @@ Refunds.—The board shall—
 
 "(f)
 
-Termination.—If such amendments to the plan are not approved, the Secretary shall terminate the amendments and the plan shall continue in effect without the amendments.
+Termination.—If such amendments to the plan are not approved, the Secretary shall terminate theamendments and the plan shall continue in effect without the amendments.
 
 "(g)
 

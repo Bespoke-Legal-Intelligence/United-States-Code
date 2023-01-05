@@ -62,7 +62,7 @@ Pub. L. 114–328, div. A, title X, §1096(d), Dec. 23, 2016, 130 Stat. 2441, pr
 
 Report required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\], the Secretary of the Army shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives a report on the acquisition and transfer of excess rifles, ammunition, repair parts, and other supplies described in section 40731(a) of title 36, United States Code, that were provided to a country on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2314\]. The report shall include each of the following:
 
-&emsp;"(A) A list of excess rifles, ammunition, repair parts, and other supplies known to the United States Army as eligible for transfer under section 40731(a) of title 36, United States Code.
+&emsp;"(A) A list of excess rifles, ammunition, repair parts, and other supplies known to the United StatesArmy as eligible for transfer under section 40731(a) of title 36, United States Code.
 
 &emsp;"(B) An assessment of whether and how the Secretary of the Army intends to use the authorities under section 40728B of title 36, United States Code, as added by this section.
 

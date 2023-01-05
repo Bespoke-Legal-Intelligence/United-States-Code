@@ -1,6 +1,6 @@
 ### §2309. Recall to active duty with consent of member
 
-Any enlisted member on the retired list may, with his consent, be assigned to such duties as he may be able to perform, except that no enlisted member on the retired list who has reached the age of sixty-two years shall be recalled in time of peace.
+Any enlisted member on the retired list may, with his consent, be assigned to such duties ashe may be able to perform, except that no enlisted member on the retired list who has reached the age of sixty-two years shall be recalled in time of peace.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 522, §360; Aug. 3, 1950, ch. 536, §19, 64 Stat. 407; Pub. L. 98–557, §15(a)(3)(A), (4)(B)(i), Oct. 30, 1984, 98 Stat. 2865; renumbered §2309, Pub. L. 115–282, title I, §113(b), Dec. 4, 2018, 132 Stat. 4221.)
 

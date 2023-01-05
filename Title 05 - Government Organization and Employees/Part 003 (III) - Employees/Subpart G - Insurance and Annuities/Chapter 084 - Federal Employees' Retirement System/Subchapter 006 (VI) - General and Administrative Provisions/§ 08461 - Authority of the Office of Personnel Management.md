@@ -8,7 +8,7 @@
 
 (d) The Office shall determine questions of disability and dependency arising under the provisions of this chapter administered by the Office. Except to the extent provided under subsection (e), the decisions of the Office concerning these matters are final and conclusive and are not subject to review. The Office may direct at any time such medical or other examinations as it considers necessary to determine the facts concerning disability or dependency of an individual receiving or applying for annuity under the provisions of this chapter administered by the Office. The Office may suspend or deny annuity for failure to submit to examination.
 
-(e)(1) Subject to paragraph (2), an administrative action or order affecting the rights or interests of an individual or of the United States under the provisions of this chapter administered by the Office may be appealed to the MeritSystems Protection Board under procedures prescribed by the Board.
+(e)(1) Subject to paragraph (2), an administrative action or order affecting the rights or interests of an individual or of the United States under the provisions of this chapter administered by the Office may be appealed to the Merit Systems Protection Board under procedures prescribed by the Board.
 
 (2) In the case of any individual found by the Office to be disabled in whole or in part on the basis of the individual's mental condition, and that finding was made pursuant to an application by an agency for purposes of disability retirement under section 8451, the procedures under section 7701 shall apply and the decision of the Board shall be subject to judicial review under section 7703.
 
@@ -20,7 +20,7 @@
 
 (2) The Director, in consultation with the officials from whom such information is requested, shall establish (by regulation or otherwise) such safeguards as are necessary to ensure that information made available under this subsection is used only for the purpose authorized.
 
-(i) In making a determination of "actuarial equivalence" under this chapter, the economic assumptions used shall be the same as the economic assumptions most recently used by the Office (before the determination of actuarial equivalence involved) in determining the normal-cost percentage of the System.
+(i) In making a determination of "actuarial equivalence" under this chapter, the economicassumptions used shall be the same as the economic assumptions most recently used by the Office (before the determination of actuarial equivalence involved) in determining the normal-cost percentage of the System.
 
 (j)(1) Notwithstanding any other provision of this chapter, the Director of Central Intelligence shall, in a manner consistent with the administration of this chapter by the Office, and to the extent considered appropriate by the Director of Central Intelligence—
 
@@ -80,7 +80,7 @@
 
 > shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered, during any subsequent employment as an employee as defined by section 2105(a) or section 2105(c), by the retirement system applicable to such employee's current or most recent employment described by section 2105(c) rather than be subject to this chapter.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 570; amended Pub. L. 99–556, title I, §102, Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–508, title VII, §7202(k)(2), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(71), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–106, div. A, title X, §1043(a)(2), Feb. 10, 1996, 110 Stat. 434; Pub. L. 107–107, div. A, title XI, §1131(b), Dec. 28, 2001, 115 Stat. 1242.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 570; amended Pub. L. 99–556, title I, §102, Oct. 27, 1986, 100 Stat. 3131; Pub. L.101–508, title VII, §7202(k)(2), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(71), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–106, div. A, title X, §1043(a)(2), Feb. 10, 1996, 110 Stat. 434; Pub. L. 107–107, div. A, title XI, §1131(b), Dec. 28, 2001, 115 Stat. 1242.)
 
 #### <b>Editorial Notes</b>
 

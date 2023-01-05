@@ -50,7 +50,7 @@ Pub. L. 106–314, Oct. 17, 2000, 114 Stat. 1266, provided that:
 
 &emsp;"(4) To avoid unnecessary and lengthy stays in the foster care system, the Adoption and Safe Families Act of 1997 specifically requires, among other things, that States move to terminate the parental rights of the parents of those children who have been in foster care for 15 of the last 22 months.
 
-&emsp;"(5) While essential to protect children and to carry out the general purposes of the Adoption and Safe Families Act of 1997, the accelerated timelines for the termination of parental rights and the other requirements imposed under that Act increase the pressure on the Nation's already overburdened abuse and neglect courts.
+&emsp;"(5) While essential to protect children and to carry out the general purposes of the Adoption and Safe Families Act of 1997, the accelerated timelines for the termination of parental rights and the other requirements imposed under that Act increase the pressureon the Nation's already overburdened abuse and neglect courts.
 
 &emsp;"(6) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would be substantially improved by the acquisition and implementation of computerized case-tracking systems to identify and eliminate existing backlogs, to move abuse and neglect caseloads forward in a timely manner, and to move children into safe and stable families. Such systems could also be used to evaluate the effectiveness of such courts in meeting the purposes of the amendments made by, and provisions of, the Adoption and Safe Families Act of 1997.
 
@@ -238,7 +238,7 @@ Considerations.—In evaluating an application for a grant under this section th
 
 &emsp;&emsp;"(A) The extent to which the system proposed in the application may be replicated in other jurisdictions.
 
-&emsp;&emsp;"(B) The extent to which the proposed system is consistent with the provisions of, and amendments made by, the Adoption and Safe Families Act of 1997 (Public Law 105–89; 111 Stat. 2115), and parts B and E of title IV of the Social Security Act (42 U.S.C. 620 et seq.; 670 et seq.).
+&emsp;&emsp;"(B) The extent to which the proposed system is consistent with the provisions of, and amendmentsmade by, the Adoption and Safe Families Act of 1997 (Public Law 105–89; 111 Stat. 2115), and parts B and E of title IV of the Social Security Act (42 U.S.C. 620 et seq.; 670 et seq.).
 
 &emsp;&emsp;"(C) The extent to which the proposed system is feasible and likely to achieve the purposes described in subsection (a)(1).
 
@@ -364,7 +364,7 @@ Limitation on Administrative Expenditures.—Not more than 5 percent of the gran
 
 "(c)
 
-Determination of Urban and Rural Areas.—For purposes of administering the grant authorized under this subsection, the Administrator of the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice shall determine whether an area is one of the 15 largest urban areas or a rural area in accordance with the practices of, and statistical information compiled by, the Bureau of the Census.
+Determination of Urban and Rural Areas.—For purposes of administering the grant authorizedunder this subsection, the Administrator of the Office of Juvenile Justice and Delinquency Prevention of the Department of Justice shall determine whether an area is one of the 15 largest urban areas or a rural area in accordance with the practices of, and statistical information compiled by, the Bureau of the Census.
 
 "(d)
 
@@ -392,7 +392,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. Every child deserves a family. Our States and communities have both a legal obligation, and the privilege, to care for our Nation's most vulnerable children.
 
-The best foster care system is one that is not needed in the first place. My Administration has been focused on prevention strategies that keep children safe while strengthening families so that children do not enter foster care unnecessarily. Last year, and for only the second time since 2011, the number of children in the foster care system declined, and for the third year in arow, the number of children entering foster care has declined.
+The best foster care system is one that is not needed in the first place. My Administration has been focused on prevention strategies that keep children safe while strengthening families so that children do not enter foster care unnecessarily. Last year, and for only the second time since 2011, the number of children in the foster care system declined, and for the third year in a row, the number of children entering foster care has declined.
 
 But challenges remain. Too many young people who are in our foster care system wait years before finding the permanency of family. More than 400,000 children are currently in foster care. Of those, more than 124,000 children are waiting for adoption, with nearly 6 out of 10 (58.4 percent) having already become legally eligible for adoption.
 
@@ -410,7 +410,7 @@ This order will help to empower families who answer the call to open their heart
 
 Sec. 2. <i>Encouraging Robust Partnerships Between State Agencies and Public, Private, Faith-based, and Community Organizations</i>. (a) In order to facilitate close partnerships between State agencies and nongovernmental organizations, including public, private, faith-based, and community groups, the Secretary of Health and Human Services (the "Secretary") shall provide increased public access to accurate, up-to-date information relevant to strengthening the child welfare system, including by:
 
-(i) Publishing data to aid in the recruitment of community support. Within 1 year of the date of this order \[June 24, 2020\] and each year thereafter, the Secretary shall submit to the President, through the Assistant to the President for Domestic Policy, a report that provides information about typical patterns of entry, recent available counts of children in foster care, and counts of children waiting for adoption. To the extent appropriate and consistent with applicable law, including all privacy laws, this data will be disaggregated by county or other sub-State level, child age, placement type, and prior time in care.
+(i) Publishing data to aid in the recruitment of community support. Within 1 year of the date of this order \[June 24, 2020\] and each year thereafter, the Secretary shall submit to the President, through the Assistant to the President for Domestic Policy, a report that provides information about typical patterns of entry, recent available counts of children in foster care, andcounts of children waiting for adoption. To the extent appropriate and consistent with applicable law, including all privacy laws, this data will be disaggregated by county or other sub-State level, child age, placement type, and prior time in care.
 
 (ii) Collecting needed data to preserve sibling connections.
 
@@ -440,7 +440,7 @@ Sec. 3. <i>Improving Access to Adequate Resources for Caregivers and Youth</i>. 
 
 (a) Expanding educational options. To the extent practicable, the Secretary shall use all existing technical assistance resources to promote dissemination and State implementation of the National Training and Development Curriculum, including, when appropriate, in non-classroom environments.
 
-(b) Increasing the availability of trauma-informed training. The Secretary shall provide an enhanced, web-based, learning-management platform to house the information generated by the National Adoption Competency Mental Health Training Initiative. Access tothis web-based training material will be provided free of charge for all child welfare and mental health practitioners.
+(b) Increasing the availability of trauma-informed training. The Secretary shall provide an enhanced, web-based, learning-management platform to house the information generated by the National Adoption Competency Mental Health Training Initiative. Access to this web-based training material will be provided free of charge for all child welfare and mental health practitioners.
 
 (c) Supporting guardianship. The Secretary shall provide information to States regarding the importance and availability of funds to increase guardianship through the title IV–E Guardianship Assistance Program (42 U.S.C. 673), which provides Federal reimbursement for payments to guardians and for associated administrative costs. This information shall include which States have already opted into the program.
 
@@ -470,7 +470,7 @@ Sec. 5. <i>Improving Processes to Prevent Unnecessary Removal and Secure Permane
 
 (iii) Within 2 years of the date of this order, the Secretary shall develop metrics to track permanency outcomes in each State and measure State performance over time.
 
-(iv) Within 6 months of the date of this order, the Secretary shall provide guidance to States regarding flexibility in the use of Federal funds to support and encourage high-quality legal representation for parents and children, including pre-petition representation, in their efforts to prevent the removal of children from their families, safely reunify children and parents, finalize permanency, and ensure that their voices are heard and their rights are protected. The Secretary shall also ensure collection of data regarding State use of Federal funds for this purpose.
+(iv) Within 6 months of the date of this order, the Secretary shall provide guidance to States regarding flexibility in the use of Federal funds to support and encourage high-quality legal representation for parents and children, including pre-petition representation, in their efforts to prevent the removal of children from their families, safely reunify children and parents, finalize permanency, and ensure that their voices areheard and their rights are protected. The Secretary shall also ensure collection of data regarding State use of Federal funds for this purpose.
 
 (b) Risk and Safety Assessments.
 

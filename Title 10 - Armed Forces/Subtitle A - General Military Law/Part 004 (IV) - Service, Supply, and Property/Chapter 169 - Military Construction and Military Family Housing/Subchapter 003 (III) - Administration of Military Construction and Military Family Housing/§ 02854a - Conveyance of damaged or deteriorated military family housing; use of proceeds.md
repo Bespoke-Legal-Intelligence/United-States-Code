@@ -56,7 +56,7 @@ Description of Property.—The exact acreage and legal description of any family
 
 Additional Terms and Conditions.—The Secretary concerned may require such additional terms and conditions in connection with the conveyance of family housing facilities under this section as the Secretary considers appropriate to protect the interests of the United States.
 
-(Added Pub. L. 104–106, div. B, title XXVIII, §2818(a)(1), Feb. 10, 1996, 110 Stat. 553; amended Pub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(21), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, §1031(a)(46), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, §5(b)(49), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. B, title XXVIII, §2801(c)(3), Dec. 12, 2017, 131 Stat. 1843.)
+(Added Pub. L. 104–106, div. B, title XXVIII, §2818(a)(1), Feb. 10, 1996, 110 Stat. 553; amendedPub. L. 107–107, div. A, title X, §1048(d)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–217, §3(b)(21), Aug. 21, 2002, 116 Stat. 1297; Pub. L. 108–136, div. A, title X, §1031(a)(46), Nov. 24, 2003, 117 Stat. 1602; Pub. L. 111–350, §5(b)(49), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. B, title XXVIII, §2801(c)(3), Dec. 12, 2017, 131 Stat. 1843.)
 
 #### <b>Editorial Notes</b>
 

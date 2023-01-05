@@ -30,11 +30,11 @@ If the petitioner applies to the court for leave to adduce additional data, view
 
 #### (c) Standard for review
 
-Upon the filing of the petition under subsection (a) of this section for judicial review ofa regulation or order, the court shall have jurisdiction to review the regulation or order in accordance with chapter 7 of title 5 and to grant appropriate relief, including interim relief, as provided in such chapter. A regulation described in paragraph (2) or (5) of subsection (a) and an order issued after the review provided by section 360e(g) of this title shall not be affirmed if it is found to be unsupported by substantial evidence on the record taken as a whole.
+Upon the filing of the petition under subsection (a) of this section for judicial review of a regulation or order, the court shall have jurisdiction to review the regulation or order in accordance with chapter 7 of title 5 and to grant appropriate relief, including interim relief, as provided in such chapter. A regulation described in paragraph (2) or (5) of subsection (a) and an order issued after the review provided by section 360e(g) of this title shall not be affirmed if it is found to be unsupported by substantial evidence on the record taken as a whole.
 
 #### (d) Finality of judgments
 
-The judgment of the court affirming or setting aside, in whole or in part, any regulation or order shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
+The judgment of the court affirming or setting aside, in whole or in part, any regulation ororder shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification, as provided in section 1254 of title 28.
 
 #### (e) Remedies
 

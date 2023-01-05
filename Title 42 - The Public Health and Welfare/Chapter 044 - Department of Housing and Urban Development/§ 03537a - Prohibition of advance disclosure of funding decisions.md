@@ -44,7 +44,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (B) Final orders
 
-&emsp;&emsp;If no hearing is requested within 15 days of receipt of the notice of opportunity for hearing, the imposition of the penalty shall constitute a final and unappealable order. If the Secretary reviews the determination or order, the Secretary may affirm, modify, or reverse that determination or order. If theSecretary does not review the determination or order within 90 days of the issuance of the determination or order, the determination or order shall be final.
+&emsp;&emsp;If no hearing is requested within 15 days of receipt of the notice of opportunity for hearing, the imposition of the penalty shall constitute a final and unappealable order. If the Secretary reviews the determination or order, the Secretary may affirm, modify, or reverse that determination or order. If the Secretary does not review the determination or order within 90 days of the issuance of the determination or order, the determination or order shall be final.
 
 #### (C) Factors in determining amount of penalty
 
@@ -52,7 +52,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (D) Reviewability of imposition of a penalty
 
-&emsp;&emsp;The Secretary's determination or order imposing a penalty under paragraph (1) shall not be subject to review, except as provided in paragraph (4).
+&emsp;&emsp;The Secretary's determination or order imposing a penalty under paragraph (1) shallnot be subject to review, except as provided in paragraph (4).
 
 #### (4) Judicial review of agency determination
 

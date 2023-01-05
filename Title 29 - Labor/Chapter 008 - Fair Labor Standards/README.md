@@ -25,6 +25,7 @@
 | [218a.](%C2%A7%2000218a%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9374%2C%20title%20VI%2C%20%C2%A7604%2C%20Nov.%202%2C%202015%2C%20129%20Stat.%20599.md) | Repealed. |
 | [218b.](%C2%A7%2000218b%20-%20Notice%20to%20employees.md) | Notice to employees. |
 | [218c.](%C2%A7%2000218c%20-%20Protections%20for%20employees.md) | Protections for employees. |
+| [218d.](%C2%A7%2000218d%20-%20Breastfeeding%20accommodations%20in%20the%20workplace.md) | Breastfeeding accommodations in the workplace. |
 | [219\.](%C2%A7%2000219%20-%20Separability.md) | Separability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -57,4 +58,5 @@
 - [&sect; 00218a - Repealed. Pub. L. 114&#8211;74, title VI, &sect;604, Nov. 2, 2015, 129 Stat. 599](%C2%A7%2000218a%20-%20Repealed.%20Pub.%20L.%20114%E2%80%9374%2C%20title%20VI%2C%20%C2%A7604%2C%20Nov.%202%2C%202015%2C%20129%20Stat.%20599.md)
 - [&sect; 00218b - Notice to employees](%C2%A7%2000218b%20-%20Notice%20to%20employees.md)
 - [&sect; 00218c - Protections for employees](%C2%A7%2000218c%20-%20Protections%20for%20employees.md)
+- [&sect; 00218d - Breastfeeding accommodations in the workplace](%C2%A7%2000218d%20-%20Breastfeeding%20accommodations%20in%20the%20workplace.md)
 - [&sect; 00219 - Separability](%C2%A7%2000219%20-%20Separability.md)

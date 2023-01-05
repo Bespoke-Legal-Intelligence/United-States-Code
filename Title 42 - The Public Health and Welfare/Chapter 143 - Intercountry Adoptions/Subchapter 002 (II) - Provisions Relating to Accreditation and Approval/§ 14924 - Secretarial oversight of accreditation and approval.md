@@ -32,7 +32,7 @@ The Secretary shall—
 
 #### (1) Secretary's authority
 
-&emsp;On the initiative of the Secretary, or on request of an accrediting entity, the Secretary may temporarily or permanently debar an agency from accreditation or a person from approval under this subchapter, but only if—
+&emsp;On the initiative of the Secretary, or on request of an accrediting entity, the Secretarymay temporarily or permanently debar an agency from accreditation or a person from approval under this subchapter, but only if—
 
 &emsp;&emsp;(A) there is substantial evidence that the agency or person is out of compliance with applicable requirements; and
 

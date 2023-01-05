@@ -4,9 +4,23 @@ In this part:
 
 &emsp;(1) The term "DOE national security authorization" means an authorization of appropriations for activities of the Department of Energy in carrying out programs necessary for national security.
 
-&emsp;(2) The term "minor construction threshold" means $25,000,000.
+&emsp;(2)(A) Except as provided by subparagraphs (B) and (C), the term "minor construction threshold" means $30,000,000.
 
-(Pub. L. 107–314, div. D, title XLVII, §4701, formerly div. C, title XXXVI, §3620, Dec. 2, 2002, 116 Stat. 2756; renumbered div. D, title XLVII, §4701, by Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 111–84, div. C, title XXXI, §3118(a), (b), Oct. 28, 2009, 123 Stat. 2709; Pub. L. 111–383, div. C, title XXXI, §3121(a), Jan. 7, 2011, 124 Stat. 4514; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(I), Dec. 26, 2013, 127 Stat. 1073; Pub. L. 115–91, div. C, title XXXI, §3119, Dec. 12, 2017, 131 Stat. 1892; Pub. L. 117–81, div. C, title XXXI, §3115(a), Dec. 27, 2021, 135 Stat. 2226.)
+&emsp;(B) During the period beginning on December 23, 2022, and ending on November 30, 2025, the Administrator may calculate the amount specified in subparagraph (A) based on fiscal year 2022 constant dollars if the Administrator—
+
+&emsp;&emsp;(i) submits to the congressional defense committees a report on the method used by the Administrator to calculate the adjustment;
+
+&emsp;&emsp;(ii) a period of 30 days elapses following the date of such submission; and
+
+&emsp;&emsp;(iii) publishes the adjusted amount in the Federal Register.
+
+&emsp;(C) Beginning on December 1, 2025, the term "minor construction threshold" means—
+
+&emsp;&emsp;(i) $30,000,000; or
+
+&emsp;&emsp;(ii) if the Administrator calculated a different amount pursuant to subparagraph (B), the last such calculated amount as published in the Federal Register under clause (iii) of such subparagraph.
+
+(Pub. L. 107–314, div. D, title XLVII, §4701, formerly div. C, title XXXVI, §3620, Dec. 2, 2002, 116 Stat. 2756; renumbered div. D, title XLVII, §4701, by Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 111–84, div. C, title XXXI, §3118(a), (b), Oct. 28, 2009, 123 Stat. 2709; Pub. L. 111–383, div. C, title XXXI, §3121(a), Jan. 7, 2011, 124 Stat. 4514; Pub. L. 113–66, div. C, title XXXI,§3146(a)(2)(I), Dec. 26, 2013, 127 Stat. 1073; Pub. L. 115–91, div. C, title XXXI, §3119, Dec. 12, 2017, 131 Stat. 1892; Pub. L. 117–81, div. C, title XXXI, §3115(a), Dec. 27, 2021, 135 Stat. 2226; Pub. L. 117–263, div. C, title XXXI, §3113(a), Dec. 23, 2022, 136 Stat. 3052.)
 
 #### <b>Editorial Notes</b>
 
@@ -15,6 +29,8 @@ In this part:
 Section was formerly classified to section 7386 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2022</b>—Par. (2). Pub. L. 117–263 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The term 'minor construction threshold' means $25,000,000."
 
 <b>2021</b>—Par. (2). Pub. L. 117–81 substituted "$25,000,000" for "$20,000,000".
 

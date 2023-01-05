@@ -34,7 +34,7 @@ The provisions of subsection (a) shall not apply to any individual who—
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) from time totime such sums as the Secretary deems necessary for any fiscal year, on account of—
+There are authorized to be appropriated to the Federal Hospital Insurance Trust Fund (established by section 1395i of this title) from time to time such sums as the Secretary deems necessary for any fiscal year, on account of—
 
 &emsp;(1) payments made or to be made during such fiscal year from such Trust Fund under part A of subchapter XVIII of this chapter with respect to individuals who are entitled to hospital insurance benefits under section 426 of this title solely by reason of this section,
 

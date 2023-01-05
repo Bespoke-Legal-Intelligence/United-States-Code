@@ -112,7 +112,7 @@ Crossing.—The term 'crossing' means a location within a State, other than a lo
 
 &emsp;&emsp;"(A) a public highway, road, or street, or a private roadway, including associated sidewalks and pathways, crosses one or more railroad tracks either at grade or grade-separated; or
 
-&emsp;&emsp;"(B) a pathway explicitly authorized by a public authority or a railroad carrier that is dedicated for the use of nonvehicular traffic, including pedestrians, bicyclists, and others, that is not associated with a public highway, road, or street, or a private roadway, crosses one or more railroad tracks either at grade or grade-separated.
+&emsp;&emsp;"(B) a pathway explicitly authorized by a public authority or a railroad carrier that is dedicated for the use of nonvehicular traffic, including pedestrians, bicyclists, and others, that is not associated with a public highway, road, or street, or a privateroadway, crosses one or more railroad tracks either at grade or grade-separated.
 
 &emsp;"(2)
 

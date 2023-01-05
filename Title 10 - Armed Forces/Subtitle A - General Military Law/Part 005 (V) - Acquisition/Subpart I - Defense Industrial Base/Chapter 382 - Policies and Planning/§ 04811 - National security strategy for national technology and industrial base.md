@@ -2,7 +2,7 @@
 
 (a)
 
-National Security Strategy for National Technology and Industrial Base.—The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 (50 U.S.C. 3043). Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:
+National Security Strategy for National Technology and Industrial Base.—The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. The Secretary shall submit such strategy to Congress not later than 180 days after the date of submission of the national security strategy report required under section 108 of the National Security Act of 1947 (50 U.S.C. 3043). Such strategy shall be based on a prioritized assessment of risks and challenges tothe defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:
 
 &emsp;(1) Supplying, equipping, and supporting the force structure of the armed forces that is necessary to achieve—
 
@@ -120,6 +120,394 @@ Subsec. (b)(2). Pub. L. 103–160, §1182(a)(10), substituted "that, by reducing
 
 Amendment by section 1867(b), (c)(1) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
+#### Department of Defense National Imperative for Industrial Skills Program
+
+Pub. L. 117–263, div. A, title VIII, §836, Dec. 23, 2022, 136 Stat. 2716, provided that:
+
+"(a)
+
+In General.—The Secretary of Defense, acting through the Industrial Base Analysis and Sustainment program of the Department of Defense, shall evaluate and further develop workforce development training programs (as defined by the Secretary of Defense) for training the skilled industrial workers (as defined by the Secretary of Defense) that are needed in the defense industrial base through the National Imperative for Industrial Skills program of the Department of Defense (or a successor program).
+
+"(b)
+
+Priorities.—In carrying out this section, the Secretary shall prioritize workforce development training programs that—
+
+&emsp;"(1) are innovative, lab-based, or experientially-based;
+
+&emsp;"(2) rapidly train skilled industrial workers for employment with entities in the defense industrial base faster than traditional workforce development training programs and at the scale needed to measurably reduce, as rapidly as possible, the shortages of skilled industrial workers in the defense industrial base, including modernization of required equipment and training curricula;
+
+&emsp;"(3) recruit skilled industrial workers who are manufacturing workers from underrepresented communities;
+
+&emsp;"(4) provide students and skilled industrial workers with the support needed to successfully participate in the defense industrial base;
+
+&emsp;"(5) address the specific manufacturing requirements and skills that are unique to critical industrial sectors of the defense industrial base as defined by the Secretary of Defense, such as naval shipbuilding; and
+
+&emsp;"(6) with respect to Federal workforce development training programs in existence on or before the date of the enactment of this Act \[Dec. 23, 2022\]—
+
+&emsp;&emsp;"(A) maximize the use of such Federal workforce development training programs; or
+
+&emsp;&emsp;"(B) expand on the activities of such Federal workforce development training programs."
+
+#### Procurement Requirements Relating to Rare Earth Elements and Strategic and Critical Materials
+
+Pub. L. 117–263, div. A, title VIII, §857(a), (d), Dec. 23, 2022, 136 Stat. 2727, 2731, provided that:
+
+"(a)
+
+Disclosures Concerning Rare Earth Elements and Strategic and Critical Materials by Contractors of Department of Defense.—
+
+&emsp;"(1)
+
+Requirement.—Beginning on the effective date of this subsection, the Secretary of Defense shall—
+
+&emsp;&emsp;"(A) require that any contractor that provides to the Department of Defense a system with a permanent magnet that contains rare earth elements or strategic and critical materials disclose, after undertaking a commercially reasonable inquiry and along with delivery of the system, the provenance of the magnet; and
+
+&emsp;&emsp;"(B) safeguard such disclosures in accordance with applicable classification level required by the associated programs.
+
+&emsp;"(2)
+
+Elements.—A disclosure under paragraph (1) shall include an identification of the country or countries in which—
+
+&emsp;&emsp;"(A) any rare earth elements and strategic and critical materials used in the magnet were mined;
+
+&emsp;&emsp;"(B) such elements and minerals were refined into oxides;
+
+&emsp;&emsp;"(C) such elements and minerals were made into metals and alloys; and
+
+&emsp;&emsp;"(D) the magnet was sintered or bonded and magnetized.
+
+&emsp;"(3)
+
+Implementation of supply chain tracking system.—If a contractor cannot make the disclosure required by paragraph (1) with respect to a system described in that paragraph, the Secretary shall require the contractor to establish and implement a supply chain tracking system in order to make the disclosure to the fullest extent possible not later than 180 days after the contractor provides the system to the Department of Defense. The tracking system shall—
+
+&emsp;&emsp;"(A) include a description of the efforts taken by the contractor to date to make the disclosure required by paragraph (1);
+
+&emsp;&emsp;"(B) take into account the possible refusal of certain foreign entities to provide the contractor the information necessary to make the disclosure required by paragraph (1); and
+
+&emsp;&emsp;"(C) require the contractor to report to the Secretary the name, location, and other identifying information of any entities which refuse to provide the contractor with the information necessary to make the disclosure required by paragraph (1).
+
+&emsp;"(4)
+
+Waivers.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary may waive a requirement under paragraph (1) or (3) with respect to a system described in paragraph (1) for a period of not more than 180 days if the Secretary certifies to the Committees on Armed Services of the Senate and the House of Representatives that—
+
+&emsp;&emsp;&emsp;"(i) the continued procurement of the system is necessary to meet the demands of a national emergency declared under section 201 of the National Emergencies Act (50 U.S.C. 1621); or
+
+&emsp;&emsp;&emsp;"(ii) a contractor that cannot currently make the disclosure required by paragraph (1) is making significant efforts to comply with the requirements of that paragraph.
+
+&emsp;&emsp;"(B)
+
+Waiver renewals.—The Secretary may renew a waiver as many times as the Secretary considers appropriate, provided that the Secretary submits an updated certification to the committees.
+
+&emsp;&emsp;"(C)
+
+Limitation.—The Secretary may not delegate this waiver authority below the level of Assistant Secretary of Defense, a senior \[sic; probably should be "service"\] acquisition executive (as defined in section 101(a) of title 10, United States Code), or a command acquisition executive (as described in section 167(e)(4)(C) of title 10, United States Code) or equivalent.
+
+&emsp;"(5)
+
+Briefing required.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 30 days after the submission of each report required by subsection (c)(3) \[136 Stat. 2731\], the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing that includes—
+
+&emsp;&emsp;&emsp;"(i) a summary of the disclosures made under this subsection;
+
+&emsp;&emsp;&emsp;"(ii) an assessment of the extent of reliance by the United States on foreign countries, and especially countries that are not allies of the United States, for rare earth elements and strategic and critical materials;
+
+&emsp;&emsp;&emsp;"(iii) a determination with respect to which systems described in paragraph (1) are of the greatest concern for interruptions of supply chains with respect to rare earth elements and strategic and critical materials; and
+
+&emsp;&emsp;&emsp;"(iv) any suggestions for legislation or funding that would mitigate security gaps in such supply chains.
+
+&emsp;&emsp;"(B)
+
+Form.—To the extent practicable, each briefing required under subparagraph (A) shall be in an unclassified form, but may contain a classified annex.
+
+&emsp;"(6)
+
+Effective date.—The requirements described in this subsection shall take effect—
+
+&emsp;&emsp;"(A) not earlier than 30 months after the date of enactment of this Act \[Dec. 23, 2022\]; and
+
+&emsp;&emsp;"(B) after the Secretary of Defense certifies to the Committees on Armed Services of the Senate and the House of Representatives that the Department has established a process to ensure that the information collection requirements of this subsection present no national security risks, or that any such risks have been fully mitigated.
+
+"(d)
+
+Strategic and Critical Materials Defined.—In this section, the term 'strategic and critical materials' means materials designated as strategic and critical under section 3(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98b(a))."
+
+#### Analyses of Certain Activities for Action To Address Sourcing and Industrial Capacity
+
+Pub. L. 117–263, div. A, title VIII, §858, Dec. 23, 2022, 136 Stat. 2731, provided that:
+
+"(a)
+
+Analysis Required.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment and other appropriate officials, shall review the items under subsection (c) to determine and develop appropriate actions, consistent with the policies, programs, and activities required under subpart I of part V of subtitle A of title 10, United States Code, chapter 83 of title 41, United States Code, and the Defense Production Act of 1950 (50 U.S.C. 4501 et seq.), including—
+
+&emsp;&emsp;"(A) restricting procurement, with appropriate waivers for cost, emergency requirements, and non-availability of suppliers, including restricting procurement to—
+
+&emsp;&emsp;&emsp;"(i) suppliers in the United States;
+
+&emsp;&emsp;&emsp;"(ii) suppliers in the national technology and industrial base (as defined in section 4801 of title 10, United States Code);
+
+&emsp;&emsp;&emsp;"(iii) suppliers in other allied nations; or
+
+&emsp;&emsp;&emsp;"(iv) other suppliers;
+
+&emsp;&emsp;"(B) increasing investment through use of research and development or procurement activities and acquisition authorities to—
+
+&emsp;&emsp;&emsp;"(i) expand production capacity;
+
+&emsp;&emsp;&emsp;"(ii) diversify sources of supply; or
+
+&emsp;&emsp;&emsp;"(iii) promote alternative approaches for addressing military requirements;
+
+&emsp;&emsp;"(C) prohibiting procurement from selected sources or nations;
+
+&emsp;&emsp;"(D) taking a combination of actions described under subparagraphs (A), (B), and (C); or
+
+&emsp;&emsp;"(E) taking no action.
+
+&emsp;"(2)
+
+Considerations.—The analyses conducted pursuant to paragraph (1) shall consider national security, economic, and treaty implications, as well as impacts on current and potential suppliers of goods and services.
+
+"(b)
+
+Reporting on Analyses, Recommendations, and Actions.—
+
+&emsp;"(1)
+
+Briefing required.—Not later than January 15, 2024, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], in writing—
+
+&emsp;&emsp;"(A) a summary of the findings of the analyses undertaken for each item pursuant to subsection (a);
+
+&emsp;&emsp;"(B) relevant recommendations resulting from the analyses; and
+
+&emsp;&emsp;"(C) descriptions of specific activities undertaken as a result of the analyses, including schedule and resources allocated for any planned actions.
+
+&emsp;"(2)
+
+Reporting.—The Secretary of Defense shall include the analyses conducted under subsection (a), and any relevant recommendations and descriptions of activities resulting from such analyses, as appropriate, in each of the following during the 2024 calendar year:
+
+&emsp;&emsp;"(A) The annual report or quarterly briefings to Congress required under section 4814 of title 10, United States Code.
+
+&emsp;&emsp;"(B) The annual report on unfunded priorities of the national technology and industrial base required under section 4815 of such title.
+
+&emsp;&emsp;"(C) Department of Defense technology and industrial base policy guidance prescribed under section 4811(c) of such title.
+
+&emsp;&emsp;"(D) Activities to modernize acquisition processes to ensure the integrity of the industrial base pursuant to section 4819 of such title.
+
+&emsp;&emsp;"(E) Defense memoranda of understanding and related agreements considered in accordance with section 4851 of such title.
+
+&emsp;&emsp;"(F) Industrial base or acquisition policy changes.
+
+&emsp;&emsp;"(G) Legislative proposals for changes to relevant statutes which the Department shall consider, develop, and submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not less frequently than once per fiscal year.
+
+&emsp;&emsp;"(H) Other actions as the Secretary of Defense determines appropriate.
+
+"(c)
+
+List of Goods and Services for Analyses, Recommendations, and Actions.—The items described in this subsection are the following:
+
+&emsp;"(1) Solar components for satellites.
+
+&emsp;"(2) Satellite ground station service contracts.
+
+&emsp;"(3) Naval vessel shafts and propulsion system components (including reduction gears and propellers).
+
+&emsp;"(4) Infrastructure or equipment for a passenger boarding bridge at a military airport designated by the Secretary of Transportation under section 47118(a) of title 49, United States Code.
+
+&emsp;"(5) Flags of the United States.
+
+&emsp;"(6) Natural rubber from herbaceous plants for military applications.
+
+&emsp;"(7) Alternative proteins as sustainable and secure food sources.
+
+&emsp;"(8) Carbon fiber."
+
+#### Demonstration Exercise of Enhanced Planning for Industrial Mobilization and Supply Chain Management
+
+Pub. L. 117–263, div. A, title VIII, §859, Dec. 23, 2022, 136 Stat. 2733, provided that:
+
+"(a)
+
+Demonstration Exercise Required.—Not later than December 31, 2024, the Secretary of Defense shall conduct a demonstration exercise of industrial mobilization and supply chain management planning capabilities in support of one or more operational or contingency plan use cases, as selected in consultation with the Chairman of the Joint Chiefs of Staff and the Under Secretary of Defense for Acquisition and Sustainment.
+
+"(b)
+
+Elements.—The demonstration exercise required under subsection (a) shall include the following elements:
+
+&emsp;"(1) Use of a current program that is both fielded and still in production from each military department, Defense Agency, and Department of Defense Field Activity in order to model a notional plan for mobilization or supply chain management, as associated with the selected operational or contingency plans.
+
+&emsp;"(2) The exercise of processes and authorities that support the Department of Defense for industrial mobilization in support of declared hostilities or other contingency operations.
+
+&emsp;"(3) The identification of process improvements or gaps in resources, capabilities, or authorities that require remediation, including those related to government or contractor production facilities, tooling, or workforce development.
+
+&emsp;"(4) The implementation of analytical tools and processes to monitor and assess the health of the industrial base and to use near real-time data and visualization capabilities in making production and distribution decisions, with an emphasis on identifying, assessing, and demonstrating commercially available tools.
+
+&emsp;"(5) The establishment and tracking of goals and metrics to support institutionalization of defense industrial base health assessment and planning.
+
+"(c)
+
+Briefing Required.—Not later than November 1, 2023, the Secretary shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an interim briefing on the demonstration exercise required under subsection (a), including—
+
+&emsp;"(1) an identification of the programs and use cases to be demonstrated;
+
+&emsp;"(2) a description of methodology for executing the demonstration exercise, including analytical tools or metrics identified to support the process; and
+
+&emsp;"(3) any preliminary findings.
+
+"(d)
+
+Assessment.—Not later than March 1, 2025, the Secretary shall submit to the congressional defense committees a report assessing the demonstration exercise required under subsection (a), including a description of—
+
+&emsp;"(1) the programs and use cases considered in this demonstration exercise;
+
+&emsp;"(2) the outcomes of the activities required under subsection (b);
+
+&emsp;"(3) outcomes and conclusions;
+
+&emsp;"(4) lessons learned; and
+
+&emsp;"(5) any recommendations for legislative action that may be required as a result.
+
+"(e)
+
+Definitions.—In this section, the terms 'military department', 'Defense Agency', and 'Defense Field Activity' have the meanings given those terms in section 101 of title 10, United States Code."
+
+#### Key Advanced System Development Industry Days
+
+Pub. L. 117–263, div. A, title VIII, §862, Dec. 23, 2022, 136 Stat. 2736, provided that:
+
+"(a)
+
+In General.—Not later than March 1, 2023, and every 180 days thereafter, the each Secretary of a military department shall ensure that such military department conducts an outreach event to—
+
+&emsp;"(1) collaborate with the private sector on present current and future opportunities with respect to key advanced system development areas;
+
+&emsp;"(2) raise awareness within the private sector of—
+
+&emsp;&emsp;"(A) key advanced system development areas; and
+
+&emsp;&emsp;"(B) capability needs and existing and potential requirements related to the key advanced system development areas; and
+
+&emsp;"(3) raise awareness within such military department of potential material solutions for capability needs and existing and potential requirements related to key advanced system development areas.
+
+"(b) Responsibilities.—
+
+&emsp;"(1)
+
+Service chiefs.—For each event a military department conducts under subsection (a), the Service Chief concerned shall, for each key advanced system development area, perform the following:
+
+&emsp;&emsp;"(A) Identify related and potentially related existing, planned, or potential military requirements, including urgent and emergent operational needs.
+
+&emsp;&emsp;"(B) Identify and describe related and potentially related needs or gaps in the capabilities of the military department to carry out the missions of the military department, including warfighting and combat support capabilities.
+
+&emsp;&emsp;"(C) Identify and describe related and potentially related exercise, demonstration, or experimentation opportunities.
+
+&emsp;"(2)
+
+Acquisition executives.—For each event a military department conducts under subsection (a), the service acquisition executive of the military department conducting the event shall, for each key advanced system development area, perform the following:
+
+&emsp;&emsp;"(A) Identify and describe related and potentially related existing, planned, or potential acquisition plans and strategies.
+
+&emsp;&emsp;"(B) Identify and describe related and potentially related existing, planned, or potential funding opportunities, including—
+
+&emsp;&emsp;&emsp;"(i) broad agency announcements;
+
+&emsp;&emsp;&emsp;"(ii) requests for information;
+
+&emsp;&emsp;&emsp;"(iii) funding opportunity announcements;
+
+&emsp;&emsp;&emsp;"(iv) special program announcements;
+
+&emsp;&emsp;&emsp;"(v) requests for proposals;
+
+&emsp;&emsp;&emsp;"(vi) requests for quotes;
+
+&emsp;&emsp;&emsp;"(vii) special notices;
+
+&emsp;&emsp;&emsp;"(viii) transactions pursuant to sections 4004, 4021, and 4022 of title 10, United States Code;
+
+&emsp;&emsp;&emsp;"(ix) unsolicited proposals; and
+
+&emsp;&emsp;&emsp;"(x) other funding opportunities as determined appropriate by the service acquisition executive.
+
+&emsp;"(3)
+
+Delegation.—Each Service Chief concerned and each service acquisition executive may delegate the authority to carry out the tasks for which such individuals are responsible under this subsection.
+
+&emsp;"(4)
+
+Reviews and coordination.—
+
+&emsp;&emsp;"(A)
+
+Industry day reviews.—Promptly after an event conducted by a military department under subsection (a), the service acquisition executive of such military department shall—
+
+&emsp;&emsp;&emsp;"(i) disseminate a written review of such event as broadly as practicable within the Department of Defense; and
+
+&emsp;&emsp;&emsp;"(ii) make such review publicly available on a website of the military department.
+
+&emsp;&emsp;"(B)
+
+Consolidation.—The Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall, periodically, jointly review and consolidate the reviews required by subparagraph (A) to identify trends, eliminate redundancy, and enhance efficiency with respect to events conducted under subsection (a).
+
+"(c)
+
+Form.—With respect to each event conducted under subsection (a), the Secretary concerned shall seek to maximize industry and government participation, while minimizing cost to the maximum extent practicable, by—
+
+&emsp;"(1) holding the event at an unclassified security level to the extent practicable;
+
+&emsp;"(2) making the event publicly accessible through teleconference or other virtual means; and
+
+&emsp;"(3) making supporting materials for the event publicly available on a website.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Military departments; secretary concerned; service acquisition executive.—The terms 'military departments', 'Secretary concerned', and 'service acquisition executive' have the meanings given such terms in section 101(a) of title 10, United States Code.
+
+&emsp;"(2)
+
+Key advanced system development area.—The term 'key advanced system development area' means the following:
+
+&emsp;&emsp;"(A) For the Department of the Navy—
+
+&emsp;&emsp;&emsp;"(i) unmanned surface vessels;
+
+&emsp;&emsp;&emsp;"(ii) unmanned underwater vessels;
+
+&emsp;&emsp;&emsp;"(iii) unmanned deployable mobile ocean systems;
+
+&emsp;&emsp;&emsp;"(iv) unmanned deployable fixed ocean systems; and
+
+&emsp;&emsp;&emsp;"(v) autonomous unmanned aircraft systems.
+
+&emsp;&emsp;"(B) For the Department of the Air Force, autonomous unmanned aircraft systems.
+
+&emsp;&emsp;"(C) For the Department of the Army, autonomous unmanned aircraft systems.
+
+&emsp;"(3)
+
+Service chief.—The term 'Service Chief concerned' means—
+
+&emsp;&emsp;"(A) the Chief of Staff of the Army, with respect to matters concerning the Department of the Army;
+
+&emsp;&emsp;"(B) the Chief of Naval Operations and the Commandant of the Marine Corps, with respect to matters concerning the Department of the Navy; and
+
+&emsp;&emsp;"(C) the Chief of Staff of the Air Force, with respect to matters concerning the Department of the Air Force."
+
 #### Demonstration Program on Domestic Production of Rare Earth Elements From Coal Byproducts
 
 Pub. L. 117–81, div. A, title III, §320, Dec. 27, 2021, 135 Stat. 1634, provided that:
@@ -162,7 +550,7 @@ Definitions.—In this section, the term 'dual-use' has the meaning given in sec
 
 "(b)
 
-Assessment.—The Secretary of Defense shall assess the requirements of the Department of Defense fordual-use items covered by section 2533a of title 10, United States Code \[now 10 U.S.C. 4862\].
+Assessment.—The Secretary of Defense shall assess the requirements of the Department of Defense for dual-use items covered by section 2533a of title 10, United States Code \[now 10 U.S.C. 4862\].
 
 "(c)
 
@@ -194,7 +582,7 @@ In general.—Not later than March 1, 2023, and quarterly thereafter until March
 
 &emsp;&emsp;"(B)
 
-Documentation.—Each briefing under subparagraph (A) shall be accompanied by documentation regarding the particular points of discussion for that briefing, including the fluctuations described in such subparagraph, expressed as a percentage."
+Documentation.—Each briefing under subparagraph (A) shall be accompanied by documentation regarding the particular points of discussionfor that briefing, including the fluctuations described in such subparagraph, expressed as a percentage."
 
 #### Plan and Report on Reduction of Reliance on Services, Supplies, or Materials From Covered Countries
 
@@ -532,7 +920,7 @@ In general.—The Secretary of Defense may, in coordination with the Secretary o
 
 &emsp;"(2)
 
-Designation.—The program authorized by this section shall be known as the 'Defense ManufacturingCommunity Support Program' (in this section referred to as the 'Program').
+Designation.—The program authorized by this section shall be known as the 'Defense Manufacturing Community Support Program' (in this section referred to as the 'Program').
 
 "(b)
 
@@ -788,7 +1176,7 @@ Funding.—
 
 &emsp;"(1)
 
-In general.—Subject to the availability of appropriations for such purpose, of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2016 for research, development, test, and evaluation, Defense-wide, not more than $300,000,000 may be used for each such fiscal year for the program established under subsection (a)(1).
+In general.—Subject to the availability of appropriations for such purpose, of the funds authorizedto be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2016 for research, development, test, and evaluation, Defense-wide, not more than $300,000,000 may be used for each such fiscal year for the program established under subsection (a)(1).
 
 &emsp;"(2)
 
@@ -972,7 +1360,7 @@ Pub. L. 103–337, div. A, title XI, §1118, Oct. 5, 1994, 108 Stat. 2870, provi
 
 #### National Shipbuilding Initiative
 
-Pub. L. 103–160, div. A, title XIII, §§1351–1354, Nov. 30, 1993, 107 Stat. 1809, 1810, as amended by Pub. L. 104–201,div. A, title X, §1073(e)(1)(F), (2)(B), (3), Sept. 23, 1996, 110 Stat. 2658, provided that:
+Pub. L. 103–160, div. A, title XIII, §§1351–1354, Nov. 30, 1993, 107 Stat. 1809, 1810, as amended by Pub. L. 104–201, div. A, title X, §1073(e)(1)(F), (2)(B), (3), Sept. 23, 1996, 110 Stat. 2658, provided that:
 
 #### "SEC. 1351. SHORT TITLE.
 
@@ -1002,7 +1390,7 @@ Financial incentives program.—A financial incentives program to provide loan g
 
 &emsp;"(2)
 
-Technology development program.—A technology development program, to be carried out within the Department of Defense by the Defense Advanced Research Projects Agency, to improve the technology base for advanced shipbuilding technologies and related dual-use technologies through activities including a development program for innovative commercial ship design and production processes and technologies.
+Technology development program.—A technology development program, to be carried out within the Department of Defense by the Defense Advanced Research Projects Agency, to improve thetechnology base for advanced shipbuilding technologies and related dual-use technologies through activities including a development program for innovative commercial ship design and production processes and technologies.
 
 &emsp;"(3)
 

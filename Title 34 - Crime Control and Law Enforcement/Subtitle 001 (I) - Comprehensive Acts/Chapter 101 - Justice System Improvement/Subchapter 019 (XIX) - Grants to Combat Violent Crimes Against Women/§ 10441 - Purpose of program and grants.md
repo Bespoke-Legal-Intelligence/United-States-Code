@@ -12,11 +12,11 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(2) developing, training, or expanding units of law enforcement officers, judges, other court personnel, and prosecutors specifically targeting violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
 
-&emsp;(3) developing and implementing more effective police, court, and prosecution policies, protocols, orders, and services specifically devoted to preventing, identifying, and responding to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, as well as the appropriate treatment of victims;
+&emsp;(3) developing and implementing more effective police, court, and prosecution policies, protocols, orders, and services specifically devoted to preventing, identifying, and responding to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, as well as the appropriate treatment of victims, including implementation of the grant conditions in section 12291(b) of this title;
 
 &emsp;(4) developing, installing, or expanding data collection and communication systems, including computerized systems, linking police, prosecutors, and courts or for the purpose of identifying, classifying, and tracking arrests, protection orders, violations of protection orders, prosecutions, and convictions for violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
 
-&emsp;(5) developing, enlarging, or strengthening victim services and legal assistance programs, including sexual assault, domestic violence, dating violence, and stalking programs, developing or improving delivery of victim services to underserved populations, providing specialized domestic violence court advocates in courts where a significant number of protection orders are granted, and increasing reporting and reducing attrition rates for cases involving violent crimes against women, including crimes of domestic violence, dating violence, sexual assault, and stalking;
+&emsp;(5) developing, enlarging, or strengthening victim services and legal assistance programs, including sexual assault, domestic violence, dating violence, and stalking programs, developing or improving delivery of victim services and legal assistance to underserved populations, providing specialized domestic violence court advocates in courts where a significant number of protection orders are granted, and increasing reporting and reducing attrition rates for cases involving violent crimes against women, including crimes of domestic violence, dating violence, sexual assault, and stalking;
 
 &emsp;(6) developing, enlarging, or strengthening programs addressing the needs and circumstances of Indian tribes in dealing with violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
 
@@ -24,11 +24,11 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(8) training of sexual assault forensic medical personnel examiners in the collection and preservation of evidence, analysis, prevention, and providing expert testimony and treatment of trauma related to sexual assault;
 
-&emsp;(9) developing, enlarging, or strengthening programs to assist law enforcement, prosecutors, courts, and others to address the needs and circumstances of older and disabled women who are victims of domestic violence, dating violence, sexual assault, or stalking, including recognizing, investigating, and prosecuting instances of such violence or assault and targeting outreach and support, counseling, and other victim services to such older and disabled individuals;
+&emsp;(9) developing, enlarging, or strengthening programs to assist law enforcement, prosecutors, courts, and others to address the needs and circumstances of individuals 50 years of age or over, individuals with disabilities, and Deaf individuals who are victims of domestic violence, dating violence, sexual assault, or stalking, including recognizing, investigating, and prosecuting instances of such violence or assault and targeting outreach and support, counseling, legal assistance, and other victim services to such individuals;
 
 &emsp;(10) providing assistance to victims of domestic violence and sexual assault in immigration matters;
 
-&emsp;(11) maintaining core victim services and criminal justice initiatives, while supporting complementary new initiatives and emergency services for victims and their families;
+&emsp;(11) maintaining core victim services and criminal justice initiatives, while supporting complementary new initiatives and emergency services for victims and their families, including rehabilitative work with offenders;
 
 &emsp;(12) supporting the placement of special victim assistants (to be known as "Jessica Gonzales Victim Assistants") in local law enforcement agencies to serve as liaisons between victims of domestic violence, dating violence, sexual assault, and stalking and personnel in local law enforcement agencies in order to improve the enforcement of protection orders. Jessica Gonzales Victim Assistants shall have expertise in domestic violence, dating violence, sexual assault, or stalking and may undertake the following activities—
 
@@ -60,9 +60,21 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;(18) identifying and conducting inventories of backlogs of sexual assault evidence collection kits and developing protocols and policies for responding to and addressing such backlogs, including protocols and policies for notifying and involving victims;
 
-&emsp;(19) developing, enlarging, or strengthening programs and projects to provide services and responses targeting male and female victims of domestic violence, dating violence, sexual assault, or stalking, whose ability to access traditional services and responses is affected by their sexual orientation or gender identity, as defined in section 249(c) of title 18; and
+&emsp;(19) developing, enlarging, or strengthening programs and projects to provide services and responses targeting male and female victims of domestic violence, dating violence, sexual assault, or stalking, whose ability to access traditional services and responses is affected by their sexual orientation or gender identity, as defined in section 249(c) of title 18;
 
-&emsp;(20) developing, enhancing, or strengthening prevention and educational programming to address domestic violence, dating violence, sexual assault, or stalking, with not more than 5 percent of the amount allocated to a State to be used for this purpose.
+&emsp;(20) developing, enhancing, or strengthening prevention and educational programming to address domestic violence, dating violence, sexual assault, stalking, or female genital mutilation or cutting, with not more than 5 percent of the amount allocated to a State to be used for this purpose;
+
+&emsp;(21) developing, enhancing, or strengthening programs and projects to improve evidence collection methods for victims of domestic violence, dating violence, sexual assault, or stalking, including through funding for technology that better detects bruising and injuries across skin tones and related training;
+
+&emsp;(22) developing, enlarging, or strengthening culturally specific victim services programs to provide culturally specific victim services and responses to female genital mutilation or cutting;
+
+&emsp;(23) providing victim advocates in State or local law enforcement agencies, prosecutors' offices, and courts to provide supportive services and advocacy to Indian victims of domestic violence, dating violence, sexual assault, and stalking; and
+
+&emsp;(24) paying any fees charged by any governmental authority for furnishing a victim or the child of a victim with any of the following documents:
+
+&emsp;&emsp;(A) A birth certificate or passport of the individual, as required by law.
+
+&emsp;&emsp;(B) An identification card issued to the individual by a State or Tribe, that shows that the individual is a resident of the State or a member of the Tribe.
 
 #### (c) State coalition grants
 
@@ -88,13 +100,13 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;The Attorney General shall award a grant to tribal coalitions for purposes of—
 
-&emsp;&emsp;(A) increasing awareness of domestic violence and sexual assault against Indian women;
+&emsp;&emsp;(A) increasing awareness of domestic violence and sexual assault against Indian or Native Hawaiian women;
 
-&emsp;&emsp;(B) enhancing the response to violence against Indian women at the Federal, State, and tribal levels;
+&emsp;&emsp;(B) enhancing the response to violence against Indian or Native Hawaiian women at the Federal, State, and tribal levels;
 
-&emsp;&emsp;(C) identifying and providing technical assistance to coalition membership and tribal communities to enhance access to essential services to Indian women victimized by domestic and sexual violence, including sex trafficking; and
+&emsp;&emsp;(C) identifying and providing technical assistance to coalition membership and tribal communities or Native Hawaiian communities to enhance access to essential services to Indian or Native Hawaiian women victimized by domestic and sexual violence, including sex trafficking; and
 
-&emsp;&emsp;(D) assisting Indian tribes in developing and promoting State, local, and tribal legislation and policies that enhance best practices for responding to violent crimes against Indian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking.
+&emsp;&emsp;(D) assisting Indian tribes or Native Hawaiian communities in developing and promoting State, local, and tribal legislation and policies that enhance best practices for responding to violent crimes against Indian or Native Hawaiian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking.
 
 #### (2) Grants
 
@@ -106,13 +118,13 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;&emsp;&emsp;(ii) is recognized by the Office on Violence Against Women; and
 
-&emsp;&emsp;&emsp;(iii) provides services to Indian tribes; and
+&emsp;&emsp;&emsp;(iii) provides services to Indian tribes or Native Hawaiian communities; and
 
-&emsp;&emsp;(B) organizations that propose to incorporate and operate a tribal coalition in areas where Indian tribes are located but no tribal coalition exists.
+&emsp;&emsp;(B) organizations that propose to incorporate and operate a tribal coalition in areas where Indian tribes or Native Hawaiian communities are located but no tribal coalition exists.
 
 #### (3) Use of amounts
 
-&emsp;For each of fiscal years 2014 through 2018, of the amounts appropriated to carry out this subsection—
+&emsp;For each of fiscal years 2023 through 2027, of the amounts appropriated to carry out this subsection—
 
 &emsp;&emsp;(A) not more than 10 percent shall be made available to organizations described in paragraph (2)(B), provided that 1 or more organizations determined by the Attorney General to be qualified apply;
 
@@ -126,7 +138,11 @@ Grants under this subchapter shall provide personnel, training, technical assist
 
 &emsp;Nothing in this subsection prohibits any tribal coalition or organization described in paragraph (2) from applying for funding to address sexual assault or domestic violence needs in the same application.
 
-(Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c), title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, §310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(b), Jan. 5, 2006, 119 Stat. 2972; Pub. L. 111–320, title II, §202(c), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, title I, §101(2), title IX, §902, Mar. 7, 2013, 127 Stat. 65, 119.)
+#### (6) Native Hawaiian defined
+
+&emsp;In this subsection, the term "Native Hawaiian" has the meaning given that term in section 4221 of title 25.
+
+(Pub. L. 90–351, title I, §2001, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1910; amended Pub. L. 106–386, div. B, title I, §§1102(a)(1), 1103(b)(1), 1109(b), title II, §1209(c), title V, §1512(a), Oct. 28, 2000, 114 Stat. 1494, 1495, 1503, 1509, 1533; Pub. L. 108–405, title III, §310(a), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(b), Jan. 5, 2006, 119 Stat. 2972; Pub. L. 111–320, title II, §202(c), Dec. 20, 2010, 124 Stat. 3509; Pub. L. 113–4, title I, §101(2), title IX, §902, Mar. 7, 2013, 127 Stat. 65, 119; Pub. L. 117–103, div. W, title I, §101(a)(1), Mar. 15, 2022, 136 Stat. 846; Pub. L. 117–315, §2(a), Dec. 27, 2022, 136 Stat. 4404.)
 
 #### <b>Editorial Notes</b>
 
@@ -146,6 +162,30 @@ A prior section 2001 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 #### Amendments
 
+<b>2022</b>—Subsec. (b)(3). Pub. L. 117–103, §101(a)(1)(A)(i), inserted ", including implementation of the grant conditions in section 12291(b) of this title" before semicolon at end.
+
+Subsec. (b)(5). Pub. L. 117–103, §101(a)(1)(A)(ii), inserted "and legal assistance" after "improving delivery of victim services".
+
+Subsec. (b)(9). Pub. L. 117–103, §101(a)(1)(A)(iii), substituted "individuals 50 years of age or over, individuals with disabilities, and Deaf individuals" for "older and disabled women" and "such individuals" for "such older and disabled individuals" and inserted "legal assistance," after "counseling,".
+
+Subsec. (b)(11). Pub. L. 117–103, §101(a)(1)(A)(iv), inserted ", including rehabilitative work with offenders" before semicolon at end.
+
+Subsec. (b)(20). Pub. L. 117–103, §101(a)(1)(A)(vi)(I), substituted "stalking, or female genital mutilation or cutting" for "or stalking".
+
+Subsec. (b)(21) to (24). Pub. L. 117–103, §101(a)(1)(A)(v), (vi)(II), (vii), added pars. (21) to (24).
+
+Subsec. (d)(1)(A), (B). Pub. L. 117–315, §2(a)(1)(A), (B), inserted "or Native Hawaiian" after "Indian".
+
+Subsec. (d)(1)(C). Pub. L. 117–315, §2(a)(1)(C), inserted "or Native Hawaiian communities" after "tribal communities" and "or Native Hawaiian" after "Indian".
+
+Subsec. (d)(1)(D). Pub. L. 117–315, §2(a)(1)(D), inserted "or Native Hawaiian communities" after "Indian tribes" and "or Native Hawaiian" after "against Indian".
+
+Subsec. (d)(2)(A)(iii), (B). Pub. L. 117–315, §2(a)(2), inserted "or Native Hawaiian communities" after "Indian tribes".
+
+Subsec. (d)(3). Pub. L. 117–103, §101(a)(1)(B), substituted "2023 through 2027" for "2014 through 2018" in introductory provisions.
+
+Subsec. (d)(6). Pub. L. 117–315, §2(a)(3), added par. (6).
+
 <b>2013</b>—Subsec. (b). Pub. L. 113–4, §101(2)(A), substituted "resources" for "equipment" and inserted "for the protection and safety of victims," after "women," in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 113–4, §101(2)(B), substituted "domestic violence, dating violence, sexual assault, and stalking, including the appropriate use of nonimmigrant status under subparagraphs (T) and (U) of section 1101(a)(15) of title 8" for "sexual assault, domestic violence, and dating violence".
@@ -162,7 +202,7 @@ Pub. L. 113–4, §101(2)(F)(ii), which directed substitution of "domestic viole
 
 Pub. L. 113–4, §101(2)(F)(i), which directed insertion of "and legal assistance" after "victim services", was executed by making the insertion after "victim services" the first time appearing to reflect the probable intent of Congress.
 
-Subsec. (b)(6). Pub. L. 113–4, §101(2)(H), substituted "domestic violence, dating violence, sexual assault,and stalking" for "sexual assault and domestic violence".
+Subsec. (b)(6). Pub. L. 113–4, §101(2)(H), substituted "domestic violence, dating violence, sexual assault, and stalking" for "sexual assault and domestic violence".
 
 Pub. L. 113–4, §101(2)(G), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "developing, enlarging, or strengthening programs addressing stalking;".
 
@@ -220,13 +260,47 @@ Subsec. (c). Pub. L. 106–386, §1103(b)(1)(B), added subsec. (c).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–315, §3, Dec. 27, 2022, 136 Stat. 4405, provided that: "This Act \[see Short Title of 2022 Amendment note set out under section 10101 of this title\] shall become effective one day after enactment \[Dec. 27, 2022\]."
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under section 10261 of this title.
+Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L.109–162, set out as a note under section 10261 of this title.
+
+#### Incentives for States To Create Sexual Assault Survivors' Bill of Rights
+
+Pub. L. 117–263, div. E, title LIX, §5903(a), Dec. 23, 2022, 136 Stat. 3441, provided that:
+
+"(a)
+
+Incentives for States to Create Sexual Assault Survivors' Bill of Rights.—
+
+&emsp;"(1)
+
+Definition of covered formula grant.—In this subsection, the term 'covered formula grant' means a grant under part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10441 et seq.) (commonly referred to as the 'STOP Violence Against Women Formula Grant Program').
+
+&emsp;"(2)
+
+Grant increase.—The Attorney General shall increase the amount of the covered formula grant provided to a State in accordance with this subsection if the State has in effect a law that provides to sexual assault survivors the rights, at a minimum, under section 3772 of title 18, United States Code.
+
+&emsp;"(3)
+
+Application.—A State seeking an increase to a covered formula grant under this subsection shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General may reasonably require, including information about the law described in paragraph (2).
+
+&emsp;"(4)
+
+Period of increase.—The Attorney General may not provide an increase in the amount of the covered formula grant provided to a State under this subsection more than 4 times.
+
+&emsp;"(5)
+
+Authorization of appropriations.—There are authorized to be appropriated $20,000,000 for each of fiscal years 2023 through 2027 to carry out this subsection."
 
 #### Standards, Practice, and Training for Sexual Assault Forensic Examinations
 

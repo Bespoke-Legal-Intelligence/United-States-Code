@@ -2,7 +2,7 @@
 
 #### (a) Provisions applicable; utilization of authorities for conservation and management of wildlife and natural resources
 
-The Secretary shall administer the park in accordance with the provisions of the Act of August 25, 1916 (39 Stat. 535) as amended and supplemented (16 U.S.C. 1, 2–4).<sup>1</sup> In the administration of the park, the Secretary may utilize suchstatutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter.
+The Secretary shall administer the park in accordance with the provisions of the Act of August 25, 1916 (39 Stat. 535) as amended and supplemented (16 U.S.C. 1, 2–4).<sup>1</sup> In the administration of the park, the Secretary may utilize such statutory authority available to him for the conservation and management of wildlife and natural resources as he deems appropriate to carry out the purposes of this subchapter.
 
 #### (b) Federal-State cooperative agreements for police and fire protection
 
@@ -48,7 +48,7 @@ The Act of August 25, 1916 (39 Stat. 535) as amended and supplemented (16 U.S.C.
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–658 designated existing provision as par. (1) and added par. (2).
 
-<b>1978</b>—Subsec. (f). Pub. L. 95–625 inserted in introductory text "(or intergovernmental organization)" after"local government" in two places, and last sentence providing that assistance may include payments for technical aid.
+<b>1978</b>—Subsec. (f). Pub. L. 95–625 inserted in introductory text "(or intergovernmental organization)" after "local government" in two places, and last sentence providing that assistance may include payments for technical aid.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

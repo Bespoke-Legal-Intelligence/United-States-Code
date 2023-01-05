@@ -10,7 +10,7 @@ In General.—To the maximum extent practicable, on or after the date on which e
 
 (b)
 
-Covered Reports.—(1) Except as provided in paragraph (2), a report described in this subsection is any report that is required by law to be submitted to Congress by the Secretary of Defense, or by any element of the Department of Defense.
+Covered Reports.—(1) Except as provided in paragraph (2), a report described in this subsection is any report that is required by law tobe submitted to Congress by the Secretary of Defense, or by any element of the Department of Defense.
 
 (2) A report otherwise described in paragraph (1) is not a report described in this subsection if the report contains—
 
@@ -22,15 +22,11 @@ Covered Reports.—(1) Except as provided in paragraph (2), a report described i
 
 &emsp;(D) any other type of information that the Secretary of Defense determines should not be made available to the public in the interest of national security.
 
-(c) <sup>1</sup>
+(c)
 
 Semi-annual Summaries.—Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.
 
 (Added Pub. L. 111–383, div. A, title X, §1061(a)(1), Jan. 7, 2011, 124 Stat. 4362; amended Pub. L. 112–81, div. A, title X, §1068, Dec. 31, 2011, 125 Stat. 1589; Pub. L. 113–66, div. A, title X, §1081(a), Dec. 26, 2013, 127 Stat. 871; Pub. L. 115–91, div. A, title X, §1081(a)(3), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 117–81, div. A, title X, §1062(a), Dec. 27, 2021, 135 Stat. 1909.)
-
-#### Applicability of Amendment
-
-<i>Subsec. (c) of this section as added by section 1062(a) of Pub. L. 117–81 applicable one year after Dec. 27, 2021. See Effective Date of 2021 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -98,5 +94,29 @@ Notice.— If the Secretary issues a waiver under this subsection, the Secretary
 
 Sensitive Military Operation Defined.—The term 'sensitive military operation' has the meaning given that term in section 130f(d) of title 10, United States Code."
 
-<i><sup>1</sup></i><i> See Applicability of Amendment note below.</i>
+#### Cost of Wars
+
+Pub. L. 114–328, div. A, title X, §1090, Dec. 23, 2016, 130 Stat. 2428, as amended by Pub. L. 117–263, div. A, title X, §1085, Dec. 23, 2022, 136 Stat. 2800, provided that:
+
+"(a)
+
+Publication of Information.—The Secretary of Defense, in consultation with the Commissioner of the Internal Revenue Service and the Director of the Bureau of Economic Analysis, shall post on the public Internet website of the Department of Defense the costs to each United States taxpayer of any contingency operation conducted by the United States Armed Forces on or after September 18, 2001.
+
+"(b)
+
+Display of Information.—The information required to be posted under subsection (a) shall, to the extent practicable—
+
+&emsp;"(1) be posted directly on the website of the Department of Defense, in an accessible and clear format;
+
+&emsp;"(2) include corresponding documentation as links or attachments; and
+
+&emsp;"(3) include, for each contingency operation, a list of countries where the contingency operation has taken place.
+
+"(c)
+
+Updates.—The Secretary shall ensure that all the information required to be posted under subsection (a) is updated by not later than 90 days after the last day of each fiscal year.
+
+"(d)
+
+Contingency Operation Defined.—In this section, the term 'contingency operation' has the meaning given such term in section 101(a)(13) of title 10, United States Code."
 

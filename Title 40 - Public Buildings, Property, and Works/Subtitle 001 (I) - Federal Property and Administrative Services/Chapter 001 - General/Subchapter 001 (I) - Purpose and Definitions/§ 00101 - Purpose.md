@@ -30,6 +30,14 @@ June 30, 1949, ch. 288, §2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, §1, 68 Stat
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–328, div. Z, §101, Dec. 29, 2022, 136 Stat. 5523, provided that: "This division \[enacting section 549a of this title and provisions set out as a note under section 549a of this title\] may be cited as the 'Computers for Veterans and Students Act of 2022' or the 'COVS Act'."
+
+Pub. L. 117–202, §1, Oct. 17, 2022, 136 Stat. 2224, provided that: "This Act \[amending section 3313 of this title and enacting provisions set out as a note under section 3313 of this title\] may be cited as the 'Bulb Replacement Improving Government with High-efficiency Technology Act' or the 'BRIGHT Act'."
+
+Pub. L. 117–148, §1, June 16, 2022, 136 Stat. 1288, provided that: "This Act \[amending section 6121 of this title\] may be cited as the 'Supreme Court Police Parity Act of 2022'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 116–333, §1, Jan. 13, 2021, 134 Stat. 5113, provided that: "This Act \[enacting section 3318 of this title\] may be cited as the 'Transparency in Federal Buildings Projects Act of 2019'."
@@ -72,7 +80,7 @@ Pub. L. 113–26, §1, Aug. 9, 2013, 127 Stat. 502, provided that: "This Act \[a
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–338, §1, Dec. 22, 2010, 124 Stat. 3590, provided that: "This Act \[amending section 549 of this title\] may be cited as the 'Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2010'or 'FOR VETS Act of 2010'."
+Pub. L. 111–338, §1, Dec. 22, 2010, 124 Stat. 3590, provided that: "This Act \[amending section 549 of thistitle\] may be cited as the 'Formerly Owned Resources for Veterans to Express Thanks for Service Act of 2010'or 'FOR VETS Act of 2010'."
 
 Pub. L. 111–263, §1, Oct. 8, 2010, 124 Stat. 2787, provided that: "This Act \[amending section 502 of this title\] may be cited as the 'Federal Supply Schedules Usage Act of 2010'."
 

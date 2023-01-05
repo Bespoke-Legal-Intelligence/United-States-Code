@@ -10,7 +10,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (2) The amount appropriated by paragraph (1) shall be transferred at least monthly from the general fund of the Treasury to the Unemployment Trust Fund and credited to the employment security administration account. Each such transfer shall be based on estimates made by the Secretary of the Treasury of the amounts received in the Treasury. Proper adjustments shall be made in the amounts subsequently transferred, to the extent prior estimates (including estimates for the fiscal year ending June 30, 1960) were in excess of or were less than the amounts required to be transferred.
 
-(3) The Secretary of the Treasury is directed to pay from time to time from the employmentsecurity administration account into the Treasury, as repayments to the account for refunding internal revenue collections, amounts equal to all refunds made after June 30, 1960, of amounts received as tax under the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\] (including interest on such refunds).
+(3) The Secretary of the Treasury is directed to pay from time to time from the employment security administration account into the Treasury, as repayments to the account for refunding internal revenue collections, amounts equal to all refunds made after June 30, 1960, of amounts received as tax under the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\] (including interest on such refunds).
 
 #### (c) Administrative expenditures; necessary expenses; quarterly transfer of funds; adjustments; limitation; estimate of net receipts
 
@@ -40,7 +40,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (2) The Secretary of the Treasury is directed to pay from the employment security administration account into the Treasury as miscellaneous receipts the amount estimated by him which will be expended during a three-month period by the Treasury Department for the performance of its functions under—
 
-&emsp;(A) this subchapter and subchapters III and XII of this chapter, including the expenses of banks for servicing unemployment benefit payment and clearing accounts which are offset by the maintenance of balances of Treasury funds with such banks,
+&emsp;(A) this subchapter and subchapters III and XII of this chapter, including the expenses of banks for servicing unemployment benefitpayment and clearing accounts which are offset by the maintenance of balances of Treasury funds with such banks,
 
 &emsp;(B) the Federal Unemployment Tax Act \[26 U.S.C. 3301 et seq.\], and
 
@@ -68,7 +68,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 &emsp;(v) $98,000,000 for fiscal year 2002.
 
-(B) In any fiscal year in which a State receives funds appropriated pursuant to this paragraph,the State shall expend a proportion of the funds appropriated pursuant to paragraph (1)(A)(i) to carry out program integrity activities that is not less than the proportion of the funds appropriated under such paragraph that was expended by the State to carry out program integrity activities in fiscal year 1997.
+(B) In any fiscal year in which a State receives funds appropriated pursuant to this paragraph, the State shall expend a proportion of the funds appropriated pursuant to paragraph (1)(A)(i) to carry out program integrity activities that is not less than the proportion of the funds appropriated under such paragraph that was expended by the State to carry out program integrity activities in fiscal year 1997.
 
 (C) For purposes of this paragraph, the term "program integrity activities" means initial claims review activities, eligibility review activities, benefit payments control activities, and employer liability auditing activities.
 
@@ -104,7 +104,7 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 (2) The excess in the employment security administration account as of the close of any fiscal year is the amount by which the net balance in such account as of such time (after the application of section 1102(b) of this title and paragraph (3)(C) of this subsection) exceeds the net balance in the employment security administration account as of the beginning of that fiscal year (including the fiscal year for which the excess is being computed) for which the net balance was higher than as of the beginning of any other such fiscal year.
 
-(3)(A) The excess determined as provided in paragraph (2) as of the close of any fiscal year after June 30, 1972, shall be retained (as of the beginning of the succeeding fiscal year) in the employment security administration account until the amount in such account is equal to 40 percent of the amount of the total appropriation by the Congress out of the employment security administration account for the fiscal year for which the excess is determined. Three-eighths of the amount in the employment security administration account as of the beginning of any fiscal year after June 30, 1972, or $150 million, whichever is the lesser, is authorized to be made available for such fiscal year pursuant to subsection (c)(1) for additional costs of administration due to an increase in the rate of insured unemployment for a calendar quarter of at least 15 percent over the rate of insured unemploymentfor the corresponding calendar quarter in the immediately preceding year.
+(3)(A) The excess determined as provided in paragraph (2) as of the close of any fiscal year after June 30, 1972, shall be retained (as of the beginning of the succeeding fiscal year) in the employment security administration account until the amount in such account is equal to 40 percent of the amount of the total appropriation by the Congress out of the employment security administration account for the fiscal year for which the excess is determined. Three-eighths of the amount in the employment security administration account as of the beginning of any fiscal year after June 30, 1972, or $150 million, whichever is the lesser, is authorized to be made available for such fiscal year pursuant to subsection (c)(1) for additional costs of administration due to an increase in the rate of insured unemployment for a calendar quarter of at least 15 percent over the rate of insured unemployment for the corresponding calendar quarter in the immediately preceding year.
 
 (B) If the entire amount of the excess determined as provided in paragraph (2) as of the close of any fiscal year after June 30, 1972, is not retained in the employment security administration account, there shall be transferred (as of the beginning of the succeeding fiscal year) to the extended unemployment compensation account the balance of such excess or so much thereof as is required to increase the amount in the extended unemployment compensation account to the limit provided in section 1105(b)(2) of this title.
 
@@ -124,9 +124,9 @@ There is hereby established in the Unemployment Trust Fund an employment securit
 
 #### References in Text
 
-The Federal Unemployment Tax Act, referred to in subsecs. (b)(1), (3), (c)(1)(B)(ii), (2)(B), (3)(A), and (d)(1)(A)(i), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 439, as amended, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
+The Federal Unemployment Tax Act, referred to in subsecs. (b)(1), (3), (c)(1)(B)(ii), (2)(B), (3)(A), and (d)(1)(A)(i), is act Aug. 16, 1954, ch. 736, §§3301 to 3311, 68A Stat. 439, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
-Act of June 6, 1933, as amended (29 U.S.C. 49–49n), referred to in subsec. (c)(1)(A)(ii), (B)(iii), and (4), probably means act June 6, 1933, ch. 49, 48 Stat. 113, as amended, known as the Wagner-Peyser Act, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. Sections 49m and 49n were not part of act June 6, 1933. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+Act of June 6, 1933, as amended (29 U.S.C. 49–49n), referred to in subsec. (c)(1)(A)(ii), (B)(iii), and (4), probably means act June 6, 1933, ch. 49, 48 Stat. 113, known as the Wagner-Peyser Act, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. Sections 49m and 49n were not part of act June 6, 1933. For complete classification of this Act to the Code, see ShortTitle note set out under section 49 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -168,7 +168,7 @@ Subsec. (f)(3)(A). Pub. L. 94–273 struck out "fiscal" after "immediately prece
 
 <b>1970</b>—Subsec. (c)(1). Pub. L. 91–373, §303(a)(1), substituted "fiscal year ending June 30, 1971" for "fiscal year ending June 30, 1964", inserted reference to par. (4), struck out reference to the Temporary Unemployment Compensation Act of 1958, as amended, and substituted "section 2003 of title 38" for "section 2012 of title 38".
 
-Subsec. (c)(2). Pub. L. 91–373, §303(a)(2), struck out provision for the exclusion of amounts attributable tothe Temporary Unemployment Compensation Act of 1958, as amended.
+Subsec. (c)(2). Pub. L. 91–373, §303(a)(2), struck out provision for the exclusion of amounts attributable to the Temporary Unemployment Compensation Act of 1958, as amended.
 
 Subsec. (c)(3). Pub. L. 91–373, §303(a)(3), changed the ceiling on the amount in the employment security administration account authorized for appropriation for State grants by making it 95 percent of the amount set forth in the budget of the United States Government as the amount by which the net receipts during the fiscal year are estimated to exceed the amount transferred to the extended unemployment compensation account under section 1105(b) of this title.
 
@@ -192,7 +192,7 @@ Subsec. (f)(2). Pub. L. 91–53, §3(b), designated existing provisions as subpa
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–778 substituted provision establishing the employment security administration account for former provision making an appropriation to the Unemployment Trust Fund for fiscal year ending June 30, 1954, and for each fiscal year thereafter, providing for transfer of funds from the general fund in the Treasury to the Unemployment Trust Fund at the close of the fiscal year, and adjustments in the transfers, and requiring the Secretary of the Treasury to consult with the Secretary of Labor with respect to estimates of employment security administrative expenditures.
 
-Subsec. (b). Pub. L. 86–778 substituted provisions crediting the employment security administration with funds, and requiring transfer of funds, adjustments and repayment of internal revenue refunds for former provisions defining "employment security administrative expenditures", now incorporated in subsec. (c)(1)(A), (B), (2)(A) of this section.
+Subsec. (b). Pub. L. 86–778 substituted provisions crediting the employment security administration with funds, and requiring transfer of funds, adjustments and repayment of internal revenue refunds for former provisions defining "employment security administrativeexpenditures", now incorporated in subsec. (c)(1)(A), (B), (2)(A) of this section.
 
 Subsecs. (c) to (f). Pub. L. 86–778 added subsecs. (c) to (f).
 

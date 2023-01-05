@@ -82,7 +82,7 @@ If the Assistant Secretary finds that any State has failed to qualify under the 
 
 #### Prior Provisions
 
-A prior section 3024, Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat.38; Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, related to designation of state and area agencies, area plan provisions, and transportation services and funds, prior to the general amendment of this subchapter by Pub. L. 95–478. See sections 3025 and 3026 of this title.
+A prior section 3024, Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, related to designation of state and area agencies, area plan provisions, and transportation services and funds, prior to the general amendment of this subchapter by Pub. L. 95–478. See sections 3025 and 3026 of this title.
 
 Another prior section 3024, Pub. L. 89–73, title III, §304, July 14, 1965, 79 Stat. 223; Pub. L. 90–42, §3, July 1, 1967, 81 Stat. 107; Pub. L. 91–69, §4(b), Sept. 17, 1969, 83 Stat. 108, related to planning, coordination, and evaluation and administration of State plans, providing in: subsec. (a) authorization of appropriations, amount of payment, and availability of unexpended funds; subsec. (b) amount of allotment, determination of additional amount, adjustments, minimum amount, and availability of unexpended amount; subsec. (c) reallotment to other States; and subsec. (d) minimum State expenditure of funds, prior to repeal by Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 36.
 
@@ -110,7 +110,7 @@ Subsec. (d)(1)(B). Pub. L. 116–131, §701(7), struck out "(excluding any amoun
 
 Subsec. (b). Pub. L. 114–144, §4(b)(2), struck out "subpart I of" before "part E".
 
-<b>2006</b>—Subsec. (a)(3)(D). Pub. L. 109–365 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "No State shall be allotted less than the total amount allotted to the State for fiscal year 2000 and no State shall receive a percentage increase above the fiscal year 2000 allotment that is less than 20 percent of the percentage increase above the fiscal year 2000 allotments for all of the States."
+<b>2006</b>—Subsec. (a)(3)(D). Pub. L. 109–365 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "No State shall be allotted less than the total amount allotted to the State for fiscal year2000 and no State shall receive a percentage increase above the fiscal year 2000 allotment that is less than 20 percent of the percentage increase above the fiscal year 2000 allotments for all of the States."
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–501, §303(a), added subsec. (a) and struck out former subsec. (a) which read as follows:
 

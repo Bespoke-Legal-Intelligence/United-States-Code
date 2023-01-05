@@ -16,7 +16,7 @@ The Commission shall commence assignment of licenses for public safety services 
 
 #### (1) Use of unused channels for public safety services
 
-&emsp;Upon application by an entity seeking to provide public safety services, the Commissionshall waive any requirement of this chapter or its regulations implementing this chapter (other than its regulations regarding harmful interference) to the extent necessary to permit the use of unassigned frequencies for the provision of public safety services by such entity. An application shall be granted under this subsection if the Commission finds that—
+&emsp;Upon application by an entity seeking to provide public safety services, the Commission shall waive any requirement of this chapter or its regulations implementing this chapter (other than its regulations regarding harmful interference) to the extent necessary to permit the use of unassigned frequencies for the provision of public safety services by such entity. An application shall be granted under this subsection if the Commission finds that—
 
 &emsp;&emsp;(A) no other spectrum allocated to public safety services is immediately available to satisfy the requested public safety service use;
 

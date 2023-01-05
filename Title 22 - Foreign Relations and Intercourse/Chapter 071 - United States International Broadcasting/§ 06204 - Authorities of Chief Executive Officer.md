@@ -4,7 +4,7 @@
 
 The Chief Executive Officer shall have the following authorities:
 
-&emsp;(1) To direct and supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\],,<sup>1</sup> the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\], and Worldnet Television, except as provided in section 6205(b) of this title.
+&emsp;(1) To supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act \[22 U.S.C. 1465 et seq.\],,<sup>1</sup> the Television Broadcasting to Cuba Act \[22 U.S.C. 1465aa et seq.\], and Worldnet Television, except as provided in section 6205(b) of this title.
 
 &emsp;(2) To review and evaluate the mission and operation of, and to assess the quality, effectiveness, and professional integrity of, all such activities within the context of the broad foreign policy objectives of the United States.
 
@@ -46,17 +46,15 @@ The Chief Executive Officer shall have the following authorities:
 
 &emsp;(B) To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Chief Executive Officer determines that such schools are not accessible by public means of transportation.
 
-&emsp;(20) Notwithstanding any other provision of law, including section 6207(a) of this title, to condition, if appropriate, any grant or cooperative agreement to RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, or the Middle East Broadcasting Networks, or any organization that is established through the consolidation of such entities, on authority to determine membership of their respective boards, and the consolidation of such grantee entities into a single grantee organization under terms and conditions established by the Agency in accordance with subsection (c).
+&emsp;(20) To redirect or reprogram funds within the scope of any grant or cooperative agreement, or between grantees, as necessary (and not later than 15 days before any such redirection of funds between language services, to notify the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate regarding such redirection),.<sup>1</sup>
 
-&emsp;(21) To redirect or reprogram funds within the scope of any grant or cooperative agreement, or between grantees, as necessary (and not later than 15 days before any such redirection of funds between language services, to notify the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate regarding such redirection), and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under section 6207(a) of this title, including authority to name and replace the board of any grantee authorized under this chapter, to meet the purposes of this chapter in accordance with subsection (c).
+&emsp;(21) To change the name of the Agency pursuant to congressional notification 60 days prior to any such change.
 
-&emsp;(22) To change the name of the Agency pursuant to congressional notification 60 days prior to any such change.
-
-&emsp;(23) To—
+&emsp;(22) To—
 
 &emsp;&emsp;(A) require annual content reviews of each language service of Voice of America, The Office of Cuba Broadcasting, and each grantee network, consisting of a review of at least 10 percent of available unique weekly content from any selected week from the previous year, which shall be conducted, to the extent practicable, by fluent language speakers and experts without direct affiliation to the language service being reviewed, who are seeking any evidence of inappropriate or unprofessional content, which shall be submitted to the Office of Policy Research, the head and Board of the respective language service, and the Chief Executive Officer;
 
-&emsp;&emsp;(B) submit to the appropriate congressional committees a list of anomalous reports, including status updates on anomalous services during the 3-year period commencing on the date of receipt of the first report of biased, unprofessional, or otherwise problematic content."; <sup>2</sup> and
+&emsp;&emsp;(B) submit to the appropriate congressional committees a list of anomalous reports, including status updates on anomalous services during the 3-year period commencing on the date of receipt of the first report of biased, unprofessional, or otherwise problematic content."; <sup>3</sup> and
 
 &emsp;&emsp;(C) launch a review, using external, native-language and regional experts, the results of which are to be reported to the appropriate congressional committees, if a widespread pattern of violations of the principles, standards, or journalistic code of ethics of a language service or grantee network has been identified.
 
@@ -68,7 +66,7 @@ The Secretary of State and the Chief Executive Officer, in carrying out their fu
 
 #### (1) In general
 
-&emsp;The Chief Executive Officer may not award any grant under subsection (a) to RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, the Open Technology Fund, or any other grantee authorized under this chapter (collectively referred to as "Agency Grantee Networks") unless the incorporationdocuments of any such grantee require that the corporate leadership and Board of Directors of such grantee be selected in accordance with this chapter.
+&emsp;The Chief Executive Officer may not award any grant under subsection (a) to RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, the Open Technology Fund, or any other grantee authorized under this chapter (collectively referred to as "Agency Grantee Networks") unless the incorporation documents of any such grantee require that the corporate leadership and Board of Directors of such grantee be selected in accordance with this chapter.
 
 #### (2) Conflicts of interest
 
@@ -84,7 +82,7 @@ The Secretary of State and the Chief Executive Officer, in carrying out their fu
 
 &emsp;Individuals appointed under subsection (a) to the Board of Directors of any of the Agency Grantee Networks shall have requisite expertise in journalism, technology, broadcasting, or diplomacy, or appropriate language or cultural understanding relevant to the grantee's mission.
 
-(Pub. L. 103–236, title III, §305, Apr. 30, 1994, 108 Stat. 435; Pub. L. 103–415, §1(s)(1), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(e)–(i), Oct. 21, 1998, 112 Stat. 2681–778, 2681–779; Pub. L. 107–228, div. A, title V, §507(1), Sept. 30, 2002, 116 Stat. 1394; Pub. L. 109–140, §8, Dec. 22, 2005, 119 Stat. 2652; Pub. L. 114–328, div. A, title XII, §1288(2), Dec. 23, 2016, 130 Stat. 2549; Pub. L. 116–283, div. A, title XII, §§1299P(c)(2), 1299Q(c), (e)(2), Jan. 1, 2021, 134 Stat. 4020, 4021, 4025.)
+(Pub. L. 103–236, title III, §305, Apr. 30, 1994, 108 Stat. 435; Pub. L. 103–415, §1(s)(1), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(e)–(i), Oct. 21, 1998, 112 Stat. 2681–778, 2681–779; Pub. L. 107–228, div. A, title V, §507(1), Sept. 30, 2002, 116 Stat. 1394; Pub. L. 109–140, §8, Dec. 22, 2005, 119 Stat. 2652; Pub. L. 114–328, div. A, title XII, §1288(2), Dec. 23, 2016, 130 Stat. 2549; Pub. L. 116–283, div. A, title XII, §§1299P(c)(2), 1299Q(c), (e)(2), Jan. 1, 2021, 134 Stat. 4020, 4021, 4025; Pub. L. 117–263, div. I, title XCVII, §9706, Dec. 23, 2022, 136 Stat. 3915.)
 
 #### <b>Editorial Notes</b>
 
@@ -92,13 +90,13 @@ The Secretary of State and the Chief Executive Officer, in carrying out their fu
 
 This chapter, referred to in subsecs. (a)(1), (9), (17), (18) and (c)(1) the first place appearing, was in the original "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
+The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
-The Television Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
 This chapter, referred to in subsecs. (a)(5), (14), (21) and (c)(1) the second place appearing, was in the original "this Act", and was translated, to reflect the probable intent of Congress, as reading "this title", meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
-The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
+The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 
 Section 6 of Reorganization Plan Number 2 of 1977, referred to in subsec. (a)(17), which was set out under section 1461 of this title, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790.
 
@@ -113,6 +111,14 @@ Section is comprised of section 305 of Pub. L. 103–236, which consists of subs
 Pub. L. 116–283, div. A, title XII, §1299Q(c), (e)(2), Jan. 1, 2021, 134 Stat. 4021, 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, §1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–263, §9706(1), struck out "direct and" before "supervise".
+
+Subsec. (a)(20). Pub. L. 117–263, §9706(4), which directed amendment of par. (22), "as redesignated", of subsec. (a) by substituting a period for "and to condition grants" and all that followed, was executed by substituting a period for "and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under section 6207(a) of this title, including authority to name and replace the board of any grantee authorized under this chapter, to meet the purposes of this chapter in accordance with subsection (c)." in par. (20), as redesignated by Pub. L. 117–263, §9706(3), to reflect the probable intent of Congress. See Amendment note below. Par. (20), and not par. (22), contained the words "and to condition grants".
+
+Pub. L. 117–263, §9706(2), (3), redesignated par. (21) as (20) and struck out former par. (20) which read as follows: "Notwithstanding any other provision of law, including section 6207(a) of this title, to condition, if appropriate, any grant or cooperative agreement to RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, or the Middle East Broadcasting Networks, or any organization that is established through the consolidation of such entities, on authority to determine membership of their respective boards, and the consolidation of such grantee entities into a single grantee organization under terms and conditions established by the Agency in accordance with subsection (c)."
+
+Subsec. (a)(21), (22). Pub. L. 117–263, §9706(3), redesignated pars. (22) and (23) as (21) and (22), respectively. Former par. (21) redesignated (20).
 
 <b>2021</b>—Subsec. (a)(6). Pub. L. 116–283, §1299Q(e)(2)(A)(i), substituted "Agency" for "Board".
 
@@ -310,5 +316,5 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 <i><sup>2</sup></i><i> So in original. See 2016 Amendment note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The period and quotation marks preceding the semicolon probably should not appear.</i>
+<i><sup>3</sup></i><i> So in original. The period and quotation marks preceding the semicolon probably should not appear.</i>
 

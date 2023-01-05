@@ -50,7 +50,7 @@ Insurance.—(1) Beginning January 1, 2023, the Secretary shall carry out a serv
 
 &emsp;(I) have maturities fixed with due regard for the needs of the fund; and
 
-&emsp;(II) bear interest at a rate equal to the average market yield (computed by the Secretary of the Treasury on the basis of market quotations as of the end of the calendar month preceding the date of issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of four years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of one per centum, the rate of interest of such obligation shall be the multiple of one-eighth of one per centum nearest such market yield.
+&emsp;(II) bear interest at a rate equal to the average market yield (computed by the Secretaryof the Treasury on the basis of market quotations as of the end of the calendar month preceding the date of issue) on all marketable interest-bearing obligations of the United States then forming a part of the public debt which are not due or callable until after the expiration of four years from the end of such calendar month; except that where such average market yield is not a multiple of one-eighth of one per centum, the rate of interest of such obligation shall be the multiple of one-eighth of one per centum nearest such market yield.
 
 (6)(A) Administrative support financed by the appropriations for "General Operating Expenses, Department of Veterans Affairs" and "Information Technology Systems, Department of Veterans Affairs" for the insurance program under paragraph (1) shall be paid from premiums credited to the fund under paragraph (5).
 
@@ -128,7 +128,7 @@ Claims.—(1) If the deceased veteran designated a beneficiary under subsection 
 
 Payments.—(1) In a case described in subsection (f)—
 
-&emsp;(A) in paragraph (1)(A), the Secretary shall pay the designated beneficiary not later than 90 days after the designated beneficiary files a complete and valid claim for payment;
+&emsp;(A) in paragraph (1)(A), the Secretary shall pay the designated beneficiary not later than90 days after the designated beneficiary files a complete and valid claim for payment;
 
 &emsp;(B) in paragraph (1)(B) or (2), the Secretary shall make any payment not later than one year after the end of the period described in the applicable such paragraph, if the Secretary receives a complete and valid claim for payment in accordance with the applicable such paragraph; or
 

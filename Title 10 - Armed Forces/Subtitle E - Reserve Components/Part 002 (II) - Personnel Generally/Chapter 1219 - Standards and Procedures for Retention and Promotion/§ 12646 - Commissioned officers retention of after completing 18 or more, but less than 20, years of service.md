@@ -16,7 +16,7 @@
 
 (d) Subsections (a) and (b) do not apply to—
 
-&emsp;(1) officers who are discharged or transferred from an active status for physical disability, for cause, or because they have reached the age at which transfer from an active status or discharge is required by law; or
+&emsp;(1) officers who are discharged or transferred from an active status for physical disability, for cause, or because they have reached theage at which transfer from an active status or discharge is required by law; or
 
 &emsp;(2) commissioned warrant officers.
 
@@ -86,7 +86,7 @@ In subsection (e), the words "at the end of that period" are substituted for the
 
 #### 1962 Act
 
-The change reflects the repeal of section 611 of the Reserve Officer Personnel Act of 1954, ch. 1257 (68 Stat.1186), formerly section 1391 of title 50, and its restatement in section 787 of title 14 (see sections 5(2) and 36A of the Act of September 2, 1958, Pub. L. 85–861 (72 Stat. 1547 and 1569)).
+The change reflects the repeal of section 611 of the Reserve Officer Personnel Act of 1954, ch. 1257 (68 Stat. 1186), formerly section 1391 of title 50, and its restatement in section 787 of title 14 (see sections 5(2) and 36A of the Act of September 2, 1958, Pub. L. 85–861 (72 Stat. 1547 and 1569)).
 
 #### <b>Editorial Notes</b>
 

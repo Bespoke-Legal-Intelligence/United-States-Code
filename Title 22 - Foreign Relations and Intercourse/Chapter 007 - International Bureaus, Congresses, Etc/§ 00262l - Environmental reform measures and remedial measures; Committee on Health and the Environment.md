@@ -36,7 +36,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;&emsp;(C) improved programs of training in environmental science and land-use planning;
 
-&emsp;(5) vigorously promote a commitment of these institutions to increase the proportion of their programs supporting environmentally beneficial projects and project components,such as technical assistance for environmental ministries and institutions, resource rehabilitation projects and project components, protection of indigenous peoples, and appropriate light capital technology projects. Other examples of such projects include small scale mixed farming and multiple cropping, agroforestry, programs to promote kitchen gardens, watershed management and rehabilitation, high yield wood lots, integrated pest management systems, dune stabilization programs, programs to improve energy efficiency, energy efficient technologies such as small scale hydro projects, rural solar energy systems, and rural and mobile telecommunications systems, and improved efficiency and management of irrigation systems.<sup>1</sup>
+&emsp;(5) vigorously promote a commitment of these institutions to increase the proportion of their programs supporting environmentally beneficial projects and project components, such as technical assistance for environmental ministries and institutions, resource rehabilitation projects and project components, protection of indigenous peoples, and appropriate light capital technology projects. Other examples of such projects include small scale mixed farming and multiple cropping, agroforestry, programs to promote kitchen gardens, watershed management and rehabilitation, high yield wood lots, integrated pest management systems, dune stabilization programs, programs to improve energy efficiency, energy efficient technologies such as small scale hydro projects, rural solar energy systems, and rural and mobile telecommunications systems, and improved efficiency and management of irrigation systems.<sup>1</sup>
 
 &emsp;(6) place an increased emphasis on upgrading the efficient use of energy and other resources by borrower nations. Such efforts shall include, but not be limited to—
 
@@ -144,7 +144,7 @@ Pub. L. 101–167, title V, §533, Nov. 21, 1989, 103 Stat. 1225, provided that:
 
 &emsp;"(7) provide technical assistance as a component of all energy sector lending to help borrowing countries identify and pursue end-use energy efficiency investments. This technical assistance shall include support for detailed audits of energy use and the development of institutional capacity to promote end-use energy efficiency and conservation;
 
-&emsp;"(8) work with borrowing countries, with input from the public in both borrowing and donor countries, to develop loans for end-use energy efficiency and renewable energy, where possible 'bundling' small projects into larger, more easily financed projects; and
+&emsp;"(8) work with borrowing countries, with input from the public in both borrowing and donor countries, to develop loans for end-use energy efficiency and renewable energy, where possible 'bundling'small projects into larger, more easily financed projects; and
 
 &emsp;"(9) seek the convening of a special seminar for board members and senior staff of each MDB concerning alternate energy investment opportunities and end-use energy efficiency and conservation.
 

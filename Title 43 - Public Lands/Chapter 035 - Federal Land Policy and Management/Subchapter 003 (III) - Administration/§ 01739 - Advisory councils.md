@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership; operation
 
-The Secretary shall establish advisory councils of not less than ten and not more than fifteen members appointed by him from amongpersons who are representative of the various major citizens' interests concerning the problems relating to land use planning or the management of the public lands located within the area for which an advisory council is established. At least one member of each council shall be an elected official of general purpose government serving the people of such area. To the extent practicable there shall be no overlap or duplication of such councils. Appointments shall be made in accordance with rules prescribed by the Secretary. The establishment and operation of an advisory council established under this section shall conform to the requirements of the Federal Advisory Committee Act (86 Stat. 770).
+The Secretary shall establish advisory councils of not less than ten and not more than fifteen members appointed by him from among persons who are representative of the various major citizens' interests concerning the problems relating to land use planning or the management of the public lands located within the area for which an advisory council is established. At least one member of each council shall be an elected official of general purpose government serving the people of such area. To the extent practicable there shall be no overlap or duplication of such councils. Appointments shall be made in accordance with rules prescribed by the Secretary. The establishment and operation of an advisory council established under this section shall conform to the requirements of chapter 10 of title 5.
 
 #### (b) Meetings
 
@@ -20,17 +20,17 @@ An advisory council may furnish advice to the Secretary with respect to the land
 
 In exercising his authorities under this Act, the Secretary, by regulation, shall establish procedures, including public hearings where appropriate, to give the Federal, State, and local governments and the public adequate notice and an opportunity to comment upon the formulation of standards and criteria for, and to participate in, the preparation and execution of plans and programs for, and the management of, the public lands.
 
-(Pub. L. 94–579, title III, §309, Oct. 21, 1976, 90 Stat. 2767; Pub. L. 95–514, §13, Oct. 25, 1978, 92 Stat. 1808.)
+(Pub. L. 94–579, title III, §309, Oct. 21, 1976, 90 Stat. 2767; Pub. L. 95–514, §13, Oct. 25, 1978, 92 Stat. 1808; Pub. L. 117–286, §4(a)(285), Dec. 27, 2022, 136 Stat. 4337.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-This Act, referred to in subsec. (e), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (e), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (86 Stat. 770)."
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–514 substituted in first sentence "shall establish" for "is authorized to establish".
 
@@ -38,5 +38,5 @@ This Act, referred to in subsec. (e), is Pub. L. 94–579, Oct. 21, 1976, 90 Sta
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

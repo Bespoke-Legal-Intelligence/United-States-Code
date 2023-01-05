@@ -2,7 +2,7 @@
 
 (a)
 
-Correction of Military Records.—The Secretary of a military department may correct a person's military records in accordance with a recommendation made by a special board. Anysuch correction may be made effective as of the effective date of the action taken on a report of a previous selection board that resulted in the action corrected in the person's military records.
+Correction of Military Records.—The Secretary of a military department may correct a person's military records in accordance with a recommendation made by a special board. Any such correction may be made effective as of the effective date of the action taken on a report of a previous selection board that resulted in the action corrected in the person's military records.
 
 (b)
 
@@ -54,7 +54,7 @@ Relief Associated With Correction of Certain Actions.—(1) The Secretary of the
 
 (d)
 
-Finality of Unfavorable Action.—If a special board makes a recommendation not to correct the military records of a person regarding action taken in the case of that person on the basis of a previous report of a selection board, the action previously taken on that report shall be considered as final as of the date of the action taken on that report.
+Finality of Unfavorable Action.—If a special board makes a recommendation not tocorrect the military records of a person regarding action taken in the case of that person on the basis of a previous report of a selection board, the action previously taken on that report shall be considered as final as of the date of the action taken on that report.
 
 (e)
 

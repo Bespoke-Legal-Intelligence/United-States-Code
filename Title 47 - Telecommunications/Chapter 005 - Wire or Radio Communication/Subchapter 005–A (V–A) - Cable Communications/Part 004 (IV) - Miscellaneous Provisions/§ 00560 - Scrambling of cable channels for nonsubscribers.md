@@ -6,7 +6,7 @@ Upon request by a cable service subscriber, a cable operator shall, without char
 
 #### (b) "Scramble" defined
 
-As used in this section, the term "scramble" means to rearrange the content of the signal ofthe programming so that the programming cannot be viewed or heard in an understandable manner.
+As used in this section, the term "scramble" means to rearrange the content of the signal of the programming so that the programming cannot be viewed or heard in an understandable manner.
 
 (June 19, 1934, ch. 652, title VI, §640, as added Pub. L. 104–104, title V, §504, Feb. 8, 1996, 110 Stat. 136.)
 

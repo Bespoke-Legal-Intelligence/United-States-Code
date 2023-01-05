@@ -16,7 +16,7 @@ General Purposes.—The purposes of this chapter are to—
 
 &emsp;(4) promote continuing, cooperative, and comprehensive planning that improves the performance of the transportation network;
 
-&emsp;(5) establish a technical assistance program to assist recipients under this chapter to more effectively and efficiently provide public transportation service;
+&emsp;(5) establish a technical assistance program to assist recipients under this chapter to moreeffectively and efficiently provide public transportation service;
 
 &emsp;(6) continue Federal support for public transportation providers to deliver high quality service to all users, including individuals with disabilities, seniors, and individuals who depend on public transportation;
 
@@ -96,7 +96,7 @@ In subsection (c), the text of 49 App.:1601a (1st sentence words after semicolon
 
 In subsections (d) and (e), the words "hereby declared to be" are omitted as surplus.
 
-In subsection (d), the words "to ensure that mass transportation can be used by elderly individuals and individuals with disabilities" are substituted for "inthe planning and design of mass transportation facilities and services so that the availability to elderly persons and persons with disabilities of mass transportation which they can effectively utilize will be assured" to eliminate unnecessary words. The words "the field of" and "(including the programs under this chapter) . . . contain provisions" are omitted as surplus.
+In subsection (d), the words "to ensure that mass transportation can be used by elderly individuals and individuals with disabilities" are substituted for "in the planning and design of mass transportation facilities and services so that the availability to elderly persons and persons with disabilities of mass transportation which they can effectively utilize will be assured" to eliminate unnecessary words. The words "the field of" and "(including the programs under this chapter) . . . contain provisions" are omitted as surplus.
 
 In subsection (e), the words "carrying out" are substituted for "construction of", and the word "capital" is added, for consistency in the revised chapter. The reference to section 5310 of the revised title is added for clarity because a loan or grant made under section 5310 is deemed to have been made under section 5309.
 
@@ -142,7 +142,7 @@ Federal Transit Administration Appropriation.—
 
 &emsp;"(1)
 
-In general.—In addition to amounts otherwise made available, there are appropriated for fiscal year 2021, out of any funds in the Treasury not otherwise appropriated, $30,461,355,534, to remain available until September 30, 2024, that shall—
+In general.—In addition to amounts otherwise made available, there are appropriated for fiscal year 2021, out of any funds in the Treasury not otherwiseappropriated, $30,461,355,534, to remain available until September 30, 2024, that shall—
 
 &emsp;&emsp;"(A) be for grants to eligible recipients under sections 5307, 5309, 5310, and 5311 of title 49, United States Code, to prevent, prepare for, and respond to coronavirus; and
 
@@ -366,7 +366,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(4) current Federal law allows employers to provide only up to $21 per month in employee benefits for transit or van pools;
 
-&emsp;"(5) the current 'cliff provision', which treats an entire commuter transit benefit as taxable income if it exceeds $21 per month, unduly penalizes the most effective employer efforts to change commuter behavior;
+&emsp;"(5) the current 'cliff provision', which treats an entire commuter transit benefit as taxable income if itexceeds $21 per month, unduly penalizes the most effective employer efforts to change commuter behavior;
 
 &emsp;"(6) employer-provided commuter transit incentives offer many public benefits, including increased access of low-income persons to good jobs, inexpensive reduction of roadway and parking congestion, and cost-effective incentives for timely arrival at work; and
 

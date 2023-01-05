@@ -8,7 +8,7 @@ The Assistant Secretary, in consultation with the First Responder Network Author
 
 #### (1) In general
 
-&emsp;The Federal share of the cost of any activity carried out using a grant under this sectionmay not exceed 80 percent of the eligible costs of carrying out that activity, as determined by the Assistant Secretary, in consultation with the First Responder Network Authority.
+&emsp;The Federal share of the cost of any activity carried out using a grant under this section may not exceed 80 percent of the eligible costs of carrying out that activity, as determined by the Assistant Secretary, in consultation with the First Responder Network Authority.
 
 #### (2) Waiver
 

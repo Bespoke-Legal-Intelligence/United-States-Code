@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(i) both the Federal Reserve System Retirement Plan and the Federal Reserve System Thrift Plan, under the same terms on which such participation is offered to employees of the Board of Governors who participate in such plans and under the terms and conditions specified under section 5584(i)(1)(C) of this title; or
 
-&emsp;&emsp;&emsp;(ii) the Civil Service Retirement System under chapter 83 of title 5 or the Federal Employees Retirement System underchapter 84 of title 5, if previously covered under one of those Federal employee retirement systems.
+&emsp;&emsp;&emsp;(ii) the Civil Service Retirement System under chapter 83 of title 5 or the Federal Employees Retirement System under chapter 84 of title 5, if previously covered under one of those Federal employee retirement systems.
 
 #### (B) Election period
 
@@ -58,7 +58,7 @@
 
 #### (D) Controlled group status
 
-&emsp;&emsp;The Bureau is the same employer as the Federal Reserve System (as comprised of the Board of Governors and each of the 12 Federal reserve banks prior to July 21, 2010) for purposes of subsections (b), (c), (m), and (o) of section 414 of title 26.
+&emsp;&emsp;The Bureau is the same employer as the Federal Reserve System (as comprised of theBoard of Governors and each of the 12 Federal reserve banks prior to July 21, 2010) for purposes of subsections (b), (c), (m), and (o) of section 414 of title 26.
 
 #### (4) Labor-management relations
 
@@ -118,7 +118,7 @@
 
 #### (C) Reports to the Congress
 
-&emsp;&emsp;The Director shall present an annual report to Congress not later than March 31 of each year on the complaints received by the Bureau in the prior year regarding consumer financial products and services. Such report shall include information and analysis about complaint numbers, complaint types, and,where applicable, information about resolution of complaints.
+&emsp;&emsp;The Director shall present an annual report to Congress not later than March 31 of each year on the complaints received by the Bureau in the prior year regarding consumer financial products and services. Such report shall include information and analysis about complaint numbers, complaint types, and, where applicable, information about resolution of complaints.
 
 #### (D) Data sharing required
 
@@ -132,7 +132,7 @@
 
 #### (2) Functions
 
-&emsp;The Office of Fair Lending and Equal Opportunity shall have such powers and duties as the Director may delegate to the Office, including—
+&emsp;The Office of Fair Lending and Equal Opportunity shall have such powers and duties asthe Director may delegate to the Office, including—
 
 &emsp;&emsp;(A) providing oversight and enforcement of Federal laws intended to ensure the fair, equitable, and nondiscriminatory access to credit for both individuals and communities that are enforced by the Bureau, including the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\] and the Home Mortgage Disclosure Act \[12 U.S.C. 2801 et seq.\];
 
@@ -296,17 +296,17 @@ The Office of Fair Lending and Equal Opportunity, the Office of Financial Educat
 
 &emsp;&emsp;(F) work with community organizations, non-profit organizations, and other entities that are involved with educating or assisting seniors (including the National Education and Resource Center on Women and Retirement Planning).
 
-#### (h) Application of FACA
+#### (h) Application of chapter 10 of title 5
 
-Notwithstanding any provision of the Federal Advisory Committee Act (5 U.S.C. App.), such Act shall apply to each advisory committee of the Bureau and each subcommittee of such an advisory committee.
+Notwithstanding any provision of chapter 10 of title 5, such chapter shall apply to each advisory committee of the Bureau and each subcommittee of such an advisory committee.
 
-(Pub. L. 111–203, title X, §1013, July 21, 2010, 124 Stat. 1966; Pub. L. 114–113, div. O, title VII, §704, Dec. 18, 2015, 129 Stat. 3025.)
+(Pub. L. 111–203, title X, §1013, July 21, 2010, 124 Stat. 1966; Pub. L. 114–113, div. O, title VII, §704, Dec. 18, 2015, 129 Stat. 3025; Pub. L. 117–286, §4(a)(59), Dec. 27, 2022, 136 Stat. 4311.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 11(1) of the Federal Reserve Act, referred to in subsec. (a)(1)(C)(i), probably means section 11(l) of the Federal Reserve Act, which is classified to section 248(l) of this title.
+Section 11(1) of the Federal Reserve Act, referred to in subsec. (a)(1)(C)(i), probably means section 11(l) ofthe Federal Reserve Act, which is classified to section 248(l) of this title.
 
 Section 2302(b)(11), referred to in subsec. (a)(1)(C)(ii), probably means section 2302(b)(11) of Title 5, Government Organization and Employees.
 
@@ -314,13 +314,13 @@ The Equal Credit Opportunity Act, referred to in subsec. (c)(2)(A), is title VII
 
 The Home Mortgage Disclosure Act, referred to in subsec. (c)(2)(A), probably means the Home Mortgage Disclosure Act of 1975, which is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, and is classified principally to chapter 29 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 
 Section is comprised of section 1013 of Pub. L. 111–203. Subsec. (d)(5), (6) of section 1013 of Pub. L. 111–203 amended section 9702 of Title 20, Education.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–286 substituted "chapter 10 of title 5" for "FACA" in heading and "chapter 10 of title 5, such chapter" for "the Federal Advisory Committee Act (5 U.S.C. App.), such Act" in text.
 
 <b>2015</b>—Subsec. (h). Pub. L. 114–113 added subsec. (h).
 

@@ -18,7 +18,7 @@ Section 283a–3 of this title, referred to in subsec. (a), was in the original 
 
 #### Prior Provisions
 
-A prior section 300u–9, act July 1, 1944, ch. 373, title XVII, §1710, as added Nov. 10, 1978, Pub. L. 95–626, title V, §502, 92 Stat. 3594; amended Oct. 17, 1979, Pub. L.96–88, title III, §301(b)(2), title V, §507, 93 Stat. 678, 692, related to Conference on Education in Lifetime Sports, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
+A prior section 300u–9, act July 1, 1944, ch. 373, title XVII, §1710, as added Nov. 10, 1978, Pub. L. 95–626, title V, §502, 92 Stat. 3594; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(b)(2), title V, §507, 93 Stat. 678, 692, related to Conference on Education in Lifetime Sports, prior to repeal by Pub. L. 98–551, §2(c), Oct. 30, 1984, 98 Stat. 2816.
 
 #### Amendments
 

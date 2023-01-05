@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established in the Treasury of the United States for the Department of Energy an account to be known as the "Defense Environmental Cleanup Account" (hereafter in this section referred to as the "Account").
+There is hereby established in the Treasury of the United States for the Department of Energyan account to be known as the "Defense Environmental Cleanup Account" (hereafter in this section referred to as the "Account").
 
 #### (b) Amounts in Account
 

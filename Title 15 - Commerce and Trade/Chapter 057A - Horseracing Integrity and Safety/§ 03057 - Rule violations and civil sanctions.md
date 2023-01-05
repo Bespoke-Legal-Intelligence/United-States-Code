@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Authority shall issue, by rule in accordance with section 3053 of this title, a description of safety, performance, and anti-doping and medication control rule violations applicable to covered horses and covered persons.
+&emsp;The Authority shall issue, by rule in accordance with section 3053 of this title, a description of safety, performance, and anti-dopingand medication control rule violations applicable to covered horses and covered persons.
 
 #### (2) Elements
 

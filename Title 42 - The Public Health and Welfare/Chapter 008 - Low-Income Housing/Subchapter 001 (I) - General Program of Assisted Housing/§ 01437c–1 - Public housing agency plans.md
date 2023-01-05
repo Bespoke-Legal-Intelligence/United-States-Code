@@ -16,7 +16,7 @@
 
 #### (3) Initial plan
 
-&emsp;The initial 5-year plan submitted by a public housing agency under this subsection shall be submitted for the 5-year period beginning on October 1, 1999, or the first fiscal year thereafter for which the public housing agency initially receives assistance under this chapter.
+&emsp;The initial 5-year plan submitted by a public housing agency under this subsection shall besubmitted for the 5-year period beginning on October 1, 1999, or the first fiscal year thereafter for which the public housing agency initially receives assistance under this chapter.
 
 #### (b) Annual plan
 
@@ -244,7 +244,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (4) Advisory board consultation enforcement
 
-&emsp;Pursuant to a written request made by the resident advisory board for a public housing agency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4), the Secretary may require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
+&emsp;Pursuant to a written request made by the resident advisory board for a public housingagency that documents a failure on the part of the agency to provide adequate notice and opportunity for comment under this subsection and a finding by the Secretary of good cause within the time period provided for in subsection (i)(4), the Secretary may require the public housing agency to adequately remedy such failure before final approval of the public housing agency plan under this section.
 
 #### (5) Qualified public housing agencies
 
@@ -320,7 +320,7 @@ An annual public housing agency plan under subsection (b) for a public housing a
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subsection (j)(2), not later than 75 days after the date on which a public housing agency plan is submitted in accordance with this section, the Secretary shall make the determination under paragraph (1) and provide written notice to the public housing agency if the plan has been disapproved. If the Secretary disapproves the plan, the notice shall state with specificity the reasons for the disapproval.
+&emsp;&emsp;Except as provided in subsection (j)(2), not later than 75 days after the date on which a public housing agency plan is submitted in accordance with this section, the Secretaryshall make the determination under paragraph (1) and provide written notice to the public housing agency if the plan has been disapproved. If the Secretary disapproves the plan, the notice shall state with specificity the reasons for the disapproval.
 
 #### (B) Failure to provide notice of disapproval
 
@@ -410,7 +410,7 @@ Interim rule.—Not later than 120 days after the date of the enactment of this 
 
 "(2)
 
-Final regulations.—Not later than 1 year after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue final regulations implementing section 5A of the United States Housing Act of 1937 \[42U.S.C. 1437c–1\] (as added by subsection (a) of this section).
+Final regulations.—Not later than 1 year after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall issue final regulations implementing section 5A of the United States Housing Act of 1937 \[42 U.S.C. 1437c–1\] (as added by subsection (a) of this section).
 
 "(3)
 

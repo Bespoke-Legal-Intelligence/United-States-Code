@@ -10,7 +10,7 @@ Congress makes the following findings:
 
 &emsp;(3) The ability to support human missions in regions beyond low-Earth orbit and on the surface of the Moon can also drive developments in emerging areas of space infrastructure and technology.
 
-&emsp;(4) Developments in space infrastructure and technology can stimulate and enable increased space applications, such as in-space servicing, propellant resupply and transfer, and in situresource utilization, and open opportunities for additional users of space, whether national, commercial, or international.
+&emsp;(4) Developments in space infrastructure and technology can stimulate and enable increased space applications, such as in-space servicing, propellant resupply and transfer, and in situ resource utilization, and open opportunities for additional users of space, whether national, commercial, or international.
 
 &emsp;(5) A long term objective for human exploration of space should be the eventual international exploration of Mars.
 

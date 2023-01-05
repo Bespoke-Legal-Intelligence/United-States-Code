@@ -28,7 +28,7 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 #### (d) Oversight reporting and consultation requirements
 
-(1) Before the start of each fiscal year the President shall report to the Committees on the Judiciary of the House of Representatives and of the Senate regarding the foreseeable number of refugees who will be in need of resettlement during the fiscal year and the anticipated allocation of refugee admissions during the fiscal year. The President shall provide for periodic discussions between designated representatives of the President and members of such committees regarding changes in the worldwide refugee situation, the progress of refugee admissions, and the possible need for adjustments in the allocation of admissions among refugees.
+(1) Before the start of each fiscal year the President shall report to the Committees on the Judiciary of the House of Representatives and of the Senate regarding the foreseeable number of refugees who will be in need of resettlement during the fiscal year and the anticipated allocation of refugee admissions during the fiscal year. The President shall provide for periodic discussions between designated representativesof the President and members of such committees regarding changes in the worldwide refugee situation, the progress of refugee admissions, and the possible need for adjustments in the allocation of admissions among refugees.
 
 (2) As soon as possible after representatives of the President initiate appropriate consultation with respect to the number of refugee admissions under subsection (a) or with respect to the admission of refugees in response to an emergency refugee situation under subsection (b), the Committees on the Judiciary of the House of Representatives and of the Senate shall cause to have printed in the Congressional Record the substance of such consultation.
 
@@ -38,7 +38,7 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 #### (e) "Appropriate consultation" defined
 
-For purposes of this section, the term "appropriate consultation" means, with respect to the admission of refugees and allocation of refugee admissions, discussions in person by designated Cabinet-level representatives of the President with members of the Committees on the Judiciary of the Senate and of the House of Representatives to review the refugee situation or emergency refugee situation, to project the extent of possible participation of the United States therein, to discuss the reasons for believing that the proposed admission of refugees is justifiedby humanitarian concerns or grave humanitarian concerns or is otherwise in the national interest, and to provide such members with the following information:
+For purposes of this section, the term "appropriate consultation" means, with respect to the admission of refugees and allocation of refugee admissions, discussions in person by designated Cabinet-level representatives of the President with members of the Committees on the Judiciary of the Senate and of the House of Representatives to review the refugee situation or emergency refugee situation, to project the extent of possible participation of the United States therein, to discuss the reasons for believing that the proposed admission of refugees is justified by humanitarian concerns or grave humanitarian concerns or is otherwise in the national interest, and to provide such members with the following information:
 
 &emsp;(1) A description of the nature of the refugee situation.
 
@@ -118,7 +118,7 @@ Section (with the exception of subsec. (c) which is effective Apr. 1, 1980) effe
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Iraq Refugee Crisis
 
@@ -290,7 +290,7 @@ Iraqi special immigrant visa coordinator.—The Secretary of State shall designa
 
 &emsp;"(5)
 
-Evidence of serious threat.—A credible sworn statement depicting dangerous country conditions, together with official evidence of such country conditions from the United States Government, should be considered as a factor in determination of whether the alien has experienced or is experiencing an ongoing serious threat as a consequence of the alien's employment by the United States Government for purposes of paragraph (1)(D).
+Evidence of serious threat.—A credible sworn statement depicting dangerous country conditions, together with official evidence of such country conditions from the United States Government, should be considered as a factor in determination of whether the alien has experienced or is experiencing an ongoing serious threat as a consequence of thealien's employment by the United States Government for purposes of paragraph (1)(D).
 
 "(c)
 
@@ -342,7 +342,7 @@ Application deadline.—The principal alien seeking special immigrant status und
 
 "(d)
 
-Visa and Passport Issuance and Fees.—Neither the Secretary of State nor the Secretary of HomelandSecurity may charge an alien described in subsection (b) any fee in connection with an application for, or issuance of, a special immigrant visa. The Secretary of State shall make a reasonable effort to ensure that aliens described in this section who are issued special immigrant visas are provided with the appropriate series Iraqi passport necessary to enter the United States.
+Visa and Passport Issuance and Fees.—Neither the Secretary of State nor the Secretary of Homeland Security may charge an alien described in subsection (b) any fee in connection with an application for, or issuance of, a special immigrant visa. The Secretary of State shall make a reasonable effort to ensure that aliens described in this section who are issued special immigrant visas are provided with the appropriate series Iraqi passport necessary to enter the United States.
 
 "(e)
 
@@ -394,7 +394,7 @@ Designation of Additional Senior Coordinators.—The Secretary of State shall de
 
 "(a)
 
-Secretary of Homeland Security.—Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Homeland Security shall submit to the Committee on the Judiciary of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the Committee on the Judiciary of the Senate, and the Committee on Foreign Relations of the Senate a report containing plans to expedite the processing of Iraqi refugees for resettlement, including information relating to—
+Secretary of Homeland Security.—Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Homeland Security shall submit to the Committee on the Judiciary of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, the Committeeon the Judiciary of the Senate, and the Committee on Foreign Relations of the Senate a report containing plans to expedite the processing of Iraqi refugees for resettlement, including information relating to—
 
 &emsp;"(1) expediting the processing of Iraqi refugees for resettlement, including through temporary expansion of the Refugee Corps of United States Citizenship and Immigration Services;
 
@@ -756,7 +756,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[No
 
 #### Establishing Categories of Aliens for Purposes of Refugee Determinations
 
-Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, §534(m)(1), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(1), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(1), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, §7034(g)(1), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, §7034(f)(1), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, §2121(m)(1), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, §7034(r)(1), Dec. 23, 2011, 125 Stat. 1218; Pub. L. 113–6, div. F, title VII, §1706(h)(1), Mar. 26, 2013, 127 Stat. 430; Pub. L. 113–76, div. K, title VII, §7034(m)(8)(A), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–235, div. J, title VII, §7034(l)(8)(A), Dec. 16, 2014, 128 Stat. 2625; Pub. L. 114–113, div. K, title VII, §7034(k)(8)(A), Dec. 18, 2015, 129 Stat. 2765; Pub. L. 115–31, div. J, title VII, §7034(k)(5)(A), May 5, 2017, 131 Stat. 651; Pub. L. 115–141, div. K, title VII, §7034(l)(5)(A), Mar. 23, 2018, 132 Stat. 895; Pub. L. 116–6, div. F, title VII, §7034(m)(5)(A), Feb. 15, 2019, 133 Stat. 327; Pub. L. 116–94, div. G, title VII, §7034(l)(5)(A), Dec. 20, 2019, 133 Stat. 2873; Pub. L. 116–260, div. K, title VII, §7034(l)(5)(A), Dec. 27, 2020, 134 Stat. 1750, provided that:
+Pub. L. 101–167, title V, §599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, §598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, §582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(1)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII,§705(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(1)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, §213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, §213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, §213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, §534(m)(1), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, §20412(b)(1), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, §634(k)(1), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, §7034(g)(1), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, §7034(f)(1), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, §2121(m)(1), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, §7034(r)(1), Dec. 23, 2011, 125 Stat. 1218; Pub. L. 113–6, div. F, title VII, §1706(h)(1), Mar. 26, 2013, 127 Stat. 430; Pub. L. 113–76, div. K, title VII, §7034(m)(8)(A), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–235, div. J, title VII, §7034(l)(8)(A), Dec. 16, 2014, 128 Stat. 2625; Pub. L. 114–113, div. K, title VII, §7034(k)(8)(A), Dec. 18, 2015, 129 Stat. 2765; Pub. L. 115–31, div. J, title VII, §7034(k)(5)(A), May 5, 2017, 131 Stat. 651; Pub. L. 115–141, div. K, title VII, §7034(l)(5)(A), Mar. 23, 2018, 132 Stat. 895; Pub. L. 116–6, div. F, title VII, §7034(m)(5)(A), Feb. 15, 2019, 133 Stat. 327; Pub. L. 116–94, div. G, title VII, §7034(l)(5)(A), Dec. 20, 2019, 133 Stat. 2873; Pub. L. 116–260, div. K, title VII, §7034(l)(5)(A), Dec. 27, 2020, 134 Stat. 1750; Pub. L. 117–103, div. K, title VII, §7034(l)(5)(A), Mar. 15, 2022, 136 Stat. 623; Pub. L. 117–328, div. K, title VII, §7034(l)(2)(A), Dec. 29, 2022, 136 Stat. 5033, provided that:
 
 "(a)
 
@@ -770,7 +770,7 @@ Establishment of Categories.—
 
 &emsp;&emsp;"(A) one or more categories of aliens who are or were nationals and residents of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion,\[;\]
 
-&emsp;&emsp;"(B) one or more categories of aliens who are or were nationals and residents of Vietnam, Laos, orCambodia and who share common characteristics that identify them as targets of persecution in such respective foreign state on such an account; and
+&emsp;&emsp;"(B) one or more categories of aliens who are or were nationals and residents of Vietnam, Laos, or Cambodia and who share common characteristics that identify them as targets of persecution in such respective foreign state on such an account; and
 
 &emsp;&emsp;"(C) one or more categories of aliens who are or were nationals and residents of the Islamic Republic or Iran who, as members of a religious minority in Iran, share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion.
 
@@ -780,7 +780,7 @@ Establishment of Categories.—
 
 &emsp;"(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with 'Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing' (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B).
 
-&emsp;"(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, and 2021 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
+&emsp;"(3) Within the number of admissions of refugees allocated for for \[sic\] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act \[8 U.S.C. 1157(a)(3)\] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, and 2023 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B).
 
 "(c)
 
@@ -794,11 +794,11 @@ Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Eac
 
 Period of Application.—
 
-&emsp;"(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2021.
+&emsp;"(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act \[Nov. 21, 1989\] and shall only apply to applications for refugee status submitted before October 1, 2023.
 
-&emsp;"(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2021.
+&emsp;"(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2023.
 
-&emsp;"(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2021."
+&emsp;"(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2023."
 
 \[Pub. L. 109–102, §534(m)(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting "2005, and 2006" for "and 2005", could not be executed.\]
 
@@ -808,7 +808,7 @@ Period of Application.—
 
 \[Pub. L. 108–7, §213(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting "1997, 1998, 1999, 2000, 2001, 2002 and 2003" for "1997, 1998, 1999, 2000, and 2001", was executed by making the substitution for "1997, 1998, 1999, 2000, 2001, and 2002" to reflect the probable intent of Congress.\]
 
-\[Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of Title 22, Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of Title 22.\]
+\[Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and referencesto such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of Title 22, Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of Title 22.\]
 
 #### El Salvadoran Refugees
 
@@ -830,7 +830,7 @@ Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 126
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Refugee Act of 1980 (P.L. 96–212; 8 U.S.C. 1101 note), the Immigration and Nationality Act, as amended (8 U.S.C. 1101 et seq.), and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
-1–101. Exclusive of the functions otherwise delegated, or reserved to the President, by this Order, there are hereby delegated to the Secretary of State and the Secretary of Homeland Security, or either of them, the functions of initiating and carrying out appropriate consultations with members of the Committees on the Judiciary of the Senate and of the House of Representatives for purposes of Sections 101(a)(42)(B) and 207(a), (b), (d), and (e) of the Immigration and Nationality Act,as amended (8 U.S.C. 1101(a)(42)(B) and 1157(a), (b), (d), and (e)).
+1–101. Exclusive of the functions otherwise delegated, or reserved to the President, by this Order, there are hereby delegated to the Secretary of State and the Secretary of Homeland Security, or either of them, the functions of initiating and carrying out appropriate consultations with members of the Committees on the Judiciary of the Senate and of the House of Representatives for purposes of Sections 101(a)(42)(B) and 207(a), (b), (d), and (e) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(42)(B) and 1157(a), (b), (d), and (e)).
 
 1–102. There are reserved to the President the following functions under the Immigration and Nationality Act, as amended \[8 U.S.C. 1101 et seq.\].
 
@@ -872,7 +872,7 @@ Section 1. <i>Policy</i>. The long tradition of the United States as a leader in
 
 Sec. 2. <i>Revocation, Rescission, and Reporting</i>. (a) Executive Order 13815 of October 24, 2017 (Resuming the United States Refugee Admissions Program With Enhanced Vetting Capabilities) \[former 8 U.S.C. 1182 note\], and Executive Order 13888 of September 26, 2019 (Enhancing State and Local Involvement in Refugee Resettlement) \[former 8 U.S.C. 1522 note\], are revoked.
 
-(b) The Presidential Memorandum of March 6, 2017 (Implementing Immediate Heightened Screening and Vetting of Applications for Visas and Other Immigration Benefits, Ensuring Enforcement of All Laws for Entry Into the United States, and Increasing Transparency Among Departments and Agencies of the Federal Government and for the American People) \[former 8 U.S.C. 1182 note\], is revoked.
+(b) The Presidential Memorandum of March 6, 2017 (Implementing Immediate Heightened Screening andVetting of Applications for Visas and Other Immigration Benefits, Ensuring Enforcement of All Laws for Entry Into the United States, and Increasing Transparency Among Departments and Agencies of the Federal Government and for the American People) \[former 8 U.S.C. 1182 note\], is revoked.
 
 (c) Within 90 days of the date of this order \[Feb. 4, 2021\], the Secretary of State and the Secretary of Homeland Security shall provide a report to the President, through the Assistant to the President for National Security Affairs (APNSA), describing all agency actions, including memoranda or guidance documents, that were taken or issued in reliance on or in furtherance of the directives revoked by subsections (a) and (b) of this section. This report shall include recommendations regarding whether each action should be maintained, reversed, or modified, consistent with applicable law and as appropriate for the fair, efficient, and secure administration of the relevant humanitarian program or otherwise in the national interest.
 
@@ -926,7 +926,7 @@ Sec. 4. <i>Steps to Improve the Efficacy, Integrity, Security, and Transparency 
 
 (d) To increase refugee adjudication capacity, the Office of Personnel Management shall, consistent with applicable law, support the use of all hiring authorities, including expanded use of direct hiring authority, for positions associated with the adjudication of refugee applications.
 
-(e) Within 30 days of the date of this order, the heads of all agencies involved in the Security Advisory Opinion process and other inter-agency vetting processes for refugee applicants, including follow-to-join refugee applicants, shall submit data to the National Vetting Governance Board on the number of staff performing refugee security vetting, the thresholds for checks, and the rates at which checks have returned an objection. Such data shall be disaggregated by age range, gender, and nationality of the refugee applicant. The National Vetting Governance Board shall meet to consider if and how agency processes and staffing levels should change to improve security reviews and make refugee arrivals more efficient, and shall share any conclusions and recommendations with the heads of relevant agencies, including the Director of the Office of Management and Budget, in order to inform potential resourcing strategies where necessary.
+(e) Within 30 days of the date of this order, the heads of all agencies involved in the Security Advisory Opinion process and other inter-agency vetting processes for refugee applicants, including follow-to-join refugee applicants, shall submit data to the National Vetting Governance Board on the number of staff performingrefugee security vetting, the thresholds for checks, and the rates at which checks have returned an objection. Such data shall be disaggregated by age range, gender, and nationality of the refugee applicant. The National Vetting Governance Board shall meet to consider if and how agency processes and staffing levels should change to improve security reviews and make refugee arrivals more efficient, and shall share any conclusions and recommendations with the heads of relevant agencies, including the Director of the Office of Management and Budget, in order to inform potential resourcing strategies where necessary.
 
 (f) Within 60 days of the date of this order, agencies responsible for the Security Advisory Opinion process shall meet to consider proposals from member agencies to adjust the list of countries and other criteria that require a Security Advisory Opinion for a refugee case.
 
@@ -981,6 +981,8 @@ J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 2022–25, Sept. 27, 2022, 87 F.R. 60547.
 
 Presidential Determination No. 2022–02, Oct. 8, 2021, 86 F.R. 57527.
 

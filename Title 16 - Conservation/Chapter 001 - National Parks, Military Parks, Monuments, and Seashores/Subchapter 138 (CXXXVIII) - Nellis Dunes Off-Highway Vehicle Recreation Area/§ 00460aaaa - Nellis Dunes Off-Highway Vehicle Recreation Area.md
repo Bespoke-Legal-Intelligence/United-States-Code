@@ -102,7 +102,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;The approximately 10,035 acres of land identified on the Map as the "Nellis Dunes OHVRecreation Area" shall be known and designated as the "Nellis Dunes Off-Highway Vehicle Recreation Area".
+&emsp;The approximately 10,035 acres of land identified on the Map as the "Nellis Dunes OHV Recreation Area" shall be known and designated as the "Nellis Dunes Off-Highway Vehicle Recreation Area".
 
 #### (B) Management plan
 

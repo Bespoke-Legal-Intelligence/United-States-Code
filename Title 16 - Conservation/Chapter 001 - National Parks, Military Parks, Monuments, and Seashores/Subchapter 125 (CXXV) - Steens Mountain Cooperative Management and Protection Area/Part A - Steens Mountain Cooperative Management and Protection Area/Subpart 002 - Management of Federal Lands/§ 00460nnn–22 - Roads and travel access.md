@@ -20,7 +20,7 @@ The management plan shall include, as an integral part, a comprehensive transpor
 
 &emsp;&emsp;(A) is needed for administrative purposes or to respond to an emergency; or
 
-&emsp;&emsp;(B) is appropriate for the construction or maintenance of agricultural facilities, fishand wildlife management, or ecological restoration projects, except in areas designated as wilderness or managed under the provisions of section 1782(c) of title 43.
+&emsp;&emsp;(B) is appropriate for the construction or maintenance of agricultural facilities, fish and wildlife management, or ecological restoration projects, except in areas designated as wilderness or managed under the provisions of section 1782(c) of title 43.
 
 #### (c) Road closures
 

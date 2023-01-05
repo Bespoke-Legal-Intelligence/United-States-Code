@@ -18,7 +18,7 @@ Nonvoting members.—The following 2 nonvoting members:
 
 &emsp;(2) The following 14 voting members appointed by the Secretary:
 
-&emsp;&emsp;(A) Eight representatives of State levee safety agencies, one from each of the eightcivil works divisions of the Corps of Engineers.
+&emsp;&emsp;(A) Eight representatives of State levee safety agencies, one from each of the eight civil works divisions of the Corps of Engineers.
 
 &emsp;&emsp;(B) Two representatives of the private sector who have expertise in levee safety.
 
@@ -98,19 +98,17 @@ The committee shall, to the maximum extent practicable, coordinate the activitie
 
 &emsp;Each member of a standing committee shall serve in a voluntary capacity.
 
-#### (h) Applicability of Federal Advisory Committee Act
+#### (h) Applicability of chapter 10 of title 5
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the committee.
+Chapter 10 of title 5 shall not apply to the committee.
 
-(Pub. L. 110–114, title IX, §9003, Nov. 8, 2007, 121 Stat. 1288; Pub. L. 110–274, §1, July 15, 2008, 122 Stat. 2493; Pub. L. 113–121, title III, §3016(c), June 10, 2014, 128 Stat. 1291.)
+(Pub. L. 110–114, title IX, §9003, Nov. 8, 2007, 121 Stat. 1288; Pub. L. 110–274, §1, July 15, 2008, 122 Stat. 2493; Pub. L. 113–121, title III, §3016(c), June 10, 2014, 128 Stat. 1291; Pub. L. 117–286, §4(a)(207), Dec. 27, 2022, 136 Stat. 4328.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–286 substituted "chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–121, §3016(c)(1), added par. (1), redesignated par. (3) as (2), inserted "voting" after "14" in introductory provisions of par. (2), and struck out former pars. (1) and (2) which read as follows:
 

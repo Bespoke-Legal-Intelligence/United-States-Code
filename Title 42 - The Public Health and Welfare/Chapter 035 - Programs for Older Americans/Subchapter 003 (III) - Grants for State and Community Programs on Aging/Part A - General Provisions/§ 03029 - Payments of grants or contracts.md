@@ -2,7 +2,7 @@
 
 #### (a) Advances or reimbursement; installments; assistance in development of State plan
 
-Payments of grants or contracts under this subchapter may be made (after necessary adjustments resulting from previously made overpayments or underpayments) in advance or by way of reimbursement, and in such installments, asthe Assistant Secretary may determine. From a State's allotment for a fiscal year which is available under section 3028 of this title the Assistant Secretary may pay to a State which does not have a State plan approved under section 3027 of this title such amounts as the Assistant Secretary deems appropriate for the purpose of assisting such State in developing a State plan.
+Payments of grants or contracts under this subchapter may be made (after necessary adjustments resulting from previously made overpayments or underpayments) in advance or by way of reimbursement, and in such installments, as the Assistant Secretary may determine. From a State's allotment for a fiscal year which is available under section 3028 of this title the Assistant Secretary may pay to a State which does not have a State plan approved under section 3027 of this title such amounts as the Assistant Secretary deems appropriate for the purpose of assisting such State in developing a State plan.
 
 #### (b) Matching funds; percentage limitation
 
@@ -22,7 +22,7 @@ A State's allotment under section 3024 of this title for a fiscal year shall be 
 
 A prior section 3029, Pub. L. 89–73, title III, §309, as added Pub. L. 93–351, §3, July 12, 1974, 88 Stat. 357, related to transportation projects, prior to the general amendment of this subchapter by Pub. L. 95–478. See section 3026 of this title.
 
-Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §307, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44, which was classified to section 3027 of this title prior to repeal by Pub. L. 95–478.
+Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §307, as addedPub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 44, which was classified to section 3027 of this title prior to repeal by Pub. L. 95–478.
 
 #### Amendments
 

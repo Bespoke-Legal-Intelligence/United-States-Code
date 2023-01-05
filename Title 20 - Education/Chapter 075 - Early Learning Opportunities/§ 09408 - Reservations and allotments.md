@@ -2,7 +2,7 @@
 
 #### (a) Reservation for Indian tribes, Alaska Natives, and Native Hawaiians
 
-The Secretary shall reserve 1 percent of the total amount appropriated under section 9404 ofthis title for each fiscal year, to be allotted to Indian tribes, Regional Corporations, and Native Hawaiian entities, of which—
+The Secretary shall reserve 1 percent of the total amount appropriated under section 9404 of this title for each fiscal year, to be allotted to Indian tribes, Regional Corporations, and Native Hawaiian entities, of which—
 
 &emsp;(1) 0.5 percent shall be available to Indian tribes; and
 

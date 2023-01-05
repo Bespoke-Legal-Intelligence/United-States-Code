@@ -14,7 +14,7 @@
 
 (2) For purposes of this section, a material fact is one which the Commissioner of Social Security may consider in evaluating whether an applicant is entitled to benefits under subchapter II or subchapter VIII, or eligible for benefits or payments under subchapter XVI.
 
-(3) Any person (including an organization, agency, or other entity) who, having received, while acting in the capacity of a representative payee pursuant to section 405(j), 1007, or 1383(a)(2) of this title, a payment under subchapter II, VIII, or XVI for the use and benefit of another individual, converts such payment, or any part thereof, to a use that such person knows or should know is other than for the use and benefit of such other individual shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penaltyof not more than $5,000 for each such conversion. Such person shall also be subject to an assessment, in lieu of damages sustained by the United States resulting from the conversion, of not more than twice the amount of any payments so converted.
+(3) Any person (including an organization, agency, or other entity) who, having received, while acting in the capacity of a representative payee pursuant to section 405(j), 1007, or 1383(a)(2) of this title, a payment under subchapter II, VIII, or XVI for the use and benefit of another individual, converts such payment, or any part thereof, to a use that such person knows or should know is other than for the use and benefit of such other individual shall be subject to, in addition to any other penalties that may be prescribed by law, a civil money penalty of not more than $5,000 for each such conversion. Such person shall also be subject to an assessment, in lieu of damages sustained by the United States resulting from the conversion, of not more than twice the amount of any payments so converted.
 
 #### (b) Initiation of proceedings; hearing; sanctions
 
@@ -90,7 +90,7 @@ In determining pursuant to subsection (a) the amount or scope of any penalty or 
 
 &emsp;(A) In the case of amounts recovered arising out of a determination relating to subchapter II, the amounts shall be transferred to the Managing Trustee of the Federal Old-Age and Survivors Insurance Trust Fund or the Federal Disability Insurance Trust Fund, as determined appropriate by the Commissioner of Social Security, and such amounts shall be deposited by the Managing Trustee into such Trust Fund.
 
-&emsp;(B) In the case of any other amounts recovered under this section, the amounts shall be deposited by the Commissioner of Social Security into the general fund of the Treasury as miscellaneous receipts.
+&emsp;(B) In the case of any other amounts recovered under this section, the amounts shall bedeposited by the Commissioner of Social Security into the general fund of the Treasury as miscellaneous receipts.
 
 #### (f) Finality of determination respecting penalty, assessment, or exclusion
 
@@ -120,7 +120,7 @@ A principal is liable for penalties and assessments under subsection (a), and fo
 
 #### (l) Protection of ongoing criminal investigations
 
-As soon as the Inspector General, Social Security Administration, has reason to believe that fraud was involved in the application of an individual for monthly insurance benefits under subchapter II or for benefits under subchapter VIIIor XVI, the Inspector General shall make available to the Commissioner of Social Security information identifying the individual, unless a United States attorney, or equivalent State prosecutor, with jurisdiction over potential or actual related criminal cases, certifies, in writing, that there is a substantial risk that making the information so available in a particular investigation or redetermining the eligibility of the individual for such benefits would jeopardize the criminal prosecution of any person who is a subject of the investigation from which the information is derived.
+As soon as the Inspector General, Social Security Administration, has reason to believe that fraud was involved in the application of an individual for monthly insurance benefits under subchapter II or for benefits under subchapter VIII or XVI, the Inspector General shall make available to the Commissioner of Social Security information identifying the individual, unless a United States attorney, or equivalent State prosecutor, with jurisdiction over potential or actual related criminal cases, certifies, in writing, that there is a substantial risk that making the information so available in a particular investigation or redetermining the eligibility of the individual for such benefits would jeopardize the criminal prosecution of any person who is a subject of the investigation from which the information is derived.
 
 (Aug. 14, 1935, ch. 531, title XI, §1129, as added and amended Pub. L. 103–296, title I, §108(b)(10)(A), title II, §206(b)(1), (e)(1), Aug. 15, 1994, 108 Stat. 1483, 1509, 1515; Pub. L. 106–169, title II, §251(b)(6), Dec. 14, 1999, 113 Stat. 1855; Pub. L. 108–203, title I, §111(a), title II, §201(a)(1), (b), (c), Mar. 2, 2004, 118 Stat. 507, 508; Pub. L. 114–74, title VIII, §813(c), Nov. 2, 2015, 129 Stat. 603.)
 

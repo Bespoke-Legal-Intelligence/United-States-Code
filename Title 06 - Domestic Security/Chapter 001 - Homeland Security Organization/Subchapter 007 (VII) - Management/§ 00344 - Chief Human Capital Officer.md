@@ -8,7 +8,7 @@ The Chief Human Capital Officer shall report directly to the Under Secretary for
 
 In addition to the responsibilities set forth in chapter 14 of title 5 and other applicable law, the Chief Human Capital Officer of the Department shall—
 
-&emsp;(1) develop and implement strategic workforce planning policies, including with respectto leader development and employee engagement, that are consistent with Government-wide leading principles, in line with Department strategic human capital goals and priorities, and informed by best practices within the Federal Government and the private sector, taking into account the special requirements of members of the Armed Forces serving in the Coast Guard;
+&emsp;(1) develop and implement strategic workforce planning policies, including with respect to leader development and employee engagement, that are consistent with Government-wide leading principles, in line with Department strategic human capital goals and priorities, and informed by best practices within the Federal Government and the private sector, taking into account the special requirements of members of the Armed Forces serving in the Coast Guard;
 
 &emsp;(2) use performance measures to evaluate, on an ongoing basis, Department-wide strategic workforce planning efforts;
 
@@ -48,7 +48,7 @@ In addition to the responsibilities set forth in chapter 14 of title 5 and other
 
 #### (d) Chief Learning and Engagement Officer
 
-The Chief Human Capital Officer may designate an employee of the Department to serve as a Chief Learning and Engagement Officer to assist the Chief Human Capital Officer in carrying out this section.
+The Chief Human Capital Officer may designate an employee of the Department to serveas a Chief Learning and Engagement Officer to assist the Chief Human Capital Officer in carrying out this section.
 
 #### (e) Annual submission
 

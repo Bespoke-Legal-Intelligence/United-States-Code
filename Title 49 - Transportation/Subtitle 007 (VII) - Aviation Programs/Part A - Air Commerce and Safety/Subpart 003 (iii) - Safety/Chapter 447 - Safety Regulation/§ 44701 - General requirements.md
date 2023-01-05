@@ -64,7 +64,7 @@ Conditions.—The Administrator may predicate, in the agreement, the transfer of
 
 Registered aircraft defined.—In this subsection, the term "registered aircraft" means—
 
-&emsp;&emsp;(A) aircraft registered in the United States and operated pursuant to an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in another country; and
+&emsp;&emsp;(A) aircraft registered in the United States and operated pursuant to an agreement forthe lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in another country; and
 
 &emsp;&emsp;(B) aircraft registered in a foreign country and operated under an agreement for the lease, charter, or interchange of the aircraft or any similar arrangement by an operator that has its principal place of business or, if it has no such place of business, its permanent residence in the United States.
 
@@ -100,7 +100,7 @@ Alternative means of compliance.—The Administrator may—
 
 &emsp;&emsp;(D)
 
-Limitation.—The Administrator may not accept an airworthiness directive issuedby an aeronautical safety authority of a foreign country if the airworthiness directive addresses matters other than those involving the safe operation of an aircraft.
+Limitation.—The Administrator may not accept an airworthiness directive issued by an aeronautical safety authority of a foreign country if the airworthiness directive addresses matters other than those involving the safe operation of an aircraft.
 
 (f)
 
@@ -208,6 +208,16 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
+#### Letter of Deviation Authority
+
+Pub. L. 117–263, div. E, title LVI, §5604, Dec. 23, 2022, 136 Stat. 3406, provided that: "A flight instructor, registered owner, lessor, or lessee of an aircraft shall not be required to obtain a letter of deviation authority from the Administrator of the Federal Aviation Administration to allow, conduct or receive flight training, checking, and testing in an experimental aircraft if—
+
+&emsp;"(1) the flight instructor is not providing both the training and the aircraft;
+
+&emsp;"(2) no person advertises or broadly offers the aircraft as available for flight training, checking, or testing; and
+
+&emsp;"(3) no person receives compensation for use of the aircraft for a specific flight during which flight training, checking, or testing was received, other than expenses for owning, operating, and maintaining the aircraft."
+
 #### Safety Management Systems
 
 Pub. L. 116–260, div. V, title I, §102(a)–(f), Dec. 27, 2020, 134 Stat. 2309, 2310, provided that:
@@ -268,7 +278,7 @@ In General.—Not later than 60 days after the date of enactment of this title \
 
 &emsp;"(1) the inspectors, human factors specialists, flight test pilots, engineers, managers, and executives in the FAA who are responsible for the certification of the design, manufacture, and operation of aircraft intended for air transportation for purposes of determining whether the FAA has the expertise and capability to adequately understand the safety implications of, and oversee the adoption of, new or innovative technologies, materials, and procedures used by designers and manufacturers of such aircraft; and
 
-&emsp;"(2) the Senior Technical Experts Program to determine whether the program should be enhanced or expanded to bolster and support the programs of the FAA's Office of Aviation Safety, with particular focus placed on the Aircraft Certification Service and the Flight Standards Service (or any successor organizations), particularly with respect to understanding the safety implications of new or innovative technologies, materials, aircraft operations, and procedures used by designers and manufacturers of such aircraft.
+&emsp;"(2) the Senior Technical Experts Program to determine whether the program should be enhanced or expanded to bolster and support the programs of the FAA's Office of Aviation Safety, with particular focus placed on the Aircraft Certification Service and the Flight Standards Service (or any successor organizations), particularly with respect to understandingthe safety implications of new or innovative technologies, materials, aircraft operations, and procedures used by designers and manufacturers of such aircraft.
 
 "(c)
 
@@ -374,7 +384,7 @@ Report to Congress.—Not later than 2 years after the date of enactment of this
 
 #### FAA Safety Oversight and Certification and Performance Metrics
 
-Pub. L. 115–254, div. B, title II, §§201, 202, 211, 221, 223, 224, 243, Oct. 5, 2018, 132 Stat. 3242, 3246, 3252, 3254, 3255, 3259, as amended by Pub. L. 116–260, div. V, title I, §129, Dec. 27, 2020, 134 Stat. 2349, provided that:
+Pub. L. 115–254, div. B, title II, §§201, 202, 211, 221, 223, 224, 243, Oct. 5, 2018, 132 Stat. 3242, 3246, 3252, 3254, 3255,3259, as amended by Pub. L. 116–260, div. V, title I, §129, Dec. 27, 2020, 134 Stat. 2349, provided that:
 
 #### "SEC. 201. DEFINITIONS.
 
@@ -594,7 +604,7 @@ Rulemaking advice.—A special committee established by the Advisory Committee m
 
 &emsp;"(3)
 
-Applicable law.—Public Law 92–463 \[the Federal Advisory Committee Act, 5 U.S.C. App.\] shall not apply to a special committee established by the Advisory Committee.
+Applicable law.—Public Law 92–463 \[the Federal Advisory Committee Act, see 5 U.S.C. 1001 et seq.\] shall not apply to a special committee established by the Advisory Committee.
 
 "(h)
 
@@ -804,7 +814,7 @@ Report on audit.—
 
 &emsp;&emsp;"(A)
 
-Report to secretary.—Not later than 30 days after the date of completion of the audit, the Inspector General shall submit to the Secretary a report on the results of the audit.
+Report to secretary.—Not later than 30 days after the date of completion of the audit, theInspector General shall submit to the Secretary a report on the results of the audit.
 
 &emsp;&emsp;"(B)
 
@@ -876,7 +886,7 @@ Authority.—Notwithstanding any other provision of law, the Administrator shall
 
 "(e)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportationof the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the results of the study required under subsection (a), including the recommendations described in subsection (c).
+Report.—Not later than 1 year after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report on the results of the study required under subsection (a), including the recommendations described in subsection (c).
 
 "(f)
 
@@ -920,7 +930,7 @@ Considerations.—The Administrator shall direct the aviation rulemaking committ
 
 &emsp;"(4) data gathered from aviation safety reporting programs;
 
-&emsp;"(5) the need to accommodate the diversity of operations conducted under part 135, including the unique duty and rest time requirements of air ambulance pilots; and
+&emsp;"(5) the need to accommodate the diversity of operations conducted under part 135, including the uniqueduty and rest time requirements of air ambulance pilots; and
 
 &emsp;"(6) other items, as appropriate."
 
@@ -1122,7 +1132,7 @@ Duties.—The interagency working group shall consult with relevant stakeholders
 
 "(d)
 
-Update.—Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall provide to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] anupdate on the status of the public awareness campaign required under subsection (a)."
+Update.—Not later than 1 year after the date of enactment of this Act, the Secretary of Transportation shall provide to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] an update on the status of the public awareness campaign required under subsection (a)."
 
 #### Cockpit Automation Management
 
@@ -1234,7 +1244,7 @@ Goals of Program.—The goals of the NOTAM Improvement Program are—
 
 "(c)
 
-Advice From Private Sector Groups.—The Administrator shall establish a NOTAM Improvement Panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviationpilot groups, to advise the Administrator in carrying out the goals of the NOTAM Improvement Program under this section.
+Advice From Private Sector Groups.—The Administrator shall establish a NOTAM Improvement Panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, to advise the Administrator in carrying out the goals of the NOTAM Improvement Program under this section.
 
 "(d)
 
@@ -1490,7 +1500,7 @@ Lithium Battery Air Safety Advisory Committee.—
 
 &emsp;"(1)
 
-Establishment.—Not later than 60 days after the date of enactment of this Act \[Oct. 5, 2018\], the Secretary shall establish, in accordance with the requirements of the Federal Advisory Committee Act (5 U.S.C. App.), a lithium ion and lithium metal battery air safety advisory committee (in this subsection referred to as the 'Committee').
+Establishment.—Not later than 60 days after the date of enactment of this Act \[Oct. 5, 2018\], the Secretary shall establish, in accordance with the requirements of the Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], a lithium ion and lithium metal battery air safety advisory committee (in this subsection referred to as the 'Committee').
 
 &emsp;"(2)
 
@@ -1674,7 +1684,7 @@ ICAO Technical Instructions Defined.—In this section, the term 'ICAO Technical
 
 #### Airline Safety and Pilot Training Improvement
 
-Pub. L. 111–216, title II, Aug. 1, 2010, 124 Stat. 2350, as amended by Pub. L. 111–249, §6, Sept. 30, 2010, 124 Stat. 2628, provided that:
+Pub. L. 111–216, title II, Aug. 1, 2010, 124 Stat. 2350, as amended by Pub. L. 111–249, §6, Sept. 30, 2010, 124 Stat. 2628; Pub. L. 117–286, §4(a)(315), Dec. 27, 2022, 136 Stat. 4340, provided that:
 
 #### "SEC. 201. DEFINITIONS.
 
@@ -1764,7 +1774,11 @@ Termination.—The Task Force shall terminate on September 30, 2012.
 
 "(f)
 
-Applicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Task Force.
+Applicability of Chapter 10
+
+of Title 5
+
+, United States Code.—Chapter 10 of title 5, United States Code, shall not apply to the Task Force.
 
 #### "SEC. 205. AVIATION SAFETY INSPECTORS AND OPERATIONAL RESEARCH ANALYSTS.
 
@@ -1810,7 +1824,7 @@ In general.—The Administrator of the Federal Aviation Administration shall con
 
 &emsp;&emsp;"(B) Establish flight crewmember professional development committees made up of air carrier management and labor union or professional association representatives to develop, administer, and oversee formal mentoring programs of the carrier to assist flight crewmembers to reach their maximum potential as safe, seasoned, and proficient flight crewmembers.
 
-&emsp;&emsp;"(C) Establish or modify training programs to accommodate substantially different levels and typesof flight experience by newly employed flight crewmembers.
+&emsp;&emsp;"(C) Establish or modify training programs to accommodate substantially different levels and types of flight experience by newly employed flight crewmembers.
 
 &emsp;&emsp;"(D) Establish or modify training programs for second-in-command flight crewmembers attempting to qualify as pilot-in-command flight crewmembers for the first time in a specific aircraft type and ensure that such programs include leadership and command training.
 
@@ -2280,7 +2294,7 @@ Numbers of flight hours.—The total flight hours required by the Administrator 
 
 &emsp;"(2)
 
-Flight hours in difficult operational conditions.—The total flight hours required by the Administrator under subsection (b)(1) shall include sufficient flight hours, as determined by the Administrator, in difficult operational conditions that may be encountered by an air carrier to enable a pilot to operate safely in such conditions.
+Flight hours in difficult operational conditions.—The total flight hours required by the Administrator under subsection (b)(1) shall include sufficient flight hours, as determined by the Administrator, in difficult operational conditions that maybe encountered by an air carrier to enable a pilot to operate safely in such conditions.
 
 "(d)
 
@@ -2366,7 +2380,7 @@ Required Contents.—At a minimum, the report shall indicate—
 
 &emsp;"(1) any funding or staffing constraints that would adversely impact the Administration's ability to continue to develop and implement the air transportation oversight system;
 
-&emsp;"(2) progress in integrating the aviation safety data derived from such system's inspections with existingaviation data of the Administration in the safety performance analysis system of the Administration; and
+&emsp;"(2) progress in integrating the aviation safety data derived from such system's inspections with existing aviation data of the Administration in the safety performance analysis system of the Administration; and
 
 &emsp;"(3) the Administration's efforts in collaboration with the aviation industry to develop and validate safety performance measures and appropriate risk weightings for such system.
 

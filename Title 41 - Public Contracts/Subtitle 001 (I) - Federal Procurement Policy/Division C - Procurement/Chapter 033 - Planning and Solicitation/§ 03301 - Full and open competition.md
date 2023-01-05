@@ -88,7 +88,7 @@ Pub. L. 98–369, div. B, title VII, §2711(c), July 18, 1984, 98 Stat. 1181, pr
 
 #### Pilot Programs for Authority To Acquire Innovative Commercial Items Using General Solicitation Competitive Procedures
 
-Pub. L. 114–328, div. A, title VIII, §880, Dec. 23, 2016, 130 Stat. 2313, as amended by Pub. L. 115–232, div. A, title VIII, §836(f)(10), Aug. 13, 2018, 132 Stat. 1872, provided that:
+Pub. L. 114–328, div. A, title VIII, §880, Dec. 23, 2016, 130 Stat. 2313, as amended by Pub. L. 115–232, div. A, title VIII, §836(f)(10), Aug. 13, 2018, 132 Stat. 1872; Pub. L. 117–263, div. G, title LXXII, §7227(a), Dec. 23, 2022, 136 Stat. 3675, provided that:
 
 "(a)
 
@@ -120,7 +120,7 @@ Treatment as Competitive Procedures.—Use of general solicitation competitive p
 
 "(c)
 
-Limitation.—The head of an agency may not enter into a contract under the pilot program for an amount in excess of $10,000,000.
+Limitation.—The head of an agency may not enter into a contract under the pilot program for an amount in excess of $25,000,000.
 
 "(d)
 
@@ -154,15 +154,23 @@ Specified congressional committees.—The congressional committees specified in 
 
 "(f)
 
-Innovative Defined.—In this section, the term 'innovative' means—
+Definitions.—In this section—
 
-&emsp;"(1) any new technology, process, or method, including research and development; or
+&emsp;"(1) the term 'commercial product'—
 
-&emsp;"(2) any new application of an existing technology, process, or method.
+&emsp;&emsp;"(A) has the meaning given the term 'commercial item' in section 2.101 of the Federal Acquisition Regulation; and
+
+&emsp;&emsp;"(B) includes a commercial product or a commercial service, as defined in sections 103 and 103a, respectively, of title 41, United States Code; and
+
+&emsp;"(2) the term 'innovative' means—
+
+&emsp;&emsp;"(A) any new technology, process, or method, including research and development; or
+
+&emsp;&emsp;"(B) any new application of an existing technology, process, or method.
 
 "(g)
 
-Termination.—The authority to enter into a contract under a pilot program under this section terminates on September 30, 2022."
+Termination.—The authority to enter into a contract under a pilot program under this section terminates on September 30, 2027."
 
 #### Governmentwide Software Purchasing Program
 

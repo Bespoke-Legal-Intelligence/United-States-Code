@@ -32,7 +32,7 @@ Section 10(d) of the Railroad Unemployment Insurance Act, referred to in subsec.
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–647, §7106(a), amended section generally, revising and restating provisions of subsecs. (a) and (b) and specifying imposition of 4 percent tax on rail wages rather than a tax based on the "applicable percentage" of rail wages, and in subsec. (c) substituting provisions relating to termination if loans to railroad unemployment fund repaid for provisions relating to rates of tax.
+<b>1988</b>—Pub. L. 100–647, §7106(a), amended section generally, revising and restating provisions of subsecs. (a)and (b) and specifying imposition of 4 percent tax on rail wages rather than a tax based on the "applicable percentage" of rail wages, and in subsec. (c) substituting provisions relating to termination if loans to railroad unemployment fund repaid for provisions relating to rates of tax.
 
 Pub. L. 100–647, §1018(u)(17), added a period at end of par. (4).
 
@@ -60,7 +60,7 @@ Subsequent taxable periods.—The applicable percentage for any taxable period b
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 1018(u)(17) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by section 1018(u)(17) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title VII, §7106(d), Nov. 10, 1988, 102 Stat. 3774, provided that: "The amendments made by this section \[amending this section and sections 3322, 6157, 6201, 6317, 6513, and 6601 of this title, omitting section 3323 of this title, and amending provisions set out as a note under section 231n of Title 45, Railroads\], and the provisions of subsection (b) \[set out below\], shall apply to remuneration paid after December 31, 1988."
 

@@ -8,7 +8,8 @@
 | [6414\.](%C2%A7%2006414%20-%20Income%20tax%20withheld.md) | Income tax withheld. |
 | [6415\.](%C2%A7%2006415%20-%20Credits%20or%20refunds%20to%20persons%20who%20collected%20certain%20taxes.md) | Credits or refunds to persons who collected certain taxes. |
 | [6416\.](%C2%A7%2006416%20-%20Certain%20taxes%20on%20sales%20and%20services.md) | Certain taxes on sales and services. |
-| \[6417, 6418. Repealed.\] |  |
+| [6417\.](%C2%A7%2006417%20-%20Elective%20payment%20of%20applicable%20credits.md) | Elective payment of applicable credits. |
+| [6418\.](%C2%A7%2006418%20-%20Transfer%20of%20certain%20credits.md) | Transfer of certain credits. |
 | [6419\.](%C2%A7%2006419%20-%20Excise%20tax%20on%20wagering.md) | Excise tax on wagering. |
 | [6420\.](%C2%A7%2006420%20-%20Gasoline%20used%20on%20farms.md) | Gasoline used on farms. |
 | [6421\.](%C2%A7%2006421%20-%20Gasoline%20used%20for%20certain%20nonhighway%20purposes%2C%20used%20by%20local%20transit%20systems%2C%20or%20sold%20for%20certain%20exempt%20purposes.md) | Gasoline used for certain nonhighway purposes, used by local transit systems, or sold for certain exempt purposes. |
@@ -25,12 +26,17 @@
 | [6430\.](%C2%A7%2006430%20-%20Treatment%20of%20tax%20imposed%20at%20Leaking%20Underground%20Storage%20Tank%20Trust%20Fund%20financing%20rate.md) | Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate. |
 | \[6431. | Repealed.\] |
 | [6432\.](%C2%A7%2006432%20-%20Continuation%20coverage%20premium%20assistance.md) | Continuation coverage premium assistance. |
+| [6433\.](%C2%A7%2006433%20-%20Saver%27s%20Match.md) | Saver's Match. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–328, div. T, title I, §103(e)(2), Dec. 29, 2022, 136 Stat. 5286, added item 6433.
+
+Pub. L. 117–169, title I, §13801(e), Aug. 16, 2022, 136 Stat. 2013, added items 6417 and 6418.
 
 <b>2021</b>—Pub. L. 117–2, title IX, §§9501(b)(1)(B), 9601(c)(3)(B), Mar. 11, 2021, 135 Stat. 136, 143, added items 6428B and 6432.
 
@@ -107,8 +113,8 @@ Act Apr. 2, 1956, ch. 160, §4(c), 70 Stat. 91, added item 6420 and renumbered f
 - [&sect; 06414 - Income tax withheld](%C2%A7%2006414%20-%20Income%20tax%20withheld.md)
 - [&sect; 06415 - Credits or refunds to persons who collected certain taxes](%C2%A7%2006415%20-%20Credits%20or%20refunds%20to%20persons%20who%20collected%20certain%20taxes.md)
 - [&sect; 06416 - Certain taxes on sales and services](%C2%A7%2006416%20-%20Certain%20taxes%20on%20sales%20and%20services.md)
-- [&sect; 06417 - Repealed. Pub. L. 94&#8211;455, title XIX, &sect;1906(a)(25), Oct. 4, 1976, 90 Stat. 1827](%C2%A7%2006417%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93455%2C%20title%20XIX%2C%20%C2%A71906%28a%29%2825%29%2C%20Oct.%204%2C%201976%2C%2090%20Stat.%201827.md)
-- [&sect; 06418 - Repealed. Pub. L. 101&#8211;508, title XI, &sect;11801(c)(22)(B)(i), Nov. 5, 1990, 104 Stat. 1388&#8211;528](%C2%A7%2006418%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93508%2C%20title%20XI%2C%20%C2%A711801%28c%29%2822%29%28B%29%28i%29%2C%20Nov.%205%2C%201990%2C%20104%20Stat.%201388%E2%80%93528.md)
+- [&sect; 06417 - Elective payment of applicable credits](%C2%A7%2006417%20-%20Elective%20payment%20of%20applicable%20credits.md)
+- [&sect; 06418 - Transfer of certain credits](%C2%A7%2006418%20-%20Transfer%20of%20certain%20credits.md)
 - [&sect; 06419 - Excise tax on wagering](%C2%A7%2006419%20-%20Excise%20tax%20on%20wagering.md)
 - [&sect; 06420 - Gasoline used on farms](%C2%A7%2006420%20-%20Gasoline%20used%20on%20farms.md)
 - [&sect; 06421 - Gasoline used for certain nonhighway purposes, used by local transit systems, or sold for certain exempt purposes](%C2%A7%2006421%20-%20Gasoline%20used%20for%20certain%20nonhighway%20purposes%2C%20used%20by%20local%20transit%20systems%2C%20or%20sold%20for%20certain%20exempt%20purposes.md)
@@ -125,3 +131,4 @@ Act Apr. 2, 1956, ch. 160, §4(c), 70 Stat. 91, added item 6420 and renumbered f
 - [&sect; 06430 - Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate](%C2%A7%2006430%20-%20Treatment%20of%20tax%20imposed%20at%20Leaking%20Underground%20Storage%20Tank%20Trust%20Fund%20financing%20rate.md)
 - [&sect; 06431 - Repealed. Pub. L. 115&#8211;97, title I, &sect;13404(b), Dec. 22, 2017, 131 Stat. 2138](%C2%A7%2006431%20-%20Repealed.%20Pub.%20L.%20115%E2%80%9397%2C%20title%20I%2C%20%C2%A713404%28b%29%2C%20Dec.%2022%2C%202017%2C%20131%20Stat.%202138.md)
 - [&sect; 06432 - Continuation coverage premium assistance](%C2%A7%2006432%20-%20Continuation%20coverage%20premium%20assistance.md)
+- [&sect; 06433 - Saver's Match](%C2%A7%2006433%20-%20Saver%27s%20Match.md)

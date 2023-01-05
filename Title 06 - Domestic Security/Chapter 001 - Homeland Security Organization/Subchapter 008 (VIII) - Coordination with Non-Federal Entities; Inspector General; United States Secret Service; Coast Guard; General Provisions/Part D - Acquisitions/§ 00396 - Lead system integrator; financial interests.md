@@ -18,7 +18,7 @@ An entity described in subsection (a) may have a direct financial interest in th
 
 #### (c) Construction
 
-Nothing in this section shall be construed to preclude an entity described in subsection (a) from performing work necessary to integrate two or more individual systems or elements of a system of systems with each other.
+Nothing in this section shall be construed to preclude an entity described in subsection (a)from performing work necessary to integrate two or more individual systems or elements of a system of systems with each other.
 
 #### (d) Regulations update
 

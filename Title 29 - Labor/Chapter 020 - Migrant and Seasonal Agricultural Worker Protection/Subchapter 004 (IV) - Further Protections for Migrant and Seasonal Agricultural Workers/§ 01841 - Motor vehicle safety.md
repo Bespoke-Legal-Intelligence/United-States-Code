@@ -34,7 +34,7 @@
 
 (D) In the event that the Secretary fails for any reason to prescribe standards under subparagraph (A) by the effective date of this chapter, the standards prescribed under section 31502 of title 49, relating to the transportation of migrant workers, shall, for purposes of paragraph (1)(A), be deemed to be the standards prescribed by the Secretary under this paragraph, and shall, as appropriate and reasonable in the circumstances, apply (i) without regard to the mileage and boundary line limitations contained in such section, and (ii) until superseded by standards actually prescribed by the Secretary in accordance with this paragraph.
 
-(3) The level of insurance required under paragraph (1)(C) shall be determined by the Secretary considering at least the factors set forthin paragraph (2)(B) and similar farmworker transportation requirements under State law.
+(3) The level of insurance required under paragraph (1)(C) shall be determined by the Secretary considering at least the factors set forth in paragraph (2)(B) and similar farmworker transportation requirements under State law.
 
 #### (c) Adjustments of insurance requirements in the event of workers' compensation coverage
 
@@ -62,7 +62,7 @@ In subsec. (b)(2)(D), "section 31502 of title 49" substituted for "section 3102 
 
 #### Amendments
 
-<b>1995</b>—Subsec. (b)(2)(C). Pub. L. 104–88 substituted "part B of subtitle IV of title 49" for "part II of the Interstate Commerce Act, or any successor provision of subtitle IV of title 49".
+<b>1995</b>—Subsec. (b)(2)(C). Pub. L. 104–88 substituted "part B of subtitle IV of title 49" for "part II of theInterstate Commerce Act, or any successor provision of subtitle IV of title 49".
 
 Subsec. (b)(3). Pub. L. 104–49 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The level of the insurance required by paragraph (1)(C) shall be at least the amount currently required for common carriers of passengers under part II of the Interstate Commerce Act, and any successor provision of subtitle IV of title 49, and regulations prescribed thereunder."
 

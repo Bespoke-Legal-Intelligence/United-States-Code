@@ -40,7 +40,7 @@
 
 #### (4) Preparation of final order
 
-&emsp;After notice and opportunity for public comment under paragraph (2) regarding a proposedorder, the Secretary shall take into consideration the comments received in preparing a final order. The Secretary shall ensure that the final order is in conformity with the terms, conditions, and requirements of this subchapter.
+&emsp;After notice and opportunity for public comment under paragraph (2) regarding a proposed order, the Secretary shall take into consideration the comments received in preparing a final order. The Secretary shall ensure that the final order is in conformity with the terms, conditions, and requirements of this subchapter.
 
 #### (c) Issuance and effective date
 

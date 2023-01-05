@@ -36,7 +36,7 @@ Monthly Assistance Allowance.—(1) Subject to the availability of appropriation
 
 (3) In providing assistance under this subsection, the Secretary shall give priority to veterans with service-connected disabilities.
 
-(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2022.
+(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2026.
 
 (e)
 
@@ -56,7 +56,7 @@ Applicability to Commonwealths and Territories of the United States.—The provi
 
 Limitation on Statutory Construction.—Nothing in this section shall be construed as a limitation on disabled sports and special events supported by the Department as of the date of the enactment of this section.
 
-(Added Pub. L. 110–389, title VII, §703(a), Oct. 10, 2008, 122 Stat. 4183; amended Pub. L. 113–37, §2(a), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §4, Dec. 20, 2013, 127 Stat. 659; Pub. L. 114–58, title IV, §402, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–223, div. A, title II, §249, Sept. 29, 2016, 130 Stat. 892; Pub. L. 114–228, title IV, §403, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §403, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §163, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title IV, §5401, Oct. 1, 2020, 134 Stat. 751.)
+(Added Pub. L. 110–389, title VII, §703(a), Oct. 10, 2008, 122 Stat. 4183; amended Pub. L. 113–37, §2(a), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §4, Dec. 20, 2013, 127 Stat. 659; Pub. L. 114–58, title IV, §402, Sept. 30, 2015, 129 Stat. 534; Pub. L. 114–223, div. A, title II, §249, Sept. 29, 2016, 130 Stat. 892; Pub. L. 114–228, title IV, §403, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §403, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §163, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title IV, §5401, Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title IV, §401, Sept. 30, 2022, 136 Stat. 2139.)
 
 #### <b>Editorial Notes</b>
 
@@ -65,6 +65,8 @@ Limitation on Statutory Construction.—Nothing in this section shall be constru
 The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 110–389, which was approved Oct. 10, 2008.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(4). Pub. L. 117–180 substituted "2026" for "2022".
 
 <b>2020</b>—Subsec. (d)(4). Pub. L. 116–159 substituted "2022" for "2020".
 
@@ -78,7 +80,7 @@ Subsec. (d)(4). Pub. L. 114–228 substituted "2017" for "2016".
 
 <b>2015</b>—Subsec. (d)(4). Pub. L. 114–58 substituted "2016" for "2015".
 
-<b>2013</b>—Subsec. (b)(4). Pub. L. 113–59, §4(b), substituted "cooperate with entities with significant experience in managing large-scale adaptive sports programs;" for "cooperate with the United States Olympic Committee and its partners to promote the participation of disabled veterans and disabled members of the Armed Forces in sporting events sponsored by the United States Olympic Committee and its partners;".
+<b>2013</b>—Subsec. (b)(4). Pub. L. 113–59, §4(b), substituted "cooperate with entities with significant experience in managing large-scale adaptive sports programs;" for "cooperate with the United States Olympic Committeeand its partners to promote the participation of disabled veterans and disabled members of the Armed Forces in sporting events sponsored by the United States Olympic Committee and its partners;".
 
 Pub. L. 113–37, §2(a)(2), substituted "United States Olympic Committee" for "United States Paralympics, Inc.," in two places.
 

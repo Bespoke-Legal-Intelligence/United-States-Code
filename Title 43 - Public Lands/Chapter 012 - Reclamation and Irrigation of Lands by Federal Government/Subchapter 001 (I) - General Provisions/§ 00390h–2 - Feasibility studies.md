@@ -6,7 +6,7 @@ The Secretary is authorized to participate with appropriate Federal, State, regi
 
 #### (b) Federal share considered project costs; reimbursement
 
-The Federal share of feasibility studies, including those described in sections 390h–4 and390h–6 through 390h–8 of this title, shall be considered as project costs and shall be reimbursed in accordance with the Federal reclamation laws, if the project studied is implemented.
+The Federal share of feasibility studies, including those described in sections 390h–4 and 390h–6 through 390h–8 of this title, shall be considered as project costs and shall be reimbursed in accordance with the Federal reclamation laws, if the project studied is implemented.
 
 #### (c) Matters to be considered
 

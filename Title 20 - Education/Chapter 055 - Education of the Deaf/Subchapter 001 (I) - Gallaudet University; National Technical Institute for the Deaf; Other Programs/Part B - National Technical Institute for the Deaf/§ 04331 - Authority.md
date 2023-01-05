@@ -1,6 +1,6 @@
 ### §4331. Authority
 
-For the purpose of providing a residential facility for postsecondary technical training and education for individuals who are deaf in order to prepare them for successful employment, the institution of higher education with which the Secretary has an agreement under this part is authorized to operate and maintain a National Technical Institute for the Deaf.
+For the purpose of providing a residential facility for postsecondary technical training andeducation for individuals who are deaf in order to prepare them for successful employment, the institution of higher education with which the Secretary has an agreement under this part is authorized to operate and maintain a National Technical Institute for the Deaf.
 
 (Pub. L. 99–371, title I, §111, formerly title II, §201, Aug. 4, 1986, 100 Stat. 784; renumbered title I, §111, Pub. L. 102–421, title I, §101(b)(3), (4), Oct. 16, 1992, 106 Stat. 2151; Pub. L. 103–73, title II, §203(f), Aug. 11, 1993, 107 Stat. 734.)
 

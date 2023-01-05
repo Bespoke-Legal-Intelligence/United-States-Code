@@ -2,7 +2,7 @@
 
 (a)
 
-Eligibility.—(1) Except as provided in paragraph (2), a member of the Selected Reserve of the Ready Reserve of a reserve component ofthe armed forces is eligible for health benefits under TRICARE Reserve Select as provided in this section.
+Eligibility.—(1) Except as provided in paragraph (2), a member of the Selected Reserve of the Ready Reserve of a reserve component of the armed forces is eligible for health benefits under TRICARE Reserve Select as provided in this section.
 
 (2) During the period preceding January 1, 2030, paragraph (1) does not apply to a member who is enrolled, or is eligible to enroll, in a health benefits plan under chapter 89 of title 5.
 
@@ -290,7 +290,7 @@ Contracting.—
 
 In general.—In contracting for health benefits plans under paragraph (4), the Director may contract with qualified carriers in a manner similar to the manner in which the Director contracts with carriers under section 8902 of title 5, United States Code, including that—
 
-&emsp;&emsp;&emsp;"(i) a contract under this subsection shall be for a uniform term of not less than one year, but maybe made automatically renewable from term to term in the absence of notice of termination by either party;
+&emsp;&emsp;&emsp;"(i) a contract under this subsection shall be for a uniform term of not less than one year, but may be made automatically renewable from term to term in the absence of notice of termination by either party;
 
 &emsp;&emsp;&emsp;"(ii) a contract under this subsection shall contain a detailed statement of benefits offered and shall include such maximums, limitations, exclusions, and other definitions of benefits determined by the Director in accordance with paragraph (5);
 
@@ -404,7 +404,7 @@ Pub. L. 110–417, \[div. A\], title VII, §704(b), Oct. 14, 2008, 122 Stat. 449
 
 Pub. L. 108–375, div. A, title VII, §701(b), Oct. 28, 2004, 118 Stat. 1981, provided that:
 
-"(1) The Secretary of Defense shall implement section 1076d of title 10, United States Code, not later than180 days after the date of the enactment of this Act \[Oct. 28, 2004\].
+"(1) The Secretary of Defense shall implement section 1076d of title 10, United States Code, not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2004\].
 
 "(2)(A) A member of a reserve component of the Armed Forces who performed active-duty service described in subsection (a) of section 1076d of title 10, United States Code, for a period beginning on or after September 11, 2001, and was released from that active-duty service before the date of the enactment of this Act, or is released from that active-duty service on or within 180 days after the date of the enactment of this Act, may, for the purpose of paragraph (2) of such subsection, enter into an agreement described in such paragraph not later than one year after the date of the enactment of this Act. TRICARE Standard coverage (under such section 1076d) of a member who enters into such an agreement under this paragraph shall begin on the later of—
 

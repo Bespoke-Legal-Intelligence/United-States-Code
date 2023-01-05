@@ -100,7 +100,7 @@ Pub. L. 116–260, div. EE, title I, §105(c), Dec. 27, 2020, 134 Stat. 3041, pr
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–94, div. Q, title I, §112(c), Dec. 20, 2019, 133 Stat. 3229, provided that: "The amendment made bythis section \[amending this section\] shall apply to expenditures paid or incurred during taxable years beginning after December 31, 2017."
+Pub. L. 116–94, div. Q, title I, §112(c), Dec. 20, 2019, 133 Stat. 3229, provided that: "The amendment made by this section \[amending this section\] shall apply to expenditures paid or incurred during taxable years beginning after December 31, 2017."
 
 #### Effective Date of 2018 Amendment
 
@@ -156,5 +156,5 @@ Section applicable to taxable years beginning after Dec. 31, 2004, see section 2
 
 #### Safe Harbor Assignments
 
-Pub. L. 116–94, div. Q, title I, §112(b), Dec. 20, 2019, 133 Stat. 3228, provided that: "Any assignment, including related expenditures paid or incurred, under section 45G(b)(2) of the Internal Revenue Code of 1986 for a taxable year beginning on or after January 1, 2018, and ending before January 1, 2020, shall be treated as effective as of the close of such taxable year if made pursuant to a written agreement entered into no later than 90 days following the date of the enactment of this Act \[Dec. 20, 2019\]."
+Pub. L. 116–94, div. Q, title I, §112(b), Dec. 20, 2019, 133 Stat. 3228, provided that: "Any assignment, including related expenditures paid or incurred, under section 45G(b)(2) of the Internal Revenue Code of 1986 for a taxable year beginning on or after January 1, 2018, and ending before January 1, 2020, shall be treated as effective as of the close of such taxable year if made pursuant to a written agreement entered into no later than90 days following the date of the enactment of this Act \[Dec. 20, 2019\]."
 

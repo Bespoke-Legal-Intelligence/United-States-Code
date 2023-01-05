@@ -12,7 +12,7 @@ Any person whose property has been levied upon shall have the right to pay the a
 
 #### (2) Price
 
-&emsp;Such property or tract of property shall be permitted to be redeemed upon payment tothe purchaser, or in case he cannot be found in the county in which the property to be redeemed is situated, then to the Secretary, for the use of the purchaser, his heirs, or assigns, the amount paid by such purchaser and interest thereon at the rate of 20 percent per annum.
+&emsp;Such property or tract of property shall be permitted to be redeemed upon payment to the purchaser, or in case he cannot be found in the county in which the property to be redeemed is situated, then to the Secretary, for the use of the purchaser, his heirs, or assigns, the amount paid by such purchaser and interest thereon at the rate of 20 percent per annum.
 
 #### (c) Record
 

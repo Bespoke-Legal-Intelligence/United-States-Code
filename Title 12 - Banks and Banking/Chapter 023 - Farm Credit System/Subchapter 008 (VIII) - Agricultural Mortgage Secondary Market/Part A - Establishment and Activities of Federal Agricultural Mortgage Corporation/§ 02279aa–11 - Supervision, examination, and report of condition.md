@@ -40,7 +40,7 @@
 
 #### (2) Frequency
 
-&emsp;The examinations shall occur at such times as the Farm Credit Administration Board maydetermine, but in no event less than once each year.
+&emsp;The examinations shall occur at such times as the Farm Credit Administration Board may determine, but in no event less than once each year.
 
 #### (3) Access
 
@@ -92,7 +92,7 @@ Subsec. (a)(3). Pub. L. 102–237, §503(a)(2), added par. (3).
 
 Subsec. (f). Pub. L. 102–237, §503(a)(3), added subsec. (f).
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624, §1840(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Notwithstanding any other provision of this chapter, the regulatory authority of the Farm Credit Administration with respect to the Corporation shall be confined to—
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624, §1840(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Notwithstanding any other provision of this chapter, the regulatory authority of the Farm CreditAdministration with respect to the Corporation shall be confined to—
 
 &emsp;"(A) providing for the examination of the condition of the Corporation; and
 

@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [9176\.](%C2%A7%2009176%20-%20Retention%20on%20active%20duty.md) | Retention on active duty.<br> |
+| [9176\.](%C2%A7%2009176%20-%20Retention%20on%20active%20duty.md) | Retention on active duty. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

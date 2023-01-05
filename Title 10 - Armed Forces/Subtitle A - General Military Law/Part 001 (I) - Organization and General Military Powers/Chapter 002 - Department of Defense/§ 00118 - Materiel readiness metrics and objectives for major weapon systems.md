@@ -16,7 +16,7 @@ Required Metrics.—At a minimum, the materiel readiness metrics required by sub
 
 Materiel Readiness Objectives.—(1) Not later than one year after the date of the enactment of this subsection, each head of an element described in subsection (a) shall establish the metrics required by subsection (b) necessary to support the strategic framework and guidance referred to in paragraph (1) and (2) of subsection (a).
 
-(2) Annually, each head of an element described in subsection (a) shall review and revisethe metrics required by subsection (b) and include any such revisions in the materials submitted to Congress in support of the budget of the President under section 1105 of title 31.
+(2) Annually, each head of an element described in subsection (a) shall review and revise the metrics required by subsection (b) and include any such revisions in the materials submitted to Congress in support of the budget of the President under section 1105 of title 31.
 
 (d)
 
@@ -24,9 +24,19 @@ Budget Justification.—Not later than five days after the date on which the Sec
 
 &emsp;(1) an assessment of the materiel availability, operational availability, and materiel reliability for each major weapon system; and
 
-&emsp;(2) a detailed explanation of any factors that could preclude the Department of Defense or any of the military departments from meeting applicable readiness goals or objectives.
+&emsp;(2) a detailed explanation of any factors that could preclude the Department of Defense or any of the military departments from meeting applicable readiness goals or objectives, such as infrastructure, workforce, or supply chain considerations.
 
 (e)
+
+Funding Estimates.—Not later than five days after the date on which the Secretary of Defense submits to Congress the materials in support of the budget of the President for a fiscal year, the Director of Cost Assessment and Performance Evaluation shall submit to the congressional defense committees a comprehensive estimate of the funds necessary to meet the materiel readiness objectives required by subsection (c) through the period covered by the most recent future-years defense program. At a minimum, the Director shall provide, for each major weapon system, by designated mission design series, variant, or class, a comprehensive estimate of the funds necessary to meet such objectives that—
+
+&emsp;(1) have been obligated by subactivity group within the operation and maintenance accounts for the second fiscal year preceding the budget year;
+
+&emsp;(2) the Director estimates will have been obligated by subactivity group within the operation and maintenance accounts by the end of the fiscal year preceding the budget year; and
+
+&emsp;(3) have been budgeted and programmed across the future years defense program within the operation and maintenance accounts by subactivity group.
+
+(f)
 
 Definitions.—In this section:
 
@@ -40,7 +50,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term "operationally capable" means a materiel condition indicating that a major weapon system is capable of performing its assigned mission and has no discrepancies with a subsystem of a major weapon system.
 
-(Added Pub. L. 116–92, div. A, title III, §351(a)(1), Dec. 20, 2019, 133 Stat. 1319; amended Pub. L. 116–283, div. A, title III, §347(a), title X, §1081(a)(6), title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 3540, 3871, 4294.)
+(Added Pub. L. 116–92, div. A, title III, §351(a)(1), Dec. 20, 2019, 133 Stat. 1319; amended Pub. L. 116–283, div. A, title III, §347(a), title X, §1081(a)(6), title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 3540, 3871, 4294; Pub. L. 117–263, div. A, title III, §351(a), Dec. 23, 2022, 136 Stat. 2532.)
 
 #### <b>Editorial Notes</b>
 
@@ -50,11 +60,15 @@ The date of the enactment of this subsection, referred to in subsec. (c), is the
 
 #### Prior Provisions
 
-A prior section 118, added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; amended Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title IX, §§922, 923, Dec. 2, 2002, 116 Stat. 2623; Pub. L. 109–364, div. A, title X, §1031(c)–(f), Oct. 17, 2006, 120 Stat. 2385, 2386; Pub. L. 110–181, div. A, title IX, §§941(b), 951(a), Jan. 28, 2008, 122 Stat. 287, 290; Pub. L. 111–84, div. A, title X, §§1002, 1073(a)(2), div. B, title XXVIII, §2822(b), Oct. 28, 2009, 123 Stat. 2439, 2472, 2666; Pub. L. 111–383, div. A, title X, §1071, Jan. 7, 2011, 124 Stat. 4364; Pub. L. 112–81, div. A, title VIII, §820(a), title IX, §942, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 113–291, div. A, title X, §§1071(c)(2), (f)(1), 1072(a)(1), Dec. 19, 2014, 128 Stat. 3508, 3510, 3512, related to quadrennial defense strategy review by Secretary of Defense, prior to repeal by Pub. L. 114–328, div. A, title IX, §941(b)(1), Dec. 23, 2016, 130 Stat. 2367.
+A prior section 118, added Pub. L. 106–65, div. A, title IX, §901(a)(1), Oct. 5, 1999, 113 Stat. 715; amended Pub. L. 107–107, div. A, title IX, §921(a), Dec. 28, 2001, 115 Stat. 1198; Pub. L. 107–314, div. A, title IX, §§922, 923, Dec. 2, 2002, 116 Stat. 2623; Pub. L. 109–364, div. A, title X, §1031(c)–(f), Oct. 17, 2006, 120 Stat. 2385, 2386; Pub. L. 110–181, div. A, title IX, §§941(b), 951(a), Jan. 28, 2008, 122 Stat. 287, 290; Pub. L. 111–84, div. A, title X, §§1002,1073(a)(2), div. B, title XXVIII, §2822(b), Oct. 28, 2009, 123 Stat. 2439, 2472, 2666; Pub. L. 111–383, div. A, title X, §1071, Jan. 7, 2011, 124 Stat. 4364; Pub. L. 112–81, div. A, title VIII, §820(a), title IX, §942, Dec. 31, 2011, 125 Stat. 1501, 1548; Pub. L. 113–291, div. A, title X, §§1071(c)(2), (f)(1), 1072(a)(1), Dec. 19, 2014, 128 Stat. 3508, 3510, 3512, related to quadrennial defense strategy review by Secretary of Defense, prior to repeal by Pub. L. 114–328, div. A, title IX, §941(b)(1), Dec. 23, 2016, 130 Stat. 2367.
 
 Another prior section 118, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 1288, §133b; renumbered §118, Pub. L. 99–433, title I, §101(a)(2), Oct. 1, 1986, 100 Stat. 994, required reports to Congress on sales or transfers of defense articles, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1301(2), Nov. 5, 1990, 104 Stat. 1668.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(2). Pub. L. 117–263, §351(a)(1), substituted "objectives, such as infrastructure, workforce, or supply chain considerations" for "objectives".
+
+Subsecs. (e), (f). Pub. L. 117–263, §351(a)(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>2021</b>—Pub. L. 116–283, §347(a)(1), amended section catchline generally. Prior to amendment, catchline read as follows: "Annual report on major weapons systems sustainment".
 
@@ -77,4 +91,14 @@ Subsec. (e)(1). Pub. L. 116–283, §1883(b)(2), substituted "section 3455" for 
 #### Effective Date of 2021 Amendment
 
 Amendment by 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Phased Implementation
+
+Pub. L. 117–263, div. A, title III, §351(b), Dec. 23, 2022, 136 Stat. 2533, provided that: "The Director of Cost Assessment and Performance Evaluation may meet the requirements of subsection (e) of section 118 of title 10, United States Code, as added by subsection (a), through a phased submission of the funding estimates required under such subsection. In conducting a phased implementation, the Director shall ensure that—
+
+&emsp;"(1) for the budget request for fiscal year 2024, funding estimates are provided for a representative sample by military department of at least one-third of the major weapon systems;
+
+&emsp;"(2) for the budget request for fiscal year 2025, funding estimates are provided for an additional one-third of the major weapon systems; and
+
+&emsp;"(3) full implementation for all major weapons systems is completed not later than five days after the date on which the Secretary of Defense submits to Congress the materials in support of the budget of the President for fiscal year 2026."
 

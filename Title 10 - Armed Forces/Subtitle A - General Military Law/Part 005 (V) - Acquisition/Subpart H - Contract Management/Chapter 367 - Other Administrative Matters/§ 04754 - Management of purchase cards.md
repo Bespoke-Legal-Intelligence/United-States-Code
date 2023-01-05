@@ -8,7 +8,7 @@ Management of Purchase Cards.—The Secretary of Defense shall prescribe regulat
 
 Required Safeguards and Internal Controls.—Regulations under subsection (a) shall include safeguards and internal controls to ensure the following:
 
-&emsp;(1) That there is a record in the Department of Defense of each holder of a purchase card issued by the Department of Defense for official use, annotated with the limitations on amounts that are applicable to the use of each such card by that purchase card holder.
+&emsp;(1) That there is a record in the Department of Defense of each holder of a purchase card issued by the Department of Defense for official use, annotated with the limitations onamounts that are applicable to the use of each such card by that purchase card holder.
 
 &emsp;(2) That each purchase card holder and individual issued a convenience check is assigned an approving official other than the card holder with the authority to approve or disapprove transactions.
 
@@ -64,7 +64,7 @@ Penalties for Violations.—The regulations prescribed under subsection (a) shal
 
 &emsp;&emsp;(A) for the reimbursement of charges for unauthorized or erroneous purchases, in appropriate cases; and
 
-&emsp;&emsp;(B) for appropriate adverse personnel actions or other punishment to be imposed in cases in which employees of the Department of Defense violate such regulations or are negligent or engage in misuse, abuse, orfraud with respect to a purchase card, including removal in appropriate cases; and
+&emsp;&emsp;(B) for appropriate adverse personnel actions or other punishment to be imposed in cases in which employees of the Department of Defense violate such regulations or are negligent or engage in misuse, abuse, or fraud with respect to a purchase card, including removal in appropriate cases; and
 
 &emsp;(2) provide that a violation of such regulations by a person subject to chapter 47 of this title (the Uniform Code of Military Justice) is punishable as a violation of section 892 of this title (article 92 of the Uniform Code of Military Justice).
 
@@ -150,5 +150,5 @@ Disciplinary Action for Misuse of Government Charge Card.—(1) The Secretary sh
 
 "(d)
 
-Report.—Not later than June 30, 2003, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services of the Senate and the House of Representatives and Subcommitteeson Defense of the Committees on Appropriations of the Senate and the House of Representatives\] a report on the implementation of the requirements and limitations in this section, including the guidelines and procedures established under subsection (c)."
+Report.—Not later than June 30, 2003, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services of the Senate and the House of Representatives and Subcommittees on Defense of the Committees on Appropriations of the Senate and the House of Representatives\] a report on the implementation of the requirements and limitations in this section, including the guidelines and procedures established under subsection (c)."
 

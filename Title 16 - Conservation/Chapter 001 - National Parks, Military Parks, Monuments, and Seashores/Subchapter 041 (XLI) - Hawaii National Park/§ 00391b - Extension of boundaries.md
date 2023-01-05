@@ -14,7 +14,7 @@ Along the seacoast at high-water mark, in a general southwesterly direction for 
 
 4\. Exactly ninety-eight degrees and forty-five minutes seven thousand four hundred feet to a pipe in concrete at a place called Okiokiahu (note: azimuths of courses 5 to 11, inclusive, are referred to Uwekahuna meridian);
 
-5\. One hundred and nine degrees fifty-seven minutes and twenty-two seconds ten thousandseven hundred and seventeen and nine-tenths feet to a pipe in concrete at a place called Makaloa; thence
+5\. One hundred and nine degrees fifty-seven minutes and twenty-two seconds ten thousand seven hundred and seventeen and nine-tenths feet to a pipe in concrete at a place called Makaloa; thence
 
 6\. One hundred and seventy degrees four minutes and thirty-nine seconds exactly six thousand eight hundred feet along Hawaii National Park, Kilauea section, to the foot of the Puueo pali;
 

@@ -1,6 +1,6 @@
 ### §703. Treasury Department
 
-Commissioned, warrant, and petty officers of the Coast Guard are deemed to be officers of the customs and when so acting shall, insofar as performance of the duties relating to customs laws are concerned, be subject to regulations issued by the Secretary of the Treasury governing officers of the customs.
+Commissioned, warrant, and petty officers of the Coast Guard are deemed to be officers of the customs and when so acting shall, insofar as performance of the duties relating to customs lawsare concerned, be subject to regulations issued by the Secretary of the Treasury governing officers of the customs.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 506, §143; renumbered §703, Pub. L. 115–282, title I, §106(b), Dec. 4, 2018, 132 Stat. 4203.)
 

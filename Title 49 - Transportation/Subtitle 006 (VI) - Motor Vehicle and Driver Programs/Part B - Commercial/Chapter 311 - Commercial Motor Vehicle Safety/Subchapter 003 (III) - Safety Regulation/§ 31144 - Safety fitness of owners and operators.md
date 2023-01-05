@@ -92,7 +92,7 @@ Providers of motorcoach services.—The Secretary shall require, by regulation, 
 
 &emsp;(2)
 
-Elements.—In the regulations issued pursuant to paragraph (1), the Secretary shall establish the elements of the safety review, including basic safety management controls. In establishing such elements, the Secretary shall consider their effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
+Elements.—In the regulations issued pursuant to paragraph (1), the Secretary shallestablish the elements of the safety review, including basic safety management controls. In establishing such elements, the Secretary shall consider their effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
 
 &emsp;(3)
 

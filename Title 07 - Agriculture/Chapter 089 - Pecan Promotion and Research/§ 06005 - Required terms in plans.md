@@ -192,7 +192,7 @@ The plan shall define the powers and duties of the Board, which shall include th
 
 #### (3) Incurring expenses
 
-&emsp;The Board may incur such expenses for programs or projects of research, promotion, consumer information, or industry information, and other expenses for the administration, maintenance, and functioning of the Board as may be authorized by the Secretary, including any implementation, administrative, and referendum costs incurred by the Department.
+&emsp;The Board may incur such expenses for programs or projects of research, promotion, consumer information, or industry information,and other expenses for the administration, maintenance, and functioning of the Board as may be authorized by the Secretary, including any implementation, administrative, and referendum costs incurred by the Department.
 
 #### (4) Paying expenses
 

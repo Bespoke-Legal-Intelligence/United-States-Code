@@ -27,7 +27,7 @@ In general.—Except as provided for under subsection (d), the head of each exec
 
 &emsp;"(2)
 
-Methods of acquisition.—The methods of acquisition to be compared in the analysis under paragraph (1) shall include, at a minimum, purchase, short-term rental or lease, long-term rental or lease, interagency acquisition, and acquisition agreements with a State or a local government as described in subsection (c).
+Methods of acquisition.—The methods of acquisition to be compared in the analysis under paragraph (1) shall include, at a minimum, purchase, short-term rental or lease, long-term rental or lease, interagency acquisition, and acquisition agreementswith a State or a local government as described in subsection (c).
 
 &emsp;"(3)
 
@@ -39,7 +39,7 @@ Rule of construction.—Nothing in this subsection shall be construed to affect 
 
 "(b)
 
-Date of Implementation.—The analysis described in subsection (a) shall be applied to contractsfor the acquisition of equipment entered into on or after the date that the Federal Acquisition Regulation is amended pursuant to paragraph (3) of such subsection.
+Date of Implementation.—The analysis described in subsection (a) shall be applied to contracts for the acquisition of equipment entered into on or after the date that the Federal Acquisition Regulation is amended pursuant to paragraph (3) of such subsection.
 
 "(c)
 

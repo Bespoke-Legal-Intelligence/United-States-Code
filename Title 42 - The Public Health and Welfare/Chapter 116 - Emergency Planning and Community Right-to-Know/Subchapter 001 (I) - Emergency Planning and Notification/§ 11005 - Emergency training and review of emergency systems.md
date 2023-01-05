@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) The status of current technological capabilities to (i) monitor, detect, and prevent, in a timely manner, significant releases of extremely hazardous substances, (ii) determine the magnitude and direction of the hazard posed by each release, (iii) identify specific substances, (iv) provide data on the specific chemical composition of such releases, and (v) determine the relative concentrations of the constituent substances.
 
-&emsp;&emsp;(B) The status of public emergency alert devices or systems for providing timely and effective public warning of an accidental release of extremely hazardous substances into the environment, including releases into the atmosphere, surface water, or groundwater from facilities that produce, store, or use significant quantities of such extremely hazardous substances.
+&emsp;&emsp;(B) The status of public emergency alert devices or systems for providing timely andeffective public warning of an accidental release of extremely hazardous substances into the environment, including releases into the atmosphere, surface water, or groundwater from facilities that produce, store, or use significant quantities of such extremely hazardous substances.
 
 &emsp;&emsp;(C) The technical and economic feasibility of establishing, maintaining, and operating perimeter alert systems for detecting releases of such extremely hazardous substances into the atmosphere, surface water, or groundwater, at facilities that manufacture, use, or store significant quantities of such substances.
 

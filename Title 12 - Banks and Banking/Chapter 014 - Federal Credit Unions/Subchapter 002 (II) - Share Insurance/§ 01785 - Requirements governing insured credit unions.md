@@ -38,7 +38,7 @@ Conversion of insured credit unions to mutual savings banks.—
 
 &emsp;(A)
 
-In general.—Notwithstanding paragraph (1), an insured credit union may convert to amutual savings bank or savings association (if the savings association is in mutual form), as those terms are defined in section 1813 of this title, without the prior approval of the Board, subject to the requirements and procedures set forth in the laws and regulations governing mutual savings banks and savings associations.
+In general.—Notwithstanding paragraph (1), an insured credit union may convert to a mutual savings bank or savings association (if the savings association is in mutual form), as those terms are defined in section 1813 of this title, without the prior approval of the Board, subject to the requirements and procedures set forth in the laws and regulations governing mutual savings banks and savings associations.
 
 &emsp;(B)
 
@@ -152,6 +152,164 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 &emsp;Whoever knowingly violates paragraph (1) or (2) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
 
+#### (4) Exceptions
+
+#### (A) Certain older offenses
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;With respect to an individual, paragraph (1) shall not apply to an offense if—
+
+&emsp;&emsp;&emsp;&emsp;(I) it has been 7 years or more since the offense occurred; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the individual was incarcerated with respect to the offense and it has been 5 years or more since the individual was released from incarceration.
+
+#### (ii) Offenses committed by individuals 21 or younger
+
+&emsp;&emsp;&emsp;For individuals who committed an offense when they were 21 years of age or younger, paragraph (1) shall not apply to the offense if it has been more than 30 months since the sentencing occurred.
+
+#### (iii) Limitation
+
+&emsp;&emsp;&emsp;This subparagraph shall not apply to an offense described under paragraph (1)(B).<sup>1</sup>
+
+#### (B) Expungement and sealing
+
+&emsp;&emsp;With respect to an individual, paragraph (1) shall not apply to an offense if—
+
+&emsp;&emsp;&emsp;(i) there is an order of expungement, sealing, or dismissal that has been issued in regard to the conviction in connection with such offense; and
+
+&emsp;&emsp;&emsp;(ii) it is intended by the language in the order itself, or in the legislative provisions under which the order was issued, that the conviction shall be destroyed or sealed from the individual's State, Tribal, or Federal record, even if exceptions allow the record to be considered for certain character and fitness evaluation purposes.
+
+#### (C) De minimis exemption
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Paragraph (1) shall not apply to such de minimis offenses as the Board determines, by rule.
+
+#### (ii) Confinement criteria
+
+&emsp;&emsp;&emsp;In issuing rules under clause (i), the Board shall include a requirement that the offense was punishable by a term of three years or less confined in a correctional facility, where such confinement—
+
+&emsp;&emsp;&emsp;&emsp;(I) is calculated based on the time an individual spent incarcerated as a punishment or a sanction, not as pretrial detention; and
+
+&emsp;&emsp;&emsp;&emsp;(II) does not include probation or parole where an individual was restricted to a particular jurisdiction or was required to report occasionally to an individual or a specific location.
+
+#### (iii) Bad check criteria
+
+&emsp;&emsp;&emsp;In setting the criteria for de minimis offenses under clause (i), if the Board establishes criteria with respect to insufficient funds checks, the Board shall require that the aggregate total face value of all insufficient funds checks across all convictions or program entries related to insufficient funds checks is $2,000 or less.
+
+#### (iv) Designated lesser offenses
+
+&emsp;&emsp;&emsp;Paragraph (1) shall not apply to certain lesser offenses (including the use of a fake ID, shoplifting, trespass, fare evasion, driving with an expired license or tag, and such other low-risk offenses as the Board may designate) if 1 year or more has passed since the applicable conviction or program entry.
+
+#### (5) Consent applications
+
+#### (A) In general
+
+&emsp;&emsp;The Board shall accept consent applications from an individual and from an insured credit union on behalf of an individual that are filed separately or contemporaneously with a regional office of the Board.
+
+#### (B) Sponsored applications filed with regional offices
+
+&emsp;&emsp;Consent applications filed at a regional office of the Board by an insured credit union on behalf of an individual—
+
+&emsp;&emsp;&emsp;(i) shall be reviewed by such office;
+
+&emsp;&emsp;&emsp;(ii) may be approved or denied by such office, if such authority has been delegated to such office by the Board; and
+
+&emsp;&emsp;&emsp;(iii) may only be denied by such office if the general counsel of the Board (or a designee) certifies that the denial is consistent with this section.
+
+#### (C) Individual applications filed with regional offices
+
+&emsp;&emsp;Consent applications filed at a regional office by an individual—
+
+&emsp;&emsp;&emsp;(i) shall be reviewed by such office; and
+
+&emsp;&emsp;&emsp;(ii) may be approved or denied by such office, if such authority has been delegated to such office by the Board, except with respect to—
+
+&emsp;&emsp;&emsp;&emsp;(I) cases involving an offense described under paragraph (1)(B); <sup>1</sup> and
+
+&emsp;&emsp;&emsp;&emsp;(II) such other high-level security cases as may be designated by the Board.
+
+#### (D) National office review
+
+&emsp;&emsp;The national office of the Board shall—
+
+&emsp;&emsp;&emsp;(i) review any consent application with respect to which a regional office is not authorized to approve or deny the application; and
+
+&emsp;&emsp;&emsp;(ii) review any consent application that is denied by a regional office, if the individual requests a review by the national office.
+
+#### (E) Forms and instructions
+
+#### (i) Availability
+
+&emsp;&emsp;&emsp;The Board shall make all forms and instructions related to consent applications available to the public, including on the website of the Board.
+
+#### (ii) Contents
+
+&emsp;&emsp;&emsp;The forms and instructions described under clause (i) shall provide a sample cover letter and a comprehensive list of items that may accompany the application, including clear guidance on evidence that may support a finding of rehabilitation.
+
+#### (F) Consideration of criminal history
+
+#### (i) Regional office consideration
+
+&emsp;&emsp;&emsp;In reviewing a consent application, a regional office shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) primarily rely on the criminal history record of the Federal Bureau of Investigation; and
+
+&emsp;&emsp;&emsp;&emsp;(II) provide such record to the applicant to review for accuracy.
+
+#### (ii) Certified copies
+
+&emsp;&emsp;&emsp;The Board may not require an applicant to provide certified copies of criminal history records unless the Board determines that there is a clear and compelling justification to require additional information to verify the accuracy of the criminal history record of the Federal Bureau of Investigation.
+
+#### (G) Consideration of rehabilitation
+
+&emsp;&emsp;Consistent with title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.), the Board shall—
+
+&emsp;&emsp;&emsp;(i) conduct an individualized assessment when evaluating consent applications that takes into account evidence of rehabilitation, the applicant's age at the time of the conviction or program entry, the time that has elapsed since conviction or program entry, and the relationship of individual's <sup>2</sup> offense to the responsibilities of the applicable position;
+
+&emsp;&emsp;&emsp;(ii) consider the individual's employment history, letters of recommendation, certificates documenting participation in substance abuse programs, successful participating in job preparation and educationalprograms, and other relevant mitigating evidence; and
+
+&emsp;&emsp;&emsp;(iii) consider any additional information the Board determines necessary for safety and soundness.
+
+#### (H) Scope of employment
+
+&emsp;&emsp;With respect to an approved consent application filed by an insured credit union on behalf of an individual, if the Board determines it appropriate, such approved consent application shall allow the individual to work for the same employer (without restrictions on the location) and across positions, except that the prior consent of the Board (which may require a new application) shall be required for any proposed significant changes in the individual's security-related duties or responsibilities, such as promotion to an officer or other positions that the employer determines will require higher security screening credentials.
+
+#### (I) Coordination with FDIC
+
+&emsp;&emsp;In carrying out this subsection, the Board shall consult and coordinate with the Federal Deposit Insurance Corporation as needed to promote consistent implementation where appropriate.
+
+#### (6) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Consent application
+
+&emsp;&emsp;The term "consent application" means an application filed with Board <sup>2</sup> by an individual (or by an insured credit union on behalf of an individual) seeking the written consent of the Board under paragraph (1)(A).
+
+#### (B) Criminal offense involving dishonesty
+
+&emsp;&emsp;The term "criminal offense involving dishonesty"—
+
+&emsp;&emsp;&emsp;(i) means an offense under which an individual, directly or indirectly—
+
+&emsp;&emsp;&emsp;&emsp;(I) cheats or defrauds; or
+
+&emsp;&emsp;&emsp;&emsp;(II) wrongfully takes property belonging to another in violation of a criminal statute;
+
+&emsp;&emsp;&emsp;(ii) includes an offense that Federal, State, or local law defines as dishonest, or for which dishonesty is an element of the offense; and
+
+&emsp;&emsp;&emsp;(iii) does not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) a misdemeanor criminal offense committed more than one year before the date on which an individual files a consent application, excluding any period of incarceration; or
+
+&emsp;&emsp;&emsp;&emsp;(II) an offense involving the possession of controlled substances.
+
+#### (C) Pretrial diversion or similar program
+
+&emsp;&emsp;The term "pretrial diversion or similar program" means a program characterized by a suspension or eventual dismissal or reversal of charges or criminal prosecution upon agreement by the accused to restitution, drug or alcohol rehabilitation, anger management, or community service.
+
 #### (e) Security standards; reports; penalty
 
 (1) The Board shall promulgate rules establishing minimum standards with which each insured credit union must comply with respect to the installation, maintenance, and operation of security devices and procedures, reasonable in cost, to discourage robberies, burglaries, and larcenies and to assist in the identification and apprehension of persons who commit such acts.
@@ -170,7 +328,7 @@ In granting or withholding approval or consent under subsection (b) of this sect
 
 (1) If the applicable rate prescribed in this subsection exceeds the rate an insured credit union would be permitted to charge in the absence of this subsection, such credit union may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this subsection, take, receive, reserve, and charge on any loan, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such insured credit union is located or at the rate allowed by the laws of the State, territory, or district where such credit union is located, whichever may be greater.
 
-(2) If the rate prescribed in paragraph (1) exceeds the rate such credit union would be permitted to charge in the absence of this subsection, and such State fixed rate is thereby preempted by the rate described in paragraph (1), the taking, receiving, reserving, or charging a greater rate than is allowed by paragraph (1), when knowingly done, shall be deemed a forfeiture of the entire interest which the loan carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has been paid, the person who paid it may recover, in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of interest paid from the credit union taking or receiving such interest.
+(2) If the rate prescribed in paragraph (1) exceeds the rate such credit union would be permitted to charge in the absence of this subsection, and such State fixed rate is thereby preempted by the rate described in paragraph (1), the taking, receiving, reserving, or charging a greater rate than is allowed by paragraph (1), when knowingly done, shall be deemed a forfeiture of the entire interest which the loan carries with it, or which has been agreed to be paid thereon. If such greater rate of interest has beenpaid, the person who paid it may recover, in a civil action commenced in a court of appropriate jurisdiction not later than two years after the date of such payment, an amount equal to twice the amount of interest paid from the credit union taking or receiving such interest.
 
 #### (h) Emergency merger
 
@@ -202,7 +360,7 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 &emsp;&emsp;(B) any person would waive any privilege applicable to any information by submitting the information to the Administration, any State credit union supervisor, or foreign banking authority, but for this subsection.
 
-(June 26, 1934, ch. 750, title II, §205, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, §305(d), title V, §523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, §509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, §910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, §320606, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 105–219, title II, §202, Aug. 7, 1998, 112 Stat. 919; Pub. L. 109–173, §2(d)(3), Feb. 15, 2006, 119 Stat. 3604; Pub. L. 109–351, title VI, §607(b), Oct. 13, 2006, 120 Stat. 1982; Pub. L. 111–203, title III, §362(2), July 21, 2010, 124 Stat. 1549.)
+(June 26, 1934, ch. 750, title II, §205, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1002; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 96–221, title III, §305(d), title V, §523, Mar. 31, 1980, 94 Stat. 147, 166; Pub. L. 97–320, title I, §131, 141(a)(8), title VII, §706(b), Oct. 15, 1982, 96 Stat. 1486, 1489, 1540; Pub. L. 100–86, title V, §509(a), Aug. 10, 1987, 101 Stat. 635; Pub. L. 101–73, title IX, §910(b), Aug. 9, 1989, 103 Stat. 478; Pub. L. 103–322, title XXXII, §320606, Sept. 13, 1994, 108 Stat. 2119; Pub. L. 105–219, title II, §202, Aug. 7, 1998, 112 Stat. 919; Pub. L. 109–173, §2(d)(3), Feb. 15, 2006, 119 Stat. 3604; Pub. L. 109–351, title VI, §607(b), Oct. 13, 2006, 120 Stat. 1982; Pub. L. 111–203, title III, §362(2), July 21, 2010, 124 Stat. 1549; Pub. L. 117–263, div. E, title LVII, §5705(b), Dec. 23, 2022, 136 Stat. 3414.)
 
 #### <b>Editorial Notes</b>
 
@@ -210,7 +368,13 @@ Notwithstanding any other provision of law, the Board may authorize a merger or 
 
 Section 1008 of title 18, referred to in subsec. (d)(2)(A)(i)(I), was repealed by Pub. L. 101–73, title IX, §961(g)(1), Aug. 9, 1989, 103 Stat. 500.
 
+Paragraph (1)(B), referred to in subsec. (d)(4)(A)(iii), (5)(C)(i)(I), probably should be a reference to "paragraph (2)", meaning par. (2) of subsec. (d). See similar provisions in section 1829(c)(1)(C) and (f)(3)(B)(i) of this title, which refer to offenses described in subsec. (a)(2) of that section, which correspond to those listed in subsec. (d)(2) of this section.
+
+The Civil Rights Act of 1964, referred to in subsec. (d)(5)(G), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(4) to (6). Pub. L. 117–263 added pars. (4) to (6).
 
 <b>2010</b>—Subsec. (b)(2)(G)(i). Pub. L. 111–203, §362(2)(A), struck out "the Office of Thrift Supervision and" before "the Office of the Comptroller".
 
@@ -291,4 +455,6 @@ For purposes of subsec. (g) of this section, the term "State" to include the sev
 In any case in which one or more provisions of, or amendments made by, title V of Pub. L. 96–221, section 1735f–7 of this title, or any other provisions of law, including section 85 of this title, apply with respect to the same loan, mortgage, credit sale, or advance, such loan, mortgage, credit sale, or advance may be made at the highest applicable rate, see section 528 of Pub. L. 96–221, set out as a note under section 1735f–7a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

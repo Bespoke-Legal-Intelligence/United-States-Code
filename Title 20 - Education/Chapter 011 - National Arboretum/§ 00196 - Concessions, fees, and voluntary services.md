@@ -10,7 +10,7 @@ Notwithstanding chapters 1 to 11 and section 1302 of title 40 and division C (ex
 
 &emsp;&emsp;(B) the operation and maintenance of the facilities of the National Arboretum, including enhancements, upgrades, restoration, and conservation;
 
-&emsp;(2) provide by concession, on such terms as the Secretary of Agriculture considers appropriate and necessary, for commercial services for food, drink, and nursery sales, if an agreement for a permanent concession under this paragraph is negotiated with a qualified person submitting a proposal after due consideration of all proposals received after the Secretary of Agriculture provides reasonable public notice of the intent of the Secretary to enter into such an agreement;
+&emsp;(2) provide by concession, on such terms as the Secretary of Agriculture considers appropriate and necessary, for commercial servicesfor food, drink, and nursery sales, if an agreement for a permanent concession under this paragraph is negotiated with a qualified person submitting a proposal after due consideration of all proposals received after the Secretary of Agriculture provides reasonable public notice of the intent of the Secretary to enter into such an agreement;
 
 &emsp;(3) dispose of excess property, including excess plants and fish, in a manner designed to maximize revenue from any sale of the property, including by way of public auction, except that this paragraph shall not apply to the free dissemination of new varieties of seeds and germ plasm in accordance with section 2201 of title 7;
 

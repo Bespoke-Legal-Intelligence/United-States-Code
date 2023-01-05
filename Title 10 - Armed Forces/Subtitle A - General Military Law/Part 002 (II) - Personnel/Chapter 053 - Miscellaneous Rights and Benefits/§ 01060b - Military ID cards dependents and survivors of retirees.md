@@ -16,7 +16,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term "military ID card" means a card or other form of identification used for purposes of demonstrating eligibility for any benefit from the Department of Defense.
 
-&emsp;(2) The term "retiree dependent" means a person who is a dependent of a retired member of the uniformed services, or a survivor of adeceased retired member of the uniformed services, who is eligible for any benefit from the Department of Defense.
+&emsp;(2) The term "retiree dependent" means a person who is a dependent of a retired member of the uniformed services, or a survivor of a deceased retired member of the uniformed services, who is eligible for any benefit from the Department of Defense.
 
 (Added Pub. L. 108–375, div. A, title V, §583(a)(1), Oct. 28, 2004, 118 Stat. 1929; amended Pub. L. 109–364, div. A, title V, §598(a), (b)(1), Oct. 17, 2006, 120 Stat. 2237.)
 

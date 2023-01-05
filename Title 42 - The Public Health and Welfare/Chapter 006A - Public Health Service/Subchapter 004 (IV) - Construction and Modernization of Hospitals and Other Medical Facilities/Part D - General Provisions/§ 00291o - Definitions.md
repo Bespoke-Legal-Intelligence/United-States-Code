@@ -6,7 +6,7 @@ For the purposes of this subchapter—
 
 (b)(1) The term "Federal share" with respect to any project means the proportion of the cost of such project to be paid by the Federal Government under this subchapter.
 
-(2) With respect to any project in any State for which a grant is made from an allotment from an appropriation under section 291a of this title, the Federal share shall be the amount determined by the State agency designated in accordance with section 291d of this title, but not more than 662/3 per centum or the State's allotment percentage, whichever is the lower, except that, if the State's allotment percentage is lower than 50 per centum, such allotment percentage shall be deemed to be 50 per centum for purposes of this paragraph.
+(2) With respect to any project in any State for which a grant is made from an allotment from an appropriation under section 291a of this title, the Federal share shall be the amount determined by the State agency designated in accordance with section 291d of this title, but not more than 662/3 per centum or the State's allotment percentage, whichever is the lower, except that,if the State's allotment percentage is lower than 50 per centum, such allotment percentage shall be deemed to be 50 per centum for purposes of this paragraph.
 
 (3) Prior to the approval of the first project in a State during any fiscal year the State agency designated in accordance with section 291d of this title shall give the Secretary written notification of the maximum Federal share established pursuant to paragraph (2) of this subsection for projects in such State to be approved by the Secretary during such fiscal year and the method for determining the actual Federal share to be paid with respect to such projects; and such maximum Federal share and such method of determination for projects in such State approved during such fiscal year shall not be changed after such approval.
 
@@ -38,7 +38,7 @@ For the purposes of this subchapter—
 
 &emsp;(4) either (A) the facility is operated in connection with a hospital, or (B) all medical and related health services are prescribed by, or are under the general direction of, persons licensed to practice medicine or surgery in the State.
 
-(h) The term "facility for long-term care" means a facility (including an extended care facility) providing in-patient care for convalescent or chronic disease patients who requireskilled nursing care and related medical services—
+(h) The term "facility for long-term care" means a facility (including an extended care facility) providing in-patient care for convalescent or chronic disease patients who require skilled nursing care and related medical services—
 
 &emsp;(1) which is a hospital (other than a hospital primarily for the care and treatment of mentally ill or tuberculosis patients) or is operated in connection with a hospital, or
 
@@ -50,7 +50,7 @@ For the purposes of this subchapter—
 
 (k) The term "modernization" includes alteration, major repair (to the extent permitted by regulations), remodeling, replacement, and renovation of existing buildings (including initial equipment thereof), and replacement of obsolete, built-in (as determined in accordance with regulations) equipment of existing buildings.
 
-(l) The term "title", when used with reference to a site for a project, means a fee simple, or such other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Surgeon General finds sufficient to assure for a period of not less than fifty years' undisturbed use and possession for the purposes of construction and operation of the project.
+(l) The term "title", when used with reference to a site for a project, means a fee simple, orsuch other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Surgeon General finds sufficient to assure for a period of not less than fifty years' undisturbed use and possession for the purposes of construction and operation of the project.
 
 (July 1, 1944, ch. 373, title VI, §645, formerly §625, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 460; amended Pub. L. 88–581, §3(b), Sept. 4, 1964, 78 Stat. 919; renumbered §645 and amended Pub. L. 91–296, title I, §§113, 114(a), 116(f), 117, 118, 119(d), title II, §201, June 30, 1970, 84 Stat. 340, 341, 342, 343, 344.)
 
@@ -96,7 +96,7 @@ Pub. L. 91–296, title I, §117, June 30, 1970, 84 Stat. 342, provided that the
 
 Pub. L. 91–296, title I, §118, June 30, 1970, 84 Stat. 342, provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
 
-Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allotments and grants therefrom under part A of this subchapter for fiscal years ending after June 30, 1970, and with respect to loan guaranteesand loans under part B of this subchapter made after June 30, 1970, see section 119(e) of Pub. L. 91–296, set out as a note under section 291b of this title.
+Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allotments and grants therefrom under part A of this subchapter for fiscal years ending after June 30, 1970, and with respect to loan guarantees and loans under part B of this subchapter made after June 30, 1970, see section 119(e) of Pub. L. 91–296, set out as a note under section 291b of this title.
 
 #### Effective Date of 1964 Amendment
 

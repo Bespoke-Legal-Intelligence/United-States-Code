@@ -38,7 +38,7 @@ Application Date for Workforce Development Performance Accountability System.—
 
 &emsp;"(1)
 
-In general.—Section 136 of the Workforce Investment Act of 1998 (29 U.S.C. 2871), as in effect on the day before the date of enactment of this Act, shall apply in lieu of section 116 of this Act \[29 U.S.C. 3141\], for the first full program year after the date of enactment of this Act.
+In general.—Section 136 of the Workforce Investment Act of 1998 (29 U.S.C. 2871), as in effect on the day before the date of enactment of this Act, shall apply in lieu of section 116 of this Act \[29 U.S.C.3141\], for the first full program year after the date of enactment of this Act.
 
 &emsp;"(2)
 
@@ -102,7 +102,7 @@ Pub. L. 102–367, title I, §101(a), Sept. 7, 1992, 106 Stat. 1022, provided th
 
 &emsp;"(1) provide financial assistance to States and local service delivery areas to meet the training needs of such low-income adults and youth, and to assist such individuals in obtaining unsubsidized employment;
 
-&emsp;"(2) increase the funds available for programs under title II of the Job Training Partnership Act (\[former\] 29 U.S.C. 1601 et seq.) by not less than 10 percent ofthe baseline each fiscal year to provide for growth in the percentage of eligible adults and youth served above the 5 percent of the eligible population that is currently served; and
+&emsp;"(2) increase the funds available for programs under title II of the Job Training Partnership Act (\[former\] 29 U.S.C. 1601 et seq.) by not less than 10 percent of the baseline each fiscal year to provide for growth in the percentage of eligible adults and youth served above the 5 percent of the eligible population that is currently served; and
 
 &emsp;"(3) encourage the provision of longer, more comprehensive, education, training, and employment services to the eligible population, which also requires increased funding in order to maintain current service levels."
 

@@ -36,7 +36,7 @@ The sending or delivery of any form or notice which does not relate to the colle
 
 #### References in Text
 
-The Gramm-Leach-Bliley Act, referred to in subsec. (e), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Title V of the Act is classified principally to chapter 94 (§ 6801 et seq.) of this title. For complete classification ofthis Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
+The Gramm-Leach-Bliley Act, referred to in subsec. (e), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Title V of the Act is classified principally to chapter 94 (§ 6801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 
@@ -50,5 +50,5 @@ Subsec. (e). Pub. L. 109–351, §802(b), added subsec. (e).
 
 #### Effective Date
 
-Section applicable only with respect to debts for which the initial attempt to collect occurs after the effective date of this subchapter, which takes effect upon the expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
+Section applicable only with respect to debts for which the initial attempt to collect occurs after the effective date of this subchapter, which takes effect uponthe expiration of six months after Sept. 20, 1977, see section 819 of Pub. L. 90–321, as added by Pub. L. 95–109, set out as a note under section 1692 of this title.
 

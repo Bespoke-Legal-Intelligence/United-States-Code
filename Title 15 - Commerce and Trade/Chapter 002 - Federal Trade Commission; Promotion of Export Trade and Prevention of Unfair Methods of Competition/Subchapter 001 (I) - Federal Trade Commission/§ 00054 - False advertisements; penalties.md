@@ -6,7 +6,7 @@ Any person, partnership, or corporation who violates any provision of section 52
 
 #### (b) Exception of advertising medium or agency
 
-No publisher, radio-broadcast licensee, or agency or medium for the dissemination of advertising, except the manufacturer, packer, distributor, or seller of the commodity to which the false advertisement relates, shall be liable under this section by reason of the dissemination by him of any false advertisement, unless he has refused, on the request of the Commission, to furnish the Commission the name and post-office address of the manufacturer, packer, distributor, seller, or advertising agency, residing in the United States, who caused him to disseminate such advertisement. No advertising agency shall be liable under this section by reason of the causing by it of the dissemination of any false advertisement, unless it has refused, on the request of the Commission, to furnish the Commission the name and post-office address of the manufacturer, packer, distributor, or seller, residing in the United States, who caused it to cause the dissemination of such advertisement.
+No publisher, radio-broadcast licensee, or agency or medium for the dissemination of advertising, except the manufacturer, packer, distributor, or seller of the commodity to which the false advertisement relates, shall be liable under this section by reason of the dissemination by him of any false advertisement, unlesshe has refused, on the request of the Commission, to furnish the Commission the name and post-office address of the manufacturer, packer, distributor, seller, or advertising agency, residing in the United States, who caused him to disseminate such advertisement. No advertising agency shall be liable under this section by reason of the causing by it of the dissemination of any false advertisement, unless it has refused, on the request of the Commission, to furnish the Commission the name and post-office address of the manufacturer, packer, distributor, or seller, residing in the United States, who caused it to cause the dissemination of such advertisement.
 
 (Sept. 26, 1914, ch. 311, §14, as added Mar. 21, 1938, ch. 49, §4, 52 Stat. 114.)
 
@@ -14,7 +14,7 @@ No publisher, radio-broadcast licensee, or agency or medium for the disseminatio
 
 #### References in Text
 
-The Meat Inspection Act, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, as amended, which is classified to subchapters I to IV (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
+The Meat Inspection Act, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which is classified to subchapters I to IV (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -8,7 +8,7 @@ Relief Required.—(1) Except as provided in paragraph (2), each member of the A
 
 &emsp;(A) the President authorizes such service in both duty statuses; and
 
-&emsp;(B) the Governor of his State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands, or the commanding general of theDistrict of Columbia National Guard, as the case may be, consents to such service in both duty statuses.
+&emsp;(B) the Governor of his State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands, or the commanding general of the District of Columbia National Guard, as the case may be, consents to such service in both duty statuses.
 
 (b)
 

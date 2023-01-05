@@ -54,7 +54,7 @@ Suspension and Reinstatement.—(1) The Secretary shall establish guidelines for
 
 (2) The Commercial Airlift Review Board shall make recommendations to the Secretary on suspension and reinstatement under this subsection.
 
-(3) The Secretary shall include in each contract subject to this section the provisions onsuspension and reinstatement established under this subsection.
+(3) The Secretary shall include in each contract subject to this section the provisions on suspension and reinstatement established under this subsection.
 
 (e)
 
@@ -128,7 +128,7 @@ Pub. L. 105–85, div. A, title X, §1075(b), Nov. 18, 1997, 111 Stat. 1911, pro
 
 #### Effective Date
 
-Pub. L. 99–661, div. A, title XII, §1204(c), Nov. 14, 1986, 100 Stat. 3971, provided that: "Section 2640 of title 10, United States Code, as added by subsection (a), shall apply only to contracts which are entered into on or after the date on which the regulations required by subsection (b) are prescribed \[set out below\]."
+Pub. L. 99–661, div. A, title XII, §1204(c), Nov. 14, 1986, 100 Stat. 3971, provided that: "Section 2640 of title 10, United States Code, as added by subsection (a), shall apply only to contracts which are entered into on orafter the date on which the regulations required by subsection (b) are prescribed \[set out below\]."
 
 #### Regulations
 

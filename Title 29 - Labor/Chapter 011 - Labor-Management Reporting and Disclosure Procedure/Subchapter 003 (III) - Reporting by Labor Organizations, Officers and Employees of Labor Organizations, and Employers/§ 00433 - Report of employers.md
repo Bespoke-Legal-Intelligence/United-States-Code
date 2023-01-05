@@ -4,7 +4,7 @@
 
 Every employer who in any fiscal year made—
 
-&emsp;(1) any payment or loan, direct or indirect, of money or other thing of value (including reimbursed expenses), or any promise or agreement therefor, to any labor organization or officer, agent, shop steward, or other representative of a labor organization, or employee of any labor organization, except (A) payments or loans made by any national or State bank, credit union, insurance company, savings and loan association or other credit institutionand (B) payments of the kind referred to in section 186(c) of this title;
+&emsp;(1) any payment or loan, direct or indirect, of money or other thing of value (including reimbursed expenses), or any promise or agreement therefor, to any labor organization or officer, agent, shop steward, or other representative of a labor organization, or employee of any labor organization, except (A) payments or loans made by any national or State bank, credit union, insurance company, savings and loan association or other credit institution and (B) payments of the kind referred to in section 186(c) of this title;
 
 &emsp;(2) any payment (including reimbursed expenses) to any of his employees, or any group or committee of such employees, for the purpose of causing such employee or group or committee of employees to persuade other employees to exercise or not to exercise, or as the manner of exercising, the right to organize and bargain collectively through representatives of their own choosing unless such payments were contemporaneously or previously disclosed to such other employees;
 

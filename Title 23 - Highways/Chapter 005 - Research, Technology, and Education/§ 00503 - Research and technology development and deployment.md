@@ -162,7 +162,7 @@ Contents.—Research and technology activities carried out under this paragraph 
 
 &emsp;&emsp;&emsp;(xviii) maintenance of seismic research activities, including research carried out in conjunction with other Federal agencies to study the vulnerability of the transportation system to seismic activity and methods to reduce that vulnerability;
 
-&emsp;&emsp;&emsp;(xix) technology transfer and adoption of permeable, pervious, or porous paving materials, practices, and systems that are designed to minimize environmental impacts, stormwater runoff, and flooding andto treat or remove pollutants by allowing stormwater to infiltrate through the pavement in a manner similar to predevelopment hydrologic conditions; and
+&emsp;&emsp;&emsp;(xix) technology transfer and adoption of permeable, pervious, or porous paving materials, practices, and systems that are designed to minimize environmental impacts, stormwater runoff, and flooding and to treat or remove pollutants by allowing stormwater to infiltrate through the pavement in a manner similar to predevelopment hydrologic conditions; and
 
 &emsp;&emsp;&emsp;(xx) studies on the deployment and revenue potential of the deployment of energy and broadband infrastructure in highway rights-of-way, including potential adverse impacts of the use or nonuse of those rights-of-way.
 
@@ -490,7 +490,7 @@ Goals.—The goals of the accelerated implementation and deployment of pavement 
 
 &emsp;&emsp;&emsp;(v) the deployment of new nondestructive and real-time pavement evaluation technologies and construction techniques; and
 
-&emsp;&emsp;&emsp;(vi) effective technology transfer and information dissemination to accelerate implementation of new technologies and toimprove life, performance, cost effectiveness, safety, and user satisfaction.
+&emsp;&emsp;&emsp;(vi) effective technology transfer and information dissemination to accelerate implementation of new technologies and to improve life, performance, cost effectiveness, safety, and user satisfaction.
 
 &emsp;&emsp;(C)
 
@@ -562,7 +562,7 @@ In general.—The Secretary shall provide grants to eligible entities to deploy,
 
 &emsp;&emsp;(B)
 
-Criteria.—The Secretary shall develop criteria for selection of an eligible entity to receive a grant under this paragraph, including how the deployment of technology will—
+Criteria.—The Secretary shall develop criteria for selection of an eligible entity toreceive a grant under this paragraph, including how the deployment of technology will—
 
 &emsp;&emsp;&emsp;(i) improve the mobility of people and goods;
 
@@ -768,7 +768,7 @@ Grant flexibility.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applications that meet the requirements described in subparagraph (C) to carry out this section for a fiscal year, the Secretary shall transfer to the programs specified in clause (ii)—
+In general.—If, by August 1 of each fiscal year, the Secretary determines that there are not enough grant applicationsthat meet the requirements described in subparagraph (C) to carry out this section for a fiscal year, the Secretary shall transfer to the programs specified in clause (ii)—
 
 &emsp;&emsp;&emsp;&emsp;(I) any of the funds reserved for the fiscal year under subparagraph (I) that the Secretary has not yet awarded under this paragraph; and
 
@@ -856,7 +856,7 @@ Goals.—The goals of the accelerated implementation and deployment of advanced 
 
 &emsp;&emsp;&emsp;&emsp;(II) to fully capture the efficiencies and benefits of advanced digital construction management systems and related technologies;
 
-&emsp;&emsp;&emsp;(viii) reduction in the environmental footprint of construction projects using advanced digital construction management systems resulting from elimination of congestion through more efficient projects; and
+&emsp;&emsp;&emsp;(viii) reduction in the environmental footprint of construction projects usingadvanced digital construction management systems resulting from elimination of congestion through more efficient projects; and
 
 &emsp;&emsp;&emsp;(ix) enhanced worker and pedestrian safety resulting from increased transparency.
 
@@ -1638,7 +1638,7 @@ Pub. L. 117–58, div. B, title IV, §24219, Nov. 15, 2021, 135 Stat. 831, provi
 
 &emsp;"(1) not later than 180 days after the date of enactment of this Act \[Nov. 15, 2021\], expand vehicle-to-pedestrian research efforts focused on incorporating bicyclists and other vulnerable road users into the safe deployment of connected vehicle systems; and
 
-&emsp;"(2) not later than 2 years after the date of enactment of this Act, submit to Congress and make publicly available a report describing the findings of the research efforts described in paragraph (1), including an analysis of the extent to which applications supporting vulnerable road users can be accommodated within existing spectrum allocations for connected vehicle systems."
+&emsp;"(2) not later than 2 years after the date of enactment of this Act, submit to Congress and make publicly available a report describing the findings of theresearch efforts described in paragraph (1), including an analysis of the extent to which applications supporting vulnerable road users can be accommodated within existing spectrum allocations for connected vehicle systems."
 
 #### Surface Transportation System Funding Alternatives
 

@@ -24,7 +24,7 @@ After receipt of a written statement of claim pursuant to subsection (a)(2), the
 
 &emsp;(1) with respect to net equity claims, authorize the trustee to satisfy claims out of moneys made available to the trustee by SIPC notwithstanding the fact that there has not been any showing or determination that there are sufficient funds of the debtor available to satisfy such claims; and
 
-&emsp;(2) with respect to claims relating to, or net equities based upon, securities of a class and series of an issuer which are ascertainable from the books and records of the debtor or are otherwise established to the satisfaction of the trustee, authorize the trustee to deliver securities of such class and series if and to the extent available to satisfy such claims in whole or in part, with partial deliveries to be made pro rata to the greatest extent considered practicable by the trustee.
+&emsp;(2) with respect to claims relating to, or net equities based upon, securities of a class and series of an issuer which are ascertainable from the books and records of the debtor or are otherwise established to the satisfaction of the trustee, authorize the trustee to deliversecurities of such class and series if and to the extent available to satisfy such claims in whole or in part, with partial deliveries to be made pro rata to the greatest extent considered practicable by the trustee.
 
 > Any payment or delivery of property pursuant to this subsection may be conditioned upon the trustee requiring claimants to execute, in a form to be determined by the trustee, appropriate receipts, supporting affidavits, releases, and assignments, but shall be without prejudice to any right of a claimant to file formal proof of claim within the period specified in subsection (a)(3) for any balance of securities or cash to which such claimant considers himself entitled.
 
@@ -42,7 +42,7 @@ After receipt of a written statement of claim pursuant to subsection (a)(2), the
 
 &emsp;&emsp;(D) fourth, to SIPC in repayment of advances made by SIPC pursuant to section 78fff–3(c)(2) of this title.
 
-> &emsp;Any customer property remaining after allocation in accordance with this paragraph shall become part of the general estate of the debtor. To the extent customer property and SIPCadvances pursuant to section 78fff–3(a) of this title are not sufficient to pay or otherwise satisfy in full the net equity claims of customers, such customers shall be entitled, to the extent only of their respective unsatisfied net equities, to participate in the general estate as unsecured creditors. For purposes of allocating customer property under this paragraph, securities to be delivered in payment of net equity claims for securities of the same class and series of an issuer shall be valued as of the close of business on the filing date.
+> &emsp;Any customer property remaining after allocation in accordance with this paragraph shall become part of the general estate of the debtor. To the extent customer property and SIPC advances pursuant to section 78fff–3(a) of this title are not sufficient to pay or otherwise satisfy in full the net equity claims of customers, such customers shall be entitled, to the extent only of their respective unsatisfied net equities, to participate in the general estate as unsecured creditors. For purposes of allocating customer property under this paragraph, securities to be delivered in payment of net equity claims for securities of the same class and series of an issuer shall be valued as of the close of business on the filing date.
 
 #### (2) Delivery of customer name securities
 
@@ -70,7 +70,7 @@ The trustee shall, to the extent that securities can be purchased in a fair and 
 
 &emsp;&emsp;(B) if such broker or dealer sustains a net loss on such contracts, he shall be entitled to file a claim against the debtor with the trustee in the amount of such net loss.
 
-> &emsp;To the extent that a net loss sustained by a broker or dealer arises from contracts pursuant to which such broker or dealer was acting for its own customer, such broker or dealer shall be entitled to receive funds advanced by SIPC to the trustee in the amount of such loss, except that such broker or dealer may not receive more than $40,000 for each separate customer with respect to whom it sustained a loss. With respect to a net loss which is not payable under the preceding sentence from funds advanced by SIPC, the broker or dealer shall be entitled to participate in the general estate as an unsecured creditor.
+> &emsp;To the extent that a net loss sustained by a broker or dealer arises from contracts pursuant to which such broker or dealer was acting for its own customer, such broker or dealershall be entitled to receive funds advanced by SIPC to the trustee in the amount of such loss, except that such broker or dealer may not receive more than $40,000 for each separate customer with respect to whom it sustained a loss. With respect to a net loss which is not payable under the preceding sentence from funds advanced by SIPC, the broker or dealer shall be entitled to participate in the general estate as an unsecured creditor.
 
 #### (3) Registered clearing agencies
 

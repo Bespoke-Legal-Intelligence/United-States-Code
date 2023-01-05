@@ -14,7 +14,7 @@
 
 #### (B) Alternative environmental protection procedure
 
-&emsp;&emsp;In lieu of applying environmental protection procedures otherwise applicable, the Secretary may by regulation provide for the release of funds for specific projects to theDepartment of Hawaiian Home Lands if the Director of the Department assumes all of the responsibilities for environmental review, decisionmaking, and action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and such other provisions of law as the regulations of the Secretary specify, that would apply to the Secretary were the Secretary to undertake those projects as Federal projects.
+&emsp;&emsp;In lieu of applying environmental protection procedures otherwise applicable, the Secretary may by regulation provide for the release of funds for specific projects to the Department of Hawaiian Home Lands if the Director of the Department assumes all of the responsibilities for environmental review, decisionmaking, and action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and such other provisions of law as the regulations of the Secretary specify, that would apply to the Secretary were the Secretary to undertake those projects as Federal projects.
 
 #### (2) Regulations
 
@@ -68,7 +68,7 @@ A certification under the procedures under this section shall—
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2), and (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2), and (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Codification
 

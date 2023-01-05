@@ -86,7 +86,7 @@ Exceptions to Certain Cost-sharing Amounts for Certain Beneficiaries Eligible Pr
 
 (2) For the calendar year for which the Secretary first establishes the annual enrollment fee under paragraph (1), the Secretary shall adjust the catastrophic cap amount to be $3,500 for beneficiaries described in subsection (c)(2)(B) in the retired category who are enrolled in TRICARE Select (other than such beneficiaries covered by paragraph (3)).
 
-(3) The enrollment fee established pursuant to paragraph (1) and the catastrophic cap adjusted under paragraph (2) for beneficiaries described in subsection (c)(2)(B) in the retired category shall not apply with respect to the following beneficiaries:
+(3) The enrollment fee established pursuant to paragraph (1) and the catastrophic cap adjustedunder paragraph (2) for beneficiaries described in subsection (c)(2)(B) in the retired category shall not apply with respect to the following beneficiaries:
 
 &emsp;(A) Retired members and the family members of such members covered by paragraph (1) of section 1086(c) of this title by reason of being retired under chapter 61 of this title or being a dependent of such a member.
 
@@ -178,7 +178,7 @@ Elements.—The pilot program under subsection (a) may include the following ele
 
 &emsp;"(2) Supporting such beneficiaries in accessing and navigating the purchased care health care delivery system.
 
-&emsp;"(3) Providing such beneficiaries with information to allow the beneficiaries to make informed decisionsregarding the quality, safety, and cost of available health care services.
+&emsp;"(3) Providing such beneficiaries with information to allow the beneficiaries to make informed decisions regarding the quality, safety, and cost of available health care services.
 
 &emsp;"(4) Improving the health outcomes for such beneficiaries.
 

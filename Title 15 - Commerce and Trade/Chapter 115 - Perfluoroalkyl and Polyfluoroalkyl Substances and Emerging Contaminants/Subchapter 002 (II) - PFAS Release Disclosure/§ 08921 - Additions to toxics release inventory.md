@@ -86,7 +86,7 @@ In this section, the term "toxics release inventory" means the list of toxic che
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), notwithstanding subsection (f)(1) of section 11023 oftitle 42, the threshold for reporting under such section 11023 of title 42 the substances and classes of substances included in the toxics release inventory under paragraph (1) is 100 pounds.
+&emsp;&emsp;Subject to subparagraph (B), notwithstanding subsection (f)(1) of section 11023 of title 42, the threshold for reporting under such section 11023 of title 42 the substances and classes of substances included in the toxics release inventory under paragraph (1) is 100 pounds.
 
 #### (B) Revisions
 

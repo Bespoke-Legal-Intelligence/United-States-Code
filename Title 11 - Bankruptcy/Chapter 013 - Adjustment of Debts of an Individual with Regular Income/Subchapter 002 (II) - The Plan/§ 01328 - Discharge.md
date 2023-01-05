@@ -26,7 +26,7 @@
 
 (d) Notwithstanding any other provision of this section, a discharge granted under this section does not discharge the debtor from any debt based on an allowed claim filed under section 1305(a)(2) of this title if prior approval by the trustee of the debtor's incurring such debt was practicable and was not obtained.
 
-(e) On request of a party in interest before one year after a discharge under this section isgranted, and after notice and a hearing, the court may revoke such discharge only if—
+(e) On request of a party in interest before one year after a discharge under this section is granted, and after notice and a hearing, the court may revoke such discharge only if—
 
 &emsp;(1) such discharge was obtained by the debtor through fraud; and
 
@@ -92,7 +92,7 @@ Pub. L. 109–8, §314(b), added pars. (1) to (4) and struck out former pars. (1
 
 "(3) for restitution, or a criminal fine, included in a sentence on the debtor's conviction of a crime."
 
-Pub. L. 109–8, §213(11), inserted ", and in the case of a debtor who is required by a judicial or administrativeorder, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid" after "completion by the debtor of all payments under the plan" in introductory provisions.
+Pub. L. 109–8, §213(11), inserted ", and in the case of a debtor who is required by a judicial or administrative order, or by statute, to pay a domestic support obligation, after such debtor certifies that all amounts payable under such order or such statute that are due on or before the date of the certification (including amounts due before the petition was filed, but only to the extent provided for by the plan) have been paid" after "completion by the debtor of all payments under the plan" in introductory provisions.
 
 Subsec. (a)(2). Pub. L. 109–8, §707, substituted "section 507(a)(8)(C) or in paragraph (1)(B), (1)(C)," for "paragraph".
 

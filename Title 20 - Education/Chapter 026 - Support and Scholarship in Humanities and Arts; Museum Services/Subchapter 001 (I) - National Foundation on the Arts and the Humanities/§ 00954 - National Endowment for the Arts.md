@@ -100,7 +100,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 (C) Funds made available under this subsection shall not be used to supplant non-Federal funds. The non-Federal funds required by subparagraph (A) to pay 50 percent of the cost of a program or production shall be provided from funds directly controlled and appropriated by the State involved and directly managed by the State agency of such State.
 
-(D) For the purpose of paragraph (3) and paragraph (4) of this section the term "regional group" means any multistate group, whether or not representative of contiguous States.
+(D) For the purpose of paragraph (3) and paragraph (4) of this section the term "regionalgroup" means any multistate group, whether or not representative of contiguous States.
 
 (E) For purposes of paragraph (3)(B), the term "State" includes, in addition to the several States of the Union, only those special jurisdictions specified in section 952(g) of this title which have a population of 200,000 or more, according to the latest decennial census.
 
@@ -270,11 +270,11 @@ Subsec. (c)(8) to (10). Pub. L. 101–512, §318 \[title I, §103(a)(4)–(6)\],
 
 Subsec. (d). Pub. L. 101–512, §318 \[title I, §103(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "No payment may be made to any group under this section except upon application therefor which is submitted to the National Endowment for the Arts in accordance with regulations and procedures established by the Chairperson."
 
-Subsec. (f). Pub. L. 101–512, §318 \[title I, §103(c)\], substituted "Internal Revenue Code of 1986" for "InternalRevenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+Subsec. (f). Pub. L. 101–512, §318 \[title I, §103(c)\], substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Subsec. (g)(2)(E)(i), (ii). Pub. L. 101–512, §318 \[title I, §103(d)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
-"(i) a description of the level of participation during the previous 2 years by artists, artists' organizations, and arts organizations in projects and productions for which financial assistance is provided under this subsection;
+"(i) a description of the level of participation during the previous 2 years by artists, artists' organizations, and arts organizations in projects and productions forwhich financial assistance is provided under this subsection;
 
 "(ii) a description of the extent to which projects and productions receiving financial assistance under this subsection are available to all people and communities in the State; and".
 
@@ -358,7 +358,7 @@ Subsec. (m). Pub. L. 94–462, §401(a), added subsec. (m).
 
 Subsec. (g)(1). Pub. L. 93–133, §2(a)(4)(A), struck out reference to Federal Council on the Arts and Humanities.
 
-Subsec. (g)(2). Pub. L. 93–133, §2(a)(4)(B), (C), in provisions preceding cl. (A), substituted "assistance under this subsection" and "at such time as shall be specified by the Chairman" for "such assistance" and "prior to the first day of such fiscal year" respectively, and in cl. (B), struck out exception that in the first fiscal year in which the state was allotted funds after Sept. 29, 1965, the plan may provide that amount not exceeding $25,000 will be expended to conduct a study to plan the development and the establishment of a State agency.
+Subsec. (g)(2). Pub. L. 93–133, §2(a)(4)(B), (C), in provisions preceding cl. (A), substituted "assistance under this subsection" and "at such time as shall be specified by the Chairman" for "such assistance" and "prior tothe first day of such fiscal year" respectively, and in cl. (B), struck out exception that in the first fiscal year in which the state was allotted funds after Sept. 29, 1965, the plan may provide that amount not exceeding $25,000 will be expended to conduct a study to plan the development and the establishment of a State agency.
 
 Subsec. (g)(3). Pub. L. 93–133, §2(a)(4)(D), added par. (3) and struck out former par. (3) which read as follows: "From the sums appropriated to carry out the purposes of this subsection for any fiscal year, not less than $65,000 shall be allotted to each State. That part of such sums as may remain after such allotment shall be allotted among the States in equal amounts, except that for the purposes of this sentence the term 'State' shall not include Guam and American Samoa. If the sums appropriated for any fiscal year to carry out the purposes of this subsection are insufficient to satisfy allotments under the first sentence of this paragraph, such sums shall be allotted among the States in equal amounts."
 
@@ -420,5 +420,5 @@ Pub. L. 101–512, title III, §318 \[title I, §111\], Nov. 5, 1990, 104 Stat. 
 
 #### Temporary Independent Commission To Review Grant Making Procedures and Consider Standards for Publicly Funded Art
 
-Pub. L. 101–121, title III, §304(a)–(c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for the Arts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
+Pub. L. 101–121, title III, §304(a)–(c), Oct. 23, 1989, 103 Stat. 741, 742, prohibited use of funds for National Endowment for the Arts or National Endowment for the Humanities to promote, disseminate, or produce materials which in judgment of National Endowment for theArts or National Endowment for the Humanities may be considered obscene; stated the sense of Congress concerning present procedures employed for awarding National Endowment for the Arts grants; and established Independent Commission, to expire Sept. 30, 1990, for purpose of reviewing National Endowment for the Arts grant making procedures, and considering whether standard for publicly funded art should be different than standard for privately funded art.
 

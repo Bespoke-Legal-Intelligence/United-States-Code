@@ -46,7 +46,7 @@ Time for Transfer; Revocation and Modification.—(1) Subject to the time limita
 
 (B) The modification or revocation of the transfer of entitlement under this paragraph shall be made by the submittal of written notice of the action to both the Secretary concerned and the Secretary of Veterans Affairs.
 
-(3) Entitlement transferred under this section may not be treated as marital property, or the asset of a marital estate, subject to division in a divorce or other civil proceeding.
+(3) Entitlement transferred under this section may not be treated as marital property, or theasset of a marital estate, subject to division in a divorce or other civil proceeding.
 
 (g)
 
@@ -120,7 +120,7 @@ Secretary Concerned Defined.—Notwithstanding section 101(25) of this title, in
 
 &emsp;(3) the Secretary of the Air Force with respect to matters concerning the Air Force or the Space Force; and
 
-&emsp;(4) the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.
+&emsp;(4) the Secretary of Defense with respect to matters concerning the Coast Guard, or theSecretary of Homeland Security when it is not operating as a service in the Navy.
 
 (Added Pub. L. 107–107, div. A, title VI, §654(a)(1), Dec. 28, 2001, 115 Stat. 1153; amended Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–314, div. A, title VI, §643(a), Dec. 2, 2002, 116 Stat. 2577; Pub. L. 110–252, title V, §5006(a), June 30, 2008, 122 Stat. 2380; Pub. L. 112–81, div. A, title X, §1063(b), Dec. 31, 2011, 125 Stat. 1586; Pub. L. 116–283, div. A, title IX, §926(f), Jan. 1, 2021, 134 Stat. 3831.)
 

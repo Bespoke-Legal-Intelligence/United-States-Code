@@ -54,7 +54,7 @@ Alternative Funding Source.—(1) In carrying out a project under this section, 
 
 (f)
 
-Annual Report.—Not later than 90 days after the end of each fiscal year until December 31, 2025, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the planned and active projects carried out under this section (including completed projects), and shall include in the report with respect to each such project the following information:
+Annual Report.—Not later than 90 days after the end of each fiscal year until December31, 2025, the Secretary of Defense shall submit to the congressional defense committees a report on the status of the planned and active projects carried out under this section (including completed projects), and shall include in the report with respect to each such project the following information:
 
 &emsp;(1) The title, location, a brief description of the scope of work, the original project cost estimate, and the current working cost estimate.
 
@@ -68,7 +68,7 @@ Annual Report.—Not later than 90 days after the end of each fiscal year until 
 
 #### Prior Provisions
 
-A prior section 2815, added Pub. L. 106–398, §1 \[div. B, title XXVIII, §2801(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–412; amended Pub. L. 107–314, div. A, title X,§1062(a)(14), Dec. 2, 2002, 116 Stat. 2650, related to annual evaluation of joint use military construction projects, prior to repeal by Pub. L. 112–81, div. A, title X, §1061(23)(A), Dec. 31, 2011, 125 Stat. 1584.
+A prior section 2815, added Pub. L. 106–398, §1 \[div. B, title XXVIII, §2801(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–412; amended Pub. L. 107–314, div. A, title X, §1062(a)(14), Dec. 2, 2002, 116 Stat. 2650, related to annual evaluation of joint use military construction projects, prior to repeal by Pub. L. 112–81, div. A, title X, §1061(23)(A), Dec. 31, 2011, 125 Stat. 1584.
 
 #### Amendments
 

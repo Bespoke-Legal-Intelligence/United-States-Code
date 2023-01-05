@@ -114,7 +114,7 @@ Amendment by Pub. L. 113–14 effective Oct. 1, 2013, see section 205 of Pub. L.
 
 Pub. L. 115–234, title II, §206(b), Aug. 14, 2018, 132 Stat. 2435, provided that: "Section 742 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–22) shall cease to be effective January 31, 2024."
 
-Pub. L. 113–14, title II, §206(b), June 13, 2013, 127 Stat. 474, which provided that section 742 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–22) would cease to be effective Jan. 31, 2019, was repealed by Pub. L. 115–234, title II, §206(c), Aug. 14, 2018, 132 Stat. 2435, effective Oct. 1, 2018.
+Pub. L. 113–14, title II, §206(b), June 13, 2013, 127 Stat. 474, which provided that section 742 of the FederalFood, Drug, and Cosmetic Act (21 U.S.C. 379j–22) would cease to be effective Jan. 31, 2019, was repealed by Pub. L. 115–234, title II, §206(c), Aug. 14, 2018, 132 Stat. 2435, effective Oct. 1, 2018.
 
 Pub. L. 110–316, title II, §204(b), Aug. 14, 2008, 122 Stat. 3524, which provided that the amendment made by section 203 of Pub. L. 110–316 (enacting this section) would cease to be effective Jan. 31, 2014, was repealed by Pub. L. 113–14, title II, §206(c)(1), June 13, 2013, 127 Stat. 474.
 

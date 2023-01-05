@@ -36,7 +36,7 @@ Subsec. (b)(3). Pub. L. 109–482, §103(b)(17)(B), struck out heading and text 
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–180, title II, §204(b), June 5, 2018, 132 Stat. 1390, provided that: "The amendment made by subsection (a) \[amending section 3 of Pub. L. 107–172\] shalltake effect as if included in section 3 of the Hematological Cancer Research Investment and Education Act of 2002 (Public Law 107–172; 116 Stat. 541) \[enacting this section\]."
+Pub. L. 115–180, title II, §204(b), June 5, 2018, 132 Stat. 1390, provided that: "The amendment made by subsection (a) \[amending section 3 of Pub. L. 107–172\] shall take effect as if included in section 3 of the Hematological Cancer Research Investment and Education Act of 2002 (Public Law 107–172; 116 Stat. 541) \[enacting this section\]."
 
 #### Effective Date of 2007 Amendment
 

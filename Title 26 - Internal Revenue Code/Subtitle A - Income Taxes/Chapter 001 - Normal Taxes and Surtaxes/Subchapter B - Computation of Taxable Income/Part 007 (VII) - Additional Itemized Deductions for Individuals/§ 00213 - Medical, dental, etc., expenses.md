@@ -6,7 +6,7 @@ There shall be allowed as a deduction the expenses paid during the taxable year,
 
 #### (b) Limitation with respect to medicine and drugs
 
-An amount paid during the taxable year for medicine or a drug shall be taken into account under subsection (a) only if such medicine or drug is a prescribed drug or is insulin.
+An amount paid during the taxable year for medicine or a drug shall be taken into accountunder subsection (a) only if such medicine or drug is a prescribed drug or is insulin.
 
 #### (c) Special rule for decedents
 
@@ -68,7 +68,7 @@ Special rule in the case of child of divorced parents, etc.—Any child to whom 
 
 &emsp;&emsp;(C) no amount shall be treated as paid for such insurance if the amount specified in the contract (or furnished to the policyholder by the insurance company in a separate statement) as the charge for such insurance is unreasonably large in relation to the total charges under the contract.
 
-&emsp;(7) Subject to the limitations of paragraph (6), premiums paid during the taxable year by a taxpayer before he attains the age of 65 for insurance covering medical care (within the meaning of subparagraphs (A), (B), and (C) of paragraph (1)) for the taxpayer, his spouse, or a dependent after the taxpayer attains the ageof 65 shall be treated as expenses paid during the taxable year for insurance which constitutes medical care if premiums for such insurance are payable (on a level payment basis) under the contract for a period of 10 years or more or until the year in which the taxpayer attains the age of 65 (but in no case for a period of less than 5 years).
+&emsp;(7) Subject to the limitations of paragraph (6), premiums paid during the taxable year by a taxpayer before he attains the age of 65 for insurance covering medical care (within the meaning of subparagraphs (A), (B), and (C) of paragraph (1)) for the taxpayer, his spouse, or a dependent after the taxpayer attains the age of 65 shall be treated as expenses paid during the taxable year for insurance which constitutes medical care if premiums for such insurance are payable (on a level payment basis) under the contract for a period of 10 years or more or until the year in which the taxpayer attains the age of 65 (but in no case for a period of less than 5 years).
 
 &emsp;(8) The determination of whether an individual is married at any time during the taxable year shall be made in accordance with the provisions of section 6013(d) (relating to determination of status as husband and wife).
 
@@ -144,7 +144,7 @@ Any expense allowed as a credit under section 21 shall not be treated as an expe
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Social Security Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part B of title XVIII of the Social Security Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
 
@@ -358,7 +358,7 @@ Pub. L. 88–272, title II, §211(b), Feb. 26, 1964, 78 Stat. 49, provided that:
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–863, §1(c), Oct. 23, 1962, 76 Stat. 1141, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1961."
+Pub. L. 87–863, §1(c), Oct. 23, 1962, 76 Stat. 1141, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply only withrespect to taxable years beginning after December 31, 1961."
 
 #### Effective Date of 1960 Amendment
 

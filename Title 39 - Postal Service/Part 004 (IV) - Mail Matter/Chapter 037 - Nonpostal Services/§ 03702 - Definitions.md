@@ -1,0 +1,20 @@
+### §3702. Definitions
+
+In this chapter—
+
+&emsp;(1) the term "nonpostal services" is limited to services offered by the Postal Service that are expressly authorized by this chapter and are not postal products or services;
+
+&emsp;(2) the term "costs attributable" has the meaning given such term in section 3631;
+
+&emsp;(3) the term "year" means a fiscal year;
+
+&emsp;(4) the term "local government" means a county, municipality, city, town, township, local public authority, school district, special district, intrastate district, council of governments, or regional or interstate government entity;
+
+&emsp;(5) the term "State government" includes the government of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States;
+
+&emsp;(6) the term "tribal government" means the government of an Indian tribe, as that term is defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304); and
+
+&emsp;(7) the term "United States", when used in a geographical sense, means the States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+
+(Added Pub. L. 117–108, title I, §103(a)(1), Apr. 6, 2022, 136 Stat. 1140.)
+

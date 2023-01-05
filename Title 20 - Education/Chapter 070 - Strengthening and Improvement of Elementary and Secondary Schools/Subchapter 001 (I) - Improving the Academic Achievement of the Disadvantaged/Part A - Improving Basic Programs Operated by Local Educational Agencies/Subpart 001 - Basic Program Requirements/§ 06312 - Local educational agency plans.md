@@ -4,7 +4,7 @@
 
 #### (1) Subgrants
 
-&emsp;A local educational agency may receive a subgrant under this part for any fiscal yearonly if such agency has on file with the State educational agency a plan, approved by the State educational agency, that—
+&emsp;A local educational agency may receive a subgrant under this part for any fiscal year only if such agency has on file with the State educational agency a plan, approved by the State educational agency, that—
 
 &emsp;&emsp;(A) is developed with timely and meaningful consultation with teachers, principals, other school leaders, paraprofessionals, specialized instructional support personnel, charter school leaders (in a local educational agency that has charter schools), administrators (including administrators of programs described in other parts of this subchapter), other appropriate school personnel, and with parents of children in schools served under this part; and
 
@@ -22,7 +22,7 @@
 
 #### (B) Approval
 
-&emsp;&emsp;The State educational agency shall approve a local educational agency's plan only if the State educational agency determines that the local educational agency's plan—
+&emsp;&emsp;The State educational agency shall approve a local educational agency's plan onlyif the State educational agency determines that the local educational agency's plan—
 
 &emsp;&emsp;&emsp;(i) provides that schools served under this part substantially help children served under this part meet the challenging State academic standards; and
 
@@ -192,7 +192,7 @@ For local educational agencies using funds under this part for the purposes desc
 
 &emsp;&emsp;&emsp;(ii) the child's level of English proficiency, how such level was assessed, and the status of the child's academic achievement;
 
-&emsp;&emsp;&emsp;(iii) the methods of instruction used in the program in which their child is, or willbe, participating and the methods of instruction used in other available programs, including how such programs differ in content, instructional goals, and the use of English and a native language in instruction;
+&emsp;&emsp;&emsp;(iii) the methods of instruction used in the program in which their child is, or will be, participating and the methods of instruction used in other available programs, including how such programs differ in content, instructional goals, and the use of English and a native language in instruction;
 
 &emsp;&emsp;&emsp;(iv) how the program in which their child is, or will be, participating will meet the educational strengths and needs of their child;
 
@@ -208,7 +208,7 @@ For local educational agencies using funds under this part for the purposes desc
 
 &emsp;&emsp;&emsp;&emsp;(II) detailing the options that parents have to decline to enroll their child in such program or to choose another program or method of instruction, if available; and
 
-&emsp;&emsp;&emsp;&emsp;(III) assisting parents in selecting among various programs and methods of instruction, if more than 1 program or method is offered by the eligible entity.
+&emsp;&emsp;&emsp;&emsp;(III) assisting parents in selecting among various programs and methods ofinstruction, if more than 1 program or method is offered by the eligible entity.
 
 #### (B) Special rule applicable during the school year
 
@@ -258,7 +258,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(1)(B), 
 
 The Head Start Act, referred to in subsec. (a)(1)(B), is subchapter B (§635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9801 of Title 42 and Tables.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsecs. (a)(1)(B) and (b)(6), is Pub. L.100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsecs. (a)(1)(B) and (b)(6), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 The Adult Education and Family Literacy Act, referred to in subsec. (a)(1)(B), is title II of Pub. L. 113–128, July 22, 2014, 128 Stat. 1608, which is classified generally to subchapter II (§3271 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 

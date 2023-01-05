@@ -12,7 +12,7 @@ Each person required to pay a special tax under this subchapter shall register w
 
 #### (b) Firm or company
 
-Where subsection (a) requires the name and place of residence of a firm or company to beregistered, the names and places of residence of the several persons constituting the firm or company shall be registered.
+Where subsection (a) requires the name and place of residence of a firm or company to be registered, the names and places of residence of the several persons constituting the firm or company shall be registered.
 
 #### (c) Supplemental information
 

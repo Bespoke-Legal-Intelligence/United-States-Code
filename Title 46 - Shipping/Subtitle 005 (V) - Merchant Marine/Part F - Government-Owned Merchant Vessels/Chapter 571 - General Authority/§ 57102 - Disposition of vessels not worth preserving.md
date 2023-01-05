@@ -38,11 +38,11 @@ Pub. L. 110–417, div. C, title XXXV, §3502, Oct. 14, 2008, 122 Stat. 4761, pr
 
 "(a)
 
-In General.—Except as provided in subsection (b), no vessel that is owned by the Government of theUnited States shall be approved for export to a foreign country for purposes of dismantling, recycling, or scrapping.
+In General.—Except as provided in subsection (b), no vessel that is owned by the Government of the United States shall be approved for export to a foreign country for purposes of dismantling, recycling, or scrapping.
 
 "(b)
 
-Exception.—Subsection (a) shall not apply with respect to a vessel if the Administrator of the Maritime Administration certifies to the Committee on Armed Services of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that—
+Exception.—Subsection (a) shall not apply with respect to a vessel if the Administrator of the Maritime Administration certifies to the Committee on ArmedServices of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that—
 
 &emsp;"(1) a compelling need for dismantling, recycling, or scrapping the vessel exists;
 

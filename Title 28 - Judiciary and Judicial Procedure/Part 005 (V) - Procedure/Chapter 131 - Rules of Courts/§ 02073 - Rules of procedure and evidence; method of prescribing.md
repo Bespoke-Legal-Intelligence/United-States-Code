@@ -10,7 +10,7 @@
 
 (2) Any meeting for the transaction of business under this chapter, by a committee appointed under this section, shall be preceded by sufficient notice to enable all interested persons to attend.
 
-(d) In making a recommendation under this section or under section 2072 or 2075, the body making that recommendation shall provide a proposed rule, an explanatory note on the rule, and a written report explaining the body's action, including any minority or other separate views.
+(d) In making a recommendation under this section or under section 2072 or 2075, the bodymaking that recommendation shall provide a proposed rule, an explanatory note on the rule, and a written report explaining the body's action, including any minority or other separate views.
 
 (e) Failure to comply with this section does not invalidate a rule prescribed under section 2072 or 2075 of this title.
 

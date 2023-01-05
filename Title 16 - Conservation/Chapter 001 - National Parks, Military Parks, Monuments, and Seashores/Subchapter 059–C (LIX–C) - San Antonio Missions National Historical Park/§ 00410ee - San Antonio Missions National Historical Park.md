@@ -26,7 +26,7 @@
 
 #### (4) Revisions
 
-&emsp;After advising the Committee on Energy and Natural Resources of the United States Senateand the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereinafter referred to as the "Secretary") may make minor revisions of the boundaries of the park when necessary by publication of a revised drawing or other boundary description in the Federal Register.
+&emsp;After advising the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, in writing, the Secretary of the Interior (hereinafter referred to as the "Secretary") may make minor revisions of the boundaries of the park when necessary by publication of a revised drawing or other boundary description in the Federal Register.
 
 #### (b) Acquisition of lands and interests; cooperative agreements; submittal to Department of Justice
 
@@ -52,7 +52,7 @@ For the purposes of this section, the Secretary is authorized—
 
 &emsp;(2) to enter cooperative agreements with the owners of any historic properties, including properties referred to in paragraph (1), in furtherance of the purposes of this section.
 
-> Each agreement under paragraph (2) shall provide among other things that the owner will hold and preserve the historic property in perpetuity and will not undertake or permit the alteration or removal of historic features or the erection of markers, structures, or buildings without the prior concurrence of the Secretary, and that the public shall have reasonable access to those portions of the property to which access is necessary in the judgment of the Secretary for the proper appreciation and interpretation of its historical and architectural value. Pursuant to such cooperative agreements and notwithstanding any other provision of law to the contrary the Secretary may, directly or by contract, construct, reconstruct, rehabilitate, or develop such buildings, structures, and related facilities including roads, trails, and other interpretive facilities on real property not in Federal ownership and may maintain and operate programs in connection therewith as he deems appropriate. Any lands or interest therein owned by the Catholic Archdiocese of San Antonio, the State of Texas, or any political subdivision of such State, including the San Antonio River Authority, may be acquired by donation only: <i>Provided</i>, That the Secretary shall submit all proposed cooperative agreements to the Department of Justice for a determination that the proposed agreements do not violate the constitutional provisions regarding the separation of church and state.
+> Each agreement under paragraph (2) shall provide among other things that the owner will hold and preserve the historic property in perpetuity and will not undertake or permit the alteration or removal of historic features or the erection of markers, structures, or buildings without the prior concurrence of the Secretary, and that the public shall have reasonable access to those portions of the property to which access is necessary in the judgment of the Secretaryfor the proper appreciation and interpretation of its historical and architectural value. Pursuant to such cooperative agreements and notwithstanding any other provision of law to the contrary the Secretary may, directly or by contract, construct, reconstruct, rehabilitate, or develop such buildings, structures, and related facilities including roads, trails, and other interpretive facilities on real property not in Federal ownership and may maintain and operate programs in connection therewith as he deems appropriate. Any lands or interest therein owned by the Catholic Archdiocese of San Antonio, the State of Texas, or any political subdivision of such State, including the San Antonio River Authority, may be acquired by donation only: <i>Provided</i>, That the Secretary shall submit all proposed cooperative agreements to the Department of Justice for a determination that the proposed agreements do not violate the constitutional provisions regarding the separation of church and state.
 
 #### (c) Retention of rights by owners; compensation for property; termination of rights; "improved property" defined
 
@@ -92,7 +92,7 @@ The Secretary is authorized and directed to take prompt and appropriate action i
 
 #### (f) Authorization of appropriations
 
-(1) There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section, but not more than $10,000,000 for the acquisition of lands and interests in lands.
+(1) There are hereby authorized to be appropriated such sums as may be necessary to carryout the purposes of this section, but not more than $10,000,000 for the acquisition of lands and interests in lands.
 
 (2) For the development of essential public facilities there are authorized to be appropriated not more than $15,000,000.
 

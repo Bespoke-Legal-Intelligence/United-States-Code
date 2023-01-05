@@ -81,12 +81,15 @@
 |  |  |
 | :--- | ---: |
 | [3691\.](Subchapter%20007%20%28VII%29%20-%20Modern%20Service%20Standards/%C2%A7%2003691%20-%20Establishment%20of%20modern%20service%20standards.md) | Establishment of modern service standards. |
+| [3692\.](Subchapter%20007%20%28VII%29%20-%20Modern%20Service%20Standards/%C2%A7%2003692%20-%20Performance%20targets%20and%20transparency.md) | Performance targets and transparency. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–108, title II, §201(b), Apr. 6, 2022, 136 Stat. 1146, added item 3692.
 
 <b>2006</b>—Pub. L. 109–435, title II, §206, Dec. 20, 2006, 120 Stat. 3217, added chapter heading and analysis and struck out former chapter heading "POSTAL RATES, CLASSES, AND SERVICES" and analysis consisting of items for subchapters I to V and items 3601 to 3604, 3621 to 3629, 3641 and 3642, 3661 to 3663, and 3681 to 3685.
 

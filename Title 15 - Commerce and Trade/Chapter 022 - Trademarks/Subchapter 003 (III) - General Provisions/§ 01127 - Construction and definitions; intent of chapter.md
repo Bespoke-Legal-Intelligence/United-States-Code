@@ -26,7 +26,7 @@ The term "trademark" includes any word, name, symbol, or device, or any combinat
 
 &emsp;(1) used by a person, or
 
-&emsp;(2) which a person has a bona fide intention to use in commerce and applies to register onthe principal register established by this chapter,
+&emsp;(2) which a person has a bona fide intention to use in commerce and applies to register on the principal register established by this chapter,
 
 > to identify and distinguish his or her goods, including a unique product, from those manufactured or sold by others and to indicate the source of the goods, even if that source is unknown.
 
@@ -88,7 +88,7 @@ Words used in the singular include the plural and vice versa.
 
 The intent of this chapter is to regulate commerce within the control of Congress by making actionable the deceptive and misleading use of marks in such commerce; to protect registered marks used in such commerce from interference by State, or territorial legislation; to protect persons engaged in such commerce against unfair competition; to prevent fraud and deception in such commerce by the use of reproductions, copies, counterfeits, or colorable imitations of registered marks; and to provide rights and remedies stipulated by treaties and conventions respecting trademarks, trade names, and unfair competition entered into between the United States and foreign nations.
 
-(July 5, 1946, ch. 540, title X, §45, 60 Stat. 443; Pub. L. 87–772, §21, Oct. 9, 1962, 76 Stat. 774; Pub.L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–620, title I, §103, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, §134, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, §3(d), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 103–465, title V, §521, Dec. 8, 1994, 108 Stat. 4981; Pub. L. 104–98, §4, Jan. 16, 1996, 109 Stat. 986; Pub. L. 106–43, §§4(c), 6(b), Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3005, title IV, §4732(b)(1)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–550, 1501A–583; Pub. L. 109–312, §3(e), Oct. 6, 2006, 120 Stat. 1733.)
+(July 5, 1946, ch. 540, title X, §45, 60 Stat. 443; Pub. L. 87–772, §21, Oct. 9, 1962, 76 Stat. 774; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–620, title I, §103, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, §134, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 102–542, §3(d), Oct. 27, 1992, 106 Stat. 3568; Pub. L. 103–465, title V, §521, Dec. 8, 1994, 108 Stat. 4981; Pub. L. 104–98, §4, Jan. 16, 1996, 109 Stat. 986; Pub. L. 106–43, §§4(c), 6(b), Aug. 5, 1999, 113 Stat. 219, 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3005, title IV, §4732(b)(1)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–550, 1501A–583; Pub. L. 109–312, §3(e), Oct. 6, 2006, 120 Stat. 1733.)
 
 #### <b>Editorial Notes</b>
 
@@ -136,7 +136,7 @@ Pub. L. 100–667, §134(6), amended par. defining "collective mark" generally. 
 
 Pub. L. 100–667, §134(7), amended par. defining "mark" generally. Prior to amendment, par. read as follows: "The term 'mark' includes any trade-mark, service mark, collective mark, or certification mark entitled to registration under this chapter whether registered or not."
 
-Pub. L. 100–667, §134(8), substituted par. defining "use in commerce" for former par. which read as follows: "For the purposes of this chapter a mark shall be deemed to be used in commerce (a) on goods when it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto and the goods are sold or transported in commerce and (b) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in this and aforeign country and the person rendering the services is engaged in commerce in connection therewith." and par. providing when a mark is deemed abandoned for former par. which read as follows: "A mark shall be deemed to be 'abandoned'—
+Pub. L. 100–667, §134(8), substituted par. defining "use in commerce" for former par. which read as follows: "For the purposes of this chapter a mark shall be deemed to be used in commerce (a) on goods when it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto and the goods are sold or transported in commerce and (b) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith." and par. providing when a mark is deemed abandoned for former par. which read as follows: "A mark shall be deemed to be 'abandoned'—
 
 "(a) When its use has been discontinued with intent not to resume. Intent not to resume may be inferred from circumstances. Nonuse for two consecutive years shall be prima facie abandonment.
 

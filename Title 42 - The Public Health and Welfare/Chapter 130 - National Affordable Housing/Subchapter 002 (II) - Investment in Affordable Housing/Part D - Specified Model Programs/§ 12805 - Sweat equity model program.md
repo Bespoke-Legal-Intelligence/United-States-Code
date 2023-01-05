@@ -184,7 +184,7 @@ Regulations.—The Secretary shall issue any final regulations necessary to carr
 
 \[Pub. L. 105–276, title V, §599E(b), Oct. 21, 1998, 112 Stat. 2664, provided that: "Notwithstanding the amendments made by subsection (a) \[amending section 11 of Pub. L. 104–120, set out above\], any grant under section 11 of the Housing Opportunity Program Extension Act of 1996 \[Pub. L. 104–120\] (42 U.S.C. 12805 note) from amounts appropriated in fiscal year 1998 or any prior fiscal year shall be governed by the provisions of such section 11 as in effect immediately before the enactment of this Act \[Oct. 21, 1998\], except that the amendments made by paragraphs (8) and (9) of subsection (a) of this section shall apply to such grants."\]
 
-\[Pub. L. 105–276, title V, §599E(c), Oct. 21, 1998, 112 Stat. 2664, provided that: "This section \[amending section 11 of Pub. L. 104–120, set out above, and enacting provisions set out as a note above\] shall take effect, and the amendments made by this section are made on,and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."\]
+\[Pub. L. 105–276, title V, §599E(c), Oct. 21, 1998, 112 Stat. 2664, provided that: "This section \[amending section 11 of Pub. L. 104–120, set out above, and enacting provisions set out as a note above\] shall take effect, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."\]
 
 #### Funding for Self-Help Housing Assistance, National Cities in Schools Community Development Program, and Capacity Building Through National Community Development Initiative
 

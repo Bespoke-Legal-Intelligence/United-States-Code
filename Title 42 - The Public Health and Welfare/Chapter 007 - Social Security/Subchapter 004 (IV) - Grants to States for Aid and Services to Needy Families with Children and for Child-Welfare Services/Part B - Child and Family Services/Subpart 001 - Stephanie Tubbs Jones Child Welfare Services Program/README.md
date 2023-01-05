@@ -24,3 +24,4 @@ Pub. L. 103–66, title XIII, §13711(a)(1), Aug. 10, 1993, 107 Stat. 649, added
 - [&sect; 00628 - Payments to Indian tribal organizations](%C2%A7%2000628%20-%20Payments%20to%20Indian%20tribal%20organizations.md)
 - [&sect; 00628a - Transferred](%C2%A7%2000628a%20-%20Transferred.md)
 - [&sect; 00628b - National random sample study of child welfare](%C2%A7%2000628b%20-%20National%20random%20sample%20study%20of%20child%20welfare.md)
+- [&sect; 00628c - Grants to States to enhance collaboration between State child welfare and juvenile justice systems](%C2%A7%2000628c%20-%20Grants%20to%20States%20to%20enhance%20collaboration%20between%20State%20child%20welfare%20and%20juvenile%20justice%20systems.md)

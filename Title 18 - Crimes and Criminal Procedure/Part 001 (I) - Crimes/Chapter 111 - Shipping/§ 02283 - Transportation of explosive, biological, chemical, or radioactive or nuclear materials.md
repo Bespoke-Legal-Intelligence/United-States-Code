@@ -14,7 +14,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Biological agent.—The term "biological agent" means any biological agent, toxin, or vector (as those terms are defined in section 178).
+Biological agent.—The term "biological agent" means any biological agent, toxin, orvector (as those terms are defined in section 178).
 
 &emsp;(2)
 

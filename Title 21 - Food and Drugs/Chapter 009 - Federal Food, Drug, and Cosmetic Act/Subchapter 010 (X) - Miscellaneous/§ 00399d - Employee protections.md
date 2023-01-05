@@ -16,7 +16,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (1) In general
 
-&emsp;A person who believes that he or she has been discharged or otherwise discriminatedagainst by any person in violation of subsection (a) may, not later than 180 days after the date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor (referred to in this section as the "Secretary") alleging such discharge or discrimination and identifying the person responsible for such act. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
+&emsp;A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) may, not later than 180 days after the date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor (referred to in this section as the "Secretary") alleging such discharge or discrimination and identifying the person responsible for such act. Upon receipt of such a complaint, the Secretary shall notify, in writing, the person named in the complaint of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
 
 #### (2) Investigation
 
@@ -68,7 +68,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (D) Bad faith claim
 
-&emsp;&emsp;If the Secretary finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary mayaward to the prevailing employer a reasonable attorneys' fee, not exceeding $1,000, to be paid by the complainant.
+&emsp;&emsp;If the Secretary finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary may award to the prevailing employer a reasonable attorneys' fee, not exceeding $1,000, to be paid by the complainant.
 
 #### (4) Action in court
 
@@ -118,7 +118,7 @@ No entity engaged in the manufacture, processing, packing, transporting, distrib
 
 #### (2) Rights of employees
 
-&emsp;Nothing in this section shall be construed to diminish the rights, privileges, or remedies of any employee under any Federal or State law or under any collective bargaining agreement. The rights and remedies in this section may not be waived by any agreement, policy, form, or condition of employment.
+&emsp;Nothing in this section shall be construed to diminish the rights, privileges, or remedies of any employee under any Federal or State law or under any collective bargaining agreement.The rights and remedies in this section may not be waived by any agreement, policy, form, or condition of employment.
 
 #### (d) Enforcement
 

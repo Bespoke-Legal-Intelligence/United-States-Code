@@ -38,7 +38,7 @@ Subsec. (d). Pub. L. 89–121 redesignated former subsec. (c) as (d), and substi
 
 Subsec. (e). Pub. L. 89–121 redesignated former subsec. (d) as (e), and inserted provisions requiring the reserve installation to have a minimum normal range of 100 nautical miles. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 89–121 redesignated former subsec. (e) as (f), and substituted "electrical energy" for"power" and "operate the main installation over the normal range required by subsection (e) of this section as well as for the purpose of charging any batteries forming part of the radiotelegraph station" for "operate the main radio installation efficiently under normal conditions over the range specified in subsection (d) of this section". Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 89–121 redesignated former subsec. (e) as (f), and substituted "electrical energy" for "power" and "operate the main installation over the normal range required by subsection (e) of this section as well as for the purpose of charging any batteries forming part of the radiotelegraph station" for "operate the main radio installation efficiently under normal conditions over the range specified in subsection (d) of this section". Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 89–121 redesignated former subsec. (f) as (g), directed that the reserve source of energy and its switchboard shall be as high as practicable in the ship and readily accessible to the radio officer, and eliminated provisions which stated that for the emergency or reserve installation the normal range shall be at least 100 nautical miles. Former subsec. (g) redesignated (h).
 

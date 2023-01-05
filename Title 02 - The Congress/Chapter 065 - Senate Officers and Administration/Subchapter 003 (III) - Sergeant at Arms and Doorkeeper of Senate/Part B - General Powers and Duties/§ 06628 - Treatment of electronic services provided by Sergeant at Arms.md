@@ -32,7 +32,7 @@ In this section—
 
 #### (2) Sergeant at Arms and providers for a Senate office
 
-&emsp;The Office of the SAA, any officer, employee, or agent of the Office of the SAA, and any provider for a Senate office shall not be treated as acquiring possession, custody, or control of any Senate data by reason of its being transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established, maintained, or operated, or the use of electronic services provided, in whole or in part by the Office of the SAA, the officer, employee, or agent of the Office of the SAA, or the provider for the Senate office.
+&emsp;The Office of the SAA, any officer, employee, or agent of the Office of the SAA, and any provider for a Senate office shall not be treated as acquiring possession, custody, or control of any Senate data by reason of its being transmitted, processed, or stored (whether temporarily or otherwise) through the use of an electronic system established,maintained, or operated, or the use of electronic services provided, in whole or in part by the Office of the SAA, the officer, employee, or agent of the Office of the SAA, or the provider for the Senate office.
 
 #### (c) Notification
 

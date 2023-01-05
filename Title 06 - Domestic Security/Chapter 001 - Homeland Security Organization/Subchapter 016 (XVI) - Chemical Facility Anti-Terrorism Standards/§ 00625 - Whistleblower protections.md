@@ -48,7 +48,7 @@
 
 #### (D) Expiration of effectiveness of order
 
-&emsp;&emsp;If a petition for review of an action is filed under subparagraph (C) and the review under that subparagraph is not completed by the end of the 30-day period beginning on the date the petition is filed, the action shall cease to be effective at the end of such period unless the Secretary determines, in writing, that the violation providing a basis for the action continues to exist.
+&emsp;&emsp;If a petition for review of an action is filed under subparagraph (C) and the review under that subparagraph is not completed by theend of the 30-day period beginning on the date the petition is filed, the action shall cease to be effective at the end of such period unless the Secretary determines, in writing, that the violation providing a basis for the action continues to exist.
 
 #### (6) Retaliation prohibited
 

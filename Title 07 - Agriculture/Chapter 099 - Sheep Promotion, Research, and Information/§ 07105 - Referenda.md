@@ -18,7 +18,7 @@
 
 #### (2) Suspension or termination
 
-&emsp;If the Secretary determines that suspension or termination of the order is favored by a majority of the producers, feeders, and importersvoting in the referendum or at least 2/3 of the production represented by the persons voting in the referendum, the Secretary shall suspend or terminate—
+&emsp;If the Secretary determines that suspension or termination of the order is favored by a majority of the producers, feeders, and importers voting in the referendum or at least 2/3 of the production represented by the persons voting in the referendum, the Secretary shall suspend or terminate—
 
 &emsp;&emsp;(A) collection of assessments under the order not later than 180 days after the determination; and
 

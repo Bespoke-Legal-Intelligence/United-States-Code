@@ -66,7 +66,7 @@ A local educational agency receiving an award under this section—
 
 &emsp;(4) in paying the costs associated with the direct student services described in paragraph (3), shall—
 
-&emsp;&emsp;(A) first, pay such costs for students who are enrolled in schools identified by theState for comprehensive support and improvement under section 6311(c)(4)(D)(i) of this title;
+&emsp;&emsp;(A) first, pay such costs for students who are enrolled in schools identified by the State for comprehensive support and improvement under section 6311(c)(4)(D)(i) of this title;
 
 &emsp;&emsp;(B) second, pay such costs for low-achieving students who are enrolled in schools implementing targeted support and improvement plans under section 6311(d)(2) of this title; and
 

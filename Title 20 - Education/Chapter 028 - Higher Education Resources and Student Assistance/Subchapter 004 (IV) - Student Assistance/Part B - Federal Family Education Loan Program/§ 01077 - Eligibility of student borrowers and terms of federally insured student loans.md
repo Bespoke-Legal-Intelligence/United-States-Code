@@ -26,7 +26,7 @@ Except as provided in section 1078–3 of this title, a loan by an eligible lend
 
 &emsp;&emsp;&emsp;&emsp;(II) is pursuing a course of study pursuant to a graduate fellowship program approved by the Secretary, or pursuant to a rehabilitation training program for individuals with disabilities approved by the Secretary,
 
-&emsp;&emsp;&nbsp;except that no borrower shall be eligible for a deferment under this clause, or a loan made under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program;
+&emsp;&emsp;&nbsp;except that no borrower shall be eligible for a deferment under this clause, or a loanmade under this part (other than a loan made under section 1078–2 or 1078–3 of this title), while serving in a medical internship or residency program;
 
 &emsp;&emsp;&emsp;(ii) not in excess of 3 years during which the borrower is seeking and unable to find full-time employment;
 
@@ -38,7 +38,7 @@ Except as provided in section 1078–3 of this title, a loan by an eligible lend
 
 &emsp;&emsp;(D) provides for interest on the unpaid principal balance of the loan at a yearly rate, not exceeding the applicable maximum rate prescribed in section 1077a of this title, which interest shall be payable in installments over the period of the loan except that, if provided in the note or other written agreement, any interest payable by the student may be deferred until not later than the date upon which repayment of the first installment of principal falls due, in which case interest accrued during that period may be added on that date to the principal;
 
-&emsp;&emsp;(E) provides that the lender will not collect or attempt to collect from the borrower any portion of the interest on the notewhich is payable by the Secretary under this part, and that the lender will enter into such agreements with the Secretary as may be necessary for the purpose of section 1087 of this title;
+&emsp;&emsp;(E) provides that the lender will not collect or attempt to collect from the borrower any portion of the interest on the note which is payable by the Secretary under this part, and that the lender will enter into such agreements with the Secretary as may be necessary for the purpose of section 1087 of this title;
 
 &emsp;&emsp;(F) entitles the student borrower to accelerate without penalty repayment of the whole or any part of the loan;
 
@@ -96,7 +96,7 @@ Subsec. (a)(2)(G)(ii). Pub. L. 110–315, §432(b)(1)(B), substituted "consumer 
 
 <b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–325, §414(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "is made without security and without endorsement, except that prior to making a loan insurable by the Secretary under this part a lender shall—
 
-&emsp;"(i) obtain a credit report, from at least one national credit bureau organization, with respect to aloan applicant who will be at least 21 years of age as of July 1 of the award year for which assistance is being sought, for which the lender may charge the applicant an amount not to exceed the lesser of $25 or the actual cost of obtaining the credit report; and
+&emsp;"(i) obtain a credit report, from at least one national credit bureau organization, with respect to a loan applicant who will be at least 21 years of age as of July 1 of the award year for which assistance is being sought, for which the lender may charge the applicant an amount not to exceed the lesser of $25 or the actual cost of obtaining the credit report; and
 
 &emsp;"(ii) require an applicant of the age specified in clause (i) who, in the judgment of the lender in accordance with the regulations of the Secretary, has an adverse credit history, to obtain a credit worthy cosigner in order to obtain the loan, provided that, for purposes of this clause, an insufficient or nonexistent credit history may not be considered to be an adverse credit history;".
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (a)(2)(C), relating to deferments, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, and except that changes made in subsec. (a)(2)(H), relating to offering graduated or income sensitive repayment options, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
+Amendment by Pub. L. 102–325 effective July 23, 1992, except that changes made in subsec. (a)(2)(C), relating to deferments, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, and except that changes made in subsec. (a)(2)(H), relating to offeringgraduated or income sensitive repayment options, applicable with respect to loans for which first disbursement is made on or after July 1, 1993, to an individual who is a new borrower on date such individual applies for a loan, see section 432 of Pub. L. 102–325, set out as a note under section 1078 of this title.
 
 #### Effective Date of 1989 Amendment
 

@@ -68,7 +68,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (4) Considerations
 
-&emsp;In adopting standards under paragraph (1), the Secretary of Health and Human Servicesshall give due consideration to the recommended national standards provided by the Commission under section 30306(e) of this title.
+&emsp;In adopting standards under paragraph (1), the Secretary of Health and Human Services shall give due consideration to the recommended national standards provided by the Commission under section 30306(e) of this title.
 
 #### (e) Eligibility for Federal funds
 
@@ -202,7 +202,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (6) Implementation
 
-&emsp;The Attorney General shall establish procedures to implement this subsection, including procedures for effectively applying this subsection to discretionary grant programs.
+&emsp;The Attorney General shall establish procedures to implement this subsection, includingprocedures for effectively applying this subsection to discretionary grant programs.
 
 #### (7) Effective date
 

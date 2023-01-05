@@ -36,7 +36,7 @@ Not later than 1 year after October 5, 2018, the Administrator shall develop and
 
 Subsec. (b). Pub. L. 115–254, §1968(b)(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "There are authorized to be appropriated to the Secretary to carry out this section such sums as necessary, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018."
 
-Pub. L. 115–254, §1930(b), which directed amendment of "section 1303(b) of the National Transit Systems Security Act of 2007 (6 U.S.C. 1112(b))" by substituting"such sums as necessary, including funds to develop at least 30, but not more than 60, VIPR teams, for fiscal years 2019 through 2021" for "to the extent appropriated, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018", could not be executed to this section, which is section 1303(b) of the Implementing Recommendations of the 9/11 Commission Act of 2007, because the words to be substituted for did not appear.
+Pub. L. 115–254, §1930(b), which directed amendment of "section 1303(b) of the National Transit Systems Security Act of 2007 (6 U.S.C. 1112(b))" by substituting "such sums as necessary, including funds to develop at least 30, but not more than 60, VIPR teams, for fiscal years 2019 through 2021" for "to the extent appropriated, including funds to develop not more than 60 VIPR teams, for fiscal years 2016 through 2018", could not be executed to this section, which is section 1303(b) of the Implementing Recommendations of the 9/11 Commission Act of 2007, because the words to be substituted for did not appear.
 
 Subsec. (c). Pub. L. 115–254, §1968(b)(2), added subsec. (c).
 
@@ -64,7 +64,7 @@ Annex.—The notification under paragraph (1) may contain a classified annex.
 
 "(3)
 
-Definition of vipr team.—In this subsection, the term 'VIPR' means a Visible Intermodal Prevention and Response team authorized under section 1303 of the National Transit Systems Security Act of 2007 \[probably means section 1303 of the Implementing Recommendations of the 9/11 Commission Act of 2007\] (6 U.S.C. 1112)."
+Definition of vipr team.—In this subsection, the term 'VIPR' means a Visible Intermodal Prevention and Response team authorized under section 1303 of theNational Transit Systems Security Act of 2007 \[probably means section 1303 of the Implementing Recommendations of the 9/11 Commission Act of 2007\] (6 U.S.C. 1112)."
 
 \[For definition of "explosive detection canine teams" as used in section 1930(a) of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a note under section 101 of Title 49, Transportation.\]
 

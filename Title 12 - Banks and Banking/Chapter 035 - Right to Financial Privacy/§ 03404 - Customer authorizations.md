@@ -20,7 +20,7 @@ No such authorization shall be required as a condition of doing business with an
 
 #### (c) Right of customer to access to financial institution's record of disclosures
 
-The customer has the right, unless the Government authority obtains a court order as provided in section 3409 of this title, to obtain a copy of the record which the financial institution shall keep of all instances in which the customer's record is disclosed to a Government authority pursuant to this section, including theidentity of the Government authority to which such disclosure is made.
+The customer has the right, unless the Government authority obtains a court order as provided in section 3409 of this title, to obtain a copy of the record which the financial institution shall keep of all instances in which the customer's record is disclosed to a Government authority pursuant to this section, including the identity of the Government authority to which such disclosure is made.
 
 (Pub. L. 95–630, title XI, §1104, Nov. 10, 1978, 92 Stat. 3698; Pub. L. 96–3, Mar. 7, 1979, 93 Stat. 5.)
 

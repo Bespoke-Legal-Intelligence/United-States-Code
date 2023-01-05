@@ -14,7 +14,7 @@
 
 (g) Any reference to any requirement imposed under this subchapter or any provision thereof includes reference to the regulations of the Bureau under this subchapter or the provision thereof in question.
 
-(Pub. L. 90–321, title VII, §702, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522; amended Pub. L. 111–203, title X, §1085(1), (2), July 21, 2010, 124 Stat. 2083.)
+(Pub. L. 90–321, title VII, §702, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1522;amended Pub. L. 111–203, title X, §1085(1), (2), July 21, 2010, 124 Stat. 2083.)
 
 #### <b>Editorial Notes</b>
 

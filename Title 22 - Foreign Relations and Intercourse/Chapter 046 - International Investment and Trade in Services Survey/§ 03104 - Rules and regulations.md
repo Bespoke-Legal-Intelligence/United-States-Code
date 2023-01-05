@@ -38,7 +38,7 @@ Any person who willfully violates subsection (c) or (d) shall, upon conviction, 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–533, §7(a), inserted at end "When a report under paragraph (2) is furnished under oath, such oath shall be by the officer of such person who is directly responsible for the maintenanceand compilation of such information, and shall certify that the report was prepared in accordance with this chapter, is complete, and is to such officer's best knowledge and belief, substantially accurate, except in a case in which, in accordance with rules and regulations issued under this chapter, estimates have been provided because data are not available from customary accounting records or precise data could not be obtained without undue burden, and the data subject to such estimates has been noted in the report."
+<b>1990</b>—Subsec. (b). Pub. L. 101–533, §7(a), inserted at end "When a report under paragraph (2) is furnished under oath, such oath shall be by the officer of such person who is directly responsible for the maintenance and compilation of such information, and shall certify that the report was prepared in accordance with this chapter, is complete, and is to such officer's best knowledge and belief, substantially accurate, except in a case in which, in accordance with rules and regulations issued under this chapter, estimates have been provided because data are not available from customary accounting records or precise data could not be obtained without undue burden, and the data subject to such estimates has been noted in the report."
 
 Subsec. (c)(2). Pub. L. 101–533, §6(e)(1), substituted "subsection (e)" for "subsection (d)".
 

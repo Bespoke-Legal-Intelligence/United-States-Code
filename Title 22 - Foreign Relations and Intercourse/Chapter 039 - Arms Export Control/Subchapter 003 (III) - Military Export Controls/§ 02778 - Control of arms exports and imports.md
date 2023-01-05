@@ -12,7 +12,7 @@
 
 (1)(A)(i) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in an official capacity) who engages in the business of manufacturing, exporting, or importing any defense articles or defense services designated by the President under subsection (a)(1) shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations. Such regulations shall prohibit the return to the United States for sale in the United States (other than for the Armed Forces of the United States and its allies or for any State or local law enforcement agency) of any military firearms or ammunition of United States manufacture furnished to foreign governments by the United States under this chapter or any other foreign assistance or sales program of the United States, whether or not enhanced in value or improved in condition in a foreign country. This prohibition shall not extend to similar firearms that have been so substantially transformed as to become, in effect, articles of foreign manufacture.
 
-(ii)(I) As prescribed in regulations issued under this section, every person (other than anofficer or employee of the United States Government acting in official capacity) who engages in the business of brokering activities with respect to the manufacture, export, import, or transfer of any defense article or defense service designated by the President under subsection (a)(1), or in the business of brokering activities with respect to the manufacture, export, import, or transfer of any foreign defense article or defense service (as defined in subclause (IV)), shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations.
+(ii)(I) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in official capacity) who engages in the business of brokering activities with respect to the manufacture, export, import, or transfer of any defense article or defense service designated by the President under subsection (a)(1), or in the business of brokering activities with respect to the manufacture, export, import, or transfer of any foreign defense article or defense service (as defined in subclause (IV)), shall register with the United States Government agencycharged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations.
 
 (II) Such brokering activities shall include the financing, transportation, freight forwarding, or taking of any other action that facilitates the manufacture, export, or import of a defense article or defense service.
 
@@ -50,7 +50,7 @@ Any person who willfully violates any provision of this section, section 2779 of
 
 #### (e) Enforcement powers of President
 
-In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 <sup>1</sup> of the Export Administration Act of 1979, and by subsections (a) and (c) of section 12 <sup>1</sup> of such Act, subject to the same terms and conditions as are applicable to such powers under such Act, except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued underthis section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
+In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c) and (d) of section 1760 of the Export Control Reform Act of 2018 (50 U.S.C. 4819), and by subsections (a)(1), (a)(2), (a)(3), (a)(4), (a)(7), (c), and (h) of section 1761 of such Act (50 U.S.C. 4820), subject to the same terms and conditions as are applicable to such powers under such Act, except that section 1760(c)(2) of such Act (50 U.S.C. 4819(c)(2)) shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in thissubsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section section <sup>1</sup> 1760(c) of the Export Control Reform Act of 2018 (50 U.S.C. 4819(c)), the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed the greater of $1,200,000 or the amount that is twice the value of the transaction that is the basis of the violation with respect to which the penalty is imposed..<sup>1</sup>
 
 #### (f) Periodic review of items on Munitions List; exemptions
 
@@ -96,7 +96,7 @@ In carrying out functions under this section with respect to the export of defen
 
 &emsp;&emsp;(i) this section,
 
-&emsp;&emsp;(ii) section 11 of the Export Administration Act of 1979 (50 U.S.C. App. 2410),<sup>1</sup>
+&emsp;&emsp;(ii) section 11 of the Export Administration Act of 1979 (50 U.S.C. App. 2410),<sup>2</sup>
 
 &emsp;&emsp;(iii) section 793, 794, or 798 of title 18 (relating to espionage involving defense or classified information) or section 2339A of such title (relating to providing material support to terrorists),
 
@@ -304,7 +304,7 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;(B) any successor regulations.
 
-(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, §6910, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 111–195, title I, §107(a)(2), July 1, 2010, 124 Stat. 1337; Pub. L. 111–266, title I, §§102(b)–103(c), Oct. 8, 2010, 124 Stat. 2797, 2799; Pub. L. 113–276, title II, §§204, 205, 208(a)(1), (3), (b)(1)(A), Dec. 18, 2014, 128 Stat. 2990–2993.)
+(Pub. L. 90–629, ch. 3, §38, as added Pub. L. 94–329, title II, §212(a)(1), June 30, 1976, 90 Stat. 744; amended Pub. L. 95–92, §20, Aug. 4, 1977, 91 Stat. 623; Pub. L. 96–70, title III, §3303(a)(4), Sept. 27, 1979, 93 Stat. 499; Pub. L. 96–72, §22(a), Sept. 29, 1979, 93 Stat. 535; Pub. L. 96–92, §21, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §107(a), (c), Dec. 16, 1980, 94 Stat. 3136; Pub. L. 97–113, title I, §§106, 107, Dec. 29, 1981, 95 Stat. 1522; Pub. L. 99–64, title I, §123(a), July 12, 1985, 99 Stat. 156; Pub. L. 99–83, title I, §119(a), (b), Aug. 8, 1985, 99 Stat. 203, 204; Pub. L. 100–202, §101(b) \[title VIII, §8142(a)\], Dec. 22, 1987, 101 Stat. 1329–43, 1329–88; Pub. L. 100–204, title XII, §1255, Dec. 22, 1987, 101 Stat. 1429; Pub. L. 101–222, §§3(a), 6, Dec. 12, 1989, 103 Stat. 1896, 1899; Pub. L. 103–236, title VII, §714(a)(1), Apr. 30, 1994, 108 Stat. 497; Pub. L. 104–164, title I, §§151(a), 156, July 21, 1996, 110 Stat. 1437, 1440; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(a)(2), Oct. 21, 1998, 112 Stat. 2681–773; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §§1302(a), 1303, 1304\], Nov. 29, 1999, 113 Stat. 1536, 1501A–510, 1501A–511; Pub. L. 106–280, title I, §102(a), (b), Oct. 6, 2000, 114 Stat. 846, 848; Pub. L. 107–228, div. B, title XIV, §1406, Sept. 30, 2002, 116 Stat. 1458; Pub. L. 108–458, title VI, §6910, Dec. 17, 2004, 118 Stat. 3774; Pub. L. 111–195, title I, §107(a)(2), July 1, 2010, 124 Stat. 1337; Pub. L. 111–266, title I, §§102(b)–103(c), Oct. 8, 2010, 124 Stat. 2797, 2799; Pub. L. 113–276, title II, §§204, 205, 208(a)(1), (3), (b)(1)(A), Dec. 18, 2014, 128 Stat. 2990–2993; Pub. L. 117–263, div. I, title XCVII, §9708, Dec. 23, 2022, 136 Stat. 3918.)
 
 #### <b>Editorial Notes</b>
 
@@ -312,17 +312,21 @@ As prescribed in regulations issued under this section, a United States person t
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Export Administration Act of 1979, referred to in subsecs. (e) and (g)(1)(A)(ii), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613). Sections 11 and 12 of the Act were classified to sections 4610 and 4614, respectively, of Title 50 prior to repeal.
+Such Act, referred to in subsec. (e), means the Export Control Reform Act of 2018, subtitle B (§§1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 4801 of Title 50 and Tables.
+
+Section 11 of the Export Administration Act of 1979, referred to in subsec. (g)(1)(A)(ii), was classified to section 2410 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4610 of Title 50. Section 11 of the Act was subsequently repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions relating to penalties are covered generally in section 4819 of Title 50, as enacted by Pub. L. 115–232.
 
 Section 104 of the Foreign Corrupt Practices Act (15 U.S.C. 78dd–2), referred to in subsec. (g)(1)(A)(vi), probably means section 104 of the Foreign Corrupt Practices Act of 1977, which is classified to section 78dd–2 of Title 15, Commerce and Trade.
 
 Sections 3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Weapons Act of 2004, referred to in subsec. (g)(1)(A)(xii), probably means sections 6903, 6904, 6905, and 6906, respectively, of Pub. L. 108–458, which enacted section 2332g of Title 18, Crimes and Criminal Procedure, amended sections 2122 and 2272 of Title 42, The Public Health and Welfare, and enacted sections 2332h and 175c of Title 18.
 
-The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 The International Emergency Economic Powers Act, referred to in subsec. (k)(3)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e). Pub. L. 117–263 substituted "subsections (c) and (d) of section 1760 of the Export Control Reform Act of 2018 (50 U.S.C. 4819), and by subsections (a)(1), (a)(2), (a)(3), (a)(4), (a)(7), (c), and (h) of section 1761 of such Act (50 U.S.C. 4820)" for "subsections (c), (d), (e), and (g) of section 11 of the Export Administration Act of 1979, and by subsections (a) and (c) of section 12 of such Act", "1760(c)(2) of such Act (50 U.S.C. 4819(c)(2))" for "11(c)(2)(B) of such Act", "section 1760(c) of the Export Control Reform Act of 2018 (50 U.S.C. 4819(c))" for "11(c) of the Export Administration Act of 1979", and "the greater of $1,200,000 or the amount that is twice the value of the transaction that is the basis of the violation with respect to which the penalty is imposed." for "$500,000".
 
 <b>2014</b>—Subsec. (b)(1)(B), (C). Pub. L. 113–276, §208(b)(1)(A)(i), redesignated subpar. (B) relating to review by Secretary of the Treasury of munitions control registrations as (C).
 
@@ -462,7 +466,7 @@ Pub. L. 111–266, title I, §107, Oct. 8, 2010, 124 Stat. 2802, provided that: 
 
 #### Satellites and Related Items
 
-Pub. L. 112–239, div. A, title XII, subtitle E, Jan. 2, 2013, 126 Stat. 2018, provided that:
+Pub. L. 112–239, div. A, title XII, subtitle E, Jan. 2, 2013, 126 Stat. 2018, as amended by Pub. L. 117–263, div. F, title LXVIII, §6811(g), Dec. 23, 2022, 136 Stat. 3601, provided that:
 
 #### "SEC. 1261. REMOVAL OF SATELLITES AND RELATED ITEMS FROM THE UNITED STATES MUNITIONS LIST.
 
@@ -526,7 +530,7 @@ Report.—
 
 &emsp;"(1)
 
-In general.—Not later than one year after the date of the enactment of this Act, and annually thereafter, the Director of National Intelligence, in consultation with the Secretary of State, shall submit to the appropriate congressional committees a report on efforts of state sponsors of terrorism, other foreign countries, or entities to illicitly acquire satellites and related items.
+In general.—Not later than one year after the date of the enactment of this Act, and once every two years thereafter, the Director of National Intelligence, in consultation with the Secretary of State, shall submit to the appropriate congressional committees a report on efforts of state sponsors of terrorism, other foreign countries, or entities to illicitly acquire satellites and related items.
 
 &emsp;"(2)
 
@@ -614,7 +618,7 @@ State sponsor of terrorism.—The term 'state sponsor of terrorism' means any co
 
 United states munitions list.—The term 'United States Munitions List' means the list referred to in section 38(a)(1) of the Arms Export Control Act (22 U.S.C. 2778(a)(1))."
 
-\[Memorandum of President of the United States, Oct. 28, 2013, 78 F.R. 71985, delegated to the Secretary ofState, in consultation with the heads of other executive departments and agencies, the functions of the President under section 1261(b) of Pub. L. 112–239, set out above, and to the Secretary of Commerce the functions of the President under section 1262(a) of Pub. L. 112–239, set out above.\]
+\[Memorandum of President of the United States, Oct. 28, 2013, 78 F.R. 71985, delegated to the Secretary of State, in consultation with the heads of other executive departments and agencies, the functions of the President under section 1261(b) of Pub. L. 112–239, set out above, and to the Secretary of Commerce the functions of the President under section 1262(a) of Pub. L. 112–239, set out above.\]
 
 #### Limitation on Implementing Arrangements
 
@@ -684,7 +688,7 @@ Congressional Notification for Other Amendments To Implementing Arrangements.—
 
 &emsp;"(2) an analysis of the amendment's effect, including an analysis regarding why subsection (a) does not apply."
 
-\[Memorandum of President of the United States, Feb. 20, 2013, 78 F.R. 13997, delegated to the Secretary of State (1) the function of the President to make all certifications, reports, and notifications to Congress prior to entry into force of the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, as well as to provide annual reports thereafter, consistent with section 2 of the Senate Resolution of Advice and Consent to Ratification of the Treaty, dated Sept. 29, 2010, and (2) the responsibility of the President, under Pub. L. 111–266, to provide congressional notification of amendments to the implementing arrangements that are made pursuant to section 105(c) of Pub. L. 111–266, set out above.\]
+\[Memorandum of President of the United States, Feb. 20, 2013, 78 F.R. 13997, delegated to the Secretary of State (1) the function of the President to make all certifications, reports, and notifications to Congress prior to entry into force of the Treaty Between the Government of the United States of America and the Government of Australia Concerning Defense Trade Cooperation, as well as to provide annual reports thereafter, consistent with section 2 of the Senate Resolution of Advice and Consent to Ratification of the Treaty, datedSept. 29, 2010, and (2) the responsibility of the President, under Pub. L. 111–266, to provide congressional notification of amendments to the implementing arrangements that are made pursuant to section 105(c) of Pub. L. 111–266, set out above.\]
 
 \[Memorandum of President of the United States, Mar. 6, 2012, 77 F.R. 15231, delegated to the Secretary of State, in consultation with the heads of other executive departments and agencies, (1) the function of the President to make all certifications, reports, and notifications to Congress prior to entry into force of the Treaty Between the Government of the United States of America and the Government of the United Kingdom of Great Britain and Northern Ireland Concerning Defense Trade Cooperation, as well as to provide annual reports thereafter, consistent with section 2 of the Senate Resolution of Advice and Consent to Ratification of the Treaty, dated Sept. 29, 2010, and (2) the responsibility of the President under Pub. L. 111–266, to provide congressional notification of amendments to the Implementing Arrangements that are made pursuant to section 105(c) of Pub. L. 111–266, set out above.\]
 
@@ -878,7 +882,7 @@ Retention of Records.—Records described in subsection (a) shall be retained fo
 
 "(d)
 
-Guidelines.—The Secretary of Defense shall prescribe guidelines providing space launch monitors of the Department of Defense with the responsibility and the ability to report serious security violations, problems, or other issues at an overseas launch site directly to the headquarters office of the responsible Department of Defense component.
+Guidelines.—The Secretary of Defense shall prescribe guidelines providing space launch monitors ofthe Department of Defense with the responsibility and the ability to report serious security violations, problems, or other issues at an overseas launch site directly to the headquarters office of the responsible Department of Defense component.
 
 #### "SEC. 1408. ENHANCED MULTILATERAL EXPORT CONTROLS
 
@@ -962,7 +966,7 @@ Consultation During Review of Applications.—The Secretary of State and Secreta
 
 Advisory Group.—(1) The Director of Central Intelligence shall establish within the intelligence community an advisory group to provide information and analysis to Congress, and to appropriate departments and agencies of the Federal Government, on the national security implications of granting licenses involving the overseas launch of commercial satellites of United States origin.
 
-"(2) The advisory group shall include technically-qualified representatives of the Central Intelligence Agency, the Defense Intelligence Agency, the National Security Agency, the National Air Intelligence Center, and the Department of State Bureau of Intelligence and Research and representatives of other elements of the intelligence community with appropriate expertise.
+"(2) The advisory group shall include technically-qualified representatives of the Central IntelligenceAgency, the Defense Intelligence Agency, the National Security Agency, the National Air Intelligence Center, and the Department of State Bureau of Intelligence and Research and representatives of other elements of the intelligence community with appropriate expertise.
 
 "(3) In addition to the duties under paragraph (1), the advisory group shall—
 
@@ -1040,7 +1044,7 @@ Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, 
 
 &emsp;"(3) the United States should encourage universal observance of the Guidelines to the Missile Technology Control Regime;
 
-&emsp;"(4) the exportation or transfer of advanced communication satellites and related technologies from United States sources to foreign recipients should not increase the risks to the national security of the United States;
+&emsp;"(4) the exportation or transfer of advanced communication satellites and related technologies from United States sources to foreign recipients should notincrease the risks to the national security of the United States;
 
 &emsp;"(5) due to the military sensitivity of the technologies involved, it is in the national security interests of the United States that United States satellites and related items be subject to the same export controls that apply under United States law and practices to munitions;
 
@@ -1054,7 +1058,7 @@ Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, 
 
 "(a)
 
-Certification.—The President shall certify to the Congress at least 15 days in advance of any exportto the People's Republic of China of missile equipment or technology (as defined in section 74 of the Arms Export Control Act (22 U.S.C. 2797c)) that—
+Certification.—The President shall certify to the Congress at least 15 days in advance of any export to the People's Republic of China of missile equipment or technology (as defined in section 74 of the Arms Export Control Act (22 U.S.C. 2797c)) that—
 
 &emsp;"(1) such export is not detrimental to the United States space launch industry; and
 
@@ -1136,7 +1140,7 @@ Mandatory notification and certification.—All technology transfer control plan
 
 &emsp;"(5)
 
-Mandatory intelligence community review.—The Secretary of Commerce and the Secretary of State shall provide to the Secretary of Defense and the Director of Central Intelligence copies of all export license applications and technical assistance agreements submitted for approval in connection with launches in foreign countries of satellites to verify the legitimacy of the stated end-user or end-users.
+Mandatory intelligence community review.—The Secretary of Commerce and the Secretary ofState shall provide to the Secretary of Defense and the Director of Central Intelligence copies of all export license applications and technical assistance agreements submitted for approval in connection with launches in foreign countries of satellites to verify the legitimacy of the stated end-user or end-users.
 
 &emsp;"(6)
 
@@ -1216,7 +1220,7 @@ Militarily Sensitive Characteristics Defined.—In this section, the term 'milit
 
 #### Landmine Export Moratorium
 
-Pub. L. 102–484, div. A, title XIII, §1365, Oct. 23, 1992, 106 Stat. 2561, as amended by Pub. L. 103–160, div. A, title XI, §1182(c)(3), title XIV, §1423(c), Nov. 30, 1993, 107 Stat. 1772, 1832; Pub. L. 104–107, title V, §558, Feb. 12, 1996, 110 Stat. 743; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §556\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–161; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §553\], Nov. 29, 1999, 113 Stat. 1535, 1501A–99; Pub. L. 107–115, title V, §548, Jan. 10, 2002, 115 Stat. 2156; Pub. L. 110–161, div. J, title VI, §634(j), Dec. 26, 2007, 121 Stat. 2329, provided that:
+Pub. L. 102–484, div. A, title XIII, §1365, Oct. 23, 1992, 106 Stat. 2561, as amended by Pub. L. 103–160, div. A, title XI, §1182(c)(3), title XIV, §1423(c), Nov. 30, 1993, 107 Stat. 1772, 1832; Pub. L. 104–107, title V, §558, Feb. 12,1996, 110 Stat. 743; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §556\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–161; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §553\], Nov. 29, 1999, 113 Stat. 1535, 1501A–99; Pub. L. 107–115, title V, §548, Jan. 10, 2002, 115 Stat. 2156; Pub. L. 110–161, div. J, title VI, §634(j), Dec. 26, 2007, 121 Stat. 2329, provided that:
 
 "(a)
 
@@ -1224,7 +1228,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(1) Anti-personnel landmines, which are specifically designed to maim and kill people, have been used indiscriminately in dramatically increasing numbers, primarily in insurgencies in poor developing countries. Noncombatant civilians, including tens of thousands of children, have been the primary victims.
 
-&emsp;"(2) Unlike other military weapons, landmines often remain implanted and undiscovered after conflict has ended, causing untold suffering to civilian populations. In Afghanistan, Cambodia, Laos, Vietnam, and Angola, tens of millions of unexploded landmines have rendered whole areas uninhabitable. In Afghanistan, an estimated hundreds of thousands of people have been maimed and killed by landminesduring the 14-year civil war. In Cambodia, more than 20,000 civilians have lost limbs and another 60 are being maimed each month from landmines.
+&emsp;"(2) Unlike other military weapons, landmines often remain implanted and undiscovered after conflict has ended, causing untold suffering to civilian populations. In Afghanistan, Cambodia, Laos, Vietnam, and Angola, tens of millions of unexploded landmines have rendered whole areas uninhabitable. In Afghanistan, an estimated hundreds of thousands of people have been maimed and killed by landmines during the 14-year civil war. In Cambodia, more than 20,000 civilians have lost limbs and another 60 are being maimed each month from landmines.
 
 &emsp;"(3) Over 35 countries are known to manufacture landmines, including the United States. However, the United States is not a major exporter of landmines. During the past ten years the Department of State has approved ten licenses for the commercial export of anti-personnel landmines valued at $980,000, and during the past five years the Department of Defense has approved the sale of 13,156 anti-personnel landmines valued at $841,145.
 
@@ -1396,7 +1400,7 @@ Major Military Equipment.—As used in this title, the term 'major military equi
 
 &emsp;"(1) certifies in writing to the relevant congressional committees that the President has undertaken good faith efforts to convene a conference for the establishment of an arms suppliers regime having elements described in section 402; and
 
-&emsp;"(2) submits to the relevant congressional committees a report setting forth a United States plan forleading the world community in establishing such a multilateral regime to restrict transfers of advanced conventional and unconventional arms to the Middle East and Persian Gulf region.
+&emsp;"(2) submits to the relevant congressional committees a report setting forth a United States plan for leading the world community in establishing such a multilateral regime to restrict transfers of advanced conventional and unconventional arms to the Middle East and Persian Gulf region.
 
 #### "\[SEC. 404. Repealed. Pub. L. 114–323, title VII, §715(a)(2), Dec. 16, 2016, 130 Stat. 1946.\]
 
@@ -1450,5 +1454,7 @@ Ex. Ord. No. 12451, §3, Dec. 20, 1983, 48 F.R. 56563, listed in a table under s
 
 Ex. Ord. No. 12444, §3, Oct. 14, 1983, 48 F.R. 48215, listed in a table under section 1701 of Title 50, prior to revocation by Ex. Ord. No. 12451, Dec. 20, 1983, 48 F.R. 56563.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

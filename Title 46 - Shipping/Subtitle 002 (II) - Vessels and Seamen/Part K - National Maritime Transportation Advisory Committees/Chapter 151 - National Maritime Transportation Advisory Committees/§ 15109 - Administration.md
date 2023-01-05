@@ -22,7 +22,7 @@ Minimum requirements.—The committee established under section 15102,<sup>1</su
 
 (b)
 
-Employee Status.—A member of a committee established under this chapter or towhich this chapter applies shall not be considered an employee of the Federal Government by reason of service on such committee, except for the purposes of the following:
+Employee Status.—A member of a committee established under this chapter or to which this chapter applies shall not be considered an employee of the Federal Government by reason of service on such committee, except for the purposes of the following:
 
 &emsp;(1) Chapter 81 of title 5.
 
@@ -134,7 +134,7 @@ Special rule for reappointments.—
 
 &emsp;&emsp;(A)
 
-Reappointment.—Notwithstanding paragraphs (1) and (2), the Secretary may reappoint a member of a committee established under this chapter or to which this chapter applies for any term, other than thefirst term of the member, without soliciting, receiving, or considering nominations for such appointment.
+Reappointment.—Notwithstanding paragraphs (1) and (2), the Secretary may reappoint a member of a committee established under this chapter or to which this chapter applies for any term, other than the first term of the member, without soliciting, receiving, or considering nominations for such appointment.
 
 &emsp;&emsp;(B)
 

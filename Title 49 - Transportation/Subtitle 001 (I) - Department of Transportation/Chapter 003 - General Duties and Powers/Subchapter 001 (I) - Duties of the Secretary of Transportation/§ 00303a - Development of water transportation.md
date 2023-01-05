@@ -98,7 +98,7 @@ Establishment of advisory committee.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary of Transportation, in coordination with the Secretary of State,the Secretary of Defense acting through the Secretary of the Army and the Secretary of the Navy, the Secretary of Commerce, and the Secretary of the Department in which the Coast Guard is operating, shall establish an Arctic Shipping Federal Advisory Committee in the Department of Transportation to advise the Secretary of Transportation and the Secretary of the Department in which the Coast Guard is operating on matters related to Arctic maritime transportation, including Arctic seaway development.
+In general.—The Secretary of Transportation, in coordination with the Secretary of State, the Secretary of Defense acting through the Secretary of the Army and the Secretary of the Navy, the Secretary of Commerce, and the Secretary of the Department in which the Coast Guard is operating, shall establish an Arctic Shipping Federal Advisory Committee in the Department of Transportation to advise the Secretary of Transportation and the Secretary of the Department in which the Coast Guard is operating on matters related to Arctic maritime transportation, including Arctic seaway development.
 
 &emsp;&emsp;"(B)
 
@@ -156,7 +156,7 @@ Limitations.—Each member of the Advisory Committee described in clauses (vii) 
 
 &emsp;&emsp;&emsp;"(ii)
 
-Vacancies.—Any vacancy in the membership of the Advisory Committee shall not affect its responsibilities, but shall be filled in the same manner as the original appointment and in accordance with the Federal Advisory Committee Act (5 U.S.C. App.).
+Vacancies.—Any vacancy in the membership of the Advisory Committee shall not affect its responsibilities, but shall be filled in the same manner as the original appointment and in accordance with the Federal Advisory Committee Act (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\].
 
 &emsp;"(3)
 
@@ -188,7 +188,7 @@ Functions.—The Advisory Committee shall carry out all of the following functio
 
 "(d)
 
-Report to Congress.—Not later than 2 years after the date of enactment of this Act \[Jan. 1, 2021\], the Advisory Committee shall submit a report with its recommendations under subparagraphs (A) and (B) of subsection (c)(3) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+Report to Congress.—Not later than 2 years after the date of enactment of this Act \[Jan. 1, 2021\], the Advisory Committee shall submit a report with its recommendations under subparagraphs (A) and (B) of subsection (c)(3) to the Committee on Commerce, Science, and Transportation of the Senate and theCommittee on Transportation and Infrastructure of the House of Representatives.
 
 "(e)
 

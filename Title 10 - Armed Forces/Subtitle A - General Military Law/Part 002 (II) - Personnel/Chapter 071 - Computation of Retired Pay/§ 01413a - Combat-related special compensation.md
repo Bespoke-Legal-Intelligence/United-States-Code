@@ -28,7 +28,7 @@ General rule.—In the case of an eligible combat-related disabled uniformed ser
 
 &emsp;&emsp;(B)
 
-Special rule for retirees with fewer than 20 years of service.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to the retired pay percentage (determined for the member under section 1409(b) of this title) of the member's years of creditable service multiplied by the member's retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
+Special rule for retirees with fewer than 20 years of service.—In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to the retired pay percentage (determined for the member under section 1409(b) of this title) of the member's years of creditable servicemultiplied by the member's retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
 
 (c)
 
@@ -152,7 +152,7 @@ Pub. L. 110–181, div. A, title VI, §641(c), Jan. 28, 2008, 122 Stat. 156, pro
 
 Pub. L. 108–136, div. A, title VI, §641(c)(6), Nov. 24, 2003, 117 Stat. 1516, provided that: "The amendments made by this subsection \[amending this section and sections 1413, 1463, 1465, and 1466 of this title\] shall take effect as of October 1, 2003. The Secretary of Defense shall provide for such administrative adjustments as necessary to provide for payments made for any period during fiscal year 2004 before the date of the enactment of this Act \[Nov. 24, 2003\] to be treated as having been made in accordance with such amendments and for the provisions of such amendments to be implemented as if enacted as of September 30, 2003."
 
-Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, provided that: "The amendments made by subsections (a), (b), and (c) \[amending this section\]shall apply to payments under section 1413a of title 10, United States Code, for months beginning on or after January 1, 2004. The amendment made by subsection (d) \[amending this section\] shall take effect on January 1, 2004."
+Pub. L. 108–136, div. A, title VI, §642(f), Nov. 24, 2003, 117 Stat. 1517, provided that: "The amendments made by subsections (a), (b), and (c) \[amending this section\] shall apply to payments under section 1413a of title 10, United States Code, for months beginning on or after January 1, 2004. The amendment made by subsection (d) \[amending this section\] shall take effect on January 1, 2004."
 
 #### Effective Date
 
@@ -160,7 +160,7 @@ Pub. L. 107–314, div. A, title VI, §636(a)(2), Dec. 2, 2002, 116 Stat. 2576, 
 
 #### Clarification of Eligibility of Members of the Coast Guard for Combat-Related Special Compensation
 
-Pub. L. 114–120, title II, §221, Feb. 8, 2016, 130 Stat. 48, provided that:
+Pub. L. 114–120, title II, §221, Feb. 8, 2016, 130 Stat. 48, as amended by Pub. L. 117–263, div. K, title CXIV, §11404(c), Dec. 23, 2022, 136 Stat. 4110, provided that:
 
 "(a)
 
@@ -168,21 +168,15 @@ Consideration of Eligibility.—
 
 &emsp;"(1)
 
-In general.—Not later than 90 days after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department is \[sic\] which the Coast Guard is operating shall issue procedures and criteria to use in determining whether the disability of a member of the Coast Guard is a combat-related disability for purposes of the eligibility of such member for combat-related special compensation under section 1413a of title 10, United States Code. Such procedures and criteria shall include the procedures and criteria prescribed by the Secretary of Defense pursuant to subsection (e)(2) of such section. Such procedures and criteria shall apply in determining whether the disability of a member of the Coast Guard is a combat-related disability for purposes of determining the eligibility of such member for combat-related special compensation under such section.
+In general.—Not later than 90 days after the date of the enactment of this Act \[Feb. 8, 2016\], the Secretary of the department in which the Coast Guard is operating shall issue procedures and criteria to use in determining whether the disability of a member of the Coast Guard is a combat-related disability for purposes of the eligibility of such member for combat-related special compensation under section 1413a of title 10, United States Code. Such procedures and criteria shall include the procedures and criteria prescribed by the Secretary of Defense pursuant to subsection (e)(2) of such section. Such procedures and criteria shall apply in determining whether the disability of a member of the Coast Guard is a combat-related disability for purposes of determining the eligibility of such member for combat-related special compensation under such section.
 
 &emsp;"(2)
 
-Disability for which a determination is made.—For the purposes of this section, and in the case of a member of the Coast Guard, a disability under section 1413a(e)(2)(B) of title 10, United States Code, includes a disability incurred during aviation duty, diving duty, rescue swimmer or similar duty, and hazardous service duty onboard a small vessel (such as duty as a surfman)—
+Disability for which a determination is made.—For the purposes of this section, and in the case of a member of the Coast Guard, a disability under section 1413a(e)(2)(B) of title 10, United States Code, includes a disability incurred during aviation duty, diving duty, rescue swimmer or similar duty, hazardous service duty onboard a small vessel (such as duty as a surfman), or a duty in which chemical or other hazardous material exposure has occurred (such as during marine inspections or pollution response activities)—
 
 &emsp;&emsp;"(A) in the performance of duties for which special or incentive pay was paid pursuant to section 301, 301a, 304, 307, 334, or 351 of title 37, United States Code;
 
-&emsp;&emsp;"(B) in the performance of duties related to a statutory mission of the Coast Guard under paragraph (1) or paragraph (2) of section 888(a) of the Homeland Security Act of 2002 (6 U.S.C. 468(a)), including—
-
-&emsp;&emsp;&emsp;"(i) law enforcement, including drug or migrant interdiction;
-
-&emsp;&emsp;&emsp;"(ii) defense readiness; or
-
-&emsp;&emsp;&emsp;"(iii) search and rescue; or
+&emsp;&emsp;"(B) in the performance of duties related to a statutory mission of the Coast Guard under section 888(a) of the Homeland Security Act of 2002 (6 U.S.C. 468(a)); or
 
 &emsp;&emsp;"(C) while engaged in a training exercise for the performance of a duty described in subparagraphs (A) and (B).
 

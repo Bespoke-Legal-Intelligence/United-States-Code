@@ -26,5 +26,5 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–73 applicable with respect to reports filed or required to be filed after Aug. 9, 1989, see section 911(i) of Pub. L. 101–73, set out as a note under section 161 of this title.
+Amendment by Pub. L. 101–73 applicable with respect to reports filed or required to be filed after Aug. 9, 1989,see section 911(i) of Pub. L. 101–73, set out as a note under section 161 of this title.
 

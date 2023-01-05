@@ -26,31 +26,29 @@ Prior to publishing any proposed regulations under subsection (b)(1), and prior 
 
 &emsp;&emsp;(D) ensure, to the maximum extent possible, that the tribal representative membership on the committee reflects the proportionate share of students from tribes served by the Bureau-funded school system; and
 
-&emsp;&emsp;(E) comply with the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;&emsp;(E) comply with chapter 10 of title 5.
 
 #### (4) Special rule
 
-&emsp;The Secretary shall carry out this section using the general administrative funds of the Department of the Interior. In accordance with subchapter III of chapter 5 of title 5 and section 7(d) of the Federal Advisory Committee Act, payment of costs associated with negotiated rulemaking shall include the reasonable expenses of committee members.
+&emsp;The Secretary shall carry out this section using the general administrative funds of the Department of the Interior. In accordance with subchapter III of chapter 5 of title 5 and section 1006(d) of title 5, payment of costs associated with negotiated rulemaking shall include the reasonable expenses of committee members.
 
 #### (c) Application of section
 
 #### (1) Supremacy of provisions
 
-&emsp;The provisions of this section shall supersede any conflicting regulations in effect on the day before the date of enactment of this chapter, and the Secretary may repeal any regulation that is inconsistent with the provisions of this chapter.
+&emsp;The provisions of this section shall supersede any conflicting regulations in effect on the day before the date of enactment of this chapter, and the Secretary may repeal anyregulation that is inconsistent with the provisions of this chapter.
 
 #### (2) Modifications
 
 &emsp;The Secretary may modify regulations promulgated under this section or the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\], only in accordance with this section.
 
-(Pub. L. 95–561, title XI, §1138, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2057.)
+(Pub. L. 95–561, title XI, §1138, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2057; amended Pub. L. 117–286, §4(a)(182), Dec. 27, 2022, 136 Stat. 4326.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Tribally Controlled Schools Act of 1988, referred to in subsecs. (a), (b)(1), (2), and (c)(2), is part B (§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
-
-The Federal Advisory Committee Act, referred to in subsec. (b)(3)(E), (4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of enactment of this chapter, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 107–110, which amended this chapter generally and was approved Jan. 8, 2002.
 
@@ -59,6 +57,12 @@ The date of enactment of this chapter, referred to in subsec. (c)(1), probably m
 A prior section 2018, Pub. L. 95–561, title XI, §1138, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4011, related to rights of Indian students, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2016 of this title.
 
 Another prior section 2018, Pub. L. 95–561, title XI, §1138, Nov. 1, 1978, 92 Stat. 2327; Pub. L. 98–511, title V, §510, Oct. 19, 1984, 98 Stat. 2397, related to regulations implementing administrative provisions, prior to the general amendment of this chapter by Pub. L. 103–382.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(3)(E). Pub. L. 117–286, §4(a)(182)(A), substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
+
+Subsec. (b)(4). Pub. L. 117–286, §4(a)(182)(B), substituted "section 1006(d) of title 5," for "section 7(d) of the Federal Advisory Committee Act,".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

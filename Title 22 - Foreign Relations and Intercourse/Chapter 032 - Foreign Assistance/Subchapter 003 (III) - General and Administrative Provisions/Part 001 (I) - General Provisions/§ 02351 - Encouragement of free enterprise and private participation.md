@@ -2,7 +2,7 @@
 
 #### (a) Policy of United States
 
-The Congress of the United States recognizes the vital role of free enterprise in achieving rising levels of production and standards of living essential to economic progress and development. Accordingly, it is declared to be the policy of the United States to encourage the efforts of other countries to increase the flow of international trade, to foster private initiative and competition, to encourage the development and use of cooperatives, credit unions, and savings and loan associations, to discourage monopolistic practices, to improve the technical efficiency of their industry, agriculture, and commerce, and to strengthen free labor unions; and to encourage the contribution of United States enterprise toward economic strength of less developed friendly countries, through private trade and investment abroad, private participation in programs carried out under this chapter (including the use of private trade channels to the maximum extent practicable in carrying out such programs), and exchange of ideas and technical information on the matters covered by this subsection.
+The Congress of the United States recognizes the vital role of free enterprise in achieving rising levels of production and standards of living essential to economic progress and development. Accordingly, it is declared to be the policy of the United States to encourage the efforts of other countries to increase the flow of international trade, to foster private initiative andcompetition, to encourage the development and use of cooperatives, credit unions, and savings and loan associations, to discourage monopolistic practices, to improve the technical efficiency of their industry, agriculture, and commerce, and to strengthen free labor unions; and to encourage the contribution of United States enterprise toward economic strength of less developed friendly countries, through private trade and investment abroad, private participation in programs carried out under this chapter (including the use of private trade channels to the maximum extent practicable in carrying out such programs), and exchange of ideas and technical information on the matters covered by this subsection.
 
 #### (b) Action by President to facilitate participation to maximum extent
 
@@ -14,7 +14,7 @@ In order to encourage and facilitate participation by private enterprise to the 
 
 &emsp;(3) accelerate a program of negotiating treaties for commerce and trade, including tax treaties, which shall include provisions to encourage and facilitate the flow of private investment to, and its equitable treatment in, friendly countries and areas participating in programs under this chapter;
 
-&emsp;(4) seek, consistent with the national interest, compliance by other countries or areas with all treaties for commerce and trade and taxes, and take all reasonable measures under this chapter or other authority to secure compliance therewith and to assist United States citizens in obtaining just compensation for losses sustained by them or payments exactedfrom them as a result of measures taken or imposed by any country or area thereof in violation of any such treaty;
+&emsp;(4) seek, consistent with the national interest, compliance by other countries or areas with all treaties for commerce and trade and taxes, and take all reasonable measures under this chapter or other authority to secure compliance therewith and to assist United States citizens in obtaining just compensation for losses sustained by them or payments exacted from them as a result of measures taken or imposed by any country or area thereof in violation of any such treaty;
 
 &emsp;(5) to the maximum extent practicable carry out programs of assistance through private channels and to the extent practicable in conjunction with local private or governmental participation, including loans under the authority of section 2151t of this title to any individual, corporation, or other body of persons;
 
@@ -50,7 +50,7 @@ It is the sense of Congress that the Agency for International Development should
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Termination of Advisory Council
 
-Advisory council in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory council in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### <b>Executive Documents</b>
 

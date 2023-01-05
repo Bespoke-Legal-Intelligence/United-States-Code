@@ -188,7 +188,7 @@ WTO agreement.—The term 'WTO Agreement' means the Agreement Establishing the W
 
 &emsp;"(1) the executive branch should pursue efforts to address trade fairness by establishing reasonable, business-friendly standards for the use of offsets in international business transactions between the United States and its trading partners and competitors;
 
-&emsp;"(2) the Secretary of Defense, the Secretary of State, the Secretary of Commerce, and the United States Trade Representative, or their designees, should raise with other industrialized nations atevery suitable venue the need for transparency and reasonable standards to govern the role of offsets in international defense trade;
+&emsp;"(2) the Secretary of Defense, the Secretary of State, the Secretary of Commerce, and the United States Trade Representative, or their designees, should raise with other industrialized nations at every suitable venue the need for transparency and reasonable standards to govern the role of offsets in international defense trade;
 
 &emsp;"(3) the United States Government should enter into discussions regarding the establishment of multilateral standards for the use of offsets in international defense trade through the appropriate multilateral fora, including such organizations as the Transatlantic Economic Partnership, the Wassenaar Arrangement, the G–8, and the World Trade Organization; and
 
@@ -304,7 +304,7 @@ Compensation.—The Chairman of the Commission may fix the compensation of the e
 
 &emsp;"(4)
 
-Detail of government employees.—Any Federal Government employee may be detailed to theCommission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+Detail of government employees.—Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
 &emsp;"(5)
 
@@ -398,9 +398,9 @@ For directive to Secretary of Commerce to prepare and submit annual report requi
 
 Ex. Ord. No. 13177, Dec. 4, 2000, 65 F.R. 76558, as amended by Ex. Ord. No. 13316, §3(f), Sept. 17, 2003, 68 F.R. 55256, provided:
 
-By the authority vested in the President by the Constitution and the laws of the United States of America, including Public Law 106–113 \[see Tables for classification\] and the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to implement section 1247 of Public Law 106–113 (113 Stat. 1501A–502) \[set out in a note above\] and to create a parallel "President's Council on the Use of Offsets in Commercial Trade," it is hereby ordered as follows:
+By the authority vested in the President by the Constitution and the laws of the United States of America, including Public Law 106–113 \[see Tables for classification\] and the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 1001 et seq.\], and in order to implement section 1247 of Public Law 106–113 (113 Stat. 1501A–502) \[set out in a note above\] and to create a parallel "President's Council on the Use of Offsets in Commercial Trade," it is hereby ordered as follows:
 
-Section 1. <i>Membership</i>. Pursuant to Public Law 106–113, the "National Commission on the Use of Offsets in Defense Trade" (Commission) comprises 11 members appointed by the President with the concurrence of the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives. The Commission membership includes: (a) representatives from the private sector, including one each from (i) a labor organization, (ii) a United States defense manufacturing company dependent on foreignsales, (iii) a United States company dependent on foreign sales that is not a defense manufacturer, and (iv) a United States company that specializes in international investment; (b) two members from academia with widely recognized expertise in international economics; and (c) five members from the executive branch, including a member from the: (i) Office of Management and Budget, (ii) Department of Commerce, (iii) Department of Defense, (iv) Department of State, and (v) Department of Labor. The member from the Office of Management and Budget will serve as Chairperson of the Commission and will appoint, and fix the compensation of, the Executive Director of the Commission.
+Section 1. <i>Membership</i>. Pursuant to Public Law 106–113, the "National Commission on the Use of Offsets in Defense Trade" (Commission) comprises 11 members appointed by the President with the concurrence of the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives. The Commission membership includes: (a) representatives from the private sector, including one each from (i) a labor organization, (ii) a United States defense manufacturing company dependent on foreign sales, (iii) a United States company dependent on foreign sales that is not a defense manufacturer, and (iv) a United States company that specializes in international investment; (b) two members from academia with widely recognized expertise in international economics; and (c) five members from the executive branch, including a member from the: (i) Office of Management and Budget, (ii) Department of Commerce, (iii) Department of Defense, (iv) Department of State, and (v) Department of Labor. The member from the Office of Management and Budget will serve as Chairperson of the Commission and will appoint, and fix the compensation of, the Executive Director of the Commission.
 
 Sec. 2. <i>Duties</i>. The Commission will be responsible for reviewing and reporting on: (a) current practices by foreign governments in requiring offsets in purchasing agreements and the extent and nature of offsets offered by United States and foreign defense industry contractors; (b) the impact of the use of offsets on defense subcontractors and nondefense industrial sectors affected by indirect offsets; and (c) the role of offsets, both direct and indirect, on domestic industry stability, United States trade competitiveness, and national security.
 
@@ -412,7 +412,7 @@ Sec. 4. <i>Administration, Compensation, and Termination</i>. (a) The Department
 
 (c) Members of the Commission will be allowed travel expenses, including per diem in lieu of subsistence, under subchapter 1 of chapter 57 of title 5, United States Code, while on business in the performance of services for the Commission.
 
-(d) The Commission will terminate 30 days after transmitting the report required in section 1248(b) of Public Law 106–113 (113 Stat. 1501A–505) \[set out in a note above\].
+(d) The Commission will terminate 30 days after transmitting the report required in section 1248(b) ofPublic Law 106–113 (113 Stat. 1501A–505) \[set out in a note above\].
 
 \[
 

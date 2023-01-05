@@ -20,7 +20,7 @@ The National Defense Authorization Act for Fiscal Year 1994, referred to in subs
 
 Section was formerly set out in a note under section 2121 of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
-Pub. L. 108–136, div. C, title XXXI, §3141(e)(11), Nov. 24, 2003, 117 Stat. 1760, which directed the transfer to this section of section 507(f) of the Energy and Water Development Appropriations Act, 1993, "(Public Law 102–337; 106 Stat. 1345)", was executed by transferring section 507(f) of Pub. L. 102–377 to this section, to reflect the probable intent of Congress.
+Pub. L. 108–136, div. C, title XXXI, §3141(e)(11), Nov. 24, 2003, 117 Stat. 1760, which directed the transfer tothis section of section 507(f) of the Energy and Water Development Appropriations Act, 1993, "(Public Law 102–337; 106 Stat. 1345)", was executed by transferring section 507(f) of Pub. L. 102–377 to this section, to reflect the probable intent of Congress.
 
 #### Amendments
 

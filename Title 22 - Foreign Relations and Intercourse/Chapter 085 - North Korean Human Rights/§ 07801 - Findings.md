@@ -56,6 +56,10 @@ Congress makes the following findings:
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–263, div. E, title LV, §5580, Dec. 23, 2022, 136 Stat. 3371, provided that: "This subtitle \[subtitle F (§§5580–5584) of title LV of div. E of Pub. L. 117–263, amending section 7814 of this title and enacting provisions set out as notes under section 7814 of this title\] may be cited as the 'Otto Warmbier Countering North Korean Censorship and Surveillance Act of 2022'."
+
 #### Short Title of 2018 Amendment
 
 Pub. L. 115–198, §1, July 20, 2018, 132 Stat. 1519, provided that: "This Act \[enacting section 7846 of this title, amending sections 7812 to 7814, 7817, 7831, 7833, and 7845 of this title, repealing section 9253 of this title, and enacting provisions set out as a note under this section\] may be cited as the 'North Korean Human Rights Reauthorization Act of 2017'."
@@ -98,7 +102,7 @@ Pub. L. 115–198, §2, July 20, 2018, 132 Stat. 1519, provided that: "Congress 
 
 Pub. L. 112–172, §2, Aug. 16, 2012, 126 Stat. 1307, provided that: "Congress finds the following:
 
-&emsp;"(1) The North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.) and theNorth Korean Human Rights Reauthorization Act of 2008 (Public Law 110–346) \[see Short Title of 2008 Amendment note above\] were the product of broad, bipartisan consensus regarding the promotion of human rights, transparency in the delivery of humanitarian assistance, and the importance of refugee protection.
+&emsp;"(1) The North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.) and the North Korean Human Rights Reauthorization Act of 2008 (Public Law 110–346) \[see Short Title of 2008 Amendment note above\] were the product of broad, bipartisan consensus regarding the promotion of human rights, transparency in the delivery of humanitarian assistance, and the importance of refugee protection.
 
 &emsp;"(2) In addition to the longstanding commitment of the United States to refugee and human rights advocacy, the United States is home to the largest Korean population outside of northeast Asia, and many in the two-million strong Korean-American community have family ties to North Korea.
 
@@ -148,9 +152,9 @@ Pub. L. 110–346, §3, Oct. 7, 2008, 122 Stat. 3940, provided that: "It is the 
 
 &emsp;"(2) at the same time that careful screening of intending refugees is important, the United States also should make every effort to ensure that its screening, processing, and resettlement of North Korean refugees are as efficient and expeditious as possible;
 
-&emsp;"(3) the Special Envoy for North Korean Human Rights Issues should be a full-time position within the Department of State in order to properly promote and coordinate North Korean human rights and humanitarian issues, and to participate in policy planning and implementation with respect to refugee issues, as intended by the North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.);
+&emsp;"(3) the Special Envoy for North Korean Human Rights Issues should be a full-time position within the Department of State in order to properly promote and coordinate North Korean human rights and humanitarian issues, and to participate in policy planning and implementation with respect to refugeeissues, as intended by the North Korean Human Rights Act of 2004 (Public Law 108–333; 22 U.S.C. 7801 et seq.);
 
-&emsp;"(4) in an effort to more efficiently and actively participate in humanitarian burden-sharing, the United States should approach our ally, the Republic of Korea, to revisit and explore new opportunities for coordinating efforts to screen and resettle North Koreans who have expressed a wish to pursue resettlement in the United States and have not yet availedthemselves of any right to citizenship they may enjoy under the Constitution of the Republic of Korea; and
+&emsp;"(4) in an effort to more efficiently and actively participate in humanitarian burden-sharing, the United States should approach our ally, the Republic of Korea, to revisit and explore new opportunities for coordinating efforts to screen and resettle North Koreans who have expressed a wish to pursue resettlement in the United States and have not yet availed themselves of any right to citizenship they may enjoy under the Constitution of the Republic of Korea; and
 
 &emsp;"(5) because there are genuine refugees among North Koreans fleeing into China who face severe punishments upon their forcible return, the United States should urge the Government of China to—
 

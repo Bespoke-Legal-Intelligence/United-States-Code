@@ -74,7 +74,7 @@ The Commission shall provide technical assistance to consumers and State, local,
 
 "(B) not later than 1 year after March 23, 2020, conclude a process that tests the feasibility of partnering with Federal agencies that operate delivery fleet vehicles, including the United States Postal Service, to facilitate the collection and submission of information described in that paragraph; and
 
-"(C) not later than 14 months after March 23, 2020, publish on the website of the Commission, and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report regarding the testing described in subparagraph (B), which shall include—
+"(C) not later than 14 months after March 23, 2020, publish on the website of the Commission, and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energyand Commerce of the House of Representatives, a report regarding the testing described in subparagraph (B), which shall include—
 
 &emsp;"(i) a determination regarding whether the partnerships with Federal agencies described in that subparagraph are able to facilitate the collection and submission of information described in paragraph (1); and
 

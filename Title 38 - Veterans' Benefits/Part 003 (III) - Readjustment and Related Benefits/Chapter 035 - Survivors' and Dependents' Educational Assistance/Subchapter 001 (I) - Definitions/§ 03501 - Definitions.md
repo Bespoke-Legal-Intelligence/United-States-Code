@@ -30,7 +30,7 @@
 
 &emsp;(4) The term "guardian" includes a fiduciary legally appointed by a court of competent jurisdiction, or any other person who has been appointed by the Secretary under section 5502 of this title to receive payment of benefits for the use and benefit of the eligible person.
 
-&emsp;(5) The term "program of education" means any curriculum or any combination of unit courses or subjects pursued at an educational institution which is generally accepted as necessary to fulfill the requirements for the attainment of a predetermined and identified educational, professional, or vocational objective. Such term also includes any preparatory course described in section 3002(3)(B) of this title. Such term also includes licensing or certification tests, the successful completion ofwhich demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title. Such term also includes national tests for admission to institutions of higher learning or graduate schools (such as the Scholastic Aptitude Test (SAT), Law School Admission Test (LSAT), Graduate Record Exam (GRE), and Graduate Management Admission Test (GMAT)) and national tests providing an opportunity for course credit at institutions of higher learning (such as the Advanced Placement (AP) exam and College-Level Examination Program (CLEP)).
+&emsp;(5) The term "program of education" means any curriculum or any combination of unit courses or subjects pursued at an educational institution which is generally accepted as necessary to fulfill the requirements for the attainment of a predetermined and identified educational, professional, or vocational objective. Such term also includes any preparatory course described in section 3002(3)(B) of this title. Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title. Such term also includes national tests for admission to institutions of higher learning or graduate schools (such as the Scholastic Aptitude Test (SAT), Law School Admission Test (LSAT), Graduate Record Exam (GRE), and Graduate Management Admission Test (GMAT)) and national tests providing an opportunity for course credit at institutions of higher learning (such as the Advanced Placement (AP) exam and College-Level Examination Program (CLEP)).
 
 &emsp;(6) The term "educational institution" means any public or private secondary school, vocational school, correspondence school, business school, junior college, teachers' college, college, normal school, professional school, university, or scientific or technical institution, or any other institution if it furnishes education at the secondary school level or above. Such term also includes any private entity (that meets such requirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary).
 
@@ -52,7 +52,17 @@
 
 (d) No eligible person may be afforded educational assistance under this chapter unless such person was discharged or released after each period such person was on duty with the Armed Forces under conditions other than dishonorable, or while such person is on duty with the Armed Forces.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1193, §1701; Pub. L. 86–236, §1, Sept. 8, 1959, 73 Stat. 471; Pub. L. 86–785, §§1–3, Sept. 14, 1960, 74 Stat. 1023; Pub. L. 88–361, §1, July 7, 1964, 78 Stat. 297; Pub. L. 89–222, §3, Sept. 30, 1965, 79 Stat. 896; Pub. L. 89–349, §1, Nov. 8, 1965, 79 Stat. 1313; Pub. L. 89–358, §4(j), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §2(b), (c), Oct. 23, 1968, 82 Stat. 1332; Pub. L. 91–24, §9(a), June 11, 1969, 83 Stat. 34; Pub. L.91–584, §1, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title III, §309, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 93–295, title III, §302, May 31, 1974, 88 Stat. 184; Pub. L. 94–502, title III, §§302, 310(2)–(5), Oct. 15, 1976, 90 Stat. 2389, 2391; Pub. L. 96–466, title III, §327(a), title VIII, §801(c), Oct. 17, 1980, 94 Stat. 2197, 2216; Pub. L. 98–160, title VII, §702(12), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3501 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(C), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title I, §§114(a), 122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, §§108(a), 110(a), Dec. 27, 2001, 115 Stat. 985, 986; Pub. L. 108–454, title I, §106(a), Dec. 10, 2004, 118 Stat. 3602; Pub. L. 109–444, §3(a), (b)(1), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title III, §301(a), (b)(1), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3425, 3468; Pub. L. 116–283, div. A, title IX, §926(a)(44), Jan. 1, 2021, 134 Stat. 3830.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1193, §1701; Pub. L. 86–236, §1, Sept. 8, 1959, 73 Stat. 471; Pub. L. 86–785, §§1–3, Sept. 14, 1960, 74 Stat. 1023; Pub. L. 88–361, §1, July 7, 1964, 78 Stat. 297; Pub. L. 89–222, §3, Sept. 30, 1965, 79 Stat. 896; Pub. L. 89–349, §1, Nov. 8, 1965, 79 Stat. 1313; Pub. L. 89–358, §4(j), Mar. 3, 1966, 80 Stat. 24; Pub. L. 90–631, §2(b), (c), Oct. 23, 1968, 82 Stat. 1332; Pub. L. 91–24, §9(a), June 11, 1969, 83 Stat. 34; Pub. L. 91–584, §1, Dec. 24, 1970, 84 Stat. 1575; Pub. L. 92–540, title III, §309, Oct. 24, 1972, 86 Stat. 1083; Pub. L. 93–295, title III, §302, May 31, 1974, 88 Stat. 184; Pub. L. 94–502, title III, §§302, 310(2)–(5), Oct. 15, 1976, 90 Stat. 2389, 2391; Pub. L. 96–466, title III, §327(a), title VIII, §801(c), Oct. 17, 1980, 94 Stat. 2197, 2216; Pub. L. 98–160, title VII, §702(12), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3501 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(C), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title I, §§114(a), 122(a), Nov. 1, 2000, 114 Stat. 1833; Pub. L. 107–103, title I, §§108(a), 110(a), Dec. 27, 2001, 115 Stat. 985, 986; Pub. L. 108–454, title I, §106(a), Dec. 10, 2004, 118 Stat. 3602; Pub. L. 109–444, §3(a), (b)(1), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title III, §301(a), (b)(1), title X, §1006(b), Dec. 22, 2006, 120 Stat. 3425, 3468; Pub. L. 116–283, div. A, title IX, §926(a)(44), Jan. 1, 2021, 134 Stat. 3830; Pub. L. 117–328, div. U, title II, §215(a), Dec. 29, 2022, 136 Stat. 5455.)
+
+#### Amendment of Subsection (a)(6)
+
+<i>Pub. L. 117–328, div. U, title II, §215, Dec. 29, 2022, 136 Stat. 5455, provided that effective on August 1, 2026, subsection (a)(6) of this section is amended:</i>
+
+<i>(1) by striking "secondary school,"; and</i>
+
+<i>(2) by striking "secondary school level" and inserting "postsecondary school level".</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -65,6 +75,8 @@ The National Apprenticeship Act, referred to in subsec. (a)(9), is act Aug. 16, 
 Prior sections 3501 to 3505 were renumbered sections 6101 to 6105 of this title, respectively.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(6). Pub. L. 117–328 struck out "secondary school," after " private" and substituted "postsecondary school level" for "secondary school level".
 
 <b>2021</b>—Subsec. (a)(1)(E)(ii), (12). Pub. L. 116–283 substituted "air, or space service" for "or air service".
 
@@ -104,7 +116,7 @@ Pub. L. 109–444, §3(b)(1), which added par. (12) identical to that added by P
 
 Subsec. (a)(6). Pub. L. 107–103, §110(a), inserted at end "Such term also includes any private entity (that meets such requirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary)."
 
-<b>2000</b>—Subsec. (a)(5). Pub. L. 106–419, §122(a), inserted at end "Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocationor profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title."
+<b>2000</b>—Subsec. (a)(5). Pub. L. 106–419, §122(a), inserted at end "Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title."
 
 Pub. L. 106–419, §114(a), inserted at end "Such term also includes any preparatory course described in section 3002(3)(B) of this title."
 
@@ -190,9 +202,13 @@ Subsec. (d). Pub. L. 86–785, §3, substituted "the Korean conflict, or the ind
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. U, title II, §215(b), Dec. 29, 2022, 136 Stat. 5455, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on August 1, 2026, and shall apply with respect to an academic period that begins on or after that date."
+
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–461, title III, §301(d), Dec. 22, 2006, 120 Stat. 3427, provided that: "The amendments made bythis section \[amending this section and sections 3511, 3512, 3540, 3563, 3686, and 5113 of this title\] shall apply with respect to a payment of educational assistance for a course of education pursued after the date of the enactment of this Act \[Dec. 22, 2006\]."
+Pub. L. 109–461, title III, §301(d), Dec. 22, 2006, 120 Stat. 3427, provided that: "The amendments made by this section \[amending this section and sections 3511, 3512, 3540, 3563, 3686, and 5113 of this title\] shall applywith respect to a payment of educational assistance for a course of education pursued after the date of the enactment of this Act \[Dec. 22, 2006\]."
 
 Pub. L. 109–444, §3(d), Dec. 21, 2006, 120 Stat. 3307, which provided that amendments made by section 3 of Pub. L. 109–444 would apply with respect to a payment of educational assistance for a course of education pursued after Dec. 21, 2006, was repealed by Pub. L. 109–461, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3468, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 

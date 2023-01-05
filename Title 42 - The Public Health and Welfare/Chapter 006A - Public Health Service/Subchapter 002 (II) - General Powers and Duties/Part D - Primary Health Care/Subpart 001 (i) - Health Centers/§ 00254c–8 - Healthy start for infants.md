@@ -50,7 +50,7 @@
 
 #### (2) Other programs
 
-&emsp;The Secretary shall ensure coordination of the program carried out pursuant to this section with other programs and activities related to the reduction of the rate of infant mortality and improved perinatal and infant health outcomes supported by the Department.
+&emsp;The Secretary shall ensure coordination of the program carried out pursuant to this section with other programs and activities related to the reduction of the rate of infantmortality and improved perinatal and infant health outcomes supported by the Department.
 
 #### (d) Rule of construction
 
@@ -108,7 +108,7 @@ Except to the extent inconsistent with this section, this section may not be con
 
 The effective date of this section, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 106–310, which was approved Oct. 17, 2000.
 
-The Social Security Act, referred to in subsecs. (b)(1) and (c)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. TitleV of the Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(1) and (c)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
@@ -118,7 +118,7 @@ Subsec. (a)(2). Pub. L. 116–136, §3225(1)(B), inserted "or increasing above t
 
 Subsec. (b)(1). Pub. L. 116–136, §3225(2)(A), substituted "participants and former participants of project services, public health departments, hospitals, health centers under section 254b of this title, State substance abuse agencies" for "consumers of project services, public health departments, hospitals, health centers under section 254b of this title".
 
-Subsec. (b)(2)(A). Pub. L. 116–136, §3225(2)(B)(i), substituted "including poor birth outcomes (such as low birthweight and preterm birth) and social determinants of health" for "such as low birthweight".
+Subsec. (b)(2)(A). Pub. L. 116–136, §3225(2)(B)(i), substituted "including poor birth outcomes (such as lowbirthweight and preterm birth) and social determinants of health" for "such as low birthweight".
 
 Subsec. (b)(2)(B). Pub. L. 116–136, §3225(2)(B)(iii), added subpar. (B). Former subpar. (B) redesignated (C).
 

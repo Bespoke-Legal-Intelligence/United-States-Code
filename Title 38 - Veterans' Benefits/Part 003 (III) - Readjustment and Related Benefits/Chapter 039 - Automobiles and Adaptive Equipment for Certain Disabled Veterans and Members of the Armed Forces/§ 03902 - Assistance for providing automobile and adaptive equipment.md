@@ -1,10 +1,10 @@
 ### §3902. Assistance for providing automobile and adaptive equipment
 
-(a) The Secretary, under regulations which the Secretary shall prescribe, shall provide or assist in providing an automobile or other conveyance to each eligible person by paying the total purchase price of the automobile or other conveyance (including all State, local, and other taxes) or $18,900 (as adjusted from time to time under subsection (e)), whichever is the lesser, to the seller from whom the eligible person is purchasing under a sales agreement between the seller and the eligible person.
+(a) The Secretary, under regulations which the Secretary shall prescribe, shall provide or assist in providing an automobile or other conveyance to each eligible person by paying the total purchase price of the automobile or other conveyance (including all State, local, and other taxes) or $18,900 (as adjusted from time to time under subsection (e)),<sup>1</sup> whichever is the lesser, to the seller from whom the eligible person is purchasing under a sales agreement between the seller and the eligible person.
 
 (b)(1) The Secretary, under regulations which the Secretary shall prescribe, shall provide each eligible person the adaptive equipment deemed necessary to insure that the eligible person will be able to operate the automobile or other conveyance in a manner consistent with such person's own safety and the safety of others and so as to satisfy the applicable standards of licensure established by the State of such person's residency or other proper licensing authority.
 
-(2) In the case of any veteran (other that a person eligible for assistance under paragraph (1) of this subsection) who is entitled to compensation for ankylosis of one or both knees, or one or both hips, the Secretary, under the terms and conditions set forth in subsections (a), (c), and (d) of section 3903 of this title and under regulations which the Secretary shall prescribe, shall provide such adaptive equipment to overcome the disability resulting from such ankylosis as (A) is necessary to meet the applicable standards of licensure established by the State ofsuch veteran's residency or other proper licensing authority for the operation of such veteran's automobile or other conveyance by such veteran, and (B) is determined to be necessary by the Under Secretary for Health for the safe operation of such automobile or other conveyance by such veteran.
+(2) In the case of any veteran (other that a person eligible for assistance under paragraph (1) of this subsection) who is entitled to compensation for ankylosis of one or both knees, or one or both hips, the Secretary, under the terms and conditions set forth in subsections (a), (c), and (d) of section 3903 of this title and under regulations which the Secretary shall prescribe, shall provide such adaptive equipment to overcome the disability resulting from such ankylosis as (A) is necessary to meet the applicable standards of licensure established by the State of such veteran's residency or other proper licensing authority for the operation of such veteran's automobile or other conveyance by such veteran, and (B) is determined to be necessary by the Under Secretary for Health for the safe operation of such automobile or other conveyance by such veteran.
 
 (c) In accordance with regulations which the Secretary shall prescribe, the Secretary shall (1) repair, replace, or reinstall adaptive equipment deemed necessary for the operation of an automobile or other conveyance acquired in accordance with the provisions of this chapter, and (2) provide, repair, replace, or reinstall such adaptive equipment for any automobile or other conveyance which an eligible person may previously or subsequently have acquired.
 
@@ -88,7 +88,11 @@ Amendment by Pub. L. 95–479 effective Oct. 1, 1978, see section 401(a) of Pub.
 
 #### Effective Date of 1974 Amendment
 
-Amendment by section 3(1), (2) of Pub. L. 93–538 effective first day of second calendar month following Dec.22, 1974, and amendment by section 3(3) of Pub. L. 93–538 effective Jan. 11, 1971, see section 6 of Pub. L. 93–538, set out as a note under section 3901 of this title.
+Amendment by section 3(1), (2) of Pub. L. 93–538 effective first day of second calendar month following Dec. 22, 1974, and amendment by section 3(3) of Pub. L. 93–538 effective Jan. 11, 1971, see section 6 of Pub. L. 93–538, set out as a note under section 3901 of this title.
+
+#### Special Benefit Allowance Rates
+
+For current VA special benefit allowance rates, see https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/
 
 #### Comprehensive Policy for the Automobile Adaptive Equipment Program
 
@@ -136,7 +140,7 @@ In general.—The Secretary may approve two or more private, nonprofit organizat
 
 &emsp;&emsp;"(B)
 
-Limitation.—If at any time there is only one third party, nonprofit certifying organization approved by the Secretary for purposes of subsection (b)(5), such organization shall not be permitted to provide certifications under such subsection until such time as the Secretary approves a second third party, nonprofit certifying organization for purposes of such subsection.
+Limitation.—If at any time there is only one third party, nonprofit certifying organization approved by the Secretary for purposes of subsection (b)(5), such organization shall not be permitted toprovide certifications under such subsection until such time as the Secretary approves a second third party, nonprofit certifying organization for purposes of such subsection.
 
 "(d)
 
@@ -197,4 +201,6 @@ Automobile adaptive equipment program.—The term 'automobile adaptive equipment
 &emsp;"(2)
 
 Veterans service organization.—The term 'veterans service organization' means any organization recognized by the Secretary for the representation of veterans under section 5902 of title 38, United States Code."
+
+<i><sup>1</sup></i><i> See Special Benefit Allowance Rates note below.</i>
 

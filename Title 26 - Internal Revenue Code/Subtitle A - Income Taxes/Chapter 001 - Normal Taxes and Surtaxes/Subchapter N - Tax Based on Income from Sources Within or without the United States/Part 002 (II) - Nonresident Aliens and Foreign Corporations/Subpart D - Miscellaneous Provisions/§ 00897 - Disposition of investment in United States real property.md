@@ -18,7 +18,7 @@
 
 &emsp;&emsp;In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1) shall not be less than the lesser of—
 
-&emsp;&emsp;&emsp;(i) the individual's alternative minimum taxable income (as defined in section 55(b)(2)) for the taxable year, or
+&emsp;&emsp;&emsp;(i) the individual's alternative minimum taxable income (as defined in section 55(b)(1)(D)) for the taxable year, or
 
 &emsp;&emsp;&emsp;(ii) the individual's net United States real property gain for the taxable year.
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the first corporation shall be treated as holding a portion of each asset of the second corporation equal to the percentage of the fair market value of the stock of the second corporation represented by the stock held by the first corporation, and
 
-&emsp;&emsp;&emsp;(iii) any asset treated as held by the first corporation by reason of clause (ii) whichis used or held for use by the second corporation in a trade or business shall be treated as so used or held by the first corporation.
+&emsp;&emsp;&emsp;(iii) any asset treated as held by the first corporation by reason of clause (ii) which is used or held for use by the second corporation in a trade or business shall be treated as so used or held by the first corporation.
 
 > &emsp;&emsp;Any asset treated as held by the first corporation by reason of the preceding sentence shall be so treated for purposes of applying the preceding sentence successively to corporations which are above the first corporation in a chain of corporations.
 
@@ -252,7 +252,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) disposes of an interest in a domestically controlled qualified investment entity during the 30-day period preceding the ex-dividend date of a distribution which is to be made with respect to the interest and any portion of which, but for the disposition, would have been treated by the taxpayer as gain from the sale or exchange of a United States real property interest under paragraph (1), and
 
-&emsp;&emsp;&emsp;&emsp;(II) acquires, or enters into a contract or option to acquire, a substantiallyidentical interest in such entity during the 61-day period beginning with the 1st day of the 30-day period described in subclause (I).
+&emsp;&emsp;&emsp;&emsp;(II) acquires, or enters into a contract or option to acquire, a substantially identical interest in such entity during the 61-day period beginning with the 1st day of the 30-day period described in subclause (I).
 
 &emsp;&emsp;&nbsp;For purposes of subclause (II), a nonresident alien individual, foreign corporation, or qualified investment entity shall be treated as having acquired any interest acquired by a person related (within the meaning of section 267(b) or 707(b)(1)) to the individual, corporation, or entity, and any interest which such person has entered into any contract or option to acquire.
 
@@ -352,7 +352,7 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;&emsp;&emsp;(i) in the case of an applicable investor, subparagraph (B) shall apply with respect to such distribution, and
 
-&emsp;&emsp;&emsp;(ii) in the case of any other person, such distribution shall be treated under section 857(b)(3)(F) <sup>1</sup> as a dividend from a real estate investment trust notwithstanding any other provision of this title.
+&emsp;&emsp;&emsp;(ii) in the case of any other person, such distribution shall be treated under section857(b)(3)(F) <sup>1</sup> as a dividend from a real estate investment trust notwithstanding any other provision of this title.
 
 #### (D) Applicable investor
 
@@ -468,7 +468,7 @@ Except to the extent otherwise provided in regulations, gain shall be recognized
 
 &emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this subsection.
 
-(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §749(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §321(a), Jan. 2, 2013, 126 Stat. 2332; Pub. L. 113–295, div. A, title I, §133(a), Dec. 19, 2014, 128 Stat. 4018; Pub. L. 114–113, div. Q, title I, §133(a), title III, §§322(a)(1), (2)(A), (b), 323(a), 325(a), Dec. 18, 2015, 129 Stat. 3055, 3098, 3101–3103; Pub. L. 115–97, title I, §12001(b)(3)(D), Dec. 22, 2017, 131 Stat. 2093; Pub. L. 115–141, div. U, title I, §101(p)(1)–(6), (q), title IV, §401(a)(155), (156), Mar. 23, 2018, 132 Stat. 1166, 1167, 1191.)
+(Added Pub. L. 96–499, title XI, §1122(a), Dec. 5, 1980, 94 Stat. 2682; amended Pub. L. 97–34, title VIII, §831(a)(1), (b)–(d), (f), (g), Aug. 13, 1981, 95 Stat. 352–354; Pub. L. 97–248, title II, §201(d)(6), formerly §201(c)(6), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(6), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title VI, §631(e)(12), title VII, §701(e)(4)(G), title XVIII, §1810(f)(1), Oct. 22, 1986, 100 Stat. 2275, 2343, 2826; Pub. L. 100–647, title I, §1006(e)(19), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–508, title XI, §11801(a)(30), Nov. 5, 1990, 104 Stat. 1388–521; Pub. L. 103–66, title XIII, §13203(c)(2), Aug. 10, 1993, 107 Stat. 462; Pub. L. 104–188, title I, §1702(g)(2), Aug. 20, 1996, 110 Stat. 1873; Pub. L. 108–357, title IV, §§411(c), 418(a), Oct. 22, 2004, 118 Stat. 1504, 1512; Pub. L. 109–135, title IV, §403(p)(1), Dec. 21, 2005, 119 Stat. 2626; Pub. L. 109–222, title V, §§504(a), 505(a), 506(a), May 17, 2006, 120 Stat. 355, 357; Pub. L. 110–343, div. C, title II, §208(a), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §749(a), Dec. 17, 2010, 124 Stat. 3320; Pub. L. 112–240, title III, §321(a), Jan. 2, 2013, 126 Stat. 2332; Pub. L. 113–295, div. A, title I, §133(a), Dec. 19, 2014, 128 Stat. 4018; Pub. L. 114–113, div. Q, title I, §133(a), title III, §§322(a)(1), (2)(A), (b), 323(a), 325(a), Dec. 18, 2015, 129 Stat. 3055, 3098, 3101–3103; Pub. L. 115–97, title I, §12001(b)(3)(D), Dec. 22, 2017, 131 Stat. 2093; Pub. L. 115–141, div. U, title I, §101(p)(1)–(6), (q), title IV, §401(a)(155), (156), Mar. 23, 2018, 132 Stat. 1166, 1167, 1191; Pub. L. 117–169, title I, §10101(a)(4)(B)(iii), Aug. 16, 2022, 136 Stat. 1822.)
 
 #### <b>Editorial Notes</b>
 
@@ -480,9 +480,11 @@ Section 857(b)(3)(F), referred to in subsec. (k)(2)(C)(ii), was redesignated sec
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(2)(A)(i). Pub. L. 117–169 substituted "55(b)(1)(D)" for "55(b)(2)".
+
 <b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–141, §401(a)(155), substituted "section 871(b)(1)" for "section 871(B)(1)".
 
-Subsec. (h)(4)(A)(ii). Pub. L. 115–141, §101(p)(6), repealed Pub. L. 114–113, §322(b)(2), and provided that cl. (ii) shall be applied as if amendment had never been enacted. See 2015 Amendment note below.
+Subsec. (h)(4)(A)(ii). Pub. L. 115–141, §101(p)(6), repealed Pub. L. 114–113, §322(b)(2), and provided that cl.\(ii) shall be applied as if amendment had never been enacted. See 2015 Amendment note below.
 
 Subsec. (k)(2). Pub. L. 115–141, §401(a)(156), substituted "United States real property interest" for "USRPI" in heading.
 
@@ -530,7 +532,7 @@ Subsec. (h)(4). Pub. L. 114–113, §322(b)(1)(B), inserted "and special rules" 
 
 Subsec. (h)(4)(A). Pub. L. 114–113, §133(a), struck out cl. (i) designation and heading before "The term 'qualified investment entity' means—", redesignated subcls. (I) and (II) of former cl. (i) as cls. (i) and (ii), respectively, and struck out former cl. (ii). Prior to amendment, text of cl. (ii) read as follows: "Clause (i)(II) shall not apply after December 31, 2014. Notwithstanding the preceding sentence, an entity described in clause (i)(II) shall be treated as a qualified investment entity for purposes of applying paragraphs (1) and (5) and section 1445 with respect to any distribution by the entity to a nonresident alien individual or a foreign corporation which is attributable directly or indirectly to a distribution to the entity from a real estate investment trust."
 
-Subsec. (h)(4)(A)(ii). Pub. L. 114–113, §322(b)(2), which directed insertion of "and for purposes of determining whether a real estate investment trust is a domestically controlled qualified investment entity under thissubsection" after "real estate investment trust", was repealed by Pub. L. 115–141, §101(p)(6), with cl. (ii) to be applied as if amendment had never been enacted.
+Subsec. (h)(4)(A)(ii). Pub. L. 114–113, §322(b)(2), which directed insertion of "and for purposes of determining whether a real estate investment trust is a domestically controlled qualified investment entity under this subsection" after "real estate investment trust", was repealed by Pub. L. 115–141, §101(p)(6), with cl. (ii) to be applied as if amendment had never been enacted.
 
 Subsec. (h)(4)(E). Pub. L. 114–113, §322(b)(1)(A), added subpar. (E).
 
@@ -604,7 +606,7 @@ Distributions by Domestic Corporations to Foreign Shareholders.—If a domestic 
 
 &emsp;"(ii) the individual's net United States real property gain for the taxable year."
 
-Subsec. (d). Pub. L. 99–514, §631(e)(12), in heading, struck out ", etc.," after "distributions", and in text, struck out heading and designation for par. (1), redesignated subpar. (A) as par. (1), redesignated subpar. (B) as par. (2) and substituted "paragraph (1)" for "subparagraph (A)" in introductory provisions, redesignated cl. (i) and its subcls. (I) and (II) as subpar. (A) and cls. (i) and (ii), respectively, redesignated cl. (ii) as subpar. (B), and struck out former par. (2) which provided thatsection 337 not apply to any sale or exchange of a United States real property interest by a foreign corporation.
+Subsec. (d). Pub. L. 99–514, §631(e)(12), in heading, struck out ", etc.," after "distributions", and in text, struck out heading and designation for par. (1), redesignated subpar. (A) as par. (1), redesignated subpar. (B) as par. (2) and substituted "paragraph (1)" for "subparagraph (A)" in introductory provisions, redesignated cl. (i) and its subcls. (I) and (II) as subpar. (A) and cls. (i) and (ii), respectively, redesignated cl. (ii) as subpar. (B), and struck out former par. (2) which provided that section 337 not apply to any sale or exchange of a United States real property interest by a foreign corporation.
 
 Subsec. (i)(1), (4). Pub. L. 99–514, §1810(f)(1), inserted reference to section 1445.
 
@@ -616,11 +618,15 @@ Subsec. (c)(4)(B). Pub. L. 97–34, §831(b), substituted "Assets" for "Interest
 
 Subsec. (d)(1)(B). Pub. L. 97–34, §831(c), substituted "Exceptions" for "Exception where there is a carryover basis" in heading, inserted introductory text "Gain shall not be recognized under subparagraph (A)", inserted cls. (i)(I) and (ii), and substituted cl. (i)(II) the basis of the distributed property in the hands of the distributee is no greater than the adjusted basis of such property before the distribution, increased by the amount of gain (if any) recognized by the distributing corporation" for subpar. (B) provision "Subparagraph (A) shall not apply if the basis of the distributed property in the hands of the distributee is the same as the adjusted basis of such property before the distribution increased by the amount of any gain recognized by the distributing corporation."
 
-Subsec. (i). Pub. L. 97–34, §831(d), in par. (1)(A) substituted "holds a United States real property interest" for "has a permanent establishment in the United States", in par. (1)(B) substituted "treaty obligation of the United States the foreign corporation is entitled to nondiscriminatory treatment with respect to that interest" for "treaty, such permanent establishment may not be treated less favorably than domestic corporations carrying on the same activities", in par. (3) inserted subpar. (A), designated existing provisions as subpar. (B), in subpar. (B) substituted "such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders" for "such conditions as may be prescribed by the Secretary", and prescribed percentage interest required for making the requisite election and application of constructive ownership rules in determining existence of the required percentage of a class of interest.
+Subsec. (i). Pub. L. 97–34, §831(d), in par. (1)(A) substituted "holds a United States real property interest" for "has a permanent establishment in the United States", in par. (1)(B) substituted "treaty obligation of the United States the foreign corporation is entitled to nondiscriminatory treatment with respect to that interest" for "treaty, such permanent establishment may not be treated less favorably than domestic corporations carrying on the same activities", in par. (3) inserted subpar. (A), designated existing provisions as subpar. (B), in subpar. (B) substituted "such other conditions as the Secretary may prescribe by regulationswith respect to the corporation or its shareholders" for "such conditions as may be prescribed by the Secretary", and prescribed percentage interest required for making the requisite election and application of constructive ownership rules in determining existence of the required percentage of a class of interest.
 
 Subsecs. (j) to (l). Pub. L. 97–34, §831(f), (g), added subsecs. (j) to (l).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under section 11 of this title.
 
 #### Effective Date of 2018 Amendment
 
@@ -712,7 +718,7 @@ Amounts withheld on or before date of enactment.—In the case of a regulated in
 
 &emsp;"(A) which makes a distribution after December 31, 2009, and before the date of the enactment of this Act \[Dec. 17, 2010\]; and
 
-&emsp;"(B) which would (but for the second sentence of paragraph (1)) have been required to withhold with respect to such distribution under section 1445 of such Code,
+&emsp;"(B) which would (but for the second sentence of paragraph (1)) have been required to withhold withrespect to such distribution under section 1445 of such Code,
 
 > such investment company shall not be liable to any person to whom such distribution was made for any amount so withheld and paid over to the Secretary of the Treasury."
 
@@ -842,7 +848,7 @@ Effective Date.—The provisions of this section shall take effect on the date o
 
 #### Gain From Disposition of Investment in United States Real Property by Nonresident Alien Individuals and Foreign Corporations
 
-Pub. L. 96–499, title XI, §1125(c), Dec. 5, 1980, 94 Stat. 2690, as amended by Pub. L. 97–34, title VIII, §831(h),Aug. 13, 1981, 95 Stat. 355; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 96–499, title XI, §1125(c), Dec. 5, 1980, 94 Stat. 2690, as amended by Pub. L. 97–34, title VIII, §831(h), Aug. 13, 1981, 95 Stat. 355; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(1)
 

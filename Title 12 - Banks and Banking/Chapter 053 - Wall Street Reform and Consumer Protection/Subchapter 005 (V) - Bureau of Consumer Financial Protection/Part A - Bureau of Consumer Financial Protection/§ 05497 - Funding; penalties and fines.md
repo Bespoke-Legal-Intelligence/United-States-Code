@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (1), and in accordance with this paragraph, the amountthat shall be transferred to the Bureau in each fiscal year shall not exceed a fixed percentage of the total operating expenses of the Federal Reserve System, as reported in the Annual Report, 2009, of the Board of Governors, equal to—
+&emsp;&emsp;Notwithstanding paragraph (1), and in accordance with this paragraph, the amount that shall be transferred to the Bureau in each fiscal year shall not exceed a fixed percentage of the total operating expenses of the Federal Reserve System, as reported in the Annual Report, 2009, of the Board of Governors, equal to—
 
 &emsp;&emsp;&emsp;(i) 10 percent of such expenses in fiscal year 2011;
 
@@ -28,7 +28,7 @@
 
 #### (3) Transition period
 
-&emsp;Beginning on July 21, 2010, and until the designated transfer date, the Board of Governors shall transfer to the Bureau the amount estimated by the Secretary needed to carry out the authorities granted to the Bureau under Federal consumer financial law, from July 21, 2010 until the designated transfer date.
+&emsp;Beginning on July 21, 2010, and until the designated transfer date, the Board of Governorsshall transfer to the Bureau the amount estimated by the Secretary needed to carry out the authorities granted to the Bureau under Federal consumer financial law, from July 21, 2010 until the designated transfer date.
 
 #### (4) Budget and financial management
 
@@ -80,7 +80,7 @@
 
 #### (1) Separate fund in Federal Reserve established
 
-&emsp;There is established in the Federal Reserve a separate fund, to be known as the "Bureau of Consumer Financial Protection Fund" (referred to in this section as the "Bureau Fund"). The Bureau Fund shall be maintained and established at a Federal reserve bank, in accordance with such requirements as the Board of Governors may impose.
+&emsp;There is established in the Federal Reserve a separate fund, to be known as the "Bureau of Consumer Financial Protection Fund" (referred to in this section as the "BureauFund"). The Bureau Fund shall be maintained and established at a Federal reserve bank, in accordance with such requirements as the Board of Governors may impose.
 
 #### (2) Fund receipts
 
@@ -134,7 +134,7 @@
 
 #### (B) Report required
 
-&emsp;&emsp;When making a determination under subparagraph (A), the Director shall prepare a report regarding the funding of the Bureau, including the assets and liabilities of the Bureau, and the extent to which the funding needs of the Bureau are anticipated to exceed the level of the amount set forth in subsection (a)(2). The Director shall submit thereport to the President and to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives.
+&emsp;&emsp;When making a determination under subparagraph (A), the Director shall prepare a report regarding the funding of the Bureau, including the assets and liabilities of the Bureau, and the extent to which the funding needs of the Bureau are anticipated to exceed the level of the amount set forth in subsection (a)(2). The Director shall submit the report to the President and to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives.
 
 #### (2) Authorization of appropriations
 

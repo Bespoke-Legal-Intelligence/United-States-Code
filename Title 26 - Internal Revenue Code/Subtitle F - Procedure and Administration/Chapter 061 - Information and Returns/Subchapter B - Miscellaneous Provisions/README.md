@@ -52,7 +52,7 @@
 
 <b>1984</b>—Pub. L. 98–369, div. A, title I, §§141(c)(1), 142(c)(1), July 18, 1984, 98 Stat. 680, 682, added items 6111 and 6112 and redesignated former item 6111 as 6113.
 
-<b>1976</b>—Pub. L. 94–455, title XII, §§1201(c), 1202(a)(2), 1203(i)(2), title XIX, §1906(b)(1), (2), Oct. 4, 1976, 90 Stat. 1667, 1685, 1694, 1833, substituted in item 6103 "Confidentiality and disclosure of returns and return information" for "Publicity of returns and disclosure of information as to persons filing income tax returns", struckout item 6105 "Compilation of relief from excess profits tax cases", added items 6107 and 6110, redesignated former item 6110 as 6111, and as so redesignated substituted "reference" for "references".
+<b>1976</b>—Pub. L. 94–455, title XII, §§1201(c), 1202(a)(2), 1203(i)(2), title XIX, §1906(b)(1), (2), Oct. 4, 1976, 90 Stat. 1667, 1685, 1694, 1833, substituted in item 6103 "Confidentiality and disclosure of returns and return information" for "Publicity of returns and disclosure of information as to persons filing income tax returns", struck out item 6105 "Compilation of relief from excess profits tax cases", added items 6107 and 6110, redesignated former item 6110 as 6111, and as so redesignated substituted "reference" for "references".
 
 <b>1968</b>—Pub. L. 90–618, title II, §203(b), Oct. 22, 1968, 82 Stat. 1235, struck out item 6107 "List of special taxpayers for public inspection".
 

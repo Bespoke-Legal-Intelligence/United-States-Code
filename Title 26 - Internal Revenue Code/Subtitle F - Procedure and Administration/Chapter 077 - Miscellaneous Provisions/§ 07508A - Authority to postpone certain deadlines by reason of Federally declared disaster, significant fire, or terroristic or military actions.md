@@ -68,13 +68,13 @@ The rules of section 7508(b) shall apply for purposes of this section.
 
 #### (6) Multiple declarations
 
-&emsp;For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 60-day period, a separate period shall be determined under such paragraph with respect to each such declaration.
+&emsp;For purposes of paragraph (1), in the case of multiple declarations relating to a disaster area which are issued within a 60-day period, a separate period shall be determined undersuch paragraph with respect to each such declaration.
 
 #### (e) Significant fire
 
 For purposes of this section, the term "significant fire" means any fire with respect to which assistance is provided under section 420 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
 
-(Added Pub. L. 105–34, title IX, §911(a), Aug. 5, 1997, 111 Stat. 877; amended Pub. L. 107–16, title VIII, §802(a), June 7, 2001, 115 Stat. 149; Pub. L. 107–134, title I, §112(a), Jan. 23, 2002, 115 Stat. 2433; Pub. L. 110–343, div. C, title VII,§706(a)(2)(D)(vii), Oct. 3, 2008, 122 Stat. 3922; Pub. L. 115–141, div. U, title IV, §401(b)(10)(B), Mar. 23, 2018, 132 Stat. 1202; Pub. L. 116–94, div. Q, title II, §205(a), Dec. 20, 2019, 133 Stat. 3245; Pub. L. 117–58, div. H, title V, §§80501(a), 80504(a), (b)(1), Nov. 15, 2021, 135 Stat. 1335, 1336.)
+(Added Pub. L. 105–34, title IX, §911(a), Aug. 5, 1997, 111 Stat. 877; amended Pub. L. 107–16, title VIII, §802(a), June 7, 2001, 115 Stat. 149; Pub. L. 107–134, title I, §112(a), Jan. 23, 2002, 115 Stat. 2433; Pub. L. 110–343, div. C, title VII, §706(a)(2)(D)(vii), Oct. 3, 2008, 122 Stat. 3922; Pub. L. 115–141, div. U, title IV, §401(b)(10)(B), Mar. 23, 2018, 132 Stat. 1202; Pub. L. 116–94, div. Q, title II, §205(a), Dec. 20, 2019, 133 Stat. 3245; Pub. L. 117–58, div. H, title V, §§80501(a), 80504(a), (b)(1), Nov. 15, 2021, 135 Stat. 1335, 1336.)
 
 #### <b>Editorial Notes</b>
 
@@ -146,7 +146,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 #### Extension of Certain Deferred Payroll Taxes by Reason of Coronavirus Pandemic
 
-Pub. L. 116–260, div. N, title II, §274, Dec. 27, 2020, 134 Stat. 1978, provided that: "The Secretary of the Treasury (or the Secretary's delegate) shall ensure that Internal Revenue Service Notice 2020–65 (entitled 'Relief with Respect to Employment Tax Deadlines Applicable to Employers Affected by the Ongoing Coronavirus (COVID–19) Disease 2019 Pandemic') and any successor or related regulation, notice, or guidance is applied—
+Pub. L. 116–260, div. N, title II, §274, Dec. 27, 2020, 134 Stat. 1978, provided that: "The Secretary of the Treasury (or the Secretary's delegate) shall ensure that Internal Revenue Service Notice 2020–65 (entitled 'Relief with Respect to Employment Tax Deadlines Applicableto Employers Affected by the Ongoing Coronavirus (COVID–19) Disease 2019 Pandemic') and any successor or related regulation, notice, or guidance is applied—
 
 &emsp;"(1) by substituting 'December 31, 2021' for 'April 30, 2021' each place it appears therein, and
 

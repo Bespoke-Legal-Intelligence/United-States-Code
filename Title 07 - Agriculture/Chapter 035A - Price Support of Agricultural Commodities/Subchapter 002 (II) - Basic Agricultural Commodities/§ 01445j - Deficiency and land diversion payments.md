@@ -56,7 +56,7 @@
 
 #### (G) Repayment
 
-&emsp;&emsp;If the deficiency payment payable to a producer for a crop, as finally determined by the Secretary under this Act, is less than the amount paid to the producer as an advance deficiency payment for the crop under this subsection, the producer shall repay an amount equal to the difference between the amount advanced and the amount finally determined by the Secretary to be payable to the producer as a deficiency payment for the crop concerned.
+&emsp;&emsp;If the deficiency payment payable to a producer for a crop, as finally determined bythe Secretary under this Act, is less than the amount paid to the producer as an advance deficiency payment for the crop under this subsection, the producer shall repay an amount equal to the difference between the amount advanced and the amount finally determined by the Secretary to be payable to the producer as a deficiency payment for the crop concerned.
 
 #### (H) Repayment requirement
 
@@ -90,7 +90,7 @@
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended,known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Codification
 
@@ -126,7 +126,7 @@ Subsec. (c). Pub. L. 101–508 substituted "wheat and feed grains which payments
 
 Subsec. (a)(2)(F)(iii). Pub. L. 100–203, §1110(2), temporarily added cl. (iii) and struck out former cl. (iii) which read as follows: "50 percent of the projected payment rate,". See Effective and Termination Dates of 1987 Amendment note below.
 
-<b>1985</b>—Pub. L. 99–198, as amended by Pub. L. 101–624, §1121(c), amended section generally, substituting provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton and rice for provisions relating to advance deficiency payments for the 1982 through 1985 crops of wheat, feed grains, upland cotton and rice.
+<b>1985</b>—Pub. L. 99–198, as amended by Pub. L. 101–624, §1121(c), amended section generally, substituting provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton and rice for provisions relating toadvance deficiency payments for the 1982 through 1985 crops of wheat, feed grains, upland cotton and rice.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

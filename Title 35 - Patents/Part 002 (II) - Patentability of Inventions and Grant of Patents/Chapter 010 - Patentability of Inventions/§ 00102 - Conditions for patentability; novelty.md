@@ -82,7 +82,7 @@ Language relating specifically to designs is omitted for inclusion in subsequent
 
 &emsp;"(2) a patent granted on an application for patent by another filed in the United States before the invention by the applicant for patent, except that a patent shall not be deemed filed in the United States for the purposes of this subsection based on the filing of an international application filed under the treaty defined in section 351(a); or".
 
-<b>1999</b>—Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\], as amended by Pub. L. 107–273, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "the invention was described in a patent granted on an application for patent by another filed in the United States before the invention thereof by the applicant for patent, or on an international application by another who has fulfilled the requirements of paragraphs (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent, or".
+<b>1999</b>—Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\], as amended by Pub. L. 107–273, amended subsec. (e) generally. Prior to amendment, subsec. (e) read asfollows: "the invention was described in a patent granted on an application for patent by another filed in the United States before the invention thereof by the applicant for patent, or on an international application by another who has fulfilled the requirements of paragraphs (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent, or".
 
 Subsec. (g). Pub. L. 106–113, §1000(a)(9) \[title IV, §4806\], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "before the applicant's invention thereof the invention was made in this country by another who had not abandoned, suppressed, or concealed it. In determining priority of invention there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other."
 
@@ -150,5 +150,5 @@ Effective Date; Applicability.—This section shall take effect on the date of t
 
 #### Emergency Relief From Postal Situation Affecting Patent Cases
 
-Relief as to filing date of patent application or patent affected by postal situation beginning on Mar. 18, 1970,and ending on or about Mar. 30, 1970, but patents issued with earlier filing dates not effective as prior art under subsec. (e) of this section as of such earlier filing dates, see section 1(a) of Pub. L. 92–34, formerly set out in a note under section 111 of this title.
+Relief as to filing date of patent application or patent affected by postal situation beginning on Mar. 18, 1970, and ending on or about Mar. 30, 1970, but patents issued with earlier filing dates not effective as prior art under subsec. (e) of this section as of such earlier filing dates, see section 1(a) of Pub. L. 92–34, formerly set out in a note under section 111 of this title.
 

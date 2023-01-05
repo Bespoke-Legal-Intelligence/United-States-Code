@@ -4,7 +4,7 @@
 
 (b) An order issued under subsection (a) of this section shall require that the person with whom the defendant contracts pay to the Attorney General any proceeds due the defendant under such contract.
 
-(c)(1) Proceeds paid to the Attorney General under this section shall be retained in escrow inthe Crime Victims Fund in the Treasury by the Attorney General for five years after the date of an order under this section, but during that five year period may—
+(c)(1) Proceeds paid to the Attorney General under this section shall be retained in escrow in the Crime Victims Fund in the Treasury by the Attorney General for five years after the date of an order under this section, but during that five year period may—
 
 &emsp;(A) be levied upon to satisfy—
 

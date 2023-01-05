@@ -52,7 +52,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 &emsp;&emsp;For purposes of subsection (a), discrimination includes—
 
-&emsp;&emsp;&emsp;(i) the imposition or application of eligibility criteria that screen out or tend toscreen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered;
+&emsp;&emsp;&emsp;(i) the imposition or application of eligibility criteria that screen out or tend to screen out an individual with a disability or any class of individuals with disabilities from fully and equally enjoying any goods, services, facilities, privileges, advantages, or accommodations, unless such criteria can be shown to be necessary for the provision of the goods, services, facilities, privileges, advantages, or accommodations being offered;
 
 &emsp;&emsp;&emsp;(ii) a failure to make reasonable modifications in policies, practices, or procedures, when such modifications are necessary to afford such goods, services, facilities, privileges, advantages, or accommodations to individuals with disabilities, unless the entity can demonstrate that making such modifications would fundamentally alter the nature of such goods, services, facilities, privileges, advantages, or accommodations;
 

@@ -100,7 +100,19 @@ Requirements.—The cost methodology policy shall—
 
 &emsp;&emsp;(D)
 
-Independent evaluation.—Not later than March 31 of each year, the Committee shall ensure that an independent entity selected by the Committee has completed anevaluation to determine whether State payments for the most recently concluded fiscal year are accurate and comply with the applicable cost allocation methodology.
+Independent evaluation.—Not later than March 31 of each year, the Committee shall ensure that an independent entity selected by the Committee has completed an evaluation to determine whether State payments for the most recently concluded fiscal year are accurate and comply with the applicable cost allocation methodology.
+
+&emsp;(8)
+
+Staffing.—The Committee may—
+
+&emsp;&emsp;(A) appoint, terminate, and fix the compensation of an executive director and other Committee employees necessary for the Committee to carry out its duties; and
+
+&emsp;&emsp;(B) enter into contracts necessary to carry out its duties, including providing Committee employees with retirement and other employee benefits under the condition that Non-Federal members or officers, the executive director, and employees of the Committee are not Federal employees for any purpose.
+
+&emsp;(9)
+
+Authorization of appropriations.—Amounts made available by the Secretary of Transportation for the Committee may be used to carry out this section.
 
 (b)
 
@@ -214,7 +226,7 @@ Consultation.—In developing a new State-supported route, Amtrak shall consult 
 
 &emsp;(2)
 
-State commitments.—Notwithstanding any other provision of law, before beginning construction necessary for, or beginning operation of, a State-supported route that is initiated on or after the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, Amtrak shall enter into a memorandum of understanding, or otherwise secure an agreement, with each State that would be providing funding for such route for sharing—
+State commitments.—Notwithstanding any other provision of law, before beginningconstruction necessary for, or beginning operation of, a State-supported route that is initiated on or after the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, Amtrak shall enter into a memorandum of understanding, or otherwise secure an agreement, with each State that would be providing funding for such route for sharing—
 
 &emsp;&emsp;(A) ongoing operating costs and capital costs in accordance with the cost methodology policy referred to in subsection (a)(7) then in effect; or
 
@@ -262,7 +274,7 @@ Rule of Construction.—The decisions of the Committee—
 
 Definition of State.—In this section, the term "State" means any of the 50 States, including the District of Columbia, that sponsor the operation of trains by Amtrak on a State-supported route, or a public entity that sponsors such operation on such a route.
 
-(Added Pub. L. 114–94, div. A, title XI, §11204(a), Dec. 4, 2015, 129 Stat. 1634; amended Pub. L. 117–58, div. B, title II, §22211, Nov. 15, 2021, 135 Stat. 708.)
+(Added Pub. L. 114–94, div. A, title XI, §11204(a), Dec. 4, 2015, 129 Stat. 1634; amended Pub. L. 117–58, div. B, title II, §22211, Nov. 15, 2021, 135 Stat. 708; Pub. L. 117–328, div. L, title I, §158, Dec. 29, 2022, 136 Stat. 5125.)
 
 #### <b>Editorial Notes</b>
 
@@ -273,6 +285,8 @@ Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referr
 The date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsecs. (g)(2) and (j), is the date of enactment of title II of div. B of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(8), (9). Pub. L. 117–328 added pars. (8) and (9).
 
 <b>2021</b>—Subsec. (a)(1). Pub. L. 117–58, §22211(a)(1), substituted "There is established" for "Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation shall establish" and inserted "current and future" before "rail operations".
 

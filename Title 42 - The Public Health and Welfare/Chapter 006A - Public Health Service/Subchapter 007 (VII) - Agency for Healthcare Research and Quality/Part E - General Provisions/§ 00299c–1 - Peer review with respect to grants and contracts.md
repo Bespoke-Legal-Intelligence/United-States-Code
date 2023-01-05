@@ -26,13 +26,13 @@ The Director may not approve an application described in subsection (a)(1) unles
 
 #### (3) Duration
 
-&emsp;Notwithstanding section 14(a) of the Federal Advisory Committee Act, peer review groups established under this section may continue in existence until otherwise provided by law.
+&emsp;Notwithstanding section 1013(a) of title 5, peer review groups established under this section may continue in existence until otherwise provided by law.
 
 #### (4) Qualifications
 
 &emsp;Members of any peer review group shall, at a minimum, meet the following requirements:
 
-&emsp;&emsp;(A) Such members shall agree in writing to treat information received, pursuant totheir work for the group, as confidential information, except that this subparagraph shall not apply to public records and public information.
+&emsp;&emsp;(A) Such members shall agree in writing to treat information received, pursuant to their work for the group, as confidential information, except that this subparagraph shall not apply to public records and public information.
 
 &emsp;&emsp;(B) Such members shall agree in writing to recuse themselves from participation in the peer review of specific applications which present a potential personal conflict of interest or appearance of such conflict, including employment in a directly affected organization, stock ownership, or any financial or other arrangement that might introduce bias in the process of peer review.
 
@@ -44,7 +44,7 @@ In the case of applications for financial assistance whose direct costs will not
 
 The Director shall issue regulations for the conduct of peer review under this section.
 
-(July 1, 1944, ch. 373, title IX, §942, formerly §922, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1665; renumbered §932, Pub. L. 109–41, §2(a)(3), July 29, 2005, 119 Stat. 424; renumbered §942, Pub. L. 111–148, title III, §3013(a)(2), Mar. 23, 2010, 124 Stat. 381.)
+(July 1, 1944, ch. 373, title IX, §942, formerly §922, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1665; renumbered §932, Pub. L. 109–41, §2(a)(3), July 29, 2005, 119 Stat. 424; renumbered §942, Pub. L. 111–148, title III, §3013(a)(2), Mar. 23, 2010, 124 Stat. 381; amended Pub. L. 117–286, §4(a)(243), Dec. 27, 2022, 136 Stat. 4332.)
 
 #### <b>Editorial Notes</b>
 
@@ -52,9 +52,11 @@ The Director shall issue regulations for the conduct of peer review under this s
 
 The provisions of title 5 that govern appointments in the competitive service, referred to in subsec. (c)(1), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (c)(3), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5.
-
 #### Prior Provisions
 
 A prior section 299c–1, act July 1, 1944, ch. 373, title IX, §922, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2201; amended Pub. L. 101–508, title IV, §4118(f)(2)(F), Nov. 5, 1990, 104 Stat. 1388–70; Pub. L. 102–410, §5(d), Oct. 13, 1992, 106 Stat. 2098, related to peer review with respect to grants and contracts, prior to the general amendment of this subchapter by Pub. L. 106–129.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c)(3). Pub. L. 117–286, which directed amendment of "Section 941(c)(3) of the Public Health Service Act" by substituting "section 1013(a) of title 5," for "section 14(a) of the Federal Advisory Committee Act,", was executed to this section, which is section 942 of the Public Health Service Act, to reflect the probable intent of Congress.
 

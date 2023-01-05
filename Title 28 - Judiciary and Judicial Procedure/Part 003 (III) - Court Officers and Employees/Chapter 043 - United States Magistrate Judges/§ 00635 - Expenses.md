@@ -10,7 +10,7 @@
 
 <i>Prior section 663</i>.—Based on title 28, U.S.C., 1940 ed., §§597, 597a, 597b, 597c (May 28, 1896, ch. 252, §§21, 24, 29 Stat. 184, 186; Aug. 1, 1946, ch. 721, §§1–4, 60 Stat. 752, 753).
 
-The provision of section 597c of title 28, U.S.C., 1940 ed., excepting commissioners in the Territory of Alaska was omitted as unnecessary since this exception is implicit in the revised section. The words "in each judicial district" limit the section to the commissioners in the districts enumerated in chapter 5 which includes Hawaii, Puerto Rico, and District of Columbia but omits Alaska, Canal Zone, \[Guam\] and Virgin Islands.
+The provision of section 597c of title 28, U.S.C., 1940 ed., excepting commissioners in the Territory of Alaska was omitted as unnecessary since this exception is implicit in the revised section. The words "in each judicial district" limit the section to the commissioners in the districts enumerated in chapter 5 which includesHawaii, Puerto Rico, and District of Columbia but omits Alaska, Canal Zone, \[Guam\] and Virgin Islands.
 
 Salaries of park commissioners are provided by section 634 of this title.
 

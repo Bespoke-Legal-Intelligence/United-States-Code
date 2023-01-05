@@ -18,7 +18,7 @@
 
 &emsp;(B) 30 days after the date of enactment of the law by which the appropriation is made available.
 
-(c) By the first day of each fiscal year, the head of each executive department of the United States Government shall apportion among the major organizational units of the department the maximum amount to be expended by eachunit during the fiscal year out of each contingent fund appropriated for the entire year for the department. Each amount may be changed during the fiscal year only by written direction of the head of the department. The direction shall state the reasons for the change.
+(c) By the first day of each fiscal year, the head of each executive department of the United States Government shall apportion among the major organizational units of the department the maximum amount to be expended by each unit during the fiscal year out of each contingent fund appropriated for the entire year for the department. Each amount may be changed during the fiscal year only by written direction of the head of the department. The direction shall state the reasons for the change.
 
 (d) An appropriation apportioned under this subchapter may be divided and subdivided administratively within the limits of the apportionment.
 
@@ -71,4 +71,12 @@ In subsection (b)(2), the words "head of the executive agency" are substituted f
 In subsection (c), the words "In addition to the apportionment required by section 665 of this title" are omitted as unnecessary because of the restatement. The words "By the first day" are substituted for "on or before the beginning", and the words "of the United States Government" are added, for clarity. The words "major organizational unit" are substituted for "office or bureau" for consistency in the revised section. The word "changed" is substituted for "increased or diminished" to eliminate unnecessary words.
 
 In subsection (e), the words "initiation and operation" are substituted for "initiation, operation, and administration" to eliminate unnecessary words.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Automated System for Posting Appropriation Apportionment Documents
+
+Pub. L. 117–328, div. E, title II, §204, Dec. 29, 2022, 136 Stat. 4667, provided that: "In fiscal year 2023 and each fiscal year thereafter—(1) the Office of Management and Budget shall operate and maintain the automated system required to be implemented by section 204 of the Financial Services and General Government Appropriations Act, 2022 (division E of Public Law 117–103) \[see section 204(b) set out below\] and shall continue to post each document apportioning an appropriation, pursuant to section 1513(b) of title 31, United States Code, including any associated footnotes, in a format that qualifies each such document as an open Government data asset (as that term is defined in section 3502 of title 44, United States Code); and (2) the requirements specified in subsection (c), the first and second provisos of subsection (d)(1), and subsection (d)(2) of such section 204 \[136 Stat. 257\] shall continue to apply."
+
+Pub. L. 117–103, div. E, title II, §204(b), Mar. 15, 2022, 136 Stat. 257, provided that: "Not later than 120 days after the date of enactment of this Act \[Mar. 15, 2022\], the Office of Management and Budget shall complete implementation of an automated system to post each document apportioning an appropriation, pursuant to section 1513(b) of title 31, United States Code, including any associated footnotes, in a format that qualifies each such document as an Open Government Data Asset (as defined in section 3502 of title 44, United States Code), not later than 2 business days after the date of approval of such apportionment, and shall place on such website each document apportioning an appropriation, pursuant to such section 1513(b), including any associated footnotes, already approved the current fiscal year, and shall report the date of completion of such requirements to the Committees on Appropriations and the Budget of the House of Representatives and Senate."
 

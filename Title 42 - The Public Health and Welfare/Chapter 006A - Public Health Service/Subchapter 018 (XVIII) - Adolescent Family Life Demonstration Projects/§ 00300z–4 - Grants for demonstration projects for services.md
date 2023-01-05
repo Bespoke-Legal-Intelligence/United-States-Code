@@ -22,7 +22,7 @@ In approving applications for grants for demonstration projects for services und
 
 &emsp;(7) have involved the community to be served, including public and private agencies, adolescents, and families, in the planning and implementation of the demonstration project; and
 
-&emsp;(8) will demonstrate innovative and effective approaches in addressing the problems of adolescent premarital sexual relations, pregnancy, or parenthood, including approaches to provide pregnant adolescents with adequate information about adoption.
+&emsp;(8) will demonstrate innovative and effective approaches in addressing the problems of adolescent premarital sexual relations, pregnancy, or parenthood, including approaches toprovide pregnant adolescents with adequate information about adoption.
 
 #### (b) Factors to be considered in making grants; special needs of rural areas
 

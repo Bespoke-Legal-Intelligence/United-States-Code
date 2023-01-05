@@ -64,7 +64,7 @@ The functions of the CAN are to—
 
 #### (i) Appointment
 
-&emsp;&emsp;&emsp;The Board shall be comprised of 24 members who are appointed by the Secretaryand who serve at the pleasure of the Secretary.
+&emsp;&emsp;&emsp;The Board shall be comprised of 24 members who are appointed by the Secretary and who serve at the pleasure of the Secretary.
 
 #### (ii) Chairperson and Vice Chairperson
 
@@ -176,7 +176,7 @@ The functions of the CAN are to—
 
 #### (A) Compensation
 
-&emsp;&emsp;Members shall receive compensation at a rate to be fixed by the Chairperson but not to exceed a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which the member is engaged in the performance of the duties of the Board. All members of the Board who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
+&emsp;&emsp;Members shall receive compensation at a rate to be fixed by the Chairperson but notto exceed a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5 for each day (including travel time) during which the member is engaged in the performance of the duties of the Board. All members of the Board who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
 
 #### (B) Travel expenses
 
@@ -240,7 +240,7 @@ The functions of the CAN are to—
 
 #### (i) Initial award amount
 
-&emsp;&emsp;&emsp;Each award under this subparagraph shall be not more than $15,000,000 per project for the first fiscal year for whichthe project is funded, which shall be payable in one payment.
+&emsp;&emsp;&emsp;Each award under this subparagraph shall be not more than $15,000,000 per project for the first fiscal year for which the project is funded, which shall be payable in one payment.
 
 #### (ii) Funding in subsequent fiscal years
 

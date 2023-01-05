@@ -12,7 +12,7 @@ To require, by general or special orders, persons, partnerships, and corporation
 
 #### (c) Investigation of compliance with antitrust decrees
 
-Whenever a final decree has been entered against any defendant corporation in any suit brought by the United States to prevent and restrain any violation of the antitrust Acts, to make investigation, upon its own initiative, of the manner in which the decree has been or is being carried out, and upon the application of the Attorney General it shall be its duty to make such investigation. It shall transmit to the Attorney General a report embodying its findings and recommendations as a result of any such investigation, and the report shall be made public in the discretion of the Commission.
+Whenever a final decree has been entered against any defendant corporation in any suit brought by the United States to prevent and restrain any violation of the antitrust Acts, to make investigation, upon its own initiative, of the manner in which the decree has been or is being carried out, and upon the application of the Attorney General it shall be its duty to make such investigation. It shall transmit to the Attorney General a report embodying itsfindings and recommendations as a result of any such investigation, and the report shall be made public in the discretion of the Commission.
 
 #### (d) Investigations of violations of antitrust statutes
 
@@ -24,7 +24,7 @@ Upon the application of the Attorney General to investigate and make recommendat
 
 #### (f) Publication of information; reports
 
-To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: <i>Provided</i>, That the Commission shall not have any authority to make public any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose such information (1) to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification of an officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes, and (2) to any officer or employee of any foreign law enforcement agency under the same circumstancesthat making material available to foreign law enforcement agencies is permitted under section 57b–2(b) of this title.
+To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: <i>Provided</i>, That the Commission shall not have any authority to make public any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose such information (1) to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification of an officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes, and (2) to any officer or employee of any foreign law enforcement agency under the same circumstances that making material available to foreign law enforcement agencies is permitted under section 57b–2(b) of this title.
 
 #### (g) Classification of corporations; regulations
 
@@ -64,7 +64,7 @@ With respect to the International Antitrust Enforcement Assistance Act of 1994 \
 
 #### (4) International agreements
 
-&emsp;If a foreign law enforcement agency has set forth a legal basis for requiring execution of an international agreement as a condition for reciprocal assistance, or as a condition for provision of materials or information to the Commission, the Commission, with prior approval and ongoing oversight of the Secretary of State, and with final approval of the agreement by the Secretary of State, may negotiate and conclude an international agreement, in the name of either the United States or the Commission, for the purpose of obtaining such assistance, materials, or information. The Commission may undertake in such an international agreement to—
+&emsp;If a foreign law enforcement agency has set forth a legal basis for requiring execution of an international agreement as a condition for reciprocal assistance, or as a condition for provision of materials or information to the Commission, the Commission, with prior approval and ongoing oversight of the Secretary of State, and with final approval of the agreement by the Secretary of State, may negotiate and conclude an international agreement, inthe name of either the United States or the Commission, for the purpose of obtaining such assistance, materials, or information. The Commission may undertake in such an international agreement to—
 
 &emsp;&emsp;(A) provide assistance using the powers set forth in this subsection;
 
@@ -82,7 +82,7 @@ With respect to the International Antitrust Enforcement Assistance Act of 1994 \
 
 #### (7) Assistance to certain countries
 
-&emsp;The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) <sup>1</sup> of title 50, has repeatedly provided support for acts of international terrorism, unless anduntil such determination is rescinded pursuant to section 4605(j)(4) <sup>1</sup> of title 50.
+&emsp;The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) <sup>1</sup> of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) <sup>1</sup> of title 50.
 
 #### (k) Referral of evidence for criminal proceedings
 
@@ -112,7 +112,7 @@ To expend appropriated funds for—
 
 The Commission shall establish a plan designed to substantially reduce burdens imposed upon small businesses as a result of requirements established by the Commission under clause (b) relating to the filing of quarterly financial reports. Such plan shall (1) be established after consultation with small businesses and persons who use the information contained in such quarterly financial reports; (2) provide for a reduction of the number of small businesses required to file such quarterly financial reports; and (3) make revisions in the forms used for such quarterly financial reports for the purpose of reducing the complexity of such forms. The Commission, not later than December 31, 1980, shall submit such plan to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives. Such plan shall take effect not later than October 31, 1981.
 
-No officer or employee of the Commission or any Commissioner may publish or disclose information to the public, or to any Federal agency, whereby any line-of-business data furnished by a particular establishment or individual can be identified. No one other than designated sworn officers and employees of the Commission may examine the line-of-business reports from individual firms, and information provided in the line-of-business program administered by the Commission shall be used only for statistical purposes. Information for carrying out specific law enforcement responsibilities of the Commission shall be obtained under practices and procedures in effect on May 28, 1980, or as changed by law.
+No officer or employee of the Commission or any Commissioner may publish or disclose information to the public, or to any Federal agency, whereby any line-of-business data furnished by aparticular establishment or individual can be identified. No one other than designated sworn officers and employees of the Commission may examine the line-of-business reports from individual firms, and information provided in the line-of-business program administered by the Commission shall be used only for statistical purposes. Information for carrying out specific law enforcement responsibilities of the Commission shall be obtained under practices and procedures in effect on May 28, 1980, or as changed by law.
 
 Nothing in this section (other than the provisions of clause (c) and clause (d)) shall apply to the business of insurance, except that the Commission shall have authority to conduct studies and prepare reports relating to the business of insurance. The Commission may exercise such authority only upon receiving a request which is agreed to by a majority of the members of the Committee on Commerce, Science, and Transportation of the Senate or the Committee on Energy and Commerce of the House of Representatives. The authority to conduct any such study shall expire at the end of the Congress during which the request for such study was made.
 
@@ -166,7 +166,7 @@ Subsec. (b). Pub. L. 93–637, §§201(b), 203(a)(2), substituted "in or whose b
 
 Subsec. (g). Pub. L. 93–637, §202(b), inserted "(except as provided in section 57a(a)(2) of this title)" before "to make rules and regulations".
 
-<b>1973</b>—Pub. L. 93–153 inserted proviso following subsec. (h) that the Commission's investigatory powers to gather and compile information, investigate, and require reports or answers is not curtailed as regards banks and common carriers when the investigation in question is an investigation of a corporation, group of corporations, or industry not engaged or engaged only incidentally in banking or in business as a common carrier subject to the Act to regulate commerce notwithstanding provisions excepting banks and common carriers subject to the Act from the exercise of the Commission's power to investigate and require reports from corporations.
+<b>1973</b>—Pub. L. 93–153 inserted proviso following subsec. (h) that the Commission's investigatory powers to gather and compile information, investigate, and require reports or answers is not curtailed as regardsbanks and common carriers when the investigation in question is an investigation of a corporation, group of corporations, or industry not engaged or engaged only incidentally in banking or in business as a common carrier subject to the Act to regulate commerce notwithstanding provisions excepting banks and common carriers subject to the Act from the exercise of the Commission's power to investigate and require reports from corporations.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -184,7 +184,7 @@ Amendment by Pub. L. 96–252 effective May 28, 1980, see section 23 of Pub. L. 
 
 #### Applicability of 1975 Amendment to Subsection (g) of This Section
 
-For applicability to rules promulgated or proposed under subsec. (g) of this section prior to Jan. 4, 1975, ofamendment made to said subsec. (g) by section 202(b) of Act Jan. 4, 1975, see "Applicability" provisions of section 202(c) of Act Jan. 4, 1975, set out as a note under section 57a of this title.
+For applicability to rules promulgated or proposed under subsec. (g) of this section prior to Jan. 4, 1975, of amendment made to said subsec. (g) by section 202(b) of Act Jan. 4, 1975, see "Applicability" provisions of section 202(c) of Act Jan. 4, 1975, set out as a note under section 57a of this title.
 
 #### Study and Evaluation of Effectiveness of State Policies and Programs Relating to Regulation of Certain Health Insurance Policies
 

@@ -30,11 +30,11 @@ When used in this chapter—
 
 (g) The term "air pollutant" means any air pollution agent or combination of such agents, including any physical, chemical, biological, radioactive (including source material, special nuclear material, and byproduct material) substance or matter which is emitted into or otherwise enters the ambient air. Such term includes any precursors to the formation of any air pollutant, to the extent the Administrator has identified such precursor or precursors for the particular purpose for which the term "air pollutant" is used.
 
-(h) All language referring to effects on welfare includes, but is not limited to, effects on soils,water, crops, vegetation, manmade materials, animals, wildlife, weather, visibility, and climate, damage to and deterioration of property, and hazards to transportation, as well as effects on economic values and on personal comfort and well-being, whether caused by transformation, conversion, or combination with other air pollutants.
+(h) All language referring to effects on welfare includes, but is not limited to, effects on soils, water, crops, vegetation, manmade materials, animals, wildlife, weather, visibility, and climate, damage to and deterioration of property, and hazards to transportation, as well as effects on economic values and on personal comfort and well-being, whether caused by transformation, conversion, or combination with other air pollutants.
 
 (i) The term "Federal land manager" means, with respect to any lands in the United States, the Secretary of the department with authority over such lands.
 
-(j) Except as otherwise expressly provided, the terms "major stationary source" and "major emitting facility" mean any stationary facility or source of air pollutants which directly emits, or has the potential to emit, one hundred tons per year or more of any air pollutant (including any major emitting facility or source of fugitive emissions of any such pollutant, as determined by rule by the Administrator).
+(j) Except as otherwise expressly provided, the terms "major stationary source" and "major emitting facility" mean any stationary facility or source of air pollutants which directly emits, or has the potential to emit, one hundred tonsper year or more of any air pollutant (including any major emitting facility or source of fugitive emissions of any such pollutant, as determined by rule by the Administrator).
 
 (k) The terms "emission limitation" and "emission standard" mean a requirement established by the State or the Administrator which limits the quantity, rate, or concentration of emissions of air pollutants on a continuous basis, including any requirement relating to the operation or maintenance of a source to assure continuous emission reduction, and any design, equipment, work practice or operational standard promulgated under this chapter..<sup>1</sup>
 
@@ -88,7 +88,7 @@ Section was formerly classified to section 1857h of this title.
 
 #### Prior Provisions
 
-Provisions similar to those in subsecs. (b) and (d) of this section were contained in a section 1857e of this title, act July 14, 1955, ch. 360, §6, 69 Stat. 323, prior tothe general amendment of this chapter by Pub. L. 88–206.
+Provisions similar to those in subsecs. (b) and (d) of this section were contained in a section 1857e of this title, act July 14, 1955, ch. 360, §6, 69 Stat. 323, prior to the general amendment of this chapter by Pub. L. 88–206.
 
 #### Amendments
 

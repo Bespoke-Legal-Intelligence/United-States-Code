@@ -32,13 +32,13 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 &emsp;&emsp;(iv) such other matters as the Secretary considers appropriate.
 
-(3)(A) As part of the program required by paragraph (1), the Secretary shall provide to family caregivers of eligible veterans the following assistance:
+(3)(A) As part of the program required by paragraph (1), the Secretary shall provide to familycaregivers of eligible veterans the following assistance:
 
 &emsp;(i) To each family caregiver who is approved as a provider of personal care services for an eligible veteran under paragraph (6)—
 
 &emsp;&emsp;(I) such instruction, preparation, and training as the Secretary considers appropriate for the family caregiver to provide personal care services to the eligible veteran;
 
-&emsp;&emsp;(II) ongoing technical support consisting of information and assistance to address, ina timely manner, the routine, emergency, and specialized caregiving needs of the family caregiver in providing personal care services to the eligible veteran;
+&emsp;&emsp;(II) ongoing technical support consisting of information and assistance to address, in a timely manner, the routine, emergency, and specialized caregiving needs of the family caregiver in providing personal care services to the eligible veteran;
 
 &emsp;&emsp;(III) counseling; and
 
@@ -98,11 +98,11 @@ Program of Comprehensive Assistance for Family Caregivers.—(1)(A) The Secretar
 
 (6)(A) The Secretary shall provide each family member of an eligible veteran who makes a joint application under paragraph (4) the instruction, preparation, and training determined to be required by such family member under paragraph (5)(B).
 
-(B) Upon the successful completion by a family member of an eligible veteran of instruction, preparation, and training under subparagraph (A), the Secretary shall approve the family member as a provider of personal care services for the eligible veteran.
+(B) Upon the successful completion by a family member of an eligible veteran of instruction, preparation, and training under subparagraph\(A), the Secretary shall approve the family member as a provider of personal care services for the eligible veteran.
 
 (C) The Secretary shall, subject to regulations the Secretary shall prescribe, provide for necessary travel, lodging, and per diem expenses incurred by a family member of an eligible veteran in undergoing instruction, preparation, and training under subparagraph (A).
 
-(D) If the participation of a family member of an eligible veteran in instruction, preparation, and training under subparagraph (A) would interfere with the provision of personal careservices to the eligible veteran, the Secretary shall, subject to regulations as the Secretary shall prescribe and in consultation with the veteran, provide respite care to the eligible veteran during the provision of such instruction, preparation, and training to the family member so that the family member can participate in such instruction, preparation, and training without interfering with the provision of such services to the eligible veteran.
+(D) If the participation of a family member of an eligible veteran in instruction, preparation, and training under subparagraph (A) would interfere with the provision of personal care services to the eligible veteran, the Secretary shall, subject to regulations as the Secretary shall prescribe and in consultation with the veteran, provide respite care to the eligible veteran during the provision of such instruction, preparation, and training to the family member so that the family member can participate in such instruction, preparation, and training without interfering with the provision of such services to the eligible veteran.
 
 (7)(A) For each eligible veteran with at least one family member who is described by subparagraph (B), the Secretary shall designate one family member of such eligible veteran as the primary provider of personal care services for such eligible veteran.
 
@@ -356,7 +356,7 @@ Pub. L. 116–214, title II, §202, Dec. 5, 2020, 134 Stat. 1033, provided that:
 
 "(a)
 
-Establishment.—Not later than 270 days after the date of the enactment of this Act \[Dec. 5, 2020\], theSecretary of Veterans Affairs shall establish an education program (in this section referred to as the 'education program') for the education and training of caregivers and family members of eligible veterans with mental health disorders.
+Establishment.—Not later than 270 days after the date of the enactment of this Act \[Dec. 5, 2020\], the Secretary of Veterans Affairs shall establish an education program (in this section referred to as the 'education program') for the education and training of caregivers and family members of eligible veterans with mental health disorders.
 
 "(b)
 

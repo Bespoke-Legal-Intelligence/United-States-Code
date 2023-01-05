@@ -1,6 +1,6 @@
 ### §8464. Hazing: definition; prohibition
 
-(a) In this chapter, the term "hazing" means any unauthorized assumption of authority by amidshipman whereby another midshipman suffers or is exposed to any cruelty, indignity, humiliation, hardship, or oppression, or the deprivation or abridgement of any right.
+(a) In this chapter, the term "hazing" means any unauthorized assumption of authority by a midshipman whereby another midshipman suffers or is exposed to any cruelty, indignity, humiliation, hardship, or oppression, or the deprivation or abridgement of any right.
 
 (b) The Superintendent of the Naval Academy shall prescribe regulations, to be approved by the Secretary of the Navy, to prevent hazing.
 

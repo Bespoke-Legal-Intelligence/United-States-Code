@@ -8,7 +8,7 @@ For purposes of this chapter, a State shall have the primary enforcement respons
 
 &emsp;(2) has adopted and is implementing adequate procedures for the effective enforcement of such State laws and regulations; and
 
-&emsp;(3) will keep such records and make such reports showing compliance with paragraphs (1) and (2) of this subsection as the Secretary may require by regulation.
+&emsp;(3) will keep such records and make such reports showing compliance with paragraphs (1)and (2) of this subsection as the Secretary may require by regulation.
 
 > Except as provided in subsection (c), the Secretary shall not enforce this chapter or the regulations hereunder in any State which has primary enforcement responsibility pursuant to this section.
 

@@ -54,7 +54,7 @@ Use of Funds.—(1) An eligible entity that receives a grant under this section,
 
 &emsp;(C) coordination, Paralympic classification of athletes, athlete assessment, sport-specific training techniques, program development (including programs at the local level), sports equipment, supplies, program evaluation, and other activities related to the implementation and operation of the program.
 
-(4)(A) At the discretion of the Secretary, an eligible entity that receives a grant under this section may use a portion of the grant for the administrative expenses and personnel expenses of the eligible entity. The amount that may be used for such expenses may not exceed—
+(4)(A) At the discretion of the Secretary, an eligible entity that receives a grant under thissection may use a portion of the grant for the administrative expenses and personnel expenses of the eligible entity. The amount that may be used for such expenses may not exceed—
 
 &emsp;(i) in the case of a grant made for adaptive sports opportunities taking place during fiscal year 2014, 10 percent of the total amount of the grant;
 
@@ -78,9 +78,9 @@ Coordination.—The Secretary shall ensure access to and use of appropriate Depa
 
 Authorization of Appropriations.—(1) There is authorized to be appropriated amounts as follows:
 
-&emsp;(A) $8,000,000 for each of fiscal years 2010 through 2020. for each of fiscal years 2010 through 2020.<sup>1</sup>
+&emsp;(A) $8,000,000 for each of fiscal years 2010 through 2020.
 
-&emsp;(B) $16,000,000 for each of fiscal years 2021 and 2022.
+&emsp;(B) $16,000,000 for each of fiscal years 2021 through 2026.
 
 (2) Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
 
@@ -106,13 +106,19 @@ Annual Report to Congress.—For any fiscal year during which the Secretary prov
 
 (l)
 
-Termination.—The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2022.
+Termination.—The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2026.
 
-(Added Pub. L. 110–389, title VII, §702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, §2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662; Pub. L. 114–58, title IV, §405, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §405, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §405, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §165, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title IV, §5403, Oct. 1, 2020, 134 Stat. 751.)
+(Added Pub. L. 110–389, title VII, §702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, §2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662; Pub. L. 114–58, title IV, §405, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §405, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §405, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §165, Sept. 29, 2018, 132 Stat. 3171; Pub. L. 116–159, div. E, title IV, §5403, Oct. 1, 2020, 134 Stat. 751; Pub. L. 117–180, div. E, title IV, §402, Sept. 30, 2022, 136 Stat. 2139.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (g)(1)(A). Pub. L. 117–180, §402(c), struck out ". for each of fiscal years 2010 through 2020" before period at end.
+
+Subsec. (g)(1)(B). Pub. L. 117–180, §402(a), substituted "through 2026" for "and 2022".
+
+Subsec. (l). Pub. L. 117–180, §402(b), substituted "2026" for "2022".
 
 <b>2020</b>—Subsec. (g)(1). Pub. L. 116–159, §5403(a), substituted "appropriated amounts as follows:" for "appropriated $8,000,000", inserted "(A) $8,000,000 for each of fiscal years 2010 through 2020." before "for each of fiscal years 2010 through 2020.", and added subpar. (B).
 
@@ -189,6 +195,4 @@ Pub. L. 110–389, title VII, §703(c), Oct. 10, 2008, 122 Stat. 4185, provided 
 &emsp;"(1) to make available, to the extent determined appropriate by the Secretary, recreational therapists, physical therapists, and other medical staff to facilitate participation of veterans in sporting events conducted under the auspices of the United States Paralympics, Inc.; and
 
 &emsp;"(2) to allow such personnel to provide support to the programs of the United States Paralympics, Inc., without requiring the use of personal leave."
-
-<i><sup>1</sup></i><i> So in original. The words "for each of fiscal years 2010 through 2020." probably should not appear twice.</i>
 

@@ -50,7 +50,7 @@ For purposes of this section:
 
 &emsp;&emsp;The share referred to in subparagraph (A) equals—
 
-&emsp;&emsp;&emsp;(i) 50 percent, if the qualified former spouse was married to the employee throughout the entire period of the employee's service which is creditable under chapter 84 of title 50; <sup>1</sup> or
+&emsp;&emsp;&emsp;(i) 50 percent, if the qualified former spouse was married to the employeethroughout the entire period of the employee's service which is creditable under chapter 84 of title 50; <sup>1</sup> or
 
 &emsp;&emsp;&emsp;(ii) a pro rata share of 50 percent, if the qualified former spouse was not married to the employee throughout such creditable service.
 
@@ -108,7 +108,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) 50 percent of the employee's annuity under subchapter III of chapter 83 of title 5 or under subchapter II of this chapter (computed in accordance with section 302(a) of the Federal Employees' Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service before the effective date of the election to transfer bears to the employee's total creditable service before such effective date; and
 
-&emsp;&emsp;(B) if applicable, 50 percent of the employee's benefits under chapter 84 of title 5 or section 2152(a) of this title (computed in accordance with section 302(a) of the Federal Employees' Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service on and after the effectivedate of the election to transfer bears to the employee's total creditable service after such effective date.
+&emsp;&emsp;(B) if applicable, 50 percent of the employee's benefits under chapter 84 of title 5 or section 2152(a) of this title (computed in accordance with section 302(a) of the Federal Employees' Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service on and after the effective date of the election to transfer bears to the employee's total creditable service after such effective date.
 
 #### (8) Treatment of pro rata share under title 26
 
@@ -120,7 +120,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to an election under section 8416(a) of title 5, and unless otherwise expressly provided by any spousal agreement or court order governing survivor benefits payable under this subsection to a qualified former spouse, such former spouse is entitled to a share, determined under subparagraph (B), of all survivor benefits that would otherwise be payable under subchapter IV of chapter 84 of title 5 to an eligible surviving spouse of the employee.
+&emsp;&emsp;Subject to an election under section 8416(a) of title 5, and unless otherwise expressly provided by any spousal agreement or court order governing survivor benefits payable under this subsection to a qualifiedformer spouse, such former spouse is entitled to a share, determined under subparagraph (B), of all survivor benefits that would otherwise be payable under subchapter IV of chapter 84 of title 5 to an eligible surviving spouse of the employee.
 
 #### (B) Amount of share
 
@@ -168,7 +168,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) the survivor benefits referred to in subsection (d)(2)(A),
 
-> &emsp;&emsp;multiplied by the proportion that the number of days of marriage during the period ofthe employee's creditable service on and after the effective date of the election to transfer bears to the employee's total creditable service after such effective date.
+> &emsp;&emsp;multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service on and after the effective date of the election to transfer bears to the employee's total creditable service after such effective date.
 
 #### (e) Qualified former spouse Thrift Savings Plan benefit
 
@@ -236,7 +236,7 @@ In the case of any employee or retired employee who has a qualified former spous
 
 &emsp;(A) the retirement benefits shall be equal to the amount determined under subsection (c)(7)(A); and
 
-&emsp;(B) the survivor benefits shall be equal to 55 percent of the full amount of the employee's annuity computed in accordance with section302(a) of the Federal Employees' Retirement System Act of 1986 or regulations prescribed under section 2157 of this title.
+&emsp;(B) the survivor benefits shall be equal to 55 percent of the full amount of the employee's annuity computed in accordance with section 302(a) of the Federal Employees' Retirement System Act of 1986 or regulations prescribed under section 2157 of this title.
 
 (3) Benefits provided pursuant to this subsection shall be payable from the Central Intelligence Agency Retirement and Disability Fund.
 

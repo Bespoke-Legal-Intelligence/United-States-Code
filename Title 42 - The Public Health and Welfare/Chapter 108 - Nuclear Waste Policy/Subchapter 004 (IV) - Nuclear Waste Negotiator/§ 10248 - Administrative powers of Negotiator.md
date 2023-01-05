@@ -20,19 +20,19 @@ In carrying out his functions under this subchapter, the Negotiator may—
 
 &emsp;(9) hold such hearings as are necessary to determine the views of interested parties and the general public; and
 
-&emsp;(10) appoint advisory committees under the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;(10) appoint advisory committees under chapter 10 of title 5.
 
-(Pub. L. 97–425, title IV, §408, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5041, Dec. 22, 1987, 101 Stat. 1330–247.)
+(Pub. L. 97–425, title IV, §408, as added Pub. L. 100–202, §101(d) \[title III\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5041, Dec. 22, 1987, 101 Stat. 1330–247; amended Pub. L. 117–286, §4(a)(273), Dec. 27, 2022, 136 Stat. 4336.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in par. (10), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
+
+#### Amendments
+
+<b>2022</b>—Par. (10). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

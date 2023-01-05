@@ -10,7 +10,7 @@ In the case of 2 or more related persons (within the meaning of section 482) who
 
 &emsp;(3) make any other adjustment,
 
-> if he determines that such allocation, recharacterization, or adjustment is necessary to reflect the proper amount, source, or character of the taxable income (or any item described in paragraph (1) relating to such taxable income) of each such person.
+> if he determines that such allocation, recharacterization, or adjustment is necessary toreflect the proper amount, source, or character of the taxable income (or any item described in paragraph (1) relating to such taxable income) of each such person.
 
 #### (b) Reinsurance contract having significant tax avoidance effect
 

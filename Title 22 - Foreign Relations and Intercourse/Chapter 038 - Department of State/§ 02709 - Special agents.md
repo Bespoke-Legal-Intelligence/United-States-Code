@@ -64,7 +64,7 @@ A prior section 37 of act Aug. 1, 1956, was renumbered section 38 by section 125
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(1). Pub. L. 114–323 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "conduct investigations concerning illegal passport or visa issuance or use;".
+<b>2016</b>—Subsec. (a)(1). Pub. L. 114–323 amended par. (1) generally. Prior to amendment, par. (1) read as follows:"conduct investigations concerning illegal passport or visa issuance or use;".
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–177 substituted "section 3056 or 3056A of title 18" for "section 202 of title 3 or section 3056 of title 18".
 

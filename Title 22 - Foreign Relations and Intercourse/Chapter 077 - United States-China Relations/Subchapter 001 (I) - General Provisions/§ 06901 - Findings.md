@@ -258,7 +258,7 @@ Additional Matters To Be Included.—The Secretary shall include in the report r
 
 &emsp;&emsp;"(B) the Elie Wiesel Genocide and Atrocities Prevention Act of 2018 (Public Law 115–441; 22 U.S.C. 2656 note) \[see Short Title of 2019 Amendment note set out under section 2651 of this title\]; and
 
-&emsp;&emsp;"(C) the Global Magnitsky Human Rights Accountability Act \[Pub. L. 114–328, div. A, title XII, subtitle F\] (22 U.S.C. 2656 note).
+&emsp;&emsp;"(C) the Global Magnitsky Human Rights Accountability Act \[Pub. L. 114–328, div. A, title XII, subtitle F\] (\[former\] 22 U.S.C. 2656 note \[now 22 U.S.C. 10101 et seq.\]).
 
 "(d)
 
@@ -348,7 +348,7 @@ Report Required.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of the enactment of this Act \[June 17, 2020\], and not less frequently than annually thereafter, thePresident shall submit a report to the Committee on Foreign Relations of the Senate, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Financial Services of the House of Representatives that identifies each foreign person, including any official of the Government of the People's Republic of China, that the President determines is responsible for any of the following with respect to Uyghurs, ethnic Kazakhs, Kyrgyz, members of other Muslim minority groups, or other persons in Xinjiang Uyghur Autonomous Region:
+In general.—Not later than 180 days after the date of the enactment of this Act \[June 17, 2020\], and not less frequently than annually thereafter, the President shall submit a report to the Committee on Foreign Relations of the Senate, the Committee on Banking, Housing, and Urban Affairs of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Financial Services of the House of Representatives that identifies each foreign person, including any official of the Government of the People's Republic of China, that the President determines is responsible for any of the following with respect to Uyghurs, ethnic Kazakhs, Kyrgyz, members of other Muslim minority groups, or other persons in Xinjiang Uyghur Autonomous Region:
 
 &emsp;&emsp;"(A) Torture.
 
@@ -560,7 +560,7 @@ Statement of Policy.—It is the policy of the United States that—
 
 &emsp;"(1) decisions regarding the selection, education, and veneration of Tibetan Buddhist religious leaders are exclusively spiritual matters that should be made by the appropriate religious authorities within the Tibetan Buddhist tradition and in the context of the will of practitioners of Tibetan Buddhism;
 
-&emsp;"(2) the wishes of the 14th Dalai Lama, including any written instructions, should play a key role inthe selection, education, and veneration of a future 15th Dalai Lama; and
+&emsp;"(2) the wishes of the 14th Dalai Lama, including any written instructions, should play a key role in the selection, education, and veneration of a future 15th Dalai Lama; and
 
 &emsp;"(3) interference by the Government of the People's Republic of China or any other government in the process of recognizing a successor or reincarnation of the 14th Dalai Lama and any future Dalai Lamas would represent a clear abuse of the right to religious freedom of Tibetan Buddhists and the Tibetan people.
 
@@ -568,7 +568,7 @@ Statement of Policy.—It is the policy of the United States that—
 
 Holding Chinese Officials Responsible for Religious Freedom Abuses Targeting Tibetan Buddhists.—It is the policy of the United States to take all appropriate measures to hold accountable senior officials of the Government of the People's Republic of China or the Chinese Communist Party who directly interfere with the identification and installation of the future 15th Dalai Lama of Tibetan Buddhism, successor to the 14th Dalai Lama, including by—
 
-&emsp;"(1) imposing sanctions pursuant to the Global Magnitsky Human Rights Accountability Act \[subtitle F of title XII of div. A of Pub. L. 114–328\] (22 U.S.C. 2656 note); and
+&emsp;"(1) imposing sanctions pursuant to the Global Magnitsky Human Rights Accountability Act \[subtitle F of title XII of div. A of Pub. L. 114–328\] (\[former\] 22 U.S.C. 2656 note \[now 22 U.S.C. 10101 et seq.\]); and
 
 &emsp;"(2) prohibiting admission to the United States under section 212(a)(2)(G) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)(G)).
 
@@ -714,7 +714,7 @@ Waiver.—The Secretary may waive the requirement under subsection (b), notwiths
 
 #### "SEC. 619. REQUIREMENT FOR TIBETAN LANGUAGE TRAINING.
 
-"The Secretary shall ensure that Tibetan language training is available to Foreign Service officers, and that every effort is made to ensure that a Tibetan-speaking Foreign Service officer is assigned to a United States post in the People's Republic of China responsible for monitoring developments in Tibet.
+"The Secretary shall ensure that Tibetan language training is available to Foreign Service officers, and that every effort is made to ensure that a Tibetan-speaking Foreign Service officer is assigned to a UnitedStates post in the People's Republic of China responsible for monitoring developments in Tibet.
 
 #### "SEC. 620. RELIGIOUS PERSECUTION IN TIBET.
 
@@ -866,7 +866,7 @@ Exception.—If, in carrying out this subsection, the President determines that 
 
 "(a)
 
-In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2000\], and not later than March 31 of each of the years 2001, 2002,and 2003, the Secretary of State shall transmit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on conditions in Macau of interest to the United States. The report shall describe—
+In General.—Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2000\], and not later than March 31 of each of the years 2001, 2002, and 2003, the Secretary of State shall transmit to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report on conditions in Macau of interest to the United States. The report shall describe—
 
 &emsp;"(1) significant developments in United States relations with Macau, including any determination made under section 203;
 

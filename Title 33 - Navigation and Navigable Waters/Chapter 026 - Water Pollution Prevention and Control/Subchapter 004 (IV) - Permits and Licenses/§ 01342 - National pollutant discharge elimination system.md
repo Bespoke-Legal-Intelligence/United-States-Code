@@ -2,7 +2,7 @@
 
 #### (a) Permits for discharge of pollutants
 
-(1) Except as provided in sections 1328 and 1344 of this title, the Administrator may, after opportunity for public hearing issue a permit for the discharge of any pollutant, or combination of pollutants, notwithstanding section 1311(a) of this title, upon condition that such discharge will meet either (A) all applicable requirements under sections 1311, 1312, 1316, 1317, 1318, and 1343of this title, or (B) prior to the taking of necessary implementing actions relating to all such requirements, such conditions as the Administrator determines are necessary to carry out the provisions of this chapter.
+(1) Except as provided in sections 1328 and 1344 of this title, the Administrator may, after opportunity for public hearing issue a permit for the discharge of any pollutant, or combination of pollutants, notwithstanding section 1311(a) of this title, upon condition that such discharge will meet either (A) all applicable requirements under sections 1311, 1312, 1316, 1317, 1318, and 1343 of this title, or (B) prior to the taking of necessary implementing actions relating to all such requirements, such conditions as the Administrator determines are necessary to carry out the provisions of this chapter.
 
 (2) The Administrator shall prescribe conditions for such permits to assure compliance with the requirements of paragraph (1) of this subsection, including conditions on data and information collection, reporting, and such other requirements as he deems appropriate.
 
@@ -46,7 +46,7 @@ At any time after the promulgation of the guidelines required by subsection (i)(
 
 (7) To abate violations of the permit or the permit program, including civil and criminal penalties and other ways and means of enforcement;
 
-(8) To insure that any permit for a discharge from a publicly owned treatment works includes conditions to require the identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under section 1317(b) of this title into such works and a program to assure compliance with such pretreatment standards by each such source, in addition to adequate notice to the permitting agency of (A)new introductions into such works of pollutants from any source which would be a new source as defined in section 1316 of this title if such source were discharging pollutants, (B) new introductions of pollutants into such works from a source which would be subject to section 1311 of this title if it were discharging such pollutants, or (C) a substantial change in volume or character of pollutants being introduced into such works by a source introducing pollutants into such works at the time of issuance of the permit. Such notice shall include information on the quality and quantity of effluent to be introduced into such treatment works and any anticipated impact of such change in the quantity or quality of effluent to be discharged from such publicly owned treatment works; and
+(8) To insure that any permit for a discharge from a publicly owned treatment works includes conditions to require the identification in terms of character and volume of pollutants of any significant source introducing pollutants subject to pretreatment standards under section 1317(b) of this title into such works and a program to assure compliance with such pretreatment standards by each such source, in addition to adequate notice to the permitting agency of (A) new introductions into such works of pollutants from any source which would be a new source as defined in section 1316 of this title if such source were discharging pollutants, (B) new introductions of pollutants into such works from a source which would be subject to section 1311 of this title if it were discharging such pollutants, or (C) a substantial change in volume or character of pollutants being introduced into such works by a source introducing pollutants into such works at the time of issuance of the permit. Such notice shall include information on the quality and quantity of effluent to be introduced into such treatment works and any anticipated impact of such change in the quantity or quality of effluent to be discharged from such publicly owned treatment works; and
 
 (9) To insure that any industrial user of any publicly owned treatment works will comply with sections 1284(b), 1317, and 1318 of this title.
 
@@ -102,7 +102,7 @@ A copy of each permit application and each permit issued under this section shal
 
 #### (k) Compliance with permits
 
-Compliance with a permit issued pursuant to this section shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1312, 1316, 1317, and 1343 of this title, except any standard imposed under section 1317 of this title for a toxic pollutant injurious to human health. Until December 31, 1974, in any case where a permit for discharge has been applied for pursuant to this section, but final administrative disposition of such application has not been made, such discharge shall not be a violation of (1) section 1311, 1316, or 1342 of this title, or (2) section 407 of this title, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. For the 180-day period beginning on October 18, 1972, in the case of any point source discharging any pollutant or combination of pollutants immediately prior to such date which source is not subject to section 407 of this title, the discharge by such source shall not be a violation of this chapter if such a source applies for a permit for discharge pursuant to this section within such 180-day period.
+Compliance with a permit issued pursuant to this section shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1312, 1316, 1317, and 1343 of this title, except any standard imposed under section1317 of this title for a toxic pollutant injurious to human health. Until December 31, 1974, in any case where a permit for discharge has been applied for pursuant to this section, but final administrative disposition of such application has not been made, such discharge shall not be a violation of (1) section 1311, 1316, or 1342 of this title, or (2) section 407 of this title, unless the Administrator or other plaintiff proves that final administrative disposition of such application has not been made because of the failure of the applicant to furnish information reasonably required or requested in order to process the application. For the 180-day period beginning on October 18, 1972, in the case of any point source discharging any pollutant or combination of pollutants immediately prior to such date which source is not subject to section 407 of this title, the discharge by such source shall not be a violation of this chapter if such a source applies for a permit for discharge pursuant to this section within such 180-day period.
 
 #### (l) Limitation on permit requirement
 
@@ -128,7 +128,7 @@ Other requirements.—Nothing in this paragraph exempts a discharge from silvicu
 
 #### (m) Additional pretreatment of conventional pollutants not required
 
-To the extent a treatment works (as defined in section 1292 of this title) which is publicly owned is not meeting the requirements of a permit issued under this section for such treatment works as a result of inadequate design or operation of such treatment works, the Administrator, in issuing a permit under this section, shall not require pretreatment by a person introducing conventional pollutants identified pursuant to section 1314(a)(4) of this title into such treatment works other than pretreatment required to assure compliance with pretreatment standards under subsection (b)(8) of this section and section 1317(b)(1) of this title. Nothing in this subsection shall affect the Administrator's authority under sections 1317 and1319 of this title, affect State and local authority under sections 1317(b)(4) and 1370 of this title, relieve such treatment works of its obligations to meet requirements established under this chapter, or otherwise preclude such works from pursuing whatever feasible options are available to meet its responsibility to comply with its permit under this section.
+To the extent a treatment works (as defined in section 1292 of this title) which is publicly owned is not meeting the requirements of a permit issued under this section for such treatment works as a result of inadequate design or operation of such treatment works, the Administrator, in issuing a permit under this section, shall not require pretreatment by a person introducing conventional pollutants identified pursuant to section 1314(a)(4) of this title into such treatment works other than pretreatment required to assure compliance with pretreatment standards under subsection (b)(8) of this section and section 1317(b)(1) of this title. Nothing in this subsection shall affect the Administrator's authority under sections 1317 and 1319 of this title, affect State and local authority under sections 1317(b)(4) and 1370 of this title, relieve such treatment works of its obligations to meet requirements established under this chapter, or otherwise preclude such works from pursuing whatever feasible options are available to meet its responsibility to comply with its permit under this section.
 
 #### (n) Partial permit program
 
@@ -182,7 +182,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (3) Limitations
 
-&emsp;In no event may a permit with respect to which paragraph (1) applies be renewed, reissued, or modified to contain an effluent limitation which is less stringent than required by effluent guidelines in effect at the time thepermit is renewed, reissued, or modified. In no event may such a permit to discharge into waters be renewed, reissued, or modified to contain a less stringent effluent limitation if the implementation of such limitation would result in a violation of a water quality standard under section 1313 of this title applicable to such waters.
+&emsp;In no event may a permit with respect to which paragraph (1) applies be renewed, reissued, or modified to contain an effluent limitation which is less stringent than required by effluent guidelines in effect at the time the permit is renewed, reissued, or modified. In no event may such a permit to discharge into waters be renewed, reissued, or modified to contain a less stringent effluent limitation if the implementation of such limitation would result in a violation of a water quality standard under section 1313 of this title applicable to such waters.
 
 #### (p) Municipal and industrial stormwater discharges
 
@@ -208,7 +208,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (A) Industrial discharges
 
-&emsp;&emsp;Permits for discharges associated with industrial activity shall meet all applicable provisions of this section and section 1311 of this title.
+&emsp;&emsp;Permits for discharges associated with industrial activity shall meet all applicableprovisions of this section and section 1311 of this title.
 
 #### (B) Municipal discharge
 
@@ -250,7 +250,7 @@ To the extent a treatment works (as defined in section 1292 of this title) which
 
 #### (1) Requirement for permits, orders, and decrees
 
-&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, fora discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed by the Administrator on April 11, 1994 (in this subsection referred to as the "CSO control policy").
+&emsp;Each permit, order, or decree issued pursuant to this chapter after December 21, 2000, for a discharge from a municipal combined storm and sanitary sewer shall conform to the Combined Sewer Overflow Control Policy signed by the Administrator on April 11, 1994 (in this subsection referred to as the "CSO control policy").
 
 #### (2) Water quality and designated use review guidance
 
@@ -334,7 +334,7 @@ No permit shall be required under this chapter by the Administrator (or a State,
 
 #### (B) Transition rule
 
-&emsp;&emsp;In any case in which a discharge is subject to a judicial order or consent decree, as of January 14, 2019, resolving an enforcementaction under this chapter, any schedule of compliance issued pursuant to an authorization in a State water quality standard may not revise a schedule of compliance in that order or decree to be less stringent, unless the order or decree is modified by agreement of the parties and the court.
+&emsp;&emsp;In any case in which a discharge is subject to a judicial order or consent decree, as of January 14, 2019, resolving an enforcement action under this chapter, any schedule of compliance issued pursuant to an authorization in a State water quality standard may not revise a schedule of compliance in that order or decree to be less stringent, unless the order or decree is modified by agreement of the parties and the court.
 
 (June 30, 1948, ch. 758, title IV, §402, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 880; amended Pub. L. 95–217, §§33(c), 50, 54(c)(1), 65, 66, Dec. 27, 1977, 91 Stat. 1577, 1588, 1591, 1599, 1600; Pub. L. 100–4, title IV, §§401–404(a), 404(c), formerly 404(d), 405, Feb. 4, 1987, 101 Stat. 65–67, 69, renumbered §404(c), Pub. L. 104–66, title II, §2021(e)(2), Dec. 21, 1995, 109 Stat. 727; Pub. L. 102–580, title III, §364, Oct. 31, 1992, 106 Stat. 4862; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–224; Pub. L. 110–288, §2, July 29, 2008, 122 Stat. 2650; Pub. L. 113–79, title XII, §12313, Feb. 7, 2014, 128 Stat. 992; Pub. L. 115–436, §3(a), Jan. 14, 2019, 132 Stat. 5558.)
 
@@ -422,7 +422,7 @@ Population.—The Administrator shall not require any municipality with a popula
 
 "(d)
 
-Uncontrolled Sanitary Landfill Defined.—For the purposes of this section, the term 'uncontrolled sanitary landfill' means a landfill or open dump, whether in operation or closed, that does not meet therequirements for run-on and run-off controls established pursuant to subtitle D of the Solid Waste Disposal Act \[42 U.S.C. 6941 et seq.\].
+Uncontrolled Sanitary Landfill Defined.—For the purposes of this section, the term 'uncontrolled sanitary landfill' means a landfill or open dump, whether in operation or closed, that does not meet the requirements for run-on and run-off controls established pursuant to subtitle D of the Solid Waste Disposal Act \[42 U.S.C. 6941 et seq.\].
 
 "(e)
 

@@ -106,7 +106,7 @@ Subsec. (d). Pub. L. 107–314, §632(a)(1), redesignated subsec. (c) as (d).
 
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–91, div. A, title VI, §623(b), Dec. 12, 2017, 131 Stat. 1429, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effecton January 1, 2018, immediately after the coming into effect of the amendment made by section 631(b) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 843) \[amending this section\], to which the amendment made by subsection (a) relates."
+Pub. L. 115–91, div. A, title VI, §623(b), Dec. 12, 2017, 131 Stat. 1429, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2018, immediately after the coming into effect of the amendment made by section 631(b) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 843) \[amending this section\], to which the amendment made by subsection (a) relates."
 
 #### Effective Date of 2015 Amendment; Implementation
 

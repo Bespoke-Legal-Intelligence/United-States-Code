@@ -14,7 +14,7 @@ Support to Other Agencies.—The Secretary of Defense may provide support for th
 
 (b)
 
-Types of Support for Agencies of United States.—The purposes for which the Secretarymay provide support under subsection (a) for other departments or agencies of the Federal Government or a State, local, or tribal law enforcement agencies, are the following:
+Types of Support for Agencies of United States.—The purposes for which the Secretary may provide support under subsection (a) for other departments or agencies of the Federal Government or a State, local, or tribal law enforcement agencies, are the following:
 
 &emsp;(1) The maintenance and repair of equipment that has been made available to any department or agency of the Federal Government or to any State, local, or tribal government by the Department of Defense for the purposes of—
 
@@ -40,7 +40,7 @@ Types of Support for Agencies of United States.—The purposes for which the Sec
 
 &emsp;&emsp;(B) surface traffic outside the geographic boundary of the United States and within the United States not to exceed 25 miles of the boundary if the initial detection occurred outside of the boundary.
 
-&emsp;(7) Construction of roads and fences and installation of lighting to block drug smuggling corridors across international boundaries of the United States.
+&emsp;(7) Construction of roads and fences and installation of lighting to block drug smugglingcorridors across international boundaries of the United States.
 
 &emsp;(8) Establishment of command, control, communications, and computer networks for improved integration of law enforcement, active military, and National Guard activities.
 
@@ -186,7 +186,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term "tribal law enforcement agency" means the law enforcement agency of a tribal government.
 
-&emsp;(6) The term "transnational organized crime" means self-perpetuating associationsof individuals who operate transnationally for the purpose of obtaining power, influence, monetary, or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organization structure and the exploitation of transnational commerce or communication mechanisms.
+&emsp;(6) The term "transnational organized crime" means self-perpetuating associations of individuals who operate transnationally for the purpose of obtaining power, influence, monetary, or commercial gains, wholly or in part by illegal means, while protecting their activities through a pattern of corruption or violence or through a transnational organization structure and the exploitation of transnational commerce or communication mechanisms.
 
 (Added §384 and renumbered §284, Pub. L. 114–328, div. A, title X, §1011(a)(1), title XII, §1241(a)(2), Dec. 23, 2016, 130 Stat. 2381, 2497; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(14), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title X, §1011, Jan. 1, 2021, 134 Stat. 3839.)
 

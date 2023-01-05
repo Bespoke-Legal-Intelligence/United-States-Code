@@ -2,7 +2,7 @@
 
 #### (a) Reporting mine safety information
 
-Each issuer that is required to file reports pursuant to section 13(a) or 15(d) of the SecuritiesExchange Act of 1934 \[15 U.S.C. 78m(a), 78o(d)\] and that is an operator, or that has a subsidiary that is an operator, of a coal or other mine shall include, in each periodic report filed with the Commission under the securities laws on or after July 21, 2010, the following information for the time period covered by such report:
+Each issuer that is required to file reports pursuant to section 13(a) or 15(d) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(a), 78o(d)\] and that is an operator, or that has a subsidiary that is an operator, of a coal or other mine shall include, in each periodic report filed with the Commission under the securities laws on or after July 21, 2010, the following information for the time period covered by such report:
 
 &emsp;(1) For each coal or other mine of which the issuer or a subsidiary of the issuer is an operator—
 
@@ -80,7 +80,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (d)(1), is act June 
 
 #### Codification
 
-Section was enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and notas part of the Securities Exchange Act of 1934 which comprises this chapter.
+Section was enacted as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

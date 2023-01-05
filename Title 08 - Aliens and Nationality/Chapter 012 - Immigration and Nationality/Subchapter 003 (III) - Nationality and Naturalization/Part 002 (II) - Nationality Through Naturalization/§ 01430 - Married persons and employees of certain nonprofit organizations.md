@@ -16,7 +16,7 @@
 
 (2) Notwithstanding any other provision of law, a spouse described in paragraph (1) shall be eligible for naturalization proceedings overseas pursuant to section 1443a of this title.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §319, 66 Stat. 244; Pub. L. 85–697, §2, Aug. 20, 1958, 72Stat. 687; Pub. L. 90–215, §1(a), Dec. 18, 1967, 81 Stat. 661; Pub. L. 90–369, June 29, 1968, 82 Stat. 279; Pub. L. 101–649, title IV, §407(b)(1), (c)(5), (d)(4), Nov. 29, 1990, 104 Stat. 5040, 5041; Pub. L. 106–386, div. B, title V, §1503(e), Oct. 28, 2000, 114 Stat. 1522; Pub. L. 108–136, div. A, title XVII, §1703(f)(1), (h), Nov. 24, 2003, 117 Stat. 1695, 1696; Pub. L. 110–181, div. A, title VI, §674(a), Jan. 28, 2008, 122 Stat. 185.)
+(June 27, 1952, ch. 477, title III, ch. 2, §319, 66 Stat. 244; Pub. L. 85–697, §2, Aug. 20, 1958, 72 Stat. 687; Pub. L. 90–215, §1(a), Dec. 18, 1967, 81 Stat. 661; Pub. L. 90–369, June 29, 1968, 82 Stat. 279; Pub. L. 101–649, title IV, §407(b)(1), (c)(5), (d)(4), Nov. 29, 1990, 104 Stat. 5040, 5041; Pub. L. 106–386, div. B, title V, §1503(e), Oct. 28, 2000, 114 Stat. 1522; Pub. L. 108–136, div. A, title XVII, §1703(f)(1), (h), Nov. 24, 2003, 117 Stat. 1695, 1696; Pub. L. 110–181, div. A, title VI, §674(a), Jan. 28, 2008, 122 Stat. 185.)
 
 #### <b>Editorial Notes</b>
 

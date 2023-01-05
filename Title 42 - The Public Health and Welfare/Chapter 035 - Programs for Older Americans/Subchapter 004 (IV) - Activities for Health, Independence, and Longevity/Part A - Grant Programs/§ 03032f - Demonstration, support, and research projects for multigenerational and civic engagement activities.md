@@ -52,7 +52,7 @@ In awarding grants and entering into contracts to carry out a project described 
 
 &emsp;(3) eligible organizations proposing civic engagement projects that will serve communities with the greatest need;
 
-&emsp;(4) eligible organizations with the capacity to develop meaningful roles and assignments that use the time, skills, and experience of older individuals to serve public and nonprofit organizations; and
+&emsp;(4) eligible organizations with the capacity to develop meaningful roles and assignments that use the time, skills, and experience ofolder individuals to serve public and nonprofit organizations; and
 
 &emsp;(5) eligible organizations proposing multigenerational activity projects that utilize shared site programs, such as collocated child care and long-term care facilities.
 
@@ -148,7 +148,7 @@ Pub. L. 116–131, §306(2), struck out subsec. (g) which related to report to C
 
 Subsec. (h)(2)(B)(i). Pub. L. 116–131, §306(8), substituted "older individuals" for "individuals from the generations with older individuals".
 
-<b>2016</b>—Subsec. (a)(1)(A). Pub. L. 114–144 substituted "older relative caregivers (as defined in section 3030s of this title)" for "grandparents and other older individuals who are relative caregivers".
+<b>2016</b>—Subsec. (a)(1)(A). Pub. L. 114–144 substituted "older relative caregivers (as defined in section 3030s ofthis title)" for "grandparents and other older individuals who are relative caregivers".
 
 <b>2006</b>—Pub. L. 109–365 amended section generally, substituting provisions relating to demonstration, support, and research projects for multigenerational and civic engagement activities for provisions relating to demonstration projects for multigenerational activities.
 

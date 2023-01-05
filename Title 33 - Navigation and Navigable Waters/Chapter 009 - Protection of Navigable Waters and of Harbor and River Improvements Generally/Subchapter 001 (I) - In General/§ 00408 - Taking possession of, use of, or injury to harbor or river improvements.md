@@ -34,7 +34,7 @@ It shall not be lawful for any person or persons to take possession of or make u
 
 #### (3) Contributed funds
 
-&emsp;The Secretary may accept and expend funds received from non-Federal public or private entities to evaluate under this section an alteration or permanent occupation or use of a work built by the United States.
+&emsp;The Secretary may accept and expend funds received from non-Federal public or privateentities to evaluate under this section an alteration or permanent occupation or use of a work built by the United States.
 
 #### (c) Timely review
 

@@ -12,7 +12,7 @@ Establishment of Centers.—(1) Not later than 120 days after the date of the en
 
 (b)
 
-Designation of Facilities.—(1) In designating locations for epilepsy centers of excellence under subsection (a), the Secretary shall solicit proposals from Department health care facilities seeking designation as a location for an epilepsy center of excellence.
+Designation of Facilities.—(1) In designating locations for epilepsy centers of excellence under subsection (a), the Secretary shall solicit proposals from Department health carefacilities seeking designation as a location for an epilepsy center of excellence.
 
 (2) The Secretary may not designate a facility as a location for an epilepsy center of excellence under subsection (a) unless the peer review panel established under subsection (c) has determined under that subsection that the proposal submitted by such facility seeking designation as a location for an epilepsy center of excellence is among those proposals that meet the highest competitive standards of scientific and clinical merit.
 
@@ -32,7 +32,7 @@ Peer Review Panel.—(1) The Under Secretary for Health shall establish a peer r
 
 (4) The peer review panel shall, in conjunction with the national coordinator designated under subsection (e), conduct regular evaluations of each epilepsy center of excellence established and operated under subsection (a) to ensure compliance with the requirements of this section.
 
-(5) The peer review panel shall not be subject to the Federal Advisory Committee Act.
+(5) The peer review panel shall not be subject to chapter 10 of title 5.
 
 (d)
 
@@ -72,7 +72,7 @@ National Coordinator for Epilepsy Programs.—(1) To assist the Secretary and th
 
 (f)
 
-Authorization of Appropriations.—(1) There are authorized to be appropriated $6,000,000 for each of fiscal years 2009 through 2013 for the support of the clinical care, research, and education activities of the epilepsy centers of excellence established and operated pursuant to subsection (a)(2).
+Authorization of Appropriations.—(1) There are authorized to be appropriated $6,000,000 for each of fiscal years 2009 through2013 for the support of the clinical care, research, and education activities of the epilepsy centers of excellence established and operated pursuant to subsection (a)(2).
 
 (2) There are authorized to be appropriated for each fiscal year after fiscal year 2013 such sums as may be necessary for the support of the clinical care, research, and education activities of the epilepsy centers of excellence established and operated pursuant to subsection (a)(2).
 
@@ -82,7 +82,7 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated $
 
 (5) In addition to amounts authorized to be appropriated under paragraphs (1) and (2) for a fiscal year, there are authorized to be appropriated such sums as may be necessary to fund the national coordinator established by subsection (e).
 
-(Added Pub. L. 110–387, title IV, §404(a), Oct. 10, 2008, 122 Stat. 4126.)
+(Added Pub. L. 110–387, title IV, §404(a), Oct. 10, 2008, 122 Stat. 4126; amended Pub. L. 117–286, §4(a)(225), Dec. 27, 2022, 136 Stat. 4330.)
 
 #### <b>Editorial Notes</b>
 
@@ -90,5 +90,7 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated $
 
 The date of the enactment of the Veterans' Mental Health and Other Care Improvements Act of 2008, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 110–387, which was approved Oct. 10, 2008.
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+
+<b>2022</b>—Subsec. (c)(5). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act."
 

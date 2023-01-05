@@ -8,7 +8,7 @@ The Secretary of <sup>1</sup> Interior is authorized and directed to establish 
 
 The center shall—
 
-&emsp;(1) provide for studies and technology development in the areas of mineral extraction and refining processes, product substitution and conservation of mineral resources through recycling and advanced processing and fabrication methods;
+&emsp;(1) provide for studies and technology development in the areas of mineral extraction andrefining processes, product substitution and conservation of mineral resources through recycling and advanced processing and fabrication methods;
 
 &emsp;(2) identify new deposits of strategic and critical mineral resources; and
 

@@ -34,7 +34,7 @@ The Commission is authorized to—
 
 (B) Not later than December 1, 2011, and December 1 of each fifth calendar year thereafter, the Commission shall prescribe and publish in the Federal Register a schedule of maximum authorized penalties that shall apply for violations that occur after January 1 of the year immediately following such publication.
 
-(C) The schedule of maximum authorized penalties shall be prescribed by increasing each of the amounts referred to in paragraph (1) by the cost-of-living adjustment for the preceding five years. Any increase determined under the preceding sentence shall be rounded to—
+(C) The schedule of maximum authorized penalties shall be prescribed by increasing each of the amounts referred to in paragraph (1) by thecost-of-living adjustment for the preceding five years. Any increase determined under the preceding sentence shall be rounded to—
 
 &emsp;(i) in the case of penalties greater than $1,000 but less than or equal to $10,000, the nearest multiple of $1,000;
 
@@ -60,7 +60,7 @@ The Commission is authorized to—
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsecs. (a), (b), and (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a), (b), and (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
 #### Amendments
 

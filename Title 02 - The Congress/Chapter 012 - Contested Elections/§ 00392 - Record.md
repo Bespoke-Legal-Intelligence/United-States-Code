@@ -26,7 +26,7 @@ Within ten days after service of contestee's brief and appendix, contestant may 
 
 #### (g) Form of briefs; number of copies served and filed
 
-The form and length of the briefs, the form of the appendixes, and the number of copies to be served and filed shall be in accordance with such rules as the committee may prescribe.
+The form and length of the briefs, the form of the appendixes, and the number of copies to beserved and filed shall be in accordance with such rules as the committee may prescribe.
 
 (Pub. L. 91–138, §13, Dec. 5, 1969, 83 Stat. 289.)
 

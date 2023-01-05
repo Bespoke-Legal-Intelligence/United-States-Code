@@ -4,7 +4,7 @@
 
 (1) There is established within the executive branch of the United States a board to be known as the "Public Interest Declassification Board" (in this subchapter referred to as the "Board").
 
-(2) The Board shall report directly to the President or, upon designation by the President, the Vice President, the Attorney General, or other designee of the President. The other designee of the President under this paragraph may not be an agency head or official authorized to classify information under Executive Order 12958 <sup>1</sup>, or any successor order.
+(2) The Board shall report directly to the President or, upon designation by the President, the Vice President, the Attorney General, or other designee of the President. The other designee of the President under this paragraph may not be an agency head or official authorized to classify information under Executive Order 13526, or any successor order.
 
 #### (b) Purposes
 
@@ -80,7 +80,7 @@ Any employee of the Federal Government may be detailed to the Board, with the ag
 
 #### (g) Security
 
-(1) The members and staff of the Board shall, as a condition of appointment to or employment with the Board, hold appropriate security clearances for access to the classified records and materials to be reviewed by the Board or itsstaff, and shall follow the guidance and practices on security under applicable Executive orders and Presidential or agency directives.
+(1) The members and staff of the Board shall, as a condition of appointment to or employment with the Board, hold appropriate security clearances for access to the classified records and materials to be reviewed by the Board or its staff, and shall follow the guidance and practices on security under applicable Executive orders and Presidential or agency directives.
 
 (2) The head of an agency shall, as a condition of granting access to a member of the Board, the Executive Secretary of the Board, or a member of the staff of the Board to classified records or materials of the agency under this subchapter, require the member, the Executive Secretary, or the member of the staff, as the case may be, to—
 
@@ -88,7 +88,7 @@ Any employee of the Federal Government may be detailed to the Board, with the ag
 
 &emsp;(B) hold an appropriate security clearance granted or recognized under the standard procedures and eligibility criteria of the agency, including any special access approval required for access to such records or materials.
 
-(3) The members of the Board, the Executive Secretary of the Board, and the members of the staff of the Board may not use any information acquired in the course of their official activities on the Board for nonofficial purposes.
+(3) The members of the Board, the Executive Secretary of the Board, and the members of the staff of the Board may not use any informationacquired in the course of their official activities on the Board for nonofficial purposes.
 
 (4) For purposes of any law or regulation governing access to classified information that pertains to the national security of the United States, and subject to any limitations on access arising under section 3355d(b) of this title, and to facilitate the advisory functions of the Board under this subchapter, a member of the Board seeking access to a record or material under this subchapter shall be deemed for purposes of this subsection to have a need to know the contents of the record or material.
 
@@ -116,17 +116,15 @@ The Information Security Oversight Office may support the activities of the Boar
 
 #### (l) Applicability of certain administrative laws
 
-The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Board under this subchapter. However, the records of the Board shall be governed by the provisions of the Federal Records Act of 1950.
+The provisions of chapter 10 of title 5 shall not apply to the activities of the Board under this subchapter. However, the records of the Board shall be governed by the provisions of the Federal Records Act of 1950.
 
-(Pub. L. 106–567, title VII, §703, Dec. 27, 2000, 114 Stat. 2856; Pub. L. 108–458, title I, §1102(a), (b), Dec. 17, 2004, 118 Stat. 3699; Pub. L. 111–259, title III, §365, Oct. 7, 2010, 124 Stat. 2702; Pub. L. 112–235, §2(a), (b), Dec. 28, 2012, 126 Stat. 1626; Pub. L. 116–92, div. E, title LXVII, §6741(a), Dec. 20, 2019, 133 Stat. 2239.)
+(Pub. L. 106–567, title VII, §703, Dec. 27, 2000, 114 Stat. 2856; Pub. L. 108–458, title I, §1102(a), (b), Dec. 17, 2004, 118 Stat. 3699; Pub. L. 111–259, title III, §365, Oct. 7, 2010, 124 Stat. 2702; Pub. L. 112–235, §2(a), (b), Dec. 28, 2012, 126 Stat. 1626; Pub. L. 116–92, div. E, title LXVII, §6741(a), Dec. 20, 2019, 133 Stat. 2239; Pub. L. 117–263, div. F, title LXVIII, §6824(d)(1), Dec. 23, 2022, 136 Stat. 3615; Pub. L. 117–286, §4(a)(318), Dec. 27, 2022, 136 Stat. 4341.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Executive Order 12958, referred to in subsec. (a)(2), which was formerly set out as a note under section 3161 of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
-
-The Federal Advisory Committee Act, referred to in subsec. (l), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Executive Order 13526, referred to in subsec. (a)(2), is set out as a note under section 3161 of this title.
 
 The Federal Records Act of 1950, referred to in subsec. (l), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Section 6(d) of act Sept. 5, 1950, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44. Title V of act June 30, 1949, was repealed by Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303.
 
@@ -135,6 +133,10 @@ The Federal Records Act of 1950, referred to in subsec. (l), was title V of act 
 Section was formerly set out in a note under section 3161 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2). Pub. L. 117–263 substituted "Executive Order 13526" for "Executive Order 12958".
+
+Subsec. (l). Pub. L. 117–286 substituted "chapter 10 of title 5" for "the Federal Advisory Committee Act (5 U.S.C. App.)".
 
 <b>2019</b>—Subsec. (e). Pub. L. 116–92 substituted "funds, but shall meet in person not less frequently than on a quarterly basis." for "funds."
 
@@ -147,6 +149,4 @@ Subsec. (c)(3). Pub. L. 112–235, §2(b), struck out at end "A member of the Bo
 <b>2004</b>—Subsec. (a). Pub. L. 108–458, §1102(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b)(5). Pub. L. 108–458, §1102(b), added par. (5).
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

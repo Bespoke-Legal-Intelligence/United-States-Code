@@ -44,7 +44,7 @@ TSP contributions.—Notwithstanding any other provision of law, the Secretary c
 
 &emsp;&emsp;&emsp;(ii) has completed fewer than 12 years of service in the uniformed services as of December 31, 2017; and
 
-&emsp;&emsp;&emsp;(iii) makes the election described in section 1409(b)(4)(B) or 12729(f)(2) of title 10 to receive Thrift Savings Plan contributions under this subsection in exchange for thereduced multipliers described in section 1409(b)(4)(A) or 12739(f)(1) of title 10, as applicable, for purposes of calculating the retired pay of the member.
+&emsp;&emsp;&emsp;(iii) makes the election described in section 1409(b)(4)(B) or 12729(f)(2) of title 10 to receive Thrift Savings Plan contributions under this subsection in exchange for the reduced multipliers described in section 1409(b)(4)(A) or 12739(f)(1) of title 10, as applicable, for purposes of calculating the retired pay of the member.
 
 &emsp;(2)
 
@@ -88,7 +88,7 @@ Protections for spouses and former spouses.—Section 8435 shall apply to a full
 
 #### References in Text
 
-Section 663 of the National Defense Authorization Act for Fiscal Year 2000, referred to in subsec. (b)(2)(B)(i), is section 663 of Pub. L. 106–65, as amended, which is set out as an Effective Date note below.
+Section 663 of the National Defense Authorization Act for Fiscal Year 2000, referred to in subsec. (b)(2)(B)(i), is section 663 of Pub. L. 106–65, which is set out as an Effective Date note below.
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(3), is classified generally to Title 26, Internal Revenue Code.
 
@@ -128,7 +128,7 @@ Postponement Authority.—(1) The Secretary of Defense may postpone by up to 180
 
 &emsp;"(B) the date as of which section 211(a)(2) of title 37, United States Code (as added by this subtitle) shall take effect.
 
-"(2) Postponement authority under this subsection may be exercised only to the extent that the failure todo so would prevent the Federal Retirement Thrift Investment Board from being able to provide timely and accurate services to investors or would place an excessive burden on the administrative capacity of the Board to accommodate participants in the Thrift Savings Plan, as determined by the Secretary of Defense after consultation with the Executive Director (appointed by the Board).
+"(2) Postponement authority under this subsection may be exercised only to the extent that the failure to do so would prevent the Federal Retirement Thrift Investment Board from being able to provide timely and accurate services to investors or would place an excessive burden on the administrative capacity of the Board to accommodate participants in the Thrift Savings Plan, as determined by the Secretary of Defense after consultation with the Executive Director (appointed by the Board).
 
 "(3) Paragraph (1) includes the authority to postpone the effective date of the amendments made by this subtitle (apart from section 211(a)(2) of title 37, United States Code), and the effective date of such section 211(a)(2), by different lengths of time.
 

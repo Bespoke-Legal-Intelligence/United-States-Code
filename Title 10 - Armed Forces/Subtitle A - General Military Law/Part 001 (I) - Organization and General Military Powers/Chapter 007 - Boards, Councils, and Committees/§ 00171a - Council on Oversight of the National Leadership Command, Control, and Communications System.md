@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is within the Department of Defense a council to be known as the "Council on Oversight of the National Leadership Command, Control, and Communications System" (in this section referred to as the "Council").
+Establishment.—There is within the Department of Defense a council to be known asthe "Council on Oversight of the National Leadership Command, Control, and Communications System" (in this section referred to as the "Council").
 
 (b)
 
@@ -20,7 +20,9 @@ Membership.—The members of the Council shall be as follows:
 
 &emsp;(6) The Chief Information Officer of the Department of Defense.
 
-&emsp;(7) Such other officers of the Department of Defense as the Secretary may designate.
+&emsp;(7) The Director of the White House Military Office.
+
+&emsp;(8) Such other officers of the Department of Defense as the Secretary may designate.
 
 (c)
 
@@ -80,12 +82,6 @@ Budget and Funding Matters.—(1) Not later than 30 days after the President sub
 
 (h)
 
-Notification of Anomalies.—(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
-
-(2) In this subsection, the term "anomaly" means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
-
-(i)
-
 Reports on Space Architecture Development.—(1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
 
 (2) A system described in this paragraph is any of the following:
@@ -100,7 +96,7 @@ Reports on Space Architecture Development.—(1) Not less than 90 days before ea
 
 (3) In this subsection, the terms "Milestone A approval" and "Milestone B approval" have the meanings given such terms in sections 4172(e) and 4251(d) of this title.
 
-(j)
+(i)
 
 Notification of Reduction of Certain Warning Time.—(1) None of the funds authorized to be appropriated or otherwise made available to the Department of Defense for any fiscal year may be used to change any command, control, and communications system described in subsection (d)(1) in a manner that reduces the warning time provided to the national leadership of the United States with respect to a warning of a strategic missile attack on the United States unless—
 
@@ -116,7 +112,7 @@ Notification of Reduction of Certain Warning Time.—(1) None of the funds autho
 
 &emsp;(C) the plan of the Secretary and the Chairman to ensure that the Council is able to make a positive determination in the following year.
 
-(k)
+(j)
 
 Status of Acquisition Programs.—(1) On a quarterly basis, each program manager of a covered acquisition program shall transmit to the co-chairs of the Council, acting through the senior steering group of the Council, a report that identifies—
 
@@ -140,7 +136,7 @@ Status of Acquisition Programs.—(1) On a quarterly basis, each program manager
 
 &emsp;(B) the continuity of government systems of the United States.
 
-(l)
+(k)
 
 National Leadership of the United States Defined.—In this section, the term "national leadership of the United States" means the following:
 
@@ -150,11 +146,19 @@ National Leadership of the United States Defined.—In this section, the term "n
 
 &emsp;(3) Such other civilian officials of the United States Government as the President shall designate for purposes of this section.
 
-(Added Pub. L. 113–66, div. A, title X, §1052(a)(1), Dec. 26, 2013, 127 Stat. 859; amended Pub. L. 114–92, div. A, title XVI, §1651, Nov. 25, 2015, 129 Stat. 1121; Pub. L. 114–328, div. A, title XVI, §1661, Dec. 23, 2016, 130 Stat. 2613; Pub. L. 115–91, div. A, title X, §1081(a)(13), title XVI, §1654(a)(1), Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 116–92, div. A, title XVI, §1661, Dec. 20, 2019, 133 Stat. 1772; Pub. L. 116–283, div. A, title X, §1081(a)(10), title XVIII, §1845(c)(2), Jan. 1, 2021, 134 Stat. 3871, 4247; Pub. L. 117–81, div. A, title XVII, §§1701(b)(14), 1702(a)(1), Dec. 27, 2021, 135 Stat. 2134, 2155.)
+(Added Pub. L. 113–66, div. A, title X, §1052(a)(1), Dec. 26, 2013, 127 Stat. 859; amended Pub. L. 114–92, div. A, title XVI, §1651, Nov. 25, 2015, 129 Stat. 1121; Pub. L. 114–328, div. A, title XVI, §1661, Dec. 23, 2016, 130 Stat. 2613; Pub. L. 115–91, div. A, title X, §1081(a)(13), title XVI, §1654(a)(1), Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 116–92, div. A, title XVI, §1661, Dec. 20, 2019, 133 Stat. 1772; Pub. L. 116–283, div. A, title X, §1081(a)(10), title XVIII, §1845(c)(2), Jan. 1, 2021, 134 Stat. 3871, 4247; Pub. L. 117–81, div. A, title XVII, §§1701(b)(14), 1702(a)(1), Dec. 27, 2021, 135 Stat. 2134, 2155; Pub. L. 117–263, div. A, title XVI, §§1636(c), 1672(a), Dec. 23, 2022, 136 Stat. 2940, 2959.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(7), (8). Pub. L. 117–263, §1672(a), added par. (7) and redesignated former par. (7) as (8).
+
+Subsecs. (h) to (l). Pub. L. 117–263, §1636(c), redesignated subsecs. (i) to (l) as (h) to (k), respectively, and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows:
+
+"(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
+
+"(2) In this subsection, the term 'anomaly' means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system."
 
 <b>2021</b>—Subsec. (i)(1). Pub. L. 116–283, §1081(a)(10), substituted "Acquisition" for "Acquisitions".
 
@@ -206,7 +210,7 @@ Pub. L. 115–91, div. A, title XVI, §1654(b), Dec. 12, 2017, 131 Stat. 1759, p
 
 "(1)
 
-Database.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], theChief Information Officer of the Department of Defense, as Executive Secretary of the Council on Oversight of the National Leadership Command, Control, and Communications System established under section 171a of title 10, United States Code (or a successor to the Chief Information Officer assigned responsibility for policy, oversight, guidance, and coordination for nuclear command and control systems), shall, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, develop a database relating to the execution of all nuclear command, control, and communications acquisition programs of the Department of Defense with an approved Materiel Development Decision. The database shall be updated not less frequently than annually and upon completion of a major program element of such a program.
+Database.—Not later than one year after the date of the enactment of this Act \[Dec. 12, 2017\], the Chief Information Officer of the Department of Defense, as Executive Secretary of the Council on Oversight of the National Leadership Command, Control, and Communications System established under section 171a of title 10, United States Code (or a successor to the Chief Information Officer assigned responsibility for policy, oversight, guidance, and coordination for nuclear command and control systems), shall, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, develop a database relating to the execution of all nuclear command, control, and communications acquisition programs of the Department of Defense with an approved Materiel Development Decision. The database shall be updated not less frequently than annually and upon completion of a major program element of such a program.
 
 "(2)
 

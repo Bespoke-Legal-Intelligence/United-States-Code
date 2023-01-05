@@ -92,7 +92,7 @@ To facilitate administration of section 1308 of this title and this section, eac
 
 &emsp;Any other person or legal entity that the Secretary determines does not meet the standards described in subsections (b)(2) and (c) shall not be considered to be actively engaged in farming with respect to a farming operation.
 
-(Pub. L. 99–198, title X, §1001A, as added and amended Pub. L. 100–203, title I, §§1301(a)(3), 1302, Dec. 22, 1987, 101 Stat. 1330–12, 1330–14; Pub. L. 101–624, title XI, §1111(d), (f), Nov. 28, 1990, 104 Stat. 3498, 3499; Pub. L. 102–237, title I, §118(c), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 104–127, title I, §115(c)(1), Apr. 4, 1996, 110 Stat. 903; Pub. L. 107–171, title I, §1603(c)(1), May 13, 2002, 116 Stat. 215; Pub. L. 110–234, title I, §1603(c), (d), May 22, 2008, 122 Stat. 1007, 1008; Pub. L. 110–246, §4(a), title I, §1603(c), (d), June 18, 2008, 122 Stat. 1664, 1735, 1736.)
+(Pub. L. 99–198, title X, §1001A, as added and amended Pub. L. 100–203, title I, §§1301(a)(3), 1302, Dec. 22, 1987, 101 Stat. 1330–12, 1330–14; Pub. L. 101–624, title XI, §1111(d), (f), Nov. 28, 1990, 104 Stat. 3498, 3499; Pub. L. 102–237, title I, §118(c), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 104–127, title I, §115(c)(1), Apr. 4, 1996, 110 Stat. 903; Pub. L. 107–171, title I, §1603(c)(1), May 13, 2002, 116 Stat. 215; Pub. L. 110–234, title I, §1603(c), (d), May 22, 2008, 122 Stat. 1007, 1008; Pub. L. 110–246, §4(a),title I, §1603(c), (d), June 18, 2008, 122 Stat. 1664, 1735, 1736.)
 
 #### <b>Editorial Notes</b>
 

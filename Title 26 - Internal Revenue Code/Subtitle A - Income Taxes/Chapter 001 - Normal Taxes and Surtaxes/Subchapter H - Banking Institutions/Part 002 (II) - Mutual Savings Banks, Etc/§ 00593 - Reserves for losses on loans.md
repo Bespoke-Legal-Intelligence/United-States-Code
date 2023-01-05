@@ -72,7 +72,7 @@
 
 #### (1) Establishment of reserves
 
-&emsp;Each taxpayer described in subsection (a) which uses the reserve method of accounting for bad debts shall establish and maintain a reserve for losses on qualifying real property loans, a reserve for losses on nonqualifying loans, and a supplemental reserve for losses on loans. For purposes of this title, such reserves shall be treated as reserves for bad debts, but no deduction shall be allowed for any addition to the supplemental reserve for losses on loans.
+&emsp;Each taxpayer described in subsection (a) which uses the reserve method of accountingfor bad debts shall establish and maintain a reserve for losses on qualifying real property loans, a reserve for losses on nonqualifying loans, and a supplemental reserve for losses on loans. For purposes of this title, such reserves shall be treated as reserves for bad debts, but no deduction shall be allowed for any addition to the supplemental reserve for losses on loans.
 
 #### (2) Certain pre-1963 reserves
 
@@ -252,13 +252,13 @@ Subsections (a), (b), (c), and (d) shall not apply to any taxable year beginning
 
 &emsp;The Secretary shall prescribe such regulations as may be necessary to carry out this subsection and subsection (e), including regulations providing for the application of such subsections in the case of acquisitions, mergers, spin-offs, and other reorganizations.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 205; Pub. L. 87–834, §6(a), Oct. 16, 1962, 76 Stat. 977; Pub. L. 91–172, title IV, §432(a), (b), Dec. 30, 1969, 83 Stat. 620, 622; Pub. L. 94–455, title XIX, §1901(a)(84), Oct. 4, 1976, 90 Stat. 1778; Pub. L. 96–222, title I, §104(a)(3)(C), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–34, title II, §§243, 245(b), (c), Aug. 13, 1981, 95 Stat. 255, 256; Pub. L. 99–514, title III, §311(b)(2), title VI, §671(b)(2), title IX, §901(b)(1)–(3), (d)(2), Oct. 22, 1986, 100 Stat. 2219, 2317, 2378; Pub. L. 100–647, title I, §§1003(c)(3), 1006(t)(25)(B), Nov. 10, 1988, 102 Stat. 3384, 3426; Pub. L. 101–73, title XIV, §1401(b)(3), Aug. 9, 1989, 103 Stat. 550; Pub. L. 101–508, title XI, §11801(c)(12)(F), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1616(a), (b)(7), 1704(t)(51), Aug. 20, 1996, 110 Stat. 1854,1857, 1890; Pub. L. 105–34, title XVI, §1601(f)(5)(A), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 115–141, div. U, title IV, §401(b)(24), Mar. 23, 2018, 132 Stat. 1203.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 205; Pub. L. 87–834, §6(a), Oct. 16, 1962, 76 Stat. 977; Pub. L. 91–172, title IV, §432(a), (b), Dec. 30, 1969, 83 Stat. 620, 622; Pub. L. 94–455, title XIX, §1901(a)(84), Oct. 4, 1976, 90 Stat. 1778; Pub. L. 96–222, title I, §104(a)(3)(C), Apr. 1, 1980, 94 Stat. 215; Pub. L. 97–34, title II, §§243, 245(b), (c), Aug. 13, 1981, 95 Stat. 255, 256; Pub. L. 99–514, title III, §311(b)(2), title VI, §671(b)(2), title IX, §901(b)(1)–(3), (d)(2), Oct. 22, 1986, 100 Stat. 2219, 2317, 2378; Pub. L. 100–647, title I, §§1003(c)(3), 1006(t)(25)(B), Nov. 10, 1988, 102 Stat. 3384, 3426; Pub. L. 101–73, title XIV, §1401(b)(3), Aug. 9, 1989, 103 Stat. 550; Pub. L. 101–508, title XI, §11801(c)(12)(F), Nov. 5, 1990, 104 Stat. 1388–527; Pub. L. 104–188, title I, §§1616(a), (b)(7), 1704(t)(51), Aug. 20, 1996, 110 Stat. 1854, 1857, 1890; Pub. L. 105–34, title XVI, §1601(f)(5)(A), Aug. 5, 1997, 111 Stat. 1091; Pub. L. 115–141, div. U, title IV, §401(b)(24), Mar. 23, 2018, 132 Stat. 1203.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Tax Reform Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended, which was enacted Oct. 4, 1976. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, which was enacted Oct. 4, 1976. For complete classification of this Act to the Code, see Tables.
 
 Section 5(e) of the Federal Deposit Insurance Act, referred to in subsec. (e)(1), is classified to section 1815(e) of Title 12, Banks and Banking.
 
@@ -328,7 +328,7 @@ Subsec. (b)(2)(E)(i). Pub. L. 94–455, §1901(a)(84)(D), substituted "subsectio
 
 Subsec. (c)(2). Pub. L. 94–455, §1901(a)(84)(B), added par. (2). Former par. (2), relating to allocation of pre-1963 reserves for bad debts, was struck out.
 
-Subsec. (c)(3). Pub. L. 94–455, §1901(a)(84)(B), redesignated par. (6) as par. (3). Former par. (3), relating to the method of allocation to reserves for bad debts, was struck out.
+Subsec. (c)(3). Pub. L. 94–455, §1901(a)(84)(B), redesignated par. (6) as par. (3). Former par. (3), relating to themethod of allocation to reserves for bad debts, was struck out.
 
 Subsec. (c)(4), (5). Pub. L. 94–455, §1901(a)(84)(B), struck out par. (4) which defined "pre-1963 reserves", and struck out par. (5) which related to certain pre-1952 surplus.
 
@@ -400,7 +400,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title III, §311(c), Oct. 22, 1986, 100 Stat. 2219, as amended by Pub. L. 100–647, title I, §1003(c)(2), Nov. 10, 1988, 102 Stat. 3384, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 631, 852, 1201, and 1445 of this title\]shall apply to taxable years beginning after December 31, 1986; except that the amendment made by subsection (b)(4) \[amending section 1445 of this title\] shall apply to payments made after December 31, 1986."
+Pub. L. 99–514, title III, §311(c), Oct. 22, 1986, 100 Stat. 2219, as amended by Pub. L. 100–647, title I, §1003(c)(2), Nov. 10, 1988, 102 Stat. 3384, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 631, 852, 1201, and 1445 of this title\] shall apply to taxable years beginning after December 31, 1986; except that the amendment made by subsection (b)(4) \[amending section 1445 of this title\] shall apply to payments made after December 31, 1986."
 
 Amendment by section 671(b)(2) of Pub. L. 99–514 effective Jan. 1, 1987, see section 675(a) of Pub. L. 99–514, as amended, set out as an Effective Date note under section 860A of this title.
 

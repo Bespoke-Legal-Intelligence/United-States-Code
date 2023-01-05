@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) materially assist, sponsor, or provide financial, material, or technological support for, or goods or services in support of, Iran's Revolutionary Guard Corps or any of its officials, agents, or affiliates the property and interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.);
 
-&emsp;&emsp;(B) engage in a significant transaction or transactions with Iran's RevolutionaryGuard Corps or any of its officials, agents, or affiliates—
+&emsp;&emsp;(B) engage in a significant transaction or transactions with Iran's Revolutionary Guard Corps or any of its officials, agents, or affiliates—
 
 &emsp;&emsp;&emsp;(i) the property and interests in property of which are blocked pursuant to that Act; or
 
@@ -110,5 +110,5 @@ Section 8513(c) of this title, as added by section 312, referred to in subsec. (
 
 The Iran Sanctions Act of 1996, referred to in subsecs. (b)(1) and (f), is Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, which is set out as a note under section 1701 of Title 50, War and National Defense. Section 6(a) of the Act, as amended by section 204, is section 6(a) of Pub. L. 104–172, as amended by section 204 of Pub. L. 112–158.
 
-This Act, referred to in subsec. (f), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the Iran Threat Reduction and Syria Human Rights Act of 2012, whichis classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+This Act, referred to in subsec. (f), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the Iran Threat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 

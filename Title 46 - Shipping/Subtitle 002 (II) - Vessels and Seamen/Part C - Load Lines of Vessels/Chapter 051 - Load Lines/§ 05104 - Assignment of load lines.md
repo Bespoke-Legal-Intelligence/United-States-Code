@@ -1,6 +1,6 @@
 ### §5104. Assignment of load lines
 
-(a) The Secretary shall assign load lines for a vessel so that they indicate the minimum safe freeboard to which the vessel may be loaded. However, if the owner requests, the Secretary may assign load lines that result in greater freeboard than the minimum safe freeboard.
+(a) The Secretary shall assign load lines for a vessel so that they indicate the minimum safefreeboard to which the vessel may be loaded. However, if the owner requests, the Secretary may assign load lines that result in greater freeboard than the minimum safe freeboard.
 
 (b) In assigning load lines for a vessel, the Secretary shall consider—
 

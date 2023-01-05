@@ -34,6 +34,328 @@ Pub. L. 112–158, §1(a), Aug. 10, 2012, 126 Stat. 1214, provided that: "This A
 
 Pub. L. 112–158, title VII, §701, Aug. 10, 2012, 126 Stat. 1265, provided that: "This title \[enacting subchapter VII of this chapter\] may be cited as the 'Syria Human Rights Accountability Act of 2012'."
 
+#### Iran Nuclear Weapons Capability and Terrorism Monitoring
+
+Pub. L. 117–263, div. E, title LV, §5593, Dec. 23, 2022, 136 Stat. 3385, provided that:
+
+"(a)
+
+Short Title.—This section may be cited as the 'Iran Nuclear Weapons Capability and Terrorism Monitoring Act of 2022'.
+
+"(b)
+
+Sense of Congress.—It is the sense of Congress that—
+
+&emsp;"(1) an Islamic Republic of Iran that possesses a nuclear weapons capability would be a serious threat to the national security of the United States, Israel, and other allies and partners;
+
+&emsp;"(2) the Islamic Republic of Iran has been less than cooperative with international inspectors from the International Atomic Energy Agency and has obstructed their ability to inspect facilities as well as data and recordings collected by surveillance equipment across Iran;
+
+&emsp;"(3) the Islamic Republic of Iran continues to advance missile and drone programs, which are a threat to the national security of the United States, Israel, and other allies and partners;
+
+&emsp;"(4) the Islamic Republic of Iran continues to support proxies in the Middle East in a manner that—
+
+&emsp;&emsp;"(A) undermines the sovereignty of regional governments;
+
+&emsp;&emsp;"(B) threatens the safety of United States citizens;
+
+&emsp;&emsp;"(C) threatens United States allies and partners; and
+
+&emsp;&emsp;"(D) directly undermines the national security interests of the United States;
+
+&emsp;"(5) the Islamic Republic of Iran has engaged in assassination plots against former United States officials and has been implicated in plots to kidnap United States citizens within the United States;
+
+&emsp;"(6) the Islamic Republic of Iran is engaged in unsafe and unprofessional maritime activity that threatens the movement of naval vessels of the United States and the free flow of commerce through strategic maritime chokepoints in the Middle East and North Africa;
+
+&emsp;"(7) the Islamic Republic of Iran has delivered hundreds of armed drones to the Russian Federation, which will enable Vladimir Putin to continue the assault against Ukraine in direct opposition of the national security interests of the United States; and
+
+&emsp;"(8) the United States must—
+
+&emsp;&emsp;"(A) ensure that the Islamic Republic of Iran does not acquire a nuclear weapons capability;
+
+&emsp;&emsp;"(B) protect against aggression from the Islamic Republic of Iran manifested through its missiles and drone programs; and
+
+&emsp;&emsp;"(C) counter regional and global terrorism of the Islamic Republic of Iran in a manner that minimizes the threat posed by state and non-state actors to the interests of the United States.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Foreign Relations, the Committee on Appropriations, the Committee on Armed Services, the Committee on Energy and Natural Resources, and the Select Committee on Intelligence of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Foreign Affairs, the Committee on Appropriations, the Committee on Armed Services, the Committee on Energy and Commerce, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;"(2)
+
+Comprehensive safeguards agreement.—The term 'Comprehensive Safeguards Agreement' means the Agreement between the Islamic Republic of Iran and the International Atomic Energy Agency for the Application of Safeguards in Connection with the Treaty on the Non-Proliferation of Nuclear Weapons, done at Vienna June 19, 1973.
+
+&emsp;"(3)
+
+Intelligence community.—The term 'intelligence community' has the meaning given the term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+
+&emsp;"(4)
+
+Task force.—The term 'task force' means the task force established under subsection (d).
+
+&emsp;"(5)
+
+Unmanned aircraft system.—The term 'unmanned aircraft system' has the meaning given the term in section 44801 of title 49, United States Code.
+
+"(d)
+
+Establishment of Interagency Task Force on Nuclear Activity and Global Regional Terrorism of the Islamic Republic of Iran.—
+
+&emsp;"(1)
+
+Establishment.—The Secretary of State shall establish a task force to coordinate and synthesize efforts by the United States Government regarding—
+
+&emsp;&emsp;"(A) nuclear activity of the Islamic Republic of Iran or its proxies; and
+
+&emsp;&emsp;"(B) regional and global terrorism activity by the Islamic Republic of Iran or its proxies.
+
+&emsp;"(2)
+
+Composition.—
+
+&emsp;&emsp;"(A)
+
+Chairperson.—The Secretary of State shall be the Chairperson of the task force.
+
+&emsp;&emsp;"(B)
+
+Membership.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The task force shall be composed of individuals, each of whom shall be an employee of and appointed to the task force by the head of one of the following agencies:
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) The Department of State.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) The Department of Defense.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) The Department of Energy.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Additional members.—The Chairperson may appoint to the task force additional individuals from other Federal agencies, as the Chairperson considers necessary.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Intelligence community support.—The Director of National Intelligence shall ensure that the task force receives all appropriate support from the intelligence community.
+
+&emsp;"(3)
+
+Sunset.—The task force shall terminate on December 31, 2028.
+
+"(e)
+
+Assessments.—
+
+&emsp;"(1)
+
+Intelligence assessment on nuclear activity.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2022\], and every 180 days thereafter until December 31, 2028, the Director of National Intelligence shall submit to the appropriate congressional committees an assessment regarding any uranium enrichment, nuclear weapons development, delivery vehicle development, and associated engineering and research activities of the Islamic Republic of Iran.
+
+&emsp;&emsp;"(B)
+
+Contents.—The assessment required by subparagraph (A) shall include—
+
+&emsp;&emsp;&emsp;"(i) a description and location of current fuel cycle activities for the production of fissile material being undertaken by the Islamic Republic of Iran, including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) research and development activities to procure or construct additional advanced IR-2, IR-6 and other model centrifuges and enrichment cascades, including for stable isotopes;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) research and development of reprocessing capabilities, including—
+
+&emsp;&emsp;&emsp;"(aa) reprocessing of spent fuel; and
+
+&emsp;&emsp;&emsp;"(bb) extraction of medical isotopes from irradiated uranium targets;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) activities with respect to designing or constructing reactors, including—
+
+&emsp;&emsp;&emsp;"(aa) the construction of heavy water reactors;
+
+&emsp;&emsp;&emsp;"(bb) the manufacture or procurement of reactor components, including the intended application of such components; and
+
+&emsp;&emsp;&emsp;"(cc) efforts to rebuild the original reactor at Arak;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) uranium mining, concentration, conversion, and fuel fabrication, including—
+
+&emsp;&emsp;&emsp;"(aa) estimated uranium ore production capacity and annual recovery;
+
+&emsp;&emsp;&emsp;"(bb) recovery processes and ore concentrate production capacity and annual recovery;
+
+&emsp;&emsp;&emsp;"(cc) research and development with respect to, and the annual rate of, conversion of uranium; and
+
+&emsp;&emsp;&emsp;"(dd) research and development with respect to the fabrication of reactor fuels, including the use of depleted, natural, and enriched uranium; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) activities with respect to—
+
+&emsp;&emsp;&emsp;"(aa) producing or acquiring plutonium or uranium (or their alloys);
+
+&emsp;&emsp;&emsp;"(bb) conducting research and development on plutonium or uranium (or their alloys);
+
+&emsp;&emsp;&emsp;"(cc) uranium metal; or
+
+&emsp;&emsp;&emsp;"(dd) casting, forming, or machining plutonium or uranium;
+
+&emsp;&emsp;&emsp;"(ii) with respect to any activity described in clause (i), a description, as applicable, of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the number and type of centrifuges used to enrich uranium and the operating status of such centrifuges;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the number and location of any enrichment or associated research and development facility used to engage in such activity;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the amount of heavy water, in metric tons, produced by such activity and the acquisition or manufacture of major reactor components, including, for the second and subsequent assessments, the amount produced since the last assessment;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) the number and type of fuel assemblies produced by the Islamic Republic of Iran, including failed or rejected assemblies; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) the total amount of—
+
+&emsp;&emsp;&emsp;"(aa) uranium–235 enriched to not greater than 5 percent purity;
+
+&emsp;&emsp;&emsp;"(bb) uranium–235 enriched to greater than 5 percent purity and not greater than 20 percent purity;
+
+&emsp;&emsp;&emsp;"(cc) uranium–235 enriched to greater than 20 percent purity and not greater than 60 percent purity;
+
+&emsp;&emsp;&emsp;"(dd) uranium–235 enriched to greater than 60 percent purity and not greater than 90 percent purity; and
+
+&emsp;&emsp;&emsp;"(ee) uranium–235 enriched greater than 90 percent purity;
+
+&emsp;&emsp;&emsp;"(iii) a description of any weaponization plans and weapons development capabilities of the Islamic Republic of Iran, including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) plans and capabilities with respect to—
+
+&emsp;&emsp;&emsp;"(aa) weapon design, including fission, warhead miniaturization, and boosted and early thermonuclear weapon design;
+
+&emsp;&emsp;&emsp;"(bb) high yield fission development;
+
+&emsp;&emsp;&emsp;"(cc) design, development, acquisition, or use of computer models to simulate nuclear explosive devices;
+
+&emsp;&emsp;&emsp;"(dd) design, development, fabricating, acquisition, or use of explosively driven neutron sources or specialized materials for explosively driven neutron sources; and
+
+&emsp;&emsp;&emsp;"(ee) design, development, fabrication, acquisition, or use of precision machining and tooling that could enable the production of nuclear explosive device components;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the ability of the Islamic Republic of Iran to deploy a working or reliable delivery vehicle capable of carrying a nuclear warhead;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the estimated breakout time for the Islamic Republic of Iran to develop and deploy a nuclear weapon, including a crude nuclear weapon; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) the status and location of any research and development work site related to the preparation of an underground nuclear test;
+
+&emsp;&emsp;&emsp;"(iv) an identification of any clandestine nuclear facilities;
+
+&emsp;&emsp;&emsp;"(v) an assessment of whether the Islamic Republic of Iran maintains locations to store equipment, research archives, or other material previously used for a weapons program or that would be of use to a weapons program that the Islamic Republic of Iran has not declared to the International Atomic Energy Agency;
+
+&emsp;&emsp;&emsp;"(vi) any diversion by the Islamic Republic of Iran of uranium, carbon-fiber, or other materials for use in an undeclared or clandestine facility;
+
+&emsp;&emsp;&emsp;"(vii) an assessment of activities related to developing or acquiring the capabilities for the production of nuclear weapons, conducted at facilities controlled by the Ministry of Defense and Armed Forces Logistics of Iran, the Islamic Revolutionary Guard Corps, and the Organization of Defensive Innovation and Research, including an analysis of gaps in knowledge;
+
+&emsp;&emsp;&emsp;"(viii) a description of activities between the Islamic Republic of Iran and other countries or persons with respect to sharing information on, or providing other forms of support for, the acquisition of a nuclear weapons capability or activities related to weaponization;
+
+&emsp;&emsp;&emsp;"(ix) with respect to any new ballistic, cruise, or hypersonic missiles being designed and tested by the Islamic Republic of Iran or any of its proxies, a description of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the type of missile;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the range of such missiles;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the capability of such missiles to deliver a nuclear warhead;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) the number of such missiles; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) any testing of such missiles;
+
+&emsp;&emsp;&emsp;"(x) an assessment of whether the Islamic Republic of Iran or any of its proxies possesses an unmanned aircraft system or other military equipment capable of delivering a nuclear weapon; and
+
+&emsp;&emsp;&emsp;"(xi) an assessment of the extent to which the Islamic Republic of Iran is providing drones, missiles, or related technology from other countries to its proxies or partners.
+
+&emsp;"(2)
+
+Assessment on support for regional and global terrorism of the islamic republic of iran.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2022\], and annually thereafter until December 31, 2028, the Director of National Intelligence shall submit to the appropriate congressional committees an assessment regarding the regional and global terrorism of the Islamic Republic of Iran.
+
+&emsp;&emsp;"(B)
+
+Contents.—The assessment required by subparagraph (A) shall include—
+
+&emsp;&emsp;&emsp;"(i) a description of the lethal support of the Islamic Republic of Iran, including training, equipment, and associated intelligence support, to regional and global non-state terrorist groups and proxies;
+
+&emsp;&emsp;&emsp;"(ii) a description of the lethal support of the Islamic Republic of Iran, including training and equipment, to state actors;
+
+&emsp;&emsp;&emsp;"(iii) an assessment of financial support of the Islamic Republic of Iran to non-state terrorist groups and proxies and associated Iranian revenue streams funding such support;
+
+&emsp;&emsp;&emsp;"(iv) an assessment of the threat posed by the Islamic Republic of Iran and Iranian-supported groups to members of the Armed Forces, diplomats, and military and diplomatic facilities of the United States;
+
+&emsp;&emsp;&emsp;"(v) a description of attacks by, or sponsored by, the Islamic Republic of Iran against members of the Armed Forces, diplomats, and military and diplomatic facilities of the United States and the associated response by the United States Government in the previous year;
+
+&emsp;&emsp;&emsp;"(vi) a description of attacks by, or sponsored by, the Islamic Republic of Iran against United States partners or allies and the associated response by the United States Government in the previous year;
+
+&emsp;&emsp;&emsp;"(vii) an assessment of interference by the Islamic Republic of Iran into the elections and political processes of sovereign countries in the Middle East and North Africa in an effort to create conditions for or shape agendas more favorable to the policies of the Government of the Islamic Republic of Iran;
+
+&emsp;&emsp;&emsp;"(viii) a description of any plots by the Islamic Republic of Iran against former and current United States officials;
+
+&emsp;&emsp;&emsp;"(ix) a description of any plots by the Islamic Republic of Iran against United States citizens both abroad and within the United States; and
+
+&emsp;&emsp;&emsp;"(x) a description of maritime activity of the Islamic Republic of Iran and associated impacts on the free flow of commerce and the national security interests of the United States.
+
+&emsp;"(3)
+
+Form; public availability; duplication.—
+
+&emsp;&emsp;"(A)
+
+Form.—Each assessment required by this subsection shall be submitted in unclassified form but may include a classified annex for information that, if released, would be detrimental to the national security of the United States. In addition, any classified portion may contain an additional annex provided to the congressional intelligence committees that details information and analysis that would otherwise disclose sensitive sources and methods.
+
+&emsp;&emsp;"(B)
+
+Public availability.—The unclassified portion of an assessment required by this subsection shall be made available to the public on an internet website of the Office of the Director of National Intelligence.
+
+&emsp;&emsp;"(C)
+
+Duplication.—For any assessment required by this subsection, the Director of National Intelligence may rely upon existing products that reflect the current analytic judgment of the intelligence community, including reports or products produced in response to congressional mandate or requests from executive branch officials.
+
+"(f)
+
+Diplomatic Strategy to Address Identified Nuclear, Ballistic Missile, and Terrorism Threats to the United States.—
+
+&emsp;"(1)
+
+In general.—Not later than 30 days after the submission of the initial assessment under subsection (e)(1), and annually thereafter until December 31, 2028, the Secretary of State, in consultation with the task force, shall submit to the appropriate congressional committees a diplomatic strategy that outlines a comprehensive plan for engaging with partners and allies of the United States regarding uranium enrichment, nuclear weaponization, missile development, and drone-related activities and regional and global terrorism of the Islamic Republic of Iran.
+
+&emsp;"(2)
+
+Contents.—The diplomatic strategy required by paragraph (1) shall include—
+
+&emsp;&emsp;"(A) an assessment of whether the Islamic Republic of Iran—
+
+&emsp;&emsp;&emsp;"(i) is in compliance with the Comprehensive Safeguards Agreement and modified Code 3.1 of the Subsidiary Arrangements to the Comprehensive Safeguards Agreement as well as the nuclear related commitments endorsed in United Nations Security Council Resolution 2231 (2015); and
+
+&emsp;&emsp;&emsp;"(ii) has denied access to sites that the International Atomic Energy Agency has sought to inspect during previous 1-year period;
+
+&emsp;&emsp;"(B) a description of any dual-use item (as defined under section 730.3 of title 15, Code of Federal Regulations or listed on the List of Nuclear-Related Dual-Use Equipment, Materials, Software, and Related Technology issued by the Nuclear Suppliers Group or any successor list) the Islamic Republic of Iran is using to further the nuclear weapon, missile, or drone program;
+
+&emsp;&emsp;"(C) a description of efforts of the United States to counter efforts of the Islamic Republic of Iran to project political and military influence into the Middle East;
+
+&emsp;&emsp;"(D) a description of efforts to address the increased threat that new or evolving uranium enrichment, nuclear weaponization, missile, or drone development activities by the Islamic Republic of Iran pose to United States citizens, the diplomatic presence of the United States in the Middle East, and the national security interests of the United States;
+
+&emsp;&emsp;"(E) a description of efforts to address the threat that terrorism by, or sponsored by, the Islamic Republic of Iran poses to United States citizens, the diplomatic presence of the United States in the Middle East, and the national security interests of the United States;
+
+&emsp;&emsp;"(F) a description of efforts to address the impact of the influence of the Islamic Republic of Iran on sovereign governments on the safety and security of United States citizens, the diplomatic presence of the United States in the Middle East, and the national security interests of the United States;
+
+&emsp;&emsp;"(G) a description of a coordinated whole-of-government approach to use political, economic, and security related tools to address such activities; and
+
+&emsp;&emsp;"(H) a comprehensive plan for engaging with allies and regional partners in all relevant multilateral fora to address such activities.
+
+&emsp;"(3)
+
+Updated strategy related to notification.—Not later than 45 days after the Chairperson determines that there has been a significant development in the nuclear weapons capability or nuclear weapons delivery systems capability of the Islamic Republic of Iran, the Secretary of State shall submit to the appropriate congressional committees an update to the most recent diplomatic strategy submitted under paragraph (1)."
+
 #### Report on Use by Iran of Funds Made Available Through Sanctions Relief
 
 Pub. L. 114–113, div. M, title V, §514, Dec. 18, 2015, 129 Stat. 2926, provided that:
@@ -108,7 +430,7 @@ Pub. L. 113–291, div. A, title XII, §1271, Dec. 19, 2014, 128 Stat. 3588, pro
 
 "(a)
 
-In General.—Not later than 30 days after the date of the enactment of this Act \[Dec. 19, 2014\], the President shall submit to the appropriate congressional committees a report on the interim agreement relating to the nuclear program of Iran. Such report shall include—
+In General.—Not later than 30 days after the date of the enactment of this Act \[Dec. 19, 2014\], the President shall submit to the appropriate congressional committees a report on the interim agreement relatingto the nuclear program of Iran. Such report shall include—
 
 &emsp;"(1) verification of whether Iran is complying with such agreement; and
 
@@ -186,7 +508,7 @@ Relevant congressional committees.—The term 'relevant congressional committees
 
 "(a)
 
-In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2012\], the Secretary of State shall conduct an assessment of the threats posed to the United States by Iran's growing presence and activity in the Western Hemisphere and submit to the relevant congressional committees the results of the assessment and a strategy to address Iran's growing hostile presence and activity in the Western Hemisphere.
+In General.—Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2012\], theSecretary of State shall conduct an assessment of the threats posed to the United States by Iran's growing presence and activity in the Western Hemisphere and submit to the relevant congressional committees the results of the assessment and a strategy to address Iran's growing hostile presence and activity in the Western Hemisphere.
 
 "(b)
 

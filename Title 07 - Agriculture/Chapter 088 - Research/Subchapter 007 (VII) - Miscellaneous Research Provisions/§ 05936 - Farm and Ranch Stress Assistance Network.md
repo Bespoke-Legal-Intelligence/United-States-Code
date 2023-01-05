@@ -52,7 +52,7 @@ There is authorized to be appropriated to the Secretary to carry out this sectio
 
 #### (1) In general
 
-&emsp;Not later than 1 year after December 20, 2018, the Secretary, in coordination with theSecretary of Health and Human Services, shall submit to Congress and any other relevant Federal department or agency, and make publicly available, a report describing the state of behavioral and mental health of individuals who are engaged in farming, ranching, and other occupations relating to agriculture.
+&emsp;Not later than 1 year after December 20, 2018, the Secretary, in coordination with the Secretary of Health and Human Services, shall submit to Congress and any other relevant Federal department or agency, and make publicly available, a report describing the state of behavioral and mental health of individuals who are engaged in farming, ranching, and other occupations relating to agriculture.
 
 #### (2) Contents
 
@@ -90,7 +90,7 @@ There is authorized to be appropriated to the Secretary to carry out this sectio
 
 For purposes of this section, the term "State" has the meaning given such term in section 3103 of this title.
 
-(Pub. L. 110–234, title VII, §7522, May 22, 2008, 122 Stat. 1272; Pub. L. 110–246, §4(a), title VII, §7522, June 18, 2008, 122 Stat. 1664, 2033; Pub. L. 115–334, title VII, §7412, Dec. 20, 2018, 132 Stat. 4817.)
+(Pub. L. 110–234, title VII, §7522, May 22, 2008, 122 Stat. 1272; Pub. L. 110–246, §4(a), title VII, §7522,June 18, 2008, 122 Stat. 1664, 2033; Pub. L. 115–334, title VII, §7412, Dec. 20, 2018, 132 Stat. 4817.)
 
 #### <b>Editorial Notes</b>
 
@@ -160,7 +160,7 @@ Employee Training Program to Manage Farmer and Rancher Stress.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the date of enactment of this subsection \[Jan. 1, 2021\], theSecretary of Agriculture shall expand the pilot program carried out by the Secretary of Agriculture in fiscal year 2019 that trained employees of the Farm Service Agency in the management of stress experienced by farmers and ranchers, to train employees of the Farm Service Agency, the Risk Management Agency, and the Natural Resources Conservation Service in the management of stress experienced by farmers and ranchers, including the detection of stress and suicide prevention.
+In general.—Not later than 180 days after the date of enactment of this subsection \[Jan. 1, 2021\], the Secretary of Agriculture shall expand the pilot program carried out by the Secretary of Agriculture in fiscal year 2019 that trained employees of the Farm Service Agency in the management of stress experienced by farmers and ranchers, to train employees of the Farm Service Agency, the Risk Management Agency, and the Natural Resources Conservation Service in the management of stress experienced by farmers and ranchers, including the detection of stress and suicide prevention.
 
 &emsp;"(2)
 

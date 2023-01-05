@@ -42,7 +42,7 @@
 | [390\.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390%20-%20Definitions.md) | Definitions. |
 | [390a.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390a%20-%20Review%20process.md) | Review process. |
 | [390b.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390b%20-%20Competitive%20grant%20program.md) | Competitive grant program. |
-| [390c.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390c%20-%20Applicability%20of%20Federal%20Advisory%20Committee%20Act.md) | Applicability of Federal Advisory Committee Act. |
+| [390c.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390c%20-%20Applicability%20of%20chapter%2010%20of%20title%205.md) | Applicability of chapter 10 of title 5. |
 | [390d.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

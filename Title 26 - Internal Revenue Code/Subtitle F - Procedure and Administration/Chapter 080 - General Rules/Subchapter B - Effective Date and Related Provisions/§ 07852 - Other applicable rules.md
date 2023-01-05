@@ -32,7 +32,7 @@ The provisions of subsections (d)(2), (3), and (4), and (g) of section 552a of t
 
 #### References in Text
 
-The Internal Revenue Code of 1939, referred to in subsec. (b), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
+The Internal Revenue Code of 1939, referred to in subsec. (b), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to theenactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
 
 Chapters 1 and 2 of the Internal Revenue Code of 1939, referred to in subsec. (c), are chapters 1 and 2 of former Title 26, Internal Revenue Code. For history of such chapters, see References in Text note set out under section 7851 of this title.
 
@@ -48,7 +48,7 @@ The Privacy Act of 1974, referred to in subsec. (e), is Pub. L. 93–579, Dec. 3
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1012(aa)(1)(B), Nov. 10, 1988, 102 Stat. 3531, provided that: "Section 7852(d)(1) of the1986 Code, as added by subparagraph (A), shall apply to any taxable period with respect to which the time for assessment of any deficiency has not expired by reason of any law or rule of law before the date of the enactment of this Act \[Nov. 10, 1988\]."
+Pub. L. 100–647, title I, §1012(aa)(1)(B), Nov. 10, 1988, 102 Stat. 3531, provided that: "Section 7852(d)(1) of the 1986 Code, as added by subparagraph (A), shall apply to any taxable period with respect to which the time for assessment of any deficiency has not expired by reason of any law or rule of law before the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

@@ -48,7 +48,7 @@ The following items shall not be included in gross income of a nonresident alien
 
 &emsp;To the extent provided in regulations, a possession of the United States shall be treated as a foreign country for purposes of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 280; Pub. L. 87–256, §110(c), Sept. 21, 1961, 75 Stat. 536; Pub. L. 89–809, title I, §103(b), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 99–514, title XII, §1212(c)(1), (2), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(2)(B), (5), (s)(2)(A), Nov. 10, 1988, 102 Stat. 3500, 3527; Pub. L. 101–239, title VII, §7811(i)(8)(C), Dec. 19, 1989, 103 Stat. 2411; Pub. L.103–296, title III, §320(a)(2), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 108–357, title IV, §419(a), Oct. 22, 2004, 118 Stat. 1513.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 280; Pub. L. 87–256, §110(c), Sept. 21, 1961, 75 Stat. 536; Pub. L. 89–809, title I, §103(b), Nov. 13, 1966, 80 Stat. 1550; Pub. L. 99–514, title XII, §1212(c)(1), (2), Oct. 22, 1986, 100 Stat. 2538; Pub. L. 100–647, title I, §1012(e)(2)(B), (5), (s)(2)(A), Nov. 10, 1988, 102 Stat. 3500, 3527; Pub. L. 101–239, title VII, §7811(i)(8)(C), Dec. 19, 1989, 103 Stat. 2411; Pub. L. 103–296, title III, §320(a)(2), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 108–357, title IV, §419(a), Oct. 22, 2004, 118 Stat. 1513.)
 
 #### <b>Editorial Notes</b>
 
@@ -90,7 +90,7 @@ Pub. L. 108–357, title IV, §419(c), Oct. 22, 2004, 118 Stat. 1513, provided t
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective with calendar quarter following Aug. 15, 1994, see section 320(c) of Pub. L. 103–296, set out as a note under section 871 of this title.
+Amendment by Pub. L. 103–296 effective with calendar quarter following Aug. 15, 1994, see section 320(c) ofPub. L. 103–296, set out as a note under section 871 of this title.
 
 #### Effective Date of 1989 Amendment
 

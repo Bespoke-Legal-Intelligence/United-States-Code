@@ -18,7 +18,7 @@ Each district of the Corps of Engineers shall, using the authority of the Secret
 
 #### (c) Under-budget projects
 
-In the case of a water resources development project carried out by the Secretary that iscompleted at a cost less than the estimated cost, the Secretary shall transfer any excess non-Federal funds to the non-Federal interest in accordance with the cost-share requirement applicable to the project.
+In the case of a water resources development project carried out by the Secretary that is completed at a cost less than the estimated cost, the Secretary shall transfer any excess non-Federal funds to the non-Federal interest in accordance with the cost-share requirement applicable to the project.
 
 (Pub. L. 115–270, title I, §1120, Oct. 23, 2018, 132 Stat. 3777.)
 

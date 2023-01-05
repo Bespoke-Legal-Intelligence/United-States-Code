@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster, or any area affected by a fire for which assistance was provided under section 5187 of this title. Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title, the total of contributions under this section for a major disaster or event under section 5187 of this title shall not exceed 15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster or event under section 5187 of this title.
+The President may contribute up to 75 percent of the cost of hazard mitigation measures which the President has determined are cost effective and which substantially reduce the risk of, or increase resilience to, future damage, hardship, loss, or suffering in any area affected by a major disaster, or any area affected by a fire for which assistance was provided under section 5187 of this title. Such measures shall be identified following the evaluation of natural hazards under section 5165 of this title and shall be subject to approval by the President. Subject to section 5165 of this title, the total of contributions under this section for a major disaster or event under section 5187 of this title shall not exceed15 percent for amounts not more than $2,000,000,000, 10 percent for amounts of more than $2,000,000,000 and not more than $10,000,000,000, and 7.5 percent on amounts of more than $10,000,000,000 and not more than $35,333,000,000 of the estimated aggregate amount of grants to be made (less any associated administrative costs) under this chapter with respect to the major disaster or event under section 5187 of this title.
 
 #### (b) Property acquisition and relocation assistance
 
@@ -197,6 +197,90 @@ Pub. L. 103–181, §2(b), Dec. 3, 1993, 107 Stat. 2054, provided that: "The ame
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Hazard Eligibility and Local Projects
+
+Pub. L. 117–332, Jan. 5, 2023, 136 Stat. 6119, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Hazard Eligibility and Local Projects Act'.
+
+#### "SEC. 2. AUTHORITY TO BEGIN IMPLEMENTATION OF ACQUISITION AND DEMOLITION ASSISTANCE PROJECTS.
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator' means the Administrator of the Federal Emergency Management Agency.
+
+&emsp;"(2)
+
+Covered project.—The term 'covered project' means a project that—
+
+&emsp;&emsp;"(A) is an acquisition and demolition project for which an entity began implementation, including planning or construction, before or after requesting assistance for the project under a hazard mitigation assistance program; and
+
+&emsp;&emsp;"(B) qualifies for a categorical exclusion under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+&emsp;"(3)
+
+Hazard mitigation assistance program.—The term 'hazard mitigation assistance program' means—
+
+&emsp;&emsp;"(A) any grant program authorized under section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133);
+
+&emsp;&emsp;"(B) the hazard mitigation grant program authorized under section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170c); and
+
+&emsp;&emsp;"(C) the flood mitigation assistance program authorized under section 1366 of the National Flood Insurance Act of 1968 (42 U.S.C. 4104c).
+
+"(b)
+
+Eligibility for Assistance for Covered Projects.—
+
+&emsp;"(1)
+
+In general.—An entity seeking assistance under a hazard mitigation assistance program may be eligible to receive that assistance for a covered project if—
+
+&emsp;&emsp;"(A) the entity—
+
+&emsp;&emsp;&emsp;"(i) complies with all other eligibility requirements of the hazard mitigation assistance program for acquisition or demolition projects, including extinguishing all incompatible encumbrances; and
+
+&emsp;&emsp;&emsp;"(ii) complies with all Federal requirements for the covered project; and
+
+&emsp;&emsp;"(B) the Administrator determines that the covered project—
+
+&emsp;&emsp;&emsp;"(i) qualifies for a categorical exclusion under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
+
+&emsp;&emsp;&emsp;"(ii) is compliant with applicable floodplain management and protection of wetland regulations and criteria; and
+
+&emsp;&emsp;&emsp;"(iii) does not require consultation under any other environmental or historic preservation law or regulation or involve any extraordinary circumstances.
+
+&emsp;"(2)
+
+Costs incurred.—An entity seeking assistance under a hazard mitigation assistance program shallbe responsible for any project costs incurred by the entity for a covered project if the covered project is not awarded, or is determined to be ineligible for, assistance.
+
+"(c)
+
+Applicability.—This Act shall apply to covered projects started on or after the date of enactment of this Act \[Jan. 5, 2023\].
+
+"(d)
+
+Report.—Not later than 180 days after the date of enactment of this Act, and annually thereafter for 3 years, the Administrator shall submit to Congress a report on use of the authority under this Act, including—
+
+&emsp;"(1) how many applicants used the authority;
+
+&emsp;"(2) how many applicants using the authority successfully obtained a grant;
+
+&emsp;"(3) how many applicants were not able to successfully obtain a grant;
+
+&emsp;"(4) the reasons applicants were not able to obtain a grant; and
+
+&emsp;"(5) the extent to which applicants using the authority were able to comply with all necessary Federal environmental, historic preservation, and other related laws and regulations.
+
+"(e)
+
+Termination.—The authority provided under this Act shall cease to be effective on the date that is 3 years after the date of enactment of this Act."
 
 #### Wage Rate Requirements
 

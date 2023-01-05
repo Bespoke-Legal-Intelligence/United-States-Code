@@ -16,11 +16,19 @@ Periodic Review.—(1) The Chairman periodically (and not less often than every 
 
 &emsp;(B) recommend to the President, through the Secretary of Defense, any changes to such missions, responsibilities, and force structures as may be necessary.
 
-(2) Except during time of hostilities or imminent threat of hostilities, the President shall notify Congress not more than 60 days after—
+(2) Except during time of hostilities or imminent threat of hostilities, the President shall—
 
-&emsp;(A) establishing a new combatant command; or
+&emsp;(A) not more than 60 days after establishing a new combatant command—
 
-&emsp;(B) significantly revising the missions, responsibilities, or force structure of an existing combatant command.
+&emsp;&emsp;(i) notify Congress of the establishment of such command; and
+
+&emsp;&emsp;(ii) provide to Congress a briefing on the establishment of such command; and
+
+&emsp;(B) not more than 60 days after significantly revising the missions, responsibilities, or force structure of an existing combatant command—
+
+&emsp;&emsp;(i) notify Congress of such revisions; and
+
+&emsp;&emsp;(ii) provide to Congress a briefing on such revisions.
 
 (c)
 
@@ -32,13 +40,93 @@ Definitions.—In this chapter:
 
 &emsp;(3) The term "combatant command" means a unified combatant command or a specified combatant command.
 
-(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012.)
+(Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012; amended Pub. L. 117–263, div. A, title IX, §912, Dec. 23, 2022, 136 Stat. 2751.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(2). Pub. L. 117–263 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Except during time of hostilities or imminent threat of hostilities, the President shall notify Congress not more than 60 days after—
+
+&emsp;"(A) establishing a new combatant command; or
+
+&emsp;"(B) significantly revising the missions, responsibilities, or force structure of an existing combatant command."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
 Pub. L. 115–232, div. A, title XII, §1251(a), Aug. 13, 2018, 132 Stat. 2053, provided that: "The combatant command known as the United States Pacific Command shall be known as the 'United States Indo-Pacific Command'. Any reference to the United States Pacific Command in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the United States Indo-Pacific Command."
+
+#### Establishment of Joint Force Headquarters in Area of Operations of United States Indo-Pacific Command
+
+Pub. L. 117–263, div. A, title X, §1087, Dec. 23, 2022, 136 Stat. 2802, provided that:
+
+"(a)
+
+Establishment.—Not later than October 1, 2024, the Secretary of Defense shall establish a joint force headquarters in the area of operations of United States Indo-Pacific Command, in accordance with the implementation plan required under subsection (b).
+
+"(b)
+
+Implementation Plan and Establishment of Joint Force Headquarters.—
+
+&emsp;"(1)
+
+Implementation plan.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an implementation plan for the establishment of a joint force headquarters in the area of operations of United States Indo-Pacific Command to serve as an operational command. Such plan shall include—
+
+&emsp;&emsp;"(A) the integration of joint all domain command and control effects chains and mission command and control, including in conflicts that arise with minimal warning;
+
+&emsp;&emsp;"(B) the integration of the capabilities of Assault Breaker II, developed by the Defense Advanced Research Projects Agency, and related developmental efforts as they transition to operational deployment;
+
+&emsp;&emsp;"(C) the exercise of other joint all domain command and control capabilities and functions; and
+
+&emsp;&emsp;"(D) such other missions and operational tasks as the Secretary determines appropriate.
+
+&emsp;"(2)
+
+Elements.—The plan required by paragraph (1) shall include each of the following with respect to the joint force headquarters to be established:
+
+&emsp;&emsp;"(A) A description of the operational chain of command.
+
+&emsp;&emsp;"(B) An identification of the manning and resourcing required, relative to assigned missions, particularly the sources of personnel required.
+
+&emsp;&emsp;"(C) A description of the mission and lines of effort.
+
+&emsp;&emsp;"(D) A description of the relationship with existing entities in United States Indo-Pacific Command, including an assessment of complementary and duplicative activities with such entities and the joint force headquarters.
+
+&emsp;&emsp;"(E) An identification of supporting infrastructure required.
+
+&emsp;&emsp;"(F) Such other matters as the Secretary considers appropriate.
+
+"(c)
+
+Support for Joint Force Headquarters.—The commander of the joint force headquarters established under this section shall be supported by the United States Indo-Pacific Command subordinate unified commands, subordinate component commands, standing joint task force, and the Armed Forces.
+
+"(d)
+
+Annual Report Required.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after the date of the establishment of the joint force headquarters required under subsection (a), and not less frequently than once each year thereafter until December 31, 2028, the Secretary of Defense shall submit to the congressional defense committees an annual report on the joint force headquarters established under this section.
+
+&emsp;"(2)
+
+Contents.—Each report submitted under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) A description of the mission and lines of effort of the joint force headquarters.
+
+&emsp;&emsp;"(B) An accounting of the personnel and other resources supporting the joint force headquarters, including support external to the headquarters.
+
+&emsp;&emsp;"(C) A description of the operational chain of command of the joint force headquarters.
+
+&emsp;&emsp;"(D) An assessment of the manning and resourcing of the joint force headquarters, relative to assigned missions.
+
+&emsp;&emsp;"(E) A description of the relationship with existing entities in Indo-Pacific Command, including an assessment of complementary and duplicative activities with such entities and the joint force headquarters.
+
+&emsp;"(3)
+
+Form.—Each report submitted under paragraph (1) shall be submitted in unclassified form, but may include a classified annex."
 
 #### Matters To Be Considered in Next Assessment of Current Missions, Responsibilities, and Force Structure of Unified Combatant Commands
 

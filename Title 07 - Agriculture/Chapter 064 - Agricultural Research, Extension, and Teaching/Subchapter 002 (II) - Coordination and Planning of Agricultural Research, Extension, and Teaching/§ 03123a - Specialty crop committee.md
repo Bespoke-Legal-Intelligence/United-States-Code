@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 90 days after December 21, 2004, the executive committee of the AdvisoryBoard shall establish, and appoint the initial members of, a permanent specialty crops committee that will be responsible for studying the scope and effectiveness of research, extension, and economics programs affecting the specialty crop industry.
+&emsp;Not later than 90 days after December 21, 2004, the executive committee of the Advisory Board shall establish, and appoint the initial members of, a permanent specialty crops committee that will be responsible for studying the scope and effectiveness of research, extension, and economics programs affecting the specialty crop industry.
 
 #### (2) Citrus disease subcommittee
 
@@ -30,9 +30,9 @@
 
 &emsp;&emsp;The subcommittee established under subparagraph (A) shall terminate on September 30, 2023.
 
-#### (E) Federal Advisory Committee Act
+#### (E) Chapter 10 of title 5
 
-&emsp;&emsp;The subcommittee established under subparagraph (A) shall be covered by the exemption to section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.) applicable to the Advisory Board under section 3123(f) of this title.
+&emsp;&emsp;The subcommittee established under subparagraph (A) shall be covered by the exemption to section 1008(c) of title 5 applicable to the Advisory Board under section 3123(f) of this title.
 
 #### (b) Members
 
@@ -114,13 +114,9 @@ For the purposes of subsection (j) of section 7632 of this title, the citrus dis
 
 &emsp;&emsp;(D) providing the Secretary with such information and advice as the Secretary may request.
 
-(Pub. L. 95–113, title XIV, §1408A, as added Pub. L. 108–465, title III, §303, Dec. 21, 2004, 118 Stat. 3885; amended Pub. L. 110–234, title VII, §7103, May 22, 2008, 122 Stat. 1215; Pub. L. 110–246, §4(a), title VII, §7103, June 18, 2008, 122 Stat. 1664, 1976; Pub. L. 113–79, title VII, §7103, Feb. 7, 2014, 128 Stat. 864; Pub. L. 115–334, title VII, §7104, Dec. 20, 2018, 132 Stat. 4783.)
+(Pub. L. 95–113, title XIV, §1408A, as added Pub. L. 108–465, title III, §303, Dec. 21, 2004, 118 Stat. 3885; amended Pub. L. 110–234, title VII, §7103, May 22, 2008, 122 Stat. 1215; Pub. L. 110–246, §4(a), title VII, §7103, June 18, 2008, 122 Stat. 1664, 1976; Pub. L. 113–79, title VII, §7103, Feb. 7, 2014, 128 Stat. 864; Pub. L. 115–334, title VII, §7104, Dec. 20, 2018, 132 Stat. 4783; Pub. L. 117–286, §4(a)(32), Dec. 27, 2022, 136 Stat. 4308.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-Section 9 of the Federal Advisory Committee Act, referred to in subsec. (a)(2)(E), is section 9 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -131,6 +127,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 3123a, Pub. L. 95–113, title XIV, §1408A, as added Pub. L. 101–624, title XVI, §1605(a), Nov. 28, 1990, 104 Stat. 3711; amended Pub. L. 102–237, title IV, §402(3), (4), Dec. 13, 1991, 105 Stat. 1863, related to establishment of Agricultural Science and Technology Review Board, prior to repeal by Pub. L. 104–127, title VIII, §853(a), Apr. 4, 1996, 110 Stat. 1172.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2)(E). Pub. L. 117–286 substituted "Chapter 10 of title 5" for "Federal Advisory Committee Act" in heading and "section 1008(c) of title 5" for "section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2018</b>—Subsec. (a)(2)(A). Pub. L. 115–334, §7104(1), substituted "specialty" for "speciality".
 

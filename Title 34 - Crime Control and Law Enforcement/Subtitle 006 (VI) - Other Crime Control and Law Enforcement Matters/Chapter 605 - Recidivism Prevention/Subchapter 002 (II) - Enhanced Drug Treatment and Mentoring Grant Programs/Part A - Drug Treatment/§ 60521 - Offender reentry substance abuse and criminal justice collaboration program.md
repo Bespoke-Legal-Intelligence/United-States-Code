@@ -42,7 +42,7 @@ A grant made under subsection (a) may be used—
 
 &emsp;&emsp;(D) describe how evidence-based strategies have been incorporated into such drug treatment program; and
 
-&emsp;&emsp;(E) describe how data will be collected and analyzed to determine the effectiveness ofsuch drug treatment program and describe how randomized trials will be used where practicable.
+&emsp;&emsp;(E) describe how data will be collected and analyzed to determine the effectiveness of such drug treatment program and describe how randomized trials will be used where practicable.
 
 #### (d) Reports to Congress
 

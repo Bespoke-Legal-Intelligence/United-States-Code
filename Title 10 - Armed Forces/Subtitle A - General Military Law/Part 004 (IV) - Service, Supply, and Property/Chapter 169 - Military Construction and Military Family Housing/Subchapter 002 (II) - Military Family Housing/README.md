@@ -19,7 +19,7 @@
 | [2835\.](%C2%A7%2002835%20-%20Long-term%20leasing%20of%20military%20family%20housing%20to%20be%20constructed.md) | Long-term leasing of military family housing to be constructed. |
 | [2835a.](%C2%A7%2002835a%20-%20Use%20of%20military%20family%20housing%20constructed%20under%20build%20and%20lease%20authority%20to%20house%20other%20members.md) | Use of military family housing constructed under build and lease authority to house other members. |
 | [2836\.](%C2%A7%2002836%20-%20Military%20housing%20rental%20guarantee%20program.md) | Military housing rental guarantee program. |
-| \[2837. | Repealed.\] |
+| [2837\.](%C2%A7%2002837%20-%20Housing%20Requirements%20and%20Market%20Analysis.md) | Housing Requirements and Market Analysis. |
 | [2838\.](%C2%A7%2002838%20-%20Leasing%20of%20military%20family%20housing%20to%20Secretary%20of%20Defense.md) | Leasing of military family housing to Secretary of Defense. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,6 +27,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. B, title XXVIII, §2821(a), Dec. 23, 2022, 136 Stat. 2999, added item 2837. Amendment was made pursuant to operation of section 102 of this title.
 
 <b>2021</b>—Pub. L. 116–283, div. B, title XXVIII, §2812(b), Jan. 1, 2021, 134 Stat. 4327, struck out item 2830 "Occupancy of substandard family housing units".
 
@@ -66,5 +68,5 @@
 - [&sect; 02835 - Long-term leasing of military family housing to be constructed](%C2%A7%2002835%20-%20Long-term%20leasing%20of%20military%20family%20housing%20to%20be%20constructed.md)
 - [&sect; 02835a - Use of military family housing constructed under build and lease authority to house other members](%C2%A7%2002835a%20-%20Use%20of%20military%20family%20housing%20constructed%20under%20build%20and%20lease%20authority%20to%20house%20other%20members.md)
 - [&sect; 02836 - Military housing rental guarantee program](%C2%A7%2002836%20-%20Military%20housing%20rental%20guarantee%20program.md)
-- [&sect; 02837 - Repealed. Pub. L. 113&#8211;66, div. B, title XXVIII, &sect;2802(a)(1), Dec. 26, 2013, 127 Stat. 1006](%C2%A7%2002837%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9366%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72802%28a%29%281%29%2C%20Dec.%2026%2C%202013%2C%20127%20Stat.%201006.md)
+- [&sect; 02837 - Housing Requirements and Market Analysis](%C2%A7%2002837%20-%20Housing%20Requirements%20and%20Market%20Analysis.md)
 - [&sect; 02838 - Leasing of military family housing to Secretary of Defense](%C2%A7%2002838%20-%20Leasing%20of%20military%20family%20housing%20to%20Secretary%20of%20Defense.md)

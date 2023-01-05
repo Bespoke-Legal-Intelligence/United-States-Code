@@ -46,7 +46,7 @@ A prior section 5731, acts Aug. 16, 1954, ch. 736, 68A Stat. 714; Sept. 2, 1958,
 
 #### Effective Date of 2005 Amendment
 
-Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods beforesuch date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
+Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
 
 #### Effective Date
 

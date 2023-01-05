@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each State may use funds made available to the State to carry out sections 2295 through 2298 of this title to allow an adversely affected worker covered by a certification issued under subpart A of this part to file an application with the Secretary for payment of a job search allowance.
+&emsp;An adversely affected worker covered by a certification issued under subpart A of thispart may file an application with the Secretary for payment of a job search allowance.
 
 #### (2) Approval of applications
 
@@ -28,13 +28,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the 365th day after the date of the worker's last total separation; or
 
-&emsp;&emsp;&emsp;(ii) the date that is the 182d day after the date on which the worker concluded training.
+&emsp;&emsp;&emsp;(ii) the date that is the 182d day after the date on which the worker concluded training, unless the worker received a waiver under section 2291(c) of this title.
 
 #### (b) Amount of allowance
 
 #### (1) In general
 
-&emsp;Any allowance granted under subsection (a) shall provide reimbursement to the worker of not more than 90 percent of the necessary job search expenses of the worker as prescribed by the Secretary in regulations.
+&emsp;An allowance granted under subsection (a) shall provide reimbursement to the worker of 90 percent of the cost of necessary job search expenses as prescribed by the Secretary in regulations.
 
 #### (2) Maximum allowance
 
@@ -42,23 +42,25 @@
 
 #### (3) Allowance for subsistence and transportation
 
-&emsp;Reimbursement under this subsection may not be made for subsistence and transportation expenses at levels exceeding those allowable under section 2296(b) (1) and (2) of this title.
+&emsp;Reimbursement under this subsection may not be made for subsistence and transportation expenses at levels exceeding those allowable under section 2296(b)(1) and (2) of this title.
 
 #### (c) Exception
 
-Notwithstanding subsection (b), a State may reimburse any adversely affected worker for necessary expenses incurred by the worker in participating in a job search program approved by the Secretary.
+Notwithstanding subsection (b), the Secretary shall reimburse any adversely affected worker for necessary expenses incurred by the worker in participating in a job search program approved by the Secretary.
 
 (Pub. L. 93–618, title II, §237, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2507, Aug. 13, 1981, 95 Stat. 886; Pub. L. 98–369, div. B, title VI, §2672(a), July 18, 1984, 98 Stat. 1172; Pub. L. 99–272, title XIII, §13005(a), Apr. 7, 1986, 100 Stat. 303; Pub. L. 107–210, div. A, title I, §121, Aug. 6, 2002, 116 Stat. 942; Pub. L. 111–5, div. B, title I, §1833(a), Feb. 17, 2009, 123 Stat. 386; Pub. L. 112–40, title II, §§201(b), (c), 214(d), Oct. 21, 2011, 125 Stat. 403, 406; Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
-#### Reversion to Provisions in Effect on January 1, 2014
+#### Termination of Assistance
 
-<i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+<i>For termination of assistance under this part after June 30, 2022, see Termination Date note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Codification
 
-Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
+Section reflects the July 1, 2021, reversion to provisions in effect on Jan. 1, 2014. See Effective and Termination Dates of 2015 Revival note below.
+
+Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
 
 Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of amendment by Pub. L. 111–5, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and the provisions of this section, as amended by Pub. L. 111–5 and as in effect on Feb. 12, 2011, were temporarily revived, effective Oct. 21, 2011, until Jan. 1, 2014, by Pub. L. 112–40, §§201(b), (c), 233. See 2009 and 2011 Amendment notes, Effective and Termination Dates of 2009 Amendment notes, and Effective and Termination Dates of 2011 Revival notes below.
 
@@ -124,5 +126,5 @@ Amendment by Pub. L. 97–35 effective for determinations made or filed after Se
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after June 30, 2022, except as otherwise provided, see section 285 of Pub. L. 93–618, as modified by section 406(a)(7) of Pub. L. 114–27, set out as notes preceding section 2271 of this title.
 

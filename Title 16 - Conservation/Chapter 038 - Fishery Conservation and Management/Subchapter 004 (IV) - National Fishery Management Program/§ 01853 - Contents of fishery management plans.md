@@ -30,7 +30,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;(7) describe and identify essential fish habitat for the fishery based on the guidelines established by the Secretary under section 1855(b)(1)(A) of this title, minimize to the extent practicable adverse effects on such habitat caused by fishing, and identify other actions to encourage the conservation and enhancement of such habitat;
 
-&emsp;(8) in the case of a fishery management plan that, after January 1, 1991, is submitted to theSecretary for review under section 1854(a) of this title (including any plan for which an amendment is submitted to the Secretary for such review) or is prepared by the Secretary, assess and specify the nature and extent of scientific data which is needed for effective implementation of the plan;
+&emsp;(8) in the case of a fishery management plan that, after January 1, 1991, is submitted to the Secretary for review under section 1854(a) of this title (including any plan for which an amendment is submitted to the Secretary for such review) or is prepared by the Secretary, assess and specify the nature and extent of scientific data which is needed for effective implementation of the plan;
 
 &emsp;(9) include a fishery impact statement for the plan or amendment (in the case of a plan or amendment thereto submitted to or prepared by the Secretary after October 1, 1990) which shall assess, specify, and analyze the likely effects, if any, including the cumulative conservation, economic, and social impacts, of the conservation and management measures on, and possible mitigation measures for—
 
@@ -86,7 +86,7 @@ Any fishery management plan which is prepared by any Council, or by the Secretar
 
 &emsp;&emsp;(A) catch of fish (based on area, species, size, number, weight, sex, bycatch, total biomass, or other factors);
 
-&emsp;&emsp;(B) sale of fish caught during commercial, recreational, or charter fishing, consistentwith any applicable Federal and State safety and quality requirements; and
+&emsp;&emsp;(B) sale of fish caught during commercial, recreational, or charter fishing, consistent with any applicable Federal and State safety and quality requirements; and
 
 &emsp;&emsp;(C) transshipment or transportation of fish or fish products under permits issued pursuant to section 1824 of this title;
 
@@ -142,7 +142,7 @@ Proposed regulations which the Council deems necessary or appropriate for the pu
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1)(C), (5) and (b)(2)(C), (4), (5), (10), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1)(C), (5) and (b)(2)(C), (4), (5), (10), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
@@ -206,7 +206,7 @@ Subsec. (b)(10) to (12). Pub. L. 104–297, §108(c)(5)–(7), added pars. (10) 
 
 Subsec. (c). Pub. L. 104–297, §108(d), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "The proposed regulations which the Council deems necessary or appropriate for purposes of carrying out a plan or amendment to a plan shall be submitted to the Secretary simultaneously with the plan or amendment for action by the Secretary under sections 1854 and 1855 of this title."
 
-Subsecs. (d) to (f). Pub. L. 104–297, §108(e), added subsec. (d) and struck out former subsecs. (d) relating to confidentiality of statistics, (e) relating to data collection programs, and (f) relating to restriction on use of certain data.
+Subsecs. (d) to (f). Pub. L. 104–297, §108(e), added subsec. (d) and struck out former subsecs. (d) relating toconfidentiality of statistics, (e) relating to data collection programs, and (f) relating to restriction on use of certain data.
 
 <b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–627, §109(a)(1), inserted before semicolon at end ", to prevent overfishing, and to protect, restore, and promote the long-term health and stability of the fishery".
 

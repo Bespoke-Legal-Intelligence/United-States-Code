@@ -40,7 +40,7 @@
 
 #### (A) Property treated as received in redemption
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, subsection (a) (and not section 351and not so much of sections 357 and 358 as relates to section 351) shall apply to any property received in a distribution described in subsection (a).
+&emsp;&emsp;Except as otherwise provided in this paragraph, subsection (a) (and not section 351 and not so much of sections 357 and 358 as relates to section 351) shall apply to any property received in a distribution described in subsection (a).
 
 #### (B) Certain assumptions of liability, etc.
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;In the case of any acquisition to which subsection (a) applies in which the acquiring corporation is a foreign corporation, the only earnings and profits taken into account under paragraph (2)(A) shall be those earnings and profits—
 
-&emsp;&emsp;&emsp;(i) which are attributable (under regulations prescribed by the Secretary) to stock of the acquiring corporation owned (within the meaning of section 958(a)) by a corporation or individual which is—
+&emsp;&emsp;&emsp;(i) which are attributable (under regulations prescribed by the Secretary) to stock of the acquiring corporation owned (withinthe meaning of section 958(a)) by a corporation or individual which is—
 
 &emsp;&emsp;&emsp;&emsp;(I) a United States shareholder (within the meaning of section 951(b)) of the acquiring corporation, and
 
@@ -196,7 +196,7 @@ Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (b)
 
 <b>2014</b>—Subsec. (b)(3)(D). Pub. L. 113–295, §221(a)(48)(B), struck out "and special rule" after "Definitions" in heading.
 
-Subsec. (b)(3)(D)(iii). Pub. L. 113–295, §221(a)(48)(A), struck out cl. (iii). Text read as follows: "In the case of a BHC which is formed before 1985, clause (i) of subparagraph (C) shall not apply."
+Subsec. (b)(3)(D)(iii). Pub. L. 113–295, §221(a)(48)(A), struck out cl. (iii). Text read as follows: "In the case ofa BHC which is formed before 1985, clause (i) of subparagraph (C) shall not apply."
 
 <b>2010</b>—Subsec. (b)(5)(B), (C). Pub. L. 111–226 added subpar. (B) and redesignated former subpar. (B) as (C).
 

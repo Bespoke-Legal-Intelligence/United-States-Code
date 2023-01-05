@@ -146,7 +146,7 @@ Nothing in this section—
 
 #### (2) Activities outside National Conservation Area
 
-&emsp;The fact that an authorized activity or use on land outside the National ConservationArea can be seen or heard within the National Conservation Area shall not preclude the activity or use outside the boundary of the Area.
+&emsp;The fact that an authorized activity or use on land outside the National Conservation Area can be seen or heard within the National Conservation Area shall not preclude the activity or use outside the boundary of the Area.
 
 #### (o) Withdrawal
 

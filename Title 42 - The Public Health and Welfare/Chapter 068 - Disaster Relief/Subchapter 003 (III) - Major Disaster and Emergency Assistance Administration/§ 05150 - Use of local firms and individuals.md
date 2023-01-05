@@ -42,7 +42,7 @@ This chapter, referred to in subsec. (a)(2), was in the original "this Act", mea
 
 #### Prior Provisions
 
-A prior section 5150, Pub. L. 93–288, title III, §307, formerly §310, May 22, 1974, 88 Stat. 150; renumbered §307and amended Pub. L. 100–707, title I, §105(e), Nov. 23, 1988, 102 Stat. 4691; Pub. L. 109–218, §2, Apr. 20, 2006, 120 Stat. 333, provided for the use of local firms and individuals for major disaster or emergency assistance activities, prior to repeal by Pub. L. 109–295, title VI, §694, Oct. 4, 2006, 120 Stat. 1459.
+A prior section 5150, Pub. L. 93–288, title III, §307, formerly §310, May 22, 1974, 88 Stat. 150; renumbered §307 and amended Pub. L. 100–707, title I, §105(e), Nov. 23, 1988, 102 Stat. 4691; Pub. L. 109–218, §2, Apr. 20, 2006, 120 Stat. 333, provided for the use of local firms and individuals for major disaster or emergency assistance activities, prior to repeal by Pub. L. 109–295, title VI, §694, Oct. 4, 2006, 120 Stat. 1459.
 
 A prior section 307 of Pub. L. 93–288 was renumbered section 304 by Pub. L. 100–707 and is classified to section 5147 of this title.
 

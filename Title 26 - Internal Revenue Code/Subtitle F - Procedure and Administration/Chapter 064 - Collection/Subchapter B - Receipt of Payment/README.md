@@ -8,7 +8,7 @@
 | [6314\.](%C2%A7%2006314%20-%20Receipt%20for%20taxes.md) | Receipt for taxes. |
 | [6315\.](%C2%A7%2006315%20-%20Payments%20of%20estimated%20income%20tax.md) | Payments of estimated income tax. |
 | [6316\.](%C2%A7%2006316%20-%20Payment%20by%20foreign%20currency.md) | Payment by foreign currency. |
-| [6317\.](%C2%A7%2006317%20-%20Payments%20of%20Federal%20unemployment%20tax%20for%20calendar%20quarter.md) | Payments of Federal unemployment tax for calendar quarter.<br> |
+| [6317\.](%C2%A7%2006317%20-%20Payments%20of%20Federal%20unemployment%20tax%20for%20calendar%20quarter.md) | Payments of Federal unemployment tax for calendar quarter. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

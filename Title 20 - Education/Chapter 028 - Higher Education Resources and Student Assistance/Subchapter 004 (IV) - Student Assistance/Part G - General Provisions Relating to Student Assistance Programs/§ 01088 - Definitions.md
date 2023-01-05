@@ -22,7 +22,7 @@
 
 (1) For purposes of this subchapter, the term "eligible program" means a program of at least—
 
-&emsp;(A) 600 clock hours of instruction, 16 semester hours, or 24 quarter hours, offered during a minimum of 15 weeks, in the case of a program that—
+&emsp;(A) 600 clock hours of instruction, 16 semester hours, or 24 quarter hours, offered during aminimum of 15 weeks, in the case of a program that—
 
 &emsp;&emsp;(i) provides a program of training to prepare students for gainful employment in a recognized profession; and
 
@@ -90,7 +90,7 @@ For purposes of parts B, D, and E of this subchapter:
 
 #### (e) Consumer reporting agency
 
-For purposes of this subchapter, the term "consumer reporting agency" has the meaning given the term "consumer reporting agency that compiles and maintains files on consumers on a nationwide basis" in Section <sup>1</sup> 1681a(p) of title 15.
+For purposes of this subchapter, the term "consumer reporting agency" has the meaninggiven the term "consumer reporting agency that compiles and maintains files on consumers on a nationwide basis" in Section <sup>1</sup> 1681a(p) of title 15.
 
 #### (f) Definition of educational service agency
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 102–26 applicable to any grant, loan, or work assistance 
 
 #### Effective Date of 1990 Amendment
 
-Section 3005(c) of Pub. L. 101–508, which provided that the amendments made by section 3005 (amending this section and section 1091 of this title) were to apply to any grant, loan, or work assistance to cover the cost of instruction for periods of enrollment beginning on or after Jan. 1, 1991, was repealed by section 2(d)(2)(A) of Pub. L. 102–26. See Construction of 1991 Amendment note below.
+Section 3005(c) of Pub. L. 101–508, which provided that the amendments made by section 3005 (amending this section and section 1091 of this title) were to apply toany grant, loan, or work assistance to cover the cost of instruction for periods of enrollment beginning on or after Jan. 1, 1991, was repealed by section 2(d)(2)(A) of Pub. L. 102–26. See Construction of 1991 Amendment note below.
 
 #### Effective Date of 1987 Amendment
 

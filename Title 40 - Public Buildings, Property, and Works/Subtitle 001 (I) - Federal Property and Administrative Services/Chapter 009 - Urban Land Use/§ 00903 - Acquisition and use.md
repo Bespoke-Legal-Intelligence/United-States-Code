@@ -2,7 +2,7 @@
 
 (a)
 
-Notice to Local Government.—To the extent practicable, before making a commitment to acquire real property situated in an urban area, the Administrator of General Services shall give notice of the intended acquisition and the proposed use of the property to the unit of general local government exercising zoning and land use jurisdiction. If the Administrator determines that providing advance notice wouldadversely impact the acquisition, the Administrator shall give notice of the acquisition and the proposed use of the property immediately after the property is acquired.
+Notice to Local Government.—To the extent practicable, before making a commitment to acquire real property situated in an urban area, the Administrator of General Services shall give notice of the intended acquisition and the proposed use of the property to the unit of general local government exercising zoning and land use jurisdiction. If the Administrator determines that providing advance notice would adversely impact the acquisition, the Administrator shall give notice of the acquisition and the proposed use of the property immediately after the property is acquired.
 
 (b)
 

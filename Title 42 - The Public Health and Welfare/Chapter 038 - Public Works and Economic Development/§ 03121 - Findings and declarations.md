@@ -72,7 +72,7 @@ Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: "This Act 
 
 #### Short Title of 1975 Amendments
 
-Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: "That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 ofthis title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the 'Regional Development Act of 1975'."
+Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: "That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the 'Regional Development Act of 1975'."
 
 Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: "This title \[enacting sections 3194 to 3196 of this title, amending sections 3181, 3182, 3188a, and 3192 of this title, and enacting provisions set out as note under section 3183 of this title\] may be cited as the 'Regional Action Planning Commission Improvement Act of 1975'."
 
@@ -124,7 +124,7 @@ Administration.—The Secretary of Commerce shall take such actions authorized b
 
 Pub. L. 116–260, div. D, title V, §505(c), Dec. 27, 2020, 134 Stat. 1379, provided that: "Requirements relating to non-Federal cost-share grants and cooperative agreements for the Denali Commission are waived for grants awarded in fiscal year 2020 and in subsequent years in response to economic distress directly related to the impacts of the Coronavirus Disease (COVID–19)."
 
-Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158; Pub. L. 108–199, div. B, title I, §112(d), div. E, title II, §222, Jan. 23, 2004, 118 Stat. 63, 256; Pub. L. 108–447, div. H, title V, §521, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 109–59, title I, §1960, Aug. 10, 2005, 119 Stat. 1516; Pub. L. 112–141, div. A, title I, §1520, July 6, 2012, 126 Stat. 577; Pub. L. 114–322, title IV, §5002, Dec. 16, 2016, 130 Stat. 1885; Pub. L. 117–58, div. A, title I, §11507(b), Nov. 15, 2021, 135 Stat. 586, provided that:
+Pub. L. 105–277, div. C, title III, Oct. 21, 1998, 112 Stat. 2681–637, as amended by Pub. L. 106–31, title I, §105(a), May 21, 1999, 113 Stat. 62; Pub. L. 106–113, div. B, §1000(a)(4) \[title VII, §701\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280; Pub. L. 108–7, div. A, title VII, §749, div. D, title V, §504, Feb. 20, 2003, 117 Stat. 44, 158; Pub. L. 108–199, div. B, title I, §112(d), div. E, title II, §222, Jan. 23, 2004, 118 Stat. 63, 256; Pub. L. 108–447, div. H, title V, §521, Dec. 8, 2004, 118 Stat. 3268; Pub. L. 109–59, title I, §1960, Aug. 10, 2005, 119 Stat. 1516; Pub. L. 112–141, div. A, title I, §1520, July 6, 2012, 126 Stat. 577; Pub. L. 114–322, title IV, §5002, Dec. 16, 2016, 130 Stat. 1885; Pub. L. 117–58, div. A, title I, §11507(b), Nov. 15, 2021, 135 Stat. 586; Pub. L. 117–286, §4(a)(261), (262), Dec. 27, 2022, 136 Stat. 4334, provided that:
 
 #### "SEC. 301. SHORT TITLE.
 
@@ -408,7 +408,7 @@ Rural Utilities.—In carrying out its functions under this title, the Commissio
 
 "(b)
 
-Bulk Fuels.—Funds transferred to the Commission pursuant to section 329 of the Department of Transportation and Related Agencies Appropriations Act, 1999 (section 101(g) of division A of this Act) \[43U.S.C. 1653 note\] shall be available without further appropriation and until expended. The Commission, in consultation with the Commandant of the Coast Guard, shall develop a plan to provide for the repair or replacement of bulk fuel storage tanks in Alaska that are not in compliance with applicable—
+Bulk Fuels.—Funds transferred to the Commission pursuant to section 329 of the Department of Transportation and Related Agencies Appropriations Act, 1999 (section 101(g) of division A of this Act) \[43 U.S.C. 1653 note\] shall be available without further appropriation and until expended. The Commission, in consultation with the Commandant of the Coast Guard, shall develop a plan to provide for the repair or replacement of bulk fuel storage tanks in Alaska that are not in compliance with applicable—
 
 &emsp;"(1) Federal law, including the Oil Pollution Act of 1990 (104 Stat. 484) \[33 U.S.C. 2701 et seq.\]; or
 
@@ -426,9 +426,9 @@ Solid Waste.—The Secretary of Agriculture is authorized to make direct lump su
 
 Docks, Waterfront Transportation Development, and Related Infrastructure Projects.—The Secretary of Transportation is authorized to make direct lump sum payments to the Commission to construct docks, waterfront development projects, and related transportation infrastructure, provided the local community provides a ten percent non-Federal match in the form of any necessary land or planning and design funds. To carry out this section, there is authorized to be appropriated such sums as may be necessary.
 
-#### "SEC. 308. EXEMPTION FROM FEDERAL ADVISORY COMMITTEE ACT.
+#### "SEC. 308. EXEMPTION FROM CHAPTER 10 OF TITLE 5, UNITED STATES CODE.
 
-"The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Commission.
+"Chapter 10 of title 5, United States Code, shall not apply to the Commission.
 
 #### "SEC. 309. DENALI ACCESS SYSTEM PROGRAM.
 
@@ -478,9 +478,13 @@ Responsibilities.—The advisory committee shall be responsible for the followin
 
 &emsp;&emsp;"(D) Facilitate the Commission's work on transportation projects involving more than one region.
 
-&emsp;"(5) FACA
+&emsp;"(5)
 
-exemption.—The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory committee.
+Chapter 10
+
+of title 5
+
+, united states code, exemption.—The provisions of chapter 10 of title 5, United States Code, shall not apply to the advisory committee.
 
 "(c)
 
@@ -630,7 +634,7 @@ Ex. Ord. No. 11422, Aug. 15, 1968, 33 F.R. 11739, as amended by Ex. Ord. No. 121
 
 #### Executive Order No. 11493
 
-Ex. Ord. No. 11493, Nov. 13, 1969, 34 F.R. 18289, which created Council for Rural Affairs to advise President with respect to further development of non-metropolitan areas of country, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237. Council terminated and its functions transferred to Domestic Council by section 2(b) of Ex. Ord. No. 11541, July 1, 1970, 35 F.R. 10737, set out as a note under section 501 of Title 31, Money and Finance.
+Ex. Ord. No. 11493, Nov. 13, 1969, 34 F.R. 18289, which created Council for Rural Affairs to advise Presidentwith respect to further development of non-metropolitan areas of country, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237. Council terminated and its functions transferred to Domestic Council by section 2(b) of Ex. Ord. No. 11541, July 1, 1970, 35 F.R. 10737, set out as a note under section 501 of Title 31, Money and Finance.
 
 #### Ex. Ord. No. 13122. Interagency Task Force on the Economic Development of the Southwest Border
 

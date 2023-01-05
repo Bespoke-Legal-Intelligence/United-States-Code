@@ -16,9 +16,15 @@ The following programs shall be exempt from reduction under any order issued und
 
 No reduction of payments for net interest (all of major functional category 900) shall be made under any order issued under this subchapter.
 
-#### (d) Refundable income tax credits
+#### (d) Refundable income tax credits and certain elective payments
 
-Payments to individuals made pursuant to provisions of title 26 establishing refundable tax credits shall be exempt from reduction under any order issued under this subchapter.
+#### (1) Refundable income tax credits
+
+&emsp;Payments to individuals made pursuant to provisions of title 26 establishing refundable tax credits shall be exempt from reduction under any order issued under this part.
+
+#### (2) Certain elective payments
+
+&emsp;Payments made to taxpayers pursuant to elections under subsection (d) of section 48D of title 26, or amounts treated as payments which are made by taxpayers under paragraph (1) of such subsection, shall be exempt from reduction under any order issued under this part.
 
 #### (e) Non-defense unobligated balances
 
@@ -61,6 +67,14 @@ Unobligated balances of budget authority carried over from prior fiscal years, e
 &emsp;Continuing Fund, Southeastern Power Administration (89–5653–0–2–271).
 
 &emsp;Continuing Fund, Southwestern Power Administration (89–5649–0–2–271).
+
+&emsp;Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Fund.
+
+&emsp;Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Defense Fund.
+
+&emsp;Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America International Technology Security and Innovation Fund.
+
+&emsp;Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Workforce and Education Fund <sup>2</sup>
 
 &emsp;Dual Benefits Payments Account (60–0111–0–1–601).
 
@@ -155,6 +169,8 @@ Unobligated balances of budget authority carried over from prior fiscal years, e
 &emsp;Payments to widows and heirs of deceased Members of Congress (00–0215–0–1–801).
 
 &emsp;Postal Service Fund (18–4020–0–3–372).
+
+&emsp;Public Wireless Supply Chain Innovation Fund.
 
 &emsp;Radiation Exposure Compensation Trust Fund (15–8116–0–1–054).
 
@@ -340,7 +356,7 @@ The following programs shall be exempt from reduction under any order issued und
 
 #### (j) Split treatment programs
 
-Each of the following programs shall be exempt from any order under this subchapter to the extent that the budgetary resources of such programs are subject to obligation limitations in appropriations bills:
+Each of the following programs shall be exempt from any order under this subchapter tothe extent that the budgetary resources of such programs are subject to obligation limitations in appropriations bills:
 
 &emsp;Federal-Aid Highways (69–8083–0–7–401).
 
@@ -360,7 +376,7 @@ Each of the following programs shall be exempt from any order under this subchap
 
 For purposes of subsections (b), (g), and (h), each account is identified by the designated budget account identification code number set forth in the Budget of the United States Government 2010–Appendix, and an activity within an account is designated by the name of the activity and the identification code number of the account.
 
-(Pub. L. 99–177, title II, §255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, §7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, §743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, §8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, §13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, §13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title IX, §902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, §601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, §110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, §2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, §10207, Aug. 5, 1997, 111 Stat. 704; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 111–139, title I, §11, Feb. 12, 2010, 124 Stat. 23; Pub. L. 113–67, div. A, title I, §121(5)–(8), Dec. 26, 2013, 127 Stat. 1175; Pub. L. 114–113, div. O, title IV, §403(a), Dec. 18, 2015, 129 Stat. 3007; Pub. L. 115–254, div. F, title VI, §1470(a), Oct. 5, 2018, 132 Stat. 3515.)
+(Pub. L. 99–177, title II, §255, Dec. 12, 1985, 99 Stat. 1082; Pub. L. 99–509, title VII, §7002(a), Oct. 21, 1986, 100 Stat. 1949; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(a), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §104(a)(1), (2), (b), (c)(1), Sept. 29, 1987, 101 Stat. 775–777; Pub. L. 101–73, title VII, §743(a), (c), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–220, §8, Dec. 12, 1989, 103 Stat. 1881; Pub. L. 101–508, title XIII, §13101(c), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 102–54, §13(a), June 13, 1991, 105 Stat. 274; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–486, title IX, §902(d), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 102–572, title VI, §601, Oct. 29, 1992, 106 Stat. 4514; Pub. L. 104–193, title I, §110(r)(1), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–208, div. A, title II, §2704(d)(10), Sept. 30, 1996, 110 Stat. 3009–489; Pub. L. 105–33, title X, §10207, Aug. 5, 1997, 111 Stat. 704; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 111–139, title I, §11, Feb. 12, 2010, 124 Stat. 23; Pub. L. 113–67, div. A, title I, §121(5)–(8), Dec. 26, 2013, 127 Stat. 1175; Pub. L. 114–113, div. O, title IV, §403(a), Dec. 18, 2015, 129 Stat. 3007; Pub. L. 115–254, div. F, title VI, §1470(a), Oct. 5, 2018, 132 Stat. 3515; Pub. L. 117–167, div. A, §§102(e), 106(d), 107(c), Aug. 9, 2022, 136 Stat. 1378, 1393, 1398.)
 
 #### <b>Editorial Notes</b>
 
@@ -375,6 +391,12 @@ The Federal Employees' Compensation Act, referred to in subsec. (g)(1)(B), which
 Section 410 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (g)(1)(B), is section 410 of Pub. L. 107–42, which is set out in a note under section 40101 of Title 49, Transportation.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–167, §107(c), amended subsec. (d) generally. Prior to amendment, text read as follows: "Payments to individuals made pursuant to provisions of title 26 establishing refundable tax credits shall be exempt from reduction under any order issued under this subchapter."
+
+Subsec. (g)(1)(A). Pub. L. 117–167, §106(d), inserted item relating to Public Wireless Supply Chain Innovation Fund.
+
+Pub. L. 117–167, §102(e), inserted items relating to Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Fund, Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Defense Fund, Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America International Technology Security and Innovation Fund, and Creating Helpful Incentives to Produce Semiconductors (CHIPS) for America Workforce and Education Fund.
 
 <b>2018</b>—Subsec. (g)(2). Pub. L. 115–254 substituted "United States International Development Finance Corporation." for "Overseas Private Investment Corporation, Noncredit Account (71–4184–0–3–151)."
 
@@ -402,7 +424,7 @@ Pub. L. 111–139, §11(a), redesignated subsec. (i) as (j) relating to identifi
 
 <b>2006</b>—Subsec. (g)(1)(A). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(10). See 1996 Amendment note below.
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–33, §10207(a), substituted "Veterans Insurance and Indemnities" for "Veterans Insurance and Indemnity", "Canteen Service Revolving Fund" for "Veterans' Canteen Service Revolving Fund", "(36–0120–0–1–701)" for "(36–0137–0–1–702)" in item relating to benefits under chapter 21 of title 38, "Compensation" for "Veterans' compensation", and "Pensions" for "Veterans' pensions" and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
+<b>1997</b>—Subsec. (b). Pub. L. 105–33, §10207(a), substituted "Veterans Insurance and Indemnities" for "Veterans Insurance and Indemnity", "Canteen Service Revolving Fund" for "Veterans' Canteen Service Revolving Fund", "(36–0120–0–1–701)" for "(36–0137–0–1–702)" initem relating to benefits under chapter 21 of title 38, "Compensation" for "Veterans' compensation", and "Pensions" for "Veterans' pensions" and inserted at end items relating to benefits under chapter 35 of title 38, assistance and services under chapter 31 of title 38, benefits under subchapters I, II, and III of chapter 37 of title 38, Loan Guaranty Program Account, and Direct Loan Program Account.
 
 Subsec. (f). Pub. L. 105–33, §10207(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "Outlays for programs specified in paragraph (1) of section 907 of this title shall be subject to reduction only in accordance with the procedures established in section 901(a)(3)(C) and 906(b) of this title."
 
@@ -490,11 +512,11 @@ Pub. L. 105–33, §10207(c)(2)(B), substituted "Black Lung Disability Trust Fun
 
 Pub. L. 105–33, §10207(c)(2)(A), substituted "The following Federal retirement and disability accounts" for "The following budget accounts" in introductory provisions.
 
-Subsec. (g)(2). Pub. L. 105–33, §10207(c)(3)(E), struck out items "Credit union share insurance fund (25–4468–0–3–371);" and "Economic development revolving fund (13–4406–0–3–452);" after item relating to credit liquidating accounts, item "Export-Import Bank of the United States, Limitation of program activity (83–4027–0–3–155);" after item relating to energy security reserve (Synthetic Fuels Corporation), item "Federal Deposit Insurance Corporation (51–8419–0–8–371);" after item relating to Federal Crop Insurance Corporation fund, items "Federal Housing Administration fund (86–4070–0–3–371);", "Federal ship financing fund (69–4301–0–3–403);", and "Federal ship financing fund, fishing vessels (13–4417–0–3–376);" after item relating to Federal Emergency Management Agency National insurance development fund, items "Government National Mortgage Association, Guarantees of mortgage-backed securities (86–4238–0–3–371);" and "Health education loans (75–4307–0–3–553);" after item relating to geothermal resources development fund, item "Indian loan guarantee and insurance fund (14–4410–0–3–452);" after item relating to homeowners assistance fund, defense, and items "Railroad rehabilitation and improvement financing fund (69–4411–0–3–401);", "Rural development insurance fund (12–4155–0–3–452);", "Rural electric and telephone revolving fund (12–4230–8–3–271);", "Rural housing insurance fund (12–4141–0–3–371);", "Small Business Administration, Business loan and investment fund (73–4154–0–3–376);", "Small Business Administration, Lease guarantees revolving fund (73–4157–0–3–376);", "Small Business Administration, Pollution control equipment contract guarantee revolving fund (73–4147–0–3–376);", "Small Business Administration, Surety bond guarantees revolving fund (73–4156–0–3–376);", and "Department of Veterans Affairs, Loan guaranty revolving fund (36–4025–0–3–704);" after item relating to rail service assistance.
+Subsec. (g)(2). Pub. L. 105–33, §10207(c)(3)(E), struck out items "Credit union share insurance fund (25–4468–0–3–371);" and "Economic development revolving fund (13–4406–0–3–452);" after item relating to credit liquidating accounts, item "Export-Import Bank of the United States, Limitation of program activity (83–4027–0–3–155);" after item relating to energy security reserve (Synthetic Fuels Corporation), item "Federal Deposit Insurance Corporation (51–8419–0–8–371);" after item relating to Federal Crop Insurance Corporation fund, items "Federal Housing Administration fund (86–4070–0–3–371);", "Federal ship financing fund (69–4301–0–3–403);", and "Federal ship financing fund,fishing vessels (13–4417–0–3–376);" after item relating to Federal Emergency Management Agency National insurance development fund, items "Government National Mortgage Association, Guarantees of mortgage-backed securities (86–4238–0–3–371);" and "Health education loans (75–4307–0–3–553);" after item relating to geothermal resources development fund, item "Indian loan guarantee and insurance fund (14–4410–0–3–452);" after item relating to homeowners assistance fund, defense, and items "Railroad rehabilitation and improvement financing fund (69–4411–0–3–401);", "Rural development insurance fund (12–4155–0–3–452);", "Rural electric and telephone revolving fund (12–4230–8–3–271);", "Rural housing insurance fund (12–4141–0–3–371);", "Small Business Administration, Business loan and investment fund (73–4154–0–3–376);", "Small Business Administration, Lease guarantees revolving fund (73–4157–0–3–376);", "Small Business Administration, Pollution control equipment contract guarantee revolving fund (73–4147–0–3–376);", "Small Business Administration, Surety bond guarantees revolving fund (73–4156–0–3–376);", and "Department of Veterans Affairs, Loan guaranty revolving fund (36–4025–0–3–704);" after item relating to rail service assistance.
 
 Pub. L. 105–33, §10207(c)(3)(D), inserted item relating to credit liquidating accounts.
 
-Pub. L. 105–33, §10207(c)(3)(C), struck out "Community development grant loan guarantees\(86–0162–0–1–451);" after item relating to United States Treasury check forgery insurance fund.
+Pub. L. 105–33, §10207(c)(3)(C), struck out "Community development grant loan guarantees (86–0162–0–1–451);" after item relating to United States Treasury check forgery insurance fund.
 
 Pub. L. 105–33, §10207(c)(3)(B), substituted "United States Treasury check forgery insurance fund" for "Check forgery insurance fund".
 
@@ -566,6 +588,18 @@ Subsec. (g)(1). Pub. L. 99–509 inserted item relating to dual benefits payment
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–167, div. A, §107(f), Aug. 9, 2022, 136 Stat. 1399, provided that:
+
+"(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting section 48D of Title 26, Internal Revenue Code, and amending this section and sections 46, 49, 50, and 1371 of Title 26\] shall apply to property placed in service after December 31, 2022, and, for any property the construction of which begins prior to January 1, 2023, only to the extent of the basis thereof attributable to the construction, reconstruction, or erection after the date of enactment of this Act \[Aug. 9, 2022\].
+
+"(2)
+
+Exemption of elective payments from sequestration.—The amendment made by subsection (c) \[amending this section\] shall apply to any sequestration order issued under the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900 et seq.) on or after December 31, 2022."
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–254, div. F, title VI, §1470(w), Oct. 5, 2018, 132 Stat. 3519, provided that: "The amendments made by this section \[amending this section, sections 5314, 5315, and 5316 of Title 5, Government Organization and Employees, sections 649, 4721, 4727, and 4902 of Title 15, Commerce and Trade, section 709 of Title 18, Crimes and Criminal Procedure, section 4421 of Title 19, Customs Duties, section 1131c of Title 20, Education, sections 2151n, 2291, 2296b, 5401, 5421, 6062, 6445, 7102, 7902, 8926, 9303, and 9546 of Title 22, Foreign Relations and Intercourse, section 9101 of Title 31, Money and Finance, sections 17334 and 17336 of Title 42, The Public Health and Welfare, and provisions set out as notes under sections 2293 and 2394c of Title 22\] shall take effect at the end of the transition period."
@@ -599,4 +633,6 @@ Pub. L. 99–509, title VII, §7002(b), Oct. 21, 1986, 100 Stat. 1949, provided 
 The Soldiers' and Airmen's Home, referred to in subsec. (g)(1)(A), was incorporated into the Armed Forces Retirement Home by section 411 of Title 24, Hospitals and Asylums.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 

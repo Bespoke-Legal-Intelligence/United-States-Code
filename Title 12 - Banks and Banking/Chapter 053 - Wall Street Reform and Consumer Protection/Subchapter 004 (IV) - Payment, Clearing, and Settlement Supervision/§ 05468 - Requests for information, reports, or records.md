@@ -8,7 +8,7 @@
 
 #### (2) Financial institutions engaged in payment, clearing, or settlement activities
 
-&emsp;The Council is authorized to require any financial institution to submit such information as the Council may require for the solepurpose of assessing whether any payment, clearing, or settlement activity engaged in or supported by a financial institution is systemically important, but only if the Council has reasonable cause to believe that the activity meets the standards for systemic importance set forth in section 5463 of this title.
+&emsp;The Council is authorized to require any financial institution to submit such information as the Council may require for the sole purpose of assessing whether any payment, clearing, or settlement activity engaged in or supported by a financial institution is systemically important, but only if the Council has reasonable cause to believe that the activity meets the standards for systemic importance set forth in section 5463 of this title.
 
 #### (b) Reporting after designation
 
@@ -62,7 +62,29 @@ The Board of Governors, the Council, the appropriate financial regulator, and an
 
 #### (g) Disclosure exemption
 
-Information obtained by the Board of Governors, the Supervisory Agencies, or the Council under this section and any materials prepared by the Board of Governors, the SupervisoryAgencies, or the Council regarding their assessment of the systemic importance of financial market utilities or any payment, clearing, or settlement activities engaged in by financial institutions, and in connection with their supervision of designated financial market utilities and designated activities, shall be confidential supervisory information exempt from disclosure under section 552 of title 5. For purposes of such section 552, this subsection shall be considered a statute described in subsection (b)(3) of such section 552.
+Information obtained by the Board of Governors, the Supervisory Agencies, or the Council under this section and any materials prepared by the Board of Governors, the Supervisory Agencies, or the Council regarding their assessment of the systemic importance of financial market utilities or any payment, clearing, or settlement activities engaged in by financial institutions, and in connection with their supervision of designated financial market utilities and designated activities, shall be confidential supervisory information exempt from disclosure under section 552 of title 5. For purposes of such section 552, this subsection shall be considered a statute described in subsection (b)(3) of such section 552.
 
-(Pub. L. 111–203, title VIII, §809, July 21, 2010, 124 Stat. 1818.)
+#### (h) Data standards
+
+#### (1) Requirement
+
+&emsp;The Board of Governors shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board or the Council by any financial market utility or financial institution under subsection (a) or (b).
+
+#### (2) Consistency
+
+&emsp;The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(Pub. L. 111–203, title VIII, §809, July 21, 2010, 124 Stat. 1818; Pub. L. 117–263, div. E, title LVIII, §5861(d), Dec. 23, 2022, 136 Stat. 3435.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–263 added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5864 of Pub. L. 117–263, set out as a note under section 253 of this title.
 

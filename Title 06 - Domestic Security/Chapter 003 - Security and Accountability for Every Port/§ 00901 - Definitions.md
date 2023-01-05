@@ -34,7 +34,7 @@ In this Act:
 
 #### (4) Commissioner
 
-&emsp;The term "Commissioner" means the Commissioner responsible for the United States Customs and Border Protection of the Department of Homeland Security.
+&emsp;The term "Commissioner" means the Commissioner responsible for the United StatesCustoms and Border Protection of the Department of Homeland Security.
 
 #### (5) Container
 

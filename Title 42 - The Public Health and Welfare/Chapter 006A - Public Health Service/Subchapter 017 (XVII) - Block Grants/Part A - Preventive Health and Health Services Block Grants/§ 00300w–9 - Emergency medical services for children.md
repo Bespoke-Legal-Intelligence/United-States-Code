@@ -38,7 +38,7 @@ Section 292a of this title, referred to in subsec. (c), was in the original a re
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §5603(1), substituted "4-year period (with an optional 5th year" for "3-year period (with an optional 4th year".
 
-Subsec. (d). Pub. L. 111–148, §5603(2), substituted "such sums" for "and such sums" and inserted", $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, and $30,387,656 for fiscal year 2014" before period at end.
+Subsec. (d). Pub. L. 111–148, §5603(2), substituted "such sums" for "and such sums" and inserted ", $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, and $30,387,656 for fiscal year 2014" before period at end.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–392, §415(1), substituted "3-year period (with an optional 4th year based on performance)" for "two-year period" and "3 grants" for "one grant".
 

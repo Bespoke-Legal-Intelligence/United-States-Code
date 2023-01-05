@@ -98,7 +98,7 @@ The Secretary may not make payments under section 290cc–21 of this title unles
 
 With respect to the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands, the Secretary may waive the provisions of this part that the Secretary determines to be appropriate.
 
-(July 1, 1944, ch. 373, title V, §522, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 516; amended Pub. L. 101–645, title V, §511, Nov.29, 1990, 104 Stat. 4726; Pub. L. 106–310, div. B, title XXXII, §3203(a), Oct. 17, 2000, 114 Stat. 1191; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(U), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(U), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 114–255, div. B, title IX, §9004(b), Dec. 13, 2016, 130 Stat. 1238.)
+(July 1, 1944, ch. 373, title V, §522, as added Pub. L. 100–77, title VI, §611(3), July 22, 1987, 101 Stat. 516; amended Pub. L. 101–645, title V, §511, Nov. 29, 1990, 104 Stat. 4726; Pub. L. 106–310, div. B, title XXXII, §3203(a), Oct. 17, 2000, 114 Stat. 1191; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(U), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(U), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 114–255, div. B, title IX, §9004(b), Dec. 13, 2016, 130 Stat. 1238.)
 
 #### <b>Editorial Notes</b>
 

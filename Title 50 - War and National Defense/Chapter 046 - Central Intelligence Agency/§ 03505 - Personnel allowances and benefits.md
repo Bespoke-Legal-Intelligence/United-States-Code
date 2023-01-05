@@ -36,7 +36,7 @@ Under such regulations as the Director may prescribe, the Agency, with respect t
 
 &emsp;(6) Pay the costs of preparing and transporting the remains of an officer or employee of the Agency or a member of his family who may die while in travel status or abroad, to his home or official station, or to such other place as the Director may determine to be the appropriate place of interment, provided that in no case shall the expense payable be greater than the amount which would have been payable had the destination been the home or official station.
 
-&emsp;(7) Pay the costs of travel of new appointees and their dependents, and the transportation of their household goods and personal effects, from places of actual residence in foreign countries at time of appointment to places of employment and return to their actual residences at the time of appointment or a point not more distant: <i>Provided</i>, That such appointees agree in writing to remain with the United States Government for a period of notless than twelve months from the time of appointment.
+&emsp;(7) Pay the costs of travel of new appointees and their dependents, and the transportation of their household goods and personal effects, from places of actual residence in foreign countries at time of appointment to places of employment and return to their actual residences at the time of appointment or a point not more distant: <i>Provided</i>, That such appointees agree in writing to remain with the United States Government for a period of not less than twelve months from the time of appointment.
 
 &emsp;Violation of such agreement for personal convenience of an employee or because of separation for misconduct will bar such return payments and, if determined by the Director or his designee to be in the best interests of the United States, any money expended by the United States on account of such travel and transportation shall be considered as a debt due by the individual concerned to the United States.
 
@@ -78,7 +78,7 @@ A prior section 4 of act June 20, 1949, was classified to former section 403d of
 
 <b>2003</b>—Subsec. (b)(5). Pub. L. 108–177 inserted ", other than regulations under paragraph (1)," after "Regulations".
 
-<b>1994</b>—Subsec. (a)(5)(A). Pub. L. 103–359, §401(1)(A)–(D), struck out ", not the result of vicious habits, intemperance, or misconduct on his part," after "the Agency" and substituted "the Director deems" for "he shall deem", "section 5731 of title 5" for "section 10 of the Act of March 3, 1933 (47 Stat. 1516; 5 U.S.C. 73b)", and "the recovery of such officer or employee" for "his recovery".
+<b>1994</b>—Subsec. (a)(5)(A). Pub. L. 103–359, §401(1)(A)–(D), struck out ", not the result of vicious habits, intemperance, or misconduct on his part," after "the Agency" and substituted "the Director deems" for "he shalldeem", "section 5731 of title 5" for "section 10 of the Act of March 3, 1933 (47 Stat. 1516; 5 U.S.C. 73b)", and "the recovery of such officer or employee" for "his recovery".
 
 Pub. L. 103–359, §401(1)(E), which directed the substitution of "the return to the post of duty of such officer or employee" for "his return to his post", was executed by making the substitution for "his return to his post of duty" to reflect the probable intent of Congress.
 

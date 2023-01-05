@@ -52,7 +52,7 @@
 
 (2) For the purpose of this subsection, "dependent", in the case of any child, means that the individual involved was, at the time of the child's death, either living with or contributing to the support of the child, as determined in accordance with the regulations the Office shall prescribe.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 592; Pub. L. 91–418, §3(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(a), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(51), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(b), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–427, §§2(a), 8(b), Oct. 10, 1980, 94 Stat. 1831, 1837; Pub. L. 98–353, title II, §205, July 10, 1984, 98 Stat. 350; Pub. L. 99–335, title II, §207(k)(1), June 6, 1986, 100 Stat. 597; Pub. L. 100–679, §13(b), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 105–311, §§3(1), 4, Oct. 30, 1998, 112 Stat. 2950; Pub. L. 114–136, §2(c)(4), Mar. 18, 2016, 130 Stat. 305.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 592; Pub. L. 91–418, §3(a), Sept. 25, 1970, 84 Stat. 869; Pub. L. 93–160, §1(a), Nov. 27, 1973, 87 Stat. 635; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–54, §2(a)(51), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–70, title I, §1209(b), Sept. 27, 1979, 93 Stat. 463; Pub. L. 96–427, §§2(a), 8(b), Oct. 10, 1980, 94 Stat. 1831, 1837; Pub. L. 98–353, title II,§205, July 10, 1984, 98 Stat. 350; Pub. L. 99–335, title II, §207(k)(1), June 6, 1986, 100 Stat. 597; Pub. L. 100–679, §13(b), Nov. 17, 1988, 102 Stat. 4071; Pub. L. 105–311, §§3(1), 4, Oct. 30, 1998, 112 Stat. 2950; Pub. L. 114–136, §2(c)(4), Mar. 18, 2016, 130 Stat. 305.)
 
 Historical and Revision Notes
 
@@ -264,7 +264,7 @@ Pub. L. 110–177, title V, §502(b), Jan. 7, 2008, 121 Stat. 2542.
 
 Pub. L. 105–311, §9, Oct. 30, 1998, 112 Stat. 2954, provided that: "Beginning not later than 180 days after the date of enactment of this Act \[Oct. 30, 1998\], the Office of Personnel Management shall conduct an open enrollment opportunity for purposes of chapter 87 of title 5, United States Code, over a period of not less than 8 weeks. During this period, an employee (as defined under section 8701(a) of such title)—
 
-&emsp;"(1) may, if the employee previously declined or voluntarily terminated any coverage under chapter 87of such title, elect to begin, resume, or increase group life insurance (and acquire applicable accidental death and dismemberment insurance) under all sections of such chapter without submitting evidence of insurability; and
+&emsp;"(1) may, if the employee previously declined or voluntarily terminated any coverage under chapter 87 of such title, elect to begin, resume, or increase group life insurance (and acquire applicable accidental death and dismemberment insurance) under all sections of such chapter without submitting evidence of insurability; and
 
 &emsp;"(2) may, if currently insured for optional life insurance on family members, elect an amount above the minimum insurance on a spouse."
 

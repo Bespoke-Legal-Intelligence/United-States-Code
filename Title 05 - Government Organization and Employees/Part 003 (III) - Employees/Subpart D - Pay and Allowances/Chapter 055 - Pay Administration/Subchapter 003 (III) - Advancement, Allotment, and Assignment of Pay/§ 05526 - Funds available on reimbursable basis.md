@@ -1,6 +1,6 @@
 ### §5526. Funds available on reimbursable basis
 
-Funds available to an agency for payment of pay, allowances, and differentials to or for theaccounts of employees of the agency are available on a reimbursable basis for payment of pay, allowances, and differentials to or for the accounts of employees of another agency under this subchapter.
+Funds available to an agency for payment of pay, allowances, and differentials to or for the accounts of employees of the agency are available on a reimbursable basis for payment of pay, allowances, and differentials to or for the accounts of employees of another agency under this subchapter.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 481.)
 

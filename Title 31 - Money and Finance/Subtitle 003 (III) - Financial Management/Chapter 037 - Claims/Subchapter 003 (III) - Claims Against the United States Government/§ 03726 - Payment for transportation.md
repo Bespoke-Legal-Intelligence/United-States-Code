@@ -1,6 +1,6 @@
 ### §3726. Payment for transportation
 
-(a)(1) Each agency that receives a bill from a carrier or freight forwarder for transporting anindividual or property for the United States Government shall verify its correctness (to include transportation rates, freight classifications, or proper combinations thereof), using prepayment audit, prior to payment in accordance with the requirements of this section and regulations prescribed by the Administrator of General Services.
+(a)(1) Each agency that receives a bill from a carrier or freight forwarder for transporting an individual or property for the United States Government shall verify its correctness (to include transportation rates, freight classifications, or proper combinations thereof), using prepayment audit, prior to payment in accordance with the requirements of this section and regulations prescribed by the Administrator of General Services.
 
 (2) The Administrator of General Services may exempt bills, a particular mode or modes of transportation, or an agency or subagency from a prepayment audit and verification and in lieu thereof require a postpayment audit, based on cost effectiveness, public interest, or other factors the Administrator considers appropriate.
 
@@ -30,7 +30,7 @@
 
 &emsp;(3) sections 10721, 13712, and 15504 of title 49 or an equivalent arrangement or an exemption.
 
-(e) Expenses of transportation audit postpayment contracts and contract administration, and the expenses of all other transportation audit and audit-related functions conferred upon the Administrator of General Services, shall be financed from overpayments collected from carriers on transportation bills paid by the Government and other similar type refunds, not to exceed collections. Payment to any contractor for audit services shall not exceed 50 percent of the overpayment identified by contract audit.
+(e) Expenses of transportation audit postpayment contracts and contract administration, and the expenses of all other transportation audit and audit-related functions conferred upon the Administrator of General Services, shall be financed from overpayments collected from carriers on transportation bills paid by the Government and other similar type refunds, not to exceed collections. Payment to any contractor for audit services shall not exceed 50percent of the overpayment identified by contract audit.
 
 (f) At least annually, and as determined by the Administrator, after making adequate provision for expense of refunds to carriers, transportation audit postpayment contracts, contract administration, and other expenses authorized in subsection (e), overpayments collected by the General Services Administration shall be transferred to miscellaneous receipts of the Treasury. A report of receipts, disbursements, and transfers (to miscellaneous receipts) pursuant to this section shall be made annually in connection with the budget estimates to the Director of the Office of Management and Budget and to the Congress. This reporting requirement expires December 31, 1998.
 

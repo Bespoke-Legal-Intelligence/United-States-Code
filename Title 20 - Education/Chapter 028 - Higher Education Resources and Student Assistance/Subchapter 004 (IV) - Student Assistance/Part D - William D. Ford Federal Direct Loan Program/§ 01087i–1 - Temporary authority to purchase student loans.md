@@ -34,7 +34,7 @@
 
 #### (b) Proceeds
 
-The Secretary shall require, as a condition of any purchase under subsection (a), that thefunds paid by the Secretary to any eligible lender under this section be used—
+The Secretary shall require, as a condition of any purchase under subsection (a), that the funds paid by the Secretary to any eligible lender under this section be used—
 
 &emsp;(1) to ensure continued participation of such lender in the Federal student loan programs authorized under part B of this subchapter; and
 
@@ -70,7 +70,7 @@ The Secretary shall prepare, transmit to the authorizing committees, and make av
 
 &emsp;&emsp;&emsp;(i) the number of loans the Secretary has agreed to purchase, or has purchased, using the authority provided under this section, and the total amount of outstanding principal and accrued interest of such loans, during such period; and
 
-&emsp;&emsp;&emsp;(ii) the number of loans in which the Secretary has purchased a participation interest, and the total amount of outstanding principal and accrued interest of such loans, during such period.
+&emsp;&emsp;&emsp;(ii) the number of loans in which the Secretary has purchased a participationinterest, and the total amount of outstanding principal and accrued interest of such loans, during such period.
 
 #### (B) Disaggregated information
 
@@ -104,7 +104,7 @@ The Secretary's authority to purchase loans under this section shall expire on J
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(2). Pub. L. 111–39, §404(a)(1)(A), substituted "purchase of loans under paragraph (1)" for"purchase of loans under this section" in introductory provisions.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–39, §404(a)(1)(A), substituted "purchase of loans under paragraph (1)" for "purchase of loans under this section" in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 111–39, §404(a)(1)(B), added par. (3).
 

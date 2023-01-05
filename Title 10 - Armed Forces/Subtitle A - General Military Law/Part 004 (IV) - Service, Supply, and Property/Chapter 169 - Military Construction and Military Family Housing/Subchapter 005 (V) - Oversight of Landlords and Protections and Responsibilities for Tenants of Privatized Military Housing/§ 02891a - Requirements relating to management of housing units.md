@@ -40,7 +40,7 @@ Requirements for Landlords.—(1) The landlord providing a housing unit shall di
 
 &emsp;(A) not later than three days after receiving the test results, share the results with the tenant of the housing unit and submit the results to the head of the installation housing management office; and
 
-&emsp;(B) include with any environmental hazard test results a simple guide explaining those results, preferably citing standards set forth bythe Federal Government relating to environmental hazards.
+&emsp;(B) include with any environmental hazard test results a simple guide explaining those results, preferably citing standards set forth by the Federal Government relating to environmental hazards.
 
 (3) Before a prospective tenant signs a lease to occupy a housing unit, the landlord providing the housing unit shall conduct a walkthrough inspection of the housing unit—
 
@@ -82,6 +82,14 @@ Requirements for Landlords.—(1) The landlord providing a housing unit shall di
 
 (e)
 
+Requirements for Secretary Concerned.—The Secretary concerned shall be responsible for—
+
+&emsp;(1) providing for a mold inspection of each vacant housing unit before any new tenant moves into the unit; and
+
+&emsp;(2) providing to the new tenant the results of the inspection.
+
+(f)
+
 Prohibition Against Collection of Amounts in Addition to Rent.—(1) A landlord providing a housing unit may not impose on a tenant of the housing unit a supplemental payment, such as an out-of-pocket fee, in addition to the amount of rent the landlord charges for a unit of similar size and composition to the housing unit, without regard to whether or not the amount of the basic allowance for housing under section 403 of title 37 the tenant may receive as a member of the armed forces is less than the amount of the rent.
 
 (2) Nothing in paragraph (1) shall be construed—
@@ -100,7 +108,7 @@ Prohibition Against Collection of Amounts in Addition to Rent.—(1) A landlord 
 
 (B) In subparagraph (A), the term "disability" has the meaning given that term in section 3 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102).
 
-(Added Pub. L. 116–92, div. B, title XXX, §3014(a), Dec. 20, 2019, 133 Stat. 1924; amended Pub. L. 116–283, div. B, title XXVIII, §2811(d), Jan. 1, 2021, 134 Stat. 4324; Pub. L. 117–81, div. A, title X, §1081(a)(31), div. B, title XXVIII, §2813(b)(1), Dec. 27, 2021, 135 Stat. 1921, 2192.)
+(Added Pub. L. 116–92, div. B, title XXX, §3014(a), Dec. 20, 2019, 133 Stat. 1924; amended Pub. L. 116–283, div. B, title XXVIII, §2811(d), Jan. 1, 2021, 134 Stat. 4324; Pub. L. 117–81, div. A, title X, §1081(a)(31), div. B, title XXVIII, §2813(b)(1), Dec. 27, 2021, 135 Stat. 1921, 2192; Pub. L. 117–263, div. B, title XXVIII, §2824, Dec. 23, 2022, 136 Stat. 3001.)
 
 #### <b>Editorial Notes</b>
 
@@ -109,6 +117,8 @@ Prohibition Against Collection of Amounts in Addition to Rent.—(1) A landlord 
 The Americans with Disabilities Act of 1990, referred to in subsec. (e)(3)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsecs. (e), (f). Pub. L. 117–263 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>2021</b>—Subsec. (b)(2). Pub. L. 116–283, §2811(d)(1), inserted period at end.
 
@@ -124,13 +134,17 @@ Subsec. (e)(3). Pub. L. 117–81, §2813(b)(1), added par. (3).
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 117–81, div. B, title XXVIII, §2813(b)(2), Dec. 27, 2021, 135 Stat. 2192, provided that: "Subsection (e)(3) of section 2891a of title 10, United States Code, as added by paragraph (1), shall apply to contracts described in subsection (a) of such section entered into on or after the date of the enactment of this Act \[Dec. 27, 2021\]."
+Pub. L. 117–81, div. B, title XXVIII, §2813(b)(2), Dec. 27, 2021, 135 Stat. 2192, provided that: "Subsection (e)(3) of section 2891a of title 10, United States Code \[now 10 U.S.C. 2891e(f)(3)\], as added by paragraph (1), shall apply to contracts described in subsection (a) of such section entered into on or after the date of the enactment of this Act \[Dec. 27, 2021\]."
 
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–92, div. B, title XXX, §3014(c), Dec. 20, 2019, 133 Stat. 1926, provided that: "The requirements set forth in section 2891a of title 10, United States Code, as added by subsection (a), shall apply to appropriate legal documents entered into or renewed on or after the date of the enactment of this Act \[Dec. 20, 2019\] between the Secretary of a military department and a landlord regarding privatized military housing."
 
 \[For definitions of "landlord" and "privatized military housing" as used in section 3014(c) of Pub. L. 116–92, set out above, see section 3001(a) of Pub. L. 116–92, set out as a note under section 2821 of this title.\]
+
+#### Implementation of Recommendations From Audit of Medical Conditions of Residents in Privatized Military Housing
+
+Pub. L. 117–263, div. B, title XXVIII, §2825, Dec. 23, 2022, 136 Stat. 3001, provided that: "Not later than March 1, 2023, the Secretary of Defense shall implement the recommendations contained in the report of the Inspector General of the Department of Defense published on April 1, 2022, and titled 'Audit of Medical Conditions of Residents in Privatized Military Housing' (DODIG–2022–078)."
 
 #### Military Department Implementation Plans
 

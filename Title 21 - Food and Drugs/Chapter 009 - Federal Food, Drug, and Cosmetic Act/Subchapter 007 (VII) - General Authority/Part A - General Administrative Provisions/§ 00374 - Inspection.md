@@ -2,7 +2,7 @@
 
 #### (a) Right of agents to enter; scope of inspection; notice; promptness; exclusions
 
-(1) For purposes of enforcement of this chapter, officers or employees duly designated by the Secretary, upon presenting appropriate credentials and a written notice to the owner, operator, or agent in charge, are authorized (A) to enter, at reasonable times, any factory, warehouse, or establishment in which food, drugs, devices, tobacco products, or cosmetics are manufactured, processed, packed, or held, for introduction into interstate commerce or after such introduction, or to enter any vehicle being used to transport or hold such food, drugs, devices, tobacco products, or cosmetics in interstate commerce; and (B) to inspect, at reasonable times and within reasonable limits and in a reasonable manner, such factory, warehouse, establishment, or vehicle and all pertinent equipment, finished and unfinished materials, containers, and labeling therein. In the case of any person (excluding farms and restaurants) who manufactures, processes, packs, transports, distributes, holds, or imports foods, the inspection shall extend to all records and other information described in section 350c of this title, when the standard for records inspection under paragraph (1) or (2) of section 350c(a) of this title applies, subject to the limitations established in section 350c(d) of this title. In the case of any factory, warehouse, establishment, or consulting laboratory in which prescription drugs, nonprescription drugs intended for human use,restricted devices, or tobacco products are manufactured, processed, packed, or held, the inspection shall extend to all things therein (including records, files, papers, processes, controls, and facilities) bearing on whether prescription drugs, nonprescription drugs intended for human use, restricted devices, or tobacco products which are adulterated or misbranded within the meaning of this chapter, or which may not be manufactured, introduced into interstate commerce, or sold, or offered for sale by reason of any provision of this chapter, have been or are being manufactured, processed, packed, transported, or held in any such place, or otherwise bearing on violation of this chapter. No inspection authorized by the preceding sentence or by paragraph (3) shall extend to financial data, sales data other than shipment data, pricing data, personnel data (other than data as to qualification of technical and professional personnel performing functions subject to this chapter), and research data (other than data relating to new drugs, antibiotic drugs, devices, and tobacco products and subject to reporting and inspection under regulations lawfully issued pursuant to section 355(i) or (k) of this title, section 360i of this title, section 360j(g) of this title, or subchapter IX and data relating to other drugs, devices, or tobacco products which in the case of a new drug would be subject to reporting or inspection under lawful regulations issued pursuant to section 355(j) of this title). A separate notice shall be given for each such inspection, but a notice shall not be required for each entry made during the period covered by the inspection. Each such inspection shall be commenced and completed with reasonable promptness.
+(1) For purposes of enforcement of this chapter, officers or employees duly designated by the Secretary, upon presenting appropriate credentials and a written notice to the owner, operator, or agent in charge, are authorized (A) to enter, at reasonable times, any factory, warehouse, or establishment in which food, drugs, devices, tobacco products, or cosmetics are manufactured, processed, packed, or held, for introduction into interstate commerce or after such introduction, or to enter any vehicle being used to transport or hold such food, drugs, devices, tobacco products, or cosmetics in interstate commerce; and (B) to inspect, at reasonable times and within reasonable limits and in a reasonable manner, such factory, warehouse, establishment, or vehicle and all pertinent equipment, finished and unfinished materials, containers, and labeling therein. In the case of any person (excluding farms and restaurants) who manufactures, processes, packs, transports, distributes, holds, or imports foods, the inspection shall extend to all records and other information described in section 350c of this title, when the standard for records inspection under paragraph (1) or (2) of section 350c(a) of this title applies, subject to the limitations established in section 350c(d) of this title. In the case of a facility (as defined in section 364 of this title) that manufactures or processes cosmetic products, the inspection shall extend to all records and other information described in sections 364a, 364b, and 364f of this title, when the standard for records inspection under such section applies. In the case of any factory, warehouse, establishment, or consulting laboratory in which prescription drugs, nonprescription drugs intended for human use, devices, or tobacco products are manufactured, processed, packed, or held, the inspection shall extend to all things therein (including records, files, papers, processes, controls, and facilities) bearing on whether prescription drugs, nonprescription drugs intended for human use, devices, or tobacco products which are adulterated or misbranded within the meaning of this chapter, or which may not be manufactured, introduced into interstate commerce, or sold, or offered for sale by reason of any provision of this chapter, have been or are being manufactured, processed, packed, transported, or held in any such place, or otherwise bearing on violation of this chapter. No inspection authorized by the preceding sentence or by paragraph (3) shall extend to financial data, sales data other than shipment data, pricing data, personnel data (other than data as to qualification of technical and professional personnel performing functions subject to this chapter), and research data (other than data relating to new drugs, antibiotic drugs, devices, and tobacco products and subject to reporting and inspection under regulations lawfully issued pursuant to section 355(i) or (k) of this title, section 360i of this title, section 360j(g) of this title, or subchapter IX and data relating to other drugs, devices, or tobacco products which in the case of a new drug would be subject to reporting or inspection under lawful regulations issued pursuant to section 355(j) of this title). A separate notice shall be given for each such inspection, but a notice shall not be required for each entry made during the period covered by the inspection. Each such inspection shall be commenced and completed with reasonable promptness.
 
 (2) The provisions of the third sentence of paragraph (1) shall not apply to—
 
@@ -20,11 +20,63 @@
 
 &emsp;(B) required to be maintained under section 350a of this title.
 
-(4)(A) Any records or other information that the Secretary may inspect under this section from a person that owns or operates an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug shall, upon the request of the Secretary, be provided to the Secretary by such person, in advance of or in lieu of an inspection, within a reasonable timeframe, within reasonable limits, and in a reasonable manner, and in either electronic or physical form, at the expense of such person. The Secretary's request shall include a sufficient description of the records requested.
+(4)(A) Any records or other information that the Secretary may inspect under this section from a person that owns or operates an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device, or a site or facility that is subject to inspection under paragraph (5)(C), shall, upon the request of the Secretary, be provided to the Secretary by such person, in advance of or in lieu of an inspection, within a reasonable timeframe, within reasonable limits, and in a reasonable manner, and in either electronic or physical form, at the expense of such person. The Secretary's request shall include a sufficient description of the records or other information requested and a rationale for requesting such records or other information in advance of, or in lieu of, an inspection.
 
 (B) Upon receipt of the records requested under subparagraph (A), the Secretary shall provide to the person confirmation of receipt.
 
-(C) Nothing in this paragraph supplants the authority of the Secretary to conduct inspections otherwise permitted under this chapter in order to ensure compliance with this chapter.
+(C) The Secretary may rely on any records or other information that the Secretary may inspect under this section to satisfy requirements that may pertain to a preapproval or risk-based surveillance inspection, or to resolve deficiencies identified during such inspections, if applicable and appropriate.
+
+(D) Nothing in this paragraph supplants the authority of the Secretary to conduct inspections otherwise permitted under this chapter in order to ensure compliance with this chapter.
+
+(5)(A) The Secretary may, to ensure the accuracy and reliability of studies and records or other information described in subparagraph (B) and to assess compliance with applicable requirements under this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\], enter sites and facilities specified in subparagraph (C) in order to inspect such records or other information.
+
+(B) An inspection under this paragraph shall extend to all records and other information related to the studies and submissions described in subparagraph (E), including records and information related to the conduct, results, and analyses of, and the protection of human and animal trial participants participating in, such studies.
+
+(C)(i) The sites and facilities subject to inspection by the Secretary under this paragraph are those owned or operated by a person described in clause (ii) and which are (or were) utilized by such person in connection with—
+
+&emsp;(I) developing an application or other submission to the Secretary under this chapter or the Public Health Service Act related to marketing authorization for a product described in paragraph (1);
+
+&emsp;(II) preparing, conducting, or analyzing the results of a study described in subparagraph (E); or
+
+&emsp;(III) holding any records or other information described in subparagraph (B).
+
+(ii) A person described in this clause is—
+
+&emsp;(I) the sponsor of an application or submission specified in subparagraph (E);
+
+&emsp;(II) a person engaged in any activity described in clause (i) on behalf of such a sponsor, through a contract, grant, or other business arrangement with such sponsor;
+
+&emsp;(III) an institutional review board, or other individual or entity, engaged by contract, grant, or other business arrangement with a nonsponsor in preparing, collecting, or analyzing records or other information described in subparagraph (B); or
+
+&emsp;(IV) any person not otherwise described in this clause that conducts, or has conducted, a study described in subparagraph (E) yielding records or other information described in subparagraph (B).
+
+(D)(i) Subject to clause (ii), an entity that owns or operates any site or facility subject to inspection under this paragraph shall provide the Secretary with access to records and other information described in subparagraph (B) that is held by or under the control of such entity, including—
+
+&emsp;(I) permitting the Secretary to record or copy such information for purposes of this paragraph;
+
+&emsp;(II) providing the Secretary with access to any electronic information system utilized by such entity to hold, process, analyze, or transfer any records or other information described in subparagraph (B); and
+
+&emsp;(III) permitting the Secretary to inspect the facilities, equipment, written procedures, processes, and conditions through which records or other information described in subparagraph (B) is or was generated, held, processed, analyzed, or transferred.
+
+(ii) Nothing in clause (i) shall negate, supersede, or otherwise affect the applicability of provisions, under this or any other Act, preventing or limiting the disclosure of confidential commercial information or other information considered proprietary or trade secret.
+
+(iii) An inspection under this paragraph shall be conducted at reasonable times and within reasonable limits and in a reasonable manner.
+
+(E) The studies and submissions described in this subparagraph are each of the following:
+
+&emsp;(i) Clinical and nonclinical studies submitted to the Secretary in support of, or otherwise related to, applications and other submissions to the Secretary under this chapter or the Public Health Service Act for marketing authorization of a product described in paragraph (1).
+
+&emsp;(ii) Postmarket safety activities conducted under this chapter or the Public Health Service Act.
+
+&emsp;(iii) Any other clinical investigation of—
+
+&emsp;&emsp;(I) a drug subject to section 355 or 360b of this title or section 262 of title 42; or
+
+&emsp;&emsp;(II) a device subject to section 360j(g) of this title.
+
+&emsp;(iv) Any other submissions made under this chapter or the Public Health Service Act with respect to which the Secretary determines an inspection under this paragraph is warranted in the interest of public health.
+
+(F) This paragraph clarifies the authority of the Secretary to conduct inspections of the type described in this paragraph and shall not be construed as a basis for inferring that, prior to December 29, 2022, the Secretary lacked the authority to conduct such inspections, including under this chapter or the Public Health Service Act.
 
 #### (b) Written report to owner; copy to Secretary
 
@@ -34,7 +86,7 @@
 
 #### (c) Receipt for samples taken
 
-If the officer or employee making any such inspection of a factory, warehouse, or other establishment has obtained any sample in the courseof the inspection, upon completion of the inspection and prior to leaving the premises he shall give to the owner, operator, or agent in charge a receipt describing the samples obtained.
+If the officer or employee making any such inspection of a factory, warehouse, or other establishment has obtained any sample in the course of the inspection, upon completion of the inspection and prior to leaving the premises he shall give to the owner, operator, or agent in charge a receipt describing the samples obtained.
 
 #### (d) Analysis of samples furnished owner
 
@@ -92,7 +144,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (5)(A) To ensure that persons accredited under this subsection continue to meet the standards of accreditation, the Secretary shall (i) audit the performance of such persons on a periodic basis through the review of inspection reports and inspections by persons designated by the Secretary to evaluate the compliance status of a device establishment and the performance of accredited persons, and (ii) take such additional measures as the Secretary determines to be appropriate.
 
-(B) The Secretary may withdraw accreditation of any person accredited under paragraph (2), after providing notice and an opportunity for an informal hearing, when such person is substantially not in compliance with the standards of accreditation, poses a threat to public health, fails to act in a manner that is consistent with the purposes of this subsection, or where the Secretary determines that there is a financial conflict of interest in the relationship between the accredited person and the owner or operator of a device establishment that the accredited person has inspected under this subsection. The Secretary may suspend the accreditation of such person during the pendency of the process under the preceding sentence.
+(B) The Secretary may withdraw accreditation of any person accredited under paragraph (2),after providing notice and an opportunity for an informal hearing, when such person is substantially not in compliance with the standards of accreditation, poses a threat to public health, fails to act in a manner that is consistent with the purposes of this subsection, or where the Secretary determines that there is a financial conflict of interest in the relationship between the accredited person and the owner or operator of a device establishment that the accredited person has inspected under this subsection. The Secretary may suspend the accreditation of such person during the pendency of the process under the preceding sentence.
 
 (6)(A) Subject to subparagraphs (B) and (C), a device establishment is eligible for inspection by persons accredited under paragraph (2) if the following conditions are met:
 
@@ -164,7 +216,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 &emsp;(ii) of the amounts appropriated for salaries and expenses of the Food and Drug Administration for the fiscal year preceding the first prior fiscal year (referred to in this subparagraph as the "second prior fiscal year"), the amount obligated by the Secretary for inspections of device establishments by the Secretary was less than the adjusted base amount applicable to such second prior fiscal year.
 
-(B)(i) Subject to clause (ii), the Comptroller General of the United States shall determine the amount that was obligated by the Secretary for fiscal year 2002 for compliance activities of theFood and Drug Administration with respect to devices (referred to in this subparagraph as the "compliance budget"), and of such amount, the amount that was obligated for inspections by the Secretary of device establishments (referred to in this subparagraph as the "inspection budget").
+(B)(i) Subject to clause (ii), the Comptroller General of the United States shall determine the amount that was obligated by the Secretary for fiscal year 2002 for compliance activities of the Food and Drug Administration with respect to devices (referred to in this subparagraph as the "compliance budget"), and of such amount, the amount that was obligated for inspections by the Secretary of device establishments (referred to in this subparagraph as the "inspection budget").
 
 (ii) For purposes of determinations under clause (i), the Comptroller General shall not include in the compliance budget or the inspection budget any amounts obligated for inspections of device establishments conducted as part of the process of reviewing applications under section 360e of this title.
 
@@ -178,7 +230,7 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 &emsp;(iii) The term "adjusted base amount", with respect to applicability to fiscal year 2004 or any subsequent fiscal year, means the adjusted base amount applicable to the preceding year increased by 5 percent.
 
-(11) The authority provided by this subsection terminates on October 1, 2022.
+(11) The authority provided by this subsection terminates on October 1, 2027.
 
 (12) No later than four years after October 26, 2002, the Comptroller General shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate—
 
@@ -234,13 +286,35 @@ Every person required under section 360i or 360j(g) of this title to maintain re
 
 (3) Nothing in this subsection affects the authority of the Secretary to conduct inspections otherwise permitted under this chapter in order to ensure compliance with this chapter.
 
-(June 25, 1938, ch. 675, §704, 52 Stat. 1057; Aug. 7, 1953, ch. 350, §1, 67 Stat. 476; Pub. L. 87–781, title II, §201(a), (b), Oct. 10, 1962, 76 Stat. 792, 793; Pub. L. 94–295, §6, May 28, 1976, 90 Stat. 581; Pub. L. 96–359, §4, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 103–80, §3(aa), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(L), title II, §210(b), title IV, §412(b), Nov. 21, 1997, 111 Stat. 2326, 2344, 2375; Pub. L. 107–188, title III, §306(b), June 12, 2002, 116 Stat. 670; Pub. L. 107–250, title II, §201(a), (b), Oct. 26, 2002, 116 Stat. 1602, 1609; Pub. L. 108–214, §2(b)(1), Apr. 1, 2004, 118 Stat. 573; Pub. L. 110–85, title II, §228, Sept. 27, 2007, 121 Stat. 855; Pub. L. 111–31, div. A, title I, §103(i), June 22, 2009, 123 Stat. 1837; Pub. L. 111–353, title I, §101(b), Jan. 4, 2011, 124 Stat. 3887; Pub. L. 112–144, title VI, §612, title VII, §706, July 9, 2012, 126 Stat. 1060, 1067; Pub. L. 115–52, title VII, §§702(a), 703, 705, Aug. 18, 2017, 131 Stat. 1055–1057; Pub. L. 116–136, div. A, title III, §3112(d), Mar. 27, 2020, 134 Stat. 362.)
+(June 25, 1938, ch. 675, §704, 52 Stat. 1057; Aug. 7, 1953, ch. 350, §1, 67 Stat. 476; Pub. L. 87–781, title II, §201(a), (b), Oct. 10, 1962, 76 Stat. 792, 793; Pub.L. 94–295, §6, May 28, 1976, 90 Stat. 581; Pub. L. 96–359, §4, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 103–80, §3(aa), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(L), title II, §210(b), title IV, §412(b), Nov. 21, 1997, 111 Stat. 2326, 2344, 2375; Pub. L. 107–188, title III, §306(b), June 12, 2002, 116 Stat. 670; Pub. L. 107–250, title II, §201(a), (b), Oct. 26, 2002, 116 Stat. 1602, 1609; Pub. L. 108–214, §2(b)(1), Apr. 1, 2004, 118 Stat. 573; Pub. L. 110–85, title II, §228, Sept. 27, 2007, 121 Stat. 855; Pub. L. 111–31, div. A, title I, §103(i), June 22, 2009, 123 Stat. 1837; Pub. L. 111–353, title I, §101(b), Jan. 4, 2011, 124 Stat. 3887; Pub. L. 112–144, title VI, §612, title VII, §706, July 9, 2012, 126 Stat. 1060, 1067; Pub. L. 115–52, title VII, §§702(a), 703, 705, Aug. 18, 2017, 131 Stat. 1055–1057; Pub. L. 116–136, div. A, title III, §3112(d), Mar. 27, 2020, 134 Stat. 362; Pub. L. 117–180, div. F, title V, §5007, Sept. 30, 2022, 136 Stat. 2168; Pub. L. 117–229, div. C, title III, §306, Dec. 16, 2022, 136 Stat. 2312; Pub. L. 117–328, div. FF, title II, §2515(a)(2), title III, §§3106, 3504, 3611(a), (b)(1), 3612(a), 3613(b), Dec. 29, 2022, 136 Stat. 5806, 5807, 5859, 5869, 5872.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The Public Health Service Act, referred to in subsec. (a)(5), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
 #### Amendments
 
-<b>2020</b>—Subsec. (b). Pub. L. 116–136 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–328, §3611(a), substituted "devices" for "restricted devices" in two places.
+
+Pub. L. 117–328, §3504, inserted "In the case of a facility (as defined in section 364 of this title) that manufactures or processes cosmetic products, the inspection shall extend to all records and other information described in sections 364a, 364b, and 364f of this title, when the standard for records inspection under such section applies." after "limitations established in section 350c(d) of this title."
+
+Subsec. (a)(4)(A). Pub. L. 117–328, §3611(b)(1), substituted "an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug or device, or a site or facility that is subject to inspection under paragraph (5)(C)," for "an establishment that is engaged in the manufacture, preparation, propagation, compounding, or processing of a drug" and "records or other information requested and a rationale for requesting such records or other information in advance of, or in lieu of, an inspection." for "records requested."
+
+Subsec. (a)(4)(C), (D). Pub. L. 117–328, §3613(b), added subpar. (C) and redesignated former subpar. (C) as (D).
+
+Subsec. (a)(5). Pub. L. 117–328, §3612(a), added par. (5).
+
+Subsec. (b). Pub. L. 117–328, §2515(a)(2), made technical amendment to directory language of Pub. L. 116–136, §3112(d)(1). See 2020 Amendment note below.
+
+Subsec. (g)(11). Pub. L. 117–328, §3106, substituted "October 1, 2027" for "December 24, 2022".
+
+Pub. L. 117–229 substituted "December 24, 2022" for "December 17, 2022".
+
+Pub. L. 117–180 substituted "December 17" for "October 1".
+
+<b>2020</b>—Subsec. (b). Pub. L. 116–136, §3112(d)(1), as amended by Pub. L. 117–328, §2515(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 <b>2017</b>—Subsec. (g)(11). Pub. L. 115–52, §703, substituted "October 1, 2022" for "October 1, 2017".
 
@@ -278,7 +352,7 @@ Subsec. (g)(7)(F). Pub. L. 110–85, §228(5)(B), added subpar. (F).
 
 Subsec. (g)(10)(C)(iii). Pub. L. 110–85, §228(6), substituted "base amount applicable" for "based amount applicable".
 
-<b>2004</b>—Subsec. (g)(1). Pub. L. 108–214, §2(b)(1)(A), in first sentence, substituted "conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices, which inspections are required under section 360(h) of this title or are inspections of such establishments required to register under section 360(i) of this title." for "conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices that are required in section 360(h) of this title, or inspections of such establishments required to register pursuant to section 360(i) of this title."
+<b>2004</b>—Subsec. (g)(1). Pub. L. 108–214, §2(b)(1)(A), in first sentence, substituted "conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices, which inspections are required under section 360(h) of thistitle or are inspections of such establishments required to register under section 360(i) of this title." for "conducting inspections of establishments that manufacture, prepare, propagate, compound, or process class II or class III devices that are required in section 360(h) of this title, or inspections of such establishments required to register pursuant to section 360(i) of this title."
 
 Subsec. (g)(5)(B). Pub. L. 108–214, §2(b)(1)(B), in first sentence, substituted "poses a threat to public health, fails to act in a manner that is consistent with the purposes of this subsection, or where the Secretary determines that there is a financial conflict of interest in the relationship between the accredited person and the owner or operator of a device establishment that the accredited person has inspected under this subsection." for "or poses a threat to public health or fails to act in a manner that is consistent with the purposes of this subsection."
 
@@ -340,11 +414,11 @@ Subsec. (a)(3). Pub. L. 96–359, §4(4), added par. (3).
 
 Subsec. (e). Pub. L. 94–295, §6(d), added subsec. (e).
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–781, §201(a), extended the inspection, where prescription drugs are manufactured, processed, packed, or held, to all things bearing on whether adulterated or misbranded drugs, or any which may not be manufactured, introduced in interstate commerce, or sold or offered for sale under any provision of this chapter, have been or are being manufactured, processed, packed, transported or held in any such place, or otherwise bearing on violation of this chapter, but excluded from such inspection, data concerning finance, sales other than shipment, pricing, personnel other than qualifications of technical and professional personnel, research other than relating to new drugs subject to reporting, provided that provisions of second sentence of this subsection shall be inapplicable to pharmacies, practitioners and other persons enumerated in pars. (1) to (4), and struck out "are held" before "after such introduction".
+<b>1962</b>—Subsec. (a). Pub. L. 87–781, §201(a), extended the inspection, where prescription drugs are manufactured, processed, packed, or held, to all things bearing on whether adulterated or misbranded drugs, or any which may not be manufactured, introduced in interstate commerce, or sold or offered for sale under any provision of this chapter, have been or are being manufactured, processed, packed, transported or held in any such place, or otherwise bearing on violation of this chapter, but excluded from such inspection, data concerning finance, sales other than shipment, pricing, personnel other than qualifications of technical andprofessional personnel, research other than relating to new drugs subject to reporting, provided that provisions of second sentence of this subsection shall be inapplicable to pharmacies, practitioners and other persons enumerated in pars. (1) to (4), and struck out "are held" before "after such introduction".
 
 Subsec. (b). Pub. L. 87–781, §201(b), inserted "consulting laboratory" after "warehouse".
 
-<b>1953</b>—Act Aug. 7, 1953, designated existing provisions as subsec. (a) and amended them by substituting provisions permitting entry and inspection upon presentation of appropriate credentials and a written notice to the owner, operator, or agent in charge for provisions which authorized entry and inspection only after making a request and obtaining permission from the owner, operator, or custodian, and inserting provisions requiring a separate written notice for each inspection but not for each entry made during the period covered by the inspection, and directing that the inspectionshall be conducted within reasonable limits, in a reasonable manner and completed with reasonable promptness, and added subsecs. (b) to (d).
+<b>1953</b>—Act Aug. 7, 1953, designated existing provisions as subsec. (a) and amended them by substituting provisions permitting entry and inspection upon presentation of appropriate credentials and a written notice to the owner, operator, or agent in charge for provisions which authorized entry and inspection only after making a request and obtaining permission from the owner, operator, or custodian, and inserting provisions requiring a separate written notice for each inspection but not for each entry made during the period covered by the inspection, and directing that the inspection shall be conducted within reasonable limits, in a reasonable manner and completed with reasonable promptness, and added subsecs. (b) to (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -364,7 +438,89 @@ Amendment by Pub. L. 87–781 effective Oct. 10, 1962, see section 203 of Pub. L
 
 Nothing in amendment by Pub. L. 111–353 to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
+#### Review of Processes and Practices; Guidance for Industry
+
+Pub. L. 117–328, div. FF, title III, §3612(b), Dec. 29, 2022, 136 Stat. 5871, provided that:
+
+"(1)
+
+In general.—The Secretary \[of Health and Human Services\] shall—
+
+&emsp;"(A) review processes and practices in effect as of the date of enactment of this Act \[Dec. 29, 2022\] applicable to inspections of foreign and domestic sites and facilities described in subparagraph (C)(i) of section 704(a)(5) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 374(a)(5)\], as added by subsection (a); and
+
+&emsp;"(B) evaluate whether any updates are needed to facilitate the consistency of such processes and practices.
+
+"(2)
+
+Guidance.—
+
+&emsp;"(A)
+
+In general.—The Secretary shall issue guidance describing the processes and practices applicable to inspections of sites and facilities described in subparagraph (C)(i) of section 704(a)(5) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a), including with respect to the types of records and information required to be provided, best practices for communication between the Food and Drug Administration and industry in advance of or during an inspection or request for records or other information, and other inspections-related conduct, to the extent not specified in existing publicly available Food and Drug Administration guides and manuals for such inspections.
+
+&emsp;"(B)
+
+Timing.—The Secretary shall—
+
+&emsp;&emsp;"(i) not later than 18 months after the date of enactment of this Act, issue draft guidance under subparagraph (A); and
+
+&emsp;&emsp;"(ii) not later than 1 year after the close of the public comment period for such draft guidance, issue final guidance under subparagraph (A)."
+
+#### Unannounced Foreign Facility Inspections Pilot Program
+
+Pub. L. 117–328, div. FF, title III, §3615, Dec. 29, 2022, 136 Stat. 5873, provided that:
+
+"(a)
+
+In General.—The Secretary \[of Health and Human Services\] shall conduct a pilot program under which the Secretary increases the conduct of unannounced surveillance inspections of foreign human drug establishments and evaluates the differences between such inspections of domestic and foreign human drug establishments, including the impact of announcing inspections to persons who own or operate foreign human drug establishments in advance of an inspection. Such pilot program shall evaluate—
+
+&emsp;"(1) differences in the number and type of violations of section 501(a)(2)(B) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 351(a)(2)(B)) identified as a result of unannounced and announced inspections of foreign human drug establishments and any other significant differences between each type of inspection;
+
+&emsp;"(2) costs and benefits associated with conducting announced and unannounced inspections of foreign human drug establishments;
+
+&emsp;"(3) barriers to conducting unannounced inspections of foreign human drug establishments and any challenges to achieving parity between domestic and foreign human drug establishment inspections; and
+
+&emsp;"(4) approaches for mitigating any negative effects of conducting announced inspections of foreign human drug establishments.
+
+"(b)
+
+Pilot Program Scope.—The inspections evaluated under the pilot program under this section shall be routine surveillance inspections and shall not include inspections conducted as part of the Secretary's evaluation of a request for approval to market a drug submitted under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) or the Public Health Service Act (42 U.S.C. 201 et seq.).
+
+"(c)
+
+Pilot Program Initiation.—The Secretary shall initiate the pilot program under this section not later than 180 days after the date of enactment of this Act \[Dec. 29, 2022\].
+
+"(d)
+
+Report.—The Secretary shall, not later than 180 days following the completion of the pilot program under this section, make available on the website of the Food and Drug Administration a final report on the pilot program under this section, including—
+
+&emsp;"(1) findings and any associated recommendations with respect to the evaluation under subsection (a), including any recommendations to address identified barriers to conducting unannounced inspections of foreign human drug establishments;
+
+&emsp;"(2) findings and any associated recommendations regarding how the Secretary may achieve parity between domestic and foreign human drug inspections; and
+
+&emsp;"(3) the number of unannounced inspections during the pilot program that would not be unannounced under practices in use as of the date of the enactment of this Act."
+
 #### Guidance
+
+Pub. L. 117–328, div. FF, title III, §3611(b)(2), Dec. 29, 2022, 136 Stat. 5869, provided that:
+
+"(A)
+
+In general.—The Secretary \[of Health and Human Services\] shall issue or update guidance describing—
+
+&emsp;"(i) circumstances in which the Secretary intends to issue requests for records or other information in advance of, or in lieu of, an inspection under section704(a)(4) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 374(a)(4)\], as amended by paragraph (1);
+
+&emsp;"(ii) processes for responding to such requests electronically or in physical form; and
+
+&emsp;"(iii) factors the Secretary intends to consider in evaluating whether such records and other information are provided within a reasonable timeframe, within reasonable limits, and in a reasonable manner, accounting for resource and other limitations that may exist, including for small businesses.
+
+"(B)
+
+Timing.—The Secretary shall—
+
+&emsp;"(i) not later than 1 year after the date of enactment of this Act \[Dec. 29, 2022\], issue draft guidance under subparagraph (A); and
+
+&emsp;"(ii) not later than 1 year after the close of the comment period for such draft guidance, issue final guidance under subparagraph (A)."
 
 Pub. L. 115–52, title VII, §702(b), Aug. 18, 2017, 131 Stat. 1055, provided that:
 

@@ -100,7 +100,7 @@ Pub. L. 116–280, Dec. 31, 2020, 134 Stat. 3379, provided that:
 
 "(1)
 
-In general.—The Federal Aviation Administration shall take appropriate steps to encourage direct representation of county and tribal governments as well as agriculture, forestry, rangeland sectors, and other rural interests on the Drone Advisory Committee.
+In general.—The Federal Aviation Administration shall take appropriate steps to encourage directrepresentation of county and tribal governments as well as agriculture, forestry, rangeland sectors, and other rural interests on the Drone Advisory Committee.
 
 "(2)
 
@@ -348,7 +348,7 @@ Pub. L. 115–254, div. B, title III, §376, Oct. 5, 2018, 132 Stat. 3314, provi
 
 "(a)
 
-In General.—In conjunction with completing the requirements of section 2208 of the FAA Extension, Safety, and Security Act of 2016 \[Pub. L. 114–190\] (49 U.S.C. 40101 note \[now 49 U.S.C. 44802 note\]), subject to subsection (b) of this section, the Administrator \[of the Federal Aviation Administration\], in coordination with the Administrator of the National Aeronautics and Space Administration, and in consultation with unmanned aircraft systems industry stakeholders, shall develop a plan to allow for the implementation of unmanned aircraft systems traffic management (UTM) services that expand operations beyond visual line of sight, have full operational capability, and ensure the safety and security of all aircraft.
+In General.—In conjunction with completing the requirements of section 2208 of the FAA Extension,Safety, and Security Act of 2016 \[Pub. L. 114–190\] (49 U.S.C. 40101 note \[now 49 U.S.C. 44802 note\]), subject to subsection (b) of this section, the Administrator \[of the Federal Aviation Administration\], in coordination with the Administrator of the National Aeronautics and Space Administration, and in consultation with unmanned aircraft systems industry stakeholders, shall develop a plan to allow for the implementation of unmanned aircraft systems traffic management (UTM) services that expand operations beyond visual line of sight, have full operational capability, and ensure the safety and security of all aircraft.
 
 "(b)
 
@@ -562,7 +562,7 @@ Participation through test sites.—Participation under paragraph (1) may includ
 
 "(c)
 
-Definitions.—In this section, the terms 'unmanned aircraft system' and 'test range' have the meaning given such terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 note \[now 49 U.S.C. 44802 note\]).
+Definitions.—In this section, the terms 'unmanned aircraft system' and 'test range' have themeaning given such terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 note \[now 49 U.S.C. 44802 note\]).
 
 "(d)
 
@@ -636,7 +636,7 @@ Requirements.—A safety statement required under subsection (a) shall include�
 
 &emsp;&emsp;&emsp;"(ii) The definition of a model aircraft under \[former\] section 336 of the FAA Modernization and Reform Act of 2012 (\[former\] 49 U.S.C. 40101 note).
 
-&emsp;&emsp;&emsp;"(iii) The requirements regarding the operation of a model aircraft under \[former\] section 336 ofthe FAA Modernization and Reform Act of 2012 (\[former\] 49 U.S.C. 40101 note).
+&emsp;&emsp;&emsp;"(iii) The requirements regarding the operation of a model aircraft under \[former\] section 336 of the FAA Modernization and Reform Act of 2012 (\[former\] 49 U.S.C. 40101 note).
 
 &emsp;&emsp;&emsp;"(iv) The Administrator may pursue enforcement action against a person operating model aircraft who endangers the safety of the national airspace system.
 
@@ -678,7 +678,7 @@ Clerical Amendment.—\[Amended analysis of chapter 463 of this title.\]
 
 "(a)
 
-In General.—Not later than 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall publish guidance for applications for, and procedures for the processing of, on an emergency basis, exemptions or certificates of authorization or waiver for the use of unmanned aircraft systems by civil or public operators in response to a catastrophe, disaster, or other emergency to facilitate emergency response operations, such as firefighting, search and rescue, and utility and infrastructure restoration efforts. In processing such applications, the Administrator shall give priority to applications for public unmanned aircraft systems engaged in emergency response activities.
+In General.—Not later than 90 days after the date of enactment of this Act \[July 15, 2016\], the Administrator of the Federal Aviation Administration shall publish guidance for applications for, and procedures for the processing of, on an emergency basis, exemptions or certificates of authorization or waiver for the use of unmanned aircraft systems by civil or public operators in response to a catastrophe, disaster, orother emergency to facilitate emergency response operations, such as firefighting, search and rescue, and utility and infrastructure restoration efforts. In processing such applications, the Administrator shall give priority to applications for public unmanned aircraft systems engaged in emergency response activities.
 
 "(b)
 
@@ -830,7 +830,7 @@ Deadlines.—
 
 "(a)
 
-In General.—Any application process established under \[former\] section 333 of the FAA Modernization and Reform Act of 2012 \[Pub. L. 112–95\] (\[former\] 49 U.S.C. 40101 note) shall allow for a person to apply to the Administrator of the Federal Aviation Administration to operate an unmanned aircraft system, for purposes of conducting an activity described in subsection (b)—
+In General.—Any application process established under \[former\] section 333 of the FAA Modernization and Reform Act of 2012 \[Pub. L. 112–95\] (\[former\] 49U.S.C. 40101 note) shall allow for a person to apply to the Administrator of the Federal Aviation Administration to operate an unmanned aircraft system, for purposes of conducting an activity described in subsection (b)—
 
 &emsp;"(1) beyond the visual line of sight of the individual operating the unmanned aircraft system; and
 
@@ -1006,7 +1006,7 @@ Certificate of waiver; certificate of authorization.—The terms 'certificate of
 
 &emsp;"(3)
 
-Permanent areas.—The term 'permanent areas' means areas on land or water that provide forlaunch, recovery, and operation of small unmanned aircraft.
+Permanent areas.—The term 'permanent areas' means areas on land or water that provide for launch, recovery, and operation of small unmanned aircraft.
 
 &emsp;"(4)
 
@@ -1170,7 +1170,7 @@ Sec. 2. <i>Multi-stakeholder Engagement Process</i>. In addition to the Federal 
 
 (a) There is hereby established a multi-stakeholder engagement process to develop and communicate best practices for privacy, accountability, and transparency issues regarding commercial and private UAS use in the NAS. The process will include stakeholders from the private sector.
 
-(b) Within 90 days of the date of this memorandum, the Department of Commerce, through the National Telecommunications and Information Administration,and in consultation with other interested agencies, will initiate this multi-stakeholder engagement process to develop a framework regarding privacy, accountability, and transparency for commercial and private UAS use. For this process, commercial and private use includes the use of UAS for commercial purposes as civil aircraft, even if the use would qualify a UAS as a public aircraft under 49 U.S.C. 40102(a)(41) and 40125. The process shall not focus on law enforcement or other noncommercial governmental use.
+(b) Within 90 days of the date of this memorandum, the Department of Commerce, through the National Telecommunications and Information Administration, and in consultation with other interested agencies, will initiate this multi-stakeholder engagement process to develop a framework regarding privacy, accountability, and transparency for commercial and private UAS use. For this process, commercial and private use includes the use of UAS for commercial purposes as civil aircraft, even if the use would qualify a UAS as a public aircraft under 49 U.S.C. 40102(a)(41) and 40125. The process shall not focus on law enforcement or other noncommercial governmental use.
 
 Sec. 3. <i>Definitions</i>. As used in this memorandum:
 
@@ -1232,7 +1232,7 @@ Sec. 3. <i>Implementation</i>. (a) To implement the Program, the Secretary or th
 
 (ii) select proposals by State, local, and tribal governments for participation in the Program according to the criteria listed in subsection (b) of this section;
 
-(iii) enter into agreements with the selected governments to establish the terms of their involvement in UAS operations within their jurisdictions, includingtheir support for Federal enforcement responsibilities; describe the proposed UAS operations to be conducted; and identify the entities that will conduct such operations, including, if applicable, the governments themselves; and
+(iii) enter into agreements with the selected governments to establish the terms of their involvement in UAS operations within their jurisdictions, including their support for Federal enforcement responsibilities; describe the proposed UAS operations to be conducted; and identify the entities that will conduct such operations, including, if applicable, the governments themselves; and
 
 (iv) as necessary, use existing authorities to grant exceptions, exemptions, authorizations, and waivers from FAA regulations to the entities identified in the agreements described in subsection (iii) of this section \[sic\], including through the issuance of waivers under 14 CFR Part 107 and Certificates of Waiver or Authorization under \[former\] section 333 of the FAA Modernization and Reform Act of 2012 (FMRA) (Public Law 112–95) \[see note above\].
 

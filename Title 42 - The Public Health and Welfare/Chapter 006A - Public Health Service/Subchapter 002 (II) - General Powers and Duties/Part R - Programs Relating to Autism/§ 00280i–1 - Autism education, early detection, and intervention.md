@@ -66,7 +66,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 &emsp;&emsp;&emsp;(i) to designate a public agency as a lead agency to coordinate the activities provided for under paragraph (1) in the State at the State level; and
 
-&emsp;&emsp;&emsp;(ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports (which may include respite carefor caregivers of individuals with autism spectrum disorder or other developmental disabilities), and evidence-based interventions.
+&emsp;&emsp;&emsp;(ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports (which may include respite care for caregivers of individuals with autism spectrum disorder or other developmental disabilities), and evidence-based interventions.
 
 #### (B) Requirements of agency
 
@@ -116,7 +116,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (1) Training
 
-&emsp;The Secretary, in coordination with activities conducted under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], shall, subject to the availability of appropriations, expand existing interdisciplinary training opportunities or opportunities to increase the number of sites able to diagnose or rule out individuals with autism spectrum disorder or other developmental disabilities across their lifespan and ensure that—
+&emsp;The Secretary, in coordination with activities conducted under title V of the Social Security Act \[42 U.S.C. 701 et seq.\], shall, subject to the availability of appropriations, expandexisting interdisciplinary training opportunities or opportunities to increase the number of sites able to diagnose or rule out individuals with autism spectrum disorder or other developmental disabilities across their lifespan and ensure that—
 
 &emsp;&emsp;(A) competitive grants or cooperative agreements are awarded to public or nonprofit agencies, including institutions of higher education, to expand existing or develop new maternal and child health interdisciplinary leadership education in neurodevelopmental and related disabilities programs (similar to the programs developed under section 501(a)(2) of the Social Security Act \[42 U.S.C. 701(a)(2)\]) in States that do not have such a program;
 
@@ -150,7 +150,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (3) Technical assistance
 
-&emsp;The Secretary may award one or more grants under this section to provide technicalassistance to the network of interdisciplinary training programs.
+&emsp;The Secretary may award one or more grants under this section to provide technical assistance to the network of interdisciplinary training programs.
 
 #### (4) Best practices
 
@@ -172,11 +172,11 @@ This section shall not apply after September 30, 2024.
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c)(1)(A)(iv), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see section 9857(a) of this title and Tables.
 
-The Social Security Act, referred to in subsecs. (c)(1)(A)(v)–(vii), (d)(2)(C), and (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(A)(v)–(vii), (d)(2)(C), and (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1)(A)(viii) and (d)(2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§1411 et seq.) and III (§1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1)(A)(viii) and (d)(2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Parts B and C of the Act are classified generally to subchapters II (§1411 et seq.) and III (§1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (c)(1)(A)(x), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (c)(1)(A)(x), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified principally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(2)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
 

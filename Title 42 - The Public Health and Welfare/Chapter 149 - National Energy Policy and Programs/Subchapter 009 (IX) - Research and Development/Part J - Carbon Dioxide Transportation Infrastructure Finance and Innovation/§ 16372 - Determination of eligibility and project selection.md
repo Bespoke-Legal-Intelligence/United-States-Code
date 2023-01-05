@@ -64,7 +64,7 @@ The Secretary shall establish and carry out a carbon dioxide transportation infr
 
 #### (6) Obligor will be identified later
 
-&emsp;A State, local government, agency, or instrumentality of a State or local government, or a public authority, may submit to the Secretary an application under paragraph (3), under which a private party to a public-private partnership will be—
+&emsp;A State, local government, agency, or instrumentality of a State or local government, or a public authority, may submit to the Secretary an application under paragraph (3),under which a private party to a public-private partnership will be—
 
 &emsp;&emsp;(A) the obligor; and
 
@@ -80,7 +80,7 @@ The Secretary shall establish and carry out a carbon dioxide transportation infr
 
 #### (8) Project readiness
 
-&emsp;To be eligible for assistance under the CIFIA program, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project cancommence by not later than 90 days after the date on which a Federal credit instrument or grant is obligated for the project under the CIFIA program.
+&emsp;To be eligible for assistance under the CIFIA program, the applicant shall demonstrate a reasonable expectation that the contracting process for construction of the project can commence by not later than 90 days after the date on which a Federal credit instrument or grant is obligated for the project under the CIFIA program.
 
 #### (c) Selection among eligible projects
 

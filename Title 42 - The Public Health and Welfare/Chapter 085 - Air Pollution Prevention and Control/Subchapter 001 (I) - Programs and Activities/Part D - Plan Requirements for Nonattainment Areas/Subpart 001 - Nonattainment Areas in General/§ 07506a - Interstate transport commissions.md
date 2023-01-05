@@ -28,17 +28,17 @@ Whenever, on the Administrator's own motion or by petition from the Governor of 
 
 #### (2) Recommendations
 
-&emsp;The transport commission shall assess the degree of interstate transport of the pollutant or precursors to the pollutant throughout the transport region, assess strategies for mitigating the interstate pollution, and recommend to the Administrator such measures as the Commission determines to be necessary to ensure that the plans for the relevant States meet the requirements of section 7410(a)(2)(D) of this title. Such commission shall not be subject to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;The transport commission shall assess the degree of interstate transport of the pollutant or precursors to the pollutant throughout the transport region, assess strategies for mitigating the interstate pollution, and recommend to the Administrator such measures as the Commission determines to be necessary to ensure that the plans for the relevant States meet the requirements of section 7410(a)(2)(D) of this title. Such commission shall not be subject to the provisions of chapter 10 of title 5.
 
 #### (c) Commission requests
 
 A transport commission established under subsection (b) may request the Administrator to issue a finding under section 7410(k)(5) of this title that the implementation plan for one or more of the States in the transport region is substantially inadequate to meet the requirements of section 7410(a)(2)(D) of this title. The Administrator shall approve, disapprove, or partially approve and partially disapprove such a request within 18 months of its receipt and, to the extent the Administrator approves such request, issue the finding under section 7410(k)(5) of this title at the time of such approval. In acting on such request, the Administrator shall provide an opportunity for public participation and shall address each specific recommendation made by the commission. Approval or disapproval of such a request shall constitute final agency action within the meaning of section 7607(b) of this title.
 
-(July 14, 1955, ch. 360, title I, §176A, as added Pub. L. 101–549, title I, §102(f)(1), Nov. 15, 1990, 104 Stat. 2419.)
+(July 14, 1955, ch. 360, title I, §176A, as added Pub. L. 101–549, title I, §102(f)(1), Nov. 15, 1990, 104 Stat. 2419; amended Pub. L. 117–286, §4(a)(270), Dec. 27, 2022, 136 Stat. 4335.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (b)(2). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
 

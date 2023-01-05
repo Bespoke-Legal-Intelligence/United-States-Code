@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, an alien who is not lawfully present in theUnited States shall not be eligible on the basis of residence within a State (or a political subdivision) for any postsecondary education benefit unless a citizen or national of the United States is eligible for such a benefit (in no less an amount, duration, and scope) without regard to whether the citizen or national is such a resident.
+Notwithstanding any other provision of law, an alien who is not lawfully present in the United States shall not be eligible on the basis of residence within a State (or a political subdivision) for any postsecondary education benefit unless a citizen or national of the United States is eligible for such a benefit (in no less an amount, duration, and scope) without regard to whether the citizen or national is such a resident.
 
 #### (b) Effective date
 

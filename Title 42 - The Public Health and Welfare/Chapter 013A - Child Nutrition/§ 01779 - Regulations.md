@@ -60,13 +60,13 @@ The Secretary shall prescribe such regulations as the Secretary may deem necessa
 
 In such regulations the Secretary may provide for the transfer of funds by any State between the programs authorized under this chapter and the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] on the basis of an approved State plan of operation for the use of the funds and may provide for the reserve of up to 1 per centum of the funds available for apportionment to any State to carry out special developmental projects.
 
-(Pub. L. 89–642, §10, Oct. 11, 1966, 80 Stat. 889; Pub. L. 91–248, §8, May 14, 1970, 84 Stat. 212; Pub. L. 92–433, §7, Sept. 26, 1972, 86 Stat. 729; Pub. L. 95–166, §17, Nov. 10, 1977, 91 Stat. 1345; Pub. L. 101–147, title III, §323, Nov. 10, 1989, 103 Stat. 916; Pub. L. 103–448, title II, §203, Nov. 2, 1994, 108 Stat. 4738; Pub. L. 104–193, title VII, §725, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 111–296, title II, §208, Dec. 13, 2010, 124 Stat. 3221.)
+(Pub. L. 89–642, §10, Oct. 11, 1966, 80 Stat. 889; Pub. L. 91–248, §8, May 14, 1970, 84 Stat. 212; Pub.L. 92–433, §7, Sept. 26, 1972, 86 Stat. 729; Pub. L. 95–166, §17, Nov. 10, 1977, 91 Stat. 1345; Pub. L. 101–147, title III, §323, Nov. 10, 1989, 103 Stat. 916; Pub. L. 103–448, title II, §203, Nov. 2, 1994, 108 Stat. 4738; Pub. L. 104–193, title VII, §725, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 111–296, title II, §208, Dec. 13, 2010, 124 Stat. 3221.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Richard B. Russell National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
+The Richard B. Russell National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments
 
@@ -96,7 +96,7 @@ The Richard B. Russell National School Lunch Act, referred to in text, is act Ju
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
+Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under section 1751 of this title.
 
 #### Effective Date of 1994 Amendment
 

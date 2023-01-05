@@ -18,7 +18,7 @@ Duties.—The Patent Trial and Appeal Board shall—
 
 (c) 3-
 
-Member Panels.—Each appeal, derivation proceeding, post-grant review, and interpartes review shall be heard by at least 3 members of the Patent Trial and Appeal Board, who shall be designated by the Director. Only the Patent Trial and Appeal Board may grant rehearings.
+Member Panels.—Each appeal, derivation proceeding, post-grant review, and inter partes review shall be heard by at least 3 members of the Patent Trial and Appeal Board, who shall be designated by the Director. Only the Patent Trial and Appeal Board may grant rehearings.
 
 (d)
 
@@ -31,6 +31,10 @@ Treatment of Prior Appointments.—The Secretary of Commerce may, in the Secreta
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (d), probably means the date of enactment of Pub. L. 112–29, which amended this section generally and was approved Sept. 16, 2011.
+
+#### Constitutionality
+
+For information regarding the constitutionality of provisions of subsection (c) of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Prior Provisions
 

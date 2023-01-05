@@ -28,7 +28,7 @@ Section 642(a), referred to in subsec. (c), means section 642(a) of Pub. L. 87�
 
 #### Amendments
 
-<b>1994</b>—Subsec. (f). Pub. L. 103–236 struck out subsec. (f) which provided for an Assistant Secretary of State forHuman Rights and Humanitarian Affairs and prescribed the Assistant Secretary's duties.
+<b>1994</b>—Subsec. (f). Pub. L. 103–236 struck out subsec. (f) which provided for an Assistant Secretary of State for Human Rights and Humanitarian Affairs and prescribed the Assistant Secretary's duties.
 
 <b>1983</b>—Subsec. (f)(2)(C). Pub. L. 98–164 inserted provisions relating to providing advice to the Administrator of the Agency for International Development on policy framework.
 
@@ -40,7 +40,7 @@ Section 642(a), referred to in subsec. (c), means section 642(a) of Pub. L. 87�
 
 <b>1977</b>—Subsec. (d). Pub. L. 95–88 struck out subsec. (d) which provided for an Inspector General, Foreign Assistance.
 
-Subsec. (f)(1). Pub. L. 95–105, §109(a)(1)(A), substituted references to the Assistant Secretary of State for Human Rights and Humanitarian Affairs for references to the Coordinator for Human Rights and Humanitarian Affairs.
+Subsec. (f)(1). Pub. L. 95–105, §109(a)(1)(A), substituted references to the Assistant Secretary of State forHuman Rights and Humanitarian Affairs for references to the Coordinator for Human Rights and Humanitarian Affairs.
 
 Subsec. (f)(2). Pub. L. 95–105, §109(a)(1)(B), substituted "Assistant Secretary of State" for "Coordinator".
 
@@ -104,7 +104,7 @@ Pub. L. 95–105, title I, §109(a)(6), Aug. 17, 1977, 91 Stat. 846, provided th
 
 #### Report to Speaker of the House and Congressional Committees on Office of Assistant Secretary for Human Rights and Humanitarian Affairs
 
-Pub. L. 95–105, title I, §109(a)(7), Aug. 17, 1977, 91 Stat. 847, which required the Secretary of State, not later than Jan. 31, 1978, to transmit to the Speaker of the House of Representatives and the chairmen of the Senate Committee on Foreign Relations and the SenateCommittee on the Judiciary a comprehensive report on the Office of the Assistant Secretary for Human Rights and Humanitarian Affairs, including its current mandate and operations, the mandate and operations of its predecessor offices, and proposals for the reorganization of the Department of State that would strengthen human rights and humanitarian considerations in the conduct of United States foreign policy and promote the ability of the United States to participate effectively in international humanitarian efforts, was repealed by Pub. L. 97–241, title V, §505(a)(3), Aug. 24, 1982, 96 Stat. 299, and Pub. L. 98–164, title X, §1011(a)(5), Nov. 22, 1983, 97 Stat. 1061.
+Pub. L. 95–105, title I, §109(a)(7), Aug. 17, 1977, 91 Stat. 847, which required the Secretary of State, not later than Jan. 31, 1978, to transmit to the Speaker of the House of Representatives and the chairmen of the Senate Committee on Foreign Relations and the Senate Committee on the Judiciary a comprehensive report on the Office of the Assistant Secretary for Human Rights and Humanitarian Affairs, including its current mandate and operations, the mandate and operations of its predecessor offices, and proposals for the reorganization of the Department of State that would strengthen human rights and humanitarian considerations in the conduct of United States foreign policy and promote the ability of the United States to participate effectively in international humanitarian efforts, was repealed by Pub. L. 97–241, title V, §505(a)(3), Aug. 24, 1982, 96 Stat. 299, and Pub. L. 98–164, title X, §1011(a)(5), Nov. 22, 1983, 97 Stat. 1061.
 
 #### Assignment of Duties and Responsibilities to Inspector General, Foreign Service
 

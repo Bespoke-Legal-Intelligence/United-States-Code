@@ -22,7 +22,7 @@ An owner or operator of a facility which is subject to the requirements of secti
 
 &emsp;(3) the individual or individuals being diagnosed or treated have been exposed to the chemical concerned.
 
-> Immediately following such a request, the owner or operator to whom such request is made shall provide the requested information to the physician or nurse. The authority to withhold the specific chemical identity of a chemical from a material safety data sheet, an inventory form, or a toxic chemical release form under section 11042 of this title when such information is a trade secret shall not apply to information required to be provided to a treating physician or nurse under this subsection. No written confidentiality agreement or statement of need shall be required as a precondition of such disclosure, but the owner or operator disclosing such information may require a written confidentiality agreement in accordance with subsection (d) and a statement setting forth the items listed in paragraphs (1) through (3) as soon as circumstances permit.
+> Immediately following such a request, the owner or operator to whom such request is made shall provide the requested information to the physician or nurse. The authority to withhold the specific chemical identity of a chemical from a material safety data sheet, an inventory form, or a toxic chemical release form under section 11042 of this title when such information is a trade secret shall not apply to information required to be provided to a treating physician ornurse under this subsection. No written confidentiality agreement or statement of need shall be required as a precondition of such disclosure, but the owner or operator disclosing such information may require a written confidentiality agreement in accordance with subsection (d) and a statement setting forth the items listed in paragraphs (1) through (3) as soon as circumstances permit.
 
 #### (c) Preventive measures by local health professionals
 
@@ -54,7 +54,7 @@ An owner or operator of a facility which is subject to the requirements of secti
 
 #### (d) Confidentiality agreement
 
-Any person obtaining information under subsection (a) or (c) shall, in accordance with suchsubsection (a) or (c), be required to agree in a written confidentiality agreement that he will not use the information for any purpose other than the health needs asserted in the statement of need, except as may otherwise be authorized by the terms of the agreement or by the person providing such information. Nothing in this subsection shall preclude the parties to a confidentiality agreement from pursuing any remedies to the extent permitted by law.
+Any person obtaining information under subsection (a) or (c) shall, in accordance with such subsection (a) or (c), be required to agree in a written confidentiality agreement that he will not use the information for any purpose other than the health needs asserted in the statement of need, except as may otherwise be authorized by the terms of the agreement or by the person providing such information. Nothing in this subsection shall preclude the parties to a confidentiality agreement from pursuing any remedies to the extent permitted by law.
 
 #### (e) Regulations
 

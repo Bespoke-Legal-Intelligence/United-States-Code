@@ -48,7 +48,7 @@ The Secretary shall by contract provide for the establishment and operation of a
 
 &emsp;(M) recognize the differences in health and in organ transplantation issues between children and adults throughout the system and adopt criteria, polices, and procedures that address the unique health care needs of children,
 
-&emsp;(N) carry out studies and demonstration projects for the purpose of improving procedures for organ donation procurement and allocation, including but not limited to projects to examine and attempt to increase transplantation among populations with special needs, including children and individuals who aremembers of racial or ethnic minority groups, and among populations with limited access to transportation, and
+&emsp;(N) carry out studies and demonstration projects for the purpose of improving procedures for organ donation procurement and allocation, including but not limited to projects to examine and attempt to increase transplantation among populations with special needs, including children and individuals who are members of racial or ethnic minority groups, and among populations with limited access to transportation, and
 
 &emsp;(O) provide that for purposes of this paragraph, the term "children" refers to individuals who are under the age of 18.
 

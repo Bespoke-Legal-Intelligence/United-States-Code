@@ -102,7 +102,7 @@ Annual Report on Aircraft Inventory.—(1) As part of the annual plan and certif
 
 &emsp;(D) The aircraft inventory requirements approved by the Joint Chiefs of Staff.
 
-(3) Each report under paragraph (1) shall set forth each item specified in paragraph (2) separately for the regular component of each armed force and for each reserve component of each armed force and, for each such component, shall set forth each type, model, and series of aircraft provided for in the future-years defense programthat covers the fiscal year for which the budget accompanying the plan, certification and report is submitted.
+(3) Each report under paragraph (1) shall set forth each item specified in paragraph (2) separately for the regular component of each armed force and for each reserve component of each armed force and, for each such component, shall set forth each type, model, and series of aircraft provided for in the future-years defense program that covers the fiscal year for which the budget accompanying the plan, certification and report is submitted.
 
 (f)
 

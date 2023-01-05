@@ -10,7 +10,7 @@
 
 &emsp;(4) a debt for a tax is incurred on the day when such tax is last payable without penalty, including any extension.
 
-(b) Except as provided in subsections (c), (i), and (j) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party's known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
+(b) Except as provided in subsections (c) and (i) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party's known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
 
 &emsp;(1) to or for the benefit of a creditor;
 
@@ -106,69 +106,19 @@
 
 (f) For the purposes of this section, the debtor is presumed to have been insolvent on and during the 90 days immediately preceding the date of the filing of the petition.
 
-(g) For the purposes of this section, the trustee has the burden of proving the avoidability ofa transfer under subsection (b) of this section, and the creditor or party in interest against whom recovery or avoidance is sought has the burden of proving the nonavoidability of a transfer under subsection (c) of this section.
+(g) For the purposes of this section, the trustee has the burden of proving the avoidability of a transfer under subsection (b) of this section, and the creditor or party in interest against whom recovery or avoidance is sought has the burden of proving the nonavoidability of a transfer under subsection (c) of this section.
 
 (h) The trustee may not avoid a transfer if such transfer was made as a part of an alternative repayment schedule between the debtor and any creditor of the debtor created by an approved nonprofit budget and credit counseling agency.
 
 (i) If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
 
-(j)(1) In this subsection:
-
-&emsp;(A) The term "covered payment of rental arrearages" means a payment of arrearages that—
-
-&emsp;&emsp;(i) is made in connection with an agreement or arrangement—
-
-&emsp;&emsp;&emsp;(I) between the debtor and a lessor to defer or postpone the payment of rent and other periodic charges under a lease of nonresidential real property; and
-
-&emsp;&emsp;&emsp;(II) made or entered into on or after March 13, 2020;
-
-&emsp;&emsp;(ii) does not exceed the amount of rental and other periodic charges agreed to under the lease of nonresidential real property described in clause (i)(I) before March 13, 2020; and
-
-&emsp;&emsp;(iii) does not include fees, penalties, or interest in an amount greater than the amount of fees, penalties, or interest—
-
-&emsp;&emsp;&emsp;(I) scheduled to be paid under the lease of nonresidential real property described in clause (i)(I); or
-
-&emsp;&emsp;&emsp;(II) that the debtor would owe if the debtor had made every payment due under the lease of nonresidential real property described in clause (i)(I) on time and in full before March 13, 2020.
-
-&emsp;(B) The term "covered payment of supplier arrearages" means a payment of arrearages that—
-
-&emsp;&emsp;(i) is made in connection with an agreement or arrangement—
-
-&emsp;&emsp;&emsp;(I) between the debtor and a supplier of goods or services to defer or postpone the payment of amounts due under an executory contract for goods or services; and
-
-&emsp;&emsp;&emsp;(II) made or entered into on or after March 13, 2020;
-
-&emsp;&emsp;(ii) does not exceed the amount due under the executory contract described in clause (i)(I) before March 13, 2020; and
-
-&emsp;&emsp;(iii) does not include fees, penalties, or interest in an amount greater than the amount of fees, penalties, or interest—
-
-&emsp;&emsp;&emsp;(I) scheduled to be paid under the executory contract described in clause (i)(I); or
-
-&emsp;&emsp;&emsp;(II) that the debtor would owe if the debtor had made every payment due under the executory contract described in clause (i)(I) on time and in full before March 13, 2020.
-
-&emsp;(2) The trustee may not avoid a transfer under this section for—
-
-&emsp;&emsp;(A) a covered payment of rental arrearages; or
-
-&emsp;&emsp;(B) a covered payment of supplier arrearages.
-
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2597; Pub. L. 98–353, title III, §§310, 462, July 10, 1984, 98 Stat. 355, 377; Pub. L. 99–554, title II, §283(m), Oct. 27, 1986, 100 Stat. 3117; Pub. L. 103–394, title II, §203, title III, §304(f), Oct. 22, 1994, 108 Stat. 4121, 4133; Pub. L. 109–8, title II, §§201(b), 217, title IV, §§403, 409, title XII, §§1213(a), 1222, Apr. 20, 2005, 119 Stat. 42, 55, 104, 106, 194, 196; Pub. L. 116–54, §3(a), Aug. 23, 2019, 133 Stat. 1085; Pub. L. 116–260, div. FF, title X, §1001(g)(1), (2)(A), Dec. 27, 2020, 134 Stat. 3219, 3220.)
-
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. FF, title X, §1001(g)(2)(A), Dec. 27, 2020, 134 Stat. 3220, provided that, effective on the date that is 2 years after Dec. 27, 2020, this section is amended:</i>
-
-<i>(1) in subsection (b), in the matter preceding paragraph (1), by striking ", (i), and (j)" and inserting "and (i)"; and</i>
-
-<i>(2) by striking subsection (j).</i>
-
-<i>See 2020 Amendment notes below.</i>
 
 #### Historical and Revision Notes
 
 #### legislative statements
 
-No limitation is provided for payments to commodity brokers as in section 766 of the Senate amendment other than the amendment to section 548 of title 11. Section 547(c)(2) protects most payments.
+No limitation is provided for payments to commodity brokers as in section 766 of the Senate amendmentother than the amendment to section 548 of title 11. Section 547(c)(2) protects most payments.
 
 Section 547(b)(2) of the House amendment adopts a provision contained in the House bill and rejects an alternative contained in the Senate amendment relating to the avoidance of a preferential transfer that is payment of a tax claim owing to a governmental unit. As provided, section 106(c) of the House amendment overrules contrary language in the House report with the result that the Government is subject to avoidance of preferential transfers.
 
@@ -178,7 +128,7 @@ Section 547(c)(6) of the House bill is deleted and is treated in a different fas
 
 Section 547(c)(6) represents a modification of a similar provision contained in the House bill and Senate amendment. The exception relating to satisfaction of a statutory lien is deleted. The exception for a lien created under title 11 is deleted since such a lien is a statutory lien that will not be avoidable in a subsequent bankruptcy.
 
-Section 547(e)(1)(B) is adopted from the House bill and Senate amendment without change. It is intended that the simple contract test used in this section will be applied as under section 544(a)(1) not to require a creditor to perfect against a creditor on a simple contract in the event applicable law makes such perfection impossible. For example, a purchaser from a debtor at an improperly noticed bulk sale may take subject to the rights of a creditor on a simple contract of the debtor for 1 year after the bulk sale. Since the purchaser cannot perfect against such a creditor on a simple contract, he should not be held responsible for failing to do the impossible. In the event the debtor goes into bankruptcy within a short time after the bulk sale, the trustee should not be able to use the avoiding powers under section 544(a)(1) or 547 merely because State law has made sometransfers of personal property subject to the rights of a creditor on a simple contract to acquire a judicial lien with no opportunity to perfect against such a creditor.
+Section 547(e)(1)(B) is adopted from the House bill and Senate amendment without change. It is intended that the simple contract test used in this section will be applied as under section 544(a)(1) not to require a creditor to perfect against a creditor on a simple contract in the event applicable law makes such perfection impossible. For example, a purchaser from a debtor at an improperly noticed bulk sale may take subject to the rights of a creditor on a simple contract of the debtor for 1 year after the bulk sale. Since the purchaser cannot perfect against such a creditor on a simple contract, he should not be held responsible for failing to do the impossible. In the event the debtor goes into bankruptcy within a short time after the bulk sale, the trustee should not be able to use the avoiding powers under section 544(a)(1) or 547 merely because State law has made some transfers of personal property subject to the rights of a creditor on a simple contract to acquire a judicial lien with no opportunity to perfect against such a creditor.
 
 Preferences: The House amendment deletes from the category of transfers on account of antecedent debts which may be avoided under the preference rules, section 547(b)(2), the exception in the Senate amendment for taxes owed to governmental authorities. However, for purposes of the "ordinary course" exception to the preference rules contained in section 547(c)(2), the House amendment specifies that the 45-day period referred to in section 547(c)(2)(B) is to begin running, in the case of taxes from the last due date, including extensions, of the return with respect to which the tax payment was made.
 
@@ -208,13 +158,13 @@ The third exception is for enabling loans in connection with which the debtor ac
 
 The fourth exception codifies the net result rule in section 60c of current law \[section 96(c) of former title 11\]. If the creditor and the debtor have more than one exchange during the 90-day period, the exchanges are netted out according to the formula in paragraph (4). Any new value that the creditor advances must be unsecured in order for it to qualify under this exception.
 
-Paragraph (5) codifies the improvement in position test, and thereby overrules such cases as <i>DuBay v. Williams</i>, 417 F.2d 1277 (C.A.9, 1966), and <i>Grain Merchants of Indiana, Inc. v. Union Bank and Savings Co</i>., 408 F.2d 209 (C.A.7, 1969). A creditor with a security interest in a floating mass, such as inventory or accounts receivable, is subject to preference attack to the extent he improves his position during the 90-day period before bankruptcy. The test is a two-point test, and requires determination of the secured creditor's position 90 days before the petition and on the date of the petition. If new value was first given after 90 days before the case, the date on which it was first given substitutes for the 90-day point.
+Paragraph (5) codifies the improvement in position test, and thereby overrules such cases as <i>DuBay v. Wil</i><i>liams</i>, 417 F.2d 1277 (C.A.9, 1966), and <i>Grain Merchants of Indiana, Inc. v. Union Bank and Savings Co</i>., 408 F.2d 209 (C.A.7, 1969). A creditor with a security interest in a floating mass, such as inventory or accounts receivable, is subject to preference attack to the extent he improves his position during the 90-day period before bankruptcy. The test is a two-point test, and requires determination of the secured creditor's position 90 days before the petition and on the date of the petition. If new value was first given after 90 days before the case, the date on which it was first given substitutes for the 90-day point.
 
 Paragraph (6) excepts statutory liens validated under section 545 from preference attack. It also protects transfers in satisfaction of such liens, and the fixing of a lien under section 365(j), which protects a vendee whose contract to purchase real property from the debtor is rejected.
 
 Subsection (d), derived from section 67a of the Bankruptcy Act \[section 107(a) of former title 11\], permits the trustee to avoid a transfer to reimburse a surety that posts a bond to dissolve a judicial lien that would have been avoidable under this section. The second sentence protects the surety from double liability.
 
-Subsection (e) determines when a transfer is made for the purposes of the preference section. Paragraph (1) defines when a transfer is perfected. For real property, a transfer is perfected when it is valid against a bona fide purchaser. For personal property and fixtures, a transfer is perfected when it is valid against a creditor on a simple contract that obtains a judicial lien after the transfer is perfected. "Simple contract" as used here is derived from Bankruptcy Act §60a(4) \[section 96(a)(4) of former title 11\]. Paragraph (2) specifies that a transfer is made when it takes effect between the transferor and the transferee if it is perfected at or within 10 days after that time. Otherwise, it is made when the transfer is perfected. If it is not perfected before the commencement of the case, it is made immediately before the commencement of the case. Paragraph (3) specifies that a transfer is not made until the debtor has acquired rights in the property transferred.This provision, more than any other in the section, overrules <i>DuBay</i> and <i>Grain Merchants</i>, and in combination with subsection (b)(2), overrules <i>In re King-Porter Co</i>., 446 F.2d 722 (5th Cir. 1971).
+Subsection (e) determines when a transfer is made for the purposes of the preference section. Paragraph (1) defines when a transfer is perfected. For real property, a transfer is perfected when it is valid against a bona fide purchaser. For personal property and fixtures, a transfer is perfected when it is valid against a creditor on a simple contract that obtains a judicial lien after the transfer is perfected. "Simple contract" as used here is derived from Bankruptcy Act §60a(4) \[section 96(a)(4) of former title 11\]. Paragraph (2) specifies that a transfer is made when it takes effect between the transferor and the transferee if it is perfected at or within 10 days after that time. Otherwise, it is made when the transfer is perfected. If it is not perfected before the commencement of the case, it is made immediately before the commencement of the case. Paragraph (3) specifies that a transfer is not made until the debtor has acquired rights in the property transferred. This provision, more than any other in the section, overrules <i>DuBay</i> and <i>Grain Merchants</i>, and in combination with subsection (b)(2), overrules <i>In re King-Porter Co</i>., 446 F.2d 722 (5th Cir. 1971).
 
 Subsection (e) is designed to reach the different results under the 1962 version of Article 9 of the U.C.C. and under the 1972 version because different actions are required under each version in order to make a security agreement effective between the parties.
 
@@ -320,7 +270,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commencedunder this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -336,7 +286,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (c)(9), dollar amount "6,425" was adjusted to "6,825". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (c)(9), dollar amount "6,825" was adjusted to "7,575". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (c)(9), dollar amount "6,425" was adjusted to "6,825".
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (c)(9), dollar amount "6,225" was adjusted to "6,425".
 

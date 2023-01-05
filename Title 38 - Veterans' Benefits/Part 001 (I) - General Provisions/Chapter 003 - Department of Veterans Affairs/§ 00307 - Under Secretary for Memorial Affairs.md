@@ -14,5 +14,5 @@ Provisions similar to those in this section were contained in section 3(d) of Pu
 
 <b>1998</b>—Pub. L. 105–368, §403(c)(1)(A), substituted "Under Secretary for Memorial Affairs" for "Director of the National Cemetery System" in section catchline.
 
-Pub. L. 105–368, §403(a)(3), in first sentence, substituted "an Under Secretary for Memorial Affairs" for "a Director of the National Cemetery System" and, in second sentence, substituted "The Under Secretary is the head of the National Cemetery Administration" for "The Director is the head of the National Cemetery System".
+Pub. L. 105–368, §403(a)(3), in first sentence, substituted "an Under Secretary for Memorial Affairs" for "a Director of the National Cemetery System" and, in second sentence, substituted "The Under Secretary isthe head of the National Cemetery Administration" for "The Director is the head of the National Cemetery System".
 

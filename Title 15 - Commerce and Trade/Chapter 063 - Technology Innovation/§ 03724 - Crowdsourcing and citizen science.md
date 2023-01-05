@@ -148,7 +148,7 @@ In this section:
 
 #### (A) General Services Administration assistance
 
-&emsp;&emsp;The Administrator of the General Services Administration, in coordination with the Director of the Office of Personnel Management and the Director of the Office of Science and Technology Policy, shall, at no cost to Federal science agencies, identify and develop relevant products, training, and services to facilitate the use of crowdsourcing and citizen science projects under this section, including by specifying the appropriate contract vehicles and technology and organizational platforms to enhance the ability of Federal science agencies to carry out the projects under this section.
+&emsp;&emsp;The Administrator of the General Services Administration, in coordination with the Director of the Office of Personnel Management and the Director of the Office of Science and Technology Policy, shall, at no cost to Federal science agencies, identify and develop relevant products, training, andservices to facilitate the use of crowdsourcing and citizen science projects under this section, including by specifying the appropriate contract vehicles and technology and organizational platforms to enhance the ability of Federal science agencies to carry out the projects under this section.
 
 #### (B) Additional guidance
 

@@ -8,9 +8,13 @@ This chapter may be cited as the "Federal Credit Union Act".
 
 #### Amendments
 
-<b>1959</b>—Pub. L. 86–354 reenacted section without change.
+<b>1959</b>—Pub. L. 86–354 reen acted section without change.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–103, div. T, §101, Mar. 15, 2022, 136 Stat. 823, provided that: "This division \[amending section 1764 of this title\] may be cited as the 'Credit Union Governance Modernization Act of 2022'."
 
 #### Short Title of 2014 Amendment
 

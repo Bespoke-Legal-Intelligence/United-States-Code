@@ -12,7 +12,7 @@ In addition to the startup funds provided under subsection (a) of this section, 
 
 At any time, the Secretary may provide the Foundation use of Department of Agriculture personnel, facilities, and equipment, with partial or no reimbursement, with such limitations and on such terms and conditions as the Secretary shall establish.
 
-(Pub. L. 101–593, title IV, §405, Nov. 16, 1990, 104 Stat. 2972; Pub. L. 103–106, §3(a), Oct. 12, 1993, 107 Stat. 1031; Pub. L. 114–54, title II, §201(a), Sept. 30, 2015, 129 Stat. 515; Pub. L. 115–334, title VIII, §8503(a), Dec. 20, 2018, 132 Stat. 4847.)
+(Pub. L. 101–593, title IV, §405, Nov. 16, 1990, 104 Stat. 2972; Pub. L. 103–106, §3(a), Oct. 12, 1993, 107Stat. 1031; Pub. L. 114–54, title II, §201(a), Sept. 30, 2015, 129 Stat. 515; Pub. L. 115–334, title VIII, §8503(a), Dec. 20, 2018, 132 Stat. 4847.)
 
 #### <b>Editorial Notes</b>
 

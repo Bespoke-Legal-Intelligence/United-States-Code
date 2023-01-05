@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) section 544(a)(2) shall be applied as if such section did not contain the phrase "or by or for his partner"; and
 
-&emsp;&emsp;(B) sections 544(a)(4)(A) and 544(b)(1) shall be applied by substituting "the corporation meet the stock ownership requirements of section 542(a)(2)" for "the corporation a personal holding company".
+&emsp;&emsp;(B) sections 544(a)(4)(A) and 544(b)(1) shall be applied by substituting "the corporationmeet the stock ownership requirements of section 542(a)(2)" for "the corporation a personal holding company".
 
 #### (b) Amounts considered at risk
 
@@ -254,7 +254,7 @@
 
 #### (C) Qualified leasing member
 
-&emsp;&emsp;For purposes of this paragraph, a corporation shall be treated as a qualified leasingmember for the taxable year only if for each of the taxable years referred to in subparagraph (B)—
+&emsp;&emsp;For purposes of this paragraph, a corporation shall be treated as a qualified leasing member for the taxable year only if for each of the taxable years referred to in subparagraph (B)—
 
 &emsp;&emsp;&emsp;(i) it is a component member of the controlled group of corporations, and
 
@@ -340,7 +340,7 @@
 
 #### (iv) Special rule for banks
 
-&emsp;&emsp;&emsp;For purposes of clause (iii) of subparagraph (C), in the case of a bank (as definedin section 581) or a financial institution to which section 591 applies—
+&emsp;&emsp;&emsp;For purposes of clause (iii) of subparagraph (C), in the case of a bank (as defined in section 581) or a financial institution to which section 591 applies—
 
 &emsp;&emsp;&emsp;&emsp;(I) gross income shall be determined without regard to the exclusion of interest from gross income under section 103, and
 
@@ -404,7 +404,7 @@
 
 #### (G) Loss of 1 member of affiliated group may not offset income of personal holding company or personal service corporation
 
-&emsp;&emsp;Nothing in this paragraph shall permit any loss of a member of an affiliated group to be used as an offset against the income of any other member of such group which is a personal holding company (as defined in section 542(a)) or a personal service corporation (as defined in section 269A(b) but determined by substituting "5 percent" for "10 percent" in section 269A(b)(2)).
+&emsp;&emsp;Nothing in this paragraph shall permit any loss of a member of an affiliated group to beused as an offset against the income of any other member of such group which is a personal holding company (as defined in section 542(a)) or a personal service corporation (as defined in section 269A(b) but determined by substituting "5 percent" for "10 percent" in section 269A(b)(2)).
 
 #### (d) Definition of loss
 

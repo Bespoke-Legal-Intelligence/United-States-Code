@@ -198,7 +198,7 @@ In general.—The Secretary shall review—
 
 &emsp;&emsp;(B)
 
-Consultation.—In conducting the review under subparagraph (A), the Secretary shall consult, as appropriate, with the heads of other Federal agencies that participate in the environmental review process.
+Consultation.—In conducting the review under subparagraph (A), the Secretaryshall consult, as appropriate, with the heads of other Federal agencies that participate in the environmental review process.
 
 &emsp;&emsp;(C)
 
@@ -598,7 +598,7 @@ Comment deadlines.—The lead agency shall establish the following deadlines for
 
 &emsp;(3)
 
-Deadlines for decisions under other laws.—In any case in which a decision under any Federal law relating to a project (including the issuance or denial of a permit or license) is required to be made by the later of the date that is 180 days after the date on which the Secretary made all final decisions of the lead agency with respect to the project, or 180 days after the date on which an application was submitted for the permit or license, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and publish on the Internet—
+Deadlines for decisions under other laws.—In any case in which a decision underany Federal law relating to a project (including the issuance or denial of a permit or license) is required to be made by the later of the date that is 180 days after the date on which the Secretary made all final decisions of the lead agency with respect to the project, or 180 days after the date on which an application was submitted for the permit or license, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives and publish on the Internet—
 
 &emsp;&emsp;(A) as soon as practicable after the 180-day period, an initial notice of the failure of the Federal agency to make the decision; and
 
@@ -686,7 +686,7 @@ Elevation of issue resolution.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If issue resolution is not achieved by not later than 30 days after the date of a relevant meeting under subparagraph (A), the Secretary shall notify the lead agency, the heads of the relevant participating agencies, and the project sponsor (including the Governor only if the initial issue resolution meeting request came from the Governor) that an issue resolution meeting will be convened.
+In general.—If issue resolution is not achieved by not later than 30 days after the date of a relevant meeting under subparagraph (A), the Secretary shall notify the lead agency, the heads of the relevantparticipating agencies, and the project sponsor (including the Governor only if the initial issue resolution meeting request came from the Governor) that an issue resolution meeting will be convened.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -860,7 +860,7 @@ Limitations on Claims.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of law, a claim arising under Federal law seeking judicial review of a permit, license, or approval issued by a Federal agency for a highway or public transportation capitalproject shall be barred unless it is filed within 150 days after publication of a notice in the Federal Register announcing that the permit, license, or approval is final pursuant to the law under which the agency action is taken, unless a shorter time is specified in the Federal law pursuant to which judicial review is allowed. Nothing in this subsection shall create a right to judicial review or place any limit on filing a claim that a person has violated the terms of a permit, license, or approval.
+In general.—Notwithstanding any other provision of law, a claim arising under Federal law seeking judicial review of a permit, license, or approval issued by a Federal agency for a highway or public transportation capital project shall be barred unless it is filed within 150 days after publication of a notice in the Federal Register announcing that the permit, license, or approval is final pursuant to the law under which the agency action is taken, unless a shorter time is specified in the Federal law pursuant to which judicial review is allowed. Nothing in this subsection shall create a right to judicial review or place any limit on filing a claim that a person has violated the terms of a permit, license, or approval.
 
 &emsp;(2)
 
@@ -958,7 +958,7 @@ Length of environmental document.—
 
 &emsp;&emsp;(A)
 
-In general.—Notwithstanding any other provision of law and except as provided in subparagraph (B), to the maximumextent practicable, the text of the items described in paragraphs (4) through (6) of section 1502.10(a) of title 40, Code of Federal Regulations (or successor regulations), of an environmental impact statement for a project shall be 200 pages or fewer.
+In general.—Notwithstanding any other provision of law and except as provided in subparagraph (B), to the maximum extent practicable, the text of the items described in paragraphs (4) through (6) of section 1502.10(a) of title 40, Code of Federal Regulations (or successor regulations), of an environmental impact statement for a project shall be 200 pages or fewer.
 
 &emsp;&emsp;(B)
 
@@ -1062,13 +1062,13 @@ In general.—Not later than 1 year after the date on which the Secretary provid
 
 Public comment.—In a notice of proposed rulemaking under subparagraph (A), the applicable agency may solicit comments on whether any of the proposed new categorical exclusions meet the criteria for a categorical exclusion under section 1508.1 of title 40, Code of Federal Regulations (or successor regulations).
 
-(Added Pub. L. 109–59, title VI, §6002(a), Aug. 10, 2005, 119 Stat. 1857; amended Pub. L. 112–141, div. A, title I, §§1305–1309, July 6, 2012, 126 Stat.533–539; Pub. L. 114–94, div. A, title I, §1304(a)–(j)(1), Dec. 4, 2015, 129 Stat. 1378–1385; Pub. L. 117–58, div. A, title I, §§11301(a), 11525(h), Nov. 15, 2021, 135 Stat. 525, 607.)
+(Added Pub. L. 109–59, title VI, §6002(a), Aug. 10, 2005, 119 Stat. 1857; amended Pub. L. 112–141, div. A, title I, §§1305–1309, July 6, 2012, 126 Stat. 533–539; Pub. L. 114–94, div. A, title I, §1304(a)–(j)(1), Dec. 4, 2015, 129 Stat. 1378–1385; Pub. L. 117–58, div. A, title I, §§11301(a), 11525(h), Nov. 15, 2021, 135 Stat. 525, 607.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(3)–(5), (7)(A)(i), (b)(1), (3)(A)(iii)(I), (c)(2), (3), (6)(B), (d)(7)(A), (8)(A), (D)(ii), (f)(4)(B)(ii)(II), (E)(i)(I), (ii)(II), (VI)(aa), (h)(7)(B)(ii)(II)(bb), (8), (k)(2), (m)(1)(A), (n)(1), and (o)(1)(A)(i), (3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(3)–(5), (7)(A)(i), (b)(1), (3)(A)(iii)(I), (c)(2), (3), (6)(B), (d)(7)(A), (8)(A), (D)(ii), (f)(4)(B)(ii)(II), (E)(i)(I), (ii)(II), (VI)(aa), (h)(7)(B)(ii)(II)(bb), (8), (k)(2), (m)(1)(A), (n)(1), and (o)(1)(A)(i), (3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 etseq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The date of enactment of the Surface Transportation Reauthorization Act of 2021 and the date of enactment of this subsection, referred to in subsecs. (c)(7)(C) and (q)(1), are the date of enactment of div. A of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
@@ -1148,7 +1148,7 @@ Subsec. (b)(3)(A). Pub. L. 114–94, §1304(b)(1), struck out "initiate a rulema
 
 Subsec. (b)(3)(B). Pub. L. 114–94, §1304(b)(2), added subpar. (B) and struck out former subpar. (B) which related to programmatic compliance requirements.
 
-Subsec. (c)(1)(A). Pub. L. 114–94, §1304(c)(1), inserted ", or an operating administration thereof designatedby the Secretary," after "Department of Transportation".
+Subsec. (c)(1)(A). Pub. L. 114–94, §1304(c)(1), inserted ", or an operating administration thereof designated by the Secretary," after "Department of Transportation".
 
 Subsec. (c)(6)(C). Pub. L. 114–94, §1304(c)(2), added subpar. (C).
 
@@ -1238,7 +1238,7 @@ Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. 
 
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

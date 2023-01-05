@@ -12,11 +12,11 @@ For purposes of this chapter—
 
 &emsp;(C) if it bears or contains any food additive which is unsafe within the meaning of section 348 of this title;
 
-&emsp;(D) if it bears or contains any color additive which is unsafe within the meaning of section 379e of this title: <i>Provided</i>, That an article which is not otherwise deemed adulterated under clause (B), (C), or (D) shall nevertheless be deemed adulterated if use of the pesticide chemical, food additive, or color additive, in or on such article, is prohibited by regulations of the Secretary in official plants;
+&emsp;(D) if it bears or contains any color additive which is unsafe within the meaning of section 379e of this title: <i>Provided</i>, That an article which is not otherwise deemed adulterated under clause (B), (C), or (D) shall nevertheless be deemed adulterated if use of the pesticide chemical, food additive, or color additive, inor on such article, is prohibited by regulations of the Secretary in official plants;
 
 &emsp;(3) if it consists in whole or in part of any filthy, putrid, or decomposed substance, or if it is otherwise unfit for human food;
 
-&emsp;(4) if it has been prepared, packaged, or held under insanitary conditions whereby it may have become contaminated with filth, orwhereby it may have been rendered injurious to health;
+&emsp;(4) if it has been prepared, packaged, or held under insanitary conditions whereby it may have become contaminated with filth, or whereby it may have been rendered injurious to health;
 
 &emsp;(5) if it is an egg which has been subjected to incubation or the product of any egg which has been subjected to incubation;
 

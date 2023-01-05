@@ -66,9 +66,9 @@ An individual or a household may become ineligible under section 2015(d)(1) of t
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title IV of the Act is classified generally to subchapter IV (§601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Codification
 
@@ -94,7 +94,7 @@ Subsec. (b). Pub. L. 104–193, §109(e)(2), struck out "(1)" before "A househol
 
 "(B) In no event may any such member be required to participate in such program more than 120 hours per month.
 
-"(C) For the purpose of subparagraph (A)(i), the value of the food stamp allotment of a household for a month shall be determined in accordance with regulations governing the issuance of an allotment to a household that contains more members than the number of members in an assistance unit established under title IV of such Act."
+"(C) For the purpose of subparagraph (A)(i), the value of the food stamp allotment of a household for a monthshall be determined in accordance with regulations governing the issuance of an allotment to a household that contains more members than the number of members in an assistance unit established under title IV of such Act."
 
 Subsec. (f). Pub. L. 104–193, §815(b)(2), added subsec. (f) and struck out former subsec. (f) which read as follows: "In the event that any person fails to comply with the requirements of this section, neither that person nor the household to which that person belongs shall be eligible to participate in the food stamp program for two months, unless that person or another person in the household satisfies all outstanding workfare obligations prior to the end of the two-month disqualification period."
 

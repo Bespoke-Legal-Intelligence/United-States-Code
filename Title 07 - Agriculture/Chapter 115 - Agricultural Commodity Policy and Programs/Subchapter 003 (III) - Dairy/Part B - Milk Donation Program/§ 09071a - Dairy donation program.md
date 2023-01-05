@@ -48,7 +48,7 @@ Not later than 60 days after December 27, 2020, the Secretary shall establish an
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In receiving and reviewing a donation and distribution plan submitted underparagraph (1), the Secretary shall determine whether an emergency or disaster was a substantial factor in the submission, including—
+&emsp;&emsp;&emsp;In receiving and reviewing a donation and distribution plan submitted under paragraph (1), the Secretary shall determine whether an emergency or disaster was a substantial factor in the submission, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) a declared or renewed public health emergency under section 247d of title 42; and
 

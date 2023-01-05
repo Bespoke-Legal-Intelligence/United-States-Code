@@ -16,7 +16,7 @@ The Director shall ensure that any regulatory analysis that is conducted under t
 
 &emsp;&emsp;(B) the costs associated with the implementation of, and compliance with, the regulation;
 
-&emsp;&emsp;(C) where appropriate and meaningful, a comparison of that risk relative to other similar risks regulated by the Department or other Federal Agency, resulting from comparable activities and exposure pathways (such comparisons should consider relevant distinctions among risks, such as the voluntary or involuntary nature of risks and the preventability or nonpreventability of risks); and
+&emsp;&emsp;(C) where appropriate and meaningful, a comparison of that risk relative to othersimilar risks regulated by the Department or other Federal Agency, resulting from comparable activities and exposure pathways (such comparisons should consider relevant distinctions among risks, such as the voluntary or involuntary nature of risks and the preventability or nonpreventability of risks); and
 
 &emsp;&emsp;(D) the quantitative and qualitative benefits of the regulation, including the reduction or prevention of risk expected from the regulation.
 
@@ -28,7 +28,7 @@ The Director shall ensure that any regulatory analysis that is conducted under t
 
 &emsp;&emsp;(A) whether the regulation will advance the purpose of protecting against the risk referred to in paragraph (1)(A); and
 
-&emsp;&emsp;(B) whether the regulation will produce benefits and reduce risks to human health, human safety, or the environment, and any combination thereof, in a cost-effective manner as a result of the implementation ofand compliance with the regulation, by local, State, and Federal Government and other public and private entities, as estimated in paragraph (1)(B).
+&emsp;&emsp;(B) whether the regulation will produce benefits and reduce risks to human health, human safety, or the environment, and any combination thereof, in a cost-effective manner as a result of the implementation of and compliance with the regulation, by local, State, and Federal Government and other public and private entities, as estimated in paragraph (1)(B).
 
 #### (3) Construction
 

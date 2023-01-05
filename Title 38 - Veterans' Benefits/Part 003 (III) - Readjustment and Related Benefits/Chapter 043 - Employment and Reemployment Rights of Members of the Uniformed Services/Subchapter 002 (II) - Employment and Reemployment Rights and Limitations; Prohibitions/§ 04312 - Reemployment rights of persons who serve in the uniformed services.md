@@ -8,7 +8,17 @@
 
 &emsp;(3) except as provided in subsection (f), the person reports to, or submits an application for reemployment to, such employer in accordance with the provisions of subsection (e).
 
-(b) No notice is required under subsection (a)(1) if the giving of such notice is precluded by military necessity or, under all of the relevant circumstances, the giving of such notice is otherwise impossible or unreasonable. A determination of military necessity for the purposes of this subsection shall be made pursuant to regulations prescribed by the Secretary of Defense and shall not be subject to judicial review.
+(b)(1) No notice is required under subsection (a)(1) if the giving of such notice is precluded by military necessity or, under all of the relevant circumstances, the giving of such notice is otherwise impossible or unreasonable.
+
+(2) A determination of military necessity for purposes of paragraph (1) shall be made—
+
+&emsp;(A) except as provided in subparagraphs (B) and (C), pursuant to regulations prescribed by the Secretary of Defense;
+
+&emsp;(B) for persons performing service to the Federal Emergency Management Agency under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165f) and as intermittent personnel under section 306(b)(1) of such Act (42 U.S.C. 5149(b)(1)), by the Administrator of the Federal Emergency Management Agency as described in sections 327(j)(2) and 306(d)(2) of such Act (42 U.S.C. 5165f(j)(2) and 5149(d)(2)),<sup>1</sup> respectively; or
+
+&emsp;(C) for intermittent disaster-response appointees of the National Disaster Medical System, by the Secretary of Health and Human Services as described in section 2812(d)(3)(B) of the Public Health Service Act (42 U.S.C. 300hh–11(d)(3)(B)).
+
+(3) A determination of military necessity under paragraph (1) shall not be subject to judicial review.
 
 (c) Subsection (a) shall apply to a person who is absent from a position of employment by reason of service in the uniformed services if such person's cumulative period of service in the uniformed services, with respect to the employer relationship for which a person seeks reemployment, does not exceed five years, except that any such period of service shall not include any service—
 
@@ -20,7 +30,7 @@
 
 &emsp;(4) performed by a member of a uniformed service who is—
 
-&emsp;&emsp;(A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 <sup>1</sup> of title 14;
+&emsp;&emsp;(A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 <sup>2</sup> of title 14;
 
 &emsp;&emsp;(B) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
@@ -28,7 +38,7 @@
 
 &emsp;&emsp;(D) ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the uniformed services;
 
-&emsp;&emsp;(E) called into Federal service as a member of the National Guard under chapter 15 of title 10 or under section 12406 of title 10; or
+&emsp;&emsp;(E) called into Federal service as a member of the National Guard under chapter 15 <sup>2</sup> of title 10 or under section 12406 of title 10; or
 
 &emsp;&emsp;(F) ordered to full-time National Guard duty (other than for training) under section 502(f)(2)(A) of title 32 when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds, as determined by the Secretary concerned.
 
@@ -90,7 +100,7 @@
 
 (h) In any determination of a person's entitlement to protection under this chapter, the timing, frequency, and duration of the person's training or service, or the nature of such training or service (including voluntary service) in the uniformed services, shall not be a basis for denying protection of this chapter if the service does not exceed the limitations set forth in subsection (c) and the notice requirements established in subsection (a)(1) and the notification requirements established in subsection (e) are met.
 
-(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III, §311(4), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 112–81, div. A, title V, §575, Dec. 31, 2011, 125 Stat. 1428; Pub. L. 114–92, div. A, title V, §562, Nov. 25, 2015, 129 Stat. 829.)
+(Added Pub. L. 103–353, §2(a), Oct. 13, 1994, 108 Stat. 3153; amended Pub. L. 104–275, title III,§311(4), Oct. 9, 1996, 110 Stat. 3334; Pub. L. 112–81, div. A, title V, §575, Dec. 31, 2011, 125 Stat. 1428; Pub. L. 114–92, div. A, title V, §562, Nov. 25, 2015, 129 Stat. 829; Pub. L. 117–178, §3(b), Sept. 29, 2022, 136 Stat. 2111.)
 
 #### <b>Editorial Notes</b>
 
@@ -98,11 +108,15 @@
 
 Sections 331, 332, 359, 360, 367, and 712 of title 14, referred to in subsec. (c)(4)(A), were redesignated sections 2127, 2128, 2308, 2309, 2314, and 3713, respectively, of title 14 by Pub. L. 115–282, title I, §§112(b), 113(b), 118(b), Dec. 4, 2018, 132 Stat. 4216, 4221, 4233, and references to section 331, 332, 359, 360, 367, or 712 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding section 101 of Title 14, Coast Guard.
 
+Chapter 15 of title 10, referred to in subsec. (c)(4)(E), was redesignated chapter 13 of title 10 by Pub. L. 114–328, div. A, title XII, §1241(a)(1), Dec. 23, 2016, 130 Stat. 2497.
+
 #### Prior Provisions
 
 A prior section 4312 was renumbered section 7612 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–178 designated existing provisions as par. (1), struck out second sentence which read "A determination of military necessity for the purposes of this subsection shall be made pursuant to regulations prescribed by the Secretary of Defense and shall not be subject to judicial review.", and added pars. (2) and (3).
 
 <b>2015</b>—Subsec. (c)(4)(A). Pub. L. 114–92 inserted "12304a, 12304b," after "12304,".
 
@@ -132,5 +146,7 @@ Amendment by section 311(4)(A), (B)(ii)(II), (C) of Pub. L. 104–275 effective 
 
 Section effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, and with provisions relating to satisfaction of the notification requirement of subsec. (a)(1) of this section, see section 8 of Pub. L. 103–353, set out as a note under section 4301 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. The closing parenthesis probably should follow "respectively".</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

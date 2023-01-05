@@ -58,7 +58,7 @@ Effective from its commencing date, there shall be an increase of 10 percent in 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (c)(1). Pub. L. 100–238 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The first increase (if any) made under this section to an annuity which is payable from the Fund under this part to a participant or to the surviving spouse of a deceased participant who dies in service shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–238 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The first increase (if any) made under this section to an annuity which is payable from the Fund under thispart to a participant or to the surviving spouse of a deceased participant who dies in service shall be equal to the product (adjusted to the nearest 1/10 of 1 percent) of—
 
 &emsp;"(a) 1/6 of the applicable percent change determined under subsection (b) of this section, multiplied by
 

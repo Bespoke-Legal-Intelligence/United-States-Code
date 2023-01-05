@@ -20,7 +20,7 @@ Before making any disclosure of any information to a foreign authority, the Boar
 
 &emsp;&emsp;&emsp;(i) such procedures as the Federal banking agency may establish for use in connection with the administration and enforcement of Federal banking laws; or
 
-&emsp;&emsp;&emsp;(ii) a memorandum of understanding or other similar arrangement between the Federal banking agency and the foreign regulatory or supervisory authority.
+&emsp;&emsp;&emsp;(ii) a memorandum of understanding or other similar arrangement between theFederal banking agency and the foreign regulatory or supervisory authority.
 
 #### (2) Treatment under title 5
 

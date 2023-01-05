@@ -44,13 +44,15 @@ To the extent necessary to decision and when presented, the reviewing court shal
 
 #### (e) Attorney's fees
 
-If the individual referred to in subsection (a) is the prevailing party in a proceeding under this subsection,<sup>1</sup> attorney's fees may be allowed bythe court in accordance with the standards prescribed under section 2000e–5(k) of this title.
+If the individual referred to in subsection (a) is the prevailing party in a proceeding under this subsection,<sup>1</sup> attorney's fees may be allowed by the court in accordance with the standards prescribed under section 2000e–5(k) of this title.
 
 (Pub. L. 102–166, title III, §304, formerly §321, Nov. 21, 1991, 105 Stat. 1097; renumbered §304 and amended Pub. L. 104–1, title V, §504(a)(3), (4), Jan. 23, 1995, 109 Stat. 41.)
 
 #### <b>Editorial Notes</b>
 
 #### Codification
+
+Section was enacted as part of the Government Employee Rights Act of 1991, and not as part of the Civil Rights Act of 1964, title VII of which comprises this subchapter.
 
 Section was formerly classified to section 1220 of Title 2, The Congress.
 

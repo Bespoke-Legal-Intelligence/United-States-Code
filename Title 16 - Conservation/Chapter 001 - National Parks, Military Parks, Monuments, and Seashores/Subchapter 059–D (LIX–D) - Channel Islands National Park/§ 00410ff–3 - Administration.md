@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of the Interior; low-intensity, limited-entry basis for administration
 
-Subject to the provisions of section 410ff of this title, the Secretary shall administer the park in accordance with the provisions of theAct of August 25, 1916 (39 Stat. 535), as amended and supplemented (16 U.S.C. 1 et seq.).<sup>1</sup> In the administration of the park, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural and cultural resources as he deems appropriate to carry out the purposes of this subchapter. The park shall be administered on a low-intensity, limited-entry basis.
+Subject to the provisions of section 410ff of this title, the Secretary shall administer the park in accordance with the provisions of the Act of August 25, 1916 (39 Stat. 535), as amended and supplemented (16 U.S.C. 1 et seq.).<sup>1</sup> In the administration of the park, the Secretary may utilize such statutory authority available for the conservation and management of wildlife and natural and cultural resources as he deems appropriate to carry out the purposes of this subchapter. The park shall be administered on a low-intensity, limited-entry basis.
 
 #### (b) Limited visitor use; establishment of appropriate visitor carrying capacities
 
@@ -20,7 +20,7 @@ In recognition of the special fragility and sensitivity of the park's resources,
 
 #### References in Text
 
-The Act of August 25, 1916 (39 Stat. 535), as amended and supplemented (16 U.S.C. 1 et seq.), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act of August 25, 1916 (39 Stat. 535), as amended and supplemented (16 U.S.C. 1 et seq.), referred to insubsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Codification
 

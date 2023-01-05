@@ -27,6 +27,7 @@
 | [1523\.](Subchapter%20002%20%28II%29%20-%20Federal%20Cybersecurity%20Enhancement/%C2%A7%2001523%20-%20Federal%20cybersecurity%20requirements.md) | Federal cybersecurity requirements. |
 | [1524\.](Subchapter%20002%20%28II%29%20-%20Federal%20Cybersecurity%20Enhancement/%C2%A7%2001524%20-%20Assessment%3B%20reports.md) | Assessment; reports. |
 | [1525\.](Subchapter%20002%20%28II%29%20-%20Federal%20Cybersecurity%20Enhancement/%C2%A7%2001525%20-%20Termination.md) | Termination. |
+| [1526\.](Subchapter%20002%20%28II%29%20-%20Federal%20Cybersecurity%20Enhancement/%C2%A7%2001526%20-%20Inventory%20of%20cryptographic%20systems%3B%20migration%20to%20post-quantum%20cryptography.md) | Inventory of cryptographic systems; migration to post-quantum cryptography. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -37,6 +38,7 @@
 | [1531\.](Subchapter%20003%20%28III%29%20-%20Other%20Cyber%20Matters/%C2%A7%2001531%20-%20Apprehension%20and%20prosecution%20of%20international%20cyber%20criminals.md) | Apprehension and prosecution of international cyber criminals. |
 | [1532\.](Subchapter%20003%20%28III%29%20-%20Other%20Cyber%20Matters/%C2%A7%2001532%20-%20Enhancement%20of%20emergency%20services.md) | Enhancement of emergency services. |
 | [1533\.](Subchapter%20003%20%28III%29%20-%20Other%20Cyber%20Matters/%C2%A7%2001533%20-%20Improving%20cybersecurity%20in%20the%20health%20care%20industry.md) | Improving cybersecurity in the health care industry. |
+| [1534\.](Subchapter%20003%20%28III%29%20-%20Other%20Cyber%20Matters/%C2%A7%2001534%20-%20Cybercrime.md) | Cybercrime. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,7 +68,7 @@ In general.—No amount may be expended by the Federal Government, other than th
 
 &emsp;"(2)
 
-Department of defense agreements.—Any agreement between the Department of Defense andthe Russian Federation regarding cybersecurity shall be conducted in accordance with section 1232 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) \[130 Stat. 2488\], as amended by section 1231 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91) \[131 Stat. 1657\].
+Department of defense agreements.—Any agreement between the Department of Defense and the Russian Federation regarding cybersecurity shall be conducted in accordance with section 1232 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) \[130 Stat. 2488\], as amended by section 1231 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91) \[131 Stat. 1657\].
 
 "(c)
 
@@ -96,7 +98,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Cybersecurity of Federal Networks</i>.
 
-(a) <i>Policy</i>. The executive branch operates its information technology (IT) on behalf of the American people. Its IT and data should be secured responsibly using all United States Government capabilities. The President will hold heads of executive departments and agencies (agency heads) accountable for managing cybersecurity risk to their enterprises. In addition, because risk management decisions made by agency heads can affect the risk to the executive branch as a whole, and to national security, it is also the policy of the United States to manage cybersecurity risk as an executive branch enterprise.
+(a) <i>Policy</i>. The executive branch operates its information technology (IT) on behalf of the American people. Its IT and data should be secured responsibly using all United States Government capabilities. The Presidentwill hold heads of executive departments and agencies (agency heads) accountable for managing cybersecurity risk to their enterprises. In addition, because risk management decisions made by agency heads can affect the risk to the executive branch as a whole, and to national security, it is also the policy of the United States to manage cybersecurity risk as an executive branch enterprise.
 
 (b) <i>Findings</i>.
 
@@ -268,7 +270,7 @@ Section 1. <i>Policy</i>. (a) America's cybersecurity workforce is a strategic a
 
 (e) In accordance with Executive Order 13800, the President will continue to hold heads of executive departments and agencies (agencies) accountable for managing cybersecurity risk to their enterprises, which includes ensuring the effectiveness of their cybersecurity workforces.
 
-Sec. 2. <i>Strengthening the Federal Cybersecurity Workforce</i>. (a) To grow the cybersecurity capability of the United States Government, increase integration of the Federal cybersecurity workforce, and strengthen the skills of Federal information technology and cybersecurity practitioners, the Secretary of Homeland Security, in consultation with the Director of the Office of Management and Budget (OMB) and the Director of the Office of Personnel Management (OPM), shall establish a cybersecurity rotational assignment program, which will serve as a mechanism for knowledge transfer and a development program for cybersecurity practitioners. Within 90 days of the date of this order \[May 2, 2019\], the Secretary of Homeland Security, in consultation with the Directors of OMB and OPM, shall provide a report to the President that describes the proposed program, identifies its resource implications, and recommends actions required for its implementation. The report shall evaluate how to achieve the following objectives, to the extent permitted by applicable law, as part of the program:
+Sec. 2. <i>Strengthening the Federal Cybersecurity Workforce</i>. (a) To grow the cybersecurity capability of the United States Government, increase integration of the Federal cybersecurity workforce, and strengthen the skills of Federal information technology andcybersecurity practitioners, the Secretary of Homeland Security, in consultation with the Director of the Office of Management and Budget (OMB) and the Director of the Office of Personnel Management (OPM), shall establish a cybersecurity rotational assignment program, which will serve as a mechanism for knowledge transfer and a development program for cybersecurity practitioners. Within 90 days of the date of this order \[May 2, 2019\], the Secretary of Homeland Security, in consultation with the Directors of OMB and OPM, shall provide a report to the President that describes the proposed program, identifies its resource implications, and recommends actions required for its implementation. The report shall evaluate how to achieve the following objectives, to the extent permitted by applicable law, as part of the program:
 
 (i) The non-reimbursable detail of information technology and cybersecurity employees, who are nominated by their employing agencies, to serve at the Department of Homeland Security (DHS);
 
@@ -336,7 +338,7 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

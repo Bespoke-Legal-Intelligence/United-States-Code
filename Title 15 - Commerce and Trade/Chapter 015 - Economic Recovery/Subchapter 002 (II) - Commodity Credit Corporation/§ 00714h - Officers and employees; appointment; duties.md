@@ -1,6 +1,6 @@
 ### §714h. Officers and employees; appointment; duties
 
-The Secretary shall appoint such officers and employees as may be necessary for the conduct of the business of the Corporation, define theirauthority and duties, delegate to them such of the powers vested in the Corporation as he may determine. With the exception of experts, appointments shall be made pursuant to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5.
+The Secretary shall appoint such officers and employees as may be necessary for the conduct of the business of the Corporation, define their authority and duties, delegate to them such of the powers vested in the Corporation as he may determine. With the exception of experts, appointments shall be made pursuant to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5.
 
 (June 29, 1948, ch. 704, §10, 62 Stat. 1073; June 7, 1949, ch. 175, §4, 63 Stat. 156; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 92–310, title II, §224(b), June 6, 1972, 86 Stat. 206.)
 
@@ -16,7 +16,7 @@ The Secretary shall appoint such officers and employees as may be necessary for 
 
 <b>1949</b>—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
-Act June 7, 1949, amended section generally to permit the Secretary to appoint the officers and employees of the Corporation and to define their authority and duties.
+Act June 7, 1949, amended section generally to permit the Secretary to appoint the officers and employees ofthe Corporation and to define their authority and duties.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

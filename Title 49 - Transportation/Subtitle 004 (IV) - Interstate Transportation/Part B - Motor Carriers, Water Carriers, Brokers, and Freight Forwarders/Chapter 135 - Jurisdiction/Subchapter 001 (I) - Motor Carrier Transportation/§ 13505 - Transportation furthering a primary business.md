@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Neither the Secretary nor the Board has jurisdiction under this part overthe transportation of property by motor vehicle when—
+In General.—Neither the Secretary nor the Board has jurisdiction under this part over the transportation of property by motor vehicle when—
 
 &emsp;(1) the property is transported by a person engaged in a business other than transportation; and
 

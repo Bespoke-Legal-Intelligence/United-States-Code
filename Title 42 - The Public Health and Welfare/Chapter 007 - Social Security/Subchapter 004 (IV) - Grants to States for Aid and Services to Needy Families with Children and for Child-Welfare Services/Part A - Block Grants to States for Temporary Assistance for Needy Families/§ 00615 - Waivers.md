@@ -10,7 +10,7 @@
 
 #### (B) Financing limitation
 
-&emsp;&emsp;Notwithstanding any other provision of law, beginning with fiscal year 1996, a State operating under a waiver described in subparagraph (A) shall be entitled to payment under section 603 of this title for the fiscal year, in lieu of any other payment provided for in the waiver.
+&emsp;&emsp;Notwithstanding any other provision of law, beginning with fiscal year 1996, a Stateoperating under a waiver described in subparagraph (A) shall be entitled to payment under section 603 of this title for the fiscal year, in lieu of any other payment provided for in the waiver.
 
 #### (2) Waivers granted subsequently
 
@@ -40,7 +40,7 @@
 
 #### (B) Date described
 
-&emsp;&emsp;The date described in this subparagraph is 90 days following the adjournment of thefirst regular session of the State legislature that begins after August 22, 1996.
+&emsp;&emsp;The date described in this subparagraph is 90 days following the adjournment of the first regular session of the State legislature that begins after August 22, 1996.
 
 #### (c) Secretarial encouragement of current waivers
 

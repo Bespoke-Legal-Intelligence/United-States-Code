@@ -48,7 +48,7 @@ Notice to congress.—Prior to closure, cessation of operations, or any signific
 
 &emsp;&emsp;&emsp;(iii) Each member of the House of Representatives who represents a district in which assets of the air facility conduct search and rescue operations.
 
-&emsp;&emsp;&emsp;(iv) Each member of the Senate who represents a State in which assets of the airfacility conduct search and rescue operations.
+&emsp;&emsp;&emsp;(iv) Each member of the Senate who represents a State in which assets of the air facility conduct search and rescue operations.
 
 &emsp;&emsp;&emsp;(v) The Committee on Appropriations of the House of Representatives.
 
@@ -92,7 +92,7 @@ Subsecs. (b), (c). Pub. L. 115–282, §319(2), redesignated subsec. (c) as (b).
 
 #### Effective Date of 2016 Amendment
 
-Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under section 315 of this title.
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e)of Pub. L. 114–328, set out as a note under section 315 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "; and".</i>
 

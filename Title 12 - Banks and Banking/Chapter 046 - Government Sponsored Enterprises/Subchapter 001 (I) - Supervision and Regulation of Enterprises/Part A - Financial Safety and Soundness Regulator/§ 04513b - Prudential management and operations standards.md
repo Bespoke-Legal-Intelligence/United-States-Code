@@ -52,7 +52,7 @@ The Director shall establish standards, by regulation or guideline, for each reg
 
 #### (2) Required order upon failure to submit or implement plan
 
-&emsp;If a regulated entity fails to submit an acceptable plan within the time allowed underparagraph (1)(C), or fails in any material respect to implement a plan accepted by the Director, the following shall apply:
+&emsp;If a regulated entity fails to submit an acceptable plan within the time allowed under paragraph (1)(C), or fails in any material respect to implement a plan accepted by the Director, the following shall apply:
 
 #### (A) Required correction of deficiency
 
@@ -92,5 +92,5 @@ The authority of the Director under this section is in addition to any other aut
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(7), was in the original "this title", meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsec. (a)(7), was in the original "this title", meaning title XIII of Pub. L.102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 

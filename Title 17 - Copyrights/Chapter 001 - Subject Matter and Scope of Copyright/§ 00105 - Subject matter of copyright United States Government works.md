@@ -6,13 +6,21 @@ In General.—Copyright protection under this title is not available for any wor
 
 (b)
 
-Copyright Protection of Certain of <sup>1</sup> Works.—Subject to subsection (c),<sup>2</sup> the covered author of a covered work owns the copyright to that covered work.
+Copyright Protection of Certain Works.—Subject to subsection (c), the covered author of a covered work owns the copyright to that covered work.
 
-(c) <sup>2</sup>
+(c)
 
-Use by Federal Government.—The Secretary of Defense may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+Use by Federal Government.—
 
-(c) <sup>2</sup>
+&emsp;(1)
+
+Secretary of defense authority.—With respect to a covered author who produces a covered work in the course of employment at a covered institution described in subparagraphs (A) through (L) of subsection (d)(2), the Secretary of Defense may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+
+&emsp;(2)
+
+Director of national intelligence authority.—With respect to a covered author who produces a covered work in the course ofemployment at the covered institution described in subsection (d)(2)(M),<sup>1</sup> the Director of National Intelligence may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+
+(d)
 
 Definitions.—In this section:
 
@@ -44,9 +52,21 @@ Definitions.—In this section:
 
 &emsp;&emsp;(L) United States Coast Guard Academy.
 
-&emsp;(3) The term "covered work" means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.
+&emsp;&emsp;(M) <sup>2</sup> United States Merchant Marine Academy.
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 116–92, div. A, title V, §544, Dec. 20, 2019, 133 Stat. 1376.)
+&emsp;&emsp;(M) <sup>2</sup> National Intelligence University.
+
+&emsp;(3) The term "covered Secretary" <sup>3</sup> means—
+
+&emsp;&emsp;(A) the Secretary of Transportation, with respect to the United States Merchant Marine Academy;
+
+&emsp;&emsp;(B) the Secretary of Homeland Security, with respect to the United States Coast Guard Academy; or
+
+&emsp;&emsp;(C) the Secretary of Defense, with respect to any other covered institution under paragraph (2).
+
+&emsp;(4) The term "covered work" means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2546; Pub. L. 116–92, div. A, title V, §544, Dec. 20, 2019, 133 Stat. 1376; Pub. L. 117–263, div. C, title XXXV, §3514, div. F, title LXIII, §6306, Dec. 23, 2022, 136 Stat. 3068, 3504.)
 
 #### Historical and Revision Notes
 
@@ -74,15 +94,31 @@ In response to this request the Committee adopted a limited exception to the gen
 
 Retention of a saving clause has been urged on the ground that the present statutory provision is frequently cited, and that having the provision expressly stated in the law would avoid questions and explanations. The committee here observes: (1) there is nothing in section 105 that would relieve the Government of its obligation to secure permission in order to publish a copyrighted work; and (2) publication or other use by the Government of a private work would not affect its copyright protection in any way. The question of use of copyrighted material in documents published by the Congress and its Committees is discussed below in connection with section 107.
 
-<b>Works of the United States Postal Service.</b> The intent of section 105 \[this section\] is to restrict the prohibition against Government copyright to works writtenby employees of the United States Government within the scope of their official duties. In accordance with the objectives of the Postal Reorganization Act of 1970 \[Pub. L. 91–375, which enacted title 39, Postal Service\], this section does not apply to works created by employees of the United States Postal Service. In addition to enforcing the criminal statutes proscribing the forgery or counterfeiting of postage stamps, the Postal Service could, if it chooses, use the copyright law to prevent the reproduction of postage stamp designs for private or commercial non-postal services (for example, in philatelic publications and catalogs, in general advertising, in art reproductions, in textile designs, and so forth). However, any copyright claimed by the Postal Service in its works, including postage stamp designs, would be subject to the same conditions, formalities, and time limits as other copyrightable works.
+<b>Works of the United States Postal Service.</b> The intent of section 105 \[this section\] is to restrict the prohibition against Government copyright to works written by employees of the United States Government within the scope of their official duties. In accordance with the objectives of the Postal Reorganization Act of 1970 \[Pub. L. 91–375, which enacted title 39, Postal Service\], this section does not apply to works created by employees of the United States Postal Service. In addition to enforcing the criminal statutes proscribing the forgery or counterfeiting of postage stamps, the Postal Service could, if it chooses, use the copyright law to prevent the reproduction of postage stamp designs for private or commercial non-postal services (for example, in philatelic publications and catalogs, in general advertising, in art reproductions, in textile designs, and so forth). However, any copyright claimed by the Postal Service in its works, including postage stamp designs, would be subject to the same conditions, formalities, and time limits as other copyrightable works.
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2022</b>—Subsec. (b). Pub. L. 117–263, §3514(1), substituted "Certain Works" for "Certain of Works" in heading.
+
+Subsec. (c). Pub. L. 117–263, §6306(2), added subsec. (c) and struck out former subsec. (c). Text read as follows: "A covered Secretary may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government."
+
+Pub. L. 117–263, §3514(2), substituted "A covered Secretary" for "The Secretary of Defense".
+
+Subsec. (d). Pub. L. 117–263, §§3514(3), 6306(1), made identical amendments, redesignating subsec. (c) relating to definitions as (d).
+
+Subsec. (d)(2)(M). Pub. L. 117–263, §6306(3), added subpar. (M) relating to National Intelligence University.
+
+Pub. L. 117–263, §3514(4)(A), added subpar. (M) relating to United States Merchant Marine Academy.
+
+Subsec. (d)(3), (4). Pub. L. 117–263, §3514(4)(B), (C), added par. (3) and redesignated former par. (3) as (4).
+
 <b>2019</b>—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b) and two subsecs. (c). Heading of subsec. (a) was conformed to the style used in this title.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. There are two subpars. designated (M) in subsec. (d)(2).</i>
 
-<i><sup>2</sup></i><i> So in original. There are two subsecs. designated (c).</i>
+<i><sup>2</sup></i><i> So in original. There are two subpars. (M).</i>
+
+<i><sup>3</sup></i><i> Term does not appear in section after amendment by section 6306(2) of Pub. L. 117–263. See 2022 Amendment notes for subsec. (c) below.</i>
 

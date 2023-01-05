@@ -52,7 +52,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 #### (b) Disposition of resources; grounds for exemption from disposition requirements
 
-(1) The Commissioner of Social Security shall prescribe the period or periods of time within which, and the manner in which, various kinds of property must be disposed of in order not to be included in determining an individual's eligibility for benefits. Any portion of the individual's benefits paid for any such period shall be conditioned upon such disposal; and any benefits so paid shall (at the time of the disposal) be considered overpayments to the extent they wouldnot have been paid had the disposal occurred at the beginning of the period for which such benefits were paid.
+(1) The Commissioner of Social Security shall prescribe the period or periods of time withinwhich, and the manner in which, various kinds of property must be disposed of in order not to be included in determining an individual's eligibility for benefits. Any portion of the individual's benefits paid for any such period shall be conditioned upon such disposal; and any benefits so paid shall (at the time of the disposal) be considered overpayments to the extent they would not have been paid had the disposal occurred at the beginning of the period for which such benefits were paid.
 
 (2) Notwithstanding the provisions of paragraph (1), the Commissioner of Social Security shall not require the disposition of any real property for so long as it cannot be sold because (A) it is jointly owned (and its sale would cause undue hardship, due to loss of housing, for the other owner or owners), (B) its sale is barred by a legal impediment, or (C) as determined under regulations issued by the Commissioner of Social Security, the owner's reasonable efforts to sell it have been unsuccessful.
 
@@ -164,7 +164,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(iv) any restrictions on the use of distributions from the trust.
 
-(3)(A) In the case of a revocable trust established by an individual, the corpus of the trustshall be considered a resource available to the individual.
+(3)(A) In the case of a revocable trust established by an individual, the corpus of the trust shall be considered a resource available to the individual.
 
 (B) In the case of an irrevocable trust established by an individual, if there are any circumstances under which payment from the trust could be made to or for the benefit of the individual (or of the individual's spouse), the portion of the corpus from which payment to or for the benefit of the individual (or of the individual's spouse) could be made shall be considered a resource available to the individual.
 
@@ -198,13 +198,13 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 #### References in Text
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a)(10), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a)(10), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(11), (13), is classified generally to Title 26, Internal Revenue Code.
 
 Section 203 of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to in subsec. (a)(11)(A), is section 203 of Pub. L. 107–16, which is set out as a note under section 24 of Title 26, Internal Revenue Code.
 
-Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), (F)(i), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), (F)(i), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, which is set out as a note under section 1382 of this title.
 
 Section 1396p(e)(3) of this title, referred to in subsec. (c)(1)(F)(ii), was redesignated section 1396p(h)(3) of this title by Pub. L. 109–171, title VI, §§6012(a), 6014(a), 6015(b), Feb. 8, 2006, 120 Stat. 62, 64, 65.
 
@@ -314,9 +314,9 @@ Amendment by section 435(b) of Pub. L. 108–203 applicable to benefits payable 
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 205(a) of Pub. L. 106–169 effective Jan. 1, 2000, and applicable to trusts established on or after such date, see section 205(d) of Pub. L. 106–169, set out as a note under section 1382a of this title.
+Amendment by section 205(a) of Pub. L. 106–169 effective Jan. 1, 2000, and applicable to trusts established onor after such date, see section 205(d) of Pub. L. 106–169, set out as a note under section 1382a of this title.
 
-Pub. L. 106–169, title II, §206(c), Dec. 14, 1999, 113 Stat. 1837, provided that: "The amendments made by this section \[amending this section and section 1396a of thistitle\] shall be effective with respect to disposals made on or after the date of the enactment of this Act \[Dec. 14, 1999\]."
+Pub. L. 106–169, title II, §206(c), Dec. 14, 1999, 113 Stat. 1837, provided that: "The amendments made by this section \[amending this section and section 1396a of this title\] shall be effective with respect to disposals made on or after the date of the enactment of this Act \[Dec. 14, 1999\]."
 
 #### Effective Date of 1998 Amendment
 

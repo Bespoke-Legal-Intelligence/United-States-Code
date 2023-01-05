@@ -42,7 +42,7 @@ Limitation.—(A) Except as provided under subparagraph (B), funds appropriated 
 
 &emsp;&emsp;(ii) a written determination by the senior procurement executive of the military department or the Department of Defense as designated for purposes of section 1702(c) of title 41 that it is no longer appropriate to acquire the product or service using such procedures.
 
-(Added Pub. L. 114–92, div. A, title VIII, §851(a)(1), Nov. 25, 2015, 129 Stat. 916, §2380;amended Pub. L. 114–328, div. A, title VIII, §873, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–91, div. A, title VIII, §848, Dec. 12, 2017, 131 Stat. 1487; Pub. L. 115–232, div. A, title VIII, §836(d)(5), (8)(E), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered §3456 and amended Pub. L. 116–283, div. A, title VIII, §816, title XVIII, §§1821(a)(2), (b)(5), 1831(j)(5), Jan. 1, 2021, 134 Stat. 3750, 4195, 4217; Pub. L. 117–81, div. A, title XVII, §1701(b)(9), (10)(I)(ii), Dec. 27, 2021, 135 Stat. 2133, 2134.)
+(Added Pub. L. 114–92, div. A, title VIII, §851(a)(1), Nov. 25, 2015, 129 Stat. 916, §2380; amended Pub. L. 114–328, div. A, title VIII, §873, Dec. 23, 2016, 130 Stat. 2307; Pub. L. 115–91, div. A, title VIII, §848, Dec. 12, 2017, 131 Stat. 1487; Pub. L. 115–232, div. A, title VIII, §836(d)(5), (8)(E), Aug. 13, 2018, 132 Stat. 1868, 1869; renumbered §3456 and amended Pub. L. 116–283, div. A, title VIII, §816, title XVIII, §§1821(a)(2), (b)(5), 1831(j)(5), Jan. 1, 2021, 134 Stat. 3750, 4195, 4217; Pub. L. 117–81, div. A, title XVII, §1701(b)(9), (10)(I)(ii), Dec. 27, 2021, 135 Stat. 2133, 2134.)
 
 #### <b>Editorial Notes</b>
 

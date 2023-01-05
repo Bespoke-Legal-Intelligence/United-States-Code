@@ -6,7 +6,7 @@ The Capitol Police Board shall administer and manage the Fund (including establi
 
 #### (b) Regulations governing payments for employees killed in the line of duty or sustaining serious line-of-duty injuries
 
-In carrying out subsection (a), the Capitol Police Board shall issue specific regulations governing the use of the Fund for making payments to families of employees of the United States Capitol Police who were killed in the line of duty and employees of the United States Capitol Police who have sustained serious line-of-duty injuries (as authorized under section 1952(b) of this title), including regulations—
+In carrying out subsection (a), the Capitol Police Board shall issue specific regulations governing the use of the Fund for making payments to families of employees of the United States Capitol Police who were killed in the line ofduty and employees of the United States Capitol Police who have sustained serious line-of-duty injuries (as authorized under section 1952(b) of this title), including regulations—
 
 &emsp;(1) establishing the conditions under which the family of an employee or an employee is eligible to receive such a payment;
 

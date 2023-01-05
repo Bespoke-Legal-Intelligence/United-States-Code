@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any sanction or other measure required under subchapter I, II, or III (or any amendment made by such subchapters) (other than section 9214(g), 9221b, or 9221c of this title) may be suspended for up to 1 year upon certification by the President to the appropriate congressional committees that the Government of North Korea has made progress toward—
+Any sanction or other measure required under subchapter I, II, or III (or any amendment madeby such subchapters) (other than section 9214(g), 9221b, or 9221c of this title) may be suspended for up to 1 year upon certification by the President to the appropriate congressional committees that the Government of North Korea has made progress toward—
 
 &emsp;(1) verifiably ceasing its counterfeiting of United States currency, including the surrender or destruction of specialized materials and equipment used or particularly suitable for counterfeiting;
 
@@ -22,7 +22,7 @@ Any sanction or other measure required under subchapter I, II, or III (or any am
 
 #### (b) Renewal of suspension
 
-The suspension described in subsection (a) may be renewed for additional, consecutive 180-day periods after the President certifies to the appropriate congressional committees that theGovernment of North Korea has continued to comply with the conditions described in subsection (a) during the previous year.
+The suspension described in subsection (a) may be renewed for additional, consecutive 180-day periods after the President certifies to the appropriate congressional committees that the Government of North Korea has continued to comply with the conditions described in subsection (a) during the previous year.
 
 (Pub. L. 114–122, title IV, §401, Feb. 18, 2016, 130 Stat. 114; Pub. L. 116–92, div. F, title LXXI, §7143(b)(2), Dec. 20, 2019, 133 Stat. 2256.)
 

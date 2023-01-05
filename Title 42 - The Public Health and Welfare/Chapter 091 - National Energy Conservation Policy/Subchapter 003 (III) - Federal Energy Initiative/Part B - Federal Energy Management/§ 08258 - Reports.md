@@ -74,7 +74,7 @@ Subsec. (b)(1). Pub. L. 102–486, §152(g)(1), substituted "including—" and s
 
 Subsec. (c). Pub. L. 102–486, §152(g)(2), added subsec. (c).
 
-<b>1988</b>—Pub. L. 100–615 amended section generally, substituting provisions relating to reports to Secretaryand Congress for former requirement that in leasing Federal buildings for its own use or that of another Federal agency, each Federal agency should give appropriate preference to buildings which used solar heating and cooling equipment or other renewable energy sources or which otherwise minimized life cycle costs.
+<b>1988</b>—Pub. L. 100–615 amended section generally, substituting provisions relating to reports to Secretary and Congress for former requirement that in leasing Federal buildings for its own use or that of another Federal agency, each Federal agency should give appropriate preference to buildings which used solar heating and cooling equipment or other renewable energy sources or which otherwise minimized life cycle costs.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

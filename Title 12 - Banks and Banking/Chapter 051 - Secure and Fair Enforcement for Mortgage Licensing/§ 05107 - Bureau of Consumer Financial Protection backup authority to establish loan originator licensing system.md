@@ -18,7 +18,7 @@ For purposes of this section, the law in effect in a State meets the requirement
 
 &emsp;(1) A State loan originator supervisory authority is maintained to provide effective supervision and enforcement of such law, including the suspension, termination, or nonrenewal of a license for a violation of State or Federal law.
 
-&emsp;(2) The State loan originator supervisory authority ensures that all State-licensed loanoriginators operating in the State are registered with Nationwide Mortgage Licensing System and Registry.
+&emsp;(2) The State loan originator supervisory authority ensures that all State-licensed loan originators operating in the State are registered with Nationwide Mortgage Licensing System and Registry.
 
 &emsp;(3) The State loan originator supervisory authority is required to regularly report violations of such law, as well as enforcement actions and other relevant information, to the Nationwide Mortgage Licensing System and Registry.
 

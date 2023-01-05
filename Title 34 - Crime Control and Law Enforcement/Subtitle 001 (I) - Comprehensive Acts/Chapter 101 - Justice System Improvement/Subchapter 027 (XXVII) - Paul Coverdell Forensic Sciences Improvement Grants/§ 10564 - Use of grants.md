@@ -60,7 +60,7 @@ Section was formerly classified to section 3797m of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2016</b>—Subsec. (a)(2). Pub. L. 114–324, §9(a)(3)(A), inserted "impression evidence," after "latent prints,"and "digital evidence, fire evidence," after "toxicology,".
+<b>2016</b>—Subsec. (a)(2). Pub. L. 114–324, §9(a)(3)(A), inserted "impression evidence," after "latent prints," and "digital evidence, fire evidence," after "toxicology,".
 
 Subsec. (a)(3). Pub. L. 114–324, §9(a)(3)(B), inserted "and medicolegal death investigators" after "laboratory personnel".
 

@@ -24,7 +24,7 @@ Sections 17 and 21 of title 28, U.S.C., 1940 ed., were inconsistent insofar as t
 
 The provision of said section 17, that designation of a district judge to another circuit should be from an adjacent circuit if practicable, was omitted as an unnecessary restriction on the discretion of the Chief Justice.
 
-Section 19 of title 28, U.S.C., 1940 ed., is omitted as unnecessary. It authorized the Chief Justice of the United States to designate and assign any districtjudge to a district upon receiving a certificate from the clerk of the district that all circuit judges and the circuit justice were absent from the circuit, or were unable to appoint a substitute judge for the district,or where the district judge actually designated was disabled or neglected to hold court.
+Section 19 of title 28, U.S.C., 1940 ed., is omitted as unnecessary. It authorized the Chief Justice of the United States to designate and assign any district judge to a district upon receiving a certificate from the clerk of the district that all circuit judges and the circuit justice were absent from the circuit, or were unable to appoint a substitute judge for the district,or where the district judge actually designated was disabled or neglected to hold court.
 
 For omission of reference in said section 17 to senior Associate Justice, see reviser's note under section 291 of this title.
 
@@ -32,7 +32,7 @@ Reference in said section 17 to retired judges were omitted as covered by sectio
 
 Other provisions of said section 17 of title 28, U.S.C., 1940 ed., are incorporated in sections 291, 295, and 296 of this title. Other provisions of said section 216 of such title are incorporated in sections 45 and 47 of this title.
 
-Words "either in a district court or court of appeals" were inserted in subsection (c) as suggested by Hon. Learned Hand, Senior Circuit Judge of the Second Circuit. The revised section permits a district judge to be assigned directly to the circuit court of appeals of another circuit. Under existing law it has been assumed that he must be assigned to serve as a district judge on the other circuit and then designated to serve on the circuit court of appeals by that court in which his services are required.
+Words "either in a district court or court of appeals" were inserted in subsection (c) as suggested by Hon.Learned Hand, Senior Circuit Judge of the Second Circuit. The revised section permits a district judge to be assigned directly to the circuit court of appeals of another circuit. Under existing law it has been assumed that he must be assigned to serve as a district judge on the other circuit and then designated to serve on the circuit court of appeals by that court in which his services are required.
 
 Many changes were made in phraseology.
 

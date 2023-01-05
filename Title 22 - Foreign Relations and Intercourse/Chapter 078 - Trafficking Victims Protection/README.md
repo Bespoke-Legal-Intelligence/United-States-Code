@@ -6,6 +6,7 @@
 | [7102\.](%C2%A7%2007102%20-%20Definitions.md) | Definitions. |
 | [7103\.](%C2%A7%2007103%20-%20Interagency%20Task%20Force%20to%20Monitor%20and%20Combat%20Trafficking.md) | Interagency Task Force to Monitor and Combat Trafficking. |
 | [7103a.](%C2%A7%2007103a%20-%20Creating%2C%20building%2C%20and%20strengthening%20partnerships%20against%20significant%20trafficking%20in%20persons.md) | Creating, building, and strengthening partnerships against significant trafficking in persons. |
+| [7103b.](%C2%A7%2007103b%20-%20Survivors%20of%20Human%20Trafficking%20Empowerment%20Act.md) | Survivors of Human Trafficking Empowerment Act. |
 | [7104\.](%C2%A7%2007104%20-%20Prevention%20of%20trafficking.md) | Prevention of trafficking. |
 | [7104a.](%C2%A7%2007104a%20-%20Compliance%20plan%20and%20certification%20requirement.md) | Compliance plan and certification requirement. |
 | [7104b.](%C2%A7%2007104b%20-%20Monitoring%20and%20investigation%20of%20trafficking%20in%20persons.md) | Monitoring and investigation of trafficking in persons. |
@@ -26,6 +27,7 @@
 | [7112\.](%C2%A7%2007112%20-%20Additional%20activities%20to%20monitor%20and%20combat%20forced%20labor%20and%20child%20labor.md) | Additional activities to monitor and combat forced labor and child labor. |
 | [7113\.](%C2%A7%2007113%20-%20Accountability.md) | Accountability. |
 | [7114\.](%C2%A7%2007114%20-%20Efforts%20to%20end%20modern%20slavery.md) | Efforts to end modern slavery. |
+| [7115\.](%C2%A7%2007115%20-%20Ensuring%20protection%20and%20confidentiality%20for%20survivors%20of%20human%20trafficking.md) | Ensuring protection and confidentiality for survivors of human trafficking. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -38,6 +40,7 @@
 - [&sect; 07102 - Definitions](%C2%A7%2007102%20-%20Definitions.md)
 - [&sect; 07103 - Interagency Task Force to Monitor and Combat Trafficking](%C2%A7%2007103%20-%20Interagency%20Task%20Force%20to%20Monitor%20and%20Combat%20Trafficking.md)
 - [&sect; 07103a - Creating, building, and strengthening partnerships against significant trafficking in persons](%C2%A7%2007103a%20-%20Creating%2C%20building%2C%20and%20strengthening%20partnerships%20against%20significant%20trafficking%20in%20persons.md)
+- [&sect; 07103b - Survivors of Human Trafficking Empowerment Act](%C2%A7%2007103b%20-%20Survivors%20of%20Human%20Trafficking%20Empowerment%20Act.md)
 - [&sect; 07104 - Prevention of trafficking](%C2%A7%2007104%20-%20Prevention%20of%20trafficking.md)
 - [&sect; 07104a - Compliance plan and certification requirement](%C2%A7%2007104a%20-%20Compliance%20plan%20and%20certification%20requirement.md)
 - [&sect; 07104b - Monitoring and investigation of trafficking in persons](%C2%A7%2007104b%20-%20Monitoring%20and%20investigation%20of%20trafficking%20in%20persons.md)
@@ -58,3 +61,4 @@
 - [&sect; 07112 - Additional activities to monitor and combat forced labor and child labor](%C2%A7%2007112%20-%20Additional%20activities%20to%20monitor%20and%20combat%20forced%20labor%20and%20child%20labor.md)
 - [&sect; 07113 - Accountability](%C2%A7%2007113%20-%20Accountability.md)
 - [&sect; 07114 - Efforts to end modern slavery](%C2%A7%2007114%20-%20Efforts%20to%20end%20modern%20slavery.md)
+- [&sect; 07115 - Ensuring protection and confidentiality for survivors of human trafficking](%C2%A7%2007115%20-%20Ensuring%20protection%20and%20confidentiality%20for%20survivors%20of%20human%20trafficking.md)

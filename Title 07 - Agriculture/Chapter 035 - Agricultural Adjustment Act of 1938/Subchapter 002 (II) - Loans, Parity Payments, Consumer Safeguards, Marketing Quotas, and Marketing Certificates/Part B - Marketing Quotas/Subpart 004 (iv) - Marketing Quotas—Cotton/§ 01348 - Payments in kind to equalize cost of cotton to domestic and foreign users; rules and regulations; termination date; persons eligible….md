@@ -8,7 +8,7 @@ In order to maintain and expand domestic consumption of upland cotton produced i
 
 #### Prior Provisions
 
-A prior section 1348, acts Feb. 16, 1938, ch. 30, title III, §348, 52 Stat. 59; Aug. 29, 1949, ch. 518, §1, 63 Stat. 675;Aug. 28, 1954, ch. 1041, title III, §311(a), 68 Stat. 904, prohibited agricultural conservation program payments to any farmer who knowingly harvested any basic commodity in excess of his acreage allotment and was repealed by act May 23, 1955, ch. 45, 69 Stat. 65, effective with respect to 1955 and subsequent crops.
+A prior section 1348, acts Feb. 16, 1938, ch. 30, title III, §348, 52 Stat. 59; Aug. 29, 1949, ch. 518, §1, 63 Stat. 675; Aug. 28, 1954, ch. 1041, title III, §311(a), 68 Stat. 904, prohibited agricultural conservation program payments to any farmer who knowingly harvested any basic commodity in excess of his acreage allotment and was repealed by act May 23, 1955, ch. 45, 69 Stat. 65, effective with respect to 1955 and subsequent crops.
 
 #### Amendments
 

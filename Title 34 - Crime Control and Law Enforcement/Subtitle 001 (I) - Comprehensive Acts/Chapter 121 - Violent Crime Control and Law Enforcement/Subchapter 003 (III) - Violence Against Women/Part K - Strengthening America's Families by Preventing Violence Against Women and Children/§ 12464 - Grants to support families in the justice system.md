@@ -44,7 +44,7 @@ A grant under this section may be used to—
 
 &emsp;(7) collect data and provide training and technical assistance, including developing State, local, and tribal model codes and policies, to improve the capacity of grantees and communities to address the civil justice needs of victims of domestic violence, dating violence, sexual assault, and stalking who have legal representation, who are proceeding pro se, or who are proceeding with the assistance of a legal advocate; and
 
-&emsp;(8) to <sup>1</sup> improve training and education to assist judges, judicial personnel, attorneys, child welfare personnel, and legal advocates in the civil justice system.
+&emsp;(8) improve training and education to assist judges, judicial personnel, attorneys, child welfare personnel, and legal advocates in the civil justice system.
 
 #### (c) Considerations
 
@@ -62,7 +62,7 @@ A grant under this section may be used to—
 
 #### (2) Other grants
 
-&emsp;In making grants under subsection (b)(8) the Attorney General shall take into account the extent to which the grantee has expertise addressing the judicial system's handling of family violence, child custody, child abuse and neglect, adoption, foster care, supervised visitation, divorce, and parentage.
+&emsp;In making grants under subsection (b)(8) the Attorney General shall take into account theextent to which the grantee has expertise addressing the judicial system's handling of family violence, child custody, child abuse and neglect, adoption, foster care, supervised visitation, divorce, and parentage.
 
 #### (d) Applicant requirements
 
@@ -72,7 +72,7 @@ The Attorney General may make a grant under this section to an applicant that—
 
 &emsp;(2) ensures that any fees charged to individuals for use of supervised visitation programs and services are based on the income of those individuals, unless otherwise provided by court order;
 
-&emsp;(3) for a court-based program, certifies that victims of domestic violence, dating violence,sexual assault, or stalking are not charged fees or any other costs related to the filing, petitioning, modifying, issuance, registration, enforcement, withdrawal, or dismissal of matters relating to the domestic violence, dating violence, sexual assault, or stalking;
+&emsp;(3) for a court-based program, certifies that victims of domestic violence, dating violence, sexual assault, or stalking are not charged fees or any other costs related to the filing, petitioning, modifying, issuance, registration, enforcement, withdrawal, or dismissal of matters relating to the domestic violence, dating violence, sexual assault, or stalking;
 
 &emsp;(4) demonstrates that adequate security measures, including adequate facilities, procedures, and personnel capable of preventing violence, and adequate standards are, or will be, in place (including the development of protocols or policies to ensure that confidential information is not shared with courts, law enforcement agencies, or child welfare agencies unless necessary to ensure the safety of any child or adult using the services of a program funded under this section), if the applicant proposes to operate supervised visitation programs and services or safe visitation exchange;
 
@@ -84,19 +84,23 @@ The Attorney General may make a grant under this section to an applicant that—
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, $22,000,000 for each of fiscal years 2014 through 2018. Amounts appropriated pursuant to this subsection shall remain available until expended.
+There is authorized to be appropriated to carry out this section, $22,000,000 for each of fiscal years 2023 through 2027. Amounts appropriated pursuant to this subsection shall remain available until expended.
 
 #### (f) Allotment for Indian tribes
 
 #### (1) In general
 
-&emsp;Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 10452 of this title.<sup>2</sup>
+&emsp;Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 10452 of this title.<sup>1</sup>
 
-#### (2) Applicability of part <sup>3</sup>
+#### (2) Applicability of part <sup>2</sup>
 
 &emsp;The requirements of this section shall not apply to funds allocated for the program described in paragraph (1).
 
-(Pub. L. 106–386, div. B, title III, §1301, as added Pub. L. 113–4, title I, §104(a), Mar. 7, 2013, 127 Stat. 73.)
+#### (g) Cultural relevance
+
+Any services provided pursuant to a grant funded under this section shall be provided in a culturally relevant manner.
+
+(Pub. L. 106–386, div. B, title III, §1301, as added Pub. L. 113–4, title I, §104(a), Mar. 7, 2013, 127 Stat. 73; amended Pub. L. 117–103, div. W, title I, §104, Mar. 15, 2022, 136 Stat. 851.)
 
 #### <b>Editorial Notes</b>
 
@@ -114,19 +118,29 @@ Section was enacted as part of the Violence Against Women Act of 2000 and also a
 
 A prior section 1301 of Pub. L. 106–386, div. B, title III, Oct. 28, 2000, 114 Stat. 1509; Pub. L. 109–162, §3(b)(2), title III, §306, title IX, §906(d), formerly §906(e), title XI, §1135(b), Jan. 5, 2006, 119 Stat. 2971, 3016, 3081, 3109, renumbered §906(d), Pub. L. 109–271, §7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §§2(d), 7(d)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 766, related to safe havens for children, prior to repeal by Pub. L. 113–4, title I, §104(a), Mar. 7, 2013, 127 Stat. 73.
 
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(8). Pub. L. 117–103, §104(1), substituted "improve" for "to improve".
+
+Subsec. (e). Pub. L. 117–103, §104(2), substituted "2023 through 2027" for "2014 through 2018".
+
+Subsec. (g). Pub. L. 117–103, §104(3), added subsec. (g).
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Effective Date
 
-Section not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as an Effective Date of 2013 Amendment note under section 2261 of Title 18, Crimes and Criminal Procedure.
+Section not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L.113–4, set out as an Effective Date of 2013 Amendment note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
 #### Definitions
 
 For definitions of terms used in this section, see section 1002 of Pub. L. 106–386, as amended, set out as a note under section 10447 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word "to" probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be "section".</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "section".</i>
 

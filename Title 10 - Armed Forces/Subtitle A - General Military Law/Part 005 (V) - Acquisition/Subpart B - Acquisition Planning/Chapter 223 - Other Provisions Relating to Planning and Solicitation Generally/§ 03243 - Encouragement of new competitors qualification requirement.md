@@ -8,13 +8,13 @@ Qualification Requirement Defined.—In this section, the term "qualification re
 
 Actions Before Establishing Qualification Requirement.—Except as provided in subsection (c), the head of the agency shall, before establishing a qualification requirement—
 
-&emsp;(1) prepare a written justification stating the necessity for establishing the qualificationrequirement and specify why the qualification requirement must be demonstrated before contract award;
+&emsp;(1) prepare a written justification stating the necessity for establishing the qualification requirement and specify why the qualification requirement must be demonstrated before contract award;
 
 &emsp;(2) specify in writing and make available to a potential offeror upon request all requirements which a prospective offeror, or its product, must satisfy in order to become qualified, such requirements to be limited to those least restrictive to meet the purposes necessitating the establishment of the qualification requirement;
 
 &emsp;(3) specify an estimate of the costs of testing and evaluation likely to be incurred by a potential offeror in order to become qualified;
 
-&emsp;(4) ensure that a potential offeror is provided, upon request and on a reimbursable basis, a prompt opportunity to demonstrate its ability to meet the standards specified for qualification using qualified personnel and facilities of the agency concerned or of another agency obtained through interagency agreement, or under contract, or other methods approved by the agency (including use of approved testing and evaluation services not provided under contract to the agency);
+&emsp;(4) ensure that a potential offeror is provided, upon request and on a reimbursablebasis, a prompt opportunity to demonstrate its ability to meet the standards specified for qualification using qualified personnel and facilities of the agency concerned or of another agency obtained through interagency agreement, or under contract, or other methods approved by the agency (including use of approved testing and evaluation services not provided under contract to the agency);
 
 &emsp;(5) if testing and evaluation services are provided under contract to the agency for the purposes of paragraph (4), provide to the extent possible that such services be provided by a contractor who is not expected to benefit from an absence of additional qualified sources and who shall be required in such contract to adhere to any restriction on technical data asserted by the potential offeror seeking qualification; and
 
@@ -76,7 +76,7 @@ Solicitation and testing of additional sources or products.—If the number of q
 
 &emsp;(2)
 
-Certification when agency may bear cost.—Costs may be borne under paragraph (1)(B) only if the head of the agency determines that such additional qualified sourcesor products are likely to result in cost savings from increased competition for future requirements sufficient to amortize the costs incurred by the agency within a reasonable period of time considering the duration and dollar value of anticipated future requirements.
+Certification when agency may bear cost.—Costs may be borne under paragraph (1)(B) only if the head of the agency determines that such additional qualified sources or products are likely to result in cost savings from increased competition for future requirements sufficient to amortize the costs incurred by the agency within a reasonable period of time considering the duration and dollar value of anticipated future requirements.
 
 &emsp;(3)
 
@@ -84,7 +84,7 @@ Certification required.—The head of an agency shall require a prospective cont
 
 (e)
 
-Examination and Revalidation of Qualification Requirement.—Within seven years after the establishment of a qualification requirement under subsection (b) or within seven years following an agency's enforcement of a qualified products list, qualified manufacturers list, or qualified bidders list, any such qualification requirement shall be examined and revalidated in accordance with the requirements of subsection (b). The preceding sentence does not apply in the case of a qualification requirement for which a waiver is in effect under subsection (c)(2).
+Examination and Revalidation of Qualification Requirement.—Within seven yearsafter the establishment of a qualification requirement under subsection (b) or within seven years following an agency's enforcement of a qualified products list, qualified manufacturers list, or qualified bidders list, any such qualification requirement shall be examined and revalidated in accordance with the requirements of subsection (b). The preceding sentence does not apply in the case of a qualification requirement for which a waiver is in effect under subsection (c)(2).
 
 (f)
 
@@ -166,5 +166,5 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date
 
-Pub. L. 98–525, title XII, §1216(c)(2), Oct. 19, 1984, 98 Stat. 2599, provided that: "Sections 2319 \[now 10 U.S.C. 3243\], \[former\] 2320, and \[former\] 2321 of title 10, United States Code (as added by subsection (a)), shall apply with respect to solicitations issued after the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 19, 1984\]."
+Pub. L. 98–525, title XII, §1216(c)(2), Oct. 19, 1984, 98 Stat. 2599, provided that: "Sections 2319 \[now 10 U.S.C.3243\], \[former\] 2320, and \[former\] 2321 of title 10, United States Code (as added by subsection (a)), shall apply with respect to solicitations issued after the end of the one-year period beginning on the date of the enactment of this Act \[Oct. 19, 1984\]."
 

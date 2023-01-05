@@ -28,7 +28,7 @@ Chairman.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The board of governors, in accordance with procedures provided inthe bylaws, shall recommend to the President an individual to serve as chairman of the board of governors. If such recommendation is approved by the President, the President shall appoint such individual to serve as chairman of the board of governors.
+In general.—The board of governors, in accordance with procedures provided in the bylaws, shall recommend to the President an individual to serve as chairman of the board of governors. If such recommendation is approved by the President, the President shall appoint such individual to serve as chairman of the board of governors.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -136,7 +136,7 @@ In general.—The board of governors may—
 
 &emsp;(2)
 
-Emergency bylaws.—Any bylaws adopted pursuant to paragraph (1)(B) may providespecial procedures necessary for managing the corporation during the emergency. All provisions of the regular bylaws consistent with the emergency bylaws remain effective during the emergency.
+Emergency bylaws.—Any bylaws adopted pursuant to paragraph (1)(B) may provide special procedures necessary for managing the corporation during the emergency. All provisions of the regular bylaws consistent with the emergency bylaws remain effective during the emergency.
 
 (h)
 

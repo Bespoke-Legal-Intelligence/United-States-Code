@@ -1,10 +1,10 @@
 ### §2209k. Prohibition on payments to fossil fuel refiners and importers
 
-#### (a) In general
+(a)
 
-The Secretary of Agriculture may not use any funds, facilities, or authorities of the Commodity Credit Corporation or the Department of Agriculture—
+In General.—The Secretary of Agriculture may not use any funds, facilities, or authorities of the Commodity Credit Corporation or the Department of Agriculture—
 
-&emsp;(1) to provide a payment to a refiner or importer (as those terms are defined in section 80.2 of title 40, Code of Federal Regulations (or successor regulations)); or
+&emsp;(1) to provide a payment to a refiner or importer (as those terms are defined in section80.2 of title 40, Code of Federal Regulations (or successor regulations)); or
 
 &emsp;(2) to otherwise support, directly or indirectly, a refiner or importer (as so defined) in meeting any requirements under—
 
@@ -12,11 +12,11 @@ The Secretary of Agriculture may not use any funds, facilities, or authorities o
 
 &emsp;&emsp;(B) any other provision of law that requires the blending of fossil fuel with renewable fuel.
 
-#### (b) The exclusion in (a) shall not apply to any payments or support to producers, refiners, or importers of biofuel (as defined in section 8101 of this title).
+(b) The exclusion in (a) shall not apply to any payments or support to producers, refiners, or importers of biofuel (as defined in section 8101 of this title).
 
-#### (c) Moratorium on authorities relating to exchanges of agricultural products for petroleum products
+(c)
 
-The authorities under the ninth and tenth sentences of section 714b(h) of title 15 (relating to the availability of agricultural products for the Secretary of Energy to exchange for petroleum products and the terms and conditions of those exchanges, respectively) shall not be used during the 180-day period beginning on October 1, 2020.
+Moratorium on Authorities Relating to Exchanges of Agricultural Products for Petroleum Products.—The authorities under the ninth and tenth sentences of section 714b(h) of title 15 (relating to the availability of agricultural products for the Secretary of Energy to exchange for petroleum products and the terms and conditions of those exchanges, respectively) shall not be used during the 180-day period beginning on October 1, 2020.
 
 (Pub. L. 116–159, div. D, title VI, §4604, Oct. 1, 2020, 134 Stat. 747.)
 

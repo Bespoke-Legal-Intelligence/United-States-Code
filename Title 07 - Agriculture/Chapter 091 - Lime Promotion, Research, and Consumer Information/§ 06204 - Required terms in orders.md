@@ -58,7 +58,7 @@ Such order shall provide for the establishment of a Lime Board as follows:
 
 #### (4) Terms
 
-&emsp;The initial members of the Board appointed under the amended order shall serve a term of 30 months. Subsequent appointments to theBoard shall be for a term of 3 years, except that—
+&emsp;The initial members of the Board appointed under the amended order shall serve a term of 30 months. Subsequent appointments to the Board shall be for a term of 3 years, except that—
 
 &emsp;&emsp;(A) 2 members shall be appointed for a term of 1 year;
 
@@ -208,7 +208,7 @@ Such order shall provide that funds collected by the Board under this chapter th
 
 #### (1) In general
 
-&emsp;Such order shall require that all information obtained pursuant to subsection (h)(2) shall be kept confidential by all officers and employees of the Department and of the Board. Only such information as the Secretary considers relevant shall be disclosed to the public and only in a suit or administrative hearing, brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, involving the order with respect to which the information was furnished or acquired.
+&emsp;Such order shall require that all information obtained pursuant to subsection (h)(2) shall bekept confidential by all officers and employees of the Department and of the Board. Only such information as the Secretary considers relevant shall be disclosed to the public and only in a suit or administrative hearing, brought at the request of the Secretary or to which the Secretary or any officer of the United States is a party, involving the order with respect to which the information was furnished or acquired.
 
 #### (2) Limitations
 

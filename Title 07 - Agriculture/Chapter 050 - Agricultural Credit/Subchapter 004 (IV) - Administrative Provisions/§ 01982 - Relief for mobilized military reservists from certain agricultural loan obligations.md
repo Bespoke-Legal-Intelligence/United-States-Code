@@ -18,7 +18,7 @@ The due date of any payment of principal on a direct loan made to a borrower und
 
 #### (d) Nonaccrual of interest
 
-Interest on a direct loan made to a borrower described in this section shall not accrue duringthe period the borrower is a mobilized military reservist.
+Interest on a direct loan made to a borrower described in this section shall not accrue during the period the borrower is a mobilized military reservist.
 
 #### (e) Borrower not considered to be delinquent or receiving debt forgiveness
 
@@ -30,7 +30,7 @@ Notwithstanding section 2008h of this title or any other provision of this chapt
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b), (c), and (e), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, known as the Consolidated Farm and Rural Development Act. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
+This chapter, referred to in subsecs. (b), (c), and (e), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Prior Provisions
 

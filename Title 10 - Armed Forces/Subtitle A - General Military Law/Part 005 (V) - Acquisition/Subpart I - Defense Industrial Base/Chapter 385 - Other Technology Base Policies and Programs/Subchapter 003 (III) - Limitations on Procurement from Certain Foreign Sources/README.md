@@ -4,30 +4,19 @@
 | :--- | ---: |
 | [4871\.](%C2%A7%2004871%20-%20Contracts%20consideration%20of%20national%20security%20objectives.md) | Contracts: consideration of national security objectives. |
 | [4872\.](%C2%A7%2004872%20-%20Acquisition%20of%20sensitive%20materials%20from%20non-allied%20foreign%20nations%20prohibition.md) | Acquisition of sensitive materials from non-allied foreign nations: prohibition. |
-| [4873\.](%C2%A7%2004873%20-%20Additional%20requirements%20pertaining%20to%20printed%20circuit%20boards.md) | Additional requirements pertaining to printed circuit boards.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [4873\.](%C2%A7%2004873%20-%20Additional%20requirements%20pertaining%20to%20printed%20circuit%20boards.md) | Additional requirements pertaining to printed circuit boards. |
 | [4874\.](%C2%A7%2004874%20-%20Award%20of%20certain%20contracts%20to%20entities%20controlled%20by%20a%20foreign%20government%20prohibition.md) | Award of certain contracts to entities controlled by a foreign government: prohibition. |
-| [4875\.](%C2%A7%2004875%20-%20Prohibition%20on%20acquisition%20of%20personal%20protective%20equipment%20and%20certain%20other%20items%20from%20non-allied%20foreign%20nations.md) | Prohibition on acquisition of personal protective equipment and certain other items from non-allied foreign nations.<sup>1</sup> |
+| [4875\.](%C2%A7%2004875%20-%20Prohibition%20on%20acquisition%20of%20personal%20protective%20equipment%20and%20certain%20other%20items%20from%20non-allied%20foreign%20nations.md) | Prohibition on acquisition of personal protective equipment and certain other items from non-allied foreign nations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### <b>Editorial Notes</b>
 
-#### Codification
-
-Item 4873 was added to this analysis by section 1701(e)(2)(B) of Pub. L. 117–81 in conjunction with the transfer of section 2533d of this title to section 4873. However, the transfer was not executed in light of the repeal of section 2533d, which took effect just prior to the transfer. See Codification note under section 4873 of this title.
-
-Item 4875 was added to this analysis by section 802(b)(2)(A) of Pub. L. 117–81 in conjunction with the transfer of section 2533e of this title to section 4875. However, the transfer was not executed in light of the repeal of section 2533e, which took effect just prior to the transfer. See Codification note under section 4875 of this title.
-
 #### Amendments
 
 <b>2021</b>—Pub. L. 117–81, div. A, title XVII, §1701(t)(1), Dec. 27, 2021, 135 Stat. 2150, amended Pub. L. 116–283, div. A, title XVIII, §1870(d)(1), Jan. 1, 2021, 135 Stat. 4286, which added this analysis, by substituting "Contracts: consideration of national security objectives" for "Acquisition of sensitive materials from non-allied foreign nations: prohibition" in item 4871 and "Acquisition of sensitive materials from non-allied foreign nations: prohibition" for "Award of certain contracts to entities controlled by a foreign government: prohibition" in item 4872 and by adding item 4874.
 
-Pub. L. 117–81, div. A, title VIII, §802(b)(2)(A), title XVII, §1701(e)(2)(B), Dec. 27, 2021, 135 Stat. 1813, 2138, added items 4873 and 4875. See Codification notes above. Amendment by section 1701(e)(2)(B), which directed adding item 4873 to the analysis for this chapter, was executed by adding item 4873 to analysis for this subchapter to reflect the probable intent of Congress.
+Pub. L. 117–81, div. A, title VIII, §802(b)(2)(A), title XVII, §1701(e)(2)(B), Dec. 27, 2021, 135 Stat. 1813, 2138, added items 4873 and 4875. Amendment by section 1701(e)(2)(B), which directed adding item 4873 to the analysis for this chapter, was executed by adding item 4873 to analysis for this subchapter to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -67,7 +56,7 @@ In general.—A determination described in this subsection is a determination by
 
 &emsp;"(2)
 
-Requirement for effectiveness of any particular determination.—A determination under paragraph (1) shall not be effective for purposes of a limitation or preference under subsection (a) unless the Secretary also determines that—
+Requirement for effectiveness of any particular determination.—A determination underparagraph (1) shall not be effective for purposes of a limitation or preference under subsection (a) unless the Secretary also determines that—
 
 &emsp;&emsp;"(A) the limitation or preference will not adversely affect—
 
@@ -131,7 +120,7 @@ Product or service of a covered african country.—The term 'product or service 
 
 #### Prohibition on Contracting With the Enemy
 
-Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450, as amended by Pub. L. 115–232, div. A, title VIII, §872, title XII, §1251(b)(2), Aug. 13, 2018, 132 Stat. 1905, 2053; Pub. L. 116–92, div. A, title VIII, §822, Dec. 20, 2019, 133 Stat. 1490, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(3), Jan. 1, 2021, 134 Stat. 3873, provided that:
+Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450, as amended by Pub. L. 115–232, div. A, title VIII, §872, title XII, §1251(b)(2), Aug. 13, 2018, 132 Stat. 1905, 2053; Pub. L. 116–92, div. A, title VIII, §822, Dec. 20, 2019, 133 Stat. 1490, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(3), Jan. 1, 2021, 134 Stat. 3873; Pub. L. 117–263, div. A, title VIII, §820, Dec. 23, 2022, 136 Stat. 2709, provided that:
 
 #### "SEC. 841. PROHIBITION ON PROVIDING FUNDS TO THE ENEMY.
 
@@ -161,7 +150,7 @@ Making of notifications.—Any written notification pursuant to this subsection 
 
 "(c)
 
-Authority to Terminate or Void Contracts, Grants, and Cooperative Agreements and to Restrict Future Award.—Not later than 270 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Federal Acquisition Regulation, the Defense Federal Acquisition Regulation Supplement, and the Uniform Administrative Requirements, Cost Principles, andAudit Requirements for Federal Awards shall be revised to provide that, upon notice from the head of an executive agency (or the designee of such head) or the commander of a covered combatant command (or the specified deputies of the commander) pursuant to subsection (b), the head of contracting activity of an executive agency, or other appropriate official, may do the following:
+Authority to Terminate or Void Contracts, Grants, and Cooperative Agreements and to Restrict Future Award.—Not later than 270 days after the date of the enactment of this Act \[Dec. 19, 2014\], the Federal Acquisition Regulation, the Defense Federal Acquisition Regulation Supplement, and the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards shall be revised to provide that, upon notice from the head of an executive agency (or the designee of such head) or the commander of a covered combatant command (or the specified deputies of the commander) pursuant to subsection (b), the head of contracting activity of an executive agency, or other appropriate official, may do the following:
 
 &emsp;"(1) Restrict the award of contracts, grants, or cooperative agreements of the executive agency concerned upon a written determination by the head of contracting activity or other appropriate official that the contract, grant, or cooperative agreement would provide funds received under such contract, grant, or cooperative agreement directly or indirectly to a covered person or entity.
 
@@ -239,7 +228,7 @@ Additional Responsibilities of Executive Agencies.—
 
 &emsp;"(1)
 
-Sharing of information on supporters of the enemy.—The Secretary of Defense shall, in consultation with the Director of the Office of Management and Budget, carry out a program through which agency components may provide information to heads of executive agencies (or the designees of such heads) and the commanders of the covered combatant commands (or the specified deputies of the commanders) relating to persons or entities who may be providing funds, including goods and services, received undercontracts, grants, or cooperative agreements of the executive agencies directly or indirectly to a covered person or entity. The program shall be designed to facilitate and encourage the sharing of risk and threat information between executive agencies and the covered combatant commands.
+Sharing of information on supporters of the enemy.—The Secretary of Defense shall, in consultation with the Director of the Office of Management and Budget, carry out a program through which agency components may provide information to heads of executive agencies (or the designees of such heads) and the commanders of the covered combatant commands (or the specified deputies of the commanders) relating to persons or entities who may be providing funds, including goods and services, received under contracts, grants, or cooperative agreements of the executive agencies directly or indirectly to a covered person or entity. The program shall be designed to facilitate and encourage the sharing of risk and threat information between executive agencies and the covered combatant commands.
 
 &emsp;"(2)
 
@@ -255,7 +244,7 @@ Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than March 1 of 2016, 2017, and 2018, the Director of the Office of Management and Budget shall submit to the appropriate committees of Congress a report on the use of the authorities in this section in the preceding calendar year, including the following:
+In general.—Not later than March 1 of 2023, and annually thereafter, the Director of the Office of Management and Budget shall submit to the appropriate committees of Congress a report on the use of the authorities in this section in the preceding calendar year, including the following:
 
 &emsp;&emsp;"(A) For each instance in which an executive agency exercised the authority to terminate, void, or restrict a contract, grant, and cooperative agreement pursuant to subsection (c), based on a notification under subsection (b), the following:
 
@@ -272,6 +261,10 @@ In general.—Not later than March 1 of 2016, 2017, and 2018, the Director of th
 &emsp;&emsp;&emsp;"(i) The executive agency concerned.
 
 &emsp;&emsp;&emsp;"(ii) An explanation of the basis for not taking the action.
+
+&emsp;&emsp;"(C) Specific examples where the authorities under this section can not be used to mitigate national security threats posed by vendors supporting Department operations because of the restriction on using such authorities only with respect to contingency operations.
+
+&emsp;&emsp;"(D) A description of the policies ensuring that oversight of the use of the authorities in this section is effectively carried out by a single office in the Office of the Under Secretary of Defense for Acquisition and Sustainment.
 
 &emsp;"(2)
 
@@ -311,7 +304,7 @@ Use of superseded authorities in implementation of requirements.—In providing 
 
 "(n)
 
-Sunset.—The provisions of this section shall cease to be effective on December 31, 2023.
+Sunset.—The provisions of this section shall cease to be effective on December 31, 2025.
 
 #### "SEC. 842. ADDITIONAL ACCESS TO RECORDS.
 
@@ -341,7 +334,7 @@ Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than March 1 of 2016, 2017, and 2018, the Director of the Office of Management and Budget shall submit to the appropriate committees of Congress a report on the use of the authority provided by this section in the preceding calendar year.
+In general.—Not later than March 1 of 2023, 2024, and 2025, the Director of the Office of Management and Budget shall submit to the appropriate committees of Congress a report on the use of the authority provided by this section in the preceding calendar year.
 
 &emsp;"(2)
 
@@ -357,7 +350,7 @@ Relationship to Existing Authorities Applicable to CENTCOM.—
 
 &emsp;"(1)
 
-Applicability.—This section shall not apply to contracts, grants, or cooperative agreements coveredunder section 842 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1513; \[former\] 10 U.S.C. 2313 note).
+Applicability.—This section shall not apply to contracts, grants, or cooperative agreements covered under section 842 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1513; \[former\] 10 U.S.C. 2313 note).
 
 &emsp;"(2)
 
@@ -422,8 +415,6 @@ Uniform administrative requirements, cost principles, and audit requirements for
 \[Pub. L. 116–283, div. A, title X, §1081(c)(3), Jan. 1, 2021, 134 Stat. 3873, which directed technical amendment of section 821 of Pub. L. 116–92 by inserting "Carl Levin and Howard P. 'Buck' McKeon" before "National Defense Authorization Act for Fiscal Year 2015", was executed to section 822 of Pub. L. 116–92, which amended the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 (Pub. L. 113–291), set out above, to reflect the probable intent of Congress.\]
 
 \[Pub. L. 116–283, div. A, title X, §1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(3) of Pub. L. 116–283 to section 821 (probably should be 822) of Pub. L. 116–92, which amended section 841 of Pub. L. 113–291, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019), and as if included in Pub. L. 116–92.\]
-
-<i><sup>1</sup></i><i> See Codification note below.</i>
 
 
 ---

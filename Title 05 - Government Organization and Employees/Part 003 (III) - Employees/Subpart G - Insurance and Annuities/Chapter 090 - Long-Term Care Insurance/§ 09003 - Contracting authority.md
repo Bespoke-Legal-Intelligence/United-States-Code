@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Office of Personnel Management shall, without regard to section 6101(b) to (d) of title 41 or any other statute requiring competitive bidding, contract with one or more qualified carriers for a policy or policies of long-term care insurance. The Office shall ensure that each resulting contract (hereafter in this chapter referred to as a "master contract") is awarded on the basis of contractor qualifications, price, and reasonable competition.
+In General.—The Office of Personnel Management shall, without regard to section 6101(b)to (d) of title 41 or any other statute requiring competitive bidding, contract with one or more qualified carriers for a policy or policies of long-term care insurance. The Office shall ensure that each resulting contract (hereafter in this chapter referred to as a "master contract") is awarded on the basis of contractor qualifications, price, and reasonable competition.
 
 (b)
 
@@ -90,7 +90,7 @@ Full portability.—Each master contract under this chapter shall include such p
 
 (e)
 
-Effect of Government Shutdown.—Coverage under a master contract under this chapter for long-term care insurance for an employee or member of the uniformed services enrolled under such contract and who, due to a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.
+Effect of Government Shutdown.—Coverage under a master contract under this chapter for long-term care insurance for an employeeor member of the uniformed services enrolled under such contract and who, due to a lapse in appropriations, is furloughed or excepted from furlough and working without pay shall continue during such lapse and may not be cancelled as a result of nonpayment of premiums or other periodic charges due to such lapse.
 
 (Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 764; amended Pub. L. 111–350, §5(a)(18), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 116–92, div. A, title XI, §1111(a)(3), Dec. 20, 2019, 133 Stat. 1601.)
 

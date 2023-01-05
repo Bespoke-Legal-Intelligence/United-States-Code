@@ -24,7 +24,7 @@ A jurisdiction may participate in the demonstration program under this subchapte
 
 #### (2) Exclusion of high performing agencies
 
-&emsp;Notwithstanding any other provision of this subchapter other than paragraph (4) of this subsection, the Secretary may approve for participation in the demonstration program under this subchapter only jurisdictions served by public housing agencies that—
+&emsp;Notwithstanding any other provision of this subchapter other than paragraph (4) of thissubsection, the Secretary may approve for participation in the demonstration program under this subchapter only jurisdictions served by public housing agencies that—
 
 &emsp;&emsp;(A) are not designated as high-performing agencies, pursuant to their most recent scores under the public housing management assessment program under section 1437d(j)(2) of this title (or any successor assessment program for public housing agencies), as of the time of approval; and
 

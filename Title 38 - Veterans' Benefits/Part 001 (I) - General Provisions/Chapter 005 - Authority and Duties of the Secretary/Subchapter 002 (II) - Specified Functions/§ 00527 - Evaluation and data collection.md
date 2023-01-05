@@ -16,6 +16,122 @@ Provisions similar to those in this section were contained in section 219 of thi
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Analysis and Report on Treatment of Veterans for Medical Conditions Related to Toxic Exposure
+
+Pub. L. 117–168, title V, §502, Aug. 10, 2022, 136 Stat. 1786, provided that:
+
+"(a)
+
+In General.—The Secretary of Veterans Affairs shall analyze, on a continuous basis, all clinical data that—
+
+&emsp;"(1) is obtained by the Department of Veterans Affairs in connection with hospital care, medical services, and nursing home care furnished under section 1710(a)(2)(F) of title 38, United States Code; and
+
+&emsp;"(2) is likely to be scientifically useful in determining the association, if any, between the medical condition of a veteran and a toxic exposure.
+
+"(b)
+
+Annual Report.—Not later than one year after the date of the enactment of this Act \[Aug. 10, 2022\], and annually thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report containing the following:
+
+&emsp;"(1) The aggregate data compiled under subsection (a).
+
+&emsp;"(2) An analysis of such data.
+
+&emsp;"(3) A description of the types and incidences of medical conditions identified by the Department under such subsection.
+
+&emsp;"(4) The explanation of the Secretary for the incidence of such medical conditions and other explanations for the incidence of such conditions as the Secretary considers reasonable.
+
+&emsp;"(5) The views of the Secretary on the scientific validity of drawing conclusions from the incidence of such medical conditions, as evidenced by the data compiled under subsection (a), regarding any association between such conditions and toxic exposures.
+
+"(c)
+
+Toxic Exposure Defined.—In this section, the term 'toxic exposure' has the meaning given such term in section 101 of title 38, United States Code, as amended by section 102(b)."
+
+#### Department of Veterans Affairs Public Website for Toxic Exposure Research
+
+Pub. L. 117–168, title V, §509, Aug. 10, 2022, 136 Stat. 1791, provided that:
+
+"(a)
+
+Website.—Not later than one year after the date of the enactment of this Act \[Aug. 10, 2022\], the Secretary of Veterans Affairs shall establish, and maintain thereafter, a publicly accessible internet website of the Department of Veterans Affairs that serves as a clearinghouse for the publication of all toxic exposure research carried out or funded by the executive branch of the Federal Government.
+
+"(b)
+
+Coordination.—In carrying out subsection (a), the Secretary shall coordinate with—
+
+&emsp;"(1) the heads of each Federal agency carrying out or funding toxic exposure research;
+
+&emsp;"(2) the War Related Illness and Injury Study Center of the Department of Veterans Affairs, or successor center; and
+
+&emsp;"(3) any working group of the Department of Veterans Affairs or other similar entity responsible for coordinating toxic exposure research.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Toxic exposure.—The term 'toxic exposure' has the meaning given that term in section 101 of title 38, United States Code, as added by section 102(b).
+
+&emsp;"(2)
+
+Toxic exposure research.—The term 'toxic exposure research' means research on the health consequences of toxic exposures experienced during service in the Armed Forces."
+
+#### Burn Pit Transparency
+
+Pub. L. 117–168, title VIII, §808, Aug. 10, 2022, 136 Stat. 1806, provided that:
+
+"(a)
+
+Annual Report on Disability Claims.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act, \[Aug. 10, 2022\] andannually thereafter, the Secretary of Veterans Affairs shall submit to the appropriate congressional committees a report detailing the following:
+
+&emsp;&emsp;"(A) The total number of covered veterans.
+
+&emsp;&emsp;"(B) The total number of claimed issues for disability compensation under chapter 11 of title 38, United States Code, approved and the total number denied by the Secretary of Veterans Affairs with respect to a covered veteran, and a breakdown of the reasons for the denials.
+
+&emsp;&emsp;"(C) A comprehensive list of the top 10 conditions from each body system for which the Secretary awarded service connection for covered veterans.
+
+&emsp;&emsp;"(D) Any updates or trends with respect to the information described in subparagraphs (A), (B), and (C), that the Secretary determines appropriate.
+
+&emsp;"(2)
+
+Covered veteran defined.—In this subsection, the term 'covered veteran' means a veteran who deployed to the Southwest Asia theater of operations any time after August 1990, or Afghanistan, Syria, Djibouti, or Uzbekistan after September 19, 2001, and who submits a claim for disability compensation under chapter 11 of title 38, United States Code.
+
+"(b)
+
+Information Regarding the Airborne Hazards and Open Burn Pit Registry.—
+
+&emsp;"(1)
+
+Notice.—The Secretary of Veterans Affairs shall ensure that a medical professional of the Department of Veterans Affairs informs a veteran of the Airborne Hazards and Open Burn Pit Registry if the veteran presents at a medical facility of the Department for treatment that the veteran describes as being related to, or ancillary to, the exposure of the veteran to toxic airborne chemicals and fumes caused by open burn pits.
+
+&emsp;"(2)
+
+Display.—In making information public regarding the number of participants in the Airborne Hazards and Open Burn Pit Registry, the Secretary shall display such numbers by both State and by congressional district.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Airborne hazards and open burn pit registry.—The term 'Airborne Hazards and Open Burn Pit Registry' means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note).
+
+&emsp;"(2)
+
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Veterans' Affairs and the Committee on Armed Services of the Senate; and
+
+&emsp;&emsp;"(B) The Committee on Veterans' Affairs and the Committee on Armed Services of the House of Representatives.
+
+&emsp;"(3)
+
+Open burn pit.—The term 'open burn pit' has the meaning given that term in section 201(c) of the Dignified Burial and Other Veterans' Benefits Improvement Act of 2012 (Public Law 112–260; 38 U.S.C. 527 note)."
+
 #### Requirement for Collection and Analysis of Data on Department of Veterans Affairs Benefits and Services and Disaggregation of Such Data by Gender, Race, and Ethnicity
 
 Pub. L. 116–315, title V, §5401, Jan. 5, 2021, 134 Stat. 5045, provided that: "The Secretary of Veterans Affairs shall—
@@ -76,7 +192,7 @@ In general.—The Secretary of Veterans Affairs shall conduct a study, through t
 
 &emsp;"(2)
 
-Preparation for future pandemic.—The Secretary, through the Center, shall analyze potential lessons learned through the study conducted underparagraph (1) to assist in preparing the Department of Veterans Affairs for potential future pandemics.
+Preparation for future pandemic.—The Secretary, through the Center, shall analyze potential lessons learned through the study conducted under paragraph (1) to assist in preparing the Department of Veterans Affairs for potential future pandemics.
 
 "(c)
 
@@ -174,7 +290,7 @@ Reports by independent scientific organization.—The Secretary of Veterans Affa
 
 &emsp;&emsp;&emsp;"(ii) Recommendations to improve the collection and maintenance of such information.
 
-&emsp;&emsp;&emsp;"(iii) Using established and previously published epidemiological studies, recommendations regarding the most effective and prudent meansof addressing the medical needs of eligible individuals with respect to conditions that are likely to result from exposure to open burn pits.
+&emsp;&emsp;&emsp;"(iii) Using established and previously published epidemiological studies, recommendations regarding the most effective and prudent means of addressing the medical needs of eligible individuals with respect to conditions that are likely to result from exposure to open burn pits.
 
 &emsp;&emsp;"(B) Not later than five years after completing the initial report described in subparagraph (A), a follow-up report containing the following:
 
@@ -374,7 +490,7 @@ Funding.—(1) The Secretary of Veterans Affairs and the Secretary of Defense sh
 
 "(d)
 
-Research Review and Development of Medical Education Curriculum.—(1) In order to further understand the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War and of new research findings with implications for improving the provision of care for veterans of such service, the Secretary of Veterans Affairs and the Secretary of Defense shall seek to enter into an agreement with the National Academy of Sciencesunder which the Institute of Medicine of the Academy would—
+Research Review and Development of Medical Education Curriculum.—(1) In order to further understand the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War and of new research findings with implications for improving the provision of care for veterans of such service, the Secretary of Veterans Affairs and the Secretary of Defense shall seek to enter into an agreement with the National Academy of Sciences under which the Institute of Medicine of the Academy would—
 
 &emsp;"(A) develop a curriculum pertaining to the care and treatment of veterans of such service who have ill-defined or undiagnosed illnesses for use in the continuing medical education of both general and specialty physicians who provide care for such veterans; and
 

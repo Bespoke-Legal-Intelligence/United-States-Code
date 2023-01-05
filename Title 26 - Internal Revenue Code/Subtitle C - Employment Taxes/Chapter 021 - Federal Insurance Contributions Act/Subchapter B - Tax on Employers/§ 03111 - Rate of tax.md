@@ -50,21 +50,25 @@ During any period in which there is in effect an agreement entered into pursuant
 
 #### (1) In general
 
-&emsp;In the case of a taxpayer who has made an election under section 41(h) for a taxable year, there shall be allowed as a credit against the tax imposed by subsection (a) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to the payroll tax credit portion determined under section 41(h)(2).
+&emsp;In the case of a taxpayer who has made an election under section 41(h) for a taxable year—
+
+&emsp;&emsp;(A) there shall be allowed as a credit against the tax imposed by subsection (a) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to so much of the payroll tax credit portion determined under section 41(h)(2) as does not exceed the limitation of subclause (I) of section 41(h)(4)(B)(i) (applied without regard to subclause (II) thereof), and
+
+&emsp;&emsp;(B) there shall be allowed as a credit against the tax imposed by subsection (b) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to so much of the payroll tax credit portion determined under section 41(h)(2) as is not allowed as a credit under subparagraph (A).
 
 #### (2) Limitation
 
-&emsp;The credit allowed by paragraph (1) shall not exceed the tax imposed by subsection (a) for any calendar quarter on the wages paid with respect to the employment of all individuals in the employ of the employer.
+&emsp;The credit allowed by paragraph (1)(A) shall not exceed the tax imposed by subsection (a) for any calendar quarter, and the credit allowed by paragraph (1)(B) shall not exceed the tax imposed by subsection (b) for any calendar quarter, on the wages paid with respect to the employment of all individuals in the employ of the employer.
 
 #### (3) Carryover of unused credit
 
-&emsp;If the amount of the credit under paragraph (1) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be carried to the succeeding calendar quarter and allowed as a credit under paragraph (1) for such quarter.
+&emsp;If the amount of any credit under paragraph (1) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be carried to the succeeding calendar quarter and allowed as a credit under paragraph (1) for such quarter.
 
 #### (4) Deduction allowed for credited amounts
 
-&emsp;The credit allowed under paragraph (1) shall not be taken into account for purposes of determining the amount of any deduction allowed under chapter 1 for taxes imposed under subsection (a).
+&emsp;The credits allowed under paragraph (1) shall not be taken into account for purposes of determining the amount of any deduction allowed under chapter 1 for taxes imposed under subsection (a) or (b).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), title III, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub. L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–147, title I, §101(a), Mar. 18, 2010, 124 Stat. 72; Pub. L. 112–56, title II, §261(e)(2), Nov. 21, 2011, 125 Stat. 730; Pub. L. 113–295, div. A, title II, §221(a)(99)(B), Dec. 19, 2014, 128 Stat. 4051; Pub. L. 114–113, div. Q, title I, §121(c)(2), Dec. 18, 2015, 129 Stat. 3051; Pub. L. 115–141, div. U, title IV, §401(a)(208), (b)(34), Mar. 23, 2018, 132 Stat. 1194, 1204.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 416; Sept. 1, 1954, ch. 1206, title II, §208(c), 68 Stat. 1094; Aug. 1, 1956. ch. 836, title II, §202(c), 70 Stat. 845; Pub. L. 85–840, title IV, §401(c), Aug. 28, 1958, 72 Stat. 1042; Pub. L. 87–64, title II, §201(c), June 30, 1961, 75 Stat. 141; Pub. L. 89–97, title I, §111(c)(6), title III, §321(c), July 30, 1965, 79 Stat. 343, 396; Pub. L. 90–248, title I, §109(a)(3), (b)(3), Jan. 2, 1968, 81 Stat. 836, 837; Pub. L. 92–5, title II, §204(a)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §204(a)(3), (b)(3), July 1, 1972, 86 Stat. 421, 422; Pub. L. 92–603, title I, §135(a)(3), (b)(3), Oct. 30, 1972, 86 Stat. 1363, 1364; Pub. L. 93–233, §6(a)(2), (b)(3), Dec. 31, 1973, 87 Stat. 954, 955; Pub. L. 94–455, title XIX, §1903(a)(1), Oct. 4, 1976, 90 Stat. 1806; Pub. L. 95–216, title I, §101(a)(2), (b)(2), title III, §§315(b), 317(b)(2), Dec. 20, 1977, 91 Stat. 1511, 1512, 1537, 1540; Pub. L. 98–21, title I, §123(a)(2), Apr. 20, 1983, 97 Stat. 88; Pub. L. 100–203, title IX, §9006(b)(1), Dec. 22, 1987, 101 Stat. 1330–289; Pub.L. 100–647, title VIII, §8016(a)(5), Nov. 10, 1988, 102 Stat. 3793; Pub. L. 108–203, title IV, §415, Mar. 2, 2004, 118 Stat. 530; Pub. L. 111–147, title I, §101(a), Mar. 18, 2010, 124 Stat. 72; Pub. L. 112–56, title II, §261(e)(2), Nov. 21, 2011, 125 Stat. 730; Pub. L. 113–295, div. A, title II, §221(a)(99)(B), Dec. 19, 2014, 128 Stat. 4051; Pub. L. 114–113, div. Q, title I, §121(c)(2), Dec. 18, 2015, 129 Stat. 3051; Pub. L. 115–141, div. U, title IV, §401(a)(208), (b)(34), Mar. 23, 2018, 132 Stat. 1194, 1204; Pub. L. 117–169, title I, §13902(b), Aug. 16, 2022, 136 Stat. 2013.)
 
 #### <b>Editorial Notes</b>
 
@@ -73,6 +77,14 @@ During any period in which there is in effect an agreement entered into pursuant
 Section 233 of the Social Security Act, referred to in subsec. (c), is classified to section 433 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(1). Pub. L. 117–169, §13902(b)(1), substituted "for a taxable year—" for "for a taxable year," and designated remainder of existing provisions as subpar. (A), substituted "equal to so much of the" for "equal to the" and "as does not exceed the limitation of subclause (I) of section 41(h)(4)(B)(i) (applied without regard to subclause (II) thereof), and" for period at end, and added subpar. (B).
+
+Subsec. (f)(2). Pub. L. 117–169, §13902(b)(2), substituted "paragraph (1)(A)" for "paragraph (1)" and inserted ", and the credit allowed by paragraph (1)(B) shall not exceed the tax imposed by subsection (b) for any calendar quarter," after "calendar quarter".
+
+Subsec. (f)(3). Pub. L. 117–169, §13902(b)(3), substituted "any credit" for "the credit".
+
+Subsec. (f)(4). Pub. L. 117–169, §13902(b)(4), substituted "credits" for "credit" and "subsection (a) or (b)" for "subsection (a)".
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–141, §401(b)(34), struck out subsec. (d) which provided for a special exemption for certain individuals hired in 2010.
 
@@ -176,9 +188,13 @@ Subsec. (b). Pub. L. 89–97, §111(c)(6), struck out ", but without regard to 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 13902(d) of Pub. L. 117–169, set out as a note under section 41 of this title.
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 121(d)(3) of Pub. L. 114–113, set out as a note under section 38 of this title.
+Amendment by Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 121(d)(3)of Pub. L. 114–113, set out as a note under section 38 of this title.
 
 #### Effective Date of 2014 Amendment
 
@@ -292,7 +308,7 @@ In general.—If the amount of the credit under subsection (a) exceeds the limit
 
 &emsp;&emsp;"(B)
 
-Treatment of payments.—For purposes of section 1324 of title 31, United States Code, anyamounts due to the employer under this paragraph shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+Treatment of payments.—For purposes of section 1324 of title 31, United States Code, any amounts due to the employer under this paragraph shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
 
 "(c)
 
@@ -498,7 +514,7 @@ Regulations and Guidance.—The Secretary shall issue such forms, instructions, 
 
 &emsp;"(1) to allow the advance payment of the credit under subsection (a) as provided in subsection (j)(2), subject to the limitations provided in this section, based on such information as the Secretary shall require,
 
-&emsp;"(2) with respect to the application of the credit under subsection (a) to third party payors (including professional employer organizations, certified professional employer organizations, or agents under section 3504 of the Internal Revenue Code of 1986), including regulations or guidance allowing such payors to submit documentation necessary to substantiate the eligible employer status of employers that use such payors, and
+&emsp;"(2) with respect to the application of the credit under subsection (a) to third party payors (includingprofessional employer organizations, certified professional employer organizations, or agents under section 3504 of the Internal Revenue Code of 1986), including regulations or guidance allowing such payors to submit documentation necessary to substantiate the eligible employer status of employers that use such payors, and
 
 &emsp;"(3) to prevent the avoidance of the purposes of the limitations under this section, including through the leaseback of employees.
 
@@ -528,7 +544,7 @@ Outreach.—Under the campaign conducted under paragraph (1), the Secretary shal
 
 \["(1)
 
-In general.—The amendments made by this section \[amending section 2301 of Pub. L. 116–136, set outabove\] shall take effect as if included in the provisions of the CARES Act \[Pub. L. 116–136\] to which they relate.
+In general.—The amendments made by this section \[amending section 2301 of Pub. L. 116–136, set out above\] shall take effect as if included in the provisions of the CARES Act \[Pub. L. 116–136\] to which they relate.
 
 \["(2)
 
@@ -718,7 +734,7 @@ Special Rules.—
 
 &emsp;"(1)
 
-Denial of double benefit.—For purposes of chapter 1 of such Code, the gross income of the employer, for the taxable year which includes the last day of any calendar quarter with respect to which a credit is allowed under this section, shall be increased by the amount of such credit. Any wages taken into account in determining the credit allowed under this section shall not be taken into account for purposes of determining the credit allowed under section 45S of such Code.
+Denial of double benefit.—For purposes of chapter 1 of such Code, the gross income of the employer, for the taxable year which includes the last day of any calendar quarter with respect to which a credit is allowed under this section, shall be increased by the amount of such credit. Any wages taken into account in determining the credit allowedunder this section shall not be taken into account for purposes of determining the credit allowed under section 45S of such Code.
 
 &emsp;"(2)
 

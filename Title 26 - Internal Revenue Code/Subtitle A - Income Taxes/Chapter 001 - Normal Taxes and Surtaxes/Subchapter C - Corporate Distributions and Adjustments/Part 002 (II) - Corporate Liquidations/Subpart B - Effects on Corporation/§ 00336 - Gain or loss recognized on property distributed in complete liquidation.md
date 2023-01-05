@@ -60,7 +60,7 @@ If any property distributed in the liquidation is subject to a liability or the 
 
 #### (3) Special rule in case of liquidation to which section 332 applies
 
-&emsp;In the case of any liquidation to which section 332 applies, no loss shall be recognized to the liquidating corporation on any distribution in such liquidation. The preceding sentence shall apply to any distribution to the 80-percent distributee only if subsection (a) or (b)(1) of section 337 applies to such distribution.
+&emsp;In the case of any liquidation to which section 332 applies, no loss shall be recognized tothe liquidating corporation on any distribution in such liquidation. The preceding sentence shall apply to any distribution to the 80-percent distributee only if subsection (a) or (b)(1) of section 337 applies to such distribution.
 
 #### (e) Certain stock sales and distributions may be treated as asset transfers
 
@@ -270,7 +270,7 @@ Controlled group of corporations.—All members of the same controlled group (as
 
 &emsp;"(7)
 
-Section 338 transactions.—The provisions of this subsection shall also apply in the case of a transaction described in section 338 of the Internal Revenue Code of 1986 where the acquisition date (within the meaning of such section 338) is before January 1, 1989.
+Section 338 transactions.—The provisions of this subsection shall also apply in the case of a transaction described in section 338 of the Internal Revenue Code of 1986 where the acquisition date (withinthe meaning of such section 338) is before January 1, 1989.
 
 &emsp;"(8)
 

@@ -1,6 +1,6 @@
 ### §21508. Technical assistance
 
-The Secretary of State, in consultation with the Attorney General and the Secretary ofHomeland Security, may provide technical assistance to foreign authorities in order to enable such authorities to participate more effectively in the notification program system established under this chapter.
+The Secretary of State, in consultation with the Attorney General and the Secretary of Homeland Security, may provide technical assistance to foreign authorities in order to enable such authorities to participate more effectively in the notification program system established under this chapter.
 
 (Pub. L. 114–119, §10, Feb. 8, 2016, 130 Stat. 25.)
 

@@ -56,7 +56,7 @@ To ensure that the Initiative is conducted through a comprehensive science strat
 
 #### (e) Reports
 
-Not later than 3 years after August 8, 2005, and each year thereafter, the Secretary shall publisha report that describes the studies and findings of the Initiative.
+Not later than 3 years after August 8, 2005, and each year thereafter, the Secretary shall publish a report that describes the studies and findings of the Initiative.
 
 #### (f) Authorization of appropriations
 

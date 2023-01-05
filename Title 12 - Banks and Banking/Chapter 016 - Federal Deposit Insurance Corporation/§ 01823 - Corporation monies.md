@@ -16,7 +16,7 @@ The depository accounts of the Corporation shall be kept with the Treasurer of t
 
 #### (c) Assistance to insured depository institutions
 
-(1) The Corporation is authorized, in its sole discretion and upon such terms and conditionsas the Board of Directors may prescribe, to make loans to, to make deposits in, to purchase the assets or securities of, to assume the liabilities of, or to make contributions to, any insured depository institution—
+(1) The Corporation is authorized, in its sole discretion and upon such terms and conditions as the Board of Directors may prescribe, to make loans to, to make deposits in, to purchase the assets or securities of, to assume the liabilities of, or to make contributions to, any insured depository institution—
 
 &emsp;(A) if such action is taken to prevent the default of such insured depository institution;
 
@@ -60,7 +60,7 @@ In general.—Notwithstanding any other provision of this chapter, the Corporati
 
 &emsp;(B)
 
-Determining least costly approach.—In determining how to satisfy the Corporation's obligations to an institution's insured depositors at the least possible cost to the Deposit Insurance Fund, the Corporation shall comply with the following provisions:
+Determining least costly approach.—In determining how to satisfy the Corporation's obligations to an institution's insureddepositors at the least possible cost to the Deposit Insurance Fund, the Corporation shall comply with the following provisions:
 
 &emsp;&emsp;(i)
 
@@ -168,7 +168,7 @@ GAO review.—The Comptroller General of the United States shall review and repo
 
 &emsp;&emsp;&emsp;(II) the purpose for which any action was taken pursuant to such clause; and
 
-&emsp;&emsp;&emsp;(III) the likely effect of the determination and such action on the incentives andconduct of insured depository institutions and uninsured depositors.
+&emsp;&emsp;&emsp;(III) the likely effect of the determination and such action on the incentives and conduct of insured depository institutions and uninsured depositors.
 
 &emsp;&emsp;(v)
 
@@ -252,7 +252,7 @@ Unenforceability of certain agreements.—No provision contained in any existing
 
 #### (A) In general
 
-&emsp;&emsp;With respect to any asset acquired or liability assumed pursuant to this section, theCorporation shall have all of the rights, powers, privileges, and authorities of the Corporation as receiver under sections 1821 and 1825(b) of this title.
+&emsp;&emsp;With respect to any asset acquired or liability assumed pursuant to this section, the Corporation shall have all of the rights, powers, privileges, and authorities of the Corporation as receiver under sections 1821 and 1825(b) of this title.
 
 #### (B) Rule of construction
 
@@ -312,7 +312,7 @@ Unenforceability of certain agreements.—No provision contained in any existing
 
 (1) This subsection shall apply only to an acquisition of an insured bank or a holding company by an out-of-State bank <sup>2</sup> savings association or out-of-State holding company for which the Corporation provides assistance under subsection (c).
 
-(2)(A) Whenever an insured bank with total assets of $500,000,000 or more (as determined from its most recent report of condition) is in default, the Corporation, as receiver, may, in its discretion and upon such terms and conditions as the Corporation may determine, arrange the sale of assets of the bank in default and the assumption of the liabilities of the bank in default, including the sale of such assets to and the assumption of such liabilities by an insured depository institution located in the State where the bank in default was chartered but established by an out-of-State bank or holding company. Where otherwise lawfully required, a transaction under this subsection must be approved by the primary Federal or State supervisor of all parties thereto.
+(2)(A) Whenever an insured bank with total assets of $500,000,000 or more (as determined fromits most recent report of condition) is in default, the Corporation, as receiver, may, in its discretion and upon such terms and conditions as the Corporation may determine, arrange the sale of assets of the bank in default and the assumption of the liabilities of the bank in default, including the sale of such assets to and the assumption of such liabilities by an insured depository institution located in the State where the bank in default was chartered but established by an out-of-State bank or holding company. Where otherwise lawfully required, a transaction under this subsection must be approved by the primary Federal or State supervisor of all parties thereto.
 
 (B)(i) Before making a determination to take any action under subparagraph (A), the Corporation shall consult the State bank supervisor of the State in which the insured bank in default was chartered.
 
@@ -540,7 +540,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 &emsp;(A) Any loss on any qualified agricultural loan that an agricultural bank would otherwise be required to show on its annual financial statement for any year between December 31, 1983, and January 1, 1992, may be amortized on its financial statements over a period of not to exceed 7 years, as provided in regulations issued by the appropriate Federal banking agency.
 
-&emsp;(B) An agricultural bank may reappraise any real estate or other property, real or personal, that it acquired coincident to the making of a qualified agricultural loan and that it owned on January 1, 1983, and any such additional property that it acquires prior to January 1, 1992. Any loss that such bank would otherwise be required to show on its annual financial statements as the result of any such reappraisal may be amortized on its financial statements over a period of not to exceed 7 years, as provided in regulations issued by the appropriate Federal banking agency.
+&emsp;(B) An agricultural bank may reappraise any real estate or other property, real or personal, that it acquired coincident to the making of a qualified agricultural loan and that it owned on January 1, 1983, and any such additional property that it acquires prior to January 1,1992. Any loss that such bank would otherwise be required to show on its annual financial statements as the result of any such reappraisal may be amortized on its financial statements over a period of not to exceed 7 years, as provided in regulations issued by the appropriate Federal banking agency.
 
 #### (3) Regulations
 
@@ -620,7 +620,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (iii) Approval over objection of State official
 
-&emsp;&emsp;&emsp;If the official objects during such period, the Corporation may use the authority of this paragraph only by a vote of 75 percent or more of the voting members of the Board of Directors. The Corporation shall provide to the official, as soon as practicable, a written certification of its determination.
+&emsp;&emsp;&emsp;If the official objects during such period, the Corporation may use the authority ofthis paragraph only by a vote of 75 percent or more of the voting members of the Board of Directors. The Corporation shall provide to the official, as soon as practicable, a written certification of its determination.
 
 #### (2) Solicitation of offers
 
@@ -640,7 +640,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (A) In general
 
-&emsp;&emsp;If a merger, consolidation, transfer, or acquisition under this subsection involves asavings association eligible for assistance and a bank or bank holding company, a savings association may retain and operate any existing branch or branches or any other existing facilities. If the savings association continues to exist as a separate entity, it may establish and operate new branches to the same extent as any savings association that is not affiliated with a bank holding company and the home office of which is located in the same State.
+&emsp;&emsp;If a merger, consolidation, transfer, or acquisition under this subsection involves a savings association eligible for assistance and a bank or bank holding company, a savings association may retain and operate any existing branch or branches or any other existing facilities. If the savings association continues to exist as a separate entity, it may establish and operate new branches to the same extent as any savings association that is not affiliated with a bank holding company and the home office of which is located in the same State.
 
 #### (B) Restrictions
 
@@ -696,7 +696,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (C) "Economically depressed region" defined
 
-&emsp;&emsp;For purposes of this paragraph, the term "economically depressed region" means any geographical region which the Corporation determines by regulation to be a region within which real estate values have suffered serious decline due to severe economic conditions, such as a decline in energy or agricultural values or prices.
+&emsp;&emsp;For purposes of this paragraph, the term "economically depressed region" means anygeographical region which the Corporation determines by regulation to be a region within which real estate values have suffered serious decline due to severe economic conditions, such as a decline in energy or agricultural values or prices.
 
 (Sept. 21, 1950, ch. 967, §2\[13\], 64 Stat. 888; Pub. L. 95–369, §6(c)(24), Sept. 17, 1978, 92 Stat. 619; Pub. L. 97–320, title I, §§111, 113(m), 116, 141(a)(1), (3), title II, §§203, 206, Oct. 15, 1982, 96 Stat. 1469, 1474, 1476, 1488, 1489, 1492, 1496; Pub. L. 97–457, §§1(a), 4, 10(a), Jan. 12, 1983, 96 Stat. 2507, 2508; Pub. L. 98–29, §1(a), May 16, 1983, 97 Stat. 189; Pub. L. 100–86, title V, §§502(a)–(g), (i), 509(a), title VIII, §801, Aug. 10, 1987, 101 Stat. 623–627, 629, 635, 656; Pub. L. 101–73, title II, §§201(a), 217, Aug. 9, 1989, 103 Stat. 187, 254; Pub. L. 102–242, title I, §§123(b), 141(a)(1), (e), Dec. 19, 1991, 105 Stat. 2252, 2273, 2278; Pub. L. 103–325, title III, §317, title VI, §602(a)(34)–(42), Sept. 23, 1994, 108 Stat. 2223, 2289, 2290; Pub. L. 104–208, div. A, title II, §2704(d)(14)(M), Sept. 30, 1996, 110 Stat. 3009–492; Pub. L. 109–8, title IX, §909, Apr. 20, 2005, 119 Stat. 183; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §§3(a)(8), 8(a)(19), Feb. 15, 2006, 119 Stat. 3606, 3613; Pub. L. 110–343, div. A, title I, §126(c), Oct. 3, 2008, 122 Stat. 3795; Pub. L. 111–22, div. A, title II, §204(d), May 20, 2009, 123 Stat. 1650; Pub. L. 111–203, title III, §363(6), title XI, §1106(b), July 21, 2010, 124 Stat. 1553, 2125.)
 
@@ -784,7 +784,7 @@ Subsec. (h). Pub. L. 104–208, §2704(d)(14)(M)(v), which directed substitution
 
 Subsec. (k)(4)(B)(i). Pub. L. 104–208, §2704(d)(14)(M)(vi), which directed substitution of "Deposit Insurance Fund" for "Savings Association Insurance Fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (k)(5)(A). Pub. L. 104–208, §2704(d)(14)(M)(vii), which directed substitution of "Deposit Insurance Fund" for "Savings Association Insurance Fund", wasrepealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (k)(5)(A). Pub. L. 104–208, §2704(d)(14)(M)(vii), which directed substitution of "Deposit Insurance Fund" for "Savings Association Insurance Fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 <b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–325, §602(a)(34), substituted "an insured bank in default" for "a in default insured bank" and "such insured bank" for "such in default insured bank".
 
@@ -992,7 +992,7 @@ Subsec. (i). Pub. L. 97–320, §§203, 206, added subsec. (i), relating to net 
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce ofHouse of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 2010 Amendment
 
@@ -1092,7 +1092,7 @@ Report.—Two years after the date of enactment of this Act \[Dec. 19, 1991\], t
 
 #### Extension of Emergency Acquisition and Net Worth Guarantee Provisions of Pub. L. 97–320
 
-No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, or section 206(a) of Pub. L. 97–320, set out as a note above, as in effect before Aug. 10, 1987, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had been made before such date, see section 509(c) of Pub. L. 100–86, set out as a note under section 1464 of this title.
+No amendment made by section 141(a) of Pub. L. 97–320, set out as a note under section 1464 of this title, or section 206(a) of Pub. L. 97–320, set out as a note above, as in effect before Aug. 10, 1987, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effectas if no such amendment had been made before such date, see section 509(c) of Pub. L. 100–86, set out as a note under section 1464 of this title.
 
 No amendment made by section 141(a) or section 206(a) of Pub. L. 97–320, set out as notes under sections 1464 and 1729 of this title, respectively, as in effect on the day before Oct. 8, 1986, to any other provision of law to be deemed to have taken effect before such date and any such provision of law to be in effect as if no such amendment had taken effect before such date, see section 1(c) of Pub. L. 99–452, set out as a note under section 1464 of this title.
 
@@ -1102,7 +1102,7 @@ Sections 141(a) and 206(a) of Pub. L. 97–320, which are set out as notes under
 
 Pub. L. 97–320, title II, §204, Oct. 15, 1982, 96 Stat. 1495, provided that: "The Federal Home Loan Bank Board and the Board of Directors of the Federal Deposit Insurance Corporation shall each transmit an annual report to each House of the Congress specifying the types and amounts of net worth certificates purchased from each depository institution and the conditions imposed on each such depository institution."
 
-\[For termination, effective May 15, 2000, of reporting provisions relating to the Federal Deposit Insurance Corporation in section 204 of Pub. L. 97–320, set out above, see section 3003 of Pub. L. 104–66, set out as anote under section 1113 of Title 31, Money and Finance, and page 167 of House Document No. 103–7.\]
+\[For termination, effective May 15, 2000, of reporting provisions relating to the Federal Deposit Insurance Corporation in section 204 of Pub. L. 97–320, set out above, see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance, and page 167 of House Document No. 103–7.\]
 
 #### Semiannual Audit by Comptroller General of Net Worth Certificate Programs of Federal Deposit Insurance Corporation and Federal Home Loan Bank Board
 

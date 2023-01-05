@@ -6,7 +6,7 @@ Establishment.—To facilitate the administration of the System, the Secretary, 
 
 (b)
 
-Charter Exception On Renewal.—Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) is waived with respect to any advisory commission or advisory committee established by law in connection with any System unit during the period for which the commission or committee is authorized by law.
+Charter Exception On Renewal.—Section 1013(b) of title 5 is waived with respect to any advisory commission or advisory committee established by law in connection with any System unit during the period for which the commission or committee is authorized by law.
 
 (c)
 
@@ -16,7 +16,7 @@ Service of Members.—Any member of any advisory commission or advisory committe
 
 Compensation and Travel Expenses.—Members of an advisory committee established under subsection (a) shall receive no compensation for their services as such but shall be allowed necessary travel expenses as authorized by section 5703 of title 5.
 
-(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3118.)
+(Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3118; Pub. L. 117–286, §4(a)(328), Dec. 27, 2022, 136 Stat. 4342.)
 
 Historical and Revision Notes
 
@@ -46,7 +46,7 @@ Pub. L. 102–525, title III, §301, Oct. 26, 1992, 106 Stat. 3441.
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
+#### Amendments
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+<b>2022</b>—Subsec. (b). Pub. L. 117–286 substituted "Section 1013(b) of title 5" for "Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.)".
 

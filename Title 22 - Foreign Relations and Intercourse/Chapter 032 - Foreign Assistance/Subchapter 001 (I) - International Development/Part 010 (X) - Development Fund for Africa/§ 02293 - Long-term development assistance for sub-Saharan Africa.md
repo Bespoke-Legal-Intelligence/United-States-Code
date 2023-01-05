@@ -178,9 +178,9 @@ Funds made available to carry out this section may be used to assist the governm
 
 #### References in Text
 
-This chapter, referred to in subsec. (n)(2)(B), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (n)(2)(B), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Comprehensive Anti/Apartheid Act of 1986, referred to in subsec. (n)(4), probably means the Comprehensive Anti-Apartheid Act of 1986, which is Pub. L. 99–440, Oct. 2, 1986, 100 Stat. 1086, as amended, and was classified principally to chapter 60 (§5001 et seq.) of this title, prior to repeal by Pub. L. 103–149, §4(a)(1), (2), Nov. 23, 1993, 107 Stat. 1504, 1505. For complete classification of this Act to the Code, see Tables.
+The Comprehensive Anti/Apartheid Act of 1986, referred to in subsec. (n)(4), probably means the Comprehensive Anti-Apartheid Act of 1986, which is Pub. L. 99–440, Oct. 2, 1986, 100 Stat. 1086, and was classified principally to chapter 60 (§5001 et seq.) of this title, prior to repeal by Pub. L. 103–149, §4(a)(1), (2), Nov. 23, 1993, 107 Stat. 1504, 1505. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -218,7 +218,7 @@ Pub. L. 114–121, Feb. 8, 2016, 130 Stat. 86, as amended by Pub. L. 115–254, 
 
 &emsp;"(3) promote non-discriminatory reliable, affordable, and sustainable power in urban areas (including small urban areas) to promote economic growth and job creation;
 
-&emsp;"(4) promote policies to facilitate public-private partnerships to provide non-discriminatory reliable,sustainable, and affordable electrical service to rural and underserved populations;
+&emsp;"(4) promote policies to facilitate public-private partnerships to provide non-discriminatory reliable, sustainable, and affordable electrical service to rural and underserved populations;
 
 &emsp;"(5) encourage the necessary in-country reforms, including facilitating public-private partnerships specifically to support electricity access projects to make such expansion of power access possible;
 
@@ -326,7 +326,7 @@ Report Required.—Not later than 180 days after the date of the enactment of th
 
 &emsp;&emsp;"(B) plans to protect the intellectual property of companies designing and manufacturing products that can be used to provide energy access in sub-Saharan Africa.
 
-&emsp;"(10) A description of how the President intends to encourage the growth of distributed renewable energy markets in sub-Saharan Africa, including off-grid lighting and power, that includes—
+&emsp;"(10) A description of how the President intends to encourage the growth of distributed renewable energymarkets in sub-Saharan Africa, including off-grid lighting and power, that includes—
 
 &emsp;&emsp;"(A) an analysis of the state of distributed renewable energy in sub-Saharan Africa;
 
@@ -420,7 +420,7 @@ In General.—Not later than three years after the date of the enactment of this
 
 &emsp;"(3) For each project described in paragraph (2)—
 
-&emsp;&emsp;"(A) a description of how the project fits into, or encourages modifications of, the national energy plan of the country in which the project will be carried out, including encouraging regulatory reform in that county;
+&emsp;&emsp;"(A) a description of how the project fits into, or encourages modifications of, the national energyplan of the country in which the project will be carried out, including encouraging regulatory reform in that county;
 
 &emsp;&emsp;"(B) an estimate of the total cost of the project to the consumer, the country in which the project will be carried out, and other investors;
 
@@ -594,7 +594,7 @@ Additional Requirements.—Such plan shall seek to ensure that—
 
 #### Reports to Congress
 
-Pub. L. 101–513, title V, §562(c), Nov. 5, 1990, 104 Stat. 2030, provided that: "As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying out chapter 10 of part I of the Foreign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
+Pub. L. 101–513, title V, §562(c), Nov. 5, 1990, 104 Stat. 2030, provided that: "As part of the annual Congressional Presentation materials for economic assistance, the Administrator of the Agency for International Development shall include a description of the progress made during the previous fiscal year in carrying outchapter 10 of part I of the Foreign Assistance Act of 1961 \[this part\] in three countries in sub-Saharan Africa which represent differing economic situations and levels of progress. The description shall include—
 
 &emsp;"(1) the nature and extent of consultation to ensure local perspectives, as described in subsections (e)(1) and (f) of section 496 \[22 U.S.C. 2293(e)(1), (f)\];
 

@@ -48,7 +48,7 @@ Adequacy of Acquisition Workforce.—Each report under subsection (a) shall—
 
 (d)
 
-Cutters Not Maintained in Class.—Each report under subsection (a) shall identify which,if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class, with an explanation detailing the reasons why the cutters have not been maintained in class.
+Cutters Not Maintained in Class.—Each report under subsection (a) shall identify which, if any, Coast Guard cutters that have been issued a certificate of classification by the American Bureau of Shipping have not been maintained in class, with an explanation detailing the reasons why the cutters have not been maintained in class.
 
 (e)
 
@@ -76,7 +76,7 @@ Long-term Major Acquisitions Plan.—Each report under subsection (a) shall incl
 
 Major Acquisition Program Defined.—In this section, the term "major acquisition program" means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.
 
-(Added Pub. L. 112–213, title II, §210(a), Dec. 20, 2012, 126 Stat. 1550, §569a; renumbered §2903 and amended Pub. L. 114–120, title I, §101(d)(3), title II, §204(e), Feb. 8, 2016, 130 Stat. 31, 35; Pub. L. 115–232, div. C, title XXXV, §3526(c), Aug. 13, 2018, 132 Stat. 2317; renumbered §5103 and amended Pub. L. 115–282, title I, §§122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8214, Jan. 1, 2021, 134 Stat. 4650.)
+(Added Pub. L. 112–213, title II, §210(a), Dec. 20, 2012, 126 Stat. 1550, §569a; renumbered §2903 and amended Pub. L. 114–120, title I, §101(d)(3), titleII, §204(e), Feb. 8, 2016, 130 Stat. 31, 35; Pub. L. 115–232, div. C, title XXXV, §3526(c), Aug. 13, 2018, 132 Stat. 2317; renumbered §5103 and amended Pub. L. 115–282, title I, §§122(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4239, 4240; Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8214, Jan. 1, 2021, 134 Stat. 4650.)
 
 #### <b>Editorial Notes</b>
 

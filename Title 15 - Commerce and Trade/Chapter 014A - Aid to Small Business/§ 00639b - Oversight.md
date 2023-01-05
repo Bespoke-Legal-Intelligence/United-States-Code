@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), on and after December 27, 2020, the Administratorshall comply with any data or information requests or inquiries made by the Comptroller General of the United States not later than 15 days (or such later date as the Comptroller General may specify) after receiving the request or inquiry.
+&emsp;Except as provided in paragraph (2), on and after December 27, 2020, the Administrator shall comply with any data or information requests or inquiries made by the Comptroller General of the United States not later than 15 days (or such later date as the Comptroller General may specify) after receiving the request or inquiry.
 
 #### (2) Exception
 

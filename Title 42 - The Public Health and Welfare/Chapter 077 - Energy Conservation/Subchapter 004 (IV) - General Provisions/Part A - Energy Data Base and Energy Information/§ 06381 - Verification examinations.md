@@ -10,7 +10,7 @@ The Comptroller General may conduct verification examinations with respect to th
 
 &emsp;&emsp;(A) if such person has furnished, directly or indirectly, energy information (without regard to whether such information was furnished pursuant to legal requirements) to any Federal agency (other than the Internal Revenue Service), and
 
-&emsp;&emsp;(B) if the Comptroller General of the United States determines that such information has been or is being used or taken intoconsideration, in whole or in part, by a Federal agency in carrying out responsibilities committed to such agency; or
+&emsp;&emsp;(B) if the Comptroller General of the United States determines that such information has been or is being used or taken into consideration, in whole or in part, by a Federal agency in carrying out responsibilities committed to such agency; or
 
 &emsp;(3) any vertically integrated petroleum company with respect to financial information of such company related to energy resource exploration, development, and production and the transportation, refining and marketing of energy resources and energy products.
 
@@ -46,5 +46,5 @@ This subchapter, referred to in subsec. (c), was in the original "this title", m
 
 #### Transfer of Functions
 
-"Secretary, the Department of the Interior, or the Federal Energy Regulatory Commission" and "Secretary" substituted for "Federal Energy Administration, the Department of the Interior, or the Federal Power Commission" and "Administration", respectively, in subsec. (a)(1), and "Federal Energy Regulatory Commission, or the Secretary" substituted for "Federal Power Commission, or the Federal Energy Administration (or the Administrator)" in subsec. (b) pursuant to sections 301, 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7172, 7293, and 7297 of this title and which terminated the Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to the Secretary of Energy and terminated the Federal Power Commission and transferred its functions to the Federal Energy Regulatory Commission and the Secretary of Energy.
+"Secretary, the Department of the Interior, or the Federal Energy Regulatory Commission" and "Secretary" substituted for "Federal Energy Administration, the Department of the Interior, or the FederalPower Commission" and "Administration", respectively, in subsec. (a)(1), and "Federal Energy Regulatory Commission, or the Secretary" substituted for "Federal Power Commission, or the Federal Energy Administration (or the Administrator)" in subsec. (b) pursuant to sections 301, 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7172, 7293, and 7297 of this title and which terminated the Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to the Secretary of Energy and terminated the Federal Power Commission and transferred its functions to the Federal Energy Regulatory Commission and the Secretary of Energy.
 

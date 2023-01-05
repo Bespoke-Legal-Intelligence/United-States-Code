@@ -22,7 +22,7 @@ A grant awarded under this subchapter shall be used to support—
 
 &emsp;&emsp;(C) offering technical assistance to criminal justice agencies on how to modify their administrative and clinical processes to accommodate evidence-based interventions, such as long-acting injectable medications and other recovery supports; and
 
-&emsp;&emsp;(D) participating in data collection activities specified by the Attorney General, in consultation with the Secretary of Health and Human Services;
+&emsp;&emsp;(D) participating in data collection activities specified by the Attorney General, inconsultation with the Secretary of Health and Human Services;
 
 &emsp;(2) programs that support cooperative efforts between criminal and juvenile justice agencies, mental health agencies, and community-based behavioral health providers to establish or enhance serious mental illness recovery support by—
 
@@ -34,7 +34,7 @@ A grant awarded under this subchapter shall be used to support—
 
 &emsp;&emsp;(D) participating in data collection activities specified by the Attorney General, in consultation with the Secretary of Health and Human Services; and
 
-&emsp;(3) programs that provide training and additional resources to criminal and juvenile justice agencies, mental health agencies, and community-based behavioral health providers on serious mental illness, suicide prevention strategies, recovery engagement strategies,and the special health and social needs of justice-involved individuals who are living with serious mental illness.
+&emsp;(3) programs that provide training and additional resources to criminal and juvenile justice agencies, mental health agencies, and community-based behavioral health providers on serious mental illness, suicide prevention strategies, recovery engagement strategies, and the special health and social needs of justice-involved individuals who are living with serious mental illness.
 
 #### (c) Consultation
 
@@ -55,4 +55,10 @@ In this section, the term "behavioral health provider" means—
 #### References in Text
 
 Section 223(d) of the Protecting Access to Medicare Act of 2014, referred to in subsec. (d)(2), is section 223(d) of Pub. L. 113–93, which is set out as a note under section 1396a of Title 42, The Public Health and Welfare.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of Pub. L. 116–281, which enacted this subchapter, as the "Crisis Stabilization and Community Reentry Act of 2020", see section 1 of Pub. L. 116–281, set out as a Short Title of 2020 Amendment note under section 10101 of this title.
 

@@ -10,7 +10,7 @@ Within 3 years of the acquisition of 50 percent of the land authorized for acqui
 
 #### (1) Public access
 
-&emsp;Alternative means for providing public access from the mainland to the scenic areashall be considered, including any available existing services and facilities, concessionaires, special use permits, or other means of making public access available for the purposes of sections 546 to 546a–5 of this title.
+&emsp;Alternative means for providing public access from the mainland to the scenic area shall be considered, including any available existing services and facilities, concessionaires, special use permits, or other means of making public access available for the purposes of sections 546 to 546a–5 of this title.
 
 #### (2) Roads
 

@@ -142,7 +142,7 @@ Pub. L. 97–448, title III, §311(b)(1), Jan. 12, 1983, 96 Stat. 2411, provided
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–589 applicable to bankruptcy cases commencing more than 90 days after Dec.24, 1980, see section 7(b) of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 applicable to bankruptcy cases commencing more than 90 days after Dec. 24, 1980, see section 7(b) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it had been included in the provisions of the Revenue Act of 1978, Pub. L. 95–600, to which such amendment relates, see section 201 of Pub. L. 96–222, set out as a note under section 32 of this title.
 

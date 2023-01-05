@@ -58,7 +58,7 @@ The Corporation, in consultation with the Secretary of Education, is authorized 
 
 #### (1) Submission
 
-&emsp;To receive a grant or enter into a contract under this part, an institution or partnership shall prepare and submit to the Corporation,an application at such time, in such manner, and containing such information and assurances as the Corporation may reasonably require, and obtain approval of the application. In requesting applications for assistance under this part, the Corporation shall specify such required information and assurances.
+&emsp;To receive a grant or enter into a contract under this part, an institution or partnership shall prepare and submit to the Corporation, an application at such time, in such manner, and containing such information and assurances as the Corporation may reasonably require, and obtain approval of the application. In requesting applications for assistance under this part, the Corporation shall specify such required information and assurances.
 
 #### (2) Contents
 
@@ -166,7 +166,7 @@ Subsec. (b). Pub. L. 111–13, §1202(b)(2)(A), substituted "consortium" for "co
 
 Subsec. (b)(1)(C). Pub. L. 111–13, §1202(b)(2)(B), added subpar. (C).
 
-Subsec. (b)(3). Pub. L. 111–13, §1202(b)(2)(C)(i), substituted "institutions of higher education and their faculty" for "teachers at the elementary, secondary, and postsecondary levels" in introductory provisions.
+Subsec. (b)(3). Pub. L. 111–13, §1202(b)(2)(C)(i), substituted "institutions of higher education and theirfaculty" for "teachers at the elementary, secondary, and postsecondary levels" in introductory provisions.
 
 Subsec. (b)(3)(A). Pub. L. 111–13, §1202(b)(2)(C)(ii), substituted "curricula of the institution to strengthen the instructional capacity of teachers to provide service-learning at the elementary and secondary levels;" for "education of the institution; and".
 

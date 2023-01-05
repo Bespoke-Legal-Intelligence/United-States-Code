@@ -2,7 +2,7 @@
 
 (a) Nothing in this chapter or in any other provision of law shall be construed to prohibit common carriers from issuing or giving franks to, or exchanging franks with each other for the use of, their officers, agents, employees, and their families, or, subject to such rules as the Commission may prescribe, from issuing, giving, or exchanging franks and passes to or with other common carriers not subject to the provisions of this chapter, for the use of their officers, agents, employees, and their families. The term "employees", as used in this section, shall include furloughed, pensioned, and superannuated employees.
 
-(b) Nothing in this chapter or in any other provision of law shall be construed to prohibit common carriers from rendering to any agency of the Government free service in connectionwith the preparation for the national defense: <i>Provided</i>, That such free service may be rendered only in accordance with such rules and regulations as the Commission may prescribe therefor.
+(b) Nothing in this chapter or in any other provision of law shall be construed to prohibit common carriers from rendering to any agency of the Government free service in connection with the preparation for the national defense: <i>Provided</i>, That such free service may be rendered only in accordance with such rules and regulations as the Commission may prescribe therefor.
 
 (June 19, 1934, ch. 652, title II, §210, 48 Stat. 1073; June 25, 1940, ch. 422, 54 Stat. 570.)
 

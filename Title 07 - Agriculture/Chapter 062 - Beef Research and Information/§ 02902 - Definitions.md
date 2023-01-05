@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 &emsp;(5) the term "Committee" means the Beef Promotion Operating Committee established under section 2904(5) of this title;
 
-&emsp;(6) the term "consumer information" means nutritional data and other information that will assist consumers and other persons in making evaluations and decisions regardingthe purchasing, preparing, and use of beef and beef products;
+&emsp;(6) the term "consumer information" means nutritional data and other information that will assist consumers and other persons in making evaluations and decisions regarding the purchasing, preparing, and use of beef and beef products;
 
 &emsp;(7) the term "Department" means the Department of Agriculture.<sup>1</sup>
 

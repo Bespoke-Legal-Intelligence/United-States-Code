@@ -20,7 +20,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;(6) costs of audits under subsection (d);
 
-&emsp;(7) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
+&emsp;(7) costs of necessary training of Federal and State personnel who administer this chapter to improve administration of this chapter;
 
 &emsp;(8) costs of travel to States, territories, and Canada by personnel who—
 
@@ -28,7 +28,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;&emsp;(B) administer grants under section 669e, 669h–1, or 669h–2 of this title;
 
-&emsp;(9) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
+&emsp;(9) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
 
 &emsp;(10) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time or part-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter; and
 
@@ -40,7 +40,7 @@ Except as provided in subsection (b), the Secretary of the Interior may use avai
 
 &emsp;Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section 669c(a)(1) of this title should be used for an expense for administration other than an expense for administration described in subsection (a), the Secretary—
 
-&emsp;&emsp;(A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describingthe expense for administration and stating the amount of the expense; and
+&emsp;&emsp;(A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describing the expense for administration and stating the amount of the expense; and
 
 &emsp;&emsp;(B) may use any such available amounts for the expense for administration only after the end of the 30-day period beginning on the date of submission of the report under subparagraph (A).
 
@@ -66,7 +66,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (B) Supervision of auditor
 
-&emsp;&emsp;The auditor selected under subparagraph (A) shall report to, and be supervised by, the Inspector General of the Department of the Interior, except that the auditor shall submit a copy of the biennial audit findings to the Secretary of the Interior at the time at which the findings are submitted to the Inspector General of the Department of the Interior.
+&emsp;&emsp;The auditor selected under subparagraph (A) shall report to, and be supervised by, the Inspector General of the Department of the Interior, except that the auditor shall submit a copy of the biennial audit findings tothe Secretary of the Interior at the time at which the findings are submitted to the Inspector General of the Department of the Interior.
 
 #### (3) Report to Congress
 
@@ -76,7 +76,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 &emsp;&emsp;(B) a copy of each audit under this subsection.
 
-(Sept. 2, 1937, ch. 899, §9, 50 Stat. 919; Pub. L. 106–408, title I, §111(b), Nov. 1, 2000, 114 Stat. 1764; Pub. L. 117–58, div. B, title VIII, §28001(b)(2), Nov. 15, 2021, 135 Stat. 888.)
+(Sept. 2, 1937, ch. 899, §9, 50 Stat. 919; Pub. L. 106–408, title I, §111(b), Nov. 1, 2000, 114 Stat. 1764; Pub. L. 117–58, div. B, title VIII, §28001(b)(2), Nov. 15, 2021, 135 Stat. 888; Pub. L. 117–263, div. K, title CXIII, §11324(b)(2), Dec. 23, 2022, 136 Stat. 4095.)
 
 #### <b>Editorial Notes</b>
 
@@ -85,6 +85,10 @@ The Secretary of the Interior shall not use available amounts under subsection (
 In subsec. (d)(2)(A), "section 132 of title 41" substituted for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(7). Pub. L. 117–263, §11324(b)(2)(A), struck out "full-time" before "personnel".
+
+Subsec. (a)(9). Pub. L. 117–263, §11324(b)(2)(B), struck out "on a full-time basis" after "administer this chapter".
 
 <b>2021</b>—Subsec. (a)(1). Pub. L. 117–58, §28001(b)(2)(A), added par. (1) and struck out former par. (1) which read as follows: "personnel costs of employees who directly administer this chapter on a full-time basis;".
 

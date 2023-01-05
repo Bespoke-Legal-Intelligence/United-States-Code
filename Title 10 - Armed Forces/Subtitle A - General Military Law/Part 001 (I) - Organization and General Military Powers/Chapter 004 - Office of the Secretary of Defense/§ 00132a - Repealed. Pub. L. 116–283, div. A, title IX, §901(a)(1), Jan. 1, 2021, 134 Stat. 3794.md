@@ -1,6 +1,6 @@
 ### \[§132a. Repealed. Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794\]
 
-Section, added Pub. L. 111–383, div. A, title IX, §901(c)(1), Jan. 7, 2011, 124 Stat. 4320; amended Pub. L.113–291, div. A, title IX, §901(a)(1), Dec. 19, 2014, 128 Stat. 3462; Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342; Pub. L. 115–91, div. A, title IX, §910(a)(1), Dec. 12, 2017, 131 Stat. 1516; Pub. L. 115–232, div. A, title IX, §921(a)(1), (2)(A), Aug. 13, 2018, 132 Stat. 1926; Pub. L. 116–92, div. A, title IX, §903(a)(2), Dec. 20, 2019, 133 Stat. 1555, related to establishment and responsibilities of the Chief Management Officer of the Department of Defense.
+Section, added Pub. L. 111–383, div. A, title IX, §901(c)(1), Jan. 7, 2011, 124 Stat. 4320; amended Pub. L. 113–291, div. A, title IX, §901(a)(1), Dec. 19, 2014, 128 Stat. 3462; Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342; Pub. L. 115–91, div. A, title IX, §910(a)(1), Dec. 12, 2017, 131 Stat. 1516; Pub. L. 115–232, div. A, title IX, §921(a)(1), (2)(A), Aug. 13, 2018, 132 Stat. 1926; Pub. L. 116–92, div. A, title IX, §903(a)(2), Dec. 20, 2019, 133 Stat. 1555, related to establishment and responsibilities of the Chief Management Officer of the Department of Defense.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

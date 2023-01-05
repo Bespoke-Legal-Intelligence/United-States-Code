@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The governing State official may prepare and submit a plan for the establishment of a Stateorganic certification program to the Secretary for approval. A State organic certification program must meet the requirements of this chapter to be approved by the Secretary.
+The governing State official may prepare and submit a plan for the establishment of a State organic certification program to the Secretary for approval. A State organic certification program must meet the requirements of this chapter to be approved by the Secretary.
 
 #### (b) Additional requirements
 

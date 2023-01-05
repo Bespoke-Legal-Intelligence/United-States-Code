@@ -36,7 +36,7 @@ The Administrator of the Agency for International Development shall—
 
 &emsp;(2) look to the World Conservation Strategy as an overall guide for actions to conserve biological diversity;
 
-&emsp;(3) engage in dialogues and exchanges of information with recipient countries which stress the importance of conserving biological diversity for the long-term economic benefit of those countries and which identify and focus on policies of those countries which directly or indirectly contribute to loss of biological diversity;
+&emsp;(3) engage in dialogues and exchanges of information with recipient countries whichstress the importance of conserving biological diversity for the long-term economic benefit of those countries and which identify and focus on policies of those countries which directly or indirectly contribute to loss of biological diversity;
 
 &emsp;(4) support training and education efforts which improve the capacity of recipient countries to prevent loss of biological diversity;
 
@@ -68,7 +68,7 @@ A prior section 2151q, Pub. L. 87–195, pt. I, §119, as added Pub. L. 95–88,
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–167 inserted ", notwithstanding section 2420 of this title," after "subchapter I of this chapter".
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–529 added subsec. (c) and struck out former subsec. (c) which read as follows: "The Administrator of the Agency for International Development, in conjunction with the Secretary of State, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of other appropriate Government agencies, shall develop a United States strategy, including specificpolicies and programs, to protect and conserve biological diversity in developing countries."
+<b>1986</b>—Subsec. (c). Pub. L. 99–529 added subsec. (c) and struck out former subsec. (c) which read as follows: "The Administrator of the Agency for International Development, in conjunction with the Secretary of State, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chairman of the Council on Environmental Quality, and the heads of other appropriate Government agencies, shall develop a United States strategy, including specific policies and programs, to protect and conserve biological diversity in developing countries."
 
 Subsec. (d). Pub. L. 99–529 added subsec. (d) and struck out former subsec. (d) which read as follows: "Each annual report required by section 2394(a) of this title shall include, in a separate volume, a report on the implementation of this subsection. Not later than one year after November 22, 1983, the President shall submit a comprehensive report to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate on the United States strategy to protect and conserve biological diversity in developing countries."
 

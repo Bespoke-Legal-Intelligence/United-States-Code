@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director may carry out a program under which elements of the Agency provide items and services on a reimbursable basis to other elements of the Agency, nonappropriated fund entities or instrumentalities associated or affiliatedwith the Agency, and other Government agencies. The Director shall carry out the program in accordance with the provisions of this section.
+The Director may carry out a program under which elements of the Agency provide items and services on a reimbursable basis to other elements of the Agency, nonappropriated fund entities or instrumentalities associated or affiliated with the Agency, and other Government agencies. The Director shall carry out the program in accordance with the provisions of this section.
 
 #### (b) Participation of Agency elements
 
@@ -54,7 +54,7 @@ The total value of all orders for items or services to be provided under the pro
 
 #### (e) Payment for items and services
 
-(1) A Government agency provided items or services under the program shall pay the central service provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f). In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers' compensation), plant and equipment costs (including depreciation of plant and equipment other than structures owned by the Agency), operation and maintenance expenses, amortized costs, and other expenses.
+(1) A Government agency provided items or services under the program shall pay the centralservice provider concerned for such items or services an amount equal to the costs incurred by the provider in providing such items or services plus any fee imposed under subsection (f). In calculating such costs, the Director shall take into account personnel costs (including costs associated with salaries, annual leave, and workers' compensation), plant and equipment costs (including depreciation of plant and equipment other than structures owned by the Agency), operation and maintenance expenses, amortized costs, and other expenses.
 
 (2) Payment for items or services under paragraph (1) may take the form of an advanced payment by an agency from appropriations available to such agency for the procurement of such items or services.
 
@@ -74,7 +74,7 @@ The total value of all orders for items or services to be provided under the pro
 
 (2) The Director of the Central Intelligence Agency and the Director of the Office of Management and Budget may not undertake any action under paragraph (1) until 60 days after the date on which the Directors jointly submit notice of such action to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV,§401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title IV, §403, Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–458, title I, §1071(b)(3)(D), (E), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 112–277, title IV, §401, Jan. 14, 2013, 126 Stat. 2475; Pub. L. 113–126, title VII, §701, July 7, 2014, 128 Stat. 1422.)
+(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title IV, §403, Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–458, title I, §1071(b)(3)(D), (E), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 112–277, title IV, §401, Jan. 14, 2013, 126 Stat. 2475; Pub. L. 113–126, title VII, §701, July 7, 2014, 128 Stat. 1422.)
 
 #### <b>Editorial Notes</b>
 
@@ -118,7 +118,7 @@ Subsec. (e)(1). Pub. L. 106–567, §401(b), in second sentence, inserted "other
 
 Subsec. (g)(2). Pub. L. 106–567, §401(c), substituted "financial statements to be prepared with respect to the program. Office of Management and Budget guidance shall also determine the procedures for conducting annual audits under paragraph (1)." for "annual audits under paragraph (1)".
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–120, §401(a), substituted ", nonappropriated fund entities or instrumentalities associated or affiliated with the Agency, and other" for "and to other".
+<b>1999</b>—Subsec. (a). Pub. L. 106–120, §401(a), substituted ", nonappropriated fund entities or instrumentalitiesassociated or affiliated with the Agency, and other" for "and to other".
 
 Subsec. (c)(2)(D). Pub. L. 106–120, §401(b)(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "Amounts collected in payment for loss or damage to equipment or other property of a central service provider as a result of activities under the program."
 
@@ -138,9 +138,13 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
 
-Pub. L. 116–260, div. C, title VIII, §8038, Dec. 27, 2020, 134 Stat. 1312, provided in part: "That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended".
+Pub. L. 117–328, div. C, title VIII, §8043, Dec. 29, 2022, 136 Stat. 4596, provided in part: "That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended".
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–103, div. C, title VIII, §8045, Mar. 15, 2022, 136 Stat. 184.
+
+Pub. L. 116–260, div. C, title VIII, §8038, Dec. 27, 2020, 134 Stat. 1312.
 
 Pub. L. 116–93, div. A, title VIII, §8038, Dec. 20, 2019, 133 Stat. 2344.
 

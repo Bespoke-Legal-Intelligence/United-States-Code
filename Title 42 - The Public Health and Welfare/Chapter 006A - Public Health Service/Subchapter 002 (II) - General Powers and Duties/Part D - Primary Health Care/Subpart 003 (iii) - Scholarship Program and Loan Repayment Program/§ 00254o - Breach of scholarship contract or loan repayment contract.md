@@ -16,7 +16,7 @@
 
 &emsp;(A) in the case of an individual who is enrolled in the final year of a course of study, fails to maintain an acceptable level of academic standing in the educational institution in which such individual is enrolled (such level determined by the educational institution under regulations of the Secretary) or voluntarily terminates such enrollment or is dismissed from such educational institution before completion of such course of study; or
 
-&emsp;(B) in the case of an individual who is enrolled in a graduate training program, fails to complete such training program and does not receive a waiver from the Secretary under section 254l–1(b)(1)(B)(ii) of this title,
+&emsp;(B) in the case of an individual who is enrolled in a graduate training program, fails tocomplete such training program and does not receive a waiver from the Secretary under section 254l–1(b)(1)(B)(ii) of this title,
 
 > in lieu of any service obligation arising under such contract shall be liable to the United States for the amount that has been paid on behalf of the individual under the contract.
 
@@ -24,9 +24,9 @@
 
 (1)(A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) or section 254p(d) of this title) to begin such individual's service obligation under section 254l of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254l(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t−s
+### &nbsp;&nbsp;&nbsp;&nbsp;t−s
 
-### A=3φ  (——)
+### A= 3φ (——)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;t
 
@@ -110,7 +110,7 @@ Section was formerly classified to section 294w of this title prior to its renum
 
 #### Prior Provisions
 
-A prior section 338E of act July 1, 1944, was renumbered section 338F by Pub. L. 100–177 and classified tosection 254p of this title, and subsequently renumbered 338G by Pub. L. 101–597.
+A prior section 338E of act July 1, 1944, was renumbered section 338F by Pub. L. 100–177 and classified to section 254p of this title, and subsequently renumbered 338G by Pub. L. 101–597.
 
 #### Amendments
 
@@ -126,7 +126,7 @@ Pub. L. 107–251, §313(a)(2)(A)(i), made technical amendment to reference in o
 
 Subsec. (b)(3). Pub. L. 107–251, §313(a)(2)(B), added par. (3).
 
-Subsec. (c)(1). Pub. L. 107–251, §313(a)(3)(A)(ii), added subpars. (A) to (C) and concluding provisions and struck out former subpars. (A) to (C) which related, respectively, to amounts to be recovered in the case of a contract for a 2-year period of obligated service, in the case of a contract for a period of obligated service of greater than 2 years where the breach occurred before the end of the first 2 years of such period, and in the case of a contract for a period of obligated service of greater than 2 years, where the breach occurred after the first 2 years of such period.
+Subsec. (c)(1). Pub. L. 107–251, §313(a)(3)(A)(ii), added subpars. (A) to (C) and concluding provisions and struck out former subpars. (A) to (C) which related, respectively, to amounts to be recovered in the case of a contract for a 2-year period of obligated service, in the case of a contract for a period of obligated service of greater than 2 years where the breach occurred before the end of the first 2 years of such period, and in thecase of a contract for a period of obligated service of greater than 2 years, where the breach occurred after the first 2 years of such period.
 
 Pub. L. 107–251, §313(a)(3)(A)(i), in introductory provisions, made technical amendment to reference in original act which appears in text as reference to section 254p(d) of this title.
 
@@ -180,7 +180,7 @@ Pub. L. 101–597, title II, §203(b), Nov. 16, 1990, 104 Stat. 3027, provided t
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date
 

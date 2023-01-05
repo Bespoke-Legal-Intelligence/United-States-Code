@@ -24,7 +24,7 @@
 
 #### (B) Periodic estimate
 
-&emsp;&emsp;Of the amount authorized to be appropriated under paragraph (1), such sums as may be necessary shall be made available to carry out section 11245 of this title for each of fiscal years 2019 through 2020.
+&emsp;&emsp;Of the amount authorized to be appropriated under paragraph (1), such sums asmay be necessary shall be made available to carry out section 11245 of this title for each of fiscal years 2019 through 2020.
 
 #### (4) Part E
 
@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 98–473, §657(c), struck out "Associate" before "Administ
 
 Subsec. (c). Pub. L. 98–473, §657(d), added subsec. (c).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–509 substituted provisions authorizing appropriations of $25,000,000 for each of fiscal years ending Sept. 30, 1981, 1982, 1983, and 1984, for provisions that had authorized appropriations of $10,000,000 for each of fiscal years ending Sept. 30, 1975, 1976, and 1977, and $25,000,000 for each of fiscal years ending Sept. 30, 1978, 1979, and 1980.
+<b>1980</b>—Subsec. (a). Pub. L. 96–509 substituted provisions authorizing appropriations of $25,000,000 for each of fiscal years ending Sept. 30, 1981, 1982, 1983, and 1984, for provisions that had authorized appropriations of$10,000,000 for each of fiscal years ending Sept. 30, 1975, 1976, and 1977, and $25,000,000 for each of fiscal years ending Sept. 30, 1978, 1979, and 1980.
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–115, §7(d)(1), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1978, 1979, and 1980.
 

@@ -12,7 +12,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(iii) for whom the combination of impairments described in clauses (i) and (ii) cause extreme difficulty in attaining independence in daily life activities, achieving psychosocial adjustment, or obtaining a vocation;
 
-&emsp;&emsp;(B) who despite the inability to be measured accurately for hearing and vision loss due to cognitive or behavioral constraints, or both, can be determined through functional and performance assessment to have severe hearing and visual disabilities that cause extreme difficulty in attaining independence in daily life activities, achieving psychosocial adjustment, or obtaining vocational objectives; or
+&emsp;&emsp;(B) who despite the inability to be measured accurately for hearing and vision lossdue to cognitive or behavioral constraints, or both, can be determined through functional and performance assessment to have severe hearing and visual disabilities that cause extreme difficulty in attaining independence in daily life activities, achieving psychosocial adjustment, or obtaining vocational objectives; or
 
 &emsp;&emsp;(C) meets such other requirements as the Secretary may prescribe by regulation; and
 

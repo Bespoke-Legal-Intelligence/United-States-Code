@@ -2,7 +2,7 @@
 
 #### (a) Employees
 
-Except as provided in subsection (b), section 12651e(d) of this title, and section 8E <sup>1</sup> of the Inspector General Act of 1978, the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
+Except as provided in subsection (b), section 12651e(d) of this title, and section 414 of title 5, the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
 
 #### (b) Alternative personnel system
 
@@ -66,7 +66,7 @@ The Chief Executive Officer may procure the temporary and intermittent services 
 
 #### (e) Details of personnel
 
-The head of any Federal department or agency may detail on a reimbursable basis, or on a nonreimbursable basis for not to exceed 180 calendar days during any fiscal year, as agreed upon by the Chief Executive Officer and the head of theFederal agency, any of the personnel of that department or agency to the Corporation to assist the Corporation in carrying out the duties of the Corporation under the national service laws. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
+The head of any Federal department or agency may detail on a reimbursable basis, or on a nonreimbursable basis for not to exceed 180 calendar days during any fiscal year, as agreed upon by the Chief Executive Officer and the head of the Federal agency, any of the personnel of that department or agency to the Corporation to assist the Corporation in carrying out the duties of the Corporation under the national service laws. Any detail shall not interrupt or otherwise affect the civil service status or privileges of the Federal employee.
 
 #### (f) Advisory committees
 
@@ -98,15 +98,13 @@ The head of any Federal department or agency may detail on a reimbursable basis,
 
 #### (g) Personal services contracts
 
-The Corporation may enter into personal services contracts to carry out research, evaluation, and public awareness related to the national service laws.
+The Corporation may enter into personal services contracts to carry out research, evaluation,and public awareness related to the national service laws.
 
-(Pub. L. 101–610, title I, §195, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), Sept. 21, 1993, 107 Stat. 883, 891; Pub. L. 111–13, title I, §1706, Apr. 21, 2009, 123 Stat. 1547.)
+(Pub. L. 101–610, title I, §195, as added and amended Pub. L. 103–82, title II, §§202(a), 203(a)(1)(B), Sept. 21, 1993, 107 Stat. 883, 891; Pub. L. 111–13, title I, §1706, Apr. 21, 2009, 123 Stat. 1547; Pub. L. 117–286, §4(b)(88), Dec. 27, 2022, 136 Stat. 4352.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
-
-Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is section 8E of Pub. L. 95–452, as added by Pub. L. 103–82, title II, §202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Section 203(c)(2) of the National and Community Service Trust Act of 1993, referred to in subsec. (c)(2)(C), is section 203(c)(2) of Pub. L. 103–82, which is set out as a note under section 12651 of this title. For the effective date of section 203(c)(2) of this Act, see section 203(d) of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under section 12651 of this title.
 
@@ -117,6 +115,8 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(2)(C), is
 A prior section 195 of Pub. L. 101–610 was renumbered section 151 by Pub. L. 103–82 and is classified to section 12611 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–286 substituted "section 414 of title 5," for "section 8E of the Inspector General Act of 1978,".
 
 <b>2009</b>—Subsec. (c)(2)(B). Pub. L. 111–13, §1706(1)(A), inserted "territory," after "subdivision of a State,".
 
@@ -139,6 +139,4 @@ Amendment by section 203(a)(1)(B) of Pub. L. 103–82 effective Apr. 4, 1994, se
 #### Effective Date
 
 Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as a note under section 12651 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

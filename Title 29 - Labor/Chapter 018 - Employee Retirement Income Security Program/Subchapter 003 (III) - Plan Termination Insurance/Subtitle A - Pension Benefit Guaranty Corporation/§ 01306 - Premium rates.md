@@ -20,7 +20,7 @@
 
 (3)(A) Except as provided in subparagraph (C), the annual premium rate payable to the corporation by all plans for basic benefits guaranteed under this subchapter is—
 
-&emsp;(i) in the case of a single-employer plan other than a CSEC plan (as defined in section1060(f)(1) of this title) an amount for each individual who is a participant in such plan during the plan year equal to the sum of the additional premium (if any) determined under subparagraph (E) and—
+&emsp;(i) in the case of a single-employer plan other than a CSEC plan (as defined in section 1060(f)(1) of this title) an amount for each individual who is a participant in such plan during the plan year equal to the sum of the additional premium (if any) determined under subparagraph (E) and—
 
 &emsp;&emsp;(I) for plan years beginning after December 31, 2005, and before January 1, 2013, $30;
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(VIII) for plan years beginning after December 31, 2018, $80.<sup>3</sup>
 
-&emsp;(ii) in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
+&emsp;(ii) in the case of a multiemployer plan, for the plan year within which the date of enactment of the Multiemployer Pension PlanAmendments Act of 1980 falls, an amount for each individual who is a participant in such plan for such plan year equal to the sum of—
 
 &emsp;&emsp;(I) 50 cents, multiplied by a fraction the numerator of which is the number of months in such year ending on or before such date and the denominator of which is 12, and
 
@@ -86,9 +86,9 @@
 
 (D)(i) Not later than 120 days before the date on which an increase under subparagraph (C)(ii) is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii), the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
 
-(ii) The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date onwhich the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
+(ii) The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
 
-(E)(i) Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year—
+(E)(i) Except as provided in subparagraph (I), the additional premium determined under this subparagraph with respect to any plan for any plan year—
 
 &emsp;(I) shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year;
 
@@ -150,7 +150,7 @@
 
 (I)(i) In the case of an employer who has 25 or fewer employees on the first day of the plan year, the additional premium determined under subparagraph (E) for each participant shall not exceed $5 multiplied by the number of participants in the plan as of the close of the preceding plan year.
 
-(ii) For purposes of clause (i), whether an employer has 25 or fewer employees on the first day of the plan year is determined by taking intoconsideration all of the employees of all members of the contributing sponsor's controlled group. In the case of a plan maintained by two or more contributing sponsors, the employees of all contributing sponsors and their controlled groups shall be aggregated for purposes of determining whether the 25-or-fewer-employees limitation has been satisfied.
+(ii) For purposes of clause (i), whether an employer has 25 or fewer employees on the first day of the plan year is determined by taking into consideration all of the employees of all members of the contributing sponsor's controlled group. In the case of a plan maintained by two or more contributing sponsors, the employees of all contributing sponsors and their controlled groups shall be aggregated for purposes of determining whether the 25-or-fewer-employees limitation has been satisfied.
 
 (J) For each plan year beginning in a calendar year after 2013, there shall be substituted for the premium rate specified in clause (v) of subparagraph (A) an amount equal to the greater of—
 
@@ -224,7 +224,7 @@
 
 (B) Notwithstanding subparagraph (A), premium rates charged to any multiemployer plan by the corporation for any period for supplemental guarantees under section 1322a(g)(2) of this title may reflect any reasonable considerations which the corporation determines to be appropriate.
 
-(6)(A) In carrying out its authority under paragraph (1) to establish premium rates andbases for basic benefits guaranteed under section 1322 of this title with respect to single-employer plans, the corporation shall establish such rates and bases in coverage schedules in accordance with the provisions of this paragraph.
+(6)(A) In carrying out its authority under paragraph (1) to establish premium rates and bases for basic benefits guaranteed under section 1322 of this title with respect to single-employer plans, the corporation shall establish such rates and bases in coverage schedules in accordance with the provisions of this paragraph.
 
 (B) The corporation may establish annual premiums for single-employer plans composed of the sum of—
 
@@ -238,7 +238,7 @@
 
 &emsp;(i) the number of participants in a plan, but such premium rates shall not exceed the rates described in paragraph (3),
 
-&emsp;(ii) unfunded basic benefits guaranteed under this subchapter, but such premium rates shall not exceed the limitations applicable to charges referred to in subparagraph (B)(i), or
+&emsp;(ii) unfunded basic benefits guaranteed under this subchapter, but such premium ratesshall not exceed the limitations applicable to charges referred to in subparagraph (B)(i), or
 
 &emsp;(iii) total guaranteed basic benefits, but such premium rates shall not exceed the rates for additional charges referred to in subparagraph (B)(ii).
 
@@ -304,13 +304,15 @@ In general.—Except as provided in subparagraphs (B), (C), and (E), the applica
 
 &emsp;&emsp;(v) for plan years beginning after calendar year 2017, the amount in effect for plan years beginning in 2017 (determined after application of subparagraph (C));
 
-&emsp;&emsp;(vi) for plan years beginning after calendar year 2018, the amount in effect for plan yearsbeginning in 2018 (determined after application of subparagraph (C)); and
+&emsp;&emsp;(vi) for plan years beginning after calendar year 2018, the amount in effect for plan years beginning in 2018 (determined after application of subparagraph (C));
 
-&emsp;&emsp;(vii) for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)).
+&emsp;&emsp;(vii) for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)); and
+
+&emsp;&emsp;(viii) for plan years beginning after calendar year 2023, $52.
 
 &emsp;(B)
 
-Adjustment for inflation.—For each plan year beginning in a calendar year after 2012, there shall be substituted for the applicable dollar amount specified under subparagraph (A) an amount equal to the greater of—
+Adjustment for inflation.—For each plan year beginning in a calendar year after 2012 and before 2024, there shall be substituted for the applicable dollar amount specified under subparagraph (A) an amount equal to the greater of—
 
 &emsp;&emsp;(i) the product derived by multiplying such applicable dollar amount for plan years beginning in that calendar year by the ratio of—
 
@@ -354,7 +356,7 @@ Base year.—For purposes of subparagraph (B), the base year is—
 
 &emsp;&emsp;(vi) 2016, in the case of plan years beginning after calendar year 2018; and
 
-&emsp;&emsp;(vii) 2017, in the case of plan years beginning after calendar year 2019.
+&emsp;&emsp;(vii) 2017, in the case of plan years beginning after calendar year 2019 and before 2024.
 
 &emsp;(E)
 
@@ -372,7 +374,7 @@ CSEC plans.—In the case of a CSEC plan (as defined in section 1060(f)(1) of th
 
 (5) If a committee to which has been referred a resolution has not reported it before the expiration of 10 calendar days after its introduction, it shall then (but not before) be in order to move to discharge the committee from further consideration of that resolution, or to discharge the committee from further consideration of any other resolution with respect to the proposed adjustment which has been referred to the committee. The motion to discharge may be made only by a person favoring the resolution, shall be highly privileged (except that it may not be made after the committee has reported a resolution with respect to the same proposed rate), and debate thereon shall be limited to not more than 1 hour, to be divided equally between those favoring and those opposing the resolution. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. If the motion to discharge is agreed to or disagreed to, the motion may not be renewed, nor may another motion to discharge the committee be made with respect to any other resolution with respect to the same proposed rate.
 
-(6) When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. Anamendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
+(6) When a committee has reported, or has been discharged from further consideration of a resolution, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. Debate on the resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate is not debatable. An amendment to, or motion to recommit, the resolution is not in order, and it is not in order to move to reconsider the vote by which the resolution is agreed to or disagreed to.
 
 (7) Motions to postpone, made with respect to the discharge from committee, or the consideration of, a resolution and motions to proceed to the consideration of other business shall be decided without debate. Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution shall be decided without debate.
 
@@ -402,7 +404,7 @@ CSEC plans.—In the case of a CSEC plan (as defined in section 1060(f)(1) of th
 
 &emsp;&emsp;(ii) the denominator of which is 12.
 
-(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104; Pub. L. 112–141, div. D, title II, §§40211(b)(3)(C), 40221, 40222, July 6, 2012, 126 Stat. 849–852; Pub. L. 113–67, div. A, title VII, §703(a)–(d), Dec. 26, 2013, 127 Stat. 1190, 1191; Pub. L. 113–235, div. O, title I, §131(a), Dec. 16, 2014, 128 Stat. 2796; Pub. L. 114–74, title V, §501(a)–(b)(2), Nov. 2, 2015, 129 Stat. 591, 592; Pub. L. 116–94, div. O, title II, §206, Dec. 20, 2019, 133 Stat. 3174; Pub. L. 117–2, title IX, §9704(c), Mar. 11, 2021, 135 Stat. 195.)
+(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–218, title I, §101(a)(4), Apr. 10, 2004, 118 Stat. 597; Pub. L. 108–311, title IV, §403(d), Oct. 4, 2004, 118 Stat. 1187; Pub. L. 109–171, title VIII, §8101(a)–(c), Feb. 8, 2006, 120 Stat. 180–182; Pub. L. 109–280, title III, §301(a)(3), title IV, §§401(a)(1), (b)(1), (2)(A), 405(a), Aug. 17, 2006, 120 Stat. 919, 922, 928; Pub. L. 110–458, title I, §104(a), Dec. 23, 2008, 122 Stat. 5104; Pub. L. 112–141, div. D, title II, §§40211(b)(3)(C), 40221, 40222, July 6, 2012, 126 Stat. 849–852; Pub. L. 113–67, div. A, title VII, §703(a)–(d), Dec. 26, 2013, 127 Stat. 1190, 1191; Pub. L. 113–235, div. O, title I, §131(a), Dec. 16, 2014, 128 Stat. 2796; Pub. L. 114–74, title V, §501(a)–(b)(2), Nov. 2, 2015, 129 Stat. 591, 592; Pub. L. 116–94, div. O, title II, §206, Dec. 20, 2019, 133 Stat. 3174; Pub. L. 117–2, title IX, §9704(c), Mar. 11, 2021, 135 Stat. 195; Pub. L. 117–328, div. T, title III, §349(a), (b), Dec. 29, 2022, 136 Stat. 5385, 5386.)
 
 #### <b>Editorial Notes</b>
 
@@ -411,6 +413,14 @@ CSEC plans.—In the case of a CSEC plan (as defined in section 1060(f)(1) of th
 The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(3)(E)(i). Pub. L. 117–328, §349(b), substituted "subparagraph (I)" for "subparagraph (H)" in introductory provisions.
+
+Subsec. (a)(8)(A)(viii). Pub. L. 117–328, §349(a)(1), added cl. (viii).
+
+Subsec. (a)(8)(B). Pub. L. 117–328, §349(a)(2), inserted "and before 2024" after "2012" in introductory provisions.
+
+Subsec. (a)(8)(D)(vii). Pub. L. 117–328, §349(a)(3), inserted "and before 2024" after "2019".
 
 <b>2021</b>—Subsec. (a)(3)(A)(vi). Pub. L. 117–2, §9704(c)(1)(A), inserted ", and before January 1, 2031" after "December 31, 2014," and struck out "or" at end.
 
@@ -542,7 +552,7 @@ Subsec. (a)(3)(E)(iii)(V). Pub. L. 108–218 added subcl. (V).
 
 Subsec. (a)(3)(E)(iv), (v). Pub. L. 103–465, §774(a)(1), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows:
 
-"(iv)(I) Except as provided in this clause, the aggregate increase in the premium payable with respect toany participant by reason of this subparagraph shall not exceed $53.
+"(iv)(I) Except as provided in this clause, the aggregate increase in the premium payable with respect to any participant by reason of this subparagraph shall not exceed $53.
 
 "(II) If an employer made contributions to a plan during 1 or more of the 5 plan years preceding the 1st plan year to which this subparagraph applies in an amount not less than the maximum amount allowable as a deduction with respect to such contributions under section 404 of title 26, the dollar amount in effect under subclause (I) for the 1st 5 plan years to which this subparagraph applies shall be reduced by $3 for each plan year for which such contributions were made in such amount."
 
@@ -589,6 +599,10 @@ Subsec. (c). Pub. L. 96–364, §105(c), added subsec. (c).
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. T, title III, §349(c), Dec. 29, 2022, 136 Stat. 5386, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 29, 2022\]."
 
 #### Effective Date of 2015 Amendment
 
@@ -734,7 +748,7 @@ Enforcement.—For purposes of enforcement, the requirements of paragraphs (1) a
 
 #### Single-Employer Pension Plan Termination Insurance Premium Study
 
-Pub. L. 99–272, title XI, §11017(a), Apr. 7, 1986, 100 Stat. 276, directed Pension Benefit Guaranty Corporation to conduct a study of, and submit to an advisory council not later than one year after Apr. 7, 1986, a report on the premiums established under the single-employer pension plan termination insurance program under this subchapter, including (1) the long-term stability of the program, (2) alternatives with respect to proposals for changes in the premium levels under such program, (3) methods currently used in projecting future costs, (4) alternative methods of projecting such future costs, (5) methods currently used in determining premiums needed to allocate and adequately fund such future costs, along with any alternative methods of making such premium determinations, and (6) alternative premium bases upon which some or all of such projected future costs would be allocated on an exposure-related or risk-related computation; and further provided for submission of the advisory council's report to Congress 180 days after submission of the Corporation's report to the advisory council, as well as the cooperation and consultation with other Federal agencies in compilation of reports.
+Pub. L. 99–272, title XI, §11017(a), Apr. 7, 1986, 100 Stat. 276, directed Pension Benefit Guaranty Corporation to conduct a study of, and submit to an advisory council not later than one year after Apr. 7, 1986, a report on the premiums established under the single-employer pension plan termination insurance program under this subchapter, including (1) the long-term stability of theprogram, (2) alternatives with respect to proposals for changes in the premium levels under such program, (3) methods currently used in projecting future costs, (4) alternative methods of projecting such future costs, (5) methods currently used in determining premiums needed to allocate and adequately fund such future costs, along with any alternative methods of making such premium determinations, and (6) alternative premium bases upon which some or all of such projected future costs would be allocated on an exposure-related or risk-related computation; and further provided for submission of the advisory council's report to Congress 180 days after submission of the Corporation's report to the advisory council, as well as the cooperation and consultation with other Federal agencies in compilation of reports.
 
 #### Studies and Reports Respecting Graduated Premium Rate Schedules and Union Mandated Withdrawals From Multiemployer Pension Plans
 

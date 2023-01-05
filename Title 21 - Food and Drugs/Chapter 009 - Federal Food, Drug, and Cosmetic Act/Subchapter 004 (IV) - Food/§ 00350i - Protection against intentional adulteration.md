@@ -72,5 +72,5 @@ Limited distribution.—In the interest of national security, the Secretary of H
 
 #### Periodic Review
 
-Pub. L. 111–353, title I, §106(c), Jan. 4, 2011, 124 Stat. 3906, provided that: "The Secretary of Health and Human Services shall periodically review and, as appropriate, update the regulations under section 420(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 450i(b)\], as added by subsection (a), and the guidance documents under subsection (b) \[section 106(b) of Pub. L. 111–353, set out above\]."
+Pub. L. 111–353, title I, §106(c), Jan. 4, 2011, 124 Stat. 3906, provided that: "The Secretary of Health andHuman Services shall periodically review and, as appropriate, update the regulations under section 420(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 450i(b)\], as added by subsection (a), and the guidance documents under subsection (b) \[section 106(b) of Pub. L. 111–353, set out above\]."
 

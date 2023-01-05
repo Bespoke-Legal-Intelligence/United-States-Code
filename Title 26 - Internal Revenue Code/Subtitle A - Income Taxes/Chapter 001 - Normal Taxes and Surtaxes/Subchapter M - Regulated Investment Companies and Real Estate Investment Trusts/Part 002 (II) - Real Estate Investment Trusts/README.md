@@ -5,7 +5,7 @@
 | [856\.](%C2%A7%2000856%20-%20Definition%20of%20real%20estate%20investment%20trust.md) | Definition of real estate investment trust. |
 | [857\.](%C2%A7%2000857%20-%20Taxation%20of%20real%20estate%20investment%20trusts%20and%20their%20beneficiaries.md) | Taxation of real estate investment trusts and their beneficiaries. |
 | [858\.](%C2%A7%2000858%20-%20Dividends%20paid%20by%20real%20estate%20investment%20trust%20after%20close%20of%20taxable%20year.md) | Dividends paid by real estate investment trust after close of taxable year. |
-| [859\.](%C2%A7%2000859%20-%20Adoption%20of%20annual%20accounting%20period.md) | Adoption of annual accounting period. |
+| [859\.](%C2%A7%2000859%20-%20Adoption%20of%20annual%20accounting%20period.md) | Adoption of annual accounting period.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

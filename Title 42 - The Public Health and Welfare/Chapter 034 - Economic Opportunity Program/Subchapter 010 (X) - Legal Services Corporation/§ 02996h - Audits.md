@@ -26,7 +26,7 @@
 
 Notwithstanding the provisions of this section or section 2996g of this title, neither the Corporation nor the Comptroller General shall have access to any reports or records subject to the attorney-client privilege.
 
-(Pub. L. 88–452, title X, §1009, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 387; amendedPub. L. 95–222, §14, Dec. 28, 1977, 91 Stat. 1623; Pub. L. 104–66, title II, §2111, Dec. 21, 1995, 109 Stat. 730; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 88–452, title X, §1009, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 387; amended Pub. L. 95–222, §14, Dec. 28, 1977, 91 Stat. 1623; Pub. L. 104–66, title II, §2111, Dec. 21, 1995, 109 Stat. 730; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### <b>Editorial Notes</b>
 

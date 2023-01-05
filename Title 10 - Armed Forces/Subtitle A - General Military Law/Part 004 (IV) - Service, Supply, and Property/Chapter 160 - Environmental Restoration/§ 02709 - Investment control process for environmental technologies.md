@@ -40,7 +40,7 @@ Pub. L. 106–65, div. A, title III, §323(a), Oct. 5, 1999, 113 Stat. 562, prov
 
 &emsp;"(2) to assure the identification of end-user requirements for environmental technology within the military departments;
 
-&emsp;"(3) to assure results, quality of effort, and appropriate levels of service and support for end-users ofenvironmental technology within the military departments; and
+&emsp;"(3) to assure results, quality of effort, and appropriate levels of service and support for end-users of environmental technology within the military departments; and
 
 &emsp;"(4) to promote improvement in the performance of environmental technologies by establishing objectives for environmental technology programs, measuring performance against such objectives, and making public reports on the progress made in such performance."
 

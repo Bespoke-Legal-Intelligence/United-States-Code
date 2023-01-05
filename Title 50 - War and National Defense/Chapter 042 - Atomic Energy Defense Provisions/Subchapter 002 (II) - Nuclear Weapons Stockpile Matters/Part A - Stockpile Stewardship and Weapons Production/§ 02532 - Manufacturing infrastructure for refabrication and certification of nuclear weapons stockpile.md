@@ -60,3 +60,35 @@ Subsecs. (d), (e). Pub. L. 112–239 struck out subsecs. (d) and (e), which rela
 
 Subsec. (b)(3). Pub. L. 104–201, §3132(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The tritium production, recycling, and other weapons-related capabilities of the Savannah River Site."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Acceleration of Depleted Uranium Manufacturing Processes
+
+Pub. L. 117–263, div. C, title XXXI, §3121, Dec. 23, 2022, 136 Stat. 3056, provided that:
+
+"(a)
+
+Acceleration of Manufacturing.—The Administrator for Nuclear Security shall require the nuclear security enterprise to accelerate the modernization of manufacturing processes for depleted uranium by 2030 so that the nuclear security enterprise—
+
+&emsp;"(1) demonstrates bulk cold hearth melting of depleted uranium alloys to augment existing capabilities on an operational basis for war reserve components;
+
+&emsp;"(2) manufactures, on a repeatable and ongoing basis, war reserve depleted uranium alloy components using net shape casting;
+
+&emsp;"(3) demonstrates, if possible, a production facility to conduct routine operations for manufacturing depleted uranium alloy components outside of the current perimeter security fencing of the Y–12 National Security Complex, Oak Ridge, Tennessee; and
+
+&emsp;"(4) has available high purity depleted uranium for the production of war reserve components.
+
+"(b)
+
+Annual Briefing.—Not later than March 31, 2023, and annually thereafter through 2030, the Administrator shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a briefing on—
+
+&emsp;"(1) progress made in carrying out subsection (a);
+
+&emsp;"(2) the cost of activities conducted under such subsection during the preceding fiscal year; and
+
+&emsp;"(3) the ability of the nuclear security enterprise to convert depleted uranium fluoride hexafluoride to depleted uranium tetrafluoride.
+
+"(c)
+
+Nuclear Security Enterprise Defined.—In this section, the term 'nuclear security enterprise' has the meaning given that term in section 4002 of the Atomic Energy Defense Act (50 U.S.C. 2501)."
+

@@ -28,7 +28,7 @@ Within 1 year after the date of signing a project cooperation agreement for cons
 
 #### (d) Technical support
 
-The Secretary may provide technical support to a non-Federal interest for a project to which subsection (a) applies for the development and implementation of plans prepared under subsection (b).
+The Secretary may provide technical support to a non-Federal interest for a project to whichsubsection (a) applies for the development and implementation of plans prepared under subsection (b).
 
 (Pub. L. 99–662, title IV, §402, Nov. 17, 1986, 100 Stat. 4133; Pub. L. 100–676, §14, Nov. 17, 1988, 102 Stat. 4026; Pub. L. 104–303, title II, §202(c)(1), Oct. 12, 1996, 110 Stat. 3674; Pub. L. 106–541, title II, §209(a), (c), Dec. 11, 2000, 114 Stat. 2591; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
 

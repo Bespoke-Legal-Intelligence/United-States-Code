@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (c) Treatment of contingent payments by transferor
 
-Amounts received or accrued on account of a transfer, sale, or other disposition of a franchise, trademark, or trade name which are contingent on the productivity, use, or disposition of the franchise, trademark, or trade name transferred shall be treated as amounts received or accrued from the sale or other disposition of property which is not a capital asset.
+Amounts received or accrued on account of a transfer, sale, or other disposition of a franchise, trademark, or trade name which are contingent on the productivity, use, or disposition of the franchise, trademark, or trade nametransferred shall be treated as amounts received or accrued from the sale or other disposition of property which is not a capital asset.
 
 #### (d) Treatment of payments by transferee
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with res
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision ofthe Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
+Amendment by Pub. L. 101–508 effective, except as otherwise provided, as if included in the provision of the Revenue Reconciliation Act of 1989, Pub. L. 101–239, title VII, to which such amendment relates, see section 11701(n) of Pub. L. 101–508, set out as a note under section 42 of this title.
 
 #### Effective Date of 1989 Amendment
 

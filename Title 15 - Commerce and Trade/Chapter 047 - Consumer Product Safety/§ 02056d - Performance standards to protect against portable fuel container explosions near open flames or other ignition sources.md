@@ -60,7 +60,7 @@ This section may be cited as the "Portable Fuel Container Safety Act of 2020".
 
 #### (A) Education campaign
 
-&emsp;&emsp;Not later than 1 year after December 27, 2020, the Commission shall undertake a campaign to educate consumers about the dangers associated with using or storing portable fuel containers for flammable liquids near an open flame or any other source of ignition.
+&emsp;&emsp;Not later than 1 year after December 27, 2020, the Commission shall undertake a campaign to educate consumers about the dangers associated with using or storing portable fuel containers for flammable liquidsnear an open flame or any other source of ignition.
 
 #### (B) Summary of actions
 

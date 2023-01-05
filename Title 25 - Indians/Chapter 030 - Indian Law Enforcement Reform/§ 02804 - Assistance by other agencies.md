@@ -26,7 +26,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 180 days after July 29, 2010, the Secretary, in consultation withIndian tribes and tribal law enforcement agencies, shall develop minimum requirements to be included in special law enforcement commission agreements pursuant to this section.
+&emsp;&emsp;&emsp;Not later than 180 days after July 29, 2010, the Secretary, in consultation with Indian tribes and tribal law enforcement agencies, shall develop minimum requirements to be included in special law enforcement commission agreements pursuant to this section.
 
 #### (ii) Substance of agreements
 

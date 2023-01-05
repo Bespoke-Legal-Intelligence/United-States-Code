@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Farmers Home Administration an Office of Rental Housing Preservation (hereafter in this section referred to as the "Office"). The Office shall be headed bya Director designated by the Secretary of Agriculture.
+There is established within the Farmers Home Administration an Office of Rental Housing Preservation (hereafter in this section referred to as the "Office"). The Office shall be headed by a Director designated by the Secretary of Agriculture.
 
 #### (b) Purposes
 
@@ -22,5 +22,5 @@ The purposes of the Office are:
 
 #### References in Text
 
-The Housing Act of 1949, referred to in subsec. (b)(4), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to this chapter (§1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(4), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to this chapter (§1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 

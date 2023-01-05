@@ -14,7 +14,7 @@ The Secretary is authorized to make and issue notes to the Secretary of the Trea
 
 #### (d) Notes and security as part of fund; collection or sale of notes; deposit of net proceeds in fund
 
-Notes and security acquired by the Secretary in connection with loans insured under this subchapter and under prior authority shall become a part of the fund. Notes may be held in the fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time. All net proceeds from such collections, includingsales of notes or property, shall be deposited in and become a part of the fund.
+Notes and security acquired by the Secretary in connection with loans insured under this subchapter and under prior authority shall become a part of the fund. Notes may be held in the fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time. All net proceeds from such collections, including sales of notes or property, shall be deposited in and become a part of the fund.
 
 #### (e) Deposit in fund of portion of charge on outstanding principal obligations; availability of remainder of charge, and merger with appropriations, for administrative expenses
 
@@ -24,7 +24,7 @@ The Secretary shall deposit in the fund all or a portion, not to exceed one-half
 
 The Secretary may utilize the fund—
 
-&emsp;(1) to pay amounts to which the holder of the note is entitled on loans heretofore or hereafter insured accruing between the date of any payments made by the borrower and the date of transmittal of any such payments to the lender. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
+&emsp;(1) to pay amounts to which the holder of the note is entitled on loans heretofore or hereafter insured accruing between the date ofany payments made by the borrower and the date of transmittal of any such payments to the lender. In the discretion of the Secretary, payments other than final payments need not be remitted to the holder until due or until the next agreed annual or semiannual remittance date;
 
 &emsp;(2) to pay to the holder of the notes any deferred or defaulted installment or, upon assignment of the note to the Secretary at the Secretary's request, the entire balance due on the loan;
 
@@ -102,7 +102,7 @@ The Secretary may guarantee under this chapter a loan made under a State beginni
 
 #### References in Text
 
-Section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, §5, 60 Stat. 1072, which was classified to section 1005a of this title and was repealed by section 341(a) of Pub. L. 87–128.
+Section 11(a) of the Bankhead-Jones Farm Tenant Act, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, §5, 60 Stat. 1072, which was classified to section 1005a of this title and was repealed by section 341(a) of Pub. L. 87–128.
 
 This chapter, referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
@@ -142,7 +142,7 @@ Subsec. (i). Pub. L. 102–554, §5(a), added subsec. (i).
 
 Subsec. (f)(2). Pub. L. 92–419, §115(a)(2), substituted "amounts" for "the interest" and "payments" for "prepayments" in three places and inserted "or until the next agreed annual or semi-annual remittance date" after "until due".
 
-Subsec. (f)(5). Pub. L. 92–419, §115(a)(3), (4), substituted "connection with insured loans, including the difference between interest payable to borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance" for "section 1985(a) of this title in connection with insured loans," and provided payment for contract services.
+Subsec. (f)(5). Pub. L. 92–419, §115(a)(3), (4), substituted "connection with insured loans, including the difference between interest payable to borrowers and interest to which insured lenders or insured holders are entitled under agreements with the Secretary included in contracts of insurance" for "section 1985(a) of thistitle in connection with insured loans," and provided payment for contract services.
 
 Subsecs. (g), (h). Pub. L. 92–419, §115(b), added subsecs. (g) and (h).
 

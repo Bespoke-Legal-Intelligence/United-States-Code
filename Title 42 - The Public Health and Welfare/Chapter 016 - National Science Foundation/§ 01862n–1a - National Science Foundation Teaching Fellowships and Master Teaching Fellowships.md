@@ -78,7 +78,7 @@ Grants awarded under this section shall be used by the eligible entity (and part
 
 &emsp;&emsp;(D) in the case of National Science Foundation Teaching Fellowships, a description of—
 
-&emsp;&emsp;&emsp;(i) the selection process that will be used in awarding fellowships, including a description of the rigorous measures to be used, including the rigorous, nationally recognized assessments to be used, in order to determine whether individuals applyingfor fellowships have advanced content knowledge of science, technology, engineering, or mathematics;
+&emsp;&emsp;&emsp;(i) the selection process that will be used in awarding fellowships, including a description of the rigorous measures to be used, including the rigorous, nationally recognized assessments to be used, in order to determine whether individuals applying for fellowships have advanced content knowledge of science, technology, engineering, or mathematics;
 
 &emsp;&emsp;&emsp;(ii) the academic courses and clinical teaching experiences described in subsection (c)(2)(A), including—
 
@@ -144,7 +144,7 @@ A National Science Foundation Teaching Fellow or a National Science Foundation M
 
 #### (B) Support while enrolled in master's degree program
 
-&emsp;&emsp;A National Science Foundation Teaching Fellow may receive a maximum of 1 year offellowship support while enrolled in a master's degree program as described in subsection (c)(2)(A), except that if such fellow is enrolled in a part-time program, such amount shall be prorated according to the length of the program.
+&emsp;&emsp;A National Science Foundation Teaching Fellow may receive a maximum of 1 year of fellowship support while enrolled in a master's degree program as described in subsection (c)(2)(A), except that if such fellow is enrolled in a part-time program, such amount shall be prorated according to the length of the program.
 
 #### (C) Duration of support
 
@@ -186,7 +186,7 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 &emsp;If a circumstance described in subparagraph (D) or (E) of section 1862n–1(g)(1) of this title occurs after the completion of 1 year of a service obligation under this section—
 
-&emsp;&emsp;(A) for a National Science Foundation Teaching Fellow, the total amount of fellowship award received by the individual under this section while enrolled in the master's degree program, reduced by one-fourth of the total amount for each year of service completed, plus one-half of the total teaching fellowship salary supplements received by such individual under this section, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title; and
+&emsp;&emsp;(A) for a National Science Foundation Teaching Fellow, the total amount of fellowship award received by the individual under this section while enrolled in the master's degree program, reduced by one-fourth of the total amount for each year of service completed, plus one-half of the total teaching fellowship salary supplements received by such individual under this section, shallbe repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title; and
 
 &emsp;&emsp;(B) for a National Science Foundation Master Teaching Fellow, the total amount of teaching fellowship salary supplements received by the individual under this section, reduced by one-half, shall be repaid or such amount shall be treated as a loan to be repaid in accordance with section 1862n–1(g)(1)(C) of this title.
 

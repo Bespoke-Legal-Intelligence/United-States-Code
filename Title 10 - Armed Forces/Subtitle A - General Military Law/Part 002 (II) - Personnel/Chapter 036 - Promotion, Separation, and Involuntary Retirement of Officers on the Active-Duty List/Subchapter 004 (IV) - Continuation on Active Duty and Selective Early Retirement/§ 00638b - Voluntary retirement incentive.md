@@ -18,7 +18,7 @@ Eligible Officers.—(1) Except as provided in paragraph (2), an officer of the 
 
 &emsp;(B) meets the minimum length of commissioned service requirement for voluntary retirement as a commissioned officer in accordance with section 7311, 8323, or 9311 of this title, as applicable to that officer;
 
-&emsp;(C) on the approved date of retirement, has 12 months or more remaining on active-duty service before reaching the maximum retirement years of active service for the member's grade as specified in section 633 or 634 of this title;
+&emsp;(C) on the approved date of retirement, has 12 months or more remaining on active-dutyservice before reaching the maximum retirement years of active service for the member's grade as specified in section 633 or 634 of this title;
 
 &emsp;(D) on the approved date of retirement, has 12 months or more remaining on active-duty service before reaching the maximum retirement age under any other provision of law; and
 
@@ -44,7 +44,7 @@ Amount of Payment.—The amount of the voluntary retirement incentive payment pa
 
 Repayment for Members Who Return to Active Duty.—(1) Except as provided in paragraph (2), a member of the armed forces who, after having received all or part of a voluntary retirement incentive under this section, returns to active duty shall have deducted from each payment of basic pay, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such basic pay equals the total amount of voluntary retirement incentive received.
 
-(2) Members who are involuntarily recalled to active duty or full-time National Guard dutyunder any provision of law shall not be subject to this subsection.
+(2) Members who are involuntarily recalled to active duty or full-time National Guard duty under any provision of law shall not be subject to this subsection.
 
 (3) The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interest of the United States. The authority in this paragraph may be delegated only to the Under Secretary of Defense for Personnel and Readiness and the Principal Deputy Under Secretary of Defense of Personnel and Readiness.
 

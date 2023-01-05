@@ -12,11 +12,11 @@
 
 &emsp;&emsp;The available amount referred to in subparagraph (A) is—
 
-&emsp;&emsp;&emsp;(i) for the fiscal year that includes November 15, 2021, the sum obtained by adding—
+&emsp;&emsp;&emsp;(i) for the fiscal year that includes November 15, 2021, the product obtained by multiplying—
 
-&emsp;&emsp;&emsp;&emsp;(I) the available amount specified in this subparagraph for the preceding fiscal year; and
+&emsp;&emsp;&emsp;&emsp;(I) $12,786,434; and
 
-&emsp;&emsp;&emsp;&emsp;(II) $979,500; and
+&emsp;&emsp;&emsp;&emsp;(II) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor; and
 
 &emsp;&emsp;&emsp;(ii) for each fiscal year thereafter, the sum obtained by adding—
 
@@ -64,7 +64,7 @@ The Secretary of the Interior, after deducting the available amount under subsec
 
 #### (4) Use of funds
 
-&emsp;In addition to other uses authorized under this chapter, amounts apportioned under thissubsection may be used for hunter recruitment and recreational shooter recruitment.
+&emsp;In addition to other uses authorized under this chapter, amounts apportioned under this subsection may be used for hunter recruitment and recreational shooter recruitment.
 
 #### (d) Apportionment of Wildlife Conservation and Restoration Account
 
@@ -128,7 +128,7 @@ Wildlife conservation strategy.—Within five years of the date of the initial a
 
 (5) For purposes of this subsection, the term "State" shall include the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, §111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) \[title IX, §902(e)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–121; Pub. L. 116–94, div. P, title V, §501(d), Dec. 20, 2019, 133 Stat. 3192; Pub. L. 117–58, div. B, title VIII, §28001(b)(1), Nov. 15, 2021, 135 Stat. 887.)
+(Sept. 2, 1937, ch. 899, §4, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 24, 1946, ch. 605, §1, 60 Stat. 656; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 92–558, title I, §101(b), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 94–273, §4(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 99–396, §8(b), Aug. 27, 1986, 100 Stat. 839; Pub. L. 101–233, §7(a)(2), Dec. 13, 1989, 103 Stat. 1975; Pub. L. 106–408, title I, §111(a), Nov. 1, 2000, 114 Stat. 1763; Pub. L. 106–553, §1(a)(2) \[title IX, §902(e)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–121; Pub. L. 116–94, div. P, title V, §501(d), Dec. 20, 2019, 133 Stat. 3192; Pub. L. 117–58, div. B, title VIII, §28001(b)(1), Nov. 15, 2021, 135 Stat. 887; Pub. L. 117–263, div. K, title CXIII, §11324(b)(1), Dec. 23, 2022, 136 Stat. 4095.)
 
 #### <b>Editorial Notes</b>
 
@@ -137,6 +137,12 @@ Wildlife conservation strategy.—Within five years of the date of the initial a
 Subsection (d), as redesignated, referred to in subsec. (e)(3), probably refers to the redesignation of a second subsec. (c) of this section as (d) by Pub. L. 116–94, div. P, title V, §501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192. See 2019 Amendment note below.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1)(B)(i). Pub. L. 117–263 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "for the fiscal year that includes November 15, 2021, the sum obtained by adding—
+
+&emsp;"(I) the available amount specified in this subparagraph for the preceding fiscal year; and
+
+&emsp;"(II) $979,500; and".
 
 <b>2021</b>—Subsec. (a)(1)(B). Pub. L. 117–58, §28001(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which provided amounts available for fiscal years 2001 and thereafter.
 
@@ -188,7 +194,7 @@ Amendment by Pub. L. 92–558 effective Jan. 1, 1975, see section 101(c) of Pub.
 
 #### Suspension of Expense Limitation
 
-The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, §1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extentnecessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of the former Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
+The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, §1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of the former Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
 
 #### <b>Executive Documents</b>
 

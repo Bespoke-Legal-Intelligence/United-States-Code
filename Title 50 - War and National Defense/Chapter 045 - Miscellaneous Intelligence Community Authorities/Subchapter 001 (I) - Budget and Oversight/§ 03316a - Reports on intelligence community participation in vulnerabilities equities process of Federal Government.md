@@ -32,7 +32,7 @@ In this section:
 
 #### (2) Changes to process or criteria
 
-&emsp;Not later than 30 days after any significant change is made to the process and criteriaused by any element of the intelligence community for determining whether to submit a vulnerability for review under the Vulnerabilities Equities Process, such element shall submit to the congressional intelligence committees a report describing such change.
+&emsp;Not later than 30 days after any significant change is made to the process and criteria used by any element of the intelligence community for determining whether to submit a vulnerability for review under the Vulnerabilities Equities Process, such element shall submit to the congressional intelligence committees a report describing such change.
 
 #### (3) Form of reports
 
@@ -62,7 +62,17 @@ In this section:
 
 &emsp;The Director of National Intelligence may forgo submission of an annual report required under this subsection for a calendar year, if the Director notifies the intelligence committees in writing that, with respect to the same calendar year, an annual report required by paragraph 4.3 of the Vulnerabilities Equities Policy and Process document already has been submitted to Congress, and such annual report contains the information that would otherwise be required to be included in an annual report under this subsection.
 
-(Pub. L. 116–92, div. E, title LXVII, §6720, Dec. 20, 2019, 133 Stat. 2230.)
+#### (4) Publication
+
+&emsp;The Director of National Intelligence shall make available to the public each unclassified appendix submitted with a report under paragraph (1) pursuant to paragraph (2).
+
+(Pub. L. 116–92, div. E, title LXVII, §6720, Dec. 20, 2019, 133 Stat. 2230; Pub. L. 117–103, div. X, title III, §307, Mar. 15, 2022, 136 Stat. 966.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c)(4). Pub. L. 117–103 added par. (4).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

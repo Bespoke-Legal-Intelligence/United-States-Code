@@ -26,7 +26,7 @@ Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of 
 
 #### Effective Date
 
-Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
+Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for thepromulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
 
 #### <b>Executive Documents</b>
 

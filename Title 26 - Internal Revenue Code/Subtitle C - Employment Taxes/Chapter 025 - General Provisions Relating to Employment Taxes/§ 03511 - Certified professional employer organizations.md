@@ -38,7 +38,7 @@ Solely for purposes of its liability for the taxes and other obligations imposed
 
 &emsp;&emsp;&emsp;(ii) for which the certified professional employer organization receives payment from the customer, and
 
-&emsp;&emsp;(C) the certified professional employer organization shall furnish the customer and the Secretary with any information necessary for the customer to claim such credit.
+&emsp;&emsp;(C) the certified professional employer organization shall furnish the customer andthe Secretary with any information necessary for the customer to claim such credit.
 
 #### (2) Credits specified
 
@@ -54,11 +54,13 @@ Solely for purposes of its liability for the taxes and other obligations imposed
 
 &emsp;&emsp;(E) section 45R (employee health insurance expenses of small employers),
 
-&emsp;&emsp;(F) section 51 (work opportunity credit),
+&emsp;&emsp;(F) section 45AA (military spouse retirement plan eligibility credit),
 
-&emsp;&emsp;(G) section 1396 (empowerment zone employment credit), and
+&emsp;&emsp;(G) section 51 (work opportunity credit),
 
-&emsp;&emsp;(H) any other section as provided by the Secretary.
+&emsp;&emsp;(H) section 1396 (empowerment zone employment credit), and
+
+&emsp;&emsp;(I) any other section as provided by the Secretary.
 
 #### (e) Special rule for related party
 
@@ -84,9 +86,19 @@ The Secretary shall develop such reporting and recordkeeping rules, regulations,
 
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
-(Added Pub. L. 113–295, div. B, title II, §206(a), Dec. 19, 2014, 128 Stat. 4065.)
+(Added Pub. L. 113–295, div. B, title II, §206(a), Dec. 19, 2014, 128 Stat. 4065; amended Pub. L. 117–328, div. T, title I, §112(c), Dec. 29, 2022, 136 Stat. 5295.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (d)(2)(F) to (I). Pub. L. 117–328 added subpar. (F) and redesignated former subpars. (F) to (H) as (G) to (I), respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 applicable to taxable years beginning after Dec. 29, 2022, see section 112(e) of Pub. L. 117–328, set out as a note under section 38 of this title.
 
 #### Effective Date
 

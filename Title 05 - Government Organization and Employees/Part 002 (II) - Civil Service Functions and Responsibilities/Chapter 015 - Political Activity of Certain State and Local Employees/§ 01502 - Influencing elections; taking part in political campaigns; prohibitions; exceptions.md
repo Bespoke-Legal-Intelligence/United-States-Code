@@ -46,7 +46,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>2012</b>—Subsec. (a)(3). Pub. L. 112–230, §2, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "be a candidate for elective office."
 
-Subsec. (c)(3). Pub. L. 112–230, §3(c), which directed the substitution of ", municipality, or the District of Columbia' " for " 'or municipality" and ", municipal, or the District of Columbia' " for " 'or municipal", was executed by substituting ", municipality, or the District of Columbia" for "or municipality" and ", municipal, or the District of Columbia" for "or municipal", to reflect the probable intent of Congress.
+Subsec. (c)(3). Pub. L. 112–230, §3(c), which directed the substitution of ", municipality, or the District ofColumbia' " for " 'or municipality" and ", municipal, or the District of Columbia' " for " 'or municipal", was executed by substituting ", municipality, or the District of Columbia" for "or municipality" and ", municipal, or the District of Columbia" for "or municipal", to reflect the probable intent of Congress.
 
 <b>1974</b>—Subsec. (a)(3). Pub. L. 93–443 substituted "be a candidate for elective office" for "take an active part in political management or in political campaigns".
 

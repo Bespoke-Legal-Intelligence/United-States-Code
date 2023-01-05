@@ -18,5 +18,5 @@ Pub. L. 85–773, Aug. 27, 1958, 72 Stat. 931, which designated certain lands fo
 
 #### Seminole Indian Reservation
 
-Act July 20, 1956, ch. 645, 70 Stat. 581, which transferred to the Seminole Tribe equitable title to certain lands and provided for such lands to be held by the United States in trust for the tribe, was omitted from the Code as being of special and not general application.
+Act July 20, 1956, ch. 645, 70 Stat. 581, which transferred to the Seminole Tribe equitable title to certain lands and provided for such lands to be held by the United States in trust for the tribe, was omitted fromthe Code as being of special and not general application.
 

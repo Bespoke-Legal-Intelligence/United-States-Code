@@ -54,7 +54,7 @@ Another prior section 5116, Pub. L. 93–247, title II, §201, formerly Pub. L. 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–320, §132(1), added par. (1) and struck out former par. (1) which read as follows: "to support community-based efforts to develop, operate, expand, enhance, and, where appropriate to network, initiatives aimed at the prevention of child abuse and neglect, and to support networks of coordinated resources and activities to better strengthen and support families to reduce the likelihood of child abuse and neglect; and".
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–320, §132(1), added par. (1) and struck out former par. (1) which read as follows: "to support community-based efforts to develop, operate, expand, enhance, and, where appropriate to network, initiatives aimed at the prevention of child abuse and neglect, and to support networks of coordinated resources and activities to better strengthen and supportfamilies to reduce the likelihood of child abuse and neglect; and".
 
 Subsec. (b). Pub. L. 111–320, §132(2)(A), struck out "hereafter" before "referred" in introductory provisions.
 

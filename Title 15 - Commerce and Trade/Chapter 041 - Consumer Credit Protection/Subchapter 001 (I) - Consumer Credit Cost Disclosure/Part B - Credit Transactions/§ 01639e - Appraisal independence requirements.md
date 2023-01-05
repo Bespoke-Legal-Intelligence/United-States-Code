@@ -36,7 +36,7 @@ Any mortgage lender, mortgage broker, mortgage banker, real estate broker, appra
 
 #### (f) No extension of credit
 
-In connection with a consumer credit transaction secured by a consumer's principal dwelling, a creditor who knows, at or before loan consummation, of a violation of the appraisal independence standards established in subsections <sup>1</sup> (b) or (d) shall not extend credit based on such appraisal unless the creditor documents that the creditor has acted with reasonable diligence to determine that the appraisal does not materially misstate or misrepresent the value of such dwelling.
+In connection with a consumer credit transaction secured by a consumer's principal dwelling, a creditor who knows, at or before loan consummation, of a violation of the appraisal independence standards established in subsections <sup>1</sup>\(b) or (d) shall not extend credit based on such appraisal unless the creditor documents that the creditor has acted with reasonable diligence to determine that the appraisal does not materially misstate or misrepresent the value of such dwelling.
 
 #### (g) Rules and interpretive guidelines
 
@@ -78,7 +78,7 @@ Consistent with the requirements of this section, the Board, the Comptroller of 
 
 #### (j) Sunset
 
-Effective on the date the interim final regulations are promulgated pursuant to subsection\(g), the Home Valuation Code of Conduct announced by the Federal Housing Finance Agency on December 23, 2008, shall have no force or effect.
+Effective on the date the interim final regulations are promulgated pursuant to subsection (g), the Home Valuation Code of Conduct announced by the Federal Housing Finance Agency on December 23, 2008, shall have no force or effect.
 
 #### (k) Penalties
 

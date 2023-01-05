@@ -102,7 +102,7 @@
 
 #### (B) Continuing periods
 
-&emsp;&emsp;In the case of an individual who becomes a part D eligible individual after November 15, 2005, there shall be an initial enrollment period which is the period under section 1395w–21(e)(1) of this title, as applied underparagraph (1)(B)(iii) of this section,<sup>2</sup> as if "entitled to benefits under part A or enrolled under part B" were substituted for "entitled to benefits under part A and enrolled under part B", but in no case shall such period end before the period described in subparagraph (A).
+&emsp;&emsp;In the case of an individual who becomes a part D eligible individual after November 15, 2005, there shall be an initial enrollment period which is the period under section 1395w–21(e)(1) of this title, as applied under paragraph (1)(B)(iii) of this section,<sup>2</sup> as if "entitled to benefits under part A or enrolled under part B" were substituted for "entitled to benefits under part A and enrolled under part B", but in no case shall such period end before the period described in subparagraph (A).
 
 #### (3) Additional special enrollment periods
 
@@ -140,7 +140,7 @@
 
 #### (E) Discontinuance of MA–PD election during first year of eligibility
 
-&emsp;&emsp;In the case of a part D eligible individual who discontinues enrollment in an MA–PD plan under the second sentence of section 1395w–21(e)(4) of this title at the time of the election of coverage under such sentence under the original medicare fee-for-service program.
+&emsp;&emsp;In the case of a part D eligible individual who discontinues enrollment in an MA–PDplan under the second sentence of section 1395w–21(e)(4) of this title at the time of the election of coverage under such sentence under the original medicare fee-for-service program.
 
 #### (4) Information to facilitate enrollment
 

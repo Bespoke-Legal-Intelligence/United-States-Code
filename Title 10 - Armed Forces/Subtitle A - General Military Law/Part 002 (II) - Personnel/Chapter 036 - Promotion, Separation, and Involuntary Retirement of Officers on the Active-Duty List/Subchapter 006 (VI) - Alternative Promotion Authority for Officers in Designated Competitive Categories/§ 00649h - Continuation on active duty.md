@@ -18,7 +18,7 @@ Identification.—Before convening a selection board pursuant to section 611(b) 
 
 (c)
 
-Recommendation for Continuation.—A selection board may recommend an officer for continuation on active duty pursuant to this section only if the board determines that the officer is qualified for assignment to one or morepositions identified pursuant to subsection (b) on the basis of skills, knowledge, and behavior required of an officer to perform successfully in such position or positions.
+Recommendation for Continuation.—A selection board may recommend an officer for continuation on active duty pursuant to this section only if the board determines that the officer is qualified for assignment to one or more positions identified pursuant to subsection (b) on the basis of skills, knowledge, and behavior required of an officer to perform successfully in such position or positions.
 
 (d)
 

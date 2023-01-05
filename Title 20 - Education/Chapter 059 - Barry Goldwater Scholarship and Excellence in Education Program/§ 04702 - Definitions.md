@@ -28,7 +28,7 @@ In this chapter:
 
 #### Amendments
 
-<b>2021</b>—Par. (5). Pub. L. 117–81, §6302(1), added par. (5) and struck out former par. (5) which read as follows:"The term 'State' means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, considered as a single entity, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific Islands, and the Commonwealth of the Northern Marianas."
+<b>2021</b>—Par. (5). Pub. L. 117–81, §6302(1), added par. (5) and struck out former par. (5) which read as follows: "The term 'State' means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, considered as a single entity, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific Islands, and the Commonwealth of the Northern Marianas."
 
 Par. (6). Pub. L. 117–81, §6302(2), added par. (6) and struck out former par. (6) which read as follows: "The term 'eligible person' means a citizen or national of the United States or a permanent resident alien of the United States."
 

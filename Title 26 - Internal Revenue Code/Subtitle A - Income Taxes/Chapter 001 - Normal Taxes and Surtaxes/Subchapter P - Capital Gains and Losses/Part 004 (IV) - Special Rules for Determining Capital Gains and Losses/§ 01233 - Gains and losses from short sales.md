@@ -162,5 +162,5 @@ Pub. L. 85–866, title I, §52(c), Sept. 2, 1958, 72 Stat. 1644, provided that:
 
 #### Effective Date of 1955 Amendment
 
-Act Aug. 12, 1955, ch. 871, §2, 69 Stat. 718, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Aug. 12, 1955\] and only in the caseof a short sale of property made by the taxpayer after such date."
+Act Aug. 12, 1955, ch. 871, §2, 69 Stat. 718, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Aug. 12, 1955\] and only in the case of a short sale of property made by the taxpayer after such date."
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Attorney General, acting in consultation with the Director of the Violence Against Women Office of the Department of Justice, the Department of Housing and Urban Development, and the Department of Health and Human Services, shall award grants under this section to States, units of local government, Indian tribes, and other organizations, including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking (referred to in this section as the "recipient") to carry out programs to provide assistance to minors, adults, and their dependents—
+The Attorney General, acting in consultation with the Director of the Office on Violence Against Women of the Department of Justice, the Department of Housing and Urban Development, and the Department of Health and Human Services, shall award grants under this section to States, units of local government, Indian tribes, and other organizations, including domestic violence and sexual assault victim service providers, domestic violence and sexual assault coalitions, other nonprofit, nongovernmental organizations, population-specific organizations, or community-based and culturally specific organizations, that have a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking (referred to in this section as the "recipient") to carry out programs to provide assistance to minors, adults, and their dependents—
 
 &emsp;(1) who are homeless, or in need of transitional housing or other housing assistance, as a result of a situation of domestic violence, dating violence, sexual assault, or stalking; and
 
@@ -22,7 +22,7 @@ Grants awarded under this section may be used for programs that provide—
 
 &emsp;&emsp;(B) secure employment, including obtaining employment counseling, occupational training, job retention counseling, and counseling concerning re-entry in to <sup>2</sup> the workforce; and
 
-&emsp;&emsp;(C) integrate into a community by providing that minor, adult, or dependent with services, such as transportation, counseling, child care services, case management, andother assistance. Participation in the support services shall be voluntary. Receipt of the benefits of the housing assistance described in paragraph (2) shall not be conditioned upon the participation of the youth, adults, or their dependents in any or all of the support services offered them.
+&emsp;&emsp;(C) integrate into a community by providing that minor, adult, or dependent with services, such as transportation, counseling, child care services, case management, and other assistance. Participation in the support services shall be voluntary. Receipt of the benefits of the housing assistance described in paragraph (2) shall not be conditioned upon the participation of the youth, adults, or their dependents in any or all of the support services offered them.
 
 #### (c) Duration
 
@@ -98,7 +98,7 @@ Grants awarded under this section may be used for programs that provide—
 
 #### (2) Availability of report
 
-&emsp;In order to coordinate efforts to assist the victims of domestic violence, the Attorney General, in coordination with the Director of the Violence Against Women Office, shall transmit a copy of the report submitted under paragraph (1) to—
+&emsp;In order to coordinate efforts to assist the victims of domestic violence, the AttorneyGeneral, in coordination with the Director of the Violence Against Women Office, shall transmit a copy of the report submitted under paragraph (1) to—
 
 &emsp;&emsp;(A) the Office of Community Planning and Development at the United States Department of Housing and Urban Development; and
 
@@ -108,21 +108,17 @@ Grants awarded under this section may be used for programs that provide—
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2014 through 2018.
+&emsp;There are authorized to be appropriated to carry out this section $35,000,000 for each of fiscal years 2023 through 2027.
 
-#### (2) Limitations
-
-&emsp;Of the amount made available to carry out this section in any fiscal year, up to 5 percent may be used by the Attorney General for evaluation, monitoring, technical assistance, salaries and administrative expenses.
-
-#### (3) Minimum amount
+#### (2) Minimum amount
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), unless all qualified applications submitted by any States, units of local government, Indian tribes, or organizations within a State for a grant under this section have beenfunded, that State, together with the grantees within the State (other than Indian tribes), shall be allocated in each fiscal year, not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section.
+&emsp;&emsp;Except as provided in subparagraph (B), unless all qualified applications submitted by any States, units of local government, Indian tribes, or organizations within a State for a grant under this section have been funded, that State, together with the grantees within the State (other than Indian tribes), shall be allocated in each fiscal year, not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section.
 
 #### (B) Exception
 
-&emsp;&emsp;The United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands shall each be allocated not less than 0.25 percent of the total amount appropriated in the fiscal year for grants pursuant to this section.
+&emsp;&emsp;The United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands shall each be allocated not less than 0.5 percent of the total amount appropriated in the fiscal year for grants pursuant to this section.
 
 #### (C) Underserved populations
 
@@ -156,7 +152,7 @@ Applicability of part.— <sup>3</sup> The requirements of this section shall 
 
 &emsp;&emsp;&emsp;(iv) does not propose prohibited activities, including mandatory services for victims.
 
-(Pub. L. 103–322, title IV, §40299, as added Pub. L. 108–21, title VI, §611, Apr. 30, 2003, 117 Stat. 693; amended Pub. L. 109–162, §3(b)(4), title VI, §602(a), title IX, §906(e), formerly §906(f), title XI, §1135(e), Jan. 5, 2006, 119 Stat. 2971, 3038, 3081, 3109, renumbered §906(e), Pub. L. 109–271, §7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §§2(d), 7(c)(1), 8(b), Aug. 12, 2006, 120 Stat. 752, 764–766; Pub. L. 113–4, title VI, §602(2), Mar. 7, 2013, 127 Stat. 109.)
+(Pub. L. 103–322, title IV, §40299, as added Pub. L. 108–21, title VI, §611, Apr. 30, 2003, 117 Stat. 693; amended Pub. L. 109–162, §3(b)(4), title VI, §602(a), title IX, §906(e), formerly §906(f), title XI, §1135(e), Jan. 5, 2006, 119 Stat. 2971, 3038, 3081, 3109, renumbered §906(e), Pub. L. 109–271, §7(b)(2)(B), Aug. 12, 2006, 120 Stat. 764; Pub. L. 109–271, §§2(d), 7(c)(1), 8(b), Aug. 12, 2006, 120 Stat. 752, 764–766; Pub. L. 113–4, title VI, §602(2), Mar. 7, 2013, 127 Stat. 109; Pub. L. 117–103, div. W, title VI, §604, Mar. 15, 2022, 136 Stat. 886.)
 
 #### <b>Editorial Notes</b>
 
@@ -165,6 +161,16 @@ Applicability of part.— <sup>3</sup> The requirements of this section shall 
 Section was formerly classified to section 13975 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–103, §604(1), in introductory provisions, substituted "the Director of the Office on Violence Against Women" for "the Director of the Violence Against Women Office" and inserted ", population-specific organizations" after ", other nonprofit, nongovernmental organizations".
+
+Subsec. (g)(1). Pub. L. 117–103, §604(2)(A), substituted "2023 through 2027" for "2014 through 2018".
+
+Subsec. (g)(2). Pub. L. 117–103, §604(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Of the amount made available to carry out this section in any fiscal year, up to 5 percent may be used by the Attorney General for evaluation, monitoring, technical assistance, salaries and administrative expenses."
+
+Subsec. (g)(2)(B). Pub. L. 117–103, §604(2)(D), substituted "0.5 percent" for "0.25 percent".
+
+Subsec. (g)(3). Pub. L. 117–103, §604(2)(C), redesignated par. (3) as (2).
 
 <b>2013</b>—Pub. L. 113–4, §602(2)(A), substituted "victims of domestic violence, dating violence, sexual assault, or stalking" for "child victims of domestic violence, stalking, or sexual assault" in section catchline.
 
@@ -215,6 +221,10 @@ Subsec. (g)(4). Pub. L. 109–271, §7(c)(1)(B), struck out par. (4) which read 
 Pub. L. 109–162, §906(e), formerly §906(f), as renumbered by Pub. L. 109–271, §7(b)(2)(B), added par. (4).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
 
 #### Effective Date of 2013 Amendment
 

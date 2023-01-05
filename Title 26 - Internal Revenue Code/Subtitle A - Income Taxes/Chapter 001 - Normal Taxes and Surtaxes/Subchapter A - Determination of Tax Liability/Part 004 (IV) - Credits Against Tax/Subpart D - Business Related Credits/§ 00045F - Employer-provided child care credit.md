@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 38, the employer-provided child care credit determined under thissection for the taxable year is an amount equal to the sum of—
+For purposes of section 38, the employer-provided child care credit determined under this section for the taxable year is an amount equal to the sum of—
 
 &emsp;(1) 25 percent of the qualified child care expenditures, and
 
@@ -165,7 +165,7 @@ For purposes of this section—
 
 #### (B) Certain dispositions
 
-&emsp;&emsp;If, during any taxable year, there is a recapture amount determined with respect to any property the basis of which was reduced under subparagraph (A), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term "recapture amount" means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (d).
+&emsp;&emsp;If, during any taxable year, there is a recapture amount determined with respect toany property the basis of which was reduced under subparagraph (A), the basis of such property (immediately before the event resulting in such recapture) shall be increased by an amount equal to such recapture amount. For purposes of the preceding sentence, the term "recapture amount" means any increase in tax (or adjustment in carrybacks or carryovers) determined under subsection (d).
 
 #### (2) Other deductions and credits
 

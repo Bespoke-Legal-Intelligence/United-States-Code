@@ -6,8 +6,10 @@
 | :--- | ---: |
 | [1301\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2001301%20-%20Definitions.md) | Definitions. |
 | [1302\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2001302%20-%20Constitutional%20rights.md) | Constitutional rights. |
+| [1302a.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2001302a%20-%20Bureau%20of%20Prisons%20tribal%20prisoner%20program.md) | Bureau of Prisons tribal prisoner program. |
 | [1303\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2001303%20-%20Habeas%20corpus.md) | Habeas corpus. |
-| [1304\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2001304%20-%20Tribal%20jurisdiction%20over%20crimes%20of%20domestic%20violence.md) | Tribal jurisdiction over crimes of domestic violence. |
+| [1304\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2001304%20-%20Tribal%20jurisdiction%20over%20covered%20crimes.md) | Tribal jurisdiction over covered crimes. |
+| [1305\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2001305%20-%20Tribal%20jurisdiction%20in%20Alaska.md) | Tribal jurisdiction in Alaska. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

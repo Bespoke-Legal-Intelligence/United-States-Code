@@ -22,7 +22,7 @@
 
 (b) The trustee of a partnership debtor may avoid any transfer of an interest of the debtor in property, or any obligation incurred by the debtor, that was made or incurred on or within 2 years before the date of the filing of the petition, to a general partner in the debtor, if the debtor was insolvent on the date such transfer was made or such obligation was incurred, or became insolvent as a result of such transfer or obligation.
 
-(c) Except to the extent that a transfer or obligation voidable under this section is voidable under section 544, 545, or 547 of this title, a transferee or obligee of such a transfer or obligation that takes for value and in good faith has a lien on or may retain any interest transferred or may enforce any obligation incurred, as the case may be, to the extent that such transferee or obligee gave value to the debtor in exchange for such transfer or obligation.
+(c) Except to the extent that a transfer or obligation voidable under this section is voidable under section 544, 545, or 547 of this title, a transferee or obligee of such a transfer or obligation that takes for value and in good faith hasa lien on or may retain any interest transferred or may enforce any obligation incurred, as the case may be, to the extent that such transferee or obligee gave value to the debtor in exchange for such transfer or obligation.
 
 (d)(1) For the purposes of this section, a transfer is made when such transfer is so perfected that a bona fide purchaser from the debtor against whom applicable law permits such transfer to be perfected cannot acquire an interest in the property transferred that is superior to the interest in such property of the transferee, but if such transfer is not so perfected before the commencement of the case, such transfer is made immediately before the date of the filing of the petition.
 
@@ -34,7 +34,7 @@
 
 &emsp;(C) a repo participant or financial participant that receives a margin payment, as defined in section 741 or 761 of this title, or settlement payment, as defined in section 741 of this title, in connection with a repurchase agreement, takes for value to the extent of such payment;
 
-&emsp;(D) a swap participant or financial participant that receives a transfer in connectionwith a swap agreement takes for value to the extent of such transfer; and
+&emsp;(D) a swap participant or financial participant that receives a transfer in connection with a swap agreement takes for value to the extent of such transfer; and
 
 &emsp;(E) a master netting agreement participant that receives a transfer in connection with a master netting agreement or any individual contract covered thereby takes for value to the extent of such transfer, except that, with respect to a transfer under any individual contract covered thereby, to the extent that such master netting agreement participant otherwise did not take (or is otherwise not deemed to have taken) such transfer for value.
 

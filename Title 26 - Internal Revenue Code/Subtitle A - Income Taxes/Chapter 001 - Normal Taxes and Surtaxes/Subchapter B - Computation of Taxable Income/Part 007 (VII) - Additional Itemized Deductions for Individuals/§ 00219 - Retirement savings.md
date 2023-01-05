@@ -2,7 +2,7 @@
 
 #### (a) Allowance of deduction
 
-In the case of an individual, there shall be allowed as a deduction an amount equal to the qualified retirement contributions of the individual for the taxable year.
+In the case of an individual, there shall be allowed as a deduction an amount equal to thequalified retirement contributions of the individual for the taxable year.
 
 #### (b) Maximum amount of deduction
 
@@ -88,7 +88,7 @@ In the case of an individual, there shall be allowed as a deduction an amount eq
 
 &emsp;&emsp;(A) such individual files a joint return for the taxable year, and
 
-&emsp;&emsp;(B) the amount of compensation (if any) includible in such individual's gross incomefor the taxable year is less than the compensation includible in the gross income of such individual's spouse for the taxable year.
+&emsp;&emsp;(B) the amount of compensation (if any) includible in such individual's gross income for the taxable year is less than the compensation includible in the gross income of such individual's spouse for the taxable year.
 
 #### (d) Other limitations and restrictions
 
@@ -280,11 +280,27 @@ For purposes of this section, the term "qualified retirement contribution" means
 
 > &emsp;Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
-(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I, §101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec. 19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title III, §316(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title IV, §431(c)(1), title VI, §§601(a), 641(e)(2), June 7, 2001, 115 Stat. 68, 94, 120; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–227, §2(a), May 29, 2006, 120 Stat. 385; Pub. L. 109–280, title VIII, §§831(a), 833(b), Aug. 17, 2006, 120 Stat. 1002, 1004; Pub. L. 110–245, title I, §105(b)(2), June 17, 2008, 122 Stat. 1629; Pub. L. 113–22, §1, July 25, 2013, 127 Stat. 492; Pub. L. 113–295, div. A, title II, §221(a)(38), (39)(A), Dec. 19, 2014, 128 Stat. 4043; Pub. L. 115–97, title I, §§11002(d)(1)(S), 11051(b)(3)(C), 13305(b)(1), Dec. 22, 2017, 131 Stat. 2060, 2090, 2126; Pub. L. 115–141, div. U, title IV, §401(a)(55), (56), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–94, div. O, title I, §§106(a), 107(a), Dec. 20, 2019, 133 Stat. 3148; Pub. L. 116–260, div. EE, title I, §104(b)(2)(F), Dec. 27, 2020, 134 Stat. 3041; Pub. L. 117–2, title IX, §9042(b)(5), Mar. 11, 2021, 135 Stat. 122.)
+(Added Pub. L. 93–406, title II, §2002(a)(1), Sept. 2, 1974, 88 Stat. 958; amended Pub. L. 94–455, title XV, §§1501(b)(4), 1503(a), title XIX, §§ 1901(a)(32), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1736, 1738, 1769, 1834; Pub. L. 95–600, title I, §§152(c), 156(c)(3), 157(a)(1), (b)(1), title VII, §703(c)(1), Nov. 6, 1978, 92 Stat. 2798, 2803, 2939; Pub. L. 96–222, title I, §101(a)(10)(D), (14)(B), Apr. 1, 1980, 94 Stat. 202, 204; Pub. L. 97–34, title III, §§311(a), 312(c)(1), 313(b)(2), Aug. 13, 1981, 95 Stat. 274, 284, 286; Pub. L. 97–248, title II, §243(b)(2), Sept. 3, 1982, 96 Stat. 523; Pub. L. 97–448, title I, §103(c)(1), (2), (3)(A), (4), (5), (12)(A), Jan. 12, 1983, 96 Stat. 2375–2377; Pub. L. 98–369, div. A, title I, §147(c), title IV, §§422(d)(1), 491(d)(6)–(8), title V, §529(a), (b), title VII, §713(d)(2), July 18, 1984, 98 Stat. 687, 798, 849, 877, 957; Pub. L. 99–514, title III, §301(b)(4), title XI, §§1101(a), (b)(1), (2)(A), 1102(f), 1103(a), 1108(g)(2), (3), 1109(b), title XV, §1501(d)(1)(B), title XVIII, §1875(c)(4), (6)(B), Oct. 22, 1986, 100 Stat. 2217, 2411, 2413, 2417, 2434, 2435, 2740, 2894, 2895; Pub. L. 100–647, title I, §1011(a)(1), title VI, §6009(c)(2), Nov. 10, 1988, 102 Stat. 3456, 3690; Pub. L. 101–239, title VII, §§7816(c)(1), 7841(c)(1), Dec.19, 1989, 103 Stat. 2420, 2428; Pub. L. 102–318, title V, §521(b)(4), July 3, 1992, 106 Stat. 310; Pub. L. 103–337, div. A, title XVI, §1677(c), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 104–188, title I, §§1421(b)(1), 1427(a)–(b)(2), 1807(c)(3), Aug. 20, 1996, 110 Stat. 1795, 1802, 1902; Pub. L. 105–34, title III, §§301(a), (b), 302(c), Aug. 5, 1997, 111 Stat. 824, 825, 829; Pub. L. 105–206, title VI, §§6005(a), 6018(f)(2), July 22, 1998, 112 Stat. 796, 823; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 106–554, §1(a)(7) \[title III, §316(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title IV, §431(c)(1), title VI, §§601(a), 641(e)(2), June 7, 2001, 115 Stat. 68, 94, 120; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 109–227, §2(a), May 29, 2006, 120 Stat. 385; Pub. L. 109–280, title VIII, §§831(a), 833(b), Aug. 17, 2006, 120 Stat. 1002, 1004; Pub. L. 110–245, title I, §105(b)(2), June 17, 2008, 122 Stat. 1629; Pub. L. 113–22, §1, July 25, 2013, 127 Stat. 492; Pub. L. 113–295, div. A, title II, §221(a)(38), (39)(A), Dec. 19, 2014, 128 Stat. 4043; Pub. L. 115–97, title I, §§11002(d)(1)(S), 11051(b)(3)(C), 13305(b)(1), Dec. 22, 2017, 131 Stat. 2060, 2090, 2126; Pub. L. 115–141, div. U, title IV, §401(a)(55), (56), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–94, div. O, title I, §§106(a), 107(a), Dec. 20, 2019, 133 Stat. 3148; Pub. L. 116–260, div. EE, title I, §104(b)(2)(F), Dec. 27, 2020, 134 Stat. 3041; Pub. L. 117–2, title IX, §9042(b)(5), Mar. 11, 2021, 135 Stat. 122; Pub. L. 117–328, div. T, title I, §108(a), Dec. 29, 2022, 136 Stat. 5289.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Internal Revenue Notices listed in a table under section 401 of this title.</i>
+
+#### Amendment of Subsection (b)(5)(C)
+
+<i>Pub. L. 117–328, div. T, title I, §108, Dec. 29, 2022, 136 Stat. 5289, provided that, applicable to taxable years beginning after Dec. 31, 2023, subsection (b)(5)(C) of this section is amended by adding at the end the following new clause:</i>
+
+#### <i>"(iii) Indexing of catch-up limitation</i>
+
+&emsp;&emsp;&emsp;<i>"In the case of any taxable year beginning in a calendar year after 2023, the $1,000 amount under subparagraph (B)(ii) shall be increased by an amount equal to—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(I) such dollar amount, multiplied by</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>"(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting 'calendar year 2022' for 'calendar year 2016' in subparagraph (A)(ii) thereof.</i>
+
+> <i>"If any amount after adjustment under the preceding sentence is not a multiple of $100, such amount shall be rounded to the next lower multiple of $100.".</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -293,6 +309,8 @@ For purposes of this section, the term "qualified retirement contribution" means
 A prior section 219 was renumbered section 224 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(5)(C)(iii). Pub. L. 117–328 added cl. (iii).
 
 <b>2021</b>—Subsec. (g)(3)(A)(ii). Pub. L. 117–2 inserted "85(c)," before "135".
 
@@ -324,7 +342,7 @@ Subsec. (f)(4). Pub. L. 113–295, §221(a)(39)(A), struck out par. (4). Text re
 
 Subsec. (g)(2)(A)(ii). Pub. L. 113–295, §221(a)(38)(D), struck out "for a taxable year beginning after December 31, 2006" after "joint return".
 
-Subsec. (g)(3)(B)(i), (ii). Pub. L. 113–295, §221(a)(38)(E), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which related to applicable dollar amounts for ataxpayer filing a joint return for taxable years 1998 to 2007 and thereafter and for any other taxpayer (other than a married individual filing a separate return) for taxable years 1998 to 2005 and thereafter, respectively.
+Subsec. (g)(3)(B)(i), (ii). Pub. L. 113–295, §221(a)(38)(E), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which related to applicable dollar amounts for a taxpayer filing a joint return for taxable years 1998 to 2007 and thereafter and for any other taxpayer (other than a married individual filing a separate return) for taxable years 1998 to 2005 and thereafter, respectively.
 
 Subsec. (g)(8). Pub. L. 113–295, §221(a)(38)(F), substituted "each of the dollar amounts in paragraphs (3)(B)(i), (3)(B)(ii), and (7)(A)" for "the dollar amount in the last row of the table contained in paragraph (3)(B)(i), the dollar amount in the last row of the table contained in paragraph (3)(B)(ii), and the dollar amount contained in paragraph (7)(A)," in introductory provisions.
 
@@ -476,7 +494,7 @@ Subsec. (b)(1). Pub. L. 97–34, §311(a), amended par. (1) generally, substitut
 
 Subsec. (b)(2)(A)(ii), (C). Pub. L. 97–34, §312(c)(1), substituted "$15,000" for "$7,500".
 
-Pub. L. 97–34, §311(a), redesignated par. (7) as (2), substituted in heading "rules for employer contributions under" for "rules in case of", substituted in subpar. (A) introductory text "an employee shall be allowed as a deduction under subsection (a) (in addition to the amount allowable under paragraph (1) an amount equal to the lesser of" for "the limitation under paragraph (1) shall be the lesser of", inserted in subpar. (A)(i) "from such employer" before "includible" and substituted therein "without regard" for "with regard", substituted in subpar. (A)(ii) "the amount contributed by such employer to the simplified employee pension and included in gross income (but not in excess of $7,500" for "the sum of—(I) the amount contributed by the employer to the simplified employee pension and included in gross income (but not in excess of $7,500), and (II) $1,500, reduced (but not below zero) by the amount described in subclause (I)", and substituted in subpar. (B) "Paragraph (1) of this subsection and paragraph (1) of subsection (d)" for "Paragraphs (2) and (3)". Former subsec. (b)(2) provisions which disallowed any deduction under subsec. (a) for an individual for the taxable year if for any part of such year (A) he was an active participant in (i) a plan described in section 401(a), (ii) an annuity plan described in section 403(a), (iii) a qualified bond purchase plan described in section 405(a), or (iv) a plan established for its employees by the UnitedStates, by a State or political subdivision thereof, or by an agency or instrumentality of any of the foregoing, or (B) amounts were contributed by his employer for an annuity contract described in section 403(b), are now covered by subsec. (e)(3) and (4) of this section.
+Pub. L. 97–34, §311(a), redesignated par. (7) as (2), substituted in heading "rules for employer contributions under" for "rules in case of", substituted in subpar. (A) introductory text "an employee shall be allowed as a deduction under subsection (a) (in addition to the amount allowable under paragraph (1) an amount equal to the lesser of" for "the limitation under paragraph (1) shall be the lesser of", inserted in subpar. (A)(i) "from such employer" before "includible" and substituted therein "without regard" for "with regard", substituted in subpar. (A)(ii) "the amount contributed by such employer to the simplified employee pension and included in gross income (but not in excess of $7,500" for "the sum of—(I) the amount contributed by the employer to the simplified employee pension and included in gross income (but not in excess of $7,500), and (II) $1,500, reduced (but not below zero) by the amount described in subclause (I)", and substituted in subpar. (B) "Paragraph (1) of this subsection and paragraph (1) of subsection (d)" for "Paragraphs (2) and (3)". Former subsec. (b)(2) provisions which disallowed any deduction under subsec. (a) for an individual for the taxable year if for any part of such year (A) he was an active participant in (i) a plan described in section 401(a), (ii) an annuity plan described in section 403(a), (iii) a qualified bond purchase plan described in section 405(a), or (iv) a plan established for its employees by the United States, by a State or political subdivision thereof, or by an agency or instrumentality of any of the foregoing, or (B) amounts were contributed by his employer for an annuity contract described in section 403(b), are now covered by subsec. (e)(3) and (4) of this section.
 
 Subsec. (b)(3) to (5). Pub. L. 97–34, §311(a), added pars. (3) and (4). Former pars. (3) to (5) redesignated subsec. (d)(1) to (3).
 
@@ -542,6 +560,10 @@ Subsec. (c)(4). Pub. L. 94–455, §1503(a), added par. (4).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. T, title I, §108(b), Dec. 29, 2022, 136 Stat. 5289, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2023."
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2019, see section 9042(c) of Pub. L. 117–2, set out as a note under section 74 of this title.
@@ -568,9 +590,9 @@ Subsection (b).—The amendment made by subsection (b) \[amending section 408 of
 
 Amendment by section 11002(d)(1)(S) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
-Amendment by section 11051(b)(3)(C) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018,and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
+Amendment by section 11051(b)(3)(C) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
 
-Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by section 13305(b)(1) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017,except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 #### Effective Date of 2014 Amendment
 

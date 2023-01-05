@@ -6,7 +6,7 @@ In order to carry out the purpose of this subchapter the Secretary of State (her
 
 &emsp;(2) grants, fellowships, and other payments to outstanding scholars and authorities from the nations of the East and West as may be necessary to attract such scholars and authorities to the Center;
 
-&emsp;(3) grants, scholarships, and other payments to qualified students from the nations of the East and West as may be necessary to enable such students to engage in study or training at the Center; and
+&emsp;(3) grants, scholarships, and other payments to qualified students from the nations of theEast and West as may be necessary to enable such students to engage in study or training at the Center; and
 
 &emsp;(4) making the facilities of the Center available for study or training to other qualified persons.
 

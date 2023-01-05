@@ -26,7 +26,7 @@ Payments.—(1) The Secretary shall make education debt reduction payments under
 
 (2) The Secretary shall make such a payment—
 
-&emsp;(A) on the last day of the one-year period beginning on the date on which the individual is accepted into the program established under subsection (a); or
+&emsp;(A) on the last day of the one-year period beginning on the date on which the individual isaccepted into the program established under subsection (a); or
 
 &emsp;(B) in the case of an individual who received a payment under this section for the preceding fiscal year, on the last day of the one-year period beginning on the date on which the individual last received such a payment.
 

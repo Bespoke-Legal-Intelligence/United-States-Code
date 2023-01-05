@@ -50,7 +50,7 @@ Pub. L. 115–78, §1, Nov. 2, 2017, 131 Stat. 1256, provided that: "This Act \[
 
 Pub. L. 113–263, §1, Dec. 18, 2014, 128 Stat. 2937, provided that: "This Act \[amending section 6295 of this title\] may be cited as the 'EPS Service Parts Act of 2014'."
 
-Pub. L. 113–79, title XII, §12401, Feb. 7, 2014, 128 Stat. 997, provided that: "This subtitle \[subtitle D (§§12401–12410) of title XII of Pub. L. 113–79, amending provisions set out as a note under this section\] may be cited as the 'Oilheat Efficiency, Renewable Fuel Research and Jobs Training Act of 2014'."
+Pub. L. 113–79, title XII, §12401, Feb. 7, 2014, 128 Stat. 997, provided that: "This subtitle \[subtitle D\(§§12401–12410) of title XII of Pub. L. 113–79, amending provisions set out as a note under this section\] may be cited as the 'Oilheat Efficiency, Renewable Fuel Research and Jobs Training Act of 2014'."
 
 #### Short Title of 2012 Amendment
 
@@ -84,7 +84,7 @@ Pub. L. 101–262, §1, Mar. 31, 1990, 104 Stat. 124, provided: "That this Act \
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–494, §1, Oct. 14, 1988, 102 Stat. 2441, provided that: "This Act \[enacting sections 6374 to 6374d of this title and section 2013 of Title 15, Commerce and Trade, amending sections 2001, 2002, and 2006 of Title 15, and enacting provisions set out as notes under section6374 of this title and sections 2006, 2013, and 2512 of Title 15\] may be cited as the 'Alternative Motor Fuels Act of 1988'."
+Pub. L. 100–494, §1, Oct. 14, 1988, 102 Stat. 2441, provided that: "This Act \[enacting sections 6374 to 6374d of this title and section 2013 of Title 15, Commerce and Trade, amending sections 2001, 2002, and 2006 of Title 15, and enacting provisions set out as notes under section 6374 of this title and sections 2006, 2013, and 2512 of Title 15\] may be cited as the 'Alternative Motor Fuels Act of 1988'."
 
 Pub. L. 100–357, §1, June 28, 1988, 102 Stat. 671, provided that: "This Act \[amending sections 6291 to 6295 and 6297 of this title\] may be referred to as the 'National Appliance Energy Conservation Amendments of 1988'."
 
@@ -332,7 +332,7 @@ In general.—On the initiative of the Alliance or on petition to the Alliance b
 
 &emsp;"(2)
 
-Volume percentages required to terminate or suspend.—Termination or suspension shall not take effect unless termination or suspension is approved by persons representing more than one-half ofthe total volume of oilheat fuel voted in the retail marketer class or more than one-half of the total volume of weighted No. 1 distillate and No. 2 dyed distillate voted in the wholesale distributor class.
+Volume percentages required to terminate or suspend.—Termination or suspension shall not take effect unless termination or suspension is approved by persons representing more than one-half of the total volume of oilheat fuel voted in the retail marketer class or more than one-half of the total volume of weighted No. 1 distillate and No. 2 dyed distillate voted in the wholesale distributor class.
 
 &emsp;"(3)
 
@@ -412,7 +412,7 @@ Full-time owners or employees.—Other than the public members, Alliance members
 
 "(d)
 
-Compensation.—Alliance members shall receive no compensation for their service, nor shall Alliance members be reimbursed for expenses relating to their service, except that public members, on request, may be reimbursed for reasonable expenses directly related to participation in meetings of the Alliance.
+Compensation.—Alliance members shall receive no compensation for their service, nor shall Alliance members be reimbursed for expenses relating to theirservice, except that public members, on request, may be reimbursed for reasonable expenses directly related to participation in meetings of the Alliance.
 
 "(e)
 
@@ -594,7 +594,7 @@ Audits.—
 
 &emsp;&emsp;"(A)
 
-In general.—The records of the Alliance (including fee assessment reports and applications for refunds under section 707(b)(4)) shall be audited by a certified public accountant at least once each year and at such other times as the Alliance may designate.
+In general.—The records of the Alliance (including fee assessment reports and applications forrefunds under section 707(b)(4)) shall be audited by a certified public accountant at least once each year and at such other times as the Alliance may designate.
 
 &emsp;&emsp;"(B)
 
@@ -696,7 +696,7 @@ Prohibition on pass through.—None of the assessments collected under this titl
 
 "(c)
 
-Sale for Use Other Than as Oilheat Fuel.—No. 1 distillate and No. 2 dyed distillate sold for usesother than as oilheat fuel are excluded from the assessment.
+Sale for Use Other Than as Oilheat Fuel.—No. 1 distillate and No. 2 dyed distillate sold for uses other than as oilheat fuel are excluded from the assessment.
 
 "(d)
 
@@ -856,7 +856,7 @@ Heating oil efficiency and upgrade program.—
 
 In general.—The Alliance shall ensure that not less than 15 percent of the assessments collected and permitted to be obligated for each calendar year under this title are used by qualified State associations or the Alliance to carry out programs to assist consumers—
 
-&emsp;&emsp;&emsp;"(i) to make cost-effective upgrades to more fuel efficient heating oil systems or otherwise make cost-effective modifications to an existingheating system to improve the efficiency of the system;
+&emsp;&emsp;&emsp;"(i) to make cost-effective upgrades to more fuel efficient heating oil systems or otherwise make cost-effective modifications to an existing heating system to improve the efficiency of the system;
 
 &emsp;&emsp;&emsp;"(ii) to improve energy efficiency or reduce energy consumption through cost-effective energy efficiency programs for consumers; or
 
@@ -1196,7 +1196,7 @@ Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretar
 
 (g)(1) Each Executive agency shall submit to the Secretary an overall plan for conserving fuel and energy in all operations of the agency. This overall plan shall be in addition to and include any ten-year plan for energy conservation in Government buildings submitted in accord with Subsection (e).
 
-(2) By July 1 of each year, each Executive agency shall submit a report to the Secretary on progress made toward achieving the goals established in the overall plan required by paragraph (1) of this subsection. The annual report shall include quantitative measures and accomplishment with respect to energy saving actions taken, the cost of these actions, the energy saved, the costs saved, and other benefits realized.
+(2) By July 1 of each year, each Executive agency shall submit a report to the Secretary on progressmade toward achieving the goals established in the overall plan required by paragraph (1) of this subsection. The annual report shall include quantitative measures and accomplishment with respect to energy saving actions taken, the cost of these actions, the energy saved, the costs saved, and other benefits realized.
 
 (3) The Secretary shall prepare a consolidated annual report on Federal government progress toward achieving the goals, including aggregate quantitative measures of accomplishment as well as suggested revisions to the ten-year plan, and submit the report to the President by August 15 of each year.
 

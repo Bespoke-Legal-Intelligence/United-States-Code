@@ -2,7 +2,7 @@
 
 (a)(1) The Director shall oversee the use of information resources to improve the efficiency and effectiveness of governmental operations to serve agency missions, including burden reduction and service delivery to the public. In performing such oversight, the Director shall—
 
-&emsp;(A) develop, coordinate and oversee the implementation of Federal information resourcesmanagement policies, principles, standards, and guidelines; and
+&emsp;(A) develop, coordinate and oversee the implementation of Federal information resources management policies, principles, standards, and guidelines; and
 
 &emsp;(B) provide direction and oversee—
 
@@ -116,13 +116,25 @@
 
 &emsp;&emsp;&emsp;(i) the heads of the major statistical programs; and
 
-&emsp;&emsp;&emsp;(ii) representatives of other statistical agencies under rotating membership; and
+&emsp;&emsp;&emsp;(ii) representatives of other statistical agencies under rotating membership;
 
 &emsp;(9) provide opportunities for training in statistical policy functions to employees of the Federal Government under which—
 
 &emsp;&emsp;(A) each trainee shall be selected at the discretion of the Director based on agency requests and shall serve under the chief statistician for at least 6 months and not more than 1 year; and
 
-&emsp;&emsp;(B) all costs of the training shall be paid by the agency requesting training.
+&emsp;&emsp;(B) all costs of the training shall be paid by the agency requesting training; and
+
+&emsp;(10) ensure that any change to the standards of core-based statistical area (as defined in section 4 of the MAPS Act of 2021) delineations pursuant to this subsection shall—
+
+&emsp;&emsp;(A) be accompanied by a public report that explains—
+
+&emsp;&emsp;&emsp;(i) the scientific basis, criteria, and methodology for such change to existing standards, including clear quantitative thresholds for determining any future statistical re-delineations; and
+
+&emsp;&emsp;&emsp;(ii) the opinions of domestic and international experts in statistics and demographics, including government experts at the Bureau of the Census and other relevant agencies, who were consulted regarding such change to existing standards;
+
+&emsp;&emsp;(B) not be influenced by any non-statistical considerations such as impact on program administration or service delivery; and
+
+&emsp;&emsp;(C) not propagate automatically for any non-statistical use by any domestic assistance program (as defined in section 4 of the MAPS Act of 2021).
 
 (f) With respect to records management, the Director shall—
 
@@ -148,7 +160,7 @@
 
 &emsp;&emsp;(A) develop and oversee the implementation of policies, principles, standards, and guidelines for information technology functions and activities of the Federal Government, including periodic evaluations of major information systems; and
 
-&emsp;&emsp;(B) oversee the development and implementation of standards under section 11331 of title 40;
+&emsp;&emsp;(B) oversee the development and implementation of standards under section 11331 of title 40; <sup>2</sup>
 
 &emsp;(2) monitor the effectiveness of, and compliance with, directives issued under subtitle III of title 40 and directives issued under section 322 <sup>2</sup> of title 40;
 
@@ -162,7 +174,7 @@
 
 &emsp;(5) promote the use of information technology by the Federal Government to improve the productivity, efficiency, and effectiveness of Federal programs, including through dissemination of public information and the reduction of information collection burdens on the public.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI,§5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960; Pub. L. 115–435, title II, §202(b), (d)(2)(B), Jan. 14, 2019, 132 Stat. 5535, 5541.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 167; amended Pub. L. 104–106, div. E, title LI, §5131(e)(1), title LVI, §5605(b), (c), Feb. 10, 1996, 110 Stat. 688, 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(B), (C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–277, div. C, title XVII, §1702, Oct. 21, 1998, 112 Stat. 2681–749; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(a), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(l)(5), Aug. 21, 2002, 116 Stat. 1301; Pub. L. 107–296, title X, §1005(c)(1), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(1), Dec. 17, 2002, 116 Stat. 2960; Pub. L. 115–435, title II, §202(b), (d)(2)(B), Jan. 14, 2019, 132 Stat. 5535, 5541; Pub. L. 117–219, §7, Dec. 5, 2022, 136 Stat. 2274.)
 
 #### <b>Editorial Notes</b>
 
@@ -170,15 +182,21 @@
 
 The date of enactment of the Small Business Paperwork Relief Act of 2002, referred to in subsec. (c)(6), is the date of enactment of Pub. L. 107–198, which was approved June 28, 2002.
 
+Section 4 of the MAPS Act of 2021, referred to in subsec. (e)(10), is section 4 of Pub. L. 117–219, which is set out as a note under section 6102 of Title 31, Money and Finance.
+
+The text of section 11331 of title 40, referred to in subsec. (h)(1)(B), was generally amended by Pub. L. 117–167, div. B, title II, §10246(f), Aug. 9, 2022, 136 Stat. 1492, so as to provide for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems.
+
 Section 322 of title 40, referred to in subsec. (h)(2), was repealed by Pub. L. 109–313, §3(h)(1), Oct. 6, 2006, 120 Stat. 1736.
 
 #### Prior Provisions
 
 A prior section 3504, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2815; amended Pub. L. 98–497, title I, §107(b)(26), Oct. 19, 1984, 98 Stat. 2291; Pub. L. 99–500, §101(m) \[title VIII, §§814, 821(b)(2)\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–336, 1783–342, and Pub. L. 99–591, §101(m) \[title VIII, §§814, 821(b)(2)\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–336, 3341–342, related to authority and functions of Director prior to the general amendment of this chapter by Pub. L. 104–13.
 
-Another prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for designation of a central collection agency, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3509 of this title.
+Another prior section 3504, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for designation of a centralcollection agency, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3509 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (e)(10). Pub. L. 117–219 added par. (10).
 
 <b>2019</b>—Subsec. (b)(2)(A). Pub. L. 115–435, §202(d)(2)(B), substituted "the use of comprehensive data inventories and the Federal data catalogue under section 3511" for "the use of the Government Information Locator Service".
 
@@ -232,7 +250,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] ofPub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of this title.
+Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, Oct. 30, 2000, 114 Stat. 1654, formerly set out as an Effective Date note under former section 3531 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -258,7 +276,7 @@ Pub. L. 105–277, div. C, title XVII, Oct. 21, 1998, 112 Stat. 2681–749, prov
 
 "(a)
 
-In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions of this title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
+In General.—In order to fulfill the responsibility to administer the functions assigned under chapter 35 of title 44, United States Code, the provisions of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106) \[see Short Title of 1996 Act note set out under section 101 of Title 41, Public Contracts\] and the amendments made by that Act, and the provisions ofthis title, the Director of the Office of Management and Budget shall, in consultation with the National Telecommunications and Information Administration and not later than 18 months after the date of enactment of this Act \[Oct. 21, 1998\], develop procedures for the use and acceptance of electronic signatures by Executive agencies.
 
 "(b)
 

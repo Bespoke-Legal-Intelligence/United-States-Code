@@ -10,7 +10,7 @@ Being all of R. P. 3306, L. C. Aw. 7219, Apana 2 to Kaliae, all of L. C. Aw. 947
 
 Beginning at a one and one-half-inch pipe in concrete monument called "Kalani", at the southeast corner of this parcel, the northeast corner of parcel 3, and on the common boundary of the lands of Keokea and Kiilae, the coordinates of said point of beginning referred to Government Survey Triangulation Station "Lae-O-Kanoni" being seven thousand four hundred forty-four and eight-tenths feet south and five thousand three and two-tenths feet east, and running by azimuths measured clockwise from true south:
 
-1\. Seventy-nine degrees thirty-three minutes fifteen seconds six hundred and eighty feet alongthe land of Kiilae, L. C. Aw. 8521–B to G. D. Hueu and passing over a rock called "Kuwaia", marked K+K at six hundred seventy-three and two-tenths feet to high-water mark; thence along high-water mark, along seacoast for the next three courses, the direct azimuths and distances between points at seacoast being:
+1\. Seventy-nine degrees thirty-three minutes fifteen seconds six hundred and eighty feet along the land of Kiilae, L. C. Aw. 8521–B to G. D. Hueu and passing over a rock called "Kuwaia", marked K+K at six hundred seventy-three and two-tenths feet to high-water mark; thence along high-water mark, along seacoast for the next three courses, the direct azimuths and distances between points at seacoast being:
 
 2\. One hundred and thirty-five degrees fifty-one minutes three thousand nine hundred seventy-six and one-tenth feet;
 
@@ -46,7 +46,7 @@ Beginning at a one and one-half-inch pipe in concrete monument called "Kalani", 
 
 18\. Two hundred and twenty-three degrees one minute one hundred fourteen and four-tenths feet along same;
 
-19\. Three hundred and thirty-eight degrees forty-nine minutes thirty seconds four thousand nine hundred eighty and three-tenths feet along the remainder of L. C. Aw. 11216:34 to M. Kekauonohi and L. C. Aw. 7712:1 to M. Kekuanaoa and passing over a one and one-fourth-inch pipe in concrete monument at one thousand four hundred eighty-one and six-tenths feet to the point of beginning.
+19\. Three hundred and thirty-eight degrees forty-nine minutes thirty seconds four thousandnine hundred eighty and three-tenths feet along the remainder of L. C. Aw. 11216:34 to M. Kekauonohi and L. C. Aw. 7712:1 to M. Kekuanaoa and passing over a one and one-fourth-inch pipe in concrete monument at one thousand four hundred eighty-one and six-tenths feet to the point of beginning.
 
 Area, one hundred sixty-six and ninety one-hundredths acres.
 

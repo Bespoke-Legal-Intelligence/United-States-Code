@@ -20,5 +20,5 @@ Pub. L. 91–452, title VII, §701, Oct. 15, 1970, 84 Stat. 935, provided that: 
 
 #### Applicability to Proceedings
 
-Pub. L. 91–452, title VII, §703, Oct. 15, 1970, 84 Stat. 936, provided that: "This title \[enacting this section and provisions set as notes under this section\] shallapply to all proceedings, regardless of when commenced, occurring after the date of its enactment \[Oct. 15, 1970\]. Paragraph (3) of subsection (a) of section 3504, chapter 223, title 18, United States Code, shall not apply to any proceeding in which all information to be relied upon to establish inadmissibility was possessed by the party making such claim and adduced in such proceeding prior to such enactment."
+Pub. L. 91–452, title VII, §703, Oct. 15, 1970, 84 Stat. 936, provided that: "This title \[enacting this section and provisions set as notes under this section\] shall apply to all proceedings, regardless of when commenced, occurring after the date of its enactment \[Oct. 15, 1970\]. Paragraph (3) of subsection (a) of section 3504, chapter 223, title 18, United States Code, shall not apply to any proceeding in which all information to be relied upon to establish inadmissibility was possessed by the party making such claim and adduced in such proceeding prior to such enactment."
 

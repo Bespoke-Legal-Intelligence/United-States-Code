@@ -10,7 +10,7 @@ In order to address the serious problems described in subsection (a), the Presid
 
 #### (c) Implementation considerations applicable to programs and projects
 
-(1) The President, in implementing programs and projects under this part and part X of thissubchapter, shall take fully into account the impact of such programs and projects upon the environment and natural resources of developing countries. Subject to such procedures as the President considers appropriate, the President shall require all agencies and officials responsible for programs or projects under this part and part X of this subchapter—
+(1) The President, in implementing programs and projects under this part and part X of this subchapter, shall take fully into account the impact of such programs and projects upon the environment and natural resources of developing countries. Subject to such procedures as the President considers appropriate, the President shall require all agencies and officials responsible for programs or projects under this part and part X of this subchapter—
 
 &emsp;(A) to prepare and take fully into account an environmental impact statement for any program or project under this part and part X of this subchapter significantly affecting the environment of the global commons outside the jurisdiction of any country, the environment of the United States, or other aspects of the environment which the President may specify; and
 
@@ -82,7 +82,7 @@ Pub. L. 115–353, Dec. 21, 2018, 132 Stat. 5070, provided that:
 
 #### "SEC. 4. STATEMENT OF POLICY.
 
-"It is the policy of the United States to promote inclusive economic growth through conservation and biodiversity programs that facilitate transboundary cooperation, improve water and natural resource management, and build local capacity to protect and preserve threatened wildlife species in the greater OkavangoRiver Basin and neighboring watersheds and conservation areas.
+"It is the policy of the United States to promote inclusive economic growth through conservation and biodiversity programs that facilitate transboundary cooperation, improve water and natural resource management, and build local capacity to protect and preserve threatened wildlife species in the greater Okavango River Basin and neighboring watersheds and conservation areas.
 
 #### "SEC. 5. STRATEGY.
 
@@ -322,7 +322,7 @@ Availability of Funds.—Funds appropriated pursuant to subsection (a) are autho
 
 "(a)
 
-In General.—Except as provided in subsection (b), the authorities of this subtitle shall terminate 3years after the date of establishment of the program described in section 643.
+In General.—Except as provided in subsection (b), the authorities of this subtitle shall terminate 3 years after the date of establishment of the program described in section 643.
 
 "(b)
 

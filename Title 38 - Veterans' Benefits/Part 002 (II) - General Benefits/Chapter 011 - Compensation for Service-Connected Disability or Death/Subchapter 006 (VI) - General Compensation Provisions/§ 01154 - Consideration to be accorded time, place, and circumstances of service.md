@@ -38,7 +38,7 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 #### Radiation Dose Reconstruction Program of Department of Defense
 
-Pub. L. 108–183, title VI, §601, Dec. 16, 2003, 117 Stat. 2667, provided that:
+Pub. L. 108–183, title VI, §601, Dec. 16, 2003, 117 Stat. 2667, as amended by Pub. L. 117–263, div. A, title VII, §734, Dec. 23, 2022, 136 Stat. 2668, provided that:
 
 "(a)
 
@@ -56,39 +56,11 @@ Review of Mission, Procedures, and Administration.—(1) The Secretary of Vetera
 
 &emsp;"(B) a plan for any actions determined to be required under paragraph (2); and
 
-&emsp;"(C) such other recommendations for the improvement of the mission, procedures, and administration of the Radiation Dose Reconstruction Program as the Secretaries jointly consider appropriate.
+&emsp;"(C) such other recommendations for the improvement of the mission, procedures, and administrationof the Radiation Dose Reconstruction Program as the Secretaries jointly consider appropriate.
 
 "(b)
 
-On-Going Review and Oversight.—The Secretaries shall jointly take appropriate actions to ensure the on-going independent review and oversight of the Radiation Dose Reconstruction Program, including the establishment of the advisory board required by subsection (c).
-
-"(c)
-
-Advisory Board.—(1) In taking actions under subsection (b), the Secretaries shall jointly appoint an advisory board to provide review and oversight of the Radiation Dose Reconstruction Program.
-
-"(2) The advisory board under paragraph (1) shall be composed of the following:
-
-&emsp;"(A) At least one expert in historical dose reconstruction of the type conducted under the Radiation Dose Reconstruction Program.
-
-&emsp;"(B) At least one expert in radiation health matters.
-
-&emsp;"(C) At least one expert in risk communications matters.
-
-&emsp;"(D) A representative of the Department of Veterans Affairs.
-
-&emsp;"(E) A representative of the Defense Threat Reduction Agency.
-
-&emsp;"(F) At least three veterans, including at least one veteran who is a member of an atomic veterans group.
-
-"(3) The advisory board under paragraph (1) shall—
-
-&emsp;"(A) conduct periodic, random audits of dose reconstructions under the Radiation Dose Reconstruction Program and of decisions by the Department of Veterans Affairs on claims for service connection of radiogenic diseases;
-
-&emsp;"(B) assist the Department of Veterans Affairs and the Defense Threat Reduction Agency in communicating to veterans information on the mission, procedures, and evidentiary requirements of the Radiation Dose Reconstruction Program; and
-
-&emsp;"(C) carry out such other activities with respect to the review and oversight of the Radiation Dose Reconstruction Program as the Secretaries shall jointly specify.
-
-"(4) The advisory board under paragraph (1) may make such recommendations on modifications in the mission or procedures of the Radiation Dose Reconstruction Program as the advisory board considers appropriate as a result of the audits conducted under paragraph (3)(A)."
+On-Going Review and Oversight.—The Secretaries shall jointly take appropriate actions to ensure the on-going independent review and oversight of the Radiation Dose Reconstruction Program."
 
 #### Review of Dose Reconstruction Program of the Defense Threat Reduction Agency
 
@@ -242,7 +214,7 @@ Pub. L. 98–542, §5–7, Oct. 24, 1984, 98 Stat. 2727–2730, as amended by Pu
 
 Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veterans' Affairs \[now Secretary of Veterans Affairs\] under section 1154(a)(2) \[formerly 354(a)(2)\] of title 38, United States Code, and in order to promote consistency in claims processing and decisions, the Administrator shall prescribe regulations to—
 
-&emsp;"(1) establish guidelines and (where appropriate) standards and criteria for the resolution of claims for benefits under laws administered by the Veterans' Administration \[now Department of Veterans Affairs\] where the criteria for eligibility for a benefit includea requirement that a death or disability be service connected and the claim of service connection is based on a veteran's exposure during service in connection with such veteran's participation in atmospheric nuclear tests or with the American occupation of Hiroshima or Nagasaki, Japan, prior to July 1, 1946, to ionizing radiation from the detonation of a nuclear device; and
+&emsp;"(1) establish guidelines and (where appropriate) standards and criteria for the resolution of claims for benefits under laws administered by the Veterans' Administration \[now Department of Veterans Affairs\] where the criteria for eligibility for a benefit include a requirement that a death or disability be service connected and the claim of service connection is based on a veteran's exposure during service in connection with such veteran's participation in atmospheric nuclear tests or with the American occupation of Hiroshima or Nagasaki, Japan, prior to July 1, 1946, to ionizing radiation from the detonation of a nuclear device; and
 
 &emsp;"(2) ensure that, with respect to those claims, the policy of the United States described in section 2(13) \[set out above\] is carried out.
 
@@ -282,11 +254,11 @@ Sec. 6. (a) The advisory committee referred to in subsections (b) and (c) of sec
 
 &emsp;&emsp;"(A) three individuals who are recognized medical or scientific authorities in fields pertinent to understanding the health effects of exposure to ionizing radiation; and
 
-&emsp;&emsp;"(B) three individuals who are recognized medical or scientific authorities in fields, such as epidemiology and other scientific disciplines, pertinent todetermining and assessing the health effects of exposure to ionizing radiation in exposed populations; and
+&emsp;&emsp;"(B) three individuals who are recognized medical or scientific authorities in fields, such as epidemiology and other scientific disciplines, pertinent to determining and assessing the health effects of exposure to ionizing radiation in exposed populations; and
 
 &emsp;"(2) three individuals from the general public, including at least one disabled veteran, having a demonstrated interest in and experience relating to veterans' concerns regarding exposure to ionizing radiation.
 
-"(b) The Committee shall include, as ex officio, nonvoting members, the Chief Medical Director and the Chief Benefits Director of the Veterans' Administration \[now Under Secretary for Health and Under Secretary for Benefits of the Department of Veterans Affairs\], or their designees.
+"(b) The Committee shall include, as ex officio, nonvoting members, the Chief Medical Director and the Chief Benefits Director of the Veterans' Administration \[now Under Secretary for Health and Under Secretaryfor Benefits of the Department of Veterans Affairs\], or their designees.
 
 "(c) The Committee shall submit to the Administrator \[now Secretary\] any recommendations it considers appropriate for administrative or legislative action.
 
@@ -344,7 +316,7 @@ Section 10 of Pub. L. 98–542, as added by Pub. L. 102–578, §3, Oct. 30, 199
 
 In General.—(1) In order to determine whether activities (other than the tests or occupation activities referred to in section 5(a)(1)(B) \[probably means section 5(a)(1), set out above\]) resulted in the exposure of veterans to ionizing radiation during the service of such veterans that occurred before January 1, 1970, and whether adverse health effects have been observed or may have resulted from such exposure in a significant number of such veterans, the Advisory Committee established under section 6 \[set out above\] shall—
 
-&emsp;"(A) review all available scientific studies and other relevant information relating to the exposureof such veterans to ionizing radiation during such service;
+&emsp;"(A) review all available scientific studies and other relevant information relating to the exposure of such veterans to ionizing radiation during such service;
 
 &emsp;"(B) identify any activity during which significant numbers of veterans received exposure; and
 

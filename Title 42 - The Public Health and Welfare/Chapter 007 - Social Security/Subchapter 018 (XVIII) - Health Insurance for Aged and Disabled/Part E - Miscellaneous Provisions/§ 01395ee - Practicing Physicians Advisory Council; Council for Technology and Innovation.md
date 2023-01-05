@@ -14,7 +14,7 @@
 
 #### (3) Duties
 
-&emsp;The Council shall coordinate the activities of coverage, coding, and payment processes under this subchapter with respect to new technologies and procedures, including new drug therapies, and shall coordinate the exchange of information on new technologies between CMS and other entities that make similar decisions.
+&emsp;The Council shall coordinate the activities of coverage, coding, and payment processesunder this subchapter with respect to new technologies and procedures, including new drug therapies, and shall coordinate the exchange of information on new technologies between CMS and other entities that make similar decisions.
 
 #### (4) Executive Coordinator for Technology and Innovation
 
@@ -44,7 +44,7 @@
 
 #### (iv) Ethics disclosure
 
-&emsp;&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Committee of financial and other potential conflicts of interest relating to such members. Members of the Committee shall be treated as employees of Congress for purposes of applying title I of the Ethics in Government Act of 1978 (Public Law 95–521).
+&emsp;&emsp;&emsp;The Comptroller General shall establish a system for public disclosure by members of the Committee of financial and other potential conflicts of interest relating to such members. Members of the Committee shall be treated as employees of Congress for purposes of applying subchapter I of chapter 131 of title 5.
 
 #### (v) Date of initial appointments
 
@@ -86,7 +86,7 @@
 
 #### (G) Application
 
-&emsp;&emsp;Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+&emsp;&emsp;Section 1013 of title 5 shall not apply to the Committee.
 
 #### (2) Criteria and process for submission and review of physician-focused payment models
 
@@ -130,21 +130,19 @@
 
 &emsp;Nothing in this subsection shall be construed to impact the development or testing of models under this subchapter or subchapters XI, XIX, or XXI.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1868, as added Pub. L. 101–508, title IV, §4112, Nov. 5, 1990, 104 Stat. 1388–64; amended Pub. L. 108–173, title IX, §942(a), Dec. 8, 2003, 117 Stat. 2420; Pub. L. 111–148, title III, §3134(b)(2), Mar. 23, 2010, 124 Stat. 435; Pub. L. 114–10, title I, §101(e)(1), Apr. 16, 2015, 129 Stat. 115; Pub. L. 115–123, div. E, title X, §51003(b), Feb. 9, 2018, 132 Stat. 295.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1868, as added Pub. L. 101–508, title IV, §4112, Nov. 5, 1990, 104 Stat. 1388–64; amended Pub. L. 108–173, title IX, §942(a), Dec. 8, 2003, 117 Stat. 2420; Pub. L. 111–148, title III, §3134(b)(2), Mar. 23, 2010, 124 Stat. 435; Pub. L. 114–10, title I, §101(e)(1), Apr. 16, 2015, 129 Stat. 115; Pub. L. 115–123, div. E, title X, §51003(b), Feb. 9, 2018, 132 Stat. 295; Pub. L. 117–286, §4(a)(255), (c)(42), Dec. 27, 2022, 136 Stat. 4334, 4359.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Ethics in Government Act of 1978, referred to in subsec. (c)(1)(B)(iv), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
-
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c)(1)(G), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 
-A prior section 1395ee, act Aug. 14, 1935, ch. 531, title XVIII, §1868, as added July 30, 1965, Pub. L. 89–97, titleI, §102(a), 79 Stat. 329, provided for creation of a National Medical Review Committee, functions of such Committee, including submission of annual reports to the Secretary and Congress, employment of technical assistance, and for availability of assistance and data, prior to repeal by Pub. L. 90–248, title I, §164(c), Jan. 2, 1968, 81 Stat. 874.
+A prior section 1395ee, act Aug. 14, 1935, ch. 531, title XVIII, §1868, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329, provided for creation of a National Medical Review Committee, functions of such Committee, including submission of annual reports to the Secretary and Congress, employment of technical assistance, and for availability of assistance and data, prior to repeal by Pub. L. 90–248, title I, §164(c), Jan. 2, 1968, 81 Stat. 874.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (c)(1)(B)(iv). Pub. L. 117–286, §4(c)(42), substituted "subchapter I of chapter 131 of title 5." for "title I of the Ethics in Government Act of 1978 (Public Law 95–521)."
+
+Subsec. (c)(1)(G). Pub. L. 117–286, §4(a)(255), substituted "Section 1013 of title 5" for "Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)".
 
 <b>2018</b>—Subsec. (c)(2)(C). Pub. L. 115–123 amended subpar. (C) generally. Prior to amendment, text read as follows: "The Committee shall, on a periodic basis, review models submitted under subparagraph (B), prepare comments and recommendations regarding whether such models meet the criteria described in subparagraph (A), and submit such comments and recommendations to the Secretary."
 
@@ -164,5 +162,5 @@ Subsec. (c). Pub. L. 108–173, §942(a)(4), redesignated subsec. (c) as par. (3
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 

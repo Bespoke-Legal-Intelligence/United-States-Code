@@ -25,7 +25,7 @@
 
 #### Amendments
 
-<b>2020</b>—Pub. L. 116–260, div. O, title X, §1003(d), Dec. 27, 2020, 134 Stat. 2156, struck out items 707 "4–H Club emblem fraudulently used", 708 "Swiss Confederation coat of arms", 711 " 'Smokey Bear' character or name", 711a " 'Woodsy Owl' character, name, or slogan", and 715 " 'The Golden Eagle Insignia' ".
+<b>2020</b>—Pub. L. 116–260, div. O, title X, §1003(d), Dec. 27, 2020, 134 Stat. 2156, struck out items 707 "4–H Club emblem fraudulently used", 708 "Swiss Confederation coatof arms", 711 " 'Smokey Bear' character or name", 711a " 'Woodsy Owl' character, name, or slogan", and 715 " 'The Golden Eagle Insignia' ".
 
 <b>2007</b>—Pub. L. 109–481, §2(b), Jan. 12, 2007, 120 Stat. 3674, added item 706a.
 

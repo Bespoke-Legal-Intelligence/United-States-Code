@@ -4,7 +4,7 @@
 
 #### (1) Living allowance required
 
-&emsp;Subject to paragraph (3), each participant in a full-time youth corps program that receives assistance under this division shall receive aliving allowance in an amount equal to or greater than the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
+&emsp;Subject to paragraph (3), each participant in a full-time youth corps program that receives assistance under this division shall receive a living allowance in an amount equal to or greater than the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
 
 #### (2) Limitation on Federal share
 
@@ -38,7 +38,7 @@
 
 #### (c) Health insurance
 
-In addition to the living allowance provided under subsection (a), program agencies are encouraged to provide health insurance to each participant in a full-time youth corps program who does not otherwise have access to health insurance.
+In addition to the living allowance provided under subsection (a), program agencies are encouraged to provide health insurance to each participant in a full-time youth corps programwho does not otherwise have access to health insurance.
 
 #### (d) Facilities, services, and supplies
 
@@ -74,7 +74,7 @@ In addition to the living allowance provided under subsection (a), program agenc
 
 #### References in Text
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (b)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified principally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (b)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified principally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Codification
 

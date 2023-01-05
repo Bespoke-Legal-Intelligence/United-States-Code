@@ -58,7 +58,7 @@
 
 #### (3) Limitations on use of funds
 
-&emsp;Of amounts provided to an eligible unit of local government or Indian tribe under theprogram, an eligible unit of local government or Indian tribe may use—
+&emsp;Of amounts provided to an eligible unit of local government or Indian tribe under the program, an eligible unit of local government or Indian tribe may use—
 
 &emsp;&emsp;(A) for administrative expenses, excluding the cost of meeting the reporting requirements of this part, an amount equal to the greater of—
 

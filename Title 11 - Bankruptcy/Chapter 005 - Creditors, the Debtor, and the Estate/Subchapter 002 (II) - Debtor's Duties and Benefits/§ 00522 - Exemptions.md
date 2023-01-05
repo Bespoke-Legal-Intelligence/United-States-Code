@@ -64,7 +64,7 @@
 
 &emsp;(2) The debtor's interest, not to exceed $2,400 <sup>1</sup> in value, in one motor vehicle.
 
-&emsp;(3) The debtor's interest, not to exceed $400 <sup>1</sup> in value in any particular item or $8,000 <sup>1</sup> in aggregate value, in household furnishings, household goods, wearing apparel, appliances,books, animals, crops, or musical instruments, that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
+&emsp;(3) The debtor's interest, not to exceed $400 <sup>1</sup> in value in any particular item or $8,000 <sup>1</sup> in aggregate value, in household furnishings, household goods, wearing apparel, appliances, books, animals, crops, or musical instruments, that are held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
 
 &emsp;(4) The debtor's aggregate interest, not to exceed $1,000 <sup>1</sup> in value, in jewelry held primarily for the personal, family, or household use of the debtor or a dependent of the debtor.
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(B) a payment on account of the wrongful death of an individual of whom the debtor was a dependent, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
 
-&emsp;&emsp;(C) a payment under a life insurance contract that insured the life of an individual of whom the debtor was a dependent on the date of such individual's death, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
+&emsp;&emsp;(C) a payment under a life insurance contract that insured the life of an individual ofwhom the debtor was a dependent on the date of such individual's death, to the extent reasonably necessary for the support of the debtor and any dependent of the debtor;
 
 &emsp;&emsp;(D) a payment, not to exceed $15,000,<sup>1</sup> on account of personal bodily injury, not including pain and suffering or compensation for actual pecuniary loss, of the debtor or an individual of whom the debtor is a dependent; or
 
@@ -134,7 +134,7 @@
 
 > exceeds the value that the debtor's interest in the property would have in the absence of any liens.
 
-(B) In the case of a property subject to more than 1 lien, a lien that has been avoided shallnot be considered in making the calculation under subparagraph (A) with respect to other liens.
+(B) In the case of a property subject to more than 1 lien, a lien that has been avoided shall not be considered in making the calculation under subparagraph (A) with respect to other liens.
 
 (C) This paragraph shall not apply with respect to a judgment arising out of a mortgage foreclosure.
 
@@ -188,7 +188,7 @@
 
 &emsp;(iv) jewelry with a fair market value of more than $500 <sup>1</sup> in the aggregate (except wedding rings); and
 
-&emsp;(v) a computer (except as otherwise provided for in this section), motor vehicle (including a tractor or lawn tractor), boat, or a motorized recreational device, conveyance, vehicle, watercraft, or aircraft.
+&emsp;(v) a computer (except as otherwise provided for in this section), motor vehicle (including atractor or lawn tractor), boat, or a motorized recreational device, conveyance, vehicle, watercraft, or aircraft.
 
 (g) Notwithstanding sections 550 and 551 of this title, the debtor may exempt under subsection (b) of this section property that the trustee recovers under section 510(c)(2), 542, 543, 550, 551, or 553 of this title, to the extent that the debtor could have exempted such property under subsection (b) of this section if such property had not been transferred, if—
 
@@ -216,7 +216,7 @@
 
 &emsp;(2) any costs and expenses of avoiding a transfer under subsection (f) or (h) of this section, or of recovery of property under subsection (i)(1) of this section, that the debtor has not paid.
 
-(l) The debtor shall file a list of property that the debtor claims as exempt under subsection\(b) of this section. If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor. Unless a party in interest objects, the property claimed as exempt on such list is exempt.
+(l) The debtor shall file a list of property that the debtor claims as exempt under subsection (b) of this section. If the debtor does not file such a list, a dependent of the debtor may file such a list, or may claim property as exempt from property of the estate on behalf of the debtor. Unless a party in interest objects, the property claimed as exempt on such list is exempt.
 
 (m) Subject to the limitation in subsection (b), this section shall apply separately with respect to each debtor in a joint case.
 
@@ -540,7 +540,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to section 104 of this title as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (d)(1), dollar amount "23,675" was adjusted to "25,150"; in subsec. (d)(2), dollar amount "3,775" was adjusted to "4,000"; in subsec. (d)(3), dollar amounts "600" and "12,625" were adjusted to "625" and "13,400", respectively; in subsec. (d)(4), dollar amount "1,600" was adjusted to "1,700"; in subsec. (d)(5), dollar amounts "1,250" and "11,850" were adjusted to "1,325" and "12,575", respectively; in subsec. (d)(6), dollar amount "2,375" was adjusted to "2,525"; in subsec. (d)(8), dollar amount "12,625" was adjusted to "13,400"; in subsec. (d)(11)(D), dollar amount "23,675" was adjusted to "25,150"; in subsec. (f)(3), dollar amount"6,425" was adjusted to "6,825"; in subsec. (f)(4), dollar amount "675" was adjusted to "725" each time it appeared; in subsec. (n), dollar amount "1,283,025" was adjusted to "1,362,800"; in subsec. (p), dollar amount "160,375" was adjusted to "170,350"; and, in subsec. (q), dollar amount "160,375" was adjusted to "170,350". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (d)(1), dollar amount "25,150" was adjusted to "27,900"; in subsec. (d)(2), dollar amount "4,000" was adjusted to "4,450"; in subsec. (d)(3), dollar amounts "625" and "13,400" were adjusted to "700" and "14,875", respectively; in subsec. (d)(4), dollar amount "1,700" was adjusted to "1,875"; in subsec. (d)(5), dollar amounts "1,325" and "12,575" were adjusted to "1,475" and "13,950", respectively; in subsec. (d)(6), dollar amount "2,525" was adjusted to "2,800"; in subsec. (d)(8), dollar amount "13,400" was adjusted to "14,875"; in subsec. (d)(11)(D), dollar amount "25,150" was adjusted to "27,900"; in subsec. (f)(3), dollar amount "6,825" was adjusted to "7,575"; in subsec. (f)(4), dollar amount "725" was adjusted to "800" each time it appeared; in subsec. (n), dollar amount "1,362,800" was adjusted to "1,512,350"; in subsec. (p), dollar amount "170,350" was adjusted to "189,050"; and, in subsec. (q), dollar amount "170,350" was adjusted to "189,050". See notice of the Judicial Conference of the United States set out as a note under section 104 of this title.
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (d)(1), dollar amount "23,675" was adjusted to "25,150"; in subsec. (d)(2), dollar amount "3,775" was adjusted to "4,000"; in subsec. (d)(3), dollar amounts "600" and "12,625" were adjusted to "625" and "13,400", respectively; in subsec. (d)(4), dollar amount "1,600" was adjusted to "1,700"; in subsec. (d)(5), dollar amounts "1,250" and "11,850" were adjusted to "1,325" and "12,575", respectively; in subsec. (d)(6), dollar amount "2,375" was adjusted to "2,525"; in subsec. (d)(8), dollar amount "12,625" was adjusted to "13,400"; in subsec. (d)(11)(D), dollar amount "23,675" was adjusted to "25,150"; in subsec. (f)(3), dollar amount "6,425" was adjusted to "6,825"; in subsec. (f)(4), dollar amount "675" was adjusted to "725" each time it appeared; in subsec. (n), dollar amount "1,283,025" was adjusted to "1,362,800"; in subsec. (p), dollar amount "160,375" was adjusted to "170,350"; and, in subsec. (q), dollar amount "160,375" was adjusted to "170,350".
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (d)(1), dollar amount "22,975" was adjusted to "23,675"; in subsec. (d)(2), dollar amount "3,675" was adjusted to "3,775"; in subsec. (d)(3), dollar amounts "575" and "12,250" were adjusted to "600" and "12,625", respectively; in subsec. (d)(4), dollar amount "1,550" was adjusted to "1,600"; in subsec. (d)(5), dollar amounts "1,225" and "11,500" were adjusted to "1,250" and "11,850", respectively; in subsec. (d)(6), dollar amount "2,300" was adjusted to "2,375"; in subsec. (d)(8), dollar amount "12,250" was adjusted to "12,625"; in subsec. (d)(11)(D), dollar amount "22,975" was adjusted to "23,675"; in subsec. (f)(3), dollar amount "6,225" was adjusted to "6,425"; in subsec. (f)(4), dollar amount "650" was adjusted to "675" each time it appeared; in subsec. (n), dollar amount "1,245,475" was adjusted to "1,283,025"; in subsec. (p), dollar amount "155,675" was adjusted to "160,375"; and, in subsec. (q), dollar amount "155,675" was adjusted to "160,375".
 

@@ -32,7 +32,7 @@ Beginning on the date which occurs six months after the date on which a labeling
 
 (1) After the date on which a manufacturer must provide a label for a product pursuant to subsection (e)—
 
-&emsp;(A) each such product shall be considered, for purposes of paragraphs (1) and (2) of section 6302(a) of this title, a new covered product to which a rule under section 6294 of this title applies; and
+&emsp;(A) each such product shall be considered, for purposes of paragraphs (1) and (2) of section 6302(a) of this title, a new covered productto which a rule under section 6294 of this title applies; and
 
 &emsp;(B) it shall be unlawful for any manufacturer or private labeler to distribute in commerce any new product for which an energy conservation standard is prescribed under subsection (a)(2) or (b)(2) which is not in conformity with the applicable energy conservation standard.
 

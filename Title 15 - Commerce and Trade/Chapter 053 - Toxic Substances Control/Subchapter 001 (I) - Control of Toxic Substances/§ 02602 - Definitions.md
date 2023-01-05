@@ -40,7 +40,7 @@ As used in this chapter:
 
 (9) The term "manufacture" means to import into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), produce, or manufacture.
 
-(10) The term "mixture" means any combination of two or more chemical substances if the combination does not occur in nature and is not, in whole or in part, the result of a chemical reaction; except that such term does include any combination which occurs, in whole or in part, as a result of a chemical reaction if none of the chemical substances comprising the combination is a new chemical substance and if the combination could have been manufactured for commercial purposes without a chemical reaction at the time the chemical substances comprising the combination were combined.
+(10) The term "mixture" means any combination of two or more chemical substances if the combination does not occur in nature and is not, in whole or in part, the result of a chemical reaction; except that such term does include anycombination which occurs, in whole or in part, as a result of a chemical reaction if none of the chemical substances comprising the combination is a new chemical substance and if the combination could have been manufactured for commercial purposes without a chemical reaction at the time the chemical substances comprising the combination were combined.
 
 (11) The term "new chemical substance" means any chemical substance which is not included in the chemical substance list compiled and published under section 2607(b) of this title.
 
@@ -122,7 +122,7 @@ Pars. (16), (17). Pub. L. 114–182, §3(1), redesignated pars. (13) and (14) as
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Effective Date
 

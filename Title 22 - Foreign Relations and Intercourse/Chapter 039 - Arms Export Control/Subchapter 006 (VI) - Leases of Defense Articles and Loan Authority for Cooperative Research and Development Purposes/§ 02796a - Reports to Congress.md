@@ -2,7 +2,7 @@
 
 #### (a) Written certification to Speaker of the House and chairmen of Congressional committees
 
-Before entering into or renewing any agreement with a foreign country or international organization to lease any defense article under this subchapter, or to loan any defense article under chapter 2 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq.\], for a period of one year or longer, the President shall transmit to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Armed Services of the Senate, a written certification which specifies—
+Before entering into or renewing any agreement with a foreign country or international organization to lease any defense article under this subchapter, or to loan any defense article under chapter 2 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq.\], for a period of one year or longer, the President shall transmit to the Speaker of the House of Representatives, the Committee on Foreign Affairsof the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate and the chairman of the Committee on Armed Services of the Senate, a written certification which specifies—
 
 &emsp;(1) the country or international organization to which the defense article is to be leased or loaned;
 
@@ -30,7 +30,7 @@ The certification required by subsection (a) shall be transmitted—
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 This chapter, referred to in subsec. (a)(4), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 

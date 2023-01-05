@@ -12,7 +12,7 @@ A plan submitted under this section shall—
 
 &emsp;(2) provide that the State shall share the financial assistance with that provided by the Federal Government under this section from any source determined by it to be consistent with State law;
 
-&emsp;(3) provide for the development of State and local emergency preparedness operational plans, including a catastrophic incident annex,pursuant to standards approved by the Administrator;
+&emsp;(3) provide for the development of State and local emergency preparedness operational plans, including a catastrophic incident annex, pursuant to standards approved by the Administrator;
 
 &emsp;(4) provide for the employment of a full-time emergency preparedness director, or deputy director, by the State;
 

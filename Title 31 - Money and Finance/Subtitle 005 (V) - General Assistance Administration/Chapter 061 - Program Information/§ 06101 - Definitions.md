@@ -112,6 +112,10 @@ Par. (7). Pub. L. 98–169, §3(a), added par. (7).
 
 Pub. L. 104–287, §6(a), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by that section is effective July 5, 1994.
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–219, §1, Dec. 5, 2022, 136 Stat. 2271, provided that: "This Act \[enacting section 6309 of this title, amending section 6102 of this title and section 3504 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under section 6102 of this title\] may be cited as the 'Metropolitan Areas Protection and Standardization Act of 2021' or the 'MAPS Act of 2021'."
+
 #### Short Title of 2021 Amendment
 
 Pub. L. 117–40, §1, Sept. 24, 2021, 135 Stat. 337, provided that: "This Act \[amending section 1105 of this title and provisions set out as a note under this section\] may be cited as the 'Congressional Budget Justification Transparency Act of 2021'."
@@ -130,7 +134,7 @@ Pub. L. 116–136, div. B, title V, §15011, Mar. 27, 2020, 134 Stat. 540, provi
 
 "(a) In this section—
 
-&emsp;"(1) the terms 'agency', 'appropriate congressional committees', 'Committee', 'covered funds', and 'Coronavirus response' have the meanings given those terms in section 15010 \[set out as a note under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)\];
+&emsp;"(1) the terms 'agency', 'appropriate congressional committees', 'Committee', 'covered funds', and 'Coronavirus response' have the meanings given those terms in section 15010 \[set out as a note under section 424 of Title 5, Government Organization and Employees\];
 
 &emsp;"(2) the term 'covered recipient'—
 
@@ -258,7 +262,7 @@ Requirement.—The Interagency Committee on Debarment and Suspension shall—
 
 &emsp;"(3) encourage and assist Federal agencies in entering into cooperative efforts to pool resources and achieve operational efficiencies in the Governmentwide suspension and debarment system;
 
-&emsp;"(4) recommend to the Office of Management and Budget changes to the Government suspension and debarment system and its rules, if such recommendations are approved by a majority of the Interagency Committee;
+&emsp;"(4) recommend to the Office of Management and Budget changes to the Government suspension anddebarment system and its rules, if such recommendations are approved by a majority of the Interagency Committee;
 
 &emsp;"(5) authorize the Office of Management and Budget to issue guidelines that implement those recommendations;
 
@@ -494,7 +498,7 @@ In general.—Based on the pilot program conducted under paragraph (1), and, exc
 
 &emsp;&emsp;"(B)
 
-Extension of deadline.—For subaward recipients that receive Federal funds through State,local, or tribal governments, the Director may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
+Extension of deadline.—For subaward recipients that receive Federal funds through State, local, or tribal governments, the Director may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
 
 "(e)
 
@@ -896,7 +900,7 @@ Sec. 2. To the extent permitted by law, Executive departments and agencies shall
 
 (c) Not allow a party to participate in any affected program if any Executive department or agency has debarred, suspended, or otherwise excluded (to the extent specified in the exclusion agreement) that party from participation in an affected program. An agency may grant an exception permitting a debarred, suspended, or excluded party to participate in a particular transaction upon a written determination by the agency head or authorized designee stating the reason(s) for deviating from this Presidential policy. However, I intend that exceptions to this policy should be granted only infrequently.
 
-Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelines issued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
+Sec. 3. Executive departments and agencies shall issue regulations governing their implementation of this Order that shall be consistent with the guidelines issued under Section 6. Proposed regulations shall be submitted to the Office of Management and Budget for review within four months of the date of the guidelinesissued under Section 6. The Director of the Office of Management and Budget may return for reconsideration proposed regulations that the Director believes are inconsistent with the guidelines. Final regulations shall be published within twelve months of the date of the guidelines.
 
 Sec. 4. There is hereby constituted the Interagency Committee on Debarment and Suspension, which shall monitor implementation of this Order. The Committee shall consist of representatives of agencies designated by the Director of the Office of Management and Budget.
 

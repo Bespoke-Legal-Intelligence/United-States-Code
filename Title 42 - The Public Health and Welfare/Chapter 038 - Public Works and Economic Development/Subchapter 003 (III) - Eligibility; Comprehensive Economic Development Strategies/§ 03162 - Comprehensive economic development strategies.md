@@ -8,7 +8,7 @@ The Secretary may provide assistance under section 3141 or 3149 of this title (e
 
 &emsp;(2) an identification of the past, present, and projected future economic development investments in the area receiving the assistance and public and private participants and sources of funding for the investments; and
 
-&emsp;(3)(A) a comprehensive economic development strategy for addressing the economic problems identified under paragraph (1) in a manner that promotes economic developmentand opportunity, fosters effective transportation access, maximizes effective development and use of the workforce consistent with any applicable State or local workforce investment strategy, promotes the use of technology in economic development (including access to high-speed telecommunications), enhances and protects the environment, and balances resources through sound management of development; and
+&emsp;(3)(A) a comprehensive economic development strategy for addressing the economic problems identified under paragraph (1) in a manner that promotes economic development and opportunity, fosters effective transportation access, maximizes effective development and use of the workforce consistent with any applicable State or local workforce investment strategy, promotes the use of technology in economic development (including access to high-speed telecommunications), enhances and protects the environment, and balances resources through sound management of development; and
 
 &emsp;(B) a description of how the strategy will solve the problems.
 
@@ -32,7 +32,7 @@ The Secretary shall approve a comprehensive economic development strategy that m
 
 #### Prior Provisions
 
-A prior section 3162, Pub. L. 89–136, title IV, §402, Aug. 26, 1965, 79 Stat. 561; Pub. L. 92–65, title I, §107, Aug. 5, 1971, 85 Stat. 167, required annual review of area eligibility, prior to repeal by Pub. L. 105–393, §102(a).
+A prior section 3162, Pub. L. 89–136, title IV, §402, Aug. 26, 1965, 79 Stat. 561; Pub. L. 92–65, title I, §107, Aug. 5,1971, 85 Stat. 167, required annual review of area eligibility, prior to repeal by Pub. L. 105–393, §102(a).
 
 A prior section 302 of Pub. L. 89–136 was classified to section 3151a of this title prior to repeal by Pub. L. 105–393, §102(a).
 

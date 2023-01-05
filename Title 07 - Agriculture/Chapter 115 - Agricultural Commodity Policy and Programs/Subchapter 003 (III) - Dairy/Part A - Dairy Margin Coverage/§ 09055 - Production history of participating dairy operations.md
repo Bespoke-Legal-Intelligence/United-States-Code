@@ -26,7 +26,7 @@
 
 #### (2) Dairy operations with 1 year or more of production history
 
-&emsp;In the case of a participating dairy operation that was not in operation prior to January 1, 2014, that has not established a production history, and that has been in operation for equal to or longer than 1 year, the participating dairy operation shall elect the annual milk marketings during any 1 calendar year to determine the production history of the participating dairy operation.
+&emsp;In the case of a participating dairy operation that was not in operation prior to January 1, 2014, that has not established a production history, and that has been in operation for equal to or longer than 1 year, the participating dairy operation shall elect the annualmilk marketings during any 1 calendar year to determine the production history of the participating dairy operation.
 
 #### (3) Adjustment
 

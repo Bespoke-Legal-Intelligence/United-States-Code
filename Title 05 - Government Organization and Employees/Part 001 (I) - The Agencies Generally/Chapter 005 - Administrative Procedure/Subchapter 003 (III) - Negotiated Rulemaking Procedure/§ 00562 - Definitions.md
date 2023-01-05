@@ -18,7 +18,7 @@ For the purposes of this subchapter, the term—
 
 &emsp;(6) "negotiated rulemaking" means rulemaking through the use of a negotiated rulemaking committee;
 
-&emsp;(7) "negotiated rulemaking committee" or "committee" means an advisory committee established by an agency in accordance with this subchapter and the Federal Advisory Committee Act to consider and discuss issues for the purpose of reaching a consensus in the development of a proposed rule;
+&emsp;(7) "negotiated rulemaking committee" or "committee" means an advisory committee established by an agency in accordance with this subchapter and chapter 10 of this title to consider and discuss issues for the purpose of reaching a consensus in the development of a proposed rule;
 
 &emsp;(8) "party" has the same meaning as in section 551(3) of this title;
 
@@ -28,15 +28,13 @@ For the purposes of this subchapter, the term—
 
 &emsp;(11) "rulemaking" means "rule making" as that term is defined in section 551(5) of this title.
 
-(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4970, §582; renumbered §562, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
+(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4970, §582; renumbered §562, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944; amended Pub. L. 117–286, §4(a)(5), Dec. 27, 2022, 136 Stat. 4305.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in par. (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to this title.
-
 #### Amendments
+
+<b>2022</b>—Par. (7). Pub. L. 117–286 substituted "chapter 10 of this title" for "the Federal Advisory Committee Act".
 
 <b>1992</b>—Pub. L. 102–354 renumbered section 582 of this title as this section.
 

@@ -76,7 +76,7 @@ In this chapter, the following definitions apply:
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-Section 3 of title 14, referred to in par. (11)(B), was redesignated section 103 of title 14 by Pub. L. 115–282, title I, §103(b), Dec. 4, 2018, 132 Stat. 4195, and references tosection 3 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
+Section 3 of title 14, referred to in par. (11)(B), was redesignated section 103 of title 14 by Pub. L. 115–282, title I, §103(b), Dec. 4, 2018, 132 Stat. 4195, and references to section 3 of title 14 deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding section 101 of Title 14, Coast Guard.
 
 The Immigration and Nationality Act, referred to in par. (19)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
@@ -97,6 +97,22 @@ Pub. L. 109–295 inserted "fire," after "safety,".
 #### Effective Date
 
 Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: "This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\]."
+
+#### Short Title 2022 Amendment
+
+Pub. L. 117–322, §1, Dec. 27, 2022, 136 Stat. 4433, provided that: "This Act \[enacting sections 242a and 242b of this title and provisions set out as notes under sections 242 and 242a of this title\] may be cited as the 'Countering Human Trafficking Act of 2021'."
+
+Pub. L. 117–263, div. G, title LXXI, §7105(a), Dec. 23, 2022, 136 Stat. 3622, provided that: "This section \[enacting section 475 of this title\] may be cited as the 'Transnational Criminal Investigative Unit Stipend Act'."
+
+Pub. L. 117–263, div. G, title LXXI, §7111(a), Dec. 23, 2022, 136 Stat. 3625, provided that: "This section \[amending section 348 of this title\] may be cited as the 'DHS Joint Task Forces Reauthorization Act of 2022'."
+
+Pub. L. 117–248, §1, Dec. 20, 2022, 136 Stat. 2348, provided that: "This Act \[enacting section 323 of this title\] may be cited as the 'Protecting Firefighters from Adverse Substances Act' or the 'PFAS Act'."
+
+Pub. L. 117–150, §1, June 21, 2022, 136 Stat. 1295, provided that: "This Act \[amending sections 651 and 659 of this title\] may be cited as the 'State and Local Government Cybersecurity Act of 2021'."
+
+Pub. L. 117–130, §1, June 6, 2022, 136 Stat. 1229, provided that: "This Act \[amending sections 112 and 313 of this title\] may be cited as the 'Homeland Security for Children Act'."
+
+Pub. L. 117–103, div. Y, §101, Mar. 15, 2022, 136 Stat. 1038, provided that: "This division \[enacting part D of subchapter XVIII of this chapter and section 665j of this title, amending section 659 of this title, and enacting provisions set out as notes under sections 652 and 665j of this title\] may be cited as the 'Cyber Incident Reporting for Critical Infrastructure Act of 2022'."
 
 #### Short Title of 2021 Amendment
 
@@ -120,7 +136,7 @@ Pub. L. 116–108, §1, Jan. 24, 2020, 133 Stat. 3294, provided that: "This Act 
 
 #### Short Title of 2019 Amendment
 
-Pub. L. 116–94, div. L, §101, Dec. 20, 2019, 133 Stat. 3089, provided that: "This division \[amending section 659 of this title\] may be cited as the 'DHS Cyber Hunt and Incident Response Teams Act of 2019'."
+Pub. L. 116–94, div. L, §101, Dec. 20, 2019, 133 Stat. 3089, provided that: "This division \[amending section 659 ofthis title\] may be cited as the 'DHS Cyber Hunt and Incident Response Teams Act of 2019'."
 
 Pub. L. 116–2, §1, Jan. 18, 2019, 133 Stat. 5, provided that: "This Act \[amending provisions set out as a note under section 621 of this title\] may be cited as the 'Chemical Facility Anti-Terrorism Standards Program Extension Act'."
 
@@ -220,7 +236,7 @@ Pub. L. 108–330, §1, Oct. 16, 2004, 118 Stat. 1275, provided that: "This Act 
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–7, div. L, Feb. 20, 2003, 117 Stat. 532, provided in part that: "This division \[enacting sections 103 and 552a of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 113, 162, 164, 188, 395, 453, and 551 of this title, section 8D of the Inspector General Act of 1978, sections 1103 and 1356 of Title 8, Aliens and Nationality, and section 300aa–33 of Title 42, The Public Health and Welfare, redesignating section 8I of the Inspector General Act of 1978 as section 8J, repealing section 371 of this title and former section 8J of the Inspector General Act of 1978, enacting provisions set out as notes under section 521 of this title, section 1356 of Title 8, and section 300aa–33 of Title 42, and repealingprovisions set out as a note under section 300aa–33 of Title 42\] may be cited as the 'Homeland Security Act Amendments of 2003'."
+Pub. L. 108–7, div. L, Feb. 20, 2003, 117 Stat. 532, provided in part that: "This division \[enacting sections 103 and 552a of this title and section 8I of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, amending sections 113, 162, 164, 188, 395, 453, and 551 of this title, section 8D of the Inspector General Act of 1978, sections 1103 and 1356 of Title 8, Aliens and Nationality, and section 300aa–33 of Title 42, The Public Health and Welfare, redesignating section 8I of the Inspector General Act of 1978 as section 8J, repealing section 371 of this title and former section 8J of the Inspector General Act of 1978, enacting provisions set out as notes under section 521 of this title, section 1356 of Title 8, and section 300aa–33 of Title 42, and repealing provisions set out as a note under section 300aa–33 of Title 42\] may be cited as the 'Homeland Security Act Amendments of 2003'."
 
 #### Short Title
 
@@ -242,7 +258,7 @@ Pub. L. 114–328, div. A, title XIX, §1913(e), Dec. 23, 2016, 130 Stat. 2687, 
 
 #### National Commission on Terrorist Attacks Upon the United States
 
-Pub. L. 107–306, title VI, Nov. 27, 2002, 116 Stat. 2408, as amended by Pub. L. 108–207, §1, Mar. 16, 2004, 118 Stat. 556, provided that:
+Pub. L. 107–306, title VI, Nov. 27, 2002, 116 Stat. 2408, as amended by Pub. L. 108–207, §1, Mar. 16, 2004, 118 Stat. 556; Pub. L. 117–286, §4(a)(11), Dec. 27, 2022, 136 Stat. 4306, provided that:
 
 #### "SEC. 601. ESTABLISHMENT OF COMMISSION.
 
@@ -258,7 +274,7 @@ Pub. L. 107–306, title VI, Nov. 27, 2002, 116 Stat. 2408, as amended by Pub. L
 
 &emsp;"(3) build upon the investigations of other entities, and avoid unnecessary duplication, by reviewing the findings, conclusions, and recommendations of—
 
-&emsp;&emsp;"(A) the Joint Inquiry of the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives regarding the terrorist attacks of September 11, 2001, (hereinafter in this title referred to as the 'Joint Inquiry'); and
+&emsp;&emsp;"(A) the Joint Inquiry of the Select Committee on Intelligence of the Senate and the PermanentSelect Committee on Intelligence of the House of Representatives regarding the terrorist attacks of September 11, 2001, (hereinafter in this title referred to as the 'Joint Inquiry'); and
 
 &emsp;&emsp;"(B) other executive branch, congressional, or independent commission investigations into the terrorist attacks of September 11, 2001, other terrorist attacks, and terrorism generally;
 
@@ -440,11 +456,11 @@ Gifts.—The Commission may accept, use, and dispose of gifts or donations of se
 
 Postal Services.—The Commission may use the United States mails in the same manner and under the same conditions as departments and agencies of the United States.
 
-#### "SEC. 606. NONAPPLICABILITY OF FEDERAL ADVISORY COMMITTEE ACT.
+#### "SEC. 606. NONAPPLICABILITY OF CHAPTER 10 OF TITLE 5, UNITED STATES CODE.
 
 "(a)
 
-In General.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+In General.—Chapter 10 of title 5, United States Code, shall not apply to the Commission.
 
 "(b)
 

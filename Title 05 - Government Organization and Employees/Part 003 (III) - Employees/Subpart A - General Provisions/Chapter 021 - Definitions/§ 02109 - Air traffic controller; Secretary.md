@@ -14,7 +14,7 @@ For the purpose of this title—
 
 &emsp;(2) "Secretary", when used in connection with "air traffic controller" or "controller", means the Secretary of Transportation with respect to controllers in the Department of Transportation, and the Secretary of Defense with respect to controllers in the Department of Defense.
 
-(Added Pub. L. 92–297, §1(a), May 16, 1972, 86 Stat. 141; amended Pub. L. 96–347, §1(a), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 99–335, title II, §207(b), June 6, 1986, 100 Stat. 594.)
+(Added Pub. L. 92–297, §1(a), May 16, 1972, 86 Stat. 141; amended Pub. L. 96–347, §1(a), Sept. 12,1980, 94 Stat. 1150; Pub. L. 99–335, title II, §207(b), June 6, 1986, 100 Stat. 594.)
 
 #### <b>Editorial Notes</b>
 

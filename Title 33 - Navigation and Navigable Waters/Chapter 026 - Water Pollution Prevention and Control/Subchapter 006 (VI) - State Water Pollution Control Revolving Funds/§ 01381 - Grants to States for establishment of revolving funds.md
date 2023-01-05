@@ -22,7 +22,7 @@ The Administrator and each State shall jointly establish a schedule of payments 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–121 substituted "to accomplish the objectives, goals, and policies of thischapter by providing assistance for projects and activities identified in section 1383(c) of this title." for "for providing assistance (1) for construction of treatment works (as defined in section 1292 of this title) which are publicly owned, (2) for implementing a management program under section 1329 of this title, and (3) for developing and implementing a conservation and management plan under section 1330 of this title."
+<b>2014</b>—Subsec. (a). Pub. L. 113–121 substituted "to accomplish the objectives, goals, and policies of this chapter by providing assistance for projects and activities identified in section 1383(c) of this title." for "for providing assistance (1) for construction of treatment works (as defined in section 1292 of this title) which are publicly owned, (2) for implementing a management program under section 1329 of this title, and (3) for developing and implementing a conservation and management plan under section 1330 of this title."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

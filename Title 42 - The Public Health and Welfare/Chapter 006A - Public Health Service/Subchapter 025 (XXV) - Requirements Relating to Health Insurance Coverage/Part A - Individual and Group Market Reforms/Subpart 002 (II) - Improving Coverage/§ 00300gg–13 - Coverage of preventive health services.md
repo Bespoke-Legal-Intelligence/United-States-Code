@@ -60,7 +60,7 @@ Definitions.—For purposes of this section:
 
 &emsp;"(1)
 
-Qualifying coronavirus preventive service.—The term 'qualifying coronavirus preventiveservice' means an item, service, or immunization that is intended to prevent or mitigate coronavirus disease 2019 and that is—
+Qualifying coronavirus preventive service.—The term 'qualifying coronavirus preventive service' means an item, service, or immunization that is intended to prevent or mitigate coronavirus disease 2019 and that is—
 
 &emsp;&emsp;"(A) an evidence-based item or service that has in effect a rating of 'A' or 'B' in the current recommendations of the United States Preventive Services Task Force; or
 

@@ -8,7 +8,7 @@ Any State educational agency, State agency, or local educational agency that rec
 
 The procedures required by this section shall include the following:
 
-&emsp;(1) An opportunity for the parents of a child with a disability to examine all records relating to such child and to participate in meetings with respect to the identification, evaluation, and educational placement of the child, and the provision of a free appropriate public education to such child, and to obtain an independent educational evaluation of the child.
+&emsp;(1) An opportunity for the parents of a child with a disability to examine all records relating to such child and to participate in meetings with respect to the identification, evaluation, and educational placement of the child, and the provision of a free appropriate publiceducation to such child, and to obtain an independent educational evaluation of the child.
 
 &emsp;(2)(A) Procedures to protect the rights of the child whenever the parents of the child are not known, the agency cannot, after reasonable efforts, locate the parents, or the child is a ward of the State, including the assignment of an individual to act as a surrogate for the parents, which surrogate shall not be an employee of the State educational agency, the local educational agency, or any other agency that is involved in the education or care of the child. In the case of—
 
@@ -84,7 +84,7 @@ The procedures required by this section shall include the following:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If the local educational agency has not sent a prior written notice to the parent regarding the subject matter contained in the parent's due process complaint notice, such local educational agency shall, within 10 days of receiving the complaint, send to the parent a response that shall include—
+&emsp;&emsp;&emsp;&emsp;If the local educational agency has not sent a prior written notice to the parentregarding the subject matter contained in the parent's due process complaint notice, such local educational agency shall, within 10 days of receiving the complaint, send to the parent a response that shall include—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) an explanation of why the agency proposed or refused to take the action raised in the complaint;
 
@@ -256,7 +256,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (ii) Hearing
 
-&emsp;&emsp;&emsp;If the local educational agency has not resolved the complaint to the satisfactionof the parents within 30 days of the receipt of the complaint, the due process hearing may occur, and all of the applicable timelines for a due process hearing under this subchapter shall commence.
+&emsp;&emsp;&emsp;If the local educational agency has not resolved the complaint to the satisfaction of the parents within 30 days of the receipt of the complaint, the due process hearing may occur, and all of the applicable timelines for a due process hearing under this subchapter shall commence.
 
 #### (iii) Written settlement agreement
 
@@ -448,7 +448,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 #### (E) Exception to prohibition on attorneys' fees and related costs
 
-&emsp;&emsp;Notwithstanding subparagraph (D), an award of attorneys' fees and related costs may be made to a parent who is the prevailing party and who was substantially justified in rejecting the settlement offer.
+&emsp;&emsp;Notwithstanding subparagraph (D), an award of attorneys' fees and related costsmay be made to a parent who is the prevailing party and who was substantially justified in rejecting the settlement offer.
 
 #### (F) Reduction in amount of attorneys' fees
 
@@ -500,7 +500,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision tochange the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
+&emsp;&emsp;&emsp;Except as provided in subparagraph (B), within 10 school days of any decision to change the placement of a child with a disability because of a violation of a code of student conduct, the local educational agency, the parent, and relevant members of the IEP Team (as determined by the parent and the local educational agency) shall review all relevant information in the student's file, including the child's IEP, any teacher observations, and any relevant information provided by the parents to determine—
 
 &emsp;&emsp;&emsp;&emsp;(I) if the conduct in question was caused by, or had a direct and substantial relationship to, the child's disability; or
 
@@ -580,7 +580,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 &emsp;&emsp;&emsp;(ii) the parent of the child has requested an evaluation of the child pursuant to section 1414(a)(1)(B) of this title; or
 
-&emsp;&emsp;&emsp;(iii) the teacher of the child, or other personnel of the local educational agency, has expressed specific concerns about a pattern of behavior demonstrated by the child, directly to the director of special education of such agency or to other supervisory personnel of the agency.
+&emsp;&emsp;&emsp;(iii) the teacher of the child, or other personnel of the local educational agency, has expressed specific concerns about a pattern of behavior demonstrated by the child, directly to the director of specialeducation of such agency or to other supervisory personnel of the agency.
 
 #### (C) Exception
 
@@ -666,11 +666,11 @@ Section 327 of the District of Columbia Appropriations Act, 2005, referred to in
 
 The Federal Rules of Civil Procedure, referred to in subsec. (i)(3)(D)(i)(I), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
+The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (l), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (l), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (l), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Act is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (l), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title V of the Act is classified generally to subchapter V (§790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Prior Provisions
 

@@ -16,7 +16,7 @@ Process Elements.—(1) The dispute resolution process shall include the process
 
 (5) The Secretary concerned shall minimize costs to tenants for participation in the dispute resolution process.
 
-(6) The dispute resolution process shall require the installation or regional commander (as thecase may be) to record each dispute in the complaint database established under section 2894a of this title.
+(6) The dispute resolution process shall require the installation or regional commander (as the case may be) to record each dispute in the complaint database established under section 2894a of this title.
 
 (c)
 

@@ -26,6 +26,7 @@
 | [321\.](%C2%A7%2000321%20-%20Office%20of%20Survivors%20Assistance.md) | Office of Survivors Assistance. |
 | [322\.](%C2%A7%2000322%20-%20Office%20of%20National%20Veterans%20Sports%20Programs%20and%20Special%20Events.md) | Office of National Veterans Sports Programs and Special Events. |
 | [323\.](%C2%A7%2000323%20-%20Office%20of%20Accountability%20and%20Whistleblower%20Protection.md) | Office of Accountability and Whistleblower Protection. |
+| [324\.](%C2%A7%2000324%20-%20Cost%20of%20War%20Toxic%20Exposures%20Fund.md) | Cost of War Toxic Exposures Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -51,7 +52,7 @@ Section 213, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115; Pub. L. 89–785, t
 
 Section 214, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115, required an annual report to Congress by Administrator. See section 529 of this title.
 
-Section 215, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115; Pub. L. 99–576, title VII, §701(10), Oct. 28, 1986, 100 Stat. 3291, related to publication of laws relating to veterans. See section 525 of this title.
+Section 215, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1115; Pub. L. 99–576, title VII, §701(10), Oct. 28, 1986, 100 Stat.3291, related to publication of laws relating to veterans. See section 525 of this title.
 
 Section 216, added Pub. L. 100–322, title I, §132(a), May 20, 1988, 102 Stat. 506; amended Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239, related to assistance to certain rehabilitation activities. See section 521 of this title.
 
@@ -103,6 +104,8 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 
 #### Amendments
 
+<b>2022</b>—Pub. L. 117–168, §1(b)(2), title VIII, §805(a), Aug. 10, 2022, 136 Stat. 1759, 1804, added item 324.
+
 <b>2017</b>—Pub. L. 115–41, title I, §101(c), June 23, 2017, 131 Stat. 865, added item 323.
 
 <b>2008</b>—Pub. L. 110–389, title II, §222(b), title VII, §703(b), Oct. 10, 2008, 122 Stat. 4156, 4184, added items 321 and 322.
@@ -152,3 +155,4 @@ Section 246, added Pub. L. 95–202, title III, §310(b)(1), Nov. 23, 1977, 91 S
 - [&sect; 00321 - Office of Survivors Assistance](%C2%A7%2000321%20-%20Office%20of%20Survivors%20Assistance.md)
 - [&sect; 00322 - Office of National Veterans Sports Programs and Special Events](%C2%A7%2000322%20-%20Office%20of%20National%20Veterans%20Sports%20Programs%20and%20Special%20Events.md)
 - [&sect; 00323 - Office of Accountability and Whistleblower Protection](%C2%A7%2000323%20-%20Office%20of%20Accountability%20and%20Whistleblower%20Protection.md)
+- [&sect; 00324 - Cost of War Toxic Exposures Fund](%C2%A7%2000324%20-%20Cost%20of%20War%20Toxic%20Exposures%20Fund.md)

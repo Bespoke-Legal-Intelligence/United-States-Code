@@ -28,7 +28,7 @@ The Secretary is authorized to:
 
 &emsp;(12) Support graduate students and, through university-based cooperative programs, undergraduate students for the purpose of encouraging more students to pursue scientific and technical careers, with a particular focus on the recruitment of women and minority students.
 
-&emsp;(13) Establish a prefreshman enrichment program in which middle-school students attend summer workshops on mathematics, science, and engineering conducted by universities on their campuses.
+&emsp;(13) Establish a prefreshman enrichment program in which middle-school students attendsummer workshops on mathematics, science, and engineering conducted by universities on their campuses.
 
 &emsp;(14) Support competitive events for students under the supervision of teachers, designed to encourage student interest and knowledge in science and mathematics.
 
@@ -36,7 +36,7 @@ The Secretary is authorized to:
 
 &emsp;(16) Support summer internships at Department research and development facilities, for mathematics teachers and science teachers who teach in grades from kindergarten through grade 12.
 
-&emsp;(17) Sponsor and assist in educational and training activities identified as critical skillsneeds for future workforce development at Department research and development facilities.
+&emsp;(17) Sponsor and assist in educational and training activities identified as critical skills needs for future workforce development at Department research and development facilities.
 
 #### (b) Use of facilities
 

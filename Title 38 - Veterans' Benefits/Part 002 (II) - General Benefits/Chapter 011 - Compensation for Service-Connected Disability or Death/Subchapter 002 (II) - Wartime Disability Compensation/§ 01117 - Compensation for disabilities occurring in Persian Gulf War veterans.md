@@ -1,10 +1,6 @@
 ### §1117. Compensation for disabilities occurring in Persian Gulf War veterans
 
-(a)(1) The Secretary may pay compensation under this subchapter to a Persian Gulf veteran with a qualifying chronic disability that became manifest—
-
-&emsp;(A) during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
-
-&emsp;(B) to a degree of 10 percent or more during the presumptive period prescribed under subsection (b).
+(a)(1) The Secretary may pay compensation under this subchapter to a Persian Gulf veteran with a qualifying chronic disability that became manifest to any degree at any time.
 
 (2) For purposes of this subsection, the term "qualifying chronic disability" means a chronic disability resulting from any of the following (or any combination of any of the following):
 
@@ -12,11 +8,9 @@
 
 &emsp;(B) A medically unexplained chronic multisymptom illness (such as chronic fatigue syndrome, fibromyalgia, and irritable bowel syndrome) that is defined by a cluster of signs or symptoms.
 
-&emsp;(C) Any diagnosed illness that the Secretary determines in regulations prescribed under subsection (d) warrants a presumption of service-connection.
+&emsp;(C) Any diagnosed illness that the Secretary determines in regulations prescribed under subsection (c) warrants a presumption of service-connection.
 
-(b) The Secretary shall prescribe by regulation the period of time following service in the Southwest Asia theater of operations during the Persian Gulf War that the Secretary determines is appropriate for presumption of service connection for purposes of this section. The Secretary's determination of such period of time shall be made following a review of any available credible medical or scientific evidence and the historical treatment afforded disabilities for which manifestation periods have been established and shall take into account other pertinent circumstances regarding the experiences of veterans of the Persian Gulf War.
-
-(c)(1) Whenever the Secretary determines under section 1118(c) of this title that a presumption of service connection previously established under this section is no longer warranted—
+(b)(1) Whenever the Secretary determines under section 1118(c) <sup>1</sup> of this title that a presumption of service connection previously established under this section is no longer warranted—
 
 &emsp;(A) a veteran who was awarded compensation under this section on the basis of the presumption shall continue to be entitled to receive compensation under this section on that basis; and
 
@@ -24,7 +18,7 @@
 
 (2) This subsection shall cease to be effective on September 30, 2011.
 
-(d)(1) The Secretary shall prescribe regulations to carry out this section.
+(c)(1) The Secretary shall prescribe regulations to carry out this section.
 
 (2) Those regulations shall include the following:
 
@@ -34,9 +28,11 @@
 
 &emsp;(C) A description of any relevant medical characteristic (such as a latency period) associated with each such illness.
 
+(d) If a Persian Gulf veteran at a medical facility of the Department presents with any one symptom associated with Gulf War Illness, the Secretary shall ensure that health care personnel of the Department use a disability benefits questionnaire, or successor questionnaire, designed to identify Gulf War Illness, in addition to any other diagnostic actions the personnel determine appropriate.
+
 (e) A disability for which compensation under this subchapter is payable shall be considered to be service connected for purposes of all other laws of the United States.
 
-(f) For purposes of this section, the term "Persian Gulf veteran" means a veteran who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
+(f) For purposes of this section, the term "Persian Gulf veteran" means a veteran who served on active duty in the Armed Forces in the Southwest Asia theater of operations, Afghanistan, Israel, Egypt, Turkey, Syria, or Jordan, during the Persian Gulf War.
 
 (g) For purposes of this section, signs or symptoms that may be a manifestation of an undiagnosed illness or a chronic multisymptom illness include the following:
 
@@ -76,11 +72,35 @@
 
 (3) The Secretary shall publish in the Federal Register a list of medical research projects sponsored by the Department for which service connection granted under this section or section 1118 of this title may not be terminated pursuant to paragraph (1).
 
-(Added Pub. L. 103–446, title I, §106(a)(1), Nov. 2, 1994, 108 Stat. 4650; amended Pub. L. 105–277, div. C, title XVI, §1602(c), Oct. 21, 1998, 112 Stat. 2681–744; Pub. L. 107–103, title II, §§202(a), (b)(1), (d)(1), 203(a), Dec. 27, 2001, 115 Stat. 988, 989; Pub. L. 109–233, title V, §503(1), June 15, 2006, 120 Stat. 415.)
+(i)(1) The Secretary shall take such actions as may be necessary to ensure that health care personnel of the Department are appropriately trained to effectively carry out this section.
+
+(2) Not less frequently than once each year, the Secretary shall submit to Congress a report on the actions taken by the Secretary to carry out paragraph (1).
+
+(Added Pub. L. 103–446, title I, §106(a)(1), Nov. 2, 1994, 108 Stat. 4650; amended Pub. L. 105–277, div. C, title XVI, §1602(c), Oct. 21, 1998, 112 Stat. 2681–744; Pub. L. 107–103, title II, §§202(a), (b)(1), (d)(1), 203(a), Dec. 27, 2001, 115 Stat. 988, 989; Pub. L. 109–233, title V, §503(1), June 15, 2006, 120 Stat. 415; Pub. L. 117–168, title IV, §405, Aug. 10, 2022, 136 Stat. 1783.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 1118(c) of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 117–168, title II, §202(d)(3)(A), Aug. 10, 2022, 136 Stat. 1775.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(1). Pub. L. 117–168, §405(a), substituted "became manifest to any degree at any time." for "became manifest—
+
+&emsp;"(A) during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
+
+&emsp;"(B) to a degree of 10 percent or more during the presumptive period prescribed under subsection (b)."
+
+Subsec. (a)(2)(C). Pub. L. 117–168, §405(b)(3), substituted "under subsection (c)" for "under subsection (d)".
+
+Subsecs. (b), (c). Pub. L. 117–168, §405(b)(1), (2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: "The Secretary shall prescribe by regulation the period of time following service in the Southwest Asia theater of operations during the Persian Gulf War that the Secretary determines is appropriate for presumption of service connection for purposes of this section. The Secretary's determination of such period of time shall be made following a review of any available credible medical or scientific evidence and the historical treatment afforded disabilities for which manifestation periods have been established and shall take into account other pertinent circumstances regarding the experiences of veterans of the Persian Gulf War."
+
+Subsec. (d). Pub. L. 117–168, §405(b)(2), (c), added subsec. (d) and redesignated former subsec. (d) as (c).
+
+Subsec. (f). Pub. L. 117–168, §405(d), inserted ", Afghanistan, Israel, Egypt, Turkey, Syria, or Jordan," after "operations".
+
+Subsec. (i). Pub. L. 117–168, §405(e), added subsec. (i).
 
 <b>2006</b>—Subsec. (h)(1). Pub. L. 109–233 substituted "notwithstanding" for "nothwithstanding".
 
@@ -266,7 +286,7 @@ Determinations of Associations Between Agents and Illnesses.—(1) For each agen
 
 "(f)
 
-Review of Potential Treatment Models for Certain Illnesses.—Under the agreement under subsection (b), the National Academy of Sciences shall separately review, for each chronic undiagnosed illness identified under subsection (c)(1)(B) and for any other chronic illness that the Academy determines to warrant such review, the available scientific data in orderto identify empirically valid models of treatment for such illnesses which employ successful treatment modalities for populations with similar symptoms.
+Review of Potential Treatment Models for Certain Illnesses.—Under the agreement under subsection (b), the National Academy of Sciences shall separately review, for each chronic undiagnosed illness identified under subsection (c)(1)(B) and for any other chronic illness that the Academy determines to warrant such review, the available scientific data in order to identify empirically valid models of treatment for such illnesses which employ successful treatment modalities for populations with similar symptoms.
 
 "(g)
 
@@ -350,7 +370,7 @@ Definitions.—In this section:
 
 #### Persian Gulf War Veterans' Benefits
 
-Pub. L. 103–446, title I, §§102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat. 4647–4650, 4652–4654, as amended by Pub. L. 104–262, title III, §352(a), Oct. 9, 1996, 110 Stat. 3210; Pub. L. 105–368, title I, §107, Nov. 11, 1998, 112 Stat. 3325; Pub. L. 106–117, title II, §205(b), (c), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 115–182, title I, §144(a)(3), June 6, 2018, 132 Stat. 1430, provided that:
+Pub. L. 103–446, title I, §§102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat. 4647–4650, 4652–4654, as amended by Pub.L. 104–262, title III, §352(a), Oct. 9, 1996, 110 Stat. 3210; Pub. L. 105–368, title I, §107, Nov. 11, 1998, 112 Stat. 3325; Pub. L. 106–117, title II, §205(b), (c), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 115–182, title I, §144(a)(3), June 6, 2018, 132 Stat. 1430, provided that:
 
 #### "SEC. 102. FINDINGS.
 
@@ -394,7 +414,7 @@ Uniform Medical Evaluation Protocol.—(1) The Secretary of Veterans Affairs sha
 
 "(B) The Secretary may enter into contracts with non-Department medical facilities for the provision of the evaluation under the protocol.
 
-"(C) In the case of a veteran whose residence is distant from a medical center described in subparagraph (A), the Secretary may provide the evaluation through a Department medical center described in that subparagraph and, in such a case, may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of section 111 of title 38, United States Code.
+"(C) In the case of a veteran whose residence is distant from a medical center described in subparagraph (A), the Secretary may provide the evaluation througha Department medical center described in that subparagraph and, in such a case, may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of section 111 of title 38, United States Code.
 
 "(4)(A) If the Secretary is unable to diagnose the symptoms or illness of a veteran provided an evaluation, or if the symptoms or illness of a veteran do not respond to treatment provided by the Secretary, the Secretary may use the authority in sections 1703A, 8111, and 8153 of title 38, United States Code, in order to provide for the veteran to receive diagnostic tests or treatment at a non-Department medical facility that may have the capability of diagnosing or treating the symptoms or illness of the veteran. The Secretary may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of section 111 of title 38, United States Code.
 
@@ -500,7 +520,7 @@ Persian Gulf Veteran.—For purposes of this section, a Persian Gulf veteran is 
 
 "(a)
 
-Study of Health Consequences of Persian Gulf Service.—If the National Academy of Sciences includes in the report required by section 706(b) of the Veterans Health Care Act of 1992 (Public Law 102–585) \[set out in a note under section 527 of this title\] a finding that there is a sound basis for an epidemiological study or studies on the health consequences of service in the Persian Gulf theater of operations during the Persian Gulf War and recommends the conduct of sucha study or studies, the Secretary of Veterans Affairs is authorized to carry out such study.
+Study of Health Consequences of Persian Gulf Service.—If the National Academy of Sciences includes in the report required by section 706(b) of the Veterans Health Care Act of 1992 (Public Law 102–585) \[set out in a note under section 527 of this title\] a finding that there is a sound basis for an epidemiological study or studies on the health consequences of service in the Persian Gulf theater of operations during the Persian Gulf War and recommends the conduct of such a study or studies, the Secretary of Veterans Affairs is authorized to carry out such study.
 
 "(b)
 
@@ -526,7 +546,7 @@ Section 106(c) of Pub. L. 103–446 directed Secretary of Veterans Affairs, not 
 
 #### Executive Order No. 12961
 
-Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, which established the Presidential Advisory Committee on Gulf War Veterans' Illnesses, was revoked by Ex. Ord. No. 13138, §3(g), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, which established the Presidential Advisory Committee on Gulf War Veterans' Illnesses, was revoked by Ex. Ord. No. 13138, §3(g), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13034. Extension of Presidential Advisory Committee on Gulf War Veterans' Illnesses
 
@@ -534,7 +554,7 @@ Ex. Ord. No. 13034, Jan. 30, 1997, 62 F.R. 5137, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Extension</i>. The Presidential Advisory Committee on Gulf War Veterans' Illnesses (the "Committee"), established pursuant to Executive Order 12961 \[set out above\] of May 26, 1995, is hereby extended for the purposes set forth herein. All provisions of that order relating to membership and administration shall remain in effect. All Committee appointments, as well as the President's designation of a Chairperson, shall remain in effect. The limitations set forth in section 2(c)–(e) and section 4(a) of Executive Order 12961 shall also remain in effect. The Committee shall remain subject to the Federal Advisory Committee Act, as amended, 5 U.S.C. App.
+Section 1. <i>Extension</i>. The Presidential Advisory Committee on Gulf War Veterans' Illnesses (the "Committee"), established pursuant to Executive Order 12961 \[formerly set out above\] of May 26, 1995, is hereby extended for the purposes set forth herein. All provisions of that order relating to membership and administration shall remain in effect. All Committee appointments, as well as the President's designation of a Chairperson, shall remain in effect. The limitations set forth in section 2(c)–(e) and section 4(a) of Executive Order 12961 shall also remain in effect. The Committee shall remain subject to the Federal Advisory Committee Act, as amended, \[former\] 5 U.S.C. App. \[see 5 U.S.C. 1001 et seq.\].
 
 Sec. 2. <i>Functions</i>. (a) The Committee shall report to the President through the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Health and Human Services.
 
@@ -555,4 +575,6 @@ Sec. 3. <i>General Provisions</i>. (a) The Committee shall terminate 30 days aft
 (b) This order is intended only to improve the internal management of the executive branch and it is not intended to create any right, benefit or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

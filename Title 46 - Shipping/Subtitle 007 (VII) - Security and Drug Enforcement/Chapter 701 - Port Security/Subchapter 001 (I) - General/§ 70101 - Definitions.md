@@ -4,7 +4,7 @@ For the purpose of this chapter:
 
 &emsp;(1) The term "Area Maritime Transportation Security Plan" means an Area Maritime Transportation Security Plan prepared under section 70103(b).
 
-&emsp;(2) The term "cybersecurity risk" has the meaning given the term in section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148).<sup>1</sup>
+&emsp;(2) The term "cybersecurity risk" has the meaning given the term in section 2200 of the Homeland Security Act of 2002.
 
 &emsp;(3) The term "facility" means any structure or facility of any kind located in, on, under, or adjacent to any waters subject to the jurisdiction of the United States.
 
@@ -20,15 +20,17 @@ For the purpose of this chapter:
 
 &emsp;(7) The term "transportation security incident" means a security incident resulting in a significant loss of life, environmental damage, transportation system disruption, or economic disruption in a particular area. In this paragraph, the term "economic disruption" does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.
 
-(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2068; amended Pub. L. 109–347, title I, §124, Oct. 13, 2006, 120 Stat. 1900; Pub. L. 115–254, div. J, §1805(b), Oct. 5, 2018, 132 Stat. 3534.)
+(Added Pub. L. 107–295, title I, §102(a), Nov. 25, 2002, 116 Stat. 2068; amended Pub. L. 109–347, title I, §124, Oct. 13, 2006, 120 Stat. 1900; Pub. L. 115–254, div. J, §1805(b), Oct. 5, 2018, 132 Stat. 3534; Pub. L. 117–263, div. G, title LXXI, §7143(d)(10), Dec. 23, 2022, 136 Stat. 3664.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148), referred to in par. (2), was originally section 226 of title II of Pub. L. 107–296, as added Pub. L. 113–282, §3(a), Dec. 18, 2014, 128 Stat. 3066; renumbered §227 and amended Pub. L. 114–113, div. N, title II, §§203, 223(a)(3), Dec. 18, 2015, 129 Stat. 2957, 2963; Pub. L. 114–328, div. A, title XVIII, §1841(b), Dec. 23, 2016, 130 Stat. 2663, and was renumbered title XXII, §2209 of Pub. L. 107–296 by Pub. L. 115–278, §2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and transferred to section 659 of Title 6, Domestic Security.
+Section 2200 of the Homeland Security Act of 2002, referred to in par. (2), is classified to section 650 of Title 6, Domestic Security.
 
 #### Amendments
+
+<b>2022</b>—Par. (2). Pub. L. 117–263 substituted "section 2200 of the Homeland Security Act of 2002" for "section 227 of the Homeland Security Act of 2002 (6 U.S.C. 148)".
 
 <b>2018</b>—Pars. (2) to (7). Pub. L. 115–254 added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively.
 
@@ -94,7 +96,7 @@ Training.—The Secretary, acting through the Commandant and in consultation wit
 
 "(d)
 
-Coordination.—The Secretary, acting through the Commandant, shall coordinate the Program with other similar border security and antiterrorism programs within the Department of Homeland Security.
+Coordination.—The Secretary, acting through the Commandant, shall coordinate the Program withother similar border security and antiterrorism programs within the Department of Homeland Security.
 
 "(e)
 
@@ -138,7 +140,7 @@ Matters to be included.—The study conducted under this subsection shall includ
 
 &emsp;&emsp;&emsp;"(vii) the extent of resource, training, and equipment differences between State and local law enforcement entities and the Coast Guard units engaged in enforcing Coast Guard-imposed security zones around vessels transiting to, through, or from United States ports or conducting security patrols in United States ports;
 
-&emsp;&emsp;"(C) recommendations for risk-based security measures to improve waterside security of vesselscarrying, and waterfront facilities handling, especially hazardous cargo; and
+&emsp;&emsp;"(C) recommendations for risk-based security measures to improve waterside security of vessels carrying, and waterfront facilities handling, especially hazardous cargo; and
 
 &emsp;&emsp;"(D) identification of security funding alternatives, including an analysis of the potential for cost-sharing by the public and private sectors as well as any challenges associated with such cost-sharing.
 
@@ -300,7 +302,7 @@ Pub. L. 107–295, title I, §101, Nov. 25, 2002, 116 Stat. 2066, provided that:
 
 #### Maritime Security Professional Training
 
-Pub. L. 107–295, title I, §109, Nov. 25, 2002, 116 Stat. 2090, provided that:
+Pub. L. 107–295, title I, §109, Nov. 25, 2002, 116 Stat. 2090, as amended by Pub. L. 117–286, §4(a)(293), Dec. 27, 2022, 136 Stat. 4338, provided that:
 
 "(a)
 
@@ -312,7 +314,7 @@ Development of standards.—Not later than 6 months after the date of enactment 
 
 &emsp;"(2)
 
-Secretary to consult on standards.—In developing standards under this section, the Secretary may, without regard to the Federal Advisory Committee Act (5 U.S.C. App.), consult with the Federal Law Enforcement Training Center, the United States Merchant Marine Academy's Global Maritime and Transportation School, the Maritime Security Council, the International Association of Airport and Port Police, the National Cargo Security Council, and any other Federal, State, or local government or law enforcement agency or private organization or individual determined by the Secretary to have pertinent expertise.
+Secretary to consult on standards.—In developing standards under this section, the Secretary may, without regard to chapter 10 of title 5, United States Code, consult with the Federal Law Enforcement Training Center, the United States Merchant Marine Academy's Global Maritime and Transportation School, the Maritime Security Council, the International Association of Airport and Port Police, the National Cargo Security Council, and any other Federal, State, or local government or law enforcement agency or private organization or individual determined by the Secretary to have pertinent expertise.
 
 "(b)
 
@@ -360,7 +362,7 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 #### Report on Training Center
 
-Pub. L. 107–295, title I, §110(b), Nov. 25, 2002, 116 Stat. 2091, provided that: "The Commandant of the United States Coast Guard, in conjunction with the Secretary of the Navy, shall submit to Congress a report, at the time they submit their fiscal year 2005 budget, on the life cycle costs and benefits of creating a Center for Coastal and Maritime Security. The purpose of the Center would be to provide an integrated training complex to prevent and mitigate terrorist threats against coastal and maritime assets of the United States, including ports, harbors, ships, dams, reservoirs, and transport nodes."
+Pub. L. 107–295, title I, §110(b), Nov. 25, 2002, 116 Stat. 2091, provided that: "The Commandant of the United States Coast Guard, in conjunction with the Secretary of the Navy, shall submit to Congress a report, at the time they submit their fiscal year 2005 budget, on thelife cycle costs and benefits of creating a Center for Coastal and Maritime Security. The purpose of the Center would be to provide an integrated training complex to prevent and mitigate terrorist threats against coastal and maritime assets of the United States, including ports, harbors, ships, dams, reservoirs, and transport nodes."
 
 #### Performance Standards
 
@@ -373,6 +375,4 @@ Pub. L. 107–295, title I, §111, Nov. 25, 2002, 116 Stat. 2092, provided that:
 #### Report on Foreign-flag Vessels
 
 Pub. L. 107–295, title I, §112, Nov. 25, 2002, 116 Stat. 2092, which required the Secretary of the department in which the Coast Guard is operating to provide an annual report regarding all nations whose flag vessels have entered United States ports in the previous year, a separate list of those nations whose registered flag vessels present certain irregularities, actions taken to improve transparency and security of vessel registration procedures in those nations, and recommendations for legislative or other actions to improve security of United States ports, was repealed by Pub. L. 111–207, §4(a)(2), July 27, 2010, 124 Stat. 2251.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@
 
 #### (2) Regulations required
 
-&emsp;Before the end of the 180-day period beginning on September 23, 1994, each appropriate Federal banking agency shall prescribe the regulations developed pursuant to paragraph (1)(B).
+&emsp;Before the end of the 180-day period beginning on September 23, 1994, each appropriate Federal banking agency shall prescribe theregulations developed pursuant to paragraph (1)(B).
 
 #### (b) Regulations required
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Assistance Relating to Certain Non-defense Contracts.—The procurement technical assistance furnished by eligible entities assisted by the Department of Defense under this chapter may include technical assistance relating tocontracts entered into with (1) Federal departments and agencies other than the Department of Defense, and (2) State and local governments.
+Assistance Relating to Certain Non-defense Contracts.—The procurement technical assistance furnished by eligible entities assisted by the Department of Defense under this chapter may include technical assistance relating to contracts entered into with (1) Federal departments and agencies other than the Department of Defense, and (2) State and local governments.
 
 (b)
 
@@ -22,7 +22,7 @@ Education on Requirements Applicable to Small Businesses Under Certain Regulatio
 
 #### References in Text
 
-The Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, referred to in subsec. (b), is div. D of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2658. For complete classification of div. D to the Code, see Short Title note set out under section 4801 of this title and Tables.
+The Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, referred to in subsec. (b), is div. D of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2658. For complete classification of div. D to the Code, see ShortTitle note set out under section 4801 of this title and Tables.
 
 #### Amendments
 

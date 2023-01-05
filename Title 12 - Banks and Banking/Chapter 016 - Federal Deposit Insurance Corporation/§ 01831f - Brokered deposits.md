@@ -114,7 +114,7 @@ An insured depository institution that is undercapitalized, as defined in sectio
 
 #### (1) In general
 
-&emsp;Reciprocal deposits of an agent institution shall not be considered to be funds obtained, directly or indirectly, by or through a deposit broker to the extent that the total amount of such reciprocal deposits does not exceed the lesser of—
+&emsp;Reciprocal deposits of an agent institution shall not be considered to be funds obtained,directly or indirectly, by or through a deposit broker to the extent that the total amount of such reciprocal deposits does not exceed the lesser of—
 
 &emsp;&emsp;(A) $5,000,000,000; or
 

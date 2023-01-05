@@ -48,7 +48,7 @@
 
 &emsp;(16) the level of tax expenditures under existing law in the tax expenditures budget (as defined in section 3(a)(3) of the Congressional Budget Act of 1974 (2 U.S.C. 622(a)(3)) for the fiscal year for which the budget is submitted, considering projected economic factors and changes in the existing levels based on proposals in the budget.
 
-&emsp;(17) information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for grants, contracts, and other payments under each program for which there is an authorization of appropriations for that following fiscal year when the appropriations are authorized to be included in an appropriation law for the fiscal year before the fiscal year in which the appropriation is to be available for obligation.
+&emsp;(17) information on estimates of appropriations for the fiscal year following the fiscalyear for which the budget is submitted for grants, contracts, and other payments under each program for which there is an authorization of appropriations for that following fiscal year when the appropriations are authorized to be included in an appropriation law for the fiscal year before the fiscal year in which the appropriation is to be available for obligation.
 
 &emsp;(18) a comparison of the total amount of budget outlays for the prior fiscal year, estimated in the budget submitted for that year, for each major program having relatively uncontrollable outlays with the total amount of outlays for that program in that year.
 
@@ -74,7 +74,7 @@
 
 &emsp;(24) recommendations on the return of Government capital to the Treasury by a mixed-ownership corporation (as defined in section 9101(2) of this title) that the President decides are desirable.
 
-&emsp;(25) a separate appropriation account for appropriations for each Office of Inspector General of an establishment defined under section 11(2) <sup>1</sup> of the Inspector General Act of 1978.
+&emsp;(25) a separate appropriation account for appropriations for each Office of Inspector General of an establishment defined under section 401 of title 5.
 
 &emsp;(26) a separate statement of the amount of appropriations requested for the Office of National Drug Control Policy and each program of the National Drug Control Program.
 
@@ -112,7 +112,7 @@
 
 &emsp;(36) as supplementary materials, a separate analysis of the budgetary effects for all prior fiscal years, the current fiscal year, the fiscal year for which the budget is submitted, and ensuing fiscal years of the actions the Secretary of the Treasury has taken or plans to take using any authority provided in the Emergency Economic Stabilization Act of 2008, including—
 
-&emsp;&emsp;(A) an estimate of the current value of all assets purchased, sold, and guaranteed underthe authority provided in the Emergency Economic Stabilization Act of 2008 using methodology required by the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and section 123 of the Emergency Economic Stabilization Act of 2008;
+&emsp;&emsp;(A) an estimate of the current value of all assets purchased, sold, and guaranteed under the authority provided in the Emergency Economic Stabilization Act of 2008 using methodology required by the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and section 123 of the Emergency Economic Stabilization Act of 2008;
 
 &emsp;&emsp;(B) an estimate of the deficit, the debt held by the public, and the gross Federal debt using methodology required by the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008;
 
@@ -156,7 +156,7 @@
 
 &emsp;(C) an identification and analysis of the principal policy issues that affect estimated public civilian capital investment needs for each major program; and
 
-&emsp;(D) an identification and analysis of factors that affect estimated public civilian capital investment needs for each major program, including but not limited to the following factors:
+&emsp;(D) an identification and analysis of factors that affect estimated public civilian capitalinvestment needs for each major program, including but not limited to the following factors:
 
 &emsp;&emsp;(i) economic assumptions;
 
@@ -252,7 +252,7 @@
 
 (3) In this subsection, the term "budget justification materials" has the meaning given that term in section 3(b)(2) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, §2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, §11(a), Jan. 4, 2011, 124 Stat. 3881; Pub. L. 113–235, div. I, title II, §244(d), Dec. 16, 2014, 128 Stat. 2569; Pub. L. 114–315, title VI, §601(b), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–31, div. E, title VI, §630(a), May 5, 2017, 131 Stat. 375; Pub. L. 117–40, §2(b), Sept. 24, 2021, 135 Stat. 338.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, §2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, §11(a), Jan. 4, 2011, 124 Stat. 3881; Pub. L. 113–235, div. I, title II, §244(d), Dec. 16, 2014, 128 Stat. 2569; Pub. L. 114–315, title VI, §601(b), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–31, div. E, title VI, §630(a), May 5, 2017, 131 Stat. 375; Pub. L. 117–40, §2(b), Sept. 24, 2021, 135 Stat. 338; Pub. L. 117–286, §4(b)(50), Dec. 27, 2022, 136 Stat. 4348.)
 
 Historical and Revision Notes<br>1982
 
@@ -410,11 +410,9 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (a)(23), 
 
 The Federal Mine Safety and Health Act of 1977, referred to in subsec. (a)(23), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290, which is classified principally to chapter 22 (§801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 30 and Tables.
 
-Section 11(2) of the Inspector General Act of 1978, referred to in subsec. (a)(25), is section 11(2) of Pub. L. 95–452, which was renumbered section 12(2) of the Act by Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305, and is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Section 5 of the Federal Workforce Restructuring Act of 1994, referred to in subsec. (a)(30), is section 5 of Pub. L. 103–226, which is set out as a note under section 3101 of Title 5, Government Organization and Employees.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a)(32) and (f), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Section 257(b)(2) of the Act is classified to section 907(b)(2) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a)(32) and (f), is titleII of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Section 257(b)(2) of the Act is classified to section 907(b)(2) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 900 of Title 2 and Tables.
 
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(36), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§5201 et seq.) of Title 12, Banks and Banking. Section 123 of the Act is classified to section 5232 of Title 12. For complete classification of this Act to the Code, see Short Title note set out under section 5201 of Title 12 and Tables.
 
@@ -429,6 +427,8 @@ Section 3 of the Federal Funding Accountability and Transparency Act of 2006, re
 The date of enactment of this subsection, referred to in subsec. (i)(2)(B), is the date of enactment of Pub. L. 117–40, which was approved Sept. 24, 2021.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(25). Pub. L. 117–286 substituted "section 401 of title 5." for "section 11(2) of the Inspector General Act of 1978."
 
 <b>2021</b>—Subsec. (i). Pub. L. 117–40 added subsec. (i).
 
@@ -498,7 +498,7 @@ Subsec. (f). Pub. L. 101–508, §13112(c)(2), amended subsec. (f) generally, su
 
 "(2) The deficit set forth in the budget so transmitted for any fiscal year shall not exceed the maximum deficit amount for such fiscal year as determined under paragraph (7) of section 3 of the Congressional Budget and Impoundment Control Act of 1974, with budget outlays and Federal revenues at such levels as the President may consider most desirable and feasible.
 
-"(3) The budget transmitted pursuant to subsection (a) for a fiscal year shall include a budget baseline estimate made in accordance with section 251(a)(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 and using economic and technical assumptions consistent with the current services budget submitted under section 1109 for the fiscal year. If such budget baseline estimate differs from the estimate in the current services budget, the President shall explain the differences. The budget transmitted pursuant to subsection (a) for such fiscal year shall include the information required by section 251(a)(2) of such Act (other than account-level detail) assuming that the deficit in such budget baseline were the amount estimated by the Director of the Office of Management and Budget onAugust 25 of the calendar year in which the fiscal year begins.
+"(3) The budget transmitted pursuant to subsection (a) for a fiscal year shall include a budget baseline estimate made in accordance with section 251(a)(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 and using economic and technical assumptions consistent with the current services budget submitted under section 1109 for the fiscal year. If such budget baseline estimate differs from the estimate in the current services budget, the President shall explain the differences. The budget transmitted pursuant to subsection (a) for such fiscal year shall include the information required by section 251(a)(2) of such Act (other than account-level detail) assuming that the deficit in such budget baseline were the amount estimated by the Director of the Office of Management and Budget on August 25 of the calendar year in which the fiscal year begins.
 
 "(4) Paragraphs (1) and (2) shall not apply with respect to fiscal year 1989 if the budget transmitted for such fiscal year provides for deficit reduction from a budget baseline deficit for such fiscal year (as defined by section 251(a)(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 and based on laws in effect on January 1, 1988) equal to or greater than $36,000,000,000.
 
@@ -572,7 +572,7 @@ Amendment by Pub. L. 100–690 effective Jan. 21, 1989, and repealed Sept. 30, 1
 
 Section 5303 of Pub. L. 100–418 provided that: "The amendment made by section 5301 \[amending this section\] shall be effective for fiscal years 1989, 1990, 1991, and 1992, and shall be fully reflected in the budgets submitted by the President as required by section 1105(a) of title 31, United States Code, for each such fiscal year, and the amendment made by section 5302 \[amending section 632 of Title 2, The Congress\] shall be effective for fiscal years 1989, 1990, 1991, and 1992."
 
-Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 \[Inspector General Act of 1978\] in the Appendix to Title 5, Government Organization and Employees.
+Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as a note under section 5315 of Title 5, Government Organization and Employees.
 
 #### Effective and Termination Dates of 1985 Amendment
 
@@ -582,7 +582,7 @@ Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L.
 
 Pub. L. 111–291, title IV, §415, Dec. 8, 2010, 124 Stat. 3121, provided that: "If the Secretary does not publish a statement of findings under section 410(e) \[124 Stat. 3112\] not later than March 31, 2016, or the extended date agreed to by the Tribe and the Secretary, after reasonable notice to the State of Montana, as applicable—
 
-&emsp;"(1) this title \[see Short Title of 2010 Amendment note set out under section 1101 of this title\] is repealed effective April 1, 2016, or the day after the extended date agreed to by the Tribe and the Secretaryafter reasonable notice to the State of Montana, whichever is later;
+&emsp;"(1) this title \[see Short Title of 2010 Amendment note set out under section 1101 of this title\] is repealed effective April 1, 2016, or the day after the extended date agreed to by the Tribe and the Secretary after reasonable notice to the State of Montana, whichever is later;
 
 &emsp;"(2) any action taken by the Secretary and any contract or agreement pursuant to the authority provided under any provision of this title shall be void;
 
@@ -612,9 +612,9 @@ Pub. L. 115–414, §2, Jan. 3, 2019, 132 Stat. 5430, provided that:
 
 Definition.—In this section, the term 'agency' means—
 
-&emsp;"(1) a designated Federal entity, as defined in section 8G(a)(2) of the Inspector General Act of 1978 (5 U.S.C. App.);
+&emsp;"(1) a designated Federal entity, as defined in section 8G(a)(2) of the Inspector General Act of 1978 (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 415(a)(1)\];
 
-&emsp;"(2) an establishment, as defined in section 12(2) of the Inspector General Act of 1978 (5 U.S.C. App.); and
+&emsp;"(2) an establishment, as defined in section 12(2) of the Inspector General Act of 1978 (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 401(1)\]; and
 
 &emsp;"(3) legislative branch agencies, including the Government Publishing Office, the Library of Congress, the Office of the Architect of the Capitol, and the United States Capitol Police.
 
@@ -646,7 +646,7 @@ Required Reports.—In the annual budget justification submitted to Congress, as
 
 &emsp;&emsp;&emsp;"(i) the reports submitted under paragraphs (1) and (2);
 
-&emsp;&emsp;&emsp;"(ii) the semiannual reports submitted by the Office of Inspector General of the agency under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.); and
+&emsp;&emsp;&emsp;"(ii) the semiannual reports submitted by the Office of Inspector General of the agency under section 5 of the Inspector General Act of 1978 (\[former\] 5 U.S.C. App.) \[see 5 U.S.C. 405\]; and
 
 &emsp;&emsp;&emsp;"(iii) reports submitted by the Government Accountability Office relating to public recommendations that are designated by the Government Accountability Office as 'open' or 'closed, unimplemented'; and
 
@@ -690,7 +690,7 @@ Administrative Expenses.—
 
 &emsp;"(1)
 
-In general.—All agencies shall include a separate category for administrative expenses when submitting their appropriation requests to the Office ofManagement and Budget for fiscal year 2011 and each fiscal year thereafter.
+In general.—All agencies shall include a separate category for administrative expenses when submitting their appropriation requests to the Office of Management and Budget for fiscal year 2011 and each fiscal year thereafter.
 
 &emsp;"(2)
 
@@ -762,7 +762,7 @@ Floor Consideration in the House of Discharged Legislation.—
 
 &emsp;"(1) In the House, not later than 3 legislative days after any committee has been discharged from further consideration of legislation under subsection (c), the Speaker shall resolve the House into the Committee of the Whole for consideration of the legislation.
 
-&emsp;"(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that ithas come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
+&emsp;"(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally betweenthose favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
 
 &emsp;"(3) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any such legislation shall be decided without debate.
 
@@ -866,7 +866,7 @@ Pub. L. 107–71, title I, §142, Nov. 19, 2001, 115 Stat. 644, provided that: "
 
 #### Annual Statement and Report on Rules and Regulations
 
-Pub. L. 106–554, §1(a)(3) \[title VI, §624\], Dec. 21, 2000, 114 Stat. 2763, 2763A–161, provided that:
+Pub. L. 106–554, §1(a)(3) \[title VI, §624\], Dec. 21, 2000, 114 Stat. 2763, 2763A–161, as amended by Pub. L. 117–286, §4(a)(194), Dec. 27, 2022, 136 Stat. 4327, provided that:
 
 "(a)
 
@@ -898,7 +898,7 @@ Guidelines.—To implement this section, the Director of the Office of Managemen
 
 "(d)
 
-Peer Review.—The Director of the Office of Management and Budget shall provide for independent and external peer review of the guidelines and each accounting statement and associated report under this section. Such peer review shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.)."
+Peer Review.—The Director of the Office of Management and Budget shall provide for independent and external peer review of the guidelines and each accounting statement and associated report under this section. Such peer review shall not be subject to chapter 10 of title 5, United States Code."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -950,11 +950,11 @@ Report.—Not later than October 1, 1988, the Secretary of the department in whi
 
 &emsp;"(3) a description of any impediments (statutory or otherwise) to converting the operations of the Coast Guard to a 2-year budget cycle beginning with fiscal year 1990."
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Water and Sewer Services Furnished to Government Facilities in District of Columbia
 
-Pub. L. 100–202, §101(c) \[title I, §136\], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: "After the effective date of this Joint Resolution \[Dec. 22, 1987\], the President shall include, without change, in each annual budget submitted to the Congress under section 1105 of title 31, United States Code, the values estimated bythe Mayor of the District of Columbia for water and water services and sanitary sewer services furnished to facilities of the United States Government under sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended (D.C. Code, sections 43–1552, 43–1612)."
+Pub. L. 100–202, §101(c) \[title I, §136\], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: "After the effective date of this Joint Resolution \[Dec. 22, 1987\], the President shall include, without change, in each annual budget submitted to the Congress under section 1105 of title 31, United States Code, the values estimated by the Mayor of the District of Columbia for water and water services and sanitary sewer services furnished to facilities of the United States Government under sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended (D.C. Code, sections 43–1552, 43–1612)."
 
 #### Two-Year Budget Cycle for Department of Defense
 
@@ -1007,6 +1007,4 @@ By the authority vested in me as President by the Constitution and the laws of t
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

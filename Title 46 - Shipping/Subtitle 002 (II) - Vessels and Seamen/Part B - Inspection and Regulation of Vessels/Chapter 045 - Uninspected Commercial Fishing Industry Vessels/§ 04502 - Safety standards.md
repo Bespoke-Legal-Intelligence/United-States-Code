@@ -28,7 +28,7 @@
 
 &emsp;(A) alerting and locating equipment, including emergency position indicating radio beacons;
 
-&emsp;(B) subject to paragraph (3), a survival craft that ensures that no part of an individual is immersed in water sufficient to accommodate all individuals on board;
+&emsp;(B) subject to paragraph (3), a survival craft that ensures that no part of an individual isimmersed in water sufficient to accommodate all individuals on board;
 
 &emsp;(C) at least one readily accessible immersion suit for each individual on board that vessel when operating on the waters described in section 3102 of this title;
 
@@ -88,7 +88,17 @@
 
 &emsp;(1) shall require the individual in charge of a vessel described in subsection (b) to keep a record of equipment maintenance, and required instruction and drills;
 
-&emsp;(2) shall examine at dockside a vessel described in subsection (b) at least once every 5 years, but may require an exam at dockside every 2 years for certain vessels described in subsection (b) if requested by the owner or operator; and
+&emsp;(2) shall examine at dockside a vessel described in subsection (b) at least once every 5 years, but may require an exam at dockside every 2 years for vessels described in subsection (b) if—
+
+&emsp;&emsp;(A) requested by an owner or operator; or
+
+&emsp;&emsp;(B) the vessel is—
+
+&emsp;&emsp;&emsp;(i) at least 50 feet overall in length;
+
+&emsp;&emsp;&emsp;(ii) built before July 1, 2013; and
+
+&emsp;&emsp;&emsp;(iii) 25 years of age or older; and
 
 &emsp;(3) shall issue a certificate of compliance to a vessel meeting the requirements of this chapter and satisfying the requirements in paragraph (2).
 
@@ -130,7 +140,7 @@
 
 (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2021 for grants under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for fiscal year 2023 for grants under this subsection.
 
 (j)(1) The Secretary of Health and Human Services shall establish a Fishing Safety Research Grant Program to provide funding to individuals in academia, members of non-profit organizations and businesses involved in fishing and maritime matters, and other persons with expertise in fishing safety, to conduct research on methods of improving the safety of the commercial fishing industry, including vessel design, emergency and survival equipment, enhancement of vessel monitoring systems, communications devices, de-icing technology, and severe weather detection.
 
@@ -138,15 +148,21 @@
 
 (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2021 for activities under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for fiscal year 2023 for activities under this subsection.
 
 (k) For the purposes of this section, the term "auxiliary craft" means a vessel that is carried onboard a fishing vessel and is normally used to support fishing operations.
 
-(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat. 3918; Pub. L. 105–383, title III, §301(b)(5), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §604(a), Oct. 15, 2010, 124 Stat. 2962; Pub. L. 112–213, title III, §305(a), (b), Dec. 20, 2012, 126 Stat. 1564; Pub. L. 113–281, title III, §309, Dec. 18, 2014, 128 Stat. 3045; Pub. L. 115–282, title V, §§504–506, Dec. 4, 2018, 132 Stat. 4271; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8321(a), (b), Jan. 1, 2021, 134 Stat. 4701.)
+(Added Pub. L. 98–364, title IV, §402(7)(C), July 17, 1984, 98 Stat. 447; amended Pub. L. 98–557, §33(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 100–424, §2(a), Sept. 9, 1988, 102 Stat. 1585; Pub. L. 101–595, title VI, §602(c), Nov. 16, 1990, 104 Stat. 2990; Pub. L. 104–324, title III, §307, Oct. 19, 1996, 110 Stat. 3918; Pub. L. 105–383, title III, §301(b)(5), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 111–281, title VI, §604(a), Oct. 15, 2010, 124 Stat. 2962; Pub. L. 112–213, title III, §305(a), (b), Dec. 20, 2012, 126 Stat. 1564; Pub. L. 113–281, title III, §309, Dec. 18, 2014, 128 Stat. 3045; Pub. L. 115–282, title V, §§504–506, Dec. 4, 2018, 132 Stat. 4271; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8321(a), (b), Jan. 1, 2021, 134 Stat. 4701; Pub. L. 117–263, div. K, title CXIII, §11328(a), title CXV, §11509(a)(1), Dec. 23, 2022, 136 Stat. 4098, 4137.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(2). Pub. L. 117–263, §11509(a)(1), substituted "vessels described in subsection (b) if—" and subpars. (A) and (B) for "certain vessels described in subsection (b) if requested by the owner or operator; and".
+
+Subsec. (i)(4). Pub. L. 117–263, §11328(a)(1), substituted "fiscal year 2023" for "each of fiscal years 2018 through 2021".
+
+Subsec. (j)(4). Pub. L. 117–263, §11328(a)(2), substituted "fiscal year 2023" for "each of fiscal years 2018 through 2021".
 
 <b>2021</b>—Subsec. (i)(3). Pub. L. 116–283, §8321(a)(1), substituted "75 percent" for "50 percent".
 
@@ -202,7 +218,7 @@ Subsec. (b)(1). Pub. L. 111–281, §604(a)(2)(A), struck out "documented" befor
 
 Subsec. (b)(1)(A). Pub. L. 111–281, §604(a)(2)(B), substituted "3 nautical miles from the baseline from which the territorial sea of the United States is measured or beyond 3 nautical miles from the coastline of the Great Lakes" for "the Boundary Line".
 
-Subsec. (b)(2)(B). Pub. L. 111–281, §604(a)(2)(C), substituted "a survival craft that ensures that no part ofan individual is immersed in water" for "lifeboats or liferafts".
+Subsec. (b)(2)(B). Pub. L. 111–281, §604(a)(2)(C), substituted "a survival craft that ensures that no part of an individual is immersed in water" for "lifeboats or liferafts".
 
 Subsec. (b)(2)(D). Pub. L. 111–281, §604(a)(2)(D), inserted "marine" before "radio communications".
 
@@ -287,6 +303,22 @@ Pub. L. 101–595, title VI, §602(f), Nov. 16, 1990, 104 Stat. 2992, provided t
 &emsp;&emsp;"(C) did not have a load line assigned at any time before the date of enactment of this Act.
 
 &emsp;"(4) The requirements imposed by section 8702(b)(2) of title 46, United States Code, (as amended by subsection (e)(2)(B) of this section) are effective 1 year after the date of enactment of this Act."
+
+#### Construction of 2022 Amendment
+
+Pub. L. 117–263, div. K, title CXV, §11509(b), Dec. 23, 2022, 136 Stat. 4137, provided that: "Nothing in this section \[amending this section and section 4503 of this title and repealing section 4503a of this title\] or the amendments made by this section shall be construed to affect or apply to any alternative compliance and safety agreement entered into by the Coast Guard that is in effect on the date of enactment of this Act \[Dec. 23, 2022\]."
+
+#### Improvements to Communication With Fishing Industry and Related Stakeholders
+
+Pub. L. 117–263, div. K, title CXIII, §11322, Dec. 23, 2022, 136 Stat. 4094, provided that:
+
+"(a)
+
+In General.—The Commandant \[of the Coast Guard\], in coordination with the National Commercial Fishing Safety Advisory Committee established by section 15102 of title 46, United States Code, shall develop a publicly accessible website that contains all information related to fishing industry activities, including vessel safety, inspections, enforcement, hazards, training, regulations (including proposed regulations), outages of the Rescue 21 system in Alaska and similar outages, and any other fishing-related activities.
+
+"(b)
+
+Automatic Communications.—The Commandant shall provide methods for regular and automatic email communications with stakeholders who elect, through the website developed under subsection (a), to receive such communications."
 
 #### Fishing Safety Grants
 

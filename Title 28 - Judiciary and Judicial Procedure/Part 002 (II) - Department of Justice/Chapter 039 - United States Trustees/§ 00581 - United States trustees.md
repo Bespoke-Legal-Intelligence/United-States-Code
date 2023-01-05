@@ -294,7 +294,7 @@ Judicial districts for the states of alabama and north carolina.—(A) Notwithst
 
 &emsp;"(I) In any judicial district in the State of Alabama or the State of North Carolina that has not made the election described in subparagraph (A), any person who is appointed under regulations issued by the Judicial Conference of the United States to administer estates in cases under title 11 of the United States Code may—
 
-&emsp;&emsp;"(i) establish, maintain, and supervise a panel of private trustees that are eligible and available toserve as trustees in cases under title 11, United States Code, and
+&emsp;&emsp;"(i) establish, maintain, and supervise a panel of private trustees that are eligible and available to serve as trustees in cases under title 11, United States Code, and
 
 &emsp;&emsp;"(ii) supervise the administration of cases and trustees in cases under chapters 7, 11, 12, and 13 of title 11, United States Code,
 
@@ -384,7 +384,7 @@ of Title 11.—The rules prescribed under section 2075 of title 28, United State
 
 #### "SEC. 306. SALARY OF INCUMBENT UNITED STATES TRUSTEES.
 
-"For service as a United States trustee in the period beginning on the effective date of this Act and ending on the expiration under section 301 of this Act of their respective terms of office, the salary payable to United States trustees serving in such offices on the effective date of this Act shall be fixed in accordance with section 587 of title 28, United States Code, as amended by section 114(a) of this Act.
+"For service as a United States trustee in the period beginning on the effective date of this Act and ending on the expiration under section 301 of this Act of their respective terms of office, the salary payable to United States trustees serving in such offices on the effectivedate of this Act shall be fixed in accordance with section 587 of title 28, United States Code, as amended by section 114(a) of this Act.
 
 #### "SEC. 307. PRESERVATION OF UNITED STATES TRUSTEE SYSTEM DURING PENDENCY OF LEGISLATION; REPEALER.
 
@@ -400,7 +400,7 @@ Conforming Amendment.—Section 408 of the Act of November 6, 1978 (Public Law 9
 
 "(a)
 
-Trustees in Bankruptcy Cases Under Chapter 7.—It is the sense of the Congress that individuals who are serving before the effective date of this Act, astrustees in cases under chapter 7 of title 11, United States Code, should be considered by United States trustees for appointment under section 586(a)(1) of title 28, United States Code, to the panels of private trustees that are established as a result of the amendments made by this Act \[see Short Title of 1986 Amendment note below\].
+Trustees in Bankruptcy Cases Under Chapter 7.—It is the sense of the Congress that individuals who are serving before the effective date of this Act, as trustees in cases under chapter 7 of title 11, United States Code, should be considered by United States trustees for appointment under section 586(a)(1) of title 28, United States Code, to the panels of private trustees that are established as a result of the amendments made by this Act \[see Short Title of 1986 Amendment note below\].
 
 "(b)
 
@@ -492,7 +492,7 @@ Availability to Certain Governmental Entities.—Unlimited access to information
 
 Fees for Other Users.—(1) The entity which is awarded a contract to provide the electronic case management system demonstrated under this project may, under guidelines established by the Director of the Executive Office for the United States Trustees in the provisions of such contract, collect reasonable fees from assets of the estate of the debtor in bankruptcy for providing notices and services to the court and trustees under the demonstration project.
 
-"(2) Access to information maintained in electronic case files pursuant to the demonstration project maybe provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordance with the guidelines established by the Director of the Executive Office for the United States Trustees in such contract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in section 589a of title 28, United States Code.
+"(2) Access to information maintained in electronic case files pursuant to the demonstration project may be provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordance with the guidelines established by the Director of the Executive Office for the United States Trustees in such contract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in section 589a of title 28, United States Code.
 
 "(h)
 

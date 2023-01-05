@@ -42,7 +42,7 @@ A prior section 8084 was renumbered section 9084 of this title.
 
 #### Amendments
 
-<b>2019</b>—Subsec. (b)(1). Pub. L. 116–92 substituted "general officers of the Marine Corps Reserve" for "generalofficers of the Marine Corps (as defined in section 8001(2))".
+<b>2019</b>—Subsec. (b)(1). Pub. L. 116–92 substituted "general officers of the Marine Corps Reserve" for "general officers of the Marine Corps (as defined in section 8001(2))".
 
 <b>2018</b>—Pub. L. 115–232, §807(a)(2), renumbered section 5144 of this title as this section.
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) not later than 180 days after March 12, 2020, submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan for—
 
-&emsp;&emsp;&emsp;(i) declassifying material, when feasible, to help share information regarding supply chain security risks with trusted providersof advanced communications service and trusted suppliers of communications equipment or services; and
+&emsp;&emsp;&emsp;(i) declassifying material, when feasible, to help share information regarding supply chain security risks with trusted providers of advanced communications service and trusted suppliers of communications equipment or services; and
 
 &emsp;&emsp;&emsp;(ii) expediting and expanding the provision of security clearances to facilitate information sharing regarding supply chain security risks with trusted providers of advanced communications service and trusted suppliers of communications equipment or services; and
 

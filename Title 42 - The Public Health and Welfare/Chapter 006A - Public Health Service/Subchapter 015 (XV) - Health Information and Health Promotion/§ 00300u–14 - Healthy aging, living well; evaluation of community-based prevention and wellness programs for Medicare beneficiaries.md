@@ -58,7 +58,7 @@
 
 #### (iii) Monitoring
 
-&emsp;&emsp;&emsp;Grantees under this section shall maintain records of screening results under thissubparagraph to establish the baseline data for monitoring the targeted population <sup>1</sup>
+&emsp;&emsp;&emsp;Grantees under this section shall maintain records of screening results under this subparagraph to establish the baseline data for monitoring the targeted population <sup>1</sup>
 
 #### (D) Clinical referral/treatment for chronic diseases
 

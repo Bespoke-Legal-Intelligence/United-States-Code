@@ -1,12 +1,12 @@
 ### §1344. Passenger carrier use
 
-(a)(1) Funds available to a Federal agency, by appropriation or otherwise, may be expended by the Federal agency for the maintenance, operation, or repair of any passenger carrier only to the extent that such carrier is used to provide transportation for official purposes. Notwithstanding any other provision of law, transporting any individual other than the individuals listed in subsections (b) and (c) of this section between such individual's residence and such individual's place of employment is not transportation for an official purpose.
+(a)(1) Funds available to a Federal agency, by appropriation or otherwise, may be expended bythe Federal agency for the maintenance, operation, or repair of any passenger carrier only to the extent that such carrier is used to provide transportation for official purposes. Notwithstanding any other provision of law, transporting any individual other than the individuals listed in subsections (b) and (c) of this section between such individual's residence and such individual's place of employment is not transportation for an official purpose.
 
 (2) For purposes of paragraph (1), transportation between the residence of an officer or employee and various locations that is—
 
 &emsp;(A) required for the performance of field work, in accordance with regulations prescribed pursuant to subsection (e) of this section, or
 
-&emsp;(B) essential for the safe and efficient performance of intelligence, counterintelligence, protective services, or criminal law enforcement duties,
+&emsp;(B) essential for the safe and efficient performance of intelligence, counterintelligence, protective services, or criminal law enforcement duties, or transportation of federally owned canines associated with force protection duties of any part of the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)),
 
 > is transportation for an official purpose, when approved in writing by the head of the Federal agency.
 
@@ -68,7 +68,7 @@
 
 &emsp;(C) coordinate with other Federal agencies to share, and otherwise avoid duplication of, transportation services provided under this subsection.
 
-(4) For purposes of any determination under chapter 81 of title 5 or chapter 171 of title 28, an individual shall not be considered to be in the"performance of duty" or "acting within the scope of his or her office or employment" by virtue of the fact that such individual is receiving transportation services under this subsection. Nor shall any time during which an individual uses such services be considered when calculating the hours of work or employment for that individual for purposes of title 5 of the United States Code, including chapter 55 of that title.
+(4) For purposes of any determination under chapter 81 of title 5 or chapter 171 of title 28, an individual shall not be considered to be in the "performance of duty" or "acting within the scope of his or her office or employment" by virtue of the fact that such individual is receiving transportation services under this subsection. Nor shall any time during which an individual uses such services be considered when calculating the hours of work or employment for that individual for purposes of title 5 of the United States Code, including chapter 55 of that title.
 
 (5)(A) The Administrator of General Services, after consultation with the appropriate agencies, shall prescribe any regulations necessary to carry out this subsection.
 
@@ -110,7 +110,7 @@
 
 (i) Notwithstanding section 410(a) of title 39, this section applies to the United States Postal Service.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 108–7, div. K, title IV, §423, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870; Pub. L. 109–59, title III, §3049(b)(1), (2), Aug. 10, 2005, 119 Stat. 1712, 1713; Pub. L. 111–350, §5(h)(4), Jan. 4, 2011, 124 Stat. 3849.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 924; Pub. L. 99–550, §1(a), Oct. 27, 1986, 100 Stat. 3067; Pub. L. 100–180, div. A, title XIII, §1314(d)(2), Dec. 4, 1987, 101 Stat. 1176; Pub. L. 100–202, §101(a) \[title IV, §407\], Dec. 22, 1987, 101 Stat. 1329, 1329–26; Pub. L. 101–510, div. A, title III, §326(b), Nov. 5, 1990, 104 Stat. 1531; Pub. L. 103–272, §4(f)(2), July 5, 1994, 108 Stat. 1363; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 108–7, div. K, title IV, §423, Feb. 20, 2003, 117 Stat. 526; Pub. L. 108–447, div. B, title I, §117, Dec. 8, 2004, 118 Stat. 2870; Pub. L. 109–59, title III, §3049(b)(1), (2), Aug. 10, 2005, 119 Stat. 1712, 1713; Pub. L. 111–350, §5(h)(4), Jan. 4, 2011, 124 Stat. 3849; Pub. L. 117–103, div. X, title III, §306, Mar. 15, 2022, 136 Stat. 966.)
 
 Historical and Revision Notes
 
@@ -153,6 +153,8 @@ Section 3502 of title 44, referred to in subsec. (h)(2)(H), which in par. (10) d
 Amendment by Pub. L. 104–91 is based on section 118 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2)(B). Pub. L. 117–103 inserted ", or transportation of federally owned canines associated with force protection duties of any part of the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003))" after "duties".
 
 <b>2011</b>—Subsec. (h)(2)(A). Pub. L. 111–350 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "a department (as such term is defined in section 18 of the Act of August 2, 1946 (41 U.S.C. 5a));".
 

@@ -14,7 +14,7 @@ In order to encourage the development of underwater parks and the administrative
 
 #### (b) Consultation
 
-Such guidelines shall be developed after consultation with appropriate public and private sector interests (including the Secretary of Commerce, the Advisory Council on Historic Preservation, sport divers, State Historic Preservation Officers, professional dive operators, salvors, archeologists, historic preservationists, and fishermen).
+Such guidelines shall be developed after consultation with appropriate public and privatesector interests (including the Secretary of Commerce, the Advisory Council on Historic Preservation, sport divers, State Historic Preservation Officers, professional dive operators, salvors, archeologists, historic preservationists, and fishermen).
 
 #### (c) Use of guidelines in developing legislation and regulations
 

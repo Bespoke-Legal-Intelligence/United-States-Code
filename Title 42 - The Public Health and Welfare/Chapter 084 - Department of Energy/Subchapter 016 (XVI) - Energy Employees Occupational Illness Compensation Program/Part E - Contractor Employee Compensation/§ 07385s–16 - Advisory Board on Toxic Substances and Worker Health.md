@@ -62,7 +62,7 @@ Not later than 60 days after submission to the Secretary of Labor of the Board's
 
 &emsp;(1) includes a statement of whether the Secretary accepts or rejects the Board's recommendations;
 
-&emsp;(2) if the Secretary accepts the Board's recommendations, describes the timeline for when those recommendations will be implemented; and
+&emsp;(2) if the Secretary accepts the Board's recommendations, describes the timeline forwhen those recommendations will be implemented; and
 
 &emsp;(3) if the Secretary does not accept the recommendations, describes the reasons the Secretary does not agree and provides all scientific research to the Board supporting that decision.
 
@@ -130,7 +130,7 @@ Sec. 3. <i>Functions</i>. (a) The Advisory Board shall advise the Secretary of L
 
 (b) To the extent necessary, the Advisory Board also shall coordinate exchanges of data and findings with the Advisory Board on Radiation and Worker Health, which was authorized by EEOICPA and established by Executive Order 13179 of December 7, 2000.
 
-Sec. 4. <i>Administration</i>. (a) The Secretary of Labor shall provide the Advisory Board with funding and administrative support, including the appointment of staff and, as the Secretary determines appropriate, authorization for the detail of Federal employees from within the Department of Labor and employment of outside contractors and specialists, to the extent permitted by law and within existing appropriations. The Secretary also shall perform the administrative functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App. 2), with respect to the Advisory Board.
+Sec. 4. <i>Administration</i>. (a) The Secretary of Labor shall provide the Advisory Board with funding and administrative support, including the appointment of staff and, as the Secretary determines appropriate, authorization for the detail of Federal employees from within the Department of Labor and employment of outside contractors and specialists, to the extent permitted by law and within existing appropriations. The Secretary also shall perform the administrative functions of the President under the Federal Advisory Committee Act, as amended (\[former\] 5 U.S.C. App. 2) \[see 5 U.S.C. 1001 et seq.\], with respect to the Advisory Board.
 
 (b) The Secretary of Labor shall designate a senior officer of the Department of Labor to serve as the Director of the staff of the Advisory Board.
 

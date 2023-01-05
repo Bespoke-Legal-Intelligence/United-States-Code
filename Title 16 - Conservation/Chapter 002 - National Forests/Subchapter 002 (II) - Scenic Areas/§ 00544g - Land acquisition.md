@@ -18,7 +18,7 @@
 
 &emsp;(A) on November 17, 1986, were used primarily for educational, religious, or charitable purposes, single-family residential purposes, farming, or grazing so long as the existing character of that use is not substantially changed or permitted for change;
 
-&emsp;(B) are located in counties with land use ordinances in which the Secretary has concurred pursuant to section 544f of this title, unless such lands are being used, or are in imminent danger of being used, in a manner incompatible with such ordinances;
+&emsp;(B) are located in counties with land use ordinances in which the Secretary has concurredpursuant to section 544f of this title, unless such lands are being used, or are in imminent danger of being used, in a manner incompatible with such ordinances;
 
 &emsp;(C) are within the boundaries of the Dodson/Warrendale Special Purchase Unit; or
 
@@ -178,7 +178,7 @@ Zig-Zag Area
 
 #### (B) On or after April 1, 2001
 
-&emsp;&emsp;Land within a special management area for which the landowner, on or after April 1,2001, makes a written bona fide offer to convey to the Secretary for fair market value shall be appraised subject to—
+&emsp;&emsp;Land within a special management area for which the landowner, on or after April 1, 2001, makes a written bona fide offer to convey to the Secretary for fair market value shall be appraised subject to—
 
 &emsp;&emsp;&emsp;(i) any zoning or land use restriction made in response to sections 544 to 544p of this title; and
 

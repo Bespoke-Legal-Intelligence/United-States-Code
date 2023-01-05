@@ -6,7 +6,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 180 days after December 20, 2019, and subject to paragraph (3),<sup>1</sup> the Director of National Intelligence shall make available to the public, the appropriate congressional committees, and the workforce of the intelligence community a report which includes aggregate demographic data and other information regarding the diversity and inclusion efforts of the workforce of the intelligence community.
+&emsp;Not later than 180 days after December 20, 2019, the Director of National Intelligence shall make available to the public, the appropriate congressional committees, and the workforce of the intelligence community a report which includes aggregate demographic data and other information regarding the diversity and inclusion efforts of the workforce of the intelligence community.
 
 #### (2) Contents
 
@@ -34,9 +34,15 @@
 
 #### (c) Updates
 
-After making available a report under subsection (b), the Director of National Intelligence shall annually provide a report (which may be provided as part of an annual report required under another provision of law) to the workforce of the intelligence community (including senior leadership), the public, and the appropriate congressional committees that includes—
+Not later than March 31 of each year, the Director of National Intelligence shall provide a report (which may be provided as part of an annual report required under another provision of law) to the workforce of the intelligence community (including senior leadership), the public, and the appropriate congressional committees that includes—
 
-&emsp;(1) demographic data and information on the status of diversity and inclusion efforts of the intelligence community;
+&emsp;(1) demographic data and information on the status of diversity and inclusion efforts of the intelligence community, including demographic data relating to—
+
+&emsp;&emsp;(A) the average years of service;
+
+&emsp;&emsp;(B) the average number of years of service for each level in the General Schedule, Senior Executive Service, Senior Intelligence Service, or equivalent; and
+
+&emsp;&emsp;(C) career categories;
 
 &emsp;(2) an analysis of applicant flow data, including the percentage and level of positions for which data are collected, and a discussion of any resulting policy changes or recommendations; and
 
@@ -92,7 +98,7 @@ In this section:
 
 &emsp;The term "diversity" means diversity of persons based on gender, race, ethnicity, disability status, veteran status, sexual orientation, gender identity, national origin, and other demographic categories.
 
-(Pub. L. 116–92, div. E, title LVII, §5704, Dec. 20, 2019, 133 Stat. 2162.)
+(Pub. L. 116–92, div. E, title LVII, §5704, Dec. 20, 2019, 133 Stat. 2162; Pub. L. 117–103, div. X, title VIII, §802, Mar. 15, 2022, 136 Stat. 1011; Pub. L. 117–263, div. F, title LXVIII, §6824(b)(1), Dec. 23, 2022, 136 Stat. 3615.)
 
 #### <b>Editorial Notes</b>
 
@@ -100,17 +106,23 @@ In this section:
 
 Section is comprised of section 5704 of Pub. L. 116–92. Subsec. (a) of section 5704 of Pub. L. 116–92 amended section 3050 of this title.
 
+#### Amendments
+
+<b>2022</b>—Subsec. (b)(1). Pub. L. 117–263 struck out ", and subject to paragraph (3)" after "Not later than 180 days after December 20, 2019".
+
+Subsec. (c). Pub. L. 117–103, §802(1), substituted "Not later than March 31 of each year, the Director of National Intelligence shall provide a report" for "After making available a report under subsection (b), the Director of National Intelligence shall annually provide a report" in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 117–103, §802(2), added par. (1) and struck out former par. (1) which read as follows: "demographic data and information on the status of diversity and inclusion efforts of the intelligence community;".
+
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Expansion of Intelligence Community Recruitment Efforts
 
-Pub. L. 116–92, div. E, title LXIII, §6316, Dec. 20, 2019, 133 Stat. 2195, provided that: "In order to further increase the diversity of the intelligence community workforce, not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Director of National Intelligence, in consultation with heads of elements of the Intelligence Community, shall create, implement, and submit to the congressional intelligence committees a written plan to ensure that rural and underrepresented regions are more fully and consistently represented in such elements' employment recruitment efforts. Upon receipt of the plan, the congressional committees \[probably should be "congressional intelligence committees"\] shall have 60 days to submit comments to the Director of National Intelligence before such plan shall be implemented."
+Pub. L. 116–92, div. E, title LXIII, §6316, Dec. 20, 2019, 133 Stat. 2195, as amended by Pub. L. 117–263, div. F, title LXVIII, §6824(b)(2), Dec. 23, 2022, 136 Stat. 3615, provided that: "In order to further increase the diversity of the intelligence community workforce, not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Director of National Intelligence, in consultation with heads of elements of the Intelligence Community, shall create, implement, and submit to the congressional intelligence committees a written plan to ensure that rural and underrepresented regions are more fully and consistently represented in such elements' employment recruitment efforts. Upon receipt of the plan, the congressional intelligence committees shall have 60 days to submit comments to the Director of National Intelligence before such plan shall be implemented."
 
 \[For definitions of "intelligence community" and "congressional intelligence committees" as used in section 6316 of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.\]
 
 #### Definitions
 
 For definition of "intelligence community", referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.
-
-<i><sup>1</sup></i><i> So in original. There is no par. (3).</i>
 

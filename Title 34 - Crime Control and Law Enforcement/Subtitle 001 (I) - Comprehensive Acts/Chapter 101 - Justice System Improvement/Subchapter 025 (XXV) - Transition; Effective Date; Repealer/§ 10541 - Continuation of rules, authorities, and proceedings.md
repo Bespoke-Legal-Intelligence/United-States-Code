@@ -24,7 +24,7 @@ The amendments made to this chapter by the Justice System Improvement Act of 197
 
 #### (f) Appropriated funds available for audit matters and continuing programs and projects
 
-Nothing in this chapter prevents the utilization of funds appropriated for purposes of this chapter for all activities necessary or appropriate for the review, audit, investigation, and judicial or administrative resolution of audit matters for those grants or contracts that were awarded under this chapter. The final disposition and dissemination of program and project accomplishments with respect to programs and projects approved in accordance with this chapter, as in effect before December 27, 1979, which continue in operation beyond December 27, 1979, may be carried out with funds appropriated for purposes of this chapter.
+Nothing in this chapter prevents the utilization of funds appropriated for purposes of this chapter for all activities necessary or appropriate for the review, audit, investigation, and judicial or administrative resolution of audit matters for those grants or contracts that were awarded under this chapter. The final disposition and dissemination of program and project accomplishments with respect to programs and projects approved in accordance with this chapter, as in effect before December 27, 1979, whichcontinue in operation beyond December 27, 1979, may be carried out with funds appropriated for purposes of this chapter.
 
 #### (g) Transfer of personnel pursuant to performance-of-functions standard; determination of interim positions for Administrator and Deputy Administrators by Attorney General
 
@@ -48,7 +48,7 @@ Notwithstanding the provisions of section 404(c)(3),<sup>1</sup> any constructio
 
 #### References in Text
 
-The Justice System Improvement Act of 1979, referred to in subsec. (e), is Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to thischapter. For complete classification of this Act to the Code, see Short Title of 1979 Act note under section 10101 of this title and Tables.
+The Justice System Improvement Act of 1979, referred to in subsec. (e), is Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1979 Act note under section 10101 of this title and Tables.
 
 Subchapter V of this chapter, referred to in subsec. (h), was repealed and former subchapter VI was redesignated as V by Pub. L. 98–473, title II, §§607, 608(e), Oct. 12, 1984, 98 Stat. 2086, 2087, which was also repealed and a new subchapter V enacted by Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4328.
 

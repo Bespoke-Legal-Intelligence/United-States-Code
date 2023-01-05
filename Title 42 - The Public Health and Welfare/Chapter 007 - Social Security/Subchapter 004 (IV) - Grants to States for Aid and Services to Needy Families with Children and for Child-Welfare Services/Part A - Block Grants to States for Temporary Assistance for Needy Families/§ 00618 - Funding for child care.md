@@ -28,7 +28,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;With respect to any fiscal year, if the Secretary determines (in accordance withclause (ii)) that any amounts allotted to a State under this paragraph for such fiscal year will not be used by such State during such fiscal year for carrying out the purpose for which such amounts are allotted, the Secretary shall make such amounts available in the subsequent fiscal year for carrying out such purpose to one or more States which apply for such funds to the extent the Secretary determines that such States will be able to use such additional amounts for carrying out such purpose. Such available amounts shall be redistributed to a State pursuant to section 603(n) of this title (as such section was in effect before October 1, 1995) by substituting "the number of children residing in all States applying for such funds" for "the number of children residing in the United States in the second preceding fiscal year".
+&emsp;&emsp;&emsp;With respect to any fiscal year, if the Secretary determines (in accordance with clause (ii)) that any amounts allotted to a State under this paragraph for such fiscal year will not be used by such State during such fiscal year for carrying out the purpose for which such amounts are allotted, the Secretary shall make such amounts available in the subsequent fiscal year for carrying out such purpose to one or more States which apply for such funds to the extent the Secretary determines that such States will be able to use such additional amounts for carrying out such purpose. Such available amounts shall be redistributed to a State pursuant to section 603(n) of this title (as such section was in effect before October 1, 1995) by substituting "the number of children residing in all States applying for such funds" for "the number of children residing in the United States in the second preceding fiscal year".
 
 #### (ii) Time of determination and distribution
 
@@ -56,7 +56,7 @@
 
 #### (C) Redistribution
 
-&emsp;&emsp;The 1st sentence of clause (i) and clause (ii) of paragraph (2)(D) shall apply with respect to the amounts allotted to the territories under this paragraph, except that the 2nd sentence of paragraph (2)(D) shall not apply and the amounts allotted to the territories that are available for redistribution for a fiscal year shall be redistributed to each territory that applies for the additional amounts, to the extent that the Secretary determines that the territory will be able to use the additional amounts to provide child care assistance, in an amount that bears the same ratio to the amount so available for redistribution as the amount allotted to the territory for the fiscal year bears to the total amount allotted to all the territories receiving redistributed funds under this paragraph for the fiscal year.
+&emsp;&emsp;The 1st sentence of clause (i) and clause (ii) of paragraph (2)(D) shall apply with respect to the amounts allotted to the territories under this paragraph, except that the 2nd sentence of paragraph (2)(D) shall not apply and the amounts allotted to the territories that are available for redistribution for a fiscal year shall be redistributed to each territory that applies for the additional amounts, to the extent that the Secretary determines that the territory will be able touse the additional amounts to provide child care assistance, in an amount that bears the same ratio to the amount so available for redistribution as the amount allotted to the territory for the fiscal year bears to the total amount allotted to all the territories receiving redistributed funds under this paragraph for the fiscal year.
 
 #### (D) Inapplicability of payment limitation
 
@@ -88,7 +88,7 @@ Notwithstanding any other provision of law, amounts provided to a State under th
 
 As used in this section, the term "State" means each of the 50 States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title IV, §418, as added Pub. L. 104–193, title VI, §603(b), Aug. 22, 1996, 110 Stat. 2279; amended Pub. L. 105–33, title V, §5601,Aug. 5, 1997, 111 Stat. 644; Pub. L. 108–40, §4, June 30, 2003, 117 Stat. 837; Pub. L. 109–171, title VII, §7201, Feb. 8, 2006, 120 Stat. 141; Pub. L. 112–96, title IV, §4002(g), Feb. 22, 2012, 126 Stat. 195; Pub. L. 115–31, div. M, title I, §102(a)(4), May 5, 2017, 131 Stat. 800; Pub. L. 117–2, title IX, §9801(a), (c), Mar. 11, 2021, 135 Stat. 207.)
+(Aug. 14, 1935, ch. 531, title IV, §418, as added Pub. L. 104–193, title VI, §603(b), Aug. 22, 1996, 110 Stat. 2279; amended Pub. L. 105–33, title V, §5601, Aug. 5, 1997, 111 Stat. 644; Pub. L. 108–40, §4, June 30, 2003, 117 Stat. 837; Pub. L. 109–171, title VII, §7201, Feb. 8, 2006, 120 Stat. 141; Pub. L. 112–96, title IV, §4002(g), Feb. 22, 2012, 126 Stat. 195; Pub. L. 115–31, div. M, title I, §102(a)(4), May 5, 2017, 131 Stat. 800; Pub. L. 117–2, title IX, §9801(a), (c), Mar. 11, 2021, 135 Stat. 207.)
 
 #### <b>Editorial Notes</b>
 
@@ -126,7 +126,7 @@ Subsec. (a)(1)(B). Pub. L. 105–33, §5601(a)(1)(C), substituted "subsections" 
 
 Subsec. (a)(2)(B). Pub. L. 105–33, §5601(a)(2)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: "Subject to subparagraph (C), the amount of a grant awarded to a State for a fiscal year under this paragraph shall be based on the formula used for determining the amount of Federal payments to the State under section 603(n) of this title (as such section was in effect before October 1, 1995)."
 
-Subsec. (a)(2)(C). Pub. L. 105–33, §5601(a)(2)(B), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: "The Secretary shall pay to each eligible State in a fiscal year an amount, under a grant under subparagraph (A), equal to the Federal medical assistance percentage for such State for fiscal year 1995 (as defined in section 1396d(b) of this title) of so much of the expenditures by the State for child care in such year as exceed the State set-aside for such State under paragraph (1)(A) for such year and the amount of State expenditures in fiscal year 1994 or 1995 (whichever is greater) that equal the non-Federal share for the programs described in subparagraph (A) of paragraph (1)."
+Subsec. (a)(2)(C). Pub. L. 105–33, §5601(a)(2)(B), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: "The Secretary shall pay to each eligible State in a fiscal year an amount,under a grant under subparagraph (A), equal to the Federal medical assistance percentage for such State for fiscal year 1995 (as defined in section 1396d(b) of this title) of so much of the expenditures by the State for child care in such year as exceed the State set-aside for such State under paragraph (1)(A) for such year and the amount of State expenditures in fiscal year 1994 or 1995 (whichever is greater) that equal the non-Federal share for the programs described in subparagraph (A) of paragraph (1)."
 
 Subsec. (a)(2)(D)(i). Pub. L. 105–33, §5601(a)(2)(C), substituted "any amounts allotted" for "amounts under any grant awarded" and "such amounts are allotted" for "the grant is made".
 

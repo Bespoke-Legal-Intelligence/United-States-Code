@@ -6,7 +6,7 @@ For purposes of this section, the term "hybrid adjustable rate mortgage" means a
 
 #### (b) Notice of reset and alternatives
 
-During the 1-month period that ends 6 months before the date on which the interest rate in effect during the introductory period of a hybrid adjustable rate mortgage adjusts or resets to a variable interest rate or, in the case of such an adjustment or resetting that occurs within the first 6 months after consummation of such loan, at consummation, the creditor or servicer of such loan shall provide a written notice, separate and distinct from all other correspondence to the consumer, that includes the following:
+During the 1-month period that ends 6 months before the date on which the interest rate in effect during the introductory period of a hybrid adjustable rate mortgage adjusts or resets to a variable interest rate or, in the case of such an adjustment or resetting that occurs within thefirst 6 months after consummation of such loan, at consummation, the creditor or servicer of such loan shall provide a written notice, separate and distinct from all other correspondence to the consumer, that includes the following:
 
 &emsp;(1) Any index or formula used in making adjustments to or resetting the interest rate and a source of information about the index or formula.
 

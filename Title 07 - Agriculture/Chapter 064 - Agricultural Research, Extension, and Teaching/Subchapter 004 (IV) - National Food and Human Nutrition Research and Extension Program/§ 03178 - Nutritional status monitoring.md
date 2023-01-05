@@ -4,7 +4,7 @@
 
 The Secretary and the Secretary of Health and Human Services shall formulate and submit to Congress, within ninety days after September 29, 1977, a proposal for a comprehensive nutritional status monitoring system, to include:
 
-&emsp;(1) an assessment system consisting of periodic surveys and continuous monitoring to determine: the extent of risk of nutrition-relatedhealth problems in the United States; which population groups or areas of the country face greatest risk; and the likely causes of risk and changes in the above risk factors over time;
+&emsp;(1) an assessment system consisting of periodic surveys and continuous monitoring to determine: the extent of risk of nutrition-related health problems in the United States; which population groups or areas of the country face greatest risk; and the likely causes of risk and changes in the above risk factors over time;
 
 &emsp;(2) a surveillance system to identify remediable nutrition-related health risks to individuals or for local areas, in such a manner as to tie detection to direct intervention and treatment. Such system should draw on screening and other information from other health programs, including those funded under titles V, XVIII, and XIX of the Social Security Act \[42 U.S.C. 701 et seq., 1395 et seq., and 1396 et seq.\] and section 330 of the Public Health Service Act; <sup>1</sup> and
 
@@ -20,7 +20,7 @@ The proposal shall provide for coordination of activities under existing authori
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title V of the Social Security Act is classified principally to subchapter V (§701 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Social Security Act is classified principally to subchapter V (§701 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 330 of the Public Health Service Act, referred to in subsec. (a)(2), is section 330 of act July 1, 1944, which was classified to section 254c of Title 42, The Public Health and Welfare, and was omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of chapter 6A of Title 42 by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of Title 42.
 

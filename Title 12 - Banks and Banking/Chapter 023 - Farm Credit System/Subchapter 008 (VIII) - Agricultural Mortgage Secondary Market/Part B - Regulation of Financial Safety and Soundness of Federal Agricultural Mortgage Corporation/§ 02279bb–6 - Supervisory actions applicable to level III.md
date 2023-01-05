@@ -4,7 +4,7 @@
 
 #### (1) Capital restoration plan
 
-&emsp;If the Corporation is classified as within level III, the Corporation shall, within thetime period determined by the Director, submit to the Director a capital restoration plan and, after approval, carry out the plan.
+&emsp;If the Corporation is classified as within level III, the Corporation shall, within the time period determined by the Director, submit to the Director a capital restoration plan and, after approval, carry out the plan.
 
 #### (2) Restrictions on dividends
 

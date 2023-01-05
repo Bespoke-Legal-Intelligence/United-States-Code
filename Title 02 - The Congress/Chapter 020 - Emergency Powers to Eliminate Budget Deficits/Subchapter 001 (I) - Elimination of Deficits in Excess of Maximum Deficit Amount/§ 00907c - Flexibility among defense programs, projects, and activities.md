@@ -46,7 +46,7 @@ Within 5 calendar days of session after the President submits a report to Congre
 
 (1) No amendment that is not germane or relevant to the provisions of the joint resolution or to the order issued under section 904 of this title shall be in order in the Senate. For purposes of this paragraph, an amendment shall be considered to be relevant if it relates to function 050 (national defense). In the Senate, an amendment, any amendment to an amendment, or any debatable motion or appeal is debatable for not to exceed 30 minutes to be equally divided between, and controlled by, the mover and the majority leader (or their designees), except that in the event that the majority leader favors the amendment, motion, or appeal, the minority leader (or the minority leader's designee) shall control the time in opposition to the amendment, motion, or appeal.
 
-(2) In the Senate, an amendment that is otherwise in order shall be in order notwithstanding the fact that it amends the joint resolution in more than one place or amends language previously amended, so long as the amendment makes or maintains mathematical consistency. It shall not be in order in the Senate to vote on the question of agreeing to such a joint resolution or any amendment thereto unless the figures then contained in such joint resolution or amendment are mathematically consistent.
+(2) In the Senate, an amendment that is otherwise in order shall be in order notwithstanding the fact that it amends the joint resolution inmore than one place or amends language previously amended, so long as the amendment makes or maintains mathematical consistency. It shall not be in order in the Senate to vote on the question of agreeing to such a joint resolution or any amendment thereto unless the figures then contained in such joint resolution or amendment are mathematically consistent.
 
 (3) It shall not be in order in the Senate to consider any amendment to any joint resolution introduced under subsection (d) or any conference report thereon if such amendment or conference report would have the effect of decreasing any specific budget outlay reductions below the level of such outlay reductions provided in such joint resolution unless such amendment or conference report makes a reduction in other specific budget outlays at least equivalent to any increase in outlays provided by such amendment or conference report.
 
@@ -62,7 +62,7 @@ Appeals from the decisions of the Chair relating to the application of the rules
 
 #### (k) Conference reports
 
-In the Senate, points of order under titles III and IV of the Congressional Budget Act of 1974 \[2 U.S.C. 631 et seq., 651 et seq.\] (including points of order under sections 302(c), 303(a), 306, and 401(b)(1) \[2 U.S.C. 633(c), 634(a), 637, 651(b)(1)\]) are applicable to a conference report on the jointresolution or any amendments in disagreement thereto.
+In the Senate, points of order under titles III and IV of the Congressional Budget Act of 1974 \[2 U.S.C. 631 et seq., 651 et seq.\] (including points of order under sections 302(c), 303(a), 306, and 401(b)(1) \[2 U.S.C. 633(c), 634(a), 637, 651(b)(1)\]) are applicable to a conference report on the joint resolution or any amendments in disagreement thereto.
 
 #### (l) Resolution from other House
 
@@ -92,7 +92,7 @@ If the Senate receives from the House of Representatives a joint resolution intr
 
 Section 258B, referred to in subsec. (e)(1), (2), means section 258B of Pub. L. 99–177, which is classified to this section.
 
-The Congressional Budget Act of 1974, referred to in subsec. (k), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Titles III and IV of the Act are classified generally to subchapters I (§631 et seq.) and II (§651 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (k), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Titles III and IV of the Act are classified generally to subchapters I (§631 et seq.) and II (§651 et seq.) of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

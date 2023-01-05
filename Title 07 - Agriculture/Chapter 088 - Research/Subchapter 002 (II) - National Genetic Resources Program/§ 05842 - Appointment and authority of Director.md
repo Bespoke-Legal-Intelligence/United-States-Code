@@ -52,7 +52,7 @@ Not later than one year after November 28, 1990, the Director shall transmit to 
 
 On completion of the development of the plan described in section 5841(d)(6) of this title, the Secretary shall make the plan available to the public.
 
-(Pub. L. 101–624, title XVI, §1633, Nov. 28, 1990, 104 Stat. 3744; Pub. L. 102–237, title IV, §404(a)(2), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 115–334, title VII, §7205(b), Dec. 20, 2018, 132 Stat. 4803.)
+(Pub. L. 101–624, title XVI, §1633, Nov. 28, 1990, 104 Stat. 3744; Pub. L. 102–237, title IV, §404(a)(2),Dec. 13, 1991, 105 Stat. 1864; Pub. L. 115–334, title VII, §7205(b), Dec. 20, 2018, 132 Stat. 4803.)
 
 #### <b>Editorial Notes</b>
 

@@ -176,7 +176,7 @@
 
 #### (III) Newly covered item or service
 
-&emsp;&emsp;&emsp;&emsp;The term "newly covered item or service" means, with respect to a group health plan, an item or service for whichcoverage was not offered in 2019 under such plan or coverage, but is offered under such plan or coverage in a year after 2019.
+&emsp;&emsp;&emsp;&emsp;The term "newly covered item or service" means, with respect to a group health plan, an item or service for which coverage was not offered in 2019 under such plan or coverage, but is offered under such plan or coverage in a year after 2019.
 
 #### (F) Nonparticipating emergency facility; participating emergency facility
 
@@ -226,7 +226,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) subject to subclause (II), if the provider or facility (as applicable) and such plan or coverage agree on an amount of payment (including if such agreed on amount is the initial payment sent by the plan under subsection (a)(1)(C)(iv)(I), subsection (b)(1)(C), or section 9817(a)(3)(A), as applicable, or is agreed on through open negotiations under subsection (c)(1)) with respect to such item or service, such agreed on amount; or
 
-&emsp;&emsp;&emsp;&emsp;(II) if such provider or facility (as applicable) and such plan or coverage enterthe independent dispute resolution process under subsection (c) and do not so agree before the date on which a certified IDR entity (as defined in paragraph (4) of such subsection) makes a determination with respect to such item or service under such subsection, the amount of such determination; or
+&emsp;&emsp;&emsp;&emsp;(II) if such provider or facility (as applicable) and such plan or coverage enter the independent dispute resolution process under subsection (c) and do not so agree before the date on which a certified IDR entity (as defined in paragraph (4) of such subsection) makes a determination with respect to such item or service under such subsection, the amount of such determination; or
 
 &emsp;&emsp;&emsp;(iii) in the case such State has an All-Payer Model Agreement under section 1115A of the Social Security Act, the amount that the State approves under such system for such item or service so furnished.
 
@@ -432,7 +432,7 @@
 
 #### (D) Prohibition on consideration of certain factors
 
-&emsp;&emsp;In determining which offer is the payment to be applied with respect to qualified IDR items and services furnished by a provider or facility, the certified IDR entity with respect to a determination shall not consider usual and customary charges, the amount that would have been billed by such provider or facility with respect to such items and services had the provisions of section 2799B–1 of the Public Health Service Act or 2799B–2 of such Act (as applicable) not applied, or the payment or reimbursement rate for such items and services furnished by such provider or facility payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act, under the Medicaid program under title XIX of such Act, under the Children's Health Insurance Program under title XXI of such Act, under the TRICARE program under chapter 55 of title 10, United States Code, or under chapter 17 of title 38, United States Code.
+&emsp;&emsp;In determining which offer is the payment to be applied with respect to qualified IDR items and services furnished by a provider or facility, the certified IDR entity with respect to a determination shall not consider usual and customary charges, the amount that would have been billed by such provider or facility with respect to such items and services had the provisions of section 2799B–1 of the Public Health Service Act or 2799B–2 of such Act (as applicable) not applied, or the payment or reimbursement rate for such items and services furnished by such provider or facility payable by a public payor,including under the Medicare program under title XVIII of the Social Security Act, under the Medicaid program under title XIX of such Act, under the Children's Health Insurance Program under title XXI of such Act, under the TRICARE program under chapter 55 of title 10, United States Code, or under chapter 17 of title 38, United States Code.
 
 #### (E) Effects of determination
 
@@ -568,7 +568,7 @@ A group health plan providing or covering any benefit with respect to items or s
 
 &emsp;&emsp;(E) A good faith estimate of the amount that the participant or beneficiary has incurred toward meeting the limit of the financial responsibility (including with respect to deductibles and out-of-pocket maximums) under the plan (as of the date of such notification).
 
-&emsp;&emsp;(F) In the case such item or service is subject to a medical management technique (including concurrent review, prior authorization, and step-therapy or fail-first protocols) for coverage under the plan, a disclaimerthat coverage for such item or service is subject to such medical management technique.
+&emsp;&emsp;(F) In the case such item or service is subject to a medical management technique (including concurrent review, prior authorization, and step-therapy or fail-first protocols) for coverage under the plan, a disclaimer that coverage for such item or service is subject to such medical management technique.
 
 &emsp;&emsp;(G) A disclaimer that the information provided in the notification is only an estimate based on the items and services reasonably expected, at the time of scheduling (or requesting) the item or service, to be furnished and is subject to change.
 
@@ -585,10 +585,6 @@ A group health plan providing or covering any benefit with respect to items or s
 &emsp;&emsp;For purposes of subparagraph (A), the term "specified item or service" means an item or service that has low utilization or significant variation in costs (such as when furnished as part of a complex treatment), as specified by the Secretary.
 
 (Added and amended Pub. L. 116–260, div. BB, title I, §§102(c)(1), 103(c), 107(c), 111(b), Dec. 27, 2020, 134 Stat. 2784, 2815, 2859, 2863.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 107(c) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 

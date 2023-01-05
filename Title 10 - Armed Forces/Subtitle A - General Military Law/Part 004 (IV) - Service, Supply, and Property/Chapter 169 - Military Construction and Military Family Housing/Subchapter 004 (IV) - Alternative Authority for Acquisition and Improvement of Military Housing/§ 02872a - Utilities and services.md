@@ -46,7 +46,7 @@ Reimbursement.—(1) The Secretary concerned shall be reimbursed for any utiliti
 
 &emsp;(B) in the case of a cost paid using funds appropriated or otherwise made available on or after October 1, 2014, be credited to the appropriation or working capital account currently available for the purpose of furnishing utilities or services under subsection (a).
 
-(3) Amounts credited under paragraph (2) to an appropriation or account shall be merged with funds in such appropriation or account, andshall be available to the same extent, and subject to the same terms and conditions, as such funds.
+(3) Amounts credited under paragraph (2) to an appropriation or account shall be merged with funds in such appropriation or account, and shall be available to the same extent, and subject to the same terms and conditions, as such funds.
 
 (Added Pub. L. 106–398, §1 \[div. B, title XXVIII, §2805(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–414; amended Pub. L. 107–314, div. B, title XXVIII, §2802(a), Dec. 2, 2002, 116 Stat. 2703; Pub. L. 113–66, div. B, title XXVIII, §2804, Dec. 26, 2013, 127 Stat. 1007; Pub. L. 116–92, div. B, title XXX, §3032, Dec. 20, 2019, 133 Stat. 1936.)
 

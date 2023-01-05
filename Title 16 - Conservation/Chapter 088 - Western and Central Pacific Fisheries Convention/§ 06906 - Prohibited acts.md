@@ -34,7 +34,7 @@ It is unlawful for any person—
 
 #### (b) Entry certification
 
-In the case of any fish described in subsection (a) offered for entry into the United States, the Secretary of Commerce shall require proof satisfactory to the Secretary that such fish is not ineligible for such entry under the terms of section 6905(a) of this title.
+In the case of any fish described in subsection (a) offered for entry into the United States, theSecretary of Commerce shall require proof satisfactory to the Secretary that such fish is not ineligible for such entry under the terms of section 6905(a) of this title.
 
 (Pub. L. 109–479, title V, §507, Jan. 12, 2007, 120 Stat. 3641; Pub. L. 114–81, title I, §105(2), Nov. 5, 2015, 129 Stat. 657.)
 

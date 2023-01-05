@@ -144,7 +144,7 @@ The Secretary shall facilitate and provide funding for—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ff) is within the impervious surface limits of the easement under subparagraph (C)(v); and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(gg) uses practices and technologies that minimize the duration and intensity of impacts to the agricultural useand conservation values of the land subject to the easement; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(gg) uses practices and technologies that minimize the duration and intensity of impacts to the agricultural use and conservation values of the land subject to the easement; and
 
 &emsp;&emsp;&emsp;&emsp;(II) each area impacted by the subsurface mineral development shall be reclaimed and restored by the holder of the mineral rights at cessation of operation; and
 

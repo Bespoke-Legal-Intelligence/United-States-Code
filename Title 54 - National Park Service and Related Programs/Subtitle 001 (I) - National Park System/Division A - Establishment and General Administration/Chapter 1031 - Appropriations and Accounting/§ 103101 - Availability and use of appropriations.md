@@ -30,7 +30,7 @@ Contribution for Annuity Benefits.—
 
 &emsp;(1)
 
-In general.—Necessary amounts are appropriated for reimbursement, pursuant to the Policemen and Firemen's Retirement and Disability Act amendments of 1957 (Public Law 85–157, 71 Stat. 391), to the District of Columbia on a monthly basis for benefit payments by the District of Columbia to United States Park Police annuitants under section 12 of the Policemen and Firemen's Retirement and Disability Act (ch. 433, 39 Stat. 718), to the extent that those payments exceed contributions made by active Park Police members covered under the Policemen and Firemen's Retirement and Disability Act.
+In general.—Necessary amounts are appropriated for reimbursement, pursuant to thePolicemen and Firemen's Retirement and Disability Act amendments of 1957 (Public Law 85–157, 71 Stat. 391), to the District of Columbia on a monthly basis for benefit payments by the District of Columbia to United States Park Police annuitants under section 12 of the Policemen and Firemen's Retirement and Disability Act (ch. 433, 39 Stat. 718), to the extent that those payments exceed contributions made by active Park Police members covered under the Policemen and Firemen's Retirement and Disability Act.
 
 &emsp;(2)
 

@@ -14,7 +14,7 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "facility" includes a dam or appurtenant works, canal, lateral, ditch, gate, control structure, pumping station, other infrastructure, recreational facility, building, distribution and drainage works, and associated land or interest in land or water.
+&emsp;&emsp;The term "facility" includes a dam or appurtenant works, canal, lateral, ditch, gate,control structure, pumping station, other infrastructure, recreational facility, building, distribution and drainage works, and associated land or interest in land or water.
 
 #### (B) Exclusions
 

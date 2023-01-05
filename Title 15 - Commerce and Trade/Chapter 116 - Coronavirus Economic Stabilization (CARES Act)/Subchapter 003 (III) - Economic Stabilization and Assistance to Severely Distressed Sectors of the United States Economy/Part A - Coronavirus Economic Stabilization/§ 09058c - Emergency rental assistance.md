@@ -86,7 +86,7 @@
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;The aggregate amount of financial assistance an eligible household may receive under this section, when combined with financial assistance provided under section9058a of this title, shall not exceed 18 months.
+&emsp;&emsp;&emsp;The aggregate amount of financial assistance an eligible household may receive under this section, when combined with financial assistance provided under section 9058a of this title, shall not exceed 18 months.
 
 #### (B) Housing stability services
 

@@ -10,7 +10,7 @@ In this subchapter:
 
 &emsp;&emsp;(A) means an organized noncontinuous undertaking to complete a specific set of predetermined objectives for the planning, environmental determination, design, construction, repair, improvement, or expansion of buildings or facilities, as described in a construction project agreement; and
 
-&emsp;&emsp;(B) does not include construction program administration and activities described in paragraphs (1) through (3) of section 5304(m)of this title, that may otherwise be included in a funding agreement under this subchapter.
+&emsp;&emsp;(B) does not include construction program administration and activities described in paragraphs (1) through (3) of section 5304(m) of this title, that may otherwise be included in a funding agreement under this subchapter.
 
 #### (2) Construction project agreement
 

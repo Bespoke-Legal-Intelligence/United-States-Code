@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(E) the number of nondeployable items in the inventory as a substitute for a required major item of equipment.
 
-&emsp;(6) A narrative explanation of the plan of the Secretary concerned to provide equipment needed to fill the war-time requirement for each major item of equipment to all units of the Selected Reserve, including an explanationof the plan to equip units of the Selected Reserve that are short of major items of equipment at the outset of war.
+&emsp;(6) A narrative explanation of the plan of the Secretary concerned to provide equipment needed to fill the war-time requirement for each major item of equipment to all units of the Selected Reserve, including an explanation of the plan to equip units of the Selected Reserve that are short of major items of equipment at the outset of war.
 
 &emsp;(7) For each item of major equipment reported under paragraph (3) in a report for one of the three previous years under this section as an item expected to be procured for the Selected Reserve or to be transferred to the Selected Reserve, the quantity of such equipment actually procured for or transferred to the Selected Reserve.
 
@@ -102,9 +102,5 @@ Pub. L. 110–181, div. A, title III, §351(c)(1), Jan. 28, 2008, 122 Stat. 70, 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
-
-#### Termination of Reporting Requirements
-
-For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 

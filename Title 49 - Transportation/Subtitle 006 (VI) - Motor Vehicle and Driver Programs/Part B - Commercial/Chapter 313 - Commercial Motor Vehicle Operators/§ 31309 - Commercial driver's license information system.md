@@ -54,7 +54,7 @@ Consultation.—The plan shall be developed in consultation with representatives
 
 &emsp;(3)
 
-State funding of future efforts.—The plan shall specify that States will fund future efforts to modernize the commercial driver's information system.
+State funding of future efforts.—The plan shall specify that States will fund futureefforts to modernize the commercial driver's information system.
 
 &emsp;(4)
 

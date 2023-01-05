@@ -22,7 +22,7 @@ The United States has an interest in increasing the level of financial support p
 
 #### (c) Program
 
-The Secretary of State, acting through the Director of the Office of Overseas Schools of the Department of State, may conduct a program to make grants to United States-sponsored elementary and secondary schools in countries with predominantly Muslim populations for the purpose of providing full or partial merit-based scholarships to students from lower-income and middle-income families of such countries to attend such schools.
+The Secretary of State, acting through the Director of the Office of Overseas Schools of the Department of State, may conduct a program tomake grants to United States-sponsored elementary and secondary schools in countries with predominantly Muslim populations for the purpose of providing full or partial merit-based scholarships to students from lower-income and middle-income families of such countries to attend such schools.
 
 #### (d) Determination of eligible students
 

@@ -46,7 +46,7 @@ Relationship to War Powers Resolution.—Nothing contained in this section shall
 
 (i)
 
-Considerations for Involuntary Order to Active Duty.—(1) In determining which members of the Selected Reserve and Individual Ready Reserve will be ordered to duty without their consent under this section, appropriate consideration shall be given to—
+Considerations for Involuntary Order to Active Duty.—(1) In determining which members of the Selected Reserve and Individual Ready Reserve will be ordered to duty withouttheir consent under this section, appropriate consideration shall be given to—
 
 &emsp;(A) the length and nature of previous service, to assure such sharing of exposure to hazards as the national security and military requirements will reasonably allow;
 
@@ -176,7 +176,7 @@ Pub. L. 101–511, title VIII, §8132, Nov. 5, 1990, 104 Stat. 1908, provided th
 
 Ex. Ord. No. 12727, Aug. 22, 1990, 55 F.R. 35027, as amended by Ex. Ord. No. 13286, §39, Feb. 28, 2003, 68 F.R. 10626, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 673b \[now 12304\] of title 10 of the United States Code, I hereby determine that it is necessary to augment the active armed forcesof the United States for the effective conduct of operational missions in and around the Arabian Peninsula. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when the latter is not operating as a service in the Department of the Navy, to order to active duty units and individual members not assigned to units, of the Selected Reserve.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 673b \[now 12304\] of title 10 of the United States Code, I hereby determine that it is necessary to augment the active armed forces of the United States for the effective conduct of operational missions in and around the Arabian Peninsula. Further, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when the latter is not operating as a service in the Department of the Navy, to order to active duty units and individual members not assigned to units, of the Selected Reserve.
 
 This order is intended only to improve the internal management of the executive branch, and is not intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
 
@@ -254,7 +254,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13919, Apr. 30, 2020, 85 F.R. 26591, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 12304 of title 10, United States Code, and having determined that it is necessary to augment the regular Armed Forces of the United States for a named operational mission, specifically the "Enhanced Department of Defense Counternarcotic Operation in the Western Hemisphere," I hereby order as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 12304 of title 10, United States Code, and having determined that it is necessary to augment the regular Armed Forces of the UnitedStates for a named operational mission, specifically the "Enhanced Department of Defense Counternarcotic Operation in the Western Hemisphere," I hereby order as follows:
 
 Section 1. <i>Activation Authority</i>. The Secretary of Defense is directed to order to active duty for not more than 365 consecutive days, any units, and any individual members not assigned to a unit organized to serve as a unit, of the Selected Reserve under the jurisdiction of the Secretary of Defense, not to exceed 200 Selected Reservists at any one time, as he considers necessary.
 

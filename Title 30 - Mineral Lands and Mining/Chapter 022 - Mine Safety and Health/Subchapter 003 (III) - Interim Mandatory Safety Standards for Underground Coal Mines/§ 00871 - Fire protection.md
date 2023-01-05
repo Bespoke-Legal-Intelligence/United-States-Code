@@ -2,7 +2,7 @@
 
 #### (a) Firefighting equipment; promulgation of minimum requirements for equipment; existing requirements; examinations after blasting
 
-Each coal mine shall be provided with suitable firefighting equipment adapted for the size and conditions of the mine. The Secretary shall establish minimum requirements for the type, quality, and quantity of such equipment, and the interpretations of the Secretary or the Director of the United States Bureau of Mines relating to such equipment in effect on the operative date of this subchapter shall continue in effect until modified or superseded by the Secretary. After every blasting operation, an examination shall be made to determine whether fires have been started.
+Each coal mine shall be provided with suitable firefighting equipment adapted for the size and conditions of the mine. The Secretary shall establish minimum requirements for the type,quality, and quantity of such equipment, and the interpretations of the Secretary or the Director of the United States Bureau of Mines relating to such equipment in effect on the operative date of this subchapter shall continue in effect until modified or superseded by the Secretary. After every blasting operation, an examination shall be made to determine whether fires have been started.
 
 #### (b) Underground storage areas for lubricating oils and greases; construction; exceptions
 
@@ -44,7 +44,7 @@ For the operative date of this subchapter, referred to subsecs. (a), (e), (g), a
 
 #### Change of Name
 
-"United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (a) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau ofMines, see Transfer of Functions note set out under section 1 of this title.
+"United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (a) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
 #### Effective Date
 

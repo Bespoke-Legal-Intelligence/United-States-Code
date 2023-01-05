@@ -14,19 +14,19 @@ The Board shall submit to the Smithsonian Institution and to Congress an annual 
 
 #### (d) Inspector General
 
-The functions of the Board funded by funds appropriated pursuant to section 76r <sup>1</sup> of this title shall be subject to the requirements for a Federal entity under the Inspector General Act of 1978 (5 U.S.C. App.). The Inspector General of the Smithsonian Institution is authorized to carry out the requirements of such Act on behalf of the Board, on a reimbursable basis when requested by the Board.
+The functions of the Board funded by funds appropriated pursuant to section 76r <sup>1</sup> of this title shall be subject to the requirements for a Federal entity under chapter 4 of title 5. The Inspector General of the Smithsonian Institution is authorized to carry out the requirements of such chapter on behalf of the Board, on a reimbursable basis when requested by the Board.
 
 #### (e) Property and personnel compensation
 
 #### (1) In general
 
-&emsp;The Board may procure insurance against any loss in connection with the property of the Board and other assets administered by the Board. Each employee and volunteer of theBoard shall be considered to be a civil employee of the United States (within the meaning of the term "employee" as defined in section 8101(1) of title 5), except that the Board shall continue to provide benefits with respect to any disability or death resulting from a personal injury to a nonappropriated fund employee of the Board sustained while in the performance of the duties of the employee for the Board pursuant to the workers compensation statute of the jurisdiction in which the John F. Kennedy Center for the Performing Arts is located. The disability or death benefits referred to in the preceding sentence, whether under the workers compensation statute referred to in the preceding sentence or under chapter 81 of title 5, shall continue to be the exclusive liability of the Board and the United States with respect to all employees and volunteers of the Board.
+&emsp;The Board may procure insurance against any loss in connection with the property of the Board and other assets administered by the Board. Each employee and volunteer of the Board shall be considered to be a civil employee of the United States (within the meaning of the term "employee" as defined in section 8101(1) of title 5), except that the Board shall continue to provide benefits with respect to any disability or death resulting from a personal injury to a nonappropriated fund employee of the Board sustained while in the performance of the duties of the employee for the Board pursuant to the workers compensation statute of the jurisdiction in which the John F. Kennedy Center for the Performing Arts is located. The disability or death benefits referred to in the preceding sentence, whether under the workers compensation statute referred to in the preceding sentence or under chapter 81 of title 5, shall continue to be the exclusive liability of the Board and the United States with respect to all employees and volunteers of the Board.
 
 #### (2) Federal tort claims
 
 &emsp;For the purposes of chapter 171 of title 28, an employee of the Board shall be considered to be an "employee of the government" and the Board shall be considered to be a "Federal agency". No employee of the Board may bring suit against the United States or the Board under the Federal tort claims procedure of chapter 171 of title 28 for disability or death resulting from personal injury sustained while in the performance of the duties of the employee for the Board.
 
-(Pub. L. 85–874, §6, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–100, §3, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, §1(4), (5), Jan. 23, 1964, 78 Stat. 4; Pub. L. 92–313, §10, June 16, 1972, 86 Stat. 222; Pub. L. 93–67, July 10, 1973, 87 Stat. 161; Pub. L. 94–119, §§1, 2, Oct. 21, 1975, 89 Stat. 608; Pub. L. 94–578, title III, §314, Oct. 21, 1976, 90 Stat. 2737; Pub. L. 95–50, §2, June 20, 1977, 91 Stat. 232; Pub. L. 95–305, June 29, 1978, 92 Stat. 348; Pub. L. 96–587, §1, Dec. 23, 1980, 94 Stat. 3387; Pub. L. 97–73, Nov. 3, 1981, 95 Stat. 1064; Pub. L. 97–202, June 24, 1982, 96 Stat. 128; Pub. L. 101–449, §§1–3, Oct. 22, 1990, 104 Stat. 1050; Pub. L. 102–500, §1, Oct. 24, 1992, 106 Stat. 3267; Pub. L. 103–279, §5, July 21, 1994, 108 Stat. 1414; Pub. L. 105–226, §4, Aug. 12, 1998, 112 Stat. 1513.)
+(Pub. L. 85–874, §6, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–100, §3, Aug. 19, 1963, 77 Stat. 128; Pub. L. 88–260, §1(4), (5), Jan. 23, 1964, 78 Stat. 4; Pub. L. 92–313, §10, June 16, 1972, 86 Stat. 222; Pub. L. 93–67, July 10, 1973, 87 Stat. 161; Pub. L. 94–119, §§1, 2, Oct. 21, 1975, 89 Stat. 608; Pub. L. 94–578, title III, §314, Oct. 21, 1976, 90 Stat. 2737; Pub. L. 95–50, §2, June 20, 1977, 91 Stat. 232; Pub. L. 95–305, June 29, 1978, 92 Stat. 348; Pub. L. 96–587, §1, Dec. 23, 1980, 94 Stat. 3387; Pub. L. 97–73, Nov. 3, 1981, 95 Stat. 1064; Pub. L. 97–202, June 24, 1982, 96 Stat. 128; Pub. L. 101–449, §§1–3, Oct. 22, 1990, 104 Stat. 1050; Pub. L. 102–500, §1, Oct. 24, 1992, 106 Stat. 3267; Pub. L. 103–279, §5, July 21, 1994, 108 Stat. 1414; Pub. L. 105–226, §4, Aug. 12, 1998, 112 Stat. 1513; Pub. L. 117–286, §4(b)(38), Dec. 27, 2022, 136 Stat. 4347.)
 
 #### <b>Editorial Notes</b>
 
@@ -34,9 +34,9 @@ The functions of the Board funded by funds appropriated pursuant to section 76r�
 
 Section 76r of this title, referred to in subsec. (d), was in the original a reference to section 12 of Pub. L. 85–874. Section 12 of Pub. L. 85–874 was renumbered as section 13, and a new section 12 was added, by Pub. L. 107–224, §2, Sept. 18, 2002, 116 Stat. 1340. Sections 12 and 13 are classified to sections 76q–1 and 76r, respectively, of this title.
 
-The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–286 substituted "chapter 4 of title 5." for "the Inspector General Act of 1978 (5 U.S.C. App.)." and "such chapter" for "such Act".
 
 <b>1998</b>—Subsecs. (d) to (f). Pub. L. 105–226 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out heading and text of former subsec. (d). Text read as follows: "Not less than once every 3 years, the Comptroller General shall review and audit the accounts of the John F. Kennedy Center for the Performing Arts for the purpose of examining expenditures of funds appropriated under the authority provided by this subchapter."
 
@@ -72,7 +72,7 @@ Subsec. (f). Pub. L. 101–449, §2, amended subsec. (f) generally. Prior to ame
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–305 inserted provisions authorizing appropriations for fiscal year ending Sept. 30, 1979.
 
-<b>1977</b>—Subsec. (e). Pub. L. 95–50 substituted provisions authorizing an appropriation of $4,000,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing appropriations of $4,000,000 for fiscal year ending Sept. 30,1978, and not to exceed $4,300,000 for the fiscal year ending Sept. 30, 1979.
+<b>1977</b>—Subsec. (e). Pub. L. 95–50 substituted provisions authorizing an appropriation of $4,000,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing appropriations of $4,000,000 for fiscal year ending Sept. 30, 1978, and not to exceed $4,300,000 for the fiscal year ending Sept. 30, 1979.
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–578 substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1978, and Sept. 30, 1979, for provisions covering fiscal years ending Sept. 30, 1976, Sept. 30, 1977, and transitional period ending Sept. 30, 1976.
 

@@ -22,7 +22,7 @@ Regulations and Other Policies.—The Secretary of the Army shall prescribe such
 
 (e)
 
-Budgetary and Reporting Requirements.—The Secretary of the Army shall submit to the congressional defense committees and the Committees on Veterans' Affairs of the Senate and House of Representatives an annual budget request (and detailed justifications for the amount of the request) to fund administration, operation and maintenance, and construction related to the Cemeteries. The Secretary may include, as necessary, proposals for new or amended statutory authority related to the Cemeteries.
+Budgetary and Reporting Requirements.—The Secretary of the Army shall submit to the congressional defense committees and the Committees on Veterans' Affairs of the Senate and House of Representatives an annual budget request (and detailed justifications for theamount of the request) to fund administration, operation and maintenance, and construction related to the Cemeteries. The Secretary may include, as necessary, proposals for new or amended statutory authority related to the Cemeteries.
 
 (Added Pub. L. 112–81, div. A, title V, §591(a)(1), Dec. 31, 2011, 125 Stat. 1439, §4721; renumbered §7721, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 

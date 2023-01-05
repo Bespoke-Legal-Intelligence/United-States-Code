@@ -24,7 +24,7 @@ The Secretary may—
 
 &emsp;(8) consent to (A) long-term leases of facilities financed under this subchapter notwithstanding the failure of the lessee to meet any of the requirements of this subchapter if such long-term leases are necessary to ensure the continuation of services for which financing was extended to the lessor, and (B) the transfer of property securing any loan or financed by any loan or grant made, insured, or held by the Secretary under this chapter, or the provisions of any other law administered by the Rural Development Administration under this chapter or by the Farmers Home Administration, upon such terms as he deems necessary to carry out the purpose of the loan or grant or to protect the financial interest of the Government, and shall document the consent of the Secretary for the transfer of the property of a borrower in the file of the borrower; and
 
-&emsp;(9) notwithstanding that an area ceases, or has ceased, to be "rural", in a "rural area", or an eligible area, make loans and grants, and approve transfers and assumptions, under this chapter on the same basis as though the area still was rural in connection with property securing any loan made, insured, or held by the Secretary under this chapter or in connection with any property held by the Secretary under this chapter.
+&emsp;(9) notwithstanding that an area ceases, or has ceased, to be "rural", in a "rural area", or an eligible area, make loans and grants, and approve transfers and assumptions, under thischapter on the same basis as though the area still was rural in connection with property securing any loan made, insured, or held by the Secretary under this chapter or in connection with any property held by the Secretary under this chapter.
 
 #### (c) Delinquent claims and obligations
 
@@ -78,13 +78,13 @@ The Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), is a
 
 Act of August 28, 1937, as amended, referred to in subsec. (a), is act Aug. 28, 1937, ch. 870, 50 Stat. 869, as amended, which was formerly classified to sections 590r to 590x–4 of Title 16, Conservation, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
-Act of April 6, 1949, as amended, referred to in subsec. (a), is act Apr. 6, 1949, ch. 49, 63 Stat. 43, as amended, which was formerly classified to sections 1148a–1 to 1148a–3 of Title 12, Banks and Banking, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
+Act of April 6, 1949, as amended, referred to in subsec. (a), is act Apr. 6, 1949, ch. 49, 63 Stat. 43, as amended,which was formerly classified to sections 1148a–1 to 1148a–3 of Title 12, Banks and Banking, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
 Act of August 31, 1954, as amended, referred to in subsec. (a), is act Aug. 31, 1954, ch. 1145, 68 Stat. 999, which was formerly classified as a note under section 1148a–1 of Title 12, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
 The Housing Act of 1949, as amended, referred to in subsec. (b)(4), (5), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The Rural Electrification Act of 1936, referred to in subsecs. (b)(4) and (e)(3), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsecs. (b)(4) and (e)(3), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
 Section 14 of title 6, referred to in subsec. (b)(7), was repealed by Pub. L. 92–310, title II, §203(1), June 6, 1972, 86 Stat. 202. For provisions relating to surety bonds of Federal personnel, see section 9301 et seq. of Title 31, Money and Finance.
 
@@ -164,7 +164,7 @@ Subsec. (b)(1) to (3). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), a
 
 Subsec. (b)(4). Pub. L. 101–624, §2388(d)(1)(A)(vi), formerly (vii), as redesignated and amended by Pub. L. 102–237, §501(c)(2)(B)(iii), (v), redesignated par. (d) as (4) of subsec. (b).
 
-Pub. L. 101–624, §§1805(a)(1)(A), (B), 2303(a)(2), inserted "or the Rural Development Administration" after "Farmers Home Administration" in first sentence, substituted ", except for activities under the Housing Act of 1949" for "under any of its programs, as circumstances may require, to carry out" in first sentence, and substituted ", except for debt incurred under the Housing Act of 1949" for "incurred under this chapter" in third sentence.
+Pub. L. 101–624, §§1805(a)(1)(A), (B), 2303(a)(2), inserted "or the Rural Development Administration" after "Farmers Home Administration" in first sentence, substituted ", except for activities under the Housing Act of 1949" for "under any of its programs, as circumstances may require, to carry out" in first sentence, and substituted ", except for debt incurredunder the Housing Act of 1949" for "incurred under this chapter" in third sentence.
 
 Subsec. (b)(4)(A). Pub. L. 101–624, §2388(d)(1)(A)(v), formerly (vi), as redesignated by Pub. L. 102–237, §501(c)(2)(B)(iii), redesignated subpar. (1) as (A).
 
@@ -220,7 +220,7 @@ Pub. L. 101–624, §1805(b), as amended by Pub. L. 102–237, §501(c)(2)(A), r
 
 <b>1988</b>—Par. (d). Pub. L. 100–233 inserted "or debts" before "claims", and inserted "The Secretary may not require liquidation of property securing any farmer program loan or acceleration of any payment required under any farmer program loan as a prerequisite to initiating an action authorized under this subsection."
 
-<b>1985</b>—Par. (d). Pub. L. 99–198, §1309, in amending par. (d) generally, substituted provisions authorizing the Secretary to compromise, adjust, reduce, or charge-off claims, and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Farmers Home Administration to carry out this chapter for provisions which had authorized the Secretary to compromise, adjust, or reduce claims, and adjust and modify the terms of mortgages, leases, contracts and agreements entered into or administered by the Administration under any of its programs, but not in the event of claims of $25,000 or more without the approval of the Administrator, substituted provisions authorizing the Secretary to release borrowers or others obligated on a debt incurred under this chapter from personal liability with or without consideration at the time of the compromise, adjustment, reduction or charge-off of anyclaim for provisions authorizing the Secretary to release from personal liability, with or without payment of any consideration at the time of adjustment of the claims, borrowers who transferred the security property to approved applicants, to other than approved applicants, or for amounts less than the indebtedness secured thereby, struck out provisions that compromise, adjustment, or reduction of the claim shall be based on the value of the security and a determination of the debtor's reasonable ability to pay considering his other assets and income, and struck out provisions relating to any claim due and payable for five years or more and to partial releases and subordination of mortgages.
+<b>1985</b>—Par. (d). Pub. L. 99–198, §1309, in amending par. (d) generally, substituted provisions authorizing the Secretary to compromise, adjust, reduce, or charge-off claims, and adjust, modify, subordinate, or release the terms of security instruments, leases, contracts, and agreements entered into or administered by the Farmers Home Administration to carry out this chapter for provisions which had authorized the Secretary to compromise, adjust, or reduce claims, and adjust and modify the terms of mortgages, leases, contracts and agreements entered into or administered by the Administration under any of its programs, but not in the event of claims of $25,000 or more without the approval of the Administrator, substituted provisions authorizing the Secretary to release borrowers or others obligated on a debt incurred under this chapter from personal liability with or without consideration at the time of the compromise, adjustment, reduction or charge-off of any claim for provisions authorizing the Secretary to release from personal liability, with or without payment of any consideration at the time of adjustment of the claims, borrowers who transferred the security property to approved applicants, to other than approved applicants, or for amounts less than the indebtedness secured thereby, struck out provisions that compromise, adjustment, or reduction of the claim shall be based on the value of the security and a determination of the debtor's reasonable ability to pay considering his other assets and income, and struck out provisions relating to any claim due and payable for five years or more and to partial releases and subordination of mortgages.
 
 <b>1981</b>—Par. (i). Pub. L. 97–98 designated existing provisions following "consent to" as cl. (2) and added cl. (1).
 
@@ -236,7 +236,7 @@ Pars. (d) to (i). Pub. L. 92–419, §124(2), substituted a semicolon for a peri
 
 #### Change of Name
 
-Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments made to section 6932 of this title by Pub. L. 115–334, title XII, §12404(a), Dec. 20, 2018, 132 Stat. 4974.
+Consolidated Farm Service Agency effectively renamed Farm Service Agency by the amendments madeto section 6932 of this title by Pub. L. 115–334, title XII, §12404(a), Dec. 20, 2018, 132 Stat. 4974.
 
 #### Effective Date of 2002 Amendment
 

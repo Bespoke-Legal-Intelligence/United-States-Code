@@ -4,7 +4,7 @@
 
 The Secretary may, out of appropriations authorized under section 254k of this title, make one loan to a Corps member who has agreed in writing—
 
-&emsp;(1) to engage in the private full-time clinical practice of the profession of the member in ahealth professional shortage area (designated under section 254e of this title) for a period of not less than 2 years which—
+&emsp;(1) to engage in the private full-time clinical practice of the profession of the member in a health professional shortage area (designated under section 254e of this title) for a period of not less than 2 years which—
 
 &emsp;&emsp;(A) in the case of a Corps member who is required to complete a period of obligated service under this subpart, begins not later than 1 year after the date on which such individual completes such period of obligated service; and
 

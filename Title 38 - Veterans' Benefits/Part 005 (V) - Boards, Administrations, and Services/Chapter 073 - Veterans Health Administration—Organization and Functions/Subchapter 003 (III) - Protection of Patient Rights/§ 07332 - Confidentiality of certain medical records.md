@@ -50,7 +50,7 @@
 
 (B) A disclosure under such paragraph may be made by a physician or counselor other than the physician or counselor referred to in subparagraph (A) if such physician or counselor is unavailable by reason of absence or termination of employment to make the disclosure.
 
-(g) Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined, in the case of a first offense, up to the maximum amount provided under section 5701(f) of this title for a first offense under that section and, in the case of a subsequent offense, up to the maximum amount provided under section 5701(f) of this title for a subsequent offense under that section.
+(g) Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined, in the case of a first offense, up to the maximum amount provided under section 5701(f) of this title for a first offense under that section and, in the case of asubsequent offense, up to the maximum amount provided under section 5701(f) of this title for a subsequent offense under that section.
 
 (Added Pub. L. 94–581, title I, §111(a)(1), Oct. 21, 1976, 90 Stat. 2849, §4132; amended Pub. L. 100–322, title I, §121, May 20, 1988, 102 Stat. 502; renumbered §7332 and amended Pub. L. 102–40, title IV, §§401(a)(4)(A), 402(d)(1), 403(a)(1), (2), (4), (5), May 7, 1991, 105 Stat. 221, 239; Pub. L. 109–461, title II, §204(b), Dec. 22, 2006, 120 Stat. 3411; Pub. L. 111–163, title V, §504, May 5, 2010, 124 Stat. 1157; Pub. L. 112–74, div. H, title II, §230(b), Dec. 23, 2011, 125 Stat. 1159; Pub. L. 115–26, §3, Apr. 19, 2017, 131 Stat. 130; Pub. L. 115–182, title I, §132, June 6, 2018, 132 Stat. 1427.)
 

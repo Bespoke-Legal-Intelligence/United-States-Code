@@ -76,7 +76,7 @@
 
 #### Updates and Preservation of Memorials to Chaplains at Arlington National Cemetery
 
-Pub. L. 117–81, div. A, title V, §584, Dec. 27, 2021, 135 Stat. 1758, provided that:
+Pub. L. 117–81, div. A, title V, §584, Dec. 27, 2021, 135 Stat. 1758, as amended by Pub. L. 117–263, div. A, title V, §593, Dec. 23, 2022, 136 Stat. 2612, provided that:
 
 "(a)
 
@@ -86,7 +86,7 @@ Updates and Preservation of Memorials.—
 
 Protestant chaplains memorial.—The Secretary of the Army may permit NCMAF—
 
-&emsp;&emsp;"(A) to modify the memorial to Protestant chaplains located on Chaplains Hill to include a granite, marble, or other stone base for the bronze plaque of the memorial;
+&emsp;&emsp;"(A) to modify the memorial to Protestant chaplains located on Chaplains Hill to include a granite,marble, or other stone base for the bronze plaque of the memorial;
 
 &emsp;&emsp;"(B) to provide an updated bronze plaque, described in subparagraph (A), including the name of each chaplain, verified as described in subsection (b), who died while serving on active duty in the Armed Forces after the date on which the original memorial was placed; and
 
@@ -99,6 +99,10 @@ Catholic and jewish chaplain memorials.—The Secretary of the Army may permit N
 &emsp;"(3)
 
 No cost to federal government.—The activities of NCMAF authorized by this subsection shall be carried out at no cost to the Federal Government.
+
+&emsp;"(4)
+
+Authority of secretary of the army.—The Secretary of the Army may permit NCMAF to carry out any action authorized by this subsection without regard to the time limitation under section 2409(b)(2)(C) of title 38, United States Code.
 
 "(b)
 

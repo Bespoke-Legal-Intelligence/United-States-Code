@@ -40,7 +40,7 @@ Commercial Validity.—For purposes of claims by any party other than the Secret
 
 (g)
 
-Default.—The Secretary shall prescribe regulations setting forth procedures in the event of default on a loan made or guaranteed under section 22402. The Secretary shall ensure that each loan guarantee made under that section contains terms and conditions that provide that—
+Default.—The Secretary shall prescribe regulations setting forth procedures in the eventof default on a loan made or guaranteed under section 22402. The Secretary shall ensure that each loan guarantee made under that section contains terms and conditions that provide that—
 
 &emsp;(1) if a payment of principal or interest under the loan is in default for more than 30 days, the Secretary shall pay to the holder of the obligation, or the holder's agent, the amount of unpaid guaranteed interest;
 
@@ -100,7 +100,7 @@ Purposes.—The Secretary may collect from each applicant, obligor, or loan part
 
 &emsp;(2)
 
-Standards.—The Secretary may charge different amounts under this subsection basedon the different costs incurred under paragraph (1).
+Standards.—The Secretary may charge different amounts under this subsection based on the different costs incurred under paragraph (1).
 
 &emsp;(3)
 

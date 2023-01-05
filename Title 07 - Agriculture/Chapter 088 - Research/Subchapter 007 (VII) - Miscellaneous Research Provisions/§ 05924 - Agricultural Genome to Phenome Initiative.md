@@ -30,7 +30,7 @@ The goals of this section are—
 
 The Secretary of Agriculture (referred to in this section as the "Secretary") shall conduct a research initiative, to be known as the "Agricultural Genome to Phenome Initiative", for the purpose of—
 
-&emsp;(1) studying agriculturally significant crops and animals in production environments to achieve sustainable and secure agricultural production;
+&emsp;(1) studying agriculturally significant crops and animals in production environments toachieve sustainable and secure agricultural production;
 
 &emsp;(2) ensuring that current gaps in existing knowledge of agricultural crop and animal genetics and phenomics are filled;
 

@@ -8,7 +8,7 @@ At the request of an owner of a facility not owned or operated by the United Sta
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the owner of a facility provided assistance under subsection (a) shall reimburse the Secretary for the costs incurred by the Secretary in providing the assistance.
+&emsp;Except as provided in paragraph (2), the owner of a facility provided assistance undersubsection (a) shall reimburse the Secretary for the costs incurred by the Secretary in providing the assistance.
 
 #### (2) Exception
 

@@ -46,7 +46,7 @@ Annual Assessment.—(1) The Secretary of Defense, through the Secretary of the 
 
 &emsp;&emsp;(iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel.
 
-(3)(A) The Secretary of Defense may postpone the conduct of an assessment under this subsection if the Secretary determines that conducting such assessment is not practicable due to a war or national emergency declared by the President or Congress.
+(3)(A) The Secretary of Defense may postpone the conduct of an assessment under this subsection if the Secretary determines that conducting such assessment is not practicable dueto a war or national emergency declared by the President or Congress.
 
 (B) The Secretary of Defense shall ensure that an assessment postponed under subparagraph (A) is conducted as soon as practicable after the end of the period of war or national emergency concerned, or earlier if the Secretary determines appropriate.
 
@@ -92,13 +92,13 @@ Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual A
 
 &emsp;&emsp;(ii) subject to the cadet's acceptance for admission to the institution of higher education to which the cadet wishes to transfer, to approve such request for transfer unless there are exceptional circumstances that require denial of the application; and
 
-&emsp;&emsp;(iii) to take all necessary and appropriate action to effectuate the cadet's enrollment in the institution of higher education to which the cadet wishes to transfer and toprocess the cadet for participation in the relevant Senior Reserve Officers' Training Corps program as expeditiously as possible.
+&emsp;&emsp;(iii) to take all necessary and appropriate action to effectuate the cadet's enrollment in the institution of higher education to which the cadet wishes to transfer and to process the cadet for participation in the relevant Senior Reserve Officers' Training Corps program as expeditiously as possible.
 
 (3) If the Superintendent of the United States Military Academy denies a request for transfer under this subsection, the cadet may request review of the denial by the Secretary of the Army, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
 
 (4) The Secretary concerned shall ensure that all records of any request, determination, transfer, or other action under this subsection remain confidential, consistent with applicable law and regulation.
 
-(5) A cadet who transfers under this subsection may retain the cadet's appointment to the United States Military Academy or may be appointed to the military service academy to which the cadet transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of this title.
+(5) A cadet who transfers under this subsection may retain the cadet's appointment to the United States Military Academy or may be appointed to the military service academy towhich the cadet transfers without regard to the limitations and requirements set forth in sections 7442, 8454, and 9442 of this title.
 
 (Added Pub. L. 109–364, div. A, title V, §532(a)(1), Oct. 17, 2006, 120 Stat. 2200, §4361; renumbered §7461, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 116–92, div. A, title V, §555(a), Dec. 20, 2019, 133 Stat. 1388; Pub. L. 116–283, div. A, title V, §552(b)(1), Jan. 1, 2021, 134 Stat. 3632.)
 
@@ -238,7 +238,7 @@ Distribution.—Each Superintendent shall provide the current guide developed by
 
 #### Applicability of Sexual Assault Prevention and Response and Related Military Justice Enhancements to Military Service Academies
 
-Pub. L. 113–291, div. A, title V, §552(a), Dec. 19, 2014, 128 Stat. 3377, provided that: "The Secretary of the military department concerned shall ensure that the provisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 950) \[see Tables for classification\], including amendments made by that title, and the provisions of subtitle D \[subtitle D (§§531–547) of title V of div. A of Pub. L. 113–291, see Tables for classification\], including amendments made by such subtitle, apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable."
+Pub. L. 113–291, div. A, title V, §552(a), Dec. 19, 2014, 128 Stat. 3377, provided that: "The Secretary of the military department concerned shall ensure that theprovisions of title XVII of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; 127 Stat. 950) \[see Tables for classification\], including amendments made by that title, and the provisions of subtitle D \[subtitle D (§§531–547) of title V of div. A of Pub. L. 113–291, see Tables for classification\], including amendments made by such subtitle, apply to the United States Military Academy, the Naval Academy, and the Air Force Academy, as applicable."
 
 #### Prevention of Sexual Assault at Military Service Academies
 

@@ -34,7 +34,7 @@ Any claim for benefits by a miner under this section shall be filed within three
 
 #### (g) Reduction of monthly benefits
 
-The amount of benefits payable under this section shall be reduced, on a monthly or other appropriate basis, by the amount of any compensation received under or pursuant to any Federal or State workmen's compensation law because of death or disability due to pneumoconiosis. In addition, the amount of benefits payable under this section with respect to any claim filed on or after the effective date of the Black Lung Benefits Amendments of 1981 shall be reduced, on a monthly or other appropriate basis, by the amount by which such benefits would be reduced on account of excess earnings of such miner under section 403(b) through (l) of title 42 if the amount paid were a benefit payable under section 402 of title 42.
+The amount of benefits payable under this section shall be reduced, on a monthly or other appropriate basis, by the amount of any compensation received under or pursuant to any Federal or State workmen's compensation law becauseof death or disability due to pneumoconiosis. In addition, the amount of benefits payable under this section with respect to any claim filed on or after the effective date of the Black Lung Benefits Amendments of 1981 shall be reduced, on a monthly or other appropriate basis, by the amount by which such benefits would be reduced on account of excess earnings of such miner under section 403(b) through (l) of title 42 if the amount paid were a benefit payable under section 402 of title 42.
 
 #### (h) Promulgation of regulations
 
@@ -82,7 +82,7 @@ In no case shall the eligible survivors of a miner who was determined to be elig
 
 Section 28(h)(1) of the Longshore and Harbor Workers' Compensation Act Amendments of 1984, referred to in subsec. (a), is section 28(h)(1) of Pub. L. 98–426, which is set out as a note under section 907 of Title 33, Navigation and Navigable Waters.
 
-Public Law 803, 69th Congress, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended,popularly known as the Longshore and Harbor Workers' Compensation Act, which is classified generally to chapter 18 (§901 et seq.) of Title 33. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
+Public Law 803, 69th Congress, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, popularly known as the Longshore and Harbor Workers' Compensation Act, which is classified generally to chapter 18 (§901 et seq.) of Title 33. For complete classification of this Act to the Code, see section 901 of Title 33 and Tables.
 
 Section 42 of Public Law 803, referred to in subsec. (a), was repealed by Pub. L. 89-554, §8(a), Sept. 6, 1966, 80 Stat. 647.
 

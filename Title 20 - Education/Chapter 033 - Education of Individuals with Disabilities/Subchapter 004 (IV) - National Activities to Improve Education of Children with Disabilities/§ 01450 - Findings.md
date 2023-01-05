@@ -14,7 +14,7 @@ Congress finds the following:
 
 &emsp;&emsp;(B) clearly define, in objective, measurable terms, the school and post-school results that children with disabilities are expected to achieve; and
 
-&emsp;&emsp;(C) promote transition services and coordinate State and local education, social, health, mental health, and other services, inaddressing the full range of student needs, particularly the needs of children with disabilities who need significant levels of support to participate and learn in school and the community.
+&emsp;&emsp;(C) promote transition services and coordinate State and local education, social, health, mental health, and other services, in addressing the full range of student needs, particularly the needs of children with disabilities who need significant levels of support to participate and learn in school and the community.
 
 &emsp;(5) The availability of an adequate number of qualified personnel is critical—
 
@@ -36,7 +36,7 @@ Congress finds the following:
 
 &emsp;(10) Parents, teachers, administrators, and related services personnel need technical assistance and information in a timely, coordinated, and accessible manner in order to improve early intervention, educational, and transitional services and results at the State and local levels for children with disabilities and their families.
 
-&emsp;(11) Parent training and information activities assist parents of a child with a disability in dealing with the multiple pressures of parenting such a child and are of particular importance in—
+&emsp;(11) Parent training and information activities assist parents of a child with a disabilityin dealing with the multiple pressures of parenting such a child and are of particular importance in—
 
 &emsp;&emsp;(A) playing a vital role in creating and preserving constructive relationships between parents of children with disabilities and schools by facilitating open communication between the parents and schools; encouraging dispute resolution at the earliest possible point in time; and discouraging the escalation of an adversarial process between the parents and schools;
 

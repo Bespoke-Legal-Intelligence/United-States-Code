@@ -26,7 +26,7 @@ Restrictions.—An appointment under paragraph (1) shall be made in accordance w
 
 (c)
 
-Qualifications for Appointment.—The head of an agency may make an appointment under subsection (b) only if the individual being appointed—
+Qualifications for Appointment.—The head of an agency may make an appointmentunder subsection (b) only if the individual being appointed—
 
 &emsp;(1) has received a baccalaureate or graduate degree from an institution of higher education;
 

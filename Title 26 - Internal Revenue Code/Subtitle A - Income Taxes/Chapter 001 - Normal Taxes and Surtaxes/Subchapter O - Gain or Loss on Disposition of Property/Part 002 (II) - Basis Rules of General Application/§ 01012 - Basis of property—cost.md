@@ -18,7 +18,7 @@ The cost of real property shall not include any amount in respect of real proper
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), any stock for which an average basis methodis permissible under this section which is acquired before January 1, 2012, shall be treated as a separate account from any such stock acquired on or after such date.
+&emsp;&emsp;Except as provided in subparagraph (B), any stock for which an average basis method is permissible under this section which is acquired before January 1, 2012, shall be treated as a separate account from any such stock acquired on or after such date.
 
 #### (B) Election for treatment as single account
 
@@ -52,7 +52,7 @@ The cost of real property shall not include any amount in respect of real proper
 
 #### (B) Average basis method
 
-&emsp;&emsp;Notwithstanding paragraph (1), in the case of an election under rules similar to the rules of subsection (c)(2)(B) with respect to stock held in connection with a dividend reinvestment plan, the average basis method is permissible with respect to all such stock without regard to the date of the acquisition of such stock.
+&emsp;&emsp;Notwithstanding paragraph (1), in the case of an election under rules similar to therules of subsection (c)(2)(B) with respect to stock held in connection with a dividend reinvestment plan, the average basis method is permissible with respect to all such stock without regard to the date of the acquisition of such stock.
 
 #### (4) Dividend reinvestment plan
 

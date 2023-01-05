@@ -16,7 +16,7 @@ The Secretary shall provide assistance directly to a jurisdiction only if—
 
 A housing strategy submitted under this section shall be in a form that the Secretary determines to be appropriate for the assistance the jurisdiction may be provided and shall—
 
-&emsp;(1) describe the jurisdiction's estimated housing needs projected for the ensuing 5-year period, and the jurisdiction's need for assistance for very low-income, low-income, and moderate-income families, specifying such needs for different types of tenure and for different categories of residents, such as verylow-income, low-income, and moderate-income families, the elderly, persons with disabilities, single persons, large families, residents of nonmetropolitan areas, families who are participating in an organized program to achieve economic independence and self-sufficiency, persons with acquired immunodeficiency syndrome, victims of domestic violence, dating violence, sexual assault, and stalking and other categories of persons residing in or expected to reside in the jurisdiction that the Secretary determines to be appropriate;
+&emsp;(1) describe the jurisdiction's estimated housing needs projected for the ensuing 5-year period, and the jurisdiction's need for assistance for very low-income, low-income, and moderate-income families, specifying such needs for different types of tenure and for different categories of residents, such as very low-income, low-income, and moderate-income families, the elderly, persons with disabilities, single persons, large families, residents of nonmetropolitan areas, families who are participating in an organized program to achieve economic independence and self-sufficiency, persons with acquired immunodeficiency syndrome, victims of domestic violence, dating violence, sexual assault, and stalking and other categories of persons residing in or expected to reside in the jurisdiction that the Secretary determines to be appropriate;
 
 &emsp;(2) describe the nature and extent of homelessness, including rural homelessness, within the jurisdiction, providing an estimate of the special needs of various categories of persons who are homeless or threatened with homelessness, including tabular representation of such information, and a description of the jurisdiction's strategy for (A) helping low-income families avoid becoming homeless; (B) addressing the emergency shelter and transitional housing needs of homeless persons (including a brief inventory of facilities and services that meet such needs within that jurisdiction); and (C) helping homeless persons make the transition to permanent housing and independent living;
 
@@ -48,7 +48,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(16) include a certification that the jurisdiction has in effect and is following a residential antidisplacement and relocation assistance plan that, in any case of any such displacement in connection with any activity assisted with amounts provided under subchapter II, requires the same actions and provides the same rights as required and provided under a residential antidisplacement and relocation assistance plan under section 104(d) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5304(d)\] in the event of displacement in connection with a development project assisted under section 106 or 119 of such Act \[42 U.S.C. 5306, 5318\];
 
-&emsp;(17) estimate the number of housing units within the jurisdiction that are occupied bylow-income families or very low-income families and that contain lead-based paint hazards, as defined in section 4851b of this title, outline the actions proposed or being taken to evaluate and reduce lead-based paint hazards, and describe how lead-based paint hazard reduction will be integrated into housing policies and programs;
+&emsp;(17) estimate the number of housing units within the jurisdiction that are occupied by low-income families or very low-income families and that contain lead-based paint hazards, as defined in section 4851b of this title, outline the actions proposed or being taken to evaluate and reduce lead-based paint hazards, and describe how lead-based paint hazard reduction will be integrated into housing policies and programs;
 
 &emsp;(18) include the number of families to whom the jurisdiction will provide affordable housing as defined in section 12745 of this title using funds made available;
 
@@ -110,9 +110,9 @@ This Act, referred to in subsecs. (b)(6), (14) and (c)(1), is Pub. L. 101–625,
 
 The United States Housing Act of 1937, referred to in subsec. (b)(7), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (b)(7), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (b)(7), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(7), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(7), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, which is classified principally to chapter 119 (§11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 The effective date of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (g)(2), probably means the general effective date for title V of Pub. L. 105–276, included in section 503 of Pub. L. 105–276 which is set out as an Effective Date of 1998 Amendment note under section 1437 of this title.
 
@@ -124,7 +124,7 @@ The effective date of the Quality Housing and Work Responsibility Act of 1998, r
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–276, §583(1), transferred flush provisions relating to abbreviated housing strategies to end of subsection to follow last numbered paragraph.
 
-Subsec. (b)(11) to (15). Pub. L. 105–276, §583(6), (7), added par. (11) and redesignated former pars. (11) to (14) as (12) to (15), respectively. Former par. (15) redesignated (16).
+Subsec. (b)(11) to (15). Pub. L. 105–276, §583(6), (7), added par. (11) and redesignated former pars. (11) to (14)as (12) to (15), respectively. Former par. (15) redesignated (16).
 
 Subsec. (b)(16). Pub. L. 105–276, §583(6), redesignated par. (15) as (16). Former par. (16), relating to housing units that contain lead-based paint hazards, redesignated (17), and former par. (16), relating to number of families to whom jurisdiction will provide affordable housing, redesignated (18).
 
@@ -164,7 +164,7 @@ Pub. L. 102–550, §220(c)(1), redesignated par. (15) as (16). Former par. (16)
 
 Pub. L. 102–550, §220(b)(3), added at end par. (16) relating to reducing the number of households within a jurisdiction with incomes below the poverty line.
 
-Subsec. (b)(17). Pub. L. 102–550, §681(2), which directed amendment of subsec. (b) by adding "after paragraph (16), as added by the preceding provisions of this Act", a new par. (17) relating to activities to enhance coordination, was executed by adding that par. (17) after par. (17) (formerly par. (16), relating to reducing the number of households within a jurisdiction with incomes belowthe poverty line, to reflect the probable intent of Congress.
+Subsec. (b)(17). Pub. L. 102–550, §681(2), which directed amendment of subsec. (b) by adding "after paragraph (16), as added by the preceding provisions of this Act", a new par. (17) relating to activities to enhance coordination, was executed by adding that par. (17) after par. (17) (formerly par. (16), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, to reflect the probable intent of Congress.
 
 Pub. L. 102–550, §220(c)(1), redesignated par. (16), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, as (17).
 

@@ -54,7 +54,7 @@
 
 (B) The Board has jurisdiction under sections 11102 and 11103 of this title over transportation provided by a local governmental authority only if the Board finds that such governmental authority meets all of the standards and requirements for being a rail carrier providing transportation subject to the jurisdiction of the Interstate Commerce Commission that were in effect immediately before January 1, 1996. The enactment of the ICC Termination Act of 1995 shall neither expand nor contract coverage of employees and employers by the Railway Labor Act, the Railroad Retirement Act of 1974, the Railroad Retirement Tax Act, and the Railroad Unemployment Insurance Act.
 
-(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 807; amended Pub. L. 104–287, §5(21), Oct. 11, 1996, 110 Stat. 3390; Pub. L.110–432, div. A, title VI, §602, Oct. 16, 2008, 122 Stat. 4900; Pub. L. 114–94, div. A, title III, §3030(g), Dec. 4, 2015, 129 Stat. 1497.)
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 807; amended Pub. L. 104–287, §5(21), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 110–432, div. A, title VI, §602, Oct. 16, 2008, 122 Stat. 4900; Pub. L. 114–94, div. A, title III, §3030(g), Dec. 4, 2015, 129 Stat. 1497.)
 
 #### <b>Editorial Notes</b>
 
@@ -62,13 +62,13 @@
 
 The ICC Termination Act of 1995, referred to in subsec. (c)(3)(B), is Pub. L. 104–88, Dec. 29, 1995, 109 Stat. 803. For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under section 101 of this title and Tables.
 
-The Railway Labor Act, referred to in subsec. (c)(3)(B), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (c)(3)(B), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 The Railroad Retirement Act of 1974, referred to in subsec. (c)(3)(B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
-The Railroad Retirement Tax Act, referred to in subsec. (c)(3)(B), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
+The Railroad Retirement Tax Act, referred to in subsec. (c)(3)(B), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
 #### Prior Provisions
 
@@ -84,7 +84,7 @@ Subsec. (c)(1)(B). Pub. L. 114–94, §3030(g)(1)(B), substituted "public transp
 
 Subsec. (c)(2)(A). Pub. L. 114–94, §3030(g)(2), substituted "public transportation" for " mass transportation".
 
-<b>2008</b>—Subsec. (c)(2). Pub. L. 110–432 amended par. (2) generally. Prior to amendment, text read as follows: "Except as provided in paragraph (3), the Board does not have jurisdiction under this part over mass transportation provided by a local governmental authority."
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–432 amended par. (2) generally. Prior to amendment, text read as follows:"Except as provided in paragraph (3), the Board does not have jurisdiction under this part over mass transportation provided by a local governmental authority."
 
 <b>1996</b>—Subsec. (c)(3)(B). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of the ICC Termination Act of 1995".
 

@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall permit hunting and fishing on land and water under the jurisdiction of the Secretary within the boundaries of the Recreation Area in accordance with applicable laws of the United States and of each State, respectively.
+&emsp;The Secretary shall permit hunting and fishing on land and water under the jurisdiction ofthe Secretary within the boundaries of the Recreation Area in accordance with applicable laws of the United States and of each State, respectively.
 
 #### (2) Prohibition
 
@@ -30,5 +30,29 @@
 
 &emsp;Nothing in this subchapter affects the jurisdiction or responsibilities of the States with respect to wildlife and fish on national forests.
 
-(Pub. L. 105–277, div. A, §101(e) \[title V, §529\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–317.)
+#### (c) Historical resources
+
+#### (1) In general
+
+&emsp;The Secretary shall identify and manage the historical resources of the Recreation Area—
+
+&emsp;&emsp;(A) in accordance with the requirements of division A of subtitle III of title 54 (formerly known as the "National Historic Preservation Act"); and
+
+&emsp;&emsp;(B) in consultation with qualified residents or relatives.
+
+#### (2) Consideration
+
+&emsp;The Secretary shall—
+
+&emsp;&emsp;(A) in accordance with applicable law, give consideration to requests by qualified residents or relatives to use and maintain traditional sites, buildings, cemeteries, and other areas of cultural importance in the Recreation Area; and
+
+&emsp;&emsp;(B) consult with qualified residents or relatives in the management of the historical resources of the Recreation Area.
+
+(Pub. L. 105–277, div. A, §101(e) \[title V, §529\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–317; Pub. L. 117–328, div. DD, title II, §201(h), Dec. 29, 2022, 136 Stat. 5583.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–328 added subsec. (c).
 

@@ -18,7 +18,7 @@
 
 The Office established under subsection (a)(1) shall—
 
-&emsp;(1) coordinate the activities of the Department relating to the National Capital Region, including cooperation with the Office for State and Local Government Coordination;
+&emsp;(1) coordinate the activities of the Department relating to the National Capital Region,including cooperation with the Office for State and Local Government Coordination;
 
 &emsp;(2) assess, and advocate for, the resources needed by State, local, and regional authorities in the National Capital Region to implement efforts to secure the homeland;
 
@@ -52,5 +52,5 @@ Nothing contained in this section shall be construed as limiting the power of St
 
 #### Incorporation of Governors of West Virginia and Pennsylvania into Mass Evacuation Planning
 
-Pub. L. 113–6, div. D, title III, Mar. 26, 2013, 127 Stat. 357, provided in part: "That for fiscal year 2013 and thereafter, for purposes of planning, coordination, execution, and decision making related to mass evacuation during a disaster, the Governors of the State of West Virginia and the Commonwealth of Pennsylvania, or their designees, shall be incorporated into efforts tointegrate the activities of Federal, State, and local governments in the National Capital Region, as defined in section 882 of the Homeland Security Act of 2002 (Public Law 107–296) \[6 U.S.C. 462\]".
+Pub. L. 113–6, div. D, title III, Mar. 26, 2013, 127 Stat. 357, provided in part: "That for fiscal year 2013 and thereafter, for purposes of planning, coordination, execution, and decision making related to mass evacuation during a disaster, the Governors of the State of West Virginia and the Commonwealth of Pennsylvania, or their designees, shall be incorporated into efforts to integrate the activities of Federal, State, and local governments in the National Capital Region, as defined in section 882 of the Homeland Security Act of 2002 (Public Law 107–296) \[6 U.S.C. 462\]".
 

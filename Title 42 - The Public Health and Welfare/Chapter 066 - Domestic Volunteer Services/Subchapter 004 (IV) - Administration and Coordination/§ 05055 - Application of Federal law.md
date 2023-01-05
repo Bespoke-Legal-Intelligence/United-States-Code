@@ -10,7 +10,7 @@ Individuals enrolled as volunteers for periods of full-time service, or, as the 
 
 #### (c) Subsequent Government employment
 
-Any period of service of a volunteer enrolled in a program for a period of service of at least one year under part A of subchapter I of this chapter, and any period of full-time service of avolunteer enrolled in a program for a period of service of at least one year under part B (as such part was in effect on the day before April 21, 2009) or C of subchapter I of this chapter, shall be credited in connection with subsequent employment in the same manner as a like period of civilian employment by the United States Government—
+Any period of service of a volunteer enrolled in a program for a period of service of at least one year under part A of subchapter I of this chapter, and any period of full-time service of a volunteer enrolled in a program for a period of service of at least one year under part B (as such part was in effect on the day before April 21, 2009) or C of subchapter I of this chapter, shall be credited in connection with subsequent employment in the same manner as a like period of civilian employment by the United States Government—
 
 &emsp;(1) for the purposes of any Act establishing a retirement system for civilian employees of any United States Government agency; and
 
@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, all references in any other law to p
 
 &emsp;(B) through proceedings for compensation or other benefits from the United States as provided by any other law, where the availability of such benefits precludes a remedy under section 1346(b) or 2672 of such title 28,
 
-> for damages for personal injury, including death, allegedly arising from malpractice or negligence of a physician, dentist, podiatrist, optometrist, nurse, physician assistant, expanded-function dental auxiliary, pharmacist, or paramedical (for example, medical and dental technicians, nursing assistants, and therapists) or other supporting personnel in furnishing medical care or treatment while in the exercise of such person's duties as a volunteer enrolled under subchapter I of this chapter shall be exclusive of any other civil action or proceeding by reason of the same subject matter against such person (or such person's estate) whose action or omission gave rise to such claim.
+> for damages for personal injury, including death, allegedly arising from malpractice or negligence of a physician, dentist, podiatrist, optometrist, nurse, physician assistant, expanded-function dental auxiliary, pharmacist, orparamedical (for example, medical and dental technicians, nursing assistants, and therapists) or other supporting personnel in furnishing medical care or treatment while in the exercise of such person's duties as a volunteer enrolled under subchapter I of this chapter shall be exclusive of any other civil action or proceeding by reason of the same subject matter against such person (or such person's estate) whose action or omission gave rise to such claim.
 
 (2) The Attorney General of the United States shall defend any civil action or proceeding brought in any court against any person referred to in paragraph (1) of this subsection (or such person's estate) for any such damage or injury. Any such person against whom such civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such person or an attested true copy thereof to such person's immediate supervisor or to whomever is designated by the Director to receive such papers, and such person shall promptly furnish copies of the pleading and process therein to the United States attorney for the district embracing the place wherein the proceeding is brought and to the Attorney General.
 
@@ -46,7 +46,7 @@ Notwithstanding any other provision of law, all references in any other law to p
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (e) and (f)(1), was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the DomesticVolunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (e) and (f)(1), was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

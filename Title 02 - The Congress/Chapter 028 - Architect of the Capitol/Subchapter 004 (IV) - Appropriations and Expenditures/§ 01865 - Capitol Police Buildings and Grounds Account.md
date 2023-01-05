@@ -40,5 +40,5 @@ Section was classified to section 166l of former Title 40, prior to the enactmen
 
 #### Amendments
 
-<b>2018</b>—Subsecs. (b) to (d). Pub. L. 115–244 added subsec. (c), redesignated former subsec. (c) as (d), and amended subsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows: "Funds in the account shall be used by the Architect of the Capitol for all necessaryexpenses for the maintenance, care, and operation of buildings and grounds of the United States Capitol Police."
+<b>2018</b>—Subsecs. (b) to (d). Pub. L. 115–244 added subsec. (c), redesignated former subsec. (c) as (d), and amended subsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows: "Funds in the account shall be used by the Architect of the Capitol for all necessary expenses for the maintenance, care, and operation of buildings and grounds of the United States Capitol Police."
 

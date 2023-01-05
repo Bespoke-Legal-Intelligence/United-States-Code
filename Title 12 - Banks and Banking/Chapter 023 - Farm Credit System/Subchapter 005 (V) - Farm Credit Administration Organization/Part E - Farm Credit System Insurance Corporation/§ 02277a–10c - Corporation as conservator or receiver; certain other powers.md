@@ -142,7 +142,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Before the end of the 180-day period beginning on the date any claim against a System institution is filed with the Corporation as receiver, the Corporation shall determine whether to allow or disallow the claim and shall notify the claimant of any determination with respect to such claim.
+&emsp;&emsp;&emsp;Before the end of the 180-day period beginning on the date any claim against aSystem institution is filed with the Corporation as receiver, the Corporation shall determine whether to allow or disallow the claim and shall notify the claimant of any determination with respect to such claim.
 
 #### (ii) Extension of time
 
@@ -178,7 +178,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (ii) Certain exceptions
 
-&emsp;&emsp;&emsp;Clause (i) shall not apply with respect to any claim filed by any claimant after thedate specified in the notice published under paragraph (3)(B)(i) and such claim may be considered by the receiver if—
+&emsp;&emsp;&emsp;Clause (i) shall not apply with respect to any claim filed by any claimant after the date specified in the notice published under paragraph (3)(B)(i) and such claim may be considered by the receiver if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the claimant did not receive notice of the appointment of the receiver in time to file such claim before such date; and
 
@@ -306,7 +306,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (C) Rulemaking authority of Corporation
 
-&emsp;&emsp;The Corporation may prescribe such rules, including definitions of terms, as it deems appropriate to establish a single uniform interest rate for or to make payments of post insolvency interest to creditors holding proven claims against the receivership estates of System institutions following satisfaction by the receiver of the principal amount of all creditor claims.
+&emsp;&emsp;The Corporation may prescribe such rules, including definitions of terms, as it deemsappropriate to establish a single uniform interest rate for or to make payments of post insolvency interest to creditors holding proven claims against the receivership estates of System institutions following satisfaction by the receiver of the principal amount of all creditor claims.
 
 #### (11) Priority of expenses and claims
 
@@ -328,7 +328,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 &emsp;&emsp;&emsp;&emsp;(II) an agreement, in writing and approved by the Farm Credit Administration, among the System banks to reallocate the payments.
 
-&emsp;&emsp;&emsp;(iv) In the case of the resolution of a production credit association or other association making direct loans under section 2279b of this title, all claims of a Systembank based on the financing agreement between the association and the System bank—
+&emsp;&emsp;&emsp;(iv) In the case of the resolution of a production credit association or other association making direct loans under section 2279b of this title, all claims of a System bank based on the financing agreement between the association and the System bank—
 
 &emsp;&emsp;&emsp;&emsp;(I) including interest accrued before and after the appointment of the receiver; and
 
@@ -502,7 +502,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation, as conservator or receiver for any System institution, may avoid a transfer of any interest of a System institution-affiliated party, or any person who the Corporation determines is a debtorof the System institution, in property, or any obligation incurred by such party or person, that was made within 5 years of the date on which the Corporation was appointed conservator or receiver if such party or person voluntarily or involuntarily made such transfer or incurred such liability with the intent to hinder, delay, or defraud the System institution, the Farm Credit Administration, or the Corporation.
+&emsp;&emsp;The Corporation, as conservator or receiver for any System institution, may avoid a transfer of any interest of a System institution-affiliated party, or any person who the Corporation determines is a debtor of the System institution, in property, or any obligation incurred by such party or person, that was made within 5 years of the date on which the Corporation was appointed conservator or receiver if such party or person voluntarily or involuntarily made such transfer or incurred such liability with the intent to hinder, delay, or defraud the System institution, the Farm Credit Administration, or the Corporation.
 
 #### (B) Right of recovery
 
@@ -636,7 +636,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (A) In general
 
-&emsp;&emsp;If the conservator or receiver repudiates any contract that meets the requirements of paragraphs (1) through (4) of section 2277a–10(d) of this title for the sale of real property, and the purchaser of such real property under such contract is in possession and is not, as of the date of such repudiation, in default, such purchaser may either—
+&emsp;&emsp;If the conservator or receiver repudiates any contract that meets the requirements ofparagraphs (1) through (4) of section 2277a–10(d) of this title for the sale of real property, and the purchaser of such real property under such contract is in possession and is not, as of the date of such repudiation, in default, such purchaser may either—
 
 &emsp;&emsp;&emsp;(i) treat the contract as terminated by such repudiation; or
 
@@ -664,7 +664,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No provision of this paragraph shall be construed as limiting the right of the conservator or receiver to assign the contractdescribed in subparagraph (A) and sell the property subject to the contract and this paragraph.
+&emsp;&emsp;&emsp;No provision of this paragraph shall be construed as limiting the right of the conservator or receiver to assign the contract described in subparagraph (A) and sell the property subject to the contract and this paragraph.
 
 #### (ii) No liability after assignment and sale
 
@@ -732,7 +732,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 &emsp;&emsp;&emsp;&emsp;(III) any option to enter into any agreement or transaction referred to in subclause (I) or (II);
 
-&emsp;&emsp;&emsp;&emsp;(IV) a master agreement that provides for an agreement or transaction referred to in subclauses (I) through (III), together with all supplements to any suchmaster agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a forward contract under this clause, except that the master agreement shall be considered to be a forward contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), or (III); or
+&emsp;&emsp;&emsp;&emsp;(IV) a master agreement that provides for an agreement or transaction referred to in subclauses (I) through (III), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a forward contract under this clause, except that the master agreement shall be considered to be a forward contract under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), or (III); or
 
 &emsp;&emsp;&emsp;&emsp;(V) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in subclause (I), (II), (III), or (IV), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
 
@@ -778,7 +778,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 &emsp;&emsp;&emsp;&emsp;(I) means—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not the repurchase or reverse repurchasetransaction is a repurchase agreement);
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not the repurchase or reverse repurchase transaction is a repurchase agreement);
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) any option entered into on a national securities exchange relating to foreign currencies;
 
@@ -834,7 +834,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 &emsp;&emsp;&emsp;&emsp;(IV) any option to enter into any agreement or transaction referred to in this clause;
 
-&emsp;&emsp;&emsp;&emsp;(V) a master agreement that provides for an agreement or transaction referred to in any of subclauses (I) through (IV), together with all supplements to any such master agreement, without regard to whether the master agreement contains an agreement or transaction that is not a swap agreement under this clause, except that the master agreement shall be considered to be a swapagreement under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), or (IV); and
+&emsp;&emsp;&emsp;&emsp;(V) a master agreement that provides for an agreement or transaction referred to in any of subclauses (I) through (IV), together with all supplements to any such master agreement, without regard to whether the master agreement contains an agreement or transaction that is not a swap agreement under this clause, except that the master agreement shall be considered to be a swap agreement under this clause only with respect to each agreement or transaction under the master agreement that is referred to in subclause (I), (II), (III), or (IV); and
 
 &emsp;&emsp;&emsp;&emsp;(VI) any security agreement or arrangement or other credit enhancement related to any agreements or transactions referred to in any of subclauses (I) through (V), including any guarantee or reimbursement obligation in connection with any agreement or transaction referred to in any such subclause.
 
@@ -892,7 +892,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (i) Definition of walkaway clause
 
-&emsp;&emsp;&emsp;In this subparagraph, the term "walkaway clause" means any provision ina qualified financial contract that suspends, conditions, or extinguishes a payment obligation of a party, in whole or in part, or does not create a payment obligation of a party that would otherwise exist—
+&emsp;&emsp;&emsp;In this subparagraph, the term "walkaway clause" means any provision in a qualified financial contract that suspends, conditions, or extinguishes a payment obligation of a party, in whole or in part, or does not create a payment obligation of a party that would otherwise exist—
 
 &emsp;&emsp;&emsp;&emsp;(I) solely because of—
 
@@ -948,7 +948,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 &emsp;&emsp;&emsp;&emsp;(II) all claims of such person or any affiliate of such person against such System institution under any such contract (other than any claim which, under the terms of any such contract, is subordinated to the claims of general unsecured creditors of such System institution);
 
-&emsp;&emsp;&emsp;&emsp;(III) all claims of such System institution against such person or any affiliate of such person under any such contract; and
+&emsp;&emsp;&emsp;&emsp;(III) all claims of such System institution against such person or any affiliateof such person under any such contract; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) all property securing or any other credit enhancement for any contract described in subclause (I) or any claim described in subclause (II) or (III) under any such contract; or
 
@@ -960,7 +960,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (D) Transfer of contracts subject to the rules of a clearing organization
 
-&emsp;&emsp;In the event that a conservator or receiver transfers any qualified financial contract and related claims, property, and credit enhancements pursuant to subparagraph (B)(i) and such contract is cleared by or subject to the rules of a clearing organization, theclearing organization shall not be required to accept the transferee as a member by virtue of the transfer.
+&emsp;&emsp;In the event that a conservator or receiver transfers any qualified financial contract and related claims, property, and credit enhancements pursuant to subparagraph (B)(i) and such contract is cleared by or subject to the rules of a clearing organization, the clearing organization shall not be required to accept the transferee as a member by virtue of the transfer.
 
 #### (10) Notification of transfer
 
@@ -1036,7 +1036,7 @@ In addition to the powers inherent in the express grant of corporate authority u
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided by this section, no person may exercise any right orpower to terminate, accelerate, or declare a default under any contract to which the System institution is a party, or to obtain possession of or exercise control over any property of the System institution or affect any contractual rights of the System institution, without the consent of the conservator or receiver, as appropriate, during the 45-day period beginning on the date of the appointment of the conservator, or during the 90-day period beginning on the date of the appointment of the receiver, as applicable.
+&emsp;&emsp;&emsp;Except as otherwise provided by this section, no person may exercise any right or power to terminate, accelerate, or declare a default under any contract to which the System institution is a party, or to obtain possession of or exercise control over any property of the System institution or affect any contractual rights of the System institution, without the consent of the conservator or receiver, as appropriate, during the 45-day period beginning on the date of the appointment of the conservator, or during the 90-day period beginning on the date of the appointment of the receiver, as applicable.
 
 #### (ii) Certain exceptions
 
@@ -1230,7 +1230,7 @@ In any proceeding related to any claim against a System institution's director, 
 
 &emsp;&emsp;&emsp;(iv) has been, continuously from the time of its execution, an official record of such System bank in default;
 
-&emsp;&emsp;(I) notwithstanding subsection <sup>2</sup> 2277a–10(d)(2) of this title, any agreement relating to an extension of credit between a System bank, Federal Reserve bank, or the United States Treasury and any System institution which was executed before the extension of credit by such lender to such System institution shall be treated as having been executed contemporaneously with such extension of credit for purposes of subparagraph (H); and
+&emsp;&emsp;(I) notwithstanding subsection <sup>2</sup> 2277a–10(d)(2) of this title, any agreement relating to an extension of credit between aSystem bank, Federal Reserve bank, or the United States Treasury and any System institution which was executed before the extension of credit by such lender to such System institution shall be treated as having been executed contemporaneously with such extension of credit for purposes of subparagraph (H); and
 
 &emsp;&emsp;(J) except with the prior approval of the Corporation and the concurrence of the Farm Credit Administration, a bridge System bank may not, in any transaction or series of transactions, issue capital stock or be a party to any merger, consolidation, disposition of substantially all of the assets or liabilities of the bridge System bank, sale or exchange of capital stock, or similar transaction, or change its charter.
 
@@ -1250,7 +1250,7 @@ In any proceeding related to any claim against a System institution's director, 
 
 #### (C) Authority to issue capital stock
 
-&emsp;&emsp;Whenever the Farm Credit Administration Board determines it is advisable to do so,the Corporation shall cause capital stock of a bridge System bank to be issued and offered for sale in such amounts and on such terms and conditions as the Corporation may, in its discretion, determine.
+&emsp;&emsp;Whenever the Farm Credit Administration Board determines it is advisable to do so, the Corporation shall cause capital stock of a bridge System bank to be issued and offered for sale in such amounts and on such terms and conditions as the Corporation may, in its discretion, determine.
 
 #### (6) Employee status
 
@@ -1288,7 +1288,7 @@ In any proceeding related to any claim against a System institution's director, 
 
 #### (B) Charter conversion
 
-&emsp;&emsp;Following the sale of a majority or all of the capital stock of the bridge System bank as provided in paragraph (9)(B), the Farm Credit Administration Board may amend the charter of the bridge System bank to reflect the termination of the status of the bridge System bank as such, whereupon the System bank shall remain a System bank, with all of the rights, powers, and privileges thereof, subject to all laws and regulations applicable thereto.
+&emsp;&emsp;Following the sale of a majority or all of the capital stock of the bridge System bankas provided in paragraph (9)(B), the Farm Credit Administration Board may amend the charter of the bridge System bank to reflect the termination of the status of the bridge System bank as such, whereupon the System bank shall remain a System bank, with all of the rights, powers, and privileges thereof, subject to all laws and regulations applicable thereto.
 
 #### (C) Assumption of liabilities and sale of assets
 

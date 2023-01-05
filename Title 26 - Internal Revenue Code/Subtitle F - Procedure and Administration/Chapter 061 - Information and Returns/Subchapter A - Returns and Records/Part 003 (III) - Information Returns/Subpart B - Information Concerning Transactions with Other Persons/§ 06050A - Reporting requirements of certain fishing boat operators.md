@@ -32,7 +32,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 #### Effective Date of 1996 Amendment
 
-Amendments by Pub. L. 104–188 applicable to remuneration paid after Dec. 31, 1996, see section1116(a)(3)(B) of Pub. L. 104–188, set out as a note under section 3121 of this title.
+Amendments by Pub. L. 104–188 applicable to remuneration paid after Dec. 31, 1996, see section 1116(a)(3)(B) of Pub. L. 104–188, set out as a note under section 3121 of this title.
 
 #### Effective Date of 1986 Amendment
 

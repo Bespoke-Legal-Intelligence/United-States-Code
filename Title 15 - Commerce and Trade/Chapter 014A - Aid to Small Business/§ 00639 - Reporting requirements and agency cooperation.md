@@ -2,9 +2,55 @@
 
 #### (a) Annual reports to President and Congressional officers and committees
 
-The Administration shall, as soon as practicable each fiscal year make a comprehensive annual report to the President, the President of the Senate, the Senate Select Committee on Small Business, and the Speaker of the House of Representatives. Such report shall include a description of the state of small business in the Nation and the several States, and a description of the operations of the Administration under this chapter, including, but not limited to, the general lending, disaster relief, Government regulation relief, procurement and property disposal, research and development, technical assistance, dissemination of data and information, and other functions under the jurisdiction of the Administration during the previous fiscal year. Such report shall contain recommendations for strengthening or improving such programs, or, when necessary or desirable to implement more effectively congressional policies and proposals, for establishing new or alternative programs. In addition, such report shall include the names of the business concerns to whom contracts are let and for whom financing is arranged by the Administration, together with the amounts involved. With respect to minority small business concerns, the report shall include the proportion of loans and other assistance under this chapter provided to such concerns, the goals of the Administration for the next fiscal year with respect to such concerns, and recommendations for improving assistance to minority small business concerns under this chapter.
+The Administration shall, as soon as practicable each fiscal year make a comprehensive annual report to the President, the President of the Senate, the Senate Select Committee on Small Business, and the Speaker of the House of Representatives. Such report shall include a description of the state of small business in the Nation and the several States, and a description of the operations of the Administration under this chapter, including, but not limited to, the general lending, disaster relief, Government regulation relief, procurement and property disposal, research and development, technical assistance, dissemination of data and information, and other functions under the jurisdiction of the Administration during the previous fiscal year. Such report shall contain recommendations for strengthening or improving such programs, or, when necessary or desirable to implement more effectively congressional policies and proposals, for establishing new or alternative programs. In addition, such report shall include the names of the business concerns to whom contracts are let and for whom financing is arranged by the Administration, together with the amounts involved. With respect to minority small business concerns, the report shall include the proportion of loans and other assistance under this chapterprovided to such concerns, the goals of the Administration for the next fiscal year with respect to such concerns, and recommendations for improving assistance to minority small business concerns under this chapter.
 
-#### (b) Repealed. Pub. L. 115–189, §7, June 21, 2018, 132 Stat. 1498
+#### (b) Cybersecurity reports
+
+#### (1) Annual report
+
+&emsp;Not later than 180 days after December 21, 2022, and every year thereafter, the Administrator shall submit a report to the appropriate congressional committees that includes—
+
+&emsp;&emsp;(A) a strategy to increase the cybersecurity of information technology infrastructure of the Administration;
+
+&emsp;&emsp;(B) a supply chain risk management strategy and an implementation plan to address the risks of foreign manufactured information technology equipment utilized by the Administration, including specific risk mitigation activities for components originating from entities with principal places of business located in the People's Republic of China; and
+
+&emsp;&emsp;(C) an account of—
+
+&emsp;&emsp;&emsp;(i) any incident that occurred at the Administration during the 2-year period preceding the date on which the first report is submitted, and, for subsequent reports, the 1-year period preceding the date of submission; and
+
+&emsp;&emsp;&emsp;(ii) any action taken by the Administrator to respond to or remediate any such incident.
+
+#### (2) FISMA reports
+
+&emsp;Each report required under paragraph (1) may be submitted as part of the report required under section 3554 of title 44.
+
+#### (3) Rule of construction
+
+&emsp;Nothing in this subsection shall be construed to affect the reporting requirements of the Administrator under chapter 35 of title 44, in particular the requirement to notify the Federal information security incident center under section 3554(b)(7)(C)(ii) of such title, any guidance issued by the Office of Management and Budget, or any other provision of law or Federal policy.
+
+#### (4) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Appropriate congressional committees
+
+&emsp;&emsp;The term "appropriate congressional committees" means—
+
+&emsp;&emsp;&emsp;(i) the Committee on Small Business and Entrepreneurship of the Senate;
+
+&emsp;&emsp;&emsp;(ii) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+&emsp;&emsp;&emsp;(iii) the Committee on Small Business of the House of Representatives; and
+
+&emsp;&emsp;&emsp;(iv) the Committee on Oversight and Reform of the House of Representatives.
+
+#### (B) Incident
+
+&emsp;&emsp;The term "incident" has the meaning given the term in section 3552 of title 44.
+
+#### (C) Information technology
+
+&emsp;&emsp;The term "information technology" has the meaning given the term in section 3502 of title 44.
 
 #### (c) Repealed. Pub. L. 104–66, title I, §1091(f), Dec. 21, 1995, 109 Stat. 722
 
@@ -34,7 +80,7 @@ The Administration shall transmit, not later than December 31 of each year, to t
 
 The Administration shall transmit, not later than March 31 of each year, to the Committees on Small Business of the Senate and House of Representatives a report on the secondary market operations during the preceding calendar year. This report shall include, but not be limited to, (1) the number and the total dollar amount of loans sold into the secondary market and the distribution of such loans by size of loan, size of lender, geographic location of lender, interest rate, maturity, lender servicing fees, whether the rate is fixed or variable, and premium paid; (2) the number and dollar amount of loans resold in the secondary market with a distribution by size of loan, interest rate, and premiums; (3) the number and total dollar amount of pools formed; (4) the number and total dollar amount of loans in each pool; (5) the dollar amount, interest rate, and terms on each loan in each pool and whether the rate is fixed or variable; (6) the number, face value, interest rate, and terms of the trust certificates issued for each pool; (7) to the maximum extent possible, the use by the lender of the proceeds of sales of loans in the secondary market for additional lending to small business concerns; and (8) an analysis of the information reported in (1) through (7) to assess small businesses' access to capital at reasonable rates and terms as a result of secondary market operations.
 
-(Pub. L. 85–536, §2\[10\], July 18, 1958, 72 Stat. 393; Pub. L. 87–305, §5(a), Sept. 26, 1961, 75 Stat. 666; Pub. L. 89–348, §1(3), Nov. 8, 1965, 79 Stat. 1310; Pub. L. 93–237, §7, Jan. 2, 1974, 87 Stat. 1025; Pub. L. 93–386, §4, Aug. 23, 1974, 88 Stat. 746; Pub. L. 93–608, §3(4), (5), Jan. 2, 1975, 88 Stat. 1972; Pub. L. 95–89, title II, §§203–208, 211, Aug. 4, 1977, 91 Stat. 557, 558; Pub. L. 95–315, §6, July 4, 1978, 92 Stat. 379; Pub. L. 97–35, title XIX, §1904, Aug. 13, 1981, 95 Stat. 772; Pub. L. 98–352, §4, July 10, 1984, 98 Stat. 331; Pub. L. 100–656, title IV, §406, Nov. 15, 1988, 102 Stat. 3876; Pub. L. 101–37, §15, June 15, 1989, 103 Stat. 73; Pub. L. 101–574, title II, §241, Nov. 15, 1990, 104 Stat. 2826; Pub. L. 104–66, title I, §1091(f), Dec. 21, 1995, 109 Stat. 722; Pub. L. 115–189, §7, June 21, 2018, 132 Stat. 1498.)
+(Pub. L. 85–536, §2\[10\], July 18, 1958, 72 Stat. 393; Pub. L. 87–305, §5(a), Sept. 26, 1961, 75 Stat. 666; Pub. L. 89–348, §1(3), Nov. 8, 1965, 79 Stat. 1310; Pub. L. 93–237, §7, Jan. 2, 1974, 87 Stat. 1025; Pub. L. 93–386, §4, Aug. 23, 1974, 88 Stat. 746; Pub. L. 93–608, §3(4), (5), Jan. 2, 1975, 88 Stat. 1972; Pub. L. 95–89, title II, §§203–208, 211, Aug. 4, 1977, 91 Stat. 557, 558; Pub. L. 95–315, §6, July 4, 1978, 92 Stat. 379; Pub. L. 97–35, title XIX, §1904, Aug. 13, 1981, 95 Stat. 772; Pub. L. 98–352, §4, July 10, 1984, 98 Stat. 331; Pub. L. 100–656, title IV, §406, Nov. 15, 1988, 102 Stat. 3876; Pub. L. 101–37, §15, June 15, 1989, 103 Stat. 73; Pub. L. 101–574, title II, §241, Nov. 15, 1990, 104 Stat. 2826; Pub. L. 104–66, title I, §1091(f), Dec. 21, 1995, 109 Stat. 722; Pub. L. 115–189, §7, June 21, 2018, 132 Stat. 1498; Pub. L. 117–259, §2(a), Dec. 21, 2022, 136 Stat. 2387.)
 
 #### <b>Editorial Notes</b>
 
@@ -44,11 +90,13 @@ Prior similar provisions were contained in sections 211 and 215 of act July 30, 
 
 #### Amendments
 
+<b>2022</b>—Subsec. (b). Pub. L. 117–259 added subsec. (b).
+
 <b>2018</b>—Subsec. (b). Pub. L. 115–189 struck out subsec. (b). Text read as follows: "The Administration shall make a report to the President, the President of the Senate, and the Speaker of the House of Representatives, to the Senate Select Committee on Small Business and to the Committee on Small Business of the House of Representatives, as soon as practicable each fiscal year, showing as accurately as possible for each such period the amount of funds appropriated to it that it has expended in the conduct of each of its principal activities such as lending, procurement, contracting, and providing technical and managerial aids. Such report shall contain the number and amount of loans, the number of applications, the total amount applied for, and the number and amount of defaults for each type of equipment or service for which loans are authorized by this this chapter. Such report shall provide such information separately on each type of loan made under paragraphs (10) through (15) of section 636(a) of this title and separately for all other loan programs. In addition, the information on loans shall be supplied on a monthly basis to the Committee on Small Business of the Senate and the Committee on Small Business of the House of Representatives."
 
 <b>1995</b>—Subsec. (c). Pub. L. 104–66 struck out subsec. (c) which related to surveys, and their corresponding reports and recommendations, for the determination of factors tending to injure small businesses.
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–574 substituted "the Department of Defense shall make an annual report to theCommittees on Small Business of the Senate and the House of Representatives" for "the Department of Defense shall make a monthly report to the President, the President of the Senate, the Senate Select Committee on Small Business, and the Speaker of the House of Representatives not less than 45 \["forty-five" in original text\] days after the close of the month", "small business concerns" for "small-business concerns", and "such reports" for "such monthly reports".
+<b>1990</b>—Subsec. (d). Pub. L. 101–574 substituted "the Department of Defense shall make an annual report to the Committees on Small Business of the Senate and the House of Representatives" for "the Department of Defense shall make a monthly report to the President, the President of the Senate, the Senate Select Committee on Small Business, and the Speaker of the House of Representatives not less than 45 \["forty-five" in original text\] days after the close of the month", "small business concerns" for "small-business concerns", and "such reports" for "such monthly reports".
 
 <b>1989</b>—Subsec. (e)(2). Pub. L. 101–37 substituted ", of the disposition of the request" for "of the disposition of the matter".
 
@@ -108,7 +156,7 @@ For termination, effective May 15, 2000, of provisions in subsecs. (a), (b), and
 
 #### Small Business Administration Program Data and Evaluation; Report; Implementation
 
-Pub. L. 100–590, title I, §109, Nov. 3, 1988, 102 Stat. 2994, provided that: "The Small Business Administration shall develop a comprehensive system to systematically acquire data on the number of small businesses which participate in Administration programs, the nature and extent of their participation, the type of business, the results of such participation, and such other information as the Administration deems appropriate. It shall also include the number and dollar amount of guaranteed loans by lender, and the interest rate thereon, and the number and dollar amount of sales in the secondary market both by lender and by purchaser. The data shall be compiled and maintained to permit a statistically valid analysis and computation and evaluation of costs and benefits. The Administration shall submit a report to the Small Business Committees of the Senate and the House of Representatives not laterthan March 31, 1989, such report to include its conclusions and recommendations and estimate of the costs involved in implementing such a program and shall implement the system for all program assistance made available on or after October 1, 1989."
+Pub. L. 100–590, title I, §109, Nov. 3, 1988, 102 Stat. 2994, provided that: "The Small Business Administration shall develop a comprehensive system to systematically acquire data on the number of small businesses which participate in Administration programs, the nature and extent of their participation, the type of business, the results of such participation, and such other information as the Administration deems appropriate. It shall also include the number and dollar amount of guaranteed loans by lender, and the interest rate thereon, and the number and dollar amount of sales in the secondary market both by lender and by purchaser. The data shall be compiled and maintained to permit a statistically valid analysis and computation and evaluation of costs and benefits. The Administration shall submit a report to the Small Business Committees of the Senate and the House of Representatives not later than March 31, 1989, such report to include its conclusions and recommendations and estimate of the costs involved in implementing such a program and shall implement the system for all program assistance made available on or after October 1, 1989."
 
 #### <b>Executive Documents</b>
 

@@ -1,0 +1,4 @@
+### §247d–7. Repealed. Pub. L. 117–328, div. FF, title II, §2231(b), Dec. 29, 2022, 136 Stat. 5753
+
+Section, act July 1, 1944, ch. 373, title III, §319G, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2323; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814, related to demonstration programs to enhance bioterrorism training, coordination, and readiness.
+

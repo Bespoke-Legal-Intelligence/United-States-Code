@@ -26,7 +26,7 @@ As used in this chapter—
 
 #### §4202. Parole Commission created
 
-There is hereby established, as an independent agency in the Department of Justice, a United States Parole Commission which shall be comprised of nine members appointed by the President, by and with the advice and consent of the Senate. The President shall designate from among the Commissioners one to serve as Chairman. The term of office of a Commissioner shall be six years, except that the term of a person appointed as a Commissioner to fill a vacancy shall expire six years from the date upon which such person was appointed and qualified. Upon the expiration of a term of office of a Commissioner, the Commissionershall continue to act until a successor has been appointed and qualified, except that no Commissioner may serve in excess of twelve years. Commissioners shall be compensated at the highest rate now or hereafter prescribed for grade 18 of the General Schedule pay rates (5 U.S.C. 5332).
+There is hereby established, as an independent agency in the Department of Justice, a United States Parole Commission which shall be comprised of nine members appointed by the President, by and with the advice and consent of the Senate. The President shall designate from among the Commissioners one to serve as Chairman. The term of office of a Commissioner shall be six years, except that the term of a person appointed as a Commissioner to fill a vacancy shall expire six years from the date upon which such person was appointed and qualified. Upon the expiration of a term of office of a Commissioner, the Commissioner shall continue to act until a successor has been appointed and qualified, except that no Commissioner may serve in excess of twelve years. Commissioners shall be compensated at the highest rate now or hereafter prescribed for grade 18 of the General Schedule pay rates (5 U.S.C. 5332).
 
 > (Added Pub. L. 94–233, §2, Mar. 15, 1976, 90 Stat. 219.)
 
@@ -122,7 +122,7 @@ Pub. L. 98–473, title II, §235(b)(2), Oct. 12, 1984, 98 Stat. 2032, which pro
 
 &emsp;(4) may review, or may delegate to the National Appeals Board the power to review, any decision made pursuant to subparagraph (1) of this subsection except that any such decision so reviewed must be reaffirmed, modified or reversed within thirty days of the date the decision is rendered, and, in case of such review, the individual to whom the decision applies shall be informed in writing of the Commission's actions with respect thereto and the reasons for such actions.
 
-(d) Except as otherwise provided by law, any action taken by the Commission pursuant to subsection (a) of this section shall be taken by a majority vote of all individuals currently holding office as members of the Commission which shall maintain and make available for public inspection a record of the final vote of each member on statements of policy and interpretations adopted by it. In so acting, each Commissioner shall have equal responsibility and authority, shall have full access to all information relating to the performance of such duties and responsibilities, and shall have one vote.
+(d) Except as otherwise provided by law, any action taken by the Commission pursuant to subsection (a) ofthis section shall be taken by a majority vote of all individuals currently holding office as members of the Commission which shall maintain and make available for public inspection a record of the final vote of each member on statements of policy and interpretations adopted by it. In so acting, each Commissioner shall have equal responsibility and authority, shall have full access to all information relating to the performance of such duties and responsibilities, and shall have one vote.
 
 (e)(1) The Commission shall, upon the request of the head of any law enforcement agency of a State or of a unit of local government in a State, make available as expeditiously as possible to such agency, with respect to individuals who are under the jurisdiction of the Commission, who have been convicted of felony offenses against the United States, and who reside, are employed, or are supervised in the geographical area in which such agency has jurisdiction, the following information maintained by the Commission (to the extent that the Commission maintains such information)—
 
@@ -198,7 +198,7 @@ Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a) Whenever confined and serving a definite term or terms of more than one year, a prisoner shall be eligible for release on parole after serving one-third of such term or terms or after serving ten years of a life sentence or of a sentence of over thirty years, except to the extent otherwise provided by law.
 
-(b) Upon entering a judgment of conviction, the court having jurisdiction to impose sentence, when in its opinion the ends of justice and best interest of the public require that the defendant be sentenced to imprisonment for a term exceeding one year, may (1) designate in the sentence of imprisonment imposed a minimum term at the expiration of which the prisoner shall become eligible for parole, which term may be less than but shall not be more than one-third of the maximum sentence imposed by the court, or (2) the court may fix the maximum sentence of imprisonment to be served in which event the court may specify that the prisoner may be released on parole at such time as the Commission may determine.
+(b) Upon entering a judgment of conviction, the court having jurisdiction to impose sentence, when in its opinion the ends of justice and best interest of the public require that the defendant be sentenced to imprisonment for a term exceeding one year, may (1) designate in the sentence of imprisonment imposed a minimum term at the expiration of which the prisoner shall become eligible for parole, which term may be less than but shall not be more than one-third of themaximum sentence imposed by the court, or (2) the court may fix the maximum sentence of imprisonment to be served in which event the court may specify that the prisoner may be released on parole at such time as the Commission may determine.
 
 (c) If the court desires more detailed information as a basis for determining the sentence to be imposed, the court may commit the defendant to the custody of the Attorney General, which commitment shall be deemed to be for the maximum sentence of imprisonment prescribed by law, for a study as described in subsection (d) of this section. The results of such study, together with any recommendations which the Director of the Bureau of Prisons believes would be helpful in determining the disposition of the case, shall be furnished to the court within three months unless the court grants time, not to exceed an additional three months, for further study. After receiving such reports and recommendations, the court may in its discretion: (1) place the offender on probation as authorized by section 3651; or (2) affirm the sentence of imprisonment originally imposed, or reduce the sentence of imprisonment, and commit the offender under any applicable provision of law. The term of the sentence shall run from the date of original commitment under this section.
 
@@ -244,7 +244,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 &emsp;(4) recommendations regarding the prisoner's parole made at the time of sentencing by the sentencing judge;
 
-&emsp;(5) a statement, which may be presented orally or otherwise, by any victim of the offense for which theprisoner is imprisoned about the financial, social, psychological, and emotional harm done to, or loss suffered by such victim; and
+&emsp;(5) a statement, which may be presented orally or otherwise, by any victim of the offense for which the prisoner is imprisoned about the financial, social, psychological, and emotional harm done to, or loss suffered by such victim; and
 
 &emsp;(5)\[(6)\] reports of physical, mental, or psychiatric examination of the offender.
 
@@ -300,7 +300,7 @@ In making a determination under this chapter (relating to release on parole) the
 
 (c) Release on parole or release as if on parole (or probation, or supervised release where applicable) may as a condition of such release require—
 
-&emsp;(1) a parolee to reside in or participate in the program of a residential community treatment center,or both, for all or part of the period of such parole; or
+&emsp;(1) a parolee to reside in or participate in the program of a residential community treatment center, or both, for all or part of the period of such parole; or
 
 &emsp;(2) a parolee to remain at his place of residence during nonworking hours and, if the Commission so directs, to have compliance with this condition monitored by telephone or electronic signaling devices, except that a condition under this paragraph may be imposed only as an alternative to incarceration.
 
@@ -358,7 +358,7 @@ Amendment by section 7303(c)(1), (2) of Pub. L. 100–690 applicable with respec
 
 (c)(1) Five years after each parolee's release on parole, the Commission shall terminate supervision over such parolee unless it is determined, after a hearing conducted in accordance with the procedures prescribed in section 4214(a)(2), that such supervision should not be terminated because there is a likelihood that the parolee will engaged in conduct violating any criminal law.
 
-(2) If supervision is not terminated under subparagraph (1) of this subsection the parolee may request ahearing annually thereafter, and a hearing, with procedures as provided in subparagraph (1) of this subsection shall be conducted with respect to such termination of supervision not less frequently than biennially.
+(2) If supervision is not terminated under subparagraph (1) of this subsection the parolee may request a hearing annually thereafter, and a hearing, with procedures as provided in subparagraph (1) of this subsection shall be conducted with respect to such termination of supervision not less frequently than biennially.
 
 (3) In calculating the five-year period referred to in subparagraph (1), there shall not be included any period of release on parole prior to the most recent such release, nor any period served in confinement on any other sentence.
 
@@ -432,7 +432,7 @@ Such prisoner when his parole becomes effective, shall be delivered to the duly 
 
 &emsp;(B) withdraw the detainer.
 
-(c) Any alleged parole violator who is summoned or retaken by warrant under section 4213 who knowinglyand intelligently waives his right to a hearing under subsection (a) of this section, or who knowingly and intelligently admits violation at a preliminary hearing held pursuant to subsection (a)(1)(A) of this section, or who is retaken pursuant to subsection (b) of this section, shall receive a revocation hearing within ninety days of the date of retaking. The Commission may conduct such hearing at the institution to which he has been returned, and the alleged parole violator shall have notice of such hearing, be allowed to appear and testify on his own behalf, and, unless waived, shall have counsel or another representative as provided in subsection (a)(2)(B) of this section.
+(c) Any alleged parole violator who is summoned or retaken by warrant under section 4213 who knowingly and intelligently waives his right to a hearing under subsection (a) of this section, or who knowingly and intelligently admits violation at a preliminary hearing held pursuant to subsection (a)(1)(A) of this section, or who is retaken pursuant to subsection (b) of this section, shall receive a revocation hearing within ninety days of the date of retaking. The Commission may conduct such hearing at the institution to which he has been returned, and the alleged parole violator shall have notice of such hearing, be allowed to appear and testify on his own behalf, and, unless waived, shall have counsel or another representative as provided in subsection (a)(2)(B) of this section.
 
 (d) Whenever a parolee is summoned or retaken pursuant to section 4213, and the Commission finds pursuant to the procedures of this section and by a preponderance of the evidence that the parolee has violated a condition of his parole the Commission may take any of the following actions:
 

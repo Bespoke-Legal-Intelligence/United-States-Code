@@ -2,7 +2,7 @@
 
 (a)
 
-Training.—Not less frequently than once every two years, the Secretary, in coordination with the Whistleblower Protection Ombudsman designated under section 3(d)(1)(C) of the Inspector General Act of 1978 (5 U.S.C. App.), shall provide to each employee of the Department training regarding whistleblower disclosures, including—
+Training.—Not less frequently than once every two years, the Secretary, in coordination with the Whistleblower Protection Ombudsman designated under section 3(d)(1)(C) of the Inspector General Act of 1978 (5 U.S.C. App.),<sup>1</sup> shall provide to each employee of the Department training regarding whistleblower disclosures, including—
 
 &emsp;(1) an explanation of each method established by law in which an employee may file a whistleblower disclosure;
 
@@ -36,7 +36,7 @@ Whistleblower Disclosure Defined.—In this section, the term "whistleblower dis
 
 #### References in Text
 
-Section 3(d)(1)(C) of the Inspector General Act of 1978, referred to in subsec. (a), is section 3(d)(1)(C) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 3(d)(1)(C) of the Inspector General Act of 1978, referred to in subsec. (a), is section 3(d)(1)(C) of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as section 403(d)(1)(C) of Title 5 by Pub. L. 117–286, §§3(b), 7, Dec. 27, 2022, 136 Stat. 4209, 4361.
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a)(3), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of Title 42, The Public Health and Welfare.
 
@@ -45,4 +45,6 @@ Section 115(a)(1) of the Whistleblower Protection Enhancement Act of 2012, refer
 #### Prior Provisions
 
 A prior section 733 was renumbered section 731 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

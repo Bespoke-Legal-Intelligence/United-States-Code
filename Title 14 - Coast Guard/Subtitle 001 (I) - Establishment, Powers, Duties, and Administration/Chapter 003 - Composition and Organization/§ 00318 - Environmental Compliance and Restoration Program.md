@@ -40,7 +40,7 @@ Program.—
 
 &emsp;(4) The Secretary may agree with another Federal agency for that agency to assist in carrying out the Secretary's responsibilities under this section. The Secretary may enter into contracts, cooperative agreements, and grant agreements with State and local governments to assist in carrying out the Secretary's responsibilities under this section. Services that may be obtained under this paragraph include identifying, investigating, and cleaning up off-site contamination that may have resulted from the release of a hazardous substance or pollutant at a Coast Guard facility.
 
-&emsp;(5) Section 119 of the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9619) applies to response action contractors that carry out response actions under this section. The Coast Guardshall indemnify response action contractors to the extent that adequate insurance is not generally available at a fair price at the time the contractor enters into the contract to cover the contractor's reasonable, potential, long-term liability.
+&emsp;(5) Section 119 of the Comprehensive Environmental Response, Compensation, and Liability Act (42 U.S.C. 9619) applies to response action contractors that carry out response actions under this section. The Coast Guard shall indemnify response action contractors to the extent that adequate insurance is not generally available at a fair price at the time the contractor enters into the contract to cover the contractor's reasonable, potential, long-term liability.
 
 (c)
 

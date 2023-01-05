@@ -62,7 +62,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 &emsp;&emsp;(A) the ability of the applicant to develop and operate the proposed housing;
 
-&emsp;&emsp;(B) the need for supportive housing for the elderly in the area to be served, taking intoconsideration the availability of public housing for the elderly and vacancy rates in such facilities;
+&emsp;&emsp;(B) the need for supportive housing for the elderly in the area to be served, taking into consideration the availability of public housing for the elderly and vacancy rates in such facilities;
 
 &emsp;&emsp;(C) the extent to which the proposed size and unit mix of the housing will enable the applicant to manage and operate the housing efficiently and ensure that the provision of supportive services will be accomplished in an economical fashion;
 
@@ -124,7 +124,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 #### (3) Service coordinators
 
-&emsp;Any cost associated with employing or otherwise retaining a service coordinator in housing assisted under this section shall be considered an eligible cost under subsection (c)(2). Ifa project is receiving congregate housing services assistance under section 8011 of title 42, the amount of costs provided under subsection (c)(2) for the project service coordinator may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such section 8011 of title 42. To the extent that amounts are available pursuant to subsection (c)(2) for the costs of carrying out this paragraph within a project, an owner of housing assisted under this section shall provide a service coordinator for the housing to coordinate the provision of services under this subsection within the housing.
+&emsp;Any cost associated with employing or otherwise retaining a service coordinator in housing assisted under this section shall be considered an eligible cost under subsection (c)(2). If a project is receiving congregate housing services assistance under section 8011 of title 42, the amount of costs provided under subsection (c)(2) for the project service coordinator may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such section 8011 of title 42. To the extent that amounts are available pursuant to subsection (c)(2) for the costs of carrying out this paragraph within a project, an owner of housing assisted under this section shall provide a service coordinator for the housing to coordinate the provision of services under this subsection within the housing.
 
 #### (h) Development cost limitations
 
@@ -192,7 +192,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 #### (1) In general
 
-&emsp;An owner shall adopt written tenant selection procedures that are satisfactory to theSecretary as (A) consistent with the purpose of improving housing opportunities for very low-income elderly persons; and (B) reasonably related to program eligibility and an applicant's ability to perform the obligations of the lease. Such tenant selection procedures shall comply with subtitle C of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13601 et seq.\] and any regulations issued under such subtitle. Owners shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+&emsp;An owner shall adopt written tenant selection procedures that are satisfactory to the Secretary as (A) consistent with the purpose of improving housing opportunities for very low-income elderly persons; and (B) reasonably related to program eligibility and an applicant's ability to perform the obligations of the lease. Such tenant selection procedures shall comply with subtitle C of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13601 et seq.\] and any regulations issued under such subtitle. Owners shall promptly notify in writing any rejected applicant of the grounds for any rejection.
 
 #### (2) Information regarding housing under this section
 
@@ -250,7 +250,15 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 #### (8) Use of project reserves
 
-&emsp;Amounts for project reserves for a project assisted under this section may be used forcosts, subject to reasonable limitations as the Secretary determines appropriate, for reducing the number of dwelling units in the project. Such use shall be subject to the approval of the Secretary to ensure that the use is designed to retrofit units that are currently obsolete or unmarketable.
+&emsp;Amounts for project reserves for a project assisted under this section may be used for costs, subject to reasonable limitations as the Secretary determines appropriate, for reducing the number of dwelling units in the project. Such use shall be subject to the approval of the Secretary to ensure that the use is designed to retrofit units that are currently obsolete or unmarketable.
+
+#### (9) Carbon monoxide alarms
+
+&emsp;Each owner of a dwelling unit assisted under this section shall ensure that carbon monoxide alarms or detectors are installed in the dwelling unit in a manner that meets or exceeds—
+
+&emsp;&emsp;(A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+
+&emsp;&emsp;(B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
 
 #### (k) Definitions
 
@@ -302,7 +310,7 @@ Funds made available under this section shall be allocated by the Secretary amon
 
 #### (3) Nonmetropolitan allocation
 
-&emsp;Not less than 15 percent of the funds made available for assistance under this section shall be allocated by the Secretary on a national basis for nonmetropolitan areas. In complying with this paragraph, the Secretary shall either operate a national competition for the nonmetropolitan funds or make allocations to regional offices of the Department of Housing and Urban Development.
+&emsp;Not less than 15 percent of the funds made available for assistance under this section shall be allocated by the Secretary on a national basis for nonmetropolitan areas. Incomplying with this paragraph, the Secretary shall either operate a national competition for the nonmetropolitan funds or make allocations to regional offices of the Department of Housing and Urban Development.
 
 #### (m) Authorization of appropriations
 
@@ -312,41 +320,63 @@ There is authorized to be appropriated for providing assistance under this secti
 
 There are authorized to be appropriated for providing assistance under this section such sums as may be necessary for each of fiscal years 2001, 2002, and 2003.
 
-(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a), May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12,1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title I \[title II, §223(a)(1), (b)–(e)\], Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h), Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083; Pub. L. 106–74, title V, §511, Oct. 20, 1999, 113 Stat. 1101; Pub. L. 106–569, title VIII, §§821, 831–835, 851(c)(1), Dec. 27, 2000, 114 Stat. 3020–3022, 3024; Pub. L. 110–289, div. B, title VIII, §2835(b), July 30, 2008, 122 Stat. 2873; Pub. L. 111–372, title I, §§101–105, Jan. 4, 2011, 124 Stat. 4077–4079; Pub. L. 113–76, div. L, title II, §241, Jan. 17, 2014, 128 Stat. 636; Pub. L. 116–260, div. Q, title I, §101(c), Dec. 27, 2020, 134 Stat. 2163.)
+(Pub. L. 86–372, title II, §202, Sept. 23, 1959, 73 Stat. 667; Pub. L. 87–70, title II, §201, June 30, 1961, 75 Stat. 162; Pub. L. 87–723, §3, Sept. 28, 1962, 76 Stat. 670; Pub. L. 88–158, Oct. 24, 1963, 77 Stat. 278; Pub. L. 88–560, title II, §§201, 203(a)(2), Sept. 2, 1964, 78 Stat. 783; Pub. L. 89–117, title I, §105(a), (b)(1), formerly §105, Aug. 10, 1965, 79 Stat. 457, renumbered Pub. L. 89–754, title X, §1001(1), (2), Nov. 3, 1966, 80 Stat. 1284; Pub. L. 90–19, §16(a), May 25, 1967, 81 Stat. 25; Pub. L. 90–448, title XVII, §1706, Aug. 1, 1968, 82 Stat. 605; Pub. L. 91–152, title II, §218, Dec. 24, 1969, 83 Stat. 390; Pub. L. 93–383, title II, §210(a)–(f), Aug. 22, 1974, 88 Stat. 669–671; Pub. L. 94–375, §11, Aug. 3, 1976, 90 Stat. 1074; Pub. L. 95–128, title II, §202, Oct. 12, 1977, 91 Stat. 1129; Pub. L. 95–557, title II, §205, Oct. 31, 1978, 92 Stat. 2090; Pub. L. 96–153, title III, §306(a)–(d), Dec. 21, 1979, 93 Stat. 1112, 1113; Pub. L. 96–399, title III, §319, Oct. 8, 1980, 94 Stat. 1646; Pub. L. 97–35, title III, §336, Aug. 13, 1981, 95 Stat. 414; Pub. L. 98–181, title I \[title II, §223(a)(1), (b)–(e)\], Nov. 30, 1983, 97 Stat. 1189, 1190; Pub. L. 98–479, title I, §102(c), title II, §§201(e), 203(h), Oct. 17, 1984, 98 Stat. 2222, 2228, 2230; Pub. L. 100–242, title I, §§161(a)–(c)(1), (d)–(f), 162(b), (c), 170(g), Feb. 5, 1988, 101 Stat. 1855–1857, 1859, 1867; Pub. L. 101–625, title VIII, §§801(a), (e), 804(a)–(c), 805, 807, 808, title IX, §955(c), Nov. 28, 1990, 104 Stat. 4297, 4304, 4322–4324, 4421; Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 756; Pub. L. 102–242, title II, §241(c)(2), Dec. 19, 1991, 105 Stat. 2331; Pub. L. 102–550, title VI, §§601(c), 602(a)–(c), (e)–(g), 677(a), 682(c), title IX, §913(a), title XVI, §1604(c)(3), Oct. 28, 1992, 106 Stat. 3802–3805, 3829, 3831, 3876, 4083; Pub. L. 106–74, title V, §511, Oct. 20, 1999, 113 Stat. 1101; Pub. L. 106–569, title VIII, §§821, 831–835, 851(c)(1), Dec. 27, 2000, 114 Stat. 3020–3022, 3024; Pub. L. 110–289, div. B, title VIII, §2835(b), July 30, 2008, 122 Stat. 2873; Pub. L. 111–372, title I, §§101–105, Jan. 4, 2011, 124 Stat. 4077–4079; Pub. L. 113–76, div. L, title II, §241, Jan. 17, 2014, 128 Stat. 636; Pub. L. 116–260, div. Q, title I, §101(c), Dec. 27, 2020, 134 Stat. 2163; Pub. L. 117–328, div. AA, title VI, §601(b), Dec. 29, 2022, 136 Stat. 5544.)
 
 #### Amendment of Subsection (j)
 
-<i>Pub. L. 116–260, div. Q, title I, §101(c), (h), Dec. 27, 2020, 134 Stat. 2163, 2165, provided that, effective 2 years after Dec. 27, 2020, subsection (j) of this section is amended by adding at the end the following:</i>
+<i>Pub. L. 117–328, div. AA, title VI, §601(b), (h), Dec. 29, 2022, 136 Stat. 5544, 5548, provided that, effective two years after Dec. 29, 2022, subsection (j) of this section is amended by adding at the end the following:</i>
 
-#### <i>"(9) Carbon monoxide alarms</i>
+#### <i>(10) Qualifying smoke alarms</i>
 
-<i>"Each owner of a dwelling unit assisted under this section shall ensure that carbon monoxide alarms or detectors are installed in the dwelling unit in a manner that meets or exceeds—</i>
+#### <i>(A) In general</i>
 
-&emsp;<i>"(A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or</i>
+&emsp;&emsp;<i>Each owner of a dwelling unit assisted under this section shall ensure that qualifying smoke alarms are installed in accordance with the requirements of applicable codes and standards and the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.</i>
 
-&emsp;<i>"(B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register."</i>
+#### <i>(B) Definitions</i>
 
-<i>See 2020 Amendment note below.</i>
+&emsp;&emsp;<i>For purposes of this paragraph, the following definitions shall apply:</i>
+
+#### <i>(i) Smoke alarm defined</i>
+
+&emsp;&emsp;&emsp;<i>The term "smoke alarm" has the meaning given the term "smoke detector" in section 2225(d) of title 15.</i>
+
+#### <i>(ii) Qualifying smoke alarm defined</i>
+
+&emsp;&emsp;&emsp;<i>The term "qualifying smoke alarm" means a smoke alarm that—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa)(AA) is hardwired; or</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.</i>
+
+<i>See 2022 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This Act, referred to in subsec. (g)(1), is Pub. L. 86–372, Sept. 23, 1959, 73 Stat. 654, as amended, known as the Housing Act of 1959. For complete classification of this Act to the Code, see Short Title of 1959 Amendment note set out under section 1701 of this title and Tables.
+This Act, referred to in subsec. (g)(1), is Pub. L. 86–372, Sept. 23, 1959, 73 Stat. 654, known as the Housing Act of 1959. For complete classification of this Act to the Code, see Short Title of 1959 Amendment note set out under section 1701 of this title and Tables.
 
 The Housing and Community Development Act of 1992, referred to in subsecs. (i)(1) and (j)(7), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672. Subtitle C of title VI of the Act is classified generally to subchapter I (§13601 et seq.) of chapter 135 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Codification
 
-"Sections 3141–3144, 3146, and 3147 of title 40" substituted in subsec. (j)(5)(A) for "the Act of March 3, 1931 (commonly known as the Davis-Bacon Act)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Sections 3141–3144, 3146, and 3147 of title 40" substituted in subsec. (j)(5)(A) for "the Act of March 3, 1931\(commonly known as the Davis-Bacon Act)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Section was enacted as part of the Housing Act of 1959, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (j)(10). Pub. L. 117–328 added par. (10).
 
 <b>2020</b>—Subsec. (j)(9). Pub. L. 116–260 added par. (9).
 
@@ -370,7 +400,7 @@ Subsec. (k)(4). Pub. L. 111–372, §104, amended par. (4) generally. Prior to a
 
 Subsec. (l)(3). Pub. L. 111–372, §105, inserted after period at end "In complying with this paragraph, the Secretary shall either operate a national competition for the nonmetropolitan funds or make allocations to regional offices of the Department of Housing and Urban Development."
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–289 substituted "Initial selection criteria and processing" for "Selection criteria" in heading, designated existing provisions as par.\(1) and inserted heading, redesignated former pars. (1) to (7) as subpars. (A) to (G), respectively, of par. (1), and added par. (2).
+<b>2008</b>—Subsec. (f). Pub. L. 110–289 substituted "Initial selection criteria and processing" for "Selection criteria" in heading, designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (7) as subpars. (A) to (G), respectively, of par. (1), and added par. (2).
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–569, §833(1), struck out "from the Resolution Trust Corporation" after "or the acquisition of a structure".
 
@@ -492,7 +522,7 @@ Subsec. (h)(1). Pub. L. 98–479, §102(c)(2)(A), inserted "and" at end.
 
 Subsec. (h)(2). Pub. L. 98–479, §102(c)(2)(B), substituted a period for "; and" at end.
 
-Subsec. (l). Pub. L. 98–479, §102(c)(3), inserted "The Secretary shall not impose difference requirements or standards with respect to construction change orders, increases in loan amount to cover change orders, errors in plans and specifications, and use of contingency funds, because of the method of contractor selection used by the sponsor or borrower."
+Subsec. (l). Pub. L. 98–479, §102(c)(3), inserted "The Secretary shall not impose difference requirements or standards with respect to construction change orders,increases in loan amount to cover change orders, errors in plans and specifications, and use of contingency funds, because of the method of contractor selection used by the sponsor or borrower."
 
 <b>1983</b>—Subsec. (a)(3). Pub. L. 98–181, §223(a)(1), inserted ", except that such interest rate plus such allowance shall not exceed 9.25 per centum per annum".
 
@@ -608,6 +638,10 @@ Subsec. (e). Pub. L. 87–70, §201(d), added subsec. (e).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–328, div. AA, title VI, §601(h), Dec. 29, 2022, 136 Stat. 5548, provided that: "The amendments made by subsections (a) through (f) \[amending this section and sections 1437a, 1437f, 1484 to 1486, 8013, and 12905 of Title 42, The Public Health and Welfare\] shall take effect on the date that is 2 years after the date of enactment of this Act \[Dec. 29, 2022\]."
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. Q, title I, §101(h), Dec. 27, 2020, 134 Stat. 2165, provided that: "The amendments made by subsections (b) through (e) \[amending this section and sections 1437a, 1437f, 8013, and 12905 of Title 42, The Public Health and Welfare\] shall take effect on the date that is 2 years after the date of enactment of this Act \[Dec. 27, 2020\]."
@@ -646,7 +680,7 @@ Amendment by section 1604(c)(3) of Pub. L. 102–550 effective as if included in
 
 Pub. L. 101–625, title VIII, §801(c), Nov. 28, 1990, 104 Stat. 4304, provided that: "The amendments made by this section \[amending this section and section 1439 of Title 42, The Public Health and Welfare\] shall take effect on October 1, 1991, with respect to projects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and an opportunity for public comment in accordance with section 553 of title 5, United States Code. Regulations shall be issued for comment not later than 180 days after the date of enactment of this Act \[Nov. 28, 1990\]."
 
-Amendment by section 955(c) of Pub. L. 101–625 applicable to any volunteer services provided before, on, or after Nov. 28, 1990, except that such amendment may not be construed to require repayment of any wages paid before Nov. 28, 1990, for services provided before such date, see section 955(d) of Pub. L. 101–625, set out as a note under section 1437j of Title 42.
+Amendment by section 955(c) of Pub. L. 101–625 applicable to any volunteer services provided before, on, orafter Nov. 28, 1990, except that such amendment may not be construed to require repayment of any wages paid before Nov. 28, 1990, for services provided before such date, see section 955(d) of Pub. L. 101–625, set out as a note under section 1437j of Title 42.
 
 Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, provided that sections 801, 802, and 811 of Pub. L. 101–625 \[enacting sections 8011 and 8013 of Title 42, amending this section and sections 1437g and 1439 of Title 42, and enacting provisions set out as notes under this section\] are deemed enacted as of the date of enactment of Pub. L. 101–507, which was approved Nov. 5, 1990.
 
@@ -676,11 +710,15 @@ Pub. L. 87–723, §3(b), Sept. 28, 1962, 76 Stat. 670, provided that the amendm
 
 #### Regulations
 
-Pub. L. 106–74, title V, §502, Oct. 20, 1999, 113 Stat. 1101, provided that: "The Secretary of Housing andUrban Development shall issue any regulations to carry out this title \[see Short Title of 1999 Amendment note set out under section 1701 of this title\] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553."
+Pub. L. 106–74, title V, §502, Oct. 20, 1999, 113 Stat. 1101, provided that: "The Secretary of Housing and Urban Development shall issue any regulations to carry out this title \[see Short Title of 1999 Amendment note set out under section 1701 of this title\] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553."
+
+#### Construction of 2022 Amendment
+
+Pub. L. 117–328, div. AA, title VI, §601(i), Dec. 29, 2022, 136 Stat. 5548, provided that: "Nothing in the amendments made by this section \[see Effective Date of 2022 Amendment note above\] shall be construed to preempt or limit the applicability of any State or local law relating to the installation and maintenance of smoke alarms in housing that requires standards that are more stringent than the standards described in the amendments made by this section."
 
 #### Construction of 2020 Amendment
 
-Nothing in amendment made by section 101(c) of Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of Pub. L. 116–260, set out as a note under section 1437a of Title 42, The Public Health and Welfare.
+Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of Pub. L. 116–260, set out as a note under section 1437a of Title 42, The Public Health and Welfare.
 
 #### Rental Assistance Contract Obligations
 
@@ -898,7 +936,7 @@ Sources of Refinancing.—In the case of prepayment under this section involving
 
 "(c)
 
-Use of Proceeds.—Upon execution of the refinancing for a project pursuant to this section, the Secretary shall ensure that proceeds are used in a manner advantageous to tenants of the project, or are used in the provision of affordable rental housing and relatedsocial services for elderly persons that are tenants of the project or are tenants of other HUD-assisted senior housing by the private nonprofit organization project owner, private nonprofit organization project sponsor, or private nonprofit organization project developer, including—
+Use of Proceeds.—Upon execution of the refinancing for a project pursuant to this section, the Secretary shall ensure that proceeds are used in a manner advantageous to tenants of the project, or are used in the provision of affordable rental housing and related social services for elderly persons that are tenants of the project or are tenants of other HUD-assisted senior housing by the private nonprofit organization project owner, private nonprofit organization project sponsor, or private nonprofit organization project developer, including—
 
 &emsp;"(1) not more than 15 percent of the cost of increasing the availability or provision of supportive services, which may include the financing of service coordinators and congregate services, except that upon the request of the non-profit owner, sponsor, or organization and determination of the Secretary, such 15 percent limitation may be waived to ensure that the use of unexpended amounts better enables seniors to age in place;
 
@@ -1050,7 +1088,7 @@ Pub. L. 100–242, title I, §162(a), Feb. 5, 1988, 101 Stat. 1856, provided tha
 
 &emsp;"(C) the development of housing for nonelderly handicapped families under such programs is often more expensive than necessary, thereby reducing the number of such families that can be assisted with available funds;
 
-&emsp;"(D) the program under section 202 of the Housing Act of 1959 can continue to provide direct loans to finance group residences and independent apartments for nonelderly handicapped families, but can be mademore efficient and less costly by the adoption of standards and procedures applicable only to housing for such families;
+&emsp;"(D) the program under section 202 of the Housing Act of 1959 can continue to provide direct loans to finance group residences and independent apartments for nonelderly handicapped families, but can be made more efficient and less costly by the adoption of standards and procedures applicable only to housing for such families;
 
 &emsp;"(E) the cost containment policies currently being implemented in the development of small group homes (i) do not adequately reflect the necessity for building designs to meet the needs of the designated residents; and (ii) do not recognize necessary State and local standards for the operation of such homes;
 
@@ -1074,7 +1112,7 @@ Pub. L. 100–242, title I, §162(e), Feb. 5, 1988, 101 Stat. 1859, provided tha
 
 #### Housing for the Elderly or Handicapped Fund
 
-Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1361, provided: "That, notwithstanding section 202(a)(3) of the Housing Act of 1959 \[12 U.S.C. 1701q(a)(3)\], any such obligations \[direct loan obligations made in fiscal year 1991\] shall bear an interest rate which does not exceed 9.25 per centum, including the allowance adequate in the judgment of the Secretary to cover administrative costs and probable losses under the program."
+Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1361, provided: "That, notwithstanding section 202(a)(3) of the Housing Act of 1959 \[12 U.S.C. 1701q(a)(3)\], any such obligations \[direct loan obligations made in fiscal year 1991\] shall bear an interest rate which does not exceed9.25 per centum, including the allowance adequate in the judgment of the Secretary to cover administrative costs and probable losses under the program."
 
 Similar provisions were contained in the following prior appropriation acts:
 

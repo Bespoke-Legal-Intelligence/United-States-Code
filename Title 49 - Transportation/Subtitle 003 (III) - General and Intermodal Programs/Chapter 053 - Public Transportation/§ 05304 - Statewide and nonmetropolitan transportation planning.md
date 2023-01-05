@@ -92,7 +92,7 @@ Public transportation performance targets.—In areas with a population of fewer
 
 &emsp;&emsp;(C)
 
-Integration of other performance-based plans.—A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other State transportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
+Integration of other performance-based plans.—A State shall integrate into the statewide transportation planning process, directly or by reference, the goals, objectives, performance measures, and targets described in this paragraph, in other Statetransportation plans and transportation processes, as well as any plans developed pursuant to title 23 by providers of public transportation in areas with a population of fewer than 200,000 individuals, as calculated according to the most recent decennial census, and not represented by a metropolitan planning organization, required as part of a performance-based program.
 
 &emsp;&emsp;(D)
 
@@ -386,7 +386,7 @@ Performance-based Planning Processes Evaluation.—
 
 &emsp;(1)
 
-In general.—The Secretary shall establish criteria to evaluate the effectiveness of the performance-based planning processes of States, taking into consideration the following:
+In general.—The Secretary shall establish criteria to evaluate the effectiveness ofthe performance-based planning processes of States, taking into consideration the following:
 
 &emsp;&emsp;(A) The extent to which the State is making progress toward achieving, the performance targets described in subsection (d)(2), taking into account whether the State developed appropriate performance targets.
 

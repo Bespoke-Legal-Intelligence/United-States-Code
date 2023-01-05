@@ -82,7 +82,7 @@ Pub. L. 117–13, §3, May 20, 2021, 135 Stat. 266, provided that:
 
 "(a)
 
-In General.—Not later than 7 days after the date of enactment of this Act \[May 20, 2021\], the Attorney General shall designate an officer or employee of the Department of Justice whose responsibility during the applicable period shall be to facilitate the expedited review of hate crimes (as described in section 249of title 18, United States Code) and reports of any such crime to Federal, State, local, or Tribal law enforcement agencies.
+In General.—Not later than 7 days after the date of enactment of this Act \[May 20, 2021\], the Attorney General shall designate an officer or employee of the Department of Justice whose responsibility during the applicable period shall be to facilitate the expedited review of hate crimes (as described in section 249 of title 18, United States Code) and reports of any such crime to Federal, State, local, or Tribal law enforcement agencies.
 
 "(b)
 

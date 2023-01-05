@@ -52,7 +52,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) the specific project for which the grant proposal is submitted, including the manner in which the grant will be used to develop, offer, or improve an educational or career training program that is suited to workers eligible for training under section 2296 of this title;
 
-&emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted will meet the educational or career training needs of workers in the community served by the eligible institution who are eligible for training under section 2296 of this title; and
+&emsp;&emsp;&emsp;(ii) the extent to which the project for which the grant proposal is submitted willmeet the educational or career training needs of workers in the community served by the eligible institution who are eligible for training under section 2296 of this title; and
 
 &emsp;&emsp;&emsp;(iii) any previous experience of the eligible institution in providing educational or career training programs to workers eligible for training under section 2296 of this title.
 
@@ -126,7 +126,7 @@ Not later than December 15, 2009, and annually thereafter, the Secretary shall s
 
 #### Codification
 
-Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of section, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and this section, as added by Pub. L. 111–5, as amended by Pub. L. 111–344, and as in effect on Feb. 12, 2011, was revived, effective Oct. 21, 2011, by Pub. L. 112–40, §201(b), (c). See 2010 and 2011 Amendment and Effective and Termination Dates notes below.
+Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination of section, was repealed by Pub. L. 112–40, title II, §201(a), Oct. 21, 2011, 125 Stat. 403, and this section, as added by Pub. L. 111–5, as amended by Pub. L. 111–344, and as in effect on Feb. 12, 2011, was revived, effective Oct. 21, 2011, by Pub. L. 112–40, §201(b),\(c). See 2010 and 2011 Amendment and Effective and Termination Dates notes below.
 
 Section was formerly classified to section 2372 of this title prior to renumbering by Pub. L. 112–40.
 
@@ -148,7 +148,7 @@ Another prior section 2371, Pub. L. 93–618, title II, §271, Jan. 3, 1975, 88 
 
 Subsec. (c)(4)(B). Pub. L. 112–40, §222(c)(1)(A)(i)(II), substituted "(A)(iii)" for "(A)(v)". See Codification note above.
 
-Subsec. (c)(5)(A)(i). Pub. L. 112–40, §222(c)(1)(A)(ii)(I)(aa), struck out ", and other entities described in section 2371e(a)(2)(B) of this title" after"employers" in introductory provisions. See Codification note above.
+Subsec. (c)(5)(A)(i). Pub. L. 112–40, §222(c)(1)(A)(ii)(I)(aa), struck out ", and other entities described in section 2371e(a)(2)(B) of this title" after "employers" in introductory provisions. See Codification note above.
 
 Subsec. (c)(5)(A)(i)(II). Pub. L. 112–40, §222(c)(1)(A)(ii)(I)(bb), substituted "; and" for semicolon at end. See Codification note above.
 

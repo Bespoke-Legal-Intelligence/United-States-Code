@@ -24,7 +24,7 @@ It is the sense of Congress that—
 
 &emsp;(2) relief payments by the Administration are appropriate for all borrowers; and
 
-&emsp;(3) in addition to the relief provided under this Act, the Administration should encourage lenders to provide payment deferments, when appropriate, and to extend the maturity of covered loans, so as to avoid balloon payments or any requirement for increases in debt payments resulting from deferments provided by lenders during the period of the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the Coronavirus Disease 2019 (COVID–19).
+&emsp;(3) in addition to the relief provided under this Act, the Administration should encourage lenders to provide payment deferments, when appropriate, and to extend the maturity of covered loans, so as to avoid balloon paymentsor any requirement for increases in debt payments resulting from deferments provided by lenders during the period of the national emergency declared by the President under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to the Coronavirus Disease 2019 (COVID–19).
 
 #### (c) Principal and interest payments
 
@@ -164,11 +164,11 @@ A borrower may not receive assistance under subsection (c) for more than 1 cover
 
 #### (B) Guidance
 
-&emsp;&emsp;Not later than 21 days after the date of enactment of the Economic Aid to Hard-HitSmall Businesses, Nonprofits, and Venues Act the Administrator shall issue guidance on implementing the modifications to the assistance provided under this section under the amendments made by such Act.
+&emsp;&emsp;Not later than 21 days after the date of enactment of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act the Administrator shall issue guidance on implementing the modifications to the assistance provided under this section under the amendments made by such Act.
 
 #### (2) Publication of list
 
-&emsp;Not later than March 1, 2021, the Administrator shall transmit to each lender of a covered loan a list of each borrower of a covered loan that includes the North American Industry Classification System code assigned to the borrower, based on the records of the Administration, to assist the lenders in identifying which borrowers qualify for an extension of payments under subsection (c).
+&emsp;Not later than March 1, 2021, the Administrator shall transmit to each lender of a covered loan a list of each borrower of a covered loan that includes the North American Industry Classification System code assigned to theborrower, based on the records of the Administration, to assist the lenders in identifying which borrowers qualify for an extension of payments under subsection (c).
 
 #### (3) Education and outreach
 
@@ -242,7 +242,7 @@ Subsecs. (f) to (i). Pub. L. 116–260, §325(a)(2), (3), added subsecs. (f) to 
 
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. N, title III, §325(b), Dec. 27, 2020, 134 Stat. 2036, provided that: "The amendments madeby subsection (a) \[amending this section\] shall be effective as if included in the CARES Act (Public Law 116–136; 134 Stat. 281)."
+Pub. L. 116–260, div. N, title III, §325(b), Dec. 27, 2020, 134 Stat. 2036, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective as if included in the CARES Act (Public Law 116–136; 134 Stat. 281)."
 
 #### Clarification of Tax Treatment of Certain Loan Forgiveness and Other Business Financial Assistance
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) the end of any semester or quarter (as appropriate) that begins before the date on which the captive status of that person terminates;
 
-&emsp;&emsp;(B) the earlier of the end of any course that began before such date or the end of the16-week period following that date if the educational or training institution is not operated on a semester or quarter system; or
+&emsp;&emsp;(B) the earlier of the end of any course that began before such date or the end of the 16-week period following that date if the educational or training institution is not operated on a semester or quarter system; or
 
 &emsp;&emsp;(C) a date specified by the Secretary concerned in order to respond to special circumstances.
 

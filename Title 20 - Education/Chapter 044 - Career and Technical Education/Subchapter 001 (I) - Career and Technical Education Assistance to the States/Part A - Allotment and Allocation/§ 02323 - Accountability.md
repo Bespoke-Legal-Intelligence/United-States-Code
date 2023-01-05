@@ -134,7 +134,7 @@ The purpose of this section is to establish and support State and local performa
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) for subgroups of students, as described in section 6311(h)(1)(C)(ii) of this title, and special populations, as described in section 2302(48) of this title, that are served under this chapter; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) by the career and technical education programs or programs of studyof the CTE concentrators, except that in a case in which reporting by such program or program of study is impractical, the data may be disaggregated by the career clusters of the CTE concentrators, if appropriate;
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) by the career and technical education programs or programs of study of the CTE concentrators, except that in a case in which reporting by such program or program of study is impractical, the data may be disaggregated by the career clusters of the CTE concentrators, if appropriate;
 
 &emsp;&emsp;&emsp;&emsp;(II) identify and quantify any disparities or gaps in performance on the State determined levels of performance under subparagraph (A) between any such subgroup or special population and the performance of all CTE concentrators served by the eligible agency under this chapter, which shall include a quantifiable description of the progress each such subgroup or special population of students served by the eligible agency under this chapter has made in meeting the State determined levels of performance; and
 
@@ -254,7 +254,7 @@ The purpose of this section is to establish and support State and local performa
 
 #### References in Text
 
-The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A)(iii), (B)(i), (3)(C)(ii)(III)(cc), (4)(B)(ii)(IV)(cc), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Title I of the Act is classified principally to subchapter I (§12511 et seq.) of chapter 129 of Title 42,The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (b)(2)(A)(iii), (B)(i), (3)(C)(ii)(III)(cc), (4)(B)(ii)(IV)(cc), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Title I of the Act is classified principally to subchapter I (§12511 et seq.) of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -268,7 +268,7 @@ Another prior section 2323, Pub. L. 88–210, title I, §113, as added Pub. L. 9
 
 Subsec. (b)(1). Pub. L. 115–224, §112(1)(B)(i), inserted "State determined" before "performance" in introductory provisions.
 
-Subsec. (b)(1)(B), (C). Pub. L. 115–224, §112(1)(B)(ii)–(iv), redesignated subpar. (C) as (B), substituted "a State determined level of performance" for "a State adjusted level of performance" and struck out ", and State levels of performance described in paragraph (3)(B) for each additional indicator of performance" before period at end, and struck out former subpar. (B) which read as follows: "any additional indicators of performance (if any) identified by the eligible agency under paragraph (2)(C); and".
+Subsec. (b)(1)(B), (C). Pub. L. 115–224, §112(1)(B)(ii)–(iv), redesignated subpar. (C) as (B), substituted "a State determined level of performance" for "a State adjusted level of performance" and struck out", and State levels of performance described in paragraph (3)(B) for each additional indicator of performance" before period at end, and struck out former subpar. (B) which read as follows: "any additional indicators of performance (if any) identified by the eligible agency under paragraph (2)(C); and".
 
 Subsec. (b)(2). Pub. L. 115–224, §112(1)(C), added par. (2) and struck out former par. (2) which described various indicators of performance.
 

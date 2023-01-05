@@ -4,7 +4,7 @@ For the purposes of this chapter—
 
 (a) The term "person" means one or more individuals, partnerships, associations, labor organizations, corporations, business trusts, legal representatives, or any organized groups of persons.
 
-(b) The term "employer" means a person engaged in an industry affecting commerce who has twenty or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year: <i>Provided</i>, That prior to June 30, 1968, employers having fewer than fifty employees shall not be considered employers. The term also means (1) any agent of such a person, and (2) a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, but such term does not include the United States, or a corporation wholly owned by the Government of the United States.
+(b) The term "employer" means a person engaged in an industry affecting commerce who has twenty or more employees for each working day in each of twenty or more calendar weeks in the current or preceding calendar year: <i>Provided</i>, That prior to June 30, 1968, employers having fewer than fifty employees shall not be considered employers. The term also means (1) any agent of such a person, and (2) a State or political subdivision of a State and any agency or instrumentality of a State or a political subdivision of a State, and any interstate agency, butsuch term does not include the United States, or a corporation wholly owned by the Government of the United States.
 
 (c) The term "employment agency" means any person regularly undertaking with or without compensation to procure employees for an employer and includes an agent of such a person; but shall not include an agency of the United States.
 
@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 &emsp;(4) has been chartered by a labor organization representing or actively seeking to represent employees within the meaning of paragraph (1) or (2) as the local or subordinate body through which such employees may enjoy membership or become affiliated with such labor organization; or
 
-&emsp;(5) is a conference, general committee, joint or system board, or joint council subordinateto a national or international labor organization, which includes a labor organization engaged in an industry affecting commerce within the meaning of any of the preceding paragraphs of this subsection.
+&emsp;(5) is a conference, general committee, joint or system board, or joint council subordinate to a national or international labor organization, which includes a labor organization engaged in an industry affecting commerce within the meaning of any of the preceding paragraphs of this subsection.
 
 (f) The term "employee" means an individual employed by any employer except that the term "employee" shall not include any person elected to public office in any State or political subdivision of any State by the qualified voters thereof, or any person chosen by such officer to be on such officer's personal staff, or an appointee on the policymaking level or an immediate adviser with respect to the exercise of the constitutional or legal powers of the office. The exemption set forth in the preceding sentence shall not include employees subject to the civil service laws of a State government, governmental agency, or political subdivision. The term "employee" includes any individual who is a citizen of the United States employed by an employer in a workplace in a foreign country.
 
@@ -42,15 +42,15 @@ For the purposes of this chapter—
 
 #### References in Text
 
-The National Labor Relations Act, referred to in subsec. (e)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
+The National Labor Relations Act, referred to in subsec. (e)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, whichis classified generally to subchapter II (§151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 167 of this title and Tables.
 
-The Railway Labor Act, referred to in subsec. (e)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
+The Railway Labor Act, referred to in subsec. (e)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
-The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (h), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, which is classified principally to chapter 11 (§401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title, and Tables.
+The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (h), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, which is classified principally to chapter 11 (§401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title, and Tables.
 
 For definition of Canal Zone, referred to in subsec. (i), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1301 of Title 43 and Tables.
 
 #### Amendments
 

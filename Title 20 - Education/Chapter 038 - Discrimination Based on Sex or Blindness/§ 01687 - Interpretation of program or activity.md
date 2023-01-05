@@ -58,7 +58,7 @@ Pub. L. 100–259, §2, Mar. 22, 1988, 102 Stat. 28, provided that: "The Congres
 
 #### Construction
 
-Pub. L. 100–259, §7, Mar. 22, 1988, 102 Stat. 31, provided that: "Nothing in the amendments made by this Act \[see Short Title of 1988 Amendment note under section 1681 of this title\] shall be construed to extend the application of the Acts so amended \[Education Amendments of 1972, Pub. L. 92–318, see Short Title of 1972 Amendment, set out as a note under section 1001 of this title, Rehabilitation Act of 1973, 29 U.S.C. 701 et seq., Age Discrimination Act of 1975, 42 U.S.C. 6101 et seq., and Civil Rights Act of 1964, 42 U.S.C. 2000a et seq.\] to ultimate beneficiaries of Federal financial assistance excluded from coverage before the enactment of this Act \[Mar. 22, 1988\]."
+Pub. L. 100–259, §7, Mar. 22, 1988, 102 Stat. 31, provided that: "Nothing in the amendments made by this Act \[see Short Title of 1988 Amendment note under section1681 of this title\] shall be construed to extend the application of the Acts so amended \[Education Amendments of 1972, Pub. L. 92–318, see Short Title of 1972 Amendment, set out as a note under section 1001 of this title, Rehabilitation Act of 1973, 29 U.S.C. 701 et seq., Age Discrimination Act of 1975, 42 U.S.C. 6101 et seq., and Civil Rights Act of 1964, 42 U.S.C. 2000a et seq.\] to ultimate beneficiaries of Federal financial assistance excluded from coverage before the enactment of this Act \[Mar. 22, 1988\]."
 
 #### Abortion Neutrality
 

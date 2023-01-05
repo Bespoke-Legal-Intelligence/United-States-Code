@@ -14,7 +14,7 @@ Pub. L. 102–580, title II, §218, Oct. 31, 1992, 106 Stat. 4834, provided that
 
 "(a)
 
-In General.—The Secretary, in cooperation with the Administrator of the Environmental Protection Agency, is authorized to provide design and construction assistance to the Santa Clara Valley Water District in San Jose, California, and to the city of San Jose, California, for demonstrating and field testing public use innovative processes which advance the technology of waste water reuse and treatment and which promote the use of treated waste water for critical water supply purposes and for the protection of fish and wildlife in the San Francisco Bay. All design, construction, and comprehensive health effects studies shall be carried out by non-Federal interests.
+In General.—The Secretary, in cooperation with the Administrator of the Environmental ProtectionAgency, is authorized to provide design and construction assistance to the Santa Clara Valley Water District in San Jose, California, and to the city of San Jose, California, for demonstrating and field testing public use innovative processes which advance the technology of waste water reuse and treatment and which promote the use of treated waste water for critical water supply purposes and for the protection of fish and wildlife in the San Francisco Bay. All design, construction, and comprehensive health effects studies shall be carried out by non-Federal interests.
 
 "(b)
 

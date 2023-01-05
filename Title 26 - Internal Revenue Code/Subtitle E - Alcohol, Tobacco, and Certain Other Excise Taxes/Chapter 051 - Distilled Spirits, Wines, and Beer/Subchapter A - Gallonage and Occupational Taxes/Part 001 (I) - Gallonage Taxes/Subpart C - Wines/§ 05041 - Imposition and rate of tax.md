@@ -58,7 +58,7 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 #### (4) Denial of deduction
 
-&emsp;Any deduction under subtitle A with respect to any tax against which a credit is allowed under this subsection shall only be for the amount of such tax as reduced by such credit.
+&emsp;Any deduction under subtitle A with respect to any tax against which a credit is allowedunder this subsection shall only be for the amount of such tax as reduced by such credit.
 
 #### (5) Credit for transferee in bond
 
@@ -98,7 +98,37 @@ There is hereby imposed on all wines (including imitation, substandard, or artif
 
 &emsp;&emsp;For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the foreign producer, as described under paragraph (3).
 
-#### (7) Regulations
+#### (7) Refunds in lieu of tax credits for foreign production removed after December 31, 2022
+
+#### (A) In general
+
+&emsp;&emsp;In the case of any wine gallons of wine which have been produced outside the United States and imported into the United States, if such wine gallons are removed after December 31, 2022—
+
+&emsp;&emsp;&emsp;(i) paragraph (1) shall not apply, and
+
+&emsp;&emsp;&emsp;(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
+
+#### (B) Amount of refund
+
+&emsp;&emsp;The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
+
+&emsp;&emsp;&emsp;(i) excess (if any) of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the amount of tax imposed under this section on wine gallons of wine referred to in subparagraph (A) which were removed during such period, over
+
+&emsp;&emsp;&emsp;&emsp;(II) the amount of tax which would have been imposed under this section (including any allowable credits) on such gallons of wine if this section were applied without regard to this paragraph, plus
+
+&emsp;&emsp;&emsp;(ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
+
+#### (C) Application of rules related to elections and assignments
+
+&emsp;&emsp;Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph.
+
+#### (D) Rules for refunds within 90 days
+
+&emsp;&emsp;For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting "90 days" for "45 days" each place it appears.
+
+#### (8) Regulations
 
 &emsp;The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations to ensure proper calculation of the credit provided in this subsection.
 
@@ -172,42 +202,6 @@ For purposes of subsection (b)(6), the term "hard cider" means a wine—
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1331; amended Pub. L. 86–75, §3(a)(5), June 30, 1959, 73 Stat. 157; Pub. L. 86–564, title II, §202(a)(7), June 30, 1960, 74 Stat. 290; Pub. L. 87–72, §3(a)(7), June 30, 1961, 75 Stat. 193; Pub. L. 87–508, §3(a)(6), June 28, 1962, 76 Stat. 114; Pub. L. 88–52, §3(a)(7), June 29, 1963, 77 Stat. 72; Pub. L. 88–348, §2(a)(7), June 30, 1964, 78 Stat. 237; Pub. L. 89–44, title V, §501(c), title VIII, §806(a), June 21, 1965, 79 Stat. 150, 162; Pub. L. 93–490, §6(a), Oct. 26, 1974, 88 Stat. 1468; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 100–647, title VI, §6101(a), Nov. 10, 1988, 102 Stat. 3710; Pub. L. 101–508, title XI, §11201(b)(1), (2), Nov. 5, 1990, 104 Stat. 1388–415, 1388–416; Pub. L. 104–188, title I, §1702(b)(5), Aug. 20, 1996, 110 Stat. 1868; Pub. L. 105–34, title IX, §908(a), (b), Aug. 5, 1997, 111 Stat. 876; Pub. L. 105–206, title VI, §6009(a), July 22, 1998, 112 Stat. 812; Pub. L. 114–113, div. Q, title III, §335(a), Dec. 18, 2015, 129 Stat. 3109; Pub. L. 115–97, title I, §§13804(a)–(c), 13805(a), 13806(a), Dec. 22, 2017, 131 Stat. 2173–2175; Pub. L. 116–94, div. Q, title I, §144(d)(1), (2), (e)(1), (f)(1), (j)(1), Dec. 20, 2019, 133 Stat. 3235; Pub. L. 116–260, div. EE, title I, §§106(d)(1), (2), (e)(1), (f)(1), 107(c)(1), Dec. 27, 2020, 134 Stat. 3043, 3044, 3047.)
 
-#### Amendment of Subsection (c)
-
-<i>Pub. L. 116–260, div. EE, title I, §107(c), Dec. 27, 2020, 134 Stat. 3047, provided that, applicable to wine removed after Dec. 31, 2022, subsection (c) of this section is amended by redesignating paragraph (7) as paragraph (8) and by inserting after paragraph (6) the following new paragraph:</i>
-
-#### <i>(7) Refunds in lieu of tax credits for foreign production removed after December 31, 2022</i>
-
-#### <i>(A) In general</i>
-
-&emsp;&emsp;<i>In the case of any wine gallons of wine which have been produced outside the United States and imported into the United States, if such wine gallons are removed after December 31, 2022—</i>
-
-&emsp;&emsp;&emsp;<i>(i) paragraph (1) shall not apply, and</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than</i><i>quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.</i>
-
-#### <i>(B) Amount of refund</i>
-
-&emsp;&emsp;<i>The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—</i>
-
-&emsp;&emsp;&emsp;<i>(i) excess (if any) of—</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(I) the amount of tax imposed under this section on wine gallons of wine referred to in subparagraph (A) which were removed during such period, over</i>
-
-&emsp;&emsp;&emsp;&emsp;<i>(II) the amount of tax which would have been imposed under this section (including any allowable credits) on such gallons of wine if this section were applied without regard to this paragraph, plus</i>
-
-&emsp;&emsp;&emsp;<i>(ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.</i>
-
-#### <i>(C) Application of rules related to elections and assignments</i>
-
-&emsp;&emsp;<i>Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph.</i>
-
-#### <i>(D) Rules for refunds within 90 days</i>
-
-&emsp;&emsp;<i>For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting "90 days" for "45 days" each place it appears.</i>
-
-<i>See 2020 Amendment note below.</i>
-
 #### <b>Editorial Notes</b>
 
 #### Codification
@@ -216,7 +210,7 @@ Pub. L. 116–260, div. EE, title I, §110(b), Dec. 27, 2020, 134 Stat. 3049, pr
 
 #### Prior Provisions
 
-A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, §3(a)(7), 69 Stat. 14; Mar. 29, 1956, ch. 115, §3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
+A prior section 5041, acts Aug. 16, 1954, ch. 736, 68A Stat. 609; Mar. 30, 1955, ch. 18, §3(a)(7), 69 Stat. 14; Mar.29, 1956, ch. 115, §3(a)(7), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, §3(a)(5), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, §3(a)(5), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 

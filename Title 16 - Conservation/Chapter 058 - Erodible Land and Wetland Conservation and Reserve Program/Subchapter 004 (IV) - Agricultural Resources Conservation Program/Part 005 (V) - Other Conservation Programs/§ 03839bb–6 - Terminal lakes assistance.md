@@ -70,7 +70,7 @@ The Secretary shall—
 
 #### (B) Determination of purchase price
 
-&emsp;&emsp;A State purchasing eligible land with a land purchase grant shall ensure, to themaximum extent practicable, that the purchase price of such land reflects the value, if any, of other encumbrances on the eligible land to be purchased, including easements and mineral rights.
+&emsp;&emsp;A State purchasing eligible land with a land purchase grant shall ensure, to the maximum extent practicable, that the purchase price of such land reflects the value, if any, of other encumbrances on the eligible land to be purchased, including easements and mineral rights.
 
 #### (C) Cost-share required
 
@@ -158,19 +158,19 @@ The Secretary shall—
 
 #### (f) Termination of authority
 
-The authority provided by this section shall terminate on October 1, 2023.
+The authority provided by this section shall terminate on October 1, 2025.
 
-(Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275; Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74, div. B, title II, §208(a), Dec. 23, 2011, 125 Stat. 866; Pub. L. 113–79, title II, §2507, Feb. 7, 2014, 128 Stat. 753; Pub. L. 115–334, title II, §2821(d), Dec. 20, 2018, 132 Stat. 4603.)
+(Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275; Pub. L. 110–234, title II, §2807, May 22, 2008, 122 Stat. 1090; Pub. L. 110–246, §4(a), title II, §2807, June 18, 2008, 122 Stat. 1664, 1818; Pub. L. 111–85, title II, §207, Oct. 28, 2009, 123 Stat. 2858; Pub. L. 112–74, div. B, title II, §208(a), Dec. 23, 2011, 125 Stat. 866; Pub. L. 113–79, title II, §2507, Feb. 7, 2014, 128 Stat. 753; Pub. L. 115–334, title II, §2821(d), Dec. 20, 2018, 132 Stat. 4603; Pub. L. 117–361, §1, Jan. 5, 2023, 136 Stat. 6294.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsecs. (a)(1)(B)(i)(I) and (c)(2)(E)(i), is Pub. L. 99–198, Dec. 23,1985, 99 Stat. 1354. Title XII of the Act is classified principally to this chapter. Subtitle H of the Food Security Act of 1985 probably means subtitle H (§1265 et seq.) of title XII of Pub. L. 99–198, which is classified generally to subchapter VII of this chapter. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
+The Food Security Act of 1985, referred to in subsecs. (a)(1)(B)(i)(I) and (c)(2)(E)(i), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to this chapter. Subtitle H of the Food Security Act of 1985 probably means subtitle H (§1265 et seq.) of title XII of Pub. L. 99–198, which is classified generally to subchapter VII of this chapter. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (c)(2)(E)(ii), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1501 of Title 7 and Tables.
 
-Section 2507 of the Farm Security and Rural Investment Act of 2002 (43 U.S.C. 2211 note; Public Law 107–171) (as in effect on the day before February 7, 2014), referred to in subsec. (d)(3)(B)(i), is section 2507 of Pub. L. 107–171, title II, May 13, 2002, 116 Stat. 275, which was classified as a note under section 2211 of Title 43, Public Lands, prior to being amended generally by Pub. L. 113–79 and editorially reclassified as this section.
+Section 2507 of the Farm Security and Rural Investment Act of 2002 (43 U.S.C. 2211 note; Public Law 107–171) (as in effect on the day before February 7, 2014), referred to in subsec. (d)(3)(B)(i), is section 2507 of Pub.L. 107–171, title II, May 13, 2002, 116 Stat. 275, which was classified as a note under section 2211 of Title 43, Public Lands, prior to being amended generally by Pub. L. 113–79 and editorially reclassified as this section.
 
 Section 207 of the Energy and Water Development Appropriations Act, 2003, referred to in subsec. (d)(3)(B)(ii), is section 207 of Pub. L. 108–7, div. D, title II, Feb. 20, 2003, 117 Stat. 146, which is not classified to the Code.
 
@@ -187,6 +187,8 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 Section was formerly set out as a note under section 2211 of Title 43, Public Lands.
 
 #### Amendments
+
+<b>2023</b>—Subsec. (f). Pub. L. 117–361 substituted "2025" for "2023".
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–334, §2821(d)(1), added par. (2), redesignated former par. (2) as (1), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "There is authorized to be appropriated to the Secretary to carry out subsection (c) $25,000,000, to remain available until expended."
 

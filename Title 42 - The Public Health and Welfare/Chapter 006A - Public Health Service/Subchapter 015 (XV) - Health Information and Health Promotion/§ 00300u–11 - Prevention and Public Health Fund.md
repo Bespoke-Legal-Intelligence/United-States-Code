@@ -22,9 +22,11 @@ There are hereby authorized to be appropriated, and appropriated, to the Fund, o
 
 &emsp;(7) for each of fiscal years 2024 and 2025, $1,300,000,000;
 
-&emsp;(8) for each of fiscal years 2026 and 2027, $1,800,000,000; and
+&emsp;(8) for each of fiscal years 2026 and 2027, $1,525,000,000;
 
-&emsp;(9) for fiscal year 2028 and each fiscal year thereafter, $2,000,000,000.
+&emsp;(9) for each of fiscal years 2028 and 2029, $1,725,000,000; and
+
+&emsp;(10) for fiscal year 2030 and each fiscal year thereafter, $2,000,000,000.
 
 #### (c) Use of Fund
 
@@ -34,7 +36,7 @@ The Secretary shall transfer amounts in the Fund to accounts within the Departme
 
 The Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives may provide for the transfer of funds in the Fund to eligible activities under this section, subject to subsection (c).
 
-(Pub. L. 111–148, title IV, §4002, title X, §10401(b), Mar. 23, 2010, 124 Stat. 541, 974; Pub. L. 112–96, title III, §3205, Feb. 22, 2012, 126 Stat. 194; Pub. L. 114–255, div. A, title V, §5009, Dec. 13, 2016, 130 Stat. 1197; Pub. L. 115–96, div. C, title I, §3103, Dec. 22, 2017, 131 Stat. 2049; Pub. L. 115–123, div. E, title XII, §53119, Feb. 9, 2018, 132 Stat. 308.)
+(Pub. L. 111–148, title IV, §4002, title X, §10401(b), Mar. 23, 2010, 124 Stat. 541, 974; Pub. L. 112–96, title III, §3205, Feb. 22, 2012, 126 Stat. 194; Pub. L. 114–255, div. A, title V, §5009, Dec. 13, 2016, 130 Stat. 1197; Pub. L. 115–96, div. C, title I, §3103, Dec. 22, 2017, 131 Stat. 2049; Pub. L. 115–123, div. E, title XII, §53119, Feb. 9, 2018, 132 Stat. 308; Pub. L. 117–328, div. FF, title VII, §7701(c), Dec. 29, 2022, 136 Stat. 5966.)
 
 #### <b>Editorial Notes</b>
 
@@ -47,6 +49,12 @@ The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(8). Pub. L. 117–328, §7701(c)(1), substituted "$1,525,000,000;" for "$1,800,000,000; and".
+
+Subsec. (b)(9). Pub. L. 117–328, §7701(c)(2), added par. (9) and struck out former par. (9) which read as follows: "for fiscal year 2028 and each fiscal year thereafter, $2,000,000,000."
+
+Subsec. (b)(10). Pub. L. 117–328, §7701(c)(3), added par. (10).
 
 <b>2018</b>—Subsec. (b)(4) to (9). Pub. L. 115–123 added pars. (4) to (9) and struck out former pars. (4) to (9) which read as follows:
 
@@ -96,7 +104,7 @@ Pub. L. 115–31, div. H, title II, §219, May 5, 2017, 131 Stat. 541, provided 
 
 &emsp;"(2) Identification (along with a link to the full text) of each funding opportunity announcement, request for proposals, or other announcement or solicitation of proposals for grants, cooperative agreements, or contracts intended to be awarded using such funds, to be posted not later than the day after the announcement or solicitation is issued.
 
-&emsp;"(3) Identification of each grant, cooperative agreement, or contract with a value of $25,000 or more awarded using such funds, including the purpose of the award and the identity of the recipient, to be posted not later than 5 days after the award is made.
+&emsp;"(3) Identification of each grant, cooperative agreement, or contract with a value of $25,000 or moreawarded using such funds, including the purpose of the award and the identity of the recipient, to be posted not later than 5 days after the award is made.
 
 &emsp;"(4) A report detailing the uses of all funds transferred under section 4002(c) during the fiscal year, to be posted not later than 90 days after the end of the fiscal year.
 

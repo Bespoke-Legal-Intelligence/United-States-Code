@@ -30,5 +30,5 @@ Level III of the Executive Schedule, referred to in subsec. (a)(2), is set out i
 
 #### References to Maximum Rate Under 5 U.S.C. 5376
 
-For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an EffectiveDate of 2008 Amendment note under section 5376 of Title 5.
+For reference to maximum rate under section 5376 of Title 5, Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under section 5376 of Title 5.
 

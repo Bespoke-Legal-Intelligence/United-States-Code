@@ -78,7 +78,7 @@ Subsec. (d)(1)(A). Pub. L. 98–353, §465(b)(1), inserted "or accruing to" afte
 
 Subsec. (d)(1)(B). Pub. L. 98–353, §465(b)(2), substituted "the value of such property" for "value".
 
-Subsec. (d)(2)(D). Pub. L. 98–353, §465(b)(3), substituted "payment of any debt secured by a lien on such property that is superior or equal to the rights of the trustee; and" for "payment of any debt secured by a lien on such property."
+Subsec. (d)(2)(D). Pub. L. 98–353, §465(b)(3), substituted "payment of any debt secured by a lien onsuch property that is superior or equal to the rights of the trustee; and" for "payment of any debt secured by a lien on such property."
 
 Subsec. (d)(2)(E), (F). Pub. L. 98–353, §465(b)(3), (4), struck out subpar. (E) "discharge of any lien against such property that is superior or equal to the rights of the trustee; and" and redesignated subpar. (F) as (E).
 

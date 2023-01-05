@@ -34,7 +34,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;(E) shall, six months after importation of yellowfin tuna or tuna products has been banned under this section, certify such fact to the President, which certification shall be deemed to be a certification for the purposes of section 1978(a) of title 22 for as long as such ban is in effect; and
 
-&emsp;&emsp;(F)(i) except as provided in clause (ii), in the case of fish or products containing fish harvested by a nation whose fishing vessels engage in high seas driftnet fishing, shall require that the government of the exporting nation provide documentary evidence that the fish or fish product was not harvested with a large-scale driftnet in the South Pacific Ocean after July 1, 1991, or in any other water of the high seas after January 1, 1993, and
+&emsp;&emsp;(F)(i) except as provided in clause (ii), in the case of fish or products containing fish harvested by a nation whose fishing vessels engage in high seas driftnet fishing, shall require that the government of the exportingnation provide documentary evidence that the fish or fish product was not harvested with a large-scale driftnet in the South Pacific Ocean after July 1, 1991, or in any other water of the high seas after January 1, 1993, and
 
 &emsp;&emsp;(ii) in the case of tuna or a product containing tuna harvested by a nation whose fishing vessels engage in high seas driftnet fishing, shall require that the government of the exporting nation provide documentary evidence that the tuna or tuna product was not harvested with a large-scale driftnet anywhere on the high seas after July 1, 1991.
 
@@ -56,7 +56,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 > &emsp;so long as such measures do not result in the death or serious injury of a marine mammal.
 
-&emsp;(B) The Secretary shall, through consultation with appropriate experts, and after notice and opportunity for public comment, publish in the Federal Register a list of guidelines for use in safely deterring marine mammals. In the case of marine mammals listed as endangered species or threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531et seq.\], the Secretary shall recommend specific measures which may be used to nonlethally deter marine mammals. Actions to deter marine mammals consistent with such guidelines or specific measures shall not be a violation of this chapter.
+&emsp;(B) The Secretary shall, through consultation with appropriate experts, and after notice and opportunity for public comment, publish in the Federal Register a list of guidelines for use in safely deterring marine mammals. In the case of marine mammals listed as endangered species or threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the Secretary shall recommend specific measures which may be used to nonlethally deter marine mammals. Actions to deter marine mammals consistent with such guidelines or specific measures shall not be a violation of this chapter.
 
 &emsp;(C) If the Secretary determines, using the best scientific information available, that certain forms of deterrence have a significant adverse effect on marine mammals, the Secretary may prohibit such deterrent methods, after notice and opportunity for public comment, through regulation under this chapter.
 
@@ -100,7 +100,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(ii) The authorization for such activity shall prescribe, where applicable—
 
-&emsp;&emsp;(I) permissible methods of taking by harassment pursuant to such activity, andother means of effecting the least practicable impact on such species or stock and its habitat, paying particular attention to rookeries, mating grounds, and areas of similar significance, and on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title,
+&emsp;&emsp;(I) permissible methods of taking by harassment pursuant to such activity, and other means of effecting the least practicable impact on such species or stock and its habitat, paying particular attention to rookeries, mating grounds, and areas of similar significance, and on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title,
 
 &emsp;&emsp;(II) the measures that the Secretary determines are necessary to ensure no unmitigable adverse impact on the availability of the species or stock for taking for subsistence uses pursuant to subsection (b) or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title, and
 
@@ -108,7 +108,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(iii) The Secretary shall publish a proposed authorization not later than 45 days after receiving an application under this subparagraph and request public comment through notice in the Federal Register, newspapers of general circulation, and appropriate electronic media and to all locally affected communities for a period of 30 days after publication. Not later than 45 days after the close of the public comment period, if the Secretary makes the findings set forth in clause (i), the Secretary shall issue an authorization with appropriate conditions to meet the requirements of clause (ii).
 
-&emsp;(iv) The Secretary shall modify, suspend, or revoke an authorization if the Secretary finds that the provisions of clauses (i) or (ii) are not being met.
+&emsp;(iv) The Secretary shall modify, suspend, or revoke an authorization if the Secretary findsthat the provisions of clauses (i) or (ii) are not being met.
 
 &emsp;(v) A person conducting an activity for which an authorization has been granted under this subparagraph shall not be subject to the penalties of this chapter for taking by harassment that occurs in compliance with such authorization.
 
@@ -128,7 +128,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(iii) If, during the course of the commercial fishing season, the Secretary determines that the level of incidental mortality or serious injury from commercial fisheries for which a determination was made under clause (i) has resulted or is likely to result in an impact that is more than negligible on the endangered or threatened species or stock, the Secretary shall use the emergency authority granted under section 1387 of this title to protect such species or stock, and may modify any permit granted under this paragraph as necessary.
 
-&emsp;(iv) The Secretary may suspend for a time certain or revoke a permit granted under this subparagraph only if the Secretary determines that the conditions or limitations set forth in such permit are not being complied with. The Secretary may amend or modify, after notice and opportunity for public comment, the listof fisheries published under clause (ii) whenever the Secretary determines there has been a significant change in the information or conditions used to determine such list.
+&emsp;(iv) The Secretary may suspend for a time certain or revoke a permit granted under this subparagraph only if the Secretary determines that the conditions or limitations set forth in such permit are not being complied with. The Secretary may amend or modify, after notice and opportunity for public comment, the list of fisheries published under clause (ii) whenever the Secretary determines there has been a significant change in the information or conditions used to determine such list.
 
 &emsp;(v) Sections 1373 and 1374 of this title shall not apply to the taking of marine mammals under the authority of this subparagraph.
 
@@ -148,7 +148,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;(ii) was acquired outside of the United States as part of a cultural exchange by an Indian, Aleut, or Eskimo residing in Alaska; or
 
-&emsp;&emsp;(iii) is owned by a Native inhabitant of Russia, Canada, or Greenland and is imported for noncommercial purposes in conjunction with travel within the United States or as part of a cultural exchange with an Indian, Aleut, or Eskimo residing in Alaska.
+&emsp;&emsp;(iii) is owned by a Native inhabitant of Russia, Canada, or Greenland and is imported for noncommercial purposes in conjunction with travel within the United States or as part of a cultural exchange withan Indian, Aleut, or Eskimo residing in Alaska.
 
 &emsp;(B) For the purposes of this paragraph, the term—
 
@@ -218,9 +218,9 @@ The effective date of this chapter, referred to in subsec. (a), means the effect
 
 For effective date of section 4 of the International Dolphin Conservation Program Act \[Pub. L. 105–42\], referred to in subsec. (a)(2)(B)(i), see section 8 of Pub. L. 105–42 set out as an Effective Date of 1997 Amendment note under section 1362 of this title.
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(4)(B), (5)(E)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(4)(B), (5)(E)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Whaling Convention Act of 1949, referred to in subsec. (a)(5)(A)(i)(I), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, as amended, which is classified generally to subchapter II (§916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
+The Whaling Convention Act of 1949, referred to in subsec. (a)(5)(A)(i)(I), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, which is classified generally to subchapter II (§916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 916 of this title and Tables.
 
 Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -258,7 +258,7 @@ Subsec. (e). Pub. L. 105–42, §4(c), added subsec. (e).
 
 > is first reviewed by the Marine Mammal Commission and the Committee of Scientific Advisors on Marine Mammals established under subchapter III of this chapter. The Commission and Committee shall recommend any proposed taking or importation which is consistent with the purposes and policies of section 1361 of this title. The Secretary shall, if he grants approval for importation, issue to the importer concerned a certificate to that effect which shall be in such form as the Secretary of the Treasury prescribes and such importation may be made upon presentation of the certificate to the customs officer concerned."
 
-Subsec. (a)(2). Pub. L. 103–238, §4(a)(2), inserted before period at end of first sentence ", or in lieu of such permits, authorizations may be granted therefor under section 1387 of this title, subject to regulations prescribed under that section by the Secretary without regard to section 1373 of this title".
+Subsec. (a)(2). Pub. L. 103–238, §4(a)(2), inserted before period at end of first sentence ", or in lieu of such permits, authorizations may be granted therefor undersection 1387 of this title, subject to regulations prescribed under that section by the Secretary without regard to section 1373 of this title".
 
 Subsec. (a)(3)(B). Pub. L. 103–238, §4(a)(3), inserted ", photography for educational or commercial purposes," after "purposes" and "or as provided for under paragraph (5) of this subsection," after "subsection,".
 
@@ -338,7 +338,7 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should be a reference to cl. (ii)(I).</i>
 

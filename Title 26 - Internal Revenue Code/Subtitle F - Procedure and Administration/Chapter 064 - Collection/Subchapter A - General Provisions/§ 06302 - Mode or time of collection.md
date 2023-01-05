@@ -116,7 +116,7 @@ If, under regulations prescribed by the Secretary, a person is required to make 
 
 > with respect to".
 
-Subsec. (f)(1). Pub. L. 113–295, §221(a)(110)(B), struck out last sentence which read as follows: "In the case oftaxes imposed by sections 4261 and 4271, this paragraph shall not apply to periods before January 1, 1997."
+Subsec. (f)(1). Pub. L. 113–295, §221(a)(110)(B), struck out last sentence which read as follows: "In the case of taxes imposed by sections 4261 and 4271, this paragraph shall not apply to periods before January 1, 1997."
 
 Subsec. (h)(2). Pub. L. 113–295, §221(a)(110)(C)(i), redesignated par. (3) as (2) and struck out former par. (2) which related to phase-in of the electronic fund transfer system.
 
@@ -220,7 +220,7 @@ Amendment by Pub. L. 103–66 effective Jan. 1, 1994, see section 13242(e) of Pu
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11217(b)(2), Nov. 5, 1990, 104 Stat. 1388–437, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to payments of taxes considered collected during semimonthly periods beginning after December 31, 1990."
+Pub. L. 101–508, title XI, §11217(b)(2), Nov. 5, 1990, 104 Stat. 1388–437, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to payments of taxes considered collected during semimonthly periods beginning after December 31, 1990."
 
 Pub. L. 101–508, title XI, §11334(c), Nov. 5, 1990, 104 Stat. 1388–470, provided that: "The amendments made by this section \[amending this section and provisions set out below\] shall apply to amounts required to be deposited after December 31, 1990."
 

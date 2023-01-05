@@ -38,7 +38,7 @@ Findings.—The Congress finds and declares the following:
 
 &emsp;"(2) For a variety of reasons, including local franchising requirements and the extraordinary expense of constructing more than one cable television system to serve a particular geographic area, most cable television subscribers have no opportunity to select between competing cable systems. Without the presence of another multichannel video programming distributor, a cable system faces no local competition. The result is undue market power for the cable operator as compared to that of consumers and video programmers.
 
-&emsp;"(3) There has been a substantial increase in the penetration of cable television systems over the past decade. Nearly 56,000,000 households, over 60 percent of the households with televisions, subscribe to cable television, and this percentage is almost certain to increase. As a result of this growth, the cable television industry has become a dominant nationwide video medium.
+&emsp;"(3) There has been a substantial increase in the penetration of cable television systems over the pastdecade. Nearly 56,000,000 households, over 60 percent of the households with televisions, subscribe to cable television, and this percentage is almost certain to increase. As a result of this growth, the cable television industry has become a dominant nationwide video medium.
 
 &emsp;"(4) The cable industry has become highly concentrated. The potential effects of such concentration are barriers to entry for new programmers and a reduction in the number of media voices available to consumers.
 

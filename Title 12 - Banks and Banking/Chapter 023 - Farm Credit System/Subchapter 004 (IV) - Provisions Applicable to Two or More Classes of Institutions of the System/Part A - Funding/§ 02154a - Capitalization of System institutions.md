@@ -56,7 +56,7 @@ Subject to approval by shareholders under subsection (c)(2), each bank and assoc
 
 &emsp;&emsp;&emsp;(i) as a condition of borrowing from or through the institution, any borrower who is entitled to hold voting stock or participation certificates shall, at the time a loan is made, acquire voting stock or participation certificates in an amount not less than $1,000 or 2 percent of the amount of the loan, whichever is less; and
 
-&emsp;&emsp;&emsp;(ii) within 2 years after the loan of a borrower is repaid in full, any voting stockheld by the borrower be converted to nonvoting stock;
+&emsp;&emsp;&emsp;(ii) within 2 years after the loan of a borrower is repaid in full, any voting stock held by the borrower be converted to nonvoting stock;
 
 &emsp;&emsp;(F) may provide that persons who are not borrowers from the institution may hold nonvoting stock of the institution;
 
@@ -104,7 +104,7 @@ The Farm Credit Administration may issue a directive that requires compliance wi
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of this section, if a loan designated for sale under paragraph (1)(A) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the voting stock or participation certificate purchase requirement that would otherwise apply to the loan in the absence of a bylaw provision described in paragraph (1)(A) shall be effective.
+&emsp;&emsp;Subject to subparagraph (B) and notwithstanding any other provision of this section,if a loan designated for sale under paragraph (1)(A) is not sold into a secondary market during the 180-day period that begins on the date of the designation, the voting stock or participation certificate purchase requirement that would otherwise apply to the loan in the absence of a bylaw provision described in paragraph (1)(A) shall be effective.
 
 #### (B) Retirement
 
@@ -124,7 +124,7 @@ To the extent that any provision of this section is inconsistent with any other 
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 

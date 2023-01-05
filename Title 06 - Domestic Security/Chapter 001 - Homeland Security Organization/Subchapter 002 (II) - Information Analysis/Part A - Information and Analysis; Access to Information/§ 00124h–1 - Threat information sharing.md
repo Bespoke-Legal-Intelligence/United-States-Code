@@ -16,7 +16,7 @@ Officers and intelligence analysts assigned to locations with participating Stat
 
 #### (c) Clearances
 
-The Secretary of Homeland Security shall make available to appropriate owners and operators of surface transportation assets, and to any other person that the Secretary determines appropriate to foster greater sharing of classified information relating to threats of terrorism and other threats, including targeted violence, to surface transportation assets, the process of application for security clearances under Executive Order No. 13549 (75 Fed. Reg. 162; relating to a classified national security information program) or any successor Executive order.
+The Secretary of Homeland Security shall make available to appropriate owners and operators of surface transportation assets, and to any other person that the Secretary determines appropriate to foster greater sharing of classified information relating to threats of terrorism and other threats, including targeted violence, to surface transportation assets, the process of application for security clearances under Executive Order No. 13549 (75 Fed. Reg. 162; <sup>1</sup> relating to a classified national security information program) or any successor Executive order.
 
 #### (d) Report to Congress
 
@@ -58,9 +58,11 @@ In this section:
 
 #### References in Text
 
-Executive Order No. 13549, referred to in subsec. (c), is set out as a note under section 3161 of Title 50, War and National Defense.
+Executive Order No. 13549, referred to in subsec. (c), is Ex. Ord. No. 13549, Aug. 18, 2010, 75 F.R. 51609, which is set out as a note under section 3161 of Title 50, War and National Defense.
 
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2022, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "51609;".</i>
 

@@ -18,7 +18,7 @@ No part of this fund shall be used to pay for any gifts to any officials of any 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4,1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -36,7 +36,7 @@ Subsec. (a)(2). Pub. L. 96–92 added par. (2).
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–329 substituted "fiscal year 1976 not to exceed $5,000,000 and for the fiscal year 1977 not to exceed $5,000,000" for "fiscal year 1975 not to exceed $5,000,000," and "authorized by subchapter I of this chapter for any emergency" for "authorized by this subchapter or by section 2399 of this title for any emergency" and inserted provision authorizing that funds appropriated remain available until expended.
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–559 substituted appropriations authorization of $5,000,000 for fiscal year 1975 for prior authorization of $30,000,000 for fiscal years 1974, and 1975, and authorized assistance under section 2399 of this title and for any emergency purpose.
+<b>1974</b>—Subsec. (a). Pub. L. 93–559 substituted appropriations authorization of $5,000,000 for fiscal year 1975 for prior authorization of $30,000,000 for fiscal years1974, and 1975, and authorized assistance under section 2399 of this title and for any emergency purpose.
 
 Subsec. (b). Pub. L. 93–559 substantially reenacted subsec. (b) provisions, substituting "submit" for "provide".
 

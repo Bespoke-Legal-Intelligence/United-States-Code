@@ -58,7 +58,7 @@ Elements.—The activities required by subsection (a) shall include the followin
 
 &emsp;"(2) Funding research and technology development in hardware-intensive capabilities that private industry has not sufficiently supported to meet rapidly emerging defense and national security needs.
 
-&emsp;"(3) Contributing to the development of policies, policy implementation, and actions to deter strategic acquisition of industrial and technical capabilities in the private sector by foreign entities that could potentially exclude companies from participating in theDepartment of Defense technology and industrial base.
+&emsp;"(3) Contributing to the development of policies, policy implementation, and actions to deter strategic acquisition of industrial and technical capabilities in the private sector by foreign entities that could potentially exclude companies from participating in the Department of Defense technology and industrial base.
 
 &emsp;"(4) Identifying promising emerging technology in industry and academia for the Department of Defense for potential support or research and development cooperation.
 
@@ -146,7 +146,7 @@ Notice Required.—Not later than 15 days before the date on which the Under Sec
 
 #### Joint Artificial Intelligence Research, Development, and Transition Activities
 
-Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as amended by Pub. L. 116–92, div. A, title II, §221, Dec. 20, 2019, 133 Stat. 1261; Pub. L. 116–283, div. A, title II, §232, Jan. 1, 2021, 134 Stat. 3480, provided that:
+Pub. L. 115–232, div. A, title II, §238, Aug. 13, 2018, 132 Stat. 1695, as amended by Pub. L. 116–92, div. A, title II, §221, Dec. 20, 2019, 133 Stat. 1261; Pub. L. 116–283, div. A, title II, §232, Jan. 1, 2021, 134 Stat. 3480; Pub. L. 117–263, div. A, title II, §212(l), Dec. 23, 2022, 136 Stat. 2470, provided that:
 
 "(a)
 
@@ -178,47 +178,21 @@ Organization and Roles.—
 
 &emsp;"(1)
 
-Assignment of roles and responsibilities.—
-
-&emsp;&emsp;"(A)
-
 In general.—In addition to designating an official under subsection (b), the Secretary of Defense shall assign to appropriate officials within the Department of Defense roles and responsibilities relating to the research, development, prototyping, testing, procurement of, requirements for, and operational use of artificial intelligence technologies.
-
-&emsp;&emsp;"(B)
-
-Appropriate officials.—The officials assigned roles and responsibilities under subparagraph (A) shall include—
-
-&emsp;&emsp;&emsp;"(i) the Under Secretary of Defense for Research and Engineering;
-
-&emsp;&emsp;&emsp;"(ii) the Under Secretary of Defense for Acquisition and Sustainment;
-
-&emsp;&emsp;&emsp;"(iii) the Director of the Joint Artificial Intelligence Center;
-
-&emsp;&emsp;&emsp;"(iv) one or more officials in each military department;
-
-&emsp;&emsp;&emsp;"(v) officials of appropriate Defense Agencies; and
-
-&emsp;&emsp;&emsp;"(vi) such other officials as the Secretary of Defense determines appropriate.
 
 &emsp;"(2)
 
-Role of director of the joint artificial intelligence center.—
+Appropriate officials.—The officials assigned roles and responsibilities under paragraph (1) shall include—
 
-&emsp;&emsp;"(A)
+&emsp;&emsp;"(A) the Under Secretary of Defense for Research and Engineering;
 
-Direct report to deputy secretary of defense.—During the covered period, the Director of the Joint Artificial Intelligence Center shall report directly to the Deputy Secretary of Defense without intervening authority.
+&emsp;&emsp;"(B) the Under Secretary of Defense for Acquisition and Sustainment;
 
-&emsp;&emsp;"(B)
+&emsp;&emsp;"(C) one or more officials in each military department;
 
-Continuation.—The Director of the Joint Artificial Intelligence Center shall continue to report to the Deputy Secretary of Defense as described in subparagraph (A) after the expiration of the covered period if, not later than 30 days before such period expires, the Deputy Secretary—
+&emsp;&emsp;"(D) officials of appropriate Defense Agencies; and
 
-&emsp;&emsp;&emsp;"(i) determines that the Director should continue to report to Deputy Secretary without intervening authority; and
-
-&emsp;&emsp;&emsp;"(ii) transmits notice of such determination to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\].
-
-&emsp;&emsp;"(C)
-
-Covered period defined.—In this paragraph, the term 'covered period' means the period of two years beginning on the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 \[Pub. L. 116–283; approved Jan. 1, 2021\].
+&emsp;&emsp;"(E) such other officials as the Secretary of Defense determines appropriate.
 
 "(d)
 
@@ -276,7 +250,7 @@ Acceleration of acquisition, development and fielding of artificial intelligence
 
 Governance and oversight of artificial intelligence and machine learning policy.—Regularly convening appropriate officials across the Department—
 
-&emsp;&emsp;"(A) to integrate the functional activities of the organizations and elements of the Department with respect to artificial intelligence and machine learning;
+&emsp;&emsp;"(A) to integrate the functional activities of the organizations and elements of the Department withrespect to artificial intelligence and machine learning;
 
 &emsp;&emsp;"(B) to ensure there are efficient and effective artificial intelligence and machine learning capabilities throughout the Department; and
 
@@ -284,7 +258,7 @@ Governance and oversight of artificial intelligence and machine learning policy.
 
 "(e)
 
-Access to Information.—Not later than 180 days after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 \[Jan. 1, 2021\], the Secretary of Defense shall issue regulations to ensure that the official designated under subsection (b) has access to such information on programs and activities of the military departments and other Defense Agencies as the Secretary considers appropriate to carry out the duties set forth in subsection (d). At a minimum, such access shall ensure that the Director of the Joint Artificial Intelligence Center has the ability to discover, access, share, and appropriately reuse data and models of the Armed Forces and other organizations and elements of the Department of Defense, build and maintain artificial intelligence capabilities for the Department, and execute the duties assigned to the Director by the Secretary.
+Access to Information.—Not later than 180 days after the date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 \[Pub. L. 116–283; approved Jan. 1, 2021\], the Secretary of Defense shall issue regulations to ensure that the official designated under subsection (b) has access to such information on programs and activities of the military departments and other Defense Agencies as the Secretary considers appropriate to carry out the duties set forth in subsection (d). At a minimum, such access shall ensure that the official designated under subsection (b) has the ability to discover, access, share, and appropriately reuse data and models of the Armed Forces and other organizations and elements of the Department of Defense, build and maintain artificial intelligence capabilities for the Department, and execute the duties assigned to the Director by the Secretary.
 
 "(f)
 
@@ -302,11 +276,9 @@ Artificial Intelligence Defined.—In this section, the term 'artificial intelli
 
 &emsp;"(4) A set of techniques, including machine learning, that is designed to approximate a cognitive task.
 
-&emsp;"(5) An artificial system designed to act rationally, including an intelligent software agent or embodied robot that achieves goals using perception, planning, reasoning, learning, communicating, decision making, and acting.
+&emsp;"(5) An artificial system designed to act rationally, including an intelligent software agent or embodied robot that achieves goals using perception, planning, reasoning, learning, communicating, decision making, and acting."
 
-"(h)
-
-Joint Artificial Intelligence Center Defined.—In this section, term 'Joint Artificial Intelligence Center' means the Joint Artificial Intelligence Center of the Department of Defense established pursuant to the memorandum of the Secretary of Defense dated June 27, 2018, and titled 'Establishment of the Joint Artificial Intelligence Center', or any successor to such Center."
+\[Pub. L. 117–263, div. A, title II, §212(m), Dec. 23, 2022, 136 Stat. 2471, provided that: "Any reference in any law, regulation, guidance, instruction, or other document of the Federal Government to the Director of the Joint Artificial Intelligence Center of the Department of Defense or to the Joint Artificial Intelligence Center shall be deemed to refer to the official designated under section 238(b) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. note prec. 4061) \[set out above\] or the office of such official, as the case may be."\]
 
 #### Support for National Security Innovation and Entrepreneurial Education
 
@@ -396,7 +368,7 @@ Coordination.—In carrying out this section, the Secretary shall consider coord
 
 #### Hypersonics Development
 
-Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, as amended by Pub. L. 112–81, div. A, title II, §241, Dec. 31, 2011, 125 Stat. 1343; Pub. L. 114–92, div. A, title X, §1079(f), Nov. 25, 2015, 129 Stat. 999; Pub. L. 115–91, div. A, title II, §214(b), Dec. 12, 2017, 131 Stat. 1325; Pub. L. 116–92, div. A, title II, §216, Dec. 20, 2019, 133 Stat. 1257; Pub. L. 116–283, div. A, title II, §217(e), Jan. 1, 2021, 134 Stat. 3462, provided that:
+Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, as amended by Pub. L. 112–81, div. A, title II, §241, Dec. 31, 2011, 125 Stat. 1343; Pub. L. 114–92, div. A,title X, §1079(f), Nov. 25, 2015, 129 Stat. 999; Pub. L. 115–91, div. A, title II, §214(b), Dec. 12, 2017, 131 Stat. 1325; Pub. L. 116–92, div. A, title II, §216, Dec. 20, 2019, 133 Stat. 1257; Pub. L. 116–283, div. A, title II, §217(e), Jan. 1, 2021, 134 Stat. 3462, provided that:
 
 "(a)
 
@@ -482,7 +454,7 @@ Department of Defense Facilities Authority.—(1) If the Secretary determines th
 
 "(B) The facility project may be carried out only after the end of the 21-day period beginning on the date the notification is received by the congressional defense committees.
 
-"(4) If the Secretary determines: (A) that the facility is vital to national security or to the protection of health, safety, or the quality of the environment; and (B) the requirement for the facility is so urgent that the advance notification in paragraph (3) and the subsequent 21-day deferral of the facility project would threaten the life, health, or safety of personnel, or would otherwise jeopardize national security, the Secretary may obligate funds for the facility and notify the congressional defense committees within seven days after the date on which appropriated funds are obligated with the information required in paragraph (3).
+"(4) If the Secretary determines: (A) that the facility is vital to national security or to the protection of health, safety, or the quality of the environment; and (B) the requirement for the facility is so urgent that the advance notification in paragraph (3) and the subsequent 21-day deferral of the facility project would threaten the life, health, or safety of personnel, orwould otherwise jeopardize national security, the Secretary may obligate funds for the facility and notify the congressional defense committees within seven days after the date on which appropriated funds are obligated with the information required in paragraph (3).
 
 "(5) Nothing in this section shall be construed to authorize the Secretary to acquire, construct, lease, or improve a facility having general utility beyond the specific purposes of the program.
 
@@ -500,7 +472,7 @@ Authority for Personal Services Contracts.—(1) Subject to paragraph (2), the a
 
 "(f)
 
-Streamlined Personnel Authority.—(1) The Secretary may appoint highly qualified experts, including scientific and technical personnel, to carry out research and development under this section in accordance with the authorities provided in section 4121(a) of title 10, United States Code, \[former\] section 1101 of the Strom Thurmond National Defense Authorization Actfor Fiscal Year 1999 (Public Law 105–261 \[5 U.S.C. 3104 note\]), and section 1101 of this Act \[enacting chapter 99 of Title 5, Government Organization and Employees, and provisions set out as a note under section 9901 of Title 5\].
+Streamlined Personnel Authority.—(1) The Secretary may appoint highly qualified experts, including scientific and technical personnel, to carry out research and development under this section in accordance with the authorities provided in section 4121(a) of title 10, United States Code, \[former\] section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261 \[5 U.S.C. 3104 note\]), and section 1101 of this Act \[enacting chapter 99 of Title 5, Government Organization and Employees, and provisions set out as a note under section 9901 of Title 5\].
 
 "(2) The Secretary may use the authority under paragraph (1) only upon a determination by the Secretary that use of such authority is necessary to accelerate the research and development under the program.
 

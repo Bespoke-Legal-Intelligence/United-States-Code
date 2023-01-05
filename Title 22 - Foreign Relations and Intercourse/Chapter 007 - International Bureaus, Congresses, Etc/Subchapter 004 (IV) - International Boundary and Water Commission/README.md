@@ -64,3 +64,4 @@
 - [&sect; 00277g&#8211;3 - Authorization of appropriations](%C2%A7%2000277g%E2%80%933%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00277h - Authority of the International Boundary and Water Commission to assist State and local governments](%C2%A7%2000277h%20-%20Authority%20of%20the%20International%20Boundary%20and%20Water%20Commission%20to%20assist%20State%20and%20local%20governments.md)
 - [&sect; 00277i - Report on water sharing](%C2%A7%2000277i%20-%20Report%20on%20water%20sharing.md)
+- [&sect; 00277j - Management of international transboundary water pollution](%C2%A7%2000277j%20-%20Management%20of%20international%20transboundary%20water%20pollution.md)

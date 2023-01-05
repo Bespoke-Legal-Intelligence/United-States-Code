@@ -192,11 +192,11 @@ If a manufacturer includes in any advertisement a statement respecting the cost 
 
 #### (f) Inspection after sale to ultimate purchaser
 
-Any inspection of a motor vehicle or a motor vehicle engine for purposes of subsection (c)(1),after its sale to the ultimate purchaser, shall be made only if the owner of such vehicle or engine voluntarily permits such inspection to be made, except as may be provided by any State or local inspection program.
+Any inspection of a motor vehicle or a motor vehicle engine for purposes of subsection (c)(1), after its sale to the ultimate purchaser, shall be made only if the owner of such vehicle or engine voluntarily permits such inspection to be made, except as may be provided by any State or local inspection program.
 
 #### (g) Replacement and maintenance costs borne by owner
 
-For the purposes of this section, the owner of any motor vehicle or motor vehicle engine warranted under this section is responsible in the proper maintenance of such vehicle or engine to replace and to maintain, at his expense at any service establishment or facility of his choosing, such items as spark plugs, points, condensers, and any other part, item, or device related to emission control (but not designed for emission control under the terms of the last sentence of subsection (a)(3))),<sup>3</sup> unless such part, item, or device is covered by any warranty not mandated by this chapter.
+For the purposes of this section, the owner of any motor vehicle or motor vehicle engine warranted under this section is responsible in the proper maintenance of such vehicle or engine to replace and to maintain, at his expense at anyservice establishment or facility of his choosing, such items as spark plugs, points, condensers, and any other part, item, or device related to emission control (but not designed for emission control under the terms of the last sentence of subsection (a)(3))),<sup>3</sup> unless such part, item, or device is covered by any warranty not mandated by this chapter.
 
 #### (h) Dealer certification
 
@@ -242,7 +242,7 @@ A prior section 207 of act July 14, 1955, was renumbered section 208 by Pub. L. 
 
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §209(4), inserted at end "In the case of vehicles and engines manufactured in the model year 1995 and thereafter such warranty shall require that the vehicle or engine is free from any such defects for the warranty period provided under subsection (i)."
 
-Subsec. (b). Pub. L. 101–549, §209(1), (2), substituted "the warranty period (as determined under subsection\(i))" for "useful life (as determined under section 7521(d) of this title)" in introductory provisions and par. (2)(B), and struck out closing provisions which read as follows: "For purposes of the warranty under this subsection, for the period after twenty-four months or twenty-four thousand miles (whichever first occurs) the term 'emission control device or system' means a catalytic converter, thermal reactor, or other component installed on or in a vehicle for the sole or primary purpose of reducing vehicle emissions. Such term shall not include those vehicle components which were in general use prior to model year 1968."
+Subsec. (b). Pub. L. 101–549, §209(1), (2), substituted "the warranty period (as determined under subsection (i))" for "useful life (as determined under section 7521(d) of this title)" in introductory provisions and par. (2)(B), and struck out closing provisions which read as follows: "For purposes of the warranty under this subsection, for the period after twenty-four months or twenty-four thousand miles (whichever first occurs) the term 'emission control device or system' means a catalytic converter, thermal reactor, or other component installed on or in a vehicle for the sole or primary purpose of reducing vehicle emissions. Such term shall not include those vehicle components which were in general use prior to model year 1968."
 
 Subsec. (c)(4) to (6). Pub. L. 101–549, §210, added pars. (4) to (6).
 

@@ -94,7 +94,7 @@ It is the sense of Congress that, in order to ensure that at-risk youth, and you
 
 #### (A) In general
 
-&emsp;&emsp;In order to ensure the effective and appropriate use of grants administered under this chapter (excluding subchapter IV) and to prevent waste, fraud, and abuse of funds by grantees, the Inspector General of the Department of Justice shall annually conduct audits of grantees that receive funds under this chapter.
+&emsp;&emsp;In order to ensure the effective and appropriate use of grants administered under this chapter (excluding subchapter IV) and toprevent waste, fraud, and abuse of funds by grantees, the Inspector General of the Department of Justice shall annually conduct audits of grantees that receive funds under this chapter.
 
 #### (B) Assessment
 

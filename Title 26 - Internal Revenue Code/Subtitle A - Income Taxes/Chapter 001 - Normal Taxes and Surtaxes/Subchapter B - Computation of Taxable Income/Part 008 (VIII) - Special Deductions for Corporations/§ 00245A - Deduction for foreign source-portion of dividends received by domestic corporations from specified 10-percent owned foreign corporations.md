@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### (2) Hybrid dividends of tiered corporations
 
-&emsp;If a controlled foreign corporation with respect to which a domestic corporation is a United States shareholder receives a hybrid dividend from any other controlled foreign corporation with respect to which such domestic corporation is also a United States shareholder, then, notwithstanding any other provision of this title—
+&emsp;If a controlled foreign corporation with respect to which a domestic corporation is aUnited States shareholder receives a hybrid dividend from any other controlled foreign corporation with respect to which such domestic corporation is also a United States shareholder, then, notwithstanding any other provision of this title—
 
 &emsp;&emsp;(A) the hybrid dividend shall be treated for purposes of section 951(a)(1)(A) as subpart F income of the receiving controlled foreign corporation for the taxable year of the controlled foreign corporation in which the dividend was received, and
 

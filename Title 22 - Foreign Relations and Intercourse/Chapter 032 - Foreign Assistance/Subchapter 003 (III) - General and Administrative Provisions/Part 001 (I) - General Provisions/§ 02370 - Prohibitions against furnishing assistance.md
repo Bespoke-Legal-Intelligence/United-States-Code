@@ -10,7 +10,7 @@
 
 #### (c) Indebtedness of foreign country to United States citizen or person
 
-No assistance shall be provided under this chapter to the government of any country whichis indebted to any United States citizen or person for goods or services furnished or ordered where (i) such citizen or person has exhausted available legal remedies, which shall include arbitration, or (ii) the debt is not denied or contested by such government, or (iii) such indebtedness arises under an unconditional guaranty of payment given by such government, or any predecessor government, directly or indirectly, through any controlled entity: <i>Provided</i>, That the President does not find such action contrary to the national security.
+No assistance shall be provided under this chapter to the government of any country which is indebted to any United States citizen or person for goods or services furnished or ordered where (i) such citizen or person has exhausted available legal remedies, which shall include arbitration, or (ii) the debt is not denied or contested by such government, or (iii) such indebtedness arises under an unconditional guaranty of payment given by such government, or any predecessor government, directly or indirectly, through any controlled entity: <i>Provided</i>, That the President does not find such action contrary to the national security.
 
 #### (d) Productive enterprises competing with United States enterprise; conditions on assistance; import controls; waiver of restriction by President
 
@@ -26,7 +26,7 @@ No assistance shall be furnished on a loan basis under part I of subchapter I of
 
 &emsp;(C) has imposed or enforced discriminatory taxes or other exactions, or restrictive maintenance or operational conditions, or has taken other actions, which have the effect of nationalizing, expropriating, or otherwise seizing ownership or control of property so owned,
 
-> and such country, government agency, or government subdivision fails within a reasonable time (not more than six months after such action, or, in the event of a referral to the Foreign Claims Settlement Commission of the United States within such period as provided herein, not more than twenty days after the report of the Commission is received) to take appropriate steps, which may include arbitration, to discharge its obligations under international law toward such citizen or entity, including speedy compensation for such property in convertible foreign exchange, equivalent to the full value thereof, as required by international law, or fails to take steps designed to provide relief from such taxes, exactions, or conditions, as the case may be; and such suspension shall continue until the President is satisfied that appropriate steps are being taken, and provisions of this subsection shall not be waived with respect to any country unless the President determines and certifies that such a waiver is important to the national interests of the United States. Such certification shall be reported immediately to Congress.
+> and such country, government agency, or government subdivision fails within a reasonable time (not more than six months after such action, or, in the event of a referral to the Foreign Claims Settlement Commission of the United States within such period as provided herein, not more than twenty days after the report of the Commission is received) to take appropriatesteps, which may include arbitration, to discharge its obligations under international law toward such citizen or entity, including speedy compensation for such property in convertible foreign exchange, equivalent to the full value thereof, as required by international law, or fails to take steps designed to provide relief from such taxes, exactions, or conditions, as the case may be; and such suspension shall continue until the President is satisfied that appropriate steps are being taken, and provisions of this subsection shall not be waived with respect to any country unless the President determines and certifies that such a waiver is important to the national interests of the United States. Such certification shall be reported immediately to Congress.
 
 Upon request of the President (within seventy days after such action referred to in subparagraphs (A), (B), or (C) of this paragraph, the Foreign Claims Settlement Commission of the United States (established pursuant to Reorganization Plan No. 1 of 1954, 68 Stat. 1279) is hereby authorized to evaluate expropriated property, determining the full value of any property nationalized, expropriated, or seized, or subjected to discriminatory or other actions as aforesaid, for purposes of this subsection and to render an advisory report to the President within ninety days after such request. Unless authorized by the President, the Commission shall not publish its advisory report except to the citizen or entity owning such property. There is hereby authorized to be appropriated such amount, to remain available until expended, as may be necessary from time to time to enable the Commission to carry out expeditiously its functions under this subsection.
 
@@ -138,7 +138,7 @@ In any decision to provide or continue to provide any program of assistance to a
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (c), (e), (f)(1), (g), (j) to (l), (o), (q) to (t), (u), and (y), was in the original "this Act", except in subsec. (u), where it was "the Foreign Assistance Act of 1961", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a), (c), (e), (f)(1), (g), (j) to (l), (o), (q) to (t), (u), and (y), was in the original "this Act", except in subsec. (u), where it was "the Foreign Assistance Act of 1961", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 Reorganization Plan No. 1 of 1954, 68 Stat. 1279, referred to in subsec. (e)(1), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -216,7 +216,7 @@ Subsec. (x)(1). Pub. L. 94–329, §403, further modified existing restrictions 
 
 Subsec. (p). Pub. L. 93–559, §44, repealed subsec. (p) relating to assistance to United Arab Republic if essential to national interest of United States, and without any aid to aggressive actions by the United Arab Republic, and reports to Congressional committees.
 
-Subsec. (v). Pub. L. 93–559, §24, repealed subsec. (v) relating to prohibition against assistance to Greece,waiver of the restriction by the President, report to Congress, and fiscal year limitation of assistance made available to Greece.
+Subsec. (v). Pub. L. 93–559, §24, repealed subsec. (v) relating to prohibition against assistance to Greece, waiver of the restriction by the President, report to Congress, and fiscal year limitation of assistance made available to Greece.
 
 Subsec. (x). Pub. L. 93–559, §22, added subsec. (x).
 
@@ -328,7 +328,7 @@ Pub. L. 97–113, title VII, §726(b), (c), Dec. 29, 1981, 95 Stat. 1554, as ame
 
 &emsp;"(B) that the provision of such assistance, articles or services is in the national interest of the United States; and
 
-&emsp;"(C) that the Government of Chile is not aiding or abetting international terrorism and has taken appropriate steps to cooperate to bring to justice by all legal means available in the United States or Chile those indicted by a United States grand jury in connection with the murders of Orlando Letelier and Ronni Moffitt.
+&emsp;"(C) that the Government of Chile is not aiding or abetting international terrorism and has taken appropriate steps to cooperate to bring to justice by all legal means available in the United States or Chilethose indicted by a United States grand jury in connection with the murders of Orlando Letelier and Ronni Moffitt.
 
 "(c) The prohibition contained in subsection (b) does not prohibit the sale, or the licensing for export, of cartridge actuated devices, propellant actuated devices, components, parts, tools, technical manuals, time compliance to technical orders (TCTOs), or TCTO retrofits for aircraft of the F–5E/F, A/T–37, or C–130E/H type owned by the Chilean Air Force, so long as the items are provided only for purposes of enhancing the safety of the aircraft crew."
 
@@ -366,7 +366,7 @@ Prohibition.—Subject to paragraph (2), no United States military assistance ma
 
 &emsp;&emsp;"(iii) has been accepted, within 15 days from its announcement, by the FMLN and is being complied with by the FMLN;
 
-&emsp;"(D) the Government of El Salvador has failed to conduct a thorough and professional investigation into, and prosecution of those responsible for theeight murders at the University of Central America on November 16, 1989; or
+&emsp;"(D) the Government of El Salvador has failed to conduct a thorough and professional investigation into, and prosecution of those responsible for the eight murders at the University of Central America on November 16, 1989; or
 
 &emsp;"(E) the military and security forces of El Salvador are assassinating or abducting civilian noncombatants, are engaging in other acts of violence directed at civilian targets, or are failing to control such activities by elements subject to the control of those forces; or
 
@@ -496,7 +496,7 @@ Pub. L. 95–426, title VI, §613, Oct. 7, 1978, 92 Stat. 990, as amended by Pub
 
 #### Resumption of Military Assistance to Turkey; Determination and Certification to Congress by President of Military Cooperation as in Best Interests of United States and NATO
 
-Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737, provided that: "Section 620(x) of the Foreign Assistance Act of 1961 \[subsec. (x) of this section\] shall be of no further force and effect upon the President's determination and certification to the Congress that the resumption of full military cooperation with Turkey is in the national interest of the United States and in the interest of the North Atlantic Treaty Organization and that the Government of Turkey is acting in good faith to achieve a just and peaceful settlement of the Cyprus problem, the early peaceable return of refugees to their homes and properties, and continued removal of Turkish military troops from Cyprus in the context of a solution to the Cyprus problem, and the early serious resumption of inter-communal talks aimed at a just, negotiated settlement."
+Pub. L. 95–384, §13(a), Sept. 26, 1978, 92 Stat. 737, provided that: "Section 620(x) of the Foreign Assistance Act of 1961 \[subsec. (x) of this section\] shall be of no further force and effect upon the President's determination and certification to the Congress that the resumption of full military cooperation with Turkey is inthe national interest of the United States and in the interest of the North Atlantic Treaty Organization and that the Government of Turkey is acting in good faith to achieve a just and peaceful settlement of the Cyprus problem, the early peaceable return of refugees to their homes and properties, and continued removal of Turkish military troops from Cyprus in the context of a solution to the Cyprus problem, and the early serious resumption of inter-communal talks aimed at a just, negotiated settlement."
 
 #### Determination and Certification Regarding Resumption of Full Military Cooperation With Turkey
 

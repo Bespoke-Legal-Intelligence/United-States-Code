@@ -78,7 +78,7 @@ The Secretary may waive such provisions of this subchapter as necessary to carry
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall publish, by July 1, 1991, a regulation (that shall be effective onan interim basis pending the promulgation of final regulations), and by October 1, 1992, a final regulation, that sets forth interim and final requirements, respectively, consistent with subparagraph (B), to protect the health, safety, and welfare of individuals receiving community supported living arrangements services.
+&emsp;&emsp;The Secretary shall publish, by July 1, 1991, a regulation (that shall be effective on an interim basis pending the promulgation of final regulations), and by October 1, 1992, a final regulation, that sets forth interim and final requirements, respectively, consistent with subparagraph (B), to protect the health, safety, and welfare of individuals receiving community supported living arrangements services.
 
 #### (B) Minimum protections
 

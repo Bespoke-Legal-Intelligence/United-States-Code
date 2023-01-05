@@ -72,11 +72,11 @@ Subsec. (f)(4). Pub. L. 108–136, §921(d)(3)(A), substituted "National Geospat
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–201, §1112(c)(1)(A), substituted "Review of National Security Agency and National Imagery and Mapping Agency" for "Review of National Security Agency" in heading.
 
-Subsec. (d)(1). Pub. L. 104–201, §1112(c)(1)(B), inserted "and the National Imagery and Mapping Agency" after "the National Security Agency" and substituted "that the agencies" for "the Agency".
+Subsec. (d)(1). Pub. L. 104–201, §1112(c)(1)(B), inserted "and the National Imagery and Mapping Agency" after"the National Security Agency" and substituted "that the agencies" for "the Agency".
 
 Subsec. (d)(2). Pub. L. 104–201, §1112(c)(1)(C), inserted "and the National Imagery and Mapping Agency" after "the National Security Agency".
 
-Subsec. (e). Pub. L. 104–201, §1112(c)(2), substituted "DIA, NSA, and NIMA" for "DIA and NSA" in headingand ", the National Security Agency, and the National Imagery and Mapping Agency" for "and the National Security Agency" in text.
+Subsec. (e). Pub. L. 104–201, §1112(c)(2), substituted "DIA, NSA, and NIMA" for "DIA and NSA" in heading and ", the National Security Agency, and the National Imagery and Mapping Agency" for "and the National Security Agency" in text.
 
 Subsec. (f)(4). Pub. L. 104–201, §1112(c)(3), substituted "The National Imagery and Mapping Agency" for "Defense Mapping Agency".
 

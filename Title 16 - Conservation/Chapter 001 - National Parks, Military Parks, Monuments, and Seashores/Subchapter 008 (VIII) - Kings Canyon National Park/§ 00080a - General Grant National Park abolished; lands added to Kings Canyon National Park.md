@@ -16,5 +16,5 @@ Sec. 2. Nothing in this Act shall be deemed to change the name of the General Gr
 
 #### Adjustment of Boundaries and Rights
 
-Act June 5, 1942, ch. 333, §§1, 2, 56 Stat. 310, authorized the Secretary of the Interior to adjust the boundaries of privately owned lands in the General Grant grove section of Kings Canyon National Park in accordance with a survey made by the county surveyor of Tulare County, California; to amend existing patents or relinquish or grant parcels of land therein according to said survey; and to pay from departmental appropriations expenses of surveys and investigations necessary to carry out provisions of this act.
+Act June 5, 1942, ch. 333, §§1, 2, 56 Stat. 310, authorized the Secretary of the Interior to adjust the boundaries of privately owned lands in the General Grant grove section of Kings Canyon National Park in accordance with a survey made by the county surveyor of Tulare County, California; to amend existing patents or relinquish or grant parcels of land therein according to said survey; and to pay from departmental appropriationsexpenses of surveys and investigations necessary to carry out provisions of this act.
 

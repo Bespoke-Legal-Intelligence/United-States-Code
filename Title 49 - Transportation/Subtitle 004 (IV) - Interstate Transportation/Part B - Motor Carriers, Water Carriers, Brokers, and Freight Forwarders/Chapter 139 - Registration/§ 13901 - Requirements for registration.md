@@ -26,7 +26,7 @@ Specification of Authority.—For each agreement to provide transportation or se
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows: "A person may provide transportation or service subject to jurisdiction under subchapter I or III of chapter 135 or be a broker for transportation subject to jurisdiction under subchapter I of that chapter, only if the person is registered under this chapter to provide the transportation or service."
+<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows: "A person mayprovide transportation or service subject to jurisdiction under subchapter I or III of chapter 135 or be a broker for transportation subject to jurisdiction under subchapter I of that chapter, only if the person is registered under this chapter to provide the transportation or service."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

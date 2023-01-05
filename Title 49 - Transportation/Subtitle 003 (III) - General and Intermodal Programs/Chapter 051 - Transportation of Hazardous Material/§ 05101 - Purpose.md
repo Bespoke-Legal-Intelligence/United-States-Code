@@ -1,6 +1,6 @@
 ### §5101. Purpose
 
-The purpose of this chapter is to protect against the risks to life, property, and the environment that are inherent in the transportationof hazardous material in intrastate, interstate, and foreign commerce.
+The purpose of this chapter is to protect against the risks to life, property, and the environment that are inherent in the transportation of hazardous material in intrastate, interstate, and foreign commerce.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 759; Pub. L. 109–59, title VII, §7101(b), Aug. 10, 2005, 119 Stat. 1891.)
 
@@ -54,7 +54,7 @@ Pub. L. 105–178, title III, §3001, June 9, 1998, 112 Stat. 338, provided that
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–291, title II, §201, Oct. 11, 1996, 110 Stat. 3453, provided that: "This title \[enacting section 5908 of this title and amending sections 5901 to 5903 and 5905 to 5907 of this title\] may be cited as the 'Intermodal Safe Container Transportation Amendments Act of 1996'."
+Pub. L. 104–291, title II, §201, Oct. 11, 1996, 110 Stat. 3453, provided that: "This title \[enacting section 5908 of this title and amending sections 5901 to 5903 and 5905 to5907 of this title\] may be cited as the 'Intermodal Safe Container Transportation Amendments Act of 1996'."
 
 #### Short Title of 1994 Amendment
 
@@ -92,7 +92,7 @@ Sense of Congress; Requirement Regarding Notice.—
 
 &emsp;"(1) In the case of any equipment or products that may be authorized to be purchased with financial assistance provided under this title, it is the sense of Congress that entities receiving such assistance should, in expending such assistance, purchase only American-made equipment and products.
 
-&emsp;"(2) In providing financial assistance under this title, the Secretary of Transportation shall provideto each recipient of the assistance a notice describing the statement made in paragraph (1) by Congress.
+&emsp;"(2) In providing financial assistance under this title, the Secretary of Transportation shall provide to each recipient of the assistance a notice describing the statement made in paragraph (1) by Congress.
 
 "(c)
 

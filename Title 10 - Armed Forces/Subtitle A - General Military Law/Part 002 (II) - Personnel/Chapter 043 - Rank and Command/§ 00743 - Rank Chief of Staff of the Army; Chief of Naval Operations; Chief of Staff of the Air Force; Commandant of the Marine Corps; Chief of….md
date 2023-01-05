@@ -42,7 +42,7 @@ Pub. L. 100–180, §1314(a)(2), made technical correction in directory language
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–180, div. A, title XIII, §1314(e)(1), Dec. 4, 1987, 101 Stat. 1176, provided that: "The amendments made by subsection (a) \[amending this section, sections 2431 to 2434 of this title, and provisions set out as notes under sections 111 and 3033 of this title\] shall apply as if included in the enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 (Public Law 99–433)."
+Pub. L. 100–180, div. A, title XIII, §1314(e)(1), Dec. 4, 1987, 101 Stat. 1176, provided that: "The amendmentsmade by subsection (a) \[amending this section, sections 2431 to 2434 of this title, and provisions set out as notes under sections 111 and 3033 of this title\] shall apply as if included in the enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 (Public Law 99–433)."
 
 #### Effective Date of 1980 Amendment
 

@@ -36,7 +36,7 @@ A Federal agency may use the Foundation and the National Center to provide asses
 
 #### (A) In general
 
-&emsp;&emsp;In a matter that involves two or more agencies or instrumentalities of the Federal Government (including branches or divisions of a single agency or instrumentality), the agencies or instrumentalities of the Federal Government shall obtain the concurrence of the chairperson of the President's Council on Environmental Quality before using the Foundation or National Center to provide the services described in subsection (a).
+&emsp;&emsp;In a matter that involves two or more agencies or instrumentalities of the FederalGovernment (including branches or divisions of a single agency or instrumentality), the agencies or instrumentalities of the Federal Government shall obtain the concurrence of the chairperson of the President's Council on Environmental Quality before using the Foundation or National Center to provide the services described in subsection (a).
 
 #### (B) Indication of concurrence or nonconcurrence
 
@@ -74,15 +74,11 @@ Payment into the environmental dispute resolution fund.—Entities utilizing ser
 
 #### (f) Agency management or control
 
-Use of the Foundation or National Center to provide independent and impartial assessment, mediation, or other dispute or conflict resolution under this section shall not be considered to be the establishment or use of an advisory committee within the meaning of the Federal Advisory Committee Act (5 U.S.C. App.).
+Use of the Foundation or National Center to provide independent and impartial assessment, mediation, or other dispute or conflict resolution under this section shall not be considered to be the establishment or use of an advisory committee within the meaning of chapter 10 of title 5.
 
-(Pub. L. 102–259, §11, as added Pub. L. 105–156, §7, Feb. 11, 1998, 112 Stat. 10; amended Pub. L. 105–277, div. A, §101(h) \[title V, §517(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512; Pub. L. 111–90, §9, Nov. 3, 2009, 123 Stat. 2978; Pub. L. 116–94, div. P, title III, §307, Dec. 20, 2019, 133 Stat. 3190.)
+(Pub. L. 102–259, §11, as added Pub. L. 105–156, §7, Feb. 11, 1998, 112 Stat. 10; amended Pub. L. 105–277, div. A, §101(h) \[title V, §517(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512; Pub. L. 111–90, §9, Nov. 3, 2009, 123 Stat. 2978; Pub. L. 116–94, div. P, title III, §307, Dec. 20, 2019, 133 Stat. 3190; Pub. L. 117–286, §4(a)(151), Dec. 27, 2022, 136 Stat. 4322.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
@@ -90,9 +86,11 @@ A prior section 11 of Pub. L. 102–259 was renumbered section 13 and is classif
 
 #### Amendments
 
+<b>2022</b>—Subsec. (f). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App.)."
+
 <b>2019</b>—Pub. L. 116–94, §307(1), substituted "the National Center" for "the Institute" in section catchline.
 
-Subsec. (a). Pub. L. 116–94, §307(2), substituted "National Center" for "Institute" and "resources, or witha Federal, State, or tribal process or procedure that may result in a dispute or conflict." for "resources." and inserted "collaboration," after "mediation,".
+Subsec. (a). Pub. L. 116–94, §307(2), substituted "National Center" for "Institute" and "resources, or with a Federal, State, or tribal process or procedure that may result in a dispute or conflict." for "resources." and inserted "collaboration," after "mediation,".
 
 Subsec. (b)(1). Pub. L. 116–94, §307(3), substituted "National Center" for "Institute".
 

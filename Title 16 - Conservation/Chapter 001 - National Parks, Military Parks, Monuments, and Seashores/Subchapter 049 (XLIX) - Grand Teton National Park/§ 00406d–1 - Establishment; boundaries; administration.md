@@ -136,7 +136,7 @@ Pub. L. 108–32, June 17, 2003, 117 Stat. 779, provided that:
 
 #### "SEC. 3. ACQUISITION OF STATE LANDS.
 
-"(a) The Secretary is authorized to acquire approximately 1,406 acres of State lands within the exteriorboundaries of Grand Teton National Park, as generally depicted on the map referenced in section 2(4), by any one or a combination of the following—
+"(a) The Secretary is authorized to acquire approximately 1,406 acres of State lands within the exterior boundaries of Grand Teton National Park, as generally depicted on the map referenced in section 2(4), by any one or a combination of the following—
 
 &emsp;"(1) donation;
 

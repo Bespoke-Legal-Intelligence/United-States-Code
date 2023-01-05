@@ -6,7 +6,7 @@
 
 #### (A) Duty to notify
 
-&emsp;&emsp;If a credit union has been convicted of any criminal offense under section 1956 or 1957 of title 18, the Attorney General shall provide to the Board a written notification of the conviction and shall include a certified copy of the order of conviction from the court rendering the decision.
+&emsp;&emsp;If a credit union has been convicted of any criminal offense under section 1956 or 1957 of title 18, the Attorney General shall provide to the Board a written notification of the conviction and shall include a certified copyof the order of conviction from the court rendering the decision.
 
 #### (B) Notice of termination; pretermination hearing
 

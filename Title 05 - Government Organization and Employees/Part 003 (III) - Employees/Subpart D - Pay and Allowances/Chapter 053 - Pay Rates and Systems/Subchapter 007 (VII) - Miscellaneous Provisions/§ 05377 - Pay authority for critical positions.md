@@ -6,7 +6,7 @@
 
 &emsp;(2) the term "position" means—
 
-&emsp;&emsp;(A) a position to which chapter 51 applies, including a position in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;
+&emsp;&emsp;(A) a position to which chapter 51 applies, including a position in the Senior ExecutiveService or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service;
 
 &emsp;&emsp;(B) a position under the Executive Schedule under sections 5312–5317;
 

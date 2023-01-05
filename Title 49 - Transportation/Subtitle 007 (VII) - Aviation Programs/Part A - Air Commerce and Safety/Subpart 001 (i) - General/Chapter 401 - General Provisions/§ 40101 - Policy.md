@@ -250,6 +250,10 @@ Subsec. (d)(4) to (7). Pub. L. 104–264, §401(a)(1)(A), redesignated pars. (3)
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Change of Name
+
+Pub. L. 117–328, div. Q, §102(c), Dec. 29, 2022, 136 Stat. 5250, provided that: "On and after the date of enactment of this section \[Dec. 29, 2022\], any reference in a law, regulation, document, paper, or other record of the United States to the 'National Air Grant Fellowship Program' shall be deemed to be a reference to the 'Samya Rose Stumo National Air Grant Fellowship Program'."
+
 #### Effective Date of 2012 Amendment
 
 Pub. L. 112–95, §3, Feb. 14, 2012, 126 Stat. 15, provided that: "Except as otherwise expressly provided, this Act \[see Tables for classification\] and the amendments made by this Act shall take effect on the date of enactment of this Act \[Feb. 14, 2012\]."
@@ -262,9 +266,19 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–328, div. Q, §102(a), Dec. 29, 2022, 136 Stat. 5250, provided that: "This section \[enacting and amending provisions set out as notes under this section\] may be cited as the 'Samya Rose Stumo National Air Grant Fellowship Program Act of 2022'."
+
+Pub. L. 117–254, §1, Dec. 20, 2022, 136 Stat. 2361, provided that: "This Act \[amending section 47109 of this title and enacting provisions set out as notes under section 47109 of this title\] may be cited as the 'Preventing PFAS Runoff at Airports Act'."
+
+Pub. L. 117–203, §1, Oct. 17, 2022, 136 Stat. 2227, provided that: "This Act \[enacting provisions set out as a note below\] may be cited as the 'Advanced Air Mobility Coordination and Leadership Act'\[.\]"
+
+Pub. L. 117–186, §1, Oct. 10, 2022, 136 Stat. 2199, provided that: "This Act \[amending section 47110 of this title\] may be cited as the 'Expedited Delivery of Airport Infrastructure Act of 2021'."
+
 #### Short Title of 2020 Amendment
 
-Pub. L. 116–260, div. V, title I, §101(a), Dec. 27, 2020, 134 Stat. 2309, provided that: "This title \[see Tables for classification\] may be cited as the 'Aircraft Certification, Safety, and Accountability Act'."
+Pub. L. 116–260, div. V, title I, §101(a), Dec. 27, 2020, 134 Stat. 2309, provided that: "This title \[see Tables forclassification\] may be cited as the 'Aircraft Certification, Safety, and Accountability Act'."
 
 Pub. L. 116–190, §1, Oct. 30, 2020, 134 Stat. 974, provided that: "This Act \[amending section 47107 of this title\] may be cited as the 'Friendly Airports for Mothers Improvement Act'."
 
@@ -292,7 +306,7 @@ Pub. L. 114–190, §1(a), July 15, 2016, 130 Stat. 615, provided that: "This Ac
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–113, div. O, title IV, §401, Dec. 18, 2015, 129 Stat. 3000, provided that: "This title \[enacting section10609 of Title 42, The Public Health and Welfare, amending section 905 of Title 2, The Congress, enacting provisions set out as a note under section 905 of Title 2, and amending provisions set out as notes under this section\] may be cited as the 'James Zadroga 9/11 Victim Compensation Fund Reauthorization Act'."
+Pub. L. 114–113, div. O, title IV, §401, Dec. 18, 2015, 129 Stat. 3000, provided that: "This title \[enacting section 10609 of Title 42, The Public Health and Welfare, amending section 905 of Title 2, The Congress, enacting provisions set out as a note under section 905 of Title 2, and amending provisions set out as notes under this section\] may be cited as the 'James Zadroga 9/11 Victim Compensation Fund Reauthorization Act'."
 
 #### Short Title of 2014 Amendment
 
@@ -386,9 +400,485 @@ Pub. L. 103–305, §1(a), Aug. 23, 1994, 108 Stat. 1569, provided that: "This A
 
 Pub. L. 103–305, title III, §301, Aug. 23, 1994, 108 Stat. 1589, provided that: "This title \[enacting section 47509 of this title, amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and section 49101 of this title\] may be cited as the 'Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1994'."
 
-#### National Air Grant Fellowship Program
+#### Advanced Air Mobility Infrastructure Pilot Program
 
-Pub. L. 116–260, div. V, title I, §131, Dec. 27, 2020, 134 Stat. 2350, provided that:
+Pub. L. 117–328, div. Q, §101, Dec. 29, 2022, 136 Stat. 5246, provided that:
+
+"(a)
+
+Establishment.—Not later than 180 days after the date of enactment of this section \[Dec. 29, 2022\], the Secretary shall establish a pilot program to provide grants that assist an eligible entity to plan for the development and deployment of infrastructure necessary to facilitate AAM operations, locally and regionally, within the United States.
+
+"(b)
+
+Planning Grants.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall provide grants to eligible entities to develop comprehensive plans under paragraph (2) related to AAM infrastructure.
+
+&emsp;"(2)
+
+Comprehensive plan.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 1 year after receiving a grant under this subsection, an eligible entity shall submit to the Secretary a comprehensive plan, including the development of potential public use or private-owned vertiport infrastructure, in a format capable of being published on the website of the Department of Transportation.
+
+&emsp;&emsp;"(B)
+
+Plan contents.—The Secretary shall establish content requirements for comprehensive plans submitted under this subsection, which shall include as many of the following as possible:
+
+&emsp;&emsp;&emsp;"(i) The identification of planned or potential public use and private-owned vertiport locations.
+
+&emsp;&emsp;&emsp;"(ii) A description of infrastructure necessary to support AAM operations.
+
+&emsp;&emsp;&emsp;"(iii) A description of types of planned or potential AAM operations and a forecast for proposed vertiport operations, including estimates for initial operations and future growth.
+
+&emsp;&emsp;&emsp;"(iv) The identification of physical and digital infrastructure required to meet any standards for vertiport design and performance characteristics established by the Federal Aviation Administration (as in effect on the date on which the Secretary issues a grant to an eligible entity), including modifications to existing infrastructure and ground sensors, electric charging or other fueling requirements, electric utility requirements, wireless and cybersecurity requirements, fire safety, perimeter security, and other necessary hardware or software.
+
+&emsp;&emsp;&emsp;"(v) A description of any hazard associated with planned or potential vertiport infrastructure, such as handling of hazardous materials, batteries, or other fuel cells, charging or fueling of aircraft, aircraft rescue and firefighting response, and emergency planning.
+
+&emsp;&emsp;&emsp;"(vi) A description of potential environmental effects of planned or potential construction or siting of vertiports, including efforts to reduce potential aviation noise.
+
+&emsp;&emsp;&emsp;"(vii) A description of how planned or potential vertiport locations, including new or repurposed infrastructure, fit into State and local transportation systems and networks, including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) connectivity to existing public transportation hubs and intermodal and multimodal facilities for AAM operations;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) opportunities to create new service to rural areas and areas underserved by air transportation; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) any potential conflict with existing aviation infrastructure that may arise from the planned or potential location of the vertiport.
+
+&emsp;&emsp;&emsp;"(viii) A description of how vertiport planning will be incorporated in State or metropolitan planning documents.
+
+&emsp;&emsp;&emsp;"(ix) The identification of the process an eligible entity will undertake to ensure an adequate level of engagement with any potentially impacted community for each planned or potential vertiport location and planned or potential AAM operations, such as engagement with communities in rural areas, underserved communities, Tribal communities, individuals with disabilities, or racial and ethnic minorities to address equity of access.
+
+&emsp;&emsp;&emsp;"(x) The identification of State, local, or private sources of funding an eligible entity may use to assist with the construction or operation of a vertiport.
+
+&emsp;&emsp;&emsp;"(xi) The identification of existing Federal aeronautical and airspace requirements that must be met for the eligible entity's planned or potential vertiport location.
+
+&emsp;&emsp;&emsp;"(xii) The identification of the actions necessary for an eligible entity to undertake the construction of a vertiport, such as planning studies to assess existing infrastructure, environmental studies, studies of projected economic benefit to the community, lease or acquisition of an easement or land for new infrastructure, and activities related to other capital costs.
+
+&emsp;"(3)
+
+Application.—To apply for a grant under this subsection, an eligible entity shall provide to the Secretary an application in such form, at such time, and containing such information as the Secretary may require.
+
+&emsp;"(4)
+
+Selection.—
+
+&emsp;&emsp;"(A)
+
+In general.—In awarding grants under this subsection, the Secretary shall consider the following:
+
+&emsp;&emsp;&emsp;"(i) Geographic diversity.
+
+&emsp;&emsp;&emsp;"(ii) Diversity of the proposed models of infrastructure financing and management.
+
+&emsp;&emsp;&emsp;"(iii) Diversity of proposed or planned AAM operations.
+
+&emsp;&emsp;&emsp;"(iv) The need for comprehensive plans that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) ensure the safe and efficient integration of AAM operations into the National Airspace System;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) improve transportation safety, connectivity, access, and equity in both rural and urban regions in the United States;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) leverage existing public transportation systems and intermodal and multimodal facilities;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) reduce surface congestion and the environmental impacts of transportation;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) grow the economy and create jobs in the United States; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI) encourage community engagement when planning for AAM-related infrastructure.
+
+&emsp;&emsp;"(B)
+
+Priority.—The Secretary shall prioritize awarding grants under this subsection to eligible entities that collaborate with commercial AAM entities, institutions of higher education, research institutions, or other relevant stakeholders to develop and prepare a comprehensive plan.
+
+&emsp;&emsp;"(C)
+
+Minimum allocation to rural areas.—The Secretary shall ensure that not less than 20 percent of the amounts made available under subsection (c) are used to award grants to eligible entities that submit a comprehensive plan under paragraph (2) that is related to infrastructure located in a rural area.
+
+&emsp;"(5)
+
+Grant amount.—Each grant made under this subsection shall be made in an amount that is not more than $1,000,000.
+
+&emsp;"(6)
+
+Briefing.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 180 days after the first comprehensive plan is submitted under paragraph (2), and every 180 days thereafter through September 30, 2025, the Secretary shall provide a briefing to the appropriate committees of Congress on the comprehensive plans submitted to the Secretary under such paragraph.
+
+&emsp;&emsp;"(B)
+
+Contents.—The briefing required under subparagraph (A) shall include—
+
+&emsp;&emsp;&emsp;"(i) an evaluation of all planned or potential vertiport locations included in the comprehensive plans submitted under paragraph (2) and how such planned or potential vertiport locations may fit into the overall United States transportation system and network; and
+
+&emsp;&emsp;&emsp;"(ii) a description of lessons or best practices learned through the review of comprehensive plans and how the Secretary will incorporate any such lessons or best practices into Federal standards or guidance for the design and operation of AAM infrastructure and facilities.
+
+"(c)
+
+Authorization of Appropriations.—
+
+&emsp;"(1)
+
+Authorization.—There are authorized to be appropriated to the Secretary to carry out this section $12,500,000 for each of fiscal years 2023 and 2024, to remain available until expended.
+
+&emsp;"(2)
+
+Administrative expenses.—Of the amounts made available under paragraph (1), the Secretary may retain up to 1 percent for personnel, contracting, and other costs to establish and administer the pilot program under this section.
+
+"(d)
+
+Termination.—
+
+&emsp;"(1)
+
+In general.—No grant may be awarded under this section after September 30, 2024.
+
+&emsp;"(2)
+
+Continued funding.—Funds authorized to be appropriated pursuant to subsection (c) may be expended after September 30, 2024—
+
+&emsp;&emsp;"(A) for grants awarded prior to September 30, 2024; and
+
+&emsp;&emsp;"(B) for administrative expenses.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Advanced air mobility; aam.—The terms 'advanced air mobility' and 'AAM' have the meaning given such terms in section 2(i) of the Advanced Air Mobility Coordination and Leadership Act \[Pub. L. 117–203\] (49 U.S.C. 40101 note).
+
+&emsp;"(2)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+&emsp;"(3)
+
+Commercial aam entities.—The term 'commercial AAM entities' means—
+
+&emsp;&emsp;"(A) manufacturers of aircraft, avionics, propulsion systems, and air traffic management systems related to AAM;
+
+&emsp;&emsp;"(B) intended commercial operators of AAM aircraft and systems; and
+
+&emsp;&emsp;"(C) intended commercial operators and developers of vertiports.
+
+&emsp;"(4)
+
+Eligible entity.—The term 'eligible entity' means—
+
+&emsp;&emsp;"(A) a State, local, or Tribal government, including a political subdivision thereof;
+
+&emsp;&emsp;"(B) an airport sponsor;
+
+&emsp;&emsp;"(C) a transit agency;
+
+&emsp;&emsp;"(D) a port authority;
+
+&emsp;&emsp;"(E) a metropolitan planning organization; or
+
+&emsp;&emsp;"(F) any combination or consortium of the entities described in subparagraphs (A) through (E).
+
+&emsp;"(5)
+
+Metropolitan planning organization.—The term 'metropolitan planning organization' has the meaning given such term in section 5303(b) of title 49, United States Code.
+
+&emsp;"(6)
+
+Rural area.—The term 'rural area' means an area located outside a metropolitan statistical area (as designated by the Office of Management and Budget).
+
+&emsp;"(7)
+
+Secretary.—The term 'Secretary' means the Secretary of Transportation.
+
+&emsp;"(8)
+
+State.—The term 'State' means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, and Guam.
+
+&emsp;"(9)
+
+Vertiport.—The term 'vertiport' means a designated location used or intended to be used to support AAM operations, including the landing, take-off, loading, taxiing, parking, and storage of aircraft developed for AAM operations.
+
+&emsp;"(10)
+
+Vertical take-off and landing aircraft.—The term 'vertical take-off and landing aircraft' has the meaning given such term in section 2(i) of the Advanced Air Mobility Coordination and Leadership Act (49 U.S.C. 40101 note).
+
+"(f)
+
+Rule of Construction.—Nothing in this section may be construed as conferring upon any person, State, local, or Tribal government the authority to determine the safety of any AAM operation or the feasibility of simultaneous operations by AAM and conventional aircraft within any given area of the national airspace system."
+
+#### National Aviation Preparedness Plan
+
+Pub. L. 117–328, div. Q, §105, Dec. 29, 2022, 136 Stat. 5253, provided that:
+
+"(a)
+
+In General.—Not later than 2 years after the date of enactment of this section \[Dec. 29, 2022\], the Secretary of Transportation, in coordination with the Secretary of Health and Human Services, the Secretary of Homeland Security, and the heads of such other Federal departments or agencies as the Secretary of Transportation considers appropriate, shall develop a national aviation preparedness plan for communicable disease outbreaks.
+
+"(b)
+
+Contents of Plan.—The plan developed under subsection (a) shall, at a minimum—
+
+&emsp;"(1) provide airports and air carriers with an adaptable and scalable framework with which to align the individual plans, including the emergency response plans, of such airports and air carriers and provide guidance as to each individual plan;
+
+&emsp;"(2) improve coordination among airports, air carriers, the Transportation Security Administration, U.S. Customs and Border Protection, the Centers for Disease Control and Prevention, other appropriate Federal entities, and State and local governments and health agencies with respect to preparing for and responding to communicable disease outbreaks;
+
+&emsp;"(3) to the extent practicable, improve coordination among relevant international entities;
+
+&emsp;"(4) create a process to identify appropriate personal protective equipment, if any, for covered employees to reduce the likelihood of exposure to a covered communicable disease, and thereafter issue recommendations for the equipage of such employees;
+
+&emsp;"(5) create a process to identify appropriate techniques, strategies, and protective infrastructure, if any, for the cleaning, disinfecting, and sanitization of aircraft and enclosed facilities owned, operated, or used by an air carrier or airport, and thereafter issue recommendations pertaining to such techniques, strategies, and protective infrastructure;
+
+&emsp;"(6) create a process to evaluate technologies and develop procedures to effectively screen passengers for communicable diseases, including through the use of temperature checks if appropriate, for domestic and international passengers, crew members, and other individuals passing through airport security checkpoints;
+
+&emsp;"(7) identify and assign Federal agency roles in the deployment of emerging and existing technologies and solutions to reduce covered communicable diseases in the aviation ecosystem;
+
+&emsp;"(8) clearly delineate the responsibilities of the sponsors and operators of airports, air carriers, and Federal agencies in responding to a covered communicable disease;
+
+&emsp;"(9) incorporate, as appropriate, the recommendations made by the Comptroller General of the United States to the Secretary of Transportation contained in the report titled 'Air Travel and Communicable Diseases: Comprehensive Federal Plan Needed for U.S. Aviation System's Preparedness', issued in December 2015 (GAO-16-127);
+
+&emsp;"(10) consider the latest peer-reviewed scientific studies that address communicable disease with respect to air transportation; and
+
+&emsp;"(11) consider funding constraints.
+
+"(c)
+
+Consultation.—When developing the plan under subsection (a), the Secretary of Transportation shall consult with aviation industry and labor stakeholders, including representatives of—
+
+&emsp;"(1) air carriers, which shall include domestic air carriers consisting of major air carriers, low-cost carriers, regional air carriers and cargo carriers;
+
+&emsp;"(2) airport operators, including with respect to large hub, medium hub, small hub, and nonhub commercial service airports;
+
+&emsp;"(3) labor organizations that represent airline pilots, flight attendants, air carrier airport customer service representatives, and air carrier maintenance, repair, and overhaul workers;
+
+&emsp;"(4) the labor organization certified under section 7111 of title 5, United States Code, as the exclusive bargaining representative of air traffic controllers of the Federal Aviation Administration;
+
+&emsp;"(5) the labor organization certified under such section as the exclusive bargaining representative of airway transportation systems specialists and aviation safety inspectors of the Federal Aviation Administration;
+
+&emsp;"(6) trade associations representing air carriers and airports;
+
+&emsp;"(7) aircraft manufacturing companies;
+
+&emsp;"(8) general aviation; and
+
+&emsp;"(9) such other stakeholders as the Secretary considers appropriate.
+
+"(d)
+
+Report.—Not later than 30 days after the plan is developed under subsection (a), the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that includes such plan.
+
+"(e)
+
+Review of Plan.—Not later than 1 year after the date on which a report is submitted under subsection\(d), and again not later than 5 years thereafter, the Secretary shall review the plan included in such report and, after consultation with aviation industry and labor stakeholders, make changes by rule as the Secretary considers appropriate.
+
+"(f)
+
+GAO Study.—Not later than 18 months after the date of enactment of this section \[Dec. 29, 2022\], the Comptroller General shall conduct and submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a study assessing the national aviation preparedness plan developed under subsection (a), including—
+
+&emsp;"(1) whether such plan—
+
+&emsp;&emsp;"(A) is responsive to any previous recommendations relating to aviation preparedness with respect to an outbreak of a covered communicable disease or global health emergency made by the Comptroller General; and
+
+&emsp;&emsp;"(B) meets the obligations of the United States under international conventions and treaties; and
+
+&emsp;"(2) the extent to which the United States aviation system is prepared to respond to an outbreak of a covered communicable disease.
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered employee.—The term 'covered employee' means—
+
+&emsp;&emsp;"(A) an individual whose job duties require interaction with air carrier passengers on a regular and continuing basis and who is an employee of—
+
+&emsp;&emsp;&emsp;"(i) an air carrier;
+
+&emsp;&emsp;&emsp;"(ii) an air carrier contractor;
+
+&emsp;&emsp;&emsp;"(iii) an airport; or
+
+&emsp;&emsp;&emsp;"(iv) the Federal Government; or
+
+&emsp;&emsp;"(B) an air traffic controller or systems safety specialist of the Federal Aviation Administration.
+
+&emsp;"(2)
+
+Covered communicable disease.—The term 'covered communicable disease' means a communicable disease that has the potential to cause a future epidemic or pandemic of infectious disease that would constitute a public health emergency of international concern as declared, after the date of enactment of this section, by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d).
+
+&emsp;"(3)
+
+Temperature check.—The term 'temperature check' means the screening of an individual for a fever."
+
+#### Advanced Air Mobility Working Group
+
+Pub. L. 117–203, §2, Oct. 17, 2022, 136 Stat. 2227, provided that:
+
+"(a)
+
+In General.—Not later than 120 days after the date of enactment of this Act \[Oct. 17, 2022\], the Secretary of Transportation shall establish an advanced air mobility interagency working group (in this section referred to as the 'working group').
+
+"(b)
+
+Purpose.—Advanced Air Mobility represents a key area of sustainable transportation and economic growth for the United States and it is imperative that the Federal Government foster leadership and interagency collaboration in the adoption and deployment of this technology. The purpose of the working group established under this section shall be to plan for and coordinate efforts related to safety, operations, infrastructure, physical security and cybersecurity, and Federal investment necessary for maturation of the AAM ecosystem in the United States, particularly passenger-carrying aircraft, in order to—
+
+&emsp;"(1) grow new transportation options;
+
+&emsp;"(2) amplify economic activity and jobs;
+
+&emsp;"(3) advance environmental sustainability and new technologies; and
+
+&emsp;"(4) support emergency preparedness and competitiveness.
+
+"(c)
+
+Membership.—Not later than 60 days after the establishment of the working group under subsection (a), the Secretary of Transportation shall—
+
+&emsp;"(1) appoint the Under Secretary of Transportation for Policy to chair the working group;
+
+&emsp;"(2) designate not less than 1 additional representative to participate on the working group from each of—
+
+&emsp;&emsp;"(A) the Department of Transportation; and
+
+&emsp;&emsp;"(B) the Federal Aviation Administration; and
+
+&emsp;"(3) invite the heads of each of the following departments or agencies to designate not less than 1 representative to participate on the working group, including—
+
+&emsp;&emsp;"(A) the National Aeronautics and Space Administration;
+
+&emsp;&emsp;"(B) the Department of Commerce;
+
+&emsp;&emsp;"(C) the Department of Defense;
+
+&emsp;&emsp;"(D) the Department of Energy;
+
+&emsp;&emsp;"(E) the Department of Homeland Security;
+
+&emsp;&emsp;"(F) the Department of Agriculture;
+
+&emsp;&emsp;"(G) the Department of Labor;
+
+&emsp;&emsp;"(H) the Federal Communications Commission; and
+
+&emsp;&emsp;"(I) such other departments or agencies as the Secretary of Transportation determines appropriate.
+
+"(d)
+
+Coordination.—
+
+&emsp;"(1)
+
+In general.—The working group shall engage with State, local, and Tribal governments, aviation industry and labor stakeholders, stakeholder associations, and others determined appropriate by the Secretary of Transportation and the Administrator of the Federal Aviation Administration, including—
+
+&emsp;&emsp;"(A) manufacturers of aircraft, avionics, propulsion systems, structures, and air traffic management systems;
+
+&emsp;&emsp;"(B) commercial air carriers, commercial operators, unmanned aircraft system operators, and general aviation operators, including helicopter operators;
+
+&emsp;&emsp;"(C) intended operators of AAM aircraft;
+
+&emsp;&emsp;"(D) airports, heliports, fixed-base operators;
+
+&emsp;&emsp;"(E) certified labor representatives for pilots associations, air traffic control specialists employed by the Federal Aviation Administration, aircraft mechanics, and aviation safety inspectors;
+
+&emsp;&emsp;"(F) State, local, and Tribal officials or public agencies, with representation from both urban and rural areas;
+
+&emsp;&emsp;"(G) first responders;
+
+&emsp;&emsp;"(H) groups representing environmental interests;
+
+&emsp;&emsp;"(I) electric utilities, energy providers and energy market operators;
+
+&emsp;&emsp;"(J) academia with experience working with industry on new technology and commercialization;
+
+&emsp;&emsp;"(K) groups representing the telecommunications industry; and
+
+&emsp;&emsp;"(L) aviation training and maintenance providers.
+
+&emsp;"(2)
+
+Advisory committees.—The Secretary of Transportation and Administrator of the Federal Aviation Administration may use such Federal advisory committees as may be appropriate to coordinate with the entities listed in paragraph (1).
+
+"(e)
+
+Review and Examination.—Not later than 1 year after the working group is established under subsection (a), the working group shall complete a review and examination of, at a minimum—
+
+&emsp;"(1) the steps that will mature AAM aircraft operations, concepts, and regulatory frameworks beyond initial operations;
+
+&emsp;"(2) the air traffic management and safety concepts that might be considered as part of evolving AAM to higher levels of traffic density;
+
+&emsp;"(3) current Federal programs and policies that could be leveraged to advance the maturation of the AAM industry;
+
+&emsp;"(4) infrastructure, including aviation, cybersecurity, telecommunication, multimodal, and utility infrastructure, necessary to accommodate and support expanded operations of AAM after initial implementation;
+
+&emsp;"(5) steps needed to ensure a robust and secure domestic supply chain;
+
+&emsp;"(6) anticipated benefits associated with AAM aircraft operations, including economic, environmental, emergency and natural disaster response, and transportation benefits;
+
+&emsp;"(7) the interests, roles, and responsibilities of Federal, State, local, and Tribal governments affected by AAM aircraft operations; and
+
+&emsp;"(8) other factors that may limit the full potential of the AAM industry, including community acceptance or restrictions of such operations.
+
+"(f)
+
+AAM National Strategy.—Based on the review and examination performed under subsection (e), the working group shall develop an AAM National Strategy that includes—
+
+&emsp;"(1) recommendations regarding the safety, operations, security, infrastructure, air traffic concepts, and other Federal investment or actions necessary to support the evolution of early AAM to higher levels of activity and societal benefit; and
+
+&emsp;"(2) a comprehensive plan detailing the roles and responsibilities of each Federal department and agency, and of State, local, and Tribal governments, necessary to facilitate or implement the recommendations developed under paragraph (1).
+
+"(g)
+
+Report.—Not later than 180 days after the completion of the review and examination performed under subsection (e), the working group shall submit to the appropriate committees of Congress a report—
+
+&emsp;"(1) detailing findings from the review and examination performed under subsection (e); and
+
+&emsp;"(2) providing the AAM National Strategy, including the plan and associated recommendations developed under subsection (f).
+
+"(h)
+
+Evaluation of Termination of Working Group.—Not later than 30 days after the date on which the working group submits the report required under subsection (g), the Secretary of Transportation shall evaluate and decide whether to terminate the working group and shall notify the appropriate committees of Congress of such decision.
+
+"(i)
+
+Definitions.—For purposes of this section and section 3 \[of Pub. L. 117–203, 136 Stat. 2230, which is not classified to the Code\]:
+
+&emsp;"(1)
+
+Advanced air mobility; aam.—The terms 'advanced air mobility' and 'AAM' mean a transportation system that transports people and property by air between two points in the United States using aircraft with advanced technologies, including electric aircraft or electric vertical take-off and landing aircraft, in both controlled and uncontrolled airspace.
+
+&emsp;"(2)
+
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means—
+
+&emsp;&emsp;"(A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;"(B) the Committee on Transportation and Infrastructure of the House of Representatives.
+
+&emsp;"(3)
+
+Electric aircraft.—The term 'electric aircraft' means an aircraft with a fully electric or hybrid (fuel and electric) driven propulsion system used for flight.
+
+&emsp;"(4)
+
+Fixed-base operator.—The term 'fixed-base operator' means a business granted the right by an airport sponsor or heliport sponsor to operate on an airport or heliport and provide aeronautical services, including fueling and charging, aircraft hangaring, tiedown and parking, aircraft rental, aircraft maintenance, and flight instruction.
+
+&emsp;"(5)
+
+State.—The term 'State' has the meaning given such term in section 47102 of title 49, United States Code.
+
+&emsp;"(6)
+
+Vertical take-off and landing.—The term 'vertical take-off and landing' means an aircraft with lift/thrust units used to generate powered lift and control and with two or more lift/thrust units used to provide lift during vertical take-off or landing."
+
+#### Samya Rose Stumo National Air Grant Fellowship Program
+
+Pub. L. 116–260, div. V, title I, §131, Dec. 27, 2020, 134 Stat. 2350, as amended by Pub. L. 117–328, div. Q, §102(b)(1), Dec. 29, 2022, 136 Stat. 5250, provided that:
 
 "(a)
 
@@ -396,11 +886,11 @@ Program.—
 
 &emsp;"(1)
 
-Program maintenance.—The Administrator \[of the Federal Aviation Administration\] shall maintain within the FAA \[Federal Aviation Administration\] a program to be known as the 'National Air Grant Fellowship Program'.
+Program maintenance.—The Administrator \[of the Federal Aviation Administration\] shall maintain within the FAA \[Federal Aviation Administration\] a program to be known as the 'Samya Rose Stumo National Air Grant Fellowship Program'.
 
 &emsp;"(2)
 
-Program elements.—The National Air Grant Fellowship Program shall provide support for the fellowship program under subsection (b).
+Program elements.—The Samya Rose Stumo National Air Grant Fellowship Program shall provide support for the fellowship program under subsection (b).
 
 &emsp;"(3)
 
@@ -432,19 +922,19 @@ Authority.—In order to carry out the provisions of this section, the Administr
 
 &emsp;"(4)
 
-Director of national air grant fellowship program.—
+Director of samya rose stumo national air grant fellowship program.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Administrator shall appoint, as the Director of the National Air Grant Fellowship Program, a qualified individual who has appropriate administrative experience and knowledge or expertise in fields related to aerospace. The Director shall be appointed and compensated, without regard to the provisions of title 5 governing appointments in the competitive service, at a rate payable under section 5376 of title 5, United States Code.
+In general.—The Administrator shall appoint, as the Director of the Samya Rose Stumo National Air Grant Fellowship Program, a qualified individual who has appropriate administrative experience and knowledge or expertise in fields related to aerospace. The Director shall be appointed and compensated, without regard to the provisions of title 5 governing appointments in the competitive service, at a rate payable under section 5376 of title 5, United States Code.
 
 &emsp;&emsp;"(B)
 
-Duties.—Subject to the supervision of the Administrator, the Director shall administer the National Air Grant Fellowship Program. In addition to any other duty prescribed by law or assigned by the Administrator, the Director shall—
+Duties.—Subject to the supervision of the Administrator, the Director shall administer the Samya Rose Stumo National Air Grant Fellowship Program. In addition to any other duty prescribed by law or assigned by the Administrator, the Director shall—
 
 &emsp;&emsp;&emsp;"(i) cooperate with institutions of higher education that offer degrees in fields related to aerospace;
 
-&emsp;&emsp;&emsp;"(ii) encourage the participation of graduate and post-graduate students in the National Air Grant Fellowship Program; and
+&emsp;&emsp;&emsp;"(ii) encourage the participation of graduate and post-graduate students in the Samya Rose Stumo National Air Grant Fellowship Program; and
 
 &emsp;&emsp;&emsp;"(iii) cooperate and coordinate with other Federal activities in fields related to aerospace.
 
@@ -482,7 +972,7 @@ In general.—In considering the placement of individuals receiving a fellowship
 
 &emsp;&emsp;&emsp;"(ii)
 
-Equitable distribution.—In placing fellows in positions described under clause (i), theAdministrator shall ensure that placements are equally distributed among the political parties.
+Equitable distribution.—In placing fellows in positions described under clause (i), the Administrator shall ensure that placements are equally distributed among the political parties.
 
 &emsp;&emsp;"(C)
 
@@ -512,7 +1002,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Director.—The term 'Director' means the Director of the National Air Grant Fellowship Program, appointed pursuant to subsection (a)(4).
+Director.—The term 'Director' means the Director of the Samya Rose Stumo National Air Grant Fellowship Program, appointed pursuant to subsection (a)(4).
 
 &emsp;"(2)
 
@@ -826,7 +1316,7 @@ Definition.—In this section, the term 'part 91' means part 91 of title 14, Cod
 
 "(f)
 
-Applicable Law.—Public Law 92–463 \[Federal Advisory Committee Act, 5 U.S.C. App.\] shall not apply to the task force.
+Applicable Law.—Public Law 92–463 \[Federal Advisory Committee Act, see 5 U.S.C. 1001 et seq.\] shall not apply to the task force.
 
 "(g)
 
@@ -1030,7 +1520,7 @@ Pub. L. 115–254, div. B, title VI, §632, Oct. 5, 2018, 132 Stat. 3408, provid
 
 "(a)
 
-In General.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator of the Federal Aviation Administration shall establish a collegiate training initiative program relating to unmanned aircraft systems by making new agreements or continuing existing agreements with institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) under which the institutions prepare students for careers involving unmanned aircraft systems. The Administrator may establish standards for the entry of such institutions into the program and for their continued participation in the program.
+In General.—Not later than 180 days after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator of the Federal Aviation Administration shall establish a collegiate training initiative program relating to unmanned aircraft systems by making new agreements or continuing existing agreements with institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)) under which the institutions prepare students for careers involving unmanned aircraft systems. The Administrator may establish standards for the entry ofsuch institutions into the program and for their continued participation in the program.
 
 "(b)
 
@@ -1038,7 +1528,7 @@ Unmanned Aircraft System Defined.—In this section, the term 'unmanned aircraft
 
 #### Cyber Testbed
 
-Pub. L. 115–254, div. B, title VII, §731, Oct. 5, 2018, 132 Stat. 3411, provided that: "Not later than 6 months after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall develop an integrated Cyber Testbed for research, development, evaluation, and validation of air traffic control modernization technologies, before they enter the national airspace system, as being compliant with FAA data security regulations. The Cyber Testbed shall be part of an integrated research and development test environment capable of creating, identifying, defending, and solving cybersecurity-relatedproblems for the national airspace system. This integrated test environment shall incorporate integrated test capacities within the FAA related to the national airspace system and NextGen."
+Pub. L. 115–254, div. B, title VII, §731, Oct. 5, 2018, 132 Stat. 3411, provided that: "Not later than 6 months after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall develop an integrated Cyber Testbed for research, development, evaluation, and validation of air traffic control modernization technologies, before they enter the national airspace system, as being compliant with FAA data security regulations. The Cyber Testbed shall be part of an integrated research and development test environment capable of creating, identifying, defending, and solving cybersecurity-related problems for the national airspace system. This integrated test environment shall incorporate integrated test capacities within the FAA related to the national airspace system and NextGen."
 
 #### Mitigation of Operational Risks Posed to Certain Military Aircraft by Automatic Dependent Surveillance-Broadcast Equipment
 
@@ -1688,7 +2178,7 @@ Subsequent Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than 180 days after the Administrator submits to Congress the report required by subsection (a) and annually thereafter until the pilot program terminates, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress of the Administrator in carrying out the strategy described in the report submitted under subsection (a).
+In general.—Not later than 180 days after the Administrator submits to Congress the report required by subsection (a) and annually thereafter until the pilot program terminates, the Administrator shall submit to the Committee on Commerce,Science, and Transportation of the Senate and to the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress of the Administrator in carrying out the strategy described in the report submitted under subsection (a).
 
 &emsp;"(2)
 
@@ -1786,7 +2276,7 @@ Pub. L. 108–176, §4, Dec. 12, 2003, 117 Stat. 2493, provided that: "Congress 
 
 &emsp;"(3) The total impact of civil aviation on the United States economy exceeds $900,000,000,000 annually and accounts for 9 percent of the gross national product and 11,000,000 jobs in the national workforce. Civil aviation products and services generate a significant surplus for United States trade accounts, and amount to significant numbers of the Nation's highly skilled, technologically qualified work force.
 
-&emsp;"(4) Aerospace technologies, products, and services underpin the advanced capabilities of our men and women in uniform and those charged with homeland security.
+&emsp;"(4) Aerospace technologies, products, and services underpin the advanced capabilities of our men andwomen in uniform and those charged with homeland security.
 
 &emsp;"(5) Future growth in civil aviation increasingly will be constrained by concerns related to aviation system safety and security, aviation system capabilities, aircraft noise, emissions, and fuel consumption.
 
@@ -1882,7 +2372,7 @@ Establishment.—(1) The Secretary of Transportation shall establish in the Fede
 
 &emsp;"(M) maintaining a baseline modeling and simulation environment for testing and evaluating alternative concepts to satisfy Next Generation Air Transportation System enterprise architecture requirements.
 
-"(4)(A) The Office shall operate in conjunction with relevant programs in the Department of Defense, the National Aeronautics and Space Administration, theDepartment of Commerce and the Department of Homeland Security. The Secretary of Transportation may request assistance from staff from those Departments and other Federal agencies.
+"(4)(A) The Office shall operate in conjunction with relevant programs in the Department of Defense, the National Aeronautics and Space Administration, the Department of Commerce and the Department of Homeland Security. The Secretary of Transportation may request assistance from staff from those Departments and other Federal agencies.
 
 "(B) The Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the Secretary of Commerce, the Secretary of Homeland Security, and the head of any other Federal agency from which the Secretary of Transportation requests assistance under subparagraph (A) shall designate a senior official in the agency to be responsible for—
 
@@ -1946,7 +2436,7 @@ Integrated Plan.—The integrated plan shall be designed to ensure that the Next
 
 &emsp;&emsp;"(B) details on a year-by-year basis of specific accomplishments, activities, research requirements, rulemakings, policy decisions, and other milestones of progress for each Federal agency or entity conducting activities relating to the Next Generation Air Transportation System;
 
-&emsp;&emsp;"(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in that year toward meeting the Next Generation Air Transportation System's end-state architecture, as expressed in the concept of operations and enterprise architecture documents, as well as identifying each Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
+&emsp;&emsp;"(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in that year toward meeting the Next Generation Air Transportation System's end-state architecture, asexpressed in the concept of operations and enterprise architecture documents, as well as identifying each Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
 
 &emsp;&emsp;"(D) an estimate of all necessary expenditures on a year-by-year basis, including a statement of each Federal agency or entity's responsibility for costs and available resources, for each stage of development from the basic research stage through the demonstration and implementation phase;
 
@@ -2248,7 +2738,7 @@ In general.—Notwithstanding any other provision of law, the Secretary is autho
 
 &emsp;"(2)
 
-Agreements.—In applying paragraph (1), the Secretary may require air carriers receiving direct financial assistance under this Act to enter into agreements which will ensure, to the maximum extentpracticable, that all communities that had scheduled air service before September 11, 2001, continue to receive adequate air transportation service.
+Agreements.—In applying paragraph (1), the Secretary may require air carriers receiving direct financial assistance under this Act to enter into agreements which will ensure, to the maximum extent practicable, that all communities that had scheduled air service before September 11, 2001, continue to receive adequate air transportation service.
 
 #### "SEC. 106. REPORTS.
 
@@ -2372,7 +2862,7 @@ Collateral source.—The term 'collateral source' means all collateral sources, 
 
 &emsp;"(7)
 
-Contractor and subcontractor.—The term 'contractor and subcontractor' means any contractor or subcontractor (at any tier of a subcontracting relationship), including any general contractor, construction manager, prime contractor, consultant, or any parent, subsidiary, associated or allied company, affiliated company, corporation, firm, organization, or joint venture thereof that participated in debris removal at any 9/11 crash site. Such term shall not include any entity, including the Port Authority of New York and New Jersey, with a property interestin the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect.
+Contractor and subcontractor.—The term 'contractor and subcontractor' means any contractoror subcontractor (at any tier of a subcontracting relationship), including any general contractor, construction manager, prime contractor, consultant, or any parent, subsidiary, associated or allied company, affiliated company, corporation, firm, organization, or joint venture thereof that participated in debris removal at any 9/11 crash site. Such term shall not include any entity, including the Port Authority of New York and New Jersey, with a property interest in the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect.
 
 &emsp;"(8)
 
@@ -2630,11 +3120,11 @@ Individuals.—A claimant is an individual described in this paragraph if the cl
 
 &emsp;&emsp;"(A) an individual who—
 
-&emsp;&emsp;&emsp;"(i) was present at the World Trade Center, (New York, New York), the Pentagon (Arlington, Virginia), the site of the aircraft crash at Shanksville, Pennsylvania, or any other 9/11 crash site at the time, or in the immediate aftermath, of the terrorist-related aircraft crashes of September 11, 2001; and
+&emsp;&emsp;&emsp;"(i) was present at the World Trade Center, (New York, New York), the Pentagon (Arlington,Virginia), the site of the aircraft crash at Shanksville, Pennsylvania, or any other 9/11 crash site at the time, or in the immediate aftermath, of the terrorist-related aircraft crashes of September 11, 2001; and
 
 &emsp;&emsp;&emsp;"(ii) suffered physical harm or death as a result of such an air crash or debris removal;
 
-&emsp;&emsp;"(B) an individual who was a member of the flight crew or a passenger on American Airlines flight 11or 77 or United Airlines flight 93 or 175, except that an individual identified by the Attorney General to have been a participant or conspirator in the terrorist-related aircraft crashes of September 11, 2001, or a representative of such individual shall not be eligible to receive compensation under this title; or
+&emsp;&emsp;"(B) an individual who was a member of the flight crew or a passenger on American Airlines flight 11 or 77 or United Airlines flight 93 or 175, except that an individual identified by the Attorney General to have been a participant or conspirator in the terrorist-related aircraft crashes of September 11, 2001, or a representative of such individual shall not be eligible to receive compensation under this title; or
 
 &emsp;&emsp;"(C) in the case of a decedent who is an individual described in subparagraph (A) or (B), the personal representative of the decedent who files a claim on behalf of the decedent.
 
@@ -2734,7 +3224,7 @@ In general.—The total amount of Federal funds paid for compensation under this
 
 &emsp;&emsp;"(B)
 
-Remainder of claim amounts.—In the case of a claim in Group A as described in section 405(a)(3)(C)(ii) and for which the Special Master hasratably reduced the amount of compensation for such claim pursuant to paragraph (2) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master shall, as soon as practicable after the date of enactment of such Act, authorize payment of the amount of compensation that is equal to the difference between—
+Remainder of claim amounts.—In the case of a claim in Group A as described in section 405(a)(3)(C)(ii) and for which the Special Master has ratably reduced the amount of compensation for such claim pursuant to paragraph (2) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master shall, as soon as practicable after the date of enactment of such Act, authorize payment of the amount of compensation that is equal to the difference between—
 
 &emsp;&emsp;&emsp;"(i) the amount of compensation that the claimant would have been paid under this title for such claim without regard to the limitation under the second sentence of paragraph (1) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act; and
 
@@ -2834,7 +3324,7 @@ Exception.—If the legal fee charged in connection with the settlement of a civ
 
 &emsp;"(3)
 
-Discretion to lower fee.—In the event that the special master \[probably should be capitalized\]finds that the fee limit set by paragraph (1) or (2) provides excessive compensation for services rendered in connection with such claim, the Special Master may, in the discretion of the Special Master, award as reasonable compensation for services rendered an amount lesser than that permitted for in paragraph (1).
+Discretion to lower fee.—In the event that the special master \[probably should be capitalized\] finds that the fee limit set by paragraph (1) or (2) provides excessive compensation for services rendered in connection with such claim, the Special Master may, in the discretion of the Special Master, award as reasonable compensation for services rendered an amount lesser than that permitted for in paragraph (1).
 
 #### "SEC. 407. REGULATIONS.
 
@@ -2918,7 +3408,7 @@ Federal Cause of Action.—
 
 &emsp;"(1)
 
-Availability of action.—There shall exist a Federal cause of action for damages arising out of the hijacking and subsequent crashes of American Airlines flights 11 and 77, and United Airlines flights 93 and 175, on September 11, 2001. Notwithstanding section 40120(c) of title 49, United States Code, this causeof action shall be the exclusive remedy for damages arising out of the hijacking and subsequent crashes of such flights.
+Availability of action.—There shall exist a Federal cause of action for damages arising out of the hijacking and subsequent crashes of American Airlines flights 11 and 77, and United Airlines flights 93 and 175, on September 11, 2001. Notwithstanding section 40120(c) of title 49, United States Code, this cause of action shall be the exclusive remedy for damages arising out of the hijacking and subsequent crashes of such flights.
 
 &emsp;"(2)
 
@@ -3030,7 +3520,7 @@ Use of funds.—For fiscal year 2017, and each fiscal year thereafter, amounts i
 
 #### "SEC. 601. SEPARABILITY.
 
-"If any provision of this Act (including any amendment made by this Act \[amending sections 44302 to 44306 of this title\]) or the application thereof to any person or circumstance is held invalid, the remainder of this Act (including any amendment made by this Act) and the application thereof to other persons or circumstances shall not be affected thereby."
+"If any provision of this Act (including any amendment made by this Act \[amending sections 44302 to44306 of this title\]) or the application thereof to any person or circumstance is held invalid, the remainder of this Act (including any amendment made by this Act) and the application thereof to other persons or circumstances shall not be affected thereby."
 
 \[Pub. L. 107–134, title I, §114(b), Jan. 23, 2002, 115 Stat. 2436, provided that: "The amendment made by this section \[amending Pub. L. 107–42, set out above\] shall take effect as if included in section 301 of the Air Transportation Safety and System Stabilization Act (Public Law 107–42)."\]
 
@@ -3168,7 +3658,7 @@ Pub. L. 104–264, title II, §272, Oct. 9, 1996, 110 Stat. 3239, provided that:
 
 #### Independent Assessment of FAA Financial Requirements; Establishment of National Civil Aviation Review Commission
 
-Pub. L. 104–264, title II, §274, Oct. 9, 1996, 110 Stat. 3240, as amended by Pub. L. 106–181, title III, §307(c)(3), Apr. 5, 2000, 114 Stat. 126, provided that:
+Pub. L. 104–264, title II, §274, Oct. 9, 1996, 110 Stat. 3240, as amended by Pub. L. 106–181, title III, §307(c)(3), Apr. 5, 2000, 114 Stat. 126; Pub. L. 117–286, §4(a)(311), Dec. 27, 2022, 136 Stat. 4340, provided that:
 
 "(a)
 
@@ -3248,7 +3738,11 @@ Consultation.—The Commission shall consult on a regular and frequent basis wit
 
 &emsp;&emsp;"(C)
 
-FACA not to apply.—The Commission shall not be considered an advisory committee for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
+Chapter 10
+
+of title 5
+
+, united states code, not to apply.—The Commission shall not be considered an advisory committee for purposes of chapter 10 of title 5, United States Code.
 
 &emsp;"(6)
 
@@ -3260,7 +3754,7 @@ Report to secretary.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—The aviation funding task force established pursuant to paragraph (3) shall submit a report setting forth a comprehensive analysis of the Administration's budgetary requirements through fiscal year 2002, based upon the independent assessment under subsection (a), that analyzes alternative financing and funding means for meeting the needs of the aviation system through the year 2002. The task force shall submit a preliminary report of that analysis to the Secretary not later than 6 months after the independent assessment is completed under subsection (a). The Secretary shall provide comments on the preliminary report to the task force within 30 days after receiving the report. The task force shall issue a final report of such comprehensive analysis within 30 days after receiving the Secretary's comments on its preliminary report.
+In general.—The aviation funding task force established pursuant to paragraph (3) shall submit a report setting forth a comprehensive analysis of the Administration's budgetary requirements through fiscal year 2002, based upon the independent assessment under subsection (a), that analyzes alternative financing and funding means for meeting the needs of the aviation system through the year 2002. The task force shall submit a preliminary report of that analysis tothe Secretary not later than 6 months after the independent assessment is completed under subsection (a). The Secretary shall provide comments on the preliminary report to the task force within 30 days after receiving the report. The task force shall issue a final report of such comprehensive analysis within 30 days after receiving the Secretary's comments on its preliminary report.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -3378,7 +3872,7 @@ Contents.—The report to be submitted under subparagraph (A) shall include an a
 
 &emsp;"(8)
 
-Access to documents and staff.—The Administration may give the Commission appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under section 552 of title 5, United States Code (commonly known as the 'Freedom of Information Act'), costdata associated with the acquisition and operation of air traffic service systems. Any member of the Commission who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of section 1905 of title 18, United States Code, pertaining to unauthorized disclosure of such information.
+Access to documents and staff.—The Administration may give the Commission appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under section 552 of title 5, United States Code (commonly known as the 'Freedom of Information Act'), cost data associated with the acquisition and operation of air traffic service systems. Any member of the Commission who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of section 1905 of title 18, United States Code, pertaining to unauthorized disclosure of such information.
 
 &emsp;"(9)
 
@@ -3604,7 +4098,7 @@ Pub. L. 103–298, Aug. 17, 1994, 108 Stat. 1552, as amended by Pub. L. 105–10
 
 "(a)
 
-In General.—Except as provided in subsection (b), no civil action for damages for death or injury to persons or damage to property arising out of an accident involving a general aviation aircraft may be brought against the manufacturer of the aircraft or themanufacturer of any new component, system, subassembly, or other part of the aircraft, in its capacity as a manufacturer if the accident occurred—
+In General.—Except as provided in subsection (b), no civil action for damages for death or injury topersons or damage to property arising out of an accident involving a general aviation aircraft may be brought against the manufacturer of the aircraft or the manufacturer of any new component, system, subassembly, or other part of the aircraft, in its capacity as a manufacturer if the accident occurred—
 
 &emsp;"(1) after the applicable limitation period beginning on—
 

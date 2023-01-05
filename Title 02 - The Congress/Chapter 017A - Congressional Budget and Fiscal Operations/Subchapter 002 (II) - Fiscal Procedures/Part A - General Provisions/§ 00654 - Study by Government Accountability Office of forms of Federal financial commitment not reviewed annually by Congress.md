@@ -1,6 +1,6 @@
 ### §654. Study by Government Accountability Office of forms of Federal financial commitment not reviewed annually by Congress
 
-The Government Accountability Office shall study those provisions of law which provide mandatory spending and report to the Congress its recommendations for the appropriate form of financing for activities or programs financed by such provisions not later than eighteen months after December 12, 1985. Such report shall be revised from time to time.
+The Government Accountability Office shall study those provisions of law which provide mandatory spending and report to the Congress its recommendations for the appropriate form of financing for activities or programs financed by such provisions not later than eighteen monthsafter December 12, 1985. Such report shall be revised from time to time.
 
 (Pub. L. 93–344, title IV, §404, formerly §405, as added Pub. L. 99–177, title II, §214, Dec. 12, 1985, 99 Stat. 1059; renumbered §404 and amended Pub. L. 105–33, title X, §10116(c)(1), (2), Aug. 5, 1997, 111 Stat. 692; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 

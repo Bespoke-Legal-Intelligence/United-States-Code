@@ -8,7 +8,7 @@ Upon the basis of a complete mining application and reclamation plan or a revisi
 
 No permit or revision application shall be approved unless the application affirmatively demonstrates and the regulatory authority finds in writing on the basis of the information set forth in the application or from information otherwise available which will be documented in the approval, and made available to the applicant, that—
 
-&emsp;(1) the permit application is accurate and complete and that all the requirements of this chapter and the State or Federal program have been complied with;
+&emsp;(1) the permit application is accurate and complete and that all the requirements of thischapter and the State or Federal program have been complied with;
 
 &emsp;(2) the applicant has demonstrated that reclamation as required by this chapter and the State or Federal program can be accomplished under the reclamation plan contained in the permit application;
 
@@ -46,7 +46,7 @@ The applicant shall file with his permit application a schedule listing any and 
 
 #### (e) Modification of prohibition
 
-After October 24, 1992, the prohibition of subsection (c) shall not apply to a permit application due to any violation resulting from an unanticipated event or condition at a surface coalmining operation on lands eligible for remining under a permit held by the person making such application. As used in this subsection, the term "violation" has the same meaning as such term has under subsection (c).
+After October 24, 1992, the prohibition of subsection (c) shall not apply to a permit application due to any violation resulting from an unanticipated event or condition at a surface coal mining operation on lands eligible for remining under a permit held by the person making such application. As used in this subsection, the term "violation" has the same meaning as such term has under subsection (c).
 
 (Pub. L. 95–87, title V, §510, Aug. 3, 1977, 91 Stat. 480; Pub. L. 102–486, title XXV, §2503(a), Oct. 24, 1992, 106 Stat. 3102; Pub. L. 109–432, div. C, title II, §208, Dec. 20, 2006, 120 Stat. 3019.)
 

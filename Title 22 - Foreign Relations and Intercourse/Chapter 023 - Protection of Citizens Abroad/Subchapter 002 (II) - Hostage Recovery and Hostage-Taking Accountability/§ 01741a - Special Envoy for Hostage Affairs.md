@@ -22,5 +22,25 @@ The Special Presidential Envoy for Hostage Affairs shall—
 
 &emsp;(5) ensure that families of United States nationals unlawfully or wrongly detained abroad receive updated information about developments in cases and government policy.
 
-(Pub. L. 116–260, div. FF, title III, §303, Dec. 27, 2020, 134 Stat. 3093.)
+#### (d) Family Engagement Coordinator
+
+There shall be, in the Office of the Special Presidential Envoy for Hostage Affairs, a Family Engagement Coordinator, who shall ensure—
+
+&emsp;(1) for a United States national unlawfully or wrongfully detained abroad, that—
+
+&emsp;&emsp;(A) any interaction by executive branch officials with any family member of such United States national occurs in a coordinated fashion;
+
+&emsp;&emsp;(B) such family member receives consistent and accurate information from the United States Government; and
+
+&emsp;&emsp;(C) appropriate coordination with the Family Engagement Coordinator described in section 1741b(c)(2) of this title; and
+
+&emsp;(2) for a United States national held hostage abroad, that any engagement with a family member is coordinated with, consistent with, and not duplicative of the efforts of the Family Engagement Coordinator described in section 1741b(c)(2) of this title.
+
+(Pub. L. 116–260, div. FF, title III, §303, Dec. 27, 2020, 134 Stat. 3093; Pub. L. 117–263, div. I, title XCI, §9103, Dec. 23, 2022, 136 Stat. 3858.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–263 added subsec. (d).
 

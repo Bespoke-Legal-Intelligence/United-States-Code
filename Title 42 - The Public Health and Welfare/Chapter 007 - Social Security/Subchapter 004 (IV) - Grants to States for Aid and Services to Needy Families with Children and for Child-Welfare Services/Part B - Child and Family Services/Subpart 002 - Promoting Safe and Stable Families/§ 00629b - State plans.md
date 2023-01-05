@@ -6,7 +6,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;(1) provides that the State agency shall administer, or supervise the administration of, the State program under this subpart;
 
-&emsp;(2)(A)(i) sets forth the goals intended to be accomplished under the plan by the end of the5th fiscal year in which the plan is in operation in the State, and (ii) is updated periodically to set forth the goals intended to be accomplished under the plan by the end of each 5th fiscal year thereafter;
+&emsp;(2)(A)(i) sets forth the goals intended to be accomplished under the plan by the end of the 5th fiscal year in which the plan is in operation in the State, and (ii) is updated periodically to set forth the goals intended to be accomplished under the plan by the end of each 5th fiscal year thereafter;
 
 &emsp;(B) describes the methods to be used in measuring progress toward accomplishment of the goals;
 
@@ -38,7 +38,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 &emsp;(6) provides for such methods of administration as the Secretary finds to be necessary for the proper and efficient operation of the plan;
 
-&emsp;(7)(A) contains assurances that Federal funds provided to the State under this subpart will not be used to supplant Federal or non-Federal funds for existing services and activities which promote the purposes of this subpart; and
+&emsp;(7)(A) contains assurances that Federal funds provided to the State under this subpartwill not be used to supplant Federal or non-Federal funds for existing services and activities which promote the purposes of this subpart; and
 
 &emsp;(B) provides that the State will furnish reports to the Secretary, at such times, in such format, and containing such information as the Secretary may require, that demonstrate the State's compliance with the prohibition contained in subparagraph (A);
 
@@ -108,7 +108,7 @@ Subsec. (a)(5)(A). Pub. L. 115–123, §50721(b)(2), struck out "time-limited" b
 
 Subsec. (b)(1). Pub. L. 115–123, §50721(b)(2), struck out "time-limited" before "family reunification".
 
-<b>2011</b>—Subsec. (a)(8)(B)(i), (ii). Pub. L. 112–34, §102(g)(1), substituted "form CFS–101 (including all parts and any successor forms)" for "forms CFS 101–Part I and CFS 101–Part II (or any successor forms)".
+<b>2011</b>—Subsec. (a)(8)(B)(i), (ii). Pub. L. 112–34, §102(g)(1), substituted "form CFS–101 (including allparts and any successor forms)" for "forms CFS 101–Part I and CFS 101–Part II (or any successor forms)".
 
 Subsec. (a)(10). Pub. L. 112–34, §102(b), added par. (10).
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–288, §3(e)(3), Sept. 28, 2006, 120 Stat. 1236, provided that: "The amendments made by this subsection \[amending this section\] take effect on the date of enactment of this Act \[Sept. 28, 2006\]. Each State with an approved plan under subpart 1 or 2 of part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 629 et seq.\] shall make its initial submission of the forms required under section 432(a)(8)(B) of the Social Security Act \[42 U.S.C. 629b(a)(8)(B)\] to the Secretary of Health and Human Services by June 30, 2007, and the Secretary of Health and Human Services shall submit the first compilation required under section 432(c) ofthe Social Security Act \[42 U.S.C. 629b(c)\] by September 30, 2007."
+Pub. L. 109–288, §3(e)(3), Sept. 28, 2006, 120 Stat. 1236, provided that: "The amendments made by this subsection \[amending this section\] take effect on the date of enactment of this Act \[Sept. 28, 2006\]. Each State with an approved plan under subpart 1 or 2 of part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 629 et seq.\] shall make its initial submission of the forms required under section 432(a)(8)(B) of the Social Security Act \[42 U.S.C. 629b(a)(8)(B)\] to the Secretary of Health and Human Services by June 30, 2007, and the Secretary of Health and Human Services shall submit the first compilation required under section 432(c) of the Social Security Act \[42 U.S.C. 629b(c)\] by September 30, 2007."
 
 Amendment by Pub. L. 109–288 effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 

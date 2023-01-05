@@ -30,7 +30,7 @@ Review and Report.—Not later than 18 months after the date of enactment of thi
 
 &emsp;&emsp;"(A) assess the methods and manner through which, and the extent to which, the Department of Education takes into account, considers input from, and addresses the unique needs and characteristics of rural schools and rural local educational agencies; and
 
-&emsp;&emsp;"(B) determine actions that the Department of Education can take to meaningfully increase theconsideration and participation of rural schools and rural local educational agencies in the development and execution of the processes, procedures, policies, and regulations of the Department of Education;
+&emsp;&emsp;"(B) determine actions that the Department of Education can take to meaningfully increase the consideration and participation of rural schools and rural local educational agencies in the development and execution of the processes, procedures, policies, and regulations of the Department of Education;
 
 &emsp;"(2) make public a preliminary report containing the information described in paragraph (1) and provide Congress and the public with 60 days to comment on the proposed actions described in paragraph (1)(B); and
 

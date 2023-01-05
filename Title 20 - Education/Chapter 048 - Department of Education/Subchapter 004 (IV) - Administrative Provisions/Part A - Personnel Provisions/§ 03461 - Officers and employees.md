@@ -10,7 +10,7 @@ The Secretary is authorized to appoint and fix the compensation of such officers
 
 (2) Repealed. Pub. L. 107–279, title IV, §403(3), Nov. 5, 2002, 116 Stat. 1985.
 
-(3) Appointments to positions provided for under this subsection may be made without regard to the provisions of section 3324 of title 5, if the individual appointed in such position is an individual who is transferred in connection with the transfer of functions and offices under thischapter and, on the day preceding May 4, 1980, holds a position and has duties comparable to those of the position to which appointed hereunder.
+(3) Appointments to positions provided for under this subsection may be made without regard to the provisions of section 3324 of title 5, if the individual appointed in such position is an individual who is transferred in connection with the transfer of functions and offices under this chapter and, on the day preceding May 4, 1980, holds a position and has duties comparable to those of the position to which appointed hereunder.
 
 (4) The authority under this subsection with respect to any position shall terminate when the person first appointed to fill such position ceases to hold such position.
 
@@ -26,7 +26,7 @@ Notwithstanding any other provision of law, the Director of the Office of Person
 
 Nothing in this chapter shall be construed to prevent the application of any Indian preference law in effect on the day before October 17, 1979, to any function or office transferred by this chapter and subject to any such law on the day before October 17, 1979. Any function or office transferred by this chapter and subject to any such law shall continue to be subject to any such law.
 
-(Pub. L. 96–88, title IV, §401, Oct. 17, 1979, 93 Stat. 681; Pub. L. 99–145, title XII, §1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 99–498, title XIV, §1401(d), Oct. 17, 1986, 100 Stat. 1597; Pub. L. 103–382, title II, §271(a)(3)(A), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–279, title IV, §403(3), Nov. 5, 2002, 116 Stat. 1985.)
+(Pub. L. 96–88, title IV, §401, Oct. 17, 1979, 93 Stat. 681; Pub. L. 99–145, title XII, §1204(a)(1),Nov. 8, 1985, 99 Stat. 720; Pub. L. 99–498, title XIV, §1401(d), Oct. 17, 1986, 100 Stat. 1597; Pub. L. 103–382, title II, §271(a)(3)(A), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–279, title IV, §403(3), Nov. 5, 2002, 116 Stat. 1985.)
 
 #### <b>Editorial Notes</b>
 

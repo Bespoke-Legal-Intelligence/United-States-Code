@@ -2,53 +2,151 @@
 
 (a)
 
-In General.—The Secretary of Transportation, acting through the Maritime Administrator, shall engage in the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the maritime transportation system through the use of public vessels under the control of the Maritime Administration or private vessels under United States registry, and through partnerships and cooperative efforts with academic, public, private, and nongovernmental entities and facilities.
+Emerging Marine Technologies and Practices.—
+
+&emsp;(1)
+
+In general.—The Secretary of Transportation, acting through the Maritime Administrator, shall engage in or support the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the maritime transportation system through eligible entities.
+
+&emsp;(2)
+
+Components.—Under this subsection, the Secretary of Transportation shall identify, study, evaluate, test, demonstrate, improve, or support efforts related to, emerging marine technologies and practices to improve—
+
+&emsp;&emsp;(A) environmental performance to meet United States Federal and international standards and guidelines, including—
+
+&emsp;&emsp;&emsp;(i) reducing air emissions, water emissions, or other ship discharges;
+
+&emsp;&emsp;&emsp;(ii) increasing fuel economy or the use of alternative fuels and alternative energy (including the use of shore power); or
+
+&emsp;&emsp;&emsp;(iii) controlling aquatic invasive species; or
+
+&emsp;&emsp;&emsp;(iv) reducing incidental vessel-generated underwater noise, such as noise from propeller cavitation or hydrodynamic flow; and
+
+&emsp;&emsp;(B) the efficiency and safety of domestic maritime industries.
+
+&emsp;(3)
+
+Coordination.—Coordination with other Federal agencies or with State, local, or Tribal governments, as appropriate, under paragraph (2)(B) may include—
+
+&emsp;&emsp;(A) activities that are associated with the development or approval of validation and testing regimes; and
+
+&emsp;&emsp;(B) certification or validation of emerging technologies or practices that demonstrate significant environmental or other benefits to domestic maritime industries.
+
+&emsp;(4)
+
+Assistance.—The Secretary of Transportation may accept gifts, or enter into cooperative agreements, contracts, or other agreements with eligible entities to carry out the activities authorized under this subsection.
+
+&emsp;(5)
+
+Grants.—Subject to the availability of appropriations, the Maritime Administrator, may establish and carry out a competitive grant program to award grants to eligible entities for projects in the United States consistent with the goals of this subsection to study, evaluate, test, demonstrate, or apply technologies and practices to improve environmental performance.
 
 (b)
 
-Components.—Under this section, the Secretary of Transportation shall identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices to improve—
-
-&emsp;(1) environmental performance to meet United States Federal and international standards and guidelines, including—
-
-&emsp;&emsp;(A) reducing air emissions, water emissions, or other ship discharges;
-
-&emsp;&emsp;(B) increasing fuel economy or the use of alternative fuels and alternative energy (including the use of shore power); or
-
-&emsp;&emsp;(C) controlling aquatic invasive species; or
-
-&emsp;&emsp;(D) reducing propeller cavitation; and
-
-&emsp;(2) the efficiency and safety of domestic maritime industries.
-
-(c)
-
-Coordination.—Coordination under subsection (b)(2) may include—
-
-&emsp;(1) activities that are associated with the development or approval of validation and testing regimes; and
-
-&emsp;(2) certification or validation of emerging technologies or practices that demonstrate significant environmental or other benefits to domestic maritime industries.
-
-(d)
-
-Assistance.—The Secretary of Transportation may accept gifts, or enter into cooperative agreements, contracts, or other agreements with academic, public, private, and nongovernmental entities and facilities to carry out the activities authorized under subsection (a).
-
-(e)
-
-Uses.—The results of activities conducted under subsection (b)(1) shall be used to inform—
+Uses.—The results of activities conducted under this section shall be used to inform—
 
 &emsp;(1) the policy decisions of the United States related to domestic regulations; and
 
 &emsp;(2) the position of the United States on matters before the International Maritime Organization.
 
-(f)
+(c)
 
-Limitations on the Use of Funds.—Not more than three percent of the funds appropriated to carry out this section may be used for administrative purposes.
+Vessels.—Activities carried out under a grant or cooperative agreement made under this section may be conducted on public vessels under the control of the Maritime Administration, upon approval of the Maritime Administrator.
 
-(Added Pub. L. 112–213, title IV, §403(a), Dec. 20, 2012, 126 Stat. 1569; amended Pub. L. 116–92, div. C, title XXXV, §3503, Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8504(b), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 117–81, div. C, title XXXV, §3514, Dec. 27, 2021, 135 Stat. 2243.)
+(d)
+
+Eligible Entity Defined.—In this section, the term "eligible entity" means—
+
+&emsp;(1) a private entity, including a nonprofit organization;
+
+&emsp;(2) a State, regional, or local government or entity, including special districts;
+
+&emsp;(3) an Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)) or a consortium of Indian Tribes;
+
+&emsp;(4) an institution of higher education as defined under section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002); or
+
+&emsp;(5) a partnership or collaboration of entities described in paragraphs (1) through (4).
+
+(e)
+
+Center for Maritime Innovation.—
+
+&emsp;(1)
+
+In general.—The Secretary of Transportation shall, through a cooperative agreement, establish a United States Center for MaritimeInnovation (referred to in this subsection as the "Center") to support the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the maritime transportation system.
+
+&emsp;(2)
+
+Selection.—The Center shall be—
+
+&emsp;&emsp;(A) selected through a competitive process of eligible entities, and if a private entity, a domestic entity;
+
+&emsp;&emsp;(B) based in the United States with technical expertise in emerging marine technologies and practices related to the maritime transportation system; and
+
+&emsp;&emsp;(C) located in close proximity to eligible entities with expertise in United States emerging marine technologies and practices, including the use of alternative fuels and the development of both vessel and shoreside infrastructure.
+
+&emsp;(3)
+
+Coordination.—The Secretary of Transportation shall coordinate with other agencies critical for science, research, and regulation of emerging marine technologies for the maritime sector, including the Department of Energy, the Environmental Protection Agency, the National Science Foundation, and the Coast Guard, when establishing the Center.
+
+&emsp;(4)
+
+Functions.—The Center shall—
+
+&emsp;&emsp;(A) support eligible entities regarding the development and use of clean energy and necessary infrastructure to support the deployment of clean energy on vessels of the United States;
+
+&emsp;&emsp;(B) monitor and assess, on an ongoing basis, the current state of knowledge regarding emerging marine technologies in the United States;
+
+&emsp;&emsp;(C) identify any significant gaps in emerging marine technologies research specific to the United States maritime industry, and seek to fill those gaps;
+
+&emsp;&emsp;(D) conduct research, development, testing, and evaluation for equipment, technologies, and techniques to address the components under subsection (a)(2);
+
+&emsp;&emsp;(E) provide—
+
+&emsp;&emsp;&emsp;(i) guidance on best available technologies;
+
+&emsp;&emsp;&emsp;(ii) technical analysis;
+
+&emsp;&emsp;&emsp;(iii) assistance with understanding complex regulatory requirements; and
+
+&emsp;&emsp;&emsp;(iv) documentation of best practices in the maritime industry, including training and informational webinars on solutions for the maritime industry; and
+
+&emsp;&emsp;(F) work with academic and private sector response training centers and Domestic Maritime Workforce Training and Education Centers of Excellence to develop maritime strategies applicable to various segments of the United States maritime industry, including the inland, deep water, and coastal fleets.
+
+(Added Pub. L. 112–213, title IV, §403(a), Dec. 20, 2012, 126 Stat. 1569; amended Pub. L. 116–92, div. C, title XXXV, §3503, Dec. 20, 2019, 133 Stat. 1969; Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8504(b), Jan. 1, 2021, 134 Stat. 4747; Pub. L. 117–81, div. C, title XXXV, §3514, Dec. 27, 2021, 135 Stat. 2243; Pub. L. 117–263, div. C, title XXXV, §3543(a), Dec. 23, 2022, 136 Stat. 3098.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a). Pub. L. 117–263, §3543(a)(1), designated existing provisions as par. (1) and inserted subsec. heading.
+
+Subsec. (a)(1). Pub. L. 117–263, §3543(a)(7)(A), inserted "or support" after "engage in" and substituted "eligible entities." for "the use of public vessels under the control of the Maritime Administration or private vessels under United States registry, and through partnerships and cooperative efforts with academic, public, private, and nongovernmental entities and facilities."
+
+Subsec. (a)(2). Pub. L. 117–263, §3543(a)(4), (7)(B), redesignated subsec. (b) as par. (2), realigned margins, and substituted "this subsection" for "this section" and "improve, or support efforts related to," for "or improve" in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 117–263, §3543(a)(4), (7)(C), redesignated subsec. (c) as par. (3), realigned margins, and substituted "with other Federal agencies or with State, local, or Tribal governments, as appropriate, under paragraph (2)(B) may include" for "under subsection (b)(2) may include" in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 117–263, §3543(a)(4), (7)(D), redesignated subsec. (d) as par. (4), realigned margins, and substituted "eligible entities" for "academic, public, private, and nongovernmental entities and facilities" and "this subsection" for "subsection (a)".
+
+Subsec. (a)(5). Pub. L. 117–263, §3543(a)(7)(E), added par. (5).
+
+Subsec. (b). Pub. L. 117–263, §3543(a)(8), substituted "this section" for "subsection (b)(1)" in introductory provisions.
+
+Pub. L. 117–263, §3543(a)(5), redesignated subsec. (e) as (b). Former subsec. (b) redesignated (a)(2).
+
+Pub. L. 117–263, §3543(a)(2)(B), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, and realigned margins.
+
+Subsec. (b)(1). Pub. L. 117–263, §3543(a)(2)(A), redesignated subpars. (A) to (D) as cls. (i) to (iv), respectively, realigned margins, and substituted "incidental vessel-generated underwater noise, such as noise from propeller cavitation or hydrodynamic flow" for "propeller cavitation" in cl. (iv).
+
+Subsec. (c). Pub. L. 117–263, §3543(a)(9), added subsec. (c). Former subsec. (c) redesignated (a)(3).
+
+Pub. L. 117–263, §3543(a)(3), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, and realigned margins.
+
+Subsec. (d). Pub. L. 117–263, §3543(a)(9), added subsec. (d). Former subsec. (d) redesignated (a)(4).
+
+Subsec. (e). Pub. L. 117–263, §3543(a)(9), added subsec. (e). Former subsec. (e) redesignated (b).
+
+Subsec. (f). Pub. L. 117–263, §3543(a)(6), struck out subsec. (f). Text read as follows: "Not more than three percent of the funds appropriated to carry out this section may be used for administrative purposes."
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "maritime transportation" for "marine transportation".
 
@@ -56,9 +154,15 @@ Subsecs. (e), (f). Pub. L. 117–81 added subsec. (e) and redesignated former su
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92, §3503(1), substituted "The Secretary of Transportation, acting through the Maritime Administrator, shall engage in the study" for "The Secretary of Transportation may engage in the environmental study".
 
-Subsec. (b). Pub. L. 116–92, §3503(2), in introductory provisions of par. (1), substituted "shall identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices to improve—" for "may—" and "environmental performance to meet United States Federal and international standards and guidelines, including—" for "(1) identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices that are likely to achieve environmental improvements by—", in subpar. (C) of par. (1), substituted "species; or" for "species; and", added subpar. (D) of par. (1), and, in par. (2), substituted "the efficiency and safety of domestic maritime industries." for "coordinate with the Environmental Protection Agency, the Coast Guard, and other Federal, State, local, or tribal agencies, as appropriate."
+Subsec. (b). Pub. L. 116–92, §3503(2), in introductory provisions of par. (1), substituted "shall identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices to improve—" for "may—" and "environmental performance to meet United States Federal and international standards and guidelines, including—" for "(1) identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices that are likely to achieveenvironmental improvements by—", in subpar. (C) of par. (1), substituted "species; or" for "species; and", added subpar. (D) of par. (1), and, in par. (2), substituted "the efficiency and safety of domestic maritime industries." for "coordinate with the Environmental Protection Agency, the Coast Guard, and other Federal, State, local, or tribal agencies, as appropriate."
 
 Subsec. (c)(2). Pub. L. 116–92, §3503(3), substituted "or other benefits to domestic maritime industries" for "benefits".
 
 Subsec. (e). Pub. L. 116–92, §3503(4), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Deadline for Implementation
+
+Pub. L. 117–263, div. C, title XXXV, §3543(b), Dec. 23, 2022, 136 Stat. 3100, provided that: "The Secretary of Transportation shall establish the United States Center for Maritime Innovation under subsection (e) of section 50307 of title 46, United States Code, as added by subsection (a), by not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\]."
 

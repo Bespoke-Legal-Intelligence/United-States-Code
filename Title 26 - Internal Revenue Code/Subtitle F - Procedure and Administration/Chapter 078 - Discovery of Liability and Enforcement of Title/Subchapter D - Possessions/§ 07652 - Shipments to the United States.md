@@ -28,11 +28,11 @@
 
 &emsp;The Secretary shall determine the amount of all taxes imposed by, and collected under the internal revenue laws of the United States on articles produced in the Virgin Islands and transported to the United States. The amount so determined less 1 percent and less the estimated amount of refunds or credits shall be subject to disposition as follows:
 
-&emsp;&emsp;(A) The payment of an estimated amount shall be made to the government of the Virgin Islands before the commencement of each fiscal year as set forth in section 4(c)(2) of the Act entitled "An Act to authorize appropriations for certain insular areas of the United States, and for other purposes", approved August 18, 1978 (48 U.S.C. 1645), as in effect on the date of the enactment of the Trade and Development Act of 2000. The payment so made shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.
+&emsp;&emsp;(A) The payment of an estimated amount shall be made to the government of the Virgin Islands before the commencement of each fiscal year as set forth in section 4(c)(2) of the Act entitled "An Act to authorize appropriations for certain insular areas of the United States, and for other purposes", approved August 18, 1978 (48 U.S.C. 1645), as ineffect on the date of the enactment of the Trade and Development Act of 2000. The payment so made shall constitute a separate fund in the treasury of the Virgin Islands and may be expended as the legislature may determine.
 
 &emsp;&emsp;(B) Any amounts remaining shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
-> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendar quarters immediately preceding the beginning of that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneys available for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year whichwould cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
+> &emsp;If at the end of any fiscal year the total of the Federal contribution made under subparagraph (A) with respect to the four calendar quarters immediately preceding the beginning of that fiscal year has not been obligated or expended for an approved purpose, the balance shall continue available for expenditure during any succeeding fiscal year, but only for emergency relief purposes and essential public projects. The aggregate amount of moneys available for expenditure for emergency relief purposes and essential public projects only shall not exceed the sum of $5,000,000 at the end of any fiscal year. Any unobligated or unexpended balance of the Federal contribution remaining at the end of a fiscal year which would cause the moneys available for emergency relief purposes and essential public projects only to exceed the sum of $5,000,000 shall thereupon be transferred and paid over to the Treasury of the United States as miscellaneous receipts.
 
 #### (c) Articles containing distilled spirits
 
@@ -90,10 +90,6 @@ For purposes of subsections (a)(3) and (b)(3)—
 
 &emsp;Paragraph (1) shall not apply with respect to any rum subject to tax under subsection (a) or (b).
 
-#### (5) Determination of amount of taxes collected
-
-&emsp;For purposes of this subsection, the amount of taxes collected under section 5001(a)(1) shall be determined without regard to section 5001(c).
-
 #### (f) Limitation on cover over of tax on distilled spirits
 
 For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
@@ -122,21 +118,11 @@ No amount shall be covered into the treasury of Puerto Rico or the Virgin Island
 
 &emsp;(2) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21,1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, §602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, §609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, §11125(b)(22), Aug. 10, 2005, 119 Stat. 1957; Pub. L. 109–432, div. A, title I, §114(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §308(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §755(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §329(a), Jan. 2, 2013, 126 Stat. 2335; Pub. L. 113–295, div. A, title I, §140(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, §172(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–97, title I, §13807(b), Dec. 22, 2017, 131 Stat. 2176; Pub. L. 115–123, div. D, title II, §41102(a)(1), (b)(1), Feb. 9, 2018, 132 Stat. 155; Pub. L. 116–260, div. EE, title I, §107(a)(2), Dec. 27, 2020, 134 Stat. 3046.)
+#### (i) Determination of taxes collected
 
-#### Amendment of Section
+For purposes of subsections (a)(3), (b)(3), and (e)(1), refunds under section 5001(c)(4) shall not be taken into account as a refund, and the amount of taxes imposed by and collected under section 5001(a)(1) shall be determined without regard to section 5001(c).
 
-<i>Pub. L. 116–260, div. EE, title I, §107(a)(2), (3), Dec. 27, 2020, 134 Stat. 3046, provided that, applicable to distilled spirits brought into the United States and removed after Dec. 31, 2022, this section is amended:</i>
-
-<i>(1) by adding at the end the following new subsection:</i>
-
-#### <i>"(i) Determination of taxes collected</i>
-
-<i>"For purposes of subsections (a)(3), (b)(3), and (e)(1), refunds under section 5001(c)(4) shall not be taken into account as a refund, and the amount of taxes imposed by and collected under section 5001(a)(1) shall be determined without regard to section 5001(c)."; and</i>
-
-<i>(2) by striking paragraph (5) of subsection (e).</i>
-
-<i>See 2020 Amendment notes below.</i>
+(Aug. 16, 1954, ch. 736, 68A Stat. 907; Pub. L. 85–859, title II, §204(17), (18), Sept. 2, 1958, 72 Stat. 1430; Pub. L. 89–44, title VIII, §808(b)(3), June 21, 1965, 79 Stat. 164; Pub. L. 94–202, §10(a), Jan. 2, 1976, 89 Stat. 1141; Pub. L. 94–455, title XIX, §1906(a)(55), (b) (13)(A), Oct. 4, 1976, 90 Stat. 1832, 1834; Pub. L. 98–67, title II, §221(a), Aug. 5, 1983, 97 Stat. 395; Pub. L. 98–213, §5(c), Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–369, div. B, title VI, §§2681(a), 2682(a), July 18, 1984, 98 Stat. 1172, 1174; Pub. L. 99–514, title XVIII, §1879(i)(1), Oct. 22, 1986, 100 Stat. 2907; Pub. L. 100–418, title I, §1214(p)(1), Aug. 23, 1988, 102 Stat. 1159; Pub. L. 103–66, title XIII, §13227(e), Aug. 10, 1993, 107 Stat. 494; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; Pub. L. 106–170, title V, §512(a), Dec. 17, 1999, 113 Stat. 1924; Pub. L. 106–200, title VI, §602(b), (c), May 18, 2000, 114 Stat. 305, 306; Pub. L. 107–147, title VI, §609(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §305(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–59, title XI, §11125(b)(22), Aug. 10, 2005, 119 Stat. 1957; Pub. L. 109–432, div. A, title I, §114(a), Dec. 20, 2006, 120 Stat. 2940; Pub. L. 110–343, div. C, title III, §308(a), Oct. 3, 2008, 122 Stat. 3869; Pub. L. 111–312, title VII, §755(a), Dec. 17, 2010, 124 Stat. 3322; Pub. L. 112–240, title III, §329(a), Jan. 2, 2013, 126 Stat. 2335; Pub. L. 113–295, div. A, title I, §140(a), Dec. 19, 2014, 128 Stat. 4020; Pub. L. 114–113, div. Q, title I, §172(a), Dec. 18, 2015, 129 Stat. 3071; Pub. L. 115–97, title I, §13807(b), Dec. 22, 2017, 131 Stat. 2176; Pub. L. 115–123, div. D, title II, §41102(a)(1), (b)(1), Feb. 9, 2018, 132 Stat. 155; Pub. L. 116–260, div. EE, title I, §107(a)(2), Dec. 27, 2020, 134 Stat. 3046.)
 
 #### <b>Editorial Notes</b>
 

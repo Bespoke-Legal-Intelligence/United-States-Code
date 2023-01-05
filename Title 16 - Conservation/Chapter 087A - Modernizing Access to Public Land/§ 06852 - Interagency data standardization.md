@@ -1,0 +1,10 @@
+### §6852. Interagency data standardization
+
+Not later than 30 months after April 29, 2022, the Secretaries shall jointly develop and adopt interagency standards to ensure compatibility and interoperability among applicable Federal databases with respect to the collection and dissemination of data—
+
+&emsp;(1) relating to public outdoor recreational use on Federal land; and
+
+&emsp;(2) used to depict locations at which recreation uses are available to the public.
+
+(Pub. L. 117–114, §3, Apr. 29, 2022, 136 Stat. 1175.)
+

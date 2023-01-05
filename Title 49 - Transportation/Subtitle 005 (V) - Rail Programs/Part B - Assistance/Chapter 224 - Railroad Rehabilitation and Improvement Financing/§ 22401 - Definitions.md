@@ -94,7 +94,7 @@ Substantial completion.—The term "substantial completion" means—
 
 &emsp;&emsp;(A) the opening of a project to passenger or freight traffic; or
 
-&emsp;&emsp;(B) a comparable event, as determined by the Secretary and specified in the terms ofthe direct loan or loan guarantee provided by the Secretary.
+&emsp;&emsp;(B) a comparable event, as determined by the Secretary and specified in the terms of the direct loan or loan guarantee provided by the Secretary.
 
 (Added and amended Pub. L. 117–58, div. B, title I, §21301(a)(2), (3), (c), Nov. 15, 2021, 135 Stat. 683.)
 

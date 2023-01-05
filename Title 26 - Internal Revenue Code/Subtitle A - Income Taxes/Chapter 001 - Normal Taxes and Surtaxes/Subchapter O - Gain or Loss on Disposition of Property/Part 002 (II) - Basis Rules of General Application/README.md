@@ -29,7 +29,7 @@
 
 <b>1980</b>—Pub. L. 96–589, §6(h)(2), Dec. 24, 1980, 94 Stat. 3410, struck out item 1018 "Adjustments of capital structure before September 22, 1938".
 
-Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed section 2005(e)(1) of Pub. L. 94–455 and the amendment made thereby. See 1986 Amendment note below.
+Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed section 2005(e)(1) of Pub. L. 94–455 and theamendment made thereby. See 1986 Amendment note below.
 
 <b>1978</b>—Pub. L. 95–600, title V, §515(5), Nov. 6, 1978, 92 Stat. 2884, substituted "December 31, 1979" for "December 31, 1976" in item 1023.
 

@@ -158,7 +158,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In order to provide experience in intergovernmental collaboration, the head of an agency with rural responsibilities that elects to participate in the Partnership may,and is encouraged to, detail to the Secretary for the support of the Partnership 1 or more employees of the agency with rural responsibilities without reimbursement for a period of up to 1 year.
+&emsp;&emsp;In order to provide experience in intergovernmental collaboration, the head of an agency with rural responsibilities that elects to participate in the Partnership may, and is encouraged to, detail to the Secretary for the support of the Partnership 1 or more employees of the agency with rural responsibilities without reimbursement for a period of up to 1 year.
 
 #### (B) Civil service status
 

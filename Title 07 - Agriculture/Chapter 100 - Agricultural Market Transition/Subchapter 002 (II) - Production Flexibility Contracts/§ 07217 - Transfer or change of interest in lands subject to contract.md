@@ -10,7 +10,7 @@ At the request of the transferee or owner, the Secretary may modify the contract
 
 #### (c) Exception
 
-If an owner or producer who is entitled to a contract payment dies, becomes incompetent, or is otherwise unable to receive the contract payment, the Secretary shall make the payment, in accordance with regulations prescribed by the Secretary.
+If an owner or producer who is entitled to a contract payment dies, becomes incompetent, or is otherwise unable to receive the contract payment, the Secretary shall make the payment, inaccordance with regulations prescribed by the Secretary.
 
 (Pub. L. 104–127, title I, §117, Apr. 4, 1996, 110 Stat. 904.)
 

@@ -28,7 +28,7 @@ The Office of Trade shall—
 
 &emsp;(8) direct the administration of customs revenue functions as otherwise provided by law or delegated by the Commissioner of U.S. Customs and Border Protection; and
 
-&emsp;(9) prepare an annual report to be submitted to the Committee on Finance of the Senateand the Committee on Ways and Means of the House of Representatives not later than June 1, 2016, and March 1 of each calendar year thereafter that includes—
+&emsp;(9) prepare an annual report to be submitted to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives not later than June 1, 2016, and March 1 of each calendar year thereafter that includes—
 
 &emsp;&emsp;(A) a summary of the changes to customs policies and regulations adopted by U.S. Customs and Border Protection during the preceding calendar year; and
 
@@ -40,7 +40,7 @@ The Office of Trade shall—
 
 #### (A) Transfer
 
-&emsp;&emsp;Not later than 30 days after February 24, 2016, the Commissioner of U.S. Customs and Border Protection shall transfer the assets, functions, personnel, and liabilities of the Office of International Trade to the Office of Trade established under subsection (b).<sup>1</sup>
+&emsp;&emsp;Not later than 30 days after February 24, 2016, the Commissioner of U.S. Customs and Border Protection shall transfer the assets, functions, personnel, and liabilities of theOffice of International Trade to the Office of Trade established under subsection (b).<sup>1</sup>
 
 #### (B) Elimination
 

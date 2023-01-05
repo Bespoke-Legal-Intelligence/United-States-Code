@@ -28,7 +28,7 @@ The Secretary shall support development of models of emerging technologies and s
 
 #### (3) Severe events
 
-&emsp;The Secretary shall prioritize enhancing cyber and physical situational awareness ofthe electric grid during adverse manmade and naturally-occurring events.
+&emsp;The Secretary shall prioritize enhancing cyber and physical situational awareness of the electric grid during adverse manmade and naturally-occurring events.
 
 #### (d) Operation and controls research and development
 
@@ -56,7 +56,7 @@ In carrying out the program under subsection (a), the Secretary shall support re
 
 &emsp;(3) wireless sensors to improve safety of underground transmission and distribution lines and to predict, identify, detect, and transmit information about degradation and faults; and
 
-&emsp;(4) methods for improving the resilience and reliability of underground transmission and distribution lines, including technologies and techniques that can mitigate the impact of flooding, storm surge, and seasonal climate cycles on degradation of and damage to underground transmission and distribution lines.
+&emsp;(4) methods for improving the resilience and reliability of underground transmission anddistribution lines, including technologies and techniques that can mitigate the impact of flooding, storm surge, and seasonal climate cycles on degradation of and damage to underground transmission and distribution lines.
 
 #### (g) Grid architecture and scenario development
 

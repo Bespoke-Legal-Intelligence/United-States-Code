@@ -48,7 +48,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
 #### Open Enrollment Season for Participants in the Central Intelligence Agency Retirement and Disability System
 
-The Director to provide an open enrollment period for employee participants in the Central Intelligence Agency Retirement and Disability System to elect the Federal Employees' Retirement System, see Ex. Ord. No. 13105, §2, Nov. 2, 1998, 63 F.R. 60201, set out as a note under section 4067 of Title 22, Foreign Relations and Intercourse.
+The Director to provide an open enrollment period for employee participants in the Central IntelligenceAgency Retirement and Disability System to elect the Federal Employees' Retirement System, see Ex. Ord. No. 13105, §2, Nov. 2, 1998, 63 F.R. 60201, set out as a note under section 4067 of Title 22, Foreign Relations and Intercourse.
 
 #### Ex. Ord. No. 13236. Waiver of Dual Compensation Provisions
 
@@ -56,7 +56,7 @@ Ex. Ord. No. 13236, Nov. 27, 2001, 66 F.R. 59671, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 292 of the Central Intelligence Agency Retirement Act of 1964 \[Central Intelligence Agency Retirement Act\], as amended (50 U.S.C. 2141), and in order to conform the Central Intelligence Agency Retirement and Disability System to the Civil Service Retirement and Disability System, it is hereby ordered as follows:
 
-Section 1. The Director of Central Intelligence may waive the application of the dual compensation reduction provisions of sections 271 and 273 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2111 and 2113) for an employee serving on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances. Employees who receive both salary and annuity pursuant to this authority may not earn additional retirement benefitsduring this period of employment. This authority may be delegated as appropriate.
+Section 1. The Director of Central Intelligence may waive the application of the dual compensation reduction provisions of sections 271 and 273 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2111 and 2113) for an employee serving on a temporary basis, but only if, and for so long as, the authority is necessary due to an emergency involving a direct threat to life or property or other unusual circumstances. Employees who receive both salary and annuity pursuant to this authority may not earn additional retirement benefits during this period of employment. This authority may be delegated as appropriate.
 
 Sec. 2. Nothing contained in this order is intended to create, nor does it create, any right, benefit, or privilege, substantive or procedural, enforceable at law by a party against the United States, its agencies, officers, employees, or any other person.
 

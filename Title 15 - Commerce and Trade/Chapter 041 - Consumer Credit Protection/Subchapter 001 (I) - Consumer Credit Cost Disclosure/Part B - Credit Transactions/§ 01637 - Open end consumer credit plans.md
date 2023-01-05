@@ -62,7 +62,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(C)(i) Subject to clause (ii), in making the disclosures under subparagraph (B), the creditor shall apply the interest rate or rates in effect on the date on which the disclosure is made until the date on which the balance would be paid in full.
 
-&emsp;(ii) If the interest rate in effect on the date on which the disclosure is made is a temporary rate that will change under a contractual provision applying an index or formula for subsequent interest rate adjustment, the creditor shall apply the interest rate in effect on the date on which the disclosure is made for as long as that interest rate will apply under that contractual provision, and then apply an interest rate based on the index or formula in effect on the applicable billing date.
+&emsp;(ii) If the interest rate in effect on the date on which the disclosure is made is a temporary rate that will change under a contractual provision applying an index or formula for subsequent interest rate adjustment, the creditor shall apply the interest rate in effect on the date on which the disclosure is made for as long as that interest rate will applyunder that contractual provision, and then apply an interest rate based on the index or formula in effect on the applicable billing date.
 
 &emsp;(D) All of the information described in subparagraph (B) shall—
 
@@ -132,7 +132,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (iv) Balance calculation method
 
-&emsp;&emsp;&emsp;(I) The name of the balance calculation method used in determining the balance on which the finance charge is computed if the method used has been defined by the Bureau, or a detailed explanation of the balance calculation method used if the method has not been so defined.
+&emsp;&emsp;&emsp;(I) The name of the balance calculation method used in determining the balanceon which the finance charge is computed if the method used has been defined by the Bureau, or a detailed explanation of the balance calculation method used if the method has not been so defined.
 
 &emsp;&emsp;&emsp;(II) In prescribing regulations to carry out this clause, the Bureau shall define and name not more than the 5 balance calculation methods determined by the Bureau to be the most commonly used methods.
 
@@ -194,7 +194,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;&emsp;(II) the information contained in the application or solicitation is subject to change after such date; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the applicant should contact the creditor for information on any changein the information contained in the application or solicitation since it was printed;
+&emsp;&emsp;&emsp;&emsp;(III) the applicant should contact the creditor for information on any change in the information contained in the application or solicitation since it was printed;
 
 &emsp;&emsp;&emsp;(iii) a clear and conspicuous disclosure of the date the application or solicitation was printed; and
 
@@ -276,7 +276,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(iii) a clear and conspicuous disclosure of the date the application or solicitation was printed; and
 
-&emsp;&emsp;&emsp;(iv) a disclosure, in a conspicuous and prominent location on the application orsolicitation, of a toll free telephone number or a mailing address at which the applicant may contact the creditor to obtain any change in the information provided in the application or solicitation since it was printed.
+&emsp;&emsp;&emsp;(iv) a disclosure, in a conspicuous and prominent location on the application or solicitation, of a toll free telephone number or a mailing address at which the applicant may contact the creditor to obtain any change in the information provided in the application or solicitation since it was printed.
 
 #### (D) Issuers of charge cards which provide access to open end consumer credit plans
 
@@ -292,7 +292,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (E) Charge card defined
 
-&emsp;&emsp;For the purposes of this subsection, the term "charge card" means a card, plate, or other single credit device that may be used from time to time to obtain credit which is not subject to a finance charge.
+&emsp;&emsp;For the purposes of this subsection, the term "charge card" means a card, plate, orother single credit device that may be used from time to time to obtain credit which is not subject to a finance charge.
 
 #### (5) Regulatory authority of the Bureau
 
@@ -424,7 +424,7 @@ If the amount of any fee required to be disclosed by a credit or charge card iss
 
 #### (3) Right to discontinue guarantee or insurance
 
-&emsp;The notices required under paragraphs (1) and (2) shall each include a statement that the consumer has the option to discontinue the insurance or guarantee.
+&emsp;The notices required under paragraphs (1) and (2) shall each include a statement that theconsumer has the option to discontinue the insurance or guarantee.
 
 #### (4) No preemption of State law
 
@@ -478,7 +478,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (1) In general
 
-&emsp;In the case of any credit card account under an open end consumer credit plan under which an over-the-limit fee may be imposed by thecreditor for any extension of credit in excess of the amount of credit authorized to be extended under such account, no such fee shall be charged, unless the consumer has expressly elected to permit the creditor, with respect to such account, to complete transactions involving the extension of credit under such account in excess of the amount of credit authorized.
+&emsp;In the case of any credit card account under an open end consumer credit plan under which an over-the-limit fee may be imposed by the creditor for any extension of credit in excess of the amount of credit authorized to be extended under such account, no such fee shall be charged, unless the consumer has expressly elected to permit the creditor, with respect to such account, to complete transactions involving the extension of credit under such account in excess of the amount of credit authorized.
 
 #### (2) Disclosure by creditor
 
@@ -740,7 +740,7 @@ Pub. L. 111–24, title II, §201(c), May 22, 2009, 123 Stat. 1745, provided tha
 
 "(1)
 
-In general.—Not later than 6 months after the date of enactment of this Act \[May 22, 2009\], the Board \[of Governors of the Federal Reserve System\] shall issue guidelines, by rule, in consultation with the Secretary of the Treasury, for the establishment and maintenance by creditors of a toll-free telephone number for purposes of providing information about accessing credit counseling and debt management services, as required under section 127(b)(11)(B)(iv) of the Truth in Lending Act \[15 U.S.C. 1637(b)(11)(B)(iv)\], as added by this section.
+In general.—Not later than 6 months after the date of enactment of this Act \[May 22, 2009\], the Board \[of Governors of the Federal Reserve System\] shall issue guidelines, by rule, in consultation with the Secretary of the Treasury, for the establishment and maintenance by creditors of a toll-free telephone number for purposes of providing information about accessing credit counseling and debt management services, as required under section 127(b)(11)(B)(iv) of the Truth inLending Act \[15 U.S.C. 1637(b)(11)(B)(iv)\], as added by this section.
 
 "(2)
 
@@ -790,7 +790,7 @@ Pub. L. 111–24, title III, §305(b), May 22, 2009, 123 Stat. 1750, provided th
 
 "(1)
 
-Study.—The Comptroller General of the United States shall, from time to time, review the reports submitted by creditors under section 127(r) of the Truth in Lending Act \[15 U.S.C. 1637(r)\], as added by this section,and the marketing practices of creditors to determine the impact that college affinity card agreements and college student card agreements have on credit card debt.
+Study.—The Comptroller General of the United States shall, from time to time, review the reports submitted by creditors under section 127(r) of the Truth in Lending Act \[15 U.S.C. 1637(r)\], as added by this section, and the marketing practices of creditors to determine the impact that college affinity card agreements and college student card agreements have on credit card debt.
 
 "(2)
 

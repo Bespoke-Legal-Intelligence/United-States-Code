@@ -16,7 +16,7 @@ In leading the development of plans for cyber defense operations pursuant to sub
 
 &emsp;(4) ensure that plans for cyber defense operations, as appropriate, are responsive to potential adversary activity conducted in response to United States offensive cyber operations;
 
-&emsp;(5) facilitate the exercise of plans for cyber defense operations, including by developingand modeling scenarios based on an understanding of adversary threats to, vulnerability of, and potential consequences of disruption or compromise of critical infrastructure;
+&emsp;(5) facilitate the exercise of plans for cyber defense operations, including by developing and modeling scenarios based on an understanding of adversary threats to, vulnerability of, and potential consequences of disruption or compromise of critical infrastructure;
 
 &emsp;(6) coordinate with and, as necessary, support relevant Federal departments and agencies in the establishment of procedures, development of additional plans, including for offensive and intelligence activities in support of cyber defense operations, and creation of agreements necessary for the rapid execution of plans for cyber defense operations when a cybersecurity risk or incident or malicious cyber operation has been identified; and
 
@@ -48,7 +48,7 @@ In carrying out its responsibilities described in subsection (b), the Office sha
 
 &emsp;(1) State, local, federally-recognized Tribal, and territorial governments;
 
-&emsp;(2) information sharing and analysis organizations, including information sharing and analysis centers;
+&emsp;(2) Information Sharing and Analysis Organizations, including information sharing and analysis centers;
 
 &emsp;(3) owners and operators of critical information systems;
 
@@ -62,29 +62,21 @@ The Secretary and the head of a Federal department or agency referred to in subs
 
 #### (f) Definitions
 
-In this section:
+In this section, the term "cyber defense operation" means the defensive activities performed for a cybersecurity purpose.
 
-#### (1) Cyber defense operation
-
-&emsp;The term "cyber defense operation" means defensive activities performed for a cybersecurity purpose.
-
-#### (2) Cybersecurity purpose
-
-&emsp;The term "cybersecurity purpose" has the meaning given such term in section 1501 of this title.
-
-#### (3) Cybersecurity risk; incident
-
-&emsp;The terms "cybersecurity risk" and "incident" have the meanings given such terms in section 659 of this title.
-
-#### (4) Information sharing and analysis organization
-
-&emsp;The term "information sharing and analysis organization" has the meaning given such term in section 671(5) of this title.
-
-(Pub. L. 107–296, title XXII, §2216, formerly §2215, as added Pub. L. 116–283, div. A, title XVII, §1715(a), Jan. 1, 2021, 134 Stat. 4092; renumbered §2216 and amended Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(iii), Dec. 27, 2021, 135 Stat. 2061.)
+(Pub. L. 107–296, title XXII, §2216, formerly §2215, as added Pub. L. 116–283, div. A, title XVII, §1715(a), Jan. 1, 2021, 134 Stat. 4092; renumbered §2216 and amended Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(iii), Dec. 27, 2021, 135 Stat. 2061; Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(I), Dec. 23, 2022, 136 Stat. 3660.)
 
 #### <b>Editorial Notes</b>
 
+#### Prior Provisions
+
+A prior section 2216 of Pub. L. 107–296 was renumbered section 2219 and is classified to section 665e of this title.
+
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(2). Pub. L. 117–263, §7143(b)(2)(I)(i), substituted "Information Sharing and Analysis Organizations" for "information sharing and analysis organizations".
+
+Subsec. (f). Pub. L. 117–263, §7143(b)(2)(I)(ii), substituted "section, the term 'cyber defense operation' means the defensive activities performed for a cybersecurity purpose." for "section:" and struck out pars. (1) to (4) which defined cyber defense operation, cybersecurity purpose, cybersecurity risk, incident, and information sharing and analysis organization.
 
 <b>2021</b>—Pub. L. 117–81 reenacted section catchline.
 

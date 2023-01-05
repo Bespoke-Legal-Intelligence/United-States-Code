@@ -2,7 +2,7 @@
 
 #### (a) Minimum required contribution
 
-For purposes of this section and section 1082(a)(2)(A) of this title, except as provided in subsection (f), the term "minimum required contribution" means, with respect to any plan year of a single-employer plan—
+For purposes of this section and section 1082(a)(2)(A) of this title, except as provided insubsection (f), the term "minimum required contribution" means, with respect to any plan year of a single-employer plan—
 
 &emsp;(1) in any case in which the value of plan assets of the plan (as reduced under subsection (f)(4)(B)) is less than the funding target of the plan for the plan year, the sum of—
 
@@ -82,7 +82,7 @@ For purposes of this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The plan sponsor of a plan may elect to have this subparagraph apply to not more than 2 eligible plan years with respect to the plan, except that in the caseof a plan described in section 106 of the Pension Protection Act of 2006, the plan sponsor may only elect to have this subparagraph apply to a plan year beginning in 2011.
+&emsp;&emsp;&emsp;&emsp;The plan sponsor of a plan may elect to have this subparagraph apply to not more than 2 eligible plan years with respect to the plan, except that in the case of a plan described in section 106 of the Pension Protection Act of 2006, the plan sponsor may only elect to have this subparagraph apply to a plan year beginning in 2011.
 
 #### (II) Amortization schedule
 
@@ -144,7 +144,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) such increase shall not result in the amount of such installment exceeding the present value of such installment and all succeeding installments with respect to such base (determined without regard to such increase but after application of clause (ii)), and
 
-&emsp;&emsp;&emsp;(ii) subsequent shortfall amortization installments with respect to such base shall, in reverse order of the otherwise required installments, be reduced to the extent necessary to limit the present value of such subsequent shortfall amortization installments (after application of this paragraph) to the present value of the remaining unamortized shortfall amortization base.
+&emsp;&emsp;&emsp;(ii) subsequent shortfall amortization installments with respect to such base shall, in reverse order of the otherwise required installments, be reduced to the extent necessary to limit the present value of suchsubsequent shortfall amortization installments (after application of this paragraph) to the present value of the remaining unamortized shortfall amortization base.
 
 #### (C) Installment acceleration amount
 

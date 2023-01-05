@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Unauthorized acts.—Anyone who, on or before the last day of the applicable transition period under paragraph (2), and without the consent of the rights owner, engages in covered activity with respect to a sound recording fixed before February 15, 1972, shall be subject to the remedies provided in sections 502 through 505 and 1203 to the same extent as an infringer of copyright or a person that engages in unauthorized activity under chapter 12.
+Unauthorized acts.—Anyone who, on or before the last day of the applicable transitionperiod under paragraph (2), and without the consent of the rights owner, engages in covered activity with respect to a sound recording fixed before February 15, 1972, shall be subject to the remedies provided in sections 502 through 505 and 1203 to the same extent as an infringer of copyright or a person that engages in unauthorized activity under chapter 12.
 
 &emsp;(2)
 
@@ -54,7 +54,7 @@ Certain Authorized Transmissions and Reproductions.—A public performance by me
 
 &emsp;(1) the transmission or reproduction would satisfy the requirements for statutory licensing under section 112(e)(1) or section 114(d)(2), or would be exempt under section 114(d)(1), as the case may be, if the sound recording were fixed on or after February 15, 1972; and
 
-&emsp;(2) the transmitting entity pays the statutory royalty for the transmission or reproduction pursuant to the rates and terms adopted under sections 112(e) and 114(f), and complieswith other obligations, in the same manner as required by regulations adopted by the Copyright Royalty Judges under sections 112(e) and 114(f) for sound recordings that are fixed on or after February 15, 1972, except in the case of a transmission that would be exempt under section 114(d)(1).
+&emsp;(2) the transmitting entity pays the statutory royalty for the transmission or reproduction pursuant to the rates and terms adopted under sections 112(e) and 114(f), and complies with other obligations, in the same manner as required by regulations adopted by the Copyright Royalty Judges under sections 112(e) and 114(f) for sound recordings that are fixed on or after February 15, 1972, except in the case of a transmission that would be exempt under section 114(d)(1).
 
 (c)
 
@@ -82,7 +82,7 @@ Rules of construction.—For purposes of this subsection—
 
 &emsp;&emsp;(B) the fact that a person engaging in the use of a sound recording also engages in commercial activities does not itself necessarily render the use commercial; and
 
-&emsp;&emsp;(C) the fact that a person files notice of a noncommercial use of a sound recording in accordance with the regulations issued under paragraph (3)(B) does not itself affect any limitation on the exclusive rights of a copyright owner described in section 107, 108, 109, 110, or 112(f) as applied to a claim under subsection (a) of this section pursuant to subsection (f)(1)(A) of this section.
+&emsp;&emsp;(C) the fact that a person files notice of a noncommercial use of a sound recording in accordance with the regulations issued under paragraph (3)(B) does not itself affect any limitation on the exclusive rights of a copyright owner described in section 107, 108, 109, 110, or 112(f) as applied to a claim undersubsection (a) of this section pursuant to subsection (f)(1)(A) of this section.
 
 &emsp;(3)
 
@@ -224,7 +224,7 @@ In general.—This section preempts any claim of common law copyright or equival
 
 &emsp;(2)
 
-Rule of construction for common law copyright.—For purposes of paragraph (1), a claim of common law copyright or equivalent right under the laws of any State includes a claim that characterizes conduct subject to that paragraph as an unlawful distribution, act of record piracy, or similar violation.
+Rule of construction for common law copyright.—For purposes of paragraph (1), a claim of common law copyright or equivalentright under the laws of any State includes a claim that characterizes conduct subject to that paragraph as an unlawful distribution, act of record piracy, or similar violation.
 
 &emsp;(3)
 
@@ -324,7 +324,7 @@ Applicability of other provisions.—
 
 &emsp;&emsp;(A)
 
-In general.—Subject to subparagraph (B), no provision of this title shall apply to or limit the remedies available under this section except as otherwise provided in this section.
+In general.—Subject to subparagraph (B), no provision of this title shall apply to or limit the remedies available under thissection except as otherwise provided in this section.
 
 &emsp;&emsp;(B)
 
@@ -398,7 +398,7 @@ Rights owner.—The term "rights owner" means—
 
 #### References in Text
 
-The date of enactment of this section, referred to in subsecs. (a)(2)(B)(i), (c)(3), (5)(A), (d)(2)–(4)(A), (e)(1),\(f)(1)(B), (5)(A)(ii), (B)(i), (ii), and (l)(2), is the date of enactment of Pub. L. 115–264, which was approved Oct. 11, 2018.
+The date of enactment of this section, referred to in subsecs. (a)(2)(B)(i), (c)(3), (5)(A), (d)(2)–(4)(A), (e)(1), (f)(1)(B), (5)(A)(ii), (B)(i), (ii), and (l)(2), is the date of enactment of Pub. L. 115–264, which was approved Oct. 11, 2018.
 
 The year in which this section is enacted, referred to in subsec. (d)(2)(B), is the year in which Pub. L. 115–264 was enacted. Such Act was approved Oct. 11, 2018.
 

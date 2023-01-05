@@ -34,7 +34,7 @@ Specific Costs.—The following costs are not allowable under a covered contract
 
 &emsp;(13) Costs of severance pay paid by the contractor to foreign nationals employed by the contractor under a service contract performed outside the United States, to the extent that the amount of severance pay paid in any case exceeds the amount paid in the industry involved under the customary or prevailing practice for firms in that industry providing similar services in the United States, as determined under the Federal Acquisition Regulation.
 
-&emsp;(14) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performedin a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a Federal Government facility in that country at the request of the government of that country.
+&emsp;(14) Costs of severance pay paid by the contractor to a foreign national employed by the contractor under a service contract performed in a foreign country if the termination of the employment of the foreign national is the result of the closing of, or the curtailment of activities at, a Federal Government facility in that country at the request of the government of that country.
 
 &emsp;(15) Costs incurred by a contractor or subcontractor, or personal service <sup>1</sup> contractor in connection with any criminal, civil, or administrative proceeding commenced by the Federal Government or a State, to the extent provided in section 4310 of this title.
 
@@ -146,7 +146,7 @@ Costs Not Allowable.—(1) The costs of gifts or recreation for employees of a c
 
 "(2) Not later than 90 days after the date of the enactment of this Act, the Federal Acquisition Regulatory Council shall amend the cost principle in the Federal Acquisition Regulation that is set out in section 31.205–14 of title 48, Code of Federal Regulations, relating to unallowability of entertainment costs—
 
-&emsp;"(A) by inserting in the cost principle a statement that costs made specifically unallowable under that cost principle are not allowable under any other cost principle; and
+&emsp;"(A) by inserting in the cost principle a statement that costs made specifically unallowable under thatcost principle are not allowable under any other cost principle; and
 
 &emsp;"(B) by striking out '(but see 31.205–1 and 31.205–13)'.
 
@@ -156,7 +156,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'employee' includes officers and directors of a contractor.
 
-&emsp;"(2) The term 'covered contract' has the meaning given such term in section 2324(l) of title 10, United States Code \[see 10 U.S.C. 3741\] (as amended by section 2101(c) \[2101(d)\]), and section 306(l) of the Federal Property and Administrative Services Act of 1949 (as added by section 2151) \[see 41 U.S.C. 4301(2)\].
+&emsp;"(2) The term 'covered contract' has the meaning given such term in section 2324(l) of title 10, United States Code (as amended by section 2101(c) \[2101(d)\]), and section 306(l) of the Federal Property and Administrative Services Act of 1949 (as added by section 2151) \[see 41 U.S.C. 4301(2)\].
 
 "(c)
 

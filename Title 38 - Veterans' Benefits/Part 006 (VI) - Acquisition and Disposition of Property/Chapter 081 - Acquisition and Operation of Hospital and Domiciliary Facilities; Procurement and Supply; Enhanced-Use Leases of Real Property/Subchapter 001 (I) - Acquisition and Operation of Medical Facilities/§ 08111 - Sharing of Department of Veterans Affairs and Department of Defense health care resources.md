@@ -8,7 +8,7 @@ Required Coordination and Sharing of Health Care Resources.—The Secretary of V
 
 Joint Requirements for Secretaries of Veterans Affairs and Defense.—To facilitate the mutually beneficial coordination, use, or exchange of use of the health care resources of the two Departments, the two Secretaries shall carry out the following functions:
 
-&emsp;(1) Develop and publish a joint strategic vision statement and a joint strategic plan toshape, focus, and prioritize the coordination and sharing efforts among appropriate elements of the two Departments and incorporate the goals and requirements of the joint sharing plan into the strategic plan of each Department under section 306 of title 5 and the performance plan of each Department under section 1115 of title 31.
+&emsp;(1) Develop and publish a joint strategic vision statement and a joint strategic plan to shape, focus, and prioritize the coordination and sharing efforts among appropriate elements of the two Departments and incorporate the goals and requirements of the joint sharing plan into the strategic plan of each Department under section 306 of title 5 and the performance plan of each Department under section 1115 of title 31.
 
 &emsp;(2) Jointly fund the Department of Veterans Affairs-Department of Defense Joint Executive Committee under section 320 of this title.
 
@@ -24,7 +24,7 @@ Joint Incentives Program.—(1) Pursuant to subsection (b)(4), the two Secretari
 
 (2) To facilitate the incentive program, there is established in the Treasury a fund to be known as the "DOD–VA Health Care Sharing Incentive Fund". Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary's Department. Such funds shall remain available until expended and shall be available for any purpose authorized by this section.
 
-(3) The program under this subsection shall terminate on September 30, 2023.
+(3) The program under this subsection shall terminate on September 30, 2026.
 
 (e)
 
@@ -36,7 +36,7 @@ Guidelines and Policies for Implementation of Coordination and Sharing Recommend
 
 &emsp;(C) will not reduce capacities in certain specialized programs of the Department of Veterans Affairs that the Secretary is required to maintain in accordance with section 1706(b) of this title.
 
-(2) To facilitate the sharing and coordination of health care services between the two Departments, the two Secretaries shall jointly develop and implement guidelines for a standardized, uniform payment and reimbursement schedule for those services. Such schedule shall be revised periodically as necessary. The two Secretaries may on a case-by-case basis waive elements of the schedule if they jointly agree that such a waiver is in the best interests of both Departments.
+(2) To facilitate the sharing and coordination of health care services between the two Departments, the two Secretaries shall jointly developand implement guidelines for a standardized, uniform payment and reimbursement schedule for those services. Such schedule shall be revised periodically as necessary. The two Secretaries may on a case-by-case basis waive elements of the schedule if they jointly agree that such a waiver is in the best interests of both Departments.
 
 (3)(A) The guidelines established under paragraph (1) shall authorize the heads of individual Department of Defense and Department of Veterans Affairs medical facilities and service regions to enter into health care resources coordination and sharing agreements.
 
@@ -60,7 +60,7 @@ Annual Joint Report.—(1) At the time the President's budget is transmitted to 
 
 &emsp;(A) The guidelines prescribed under subsection (e) (and any revision of such guidelines).
 
-&emsp;(B) The assessment of further opportunities identified by the Department of Veterans Affairs-Department of Defense Joint ExecutiveCommittee under subsection (d)(3) of section 320 of this title for the sharing of health-care resources between the two Departments.
+&emsp;(B) The assessment of further opportunities identified by the Department of Veterans Affairs-Department of Defense Joint Executive Committee under subsection (d)(3) of section 320 of this title for the sharing of health-care resources between the two Departments.
 
 &emsp;(C) Any recommendation made by that committee under subsection (c)(2) of that section during that fiscal year.
 
@@ -110,7 +110,7 @@ Definitions.—For the purposes of this section:
 
 &emsp;(7) The term "service region" means a geographic service area of the Veterans Health Administration, in the case of the Department of Veterans Affairs, and a service region, in the case of the Department of Defense.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, §107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, §722, Nov. 25, 2015, 129 Stat. 869; Pub. L. 116–92, div. A, title VII, §736, Dec. 20, 2019, 133 Stat. 1463.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 60, §5011; amended Pub. L. 97–174, §3(a), (b)(1), May 4, 1982, 96 Stat. 70, 73; Pub. L. 97–452, §2(e)(4), Jan. 12, 1983, 96 Stat. 2479; renumbered §8111 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 103–446, title XII, §1201(g)(8), (i)(10), Nov. 2, 1994, 108 Stat. 4687, 4688; Pub. L. 107–135, title II, §208(e)(6), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–314, div. A, title VII, §721(a)(1), Dec. 2, 2002, 116 Stat. 2589; Pub. L. 108–136, div. A, title V, §583(b), (c), Nov. 24, 2003, 117 Stat. 1491, 1492; Pub. L. 108–422, title VI, §605, Nov. 30, 2004, 118 Stat. 2399; Pub. L. 109–163, div. A, title VII, §747(a), title X, §1056(g), Jan. 6, 2006, 119 Stat. 3363, 3440; Pub. L. 109–364, div. A, title VII, §743, Oct. 17, 2006, 120 Stat. 2308; Pub. L. 109–444, §8(a)(6), (7), Dec. 21, 2006, 120 Stat. 3313; Pub. L. 109–461, title X, §§1004(a)(6), (7), 1006(b), Dec. 22, 2006, 120 Stat. 3465, 3468; Pub. L. 111–84, div. A, title XVII, §1706, Oct. 28, 2009, 123 Stat. 2574; Pub. L. 114–58, title I, §107, Sept. 30, 2015, 129 Stat. 532; Pub. L. 114–92, div. A, title VII, §722, Nov. 25, 2015, 129 Stat. 869; Pub. L. 116–92, div. A, title VII, §736, Dec. 20, 2019, 133 Stat. 1463; Pub. L. 117–180, div. E, title I, §103, Sept. 30, 2022, 136 Stat. 2137.)
 
 #### <b>Editorial Notes</b>
 
@@ -123,6 +123,8 @@ The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred 
 Provisions similar to those comprising this section were contained in former section 5003 of this title prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(3). Pub. L. 117–180 substituted "September 30, 2026" for "September 30, 2023".
 
 <b>2019</b>—Subsec. (d)(3). Pub. L. 116–92 substituted "September 30, 2023" for "September 30, 2020".
 
@@ -166,7 +168,7 @@ Subsec. (e)(1). Pub. L. 108–136, §583(b)(2)(C), substituted "Department of Ve
 
 Subsec. (f)(2)(B), (C). Pub. L. 108–136, §583(b)(2)(D), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
 
-"(B) The assessment of further opportunities identified under subparagraph (C) of subsection (c)(5) for thesharing of health-care resources between the two Departments.
+"(B) The assessment of further opportunities identified under subparagraph (C) of subsection (c)(5) for the sharing of health-care resources between the two Departments.
 
 "(C) Any recommendation made under subsection (c)(4) during such fiscal year."
 
@@ -214,7 +216,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted "Department" for "Veterans' Admini
 
 <b>1982</b>—Pub. L. 97–174, §3(b)(1), substituted "Sharing of Veterans' Administration and Department of Defense health-care resources" for "Use of Armed Forces facilities" in section catchline.
 
-Subsec. (a). Pub. L. 97–174, §3(a)(1), (2), designated existing provisions as subsec. (a) and substituted "material, and other resources as may be needed to operate such facilities properly, except that the Administrator may not enter into an agreement that would result (1) in a permanent reduction in the total number of authorized Veterans' Administration hospital beds and nursing home beds to a level below the minimum number of such beds required by section 5010(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained" for "and material as may be needed to operate such facilities properly, or for the transfer, without reimbursement of appropriations, of facilities, supplies, equipment, or material necessary and proper for authorized care for veterans, except that at no time shall the Administrator enter into any agreement which will result in a permanent reduction of Veterans' Administration hospital and domiciliary beds below the number established or approved on June 22, 1944, plus the estimated number required to meet the load of eligibles under this title,".
+Subsec. (a). Pub. L. 97–174, §3(a)(1), (2), designated existing provisions as subsec. (a) and substituted "material, and other resources as may be needed to operate such facilities properly, except that the Administrator may not enter into an agreement that would result (1)in a permanent reduction in the total number of authorized Veterans' Administration hospital beds and nursing home beds to a level below the minimum number of such beds required by section 5010(a)(1) of this title to be authorized, or (2) in a permanent reduction in the total number of such beds operated and maintained to a level below the minimum number of such beds required by such section to be operated and maintained" for "and material as may be needed to operate such facilities properly, or for the transfer, without reimbursement of appropriations, of facilities, supplies, equipment, or material necessary and proper for authorized care for veterans, except that at no time shall the Administrator enter into any agreement which will result in a permanent reduction of Veterans' Administration hospital and domiciliary beds below the number established or approved on June 22, 1944, plus the estimated number required to meet the load of eligibles under this title,".
 
 Subsecs. (b) to (g). Pub. L. 97–174, §3(a)(3), added subsecs. (b) to (g).
 
@@ -410,7 +412,7 @@ Pub. L. 106–117, title I, §113, Nov. 30, 1999, 113 Stat. 1556, as amended by 
 
 "(a)
 
-Interagency Agreement.—(1) The Secretary of Defense shall enter into an agreement (characterized as a memorandum of understanding or otherwise) with the Secretary of Veterans Affairs with respect to the provision of medical care by the Secretary of Veterans Affairs to eligible military retirees in accordance with the provisions of subsection (c). That agreement shall include provisions for reimbursement of the Secretary of Veterans Affairs by the Secretary of Defense for medical care provided by the Secretary of Veterans Affairs to an eligible military retiree and may include such other provisions with respect to the terms and conditions of such care as may be agreed upon by the two Secretaries.
+Interagency Agreement.—(1) The Secretary of Defense shall enter into an agreement (characterized asa memorandum of understanding or otherwise) with the Secretary of Veterans Affairs with respect to the provision of medical care by the Secretary of Veterans Affairs to eligible military retirees in accordance with the provisions of subsection (c). That agreement shall include provisions for reimbursement of the Secretary of Veterans Affairs by the Secretary of Defense for medical care provided by the Secretary of Veterans Affairs to an eligible military retiree and may include such other provisions with respect to the terms and conditions of such care as may be agreed upon by the two Secretaries.
 
 "(2) Reimbursement under the agreement under paragraph (1) shall be in accordance with rates agreed upon by the Secretary of Defense and the Secretary of Veterans Affairs. Such reimbursement may be made by the Secretary of Defense or by the appropriate TRICARE Managed Care Support contractor, as determined in accordance with that agreement.
 
@@ -486,7 +488,7 @@ Authority.—The Secretary of Veterans Affairs may enter into an agreement with 
 
 "(b)
 
-Use of Funds.—Any amount received by the Secretary from a non-Federal entity as payment for services provided by the Secretary during a prior fiscal year under an agreement entered into under this section may be obligated by the Secretary during the fiscal year in which the Secretary receives the payment.
+Use of Funds.—Any amount received by the Secretary from a non-Federal entity as payment for services provided by the Secretary during a prior fiscalyear under an agreement entered into under this section may be obligated by the Secretary during the fiscal year in which the Secretary receives the payment.
 
 #### "SEC. 202. REQUIREMENT FOR IMPROVEMENT IN SERVICES FOR VETERANS.
 
@@ -532,7 +534,7 @@ Report.—In the report under subsection (a) for fiscal year 1996, the Secretari
 
 "(a)
 
-Right To Recover.—In the case of a primary beneficiary (as described in section 201(a)(2)(B)) who has coverage under a health-plan contract, as defined in section 1729(i)(1)(A) of title 38, United States Code, and who is furnished care or services by a Department medical facility pursuant to this title, the United States shall have the right to recover or collect chargesfor such care or services from such health-plan contract to the extent that the beneficiary (or the provider of the care or services) would be eligible to receive payment for such care or services from such health-plan contract if the care or services had not been furnished by a department or agency of the United States. Any funds received from such health-plan contract shall be credited to funds that have been allotted to the facility that furnished the care or services.
+Right To Recover.—In the case of a primary beneficiary (as described in section 201(a)(2)(B)) who has coverage under a health-plan contract, as defined in section 1729(i)(1)(A) of title 38, United States Code, and who is furnished care or services by a Department medical facility pursuant to this title, the United States shall have the right to recover or collect charges for such care or services from such health-plan contract to the extent that the beneficiary (or the provider of the care or services) would be eligible to receive payment for such care or services from such health-plan contract if the care or services had not been furnished by a department or agency of the United States. Any funds received from such health-plan contract shall be credited to funds that have been allotted to the facility that furnished the care or services.
 
 "(b)
 

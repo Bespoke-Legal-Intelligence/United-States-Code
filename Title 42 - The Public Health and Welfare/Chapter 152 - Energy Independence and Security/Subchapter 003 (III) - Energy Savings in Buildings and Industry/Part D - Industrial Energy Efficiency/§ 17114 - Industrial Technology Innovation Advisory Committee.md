@@ -146,7 +146,7 @@ Not later than 60 days after receiving a report from the Committee under subsect
 
 #### (h) Applicability of Federal Advisory Committee Act
 
-Except as otherwise provided in this section, the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee.
+Except as otherwise provided in this section, the Federal Advisory Committee Act (5 U.S.C. App.) <sup>3</sup> shall apply to the Committee.
 
 (Pub. L. 110–140, title IV, §455, as added Pub. L. 116–260, div. Z, title VI, §6004(a), Dec. 27, 2020, 134 Stat. 2556.)
 
@@ -154,9 +154,11 @@ Except as otherwise provided in this section, the Federal Advisory Committee Act
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 <i><sup>1</sup></i><i> So in original. There are two subpars. (F).</i>
 
 <i><sup>2</sup></i><i> So in original. The word "and" probably should not appear.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

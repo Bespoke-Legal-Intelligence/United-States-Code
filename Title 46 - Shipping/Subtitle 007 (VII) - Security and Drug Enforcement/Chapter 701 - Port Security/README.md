@@ -9,7 +9,7 @@
 | \[70102a. | Repealed.\] |
 | [70103\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070103%20-%20Maritime%20transportation%20security%20plans.md) | Maritime transportation security plans. |
 | [70104\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070104%20-%20Transportation%20security%20incident%20response.md) | Transportation security incident response. |
-| [70105\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070105%20-%20Transportation%20security%20cards.md) | Transportation security cards. |
+| [70105\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070105%20-%20Transportation%20worker%20identification%20credentials.md) | Transportation worker identification credentials. |
 | [70106\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070106%20-%20Deployable%2C%20specialized%20forces.md) | Deployable, specialized forces. |
 | [70107\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2070107%20-%20Grants.md) | Grants. |
 | \[70107A. | Repealed.\] |
@@ -46,6 +46,8 @@
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–263, div. K, title CXVIII, §11804(b), Dec. 23, 2022, 136 Stat. 4164, added item 70105 and struck out former item 70105 "Transportation security cards".
 
 <b>2021</b>—Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8507(d)(1), Jan. 1, 2021, 134 Stat. 4754, repealed amendment by Pub. L. 115–282, §408(c), and further provided that the provisions of law amended by section 408 of Pub. L. 115–282 are amended to read as if such section were not enacted. See 2018 Amendment note below.
 

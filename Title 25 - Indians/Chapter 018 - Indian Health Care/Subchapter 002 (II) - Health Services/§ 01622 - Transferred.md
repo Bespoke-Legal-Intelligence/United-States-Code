@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 94–437, title IV, §404, as added Pub. L. 96–537, §6, Dec. 17, 1980, 94 Stat. 3176, which relatedto grants to and contracts with tribal organizations, was transferred to section 1644 of this title.
+Section, Pub. L. 94–437, title IV, §404, as added Pub. L. 96–537, §6, Dec. 17, 1980, 94 Stat. 3176, which related to grants to and contracts with tribal organizations, was transferred to section 1644 of this title.
 

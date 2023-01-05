@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary of a military department may correct any military record of the Secretary's department when the Secretary considers it necessary to correct an error or remove an injustice. Except as provided in paragraph (2), such corrections shall be made by the Secretary acting through boards of civilians of the executive part of that military department. The Secretary of Homeland Security may in the same manner correct any military record of the Coast Guard.
 
-(2) The Secretary concerned is not required to act through a board in the case of the correction of a military record announcing a decision that a person is not eligible to enlist (or reenlist) or is not accepted for enlistment (or reenlistment) or announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade. Such a correction may be made only if the correction is favorable to the person concerned.
+(2) The Secretary concerned is not required to act through a board in the case of the correction of a military record announcing a decision that a person is not eligible to enlist (or reenlist) or is not accepted for enlistment (or reenlistment) or announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlistedmember to a higher grade. Such a correction may be made only if the correction is favorable to the person concerned.
 
 (3)(A) Corrections under this section shall be made under procedures established by the Secretary concerned. In the case of the Secretary of a military department, those procedures must be approved by the Secretary of Defense.
 
@@ -44,7 +44,7 @@
 
 &emsp;(2) action on the sentence of a court-martial for purposes of clemency.
 
-(g)(1) Any medical advisory opinion issued to a board established under subsection (a)(1) with respect to a member or former member of the armed forces who was diagnosed while serving in the armed forces as experiencing a mental health disorder shall include the opinion of a clinical psychologist or psychiatrist if the request for correction of records concerned relates to a mental health disorder.
+(g)(1) Any medical advisory opinion issued to a board established under subsection (a)(1) withrespect to a member or former member of the armed forces who was diagnosed while serving in the armed forces as experiencing a mental health disorder shall include the opinion of a clinical psychologist or psychiatrist if the request for correction of records concerned relates to a mental health disorder.
 
 (2) If a board established under subsection (a)(1) is reviewing a claim described in subsection (h), the board shall seek advice and counsel in the review from a psychiatrist, psychologist, or social worker with training on mental health issues associated with post-traumatic stress disorder or traumatic brain injury or other trauma as specified in the current edition of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association.
 
@@ -56,7 +56,7 @@
 
 &emsp;(A) review medical evidence of the Secretary of Veterans Affairs or a civilian health care provider that is presented by the claimant; and
 
-&emsp;(B) review the claim with liberal consideration to the claimant that post-traumatic stress disorder or traumatic brain injury potentially contributed to the circumstances resulting in the discharge or dismissal or to theoriginal characterization of the claimant's discharge or dismissal.
+&emsp;(B) review the claim with liberal consideration to the claimant that post-traumatic stress disorder or traumatic brain injury potentially contributed to the circumstances resulting in the discharge or dismissal or to the original characterization of the claimant's discharge or dismissal.
 
 (i) Each board established under this section shall make available to the public each calendar quarter, on an Internet website of the military department concerned or the Department of Homeland Security, as applicable, that is available to the public the following:
 
@@ -68,9 +68,11 @@
 
 &emsp;(4) The number and disposition of claims decided during the calendar quarter preceding the calendar quarter in which such information is made available in which sexual assault is alleged to have contributed, whether in whole or in part, to the original characterization of the discharge or release of the former member.
 
-(j) In this section, the term "military record" means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).
+(j) For a recommendation to award or upgrade a military decoration or award submitted pursuant to section 1130 of this title, a board determination in favor of the claimant shall allow such a recommendation to proceed, and an award or upgrade to be made by the applicable award authority, without regard to the statutory time limitation contained in section 7274, section 8298, or section 9274 of this title, as the case may be.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–417, \[div. A\], title V, §592(a), (b), Oct. 14, 2008, 122 Stat. 4474, 4475; Pub. L. 113–291, div. A, title V, §521(a), Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–92, div. A, title V, §521, Nov. 25, 2015, 129 Stat. 811; Pub. L. 114–328, div. A, title V, §§533(a), 534(a), (b), Dec. 23, 2016, 130 Stat. 2121, 2122; Pub. L. 115–91, div. A, title V, §§520(a), 521(a), (c)(1), title X, §1081(a)(27), Dec. 12, 2017, 131 Stat. 1379, 1380, 1595; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, §§521(a), 523(b)(2)(A), Dec. 20, 2019, 133 Stat. 1353, 1354; Pub. L. 116–283, div. A, title IX, §924(b)(2)(A)(vi), Jan. 1, 2021, 134 Stat. 3821.)
+(k) In this section, the term "military record" means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).
+
+(Aug. 10, 1956, ch. 1041, 70A Stat. 116; Pub. L. 86–533, §1(4), June 29, 1960, 74 Stat. 246; Pub. L. 96–513, title V, §511(60), Dec. 12, 1980, 94 Stat. 2925; Pub. L. 98–209, §11(a), Dec. 6, 1983, 97 Stat. 1407; Pub. L. 100–456, div. A, title XII, §1233(a), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 101–189, div. A, title V, §514, title XVI, §1621(a)(2), Nov. 29, 1989, 103 Stat. 1441, 1603; Pub. L. 102–484, div. A, title X, §1052(19), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 105–261, div. A, title V, §545(a), (b), Oct. 17, 1998, 112 Stat. 2022; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–417, \[div. A\], title V, §592(a), (b), Oct. 14, 2008, 122 Stat. 4474, 4475; Pub. L. 113–291, div. A, title V, §521(a), Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–92, div. A, title V, §521, Nov. 25, 2015, 129 Stat. 811; Pub. L. 114–328, div. A, title V, §§533(a), 534(a), (b), Dec. 23, 2016, 130 Stat. 2121, 2122; Pub. L. 115–91, div. A, title V, §§520(a), 521(a), (c)(1), title X, §1081(a)(27), Dec. 12, 2017, 131 Stat. 1379, 1380, 1595; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–92, div. A, title V, §§521(a), 523(b)(2)(A), Dec. 20, 2019, 133 Stat. 1353, 1354; Pub. L. 116–283, div. A, title IX, §924(b)(2)(A)(vi), Jan. 1, 2021, 134 Stat. 3821; Pub. L. 117–263, div. A, title V, §581, Dec. 23, 2022, 136 Stat. 2610.)
 
 Historical and Revision Notes
 
@@ -146,6 +148,8 @@ The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), refe
 
 #### Amendments
 
+<b>2022</b>—Subsecs. (j), (k). Pub. L. 117–263 added subsec. (j) and redesignated former subsec. (j) as (k).
+
 <b>2021</b>—Subsec. (c)(1). Pub. L. 116–283 substituted "Marine Corps, Space Force," for "Marine Corps,".
 
 <b>2019</b>—Subsec. (a)(4). Pub. L. 116–92, §523(b)(2)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States."
@@ -190,7 +194,7 @@ Subsec. (g). Pub. L. 105–261, §545(b), added subsec. (g).
 
 <b>1992</b>—Subsec. (a)(2). Pub. L. 102–484 substituted "announcing the promotion and appointment of an enlisted member to an initial or higher grade or the decision not to promote an enlisted member to a higher grade" for "announcing a decision not to promote an enlisted member to a higher grade".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–189, §514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportation may in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States."
+<b>1989</b>—Subsec. (a). Pub. L. 101–189, §514(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary of a military department, under procedures established by him and approved by the Secretary of Defense, and acting through boards of civilians of the executive part of that military department, may correct any military record of that department when he considers it necessary to correct an error or remove an injustice. Under procedures prescribed by him, the Secretary of Transportationmay in the same manner correct any military record of the Coast Guard. Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States."
 
 Subsec. (b). Pub. L. 101–189, §514(b), substituted "subsection (a)(1)" for "subsection (a)" in two places.
 
@@ -224,13 +228,97 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
+#### Review of Titling and Indexing Practices of the Army and Certain Other Organizations
+
+Pub. L. 117–263, div. A, title V, §549, Dec. 23, 2022, 136 Stat. 2587, provided that:
+
+"(a)
+
+Review of Titling an \[sic\]
+
+Indexing Decisions.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of the Army shall review the case file of each member or former member of the Army, the Army Reserve, or the Army National Guard who was titled or indexed in connection with the Guard Recruiting Assistance Program, the Army Reserve Recruiting Assistance Program, or any related activity to determine the appropriateness of the titling or indexing decision that was made with respect to such member or former member.
+
+"(b)
+
+Factors to Be Considered.—In reviewing a titling or indexing decision under subsection (a), the Secretary of the Army shall consider—
+
+&emsp;"(1) the likelihood that the member or former member to whom the decision pertains will face future criminal prosecution or other adverse action on the basis of the facts in the record at the time of the review;
+
+&emsp;"(2) the appropriate evidentiary standard to apply to the review of the decision; and
+
+&emsp;"(3) such other circumstances or factors as the Secretary determines are in the interest of equity and fairness.
+
+"(c)
+
+Notification and Appeal.—
+
+&emsp;"(1)
+
+In general.—Upon the completion of each review under subsection (a), the Secretary of the Army shall notify the member or former member concerned of such review, the disposition of the relevant instance of titling or indexing, and the mechanisms the member or former member may pursue to seek correction, removal, or expungement of that instance of titling or indexing.
+
+&emsp;"(2)
+
+Notification of next of kin.—In a case in which a member or former member required to be notified under paragraph (1) is deceased, the Secretary of the Army shall provide the notice required under such paragraph to the primary next of kin of the member or former member.
+
+"(d)
+
+Actions by the Secretary of the Army.—If the Secretary of the Army determines that correction, removal, or expungement of an instance of titling or indexing is appropriate after considering the factors under subsection (b), the Secretary of the Army may request that the name, personally identifying information, and other information relating to the individual to whom the titling or indexing pertains be corrected in, removed from, or expunged from, the following:
+
+&emsp;"(1) A law enforcement or criminal investigative report of the Department of Defense or any component of the Department.
+
+&emsp;"(2) An index item or entry in the Department of Defense Central Index of Investigations (DCII).
+
+&emsp;"(3) Any other record maintained in connection with a report described in paragraph (1), or an index item or entry described in paragraph (2), in any system of records, records database, records center, or repository maintained by or on behalf of the Department, including entries in the Federal Bureau of Investigation's Interstate Identification Index or any successor system.
+
+"(e)
+
+Report of Secretary of the Army.—Not later than 180 days after the completion of the review required by subsection (a), the Secretary of the Army shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the review. The report shall include the following:
+
+&emsp;"(1) The total number of instances of titling and indexing reviewed under such subsection.
+
+&emsp;"(2) The number of cases in which action was taken to correct, remove, or expunge an instance of titling or indexing.
+
+&emsp;"(3) The number of members and former members who remain titled after the conclusion of the review.
+
+&emsp;"(4) The number of members and former members who remain indexed after the conclusion of the review.
+
+&emsp;"(5) A brief description of the reasons the members and former members counted under paragraphs (3) and (4) remain titled or indexed.
+
+&emsp;"(6) Such other matters as the Secretary determines appropriate.
+
+"(f)
+
+Secretary of Defense Review and Report.—
+
+&emsp;"(1)
+
+Review.—The Secretary of Defense shall conduct a review the titling and indexing practices of the criminal investigative organizations of the Armed Forces. Such review shall include—
+
+&emsp;&emsp;"(A) an assessment of the practices of titling and indexing and the continued relevance of such practices to the operation of such criminal investigative organizations;
+
+&emsp;&emsp;"(B) an evaluation of the suitability of the evidentiary requirements and related practices for titling and indexing in effect at the time of the review; and
+
+&emsp;&emsp;"(C) the development of recommendations, as appropriate, to improve the consistency, accuracy, and utility of the titling and indexing processes across such criminal investigative organizations.
+
+&emsp;"(2)
+
+Report.—Not later than one year after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the review conducted under paragraph (1).
+
+"(g)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'titling' means the practice of identifying an individual as the subject of a criminal investigation \[in\] the records of a military criminal investigative organization and storing such information in a database or other records system.
+
+&emsp;"(2) The term 'indexing' means the practice of submitting an individual's name or other personally identifiable information to the Federal Bureau of Investigation's Interstate Identification Index, or any successor system."
+
 #### Removal of Personally Identifying and Other Information of Certain Persons From Investigative Reports, the Department of Defense Central Index of Investigations, and Other Records and Databases
 
 Pub. L. 116–283, div. A, title V, §545, Jan. 1, 2021, 134 Stat. 3613, provided that:
 
 "(a)
 
-Policy and Process Required.—Not later than October 1, 2021, the Secretary of Defense shall establish and maintain a policy and process through which any covered person may request that the person's name, personally identifying information, and other information pertaining to the person shall, in accordance withsubsection (c), be corrected in, or expunged or otherwise removed from, the following:
+Policy and Process Required.—Not later than October 1, 2021, the Secretary of Defense shall establish and maintain a policy and process through which any covered person may request that the person's name, personally identifying information, and other information pertaining to the person shall, in accordance with subsection (c), be corrected in, or expunged or otherwise removed from, the following:
 
 &emsp;"(1) A law enforcement or criminal investigative report of the Department of Defense or any component of the Department.
 

@@ -14,7 +14,7 @@ Remedies.—In a suit described in subsection (a) for a violation described in t
 
 #### Constitutionality
 
-For information regarding constitutionality of this section, as added by section 2(a)(2) of Pub. L. 102–560, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of this section, as added by section 2(a)(2) of Pub. L. 102–560, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

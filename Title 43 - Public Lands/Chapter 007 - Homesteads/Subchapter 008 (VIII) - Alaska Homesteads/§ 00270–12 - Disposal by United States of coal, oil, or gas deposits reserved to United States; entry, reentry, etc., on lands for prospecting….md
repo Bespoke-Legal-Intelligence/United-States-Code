@@ -8,7 +8,7 @@ The coal, oil, or gas deposits reserved to the United States in accordance with 
 
 #### References in Text
 
-Act of March 8, 1922 and this Act, referred to in text, is act Mar. 8, 1922, ch. 96, 42 Stat. 415, as amended, which is classified to sections 270–11 to 270–13 of this title. The provisions added by the act of Aug. 17, 1961, and amended by the act of Oct. 3, 1962 were classified to section 270–13 of this title. Sections 270–11 and 270–13 of this title were repealed by section 703(a) of Pub. L. 94–579. For complete classification of this Act to the Code, see Tables.
+Act of March 8, 1922 and this Act, referred to in text, is act Mar. 8, 1922, ch. 96, 42 Stat. 415, which is classified to sections 270–11 to 270–13 of this title. The provisions added by the act of Aug. 17, 1961, and amended by the act of Oct. 3, 1962 were classified to section 270–13 of this title. Sections 270–11 and 270–13 of this title were repealed by section 703(a) of Pub. L. 94–579. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -24,7 +24,7 @@ Section was formerly classified to section 377 of Title 48, Territories and Insu
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–579, title VII, §703(c), Oct. 21, 1976, 90 Stat. 2791, provided that the amendment made by section703(c) is effective on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976.
+Pub. L. 94–579, title VII, §703(c), Oct. 21, 1976, 90 Stat. 2791, provided that the amendment made by section 703(c) is effective on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976.
 
 #### Savings Provision
 

@@ -28,11 +28,23 @@ Concurrence of award.—The Secretary of Transportation may not approve an appli
 
 (c)
 
-Limitation.—For any fiscal year, the Secretary of Transportation may not award operating agreements under this chapter that require payments under section 53406 of this title for more than 10 vessels.
+Limitation.—The Secretary of Transportation may not award operating agreements under this chapter that require payments under section 53406 of this title for more than—.<sup>1</sup>
+
+&emsp;(1) for each of fiscal years 2022 and 2023, 10 vessels; and
+
+&emsp;(2) for any subsequent fiscal year, 20 vessels.
 
 (d)
 
 Judicial Review.—No court shall have jurisdiction to review the Secretary's decision with respect to the award or non-award of an operating agreement issued under this chapter.
 
-(Added Pub. L. 116–283, div. C, title XXXV, §3511(a), Jan. 1, 2021, 134 Stat. 4412.)
+(Added Pub. L. 116–283, div. C, title XXXV, §3511(a), Jan. 1, 2021, 134 Stat. 4412; amended Pub. L. 117–263, div. C, title XXXV, §3501(b)(2), Dec. 23, 2022, 136 Stat. 3064.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c). Pub. L. 117–263 substituted "The Secretary" for "For any fiscal year, the Secretary" and "more than—" for "more than 10 vessels", designated existing provisions as introductory provisions, and added pars. (1) and (2).
+
+<i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

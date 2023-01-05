@@ -66,7 +66,7 @@ Upon default or imminent default, as defined by the Secretary <sup>1</sup> of a
 
 #### (C) Disposition
 
-&emsp;&emsp;After modification of a mortgage pursuant to this paragraph, the Secretary may provide insurance under this subchapter for the mortgage. The Secretary may subsequently—
+&emsp;&emsp;After modification of a mortgage pursuant to this paragraph, the Secretary may provide insurance under this subchapter for themortgage. The Secretary may subsequently—
 
 &emsp;&emsp;&emsp;(i) re-assign the mortgage to the mortgagee under terms and conditions as are agreed to by the mortgagee and the Secretary;
 
@@ -126,7 +126,7 @@ Subsec. (c)(2). Pub. L. 111–22, §203(d)(3)(E), added par. (2). Former par. (2
 
 <b>1996</b>—Pub. L. 104–99 amended section generally, substituting subsecs. (a) to (e) relating to authority to assist mortgagors in default for former subsecs. (a) to (d) relating to temporary mortgage assistance payments and acquisition of mortgages to avoid foreclosures.
 
-Subsec. (d). Pub. L. 104–134 struck out heading and text of subsec. (d). Text read as follows: "Any mortgage for which the mortgagor has applied to the Secretary, before the date of enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996, for assignment pursuant to subsection (b) of this section as in effect before such date of enactment shall continue to be governed by the provisions of this section, as in effect immediately before such date of enactment."
+Subsec. (d). Pub. L. 104–134 struck out heading and text of subsec. (d). Text read as follows: "Any mortgage for which the mortgagor has applied to the Secretary, before the date of enactment of the Departments ofVeterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996, for assignment pursuant to subsection (b) of this section as in effect before such date of enactment shall continue to be governed by the provisions of this section, as in effect immediately before such date of enactment."
 
 <b>1991</b>—Subsec. (a)(5). Pub. L. 102–83 substituted "section 3703(c) of title 38" for "section 1803(c) of title 38".
 

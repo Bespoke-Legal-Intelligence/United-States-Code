@@ -24,7 +24,7 @@ In carrying out the program under subsection (a), the Secretary may—
 
 #### (d) Application
 
-To be eligible to enter into a contract or cooperative agreement or receive a grant under thissection, a State or public or private agency or organization shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+To be eligible to enter into a contract or cooperative agreement or receive a grant under this section, a State or public or private agency or organization shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (e) Coordination
 

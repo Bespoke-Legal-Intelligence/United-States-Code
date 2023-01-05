@@ -12,7 +12,7 @@ Nothing contained in this section shall be held to affect or impair any right he
 
 Nothing contained in this section shall apply to transactions duly consummated pursuant to authority given by the Secretary of Transportation, Federal Power Commission, Surface Transportation Board, the Securities and Exchange Commission in the exercise of its jurisdiction under section 79j of this title,<sup>1</sup> the United States Maritime Commission, or the Secretary of Agriculture under any statutory provision vesting such power in such Commission, Board, or Secretary.
 
-(Oct. 15, 1914, ch. 323, §7, 38 Stat. 731; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Pub. L. 96–349, §6(a), Sept. 12, 1980, 94 Stat. 1157; Pub. L. 98–443, §9(l), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 104–88, title III, §318(1), Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–104, title VI, §601(b)(3), Feb. 8, 1996, 110 Stat. 143.)
+(Oct. 15, 1914, ch. 323, §7, 38 Stat. 731; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Pub. L. 96–349, §6(a),Sept. 12, 1980, 94 Stat. 1157; Pub. L. 98–443, §9(l), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 104–88, title III, §318(1), Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–104, title VI, §601(b)(3), Feb. 8, 1996, 110 Stat. 143.)
 
 #### <b>Editorial Notes</b>
 
@@ -28,7 +28,7 @@ Section 79j of this title, referred to in text, was repealed by Pub. L. 109–58
 
 <b>1984</b>—Pub. L. 98–443 substituted "Secretary of Transportation" for "Civil Aeronautics Board" and "Commission or Secretary" for "Commission, Secretary, or Board" in sixth par.
 
-<b>1980</b>—Pub. L. 96–349, substituted "person" for "corporation" wherever appearing in first and second pars.;substituted "persons" for "corporations" in second par. and first sentence of third par.; and inserted "or in any activity affecting commerce" after "commerce" wherever appearing in first, second, and third pars.
+<b>1980</b>—Pub. L. 96–349, substituted "person" for "corporation" wherever appearing in first and second pars.; substituted "persons" for "corporations" in second par. and first sentence of third par.; and inserted "or in any activity affecting commerce" after "commerce" wherever appearing in first, second, and third pars.
 
 <b>1950</b>—Act Dec. 29, 1950, amended section generally so as to prohibit the acquisition of the whole or any part of the assets of another corporation when the effect of the acquisition may substantially lessen competition or tend to create a monopoly.
 

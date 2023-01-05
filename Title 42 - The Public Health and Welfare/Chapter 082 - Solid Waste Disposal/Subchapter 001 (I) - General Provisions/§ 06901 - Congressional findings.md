@@ -58,7 +58,7 @@ The Congress finds with respect to energy, that—
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (b)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (b)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 The Water Pollution Control Act, referred to in subsec. (b)(3), probably means act June 30, 1948, ch. 758, 62 Stat. 1155, known as the Federal Water Pollution Control Act, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
@@ -116,7 +116,7 @@ Pub. L. 94–580, §1, Oct. 21, 1976, 90 Stat. 2795, provided that: "This Act \[
 
 #### Short Title
 
-Pub. L. 89–272, title II, §1001, as added by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, provided that:"This title (hereinafter in this title referred to as 'this Act'), together with the following table of contents, may be cited as the 'Solid Waste Disposal Act' " \[table of contents omitted\].
+Pub. L. 89–272, title II, §1001, as added by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, provided that: "This title (hereinafter in this title referred to as 'this Act'), together with the following table of contents, may be cited as the 'Solid Waste Disposal Act' " \[table of contents omitted\].
 
 #### National Commission on Materials Policy
 

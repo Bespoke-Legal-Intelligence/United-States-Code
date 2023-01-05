@@ -28,7 +28,7 @@ To request a grant under this subchapter, the chief executive of a State, Indian
 
 #### (3) Community care provider program defined
 
-&emsp;For purposes of this subsection, the term "community care provider program" means a community mental health center or certified community behavioral health clinic that directly provides to an individual, or assists in connecting an individual to the provision of, appropriate community-based treatment, medication management, and other recovery supports, when the individual leaves a correctional facility at the end of a sentence or on parole.
+&emsp;For purposes of this subsection, the term "community care provider program" means acommunity mental health center or certified community behavioral health clinic that directly provides to an individual, or assists in connecting an individual to the provision of, appropriate community-based treatment, medication management, and other recovery supports, when the individual leaves a correctional facility at the end of a sentence or on parole.
 
 #### (c) Coordination of Federal assistance
 

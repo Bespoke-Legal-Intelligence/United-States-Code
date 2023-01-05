@@ -94,7 +94,7 @@ In awarding financial assistance under this section, the Secretary shall conside
 
 #### (2) Technical and training assistance
 
-&emsp;The total amount of financial assistance awarded to an entity under this section shallbe reduced by the cost of any technical and training assistance provided by the Secretary that relates to such financial assistance.
+&emsp;The total amount of financial assistance awarded to an entity under this section shall be reduced by the cost of any technical and training assistance provided by the Secretary that relates to such financial assistance.
 
 #### (3) Term
 
@@ -152,7 +152,7 @@ The Secretary shall submit to Congress an annual report that provides a descript
 
 &emsp;&emsp;For each of fiscal years 2021 through 2025, of the amount made available under section 6872 of this title for such fiscal year to carry out the weatherization program under this part (not including any of such amount made available for Department of Energy headquarters training or technical assistance), not more than—
 
-&emsp;&emsp;&emsp;(i) 2 percent of such amount (if such amount is $225,000,000 or more but less than $260,000,000) may be used to carry out this section;
+&emsp;&emsp;&emsp;(i) 2 percent of such amount (if such amount is $225,000,000 or more but lessthan $260,000,000) may be used to carry out this section;
 
 &emsp;&emsp;&emsp;(ii) 4 percent of such amount (if such amount is $260,000,000 or more but less than $300,000,000) may be used to carry out this section; and
 

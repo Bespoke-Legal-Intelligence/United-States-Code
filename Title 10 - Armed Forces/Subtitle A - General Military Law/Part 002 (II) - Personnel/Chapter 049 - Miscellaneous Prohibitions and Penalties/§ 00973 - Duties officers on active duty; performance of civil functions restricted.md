@@ -70,7 +70,7 @@ Subsec. (b). Pub. L. 96–513, §116(b), substituted "regular officer of an arme
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -86,5 +86,5 @@ Pub. L. 98–94, title X, §1002(b), (c), Sept. 24, 1983, 97 Stat. 655, 656, pro
 
 &emsp;"(2) to have terminated the military appointment of an officer of an Armed Force by reason of the acceptance of a civil office, or the exercise of its functions, by that officer in furtherance of assigned official duties.
 
-"(c) Nothing in section 973(b)(3) of title 10, United States Code, as added by subsection (a), shall precludea Reserve office to whom such section applies from holding or exercising the functions of an office described in such section for the term to which the Reserve officer was elected or appointed if, before the date of the enactment of this Act \[Sept. 24, 1983\], the Reserve officer accepted appointment or election to that office in accordance with the laws and regulations in effect at the time of such appointment or election."
+"(c) Nothing in section 973(b)(3) of title 10, United States Code, as added by subsection (a), shall preclude a Reserve office to whom such section applies from holding or exercising the functions of an office described in such section for the term to which the Reserve officer was elected or appointed if, before the date of the enactment of this Act \[Sept. 24, 1983\], the Reserve officer accepted appointment or election to that office in accordance with the laws and regulations in effect at the time of such appointment or election."
 

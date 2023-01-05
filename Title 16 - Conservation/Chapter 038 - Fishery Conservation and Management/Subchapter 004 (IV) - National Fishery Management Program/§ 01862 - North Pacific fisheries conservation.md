@@ -22,7 +22,7 @@ The North Pacific Council may prepare, in consultation with the Secretary, a fis
 
 (2) Any system of fees established under this section shall—
 
-&emsp;(A) provide that the total amount of fees collected under this section not exceed the combined cost of (i) stationing observers, or electronic monitoring systems, on board fishing vessels and United States fish processors, (ii) the actual cost of inputting collected data, and (iii) assessments necessary for a risk-sharing pool implemented under subsection (e) of this section, less any amount received for such purpose from another source or from an existing surplus in the North Pacific Fishery Observer Fund established in subsection (d) of this section;
+&emsp;(A) provide that the total amount of fees collected under this section not exceed thecombined cost of (i) stationing observers, or electronic monitoring systems, on board fishing vessels and United States fish processors, (ii) the actual cost of inputting collected data, and (iii) assessments necessary for a risk-sharing pool implemented under subsection (e) of this section, less any amount received for such purpose from another source or from an existing surplus in the North Pacific Fishery Observer Fund established in subsection (d) of this section;
 
 &emsp;(B) be fair and equitable to all participants in the fisheries under the jurisdiction of the Council, including the Northern Pacific halibut fishery;
 
@@ -76,7 +76,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 #### (g) Bycatch reduction incentives
 
-(1) Notwithstanding section 1854(d) of this title, the North Pacific Council may submit, and the Secretary may approve, consistent with the provisions of this chapter, a system of fines in a fishery to provide incentives to reduce bycatch and bycatch rates; except that such fines shall not exceed $25,000 per vessel per season. Any fines collected shall be deposited in the North Pacific Fishery Observer Fund, and may be made available by the Secretary to offset costs related to the reduction of bycatch in the fishery from which such fines were derived, including conservation and management measures and research, and to the State of Alaska to offset costs incurred by the State in the fishery from which such penalties were derived or in fisheries in which the State is directly involved in management or enforcement and which are directly affected by the fishery from which such penalties were derived.
+(1) Notwithstanding section 1854(d) of this title, the North Pacific Council may submit, and the Secretary may approve, consistent with the provisions of this chapter, a system of fines in a fishery to provide incentives to reduce bycatch and bycatch rates; except that such fines shall not exceed $25,000 per vessel per season. Any fines collected shall be deposited in the North Pacific Fishery Observer Fund, and may be made available by the Secretary to offset costs related to the reduction of bycatch in the fishery from which such fines were derived, including conservation and management measures andresearch, and to the State of Alaska to offset costs incurred by the State in the fishery from which such penalties were derived or in fisheries in which the State is directly involved in management or enforcement and which are directly affected by the fishery from which such penalties were derived.
 
 (2)(A) Notwithstanding section 1853(d) of this title, and in addition to the authority provided in section 1853(b)(10) of this title, the North Pacific Council may submit, and the Secretary may approve, conservation and management measures which provide allocations of regulatory discards to individual fishing vessels as an incentive to reduce per vessel bycatch and bycatch rates in a fishery, <i>Provided</i>, That—
 
@@ -110,13 +110,13 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (5) For purposes of implementing this section $1,000,000 shall be made available each year until fully implemented from funds otherwise made available to the National Marine Fisheries Service for Alaska fisheries activities.
 
-(6) Nothing in this chapter shall constitute a waiver, either express or implied, of the antitrust laws of the United States. The Secretary, in consultation with the Department of Justice and the Federal Trade Commission, shall develop and implement a mandatory information collection and review process to provide any and all information necessary for the Department of Justice and the Federal Trade Commission to determine whether any illegal acts of anti-competition, anti-trust, or price collusion have occurred among persons receiving individual processing quotas under the Program. The Secretary may revoke any individual processing quota held by any person found to have violated a provision of the antitrust laws of the United States.
+(6) Nothing in this chapter shall constitute a waiver, either express or implied, of the antitrust laws of the United States. The Secretary, in consultation with the Department of Justice and the Federal Trade Commission, shall develop and implement a mandatory information collection and review process to provide any and all information necessary for the Department of Justice and the Federal Trade Commission to determine whether any illegal acts of anti-competition, anti-trust, or price collusion have occurred among persons receiving individual processing quotas under the Program. The Secretarymay revoke any individual processing quota held by any person found to have violated a provision of the antitrust laws of the United States.
 
 (7) An individual processing quota issued under the Program shall be considered a permit for the purposes of sections 1857, 1858, and 1859 of this title, and may be revoked or limited at any time in accordance with this chapter. Issuance of an individual processing quota under the program shall not confer any right of compensation to the holder of such individual processing quota if it is revoked or limited and shall not create, or be construed to create, any right, title, or interest in or to any fish before the fish is purchased from an individual fishing quota holder.
 
 (8) The restriction on the collection of economic data in section 1853 of this title shall not apply with respect to any fish processor who is eligible for, or who has received, individual processing quota under the Program. The restriction on the disclosure of information in section 1881a(b)(1) of this title shall not apply when the information is used to determine eligibility for or compliance with an individual processing quota program.
 
-(9) The provisions of sections 1858, 1860, and 1861 of this title shall apply to the processing facilities and fish products of any person holding individual processing quota, and the provisionsof subparagraphs (D), (E), and (L) of section 1857(l) <sup>3</sup> of this title shall apply to any facility owned or controlled by a person holding individual processing quota.
+(9) The provisions of sections 1858, 1860, and 1861 of this title shall apply to the processing facilities and fish products of any person holding individual processing quota, and the provisions of subparagraphs (D), (E), and (L) of section 1857(l) <sup>3</sup> of this title shall apply to any facility owned or controlled by a person holding individual processing quota.
 
 (Pub. L. 94–265, title III, §313, as added Pub. L. 101–627, title I, §118(a), Nov. 28, 1990, 104 Stat. 4457; amended Pub. L. 102–582, title IV, §404, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §117(a), Oct. 11, 1996, 110 Stat. 3603; Pub. L. 108–199, div. B, title VIII, §801, Jan. 23, 2004, 118 Stat. 108; Pub. L. 109–479, title II, §214, Jan. 12, 2007, 120 Stat. 3619.)
 
@@ -124,7 +124,7 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 #### References in Text
 
-This chapter, referred to in subsecs. (g)(1), (h)(1), and (j)(2), (3), (6), (7), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsecs. (g)(1), (h)(1), and (j)(2), (3), (6), (7), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Hereafter, referred to in subsec. (j)(1), probably means on and after the date of enactment of Pub. L. 108–199, which enacted subsec. (j) of this section and was approved Jan. 23, 2004.
 
@@ -155,6 +155,36 @@ Subsec. (a). Pub. L. 104–297, §117(a)(2), substituted "North Pacific Council"
 Subsecs. (f) to (i). Pub. L. 104–297, §117(a)(3), added subsecs. (f) to (i).
 
 <b>1992</b>—Subsec. (b)(2)(E). Pub. L. 102–582 substituted "2 percent, of the unprocessed ex-vessel" for "one percentum, of the".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Fees
+
+Pub. L. 117–328, div. S, title I, §106, Dec. 29, 2022, 136 Stat. 5260, provided that:
+
+"(a)
+
+In General.—The North Pacific Fishery Management Council may recommend, and the Secretary of Commerce may approve, regulations necessary for the collection of fees from charter vessel operators who guide recreational anglers who harvest Pacific halibut in International Pacific Halibut Commission regulatory areas 2C and 3A as those terms are defined in part 300 of title 50, Code of Federal Regulations (or any successor regulations).
+
+"(b)
+
+Use of Fees.—Any fees collected under this section shall be available for the purposes of—
+
+&emsp;"(1) financing administrative costs of the Recreational Quota Entity program;
+
+&emsp;"(2) the purchase of halibut quota shares in International Pacific Halibut Commission regulatory areas 2C and 3A by the recreational quota entity authorized in part 679 of title 50, Code of Federal Regulations (or any successor regulations);
+
+&emsp;"(3) halibut conservation and research; and
+
+&emsp;"(4) promotion of the halibut resource by the recreational quota entity authorized in part 679 of title 50, Code of Federal Regulations (or any successor regulations).
+
+"(c)
+
+Limitation on Collection and Availability.—Fees shall be collected and available pursuant to this section only to the extent and in such amounts as provided in advance in appropriations Acts, subject to subsection (d).
+
+"(d)
+
+Fee Collected During Start-up Period.—Notwithstanding subsection (c), fees may be collected through the date of enactment of an Act making appropriations for the activities authorized under this Act \[div. S of Pub. L. 117–328\] through September 30, 2023, and shall be available for obligation and remain available until expended."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

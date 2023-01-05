@@ -14,7 +14,7 @@ In order to have adequate information upon which to consider an application unde
 
 &emsp;(3) A description of other funding sources to be used, or sought to be used, for the national service programs referred to in paragraphs (1) and (2), and, if the application is submitted for the purpose of seeking a renewal of assistance, a description of the success of the programs in reducing their reliance on Federal funds.
 
-&emsp;(4) A description of the extent to which the projects to be conducted using the assistancewill address unmet human, educational, environmental, or public safety needs and produce a direct benefit for the community in which the projects are performed.
+&emsp;(4) A description of the extent to which the projects to be conducted using the assistance will address unmet human, educational, environmental, or public safety needs and produce a direct benefit for the community in which the projects are performed.
 
 &emsp;(5) A description of the plan to be used to recruit participants, including youth who are individuals with disabilities and economically disadvantaged young men and women, for the national service programs referred to in paragraphs (1) and (2).
 
@@ -32,7 +32,7 @@ In order to have adequate information upon which to consider an application unde
 
 &emsp;&emsp;(B) the service experience to be provided to participants in the programs.
 
-&emsp;(9) A description of the manner and extent to which the national service programs referred to in paragraphs (1) and (2) conform to the national service priorities established by the Corporation under section 12572(f) of this title.
+&emsp;(9) A description of the manner and extent to which the national service programs referredto in paragraphs (1) and (2) conform to the national service priorities established by the Corporation under section 12572(f) of this title.
 
 &emsp;(10) A description of the past experience of the applicant in operating a comparable program or in conducting a grant program in support of other comparable service programs.
 

@@ -86,7 +86,7 @@ Section is from the Legislative Branch Appropriations Act, 1990.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–437 amended section generally, substituting provisions relating to Office of Congressional Accessibility Services for provisions relating to Special Services Office.
+<b>2008</b>—Pub. L. 110–437 amended section generally, substituting provisions relating to Office of CongressionalAccessibility Services for provisions relating to Special Services Office.
 
 <b>1995</b>—Pub. L. 104–53 substituted "Sergeant at Arms" for "Clerk" after "comprised of the" and "Architect of the Capitol" for "Librarian of Congress".
 

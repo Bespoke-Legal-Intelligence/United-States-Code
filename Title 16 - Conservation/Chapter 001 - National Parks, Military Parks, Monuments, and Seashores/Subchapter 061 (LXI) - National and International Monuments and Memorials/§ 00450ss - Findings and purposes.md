@@ -6,7 +6,7 @@ Congress finds that—
 
 &emsp;(2) the resulting deaths of 168 people, some of whom were children, immediately touched thousands of family members whose lives will forever bear scars of having those precious to them taken away so brutally;
 
-&emsp;(3) suffering with such families are countless survivors, including children, who struggle not only with the suffering around them, but theirown physical and emotional injuries and with shaping a life beyond April 19;
+&emsp;(3) suffering with such families are countless survivors, including children, who struggle not only with the suffering around them, but their own physical and emotional injuries and with shaping a life beyond April 19;
 
 &emsp;(4) such losses and struggles are personal and, since they resulted from so public an attack, they are also shared with a community, a Nation, and the world;
 

@@ -146,7 +146,7 @@ A grant awarded under subsection (b) may be in an amount equal to—
 
 &emsp;&emsp;(B) to support programs to be carried out at, or in direct partnership with, the jobs accelerator that support the objectives of the jobs accelerator, including—
 
-&emsp;&emsp;&emsp;(i) linking rural communities and entrepreneurs to markets, networks, industry clusters, and other regional opportunities to support high-wage job creation, new business formation, business expansion, and economic growth;
+&emsp;&emsp;&emsp;(i) linking rural communities and entrepreneurs to markets, networks, industry clusters, and other regional opportunities to support high-wage job creation, newbusiness formation, business expansion, and economic growth;
 
 &emsp;&emsp;&emsp;(ii) integrating small businesses into a supply chain;
 

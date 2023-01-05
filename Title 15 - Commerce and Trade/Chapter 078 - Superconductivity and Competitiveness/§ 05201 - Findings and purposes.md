@@ -22,7 +22,7 @@ The Congress finds that—
 
 &emsp;(9) a committed Federal program effort with appropriate long-term goals, priorities, and adequate resources is necessary for the rapid development and application of the new superconducting materials; and
 
-&emsp;(10) a national program should serve as a test of new agency authorities directed at technological competitiveness such as those provided to the Department of Energy.
+&emsp;(10) a national program should serve as a test of new agency authorities directed attechnological competitiveness such as those provided to the Department of Energy.
 
 #### (b) Purposes
 

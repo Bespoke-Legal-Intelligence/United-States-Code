@@ -50,7 +50,7 @@ The term "medical assistance" means payment of part or all of the cost of the fo
 
 &emsp;(B) in vitro diagnostic products (as defined in section 809.3(a) of title 21, Code of Federal Regulations) administered during any portion of the emergency period defined in paragraph (1)(B) of section 1320b–5(g) of this title beginning on or after March 18, 2020, for the detection of SARS–CoV–2 or the diagnosis of the virus that causes COVID–19, and the administration of such in vitro diagnostic products;
 
-&emsp;(4)(A) nursing facility services (other than services in an institution for mental diseases) for individuals 21 years of age or older; (B) early and periodic screening, diagnostic, and treatment services (as defined in subsection (r)) for individuals who are eligible under the plan and are under the age of 21; (C) family planning services and supplies furnished (directly or under arrangements with others) to individuals of child-bearing age (including minors who can be considered to be sexually active) who are eligible under the State plan and who desire such services and supplies; and <sup>2</sup> (D) counseling and pharmacotherapy for cessationof tobacco use by pregnant women (as defined in subsection (bb)); and <sup>2</sup> (E) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, a COVID–19 vaccine and administration of the vaccine; and (F) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, without regard to the requirements of section 1396a(a)(10)(B) of this title (relating to comparability), in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan);
+&emsp;(4)(A) nursing facility services (other than services in an institution for mental diseases) for individuals 21 years of age or older; (B) early and periodic screening, diagnostic, and treatment services (as defined in subsection (r)) for individuals who are eligible under the plan and are under the age of 21; (C) family planning services and supplies furnished (directly or under arrangements with others) to individuals of child-bearing age (including minors who can be considered to be sexually active) who are eligible under the State plan and who desire such services and supplies; and <sup>2</sup> (D) counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in subsection (bb)); and <sup>2</sup> (E) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, a COVID–19 vaccine and administration of the vaccine; and (F) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, without regard to the requirements of section 1396a(a)(10)(B) of this title (relating to comparability), in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan);
 
 &emsp;(5)(A) physicians' services furnished by a physician (as defined in section 1395x(r)(1) of this title), whether furnished in the office, the patient's home, a hospital, or a nursing facility, or elsewhere, and (B) medical and surgical services furnished by a dentist (described in section 1395x(r)(2) of this title) to the extent such services may be performed under State law either by a doctor of medicine or by a doctor of dental surgery or dental medicine and would be described in clause (A) if furnished by a physician (as defined in section 1395x(r)(1) of this title);
 
@@ -80,7 +80,7 @@ The term "medical assistance" means payment of part or all of the cost of the fo
 
 &emsp;(15) services in an intermediate care facility for the mentally retarded (other than in an institution for mental diseases) for individuals who are determined, in accordance with section 1396a(a)(31) of this title, to be in need of such care;
 
-&emsp;(16)(A) effective January 1, 1973, inpatient psychiatric hospital services for individuals under age 21, as defined in subsection (h), and, (B) for individuals receiving services described in subparagraph (A), early and periodic screening, diagnostic, and treatment services (as defined in subsection (r)), whether or not such screening, diagnostic, and treatment services are furnished by the provider of the services described in such subparagraph;
+&emsp;(16)(A) effective January 1, 1973, inpatient psychiatric hospital services for individualsunder age 21, as defined in subsection (h), and, (B) for individuals receiving services described in subparagraph (A), early and periodic screening, diagnostic, and treatment services (as defined in subsection (r)), whether or not such screening, diagnostic, and treatment services are furnished by the provider of the services described in such subparagraph;
 
 &emsp;(17) services furnished by a nurse-midwife (as defined in section 1395x(gg) of this title) which the nurse-midwife is legally authorized to perform under State law (or the State regulatory mechanism provided by State law), whether or not the nurse-midwife is under the supervision of, or associated with, a physician or other health care provider, and without regard to whether or not the services are performed in the area of management of the care of mothers and babies throughout the maternity cycle;
 
@@ -96,7 +96,7 @@ The term "medical assistance" means payment of part or all of the cost of the fo
 
 &emsp;(23) community supported living arrangements services (to the extent allowed and as defined in section 1396u of this title);
 
-&emsp;(24) personal care services furnished to an individual who is not an inpatient or resident of a hospital, nursing facility, intermediate care facility for the mentally retarded, or institution for mental disease that are (A) authorizedfor the individual by a physician in accordance with a plan of treatment or (at the option of the State) otherwise authorized for the individual in accordance with a service plan approved by the State, (B) provided by an individual who is qualified to provide such services and who is not a member of the individual's family, and (C) furnished in a home or other location;
+&emsp;(24) personal care services furnished to an individual who is not an inpatient or resident of a hospital, nursing facility, intermediate care facility for the mentally retarded, or institution for mental disease that are (A) authorized for the individual by a physician in accordance with a plan of treatment or (at the option of the State) otherwise authorized for the individual in accordance with a service plan approved by the State, (B) provided by an individual who is qualified to provide such services and who is not a member of the individual's family, and (C) furnished in a home or other location;
 
 &emsp;(25) primary care case management services (as defined in subsection (t));
 
@@ -114,15 +114,15 @@ The term "medical assistance" means payment of part or all of the cost of the fo
 
 > except as otherwise provided in paragraph (16), such term does not include—
 
-&emsp;(A) any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution); or
+&emsp;(A) any such payments with respect to care or services for any individual who is an inmate of a public institution (except as a patient in a medical institution, or in the case of an eligible juvenile described in section 1396a(a)(84)(D) of this title with respect to the screenings, diagnostic services, referrals, and targeted case management services required under such section); or
 
 &emsp;(B) any such payments with respect to care or services for any individual who has not attained 65 years of age and who is a patient in an institution for mental diseases (except in the case of services provided under a State plan amendment described in section 1396n(l) of this title).
 
-> For purposes of clause (vi) of the preceding sentence, a person shall be considered essential to another individual if such person is the spouse of and is living with such individual, the needs of such person are taken into account in determining the amount of aid or assistance furnished to such individual (under a State plan approved under subchapter I, X, XIV, or XVI), and such person is determined, under such a State plan, to be essential to the well-being of such individual. The payment described in the first sentence may include expenditures for medicare cost-sharing and for premiums under part B of subchapter XVIII for individuals who are eligible for medical assistance under the plan and (A) are receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV, or with respect to whom supplemental security income benefits are being paid under subchapter XVI, or (B) with respect to whom there is being paid a State supplementary payment and are eligible for medical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in section 1396a(a)(10)(A) of this title, and, except in the case of individuals 65 years of age or older and disabled individuals entitled to health insurance benefits under subchapter XVIII who are not enrolled under part B of subchapter XVIII, other insurance premiums for medical or any other type of remedial care or the cost thereof. No service (including counseling) shall be excluded from the definition of "medical assistance" solely because it is provided as a treatment service for alcoholism or drug dependency. In the case of a woman who is eligible for medical assistance on the basis of being pregnant (including through the end of the month in which the 60-day period beginning on the last day of her pregnancy ends), who is a patient in an institution for mental diseases for purposes of receiving treatment for a substance use disorder, and who was enrolled for medical assistance under the State plan immediately before becoming a patient in an institution for mental diseases or who becomes eligible to enroll for such medical assistance while such a patient, the exclusion from the definition of "medical assistance" set forth in the subdivision (B) following paragraph (30) of the first sentence of this subsection shall not be construed as prohibiting Federal financial participation for medical assistance for items or services that are provided to the woman outside of the institution.
+> For purposes of clause (vi) of the preceding sentence, a person shall be considered essential to another individual if such person is the spouse of and is living with such individual, the needs of such person are taken into account in determining the amount of aid or assistance furnished to such individual (under a State plan approved under subchapter I, X, XIV, or XVI), and such person is determined, under such a State plan, to be essential to the well-being of such individual. The payment described in the first sentence may include expenditures for medicare cost-sharing and for premiums under part B of subchapter XVIII for individuals who are eligible for medical assistance under the plan and (A) are receiving aid or assistance under any plan of the State approved under subchapter I, X, XIV, or XVI, or part A of subchapter IV, or with respect to whom supplemental security income benefits are being paid under subchapter XVI, or (B) with respect to whom there is being paid a State supplementary payment and are eligible for medical assistance equal in amount, duration, and scope to the medical assistance made available to individuals described in section 1396a(a)(10)(A) of this title, and, except in the case of individuals 65 years of age or older and disabled individuals entitled to health insurance benefits under subchapter XVIII who are not enrolled under part B of subchapter XVIII, other insurance premiums for medical or any other type of remedial care or the cost thereof. No service (including counseling) shall be excluded from the definition of "medical assistance" solely because it is provided as a treatment servicefor alcoholism or drug dependency. In the case of a woman who is eligible for medical assistance on the basis of being pregnant (including through the end of the month in which the 60-day period beginning on the last day of her pregnancy ends), who is a patient in an institution for mental diseases for purposes of receiving treatment for a substance use disorder, and who was enrolled for medical assistance under the State plan immediately before becoming a patient in an institution for mental diseases or who becomes eligible to enroll for such medical assistance while such a patient, the exclusion from the definition of "medical assistance" set forth in the subdivision (B) following paragraph (30) of the first sentence of this subsection shall not be construed as prohibiting Federal financial participation for medical assistance for items or services that are provided to the woman outside of the institution.
 
 #### (b) Federal medical assistance percentage; State percentage; Indian health care percentage
 
-Subject to subsections (y), (z), (aa), (ff), (hh), and (ii) and section 1396u–3(d) of this title, the term "Federal medical assistance percentage" for any State shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 45 per centum as the square of the per capita income of such State bears to the square of the per capita income of the continental United States (including Alaska) and Hawaii; except that (1) the Federal medical assistance percentage shall in no case be less than 50 per centum or more than 83 per centum, (2) the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be 55 percent, (3) for purposes of this subchapter and subchapter XXI, the Federal medical assistance percentage for the District of Columbia shall be 70 percent, (4) the Federal medical assistance percentage shall be equal to the enhanced FMAP described in section 1397ee(b) of this title with respect to medical assistance provided to individuals who are eligible for such assistance only on the basis of section 1396a(a)(10)(A)(ii)(XVIII) of this title, and (5) in the case of a State that provides medical assistance for services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines, the Federal medical assistance percentage, as determined under this subsection and subsection (y) (without regard toparagraph (1)(C) of such subsection), shall be increased by 1 percentage point with respect to medical assistance for such services and vaccines and for items and services described in subsection (a)(4)(D). The Federal medical assistance percentage for any State shall be determined and promulgated in accordance with the provisions of section 1301(a)(8)(B) of this title. Notwithstanding the first sentence of this section, the Federal medical assistance percentage shall be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Indian Health Service facility whether operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined in section 4 of the Indian Health Care Improvement Act \[25 U.S.C. 1603\]); for the 8 fiscal year quarters beginning with the first fiscal year quarter beginning after March 11, 2021, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Urban Indian organization (as defined in paragraph (29) of section 4 of the Indian Health Care Improvement Act \[25 U.S.C. 1603(29)\]) that has a grant or contract with the Indian Health Service under title V of such Act \[25 U.S.C. 1651 et seq.\]; and, for such 8 fiscal year quarters, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through a Native Hawaiian Health Center (as defined in section 11711(4) of this title) or a qualified entity (as defined in section 11705(b) of this title) that has a grant or contract with the Papa Ola Lokahi under section 11707 of this title. Notwithstanding the first sentence of this subsection, in the case of a State plan that meets the condition described in subsection (u)(1), with respect to expenditures (other than expenditures under section 1396r–4 of this title) described in subsection (u)(2)(A) or subsection (u)(3) for the State for a fiscal year, and that do not exceed the amount of the State's available allotment under section 1397dd of this title, the Federal medical assistance percentage is equal to the enhanced FMAP described in section 1397ee(b) of this title. Notwithstanding the first sentence of this subsection, the Federal medical assistance percentage shall be 100 per centum with respect to (and, notwithstanding any other provision of this subchapter, available for) medical assistance provided to uninsured individuals (as defined in section 1396a(ss) of this title) who are eligible for such assistance only on the basis of section 1396a(a)(10)(A)(ii)(XXIII) of this title and with respect to expenditures described in section 1396b(a)(7) of this title that a State demonstrates to the satisfaction of the Secretary are attributable to administrative costs related to providing for such medical assistance to such individuals under the State plan.
+Subject to subsections (y), (z), (aa), (ff), (hh), and (ii) and section 1396u–3(d) of this title, the term "Federal medical assistance percentage" for any State shall be 100 per centum less the State percentage; and the State percentage shall be that percentage which bears the same ratio to 45 per centum as the square of the per capita income of such State bears to the square of the per capita income of the continental United States (including Alaska) and Hawaii; except that (1) the Federal medical assistance percentage shall in no case be less than 50 per centum or more than 83 per centum, (2) the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be 55 percent, (3) for purposes of this subchapter and subchapter XXI, the Federal medical assistance percentage for the District of Columbia shall be 70 percent, (4) the Federal medical assistance percentage shall be equal to the enhanced FMAP described in section 1397ee(b) of this title with respect to medical assistance provided to individuals who are eligible for such assistance only on the basis of section 1396a(a)(10)(A)(ii)(XVIII) of this title, and (5) in the case of a State that provides medical assistance for services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines, the Federal medical assistance percentage, as determined under this subsection and subsection (y) (without regard to paragraph (1)(C) of such subsection), shall be increased by 1 percentage point with respect to medical assistance for such services and vaccines and for items and services described in subsection (a)(4)(D). The Federal medical assistance percentage for any State shall be determined and promulgated in accordance with the provisions of section 1301(a)(8)(B) of this title. Notwithstanding the first sentence of this section, the Federal medical assistance percentage shall be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Indian Health Service facility whether operated by the Indian Health Service or by an Indian tribe or tribal organization (as defined in section 4 of the Indian Health Care Improvement Act \[25 U.S.C. 1603\]); for the 8 fiscal year quarters beginning with the first fiscal year quarter beginning after March 11, 2021, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Urban Indian organization (as defined in paragraph (29) of section 4 of the Indian Health Care Improvement Act \[25 U.S.C. 1603(29)\]) that has a grant or contract with the Indian Health Service under title V of such Act \[25 U.S.C. 1651 et seq.\]; and, for such 8 fiscal year quarters, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through a Native Hawaiian Health Center (as defined in section 11711(4) of this title) or a qualified entity (as defined in section 11705(b) of this title) that has a grant or contract with the Papa Ola Lokahi under section 11707 of this title. Notwithstanding the first sentence of this subsection, in the case of a State plan that meets the condition described in subsection (u)(1), with respect to expenditures (other than expenditures under section 1396r–4 of this title) described in subsection (u)(2)(A) or subsection (u)(3) for the State for a fiscal year, and that do not exceed the amount of the State's available allotment under section 1397dd of this title, the Federal medical assistance percentage is equal to the enhanced FMAP described in section 1397ee(b) of this title. Notwithstanding the first sentence of this subsection, the Federal medical assistance percentage shall be 100 per centum with respect to (and, notwithstanding any other provision of this subchapter, available for) medical assistance provided to uninsured individuals (as defined in section 1396a(ss) of this title) who are eligible for such assistance only on the basis of section 1396a(a)(10)(A)(ii)(XXIII) of this title and with respect to expenditures described in section 1396b(a)(7) of this title that a State demonstrates to the satisfaction of the Secretary are attributable to administrative costs related to providing for such medical assistance to such individuals under the State plan.
 
 #### (c) Nursing facility
 
@@ -136,7 +136,7 @@ The term "intermediate care facility for the mentally retarded" means an institu
 
 &emsp;(2) the mentally retarded individual with respect to whom a request for payment is made under a plan approved under this subchapter is receiving active treatment under such a program; and
 
-&emsp;(3) in the case of a public institution, the State or political subdivision responsible for the operation of such institution has agreed that the non-Federal expenditures in any calendar quarter prior to January 1, 1975, with respect to services furnished to patients in such institution (or distinct part thereof) in the State will not, because of payments made under this subchapter, be reduced below the average amount expended for such services in such institution in the four quarters immediately preceding the quarter in which the State in which such institution is located elected to make such services available under its plan approved under this subchapter.
+&emsp;(3) in the case of a public institution, the State or political subdivision responsible for the operation of such institution has agreedthat the non-Federal expenditures in any calendar quarter prior to January 1, 1975, with respect to services furnished to patients in such institution (or distinct part thereof) in the State will not, because of payments made under this subchapter, be reduced below the average amount expended for such services in such institution in the four quarters immediately preceding the quarter in which the State in which such institution is located elected to make such services available under its plan approved under this subchapter.
 
 #### (e) Physicians' services
 
@@ -240,7 +240,7 @@ The term "qualified pregnant woman or child" means—
 
 #### (o) Optional hospice benefits
 
-(1)(A) Subject to subparagraphs (B) and (C), the term "hospice care" means the care described in section 1395x(dd)(1) of this title furnished by a hospice program (as defined in section 1395x(dd)(2) of this title) to a terminally ill individual who has voluntarily elected (in accordance with paragraph (2)) to have payment made for hospice care instead of having payment made for certain benefits described in section 1395d(d)(2)(A) of this title and for which payment may otherwise be made under subchapter XVIII and intermediate care facility services under the plan. For purposes of such election, hospice care may be provided to an individual while such individual is a resident of a skilled nursing facility or intermediate care facility, but the only payment made under the State plan shall be for the hospice care.
+(1)(A) Subject to subparagraphs (B) and (C), the term "hospice care" means the care described in section 1395x(dd)(1) of this title furnished by a hospice program (as defined in section 1395x(dd)(2) of this title) to a terminally ill individual who has voluntarily elected (in accordance with paragraph (2)) to have payment made for hospice care instead of having payment made for certain benefits described in section1395d(d)(2)(A) of this title and for which payment may otherwise be made under subchapter XVIII and intermediate care facility services under the plan. For purposes of such election, hospice care may be provided to an individual while such individual is a resident of a skilled nursing facility or intermediate care facility, but the only payment made under the State plan shall be for the hospice care.
 
 (B) For purposes of this subchapter, with respect to the definition of hospice program under section 1395x(dd)(2) of this title, the Secretary may allow an agency or organization to make the assurance under subparagraph (A)(iii) of such section without taking into account any individual who is afflicted with acquired immune deficiency syndrome (AIDS).
 
@@ -294,7 +294,7 @@ The term "qualified pregnant woman or child" means—
 
 &emsp;(iv) January 1, 1992, is 100 percent.
 
-(D)(i) In determining under this subsection the income of an individual who is entitled to monthly insurance benefits under subchapter II for a transition month (as defined in clause (ii)) in a year, such income shall not include any amounts attributable to an increase in the level of monthly insurance benefits payable under such subchapter which have occurred pursuant to section 415(i) of this title for benefits payable for months beginning with December of the previous year.
+(D)(i) In determining under this subsection the income of an individual who is entitled to monthly insurance benefits under subchapter II for a transition month (as defined in clause (ii)) in a year, such income shall not include any amounts attributable to an increase in the level of monthly insurance benefits payable under such subchapter which have occurred pursuant to section 415(i) of this title for benefits payablefor months beginning with December of the previous year.
 
 (ii) For purposes of clause (i), the term "transition month" means each month in a year through the month following the month in which the annual revision of the official poverty line, referred to in subparagraph (A), is published.
 
@@ -318,7 +318,7 @@ The term "qualified pregnant woman or child" means—
 
 &emsp;(B) for purposes of paragraph (2), the State may substitute for the percent provided under subparagraph (B) <sup>6</sup> or <sup>7</sup> 1396a(a)(10)(E)(iii) of this title of such paragraph <sup>6</sup> any percent.
 
-> In the case of any State which is providing medical assistance to its residents under a waivergranted under section 1315 of this title, the Secretary shall require the State to meet the requirement of section 1396a(a)(10)(E) of this title in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
+> In the case of any State which is providing medical assistance to its residents under a waiver granted under section 1315 of this title, the Secretary shall require the State to meet the requirement of section 1396a(a)(10)(E) of this title in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
 
 (5)(A) The Secretary shall develop and distribute to States a simplified application form for use by individuals (including both qualified medicare beneficiaries and specified low-income medicare beneficiaries) in applying for medical assistance for medicare cost-sharing under this subchapter in the States which elect to use such form. Such form shall be easily readable by applicants and uniform nationally. The Secretary shall provide for the translation of such application form into at least the 10 languages (other than English) that are most often used by individuals applying for hospital insurance benefits under section 426 or 426–1 of this title and shall make the translated forms available to the States and to the Commissioner of Social Security.
 
@@ -550,7 +550,7 @@ For purposes of subsection (a)(27), the strategies, treatment, and services desc
 
 (2)(A) For calendar quarters in 2014 and each year thereafter, the Federal medical assistance percentage otherwise determined under subsection (b) for an expansion State described in paragraph (3) with respect to medical assistance for individuals described in section 1396a(a)(10)(A)(i)(VIII) of this title who are nonpregnant childless adults with respect to whom the State may require enrollment in benchmark coverage under section 1396u–7 of this title shall be equal to the percent specified in subparagraph (B)(i) for such year.
 
-(B)(i) The percent specified in this subparagraph for a State for a year is equal to the Federal medical assistance percentage (as defined in the first sentence of subsection (b)) for the State increased by a number of percentage points equal to the transition percentage (specified in clause (ii) for the year) of the number of percentage points by which—
+(B)(i) The percent specified in this subparagraph for a State for a year is equal to the Federal medical assistance percentage (as defined in the first sentence of subsection (b)) for the State increased by a number of percentage points equal to the transition percentage (specified inclause (ii) for the year) of the number of percentage points by which—
 
 &emsp;(I) such Federal medical assistance percentage for the State, is less than
 
@@ -578,7 +578,7 @@ For purposes of subsection (a)(27), the strategies, treatment, and services desc
 
 &emsp;(A) In the case of the first fiscal year (or part of a fiscal year) for which this subsection applies to the State, the State's regular FMAP shall be increased by 50 percent of the number of percentage points by which the State's regular FMAP for such fiscal year is less than the Federal medical assistance percentage determined for the State for the preceding fiscal year after the application of only subsection (a) of section 5001 of Public Law 111–5 (if applicable to the preceding fiscal year) and without regard to this subsection, subsections (y) and (z), and subsections (b) and (c) of section 5001 of Public Law 111–5.
 
-&emsp;(B) In the case of the second or any succeeding fiscal year for which this subsection applies to the State, the State's regular FMAP for such fiscal year shall be increased by 25 percent (or 50 percent in the case of fiscal year2013) of the number of percentage points by which the State's regular FMAP for such fiscal year is less than the Federal medical assistance percentage received by the State during the preceding fiscal year.
+&emsp;(B) In the case of the second or any succeeding fiscal year for which this subsection applies to the State, the State's regular FMAP for such fiscal year shall be increased by 25 percent (or 50 percent in the case of fiscal year 2013) of the number of percentage points by which the State's regular FMAP for such fiscal year is less than the Federal medical assistance percentage received by the State during the preceding fiscal year.
 
 (2) In this subsection, the term "disaster-recovery FMAP adjustment State" means a State that is one of the 50 States or the District of Columbia, for which, at any time during the preceding 7 fiscal years, the President has declared a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170\] and determined as a result of such disaster that every county or parish in the State warrant individual and public assistance or public assistance from the Federal Government under such Act \[42 U.S.C. 5121 et seq.\] and for which—
 
@@ -640,15 +640,15 @@ Notwithstanding subsection (b), with respect to the portion of the amounts expen
 
 &emsp;&emsp;(B) a covered outpatient drug (as defined in section 1396r–8(k) of this title, except that, in applying paragraph (2)(A) of such section to a drug described in paragraph (1)(A), such drug shall be deemed a prescribed drug for purposes of subsection (a)(12)).
 
-#### (ff) Temporary increase in FMAP for territories for certain fiscal years
+#### (ff) Increase in FMAP for territories for certain fiscal years
 
 Notwithstanding subsection (b) or (z)(2), subject to subsections (hh) and (ii)—
 
 &emsp;(1) for the period beginning October 1, 2019, and ending December 20, 2019, the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 100 percent;
 
-&emsp;(2) subject to section 1308(g)(7)(C) of this title, for the period beginning December 21, 2019, and ending December 3, 2021, the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and
+&emsp;(2) for the period beginning December 21, 2019, and ending December 3, 2021, and for the period beginning January 1, 2022, and ending September 30, 2027, the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and
 
-&emsp;(3) subject to section 1308(g)(8)(B) of this title, for the period beginning December 21, 2019, and ending February 18, 2022, the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 83 percent.
+&emsp;(3) subject to section 1308(g)(8)(B) of this title, beginning December 21, 2019, the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands,and American Samoa shall be equal to 83 percent.
 
 #### (gg)(1) Routine patient costs
 
@@ -730,7 +730,7 @@ A determination with respect to coverage under subsection (a)(30) for an individ
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this subchapter, during the period described in paragraph (2), the Federal medical assistance percentage for a State, with respect to amounts expended by the State for medical assistance for a vaccine described in subsection (a)(4)(E) (and the administration of such a vaccine), shall be equal to 100 percent.
+&emsp;Notwithstanding any other provision of this subchapter, during the period described in paragraph (2), the Federal medical assistance percentage for a State, with respect to amounts expended by the State for medical assistance for a vaccine described in subsection\(a)(4)(E) (and the administration of such a vaccine), shall be equal to 100 percent.
 
 #### (2) Period described
 
@@ -744,7 +744,7 @@ A determination with respect to coverage under subsection (a)(30) for an individ
 
 &emsp;Any payment made to a territory for expenditures for medical assistance under subsection (a)(4)(E) that are subject to the Federal medical assistance percentage specified under paragraph (1) shall not be taken into account for purposes of applying payment limits under subsections (f) and (g) of section 1308 of this title.
 
-#### (ii) Temporary increase in FMAP for medical assistance under state medicaid plans which begin to expend amounts for certain mandatory individuals
+#### (ii) Temporary increase in FMAP for medical assistance under State medicaid plans which begin to expend amounts for certain mandatory individuals
 
 #### (1) In general
 
@@ -756,7 +756,7 @@ A determination with respect to coverage under subsection (a)(30) for an individ
 
 &emsp;&emsp;(A) shall not apply with respect to disproportionate share hospital payments described in section 1396r–4 of this title;
 
-&emsp;&emsp;(B) shall not be taken into account in calculating the enhanced FMAP of a State under section 2105;
+&emsp;&emsp;(B) shall not be taken into account in calculating the enhanced FMAP of a State under section 1397ee of this title;
 
 &emsp;&emsp;(C) shall not be taken into account for purposes of part A, D, or E of subchapter IV; and
 
@@ -766,11 +766,29 @@ A determination with respect to coverage under subsection (a)(30) for an individ
 
 &emsp;For purposes of this subsection, the term "qualifying State" means a State which has not expended amounts for all individuals described in section 1396a(a)(10)(A)(i)(VIII) of this title before March 11, 2021.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1905, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 351; amended Pub. L. 90–248, title II, §§230, 233, 241(f)(6), 248(e), title III, §302(a), Jan. 2, 1968, 81 Stat. 905, 917, 919, 929; Pub. L. 92–223, §4(a), Dec. 28, 1971, 85 Stat. 809; Pub. L. 92–603, title II, §§212(a), 247(b), 275(a), 278(a)(21)–(23), 280, 297(a), 299, 299B, 299E(b), 299L, Oct. 30, 1972, 86 Stat. 1384, 1425, 1452–1454, 1459–1462, 1464; Pub. L. 93–233, §§13(a)(13)–(18), 18(w), (x)(7)–(10), (y)(2), Dec. 31, 1973, 87 Stat. 963, 964, 972, 973; Pub. L. 94–437, title IV, §402(e), Sept. 30, 1976, 90 Stat. 1410; Pub. L. 95–210, §2(a), (b), Dec. 13, 1977, 91 Stat. 1488; Pub. L. 95–292, §8(a), (b), June 13, 1978, 92 Stat. 316; Pub. L. 96–473, §6(k), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 96–499, title IX, §965(a), Dec. 5, 1980, 94 Stat. 2651; Pub. L. 97–35, title XXI, §§2162(a)(2), 2172(b), Aug. 13, 1981, 95 Stat. 806, 808; Pub. L. 97–248, title I, §§136(c), 137(b)(17), (18), (f), Sept. 3, 1982, 96 Stat. 376, 379, 381; Pub. L. 98–369, div. B, title III, §§2335(f), 2340(b), 2361(b), 2371(a), 2373(b)(15)–(20), July 18, 1984, 98 Stat. 1091, 1093, 1104, 1110, 1112; Pub. L. 99–272, title IX, §§9501(a), 9505(a), 9511(a), Apr. 7, 1986, 100 Stat. 201, 208, 212; Pub. L. 99–509, title IX, §§9403(b), (d), (g)(3), 9404(b), 9408(c)(1), 9435(b)(2), Oct. 21, 1986, 100 Stat. 2053, 2054, 2056, 2061, 2070; Pub. L. 99–514, title XVIII, §1895(c)(3)(A), Oct. 22, 1986, 100 Stat. 2935; Pub. L. 100–203, title IV, §§4073(d), 4101(c)(1), 4103(a), 4105(a), 4114, 4118(p)(8), 4211(e), (f), (h)(6), Dec. 22, 1987, 101 Stat. 1330–119, 1330–141, 1330–146, 1330–147, 1330–152, 1330–159, 1330–204 to 1330–206; Pub. L. 100–360, title III, §301(a)(2)–(d), (g)(2), title IV, §411(h)(4)(E), (k)(4), (8), (14)(A), July 1, 1988, 102 Stat. 748–750, 787, 791, 794, 798; Pub. L. 100–485, title III, §303(b)(2), title IV, §401(d)(2), title VI, §608(d)(14)(A)–(G), (J), (f)(3), Oct. 13, 1988, 102 Stat. 2392, 2396, 2415, 2416, 2424; Pub. L. 100–647, title VIII, §8434(a), (b)(3), (4), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–234, title II, §201(b), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6402(c)(1), 6403(a), (c), (d)(2), 6404(a), (b), 6405(a), 6408(d)(2), (4)(A), (B), Dec. 19, 1989, 103 Stat. 2261–2265, 2268, 2269; Pub. L. 101–508, title IV, §§4402(d)(2), 4501(a), (c), (e)(1), 4601(a)(2), 4704(c), (d), (e)(1), 4705(a), 4711(a), 4712(a), 4713(b), 4717, 4719(a), 4721(a), 4722, 4755(a)(1)(A), Nov. 5, 1990, 104 Stat. 1388–163 to 1388–166, 1388–172, 1388–174, 1388–187, 1388–191, 1388–193, 1388–194, 1388–209; Pub. L. 103–66, title XIII, §§13601(a), 13603(e), 13605(a), 13606(a), 13631(f)(2), (g)(1), Aug. 10, 1993, 107 Stat. 612, 620, 621, 644, 645; Pub. L. 103–296, title I, §108(d)(2), (3), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–299, §4(b)(2), Oct. 11, 1996, 110 Stat. 3645; Pub. L. 105–33, title IV, §§4702(a), 4711(c)(1), 4712(d)(1), 4714(a)(2), 4725(b)(1), 4732(b), 4802(a)(1), 4911(a), Aug. 5, 1997, 111 Stat. 494, 508–510, 518, 520, 538, 570; Pub. L. 105–100, title I, §162(1), (2), Nov. 19, 1997, 111 Stat. 2188; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§605(a), 608(l), (m), (aa)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396 to 1501A–398; Pub. L. 106–169, title I, §121(a)(2), (c)(5), Dec. 14, 1999, 113 Stat. 1829, 1830; Pub. L. 106–170, title II, §201(a)(2)(B), (C), Dec. 17, 1999, 113 Stat. 1892; Pub. L. 106–354, §2(a)(4), (c), Oct. 24, 2000, 114 Stat. 1382, 1384; Pub. L. 106–554, §1(a)(6) \[title VII, §709(a), title VIII, §802(d)(1), (2), title IX, §911(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581, 2763A–584; Pub. L. 108–357, title VII, §712(a)(1), Oct. 22, 2004, 118 Stat. 1558; Pub. L. 109–171, title VI, §6062(c)(2), Feb. 8, 2006, 120 Stat. 98; Pub. L. 110–275, title I, §§112, 118(a), July 15, 2008, 122 Stat. 2503, 2507; Pub. L. 111–148, title II, §§2001(a)(3), (5)(C), (e)(2)(A), 2005(c)(1), 2006, 2301(a), 2302(a), 2303(a)(4)(A), 2304, 2402(d)(2)(B), title IV, §§4106(a), (b), 4107(a), title X, §10201(c), Mar. 23, 2010, 124 Stat. 272, 275, 279, 284, 292–294, 296, 304, 559, 560, 918; Pub. L. 111–152, title I, §§1201, 1202(b), Mar. 30, 2010, 124 Stat. 1051, 1053; Pub. L. 112–96, title III, §3204(a), Feb. 22, 2012, 126 Stat. 193; Pub. L. 112–141, div. F, title I, §100123(b), July 6, 2012, 126 Stat. 915; Pub. L. 114–255, div. B, title XII, §12005(a), Dec. 13, 2016, 130 Stat. 1275; Pub. L. 115–271, title I, §§1006(b)(2), (3), 1012(a), title V, §5052(a)(1), Oct. 24, 2018, 132 Stat. 3914, 3919, 3971; Pub. L. 116–59, div. B, title III, §1302, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title III, §1302, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §202(c), Dec. 20, 2019, 133 Stat. 3107; Pub. L. 116–127, div. F, §§6004(a)(1), (3)(D), 6008(c), Mar. 18, 2020, 134 Stat. 204, 206, 209; Pub. L. 116–136, div. A, title III, §3717, Mar. 27, 2020, 134 Stat. 425; Pub. L. 116–159, div. C, title VI, §2601(a), Oct. 1, 2020, 134 Stat. 738; Pub. L. 116–260, div. CC, title II, §210(a), title IV, §402(f)(1), Dec. 27, 2020, 134 Stat. 2989, 3001; Pub. L. 117–2, title IX, §§9811(a)(1), (b), 9814, 9815, Mar. 11, 2021, 135 Stat. 208, 211, 215; Pub. L. 117–43, div. D, title I, §3105(a), Sept. 30, 2021, 135 Stat. 380; Pub. L. 117–70, div. C, title I, §2104(a), Dec. 3, 2021, 135 Stat. 1504.)
+(Aug. 14, 1935, ch. 531, title XIX, §1905, as added Pub. L. 89–97, title I, §121(a), July 30, 1965, 79 Stat. 351; amended Pub. L. 90–248, title II, §§230, 233, 241(f)(6), 248(e), title III, §302(a), Jan. 2, 1968, 81 Stat. 905, 917, 919, 929; Pub. L. 92–223, §4(a), Dec. 28, 1971, 85 Stat. 809; Pub. L. 92–603, title II, §§212(a), 247(b), 275(a), 278(a)(21)–(23), 280, 297(a), 299, 299B, 299E(b), 299L, Oct. 30, 1972, 86 Stat. 1384, 1425, 1452–1454, 1459–1462, 1464; Pub. L. 93–233, §§13(a)(13)–(18), 18(w), (x)(7)–(10), (y)(2), Dec. 31, 1973, 87 Stat. 963, 964, 972, 973; Pub. L. 94–437, title IV, §402(e), Sept. 30, 1976, 90 Stat. 1410; Pub. L. 95–210, §2(a), (b), Dec. 13, 1977, 91 Stat. 1488; Pub. L. 95–292, §8(a), (b), June 13, 1978, 92 Stat. 316; Pub. L. 96–473, §6(k), Oct. 19, 1980, 94 Stat. 2266; Pub. L. 96–499, title IX, §965(a), Dec. 5, 1980, 94 Stat. 2651; Pub. L. 97–35, title XXI, §§2162(a)(2), 2172(b), Aug. 13, 1981, 95 Stat. 806, 808; Pub. L. 97–248, title I, §§136(c), 137(b)(17), (18), (f), Sept. 3, 1982, 96 Stat. 376, 379, 381; Pub. L. 98–369, div. B, title III, §§2335(f), 2340(b), 2361(b), 2371(a), 2373(b)(15)–(20), July 18, 1984, 98 Stat. 1091, 1093, 1104, 1110, 1112; Pub. L. 99–272, title IX, §§9501(a), 9505(a), 9511(a), Apr. 7, 1986, 100 Stat. 201, 208, 212; Pub. L. 99–509, title IX, §§9403(b), (d), (g)(3), 9404(b), 9408(c)(1), 9435(b)(2), Oct. 21, 1986, 100 Stat. 2053, 2054, 2056, 2061, 2070; Pub. L. 99–514, title XVIII, §1895(c)(3)(A), Oct. 22, 1986, 100 Stat. 2935; Pub. L. 100–203, title IV, §§4073(d), 4101(c)(1), 4103(a), 4105(a), 4114, 4118(p)(8), 4211(e), (f), (h)(6), Dec. 22, 1987, 101 Stat. 1330–119, 1330–141, 1330–146, 1330–147, 1330–152, 1330–159, 1330–204 to 1330–206; Pub. L. 100–360, title III, §301(a)(2)–(d), (g)(2), title IV, §411(h)(4)(E), (k)(4), (8), (14)(A), July 1, 1988, 102 Stat. 748–750, 787, 791, 794, 798; Pub. L. 100–485, title III, §303(b)(2), title IV, §401(d)(2), title VI, §608(d)(14)(A)–(G), (J), (f)(3), Oct. 13, 1988, 102 Stat. 2392, 2396, 2415, 2416, 2424; Pub. L. 100–647, title VIII, §8434(a), (b)(3), (4), Nov. 10, 1988, 102 Stat. 3805; Pub. L. 101–234, title II, §201(b), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6402(c)(1), 6403(a), (c), (d)(2), 6404(a), (b), 6405(a), 6408(d)(2), (4)(A), (B), Dec. 19, 1989, 103 Stat. 2261–2265, 2268, 2269; Pub. L. 101–508, title IV, §§4402(d)(2), 4501(a), (c), (e)(1), 4601(a)(2), 4704(c), (d), (e)(1), 4705(a), 4711(a), 4712(a), 4713(b), 4717, 4719(a), 4721(a), 4722, 4755(a)(1)(A), Nov. 5, 1990, 104 Stat. 1388–163 to 1388–166, 1388–172, 1388–174, 1388–187, 1388–191, 1388–193, 1388–194, 1388–209; Pub. L. 103–66, title XIII, §§13601(a), 13603(e), 13605(a), 13606(a), 13631(f)(2), (g)(1), Aug. 10, 1993, 107 Stat. 612, 620, 621, 644, 645; Pub. L. 103–296, title I, §108(d)(2), (3), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–299, §4(b)(2), Oct. 11, 1996, 110 Stat. 3645; Pub. L. 105–33, title IV, §§4702(a), 4711(c)(1), 4712(d)(1), 4714(a)(2), 4725(b)(1), 4732(b), 4802(a)(1), 4911(a), Aug. 5, 1997, 111 Stat. 494, 508–510, 518, 520, 538, 570; Pub. L. 105–100, title I, §162(1), (2), Nov. 19, 1997, 111 Stat. 2188; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §§605(a), 608(l), (m), (aa)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–396 to 1501A–398; Pub. L. 106–169, title I, §121(a)(2), (c)(5), Dec. 14, 1999, 113 Stat. 1829, 1830; Pub. L. 106–170, title II, §201(a)(2)(B), (C), Dec. 17, 1999, 113 Stat. 1892; Pub. L. 106–354, §2(a)(4), (c), Oct. 24, 2000, 114 Stat. 1382, 1384; Pub. L. 106–554, §1(a)(6) \[title VII, §709(a), title VIII, §802(d)(1), (2), title IX, §911(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581, 2763A–584; Pub. L. 108–357, title VII, §712(a)(1), Oct. 22, 2004, 118 Stat. 1558; Pub. L. 109–171, title VI, §6062(c)(2), Feb. 8, 2006, 120 Stat. 98; Pub. L. 110–275, title I,§§112, 118(a), July 15, 2008, 122 Stat. 2503, 2507; Pub. L. 111–148, title II, §§2001(a)(3), (5)(C), (e)(2)(A), 2005(c)(1), 2006, 2301(a), 2302(a), 2303(a)(4)(A), 2304, 2402(d)(2)(B), title IV, §§4106(a), (b), 4107(a), title X, §10201(c), Mar. 23, 2010, 124 Stat. 272, 275, 279, 284, 292–294, 296, 304, 559, 560, 918; Pub. L. 111–152, title I, §§1201, 1202(b), Mar. 30, 2010, 124 Stat. 1051, 1053; Pub. L. 112–96, title III, §3204(a), Feb. 22, 2012, 126 Stat. 193; Pub. L. 112–141, div. F, title I, §100123(b), July 6, 2012, 126 Stat. 915; Pub. L. 114–255, div. B, title XII, §12005(a), Dec. 13, 2016, 130 Stat. 1275; Pub. L. 115–271, title I, §§1006(b)(2), (3), 1012(a), title V, §5052(a)(1), Oct. 24, 2018, 132 Stat. 3914, 3919, 3971; Pub. L. 116–59, div. B, title III, §1302, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title III, §1302, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §202(c), Dec. 20, 2019, 133 Stat. 3107; Pub. L. 116–127, div. F, §§6004(a)(1), (3)(D), 6008(c), Mar. 18, 2020, 134 Stat. 204, 206, 209; Pub. L. 116–136, div. A, title III, §3717, Mar. 27, 2020, 134 Stat. 425; Pub. L. 116–159, div. C, title VI, §2601(a), Oct. 1, 2020, 134 Stat. 738; Pub. L. 116–260, div. CC, title II, §210(a), title IV, §402(f)(1), Dec. 27, 2020, 134 Stat. 2989, 3001; Pub. L. 117–2, title IX, §§9811(a)(1), (b), 9814, 9815, Mar. 11, 2021, 135 Stat. 208, 211, 215; Pub. L. 117–43, div. D, title I, §3105(a), Sept. 30, 2021, 135 Stat. 380; Pub. L. 117–70, div. C, title I, §2104(a), Dec. 3, 2021, 135 Stat. 1504; Pub. L. 117–86, div. B, title I, §1104(a), Feb. 18, 2022, 136 Stat. 17; Pub. L. 117–103, div. P, title II, §201(a), Mar. 15, 2022, 136 Stat. 802; Pub. L. 117–169, title I, §11405(a)(3), Aug. 16, 2022, 136 Stat. 1901; Pub. L. 117–180, div. D, title I, §103, Sept. 30, 2022, 136 Stat. 2135; Pub. L. 117–229, div. C, title I, §103, Dec. 16, 2022, 136 Stat. 2311; Pub. L. 117–328, div. FF, title V, §§5101(b), 5121(b), 5122(a)(1), Dec. 29, 2022, 136 Stat. 5934, 5942, 5943.)
 
 #### Applicability of Amendment
 
-<i>Amendment of section by section 210(a) of Pub. L. 116–260 applicable with respect to items and services furnished on or after Jan. 1, 2022. See 2020 Amendment notes below.</i>
+<i>Amendment of section by section 5121(b) of Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24 months after Dec. 29, 2022. See 2022 Amendment note below.</i>
+
+#### Amendment of Subsection (a)
+
+<i>Pub. L. 117–328, div. FF, title V, §5122(a)(1), (c), Dec. 29, 2022, 136 Stat. 5943, 5944, provided that, effective on the first day of the first calendar quarter that begins after the date that is 24 months after Dec. 29, 2022, and applicable to items and services furnished for periods beginning on or after such date, subdivision (A) of subsection (a) of this section following paragraph (31) is amended by inserting ", or, at the option of the State, for an individual who is an eligible juvenile (as defined in section 1396a(nn)(2) of this title), while such individual is an inmate of a public institution (as defined in section 1396a(nn)(3) of this title) pending disposition of charges" after "or in the case of an eligible juvenile described in section 1396a(a)(84)(D) of this title with respect to the screenings, diagnostic services, referrals, and targeted case management services required under such section". See 2022 Amendment note below.</i>
+
+#### Amendment of Subsection (b)
+
+<i>Pub. L. 117–169, title I, §11405(a)(3), (c), Aug. 16, 2022, 136 Stat. 1901, provided that, effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022, and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, subsection (b) of this section is amended as follows:</i>
+
+<i>(1) by striking "and (5)" and inserting "(5)";</i>
+
+<i>(2) by striking "services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines" and inserting "services described in subsection (a)(13)(A), and prohibits cost-sharing for such services";</i>
+
+<i>(3) by striking "medical assistance for such services and vaccines" and inserting "medical assistance for such services"; and</i>
+
+<i>(4) by inserting ", and (6) during the first 8 fiscal quarters beginning on or after the effective date of this clause, in the case of a State which, as of August 16, 2022, provides medical assistance for vaccines described in subsection (a)(13)(B) and their administration and prohibits cost-sharing for such vaccines, the Federal medical assistance percentage, as determined under this subsection and subsection (y), shall be increased by 1 percentage point with respect to medical assistance for such vaccines and their administration" before the first period.</i>
+
+<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -782,7 +800,7 @@ Section 211 of Pub. L. 93–66, referred to in subsec. (k), is section 211 of Pu
 
 The Indian Self-Determination Act, referred to in subsecs. (b) and (l)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which was classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians, prior to editorial reclassification as subchapter I (§5321 et seq.) of chapter 46 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (l)(2)(B), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally tosubchapter IV (§1651 et seq.) of chapter 18 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (l)(2)(B), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 Clause (ii), referred to in subsec. (l)(2)(B), was redesignated as cl. (iii) by Pub. L. 101–508, title IV, §4704(c)(3), Nov. 5, 1990, 104 Stat. 1388–172.
 
@@ -790,7 +808,7 @@ Section 607 of this title, referred to in subsec. (m)(1), was repealed and a new
 
 Section 212 of Public Law 93–66, referred to in subsec. (q)(1)(A), is section 212 of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, which is set out as a note under section 1382 of this title.
 
-Section 5001 of Public Law 111–5 and section 5001 of the American Recovery and Reinvestment Act of 2009, referred to in subsecs. (aa)(1)(A), (2)(A), and (cc), is section 5001 of Pub. L. 111–5, div. B, title V, Feb. 17, 2009, 123 Stat. 496, which was formerly set out as a note under this section.
+Section 5001 of Public Law 111–5 and section 5001 of the American Recovery and Reinvestment Act of 2009,referred to in subsecs. (aa)(1)(A), (2)(A), and (cc), is section 5001 of Pub. L. 111–5, div. B, title V, Feb. 17, 2009, 123 Stat. 496, which was formerly set out as a note under this section.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (aa)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
@@ -800,9 +818,37 @@ Section 6008 of the Families First Coronavirus Response Act, referred to in subs
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a). Pub. L. 117–328, §5122(a)(1), which directed insertion of ", or, at the option of the State, for an individual who is an eligible juvenile (as defined in section 1396a(nn)(2) of this title), while such individual is an inmate of a public institution (as defined in section 1396a(nn)(3) of this title) pending disposition of charges" after "or in the case of an eligible juvenile described in section 1396a(a)(84)(D) of this title with respect to the screenings, diagnostic services, referrals, and case management required under such section" in subd. (A) following par. (31), was executed by making the insertion after "or in the case of an eligible juvenile described in section 1396a(a)(84)(D) of this title with respect to the screenings, diagnostic services, referrals, and targeted case management services required under such section", to reflect the probable intent of Congress.
+
+Pub. L. 117–328, §5121(b), in subd. (A) following par. (31), inserted ", or in the case of an eligible juvenile described in section 1396a(a)(84)(D) of this title with respect to the screenings, diagnostic services, referrals, and targeted case management services required under such section" after "(except as a patient in a medical institution".
+
+Subsec. (b). Pub. L. 117–169, §11405(a)(3)(A)–(C), substituted "(5) in the case of" for "and (5) in the case of", "services described in subsection (a)(13)(A), and prohibits cost-sharing for such services" for "services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines", and "medical assistance for such services" for "medical assistance for such services and vaccines".
+
+Subsec. (b)(6). Pub. L. 117–169, §11405(a)(3)(D), inserted ", and (6) during the first 8 fiscal quarters beginning on or after the effective date of this clause, in the case of a State which, as of August 16, 2022, provides medical assistance for vaccines described in subsection (a)(13)(B) and their administration and prohibits cost-sharing for such vaccines, the Federal medical assistance percentage, as determined under this subsection and subsection (y), shall be increased by 1 percentage point with respect to medical assistance for such vaccines and their administration" before the first period.
+
+Subsec. (ff). Pub. L. 117–328, §5101(b)(1), struck out "Temporary" before "increase in FMAP" in heading.
+
+Subsec. (ff)(2). Pub. L. 117–328, §5101(b)(2), struck out "subject to section 1308(g)(7)(C) of this title," before "for the period beginning December 21, 2019," and substituted "September 30, 2027," for "December 23, 2022".
+
+Pub. L. 117–229, §103(1), substituted "December 23, 2022" for "December 16, 2022".
+
+Pub. L. 117–180 substituted "December 16" for "December 13".
+
+Pub. L. 117–103, §201(a)(1), inserted "and for the period beginning January 1, 2022, and ending December 13, 2022" after "and ending December 3, 2021,".
+
+Subsec. (ff)(3). Pub. L. 117–328, §5101(b)(3), substituted "beginning December 21, 2019" for "for the period beginning December 21, 2019, and ending December 23, 2022".
+
+Pub. L. 117–229, §103(2), substituted "December 23, 2022" for "December 16, 2022".
+
+Pub. L. 117–180 substituted "December 16" for "December 13".
+
+Pub. L. 117–103, §201(a)(2), substituted "December 13, 2022" for "March 11, 2022".
+
+Pub. L. 117–86 substituted "March 11, 2022" for "February 18, 2022".
+
 <b>2021</b>—Subsec. (a)(4). Pub. L. 117–2, §9811(a)(1), added cls. (E) and (F).
 
-Subsec. (b). Pub. L. 117–2, §9815, inserted "; for the 8 fiscal year quarters beginning with the first fiscal year quarter beginning after March 11, 2021, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Urban Indian organization (as defined in paragraph (29) of section 4 of the Indian Health Care Improvement Act \[25 U.S.C. 1603(29)\]) that has a grant or contract with the Indian Health Service under title V of such Act \[25 U.S.C. 1651 et seq.\]; and, for such 8 fiscal year quarters, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through a Native Hawaiian Health Center (as defined in section 11711(4) of this title) or a qualified entity (as defined in section 11705(b) of this title) that has a grant or contract with the Papa Ola Lokahi under section 11707 of this title" after "after (as defined in section 4 of the Indian Health Care Improvement Act)".
+Subsec. (b). Pub. L. 117–2, §9815, inserted "; for the 8 fiscal year quarters beginning with the first fiscal year quarter beginning after March 11, 2021, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Urban Indian organization (as defined in paragraph (29) of section 4 of the Indian Health Care Improvement Act) that has a grant or contract with the Indian Health Service under title V of such Act; and, for such 8 fiscal year quarters, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through a Native Hawaiian Health Center (as defined in section 11711(4) of this title) or a qualified entity (as defined in section 11705(b) of this title) that has a grant or contract with the Papa Ola Lokahi under section 11707 of this title" after "after (as defined in section 4 of the Indian Health Care Improvement Act)".
 
 Pub. L. 117–2, §9814(1), substituted "(hh), and (ii)" for "and (hh)".
 
@@ -1014,7 +1060,7 @@ Pub. L. 105–33, §4732(b), substituted "Subject to section 1396u–3(d) of thi
 
 Pub. L. 105–33, §4725(b)(1), in first sentence, substituted ", (2)" for "and (2)" and inserted before period ", and (3) for purposes of this subchapter and subchapter XXI, the Federal medical assistance percentage for the District of Columbia shall be 70 percent".
 
-Subsec. (l)(2)(B)(iii). Pub. L. 105–33, §4712(d)(1), inserted "including requirements of the Secretary thatan entity may not be owned, controlled, or operated by another entity," after "such a grant,".
+Subsec. (l)(2)(B)(iii). Pub. L. 105–33, §4712(d)(1), inserted "including requirements of the Secretary that an entity may not be owned, controlled, or operated by another entity," after "such a grant,".
 
 Subsec. (o)(3). Pub. L. 105–33, §4711(c)(1), substituted "amount determined in section 1396a(a)(13)(B) of this title" for "amount described in section 1396a(a)(13)(D) of this title" in concluding provisions.
 
@@ -1384,6 +1430,14 @@ Subsec. (b). Pub. L. 90–248, §248(e), substituted in cl. (2) of first sentenc
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by section 5121(b) of Pub. L. 117–328 applicable beginning on the first day of the first calendar quarter that begins on or after the date that is 24 months after Dec. 29, 2022, see section 5121(d) of Pub. L. 117–328, set out as a note under section 1396a of this title.
+
+Amendment by section 5122(a)(1) of Pub. L. 117–328 effective on the first day of the first calendar quarter that begins after the date that is 24 months after Dec. 29, 2022, and applicable to items and services furnished for periods beginning on or after such date, see section 5122(c) of Pub. L. 117–328, set out as a note under section 1396a of this title.
+
+Amendment by Pub. L. 117–169 effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022, and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, see section 11405(c) of Pub. L. 117–169, set out as a note under section 1396a of this title.
+
 #### Effective Date of 2020 Amendment
 
 Amendment by section 210(a) of Pub. L. 116–260 applicable with respect to items and services furnished on or after Jan. 1, 2022, see section 210(e) of Pub. L. 116–260, set out as a note under section 1308 of this title.
@@ -1402,7 +1456,7 @@ In general.—Except as provided in paragraph (2), the amendment made by subsect
 
 "(2)
 
-Rule for changes requiring state legislation.—In the case of a State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendment made by subsection (a), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
+Rule for changes requiring state legislation.—In the case of a State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendment made by subsection (a), the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins afterthe date of the enactment of this Act. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
 
 #### Effective Date of 2016 Amendment
 
@@ -1438,7 +1492,7 @@ Amendment by Pub. L. 109–171 applicable to medical assistance for items and se
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 effective Oct. 22, 2004, and applicable to medical assistance and services provided under this subchapter on or after that date, seesection 712(d) of Pub. L. 108–357, set out as a note under section 1396b of this title.
+Amendment by Pub. L. 108–357 effective Oct. 22, 2004, and applicable to medical assistance and services provided under this subchapter on or after that date, see section 712(d) of Pub. L. 108–357, set out as a note under section 1396b of this title.
 
 #### Effective Date of 2000 Amendments
 
@@ -1472,7 +1526,7 @@ Amendment by section 4711(c)(1) of Pub. L. 105–33 effective Aug. 5, 1997, and 
 
 Pub. L. 105–33, title IV, §4712(d)(2), Aug. 5, 1997, 111 Stat. 509, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to services furnished on or after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
-Amendment by section 4714(a)(2) of Pub. L. 105–33 applicable to payment for (and with respect to provider agreements with respect to) items and services furnished on or after Aug. 5, 1997, and to payment by a State for items and services furnished before such date if such payment is subject of lawsuit that is based on subsection (p) of this section and section 1396a(n) of this title and that is pending as of, or is initiated after Aug. 5, 1997, see section 4714(c) of Pub. L. 105–33, set out as a note under section 1396a of this title.
+Amendment by section 4714(a)(2) of Pub. L. 105–33 applicable to payment for (and with respect to provideragreements with respect to) items and services furnished on or after Aug. 5, 1997, and to payment by a State for items and services furnished before such date if such payment is subject of lawsuit that is based on subsection (p) of this section and section 1396a(n) of this title and that is pending as of, or is initiated after Aug. 5, 1997, see section 4714(c) of Pub. L. 105–33, set out as a note under section 1396a of this title.
 
 Pub. L. 105–33, title IV, §4725(b)(2), Aug. 5, 1997, 111 Stat. 518, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to—
 
@@ -1508,7 +1562,7 @@ Pub. L. 103–66, title XIII, §13631(g)(2), Aug. 10, 1993, 107 Stat. 645, provi
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 4402(d)(2) of Pub. L. 101–508 applicable, except as otherwise provided, to paymentsunder this subchapter for calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4402 of Pub. L. 101–508 have been promulgated by such date, see section 4402(e) of Pub. L. 101–508, set out as a note under section 1396a of this title.
+Amendment by section 4402(d)(2) of Pub. L. 101–508 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4402 of Pub. L. 101–508 have been promulgated by such date, see section 4402(e) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
 Amendment by section 4501(a), (c), (e)(1) of Pub. L. 101–508 applicable to calendar quarters beginning on or after Jan. 1, 1991, without regard to whether or not regulations to implement the amendments by section 4501 of Pub. L. 101–508 are promulgated by such date, except that amendment by section 4501(e)(1) of Pub. L. 101–508 is applicable to determinations of income for months beginning with January 1991, see section 4501(f) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
@@ -1534,7 +1588,7 @@ Pub. L. 101–508, title IV, §4755(a)(1)(B), Nov. 5, 1990, 104 Stat. 1388–209
 
 Amendment by section 6403(a), (c), (d)(2) of Pub. L. 101–239 effective Apr. 1, 1990, without regard to whether or not final regulations to carry out the amendments by section 6403 of Pub. L. 101–239 have been promulgated by such date, see section 6403(e) of Pub. L. 101–239, set out as a note under section 1396a of this title.
 
-Amendment by section 6404(a), (b) of Pub. L. 101–239 applicable, except as otherwise provided, to payments under this subchapter for calendar quarters beginning on or after Apr. 1, 1990, without regard to whether or not final regulations to carry out the amendments by section 6404 of Pub. L. 101–239 have been promulgated by such date, see section 6404(d) of Pub. L. 101–239, set out as a note under section 1396a of this title.
+Amendment by section 6404(a), (b) of Pub. L. 101–239 applicable, except as otherwise provided, to paymentsunder this subchapter for calendar quarters beginning on or after Apr. 1, 1990, without regard to whether or not final regulations to carry out the amendments by section 6404 of Pub. L. 101–239 have been promulgated by such date, see section 6404(d) of Pub. L. 101–239, set out as a note under section 1396a of this title.
 
 Amendment by section 6405(a) of Pub. L. 101–239 effective with respect to services furnished by a certified pediatric nurse practitioner or certified family nurse practitioner on or after July 1, 1990, see section 6405(c) of Pub. L. 101–239, set out as a note under section 1396a of this title.
 
@@ -1662,6 +1716,62 @@ Pub. L. 108–357, title VII, §712(a)(2), Oct. 22, 2004, 118 Stat. 1558, provid
 
 Amendment by Pub. L. 106–170 to be executed as if Pub. L. 106–169 had been enacted after the enactment of Pub. L. 106–170, see section 121(c)(1) of Pub. L. 106–169, set out as a note under section 1396a of this title.
 
+#### Review of State Implementation of Early and Periodic Screening, Diagnostic, and Treatment Services
+
+Pub. L. 117–159, div. A, title I, §11004, June 25, 2022, 136 Stat. 1319, provided that:
+
+"(a)
+
+Review.—
+
+&emsp;"(1)
+
+In general.—Not later than 24 months after the date of enactment of Act \[probably means "this Act", June 25, 2022\], and every 5 years thereafter, the Secretary shall—
+
+&emsp;&emsp;"(A) review State implementation of the requirements for providing early and periodic screening, diagnostic, and treatment services under Medicaid in accordance with sections 1902(a)(43), 1905(a)(4)(B), and 1905(r) of the Social Security Act (42 U.S.C. 1396a(a)(43), 1396d(a)(4)(B), 1396d(r)), including with respect to the provision of such services by managed care organizations, prepaid inpatient health plans, prepaid ambulatory health plans, and primary care case managers;
+
+&emsp;&emsp;"(B) identify gaps and deficiencies with respect to State compliance with such requirements;
+
+&emsp;&emsp;"(C) provide technical assistance to States to address such gaps and deficiencies; and
+
+&emsp;&emsp;"(D) issue guidance to States on the Medicaid coverage requirements for such services that includes best practices for ensuring children have access to comprehensive health care services, including children without a mental health or substance use disorder diagnosis.
+
+&emsp;"(2)
+
+Reports to congress.—Not later than 6 months after each date on which the Secretary completes the activities described in paragraph (1), the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the most recent activities completed for purposes of such paragraph that includes the findings made, and descriptions of actions taken by the Secretary or by States as a result of such activities, and any additional actions the Secretary plans to carry out or that States are required to carry out as a result of such activities.
+
+&emsp;"(3)
+
+Funding.—Out of any funds in the Treasury not otherwise appropriated, there is appropriated to the Secretary to carry out this subsection, to remain available until expended, $5,000,000, for each of fiscal years 2023 and 2024, and $1,000,000 for each fiscal year thereafter.
+
+"(b)
+
+GAO Study and Report.—
+
+&emsp;"(1)
+
+Study.—The Comptroller General of the United States (in this subsection referred to as the 'Comptroller General') shall conduct a study evaluating State implementation under Medicaid of the early and periodic screening, diagnostic, and treatment services benefit required for children by section 1905(a)(4)(B) of the Social Security Act (42 U.S.C. 1396d(a)(4)(B)) and as defined in section 1905(r) of such Act (42 U.S.C. 1396d(r)) and provided in accordance with the requirements of section 1902(a)(43) of such Act (42 U.S.C. 1396a(a)(43)), specifically with respect to State oversight of managed care organizations, prepaid inpatient health plans, prepaid ambulatory health plans, and primary care case managers, and shall provide recommendations as appropriate to improve State compliance with the requirements for providing such benefit, State oversight of managed care organizations, prepaid inpatient health plans, prepaid ambulatory health plans, and primary care case managers, and oversight of State programs under Medicaid by the Administrator of the Centers for Medicare \& Medicaid Services.
+
+&emsp;"(2)
+
+Report.—Not later than 3 years after the date of enactment of this Act, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) that includes the recommendations required by such paragraph, as well as recommendations for such legislation and administrative action as the Comptroller General determines appropriate.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Medicaid.—The term 'Medicaid' means the program established under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).
+
+&emsp;"(2)
+
+Secretary.—Except as otherwise provided, the term 'Secretary' means the Secretary of Health and Human Services.
+
+&emsp;"(3)
+
+State.—The term 'State' has the meaning given that term in section 1101(a)(1) of the Social Security Act (42 U.S.C. 1301(a)(1)) for purposes of titles XIX and XXI of such Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\]."
+
 #### Additional Support for Medicaid Home and Community-Based Services During the COVID–19 Emergency
 
 Pub. L. 117–2, title IX, §9817, Mar. 11, 2021, 135 Stat. 216, provided that:
@@ -1710,7 +1820,7 @@ Eligible individual.—The term 'eligible individual' means an individual who is
 
 &emsp;&emsp;"(D)
 
-Medicaid program.—The term 'Medicaid program' means, with respect to a State, the Stateprogram under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) (including any waiver or demonstration under such title or under section 1115 of such Act (42 U.S.C. 1315) relating to such title).
+Medicaid program.—The term 'Medicaid program' means, with respect to a State, the State program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) (including any waiver or demonstration under such title or under section 1115 of such Act (42 U.S.C. 1315) relating to such title).
 
 &emsp;&emsp;"(E)
 
@@ -1730,35 +1840,75 @@ Required implementation of certain activities.—The State shall implement, or s
 
 #### Temporary Increase of Medicaid FMAP
 
-Pub. L. 116–127, div. F, §6008(a), (b), (d), Mar. 18, 2020, 134 Stat. 208, as amended by Pub. L. 116–136, div. A, title III, §3720, Mar. 27, 2020, 134 Stat. 427; Pub. L. 116–260, div. X, §11, Dec. 27, 2020, 134 Stat. 2417, provided that:
+Pub. L. 116–127, div. F, §6008(a), (b), (d)–(g), Mar. 18, 2020, 134 Stat. 208, as amended by Pub. L. 116–136, div. A, title III, §3720, Mar. 27, 2020, 134 Stat. 427; Pub. L. 116–260, div. X, §11, Dec. 27, 2020, 134 Stat. 2417; Pub. L. 117–328, div. FF, title V, §5131(a), Dec. 29, 2022, 136 Stat. 5949, provided that:
 
 "(a)
 
-In General.—Subject to subsection (b), for each calendar quarter occurring during the period beginning on the first day of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) and ending on the last day of the calendar quarter in which the last day of such emergency period occurs, the Federal medical assistance percentage determined for each State, including the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, Puerto Rico, and the United States Virgin Islands, under section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)) shall be increased by 6.2 percentage points.
+In General.—
+
+&emsp;"(1)
+
+Temporary fmap increase.—Subject to subsections (b) and (f), for each calendar quarter occurring during the period beginning on the first day of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act (42 U.S.C. 1320b–5(g)) and ending on December 31, 2023, the Federal medical assistance percentage determined for each State, including the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, Puerto Rico, and the United States Virgin Islands, under section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)) shall be increased by the applicable number of percentage points for the quarter (as determined in paragraph (2)).
+
+&emsp;"(2)
+
+Applicable number of percentage points.—For purposes of paragraph (1), the applicable number of percentage points for a calendar quarter is the following:
+
+&emsp;&emsp;"(A) For each calendar quarter that occurs during the portion of the period described in paragraph (1) that ends on March 31, 2023, 6.2 percentage points.
+
+&emsp;&emsp;"(B) For the calendar quarter that begins on April 1, 2023, and ends on June 30, 2023, 5 percentage points.
+
+&emsp;&emsp;"(C) For the calendar quarter that begins on July 1, 2023, and ends on September 30, 2023, 2.5 percentage points.
+
+&emsp;&emsp;"(D) For the calendar quarter that begins on October 1, 2023, and ends on December 31, 2023, 1.5 percentage points.
 
 "(b)
 
-Requirement for All States.—A State described in subsection (a) may not receive the increase described in such subsection in the Federal medical assistance percentage for such State, with respect to a quarter, if—
+Requirement for All States.—A State described in subsection (a)(1) may not receive the increase described in such subsection in the Federal medical assistance percentage for such State, with respect to a quarter, if—
 
 &emsp;"(1) eligibility standards, methodologies, or procedures under the State plan of such State under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) (including any waiver under such title or section 1115 of such Act (42 U.S.C. 1315)) are more restrictive during such quarter than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on January 1, 2020;
 
-&emsp;"(2) the amount of any premium imposed by the State pursuant to section 1916 or 1916A of such Act (42 U.S.C. 1396o, 1396o–1) during such quarter, with respect to an individual enrolled under such plan (or waiver), exceeds the amount of such premium as of January 1, 2020;
+&emsp;"(2) the amount of any premium imposed by the State pursuant to section 1916 or 1916A of such Act (42 U.S.C. 1396o, 1396o–1) during such quarter exceeds the amount of such premium as of January 1, 2020;
 
-&emsp;"(3) the State fails to provide that an individual who is enrolled for benefits under such plan (or waiver) as of the date of enactment of this section \[Mar. 18, 2020\] or enrolls for benefits under such plan (or waiver) during the period beginning on such date of enactment and ending the last day of the month in which the emergency period described in subsection (a) ends shall be treated as eligible for such benefits through the end of the month in which such emergency period ends unless the individual requests a voluntary termination of eligibility or the individual ceases to be a resident of the State; or
+&emsp;"(3) the State fails to provide that an individual who is enrolled for benefits under such plan (or waiver) as of March 18, 2020, or enrolls for benefits under such plan (or waiver) during the period beginning on March 18, 2020, and ending March 31, 2023, shall be treated as eligible for such benefits through March 31, 2023, unless the individual requests a voluntary termination of eligibility or the individual ceases to be a resident of the State; or
 
 &emsp;"(4) the State does not provide coverage under such plan (or waiver), without the imposition of cost sharing, during such quarter for any testing services and treatments for COVID–19, including vaccines, specialized equipment, and therapies.
 
-"(d) \[sic\]
+"(d)
 
 Delay in Application of Premium Requirement.—During the 30 day period beginning on the date of enactment of this Act, a State shall not be ineligible for the increase to the Federal medical assistance percentage of the State described in subsection (a) on the basis that the State imposes a premium that violates the requirement of subsection (b)(2) if such premium was in effect on the date of enactment of this Act.
 
-"(d) \[sic\]
+"(e)
 
-Delay in Application of Premium Requirement.—During the 30 day period beginning on the date of enactment of this Act, a State shall not be ineligible for the increase to the Federal medical assistance percentage of the State described in subsection (a) on the basis that the State imposes a premium that violates the requirement of subsection (b)(2) if such premium was in effect on the date of enactment of this Act.
+Application to Title IV-E Payments.—If the District of Columbia receives the increase described in subsection (a) in the Federal medical assistance percentage for the District of Columbia with respect to a quarter, the Federal medical assistance percentage for the District of Columbia, as so increased, shall apply to payments made to the District of Columbia under part E of title IV of the Social Security Act (42 U.S.C. 670 et seq.) for that quarter, and the payments under such part shall be deemed to be made on the basis of the Federal medical assistance percentage applied with respect to such District for purposes of title XIX of such Act (42 U.S.C. 1396 et seq.) and as increased under subsection (a).
 
-"(d) \[sic\]
+"(f)
 
-Application to Title IV-E Payments.—If the District of Columbia receives the increase described in subsection (a) in the Federal medical assistance percentage for the District of Columbia with respect to a quarter, the Federal medical assistance percentage for the District of Columbia, as so increased, shall apply to payments made to the District of Columbia under part E of title IV of the Social Security Act (42 U.S.C. 670 et seq.) for that quarter, and the payments under such part shall be deemed to be made on the basis of the Federal medical assistance percentage applied with respect to such District for purposes of title XIX of such Act (42 U.S.C. 1396 et seq.) and as increased under subsection (a)."
+Eligibility Redeterminations During Transition Period.—
+
+&emsp;"(1)
+
+In general.— For each calendar quarter occurring during the portion of the period described in subsection (a)(1) that begins on April 1, 2023, and ends on December 31, 2023 (such portion to be referred to in this subsection as the 'transition period'), if a State described in such subsection satisfies the conditions of subsection (b) and paragraph (2) of this subsection, the State shall receive the increase to the Federal medical assistance percentage of the State applicable under subsection (a). Nothing in this subsection shall be construed as prohibiting a State, following the expiration of the condition described in paragraph (3) of subsection (b), from initiating renewals, post-enrollment verifications, and redeterminations over a 12-month period for all individuals who are enrolled in such plan (or waiver) as of April 1, 2023.
+
+&emsp;"(2)
+
+Conditions for fmap increase during transition period.—The conditions of this paragraph with respect to a State and the transition period are the following:
+
+&emsp;&emsp;"(A)
+
+Compliance with federal requirements.—The State conducts eligibility redeterminations under title XIX of the Social Security Act in accordance with all Federal requirements applicable to such redeterminations, including renewal strategies authorized under section 1902(e)(14)(A) of the Social Security Act (42 U.S.C. 1396a(e)(14)(A)) or other alternative processes and procedures approved by the Secretary of Health and Human Services.
+
+&emsp;&emsp;"(B)
+
+Maintenance of up-to-date contact information.—The State, using the National Change of Address Database Maintained by the United States Postal Service, State health and human services agencies, or other reliable sources of contact information, attempts to ensure that it has up-to-date contact information (including a mailing address, phone number, and email address) for each individual for whom the State conducts an eligibility redetermination.
+
+&emsp;&emsp;"(C)
+
+Requirement to attempt to contact beneficiaries prior to disenrollment.—The State does not disenroll from the State plan or waiver any individual who is determined ineligible for medical assistance under the State plan or waiver pursuant to such a redetermination on the basis of returned mail unless the State first undertakes a good faith effort to contact the individual using more than one modality.
+
+"(g)
+
+Applicable Quarters.—A State that ceases to meet the requirements of subsection (b) or (f) (as applicable) shall not qualify for the increase described in subsection (a) in the Federal medical assistance percentage for such State for the calendar quarter in which the State ceases to meet such requirements."
 
 Pub. L. 111–5, div. B, title V, §5001, Feb. 17, 2009, 123 Stat. 496, as amended by Pub. L. 111–226, title II, §201, Aug. 10, 2010, 124 Stat. 2393, provided for a temporary increase of the Federal medical assistance percentage rate that States are reimbursed for most Medicaid expenditures through June 30, 2011.
 
@@ -1826,7 +1976,7 @@ Core standardized assessment instruments.—Development of core standardized ass
 
 &emsp;"(6)
 
-Data collection.—The State agrees to collect from providers of services and through such other means as the State determines appropriate the following data:
+Data collection.—The State agrees to collect from providers of services and through such othermeans as the State determines appropriate the following data:
 
 &emsp;&emsp;"(A)
 
@@ -1974,7 +2124,7 @@ Study.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Health and Human Services, in consultation with Governors, directors of State medicaid programs, the American Academy of Actuaries, and representatives of appropriate provider and beneficiary organizations, shall conduct a study of the provision of early and periodicscreening, diagnostic, and treatment services under the medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in accordance with the requirements of section 1905(r) of such Act (42 U.S.C. 1396d(r)).
+In general.—The Secretary of Health and Human Services, in consultation with Governors, directors of State medicaid programs, the American Academy of Actuaries, and representatives of appropriate provider and beneficiary organizations, shall conduct a study of the provision of early and periodic screening, diagnostic, and treatment services under the medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] in accordance with the requirements of section 1905(r) of such Act (42 U.S.C. 1396d(r)).
 
 &emsp;"(2)
 

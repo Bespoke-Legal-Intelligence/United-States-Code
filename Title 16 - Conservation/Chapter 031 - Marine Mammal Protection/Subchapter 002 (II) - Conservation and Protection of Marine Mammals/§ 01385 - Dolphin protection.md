@@ -46,7 +46,7 @@ For purposes of this section—
 
 (2) For purposes of paragraph (1)(C), a tuna product that contains tuna harvested in the eastern tropical Pacific Ocean by a vessel using purse seine nets is dolphin safe if—
 
-&emsp;(A) the vessel is of a type and size that the Secretary has determined, consistent with the International Dolphin Conservation Program,is not capable of deploying its purse seine nets on or to encircle dolphins; or
+&emsp;(A) the vessel is of a type and size that the Secretary has determined, consistent with the International Dolphin Conservation Program, is not capable of deploying its purse seine nets on or to encircle dolphins; or
 
 &emsp;(B)(i) the product is accompanied by a written statement executed by the captain providing the certification required under subsection (h);
 
@@ -106,7 +106,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 #### (g) Secretarial findings
 
-(1) Between March 1, 1999, and March 31, 1999, the Secretary shall, on the basis of the research conducted before March 1, 1999, under section 1414a(a) of this title, information obtained underthe International Dolphin Conservation Program, and any other relevant information, make an initial finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The initial finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
+(1) Between March 1, 1999, and March 31, 1999, the Secretary shall, on the basis of the research conducted before March 1, 1999, under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make an initial finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The initial finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 
 (2) Between July 1, 2001, and December 31, 2002, the Secretary shall, on the basis of the completed study conducted under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make a finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 
@@ -114,7 +114,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 (1) Unless otherwise required by paragraph (2), the certification by the captain under subsection (d)(2)(B)(i) and the certification provided by the observer as specified in subsection (d)(2)(B)(ii) shall be that no dolphins were killed or seriously injured during the sets in which the tuna were caught.
 
-(2) The certification by the captain under subsection (d)(2)(B)(i) and the certification provided by the observer as specified under subsection (d)(2)(B)(ii) shall be that no tuna were caught on the trip in which such tuna were harvested using a purse seine net intentionally deployed on or to encircle dolphins, and that no dolphins were killed or seriously injured during the sets in which the tuna were caught, if the tuna were caught on a trip commencing—
+(2) The certification by the captain under subsection (d)(2)(B)(i) and the certification provided by the observer as specified under subsection\(d)(2)(B)(ii) shall be that no tuna were caught on the trip in which such tuna were harvested using a purse seine net intentionally deployed on or to encircle dolphins, and that no dolphins were killed or seriously injured during the sets in which the tuna were caught, if the tuna were caught on a trip commencing—
 
 &emsp;(A) before the effective date of the initial finding by the Secretary under subsection (g)(1);
 

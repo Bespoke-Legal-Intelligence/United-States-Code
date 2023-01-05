@@ -12,7 +12,7 @@ If the Secretary establishes the position of Under Secretary of Agriculture for 
 
 #### (1) Principal functions
 
-&emsp;Upon establishment, the Secretary shall delegate to the Under Secretary of Agriculture for Marketing and Regulatory Programs those functions and duties under the jurisdiction of the Department that are related to agricultural marketing, animal and plant health inspection, grain inspection, and packers and stockyards.
+&emsp;Upon establishment, the Secretary shall delegate to the Under Secretary of Agriculturefor Marketing and Regulatory Programs those functions and duties under the jurisdiction of the Department that are related to agricultural marketing, animal and plant health inspection, grain inspection, and packers and stockyards.
 
 #### (2) Additional functions
 
@@ -20,7 +20,7 @@ If the Secretary establishes the position of Under Secretary of Agriculture for 
 
 #### (d) Succession
 
-Any official who is serving as Assistant Secretary of Agriculture for Marketing and Regulatory Programs on October 21, 1998, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 21, 1998 (or suchlater date set by the Secretary if litigation delays rapid succession).
+Any official who is serving as Assistant Secretary of Agriculture for Marketing and Regulatory Programs on October 21, 1998, and who was appointed by the President, by and with the advice and consent of the Senate, shall not be required to be reappointed under subsection (b) to the successor position authorized under subsection (a) if the Secretary establishes the position, and the official occupies the new position, within 180 days after October 21, 1998 (or such later date set by the Secretary if litigation delays rapid succession).
 
 (Pub. L. 103–354, title II, §285, as added Pub. L. 105–277, div. A, §101(a) \[title X, §1001(3)\], Oct. 21, 1998, 112 Stat. 2681, 2681–41.)
 

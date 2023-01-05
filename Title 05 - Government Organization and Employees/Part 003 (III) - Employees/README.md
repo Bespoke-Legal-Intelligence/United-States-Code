@@ -111,7 +111,7 @@
 | [<b>99.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20099%20-%20Department%20of%20Defense%20Personnel%20Authorities/README.md) | <b>Department of Defense Personnel Authorities</b> | <b>9901</b> |
 | [<b>101.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20101%20-%20Federal%20Emergency%20Management%20Agency%20Personnel/README.md) | <b>Federal Emergency Management Agency Personnel</b> | <b>10101</b> |
 | [<b>102.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20102%20-%20United%20States%20Secret%20Service%20Uniformed%20Division%20Personnel/README.md) | <b>United States Secret Service Uniformed Division Personnel</b> | <b>10201</b> |
-| [<b>103.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20103%20-%20Department%20of%20State/README.md) | <b>Department of State</b> | <b>10301</b> |
+| [<b>103.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20103%20-%20Department%20of%20State/README.md) | <b>Department of State</b> | <b>10301.</b><b><sup>3</sup></b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -127,7 +127,7 @@
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 117–81, div. E, title LIII, §5312(c), Dec. 27, 2021, 135 Stat. 2365, which directed amendment of the table of chapters at the beginning of title 5 by inserting item for chapter 103, was executed by making the amendment in the front matter to this part to reflect the probable intent of Congress.
+<b>2021</b>—Pub. L. 117–81, div. E, title LIII, §5312(c), Dec. 27, 2021, 135 Stat. 2365, which directed amendment of the analysis at the beginning of title 5 by inserting item for chapter 103, was executed by making the amendment to this analysis to reflect the probable intent of Congress.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XI, §1122(c), Dec. 20, 2019, 133 Stat. 1608, added item for chapter 92.
 
@@ -174,6 +174,8 @@ Pub. L. 106–265, title I, §1002(b), Sept. 19, 2000, 114 Stat. 769, added item
 <i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 107–296 without corresponding amendment of part analysis.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>3</sup></i><i> So in original. The period probably should not appear.</i>
 
 
 ---

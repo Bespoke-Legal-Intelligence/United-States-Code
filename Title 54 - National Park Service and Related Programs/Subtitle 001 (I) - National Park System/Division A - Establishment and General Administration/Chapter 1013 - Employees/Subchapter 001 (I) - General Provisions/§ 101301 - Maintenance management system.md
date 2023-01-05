@@ -18,7 +18,7 @@ The Service shall implement a maintenance management system in the maintenance a
 
 &emsp;&emsp;(E) expected worker production for each maintenance task.
 
-&emsp;(4) A work program and performance budget that develops an annual work plan identifying maintenance needs and financial resources to be devoted to each maintenance task.
+&emsp;(4) A work program and performance budget that develops an annual work plan identifyingmaintenance needs and financial resources to be devoted to each maintenance task.
 
 &emsp;(5) A work schedule that identifies and prioritizes tasks to be done in a specific time period and specifies required labor resources.
 

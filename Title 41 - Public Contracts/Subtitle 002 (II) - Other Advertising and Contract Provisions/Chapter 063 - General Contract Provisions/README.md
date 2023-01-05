@@ -84,7 +84,7 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(d) This order shall apply only to a new contract or contract-like instrument, as defined by the Secretary in the regulations issued pursuant to section 4(a) of this order, if:
+(d) This order shall apply only to a new contract or contract-like instrument, as defined by the Secretaryin the regulations issued pursuant to section 4(a) of this order, if:
 
 (i)(A) it is a procurement contract for services or construction;
 
@@ -204,7 +204,7 @@ Sec. 7. <i>Effective Date</i>. (a) This order is effective immediately and shall
 
 (ii) January 1, 2017, for contracts where an agency action is taken pursuant to section 3(b) of this order, consistent with the effective date for such action.
 
-(b) This order shall not apply to contracts or contract-like instruments that are awarded, or enteredinto pursuant to solicitations issued, on or before the effective date for the relevant action taken pursuant to section 3 of this order.
+(b) This order shall not apply to contracts or contract-like instruments that are awarded, or entered into pursuant to solicitations issued, on or before the effective date for the relevant action taken pursuant to section 3 of this order.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -254,7 +254,7 @@ Sec. 4. <i>Regulations and Implementation</i>. (a) The Secretary shall, consiste
 
 Sec. 5. <i>Enforcement</i>. (a) The Secretary shall have the authority for investigating potential violations of and obtaining compliance with this order.
 
-(b) This order creates no rights under the Contract Disputes Act \[of 1978\], \[see\] 41 U.S.C. 7101 <i>et seq</i>., and disputes regarding whether a contractor has paid the wages prescribed by this order, as appropriate and consistent with applicable law, shall be disposed of only as provided by the Secretary in regulations issued pursuant to this order.
+(b) This order creates no rights under the Contract Disputes Act \[of 1978\], \[see\] 41 U.S.C. 7101 <i>et seq</i>., anddisputes regarding whether a contractor has paid the wages prescribed by this order, as appropriate and consistent with applicable law, shall be disposed of only as provided by the Secretary in regulations issued pursuant to this order.
 
 Sec. 6. <i>Revocation of Certain Presidential Actions</i>. Executive Order 13838 of May 25, 2018 (Exemption From Executive Order 13658 for Recreational Services on Federal Lands) \[set out above\], is revoked as of January 30, 2022. Executive Order 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors) \[set out above\], is superseded, as of January 30, 2022, to the extent it is inconsistent with this order.
 
@@ -355,6 +355,28 @@ Sec. 6. <i>Effective Date</i>. (a) Except as provided in subsection (b) of this 
 (c) For all existing contracts and contract-like instruments, solicitations issued between the date of this order \[Sept. 9, 2021\] and the effective dates set forth in this section, and contracts and contract-like instruments entered into between the date of this order and the effective dates set forth in this section, agencies are strongly encouraged, to the extent permitted by law, to ensure that the safety protocols required under those contracts and contract-like instruments are consistent with the requirements specified in section 2 of this order.
 
 Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 14069. Advancing Economy, Efficiency, and Effectiveness in Federal Contracting by Promoting Pay Equity and Transparency
+
+Ex. Ord. No. 14069, Mar. 15, 2022, 87 F.R. 15315, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. It is the policy of my Administration to eliminate discriminatory pay practices that inhibit the economy, efficiency, and effectiveness of the Federal workforce and the procurement of property and services by the Federal Government. The Office of Personnel Management anticipates issuing a proposed rule that will address the use of salary history in the hiring and pay-setting processes for Federal employees, consistent with Executive Order 14035 of June 25, 2021 (Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce) \[42 U.S.C. 2000e note\]. The purpose of this order is to direct the consideration of parallel efforts with respect to Federal procurement.
+
+Sec. 2. <i>Economy, Efficiency, and Effectiveness in Federal Procurement</i>. Consistent with applicable law and subject to the availability of appropriations, the Federal Acquisition Regulatory Council, in consultation with the Secretary of Labor and the heads of other executive departments and agencies as appropriate, shall consider issuing proposed rules to promote economy, efficiency, and effectiveness in Federal procurement by enhancing pay equity and transparency for job applicants and employees of Federal contractors and subcontractors. In doing so, the Federal Acquisition Regulatory Council shall specifically consider whether any such rules should limit or prohibit Federal contractors and subcontractors from seeking and considering information about job applicants' and employees' existing or past compensation when making employment decisions. The Federal Acquisition Regulatory Council shall also consider the inclusion of appropriate accountability measures in any such rules.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 

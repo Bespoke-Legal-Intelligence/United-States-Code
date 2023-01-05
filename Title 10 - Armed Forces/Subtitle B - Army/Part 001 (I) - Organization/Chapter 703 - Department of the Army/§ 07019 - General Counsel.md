@@ -22,5 +22,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–456, div. A, title VII, §703(c), Sept. 29, 1988, 102 Stat. 1996, provided that: "The amendments madeby this section \[amending this section and sections 5019 and 8019 of this title\] shall apply to appointments made under sections 3019, 5019, and 8019 \[now 7019, 8019, and 9019\], respectively, of title 10, United States Code, on and after the date of the enactment of this Act \[Sept. 29, 1988\]."
+Pub. L. 100–456, div. A, title VII, §703(c), Sept. 29, 1988, 102 Stat. 1996, provided that: "The amendments made by this section \[amending this section and sections 5019 and 8019 of this title\] shall apply to appointments made under sections 3019, 5019, and 8019 \[now 7019, 8019, and 9019\], respectively, of title 10, United States Code, on and after the date of the enactment of this Act \[Sept. 29, 1988\]."
 

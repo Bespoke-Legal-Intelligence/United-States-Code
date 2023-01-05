@@ -92,7 +92,7 @@ For purposes of this section, the term "installment method" means a method under
 
 #### (5) Later payments treated as receipt of tax paid amounts
 
-&emsp;If paragraph (1) applies for any taxable year, payments received in subsequent taxable years by the person making the first disposition shall not be treated as the receipt of paymentswith respect to the first disposition to the extent that the aggregate of such payments does not exceed the amount treated as received by reason of paragraph (1).
+&emsp;If paragraph (1) applies for any taxable year, payments received in subsequent taxable years by the person making the first disposition shall not be treated as the receipt of payments with respect to the first disposition to the extent that the aggregate of such payments does not exceed the amount treated as received by reason of paragraph (1).
 
 #### (6) Exception for certain dispositions
 
@@ -336,7 +336,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (C) Carrying charges or interest
 
-&emsp;&emsp;Any carrying charges or interest with respect to a disposition described in subparagraph (A) or (B) which are added on the books of account of the seller to the established cash selling price of the property shall be included in the total contract price of the property and, if such charges or interest are not so included, any payments received shall be treated as applying first against such carrying charges or interest.
+&emsp;&emsp;Any carrying charges or interest with respect to a disposition described in subparagraph (A) or (B) which are added on thebooks of account of the seller to the established cash selling price of the property shall be included in the total contract price of the property and, if such charges or interest are not so included, any payments received shall be treated as applying first against such carrying charges or interest.
 
 #### (3) Payment of interest on timeshares and residential lots
 
@@ -358,7 +358,7 @@ For purposes of subsection (b)(2)(A)—
 
 #### (ii) Interest not taken into account
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the portion of any tax attributable to the receipt of anypayment shall be determined without regard to any interest imposed under subparagraph (A).
+&emsp;&emsp;&emsp;For purposes of clause (i), the portion of any tax attributable to the receipt of any payment shall be determined without regard to any interest imposed under subparagraph (A).
 
 #### (iii) Taxable year of sale
 
@@ -498,7 +498,7 @@ Special rules for dealers.—
 
 &emsp;"(A)
 
-In general.—In the case of dealer dispositions (within the meaning of section 453(l)(1) of the Internal Revenue Code of 1986 as added by this section), the amendments made by subsections (a) and (b) \[amending this section and repealing section 453C of this title\] shall apply to installment obligations arising from dispositions after December 31, 1987.
+In general.—In the case of dealer dispositions (within the meaning of section 453(l)(1) of the Internal Revenue Code of 1986 as added by this section), theamendments made by subsections (a) and (b) \[amending this section and repealing section 453C of this title\] shall apply to installment obligations arising from dispositions after December 31, 1987.
 
 &emsp;"(B)
 
@@ -603,7 +603,7 @@ Acceleration of adjustments where contraction in amount of installment obligatio
 
 &emsp;"(A)
 
-In general.—If the percentage determined under subparagraph (B) for any taxable year in the adjustment period exceeds the percentage which would otherwise apply under paragraph (3)(D) for such taxable year (determined after the application of this paragraph for prior taxable years in the adjustment period)—
+In general.—If the percentage determined under subparagraph (B) for any taxable year in the adjustment period exceeds the percentage whichwould otherwise apply under paragraph (3)(D) for such taxable year (determined after the application of this paragraph for prior taxable years in the adjustment period)—
 
 &emsp;&emsp;"(i) the percentage determined under subparagraph (B) shall be substituted for the applicable percentage which would otherwise apply under paragraph (3)(D), and
 

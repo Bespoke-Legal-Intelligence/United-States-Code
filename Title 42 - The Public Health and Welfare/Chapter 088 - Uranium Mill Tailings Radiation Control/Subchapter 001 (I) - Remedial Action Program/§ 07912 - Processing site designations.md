@@ -80,7 +80,7 @@ The designations made, and priorities established, by the Secretary under this s
 
 #### (1) Designation
 
-&emsp;Notwithstanding any other provision of law, the Moab uranium milling site (referred to in this subsection as the "Moab site") located approximately three miles northwest of Moab, Utah, and identified in the Final Environmental Impact Statement issued by the Nuclear Regulatory Commission in March 1996 in conjunction with Source Materials LicenseNo. SUA–917, is designated as a processing site.
+&emsp;Notwithstanding any other provision of law, the Moab uranium milling site (referred to in this subsection as the "Moab site") located approximately three miles northwest of Moab, Utah, and identified in the Final Environmental Impact Statement issued by the Nuclear Regulatory Commission in March 1996 in conjunction with Source Materials License No. SUA–917, is designated as a processing site.
 
 #### (2) Applicability
 
@@ -104,7 +104,7 @@ The designations made, and priorities established, by the Secretary under this s
 
 #### References in Text
 
-Remedial action authorized under Public Law 92–314, referred to in subsec. (a)(3), means the remedial action authorized by title II of Pub. L. 92–314, June 16, 1972, 86 Stat. 222, which is not classified to the Code.
+Remedial action authorized under Public Law 92–314, referred to in subsec. (a)(3), means the remedial actionauthorized by title II of Pub. L. 92–314, June 16, 1972, 86 Stat. 222, which is not classified to the Code.
 
 #### Amendments
 

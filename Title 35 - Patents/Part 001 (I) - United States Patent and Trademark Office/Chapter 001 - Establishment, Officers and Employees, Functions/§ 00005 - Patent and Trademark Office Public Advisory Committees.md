@@ -32,7 +32,7 @@ Meetings.—Each Advisory Committee shall meet at the call of the chair to consi
 
 Duties.—Each Advisory Committee shall—
 
-&emsp;(1) review the policies, goals, performance, budget, and user fees of the United States Patent and Trademark Office with respect to patents, in the case of the Patent Public Advisory Committee, and with respect to Trademarks, in the case of the Trademark Public Advisory Committee, and advise the Director on these matters;
+&emsp;(1) review the policies, goals, performance, budget, and user fees of the United States Patent and Trademark Office with respect to patents, in the case of the Patent Public Advisory Committee, and with respect to Trademarks, in the case of the Trademark Public AdvisoryCommittee, and advise the Director on these matters;
 
 &emsp;(2) within 60 days after the end of each fiscal year—
 
@@ -56,7 +56,9 @@ Applicability of Certain Ethics Laws.—Members of each Advisory Committee shall
 
 (h)
 
-Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to each Advisory Committee.
+Inapplicability of Chapter 10
+
+of Title 5.—Chapter 10 of title 5 shall not apply to each Advisory Committee.
 
 (i)
 
@@ -66,19 +68,17 @@ Open Meetings.—The meetings of each Advisory Committee shall be open to the pu
 
 Inapplicability of Patent Prohibition.—Section 4 shall not apply to voting members of the Advisory Committees.
 
-(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4714\], Nov. 29, 1999, 113 Stat. 1536, 1501A–578; amended Pub. L. 107–273, div. C, title III, §§13203(b), 13206(a)(3), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–274, §1(l)(1), Jan. 14, 2013, 126 Stat. 2458.)
+(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4714\], Nov. 29, 1999, 113 Stat. 1536, 1501A–578; amended Pub. L. 107–273, div. C, title III, §§13203(b), 13206(a)(3), Nov. 2, 2002, 116 Stat. 1902, 1904; Pub. L. 112–274, §1(l)(1), Jan. 14, 2013, 126 Stat. 2458; Pub. L. 117–286, §4(a)(215), Dec. 27, 2022, 136 Stat. 4329.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
 A prior section 5, act July 19, 1952, ch. 950, 66 Stat. 793, related to bond of Commissioner and other officers, prior to repeal by Pub. L. 92–310, title II, §208(a), June 6, 1972, 86 Stat. 203.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–286 substituted "Chapter 10 of Title 5" for "Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text.
 
 <b>2013</b>—Subsec. (a)(1). Pub. L. 112–274, §1(l)(1)(A), substituted "In each year, 3 members shall be appointed to each Advisory Committee for 3-year terms that shall begin on December 1 of that year. Any vacancy on an Advisory Committee shall be filled within 90 days after it occurs. A new member who is appointed to fill a vacancy shall be appointed to serve for the remainder of the predecessor's term." for "Members of each Public Advisory Committee shall be appointed for a term of 3 years, except that of the members first appointed, three shall be appointed for a term of 1 year, and three shall be appointed for a term of 2 years. In making appointments to each Committee, the Secretary of Commerce shall consider the risk of loss of competitive advantage in international commerce or other harm to United States companies as a result of such appointments."
 
@@ -114,5 +114,5 @@ In general.—The Secretary of Commerce shall, in the Secretary's discretion, de
 
 "(B)
 
-Deemed termination of terms.—In order to implement the amendments made by paragraph (1), the Secretary of Commerce may determine that the term of an existing member of an Advisory Committee under section 5 of title 35, United States Code, shall be deemed to terminate on December 1 of a year beginning after the date of the enactment of this Act \[Jan. 14, 2013\], regardless of whether December 1 is before or after the date on which such member's term would terminate if this Act had not been enacted."
+Deemed termination of terms.—In order to implement the amendments made by paragraph (1), the Secretary of Commerce may determine that the term of an existing member of an Advisory Committee under section 5 of title 35, United States Code, shall be deemed to terminate on December 1 of a year beginningafter the date of the enactment of this Act \[Jan. 14, 2013\], regardless of whether December 1 is before or after the date on which such member's term would terminate if this Act had not been enacted."
 

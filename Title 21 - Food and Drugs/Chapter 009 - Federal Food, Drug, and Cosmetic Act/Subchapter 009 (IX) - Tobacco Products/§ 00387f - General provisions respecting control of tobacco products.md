@@ -44,7 +44,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 #### (B) Matchbooks
 
-&emsp;&emsp;For purposes of any regulations issued by the Secretary, matchbooks of conventional size containing not more than 20 papermatches, and which are customarily given away for free with the purchase of tobacco products, shall be considered as adult-written publications which shall be permitted to contain advertising. Notwithstanding the preceding sentence, if the Secretary finds that such treatment of matchbooks is not appropriate for the protection of the public health, the Secretary may determine by regulation that matchbooks shall not be considered adult-written publications.
+&emsp;&emsp;For purposes of any regulations issued by the Secretary, matchbooks of conventional size containing not more than 20 paper matches, and which are customarily given away for free with the purchase of tobacco products, shall be considered as adult-written publications which shall be permitted to contain advertising. Notwithstanding the preceding sentence, if the Secretary finds that such treatment of matchbooks is not appropriate for the protection of the public health, the Secretary may determine by regulation that matchbooks shall not be considered adult-written publications.
 
 #### (4) Remote sales
 
@@ -54,7 +54,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 &emsp;&emsp;&emsp;(i) within 18 months after June 22, 2009, promulgate regulations regarding the sale and distribution of tobacco products that occur through means other than a direct, face-to-face exchange between a retailer and a consumer in order to prevent the sale and distribution of tobacco products to individuals who have not attained the minimum age established by applicable law for the purchase of such products, including requirements for age verification; and
 
-&emsp;&emsp;&emsp;(ii) within 2 years after June 22, 2009, issue regulations to address the promotion and marketing of tobacco products that are sold or distributed through means other than a direct, face-to-face exchange between a retailer and a consumer in order to protect individuals who have not attained the minimum age established by applicable law for the purchase of such products.
+&emsp;&emsp;&emsp;(ii) within 2 years after June 22, 2009, issue regulations to address the promotion and marketing of tobacco products thatare sold or distributed through means other than a direct, face-to-face exchange between a retailer and a consumer in order to protect individuals who have not attained the minimum age established by applicable law for the purchase of such products.
 
 #### (B) Relation to other authority
 
@@ -100,7 +100,7 @@ Any information reported to or otherwise obtained by the Secretary or the Secret
 
 #### (B) Referral to the Tobacco Products Scientific Advisory Committee
 
-&emsp;&emsp;The Secretary may refer to the Tobacco Products Scientific Advisory Committee any petition submitted under subparagraph (A). The Tobacco Products Scientific Advisory Committee shall report its recommendationsto the Secretary with respect to a petition referred to it within 60 days after the date of the petition's referral. Within 60 days after—
+&emsp;&emsp;The Secretary may refer to the Tobacco Products Scientific Advisory Committee any petition submitted under subparagraph (A). The Tobacco Products Scientific Advisory Committee shall report its recommendations to the Secretary with respect to a petition referred to it within 60 days after the date of the petition's referral. Within 60 days after—
 
 &emsp;&emsp;&emsp;(i) the date the petition was submitted to the Secretary under subparagraph (A); or
 

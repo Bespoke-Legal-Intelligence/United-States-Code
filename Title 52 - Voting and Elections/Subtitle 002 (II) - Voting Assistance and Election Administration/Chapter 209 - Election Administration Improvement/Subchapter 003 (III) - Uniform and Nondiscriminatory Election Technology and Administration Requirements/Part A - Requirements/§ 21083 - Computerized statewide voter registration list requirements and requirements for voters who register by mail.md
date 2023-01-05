@@ -94,7 +94,7 @@
 
 #### (ii) Agreements with Commissioner of Social Security
 
-&emsp;&emsp;&emsp;The official responsible for the State motor vehicle authority shall enter into an agreement with the Commissioner of Social Security under section 405(r)(8) <sup>1</sup> of title 42 (as added by subparagraph (C)).
+&emsp;&emsp;&emsp;The official responsible for the State motor vehicle authority shall enter intoan agreement with the Commissioner of Social Security under section 405(r)(8) <sup>1</sup> of title 42 (as added by subparagraph (C)).
 
 #### (C) Omitted
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;&emsp;(iii) The statement "If you checked 'no' in response to either of these questions, do not complete this form.".
 
-&emsp;&emsp;&emsp;(iv) A statement informing the individual that if the form is submitted by mail and the individual is registering for the first time, the appropriate information required under this section must be submitted with the mail-in registration form in order to avoid the additional identification requirements upon voting for the first time.
+&emsp;&emsp;&emsp;(iv) A statement informing the individual that if the form is submitted by mail and the individual is registering for the first time, the appropriate information required under this section must be submitted with the mail-in registration formin order to avoid the additional identification requirements upon voting for the first time.
 
 #### (B) Incomplete forms
 

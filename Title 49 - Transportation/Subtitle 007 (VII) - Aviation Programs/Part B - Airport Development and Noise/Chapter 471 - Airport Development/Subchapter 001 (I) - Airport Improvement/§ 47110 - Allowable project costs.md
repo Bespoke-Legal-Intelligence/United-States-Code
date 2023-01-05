@@ -2,13 +2,25 @@
 
 (a)
 
-General Authority.—Except as provided in section 47111 of this title, the United StatesGovernment may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
+General Authority.—Except as provided in section 47111 of this title, the United States Government may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
 
 (b)
 
 Allowable Cost Standards.—A project cost is allowable—
 
-&emsp;(1) if the cost necessarily is incurred in carrying out the project in compliance with the grant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this title and any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type;
+&emsp;(1)(A) if the cost necessarily is incurred in carrying out the project in compliance with the grant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this title and any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type; or
+
+&emsp;(B) if the cost is an incentive payment incurred in carrying out the project described in subparagraph (A) that is to be provided to a contractor upon early completion of a project, if—
+
+&emsp;&emsp;(i) such payment does not exceed the lesser of 5 percent of the initial construction contract amount or $1,000,000;
+
+&emsp;&emsp;(ii) the level of contractor's control of, or access to, the worksite necessary to shorten the duration of the project does not negatively impact the operation of the airport;
+
+&emsp;&emsp;(iii) the contract specifies application of the incentive structure in the event of unforeseeable, non-weather delays beyond the control of the contractor;
+
+&emsp;&emsp;(iv) nothing in any agreement with the contractor prevents the airport operator from retaining responsibility for the safety, efficiency, and capacity of the airport during the execution of the grant agreement; and
+
+&emsp;&emsp;(v) the Secretary determines that the use of an incentive payment is likely to increase airport capacity or efficiency or result in cost savings as a result of shortening the project's duration;
 
 &emsp;(2)(A) if the cost is incurred after the grant agreement is executed and is for airport development or airport planning carried out after the grant agreement is executed;
 
@@ -70,7 +82,7 @@ Relocation of Airport-Owned Facilities.—The Secretary may determine that the c
 
 (e)
 
-Letters of Intent.—(1) The Secretary may issue a letter of intent to the sponsor stating an intention to obligate from future budgetauthority an amount, not more than the Government's share of allowable project costs, for an airport development project (including costs of formulating the project) at a primary or reliever airport. The letter shall establish a schedule under which the Secretary will reimburse the sponsor for the Government's share of allowable project costs, as amounts become available, if the sponsor, after the Secretary issues the letter, carries out the project without receiving amounts under this subchapter.
+Letters of Intent.—(1) The Secretary may issue a letter of intent to the sponsor stating an intention to obligate from future budget authority an amount, not more than the Government's share of allowable project costs, for an airport development project (including costs of formulating the project) at a primary or reliever airport. The letter shall establish a schedule under which the Secretary will reimburse the sponsor for the Government's share of allowable project costs, as amounts become available, if the sponsor, after the Secretary issues the letter, carries out the project without receiving amounts under this subchapter.
 
 (2) Paragraph (1) of this subsection applies to a project—
 
@@ -94,7 +106,7 @@ Limitation on statutory construction.—Nothing in this section shall be constru
 
 (7)
 
-Partnership Program <sup>1</sup> Airports <sup>1</sup>.—The Secretary may issue a letter of intent under this section to an airport sponsor with an approved application under section 47134(b) if—
+Partnership program airports.—The Secretary may issue a letter of intent under this section to an airport sponsor with an approved application under section 47134(b) if—
 
 &emsp;(A) the application was approved in fiscal year 2019; and
 
@@ -128,7 +140,7 @@ Bird-Detecting Radar Systems.—The Administrator of the Federal Aviation Admini
 
 &emsp;(2) within 180 days after such research is concluded, issue a final report on the use of avian radar systems in the national airspace system.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108 Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§145, 149(b), 159(c), Dec. 12, 2003, 117 Stat. 2504, 2505, 2511; Pub. L. 109–115, div. A, title I, §176(b), Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title I, §§111(c)(2)(A)(ii), 138, Feb. 14, 2012, 126 Stat. 18, 25; Pub. L. 115–254, div. B, title I, §184(b), title V, §539(n), Oct. 5, 2018, 132 Stat. 3234, 3371.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1264; Pub. L. 103–305, title I, §115, Aug. 23, 1994, 108Stat. 1579; Pub. L. 103–429, §6(64), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §144, Oct. 9, 1996, 110 Stat. 3222; Pub. L. 106–181, title I, §127, Apr. 5, 2000, 114 Stat. 76; Pub. L. 107–71, title I, §119(a)(2), Nov. 19, 2001, 115 Stat. 628; Pub. L. 108–176, title I, §§145, 149(b), 159(c), Dec. 12, 2003, 117 Stat. 2504, 2505, 2511; Pub. L. 109–115, div. A, title I, §176(b), Nov. 30, 2005, 119 Stat. 2427; Pub. L. 112–95, title I, §§111(c)(2)(A)(ii), 138, Feb. 14, 2012, 126 Stat. 18, 25; Pub. L. 115–254, div. B, title I, §184(b), title V, §539(n), Oct. 5, 2018, 132 Stat. 3234, 3371; Pub. L. 117–186, §2, Oct. 10, 2022, 136 Stat. 2199.)
 
 Historical and Revision Notes
 
@@ -214,6 +226,14 @@ In subsection (b)(2)(C)(ii), the words "before the cost is incurred" are added f
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1). Pub. L. 117–186, §2(a), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (e)(7). Pub. L. 117–186, §2(b), substituted "
+
+Partnership program airports" for "
+
+Partnership Program Airports" in heading.
 
 <b>2018</b>—Subsec. (b)(2)(B). Pub. L. 115–254, §539(n)(1), substituted "compatibility" for "compatability".
 
@@ -318,6 +338,4 @@ Pub. L. 101–516, title III, §320, Nov. 5, 1990, 104 Stat. 2181.
 Pub. L. 101–164 title III, §326, Nov. 21, 1989, 103 Stat. 1096.
 
 Pub. L. 100–457, title III, §334, Sept. 30, 1988, 102 Stat. 2153.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

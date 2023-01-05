@@ -48,7 +48,7 @@ Each such plan supplement shall—
 
 &emsp;&emsp;(H) the State agencies designated under paragraph (1) will expend not more than 2.5 percent of the allotment of the State under this subchapter for administrative costs of carrying out this subchapter; and
 
-&emsp;&emsp;(I) with respect to supported employment services provided to youth with the most significant disabilities pursuant to section 795h(d) of this title, the designated State agency will provide, directly or indirectly through public or private entities, non-Federal contributions in an amount that is not less than 10 percent of the costs of carrying out such services; and
+&emsp;&emsp;(I) with respect to supported employment services provided to youth with the mostsignificant disabilities pursuant to section 795h(d) of this title, the designated State agency will provide, directly or indirectly through public or private entities, non-Federal contributions in an amount that is not less than 10 percent of the costs of carrying out such services; and
 
 &emsp;(8) contain such other information and be submitted in such manner as the Commissioner may require.
 

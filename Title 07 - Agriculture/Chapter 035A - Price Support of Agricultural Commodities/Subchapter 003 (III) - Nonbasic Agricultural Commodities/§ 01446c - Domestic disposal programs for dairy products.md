@@ -8,9 +8,9 @@ In order to prevent the accumulation of excessive inventories of dairy products 
 
 #### References in Text
 
-The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
-The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Codification
 
@@ -20,5 +20,5 @@ Section was enacted as part of the Agricultural Act of 1954, and not as part of 
 
 #### Report of Dairy Product Purchases
 
-Pub. L. 101–624, title I, §105, Nov. 28, 1990, 104 Stat. 3379, provided that: "The Secretary of Agriculture shall make available to the public quarterly evaluations of the acquisition and disposal of Commodity Credit Corporation purchases of dairy products."
+Pub. L. 101–624, title I, §105, Nov. 28, 1990, 104 Stat. 3379, provided that: "The Secretary of Agriculture shall make available to the public quarterly evaluations ofthe acquisition and disposal of Commodity Credit Corporation purchases of dairy products."
 

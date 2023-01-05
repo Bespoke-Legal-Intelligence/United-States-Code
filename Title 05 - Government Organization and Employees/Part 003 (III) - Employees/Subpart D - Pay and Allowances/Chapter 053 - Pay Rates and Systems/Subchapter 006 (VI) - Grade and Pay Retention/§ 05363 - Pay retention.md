@@ -44,7 +44,7 @@
 
 (3) The rate of basic pay for an employee who is receiving a retained rate at the time of moving to a new official duty station at which different pay schedules apply shall be subject to regulations prescribed by the Office of Personnel Management consistent with the purposes of this section.
 
-(d) A retained rate shall be considered part of basic pay for purposes of this subchapter and for purposes of subchapter III of chapter 83, chapters 84 and 87, subchapter V of chapter 55, section 5941, and for such other purposes as may be expressly provided for by law or as the Office of Personnel Management may by regulation prescribe. The Office shall, for any purpose other than any of the purposes referred to in the preceding sentence, prescribe by regulation what constitutes basic pay for employees receiving a retained rate.
+(d) A retained rate shall be considered part of basic pay for purposes of this subchapter and for purposes of subchapter III of chapter 83, chapters 84 and 87, subchapter V of chapter 55, section 5941, and for such other purposes as may beexpressly provided for by law or as the Office of Personnel Management may by regulation prescribe. The Office shall, for any purpose other than any of the purposes referred to in the preceding sentence, prescribe by regulation what constitutes basic pay for employees receiving a retained rate.
 
 (e) This section shall not apply, or shall cease to apply, to an employee who—
 
@@ -114,5 +114,5 @@ Amendment by Pub. L. 103–89 effective Nov. 1, 1993, see section 3(c) of Pub. L
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 

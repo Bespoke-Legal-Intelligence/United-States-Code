@@ -28,7 +28,7 @@ From the amounts made available to carry out this part for a fiscal year, a port
 
 #### (c) Treatment of amounts for permanent or transitional housing
 
-Nothing in this chapter may be construed to establish a limit on the amount of funding thatan applicant may request under this part for acquisition, construction, or rehabilitation activities for the development of permanent housing or transitional housing.
+Nothing in this chapter may be construed to establish a limit on the amount of funding that an applicant may request under this part for acquisition, construction, or rehabilitation activities for the development of permanent housing or transitional housing.
 
 #### (d) Incentives for proven strategies
 

@@ -15,6 +15,7 @@
 - [&sect; 01722 - Determination of inability to defray necessary expenses; income thresholds](%C2%A7%2001722%20-%20Determination%20of%20inability%20to%20defray%20necessary%20expenses%3B%20income%20thresholds.md)
 - [&sect; 01722A - Copayment for medications](%C2%A7%2001722A%20-%20Copayment%20for%20medications.md)
 - [&sect; 01722B - Copayments waiver of collection of copayments for telehealth and telemedicine visits of veterans](%C2%A7%2001722B%20-%20Copayments%20waiver%20of%20collection%20of%20copayments%20for%20telehealth%20and%20telemedicine%20visits%20of%20veterans.md)
+- [&sect; 01722C - Copayments prohibition on collection of copayments for first three mental health care outpatient visits of veterans](%C2%A7%2001722C%20-%20Copayments%20prohibition%20on%20collection%20of%20copayments%20for%20first%20three%20mental%20health%20care%20outpatient%20visits%20of%20veterans.md)
 - [&sect; 01723 - Furnishing of clothing](%C2%A7%2001723%20-%20Furnishing%20of%20clothing.md)
 - [&sect; 01724 - Hospital care, medical services, and nursing home care abroad](%C2%A7%2001724%20-%20Hospital%20care%2C%20medical%20services%2C%20and%20nursing%20home%20care%20abroad.md)
 - [&sect; 01725 - Reimbursement for emergency treatment](%C2%A7%2001725%20-%20Reimbursement%20for%20emergency%20treatment.md)

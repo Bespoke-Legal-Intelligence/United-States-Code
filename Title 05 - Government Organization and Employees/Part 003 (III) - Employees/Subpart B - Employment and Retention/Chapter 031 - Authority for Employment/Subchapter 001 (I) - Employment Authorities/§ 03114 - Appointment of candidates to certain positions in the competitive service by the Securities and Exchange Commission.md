@@ -22,7 +22,7 @@ Rule of construction.—The appointment of a candidate to a position under autho
 
 (c)
 
-Reports.—No later than 90 days after the end of fiscal year 2003 (for fiscal year 2003) and 90 days after the end of fiscal year 2005 (for fiscal years 2004 and 2005), the Commission shall submit a report with respect to its exercise of the authority granted by subsection (b) during such fiscal years to the Committee on Government Reform and the Committee on Financial Services of the House of Representatives and the Committee on Governmental Affairs and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such reports shall describe the changes in the hiring process authorized bysuch subsection, including relevant information related to—
+Reports.—No later than 90 days after the end of fiscal year 2003 (for fiscal year 2003) and 90 days after the end of fiscal year 2005 (for fiscal years 2004 and 2005), the Commission shall submit a report with respect to its exercise of the authority granted by subsection (b) during such fiscal years to the Committee on Government Reform and the Committee on Financial Services of the House of Representatives and the Committee on Governmental Affairs and the Committee on Banking, Housing, and Urban Affairs of the Senate. Such reports shall describe the changes in the hiring process authorized by such subsection, including relevant information related to—
 
 &emsp;(1) the quality of candidates;
 

@@ -60,7 +60,7 @@ Accountability and results.—The Secretary shall develop procedures for the use
 
 (f)
 
-Regulations.—The Secretary shall prescribe regulations implementing this section that include provisions to encourage and facilitate competition in the leasing process and provide for timely and adequate public comment.
+Regulations.—The Secretary shall prescribe regulations implementing this sectionthat include provisions to encourage and facilitate competition in the leasing process and provide for timely and adequate public comment.
 
 (Pub. L. 113–287, §3, Dec. 19, 2014, 128 Stat. 3152.)
 

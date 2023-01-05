@@ -34,7 +34,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 &emsp;(9) when the license is for an ocean thermal energy conversion facility, he determines that the facility, including any submarine electric transmission cables and equipment or pipelines which are components of the facility, will not be located and designed so as to minimize interference with other uses of the high seas or the Continental Shelf, including cables or pipelines already in position on or in the seabed and the possibility of their repair;
 
-&emsp;(10) the Governor of any adjacent coastal State with an approved coastal zone management program in good standing pursuant to the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) determines that, in his or her view, the application is inadequate or inconsistent with respect to programs within his or her jurisdiction;
+&emsp;(10) the Governor of any adjacent coastal State with an approved coastal zone management program in good standing pursuant tothe Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.) determines that, in his or her view, the application is inadequate or inconsistent with respect to programs within his or her jurisdiction;
 
 &emsp;(11) when the license is for an ocean thermal energy conversion facility, he determines that the thermal plume of the facility is expected to impinge on so as to degrade the thermal gradient used by any other ocean thermal energy conversion facility already licensed or operating, without the consent of its owner;
 

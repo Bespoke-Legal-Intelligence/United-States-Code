@@ -58,7 +58,7 @@ The Secretary shall provide that fiscal intermediaries furnish to quality improv
 
 (3) The Secretary shall regularly furnish each quality improvement organization with a contract under this section with a report that documents the performance of the organization in relation to the performance of other such organizations.
 
-(Aug. 14, 1935, ch. 531, title XI, §1153, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat.382; amended Pub. L. 97–448, title III, §309(b)(2), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 98–21, title VI, §602(a), Apr. 20, 1983, 97 Stat. 163; Pub. L. 98–369, div. B, title III, §§2334(a), (b), 2347(c), July 18, 1984, 98 Stat. 1090, 1097; Pub. L. 99–272, title IX, §§9402(b), 9404(a), 9406(a), Apr. 7, 1986, 100 Stat. 200, 201; Pub. L. 99–509, title IX, §9352(a)(1), Oct. 21, 1986, 100 Stat. 2044; Pub. L. 100–203, title IV, §§4091(a)(2)(A), (b)(1), (2), 4092(a), 4094(d)(1), Dec. 22, 1987, 101 Stat. 1330–134, 1330–135, 1330–137; Pub. L. 112–40, title II, §261(a)(2)(A), (C), (b), (c)(1), Oct. 21, 2011, 125 Stat. 423, 425.)
+(Aug. 14, 1935, ch. 531, title XI, §1153, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 382; amended Pub. L. 97–448, title III, §309(b)(2), Jan. 12, 1983, 96 Stat. 2408; Pub. L. 98–21, title VI, §602(a), Apr. 20, 1983, 97 Stat. 163; Pub. L. 98–369, div. B, title III, §§2334(a), (b), 2347(c), July 18, 1984, 98 Stat. 1090, 1097; Pub. L. 99–272, title IX, §§9402(b), 9404(a), 9406(a), Apr. 7, 1986, 100 Stat. 200, 201; Pub. L. 99–509, title IX, §9352(a)(1), Oct. 21, 1986, 100 Stat. 2044; Pub. L. 100–203, title IV, §§4091(a)(2)(A), (b)(1), (2), 4092(a), 4094(d)(1), Dec. 22, 1987, 101 Stat. 1330–134, 1330–135, 1330–137; Pub. L. 112–40, title II, §261(a)(2)(A), (C), (b), (c)(1), Oct. 21, 2011, 125 Stat. 423, 425.)
 
 #### <b>Editorial Notes</b>
 
@@ -90,7 +90,7 @@ Subsec. (b)(4). Pub. L. 112–40, §261(b)(3)(A), added par. (4).
 
 Subsec. (c). Pub. L. 112–40, §261(a)(2)(C), substituted "quality improvement" for "utilization and quality control peer review" in concluding provisions.
 
-Subsec. (c)(1). Pub. L. 112–40, §261(c)(1)(B), substituted "a function or functions under section 1320c–3 of this title directly or may subcontract for the performance of all or some of such function or functions" for "the functions set forth in section 1320c–3(a) of this title, or may subcontract for the performance of all or some of such functions".
+Subsec. (c)(1). Pub. L. 112–40, §261(c)(1)(B), substituted "a function or functions under section 1320c–3 of this title directly or may subcontract for the performance of all or some of such function or functions" for "the functions set forth in section 1320c–3(a) of this title, ormay subcontract for the performance of all or some of such functions".
 
 Subsec. (c)(3). Pub. L. 112–40, §261(b)(2), substituted "five years and shall be renewable for terms of five years" for "three years and shall be renewable on a triennial basis".
 
@@ -130,7 +130,7 @@ Subsec. (d)(4). Pub. L. 99–272, §9406(a), added par. (4).
 
 Subsec. (g). Pub. L. 99–509 added subsec. (g).
 
-<b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–369, §2347(c)(1), substituted "Prior to November 15, 1984" for "During thefirst twelve months in which the Secretary is entering into contracts under this section".
+<b>1984</b>—Subsec. (b)(2)(A). Pub. L. 98–369, §2347(c)(1), substituted "Prior to November 15, 1984" for "During the first twelve months in which the Secretary is entering into contracts under this section".
 
 Pub. L. 98–369, §2334(b), inserted "(other than a self-insured employer)" and provision that for purposes of this paragraph an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of one individual member of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an "eligible organization" as defined in section 1395mm(b) of this title.
 

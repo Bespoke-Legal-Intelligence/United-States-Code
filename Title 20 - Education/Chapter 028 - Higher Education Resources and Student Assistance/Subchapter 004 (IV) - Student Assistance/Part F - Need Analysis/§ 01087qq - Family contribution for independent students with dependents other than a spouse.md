@@ -68,7 +68,7 @@ Percentages for Computation of State and Other Tax Allowance
 
 #### (3) Allowance for social security taxes
 
-&emsp;The allowance for social security taxes is equal to the amount estimated to be earned by the student (and spouse, if appropriate) multiplied by the social security withholding rate appropriate to the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
+&emsp;The allowance for social security taxes is equal to the amount estimated to be earned bythe student (and spouse, if appropriate) multiplied by the social security withholding rate appropriate to the tax year preceding the award year, up to the maximum statutory social security tax withholding amount for that same tax year.
 
 #### (4) Income protection allowance
 
@@ -260,7 +260,7 @@ In the case of a student who is divorced or separated, or whose spouse has died,
 
 #### Amendment of Section
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(f), Dec. 27, 2020, 134 Stat. 3137, 3147, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(f), Dec. 27, 2020, 134 Stat. 3137, 3147; Pub. L. 117–103, div. R, §102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
 
 #### §1087qq. Student aid index for independent students with dependents other than a spouse
 
@@ -308,7 +308,7 @@ In the case of a student who is divorced or separated, or whose spouse has died,
 
 #### <i>(3) Income protection allowance</i>
 
-&emsp;<i>The income protection allowance shall equal the amount determined in the following table, as ad</i><i>justed by the Secretary pursuant to section 1078rr(b) of this title:</i>
+&emsp;<i>The income protection allowance shall equal the amount determined in the following table, as adjusted by the Secretary pursuant to section 1078rr(b) of this title:</i>
 
 &emsp;&emsp;<i>(A) In the case of a married independent student with dependents:</i>
 
@@ -485,7 +485,7 @@ Subsec. (d). Pub. L. 100–50, §14(1), (8), substituted "section 1087rr of this
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2009 Amendment
 

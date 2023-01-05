@@ -66,7 +66,7 @@
 
 (h) If the court finds that more than 1 defendant has contributed to the loss of a victim, the court may make each defendant liable for payment of the full amount of restitution or may apportion liability among the defendants to reflect the level of contribution to the victim's loss and economic circumstances of each defendant.
 
-(i) If the court finds that more than 1 victim has sustained a loss requiring restitution by a defendant, the court may provide for a different payment schedule for each victim based on the type and amount of each victim's loss and accounting for the economic circumstances of each victim. In any case in which the UnitedStates is a victim, the court shall ensure that all other victims receive full restitution before the United States receives any restitution.
+(i) If the court finds that more than 1 victim has sustained a loss requiring restitution by a defendant, the court may provide for a different payment schedule for each victim based on the type and amount of each victim's loss and accounting for the economic circumstances of each victim. In any case in which the United States is a victim, the court shall ensure that all other victims receive full restitution before the United States receives any restitution.
 
 (j)(1) If a victim has received compensation from insurance or any other source with respect to a loss, the court shall order that restitution be paid to the person who provided or is obligated to provide the compensation, but the restitution order shall provide that all restitution of victims required by the order be paid to the victims before any restitution is paid to such a provider of compensation.
 

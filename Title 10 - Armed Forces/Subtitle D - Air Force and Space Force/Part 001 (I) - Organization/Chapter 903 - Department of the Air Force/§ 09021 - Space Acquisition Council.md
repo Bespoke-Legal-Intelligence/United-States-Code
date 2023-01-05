@@ -50,7 +50,7 @@ Meetings.—The Council shall meet not less frequently than monthly.
 
 Reports.—Not later than 30 days after the end of each calendar year quarter through the first calendar year quarter of 2025, the Council shall submit to the congressional defense committees a report on the activities of the Council during the calendar year quarter preceding the calendar year quarter in which such report is submitted.
 
-(Added Pub. L. 116–92, div. A, title IX, §954(a)(2), Dec. 20, 2019, 133 Stat. 1564; amended Pub. L. 117–81, div. A, title XVI, §1602(a)(1), (b)(1), Dec. 27, 2021, 135 Stat. 2075, 2076.)
+(Added Pub. L. 116–92, div. A, title IX, §954(a)(2), Dec. 20, 2019, 133 Stat. 1564; amended Pub. L.117–81, div. A, title XVI, §1602(a)(1), (b)(1), Dec. 27, 2021, 135 Stat. 2075, 2076.)
 
 #### <b>Editorial Notes</b>
 
@@ -60,7 +60,7 @@ A prior section 9021 was renumbered section 9021a of this title.
 
 Another prior section 9021 was renumbered section 9371 of this title.
 
-Another prior section 9021, act Aug. 10, 1956, ch. 1041, 70A Stat. 558, related to appointments in professionaland scientific service, prior to repeal by Pub. L. 85–861, §36B(30), Sept. 2, 1958, 72 Stat. 1571.
+Another prior section 9021, act Aug. 10, 1956, ch. 1041, 70A Stat. 558, related to appointments in professional and scientific service, prior to repeal by Pub. L. 85–861, §36B(30), Sept. 2, 1958, 72 Stat. 1571.
 
 #### Amendments
 

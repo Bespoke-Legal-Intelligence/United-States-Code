@@ -8,7 +8,7 @@ Required Policy.—Under guidance prescribed by the Secretary of Defense, the Se
 
 Matters To Be Specified in Policy.—The policy on sexual harassment and sexual violence prescribed under this section shall include specification of the following:
 
-&emsp;(1) Programs to promote awareness of the incidence of rape, acquaintance rape, and othersexual offenses of a criminal nature that involve midshipmen or other Academy personnel.
+&emsp;(1) Programs to promote awareness of the incidence of rape, acquaintance rape, and other sexual offenses of a criminal nature that involve midshipmen or other Academy personnel.
 
 &emsp;(2) Procedures that a midshipman should follow in the case of an occurrence of sexual harassment or sexual violence, including—
 
@@ -60,7 +60,7 @@ Annual Report.—(1) The Secretary of the Navy shall direct the Superintendent o
 
 &emsp;(A) The number of sexual assaults, rapes, and other sexual offenses involving midshipmen or other Academy personnel that have been reported to Naval Academy officials during the program year and, of those reported cases, the number that have been substantiated.
 
-&emsp;(B) The policies, procedures, and processes implemented by the Secretary of the Navy and the leadership of the Naval Academy in response to sexual harassment and sexual violence involving midshipmen or other Academy personnel during the program year.
+&emsp;(B) The policies, procedures, and processes implemented by the Secretary of the Navy andthe leadership of the Naval Academy in response to sexual harassment and sexual violence involving midshipmen or other Academy personnel during the program year.
 
 &emsp;(C) A plan for the actions that are to be taken in the following Academy program year regarding prevention of and response to sexual harassment and sexual violence involving midshipmen or other Academy personnel.
 
@@ -72,7 +72,7 @@ Annual Report.—(1) The Secretary of the Navy shall direct the Superintendent o
 
 (e)
 
-Consideration of Request for Transfer of a Midshipman Who Is the Victim of a Sexual Assault or Related Offense.—(1) The Secretary of the Navy shall provide for timely consideration of and action on a request submitted by a midshipman appointed to the United States Naval Academy who is the victimof an alleged sexual assault or other offense covered by section 920, 920c, or 930 of this title (article 120, 120c, or 130 of the Uniform Code of Military Justice) for transfer to another military service academy or to enroll in a Senior Reserve Officers' Training Corps program affiliated with another institution of higher education.
+Consideration of Request for Transfer of a Midshipman Who Is the Victim of a Sexual Assault or Related Offense.—(1) The Secretary of the Navy shall provide for timely consideration of and action on a request submitted by a midshipman appointed to the United States Naval Academy who is the victim of an alleged sexual assault or other offense covered by section 920, 920c, or 930 of this title (article 120, 120c, or 130 of the Uniform Code of Military Justice) for transfer to another military service academy or to enroll in a Senior Reserve Officers' Training Corps program affiliated with another institution of higher education.
 
 (2) The Secretary of the Navy shall prescribe regulations to carry out this subsection, within guidelines provided by the Secretary of Defense that—
 
@@ -116,7 +116,7 @@ Consideration of Request for Transfer of a Midshipman Who Is the Victim of a Sex
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Termination of Reporting Requirements
 

@@ -8,7 +8,7 @@
 
 &emsp;(3) in order to assure compliance with section 8110(a)(2) of this title, in the case of any outpatient medical facility for which it is proposed to lease space and for which a qualified lessor and an appropriate leasing arrangement are available, shall execute a lease for such facility within 12 months after funds are made available for such purpose.
 
-(b) Whenever the Secretary considers it to be in the interest of the United States to constructa new medical facility to replace an existing medical facility, the Secretary (1) may demolish the existing facility and use the site on which it is located for the site of the new medical facility, or (2) if in the judgment of the Secretary it is more advantageous to construct such medical facility on a different site in the same locality, may exchange such existing facility and the site of such existing facility for the different site.
+(b) Whenever the Secretary considers it to be in the interest of the United States to construct a new medical facility to replace an existing medical facility, the Secretary (1) may demolish the existing facility and use the site on which it is located for the site of the new medical facility, or (2) if in the judgment of the Secretary it is more advantageous to construct such medical facility on a different site in the same locality, may exchange such existing facility and the site of such existing facility for the different site.
 
 (c) Whenever the Secretary determines that any site acquired for the construction of a medical facility is not suitable for that purpose, the Secretary may exchange such site for another site to be used for that purpose or may sell such site.
 
@@ -84,7 +84,19 @@
 
 &emsp;(B) The term "covered training curriculum" means, with respect to employees specified in subparagraph (A), a training curriculum relating to construction or facilities management.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5003; amended Pub. L. 101–237, title VI, §603(b), Dec. 18, 1989, 103 Stat. 2097; renumbered §8103 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(d)(16), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 114–58, title V, §502(a), Sept. 30, 2015, 129 Stat. 537; Pub. L. 114–315, title VIII, §801(a), Dec. 16, 2016, 130 Stat. 1590; Pub. L. 115–182, title II, §211, June 6, 2018, 132 Stat. 1460.)
+(h)(1) Notwithstanding any other provision of law requiring the use of competitive procedures, including section 3301 of title 41, when the Secretary determines it to be in the best interest of the Department, the Secretary may enter into a lease with an academic affiliate or covered entity to acquire space for the purpose of providing health-care resources to veterans.
+
+(2) In this subsection:
+
+&emsp;(A) The term "academic affiliate" means an institution or organization described in section 7302(d) of this title.
+
+&emsp;(B) The term "covered entity" means a unit or subdivision of a State, local, or municipal government, public or nonprofit agency, institution, or organization, or other institution or organization as the Secretary considers appropriate that owns property controlled by an academic affiliate to be leased under this subsection.
+
+&emsp;(C) The term "health-care resource" has the meaning given that term in section 8152(1) of this title.
+
+&emsp;(D) The term "space" means any room, unit, floor, wing, building, parking facility, or other subdivision of a building or facility owned or controlled by an academic affiliate.
+
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 56, §5003; amended Pub. L. 101–237, title VI, §603(b), Dec. 18, 1989, 103 Stat. 2097; renumbered §8103 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 103–446, title XII, §1201(d)(16), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 114–58, title V, §502(a), Sept. 30, 2015, 129 Stat. 537; Pub. L. 114–315, title VIII, §801(a), Dec. 16, 2016, 130 Stat. 1590; Pub. L. 115–182, title II, §211, June 6, 2018, 132 Stat. 1460; Pub. L. 117–168, title VII, §704, Aug. 10, 2022, 136 Stat. 1799; Pub. L. 117–263, div. E, title LI, §5124(c), Dec. 23, 2022, 136 Stat. 3211.)
 
 #### <b>Editorial Notes</b>
 
@@ -93,6 +105,10 @@
 The fiscal year during which the VA Asset and Infrastructure Review Act of 2018 is enacted, referred to in subsec. (g)(1)(A), (5)(A), is the fiscal year during which Pub. L. 115–182, which was approved June 6, 2018, was enacted.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–168 added subsec. (h).
+
+Subsec. (h)(1). Pub. L. 117–263 substituted "section 3301 of title 41" for "section 2304 of title 10".
 
 <b>2018</b>—Subsec. (g). Pub. L. 115–182 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "The Secretary shall ensure that each employee of the Department with responsibilities, as determined by the Secretary, relating to the infrastructure construction or alteration of medical facilities, including such construction or alteration carried out pursuant to contracts or agreements, undergoes a program of ongoing professional training and development. Such program shall be designed to ensure that employees maintain adequate expertise relating to industry standards and best practices for the acquisition of design and construction services. The Secretary may provide the program under this subsection directly or through a contract or agreement with a non-Federal entity or with a non-Department Federal entity."
 
@@ -114,6 +130,10 @@ Subsecs. (b), (c). Pub. L. 102–83 substituted "Secretary" for "Administrator" 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–263 effective as if included in the enactment of the Honoring our PACT Act of 2022 (Public Law 117–168), see section 524(d) of Pub. L. 117–263, set out as a note under section 1120 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–58, title V, §502(b), Sept. 30, 2015, 129 Stat. 538, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to the following:
@@ -128,7 +148,7 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
 #### Communities Helping Invest Through Property and Improvements Needed for Veterans
 
-Pub. L. 114–294, Dec. 16, 2016, 130 Stat. 1504, as amended by Pub. L. 117–42, §4, Sept. 30, 2021, 135 Stat. 342, provided that:
+Pub. L. 114–294, Dec. 16, 2016, 130 Stat. 1504, as amended by Pub. L. 117–42, §4, Sept. 30, 2021, 135 Stat. 342; Pub. L. 117–263, div. E, title LI, §5125(a), Dec. 23, 2022, 136 Stat. 3211, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -170,7 +190,7 @@ Entities described.—Entities described in this paragraph are the following:
 
 &emsp;"(3)
 
-Limitation.—The Secretary may accept not more than five donations of real property and facilityimprovements under the pilot program and as described in this section.
+Limitation.—The Secretary may accept not more than five donations of real property and facility improvements under the pilot program and as described in this section.
 
 "(b)
 
@@ -178,7 +198,7 @@ Conditions for Acceptance of Property.—The Secretary may accept the donation o
 
 &emsp;"(1) the property is—
 
-&emsp;&emsp;"(A) a property with respect to which funds have been appropriated for a Department facility project; or
+&emsp;&emsp;"(A) a property with respect to which funds have been appropriated for a Department facility project or for which funds are available from the Construction, Minor Projects, or Construction, Major Projects appropriations accounts; or
 
 &emsp;&emsp;"(B) a property identified as—
 
@@ -228,11 +248,59 @@ From department.—
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary may not provide funds to help the entity finance, design, or construct a facility in connection with real property and improvements donated under the pilot program by an entity described in subsection (a)(2) that are in addition to the funds appropriated for the facility as of the date on which the Secretary and the entity enter into a formal agreement under subsection (c) for the donation of the real property and improvements.
+In general.—Except as otherwise provided in this paragraph, the Secretary may not provide funds to help the entity finance, design, or construct a facility in connection with real property and improvements donated under the pilot program by an entity described in subsection (a)(2) that are in addition to the funds appropriated for the facility or funds already generally available in the Construction, Minor Projects, or Construction, Major Projects appropriations accounts as of the date on which the Secretary and the entity enter into a formal agreement under subsection (c) for the donation of the real property and improvements.
 
 &emsp;&emsp;"(B)
 
-Terms and conditions.—The Secretary shall provide funds pursuant to subparagraph (A) under such terms, conditions, and schedule as the Secretary determines appropriate.
+Unobligated amounts.—The Secretary may provide additional funds to help an entity described in subsection (a)(2) finance, design, or construct a facility in connection with real property and improvements to be donated under the pilot program and proposed to be accepted by the Secretary under subsection (b)(1)(B) if—
+
+&emsp;&emsp;&emsp;"(i) the Secretary determines that doing so is in the best interest of the Department and consistent with the mission of the Department; and
+
+&emsp;&emsp;&emsp;"(ii) funding provided under this subparagraph—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) is in addition to amounts that have been appropriated for the facility before the date on which the Secretary and the entity enter into a formal agreement under subsection (c) for the construction and donation of the real property and improvements; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) is derived only from amounts that—
+
+&emsp;&emsp;&emsp;"(aa) are unobligated balances available in the Construction, Minor Projects, or Construction, Major Projects appropriations accounts of the Department that—
+
+&emsp;&emsp;&emsp;&nbsp;"(AA) are not associated with a specific project; or
+
+&emsp;&emsp;&emsp;&nbsp;"(BB) are amounts that are associated with a specific project, but are unobligated because they are the result of bid savings; and
+
+&emsp;&emsp;&emsp;"(bb) were appropriated to such an account before the date described in subclause (I).
+
+&emsp;&emsp;"(C)
+
+Escalation clauses.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—The Secretary may include an escalation clause in a formal agreement under subsection (c) that authorizes an escalation of not more than an annual amount based on a rate established in the formal agreement and mutually agreed upon by the Secretary and an entity to account for inflation for an area if the Secretary determines, after consultation with the head of an appropriate Federal entity that is not part of the Department, that such escalation is necessary and in the best interest of the Department.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Use of existing amounts.—The Secretary may obligate funds pursuant to clause (i) in connection with a formal agreement under subsection (c) using amounts that—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) are unobligated balances available in the Construction, Minor Projects, or Construction, Major Projects appropriations accounts of the Department that—
+
+&emsp;&emsp;&emsp;"(aa) are not associated with a specific project; or
+
+&emsp;&emsp;&emsp;"(bb) are amounts that are associated with a specific project, but are unobligated because they are the result of bid savings; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) were appropriated to such an account before the date on which the Secretary and the entity entered into the formal agreement.
+
+&emsp;&emsp;"(D)
+
+Availability.—Unobligated amounts shall be available pursuant to subparagraphs (B) and (C) only to the extent and in such amounts as provided in advance in appropriations Acts subsequent to the date of the enactment of this subparagraph, subject to subparagraph (E).
+
+&emsp;&emsp;"(E)
+
+Limitation.—Unobligated amounts made available pursuant to subparagraphs (B) and (C) may not exceed 40 percent of the amount appropriated for the facility before the date on which the Secretary and the entity entered into a formal agreement under subsection (c).
+
+&emsp;&emsp;"(F)
+
+Terms and conditions.—The Secretary shall provide funds pursuant to this paragraph under such terms, conditions, and schedule as the Secretary determines appropriate.
 
 &emsp;"(2)
 
@@ -264,7 +332,17 @@ Termination.—The authority for the Secretary to accept donations under the pil
 
 "(j)
 
-Rule of Construction.—Nothing in this section shall be construed as a limitation on the authority of the Secretary to enter into other arrangements or agreements that are authorized by law and not inconsistent with this section."
+Rules of Construction.—
+
+&emsp;"(1)
+
+Entering arrangements and agreements.—Nothing in this section shall be construed as a limitation on the authority of the Secretary to enter into other arrangements or agreements that are authorized by law and not inconsistent with this section.
+
+&emsp;"(2)
+
+Treatment of assistance.—Nothing provided under this section shall be treated as Federal financial assistance as defined in section 200.40 of title 2, Code of Federal Regulations, as in effect on February 21, 2021."
+
+\[Pub. L. 117–263, div. E, title LI, §5125(b), Dec. 23, 2022, 136 Stat. 3213, provided that: "Each agreement entered into under section (2)(c) \[probably means "section 2(c)"\] of such Act \[Pub. L. 114–294, set out above\] before the date of the enactment of this Act \[Dec. 23, 2022\] that was in effect on the date of the enactment of this Act may be amended to incorporate terms authorized by subparagraphs (B) and (C) of section 2(e)(1) of such Act, as added by subsection (a)(2)(D) of this section."\]
 
 #### Designation of Construction Agent for Certain Construction Projects by Department of Veterans Affairs
 

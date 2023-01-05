@@ -64,7 +64,7 @@ The requirements of this subsection are as follows:
 
 #### (2) Delivery of policy
 
-&emsp;If an application for a qualified long-term care insurance contract (or for a certificate under such a contract for a group) is approved, the issuer shall deliver to the applicant (or policyholder or certificateholder) the contract (or certificate) of insurance not later than 30 days after the date of the approval.
+&emsp;If an application for a qualified long-term care insurance contract (or for a certificate under such a contract for a group) is approved,the issuer shall deliver to the applicant (or policyholder or certificateholder) the contract (or certificate) of insurance not later than 30 days after the date of the approval.
 
 #### (3) Information on denials of claims
 
@@ -76,7 +76,7 @@ The requirements of this subsection are as follows:
 
 #### (d) Disclosure
 
-The requirements of this subsection are met if the issuer of a long-term care insurance policydiscloses in such policy and in the outline of coverage required under subsection (c)(1)(B)(ii) that the policy is intended to be a qualified long-term care insurance contract under section 7702B(b).
+The requirements of this subsection are met if the issuer of a long-term care insurance policy discloses in such policy and in the outline of coverage required under subsection (c)(1)(B)(ii) that the policy is intended to be a qualified long-term care insurance contract under section 7702B(b).
 
 #### (e) Qualified long-term care insurance contract defined
 

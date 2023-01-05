@@ -58,11 +58,11 @@ The principal office of the Bureau shall be in the District of Columbia. The Dir
 
 #### Constitutionality
 
-For information regarding constitutionality of provisions of subsection (c)(3) of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of provisions of subsection (c)(3) of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
-Pub. L. 111–203, title X, §1018, July 21, 2010, 124 Stat. 1979, provided that: "This subtitle \[subtitle A (§§1011–1018), enacting this part and amending section 9702 of Title 20, Education\] shall become effective on the date of enactment of this Act \[July 21, 2010\]."
+Pub. L. 111–203, title X, §1020, formerly §1018, July 21, 2010, 124 Stat. 1979, renumbered §1020 by Pub. L. 117–263, div. E, title LVIII, §5851(a)(1), Dec. 23, 2022, 136 Stat. 3433, provided that: "This subtitle \[subtitle A (§§1011–1018), enacting this part and amending section 9702 of Title 20, Education\] shall become effective on the date of enactment of this Act \[July 21, 2010\]."
 

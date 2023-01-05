@@ -1,6 +1,6 @@
 ### §2321. Lots; establishment of boundaries
 
-The Commission is authorized to plat each community immediately upon passage of this chapter, or immediately upon the inclusion ofthe community within the provisions of this chapter. The Commission may establish lot boundaries, and realine, divide, or enlarge existing tracts as it deems appropriate.
+The Commission is authorized to plat each community immediately upon passage of this chapter, or immediately upon the inclusion of the community within the provisions of this chapter. The Commission may establish lot boundaries, and realine, divide, or enlarge existing tracts as it deems appropriate.
 
 (Aug. 4, 1955, ch. 543, ch. 3, §31, 69 Stat. 474.)
 

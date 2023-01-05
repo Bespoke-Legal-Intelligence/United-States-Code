@@ -50,7 +50,7 @@ Approval of Application and Payment of Avoidable Costs.—(1) If Amtrak does not
 
 (e)
 
-Compliance With Other Obligations.—Downgrading or disposing of a facility underthis section does not relieve a rail carrier from complying with its other common carrier or legal obligations related to the facility.
+Compliance With Other Obligations.—Downgrading or disposing of a facility under this section does not relieve a rail carrier from complying with its other common carrier or legal obligations related to the facility.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 913; Pub. L. 105–134, title I, §162, Dec. 2, 1997, 111 Stat. 2578.)
 

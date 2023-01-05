@@ -20,4 +20,7 @@
 - [&sect; 01163 - Trial work periods and vocational rehabilitation for certain veterans with total disability ratings](%C2%A7%2001163%20-%20Trial%20work%20periods%20and%20vocational%20rehabilitation%20for%20certain%20veterans%20with%20total%20disability%20ratings.md)
 - [&sect; 01164 - Presumptions of service-connection for Coronavirus Disease 2019](%C2%A7%2001164%20-%20Presumptions%20of%20service-connection%20for%20Coronavirus%20Disease%202019.md)
 - [&sect; 01165 - Choice of sex of medical examiner for certain disabilities](%C2%A7%2001165%20-%20Choice%20of%20sex%20of%20medical%20examiner%20for%20certain%20disabilities.md)
-- [&sect; 01166 - Specialized teams to evaluate claims involving military sexual trauma](%C2%A7%2001166%20-%20Specialized%20teams%20to%20evaluate%20claims%20involving%20military%20sexual%20trauma.md)
+- [&sect; 01166 - Claims involving military sexual trauma](%C2%A7%2001166%20-%20Claims%20involving%20military%20sexual%20trauma.md)
+- [&sect; 01167 - 1 Outreach pursuant to changes in presumptions of service connection](%C2%A7%2001167%20-%201%20Outreach%20pursuant%20to%20changes%20in%20presumptions%20of%20service%20connection.md)
+- [&sect; 01168 - Medical nexus examinations for toxic exposure risk activities](%C2%A7%2001168%20-%20Medical%20nexus%20examinations%20for%20toxic%20exposure%20risk%20activities.md)
+- [&sect; 01167 - 1 Mental health consultations](%C2%A7%2001167%20-%201%20Mental%20health%20consultations.md)

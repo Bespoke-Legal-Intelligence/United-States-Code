@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [3701\.](%C2%A7%2003701%20-%20Purposes.md) | Purposes. |
 | [3702\.](%C2%A7%2003702%20-%20Definitions.md) | Definitions. |
-| [3703\.](%C2%A7%2003703%20-%20Interagency%20Subcommittee.md) | Interagency Subcommittee. |
+| [3703\.](%C2%A7%2003703%20-%20Interagency%20working%20group.md) | Interagency working group. |
 | [3704\.](%C2%A7%2003704%20-%20Strategic%20research%20plan.md) | Strategic research plan. |
 | [3705\.](%C2%A7%2003705%20-%20NOAA%20ocean%20acidification%20activities.md) | NOAA ocean acidification activities. |
 | [3706\.](%C2%A7%2003706%20-%20NSF%20ocean%20acidification%20activities.md) | NSF ocean acidification activities. |
@@ -20,7 +20,7 @@
 
 - [&sect; 03701 - Purposes](%C2%A7%2003701%20-%20Purposes.md)
 - [&sect; 03702 - Definitions](%C2%A7%2003702%20-%20Definitions.md)
-- [&sect; 03703 - Interagency Subcommittee](%C2%A7%2003703%20-%20Interagency%20Subcommittee.md)
+- [&sect; 03703 - Interagency working group](%C2%A7%2003703%20-%20Interagency%20working%20group.md)
 - [&sect; 03704 - Strategic research plan](%C2%A7%2003704%20-%20Strategic%20research%20plan.md)
 - [&sect; 03705 - NOAA ocean acidification activities](%C2%A7%2003705%20-%20NOAA%20ocean%20acidification%20activities.md)
 - [&sect; 03706 - NSF ocean acidification activities](%C2%A7%2003706%20-%20NSF%20ocean%20acidification%20activities.md)

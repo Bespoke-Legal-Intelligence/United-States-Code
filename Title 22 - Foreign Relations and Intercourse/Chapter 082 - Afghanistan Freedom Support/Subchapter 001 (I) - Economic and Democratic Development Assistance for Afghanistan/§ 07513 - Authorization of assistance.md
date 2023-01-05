@@ -104,9 +104,9 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(iii) support for rehabilitation and rebuilding of courthouses and detention facilities;
 
-&emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional,and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
+&emsp;&emsp;&emsp;(iv) support for the effective administration of justice at the national, regional, and local levels, including programs to improve penal institutions and the rehabilitation of prisoners, and to establish a responsible and community-based police force;
 
-&emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory nature of governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
+&emsp;&emsp;&emsp;(v) support to increase the transparency, accountability, and participatory natureof governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance, such as the development of regulations relating to financial disclosure for public officials, political parties, and candidates for public office, and transparent budgeting processes and financial management systems;
 
 &emsp;&emsp;&emsp;(vi) support for establishment of a central bank and central budgeting authority;
 
@@ -180,7 +180,7 @@ Notwithstanding any other provision of law, the President is authorized to provi
 
 &emsp;&emsp;&emsp;(xi) to provide women's rights and human rights training for military, police, and legal personnel; and
 
-&emsp;&emsp;&emsp;(xii) to support the Afghan Independent Human Rights Commission in programs to promote women's rights and human rights, including the rights of religious freedom, freedom of expression, and freedom of association, and in the investigation and monitoring of women's rights and human rights abuses.
+&emsp;&emsp;&emsp;(xii) to support the Afghan Independent Human Rights Commission in programs to promote women's rights and human rights, including the rights of religious freedom,freedom of expression, and freedom of association, and in the investigation and monitoring of women's rights and human rights abuses.
 
 #### (B) Availability of funds
 
@@ -358,7 +358,7 @@ Formulation and Execution of Program.—
 
 &emsp;"(1)
 
-In general.—The Secretary of State and the Secretary of Defense shall jointly develop any project under the program authorized under subsection (a). Except as provided in paragraph (2), the Secretary of State, in coordination with the Secretary of Defense,shall implement any project under the program authorized under subsection (a).
+In general.—The Secretary of State and the Secretary of Defense shall jointly develop any project under the program authorized under subsection (a). Except as provided in paragraph (2), the Secretary of State, in coordination with the Secretary of Defense, shall implement any project under the program authorized under subsection (a).
 
 &emsp;"(2)
 
@@ -472,7 +472,7 @@ Elements of Performance Monitoring System.—The performance monitoring system r
 
 &emsp;"(1) PRT-specific work plans that incorporate the long-term strategy, mission, and clearly defined objectives required by section 1230(c)(3) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 386), and include plans for developing the capacity of national, provincial, and local government and other civil institutions in Afghanistan to assume increasing responsibility for the formulation, implementation, and oversight of reconstruction and development activities; and
 
-&emsp;"(2) comprehensive performance indicators and measures of progress toward sustainable long-term security and stability in Afghanistan, and include performance standards and progress goals togetherwith a notional timetable for achieving such goals, consistent with the requirements of section 1230(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 388).
+&emsp;"(2) comprehensive performance indicators and measures of progress toward sustainable long-term security and stability in Afghanistan, and include performance standards and progress goals together with a notional timetable for achieving such goals, consistent with the requirements of section 1230(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 388).
 
 "(c)
 

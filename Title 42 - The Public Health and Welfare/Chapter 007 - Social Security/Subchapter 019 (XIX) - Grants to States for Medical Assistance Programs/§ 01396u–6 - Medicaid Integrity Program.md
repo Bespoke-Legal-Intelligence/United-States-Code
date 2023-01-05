@@ -98,7 +98,7 @@ Activities described in this subsection are as follows:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may use amounts appropriated pursuant to paragraph (1) to pay for transportation and the travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business, of individuals described in subsection (b)(4) who attendeducation, training, or consultative activities conducted under the authority of that subsection.
+&emsp;&emsp;&emsp;The Secretary may use amounts appropriated pursuant to paragraph (1) to pay for transportation and the travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business, of individuals described in subsection (b)(4) who attend education, training, or consultative activities conducted under the authority of that subsection.
 
 #### (ii) Public disclosure
 

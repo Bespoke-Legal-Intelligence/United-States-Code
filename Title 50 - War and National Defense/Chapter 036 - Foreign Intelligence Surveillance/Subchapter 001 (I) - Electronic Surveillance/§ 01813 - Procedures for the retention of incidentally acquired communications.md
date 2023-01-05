@@ -38,7 +38,7 @@ In this section:
 
 #### (A) Application
 
-&emsp;&emsp;The procedures required by paragraph (1) shall apply to any intelligence collection activity not otherwise authorized by court order (including an order or certification issued by a court established under subsection (a) or (b) of section 1803 of this title), subpoena, or similar legal process that is reasonably anticipated to result in the acquisition of a covered communication to or from a United States person and shall permit the acquisition, retention, and dissemination of covered communications subject to the limitation in subparagraph (B).
+&emsp;&emsp;The procedures required by paragraph (1) shall apply to any intelligence collection activity not otherwise authorized by court order (including an order or certification issued by a court established under subsection (a) or (b) of section 1803 of this title), subpoena, or similar legal process that isreasonably anticipated to result in the acquisition of a covered communication to or from a United States person and shall permit the acquisition, retention, and dissemination of covered communications subject to the limitation in subparagraph (B).
 
 #### (B) Limitation on retention
 

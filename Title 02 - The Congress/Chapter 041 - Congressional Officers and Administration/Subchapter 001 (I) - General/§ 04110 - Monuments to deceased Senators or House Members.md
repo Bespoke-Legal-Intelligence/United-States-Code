@@ -30,7 +30,7 @@ Terms and Conditions of Agreement.—The terms and conditions described in this 
 
 &emsp;"(3) The Association shall use such distributions from the endowment and the match for the care and maintenance of Congressional Cemetery, except that the Association may not use such distributions for nonroutine restoration or capital projects.
 
-&emsp;"(4) The Association, or any successor thereto, shall maintain adequate records and accounts of all financial transactions and operations carried out with such distributions, and such records shall be available at all times for audit and investigation by the Architect of the Capitol and the Comptroller General.
+&emsp;"(4) The Association, or any successor thereto, shall maintain adequate records and accounts of all financial transactions and operations carried outwith such distributions, and such records shall be available at all times for audit and investigation by the Architect of the Capitol and the Comptroller General.
 
 "(c)
 

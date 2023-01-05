@@ -104,7 +104,7 @@ Dispute Resolution.—(1) The Secretary shall prescribe regulations for resolvin
 
 (2) A State or Indian tribe involved in a dispute under this subsection may petition the Secretary to resolve the dispute. The Secretary shall resolve the dispute not later than one year after receiving the petition. The resolution shall provide the greatest level of highway safety without being an unreasonable burden on commerce and shall ensure compliance with standards prescribed under subsection (b) of this section.
 
-(3)(A) After a petition is filed under this subsection, a civil action about the subject matterof the dispute may be brought in a court only after the earlier of—
+(3)(A) After a petition is filed under this subsection, a civil action about the subject matter of the dispute may be brought in a court only after the earlier of—
 
 &emsp;(i) the day the Secretary issues a final decision; or
 

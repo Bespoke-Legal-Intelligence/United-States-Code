@@ -16,13 +16,13 @@ As used in this subchapter, the term—
 
 &emsp;(7) the term "Native American Pacific Islander" means an individual who is indigenous to a United States territory or possession located in the Pacific Ocean, and includes such individual while residing in the United States.
 
-(Pub. L. 88–452, title VIII, §815, formerly §813, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2327; amended Pub. L. 98–558, title X, §1004, Oct. 30, 1984, 98 Stat. 2906; renumbered §815 and amended Pub. L. 100–175, title V, §§502(2), 503(b), Nov. 29, 1987, 101 Stat. 973, 975; Pub. L. 102–375, title VIII, §822(21), Sept. 30, 1992, 106 Stat. 1300; Pub. L. 102–497, §9(b), Oct. 24, 1992, 106 Stat. 3257; Pub. L. 103–171, §5(6), Dec. 2, 1993, 107 Stat. 1992; Pub. L. 109–394, §3, Dec. 14, 2006, 120 Stat. 2707; Pub. L. 116–261, §5(d)(1), Dec. 30, 2020, 134 Stat. 3314.)
+(Pub. L. 88–452, title VIII, §815, formerly §813, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat.2327; amended Pub. L. 98–558, title X, §1004, Oct. 30, 1984, 98 Stat. 2906; renumbered §815 and amended Pub. L. 100–175, title V, §§502(2), 503(b), Nov. 29, 1987, 101 Stat. 973, 975; Pub. L. 102–375, title VIII, §822(21), Sept. 30, 1992, 106 Stat. 1300; Pub. L. 102–497, §9(b), Oct. 24, 1992, 106 Stat. 3257; Pub. L. 103–171, §5(6), Dec. 2, 1993, 107 Stat. 1992; Pub. L. 109–394, §3, Dec. 14, 2006, 120 Stat. 2707; Pub. L. 116–261, §5(d)(1), Dec. 30, 2020, 134 Stat. 3314.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Amendments
 

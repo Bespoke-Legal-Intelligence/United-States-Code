@@ -30,9 +30,11 @@ Use of rent.—Notwithstanding section 571(a) of this title, the Administrator m
 
 (c)
 
-Amounts for Rent Available for Lease of Buildings on Government Land.—Amounts made available to the General Services Administration for the payment of rent may be used to lease space, for a period of not more than 30 years, in buildings erected on land owned by the Government.
+Amounts for Rent Available for Lease of Buildings on Government Land.—Amounts made available to the General Services Administration for the payment of rent may be used to lease space, for a period of not more than 30years, in buildings erected on land owned by the Government.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1112.)
+(d) Any bargain-price option to purchase at less than fair market value contained in any lease agreement entered into on or after January 1, 2021, pursuant to this section may be exercised only to the extent specifically provided for in subsequent appropriation Acts or other Acts of Congress.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1112; Pub. L. 117–257, §1, Dec. 21, 2022, 136 Stat. 2371.)
 
 Historical and Revision Notes
 
@@ -69,6 +71,12 @@ June 30, 1949, ch. 288, title II, §210(h)(2), as added Pub. L. 85–493, §1, J
 Pub. L. 101–136, title IV, §5, Nov. 3, 1989, 103 Stat. 802.
 
 In subsection (b)(2), the words "Federal Buildings Fund" are substituted for "buildings management fund" because the fund established under 40:490(f)(1) is the Federal Buildings Fund and unexpended balances in the Buildings Management Fund were merged into the Federal Buildings Fund under 40:490(f)(3).
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (d). Pub. L. 117–257 added subsec. (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -292,7 +300,7 @@ Report and Implementation.—The General Services Administration shall—
 
 #### "SEC. 6. AGENCY NOTIFICATIONS.
 
-"Not later than 60 days after the date of enactment of this Act \[Dec. 31, 2020\], the Administrator of General Services, in consultation with the Office of Management and Budget, shall provide notification to relevant Executive branch agencies with independent leasing authorities of the requirements of this Act.
+"Not later than 60 days after the date of enactment of this Act \[Dec. 31, 2020\], the Administrator of GeneralServices, in consultation with the Office of Management and Budget, shall provide notification to relevant Executive branch agencies with independent leasing authorities of the requirements of this Act.
 
 #### "SEC. 7. APPLICABILITY.
 

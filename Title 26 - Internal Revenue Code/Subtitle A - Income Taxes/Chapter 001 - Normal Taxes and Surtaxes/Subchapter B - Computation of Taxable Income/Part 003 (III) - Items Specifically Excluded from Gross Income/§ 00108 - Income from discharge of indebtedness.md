@@ -114,7 +114,7 @@
 
 #### (B) Limitation
 
-&emsp;&emsp;The amount to which an election under subparagraph (A) applies shall not exceed the aggregate adjusted bases of the depreciable property held by the taxpayer as of the beginning of the taxable year followingthe taxable year in which the discharge occurs.
+&emsp;&emsp;The amount to which an election under subparagraph (A) applies shall not exceed the aggregate adjusted bases of the depreciable property held by the taxpayer as of the beginning of the taxable year following the taxable year in which the discharge occurs.
 
 #### (C) Other tax attributes not reduced
 
@@ -160,7 +160,7 @@
 
 #### (4) Qualified acquisition indebtedness
 
-&emsp;For purposes of paragraph (3)(B), the term "qualified acquisition indebtedness" means, with respect to any real property described in paragraph (3)(A), indebtedness incurred or assumed to acquire, construct, reconstruct, or substantially improve such property.
+&emsp;For purposes of paragraph (3)(B), the term "qualified acquisition indebtedness" means,with respect to any real property described in paragraph (3)(A), indebtedness incurred or assumed to acquire, construct, reconstruct, or substantially improve such property.
 
 #### (5) Regulations
 
@@ -202,7 +202,7 @@
 
 #### (B) Reduction in carryover of disallowed losses and deductions
 
-&emsp;&emsp;In the case of an S corporation, for purposes of subparagraph (A) of subsection (b)(2), any loss or deduction which is disallowed for the taxable year of the discharge under section 1366(d)(1) shall be treated as a net operating loss for such taxable year. The preceding sentence shall not apply to anydischarge to the extent that subsection (a)(1)(D) applies to such discharge.
+&emsp;&emsp;In the case of an S corporation, for purposes of subparagraph (A) of subsection (b)(2), any loss or deduction which is disallowed for the taxable year of the discharge under section 1366(d)(1) shall be treated as a net operating loss for such taxable year. The preceding sentence shall not apply to any discharge to the extent that subsection (a)(1)(D) applies to such discharge.
 
 #### (C) Coordination with basis adjustments under section 1367(b)(2)
 
@@ -250,7 +250,7 @@ For purposes of this title—
 
 #### (A) Treated as acquisition by debtor
 
-&emsp;&emsp;For purposes of determining income of the debtor from discharge of indebtedness, to the extent provided in regulations prescribed by the Secretary, the acquisition of outstanding indebtedness by a person bearing a relationship to the debtor specified in section 267(b) or 707(b)(1) from a person who does not bear such a relationship to the debtor shall be treated as the acquisition of such indebtedness by the debtor. Such regulations shall provide for such adjustments in the treatment of any subsequent transactions involving the indebtedness as may be appropriate by reason of the application of the preceding sentence.
+&emsp;&emsp;For purposes of determining income of the debtor from discharge of indebtedness, tothe extent provided in regulations prescribed by the Secretary, the acquisition of outstanding indebtedness by a person bearing a relationship to the debtor specified in section 267(b) or 707(b)(1) from a person who does not bear such a relationship to the debtor shall be treated as the acquisition of such indebtedness by the debtor. Such regulations shall provide for such adjustments in the treatment of any subsequent transactions involving the indebtedness as may be appropriate by reason of the application of the preceding sentence.
 
 #### (B) Members of family
 
@@ -370,7 +370,7 @@ For purposes of this title—
 
 &emsp;&emsp;&emsp;(i) pursuant to an agreement with any entity described in subparagraph (A), (B), or (C) under which the funds from which the loan was made were provided to such educational organization, or
 
-&emsp;&emsp;&emsp;(ii) pursuant to a program of such educational organization which is designed toencourage its students to serve in occupations with unmet needs or in areas with unmet needs and under which the services provided by the students (or former students) are for or under the direction of a governmental unit or an organization described in section 501(c)(3) and exempt from tax under section 501(a).
+&emsp;&emsp;&emsp;(ii) pursuant to a program of such educational organization which is designed to encourage its students to serve in occupations with unmet needs or in areas with unmet needs and under which the services provided by the students (or former students) are for or under the direction of a governmental unit or an organization described in section 501(c)(3) and exempt from tax under section 501(a).
 
 > &emsp;The term "student loan" includes any loan made by an educational organization described in section 170(b)(1)(A)(ii) or by an organization exempt from tax under section 501(a) to refinance a loan to an individual to assist the individual in attending any such educational organization but only if the refinancing loan is pursuant to a program of the refinancing organization which is designed as described in subparagraph (D)(ii).
 
@@ -464,7 +464,7 @@ For purposes of this title—
 
 #### (4) Ordering rule
 
-&emsp;If any loan is discharged, in whole or in part, and only a portion of such loan is qualified principal residence indebtedness, subsection (a)(1)(E) shall apply only to so much of the amount discharged as exceeds the amount of the loan (as determined immediately before such discharge) which is not qualified principal residence indebtedness.
+&emsp;If any loan is discharged, in whole or in part, and only a portion of such loan is qualifiedprincipal residence indebtedness, subsection (a)(1)(E) shall apply only to so much of the amount discharged as exceeds the amount of the loan (as determined immediately before such discharge) which is not qualified principal residence indebtedness.
 
 #### (5) Principal residence
 
@@ -544,7 +544,7 @@ For purposes of this title—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;An election under this subsection with respect to any applicable debt instrument shall be made by including with the return of tax imposed by chapter 1 for the taxable year in which the reacquisition of the debt instrument occurs a statement which—
+&emsp;&emsp;&emsp;An election under this subsection with respect to any applicable debt instrumentshall be made by including with the return of tax imposed by chapter 1 for the taxable year in which the reacquisition of the debt instrument occurs a statement which—
 
 &emsp;&emsp;&emsp;&emsp;(I) clearly identifies such instrument, and
 
@@ -594,7 +594,7 @@ For purposes of this title—
 
 Sections 338B(g) and 338I of the Public Health Service Act, referred to in subsec. (f)(4), are classified to sections 254l–1(g) and 254q–1, respectively, of Title 42, The Public Health and Welfare.
 
-Section 140(a) of the Truth in Lending Act, referred to in subsec. (f)(5), is classified to section 1650(a) of Title 15, Commerce and Trade. Section 140(a)(7) of the Act was redesignated section 140(a)(8) by Pub. L. 115–174, title VI, §601(a)(1)(A), May 24, 2018, 132 Stat. 1365.
+Section 140(a) of the Truth in Lending Act, referred to in subsec. (f)(5), is classified to section 1650(a) ofTitle 15, Commerce and Trade. Section 140(a)(7) of the Act was redesignated section 140(a)(8) by Pub. L. 115–174, title VI, §601(a)(1)(A), May 24, 2018, 132 Stat. 1365.
 
 #### Amendments
 
@@ -644,7 +644,7 @@ Subsec. (f)(4). Pub. L. 108–357, §320(a), added par. (4).
 
 Subsec. (f)(3). Pub. L. 105–206, §6004(f)(2), struck out "(or by an organization described in paragraph (2)(E) from funds provided by an organization described in paragraph (2)(D))" after "paragraph (2)(D)".
 
-<b>1997</b>—Subsec. (f)(2). Pub. L. 105–34, §225(a)(1), added subpar. (D) and concluding provisions and struck out former subpar. (D) which read as follows: "any educational organization so described pursuant to an agreement with any entity described in subparagraph\(A), (B), or (C) under which the funds from which the loan was made were provided to such educational organization."
+<b>1997</b>—Subsec. (f)(2). Pub. L. 105–34, §225(a)(1), added subpar. (D) and concluding provisions and struck out former subpar. (D) which read as follows: "any educational organization so described pursuant to an agreement with any entity described in subparagraph (A), (B), or (C) under which the funds from which the loan was made were provided to such educational organization."
 
 Subsec. (f)(2)(B). Pub. L. 105–34, §225(a)(1), struck out "or" at end.
 
@@ -694,7 +694,7 @@ Subsec. (e)(8). Pub. L. 103–66, §13226(a)(1)(B), amended heading and text of 
 
 Subsec. (e)(10), (11). Pub. L. 103–66, §13226(a)(1)(A), redesignated par. (11) as (10) and struck out former par. (10) which related to satisfaction of indebtedness by transfer of corporation's stock.
 
-Subsec. (g)(3)(B). Pub. L. 103–66, §13226(b)(3)(D), substituted "subparagraphs (A), (B), (C), (D), (F), and (G)" for "subparagraphs (A), (B), (C), and (E)" and "subparagraphs (B), (C), and (G)" for "subparagraphs (B) and (E)" and inserted before period at end "and the attribute described in subparagraph (F) of subsection (b)(2) to the extent attributable to any passive activity credit carryover".
+Subsec. (g)(3)(B). Pub. L. 103–66, §13226(b)(3)(D), substituted "subparagraphs (A), (B), (C), (D), (F), and (G)" for "subparagraphs (A), (B), (C), and (E)" and "subparagraphs (B), (C), and (G)" for "subparagraphs (B) and (E)" and inserted before period at end "and the attribute described in subparagraph (F) of subsection\(b)(2) to the extent attributable to any passive activity credit carryover".
 
 <b>1990</b>—Subsec. (e)(8). Pub. L. 101–508, §11325(b)(2), inserted provision at end that any stock which is a disqualified stock, as so defined, not be treated as stock for purposes of this paragraph.
 
@@ -738,7 +738,7 @@ Qualified person.—For purposes of this subsection, the term 'qualified person'
 
 Subsec. (a)(2). Pub. L. 99–514, §822(b)(1), substituted "Subparagraph (B) of paragraph (1)" for "Subparagraphs (B) and (C) of paragraph (1)" in subpar. (A), struck out subpar. (A) designation and heading, and struck out subpar. (B) providing that insolvency exclusion takes precedence over qualified business exclusion.
 
-Subsec. (b)(2)(B). Pub. L. 99–514, §231(d)(3)(D), substituted "General business credit" for "Research credit and general business credit" in heading and amendedtext, as amended by this Act (Pub. L. 99–514, §1171(b)(4) (see below)), generally. Prior to amendment, text read as follows: "Any carryover to or from the taxable year of a discharge of an amount for purposes of determining the amount allowable as a credit under—
+Subsec. (b)(2)(B). Pub. L. 99–514, §231(d)(3)(D), substituted "General business credit" for "Research credit and general business credit" in heading and amended text, as amended by this Act (Pub. L. 99–514, §1171(b)(4) (see below)), generally. Prior to amendment, text read as follows: "Any carryover to or from the taxable year of a discharge of an amount for purposes of determining the amount allowable as a credit under—
 
 &emsp;"(i) section 30 (relating to credit for increasing research activities), or
 
@@ -776,7 +776,7 @@ Subsec. (g). Pub. L. 99–514, §405(a), added subsec. (g).
 
 <b>1984</b>—Subsec. (b)(2)(B). Pub. L. 98–369, §474(r)(5), substituted provisions relating to research credits and general business credits covering carryovers to or from the taxable year of a discharge of an amount for purposes of determining the amount allowable as a credit under section 30 (relating to credit for increasing research activities), or section 38 (relating to general business credit), and directing that there shall not be taken into account any portion of a carryover which is attributable to the employee stock ownership credit determined under section 41 for former provisions covering carryovers to or from the taxable year of the discharge of an amount for purposes of determining the amount of a credit allowable under section 38 (relating to investment in certain depreciable property), section 40 (relating to expenses of work incentive programs), section 44B (relating to credit for employment of certain new employees), section 44E (relating to alcohol used as a fuel), or section 44F (relating to credit for increasing research activities), and directing that, for purposes of clause (i), there could not be taken into account any portion of a carryover which was attributable to the employee plan credit (within the meaning of section 48(o)(3)).
 
-Subsec. (d)(6). Pub. L. 98–369, §721(b)(2), struck out "or S corporation shareholder level" in heading and second sentence which provided that "In the case of an S corporation, subsections (a), (b), and (c) shall apply at the shareholder level.". See par. (7)(A).
+Subsec. (d)(6). Pub. L. 98–369, §721(b)(2), struck out "or S corporation shareholder level" in heading and second sentence which provided that "In the case of anS corporation, subsections (a), (b), and (c) shall apply at the shareholder level.". See par. (7)(A).
 
 Subsec. (d)(7) to (10). Pub. L. 98–369, §721(b)(2), added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively.
 
@@ -880,7 +880,7 @@ Exception.—The amendment made by this section shall not apply to any discharge
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 
@@ -932,7 +932,7 @@ Exceptions.—The amendments made by this section shall not apply to any debt in
 
 &emsp;&emsp;"(iii) which is the subject of a subsequent filing with the Securities and Exchange Commission before January 1, 1991."
 
-Amendment by section 11813(b)(6) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) ofthis title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by section 11813(b)(6) of Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -970,7 +970,7 @@ In general.—Except as otherwise provided in this subsection, the amendment mad
 
 Transitional rule.—The amendment made by subsection (a) shall not apply to the transfer by a corporation of its stock in exchange for debt of the corporation after the date of the enactment of this Act if such transfer is—
 
-&emsp;"(A) pursuant to a written contract requiring such transfer which was binding on the corporation at all times on June 7, 1984, and at all times after such date but only if the transfer takes place before January 1, 1985, and only if the transferee held the debt at all times on June 7, 1984, or
+&emsp;"(A) pursuant to a written contract requiring such transfer which was binding on the corporation at all times on June 7, 1984, and at all times after such date but only if the transfer takes place before January 1,1985, and only if the transferee held the debt at all times on June 7, 1984, or
 
 &emsp;"(B) pursuant to the exercise of an option to exchange debt for stock but only if such option was in effect at all times on June 7, 1984, and at all times after such date and only if at all times on June 7, 1984, the option and the debt were held by the same person.
 
@@ -1020,7 +1020,7 @@ In general.—Except as provided in paragraph (2), the amendments made by sectio
 
 &emsp;"(2)
 
-Transitional rule.—In the case of any discharge of indebtedness to which subparagraph (A) or\(B) of section 108(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to exclusion from gross income), as amended by section 2, applies and which occurs before January 1, 1982, or which occurs in a proceeding in a bankruptcy case or similar judicial proceedings commencing before January 1, 1982, then—
+Transitional rule.—In the case of any discharge of indebtedness to which subparagraph (A) or (B) of section 108(a)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to exclusion from gross income), as amended by section 2, applies and which occurs before January 1, 1982, or which occurs in a proceeding in a bankruptcy case or similar judicial proceedings commencing before January 1, 1982, then—
 
 &emsp;&emsp;"(A) section 108(b)(2) of the such Code (relating to reduction of tax attributes), as so amended, shall be applied without regard to subparagraphs (A), (B), (C), and (E) thereof, and
 
@@ -1156,7 +1156,7 @@ Pub. L. 107–134, title I, §105, Jan. 23, 2002, 115 Stat. 2432, provided that:
 
 In General.—For purposes of the Internal Revenue Code of 1986—
 
-&emsp;"(1) gross income shall not include any amount which (but for this section) would be includible ingross income by reason of the discharge (in whole or in part) of indebtedness of any taxpayer if the discharge is by reason of the death of an individual incurred as the result of the terrorist attacks against the United States on September 11, 2001, or as the result of illness incurred as a result of an attack involving anthrax occurring on or after September 11, 2001, and before January 1, 2002; and
+&emsp;"(1) gross income shall not include any amount which (but for this section) would be includible in gross income by reason of the discharge (in whole or in part) of indebtedness of any taxpayer if the discharge is by reason of the death of an individual incurred as the result of the terrorist attacks against the United States on September 11, 2001, or as the result of illness incurred as a result of an attack involving anthrax occurring on or after September 11, 2001, and before January 1, 2002; and
 
 &emsp;"(2) return requirements under section 6050P of such Code shall not apply to any discharge described in paragraph (1).
 

@@ -1,6 +1,6 @@
 ### §4370m–10. GAO report
 
-Not later than 3 years after December 4, 2015, the Comptroller General of the United States shall submit to Congress a report that includes an analysis of whether the provisions of thissubchapter could be adapted to streamline the Federal permitting process for smaller projects that are not covered projects.
+Not later than 3 years after December 4, 2015, the Comptroller General of the United States shall submit to Congress a report that includes an analysis of whether the provisions of this subchapter could be adapted to streamline the Federal permitting process for smaller projects that are not covered projects.
 
 (Pub. L. 114–94, div. D, title XLI, §41011, Dec. 4, 2015, 129 Stat. 1761.)
 

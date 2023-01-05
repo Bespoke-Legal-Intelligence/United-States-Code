@@ -44,13 +44,13 @@ The Secretary shall, in consultation with the Marine Mammal Commission, the Secr
 
 &emsp;The data base established under this subsection shall include—
 
-&emsp;&emsp;(A) reference data on the health of marine mammals and populations of marine mammals; and
+&emsp;&emsp;(A) reference data on marine mammal health and mortality and the health of populations of marine mammals; and
 
 &emsp;&emsp;(B) data on species of marine mammals that are subject to unusual mortality events.
 
 #### (d) Access
 
-The Secretary shall, in consultation with the Secretary of the Interior, establish criteria, after an opportunity for public review and comment, for access to—
+The Secretary shall, in consultation with the Secretary of the Interior, establish criteria, after an opportunity for public review and comment, for public access to—
 
 &emsp;(1) marine mammal tissues in the Tissue Bank;
 
@@ -60,5 +60,13 @@ The Secretary shall, in consultation with the Secretary of the Interior, establi
 
 > which provide for appropriate uses of the tissues, analyses, and data by qualified scientists, including stranding network participants.
 
-(Pub. L. 92–522, title IV, §407, formerly title III, §307, as added Pub. L. 102–587, title III, §3003(a), Nov. 4, 1992, 106 Stat. 5065; renumbered title IV, §407, Pub. L. 103–238, §24(b), Apr. 30, 1994, 108 Stat. 565.)
+(Pub. L. 92–522, title IV, §407, formerly title III, §307, as added Pub. L. 102–587, title III, §3003(a), Nov. 4, 1992, 106 Stat. 5065; renumbered title IV, §407, Pub. L. 103–238, §24(b), Apr. 30, 1994, 108 Stat. 565; amended Pub. L. 117–263, div. J, title CIV, §10405, Dec. 23, 2022, 136 Stat. 3984.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2022</b>—Subsec. (c)(2)(A). Pub. L. 117–263, §10405(1), substituted "marine mammal health and mortality and the health of" for "the health of marine mammals and".
+
+Subsec. (d). Pub. L. 117–263, §10405(2), inserted "public" before "access" in introductory provisions.
 

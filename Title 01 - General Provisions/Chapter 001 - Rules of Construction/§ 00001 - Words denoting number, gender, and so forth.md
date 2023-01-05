@@ -36,6 +36,10 @@ In determining the meaning of any Act of Congress, unless the context indicates 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–228, §1, Dec. 13, 2022, 136 Stat. 2305, provided that: "This Act \[enacting section 1738C of Title 28, Judiciary and Judicial Procedure, amending section 7 of this title, repealing section 1738C of Title 28, and enacting provisions set out as notes under section 7 of this title\] may be cited as the 'Respect for Marriage Act'."
+
 #### Short Title of 2012 Amendment
 
 Pub. L. 112–231, §1, Dec. 28, 2012, 126 Stat. 1619, provided that: "This Act \[amending this section and sections 92a, 215, and 215a of Title 12, Banks and Banking\] may be cited as the '21st Century Language Act of 2012'."
@@ -47,6 +51,18 @@ Pub. L. 107–207, §1, Aug. 5, 2002, 116 Stat. 926, provided that: "This Act \[
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: "This Act \[enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Defense of Marriage Act'."
+
+#### References in Pub. L. 117–328
+
+Pub. L. 117–328, §3, Dec. 29, 2022, 136 Stat. 4461, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Consolidated Appropriations Act, 2023, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+
+#### References in Pub. L. 117–229
+
+Pub. L. 117–229, §3, Dec. 16, 2022, 136 Stat. 2308, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Further Continuing Appropriations and Extensions Act, 2023, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+
+#### References in Pub. L. 117–103
+
+Pub. L. 117–103, §3, Mar. 15, 2022, 136 Stat. 51, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Consolidated Appropriations Act, 2022, see Tables for classification\] shall be treated as referring only to the provisions of that division."
 
 #### References in Pub. L. 117–58
 
@@ -72,7 +88,7 @@ Pub. L. 116–136, §3, Mar. 27, 2020, 134 Stat. 285, provided that: "Except as 
 
 #### References in Pub. L. 116–127
 
-Pub. L. 116–127, §3, Mar. 18, 2020, 134 Stat. 178, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[Families First Coronavirus Response Act, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+Pub. L. 116–127, §3, Mar. 18, 2020, 134 Stat. 178, provided that: "Except as expressly provided otherwise,any reference to 'this Act' contained in any division of this Act \[Families First Coronavirus Response Act, see Tables for classification\] shall be treated as referring only to the provisions of that division."
 
 #### References in Pub. L. 116–94
 
@@ -144,7 +160,7 @@ Pub. L. 112–55, §3, Nov. 18, 2011, 125 Stat. 552, provided that: "Except as e
 
 #### References in Pub. L. 112–10
 
-Pub. L. 112–10, div. A, title IX, §9015, Apr. 15, 2011, 125 Stat. 102, provided that: "Any reference to 'this Act' in this division \[Department of Defense Appropriations Act, 2011, see Tables for classification\] shall apply solely to this division."
+Pub. L. 112–10, div. A, title IX, §9015, Apr. 15, 2011, 125 Stat. 102, provided that: "Any reference to 'this Act' inthis division \[Department of Defense Appropriations Act, 2011, see Tables for classification\] shall apply solely to this division."
 
 #### References in Pub. L. 111–118
 
@@ -160,7 +176,7 @@ Pub. L. 111–8, §3, Mar. 11, 2009, 123 Stat. 525, provided that: "Except as ex
 
 #### References in Pub. L. 111–5
 
-Pub. L. 111–5, §4, Feb. 17, 2009, 123 Stat. 116, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of thisAct \[American Recovery and Reinvestment Act of 2009, see Tables for classification\] shall be treated as referring only to the provisions of that division."
+Pub. L. 111–5, §4, Feb. 17, 2009, 123 Stat. 116, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act \[American Recovery and Reinvestment Act of 2009, see Tables for classification\] shall be treated as referring only to the provisions of that division."
 
 #### References in Pub. L. 110–329
 

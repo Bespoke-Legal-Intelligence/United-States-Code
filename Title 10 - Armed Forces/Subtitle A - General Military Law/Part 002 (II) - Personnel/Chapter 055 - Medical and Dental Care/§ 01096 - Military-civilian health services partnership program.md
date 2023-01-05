@@ -64,7 +64,7 @@ Updated plan on integrated medical operations in continental united states.—Th
 
 &emsp;"(2)
 
-Updated plan on global patient movement.—The Secretary of Defense shall develop an updated plan on global patient movement and update the Department of Defense Instruction 5154.06, relating tomedical military treatment facilities and patient movement (or such successor instruction) accordingly. Such updated plan shall—
+Updated plan on global patient movement.—The Secretary of Defense shall develop an updated plan on global patient movement and update the Department of Defense Instruction 5154.06, relating to medical military treatment facilities and patient movement (or such successor instruction) accordingly. Such updated plan shall—
 
 &emsp;&emsp;"(A) be informed by the operational plans of the combatant commands and by the joint medical estimate under section 732 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1817);
 
@@ -122,7 +122,7 @@ In general.—The Assistant Secretary of Defense for Health Affairs shall be the
 
 &emsp;"(2)
 
-Resources.—The Assistant Secretary of Defense for Health Affairs shall leverage the resources of the Defense Health Agency for execution of the pilot program under subsection (a) and shall coordinate with the Chairman of the Joint Chiefs of Staff for the duration of the pilot program, including for the duration of any period of design or planning for the pilot program.
+Resources.—The Assistant Secretary of Defense for Health Affairs shall leverage the resources of the Defense Health Agency for execution of the pilot program under subsection (a) and shall coordinate with the Chairman of the Joint Chiefs of Staff for the duration of the pilot program, including forthe duration of any period of design or planning for the pilot program.
 
 "(d)
 

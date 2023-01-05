@@ -22,7 +22,7 @@ For purposes of this subchapter, the following definitions apply:
 
 &emsp;&emsp;(E) the use, sale, or transfer of any energy and water incentive, rebate, grid services revenue, or credit (including a renewable energy certificate); and
 
-&emsp;&emsp;(F) any revenue generated from a reduction in energy or water use, more efficientwaste recycling, or additional energy generated from more efficient equipment.
+&emsp;&emsp;(F) any revenue generated from a reduction in energy or water use, more efficient waste recycling, or additional energy generated from more efficient equipment.
 
 &emsp;(3) The terms "energy savings contract" and "energy savings performance contract" mean a contract that provides for the performance of services for the design, acquisition, installation, testing, and, where appropriate, operation, maintenance, and repair, of an identified energy or water conservation measure or series of measures at 1 or more locations. Such contracts shall, with respect to an agency facility that is a public building (as such term is defined in section 3301 of title 40), be in compliance with the prospectus requirements and procedures of section 3307 of title 40.
 

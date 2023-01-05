@@ -12,7 +12,7 @@ The value of benefits that may be provided under this chapter shall not be consi
 
 (1) The value of the allotment issued to any eligible household for the initial month or other initial period for which an allotment is issued shall have a value which bears the same ratio to the value of the allotment for a full month or other initial period for which the allotment is issued as the number of days (from the date of application) remaining in the month or other initial period for which the allotment is issued bears to the total number of days in the month or other initial period for which the allotment is issued, except that no allotment may be issued to a household for the initial month or period if the value of the allotment which such household would otherwise be eligible to receive under this subsection is less than $10. Households shall receive full months' allotments for all months within a certification period, except as provided in the first sentence of this paragraph with respect to an initial month.
 
-(2) As used in this subsection, the term "initial month" means (A) the first month for which an allotment is issued to a household, (B) the first month for which an allotment is issued to a household following any period in which such household was not participating in the supplemental nutrition assistance program under this chapter after the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title, and (C) in the case of a migrant or seasonal farmworker household, the first month for which allotment is issued to a household that applies following any period of more than 30 days in which such household was not participating in the supplemental nutrition assistance program after previous participation in such program.
+(2) As used in this subsection, the term "initial month" means (A) the first month for which an allotment is issued to a household, (B) thefirst month for which an allotment is issued to a household following any period in which such household was not participating in the supplemental nutrition assistance program under this chapter after the expiration of a certification period or after the termination of the certification of a household, during a certification period, when the household ceased to be eligible after notice and an opportunity for a hearing under section 2020(e)(10) of this title, and (C) in the case of a migrant or seasonal farmworker household, the first month for which allotment is issued to a household that applies following any period of more than 30 days in which such household was not participating in the supplemental nutrition assistance program after previous participation in such program.
 
 (3)
 
@@ -158,7 +158,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 
@@ -244,7 +244,7 @@ Subsec. (c). Pub. L. 97–35, §110, added subsec. (c).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by sections 4001(b), 4107, and 4115(b)(5) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

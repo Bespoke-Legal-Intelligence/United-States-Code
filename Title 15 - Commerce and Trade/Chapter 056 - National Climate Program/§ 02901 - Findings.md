@@ -10,7 +10,7 @@ The Congress finds and declares the following:
 
 &emsp;(4) Information regarding climate is not being fully disseminated or used, and Federal efforts have given insufficient attention to assessing and applying this information.
 
-&emsp;(5) Climate fluctuation and change occur on a global basis, and deficiencies exist in the system for monitoring global climate changes. International cooperation for the purpose of sharing the benefits and costs of a global effort to understand climate is essential.
+&emsp;(5) Climate fluctuation and change occur on a global basis, and deficiencies exist in thesystem for monitoring global climate changes. International cooperation for the purpose of sharing the benefits and costs of a global effort to understand climate is essential.
 
 &emsp;(6) The United States lacks a well-defined and coordinated program in climate-related research, monitoring, assessment of effects, and information utilization.
 

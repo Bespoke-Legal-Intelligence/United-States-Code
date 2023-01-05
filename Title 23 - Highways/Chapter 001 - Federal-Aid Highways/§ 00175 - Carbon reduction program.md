@@ -106,7 +106,7 @@ Review.—Not later than 90 days after the date on which a State submits a reque
 
 &emsp;&emsp;(B)(i) certify that the carbon reduction strategy meets the requirements of paragraph (2); or
 
-&emsp;&emsp;(ii) deny certification of the carbon reduction strategy and specify the actions necessary for the State to take to correct thedeficiencies in the process of the State in developing the carbon reduction strategy.
+&emsp;&emsp;(ii) deny certification of the carbon reduction strategy and specify the actions necessary for the State to take to correct the deficiencies in the process of the State in developing the carbon reduction strategy.
 
 &emsp;(5)
 

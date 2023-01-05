@@ -16,7 +16,7 @@ Section 1047, act July 9, 1952, ch. 608, pt. IV, §407, 66 Stat. 499, provided f
 
 Section 1048, act July 9, 1952, ch. 608, pt. IV, §409, 66 Stat. 499, authorized Secretary of Navy to prescribe a suitable flag to be known as Naval Reserve flag, and provided class of vessels which may fly such flag. See section 7225 of Title 10, Armed Forces.
 
-Section 1049, act July 9, 1952, ch. 608, pt. IV, §410, 66 Stat. 499, authorized Secretary of Navy to prescribe a Naval Reserve yacht pennant and enumerated class ofvessels which may fly such pennant. See section 7226 of Title 10.
+Section 1049, act July 9, 1952, ch. 608, pt. IV, §410, 66 Stat. 499, authorized Secretary of Navy to prescribe a Naval Reserve yacht pennant and enumerated class of vessels which may fly such pennant. See section 7226 of Title 10.
 
 Section 1050, act July 9, 1952, ch. 608, pt. IV, §411, 66 Stat. 499, related to appointment and duty of temporary officers in Naval Reserve and Marine Corps Reserve. See section 603 of Title 10.
 

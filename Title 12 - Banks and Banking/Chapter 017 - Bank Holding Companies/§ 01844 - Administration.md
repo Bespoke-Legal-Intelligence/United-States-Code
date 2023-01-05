@@ -2,7 +2,7 @@
 
 #### (a) Registration of bank holding company
 
-Within one hundred and eighty days after May 9, 1956, or within one hundred and eighty days after becoming a bank holding company, whichever is later, each bank holding company shall register with the Board on forms prescribed by the Board, which shall include such information with respect to the financial condition and operations, management, and intercompany relationships of the bank holding company and its subsidiaries, and related matters, as the Board may deem necessary or appropriate to carry out the purposes of this chapter. The Board may, in its discretion, extend the time within which a bank holding company shall register and file the requisite information. A declaration filed in accordance with section 1843(l)(1)(C) <sup>1</sup> of this titleshall satisfy the requirements of this subsection with regard to the registration of a bank holding company but not any requirement to file an application to acquire a bank pursuant to section 1842 of this title.
+Within one hundred and eighty days after May 9, 1956, or within one hundred and eighty days after becoming a bank holding company, whichever is later, each bank holding company shall register with the Board on forms prescribed by the Board, which shall include such information with respect to the financial condition and operations, management, and intercompany relationships of the bank holding company and its subsidiaries, and related matters, as the Board may deem necessary or appropriate to carry out the purposes of this chapter. The Board may, in its discretion, extend the time within which a bank holding company shall register and file the requisite information. A declaration filed in accordance with section 1843(l)(1)(C) <sup>1</sup> of this title shall satisfy the requirements of this subsection with regard to the registration of a bank holding company but not any requirement to file an application to acquire a bank pursuant to section 1842 of this title.
 
 #### (b) Regulations and orders
 
@@ -102,7 +102,7 @@ The Board is authorized to issue such regulations and orders, including regulati
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Subparagraph (A) shall not be construed as preventing the Board from imposing capital or capital adequacy rules, guidelines, standards, or requirements with respect to—
+&emsp;&emsp;Subparagraph (A) shall not be construed as preventing the Board from imposing capitalor capital adequacy rules, guidelines, standards, or requirements with respect to—
 
 &emsp;&emsp;&emsp;(i) activities of a registered investment adviser other than with respect to investment advisory activities or activities incidental to investment advisory activities; or
 
@@ -152,9 +152,9 @@ Before the expiration of two years following May 9, 1956, and each year thereaft
 
 (1) Notwithstanding any other provision of this chapter, the Board may, whenever it has reasonable cause to believe that the continuation by a bank holding company of any activity or of ownership or control of any of its nonbank subsidiaries, other than a nonbank subsidiary of a bank, constitutes a serious risk to the financial safety, soundness, or stability of a bank holding company subsidiary bank and is inconsistent with sound banking principles or with the purposes of this chapter or with the Financial Institutions Supervisory Act of 1966, at the election of the bank holding company—
 
-&emsp;(A) order the bank holding company or any such nonbank subsidiaries, after due notice and opportunity for hearing, and after considering the views of the bank's primary supervisor, which shall be the Comptroller of the Currency in the case of a national bank or the Federal Deposit Insurance Corporation and the appropriate State supervisory authority in the case of an insured nonmember bank, to terminate such activities or to terminate\(within one hundred and twenty days or such longer period as the Board may direct in unusual circumstances) its ownership or control of any such subsidiary either by sale or by distribution of the shares of the subsidiary to the shareholders of the bank holding company; or
+&emsp;(A) order the bank holding company or any such nonbank subsidiaries, after due notice and opportunity for hearing, and after considering the views of the bank's primary supervisor, which shall be the Comptroller of the Currency in the case of a national bank or the Federal Deposit Insurance Corporation and the appropriate State supervisory authority in the case of an insured nonmember bank, to terminate such activities or to terminate (within one hundred and twenty days or such longer period as the Board may direct in unusual circumstances) its ownership or control of any such subsidiary either by sale or by distribution of the shares of the subsidiary to the shareholders of the bank holding company; or
 
-&emsp;(B) order the bank holding company, after due notice and opportunity for hearing, and after consultation with the primary supervisor for the bank, which shall be the Comptroller of the Currency in the case of a national bank, and the Federal Deposit Insurance Corporation and the appropriate State supervisor in the case of an insured nonmember bank, to terminate (within 120 days or such longer period as the Board may direct) the ownership or control of any such bank by such company.
+&emsp;(B) order the bank holding company, after due notice and opportunity for hearing, and after consultation with the primary supervisor for the bank, which shall be the Comptroller of the Currency in the case of a national bank,and the Federal Deposit Insurance Corporation and the appropriate State supervisor in the case of an insured nonmember bank, to terminate (within 120 days or such longer period as the Board may direct) the ownership or control of any such bank by such company.
 
 > The distribution referred to in subparagraph (A) shall be pro rata with respect to all of the shareholders of the distributing bank holding company, and the holding company shall not make any charge to its shareholders arising out of such a distribution.
 
@@ -180,7 +180,7 @@ In the course of or in connection with an application, examination, investigatio
 
 #### (2) Notice to State insurance authority or SEC required
 
-&emsp;If the Board requires a bank holding company, or an affiliate of a bank holding company, that is an insurance company or a broker, dealer, investment company, or investment adviser described in paragraph (1)(A) to provide funds or assets to a depository institution subsidiary of the holding company pursuant to any regulation, order, or other action of the Board referred to in paragraph (1), the Board shall promptly notify the State insurance authority for the insurance company, the Securities and Exchange Commission, or State securities regulator, as the case may be, of such requirement.
+&emsp;If the Board requires a bank holding company, or an affiliate of a bank holding company, that is an insurance company or a broker, dealer, investment company, or investment adviser described in paragraph (1)(A) to provide funds or assets to a depository institution subsidiary of the holding company pursuant to any regulation, order, or other action of the Board referred to in paragraph (1), the Board shall promptly notify the State insurance authority for the insurance company, the Securities and Exchange Commission, orState securities regulator, as the case may be, of such requirement.
 
 #### (3) Divestiture in lieu of other action
 
@@ -194,7 +194,17 @@ In the course of or in connection with an application, examination, investigatio
 
 &emsp;No provision of this subsection may be construed as limiting or otherwise affecting, except to the extent specifically provided in this subsection, the regulatory authority, including the scope of the authority, of any Federal agency or department with regard to any entity that is within the jurisdiction of such agency or department.
 
-(May 9, 1956, ch. 240, §5, 70 Stat. 137; Pub. L. 95–630, title I, §§105(a), 106(b), Nov. 10, 1978, 92 Stat. 3646, 3648; Pub. L. 106–102, title I, §§111, 112(a), 116, Nov. 12, 1999, 113 Stat. 1362, 1366, 1372; Pub. L. 111–203, title III, §354(3), title VI, §§604(a)–(c)(1), 616(a), July 21, 2010, 124 Stat. 1547, 1599–1601, 1615.)
+#### (h) Data standards
+
+#### (1) Requirement
+
+&emsp;The Board shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board by any bank holding company in a report under subsection (c).
+
+#### (2) Consistency
+
+&emsp;The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of this title, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(May 9, 1956, ch. 240, §5, 70 Stat. 137; Pub. L. 95–630, title I, §§105(a), 106(b), Nov. 10, 1978, 92 Stat. 3646, 3648; Pub. L. 106–102, title I, §§111, 112(a), 116, Nov. 12, 1999, 113 Stat. 1362, 1366, 1372; Pub. L. 111–203, title III, §354(3), title VI, §§604(a)–(c)(1), 616(a), July 21, 2010, 124 Stat. 1547, 1599–1601, 1615; Pub. L. 117–263, div. E, title LVIII, §5861(c), Dec. 23, 2022, 136 Stat. 3434.)
 
 #### <b>Editorial Notes</b>
 
@@ -215,6 +225,8 @@ The Securities Exchange Act of 1934, referred to in subsecs. (c)(5)(B)(i) and (g
 The Financial Institutions Supervisory Act of 1966, referred to in subsec. (e)(1), is Pub. L. 89–695, Oct. 16, 1966, 80 Stat. 1028. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 1464 of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h). Pub. L. 117–263 added subsec. (h).
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–203, §616(a), inserted ", including regulations and orders relating to the capital requirements for bank holding companies," after "orders" and "In establishing capital regulations pursuant to this subsection, the Board shall seek to make such requirements countercyclical, so that the amount of capital required to be maintained by a company increases in times of economic expansion and decreases in times of economic contraction, consistent with the safety and soundness of the company." at the end.
 
@@ -263,6 +275,10 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (d) of this section is listed on page 171), see section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance.
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5864 of Pub. L. 117–263, set out as a note under section 253 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

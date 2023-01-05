@@ -8,7 +8,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 #### (1) In general
 
-&emsp;Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage held pursuant to section 1701q of this title, who has agreed in writing, as a condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments dueunder the note and mortgage, for payments to the reserve for replacements, to restore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on the mortgagor in accordance with the provisions of this section.
+&emsp;Whenever a mortgagor of property that includes 5 or more living units and that has a mortgage held pursuant to section 1701q of this title, who has agreed in writing, as a condition of a transfer of physical assets, a flexible subsidy loan, a capital improvement loan, a modification of the mortgage terms, or a workout agreement, to use nonproject income to make cash contributions for payments due under the note and mortgage, for payments to the reserve for replacements, to restore the project to good physical condition, or to pay other project liabilities, knowingly and materially fails to comply with any of these commitments, the Secretary may impose a civil money penalty on the mortgagor in accordance with the provisions of this section.
 
 #### (2) Amount
 
@@ -32,7 +32,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(F) Not holding any funds collected as security deposits separate and apart from all other funds of the project in a trust account, the amount of which at all times equals or exceeds the aggregate of all outstanding obligations under the account.
 
-&emsp;&emsp;(G) Payment for services, supplies, or materials which exceeds $500 and substantially exceeds the amount ordinarily paid for such services, supplies, or materials in the area where the services are rendered or the supplies or materials furnished.
+&emsp;&emsp;(G) Payment for services, supplies, or materials which exceeds $500 and substantially exceeds the amount ordinarily paid for suchservices, supplies, or materials in the area where the services are rendered or the supplies or materials furnished.
 
 &emsp;&emsp;(H) Failure to maintain at any time the mortgaged property, equipment, buildings, plans, offices, apparatus, devices, books, contracts, records, documents, and other related papers (including failure to keep copies of all written contracts or other instruments which affect the mortgaged property) in reasonable condition for proper audit and for examination and inspection at any reasonable time by the Secretary or any duly authorized agents of the Secretary.
 

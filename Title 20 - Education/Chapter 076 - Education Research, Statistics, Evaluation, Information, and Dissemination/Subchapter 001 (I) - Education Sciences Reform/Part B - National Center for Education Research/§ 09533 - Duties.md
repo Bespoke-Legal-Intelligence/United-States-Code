@@ -42,7 +42,7 @@ The Research Center shall—
 
 &emsp;&emsp;(D) field-based research on how teachers implement technology and Internet-based resources in the classroom, including an understanding <sup>1</sup> how these resources are being accessed, put to use, and the effectiveness of such resources; and
 
-&emsp;(11) carry out research that is rigorous, peer-reviewed, and large scale to determine whichmethods of mathematics and science teaching are most effective, cost efficient, and able to be applied, duplicated, and scaled up for use in elementary and secondary classrooms, including in low-performing schools, to improve the teaching of, and student achievement in, mathematics and science as required under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
+&emsp;(11) carry out research that is rigorous, peer-reviewed, and large scale to determine which methods of mathematics and science teaching are most effective, cost efficient, and able to be applied, duplicated, and scaled up for use in elementary and secondary classrooms, including in low-performing schools, to improve the teaching of, and student achievement in, mathematics and science as required under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.).
 
 #### (b) Eligibility
 
@@ -110,7 +110,7 @@ Research carried out under subsection (a) through contracts, grants, or cooperat
 
 #### References in Text
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(11), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(11), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "understanding of".</i>
 

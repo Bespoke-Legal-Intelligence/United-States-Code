@@ -6,11 +6,11 @@ The Secretary of Agriculture shall provide leadership within the executive branc
 
 #### (b) Policy development; systematic review of Federal programs; access to information; development of process to receive and assess needs, goals, etc.; cooperative agreements to improve Federal programs affecting rural areas; public hearings and comments
 
-(1) The Secretary shall conduct a systematic review of Federal programs affecting rural areas to (A) determine whether such areas are benefiting from such programs in an equitable proportion to the benefits received by urban areasand (B) identify any factors that may restrict accessibility to such programs in rural areas or limit participation in such programs.
+(1) The Secretary shall conduct a systematic review of Federal programs affecting rural areas to (A) determine whether such areas are benefiting from such programs in an equitable proportion to the benefits received by urban areas and (B) identify any factors that may restrict accessibility to such programs in rural areas or limit participation in such programs.
 
 (2) Subject to the Privacy Act of 1974 \[5 U.S.C. 552a\], the Secretary may secure directly from any Federal department or agency information necessary to carry out the Secretary's duties under this section. Upon request of the Secretary under this paragraph, the head of any such Federal department or agency shall furnish such information to the Secretary.
 
-(3) The Secretary shall develop a process through which multistate, State, substate, and local rural development needs, goals, objectives, plans, and recommendations can be received and assessed on a continuing basis. Such process may include the use of those rural development experts, advisors, and consultants that the Secretary deems appropriate, as well as the establishment of temporary advisory committees under the terms of the Federal Advisory Committee Act.
+(3) The Secretary shall develop a process through which multistate, State, substate, and local rural development needs, goals, objectives, plans, and recommendations can be received and assessed on a continuing basis. Such process may include the use of those rural development experts, advisors, and consultants that the Secretary deems appropriate, as well as the establishment of temporary advisory committees under the terms of chapter 10 of title 5.
 
 (4)
 
@@ -58,7 +58,7 @@ Cooperators.—Each cooperator, including each Federal agency, to the extent tha
 
 #### (d) Strategy implementation; goals
 
-The Secretary shall ensure the effective implementation of the rural development strategy and maximize coordination of Federal programsaffecting rural areas through a systematic effort to—
+The Secretary shall ensure the effective implementation of the rural development strategy and maximize coordination of Federal programs affecting rural areas through a systematic effort to—
 
 &emsp;(1) improve communication and encourage cooperation among Federal departments and agencies in the administration of rural development programs;
 
@@ -72,7 +72,7 @@ The Secretary shall ensure the effective implementation of the rural development
 
 &emsp;(6) simplify, standardize, and reduce the complexity of applications, reports, and other forms required under Federal rural development programs.
 
-(Pub. L. 92–419, title VI, §607, as added Pub. L. 96–355, §2, Sept. 24, 1980, 94 Stat. 1171; amended Pub. L. 104–127, title VII, §759A, Apr. 4, 1996, 110 Stat. 1138.)
+(Pub. L. 92–419, title VI, §607, as added Pub. L. 96–355, §2, Sept. 24, 1980, 94 Stat. 1171; amended Pub. L. 104–127, title VII, §759A, Apr. 4, 1996, 110 Stat. 1138; Pub. L. 117–286, §4(a)(28), Dec. 27, 2022, 136 Stat. 4308.)
 
 #### <b>Editorial Notes</b>
 
@@ -80,9 +80,9 @@ The Secretary shall ensure the effective implementation of the rural development
 
 The Privacy Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(3). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act."
 
 <b>1996</b>—Subsec. (b)(4). Pub. L. 104–127 added par. (4) and struck out former par. (4) which read as follows: "The Secretary may undertake cooperative efforts with other Federal departments and agencies to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas. The Secretary may request the heads of other Federal departments and agencies to participate in any working groups that the Secretary deems necessary to carry out the purposes of this section."
 
@@ -120,7 +120,7 @@ Pub. L. 104–127, title VII, §762, Apr. 4, 1996, 110 Stat. 1148, provided that
 
 #### Executive Order No. 12720
 
-Ex. Ord. No. 12720, July 16, 1990, 55 F.R. 29337, as amended by Ex. Ord. No. 12783, Dec. 17, 1991, 56 F.R. 65977, which established the President's Council on Rural America, was revoked by Ex. Ord. No. 12869, §4(c), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12720, July 16, 1990, 55 F.R. 29337, as amended by Ex. Ord. No. 12783, Dec. 17, 1991, 56 F.R. 65977, which established the President's Council on Rural America, was revoked by Ex. Ord. No. 12869, §4(c), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 13575
 

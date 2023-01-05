@@ -4,7 +4,7 @@
 
 It shall be an unlawful employment practice for any employer, labor organization, or joint labor-management committee controlling apprenticeship or other training or retraining, including on-the-job training programs—
 
-&emsp;(1) to discriminate against any individual because of genetic information with respect to the individual in admission to, or employmentin, any program established to provide apprenticeship or other training or retraining;
+&emsp;(1) to discriminate against any individual because of genetic information with respect to the individual in admission to, or employment in, any program established to provide apprenticeship or other training or retraining;
 
 &emsp;(2) to limit, segregate, or classify the applicants for or participants in such apprenticeship or other training or retraining, or fail or refuse to refer for employment any individual, in any way that would deprive or tend to deprive any individual of employment opportunities, or otherwise adversely affect the status of the individual as an employee, because of genetic information with respect to the individual; or
 
@@ -64,7 +64,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(5)(D)
 
 The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(5)(D)(i), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which is classified principally to chapter 22 (§801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 30 and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (b)(5)(D)(i), is act Aug. 1, 1946, ch. 724, as added by actAug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (b)(5)(D)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

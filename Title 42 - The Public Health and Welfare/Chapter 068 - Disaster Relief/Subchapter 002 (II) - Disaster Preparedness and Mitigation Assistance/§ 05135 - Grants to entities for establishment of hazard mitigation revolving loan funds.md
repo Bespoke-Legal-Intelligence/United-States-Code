@@ -88,11 +88,9 @@
 
 &emsp;The Administrator shall reserve not more than 2.5 percent of the amount made available to carry out this section for the Federal Emergency Management Agency for—
 
-&emsp;&emsp;(A) administrative costs incurred in carrying out this section;
+&emsp;&emsp;(A) administrative costs incurred in carrying out this section; and
 
-&emsp;&emsp;(B) providing technical assistance to participating entities under subsection (b)(2); and
-
-&emsp;&emsp;(C) capitalization grants to insular areas under paragraph (4).
+&emsp;&emsp;(B) providing technical assistance to participating entities under subsection (b)(2).
 
 #### (3) Priority
 
@@ -104,17 +102,7 @@
 
 &emsp;&emsp;(C) take into account regional impacts of hazards on river basins, river corridors, micro-watersheds, macro-watersheds, estuaries, lakes, bays, and coastal regions and areas at risk of earthquakes, tsunamis, droughts, severe storms, and wildfires, including the wildland-urban interface; or
 
-&emsp;&emsp;(D) propose projects for the resilience of major economic sectors or critical national infrastructure, including ports, global commodity supply chain assets (located within an entity or within the jurisdiction of local governments, insular areas, and Indian tribal governments), power and water production and distribution centers, and bridges and waterways essential to interstate commerce.
-
-#### (4) Insular areas
-
-#### (A) Apportionment
-
-&emsp;&emsp;From any amount remaining of funds reserved under paragraph (2), the Administrator may enter into agreements to provide capitalization grants to insular areas.
-
-#### (B) Requirements
-
-&emsp;&emsp;An insular area receiving a capitalization grant under this section shall comply with the requirements of this section as applied to participating entities.
+&emsp;&emsp;(D) propose projects for the resilience of major economic sectors or critical national infrastructure, including ports, global commodity supply chain assets (located within an entity or within the jurisdiction of local governments and Tribal governments), power and water production and distribution centers, and bridges and waterways essential to interstate commerce.
 
 #### (e) Environmental review of revolving loan fund projects
 
@@ -182,7 +170,7 @@ The Administrator may delegate to a participating entity all of the responsibili
 
 &emsp;&emsp;(C) the study and creation of land use incentives that reward developers for greater reliance on low impact development stormwater best management practices, exchange density increases for increased open space and improvement of neighborhood catch basins to mitigate urban flooding, reward developers for including and augmenting natural infrastructure adjacent to and around building projects without reliance on increased sprawl, and reward developers for addressing wildfire ignition; and
 
-&emsp;&emsp;(D) the study and creation of an erosion response plan that accommodates river, lake, forest, plains, and ocean shoreline retreatingor bluff stabilization due to increased flooding and disaster impacts.
+&emsp;&emsp;(D) the study and creation of an erosion response plan that accommodates river, lake, forest, plains, and ocean shoreline retreating or bluff stabilization due to increased flooding and disaster impacts.
 
 #### (5) Establishing and carrying out building code enforcement
 
@@ -324,41 +312,29 @@ In this section, the following definitions apply:
 
 #### (3) Eligible entity
 
-&emsp;The term "eligible entity" means—
-
-&emsp;&emsp;(A) a State; or
-
-&emsp;&emsp;(B) an Indian tribal government that has received a major disaster declaration during the 5-year period ending on January 1, 2021.
+&emsp;The term "eligible entity" means a State or an Indian tribal government that has received a major disaster declaration pursuant to section 5170 of this title.
 
 #### (4) Hazard mitigation plan
 
 &emsp;The term "hazard mitigation plan" means a mitigation plan submitted under section 5165 of this title.
 
-#### (5) Insular area
-
-&emsp;The term "insular area" means Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
-
-#### (6) Low-income geographic area
+#### (5) Low-income geographic area
 
 &emsp;The term "low-income geographic area" means an area described in paragraph (1) or (2) of section 3161(a) of this title.
 
-#### (7) Participating entity
+#### (6) Participating entity
 
 &emsp;The term "participating entity" means an eligible entity that has entered into an agreement under this section.
 
-#### (8) Repetitive loss structure
+#### (7) Repetitive loss structure
 
 &emsp;The term "repetitive loss structure" has the meaning given the term in section 4121 of this title.
 
-#### (9) Severe repetitive loss structure
+#### (8) Severe repetitive loss structure
 
 &emsp;The term "severe repetitive loss structure" has the meaning given the term in section 4104c(h) of this title.
 
-#### (10) State
-
-&emsp;The term "State" means any State of the United States, the District of Columbia, and Puerto Rico.
-
-#### (11) Wildland-urban interface
+#### (9) Wildland-urban interface
 
 &emsp;The term "wildland-urban interface" has the meaning given the term in section 6511 of title 16.
 
@@ -366,7 +342,7 @@ In this section, the following definitions apply:
 
 There are authorized to be appropriated $100,000,000 for each of fiscal years 2022 through 2023 to carry out this section.
 
-(Pub. L. 93–288, title II, §205, as added Pub. L. 116–284, §2, Jan. 1, 2021, 134 Stat. 4869.)
+(Pub. L. 93–288, title II, §205, as added Pub. L. 116–284, §2, Jan. 1, 2021, 134 Stat. 4869; amended Pub. L. 117–328, div. F, title V, §540, Dec. 29, 2022, 136 Stat. 4756.)
 
 #### <b>Editorial Notes</b>
 
@@ -379,4 +355,16 @@ The Endangered Species Act of 1973, referred to in subsec. (e), is Pub. L. 93–
 The National Historic Preservation Act of 1966, referred to in subsec. (e), probably means the National Historic Preservation Act, Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of Title 16, Conservation, was substantially repealed and replaced in division A (§300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, 128 Stat. 3187, 3272. For complete classification of this Act to the Code, see Short Title of 1966 Act note set out under section 100101 of Title 54, and Tables. For disposition of former sections of Title 16, see Disposition Table preceding section 100101 of Title 54.
 
 This chapter, referred to in subsec. (f)(2), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (d)(2)(C). Pub. L. 117–328, §540(1)(A), struck out subpar. (C) which read as follows: "capitalization grants to insular areas under paragraph (4)."
+
+Subsec. (d)(3)(D). Pub. L. 117–328, §540(1)(B), substituted "local governments and Tribal governments" for "local governments, insular areas, and Indian tribal governments".
+
+Subsec. (d)(4). Pub. L. 117–328, §540(1)(C), struck out par. (4), which related to insular areas.
+
+Subsec. (m)(3). Pub. L. 117–328, §540(2)(A), added par. (3) and struck out former par. (3), which defined "eligible entity".
+
+Subsec. (m)(5) to (11). Pub. L. 117–328, §540(2)(B)–(D), redesignated pars. (6) to (9) as pars. (5) to (8), respectively, and par. (11) as (9), and struck out pars. (5) and (10), which defined "insular area" and "State", respectively.
 

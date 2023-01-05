@@ -18,7 +18,7 @@ To carry out his responsibilities under this section the Secretary may—
 
 &emsp;(5) facilitate the interchange between the United States and participating foreign countries, and among participating foreign countries, of research scientists and experts who are engaged in experiments and programs of research or research training, and in carrying out such purpose may pay per diem compensation, subsistence, and travel for such scientists and experts when away from their places of residence at rates not to exceed those provided in section 5703 of title 5 for persons in the Government service intermittently employed; and
 
-&emsp;(6) procure, in accordance with the provisions of section 3109 of title 5, the temporaryor intermittent services of experts or consultants; individuals so employed shall receive compensation at a rate to be fixed by the Secretary, but not in excess of $50 per diem, including travel time, and while away from their homes or regular places of business may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
+&emsp;(6) procure, in accordance with the provisions of section 3109 of title 5, the temporary or intermittent services of experts or consultants; individuals so employed shall receive compensation at a rate to be fixed by the Secretary, but not in excess of $50 per diem, including travel time, and while away from their homes or regular places of business may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
 #### (c) Definitions
 
@@ -34,7 +34,7 @@ For the purposes of this section—
 
 #### References in Text
 
-The Vocational Rehabilitation Act, referred to in subsec. (a), is act June 2, 1920, ch. 219, 41 Stat. 735, as amended, which was classified generally to chapter 4 (§31 et seq.) of Title 29, Labor, and was repealed by §500(a) of the Rehabilitation Act of 1973, Pub. L. 93–112, title V, Sept. 26, 1973, 87 Stat. 355. The Rehabilitation Act of 1973 is classified generally to chapter 16 (§701 et seq.) of Title 29. Section 500(a), classified to section 790 of Title 29, in part provided that references to the Vocational Rehabilitation Act in any other provision of law be deemed reference to the Rehabilitation Act of 1973.
+The Vocational Rehabilitation Act, referred to in subsec. (a), is act June 2, 1920, ch. 219, 41 Stat. 735, which was classified generally to chapter 4 (§31 et seq.) of Title 29, Labor, and was repealed by §500(a) of the Rehabilitation Act of 1973, Pub. L. 93–112, title V, Sept. 26, 1973, 87 Stat. 355. The Rehabilitation Act of 1973 is classified generally to chapter 16 (§701 et seq.) of Title 29. Section 500(a), classified to section 790 of Title 29, in part provided that references to the Vocational Rehabilitation Act in any other provision of law be deemed reference to the Rehabilitation Act of 1973.
 
 #### Codification
 

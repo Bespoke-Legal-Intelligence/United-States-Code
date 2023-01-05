@@ -46,7 +46,7 @@ As used in this chapter, the term—
 
 &emsp;(17) "United States Section" means the United States Commissioners of the Commission.
 
-(Pub. L. 102–567, title VIII, §803, Oct. 29, 1992, 106 Stat. 4309; Pub. L. 102–587, title VIII, §8003, Nov.4, 1992, 106 Stat. 5098; Pub. L. 104–43, title IV, §404(b), Nov. 3, 1995, 109 Stat. 391; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
+(Pub. L. 102–567, title VIII, §803, Oct. 29, 1992, 106 Stat. 4309; Pub. L. 102–587, title VIII, §8003, Nov. 4, 1992, 106 Stat. 5098; Pub. L. 104–43, title IV, §404(b), Nov. 3, 1995, 109 Stat. 391; Pub. L. 106–562, title III, §304(a), Dec. 23, 2000, 114 Stat. 2806.)
 
 #### <b>Editorial Notes</b>
 

@@ -1,6 +1,6 @@
 ### §1332. National encampments of Veterans' organizations; proceedings printed annually for Congress
 
-The proceedings of the national encampments of the Veterans of Foreign Wars of the United States, the American Legion, the Military Order of the Purple Heart, the Veterans of World War I of the United States of America, Incorporated, the Disabled American Veterans, and the AMVETS (American Veterans of World War II), respectively, shall be printed annually, with accompanying illustrations, as separate House documents of the session of the Congress to which they may be submitted.
+The proceedings of the national encampments of the Veterans of Foreign Wars of the United States, the American Legion, the Military Order of the Purple Heart, the Veterans of World War I of the United States of America, Incorporated, the Disabled American Veterans, and the AMVETS (American Veterans of World War II), respectively, shall be printed annually, with accompanying illustrations, as separate Housedocuments of the session of the Congress to which they may be submitted.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1270; Pub. L. 105–225, §3, Aug. 12, 1998, 112 Stat. 1498.)
 

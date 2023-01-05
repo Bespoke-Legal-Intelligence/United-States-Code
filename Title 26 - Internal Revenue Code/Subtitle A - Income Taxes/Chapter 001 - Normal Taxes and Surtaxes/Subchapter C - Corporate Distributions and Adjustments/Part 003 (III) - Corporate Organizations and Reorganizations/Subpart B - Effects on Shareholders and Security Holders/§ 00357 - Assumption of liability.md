@@ -24,7 +24,7 @@ Except as provided in subsections (b) and (c), if—
 
 #### (2) Burden of proof
 
-&emsp;In any suit or proceeding where the burden is on the taxpayer to prove such assumption is not to be treated as money received by the taxpayer, such burden shall not be considered as sustained unless the taxpayer sustains such burden by the clear preponderance of the evidence.
+&emsp;In any suit or proceeding where the burden is on the taxpayer to prove such assumption is not to be treated as money received by thetaxpayer, such burden shall not be considered as sustained unless the taxpayer sustains such burden by the clear preponderance of the evidence.
 
 #### (c) Liabilities in excess of basis
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title III, §365(c), Nov. 6, 1978, 92 Stat. 2855, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section358 of this title\] shall apply to transfers occurring on or after the date of the enactment of this Act \[Nov. 6, 1978\]."
+Pub. L. 95–600, title III, §365(c), Nov. 6, 1978, 92 Stat. 2855, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 358 of this title\] shall apply to transfers occurring on or after the date of the enactment of this Act \[Nov. 6, 1978\]."
 
 #### Savings Provision
 

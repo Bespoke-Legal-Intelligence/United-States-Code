@@ -12,41 +12,53 @@
 
 > Full-time training, or other full-time duty for a period of more than 29 days, performed under section 316, 502, 503, 504, or 505 of title 32 by a member of the Army National Guard of the United States or the Air National Guard of the United States in his status as a member of the National Guard, and for which he is entitled to pay, is active service for the purposes of this section.
 
-(b) Except as provided in subsections (d), (f), and (g), a member may not accumulate more than 60 days' leave. However, leave taken during a fiscal year may be charged to leave accumulated during that fiscal year without regard to this limitation.
+(b) Except as provided in subsections (e) and (f), a member may not accumulate more than 60 days' leave. However, leave taken during a fiscal year may be charged to leave accumulated during that fiscal year without regard to this limitation.
 
 (c) A member who retired after August 9, 1946, who is continued on, or is recalled to active duty, may have his leave which accumulated during his service before retirement carried over to his period of service after retirement.
 
-(d) Notwithstanding subsection (b), during the period beginning on October 1, 2008, through September 30, 2015, a member may accumulate up to 75 days of leave.
+(d) Leave taken before discharge is considered to be active service.
 
-(e) Leave taken before discharge is considered to be active service.
+(e)(1) The Secretary concerned, under uniform regulations to be prescribed by the Secretary of Defense, may authorize a member described in paragraph (2) to retain not more than 30 days of excess leave.
 
-(f)(1)(A) The Secretary concerned, under uniform regulations to be prescribed by the Secretary of Defense, may authorize a member described in subparagraph (B) who, except for this paragraph, would lose at the end of the fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d), to retain an accumulated total of 120 days leave.
+(2) A member described in this paragraph is a member who—
 
-(B) This subsection applies to a member who—
+&emsp;(A)(i) serves on active duty for a continuous period of at least 120 days for which the member is entitled to special pay under section 310(a) of title 37; or
 
-&emsp;(i) serves on active duty for a continuous period of at least 120 days in an area in which the member is entitled to special pay under section 310(a) of title 37;
+&emsp;(ii) is assigned to a deployable ship or mobile unit or to other duty designated for the purposes of this section;
 
-&emsp;(ii) is assigned to a deployable ship or mobile unit or to other duty designated for the purpose of this section; or
+&emsp;(B) except for this subsection, would lose any excess leave at the end of the fiscal year; and
 
-&emsp;(iii) on or after August 29, 2005, performs duty designated by the Secretary of Defense as qualifying duty for purposes of this subsection.
+&emsp;(C) receives, from the first officer in a grade above O-6 in the chain of command of such member, written authorization to retain such excess leave.
 
-(C) Except as provided in paragraph (2), leave in excess of the days of leave authorized to be accumulated under subsection (b) or (d) that are accumulated under this paragraph is lost unless it is used by the member before the end of the third fiscal year (or fourth fiscal year, if accumulated while subsection (d) is in effect) after the fiscal year in which the continuous period of service referred to in subparagraph (B) terminated.
+(3) Excess leave retained by a member under this subsection shall be forfeited unless used before the end of the second fiscal year after the end of the fiscal year in which the service or assignment described in paragraph (2)(A) terminated.
 
-(2) Under the uniform regulations referred to in paragraph (1), a member of an armed force who serves on active duty in a duty assignment in support of a contingency operation during a fiscal year and who, except for this paragraph, would lose at the end of that fiscal year any accumulated leave in excess of the number of days of leave authorized to be accumulated under subsection (b) or (d), shall be permitted to retain such leave until the end of the second fiscal year after the fiscal year in which such service on active duty is terminated.
+(4) In this subsection, the term "excess leave" means leave accrued by a member in excess of the number of days of leave authorized to be accumulated under subsection (b).
 
-(g) A member who is in a missing status, as defined in section 551(2) of title 37, accumulates leave without regard to the limitations in subsections (b), (d), and (f). Notwithstanding the death of a member while in a missing status, he continues to earn leave through the date—
+(f) A member who is in a missing status, as defined in section 551(2) of title 37, accumulates leave without regard to the limitations in subsections (b) and (e). Notwithstanding the death of a member while in a missing status, he continues to earn leave through the date—
 
 &emsp;(1) the Secretary concerned receives evidence that the member is dead; or
 
 &emsp;(2) that his death is prescribed or determined under section 555 of title 37.
 
-> Leave accumulated while in missing status shall be accounted for separately. It may not be taken, but shall be paid for under section 501(h)of title 37. However, a member whose death is prescribed or determined under section 555 or 556 of title 37 may, in addition to leave accrued before entering a missing status, accrue not more than 150 days' leave during the period he is in a missing status, unless his actual death occurs on a date when, had he lived, he would have accrued leave in excess of 150 days, in which event settlement will be made for the number of days accrued to the actual date of death. Leave so accrued in a missing status shall be accounted for separately and paid for under the provisions of section 501 of title 37.
+> Leave accumulated while in missing status shall be accounted for separately. It may not be taken, but shall be paid for under section 501(h) of title 37. However, a member whose death is prescribed or determined under section 555 or 556 of title 37 may, in addition to leave accrued before entering a missing status, accrue not more than 150 days' leave during the period he is in a missing status, unless his actual death occurs on a date when, had he lived, he would have accrued leave in excess of 150 days, in which event settlement will be made for the number of days accrued to the actual date of death. Leave so accrued in a missing status shall be accounted for separately and paid for under the provisions of section 501 of title 37.
 
-(h) A member who has taken leave in excess of that authorized by this section and who is being discharged or released from active duty for the purpose of accepting an appointment or a warrant in an armed force, or of entering into an enlistment or an extension of an enlistment in an armed force, may elect to have excess leave of up to 30 days or the maximum number of days of leave that could be earned in the new term of service, whichever is less, carried over to that new term of service to count against leave that will accrue on the new term of service. A member shall be required, at the time of his discharge or release from active duty, to pay for excess leave not carried over under this subsection.
+(g) A member who has taken leave in excess of that authorized by this section and who is being discharged or released from active duty for the purpose of accepting an appointment or a warrant in an armed force, or of entering into an enlistment or an extension of an enlistment in an armed force, may elect to have excess leave of up to 30 days or the maximum number of days ofleave that could be earned in the new term of service, whichever is less, carried over to that new term of service to count against leave that will accrue on the new term of service. A member shall be required, at the time of his discharge or release from active duty, to pay for excess leave not carried over under this subsection.
 
-(i)(1)(A) Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in paragraph (2) who is the primary caregiver in the case of the birth of a child is allowed up to twelve weeks of total leave, including up to six weeks of medical convalescent leave, to be used in connection with such birth.
+(h)(1)(A) Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in paragraph (2) is allowed up to a total of 12 weeks of parental leave during the one-year period beginning after the following events:
 
-(B) Under the regulations prescribed for purposes of this subsection, a member of the armed forces described in paragraph (2) who is the primary caregiver in the case of the adoption of a child is allowed up to six weeks of total leave to be used in connection with such adoption.
+&emsp;(i) The birth or adoption of a child of the member and in order to care for such child.
+
+&emsp;(ii) The placement of a minor child with the member for adoption or long-term foster care.
+
+(B)(i) The Secretary concerned, under uniform regulations to be prescribed by the Secretary of Defense, may authorize leave described under subparagraph (A) to be taken after the one-year period described in such paragraph in the case of a member described in paragraph (2) who, except for this subparagraph, would lose unused parental leave at the end of the one-year period described in subparagraph (A) as a result of—
+
+&emsp;(I) operational requirements;
+
+&emsp;(II) professional military education obligations; or
+
+&emsp;(III) other circumstances that the Secretary determines reasonable and appropriate.
+
+(ii) The regulations prescribed under clause (i) shall require that any leave authorized to be taken after the one-year period described in subparagraph (A) shall be taken within a reasonable period of time, as determined by the Secretary of Defense, after cessation of the circumstances warranting the extended deadline.
 
 (2) Paragraph (1) applies to the following members:
 
@@ -56,123 +68,91 @@
 
 &emsp;(C) A member of a reserve component subject to an active duty recall or mobilization order in excess of 12 months.
 
-(3) The Secretary shall prescribe in the regulations referred to in paragraph (1) a definition of the term "primary caregiver" for purposes of this subsection.
+(3)(A) A member who has given birth may receive medical convalescent leave in conjunction with such birth. Medical convalescent leave in excess of the leave under paragraph (1) may be authorized if such additional medical convalescent leave—
 
-(4) Notwithstanding paragraph (1)(A), a member may receive more than six weeks of medical convalescent leave in connection with the birth of a child, but only if the additional medical convalescent leave—
+&emsp;(i) is specifically recommended, in writing, by the medical provider of the member to address a diagnosed medical condition; and
 
-&emsp;(A) is specifically recommended, in writing, by the medical provider of the member to address a diagnosed medical condition; and
+&emsp;(ii) is approved by the commander of the member.
 
-&emsp;(B) is approved by the commander of the member.
+(B) Convalescent leave may be authorized under subparagraph (A) only for a medical condition of a member and may not be authorized for a member in connection with a condition of a dependent or other family member of the member.
 
-(5) Any leave taken by a member under this subsection, including leave under paragraphs (1) and (4), may be taken in more than one increment in connection with such birth or adoption in accordance with regulations prescribed by the Secretary concerned.
+(4) Any leave taken by a member under this subsection, including leave under paragraphs (1) and (3), may be taken in more than one increment in connection with such birth or adoption in accordance with regulations prescribed by the Secretary concerned.
 
-(6)(A) Any leave authorized by this subsection that is not taken within one year of such birth or adoption shall be forfeited.
+(5)(A) Any leave authorized by this subsection that is not taken within one year of such birth or adoption shall be forfeited, subject to the exceptions in paragraph (1)(B)(ii).
 
 (B) Any leave authorized by this subsection for a member of a reserve component on active duty that is not taken by the time the member is separated from active duty shall be forfeited at that time.
 
-(7) The period of active duty of a member of a reserve component may not be extended in order to permit the member to take leave authorized by this subsection.
+(6) The period of active duty of a member of a reserve component may not be extended in order to permit the member to take leave authorized by this subsection.
 
-(8) Under the regulations prescribed for purposes of this subsection, a member taking leave under paragraph (1) may, as a condition for taking such leave, be required—
+(7)(A) Leave authorized by this subsection is in addition to any other leave provided under other provisions of this section.
 
-&emsp;(A) to accept an extension of the member's current service obligation, if any, by one week for every week of leave taken under paragraph (1); or
+(B) Medical convalescent leave under paragraph (3) is in addition to any other leave provided under other provisions of this subsection.
 
-&emsp;(B) to incur a reduction in the member's leave account by one week for every week of leave taken under paragraph (1).
+(i) A member of a reserve component who accumulates leave during a period of active service may carry over any leave so accumulated to the member's next period of active service, subject to the accumulation limits in subsections (b) and (e), without regard to separation or release from active service if the separation or release is under honorable conditions. The taking of leave carried over under this subsection shall be subject to the provisions of this section.
 
-(9)(A) Leave authorized by this subsection is in addition to any other leave provided under other provisions of this section.
-
-(B) Medical convalescent leave under paragraph (4) is in addition to any other leave provided under other provisions of this subsection.
-
-(10)(A) Subject to subparagraph (B), a member taking leave under paragraph (1) during a period of obligated service shall not be eligible for terminal leave, or to sell back leave, at the end such period of obligated service.
-
-(B) Under the regulations for purposes of this subsection, the Secretary concerned may waive, whether in whole or in part, the applicability of subparagraph (A) to a member who reenlists at the end of the member's period of obligated service described in that subparagraph if the Secretary determines that the waiver is in the interests of the armed force concerned.
-
-(j)(1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in subsection (i)(2) who is the secondary caregiver in the case of the birth of a child or the adoption of a child is allowed up to 21 days of leave to be used in connection with such birth or adoption.
-
-(2) The Secretary shall prescribe in the regulations referred to in paragraph (1) a definition of the term "secondary caregiver" for purposes of this subsection.
-
-(3) Any leave taken by a member under this subsection may be taken only in one increment in connection with such birth or adoption.
-
-(4) Under the regulations prescribed for purposes of this subsection, paragraphs (6) through (10) of subsection (i) (other than paragraph (9)(B) of such subsection) shall apply to leave, and the taking of leave, authorized by this subsection.
-
-(k) A member of a reserve component who accumulates leave during a period of active service may carry over any leave so accumulated to the member's next period of active service, subject to the accumulation limits in subsections (b), (d), and (f), without regard to separation or release from active service if the separation or release is under honorable conditions. The taking of leave carried over under this subsection shall be subject to the provisions of this section.
-
-(l) A member of the armed forces who gives birth while on active duty may be deployed during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—
+(j) A member of the armed forces who gives birth while on active duty may be deployed during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—
 
 &emsp;(1) at the election of such member; or
 
 &emsp;(2) in the interest of national security, as determined by the Secretary of Defense.
 
-(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L. 110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 111–84, div. A, title V, §504, Oct. 28, 2009, 123 Stat. 2277; Pub. L. 111–383, div. A, title V, §516(a), Jan. 7, 2011, 124 Stat. 4213; Pub. L. 112–239, div. A, title V, §521, Jan. 2, 2013, 126 Stat. 1722; Pub. L. 114–328, div. A, title V, §521(a), Dec. 23, 2016, 130 Stat. 2113; Pub. L. 116–92, div. A, title V, §§571, 572, Dec. 20, 2019, 133 Stat. 1403; Pub. L. 117–81, div. A, title VI, §§621(a), 622(a), Dec. 27, 2021, 135 Stat. 1770, 1771.)
+(k) A member of the armed forces who gives birth while on active duty may be required to meet body composition standards or pass a physical fitness test during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—
 
-#### Amendment of Section
+&emsp;(1) at the election of such member; or
 
-<i>Pub. L. 117–81, div. A, title VI, §621(a), (b), Dec. 27, 2021, 135 Stat. 1770, 1771, provided that, effective one year after Dec. 27, 2021, this section is amended as follows:</i>
+&emsp;(2) in the interest of national security, as determined by the Secretary of Defense.
 
-<i>(1) in subsection (i)—</i>
+(l)(1)(A) Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in subparagraph (B) is allowed up to two weeks of leave to be used in connection with the death of an immediate family member.
 
-<i>(A) in paragraph (1)—</i>
+(B) Subparagraph (A) applies to the following members:
 
-<i>(i) in subparagraph (A), by striking "a member" and all that follows through the period at the end and inserting the following: "a member of the armed forces described in paragraph (2) is allowed up to a total of 12 weeks of parental leave during the one-year period beginning after the following events:</i>
+&emsp;(A) <sup>1</sup> A member on active duty.
 
-&emsp;<i>"(i) The birth or adoption of a child of the member and in order to care for such child.</i>
+&emsp;(B) <sup>1</sup> A member of a reserve component performing active Guard and Reserve duty.
 
-&emsp;<i>"(ii) The placement of a minor child with the member for adoption or long-term foster care."; and</i>
+&emsp;(C) <sup>1</sup> A member of a reserve component subject to an active duty recall or mobilization order in excess of 12 months.
 
-<i>(ii) by striking subparagraph (B) and inserting the following:</i>
+(2) Under the regulations prescribed for purposes of this subsection, a member taking leave under paragraph (1) shall not have his or her leave account reduced as a result of taking such leave if such member's accrued leave is fewerthan 30 days. Members with 30 or more days of accrued leave shall be charged for bereavement leave until such point that the member's accrued leave is less than 30 days. Any remaining bereavement leave taken by such member in accordance with paragraph (1) after such point shall not be chargeable to the member.
 
-<i>"(B)(i) The Secretary concerned, under uniform regulations to be prescribed by the Secretary of Defense, may authorize leave described under subparagraph (A) to be taken after the one-year period described in such paragraph in the case of a member described in paragraph (2) who, except for this subparagraph, would lose unused parental leave at the end of the one-year period described in subparagraph (A) as a result of—</i>
+(3) In this section, the term "immediate family member", with respect to a member of the armed forces, means—
 
-&emsp;<i>"(I) operational requirements;</i>
+&emsp;(A) the member's spouse; or
 
-&emsp;<i>"(II) professional military education obligations; or</i>
+&emsp;(B) a child of the member.
 
-&emsp;<i>"(III) other circumstances that the Secretary determines reasonable and appropriate.</i>
+(m)(1) Except as provided by subsection (h)(3), and under regulations prescribed by the Secretary of Defense, a member of the armed forces diagnosed with a medical condition is allowed convalescent leave if—
 
-<i>"(ii) The regulations prescribed under clause (i) shall require that any leave authorized to be taken after the one-year period described in subparagraph (A) shall be taken within a reasonable period of time, as determined by the Secretary of Defense, after cessation of the circumstances warranting the extended deadline."</i>
+&emsp;(A) the medical or behavioral health provider of the member—
 
-<i>(B) by striking paragraphs (3), (8), and (10) and redesignating paragraphs (4), (5), (6), (7), and (9) as paragraphs (3), (4), (5), (6), and (7), respectively;</i>
+&emsp;&emsp;(i) determines that the member is not yet fit for duty as a result of that condition; and
 
-<i>(C) in paragraph (3), as redesignated, by striking the matter preceding the em dash and inserting "A member who has given birth may receive medical convalescent leave in conjunction with such birth. Medical convalescent leave in excess of the leave under paragraph (1) may be authorized if such additional medical convalescent leave";</i>
+&emsp;&emsp;(ii) recommends such leave for the member to provide for the convalescence of the member from that condition; and
 
-<i>(D) in paragraph (4), as redesignated, by striking "paragraphs (1) and (4)" and inserting "paragraphs (1) and (3)";</i>
+&emsp;(B) the commanding officer of the member or the commander of the military medical treatment facility authorizes such leave for the member.
 
-<i>(E) in paragraph (5)(A), as redesignated, by inserting ", subject to the exceptions in paragraph (1)(B)(ii)" after "shall be forfeited"; and</i>
+(2) A member may take not more than 30 days of convalescent leave under paragraph (1) with respect to a condition described in that paragraph unless—
 
-<i>(F) in paragraph (7)(B), as redesignated, by striking "paragraph (4)" and inserting "paragraph (3)";</i>
+&emsp;(A) such leave in excess of 30 days is authorized by—
 
-<i>(2) by striking subsection (j) and redesignating subsections (k) and (l) as subsections (j) and (k), respectively; and</i>
+&emsp;&emsp;(i) the Secretary concerned; or
 
-<i>(3) by adding at the end the following new subsection (l):</i>
+&emsp;&emsp;(ii) an individual at the level designated by the Secretary concerned, but not below the grade of O–5 or the civilian equivalent; or
 
-<i>"(l) A member of the armed forces who gives birth while on active duty may be required to meet body composition standards or pass a physical fitness test during the period of 12 months beginning on the date of such birth only with the approval of a health care provider employed at a military medical treatment facility and—</i>
+&emsp;(B) the member is authorized to receive convalescent leave under subsection (h)(3) in conjunction with the birth of a child.
 
-&emsp;<i>"(1) at the election of such member; or</i>
+(3)(A) Convalescent leave may be authorized under paragraph (1) only for a medical condition of a member and may not be authorized for a member in connection with a condition of a dependent or other family member of the member.
 
-&emsp;<i>"(2) in the interest of national security, as determined by the Secretary of Defense.".</i>
+(B) In authorizing convalescent leave for a member under paragraph (1) with respect to a condition described in that paragraph, the commanding officer of the member or the commander of the military medical treatment facility, as the case may be, shall—
 
-<i>See 2021 Amendment notes below.</i>
+&emsp;(i) limit the duration of such leave to the minimum necessary in relation to the diagnosis, prognosis, and probable final disposition of the condition of the member; and
 
-<i>Pub. L. 117–81, div. A, title VI, §622, Dec. 27, 2021, 135 Stat. 1771, provided that, effective 180 days after Dec. 27, 2021, this section is amended by adding at the end the following new subsection:</i>
+&emsp;(ii) authorize leave tailored to the specific medical needs of the member rather than (except for convalescent leave provided for under subsection (h)(3)) authorizing leave based on a predetermined formula.
 
-<i>(m)(1)(A) Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in subparagraph (B) is allowed up to two weeks of leave to be used in connection with the death of an immediate family member.</i>
+(4) A member taking convalescent leave under paragraph (1) shall not have the member's leave account reduced as a result of taking such leave.
 
-<i>(B) Subparagraph (A) applies to the following members:</i>
+(5) In this subsection, the term "military medical treatment facility" means a facility described in subsection (b), (c), or (d) of section 1073d of this title.
 
-&emsp;<i>(A) A member on active duty.</i>
-
-&emsp;<i>(B) A member of a reserve component performing active Guard and Reserve duty.</i>
-
-&emsp;<i>(C) A member of a reserve component subject to an active duty recall or mobilization order in excess of 12 months.</i>
-
-<i>(2) Under the regulations prescribed for purposes of this subsection, a member taking leave under paragraph (1) shall not have his or her leave account reduced as a result of taking such leave if such member's accrued leave is fewer than 30 days. Members with 30 or more days of accrued leave shall be charged for bereavement leave until such point that the member's accrued leave is less than 30</i><i>days. Any remaining bereavement leave taken by such member in accordance with paragraph (1) after such point shall not be chargeable to the member.</i>
-
-<i>(3) In this section, the term "immediate family member", with respect to a member of the armed forces, means—</i>
-
-&emsp;<i>(A) the member's spouse; or</i>
-
-&emsp;<i>(B) a child of the member.</i>
-
-<i>See 2021 Amendment note below.</i>
+(Added Pub. L. 87–649, §3(1), Sept. 7, 1962, 76 Stat. 492; amended Pub. L. 89–151, §3, Aug. 28, 1965, 79 Stat. 586; Pub. L. 90–245, §1, Jan. 2, 1968, 81 Stat. 782; Pub. L. 92–596, §1, Oct. 27, 1972, 86 Stat. 1317; Pub. L. 96–579, §10, Dec. 23, 1980, 94 Stat. 3368; Pub. L. 97–81, §2(a), Nov. 20, 1981, 95 Stat. 1085; Pub. L. 98–94, title X, §1031(a), Sept. 24, 1983, 97 Stat. 671; Pub. L. 98–525, title XIV, §1405(18), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 99–661, div. A, title V, §506(a), Nov. 14, 1986, 100 Stat. 3864; Pub. L. 102–190, div. A, title VI, §638, Dec. 5, 1991, 105 Stat. 1384; Pub. L. 108–136, div. A, title V, §542(a), Nov. 24, 2003, 117 Stat. 1478; Pub. L. 109–163, div. A, title V, §593(a), title VI, §682, Jan. 6, 2006, 119 Stat. 3280, 3321; Pub. L. 110–181, div. A, title V, §551(a)–(c), Jan. 28, 2008, 122 Stat. 117; Pub. L. 110–417, \[div. A\], title V, §532(a), Oct. 14, 2008, 122 Stat. 4449; Pub. L. 111–84, div. A, title V, §504, Oct. 28, 2009, 123 Stat. 2277; Pub. L. 111–383, div. A, title V, §516(a), Jan. 7, 2011, 124 Stat. 4213; Pub. L. 112–239, div. A, title V, §521, Jan. 2, 2013, 126 Stat. 1722; Pub. L. 114–328, div. A, title V, §521(a), Dec. 23, 2016, 130 Stat. 2113; Pub. L. 116–92, div. A, title V, §§571, 572, Dec. 20, 2019, 133 Stat. 1403; Pub. L. 117–81, div. A, title VI, §§621(a), 622(a), Dec. 27, 2021, 135 Stat. 1770, 1771; Pub. L. 117–263, div. A, title VI, §§631(a), (b), 632(a), 633(a), (b), Dec. 23, 2022, 136 Stat. 2631–2633.)
 
 Historical and Revision Notes
 
@@ -217,6 +197,34 @@ In subsection (e), the words "before or after August 9, 1946" and section 31a(a)
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b). Pub. L. 117–263, §631(b)(1), substituted "subsections (e) and (f)" for "subsections (d), (f), and (g)".
+
+Subsec. (d). Pub. L. 117–263, §631(a), redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows: "Notwithstanding subsection (b), during the period beginning on October 1, 2008, through September 30, 2015, a member may accumulate up to 75 days of leave."
+
+Subsec. (e). Pub. L. 117–263, §632(a), added subsec. (e) and struck out former subsec. (e) which related to authority to allow certain members of the armed forces who would lose accumulated leave in excess of 60 or 75 days, as the case may be, to retain accumulated total of 120 days of leave.
+
+Pub. L. 117–263, §631(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 117–263, §631(b)(2), substituted "subsections (b) and (e)" for "subsections (b), (d), and (f)" in introductory provisions.
+
+Pub. L. 117–263, §631(a)(2), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsec. (g). Pub. L. 117–263, §631(a)(2), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
+
+Subsec. (h). Pub. L. 117–263, §631(a)(2), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
+
+Subsec. (h)(3). Pub. L. 117–263, §633(b), which directed amendment of par. (4) of subsec. (h) by designating existing provisions as subpar. (A), redesignating former subpars. (A) and (B) as cls. (i) and (ii) of subpar. (A), and adding subpar. (B), was executed to par. (3) to reflect the probable intent of Congress and the intervening redesignation of par. (4) as (3) by Pub. L. 117–81, §621(a)(1)(B), effective one year after Dec. 27, 2021. See 2021 Amendment note below.
+
+Subsec. (i). Pub. L. 117–263, §631(b)(3), substituted "subsections (b) and (e)" for "subsections (b), (d), and (f)".
+
+Pub. L. 117–263, §631(a)(2), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+
+Subsecs. (j) to (l). Pub. L. 117–263, §631(a)(2), redesignated subsecs. (k) to (m) as (j) to (l), respectively. Former subsec. (j) redesignated (i).
+
+Subsec. (m). Pub. L. 117–263, §633(a), added subsec. (m).
+
+Pub. L. 117–263, §631(a)(2), redesignated subsec. (m) as (l).
 
 <b>2021</b>—Subsec. (i)(1)(A). Pub. L. 117–81, §621(a)(1)(A)(i), substituted "a member of the armed forces described in paragraph (2) is allowed up to a total of 12 weeks of parental leave during the one-year period beginning after the following events:" and cls. (i) and (ii) for "a member of the armed forces described in paragraph (2) who is the primary caregiver in the case of the birth of a child is allowed up to twelve weeks of total leave, including up to six weeks of medical convalescent leave, to be used in connection with such birth."
 
@@ -324,7 +332,7 @@ Subsec. (a)(3). Pub. L. 97–81, §2(a)(2), substituted "; and" for a period at
 
 Subsec. (a)(4). Pub. L. 97–81, §2(a)(3), added par. (4).
 
-<b>1980</b>—Subsec. (f). Pub. L. 96–579 authorized accumulation of leave for service as a member assigned to a deployable ship, mobile unit, or to other duty designated for the purpose of this section.
+<b>1980</b>—Subsec. (f). Pub. L. 96–579 inserted "or a member assigned to a deployable ship, mobile unit, or to other duty designated for the purpose of this section," after "title 37".
 
 <b>1972</b>—Subsec. (b). Pub. L. 92–596, §1(1), inserted reference to subsec. (g).
 
@@ -337,6 +345,14 @@ Subsec. (f). Pub. L. 90–245, §1(2), added subsec. (f).
 <b>1965</b>—Subsec. (d). Pub. L. 89–151 repealed subsec. (d) which provided that accumulated leave did not survive the death of a member during active service.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Pub. L. 117–263, div. A, title VI, §631(d), Dec. 23, 2022, 136 Stat. 2631, provided that: "The amendments made by this section \[amending this section, section 2508 of Title 14, Coast Guard, and sections 501 and 502 of Title 37, Pay and Allowances of the Uniformed Services\] take effect on January 1, 2023."
+
+Pub. L. 117–263, div. A, title VI, §632(c), Dec. 23, 2022, 136 Stat. 2632, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on January 1, 2023."
+
+Pub. L. 117–263, div. A, title VI, §633(c), Dec. 23, 2022, 136 Stat. 2633, provided that: "The amendments made by this section \[amending this section\] shall take effect on January 1, 2023."
 
 #### Effective Date of 2021 Amendment
 
@@ -366,7 +382,7 @@ Pub. L. 98–94, title X, §1031(b)(1), (2), Sept. 24, 1983, 97 Stat. 671, provi
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–81 to take effect at the end of the 60-day period beginning on Nov. 20, 1981, and to apply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864or 865 of this title by the officer exercising general court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 (Pub. L. 98–209), or under section 860 of this title by the officer empowered to act on the sentence on or after that effective date, see section 7(a) and (b)(1) of Pub. L. 97–81, set out as an Effective Date note under section 706 of this title.
+Amendment by Pub. L. 97–81 to take effect at the end of the 60-day period beginning on Nov. 20, 1981, and toapply to each member whose sentence by court-martial is approved on or after Jan. 20, 1982, under section 864 or 865 of this title by the officer exercising general court-martial jurisdiction under the provisions of such section as it existed on the day before the effective date of the Military Justice Act of 1983 (Pub. L. 98–209), or under section 860 of this title by the officer empowered to act on the sentence on or after that effective date, see section 7(a) and (b)(1) of Pub. L. 97–81, set out as an Effective Date note under section 706 of this title.
 
 #### Effective Date of 1972 Amendment
 
@@ -388,9 +404,17 @@ Section effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a
 
 Pub. L. 117–81, div. A, title VI, §621(c), Dec. 27, 2021, 135 Stat. 1771, provided that: "Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], the Secretary of Defense shall prescribe regulations implementing the amendments made by subsection (a) \[amending this section\]."
 
+#### Transition Rule
+
+Pub. L. 117–263, div. A, title VI, §632(b), Dec. 23, 2022, 136 Stat. 2632, provided that: "Leave in excess of 90 days, accumulated by a member of the Armed Forces under section 701 of such title \[meaning title 10, United States Code\] before the effective date under subsection (c) \[set out as a note above\], is forfeited unless—
+
+&emsp;"(1) used by the member on or before September 30, 2026; or
+
+&emsp;"(2) the retention of such leave is otherwise authorized by law."
+
 #### Annual Reports on Use of Leave
 
-Pub. L. 117–81, div. A, title VI, §621(d), Dec. 27, 2021, 135 Stat. 1771, provided that: "Not later than January 1, 2023, and annually thereafter, each Secretary of a military department shall submit, to the Committees on Armed Services of the Senate and House of Representatives, a report regarding the use, during the preceding fiscal year, of leave under subsections (i) and (j) of section 701 of such title, as amended by subsection (a), disaggregated by births, adoptions, and foster placements, including the number of members of the Armed Forces who—
+Pub. L. 117–81, div. A, title VI, §621(d), Dec. 27, 2021, 135 Stat. 1771, provided that: "Not later than January 1, 2023, and annually thereafter, each Secretary of a military department shall submit, to the Committees on Armed Services of the Senate and House of Representatives, a report regarding the use, during the preceding fiscal year, of leave under subsections (i) and (j) \[now subsecs. (h) and (i)\] of section 701 of such title, as amended by subsection (a), disaggregated by births, adoptions, and foster placements, including the number of members of the Armed Forces who—
 
 &emsp;"(1) used the maximum amount of primary caregiver leave; and
 
@@ -400,9 +424,11 @@ Pub. L. 117–81, div. A, title VI, §621(d), Dec. 27, 2021, 135 Stat. 1771, pro
 
 Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretary of Defense" to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
 
-#### Accumulation of Leave After September 30, 1980, Pursuant to Subsection (f)
+#### Accumulation of Leave After September 30, 1980, Pursuant to Former Subsection (f)
 
-Pub. L. 97–39, title VII, §702, Aug. 14, 1981, 95 Stat. 943, provided that: "The amendment made by section 10 of the Military Pay and Allowances Benefits Act of 1980 (Public Law 96–579; 94 Stat. 3368) \[amending this section\] shall apply with respect to the accumulation of leave by members of the Armed Forces who after September 30, 1979, are assigned (1) to a deployable ship or mobile unit, or (2) to other duty designated after the date of the enactment of this Act \[Aug. 14, 1981\] as duty qualifying for the purpose of section 701(f) of title 10, United States Code, as amended by that amendment."
+Pub. L. 97–39, title VII, §702, Aug. 14, 1981, 95 Stat. 943, provided that: "The amendment made by section 10 of the Military Pay and Allowances Benefits Act of 1980 (Public Law 96–579; 94 Stat. 3368) \[amending this section\] shall apply with respect to the accumulation of leave by members of the Armed Forces who after September 30, 1979, are assigned (1) to a deployable ship or mobile unit, or (2) to other duty designated after the date of the enactment of this Act \[Aug. 14, 1981\] as duty qualifying for the purpose of \[former\] section 701(f) of title 10, United States Code, as amended by that amendment."
 
-For savings provision extending period for which certain accrued leave under subsec. (f) of this section may be retained by members of Armed Forces, see section 1115 of Pub. L. 101–510, set out as a Treatment of Accumulated Leave note under section 501 of Title 37, Pay and Allowances of the Uniformed Services.
+For savings provision extending period for which certain accrued leave under former subsec. (f) of this section may be retained by members of Armed Forces, see section 1115 of Pub. L. 101–510, set out as a Treatment of Accumulated Leave note under section 501 of Title 37, Pay and Allowances of the Uniformed Services.
+
+<i><sup>1</sup></i><i> So in original. Cls. (A), (B), and (C) under subpar. (B) probably should be designated (i), (ii), and (iii).</i>
 

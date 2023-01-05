@@ -6,7 +6,7 @@ Congress recognizes the success of the marine debris program of the National Oce
 
 #### (b) Authorization of efforts to build foreign partnerships
 
-The Under Secretary and the EPA Administrator shall work with the Secretary of Stateand the Administrator of the United States Agency for International Development to build partnerships, as appropriate, with the governments of foreign countries and to support international efforts to combat marine debris.
+The Under Secretary and the EPA Administrator shall work with the Secretary of State and the Administrator of the United States Agency for International Development to build partnerships, as appropriate, with the governments of foreign countries and to support international efforts to combat marine debris.
 
 (Pub. L. 116–224, title II, §204, Dec. 18, 2020, 134 Stat. 1091.)
 

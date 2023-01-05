@@ -10,7 +10,7 @@ This section may be waived or suspended in the Senate only by the affirmative vo
 
 #### (c) Appeals
 
-An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shallbe required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under this section.
+An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required in the Senate to sustain an appeal of the ruling of the Chair on a point of order raised under this section.
 
 (Pub. L. 111–139, title I, §13, Feb. 12, 2010, 124 Stat. 29.)
 

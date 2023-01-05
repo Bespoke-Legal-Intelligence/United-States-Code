@@ -70,7 +70,7 @@
 
 #### (3) Limitation on eligibility of qualified medicare beneficiaries and other medicaid beneficiaries to enroll in an MSA plan
 
-&emsp;An individual who is a qualified medicare beneficiary (as defined in section 1396d(p)(1) of this title), a qualified disabled and working individual (described in section 1396d(s) of this title), an individual described in section 1396a(a)(10)(E)(iii) of this title, or otherwise entitled to medicare cost-sharing under a State plan under subchapter XIX is not eligible to enroll in an MSA plan.
+&emsp;An individual who is a qualified medicare beneficiary (as defined in section 1396d(p)(1) ofthis title), a qualified disabled and working individual (described in section 1396d(s) of this title), an individual described in section 1396a(a)(10)(E)(iii) of this title, or otherwise entitled to medicare cost-sharing under a State plan under subchapter XIX is not eligible to enroll in an MSA plan.
 
 #### (4) Coverage under MSA plans
 
@@ -100,7 +100,7 @@
 
 #### (B) Disenrollment
 
-&emsp;&emsp;Such process shall permit an individual, who has elected a Medicare+Choice plan offered by a Medicare+Choice organization and who wishes to terminate such election, toterminate such election through the filing of an appropriate election form with the organization.
+&emsp;&emsp;Such process shall permit an individual, who has elected a Medicare+Choice plan offered by a Medicare+Choice organization and who wishes to terminate such election, to terminate such election through the filing of an appropriate election form with the organization.
 
 #### (3) Default
 
@@ -212,7 +212,7 @@
 
 &emsp;&emsp;&emsp;The Secretary shall require a Medicare Advantage organization that is offering a Medicare Advantage plan that has been converted from a reasonable cost reimbursement contract pursuant to section 1395mm(h)(5)(C)(iv) of this title to mail, not later than 30 days prior to the first day of the annual, coordinated election period under subsection (e)(3) of a year, to any individual enrolled under such contract and identified by the Secretary under subsection (c)(4)(D) for such year—
 
-&emsp;&emsp;&emsp;&emsp;(I) a notification that such individual will, on such day, be deemed to have made an election with respect to such plan to receive benefits under this subchapter through an MA plan or MA–PD plan (and shall be enrolled in such plan) for the next plan year under subsection (c)(4)(A), but that the individual may make a different election during the annual, coordinated election period for such year;
+&emsp;&emsp;&emsp;&emsp;(I) a notification that such individual will, on such day, be deemed to have made an election with respect to suchplan to receive benefits under this subchapter through an MA plan or MA–PD plan (and shall be enrolled in such plan) for the next plan year under subsection (c)(4)(A), but that the individual may make a different election during the annual, coordinated election period for such year;
 
 &emsp;&emsp;&emsp;&emsp;(II) the information described in subparagraph (A);
 
@@ -250,7 +250,7 @@
 
 #### (C) Rights
 
-&emsp;&emsp;A general description of procedural rights (including grievance and appeals procedures)of beneficiaries under the original medicare fee-for-service program and the Medicare+Choice program and the right to be protected against discrimination based on health status-related factors under section 1395w–22(b) of this title.
+&emsp;&emsp;A general description of procedural rights (including grievance and appeals procedures) of beneficiaries under the original medicare fee-for-service program and the Medicare+Choice program and the right to be protected against discrimination based on health status-related factors under section 1395w–22(b) of this title.
 
 #### (D) Information on medigap and medicare select
 
@@ -304,7 +304,7 @@
 
 #### (D) Quality and performance
 
-&emsp;&emsp;To the extent available, plan quality and performance indicators for the benefits under the plan (and how they compare to such indicators under the original medicare fee-for-service program under parts A and B in the area involved), including—
+&emsp;&emsp;To the extent available, plan quality and performance indicators for the benefitsunder the plan (and how they compare to such indicators under the original medicare fee-for-service program under parts A and B in the area involved), including—
 
 &emsp;&emsp;&emsp;(i) disenrollment rates for medicare enrollees electing to receive benefits through the plan for the previous 2 years (excluding disenrollment due to death or moving outside the plan's service area),
 
@@ -468,7 +468,7 @@
 
 &emsp;&emsp;(C) the individual demonstrates (in accordance with guidelines established by the Secretary) that—
 
-&emsp;&emsp;&emsp;(i) the organization offering the plan substantially violated a material provision of the organization's contract under this part in relation to the individual (including the failure to provide an enrollee on a timely basis medically necessary care forwhich benefits are available under the plan or the failure to provide such covered care in accordance with applicable quality standards); or
+&emsp;&emsp;&emsp;(i) the organization offering the plan substantially violated a material provision of the organization's contract under this part in relation to the individual (including the failure to provide an enrollee on a timely basis medically necessary care for which benefits are available under the plan or the failure to provide such covered care in accordance with applicable quality standards); or
 
 &emsp;&emsp;&emsp;(ii) the organization (or an agent or other entity acting on the organization's behalf) materially misrepresented the plan's provisions in marketing the plan to the individual; or
 
@@ -652,7 +652,7 @@
 
 &emsp;&emsp;Sales and marketing activities for the enrollment of individuals in Medicare Advantage plans that are conducted—
 
-&emsp;&emsp;&emsp;(i) in health care settings in areas where health care is delivered to individuals (such as physician offices and pharmacies), except in the case where such activities are conducted in common areas in health care settings; and
+&emsp;&emsp;&emsp;(i) in health care settings in areas where health care is delivered to individuals (such as physician offices and pharmacies),except in the case where such activities are conducted in common areas in health care settings; and
 
 &emsp;&emsp;&emsp;(ii) at educational events.
 
@@ -680,7 +680,7 @@
 
 &emsp;&emsp;The use by a Medicare Advantage organization of any individual as an agent, broker, or other third party representing the organization that has not completed an initial training and testing program and does not complete an annual retraining and testing program.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI,§§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(l)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §2, July 18, 2007, 121 Stat. 244; Pub. L. 110–275, title I, §103(a)(1), (b)(1), (c)(1), (d)(1), July 15, 2008, 122 Stat. 2498–2501; Pub. L. 111–5, div. B, title IV, §4102(d)(2), Feb. 17, 2009, 123 Stat. 486; Pub. L. 111–148, title III, §§3201(e)(2)(A)(i), 3204(a)(1), (b), Mar. 23, 2010, 124 Stat. 446, 456; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040; Pub. L. 114–10, title II, §209(b)(1)–(2)(B)(i), (3), (c), Apr. 16, 2015, 129 Stat. 147–150; Pub. L. 114–255, div. C, title XVII, §§17005, 17006(a)(1), (c)(2), Dec. 13, 2016, 130 Stat. 1333–1335.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696; Pub. L. 108–173, title I, §102(a), (c)(1), title II, §§221(a)(1), (d)(5), 222(l)(3)(A), (B), (D), (E), 231(a), 233(b), (d), 237(b)(2)(A), Dec. 8, 2003, 117 Stat. 2152, 2154, 2180, 2193, 2206, 2207, 2209, 2212; Pub. L. 109–432, div. B, title II, §206(a), Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §2, July 18, 2007, 121 Stat. 244; Pub. L. 110–275, title I, §103(a)(1), (b)(1), (c)(1), (d)(1), July 15, 2008, 122 Stat. 2498–2501; Pub. L. 111–5, div. B, title IV, §4102(d)(2), Feb. 17, 2009, 123 Stat. 486; Pub. L. 111–148, title III, §§3201(e)(2)(A)(i), 3204(a)(1), (b), Mar. 23, 2010, 124 Stat. 446, 456; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040; Pub. L. 114–10, title II, §209(b)(1)–(2)(B)(i), (3), (c), Apr. 16, 2015, 129 Stat. 147–150; Pub. L. 114–255, div. C, title XVII, §§17005, 17006(a)(1), (c)(2), Dec. 13, 2016, 130 Stat. 1333–1335.)
 
 #### <b>Editorial Notes</b>
 
@@ -770,7 +770,7 @@ Subsec. (d)(3)(F). Pub. L. 108–173, §222(l)(3)(B)(i), added subpar. (F).
 
 Subsec. (d)(4)(A)(ii). Pub. L. 108–173, §222(l)(3)(B)(ii), inserted ", including information on the single deductible (if applicable) under section 1395w–27a(b)(1) of this title" after "cost sharing".
 
-Subsec. (d)(4)(B)(i). Pub. L. 108–173, §222(l)(3)(B)(iii), substituted "monthly amount of the premium chargedto an individual" for "Medicare+Choice monthly basic beneficiary premium and Medicare+Choice monthly supplemental beneficiary premium, if any, for the plan or, in the case of an MSA plan, the Medicare+Choice monthly MSA premium".
+Subsec. (d)(4)(B)(i). Pub. L. 108–173, §222(l)(3)(B)(iii), substituted "monthly amount of the premium charged to an individual" for "Medicare+Choice monthly basic beneficiary premium and Medicare+Choice monthly supplemental beneficiary premium, if any, for the plan or, in the case of an MSA plan, the Medicare+Choice monthly MSA premium".
 
 Subsec. (d)(4)(E). Pub. L. 108–173, §222(l)(3)(B)(iv), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Whether the organization offering the plan includes mandatory supplemental benefits in its base benefit package or offers optional supplemental benefits and the terms and conditions (including premiums) for such coverage."
 
@@ -988,7 +988,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §551\], Nov. 29, 1999, 113 S
 
 #### Report on Medicare MSA (Medical Savings Account) Plans
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §552(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–393, directed theMedicare Payment Assessment Commission to submit to Congress, no later than 1 year after Nov. 29, 1999, a report on specific legislative changes that should be made to make MSA plans a viable option under the Medicare+Choice program.
+Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §552(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–393, directed the Medicare Payment Assessment Commission to submit to Congress, no later than 1 year after Nov. 29, 1999, a report on specific legislative changes that should be made to make MSA plans a viable option under the Medicare+Choice program.
 
 #### GAO Audit and Reports on Provision of Medicare+Choice Health Information to Beneficiaries
 

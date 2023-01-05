@@ -108,7 +108,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 #### (D) Purchaser treated as acquiring security interest
 
-&emsp;&emsp;A person who satisfies subparagraph (A) by reason of clause (ii) thereof shall be treated as having acquired a security interest in commercial financing security
+&emsp;&emsp;A person who satisfies subparagraph (A) by reason of clause (ii) thereof shall be treatedas having acquired a security interest in commercial financing security
 
 #### (3) Real property construction or improvement financing agreement
 
@@ -172,7 +172,7 @@ If the lien imposed by section 6321 is not valid as against a lien or security i
 
 &emsp;(2) the reasonable charges and expenses of an indenture trustee or agent holding the security interest for the benefit of the holder of the security interest,
 
-&emsp;(3) the reasonable expenses, including reasonable compensation for attorneys, actuallyincurred in collecting or enforcing the obligation secured,
+&emsp;(3) the reasonable expenses, including reasonable compensation for attorneys, actually incurred in collecting or enforcing the obligation secured,
 
 &emsp;(4) the reasonable costs of insuring, preserving, or repairing the property to which the lien or security interest relates,
 
@@ -276,7 +276,7 @@ For purposes of this section and section 6324—
 
 #### (1) Security interest
 
-&emsp;The term "security interest" means any interest in property acquired by contract for the purpose of securing payment or performance of an obligation or indemnifying against loss or liability. A security interest exists at any time (A) if, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien arising out of an unsecured obligation, and (B) to the extent that, at such time, the holder has parted with money or money's worth.
+&emsp;The term "security interest" means any interest in property acquired by contract for the purpose of securing payment or performance of an obligation or indemnifying against lossor liability. A security interest exists at any time (A) if, at such time, the property is in existence and the interest has become protected under local law against a subsequent judgment lien arising out of an unsecured obligation, and (B) to the extent that, at such time, the holder has parted with money or money's worth.
 
 #### (2) Mechanic's lienor
 
@@ -324,7 +324,7 @@ For purposes of this section and section 6324—
 
 #### (4) Cost-of-living adjustment
 
-&emsp;In the case of notices of liens imposed by section 6321 which are filed in any calendar year after 1998, each of the dollar amountsunder paragraph (4) or (7) of subsection (b) shall be increased by an amount equal to—
+&emsp;In the case of notices of liens imposed by section 6321 which are filed in any calendar year after 1998, each of the dollar amounts under paragraph (4) or (7) of subsection (b) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -344,7 +344,7 @@ For purposes of this section and section 6324—
 
 &emsp;&emsp;(C) the withdrawal of such notice will facilitate the collection of the tax liability, or
 
-&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the withdrawal of such notice would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States.
+&emsp;&emsp;(D) with the consent of the taxpayer or the National Taxpayer Advocate, the withdrawalof such notice would be in the best interests of the taxpayer (as determined by the National Taxpayer Advocate) and the United States.
 
 > &emsp;Any such withdrawal shall be made by filing notice at the same office as the withdrawn notice. A copy of such notice of withdrawal shall be provided to the taxpayer.
 
@@ -404,7 +404,7 @@ Subsec. (i)(3). Pub. L. 94–455, §1202(h)(2), struck out par. (3) which relate
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–719 redesignated as subsec. (a) that part of former subsec. (a) which preceded pars. (1) to (3) thereof, and, in subsec. (a) as so redesignated, substituted holder of a security interest, mechanic's lienor, and judgment lien creditor for mortgagee, pledgee, and judgment creditor, struck out reference to an exception provided in subsecs. (c) and (d), and inserted reference to requirements of subsec. (f).
 
-Subsec. (a)(3). Pub. L. 89–493 substituted the Recorder of Deeds of the District of Columbia for the clerk of theUnited States District Court for the District of Columbia.
+Subsec. (a)(3). Pub. L. 89–493 substituted the Recorder of Deeds of the District of Columbia for the clerk of the United States District Court for the District of Columbia.
 
 Subsec. (b)(1). Pub. L. 89–719 redesignated provisions of subsec. (c)(1) as subsec. (b)(1) and substituted "holder of a security interest" for "mortgagee and pledgee" and purchaser of such security interest for purchaser of such security for any adequate and full consideration in money or money's worth.
 

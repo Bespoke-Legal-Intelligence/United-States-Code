@@ -72,7 +72,7 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 #### (1) Minister-Counselor
 
-&emsp;Notwithstanding any other provision of law, the Secretary is authorized to designate up to 16 United States missions abroad at which the senior Commercial Service Officer will be able to use the diplomatic title of Minister-Counselor. The Secretary of State shall accord the diplomatic title of Minister-Counselor to the senior Commercial Service Officer assigned to a United States mission so designated.
+&emsp;Notwithstanding any other provision of law, the Secretary is authorized to designate up to16 United States missions abroad at which the senior Commercial Service Officer will be able to use the diplomatic title of Minister-Counselor. The Secretary of State shall accord the diplomatic title of Minister-Counselor to the senior Commercial Service Officer assigned to a United States mission so designated.
 
 #### (2) Consul General
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) a corporation, partnership, or other association created under the laws of the United States or of any State; or
 
-&emsp;&emsp;(C) a foreign corporation, partnership, or other association, more than 95 percent ofwhich is owned by persons described in subparagraphs (A) and (B),
+&emsp;&emsp;(C) a foreign corporation, partnership, or other association, more than 95 percent of which is owned by persons described in subparagraphs (A) and (B),
 
 > &emsp;that exports, or seeks to export, goods or services produced in the United States;
 
@@ -136,7 +136,7 @@ For purposes of this section—
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Codification
 
@@ -144,7 +144,7 @@ Section is comprised of section 2301 of Pub. L. 100–418. Subsec. (i) of sectio
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b)(9). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation".
+<b>2018</b>—Subsec. (b)(9). Pub. L. 115–254 substituted "United States International Development FinanceCorporation" for "Overseas Private Investment Corporation".
 
 Subsec. (f). Pub. L. 115–254 substituted "United States International Development Finance Corporation" for "Overseas Private Investment Corporation" in introductory provisions.
 

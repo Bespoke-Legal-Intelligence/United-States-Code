@@ -10,7 +10,7 @@
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 95–485, title VIII, §809, Oct. 20, 1978, 92 Stat. 1623, which was set out as a note under section 2102 of this title, prior to repeal by Pub. L. 98–525, §§1403(b), 1404.
+Provisions similar to those in this section were contained in Pub. L. 95–485, title VIII, §809, Oct. 20, 1978, 92Stat. 1623, which was set out as a note under section 2102 of this title, prior to repeal by Pub. L. 98–525, §§1403(b), 1404.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

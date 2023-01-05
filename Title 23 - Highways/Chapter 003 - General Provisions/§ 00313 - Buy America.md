@@ -20,7 +20,7 @@ Intentional Violations.—If it has been determined by a court or Federal agency
 
 &emsp;(1) affixed a label bearing a "Made in America" inscription, or any inscription with the same meaning, to any product used in projects to which this section applies, sold in or shipped to the United States that was not made in the United States; or
 
-&emsp;(2) represented that any product used in projects to which this section applies, sold inor shipped to the United States that was not produced in the United States, was produced in the United States;
+&emsp;(2) represented that any product used in projects to which this section applies, sold in or shipped to the United States that was not produced in the United States, was produced in the United States;
 
 > that person shall be ineligible to receive any contract or subcontract made with funds authorized under the Intermodal Surface Transportation Efficiency Act of 1991 pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
 
@@ -70,7 +70,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (h), is Pu
 
 #### Codification
 
-Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, §165, Jan. 6, 1983, 96 Stat. 2136; Pub. L. 98–229, §10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, 101 Stat. 171, 241; Pub. L. 102–240, title I, §1048, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L. 103–272, §4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, §7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, §1903(d), Aug. 10, 2005, 119 Stat. 1465.
+Section, as added by Pub. L. 109–59, consists of text of Pub. L. 97–424, title I, §165, Jan. 6, 1983, 96 Stat. 2136; Pub. L. 98–229, §10, Mar. 9, 1984, 98 Stat. 57; Pub. L. 100–17, title I, §§133(a)(6), 337(a)(1), (b), (c), Apr. 2, 1987, 101 Stat. 171, 241; Pub. L. 102–240, title I, §1048, title III, §3003(b), Dec. 18, 1991, 105 Stat. 1999, 2088; Pub. L.103–272, §4(r), July 5, 1994, 108 Stat. 1371; Pub. L. 103–429, §7(a)(3)(E), Oct. 31, 1994, 108 Stat. 4389, which was formerly set out as a note under section 101 of this title, and was repealed by Pub. L. 109–59, title I, §1903(d), Aug. 10, 2005, 119 Stat. 1465.
 
 #### Prior Provisions
 
@@ -102,9 +102,13 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Buy America Waiver Notification and Annual Reports
 
-Pub. L. 116–260, div. L, title I, §122, Dec. 27, 2020, 134 Stat. 1841, provided that: "Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements."
+Pub. L. 117–328, div. L, title I, §122, Dec. 29, 2022, 136 Stat. 5116, provided that: "Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: <i>Provided</i>, That the Secretary shall post on a website any waivers granted under the Buy America requirements."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–103, div. L, title I, §122, Mar. 15, 2022, 136 Stat. 704.
+
+Pub. L. 116–260, div. L, title I, §122, Dec. 27, 2020, 134 Stat. 1841.
 
 Pub. L. 116–94, div. H, title I, §122, Dec. 20, 2019, 133 Stat. 2951.
 

@@ -42,7 +42,7 @@ In reviewing and processing any application under this section, the Secretary—
 
 &emsp;&emsp;(A) the applicant meets the requirements of subsection (e); and
 
-&emsp;&emsp;(B) the management of the applicant is qualified and has the knowledge, experience,and capability necessary to comply with this subchapter;
+&emsp;&emsp;(B) the management of the applicant is qualified and has the knowledge, experience, and capability necessary to comply with this subchapter;
 
 &emsp;(2) shall take into consideration—
 

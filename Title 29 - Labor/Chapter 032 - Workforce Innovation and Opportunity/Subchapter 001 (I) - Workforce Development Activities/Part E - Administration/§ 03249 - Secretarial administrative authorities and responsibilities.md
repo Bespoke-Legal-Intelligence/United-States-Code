@@ -116,7 +116,7 @@ The Secretary shall ensure that each individual participating in any program or 
 
 #### (D) Expedited determination regarding provision of waivers
 
-&emsp;&emsp;If the Secretary has approved a waiver of statutory or regulatory requirements for a State or local area pursuant to this subsection, the Secretary shall expedite the determination regarding the provision of that waiver, for another State or local area if such waiver is in accordance with the approved State or local plan, as appropriate.
+&emsp;&emsp;If the Secretary has approved a waiver of statutory or regulatory requirements for aState or local area pursuant to this subsection, the Secretary shall expedite the determination regarding the provision of that waiver, for another State or local area if such waiver is in accordance with the approved State or local plan, as appropriate.
 
 (Pub. L. 113–128, title I, §189, July 22, 2014, 128 Stat. 1599.)
 

@@ -104,7 +104,7 @@
 
 #### (E) Critically undercapitalized
 
-&emsp;&emsp;An insured credit union is "critically undercapitalized" if it has a net worth ratio of less than 2 percent (or such higher net worth ratio, not to exceed 3 percent, as the Board may specify by regulation).
+&emsp;&emsp;An insured credit union is "critically undercapitalized" if it has a net worth ratioof less than 2 percent (or such higher net worth ratio, not to exceed 3 percent, as the Board may specify by regulation).
 
 #### (2) Adjusting net worth levels
 
@@ -122,7 +122,7 @@
 
 #### (C) Transition period required
 
-&emsp;&emsp;If the Board increases any net worth ratio under this paragraph, the Board shall giveinsured credit unions a reasonable period of time to meet the increased ratio.
+&emsp;&emsp;If the Board increases any net worth ratio under this paragraph, the Board shall give insured credit unions a reasonable period of time to meet the increased ratio.
 
 #### (d) Risk-based net worth requirement for complex credit unions
 
@@ -288,7 +288,7 @@ With respect to the exercise of authority by the Board under regulations compara
 
 &emsp;&emsp;(A) $25,000,000; and
 
-&emsp;&emsp;(B) an amount equal to 10 percent of the total assets of the credit union on the date on which the Board initiated assistance under section 1788 of this title or was appointed liquidating agent.
+&emsp;&emsp;(B) an amount equal to 10 percent of the total assets of the credit union on the dateon which the Board initiated assistance under section 1788 of this title or was appointed liquidating agent.
 
 #### (3) Public disclosure required
 
@@ -314,7 +314,7 @@ With respect to the exercise of authority by the Board under regulations compara
 
 &emsp;&emsp;&emsp;(ii) for each loss to the Fund that is not a material loss, determine—
 
-&emsp;&emsp;&emsp;&emsp;(I) the grounds identified by the Board or the State official having jurisdictionover a State credit union for appointing the Board as the liquidating agent for any Federal or State credit union; and
+&emsp;&emsp;&emsp;&emsp;(I) the grounds identified by the Board or the State official having jurisdiction over a State credit union for appointing the Board as the liquidating agent for any Federal or State credit union; and
 
 &emsp;&emsp;&emsp;&emsp;(II) whether any unusual circumstances exist that might warrant an in-depth review of the loss; and
 
@@ -336,7 +336,7 @@ With respect to the exercise of authority by the Board under regulations compara
 
 &emsp;The Comptroller General of the United States shall, under such conditions as the Comptroller General determines to be appropriate—
 
-&emsp;&emsp;(A) review each report made under paragraph (1), including the extent to which the Inspector General of the Board complied with the requirements under section 8L of the Inspector General Act of 1978 (5 U.S.C. App.) with respect to each such report; and
+&emsp;&emsp;(A) review each report made under paragraph (1), including the extent to which the Inspector General of the Board complied with the requirements under section 419 of title 5 with respect to each such report; and
 
 &emsp;&emsp;(B) recommend improvements to the supervision of insured credit unions (including improvements relating to the implementation of this section).
 
@@ -406,7 +406,7 @@ For purposes of this section the following definitions shall apply:
 
 &emsp;The term "net worth"—
 
-&emsp;&emsp;(A) with respect to any insured credit union, means the retained earnings balanceof the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined;
+&emsp;&emsp;(A) with respect to any insured credit union, means the retained earnings balance of the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined;
 
 &emsp;&emsp;(B) with respect to any insured credit union, includes, at the Board's discretion and subject to rules and regulations established by the Board, assistance provided under section 1788 of this title to facilitate a least-cost resolution consistent with the best interests of the credit union system; and
 
@@ -428,15 +428,13 @@ For purposes of this section the following definitions shall apply:
 
 &emsp;&emsp;(B) has not more than $10,000,000 in total assets.
 
-(June 26, 1934, ch. 750, title II, §216, as added Pub. L. 105–219, title III, §301(a), Aug. 7, 1998, 112 Stat. 923; amended Pub. L. 109–351, title V, §504, title VII, §726(25), Oct. 13, 2006, 120 Stat. 1975, 2003; Pub. L. 111–203, title IX, §988(a), July 21, 2010, 124 Stat. 1938; Pub. L. 111–382, §3, Jan. 4, 2011, 124 Stat. 4135.)
+(June 26, 1934, ch. 750, title II, §216, as added Pub. L. 105–219, title III, §301(a), Aug. 7, 1998, 112 Stat. 923; amended Pub. L. 109–351, title V, §504, title VII, §726(25), Oct. 13, 2006, 120 Stat. 1975, 2003; Pub. L. 111–203, title IX, §988(a), July 21, 2010, 124 Stat. 1938; Pub. L. 111–382, §3, Jan. 4, 2011, 124 Stat. 4135; Pub. L. 117–286, §4(b)(33), Dec. 27, 2022, 136 Stat. 4346.)
 
 #### <b>Editorial Notes</b>
 
-#### References in Text
-
-Section 8L of the Inspector General Act of 1978, referred to in subsec. (j)(5)(A), is section 8L of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+
+<b>2022</b>—Subsec. (j)(5)(A). Pub. L. 117–286 substituted "section 419 of title 5" for "section 8L of the Inspector General Act of 1978 (5 U.S.C. App.)".
 
 <b>2011</b>—Subsec. (o)(2). Pub. L. 111–382 amended par. (2) generally. Prior to amendment, text read as follows: "The term 'net worth'—
 
@@ -508,7 +506,7 @@ Pub. L. 105–219, title III, §301(c), Aug. 7, 1998, 112 Stat. 930, provided th
 
 Pub. L. 105–219, title III, §301(f), Aug. 7, 1998, 112 Stat. 931, provided that: "When the Board publishes proposed regulations pursuant to subsection (d)(1)(A) \[set out above\], or promulgates final regulations pursuant to subsection (d)(1)(B) \[set out above\], the Board shall submit to the Congress a report that specifically explains—
 
-&emsp;"(1) how the regulations carry out section 216(b)(1)(B) of the Federal Credit Union Act \[12 U.S.C.1790d(b)(1)(B)\] (as added by this section), relating to the cooperative character of credit unions; and
+&emsp;"(1) how the regulations carry out section 216(b)(1)(B) of the Federal Credit Union Act \[12 U.S.C. 1790d(b)(1)(B)\] (as added by this section), relating to the cooperative character of credit unions; and
 
 &emsp;"(2) how the regulations differ from section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\], and the reasons for those differences."
 

@@ -12,7 +12,7 @@ The national objectives of this chapter are—
 
 &emsp;(4) to plan for and integrate infrastructure resources for Indian tribes with housing development for tribes; and
 
-&emsp;(5) to promote the development of private capital markets in Indian country and toallow such markets to operate and grow, thereby benefiting Indian communities.
+&emsp;(5) to promote the development of private capital markets in Indian country and to allow such markets to operate and grow, thereby benefiting Indian communities.
 
 #### (b) Eligible families
 
@@ -48,7 +48,7 @@ The national objectives of this chapter are—
 
 #### (5) Law enforcement officers
 
-&emsp;Notwithstanding paragraph (1), a recipient may provide housing or housing assistance provided through affordable housing activities assisted with grant amounts under this chapter to a law enforcement officer on the reservation or other Indian area, who is employed full-time by a Federal, State, county or tribal government, and in implementing such full-time employment is sworn to uphold, and make arrests for violations of Federal, State, county or tribal law, if the recipient determines that the presence of the law enforcement officer on the Indian reservation or other Indian area may deter crime.
+&emsp;Notwithstanding paragraph (1), a recipient may provide housing or housing assistance provided through affordable housing activities assisted with grant amounts under this chapter to a law enforcement officer on the reservation or other Indian area, who is employedfull-time by a Federal, State, county or tribal government, and in implementing such full-time employment is sworn to uphold, and make arrests for violations of Federal, State, county or tribal law, if the recipient determines that the presence of the law enforcement officer on the Indian reservation or other Indian area may deter crime.
 
 #### (6) <sup>1</sup> Preference for tribal members and other Indian families
 
@@ -68,7 +68,7 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 The Civil Rights Act of 1964, referred to in subsec. (b)(6), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Civil Rights Act of 1968, referred to in subsec. (b)(6), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
+The Civil Rights Act of 1968, referred to in subsec. (b)(6), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
 #### Amendments
 

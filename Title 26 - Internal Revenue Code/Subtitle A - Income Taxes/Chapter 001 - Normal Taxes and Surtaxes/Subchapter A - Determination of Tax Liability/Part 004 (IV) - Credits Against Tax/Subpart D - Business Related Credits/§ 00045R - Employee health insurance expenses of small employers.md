@@ -10,11 +10,11 @@ Subject to subsection (c), the amount determined under this subsection with resp
 
 &emsp;(1) the aggregate amount of nonelective contributions the employer made on behalf of its employees during the taxable year under the arrangement described in subsection (d)(4) for premiums for qualified health plans offered by the employer to its employees through an Exchange, or
 
-&emsp;(2) the aggregate amount of nonelective contributions which the employer would have made during the taxable year under the arrangement if each employee taken into account under paragraph (1) had enrolled in aqualified health plan which had a premium equal to the average premium (as determined by the Secretary of Health and Human Services) for the small group market in the rating area in which the employee enrolls for coverage.
+&emsp;(2) the aggregate amount of nonelective contributions which the employer would have made during the taxable year under the arrangement if each employee taken into account under paragraph (1) had enrolled in a qualified health plan which had a premium equal to the average premium (as determined by the Secretary of Health and Human Services) for the small group market in the rating area in which the employee enrolls for coverage.
 
 #### (c) Phaseout of credit amount based on number of employees and average wages
 
-The amount of the credit determined under subsection (b) without regard to this subsection shall be reduced (but not below zero) by the sum of the following amounts:
+The amount of the credit determined under subsection (b) without regard to this subsectionshall be reduced (but not below zero) by the sum of the following amounts:
 
 &emsp;(1) Such amount multiplied by a fraction the numerator of which is the total number of full-time equivalent employees of the employer in excess of 10 and the denominator of which is 15.
 

@@ -6,7 +6,7 @@ The Office of Science and Technology Policy shall develop policies for the manag
 
 &emsp;(1) Federal agencies with such collections; and
 
-&emsp;(2) representatives of other organizations, institutions, and other entities not a part ofthe Federal Government that have a stake in the preservation, maintenance, and accessibility of such collections, including State and local government agencies, institutions of higher education, museums, and other entities engaged in the acquisition, holding, management, or use of scientific collections.
+&emsp;(2) representatives of other organizations, institutions, and other entities not a part of the Federal Government that have a stake in the preservation, maintenance, and accessibility of such collections, including State and local government agencies, institutions of higher education, museums, and other entities engaged in the acquisition, holding, management, or use of scientific collections.
 
 #### (b) Clearinghouse
 

@@ -30,5 +30,5 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 
 #### Abolition of Offices of Collector and Deputy Collector of Internal Revenue
 
-Offices of Collector and Deputy Collector of Internal Revenue abolished by Reorg. Plan No. 1 of 1952, §1, eff. Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, set out in the Appendix to Title 5, Government Organization and Employees, and the offices of "district commissioner of internal revenue", and so many other offices, with titles to be determined by Secretary of the Treasury, were established by section 2(a) of the Plan.
+Offices of Collector and Deputy Collector of Internal Revenue abolished by Reorg. Plan No. 1 of 1952, §1, eff.Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, set out in the Appendix to Title 5, Government Organization and Employees, and the offices of "district commissioner of internal revenue", and so many other offices, with titles to be determined by Secretary of the Treasury, were established by section 2(a) of the Plan.
 

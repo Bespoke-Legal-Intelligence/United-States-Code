@@ -18,7 +18,7 @@
 
 &emsp;(F) describe all balances canceled under sections 1552 and 1555 of this title.
 
-(3) The head of each Federal agency shall provide a copy of each such report to the Speaker of the House of Representatives and the Committee on Appropriations, the Committee on Governmental Affairs, and other appropriate oversight and authorizing committees of the Senate.
+(3) The head of each Federal agency shall provide a copy of each such report to the Speakerof the House of Representatives and the Committee on Appropriations, the Committee on Governmental Affairs, and other appropriate oversight and authorizing committees of the Senate.
 
 (c) The head of each agency shall establish internal controls to assure that an adequate review of obligated balances is performed to support the certification required by section 1108(c) of this title.
 

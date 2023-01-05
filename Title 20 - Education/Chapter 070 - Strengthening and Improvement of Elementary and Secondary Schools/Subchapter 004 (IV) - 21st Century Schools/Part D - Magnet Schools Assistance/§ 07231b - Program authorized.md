@@ -6,7 +6,7 @@ The Secretary, in accordance with this part, is authorized to award grants to el
 
 &emsp;(2) designed to bring students from different social, economic, ethnic, and racial backgrounds together.
 
-(Pub. L. 89–10, title IV, §4403, formerly title V, §5303, as added Pub. L. 107–110, title V, §501, Jan.8, 2002, 115 Stat. 1807; renumbered title IV, §4403, Pub. L. 114–95, title IV, §4001(b)(3)(A), (B), (D)(i), Dec. 10, 2015, 129 Stat. 1967.)
+(Pub. L. 89–10, title IV, §4403, formerly title V, §5303, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1807; renumbered title IV, §4403, Pub. L. 114–95, title IV, §4001(b)(3)(A), (B), (D)(i), Dec. 10, 2015, 129 Stat. 1967.)
 
 #### <b>Editorial Notes</b>
 

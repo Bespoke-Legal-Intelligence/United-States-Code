@@ -68,7 +68,7 @@ Subsecs. (b) to (d). Pub. L. 103–355, §1404(a), (b), added subsecs. (b) and (
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of Title 10, Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, setout as a note under section 8752 of Title 10, Armed Forces.
 
 #### Effective Date
 

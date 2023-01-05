@@ -16,5 +16,5 @@ This section is similar to section 219 of title 22, U.S.C., 1940 ed., Foreign Re
 
 #### Amendments
 
-<b>1963</b>—Pub. L. 88–27 authorized the trial of offenses not committed in any district in the district in which the offender, or any one of two or more joint offenders, is arrested; an indictment or information to be filed in the district of the last known residence of the offenderor of any one of two or more joint offenders where the offender or offenders are not arrested or brought into any district; and an indictment or information to be filed in the District of Columbia where there is no knowledge of the residence of the offender or of any one of two or more joint offenders.
+<b>1963</b>—Pub. L. 88–27 authorized the trial of offenses not committed in any district in the district in which the offender, or any one of two or more joint offenders, is arrested; an indictment or information to be filed in the district of the last known residence of the offender or of any one of two or more joint offenders where the offender or offenders are not arrested or brought into any district; and an indictment or information to be filed in the District of Columbia where there is no knowledge of the residence of the offender or of any one of two or more joint offenders.
 

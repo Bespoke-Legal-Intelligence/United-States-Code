@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) The Declaration of Sentiments approved by the 1848 Women's Rights Convention is a document of enduring relevance, which expresses the goal that equality and justice should be extended to all people without regard to sex.
 
-&emsp;(3) There are nine sites located in Seneca Falls and Waterloo, New York, associated withthe nineteenth century women's rights movement which should be recognized, preserved, and interpreted for the benefit of the public.
+&emsp;(3) There are nine sites located in Seneca Falls and Waterloo, New York, associated with the nineteenth century women's rights movement which should be recognized, preserved, and interpreted for the benefit of the public.
 
 #### (b) Statement of purposes
 
@@ -46,7 +46,7 @@ To carry out the purposes of this section there is hereby established the Women'
 
 #### (d) Acquisition of lands and interests
 
-The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange lands and interests therein within sites designated as part of the park. Lands and interests therein owned by a State or political subdivision thereof may be acquired only by donation.
+The Secretary is authorized to acquire by donation, purchase with donated or appropriatedfunds, transfer from any other Federal agency, or exchange lands and interests therein within sites designated as part of the park. Lands and interests therein owned by a State or political subdivision thereof may be acquired only by donation.
 
 #### (e) Cooperative agreements
 
@@ -98,7 +98,7 @@ The Secretary shall administer the park in accordance with the provisions of thi
 
 The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in subsec. (g), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–7), referred to in subsec. (g), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–7), referred to in subsec. (g), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to theCode, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The effective date of this section, referred to in subsec. (h)(5), probably means the date of enactment of Pub. L. 96–607, which was approved Dec. 28, 1980.
 

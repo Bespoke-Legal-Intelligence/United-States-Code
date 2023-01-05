@@ -28,7 +28,7 @@
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–94, div. A, title XI, §11307(b), Dec. 4, 2015, 129 Stat. 1664, which directed the general amendment of the analysis for section 24711 of title 49, was executed to the analysis for this chapter, to reflect the probable intent of Congress. Prior to amendment, item 24711 read as follows: "Alternate passenger rail service pilot program".
+<b>2015</b>—Pub. L. 114–94, div. A, title XI, §11307(b), Dec. 4, 2015, 129 Stat. 1664, which directed the general amendment of the analysis for section 24711 of title 49, was executed to the analysis for this chapter, to reflect the probable intent of Congress. Prior to amendment, item24711 read as follows: "Alternate passenger rail service pilot program".
 
 Pub. L. 114–94, div. A, title XI, §11204(b)(1), Dec. 4, 2015, 129 Stat. 1637, added item 24712.
 

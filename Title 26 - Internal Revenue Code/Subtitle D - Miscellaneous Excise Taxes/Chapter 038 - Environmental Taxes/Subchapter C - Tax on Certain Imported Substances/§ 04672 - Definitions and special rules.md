@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(A) the substance is contained in the list under paragraph (3), or
 
-&emsp;&emsp;(B) the Secretary determines, in consultation with the Administrator of the Environmental Protection Agency and the Commissioner of U.S. Customs and Border Protection, that taxable chemicals constitute more than 50 percent of the weight (or more than 50 percent of the value) of the materials used to produce such substance (determined on the basis of the predominant method of production).
+&emsp;&emsp;(B) the Secretary determines, in consultation with the Administrator of the Environmental Protection Agency and the Commissioner of U.S. Customs and Border Protection, that taxable chemicals constitute more than 20 percent of the weight (or more than 20 percent of the value) of the materials used to produce such substance (determined on the basis of the predominant method of production).
 
 > &emsp;If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.
 
@@ -52,7 +52,7 @@ For purposes of this subchapter—
 
 #### (4) Modifications to list
 
-&emsp;The Secretary shall add to the list under paragraph (3) substances which meet either the weight or value tests of paragraph (2)(B) and may remove from such list only substances which meet neither of such tests.
+&emsp;The Secretary shall add to the list under paragraph (3) substances which meet eitherthe weight or value tests of paragraph (2)(B) and may remove from such list only substances which meet neither of such tests.
 
 #### (b) Other definitions
 
@@ -71,10 +71,6 @@ For purposes of this subchapter—
 The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4671.
 
 (Added Pub. L. 99–499, title V, §515(a), Oct. 17, 1986, 100 Stat. 1768; amended Pub. L. 100–647, title II, §2001(b), Nov. 10, 1988, 102 Stat. 3594; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 117–58, div. H, title II, §80201(c)(1), Nov. 15, 2021, 135 Stat. 1330.)
-
-#### Amendment of Subsection (a)(2)(B)
-
-<i>Pub. L. 117–58, div. H, title II, §80201(c)(1), (d), Nov. 15, 2021, 135 Stat. 1330, provided that, effective July 1, 2022, subsection (a)(2)(B) of this section is amended by striking "50 percent" each place it appears and inserting "20 percent". See 2021 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 

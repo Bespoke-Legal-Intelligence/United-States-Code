@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, the Secretary may accept and expend 
 
 #### (1) Study of historic properties
 
-&emsp;The Secretary shall prepare and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a study of the properties in the city of Natchez and its immediate environs that preserve and interpret the history contained in the purposes of this subchapter. Such report shall consider which properties best exemplify such purposes and appropriate means for providing technical assistance to, and interpretation of, such properties. The study and report shall include consideration of Natchez-Under-the-Hill and the Briars.
+&emsp;The Secretary shall prepare and transmit to the Committee on Interior and Insular Affairs of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate a study of the properties in the city of Natchez and its immediate environs that preserve and interpret the history contained in the purposes of this subchapter. Such report shall considerwhich properties best exemplify such purposes and appropriate means for providing technical assistance to, and interpretation of, such properties. The study and report shall include consideration of Natchez-Under-the-Hill and the Briars.
 
 #### (2) Establishment of districts
 
@@ -38,7 +38,7 @@ The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C. 461–467), referred to in s
 
 #### Codification
 
-In subsec. (d), "section 100502 of title 54" substituted for "section 12(b) of the Act of August 18, 1970 (84 Stat. 825; 16 U.S.C. 1a–1 through 1a–7)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Actenacted Title 54, National Park Service and Related Programs.
+In subsec. (d), "section 100502 of title 54" substituted for "section 12(b) of the Act of August 18, 1970 (84 Stat. 825; 16 U.S.C. 1a–1 through 1a–7)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

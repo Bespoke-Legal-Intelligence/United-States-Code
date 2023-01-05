@@ -6,7 +6,7 @@
 
 &emsp;(B) prohibit discrimination against any individual or other person on the basis of the race, color, religion, sex, marital status, age, or national origin of (i) such individual or other person or (ii) any officer, director, employee, or creditor of, or any owner of any interest in, such individual or other person; and
 
-&emsp;(C) apply to national banks or State-chartered banks doing business in the State inwhich such branch or agency or commercial lending company, as the case may be, is doing business.
+&emsp;(C) apply to national banks or State-chartered banks doing business in the State in which such branch or agency or commercial lending company, as the case may be, is doing business.
 
 (2) No application for a branch or agency shall be approved by the Comptroller or by a State bank supervisory authority, as the case may be, unless the entity making the application has agreed to conduct all of its operations in the United States in full compliance with provisions of any law of the United States or any State thereof which—
 

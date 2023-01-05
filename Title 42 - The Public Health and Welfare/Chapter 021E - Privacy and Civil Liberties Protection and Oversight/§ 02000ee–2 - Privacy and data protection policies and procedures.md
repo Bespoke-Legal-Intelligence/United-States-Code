@@ -18,7 +18,7 @@ Each agency shall have a Chief Privacy Officer to assume primary responsibility 
 
 &emsp;(7) ensuring that the Department protects information in an identifiable form and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction;
 
-&emsp;(8) training and educating employees on privacy and data protection policies to promoteawareness of and compliance with established privacy and data protection policies; and
+&emsp;(8) training and educating employees on privacy and data protection policies to promote awareness of and compliance with established privacy and data protection policies; and
 
 &emsp;(9) ensuring compliance with the Departments <sup>2</sup> established privacy and data protection policies.
 
@@ -86,7 +86,7 @@ Ex. Ord. No. 13719, Feb. 9, 2016, 81 F.R. 7961, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The mission of the United States Government is to serve its people. In order to accomplish its mission, the Government lawfully collects, maintains, and uses large amounts of informationabout people in a wide range of contexts. Protecting privacy in the collection and handling of this information is fundamental to the successful accomplishment of the Government's mission. The proper functioning of Government requires the public's trust, and to maintain that trust the Government must strive to uphold the highest standards for collecting, maintaining, and using personal data. Privacy has been at the heart of our democracy from its inception, and we need it now more than ever.
+Section 1. <i>Policy</i>. The mission of the United States Government is to serve its people. In order to accomplish its mission, the Government lawfully collects, maintains, and uses large amounts of information about people in a wide range of contexts. Protecting privacy in the collection and handling of this information is fundamental to the successful accomplishment of the Government's mission. The proper functioning of Government requires the public's trust, and to maintain that trust the Government must strive to uphold the highest standards for collecting, maintaining, and using personal data. Privacy has been at the heart of our democracy from its inception, and we need it now more than ever.
 
 Executive departments and agencies (agencies) already take seriously their mission to protect privacy and have been working diligently to advance that mission through existing interagency mechanisms. Today's challenges, however, require that we find even more effective and innovative ways to improve the Government's efforts. Our efforts to meet these new challenges and preserve our core value of privacy, while delivering better and more effective Government services for the American people, demand leadership and enhanced coordination and collaboration among a diverse group of stakeholders and experts.
 

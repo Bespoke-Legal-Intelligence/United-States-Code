@@ -114,7 +114,7 @@ The Secretary shall distribute funds to the agricultural department or agency of
 
 #### (C) Project period
 
-&emsp;&emsp;Funds received by an eligible entity that is awarded a subgrant under this sectionshall remain available for expenditure not later than 3 years after the date the funds are received.
+&emsp;&emsp;Funds received by an eligible entity that is awarded a subgrant under this section shall remain available for expenditure not later than 3 years after the date the funds are received.
 
 #### (2) Priority
 

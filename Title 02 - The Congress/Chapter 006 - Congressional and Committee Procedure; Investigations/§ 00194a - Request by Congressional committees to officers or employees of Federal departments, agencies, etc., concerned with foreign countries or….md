@@ -18,7 +18,7 @@ Pub. L. 105–277, §1225(g), struck out "the United States Arms Control and Dis
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 1225(g) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under section 6511 of Title 22, Foreign Relations and Intercourse.
+Amendment by section 1225(g) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, setout as an Effective Date note under section 6511 of Title 22, Foreign Relations and Intercourse.
 
 Amendment by section 1335(n) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of Title 22, Foreign Relations and Intercourse.
 

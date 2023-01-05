@@ -68,7 +68,7 @@ Pilot program required.—
 
 &emsp;"(A)
 
-In general.—Not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Veterans Affairs shall establish a pilotprogram to assess the feasibility and advisability of awarding grants to eligible entities to establish new legal assistance clinics, or enhance existing legal assistance clinics or other pro bono efforts, for the provision of pro bono legal assistance described in subsection (c) of section 5906 of title 38, United States Code, as added by subsection (a), on a year-round basis to individuals who served in the Armed Forces, including individuals who served in a reserve component of the Armed Forces, and who were discharged or released therefrom, regardless of the conditions of such discharge or release, at locations other than medical centers and facilities described in subsection (a) of such section.
+In general.—Not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Veterans Affairs shall establish a pilot program to assess the feasibility and advisability of awarding grants to eligible entities to establish new legal assistance clinics, or enhance existing legal assistance clinics or other pro bono efforts, for the provision of pro bono legal assistance described in subsection (c) of section 5906 of title 38, United States Code, as added by subsection (a), on a year-round basis to individuals who served in the Armed Forces, including individuals who served in a reserve component of the Armed Forces, and who were discharged or released therefrom, regardless of the conditions of such discharge or release, at locations other than medical centers and facilities described in subsection (a) of such section.
 
 &emsp;"(B)
 
@@ -92,7 +92,7 @@ Eligible entities.—For purposes of the pilot program, an eligible entity is—
 
 &emsp;"(3)
 
-Locations.—The Secretary shall ensure that at least one grant is awarded under paragraph (1)(A) to at least one eligible entity in each State, if the Secretary determines that there is such an entity in a State that has applied for, and meets requirements for the award of, such a grant.
+Locations.—The Secretary shall ensure that at least one grant is awarded under paragraph (1)(A) toat least one eligible entity in each State, if the Secretary determines that there is such an entity in a State that has applied for, and meets requirements for the award of, such a grant.
 
 &emsp;"(4)
 

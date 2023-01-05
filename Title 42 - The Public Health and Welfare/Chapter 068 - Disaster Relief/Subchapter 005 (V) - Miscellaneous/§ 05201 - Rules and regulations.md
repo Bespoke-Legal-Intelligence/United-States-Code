@@ -1,6 +1,6 @@
 ### §5201. Rules and regulations
 
-(a)(1) The President may prescribe such rules and regulations as may be necessary and proper to carry out any of the provisions of this chapter, and he may exercise any power or authority conferred on him by any section of this chapter either directly or through such Federal agency or agencies as he may designate.
+(a)(1) The President may prescribe such rules and regulations as may be necessary and proper to carry out any of the provisions of this chapter, and he may exercise any power or authority conferred on him by any section of this chaptereither directly or through such Federal agency or agencies as he may designate.
 
 (2)
 
@@ -14,7 +14,7 @@ Deadline for payment of assistance.—Rules and regulations authorized by paragr
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Amendments
 

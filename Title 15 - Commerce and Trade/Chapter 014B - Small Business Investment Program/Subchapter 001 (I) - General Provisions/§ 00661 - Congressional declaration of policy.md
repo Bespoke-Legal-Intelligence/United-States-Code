@@ -1,6 +1,6 @@
 ### §661. Congressional declaration of policy
 
-It is declared to be the policy of the Congress and the purpose of this chapter to improve and stimulate the national economy in general and the small-business segment thereof in particular by establishing a program to stimulate and supplement the flow of private equity capital and long-term loan funds which small-business concerns need for the sound financing of their business operations and for their growth, expansion, and modernization, and which are not availablein adequate supply: <i>Provided, however</i>, That this policy shall be carried out in such manner as to insure the maximum participation of private financing sources.
+It is declared to be the policy of the Congress and the purpose of this chapter to improve and stimulate the national economy in general and the small-business segment thereof in particular by establishing a program to stimulate and supplement the flow of private equity capital and long-term loan funds which small-business concerns need for the sound financing of their business operations and for their growth, expansion, and modernization, and which are not available in adequate supply: <i>Provided, however</i>, That this policy shall be carried out in such manner as toinsure the maximum participation of private financing sources.
 
 It is the intention of the Congress that the provisions of this chapter shall be so administered that any financial assistance provided hereunder shall not result in a substantial increase of unemployment in any area of the country. It is the intention of the Congress that in the award of financial assistance under this chapter, when practicable, priority be accorded to small business concerns which lease or purchase equipment and supplies which are produced in the United States and that small business concerns receiving such assistance be encouraged to continue to lease or purchase such equipment and supplies.
 
@@ -68,7 +68,7 @@ Pub. L. 90–104, title II, §201, Oct. 11, 1967, 81 Stat. 269, provided that: "
 
 #### Short Title of 1966 Amendment
 
-Pub. L. 89–779, §1, Nov. 6, 1966, 80 Stat. 1359, provided: "That this Act \[enacting sections 687e, 687f, 687g, and687h of this title and amending sections 633, 671, 687, 687a, 687b, and 687c of this title, and sections 5315 and 5316 of Title 5, Government Organization and Employees\] may be cited as the 'Small Business Investment Act Amendments of 1966'."
+Pub. L. 89–779, §1, Nov. 6, 1966, 80 Stat. 1359, provided: "That this Act \[enacting sections 687e, 687f, 687g, and 687h of this title and amending sections 633, 671, 687,687a, 687b, and 687c of this title, and sections 5315 and 5316 of Title 5, Government Organization and Employees\] may be cited as the 'Small Business Investment Act Amendments of 1966'."
 
 #### Short Title of 1964 Amendment
 

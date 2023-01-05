@@ -10,7 +10,7 @@ Effect of Promotion Being Vacated.—Except as provided in subsection (c), an of
 
 (c)
 
-Special Rule for Officers Serving as Adjutant General.—In the case of an officer serving as an adjutant general or assistant adjutant general whose promotion to the grade ofbrigadier general is vacated under this section, the officer then holds the reserve grade held by that officer immediately before the officer's appointment as adjutant general or assistant adjutant general.
+Special Rule for Officers Serving as Adjutant General.—In the case of an officer serving as an adjutant general or assistant adjutant general whose promotion to the grade of brigadier general is vacated under this section, the officer then holds the reserve grade held by that officer immediately before the officer's appointment as adjutant general or assistant adjutant general.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2942; amended Pub. L. 109–163, div. A, title V, §515(b)(1)(SS), Jan. 6, 2006, 119 Stat. 3234.)
 

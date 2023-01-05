@@ -26,7 +26,7 @@ Amendment by Pub. L. 109–97 effective the day after 120 days after Nov. 10, 20
 
 #### Effective and Termination Dates of 1986 Amendment
 
-Pub. L. 99–641, title IV, §403(d)(2), Nov. 10, 1986, 100 Stat. 3570, provided that the amendment made by that section is effective only during the 6-year period beginning on Nov. 10, 1986.
+Pub. L. 99–641, title IV, §403(d)(2), Nov. 10, 1986, 100 Stat. 3570, provided that the amendment made by thatsection is effective only during the 6-year period beginning on Nov. 10, 1986.
 
 Amendment by Pub. L. 99–641 effective Nov. 10, 1986, except that this section as in effect immediately before Nov. 10, 1986, applies with respect to establishments until the Secretary of Agriculture first issues rules and regulations to implement the amendments made by section 403(a) of Pub. L. 99–641 to section 606 of this title, see section 408 of Pub. L. 99–641, set out as a note under section 609 of this title.
 

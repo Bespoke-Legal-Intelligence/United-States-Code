@@ -4,33 +4,39 @@
 
 &emsp;(A) the seaman in good faith has reported or is about to report to the Coast Guard or other appropriate Federal agency or department that the seaman believes that a violation of a maritime safety law or regulation prescribed under that law or regulation has occurred;
 
-&emsp;(B) the seaman has refused to perform duties ordered by the seaman's employer because the seaman has a reasonable apprehension or expectation that performing such duties would result in serious injury to the seaman, other seamen, or the public;
+&emsp;(B) the seaman in good faith has reported or is about to report to the vessel owner, Coast Guard or other appropriate Federal agency or department sexual harassment or sexual assault against the seaman or knowledge of sexual harassment or sexual assault against another seaman;
 
-&emsp;(C) the seaman testified in a proceeding brought to enforce a maritime safety law or regulation prescribed under that law;
+&emsp;(C) the seaman has refused to perform duties ordered by the seaman's employer because the seaman has a reasonable apprehension or expectation that performing such duties would result in serious injury to the seaman, other seamen, or the public;
 
-&emsp;(D) the seaman notified, or attempted to notify, the vessel owner or the Secretary of a work-related personal injury or work-related illness of a seaman;
+&emsp;(D) the seaman testified in a proceeding brought to enforce a maritime safety law or regulation prescribed under that law;
 
-&emsp;(E) the seaman cooperated with a safety investigation by the Secretary or the National Transportation Safety Board;
+&emsp;(E) the seaman notified, or attempted to notify, the vessel owner or the Secretary of a work-related personal injury or work-related illness of a seaman;
 
-&emsp;(F) the seaman furnished information to the Secretary, the National Transportation Safety Board, or any other public official as to the facts relating to any marine casualty resulting in injury or death to an individual or damage to property occurring in connection with vessel transportation; or
+&emsp;(F) the seaman cooperated with a safety investigation by the Secretary or the National Transportation Safety Board;
 
-&emsp;(G) the seaman accurately reported hours of duty under this part.
+&emsp;(G) the seaman furnished information to the Secretary, the National Transportation Safety Board, or any other public official as to the facts relating to any marine casualty resulting in injury or death to an individual or damage to property occurring in connection with vessel transportation; or
 
-(2) The circumstances causing a seaman's apprehension of serious injury under paragraph (1)(B) must be of such a nature that a reasonable person, under similar circumstances, would conclude that there is a real danger of an injury or serious impairment of health resulting from the performance of duties as ordered by the seaman's employer.
+&emsp;(H) the seaman accurately reported hours of duty under this part.
 
-(3) To qualify for protection against the seaman's employer under paragraph (1)(B), the employee must have sought from the employer, and been unable to obtain, correction of the unsafe condition.
+(2) The circumstances causing a seaman's apprehension of serious injury under paragraph (1)(C) must be of such a nature that a reasonable person, under similar circumstances, would conclude that there is a real danger of an injury or serious impairment of health resulting from the performance of duties as ordered by the seaman's employer.
+
+(3) To qualify for protection against the seaman's employer under paragraph (1)(C), the employee must have sought from the employer, and been unable to obtain, correction of the unsafe condition.
 
 (b) A seaman alleging discharge or discrimination in violation of subsection (a) of this section, or another person at the seaman's request, may file a complaint with respect to such allegation in the same manner as a complaint may be filed under subsection (b) of section 31105 of title 49. Such complaint shall be subject to the procedures, requirements, and rights described in that section, including with respect to the right to file an objection, the right of a person to file for a petition for review under subsection (c) of that section, and the requirement to bring a civil action under subsection (d) of that section.
 
-(Added Pub. L. 98–557, §13(a), Oct. 30, 1984, 98 Stat. 2863; amended Pub. L. 107–295, title IV, §428, Nov. 25, 2002, 116 Stat. 2127; Pub. L. 111–281, title VI, §611(a), Oct. 15, 2010, 124 Stat. 2969.)
+(Added Pub. L. 98–557, §13(a), Oct. 30, 1984, 98 Stat. 2863; amended Pub. L. 107–295, title IV, §428, Nov. 25, 2002, 116 Stat. 2127; Pub. L. 111–281, title VI, §611(a), Oct. 15, 2010, 124 Stat. 2969; Pub. L. 117–263, div. K, title CXVI, §11605, Dec. 23, 2022, 136 Stat. 4148.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a)(1)(B) to (H). Pub. L. 117–263, §11605(1), added subpar. (B) and redesignated former subpars. (B) to (G) as (C) to (H), respectively.
+
+Subsec. (a)(2), (3). Pub. L. 117–263, §11605(2), substituted "paragraph (1)(C)" for "paragraph (1)(B)".
+
 <b>2010</b>—Subsec. (a)(1)(C) to (G). Pub. L. 111–281, §611(a)(1)–(3), added subpars. (C) to (G).
 
-Subsec. (b). Pub. L. 111–281, §611(a)(4), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "A seaman discharged or otherwise discriminated against in violation of this section may bring an action in an appropriate district court of the United States. In that action, the court may order any appropriate relief, including—
+Subsec. (b). Pub. L. 111–281, §611(a)(4), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "A seaman discharged or otherwise discriminated against in violation of this section maybring an action in an appropriate district court of the United States. In that action, the court may order any appropriate relief, including—
 
 &emsp;"(1) restraining violations of this section;
 

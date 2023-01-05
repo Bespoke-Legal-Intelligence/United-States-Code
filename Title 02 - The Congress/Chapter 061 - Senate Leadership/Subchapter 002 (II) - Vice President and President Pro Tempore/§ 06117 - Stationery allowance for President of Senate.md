@@ -48,7 +48,7 @@ Pub. L. 108–7, div. H, title I, §2(b), Feb. 20, 2003, 117 Stat. 349, provided
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–607, ch. V, §506(k), formerly §506(h), Oct. 31, 1972, 86 Stat. 1507, renumbered §506(i) by Pub. L. 95–391, title I, §108(a), Sept. 30, 1978, 92 Stat. 773, renumbered §506(j) by Pub. L. 96–304, title I, §101, July 8, 1980, 94 Stat. 889, and renumbered §506(k) by Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, provided that the amendment made by that section is effective Jan. 1, 1973.
+Pub. L. 92–607, ch. V, §506(k), formerly §506(h), Oct. 31, 1972, 86 Stat. 1507, renumbered §506(i) by Pub. L. 95–391, title I, §108(a), Sept. 30, 1978, 92 Stat. 773, renumbered §506(j) by Pub. L. 96–304, title I, §101, July 8, 1980, 94 Stat. 889, and renumbered §506(k) by Pub. L. 97–276, §101(e), Oct. 2, 1982, 96 Stat. 1189, provided that theamendment made by that section is effective Jan. 1, 1973.
 
 #### Additional Allowances
 

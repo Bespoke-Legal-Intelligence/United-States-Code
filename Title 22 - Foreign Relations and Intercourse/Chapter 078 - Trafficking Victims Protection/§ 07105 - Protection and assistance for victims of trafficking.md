@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of State and the Administrator of the United States Agency for International Development, in consultation with appropriate nongovernmental organizations, shall establish and carry out programs and initiatives in foreign countries to assist in the safe integration, reintegration, or resettlement, as appropriate, of victims of trafficking. Such programs and initiatives shall be designed to meet the appropriate assistance needs of such persons and their children, as identified by the Task Force, and shall be carried out in a manner which takes into account the cross-border, regional, and transnational aspects of trafficking in persons. In addition, such programs and initiatives shall, to themaximum extent practicable, include the following:
+&emsp;The Secretary of State and the Administrator of the United States Agency for International Development, in consultation withappropriate nongovernmental organizations, shall establish and carry out programs and initiatives in foreign countries to assist in the safe integration, reintegration, or resettlement, as appropriate, of victims of trafficking. Such programs and initiatives shall be designed to meet the appropriate assistance needs of such persons and their children, as identified by the Task Force, and shall be carried out in a manner which takes into account the cross-border, regional, and transnational aspects of trafficking in persons. In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:
 
 &emsp;&emsp;(A) Support for local in-country nongovernmental organization-operated hotlines, culturally and linguistically appropriate protective shelters, and regional and international nongovernmental organization networks and databases on trafficking, including support to assist nongovernmental organizations in establishing service centers and systems that are mobile and extend beyond large cities.
 
@@ -42,7 +42,13 @@
 
 #### (ii) National human trafficking hotline
 
-&emsp;&emsp;&emsp;Beginning in fiscal year 2017, and in each fiscal year thereafter, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons. The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings.
+&emsp;&emsp;&emsp;Beginning in fiscal year 2017, and in each fiscal year thereafter, the Secretary of Health and Human Services shall make grants for a national communication system to assist victims of severe forms of trafficking in persons in communicating with service providers. The Secretary shall give priority to grant applicants that have experience in providing telephone services to victims of severe forms of trafficking in persons. The contact information of the national human trafficking hotline (including options to reach out to the hotline such as through phone, text, or TTY) shall be posted as follows:
+
+&emsp;&emsp;&emsp;&emsp;(I) In a visible place in all Federal buildings.
+
+&emsp;&emsp;&emsp;&emsp;(II) The Secretary of Transportation, in consultation with the Secretary of Health and Human Services, shall seek to coordinate with the owners and operators of aircraft, airports, over-the road buses, bus stations, passenger trains, and passenger railroad stations to place the contact information of the national human trafficking hotline in the restrooms of each such aircraft, airport, over the-road bus, bus station, passenger train, and passenger railroad station operating within the United States.
+
+&emsp;&emsp;&emsp;&emsp;(III) The Secretary of Homeland Security, in consultation with the Secretary of Health and Human Services and in coordination with the heads of such other Federal agencies as may be appropriate, shall place the contact information of the national human trafficking hotline at each port of entry.
 
 #### (C) Definition of victim of a severe form of trafficking in persons
 
@@ -96,7 +102,7 @@
 
 #### (i) Determination
 
-&emsp;&emsp;&emsp;Upon receiving credible information that a child described in subparagraph (C)(ii)(I) who is seeking assistance under this paragraph may have been subjected to a severe form of trafficking in persons, the Secretary of Health and Human Services shall promptly determine if the child is eligible for interim assistance under this paragraph. The Secretary shall have exclusive authority to make interim eligibility determinations under this clause. A determination of interim eligibility under this clause shall not affect the independent determination whether a child is a victim of a severe form of trafficking.
+&emsp;&emsp;&emsp;Upon receiving credible information that a child described in subparagraph (C)(ii)(I) who is seeking assistance under this paragraph may have been subjected to a severe form of trafficking in persons, the Secretary of Health and Human Services shall promptly determine if the child is eligible for interim assistance under this paragraph. The Secretary shall have exclusiveauthority to make interim eligibility determinations under this clause. A determination of interim eligibility under this clause shall not affect the independent determination whether a child is a victim of a severe form of trafficking.
 
 #### (ii) Notification
 
@@ -226,7 +232,7 @@ Not later than 180 days after October 28, 2000, the Attorney General, the Secret
 
 #### (A) In general
 
-&emsp;&emsp;Appropriate personnel of the Department of State, including members of the Service (as such term is defined in section 3903 of this title), the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims.
+&emsp;&emsp;Appropriate personnel of the Department of State, including members of the Service (as such term is defined in section 3903 of this title), the Department of Homeland Security, the Department of Health and Human Services, the Department of Labor, the Equal Employment Opportunity Commission, and the Department of Justice shall be trained in identifying victims of severe forms of trafficking and providing for the protection of such victims, including juvenile victims. The Attorney General and the Secretary of Health and Human Services, in consultation with the Secretary of Labor, shall provide training to State and local officials to improve the identification and protection of such victims in order to fulfill the purposes described in section 20708 <sup>2</sup> of title 34.
 
 #### (B) Training components
 
@@ -236,7 +242,7 @@ Not later than 180 days after October 28, 2000, the Attorney General, the Secret
 
 &emsp;&emsp;&emsp;(ii) specific trafficking-in-persons briefings for all ambassadors and deputy chiefs of mission before such individuals depart for their posts;
 
-&emsp;&emsp;&emsp;(iii) at least annual reminders to all personnel referred to in clauses (i) and (ii), including appropriate personnel from other Federal departments and agencies, at each diplomatic or consular post of the Department of State located outside the United States of—
+&emsp;&emsp;&emsp;(iii) at least annual reminders to all personnel referred to in clauses (i) and (ii), including appropriate personnel from other Federal departments and agencies, at eachdiplomatic or consular post of the Department of State located outside the United States of—
 
 &emsp;&emsp;&emsp;&emsp;(I) key problems, threats, methods, and warning signs of trafficking in persons specific to the country or jurisdiction in which each such post is located; and
 
@@ -256,7 +262,7 @@ Nothing in subsection (c) shall be construed as creating any private cause of ac
 
 &emsp;Nothing in this section, or in the amendments made by this section, shall be construed as prohibiting the Secretary of Homeland Security from instituting removal proceedings under section 1229a of title 8 against an alien admitted as a nonimmigrant under section 1101(a)(15)(T)(i) of title 8, as added by subsection (e), for conduct committed after the alien's admission into the United States, or for conduct or a condition that was not disclosed to the Secretary of Homeland Security prior to the alien's admission as a nonimmigrant under such section 1101(a)(15)(T)(i) of title 8.
 
-#### (f) <sup>2</sup> Assistance for United States citizens and lawful permanent residents
+#### (f) <sup>3</sup> Assistance for United States citizens and lawful permanent residents
 
 #### (1) In general
 
@@ -282,13 +288,13 @@ Nothing in subsection (c) shall be construed as creating any private cause of ac
 
 &emsp;&emsp;The Federal share of a grant awarded under this paragraph may not exceed 75 percent of the total costs of the projects described in the application submitted by the grantee.
 
-#### (f) <sup>2</sup> Omitted
+#### (f) <sup>3</sup> Omitted
 
 #### (g) Annual reports
 
 On or before October 31 of each year, the Secretary of Homeland Security shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e), or who were unable to adjust their status under section 1255(l) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(o)(2) or 1255(l)(4)(A) of title 8.
 
-(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146; Pub. L. 114–22, title I, §102, title II, §§224, 231, title VI, §603, May 29, 2015, 129 Stat. 230, 250, 259; Pub. L. 114–271, §1(a), (b), Dec. 14, 2016, 130 Stat. 1398; Pub. L. 115–392, §18(b), Dec. 21, 2018, 132 Stat. 5258; Pub. L. 115–393, title III, §302, title V, §501(c), Dec. 21, 2018, 132 Stat. 5272, 5276; Pub. L. 115–425, title I, §103, Jan. 8, 2019, 132 Stat. 5475.)
+(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409; Pub. L. 108–193, §§4(a)(1)–(3), 6(a)(2), 8(b)(2), Dec. 19, 2003, 117 Stat. 2877, 2880, 2887; Pub. L. 109–162, title VIII, §804, Jan. 5, 2006, 119 Stat. 3055; Pub. L. 109–164, title I, §102(a), Jan. 10, 2006, 119 Stat. 3560; Pub. L. 109–164, title II, §213(c), formerly Pub. L. 115–393, title V, §501(c), Dec. 21, 2018, 132 Stat. 5276, renumbered §213(c) of Pub. L. 109–164 by Pub. L. 117–347, title I, §106(b)(3), Jan. 5, 2023, 136 Stat. 6205; Pub. L. 110–457, title I, §104, title II, §§205(a)(1), 212, 213(a)(1), (3), Dec. 23, 2008, 122 Stat. 5046, 5060, 5063, 5064, 5066; Pub. L. 113–4, title XII, §§1203(b), 1234, Mar. 7, 2013, 127 Stat. 139, 146; Pub. L. 114–22, title I, §102, title II, §§224, 231, title VI, §603, May 29, 2015, 129 Stat. 230, 250, 259; Pub. L. 114–271, §1(a), (b), Dec. 14, 2016, 130 Stat. 1398; Pub. L. 115–392, §18(b), Dec. 21, 2018, 132 Stat. 5258; Pub. L. 115–393, title III, §302, Dec. 21, 2018, 132 Stat. 5272; Pub. L. 115–425, title I, §103, Jan. 8, 2019, 132 Stat. 5475; Pub. L. 117–301, §2, Dec. 27, 2022, 136 Stat. 4382; Pub. L. 117–347, title I, §101(b), Jan. 5, 2023, 136 Stat. 6200.)
 
 #### <b>Editorial Notes</b>
 
@@ -300,6 +306,8 @@ The Personal Responsibility and Work Opportunity Reconciliation Act of 1996, ref
 
 Section 7102(8) of this title as in effect on October 28, 2000, referred to in subsec. (b)(1)(C)(i), means section 7102(8) of this title prior to the amendments made by Pub. L. 113–4, title XII, §1212(b)(1)(A), Mar. 7, 2013, 127 Stat. 143, and Pub. L. 115–427, §2(1), Jan. 9, 2019, 132 Stat. 5503. As amended, par. (8) of section 7102 of this title was redesignated as par. (11).
 
+Section 20708 of title 34, referred to in subsec. (c)(4)(A), was in the original a reference to section 111 of the Violence Against Women and Department of Justice Reauthorization Act of 2005, Pub. L. 109–162. Section 111 of Pub. L. 109–162 was redesignated as section 208 of the Trafficking Victims Protection Reauthorization Act of 2005, Pub. L. 109–164, and is classified to section 20708 of Title 34, Crime Control and Law Enforcement.
+
 This Act, referred to in subsec. (c)(4)(B)(i), is the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 For the amendments made by this section, referred to in subsec. (e)(5), see Codification note below.
@@ -310,13 +318,17 @@ Section is comprised of section 107 of Pub. L. 106–386. Subsec. (e)(1)–(4) o
 
 #### Amendments
 
-<b>2019</b>—Subsec. (b)(2)(A). Pub. L. 115–425 substituted "programs for victims of human trafficking, including programs that provide trauma-informed care or housing options to such victims who are—" and cls. (i) to\(iii) for "programs for victims of trafficking, including programs that provide housing to victims of trafficking."
+<b>2023</b>—Subsec. (c)(4)(A). Pub. L. 117–347, §101(b), inserted "in order to fulfill the purposes described in section 20708 of title 34" before period at end.
+
+<b>2022</b>—Subsec. (b)(1)(B)(ii). Pub. L. 117–301 substituted "The contact information of the national human trafficking hotline (including options to reach out to the hotline such as through phone, text, or TTY) shall be posted as follows:" and subcls. (I) to (III) for "The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings."
+
+<b>2019</b>—Subsec. (b)(2)(A). Pub. L. 115–425 substituted "programs for victims of human trafficking, including programs that provide trauma-informed care or housing options to such victims who are—" and cls. (i) to (iii) for "programs for victims of trafficking, including programs that provide housing to victims of trafficking."
 
 <b>2018</b>—Subsec. (b)(1)(B)(ii). Pub. L. 115–392 inserted at end "The number of the national human trafficking hotline described in this clause shall be posted in a visible place in all Federal buildings."
 
 Subsec. (b)(2)(D). Pub. L. 115–393, §302, added subpar. (D).
 
-Subsec. (c)(4)(B)(iv). Pub. L. 115–393, §501(c), added cl. (iv).
+Subsec. (c)(4)(B)(iv). Pub. L. 109–164, §213(c), formerly Pub. L. 115–393, §501(c), as renumbered by Pub. L. 117–347, §101(b), added cl. (iv).
 
 <b>2016</b>—Subsec. (b)(1)(B). Pub. L. 114–271, §1(b), amended directory language of Pub. L. 114–22, §603. See 2015 Amendment note below.
 
@@ -352,7 +364,7 @@ Subsec. (c)(4). Pub. L. 110–457, §212(b), inserted ", the Department of Home
 
 Subsec. (f). Pub. L. 110–457, §213(a)(1), added subsec. (f) relating to assistance for United States citizens and lawful permanent residents.
 
-<b>2006</b>—Subsec. (b)(1)(E). Pub. L. 109–162, §804(b)(1), (2), which directed amendment of cl. (i) by inserting "and the Secretary of Homeland Security" after "Attorney General" in introductory provisions and in subcl. (II)(bb) and the amendment of cl. (ii) by inserting "Secretary of Homeland Security" after "Attorney General", could not be executed because the words "Attorney General" did not appear subsequent to the amendment by Pub. L. 109–162, §804(a)(1). See below.
+<b>2006</b>—Subsec. (b)(1)(E). Pub. L. 109–162, §804(b)(1), (2), which directed amendment of cl. (i) by inserting "andthe Secretary of Homeland Security" after "Attorney General" in introductory provisions and in subcl. (II)(bb) and the amendment of cl. (ii) by inserting "Secretary of Homeland Security" after "Attorney General", could not be executed because the words "Attorney General" did not appear subsequent to the amendment by Pub. L. 109–162, §804(a)(1). See below.
 
 Pub. L. 109–162, §804(a)(1), substituted "Secretary of Homeland Security" for "Attorney General" wherever appearing.
 
@@ -360,7 +372,7 @@ Subsec. (b)(1)(E)(iii)(IV). Pub. L. 109–162, §804(b)(3), added subcl. (IV).
 
 Subsec. (c). Pub. L. 109–162, §804(a)(2), inserted ", the Secretary of Homeland Security" after "Attorney General" in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 109–164 inserted at end "To the extent practicable, victims of severe forms of trafficking shall have access to information about federally funded or administered anti-trafficking programs that provide services to victims of severe forms of trafficking.".
+Subsec. (c)(2). Pub. L. 109–164 inserted at end "To the extent practicable, victims of severe forms of trafficking shall have access to information about federally funded or administered anti-trafficking programs that provide services to victims of severe forms of trafficking."
 
 Subsec. (e)(5). Pub. L. 109–162, §804(a)(1), (c), made identical amendments, substituting "Secretary of Homeland Security" for "Attorney General" in two places.
 
@@ -454,5 +466,7 @@ Report.—Not later than one year after the date on which the first pilot progra
 
 <i><sup>1</sup></i><i> So in original. Probably should be "forms".</i>
 
-<i><sup>2</sup></i><i> So in original. Two subsecs. (f) have been enacted.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Two subsecs. (f) have been enacted.</i>
 

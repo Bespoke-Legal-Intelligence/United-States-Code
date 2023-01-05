@@ -1,6 +1,6 @@
 ### §§2491 to 2494. Repealed. Pub. L. 91–230, title VI, §662(1), Apr. 13, 1970, 84 Stat. 188
 
-Section 2491, Pub. L. 85–905, §1, Sept. 2, 1958, 72 Stat. 1742; Pub. L. 87–715, §1(a), Sept. 28, 1962, 76 Stat. 654;Pub. L. 89–258, Oct. 19, 1965, 79 Stat. 983; Pub. L. 90–247, title I, §155(a), Jan. 2, 1968, 81 Stat. 804, contained statement of purposes for the provisions.
+Section 2491, Pub. L. 85–905, §1, Sept. 2, 1958, 72 Stat. 1742; Pub. L. 87–715, §1(a), Sept. 28, 1962, 76 Stat. 654; Pub. L. 89–258, Oct. 19, 1965, 79 Stat. 983; Pub. L. 90–247, title I, §155(a), Jan. 2, 1968, 81 Stat. 804, contained statement of purposes for the provisions.
 
 Section 2492, Pub. L. 85–905, §2, Sept. 2, 1958, 72 Stat. 1742; Pub. L. 89–258, Oct. 19, 1965, 79 Stat. 983; Pub. L. 90–247, title I, §155(b), Jan. 2, 1968, 81 Stat. 805; Pub. L. 91–61, §1(2), Aug. 20, 1969, 83 Stat. 103, defined "Secretary", "United States", "deaf person", "handicapped", and "construction".
 

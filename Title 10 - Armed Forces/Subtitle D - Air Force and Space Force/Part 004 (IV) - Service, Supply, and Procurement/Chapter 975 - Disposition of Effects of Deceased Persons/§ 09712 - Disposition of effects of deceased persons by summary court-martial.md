@@ -8,9 +8,9 @@
 
 > the commanding officer of the place or command shall permit the legal representative or the surviving spouse of the deceased, if present, to take possession of the effects of the deceased that are then at the air base or in quarters.
 
-(b) If there is no legal representative or surviving spouse present, the commanding officer shall direct a summary court-martial to collect the effects of the deceased that are then at the air base or in quarters.
+(b) If there is no legal representative or surviving spouse present, the commanding officer shall direct a summary court-martial to collectthe effects of the deceased that are then at the air base or in quarters.
 
-(c) The summary court-martial may collect debts due the decedent's estate by local debtors, pay undisputed local creditors of the deceased to the extent permitted by money of the deceased in the court's possession, and shall take receiptsfor those payments, to be filed with the court's final report to the Department of the Air Force.
+(c) The summary court-martial may collect debts due the decedent's estate by local debtors, pay undisputed local creditors of the deceased to the extent permitted by money of the deceased in the court's possession, and shall take receipts for those payments, to be filed with the court's final report to the Department of the Air Force.
 
 (d) As soon as practicable after the collection of the effects and money of the deceased, the summary court-martial shall send them at the expense of the United States to the living person highest on the following list who can be found by the court:
 

@@ -48,7 +48,7 @@ The Director of the Institute shall act as the primary Federal official with res
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this section and other applicable law, the Director of NIH, the Director of the Institute, and the directors of the other agencies of the National Institutes of Health in collaboration (and in consultation with the advisory council for the Institute) shall—
+&emsp;Subject to the provisions of this section and other applicable law, the Director of NIH, theDirector of the Institute, and the directors of the other agencies of the National Institutes of Health in collaboration (and in consultation with the advisory council for the Institute) shall—
 
 &emsp;&emsp;(A) establish a comprehensive plan and budget for the conduct and support of all minority health disparities research and other health disparities research activities of the agencies of the National Institutes of Health (which plan and budget shall be first established under this subsection not later than 12 months after November 22, 2000);
 
@@ -94,9 +94,9 @@ The Director of the Institute shall work with the Director of NIH and the direct
 
 &emsp;The Director of the Institute may carry out a program to facilitate minority health disparities research and other health disparities research by providing for research endowments—
 
-&emsp;&emsp;(1) <sup>1</sup> at centers of excellence under section 293 of this title; and
+&emsp;&emsp;(A) at current or former centers of excellence under section 293 of this title; and
 
-&emsp;&emsp;(2) <sup>2</sup> at centers of excellence under section 285t–1 of this title.
+&emsp;&emsp;(B) at current or former centers of excellence under section 285t–1 of this title.
 
 #### (2) Eligibility
 
@@ -120,7 +120,7 @@ In carrying out subsection (a), the Director of the Institute—
 
 #### (1) In general
 
-&emsp;The Secretary shall, in accordance with section 284a of this title, establish an advisory council to advise, assist, consult with, and make recommendations to the Director of the Institute on matters relating to the activities described in subsection (a), and with respect to such activities to carry out any other functions described in section 284a of this title for advisory councils under such section. Functions under the preceding sentence shall include making recommendations on budgetary allocations made in the plan under subsection (f), and shall include reviewing reports under subsection (k) before the reports are submitted under such subsection.
+&emsp;The Secretary shall, in accordance with section 284a of this title, establish an advisory council to advise, assist, consult with, and make recommendations to the Director of the Institute on matters relating to the activities described in subsection (a), and with respect to such activities to carry out any other functions described in section 284a of this title for advisory councils under such section. Functions under the preceding sentence shall include making recommendations on budgetary allocations made in the plan under subsection (f), and shall include reviewing reports undersubsection (k) before the reports are submitted under such subsection.
 
 #### (2) Membership
 
@@ -130,7 +130,7 @@ In carrying out subsection (a), the Director of the Institute—
 
 The Director of the Institute, as the primary Federal official with responsibility for coordinating all research and activities conducted or supported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review, and evaluate research and other activities conducted or supported by the national research institutes and national centers. The Director of the Institute may foster partnerships between the national research institutes and national centers and may encourage the funding of collaborative research projects to achieve the goals of the National Institutes of Health that are related to minority health and health disparities.
 
-(July 1, 1944, ch. 373, title IV, §464z–3, formerly §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L. 109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §464z–3 and amended Pub. L. 111–148, title X, §10334(c)(1)(D), (2), Mar. 23, 2010, 124 Stat. 973; Pub. L. 112–74, div. F, title II, §221(d)(3), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 114–255, div. A, title II, §2038(f), Dec. 13, 2016, 130 Stat. 1066.)
+(July 1, 1944, ch. 373, title IV, §464z–3, formerly §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L. 109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §464z–3 and amended Pub. L. 111–148, title X, §10334(c)(1)(D), (2), Mar. 23, 2010, 124 Stat. 973; Pub. L. 112–74, div. F, title II, §221(d)(3), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 114–255, div. A, title II, §2038(f), Dec. 13, 2016, 130 Stat. 1066; Pub. L. 117–104, §2, Mar. 18, 2022, 136 Stat. 1117.)
 
 #### <b>Editorial Notes</b>
 
@@ -139,6 +139,12 @@ The Director of the Institute, as the primary Federal official with responsibili
 Section was formerly classified to section 287c–31 of this title prior to renumbering by Pub. L. 111–148.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (h)(1). Pub. L. 117–104 amended par. (1) generally. Prior to amendment, text read as follows: "The Director of the Institute may carry out a program to facilitate minority health disparities research and other health disparities research by providing for research endowments—
+
+&emsp;"(1) at centers of excellence under section 293 of this title; and
+
+&emsp;"(2) at centers of excellence under section 285t–1 of this title."
 
 <b>2016</b>—Subsec. (h). Pub. L. 114–255, §2038(f)(1), redesignated subsec. (h) relating to interagency coordination as (k).
 
@@ -236,11 +242,7 @@ Dissemination of Information on Health Disparities.—The Secretary shall develo
 
 #### Termination of Advisory Councils
 
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
-
-<i><sup>1</sup></i><i> So in original. Probably should be "(A)".</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be "(B)".</i>
 

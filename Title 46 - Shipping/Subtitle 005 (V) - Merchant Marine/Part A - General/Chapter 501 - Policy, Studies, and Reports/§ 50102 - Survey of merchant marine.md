@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall survey the merchant marine of theUnited States to determine whether replacements and additions are required to carry out the objectives and policy of section 50101 of this title. The Secretary shall study, perfect, and adopt a long-range program for replacements and additions that will result, as soon as practicable, in—
+In General.—The Secretary of Transportation shall survey the merchant marine of the United States to determine whether replacements and additions are required to carry out the objectives and policy of section 50101 of this title. The Secretary shall study, perfect, and adopt a long-range program for replacements and additions that will result, as soon as practicable, in—
 
 &emsp;(1) an adequate and well-balanced merchant fleet, including vessels of all types, that will provide shipping service essential for maintaining the flow of foreign commerce by vessels designed to be readily and quickly convertible into transport and supply vessels in a time of national emergency;
 

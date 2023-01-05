@@ -8,7 +8,7 @@
 
 #### (2) Inclusions
 
-&emsp;The program shall include grants and loan guarantees under section 16513 of this title to automobile manufacturers and suppliers andhybrid component manufacturers to encourage domestic production of efficient hybrid, plug-in electric hybrid, plug-in electric drive, and advanced diesel vehicles.
+&emsp;The program shall include grants and loan guarantees under section 16513 of this title to automobile manufacturers and suppliers and hybrid component manufacturers to encourage domestic production of efficient hybrid, plug-in electric hybrid, plug-in electric drive, and advanced diesel vehicles.
 
 #### (3) Priority
 

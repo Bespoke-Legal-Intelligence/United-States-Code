@@ -14,7 +14,7 @@ Not later than eighteen months after October 21, 1976, and after notice and oppo
 
 &emsp;(5) use of a manifest system and any other reasonable means necessary to assure that all such hazardous waste generated is designated for treatment, storage, or disposal in, and arrives at, treatment, storage, or disposal facilities (other than facilities on the premises where the waste is generated) for which a permit has been issued as provided in this subchapter, or pursuant to title I of the Marine Protection, Research, and Sanctuaries Act (86 Stat. 1052) \[33 U.S.C. 1411 et seq.\]; and
 
-&emsp;(6) submission of reports to the Administrator (or the State agency in any case inwhich such agency carries out a permit program pursuant to this subchapter) at least once every two years, setting out—
+&emsp;(6) submission of reports to the Administrator (or the State agency in any case in which such agency carries out a permit program pursuant to this subchapter) at least once every two years, setting out—
 
 &emsp;&emsp;(A) the quantities and nature of hazardous waste identified or listed under this subchapter that he has generated during the year;
 
@@ -38,7 +38,7 @@ Effective September 1, 1985, the manifest required by subsection (a)(5) shall co
 
 #### References in Text
 
-The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)(5), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
+The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)(5), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
 
 #### Amendments
 

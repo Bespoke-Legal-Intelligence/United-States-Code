@@ -2,7 +2,7 @@
 
 #### (a) Implementation by Secretary of the Interior
 
-The Secretary of the Interior shall implement the salinity control policy adopted for the Colorado River in the "Conclusions and Recommendations" published in the Proceedings of the Reconvened Seventh Session of the Conference in the Matter of Pollution of the Interstate Waters of the Colorado River and Its Tributaries in the States of California, Colorado, Utah, Arizona, Nevada, New Mexico, and Wyoming, held in Denver, Colorado, on April 26–27, 1972, under the authority of section 10 of the Federal Water Pollution Control Act (33 U.S.C. 1160), and approved by the Administrator of the Environmental Protection Agency on June 9, 1972.
+The Secretary of the Interior shall implement the salinity control policy adopted for the Colorado River in the "Conclusions and Recommendations" published in the Proceedings of the Reconvened Seventh Session of the Conference in the Matter of Pollution of the Interstate Waters of the Colorado River and Its Tributaries in the States of California, Colorado, Utah, Arizona, Nevada, New Mexico, and Wyoming, held in Denver, Colorado, on April 26–27, 1972, under the authority of section 10 of the Federal Water Pollution Control Act (33 U.S.C.1160), and approved by the Administrator of the Environmental Protection Agency on June 9, 1972.
 
 #### (b) Expeditious investigation, planning, and implementation of salinity control program
 
@@ -18,7 +18,7 @@ In conformity with subsection (a) and the authority of the Environmental Protect
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec. (a), which was formerly classified to chapter23 (§1151 et seq.) of Title 33, Navigation and Navigable Waters, was revised generally by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816, and is classified generally to chapter 25 (§1251 et seq.) of Title 33.
+The Federal Water Pollution Control Act, referred to in subsec. (a), which was formerly classified to chapter 23 (§1151 et seq.) of Title 33, Navigation and Navigable Waters, was revised generally by Pub. L. 92–500, Oct. 18, 1972, 86 Stat. 816, and is classified generally to chapter 25 (§1251 et seq.) of Title 33.
 
 #### Amendments
 

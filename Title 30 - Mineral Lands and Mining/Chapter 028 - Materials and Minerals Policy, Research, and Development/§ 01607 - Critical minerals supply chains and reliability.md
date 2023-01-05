@@ -20,7 +20,7 @@ It is the sense of Congress that—
 
 To improve the quality and timeliness of Federal permitting and review processes with respect to critical mineral production on Federal land, the Secretary of the Interior, acting through the Director of the Bureau of Land Management, and the Secretary of Agriculture, acting through the Chief of the Forest Service (referred to in this section as the "Secretaries"), to the maximum extent practicable, shall complete the Federal permitting and review processes with maximum efficiency and effectiveness, while supporting vital economic growth, by—
 
-&emsp;(1) establishing and adhering to timelines and schedules for the consideration of, andfinal decisions regarding, applications, operating plans, leases, licenses, permits, and other use authorizations for critical mineral-related activities on Federal land;
+&emsp;(1) establishing and adhering to timelines and schedules for the consideration of, and final decisions regarding, applications, operating plans, leases, licenses, permits, and other use authorizations for critical mineral-related activities on Federal land;
 
 &emsp;(2) establishing clear, quantifiable, and temporal permitting performance goals and tracking progress against those goals;
 
@@ -66,7 +66,7 @@ Not later than 1 year after November 15, 2021, the Secretaries shall submit to C
 
 #### (e) Performance metric
 
-Not later than 90 days after the date of submission of the report under subsection (d), and after providing public notice and an opportunity to comment, the Secretaries, using as a baseline the period of time quantified under paragraph (3) of that subsection, shall develop and publish a performance metric for evaluating the progress made by the Executive branch to expedite the permitting of activities that will increase exploration for, and development of, domestic critical minerals, while maintaining environmental standards.
+Not later than 90 days after the date of submission of the report under subsection (d), and after providing public notice and an opportunity to comment, the Secretaries, using as a baselinethe period of time quantified under paragraph (3) of that subsection, shall develop and publish a performance metric for evaluating the progress made by the Executive branch to expedite the permitting of activities that will increase exploration for, and development of, domestic critical minerals, while maintaining environmental standards.
 
 #### (f) Annual reports
 

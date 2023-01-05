@@ -26,7 +26,7 @@
 
 &emsp;(B) develop specific objectives that the joint force should be ready to achieve, and conduct assessments of the capability (in terms of both capacity and readiness) of the joint force to achieve such objectives.
 
-(c) The Under Secretary takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.
+(c) The Under Secretary takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, theUnder Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.
 
 (Added Pub. L. 99–433, title I, §105(1), Oct. 1, 1986, 100 Stat. 997; amended Pub. L. 99–500, §101(c) \[title X, §903(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–132, and Pub. L. 99–591, §101(c) \[title X, §903(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–132; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(a), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 105–261, div. A, title XV, §1521(a), Oct. 17, 1998, 112 Stat. 2178; Pub. L. 106–65, div. A, title IX, §911(d)(1), Oct. 5, 1999, 113 Stat. 719; Pub. L. 107–314, div. A, title IX, §902(b), Dec. 2, 2002, 116 Stat. 2620; Pub. L. 110–181, div. A, title IX, §903(c), Jan. 28, 2008, 122 Stat. 273; Pub. L. 113–291, div. A, title IX, §901(j)(2)(B), Dec. 19, 2014, 128 Stat. 3467; Pub. L. 115–91, div. A, title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597; Pub. L. 115–232, div. A, title IX, §902, Aug. 13, 2018, 132 Stat. 1921; Pub. L. 116–92, div. A, title IX, §902(3), Dec. 20, 2019, 133 Stat. 1542.)
 
@@ -140,7 +140,7 @@ Coordination.—The senior civilian official designated under subsection (a) sha
 
 "(d)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 18, 2018\], the seniorcivilian official designated under subsection (a) shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that describes—
+Report.—Not later than 180 days after the date of the enactment of this Act \[Aug. 18, 2018\], the senior civilian official designated under subsection (a) shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that describes—
 
 &emsp;"(1) the policy developed by the senior civilian official under that subsection; and
 

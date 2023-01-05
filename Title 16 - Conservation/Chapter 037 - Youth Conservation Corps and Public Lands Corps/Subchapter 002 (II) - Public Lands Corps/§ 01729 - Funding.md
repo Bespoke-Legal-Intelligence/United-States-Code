@@ -18,7 +18,7 @@ In order to carry out the Public Lands Corps or to support resource assistants a
 
 Amounts appropriated pursuant to the authorization of appropriations under section 1730 of this title are in addition to amounts allocated to the Public Lands Corps through other Federal programs or projects.
 
-(Pub. L. 91–378, title II, §212, formerly §210, as added Pub. L. 103–82, title I, §105(6), Sept. 21,1993, 107 Stat. 853; amended Pub. L. 109–154, §2(f)(1), (g)(4), Dec. 30, 2005, 119 Stat. 2892, 2893; renumbered §212 and amended Pub. L. 116–9, title IX, §9003(f)(1), (3), Mar. 12, 2019, 133 Stat. 835.)
+(Pub. L. 91–378, title II, §212, formerly §210, as added Pub. L. 103–82, title I, §105(6), Sept. 21, 1993, 107 Stat. 853; amended Pub. L. 109–154, §2(f)(1), (g)(4), Dec. 30, 2005, 119 Stat. 2892, 2893; renumbered §212 and amended Pub. L. 116–9, title IX, §9003(f)(1), (3), Mar. 12, 2019, 133 Stat. 835.)
 
 #### <b>Editorial Notes</b>
 

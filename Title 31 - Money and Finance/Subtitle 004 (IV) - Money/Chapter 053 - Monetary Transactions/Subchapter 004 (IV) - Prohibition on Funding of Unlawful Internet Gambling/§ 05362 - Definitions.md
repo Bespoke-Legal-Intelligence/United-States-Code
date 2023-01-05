@@ -62,7 +62,7 @@ Designated payment system.—The term "designated payment system" means any syst
 
 &emsp;(4)
 
-Financial transaction provider.—The term "financial transaction provider" means a creditor, credit card issuer, financial institution, operator of a terminal at which an electronic fund transfer may be initiated, money transmitting business, or international, national, regional, or local payment network utilized to effect a credit transaction, electronic fund transfer, stored value product transaction, or money transmitting service, or a participant in such network, or other participant in a designated payment system.
+Financial transaction provider.—The term "financial transaction provider" means a creditor, credit card issuer, financial institution, operator of a terminal at which an electronic fund transfer may be initiated, money transmitting business, or international, national, regional, or local payment network utilized to effect a credit transaction, electronic fund transfer, stored value producttransaction, or money transmitting service, or a participant in such network, or other participant in a designated payment system.
 
 &emsp;(5)
 
@@ -210,7 +210,7 @@ The Commodity Exchange Act, referred to in par. (1)(E)(ii), (iv)(II), is act Sep
 
 The Interstate Horseracing Act of 1978, referred to in par. (10)(B)(iii)(I), (C)(iv)(I), (D)(i), (iii), is Pub. L. 95–515, Oct. 25, 1978, 92 Stat. 1811, which is classified generally to chapter 57 (§3001 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 15 and Tables.
 
-The Gambling Devices Transportation Act, referred to in par. (10)(B)(iii)(III), (C)(iv)(III), is act Jan. 2, 1951, ch. 1194, 64 Stat. 1134, which is classified generally to chapter 24 (§1171 et seq.) of Title 15, Commerce andTrade. For complete classification of this Act to the Code, see Short Title note set out under section 1171 of Title 15 and Tables.
+The Gambling Devices Transportation Act, referred to in par. (10)(B)(iii)(III), (C)(iv)(III), is act Jan. 2, 1951, ch. 1194, 64 Stat. 1134, which is classified generally to chapter 24 (§1171 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1171 of Title 15 and Tables.
 
 The Indian Gaming Regulatory Act, referred to in par. (10)(B)(iii)(IV), (C)(i), (iv)(IV), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§2701 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 25 and Tables.
 

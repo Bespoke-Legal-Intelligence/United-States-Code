@@ -48,7 +48,7 @@ Antitrust Immunity.—
 
 &emsp;(1)
 
-In general.—Unless, within 5 days after receiving notice from the Secretary of theSecretary's intention to exercise authority under this subsection, the Attorney General submits to the Secretary a written objection to such action, including reasons for such objection, the Secretary may exempt an air carrier's or foreign air carrier's activities that are necessary to participate in the pilot program under this section from the antitrust laws for the sole purpose of participating in the pilot program. Such exemption shall not extend to any discussions, agreements, or activities outside the scope of the pilot program.
+In general.—Unless, within 5 days after receiving notice from the Secretary of the Secretary's intention to exercise authority under this subsection, the Attorney General submits to the Secretary a written objection to such action, including reasons for such objection, the Secretary may exempt an air carrier's or foreign air carrier's activities that are necessary to participate in the pilot program under this section from the antitrust laws for the sole purpose of participating in the pilot program. Such exemption shall not extend to any discussions, agreements, or activities outside the scope of the pilot program.
 
 &emsp;(2)
 

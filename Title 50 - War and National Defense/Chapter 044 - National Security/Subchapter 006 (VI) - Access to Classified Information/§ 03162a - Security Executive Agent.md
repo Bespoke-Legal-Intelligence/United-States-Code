@@ -30,7 +30,7 @@ The Security Executive Agent shall—
 
 &emsp;(2) have the authority to grant exceptions to, or waivers of, national security investigative requirements, including issuing implementing or clarifying guidance, as necessary;
 
-&emsp;(3) have the authority to assign, in whole or in part, to the head of any Federal agency (solely or jointly) any of the duties of the Security Executive Agent described in subsection (b) or the authorities described in paragraphs (1) and (2), provided that the exercise of such assigned duties or authorities is subject to the oversight of the Security Executive Agent, including such terms and conditions (including approval by the Security Executive Agent) as the Security Executive Agent determines appropriate; and
+&emsp;(3) have the authority to assign, in whole or in part, to the head of any Federal agency\(solely or jointly) any of the duties of the Security Executive Agent described in subsection (b) or the authorities described in paragraphs (1) and (2), provided that the exercise of such assigned duties or authorities is subject to the oversight of the Security Executive Agent, including such terms and conditions (including approval by the Security Executive Agent) as the Security Executive Agent determines appropriate; and
 
 &emsp;(4) define and set standards for continuous vetting for continued access to classified information and for eligibility to hold a sensitive position.
 
@@ -41,4 +41,34 @@ The Security Executive Agent shall—
 #### Prior Provisions
 
 A prior section 803 of act July 26, 1947, ch. 343, was renumbered section 804 and is classified to section 3163 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Timeliness in the Administration of Polygraphs
+
+Pub. L. 117–263, div. F, title LXVI, §6604, Dec. 23, 2022, 136 Stat. 3558, provided that:
+
+"(a)
+
+Standards Required.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Director of National Intelligence shall, in the Director's capacity as the Security Executive Agent pursuant to section 803(a) of the National Security Act of 1947 (50 U.S.C. 3162a(a)), issue standards for timeliness for Federal agencies to administer polygraphs conducted for the purpose of—
+
+&emsp;&emsp;"(A) adjudicating decisions regarding eligibility for access to classified information (as defined in the procedures established pursuant to section 801(a) of the National Security Act of 1947 (50 U.S.C. 3161(a))); and
+
+&emsp;&emsp;"(B) granting reciprocity pursuant to Security Executive Agent Directive 2, or successor directive.
+
+&emsp;"(2)
+
+Publication.—The Director shall publish the standards issued under paragraph (1) in the Federal Register or such other venue as the Director considers appropriate.
+
+"(b)
+
+Report Required.—Not later than 180 days after the date of the enactment of this Act, the Director shall submit to Congress a report on how Federal agencies will comply with the standards issued under subsection (a). Such plan shall specify the resources required by Federal agencies to comply with such standards and the timeline for doing so."
+
+#### Policy on Submittal of Applications for Access to Classified Information for Certain Personnel
+
+Pub. L. 117–263, div. F, title LXVI, §6605, Dec. 23, 2022, 136 Stat. 3559, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Director of National Intelligence shall, in the Director's capacity as the Security Executive Agent pursuant to section 803(a) of the National Security Act of 1947 (50 U.S.C. 3162a(a)), issue a policy that allows a private person to submit a certain number or proportion of applications, on a nonreimbursable basis, for employee access to classified information for personnel who perform key management and oversight functions who may not merit an application due to their work under any one contract."
 

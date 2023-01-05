@@ -190,7 +190,7 @@ Implementation.—A grant recipient under this section, and the successors, assi
 
 &emsp;&emsp;&emsp;(i) shall be bound by the employee protective arrangements required under subparagraph (A); and
 
-&emsp;&emsp;&emsp;(ii) shall be responsible for the implementation of such arrangements and for the obligations under such arrangements, but may arrange for another entity totake initial responsibility for compliance with the conditions of such arrangement.
+&emsp;&emsp;&emsp;(ii) shall be responsible for the implementation of such arrangements and for the obligations under such arrangements, but may arrange for another entity to take initial responsibility for compliance with the conditions of such arrangement.
 
 (k)
 

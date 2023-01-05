@@ -1,6 +1,6 @@
 ### §2206. Regulations
 
-The Archivist shall promulgate in accordance with section 553 of title 5, United States Code,regulations necessary to carry out the provisions of this chapter. Such regulations shall include—
+The Archivist shall promulgate in accordance with section 553 of title 5, United States Code, regulations necessary to carry out the provisions of this chapter. Such regulations shall include—
 
 &emsp;(1) provisions for advance public notice and description of any Presidential records scheduled for disposal pursuant to section 2203(f)(3); <sup>1</sup>
 

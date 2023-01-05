@@ -30,7 +30,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (2) Gain in excess of depreciation
 
-&emsp;Gain (in excess of the depreciation adjustments) from the sale of depreciable personalproperty shall be sourced as if such property were inventory property.
+&emsp;Gain (in excess of the depreciation adjustments) from the sale of depreciable personal property shall be sourced as if such property were inventory property.
 
 #### (3) United States depreciation adjustments
 
@@ -228,7 +228,7 @@ For purposes of this section—
 
 #### (j) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purpose of this section, including regulations—
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purpose of this section, including regulations—
 
 &emsp;(1) relating to the treatment of losses from sales of personal property,
 
@@ -356,5 +356,5 @@ For nonapplication of amendment by section 1211(a) of Pub. L. 99–514 (enacting
 
 #### Study of Source Rules for Sales of Inventory Property
 
-Pub. L. 99–514, title XII, §1211(d), Oct. 22, 1986, 100 Stat. 2536, directed Secretary of the Treasury or his delegate to conduct a study of source rules for sales of inventory property and, not later than Sept. 30, 1987 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report of such study (together with recommendations he deemed advisable).
+Pub. L. 99–514, title XII, §1211(d), Oct. 22, 1986, 100 Stat. 2536, directed Secretary of the Treasury or hisdelegate to conduct a study of source rules for sales of inventory property and, not later than Sept. 30, 1987 (due date extended to Jan. 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559), to submit to Committee on Ways and Means of House of Representatives and Committee on Finance of Senate a report of such study (together with recommendations he deemed advisable).
 

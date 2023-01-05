@@ -46,7 +46,7 @@ For purposes of this chapter:
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–189 applicable with respect to periods of enrollment in schools of the defense dependents' education system beginning after Sept. 30,1989, see section 325(c) of Pub. L. 101–189, set out as a note under section 923 of this title.
+Amendment by Pub. L. 101–189 applicable with respect to periods of enrollment in schools of the defense dependents' education system beginning after Sept. 30, 1989, see section 325(c) of Pub. L. 101–189, set out as a note under section 923 of this title.
 
 #### <b>Executive Documents</b>
 

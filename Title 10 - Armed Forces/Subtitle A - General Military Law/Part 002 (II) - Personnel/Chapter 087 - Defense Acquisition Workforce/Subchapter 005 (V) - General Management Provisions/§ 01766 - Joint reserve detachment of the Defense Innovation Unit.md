@@ -40,7 +40,7 @@ Duties.—The Detachment shall have the following duties:
 
 &emsp;&emsp;&emsp;&emsp;(I) National Defense Strategy;
 
-&emsp;&emsp;&emsp;&emsp;(II) National Defense Science and Technology Strategy as directed under section 218 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1679); <sup>1</sup> and
+&emsp;&emsp;&emsp;&emsp;(II) National Defense Science and Technology Strategy as directed under section 218 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1679); and
 
 &emsp;&emsp;&emsp;&emsp;(III) relevant policy and guidance from the Secretary of Defense; and
 
@@ -64,7 +64,7 @@ Section 218 of the John S. McCain National Defense Authorization Act for Fiscal 
 
 <b>2021</b>—Pub. L. 116–283, §1878A(a), as added by Pub. L. 117–81, §1701(q)(2), renumbered section 2358b of this title as this section.
 
-Pub. L. 116–283, §1842(b), which directed the renumbering of section 2358b of this title as section 4064 instead of this section, was amended by Pub. L. 117–81, §1701(q)(1), (u)(3)(B), effective as if included therein, so that such renumbering was no longer directed.
+Pub. L. 116–283, §1842(b), which directed the renumbering of section 2358b of this title as section 4064 instead of this section, was amended by Pub. L. 117–81,§1701(q)(1), (u)(3)(B), effective as if included therein, so that such renumbering was no longer directed.
 
 Subsec. (a)(2). Pub. L. 116–283, §1081(a)(37), substituted "accelerate" for "to accelerate".
 
@@ -79,6 +79,4 @@ Pub. L. 117–81, §211(d), substituted "section 118c of this title" for "sectio
 Amendment by section 1701(q), (u)(3)(B) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@ It is the goal of this subtitle to provide Conrail the opportunity to become pro
 
 #### (1) Nonagreement personnel
 
-&emsp;(A) Employees who are not subject to collective bargaining agreements (hereafter in this section referred to as "nonagreement personnel") should forego wage increases and benefits in an amount proportionately equivalent to the amount foregone by agreement employees pursuant to paragraph (4) of this section, adjusted annually to reflect inflation.
+&emsp;(A) Employees who are not subject to collective bargaining agreements (hereafter in thissection referred to as "nonagreement personnel") should forego wage increases and benefits in an amount proportionately equivalent to the amount foregone by agreement employees pursuant to paragraph (4) of this section, adjusted annually to reflect inflation.
 
 &emsp;(B) After May 1, 1981, the number of nonagreement personnel should be reduced proportionately to any reduction in agreement employees (excluding reductions pursuant to the termination program under section 797a of this title).
 
@@ -32,9 +32,9 @@ It is the goal of this subtitle to provide Conrail the opportunity to become pro
 
 #### References in Text
 
-This subtitle, referred to in text, is subtitle E (§§1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, as amended, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This subtitle, referred to in text, is subtitle E (§§1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
-The Staggers Rail Act of 1980, referred to in par. (3), is Pub. L. 96–448, Oct. 14, 1980, 94 Stat. 1895, as amended. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 10101 of Title 49, Transportation, and Tables.
+The Staggers Rail Act of 1980, referred to in par. (3), is Pub. L. 96–448, Oct. 14, 1980, 94 Stat. 1895. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 10101 of Title 49, Transportation, and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

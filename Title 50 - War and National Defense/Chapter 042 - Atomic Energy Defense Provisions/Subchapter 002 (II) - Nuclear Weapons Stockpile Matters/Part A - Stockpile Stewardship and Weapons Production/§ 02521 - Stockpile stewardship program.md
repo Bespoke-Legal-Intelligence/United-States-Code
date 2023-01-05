@@ -14,7 +14,7 @@ The program shall include the following:
 
 &emsp;(1) An increased level of effort for advanced computational capabilities to enhance the simulation and modeling capabilities of the United States with respect to the performance over time of nuclear weapons.
 
-&emsp;(2) An increased level of effort for above-ground experimental programs, such ashydrotesting, high-energy lasers, inertial confinement fusion, plasma physics, and materials research.
+&emsp;(2) An increased level of effort for above-ground experimental programs, such as hydrotesting, high-energy lasers, inertial confinement fusion, plasma physics, and materials research.
 
 &emsp;(3) Support for new facilities construction projects that contribute to the experimental capabilities of the United States, such as an advanced hydrodynamics facility, the National Ignition Facility, and other facilities for above-ground experiments to assess nuclear weapons effects.
 
@@ -104,7 +104,7 @@ Briefing Requirement.—Not later than June 1, 2022, the Administrator shall pro
 
 "(c)
 
-Nuclear Security Enterprise Defined.—In this section, the term 'nuclear security enterprise' has themeaning given that term in section 4002 of the Atomic Energy Defense Act (50 U.S.C. 2501)."
+Nuclear Security Enterprise Defined.—In this section, the term 'nuclear security enterprise' has the meaning given that term in section 4002 of the Atomic Energy Defense Act (50 U.S.C. 2501)."
 
 #### Nuclear Warhead Design Competition
 

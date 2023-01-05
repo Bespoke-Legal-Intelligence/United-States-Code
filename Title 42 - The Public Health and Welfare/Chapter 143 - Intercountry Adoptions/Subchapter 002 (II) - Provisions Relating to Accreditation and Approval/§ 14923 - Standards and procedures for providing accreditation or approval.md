@@ -54,7 +54,7 @@
 
 #### (E) Liability insurance
 
-&emsp;&emsp;The agency agrees to have in force adequate liability insurance for professionalnegligence and any other insurance that the Secretary considers appropriate.
+&emsp;&emsp;The agency agrees to have in force adequate liability insurance for professional negligence and any other insurance that the Secretary considers appropriate.
 
 #### (F) Compliance with applicable rules
 

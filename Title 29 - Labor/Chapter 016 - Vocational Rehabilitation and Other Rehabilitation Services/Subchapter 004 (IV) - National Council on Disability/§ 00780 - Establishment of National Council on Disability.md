@@ -2,7 +2,7 @@
 
 #### (a) Membership; purpose
 
-(1)(A) There is established within the Federal Government a National Council on Disability (referred to in this subchapter as the "National Council"), which, subject to subparagraph (B), shall be composed of 9 members, of which—
+(1)(A) There is established within the Federal Government a National Council on Disability\(referred to in this subchapter as the "National Council"), which, subject to subparagraph (B), shall be composed of 9 members, of which—
 
 &emsp;(i) 5 shall be appointed by the President;
 

@@ -72,7 +72,7 @@ Acquisition and Acceptance of Property and Interests.—(1) An agreement with an
 
 &emsp;(iii) The exchange or donation of real property or any interest in real property.
 
-(5)(A) The agreement shall require the entity or entities to transfer to the United States, upon the request of the Secretary concerned, all or a portion of the property or interest acquired under the agreement or a lesser interest therein. No such requirement need be included in the agreement if the property or interest is being transferred to a State or another Federal agency, or the agreement requires it to be subsequently transferred to a State or another Federal agency, and the Secretary concerned determines that the laws and regulations applicable to the future use of such property or interest provide adequate assurance that the property concerned will be developed and used in a manner appropriate for purposes of this section. The Secretary shall limit such transfer request to the minimum property or interests necessary to ensure that the property concerned is developed and used in a manner appropriate for purposes of this section.
+(5)(A) The agreement shall require the entity or entities to transfer to the United States, upon the request of the Secretary concerned, all or a portion of the property or interest acquiredunder the agreement or a lesser interest therein. No such requirement need be included in the agreement if the property or interest is being transferred to a State or another Federal agency, or the agreement requires it to be subsequently transferred to a State or another Federal agency, and the Secretary concerned determines that the laws and regulations applicable to the future use of such property or interest provide adequate assurance that the property concerned will be developed and used in a manner appropriate for purposes of this section. The Secretary shall limit such transfer request to the minimum property or interests necessary to ensure that the property concerned is developed and used in a manner appropriate for purposes of this section.
 
 (B) Notwithstanding subparagraph (A), if all or a portion of the property or interest acquired under the agreement is initially or subsequently transferred to a State or another Federal agency, before that State or other Federal agency may declare the property or interest in excess to its needs or propose to exchange the property or interest, the State or other Federal agency shall give the Secretary concerned reasonable advance notice of its intent. If the Secretary concerned determines it necessary to preserve the purposes of this section, the Secretary concerned may request that administrative jurisdiction over the property be transferred to the Secretary concerned at no cost, and, upon such a request being made, the administrative jurisdiction over the property shall be transferred accordingly. If the Secretary concerned does not make such a request within a reasonable time period, all such rights of the Secretary concerned to request transfer of the property or interest shall remain available to the Secretary concerned with respect to future transfers or exchanges of the property or interest and shall bind all subsequent transferees.
 
@@ -114,7 +114,7 @@ Interagency Cooperation in Conservation and Resilience Programs to Avoid or Redu
 
 Funding.—(1) Except as provided in paragraph (2), funds authorized to be appropriated for operation and maintenance of the Army, Navy, Marine Corps, Air Force, Space Force, or Defense-wide activities may be used to enter into agreements under this section.
 
-(2) In the case of a military installation operated primarily with funds authorized to be appropriated for research, development, test, and evaluation, funds authorized to be appropriated for the Army, Navy, Marine Corps, Air Force, Space Force, or Defense-wide activities for research, development, test, and evaluation may be used to enter into agreements under this section with respect to the installation.
+(2) In the case of a military installation operated primarily with funds authorized to be appropriated for research, development, test, andevaluation, funds authorized to be appropriated for the Army, Navy, Marine Corps, Air Force, Space Force, or Defense-wide activities for research, development, test, and evaluation may be used to enter into agreements under this section with respect to the installation.
 
 (3) Funds obligated to carry out an agreement under this section shall be available for use with regard to any property in the geographic scope specified in the agreement—
 
@@ -180,7 +180,7 @@ Subsec. (d)(4)(D)(ii). Pub. L. 115–91, §2811(g)(2), substituted "10 days afte
 
 Subsec. (c). Pub. L. 112–81, §2813(2), amended subsec. (c) generally. Prior to amendment, text read as follows: "Chapter 63 of title 31 shall not apply to any agreement entered into under this section."
 
-Subsec. (d)(3). Pub. L. 112–81, §2813(3)(A), inserted ", and the monitoring and enforcement of any right, title, or interest in," after "resources on" and "andmonitoring and enforcement" after "natural resource management", and inserted at end "Any such payment by the United States—
+Subsec. (d)(3). Pub. L. 112–81, §2813(3)(A), inserted ", and the monitoring and enforcement of any right, title, or interest in," after "resources on" and "and monitoring and enforcement" after "natural resource management", and inserted at end "Any such payment by the United States—
 
 &emsp;"(A) may be paid in a lump sum and include an amount intended to cover the future costs of natural resource management and monitoring and enforcement; and
 
@@ -234,7 +234,7 @@ Pub. L. 115–232, div. B, title XXVIII, §2827(b)(2), Aug. 13, 2018, 132 Stat. 
 
 #### Termination of 2013 Amendment
 
-Pub. L. 113–66, div. A, title III, §312(b), Dec. 26, 2013, 127 Stat. 729, which provided that section 312 of Pub. L. 113–66, which amended this section, and subsec. (h) of this section would expire on Oct. 1, 2019, subject to a provision continuing any agreements existing before that date, was repealed by Pub. L. 115–91, div. A, title III, §317(f), Dec. 12, 2017, 131 Stat. 1352. Another section 317(f) of Pub. L. 115–91 is set out in a note below.
+Pub. L. 113–66, div. A, title III, §312(b), Dec. 26, 2013, 127 Stat. 729, which provided that section 312 of Pub. L. 113–66, which amended this section, and subsec. (h) of this section would expire on Oct. 1, 2019, subject to a provision continuing any agreements existing before that date, was repealed by Pub. L. 115–91, div. A, title III, §317(f), Dec. 12, 2017, 131 Stat. 1352. Another section 317(f) of Pub. L. 115–91 is set out in a note below.\]
 
 #### Termination of Reporting Requirements
 
@@ -278,7 +278,7 @@ Military installation.—The term 'military installation' has the same meaning a
 
 &emsp;"(2)
 
-State-owned national guard installation.—The term 'State-owned National Guard installation'has the same meaning as provided in section 670(3) of title 16, United States Code.
+State-owned national guard installation.—The term 'State-owned National Guard installation' has the same meaning as provided in section 670(3) of title 16, United States Code.
 
 &emsp;"(3)
 

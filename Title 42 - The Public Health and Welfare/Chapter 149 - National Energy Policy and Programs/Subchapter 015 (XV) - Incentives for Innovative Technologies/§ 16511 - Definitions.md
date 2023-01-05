@@ -24,7 +24,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "guarantee" has the meaning given the term "loan guarantee" in section 661a of title 2.
+&emsp;&emsp;The term "guarantee" has the meaning given the term "loan guarantee" in section 661a of title 2, except that a loan guarantee may guarantee any debt obligation of a non-Federal borrower to any Eligible Lender (as defined in section 609.2 of title 10, Code of Federal Regulations).
 
 #### (B) Inclusion
 
@@ -52,11 +52,13 @@ In this subchapter:
 
 &emsp;&emsp;The term "State energy financing institution" includes an entity or organization established to achieve the purposes described in clauses (i) and (ii) of subparagraph (A) by an Indian Tribal entity or an Alaska Native Corporation.
 
-(Pub. L. 109–58, title XVII, §1701, Aug. 8, 2005, 119 Stat. 1117; Pub. L. 117–58, div. D, title IV, §40401(c)(1), Nov. 15, 2021, 135 Stat. 1037.)
+(Pub. L. 109–58, title XVII, §1701, Aug. 8, 2005, 119 Stat. 1117; Pub. L. 117–58, div. D, title IV, §40401(c)(1), Nov. 15, 2021, 135 Stat. 1037; Pub. L. 117–169, title V, §50141(e), Aug. 16, 2022, 136 Stat. 2043.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Par. (4)(A). Pub. L. 117–169 inserted ", except that a loan guarantee may guarantee any debt obligation of a non-Federal borrower to any Eligible Lender (as defined in section 609.2 of title 10, Code of Federal Regulations)" before period at end.
 
 <b>2021</b>—Pars. (6), (7). Pub. L. 117–58 added pars. (6) and (7).
 

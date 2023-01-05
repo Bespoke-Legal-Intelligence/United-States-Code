@@ -14,7 +14,7 @@
 
 &emsp;(6) Other distinguished foreign visitors to the United States and official representatives of the United States performing special missions abroad when the President directs that such protection be provided.
 
-&emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term "major Presidential and Vice Presidential candidates" means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee. The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2).
+&emsp;(7) Major Presidential and Vice Presidential candidates and, within 120 days of the general Presidential election, the spouses of such candidates. As used in this paragraph, the term "major Presidential and Vice Presidential candidates" means those individuals identified as such by the Secretary of Homeland Security after consultation with an advisory committee consisting of the Speaker of the House of Representatives, the minority leader of the House of Representatives, the majority and minority leaders of the Senate, and one additional member selected by the other members of the committee. The Committee shall not be subject to chapter 10 of title 5.
 
 &emsp;(8) Former Vice Presidents, their spouses, and their children who are under 16 years of age, for a period of not more than six months after the date the former Vice President leaves office. The Secretary of Homeland Security shall have the authority to direct the Secret Service to provide temporary protection for any of these individuals at any time thereafter if the Secretary of Homeland Security or designee determines that information or conditions warrant such protection.
 
@@ -42,7 +42,7 @@
 
 &emsp;(F) perform such other functions and duties as are authorized by law.
 
-(2) Funds expended from appropriations available to the Secret Service for the purchase ofcounterfeits and subsequently recovered shall be reimbursed to the appropriations available to the Secret Service at the time of the reimbursement.
+(2) Funds expended from appropriations available to the Secret Service for the purchase of counterfeits and subsequently recovered shall be reimbursed to the appropriations available to the Secret Service at the time of the reimbursement.
 
 (d) Whoever knowingly and willfully obstructs, resists, or interferes with a Federal law enforcement agent engaged in the performance of the protective functions authorized by this section or by section 1752 of this title shall be fined not more than $1,000 or imprisoned not more than one year, or both.
 
@@ -58,7 +58,7 @@
 
 (g) The United States Secret Service shall be maintained as a distinct entity within the Department of Homeland Security and shall not be merged with any other Department function. No personnel and operational elements of the United States Secret Service shall report to an individual other than the Director of the United States Secret Service, who shall report directly to the Secretary of Homeland Security without being required to report through any other official of the Department.
 
-(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–791, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–829, §3, Oct. 15, 1962, 76 Stat. 956; Pub. L. 89–186, Sept. 15, 1965, 79 Stat. 791; Pub. L. 89–218, Sept. 29, 1965, 79 Stat. 890; Pub. L. 90–608, ch. XI, §1101, Oct. 21, 1968, 82 Stat. 1198; Pub. L. 91–644, title V, §19, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 91–651, §4, Jan. 5, 1971, 84 Stat. 1941; Pub. L. 93–346, §8, July 12, 1974, as added Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–408, §2, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 97–297, §3, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 97–308, §2, Oct. 14, 1982, 96 Stat. 1452; Pub. L. 98–151, §115(b), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–587, §1(a), Oct. 30, 1984, 98 Stat. 3110; Pub. L. 103–329, title V, §530, Sept. 30, 1994, 108 Stat. 2412; Pub. L. 104–294, title VI, §605(i), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 106–544, §3, Dec. 19, 2000, 114 Stat. 2716; Pub. L. 107–56, title V, §506(b), Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–296, title XVII, §1703(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–21, title III, §322, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–177, title VI, §§604, 607, 608(a), Mar. 9, 2006, 120 Stat. 253, 256; Pub. L. 110–326, title I, §102, Sept. 26, 2008, 122 Stat. 3560; Pub. L. 112–257, §2, Jan. 10, 2013, 126 Stat. 2413; Pub. L. 115–393, title II, §203, Dec. 21, 2018, 132 Stat. 5271.)
+(June 25, 1948, ch. 645, 62 Stat. 818; July 16, 1951, ch. 226, §4, 65 Stat. 122; Aug. 31, 1954, ch. 1143, §2, 68 Stat. 999; Pub. L. 86–168, title I, §104(h), Aug. 18, 1959, 73 Stat. 387; Pub. L. 87–791, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–829, §3, Oct. 15, 1962, 76 Stat. 956; Pub. L. 89–186, Sept. 15, 1965, 79 Stat. 791; Pub. L. 89–218, Sept. 29, 1965, 79 Stat. 890; Pub. L. 90–608, ch. XI, §1101, Oct. 21, 1968, 82 Stat. 1198; Pub. L. 91–644, title V, §19, Jan. 2, 1971, 84 Stat. 1892; Pub. L. 91–651, §4, Jan. 5, 1971, 84 Stat. 1941; Pub. L. 93–346, §8, July 12, 1974, as added Pub. L. 93–552, title VI, §609(a), Dec. 27, 1974, 88 Stat. 1765; Pub. L. 94–408, §2, Sept. 11, 1976, 90 Stat. 1239; Pub. L. 97–297, §3, Oct. 12, 1982, 96 Stat. 1318; Pub. L. 97–308, §2, Oct. 14, 1982, 96 Stat. 1452; Pub. L. 98–151, §115(b), Nov. 14, 1983, 97 Stat. 977; Pub. L. 98–587, §1(a), Oct. 30, 1984, 98 Stat. 3110; Pub. L. 103–329, title V, §530, Sept. 30, 1994, 108 Stat. 2412; Pub. L. 104–294, title VI, §605(i), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 106–544, §3, Dec. 19, 2000, 114 Stat. 2716; Pub. L. 107–56, title V, §506(b), Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–296, title XVII, §1703(a)(1), Nov. 25, 2002, 116 Stat. 2313; Pub. L. 108–21, title III, §322, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–177, title VI, §§604, 607, 608(a), Mar. 9, 2006, 120 Stat. 253, 256; Pub. L. 110–326, title I, §102, Sept. 26, 2008, 122 Stat. 3560; Pub. L. 112–257, §2, Jan. 10, 2013, 126 Stat. 2413; Pub. L. 115–393, title II, §203, Dec. 21, 2018, 132 Stat. 5271; Pub. L. 117–286, §4(a)(135), Dec. 27, 2022, 136 Stat. 4320.)
 
 #### Historical and Revision Notes
 
@@ -80,11 +80,11 @@ Changes were made in phraseology.
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Section 216 of this title, referred to in subsec. (b)(1), was repealed by Pub. L. 98–473, title II, §1107(b), Oct. 12, 1984, 98 Stat. 2146.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(7). Pub. L. 117–286 substituted "chapter 10 of title 5." for "the Federal Advisory Committee Act (5 U.S.C. App. 2)."
 
 <b>2018</b>—Subsec. (f). Pub. L. 115–393 inserted "in conjunction with an investigation" after "local law enforcement agency" and struck out before period at end "in support of any investigation involving missing or exploited children".
 
@@ -190,7 +190,7 @@ Pub. L. 108–90, title II, Oct. 1, 2003, 117 Stat. 1145, provided in part: "Tha
 
 #### Expansion of National Electronic Crime Task Force Initiative
 
-Pub. L. 107–56, title I, §105, Oct. 26, 2001, 115 Stat. 277, as amended by Pub. L. 109–177, title VI, §608(b), Mar. 9, 2006, 120 Stat. 256, provided that: "The Director of the United States Secret Service shall take appropriate actions to develop a national network of electronic crime task forces, based on the New York Electronic Crimes Task Force model, throughout the United States, for the purpose of preventing, detecting, and investigating various forms of electronic crimes, including potential terrorist attacks against critical infrastructure and financial payment systems. The electronic crimes task forces shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App. 2) \[5 U.S.C. App.\]."
+Pub. L. 107–56, title I, §105, Oct. 26, 2001, 115 Stat. 277, as amended by Pub. L. 109–177, title VI, §608(b), Mar. 9, 2006, 120 Stat. 256; Pub. L. 117–286, §4(a)(136), Dec. 27, 2022, 136 Stat. 4320, provided that: "The Director of the United States Secret Service shall take appropriate actions to develop a national network of electronic crime task forces, based on the New York Electronic Crimes Task Force model, throughout the United States, for the purpose of preventing, detecting, and investigating various forms of electronic crimes, including potential terrorist attacks against critical infrastructure and financial payment systems. The electronic crimes task forces shall not be subject to chapter 10 of title 5, United States Code."
 
 #### National Threat Assessment Center
 
@@ -308,11 +308,11 @@ Sec. 5. (a) All improvements and other items acquired by the Federal Government 
 
 "
 
-Sec. 6. Executive departments and Executive agencies shall assist the Secret Service in the performance of its duties by providing services, equipment, and facilities on a temporary and reimbursable basis when requested by the Director and on a permanent and reimbursable basis upon advance written request of the Director; except that the Department of Defense and the Coast Guard shall provide such assistance on a temporary basis without reimbursement when assisting the Secret Service in its duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President.
+Sec. 6. Executive departments and Executive agencies shall assist the Secret Service in the performanceof its duties by providing services, equipment, and facilities on a temporary and reimbursable basis when requested by the Director and on a permanent and reimbursable basis upon advance written request of the Director; except that the Department of Defense and the Coast Guard shall provide such assistance on a temporary basis without reimbursement when assisting the Secret Service in its duties directly related to the protection of the President or the Vice President or other officer immediately next in order of succession to the office of the President.
 
 "
 
-Sec. 7. No services, equipment, or facilities may be ordered, purchased, leased, or otherwise procured for the purposes of carrying out the duties of the Secret Service by persons other than officers or employees ofthe Federal Government duly authorized by the Director to make such orders, purchases, leases, or procurements.
+Sec. 7. No services, equipment, or facilities may be ordered, purchased, leased, or otherwise procured for the purposes of carrying out the duties of the Secret Service by persons other than officers or employees of the Federal Government duly authorized by the Director to make such orders, purchases, leases, or procurements.
 
 "
 

@@ -108,7 +108,7 @@ In this section:
 
 #### (D) Multiple business entities
 
-&emsp;&emsp;Each business entity of an eligible person or entity that also meets the requirements under subparagraph (A) and that is not described in subparagraph (B) shall be treated by the Administrator as an independent, non-affiliated entity for the purposes of this section.
+&emsp;&emsp;Each business entity of an eligible person or entity that also meets the requirementsunder subparagraph (A) and that is not described in subparagraph (B) shall be treated by the Administrator as an independent, non-affiliated entity for the purposes of this section.
 
 #### (2) Exchange; issuer; security
 
@@ -200,7 +200,7 @@ In this section:
 
 &emsp;&emsp;(A) means an agent or manager that—
 
-&emsp;&emsp;&emsp;(i) as not less than 70 percent of the operations of the agent or manager, is engagedin representing or managing artists and entertainers;
+&emsp;&emsp;&emsp;(i) as not less than 70 percent of the operations of the agent or manager, is engaged in representing or managing artists and entertainers;
 
 &emsp;&emsp;&emsp;(ii) books or represents musicians, comedians, actors, or similar performing artists primarily at live events in venues or at festivals; and
 
@@ -280,7 +280,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the Administrator may make a supplemental grant in accordance with this section to an eligible person or entity that receives a grant underparagraph (2) if, as of April 1, 2021, the revenues of the eligible person or entity for the most recent calendar quarter are not more than 30 percent of the revenues of the eligible person or entity for the corresponding calendar quarter during 2019 due to the COVID–19 pandemic.
+&emsp;&emsp;Subject to subparagraph (B), the Administrator may make a supplemental grant in accordance with this section to an eligible person or entity that receives a grant under paragraph (2) if, as of April 1, 2021, the revenues of the eligible person or entity for the most recent calendar quarter are not more than 30 percent of the revenues of the eligible person or entity for the corresponding calendar quarter during 2019 due to the COVID–19 pandemic.
 
 #### (B) Processing timely initial grant applications first
 
@@ -384,7 +384,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(vi) covered worker protection expenditures;
 
-&emsp;&emsp;&emsp;(vii) payments made to independent contractors, as reported on Form–1099 MISC, not to exceed a total of $100,000 in annual compensation for any individual employee of an independent contractor; and
+&emsp;&emsp;&emsp;(vii) payments made to independent contractors, as reported on Form–1099 MISC, not to exceed a total of $100,000 in annualcompensation for any individual employee of an independent contractor; and
 
 &emsp;&emsp;&emsp;(viii) other ordinary and necessary business expenses, including—
 
@@ -476,7 +476,7 @@ The CARES Act, referred to in subsec. (b)(2)(B)(iii)(I), also known as the Coron
 
 Section 323(d)(1)(H) of this Act, referred to in subsecs. (b)(2)(B)(iv) and (f)(2), is section 323(d)(1)(H) of title III of div. N of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2021, which is not classified to the Code.
 
-Section 636m(a) of this title, as redesignated, transferred, and amended by this Act, referred to in subsec. (d)(2)(A)(i), probably means section 636m(a) of this title, as redesignated, transferred, and amended by title III of div. N of Pub. L. 116–260.
+Section 636m(a) of this title, as redesignated, transferred, and amended by this Act, referred to in subsec.\(d)(2)(A)(i), probably means section 636m(a) of this title, as redesignated, transferred, and amended by title III of div. N of Pub. L. 116–260.
 
 #### Codification
 

@@ -1,6 +1,6 @@
 ### §2291e. Reallocation of funds withheld from countries which fail to take adequate steps to halt illicit drug production or trafficking
 
-If any funds authorized to be appropriated for any fiscal year for assistance under this chapter are not used for assistance for the country for which those funds were allocated because of the requirements of section 2291j of this title or any other provision of law requiring the withholding of assistance for countries that have not taken adequate steps to halt illicit drug production ortrafficking, the President shall use those funds for additional assistance for those countries which have met their illicit drug eradication targets or have otherwise taken significant steps to halt illicit drug production or trafficking, as follows:
+If any funds authorized to be appropriated for any fiscal year for assistance under this chapter are not used for assistance for the country for which those funds were allocated because of the requirements of section 2291j of this title or any other provision of law requiring the withholding of assistance for countries that have not taken adequate steps to halt illicit drug production or trafficking, the President shall use those funds for additional assistance for those countries which have met their illicit drug eradication targets or have otherwise taken significant steps to halt illicit drug production or trafficking, as follows:
 
 #### (1) International narcotics control assistance
 
@@ -8,7 +8,7 @@ If any funds authorized to be appropriated for any fiscal year for assistance un
 
 #### (2) Other assistance
 
-&emsp;Any such funds not used under paragraph (1) shall be reprogrammed within the account for which they were appropriated (subject to the regular reprogramming procedures under section 2394–1 of this title) in order to provide additional assistance for those countries.
+&emsp;Any such funds not used under paragraph (1) shall be reprogrammed within the account forwhich they were appropriated (subject to the regular reprogramming procedures under section 2394–1 of this title) in order to provide additional assistance for those countries.
 
 (Pub. L. 87–195, pt. I, §486, as added Pub. L. 100–690, title IV, §4206(a), Nov. 18, 1988, 102 Stat. 4270; amended Pub. L. 102–583, §6(b)(5), Nov. 2, 1992, 106 Stat. 4932; Pub. L. 103–447, title I, §101(d), Nov. 2, 1994, 108 Stat. 4692.)
 
@@ -16,7 +16,7 @@ If any funds authorized to be appropriated for any fiscal year for assistance un
 
 #### References in Text
 
-The Arms Export Control Act, referred to in par. (1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in par. (1), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 

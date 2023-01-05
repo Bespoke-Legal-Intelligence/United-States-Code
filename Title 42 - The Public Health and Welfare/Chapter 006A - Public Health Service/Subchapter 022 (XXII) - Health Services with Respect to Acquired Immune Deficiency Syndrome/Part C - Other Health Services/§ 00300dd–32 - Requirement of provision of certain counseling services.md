@@ -32,7 +32,7 @@ The Secretary may not make a grant under section 300dd–31 of this title to a S
 
 &emsp;(4) the availability in the geographic area of any appropriate services with respect to health care, including mental health care and social and support services;
 
-&emsp;(5) the benefits of locating and counseling any individual by whom the infected individual may have been exposed to the etiologic agent for acquired immune deficiency syndrome and any individual whom the infectedindividual may have exposed to such etiologic agent; and
+&emsp;(5) the benefits of locating and counseling any individual by whom the infected individual may have been exposed to the etiologic agent for acquired immune deficiency syndrome and any individual whom the infected individual may have exposed to such etiologic agent; and
 
 &emsp;(6) the availability, if any, of the services of public health authorities with respect to locating and counseling any individual described in paragraph (5).
 

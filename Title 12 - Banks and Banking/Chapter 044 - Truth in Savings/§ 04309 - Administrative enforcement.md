@@ -14,7 +14,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 &emsp;(2) the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\], by the National Credit Union Administration Bureau <sup>1</sup> in the case of depository institutions described in clause (iv) of section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)\]; and
 
-&emsp;(3) subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau, with respect to any person subject to this chapter.
+&emsp;(3) subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\],by the Bureau, with respect to any person subject to this chapter.
 
 #### (b) Additional enforcement powers
 
@@ -38,7 +38,7 @@ The authority of the Bureau to issue regulations under this chapter does not imp
 
 The Consumer Financial Protection Act of 2010, referred to in subsec. (a), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Report on required comprehensive review
 
-No later than August 31, 1968, the President shall submit to the Senate and the House of Representatives a special report on the comprehensive review called for by Article IV(c) of the Agreement. In such report he shall advise the Congress of the progress made toward the achievement of the objectives of Article I of the Agreement.
+No later than August 31, 1968, the President shall submit to the Senate and the House ofRepresentatives a special report on the comprehensive review called for by Article IV(c) of the Agreement. In such report he shall advise the Congress of the progress made toward the achievement of the objectives of Article I of the Agreement.
 
 #### (b) Report on increase on Canadian value added
 
@@ -20,5 +20,5 @@ The reports provided for in subsections (a) and (b) of this section shall includ
 
 The Agreement, referred to in subsecs. (a) and (c), is the Agreement Concerning Automotive Products, which was entered into between the United States and Canada on January 16, 1965, see Proc. No. 3682, Oct. 21, 1965, 30 F.R. 13683 and Proc. No. 3743, Sept. 8, 1966, 31 F.R. 12003, set out as notes under section 2011 of this title.
 
-This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 

@@ -4,7 +4,7 @@
 
 Notwithstanding any other provision of law—
 
-&emsp;(1) subject to subsection (b), the Chief Administrative Officer of the House of Representatives and the head of an executive agency (as defined in section 105 of title 5) may enter into a memorandum of understanding under which the agency may provide facilities, equipment, supplies, personnel, and other support services for the use of the House of Representatives during an emergency situation; and
+&emsp;(1) subject to subsection (b), the Chief Administrative Officer of the House of Representatives and the head of an executive agency (as defined in section 105 of title 5) may enter intoa memorandum of understanding under which the agency may provide facilities, equipment, supplies, personnel, and other support services for the use of the House of Representatives during an emergency situation; and
 
 &emsp;(2) the Chief Administrative Officer and the head of the agency may take any action necessary to carry out the terms of the memorandum of understanding.
 

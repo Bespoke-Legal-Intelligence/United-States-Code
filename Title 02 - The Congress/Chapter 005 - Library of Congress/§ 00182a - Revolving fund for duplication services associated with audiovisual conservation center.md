@@ -36,7 +36,7 @@ The Librarian may charge a fee for providing services described in subsection (a
 
 #### (d) Use of amounts in fund
 
-Amounts in the revolving fund under this section shall be available to the Librarian, in amounts specified in appropriations Acts and without fiscal year limitation, to carry out the services described in subsection (a).
+Amounts in the revolving fund under this section shall be available to the Librarian, inamounts specified in appropriations Acts and without fiscal year limitation, to carry out the services described in subsection (a).
 
 (Pub. L. 106–481, title I, §101, Nov. 9, 2000, 114 Stat. 2187; Pub. L. 107–68, title II, §207, Nov. 12, 2001, 115 Stat. 587.)
 

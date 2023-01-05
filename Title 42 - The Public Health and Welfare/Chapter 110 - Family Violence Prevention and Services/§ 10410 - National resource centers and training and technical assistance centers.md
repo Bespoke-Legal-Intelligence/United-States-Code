@@ -48,7 +48,7 @@
 
 #### (2) Special issue resource centers
 
-&emsp;In accordance with subsection (a)(2)(A)(ii), the Secretary shall award grants to eligibleentities for special issue resource centers, which shall be national in scope and shall provide information, training, and technical assistance to State and local domestic violence service providers. Each special issue resource center shall focus on enhancing domestic violence intervention and prevention efforts in at least one of the following areas:
+&emsp;In accordance with subsection (a)(2)(A)(ii), the Secretary shall award grants to eligible entities for special issue resource centers, which shall be national in scope and shall provide information, training, and technical assistance to State and local domestic violence service providers. Each special issue resource center shall focus on enhancing domestic violence intervention and prevention efforts in at least one of the following areas:
 
 &emsp;&emsp;(A) The response of the criminal and civil justice systems to domestic violence victims, which may include the response to the use of the self-defense plea by domestic violence victims and the issuance and use of protective orders.
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(D) a record of demonstrated effectiveness in assisting Indian tribes and tribal organizations with prevention and intervention services addressing domestic violence; and
 
-&emsp;&emsp;(E) the capacity to serve Indian tribes (including Alaska Native villages and regionaland village corporations) across the United States.
+&emsp;&emsp;(E) the capacity to serve Indian tribes (including Alaska Native villages and regional and village corporations) across the United States.
 
 #### (3) Special issue resource centers concerned with racial and ethnic minority groups
 

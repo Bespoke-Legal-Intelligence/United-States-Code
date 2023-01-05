@@ -40,7 +40,7 @@ Amounts used to carry out this section shall not be subject to section 4308(h) o
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–177, §605(e)(2)(C), substituted "subsections (a)(7) and (d) of section 3056A of title 18" for "sections 202(7) and 208 of title 3".
 
-Pub. L. 109–177, §605(d)(3), which directed amendment of section 214(a) of the State Department Basic Authorities Act by substituting "section 3056A(a)(7) and (d) of title 18" for "sections 202(8) and 208 of title 3",was not executed because this section, which is section 214 of the State Department Basic Authorities Act of 1956, did not contain the words "sections 202(8) and 208 of title 3" and because of the amendment by Pub. L. 109–177, §605(e)(2)(C). See note above.
+Pub. L. 109–177, §605(d)(3), which directed amendment of section 214(a) of the State Department Basic Authorities Act by substituting "section 3056A(a)(7) and (d) of title 18" for "sections 202(8) and 208 of title 3", was not executed because this section, which is section 214 of the State Department Basic Authorities Act of 1956, did not contain the words "sections 202(8) and 208 of title 3" and because of the amendment by Pub. L. 109–177, §605(e)(2)(C). See note above.
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–236 struck out subsec. (c) which read as follows: "Funds may be obligated under this section only after regulations to implement this section have been issued by the Secretary after consultation with appropriate committees of the Congress."
 

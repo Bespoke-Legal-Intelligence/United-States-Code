@@ -50,11 +50,11 @@ Congress—
 
 &emsp;Among the principal trade negotiating objectives of the United States for proposed trade agreements with foreign countries regarding commercial partnerships are the following:
 
-&emsp;&emsp;(A) To discourage actions by potential trading partners that directly or indirectly prejudice or otherwise discourage commercial activity solely between the United States and Israel.
+&emsp;&emsp;(A) To discourage actions by potential trading partners that directly or indirectlyprejudice or otherwise discourage commercial activity solely between the United States and Israel.
 
 &emsp;&emsp;(B) To discourage politically motivated boycotts of, divestment from, and sanctions against Israel and to seek the elimination of politically motivated nontariff barriers on Israeli goods, services, or other commerce imposed on Israel.
 
-&emsp;&emsp;(C) To seek the elimination of state-sponsored unsanctioned foreign boycotts of Israel, or compliance with the Arab LeagueBoycott of Israel, by prospective trading partners.
+&emsp;&emsp;(C) To seek the elimination of state-sponsored unsanctioned foreign boycotts of Israel, or compliance with the Arab League Boycott of Israel, by prospective trading partners.
 
 #### (2) Effective date
 

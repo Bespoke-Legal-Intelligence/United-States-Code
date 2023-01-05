@@ -40,7 +40,7 @@ Assistance provided under this section shall be used primarily to expand and str
 
 #### (D) Marginalized children and vulnerable groups
 
-&emsp;&emsp;The term "marginalized children and vulnerable groups" includes girls, children affected by or emerging from armed conflict or humanitarian crises, children with disabilities, children in remote or rural areas (including those who lack access to safe water and sanitation), religious or ethnic minorities, indigenous peoples, orphans and children affected by HIV/AIDS, child laborers, married adolescents, and victims of trafficking.
+&emsp;&emsp;The term "marginalized children and vulnerable groups" includes girls, children affected by or emerging from armed conflict orhumanitarian crises, children with disabilities, children in remote or rural areas (including those who lack access to safe water and sanitation), religious or ethnic minorities, indigenous peoples, orphans and children affected by HIV/AIDS, child laborers, married adolescents, and victims of trafficking.
 
 #### (E) National education plan
 
@@ -128,7 +128,7 @@ Assistance provided under this section shall be used primarily to expand and str
 
 &emsp;&emsp;(B) such assistance can produce a substantial, measurable impact on children and educational systems; and
 
-&emsp;&emsp;(C) there is the greatest opportunity to reduce childhood and adolescence exposure toor engagement in violent extremism or extremist ideologies.
+&emsp;&emsp;(C) there is the greatest opportunity to reduce childhood and adolescence exposure to or engagement in violent extremism or extremist ideologies.
 
 (Pub. L. 87–195, pt. I, §105, as added Pub. L. 93–189, §2(3), Dec. 17, 1973, 87 Stat. 715; amended Pub. L. 93–559, §5, Dec. 30, 1974, 88 Stat. 1796; Pub. L. 94–161, title III, §305, Dec. 20, 1975, 89 Stat. 858; Pub. L. 95–88, title I, §104, Aug. 3, 1977, 91 Stat. 535; Pub. L. 95–424, title I, §105, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §§103, 122, Aug. 14, 1979, 93 Stat. 360, 366; Pub. L. 96–533, title III, §303, Dec. 16, 1980, 94 Stat. 3145; Pub. L. 97–113, title III, §303, Dec. 29, 1981, 95 Stat. 1532; Pub. L. 99–83, title III, §306, title XII, §1211(a)(1), Aug. 8, 1985, 99 Stat. 215, 279; Pub. L. 99–440, title II, §201(a), Oct. 2, 1986, 100 Stat. 1094; Pub. L. 99–631, §1(b)(1), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 101–513, title V, §562(d)(1), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 115–56, div. A, §3, Sept. 8, 2017, 131 Stat. 1130.)
 
@@ -324,7 +324,7 @@ Offset.—In order to eliminate duplication of effort and activities and to offs
 
 "(a)
 
-Annual Report on the Implementation of Strategy.—Not later than 180 days after the end of each fiscal year during which the strategy developed pursuant to section 4(a) is carried out, the President shall—
+Annual Report on the Implementation of Strategy.—Not later than 180 days after \[see bracketed note set out below\] the end of each fiscal year during which the strategy developed pursuant to section 4(a) is carried out, the President shall—
 
 &emsp;"(1) submit a report to the appropriate congressional committees that describes the implementation of such strategy; and
 
@@ -339,6 +339,12 @@ Matters To Be Included.—The report required under subsection (a) shall include
 &emsp;"(2) a description of the extent to which each partner country selected to receive assistance for basic education meets the priority criteria specified in section 105(c) of the Foreign Assistance Act \[22 U.S.C. 2151c(c)\], as added by section 3; and
 
 &emsp;"(3) a description of the progress achieved over the reporting period toward meeting the goals, objectives, benchmarks, and timeframes specified in the strategy developed pursuant to section 4 at the program level, as developed pursuant to monitoring and evaluation specified in section 6, with particular emphasis on whether there are demonstrable student improvements in literacy, numeracy, or other basic skills development that prepare an individual to be an active, productive member of society and the workforce."
+
+\[Pub. L. 117–328, div. K, title VII, §7060(a)(1)(A), Dec. 29, 2022, 136 Stat. 5080, provided in part: "That section 7(a) of Public Law 115–56 \[set out above\] shall be implemented by substituting 'the thirtieth day of June following' for '180 days after'."\]
+
+\[Similar provisions were contained in the following prior appropriation act:
+
+\[Pub. L. 117–103, div. K, title VII, §7060(a)(1)(A), Mar. 15, 2022, 136 Stat. 672.\]
 
 #### <b>Executive Documents</b>
 

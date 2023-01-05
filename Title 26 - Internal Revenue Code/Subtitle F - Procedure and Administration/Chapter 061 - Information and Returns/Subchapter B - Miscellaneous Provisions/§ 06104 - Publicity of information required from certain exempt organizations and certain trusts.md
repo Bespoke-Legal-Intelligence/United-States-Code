@@ -24,7 +24,7 @@
 
 #### (C) Certain names and compensation not to be opened to public inspection
 
-&emsp;&emsp;In the case of any application, document, or other papers, referred to in subparagraph (B), information from which the compensation (including deferred compensation) of any individual may be ascertained shall not be open to public inspection under subparagraph (B).
+&emsp;&emsp;In the case of any application, document, or other papers, referred to in subparagraph (B), information from which the compensation (including deferred compensation) of any individual may be ascertained shall notbe open to public inspection under subparagraph (B).
 
 #### (D) Withholding of certain other information
 
@@ -56,7 +56,7 @@
 
 #### (b) Inspection of annual returns
 
-The information required to be furnished by sections 6033, 6034, and 6058, together with thenames and addresses of such organizations and trusts, shall be made available to the public at such times and in such places as the Secretary may prescribe. Nothing in this subsection shall authorize the Secretary to disclose the name or address of any contributor to any organization or trust (other than a private foundation, as defined in section 509(a) or a political organization exempt from taxation under section 527) which is required to furnish such information. In the case of an organization described in section 501(d), this subsection shall not apply to copies referred to in section 6031(b) with respect to such organization. In the case of a trust which is required to file a return under section 6034(a), this subsection shall not apply to information regarding beneficiaries which are not organizations described in section 170(c). Any annual return which is filed under section 6011 by an organization described in section 501(c)(3) and which relates to any tax imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc., organizations) shall be treated for purposes of this subsection in the same manner as if furnished under section 6033. Any annual return required to be filed electronically under section 6033(n) shall be made available by the Secretary to the public as soon as practicable in a machine readable format.
+The information required to be furnished by sections 6033, 6034, and 6058, together with the names and addresses of such organizations and trusts, shall be made available to the public at such times and in such places as the Secretary may prescribe. Nothing in this subsection shall authorize the Secretary to disclose the name or address of any contributor to any organization or trust (other than a private foundation, as defined in section 509(a) or a political organization exempt from taxation under section 527) which is required to furnish such information. In the case of an organization described in section 501(d), this subsection shall not apply to copies referred to in section 6031(b) with respect to such organization. In the case of a trust which is required to file a return under section 6034(a), this subsection shall not apply to information regarding beneficiaries which are not organizations described in section 170(c). Any annual return which is filed under section 6011 by an organization described in section 501(c)(3) and which relates to any tax imposed by section 511 (relating to imposition of tax on unrelated business income of charitable, etc., organizations) shall be treated for purposes of this subsection in the same manner as if furnished under section 6033. Any annual return required to be filed electronically under section 6033(n) shall be made available by the Secretary to the public as soon as practicable in a machine readable format.
 
 #### (c) Publication to State officials
 
@@ -152,7 +152,7 @@ The information required to be furnished by sections 6033, 6034, and 6058, toget
 
 &emsp;&emsp;(B) upon request of an individual made at such principal office or such a regional or district office, a copy of such annual return, reports, and exempt status application materials or such notice materials shall be provided to such individual without charge other than a reasonable fee for any reproduction and mailing costs.
 
-> &emsp;The request described in subparagraph (B) must be made in person or in writing. If such request is made in person, such copy shall be provided immediately and, if made in writing, shall be provided within 30 days.
+> &emsp;The request described in subparagraph (B) must be made in person or in writing. If such request is made in person, such copy shall beprovided immediately and, if made in writing, shall be provided within 30 days.
 
 #### (2) 3-year limitation on inspection of returns
 
@@ -212,7 +212,7 @@ Subsec. (d)(1)(A)(ii). Pub. L. 110–172, §3(g)(2), amended text generally. Pri
 
 Subsec. (d)(2). Pub. L. 110–172, §3(g)(3), substituted "section 6011 or 6033" for "section 6033".
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–280, §1201(b)(3), inserted at end "In the case of a trust which is required to file a return under section 6034(a), this subsection shall not apply to information regarding beneficiaries which are not organizations described in section 170(c)." See Codification note above.
+<b>2006</b>—Subsec. (b). Pub. L. 109–280, §1201(b)(3), inserted at end "In the case of a trust which is required to filea return under section 6034(a), this subsection shall not apply to information regarding beneficiaries which are not organizations described in section 170(c)." See Codification note above.
 
 Subsec. (c)(1). Pub. L. 109–280, §1224(b)(4), inserted "for charitable organizations" after "rule" in heading. See Codification note above.
 
@@ -380,7 +380,7 @@ Amendment by section 491(d)(49) of Pub. L. 98–369 applicable to obligations is
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–603 applicable to taxable years beginning after Dec. 31, 1980, see section 1(f) of Pub. L. 96–603, set out as a note under section 6033 of this title.
+Amendment by Pub. L. 96–603 applicable to taxable years beginning after Dec. 31, 1980, see section 1(f) ofPub. L. 96–603, set out as a note under section 6033 of this title.
 
 #### Effective Date of 1978 Amendments
 

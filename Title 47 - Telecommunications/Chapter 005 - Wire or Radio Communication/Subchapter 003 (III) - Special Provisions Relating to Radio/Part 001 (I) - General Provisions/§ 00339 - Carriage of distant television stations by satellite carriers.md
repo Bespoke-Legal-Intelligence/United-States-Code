@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(cc) the distant network signal or signals received; and
 
-&emsp;&emsp;&emsp;(II) a statement that, to the best of the carrier's knowledge and belief after having made diligent and good faith inquiries, the subscriber is qualified under the existing law to receive the distant network signal or signals pursuant to subparagraph (A) or (B)(i) of this paragraph.
+&emsp;&emsp;&emsp;(II) a statement that, to the best of the carrier's knowledge and belief after having made diligent and good faith inquiries, thesubscriber is qualified under the existing law to receive the distant network signal or signals pursuant to subparagraph (A) or (B)(i) of this paragraph.
 
 &emsp;&emsp;(ii) Within 60 days after the date a satellite carrier commences to carry pursuant to section 338 of this title the signals of stations from a local market, such a satellite carrier that provides a distant signal of a network station to a subscriber pursuant to subparagraph (B)(ii) of this paragraph shall submit to each network—
 
@@ -156,7 +156,7 @@
 
 #### (B) On-location testing
 
-&emsp;&emsp;The Commission shall issue an order completing its rulemaking proceeding in ET Docket No. 06–94 within 270 days after the date of enactment of the Satellite Television Extension and Localism Act of 2010. In conducting such rulemaking, the Commission shall seek ways to minimize consumer burdens associated with on-location testing.
+&emsp;&emsp;The Commission shall issue an order completing its rulemaking proceeding in ETDocket No. 06–94 within 270 days after the date of enactment of the Satellite Television Extension and Localism Act of 2010. In conducting such rulemaking, the Commission shall seek ways to minimize consumer burdens associated with on-location testing.
 
 #### (4) Objective verification
 
@@ -214,7 +214,7 @@ For the purposes of this section:
 
 &emsp;The term "television network" means a television network in the United States which offers an interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated broadcast stations in 10 or more States.
 
-(June 19, 1934, ch. 652, title III, §339, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–534; amended Pub. L. 106–553, §1(a)(2) \[title X, §1001, formerly §1008\], Dec. 21, 2000, 114 Stat. 2762, 2762A–140, renumbered §1001, Pub. L. 115–334, title VI, §6603(3), Dec. 20, 2018, 132 Stat. 4777;Pub. L. 108–447, div. J, title IX \[title II, §§204, 209\], Dec. 8, 2004, 118 Stat. 3416, 3429; Pub. L. 111–175, title II, §204(b), May 27, 2010, 124 Stat. 1246; Pub. L. 115–141, div. P, title IV, §402(i)(7), Mar. 23, 2018, 132 Stat. 1090.)
+(June 19, 1934, ch. 652, title III, §339, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–534; amended Pub. L. 106–553, §1(a)(2) \[title X, §1001, formerly §1008\], Dec. 21, 2000, 114 Stat. 2762, 2762A–140, renumbered §1001, Pub. L. 115–334, title VI, §6603(3), Dec. 20, 2018, 132 Stat. 4777; Pub. L. 108–447, div. J, title IX \[title II, §§204, 209\], Dec. 8, 2004, 118 Stat. 3416, 3429; Pub. L. 111–175, title II, §204(b), May 27, 2010, 124 Stat. 1246; Pub. L. 115–141, div. P, title IV, §402(i)(7), Mar. 23, 2018, 132 Stat. 1090.)
 
 #### <b>Editorial Notes</b>
 
@@ -274,7 +274,7 @@ Subsec. (a)(2)(E). Pub. L. 111–175, §204(b)(1)(B)(vi), substituted "distant s
 
 Subsec. (c)(3). Pub. L. 111–175, §204(b)(2)(A), amended par. (3) generally. Prior to amendment, text read as follows: "Within 180 days after November 29, 1999, the Commission shall take all actions necessary, including any reconsideration, to develop and prescribe by rule a point-to-point predictive model for reliably and presumptively determining the ability of individual locations to receive signals in accordance with the signal intensity standard in effect under section 119(d)(10)(A) of title 17. In prescribing such model, the Commission shall rely on the Individual Location Longley-Rice model set forth by the Federal Communications Commission in Docket No. 98–201 and ensure that such model takes into account terrain, building structures, and other land cover variations. The Commission shall establish procedures for the continued refinement in the application of the model by the use of additional data as it becomes available."
 
-Subsec. (c)(4)(A). Pub. L. 111–175, §204(b)(2)(B), amended subpar. (A) generally. Prior to amendment, text read as follows: "If a subscriber's request for a waiver under paragraph (2) is rejected and the subscriber submits to the subscriber's satellite carrier a request for a test verifying the subscriber's inability to receive a signalthat meets the signal intensity standard in effect under section 119(d)(10)(A) of title 17, the satellite carrier and the network station or stations asserting that the retransmission is prohibited with respect to that subscriber shall select a qualified and independent person to conduct a test in accordance with section 73.686(d) of its regulations (47 CFR 73.686(d)), or any successor regulation. Such test shall be conducted within 30 days after the date the subscriber submits a request for the test. If the written findings and conclusions of a test conducted in accordance with such section (or any successor regulation) demonstrate that the subscriber does not receive a signal that meets or exceeds the signal intensity standard in effect under section 119(d)(10)(A) of title 17, the subscriber shall not be denied the retransmission of a signal of a network station under section 119 of title 17."
+Subsec. (c)(4)(A). Pub. L. 111–175, §204(b)(2)(B), amended subpar. (A) generally. Prior to amendment, text read as follows: "If a subscriber's request for a waiver under paragraph (2) is rejected and the subscriber submits to the subscriber's satellite carrier a request for a test verifying the subscriber's inability to receive a signal that meets the signal intensity standard in effect under section 119(d)(10)(A) of title 17, the satellite carrier and the network station or stations asserting that the retransmission is prohibited with respect to that subscriber shall select a qualified and independent person to conduct a test in accordance with section 73.686(d) of its regulations (47 CFR 73.686(d)), or any successor regulation. Such test shall be conducted within 30 days after the date the subscriber submits a request for the test. If the written findings and conclusions of a test conducted in accordance with such section (or any successor regulation) demonstrate that the subscriber does not receive a signal that meets or exceeds the signal intensity standard in effect under section 119(d)(10)(A) of title 17, the subscriber shall not be denied the retransmission of a signal of a network station under section 119 of title 17."
 
 Subsec. (c)(4)(B). Pub. L. 111–175, §204(b)(2)(C), substituted "such requisite signal intensity standard" for "the signal intensity standard in effect under section 119(d)(10)(A) of title 17".
 

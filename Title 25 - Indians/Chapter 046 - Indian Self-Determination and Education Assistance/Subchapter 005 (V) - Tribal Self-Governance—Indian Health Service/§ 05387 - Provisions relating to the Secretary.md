@@ -48,7 +48,7 @@
 
 #### (b) Final offer
 
-In the event the Secretary and a participating Indian tribe are unable to agree, in whole or in part, on the terms of a compact or funding agreement (including funding levels), the Indian tribe may submit a final offer to the Secretary. Not more than 45 days after such submission, or within a longer time agreed upon by the Indiantribe, the Secretary shall review and make a determination with respect to such offer. In the absence of a timely rejection of the offer, in whole or in part, made in compliance with subsection (c) of this section, the offer shall be deemed agreed to by the Secretary.
+In the event the Secretary and a participating Indian tribe are unable to agree, in whole or in part, on the terms of a compact or funding agreement (including funding levels), the Indian tribe may submit a final offer to the Secretary. Not more than 45 days after such submission, or within a longer time agreed upon by the Indian tribe, the Secretary shall review and make a determination with respect to such offer. In the absence of a timely rejection of the offer, in whole or in part, made in compliance with subsection (c) of this section, the offer shall be deemed agreed to by the Secretary.
 
 #### (c) Rejection of final offers
 
@@ -86,7 +86,7 @@ In the negotiation of compacts and funding agreements the Secretary shall at all
 
 #### (f) Savings
 
-To the extent that programs, functions, services, or activities (or portions thereof) carried out by Indian tribes under this subchapter reduce the administrative or other responsibilities of the Secretary with respect to the operation of Indian programs and result in savings that have not otherwise been included in the amount of tribal shares and other funds determined under section 5388(c) of this title, the Secretary shall make such savings available to the Indian tribes, inter-tribal consortia, or tribal organizations for the provision of additional services to program beneficiaries in a manner equitable to directly served, contracted, and compacted programs.
+To the extent that programs, functions, services, or activities (or portions thereof) carried out by Indian tribes under this subchapter reduce the administrative or other responsibilities of the Secretary with respect to the operation of Indian programs and result in savings that have not otherwise been included in the amount of tribal shares and other funds determined under section 5388(c) of this title, the Secretary shallmake such savings available to the Indian tribes, inter-tribal consortia, or tribal organizations for the provision of additional services to program beneficiaries in a manner equitable to directly served, contracted, and compacted programs.
 
 #### (g) Trust responsibility
 

@@ -50,7 +50,7 @@ In this chapter:
 
 &emsp;&emsp;(A) carried out a contract or compact under title I or IV of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.) for a period of not less than 3 consecutive years ending on the date on which the Indian tribe submits the application without material audit exception (or without any material audit exceptions that were not corrected within the 3-year period) relating to the management of tribal land or natural resources; or
 
-&emsp;&emsp;(B) substantial experience in the administration, review, or evaluation of energy resource leases or agreements or has otherwise substantially participated in the administration, management, or development of energy resources located on the tribal land of the Indian tribe.
+&emsp;&emsp;(B) substantial experience in the administration, review, or evaluation of energy resource leases or agreements or has otherwise substantially participated in the administration, management, or development of energyresources located on the tribal land of the Indian tribe.
 
 &emsp;(10) The term "Secretary" means the Secretary of the Interior.
 
@@ -64,7 +64,7 @@ In this chapter:
 
 &emsp;(13) The term "tribal land" means any land or interests in land owned by any Indian tribe, title to which is held in trust by the United States, or is subject to a restriction against alienation under laws of the United States.
 
-(Pub. L. 102–486, title XXVI, §2601, as added Pub. L. 109–58, title V, §503(a), Aug. 8, 2005, 119 Stat.764; amended Pub. L. 115–325, title I, §105(a), Dec. 18, 2018, 132 Stat. 4455; Pub. L. 116–260, div. Z, title VIII, §8013(a), Dec. 27, 2020, 134 Stat. 2592.)
+(Pub. L. 102–486, title XXVI, §2601, as added Pub. L. 109–58, title V, §503(a), Aug. 8, 2005, 119 Stat. 764; amended Pub. L. 115–325, title I, §105(a), Dec. 18, 2018, 132 Stat. 4455; Pub. L. 116–260, div. Z, title VIII, §8013(a), Dec. 27, 2020, 134 Stat. 2592.)
 
 #### <b>Editorial Notes</b>
 

@@ -1491,6 +1491,10 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title \[amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title\] shall apply with respect to taxable years beginning after December 31, 1963."
 
+#### Short Title of 2022 Amendment
+
+Pub. L. 117–328, div. T, §1(a), Dec. 29, 2022, 136 Stat. 5275, provided that: "This division \[see Tables for classification\] may be cited as the 'SECURE 2.0 Act of 2022'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–260, div. N, title II, §271(a), Dec. 27, 2020, 134 Stat. 1964, provided that: "This subtitle \[subtitle B (§§271–288) of title II of div. N of Pub. L. 116–260, see Tables for classification\] may be cited as the 'COVID-related Tax Relief Act of 2020'."
@@ -1547,9 +1551,9 @@ Pub. L. 113–295, div. A, title II, §201, Dec. 19, 2014, 128 Stat. 4024, provi
 
 Pub. L. 113–295, div. B, §1(a), Dec. 19, 2014, 128 Stat. 4056, provided that: "This division \[see Tables for classification\] may be cited as the 'Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014' or the 'Stephen Beck, Jr., ABLE Act of 2014'."
 
-Pub. L. 113–168, §1, Sept. 26, 2014, 128 Stat. 1883, provided that: "This Act \[enacting section 139E of this title and provisions set out as notes under section 139E of this title\] may be cited as the 'Tribal General Welfare Exclusion Act of 2014'."
+Pub. L. 113–168, §1, Sept. 26, 2014, 128 Stat. 1883, provided that: "This Act \[enacting section 139E of thistitle and provisions set out as notes under section 139E of this title\] may be cited as the 'Tribal General Welfare Exclusion Act of 2014'."
 
-Pub. L. 113–94, §1, Apr. 3, 2014, 128 Stat. 1085, provided that: "This Act \[amending sections 9006, 9008, 9009, 9012, and 9037 of this title and sections 282 and 282a of Title42, The Public Health and Welfare, and enacting provisions set out as a note under section 282a of Title 42\] may be cited as the 'Gabriella Miller Kids First Research Act'."
+Pub. L. 113–94, §1, Apr. 3, 2014, 128 Stat. 1085, provided that: "This Act \[amending sections 9006, 9008, 9009, 9012, and 9037 of this title and sections 282 and 282a of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 282a of Title 42\] may be cited as the 'Gabriella Miller Kids First Research Act'."
 
 #### Short Title of 2013 Amendment
 
@@ -1595,7 +1599,7 @@ Pub. L. 111–325, §1(a), Dec. 22, 2010, 124 Stat. 3537, provided that: "This A
 
 Pub. L. 111–312, §1(a), Dec. 17, 2010, 124 Stat. 3296, provided that: "This Act \[see Tables for classification\] may be cited as the 'Tax Relief, Unemployment Insurance Reauthorization, and Job Creation Act of 2010'."
 
-Pub. L. 111–249, §1, Sept. 30, 2010, 124 Stat. 2627, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 1135, 40117, 41743, 44302, 44303, 44703, 47104, 47107, 47115, 47141, 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and sections 1135 and 40117 of Title 49, and amendingprovisions set out as notes under sections 41731, 44701, and 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2010, Part III'."
+Pub. L. 111–249, §1, Sept. 30, 2010, 124 Stat. 2627, provided that: "This Act \[amending sections 4081, 4261,4271, and 9502 of this title and sections 1135, 40117, 41743, 44302, 44303, 44703, 47104, 47107, 47115, 47141, 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and sections 1135 and 40117 of Title 49, and amending provisions set out as notes under sections 41731, 44701, and 47109 of Title 49\] may be cited as the 'Airport and Airway Extension Act of 2010, Part III'."
 
 Pub. L. 111–240, title II, §2001, Sept. 27, 2010, 124 Stat. 2553, provided that: "This title \[amending sections 38 to 40, 55, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 862, 864, 1202, 1374, 1400L, 1400N, 6041, 6330, 6707A, 6721, and 6722 of this title and enacting provisions set out as notes under sections 38 to 40, 72, 162, 168, 179, 195, 280F, 402A, 460, 861, 1202, 1374, 6041, 6330, 6655, 6662A, 6707A, and 6721 of this title\] may be cited as the 'Creating Small Business Jobs Act of 2010'."
 
@@ -1631,7 +1635,7 @@ Pub. L. 111–69, §1, Oct. 1, 2009, 123 Stat. 2054, provided that: "This Act \[
 
 Pub. L. 111–42, title II, §201, July 28, 2009, 123 Stat. 1964, provided that: "This title \[enacting provisions set out as a note under section 6655 of this title\] may be cited as the 'Corporate Estimated Tax Shift Act of 2009'."
 
-Pub. L. 111–12, §1, Mar. 30, 2009, 123 Stat. 1457, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 of Title 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be citedas the 'Federal Aviation Administration Extension Act of 2009'."
+Pub. L. 111–12, §1, Mar. 30, 2009, 123 Stat. 1457, provided that: "This Act \[amending sections 4081, 4261, 4271, and 9502 of this title and sections 106, 40117, 44302, 44303, 47104, 47107, 47115, 47141, 48101 to 48103, and 49108 ofTitle 49, Transportation, enacting provisions set out as notes under sections 4081 and 9502 of this title and section 40117 of Title 49, and amending provisions set out as a note under section 47109 of Title 49\] may be cited as the 'Federal Aviation Administration Extension Act of 2009'."
 
 Pub. L. 111–5, §1, Feb. 17, 2009, 123 Stat. 115, provided that: "This Act \[see Tables for classification\] may be cited as the 'American Recovery and Reinvestment Act of 2009'."
 
@@ -1681,7 +1685,7 @@ Pub. L. 110–28, title VIII, §8201(a), May 25, 2007, 121 Stat. 190, provided t
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–432, §1(a), Dec. 20, 2006, 120 Stat. 2922, provided that: "This Act \[see Tables for classification\] may be cited as the 'Tax Relief and Health Care Act of 2006'."
+Pub. L. 109–432, §1(a), Dec. 20, 2006, 120 Stat. 2922, provided that: "This Act \[see Tables for classification\]may be cited as the 'Tax Relief and Health Care Act of 2006'."
 
 Pub. L. 109–432, div. A, title III, §301, Dec. 20, 2006, 120 Stat. 2948, provided that: "This title \[amending sections 106, 223, 408, and 4980G of this title and enacting provisions set out as notes under sections 106, 223, and 4980G of this title\] may be cited as the 'Health Opportunity Patient Empowerment Act of 2006'."
 
@@ -1747,7 +1751,7 @@ Pub. L. 106–170, title V, §500, Dec. 17, 1999, 113 Stat. 1918, provided that:
 
 Pub. L. 105–277, div. J, §1000(a), Oct. 21, 1998, 112 Stat. 2681–886, provided that: "This division \[§§1000–5301, see Tables for classification\] may be cited as the 'Tax and Trade Relief Extension Act of 1998'."
 
-Pub. L. 105–277, div. C, title XV, §1501, Oct. 21, 1998, 112 Stat. 2681–741, provided that: "This title \[amendingsections 4132 and 9510 of this title and section 300aa–11 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 4132 and 9510 of this title\] may be cited as the 'Vaccine Injury Compensation Program Modification Act'."
+Pub. L. 105–277, div. C, title XV, §1501, Oct. 21, 1998, 112 Stat. 2681–741, provided that: "This title \[amending sections 4132 and 9510 of this title and section 300aa–11 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 4132 and 9510 of this title\] may be cited as the 'Vaccine Injury Compensation Program Modification Act'."
 
 Pub. L. 105–206, §1(a), July 22, 1998, 112 Stat. 685, provided that: "This Act \[see Tables for classification\] may be cited as the 'Internal Revenue Service Restructuring and Reform Act of 1998'."
 
@@ -1799,7 +1803,7 @@ Pub. L. 102–227, §1(a), Dec. 11, 1991, 105 Stat. 1686, provided that: "This A
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11001(a), Nov. 5, 1990, 104 Stat. 1388–400, provided that: "This title \[see Tables forclassification\] may be cited as the 'Revenue Reconciliation Act of 1990'."
+Pub. L. 101–508, title XI, §11001(a), Nov. 5, 1990, 104 Stat. 1388–400, provided that: "This title \[see Tables for classification\] may be cited as the 'Revenue Reconciliation Act of 1990'."
 
 #### Short Title of 1989 Amendment
 
@@ -1853,7 +1857,7 @@ Pub. L. 97–424, title V, §501(a), Jan. 6, 1983, 96 Stat. 2168, provided that:
 
 #### Short Title of 1982 Amendment
 
-Pub. L. 97–362, §1(a), Oct. 25, 1982, 96 Stat. 1726, provided that: "This Act \[amending sections 8509 and 8521 of Title 5, Government Organization and Employees, sections 48, 172, 4401, 4411, 6051, 7447, 7448, 7456, 7459, and 7463 of this title, and section 601 of former Title 46, Shipping, enacting provisions set out as notes under sections 8509 and 8521 of Title 5 and sections 48, 172, 336, 4401, 4411, 6051, 7448, and 7463 of this title, and amending provisions set out as notes under section 2291 of Title19, Customs Duties, and section 3306 of this title\] may be cited as the 'Miscellaneous Revenue Act of 1982'."
+Pub. L. 97–362, §1(a), Oct. 25, 1982, 96 Stat. 1726, provided that: "This Act \[amending sections 8509 and 8521 of Title 5, Government Organization and Employees, sections 48, 172, 4401, 4411, 6051, 7447, 7448, 7456, 7459, and7463 of this title, and section 601 of former Title 46, Shipping, enacting provisions set out as notes under sections 8509 and 8521 of Title 5 and sections 48, 172, 336, 4401, 4411, 6051, 7448, and 7463 of this title, and amending provisions set out as notes under section 2291 of Title 19, Customs Duties, and section 3306 of this title\] may be cited as the 'Miscellaneous Revenue Act of 1982'."
 
 Pub. L. 97–354, §1(a), Oct. 19, 1982, 96 Stat. 1669, provided that: "This Act \[enacting sections 1361 to 1363, 1366 to 1368, 1371 to 1375, 1377 to 1379, and 6241 to 6245 of this title, amending sections 29, 31, 40, 41, 46, 48, 50A, 50B, 52, 53, 55, 57, 58, 62, 108, 163, 168, 170, 172, 179, 183, 189, 194, 267, 280, 280A, 291, 447, 464, 465, 613A, 992, 1016, 1101, 1212, 1251, 1254, 1256, 3453, 3454, 4992, 4996, 6037, 6042, 6362, and 6661 of this title and section 1108 of Title 29, Labor, omitting section 1376 of this title, and enacting provisions set out as a note under section 1361 of this title\] may be cited as the 'Subchapter S Revision Act of 1982'."
 
@@ -1899,7 +1903,7 @@ Pub. L. 95–618, §1(a), Nov. 9, 1978, 92 Stat. 3174, provided that: "This Act 
 
 Pub. L. 95–615, §1, Nov. 8, 1978, 92 Stat. 3097, provided that: "This Act \[probably meaning sections 1 to 8 of Pub. L. 95–615, amending section 167 of this title, enacting provisions set out as notes under sections 61, 62, and 911 of this title, and amending provisions set out as notes under sections 117, 167, 382, 401, and 911 of this title\] may be cited as the 'Tax Treatment Extension Act of 1977'."
 
-Pub. L. 95–615, §201(a), Nov. 8, 1978, 92 Stat. 3098, provided that: "This Act \[probably meaning sections 201 to 210 of Pub. L. 95–615, enacting section 913 of this title, amending sections 43, 62, 119, 217, 911, 1034, 1302, 1304, 1402, 3401, 6011, 6012, and 6091 of this title, and enactingprovisions set out as notes under sections 61, 401, and 911 of this title\] may be cited as the 'Foreign Earned Income Act of 1978'."
+Pub. L. 95–615, §201(a), Nov. 8, 1978, 92 Stat. 3098, provided that: "This Act \[probably meaning sections 201 to 210 of Pub. L. 95–615, enacting section 913 of this title, amending sections 43, 62, 119, 217, 911, 1034, 1302, 1304, 1402, 3401, 6011, 6012, and 6091 of this title, and enacting provisions set out as notes under sections 61, 401, and 911 of this title\] may be cited as the 'Foreign Earned Income Act of 1978'."
 
 Pub. L. 95–600, §1(a), Nov. 6, 1978, 92 Stat. 2763, provided that: "This Act \[see Tables for classification\] may be cited as the 'Revenue Act of 1978'."
 
@@ -2061,7 +2065,7 @@ Pub. L. 108–27, title III, §301(c), May 28, 2003, 117 Stat. 759, provided tha
 
 &emsp;&emsp;"(B) 8 percent of the lesser of—
 
-&emsp;&emsp;&emsp;"(i) the qualified 5-year gain (as defined in section 1(h)(9) of the Internal Revenue Code of 1986,as in effect on the day before the date of the enactment of this Act \[May 28, 2003\]) properly taken into account for the portion of the taxable year before May 6, 2003, or
+&emsp;&emsp;&emsp;"(i) the qualified 5-year gain (as defined in section 1(h)(9) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of this Act \[May 28, 2003\]) properly taken into account for the portion of the taxable year before May 6, 2003, or
 
 &emsp;&emsp;&emsp;"(ii) the excess (if any) of—
 
@@ -2131,7 +2135,7 @@ Coordination with Federal Agencies.—As soon as practicable after the date of t
 
 "(c)
 
-Implementation Pursuant to Agency Reports.—Upon receipt of the report submitted by a Federal agency pursuant to subsection (b), the Director shall review the initial determination of the agency, the agency's description of the nature of the shortfall, and the compensation payments proposed by the agency. Prior to directing payment of such payments pursuant to subsection (a), the Director shall make appropriate adjustments (if any) in the compensation payments proposed by the agency that the Director determines are necessary to comply with the requirements of subsection (a) and transmit to the agency a summary report of the review, indicating any adjustments made by the Director. The agency shall make the compensation payments as directed by the Director pursuant to subsection (a) in accordance with the Director's summary report.
+Implementation Pursuant to Agency Reports.—Upon receipt of the report submitted by a Federal agency pursuant to subsection (b), the Director shall review the initial determination of the agency, the agency's description of the nature of the shortfall, and the compensation payments proposed by the agency. Prior to directing payment of such payments pursuant to subsection (a), the Director shall make appropriate adjustments (if any) in the compensation payments proposed by the agency that the Director determines are necessary to comply with the requirementsof subsection (a) and transmit to the agency a summary report of the review, indicating any adjustments made by the Director. The agency shall make the compensation payments as directed by the Director pursuant to subsection (a) in accordance with the Director's summary report.
 
 "(d)
 
@@ -2343,7 +2347,7 @@ Pub. L. 97–448, title I, §101(a)(3), Jan. 12, 1983, 96 Stat. 2366, as amended
 
 #### Policy With Respect to Additional Tax Reductions
 
-Pub. L. 95–600, §3, Nov. 6, 1978, 92 Stat. 2767, provided that: "As a matter of national policy the rate of growthin Federal outlays, adjusted for inflation, should not exceed 1 percent per year between fiscal year 1979 and fiscal year 1983; Federal outlays as a percentage of gross national product should decline to below 21 percent in fiscal year 1980, 20.5 percent in fiscal year 1981, 20 percent in fiscal year 1982 and 19.5 percent in fiscal year 1983; and the Federal budget should be balanced in fiscal years 1982 and 1983. If these conditions are met, it is the intention that the tax-writing committees of Congress will report legislation providing significant tax reductions for individuals to the extent that these tax reductions are justified in the light of prevailing and expected economic conditions."
+Pub. L. 95–600, §3, Nov. 6, 1978, 92 Stat. 2767, provided that: "As a matter of national policy the rate of growth in Federal outlays, adjusted for inflation, should not exceed 1 percent per year between fiscal year 1979 and fiscal year 1983; Federal outlays as a percentage of gross national product should decline to below 21 percent in fiscal year 1980, 20.5 percent in fiscal year 1981, 20 percent in fiscal year 1982 and 19.5 percent in fiscal year 1983; and the Federal budget should be balanced in fiscal years 1982 and 1983. If these conditions are met, it is the intention that the tax-writing committees of Congress will report legislation providing significant tax reductions for individuals to the extent that these tax reductions are justified in the light of prevailing and expected economic conditions."
 
 #### Effective Date of Certain Definitions and Designations
 
@@ -2371,9 +2375,29 @@ Pub. L. 94–164, §1A, Dec. 23, 1975, 89 Stat. 970, provided that:
 
 Pub. L. 88–272, §1, Feb. 26, 1964, 78 Stat. 19, provided that: "It is the sense of Congress that the tax reduction provided by this Act \[see Short Title of 1964 Amendment note above\] through stimulation of the economy, will, after a brief transitional period, raise (rather than lower) revenues and that such revenue increases should first be used to eliminate the deficits in the administrative budgets and then to reduce the public debt. To further the objective of obtaining balanced budgets in the near future, Congress by this action, recognizes the importance of taking all reasonable means to restrain Government spending and urges the President to declare his accord with this objective."
 
+#### Definitions
+
+Pub. L. 105–277, div. J, title IV, §4001(a), Oct. 21, 1998, 112 Stat. 2681–906, provided that: "For purposes of this title \[amending this section, sections 51, 56, 67, 68, 86, 135, 137, 163, 172, 219, 221, 264, 351, 368, 408A, 469, 873, 954, 2001, 2031, 6015, 6103, 6159, 6311, 6404, 6693, 7421, 7443A, 7491, 9503, and 9510 of this title, and sections 401 and 407 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 51, 67, 68, 86, 172, 833, 6103, and 9503 of this title, and section 401 of Title 42, and amending provisions set out as notes under sections 6601 and 7508A of this title\]—
+
+&emsp;"(1) 1986
+
+code.—The term '1986 Code' means the Internal Revenue Code of 1986.
+
+&emsp;"(2) 1998
+
+act.—The term '1998 Act' means the Internal Revenue Service Restructuring and Reform Act of 1998 (Public Law 105–206) \[see Tables for classification\].
+
+&emsp;"(3) 1997
+
+act.—The term '1997 Act' means the Taxpayer Relief Act of 1997 (Public Law 105–34) \[see Tables for classification\]."
+
+#### <b>Executive Documents</b>
+
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 179D, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+
+<b>2023</b>—Revenue Procedure 2022–38.
 
 <b>2022</b>—Revenue Procedure 2021–45.
 
@@ -2447,19 +2471,69 @@ Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A,
 
 <b>1985</b>—Revenue Procedure 84–79.
 
-#### Definitions
+#### Ex. Ord. No. 14082. Implementation of the Energy and Infrastructure Provisions of the Inflation Reduction Act of 2022
 
-Pub. L. 105–277, div. J, title IV, §4001(a), Oct. 21, 1998, 112 Stat. 2681–906, provided that: "For purposes of this title \[amending this section, sections 51, 56, 67, 68, 86, 135, 137, 163, 172, 219, 221, 264, 351, 368, 408A, 469, 873, 954, 2001, 2031, 6015, 6103, 6159, 6311, 6404, 6693, 7421, 7443A, 7491, 9503, and 9510 of this title, and sections 401 and 407 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 51, 67, 68, 86, 172, 833, 6103, and 9503 of this title, and section 401 of Title 42, and amending provisions set out as notes under sections 6601 and 7508A of this title\]—
+Ex. Ord. No. 14082, Sept. 12, 2022, 87 F.R. 56861, provided:
 
-&emsp;"(1) 1986
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to effectively implement the historic energy and infrastructure provisions in Public Law 117–169, commonly referred to as the Inflation Reduction Act of 2022 (the "Act") \[see Tables for classification\], and to accelerate United States global leadership in clean energy innovation, manufacturing, and deployment in a way that cuts consumer energy costs, creates well-paying union jobs and sustainable and equitable economic opportunity, advances environmental justice, and addresses the climate crisis, it is hereby ordered as follows:
 
-code.—The term '1986 Code' means the Internal Revenue Code of 1986.
+Section 1. <i>Background</i>. The Act is the single largest and most ambitious investment in the ability of the United States to advance clean energy, cut consumer energy costs, confront the climate crisis, promote environmental justice, and strengthen energy security, among other vital provisions that will lower costs for families, reduce the deficit, and grow and strengthen the economy. The Act will:
 
-&emsp;"(2) 1998
+(a) build on the once-in-a-generation investment in the infrastructure and competitiveness of the United States set forth in the Infrastructure Investment and Jobs Act (Public Law 117–58) \[see Tables for classification\] by accelerating the deployment of clean energy technologies, making home energy efficiency and clean energy installations more affordable, and incentivizing the purchase of electric vehicles;
 
-act.—The term '1998 Act' means the Internal Revenue Service Restructuring and Reform Act of 1998 (Public Law 105–206) \[see Tables for classification\].
+(b) boost energy security and lower energy costs for families, businesses, and government;
 
-&emsp;"(3) 1997
+(c) revitalize American manufacturing by investing in domestic clean energy supply chains and creating well-paying union jobs, including in traditional energy communities;
 
-act.—The term '1997 Act' means the Taxpayer Relief Act of 1997 (Public Law 105–34) \[see Tables for classification\]."
+(d) improve public health and advance environmental justice and economic opportunity for frontline communities who disproportionately bear the brunt of cumulative exposure to industrial and energy pollution;
+
+(e) promote climate justice by reducing harmful greenhouse gas emissions in line with the goal of realizing net-zero emissions by no later than 2050;
+
+(f) harness nature-based solutions—including climate-smart agriculture and forestry—that deliver economic benefits for rural communities, Tribes, farmers, ranchers, and forest landowners;
+
+(g) expand research and accelerate innovation in the development of clean energy, climate, and related technologies; and
+
+(h) increase the resilience of our communities in the face of a changing climate.
+
+Achieving these goals will require effective implementation of the Act by my Administration, as well as by State, local, Tribal, and territorial governments.
+
+Sec. 2. <i>Implementation Priorities</i>. In implementing the Act, all agencies (as described in section 3502(1) of title 44, United States Code, except for the agencies described in section 3502(5) of title 44) shall, as appropriate and to the extent consistent with law, prioritize:
+
+(a) investing public dollars effectively and efficiently, working to avoid waste, and achieving measurable, demonstrable outcomes for the American people;
+
+(b) driving progress to achieve the climate goals of the United States to reduce greenhouse gas emissions 50–52 percent below 2005 levels in 2030, achieve a carbon pollution-free electricity sector by 2035, and achieve net-zero emissions by no later than 2050;
+
+(c) advancing environmental and climate justice through an all-of-government approach, including through the Justice40 Initiative set forth in Executive Order 14008 of January 27, 2021 (Tackling the Climate Crisis at Home and Abroad) \[42 U.S.C. 4321 note\], to protect and improve the health and well-being of fence-line and frontline communities in the United States;
+
+(d) promoting construction of clean energy generation, storage, and transmission, and enabling technologies through efficient, effective mechanisms that incorporate community engagement;
+
+(e) increasing the competitiveness of the United States economy and investment in critical supply chains, including through the Act's incentives and measures to strengthen domestic manufacturing and supply chains;
+
+(f) increasing high-quality job opportunities for American workers and improving equitable access to these jobs, including in traditional energy communities, through the timely implementation of the Act's requirements for prevailing wages and registered apprenticeships and by focusing on high labor standards and the free and fair chance to join a union;
+
+(g) reducing energy costs for working families, businesses, and governments at all levels while increasing energy security for the benefit of United States economic competitiveness and national security;
+
+(h) accelerating innovation by directing the scientific and technical expertise of America's researchers, businesses, and workers toward achieving breakthroughs in clean energy and climate technologies; and
+
+(i) effectively coordinating with State, local, Tribal, and territorial governments, as well as with private-sector stakeholders and nongovernmental organizations, in implementing the critical investments outlined in this section to build sustainable, resilient communities.
+
+Sec. 3. <i>White House Office on Clean Energy Innovation and Implementation</i>. There is hereby established the White House Office on Clean Energy Innovation and Implementation within the Executive Office of the President, which shall coordinate the policymaking process with respect to implementing the energy and infrastructure provisions of the Act and other essential initiatives. The White House Office on Clean Energy Innovation and Implementation shall have a staff headed by the Senior Advisor for Clean Energy Innovation and Implementation; shall have such staff and other assistance as may be necessary to carry out the provisions of this order, subject to the availability of appropriations; and may work with established or ad hoc committees and interagency groups.
+
+Sec. 4. <i>Interagency Coordination</i>. (a) \[Amended Ex. Ord. No. 14008, set out as a note under section 4321 of Title 42, The Public Health and Welfare.\]
+
+(b) \[Amended Ex. Ord. No. 12898, set out as a note under section 4321 of Title 42.\]
+
+(c) \[Amended Ex. Ord. No. 14052, set out as a note under section 101 of Title 23, Highways.\]
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

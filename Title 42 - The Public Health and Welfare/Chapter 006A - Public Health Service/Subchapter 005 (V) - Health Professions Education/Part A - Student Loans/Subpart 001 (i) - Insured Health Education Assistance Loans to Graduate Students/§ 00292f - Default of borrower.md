@@ -18,7 +18,7 @@
 
 #### (C) Annual audits for lenders, holders, and servicers
 
-&emsp;&emsp;Each eligible lender, holder, or servicer desiring a designation under subparagraph (A) shall have an annual financial and compliance audit conducted with respect to the loan portfolio of such eligible lender, holder,or servicer, by a qualified independent organization from a list of qualified organizations identified by the Secretary and in accordance with standards established by the Secretary. The standards shall measure the lender's, holder's, or servicer's compliance with due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender, holder, or servicer for the purpose of this section. Each eligible lender, holder, or servicer shall submit the audit required by this section to the Secretary.
+&emsp;&emsp;Each eligible lender, holder, or servicer desiring a designation under subparagraph (A) shall have an annual financial and compliance audit conducted with respect to the loan portfolio of such eligible lender, holder, or servicer, by a qualified independent organization from a list of qualified organizations identified by the Secretary and in accordance with standards established by the Secretary. The standards shall measure the lender's, holder's, or servicer's compliance with due diligence standards and shall include a defined statistical sampling technique designed to measure the performance rating of the eligible lender, holder, or servicer for the purpose of this section. Each eligible lender, holder, or servicer shall submit the audit required by this section to the Secretary.
 
 #### (D) Secretary's determinations
 
@@ -30,7 +30,7 @@
 
 #### (F) Revocation authority
 
-&emsp;&emsp;The Secretary shall revoke the designation of a lender, holder, or servicer under subparagraph (A) if any quarterly audit required under subparagraph (E) is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender, holder, or servicer has failed to meet the standards for designation as an exceptional performer under subparagraph (A). A lender, holder, or servicer receiving a compliance audit not meeting the standard for designation as an exceptional performer may reapply for designation under subparagraph (A) at any time.
+&emsp;&emsp;The Secretary shall revoke the designation of a lender, holder, or servicer undersubparagraph (A) if any quarterly audit required under subparagraph (E) is not received by the Secretary by the date established by the Secretary or if the audit indicates the lender, holder, or servicer has failed to meet the standards for designation as an exceptional performer under subparagraph (A). A lender, holder, or servicer receiving a compliance audit not meeting the standard for designation as an exceptional performer may reapply for designation under subparagraph (A) at any time.
 
 #### (G) Documentation
 
@@ -124,7 +124,7 @@ An institution or postgraduate training program attended by a borrower may assis
 
 #### References in Text
 
-The Federal False Claims Act, referred to in subsec. (a)(2)(J), probably means the False Claims Act which was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231,232, 233, and 235 were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1084, and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
+The Federal False Claims Act, referred to in subsec. (a)(2)(J), probably means the False Claims Act which was the popular name for sections 231, 232, 233, and 235 of former Title 31, Money and Finance. Sections 231, 232, 233, and 235 were repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1084, and reenacted by the first section thereof as sections 3729 to 3731 of Title 31, Money and Finance.
 
 #### Prior Provisions
 
@@ -142,7 +142,7 @@ Subsec. (e)(4). Pub. L. 105–392, §142(b), added par. (4).
 
 Subsec. (g). Pub. L. 105–392, §144(a), substituted "Notwithstanding any other provision of Federal or State law, a debt that is a loan insured" for "A debt which is a loan insured" in introductory provisions.
 
-<b>1993</b>—Subsec. (g)(1). Pub. L. 103–43, §2014(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "after the expiration of the five-year period beginning on the first date, as specified in subparagraphs (B) and (C) of section 292d(a)(2) of this title, when repayment of such loan is required;".
+<b>1993</b>—Subsec. (g)(1). Pub. L. 103–43, §2014(a)(2)(A), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: "after the expiration of the five-year period beginning on the first date, as specified in subparagraphs (B) and (C) of section 292d(a)(2) of this title, when repayment of such loan is required;".
 
 Subsec. (j). Pub. L. 103–43, §2014(a)(2)(B), added subsec. (j).
 

@@ -78,6 +78,110 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Non-Federal Interest Advisory Committee
+
+Pub. L. 117–263, div. H, title LXXXI, §8150, Dec. 23, 2022, 136 Stat. 3731, provided that:
+
+"(a)
+
+In General.—Not later than 90 days after the date of enactment of this Act \[Dec. 23, 2022\], the Secretary \[of the Army\] shall establish a committee, to be known as the 'Non-Federal Interest Advisory Committee' and referred to in this section as the 'Committee', to develop and make recommendations to the Secretary and the Chief of Engineers on activities and actions that should be undertaken by the Corps of Engineers to ensure more effective and efficient delivery of water resources development projects, programs, and other assistance.
+
+"(b)
+
+Membership.—
+
+&emsp;"(1)
+
+In general.—The Committee shall be composed of the members described in paragraph (2), who shall—
+
+&emsp;&emsp;"(A) be appointed by the Secretary; and
+
+&emsp;&emsp;"(B) have the requisite experiential or technical knowledge needed to address issues related to water resources needs and challenges.
+
+&emsp;"(2)
+
+Representatives.—The members of the Committee shall include the following:
+
+&emsp;&emsp;"(A) 1 representative of each of the following:
+
+&emsp;&emsp;&emsp;"(i) A non-Federal interest for a project for navigation for an inland harbor.
+
+&emsp;&emsp;&emsp;"(ii) A non-Federal interest for a project for navigation for a harbor.
+
+&emsp;&emsp;&emsp;"(iii) A non-Federal interest for a project for flood risk management.
+
+&emsp;&emsp;&emsp;"(iv) A non-Federal interest for a project for coastal storm risk management.
+
+&emsp;&emsp;&emsp;"(v) A non-Federal interest for a project for aquatic ecosystem restoration.
+
+&emsp;&emsp;"(B) 1 representative of each of the following:
+
+&emsp;&emsp;&emsp;"(i) A non-Federal stakeholder with respect to inland waterborne transportation.
+
+&emsp;&emsp;&emsp;"(ii) A non-Federal stakeholder with respect to water supply.
+
+&emsp;&emsp;&emsp;"(iii) A non-Federal stakeholder with respect to recreation.
+
+&emsp;&emsp;&emsp;"(iv) A non-Federal stakeholder with respect to hydropower.
+
+&emsp;&emsp;&emsp;"(v) A non-Federal stakeholder with respect to emergency preparedness, including coastal protection.
+
+&emsp;&emsp;"(C) 1 representative of each of the following:
+
+&emsp;&emsp;&emsp;"(i) An organization with expertise in conservation.
+
+&emsp;&emsp;&emsp;"(ii) An organization with expertise in environmental policy.
+
+&emsp;&emsp;&emsp;"(iii) An organization with expertise in rural water resources.
+
+"(c)
+
+Duties.—
+
+&emsp;"(1)
+
+Recommendations.—The Committee shall provide advice and make recommendations to the Secretary and the Chief of Engineers to assist the Corps of Engineers in—
+
+&emsp;&emsp;"(A) efficiently and effectively delivering water resources development projects;
+
+&emsp;&emsp;"(B) improving the capability and capacity of the workforce of the Corps of Engineers to deliver such projects and other assistance;
+
+&emsp;&emsp;"(C) improving the capacity and effectiveness of Corps of Engineers consultation and liaison roles in communicating water resources needs and solutions, including regionally specific recommendations; and
+
+&emsp;&emsp;"(D) strengthening partnerships with non-Federal interests to advance water resources solutions.
+
+&emsp;"(2)
+
+Meetings.—The Committee shall meet as appropriate to develop and make recommendations under paragraph (1).
+
+&emsp;"(3)
+
+Report.—Recommendations made under paragraph (1) shall be—
+
+&emsp;&emsp;"(A) included in a report submitted to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives; and
+
+&emsp;&emsp;"(B) made publicly available, including on a publicly available website.
+
+"(d)
+
+Independent Judgment.—Any recommendation made by the Committee to the Secretary and the Chief of Engineers under subsection (c)(1) shall reflect the independent judgment of the Committee.
+
+"(e)
+
+Administration.—
+
+&emsp;"(1)
+
+Compensation.—Except as provided in paragraph (2), the members of the Committee shall serve without compensation.
+
+&emsp;"(2)
+
+Travel expenses.—The members of the Committee shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
+
+&emsp;"(3)
+
+Treatment.—The members of the Committee shall not be considered to be Federal employees, and the meetings and reports of the Committee shall not be considered a major Federal action under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)."
+
 #### Implementation Guidance
 
 Pub. L. 116–260, div. AA, title II, §223(d), Dec. 27, 2020, 134 Stat. 2696, provided that: "The Secretary \[of the Army\] shall expeditiously issue any guidance necessary to implement any provision of this Act \[div. AA of Pub. L. 116–260, see Tables for classification\], including any amendments made by this Act, in accordance with section 1105 of the Water Resources Development Act of 2018 (33 U.S.C. 2202)."

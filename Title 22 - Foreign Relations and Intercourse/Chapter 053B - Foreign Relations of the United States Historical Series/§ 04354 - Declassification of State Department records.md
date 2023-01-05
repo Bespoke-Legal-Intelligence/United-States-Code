@@ -8,7 +8,7 @@
 
 #### (b) Exempted records
 
-Subsection (a) shall not apply to any record (or portion thereof) the publication of which the Secretary of State, in coordination with anyagency that originated information in the records, determines—
+Subsection (a) shall not apply to any record (or portion thereof) the publication of which the Secretary of State, in coordination with any agency that originated information in the records, determines—
 
 &emsp;(1) would compromise weapons technology important to the national defense of the United States or reveal sensitive information relating to the design of United States or foreign military equipment or relating to United States cryptologic systems or activities;
 

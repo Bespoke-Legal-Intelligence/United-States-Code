@@ -2,7 +2,7 @@
 
 There is hereby authorized a program to support artistic and cultural programs in the Nation's Capital to be established under the direction of the Commission of Fine Arts. Not to exceed $10,000,000 annually is authorized to provide grants for general operating support to eligible organizations located in the District of Columbia whose primary purpose is performing, exhibiting and/or presenting arts.
 
-Eligibility for grants shall be limited to not-for-profit, non-academic institutions of demonstrated national repute and is further limited to organizations having annual income, exclusive of Federal funds, in excess of $1,000,000 for each of the three years prior to receipt of a grant. Each eligible organization must have its principal place of business in the District of Columbia and in a facility or facilities located in the District of Columbia.
+Eligibility for grants shall be limited to not-for-profit, non-academic institutions of demonstrated national repute and is further limited to organizations having annual income, exclusive of Federal funds, in excess of $1,000,000 for each of the three years prior to receipt of agrant. Each eligible organization must have its principal place of business in the District of Columbia and in a facility or facilities located in the District of Columbia.
 
 The Chairman of the Commission of Fine Arts shall establish an application process and shall, along with the Chairman of the National Endowment for the Arts and the Chairman of the National Endowment for the Humanities determine the eligibility of applicant organizations.
 
@@ -37,6 +37,14 @@ Section was not enacted as part of the National Foundation on the Arts and the H
 <b>1986</b>—Pub. L. 99–500 and Pub. L. 99–591 substituted "whose primary purpose is" for "which are engaged primarily in" in first par. and "annual income, exclusive of Federal Funds," for "an annual operating budget", "operating budget", and "operating budgets" in third and fourth pars.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Eligibility Limitation
+
+Pub. L. 117–328, div. G, title III, Dec. 29, 2022, 136 Stat. 4818, provided in part: "That the item relating to 'National Capital Arts and Cultural Affairs' in the Department of the Interior and Related Agencies Appropriations Act, 1986, as enacted into law by section 101(d) of Public Law 99–190 (20 U.S.C. 956a), shall be applied in fiscal year 2023 in the second paragraph by inserting ', calendar year 2020 excluded' before the first period: <i>Provided further</i>, That in determining an eligible organization's annual income for calendar years 2021, 2022, and 2023, funds or grants received by the eligible organization from any supplemental appropriations Act related to coronavirus or any other law providing appropriations for the purpose of preventing, preparing for, or responding to coronavirus shall be counted as part of the eligible organization's annual income."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–103, div. G, title III, Mar. 15, 2022, 136 Stat. 407.
 
 #### Redesignation of Capital Children's Museum as National Children's Museum
 

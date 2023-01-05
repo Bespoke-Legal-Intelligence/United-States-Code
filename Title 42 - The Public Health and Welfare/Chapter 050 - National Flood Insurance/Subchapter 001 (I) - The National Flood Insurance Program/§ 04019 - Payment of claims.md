@@ -8,7 +8,7 @@ The Administrator is authorized to prescribe regulations establishing the genera
 
 #### (1) Pre-firm properties
 
-&emsp;For any structure which is covered by flood insurance under this chapter, and on which construction or substantial improvement occurred on or before December 31, 1974, or before the effective date of an initial flood insurance rate map published by the Administrator under section 4101 of this title for the area in which such structure is located, the minimum annual deductible for damage to such structure shall be—
+&emsp;For any structure which is covered by flood insurance under this chapter, and on which construction or substantial improvement occurred on or before December 31, 1974, or before the effective date of an initial flood insurance rate map published by the Administrator under section 4101 of this title for the area inwhich such structure is located, the minimum annual deductible for damage to such structure shall be—
 
 &emsp;&emsp;(A) $1,500, if the flood insurance coverage for such structure covers loss of, or physical damage to, such structure in an amount equal to or less than $100,000; and
 

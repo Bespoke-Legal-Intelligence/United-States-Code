@@ -62,7 +62,7 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 &emsp;(2) the term "counterfeit access device" means any access device that is counterfeit, fictitious, altered, or forged, or an identifiable component of an access device or a counterfeit access device;
 
-&emsp;(3) the term "unauthorized access device" means any access device that is lost, stolen, expired, revoked, canceled, or obtained with intent to defraud;
+&emsp;(3) the term "unauthorized access device" means any access device that is lost, stolen,expired, revoked, canceled, or obtained with intent to defraud;
 
 &emsp;(4) the term "produce" includes design, alter, authenticate, duplicate, or assemble;
 
@@ -96,11 +96,11 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 Section 413 of the Controlled Substances Act, referred to in subsec. (c)(2), is classified to section 853 of Title 21, Food and Drugs.
 
-The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 1934, ch. 652, 48 Stat. 1964, as amended. Title III of the Act is classified generally to subchapter III (§301 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 1934, ch. 652, 48 Stat. 1964. Title III of the Act is classified generally to subchapter III (§301 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 #### Amendments
 
-<b>2015</b>—Subsec. (h). Pub. L. 114–113 substituted "title if the offense involves an access device issued, owned,managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States." for "title if—
+<b>2015</b>—Subsec. (h). Pub. L. 114–113 substituted "title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States." for "title if—
 
 &emsp;"(1) the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity within the jurisdiction of the United States; and
 
@@ -116,7 +116,7 @@ Subsec. (e)(8). Pub. L. 107–273, §4002(b)(11)(B), inserted semicolon at end.
 
 &emsp;"(A) a scanning receiver; or
 
-&emsp;"(B) hardware or software used for altering or modifying telecommunications instruments to obtain unauthorized access to telecommunications services, or".
+&emsp;"(B) hardware or software used for altering or modifying telecommunications instruments to obtainunauthorized access to telecommunications services, or".
 
 Subsec. (b)(1). Pub. L. 105–172, §2(b)(2), substituted "subject to the same penalties as those prescribed for the offense attempted" for "punished as provided in subsection (c) of this section".
 

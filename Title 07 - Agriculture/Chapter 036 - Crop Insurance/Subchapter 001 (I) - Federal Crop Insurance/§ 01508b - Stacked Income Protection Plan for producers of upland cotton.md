@@ -24,7 +24,7 @@ The Corporation may modify the Stacked Income Protection Plan on a program-wide 
 
 &emsp;&emsp;(B) an expected county yield that is the higher of—
 
-&emsp;&emsp;&emsp;(i) the expected county yield established for the existing area-wide plans offered by the Corporation for the applicable county (or area) and crop year (or, in geographicareas where area-wide plans are not offered, an expected yield determined in a manner consistent with those of area-wide plans); or
+&emsp;&emsp;&emsp;(i) the expected county yield established for the existing area-wide plans offered by the Corporation for the applicable county (or area) and crop year (or, in geographic areas where area-wide plans are not offered, an expected yield determined in a manner consistent with those of area-wide plans); or
 
 &emsp;&emsp;&emsp;(ii) the average of the applicable yield data for the county (or area) for the most recent 5 years, excluding the highest and lowest observations, from the Risk Management Agency or the National Agricultural Statistics Service (or both) or, if sufficient county data is not available, such other data considered appropriate by the Secretary.
 

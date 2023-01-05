@@ -38,7 +38,7 @@ Each recipient of a grant awarded under subsection (a) shall—
 
 &emsp;&emsp;(B) ensure that the grant funds are expended for the purposes for which the grant was made, and
 
-&emsp;(2) submit to such Secretary at the close of the term of the grant a final report which shall include such information as the Secretary may require.
+&emsp;(2) submit to such Secretary at the close of the term of the grant a final report whichshall include such information as the Secretary may require.
 
 #### (e) Authorization of appropriations
 

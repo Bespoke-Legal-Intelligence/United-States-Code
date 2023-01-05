@@ -54,7 +54,7 @@ Financial Uses.—In defining, maintaining, and updating the account structure a
 
 &emsp;&emsp;(B) capital activities as described in section 24904(a)(2)(E);
 
-&emsp;&emsp;(C) acquiring, rehabilitating, manufacturing, remanufacturing, overhauling, or improving equipment and associated facilitiesused for intercity rail passenger transportation by Northeast Corridor train services;
+&emsp;&emsp;(C) acquiring, rehabilitating, manufacturing, remanufacturing, overhauling, or improving equipment and associated facilities used for intercity rail passenger transportation by Northeast Corridor train services;
 
 &emsp;&emsp;(D) payment of principal and interest on loans for capital projects described in this paragraph or for capital leases attributable to the Northeast Corridor;
 

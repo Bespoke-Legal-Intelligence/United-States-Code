@@ -12,7 +12,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 &emsp;(2) A member of the Advisory Council may continue to serve after the expiration of the term of such member until a successor is appointed.
 
-&emsp;(3) In order to ensure the continuity of the Advisory Council, the Advisory Council shallbe appointed so that each year the terms of approximately one-third of the members of the Advisory Council expire.
+&emsp;(3) In order to ensure the continuity of the Advisory Council, the Advisory Council shall be appointed so that each year the terms of approximately one-third of the members of the Advisory Council expire.
 
 &emsp;(4) The membership of the Advisory Council—
 
@@ -194,7 +194,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 &emsp;&emsp;(A) The Program shall give priority to supporting activities under this part to increase representation for such populations in order to enable a member of such a population, to the extent practicable, to have a probability of finding a suitable cord blood unit that is comparable to the probability that an individual who is not a member of an underrepresented population would have.
 
-&emsp;&emsp;(B) The Program shall consider racial and ethnic minority groups (including persons ofmixed ancestry) to be populations that have been identified for purposes of this paragraph, and shall support activities under subparagraph (A) with respect to such populations.
+&emsp;&emsp;(B) The Program shall consider racial and ethnic minority groups (including persons of mixed ancestry) to be populations that have been identified for purposes of this paragraph, and shall support activities under subparagraph (A) with respect to such populations.
 
 #### (2) Information and education regarding recruitment; testing and donation
 
@@ -210,7 +210,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 #### (B) Priorities
 
-&emsp;&emsp;In carrying out informational and educational activities under subparagraph (A), the Program shall give priority to supporting the recruitment of pregnant women to serve as donors of cord blood for populations that are identified under paragraph (1).
+&emsp;&emsp;In carrying out informational and educational activities under subparagraph (A),the Program shall give priority to supporting the recruitment of pregnant women to serve as donors of cord blood for populations that are identified under paragraph (1).
 
 #### (3) Transplantation as treatment option
 
@@ -286,7 +286,7 @@ In developing policies affecting the Program, the Secretary shall consult with t
 
 #### (1) Application
 
-&emsp;To be eligible to enter into a contract under this section, an entity shall submit to the Secretary and obtain approval of an application at such time, in such manner, and containing such information as the Secretary shall by regulation prescribe.
+&emsp;To be eligible to enter into a contract under this section, an entity shall submit to the Secretary and obtain approval of an applicationat such time, in such manner, and containing such information as the Secretary shall by regulation prescribe.
 
 #### (2) Considerations
 
@@ -342,7 +342,7 @@ Pub. L. 117–15, §2(b)(1), made technical amendment to directory language of P
 
 Subsec. (o). Pub. L. 117–15, §2(c), added subsec. (o).
 
-<b>2015</b>—Subsec. (d)(2)(B). Pub. L. 114–104, §2(a)(2), as amended by Pub. L. 117–15, §2(b)(1), inserted "includingremote collection," after "goal of increasing collections of high quality cord blood units,".
+<b>2015</b>—Subsec. (d)(2)(B). Pub. L. 114–104, §2(a)(2), as amended by Pub. L. 117–15, §2(b)(1), inserted "including remote collection," after "goal of increasing collections of high quality cord blood units,".
 
 Pub. L. 114–104, §2(a)(1), substituted "expanding collection" for "expanding remote collection".
 
@@ -358,7 +358,7 @@ Subsec. (d)(3)(A). Pub. L. 111–264, §2(b)(2)(B), substituted "(2)(A)(i)" for 
 
 Subsec. (f)(5)(A). Pub. L. 111–264, §2(b)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: "require the establishment of a system of strict confidentiality of records relating to the identity, address, HLA type, and managing marrow donor center for marrow donors and potential marrow donors; and".
 
-<b>2005</b>—Pub. L. 109–129 amended section generally, substituting provisions relating to the C.W. Bill Young Cell Transplantation Program for provisions relating to the National Bone Marrow Donor Registry.
+<b>2005</b>—Pub. L. 109–129 amended section generally, substituting provisions relating to the C.W. Bill YoungCell Transplantation Program for provisions relating to the National Bone Marrow Donor Registry.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–196, §2(a), substituted "(referred to in this part as the 'Registry') that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow, and that meets" for "(referred to in this part as the 'Registry') that meets" and substituted "under the direction of a board of directors meeting the following requirements:" and pars. (1) to (4) for "under the direction of a board of directors that shall include representatives of marrow donor centers, marrow transplant centers, persons with expertise in the social science, and the general public."
 
@@ -452,7 +452,7 @@ Requirements.—The Secretary shall require each recipient of a contract under t
 
 "(c)
 
-Application.—To seek to enter into a contract under this section, a qualified cord blood bank shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. At a minimum, an application for a contract under this section shall include a requirement that the applicant—
+Application.—To seek to enter into a contract under this section, a qualified cord blood bank shall submit an application to the Secretary at such time, in such manner, and containing such information as theSecretary may reasonably require. At a minimum, an application for a contract under this section shall include a requirement that the applicant—
 
 &emsp;"(1) will participate in the C.W. Bill Young Cell Transplantation Program for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section;
 
@@ -528,7 +528,7 @@ Pub. L. 105–196, §2(b)(2), July 16, 1998, 112 Stat. 632, directed the Secreta
 
 #### Study by GAO
 
-Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct astudy of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
+Pub. L. 105–196, §5, July 16, 1998, 112 Stat. 636, provided that the Comptroller General was to conduct a study of the National Bone Marrow Donor Registry under this section to determine the extent to which the Registry had increased the representation of racial and ethnic minority groups among potential donors enrolled with the Registry and whether the extent of increase resulted in a level of representation that met the standard established in subsec. (c)(1)(A) of this section, the extent to which patients in need of a transplant of bone marrow from a biologically unrelated donor, and the physicians of such patients, had been utilizing the Registry, the number of patients for whom the Registry began a preliminary but not complete search process and the reasons underlying such circumstances, the extent to which the plan required in section 2(b)(2) of Pub. L. 105–196 (42 U.S.C. 274k note) had been implemented, and the extent to which the Registry, donor centers, donor registries, collection centers, transplant centers, and other appropriate entities had been complying with subsec. (e) of this section; and provided that a report describing the findings of this study was to be submitted to Congress not later than Oct. 1, 2001, and not before Jan. 1, 2001.
 
 #### Compliance With New Requirements for Office of Patient Advocacy
 

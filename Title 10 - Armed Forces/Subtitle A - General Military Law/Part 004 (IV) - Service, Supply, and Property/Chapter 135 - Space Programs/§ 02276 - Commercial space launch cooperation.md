@@ -38,7 +38,7 @@ Contributions.—
 
 &emsp;(1)
 
-In general.—The Secretary of Defense may enter into an agreement with a covered entity on a cooperative and voluntary basis toaccept contributions of funds, services, and equipment to carry out this section.
+In general.—The Secretary of Defense may enter into an agreement with a covered entity on a cooperative and voluntary basis to accept contributions of funds, services, and equipment to carry out this section.
 
 &emsp;(2)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Subject to the availability of appropriations, the Secretary of Transportation shall provide for the establishment, sustainment, and operation of a land-based, resilient, and reliable alternative timing system—
+In General.—Subject to the availability of appropriations, the Secretary of Transportation shall provide for the establishment, sustainment, and operation of a resilient,<sup>1</sup> and reliable alternative timing system—
 
 &emsp;(1) to reduce critical dependencies and provide a complement to and backup for the timing component of the Global Positioning System (referred to in this section as "GPS"); and
 
@@ -56,7 +56,7 @@ Plan required.—Not later than 180 days after the date of enactment of the Nati
 
 &emsp;&emsp;(A) A plan to develop, construct, and operate the system required by subsection (a).
 
-&emsp;&emsp;(B) A description and assessment of the advantages of a system to provide a follow-on complementary and backup positioning and navigation capability to the timing component of GPS.
+&emsp;&emsp;(B) A description and assessment of the advantages of a system to provide a follow-oncomplementary and backup positioning and navigation capability to the timing component of GPS.
 
 &emsp;(2)
 
@@ -116,13 +116,13 @@ Authorization to purchase services.—The Secretary may not purchase timing syst
 
 &emsp;(5)
 
-Determination requirement.—The Secretary may not enter into a cooperative agreement under this subsection unless the Secretary determines that the cooperative agreement is in the best financial interest of the Federal Government. The Secretary shall notify the Committee on Committee on <sup>1</sup> Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of such determination not later than 30 days after the date of the determination.
+Determination requirement.—The Secretary may not enter into a cooperative agreement under this subsection unless the Secretary determines that the cooperative agreement is in the best financial interest of the Federal Government. The Secretary shall notify the Committee on Committee on <sup>2</sup> Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of such determination not later than 30 days after the date of the determination.
 
 &emsp;(6)
 
 Definition.—In this subsection the term "entity" means a non-Federal entity with the demonstrated technical expertise and requisite administrative and financial resources to meet any terms and conditions established by the Secretary for purposes of this subsection.
 
-(Added Pub. L. 115–282, title V, §514(b), Dec. 4, 2018, 132 Stat. 4276; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8507(d)(2), Jan. 1, 2021, 134 Stat. 4754.)
+(Added Pub. L. 115–282, title V, §514(b), Dec. 4, 2018, 132 Stat. 4276; amended Pub. L. 116–283, div. G, title LVXXXV \[LXXXV\], §8507(d)(2), Jan. 1, 2021, 134 Stat. 4754; Pub. L. 117–103, div. L, title I, §109A, Mar. 15, 2022, 136 Stat. 691.)
 
 #### <b>Editorial Notes</b>
 
@@ -134,11 +134,13 @@ Section 1618 of the National Defense Authorization Act for Fiscal Year 2017, ref
 
 #### Amendments
 
+<b>2022</b>—Subsec. (a). Pub. L. 117–103 struck out "land-based," after "operation of a".
+
 <b>2021</b>—Pub. L. 116–283 made technical correction to directory language of Pub. L. 115–282, §514(b), which enacted this section.
 
 #### Effective Date of 2021 Amendment
 
-Section 8507(d) of div. G of Pub. L. 116–283 effective as if included in Pub. L. 115–282, see section 8507(d)(7) of Pub. L. 116–283, set out as a note under section 1226 of Title 33, Navigation and Navigable Waters.
+Section 8507(d) of div. G of Pub. L. 116–283 effective as if included in Pub. L. 115–282, see section 8507(d)(7) ofPub. L. 116–283, set out as a note under section 1226 of Title 33, Navigation and Navigable Waters.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -146,5 +148,7 @@ Section 8507(d) of div. G of Pub. L. 116–283 effective as if included in Pub. 
 
 For short title of section 514 of Pub. L. 115–282, which enacted this section, as the "National Timing Resilience and Security Act of 2018", see section 514(a) of Pub. L. 115–282, set out as a Short Title of 2018 Amendment note under section 101 of this title.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

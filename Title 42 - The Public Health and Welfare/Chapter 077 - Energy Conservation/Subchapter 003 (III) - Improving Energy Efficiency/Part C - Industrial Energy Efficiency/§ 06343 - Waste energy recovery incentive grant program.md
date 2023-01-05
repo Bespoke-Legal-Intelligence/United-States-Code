@@ -74,7 +74,7 @@ There are authorized to be appropriated to the Secretary—
 
 #### Prior Provisions
 
-A prior section 6343, Pub. L. 94–163, title III, §373, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–619, title VI, §§601(a), 691(b)(2), Nov. 9, 1978, 92 Stat. 3282, 3288, related to identification of major energy-consuming industries and corporations in the United States, prior to repeal byPub. L. 99–509, title III, §3101(b), Oct. 21, 1986, 100 Stat. 1888.
+A prior section 6343, Pub. L. 94–163, title III, §373, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–619, title VI, §§601(a), 691(b)(2), Nov. 9, 1978, 92 Stat. 3282, 3288, related to identification of major energy-consuming industries and corporations in the United States, prior to repeal by Pub. L. 99–509, title III, §3101(b), Oct. 21, 1986, 100 Stat. 1888.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

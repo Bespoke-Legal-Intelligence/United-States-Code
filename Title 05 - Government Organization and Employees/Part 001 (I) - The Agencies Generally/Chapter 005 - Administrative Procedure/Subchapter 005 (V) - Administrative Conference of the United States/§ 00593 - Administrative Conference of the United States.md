@@ -4,7 +4,7 @@
 
 (b) The Conference is composed of—
 
-&emsp;(1) a full-time Chairman appointed for a 5-year term by the President, by and with theadvice and consent of the Senate. The Chairman is entitled to pay at the highest rate established by statute for the chairman of an independent regulatory board or commission, and may continue to serve until his successor is appointed and has qualified;
+&emsp;(1) a full-time Chairman appointed for a 5-year term by the President, by and with the advice and consent of the Senate. The Chairman is entitled to pay at the highest rate established by statute for the chairman of an independent regulatory board or commission, and may continue to serve until his successor is appointed and has qualified;
 
 &emsp;(2) the chairman of each independent regulatory board or commission or an individual designated by the board or commission;
 

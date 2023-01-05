@@ -190,7 +190,7 @@
 
 #### (C) "Emergency medical condition" defined
 
-&emsp;&emsp;In subparagraph (B)(ii), the term "emergency medical condition" means a medical condition manifesting itself by acute symptoms of sufficient severity (including severepain) such that a prudent layperson, who possesses an average knowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in—
+&emsp;&emsp;In subparagraph (B)(ii), the term "emergency medical condition" means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that a prudent layperson, who possesses an average knowledge of health and medicine, could reasonably expect the absence of immediate medical attention to result in—
 
 &emsp;&emsp;&emsp;(i) placing the health of the individual (or, with respect to a pregnant woman, the health of the woman or her unborn child) in serious jeopardy,
 
@@ -214,7 +214,7 @@
 
 &emsp;&emsp;&emsp;(i) objects to the provision of such service on moral or religious grounds; and
 
-&emsp;&emsp;&emsp;(ii) in the manner and through the written instrumentalities such organization deems appropriate, makes available information on its policies regarding such service to prospective enrollees before or during enrollment and to enrollees within 90 days after the date that the organization adopts a change in policy regarding such a counseling or referral service.
+&emsp;&emsp;&emsp;(ii) in the manner and through the written instrumentalities such organization deems appropriate, makes available information on its policies regarding such service to prospective enrollees before or during enrollment and to enrollees within 90days after the date that the organization adopts a change in policy regarding such a counseling or referral service.
 
 > &emsp;&emsp;Nothing in this subparagraph shall be construed to affect disclosure requirements under State law or under the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\].
 
@@ -400,7 +400,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Beginning not later than January 1, 2018, a State shall require that, in order to participate as a provider in the network of a managed care entity that provides services to, or orders, prescribes, refers, or certifies eligibility for services for, individuals who are eligible for medical assistance under the State plan under this subchapter (or under a waiver of the plan) and who are enrolled with the entity, the provider is enrolled consistent with section 1396a(kk) of this title with the State agency administering the State plan under this subchapter. Such enrollment shall include providing to the State agency the provider's identifying information, including the name, specialty, date of birth, Social Security number, national provider identifier, Federal taxpayer identification number, and the State license or certification number of the provider.
+&emsp;&emsp;Beginning not later than January 1, 2018, a State shall require that, in order to participate as a provider in the network of a managed care entity that provides services to, or orders, prescribes, refers, or certifies eligibility for services for, individuals who are eligible for medical assistance under the State plan under this subchapter (or under a waiver of the plan) and who are enrolled with the entity, the provider is enrolled consistent with section 1396a(kk) of this title with the State agency administering the State plan under this subchapter. Such enrollment shall include providing to the State agency the provider's identifying information, including the name, specialty, date of birth,Social Security number, national provider identifier, Federal taxpayer identification number, and the State license or certification number of the provider.
 
 #### (B) Rule of construction
 
@@ -468,7 +468,7 @@
 
 #### (3) Treatment of chronic substandard entities
 
-&emsp;In the case of a medicaid managed care organization which has repeatedly failed to meet the requirements of section 1396b(m) of this title and this section, the State shall (regardless of what other sanctions are provided) impose the sanctions described in subparagraphs (B) and (C) of paragraph (2).
+&emsp;In the case of a medicaid managed care organization which has repeatedly failed to meet the requirements of section 1396b(m) of thistitle and this section, the State shall (regardless of what other sanctions are provided) impose the sanctions described in subparagraphs (B) and (C) of paragraph (2).
 
 #### (4) Authority to terminate contract
 
@@ -526,7 +526,7 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 &emsp;&emsp;&emsp;(i) demonstrate that the number of Indian health care providers that are participating providers with respect to such entity are sufficient to ensure timely access to covered Medicaid managed care services for those Indian enrollees who are eligible to receive services from such providers; and
 
-&emsp;&emsp;&emsp;(ii) agree to pay Indian health care providers, whether such providers are participating or nonparticipating providers with respect to the entity, for covered Medicaid managed care services provided to those Indian enrollees who are eligible to receive services from such providers at a rate equal to the rate negotiated between such entity and the provider involved or, if such a rate has not been negotiated, at a rate that is not less than the level and amount of payment which the entity would make for the services if the services were furnished by a participating provider which is not an Indian health care provider.
+&emsp;&emsp;&emsp;(ii) agree to pay Indian health care providers, whether such providers are participating or nonparticipating providers with respect to the entity, for covered Medicaid managed care services provided to those Indian enrollees who are eligible to receive services from such providers at a rate equal to the rate negotiated between such entity and the provider involved or, if such a rate has not been negotiated, at a rate that is not less than the level and amountof payment which the entity would make for the services if the services were furnished by a participating provider which is not an Indian health care provider.
 
 > &emsp;&emsp;The Secretary shall establish procedures for applying the requirements of clause (i) in States where there are no or few Indian health providers.
 
@@ -584,9 +584,49 @@ Each contract with a managed care entity under section 1396b(m) of this title or
 
 #### (i) Drug utilization review activities and requirements
 
-Beginning not later than October 1, 2019, each contract under a State plan with a managed care entity (other than a primary care case manager) under section 1396b(m) of this title shall provide that the entity is in compliance with the applicable provisions of section 438.3(s)(2) of title 42, Code of Federal Regulations, section 483.3(s)(4)) <sup>2</sup> of such title, and section 483.3(s)(5) <sup>3</sup> of such title, as such provisions were in effect on March 31, 2018.
+Beginning not later than October 1, 2019, each contract under a State plan with a managed care entity (other than a primary care case manager) under section 1396b(m) of this title shall provide that the entity is in compliance with the applicable provisions of section438.3(s)(2) of title 42, Code of Federal Regulations, section 483.3(s)(4)) <sup>2</sup> of such title, and section 483.3(s)(5) <sup>3</sup> of such title, as such provisions were in effect on March 31, 2018.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053; Pub. L. 114–255, div. A, title V, §5005(a)(2), (b)(2), Dec. 13, 2016, 130 Stat. 1192, 1193; Pub. L. 115–271, title I, §1004(a)(3), Oct. 24, 2018, 132 Stat. 3911; Pub. L. 116–260, div. BB, title II, §203(a)(4)(A), Dec. 27, 2020, 134 Stat. 2917.)
+(Aug. 14, 1935, ch. 531, title XIX, §1932, as added and amended Pub. L. 105–33, title IV, §§4701(a), 4704(a), 4705(a), 4707(a), 4708(c), Aug. 5, 1997, 111 Stat. 489, 495, 498, 501, 506; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(w)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §701(b)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–570; Pub. L. 109–171, title VI, §6085(a), Feb. 8, 2006, 120 Stat. 121; Pub. L. 111–5, div. B, title V, §5006(d)(1), Feb. 17, 2009, 123 Stat. 507; Pub. L. 111–152, title I, §1202(a)(2), Mar. 30, 2010, 124 Stat. 1053; Pub. L. 114–255, div. A, title V, §5005(a)(2), (b)(2), Dec. 13, 2016, 130 Stat. 1192, 1193; Pub. L. 115–271, title I, §1004(a)(3), Oct. 24, 2018, 132 Stat. 3911; Pub. L. 116–260, div. BB, title II, §203(a)(4)(A), Dec. 27, 2020, 134 Stat. 2917; Pub. L. 117–328, div. FF, title V, §5123(a), Dec. 29, 2022, 136 Stat. 5944.)
+
+#### Amendment of Subsection (a)(5)
+
+<i>Pub. L. 117–328, div. FF, title V, §5123(a), (d), Dec. 29, 2022, 136 Stat. 5944, 5946, provided that, effective July 1, 2025, subsection (a)(5) of this section is amended as follows:</i>
+
+<i>(1) in subparagraph (B)(i), by inserting ", including as required by subparagraph (E)" before the period at the end; and(2) by adding at the end the following new subparagraph:</i>
+
+#### <i>(E) Provider directories</i>
+
+#### <i>(i) In general</i>
+
+&emsp;&emsp;&emsp;<i>Each managed care organization, prepaid inpatient health plan (as defined by the Secretary), prepaid ambulatory health plan (as defined by the Secretary), and, when appropriate, primary care case management entity (as defined by the Secretary) with a contract with a State to enroll individuals who are eligible for medical assistance under the State plan under this subchapter or under a waiver of such plan, shall publish (and update on at least a quarterly basis or more frequently as required by the Secretary) on a public website, a searchable directory of network providers, which shall include physicians, hospitals, pharmacies, providers of mental health services, providers of substance use disorder services, providers of long term services and supports as appropriate, and such other providers as required by the Secretary, and that includes with respect to each such provider—</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(I) the name of the provider;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(II) the specialty of the provider;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(III) the address at which the provider provides services;</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(IV) the telephone number of the provider; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(V) information regarding—</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) the provider's cultural and linguistic capabilities, including languages (including American Sign Language) offered by the provider or by a skilled medical interpreter who provides interpretation services at the provider's office;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) whether the provider is accepting as new patients, individuals who receive medical assistance under this subchapter;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) whether the provider's office or facility has accommodations for individuals with physical disabilities, including offices, exam rooms, and equipment;</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(dd) the Internet website of such provider, if applicable; and</i>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(ee) whether the provider offers covered services via telehealth; and</i>
+
+&emsp;&emsp;&emsp;&emsp;<i>(VI) other relevant information, as required by the Secretary.</i>
+
+#### <i>(ii) Network provider defined</i>
+
+&emsp;&emsp;&emsp;<i>In this subparagraph, the term "network provider" includes any provider, group of providers, or entity that has a network provider agreement with a managed care organization, a prepaid inpatient health plan (as defined by the Secretary), a prepaid ambulatory health plan (as defined by the Secretary), or a primary care case management entity (as defined by the Secretary) or a subcontractor of any such entity or plan, and receives payment under this subchapter directly or indirectly to order, refer, or render covered services as a result of the State's contract with the entity or plan. For purposes of this subparagraph, a network provider shall not be considered to be a subcontractor by virtue of the network provider agreement.</i>
+
+<i>See 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -602,7 +642,7 @@ Section 9517(c)(3) of the Omnibus Budget Reconciliation Act of 1985, referred to
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(3)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-The Public Health Service Act, referred to in subsec. (b)(8), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "
+The Public Health Service Act, referred to in subsec. (b)(8), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A ofthis title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "
 
 subpart ii—improving coverage" (preceding section 300gg–11 of this title), by striking out "
 
@@ -621,6 +661,10 @@ In subsec. (d)(3), "chapter 21 of title 41" substituted for "section 27 of the O
 A prior section 1932 of act Aug. 14, 1935, was renumbered section 1939 and is classified to section 1396v of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(5)(B)(i). Pub. L. 117–328, §5123(a)(1), inserted ", including as required by subparagraph (E)" before period at end.
+
+Subsec. (a)(5)(E). Pub. L. 117–328, §5123(a)(2), added subpar. (E).
 
 <b>2020</b>—Subsec. (b)(8). Pub. L. 116–260 inserted at end "In applying the previous sentence with respect to requirements under paragraph (8) of section 300gg–26(a) of this title, a Medicaid managed care organization (or a prepaid inpatient health plan (as defined by the Secretary) or prepaid ambulatory health plan (as defined by the Secretary) that offers services to enrollees of a Medicaid managed care organization) shall be treated as in compliance with such requirements if the Medicaid managed care organization (or prepaid inpatient health plan or prepaid ambulatory health plan) is in compliance with subpart K of part 438 of title 42, Code of Federal Regulations, and section 438.3(n) of such title, or any successor regulation."
 
@@ -657,6 +701,10 @@ Subsec. (f). Pub. L. 105–33, §4708(c), added subsec. (f).
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 effective July 1, 2025, see section 5123(d) of Pub. L. 117–328, set out as a note under section 1396a of this title.
 
 #### Effective Date of 2009 Amendment
 

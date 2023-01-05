@@ -134,7 +134,7 @@ The scope of the research and development under subsection (a) shall include the
 
 #### (iii) Implementation
 
-&emsp;&emsp;&emsp;The heads of each agency identified in the plan developed under clause (ii) shallimplement the plan in collaboration with the voluntary efforts of the private sector, as appropriate.
+&emsp;&emsp;&emsp;The heads of each agency identified in the plan developed under clause (ii) shall implement the plan in collaboration with the voluntary efforts of the private sector, as appropriate.
 
 #### (3) Definitions
 
@@ -148,7 +148,7 @@ The scope of the research and development under subsection (a) shall include the
 
 &emsp;&emsp;(B) The terms "prepare" and "preparedness" mean the actions taken to plan, organize, equip, train, and exercise to build and sustain the capabilities necessary to prevent, protect against, mitigate the effects of, respond to, and recover from those threats that pose the greatest risk to the security of the homeland, including the prediction and notification of impending EMPs and GMDs.
 
-&emsp;&emsp;(C) The term "Sector Risk Management Agency" has the meaning given that term in section 651 of this title.
+&emsp;&emsp;(C) The term "Sector Risk Management Agency" has the meaning given that term in section 650 of this title.
 
 #### (e) Rule of construction
 
@@ -158,7 +158,7 @@ Nothing in this section may be construe— <sup>1</sup>
 
 &emsp;(2) as diminishing or transferring any authorities vested in the Administrator of the Federal Emergency Management Agency or in the Agency prior to December 20, 2019.
 
-(Pub. L. 107–296, title III, §320, formerly §319, as added Pub. L. 114–328, div. A, title XIX, §1913(a)(3), Dec. 23, 2016, 130 Stat. 2685; renumbered §320 and amended Pub. L. 115–278, §2(g)(3)(B), (C), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 116–92, div. A, title XVII, §1740(a)(1), Dec. 20, 2019, 133 Stat. 1821; Pub. L. 116–283, div. H, title XC, §9002(c)(2)(A), Jan. 1, 2021, 134 Stat. 4772.)
+(Pub. L. 107–296, title III, §320, formerly §319, as added Pub. L. 114–328, div. A, title XIX, §1913(a)(3), Dec. 23, 2016, 130 Stat. 2685; renumbered §320 and amended Pub. L. 115–278, §2(g)(3)(B), (C), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 116–92, div. A, title XVII, §1740(a)(1), Dec. 20, 2019, 133 Stat. 1821; Pub. L. 116–283, div. H, title XC, §9002(c)(2)(A), Jan. 1, 2021, 134 Stat. 4772; Pub. L. 117–263, div. G, title LXXI, §7143(b)(2)(A), Dec. 23, 2022, 136 Stat. 3659.)
 
 #### <b>Editorial Notes</b>
 
@@ -169,6 +169,8 @@ Executive Order 13865, referred to in subsec. (e)(1), is Ex. Ord. No. 13865, Mar
 Section 61003(c) of division F of the Fixing America's Surface Transportation Act, referred to in subsec. (e)(1), is section 61003(c) of Pub. L. 114–94, div. F, Dec. 4, 2015, 129 Stat. 1778, which is set out as a note under section 121 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(3)(C). Pub. L. 117–263 substituted "section 650 of this title" for "section 651 of this title".
 
 <b>2021</b>—Subsec. (d)(3)(C). Pub. L. 116–283, §9002(c)(2)(A)(i), substituted "Sector Risk Management Agency" for "Sector-Specific Agency".
 
@@ -314,7 +316,7 @@ Sec. 6. <i>Implementation</i>. (a) Identifying national critical functions and a
 
 (d) Strengthening critical infrastructure to withstand the effects of EMPs.
 
-(i) Within 90 days of completing the actions directed in subsection (c)(ii) of this section, the Secretary of Homeland Security, in coordination with the Secretaries of Defense and Energy and in consultation with the heads of other appropriate agencies and with the private sector as appropriate, shall develop a plan to mitigate the effects of EMPs on the vulnerable priority critical infrastructure systems, networks, and assets identified under subsection (a)(ii) of this section. The plan shall align with and build on actions identified in reports required by Executive Order 13800 of May 11, 2017 (Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure) \[6 U.S.C. 1501 note prec.\]. The Secretary of Homeland Security shall implement those elements of the plan that are consistent with Department of Homeland Security authorities andresources, and report to the APNSA regarding any additional authorities and resources needed to complete its implementation. The Secretary of Homeland Security, in coordination with the Secretaries of Defense and Energy, shall update the plan as necessary based on results from the actions directed in subsections (b) and (c) of this section.
+(i) Within 90 days of completing the actions directed in subsection (c)(ii) of this section, the Secretary of Homeland Security, in coordination with the Secretaries of Defense and Energy and in consultation with the heads of other appropriate agencies and with the private sector as appropriate, shall develop a plan to mitigate the effects of EMPs on the vulnerable priority critical infrastructure systems, networks, and assets identified under subsection (a)(ii) of this section. The plan shall align with and build on actions identified in reports required by Executive Order 13800 of May 11, 2017 (Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure) \[6 U.S.C. 1500 note prec.\]. The Secretary of Homeland Security shall implement those elements of the plan that are consistent with Department of Homeland Security authorities and resources, and report to the APNSA regarding any additional authorities and resources needed to complete its implementation. The Secretary of Homeland Security, in coordination with the Secretaries of Defense and Energy, shall update the plan as necessary based on results from the actions directed in subsections (b) and (c) of this section.
 
 (ii) Within 180 days of the completion of the actions identified in subsection (c)(i) of this section, the Secretary of Defense, in consultation with the Secretaries of Homeland Security and Energy, shall conduct a pilot test to evaluate engineering approaches used to harden a strategic military installation, including infrastructure that is critical to supporting that installation, against the effects of EMPs.
 
@@ -340,7 +342,7 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-\[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning give such term in section 651(5) of this title, see section 652a(c)(3) of this title, enacted Jan. 1, 2021.\]
+\[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in section 650 of this title, see section 652a(c)(3) of this title, enacted Jan. 1, 2021.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be "construed—".</i>
 

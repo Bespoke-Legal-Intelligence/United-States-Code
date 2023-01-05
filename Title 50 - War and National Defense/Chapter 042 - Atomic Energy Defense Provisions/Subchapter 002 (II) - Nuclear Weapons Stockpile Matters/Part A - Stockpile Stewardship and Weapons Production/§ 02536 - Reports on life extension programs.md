@@ -16,7 +16,7 @@ Before proceeding beyond phase 6.2 activities with respect to any life extension
 
 In this section, the term "phase 6.2 activities" means, with respect to a life extension program, the phase 6.2 feasibility study and option down-select.
 
-(Pub. L. 107–314, div. D, title XLII, §4216, as added Pub. L. 112–239, div. C, title XXXI, §3141(a), Jan. 2, 2013, 126 Stat. 2193; amended Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(B), Dec. 26, 2013, 127 Stat. 1072; Pub. L. 116–92, div. C, title XXXI, §3139(b)(4)(A), Dec. 20, 2019, 133 Stat. 1962.)
+(Pub. L. 107–314, div. D, title XLII, §4216, as added Pub. L. 112–239, div. C, title XXXI, §3141(a), Jan. 2, 2013, 126 Stat. 2193; amended Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(B), Dec. 26, 2013, 127 Stat. 1072; Pub. L. 116–92, div. C,title XXXI, §3139(b)(4)(A), Dec. 20, 2019, 133 Stat. 1962.)
 
 #### <b>Editorial Notes</b>
 

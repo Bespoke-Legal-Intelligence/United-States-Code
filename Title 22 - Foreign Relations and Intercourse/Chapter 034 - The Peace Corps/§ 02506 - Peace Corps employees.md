@@ -80,9 +80,9 @@ In each country or area in which volunteers serve abroad, the President may appo
 
 #### References in Text
 
-This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (a)(1), (2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (a)(1), (2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### Codification
 
@@ -102,7 +102,7 @@ Subsec. (a)(5), (6). Pub. L. 99–83, §1103(a)(2), added pars. (5) and (6).
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–473 inserted provision that subparagraphs (A) and (B) do not apply with respect to foreign national employees.
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–465, §2202(b)(1)(A), substituted "which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980" for ", who shall receive compensation at any of the rates provided for persons appointed to the Foreign Service Reserve and Staff under the Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)" and "section 310" for"section 528" and struck out reference to the applicability of section 1005 of the Foreign Service Act of 1946.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–465, §2202(b)(1)(A), substituted "which are not authorized to utilize the Foreign Service personnel system, who shall receive compensation at any of the rates established under section 402 or 403 of the Foreign Service Act of 1980" for ", who shall receive compensation at any of the rates provided for persons appointed to the Foreign Service Reserveand Staff under the Foreign Service Act of 1946, as amended (22 U.S.C. 801 et seq.)" and "section 310" for "section 528" and struck out reference to the applicability of section 1005 of the Foreign Service Act of 1946.
 
 Subsec. (a)(2). Pub. L. 96–465, §2202(b)(1)(B), among other changes, substituted references to the Foreign Service Act of 1980 for references to the Foreign Service Act of 1946 and references to class 9 for class 10, and inserted provision relating to section 206(a)(1) of title 29.
 

@@ -20,7 +20,7 @@ The term "Secretary" as used in this section means the Secretary of the Army, ac
 
 (1) In carrying out his functions relating to the discharge of dredged or fill material under this section, the Secretary may, after notice and opportunity for public hearing, issue general permits on a State, regional, or nationwide basis for any category of activities involving discharges of dredged or fill material if the Secretary determines that the activities in such category are similar in nature, will cause only minimal adverse environmental effects when performed separately, and will have only minimal cumulative adverse effect on the environment. Any general permit issued under this subsection shall (A) be based on the guidelines described in subsection (b)(1) of this section, and (B) set forth the requirements and standards which shall apply to any activity authorized by such general permit.
 
-(2) No general permit issued under this subsection shall be for a period of more than five years after the date of its issuance and such general permit may be revoked or modified by the Secretary if, after opportunity for public hearing, the Secretary determines that the activitiesauthorized by such general permit have an adverse impact on the environment or such activities are more appropriately authorized by individual permits.
+(2) No general permit issued under this subsection shall be for a period of more than five years after the date of its issuance and such general permit may be revoked or modified by the Secretary if, after opportunity for public hearing, the Secretary determines that the activities authorized by such general permit have an adverse impact on the environment or such activities are more appropriately authorized by individual permits.
 
 #### (f) Non-prohibited discharge of dredged or fill material
 
@@ -36,7 +36,7 @@ The term "Secretary" as used in this section means the Secretary of the Army, ac
 
 &emsp;(E) for the purpose of construction or maintenance of farm roads or forest roads, or temporary roads for moving mining equipment, where such roads are constructed and maintained, in accordance with best management practices, to assure that flow and circulation patterns and chemical and biological characteristics of the navigable waters are not impaired, that the reach of the navigable waters is not reduced, and that any adverse effect on the aquatic environment will be otherwise minimized;
 
-&emsp;(F) resulting from any activity with respect to which a State has an approved program under section 1288(b)(4) of this title which meets the requirements of subparagraphs (B) and (C) of such section,
+&emsp;(F) resulting from any activity with respect to which a State has an approved programunder section 1288(b)(4) of this title which meets the requirements of subparagraphs (B) and (C) of such section,
 
 > is not prohibited by or otherwise subject to regulation under this section or section 1311(a) or 1342 of this title (except for effluent standards or prohibitions under section 1317 of this title).
 
@@ -68,7 +68,7 @@ The term "Secretary" as used in this section means the Secretary of the Army, ac
 
 &emsp;&emsp;&emsp;(III) change in any condition that requires either a temporary or permanent reduction or elimination of the permitted discharge.
 
-&emsp;(B) To issue permits which apply, and assure compliance with, all applicable requirementsof section 1318 of this title, or to inspect, monitor, enter, and require reports to at least the same extent as required in section 1318 of this title.
+&emsp;(B) To issue permits which apply, and assure compliance with, all applicable requirements of section 1318 of this title, or to inspect, monitor, enter, and require reports to at least the same extent as required in section 1318 of this title.
 
 &emsp;(C) To assure that the public, and any other State the waters of which may be affected, receive notice of each application for a permit and to provide an opportunity for public hearing before a ruling on each such application.
 
@@ -84,7 +84,7 @@ The term "Secretary" as used in this section means the Secretary of the Army, ac
 
 (2) If, with respect to a State program submitted under subsection (g)(1) of this section, the Administrator determines that such State—
 
-&emsp;(A) has the authority set forth in paragraph (1) of this subsection, the Administrator shall approve the program and so notify (i) such State and (ii) the Secretary, who upon subsequent notification from such State that it is administering such program, shall suspend the issuance of permits under subsections (a) and (e) of this section for activities with respect to which a permit may be issued pursuant to such State program; or
+&emsp;(A) has the authority set forth in paragraph (1) of this subsection, the Administrator shallapprove the program and so notify (i) such State and (ii) the Secretary, who upon subsequent notification from such State that it is administering such program, shall suspend the issuance of permits under subsections (a) and (e) of this section for activities with respect to which a permit may be issued pursuant to such State program; or
 
 &emsp;(B) does not have the authority set forth in paragraph (1) of this subsection, the Administrator shall so notify such State, which notification shall also describe the revisions or modifications necessary so that such State may resubmit such program for a determination by the Administrator under this subsection.
 
@@ -100,7 +100,7 @@ Whenever the Administrator determines after public hearing that a State is not a
 
 #### (j) Copies of applications for State permits and proposed general permits to be transmitted to Administrator
 
-Each State which is administering a permit program pursuant to this section shall transmit to the Administrator (1) a copy of each permit application received by such State and provide notice to the Administrator of every action related to the consideration of such permit application, including each permit proposed to be issued by such State, and (2) a copy of each proposed general permit which such State intends to issue. Not later than the tenth day after the date of the receipt of such permit application or such proposed general permit, the Administrator shall provide copies of such permit application or such proposed general permit to the Secretary and the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service. If the Administrator intends to provide written comments to such State with respect to such permit application or such proposed general permit, he shall so notify such State not later than the thirtieth day afterthe date of the receipt of such application or such proposed general permit and provide such written comments to such State, after consideration of any comments made in writing with respect to such application or such proposed general permit by the Secretary and the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, not later than the ninetieth day after the date of such receipt. If such State is so notified by the Administrator, it shall not issue the proposed permit until after the receipt of such comments from the Administrator, or after such ninetieth day, whichever first occurs. Such State shall not issue such proposed permit after such ninetieth day if it has received such written comments in which the Administrator objects (A) to the issuance of such proposed permit and such proposed permit is one that has been submitted to the Administrator pursuant to subsection (h)(1)(E), or (B) to the issuance of such proposed permit as being outside the requirements of this section, including, but not limited to, the guidelines developed under subsection (b)(1) of this section unless it modifies such proposed permit in accordance with such comments. Whenever the Administrator objects to the issuance of a permit under the preceding sentence such written objection shall contain a statement of the reasons for such objection and the conditions which such permit would include if it were issued by the Administrator. In any case where the Administrator objects to the issuance of a permit, on request of the State, a public hearing shall be held by the Administrator on such objection. If the State does not resubmit such permit revised to meet such objection within 30 days after completion of the hearing or, if no hearing is requested within 90 days after the date of such objection, the Secretary may issue the permit pursuant to subsection (a) or (e) of this section, as the case may be, for such source in accordance with the guidelines and requirements of this chapter.
+Each State which is administering a permit program pursuant to this section shall transmit to the Administrator (1) a copy of each permit application received by such State and provide notice to the Administrator of every action related to the consideration of such permit application, including each permit proposed to be issued by such State, and (2) a copy of each proposed general permit which such State intends to issue. Not later than the tenth day after the date of the receipt of such permit application or such proposed general permit, the Administrator shall provide copies of such permit application or such proposed general permit to the Secretary and the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service. If the Administrator intends to provide written comments to such State with respect to such permit application or such proposed general permit, he shall so notify such State not later than the thirtieth day after the date of the receipt of such application or such proposed general permit and provide such written comments to such State, after consideration of any comments made in writing with respect to such application or such proposed general permit by the Secretary and the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, not later than the ninetieth day after the date of such receipt. If such State is so notified by the Administrator, it shall not issue the proposed permit until after the receipt of such comments from the Administrator, or after such ninetieth day, whichever first occurs. Such State shall not issue such proposed permit after such ninetieth day if it has received such written comments in which the Administrator objects (A) to the issuance of such proposed permit and such proposed permit is one that has been submitted to the Administrator pursuant to subsection (h)(1)(E), or (B) to the issuance of such proposed permit as being outside the requirements of this section, including, but not limited to, the guidelines developed under subsection (b)(1) of this section unless it modifies such proposed permit in accordance with such comments. Whenever the Administrator objects to the issuance of a permit under the preceding sentence such written objection shall contain a statement of the reasons for such objection and the conditions which such permit would include if it were issued by the Administrator. In any case where the Administrator objects to the issuance of a permit, on request of the State, a public hearing shall be held by the Administrator on such objection. If the State does not resubmit such permit revised to meet such objection within 30 days after completion of the hearing or, if no hearing is requested within 90 days after the date of such objection, the Secretary may issue the permit pursuant to subsection (a) or (e) of this section, as the case may be, for such source in accordance with the guidelines and requirements of this chapter.
 
 #### (k) Waiver
 
@@ -154,7 +154,7 @@ Nothing in this section shall preclude or deny the right of any State or interst
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsec. (r), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (r), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
@@ -176,11 +176,29 @@ Subsecs. (d) to (t). Pub. L. 95–217, §67(b), added subsecs. (d) to (t).
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Maintenance Dredging Permits
+
+Pub. L. 117–263, div. H, title LXXXI, §8126, Dec. 23, 2022, 136 Stat. 3715, provided that:
+
+"(a)
+
+In General.—The Secretary \[of the Army\] shall, to the maximum extent practicable, prioritize the reissuance of any regional general permit for maintenance dredging under section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) that expired prior to May 1, 2021.
+
+"(b)
+
+Savings Provision.—Nothing in this section affects any obligation to comply with the provisions of any Federal or State environmental law, including—
+
+&emsp;"(1) the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
+
+&emsp;"(2) the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); and
+
+&emsp;"(3) the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.)."
+
 #### Mitigation and Mitigation Banking Regulations
 
 Pub. L. 108–136, div. A, title III, §314(b), Nov. 24, 2003, 117 Stat. 1431, provided that:
 
-"(1) To ensure opportunities for Federal agency participation in mitigation banking, the Secretary of the Army, acting through the Chief of Engineers, shall issue regulations establishing performance standards and criteria for the use, consistent with section 404 of the Federal Water Pollution Control Act (33 U.S.C.1344), of on-site, off-site, and in-lieu fee mitigation and mitigation banking as compensation for lost wetlands functions in permits issued by the Secretary of the Army under such section. To the maximum extent practicable, the regulatory standards and criteria shall maximize available credits and opportunities for mitigation, provide flexibility for regional variations in wetland conditions, functions and values, and apply equivalent standards and criteria to each type of compensatory mitigation.
+"(1) To ensure opportunities for Federal agency participation in mitigation banking, the Secretary of the Army, acting through the Chief of Engineers, shall issue regulations establishing performance standards and criteria for the use, consistent with section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344), of on-site, off-site, and in-lieu fee mitigation and mitigation banking as compensation for lost wetlands functions in permits issued by the Secretary of the Army under such section. To the maximum extent practicable, the regulatory standards and criteria shall maximize available credits and opportunities for mitigation, provide flexibility for regional variations in wetland conditions, functions and values, and apply equivalent standards and criteria to each type of compensatory mitigation.
 
 "(2) Final regulations shall be issued not later than two years after the date of the enactment of this Act \[Nov. 24, 2003\]."
 

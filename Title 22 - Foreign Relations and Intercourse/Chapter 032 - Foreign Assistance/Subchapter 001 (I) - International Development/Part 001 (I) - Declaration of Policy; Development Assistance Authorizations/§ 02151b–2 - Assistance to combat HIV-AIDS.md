@@ -22,7 +22,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 &emsp;&emsp;&emsp;(iii) support care for 12,000,000 individuals infected with or affected by HIV/AIDS, including 5,000,000 orphans and vulnerable children affected by HIV/AIDS, with an emphasis on promoting a comprehensive, coordinated system of services to be integrated throughout the continuum of care;
 
-&emsp;&emsp;&emsp;(iv) provide at least 80 percent of the target population with access to counseling, testing, and treatment to prevent the transmission of HIV from mother-to-child;
+&emsp;&emsp;&emsp;(iv) provide at least 80 percent of the target population with access to counseling,testing, and treatment to prevent the transmission of HIV from mother-to-child;
 
 &emsp;&emsp;&emsp;(v) provide care and treatment services to children with HIV in proportion to their percentage within the HIV-infected population of a given partner country; and
 
@@ -54,7 +54,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 #### (1) In general
 
-&emsp;Consistent with section 2151b(c) of this title, the President is authorized to furnish assistance, on such terms and conditions as the President may determine, for HIV/AIDS, including to prevent, treat, and monitor HIV/AIDS, and carry out related activities, in countries in sub-Saharan Africa, the Caribbean, Central Asia, Eastern Europe, Latin America, and other countries and areas, particularly with respect to refugee populationsor those in postconflict settings in such countries and areas with significant or increasing HIV incidence rates.
+&emsp;Consistent with section 2151b(c) of this title, the President is authorized to furnish assistance, on such terms and conditions as the President may determine, for HIV/AIDS, including to prevent, treat, and monitor HIV/AIDS, and carry out related activities, in countries in sub-Saharan Africa, the Caribbean, Central Asia, Eastern Europe, Latin America, and other countries and areas, particularly with respect to refugee populations or those in postconflict settings in such countries and areas with significant or increasing HIV incidence rates.
 
 #### (2) Role of NGOs
 
@@ -138,7 +138,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 #### (3) Preventative intervention education and technologies
 
-&emsp;(A) With particular emphasis on specific populations that represent a particularly high risk of contracting or spreading HIV/AIDS, including those exploited through the sex trade, victims of rape and sexual assault, individuals already infected with HIV/AIDS, and in cases of occupational exposure of health care workers, assistance with efforts to reduce the risk of HIV/AIDS infection including post-exposure pharmaceutical prophylaxis, and necessary pharmaceuticals and commodities, including test kits, condoms, and, when proven effective, microbicides.
+&emsp;(A) With particular emphasis on specific populations that represent a particularly high risk of contracting or spreading HIV/AIDS, including those exploited through the sex trade, victims of rape and sexual assault, individuals already infected with HIV/AIDS, and in cases of occupational exposure of health care workers, assistance with efforts to reduce the riskof HIV/AIDS infection including post-exposure pharmaceutical prophylaxis, and necessary pharmaceuticals and commodities, including test kits, condoms, and, when proven effective, microbicides.
 
 &emsp;(B) Bulk purchases of available test kits, condoms, and, when proven effective, microbicides that are intended to reduce the risk of HIV/AIDS transmission and for appropriate program support for the introduction and distribution of these commodities, as well as education and training on the use of the technologies.
 
@@ -284,7 +284,7 @@ Assistance provided under subsection (c) shall, to the maximum extent practicabl
 
 &emsp;&emsp;(A) The congressionally mandated Institute of Medicine report entitled "PEPFAR Implementation: Progress and Promise" states: "The next strategy \[of the U.S. Global AIDS Initiative\] should squarely address the needs and challenges involved in supporting sustainable country HIV/AIDS programs, thereby transitioning from a focus on emergency relief.".
 
-&emsp;&emsp;(B) One mechanism to promote the transition from an emergency to a public health and development approach to HIV/AIDS is through compacts or framework agreements between the United States Government and each participating nation.
+&emsp;&emsp;(B) One mechanism to promote the transition from an emergency to a public health and development approach to HIV/AIDS isthrough compacts or framework agreements between the United States Government and each participating nation.
 
 #### (2) Elements
 
@@ -628,7 +628,7 @@ Pub. L. 113–76, div. K, title III, Jan. 17, 2014, 128 Stat. 477, provided in p
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

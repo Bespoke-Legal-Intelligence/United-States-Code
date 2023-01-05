@@ -10,7 +10,7 @@ To carry out the policy of this subchapter, the Secretary (in consultation with 
 
 &emsp;&emsp;(B) conducting with the institutions or persons joint or coordinated research, extension, and teaching activities that address problems of significance to food and agriculture in the United States; and
 
-&emsp;&emsp;(C) giving priority to those institutions with existing memoranda of understanding, agreements, or other formal ties to United States institutions, or Federal or State agencies;
+&emsp;&emsp;(C) giving priority to those institutions with existing memoranda of understanding, agreements, or other formal ties to UnitedStates institutions, or Federal or State agencies;
 
 &emsp;(2) enter into cooperative arrangements with Departments and Ministries of Agriculture in other nations to conduct research, extension, and teaching activities in support of the development of a viable and sustainable global agricultural system, including efforts to establish a global system for plant genetic resources conservation;
 
@@ -66,7 +66,7 @@ The Secretary may provide specialized or technical services, on an advance of fu
 
 #### (d) Reports
 
-The Secretary shall provide biennial reports to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on efforts of the Federal Government—
+The Secretary shall provide biennial reports to the Committee on Agriculture of the House ofRepresentatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on efforts of the Federal Government—
 
 &emsp;(1) to coordinate international agricultural research within the Federal Government; and
 
@@ -82,7 +82,7 @@ The Secretary shall provide biennial reports to the Committee on Agriculture of 
 
 &emsp;Activities under the BARD Fund to promote and support agricultural research and development that are of mutual benefit to the United States and Israel shall—
 
-&emsp;&emsp;(A) accelerate the demonstration, development, and application of agricultural solutions resulting from or relating to BARDFund programs, including BARD Fund-sponsored research and innovations in drip irrigation, pesticides, aquaculture, livestock, poultry, disease control, and farm equipment; and
+&emsp;&emsp;(A) accelerate the demonstration, development, and application of agricultural solutions resulting from or relating to BARD Fund programs, including BARD Fund-sponsored research and innovations in drip irrigation, pesticides, aquaculture, livestock, poultry, disease control, and farm equipment; and
 
 &emsp;&emsp;(B) encourage research carried out by governmental, nongovernmental, and private entities, including through collaboration with colleges and universities, research institutions, and the private sector.
 
@@ -146,7 +146,7 @@ Subsec. (e). Pub. L. 105–185, §227(d), added subsec. (e).
 
 Subsec. (a). Pub. L. 101–624, §1613(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary, subject to such coordination with other Federal officials, departments, and agencies as the President may direct, is authorized to—
 
-&emsp;"(1) expand the operational coordination of the Department of Agriculture with institutions and other persons throughout the world performing agricultural and related research and extension activities by exchanging research materials and results with such institutions or persons and by conducting with such institutions or persons joint or coordinated research and extension on problems of significance to food and agriculture in the United States;
+&emsp;"(1) expand the operational coordination of the Department of Agriculture with institutions and other persons throughout the world performing agricultural and related research and extension activities by exchanging research materials and results with such institutions or persons and by conducting with such institutions or persons joint or coordinated researchand extension on problems of significance to food and agriculture in the United States;
 
 &emsp;"(2) assist the Agency for International Development with food, agricultural, research and extension programs in developing countries;
 

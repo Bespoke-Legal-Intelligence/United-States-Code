@@ -46,7 +46,7 @@ As used in this chapter, the term—
 
 Section 1434(a)(1)(C) of this title, referred to in par. (1), was amended generally by Pub. L. 106–513, §6(a), Nov. 13, 2000, 114 Stat. 2383, and, as so amended, no longer contains a cl. (v).
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
@@ -98,7 +98,7 @@ Pub. L. 100–627, title II, §210, Nov. 7, 1988, 102 Stat. 3223, provided that:
 
 &emsp;"(1) shall propose regulations implementing the amendments made by this title \[enacting sections 1440 to 1445 of this title, amending sections 1432, 1434, and 1437 of this title, and repealing section 1438 of this title\]; and
 
-&emsp;"(2) shall issue final regulations implementing the amendments made by the Marine Sanctuaries Amendments of 1984 \[enacting sections 1435 to 1439 of this title and amending sections 1431 to 1434 of this title\]."
+&emsp;"(2) shall issue final regulations implementing the amendments made by the Marine SanctuariesAmendments of 1984 \[enacting sections 1435 to 1439 of this title and amending sections 1431 to 1434 of this title\]."
 
 #### Additional Definitions
 

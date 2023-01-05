@@ -14,5 +14,5 @@ Pub. L. 104–4, title II, §209, Mar. 22, 1995, 109 Stat. 67, provided that: "T
 
 #### Regulatory Planning and Review
 
-For provisions stating regulatory philosophy and principles and setting forth regulatory organization, procedures, and guidelines for centralized review of new and existing regulations to make the regulatory process more efficient, see Ex. Ord. No. 12866, Sept. 30, 1993, 58 F.R. 51735, set out as a note under section 601 of Title 5, Government Organization and Employees.
+For provisions stating regulatory philosophy and principles and setting forth regulatory organization,procedures, and guidelines for centralized review of new and existing regulations to make the regulatory process more efficient, see Ex. Ord. No. 12866, Sept. 30, 1993, 58 F.R. 51735, set out as a note under section 601 of Title 5, Government Organization and Employees.
 

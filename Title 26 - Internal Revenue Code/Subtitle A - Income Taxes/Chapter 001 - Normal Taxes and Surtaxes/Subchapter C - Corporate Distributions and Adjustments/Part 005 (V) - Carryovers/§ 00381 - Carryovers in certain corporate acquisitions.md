@@ -8,7 +8,7 @@ In the case of the acquisition of assets of a corporation by another corporation
 
 &emsp;(2) in a transfer to which section 361 (relating to nonrecognition of gain or loss to corporations) applies, but only if the transfer is in connection with a reorganization described in subparagraph (A), (C), (D), (F), or (G) of section 368(a)(1),
 
-> the acquiring corporation shall succeed to and take into account, as of the close of the day of distribution or transfer, the items described in subsection (c) of the distributor or transferor corporation, subject to the conditions and limitations specified in subsections (b) and (c). For purposes of the preceding sentence, a reorganization shall be treated as meeting the requirements of subparagraph (D) or (G) of section 368(a)(1) only if the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met.
+> the acquiring corporation shall succeed to and take into account, as of the close of the day of distribution or transfer, the items described in subsection (c) of the distributor or transferor corporation, subject to the conditions and limitations specified in subsections (b) and (c). For purposes of the preceding sentence, a reorganization shall be treated as meeting the requirements of subparagraph (D) or (G) of section368(a)(1) only if the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met.
 
 #### (b) Operating rules
 
@@ -58,7 +58,7 @@ The items referred to in subsection (a) are:
 
 &emsp;The capital loss carryover determined under section 1212, subject to the following conditions and limitations:
 
-&emsp;&emsp;(A) The taxable year of the acquiring corporation to which the capital loss carryover of the distributor or transferor corporation is first carried shall be the first taxable year ending after the date of distribution or transfer.
+&emsp;&emsp;(A) The taxable year of the acquiring corporation to which the capital loss carryover of the distributor or transferor corporationis first carried shall be the first taxable year ending after the date of distribution or transfer.
 
 &emsp;&emsp;(B) The capital loss carryover shall be a short-term capital loss in the taxable year determined under subparagraph (A) but shall be limited to an amount which bears the same ratio to the capital gain net income (determined without regard to a short-term capital loss attributable to capital loss carryover), if any, of the acquiring corporation in such taxable year as the number of days in the taxable year after the date of distribution or transfer bears to the total number of days in the taxable year.
 
@@ -74,7 +74,7 @@ The items referred to in subsection (a) are:
 
 #### (6) Method of computing depreciation allowance
 
-&emsp;The acquiring corporation shall be treated as the distributor or transferor corporation forpurposes of computing the depreciation allowance under sections 167 and 168 on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation.
+&emsp;The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the depreciation allowance under sections 167 and 168 on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation.
 
 #### \[(7) Repealed. June 15, 1955, ch. 143, §2(1), 69 Stat. 134\]
 
@@ -114,7 +114,7 @@ The items referred to in subsection (a) are:
 
 &emsp;&emsp;(A) assumes an obligation of the distributor or transferor corporation which, after the date of the distribution or transfer, gives rise to a liability, and
 
-&emsp;&emsp;(B) such liability, if paid or accrued by the distributor or transferor corporation, would have been deductible in computing its taxable income,
+&emsp;&emsp;(B) such liability, if paid or accrued by the distributor or transferor corporation, wouldhave been deductible in computing its taxable income,
 
 > &emsp;the acquiring corporation shall be entitled to deduct such items when paid or accrued, as the case may be, as if such corporation were the distributor or transferor corporation. This paragraph shall not apply if such obligations are reflected in the amount of stock, securities, or property transferred by the acquiring corporation to the transferor corporation for the property of the transferor corporation.
 
@@ -156,7 +156,7 @@ The items referred to in subsection (a) are:
 
 &emsp;The acquiring corporation shall take into account (to the extent proper to carry out the purposes of this section and subchapter U, and under such regulations as may be prescribed by the Secretary) the items required to be taken into account for purposes of subchapter U in respect of the distributor or transferor corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, §2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, §1, 70 Stat. 7; Pub. L. 85–866, title I, §29(c), Sept. 2, 1958, 72 Stat. 1628; Pub. L. 86–69, §3(c), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §2(d), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§209(d)(2), 225(i)(3), Feb. 26, 1964, 78 Stat. 46, 92; Pub. L. 90–240, §5(d), Jan. 2, 1968, 81 Stat. 778; Pub. L. 91–172, title V, §§504(c)(2), 512(c), 521(f), Dec. 30, 1969, 83 Stat. 633, 639, 654; Pub. L. 92–178, title VI, §601(c)(3), Dec. 10, 1971, 85 Stat. 557; Pub. L. 94–455, title XVI, §1601(e), title XIX, §§1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; Pub. L. 95–30, title II, §202(d)(3)(A), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title III, §362(d)(2), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 96–223, title II, §232(b)(2)(B), Apr. 2, 1980, 94 Stat. 276; Pub. L. 96–471, §2(b)(2), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 96–589, §4(g), Dec. 24, 1980, 94 Stat. 3404; Pub. L. 97–34, title II, §§208, 221(b)(1)(B), title III, §331(d)(1)(B), Aug. 13, 1981, 95 Stat. 226, 246, 294; Pub. L. 97–248, title II, §224(c)(7), Sept. 3, 1982, 96 Stat. 489; Pub. L. 97–448, title I, §§102(h)(3), 103(g)(2)(F), Jan. 12, 1983, 96 Stat. 2372, 2379; Pub. L. 98–369, div. A, title II, §211(b)(4), title IV, §474(r)(11), July 18, 1984, 98 Stat. 754, 841; Pub. L. 99–514, title II, §231(d)(3)(F), title IV, §411(b)(2)(C)(iii), title VII, §701(e)(1), title XVIII, §1812(a)(3), Oct. 22, 1986, 100 Stat. 2179, 2227, 2342, 2833; Pub. L. 100–203, title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1002(a)(13), Nov. 10, 1988, 102 Stat. 3355; Pub. L. 101–239, title VII, §7841(d)(10), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §§11801(c)(10)(A), 11812(b)(6), Nov. 5, 1990, 104 Stat. 1388–526, 1388–535; Pub. L. 103–66, title XIII, §13302(e), Aug. 10, 1993, 107 Stat. 556; Pub. L. 104–188, title I, §1704(t)(26), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 115–97, title I, §§13301(b)(1), 13511(b)(3), Dec. 22, 2017, 131 Stat. 2121, 2142; Pub. L. 115–141, div. U, title IV, §401(b)(18), Mar. 23, 2018, 132 Stat. 1202.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 124; June 15, 1955, ch. 143, §2(1), 69 Stat. 134; Jan. 28, 1956, ch. 15, §1, 70 Stat. 7; Pub. L. 85–866, title I, §29(c), Sept. 2, 1958, 72 Stat. 1628; Pub. L. 86–69, §3(c), June 25, 1959, 73 Stat. 139; Pub. L. 87–834, §2(d), Oct. 16, 1962, 76 Stat. 971; Pub. L. 88–272, title II, §§209(d)(2), 225(i)(3), Feb. 26, 1964, 78 Stat. 46, 92; Pub. L. 90–240, §5(d), Jan. 2, 1968, 81 Stat. 778; Pub. L. 91–172, title V, §§504(c)(2), 512(c), 521(f), Dec. 30, 1969, 83 Stat. 633, 639, 654; Pub. L. 92–178, title VI, §601(c)(3), Dec. 10, 1971, 85 Stat. 557; Pub. L. 94–455, title XVI, §1601(e), title XIX, §§1901(a)(54), (b)(16), (17), (21)(B), (33)(N), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1746, 1773, 1796, 1797, 1802, 1834; Pub. L. 95–30, title II, §202(d)(3)(A), May 23, 1977, 91 Stat. 148; Pub. L. 95–600, title III, §362(d)(2), Nov. 6, 1978, 92 Stat. 2851; Pub. L. 96–223, title II, §232(b)(2)(B), Apr. 2, 1980, 94 Stat. 276; Pub. L. 96–471, §2(b)(2), Oct. 19, 1980, 94 Stat. 2253; Pub. L. 96–589, §4(g), Dec. 24, 1980, 94 Stat. 3404; Pub. L. 97–34, title II, §§208, 221(b)(1)(B), title III, §331(d)(1)(B), Aug. 13, 1981, 95 Stat. 226, 246, 294; Pub. L. 97–248, title II, §224(c)(7), Sept. 3, 1982, 96 Stat. 489; Pub. L. 97–448, title I, §§102(h)(3), 103(g)(2)(F), Jan. 12, 1983, 96 Stat. 2372, 2379; Pub. L. 98–369, div. A, title II, §211(b)(4), title IV, §474(r)(11), July 18, 1984, 98 Stat. 754, 841; Pub. L. 99–514, title II, §231(d)(3)(F), title IV, §411(b)(2)(C)(iii), title VII, §701(e)(1), title XVIII, §1812(a)(3), Oct. 22, 1986, 100 Stat. 2179, 2227, 2342, 2833; Pub. L. 100–203,title X, §10202(c)(3), Dec. 22, 1987, 101 Stat. 1330–392; Pub. L. 100–647, title I, §1002(a)(13), Nov. 10, 1988, 102 Stat. 3355; Pub. L. 101–239, title VII, §7841(d)(10), Dec. 19, 1989, 103 Stat. 2428; Pub. L. 101–508, title XI, §§11801(c)(10)(A), 11812(b)(6), Nov. 5, 1990, 104 Stat. 1388–526, 1388–535; Pub. L. 103–66, title XIII, §13302(e), Aug. 10, 1993, 107 Stat. 556; Pub. L. 104–188, title I, §1704(t)(26), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 115–97, title I, §§13301(b)(1), 13511(b)(3), Dec. 22, 2017, 131 Stat. 2121, 2142; Pub. L. 115–141, div. U, title IV, §401(b)(18), Mar. 23, 2018, 132 Stat. 1202.)
 
 #### <b>Editorial Notes</b>
 
@@ -180,7 +180,7 @@ Subsec. (d). Pub. L. 115–97, §13511(b)(3), struck out subsec. (d). Text read 
 
 Subsec. (c)(15). Pub. L. 101–508, §11801(c)(10)(A), struck out par. (15) "Indebtedness of certain personal holding companies" which read as follows: "The acquiring corporation shall be considered to be the distributor or transferor corporation for the purpose of determining the applicability of subsection (c) of section 545, relating to deduction with respect to payment of certain indebtedness."
 
-Subsec. (c)(24) to (26). Pub. L. 101–508, §11812(b)(6)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) "Method of computing depreciation deduction" which read as follows:"The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the deduction allowable under section 168(a) on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation."
+Subsec. (c)(24) to (26). Pub. L. 101–508, §11812(b)(6)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) "Method of computing depreciation deduction" which read as follows: "The acquiring corporation shall be treated as the distributor or transferor corporation for purposes of computing the deduction allowable under section 168(a) on property acquired in a distribution or transfer with respect to so much of the basis in the hands of the acquiring corporation as does not exceed the adjusted basis in the hands of the distributor or transferor corporation."
 
 <b>1989</b>—Subsec. (c)(26), (27). Pub. L. 101–239, as amended by Pub. L. 104–188, redesignated par. (27) as (26).
 
@@ -312,7 +312,7 @@ Amendment by section 1812(a)(3) of Pub. L. 99–514 effective, except as otherwi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 211(b)(4) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
+Amendment by section 211(b)(4) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983,see section 215 of Pub. L. 98–369, set out as an Effective Date note under section 801 of this title.
 
 Amendment by section 474(r)(11) of Pub. L. 98–369 applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as a note under section 21 of this title.
 
@@ -342,7 +342,7 @@ Amendment by Pub. L. 96–223 applicable to sales or uses after Sept. 30, 1980, 
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of thistitle) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
+Amendment by Pub. L. 95–600 applicable with respect to determinations (as defined in section 860(e) of this title) after Nov. 6, 1978, see section 362(e) of Pub. L. 95–600, set out as an Effective Date note under section 860 of this title.
 
 #### Effective Date of 1977 Amendment
 

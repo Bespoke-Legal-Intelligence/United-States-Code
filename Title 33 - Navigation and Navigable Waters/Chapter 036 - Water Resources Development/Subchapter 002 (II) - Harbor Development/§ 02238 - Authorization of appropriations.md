@@ -38,7 +38,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (A) Allocation
 
-&emsp;&emsp;Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each fiscal year, the Secretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
+&emsp;&emsp;Notwithstanding any other provision of this subsection, in making expenditures under paragraph (1) for each fiscal year, theSecretary shall allocate for operation and maintenance costs of emerging harbor projects an amount that is not less than 10 percent of the funds made available under this section for fiscal year 2012 to pay the costs described in subsection (a)(2).
 
 #### (B) Additional uses at emerging harbors
 
@@ -118,7 +118,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 #### (A) In general
 
-&emsp;&emsp;For each of fiscal years 2015 through 2024, if after fully funding all projects eligible for funding under paragraphs (1)(B) and (2)(B)(i), priority funds made available under those paragraphs remain unobligated, the Secretary shall use those remaining funds to pay for operation and maintenance costs of any harbor or inland harbor referred to in subsection (a)(2) based on an equitable allocation of those funds among the harbors and inland harbors.
+&emsp;&emsp;For each of fiscal years 2015 through 2024, if after fully funding all projects eligible for funding under paragraphs (1)(B) and (2)(B)(i), priority funds made available under thoseparagraphs remain unobligated, the Secretary shall use those remaining funds to pay for operation and maintenance costs of any harbor or inland harbor referred to in subsection (a)(2) based on an equitable allocation of those funds among the harbors and inland harbors.
 
 #### (B) Criteria
 
@@ -132,7 +132,7 @@ There are authorized to be appropriated out of the general fund of the Treasury 
 
 &emsp;Nothing in this subsection prohibits the Secretary from making an expenditure to pay for the operation and maintenance costs of a specific harbor or inland harbor, including the transfer of funding from the operation and maintenance of a separate project, if—
 
-&emsp;&emsp;(A) the Secretary determines that the action is necessary to address the navigationneeds of a harbor or inland harbor where safe navigation has been severely restricted due to an unforeseen event; and
+&emsp;&emsp;(A) the Secretary determines that the action is necessary to address the navigation needs of a harbor or inland harbor where safe navigation has been severely restricted due to an unforeseen event; and
 
 &emsp;&emsp;(B) the Secretary provides within 90 days of the action notice and information on the need for the action to the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.
 
@@ -218,7 +218,7 @@ In this section:
 
 #### (2) Emerging harbor
 
-&emsp;The term "emerging harbor" means a harbor or inland harbor referred to in subsection\(a)(2) that transits less than 1,000,000 tons of cargo annually.
+&emsp;The term "emerging harbor" means a harbor or inland harbor referred to in subsection (a)(2) that transits less than 1,000,000 tons of cargo annually.
 
 #### (3) Emerging harbor project
 
@@ -349,6 +349,40 @@ Subsec. (e)(3)(B), (C). Pub. L. 114–322, §1114, added subpar. (B) and redesig
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–640 substituted "up to 100 percent" for "not more than 40 percent".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Criteria for Funding Operation and Maintenance of Small, Remote, and Subsistence Harbors
+
+Pub. L. 117–263, div. H, title LXXXI, §8131, Dec. 23, 2022, 136 Stat. 3718, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Dec. 23, 2022\], the Secretary \[of the Army\] shall develop specific criteria for the annual evaluation and ranking of maintenance dredging requirements for small harbors and remote and subsistence harbors, taking into account the following:
+
+&emsp;"(1) The contribution of a harbor to the local and regional economy.
+
+&emsp;"(2) The extent to which a harbor has deteriorated since the last cycle of maintenance dredging.
+
+&emsp;"(3) Public safety concerns.
+
+"(b)
+
+Inclusion in Guidance.—The Secretary shall include the criteria developed under subsection (a) in the annual Civil Works Direct Program Development Policy Guidance of the Secretary.
+
+"(c)
+
+Report to Congress.—The Secretary shall include in each biennial report submitted under section 210(e)(3) of the Water Resources Development Act of 1986 (33 U.S.C. 2238(e)(3)) a ranking of projects in accordance with the criteria developed under subsection (a) of this section.
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Remote and subsistence harbor.—The term 'remote and subsistence harbor' means a harbor with respect to which section 2006 of the Water Resources Development Act of 2007 (33 U.S.C. 2242) applies, as determined by the Secretary \[of the Army\].
+
+&emsp;"(2)
+
+Small harbor.—The term 'small harbor' includes an emerging harbor, as such term is defined in section 210 of the Water Resources Development Act of 1986 (33 U.S.C. 2238)."
 
 #### Authorization of Appropriations for Navigation
 

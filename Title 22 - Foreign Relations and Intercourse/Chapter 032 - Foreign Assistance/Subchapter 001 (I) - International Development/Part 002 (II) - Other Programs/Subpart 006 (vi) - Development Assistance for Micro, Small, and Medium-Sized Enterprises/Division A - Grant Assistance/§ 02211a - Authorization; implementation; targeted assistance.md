@@ -60,7 +60,7 @@ A prior section 252 of Pub. L. 87–195 was classified to section 2212 of this t
 
 #### Amendments
 
-<b>2019</b>—Subsec. (a). Pub. L. 115–428, §4(b)(1)(A), substituted "credit, including the use of innovative credit scoring models, savings, financial technology, financial literacy, education, insurance, property rights, and other services to micro, small, and medium-sized enterprise clients" for "credit, savings, and other services to microfinance and microenterprise clients" in introductory provisions.
+<b>2019</b>—Subsec. (a). Pub. L. 115–428, §4(b)(1)(A), substituted "credit, including the use of innovative creditscoring models, savings, financial technology, financial literacy, education, insurance, property rights, and other services to micro, small, and medium-sized enterprise clients" for "credit, savings, and other services to microfinance and microenterprise clients" in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 115–428, §4(b)(1)(B), substituted "micro, small, and medium-sized enterprise clients, particularly clients owned, managed, and controlled by women" for "microfinance and microenterprise clients".
 

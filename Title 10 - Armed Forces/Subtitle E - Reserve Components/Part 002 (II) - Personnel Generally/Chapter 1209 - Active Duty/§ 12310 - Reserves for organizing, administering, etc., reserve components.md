@@ -42,7 +42,7 @@ Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist
 
 &emsp;(B) A terrorist attack or threatened terrorist attack in the United States that results, or could result, in catastrophic loss of life or property.
 
-&emsp;(C) The intentional or unintentional release of nuclear, biological, radiological, or toxic or poisonous chemical materials in the United States that results, or could result, in catastrophic loss of life or property.
+&emsp;(C) The intentional or unintentional release of nuclear, biological, radiological, or toxic orpoisonous chemical materials in the United States that results, or could result, in catastrophic loss of life or property.
 
 &emsp;(D) A natural or manmade disaster in the United States that results in, or could result in, catastrophic loss of life or property.
 

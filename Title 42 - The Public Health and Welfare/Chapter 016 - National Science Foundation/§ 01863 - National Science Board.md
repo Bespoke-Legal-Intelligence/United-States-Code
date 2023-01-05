@@ -10,7 +10,7 @@ The Board shall have an Executive Committee as provided in section 1865 of this 
 
 #### (c) Meetings; nominations; quorum; notice
 
-The persons nominated for appointment as members of the Board (1) shall be eminent in the fields of the basic, medical, or social sciences, engineering, agriculture, education, research management, or public affairs; (2) shall be selected solely on the basis of established records of distinguished service; and (3) shall be so selected as to provide representation of the views of scientific and engineering leaders in all areas of the Nation. In making nominations under this section, the President shall give due regard to equitable representation of scientists and engineers who are women or who represent minority groups. The President is requested, in the making of nominations of persons for appointment as members, to give due consideration to any recommendations for nomination which may be submitted to him by the National Academy of Sciences, the National Academy of Engineering, the National Association of State Universities and Land Grant Colleges, the Association of American Universities, the Association of American Colleges, the Association of State Colleges and Universities, or by other scientific, engineering, or educational organizations.
+The persons nominated for appointment as members of the Board (1) shall be eminent in the fields of the basic, medical, or social sciences, engineering, agriculture, education, research management, or public affairs; (2) shall be selected solely on the basis of established records of distinguished service; and (3) shall be so selected as to provide representation of the views of scientific and engineering leaders in all areas of the Nation. In making nominations under this section, the President shall give due regard to equitable representation of scientists and engineers who are women or who represent minority groups. The President is requested, in the making of nominations of persons for appointment as members, to give due consideration to any recommendations for nomination which may be submitted to him by the National Academy ofSciences, the National Academy of Engineering, the National Association of State Universities and Land Grant Colleges, the Association of American Universities, the Association of American Colleges, the Association of State Colleges and Universities, or by other scientific, engineering, or educational organizations.
 
 #### (d) Term of office; reappointment
 
@@ -38,7 +38,7 @@ The Board is also authorized to appoint from among its members such committees a
 
 #### (j) Report to President; submittal to Congress
 
-(1) The Board shall render to the President and the Congress no later than January 15 of each even numbered year, a report on indicators of the state of science and engineering in the United States.
+(1) The Board shall render to the President and the Congress no later than March 15 of each even numbered year, a report on indicators of the state of science and engineering in the United States.
 
 (2) The Board shall render to the President and the Congress reports on specific, individual policy matters within the authority of the Foundation (or otherwise as requested by the Congress or the President) related to science and engineering and education in science and engineering, as the Board, the President, or the Congress determines the need for such reports.
 
@@ -48,17 +48,19 @@ Portions of Board meetings in which the Board considers proposed Foundation budg
 
 #### (l) Financial disclosure report for Board members
 
-Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; 92 Stat. 1836), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
+Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; <sup>1</sup> 92 Stat. 1836), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
 
-(May 10, 1950, ch. 171, §4, 64 Stat. 150; Pub. L. 86–232, §2, Sept. 8, 1959, 73 Stat. 467; Pub. L. 86–507, §1(36), June 11, 1960, 74 Stat. 202; Pub. L. 90–407, §2, July 18, 1968, 82 Stat. 361; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473; Pub. L. 94–471, §9, Oct. 11, 1976, 90 Stat. 2057; Pub. L. 95–99, §12(b), formerly §14(b), Aug. 15, 1977, 91 Stat. 835, renumbered §12(b), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 96–516, §21(a), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 97–375, title II, §214, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–159, title I, §§109(a), 110(a)(12), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§105(a), 108, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 105–207, title II, §202(a)(1), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(a)(1), (c), Dec. 19, 2002, 116 Stat. 3058, 3059; Pub. L. 110–69, title VII, §§7015(b), 7016, Aug. 9, 2007, 121 Stat. 683, 684; Pub. L. 111–358, title V, §504(a), (b), Jan. 4, 2011, 124 Stat. 4006; Pub. L. 112–166, §2(s), Aug. 10, 2012, 126 Stat. 1288.)
+(May 10, 1950, ch. 171, §4, 64 Stat. 150; Pub. L. 86–232, §2, Sept. 8, 1959, 73 Stat. 467; Pub. L. 86–507, §1(36), June 11, 1960, 74 Stat. 202; Pub. L. 90–407, §2, July 18, 1968, 82 Stat. 361; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473; Pub. L. 94–471, §9, Oct. 11, 1976, 90 Stat. 2057; Pub. L. 95–99, §12(b), formerly §14(b), Aug. 15, 1977, 91 Stat. 835, renumbered §12(b), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 96–516, §21(a), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 97–375, title II, §214, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–159, title I, §§109(a), 110(a)(12), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§105(a), 108, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 105–207, title II, §202(a)(1), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(a)(1), (c), Dec. 19, 2002, 116 Stat. 3058, 3059; Pub. L. 110–69, title VII, §§7015(b), 7016, Aug. 9, 2007, 121 Stat. 683, 684; Pub. L. 111–358, title V, §504(a), (b), Jan. 4, 2011,124 Stat. 4006; Pub. L. 112–166, §2(s), Aug. 10, 2012, 126 Stat. 1288; Pub. L. 117–167, div. B, title III, §10399F, Aug. 9, 2022, 136 Stat. 1599.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Ethics in Government Act of 1978, referred to in subsec. (l), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (l), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Act was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, §201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (j)(1). Pub. L. 117–167 substituted "March 15" for "January 15".
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate," after "appointed by the President".
 
@@ -102,7 +104,7 @@ Pub. L. 94–273 substituted "April" for "January".
 
 Subsecs. (h) to (j). Pub. L. 94–282 redesignated subsecs. (h) to (j) as (g) to (i), respectively.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–407 substituted provisions which authorized the Board to establish the policies of the Foundation in addition to any powers and functions otherwise granted to it by this chapter, forprovisions which authorized the Board, except as otherwise provided by this chapter, to exercise the authority granted to the Foundation by this chapter. Provisions of this subsection, which enumerated the qualifications of persons nominated for appointment to the Board and provided for the specified organizations to make recommendations to the President of individuals qualified for nomination, were designated as subsec. (c).
+<b>1968</b>—Subsec. (a). Pub. L. 90–407 substituted provisions which authorized the Board to establish the policies of the Foundation in addition to any powers and functions otherwise granted to it by this chapter, for provisions which authorized the Board, except as otherwise provided by this chapter, to exercise the authority granted to the Foundation by this chapter. Provisions of this subsection, which enumerated the qualifications of persons nominated for appointment to the Board and provided for the specified organizations to make recommendations to the President of individuals qualified for nomination, were designated as subsec. (c).
 
 Subsec. (b). Pub. L. 90–407 added subsec. (b). Former subsec. (b) redesignated (d).
 
@@ -134,9 +136,11 @@ For reference to maximum rate under section 5376 of Title 5, Government Organiza
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 1013 of Title 5, Government Organization and Employees.
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
 Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Content of Regulations.—The Administrator shall prescribe under this division 
 
 &emsp;(1) conflict of interest standards for persons who provide consulting services described in subsection (b); and
 
-&emsp;(2) procedures, including registration, certification, and enforcement requirements asmay be appropriate, to promote compliance with the standards.
+&emsp;(2) procedures, including registration, certification, and enforcement requirements as may be appropriate, to promote compliance with the standards.
 
 (b)
 

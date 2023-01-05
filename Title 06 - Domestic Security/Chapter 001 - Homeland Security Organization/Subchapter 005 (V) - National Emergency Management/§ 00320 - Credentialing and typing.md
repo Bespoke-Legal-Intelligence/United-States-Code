@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator shall enter into a memorandum of understanding with the administrators of the Emergency Management Assistance Compact, State, local, and tribal governments, and organizations that represent emergency response providers, to collaborate on developingstandards for deployment capabilities, including for credentialing and typing of incident management personnel, emergency response providers, and other personnel (including temporary personnel) and resources likely needed to respond to natural disasters, acts of terrorism, and other man-made disasters.
+The Administrator shall enter into a memorandum of understanding with the administrators of the Emergency Management Assistance Compact, State, local, and tribal governments, and organizations that represent emergency response providers, to collaborate on developing standards for deployment capabilities, including for credentialing and typing of incident management personnel, emergency response providers, and other personnel (including temporary personnel) and resources likely needed to respond to natural disasters, acts of terrorism, and other man-made disasters.
 
 #### (b) Distribution
 
@@ -47,6 +47,12 @@ Another prior section 510 of Pub. L. 107–296 was classified to section 321 of 
 Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of this title.
 
 #### Scope of Practice in Public Health Emergency
+
+Pub. L. 117–328, div. F, title V, §543, Dec. 29, 2022, 136 Stat. 4757, provided that: "Subsection (c) of section 16005 of title VI of division B of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136) \[set out below\] shall be applied as if the language read as follows: 'Subsection (a) shall apply until September 30, 2023.'."
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–103, div. F, title V, §541, Mar. 15, 2022, 136 Stat. 344.
 
 Pub. L. 116–136, div. B, title VI, §16005, Mar. 27, 2020, 134 Stat. 545, provided that:
 

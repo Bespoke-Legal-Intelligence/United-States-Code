@@ -20,7 +20,7 @@
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'financial institution' has the meaning given the term 'financial organization' in section 3332(a) of title 31."
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–261 amended par. (1) generally. Prior to amendment, par. (1) read as follows:"The term 'financial institution' has the meaning given the term 'financial organization' in section 3332(a) of title 31."
 
 <b>1991</b>—Pub. L. 102–25 struck out "mandatory" after "error in" in section catchline.
 

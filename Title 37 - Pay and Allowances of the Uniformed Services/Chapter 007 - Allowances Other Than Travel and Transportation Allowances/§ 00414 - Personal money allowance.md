@@ -52,7 +52,7 @@ Subsec. (b). Pub. L. 116–283, §925(e)(1)(B), inserted "the senior enlisted ad
 
 <b>2018</b>—Subsecs. (b), (c). Pub. L. 115–232 redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to allowance for certain naval officers.
 
-<b>2014</b>—Subsec. (a)(5). Pub. L. 113–291, §603(c)(1), substituted "Commandant of the Coast Guard, or Chief of the National Guard Bureau" for "or Commandant of the Coast Guard".
+<b>2014</b>—Subsec. (a)(5). Pub. L. 113–291, §603(c)(1), substituted "Commandant of the Coast Guard, or Chief ofthe National Guard Bureau" for "or Commandant of the Coast Guard".
 
 Subsec. (c). Pub. L. 113–291, §603(c)(2), substituted "the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff, or the Senior Enlisted Advisor to the Chief of the National Guard Bureau" for "or the Senior Enlisted Advisor to the Chairman of the Joint Chiefs of Staff".
 

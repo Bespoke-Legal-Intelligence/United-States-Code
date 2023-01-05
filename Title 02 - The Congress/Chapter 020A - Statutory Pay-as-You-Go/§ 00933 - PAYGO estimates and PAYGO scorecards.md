@@ -14,7 +14,7 @@
 
 #### (C) Conference reports and amendments between the Houses
 
-&emsp;&emsp;To establish the budgetary effects of the conference report on a PAYGO Act, or an amendment to an amendment between Houses on a PAYGO Act, which if estimated shall be estimated jointly by the Chairmen of the House and Senate Budget Committees, the conference report or amendment between the Houses shall include the following statement: "The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on this conference report or amendment between the Houses.".
+&emsp;&emsp;To establish the budgetary effects of the conference report on a PAYGO Act, or an amendment to an amendment between Houses on a PAYGO Act, which if estimated shall be estimated jointly by the Chairmen of the House and Senate Budget Committees, the conference report or amendment between the Houses shall include the following statement: "The budgetary effects ofthis Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, jointly submitted for printing in the Congressional Record by the Chairmen of the House and Senate Budget Committees, provided that such statement has been submitted prior to the vote on passage in the House acting first on this conference report or amendment between the Houses.".
 
 #### (2) Determination of budgetary effects of PAYGO Acts
 
@@ -70,7 +70,7 @@
 
 #### (A) Estimates
 
-&emsp;&emsp;CBO or OMB, as applicable, shall exclude from the estimate of budgetary effects any budgetary effects of a provision that meets the criteria in subsection (c), (d), (e) or (f) of section 936 of this title, to the extent that those budgetary effects, when combined with all other excluded budgetary effects of any other previously designated provisions of enacted legislation under the same subsection of section 936 of this title, do not exceed the maximum applicable current policy adjustment defined under the applicable subsection of section 936 of this title for the applicable 10-year period.
+&emsp;&emsp;CBO or OMB, as applicable, shall exclude from the estimate of budgetary effects any budgetary effects of a provision that meets the criteria in subsection (c), (d), (e) or (f) of section 936 of this title, to the extent thatthose budgetary effects, when combined with all other excluded budgetary effects of any other previously designated provisions of enacted legislation under the same subsection of section 936 of this title, do not exceed the maximum applicable current policy adjustment defined under the applicable subsection of section 936 of this title for the applicable 10-year period.
 
 #### (B) Baseline
 
@@ -84,7 +84,7 @@
 
 #### (B) Prohibition on use of excess savings across budget areas
 
-&emsp;&emsp;For provisions eligible for a current policy adjustment under subsections (c) through (f) of section 936 of this title, to the extent the adjustment for current policy of any provision exceeds the estimated budgetary effects of that same provision, the excess savingsshall be available only to offset the costs of other provisions that qualify for a current policy adjustment in that same subsection. Each paragraph in section 936(f)(1) of this title shall be considered a separate subsection for purposes of this section.
+&emsp;&emsp;For provisions eligible for a current policy adjustment under subsections (c) through (f) of section 936 of this title, to the extent the adjustment for current policy of any provision exceeds the estimated budgetary effects of that same provision, the excess savings shall be available only to offset the costs of other provisions that qualify for a current policy adjustment in that same subsection. Each paragraph in section 936(f)(1) of this title shall be considered a separate subsection for purposes of this section.
 
 #### (4) Further guidance on estimating budgetary effects
 
@@ -156,7 +156,7 @@ OMB shall cumulate the budgetary effects of a PAYGO Act over the budget year (wh
 
 #### (ii) Appeals
 
-&emsp;&emsp;&emsp;Appeals in the Senate from the decisions of the Chair relating to any provision ofthis subsection shall be limited to 1 hour, to be equally divided between, and controlled by, the appellant and the manager of the bill or joint resolution, as the case may be. An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this subsection.
+&emsp;&emsp;&emsp;Appeals in the Senate from the decisions of the Chair relating to any provision of this subsection shall be limited to 1 hour, to be equally divided between, and controlled by, the appellant and the manager of the bill or joint resolution, as the case may be. An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this subsection.
 
 #### (C) Definition of an emergency designation
 

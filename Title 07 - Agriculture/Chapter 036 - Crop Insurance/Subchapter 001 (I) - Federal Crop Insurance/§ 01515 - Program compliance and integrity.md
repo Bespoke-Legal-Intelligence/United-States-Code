@@ -66,7 +66,7 @@
 
 #### (D) Late payment of debt
 
-&emsp;&emsp;In the case of a producer that has inadvertently failed to pay a debt due as specified by regulations of the Corporation and has been determined to be ineligible for cropinsurance pursuant to the terms of the policy as a result of that failure, the Corporation may determine to allow the producer to pay the debt and purchase the crop insurance after the sales closing date, in accordance with procedures and limitations established by the Corporation.
+&emsp;&emsp;In the case of a producer that has inadvertently failed to pay a debt due as specified by regulations of the Corporation and has been determined to be ineligible for crop insurance pursuant to the terms of the policy as a result of that failure, the Corporation may determine to allow the producer to pay the debt and purchase the crop insurance after the sales closing date, in accordance with procedures and limitations established by the Corporation.
 
 #### (d) Identification and elimination of fraud, waste, and abuse
 
@@ -92,7 +92,7 @@
 
 #### (3) Use of field infrastructure
 
-&emsp;The plan required by paragraph (1) shall provide for the use of the field infrastructure of the Farm Service Agency. The Secretary shall ensure that relevant Farm Service Agency personnel are appropriately trained for any responsibilities assigned to the personnel under the plan. At a minimum, the personnel shall receive the same level of training and pass the same basic competency tests as required of loss adjusters of approved insurance providers.
+&emsp;The plan required by paragraph (1) shall provide for the use of the field infrastructure of the Farm Service Agency. The Secretary shall ensure that relevant Farm Service Agency personnel are appropriately trained for any responsibilities assigned to the personnel under the plan. At a minimum, the personnel shall receive the same level of training and pass thesame basic competency tests as required of loss adjusters of approved insurance providers.
 
 #### (4) Maintenance of provider effort
 
@@ -132,7 +132,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;The Secretary shall establish procedures under which the Corporation will be able to identify the following:
 
-&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this subchapter wherethe loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
+&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this subchapter where the loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
 
 &emsp;&emsp;(B) Any person performing loss adjustment services relative to coverage offered under this subchapter where such loss adjustments performed by the person result in accepted or denied claims equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for accepted or denied claims (as applicable) for all other persons performing loss adjustment services in the same area, as determined by the Corporation.
 
@@ -168,7 +168,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 #### (A) In general
 
-&emsp;&emsp;The information required to be submitted under subparagraphs (A) through (C) of paragraph (1) with respect to a policy or plan of insurance shall be submitted so as to ensure receipt by the Corporation not later than the Saturday of the week containing the calendar day that is 30 days after the applicable sales closing date for the crop to be insured.
+&emsp;&emsp;The information required to be submitted under subparagraphs (A) through (C) of paragraph (1) with respect to a policy or plan of insurance shall be submitted so as to ensurereceipt by the Corporation not later than the Saturday of the week containing the calendar day that is 30 days after the applicable sales closing date for the crop to be insured.
 
 #### (B) Actual production history
 
@@ -326,17 +326,17 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 #### References in Text
 
-The Agricultural Market Transition Act, referred to in subsec. (h)(3)(B)(ii), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, as amended, which is classified principally to chapter 100 (§7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
+The Agricultural Market Transition Act, referred to in subsec. (h)(3)(B)(ii), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 7201 of this title and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (h)(3)(B)(iii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in subsec. (h)(3)(B)(iii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(3)(B)(iv), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(3)(B)(iv), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (h)(3)(B)(v), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (h)(3)(B)(v), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§1281 et seq.) of this title. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (h)(3)(B)(vii), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (h)(3)(B)(vii), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 This subchapter, referred to in subsec. (k)(2)(A), was in the original "this Act", meaning the Federal Crop Insurance Act, which is subtitle A of title V of act Feb. 16, 1938, ch. 30.
 

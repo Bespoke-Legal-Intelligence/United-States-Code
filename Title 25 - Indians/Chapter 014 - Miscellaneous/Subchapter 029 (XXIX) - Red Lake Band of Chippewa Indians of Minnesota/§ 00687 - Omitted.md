@@ -4,5 +4,5 @@
 
 #### Codification
 
-Section, Pub. L. 85–794, §1, Aug. 28, 1958, 72 Stat. 958, which authorized a $100 payment to each member of theRed Lake Band of Chippewa Indians of Minnesota alive on Aug. 28, 1958, from proceeds of the sale of timber and lumber within the Red Lake Reservation, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 85–794, §1, Aug. 28, 1958, 72 Stat. 958, which authorized a $100 payment to each member of the Red Lake Band of Chippewa Indians of Minnesota alive on Aug. 28, 1958, from proceeds of the sale of timber and lumber within the Red Lake Reservation, was omitted from the Code as being of special and not general application.
 

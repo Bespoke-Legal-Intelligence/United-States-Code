@@ -24,7 +24,7 @@ Notice of Availability of Allowance.—To the maximum extent practicable, in adv
 
 #### Amendments
 
-<b>2016</b>—Pub. L. 114–328, §644(b)(2), substituted "Allowance to cover monthly premiums for Servicemembers'Group Life Insurance: members serving in a designated duty assignment" for "Allowance to cover monthly premium for Servicemembers' Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom" in section catchline.
+<b>2016</b>—Pub. L. 114–328, §644(b)(2), substituted "Allowance to cover monthly premiums for Servicemembers' Group Life Insurance: members serving in a designated duty assignment" for "Allowance to cover monthly premium for Servicemembers' Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom" in section catchline.
 
 Subsec. (a). Pub. L. 114–328, §644(a), designated existing provisions as par. (1), substituted "who serves in a designated duty assignment" for "who serves in the theater of operations for Operation Enduring Freedom or Operation Iraqi Freedom", and added par. (2).
 

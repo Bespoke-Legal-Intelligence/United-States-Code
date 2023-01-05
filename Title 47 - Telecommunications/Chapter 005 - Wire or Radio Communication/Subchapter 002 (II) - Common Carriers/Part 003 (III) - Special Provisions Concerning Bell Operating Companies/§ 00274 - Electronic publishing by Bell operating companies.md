@@ -14,7 +14,7 @@ A separated affiliate or electronic publishing joint venture shall be operated i
 
 &emsp;(3) carry out transactions (A) in a manner consistent with such independence, (B) pursuant to written contracts or tariffs that are filed with the Commission and made publicly available, and (C) in a manner that is auditable in accordance with generally accepted auditing standards;
 
-&emsp;(4) value any assets that are transferred directly or indirectly from the Bell operating company to a separated affiliate or joint venture, and record any transactions by which such assets are transferred, in accordance with such regulations as may be prescribed by the Commission or a State commission to prevent improper cross subsidies;
+&emsp;(4) value any assets that are transferred directly or indirectly from the Bell operating company to a separated affiliate or joint venture, and record any transactions by which such assets are transferred, in accordance withsuch regulations as may be prescribed by the Commission or a State commission to prevent improper cross subsidies;
 
 &emsp;(5) between a separated affiliate and a Bell operating company—
 
@@ -96,7 +96,7 @@ Any separated affiliate under this section shall file with the Commission annual
 
 #### (1) In general
 
-&emsp;The term "electronic publishing" means the dissemination, provision, publication, or saleto an unaffiliated entity or person, of any one or more of the following: news (including sports); entertainment (other than interactive games); business, financial, legal, consumer, or credit materials; editorials, columns, or features; advertising; photos or images; archival or research material; legal notices or public records; scientific, educational, instructional, technical, professional, trade, or other literary materials; or other like or similar information.
+&emsp;The term "electronic publishing" means the dissemination, provision, publication, or sale to an unaffiliated entity or person, of any one or more of the following: news (including sports); entertainment (other than interactive games); business, financial, legal, consumer, or credit materials; editorials, columns, or features; advertising; photos or images; archival or research material; legal notices or public records; scientific, educational, instructional, technical, professional, trade, or other literary materials; or other like or similar information.
 
 #### (2) Exceptions
 
@@ -166,5 +166,5 @@ As used in this section—
 
 #### References in Text
 
-The Securities Exchange Act of 1934, referred to in subsec. (i)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (i)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 

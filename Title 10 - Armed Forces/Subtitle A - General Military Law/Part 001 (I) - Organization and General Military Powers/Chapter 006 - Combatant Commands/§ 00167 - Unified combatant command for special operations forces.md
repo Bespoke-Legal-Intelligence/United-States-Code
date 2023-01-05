@@ -32,7 +32,7 @@ Authority of Combatant Commander.—(1) In addition to the authority prescribed 
 
 &emsp;&emsp;(i) for forces assigned to the special operations command; and
 
-&emsp;&emsp;(ii) for special operations forces assigned to unified combatant commands other than the special operations command, with respect to all matters covered by paragraph (4) and, with respect to a matter not covered by paragraph (4), to the extent directed by the Secretary of Defense.
+&emsp;&emsp;(ii) for special operations forces assigned to unified combatant commands other than the special operations command, with respect to all matters covered by paragraph (4)and, with respect to a matter not covered by paragraph (4), to the extent directed by the Secretary of Defense.
 
 &emsp;(D) Training assigned forces.
 
@@ -222,6 +222,48 @@ Subsecs. (f) to (l). Pub. L. 114–328, §922(c)(2), added subsec. (f) and redes
 
 Pub. L. 99–500, §101(c) \[title IX, §9115(i)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, Pub. L. 99–591, §101(c) \[title IX, §9115(i)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125, and Pub. L. 99–661, div. A, title XIII, §1311(i), Nov. 14, 1986, 100 Stat. 3986, provided that: "Section 167 of title 10, United States Code (as added by subsection (b)), shall be implemented not later than 180 days after the date of the enactment of this Act \[Oct. 18, 1986\]."
 
+#### Review of Certain Personnel Policies of Special Operations Forces
+
+Pub. L. 117–263, div. A, title V, §538, Dec. 23, 2022, 136 Stat. 2577, provided that:
+
+"(a)
+
+Review Required.—The Secretary of Defense shall direct the covered officials to review (and, if a covered official determines it necessary, update guidance and processes) matters described in section 167(e)(2)(J) of title 10, United States Code. The covered officials shall complete such review (and update) not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\].
+
+"(b)
+
+Elements of Review.—The review and updates under subsection (a) shall address the respective roles of the military departments and the United States Special Operations Command with respect to the following:
+
+&emsp;"(1) Coordination between special operations command and the military departments regarding recruiting and retention to ensure that personnel requirements of special operations forces and the military departments are met appropriately.
+
+&emsp;"(2) Opportunities for members of special operations forces to enroll in professional military education.
+
+&emsp;"(3) Promotion opportunities for members of special operations forces and an assessment of whether such opportunities are adequate to fulfill staffing requirements of special operations forces.
+
+&emsp;"(4) Data sharing between the military departments and special operations command with respect to special operations forces personnel.
+
+&emsp;"(5) Any other matter the Secretary of Defense determines appropriate.
+
+"(c)
+
+Report Required.—Not later than 90 days after completing the review (and any updates) under subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on such review and any resulting updates to guidance and processes. The report shall also include any recommendations of the Secretary regarding matters described in subsection (a) or (b).
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered officials' means—
+
+&emsp;&emsp;"(A) the Secretaries of the military departments;
+
+&emsp;&emsp;"(B) the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict; and
+
+&emsp;&emsp;"(C) the Commander of special operations command.
+
+&emsp;"(2) The term 'special operations command' has the meaning given that term in section 167(a) of title 10, United States Code.
+
+&emsp;"(3) The term 'special operations forces' means the forces described in section 167(j) of title 10, United States Code."
+
 #### Processes and Procedures for Notifications Regarding Special Operations Forces
 
 Pub. L. 116–92, div. A, title XVII, §1745, Dec. 20, 2019, 133 Stat. 1842, provided that:
@@ -234,7 +276,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 Processes and Procedures.—The processes and procedures established under subsection (a) shall—
 
-&emsp;"(1) clarify the roles and responsibilities of the Secretaries of the military departments, the AssistantSecretary of Defense for Special Operations and Low Intensity Conflict, and the Commander of United States Special Operations Command;
+&emsp;"(1) clarify the roles and responsibilities of the Secretaries of the military departments, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, and the Commander of United States Special Operations Command;
 
 &emsp;"(2) provide guidance relating to the types of matters that would warrant congressional notification, including awards, reprimands, incidents, and any other matters the Secretary determines necessary;
 
@@ -252,7 +294,7 @@ Pub. L. 112–81, div. A, title IX, §904, Dec. 31, 2011, 125 Stat. 1533, provid
 
 "(a)
 
-Requirement.—By not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\] and annually thereafter, each Secretary of a military department shall enter into a memorandum of agreement with the Commander of the United States Special Operations Command that identifies or establishes processes and associated milestones by which numbers and types of enabling capabilities of the general purpose forces of the Armed Forces under the jurisdiction of such Secretary can be identified and dedicated to fulfill the training and operational requirements of special operations forces under the United States Special Operations Command.
+Requirement.—By not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\] and annually thereafter, each Secretary of a military department shall enter into a memorandum of agreement with the Commander of the United States Special Operations Command that identifies or establishes processes and associated milestones by which numbers and types of enabling capabilities of the general purpose forces of the Armed Forces under the jurisdiction of such Secretary can be identified and dedicated to fulfillthe training and operational requirements of special operations forces under the United States Special Operations Command.
 
 "(b)
 
@@ -326,7 +368,7 @@ Pub. L. 100–180, div. A, title XII, §1211(b), Dec. 4, 1987, 101 Stat. 1155, a
 
 Pub. L. 102–484, div. A, title IX, §936(a), (b), Oct. 23, 1992, 106 Stat. 2479, provided that, during the period beginning on Feb. 1, 1993, and ending on Feb. 1, 1995, the provisions of Pub. L. 99–661, §1311(e), set out below, would apply as if the Secretary of Defense had designated the United States Southern Command and the United States Central Command for the purposes of that section, and required the Secretary of Defense to submit to Congress a report setting forth the Secretary's recommendations for the grade structure for the special operations forces component commander for each unified command not later than Mar. 1, 1994.
 
-Pub. L. 100–180, div. A, title XII, §1211(e), Dec. 4, 1987, 101 Stat. 1156, directed that the major force programcategory for special operations forces of the Five-Year Defense Plan of the Department of Defense created pursuant to Pub. L. 99–661, §1311(c), set out below, was to be created not later than 30 days after Dec. 4, 1987, and required the Secretary of Defense to submit to committees of Congress on such date a report explaining the program recommendations and budget proposals included in such category and a certification that all program recommendations and budget proposals for special operations forces had been included.
+Pub. L. 100–180, div. A, title XII, §1211(e), Dec. 4, 1987, 101 Stat. 1156, directed that the major force program category for special operations forces of the Five-Year Defense Plan of the Department of Defense created pursuant to Pub. L. 99–661, §1311(c), set out below, was to be created not later than 30 days after Dec. 4, 1987, and required the Secretary of Defense to submit to committees of Congress on such date a report explaining the program recommendations and budget proposals included in such category and a certification that all program recommendations and budget proposals for special operations forces had been included.
 
 Pub. L. 99–661, div. A, title XIII, §1311(c)–(e), Nov. 14, 1986, 100 Stat. 3985, 3986, provided that:
 
@@ -340,7 +382,7 @@ Program and Budget Execution.—To the extent that there is authority to revise 
 
 "(e)
 
-Grade for Commanders of Certain Area Special Operations Commands.—The commander of the special operations command of the United States European Command, the United States Pacific Command \[now United States Indo-Pacific Command\], and any other unified combatant command that the Secretary of Defense may designate for the purposes of this section shall be of general or flag officer grade."
+Grade for Commanders of Certain Area Special Operations Commands.—The commander of the special operations command of the United States European Command, the United States Pacific Command \[now United States Indo-Pacific Command\], and any other unified combatant command that the Secretaryof Defense may designate for the purposes of this section shall be of general or flag officer grade."
 
 \[Identical provisions were contained in section 101(c) \[§9115(c)–(e)\] of Pub. L. 99–500 and Pub. L. 99–591, which was repealed by Pub. L. 102–484, div. A, title IX, §936(c), Oct. 23, 1992, 106 Stat. 2479.\]
 

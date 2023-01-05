@@ -104,7 +104,7 @@ In the case of an insurance company subject to the tax imposed by section 831—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term "100 percent dividend" means any dividend if the percentage used for purposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
+&emsp;&emsp;&emsp;&emsp;The term "100 percent dividend" means any dividend if the percentage used forpurposes of determining the deduction allowable under section 243 or 245(b) is 100 percent.
 
 #### (II) Certain dividends received by foreign corporations
 
@@ -266,7 +266,7 @@ In the case of a company which writes mortgage guaranty insurance—
 
 &emsp;There shall be allowed as a deduction for the taxable year, if bonds are purchased as required by paragraph (2), the sum of—
 
-&emsp;&emsp;(A) an amount representing the amount required by State law or regulation to be setaside in a reserve for mortgage guaranty insurance losses resulting from adverse economic cycles; and
+&emsp;&emsp;(A) an amount representing the amount required by State law or regulation to be set aside in a reserve for mortgage guaranty insurance losses resulting from adverse economic cycles; and
 
 &emsp;&emsp;(B) an amount representing the aggregate of amounts so set aside in such reserve for the 8 preceding taxable years to the extent such amounts were not deducted under this paragraph in such preceding taxable years,
 
@@ -310,7 +310,7 @@ In the case of a mutual insurance company which is an interinsurer or reciprocal
 
 &emsp;(2) there shall be included as an item of gross income the decrease for the taxable year in savings credited to subscriber accounts.
 
-> For purposes of the preceding sentence, the term "savings credited to subscriber accounts" means such portion of the surplus as is credited to theindividual accounts of subscribers before the 16th day of the 3rd month following the close of the taxable year, but only if the company would be obligated to pay such amount promptly to such subscriber if he terminated his contract at the close of the company's taxable year. For purposes of determining his taxable income, the subscriber shall treat any such savings credited to his account as a dividend paid or declared.
+> For purposes of the preceding sentence, the term "savings credited to subscriber accounts" means such portion of the surplus as is credited to the individual accounts of subscribers before the 16th day of the 3rd month following the close of the taxable year, but only if the company would be obligated to pay such amount promptly to such subscriber if he terminated his contract at the close of the company's taxable year. For purposes of determining his taxable income, the subscriber shall treat any such savings credited to his account as a dividend paid or declared.
 
 #### (g) Dividends within group
 
@@ -376,7 +376,7 @@ Subsec. (g). Pub. L. 100–647, §1010(d)(1), added subsec. (g).
 
 <b>1986</b>—Subsec. (b)(1)(C). Pub. L. 99–514, §1024(c)(1), substituted "exclusively issuing perpetual policies" for "described in section 831(a)(3)(A)".
 
-Subsec. (b)(1)(D). Pub. L. 99–514, §1024(c)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "in the case of a mutual fire or flood insurance company described in section 831(a)(3)(B), anamount equal to 2 percent of the premiums earned on insurance contracts during the taxable year with respect to policies described in section 831(a)(3)(B) after deduction of premium deposits returned or credited during the same taxable year, and".
+Subsec. (b)(1)(D). Pub. L. 99–514, §1024(c)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "in the case of a mutual fire or flood insurance company described in section 831(a)(3)(B), an amount equal to 2 percent of the premiums earned on insurance contracts during the taxable year with respect to policies described in section 831(a)(3)(B) after deduction of premium deposits returned or credited during the same taxable year, and".
 
 Subsec. (b)(4). Pub. L. 99–514, §1024(c)(3), substituted "paragraph (1)(D)" for "section 831(a)(3)(B)" in two places and amended last sentence generally, substituting "described in paragraph (1)(D) or issuing exclusively perpetual policies" for "referred to in paragraph (3) of section 831(a)" and "described in subparagraph (C) or (D) of paragraph (1)" for "referred to in such paragraph (3)".
 
@@ -440,7 +440,7 @@ Subsec. (c). Act Mar. 13, 1956, §3(b)(2), (3), substituted "the items described
 
 #### Effective Date of 2017 Amendment
 
-Amendment by section 13001(b)(2)(I) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
+Amendment by section 13001(b)(2)(I) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31,2017, see section 13001(c)(1) of Pub. L. 115–97, set out as a note under section 11 of this title.
 
 Pub. L. 115–97, title I, §13515(b), Dec. 22, 2017, 131 Stat. 2144, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
@@ -552,7 +552,7 @@ In general.—The unearned premiums at the end of the preceding taxable year as 
 
 Fresh start.—Except as provided in subparagraph (C), any difference between—
 
-&emsp;&emsp;"(i) the amount determined to be unearned premiums for the year preceding the first taxable year of a title insurance company beginning after December 31, 1986, determined without regard to subparagraph (A), and
+&emsp;&emsp;"(i) the amount determined to be unearned premiums for the year preceding the first taxable yearof a title insurance company beginning after December 31, 1986, determined without regard to subparagraph (A), and
 
 &emsp;&emsp;"(ii) such amount determined with regard to subparagraph (A),
 
@@ -582,7 +582,7 @@ Amendment by section 1901(a)(108), (b)(1)(T), (U) of Pub. L. 94–455 effective 
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–240, §5(e), Jan. 2, 1968, 81 Stat. 778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsections (a), (b), (c), and (d) \[amending this section and section 381 of this title\] shall apply to taxable years beginning after December 31, 1966, except that so much ofsection 832(e)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the amendment made by subsection (c)) as provides for payment of interest and penalties for failure to make a timely purchase of tax and loss bonds shall not apply with respect to any period during which such bonds are not available for purchase."
+Pub. L. 90–240, §5(e), Jan. 2, 1968, 81 Stat. 778, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsections (a), (b), (c), and (d) \[amending this section and section 381 of this title\] shall apply to taxable years beginning after December 31, 1966, except that so much of section 832(e)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by the amendment made by subsection (c)) as provides for payment of interest and penalties for failure to make a timely purchase of tax and loss bonds shall not apply with respect to any period during which such bonds are not available for purchase."
 
 #### Effective Date of 1966 Amendment
 

@@ -1,8 +1,0 @@
-### §752b. Omitted
-
-#### <b>Editorial Notes</b>
-
-#### Codification
-
-Section, act June 15, 1938, ch. 398, 52 Stat. 692, related to disposal of materials to the Boys Scouts of America. See section 901 of Title 14, Coast Guard.
-

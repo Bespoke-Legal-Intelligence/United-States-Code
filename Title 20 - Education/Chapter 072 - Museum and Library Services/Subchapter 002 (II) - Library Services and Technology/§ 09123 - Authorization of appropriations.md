@@ -26,7 +26,7 @@ There are authorized to be appropriated—
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–410 substituted "each of the fiscal years 2020 through 2025" for "fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016" in pars. (1) and (2).
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–340, §202(a), added subsec. (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this subchapter $232,000,000 for fiscal year 2004 and such sums as may be necessary for fiscal years 2005 through 2009."
+<b>2010</b>—Subsec. (a). Pub. L. 111–340, §202(a), added subsec. (a) and struck out heading and text of former subsec. (a). Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this subchapter $232,000,000 for fiscal year 2004 and suchsums as may be necessary for fiscal years 2005 through 2009."
 
 Subsec. (c). Pub. L. 111–340, §202(b), struck out heading and text of subsec. (c). Text read as follows: "Not more than 3.5 percent of the funds appropriated under this section for a fiscal year may be used to pay for the Federal administrative costs of carrying out this subchapter."
 

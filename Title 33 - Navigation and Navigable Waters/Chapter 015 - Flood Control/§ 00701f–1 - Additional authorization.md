@@ -8,7 +8,7 @@ The sum of $375,000,000 is hereby authorized to be appropriated for carrying out
 
 #### References in Text
 
-"Herein" and "this Act", referred to in text, mean act June 28, 1938, ch. 795, 52 Stat. 1215, as amended, popularly known as the Flood Control Act of June 28, 1938, which to the extent classified to the Code enacted sections 701b, 701b–1, 701b–2, 701c–1, 701f–1, 701i, 701j, 702a–1½, 702a–11, and 706 of this title. For complete classification of this Act to the Code, see Tables.
+"Herein" and "this Act", referred to in text, mean act June 28, 1938, ch. 795, 52 Stat. 1215, popularly known as the Flood Control Act of June 28, 1938, which to the extent classified to the Code enacted sections 701b, 701b–1, 701b–2, 701c–1, 701f–1, 701i, 701j, 702a–1½, 702a–11, and 706 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -30,7 +30,7 @@ Sec. 15. That the sum of $772,000,000 is hereby authorized to be appropriated fo
 
 "
 
-Sec. 17. That the $5,000,000 authorized to be appropriated in section 10 of the Flood Control Act approved August 18, 1941 \[set out as a note under this section\], isreauthorized to be appropriated, and the sum of $20,000,000 additional is authorized to be appropriated, for expenditure by the Department of Agriculture for the prosecution of the works of improvement authorized to be carried out by that Department by the Flood Control Act of December 22, 1944 \[act Dec. 22, 1944, ch. 665, 58 Stat. 887\]."
+Sec. 17. That the $5,000,000 authorized to be appropriated in section 10 of the Flood Control Act approved August 18, 1941 \[set out as a note under this section\], is reauthorized to be appropriated, and the sum of $20,000,000 additional is authorized to be appropriated, for expenditure by the Department of Agriculture for the prosecution of the works of improvement authorized to be carried out by that Department by the Flood Control Act of December 22, 1944 \[act Dec. 22, 1944, ch. 665, 58 Stat. 887\]."
 
 Act Aug. 18, 1941, ch. 377, §10, 55 Stat. 651, provided as follows: "That the sum of $275,000,000 is hereby authorized to be appropriated for carrying out the improvements herein, the sum of $10,000,000 additional is authorized to be appropriated and expended in equal amounts by the Departments of War \[now Army\] and Agriculture for carrying out any examinations and surveys provided for in this Act and any other Acts of Congress to be prosecuted by said departments. There is also hereby authorized to be appropriated for expenditure by the Department of Agriculture in carrying on works of improvement of the character specified in section 7 of the Flood Control Act of June 28, 1938 \[section 701b–1 of this title\], and which the Department is not otherwise authorized to undertake, such additional sums, not to exceed $5,000,000, as may be necessary for that purpose. All appropriations necessary for operation and maintenance of flood-control works authorized by law to be operated and maintained by the United States are hereby authorized."
 

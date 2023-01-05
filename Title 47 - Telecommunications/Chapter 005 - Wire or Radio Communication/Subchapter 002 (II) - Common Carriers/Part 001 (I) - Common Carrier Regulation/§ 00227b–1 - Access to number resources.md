@@ -12,7 +12,7 @@
 
 #### (b) Authority
 
-Any person who knowingly, through an employee, agent, officer, or otherwise, directly or indirectly, by or through any means or device whatsoever, is a party to obtaining number resources, including number resources for toll-free and non-toll-free telephone numbers, from a common carrier regulated under title II of the Communications Act of 1934 (47 U.S.C. 201 et seq.), in violation of a regulation prescribed under subsection (a), shall, notwithstanding section 503(b)(5) of the Communications Act of 1934 (47 U.S.C. 503(b)(5)), be subject to a forfeiture penalty under section 503(b) of that Act (47 U.S.C. 503(b)). A forfeiture penalty under this subsection shall be in addition to any other penalty provided for by law.
+Any person who knowingly, through an employee, agent, officer, or otherwise, directly or indirectly, by or through any means or device whatsoever, is a party to obtaining number resources, including number resources for toll-free and non-toll-free telephone numbers, from a common carrier regulated under title II of the Communications Act of 1934 (47 U.S.C. 201 et seq.), in violation of a regulation prescribedunder subsection (a), shall, notwithstanding section 503(b)(5) of the Communications Act of 1934 (47 U.S.C. 503(b)(5)), be subject to a forfeiture penalty under section 503(b) of that Act (47 U.S.C. 503(b)). A forfeiture penalty under this subsection shall be in addition to any other penalty provided for by law.
 
 (Pub. L. 116–105, §6, Dec. 30, 2019, 133 Stat. 3282.)
 

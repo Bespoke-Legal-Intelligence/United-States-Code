@@ -18,7 +18,7 @@ Words "or in the United States Court of Appeals for the District of Columbia" an
 
 The prefatory words of this section preceding paragraph (1) were substituted for subsection (c) of said section 347.
 
-The revised section omits the words of section 347 of title 28, U.S.C., 1940 ed., "and with like effect as if the case had been brought there with unrestricted appeal", and the words of section 346 of such title "in the same manner as if it had been brought there by appeal". The effect of subsections (1) and (3) of the revised section is to preserve existing law and retain the power of unrestricted review of cases certified or brought up on certiorari. Only in subsection (2) is review restricted.
+The revised section omits the words of section 347 of title 28, U.S.C., 1940 ed., "and with like effect as if the case had been brought there with unrestricted appeal", and the words of section 346 of such title "in the samemanner as if it had been brought there by appeal". The effect of subsections (1) and (3) of the revised section is to preserve existing law and retain the power of unrestricted review of cases certified or brought up on certiorari. Only in subsection (2) is review restricted.
 
 Changes were made in phraseology and arrangement.
 

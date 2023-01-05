@@ -202,7 +202,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 #### (h) Security agreements; identity lists; notice of identity or accounting for proceeds; violations
 
-(1) A security agreement in which a person engaged in farming operations creates a security interest in a farm product may require the person to furnish to the secured party a list of the buyers, commission merchants, and selling agents to or through whom the person engagedin farming operations may sell such farm product.
+(1) A security agreement in which a person engaged in farming operations creates a security interest in a farm product may require the person to furnish to the secured party a list of the buyers, commission merchants, and selling agents to or through whom the person engaged in farming operations may sell such farm product.
 
 (2) If a security agreement contains a provision described in paragraph (1) and such person engaged in farming operations sells the farm product collateral to a buyer or through a commission merchant or selling agent not included on such list, the person engaged in farming operations shall be subject to paragraph (3) unless the person—
 

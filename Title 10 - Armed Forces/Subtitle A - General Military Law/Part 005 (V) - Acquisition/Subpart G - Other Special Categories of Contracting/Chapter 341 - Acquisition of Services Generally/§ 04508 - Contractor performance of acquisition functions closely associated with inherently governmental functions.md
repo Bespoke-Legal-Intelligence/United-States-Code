@@ -32,13 +32,13 @@ Definitions.—In this section:
 
 #### Prior Provisions
 
-A prior section 4508, acts Aug. 10, 1956, ch. 1041, 70A Stat. 253; Nov. 2, 1966, Pub. L. 89–718, §27, 80 Stat. 1119,which related tests of iron, steel, and other materials, was repealed by Pub. L. 103–160, div. A, title VIII, §822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
+A prior section 4508, acts Aug. 10, 1956, ch. 1041, 70A Stat. 253; Nov. 2, 1966, Pub. L. 89–718, §27, 80 Stat. 1119, which related tests of iron, steel, and other materials, was repealed by Pub. L. 103–160, div. A, title VIII, §822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
 
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2383 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 116–283, §1856(i), which directed striking out "has the meaning given in section 2302(1) of this title, except that such term", was executed by striking out "has the meaning given such term in section 2302(1) of this title, except that such term" before "does not include", to reflect the probable intent of Congress.
+Subsec. (b)(1). Pub. L. 116–283, §1856(i), which directed striking out "has the meaning given in section 2302(1) of this title, except that such term", was executed bystriking out "has the meaning given such term in section 2302(1) of this title, except that such term" before "does not include", to reflect the probable intent of Congress.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

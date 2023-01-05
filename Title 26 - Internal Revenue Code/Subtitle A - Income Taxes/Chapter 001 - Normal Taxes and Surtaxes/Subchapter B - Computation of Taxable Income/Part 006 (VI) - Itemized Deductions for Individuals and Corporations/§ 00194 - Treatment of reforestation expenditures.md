@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (5) Application with other deductions
 
-&emsp;No deduction shall be allowed under any other provision of this chapter with respect toany expenditure with respect to which a deduction is allowed or allowable under this section to the taxpayer.
+&emsp;No deduction shall be allowed under any other provision of this chapter with respect to any expenditure with respect to which a deduction is allowed or allowable under this section to the taxpayer.
 
 #### (d) Life tenant and remainderman
 
@@ -88,7 +88,7 @@ A prior section 194 was renumbered section 194A of this title.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1)(B). Pub. L. 109–135, §403(i)(1)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The aggregate amount of reforestation expenditures which may be taken into account under subparagraph (A) with respect to each qualified timber property for any taxable year shall not exceed $10,000 ($5,000 in the case of a separate return by a married individual (as defined in section 7703))."
+<b>2005</b>—Subsec. (b)(1)(B). Pub. L. 109–135, §403(i)(1)(A), reenacted heading without change and amended textgenerally. Prior to amendment, text read as follows: "The aggregate amount of reforestation expenditures which may be taken into account under subparagraph (A) with respect to each qualified timber property for any taxable year shall not exceed $10,000 ($5,000 in the case of a separate return by a married individual (as defined in section 7703))."
 
 Subsec. (c)(4). Pub. L. 109–135, §403(i)(1)(B), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 

@@ -196,11 +196,11 @@
 
 #### References in Text
 
-The District of Columbia Business Corporation Act, referred to in subsec. (a)(2), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
+The District of Columbia Business Corporation Act, referred to in subsec. (a)(2), is act June 8, 1954, ch. 269, 68 Stat. 179, which is not classified to the Code.
 
 Sections 1132f–3 and 1132f–9 of this title, referred to in subsecs. (a)(3)(A) and (b)(5), were repealed by subsec. (d) of this section.
 
-The District of Columbia School Reform Act of 1995, referred to in subsec. (e)(2)(A), is Pub. L. 104–134, title I, §101(b) \[title II\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–107, as amended, which amended former sections 6322, 6364, and 6365 of this title and enacted provisions set out as a note under former section 6322 of this title. For complete classification of this Act to the Code, see Tables.
+The District of Columbia School Reform Act of 1995, referred to in subsec. (e)(2)(A), is Pub. L. 104–134, title I, §101(b) \[title II\], Apr. 26, 1996, 110 Stat. 1321–77, 1321–107, which amended former sections 6322, 6364, and 6365 of this title and enacted provisions set out as a note under former section 6322 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -220,7 +220,7 @@ Subsec. (e)(3)(E)(i)(IV). Pub. L. 108–335, §340, as amended by Pub. L. 108–
 
 Subsec. (e)(3)(F). Pub. L. 108–7, §143(c)(2), added subpar. (F).
 
-<b>2001</b>—Subsec. (e)(2)(B). Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, byinserting "revolving" after "enhancement" in second sentence of par. (2)(B), was executed by revising the amendment by Pub. L. 106–522, §161(1), which had amended the second sentence of subsec. (e)(2)(B) of this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
+<b>2001</b>—Subsec. (e)(2)(B). Pub. L. 107–96, par. (2), which directed amendment of section 161 of Pub. L. 106–522, by inserting "revolving" after "enhancement" in secondsentence of par. (2)(B), was executed by revising the amendment by Pub. L. 106–522, §161(1), which had amended the second sentence of subsec. (e)(2)(B) of this section, to reflect the probable intent of Congress. See 2000 Amendment note below.
 
 Subsec. (e)(3). Pub. L. 107–96, pars. (1), (3), amended Pub. L. 106–522, §161(2). See 2000 Amendment note below.
 

@@ -62,7 +62,7 @@ The Secretary of Energy shall ensure the coordination, and avoid unnecessary dup
 
 #### (f) Funding
 
-The Secretary of Energy shall allocate up to $25,000,000 for each Center established under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the Department of Energy.
+The Secretary of Energy shall allocate up to $25,000,000 for each Center established under this section for each of fiscal years 2019 through 2023,subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the Department of Energy.
 
 (Pub. L. 115–368, title IV, §402, Dec. 21, 2018, 132 Stat. 5101.)
 

@@ -4,7 +4,7 @@
 
 #### (1) Public education
 
-&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall carry out a program to educate health professionals and paraprofessionals and the general public on the prevention of lead poisoning in infants and children. In carrying out the program, the Secretary shall make available information concerning the health effects of low-level lead toxicity, the causes of lead poisoning, and the primary and secondary preventive measures that may be taken to prevent such poisoning.
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall carry out a program to educate health professionals and paraprofessionals and the general public on the prevention of lead poisoning in infants and children. In carrying out the program, the Secretary shall make available information concerning the healtheffects of low-level lead toxicity, the causes of lead poisoning, and the primary and secondary preventive measures that may be taken to prevent such poisoning.
 
 #### (2) Interagency Task Force
 
@@ -50,7 +50,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(2) provide for the development of improved methods of assessing the prevalence of lead poisoning, including such methods as may be necessary to conduct individual assessments for each State;
 
-&emsp;(3) provide for the collection of data on the incidence and prevalence of lead poisoning of infants and children, on the demographic characteristics of infants and children with such poisoning (including racial and ethnic status), and on the source of payment for treatment for such poisoning (including the extent towhich insurance has paid for such treatment); and
+&emsp;(3) provide for the collection of data on the incidence and prevalence of lead poisoning of infants and children, on the demographic characteristics of infants and children with such poisoning (including racial and ethnic status), and on the source of payment for treatment for such poisoning (including the extent to which insurance has paid for such treatment); and
 
 &emsp;(4) provide for any applied research necessary to improve the effectiveness of programs for the prevention of lead poisoning in infants and children.
 

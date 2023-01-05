@@ -2,7 +2,7 @@
 
 #### (a) "Finance charge" defined
 
-Except as otherwise provided in this section, the amount of the finance charge in connection with any consumer credit transaction shall be determined as the sum of all charges, payable directly or indirectly by the person to whom the credit is extended, and imposed directly or indirectly by the creditor as an incident to the extension of credit. The finance charge does not include charges of a type payable in a comparable cash transaction. The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges. Examples of charges which are included in the finance charge include any of the following types of charges which are applicable:
+Except as otherwise provided in this section, the amount of the finance charge in connection with any consumer credit transaction shall bedetermined as the sum of all charges, payable directly or indirectly by the person to whom the credit is extended, and imposed directly or indirectly by the creditor as an incident to the extension of credit. The finance charge does not include charges of a type payable in a comparable cash transaction. The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges. Examples of charges which are included in the finance charge include any of the following types of charges which are applicable:
 
 &emsp;(1) Interest, time price differential, and any amount payable under a point, discount, or other system or additional charges.
 
@@ -56,7 +56,7 @@ The following items, when charged in connection with any extension of credit sec
 
 #### (f) Tolerances for accuracy
 
-In connection with credit transactions not under an open end credit plan that are securedby real property or a dwelling, the disclosure of the finance charge and other disclosures affected by any finance charge—
+In connection with credit transactions not under an open end credit plan that are secured by real property or a dwelling, the disclosure of the finance charge and other disclosures affected by any finance charge—
 
 &emsp;(1) shall be treated as being accurate for purposes of this subchapter if the amount disclosed as the finance charge—
 

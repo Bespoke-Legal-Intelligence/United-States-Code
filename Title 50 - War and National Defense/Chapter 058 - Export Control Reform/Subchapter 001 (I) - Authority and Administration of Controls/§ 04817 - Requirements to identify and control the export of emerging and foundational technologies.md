@@ -44,7 +44,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may, in coordination with the Secretary of Defense, the Secretary of State, and the heads of other Federal agencies, as appropriate, specify the level of control to apply under paragraph (1) with respect to the export of technology described in that paragraph, including a requirement for a license or other authorization for the export, reexport, or in-country transfer of that technology.
+&emsp;&emsp;The Secretary may, in coordination with the Secretary of Defense, the Secretary ofState, and the heads of other Federal agencies, as appropriate, specify the level of control to apply under paragraph (1) with respect to the export of technology described in that paragraph, including a requirement for a license or other authorization for the export, reexport, or in-country transfer of that technology.
 
 #### (B) Considerations
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;(i) The sale or license of a finished item and the provision of associated technology if the United States person that is a party to the transaction generally makes the finished item and associated technology available to its customers, distributors, or resellers.
 
-&emsp;&emsp;&emsp;(ii) The sale or license to a customer of a product and the provision of integrationservices or similar services if the United States person that is a party to the transaction generally makes such services available to its customers.
+&emsp;&emsp;&emsp;(ii) The sale or license to a customer of a product and the provision of integration services or similar services if the United States person that is a party to the transaction generally makes such services available to its customers.
 
 &emsp;&emsp;&emsp;(iii) The transfer of equipment and the provision of associated technology to operate the equipment if the transfer could not result in the foreign person using the equipment to produce critical technologies (as defined in section 4565(a) of this title).
 
@@ -160,7 +160,7 @@ Not less frequently than every 180 days, the Secretary, in coordination with the
 
 #### (5) Applicability of Federal Advisory Committee Act
 
-&emsp;Subsections (a)(1), (a)(3), and (b) of section 10 and sections 11, 13, and 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Emerging Technology and Research Advisory Committee.
+&emsp;Subsections (a)(1), (a)(3), and (b) of section 10 and sections 11, 13, and 14 of the Federal Advisory Committee Act (5 U.S.C. App.) <sup>1</sup> shall not apply to the Emerging Technology and Research Advisory Committee.
 
 #### (6) Report
 
@@ -182,7 +182,7 @@ Nothing in this chapter shall be construed to alter or limit—
 
 Executive Order 12981, referred to in subsec. (b)(3)(A), is Ex. Ord. No. 12981, Dec. 5, 1995, 60 F.R. 62981, which is set out as a note under former section 4603 of this title.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. Sections 10, 11, 13, and 14 of the Act were repealed and restated as sections 1009, 1010, 1012, and 1013, respectively, of Title 5. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 This chapter, referred to in subsec. (g), was in the original "this subtitle", meaning subtitle B (§§1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, known as the Export Control Reform Act of 2018, which is classified principally to this chapter. For complete classification of subtitle B to the Code, see section 1741 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.
 
@@ -197,4 +197,6 @@ The Energy Reorganization Act of 1974, referred to in subsec. (g)(2), is Pub. L.
 The Export Administration Act of 1979, referred to in subsec. (g)(2), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of this title and was substantially repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232. For complete classification of this Act to the Code, see Tables.
 
 The International Emergency Economic Powers Act, referred to in subsec. (g)(2), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of this title and Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,7 +24,7 @@
 
 &emsp;(1) the term "agent" means a person authorized to act on behalf of another person or a government and, in the case of an organization or government, includes a servant or employee, and a partner, director, officer, manager, and representative;
 
-&emsp;(2) the term "government agency" means a subdivision of the executive, legislative, judicial, or other branch of government, including a department, independent establishment, commission, administration, authority, board, and bureau, and a corporation or other legal entity established, and subject to control, by a government or governments for the execution of a governmental or intergovernmental program;
+&emsp;(2) the term "government agency" means a subdivision of the executive, legislative, judicial, or other branch of government, including a department, independent establishment, commission, administration, authority, board, and bureau, and a corporation or other legal entity established, and subject to control, by a government or governments for the executionof a governmental or intergovernmental program;
 
 &emsp;(3) the term "local" means of or pertaining to a political subdivision within a State;
 

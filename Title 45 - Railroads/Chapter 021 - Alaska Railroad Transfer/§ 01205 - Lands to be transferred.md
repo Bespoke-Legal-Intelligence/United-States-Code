@@ -16,7 +16,7 @@ Lands among the rail properties of the Alaska Railroad shall not be—
 
 (1)(A) During the ten months following January 14, 1983, so far as practicable consistent with the priority of preparing the report required pursuant to section 1204(a) of this title, the Secretary of the Interior, Village Corporations with claims of valid existing rights, and the State shall review and make a good faith effort to settle as many of the claims as possible. Any agreement to settle such claims shall take effect and bind the United States, the State, and the Village Corporation only as of the date of transfer of the railroad.
 
-(B) At the conclusion of the review and settlement process provided in subparagraph (A) of this paragraph, the Secretary of the Interior shall prepare a report identifying lands to be conveyed in accordance with settlement agreements under this chapter or applicable law. Such settlement shall not give rise to a presumption as to whether a parcel of land subject to such agreement is or is not public land.
+(B) At the conclusion of the review and settlement process provided in subparagraph (A) of this paragraph, the Secretary of the Interior shall prepare a report identifying lands to be conveyed in accordance with settlement agreements under this chapter or applicable law.Such settlement shall not give rise to a presumption as to whether a parcel of land subject to such agreement is or is not public land.
 
 (2) The Secretary of the Interior shall have the continuing jurisdiction and duty to adjudicate unresolved claims of valid existing rights pursuant to applicable law and this chapter. The Secretary of the Interior shall complete the final administrative adjudication required under this subsection not later than three years after January 14, 1983, and shall complete the survey of all lands to be conveyed under this chapter not later than five years after January 14, 1983, and after consulting with the Governor of the State of Alaska to determine priority of survey with regard to other lands being processed for patent to the State. The Secretary of the Interior shall give priority to the adjudication of Village Corporation claims as required in this section. Upon completion of the review and settlement process required by paragraph (1)(A) of this subsection, with respect to lands not subject to an agreement under such paragraph, the Secretary of the Interior shall adjudicate which lands subject to claims of valid existing rights filed by Village Corporations, if any, are public lands and shall complete such final administrative adjudication within two years after January 14, 1983.
 
@@ -36,13 +36,13 @@ Lands among the rail properties of the Alaska Railroad shall not be—
 
 (2) No administrative or judicial action under this chapter shall enjoin or otherwise delay the transfer of the Alaska Railroad pursuant to this chapter, or substantially impair or impede the operations of the Alaska Railroad or the State-owned railroad.
 
-(3) Before the date of transfer, the State shall have standing to participate in any administrative determination or judicial review pursuant to this chapter. If transfer to the State does notoccur pursuant to section 1203 of this title, the State shall not thereafter have standing to participate in any such determination or review.
+(3) Before the date of transfer, the State shall have standing to participate in any administrative determination or judicial review pursuant to this chapter. If transfer to the State does not occur pursuant to section 1203 of this title, the State shall not thereafter have standing to participate in any such determination or review.
 
 #### (d) Omitted
 
 #### (e) Liability of State for damage to land while used under license
 
-The State shall be liable to a party receiving a conveyance of land among the rail properties of the Alaska Railroad subject to the license granted pursuant to section 1203(b)(1)(C) of this title for damage resulting from use by the State of the land under such license in a manner not authorized by such license.
+The State shall be liable to a party receiving a conveyance of land among the rail properties of the Alaska Railroad subject to the license granted pursuant to section 1203(b)(1)(C) of thistitle for damage resulting from use by the State of the land under such license in a manner not authorized by such license.
 
 (Pub. L. 97–468, title VI, §606(a)–(c), (e), Jan. 14, 1983, 96 Stat. 2564–2566, 2571; Pub. L. 98–620, title IV, §402(52), Nov. 8, 1984, 98 Stat. 3361.)
 
@@ -50,9 +50,9 @@ The State shall be liable to a party receiving a conveyance of land among the ra
 
 #### References in Text
 
-Section 12 of the Act of January 2, 1976, as amended, referred to in subsecs. (a)(1), (4) and (b)(3), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, as amended, which is set out as a note under section 1611 of Title 43, Public Lands. Section 12(b)(8)(i)(D) of such Act as amended by subsection (d)(5) of this section is the amendment of subsection (b)(8)(i)(D) of section 12 of Pub. L. 94–204 by section 606(d)(5) of Pub. L. 97–468, title VI, Jan. 14, 1983, 96 Stat. 2566.
+Section 12 of the Act of January 2, 1976, as amended, referred to in subsecs. (a)(1), (4) and (b)(3), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, which is set out as a note under section 1611 of Title 43, Public Lands. Section 12(b)(8)(i)(D) of such Act as amended by subsection (d)(5) of this section is the amendment of subsection (b)(8)(i)(D) of section 12 of Pub. L. 94–204 by section 606(d)(5) of Pub. L. 97–468, title VI, Jan. 14, 1983, 96 Stat. 2566.
 
-The Alaska National Interest Lands Conservation Act, referred to in subsecs. (a)(2) and (c), is Pub. L. 96–497, Dec. 2, 1980, 94 Stat. 2371, as amended. Sections 1425, 1429, and 1430 of the Act (94 Stat. 2515, 2531) were not classified to the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsecs. (a)(2) and (c), is Pub. L. 96–497, Dec. 2, 1980, 94 Stat. 2371. Sections 1425, 1429, and 1430 of the Act (94 Stat. 2515, 2531) were not classified to the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
 #### Codification
 

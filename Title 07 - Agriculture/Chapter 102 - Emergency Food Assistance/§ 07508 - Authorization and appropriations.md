@@ -38,7 +38,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §4406(b)(1), in first sentence, substituted "for fiscal year 2008 and eachfiscal year thereafter" for "for each of the fiscal years 2003 through 2007".
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §4406(b)(1), in first sentence, substituted "for fiscal year 2008 and each fiscal year thereafter" for "for each of the fiscal years 2003 through 2007".
 
 Pub. L. 110–246, §4201(c), in first sentence, substituted "$100,000,000" for "$60,000,000" and inserted "and donated wild game" before period at end.
 

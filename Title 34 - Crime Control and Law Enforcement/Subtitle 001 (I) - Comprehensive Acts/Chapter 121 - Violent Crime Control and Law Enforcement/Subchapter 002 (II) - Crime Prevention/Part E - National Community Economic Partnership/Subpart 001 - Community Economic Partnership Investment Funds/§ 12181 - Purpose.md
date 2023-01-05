@@ -10,3 +10,9 @@ It is the purpose of this subpart to increase private investment in distressed l
 
 Section was formerly classified to section 13821 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+For short title of subtitle K of title III of Pub. L. 103–322, which is classified to this part, as the "National Community Economic Partnership Act of 1994", see section 31101 of Pub. L. 103–322, set out as a Short Title of 1994 Act note under section 10101 of this title.
+

@@ -14,7 +14,7 @@ The Comptroller General of the United States shall conduct a study to evaluate�
 
 #### (b) Consultation
 
-In carrying out the study conducted under subsection (a), the Comptroller General of the United States shall consult with a geographically diverse (including urban, suburban, and rural) representation of—
+In carrying out the study conducted under subsection (a), the Comptroller General of theUnited States shall consult with a geographically diverse (including urban, suburban, and rural) representation of—
 
 &emsp;(1) students and parents;
 

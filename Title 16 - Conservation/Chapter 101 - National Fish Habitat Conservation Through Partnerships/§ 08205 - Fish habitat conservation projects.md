@@ -118,13 +118,13 @@ The Board shall select each fish habitat conservation project recommended to the
 
 #### (4) Waiver authority
 
-&emsp;The Secretary, in consultation with the Secretary of Commerce with respect to marine orestuarine projects, may waive the application of paragraph (2)(A) with respect to a State or an Indian Tribe, or otherwise reduce the portion of the non-Federal share of the cost of an activity required to be paid by a State or an Indian Tribe under paragraph (1), if the Secretary determines that the State or Indian Tribe does not have sufficient funds not derived from another Federal grant program to pay such non-Federal share, or portion of the non-Federal share, without the use of loans.
+&emsp;The Secretary, in consultation with the Secretary of Commerce with respect to marine or estuarine projects, may waive the application of paragraph (2)(A) with respect to a State or an Indian Tribe, or otherwise reduce the portion of the non-Federal share of the cost of an activity required to be paid by a State or an Indian Tribe under paragraph (1), if the Secretary determines that the State or Indian Tribe does not have sufficient funds not derived from another Federal grant program to pay such non-Federal share, or portion of the non-Federal share, without the use of loans.
 
 #### (f) Approval
 
 #### (1) In general
 
-&emsp;Not later than 90 days after the date of receipt of the recommended priority list of fish habitat conservation projects under subsection (b), and subject to subsection (d) and based, to the maximum extent practicable, on the criteria described in subsection (c), the Secretary, after consulting with the Secretary of Commerce on marine or estuarine projects, shall approve or reject any fish habitat conservation project recommended by the Board.
+&emsp;Not later than 90 days after the date of receipt of the recommended priority list of fishhabitat conservation projects under subsection (b), and subject to subsection (d) and based, to the maximum extent practicable, on the criteria described in subsection (c), the Secretary, after consulting with the Secretary of Commerce on marine or estuarine projects, shall approve or reject any fish habitat conservation project recommended by the Board.
 
 #### (2) Funding
 

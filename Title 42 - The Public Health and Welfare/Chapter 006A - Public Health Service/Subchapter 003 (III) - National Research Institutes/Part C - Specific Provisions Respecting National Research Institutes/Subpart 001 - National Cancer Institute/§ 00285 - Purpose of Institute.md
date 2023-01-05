@@ -22,7 +22,7 @@ Cancer is a leading cause of death, and cancer incidence is expected to increase
 
 Section 1. <i>White House Cancer Moonshot Task Force</i>. There is established, within the Office of the Vice President, a White House Cancer Moonshot Task Force (Task Force), which will focus on making the most of Federal investments, targeted incentives, private sector efforts from industry and philanthropy, patient engagement initiatives, and other mechanisms to support cancer research and enable progress in treatment and care. The Vice President shall serve as Chair of the Task Force.
 
-(a) Membership of the Task Force. In addition to the Vice President, the Task Force shall consist of the heads of the executive branch departments, agencies, and offices listed below:
+(a) Membership of the Task Force. In addition to the Vice President, the Task Force shall consist of theheads of the executive branch departments, agencies, and offices listed below:
 
 (i) the Department of Defense;
 

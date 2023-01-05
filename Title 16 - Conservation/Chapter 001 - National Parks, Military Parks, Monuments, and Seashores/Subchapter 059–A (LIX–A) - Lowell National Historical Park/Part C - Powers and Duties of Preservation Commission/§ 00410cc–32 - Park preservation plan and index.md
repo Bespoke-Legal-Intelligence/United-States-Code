@@ -12,7 +12,7 @@
 
 (5) Any park preservation plan or draft plan submitted to the Secretary under this subsection shall, upon request, be available to the public.
 
-(6) No changes other than minor revisions may be made in the approved park preservation plan without the approval of the Secretary. The Secretary shall approve or disapprove any proposedchange in the approved park preservation plan, except minor revisions in the same manner as required in paragraph (2) of this subsection for the approval or disapproval of the original park preservation plan.
+(6) No changes other than minor revisions may be made in the approved park preservation plan without the approval of the Secretary. The Secretary shall approve or disapprove any proposed change in the approved park preservation plan, except minor revisions in the same manner as required in paragraph (2) of this subsection for the approval or disapproval of the original park preservation plan.
 
 #### (b) Funding availability and requirements for plan implementation, activities, etc.
 

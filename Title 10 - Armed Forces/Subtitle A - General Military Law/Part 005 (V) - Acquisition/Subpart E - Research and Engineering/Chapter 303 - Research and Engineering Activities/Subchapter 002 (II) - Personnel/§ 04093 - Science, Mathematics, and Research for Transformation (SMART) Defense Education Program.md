@@ -22,7 +22,7 @@ Financial Assistance.—(1) Under the program under this section, the Secretary 
 
 Service Agreement for Recipients of Financial Assistance.—(1) To receive financial assistance under this section—
 
-&emsp;(A) in the case of an employee of the Department of Defense, the employee shall enter intoa written agreement to continue in the employment of the department for the period of obligated service determined under paragraph (2); and
+&emsp;(A) in the case of an employee of the Department of Defense, the employee shall enter into a written agreement to continue in the employment of the department for the period of obligated service determined under paragraph (2); and
 
 &emsp;(B) in the case of a person not an employee of the Department of Defense, the person shall enter into a written agreement to accept and continue employment for the period of obligated service determined under paragraph (2)—
 
@@ -76,6 +76,8 @@ Relationship to Other Programs.—(1) The Secretary of Defense shall coordinate 
 
 (2) The Secretary of Defense shall seek to enter into partnerships with minority institutions of higher education and appropriate public and private sector organizations to diversify the participants in the program under subsection (a).
 
+(3) In coordination with the efforts under paragraph (2), the Secretary of Defense shall additionally establish a program, which shall be known as the "Ronald V. Dellums Memorial Fellowship in STEM", to provide financial assistance under this section to at least 30 students from communities that are underrepresented in the Department of Defense STEM workforce, not fewer of 50 percent of whom shall attend historically Black colleges and universities and minority-serving institutions. As part of such program, the Secretary shall establish an internship program that provides each student who is awarded a fellowship under this paragraph with an internship in an organization or element of the Department of Defense, and to the extent practicable, each such student shall be paired with a mid-level or a senior-level official of the relevant organization or element of the Department of Defense who shall serve as a mentor during the internship.
+
 (g)
 
 Limitation on Participation.—(1) The Secretary may not award scholarships or fellowships under this section to more than five individuals described in paragraph (2) per year.
@@ -92,7 +94,7 @@ Limitation on Participation.—(1) The Secretary may not award scholarships or f
 
 Institution of Higher Education Defined.—In this section, the term "institution of higher education" has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
-(Added Pub. L. 109–163, div. A, title XI, §1104(d)(1), Jan. 6, 2006, 119 Stat. 3449, §2192a; amended Pub. L. 110–417, \[div. A\], title X, §1061(a)(5), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title XI, §1102(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2484, 2485; Pub. L. 113–66, div. A, title XI, §1105(a)(1), Dec. 26, 2013, 127 Stat. 886; Pub. L. 113–291, div. A, title II, §215, Dec. 19, 2014, 128 Stat. 3327; Pub. L. 114–92, div. A, title II, §212, Nov. 25, 2015, 129 Stat. 767; Pub. L. 116–283, div. A, title II, §242, Jan. 1, 2021, 134 Stat. 3488; renumbered §4093, Pub. L. 116–283, div. A, title XVIII, §1843(a), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), Dec. 27, 2021, 135 Stat. 2153.)
+(Added Pub. L. 109–163, div. A, title XI, §1104(d)(1), Jan. 6, 2006, 119 Stat. 3449, §2192a; amended Pub. L. 110–417, \[div. A\], title X, §1061(a)(5), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title XI, §1102(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2484, 2485; Pub. L. 113–66, div. A, title XI, §1105(a)(1), Dec. 26, 2013, 127 Stat. 886; Pub. L. 113–291, div. A, title II, §215, Dec. 19, 2014, 128 Stat. 3327; Pub. L. 114–92, div. A, title II, §212, Nov. 25, 2015, 129 Stat. 767; Pub. L. 116–283, div. A, title II, §242, Jan. 1, 2021, 134 Stat. 3488; renumbered §4093, Pub. L. 116–283, div. A, title XVIII, §1843(a), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(4)(A), Dec. 27, 2021, 135 Stat. 2153; Pub. L. 117–263, div. A, title X, §1083, Dec. 23, 2022, 136 Stat. 2800.)
 
 #### <b>Editorial Notes</b>
 
@@ -101,6 +103,8 @@ Institution of Higher Education Defined.—In this section, the term "institutio
 Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, §1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, §1056(d), title XI, §1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, §1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which was formerly set out as a note under section 2192 of this title, and was repealed by Pub. L. 109–163, div. A, title XI, §1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (f)(3). Pub. L. 117–263 added par. (3).
 
 <b>2021</b>—Pub. L. 116–283, §1843(a), as added by Pub. L. 117–81, §1701(u)(4)(A), renumbered section 2192a of this title as this section.
 

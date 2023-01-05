@@ -30,7 +30,7 @@ The Secretary shall determine the amount of performance pay available under subs
 
 #### (d) Recommendations for meritorious or distinguished service awards
 
-The President may grant awards of performance pay under subsection (b)(3) on the basis of annual recommendations by the Secretary of State of members of the Senior Foreign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
+The President may grant awards of performance pay under subsection (b)(3) on the basis ofannual recommendations by the Secretary of State of members of the Senior Foreign Service who are nominated by their agencies as having performed especially meritorious or distinguished service. Such service in the promotion of internationally recognized human rights, including the right to freedom of religion, shall serve as a basis for granting awards under this section. Recommendations by the Secretary of State under this subsection shall be made on the basis of recommendations by special interagency selection boards established by the Secretary of State for the purpose of reviewing and evaluating the nominations of agencies.
 
 #### (e) Recognition in lieu of award
 
@@ -94,7 +94,7 @@ Suspension of awards during review.—During the period beginning on the date of
 
 Review by inspector general.—The Inspector General of the Department of State shall conduct a complete and thorough review of—
 
-&emsp;"(A) the procedures in the Department of State under which performance pay recipients are chosen to determine whether the procedures and award determinations are free from bias and reflect fair standards; and
+&emsp;"(A) the procedures in the Department of State under which performance pay recipients are chosen todetermine whether the procedures and award determinations are free from bias and reflect fair standards; and
 
 &emsp;"(B) the adequacy of the criteria and the equity of the criteria actually applied in making those awards.
 

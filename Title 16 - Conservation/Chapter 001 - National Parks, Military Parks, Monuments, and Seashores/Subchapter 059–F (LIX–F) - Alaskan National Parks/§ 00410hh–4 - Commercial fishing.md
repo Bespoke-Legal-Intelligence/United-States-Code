@@ -104,7 +104,7 @@ General.—
 
 The Beardslee Islands and Upper Dundas Bay.—Commercial fishing is prohibited in the designated wilderness waters within Glacier Bay National Park and Preserve, including the waters of the Beardslee Islands and Upper Dundas Bay. Any individual who—
 
-&emsp;"(1) on or before August 1, 1999, provides a sworn and notarized affidavit and other available corroborating documentation to the Secretary of the Interior sufficient to establish that he or she has engaged in commercial fishing for Dungeness crab in the designated wilderness waters of the Beardslee Islands or Dundas Bay within Glacier Bay National Park pursuant to a valid commercial fishing permit in at least six of the years during the period 1987 through 1998;
+&emsp;"(1) on or before August 1, 1999, provides a sworn and notarized affidavit and other available corroborating documentation to the Secretary of the Interior sufficient to establish that he or she has engaged incommercial fishing for Dungeness crab in the designated wilderness waters of the Beardslee Islands or Dundas Bay within Glacier Bay National Park pursuant to a valid commercial fishing permit in at least six of the years during the period 1987 through 1998;
 
 &emsp;"(2) at the time of receiving compensation based on the Secretary of the Interior's determination as described below—
 

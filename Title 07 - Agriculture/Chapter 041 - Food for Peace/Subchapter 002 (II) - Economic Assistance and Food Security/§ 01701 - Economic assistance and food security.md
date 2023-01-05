@@ -6,7 +6,7 @@ The President shall establish a program under this subchapter to provide for the
 
 #### (b) General authority
 
-To carry out the policies and accomplish the objectives described in section 1691 of this title, the Secretary may negotiate and execute agreements with developing countries and private entities to finance the sale and exportation of agricultural commodities to such countries and entities.
+To carry out the policies and accomplish the objectives described in section 1691 of this title,the Secretary may negotiate and execute agreements with developing countries and private entities to finance the sale and exportation of agricultural commodities to such countries and entities.
 
 (July 10, 1954, ch. 469, title I, §101, 68 Stat. 455; Pub. L. 85–931, §1, Sept. 6, 1958, 72 Stat. 1790; Pub. L. 87–128, title II, §201(1), Aug. 8, 1961, 75 Stat. 306; Pub. L. 88–205, pt. IV, §403(a), Dec. 16, 1963, 77 Stat. 390; Pub. L. 88–638, §1(1), (2), Oct. 8, 1964, 78 Stat. 1035; Pub. L. 89–808, §2(B), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 97–113, title IV, §401(1), Dec. 29, 1981, 95 Stat. 1537; Pub. L. 99–198, title XI, §1111(c), Dec. 23, 1985, 99 Stat. 1474; Pub. L. 100–202, §8, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3633; Pub. L. 104–127, title II, §202, Apr. 4, 1996, 110 Stat. 951; Pub. L. 110–246, title III, §3004(b), June 18, 2008, 122 Stat. 1822.)
 

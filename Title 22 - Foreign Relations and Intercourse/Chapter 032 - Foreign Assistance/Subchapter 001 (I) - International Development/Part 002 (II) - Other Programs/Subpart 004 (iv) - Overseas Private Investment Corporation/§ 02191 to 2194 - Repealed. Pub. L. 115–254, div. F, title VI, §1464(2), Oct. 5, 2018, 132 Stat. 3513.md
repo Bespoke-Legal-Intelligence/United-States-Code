@@ -30,7 +30,7 @@ Repeal effective at the end of the transition period, as defined in section 9681
 
 #### Appropriation of Moneys in Advance as Requisite to Purchases, Investments, or Other Acquisitions of Equity by Fund Created Under Pilot Equity Finance Program
 
-Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36, provided in part: "That purchases, investments or other acquisitions of equity by the fund created by section 104 of H.R. 5263 as hereby enacted \[former 22 U.S.C. 2194(g)(5)\] are limited to such amounts as may be provided in advance in appropriations Acts", and further provided "That purchases, investments or other acquisitions of equity by the fund created by section 104 of S. 2757 as hereby enacted \[former 22 U.S.C. 2194(g)(5)\] are limited to such amounts as may be provided in advance in appropriations Acts".
+Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36, provided in part: "That purchases, investments or other acquisitions of equity by the fund created bysection 104 of H.R. 5263 as hereby enacted \[former 22 U.S.C. 2194(g)(5)\] are limited to such amounts as may be provided in advance in appropriations Acts", and further provided "That purchases, investments or other acquisitions of equity by the fund created by section 104 of S. 2757 as hereby enacted \[former 22 U.S.C. 2194(g)(5)\] are limited to such amounts as may be provided in advance in appropriations Acts".
 
 #### Overseas Private Investment Corporation; Reaffirmation of Support
 

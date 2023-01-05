@@ -50,7 +50,7 @@ In this chapter:
 
 #### (10) State
 
-&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, except as otherwise provided, Guam, American Samoa, theUnited States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, except as otherwise provided, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
 #### (11) State Domestic Violence Coalition
 

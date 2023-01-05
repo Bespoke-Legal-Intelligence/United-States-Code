@@ -48,7 +48,7 @@ In this section, the terms "appropriate congressional committees", "non-state ac
 
 #### References in Text
 
-The International Religious Freedom Act of 1998, referred to in subsecs. (a)(2) and (f), is Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
+The International Religious Freedom Act of 1998, referred to in subsecs. (a)(2) and (f), is Pub. L. 105–292,Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 
 Section 3 of this Act, referred to in subsec. (g), means section 3 of Pub. L. 114–281, which amended section 6402 of this title.
 

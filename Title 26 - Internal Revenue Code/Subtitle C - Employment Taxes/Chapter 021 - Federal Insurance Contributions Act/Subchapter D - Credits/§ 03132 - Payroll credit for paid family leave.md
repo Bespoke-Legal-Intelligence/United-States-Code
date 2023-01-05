@@ -206,7 +206,7 @@ The Emergency Family and Medical Leave Expansion Act and such Act, referred to i
 
 The Family and Medical Leave Act of 1993 and such Act, referred to in subsec. (c)(2), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted chapter 28 (§2601 et seq.) of Title 29, Labor, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amended section 2105 of Title 5, and enacted provisions set out as notes under section 2601 of Title 29. Sections 102, 105, and 110 of the Act are classified to sections 2612, 2615, and 2620, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 29 and Tables.
 
-Section 5102(a) of the Families First Coronavirus Response Act, referred to in subsec. (c)(2)(A)(i), is section 5102(a) of Pub. L. 116–127, which is set out in a note under section 2601 of Title 29, Labor.
+Section 5102(a) of the Families First Coronavirus Response Act, referred to in subsec. (c)(2)(A)(i), is section5102(a) of Pub. L. 116–127, which is set out in a note under section 2601 of Title 29, Labor.
 
 Section 2301 of the CARES Act, referred to in subsec. (f)(3), is section 2301 of title II of div. A of Pub. L. 116–136, which is set out as a note under section 3111 of this title.
 

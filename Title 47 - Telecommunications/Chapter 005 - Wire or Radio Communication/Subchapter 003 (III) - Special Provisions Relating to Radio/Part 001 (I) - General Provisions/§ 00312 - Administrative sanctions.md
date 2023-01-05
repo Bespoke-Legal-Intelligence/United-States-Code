@@ -16,7 +16,7 @@ The Commission may revoke any station license or construction permit—
 
 &emsp;(6) for violation of section 1304, 1343, or 1464 of title 18; or
 
-&emsp;(7) for willful or repeated failure to allow reasonable access to or to permit purchase of reasonable amounts of time for the use of a broadcasting station, other than a non-commercial educational broadcast station, by a legally qualified candidate for Federal elective office on behalf of his candidacy.
+&emsp;(7) for willful or repeated failure to allow reasonable access to or to permit purchase ofreasonable amounts of time for the use of a broadcasting station, other than a non-commercial educational broadcast station, by a legally qualified candidate for Federal elective office on behalf of his candidacy.
 
 #### (b) Cease and desist orders
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established for the House of Representatives a single allowance, to be known as the "Members' Representational Allowance", which shall be available to support the conduct of the official and representational duties of a Member or Member-elect of the House of Representatives with respect to the district from which the Member or Member-elect is elected.
+There is established for the House of Representatives a single allowance, to be known asthe "Members' Representational Allowance", which shall be available to support the conduct of the official and representational duties of a Member or Member-elect of the House of Representatives with respect to the district from which the Member or Member-elect is elected.
 
 #### (b) Merger
 
@@ -14,7 +14,7 @@ As used in this section, the term "Member of the House of Representatives" means
 
 #### (d) Regulations
 
-The Committee on House Oversight of the House of Representatives shall have authorityto prescribe regulations to carry out this section, including regulations establishing under subsection (a) the official and representational duties during a Congress of a Member-elect of the House of Representatives who is not an incumbent Member re-elected to the ensuing Congress.
+The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this section, including regulations establishing under subsection (a) the official and representational duties during a Congress of a Member-elect of the House of Representatives who is not an incumbent Member re-elected to the ensuing Congress.
 
 #### (e) Effective date
 

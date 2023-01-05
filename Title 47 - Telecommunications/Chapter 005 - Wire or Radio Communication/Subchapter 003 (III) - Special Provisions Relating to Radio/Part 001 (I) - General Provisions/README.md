@@ -54,4 +54,5 @@ Part I—General Provisions
 - [&sect; 00341 - Carriage of television signals to certain subscribers](%C2%A7%2000341%20-%20Carriage%20of%20television%20signals%20to%20certain%20subscribers.md)
 - [&sect; 00342 - Process for issuing qualified carrier certification](%C2%A7%2000342%20-%20Process%20for%20issuing%20qualified%20carrier%20certification.md)
 - [&sect; 00343 - Conditions on commercial terrestrial operations](%C2%A7%2000343%20-%20Conditions%20on%20commercial%20terrestrial%20operations.md)
-- [&sect; 00344 - Telecommunications interagency working group](%C2%A7%2000344%20-%20Telecommunications%20interagency%20working%20group.md)
+- [&sect; 00344 - Repealed. Pub. L. 117&#8211;58, div. F, title VI, &sect;60602(b), Nov. 15, 2021, 135 Stat. 1249](%C2%A7%2000344%20-%20Repealed.%20Pub.%20L.%20117%E2%80%9358%2C%20div.%20F%2C%20title%20VI%2C%20%C2%A760602%28b%29%2C%20Nov.%2015%2C%202021%2C%20135%20Stat.%201249.md)
+- [&sect; 00345 - Protection of survivors of domestic violence, human trafficking, and related crimes](%C2%A7%2000345%20-%20Protection%20of%20survivors%20of%20domestic%20violence%2C%20human%20trafficking%2C%20and%20related%20crimes.md)

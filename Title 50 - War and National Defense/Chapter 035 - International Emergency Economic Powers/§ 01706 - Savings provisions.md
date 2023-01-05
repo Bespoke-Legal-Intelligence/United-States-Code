@@ -26,7 +26,7 @@ If the President uses the authority of this section to continue prohibitions on 
 
 #### References in Text
 
-The National Emergencies Act, referred to in subsecs. (a)(1) and (c)(2), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of this title. Title II of the National Emergencies Act is classified generally to subchapter II (§1621 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+The National Emergencies Act, referred to in subsecs. (a)(1) and (c)(2), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of this title. Title II of the National Emergencies Act is classified generally to subchapter II (§1621 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 Section 101(b) of this Act, referred to in subsec. (a)(2), is section 101(b) of Pub. L. 95–223, which is set out as a note under section 4305 of this title.
 
@@ -34,5 +34,5 @@ Section 101(b) of this Act, referred to in subsec. (a)(2), is section 101(b) of 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (d) of this section is listed as the 11th item on page 27), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (d) of this section is listed as the 11th item on page 27), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

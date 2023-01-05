@@ -58,7 +58,7 @@ This section shall not apply to any tax with respect to which the regulated inve
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–325, §301(c)(1)(B), substituted "Statements" for "Notice" in heading.
 
-Pub. L. 111–325, §301(c)(1)(A), which directed amendment by substituting "so reported by the company in a written statement furnished to such shareholder" for "so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of the taxable year", was executed by making the substitution for "so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year" in concluding provisions to reflect the probable intent of Congress.
+Pub. L. 111–325, §301(c)(1)(A), which directed amendment by substituting "so reported by the company in a written statement furnished to such shareholder" for"so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of the taxable year", was executed by making the substitution for "so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year" in concluding provisions to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 111–325, §301(c)(2), struck out "and notifying shareholders" after "election" in heading and "and the notice to shareholders required by subsection (c)" after "subsection (a)" in text.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

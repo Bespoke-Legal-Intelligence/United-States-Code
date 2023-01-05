@@ -98,7 +98,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (A) In general
 
-&emsp;&emsp;The rate of assessment prescribed in the order shall be a rate established by the Board but not more than $.08 per hundredweight of popcorn.
+&emsp;&emsp;The rate of assessment prescribed in the order shall be a rate established by theBoard but not more than $.08 per hundredweight of popcorn.
 
 #### (B) Adjustment of rate
 

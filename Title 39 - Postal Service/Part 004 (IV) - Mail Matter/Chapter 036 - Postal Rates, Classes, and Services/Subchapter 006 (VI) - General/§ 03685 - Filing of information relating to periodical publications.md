@@ -16,7 +16,7 @@
 
 (b) Each publication having such mail privileges shall furnish to the Postal Service information in such form and detail, and at such times, as the Postal Service requires to determine whether the publication continues to qualify for such privileges.
 
-(c) The Postal Service shall make appropriate rules and regulations to carry out the purposes of this section, including provision for suspension or revocation of periodical publication mail privileges for failure to furnish the required information.
+(c) The Postal Service shall make appropriate rules and regulations to carry out the purposes of this section, including provision for suspension or revocation of periodical publication mailprivileges for failure to furnish the required information.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 765.)
 

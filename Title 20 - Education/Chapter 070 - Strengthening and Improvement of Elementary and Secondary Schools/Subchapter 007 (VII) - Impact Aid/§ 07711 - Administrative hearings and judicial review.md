@@ -16,7 +16,7 @@ A local educational agency and a State that is adversely affected by any action 
 
 #### (3) Review
 
-&emsp;The court shall have exclusive jurisdiction to affirm the action of the Secretary or to setit aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
+&emsp;The court shall have exclusive jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 
 (Pub. L. 89–10, title VII, §7011, formerly title VIII, §8011, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3768; amended Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1814(a)(1), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–387; renumbered title VII, §7011, and amended Pub. L. 114–95, title VII, §§7001(c)(2), 7011, Dec. 10, 2015, 129 Stat. 2074, 2087.)
 

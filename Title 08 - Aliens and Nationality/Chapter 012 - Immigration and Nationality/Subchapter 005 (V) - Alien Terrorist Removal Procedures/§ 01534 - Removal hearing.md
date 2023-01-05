@@ -56,7 +56,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 #### (4) Witness fees
 
-&emsp;A witness subpoenaed under this subsection shall receive the same fees and expenses as a witness subpoenaed in connection with a civil proceeding in a court of the United States.
+&emsp;A witness subpoenaed under this subsection shall receive the same fees and expenses as awitness subpoenaed in connection with a civil proceeding in a court of the United States.
 
 #### (5) No access to classified information
 
@@ -68,7 +68,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 &emsp;For purposes of this subchapter—
 
-&emsp;&emsp;(A) the Government is authorized to use in a removal proceedings <sup>1</sup> the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106of that Act \[50 U.S.C. 1806(c), (e), (f), (g), (h)\] and discovery of information derived pursuant to such Act, or otherwise collected for national security purposes, shall not be authorized if disclosure would present a risk to the national security of the United States;
+&emsp;&emsp;(A) the Government is authorized to use in a removal proceedings <sup>1</sup> the fruits of electronic surveillance and unconsented physical searches authorized under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) without regard to subsections (c), (e), (f), (g), and (h) of section 106 of that Act \[50 U.S.C. 1806(c), (e), (f), (g), (h)\] and discovery of information derived pursuant to such Act, or otherwise collected for national security purposes, shall not be authorized if disclosure would present a risk to the national security of the United States;
 
 &emsp;&emsp;(B) an alien subject to removal under this subchapter shall not be entitled to suppress evidence that the alien alleges was unlawfully obtained; and
 
@@ -138,7 +138,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 #### (f) Arguments
 
-Following the receipt of evidence, the Government and the alien shall be given fair opportunity to present argument as to whether the evidence is sufficient to justify the removal of the alien. The Government shall open the argument. The alien shall be permitted to reply. The Government shall then be permitted to reply inrebuttal. The judge may allow any part of the argument that refers to evidence received in camera and ex parte to be heard in camera and ex parte.
+Following the receipt of evidence, the Government and the alien shall be given fair opportunity to present argument as to whether the evidence is sufficient to justify the removal of the alien. The Government shall open the argument. The alien shall be permitted to reply. The Government shall then be permitted to reply in rebuttal. The judge may allow any part of the argument that refers to evidence received in camera and ex parte to be heard in camera and ex parte.
 
 #### (g) Burden of proof
 
@@ -182,7 +182,7 @@ Not later than 3 months from December 28, 2001, the Attorney General shall submi
 
 #### References in Text
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(1)(A), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(1)(A), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -206,7 +206,7 @@ Subsec. (e)(3)(D)(iii). Pub. L. 104–208, §354(a)(1)(B), added cl. (iii).
 
 Subsec. (e)(3)(E), (F). Pub. L. 104–208, §354(a)(2), added subpars. (E) and (F).
 
-Subsec. (f). Pub. L. 104–208, §354(b)(2), inserted at end "The judge may allow any part of the argument that refers to evidence received in camera and ex parte to be heard in camera and ex parte."
+Subsec. (f). Pub. L. 104–208, §354(b)(2), inserted at end "The judge may allow any part of the argument thatrefers to evidence received in camera and ex parte to be heard in camera and ex parte."
 
 Subsec. (j). Pub. L. 104–208, §354(b)(3), inserted at end "Any portion of the order that would reveal the substance or source of information received in camera and ex parte pursuant to subsection (e) shall not be made available to the alien or the public."
 
@@ -220,7 +220,7 @@ Subsec. (k)(4) to (6). Pub. L. 104–208, §357, added par. (4) and redesignated
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(g)(7)(B), (8)(B) of Pub. L. 104–208 effective, with certain transitional provisions,on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(g)(7)(B), (8)(B) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Amendment by sections 354(a)(1), (2), (b), and 357 of Pub. L. 104–208 effective as if included in the enactment of subtitle A of title IV of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132, see section 358 of Pub. L. 104–208, set out as a note under section 1182 of this title.
 

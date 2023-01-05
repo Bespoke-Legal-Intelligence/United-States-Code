@@ -34,7 +34,7 @@ To assist targeted assistance schools and local educational agencies to meet the
 
 &emsp;&emsp;&emsp;(ii) minimize the removal of children from the regular classroom during regular school hours for instruction provided under this part; and
 
-&emsp;&emsp;&emsp;(iii) on an ongoing basis, review the progress of eligible children and revise thetargeted assistance program under this section, if necessary, to provide additional assistance to enable such children to meet the challenging State academic standards.
+&emsp;&emsp;&emsp;(iii) on an ongoing basis, review the progress of eligible children and revise the targeted assistance program under this section, if necessary, to provide additional assistance to enable such children to meet the challenging State academic standards.
 
 #### (c) Eligible children
 
@@ -138,7 +138,7 @@ A prior section 6315, Pub. L. 89–10, title I, §1115, as added Pub. L. 103–3
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–95, §1009(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "In all schools selected to receive funds under section 6313(c) of this title that are ineligible for a schoolwide program under section 6314 of this title, or that choose not to operate such a schoolwide program, a local educational agency serving such school may use funds received under this part only for programs that provide services to eligible children under subsection (b) of this section identified as having the greatest need for special assistance."
 
-Subsec. (b). Pub. L. 114–95, §1009(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, subsec. (b) consisted of pars. (1) and (2) relating to general components of a targeted assistance school program and coordination of resources and review and revision of program.
+Subsec. (b). Pub. L. 114–95, §1009(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment,subsec. (b) consisted of pars. (1) and (2) relating to general components of a targeted assistance school program and coordination of resources and review and revision of program.
 
 Pub. L. 114–95, §1009(2), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (c).
 

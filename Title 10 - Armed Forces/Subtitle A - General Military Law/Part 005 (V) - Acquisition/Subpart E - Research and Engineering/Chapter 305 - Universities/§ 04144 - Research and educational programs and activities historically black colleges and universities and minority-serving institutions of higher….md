@@ -22,7 +22,7 @@ Program Objective.—The objective of the program established by subsection (a)(
 
 Assistance Provided.—Under the program established by subsection (a)(1), the Secretary of Defense may provide covered educational institutions with funding or technical assistance, including any of the following:
 
-&emsp;(1) Support for research, development, testing, evaluation, or educational enhancements in areas important to national defense through the competitive awarding of grants, cooperative agreements, contracts, scholarships, fellowships, or the acquisition of research equipment or instrumentation.
+&emsp;(1) Support for research, development, testing, evaluation, or educational enhancements in areas important to national defense through the competitive awarding of grants,cooperative agreements, contracts, scholarships, fellowships, or the acquisition of research equipment or instrumentation.
 
 &emsp;(2) Support to assist in the attraction and retention of faculty in scientific disciplines important to the national security functions of the Department of Defense.
 
@@ -52,7 +52,7 @@ Definition of Covered Educational Institution.—In this section the term "cover
 
 &emsp;(2) an accredited postsecondary minority institution.
 
-(Added Pub. L. 111–84, div. A, title II, §252(a), Oct. 28, 2009, 123 Stat. 2242, §2362; amended Pub. L. 111–383, div. A, title X, §1075(b)(32), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title II, §219, Dec. 31, 2011, 125 Stat. 1335; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 115–232, div. A, title II, §245, Aug. 13, 2018, 132 Stat. 1700; Pub. L. 116–92, div.A, title II, §214, Dec. 20, 2019, 133 Stat. 1257; renumbered §4144, Pub. L. 116–283, div. A, title XVIII, §1844(b), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154; Pub. L. 116–283, div. A, title XVIII, §1838(b), Jan. 1, 2021, 134 Stat. 4242; Pub. L. 117–81, div. A, title II, §220(c), title XVII, §1701(v)(2)(A), Dec. 27, 2021, 135 Stat. 1599, 2154.)
+(Added Pub. L. 111–84, div. A, title II, §252(a), Oct. 28, 2009, 123 Stat. 2242, §2362; amended Pub. L. 111–383, div. A, title X, §1075(b)(32), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title II, §219, Dec. 31, 2011, 125 Stat. 1335; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(i), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 115–232, div. A, title II, §245, Aug. 13, 2018, 132 Stat. 1700; Pub. L. 116–92, div. A, title II, §214, Dec. 20, 2019, 133 Stat. 1257; renumbered §4144, Pub. L. 116–283, div. A, title XVIII, §1844(b), as added Pub. L. 117–81, div. A, title XVII, §1701(u)(5)(B), Dec. 27, 2021, 135 Stat. 2154; Pub. L. 116–283, div. A, title XVIII, §1838(b), Jan. 1, 2021, 134 Stat. 4242; Pub. L. 117–81, div. A, title II, §220(c), title XVII, §1701(v)(2)(A), Dec. 27, 2021, 135 Stat. 1599, 2154.)
 
 #### <b>Editorial Notes</b>
 
@@ -91,6 +91,206 @@ Subsec. (e)(1). Pub. L. 111–383 substituted "title III or V" for "title III or
 Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Outreach to Historically Black Colleges and Universities and Other Minority-Serving Institutions Regarding National Security Innovation Network Programs That Promote Entrepreneurship and Innovation at Institutions of Higher Education
+
+Pub. L. 117–263, div. A, title II, §222, Dec. 23, 2022, 136 Stat. 2479, provided that:
+
+"(a)
+
+Pilot Program.—The Under Secretary of Defense for Research and Engineering, acting through the National Security Innovation Network, may carry out a pilot program under which the Under Secretary conducts activities, including outreach and technical assistance, to better connect historically Black colleges and universities and other minority-serving institutions to the commercialization, innovation, and entrepreneurial activities of the Department of Defense.
+
+"(b)
+
+Briefing.—Not later than one year after commencing a pilot program under subsection (a), theUnder Secretary of Defense for Research and Engineering shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the program, including—
+
+&emsp;"(1) an explanation of—
+
+&emsp;&emsp;"(A) the results of any outreach efforts conducted under the pilot program;
+
+&emsp;&emsp;"(B) the success of the pilot program in expanding National Security Innovation Network programs to historically Black colleges and universities and other minority-serving institutions; and
+
+&emsp;&emsp;"(C) any potential barriers to the expansion of the pilot program; and
+
+&emsp;"(2) recommendations for how the Department of Defense can support historically Black colleges and universities and other minority-serving institutions to enable such institutions to successfully participate in Department of Defense commercialization, innovation, and entrepreneurship programs.
+
+"(c)
+
+Termination.—The authority to carry out the pilot program under subsection (a) shall terminate on the date that is five years after the date of the enactment of this Act \[Dec. 23, 2022\].
+
+"(d)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'historically Black college or university' means a part B institution (as defined in section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061)).
+
+&emsp;"(2) The term 'other minority-serving institution' means an institution of higher education specified in paragraphs (2) through (7) of section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a))."
+
+#### Report and Pilot Program Based on Recommendations Regarding Defense Research Capacity at Historically Black Colleges and Universities and Other Minority-Serving Institutions
+
+Pub. L. 117–263, div. A, title II, §223, Dec. 23, 2022, 136 Stat. 2480, provided that:
+
+"(a)
+
+Report Required.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the recommendations set forth in the publication of the National Academies of Sciences, Engineering, and Medicine titled 'Defense Research Capacity at Historically Black Colleges and Universities and Other Minority Institutions: Transitioning from Good Intentions to Measurable Outcomes' and dated April 28, 2022.
+
+&emsp;"(2)
+
+Contents.—The report required under paragraph (1) shall include the following:
+
+&emsp;&emsp;"(A) With respect to the recommendations and subrecommendations set forth in the publication described in paragraph (1)—
+
+&emsp;&emsp;&emsp;"(i) a description of each recommendation and subrecommendation the Secretary has implemented as of the date of the report;
+
+&emsp;&emsp;&emsp;"(ii) a description of each recommendation and subrecommendation the Secretary has commenced implementing as of the date of the report, including a justification for determining to commence implementing the recommendation; and
+
+&emsp;&emsp;&emsp;"(iii) a description of each recommendation and subrecommendation the Secretary has not implemented or commenced implementing as of the date of the report and a determination as to whether or not to implement the recommendation.
+
+&emsp;&emsp;"(B) For each recommendation or subrecommendation the Secretary determines to implement under subparagraph (A)(iii)—
+
+&emsp;&emsp;&emsp;"(i) a timeline for implementation;
+
+&emsp;&emsp;&emsp;"(ii) a description of any additional resources or authorities required for implementation; and
+
+&emsp;&emsp;&emsp;"(iii) the plan for implementation.
+
+&emsp;&emsp;"(C) For each recommendation or subrecommendation the Secretary determines not to implement under subparagraph (A)(iii), a justification for the determination not to implement the recommendation.
+
+&emsp;"(3)
+
+Format.—The report required under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+"(b)
+
+Program to Implement Report Recommendations and Subrecommendations.—
+
+&emsp;"(1)
+
+Program required.—The Secretary of Defense shall establish and carry out a program (referred to in this subsection as the 'Program') under which the Secretary carries out activities to increase the capacity of eligible institutions to achieve very high research activity status.
+
+&emsp;"(2)
+
+Considerations.—In establishing the Program the Secretary shall consider—
+
+&emsp;&emsp;"(A) the recommendations and subrecommendations to be implemented under subsection (a);
+
+&emsp;&emsp;"(B) the extent of nascent research capabilities and planned research capabilities at eligible institutions and the relevance of those capabilities to research areas of interest to the Department of Defense;
+
+&emsp;&emsp;"(C) recommendations from previous studies for increasing the level of research activity at eligible institutions to very high research activity status, including measurable milestones such as growth in very high research activity status indicators and other relevant factors;
+
+&emsp;&emsp;"(D) how institutions participating in the Program will evaluate and assess progress toward achieving very high research activity status;
+
+&emsp;&emsp;"(E) how such institutions will sustain an increased level of research activity after the Program terminates; and
+
+&emsp;&emsp;"(F) reporting requirements for institutions participating in the Program.
+
+&emsp;"(3)
+
+Consultation.—In designing the Program, the Secretary may consult with the President's Board of Advisors on historically Black colleges and universities.
+
+&emsp;"(4)
+
+Program activities.—
+
+&emsp;&emsp;"(A)
+
+Activities.—Under the Program, the Secretary shall carry out activities to build the capacity of eligible institutions to achieve very high research activity status, which may include—
+
+&emsp;&emsp;&emsp;"(i) activities to support—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) faculty professional development;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) stipends for undergraduate and graduate students and post-doctoral scholars;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) recruitment and retention of faculty and graduate students;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) the provision of laboratory equipment and instrumentation;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) communication and dissemination of research products produced during the Program;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI) construction, modernization, rehabilitation, or retrofitting of facilities for research purposes; and
+
+&emsp;&emsp;&emsp;"(ii) such other activities as the Secretary determines appropriate.
+
+&emsp;&emsp;"(B)
+
+Identification of priority areas.—The Secretary shall establish and update, on an annual basis, a list of research priorities for STEM and critical technologies appropriate for the Program to assist eligible institutions in identifying appropriate areas for research and related activities.
+
+&emsp;"(5)
+
+Termination.—The Program shall terminate 10 years after the date on which the Secretary commences the Program.
+
+&emsp;"(6)
+
+Evaluation.—Not later than two years after the date of the enactment of this Act and every two years thereafter until the date on which the Program terminates under paragraph (5), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report providing an update on the Program, including—
+
+&emsp;&emsp;"(A) a description of the activities carried out under the Program;
+
+&emsp;&emsp;"(B) an analysis of any growth in very high research activity status indicators of eligible institutions that participated in the Program; and
+
+&emsp;&emsp;"(C) emerging research areas of interest to the Department of Defense that are being pursued by such institutions.
+
+&emsp;"(7)
+
+Report to congress.—Not later than 180 days after the date on which the program terminates under paragraph (5), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the Program that includes the following:
+
+&emsp;&emsp;"(A) An analysis of the growth in very high research activity status indicators of eligible institutions that participated in the Program.
+
+&emsp;&emsp;"(B) An evaluation on the effectiveness of the Program in increasing the research capacity of such institutions.
+
+&emsp;&emsp;"(C) An explanation of how institutions that achieved very high research activity status plan to sustain that status after the termination of the Program.
+
+&emsp;&emsp;"(D) An evaluation of the maintenance of very high research status by eligible institutions that participated in the Program.
+
+&emsp;&emsp;"(E) An evaluation of the effectiveness of the Program in increasing the diversity of students conducting high quality research in unique areas.
+
+&emsp;&emsp;"(F) Recommendations with respect to further activities and investments necessary to elevate the research status of historically Black colleges and universities and other minority-serving institutions.
+
+&emsp;&emsp;"(G) Recommendations as to whether the Program should be renewed or expanded.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'eligible institution' means a historically Black college or university or other minority-serving institution that is classified as a high research activity status institution at the time of participation in the program under subsection (b).
+
+&emsp;"(2) The term 'high research activity status' means R2 status, as classified by the Carnegie Classification of Institutions of Higher Education.
+
+&emsp;"(3) The term 'historically Black college or university' has the meaning given the term 'part B institution' under section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061).
+
+&emsp;"(4) The term 'other minority-serving institution' means an institution of higher education specified in paragraphs (2) through (7) of section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a)).
+
+&emsp;"(5) The term 'Secretary' means the Secretary of Defense.
+
+&emsp;"(6) The term 'very high research activity status' means R1 status, as classified by the Carnegie Classification of Institutions of Higher Education.
+
+&emsp;"(7) The term 'very high research activity status indicators' means the categories used by the Carnegie Classification of Institutions of Higher Education to delineate which institutions have very high activity status, including—
+
+&emsp;&emsp;"(A) annual expenditures in science and engineering;
+
+&emsp;&emsp;"(B) per-capita (faculty member) expenditures in science and engineering;
+
+&emsp;&emsp;"(C) annual expenditures in non-science and engineering fields;
+
+&emsp;&emsp;"(D) per-capita (faculty member) expenditures in non-science and engineering fields;
+
+&emsp;&emsp;"(E) doctorates awarded in science, technology, engineering, and mathematics fields;
+
+&emsp;&emsp;"(F) doctorates awarded in social science fields;
+
+&emsp;&emsp;"(G) doctorates awarded in the humanities;
+
+&emsp;&emsp;"(H) doctorates awarded in other fields with a research emphasis;
+
+&emsp;&emsp;"(I) total number of research staff including postdoctoral researchers;
+
+&emsp;&emsp;"(J) other doctorate-holding non-faculty researchers in science and engineering and per-capita (faculty) number of doctorate-level research staff including post-doctoral researchers; and
+
+&emsp;&emsp;"(K) other categories utilized to determine classification."
 
 #### Defense Research and Engineering Activities at Minority Institutions
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) any application for a subsequent award or allocation of such assistance by such State, unit of general local government or other recipient.
 
-&emsp;(C) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph (B) is readily available for public inspection for a period of not less than 10 years, beginning not less than 30 days following the date on which the award or allocation is made.
+&emsp;(C) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph\(B) is readily available for public inspection for a period of not less than 10 years, beginning not less than 30 days following the date on which the award or allocation is made.
 
 #### (5) Emergency exception
 
@@ -48,7 +48,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (c) Updating of disclosure
 
-During the period when an application is pending or assistance is being provided, the applicantshall update the disclosure required under the previous subsection within 30 days of any substantial change.
+During the period when an application is pending or assistance is being provided, the applicant shall update the disclosure required under the previous subsection within 30 days of any substantial change.
 
 #### (d) Repealed. Pub. L. 104–65, §11(b)(2), Dec. 19, 1995, 109 Stat. 701
 

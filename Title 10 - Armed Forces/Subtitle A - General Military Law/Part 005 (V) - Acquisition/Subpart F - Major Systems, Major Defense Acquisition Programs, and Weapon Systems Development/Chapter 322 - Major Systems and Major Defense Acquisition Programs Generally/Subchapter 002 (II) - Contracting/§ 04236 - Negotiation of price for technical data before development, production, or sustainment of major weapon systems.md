@@ -12,7 +12,7 @@ The Secretary of Defense shall ensure, to the maximum extent practicable, that t
 
 <b>2018</b>—Pub. L. 115–232, §867(4), substituted ", production, or sustainment" for "or production" in section catchline.
 
-Pub. L. 115–232, §867(1)–(3), inserted ", to the maximum extent practicable," after "shall ensure" and substituted "production of a major weapon system, orsustainment of a major weapon system" for "or for the production of a major weapon system" and ", production, or sustainment" for "or production".
+Pub. L. 115–232, §867(1)–(3), inserted ", to the maximum extent practicable," after "shall ensure" and substituted "production of a major weapon system, or sustainment of a major weapon system" for "or for the production of a major weapon system" and ", production, or sustainment" for "or production".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

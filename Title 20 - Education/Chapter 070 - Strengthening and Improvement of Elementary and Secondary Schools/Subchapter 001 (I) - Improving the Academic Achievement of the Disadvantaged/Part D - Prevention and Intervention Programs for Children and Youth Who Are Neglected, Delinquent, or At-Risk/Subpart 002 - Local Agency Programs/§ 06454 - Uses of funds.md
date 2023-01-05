@@ -20,7 +20,7 @@ Funds provided to local educational agencies under this subpart may be used, as 
 
 #### (b) Contracts and grants
 
-A local educational agency may use a subgrant received under this subpart to carryout the activities described under paragraphs (1) through (7) of subsection (a) directly or through subgrants, contracts, or cooperative agreements.
+A local educational agency may use a subgrant received under this subpart to carry out the activities described under paragraphs (1) through (7) of subsection (a) directly or through subgrants, contracts, or cooperative agreements.
 
 (Pub. L. 89–10, title I, §1424, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1589; amended Pub. L. 114–95, title I, §1401(11), Dec. 10, 2015, 129 Stat. 1904.)
 

@@ -24,17 +24,17 @@ Prohibition of Reprisals.—(1) An employee of a contractor, subcontractor, gran
 
 &emsp;(F) A court or grand jury.
 
-&emsp;(G) A management official or other employee of the contractor or subcontractor who has the responsibility to investigate, discover, or address misconduct.
+&emsp;(G) A management official or other employee of the contractor, subcontractor, grantee, subgrantee, or personal services contractor who has the responsibility to investigate, discover, or address misconduct.
 
 (3) For the purposes of paragraph (1)—
 
-&emsp;(A) an employee who initiates or provides evidence of contractor or subcontractor misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Department of Defense or National Aeronautics and Space Administration contract or grant shall be deemed to have made a disclosure covered by such paragraph; and
+&emsp;(A) an employee who initiates or provides evidence of contractor, subcontractor, grantee, subgrantee, or personal services contractor misconduct in any judicial or administrative proceeding relating to waste, fraud, or abuse on a Department of Defense or National Aeronautics and Space Administration contract or grant shall be deemed to have made a disclosure covered by such paragraph; and
 
 &emsp;(B) a reprisal described in paragraph (1) is prohibited even if it is undertaken at the request of a Department or Administration official, unless the request takes the form of a nondiscretionary directive and is within the authority of the Department or Administration official making the request.
 
 (b)
 
-Investigation of Complaints.—(1) A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the Department of Defense, or the Inspector General of the National Aeronautics and Space Administration in the case of a complaint regarding the National Aeronautics and Space Administration. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor concerned, and the head of the agency.
+Investigation of Complaints.—(1) A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the Department of Defense, or the Inspector General of the National Aeronautics and Space Administration in the case of a complaint regarding the National Aeronautics and Space Administration. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor, subcontractor, grantee, subgrantee, or personal services contractor concerned, and the head of the agency.
 
 (2)(A) Except as provided under subparagraph (B), the Inspector General shall make a determination that a complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant or submit a report under paragraph (1) within 180 days after receiving the complaint.
 
@@ -52,19 +52,21 @@ Investigation of Complaints.—(1) A person who believes that the person has bee
 
 (c)
 
-Remedy and Enforcement Authority.—(1) Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the agency concerned shall determine whether there is sufficient basis to conclude that the contractor concerned has subjected the complainant to a reprisal prohibited by subsection (a) and shall either issue an order denying relief or shall take one or more of the following actions:
+Remedy and Enforcement Authority.—(1) Not later than 30 days after receiving an Inspector General report pursuant to subsection (b), the head of the agency concerned shall determine whether there is sufficient basis to conclude that the contractor, subcontractor, grantee, subgrantee, or personal services contractor concerned has subjected the complainant to a reprisal prohibited by subsection (a) and shall either issue an order denying relief or shall take one or more of the following actions:
 
-&emsp;(A) Order the contractor to take affirmative action to abate the reprisal.
+&emsp;(A) Order the contractor, subcontractor, grantee, subgrantee, or personal services contractor to take affirmative action to abate the reprisal.
 
-&emsp;(B) Order the contractor to reinstate the person to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.
+&emsp;(B) Order the contractor, subcontractor, grantee, subgrantee, or personal services contractor to reinstate the person to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.
 
-&emsp;(C) Order the contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys' fees and expert witnesses' fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the agency.
+&emsp;(C) Order the contractor, subcontractor, grantee, subgrantee, or personal services contractor to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys' fees and expert witnesses' fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the agency.
 
-(2) If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.
+&emsp;(D) Consider disciplinary or corrective action against any official of the Department of Defense.
+
+(2) If the head of an executive agency issues an order denying relief under paragraph (1) or has not issued an order within 210 days after the submission of a complaint under subsection (b), or in the case of an extension of time under paragraph (b)(2)(B), not later than 30 days after the expiration of the extension of time, and there is no showing that such delay is due to the bad faith of the complainant, the complainant shall be deemed to have exhausted all administrative remedies with respect to the complaint, and the complainant may bring a de novo action at law or equity against the contractor, subcontractor, grantee, subgrantee, or personal services contractor to seek compensatory damages and other relief available under this section in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy. Such an action shall, at the request of either party to the action, be tried by the court with a jury. An action under this paragraph may not be brought more than two years after the date on which remedies are deemed to have been exhausted.
 
 (3) An Inspector General determination and an agency head order denying relief under paragraph (2) shall be admissible in evidence in any de novo action at law or equity brought pursuant to this subsection.
 
-(4) Whenever a person fails to comply with an order issued under paragraph (1), the head of theagency shall file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this paragraph, the court may grant appropriate relief, including injunctive relief, compensatory and exemplary damages, and reasonable attorney fees and costs. The person upon whose behalf an order was issued may also file such an action or join in an action filed by the head of the agency.
+(4) Whenever a person fails to comply with an order issued under paragraph (1), the head of the agency shall file an action for enforcement of such order in the United States district court for a district in which the reprisal was found to have occurred. In any action brought under this paragraph, the court may grant appropriate relief, including injunctive relief, compensatory and exemplary damages, and reasonable attorney fees and costs. The person upon whose behalf an order was issued may also file such an action or join in an action filed by the head of the agency.
 
 (5) Any person adversely affected or aggrieved by an order issued under paragraph (1) may obtain review of the order's conformance with this subsection, and any regulations issued to carry out this section, in the United States court of appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the agency. Review shall conform to chapter 7 of title 5. Filing such an appeal shall not act to stay the enforcement of the order of the head of an agency, unless a stay is specifically entered by the court.
 
@@ -74,17 +76,17 @@ Remedy and Enforcement Authority.—(1) Not later than 30 days after receiving a
 
 (d)
 
-Notification of Employees.—The Secretary of Defense and the Administrator of the National Aeronautics and Space Administration shall ensure that contractors and subcontractors of the Department of Defense and the National Aeronautics and Space Administration, as applicable, inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.
+Notification of Employees.—The Secretary of Defense and the Administrator of the National Aeronautics and Space Administration shall ensure that contractors, subcontractors, grantees, subgrantees, or personal services contractors of the Department of Defense and the National Aeronautics and Space Administration, as applicable, inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.
 
 (e)
 
 Exceptions.—(1) This section shall not apply to any element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
 
-(2) This section shall not apply to any disclosure made by an employee of a contractor, subcontractor, or grantee of an element of the intelligence community if such disclosure—
+(2) This section shall not apply to any disclosure made by an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor of an element of the intelligence community if such disclosure—
 
 &emsp;(A) relates to an activity of an element of the intelligence community; or
 
-&emsp;(B) was discovered during contract, subcontract, or grantee services provided to an element of the intelligence community.
+&emsp;(B) was discovered during contract, subcontract, grantee, or subgrantee services provided to an element of the intelligence community.
 
 (f)
 
@@ -102,7 +104,7 @@ Definitions.—In this section:
 
 &emsp;(4) The term "contractor" means a person awarded a contract with an agency.
 
-&emsp;(5) The term "Inspector General" means an Inspector General appointed under the Inspector General Act of 1978 and any Inspector General that receives funding from, or has oversight over contracts awarded for or on behalf of, the Secretary of Defense.
+&emsp;(5) The term "Inspector General" means an Inspector General appointed under chapter 4 of title 5 and any Inspector General that receives funding from, or has oversight over contracts or grants awarded for or on behalf of, the Secretary of Defense.
 
 &emsp;(6) The term "abuse of authority" means the following:
 
@@ -112,13 +114,9 @@ Definitions.—In this section:
 
 &emsp;(7) The term "grantee" means a person awarded a grant with an agency.
 
-(Added Pub. L. 99–500, §101(c) \[title X, §942(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, and Pub. L. 99–591, §101(c) \[title X, §942(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162, §2409; Pub. L. 99–661, div. A, title IX, formerly title IV, §942(a)(1), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–25, title VII, §701(k)(1), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(30)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title VI, §6005(a), Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, §4321(a)(10), Feb. 10, 1996, 110 Stat. 671; Pub. L. 110–181, div. A, title VIII, §846, Jan. 28, 2008, 122 Stat. 241; Pub. L. 112–239, div. A, title VIII, §827(a)–(f), Jan. 2, 2013, 126 Stat. 1833–1836; Pub. L. 113–291, div. A, title VIII, §856, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3460, 3509; Pub. L. 114–261, §1(a)(1), Dec. 14, 2016, 130 Stat. 1362; renumbered §4701 and amended Pub. L. 116–283, div. A, title XVIII, §1863(b), (c), Jan. 1, 2021, 134 Stat. 4278.)
+(Added Pub. L. 99–500, §101(c) \[title X, §942(a)(1)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, and Pub. L. 99–591, §101(c) \[title X, §942(a)(1)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162, §2409; Pub. L. 99–661, div. A, title IX, formerly title IV, §942(a)(1), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 102–25, title VII, §701(k)(1), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(30)(A), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–355, title VI, §6005(a), Oct. 13, 1994, 108 Stat. 3364; Pub. L. 104–106, div. D, title XLIII, §4321(a)(10), Feb. 10, 1996, 110 Stat. 671; Pub. L. 110–181, div. A, title VIII, §846, Jan. 28, 2008, 122 Stat. 241; Pub. L. 112–239, div. A, title VIII, §827(a)–(f), Jan. 2, 2013, 126 Stat. 1833–1836; Pub. L. 113–291, div. A, title VIII, §856, title X, §1071(c)(10), Dec. 19, 2014, 128 Stat. 3460, 3509; Pub. L. 114–261, §1(a)(1), Dec. 14, 2016, 130 Stat. 1362; renumbered §4701 and amended Pub. L. 116–283, div. A, title XVIII, §1863(b), (c), Jan. 1, 2021, 134 Stat. 4278; Pub. L. 117–263, div. A, title VIII, §807(a), Dec. 23, 2022, 136 Stat. 2703; Pub. L. 117–286, §4(b)(28), Dec. 27, 2022, 136 Stat. 4346.)
 
 #### <b>Editorial Notes</b>
-
-#### References in Text
-
-The Inspector General Act of 1978, referred to in subsec. (g)(5), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
@@ -127,6 +125,28 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2)(G), (3)(A). Pub. L. 117–263, §807(a)(1)(A), (B), substituted ", subcontractor, grantee, subgrantee, or personal services contractor" for "or subcontractor".
+
+Subsec. (b)(1). Pub. L. 117–263, §807(a)(2), substituted "contractor, subcontractor, grantee, subgrantee, or personal services contractor concerned" for "contractor concerned".
+
+Subsec. (c)(1). Pub. L. 117–263, §807(a)(3)(A)(i), substituted "contractor, subcontractor, grantee, subgrantee, or personal services contractor concerned" for "contractor concerned" in introductory provisions.
+
+Subsec. (c)(1)(A) to (C). Pub. L. 117–263, §807(a)(3)(A)(ii)–(iv), inserted ", subcontractor, grantee, subgrantee, or personal services contractor" after "contractor".
+
+Subsec. (c)(1)(D). Pub. L. 117–263, §807(a)(3)(A)(v), added subpar. (D).
+
+Subsec. (c)(2). Pub. L. 117–263, §807(a)(3)(B), inserted ", subcontractor, grantee, subgrantee, or personal services contractor" after "contractor".
+
+Subsec. (d). Pub. L. 117–263, §807(a)(4), substituted ", subcontractors, grantees, subgrantees, or personal services contractors" for "and subcontractors".
+
+Subsec. (e)(2). Pub. L. 117–263, §807(a)(5)(A), substituted "grantee, subgrantee, or personal services contractor of" for "or grantee of" in introductory provisions.
+
+Subsec. (e)(2)(B). Pub. L. 117–263, §807(a)(5)(B), substituted "grantee, or subgrantee" for "or grantee".
+
+Subsec. (g)(5). Pub. L. 117–286, which directed amendment of section 2409(g)(5) of this title by substituting "chapter 4 of title 5" for "the Inspector General Act of 1978", was executed to subsec. (g)(5) of this section, to reflect the probable intent of Congress and the amendment by Pub. L. 116–283, §1863(b), which had renumbered section 2409 of this title as this section. See 2021 Amendment note below.
+
+Pub. L. 117–263, §807(a)(6), inserted "or grants" after "contracts".
 
 <b>2021</b>—Pub. L. 116–283, §1863(b), renumbered section 2409 of this title as this section.
 
@@ -224,7 +244,7 @@ Revision of supplements to the far.—Not later than 180 days after the date of 
 
 "(3)
 
-Inclusion of contract clause in contracts awarded before effective date.—At the time of anymajor modification to a contract that was awarded before the date that is 180 days after the date of the enactment of this Act, the head of the contracting agency shall make best efforts to include in the contract a contract clause providing for the applicability of the amendments made by this section to the contract."
+Inclusion of contract clause in contracts awarded before effective date.—At the time of any major modification to a contract that was awarded before the date that is 180 days after the date of the enactment of this Act, the head of the contracting agency shall make best efforts to include in the contract a contract clause providing for the applicability of the amendments made by this section to the contract."
 
 #### Effective Date of 1996 Amendment
 
@@ -240,7 +260,7 @@ Pub. L. 102–484, div. A, title X, §1052(30)(B), Oct. 23, 1992, 106 Stat. 2501
 
 #### Effective Date
 
-Pub. L. 99–500, §101(c) \[title X, §942(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, Pub. L. 99–591, §101(c) \[title X, §942(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162, and Pub. L. 99–661, div. A, title IX, formerly title IV, §942(b), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "Section 2409 of title 10, United States Code \[now 10 U.S.C. 4701\] (as added by subsection (a)(1)), shall apply with respect to any reprisal action taken on or after the date of the enactment of this Act \[Oct. 18, 1986\]."
+Pub. L. 99–500, §101(c) \[title X, §942(b)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, Pub. L. 99–591, §101(c) \[title X, §942(b)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162, and Pub. L. 99–661, div. A, title IX, formerly title IV, §942(b), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, provided that: "Section 2409 of title 10, United States Code \[now 10 U.S.C. 4701\] (as added by subsection (a)(1)), shallapply with respect to any reprisal action taken on or after the date of the enactment of this Act \[Oct. 18, 1986\]."
 
 #### Construction
 

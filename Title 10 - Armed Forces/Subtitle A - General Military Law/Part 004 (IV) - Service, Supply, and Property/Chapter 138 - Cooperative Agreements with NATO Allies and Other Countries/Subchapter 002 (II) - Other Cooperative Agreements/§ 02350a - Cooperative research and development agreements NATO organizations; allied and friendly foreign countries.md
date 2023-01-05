@@ -18,6 +18,8 @@ Projects.—(1) The Secretary of Defense may enter into a memorandum of understa
 
 &emsp;(E) Any other friendly foreign country.
 
+&emsp;(F) The European Union, including the European Defence Agency, the European Commission, and the Council of the European Union, and their suborganizations.
+
 (3) If such a memorandum of understanding (or other formal agreement) is with a country referred to in subparagraph (E) of paragraph (2), such memorandum (or agreement) may go into effect only after the Secretary submits to the Committees on Armed Services and on Foreign Relations of the Senate and to the Committees on Armed Services and on International Relations of the House of Representatives a report with respect to the proposed memorandum (or agreement) and a period of 30 days has passed after the report has been submitted.
 
 (b)
@@ -54,7 +56,7 @@ Cooperative Opportunities.—(1) In order to ensure that opportunities to conduc
 
 &emsp;(C) An assessment of the advantages and disadvantages with regard to program timing, developmental and life cycle costs, technology sharing, and Rationalization, Standardization, and Interoperability (RSI) of seeking to structure a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
-&emsp;(D) A recommendation to the milestone decision authority as to whether the Department of Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
+&emsp;(D) A recommendation to the milestone decision authority as to whether the Departmentof Defense should explore the feasibility and desirability of a cooperative development program with one or more countries and organizations referred to in subsection (a)(2) or NATO organizations.
 
 \[(f) Repealed. Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597.\]
 
@@ -68,7 +70,7 @@ Side-by-Side Testing.—(1) It is the sense of Congress—
 
 (2) The Secretary of Defense may acquire covered equipment, munitions, and technologies for the purpose of conducting the testing described in that paragraph.
 
-(3) The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 <sup>1</sup> of this title, when procuring items within 5years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
+(3) The use of side-by-side testing under this subsection may be considered to be the use of competitive procedures for purposes of chapter 137 <sup>1</sup> of this title, when procuring items within 5 years after an initial determination that the items have been successfully tested and found to satisfy United States military requirements or to correct operational deficiencies.
 
 (4)
 
@@ -96,7 +98,7 @@ Definitions.—In this section:
 
 &emsp;(3) The term "NATO organization" means any North Atlantic Treaty Organization subsidiary body referred to in section 2350(2) of this title and any other organization of the North Atlantic Treaty Organization.
 
-(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–81, div. A, title VIII, §865, title X, §1061(14), Dec. 31, 2011, 125 Stat. 1526, 1583; Pub. L. 114–92, div. A, title VIII, §821(b)(1), Nov. 25, 2015, 129 Stat. 900; Pub. L. 114–328, div. A, title VIII, §827, Dec. 23, 2016, 130 Stat. 2280; Pub. L. 116–92, div. A, title IX, §902(54), Dec. 20, 2019, 133 Stat. 1549; Pub. L. 116–283, div. A, title II, §211, title VIII, §882, Jan. 1, 2021, 134 Stat. 3455, 3790.)
+(Added Pub. L. 101–189, div. A, title IX, §931(a)(2), Nov. 29, 1989, 103 Stat. 1531; amended Pub. L. 101–510, div. A, title XIII, §1331(4), Nov. 5, 1990, 104 Stat. 1673; Pub. L. 102–190, div. A, title X, §1053, Dec. 5, 1991, 105 Stat. 1471; Pub. L. 102–484, div. A, title VIII, §843(b)(1), Oct. 23, 1992, 106 Stat. 2469; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title XIII, §1301, Oct. 5, 1994, 108 Stat. 2888; Pub. L. 104–106, div. A, title XV, §1502(a)(17), Feb. 10, 1996, 110 Stat. 504; Pub. L. 106–65, div. A, title IX, §911(a)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 717, 774; Pub. L. 107–107, div. A, title X, §1048(b)(2), title XII, §1212(a)–(e)(1), Dec. 28, 2001, 115 Stat. 1225, 1248–1250; Pub. L. 107–314, div. A, title X, §§1041(a)(9), 1062(f)(2), Dec. 2, 2002, 116 Stat. 2645, 2651; Pub. L. 108–136, div. A, title X, §1031(a)(17), Nov. 24, 2003, 117 Stat. 1597; Pub. L. 110–181, div. A, title II, §237, title XII, §1251, Jan. 28, 2008, 122 Stat. 48, 401; Pub. L. 111–383, div. A, title IX, §901(j)(4), Jan. 7, 2011, 124 Stat. 4324; Pub. L. 112–81, div. A, title VIII, §865, title X, §1061(14), Dec. 31, 2011, 125 Stat. 1526, 1583; Pub. L. 114–92, div. A, title VIII, §821(b)(1), Nov. 25, 2015, 129 Stat. 900; Pub. L. 114–328, div. A, title VIII, §827, Dec. 23, 2016, 130 Stat. 2280; Pub. L. 116–92, div. A, title IX, §902(54), Dec. 20, 2019, 133 Stat. 1549; Pub. L. 116–283, div. A, title II, §211, title VIII, §882, Jan. 1, 2021, 134 Stat. 3455, 3790; Pub. L. 117–263, div. A, title II, §211(a), Dec. 23, 2022, 136 Stat. 2466.)
 
 #### <b>Editorial Notes</b>
 
@@ -111,6 +113,8 @@ Provisions relating to NATO countries were contained in Pub. L. 99–145, title 
 Provisions relating to major non-NATO allies were contained in section 2767a of Title 22, Foreign Relations and Intercourse, prior to repeal by Pub. L. 101–189, §931(d)(2).
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(2)(F). Pub. L. 117–263 added subpar. (F).
 
 <b>2021</b>—Subsec. (b)(2). Pub. L. 116–283, §211(1), substituted "or the Under Secretary" for "and the Under Secretary".
 
@@ -186,7 +190,7 @@ Subsec. (e)(1)(A). Pub. L. 107–107, §1048(b)(2), substituted "Under Secretary
 
 Subsec. (e)(2)(A). Pub. L. 107–107, §1212(a)(4)(A), substituted "any country or organization referred to in subsection (a)(2)" for "one or more of the major allies of the United States".
 
-Subsec. (e)(2)(B). Pub. L. 107–107, §§1048(b)(2), 1212(a)(4)(B), substituted "countries and organizations referred to in subsection (a)(2)" for "major allies of the United States or NATO organizations" and "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
+Subsec. (e)(2)(B). Pub. L. 107–107, §§1048(b)(2), 1212(a)(4)(B), substituted "countries and organizationsreferred to in subsection (a)(2)" for "major allies of the United States or NATO organizations" and "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
 Subsec. (e)(2)(C). Pub. L. 107–107, §1212(a)(4)(C), substituted "countries and organizations referred to in subsection (a)(2)" for "major allies of the United States".
 
@@ -247,6 +251,10 @@ Pub. L. 107–314, div. A, title X, §1062(f), Dec. 2, 2002, 116 Stat. 2651, pro
 #### Termination Date of 1992 Amendment
 
 Pub. L. 102–484, div. A, title VIII, §843(c), Oct. 23, 1992, 106 Stat. 2469, as amended by Pub. L. 103–35, title II, §202(a)(7), May 31, 1993, 107 Stat. 101, provided that, effective Oct. 23, 1994, subsections (a) and (b) of section 843 of Pub. L. 102–484 (amending sections 2350a and 2350d of this title and section 2767 of Title 22, Foreign Relations and Intercourse) were to cease to be in effect, and section 27(c) of the Arms Export Control Act (22 U.S.C. 2767(c)) and sections 2350a(c) and 2350d(c) of this title were to read as if such subsections had not been enacted, prior to repeal by Pub. L. 103–337, div. A, title XIII, §1318, Oct. 5, 1994, 108 Stat. 2902.
+
+#### Conforming Regulations
+
+Pub. L. 117–263, div. A, title II, §211(c), Dec. 23, 2022, 136 Stat. 2466, provided that: "Not later than 120 days after the date of the enactment of this Act \[Dec. 23, 2022\], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to conform with section 2350a of title 10, United States Code, as amended by subsection (a)."
 
 #### Agreements With Foreign Governments To Develop Land-Based Water Resources in Support of and in Preparation for Contingency Operations
 

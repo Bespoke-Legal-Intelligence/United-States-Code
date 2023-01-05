@@ -2,7 +2,7 @@
 
 (a)
 
-Date of Release.—A prisoner shall be released by the Bureau of Prisons on the date of the expiration of the prisoner's term of imprisonment, less any time credited toward the service of the prisoner's sentence as provided in subsection (b). If the date for a prisoner's release falls on a Saturday, a Sunday, or a legal holiday at the place of confinement, the prisoner may be released by the Bureau on the last preceding weekday.
+Date of Release.—A prisoner shall be released by the Bureau of Prisons on the date ofthe expiration of the prisoner's term of imprisonment, less any time credited toward the service of the prisoner's sentence as provided in subsection (b). If the date for a prisoner's release falls on a Saturday, a Sunday, or a legal holiday at the place of confinement, the prisoner may be released by the Bureau on the last preceding weekday.
 
 (b)
 
@@ -192,7 +192,7 @@ Assistance.—United States Probation and Pretrial Services shall, to the greate
 
 &emsp;(9)
 
-Mentoring, reentry, and spiritual services.—Any prerelease custody into which a prisoner is placed under this subsection may not include a condition prohibiting the prisoner from receiving mentoring, reentry, or spiritual services from a person who provided such services to the prisoner while the prisoner was incarcerated, except that the warden of the facility at which the prisoner was incarcerated may waive the requirement under this paragraph if the warden finds that the provision of such services would pose a significant security risk to the prisoner, persons who provide such services, or any other person. The warden shall provide written notice of anysuch waiver to the person providing such services and to the prisoner.
+Mentoring, reentry, and spiritual services.—Any prerelease custody into which a prisoner is placed under this subsection may not include a condition prohibiting the prisoner from receiving mentoring, reentry, or spiritual services from a person who provided such services to the prisoner while the prisoner was incarcerated, except that the warden of the facility at which the prisoner was incarcerated may waive the requirement under this paragraph if the warden finds that the provision of such services would pose a significant security risk to the prisoner, persons who provide such services, or any other person. The warden shall provide written notice of any such waiver to the person providing such services and to the prisoner.
 
 &emsp;(10)
 
@@ -258,7 +258,7 @@ Pub. L. 103–322, §20405, inserted "(other than a prisoner serving a sentence 
 
 Subsec. (c). Pub. L. 103–322, §20405(2), substituted "the prisoner's re-entry" for "his re-entry".
 
-Subsec. (d). Pub. L. 103–322, §20405(2), (3), substituted "the prisoner" for "him" in introductory provisions and "the prisoner's" for "his" wherever appearing in introductory provisions and par. (3).
+Subsec. (d). Pub. L. 103–322, §20405(2), (3), substituted "the prisoner" for "him" in introductory provisionsand "the prisoner's" for "his" wherever appearing in introductory provisions and par. (3).
 
 <b>1990</b>—Subsec. (c). Pub. L. 101–647, §2902(a), inserted after first sentence "The authority provided by this subsection may be used to place a prisoner in home confinement."
 
@@ -299,6 +299,42 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 #### Construction of 2008 Amendment
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of Title 34, Crime Control and Law Enforcement.
+
+#### Reentry Planning and Services for Incarcerated Women
+
+Pub. L. 117–103, div. W, title X, §1004, Mar. 15, 2022, 136 Stat. 918, provided that:
+
+"(a)
+
+In General.—The Attorney General, in coordination with the Director of the Office of Probation and Pretrial Services and the Director of the Bureau of Prisons (including the Women and Special Population Branch), shall collaborate on a model of gender responsive transition for incarcerated women, including the development of a national standard on prevention with respect to domestic and sexual violence.
+
+"(b)
+
+Required Consultation.—In developing the model required under subsection (a), the Attorney General shall consult with such experts within the Federal government (including the Office on Violence Against Women of the Department of Justice), within Indian Tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)), within Native Hawaiian organizations (as defined in section 6207 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7517)), and in the victim service provider community (including sexual and domestic violence and homelessness, job training and job placement service providers) as are necessary to the completion of a comprehensive plan.
+
+"(c)
+
+Contents.—The model required under subsection (a) shall address, at a minimum—
+
+&emsp;"(1) the development by the Bureau of Prisons of a contract for gender collaborative services; and
+
+&emsp;"(2) identification by re-entry affairs coordinators and responsive planning for the needs of re-entering women with respect to—
+
+&emsp;&emsp;"(A) housing, including risk of homelessness;
+
+&emsp;&emsp;"(B) previous exposure to and risk for domestic and sexual violence;
+
+&emsp;&emsp;"(C) the need for parenting classes, assistance securing childcare, or assistance in seeking or securing jobs that afford flexibility (as might be necessary in the re-entry, parenting or other contexts);
+
+&emsp;&emsp;"(D) other support tailored to the needs of Indigenous women, including American Indian, Alaska Native, and Native Hawaiian women; and
+
+&emsp;&emsp;"(E) the need to ensure a family-focused reentry, by—
+
+&emsp;&emsp;&emsp;"(i) including incarcerated mothers, their children, and their caregivers to create family reentry planning and programming; and
+
+&emsp;&emsp;&emsp;"(ii) informing reentry information to visiting families."
+
+\[For definitions of terms used in section 1004 of div. W of Pub. L. 117–103, set out above, see section 12291 of Title 34, Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of Title 34.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

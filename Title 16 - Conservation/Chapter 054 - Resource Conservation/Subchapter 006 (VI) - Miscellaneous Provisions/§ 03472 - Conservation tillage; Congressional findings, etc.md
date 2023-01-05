@@ -6,7 +6,7 @@
 
 &emsp;(2) the ability of the United States to provide agricultural products to meet that demand is seriously impaired by the annual loss of five billion tons of soil due to wind and water erosion;
 
-&emsp;(3) the battle against soil erosion is being lost despite the annual expenditure of millions of dollars by the Federal Government on research, technical assistance, and conservation incentives to control soil erosion;
+&emsp;(3) the battle against soil erosion is being lost despite the annual expenditure of millionsof dollars by the Federal Government on research, technical assistance, and conservation incentives to control soil erosion;
 
 &emsp;(4) conservation tillage practices are estimated to reduce soil erosion by 50 to 90 per centum over conventional farming practices; and
 

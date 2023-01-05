@@ -18,7 +18,7 @@ The Secretary shall appoint a senior official in the Department, who shall repor
 
 &emsp;&emsp;(B) Congress receives appropriate reports on such programs, policies, and procedures; and
 
-&emsp;(6) preparing a report to Congress on an annual basis on activities of the Departmentthat affect privacy, including complaints of privacy violations, implementation of the Privacy Act of 1974 \[5 U.S.C. 552a\], internal controls, and other matters.
+&emsp;(6) preparing a report to Congress on an annual basis on activities of the Department that affect privacy, including complaints of privacy violations, implementation of the Privacy Act of 1974 \[5 U.S.C. 552a\], internal controls, and other matters.
 
 #### (b) Authority to investigate
 
@@ -76,7 +76,7 @@ The Secretary shall appoint a senior official in the Department, who shall repor
 
 #### (II) Investigation not initiated
 
-&emsp;&emsp;&emsp;&emsp;If the Inspector General notifies the senior official under subclause (I)(bb) that the Inspector General intended to initiate an audit or investigation, but does not initiate that audit or investigation within 90 days after providing that notification, the Inspector General shall further notify the senior official that an audit or investigation was not initiated. The further notification under this subclause shall be made not later than 3 days after the end of that 90-day period.
+&emsp;&emsp;&emsp;&emsp;If the Inspector General notifies the senior official under subclause (I)(bb) that the Inspector General intended to initiate an audit or investigation, but does not initiate that audit or investigation within 90 days after providing that notification, the Inspector General shallfurther notify the senior official that an audit or investigation was not initiated. The further notification under this subclause shall be made not later than 3 days after the end of that 90-day period.
 
 #### (iii) Investigation by senior official
 
@@ -116,7 +116,7 @@ The senior official appointed under subsection (a) shall—
 
 #### References in Text
 
-The Privacy Act of 1974, referred to in subsec. (a)(2), (6), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 552a of Title 5 and Tables.
+The Privacy Act of 1974, referred to in subsec. (a)(2), (6), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 552a of Title 5 and Tables.
 
 #### Amendments
 

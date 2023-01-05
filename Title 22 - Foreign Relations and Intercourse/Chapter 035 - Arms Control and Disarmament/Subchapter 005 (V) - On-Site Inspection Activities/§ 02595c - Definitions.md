@@ -10,7 +10,7 @@ As used in this subchapter—
 
 &emsp;(4) the term "Threshold Test Ban Treaty" means the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Underground Nuclear Weapons Tests (signed at Moscow, July 3, 1974).
 
-(Pub. L. 87–297, title V, §504, formerly §64, as added Pub. L. 101–216, title II, §201, Dec. 11, 1989, 103 Stat. 1856; renumbered §65 and amended Pub. L. 102–228, title IV, §402(a)(2), (b)(1), Dec. 12, 1991, 105 Stat. 1699; renumbered §504 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(20), (21), Oct. 21, 1998, 112 Stat. 2681–772.)
+(Pub. L. 87–297, title V, §504, formerly §64, as added Pub. L. 101–216, title II, §201, Dec. 11, 1989,103 Stat. 1856; renumbered §65 and amended Pub. L. 102–228, title IV, §402(a)(2), (b)(1), Dec. 12, 1991, 105 Stat. 1699; renumbered §504 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(20), (21), Oct. 21, 1998, 112 Stat. 2681–772.)
 
 #### <b>Editorial Notes</b>
 

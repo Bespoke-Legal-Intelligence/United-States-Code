@@ -20,7 +20,7 @@ The Oversight Panel shall review the current state of the financial markets and 
 
 &emsp;&emsp;&emsp;(iii) The extent to which the information made available on transactions under the program has contributed to market transparency.
 
-&emsp;&emsp;&emsp;(iv) The effectiveness of foreclosure mitigation efforts, and the effectiveness of theprogram from the standpoint of minimizing long-term costs to the taxpayers and maximizing the benefits for taxpayers.
+&emsp;&emsp;&emsp;(iv) The effectiveness of foreclosure mitigation efforts, and the effectiveness of the program from the standpoint of minimizing long-term costs to the taxpayers and maximizing the benefits for taxpayers.
 
 #### (B) Timing
 
@@ -104,7 +104,7 @@ The Oversight Panel shall review the current state of the financial markets and 
 
 #### (3) Obtaining official data
 
-&emsp;The Oversight Panel may secure directly from any department or agency of the United States information necessary to enable it to carry out this section. Upon request of theChairperson of the Oversight Panel, the head of that department or agency shall furnish that information to the Oversight Panel.
+&emsp;The Oversight Panel may secure directly from any department or agency of the United States information necessary to enable it to carry out this section. Upon request of the Chairperson of the Oversight Panel, the head of that department or agency shall furnish that information to the Oversight Panel.
 
 #### (4) Reports
 

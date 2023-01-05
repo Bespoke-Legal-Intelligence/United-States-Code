@@ -2,7 +2,7 @@
 
 (a)
 
-Duty to Provide.—A wire or electronic communication service provider shall comply with a request for subscriber information and toll billing records information, or electronic communication transactional records in its custody or possession made by the Director of the Federal Bureau of Investigation under subsection (b) of this section.
+Duty to Provide.—A wire or electronic communication service provider shall comply with a request for subscriber information and toll billing records information, or electroniccommunication transactional records in its custody or possession made by the Director of the Federal Bureau of Investigation under subsection (b) of this section.
 
 (b)
 
@@ -80,11 +80,11 @@ Dissemination by Bureau.—The Federal Bureau of Investigation may disseminate i
 
 (f)
 
-Requirement That Certain Congressional Bodies Be Informed.—On a semiannual basis the Director of the Federal Bureau of Investigation shall fully inform the Permanent SelectCommittee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all requests made under subsection (b) of this section.
+Requirement That Certain Congressional Bodies Be Informed.—On a semiannual basis the Director of the Federal Bureau of Investigation shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, and the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate, concerning all requests made under subsection (b) of this section.
 
 (g)
 
-Libraries.—A library (as that term is defined in section 213(1) of the Library Services and Technology Act (20 U.S.C. 9122(1)), the services of which include access to the Internet, books, journals, magazines, newspapers, or other similar forms of communication in print or digitally by patrons for their use, review, examination, or circulation, is not a wire or electronic communication service provider for purposes of this section, unless the library is providing the services defined in section 2510(15) ("electronic communication service") of this title.
+Libraries.—A library (as that term is defined in section 213(1) of the Library Servicesand Technology Act (20 U.S.C. 9122(1)), the services of which include access to the Internet, books, journals, magazines, newspapers, or other similar forms of communication in print or digitally by patrons for their use, review, examination, or circulation, is not a wire or electronic communication service provider for purposes of this section, unless the library is providing the services defined in section 2510(15) ("electronic communication service") of this title.
 
 (Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1867; amended Pub. L. 103–142, Nov. 17, 1993, 107 Stat. 1491; Pub. L. 104–293, title VI, §601(a), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title V, §505(a), Oct. 26, 2001, 115 Stat. 365; Pub. L. 109–177, title I, §116(a), Mar. 9, 2006, 120 Stat. 213; Pub. L. 109–178, §§4(b), 5, Mar. 9, 2006, 120 Stat. 280, 281; Pub. L. 114–23, title V, §§501(a), 502(a), 503(a), June 2, 2015, 129 Stat. 282, 283, 289.)
 
@@ -138,5 +138,5 @@ Subsec. (e). Pub. L. 103–142, §2, inserted ", and the Committee on the Judic
 
 #### Effective Date
 
-Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202of Pub. L. 99–508, set out as a note under section 2701 of this title.
+Section effective 90 days after Oct. 21, 1986, and, in the case of conduct pursuant to a court order or extension, applicable only with respect to court orders or extensions made after such effective date, see section 202 of Pub. L. 99–508, set out as a note under section 2701 of this title.
 

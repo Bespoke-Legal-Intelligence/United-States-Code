@@ -50,7 +50,7 @@ In carrying out this section, the Secretary shall give priority to work in the f
 
 Notwithstanding section 1962d–5b of title 42, for any project carried out under this section, a non-Federal sponsor may include a nonprofit entity, with the consent of the affected local government.
 
-(Pub. L. 101–640, title III, §312, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, §205, Oct. 12,1996, 110 Stat. 3679; Pub. L. 106–53, title II, §224, Aug. 17, 1999, 113 Stat. 297; Pub. L. 106–541, title II, §210(a), Dec. 11, 2000, 114 Stat. 2592.)
+(Pub. L. 101–640, title III, §312, Nov. 28, 1990, 104 Stat. 4639; Pub. L. 104–303, title II, §205, Oct. 12, 1996, 110 Stat. 3679; Pub. L. 106–53, title II, §224, Aug. 17, 1999, 113 Stat. 297; Pub. L. 106–541, title II, §210(a), Dec. 11, 2000, 114 Stat. 2592.)
 
 #### <b>Editorial Notes</b>
 
@@ -58,7 +58,7 @@ Notwithstanding section 1962d–5b of title 42, for any project carried out unde
 
 The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter (§1251 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (e), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (e), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Codification
 
@@ -86,7 +86,7 @@ Subsec. (b)(2). Pub. L. 104–303, §205(2)(B), substituted "$20,000,000" for "$
 
 Subsec. (c). Pub. L. 104–303, §205(1), inserted "and remediate" after "remove".
 
-Subsec. (f). Pub. L. 104–303, §205(3), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: "This section shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretary may complete any project commenced under this section on or before such last day."
+Subsec. (f). Pub. L. 104–303, §205(3), added subsec. (f) and struck out heading and text of former subsec. (f).Text read as follows: "This section shall not be effective after the last day of the 5-year period beginning on November 28, 1990; except that the Secretary may complete any project commenced under this section on or before such last day."
 
 <i><sup>1</sup></i><i> So in original. The word "a" probably should not appear.</i>
 

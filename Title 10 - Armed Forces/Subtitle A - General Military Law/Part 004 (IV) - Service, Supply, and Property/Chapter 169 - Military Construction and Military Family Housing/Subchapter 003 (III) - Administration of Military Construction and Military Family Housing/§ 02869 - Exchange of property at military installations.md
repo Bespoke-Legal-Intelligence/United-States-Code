@@ -136,7 +136,7 @@ Subsec. (d)(1). Pub. L. 109–364, §2811(c)(1), substituted "is proposed for co
 
 Subsec. (d)(2), (3). Pub. L. 109–364, §2811(c)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "The Secretary concerned may not enter into an agreement under subsection (a) for the conveyance of real property until—
 
-&emsp;"(A) the Secretary submits to Congress notice of the conveyance, including the military construction activities, military family housing, or military unaccompanied housing to be obtained in exchange for the conveyance; and
+&emsp;"(A) the Secretary submits to Congress notice of the conveyance, including the military constructionactivities, military family housing, or military unaccompanied housing to be obtained in exchange for the conveyance; and
 
 &emsp;"(B) a period of 14 days expires beginning on the date on which the notice is submitted."
 

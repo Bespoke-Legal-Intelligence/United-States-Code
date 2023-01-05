@@ -114,7 +114,7 @@ Except as provided in regulations, any payment in respect of a liability describ
 
 #### References in Text
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (g)(2)(B), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (g)(2)(B), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
 
 #### Amendments
 
@@ -166,7 +166,7 @@ Pub. L. 99–514, title XVIII, §1807(a)(7)(C), Oct. 22, 1986, 100 Stat. 2816, a
 
 &emsp;"(i) any portion of such fund which is established pursuant to a court order and with qualified payments, which meets the requirements of subparagraphs (C) and (D) of section 468B(d)(2) of the Internal Revenue Code of 1954 \[now 1986\] (as added by this paragraph), and with respect to which an election is made under subparagraph (F) thereof, shall be treated as a designated settlement fund for purposes of section 468B of such Code,
 
-&emsp;"(ii) such corporation (or any successor thereof) shall be liable for the tax imposed by section 468B ofsuch Code on such portion of the fund (and the fund shall not be liable for such tax), such tax shall be deductible by the corporation, and the rate of tax under section 468B of such Code for any taxable year shall be equal to 15 percent, and
+&emsp;"(ii) such corporation (or any successor thereof) shall be liable for the tax imposed by section 468B of such Code on such portion of the fund (and the fund shall not be liable for such tax), such tax shall be deductible by the corporation, and the rate of tax under section 468B of such Code for any taxable year shall be equal to 15 percent, and
 
 &emsp;"(iii) any transaction by any portion of the fund not described in clause (i) shall be treated as a transaction made by the corporation."
 

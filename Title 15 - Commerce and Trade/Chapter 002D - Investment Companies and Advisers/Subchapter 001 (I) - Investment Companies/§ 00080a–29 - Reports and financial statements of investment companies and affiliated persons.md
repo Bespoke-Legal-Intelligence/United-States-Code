@@ -66,7 +66,7 @@ Every person who is directly or indirectly the beneficial owner of more than 10 
 
 A person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title shall provide disclosure to plan participants, in writing, and not less frequently than annually, and for new participants joining such a plan after May 31, 1996, as soon as is practicable after joining such plan, that—
 
-&emsp;(1) the plan, or any company or account maintained to manage or hold plan assets and interests in such plan, company, or account, are not subject to registration, regulation, or reporting under this subchapter, the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or State securities laws; and
+&emsp;(1) the plan, or any company or account maintained to manage or hold plan assets and interests in such plan, company, or account,are not subject to registration, regulation, or reporting under this subchapter, the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or State securities laws; and
 
 &emsp;(2) plan participants and beneficiaries therefore will not be afforded the protections of those provisions.
 
@@ -74,17 +74,29 @@ A person that maintains a church plan that is excluded from the definition of an
 
 The Commission may issue rules and regulations to require any person that maintains a church plan that is excluded from the definition of an investment company solely by reason of section 80a–3(c)(14) of this title to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
 
-(Aug. 22, 1940, ch. 686, title I, §30, 54 Stat. 836; Pub. L. 104–290, title II, §206, title V, §508(g), Oct. 11, 1996, 110 Stat. 3430, 3449; Pub. L. 105–353, title III, §301(c)(5), Nov. 3, 1998, 112 Stat. 3237.)
+#### (k) Data standards for reports
+
+#### (1) Requirement
+
+&emsp;The Commission shall, by rule, adopt data standards for all reports required to be filed with the Commission under this section, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
+
+#### (2) Consistency
+
+&emsp;The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under section 5334 of title 12, including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+(Aug. 22, 1940, ch. 686, title I, §30, 54 Stat. 836; Pub. L. 104–290, title II, §206, title V, §508(g), Oct. 11, 1996, 110 Stat. 3430, 3449; Pub. L. 105–353, title III, §301(c)(5), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 117–263, div. E, title LVIII, §5821(b)(2), Dec. 23, 2022, 136 Stat. 3425.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (i)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
+The Securities Act of 1933, referred to in subsec. (i)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (i)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (i)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (k). Pub. L. 117–263 added subsec. (k).
 
 <b>1998</b>—Subsec. (b)(1). Pub. L. 105–353, §301(c)(5)(A), inserted "and" after semicolon at end.
 
@@ -105,6 +117,12 @@ Pub. L. 104–290, §206(2), (5), redesignated subsec. (e), relating to certific
 Subsec. (h). Pub. L. 104–290, §508(g), added subsec. (h), relating to notice to Commission.
 
 Pub. L. 104–290, §206(2), redesignated subsec. (f), relating to duties and liabilities of affiliated persons, as (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Rule of Construction—No New Disclosure Requirements
+
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under section 77g of this title.
 
 #### <b>Executive Documents</b>
 

@@ -58,7 +58,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 #### (1) In general
 
-&emsp;Each State educational agency desiring to participate in the demonstration program under this section shall submit an applicationto the Secretary at such time and in such manner as the Secretary may require.
+&emsp;Each State educational agency desiring to participate in the demonstration program under this section shall submit an application to the Secretary at such time and in such manner as the Secretary may require.
 
 #### (2) Contents
 
@@ -162,7 +162,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 #### (A) Outreach
 
-&emsp;&emsp;A description of the outreach to students and the students' families at the beginningand end of each academic year of the demonstration project, at a minimum.
+&emsp;&emsp;A description of the outreach to students and the students' families at the beginning and end of each academic year of the demonstration project, at a minimum.
 
 #### (B) Distribution
 
@@ -170,7 +170,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 #### (C) Information
 
-&emsp;&emsp;The annual provision by the State educational agency to all students and families participating in the demonstration project of information regarding—
+&emsp;&emsp;The annual provision by the State educational agency to all students and familiesparticipating in the demonstration project of information regarding—
 
 &emsp;&emsp;&emsp;(i) the estimated statewide average cost of attendance for an institution of higher education for each academic year, which cost data shall be disaggregated by—
 

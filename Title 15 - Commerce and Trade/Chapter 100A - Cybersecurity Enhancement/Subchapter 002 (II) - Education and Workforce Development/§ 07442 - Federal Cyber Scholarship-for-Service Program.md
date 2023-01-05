@@ -8,7 +8,7 @@ The Director of the National Science Foundation, in coordination with the Direct
 
 The Federal Cyber Scholarship-for-Service Program shall—
 
-&emsp;(1) provide scholarships through qualified institutions of higher education, including community colleges, to students who are enrolled in programs of study at institutions of higher education leading to degrees or specialized program certifications in the cybersecurity field;
+&emsp;(1) provide scholarships through qualified institutions of higher education, including community colleges, to students who are enrolled in programs of study at institutions of higher education leading to degrees or specialized program certifications in the cybersecurity field and cybersecurity-related aspects of other related fields as appropriate, including artificial intelligence, quantum computing and aerospace;
 
 &emsp;(2) provide the scholarship recipients with summer internship opportunities or other meaningful temporary appointments in the Federal information technology and cybersecurity workforce;
 
@@ -20,7 +20,7 @@ The Federal Cyber Scholarship-for-Service Program shall—
 
 &emsp;&emsp;(C) not more than 20 percent of such recipients are placed in positions described in paragraphs (2) through (5) of subsection (d); and
 
-&emsp;(4) provide awards to improve cybersecurity education, including by seeking to provide awards in coordination with other relevant agencies for summer cybersecurity camp or other experiences, including teacher training, in each of the 50 States, at the kindergarten through grade 12 level—
+&emsp;(4) provide awards to improve cybersecurity education, including by seeking to provide awards in coordination with other relevantagencies for summer cybersecurity camp or other experiences, including teacher training, in each of the 50 States, at the kindergarten through grade 12 level—
 
 &emsp;&emsp;(A) to increase interest in cybersecurity careers;
 
@@ -114,7 +114,7 @@ As a condition of participating in the program, a qualified institution of highe
 
 &emsp;(1) enter into an agreement with the Director of the National Science Foundation, to monitor the compliance of scholarship recipients with respect to their post-award employment obligations; and
 
-&emsp;(2) provide to the Director of the National Science Foundation and the Director of the Office of Personnel Management, on an annual basis, the post-award employment documentation required under subsection (g)(1) for scholarship recipients through the completion of their post-award employment obligations.
+&emsp;(2) provide to the Director of the National Science Foundation and the Director of theOffice of Personnel Management, on an annual basis, the post-award employment documentation required under subsection (g)(1) for scholarship recipients through the completion of their post-award employment obligations.
 
 #### (i) Amount of repayment
 
@@ -158,7 +158,7 @@ A loan described subsection (i) shall—
 
 #### (3) Retain percentage
 
-&emsp;A qualified institution of higher education may retain a percentage of any repayment theinstitution collects under this subsection to defray administrative costs associated with the collection. The Director of the National Science Foundation shall establish a single, fixed percentage that will apply to all eligible entities.
+&emsp;A qualified institution of higher education may retain a percentage of any repayment the institution collects under this subsection to defray administrative costs associated with the collection. The Director of the National Science Foundation shall establish a single, fixed percentage that will apply to all eligible entities.
 
 #### (l) Exceptions
 
@@ -196,13 +196,13 @@ The Director of the National Science Foundation may provide for the partial or t
 
 #### (3) Resources
 
-&emsp;The Director of the National Science Foundation, in coordination with the Director of the Office of Personnel Management, shall provide consolidated and user-friendly online resources for prospective scholarship recipients, including, to the extent practicable—
+&emsp;The Director of the National Science Foundation, in coordination with the Director ofthe Office of Personnel Management, shall provide consolidated and user-friendly online resources for prospective scholarship recipients, including, to the extent practicable—
 
 &emsp;&emsp;(A) searchable, up-to-date, and accurate information about participating institutions of higher education and job opportunities related to the field of cybersecurity; and
 
 &emsp;&emsp;(B) a modernized description of cybersecurity careers.
 
-(Pub. L. 113–274, title III, §302, Dec. 18, 2014, 128 Stat. 2982; Pub. L. 115–91, div. A, title XVI, §1649B(a), Dec. 12, 2017, 131 Stat. 1754; Pub. L. 116–283, div. H, title XCIV, §§9401(g)(4)(C), 9403, 9404, Jan. 1, 2021, 134 Stat. 4810, 4811.)
+(Pub. L. 113–274, title III, §302, Dec. 18, 2014, 128 Stat. 2982; Pub. L. 115–91, div. A, title XVI, §1649B(a), Dec. 12, 2017, 131 Stat. 1754; Pub. L. 116–283, div. H, title XCIV, §§9401(g)(4)(C), 9403, 9404, Jan. 1, 2021, 134 Stat. 4810, 4811; Pub. L. 117–167, div. B, title III, §10316(b), Aug. 9, 2022, 136 Stat. 1531.)
 
 #### <b>Editorial Notes</b>
 
@@ -211,6 +211,8 @@ The Director of the National Science Foundation may provide for the partial or t
 The Higher Education Act of 1965, referred to in subsec. (j)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part D of title IV of the Act is classified to part D (§1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (b)(1). Pub. L. 117–167 substituted "and cybersecurity-related aspects of other related fields as appropriate, including artificial intelligence, quantum computing and aerospace;" for semicolon at end.
 
 <b>2021</b>—Subsec. (b)(2). Pub. L. 116–283, §9403(1)(A), substituted "information technology and cybersecurity" for "information technology".
 

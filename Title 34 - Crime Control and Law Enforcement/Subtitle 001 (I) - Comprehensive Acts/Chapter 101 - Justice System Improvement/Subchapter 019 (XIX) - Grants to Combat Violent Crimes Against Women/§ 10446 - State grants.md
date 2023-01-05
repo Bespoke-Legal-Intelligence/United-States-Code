@@ -12,7 +12,7 @@ Of the amounts appropriated for the purposes of this subchapter—
 
 &emsp;(2) 2.5 percent shall be available for grants for State domestic violence coalitions under section 10441(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, the coalition for Guam, the coalition for American Samoa, the coalition for the United States Virgin Islands, and the coalition for the Commonwealth of the Northern Mariana Islands.,<sup>1</sup> each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
 
-&emsp;(3) 2.5 percent shall be available for grants for State sexual assault coalitions under section 10441(c) of this title, with the coalition for each State, the coalition for the District ofColumbia, the coalition for the Commonwealth of Puerto Rico, coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
+&emsp;(3) 2.5 percent shall be available for grants for State sexual assault coalitions under section 10441(c) of this title, with the coalition for each State, the coalition for the District of Columbia, the coalition for the Commonwealth of Puerto Rico, coalitions for Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands, each receiving an amount equal to 1/56 of the total amount made available under this paragraph for each fiscal year;
 
 &emsp;(4) 1/56 shall be available for grants under section 10441(d) of this title;
 
@@ -76,9 +76,13 @@ An application for a grant under this section shall include—
 
 &emsp;(4) proof of compliance with the requirements prohibiting polygraph examinations of victims of sexual assault, described in section 10451 of this title;
 
-&emsp;(5) an implementation plan required under subsection (i); and
+&emsp;(5) proof of compliance with the requirements regarding training for victim-centered prosecution described in section 10454 of this title;
 
-&emsp;(6) any other documentation that the Attorney General may require.
+&emsp;(6) certification of compliance with the grant conditions under section 12291(b) of this title, as applicable;
+
+&emsp;(7) an implementation plan required under subsection (i); and
+
+&emsp;(8) any other documentation that the Attorney General may require.
 
 #### (e) Disbursement
 
@@ -138,7 +142,7 @@ Funds appropriated by the Congress for the activities of any agency of an Indian
 
 A State applying for a grant under this subchapter shall—
 
-&emsp;(1) develop an implementation plan in consultation with the entities listed in subsection (c)(2), that identifies how the State will use the funds awarded under this subchapter, including how the State will meet the requirements of subsection (c)(5); and
+&emsp;(1) develop an implementation plan in consultation with the entities listed in subsection (c)(2), that identifies how the State will use the funds awarded under this subchapter, including how the State will meet the requirements of subsection (c)(5) and the requirements under section 12291(b) of this title, as applicable; and
 
 &emsp;(2) submit to the Attorney General—
 
@@ -154,7 +158,7 @@ A State applying for a grant under this subchapter shall—
 
 &emsp;&emsp;&emsp;(iii) the expected result of the grant funds; and
 
-&emsp;&emsp;&emsp;(iv) the demographic characteristics of the populations to be served, including age, disability, race, ethnicity, and language background;
+&emsp;&emsp;&emsp;(iv) the demographic characteristics of the populations to be served, including age, disability, race, ethnicity, sexual orientation, gender identity, and language background;
 
 &emsp;&emsp;(D) a description of how the State will ensure that any subgrantees will consult with victim service providers during the course of developing their grant applications in order to ensure that the proposed activities are designed to promote the safety, confidentiality, and economic independence of victims;
 
@@ -172,15 +176,193 @@ A State may use any returned or remaining funds for any authorized purpose under
 
 &emsp;(1) funds from a subgrant awarded under this subchapter are returned to the State; or
 
-&emsp;(2) the State does not receive sufficient eligible applications to award the full funding within the allocations in subsection (c)(4) <sup>6</sup>
+&emsp;(2) the State does not receive sufficient eligible applications to award the full funding within the allocations in subsection (c)(4).
 
-(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), (c), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(c)–(e), title IX, §906(b), title XI, §1134(a), Jan. 5, 2006, 119 Stat. 2973, 2974, 3081, 3108; Pub. L. 109–271, §§2(d), (f)(1), (g), (l), 7(a)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 754, 763, 766; Pub. L. 113–4, title I, §101(3), Mar. 7, 2013, 127 Stat. 66.)
+#### (k) Grant increases for States with certain child custody proceeding laws and standards
+
+#### (1) Definitions
+
+&emsp;In this subsection:
+
+#### (A) Child custody proceeding
+
+&emsp;&emsp;The term "child custody proceeding"—
+
+&emsp;&emsp;&emsp;(i) means a private family court proceeding in State or local court that, with respect to a child, involves the care or custody of the child in a private divorce, separation, visitation, paternity, child support, legal or physical custody, or civil protection order proceeding between the parents of the child; and
+
+&emsp;&emsp;&emsp;(ii) does not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) any child protective, abuse, or neglect proceeding;
+
+&emsp;&emsp;&emsp;&emsp;(II) a juvenile justice proceeding; or
+
+&emsp;&emsp;&emsp;&emsp;(III) any child placement proceeding in which a State, local, or Tribal government, a designee of such a government, or any contracted child welfare agency or child protective services agency of such a government is a party to the proceeding.
+
+#### (B) Eligible State
+
+&emsp;&emsp;The term "eligible State" means a State that—
+
+&emsp;&emsp;&emsp;(i) receives a grant under subsection (a); and
+
+&emsp;&emsp;&emsp;(ii) has in effect—
+
+&emsp;&emsp;&emsp;&emsp;(I) each law described in paragraph (3);
+
+&emsp;&emsp;&emsp;&emsp;(II) the standards described in paragraph (4); and
+
+&emsp;&emsp;&emsp;&emsp;(III) the training program described in paragraph (5).
+
+#### (C) Reunification treatment
+
+&emsp;&emsp;The term "reunification treatment" means a treatment or therapy aimed at reuniting or reestablishing a relationship between a child and an estranged or rejected parent or other family member of the child.
+
+#### (2) Increase
+
+#### (A) In general
+
+&emsp;&emsp;The Attorney General shall increase the amount of a grant awarded under subsection (a) to an eligible State that submits an application under paragraph (6) by an amount that is not more than 10 percent of the average of the total amount of funding provided to the State under subsection (a) under the 3 most recent awards to the State.
+
+#### (B) Term of increase
+
+&emsp;&emsp;An increase of a grant under subparagraph (A) shall be for 1 fiscal year.
+
+#### (C) Renewal
+
+&emsp;&emsp;An eligible State that receives an increase under subparagraph (A) may submit an application for renewal of the increase at such time, in such manner, and containing such information as the Attorney General may reasonably require.
+
+#### (D) Limit
+
+&emsp;&emsp;An eligible State may not receive an increase under subparagraph (A) for more than 4 fiscal years.
+
+#### (3) Laws
+
+&emsp;The laws described in this paragraph are the following:
+
+&emsp;&emsp;(A) A law that ensures that, with respect to a child custody proceeding in which a parent has been alleged to have committed domestic violence or child abuse, including child sexual abuse—
+
+&emsp;&emsp;&emsp;(i) expert evidence from a court-appointed or outside professional relating to the alleged abuse may be admitted only if the professional possesses demonstrated expertise and clinical experience in working with victims of domestic violence or child abuse, including child sexual abuse, that is not solely of a forensic nature; and
+
+&emsp;&emsp;&emsp;(ii) in making a finding regarding any allegation of domestic violence or child abuse, including child sexual abuse, in addition to any other relevant admissible evidence, evidence of past sexual or physical abuse committed by the accused parent shall be considered, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) any past or current protection or restraining orders against the accused parent;
+
+&emsp;&emsp;&emsp;&emsp;(II) sexual violence abuse protection orders against the accused parent;
+
+&emsp;&emsp;&emsp;&emsp;(III) arrests of the accused parent for domestic violence, sexual violence, or child abuse; or
+
+&emsp;&emsp;&emsp;&emsp;(IV) convictions of the accused parent for domestic violence, sexual violence, or child abuse.
+
+&emsp;&emsp;(B) A law that ensures that, during a child custody proceeding—
+
+&emsp;&emsp;&emsp;(i) a court may not, solely in order to improve a deficient relationship with the other parent of a child, remove the child from a parent or litigating party—
+
+&emsp;&emsp;&emsp;&emsp;(I) who is competent, protective, and not physically or sexually abusive; and
+
+&emsp;&emsp;&emsp;&emsp;(II) with whom the child is bonded or to whom the child is attached;
+
+&emsp;&emsp;&emsp;(ii) a court may not, solely in order to improve a deficient relationship with the other parent of a child, restrict contact between the child and a parent or litigating party—
+
+&emsp;&emsp;&emsp;&emsp;(I) who is competent, protective, and not physically or sexually abusive; and
+
+&emsp;&emsp;&emsp;&emsp;(II) with whom the child is bonded or to whom the child is attached;
+
+&emsp;&emsp;&emsp;(iii) a court may not order a reunification treatment, unless there is generally accepted and scientifically valid proof of the safety, effectiveness, and therapeutic value of the reunification treatment;
+
+&emsp;&emsp;&emsp;(iv) a court may not order a reunification treatment that is predicated on cutting off a child from a parent with whom the child is bonded or to whom the child is attached; and
+
+&emsp;&emsp;&emsp;(v) any order to remediate the resistance of a child to have contact with a violent or abusive parent primarily addresses the behavior of that parent or the contributions of that parent to the resistance of the child before ordering the other parent of the child to take steps to potentially improve the relationship of the child with the parent with whom the child resists contact.
+
+&emsp;&emsp;(C) A law that requires judges and magistrates who hear child custody proceedings and other relevant court personnel involved in child custody proceedings, including guardians ad litem, best interest attorneys, counsel for children, custody evaluators, masters, and mediators to complete, with respect to the training program described in paragraph (5)—
+
+&emsp;&emsp;&emsp;(i) not less than 20 hours of initial training; and
+
+&emsp;&emsp;&emsp;(ii) not less than 15 hours of ongoing training every 5 years.
+
+#### (4) Uniform required standards
+
+&emsp;The standards described in this paragraph are uniform required standards that—
+
+&emsp;&emsp;(A) apply to any neutral professional appointed by a court during a child custody proceeding to express an opinion relating to abuse, trauma, or the behaviors of victims and perpetrators of abuse and trauma; and
+
+&emsp;&emsp;(B) require that a professional described in subparagraph (A) possess demonstrated expertise and clinical experience in working with victims of domestic violence or child abuse, including child sexual abuse, that is not solely of a forensic nature.
+
+#### (5) Training and education program
+
+&emsp;The training program described in this paragraph is an ongoing training and education program that—
+
+&emsp;&emsp;(A) focuses solely on domestic and sexual violence and child abuse, including—
+
+&emsp;&emsp;&emsp;(i) child sexual abuse;
+
+&emsp;&emsp;&emsp;(ii) physical abuse;
+
+&emsp;&emsp;&emsp;(iii) emotional abuse;
+
+&emsp;&emsp;&emsp;(iv) coercive control;
+
+&emsp;&emsp;&emsp;(v) implicit and explicit bias, including biases relating to parents with disabilities;
+
+&emsp;&emsp;&emsp;(vi) trauma;
+
+&emsp;&emsp;&emsp;(vii) long- and short-term impacts of domestic violence and child abuse on children; and
+
+&emsp;&emsp;&emsp;(viii) victim and perpetrator behavior patterns and relationship dynamics within the cycle of violence;
+
+&emsp;&emsp;(B) is provided by—
+
+&emsp;&emsp;&emsp;(i) a professional with substantial experience in assisting survivors of domestic violence or child abuse, including a victim service provider (as defined in section 12291 of this title); and
+
+&emsp;&emsp;&emsp;(ii) if possible, a survivor of domestic violence or child physical or sexual abuse;
+
+&emsp;&emsp;(C) relies on evidence-based and peer-reviewed research by recognized experts in the types of abuse described in subparagraph (A);
+
+&emsp;&emsp;(D) does not include theories, concepts, or belief systems unsupported by the research described in subparagraph (C); and
+
+&emsp;&emsp;(E) is designed to improve the ability of courts to—
+
+&emsp;&emsp;&emsp;(i) recognize and respond to child physical abuse, child sexual abuse, domestic violence, and trauma in all family victims, particularly children; and
+
+&emsp;&emsp;&emsp;(ii) make appropriate custody decisions that—
+
+&emsp;&emsp;&emsp;&emsp;(I) prioritize child safety and well-being; and
+
+&emsp;&emsp;&emsp;&emsp;(II) are culturally sensitive and appropriate for diverse communities.
+
+#### (6) Application
+
+#### (A) In general
+
+&emsp;&emsp;An eligible State desiring a grant increase under this subsection shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General may reasonably require.
+
+#### (B) Contents
+
+&emsp;&emsp;An application submitted by an eligible State under subparagraph (A) shall include information relating to—
+
+&emsp;&emsp;&emsp;(i) the laws described paragraph (3);
+
+&emsp;&emsp;&emsp;(ii) the standards described in paragraph (4); and
+
+&emsp;&emsp;&emsp;(iii) the training program described in paragraph (5).
+
+#### (7) Use of funds
+
+&emsp;An eligible State that receives a grant increase under paragraph (2)(A) shall use the total amount of the increase for the purposes described in subparagraph (C) or (D) of subsection (c)(4).
+
+#### (8) Rule of construction
+
+&emsp;Nothing in this subsection shall be interpreted as discouraging States from adopting additional provisions to increase safe outcomes for children. Additional protective provisions are encouraged.
+
+#### (9) Authorization of appropriations
+
+&emsp;There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2023 through 2027.
+
+(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2), Nov. 2, 2002, 116 Stat. 1789; Pub. L. 108–405, title III, §310(b), (c), Oct. 30, 2004, 118 Stat. 2276; Pub. L. 109–162, title I, §101(c)–(e), title IX, §906(b), title XI, §1134(a), Jan. 5, 2006, 119 Stat. 2973, 2974, 3081, 3108; Pub. L. 109–271, §§2(d), (f)(1), (g), (l), 7(a)(2), 8(b), Aug. 12, 2006, 120 Stat. 752, 754, 763, 766; Pub. L. 113–4, title I, §101(3), Mar. 7, 2013, 127 Stat. 66; Pub. L. 117–103, div. W, title I, §101(a)(2), title XV, §1504, Mar. 15, 2022, 136 Stat. 847, 953.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-This subchapter, referred to in the second subsec. (c)(4), the second place it appears, and in subsec. (f), was in the original "this subtitle", and was translated as reading "this part", meaning part T of title I of Pub.L. 90–351, to reflect the probable intent of Congress. Title I of Pub. L. 90–351 does not contain subtitles.
+This subchapter, referred to in the second subsec. (c)(4), the second place it appears, and in subsec. (f), was in the original "this subtitle", and was translated as reading "this part", meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Title I of Pub. L. 90–351 does not contain subtitles.
 
 The date of enactment of this Act, referred to in subsec. (c)(5), probably means the date of enactment of Pub. L. 113–4, which added subsec. (c)(5) and which was approved Mar. 7, 2013.
 
@@ -195,6 +377,16 @@ Section was formerly classified to section 3796gg–1 of Title 42, The Public He
 Another section 2007 of Pub. L. 90–351 was renumbered section 2015 and is classified to section 10452 of this title.
 
 #### Amendments
+
+<b>2022</b>—Subsec. (d)(5) to (8). Pub. L. 117–103, §101(a)(2)(A), added pars. (5) and (6) and redesignated former pars. (5) and (6) as (7) and (8), respectively.
+
+Subsec. (i)(1). Pub. L. 117–103, §101(a)(2)(B)(i), which directed amendment of par. (1) by inserting "and the requirements under section 12291(b) of this title, as applicable" before "semicolon at the end", was executed by making the insertion before "; and", to reflect the probable intent of Congress.
+
+Subsec. (i)(2)(C)(iv). Pub. L. 117–103, §101(a)(2)(B)(ii), inserted "sexual orientation, gender identity," after "ethnicity,".
+
+Subsec. (j)(2). Pub. L. 117–103, §101(a)(2)(C), inserted period at end.
+
+Subsec. (k). Pub. L. 117–103, §1504, added subsec. (k).
 
 <b>2013</b>—Subsec. (a). Pub. L. 113–4, §101(3)(A), which directed substitution of "victim service providers" for "nonprofit nongovernmental victim service programs", was executed by making the substitution for "nonprofit nongovernmental victim services programs" to reflect the probable intent of Congress.
 
@@ -284,6 +476,10 @@ Subsec. (d)(1). Pub. L. 106–386, §1102(a)(2)(C), inserted "court," after "law
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
@@ -300,6 +496,48 @@ Pub. L. 108–405, title III, §310(b), Oct. 30, 2004, 118 Stat. 2276, provided 
 
 Amendment by Pub. L. 107–273 effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as an Effective Date note under section 10442 of this title.
 
+#### Findings
+
+Pub. L. 117–103, div. W, title XV, §1502, Mar. 15, 2022, 136 Stat. 951, provided that: "Congress finds the following:
+
+&emsp;"(1) Approximately 1 in 15 children is exposed to domestic violence each year.
+
+&emsp;"(2) Most child abuse is perpetrated in the family and by a parent. Intimate partner violence and child abuse overlap in the same families at rates between 30 and 60 percent. A child's risk of abuse increases after a perpetrator of intimate partner violence separates from a domestic partner, even when the perpetrator has not previously directly abused the child. Children who have witnessed intimate partner violence are approximately 4 times more likely to experience direct child maltreatment than children who have not witnessed intimate partner violence.
+
+&emsp;"(3) More than 75 percent of child sexual abuse is perpetrated by a family member or a person known to the child. Data of the Department of Justice shows that family members are 49 percent, or almost half, of the perpetrators of crimes against child sex assault victims younger than 6 years of age.
+
+&emsp;"(4) Research suggests a child's exposure to a batterer is among the strongest indicators of risk of incest victimization. One study found that female children with fathers who are batterers of their mothers were 6.5 times more likely to experience father-daughter incest than female children who do not have abusive fathers.
+
+&emsp;"(5) Child abuse is a major public health issue in the United States. Total lifetime financial costs associated with just 1 year of confirmed cases of child maltreatment, including child physical abuse, sexual abuse, psychological abuse, and neglect, result in $124,000,000,000 in annual costs to the economy of the United States, or approximately 1 percent of the gross domestic product of the United States.
+
+&emsp;"(6) Empirical research indicates that courts regularly discount allegations of child physical and sexual abuse when those allegations are raised in child custody cases. Courts believed less than ¼ of claims that a father has committed child physical or sexual abuse. With respect to cases in which an allegedly abusive parent claimed the mother "alienated" the child, courts believed only 1 out of 51 claims of sexual molestation by a father. Independent research indicates that child sexual abuse allegations are credible between 50 and 70 percent of the time.
+
+&emsp;"(7) Empirical research shows that alleged or known abusive parents are often granted custody or unprotected parenting time by courts. Approximately 1/3 of parents alleged to have committed child abuse took primary custody from the protective parent reporting the abuse, placing children at ongoing risk.
+
+&emsp;"(8) Researchers have documented nearly 800 child murders in the United States since 2008 committed by a divorcing or separating parent. More than 100 of these child murders are known to have occurred after a court ordered the child to have contact with the dangerous parent over the objection of a safe parent or caregiver.
+
+&emsp;"(9) Scientifically unsound theories that treat abuse allegations of mothers as likely false attempts to undermine fathers are frequently applied in family court to minimize or deny reports of abuse of parents and children. Many experts who testify against abuse allegations lack expertise in the relevant type of alleged abuse, relying instead on unsound and unproven theories.
+
+&emsp;"(10) Judges presiding over custody cases involving allegations of child abuse, child sexual abuse, and domestic violence are rarely required to receive training on these subjects, and most States have not established standards for such training."
+
+\[For definitions of terms used in section 1502 of div. W of Pub. L. 117–103, set out above, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.\]
+
+#### Purposes
+
+Pub. L. 117–103, div. W, title XV, §1503, Mar. 15, 2022, 136 Stat. 952, provided that: "The purposes of this title \[see Short Title of 2022 Amendment note set out under section 10101 of this title\] are to—
+
+&emsp;"(1) increase the priority given to child safety in any State court divorce, separation, visitation, paternity, child support, civil protection order, or family custody court proceeding affecting the custody and care of children, excluding child protective, abuse, or neglect proceedings and juvenile justice proceedings;
+
+&emsp;"(2) strengthen the abilities of courts to—
+
+&emsp;&emsp;"(A) recognize and adjudicate domestic violence and child abuse allegations based on valid, admissible evidence; and
+
+&emsp;&emsp;"(B) enter orders that protect and minimize the risk of harm to children; and
+
+&emsp;"(3) ensure that professional personnel involved in cases containing domestic violence or child abuse allegations receive trauma-informed and culturally appropriate training on the dynamics, signs, and impact of domestic violence and child abuse, including child sexual abuse."
+
+\[For definitions of terms used in section 1503 of div. W of Pub. L. 117–103, set out above, see section 12291 of this title, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of this title.\]
+
 <i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> So in original. The period should probably be a semicolon.</i>
@@ -309,6 +547,4 @@ Amendment by Pub. L. 107–273 effective 90 days after Nov. 2, 2002, see section
 <i><sup>4</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
 <i><sup>5</sup></i><i> See References in Text note below.</i>
-
-<i><sup>6</sup></i><i> So in original. Probably should be followed by a period.</i>
 

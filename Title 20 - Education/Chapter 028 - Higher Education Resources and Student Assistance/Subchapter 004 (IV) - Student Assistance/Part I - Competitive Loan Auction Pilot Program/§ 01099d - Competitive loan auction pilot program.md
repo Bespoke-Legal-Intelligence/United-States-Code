@@ -36,7 +36,7 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 &emsp;&emsp;The Secretary establishes a prequalification process for eligible lenders desiring to participate in an auction under this paragraph that contains, at a minimum—
 
-&emsp;&emsp;&emsp;(i) a set of borrower benefits and servicing requirements each eligible lender shall meet in order to participate in such an auction;
+&emsp;&emsp;&emsp;(i) a set of borrower benefits and servicing requirements each eligible lendershall meet in order to participate in such an auction;
 
 &emsp;&emsp;&emsp;(ii) an assessment of each such eligible lender's capacity, including capital capacity, to participate effectively; and
 
@@ -102,7 +102,7 @@ The Secretary shall carry out a pilot program under which the Secretary establis
 
 #### (ii) Determination of eligible lender of last resort
 
-&emsp;&emsp;&emsp;Prior to the start of any auction under this paragraph, eligible lenders that desire to serve as an eligible lender of last resort shall submit an application to the Secretary at such time and in such manner as the Secretary may determine. Such application shall include an assurance that the eligible lender will meet the prequalification requirements described in subparagraph (B).
+&emsp;&emsp;&emsp;Prior to the start of any auction under this paragraph, eligible lenders that desire to serve as an eligible lender of last resort shall submit an application to the Secretary at such time and in such manner asthe Secretary may determine. Such application shall include an assurance that the eligible lender will meet the prequalification requirements described in subparagraph (B).
 
 #### (iii) Geographic location
 
@@ -172,7 +172,7 @@ The Secretary and Secretary of the Treasury shall jointly conduct an evaluation,
 
 &emsp;(1) the extent of the savings to the Federal Government that are generated through the pilot program, compared to the cost the Federal Government would have incurred in operating the PLUS loan program under section 1078–2 of this title in the absence of the pilot program;
 
-&emsp;(2) the number of lenders that participated in the pilot program, and the extent to whichthe pilot program generated competition among lenders to participate in the auctions under the pilot program;
+&emsp;(2) the number of lenders that participated in the pilot program, and the extent to which the pilot program generated competition among lenders to participate in the auctions under the pilot program;
 
 &emsp;(3) the number and volume of loans made under the pilot program in each State;
 

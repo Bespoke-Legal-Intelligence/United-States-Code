@@ -192,7 +192,7 @@ Amendment by section 2002(b) of Pub. L. 100–647 effective as if included in th
 
 Pub. L. 100–647, title VI, §6109(b), Nov. 10, 1988, 102 Stat. 3712, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on April 1, 1987."
 
-Pub. L. 100–647, title VI, §6110(b), Nov. 10, 1988, 102 Stat. 3713, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\]."
+Pub. L. 100–647, title VI, §6110(b), Nov. 10, 1988, 102 Stat. 3713, provided that: "The amendment made bythis section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date
 

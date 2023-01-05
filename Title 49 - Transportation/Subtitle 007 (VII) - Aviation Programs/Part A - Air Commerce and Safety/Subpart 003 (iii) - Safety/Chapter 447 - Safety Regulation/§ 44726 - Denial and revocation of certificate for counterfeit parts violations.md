@@ -6,7 +6,7 @@ Denial of Certificate.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2) of this subsection and subsection\(e)(2), the Administrator of the Federal Aviation Administration may not issue a certificate under this chapter to any person—
+In general.—Except as provided in paragraph (2) of this subsection and subsection (e)(2), the Administrator of the Federal Aviation Administration may not issue a certificate under this chapter to any person—
 
 &emsp;&emsp;(A) convicted in a court of law of a violation of a law of the United States relating to the installation, production, repair, or sale of a counterfeit or fraudulently-represented aviation part or material;
 
@@ -44,7 +44,7 @@ Notice Requirement.—Before the Administrator revokes a certificate under subse
 
 (d)
 
-Appeal.—The provisions of section 44710(d) apply to the appeal of a revocation order under subsection (b). For the purpose of applying that section to the appeal, "person" shall be substituted for "individual" each place it appears.
+Appeal.—The provisions of section 44710(d) apply to the appeal of a revocation order undersubsection (b). For the purpose of applying that section to the appeal, "person" shall be substituted for "individual" each place it appears.
 
 (e)
 

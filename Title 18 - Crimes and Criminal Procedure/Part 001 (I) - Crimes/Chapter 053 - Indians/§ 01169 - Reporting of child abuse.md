@@ -82,5 +82,5 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–322, title XXXIII, §330011(d), Sept. 13, 1994, 108 Stat. 2144, as amended by Pub. L. 104–294, title VI,§604(b)(25), Oct. 11, 1996, 110 Stat. 3508, provided that the amendment made by section 330011(d) is effective on the date section 404(a) of Pub. L. 101–630 took effect.
+Pub. L. 103–322, title XXXIII, §330011(d), Sept. 13, 1994, 108 Stat. 2144, as amended by Pub. L. 104–294, title VI, §604(b)(25), Oct. 11, 1996, 110 Stat. 3508, provided that the amendment made by section 330011(d) is effective on the date section 404(a) of Pub. L. 101–630 took effect.
 

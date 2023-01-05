@@ -14,7 +14,7 @@ The Department should conduct recruitment activities that—
 
 #### (c) Report
 
-Not later than 180 days after December 16, 2016, and quadrennially thereafter, the Secretary shall submit to Congress a comprehensivereport that describes the efforts, consistent with existing law, including procedures, effects, and results of the Department since the period covered by the prior such report, to promote equal opportunity and inclusion for all American employees in direct hire and personal service contractors status, particularly employees of the Foreign Service, including equal opportunity for all traditionally underrepresented minority groups.
+Not later than 180 days after December 16, 2016, and quadrennially thereafter, the Secretary shall submit to Congress a comprehensive report that describes the efforts, consistent with existing law, including procedures, effects, and results of the Department since the period covered by the prior such report, to promote equal opportunity and inclusion for all American employees in direct hire and personal service contractors status, particularly employees of the Foreign Service, including equal opportunity for all traditionally underrepresented minority groups.
 
 (Pub. L. 114–323, title IV, §410, Dec. 16, 2016, 130 Stat. 1931.)
 

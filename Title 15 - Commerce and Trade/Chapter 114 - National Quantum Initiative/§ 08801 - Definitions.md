@@ -30,27 +30,35 @@ In this chapter:
 
 #### (6) Quantum information science
 
-&emsp;The term "quantum information science" means the use of the laws of quantum physics for the storage, transmission, manipulation, computing, or measurement of information.
+&emsp;The term "quantum information science" means the use of the laws of quantum physicsfor the storage, transmission, manipulation, computing, or measurement of information.
 
-#### (7) Subcommittee on Economic and Security Implications
+#### (7) Quantum network infrastructure
+
+&emsp;The term "quantum network infrastructure" means any facility, expertise, or capability that is necessary to enable the development and deployment of scalable and diverse quantum network technologies.
+
+#### (8) <sup>1</sup> Subcommittee on Economic and Security Implications
 
 &emsp;The term "Subcommittee on Economic and Security Implications" means the Subcommittee on the Economic and Security Implications of Quantum Information Science established under section 8814a(a) of this title.
 
-#### (8) Subcommittee on Quantum Information Science
+#### (8) <sup>1</sup> Subcommittee on Quantum Information Science
 
 &emsp;The term "Subcommittee on Quantum Information Science" means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under section 8813(a) of this title.
 
-(Pub. L. 115–368, §2, Dec. 21, 2018, 132 Stat. 5092; Pub. L. 117–81, div. F, title LXVI, §6606(c)(1), Dec. 27, 2021, 135 Stat. 2443.)
+(Pub. L. 115–368, §2, Dec. 21, 2018, 132 Stat. 5092; Pub. L. 117–81, div. F, title LXVI, §6606(c)(1), Dec. 27, 2021, 135 Stat. 2443; Pub. L. 117–167, div. B, title I, §10104(b)(1), Aug. 9, 2022, 136 Stat. 1437.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2021</b>—Pars. (7), (8). Pub. L. 117–81 added pars. (7) and (8) and struck out former par. (7), which defined "Subcommittee".
+<b>2022</b>—Pars. (7), (8). Pub. L. 117–167 added par. (7) and redesignated former par. (7) relating to Subcommittee on Economic and Security Implications as (8).
+
+<b>2021</b>—Pars. (7), (8). Pub. L. 117–81 added pars. (7) and (8) and struck out former par. (7) which defined "Subcommittee".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
 Pub. L. 115–368, §1(a), Dec. 21, 2018, 132 Stat. 5092, provided that: "This Act \[enacting this chapter\] may be cited as the 'National Quantum Initiative Act'."
+
+<i><sup>1</sup></i><i> So in original. Two pars. (8) have been enacted.</i>
 

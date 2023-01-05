@@ -126,5 +126,5 @@ Subsec. (h). Pub. L. 108–170, §301(b)(2), added subsec. (h).
 
 #### Effective Date of 2003 Amendment
 
-Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003,see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
+Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
 

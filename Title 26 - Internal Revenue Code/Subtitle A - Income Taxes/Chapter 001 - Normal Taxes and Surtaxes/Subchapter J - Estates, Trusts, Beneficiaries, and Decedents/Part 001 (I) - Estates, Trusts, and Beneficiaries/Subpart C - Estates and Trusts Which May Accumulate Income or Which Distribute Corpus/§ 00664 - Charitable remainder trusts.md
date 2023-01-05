@@ -22,7 +22,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 #### (1) Income tax
 
-&emsp;A charitable remainder annuity trust and a charitable remainder unitrust shall, for anytaxable year, not be subject to any tax imposed by this subtitle.
+&emsp;A charitable remainder annuity trust and a charitable remainder unitrust shall, for any taxable year, not be subject to any tax imposed by this subtitle.
 
 #### (2) Excise tax
 
@@ -84,7 +84,7 @@ Amounts distributed by a charitable remainder annuity trust or by a charitable r
 
 #### (e) Valuation of interests
 
-For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computedon the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year. In the case of the early termination of a trust which is a charitable remainder unitrust by reason of subsection (d)(3), the valuation of interests in such trust for purposes of this section shall be made under rules similar to the rules of the preceding sentence.
+For purposes of determining the amount of any charitable contribution, the remainder interest of a charitable remainder annuity trust or charitable remainder unitrust shall be computed on the basis that an amount equal to 5 percent of the net fair market value of its assets (or a greater amount, if required under the terms of the trust instrument) is to be distributed each year. In the case of the early termination of a trust which is a charitable remainder unitrust by reason of subsection (d)(3), the valuation of interests in such trust for purposes of this section shall be made under rules similar to the rules of the preceding sentence.
 
 #### (f) Certain contingencies permitted
 
@@ -98,7 +98,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 #### (3) Qualified contingency
 
-&emsp;For purposes of this subsection, the term "qualified contingency" means any provision of a trust which provides that, upon the happening of a contingency, the payments described in paragraph (1)(A) or (2)(A) of subsection (d) (as the case may be) will terminate not later than such payments would otherwise terminate under the trust.
+&emsp;For purposes of this subsection, the term "qualified contingency" means any provisionof a trust which provides that, upon the happening of a contingency, the payments described in paragraph (1)(A) or (2)(A) of subsection (d) (as the case may be) will terminate not later than such payments would otherwise terminate under the trust.
 
 #### (g) Qualified gratuitous transfer of qualified employer securities
 
@@ -158,7 +158,7 @@ For purposes of determining the amount of any charitable contribution, the remai
 
 &emsp;&emsp;If any portion of the assets of the plan attributable to securities acquired by the plan in a qualified gratuitous transfer are allocated to the account of—
 
-&emsp;&emsp;&emsp;(i) any person who is related to the decedent (within the meaning of section 267(b))or a member of the decedent's family (within the meaning of section 2032A(e)(2)), or
+&emsp;&emsp;&emsp;(i) any person who is related to the decedent (within the meaning of section 267(b)) or a member of the decedent's family (within the meaning of section 2032A(e)(2)), or
 
 &emsp;&emsp;&emsp;(ii) any person who, at the time of such allocation or at any time during the 1-year period ending on the date of the acquisition of qualified employer securities by the plan, is a 5-percent shareholder of the employer maintaining the plan,
 

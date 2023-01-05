@@ -29,7 +29,7 @@ Under subsection (a) of section 704, any copy, phonorecord, or identifying mater
 
 With respect to published works, section 704(b) makes all deposits available to the Library of Congress "for its collections, or for exchanges or transfer to any other library"; where the work is unpublished, the Library is authorized to select any deposit for its own collections or for transfer to the National Archives of the United States or to a Federal records center.
 
-Motion picture producers have expressed some concern lest the right to transfer copies of works, such as motion pictures, that have been published under rental, lease, or loan arrangements, might lead to abuse. However, the Library of Congress has not knowingly transferred works of this sort to other libraries in the past,and there is no reason to expect it to do so in the future.
+Motion picture producers have expressed some concern lest the right to transfer copies of works, such as motion pictures, that have been published under rental, lease, or loan arrangements, might lead to abuse. However, the Library of Congress has not knowingly transferred works of this sort to other libraries in the past, and there is no reason to expect it to do so in the future.
 
 The Committee added a new subsection (c) to section 704, under which the Register is authorized to make microfilm or other record copies of copyright deposits before transferring or otherwise disposing of them.
 

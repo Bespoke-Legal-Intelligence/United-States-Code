@@ -6,7 +6,7 @@
 
 &emsp;(2) extend or reduce the time for such payments;
 
-&emsp;(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take accountof any payment of such claim other than under the plan; or
+&emsp;(3) alter the amount of the distribution to a creditor whose claim is provided for by the plan to the extent necessary to take account of any payment of such claim other than under the plan; or
 
 &emsp;(4) provide for the payment of a claim described in section 1232(a) that arose after the date on which the petition was filed.
 
@@ -50,5 +50,5 @@ Amendment by section 1006(b) of Pub. L. 109–8 effective 180 days after Apr. 20
 
 #### Effective Dates
 
-Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as a Repeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
+Permanent reenactment of section effective July 1, 2005, see section 1001(a)(2) of Pub. L. 109–8, set out as aRepeal, Reenactment, and Termination of Chapter note under section 1201 of this title. For effective dates of section and amendments extending periods for which section was reenacted prior to permanent reenactment, see Effective Date and Effective Date of 1999, 2001, 2002, 2003, and 2004 Amendment notes set out under section 1201 of this title.
 

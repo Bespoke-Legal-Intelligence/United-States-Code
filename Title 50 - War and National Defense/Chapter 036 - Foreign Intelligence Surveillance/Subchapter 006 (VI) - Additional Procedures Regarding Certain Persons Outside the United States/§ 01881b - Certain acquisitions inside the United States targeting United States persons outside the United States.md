@@ -134,7 +134,7 @@
 
 #### (7) Compliance
 
-&emsp;At or prior to the end of the period of time for which an acquisition is approved by an order or extension under this section, the judge may assess compliance with the minimization procedures referred to in paragraph (1)(C) by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
+&emsp;At or prior to the end of the period of time for which an acquisition is approved by anorder or extension under this section, the judge may assess compliance with the minimization procedures referred to in paragraph (1)(C) by reviewing the circumstances under which information concerning United States persons was acquired, retained, or disseminated.
 
 #### (d) Emergency authorization
 

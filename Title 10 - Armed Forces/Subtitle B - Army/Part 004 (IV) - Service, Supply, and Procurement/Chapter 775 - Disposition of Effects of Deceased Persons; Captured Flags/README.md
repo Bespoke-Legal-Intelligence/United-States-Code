@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [7712\.](%C2%A7%2007712%20-%20Disposition%20of%20effects%20of%20deceased%20persons%20by%20summary%20court-martial.md) | Disposition of effects of deceased persons by summary court-martial. |
-| [7714\.](%C2%A7%2007714%20-%20Collection%20of%20captured%20flags%2C%20standards%2C%20and%20colors.md) | Collection of captured flags, standards, and colors. |
+| [7714\.](%C2%A7%2007714%20-%20Collection%20of%20captured%20flags%2C%20standards%2C%20and%20colors.md) | Collection of captured flags, standards, and colors.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

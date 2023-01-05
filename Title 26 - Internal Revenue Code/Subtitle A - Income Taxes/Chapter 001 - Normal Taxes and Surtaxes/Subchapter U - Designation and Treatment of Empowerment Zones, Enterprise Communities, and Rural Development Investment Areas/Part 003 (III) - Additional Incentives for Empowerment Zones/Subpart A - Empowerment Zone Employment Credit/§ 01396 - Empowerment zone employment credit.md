@@ -26,7 +26,7 @@ For purposes of this section, the applicable percentage is 20 percent.
 
 #### (B) Coordination with paragraph (2)
 
-&emsp;&emsp;The $15,000 amount in paragraph (2) shall be reduced for any calendar year by the amount of wages paid or incurred during such year which are taken into account in determining the credit under section 51.
+&emsp;&emsp;The $15,000 amount in paragraph (2) shall be reduced for any calendar year by theamount of wages paid or incurred during such year which are taken into account in determining the credit under section 51.
 
 #### (d) Qualified zone employee
 
@@ -116,7 +116,7 @@ Pub. L. 106–554, §1(a)(7) \[title I, §113(d)\], Dec. 21, 2000, 114 Stat. 276
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 951(b) of Pub. L. 105–34 effective Aug. 5, 1997, except that designations of new empowerment zones made pursuant to amendments by section 951 of Pub. L. 105–34 to be made during 180-day period beginning Aug. 5, 1997, and no designation pursuant to such amendments to take effect before Jan. 1, 2000, see section 951(c) of Pub. L. 105–34, set out as a note under section 1391 of this title.
+Amendment by section 951(b) of Pub. L. 105–34 effective Aug. 5, 1997, except that designations of new empowerment zones made pursuant to amendments by section 951 of Pub. L. 105–34 to be made during 180-day period beginning Aug. 5, 1997, and no designation pursuant to such amendments to take effect before Jan. 1,2000, see section 951(c) of Pub. L. 105–34, set out as a note under section 1391 of this title.
 
 #### Effective Date of 1996 Amendment
 

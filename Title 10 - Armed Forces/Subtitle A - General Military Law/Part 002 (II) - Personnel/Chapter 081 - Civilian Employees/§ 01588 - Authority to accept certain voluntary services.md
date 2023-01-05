@@ -60,7 +60,7 @@ Authority To Recruit and Train Persons Providing Services.—The Secretary conce
 
 (d)
 
-Status of Persons Providing Services.—(1) Subject to paragraph (3), while providing voluntary services accepted under subsection (a) or receiving training under subsection (c), a person, other than a person referred to in paragraph (2), shall be considered to be an employee of the Federal Government only for purposes of the following provisions of law:
+Status of Persons Providing Services.—(1) Subject to paragraph (3), while providing voluntary services accepted under subsection (a) or receiving training under subsection (c), a person, other than a person referred to in paragraph (2), shall be considered to be an employee of theFederal Government only for purposes of the following provisions of law:
 
 &emsp;(A) Subchapter I of chapter 81 of title 5 (relating to compensation for work-related injuries).
 
@@ -104,7 +104,7 @@ Authority To Install Equipment.—(1) The Secretary concerned may install teleph
 
 Secretary Concerned for Acceptance of Services for Programs Serving Members of NOAA Corps and Their Families.—For purposes of the acceptance of services described in subsection (a)(3), the term "Secretary concerned" in subsection (a) shall include the Secretary of Commerce with respect to members of the commissioned officer corps of the National Oceanic and Atmospheric Administration.
 
-(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f),Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, §583, Dec. 28, 2001, 115 Stat. 1125; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §553, title X, §1064(b), Dec. 2, 2002, 116 Stat. 2552, 2654; Pub. L. 108–375, div. A, title V, §516, title X, §1081, Oct. 28, 2004, 118 Stat. 1884, 2059; Pub. L. 110–181, div. A, title X, §1063(a)(9), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–239, div. A, title V, §587(b), Jan. 2, 2013, 126 Stat. 1768; Pub. L. 113–291, div. A, title X, §1043, Dec. 19, 2014, 128 Stat. 3493; Pub. L. 116–259, title II, §205(b)(2), Dec. 23, 2020, 134 Stat. 1167.)
+(Added Pub. L. 98–94, title XII, §1266(a), Sept. 24, 1983, 97 Stat. 704; amended Pub. L. 99–145, title XVI, §1624(a), Nov. 8, 1985, 99 Stat. 778; Pub. L. 99–661, div. A, title XIII, §1355, Nov. 14, 1986, 100 Stat. 3996; Pub. L. 100–26, §3(9), Apr. 21, 1987, 101 Stat. 274; Pub. L. 101–189, div. A, title XVI, §1634, Nov. 29, 1989, 103 Stat. 1608; Pub. L. 102–190, div. A, title III, §345, Dec. 5, 1991, 105 Stat. 1346; Pub. L. 103–337, div. A, title X, §1061(a), Oct. 5, 1994, 108 Stat. 2845; Pub. L. 104–201, div. A, title X, §1074(a)(8), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 106–65, div. A, title III, §371(a), title V, §578(f), Oct. 5, 1999, 113 Stat. 579, 627; Pub. L. 107–107, div. A, title V, §583, Dec. 28, 2001, 115 Stat. 1125; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §553, title X, §1064(b), Dec. 2, 2002, 116 Stat. 2552, 2654; Pub. L. 108–375, div. A, title V, §516, title X, §1081, Oct. 28, 2004, 118 Stat. 1884, 2059; Pub. L. 110–181, div. A, title X, §1063(a)(9), Jan. 28, 2008, 122 Stat. 322; Pub. L. 112–239, div. A, title V, §587(b), Jan. 2, 2013, 126 Stat. 1768; Pub. L. 113–291, div. A, title X, §1043, Dec. 19, 2014, 128 Stat. 3493; Pub. L. 116–259, title II, §205(b)(2), Dec. 23, 2020, 134 Stat. 1167.)
 
 #### <b>Editorial Notes</b>
 
@@ -122,7 +122,7 @@ Subsec. (g). Pub. L. 116–259, §205(b)(2)(B), added subsec. (g).
 
 <b>2004</b>—Subsec. (a)(8). Pub. L. 108–375, §516(1), added par. (8).
 
-Subsec. (d)(1)(B). Pub. L. 108–375, §1081, inserted before period at end "and the Act of March 9, 1920, commonly known as the 'Suits in Admiralty Act' (41 Stat. 525; 46 U.S.C. App. 741 et seq.) and the Act of March 3, 1925, commonly known as the 'Public Vessels Act' (43 Stat. 1112; 46 U.S.C. App. 781 et seq.) (relating to claims for damages or loss on navigable waters)".
+Subsec. (d)(1)(B). Pub. L. 108–375, §1081, inserted before period at end "and the Act of March 9, 1920, commonly known as the 'Suits in Admiralty Act' (41 Stat. 525; 46 U.S.C. App. 741 et seq.) and the Act of March 3,1925, commonly known as the 'Public Vessels Act' (43 Stat. 1112; 46 U.S.C. App. 781 et seq.) (relating to claims for damages or loss on navigable waters)".
 
 Subsec. (f)(1). Pub. L. 108–375, §516(2), substituted "paragraph (3) or (8) of subsection (a)" for "subsection (a)(3)".
 

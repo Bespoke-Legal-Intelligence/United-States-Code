@@ -78,7 +78,7 @@ The Director shall require each enterprise to provide to the Director, as part o
 
 #### (1) Required adjustments
 
-&emsp;Based on the information from subsection (d) and any other information the Director deems necessary, the Director shall require an enterprise to make adjustments in its guarantee fee in order to be in compliance with subsection (b).
+&emsp;Based on the information from subsection (d) and any other information the Directordeems necessary, the Director shall require an enterprise to make adjustments in its guarantee fee in order to be in compliance with subsection (b).
 
 #### (2) Noncompliance penalty
 

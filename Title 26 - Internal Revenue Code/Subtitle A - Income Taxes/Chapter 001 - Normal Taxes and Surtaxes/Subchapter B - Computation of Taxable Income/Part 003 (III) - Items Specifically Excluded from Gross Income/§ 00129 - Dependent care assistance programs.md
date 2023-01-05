@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (8) Treatment of onsite facilities
 
-&emsp;In the case of an onsite facility maintained by an employer, except to the extent provided in regulations, the amount of dependent care assistance provided to an employee excluded with respect to any dependent shall be based on—
+&emsp;In the case of an onsite facility maintained by an employer, except to the extent provided in regulations, the amount of dependent careassistance provided to an employee excluded with respect to any dependent shall be based on—
 
 &emsp;&emsp;(A) utilization of the facility by a dependent of the employee, and
 
@@ -174,7 +174,7 @@ A prior section 129 was renumbered section 140 of this title.
 
 <b>1996</b>—Subsec. (d)(8)(B). Pub. L. 104–188 substituted "section 414(q)(4)" for "section 414(q)(7)".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239 struck out at end "For purposes of the preceding sentence, marital statusshall be determined under the rules of paragraphs (3) and (4) of section 21(e)."
+<b>1989</b>—Subsec. (a). Pub. L. 101–239 struck out at end "For purposes of the preceding sentence, marital status shall be determined under the rules of paragraphs (3) and (4) of section 21(e)."
 
 Subsec. (d)(1). Pub. L. 101–140, §204(a)(3)(B), substituted "paragraphs (2) through (8)" for "paragraphs (2) through (7)".
 

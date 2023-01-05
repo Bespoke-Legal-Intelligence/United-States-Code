@@ -34,7 +34,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(ii) food, refreshments, training, or informational material furnished to an officer, employee, or agent of a covered educational institution, as an integral part of a training session or through participation in an advisory council that is designed to improve the service of the private educational lender to the covered educational institution, if such training or participation contributes to the professional development of the officer, employee, or agent of the covered educational institution;
 
-&emsp;&emsp;&emsp;(iii) favorable terms, conditions, and borrower benefits on a private education loanprovided to a student employed by the covered educational institution, if such terms, conditions, or benefits are not provided because of the student's employment with the covered educational institution;
+&emsp;&emsp;&emsp;(iii) favorable terms, conditions, and borrower benefits on a private education loan provided to a student employed by the covered educational institution, if such terms, conditions, or benefits are not provided because of the student's employment with the covered educational institution;
 
 &emsp;&emsp;&emsp;(iv) the provision of financial literacy counseling or services, including counseling or services provided in coordination with a covered educational institution, to the extent that such counseling or services are not undertaken to secure—
 
@@ -48,7 +48,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(vi) State education grants, scholarships, or financial aid funds administered by or on behalf of a State;
 
-&emsp;(4) the term "institution of higher education" has the same meaning as in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002);
+&emsp;(4) the term "institution of higher education" has the same meaning as in section 102of the Higher Education Act of 1965 (20 U.S.C. 1002);
 
 &emsp;(5) the term "postsecondary educational expenses" means any of the expenses that are included as part of the cost of attendance of a student, as defined under section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll);
 
@@ -122,7 +122,7 @@ It shall be unlawful for any private educational lender to impose a fee or penal
 
 &emsp;&emsp;(A) That any card issuer that markets a credit card on the campus of such institution notify the institution of the location at which such marketing will take place.
 
-&emsp;&emsp;(B) That the number of locations on the campus of such institution at which the marketing of credit cards takes place be limited.
+&emsp;&emsp;(B) That the number of locations on the campus of such institution at which themarketing of credit cards takes place be limited.
 
 &emsp;&emsp;(C) That credit card and debt education and counseling sessions be offered as a regular part of any orientation program for new students of such institution.
 

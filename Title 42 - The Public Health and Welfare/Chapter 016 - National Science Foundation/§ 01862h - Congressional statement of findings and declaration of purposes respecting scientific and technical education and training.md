@@ -8,11 +8,11 @@ The Congress finds that—
 
 &emsp;(2) the workforce of the United States must be better prepared for the technologically advanced, competitive, global economy;
 
-&emsp;(3) the improvement of our work force's productivity and our international economic position depend upon the strengthening of our educational efforts in science, mathematics, and technology, especially at the associate-degree level;
+&emsp;(3) the improvement of our work force's productivity and our international economic position depend upon the strengthening of our educational efforts in science, technology, engineering, and mathematics or STEM, especially at the associate-degree level;
 
-&emsp;(4) shortages of scientifically and technically trained workers in a wide variety of fields will best be addressed by collaboration among the Nation's associate-degree-granting colleges and private industry to produce skilled, advanced technicians; and
+&emsp;(4) shortages of scientifically and technically educated <sup>1</sup> trained workers in a wide variety of fields will best be addressed by collaboration among the Nation's associate-degree-granting colleges and private industry to produce skilled, advanced technicians; and
 
-&emsp;(5) the National Science Foundation's traditional role in developing model curricula, disseminating instructional materials, enhancing faculty development, and stimulating partnerships between educational institutions and industry, makes an enlarged role for the Foundation in scientific and technical education and training particularly appropriate.
+&emsp;(5) the National Science Foundation's traditional role in developing model curricula, disseminating instructional materials, enhancing faculty development, and stimulating partnerships between educational institutions and industry, makes an enlarged role for the Foundation in STEM education and training particularly appropriate.
 
 #### (b) Purposes
 
@@ -20,13 +20,13 @@ It is the purpose of sections 1862h to 1862j of this title to—
 
 &emsp;(1) improve science and technical education at associate-degree-granting colleges;
 
-&emsp;(2) improve secondary school and postsecondary curricula in mathematics and science;
+&emsp;(2) improve secondary school and postsecondary curricula in STEM fields;
 
 &emsp;(3) improve the educational opportunities of postsecondary students by creating comprehensive articulation agreements and planning between 2-year and 4-year institutions; and
 
-&emsp;(4) promote outreach to secondary schools to improve mathematics and science instruction.
+&emsp;(4) promote outreach to secondary schools to improve STEM instruction.
 
-(Pub. L. 102–476, §2, Oct. 23, 1992, 106 Stat. 2297.)
+(Pub. L. 102–476, §2, Oct. 23, 1992, 106 Stat. 2297; Pub. L. 117–167, div. B, title III, §10312(f)(1), Aug. 9, 2022, 136 Stat. 1519.)
 
 #### <b>Editorial Notes</b>
 
@@ -37,4 +37,18 @@ Sections 1862h to 1862j of this title, referred to in subsec. (b), was in the or
 #### Codification
 
 Section was enacted as part of the Scientific and Advanced-Technology Act of 1992, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+
+<b>2022</b>—Subsec. (a)(3). Pub. L. 117–167, §10312(f)(1)(A)(i), substituted "science, technology, engineering, and mathematics or STEM" for "science, mathematics, and technology".
+
+Subsec. (a)(4). Pub. L. 117–167, §10312(f)(1)(A)(ii), inserted "educated" before "trained".
+
+Subsec. (a)(5). Pub. L. 117–167, §10312(f)(1)(A)(iii), substituted "STEM education and training" for "scientific and technical education and training".
+
+Subsec. (b)(2). Pub. L. 117–167, §10312(f)(1)(B)(i), substituted "STEM fields" for "mathematics and science".
+
+Subsec. (b)(4). Pub. L. 117–167, §10312(f)(1)(B)(ii), substituted "STEM instruction" for "mathematics and science instruction".
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

@@ -47,7 +47,7 @@ Act Feb. 10, 1954, ch. 6, §4(b), 68 Stat. 13, transferred "; substitute judge 
 
 #### Change of Name
 
-Words "magistrate judges" substituted for "magistrates" in items 375 and 377 pursuant to section 321 ofPub. L. 101–650, set out as a note under section 631 of this title.
+Words "magistrate judges" substituted for "magistrates" in items 375 and 377 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 99–396 without corresponding amendment of analysis.</i>
 

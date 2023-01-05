@@ -88,7 +88,7 @@ Pub. L. 96–462, §7, Oct. 15, 1980, 94 Stat. 2054, provided that:
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–372, §3(i), Mar. 18, 1966, 80 Stat. 77, provided that: "The provisions of this section \[amending this section and enacting provisions set out as a note under this section and section 133 of this title\] shall become effective six months after the date of enactment of this Act \[Mar. 18, 1966\]."
+Pub. L. 89–372, §3(i), Mar. 18, 1966, 80 Stat. 77, provided that: "The provisions of this section \[amending thissection and enacting provisions set out as a note under this section and section 133 of this title\] shall become effective six months after the date of enactment of this Act \[Mar. 18, 1966\]."
 
 #### Congressional Findings Concerning Creation of Three Divisions in Central District
 

@@ -13,6 +13,7 @@
 | [6709\.](%C2%A7%2006709%20-%20Interagency%20cooperation%20to%20maximize%20biomass%20growth.md) | Interagency cooperation to maximize biomass growth. |
 | [6710\.](%C2%A7%2006710%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [6711\.](%C2%A7%2006711%20-%20Carbon%20cycle%20research.md) | Carbon cycle research. |
+| [6712\.](%C2%A7%2006712%20-%20Greenhouse%20Gas%20Technical%20Assistance%20Provider%20and%20Third-Party%20Verifier%20Program.md) | Greenhouse Gas Technical Assistance Provider and Third-Party Verifier Program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -32,3 +33,4 @@
 - [&sect; 06709 - Interagency cooperation to maximize biomass growth](%C2%A7%2006709%20-%20Interagency%20cooperation%20to%20maximize%20biomass%20growth.md)
 - [&sect; 06710 - Authorization of appropriations](%C2%A7%2006710%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 06711 - Carbon cycle research](%C2%A7%2006711%20-%20Carbon%20cycle%20research.md)
+- [&sect; 06712 - Greenhouse Gas Technical Assistance Provider and Third-Party Verifier Program](%C2%A7%2006712%20-%20Greenhouse%20Gas%20Technical%20Assistance%20Provider%20and%20Third-Party%20Verifier%20Program.md)

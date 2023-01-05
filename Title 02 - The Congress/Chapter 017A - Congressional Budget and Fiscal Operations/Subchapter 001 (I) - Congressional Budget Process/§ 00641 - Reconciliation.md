@@ -28,7 +28,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;(1) only one committee of the House or the Senate is directed to determine and recommend changes, that committee shall promptly make such determination and recommendations and report to its House reconciliation legislation containing such recommendations; or
 
-&emsp;(2) more than one committee of the House or the Senate is directed to determine and recommend changes, each such committee so directed shall promptly make such determination and recommendations and submit such recommendations to the Committee on the Budget of its House, which, upon receiving all such recommendations, shall report to its House reconciliation legislation carrying outall such recommendations without any substantive revision.
+&emsp;(2) more than one committee of the House or the Senate is directed to determine and recommend changes, each such committee so directed shall promptly make such determination and recommendations and submit such recommendations to the Committee on the Budget of its House, which, upon receiving all such recommendations, shall report to its House reconciliation legislation carrying out all such recommendations without any substantive revision.
 
 > For purposes of this subsection, a reconciliation resolution is a concurrent resolution directing the Clerk of the House of Representatives or the Secretary of the Senate, as the case may be, to make specified changes in bills and resolutions which have not been enrolled.
 
@@ -50,7 +50,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;&emsp;&emsp;(II) in the House of Representatives, 20 percent of the sum of the absolute value of the changes the committee was directed to make under paragraph (1) and the absolute value of the changes the committee was directed to make under paragraph (2); and
 
-&emsp;(B) if the total amount of the changes recommended by such committee is not less than the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection.
+&emsp;(B) if the total amount of the changes recommended by such committee is not less thanthe total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection.
 
 (2)(A) Upon the reporting to the Committee on the Budget of the Senate of a recommendation that shall be deemed to have complied with such directions solely by virtue of this subsection, the chairman of that committee may file with the Senate appropriately revised allocations under section 633(a) of this title and revised functional levels and aggregates to carry out this subsection.
 

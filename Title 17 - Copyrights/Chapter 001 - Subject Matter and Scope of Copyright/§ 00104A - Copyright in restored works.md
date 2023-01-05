@@ -64,7 +64,7 @@ Existing derivative works.—(A) In the case of a derivative work that is based 
 
 > &emsp;a reliance party may continue to exploit that derivative work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.
 
-&emsp;(B) In the absence of an agreement between the parties, the amount of such compensation shall be determined by an action in United States district court, and shall reflect any harm to the actual or potential market for or value of the restored work from the reliance party's continued exploitation of the work, as well as compensation for the relative contributions of expression of the author of therestored work and the reliance party to the derivative work.
+&emsp;(B) In the absence of an agreement between the parties, the amount of such compensationshall be determined by an action in United States district court, and shall reflect any harm to the actual or potential market for or value of the restored work from the reliance party's continued exploitation of the work, as well as compensation for the relative contributions of expression of the author of the restored work and the reliance party to the derivative work.
 
 &emsp;(4)
 

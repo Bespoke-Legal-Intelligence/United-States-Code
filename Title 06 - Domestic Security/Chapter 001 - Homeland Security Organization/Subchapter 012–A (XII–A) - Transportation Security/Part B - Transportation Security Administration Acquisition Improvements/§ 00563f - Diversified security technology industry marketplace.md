@@ -44,7 +44,7 @@ In this section:
 
 #### (3) Small business innovator
 
-&emsp;The term "small business innovator" means a small business concern that has an advanced transportation security technology or capability.
+&emsp;The term "small business innovator" means a small business concern that has an advancedtransportation security technology or capability.
 
 (Pub. L. 107–296, title XVI, §1617, as added Pub. L. 115–254, div. K, title I, §1913(a), Oct. 5, 2018, 132 Stat. 3554.)
 

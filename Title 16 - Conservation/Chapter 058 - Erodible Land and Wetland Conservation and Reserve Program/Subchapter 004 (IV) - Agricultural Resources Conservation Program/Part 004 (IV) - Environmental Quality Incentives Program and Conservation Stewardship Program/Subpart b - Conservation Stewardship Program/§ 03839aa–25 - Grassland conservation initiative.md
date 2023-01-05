@@ -68,7 +68,7 @@ The grassland conservation plan developed for eligible land shall be limited toâ
 
 #### (1) In general
 
-&emsp;Beginning in fiscal year 2019, of the funds made available for this subpart under section 3841(a)(3)(B) of this title, and notwithstanding any payment under title I of the AgricultureImprovement Act of 2018, an amendment made by that title, or section 3839aaâ€“24(c) of this title, the Secretary shall make annual grassland conservation contract payments to the producer of any eligible land that is the subject of a grassland conservation contract under this section.
+&emsp;Beginning in fiscal year 2019, of the funds made available for this subpart under section 3841(a)(3)(B) of this title, and notwithstanding any payment under title I of the Agriculture Improvement Act of 2018, an amendment made by that title, or section 3839aaâ€“24(c) of this title, the Secretary shall make annual grassland conservation contract payments to the producer of any eligible land that is the subject of a grassland conservation contract under this section.
 
 #### (2) Payment noneligibility
 
@@ -84,7 +84,7 @@ The grassland conservation plan developed for eligible land shall be limited toâ
 
 #### (h) Considered planted
 
-The Secretary shall consider land enrolled under a grassland conservation contract under this section during a crop year to be planted or considered planted to a covered commodity (as defined in section 9011 of title 7) during that crop year.
+The Secretary shall consider land enrolled under a grassland conservation contract under this section during a crop year to be planted orconsidered planted to a covered commodity (as defined in section 9011 of title 7) during that crop year.
 
 #### (i) Other contracts
 

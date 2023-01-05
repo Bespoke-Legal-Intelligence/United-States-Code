@@ -6,7 +6,7 @@ In any adoptive placement of an Indian child under State law, a preference shall
 
 #### (b) Foster care or preadoptive placements; criteria; preferences
 
-Any child accepted for foster care or preadoptive placement shall be placed in the least restrictive setting which most approximates a family and in which his special needs, if any, may be met. The child shall also be placed within reasonable proximity to his or her home, taking into account any special needs of the child. In any foster care or preadoptive placement, a preference shall be given, in the absenceof good cause to the contrary, to a placement with—
+Any child accepted for foster care or preadoptive placement shall be placed in the least restrictive setting which most approximates a family and in which his special needs, if any, may be met. The child shall also be placed within reasonable proximity to his or her home, taking into account any special needs of the child. In any foster care or preadoptive placement, a preference shall be given, in the absence of good cause to the contrary, to a placement with—
 
 &emsp;(i) a member of the Indian child's extended family;
 

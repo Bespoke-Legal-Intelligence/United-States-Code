@@ -110,7 +110,7 @@ The amount of any deduction specified in section 162, 163, 164, 212, or 611 (rel
 
 &emsp;In determining the net value for estate tax purposes under subsection (c)(2)(B) for purposes of this subsection, the value for estate tax purposes of the items described in paragraph (1) of this subsection shall be computed—
 
-&emsp;&emsp;(A) by determining the excess of the value of the annuity at the date of the death of the deceased annuitant over the total amount excludable from the gross income of the surviving annuitant under section 72 during the surviving annuitant's life expectancy period, and
+&emsp;&emsp;(A) by determining the excess of the value of the annuity at the date of the death of thedeceased annuitant over the total amount excludable from the gross income of the surviving annuitant under section 72 during the surviving annuitant's life expectancy period, and
 
 &emsp;&emsp;(B) by multiplying the figure so obtained by the ratio which the value of the annuity for estate tax purposes bears to the value of the annuity at the date of the death of the deceased.
 
@@ -258,7 +258,7 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1980 Amendments and Revival of Prior Law
 
-For effective date of amendment by section 2(b)(5) of Pub. L. 96–471, see section 6(a)(1) of Pub. L. 96–471, setout as an Effective Date note under section 453 of this title.
+For effective date of amendment by section 2(b)(5) of Pub. L. 96–471, see section 6(a)(1) of Pub. L. 96–471, set out as an Effective Date note under section 453 of this title.
 
 Pub. L. 96–471, §6(b), Oct. 19, 1980, 94 Stat. 2256, provided: "The amendment made by section 3 \[amending this section\] shall apply in the case of decedents dying after the date of the enactment of this Act \[Oct. 19, 1980\]."
 
@@ -272,7 +272,7 @@ Pub. L. 95–600, title VII, §702(b)(2), Nov. 6, 1978, 92 Stat. 2925, provided 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1901(a)(91) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(a)(91) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976,see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 Amendment by section 1951(b)(10)(A) of Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1951(d) of Pub. L. 94–455, set out as a note under section 72 of this title.
 

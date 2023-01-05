@@ -28,7 +28,7 @@ In issuing rules required by this subsection, the Bureau may establish different
 
 The Bureau, in consultation with the Comptroller of the Currency, the Board of Directors of the Federal Deposit Insurance Corporation, the Director of the Office of Thrift Supervision, and the National Credit Union Administration Board, may issue rules to provide an amount for any penalty fee or charge described under subsection (a) that is presumed to be reasonable and proportional to the omission or violation to which the fee or charge relates.
 
-(Pub. L. 90–321, title I, §149, as added Pub. L. 111–24, title I, §102(b)(1), May 22, 2009, 123 Stat.1740; amended Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, §149, as added Pub. L. 111–24, title I, §102(b)(1), May 22, 2009, 123 Stat. 1740; amended Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
 #### <b>Editorial Notes</b>
 

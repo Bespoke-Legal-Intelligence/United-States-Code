@@ -42,7 +42,7 @@ This section shall not fail to apply to a contract or option to acquire or sell 
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–647 inserted sentence at end defining "stock or securities".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §106(b), substituted "no deduction shall be allowed under section 165 unless the taxpayer is a dealer in stock or securities and theloss is sustained in a transaction made in the ordinary course of such business" for "no deduction for the loss shall be allowed under section 165(c)(2); nor shall such deduction be allowed a corporation under section 165(a) unless it is a dealer in stocks or securities, and the loss is sustained in a transaction made in the ordinary course of business".
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §106(b), substituted "no deduction shall be allowed under section 165 unless the taxpayer is a dealer in stock or securities and the loss is sustained in a transaction made in the ordinary course of such business" for "no deduction for the loss shall be allowed under section 165(c)(2); nor shall such deduction be allowed a corporation under section 165(a) unless it is a dealer in stocks or securities, and the loss is sustained in a transaction made in the ordinary course of business".
 
 Subsec. (e). Pub. L. 98–369, §106(a), added subsec. (e).
 

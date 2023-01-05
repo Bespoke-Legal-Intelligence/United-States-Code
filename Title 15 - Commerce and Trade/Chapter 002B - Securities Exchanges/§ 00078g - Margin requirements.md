@@ -12,7 +12,7 @@ For the purpose of preventing the excessive use of credit for the purchase or ca
 
 #### (b) Lower and higher margin requirements
 
-Notwithstanding the provisions of subsection (a) of this section, the Board of Governors of the Federal Reserve System, may, from time to time, with respect to all or specified securities or transactions, or classes of securities, or classes of transactions, by such rules and regulations (1) prescribe such lower margin requirements for the initial extension or maintenance of credit as it deems necessary or appropriate for the accommodation of commerce and industry, having due regard to the general credit situation of the country, and (2) prescribe such higher margin requirements for the initial extension or maintenance of credit as it may deem necessary or appropriate to prevent the excessive use of credit to finance transactions in securities.
+Notwithstanding the provisions of subsection (a) of this section, the Board of Governors of the Federal Reserve System, may, from time to time, with respect to all or specified securities or transactions, or classes of securities, or classes of transactions, by such rules and regulations (1) prescribe such lower margin requirements for the initial extension or maintenance of credit as it deems necessary or appropriate for the accommodation of commerce and industry, having due regard to the general credit situation of the country, and (2) prescribe such higher margin requirements for the initial extension or maintenance of credit as it may deem necessary orappropriate to prevent the excessive use of credit to finance transactions in securities.
 
 #### (c) Unlawful credit extension to customers
 
@@ -60,7 +60,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 #### (3) Exception
 
-&emsp;This subsection and the rules and regulations issued under this subsection shall not apply to any credit extended, maintained, or arranged by a member of a national securities exchange or a broker or dealer to or for amember of a national securities exchange or a registered broker or dealer—
+&emsp;This subsection and the rules and regulations issued under this subsection shall not apply to any credit extended, maintained, or arranged by a member of a national securities exchange or a broker or dealer to or for a member of a national securities exchange or a registered broker or dealer—
 
 &emsp;&emsp;(A) a substantial portion of whose business consists of transactions with persons other than brokers or dealers; or
 
@@ -72,7 +72,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 #### (1) Prohibition
 
-&emsp;It shall be unlawful for any person not subject to subsection (c) to extend or maintain credit or to arrange for the extension or maintenance of credit for the purpose of purchasing or carrying any security, in contravention of such rules and regulations as the Board shall prescribe to prevent the excessive use of credit for the purchasing or carrying of or trading in securities in circumvention of the other provisions of this section. Such rules and regulations may impose upon all loans made for the purpose of purchasing or carrying securities limitations similar to those imposed upon members, brokers, or dealers by subsection (c) and the rules and regulations thereunder.
+&emsp;It shall be unlawful for any person not subject to subsection (c) to extend or maintain credit or to arrange for the extension or maintenance of credit for the purpose of purchasing or carrying any security, in contravention of such rules and regulations as the Board shall prescribe to prevent the excessive use of credit for the purchasing or carrying of or trading in securities in circumvention of the other provisions of this section. Such rules and regulations may impose upon all loans made for thepurpose of purchasing or carrying securities limitations similar to those imposed upon members, brokers, or dealers by subsection (c) and the rules and regulations thereunder.
 
 #### (2) Exceptions
 
@@ -116,7 +116,7 @@ The provisions of this section or the rules and regulations thereunder shall not
 
 #### (g) Effect of bona fide agreement for delayed delivery of mortgage related security
 
-Subject to such rules and regulations as the Board of Governors of the Federal Reserve System may adopt in the public interest and for the protection of investors, no member of a nationalsecurities exchange or broker or dealer shall be deemed to have extended or maintained credit or arranged for the extension or maintenance of credit for the purpose of purchasing a security, within the meaning of this section, by reason of a bona fide agreement for delayed delivery of a mortgage related security or a small business related security against full payment of the purchase price thereof upon such delivery within one hundred and eighty days after the purchase, or within such shorter period as the Board of Governors of the Federal Reserve System may prescribe by rule or regulation.
+Subject to such rules and regulations as the Board of Governors of the Federal Reserve System may adopt in the public interest and for the protection of investors, no member of a national securities exchange or broker or dealer shall be deemed to have extended or maintained credit or arranged for the extension or maintenance of credit for the purpose of purchasing a security, within the meaning of this section, by reason of a bona fide agreement for delayed delivery of a mortgage related security or a small business related security against full payment of the purchase price thereof upon such delivery within one hundred and eighty days after the purchase, or within such shorter period as the Board of Governors of the Federal Reserve System may prescribe by rule or regulation.
 
 (June 6, 1934, ch. 404, title I, §7, 48 Stat. 886; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; Pub. L. 90–437, July 29, 1968, 82 Stat. 452; Pub. L. 91–508, title III, §301(a), Oct. 26, 1970, 84 Stat. 1124; Pub. L. 98–440, title I, §102, Oct. 3, 1984, 98 Stat. 1690; Pub. L. 103–325, title II, §203, Sept. 23, 1994, 108 Stat. 2199; Pub. L. 104–290, title I, §104(a), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title III, §301(b)(5), (6), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §206(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–429; Pub. L. 111–203, title IX, §929, July 21, 2010, 124 Stat. 1852.)
 

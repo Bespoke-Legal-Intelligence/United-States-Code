@@ -34,7 +34,7 @@ The Director of the Center shall—
 
 &emsp;(11) conduct services-related assessments, including evaluations of the organization and financing of care, self-help and consumer-run programs, mental health economics, mental health service systems, rural mental health and tele-mental health, and improve the capacity of State to conduct evaluations of publicly funded mental health programs;
 
-&emsp;(12) disseminate mental health information, including evidence-based practices, to States,political subdivisions, educational agencies and institutions, treatment and prevention service providers, and the general public, including information concerning the practical application of research supported by the National Institute of Mental Health that is applicable to improving the delivery of services;
+&emsp;(12) disseminate mental health information, including evidence-based practices, to States, political subdivisions, educational agencies and institutions, treatment and prevention service providers, and the general public, including information concerning the practical application of research supported by the National Institute of Mental Health that is applicable to improving the delivery of services;
 
 &emsp;(13) provide technical assistance to public and private entities that are providers of mental health services;
 
@@ -56,7 +56,7 @@ In carrying out the duties established in subsection (b), the Director may make 
 
 #### References in Text
 
-The Protection and Advocacy of Mentally Ill Individuals Act, referred to in subsec. (b)(8), probably means the Protection and Advocacy for Mentally Ill Individuals Act of 1986, which was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
+The Protection and Advocacy of Mentally Ill Individuals Act, referred to in subsec. (b)(8), probably means the Protection and Advocacy for Mentally Ill Individuals Act of 1986, which was Pub. L. 99–319, May 23, 1986, 100 Stat. 478. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 
 The Community Mental Health Centers Act, referred to in subsec. (b)(14), is title II of Pub. L. 88–164, as added by Pub. L. 94–63, title III, §303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, §902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
 
@@ -110,9 +110,145 @@ Subsec. (b)(10) to (15). Pub. L. 106–310, §3112(c)(1), redesignated pars. (9)
 
 Section effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
+#### Task Force on Maternal Mental Health
+
+Pub. L. 117–328, div. FF, title I, §1113, Dec. 29, 2022, 136 Stat. 5644, provided that:
+
+"(a)
+
+Establishment.—Not later than 180 days after the date of enactment of this Act \[Dec. 29, 2022\], the Secretary of Health and Human Services, for purposes of identifying, evaluating, and making recommendations to coordinate and improve Federal activities related to addressing maternal mental health conditions, shall—
+
+&emsp;"(1) establish a task force to be known as the Task Force on Maternal Mental Health (in this section referred to as the 'Task Force'); or
+
+&emsp;"(2) incorporate the duties, public meetings, and reports specified in subsections (c) through (f) into existing relevant Federal committees or working groups, such as the Maternal Health Interagency Policy Committee and the Maternal Health Working Group, as appropriate.
+
+"(b)
+
+Membership.—
+
+&emsp;"(1)
+
+Composition.—The Task Force shall be composed of—
+
+&emsp;&emsp;"(A) the Federal members under paragraph (2); and
+
+&emsp;&emsp;"(B) the non-Federal members under paragraph (3).
+
+&emsp;"(2)
+
+Federal members.—The Federal members of the Task Force shall consist of the following heads of Federal departments and agencies (or their designees):
+
+&emsp;&emsp;"(A) The Assistant Secretary for Health of the Department of Health and Human Services and the Assistant Secretary for Mental Health and Substance Use, who shall serve as co-chairs.
+
+&emsp;&emsp;"(B) The Assistant Secretary for Planning and Evaluation of the Department of Health and Human Services.
+
+&emsp;&emsp;"(C) The Assistant Secretary of the Administration for Children and Families.
+
+&emsp;&emsp;"(D) The Director of the Centers for Disease Control and Prevention.
+
+&emsp;&emsp;"(E) The Administrator of the Centers for Medicare \& Medicaid Services.
+
+&emsp;&emsp;"(F) The Administrator of the Health Resources and Services Administration.
+
+&emsp;&emsp;"(G) The Director of the Indian Health Service.
+
+&emsp;&emsp;"(H) Such other Federal departments and agencies as the Secretary determines appropriate that serve individuals with maternal mental health conditions.
+
+&emsp;"(3)
+
+Non-Federal members.—The non-Federal members of the Task Force shall—
+
+&emsp;&emsp;"(A) compose not more than one-half, and not less than one-third, of the total membership of the Task Force;
+
+&emsp;&emsp;"(B) be appointed by the Secretary; and
+
+&emsp;&emsp;"(C) include—
+
+&emsp;&emsp;&emsp;"(i) representatives of professional medical societies, professional nursing societies, and relevant health paraprofessional societies with expertise in maternal or mental health;
+
+&emsp;&emsp;&emsp;"(ii) representatives of nonprofit organizations with expertise in maternal or mental health;
+
+&emsp;&emsp;&emsp;"(iii) relevant industry representatives; and
+
+&emsp;&emsp;&emsp;"(iv) other representatives, as appropriate.
+
+&emsp;"(4)
+
+Deadline for designating designees.—If the Assistant Secretary for Health, the Assistant Secretary for Mental Health and Substance Use, or the head of a Federal department or agency serving as a member of the Task Force under paragraph (2), chooses to be represented on the Task Force by a designee, the Assistant Secretary for Health, the Assistant Secretary for Mental Health and Substance Use, or department or agency head shall designate such designee not later than 90 days after the date of the enactment of this section \[Dec. 29, 2022\].
+
+"(c)
+
+Duties.—The Task Force shall—
+
+&emsp;"(1) prepare and regularly update a report that analyzes and evaluates the state of maternal mental health programs at the Federal level, and identifies best practices with respect to maternal mental health (which may include co-occurring substance use disorders), including—
+
+&emsp;&emsp;"(A) a set of evidence-based, evidence-informed, and promising practices with respect to—
+
+&emsp;&emsp;&emsp;"(i) prevention strategies for maternal mental health conditions, including strategies and recommendations to reduce racial, ethnic, geographic, and other health disparities;
+
+&emsp;&emsp;&emsp;"(ii) the identification, screening, diagnosis, intervention, and treatment of maternal mental health conditions and affected families;
+
+&emsp;&emsp;&emsp;"(iii) the timely referral to supports, and implementation of practices, that prevent and mitigate the effects of a maternal mental health condition, including strategies and recommendations to eliminate racial and ethnic disparities that exist in maternal mental health; and
+
+&emsp;&emsp;&emsp;"(iv) community-based or multigenerational practices that provide support related to maternal mental health conditions, including support for affected families; and
+
+&emsp;&emsp;"(B) Federal and State programs and activities that support prevention, screening, diagnosis, intervention, and treatment of maternal mental health conditions;
+
+&emsp;"(2) develop and regularly update a national strategy for maternal mental health, taking into consideration the findings of the report under paragraph (1), on how the Task Force and Federal departments and agencies represented on the Task Force may prioritize options for, and may improve coordination with respect to, addressing maternal mental health conditions, including by—
+
+&emsp;&emsp;"(A) increasing prevention, screening, diagnosis, intervention, treatment, and access to maternal mental health care, including clinical and nonclinical care such as peer-support and community health workers, through the public and private sectors;
+
+&emsp;&emsp;"(B) providing support relating to the prevention, screening, diagnosis, intervention, and treatment of maternal mental health conditions, including families, as appropriate;
+
+&emsp;&emsp;"(C) reducing racial, ethnic, geographic, and other health disparities related to prevention, diagnosis, intervention, treatment, and access to maternal mental health care;
+
+&emsp;&emsp;"(D) identifying opportunities to modify, strengthen, and better coordinate existing Federal infant and maternal health programs in order to improve screening, diagnosis, research, prevention, identification, intervention, and treatment with respect to maternal mental health; and
+
+&emsp;&emsp;"(E) improving planning, coordination, and collaboration across Federal departments, agencies, offices, and programs;
+
+&emsp;"(3) solicit public comments, as appropriate, from stakeholders for the report under paragraph (1) and the national strategy under paragraph (2) in order to inform the activities and reports of the Task Force; and
+
+&emsp;"(4) consider the latest research related to maternal mental health in developing the strategy, including, as applicable and appropriate, data and information disaggregated by relevant factors, such as race, ethnicity, geographical location, age, socioeconomic level, and others, as appropriate.
+
+"(d)
+
+Meetings.—The Task Force shall—
+
+&emsp;"(1) meet not less than two times each year; and
+
+&emsp;"(2) convene public meetings, as appropriate, to fulfill its duties under this section.
+
+"(e)
+
+Reports to Public and Federal Leaders.—The Task Force shall make publicly available and submit to the heads of relevant Federal departments and agencies, the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and other relevant congressional committees, the following:
+
+&emsp;"(1) Not later than 1 year after the first meeting of the Task Force, an initial report under subsection (c)(1).
+
+&emsp;"(2) Not later than 2 years after the first meeting of the Task Force, an initial national strategy under subsection (c)(2).
+
+&emsp;"(3) Each year thereafter—
+
+&emsp;&emsp;"(A) an updated report under subsection (c)(1);
+
+&emsp;&emsp;"(B) an updated national strategy under subsection (c)(2); or
+
+&emsp;&emsp;"(C) if no update is made under subsection (c)(1) or (c)(2), a report summarizing the activities of the Task Force.
+
+"(f)
+
+Reports to Governors.—Upon finalizing the initial national strategy under subsection (c)(2), and upon making relevant updates to such strategy, the Task Force shall submit a report to the Governors of all States describing any opportunities for local- and State-level partnerships identified under subsection (c)(2).
+
+"(g)
+
+Sunset.—The Task Force shall terminate on September 30, 2027.
+
+"(h)
+
+Nonduplication of Federal Efforts.—The Secretary may relieve the Task Force, in carrying out subsections (c) through (f), from responsibility for carrying out such activities as may be specified by the Secretary as duplicative of other activities carried out by the Department of Health and Human Services."
+
 #### Mental Health Services for Individuals in Correctional Facilities
 
-Section 703 of Pub. L. 102–321 directed Secretary of Health and Human Services, acting through Director ofCenter for Mental Health Services, not later than July 10, 1992, to prepare and submit to Congress a report concerning most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services, with such study to be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.
+Pub. L. 102–321, title VII, §703, July 10, 1992, 106 Stat. 437, directed Secretary of Health and Human Services, acting through Director of Center for Mental Health Services, not later than July 10, 1992, to prepare and submit to Congress a report concerning most effective methods for providing mental health services to individuals who come into contact with the criminal justice system, including those individuals incarcerated in correctional facilities (including local jails and detention facilities), and the obstacles to providing such services, with such study to be carried out in consultation with the National Institute of Mental Health, the Department of Justice, and other appropriate public and private entities.
 
 #### <b>Executive Documents</b>
 

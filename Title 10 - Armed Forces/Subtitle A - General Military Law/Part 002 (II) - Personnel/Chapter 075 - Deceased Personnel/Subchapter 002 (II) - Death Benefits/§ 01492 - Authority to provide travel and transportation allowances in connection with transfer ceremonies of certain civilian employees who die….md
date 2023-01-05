@@ -30,6 +30,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 116–283, div. A, title XI, §1104(a)(1), Jan. 1, 2021, 134 Stat. 3889.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 481f of title 37, referred to in subsec. (a), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.

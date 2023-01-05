@@ -14,7 +14,7 @@ For purposes of this subchapter—
 
 &emsp;(6) the terms "foreign power" and "agent of a foreign power" have the same meanings as set forth in sections <sup>1</sup> 1801(a) and (b), respectively, of this title;
 
-&emsp;(7) the term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and any other possession of the United States; and
+&emsp;(7) the term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of PuertoRico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, and any other possession of the United States; and
 
 &emsp;(8) the term "computer" means any electronic, magnetic, optical, electrochemical, or other high speed data processing device performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device and any data or other information stored or contained in such device.
 

@@ -6,21 +6,43 @@
 
 &emsp;(2) acquire, collect, classify, and preserve any information which would assist in the identification of any deceased individual who has not been identified after the discovery of such deceased individual;
 
-&emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney General may acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
+&emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney General may acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin);
 
-&emsp;(4) exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, including State sentencing commissions, Indian tribes, cities, and penal and other institutions.
+&emsp;(4) exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, including State sentencing commissions, Indian tribes, cities, and penal and other institutions; and
 
-(b) The exchange of records and information authorized by subsection (a)(4) of this section is subject to cancellation if dissemination is made outside the receiving departments or related agencies.
+&emsp;(5) provide a person licensed as an importer, manufacturer, or dealer of firearms under chapter 44 of title 18 with information necessary to verify whether firearms offered for sale to such licensees have been stolen.
+
+(b) The exchange of records and information authorized by subsection (a)(4) of this section is subject to cancellation if dissemination is made outside the receiving departments or related agencies, except for dissemination authorized under subsection (a)(5) of this section.
 
 (c) The Attorney General may appoint officials to perform the functions authorized by this section.
 
 (d)
 
-Indian Law Enforcement Agencies.—The Attorney General shall permit tribal and Bureau of Indian Affairs law enforcement agencies—
+Indian Law Enforcement Agencies.—
 
-&emsp;(1) to access and enter information into Federal criminal information databases; and
+&emsp;(1)
 
-&emsp;(2) to obtain information from the databases.
+In general.—The Attorney General shall permit tribal and Bureau of Indian Affairs law enforcement agencies—
+
+&emsp;&emsp;(A) to access and enter information into Federal criminal information databases; and
+
+&emsp;&emsp;(B) to obtain information from the databases.
+
+&emsp;(2)
+
+Tribal Access Program.—
+
+&emsp;&emsp;(A)
+
+In general.—The Attorney General shall establish a program, to be known as the "Tribal Access Program", to enhance the ability of tribal governments and their authorized agencies to access, enter information into, and obtain information from national criminal information databases under this section.
+
+&emsp;&emsp;(B)
+
+Authorization of appropriations.—There is authorized to be appropriated to carry out the Tribal Access Program under subparagraph (A) $6,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
+
+&emsp;(3)
+
+Information sharing.—To the extent otherwise permitted by law, any report issued as a result of the analysis of information entered into national criminal information databases or obtained from Federal criminal databases shall be shared with each Indian tribe of jurisdiction, including Indian tribes located in the State of Maine.
 
 (e) For purposes of this section, the term "other institutions" includes—
 
@@ -46,7 +68,7 @@ Indian Law Enforcement Agencies.—The Attorney General shall permit tribal and 
 
 &emsp;&emsp;(ii) any support, child custody or visitation provisions, orders, remedies, or relief issued as part of a protection order, restraining order, or stay away injunction pursuant to State, tribal, territorial, or local law authorizing the issuance of protection orders, restraining orders, or injunctions for the protection of victims of domestic violence, dating violence, sexual assault, or stalking.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, §118, title IX, §905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611; Pub. L. 111–211, title II, §233(a), July 29, 2010, 124 Stat. 2279; Pub. L. 111–369, §2, Jan. 4, 2011, 124 Stat. 4068.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816; Pub. L. 109–162, title I, §118, title IX, §905(a), Jan. 5, 2006, 119 Stat. 2989, 3079; Pub. L. 109–248, title I, §153(i), July 27, 2006, 120 Stat. 611; Pub. L. 111–211, title II, §233(a), July 29, 2010, 124 Stat. 2279; Pub. L. 111–369, §2, Jan. 4, 2011, 124 Stat. 4068; Pub. L. 117–103, div. W, title VIII, §802(b), Mar. 15, 2022, 136 Stat. 898; Pub. L. 117–159, div. A, title II, §12004(h)(2), June 25, 2022, 136 Stat. 1331.)
 
 Historical and Revision Notes
 
@@ -75,6 +97,12 @@ In subsection (c), the authority to appoint officials for the cited purposes is 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Subsec. (a)(5). Pub. L. 117–159, §12004(h)(2)(A), added par. (5).
+
+Subsec. (b). Pub. L. 117–159, §12004(h)(2)(B), inserted ", except for dissemination authorized under subsection (a)(5) of this section" before period at end.
+
+Subsec. (d). Pub. L. 117–103 designated existing provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added pars. (2) and (3).
 
 <b>2011</b>—Subsec. (a)(4). Pub. L. 111–369 inserted ", including State sentencing commissions" after ", the States".
 
@@ -112,9 +140,31 @@ Subsec. (b). Pub. L. 97–292, §2(b), substituted "exchange of records and info
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under section 6851 of Title 15, Commerce and Trade.
+
 #### Regulations
 
-Pub. L. 103–322, title IV, §40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: "The Attorney General maymake rules to carry out the subsection added to section 534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board."
+Pub. L. 103–322, title IV, §40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: "The Attorney General may make rules to carry out the subsection added to section 534 of title 28, United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board."
+
+#### Statutory Construction; Evidence
+
+Pub. L. 117–159, div. A, title II, §12004(h)(4), June 25, 2022, 136 Stat. 1331, provided that:
+
+"(A)
+
+Statutory construction.—Nothing in this subsection \[amending this section and section 40901 of Title 34, Crime Control and Law Enforcement, and enacting provisions set out as a note preceding section 41101 of Title 34\] or the amendments made by this subsection shall be construed—
+
+&emsp;"(i) to create a cause of action against any person licensed as an importer, manufacturer, or dealer of firearms under chapter 44 of title 18, United States Code, or any other person for any civil liability; or
+
+&emsp;"(ii) to establish any standard of care.
+
+"(B)
+
+Evidence.—Notwithstanding any other provision of law, evidence regarding the use or non-use by a person licensed as an importer, manufacturer, or dealer of firearms under chapter 44 of title 18, United States Code, of the systems, information, or records made available under this subsection or the amendments made by this subsection shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity."
+
+Nothing in amendment made by Pub. L. 117–159 to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a Rule of Construction note under section 922 of Title 18, Crimes and Criminal Procedure.
 
 #### Improving Department of Justice Data Collection on Mental Illness Involved in Crime
 
@@ -146,7 +196,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat.
 
 #### Compilation of Statistics Relating to Intimidation of Government Employees
 
-Pub. L. 104–132, title VIII, §808, Apr. 24, 1996, 110 Stat. 1310, which required Attorney General to collect data for the calendar year 1990 and each succeeding calendar year, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties, and to annually publish a summary of the data collected to be used only for research and statistical purposes, was repealed by Pub. L. 107–273, div. A, title III, §311(a), Nov. 2, 2002, 116 Stat. 1786.
+Pub. L. 104–132, title VIII, §808, Apr. 24, 1996, 110 Stat. 1310, which required Attorney General to collect data for the calendar year 1990 and each succeeding calendar year, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties, and to annuallypublish a summary of the data collected to be used only for research and statistical purposes, was repealed by Pub. L. 107–273, div. A, title III, §311(a), Nov. 2, 2002, 116 Stat. 1786.
 
 #### National Crime Information Center Project 2000
 
@@ -192,7 +242,7 @@ Pub. L. 101–515, title II, Nov. 5, 1990, 104 Stat. 2112, as amended by section
 
 #### Hate Crime Statistics
 
-Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322, title XXXII, §320926, Sept. 13, 1994, 108 Stat. 2131; Pub. L. 104–155, §7, July 3, 1996, 110 Stat.1394; Pub. L. 111–84, div. E, §4708, Oct. 28, 2009, 123 Stat. 2841, known as the Hate Crimes Statistics Act, consisting of sections 1 and 2, was editorially reclassified to Title 34, Crime Control and Law Enforcement. Section 1 was editorially reclassified as section 41305 of Title 34. Section 2 was editorially reclassified as a note under section 41305 of Title 34.
+Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, as amended by Pub. L. 103–322, title XXXII, §320926, Sept. 13, 1994, 108 Stat. 2131; Pub. L. 104–155, §7, July 3, 1996, 110 Stat. 1394; Pub. L. 111–84, div. E, §4708, Oct. 28, 2009, 123 Stat. 2841, known as the Hate Crimes Statistics Act, consisting of sections 1 and 2, was editorially reclassified to Title 34, Crime Control and Law Enforcement. Section 1 was editorially reclassified as section 41305 of Title 34. Section 2 was editorially reclassified as a note under section 41305 of Title 34.
 
 #### Uniform Federal Crime Reporting Act of 1988
 

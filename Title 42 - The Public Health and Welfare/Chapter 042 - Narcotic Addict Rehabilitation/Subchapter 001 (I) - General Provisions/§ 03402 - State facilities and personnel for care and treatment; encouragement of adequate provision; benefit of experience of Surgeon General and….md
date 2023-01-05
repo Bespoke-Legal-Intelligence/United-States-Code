@@ -8,7 +8,7 @@ The Surgeon General and the Attorney General are authorized to give representati
 
 #### Codification
 
-Section was not enacted as part of the Narcotic Addict Rehabilitation Act of 1966, which is classified to subchapters II and III of this chapter, chapter 314 (§4251 et seq.) of Title 18, Crimes and Criminal Procedure, and chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure.
+Section was not enacted as part of the Narcotic Addict Rehabilitation Act of 1966, which is classified tosubchapters II and III of this chapter, chapter 314 (§4251 et seq.) of Title 18, Crimes and Criminal Procedure, and chapter 175 (§2901 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

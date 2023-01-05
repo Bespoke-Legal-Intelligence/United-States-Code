@@ -12,7 +12,7 @@
 
 &emsp;(B) in the case of an officer who has accepted an accession bonus or executed a contract or agreement for the multiyear receipt of special pay for service in the armed forces, the period of obligated service specified in such contract or agreement.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 85–861, §§1(12), 36B(3), Sept. 2, 1958, 72 Stat. 1440, 1570; Pub. L. 89–718, §5, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 95–79, title VIII, §803(a), July 30, 1977, 91 Stat. 333; Pub. L. 96–107, title VIII, §805(b), Nov. 9, 1979, 93 Stat. 813; Pub. L. 96–513, title V, §511(18), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–94, title X, §1022(b)(1), Sept. 24, 1983, 97 Stat. 670; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title V, §505, Jan. 28, 2008, 122 Stat. 96; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(iv), Dec. 23, 2016, 130 Stat. 2418; Pub. L. 116–92, div. A, title XVII, §1731(a)(19), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title IX, §924(b)(17), Jan. 1, 2021, 134 Stat. 3823; Pub. L. 117–81, div. A, title X, §1081(a)(11), Dec. 27, 2021, 135 Stat. 1920.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 27; Pub. L. 85–861, §§1(12), 36B(3), Sept. 2, 1958, 72 Stat. 1440, 1570; Pub. L. 89–718, §5, Nov. 2, 1966, 80 Stat. 1115; Pub. L. 95–79, title VIII, §803(a), July 30, 1977, 91 Stat. 333; Pub. L. 96–107, title VIII, §805(b), Nov. 9, 1979, 93 Stat. 813; Pub. L. 96–513, title V, §511(18), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 98–94, title X, §1022(b)(1), Sept. 24, 1983, 97 Stat. 670; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 110–181, div. A, title V, §505, Jan. 28, 2008, 122 Stat. 96; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(iv), Dec. 23, 2016, 130 Stat. 2418; Pub. L. 116–92, div. A, title XVII, §1731(a)(19), Dec. 20, 2019, 133 Stat. 1813; Pub. L.116–283, div. A, title IX, §924(b)(17), Jan. 1, 2021, 134 Stat. 3823; Pub. L. 117–81, div. A, title X, §1081(a)(11), Dec. 27, 2021, 135 Stat. 1920.)
 
 Historical and Revision Notes<br>1956
 
@@ -76,7 +76,7 @@ Act
 
 Aug. 9, 1955, ch. 665, §3(a) (last sentence), 69 Stat. 603.
 
-In subsection (a), the word "male" is inserted, since the source statute applies only to male persons. Thewords "subsequent to the date of enactment of the Reserve Forces Act of 1955" are omitted as executed. The words "becomes a member" are substituted for the words "is inducted, enlisted, or appointed . . . in". The last sentence is substituted for the words "on active training and service . . . and in a reserve component". The requirement of transfer to and service in a reserve component, after active training and service is covered by subsection (b) of this section. The words "under any provision of law" and "including the reserve components thereof" are omitted as surplusage.
+In subsection (a), the word "male" is inserted, since the source statute applies only to male persons. The words "subsequent to the date of enactment of the Reserve Forces Act of 1955" are omitted as executed. The words "becomes a member" are substituted for the words "is inducted, enlisted, or appointed . . . in". The last sentence is substituted for the words "on active training and service . . . and in a reserve component". The requirement of transfer to and service in a reserve component, after active training and service is covered by subsection (b) of this section. The words "under any provision of law" and "including the reserve components thereof" are omitted as surplusage.
 
 #### <b>Editorial Notes</b>
 

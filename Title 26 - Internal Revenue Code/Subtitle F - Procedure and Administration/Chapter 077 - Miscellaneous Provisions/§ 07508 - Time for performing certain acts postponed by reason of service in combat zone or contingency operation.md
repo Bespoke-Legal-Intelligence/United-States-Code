@@ -110,13 +110,13 @@ Subsec. (e)(3). Pub. L. 114–113 added par. (3).
 
 <b>2003</b>—Pub. L. 108–121, §104(b)(2), inserted "or contingency operation" after "combat zone" in section catchline.
 
-Subsec. (a). Pub. L. 108–121, §104(a), in introductory provisions, inserted ", or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law" after "section 112", "or at any time during the period of such contingency operation" after "for purposes of such section", "or operation" after "such an area", and "or operation" after "such area".
+Subsec. (a). Pub. L. 108–121, §104(a), in introductory provisions, inserted ", or when deployed outside theUnited States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law" after "section 112", "or at any time during the period of such contingency operation" after "for purposes of such section", "or operation" after "such an area", and "or operation" after "such area".
 
 Subsec. (d). Pub. L. 108–121, §104(b)(1), inserted "or contingency operation" after "area".
 
 <b>2002</b>—Subsec. (a)(1)(K). Pub. L. 107–134 struck out "in regulations prescribed under this section" before "by the Secretary".
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–2, §1(c)(1), in introductory provisions, struck out "outside the United States"before "as a result of injury" and substituted "the period of continuous qualified hospitalization" for "the period of continuous hospitalization outside the United States".
+<b>1991</b>—Subsec. (a). Pub. L. 102–2, §1(c)(1), in introductory provisions, struck out "outside the United States" before "as a result of injury" and substituted "the period of continuous qualified hospitalization" for "the period of continuous hospitalization outside the United States".
 
 Subsec. (a)(2). Pub. L. 102–2, §1(b)(2), struck out "(including interest)" after "refund".
 
@@ -196,7 +196,7 @@ Office of Postmaster General of Post Office Department abolished and all functio
 
 Ex. Ord. No. 12750, Feb. 14, 1991, 56 F.R. 6785, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7508 of the Internal Revenue Code of 1986 (26 U.S.C. 7508), I hereby designate, for purposes of that section, the following locations, including the air space above such locations, as the Persian Gulf Desert Shield area in which any individual who performed Desert Shield services (including the spouse of such individual) is entitled to the benefits of section 7508 of the Internal Revenue Code of 1986:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 7508 of the Internal Revenue Code of 1986 (26 U.S.C. 7508), I hereby designate, for purposes of that section, the following locations, including the air space above such locations, as the Persian GulfDesert Shield area in which any individual who performed Desert Shield services (including the spouse of such individual) is entitled to the benefits of section 7508 of the Internal Revenue Code of 1986:
 
 —the Persian Gulf
 

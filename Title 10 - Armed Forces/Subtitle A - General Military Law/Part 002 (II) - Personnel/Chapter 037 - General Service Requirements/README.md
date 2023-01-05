@@ -88,7 +88,7 @@ Sec. 3. <i>Agency Roles and Responsibilities</i>. In furtherance of the policy d
 
 (iv) provide supplemental guidance to the Board for Correction of Military Records of the Coast Guard, instructing the Board on how to review applications for the correction of records of individuals described in subsection (c)(ii) of this section. Where appropriate, the Secretary of Homeland Security shall offer such individuals an opportunity to rejoin the Coast Guard should they wish to do so and meet the current entry standards.
 
-(d) The Secretary of Defense and the Secretary of Homeland Security shall report to me within 60 days ofthe date of this order \[Jan. 25, 2021\] on their progress in implementing the directives in this order and the policy described in section 1 of this order.
+(d) The Secretary of Defense and the Secretary of Homeland Security shall report to me within 60 days of the date of this order \[Jan. 25, 2021\] on their progress in implementing the directives in this order and the policy described in section 1 of this order.
 
 Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

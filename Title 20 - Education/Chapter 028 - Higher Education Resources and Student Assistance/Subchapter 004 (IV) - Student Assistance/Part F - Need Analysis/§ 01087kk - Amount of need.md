@@ -8,15 +8,15 @@ Except as otherwise provided therein, the amount of need of any student for fina
 
 &emsp;(3) estimated financial assistance not received under this subchapter (as defined in section 1087vv(j) of this title).
 
-(Pub. L. 89–329, title IV, §471, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 105–244, title IV, §480(a), Oct. 7, 1998, 112 Stat. 1732; Pub. L. 116–260, div. FF, title VII, §702(a)(1), Dec. 27, 2020, 134 Stat. 3138.)
+(Pub. L. 89–329, title IV, §471, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1454; amended Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 585; Pub. L. 105–244, title IV, §480(a), Oct. 7, 1998, 112 Stat. 1732; Pub. L. 116–260, div. FF, title VII, §702(a)(1), Dec. 27, 2020, 134 Stat. 3138; Pub. L. 117–103, div. R, §102(b)(2), Mar. 15, 2022, 136 Stat. 819.)
 
 #### Amendment of Section
 
-<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(a)(1), Dec. 27, 2020, 134 Stat. 3137, 3138, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
+<i>Pub. L. 116–260, div. FF, title VII, §§701(b), 702(a)(1), Dec. 27, 2020, 134 Stat. 3137, 3138; Pub. L. 117–103, div. R, §102(a), (b)(2), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:</i>
 
 #### §1087kk. Amount of need
 
-<i>Except as otherwise provided therein, for award year 2023–2024 and each subsequent award year, the amount of need of any student for financial assistance under this subchapter (except subpart 1 or 2 of part A) is equal to—</i>
+<i>Except as otherwise provided therein, for award year 2024–2025 and each subsequent award year, the amount of need of any student for financial assistance under this subchapter (except subpart 1 or 2 of part A) is equal to—</i>
 
 &emsp;<i>(1) the cost of attendance of such student, minus</i>
 
@@ -24,11 +24,13 @@ Except as otherwise provided therein, the amount of need of any student for fina
 
 &emsp;<i>(3) other financial assistance not received under this subchapter (as defined in section 1087vv(i) of this title).</i>
 
-<i>See 2020 Amendment note below.</i>
+<i>See 2020 and 2022 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2022</b>—Pub. L. 117–103 substituted "award year 2024–2025" for "award year 2023–2024" in introductory provisions.
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, text read as follows: "Except as otherwise provided therein, the amount of need of any student for financial assistance under this subchapter (except subparts 1 or 2 of part A of this subchapter) is equal to—
 
@@ -46,7 +48,7 @@ Except as otherwise provided therein, the amount of need of any student for fina
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1998 Amendment
 
@@ -74,7 +76,7 @@ Pub. L. 99–498, title IV, §406(b)(1)–(3), Oct. 17, 1986, 100 Stat. 1475, as
 
 &emsp;"(A) part F of title IV of the Act \[this part\] shall apply with respect to determinations of need under such title for academic years beginning with academic year 1988–1989 and succeeding academic years; and
 
-&emsp;"(B) for any preceding academic year, determinations of need shall be made in accordance with regulations prescribed by the Secretary of Education in accordance with the Student Financial Assistance Technical Amendments Act of 1982 \[Pub. L. 97–301, see Short Title of 1982 Amendment note set out under section 1001 of this title\].
+&emsp;"(B) for any preceding academic year, determinations of need shall be made in accordance with regulations prescribed by the Secretary of Education inaccordance with the Student Financial Assistance Technical Amendments Act of 1982 \[Pub. L. 97–301, see Short Title of 1982 Amendment note set out under section 1001 of this title\].
 
 "(2) With respect to an application filed after the date of enactment of this Act \[Oct. 17, 1986\] for a loan under part B of such title \[part B of this subchapter\] for any academic year preceding academic year 1988–1989, any determination of expected family contribution shall be made using the system of financial need analysis approved by the Secretary of Education for use under subpart 2 of part A and parts C and E of such title \[subpart 2 of part A of this subchapter and parts C and E of this subchapter\].
 
@@ -110,7 +112,7 @@ Required Subjects of Study.—In performing the study, the Advisory Committee sh
 
 &emsp;"(7) whether a widely disseminated printed form, or the use of an Internet or other electronic means, can be developed to notify individuals of an estimation of their approximate eligibility for grant, work-study, and loan assistance upon completion and verification of the simplified application form;
 
-&emsp;"(8) whether information provided on other Federal forms (such as the form applying for supplemental security income under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], the form for applying for food stamps under the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2011 etseq.\], and the schedule for applying for the earned income tax credit under section 32 of the Internal Revenue Code of 1986 \[26 U.S.C. 32\]) that are designed to determine eligibility for various Federal need-based assistance programs could be used to qualify potential students for the simplified needs test; and
+&emsp;"(8) whether information provided on other Federal forms (such as the form applying for supplemental security income under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\], the form for applying for food stamps under the Food Stamp Act of 1977 \[now the Food and Nutrition Act of 2008, 7 U.S.C. 2011 et seq.\], and the schedule for applying for the earned income tax credit under section 32 of the Internal Revenue Code of 1986 \[26 U.S.C. 32\]) that are designed to determine eligibility for various Federal need-based assistance programs could be used to qualify potential students for the simplified needs test; and
 
 &emsp;"(9) whether any proposed changes to data elements collected, in addition to those used to calculate expected family contribution, or any proposed changes to the form's design or the process of applying for aid, may have adverse effects on program costs, integrity, delivery, or distribution of awards, as well as, application development or application processing.
 
@@ -148,7 +150,7 @@ Interim report.—The Advisory Committee shall, not later than 6 months after th
 
 &emsp;"(2)
 
-Final report.—The Advisory Committee shall, not later than 1 year after the date of enactment of this Act, prepare and submit a full final report on the study, including recommendations for regulatory and administrative changes required by this section, to the Committee on Education and the Workforce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Secretary of Education.
+Final report.—The Advisory Committee shall, not later than 1 year after the date of enactment of this Act, prepare and submit a full final report on the study, including recommendations for regulatory and administrative changes required by this section, to the Committee on Education and the Workforce ofthe House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Secretary of Education.
 
 "(f)
 

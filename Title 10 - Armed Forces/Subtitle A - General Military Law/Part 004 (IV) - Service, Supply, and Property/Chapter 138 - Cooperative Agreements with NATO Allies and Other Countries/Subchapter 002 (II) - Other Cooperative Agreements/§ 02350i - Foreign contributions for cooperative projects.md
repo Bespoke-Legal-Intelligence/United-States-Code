@@ -26,7 +26,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(B) provides for—
 
-&emsp;&emsp;&emsp;(i) one or more participants (other than the United States) to share with the United States the cost of research and development, testing, evaluation, or joint production (including follow-on support) of defense articles;
+&emsp;&emsp;&emsp;(i) one or more participants (other than the United States) to share with the United States the cost of research and development, testing, evaluation, or jointproduction (including follow-on support) of defense articles;
 
 &emsp;&emsp;&emsp;(ii) the United States and another participant concurrently to produce in the United States and the country of such other participant a defense article jointly developed in a cooperative project described in clause (i); or
 

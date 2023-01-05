@@ -14,7 +14,7 @@ As used in this subchapter, the term—
 
 &emsp;(6) "recipient" means any grantee, contractee, or recipient of financial assistance described in clause (A) of section 2996e(a)(1) of this title;
 
-&emsp;(7) "staff attorney" means an attorney who receives more than one-half of his annual professional income from a recipient organizedsolely for the provision of legal assistance to eligible clients under this subchapter; and
+&emsp;(7) "staff attorney" means an attorney who receives more than one-half of his annual professional income from a recipient organized solely for the provision of legal assistance to eligible clients under this subchapter; and
 
 &emsp;(8) "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 

@@ -24,7 +24,7 @@ The Secretary shall establish a moratorium on the importation of raw and worked 
 
 &emsp;(5) imports raw or worked ivory that originates in an ivory producing country in violation of the laws of that ivory producing country;
 
-&emsp;(6) substantially increases its imports of raw or worked ivory from a country that is subject to a moratorium under this chapter during the first three months of that moratorium; or
+&emsp;(6) substantially increases its imports of raw or worked ivory from a country that is subjectto a moratorium under this chapter during the first three months of that moratorium; or
 
 &emsp;(7) imports raw or worked ivory from a country that is subject to a moratorium under this chapter after the first three months of that moratorium, unless the ivory is imported by vessel during the first six months of that moratorium and is accompanied by shipping documents which show that it was exported before the establishment of the moratorium.
 

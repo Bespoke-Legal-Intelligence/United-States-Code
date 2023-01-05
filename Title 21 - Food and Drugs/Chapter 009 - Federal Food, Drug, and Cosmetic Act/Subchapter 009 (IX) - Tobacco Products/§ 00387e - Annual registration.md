@@ -14,7 +14,7 @@ In this section:
 
 #### (b) Registration by owners and operators
 
-On or before December 31 of each year, every person who owns or operates any establishment in any State engaged in the manufacture, preparation, compounding, or processing of a tobacco product or tobacco products shall register with the Secretary the name, places of business, and all such establishments of that person. If enactment of the Family Smoking Prevention and Tobacco Control Act occurs in the second half of the calendar year, the Secretary shall designate a date no later than 6 months into the subsequent calendar year by which registration pursuant to this subsection shall occur.
+On or before December 31 of each year, every person who owns or operates any establishmentin any State engaged in the manufacture, preparation, compounding, or processing of a tobacco product or tobacco products shall register with the Secretary the name, places of business, and all such establishments of that person. If enactment of the Family Smoking Prevention and Tobacco Control Act occurs in the second half of the calendar year, the Secretary shall designate a date no later than 6 months into the subsequent calendar year by which registration pursuant to this subsection shall occur.
 
 #### (c) Registration by new owners and operators
 
@@ -50,7 +50,7 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 &emsp;&emsp;(B) in the case of any other tobacco product contained in an applicable list, a copy of all consumer information and other labeling for such tobacco product, a representative sampling of advertisements for such tobacco product, and, upon request made by the Secretary for good cause, a copy of all advertisements for a particular tobacco product; and
 
-&emsp;&emsp;(C) if the registrant filing a list has determined that a tobacco product contained insuch list is not subject to a tobacco product standard established under section 387g of this title, a brief statement of the basis upon which the registrant made such determination if the Secretary requests such a statement with respect to that particular tobacco product.
+&emsp;&emsp;(C) if the registrant filing a list has determined that a tobacco product contained in such list is not subject to a tobacco product standard established under section 387g of this title, a brief statement of the basis upon which the registrant made such determination if the Secretary requests such a statement with respect to that particular tobacco product.
 
 #### (2) Consultation with respect to forms
 

@@ -10,7 +10,7 @@
 
 #### (A) Special Envoy for Monitoring and Combating anti-Semitism
 
-&emsp;&emsp;The head of the Office shall be the Special Envoy for Monitoring and Combating anti-Semitism (in this section referred to as the "Special Envoy"), who shall be appointed by the President, by and with the advice and consent of the Senate. The Special Envoy shall report directly to the Secretary.
+&emsp;&emsp;The head of the Office shall be the Special Envoy for Monitoring and Combating anti-Semitism (in this section referred to as the "Special Envoy"), who shall be appointed by the President, by and with the advice andconsent of the Senate. The Special Envoy shall report directly to the Secretary.
 
 #### (B) Nomination of head of Office
 

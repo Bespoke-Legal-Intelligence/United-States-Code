@@ -22,7 +22,7 @@
 
 #### (b) Comptroller general report
 
-Not later than 3 years after December 4, 2015, the Comptroller General of the United States shall submit to Congress a report that describes—
+Not later than 3 years after December 4, 2015, the Comptroller General of the United Statesshall submit to Congress a report that describes—
 
 &emsp;(1) agency progress in making improvements consistent with the best practices issued under section 4370m–1(c)(2)(B) of this title; and
 

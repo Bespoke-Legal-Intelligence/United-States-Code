@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of State and the Administrator of the United States Agency for International Development are authorized to prioritize and advance ongoing efforts to support programs that—
+The Secretary of State and the Administrator of the United States Agency for InternationalDevelopment are authorized to prioritize and advance ongoing efforts to support programs that—
 
 &emsp;(1) provide safe primary and secondary education for displaced children;
 

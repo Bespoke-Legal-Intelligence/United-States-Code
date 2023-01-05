@@ -4,21 +4,25 @@ Any person who embezzles, steals, or unlawfully and willfully abstracts or conve
 
 As used in this section, the term "any employee welfare benefit plan or employee pension benefit plan" means any employee benefit plan subject to any provision of title I of the Employee Retirement Income Security Act of 1974.
 
-(Added Pub. L. 87–420, §17(a), Mar. 20, 1962, 76 Stat. 41; amended Pub. L. 93–406, title I, §111(a)(2)(A), Sept. 2, 1974, 88 Stat. 851; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 87–420, §17(a), Mar. 20, 1962, 76 Stat. 41; amended Pub. L. 93–406, title I, §112(a)(2)(A), formerly §111(a)(2)(A), Sept. 2, 1974, 88 Stat. 851, renumbered §112(a)(2)(A), Pub. L. 117–328, div. T, title III, §320(a)(1), Dec. 29, 2022,136 Stat. 5354; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter I (§1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 
-<b>1974</b>—Pub. L. 93–406 substituted "any employee benefit plan subject to any provision of title I of the Employee Retirement Income Security Act of 1974" for "any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act".
+<b>1974</b>—Pub. L. 93–406, §112(a)(2)(A), formerly §111(a)(2)(A), as renumbered by Pub. L. 117–328, substituted "any employee benefit plan subject to any provision of title I of the Employee Retirement Income Security Act of 1974" for "any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2022 Amendment
+
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 320(c) of Pub. L. 117–328, set out as a note under section 414 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1974 Amendment
 

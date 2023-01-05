@@ -6,7 +6,7 @@ It shall be unlawful for any person, by use of the mails or any means or instrum
 
 #### (b) Prohibition on use of means of interstate commerce for sale of voting-trust certificates
 
-It shall be unlawful for any registered investment company or affiliated person thereof, any issuer of a voting-trust certificate relating to any security of a registered investment company, or any underwriter of such a certificate, by use of the mails or any means or instrumentality of interstate commerce, or otherwise, to offer for sale, sell, or deliver after sale, in connection with a public offering, any such voting-trust certificate.
+It shall be unlawful for any registered investment company or affiliated person thereof, anyissuer of a voting-trust certificate relating to any security of a registered investment company, or any underwriter of such a certificate, by use of the mails or any means or instrumentality of interstate commerce, or otherwise, to offer for sale, sell, or deliver after sale, in connection with a public offering, any such voting-trust certificate.
 
 #### (c) Prohibition on purchase of securities knowingly resulting in cross-ownership or circular ownership
 
@@ -34,5 +34,5 @@ Subsec. (d). Pub. L. 100–181, §614(2), (3), struck out first sentence "If on 
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

@@ -48,5 +48,5 @@ According to the forms or regulations prescribed by the Secretary, every person 
 
 #### Effective Date
 
-Pub. L. 108–357, title VIII, §805(d), Oct. 22, 2004, 118 Stat. 1574, provided that: "The amendments made bythis section \[enacting this section and amending section 6724 of this title\] shall apply to acquisitions after the date of the enactment of this Act \[Oct. 22, 2004\]."
+Pub. L. 108–357, title VIII, §805(d), Oct. 22, 2004, 118 Stat. 1574, provided that: "The amendments made by this section \[enacting this section and amending section 6724 of this title\] shall apply to acquisitions after the date of the enactment of this Act \[Oct. 22, 2004\]."
 

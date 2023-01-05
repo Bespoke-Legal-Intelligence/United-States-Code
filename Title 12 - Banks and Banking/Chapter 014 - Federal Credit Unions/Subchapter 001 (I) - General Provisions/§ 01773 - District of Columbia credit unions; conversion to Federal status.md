@@ -22,5 +22,5 @@ Section was not enacted as part of the Federal Credit Union Act which comprises 
 
 #### Repeals; Revocation of Organization Certificates Issued Under District of Columbia Credit Unions Act
 
-Pub. L. 88–395, §4, Aug. 1, 1964, 78 Stat. 377, provided that: "Effective thirty days after enactment of this Act\[Aug. 1, 1964\], the District of Columbia Credit Unions Act (47 Stat. 326), as amended, is repealed and all organization certificates issued thereunder and still in force are revoked."
+Pub. L. 88–395, §4, Aug. 1, 1964, 78 Stat. 377, provided that: "Effective thirty days after enactment of this Act \[Aug. 1, 1964\], the District of Columbia Credit Unions Act (47 Stat. 326), as amended, is repealed and all organization certificates issued thereunder and still in force are revoked."
 

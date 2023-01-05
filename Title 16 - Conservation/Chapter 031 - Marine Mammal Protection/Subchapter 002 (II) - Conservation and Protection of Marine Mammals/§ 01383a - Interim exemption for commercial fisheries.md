@@ -22,7 +22,7 @@
 
 &emsp;(C) at least once each year thereafter, and at such other times as the Secretary considers appropriate, reexamine, based on information gathered from the program established under subsections (c), (d), (e), and (f), and other relevant sources and after notice and opportunity for public comment, the classification of fisheries and other determinations required under subparagraph (A) and publish in the Federal Register any necessary changes.
 
-(2)(A) An exemption shall be granted by the Secretary in accordance with this section for avessel engaged in a fishery identified under paragraph (1)(A)(i) or (ii), upon receipt by the Secretary of a completed registration form providing the name of the vessel owner, the name and description of the vessel, the fisheries in which it will be engaged, and such other information as the Secretary considers necessary. A decal or other physical evidence that the exemption is current and valid shall be issued by the Secretary at the time an exemption is granted, and so long as the exemption remains current and valid, shall be reissued annually thereafter.
+(2)(A) An exemption shall be granted by the Secretary in accordance with this section for a vessel engaged in a fishery identified under paragraph (1)(A)(i) or (ii), upon receipt by the Secretary of a completed registration form providing the name of the vessel owner, the name and description of the vessel, the fisheries in which it will be engaged, and such other information as the Secretary considers necessary. A decal or other physical evidence that the exemption is current and valid shall be issued by the Secretary at the time an exemption is granted, and so long as the exemption remains current and valid, shall be reissued annually thereafter.
 
 (B) No exemption may be granted under this section to the owner of a vessel unless such vessel—
 
@@ -36,7 +36,7 @@
 
 &emsp;(i) have registered with the Secretary in order to obtain for each such vessel owned an exemption for the purpose of incidentally taking marine mammals in accordance with this section;
 
-&emsp;(ii) ensure that a decal or such other physical evidence of a current and valid exemption as the Secretary may require is displayed on or is in the possession of the master of each such vessel; and
+&emsp;(ii) ensure that a decal or such other physical evidence of a current and valid exemptionas the Secretary may require is displayed on or is in the possession of the master of each such vessel; and
 
 &emsp;(iii) report as required by subsection (c).
 
@@ -72,7 +72,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(2) the date and approximate time of any incidental taking of a marine mammal, together with the area in which the incidental taking occurred, the fishing gear used at the time of the incidental taking, and the species of fish involved; and
 
-&emsp;(3) for each incidental taking, the number and species of marine mammals involved,whether the marine mammals were deterred from gear or catch, incidentally injured, incidentally killed, or lethally removed to protect gear, catch, or human life.
+&emsp;(3) for each incidental taking, the number and species of marine mammals involved, whether the marine mammals were deterred from gear or catch, incidentally injured, incidentally killed, or lethally removed to protect gear, catch, or human life.
 
 > If there was no incidental taking of marine mammals during the reporting period, a report stating that fact shall be filed with the Secretary.
 
@@ -92,7 +92,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 #### (e) Observers on board exempted vessels; confidentiality of information; authorization of appropriations
 
-(1) For each fishery identified under subsection (b)(1)(A)(i) of this section, the Secretary shall, after consultation with the appropriate Regional Fishery Management Councils, other Federal and State agencies, and other interested parties, and subject to paragraph (6), place observers on board exempted vessels so as to monitor not less than 20 percent nor more than 35 percent of the fishing operations by vessels in the fishery to obtain statistically reliable information on the species and number of marine mammals incidentally taken in the fishery. If the Secretary determines that fewer than 20 percent of the fishing operations by vessels in the fishery will be monitored during the course of the fishing season, the Secretary shall implement the alternative observation program described in subsection (f) to the extent necessary to supplement the observer program described in this subsection.
+(1) For each fishery identified under subsection (b)(1)(A)(i) of this section, the Secretary shall, after consultation with the appropriate Regional Fishery Management Councils, otherFederal and State agencies, and other interested parties, and subject to paragraph (6), place observers on board exempted vessels so as to monitor not less than 20 percent nor more than 35 percent of the fishing operations by vessels in the fishery to obtain statistically reliable information on the species and number of marine mammals incidentally taken in the fishery. If the Secretary determines that fewer than 20 percent of the fishing operations by vessels in the fishery will be monitored during the course of the fishing season, the Secretary shall implement the alternative observation program described in subsection (f) to the extent necessary to supplement the observer program described in this subsection.
 
 (2) When determining the distribution of observers among fisheries and between vessels in a particular fishery, the Secretary shall be guided by the following standards:
 
@@ -128,7 +128,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(C) for reasons beyond the control of the Secretary, an observer is not available.
 
-(7)(A) An observer on a vessel (or the observer's personal representative) under the requirements of this section or section 1374 of this titlethat is ill, disabled, injured, or killed from service as an observer on that vessel may not bring a civil action under any law of the United States for that illness, disability, injury, or death against the vessel or vessel owner, except that a civil action may be brought against the vessel owner for the owner's willful misconduct.
+(7)(A) An observer on a vessel (or the observer's personal representative) under the requirements of this section or section 1374 of this title that is ill, disabled, injured, or killed from service as an observer on that vessel may not bring a civil action under any law of the United States for that illness, disability, injury, or death against the vessel or vessel owner, except that a civil action may be brought against the vessel owner for the owner's willful misconduct.
 
 (B) This paragraph does not apply if the observer is engaged by the owner, master, or individual in charge of a vessel to perform any duties in service to the vessel.
 
@@ -188,7 +188,7 @@ When carrying out the Secretary's responsibilities under subsections (b), (d), (
 
 #### (k) Regulations
 
-The Secretary, in consultation with any other Federal agency to the extent that such agency may be affected, shall prescribe such regulations as necessary and appropriate to carry out the purposes of this section.
+The Secretary, in consultation with any other Federal agency to the extent that such agency may be affected, shall prescribe such regulationsas necessary and appropriate to carry out the purposes of this section.
 
 #### (l) Suggested regime governing incidental taking of marine mammals following termination of interim exemptions
 
@@ -232,7 +232,7 @@ The Secretary shall consult with the Secretary of the Interior prior to taking a
 
 #### (n) Owner of fixed commercial fishing gear deemed owner of vessel engaged in fishery in which gear deployed
 
-For the purposes of this section, the owner of fixed or other commercial fishing gear that isdeployed with or without the use of a vessel shall be deemed to be an owner of a vessel engaged in the fishery in which that gear is deployed.
+For the purposes of this section, the owner of fixed or other commercial fishing gear that is deployed with or without the use of a vessel shall be deemed to be an owner of a vessel engaged in the fishery in which that gear is deployed.
 
 #### (o) Definitions
 
@@ -252,7 +252,7 @@ As used in this section—
 
 #### References in Text
 
-Section 1802 of this title, referred to in subsec. (o)(1), (4), was subsequently amended, and section 1802(8) and (27) no longer defines the terms "fishery" and "vessel of the United States". However, such terms are defined elsewhere in that section.
+Section 1802 of this title, referred to in subsec. (o)(1), (4), was subsequently amended, and section 1802(8) and\(27) no longer defines the terms "fishery" and "vessel of the United States". However, such terms are defined elsewhere in that section.
 
 #### Amendments
 

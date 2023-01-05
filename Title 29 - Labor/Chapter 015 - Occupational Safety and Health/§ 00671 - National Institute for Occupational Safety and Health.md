@@ -18,7 +18,7 @@ The Institute is authorized to—
 
 #### (d) Authority of Director
 
-Upon his own initiative, or upon the request of the Secretary or the Secretary of Health andHuman Services, the Director is authorized (1) to conduct such research and experimental programs as he determines are necessary for the development of criteria for new and improved occupational safety and health standards, and (2) after consideration of the results of such research and experimental programs make recommendations concerning new or improved occupational safety and health standards. Any occupational safety and health standard recommended pursuant to this section shall immediately be forwarded to the Secretary of Labor, and to the Secretary of Health and Human Services.
+Upon his own initiative, or upon the request of the Secretary or the Secretary of Health and Human Services, the Director is authorized (1) to conduct such research and experimental programs as he determines are necessary for the development of criteria for new and improved occupational safety and health standards, and (2) after consideration of the results of such research and experimental programs make recommendations concerning new or improved occupational safety and health standards. Any occupational safety and health standard recommended pursuant to this section shall immediately be forwarded to the Secretary of Labor, and to the Secretary of Health and Human Services.
 
 #### (e) Additional authority of Director
 
@@ -118,7 +118,7 @@ The Director shall submit to the Secretary of Health and Human Services, to the 
 
 &emsp;There is authorized to be appropriated, such sums as may be necessary to enable the Institute and the Office of Mine Safety and Health to carry out this subsection.
 
-(Pub. L. 91–596, §22, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–550, title X, §1033, Oct. 28, 1992, 106 Stat. 3924; Pub. L. 109–236, §6(a), June 15, 2006, 120 Stat. 498.)
+(Pub. L. 91–596, §22, Dec. 29, 1970, 84 Stat. 1612; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–550, title X, §1033, Oct. 28,1992, 106 Stat. 3924; Pub. L. 109–236, §6(a), June 15, 2006, 120 Stat. 498.)
 
 #### <b>Editorial Notes</b>
 

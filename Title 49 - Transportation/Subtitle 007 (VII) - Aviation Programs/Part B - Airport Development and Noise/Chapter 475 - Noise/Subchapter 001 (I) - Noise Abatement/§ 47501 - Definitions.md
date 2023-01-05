@@ -68,7 +68,7 @@ National Capital Region.—In this section, the term 'National Capital Region' h
 
 #### Addressing Community Noise Concerns
 
-Pub. L. 115–254, div. B, title I, §175, Oct. 5, 2018, 132 Stat. 3228, provided that: "When proposing a new area navigation departure procedure, or amending an existing procedure that would direct aircraft between the surface and 6,000 feet above ground level over noise sensitive areas, the Administrator of the Federal AviationAdministration shall consider the feasibility of dispersal headings or other lateral track variations to address community noise concerns, if—
+Pub. L. 115–254, div. B, title I, §175, Oct. 5, 2018, 132 Stat. 3228, provided that: "When proposing a new area navigation departure procedure, or amending an existing procedure that would direct aircraft between the surface and 6,000 feet above ground level over noise sensitive areas, the Administrator of the Federal Aviation Administration shall consider the feasibility of dispersal headings or other lateral track variations to address community noise concerns, if—
 
 &emsp;"(1) the affected airport operator, in consultation with the affected community, submits a request to the Administrator for such a consideration;
 
